@@ -1,3 +1,8 @@
+Vorwort zum Fork:
+Ich finde das Original-Projekt super und habe es deshalb geforkt. Da das Original-Repository offenbar nicht mehr aktiv gepflegt wird, habe ich einen Automatisierungsprozess aufgesetzt: Dieses Repository wird nun regelmäßig mit den neuesten Daten von gesetze-im-internet.de befüllt. **Ich übernehme keine Gewähr für die Aktualität und Korrektheit der Informationen**. Solltet ihr Fehler entdecken, erstellt gerne ein Issue!
+
+Zusätzlich könnt ihr den MCP unter https://gesetze-im-internet-mcp.de nutzen. Auch hier gilt: **Die Nutzung erfolgt auf eigene Gefahr**. 
+
 Deutsche Bundesgesetze und -verordnungen
 ========================================
 
