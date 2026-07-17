@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert
-  von 10 Euro (Gedenkmünze „150. Geburtstag Gerhart Hauptmann“)
+Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze „150. Geburtstag Gerhart Hauptmann“)
 jurabk: Münz10EuroBek 2012-11-19
 layout: default
 origslug: m_nz10eurobek_2012-11-19
@@ -24,8 +23,8 @@ I S. 2402) hat die Bundesregierung beschlossen, zum Thema „150.
 Geburtstag Gerhart Hauptmann“ eine deutsche Euro-Gedenkmünze im
 Nennwert von 10 Euro prägen zu lassen.
 
-Die Auflage der Münze beträgt ca. 1 700 000 Stück, davon ca. 200 000
-Stück in Spiegelglanzqualität. Die Prägung erfolgt durch die
+Die Auflage der Münze beträgt ca. 1 700 000 Stück, davon ca. 200
+000 Stück in Spiegelglanzqualität. Die Prägung erfolgt durch die
 Hamburgische Münze (Prägezeichen J).
 
 Die Münze wird ab dem 8. November 2012 in den Verkehr gebracht. Die
@@ -49,8 +48,8 @@ Angabe „SILBER 625“ aufgeprägt.
 
 Der glatte Münzrand enthält in vertiefter Prägung die Inschrift:
 
-„*              A JEDER MENSCH
-HAT HALT `NE SEHNSUCHT*             “.
+„✰ A JEDER MENSCH
+HAT HALT `NE SEHNSUCHT ✰“.
 
 Der Entwurf stammt von dem Künstler Jordi Truxa aus Berlin.
 
@@ -63,12 +62,4 @@ Der Bundesminister der Finanzen
 ## (XXXX)
 
 (Fundstelle: BGBl. I 2012, 2460)
-
-
-*    *        ![bgbl1_2012_j2460-1_0010.jpg](bgbl1_2012_j2460-1_0010.jpg)
-    *        ![bgbl1_2012_j2460-1_0020.jpg](bgbl1_2012_j2460-1_0020.jpg)
-
-*    *        ![bgbl1_2012_j2460-1_0030.jpg](bgbl1_2012_j2460-1_0030.jpg)
-    *        ![bgbl1_2012_j2460-1_0040.jpg](bgbl1_2012_j2460-1_0040.jpg)
-
 

@@ -22,7 +22,6 @@ Zuletzt geändert durch
 ## Erster Abschnitt - Schutzbereiche
 
 
-
 ### § 1
 
 (1) Ein Schutzbereich ist ein Gebiet, in dem die Benutzung von
@@ -36,14 +35,14 @@ ist.
 (2) Der Schutzbereich dient zum Schutz und zur Erhaltung der
 Wirksamkeit von Verteidigungsanlagen.
 
-(3) Soll ein Gebiet zum Schutzbereich erklärt werden, so ist die
-Landesregierung zu hören, die nach Anhörung der betroffenen Gemeinde
-(Gemeindeverband) unter angemessener Berücksichtigung der
-Erfordernisse der Raumordnung, insbesondere der Interessen des
-Städtebaus und des Naturschutzes und der Landschaftspflege sowie der
-landwirtschaftlichen und wirtschaftlichen Interessen zu dem Vorhaben
-Stellung nimmt. Will der Bundesverteidigungsminister von dieser
-Stellungnahme abweichen, so unterrichtet er die betreffende
+(3) Soll ein Gebiet zum Schutzbereich erklärt werden, so ist
+die Landesregierung zu hören, die nach Anhörung der betroffenen
+Gemeinde (Gemeindeverband) unter angemessener Berücksichtigung
+der Erfordernisse der Raumordnung, insbesondere der Interessen des
+Städtebaus und des Naturschutzes und der Landschaftspflege sowie
+der landwirtschaftlichen und wirtschaftlichen Interessen zu dem
+Vorhaben Stellung nimmt. Will der Bundesverteidigungsminister von
+dieser Stellungnahme abweichen, so unterrichtet er die betreffende
 Landesregierung vor seiner Entscheidung.
 
 (4) Ein Gebiet darf zum Schutzbereich nur erklärt werden, wenn der mit
@@ -54,18 +53,18 @@ kann.
 
 ### § 2
 
-(1) Ein Gebiet wird zum Schutzbereich durch Anordnung erklärt. Sie muß
-einen Plan über den Umfang des Schutzbereichs enthalten. Sie ist den
-Eigentümern von Grundstücken im Schutzbereich und den anderen zum
-Gebrauch oder zur Nutzung dieser Grundstücke Berechtigten (andere
-Berechtigte) sowie den dinglich Berechtigten, soweit sie der
+(1) Ein Gebiet wird zum Schutzbereich durch Anordnung erklärt.
+Sie muß einen Plan über den Umfang des Schutzbereichs enthalten.
+Sie ist den Eigentümern von Grundstücken im Schutzbereich und den
+anderen zum Gebrauch oder zur Nutzung dieser Grundstücke Berechtigten
+(andere Berechtigte) sowie den dinglich Berechtigten, soweit sie der
 zuständigen Behörde bekannt oder aus dem Grundbuch ersichtlich sind,
 bekanntzugeben oder in ortsüblicher Weise öffentlich bekanntzumachen.
 Der Plan über den Umfang des Schutzbereichs ist den Beteiligten nur,
 soweit sie davon betroffen sind, bekanntzugeben.
 
-(2) Die Anordnung ist auf das unerläßliche Maß zu beschränken. Sie ist
-so zu gestalten und durchzuführen, daß keinem der Beteiligten
+(2) Die Anordnung ist auf das unerläßliche Maß zu beschränken. Sie
+ist so zu gestalten und durchzuführen, daß keinem der Beteiligten
 vermeidbare Nachteile entstehen. Der Lebensbedarf der Beteiligten muß
 gewährleistet bleiben. Kulturgut darf nicht gefährdet werden.
 
@@ -92,14 +91,10 @@ Beteiligten bekanntzugeben.
 1.  bauliche oder andere Anlagen oder Vorrichtungen über oder unter der
     Erdoberfläche errichten, ändern oder beseitigen,
 
-
 2.  Inseln, Küsten und Gewässer verändern,
-
 
 3.  in anderer Weise die Bodengestaltung und Bodenbenutzung außer der
     landwirtschaftlichen Nutzung verändern
-
-
 
 will, bedarf hierzu der Genehmigung. Die Genehmigung darf nur versagt
 werden, soweit es zur Erreichung der Zwecke des Schutzbereichs
@@ -125,27 +120,23 @@ es zur Erreichung der Zwecke des Schutzbereichs dringend erforderlich
 ist, die Benutzung oder der Gemeingebrauch ausgeschlossen oder
 eingeschränkt werden.
 
-(2) Es ist verboten, ein als Schutzbereich gekennzeichnetes Gebiet
-oder seine Anlagen ganz oder teilweise ohne Genehmigung zu
-fotografieren oder Zeichnungen, Skizzen oder andere bildliche
+(2) Es ist verboten, ein als Schutzbereich gekennzeichnetes
+Gebiet oder seine Anlagen ganz oder teilweise ohne Genehmigung
+zu fotografieren oder Zeichnungen, Skizzen oder andere bildliche
 Darstellungen davon anzufertigen.
 
 
 ### § 6
 
 (1) Soweit es zur Erreichung der Zwecke des Schutzbereichs
-erforderlich ist, haben die Eigentümer von Grundstücken innerhalb des
-Schutzbereichs und die anderen Berechtigten auf Verlangen der
+erforderlich ist, haben die Eigentümer von Grundstücken innerhalb
+des Schutzbereichs und die anderen Berechtigten auf Verlangen der
 zuständigen Behörde zu dulden, daß
 
 1.  bauliche und andere Anlagen errichtet, unterhalten oder beseitigt
     werden,
 
-
 2.  Wald oder anderer Aufwuchs angepflanzt oder beseitigt wird.
-
-
-
 
 (2) Bei Beseitigung oder Räumung von Wohnungen ist den Bewohnern eine
 angemessene Räumungsfrist zu gewähren. Die ausreichende anderweitige
@@ -154,8 +145,8 @@ Unterbringung muß gesichert sein.
 
 ### § 7
 
-Bei den Maßnahmen, die nach diesem Gesetz zulässig sind, muß die
-Unterhaltung und der Betrieb der Verkehrs-, Nachrichten- und
+Bei den Maßnahmen, die nach diesem Gesetz zulässig sind, muß
+die Unterhaltung und der Betrieb der Verkehrs-, Nachrichten- und
 Versorgungsanlagen sowie der Anlagen der Abwasserwirtschaft, der
 Wasser- und Bodenwirtschaft und des Bergbaus gesichert bleiben. Auf
 Einrichtungen und Anstalten, die mildtätigen, gemeinnützigen oder
@@ -172,14 +163,13 @@ zuständigen Behörde den ursprünglichen Zustand wiederherstellen.
 ## Zweiter Abschnitt - Schutzbereichbehörden
 
 
-
 ### § 9
 
 (1) Der Bundesminister für Verteidigung erklärt die Gebiete zu
 Schutzbereichen.
 
-(2) Die übrigen innerhalb der Schutzbereiche notwendigen und nach
-diesem Gesetz zulässigen Maßnahmen werden von den
+(2) Die übrigen innerhalb der Schutzbereiche notwendigen
+und nach diesem Gesetz zulässigen Maßnahmen werden von den
 Schutzbereichbehörden getroffen und überwacht.
 
 (3) Schutzbereichbehörde ist das Bundesamt für Infrastruktur,
@@ -190,8 +180,8 @@ unteren Behörden der Bundeswehrverwaltung übertragen.
 
 ### § 10
 
-Die Beauftragten der Schutzbereichbehörden sind befugt, Grundstücke zu
-betreten, die zum Schutzbereich gehören oder für die Erklärung zum
+Die Beauftragten der Schutzbereichbehörden sind befugt, Grundstücke
+zu betreten, die zum Schutzbereich gehören oder für die Erklärung zum
 Schutzbereich in Betracht kommen. Wohnungen dürfen nur in dringenden
 Fällen betreten werden, wenn der erstrebte Erfolg auf andere Weise
 nicht erreicht werden kann.
@@ -207,14 +197,13 @@ Gesetz zulässigen Maßnahmen nötig sind.
 ## Dritter Abschnitt - Entschädigung
 
 
-
 ### § 12
 
 (1) Entstehen durch die Einwirkungen nach diesem Gesetz dem Eigentümer
-oder einem anderen Berechtigten Vermögensnachteile, so ist dafür eine
-angemessene Entschädigung in Geld zu leisten. Hierbei ist die
-entzogene Nutzung, die Beschädigung oder Zerstörung einer Sache unter
-gerechter Abwägung der Interessen der Allgemeinheit und der
+oder einem anderen Berechtigten Vermögensnachteile, so ist dafür
+eine angemessene Entschädigung in Geld zu leisten. Hierbei ist die
+entzogene Nutzung, die Beschädigung oder Zerstörung einer Sache
+unter gerechter Abwägung der Interessen der Allgemeinheit und der
 Beteiligten zu berücksichtigen. Für entgangenen Gewinn und für
 sonstige Vermögensnachteile, die nicht in unmittelbarem Zusammenhang
 mit dem Entzug der Nutzung an einem im Schutzbereich gelegenen
@@ -224,8 +213,8 @@ Ausgleich unbilliger Härten geboten erscheint.
 
 (2) Dinglich Berechtigte, die durch die Einwirkung in ihren Rechten
 betroffen werden, sind, soweit sie nicht als andere Berechtigte
-bereits nach Absatz 1 entschädigt werden, nach Maßgabe der Artikel 52
-und 53 des Einführungsgesetzes zum Bürgerlichen Gesetzbuch auf die
+bereits nach Absatz 1 entschädigt werden, nach Maßgabe der Artikel
+52 und 53 des Einführungsgesetzes zum Bürgerlichen Gesetzbuch auf die
 Entschädigung des Eigentümers angewiesen.
 
 
@@ -252,14 +241,14 @@ Regel vierteljährlich nachträglich zu zahlen.
 
 ### § 15
 
-(1) Wird dem Eigentümer durch eine Einwirkung nach diesem Gesetz die
-wirtschaftliche Nutzung des Grundstücks nicht nur vorübergehend
+(1) Wird dem Eigentümer durch eine Einwirkung nach diesem Gesetz
+die wirtschaftliche Nutzung des Grundstücks nicht nur vorübergehend
 unzumutbar erschwert, so kann er die Entziehung des Eigentums am
-Grundstück verlangen. Treffen diese Voraussetzungen nur auf einen Teil
-des Grundstücks zu, so beschränkt sich das Recht, die Entziehung des
-Eigentums zu verlangen, auf diesen Teil, es sei denn, daß der übrige
-Teil für ihn keinen oder nur einen verhältnismäßig geringen Wert
-hätte.
+Grundstück verlangen. Treffen diese Voraussetzungen nur auf einen
+Teil des Grundstücks zu, so beschränkt sich das Recht, die Entziehung
+des Eigentums zu verlangen, auf diesen Teil, es sei denn, daß der
+übrige Teil für ihn keinen oder nur einen verhältnismäßig geringen
+Wert hätte.
 
 (2) Andere Berechtigte, denen die Ausübung ihres Rechtes nicht nur
 vorübergehend unzumutbar erschwert wird, können die Entziehung des
@@ -270,15 +259,14 @@ Rechtes beantragen.
 
 (1) Zahlungspflichtig ist der Bund.
 
-(2) Ist ein Schutzbereich auf Grund der Verpflichtungen des Bundes aus
-zwischenstaatlichen Verträgen über die Stationierung und die
+(2) Ist ein Schutzbereich auf Grund der Verpflichtungen des Bundes
+aus zwischenstaatlichen Verträgen über die Stationierung und die
 Rechtsstellung von Streitkräften auswärtiger Staaten im Bundesgebiet
 errichtet, so richtet sich die Zahlungspflicht nach diesen Verträgen
 unbeschadet § 25 Abs. 4.
 
 
 ## Vierter Abschnitt - Festsetzung der Entschädigung
-
 
 
 ### § 17
@@ -318,14 +306,14 @@ ist den Beteiligten zuzustellen.
 ### § 20
 
 (1) Die Urkunde über die Einigung nach § 18 Abs. 3 ist nach Zustellung
-an die Beteiligten vollstreckbar. Der Festsetzungsbescheid nach § 19
-Abs. 2 ist den Beteiligten gegenüber vollstreckbar, wenn er für sie
-unanfechtbar geworden ist oder das Gericht ihn für vorläufig
+an die Beteiligten vollstreckbar. Der Festsetzungsbescheid nach §
+19 Abs. 2 ist den Beteiligten gegenüber vollstreckbar, wenn er für
+sie unanfechtbar geworden ist oder das Gericht ihn für vorläufig
 vollstreckbar erklärt hat.
 
-(2) Die Zwangsvollstreckung richtet sich nach den Vorschriften der
-Zivilprozeßordnung über die Vollstreckung von Urteilen in bürgerlichen
-Rechtsstreitigkeiten. Die vollstreckbare Ausfertigung des
+(2) Die Zwangsvollstreckung richtet sich nach den Vorschriften
+der Zivilprozeßordnung über die Vollstreckung von Urteilen in
+bürgerlichen Rechtsstreitigkeiten. Die vollstreckbare Ausfertigung des
 Festsetzungsbescheids wird vom Urkundsbeamten der Geschäftsstelle des
 Amtsgerichts erteilt, in dessen Bezirk das zum Schutzbereich erklärte
 Grundstück liegt, und, wenn das Verfahren bei einem Gericht anhängig
@@ -339,12 +327,12 @@ Grundstück liegt, an die Stelle des Prozeßgerichts.
 
 (1) Wird die Entschädigung auf Grund dieses Gesetzes nicht innerhalb
 eines Monats nach Einigung (§ 18) oder Festsetzung (§ 19), bei
-wiederkehrenden Leistungen nicht innerhalb eines Monats nach der sich
-aus der Einigung oder Festsetzung ergebenden Fälligkeit gezahlt, so
-ist sie von diesem Zeitpunkt an mit zwei vom Hundert über dem
-jeweiligen Basiszinssatz nach § 247 des Bürgerlichen Gesetzbuchs zu
-verzinsen. Das gilt nicht, soweit den Entschädigungsberechtigten ein
-Verschulden an der Verzögerung der Zahlung trifft. Soweit der
+wiederkehrenden Leistungen nicht innerhalb eines Monats nach der
+sich aus der Einigung oder Festsetzung ergebenden Fälligkeit gezahlt,
+so ist sie von diesem Zeitpunkt an mit zwei vom Hundert über dem
+jeweiligen Basiszinssatz nach § 247 des Bürgerlichen Gesetzbuchs
+zu verzinsen. Das gilt nicht, soweit den Entschädigungsberechtigten
+ein Verschulden an der Verzögerung der Zahlung trifft. Soweit der
 Entschädigungsberechtigte auf die Entschädigung Vorauszahlungen
 erhalten hat, entfällt die Verpflichtung zur Verzinsung.
 
@@ -375,13 +363,11 @@ Anspruch entsteht. §§ 202 bis 225 des Bürgerlichen Gesetzbuchs gelten
 sinngemäß; der Klageerhebung (§ 209 des Bürgerlichen Gesetzbuchs)
 steht die Stellung des Antrags bei der Festsetzungsbehörde gleich.
 
-(2) Die Vorschriften über den Verlust von Ansprüchen
-nach Artikel 8 Abs. 6 des Finanzvertrags              bleiben
-unberührt.
+(2) Die Vorschriften über den Verlust von Ansprüchen *nach Artikel 8
+Abs. 6 des Finanzvertrags* bleiben unberührt.
 
 
 ## Fünfter Abschnitt - Rechtsmittel
-
 
 
 ### § 24
@@ -406,8 +392,8 @@ Beschwerdeentscheidung Klage erheben.
 Beschwerde innerhalb einer Frist von sechs Monaten eine Entscheidung
 nicht getroffen hat.
 
-(3) Für die Klage ist das Landgericht ohne Rücksicht auf den Wert des
-Streitgegenstands ausschließlich zuständig. Örtlich ist das
+(3) Für die Klage ist das Landgericht ohne Rücksicht auf den Wert
+des Streitgegenstands ausschließlich zuständig. Örtlich ist das
 Landgericht ausschließlich zuständig, in dessen Bezirk das zum
 Schutzbereich erklärte Grundstück liegt.
 
@@ -422,9 +408,9 @@ darauf zu richten, daß die Entschädigung unter Aufhebung oder
 Abänderung des Festsetzungsbescheids anderweitig festgesetzt wird.
 
 (6) Das Gericht kann, falls der zur Entschädigung Verpflichtete Klage
-erhebt, auf Antrag des Berechtigten den Festsetzungsbescheid ganz oder
-teilweise für vorläufig vollstreckbar erklären. Über den Antrag kann
-durch Beschluß vorab entschieden werden; der Beschluß ist nicht
+erhebt, auf Antrag des Berechtigten den Festsetzungsbescheid ganz
+oder teilweise für vorläufig vollstreckbar erklären. Über den Antrag
+kann durch Beschluß vorab entschieden werden; der Beschluß ist nicht
 anfechtbar. §§ 711 bis 720 der Zivilprozeßordnung sind entsprechend
 anzuwenden.
 
@@ -442,29 +428,23 @@ Verwaltungsakte gilt die Verwaltungsgerichtsordnung.
 ## Sechster Abschnitt - Schlußvorschriften
 
 
-
 ### § 27
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
 1.  eine Handlung nach § 3 oder § 5 Abs. 2 ohne Genehmigung vornimmt,
 
-
 2.  einer vollziehbaren Anordnung nach § 4 oder § 5 Abs. 1 zuwiderhandelt
     oder
 
-
 3.  eine Handlung stört, die nach § 6 oder § 10 zu dulden ist.
-
-
-
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünftausend
 Euro geahndet werden.
 
 (3) Bildgeräte, die zur Begehung oder Vorbereitung einer
-Ordnungswidrigkeit nach Absatz 1 Nr. 1 in Verbindung mit § 5 Abs. 2
-gebraucht worden oder bestimmt gewesen sind, sowie Lichtbilder,
+Ordnungswidrigkeit nach Absatz 1 Nr. 1 in Verbindung mit § 5 Abs.
+2 gebraucht worden oder bestimmt gewesen sind, sowie Lichtbilder,
 Zeichnungen, Skizzen und andere bildliche Darstellungen, auf die sich
 eine solche Ordnungswidrigkeit bezieht, können eingezogen werden.
 
@@ -475,13 +455,12 @@ eine solche Ordnungswidrigkeit bezieht, können eingezogen werden.
 ### § 28
 
 (1) Sind Grundstücke von den Streitkräften des Vereinigten Königreichs
-von Großbritannien und Nordirland, der Vereinigten Staaten von Amerika
-oder der Französischen Republik zu Schutzbereichen in Anspruch
-genommen oder in dieser Weise behandelt worden, so gelten diese über
-die
-in Artikel 48 des Vertrags über die Rechte und Pflichten ausländischer
-Streitkräfte und ihrer Mitglieder in der Bundesrepublik Deutschland
-(Truppenvertrag)              und in den dazu ergangenen Gesetzen
+von Großbritannien und Nordirland, der Vereinigten Staaten von
+Amerika oder der Französischen Republik zu Schutzbereichen in Anspruch
+genommen oder in dieser Weise behandelt worden, so gelten diese
+über die *in Artikel 48 des Vertrags über die Rechte und Pflichten
+ausländischer Streitkräfte und ihrer Mitglieder in der Bundesrepublik
+Deutschland (Truppenvertrag)* und in den dazu ergangenen Gesetzen
 bestimmte Frist hinaus bis zu sechs Monate nach Inkrafttreten dieses
 Gesetzes als Schutzbereiche im Sinne dieses Gesetzes.
 
@@ -493,13 +472,12 @@ Uhr Anwendung.
 ### § 29
 
 (1) Bestehen Beschränkungen von Grundeigentum im Sinne dieses Gesetzes
-auf Grund
-des Artikels 48 Abs. 1 des Truppenvertrags              oder des
+auf Grund *des Artikels 48 Abs. 1 des Truppenvertrags* oder des
 Artikels 13 des Ersten Teiles des Vertrags zur Regelung aus Krieg und
 Besatzung entstandener Fragen oder sind Grundstücke als Schutzbereiche
 behandelt worden, bemißt sich die Entschädigung hierfür mit Wirkung
-vom 5. Mai 1955 12 Uhr nach den Vorschriften dieses Gesetzes. Sofern
-dem Entschädigungsberechtigten bisher eine höhere laufende
+vom 5. Mai 1955 12 Uhr nach den Vorschriften dieses Gesetzes.
+Sofern dem Entschädigungsberechtigten bisher eine höhere laufende
 Entschädigung gezahlt worden ist, als nach § 12 zu zahlen wäre, ist
 die Entschädigung weiterhin in dieser Höhe zu gewähren, längstens
 jedoch bis zu dem in § 28 Abs. 1 genannten Zeitpunkt.

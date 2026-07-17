@@ -1,6 +1,5 @@
 ---
-Title: Gesetz über die Gebühren des Oberprüfungsamtes für die höheren technischen
-  Verwaltungsbeamten
+Title: Gesetz über die Gebühren des Oberprüfungsamtes für die höheren technischen Verwaltungsbeamten
 jurabk: OPrAGebG
 layout: default
 origslug: opragebg
@@ -16,13 +15,15 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1970, 805, 818
 
-Stand: Zuletzt geändert Art. 45 V v. 19.6.2020 I 1328
+Stand
+:   Zuletzt geändert Art. 45 V v. 19.6.2020 I 1328
+
 
 ## § 1
 
 Für die Abnahme der Großen Staatsprüfung für den höheren technischen
-Verwaltungsdienst des Bundes durch das Oberprüfungsamt für die höheren
-technischen Verwaltungsbeamten in Frankfurt a.M. können
+Verwaltungsdienst des Bundes durch das Oberprüfungsamt für die
+höheren technischen Verwaltungsbeamten in Frankfurt a.M. können
 Prüfungsgebühren erhoben werden. Die Gebühr für die einzelne Prüfung
 darf 200 Deutsche Mark nicht übersteigen.
 
@@ -45,11 +46,7 @@ Es werden aufgehoben, soweit sie Bundesrecht geworden sind:
 1.  das Gesetz über die Befähigung zum höheren bautechnischen
     Verwaltungsdienst vom 16. Juli 1936 (Reichsgesetzbl. I S. 563),
 
-
 2.  die Ausführungsbestimmung zum Gesetz über die Befähigung zum höheren
     bautechnischen Verwaltungsdienst vom 16. Juli 1936 (Reichsgesetzblatt
     I S. 565).
-
-
-
 

@@ -16,12 +16,11 @@ Fundstelle
 :   BGBl I: 1994, 2593
 
 Zuletzt geändert durch
-:   Art. 122 V v. 19.6.2020 I 1328
+:   Art. 16 G v. 10.8.2021 I 3436
 
-Änderung durch
-:   Art. 16 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Stand
+:   § 5 Abs. 7 und § 6 Abs. 5 dieses G sind gem. § 42 Abs. 1 Satz 1 am 1.10.1994 in Kraft getreten*. Im übrigen ist das G gem. § 42 Abs. 1 Satz 2 iVm Bek. v. 10.2.1998 II 299 mWv 14.1.1998 in Kraft getreten*.
 
-Stand: § 5 Abs. 7 und § 6 Abs. 5 dieses G sind gem. § 42 Abs. 1 Satz 1 am 1.10.1994 in Kraft getreten\*. Im übrigen ist das G gem. § 42 Abs. 1 Satz 2 iVm Bek. v. 10.2.1998 II 299 mWv 14.1.1998 in Kraft getreten\*.
 
 ## § 1 Ziel des Gesetzes
 
@@ -39,7 +38,6 @@ gewidmetes Naturreservat.
 
     Gebiet südlich von 60 Grad südlicher Breite;
 
-
 2.  Tätigkeit:
 
     Expeditionen, Reisen, Versorgungsfahrten und -flüge, Inspektionen und
@@ -49,18 +47,15 @@ gewidmetes Naturreservat.
     organisiert werden oder von ihrem Hoheitsgebiet ausgehen. Der Begriff
     der Tätigkeit schließt jede Veränderung einer Tätigkeit ein;
 
-
 3.  Umwelterheblichkeitsprüfung:
 
     die vorläufige Bewertung der Umweltauswirkungen nach Artikel 2 der
     Anlage I des Umweltschutzprotokolls zum Antarktis-Vertrag;
 
-
 4.  Umweltverträglichkeitsprüfung:
 
     die umfassende Bewertung der Umweltauswirkungen nach Artikel 3 der
     Anlage I des Umweltschutzprotokolls zum Antarktis-Vertrag;
-
 
 5.  Abfälle:
 
@@ -70,9 +65,6 @@ gewidmetes Naturreservat.
     geboten ist, oder radioaktive Reststoffe sowie ausgebaute oder
     abgebaute radioaktive Anlagenteile, die nach § 9a Abs. 1 Nr. 2 des
     Atomgesetzes geordnet zu beseitigen sind.
-
-
-
 
 (2) Die in den §§ 17, 18, 20 bis 24, 26, 29, 32 und 34 und in
 Rechtsverordnungen nach § 5 Abs. 7 genannten Gebote und Verbote gelten
@@ -87,27 +79,22 @@ Bundesrepublik Deutschland.
 
 1.  deutschen Staatsangehörigen,
 
-
 2.  anderen natürlichen Personen mit Wohnsitz oder gewöhnlichem Aufenthalt
     im Gebiet der Bundesrepublik Deutschland,
 
+3.  juristischen Personen oder sonstigen Personenvereinigungen mit Sitz im
+    Gebiet der Bundesrepublik Deutschland,
 
-3.  juristischen Personen oder nichtrechtsfähigen Personenvereinigungen
-    mit Sitz im Gebiet der Bundesrepublik Deutschland,
-
-
-4.  ausländischen juristischen Personen oder nichtrechtsfähigen
+4.  ausländischen juristischen Personen oder sonstigen
     Personenvereinigungen
 
-
-
-durchgeführt wird, bedarf einer Genehmigung. Die Genehmigung ist beim
-Umweltbundesamt schriftlich oder elektronisch zu beantragen.
-Ausländische juristische Personen müssen eine Person im Sinne der
-Nummern 1 bis 3 benennen, die als Antragsteller im Sinne dieses
-Gesetzes gilt. Für eine Gruppe von Personen, die gemeinsam eine
-Tätigkeit durchführen wollen, kann dem Antragsteller als
-Bevollmächtigtem nach den §§ 14 bis 21 des
+durchgeführt wird, bedarf einer Genehmigung. Die Genehmigung
+ist beim Umweltbundesamt schriftlich oder elektronisch zu
+beantragen. Ausländische juristische Personen müssen eine Person
+im Sinne der Nummern 1 bis 3 benennen, die als Antragsteller
+im Sinne dieses Gesetzes gilt. Für eine Gruppe von Personen,
+die gemeinsam eine Tätigkeit durchführen wollen, kann dem
+Antragsteller als Bevollmächtigtem nach den §§ 14 bis 21 des
 Verwaltungsverfahrensgesetzes eine alle Teilnehmer erfassende
 Genehmigung erteilt werden. Für gleichartige Tätigkeiten, die
 regelmäßig in der Antarktis durchgeführt werden, kann eine Genehmigung
@@ -119,25 +106,19 @@ werden.
 1.  Tätigkeiten, die von einer anderen Vertragspartei des
     Umweltschutzprotokolls zum Antarktis-Vertrag genehmigt wurden;
 
-
 2.  Schiffsbewegungen, die nur zum Zweck der Durchfahrt durch die
     Antarktis erfolgen, ohne daß Ziele in der Antarktis angesteuert
     werden;
-
 
 3.  Tätigkeiten, die sich unmittelbar auf die Erforschung oder Nutzung
     antarktischer Robben nach dem Gesetz zu dem Übereinkommen vom 1. Juni
     1972 zur Erhaltung der antarktischen Robben (BGBl. 1987 II S. 90)
     beziehen;
 
-
 4.  Tätigkeiten, die sich unmittelbar auf die Erforschung oder Nutzung
     lebender Meeresschätze nach dem Gesetz zu dem Übereinkommen vom 20.
     Mai 1980 über die Erhaltung der lebenden Meeresschätze der Antarktis
     (BGBl. 1982 II S. 420) beziehen.
-
-
-
 
 (3) Das Umweltbundesamt ist über Tätigkeiten nach Absatz 2 zu
 unterrichten.
@@ -147,39 +128,31 @@ Antarktis keine
 
 1.  nachteiligen Wirkungen auf Klima- oder Wetterverhältnisse,
 
-
 2.  erheblichen nachteiligen Wirkungen auf die Luft- oder Wasserqualität,
-
 
 3.  erheblichen Veränderungen der atmosphärischen, Land-, Wasser-,
     Gletscher- oder Meeresumwelt,
 
-
 4.  schädlichen Veränderungen in der Verbreitung, Häufigkeit oder
     Produktivität von Tier- oder Pflanzenarten oder deren Populationen,
 
-
 5.  zusätzlichen Gefahren für gefährdete oder bedrohte Arten oder deren
     Populationen,
-
 
 6.  Schädigung oder erhebliche Gefährdung der Gebiete von biologischer,
     wissenschaftlicher, historischer, ästhetischer Bedeutung oder der
     Gebiete mit ursprünglichem Charakter,
 
-
 7.  sonstigen erheblichen Beeinträchtigungen der Umwelt und der abhängigen
     und verbundenen Ökosysteme
-
-
 
 besorgen läßt.
 
 (5) Umfaßt die beabsichtigte Tätigkeit Handlungen, die nach § 17 Abs.
 1, § 18 Abs. 2 und 4 oder § 29 Abs. 2 und 3 verboten sind, darf die
-Genehmigung nur erteilt werden, wenn die in § 17 Abs. 2, 3 und 4, § 18
-Abs. 5 oder § 30 Abs. 1 und 2 genannten Voraussetzungen erfüllt sind.
-In diesem Fall gilt die nach § 3 erteilte Genehmigung auch als
+Genehmigung nur erteilt werden, wenn die in § 17 Abs. 2, 3 und 4, §
+18 Abs. 5 oder § 30 Abs. 1 und 2 genannten Voraussetzungen erfüllt
+sind. In diesem Fall gilt die nach § 3 erteilte Genehmigung auch als
 Genehmigung nach den §§ 17, 18 und 29.
 
 (6) Für Abfälle, die nach § 21 Abs. 4 in die Bundesrepublik
@@ -191,8 +164,8 @@ der Bekanntmachung vom 25. Juli 1985 (BGBl. I S. 1565) zu führen.
 
 (7) Die Genehmigung kann unter Auflagen und Bedingungen erteilt
 werden. Sie ist zu befristen. Sie kann nach ihrer Erteilung unter
-Abwägung mit den schutzwürdigen Belangen des Begünstigten ganz oder
-teilweise widerrufen oder mit Auflagen versehen werden, soweit
+Abwägung mit den schutzwürdigen Belangen des Begünstigten ganz
+oder teilweise widerrufen oder mit Auflagen versehen werden, soweit
 Tatsachen bekannt werden, die besorgen lassen, daß die Tätigkeit
 Auswirkungen nach § 3 Abs. 4 haben wird.
 
@@ -219,9 +192,9 @@ Preisgabe der Geheimnisse und geschützten Daten geschehen kann, vom
 Antragsteller so ausführlich darzustellen, daß es Einsichtnehmenden
 möglich ist, zu beurteilen, ob und in welchem Umfang eine
 Beeinträchtigung der in § 3 Abs. 4 genannten Schutzgüter zu erwarten
-ist. Hält das Umweltbundesamt die Kennzeichnung der Unterlagen als
-Geschäfts- oder Betriebsgeheimnisse für unberechtigt, so hat es vor
-der Entscheidung über die Auslegung dieser Unterlagen den
+ist. Hält das Umweltbundesamt die Kennzeichnung der Unterlagen
+als Geschäfts- oder Betriebsgeheimnisse für unberechtigt, so hat
+es vor der Entscheidung über die Auslegung dieser Unterlagen den
 Antragsteller zu hören.
 
 (3) Das Umweltbundesamt beurteilt aufgrund vorhandener oder der nach
@@ -229,13 +202,9 @@ Absatz 1 vorgelegten Unterlagen, ob die Tätigkeit
 
 1.  weniger als geringfügige oder vorübergehende Auswirkungen,
 
-
 2.  geringfügige oder vorübergehende Auswirkungen,
 
-
 3.  mehr als nur geringfügige oder vorübergehende Auswirkungen
-
-
 
 auf die in § 3 Abs. 4 genannten Schutzgüter besorgen läßt. Das
 Umweltbundesamt teilt dem Antragsteller seine Beurteilung mit und
@@ -246,27 +215,27 @@ Genehmigung ohne die Durchführung einer Umwelterheblichkeits- und
 Umweltverträglichkeitsprüfung innerhalb von sechs Wochen.
 
 (5) Im Falle des Absatzes 3 Nr. 2 oder 3 unterrichtet das
-Umweltbundesamt den Antragsteller über die Erforderlichkeit einer
-Umwelterheblichkeitsprüfung gemäß § 7 oder einer
-Umweltverträglichkeitsprüfung gemäß § 8. Das Umweltbundesamt soll mit
-dem Antragsteller den Gegenstand, Umfang und Methoden der
-Umweltverträglichkeitsprüfung sowie sonstige für die Durchführung der
-Umweltverträglichkeitsprüfung erhebliche Fragen erörtern. Hierzu
-können andere Behörden, Sachverständige und Dritte hinzugezogen
-werden. Das Umweltbundesamt soll den Antragsteller über den
-voraussichtlichen Untersuchungsrahmen einer
-Umweltverträglichkeitsprüfung sowie über Art und Umfang der
-voraussichtlich beizubringenden Unterlagen unterrichten. Verfügt das
-Umweltbundesamt über Informationen, die für die Beibringung der
-Unterlagen zweckdienlich sind, soll es diese Informationen dem
+Umweltbundesamt den Antragsteller über die Erforderlichkeit
+einer Umwelterheblichkeitsprüfung gemäß § 7 oder einer
+Umweltverträglichkeitsprüfung gemäß § 8. Das Umweltbundesamt
+soll mit dem Antragsteller den Gegenstand, Umfang und Methoden
+der Umweltverträglichkeitsprüfung sowie sonstige für die
+Durchführung der Umweltverträglichkeitsprüfung erhebliche
+Fragen erörtern. Hierzu können andere Behörden, Sachverständige
+und Dritte hinzugezogen werden. Das Umweltbundesamt soll den
+Antragsteller über den voraussichtlichen Untersuchungsrahmen
+einer Umweltverträglichkeitsprüfung sowie über Art und Umfang der
+voraussichtlich beizubringenden Unterlagen unterrichten. Verfügt
+das Umweltbundesamt über Informationen, die für die Beibringung
+der Unterlagen zweckdienlich sind, soll es diese Informationen dem
 Antragsteller zur Verfügung stellen.
 
 
 ## § 5 Verhütung der Meeresverschmutzung
 
-(1) Wird im Rahmen einer Tätigkeit im Sinne des § 2 Abs. 1 Nr. 2 ein
-Schiff eingesetzt, so berücksichtigt das Umweltbundesamt bei seiner
-Genehmigung hinsichtlich der von der Seeschiffahrt ausgehenden
+(1) Wird im Rahmen einer Tätigkeit im Sinne des § 2 Abs. 1 Nr. 2
+ein Schiff eingesetzt, so berücksichtigt das Umweltbundesamt bei
+seiner Genehmigung hinsichtlich der von der Seeschiffahrt ausgehenden
 Gefahren für die Meeresumwelt eine Stellungnahme des Bundesamtes für
 Seeschiffahrt und Hydrographie. Abweichungen von dieser Stellungnahme
 sind zu begründen.
@@ -284,39 +253,35 @@ und § 16.
 
 1.  das Seeaufgabengesetz,
 
-
 2.  das Seemannsgesetz,
 
-
 3.  das Gesetz über die Beförderung gefährlicher Güter,
-
-
 
 sowie die aufgrund dieser Gesetze erlassenen Rechtsverordnungen.
 
 (5) Der Antragsteller hat sicherzustellen, daß im Rahmen einer
-Tätigkeit im Sinne des § 2 Abs. 1 Nr. 2 Aufzeichnungen über alle beim
-Schiffsbetrieb anfallenden Abfälle und Abwässer einschließlich aller
-Einbringungen und Einleitungen in die Meeresumwelt geführt werden,
-soweit diese Aufzeichnungen nicht bereits im Rahmen der Anwendung des
-Internationalen Übereinkommens von 1973 zur Verhütung der
-Meeresverschmutzung durch Schiffe und des Protokolls von 1978 zu
-diesem Übereinkommen geführt werden. Die Aufzeichnungen sind dem
+Tätigkeit im Sinne des § 2 Abs. 1 Nr. 2 Aufzeichnungen über alle
+beim Schiffsbetrieb anfallenden Abfälle und Abwässer einschließlich
+aller Einbringungen und Einleitungen in die Meeresumwelt geführt
+werden, soweit diese Aufzeichnungen nicht bereits im Rahmen der
+Anwendung des Internationalen Übereinkommens von 1973 zur Verhütung
+der Meeresverschmutzung durch Schiffe und des Protokolls von 1978
+zu diesem Übereinkommen geführt werden. Die Aufzeichnungen sind dem
 Bundesamt für Seeschiffahrt und Hydrographie auf Verlangen vorzulegen.
 
 (6) Der Antragsteller hat das Bundesamt für Seeschiffahrt und
 Hydrographie unverzüglich über Einbringungen und Einleitungen in
-Notfällen im Zusammenhang mit der Sicherheit des Schiffes und der an
-Bord befindlichen Personen oder zur Rettung von Menschenleben auf See
-zu unterrichten. Das Bundesamt für Seeschiffahrt und Hydrographie
-leitet diese Informationen an das Umweltbundesamt weiter. Das
-Umweltbundesamt unterrichtet die Vertragsparteien des
+Notfällen im Zusammenhang mit der Sicherheit des Schiffes und der
+an Bord befindlichen Personen oder zur Rettung von Menschenleben
+auf See zu unterrichten. Das Bundesamt für Seeschiffahrt und
+Hydrographie leitet diese Informationen an das Umweltbundesamt
+weiter. Das Umweltbundesamt unterrichtet die Vertragsparteien des
 Umweltschutzprotokolls und den Ausschuß für Umweltschutz nach Artikel
 11 des Umweltschutzprotokolls zum Antarktis-Vertrag über die nach Satz
 1 durchgeführten Einbringungen und Einleitungen.
 
-(7) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
-ermächtigt, im Einvernehmen mit dem Auswärtigen Amt und dem
+(7) Das Bundesministerium für Verkehr und digitale Infrastruktur
+wird ermächtigt, im Einvernehmen mit dem Auswärtigen Amt und dem
 Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit zur
 Durchführung der Anlage IV des Umweltschutzprotokolls zum Antarktis-
 Vertrag durch Rechtsverordnung
@@ -325,55 +290,50 @@ Vertrag durch Rechtsverordnung
     sonstiger chemischer oder anderer Stoffe nach Artikel 4 der Anlage IV
     des Umweltschutzprotokolls zum Antarktis-Vertrag zu erlassen,
 
-
 2.  Vorschriften über das Einbringen von Abfall nach Artikel 5 der Anlage
     IV des Umweltschutzprotokolls zum Antarktis-Vertrag zu erlassen,
-
 
 3.  Vorschriften über das Einleiten von Abwasser nach Artikel 6 der Anlage
     IV des Umweltschutzprotokolls zum Antarktis-Vertrag zu erlassen.
 
-
-
-
 (8) Das Zuwiderhandeln gegen Vorschriften des Internationalen
 Übereinkommens von 1973 zur Verhütung der Meeresverschmutzung durch
-Schiffe und des Protokolls von 1978 zu diesem Übereinkommen, auch in
-der durch Rechtsverordnung nach Artikel 2 Nr. 1 des Gesetzes vom 23.
-Dezember 1981 zu dem Internationalen Übereinkommen von 1973 zur
+Schiffe und des Protokolls von 1978 zu diesem Übereinkommen, auch
+in der durch Rechtsverordnung nach Artikel 2 Nr. 1 des Gesetzes vom
+23\. Dezember 1981 zu dem Internationalen Übereinkommen von 1973 zur
 Verhütung der Meeresverschmutzung durch Schiffe und zu dem Protokoll
-von 1978 zu diesem Übereinkommen (BGBl. 1982 II S. 2) jeweils in Kraft
-gesetzten Fassung, kann bei einem Angehörigen des in § 2 Abs. 2
-genannten Personenkreises auch dann geahndet werden, wenn es auf oder
-von einem Schiff begangen wird, das nicht berechtigt ist, die
+von 1978 zu diesem Übereinkommen (BGBl. 1982 II S. 2) jeweils in
+Kraft gesetzten Fassung, kann bei einem Angehörigen des in § 2 Abs.
+2 genannten Personenkreises auch dann geahndet werden, wenn es auf
+oder von einem Schiff begangen wird, das nicht berechtigt ist, die
 Bundesflagge zu führen.
 
 (9) Die Überwachung der Regelungen von Anlage IV des
-Umweltschutzprotokolls zum Antarktis-Vertrag obliegt dem Bundesamt für
-Seeschiffahrt und Hydrographie. Das Umweltbundesamt ist über
+Umweltschutzprotokolls zum Antarktis-Vertrag obliegt dem Bundesamt
+für Seeschiffahrt und Hydrographie. Das Umweltbundesamt ist über
 eingeleitete Maßnahmen zu unterrichten.
 
-(10) Strengere Regelungen nach dem Gesetz vom 23. Dezember 1981 zu dem
-Internationalen Übereinkommen zur Verhütung der Meeresverschmutzung
-durch Schiffe von 1973 und dem Protokoll von 1978 zu diesem
-Übereinkommen (BGBl. 1982 II S. 2) und dem Gesetz zu den Übereinkommen
-vom 15. Februar 1972 und 29. Dezember 1972 zur Verhütung der
-Meeresverschmutzung durch das Einbringen von Abfällen durch Schiffe
-und Luftfahrzeuge (BGBl. 1977 II S. 165) über den Schutz der
+(10) Strengere Regelungen nach dem Gesetz vom 23. Dezember
+1981 zu dem Internationalen Übereinkommen zur Verhütung der
+Meeresverschmutzung durch Schiffe von 1973 und dem Protokoll von 1978
+zu diesem Übereinkommen (BGBl. 1982 II S. 2) und dem Gesetz zu den
+Übereinkommen vom 15. Februar 1972 und 29. Dezember 1972 zur Verhütung
+der Meeresverschmutzung durch das Einbringen von Abfällen durch
+Schiffe und Luftfahrzeuge (BGBl. 1977 II S. 165) über den Schutz der
 Meeresumwelt finden Anwendung.
 
 
 ## § 6 Forschungstätigkeiten
 
-(1) Tätigkeiten der wissenschaftlichen Forschung in der Antarktis und
-ihrer Durchführung oder Vorbereitung dienende Tätigkeiten, die
+(1) Tätigkeiten der wissenschaftlichen Forschung in der Antarktis
+und ihrer Durchführung oder Vorbereitung dienende Tätigkeiten, die
 lediglich weniger als geringfügige oder vorübergehende Auswirkungen
-gemäß § 4 Abs. 3 Nr. 1 besorgen lassen, sind abweichend von § 3 Abs. 1
-dem Umweltbundesamt spätestens 3 Monate vor Beginn schriftlich oder
-elektronisch anzuzeigen. Die Anzeige hat darzulegen, daß die Tätigkeit
-lediglich weniger als geringfügige oder vorübergehende Auswirkungen
-auf die Schutzgüter des § 3 Abs. 4 haben wird. § 4 Abs. 1 gilt
-entsprechend.
+gemäß § 4 Abs. 3 Nr. 1 besorgen lassen, sind abweichend von § 3 Abs.
+1 dem Umweltbundesamt spätestens 3 Monate vor Beginn schriftlich
+oder elektronisch anzuzeigen. Die Anzeige hat darzulegen, daß die
+Tätigkeit lediglich weniger als geringfügige oder vorübergehende
+Auswirkungen auf die Schutzgüter des § 3 Abs. 4 haben wird. § 4 Abs. 1
+gilt entsprechend.
 
 (2) Ergibt die Prüfung, daß die angezeigte Tätigkeit lediglich weniger
 als geringfügige oder vorübergehende Auswirkungen auf die in § 3 Abs.
@@ -381,8 +341,8 @@ als geringfügige oder vorübergehende Auswirkungen auf die in § 3 Abs.
 Äußert sich das Umweltbundesamt binnen sechs Wochen nach Eingang der
 Anzeige nicht, gilt dies als Genehmigung.
 
-(3) Tätigkeiten der wissenschaftlichen Forschung in der Antarktis und
-ihrer Durchführung oder Vorbereitung dienende Tätigkeiten, die
+(3) Tätigkeiten der wissenschaftlichen Forschung in der Antarktis
+und ihrer Durchführung oder Vorbereitung dienende Tätigkeiten, die
 geringfügige oder vorübergehende Auswirkungen nach § 4 Abs. 3 Nr. 2
 oder mehr als geringfügige oder vorübergehende Auswirkungen nach § 4
 Abs. 3 Nr. 3 haben, unterliegen der Genehmigungspflicht nach § 3 Abs.
@@ -391,27 +351,27 @@ Absatz 1 angezeigte Tätigkeit die Voraussetzungen des § 4 Abs. 3 Nr. 2
 oder 3 erfüllt, so gilt die Anzeige als Antrag auf Genehmigung nach §
 3 Abs. 1.
 
-(4) Bei Prüfung einer Tätigkeit der wissenschaftlichen Forschung oder
-einer ihrer Durchführung oder Vorbereitung dienenden Tätigkeit, die
-die Voraussetzungen des § 4 Abs. 3 Nr. 2 oder 3 erfüllt,
+(4) Bei Prüfung einer Tätigkeit der wissenschaftlichen Forschung
+oder einer ihrer Durchführung oder Vorbereitung dienenden Tätigkeit,
+die die Voraussetzungen des § 4 Abs. 3 Nr. 2 oder 3 erfüllt,
 berücksichtigt das Umweltbundesamt die Beurteilung der Tätigkeit durch
 eine Kommission unabhängiger wissenschaftlicher Sachverständiger, die
-vom Auswärtigen Amt, dem Bundesministerium für Umwelt, Naturschutz und
-nukleare Sicherheit und dem Bundesministerium für Bildung und
+vom Auswärtigen Amt, dem Bundesministerium für Umwelt, Naturschutz
+und nukleare Sicherheit und dem Bundesministerium für Bildung und
 Forschung gemeinsam bestellt wird. Abweichungen von dieser Beurteilung
 sind zu begründen.
 
 (5) Das Bundesministerium für Umwelt, Naturschutz und nukleare
-Sicherheit wird ermächtigt, im Einvernehmen mit dem Auswärtigen Amt
-und dem Bundesministerium für Bildung und Forschung durch
+Sicherheit wird ermächtigt, im Einvernehmen mit dem Auswärtigen
+Amt und dem Bundesministerium für Bildung und Forschung durch
 Rechtsverordnung Zusammensetzung, Berufung und Verfahren der
 Kommission zu regeln.
 
 
 ## § 7 Genehmigungsverfahren mit Umwelterheblichkeitsprüfung
 
-(1) Tätigkeiten, die voraussichtlich zumindest geringfügige oder
-vorübergehende Auswirkungen haben werden, sind einer
+(1) Tätigkeiten, die voraussichtlich zumindest geringfügige
+oder vorübergehende Auswirkungen haben werden, sind einer
 Umwelterheblichkeitsprüfung zu unterziehen, sofern das Umweltbundesamt
 nicht aufgrund seiner Beurteilung gemäß § 4 Abs. 3 Satz 1 eine
 Umweltverträglichkeitsprüfung für erforderlich hält. Hierzu hat der
@@ -421,17 +381,13 @@ Antragsteller Unterlagen mit folgenden Angaben vorzulegen:
     Zwecks, ihres Ortes und voraussichtlichen Auswirkungsgebietes, ihrer
     Dauer und Intensität sowie
 
-
-2.  eine Beschreibung von Alternativen zu der beabsichtigten Tätigkeit und
-    aller voraussichtlichen Einwirkungen der beabsichtigten Tätigkeit
+2.  eine Beschreibung von Alternativen zu der beabsichtigten Tätigkeit
+    und aller voraussichtlichen Einwirkungen der beabsichtigten Tätigkeit
     einschließlich kumulativer Einwirkungen im Hinblick auf laufende und
     bekannte geplante Tätigkeiten.
 
-
-
-
-(2) Ergibt die Prüfung, daß die Tätigkeit lediglich geringfügige oder
-vorübergehende Auswirkungen auf die in § 3 Abs. 4 genannten
+(2) Ergibt die Prüfung, daß die Tätigkeit lediglich geringfügige
+oder vorübergehende Auswirkungen auf die in § 3 Abs. 4 genannten
 Schutzgüter besorgen läßt, ist die Genehmigung zu erteilen. Sie ist
 mit Auflagen zu verbinden oder unter Bedingungen zu erlassen, soweit
 dies erforderlich ist, um sicherzustellen, daß die Anforderungen
@@ -448,51 +404,45 @@ Abs. 4 auch die Stellungnahme der Kommission zugänglich zu machen.
 
 ## § 8 Genehmigungsverfahren mit Umweltverträglichkeitsprüfung
 
-(1) Tätigkeiten, die mehr als geringfügige oder vorübergehende
-Auswirkungen erwarten lassen, bedürfen einer
+(1) Tätigkeiten, die mehr als geringfügige oder
+vorübergehende Auswirkungen erwarten lassen, bedürfen einer
 Umweltverträglichkeitsprüfung.
 
 (2) Die Umweltverträglichkeitsprüfung ist ein unselbständiger Teil des
 Verfahrens zur Erteilung der Genehmigung. Sie dient der Ermittlung,
-Beschreibung und Bewertung der Auswirkungen der Tätigkeit auf die in §
-3 Abs. 4 dieses Gesetzes genannten Schutzgüter. Sie wird unter
+Beschreibung und Bewertung der Auswirkungen der Tätigkeit auf die
+in § 3 Abs. 4 dieses Gesetzes genannten Schutzgüter. Sie wird unter
 Einbeziehung der Öffentlichkeit entsprechend den Vorschriften dieses
 Gesetzes durchgeführt.
 
-(3) Hierzu hat der Antragsteller eine Untersuchung der Tätigkeit und
-ihrer Umweltauswirkungen in deutscher und englischer Sprache
+(3) Hierzu hat der Antragsteller eine Untersuchung der Tätigkeit
+und ihrer Umweltauswirkungen in deutscher und englischer Sprache
 vorzulegen, die insbesondere folgende Angaben enthalten muß:
 
 1.  eine Beschreibung der beabsichtigten Tätigkeit, einschließlich ihres
     Zwecks, ihres Ortes und voraussichtlichen Auswirkungsgebietes, ihrer
-    Dauer und Intensität sowie eine Beschreibung möglicher Alternativen zu
-    der Tätigkeit einschließlich der Alternative, die Tätigkeit zu
+    Dauer und Intensität sowie eine Beschreibung möglicher Alternativen
+    zu der Tätigkeit einschließlich der Alternative, die Tätigkeit zu
     unterlassen, und die Folgen dieser Alternativen;
-
 
 2.  eine Beschreibung des Ist-Zustandes der Umwelt im Auswirkungsbereich
     der Tätigkeit, mit dem vorausgesagte Veränderungen zu vergleichen
     sind, und eine Prognose des künftigen Zustandes dieser Umwelt für den
     Fall der Unterlassung der beabsichtigten Tätigkeit;
 
-
-3.  eine Beschreibung der Methoden und Daten, die verwandt wurden, um die
-    voraussichtlichen Auswirkungen der beabsichtigten Tätigkeit zu
+3.  eine Beschreibung der Methoden und Daten, die verwandt wurden, um
+    die voraussichtlichen Auswirkungen der beabsichtigten Tätigkeit zu
     ermitteln;
 
-
-4.  eine Beschreibung der Art, des Ausmaßes, der Dauer und Intensität der
-    voraussichtlichen unmittelbaren Auswirkungen der beabsichtigten
+4.  eine Beschreibung der Art, des Ausmaßes, der Dauer und Intensität
+    der voraussichtlichen unmittelbaren Auswirkungen der beabsichtigten
     Tätigkeit;
-
 
 5.  eine Beschreibung der möglichen mittelbaren Auswirkungen der
     beabsichtigten Tätigkeit;
 
-
 6.  eine Beschreibung der kumulativen Auswirkungen durch die beabsichtigte
     Tätigkeit im Hinblick auf laufende und bekannte geplante Tätigkeiten;
-
 
 7.  die Angabe von Maßnahmen einschließlich von Überwachungsprogrammen,
     die getroffen werden könnten, um Auswirkungen durch die beabsichtigte
@@ -501,30 +451,22 @@ vorzulegen, die insbesondere folgende Angaben enthalten muß:
     frühzeitig Hinweise auf nachteilige Wirkungen der Tätigkeit zu
     erhalten und schnell und wirksam auf Unfälle zu reagieren;
 
-
 8.  die Angabe der unvermeidbaren Auswirkungen der beabsichtigten
     Tätigkeit;
-
 
 9.  eine Beschreibung der Wirkungen der beabsichtigten Tätigkeit auf die
     Durchführung wissenschaftlicher Forschung und auf andere bestehende
     Nutzungen und Werte;
 
-
 10. Angaben zu Wissenslücken und Unsicherheiten, die beim Sammeln der nach
     diesem Absatz erforderlichen Informationen aufgetreten sind;
-
 
 11. eine allgemeinverständliche Zusammenfassung der nach diesem Absatz
     zusammengestellten Informationen;
 
-
 12. Name und Anschrift der Person oder Organisation, die die Untersuchung
     vorgelegt hat, sowie die Anschrift, an die Stellungnahmen dazu zu
     richten sind.
-
-
-
 
 
 ## § 9 Öffentliche Auslegung, Einwendungen
@@ -534,11 +476,11 @@ vorzulegen, die insbesondere folgende Angaben enthalten muß:
 am Sitz des Umweltbundesamtes neunzig Tage zur Einsicht auszulegen.
 Während der Auslegungsfrist können beim Umweltbundesamt Einwendungen
 zu der Untersuchung schriftlich, elektronisch oder zur Niederschrift
-abgegeben werden. Schriftliche oder elektronische Einwendungen sollen
-auch in englischer Sprache eingebracht werden. Wird eine Übersetzung
-in die englische Sprache nicht unverzüglich eingebracht, so kann das
-Umweltbundesamt auf Kosten des Einwenders selbst eine solche
-beschaffen und von diesem hierfür in Höhe der voraussichtlich
+abgegeben werden. Schriftliche oder elektronische Einwendungen
+sollen auch in englischer Sprache eingebracht werden. Wird eine
+Übersetzung in die englische Sprache nicht unverzüglich eingebracht,
+so kann das Umweltbundesamt auf Kosten des Einwenders selbst eine
+solche beschaffen und von diesem hierfür in Höhe der voraussichtlich
 entstehenden Kosten einen Vorschuß verlangen. Mit Ablauf der
 Einwendungsfrist sind alle Einwendungen ausgeschlossen.
 
@@ -549,13 +491,9 @@ Bekanntmachung ist darauf hinzuweisen,
 1.  wo und wann der Antrag auf Erteilung der Genehmigung und die
     Unterlagen nach § 8 Abs. 3 zur Einsicht ausgelegt sind;
 
-
 2.  daß Einwendungen beim Umweltbundesamt während der Auslegungsfrist zu
     erheben sind und daß verspätete Einwendungen bei der Erörterung und
     Entscheidung unberücksichtigt bleiben.
-
-
-
 
 (3) Nach Ablauf der Auslegungsfrist sind die rechtzeitig erhobenen
 Einwendungen zu dem Genehmigungsantrag mit dem Antragsteller und den
@@ -579,9 +517,9 @@ Antarktis-Vertrag übermittelt.
 (1) Über den Antrag auf Genehmigung einer Tätigkeit, die gemäß § 8
 einer Umweltverträglichkeitsprüfung bedarf, darf erst entschieden
 werden, wenn eine Konsultativtagung der Vertragsparteien des
-Antarktis-Vertrages ausreichend Gelegenheit hatte, die Unterlagen nach
-§ 8 Abs. 3 zu prüfen. Ausreichende Gelegenheit zur Prüfung besteht
-nur, wenn die Untersuchung nach § 8 Abs. 3 dem Ausschuß für
+Antarktis-Vertrages ausreichend Gelegenheit hatte, die Unterlagen
+nach § 8 Abs. 3 zu prüfen. Ausreichende Gelegenheit zur Prüfung
+besteht nur, wenn die Untersuchung nach § 8 Abs. 3 dem Ausschuß für
 Umweltschutz mindestens einhundertundzwanzig Tage vor Beginn der
 Konsultativtagung zuging. Das Umweltbundesamt hat vor der Entscheidung
 die Stellungnahme der Konsultativtagung abzuwarten und diese bei ihrer
@@ -613,10 +551,10 @@ durch Auflagen oder Bedingungen sichergestellt werden kann, daß die
 Anforderungen dieses Gesetzes erfüllt werden.
 
 (3) In der Begründung der Genehmigung ist eine Bewertung der
-voraussichtlichen Beeinträchtigungen im Vergleich zu den Vorteilen der
-geplanten Tätigkeit aufzunehmen. Weicht das Umweltbundesamt vom
-Ergebnis der Untersuchung oder von Stellungnahmen anderer Stellen oder
-der Konsultativtagung der Antarktis-Vertragsstaaten ab, sind die
+voraussichtlichen Beeinträchtigungen im Vergleich zu den Vorteilen
+der geplanten Tätigkeit aufzunehmen. Weicht das Umweltbundesamt vom
+Ergebnis der Untersuchung oder von Stellungnahmen anderer Stellen
+oder der Konsultativtagung der Antarktis-Vertragsstaaten ab, sind die
 Gründe hierfür darzustellen. Die Feststellung über die Verkehrs- und
 Betriebssicherheit der Schiffe nach § 5 Abs. 2 bleibt unberührt.
 
@@ -628,19 +566,15 @@ entscheidungserheblichen Unterlagen
 
 1.  am Sitz des Umweltbundesamts zur allgemeinen Einsicht bereitzuhalten,
 
-
-2.  den Vertragsparteien des Umweltschutzprotokolls zum Antarktis-Vertrag
-    und dem Ausschuß für Umweltschutz gemäß Artikel 11 des
-    Umweltschutzprotokolls zum Antarktis-Vertrag auf diplomatischem Weg zu
-    übermitteln. Das Datum der Übermittlung ist dem Antragsteller
+2.  den Vertragsparteien des Umweltschutzprotokolls zum Antarktis-
+    Vertrag und dem Ausschuß für Umweltschutz gemäß Artikel 11 des
+    Umweltschutzprotokolls zum Antarktis-Vertrag auf diplomatischem Weg
+    zu übermitteln. Das Datum der Übermittlung ist dem Antragsteller
     mitzuteilen.
 
-
-
-
-(2) Eine Tätigkeit, für die eine Genehmigung nach § 12 Abs. 2 erteilt
-worden ist, darf erst nach Ablauf von sechzig Tagen nach der
-Übermittlung der in Absatz 1 genannten Unterlagen an die
+(2) Eine Tätigkeit, für die eine Genehmigung nach § 12 Abs. 2
+erteilt worden ist, darf erst nach Ablauf von sechzig Tagen nach
+der Übermittlung der in Absatz 1 genannten Unterlagen an die
 Vertragsparteien des Antarktis-Vertrages begonnen werden.
 
 
@@ -650,8 +584,8 @@ Vertragsparteien des Antarktis-Vertrages begonnen werden.
 Einhaltung dieses Gesetzes und der erteilten Genehmigungen.
 
 (2) Das Umweltbundesamt überprüft in regelmäßigen Abständen, welche
-Umweltauswirkungen durch Tätigkeiten verursacht werden, die nach § 4,
-6, 7 oder 12 dieses Gesetzes zugelassen wurden. Es beurteilt,
+Umweltauswirkungen durch Tätigkeiten verursacht werden, die nach
+§ 4, 6, 7 oder 12 dieses Gesetzes zugelassen wurden. Es beurteilt,
 inwieweit diese Auswirkungen mit dem Umweltschutzprotokoll zum
 Antarktis-Vertrag in Einklang stehen.
 
@@ -671,13 +605,9 @@ Vertragsparteien dieses Protokolls sind jährlich
 
 1.  eine Beschreibung der Verfahren nach den §§ 3 bis 14,
 
-
 2.  eine Liste der Genehmigungen nach § 7,
 
-
 3.  erhebliche Informationen aufgrund der Überprüfung nach § 14
-
-
 
 zu übermitteln.
 
@@ -710,7 +640,6 @@ Vertragsparteien weiterzuleiten.
     zu beschädigen, daß Verbreitung oder Dichte dieser Pflanzen erheblich
     beeinträchtigt wird;
 
-
 2.  auf die in der Antarktis heimische Tier- oder Pflanzenwelt schädlich
     einzuwirken; als schädliches Einwirken gilt:
 
@@ -718,34 +647,23 @@ Vertragsparteien weiterzuleiten.
         Luftfahrzeugen in einer Weise, daß Vogel- oder Robbenansammlungen
         beunruhigt werden;
 
-
     b)  die Benutzung von Land- und Wasserfahrzeugen, einschließlich von
         Hovercraft-Schiffen und kleinen Booten in einer Weise, daß Vogel- oder
         Robbenansammlungen beunruhigt werden;
 
-
     c)  die Verwendung von Sprengstoffen oder Schußwaffen in einer Weise, daß
         Vogel- oder Robbenansammlungen beunruhigt werden;
-
 
     d)  das absichtliche Beunruhigen brütender Vögel, Vögel in der Mauser oder
         Vogel- oder Robbenansammlungen durch Menschen zu Fuß;
 
-
-    e)  das erhebliche Schädigen von Ansammlungen von Landpflanzen durch das
-        Landen von Luftfahrzeugen, das Fahren von Fahrzeugen, durch
+    e)  das erhebliche Schädigen von Ansammlungen von Landpflanzen durch
+        das Landen von Luftfahrzeugen, das Fahren von Fahrzeugen, durch
         Niedertreten oder auf andere Weise;
-
 
     f)  eine sonstige Handlung, die zu einer erheblichen nachteiligen
         Veränderung des Lebensraums von Arten oder Populationen von
         Säugetieren, Vögeln, Pflanzen oder Wirbellosen führt.
-
-
-
-
-
-
 
 (2) Das Umweltbundesamt kann im Einzelfall im Einvernehmen mit dem
 Bundesamt für Naturschutz im Rahmen des § 3 Abs. 1 Ausnahmen von den
@@ -755,19 +673,14 @@ werden
 1.  für die Beschaffung von Exemplaren für wissenschaftliche
     Untersuchungen oder zur wissenschaftlichen Information oder
 
-
-2.  für die Beschaffung von Exemplaren für Museen, Herbarien, zoologische
-    oder botanische Gärten oder für andere Bildungs- oder
+2.  für die Beschaffung von Exemplaren für Museen, Herbarien,
+    zoologische oder botanische Gärten oder für andere Bildungs- oder
     Kultureinrichtungen oder entsprechende Nutzungen oder
 
-
-3.  als vorsorgliche Maßnahme hinsichtlich der unvermeidlichen Folgen der
-    Errichtung und des Betriebs wissenschaftlicher
+3.  als vorsorgliche Maßnahme hinsichtlich der unvermeidlichen
+    Folgen der Errichtung und des Betriebs wissenschaftlicher
     Unterstützungseinrichtungen sowie wissenschaftlicher Tätigkeiten, die
     nicht unter die Nummern 1 und 2 fallen.
-
-
-
 
 (3) Die Erteilung von Genehmigungen ist insoweit zu beschränken, als
 
@@ -775,26 +688,21 @@ werden
     berührt werden, oder Pflanzen der Natur entnommen werden dürfen, als
     für die in Absatz 1 genannten Zwecke unbedingt erforderlich ist,
 
-
 2.  nur eine geringe Zahl von Säugetieren oder Vögeln getötet werden darf
     und - auch im Zusammenwirken mit anderen genehmigten Entnahmen - nur
     so viele Säugetiere und Vögel einer lokalen Population getötet werden
     dürfen wie normalerweise durch natürliche Vermehrung in der folgenden
     Saison ersetzt werden,
 
-
 3.  die Vielfalt der Arten, die für diese Arten wesentlichen Lebensräume,
     sowie das Gleichgewicht der in der Antarktis vorhandenen Ökosysteme
     erhalten bleiben.
 
-
-
-
 (4) Alle Arten der Gattung Arctocephalus (Pelzrobben) und Ommatophoca
 rossii (Ross-Robben) stehen unter besonderem Schutz. Eine Genehmigung
 für das Töten, Verletzen, Fangen oder Berühren dieser Arten kann nur
-für einen zwingenden wissenschaftlichen Zweck erteilt werden, wenn das
-Überleben oder die Erholung der Art oder der örtlichen Population
+für einen zwingenden wissenschaftlichen Zweck erteilt werden, wenn
+das Überleben oder die Erholung der Art oder der örtlichen Population
 nicht gefährdet und, soweit möglich, Methoden angewandt werden, die
 nicht zum Tod führen.
 
@@ -805,8 +713,8 @@ sowie Ort und Zeitpunkt der genehmigten Tätigkeit zu benennen.
 Vögeln hat so zu erfolgen, daß Schmerzen und Leiden der Tiere so weit
 wie möglich vermieden werden.
 
-(7) Das Gesetz zu dem Übereinkommen vom 1. Juni 1972 zur Erhaltung der
-antarktischen Robben (BGBl. 1987 II S. 90) und das Gesetz zu dem
+(7) Das Gesetz zu dem Übereinkommen vom 1. Juni 1972 zur Erhaltung
+der antarktischen Robben (BGBl. 1987 II S. 90) und das Gesetz zu dem
 Übereinkommen vom 2. Dezember 1946 zur Regelung des Walfanges (BGBl.
 1982 II S. 558) bleiben unberührt.
 
@@ -846,9 +754,9 @@ oder durch Verbrennung keimfrei zu entsorgen. Diese Verpflichtung ist
 im Genehmigungsbescheid festzuhalten.
 
 (6) Wer nichtheimische Tiere oder Pflanzen oder Erde ohne Genehmigung
-in die Antarktis verbringt oder vor Inkrafttreten dieses Gesetzes in
-die Antarktis verbracht hat, hat diese unverzüglich zu entfernen oder
-durch Verbrennung keimfrei zu entsorgen. Ausnahmen darf das
+in die Antarktis verbringt oder vor Inkrafttreten dieses Gesetzes
+in die Antarktis verbracht hat, hat diese unverzüglich zu entfernen
+oder durch Verbrennung keimfrei zu entsorgen. Ausnahmen darf das
 Umweltbundesamt nur genehmigen, wenn die Exemplare für die heimische
 Tier- und Pflanzenwelt keine Gefahr darstellen.
 
@@ -862,8 +770,8 @@ Behörden können Erde, Tiere oder Pflanzen einschließlich deren
 Beförderungs- und Verpackungsmittel bei der Ausfuhr anhalten.
 
 (2) Das Bundesministerium der Finanzen wird ermächtigt, im
-Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und
-nukleare Sicherheit und dem Bundesministerium für Bildung und
+Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz
+und nukleare Sicherheit und dem Bundesministerium für Bildung und
 Forschung durch Rechtsverordnung die Einzelheiten der Überwachung der
 Verbote nach den §§ 17 und 18 zu regeln. Es kann dabei insbesondere
 Pflichten zur Anzeige, Anmeldung, zu Auskünften und zur Leistung von
@@ -895,8 +803,8 @@ die Lagerung verboten.
 (4) Abfälle, die aus der Antarktis entfernt werden, sind in die
 Bundesrepublik Deutschland oder in ein anderes Land zu verbringen, in
 dem Vorkehrungen für ihre Beseitigung im Einklang mit einschlägigen
-internationalen Übereinkommen getroffen worden sind. Soweit sie in die
-Bundesrepublik Deutschland verbracht werden, bleibt § 13 des
+internationalen Übereinkommen getroffen worden sind. Soweit sie in
+die Bundesrepublik Deutschland verbracht werden, bleibt § 13 des
 Abfallgesetzes unberührt. § 14 Abs. 3 der Strahlenschutzverordnung
 findet keine Anwendung.
 
@@ -908,44 +816,31 @@ Antarktis zu entfernen:
 
 1.  radioaktive Stoffe im Sinne des Atomgesetzes,
 
-
 2.  elektrische Batterien,
-
 
 3.  feste und flüssige Brennstoffe,
 
-
 4.  Abfälle mit einem schädlichen Gehalt an Schwermetallen oder mit
     hochtoxischen oder sonst schädlichen beständigen Verbindungen,
-
 
 5.  Polyvinylchlorid (PVC), Polyurethan, Polystyrolschaum, Gummi,
     Schmieröle, behandeltes Nutzholz und sonstige Erzeugnisse, die
     Zusatzstoffe enthalten, welche bei Verbrennung schädliche Emissionen
     hervorrufen können.
 
-
 6.  alle anderen Kunststoffabfälle; ausgenommen hiervon sind Behälter aus
     weichem Polyethylen, die gemäß § 23 Abs. 1 verbrannt werden,
 
-
 7.  Brennstoffässer,
-
 
 8.  sonstige feste nichtbrennbare Abfälle,
 
-
 9.  Rückstände von Kadavern eingebrachter Tiere,
-
 
 10. Laboratoriumskulturen von Mikroorganismen und Erregern von
     Pflanzenkrankheiten,
 
-
 11. eingebrachte Vogelprodukte.
-
-
-
 
 (2) Die Pflicht nach Absatz 1 gilt nicht für Abfälle nach Absatz 1 Nr.
 9 bis 11, wenn sie verbrannt, in Autoklaven behandelt oder auf andere
@@ -969,11 +864,11 @@ Verbrennung entstehenden festen Rückstände sind Abfälle im Sinne des §
 (2) Die Verbrennung von Abfällen im Freien ist verboten.
 
 (3) Das Bundesministerium für Umwelt, Naturschutz und nukleare
-Sicherheit wird ermächtigt, unter Berücksichtigung der einschlägigen
-Empfehlungen des Ausschusses für Umweltschutz nach Artikel 11 des
-Umweltschutzprotokolls zum Antarktis-Vertrag und des
-Wissenschaftlichen Ausschusses für Antarktisforschung (Scientific
-Committee on Antarctic Research) durch Rechtsverordnung
+Sicherheit wird ermächtigt, unter Berücksichtigung der
+einschlägigen Empfehlungen des Ausschusses für Umweltschutz
+nach Artikel 11 des Umweltschutzprotokolls zum Antarktis-Vertrag
+und des Wissenschaftlichen Ausschusses für Antarktisforschung
+(Scientific Committee on Antarctic Research) durch Rechtsverordnung
 Emissionsgrenzwerte und technische Anforderungen an Anlagen im Sinne
 des Absatzes 1 festzulegen.
 
@@ -986,12 +881,12 @@ möglich aus der Antarktis zu entfernen.
 
 (2) Soweit die Abfälle im Sinne des Absatzes 1 in der Antarktis
 entsorgt werden dürfen, ist die Entsorgung auf eisfreien Landflächen,
-auf Meereis, Schelfeis und Festlandseis verboten. Für Stoffe, die von
-Stationen erzeugt wurden, die auf Schelfeis oder Festlandseis
+auf Meereis, Schelfeis und Festlandseis verboten. Für Stoffe, die
+von Stationen erzeugt wurden, die auf Schelfeis oder Festlandseis
 errichtet sind, gilt Satz 1 nicht, wenn die Stoffe in tiefen Eisgruben
 entsorgt werden und dies die einzig mögliche Art der Entsorgung ist.
-Diese Gruben dürfen nicht auf bekannten Eisfließlinien liegen, die in
-eisfreien Gebieten oder in Gebieten mit hoher Abschmelztätigkeit
+Diese Gruben dürfen nicht auf bekannten Eisfließlinien liegen, die
+in eisfreien Gebieten oder in Gebieten mit hoher Abschmelztätigkeit
 enden.
 
 (3) Die Entsorgung von Abfällen im Sinne des Absatzes 1 in das Meer
@@ -1036,21 +931,14 @@ Abfälle mindestens in folgende Gruppen ein:
 
 1.  Abwässer und flüssige Haushaltsabfälle (Gruppe 1),
 
-
 2.  sonstige flüssige Abfälle und Chemikalien, einschließlich Brennstoffe
     und Schmiermittel (Gruppe 2),
 
-
 3.  zu verbrennende feste Abfälle (Gruppe 3),
-
 
 4.  sonstige feste Abfälle (Gruppe 4),
 
-
 5.  radioaktive Stoffe (Gruppe 5).
-
-
-
 
 (2) Das Umweltbundesamt stellt im Benehmen mit dem Alfred-Wegener-
 Institut für das Gebiet der Antarktis Pläne über Abfallverringerung
@@ -1061,19 +949,14 @@ Form für Feldlager:
 1.  Programme zur Reinigung bestehender Abfallagerstätten und aufgegebener
     Arbeitsstätten,
 
-
 2.  Angaben über laufende und geplante Vorkehrungen zur Abfallentsorgung,
-
 
 3.  laufende und geplante Vorkehrungen zur Analyse der Umweltauswirkungen
     von Abfällen und Abfallentsorgung,
 
-
 4.  sonstige laufende und geplante Maßnahmen mit dem Ziel, die
     Umweltauswirkungen von Abfällen und Abfallentsorgung auf ein
     Mindestmaß zu beschränken.
-
-
 
 Für kleine Boote, die beim Betrieb einer festen Station oder eines
 Schiffes benutzt werden, sind keine gesonderten Angaben nach Satz 2
@@ -1083,17 +966,17 @@ Nr. 1 bis 4 erforderlich.
 Abfallverringerung und -entsorgung für Schiffe und Stationen zu
 berücksichtigen.
 
-(4) Das Umweltbundesamt erstellt, soweit möglich, ein Verzeichnis der
-Orte früherer Tätigkeiten, das unter anderem Durchquerungswege,
+(4) Das Umweltbundesamt erstellt, soweit möglich, ein Verzeichnis
+der Orte früherer Tätigkeiten, das unter anderem Durchquerungswege,
 Brennstoffdepots, Feldbasen, Luftfahrzeugtrümmer und ähnliches angibt.
 
 (5) Die Pläne nach Absatz 2 und die Berichte über ihre Durchführung
-sind in den jährlichen Informationsaustausch nach den Artikeln III und
-VII Abs. 5 des Antarktis-Vertrages einzubeziehen. Darüber hinaus sind
-sie, gemeinsam mit dem Verzeichnis nach Absatz 4, dem Ausschuß für
-Umweltschutz nach Artikel 11 des Umweltschutzprotokolls zu
-übermitteln. Bei der Fortschreibung der Pläne berücksichtigt das
-Umweltbundesamt die Hinweise und Vorschläge des Ausschusses für
+sind in den jährlichen Informationsaustausch nach den Artikeln
+III und VII Abs. 5 des Antarktis-Vertrages einzubeziehen. Darüber
+hinaus sind sie, gemeinsam mit dem Verzeichnis nach Absatz 4, dem
+Ausschuß für Umweltschutz nach Artikel 11 des Umweltschutzprotokolls
+zu übermitteln. Bei der Fortschreibung der Pläne berücksichtigt
+das Umweltbundesamt die Hinweise und Vorschläge des Ausschusses für
 Umweltschutz.
 
 (6) Für jede Station und Arbeitsstätte ist eine geeignete Person zum
@@ -1115,15 +998,11 @@ des Antarktis-Vertrages
 1.  besonders geschützte Gebiete im Sinne des Artikels 3 der Anlage V des
     Umweltschutzprotokolls zum Antarktis-Vertrag,
 
-
 2.  besonders verwaltete Gebiete im Sinne des Artikels 4 der Anlage V des
     Umweltschutzprotokolls zum Antarktis-Vertrag,
 
-
 3.  historische Stätten und Denkmäler im Sinne des Artikels 8 der Anlage V
     des Umweltschutzprotokolls zum Antarktis-Vertrag
-
-
 
 zu benennen.
 
@@ -1137,11 +1016,11 @@ und Denkmälern ist verboten.
 
 ## § 30 Genehmigungen
 
-(1) Das Umweltbundesamt kann Ausnahmen von dem Verbot nach § 29 Abs. 2
-genehmigen, wenn die vom Antragsteller beabsichtigte Tätigkeit den
-Anforderungen des Verwaltungsplans entspricht, der gemäß Artikel 5 der
-Anlage V des Umweltschutzprotokolls zum Antarktis-Vertrag von der
-Konsultativtagung der Antarktis-Vertragsstaaten für das Gebiet
+(1) Das Umweltbundesamt kann Ausnahmen von dem Verbot nach § 29 Abs.
+2 genehmigen, wenn die vom Antragsteller beabsichtigte Tätigkeit den
+Anforderungen des Verwaltungsplans entspricht, der gemäß Artikel 5
+der Anlage V des Umweltschutzprotokolls zum Antarktis-Vertrag von
+der Konsultativtagung der Antarktis-Vertragsstaaten für das Gebiet
 erstellt wurde. Der Genehmigung sind die einschlägigen Abschnitte des
 Verwaltungsplans beizufügen. Sie enthält Angaben über Größe und Lage
 des Gebiets, benennt die genehmigten Tätigkeiten, Genehmigungsbehörde,
@@ -1188,17 +1067,17 @@ in der Antarktis und der Vorschriften dieses Gesetzes verfügen.
 (2) Der Antragsteller und der nach § 6 Abs. 1 Anzeigende haben darauf
 hinzuwirken, daß möglichst keine Erzeugnisse aus Polyvinylchlorid
 mitgeführt werden. Soweit solche Erzeugnisse dennoch mitgeführt
-werden, müssen die Teilnehmer besonders auf diese Erzeugnisse und auf
-die Pflicht, sie später wieder aus der Antarktis zu entfernen,
+werden, müssen die Teilnehmer besonders auf diese Erzeugnisse und
+auf die Pflicht, sie später wieder aus der Antarktis zu entfernen,
 hingewiesen werden.
 
-(3) Das Umweltbundesamt stellt allen Personen, die sich in der
-Antarktis befinden oder sie zu betreten beabsichtigen,
-Informationsmaterialien zur Verfügung, um sicherzustellen, daß sie die
-Bestimmungen der §§ 17, 18 und 29 verstehen und befolgen. Diese
-Informationen sollen insbesondere verbotene Aktivitäten aufführen und
-Listen der besonders geschützten Arten, der besonders geschützten und
-verwalteten Gebiete sowie der historischen Stätten und Denkmäler
+(3) Das Umweltbundesamt stellt allen Personen, die sich in
+der Antarktis befinden oder sie zu betreten beabsichtigen,
+Informationsmaterialien zur Verfügung, um sicherzustellen, daß sie
+die Bestimmungen der §§ 17, 18 und 29 verstehen und befolgen. Diese
+Informationen sollen insbesondere verbotene Aktivitäten aufführen
+und Listen der besonders geschützten Arten, der besonders geschützten
+und verwalteten Gebiete sowie der historischen Stätten und Denkmäler
 umfassen.
 
 
@@ -1213,8 +1092,8 @@ Artikel 14 des Umweltschutzprotokolls zum Antarktis-Vertrag und die
 Erstellung der Inspektionsberichte.
 
 (2) Das Auswärtige Amt versendet die nach Absatz 1 erstellten
-Inspektionsberichte und gibt Stellungnahmen gemäß Artikel 14 Abs. 4
-des Umweltschutzprotokolls zum Antarktis-Vertrag zu den
+Inspektionsberichte und gibt Stellungnahmen gemäß Artikel 14
+Abs. 4 des Umweltschutzprotokolls zum Antarktis-Vertrag zu den
 Inspektionsberichten anderer Vertragsparteien des Antarktis-Vertrages
 ab.
 
@@ -1231,7 +1110,6 @@ Antarktis-Vertrag verlangt werden, zu gewähren.
 ## § 35 (weggefallen)
 
 
-
 ## § 36 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
@@ -1239,84 +1117,62 @@ Antarktis-Vertrag verlangt werden, zu gewähren.
 1.  ohne Genehmigung nach § 3 Abs. 1 eine Tätigkeit in der Antarktis
     durchführt;
 
-
 2.  einer Rechtsverordnung nach § 5 Abs. 7 zuwiderhandelt, soweit sie für
     einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist;
-
 
 3.  entgegen § 17 Abs. 1 Nr. 1 ein Tier tötet, verletzt, fängt oder
     berührt oder Pflanzen entfernt oder beschädigt;
 
-
 4.  entgegen § 17 Abs. 1 Nr. 2 auf die Tier- und Pflanzenwelt schädlich
     einwirkt;
-
 
 5.  entgegen § 18 Abs. 1 oder 4 Satz 1 einen Hund, lebendes Geflügel oder
     einen anderen lebenden Vogel in die Antarktis verbringt;
 
-
-6.  ohne Genehmigung nach § 18 Abs. 2 Erde oder ein Tier oder eine Pflanze
-    auf das Land oder das Schelfeis verbringt oder in das Wasser
+6.  ohne Genehmigung nach § 18 Abs. 2 Erde oder ein Tier oder eine
+    Pflanze auf das Land oder das Schelfeis verbringt oder in das Wasser
     einbringt;
-
 
 7.  entgegen § 18 Abs. 4 Satz 3 geschlachtetes Geflügel in die Antarktis
     verbringt;
 
-
 8.  entgegen § 18 Abs. 5 Satz 2 Erde, ein Tier oder eine Pflanze nicht
     entfernt oder durch Verbrennung keimfrei entsorgt;
-
 
 9.  entgegen § 20 Polystyrolkügelchen, Polystyrolspäne oder ähnlich
     beschaffenes Verpackungsmaterial, Polychlorbiphenyle (PCBs) oder
     Schädlingsbekämpfungsmittel auf das Land oder das Schelfeis verbringt
     oder in das Wasser einbringt;
 
-
 10. entgegen § 21 Abs. 2 Abfälle entsorgt;
-
 
 11. entgegen § 21 Abs. 3 Abfälle ablagert oder lagert;
 
-
 12. entgegen § 22 Abs. 3 sich Abfällen entledigt;
 
-
 13. entgegen § 23 Abs. 2 Abfälle im Freien verbrennt;
-
 
 14. entgegen § 24 Abs. 2 Abfälle auf eisfreien Landflächen, auf Meereis,
     Schelfeis oder Festlandseis entsorgt;
 
-
 15. ohne Genehmigung nach § 24 Abs. 3 Abfälle ins Meer entsorgt;
-
 
 16. entgegen § 26 Abfälle so lagert, daß sie in die Umwelt gelangen;
 
-
 17. ohne Genehmigung nach § 29 Abs. 2 in der Rechtsverordnung nach § 29
     Abs. 1 Nr. 1 genannte Gebiete betritt, befährt oder überfliegt;
-
 
 18. entgegen § 29 Abs. 3 in Verbindung mit einer Rechtsverordnung nach §
     29 Abs. 1 Nr. 3 eine historische Stätte oder ein Denkmal beschädigt,
     entfernt oder zerstört;
 
-
 19. entgegen § 32 Abs. 1 Gebiete prospektiert oder Bodenschätze
     exploriert, erschließt oder gewinnt oder
 
-
 20. entgegen § 34 Abs. 3 Beobachtern keinen Zugang gewährt.
 
-
-
-
-(2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nr. 1 bis
-6, 8 bis 16, 18 und 19 mit einer Geldbuße bis zu einhunderttausend
+(2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nr. 1
+bis 6, 8 bis 16, 18 und 19 mit einer Geldbuße bis zu einhunderttausend
 Deutsche Mark und in den Fällen des Absatzes 1 Nr. 7, 17 und 20 mit
 einer Geldbuße bis zu zwanzigtausend Deutsche Mark geahndet werden.
 
@@ -1332,8 +1188,8 @@ Bundesamt für Seeschiffahrt und Hydrographie.
 
 ## § 37 Strafvorschriften
 
-(1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
-bestraft, wer eine in § 36 Abs. 1 Nr. 1 bis 4 oder 9 bis 19
+(1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe
+wird bestraft, wer eine in § 36 Abs. 1 Nr. 1 bis 4 oder 9 bis 19
 bezeichnete Handlung gewerbs- oder gewohnheitsmäßig begeht.
 
 (2) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird
@@ -1386,15 +1242,11 @@ Einrichtungen, oder der Schutz der Umwelt
 a)  eine Tätigkeit im Sinne des § 3 Abs. 1 erfordern, bevor das in diesem
     Gesetz festgelegte Verfahren abgeschlossen ist, oder
 
-
 b)  eine nach den §§ 17 bis 31 verbotene Tätigkeit erfordern.
 
-
-
-
 (2) Die Unterrichtung der übrigen Mitgliedstaaten des Antarktis-
-Vertrages und des Ausschusses für Umweltschutz über Tätigkeiten gemäß
-Artikel 7 Abs. 2 der Anlage I des Umweltschutzprotokolls zum
+Vertrages und des Ausschusses für Umweltschutz über Tätigkeiten
+gemäß Artikel 7 Abs. 2 der Anlage I des Umweltschutzprotokolls zum
 Antarktis-Vertrag erfolgt durch das Umweltbundesamt.
 
 (3) Wer in der Antarktis eine Tätigkeit nach Absatz 1 durchführt, hat
@@ -1404,9 +1256,9 @@ dem Umweltbundesamt unverzüglich die für die Unterrichtung nach Absatz
 
 ## § 42 Inkrafttreten
 
-(1) § 5 Abs. 7 und § 6 Abs. 5 dieses Gesetzes treten am Tage nach der
-Verkündung in Kraft. Im übrigen tritt dieses Gesetz an dem Tage in
-Kraft, an dem das Umweltschutzprotokoll vom 4. Oktober 1991 zum
+(1) § 5 Abs. 7 und § 6 Abs. 5 dieses Gesetzes treten am Tage nach
+der Verkündung in Kraft. Im übrigen tritt dieses Gesetz an dem Tage
+in Kraft, an dem das Umweltschutzprotokoll vom 4. Oktober 1991 zum
 Antarktis-Vertrag für die Bundesrepublik Deutschland in Kraft tritt.
 
 (2) Der Tag des Inkrafttretens ist im Bundesgesetzblatt

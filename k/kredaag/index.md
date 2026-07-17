@@ -1,6 +1,5 @@
 ---
-Title: Gesetz über die Anpassung von Kreditverträgen an Marktbedingungen sowie über
-  Ausgleichsleistungen an Kreditnehmer
+Title: Gesetz über die Anpassung von Kreditverträgen an Marktbedingungen sowie über Ausgleichsleistungen an Kreditnehmer
 jurabk: KredAAG
 layout: default
 origslug: kredaag
@@ -23,24 +22,24 @@ Geändert durch
 ## § 1
 
 (1) Kreditinstitute können den Zinssatz für Kredite, die in der
-Deutschen Demokratischen Republik bis zum 30. Juni 1990 gewährt worden
-sind, durch einseitige Erklärung gegenüber dem Kreditnehmer mit
-Wirkung zum 3. Oktober 1990 an die zu diesem Zeitpunkt bestehenden
+Deutschen Demokratischen Republik bis zum 30. Juni 1990 gewährt
+worden sind, durch einseitige Erklärung gegenüber dem Kreditnehmer
+mit Wirkung zum 3. Oktober 1990 an die zu diesem Zeitpunkt bestehenden
 Marktzinssätze anpassen, soweit die Anpassung nicht bereits aufgrund
 von Rechtsvorschriften der Deutschen Demokratischen Republik zulässig
-war oder ist. Die Erklärung nach Satz 1 muß dem Kreditnehmer bis zum
-30\. September 1991 zugegangen sein. Die Bestimmung der Leistung ist
-nach billigem Ermessen zu treffen. Der Kreditnehmer kann den
+war oder ist. Die Erklärung nach Satz 1 muß dem Kreditnehmer bis
+zum 30. September 1991 zugegangen sein. Die Bestimmung der Leistung
+ist nach billigem Ermessen zu treffen. Der Kreditnehmer kann den
 Kreditvertrag innerhalb von sechs Monaten von dem Zugang der Erklärung
 an kündigen.
 
-(2) Kreditinstitute können gleichzeitig mit der Erklärung nach Absatz
-1 Satz 1 durch einseitige Erklärung gegenüber dem Kreditnehmer
-bestimmen, daß bei Krediten, die aufgrund von Rechtsvorschriften der
-Deutschen Demokratischen Republik bis zum 30. Juni 1990 gewährt worden
-sind, die Zins- und Tilgungsmodalitäten zum 1. Juli 1991 an die dann
-bestehenden marktüblichen Modalitäten angepaßt werden. Der
-Kreditnehmer hat innerhalb von zwei Monaten von dem Zugang der
+(2) Kreditinstitute können gleichzeitig mit der Erklärung nach
+Absatz 1 Satz 1 durch einseitige Erklärung gegenüber dem Kreditnehmer
+bestimmen, daß bei Krediten, die aufgrund von Rechtsvorschriften
+der Deutschen Demokratischen Republik bis zum 30. Juni 1990 gewährt
+worden sind, die Zins- und Tilgungsmodalitäten zum 1. Juli 1991
+an die dann bestehenden marktüblichen Modalitäten angepaßt werden.
+Der Kreditnehmer hat innerhalb von zwei Monaten von dem Zugang der
 Erklärung nach Absatz 1 Satz 1 an das Recht, von dem Kreditinstitut
 die Neufassung der Zins- und Tilgungsmodalitäten im Rahmen der von dem
 Kreditinstitut üblicherweise für den Neuabschluß von Kreditverträgen
@@ -49,12 +48,8 @@ Kreditvertrag kündigen innerhalb von sechs Monaten
 
 -   nach dem Zugang der Erklärung nach Satz 1 oder,
 
-
 -   wenn das Kreditinstitut der vom Kreditnehmer nach Satz 2 verlangten
     Vertragsanpassung nicht innerhalb eines Monats zustimmt.
-
-
-
 
 (3) Das Kreditinstitut und der Kreditnehmer können Abweichendes
 vereinbaren.
@@ -85,8 +80,8 @@ liegt.
 
 (2) Kredite nach Absatz 1 Satz 1 sind insbesondere solche, die nach
 der Verordnung über die Finanzierung von Baumaßnahmen zur Schaffung
-und Erhaltung von privatem Wohnraum vom 28. April 1960 (GBl. I Nr. 34
-S. 351) in ihrer jeweils geltenden Fassung oder den in § 20 dieser
+und Erhaltung von privatem Wohnraum vom 28. April 1960 (GBl. I Nr.
+34 S. 351) in ihrer jeweils geltenden Fassung oder den in § 20 dieser
 Verordnung genannten Rechtsvorschriften gewährt wurden.
 
 
@@ -103,8 +98,8 @@ jährlich zu verzinsen waren, belaufen sich die Zinszuschüsse in der
 Zeit vom 3. Oktober 1990 bis zum 30. Juni 1991 auf 6 Prozent und vom
 1\. Juli 1991 bis zum 31. Dezember 1992 auf 2,5 Prozent.
 
-(3) Soweit diese Kredite am 30. Juni 1990 mit mehr als 1 Prozent bis
-zu 3 Prozent jährlich zu verzinsen waren, belaufen sich die
+(3) Soweit diese Kredite am 30. Juni 1990 mit mehr als 1 Prozent
+bis zu 3 Prozent jährlich zu verzinsen waren, belaufen sich die
 Zinszuschüsse vom 3. Oktober 1990 bis zum 30. Juni 1991 auf 2 Prozent.
 
 
@@ -145,8 +140,8 @@ Höhe von 2 Prozent geleistet.
 
 ## § 6a
 
-Die Ersetzung der in den §§ 3 und 5 bezeichneten Kredite durch andere
-Finanzierungsmittel berührt den Anspruch des Kreditnehmers auf
+Die Ersetzung der in den §§ 3 und 5 bezeichneten Kredite durch
+andere Finanzierungsmittel berührt den Anspruch des Kreditnehmers auf
 Zinszuschüsse nicht.
 
 
@@ -182,9 +177,9 @@ Grundpfandrechten entsprechend.
 
 ## § 9 Erlöschen von Zinsen aus Aufbaukrediten an private Vermieter
 
-(1) Rückständige Zinsen aus Darlehen, die durch Kreditinstitute der
-ehemaligen Deutschen Demokratischen Republik an private Vermieter von
-Wohn- und Gewerberaum vergeben wurden und die durch
+(1) Rückständige Zinsen aus Darlehen, die durch Kreditinstitute
+der ehemaligen Deutschen Demokratischen Republik an private
+Vermieter von Wohn- und Gewerberaum vergeben wurden und die durch
 Aufbaugrundschulden oder Aufbauhypotheken an in dem in Artikel 3 des
 Einigungsvertrages genannten Gebiet belegenen Grundstücken gesichert
 sind, sind für den Zeitraum bis zum 30. Juni 1990 erloschen, soweit

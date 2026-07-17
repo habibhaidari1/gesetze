@@ -1,6 +1,5 @@
 ---
-Title: Gesetz über vermögenswirksame Leistungen für Beamte, Richter, Berufssoldaten
-  und Soldaten auf Zeit
+Title: Gesetz über vermögenswirksame Leistungen für Beamte, Richter, Berufssoldaten und Soldaten auf Zeit
 jurabk: BBVLG 1975
 layout: default
 origslug: bbvlg_1975
@@ -33,16 +32,11 @@ Vermögensbildungsgesetz erhalten
     Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts;
     ausgenommen sind die Ehrenbeamten und entpflichtete Hochschullehrer,
 
-
 2.  Richter des Bundes und der Länder; ausgenommen sind die ehrenamtlichen
     Richter,
 
-
 3.  Berufssoldaten und Soldaten auf Zeit mit Anspruch auf Besoldung oder
     Ausbildungsgeld (§ 30 Abs. 2 des Soldatengesetzes).
-
-
-
 
 (2) Vermögenswirksame Leistungen werden für die Kalendermonate
 gewährt, in denen dem Berechtigten Dienstbezüge, Anwärterbezüge oder
@@ -50,8 +44,8 @@ Ausbildungsgeld nach § 30 Abs. 2 des Soldatengesetzes zustehen und er
 diese Bezüge erhält.
 
 (3) Der Anspruch auf die vermögenswirksamen Leistungen entsteht
-frühestens für den Kalendermonat, in dem der Berechtigte die nach § 4
-Abs. 1 erforderlichen Angaben mitteilt, und für die beiden
+frühestens für den Kalendermonat, in dem der Berechtigte die nach
+§ 4 Abs. 1 erforderlichen Angaben mitteilt, und für die beiden
 vorangegangenen Monate desselben Kalenderjahres.
 
 
@@ -105,8 +99,8 @@ der gewählten Anlage mit und gibt hierbei, soweit dies nach der Art
 der Anlage erforderlich ist, das Unternehmen oder Institut mit der
 Nummer des Kontos an, auf das die Leistung eingezahlt werden soll.
 
-(2) Für die vermögenswirksamen Leistungen nach diesem Gesetz und die
-vermögenswirksame Anlage von Teilen der Bezüge nach dem Fünften
+(2) Für die vermögenswirksamen Leistungen nach diesem Gesetz und
+die vermögenswirksame Anlage von Teilen der Bezüge nach dem Fünften
 Vermögensbildungsgesetz soll der Berechtigte möglichst dieselbe
 Anlageart und dasselbe Unternehmen oder Institut wählen.
 

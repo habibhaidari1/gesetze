@@ -1,7 +1,5 @@
 ---
-Title: Gesetz zu dem Abkommen vom 8. Februar 1995 zwischen der Bundesrepublik Deutschland
-  und der Republik Venezuela zur Vermeidung der Doppelbesteuerung auf dem Gebiet der
-  Steuern vom Einkommen und vom Vermögen
+Title: Gesetz zu dem Abkommen vom 8. Februar 1995 zwischen der Bundesrepublik Deutschland und der Republik Venezuela zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen
 jurabk: DBAVENG
 layout: default
 origslug: dbaveng
@@ -16,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl II: 1996, 727
-
 
 
 ## Eingangsformel
@@ -37,13 +34,13 @@ nachstehend veröffentlicht.
 
 ## Art 2
 
-Soweit das Abkommen auf Grund seines Artikels 28 für die Zeit vor
-seinem Inkrafttreten anzuwenden ist, sind bereits ergangene
+Soweit das Abkommen auf Grund seines Artikels 28 für die Zeit
+vor seinem Inkrafttreten anzuwenden ist, sind bereits ergangene
 Steuerfestsetzungen zu ändern oder aufzuheben. Steuerfestsetzungen
 sowie ihre Aufhebung und Änderung sind insoweit auch zulässig, wenn
-die Festsetzungsfrist abgelaufen ist; dies gilt nur bis zum Ablauf des
-vierten Kalenderjahrs, das auf das Kalenderjahr folgt, in dem das
-Abkommen in Kraft getreten ist. Soweit sich bis zum Zeitpunkt des
+die Festsetzungsfrist abgelaufen ist; dies gilt nur bis zum Ablauf
+des vierten Kalenderjahrs, das auf das Kalenderjahr folgt, in dem
+das Abkommen in Kraft getreten ist. Soweit sich bis zum Zeitpunkt des
 Inkrafttretens des Abkommens unter Berücksichtigung der jeweiligen
 Besteuerung in der Bundesrepublik Deutschland und in der Republik
 Venezuela insgesamt eine höhere Belastung ergibt, als sie nach den

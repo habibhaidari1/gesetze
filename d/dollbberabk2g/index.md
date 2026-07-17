@@ -1,7 +1,5 @@
 ---
-Title: Gesetz zum Zweiten Abkommen vom 16. August 1960 zwischen der Bundesrepublik
-  Deutschland und den Vereinigten Staaten von Amerika über gewisse Angelegenheiten,
-  die sich aus der Bereinigung deutscher Dollarbonds ergeben
+Title: Gesetz zum Zweiten Abkommen vom 16. August 1960 zwischen der Bundesrepublik Deutschland und den Vereinigten Staaten von Amerika über gewisse Angelegenheiten, die sich aus der Bereinigung deutscher Dollarbonds ergeben
 jurabk: DollBBerAbk2G
 layout: default
 origslug: dollbberabk2g
@@ -18,7 +16,6 @@ Fundstelle
 :   BGBl II: 1961, 461
 
 
-
 ## Art 1 Zustimmung zum Abkommen
 
 Dem in Bonn am 16. August 1960 unterzeichneten Zweiten Abkommen
@@ -30,20 +27,20 @@ nachstehend veröffentlicht.
 
 ## Art 2 Durchführungsvorschriften zum Abkommen
 
-(1) Für Dollarbonds, die im Verzeichnis zu Artikel I Abs. 1 des
-Abkommens aufgeführt sind, gelten die Vorschriften der Dreizehnten
-Durchführungsverordnung zum Bereinigungsgesetz für deutsche
-Auslandsbonds (Endgültige Verwaltungsabgabe) vom 10. November 1959
-(Bundesgesetzbl. I S. 682) mit der Maßgabe, daß die von den
-Ausstellern nach § 1 dieser Verordnung zu entrichtende
+(1) Für Dollarbonds, die im Verzeichnis zu Artikel I Abs. 1
+des Abkommens aufgeführt sind, gelten die Vorschriften der
+Dreizehnten Durchführungsverordnung zum Bereinigungsgesetz für
+deutsche Auslandsbonds (Endgültige Verwaltungsabgabe) vom 10.
+November 1959 (Bundesgesetzbl. I S. 682) mit der Maßgabe, daß die
+von den Ausstellern nach § 1 dieser Verordnung zu entrichtende
 Verwaltungsabgabe für das Bereinigungsverfahren vier vom Hundert des
 Bemessungsbetrages beträgt; für Dollarbonds, die im Verzeichnis unter
 Nummer 1 aufgeführt sind, ist die Verwaltungsabgabe von den Garanten
 zu entrichten.
 
 (2) Für Dollarbonds, die in dem in Absatz 1 genannten Verzeichnis
-unter Nummer 1 aufgeführt sind, gelten die Vorschriften des
-Auslandsbonds-Entschädigungsgesetzes vom 10. März 1960
+unter Nummer 1 aufgeführt sind, gelten die Vorschriften
+des Auslandsbonds-Entschädigungsgesetzes vom 10. März 1960
 (Bundesgesetzbl. I S. 177) mit der Maßgabe, daß die Leistungspflicht
 gegenüber Entschädigungsberechtigten (§ 5 Abs. 1 des Auslandsbonds-
 Entschädigungsgesetzes) zwei Monate nach Ablauf der Anmeldefrist,
@@ -55,8 +52,8 @@ Garanten beginnt.
 
 (1) Über das im Geltungsbereich dieses Gesetzes befindliche Vermögen
 von juristischen Personen, die am 8. Mai 1945 ihren Sitz im Deutschen
-Reich innerhalb seiner Grenzen vom 31. Dezember 1937 gehabt haben und
-die im Geltungsbereich dieses Gesetzes weder eine gewerbliche
+Reich innerhalb seiner Grenzen vom 31. Dezember 1937 gehabt haben
+und die im Geltungsbereich dieses Gesetzes weder eine gewerbliche
 Niederlassung noch einen allgemeinen Gerichtsstand haben, findet ein
 Konkursverfahren auch dann statt, wenn die Voraussetzungen des § 238
 Abs. 2 der Konkursordnung nicht gegeben sind. Für das Verfahren ist
@@ -75,14 +72,14 @@ Aussteller als Massekosten im Sinne des § 58 Nr. 2 der Konkursordnung.
 
 ## Art 4 Nachträgliche Erteilung von Feststellungsbescheiden
 
-(1) Auslandsbonds, für die nach §§ 4, 37 des Bereinigungsgesetzes für
-deutsche Auslandsbonds ein Feststellungsbescheid beansprucht wird,
-können nachträglich angemeldet werden, wenn die Versäumung der
-Anmeldefristen (§ 37 Abs. 2 in Verbindung mit § 21 Abs. 1 des
+(1) Auslandsbonds, für die nach §§ 4, 37 des Bereinigungsgesetzes
+für deutsche Auslandsbonds ein Feststellungsbescheid beansprucht
+wird, können nachträglich angemeldet werden, wenn die Versäumung
+der Anmeldefristen (§ 37 Abs. 2 in Verbindung mit § 21 Abs. 1 des
 Bereinigungsgesetzes für deutsche Auslandsbonds) nicht auf eigener
-grober Fahrlässigkeit des Anmeldeberechtigten beruht. Ist eine frühere
-Anmeldung wegen Fristversäumung abgelehnt worden, so kann die
-Anmeldung unter der in Satz 1 genannten Voraussetzung wiederholt
+grober Fahrlässigkeit des Anmeldeberechtigten beruht. Ist eine
+frühere Anmeldung wegen Fristversäumung abgelehnt worden, so kann
+die Anmeldung unter der in Satz 1 genannten Voraussetzung wiederholt
 werden.
 
 (2) Entschädigungsansprüche aus Feststellungsbescheiden, die auf eine
@@ -90,14 +87,14 @@ nachträgliche Anmeldung nach Absatz 1 erteilt werden, können nicht
 geltend gemacht werden, soweit dies zu einer Beeinträchtigung der
 Entschädigungsansprüche nach §§ 52 bis 54 des Bereinigungsgesetzes für
 deutsche Auslandsbonds führen würde. Sie sind insoweit ausgeschlossen,
-als ihre Berücksichtigung den Aussteller nach § 53 Abs. 2 oder nach §
-54 Abs. 2 des Bereinigungsgesetzes für deutsche Auslandsbonds zu
-Kürzungen berechtigen würde; ein Ausschluß des Kürzungsrechts nach § 6
-Abs. 1 des Auslandsbonds-Entschädigungsgesetzes bleibt dabei außer
+als ihre Berücksichtigung den Aussteller nach § 53 Abs. 2 oder nach
+§ 54 Abs. 2 des Bereinigungsgesetzes für deutsche Auslandsbonds zu
+Kürzungen berechtigen würde; ein Ausschluß des Kürzungsrechts nach §
+6 Abs. 1 des Auslandsbonds-Entschädigungsgesetzes bleibt dabei außer
 Betracht.
 
-(3) Für die in Absatz 2 genannten Entschädigungsansprüche gelten die
-Vorschriften des Auslandsbonds-Entschädigungsgesetzes über
+(3) Für die in Absatz 2 genannten Entschädigungsansprüche gelten
+die Vorschriften des Auslandsbonds-Entschädigungsgesetzes über
 Entschädigungsansprüche aus Feststellungsbescheiden mit Ausnahme der
 §§ 6, 9 und mit der Maßgabe, daß die Leistungspflicht des Ausstellers
 frühestens zwei Monate nach Rechtskraft des Feststellungsbescheids
@@ -112,10 +109,10 @@ entsprechend.
 
 ## Art 6 Vorschriften für auf deutsche Währung lautende Schuldverschreibungen
 
-(1) Für Schuldverschreibungen, die von den im Verzeichnis zu Artikel I
-Abs. 1 des Abkommens genannten Ausstellern vor dem 9. Mai 1945 in
-deutscher Währung ausgegeben worden sind, gelten die in § 27 des
-Dritten Gesetzes zur Änderung und Ergänzung des
+(1) Für Schuldverschreibungen, die von den im Verzeichnis zu
+Artikel I Abs. 1 des Abkommens genannten Ausstellern vor dem
+9\. Mai 1945 in deutscher Währung ausgegeben worden sind, gelten
+die in § 27 des Dritten Gesetzes zur Änderung und Ergänzung des
 Wertpapierbereinigungsgesetzes vom 16. November 1956 (Bundesgesetzbl.
 I S. 850) bezeichneten Wertpapierbereinigungsgesetze sinngemäß mit
 folgenden Maßgaben:
@@ -124,50 +121,42 @@ folgenden Maßgaben:
     maßgebend ist, tritt an dessen Stelle der Zeitpunkt des Inkrafttretens
     dieses Gesetzes.
 
-
 2.  Schuldverschreibungen, für die keine Lieferbarkeitsbescheinigungen
-    ausgestellt sind, gelten im Geltungsbereich dieses Gesetzes als
-    kraftlos. Vom Tag der Bekanntmachung der rechtskräftigen Feststellung
-    durch die Kammer für Wertpapierbereinigung an dürfen
+    ausgestellt sind, gelten im Geltungsbereich dieses Gesetzes
+    als kraftlos. Vom Tag der Bekanntmachung der rechtskräftigen
+    Feststellung durch die Kammer für Wertpapierbereinigung an dürfen
     Lieferbarkeitsbescheinigungen nicht mehr ausgestellt werden.
-
 
 3.  Für die Bereinigung von Schuldverschreibungen, die von dem im
     Verzeichnis unter Nummer 1 genannten Aussteller ausgegeben worden
     sind, gelten die in dem Verzeichnis genannten Garanten als Aussteller.
 
-
 4.  Als Prüfstelle kann ein Kreditinstitut im Geltungsbereich dieses
     Gesetzes benannt werden.
 
-
-5.  Zuständigkeiten, die nach dem Wertpapierbereinigungsgesetz von dem
-    Sitz des Ausstellers abhängen, richten sich nach dem Sitz der
+5.  Zuständigkeiten, die nach dem Wertpapierbereinigungsgesetz von
+    dem Sitz des Ausstellers abhängen, richten sich nach dem Sitz der
     Prüfstelle.
 
-
-6.  Die Schuldverschreibungen gelten für das Bereinigungsverfahren als
-    fällig im Sinne des § 1 des Zweiten Gesetzes zur Änderung und
-    Ergänzung des Wertpapierbereinigungsgesetzes; §§ 11, 12, 13, 19 des
-    Zweiten Gesetzes zur Änderung und Ergänzung des
+6.  Die Schuldverschreibungen gelten für das Bereinigungsverfahren
+    als fällig im Sinne des § 1 des Zweiten Gesetzes zur Änderung
+    und Ergänzung des Wertpapierbereinigungsgesetzes; §§ 11, 12,
+    13, 19 des Zweiten Gesetzes zur Änderung und Ergänzung des
     Wertpapierbereinigungsgesetzes sind nicht anzuwenden.
 
-
-
-
-(2) Für Schuldverschreibungen, die von dem im Verzeichnis unter Nummer
-1 genannten Aussteller ausgegeben worden sind, gelten auch die
-Vorschriften des Dritten Gesetzes zur Änderung und Ergänzung des
+(2) Für Schuldverschreibungen, die von dem im Verzeichnis unter
+Nummer 1 genannten Aussteller ausgegeben worden sind, gelten auch
+die Vorschriften des Dritten Gesetzes zur Änderung und Ergänzung des
 Wertpapierbereinigungsgesetzes über Nachanmeldungen sinngemäß.
 
-(3) Die Bundesregierung kann durch Rechtsverordnung, die nicht der
-Zustimmung des Bundesrates bedarf, die Vorschriften dieses Artikels
-auf vor dem 9. Mai 1945 in deutscher Währung ausgegebene
-Schuldverschreibungen anderer juristischer Personen ausdehnen, die am
-8\. Mai 1945 ihren Sitz im Deutschen Reich innerhalb seiner Grenzen vom
-31\. Dezember 1937 gehabt haben und für deren Schuldverschreibungen die
-Voraussetzungen für eine Bereinigung nicht gegeben sind. Eine
-Rechtsverordnung nach Satz 1 darf nur erlassen werden, wenn
+(3) Die Bundesregierung kann durch Rechtsverordnung, die nicht
+der Zustimmung des Bundesrates bedarf, die Vorschriften dieses
+Artikels auf vor dem 9. Mai 1945 in deutscher Währung ausgegebene
+Schuldverschreibungen anderer juristischer Personen ausdehnen, die
+am 8. Mai 1945 ihren Sitz im Deutschen Reich innerhalb seiner Grenzen
+vom 31. Dezember 1937 gehabt haben und für deren Schuldverschreibungen
+die Voraussetzungen für eine Bereinigung nicht gegeben sind.
+Eine Rechtsverordnung nach Satz 1 darf nur erlassen werden, wenn
 verwertbares Vermögen der Aussteller im Geltungsbereich dieses
 Gesetzes festgestellt wird, dessen Umfang Bereinigungsmaßnahmen
 erforderlich erscheinen läßt, oder wenn Bereinigungsmaßnahmen aus

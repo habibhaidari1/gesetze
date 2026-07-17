@@ -1,7 +1,5 @@
 ---
-Title: Verordnung über die kapitalverkehrsteuerliche Gleichstellung der Europäischen
-  Gemeinschaft für Kohle und Stahl, der Europäischen Atomgemeinschaft und der Europäischen
-  Investitionsbank mit dem Bund
+Title: Verordnung über die kapitalverkehrsteuerliche Gleichstellung der Europäischen Gemeinschaft für Kohle und Stahl, der Europäischen Atomgemeinschaft und der Europäischen Investitionsbank mit dem Bund
 jurabk: KVStGleichstV
 layout: default
 origslug: kvstgleichstv
@@ -16,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 1961, 454
-
 
 
 ## Eingangsformel
@@ -34,16 +31,11 @@ Bund gleich:
 
 1.  Die Europäische Gemeinschaft für Kohle und Stahl,
 
-
 2.  die Europäische Atomgemeinschaft,
-
 
 3.  die auf Grund des Artikels 129 des Vertrages zur Gründung der
     Europäischen Wirtschaftsgemeinschaft errichtete Europäische
     Investitionsbank.
-
-
-
 
 
 ## § 2

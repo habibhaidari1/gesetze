@@ -1,7 +1,5 @@
 ---
-Title: Anordnung des Bundespräsidenten über die Dienstkleidung der bei den deutschen
-  Auslandsvertretungen für den Geheim-, Haus- und Objektschutz eingesetzten Polizeivollzugsbeamten
-  im BGS
+Title: Anordnung des Bundespräsidenten über die Dienstkleidung der bei den deutschen Auslandsvertretungen für den Geheim-, Haus- und Objektschutz eingesetzten Polizeivollzugsbeamten im BGS
 jurabk: BPräsKldgBGSAuslAnO
 layout: default
 origslug: bpr_skldgbgsauslano
@@ -16,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 1974, 3386
-
 
 
 ## I.

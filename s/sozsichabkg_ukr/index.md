@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zu dem Abkommen vom 7. November 2018 zwischen der Bundesrepublik Deutschland
-  und der Ukraine über Soziale Sicherheit
+Title: Gesetz zu dem Abkommen vom 7. November 2018 zwischen der Bundesrepublik Deutschland und der Ukraine über Soziale Sicherheit
 jurabk: SozSichAbkG UKR
 layout: default
 origslug: sozsichabkg_ukr
@@ -28,11 +27,14 @@ beschlossen:
 Folgenden in Kiew am 7. November 2018 unterzeichneten
 zwischenstaatlichen Übereinkünften zwischen der Bundesrepublik
 Deutschland und der Ukraine über Soziale Sicherheit wird zugestimmt:
+
 1\. dem Abkommen zwischen der Bundesrepublik Deutschland und der
 Ukraine über Soziale Sicherheit,
+
 2\. der Vereinbarung zur Durchführung des Abkommens vom 7. November
 2018 zwischen der Bundesrepublik Deutschland und der Ukraine über
 Soziale Sicherheit.
+
 Das Abkommen und die Durchführungsvereinbarung werden nachstehend
 veröffentlicht.
 
@@ -48,12 +50,15 @@ Zustimmung des Bundesrates die zur Durchführung des Abkommens
 erforderlichen innerstaatlichen Regelungen zu treffen. Dabei können
 zur Anwendung und Durchführung des Abkommens insbesondere über
 folgende Gegenstände Regelungen getroffen werden:
+
 1\. Aufklärungs-, Anzeige- und Mitteilungspflichten sowie das
 Bereitstellen von Beweismitteln zwischen den mit der Durchführung des
 Abkommens befassten Stellen sowie zwischen diesen und den betroffenen
 Personen,
+
 2\. das Ausstellen, die Vorlage und Übermittlung von Bescheinigungen
 sowie die Verwendung von Vordrucken,
+
 3\. die Zuständigkeit der Versicherungsträger oder anderer im Abkommen
 genannter Stellen und Behörden.
 
@@ -61,6 +66,7 @@ genannter Stellen und Behörden.
 ## Art 3
 
 (1) Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
+
 (2) Der Tag, an dem das Abkommen nach seinem Artikel 30 Absatz 2 und
 die Vereinbarung zur Durchführung des Abkommens nach ihrem Artikel 9
 Absatz 1 in Kraft treten, ist im Bundesgesetzblatt bekannt zu geben.

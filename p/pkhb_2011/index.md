@@ -15,10 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 606
 
-Stand: Zeitlich überholt
-Abgelöst durch
-:   Bek. 310-19-2-19 v. 7.12.2011 I 2796 (PKHB 2012) mWv 21.12.2011
-
 
 ## (XXXX)
 
@@ -34,11 +30,9 @@ Einkommen der Partei abzusetzen sind, betragen
     Absatz 1 Satz 3 Nummer 1 Buchstabe b der Zivilprozessordnung), 182
     Euro,
 
-
 2.  für die Partei und ihren Ehegatten oder ihren Lebenspartner (§ 115
     Absatz 1 Satz 3 Nummer 2 Buchstabe a der Zivilprozessordnung), 400
     Euro,
-
 
 3.  für jede weitere Person, der die Partei auf Grund gesetzlicher
     Unterhaltspflicht Unterhalt leistet, in Abhängigkeit von ihrem Alter
@@ -46,22 +40,13 @@ Einkommen der Partei abzusetzen sind, betragen
 
     a)  Erwachsene 320 Euro,
 
-
     b)  Jugendliche vom Beginn des 15. bis zur Vollendung des 18. Lebensjahres
         316 Euro,
-
 
     c)  Kinder vom Beginn des siebten bis zur Vollendung des 14. Lebensjahres
         276 Euro,
 
-
     d)  Kinder bis zur Vollendung des sechsten Lebensjahres 237 Euro.
-
-
-
-
-
-
 
 
 ## Schlussformel

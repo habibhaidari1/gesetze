@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen
-  Mark (Beethoven-Gedenkmünze)
+Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Beethoven-Gedenkmünze)
 jurabk: Münz5DMBek 1971-08
 layout: default
 origslug: m_nz5dmbek_1971-08
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 1971, 1349
-
 
 
 ## (XXXX)
@@ -33,28 +31,21 @@ Feinsilber und 375 Tausendteilen Kupfer. Sie hat einen Durchmesser von
 (3) Das Gepräge auf beiden Seiten ist erhaben und wird von einem
 schützenden glatten Randstab umgeben.
 
-(4) Die Wertseite zeigt in der Mitte den Bundesadler und unterhalb des
-Schwanzes und der Krallen die durch die Wertziffer 5 geteilte
+(4) Die Wertseite zeigt in der Mitte den Bundesadler und unterhalb
+des Schwanzes und der Krallen die durch die Wertziffer 5 geteilte
 Jahreszahl 1970. Das Münzzeichen F der Staatlichen Münze Stuttgart ist
 in dem Bogen der Wertziffer 5 untergebracht.
 
-
 (5) Die Umschrift lautet: BUNDESREPUBLIK DEUTSCHLAND
 
-    5 DEUTSCHE MARK.
-
-
-
+                          5 DEUTSCHE MARK.
 
 (6) Die Bildseite zeigt das Kopfbild Ludwig van Beethovens mit der
 Umschrift: LUDWIG VAN BEETHOVEN . 1770-1827.
 
 (7) Der glatte Münzrand ist mit der vertieften Inschrift versehen:
 
-*   ALLE MENSCHEN WERDEN BRÜDER.
-
-
-
+-   ALLE MENSCHEN WERDEN BRÜDER.
 
 (8) Zwischen dem Anfang und dem Ende der Inschrift ist ein Ornament
 eingeprägt.

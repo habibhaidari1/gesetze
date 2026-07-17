@@ -15,20 +15,21 @@ Ausfertigungsdatum
 Fundstelle
 :   GBl DDR I: 1990, 1483
 
+Fundstelle
+:   GBl DDR I: 1990, Nr 61, 1483
 
 
 ## I. - Allgemeine Bestimmungen
-
 
 
 ### § 1 Geltungsbereich
 
 (1) Dieses Gesetz gilt für die rechtsfähigen Stiftungen des
 Privatrechts und des öffentlichen Rechts, einschließlich kirchlicher
-Stiftungen, die in der Deutschen Demokratischen Republik bzw. in den
-Ländern Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen/Anhalt,
-Thüringen und der ihnen gleichgestellten Stadt Berlin ihren Sitz
-haben.
+Stiftungen, die in der Deutschen Demokratischen Republik bzw. in
+den Ländern Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen/
+Anhalt, Thüringen und der ihnen gleichgestellten Stadt Berlin ihren
+Sitz haben.
 
 (2) Dieses Gesetz gilt in den in Absatz 1 aufgeführten Ländern sowie
 der ihnen gleichgestellten Stadt Berlin solange, bis dort ein anderes
@@ -55,16 +56,14 @@ geführt wird.
 ## II. - Stiftungen des Privatrechts
 
 
-
 ### § 4 Stiftungserfordernisse
 
-Zur Entstehung einer rechtsfähigen Stiftung des Privatrechts bedarf es
-außer eines Stiftungsgeschäfts der Genehmigung durch die
+Zur Entstehung einer rechtsfähigen Stiftung des Privatrechts
+bedarf es außer eines Stiftungsgeschäfts der Genehmigung durch die
 Stiftungsbehörde.
 
 
 ### - - Stiftungsgeschäft
-
 
 
 #### § 5 Stiftungsgeschäft
@@ -74,18 +73,18 @@ Form.
 
 (2) Bis zur Erteilung der Genehmigung ist der Stifter zum Widerruf
 berechtigt. Ist die Genehmigung bei der zuständigen Behörde
-nachgesucht, so kann der Widerruf nur dieser gegenüber erklärt werden.
-Der Erbe des Stifters ist zum Widerrufe nicht berechtigt, wenn der
-Stifter das Gesuch bei der zuständigen Behörde eingereicht oder im
-Falle der gerichtlichen oder notariellen Beurkundung des
+nachgesucht, so kann der Widerruf nur dieser gegenüber erklärt
+werden. Der Erbe des Stifters ist zum Widerrufe nicht berechtigt,
+wenn der Stifter das Gesuch bei der zuständigen Behörde eingereicht
+oder im Falle der gerichtlichen oder notariellen Beurkundung des
 Stiftungsgeschäfts das Gericht oder den Notar bei oder nach der
 Beurkundung mit der Einreichung betraut hat.
 
 
 #### § 6
 
-Wird die Stiftung genehmigt, so ist der Stifter verpflichtet, das in
-dem Stiftungsgeschäft zugesicherte Vermögen auf die Stiftung zu
+Wird die Stiftung genehmigt, so ist der Stifter verpflichtet, das
+in dem Stiftungsgeschäft zugesicherte Vermögen auf die Stiftung zu
 übertragen. Rechte, zu deren Übertragung der Abtretungsvertrag genügt,
 gehen mit der Genehmigung auf die Stiftung über, sofern nicht aus dem
 Stiftungsgeschäft sich ein anderer Wille des Stifters ergibt.
@@ -100,8 +99,8 @@ von dem Erben oder dem Testamentsvollstrecker nachgesucht wird.
 
 #### § 8
 
-Wird die Stiftung erst nach dem Tode des Stifters genehmigt, so gilt
-sie für die Zuwendungen des Stifters als schon vor dessen Tode
+Wird die Stiftung erst nach dem Tode des Stifters genehmigt, so
+gilt sie für die Zuwendungen des Stifters als schon vor dessen Tode
 entstanden.
 
 
@@ -116,20 +115,20 @@ dieses Gesetzes beruht, durch das Stiftungsgeschäft bestimmt.
 (1) Die Satzung einer Stiftung muß Bestimmungen enthalten über den
 Namen, den Sitz, den Zweck, das Vermögen und die Organe der Stiftung.
 
-(2) Die Satzung soll ferner Regelungen enthalten über die Anzahl der
-Mitglieder der Stiftungsorgane, ihre Bestellung, Amtsdauer und
-Abberufung, ihren Geschäftsbereich und ihre Vertretungsvollmacht sowie
-die Einberufung, Beschlußfähigkeit und Beschlußfassung der
-Stiftungsorgane, die Rechtsstellung der durch die Stiftung
+(2) Die Satzung soll ferner Regelungen enthalten über die Anzahl
+der Mitglieder der Stiftungsorgane, ihre Bestellung, Amtsdauer und
+Abberufung, ihren Geschäftsbereich und ihre Vertretungsvollmacht
+sowie die Einberufung, Beschlußfähigkeit und Beschlußfassung
+der Stiftungsorgane, die Rechtsstellung der durch die Stiftung
 Begünstigten, die Änderung der Stiftungssatzung oder die Aufhebung der
 Stiftung und den Vermögensanfall nach dem Erlöschen der Stiftung.
 
-(3) Fehlen Satzungsbestimmungen, kann die Stiftungsbehörde den Stifter
-oder Antragsteller zu einer entsprechenden Ergänzung der Satzung
-auffordern. Ist der Stifter dazu nicht mehr in der Lage, kann die
-Stiftungsbehörde die Satzung bei der Genehmigung der Stiftung
-ergänzen; das gilt nicht für Bestimmungen über Zweck und Vermögen der
-Stiftung.
+(3) Fehlen Satzungsbestimmungen, kann die Stiftungsbehörde den
+Stifter oder Antragsteller zu einer entsprechenden Ergänzung der
+Satzung auffordern. Ist der Stifter dazu nicht mehr in der Lage, kann
+die Stiftungsbehörde die Satzung bei der Genehmigung der Stiftung
+ergänzen; das gilt nicht für Bestimmungen über Zweck und Vermögen
+der Stiftung.
 
 
 #### § 11 Vorstand
@@ -148,9 +147,9 @@ des Vereinsrechts entsprechend.
 
 #### § 12 Haftung
 
-(1) Verletzen Mitglieder des Vorstandes oder eines anderen Organs der
-Stiftung schuldhaft ihre Obliegenheiten, so sind sie der Stiftung zum
-Ersatz des daraus entstehenden Schadens als Gesamtschuldner
+(1) Verletzen Mitglieder des Vorstandes oder eines anderen Organs
+der Stiftung schuldhaft ihre Obliegenheiten, so sind sie der Stiftung
+zum Ersatz des daraus entstehenden Schadens als Gesamtschuldner
 verpflichtet.
 
 (2) Mitglieder von Organen der Stiftung, die ohne Entgelt tätig sind,
@@ -162,20 +161,20 @@ Pflichten.
 
 (1) In eine Stiftung können alle Arten von Vermögenswerten und
 Gegenstände eingebracht werden. Insbesondere können finanzielle
-Mittel, Rechte an beweglichen und unbeweglichen Sachen, Forderungen,
-Kunstwerke und Beteiligungen an Wirtschaftsunternehmen
+Mittel, Rechte an beweglichen und unbeweglichen Sachen,
+Forderungen, Kunstwerke und Beteiligungen an Wirtschaftsunternehmen
 Stiftungseigentum darstellen.
 
-(2) Die Erträgnisse der Stiftungen können sich aus den Anlagen des
-Stiftungsvermögens, daneben aus Spenden, Zuwendungen sowie aus
+(2) Die Erträgnisse der Stiftungen können sich aus den Anlagen
+des Stiftungsvermögens, daneben aus Spenden, Zuwendungen sowie aus
 Leistungsentgelten ergeben.
 
 
 #### § 14 Vermögensverwaltung
 
-(1) Die Stiftung ist nach den Gesetzen, dem Stiftungsgeschäft und der
-Stiftungssatzung sparsam und wirtschaftlich zu verwalten. Die
-Verwaltung dient der dauernden und nachhaltigen Erfüllung des
+(1) Die Stiftung ist nach den Gesetzen, dem Stiftungsgeschäft
+und der Stiftungssatzung sparsam und wirtschaftlich zu verwalten.
+Die Verwaltung dient der dauernden und nachhaltigen Erfüllung des
 Stiftungszwecks.
 
 (2) Das Stiftungsvermögen ist in seinem Bestand zu erhalten; es sei
@@ -188,7 +187,6 @@ Wirtschaftsführung einzuhalten.
 
 
 ## III. - Genehmigung und Stiftungsaufsicht
-
 
 
 ### § 15 Genehmigung
@@ -209,14 +207,10 @@ Genehmigung sind bei der Stiftungsbehörde zu hinterlegen.
 
 a)  wenn die Stiftung das Gemeinwohl gefährden würde;
 
-
 b)  wenn die dauernde und nachhaltige Erfüllung des Stiftungszweckes
     insbesondere wegen unzureichender Mittel nicht gewährleistet ist und
     auch weitere ausreichende Zuwendungen nicht mit Sicherheit zu erwarten
     sind.
-
-
-
 
 (2) Die Genehmigung kann versagt werden, wenn das Stiftungsgeschäft
 oder die Satzung keine ausreichenden Bestimmungen über Zweck und
@@ -237,24 +231,24 @@ Antragsteller schriftlich mitzuteilen und öffentlich bekanntzumachen.
 
 ### § 18 Rechtsaufsicht
 
-Die Stiftungen stehen unter der Rechtsaufsicht des Landes, in dem sie
-ihren Sitz haben. Sie beschränkt sich darauf, zu überwachen, daß die
-Organe der Stiftung die Gesetze, das Stiftungsgesetz und die
+Die Stiftungen stehen unter der Rechtsaufsicht des Landes, in dem
+sie ihren Sitz haben. Sie beschränkt sich darauf, zu überwachen,
+daß die Organe der Stiftung die Gesetze, das Stiftungsgesetz und die
 Stiftungssatzung beachten.
 
 
 ### § 19 Tätigkeit der Stiftungsbehörde
 
 (1) Die Stiftungsbehörde ist befugt, sich über alle Angelegenheiten
-der Stiftung zu unterrichten. Sie kann insbesondere Anstalten und
-Einrichtungen der Stiftung besichtigen, die Geschäfts- und
+der Stiftung zu unterrichten. Sie kann insbesondere Anstalten
+und Einrichtungen der Stiftung besichtigen, die Geschäfts- und
 Kassenführung prüfen oder auf Kosten der Stiftung prüfen lassen und
 Berichte und Akten anfordern.
 
-(2) Die Stiftungsbehörde kann Maßnahmen der Stiftungsorgane, die den
-Gesetzen, dem Stiftungsgeschäft oder der Stiftungssatzung
-widersprechen, beanstanden und verlangen, daß sie innerhalb einer
-bestimmten Frist aufgehoben oder rückgängig gemacht werden.
+(2) Die Stiftungsbehörde kann Maßnahmen der Stiftungsorgane, die
+den Gesetzen, dem Stiftungsgeschäft oder der Stiftungssatzung
+widersprechen, beanstanden und verlangen, daß sie innerhalb
+einer bestimmten Frist aufgehoben oder rückgängig gemacht werden.
 Unterlassen die Stiftungsorgane vorgesehene Maßnahmen, so kann die
 Stiftungsbehörde für die Durchsetzung der Maßnahmen eine Frist setzen
 und nach deren erfolglosen Ablauf selbst die erforderlichen Maßnahmen
@@ -267,9 +261,9 @@ die Abberufung eines Mitglieds und die Berufung eines anderen
 verlangen. Sie kann dem Mitglied die Geschäftsführung einstweilen
 untersagen.
 
-(4) Ist die Stiftung zur Abberufung des Mitglieds nicht in der Lage
-oder kommt sie innerhalb einer bestimmten Frist dem Verlangen der
-Stiftungsbehörde nach Absatz 3 Satz 1 nicht nach, so kann die
+(4) Ist die Stiftung zur Abberufung des Mitglieds nicht in der
+Lage oder kommt sie innerhalb einer bestimmten Frist dem Verlangen
+der Stiftungsbehörde nach Absatz 3 Satz 1 nicht nach, so kann die
 Stiftungsbehörde das Mitglied abberufen und ein anderes an seiner
 Stelle berufen.
 
@@ -279,8 +273,8 @@ Stelle berufen.
 (1) Bei der Stiftungsbehörde ist ein Verzeichnis der in ihrem
 Zuständigkeitsbereich bestehenden und neu entstehenden Stiftungen
 (Stiftungsverzeichnis) zu führen. In das Stiftungsverzeichnis sind
-Name, Sitz, Zweck, Vertretungsberechtigung und Zusammensetzung der
-Organe der Stiftung und der Tag der Erteilung der Genehmigung
+Name, Sitz, Zweck, Vertretungsberechtigung und Zusammensetzung
+der Organe der Stiftung und der Tag der Erteilung der Genehmigung
 einzutragen; die Satzung ist zur Eintragung beizufügen. Änderungen der
 Satzung sowie die Auflösung der Stiftung sind einzutragen.
 
@@ -300,16 +294,15 @@ Stiftungszweck sind öffentlich bekannt zu machen.
 ## IV. - Satzungsänderung und Beendigung der Stiftungen
 
 
-
 ### § 21 Satzungsänderung
 
 (1) Wenn die Satzung dies vorsieht oder wenn sich die Verhältnisse
-seit der Errichtung der Stiftung wesentlich geändert haben, kann die
-Satzung geändert oder die Stiftung mit einer anderen Stiftung
+seit der Errichtung der Stiftung wesentlich geändert haben, kann
+die Satzung geändert oder die Stiftung mit einer anderen Stiftung
 zusammengelegt werden.
 
-(2) Zu Lebzeiten des Stifters ist dessen Zustimmung erforderlich. In
-Rechte derer, die durch die Stiftung begünstigt sind, darf nicht
+(2) Zu Lebzeiten des Stifters ist dessen Zustimmung erforderlich.
+In Rechte derer, die durch die Stiftung begünstigt sind, darf nicht
 eingegriffen werden.
 
 (3) Maßnahmen nach Absatz 1 werden von den zur Verwaltung der Stiftung
@@ -353,14 +346,9 @@ Bestimmung des Anfallberechtigten übertragen, so fällt das Vermögen
 
 1.  einer kommunalen Stiftung an die kommunale Körperschaft,
 
-
 2.  einer kirchlichen Stiftung an die aufsichtsführende Kirche,
 
-
 3.  aller anderen Stiftungen an das Land.
-
-
-
 
 (2) Die Anfallberechtigten haben das Vermögen tunlichst in einer den
 Zwecken der Stiftung entsprechenden Weise zu verwenden.
@@ -371,7 +359,6 @@ Vereinsrecht statt.
 
 
 ## V. - Stiftungen öffentlichen Rechts
-
 
 
 ### § 24
@@ -389,7 +376,6 @@ in das Stiftungsverzeichnis mitzuteilen.
 
 
 ## VI. - Kommunale Stiftungen
-
 
 
 ### § 25
@@ -410,13 +396,12 @@ wird.
 ## VII. - Kirchliche Stiftungen
 
 
-
 ### § 26
 
-(1) Kirchliche Stiftungen im Sinne dieses Gesetzes sind Stiftungen,
-die ausschließlich oder überwiegend dazu bestimmt sind, kirchliche
-Aufgaben zu erfüllen und von einer Kirche errichtet oder
-organisatorisch mit einer Kirche verbunden oder in der
+(1) Kirchliche Stiftungen im Sinne dieses Gesetzes sind
+Stiftungen, die ausschließlich oder überwiegend dazu bestimmt sind,
+kirchliche Aufgaben zu erfüllen und von einer Kirche errichtet
+oder organisatorisch mit einer Kirche verbunden oder in der
 Stiftungssatzung der kirchlichen Aufsicht unterstellt oder deren
 Zwecke nur sinnvoll in Verbindung mit einer Kirche zu erfüllen sind.
 
@@ -437,8 +422,8 @@ erscheint oder von der Kirche gewährleistet wird.
 Kirchenbehörde als kirchliche Stiftung genehmigt werden. Das gleiche
 gilt für die Aufhebung oder Umwandlung einer kirchlichen Stiftung.
 
-(3) Kirchliche Stiftungen unterliegen nicht der Staatsaufsicht, wenn
-sie kirchlichen Vorschriften entsprechend von der zuständigen
+(3) Kirchliche Stiftungen unterliegen nicht der Staatsaufsicht,
+wenn sie kirchlichen Vorschriften entsprechend von der zuständigen
 Kirchenbehörde beaufsichtigt werden. Der Erlaß allgemeiner
 Vorschriften über Namen, Sitz, Zweck, Vertretung, Verwaltung und
 Beaufsichtigung kirchlicher Stiftungen ist Aufgabe der Kirche.
@@ -447,11 +432,10 @@ Beaufsichtigung kirchlicher Stiftungen ist Aufgabe der Kirche.
 ## VIII. - Nichtrechtsfähige Stiftungen
 
 
-
 ### § 28
 
-(1) Eine nichtrechtsfähige Stiftung ist eine Vermögensmasse, die einem
-bestimmten Zweck gewidmet ist aber keine Rechtsperson darstellt,
+(1) Eine nichtrechtsfähige Stiftung ist eine Vermögensmasse, die
+einem bestimmten Zweck gewidmet ist aber keine Rechtsperson darstellt,
 sondern nach dem Willen des Stifters auf eine juristische Person des
 Privatrechts oder öffentlichen Rechts zur treuhänderischen Verwaltung
 übertragen worden ist. Ihre gesetzliche Vertretung erfolgt durch die
@@ -465,7 +449,6 @@ Stiftung entsprechend.
 ## IX. - Übergangs- und Schlußbestimmungen
 
 
-
 ### § 29
 
 Die bei Inkrafttreten dieses Gesetzes bestehenden Stiftungen bestehen
@@ -476,17 +459,17 @@ dieses Gesetzes anzuwenden.
 ### § 30
 
 (1) Bestehende Stiftungen haben der zuständigen Stiftungsbehörde
-innerhalb eines Jahres nach Inkrafttreten dieses Gesetzes Name, Sitz,
-Zweck, Vertretungsberechtigung und Zusammensetzung der Organe und,
-soweit möglich, den Tag der Erteilung der Genehmigung und die
+innerhalb eines Jahres nach Inkrafttreten dieses Gesetzes Name,
+Sitz, Zweck, Vertretungsberechtigung und Zusammensetzung der Organe
+und, soweit möglich, den Tag der Erteilung der Genehmigung und die
 erteilende Stelle mitzuteilen sowie ihre Satzung vorzulegen.
 
 (2) Stiftungen, die keine Satzung oder eine den zwingenden
 Vorschriften dieses Gesetzes nicht entsprechende Satzung haben, sind
 verpflichtet, der zuständigen Stiftungsbehörde innerhalb der in Absatz
 1 genannten Frist eine Satzung vorzulegen, die mit den zwingenden
-Vorschriften dieses Gesetzes übereinstimmt. Zuständig sind hierfür die
-in der Satzung oder dem Stiftungsgeschäft für den Erlaß oder die
+Vorschriften dieses Gesetzes übereinstimmt. Zuständig sind hierfür
+die in der Satzung oder dem Stiftungsgeschäft für den Erlaß oder die
 Änderung der Satzung bestimmten Organe. Fehlt eine solche Bestimmung,
 ist das oberste Beschlußorgan der Stiftung zuständig. Die Satzung
 bedarf der Genehmigung der Stiftungsbehörde. Die Genehmigung gilt als
@@ -496,9 +479,9 @@ sechs Monaten, nachdem ihr die Satzung vorgelegt wurde, beanstandet.
 
 ### § 31
 
-Bestehen Zweifel über die Rechtsnatur einer Stiftung, die für sie
-geltende Satzung oder die Stiftungsverwaltung, so entscheidet darüber
-die Stiftungsbehörde. Sie kann der Stiftung eine andere
+Bestehen Zweifel über die Rechtsnatur einer Stiftung, die für
+sie geltende Satzung oder die Stiftungsverwaltung, so entscheidet
+darüber die Stiftungsbehörde. Sie kann der Stiftung eine andere
 Zweckbestimmung geben oder die Stiftung auflösen. Bei der Umwandlung
 des Stiftungszwecks ist die Absicht des Stifters tunlichst zu
 berücksichtigen; die Stiftungsbehörde kann in diesem Fall, soweit
@@ -510,9 +493,8 @@ Stiftung soll gehört werden.
 
 (1) Dieses Gesetz tritt am 24. September 1990 in Kraft.
 
-(2)
-§ 9 des Einführungsgesetzes zum Zivilgesetzbuch vom 19. Juni 1975
-(GBl. I Nr. 27 S. 517) wird aufgehoben.
+(2) *§ 9 des Einführungsgesetzes zum Zivilgesetzbuch vom 19. Juni 1975
+(GBl. I Nr. 27 S. 517) wird aufgehoben.*
 
 
 ### Schlußformel

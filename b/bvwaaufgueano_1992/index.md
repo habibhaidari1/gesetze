@@ -15,6 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: 1992, Nr 85, 3869
 
+Fundstelle
+:   BAnz: 1992, 3869
 
 
 ## I.

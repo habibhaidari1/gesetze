@@ -1,6 +1,5 @@
 ---
-Title: Übergangsgesetz aus Anlaß des Zweiten Gesetzes zur Änderung der Handwerksordnung
-  und anderer handwerksrechtlicher Vorschriften
+Title: Übergangsgesetz aus Anlaß des Zweiten Gesetzes zur Änderung der Handwerksordnung und anderer handwerksrechtlicher Vorschriften
 jurabk: HwOuaÜG
 layout: default
 origslug: hwoua_g
@@ -17,10 +16,7 @@ Fundstelle
 :   BGBl I: 1998, 596, 604
 
 Zuletzt geändert durch
-:   Art. 3 G v. 6.2.2020 I 142
-
-Änderung durch
-:   Art. 2 G v. 9.6.2021 I 1654 (Nr. 31) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 9.6.2021 I 1654
 
 
 ## § 1
@@ -36,8 +32,8 @@ Handwerksordnung wird auch dem Gewerbe Nummer 4 Dachdecker der Anlage
 A zur Handwerksordnung als wesentliche Tätigkeit zugeordnet.
 
 (3) Die wesentliche Tätigkeit Lackierung von Karosserien und
-Fahrzeugen des Gewerbes Nummer 10 Maler und Lackierer der Anlage A zur
-Handwerksordnung wird auch den Gewerben Nummer 15 Karosserie- und
+Fahrzeugen des Gewerbes Nummer 10 Maler und Lackierer der Anlage A
+zur Handwerksordnung wird auch den Gewerben Nummer 15 Karosserie- und
 Fahrzeugbauer und Nummer 20 Kraftfahrzeugtechniker der Anlage A zur
 Handwerksordnung als wesentliche Tätigkeit zugeordnet. Die wesentliche
 Tätigkeit Reparatur von Karosserien und Fahrzeugen der Gewerbe Nummer
@@ -48,24 +44,25 @@ Tätigkeit zugeordnet, soweit dies zur Vorbereitung der Lackierung von
 Fahrzeugen und Karosserien erforderlich ist.
 
 (4) Die wesentliche Tätigkeit Aufstellen von Arbeits- und
-Schutzgerüsten des Gewerbes Nummer 11 Gerüstbauer der Anlage A zur
-Handwerksordnung wird auch den Gewerben Nummer 1 Maurer und
-Betonbauer, Nummer 3 Zimmerer, Nummer 4 Dachdecker, Nummer 5
+Schutzgerüsten des Gewerbes Nummer 11 Gerüstbauer der Anlage
+A zur Handwerksordnung dürfen auch die Gewerbe Nummer 1 Maurer
+und Betonbauer, Nummer 3 Zimmerer, Nummer 4 Dachdecker, Nummer 5
 Straßenbauer, Nummer 6 Wärme-, Kälte- und Schallschutzisolierer,
-Nummer 7 Brunnenbauer, Nummer 8 Steinmetzen und Steinbildhauer, Nummer
-9 Stukkateure, Nummer 10 Maler und Lackierer, Nummer 12
+Nummer 7 Brunnenbauer, Nummer 8 Steinmetzen und Steinbildhauer,
+Nummer 9 Stuckateure, Nummer 10 Maler und Lackierer, Nummer 12
 Schornsteinfeger, Nummer 13 Metallbauer, Nummer 18 Kälteanlagenbauer,
 Nummer 23 Klempner, Nummer 24 Installateur und Heizungsbauer, Nummer
-25 Elektrotechniker, Nummer 27 Tischler, Nummer 39 Glaser, Nummer 42
-Fliesen-, Platten- und Mosaikleger, Nummer 43 Betonstein- und
-Terrazzohersteller, Nummer 44 Estrichleger und Nummer 51 Schilder- und
-Lichtreklamehersteller der Anlage A zur Handwerksordnung als
-wesentliche Tätigkeit zugeordnet. Die wesentliche Tätigkeit Aufstellen
-von Arbeits- und Schutzgerüsten des Gewerbes Nummer 11 Gerüstbauer der
-Anlage A zur Handwerksordnung darf auch das Gewerbe Nummer 33
-Gebäudereiniger der Anlage B Abschnitt 1 zur Handwerksordnung ausüben,
-mit der Maßgabe, dass § 1 Absatz 1 Satz 1 der Handwerksordnung
-insoweit nicht anzuwenden ist.
+25 Elektrotechniker, Nummer 27 Tischler, Nummer 39 Glaser, Nummer
+42 Fliesen-, Platten- und Mosaikleger, Nummer 43 Werkstein- und
+Terrazzohersteller, Nummer 44 Estrichleger und Nummer 51 Schilder-
+und Lichtreklamehersteller der Anlage A zur Handwerksordnung nur zur
+Ermöglichung der jeweils zu diesen Gewerben gehörenden Tätigkeiten
+ausüben. Die wesentliche Tätigkeit Aufstellen von Arbeits- und
+Schutzgerüsten des Gewerbes Nummer 11 Gerüstbauer der Anlage A zur
+Handwerksordnung darf auch das Gewerbe Nummer 33 Gebäudereiniger der
+Anlage B Abschnitt 1 zur Handwerksordnung nur zur Ermöglichung der zu
+diesem Gewerbe gehörenden Tätigkeiten ausüben, mit der Maßgabe, dass §
+1 Absatz 1 Satz 1 der Handwerksordnung insoweit nicht anzuwenden ist.
 
 (5) Das Gewerbe Nummer 19 Informationstechniker der Anlage A zur
 Handwerksordnung umfasst nicht die strukturierte Verkabelung als
@@ -84,8 +81,8 @@ der in der Anlage A zur Handwerksordnung aufgeführten Gewerbe.
 ## § 2
 
 Soweit durch Artikel 1 des Zweiten Gesetzes zur Änderung der
-Handwerksordnung und anderer handwerksrechtlicher Vorschriften vom 25.
-März 1998 (BGBl. I S. 596) Gewerbe in der Anlage A zur
+Handwerksordnung und anderer handwerksrechtlicher Vorschriften
+vom 25. März 1998 (BGBl. I S. 596) Gewerbe in der Anlage A zur
 Handwerksordnung in der Fassung der Bekanntmachung vom 28. Dezember
 1965 (BGBl. 1966 I S. 1), die zuletzt durch Artikel 2 Abs. 21 des
 Gesetzes vom 17. Dezember 1997 (BGBl. I S. 3108) geändert worden ist,
@@ -98,9 +95,9 @@ Bezeichnung erhalten.
 ## § 3
 
 Wer ein zulassungsfreies Handwerk nach § 18 Abs. 2 Satz 1 der
-Handwerksordnung betreibt und am 31. Dezember 2003 berechtigt war, ein
-zulassungspflichtiges Handwerk auszuüben, kann hierbei auch Arbeiten
-in zulassungspflichtigen Handwerken nach § 1 Abs. 1 der
+Handwerksordnung betreibt und am 31. Dezember 2003 berechtigt war,
+ein zulassungspflichtiges Handwerk auszuüben, kann hierbei auch
+Arbeiten in zulassungspflichtigen Handwerken nach § 1 Abs. 1 der
 Handwerksordnung ausüben, wenn sie mit dem Leistungsangebot seines
 Gewerbes technisch oder fachlich zusammenhängen oder es wirtschaftlich
 ergänzen.

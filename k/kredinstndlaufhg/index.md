@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl I: 1956, 1073
 
 
-
 ## § 1
 
 (1)
@@ -25,8 +24,8 @@ Fundstelle
 Nachfolgeinstitute errichtet hat (ausgründendes Kreditinstitut),
 entfällt die sich aus § 10 des Gesetzes über den Niederlassungsbereich
 von Kreditinstituten ergebende Beschränkung, wenn sich das
-ausgründende Kreditinstitut mit seinen Nachfolgeinstituten oder mit
-einem durch Vereinigung seiner Nachfolgeinstitute gebildeten
+ausgründende Kreditinstitut mit seinen Nachfolgeinstituten oder
+mit einem durch Vereinigung seiner Nachfolgeinstitute gebildeten
 Kreditinstitut vereinigt.
 
 
@@ -38,32 +37,25 @@ Kreditinstitut vereinigt.
     miteinander, oder eines Nachfolgeinstituts mit einem durch Vereinigung
     von Nachfolgeinstituten gebildeten Kreditinstitut,
 
-
-2.  des ausgründenden Kreditinstituts mit Nachfolgeinstituten dieses
-    Kreditinstituts oder einem durch Vereinigung solcher
+2.  des ausgründenden Kreditinstituts mit Nachfolgeinstituten
+    dieses Kreditinstituts oder einem durch Vereinigung solcher
     Nachfolgeinstitute gebildeten Kreditinstitut
-
-
 
 gilt § 3 dieses Gesetzes.
 
 (2) Nachfolgeinstituten im Sinne des Absatzes 1 stehen gleich
 
-1.  mit Mitteln des ausgründenden Kreditinstituts mit dem Sitz in Berlin
-    errichtete oder in Berlin mit Mitteln der Nachfolgeinstitute
+1.  mit Mitteln des ausgründenden Kreditinstituts mit dem Sitz in
+    Berlin errichtete oder in Berlin mit Mitteln der Nachfolgeinstitute
     betriebene Kreditinstitute,
-
 
 2.  Kreditinstitute, die auf Grund der nach dem 8. Mai 1945 geltenden
     Niederlassungsvorschriften als Unternehmen mit beschränktem
-    Niederlassungsbereich gegründet worden sind, um die Aufgaben eines bei
-    Kriegsende geschlossenen Kreditinstituts zu übernehmen, das
+    Niederlassungsbereich gegründet worden sind, um die Aufgaben eines
+    bei Kriegsende geschlossenen Kreditinstituts zu übernehmen, das
     Niederlassungen in den drei in § 1 Abs. 1 des Gesetzes über den
     Niederlassungsbereich von Kreditinstituten genannten Bezirken
     unterhalten hat.
-
-
-
 
 
 ## § 3
@@ -86,32 +78,29 @@ wäre, übersteigt.
 
 (3) Die Ermäßigung erstreckt sich nicht auf die Zusatzgebühr für
 Beurkundungen außerhalb der Gerichtsstelle und für fremdsprachliche
-Erklärungen
-(§§ 52, 53 der Kostenordnung).              Die Gebühr für die
-Beurkundung außerhalb der Gerichtsstelle darf jedoch den Betrag der
-für das Geschäft selbst zu erhebenden ermäßigten Gebühr nicht
+Erklärungen *(§§ 52, 53 der Kostenordnung).* Die Gebühr für die
+Beurkundung außerhalb der Gerichtsstelle darf jedoch den Betrag
+der für das Geschäft selbst zu erhebenden ermäßigten Gebühr nicht
 übersteigen.
 
-(4) Die Bestimmungen über die Mindestgebühr
-(§ 26 Abs. 3, § 72 der Kostenordnung)              bleiben unberührt.
+(4) Die Bestimmungen über die Mindestgebühr *(§ 26 Abs. 3, § 72 der
+Kostenordnung)* bleiben unberührt.
 
 (5) Die Gebührenermäßigung tritt ein, wenn die Vereinigung sämtlicher
-Nachfolgeinstitute desselben ausgründenden Kreditinstituts, die ihren
-Sitz im Bundesgebiet haben, innerhalb von zwei Jahren seit dem
+Nachfolgeinstitute desselben ausgründenden Kreditinstituts, die
+ihren Sitz im Bundesgebiet haben, innerhalb von zwei Jahren seit dem
 Inkrafttreten dieses Gesetzes durchgeführt wird.
 
 
 ## § 4
 
 Vereinigung im Sinne dieses Gesetzes ist die Verschmelzung durch
-Aufnahme oder Neubildung gemäß
-§§ 233ff.              des Aktiengesetzes oder die Übertragung des
-Vermögens nach
-§ 255              des Aktiengesetzes oder nach dem Gesetz über die
-Umwandlung von Kapitalgesellschaften und bergrechtlichen
-Gewerkschaften. Eine Vereinigung von Nachfolgeinstituten liegt auch
-vor, wenn ein Nachfolgeinstitut die Mehrheit der Gesellschaftsanteile
-anderer Nachfolgeinstitute erwirbt.
+Aufnahme oder Neubildung gemäß *§§ 233ff.* des Aktiengesetzes
+oder die Übertragung des Vermögens nach *§ 255* des Aktiengesetzes
+oder nach dem Gesetz über die Umwandlung von Kapitalgesellschaften
+und bergrechtlichen Gewerkschaften. Eine Vereinigung von
+Nachfolgeinstituten liegt auch vor, wenn ein Nachfolgeinstitut die
+Mehrheit der Gesellschaftsanteile anderer Nachfolgeinstitute erwirbt.
 
 
 ## § 5

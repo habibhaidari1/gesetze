@@ -22,12 +22,11 @@ Zuletzt geändert durch
 ## Erster Abschnitt - Allgemeine Bestimmungen
 
 
-
 ### § 1 Aufgaben des Zivilschutzes
 
 (1) Aufgabe des Zivilschutzes ist es, durch nichtmilitärische
-Maßnahmen die Bevölkerung, ihre Wohnungen und Arbeitsstätten, lebens-
-oder verteidigungswichtige zivile Dienststellen, Betriebe,
+Maßnahmen die Bevölkerung, ihre Wohnungen und Arbeitsstätten,
+lebens- oder verteidigungswichtige zivile Dienststellen, Betriebe,
 Einrichtungen und Anlagen sowie das Kulturgut vor Kriegseinwirkungen
 zu schützen und deren Folgen zu beseitigen oder zu mildern.
 Behördliche Maßnahmen ergänzen die Selbsthilfe der Bevölkerung.
@@ -36,26 +35,17 @@ Behördliche Maßnahmen ergänzen die Selbsthilfe der Bevölkerung.
 
 1.  der Selbstschutz,
 
-
 2.  die Warnung der Bevölkerung,
-
 
 3.  der Schutzbau,
 
-
 4.  die Aufenthaltsregelung,
-
 
 5.  der Katastrophenschutz nach Maßgabe des § 11,
 
-
 6.  Maßnahmen zum Schutz der Gesundheit,
 
-
 7.  Maßnahmen zum Schutz von Kulturgut.
-
-
-
 
 
 ### § 2 Auftragsverwaltung
@@ -66,9 +56,9 @@ des Bundes. Wenn nichts anderes bestimmt ist, richten sich die
 Zuständigkeit der Behörden und das Verwaltungsverfahren nach den für
 den Katastrophenschutz geltenden Vorschriften der Länder.
 
-(2) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung zu
-bestimmen, daß mehrere Gemeinden, kommunale Zusammenschlüsse oder
-Gemeindeverbände alle oder einzelne Aufgaben des Zivilschutzes
+(2) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
+zu bestimmen, daß mehrere Gemeinden, kommunale Zusammenschlüsse
+oder Gemeindeverbände alle oder einzelne Aufgaben des Zivilschutzes
 gemeinsam wahrnehmen und wer für die Leitung zuständig ist. Die
 Landesregierungen können diese Ermächtigung auf oberste Landesbehörden
 übertragen.
@@ -80,8 +70,8 @@ Landesregierungen können diese Ermächtigung auf oberste Landesbehörden
 
 (1) Einheiten, Einrichtungen und Anlagen, die für den Zivilschutz
 eingesetzt werden, haben den Voraussetzungen des Artikels 63 des IV.
-Genfer Abkommens vom 12. August 1949 zum Schutz von Zivilpersonen in
-Kriegszeiten (BGBl. 1954 II S. 781) und des Artikels 61 des
+Genfer Abkommens vom 12. August 1949 zum Schutz von Zivilpersonen
+in Kriegszeiten (BGBl. 1954 II S. 781) und des Artikels 61 des
 Zusatzprotokolls zu den Genfer Abkommen vom 12. August 1949 über den
 Schutz der Opfer internationaler bewaffneter Konflikte (Protokoll I)
 (BGBl. 1990 II S. 1550) zu entsprechen.
@@ -95,50 +85,36 @@ Völkerrecht bleiben unberührt.
 ### § 4 Zuständigkeit des Bundes für den Schutz der Zivilbevölkerung
 
 (1) Die Verwaltungsaufgaben des Bundes nach diesem Gesetz werden dem
-Bundesamt für Bevölkerungsschutz und Katastrophenhilfe zugewiesen. Dem
-Bundesamt für Bevölkerungsschutz und Katastrophenhilfe obliegen
+Bundesamt für Bevölkerungsschutz und Katastrophenhilfe zugewiesen.
+Dem Bundesamt für Bevölkerungsschutz und Katastrophenhilfe obliegen
 insbesondere
 
 1.  die Unterstützung der fachlich zuständigen obersten Bundesbehörden bei
     einer einheitlichen Zivilverteidigungsplanung,
 
-
-2.
-    a)  die Unterweisung des mit Fragen der zivilen Verteidigung befassten
+2.  a)  die Unterweisung des mit Fragen der zivilen Verteidigung befassten
         Personals sowie die Ausbildung von Führungskräften und Ausbildern des
         Katastrophenschutzes im Rahmen ihrer Zivilschutzaufgaben,
-
 
     b)  die Entwicklung von Ausbildungsinhalten des Zivilschutzes,
         einschließlich des Selbstschutzes,
 
-
     c)  die Unterstützung der Gemeinden und Gemeindeverbände bei der Erfüllung
         der Aufgaben nach § 5 Abs. 1 dieses Gesetzes,
 
-
-
-
-
 3.  die Mitwirkung bei der Warnung der Bevölkerung,
-
 
 4.  die Information der Bevölkerung über den Zivilschutz, insbesondere
     über Schutz- und Hilfeleistungsmöglichkeiten,
-
 
 5.  die Aufgabenstellung für technisch-wissenschaftliche Forschung im
     Benehmen mit den Ländern, die Auswertung von Forschungsergebnissen
     sowie die Sammlung und Auswertung von Veröffentlichungen auf dem
     Gebiet der zivilen Verteidigung,
 
-
 6.  die Prüfung von ausschließlich oder überwiegend für den Zivilschutz
     bestimmten Geräten und Mitteln sowie die Mitwirkung bei der Zulassung,
     Normung und Qualitätssicherung dieser Gegenstände.
-
-
-
 
 (2) Die der Bundesregierung nach Artikel 85 Abs. 4 des Grundgesetzes
 auf dem Gebiet des Zivilschutzes zustehenden Befugnisse werden auf das
@@ -148,13 +124,12 @@ Bundesamt für Bevölkerungsschutz und Katastrophenhilfe übertragen.
 ## Zweiter Abschnitt - Selbstschutz
 
 
-
 ### § 5 Selbstschutz
 
 (1) Aufbau, Förderung und Leitung des Selbstschutzes der Bevölkerung
-sowie Förderung des Selbstschutzes der Behörden und Betriebe gegen die
-besonderen Gefahren, die im Verteidigungsfall drohen, obliegen den
-Gemeinden.
+sowie Förderung des Selbstschutzes der Behörden und Betriebe gegen
+die besonderen Gefahren, die im Verteidigungsfall drohen, obliegen
+den Gemeinden.
 
 (2) Für die Unterrichtung und Ausbildung der Bevölkerung sowie in den
 sonstigen Angelegenheiten des Selbstschutzes können die Gemeinden sich
@@ -171,7 +146,6 @@ treffen. Die Anordnungen bedürfen keiner besonderen Form.
 ## Dritter Abschnitt - Warnung der Bevölkerung
 
 
-
 ### § 6 Warnung der Bevölkerung
 
 (1) Der Bund erfaßt die besonderen Gefahren, die der Bevölkerung in
@@ -179,8 +153,8 @@ einem Verteidigungsfall drohen.
 
 (2) Die für die Warnung bei Katastrophen zuständigen Behörden der
 Länder warnen im Auftrage des Bundes auch vor den besonderen Gefahren,
-die der Bevölkerung in einem Verteidigungsfall drohen. Soweit die für
-den Katastrophenschutz erforderlichen Warnmittel für Zwecke des
+die der Bevölkerung in einem Verteidigungsfall drohen. Soweit die
+für den Katastrophenschutz erforderlichen Warnmittel für Zwecke des
 Zivilschutzes nicht ausreichen, ergänzt der Bund das Instrumentarium.
 
 (3) Die Bundesregierung wird ermächtigt, zur Ausführung dieses
@@ -194,16 +168,15 @@ Zustimmung des Bundesrates näher zu regeln.
 ## Vierter Abschnitt - Schutzbau
 
 
-
 ### § 7 Öffentliche Schutzräume
 
 (1) Öffentliche Schutzräume sind die mit Mitteln des Bundes
 wiederhergestellten Bunker und Stollen sowie die als Mehrzweckbauten
-in unterirdischen baulichen Anlagen errichteten Schutzräume zum Schutz
-der Bevölkerung. Sie werden von den Gemeinden verwaltet und
-unterhalten. Einnahmen aus einer friedensmäßigen Nutzung der
-Schutzräume stehen den Gemeinden zu. Bildet der öffentliche Schutzraum
-mit anderen Anlagen eine betriebliche Einheit, so kann dem
+in unterirdischen baulichen Anlagen errichteten Schutzräume zum
+Schutz der Bevölkerung. Sie werden von den Gemeinden verwaltet
+und unterhalten. Einnahmen aus einer friedensmäßigen Nutzung
+der Schutzräume stehen den Gemeinden zu. Bildet der öffentliche
+Schutzraum mit anderen Anlagen eine betriebliche Einheit, so kann dem
 Grundstückseigentümer die Verwaltung und Unterhaltung des Schutzraumes
 und seiner Ausstattung übertragen werden. Die Kosten sind ihm von der
 Gemeinde zu erstatten.
@@ -217,15 +190,15 @@ Bundesministerium des Innern, für Bau und Heimat.
 (3) Die Absätze 1 und 2 gelten auch für Schutzräume in dem in Artikel
 3 des Einigungsvertrages genannten Gebiet, die vom Bundesministerium
 des Innern, für Bau und Heimat als öffentliche Schutzräume anerkannt
-worden sind, sowie für die Bestandserhaltung der bisher zum Zwecke der
-gesundheitlichen Versorgung der Bevölkerung im Verteidigungsfall
+worden sind, sowie für die Bestandserhaltung der bisher zum Zwecke
+der gesundheitlichen Versorgung der Bevölkerung im Verteidigungsfall
 errichteten Schutzbauwerke.
 
 
 ### § 8 Hausschutzräume
 
-(1) Hausschutzräume, die mit Zuschüssen des Bundes oder steuerlich
-begünstigt gebaut wurden, sind vom Eigentümer oder
+(1) Hausschutzräume, die mit Zuschüssen des Bundes oder
+steuerlich begünstigt gebaut wurden, sind vom Eigentümer oder
 Nutzungsberechtigten in einem ihrer Bestimmung entsprechenden Zustand
 zu erhalten. Veränderungen, die die Benutzung des Schutzraumes
 beeinträchtigen könnten, dürfen ohne Zustimmung der nach Landesrecht
@@ -246,34 +219,28 @@ Geschäftsbereich Regelungen für bauliche Schutzmaßnahmen treffen.
 ## Fünfter Abschnitt - Aufenthaltsregelung
 
 
-
 ### § 10 Aufenthaltsregelung
 
 (1) Zum Schutze vor den besonderen Gefahren, die der Bevölkerung im
-Verteidigungsfall drohen, oder für Zwecke der Verteidigung können die
-obersten Landesbehörden oder die von ihnen bestimmten oder nach
+Verteidigungsfall drohen, oder für Zwecke der Verteidigung können
+die obersten Landesbehörden oder die von ihnen bestimmten oder nach
 Landesrecht zuständigen Stellen nach Maßgabe des Artikels 80a des
 Grundgesetzes anordnen, daß
 
 1.  der jeweilige Aufenthaltsort nur mit Erlaubnis verlassen oder ein
     bestimmtes Gebiet nicht betreten werden darf,
 
-
 2.  die Bevölkerung besonders gefährdeter Gebiete vorübergehend evakuiert
     wird.
 
-
-
-
 (2) Die Länder, Gemeinden und Gemeindeverbände sind verpflichtet, die
 zur Durchführung der Evakuierung sowie zur Aufnahme und Versorgung der
-evakuierten Bevölkerung erforderlichen Vorbereitungen und Maßnahmen zu
-treffen. Die zuständigen Bundesbehörden leisten die erforderliche
+evakuierten Bevölkerung erforderlichen Vorbereitungen und Maßnahmen
+zu treffen. Die zuständigen Bundesbehörden leisten die erforderliche
 Unterstützung.
 
 
 ## Sechster Abschnitt - Katastrophenschutz im Zivilschutz und Katastrophenhilfe des Bundes
-
 
 
 ### § 11 Einbeziehung des Katastrophenschutzes
@@ -300,8 +267,8 @@ Katastrophenschutzes zur Verfügung.
 
 ### § 13 Ausstattung
 
-(1) Der Bund ergänzt die Ausstattung des Katastrophenschutzes in den
-Aufgabenbereichen Brandschutz, ABC-Schutz, Sanitätswesen und
+(1) Der Bund ergänzt die Ausstattung des Katastrophenschutzes in
+den Aufgabenbereichen Brandschutz, ABC-Schutz, Sanitätswesen und
 Betreuung.
 
 (2) Die ergänzende Ausstattung wird vom Bund zur Verfügung gestellt.
@@ -323,10 +290,10 @@ der Aufgaben nach § 11.
 ### § 14 Aus- und Fortbildung
 
 Die Aus- und Fortbildungsmaßnahmen des Bundesamtes für
-Bevölkerungsschutz und Katastrophenhilfe nach § 4 Abs. 1 Satz 2 Nr. 2
-Buchstabe a dienen zugleich den Ländern für die Vorbereitung ihrer
-Entscheidungsträger, Führungskräfte und sonstigen Fachkräfte auf die
-Bewältigung von Katastrophen und Unglücksfällen und umfassen
+Bevölkerungsschutz und Katastrophenhilfe nach § 4 Abs. 1 Satz 2
+Nr. 2 Buchstabe a dienen zugleich den Ländern für die Vorbereitung
+ihrer Entscheidungsträger, Führungskräfte und sonstigen Fachkräfte
+auf die Bewältigung von Katastrophen und Unglücksfällen und umfassen
 insbesondere auch die Planung, Durchführung und Auswertung von
 ressort- und länderübergreifenden Krisenmanagementübungen. Die Aus-
 und Fortbildungsmaßnahmen des Bundes bauen auf der Ausbildung der
@@ -338,8 +305,8 @@ Länder im Bereich des Katastrophenschutzes auf und ergänzen diese.
 Die für den Katastrophenschutz zuständige Behörde leitet und
 koordiniert alle Hilfsmaßnahmen in ihrem Bereich. Sie beaufsichtigt
 die Einheiten und Einrichtungen des Katastrophenschutzes bei der
-Durchführung der Aufgaben nach diesem Gesetz. Sie kann den Trägern der
-Einheiten in ihrem Bereich Weisungen zur Durchführung von
+Durchführung der Aufgaben nach diesem Gesetz. Sie kann den Trägern
+der Einheiten in ihrem Bereich Weisungen zur Durchführung von
 Veranstaltungen zur ergänzenden Aus- und Fortbildung sowie zur
 Unterbringung und Pflege der ergänzenden Ausstattung erteilen. Bei
 Einsätzen und angeordneten Übungen nach diesem Gesetz unterstehen ihr
@@ -354,12 +321,12 @@ Hilfe im Zivilschutz zu leisten.
 (1) Die Einrichtungen und Vorhaltungen des Bundesamtes für
 Bevölkerungsschutz und Katastrophenhilfe, insbesondere im Bereich
 Lageerfassung und -bewertung sowie Nachweis und Vermittlung von
-Engpassressourcen, können auch im Rahmen der Amtshilfe nach Artikel 35
-Abs. 1 des Grundgesetzes zur Unterstützung eines Landes verwendet
+Engpassressourcen, können auch im Rahmen der Amtshilfe nach Artikel
+35 Abs. 1 des Grundgesetzes zur Unterstützung eines Landes verwendet
 werden.
 
-(2) Die Unterstützung nach Absatz 1 umfasst auch die Koordinierung von
-Hilfsmaßnahmen durch den Bund, wenn das betroffene Land oder die
+(2) Die Unterstützung nach Absatz 1 umfasst auch die Koordinierung
+von Hilfsmaßnahmen durch den Bund, wenn das betroffene Land oder die
 betroffenen Länder darum ersuchen. Die Festlegung, welche Maßnahmen
 vom Bund koordiniert werden, trifft der Bund im Einvernehmen mit dem
 betroffenen Land oder den betroffenen Ländern.
@@ -374,34 +341,28 @@ eigenen Aufgaben bleibt unberührt.
 
 ### § 17 Datenerhebung und -verwendung
 
-(1) Soweit es zur Erfüllung seiner Aufgaben nach § 16 erforderlich
-ist, darf das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe
-Angaben, einschließlich personenbezogener Daten, über
-Hilfeleistungspotenziale und über Objekte und infrastrukturelle
+(1) Soweit es zur Erfüllung seiner Aufgaben nach § 16
+erforderlich ist, darf das Bundesamt für Bevölkerungsschutz und
+Katastrophenhilfe Angaben, einschließlich personenbezogener Daten,
+über Hilfeleistungspotenziale und über Objekte und infrastrukturelle
 Einrichtungen, die für den Zivil- und Katastrophenschutz relevant
 sind, erheben und verwenden. Hierzu zählen insbesondere Angaben über
 
 1.  personelle, materielle und infrastrukturelle Potenziale der
     allgemeinen Gefahrenabwehr,
 
-
 2.  Betriebe, Einrichtungen und Anlagen, von denen bei einer Schadenslage
     zusätzliche Gefahren ausgehen können (Risikopotenziale),
-
 
 3.  Infrastrukturen, bei deren Ausfall die Versorgung der Bevölkerung
     erheblich beeinträchtigt wird (kritische Infrastrukturen), und
 
-
 4.  Objekte, die aufgrund ihrer Symbolkraft oder Dimension als mögliche
     Ziele von Angriffen in Betracht kommen (gefährdete Objekte).
 
-
-
-
-(2) Die nach Absatz 1 erhobenen personenbezogenen Daten dürfen nur an
-die im Zivil- und Katastrophenschutz mitwirkenden öffentlichen und
-nichtöffentlichen Stellen übermittelt werden und nur, soweit die
+(2) Die nach Absatz 1 erhobenen personenbezogenen Daten dürfen nur
+an die im Zivil- und Katastrophenschutz mitwirkenden öffentlichen
+und nichtöffentlichen Stellen übermittelt werden und nur, soweit die
 Kenntnis der Daten aus Sicht des Bundesamtes für Bevölkerungsschutz
 und Katastrophenhilfe für Zwecke der Lageerfassung oder -bewertung
 oder zum Nachweis oder zur Vermittlung von Engpassressourcen
@@ -419,8 +380,8 @@ dürfen, sowie Fristen für die Löschung der Daten zu bestimmen.
 (1) Der Bund erstellt im Zusammenwirken mit den Ländern eine
 bundesweite Risikoanalyse für den Zivilschutz. Das Bundesministerium
 des Innern, für Bau und Heimat unterrichtet den Deutschen Bundestag
-über die Ergebnisse der Risikoanalyse nach Satz 1 ab 2010 jährlich. Im
-Jahr ihrer Fertigstellung unterrichtet es den Deutschen Bundestag
+über die Ergebnisse der Risikoanalyse nach Satz 1 ab 2010 jährlich.
+Im Jahr ihrer Fertigstellung unterrichtet es den Deutschen Bundestag
 darüber hinaus über die von der Schutzkommission erstellten
 Gefahrenberichte.
 
@@ -457,15 +418,14 @@ Katastrophenschutzes.
 ## Siebter Abschnitt - Maßnahmen zum Schutz der Gesundheit
 
 
-
 ### § 21 Planung der gesundheitlichen Versorgung
 
 (1) Die nach Landesrecht zuständigen Behörden haben ergänzende
 Maßnahmen zur gesundheitlichen Versorgung der Bevölkerung im
 Verteidigungsfall zu planen. Sie ermitteln insbesondere die Nutzungs-
 und Erweiterungsmöglichkeiten der vorhandenen Einrichtungen sowie den
-voraussichtlichen personellen und materiellen Bedarf und melden ihn an
-die für die Bedarfsdeckung zuständigen Behörden. Mit den für das
+voraussichtlichen personellen und materiellen Bedarf und melden ihn
+an die für die Bedarfsdeckung zuständigen Behörden. Mit den für das
 Gesundheits- und Sanitätswesen der Bundeswehr zuständigen Stellen ist
 eng zusammenzuarbeiten. Soweit die zuständigen Behörden nach Satz 1
 nicht die Gesundheitsämter sind, ist deren Mitwirkung bei der Planung
@@ -481,8 +441,8 @@ Bedarfsermittlung mit und unterstützen die Behörden.
 Einrichtungen der gesundheitlichen Versorgung auf Verlangen Auskünfte
 zu erteilen und das Betreten ihrer Geschäfts- und Betriebsräume
 während der üblichen Geschäfts- und Betriebszeiten zu dulden. Die
-hierbei gewonnenen Informationen dürfen nur insoweit verwertet werden,
-als dies für Zwecke dieses Gesetzes oder für die Erfüllung von
+hierbei gewonnenen Informationen dürfen nur insoweit verwertet
+werden, als dies für Zwecke dieses Gesetzes oder für die Erfüllung von
 Katastrophenschutzaufgaben erforderlich ist.
 
 (4) Die zuständigen Behörden können anordnen, daß
@@ -490,10 +450,7 @@ Katastrophenschutzaufgaben erforderlich ist.
 1.  die Träger von Krankenhäusern, Einsatz- und Alarmpläne für die
     gesundheitliche Versorgung,
 
-
 2.  die Veterinärämter Pläne für die Tierseuchenbekämpfung
-
-
 
 aufstellen und fortschreiben.
 
@@ -507,30 +464,25 @@ Landesrecht zuständigen Behörden anordnen, daß
     auf die Anforderungen im Verteidigungsfall umzustellen, zu erweitern
     und ihre Einsatzbereitschaft herzustellen haben,
 
-
 2.  den für den Katastrophenschutz zuständigen Behörden die
     Rettungsleitstellen ihres Bereiches unterstellt werden und daß diese
     die ihnen zugeordneten Dienste in ständiger Einsatzbereitschaft zu
     halten und unter ärztlicher Leitung die Belegung von stationären
     Einrichtungen zu regeln haben,
 
-
 3.  jede der stationären Behandlung dienende Einrichtung der zuständigen
     Rettungsleitstelle anzuschließen ist.
 
-
-
-
 (2) Zur Sicherstellung von Arbeitsleistungen in Einrichtungen der
 gesundheitlichen Versorgung wird die Bundesregierung ermächtigt, durch
-Rechtsverordnung zu bestimmen, daß sich Wehrpflichtige und Frauen, die
-nach § 2 Nr. 2 und 3 des Arbeitssicherstellungsgesetzes in ein
+Rechtsverordnung zu bestimmen, daß sich Wehrpflichtige und Frauen,
+die nach § 2 Nr. 2 und 3 des Arbeitssicherstellungsgesetzes in ein
 Arbeitsverhältnis verpflichtet werden können, bei der zuständigen
 Agentur für Arbeit zu melden haben, soweit sie als Angehörige der
 Heil- und Heilhilfsberufe im Zeitpunkt des Eintritts der Meldepflicht
 seit weniger als zehn Jahren nicht in ihrem Beruf tätig sind. Die
-Rechtsverordnung regelt insbesondere den Beginn der Meldepflicht, die
-meldepflichtigen Berufsgruppen und die für die Verpflichtung
+Rechtsverordnung regelt insbesondere den Beginn der Meldepflicht,
+die meldepflichtigen Berufsgruppen und die für die Verpflichtung
 erforderlichen meldepflichtigen Angaben sowie den Schutz von
 personenbezogenen Informationen unter Berücksichtigung des Grundsatzes
 der Zweckbindung.
@@ -544,20 +496,20 @@ nach Absatz 1.
 
 ### § 23 Sanitätsmaterialbevorratung
 
-(1) Der Bund stellt den Ländern für die gesundheitliche Versorgung der
-Bevölkerung im Verteidigungsfall ergänzend Sanitätsmaterial zur
+(1) Der Bund stellt den Ländern für die gesundheitliche Versorgung
+der Bevölkerung im Verteidigungsfall ergänzend Sanitätsmaterial zur
 Verfügung. Dieses steht den Ländern für ihre Aufgaben im Bereich des
 Katastrophenschutzes zusätzlich zur Verfügung. Die Länder können das
 Sanitätsmaterial in ihre Katastrophenschutzvorsorge einplanen.
 
-(2) Das Bundesministerium des Innern, für Bau und Heimat kann im
-Einvernehmen mit dem Bundesministerium für Gesundheit durch
-Rechtsverordnung mit Zustimmung des Bundesrates anordnen, dass nach
-Maßgabe des Artikels 80a des Grundgesetzes ausreichend
+(2) Das Bundesministerium des Innern, für Bau und Heimat kann
+im Einvernehmen mit dem Bundesministerium für Gesundheit durch
+Rechtsverordnung mit Zustimmung des Bundesrates anordnen, dass
+nach Maßgabe des Artikels 80a des Grundgesetzes ausreichend
 Sanitätsmaterial von Herstellungsbetrieben, Großhandlungen sowie
 öffentlichen und Krankenhausapotheken vorgehalten wird, um die Deckung
-von zusätzlichem Bedarf im Verteidigungsfall sicherzustellen. Die §§
-4, 8 und 13 bis 16 des Wirtschaftssicherstellungsgesetzes in der
+von zusätzlichem Bedarf im Verteidigungsfall sicherzustellen. Die
+§§ 4, 8 und 13 bis 16 des Wirtschaftssicherstellungsgesetzes in der
 Fassung vom 31. Oktober 2006 sind entsprechend anzuwenden.
 
 
@@ -568,21 +520,16 @@ Abs. 1 mitwirkenden privaten Organisationen
 
 1.  in Erster Hilfe mit Selbstschutzinhalten und
 
-
 2.  zu Pflegehilfskräften.
-
-
-
 
 
 ## Achter Abschnitt - Maßnahmen zum Schutz von Kulturgut
 
 
-
 ### § 25 Kulturgutschutz
 
-Die Maßnahmen zum Schutz von Kulturgut richten sich nach dem Gesetz zu
-der Konvention vom 14. Mai 1954 zum Schutz von Kulturgut bei
+Die Maßnahmen zum Schutz von Kulturgut richten sich nach dem Gesetz
+zu der Konvention vom 14. Mai 1954 zum Schutz von Kulturgut bei
 bewaffneten Konflikten (BGBl. 1967 II S. 1233), geändert durch Artikel
 1 des Gesetzes vom 10. August 1971 (BGBl. II S. 1025).
 
@@ -590,24 +537,23 @@ bewaffneten Konflikten (BGBl. 1967 II S. 1233), geändert durch Artikel
 ## Neunter Abschnitt - Organisationen, Helferinnen und Helfer
 
 
-
 ### § 26 Mitwirkung der Organisationen
 
 (1) Die Mitwirkung der öffentlichen und privaten Organisationen bei
 der Erfüllung der Aufgaben nach diesem Gesetz richtet sich nach den
 landesrechtlichen Vorschriften für den Katastrophenschutz. Für die
-Mitwirkung geeignet sind insbesondere der Arbeiter-Samariter-Bund, die
-Deutsche Lebensrettungsgesellschaft, das Deutsche Rote Kreuz, die
+Mitwirkung geeignet sind insbesondere der Arbeiter-Samariter-Bund,
+die Deutsche Lebensrettungsgesellschaft, das Deutsche Rote Kreuz, die
 Johanniter-Unfall-Hilfe und der Malteser-Hilfsdienst.
 
 (2) Die mitwirkenden öffentlichen und privaten Organisationen bilden
-die erforderliche Zahl von Helferinnen und Helfern aus, sorgen für die
-sachgerechte Unterbringung und Pflege der ergänzenden Ausstattung und
-stellen die Einsatzbereitschaft ihrer Einheiten und Einrichtungen
+die erforderliche Zahl von Helferinnen und Helfern aus, sorgen für
+die sachgerechte Unterbringung und Pflege der ergänzenden Ausstattung
+und stellen die Einsatzbereitschaft ihrer Einheiten und Einrichtungen
 sicher.
 
-(3) Die mitwirkenden privaten Organisationen erhalten nach Maßgabe des
-§ 29 Mittel zur Wahrnehmung ihrer Aufgaben nach diesem Gesetz. Sie
+(3) Die mitwirkenden privaten Organisationen erhalten nach Maßgabe
+des § 29 Mittel zur Wahrnehmung ihrer Aufgaben nach diesem Gesetz. Sie
 können die ihnen zugewiesene ergänzende Ausstattung für eigene Zwecke
 nutzen, soweit hierdurch die Aufgaben des Katastrophenschutzes und des
 Zivilschutzes nicht beeinträchtigt werden.
@@ -622,8 +568,8 @@ sind zur Mitwirkung verpflichtet.
 ### § 27 Rechtsverhältnisse der Helferinnen und Helfer
 
 (1) Rechte und Pflichten der im Zivilschutz mitwirkenden Helferinnen
-und Helfer richten sich nach den landesrechtlichen Vorschriften für
-den Katastrophenschutz, soweit durch dieses Gesetz oder andere
+und Helfer richten sich nach den landesrechtlichen Vorschriften
+für den Katastrophenschutz, soweit durch dieses Gesetz oder andere
 Rechtsvorschriften des Bundes nichts anderes bestimmt ist.
 
 (2) Für den ehrenamtlichen Dienst im Zivil- und Katastrophenschutz vom
@@ -633,11 +579,11 @@ im Zivil- und Katastrophenschutz verpflichtet.
 
 ### § 28 Persönliche Hilfeleistung
 
-(1) Die für den Katastrophenschutz zuständige Behörde kann Männer und
-Frauen vom vollendeten 18. bis zum vollendeten 60. Lebensjahr
-verpflichten, bei der Bekämpfung der besonderen Gefahren und Schäden,
-die im Verteidigungsfall drohen, Hilfe zu leisten, wenn die
-vorhandenen Kräfte im Einsatzfall nicht ausreichen. Die zur
+(1) Die für den Katastrophenschutz zuständige Behörde kann Männer
+und Frauen vom vollendeten 18. bis zum vollendeten 60. Lebensjahr
+verpflichten, bei der Bekämpfung der besonderen Gefahren und
+Schäden, die im Verteidigungsfall drohen, Hilfe zu leisten, wenn
+die vorhandenen Kräfte im Einsatzfall nicht ausreichen. Die zur
 Hilfeleistung Herangezogenen oder die freiwillig mit Einverständnis
 der zuständigen Stellen bei der Hilfeleistung Mitwirkenden haben für
 die Dauer der Hilfeleistung die Rechtsstellung einer Helferin oder
@@ -658,7 +604,6 @@ Vierteljahr nicht überschreiten.
 ## Zehnter Abschnitt - Kosten des Zivilschutzes
 
 
-
 ### § 29 Kosten
 
 (1) Der Bund trägt die Kosten, die den Ländern, Gemeinden und
@@ -672,9 +617,9 @@ zusammenhängenden Einnahmen sind an den Bund abzuführen. Auf diese
 Ausgaben und Einnahmen sind die Vorschriften über das Haushaltsrecht
 des Bundes anzuwenden. Die für die Durchführung des Haushaltes
 verantwortlichen Bundesbehörden können ihre Befugnisse auf die
-zuständigen obersten Landesbehörden übertragen und zulassen, daß auf
-diese Ausgaben und Einnahmen die landesrechtlichen Vorschriften über
-die Kassen- und Buchführung der zuständigen Landes- und
+zuständigen obersten Landesbehörden übertragen und zulassen, daß
+auf diese Ausgaben und Einnahmen die landesrechtlichen Vorschriften
+über die Kassen- und Buchführung der zuständigen Landes- und
 Gemeindebehörden angewandt werden.
 
 (3) Der Bund trägt die planmäßigen fahrzeug- und helferbezogenen
@@ -684,24 +629,20 @@ erstattet werden die Kosten für
 1.  die Unterbringung der Fahrzeuge und der persönlichen ABC-
     Schutzausrüstung,
 
-
 2.  die ärztliche Untersuchung und die Ausbildung der Helferinnen und
     Helfer und
 
-
-3.  die Gewährleistung der jederzeitigen Einsatzbereitschaft der
-    Analytischen Task Forces zur Unterstützung der örtlichen
+3.  die Gewährleistung der jederzeitigen Einsatzbereitschaft
+    der Analytischen Task Forces zur Unterstützung der örtlichen
     Einsatzleitung mit Spezialtechnik bei komplexen ABC-Lagen.
 
-
-
 Die Kosten der Wartung und Instandsetzung der ergänzenden Ausstattung
-werden gegen Nachweis erstattet. Im Verhältnis zwischen den für den
-Katastrophenschutz zuständigen Behörden und den privaten
+werden gegen Nachweis erstattet. Im Verhältnis zwischen den für
+den Katastrophenschutz zuständigen Behörden und den privaten
 Organisationen richtet sich der Nachweis der Ausgaben und die
 Belegpflicht nach den Bestimmungen der Bundeshaushaltsordnung und den
-dazu erlassenen Verwaltungsvorschriften über das Nachweisverfahren bei
-Zuwendungen.
+dazu erlassenen Verwaltungsvorschriften über das Nachweisverfahren
+bei Zuwendungen.
 
 (4) Die Kosten, die dem Bund durch Verwendung von ihm finanzierter
 Ausstattung und Anlagen des Zivilschutzes bei Katastrophen und
@@ -716,7 +657,6 @@ Pflichtigen zu ersetzen.
 ## Elfter Abschnitt - Bußgeldvorschriften
 
 
-
 ### § 30 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer
@@ -728,13 +668,9 @@ vollziehbaren Anordnung nach § 5 Abs. 4 Satz 1, § 10 Abs. 1, § 21 Abs.
 1.  einer Rechtsverordnung nach § 22 Abs. 2 Satz 1, soweit sie für einen
     bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
 
-
 2.  einer Vorschrift des § 27 Abs. 2 über die Mitwirkung oder
 
-
 3.  einer vollziehbaren Anordnung nach § 28 Abs. 1 Satz 1
-
-
 
 zuwiderhandelt.
 
@@ -748,27 +684,21 @@ einer Geldbuße bis zu tausend Euro geahndet werden.
 1.  in den Fällen des Absatzes 1 die Behörde, welche die Anordnung
     erlassen hat,
 
-
 2.  in den Fällen des Absatzes 2 Nr. 1 die Agentur für Arbeit,
-
 
 3.  in den Fällen des Absatzes 2 Nr. 2 die Bundesanstalt Technisches
     Hilfswerk für ihre Helfer, im übrigen und in den Fällen des Absatzes 2
     Nr. 3 die für den Katastrophenschutz zuständige Behörde.
 
 
-
-
-
 ## Zwölfter Abschnitt - Schlußbestimmungen
-
 
 
 ### § 31 Einschränkungen von Grundrechten
 
-Die Grundrechte der körperlichen Unversehrtheit (Artikel 2 Abs. 2 Satz
-1 des Grundgesetzes), der Freiheit der Person (Artikel 2 Abs. 2 Satz 2
-des Grundgesetzes), der Freizügigkeit (Artikel 11 Abs. 1 des
+Die Grundrechte der körperlichen Unversehrtheit (Artikel 2 Abs. 2
+Satz 1 des Grundgesetzes), der Freiheit der Person (Artikel 2 Abs. 2
+Satz 2 des Grundgesetzes), der Freizügigkeit (Artikel 11 Abs. 1 des
 Grundgesetzes) und der Unverletzlichkeit der Wohnung (Artikel 13 des
 Grundgesetzes) werden nach Maßgabe dieses Gesetzes eingeschränkt.
 
@@ -778,7 +708,7 @@ Grundgesetzes) werden nach Maßgabe dieses Gesetzes eingeschränkt.
 Die Senate der Länder Berlin, Bremen und Hamburg werden ermächtigt,
 entsprechend dem besonderen Verwaltungsaufbau ihrer Länder die
 Zuständigkeit von Behörden abweichend von den Vorschriften dieses
-Gesetzes zu regeln und insbesondere zu bestimmen, welche Stellen die
-Aufgaben der Gemeinden und Gemeindeverbände nach Maßgabe dieses
+Gesetzes zu regeln und insbesondere zu bestimmen, welche Stellen
+die Aufgaben der Gemeinden und Gemeindeverbände nach Maßgabe dieses
 Gesetzes wahrzunehmen haben.
 

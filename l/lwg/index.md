@@ -22,11 +22,11 @@ Zuletzt geändert durch
 ## § 1
 
 Um der Landwirtschaft die Teilnahme an der fortschreitenden
-Entwicklung der deutschen Volkswirtschaft und um der Bevölkerung die
-bestmögliche Versorgung mit Ernährungsgütern zu sichern, ist die
-Landwirtschaft mit den Mitteln der allgemeinen Wirtschafts- und
-Agrarpolitik - insbesondere der Handels-, Steuer-, Kredit- und
-Preispolitik - in den Stand zu setzen, die für sie bestehenden
+Entwicklung der deutschen Volkswirtschaft und um der Bevölkerung
+die bestmögliche Versorgung mit Ernährungsgütern zu sichern, ist
+die Landwirtschaft mit den Mitteln der allgemeinen Wirtschafts-
+und Agrarpolitik - insbesondere der Handels-, Steuer-, Kredit-
+und Preispolitik - in den Stand zu setzen, die für sie bestehenden
 naturbedingten und wirtschaftlichen Nachteile gegenüber anderen
 Wirtschaftsbereichen auszugleichen und ihre Produktivität zu steigern.
 Damit soll gleichzeitig die soziale Lage der in der Landwirtschaft
@@ -41,7 +41,7 @@ werden.
 landwirtschaftliche Wirtschaftsjahr den Ertrag und Aufwand
 landwirtschaftlicher Betriebe, gegliedert nach Betriebsgrößen, -typen,
 -systemen und Wirtschaftsgebieten, fest. Er stellt zu diesem Zweck die
-Betriebsergebnisse von 6 000 bis 8 000 landwirtschaftlichen Betrieben
+Betriebsergebnisse von 6 000 bis 8 000 landwirtschaftlichen Betrieben
 zusammen und wertet sie aus. Die Auskünfte sind freiwillig.
 
 (2) Zur Feststellung der Lage der Landwirtschaft und ihrer einzelnen
@@ -53,9 +53,9 @@ der landwirtschaftlichen Betriebswirtschaft heranzuziehen.
 ## § 3
 
 Zur Beratung bei der Anlage, Durchführung und Auswertung der
-Erhebungen und Unterlagen bedient sich das Bundesministerium eines von
-ihm zu berufenden Beirats, der sich im wesentlichen aus
-Sachverständigen der landwirtschaftlichen Betriebswirtschaft
+Erhebungen und Unterlagen bedient sich das Bundesministerium
+eines von ihm zu berufenden Beirats, der sich im wesentlichen
+aus Sachverständigen der landwirtschaftlichen Betriebswirtschaft
 einschließlich einer angemessenen Anzahl praktischer Landwirte
 zusammensetzt.
 
@@ -71,14 +71,10 @@ a)  ein den Löhnen vergleichbarer Berufs- und Tarifgruppen entsprechender
     Lohn für die fremden und familieneigenen Arbeitskräfte - umgerechnet
     auf notwendige Vollarbeitskräfte -,
 
-
 b)  ein angemessenes Entgelt für die Tätigkeit des Betriebsleiters
     (Betriebsleiterzuschlag) und
 
-
 c)  eine angemessene Verzinsung des betriebsnotwendigen Kapitals
-
-
 
 erzielt sind; dabei ist im wesentlichen von Betrieben mit
 durchschnittlichen Produktionsbedingungen auszugehen, die bei
@@ -99,18 +95,18 @@ nachhaltige Ertragssteigerung gerichtet ist.
 ## § 6
 
 Soweit zur Durchführung der nach § 5 beabsichtigten Maßnahmen
-Bundesmittel erforderlich sind, stellt die Bundesregierung die hierzu
-notwendigen Beträge vorsorglich in den Entwurf des
+Bundesmittel erforderlich sind, stellt die Bundesregierung
+die hierzu notwendigen Beträge vorsorglich in den Entwurf des
 Bundeshaushaltsplans für das jeweilige Rechnungsjahr ein.
 
 
 ## § 7
 
-(1) Einzelangaben über persönliche und sachliche Verhältnisse sind von
-den mit der Durchführung des Feststellungsverfahrens (§ 2) amtlich
-betrauten Stellen und Personen geheimzuhalten. §§ 93, 97, 105 Abs. 1,
-§ 111 Abs. 5 in Verbindung mit § 105 Abs. 1 sowie § 116 Abs. 1 der
-Abgabenordnung gelten nicht. Dies gilt nicht, soweit die
+(1) Einzelangaben über persönliche und sachliche Verhältnisse sind
+von den mit der Durchführung des Feststellungsverfahrens (§ 2)
+amtlich betrauten Stellen und Personen geheimzuhalten. §§ 93, 97,
+105 Abs. 1, § 111 Abs. 5 in Verbindung mit § 105 Abs. 1 sowie § 116
+Abs. 1 der Abgabenordnung gelten nicht. Dies gilt nicht, soweit die
 Finanzbehörden die Kenntnisse für die Durchführung eines Verfahrens
 wegen einer Steuerstraftat sowie eines damit zusammenhängenden
 Besteuerungsverfahrens benötigen, an deren Verfolgung ein zwingendes
@@ -120,8 +116,8 @@ Personen handelt.
 
 (2) Auf die im Besitz des Steuerpflichtigen befindlichen
 Aufzeichnungen und Unterlagen, die für die Zwecke des
-Feststellungsverfahrens gefertigt worden sind, findet § 97 der
-Abgabenordnung keine Anwendung. Dies gilt nicht, wenn der
+Feststellungsverfahrens gefertigt worden sind, findet § 97
+der Abgabenordnung keine Anwendung. Dies gilt nicht, wenn der
 Steuerpflichtige nach § 141 der Abgabenordnung zur Buchführung
 verpflichtet ist oder wenn er freiwillig Bücher oder Aufzeichnungen
 führt und beantragt, deren Ergebnis der steuerlichen Gewinnermittlung

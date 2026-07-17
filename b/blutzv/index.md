@@ -1,7 +1,5 @@
 ---
-Title: Verordnung zur Ausdehnung der Vorschriften über die staatliche Chargenprüfung
-  auf Blutzubereitungen (Artikel 1 der Verordnung über die Einführung der staatlichen
-  Chargenprüfung bei Blutzubereitungen)
+Title: Verordnung zur Ausdehnung der Vorschriften über die staatliche Chargenprüfung auf Blutzubereitungen
 jurabk: BlutZV
 layout: default
 origslug: blutzv
@@ -9,7 +7,7 @@ slug: blutzv
 
 ---
 
-# Verordnung zur Ausdehnung der Vorschriften über die staatliche Chargenprüfung auf Blutzubereitungen (Artikel 1 der Verordnung über die Einführung der staatlichen Chargenprüfung bei Blutzubereitungen) (BlutZV)
+# Verordnung zur Ausdehnung der Vorschriften über die staatliche Chargenprüfung auf Blutzubereitungen (BlutZV)
 
 Ausfertigungsdatum
 :   1994-07-15
@@ -45,8 +43,8 @@ Europäischen Union oder eines anderen Vertragsstaates des Abkommens
 über den Europäischen Wirtschaftsraum nach einer experimentellen
 Untersuchung festgestellt hat, daß die Charge nach Herstellungs- und
 Kontrollmethoden, die dem jeweiligen Stand der wissenschaftlichen
-Erkenntnisse entsprechen, hergestellt und geprüft worden ist und daß
-sie die erforderliche Qualität, Wirksamkeit und Unbedenklichkeit
+Erkenntnisse entsprechen, hergestellt und geprüft worden ist und
+daß sie die erforderliche Qualität, Wirksamkeit und Unbedenklichkeit
 aufweist.
 
 

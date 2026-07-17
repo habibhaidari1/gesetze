@@ -31,13 +31,11 @@ Entscheidung über die Genehmigung
     gentechnische Arbeiten zu gewerblichen Zwecken der Sicherheitsstufe 3
     oder 4 durchgeführt werden sollen,
 
-
 2.  gentechnischer Anlagen, in denen gentechnische Arbeiten zu
     gewerblichen Zwecken der Sicherheitsstufe 2 durchgeführt werden
     sollen, wenn für diese eine Genehmigung nach § 8 Abs. 2 Satz 2 des
     Gentechnikgesetzes beantragt wird und ein Genehmigungsverfahren nach §
     10 des Bundes-Immissionsschutzgesetzes erforderlich ist,
-
 
 3.  der wesentlichen Änderung der Lage, der Beschaffenheit oder des
     Betriebs einer in Nummer 1 oder 2 aufgeführten gentechnischen Anlage,
@@ -45,31 +43,27 @@ Entscheidung über die Genehmigung
     Gefahren für die in § 1 Nr. 1 des Gentechnikgesetzes bezeichneten
     Rechtsgüter zu erwarten sind,
 
-
 4.  von weiteren gentechnischen Arbeiten zu gewerblichen Zwecken, die
     einer höheren Sicherheitsstufe als die bisher von der Genehmigung oder
     Anmeldung umfaßten Arbeiten zuzuordnen sind, soweit die Erteilung der
     erforderlichen Anlagengenehmigung nach Nummer 1 oder 2 eine Anhörung
     voraussetzt, und
 
-
 5.  einer Freisetzung.
 
-
-
-Eine Anhörung wird nicht durchgeführt, wenn nach § 11 Abs. 1 Satz 2
-der Gentechnik-Verfahrensverordnung eine Freisetzung nachgemeldet
+Eine Anhörung wird nicht durchgeführt, wenn nach § 11 Abs. 1 Satz
+2 der Gentechnik-Verfahrensverordnung eine Freisetzung nachgemeldet
 wird.
 
 
 ## § 2 Bekanntmachung des Vorhabens
 
 Sind die mit den Genehmigungsanträgen vorzulegenden Unterlagen
-vollständig, so hat die für die Genehmigung zuständige Behörde
-(Genehmigungsbehörde) das Vorhaben in ihrem amtlichen
-Veröffentlichungsblatt und in örtlichen Tageszeitungen, die im Bereich
-des Standortes der Anlage oder in den Gemeinden, in denen die
-beantragte Freisetzung erfolgen soll, verbreitet sind, öffentlich
+vollständig, so hat die für die Genehmigung zuständige
+Behörde (Genehmigungsbehörde) das Vorhaben in ihrem amtlichen
+Veröffentlichungsblatt und in örtlichen Tageszeitungen, die im
+Bereich des Standortes der Anlage oder in den Gemeinden, in denen
+die beantragte Freisetzung erfolgen soll, verbreitet sind, öffentlich
 bekanntzumachen (Bekanntmachung).
 
 
@@ -80,27 +74,21 @@ bekanntzumachen (Bekanntmachung).
 1.  darauf hinzuweisen, wo und wann der Antrag auf Erteilung der
     Genehmigung und die Unterlagen zur Einsicht ausgelegt sind;
 
-
 2.  dazu aufzufordern, etwaige Einwendungen bei einer in der
     Bekanntmachung zu bezeichnenden Stelle innerhalb der Einwendungsfrist
     vorzubringen; dabei ist auf die Rechtsfolgen des § 5 hinzuweisen;
-
 
 3.  in den Fällen des § 1 Nr. 1 bis 4 ein Erörterungstermin zu bestimmen
     und darauf hinzuweisen, daß die formgerecht erhobenen Einwendungen
     auch bei Ausbleiben des Antragstellers oder von Personen, die
     Einwendungen erhoben haben, erörtert werden und
 
-
 4.  darauf hinzuweisen, daß die Zustellung der Entscheidung über die
     Einwendungen durch öffentliche Bekanntmachung ersetzt werden kann.
 
-
-
-
 (2) Der Antrag und die Unterlagen sind nach der Bekanntmachung einen
-Monat zur Einsicht auszulegen. Die Bekanntmachung muß den Hinweis auf
-die Auslegungsfrist unter Angabe des ersten und letzten Tages
+Monat zur Einsicht auszulegen. Die Bekanntmachung muß den Hinweis
+auf die Auslegungsfrist unter Angabe des ersten und letzten Tages
 enthalten.
 
 (3) Zwischen der Bekanntmachung des Vorhabens und dem Beginn der
@@ -127,15 +115,12 @@ Gemeinde, in der die Freisetzung vorgesehen ist, sind auszulegen
 1.  der Antrag sowie die beigefügten Unterlagen, die die Angaben über die
     Auswirkungen der Anlage auf die in § 1 Nr. 1 des Gentechnikgesetzes
     genannten Rechtsgüter enthalten, sowie bei Freisetzungen die Darlegung
-    der möglichen sicherheitsrelevanten Auswirkungen auf die in § 1 Nr. 1
-    des Gentechnikgesetzes genannten Rechtsgüter und der vorgesehenen
+    der möglichen sicherheitsrelevanten Auswirkungen auf die in § 1 Nr.
+    1 des Gentechnikgesetzes genannten Rechtsgüter und der vorgesehenen
     Vorkehrungen nach § 15 Abs. 1 Nr. 4 des Gentechnikgesetzes und
-
 
 2.  die Kurzbeschreibung nach § 4 Abs. 3 oder bei Freisetzungen nach § 5
     Abs. 3 der Gentechnik-Verfahrensverordnung.
-
-
 
 In den Antrag und die Unterlagen sowie die Kurzbeschreibung ist
 während der Dienststunden Einsicht zu gewähren.
@@ -144,25 +129,25 @@ während der Dienststunden Einsicht zu gewähren.
 Kurzbeschreibung nach Absatz 1 Nr. 2 zu überlassen.
 
 (3) Soweit Unterlagen Geschäfts- oder Betriebsgeheimnisse oder
-personenbezogene Daten enthalten, sind die geschützten Angaben vor
-Auslegung unkenntlich zu machen; ersatzweise ist anstelle der
-Unterlagen die Inhaltsdarstellung nach § 17a Abs. 3 des
+personenbezogene Daten enthalten, sind die geschützten Angaben
+vor Auslegung unkenntlich zu machen; ersatzweise ist anstelle
+der Unterlagen die Inhaltsdarstellung nach § 17a Abs. 3 des
 Gentechnikgesetzes auszulegen.
 
 
 ## § 5 Einwendungen
 
 (1) Einwendungen gegen das Vorhaben können schriftlich oder zur
-Niederschrift in den Fällen des § 1 Nr. 1 bis 4 bis zu zwei Wochen und
-im Fall des § 1 Nr. 5 bis zu einem Monat nach Ablauf der
+Niederschrift in den Fällen des § 1 Nr. 1 bis 4 bis zu zwei Wochen
+und im Fall des § 1 Nr. 5 bis zu einem Monat nach Ablauf der
 Auslegungsfrist nach § 3 Abs. 2 Satz 1 bei der Genehmigungsbehörde
-oder bei einer Stelle erhoben und begründet werden, bei der Antrag und
-Unterlagen zur Einsicht ausgelegt sind. Mit Ablauf der Frist werden
-alle Einwendungen ausgeschlossen, die nicht auf besonderen
+oder bei einer Stelle erhoben und begründet werden, bei der Antrag
+und Unterlagen zur Einsicht ausgelegt sind. Mit Ablauf der Frist
+werden alle Einwendungen ausgeschlossen, die nicht auf besonderen
 privatrechtlichen Titeln beruhen.
 
-(2) Der Inhalt der Einwendungen ist dem Antragsteller anonymisiert und
-im Wortlaut bekanntzugeben. Den nach § 9 der Gentechnik-
+(2) Der Inhalt der Einwendungen ist dem Antragsteller anonymisiert
+und im Wortlaut bekanntzugeben. Den nach § 9 der Gentechnik-
 Verfahrensverordnung zu beteiligenden Stellen ist der anonymisierte
 Inhalt der Einwendungen bekanntzugeben, soweit sie ihre Aufgaben
 berühren.
@@ -199,15 +184,10 @@ Gerichten zu verweisen.
 1.  Einwendungen gegen das Vorhaben nicht oder nicht rechtzeitig erhoben
     worden sind oder
 
-
 2.  die rechtzeitig erhobenen Einwendungen zurückgenommen worden sind oder
-
 
 3.  ausschließlich Einwendungen erhoben worden sind, die auf besonderen
     privatrechtlichen Titeln beruhen.
-
-
-
 
 (2) Der Antragsteller ist vom Wegfall des Termins zu unterrichten.
 
@@ -220,8 +200,8 @@ zweckgerechte Durchführung erforderlich ist. Ort und Zeit des neuen
 Erörterungstermins sind zum frühestmöglichen Zeitpunkt zu bestimmen.
 
 (2) Der Antragsteller und diejenigen, die rechtzeitig Einwendungen
-erhoben haben, sind von der Verlegung des Erörterungstermins zu
-benachrichtigen. Sie können durch öffentliche Bekanntmachung
+erhoben haben, sind von der Verlegung des Erörterungstermins
+zu benachrichtigen. Sie können durch öffentliche Bekanntmachung
 benachrichtigt werden.
 
 
@@ -229,11 +209,11 @@ benachrichtigt werden.
 
 Der Verhandlungsleiter erteilt das Wort und kann es entziehen, wenn
 eine von ihm festgesetzte Redezeit für die einzelnen Wortmeldungen
-überschritten wird oder Ausführungen gemacht werden, die nicht den
-Gegenstand des Erörterungstermins betreffen oder nicht in sachlichem
-Zusammenhang mit der zu behandelnden Einwendung stehen. Im übrigen
-gelten für den Verlauf des Erörterungstermins die §§ 18 und 19 der
-Neunten Verordnung zur Durchführung des Bundes-
+überschritten wird oder Ausführungen gemacht werden, die nicht
+den Gegenstand des Erörterungstermins betreffen oder nicht in
+sachlichem Zusammenhang mit der zu behandelnden Einwendung stehen.
+Im übrigen gelten für den Verlauf des Erörterungstermins die §§
+18 und 19 der Neunten Verordnung zur Durchführung des Bundes-
 Immissionsschutzgesetzes in der Fassung der Bekanntmachung vom 29. Mai
 1992 (BGBl. I S. 1001) entsprechend.
 

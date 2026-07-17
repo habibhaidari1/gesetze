@@ -30,19 +30,15 @@ berücksichtigen ist, kann das zuständige Gericht die Unterbringung
 dieser Person in einer geeigneten geschlossenen Einrichtung anordnen,
 wenn
 
-1.  sie an einer psychischen Störung leidet und eine Gesamtwürdigung ihrer
-    Persönlichkeit, ihres Vorlebens und ihrer Lebensverhältnisse ergibt,
-    dass sie infolge ihrer psychischen Störung mit hoher
+1.  sie an einer psychischen Störung leidet und eine Gesamtwürdigung
+    ihrer Persönlichkeit, ihres Vorlebens und ihrer Lebensverhältnisse
+    ergibt, dass sie infolge ihrer psychischen Störung mit hoher
     Wahrscheinlichkeit das Leben, die körperliche Unversehrtheit, die
     persönliche Freiheit oder die sexuelle Selbstbestimmung einer anderen
     Person erheblich beeinträchtigen wird, und
 
-
 2.  die Unterbringung aus den in Nummer 1 genannten Gründen zum Schutz der
     Allgemeinheit erforderlich ist.
-
-
-
 
 (2) Absatz 1 ist unabhängig davon anzuwenden, ob die verurteilte
 Person sich noch im Vollzug der Sicherungsverwahrung befindet oder
@@ -55,22 +51,17 @@ bereits entlassen wurde.
 geschlossenen Einrichtungen geeignet, die
 
 1.  wegen ihrer medizinisch-therapeutischen Ausrichtung eine angemessene
-    Behandlung der im Einzelfall vorliegenden psychischen Störung auf der
-    Grundlage eines individuell zu erstellenden Behandlungsplans und mit
-    dem Ziel einer möglichst kurzen Unterbringungsdauer gewährleisten
+    Behandlung der im Einzelfall vorliegenden psychischen Störung auf
+    der Grundlage eines individuell zu erstellenden Behandlungsplans und
+    mit dem Ziel einer möglichst kurzen Unterbringungsdauer gewährleisten
     können,
-
 
 2.  unter Berücksichtigung therapeutischer Gesichtspunkte und der
     Sicherheitsinteressen der Allgemeinheit eine die Untergebrachten so
     wenig wie möglich belastende Unterbringung zulassen und
 
-
 3.  räumlich und organisatorisch von Einrichtungen des Strafvollzuges
     getrennt sind.
-
-
-
 
 (2) Einrichtungen im Sinne des § 66c Absatz 1 des Strafgesetzbuches
 sind ebenfalls für die Therapieunterbringung geeignet, wenn sie die
@@ -101,10 +92,10 @@ dessen Bezirk die Einrichtung liegt, in der diese vollstreckt wird.
 
 ## § 5 Einleitung des gerichtlichen Verfahrens
 
-(1) Das gerichtliche Verfahren wird eingeleitet, wenn Gründe für die
-Annahme bestehen, dass die Voraussetzungen für eine
-Therapieunterbringung nach § 1 gegeben sind. Den Antrag stellt die
-untere Verwaltungsbehörde, in deren Zuständigkeitsbereich das
+(1) Das gerichtliche Verfahren wird eingeleitet, wenn Gründe
+für die Annahme bestehen, dass die Voraussetzungen für eine
+Therapieunterbringung nach § 1 gegeben sind. Den Antrag stellt
+die untere Verwaltungsbehörde, in deren Zuständigkeitsbereich das
 Bedürfnis für die Therapieunterbringung entsteht. Befindet sich der
 Betroffene in der Sicherungsverwahrung, so ist auch der Leiter der
 Einrichtung antragsberechtigt, in der diese vollstreckt wird. Der
@@ -119,11 +110,11 @@ vorausgesetzte Entscheidung rechtskräftig geworden ist.
 Vollstreckungsbehörde, der in Absatz 1 Satz 3 genannte
 Antragsberechtigte sowie die Führungsaufsichtsstelle des Betroffenen
 teilen der zuständigen unteren Verwaltungsbehörde die für die
-Einleitung des gerichtlichen Verfahrens notwendigen Daten mit, wenn
-Gründe für die Annahme bestehen, dass die Voraussetzungen für eine
-Therapieunterbringung nach § 1 gegeben sind. Die Übermittlung
-personenbezogener Daten zu dem in Satz 1 genannten Zweck ist zulässig,
-wenn dem keine schutzwürdigen Interessen des Betroffenen
+Einleitung des gerichtlichen Verfahrens notwendigen Daten mit,
+wenn Gründe für die Annahme bestehen, dass die Voraussetzungen für
+eine Therapieunterbringung nach § 1 gegeben sind. Die Übermittlung
+personenbezogener Daten zu dem in Satz 1 genannten Zweck ist
+zulässig, wenn dem keine schutzwürdigen Interessen des Betroffenen
 entgegenstehen. Der Inhalt der Mitteilung, die Art und Weise ihrer
 Übermittlung und der Empfänger sind aktenkundig zu machen. Der
 Betroffene ist über die Mitteilung und den Inhalt der Mitteilung zu
@@ -144,29 +135,25 @@ Beiordnung als Beteiligter zum Verfahren hinzugezogen.
     Sicherungsverwahrung befindet, sofern sie nicht Antragsteller sind,
     sowie
 
-
 2.  die Führungsaufsichtsstelle des Betroffenen.
-
-
-
 
 
 ## § 7 Beiordnung eines Rechtsanwalts
 
-(1) Das Gericht hat dem Betroffenen zur Wahrnehmung seiner Rechte im
-Verfahren und für die Dauer der Therapieunterbringung einen
+(1) Das Gericht hat dem Betroffenen zur Wahrnehmung seiner Rechte
+im Verfahren und für die Dauer der Therapieunterbringung einen
 Rechtsanwalt beizuordnen. § 78c Absatz 1 und 3 der Zivilprozessordnung
 gilt entsprechend.
 
-(2) Der beigeordnete Rechtsanwalt hat die Stellung eines Beistands. §
-48 Absatz 1 Nummer 3 und Absatz 2 der Bundesrechtsanwaltsordnung gilt
-entsprechend.
+(2) Der beigeordnete Rechtsanwalt hat die Stellung eines Beistands.
+§ 48 Absatz 1 Nummer 3 und Absatz 2 der Bundesrechtsanwaltsordnung
+gilt entsprechend.
 
-(3) Die Beiordnung ist auf Antrag des beigeordneten Rechtsanwalts oder
-des Betroffenen nach rechtskräftigem Abschluss des gerichtlichen
+(3) Die Beiordnung ist auf Antrag des beigeordneten Rechtsanwalts
+oder des Betroffenen nach rechtskräftigem Abschluss des gerichtlichen
 Verfahrens aufzuheben, wenn der Antragsteller hieran ein berechtigtes
-Interesse hat. Die Aufhebung der Beiordnung aus wichtigem Grund bleibt
-hiervon unberührt. Wird die Beiordnung während der
+Interesse hat. Die Aufhebung der Beiordnung aus wichtigem
+Grund bleibt hiervon unberührt. Wird die Beiordnung während der
 Therapieunterbringung aufgehoben, so ist dem Betroffenen unverzüglich
 ein anderer Rechtsanwalt beizuordnen.
 
@@ -184,15 +171,15 @@ anzuhören. Seine Anhörung soll nicht im Wege der Rechtshilfe erfolgen.
 Verwaltungsbehörde vorführen lassen, wenn er sich weigert, an
 Verfahrenshandlungen nach Absatz 2 mitzuwirken.
 
-(4) Gewalt darf die Behörde nur anwenden, wenn das Gericht dies auf
-Grund einer ausdrücklichen Entscheidung angeordnet hat. Die zuständige
-untere Verwaltungsbehörde ist befugt, erforderlichenfalls um
-Unterstützung der polizeilichen Vollzugsorgane nachzusuchen.
+(4) Gewalt darf die Behörde nur anwenden, wenn das Gericht dies
+auf Grund einer ausdrücklichen Entscheidung angeordnet hat. Die
+zuständige untere Verwaltungsbehörde ist befugt, erforderlichenfalls
+um Unterstützung der polizeilichen Vollzugsorgane nachzusuchen.
 
 (5) Die Wohnung des Betroffenen darf ohne dessen Einwilligung nur
 gewaltsam geöffnet, betreten und durchsucht werden, wenn das Gericht
-dies zu dessen Vorführung zur Anhörung ausdrücklich angeordnet hat.
-Bei Gefahr im Verzug kann die Anordnung nach Satz 1 durch die
+dies zu dessen Vorführung zur Anhörung ausdrücklich angeordnet
+hat. Bei Gefahr im Verzug kann die Anordnung nach Satz 1 durch die
 zuständige untere Verwaltungsbehörde erfolgen. Durch diese Regelung
 wird das Grundrecht auf Unverletzlichkeit der Wohnung aus Artikel 13
 Absatz 1 des Grundgesetzes eingeschränkt.
@@ -211,8 +198,8 @@ Psychiatrie sein; sie müssen Ärzte mit Erfahrung auf dem Gebiet der
 Psychiatrie sein.
 
 (2) Die Sachverständigen haben den Betroffenen zur Erstellung der
-Gutachten unabhängig voneinander zu untersuchen oder zu befragen. Die
-Gutachten müssen Aussagen darüber enthalten, ob der Betroffene an
+Gutachten unabhängig voneinander zu untersuchen oder zu befragen.
+Die Gutachten müssen Aussagen darüber enthalten, ob der Betroffene an
 einer psychischen Störung leidet und ob er infolge dieser Störung mit
 hoher Wahrscheinlichkeit das Leben, die körperliche Unversehrtheit,
 die persönliche Freiheit oder die sexuelle Selbstbestimmung einer
@@ -238,8 +225,8 @@ anordnen.
 
 ## § 11 Zuführung und Vollzug der Therapieunterbringung; Ruhen der Führungsaufsicht
 
-(1) Die Zuführung des Betroffenen in die Einrichtung nach § 2 und der
-Vollzug der Unterbringung obliegen der zuständigen unteren
+(1) Die Zuführung des Betroffenen in die Einrichtung nach § 2 und
+der Vollzug der Unterbringung obliegen der zuständigen unteren
 Verwaltungsbehörde.
 
 (2) Während des Vollzugs der Unterbringung ruht die Führungsaufsicht.
@@ -253,8 +240,8 @@ sie nicht vorher verlängert wird.
 (2) Für die Verlängerung der Therapieunterbringung gelten die
 Vorschriften über die erstmalige Anordnung entsprechend. Abweichend
 von § 9 Absatz 1 Satz 1 kann die Beweisaufnahme auf die Einholung
-eines Gutachtens beschränkt werden. Als Sachverständiger ist nicht zu
-bestellen, wer den Betroffenen bisher behandelt hat oder im Rahmen
+eines Gutachtens beschränkt werden. Als Sachverständiger ist nicht
+zu bestellen, wer den Betroffenen bisher behandelt hat oder im Rahmen
 eines ständigen Dienstverhältnisses in der Einrichtung tätig ist, in
 der der Betroffene untergebracht ist oder zuletzt untergebracht war.
 Als Sachverständiger soll nicht bestellt werden, wer den Betroffenen
@@ -282,11 +269,8 @@ anordnen, wenn
     Anordnung einer Therapieunterbringung nach § 1 gegeben sind und ein
     dringendes Bedürfnis für ein sofortiges Tätigwerden besteht, und
 
-
 2.  der Betroffene persönlich und ein ihm beigeordneter Rechtsanwalt
     angehört worden sind.
-
-
 
 Eine Anhörung des Betroffenen im Wege der Rechtshilfe ist zulässig.
 
@@ -306,8 +290,8 @@ Hauptsacheverfahren erheblich verzögert.
 
 ## § 15 Einstweilige Anordnung bei gesteigerter Dringlichkeit
 
-Bei Gefahr im Verzug kann das Gericht eine einstweilige Anordnung nach
-§ 14 bereits vor Anhörung des Betroffenen sowie vor Anhörung und
+Bei Gefahr im Verzug kann das Gericht eine einstweilige Anordnung
+nach § 14 bereits vor Anhörung des Betroffenen sowie vor Anhörung und
 Beiordnung eines Rechtsanwalts erlassen. Diese Verfahrenshandlungen
 sind unverzüglich nachzuholen.
 
@@ -350,8 +334,8 @@ des Beschwerdeverfahrens angezeigt erscheint.
 
 ## § 19 Gerichtskosten
 
-In Verfahren nach diesem Gesetz über die Anordnung, Verlängerung oder
-Aufhebung der Therapieunterbringung werden keine Gerichtskosten
+In Verfahren nach diesem Gesetz über die Anordnung, Verlängerung
+oder Aufhebung der Therapieunterbringung werden keine Gerichtskosten
 erhoben.
 
 
@@ -362,16 +346,16 @@ oder Aufhebung der Therapieunterbringung erhält der Rechtsanwalt
 Gebühren in entsprechender Anwendung von Teil 6 Abschnitt 3 des
 Vergütungsverzeichnisses zum Rechtsanwaltsvergütungsgesetz.
 
-(2) § 52 Absatz 1 bis 3 und 5 des Rechtsanwaltsvergütungsgesetzes ist
-auf den beigeordneten Rechtsanwalt (§ 7) entsprechend anzuwenden.
-Gegen den Beschluss nach § 52 Absatz 2 des
+(2) § 52 Absatz 1 bis 3 und 5 des Rechtsanwaltsvergütungsgesetzes
+ist auf den beigeordneten Rechtsanwalt (§ 7) entsprechend
+anzuwenden. Gegen den Beschluss nach § 52 Absatz 2 des
 Rechtsanwaltsvergütungsgesetzes ist die Beschwerde statthaft; § 16
 Absatz 2 ist anzuwenden.
 
-(3) Der beigeordnete Rechtsanwalt erhält für seine Tätigkeit nach
-rechtskräftigem Abschluss eines Verfahrens nach Absatz 1 bis zur
-ersten Tätigkeit in einem weiteren Verfahren eine Verfahrensgebühr
-nach Nummer 6302 des Vergütungsverzeichnisses zum
+(3) Der beigeordnete Rechtsanwalt erhält für seine Tätigkeit
+nach rechtskräftigem Abschluss eines Verfahrens nach Absatz
+1 bis zur ersten Tätigkeit in einem weiteren Verfahren eine
+Verfahrensgebühr nach Nummer 6302 des Vergütungsverzeichnisses zum
 Rechtsanwaltsvergütungsgesetz. Die Tätigkeit nach Satz 1 ist eine
 besondere Angelegenheit im Sinne des Rechtsanwaltsvergütungsgesetzes.
 

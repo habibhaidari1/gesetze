@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1980, 742
 
 Zuletzt geändert durch
-:   Art. 16 G v. 25.7.2013 I 2722
-
-Änderung durch
-:   Art. 2 V v. 28.9.2021 I 4591 (Nr. 70) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 13.7.2022 I 1134
 
 
 ## Eingangsformel
@@ -31,24 +28,24 @@ Allgemeinen Geschäftsbedingungen vom 9. Dezember 1976 (BGBl. I S.
 
 ## § 1 Gegenstand der Verordnung
 
-(1) Soweit Fernwärmeversorgungsunternehmen für den Anschluß an die
-Fernwärmeversorgung und für die Versorgung mit Fernwärme
-Vertragsmuster oder Vertragsbedingungen verwenden, die für eine
-Vielzahl von Verträgen vorformuliert sind (allgemeine
-Versorgungsbedingungen), gelten die §§ 2 bis 34. Diese sind, soweit
-Absatz 3 und § 35 nichts anderes vorsehen, Bestandteil des
+(1) Soweit Fernwärmeversorgungsunternehmen für den Anschluß an
+die Fernwärmeversorgung und für die Versorgung mit Fernwärme
+Vertragsmuster oder Vertragsbedingungen verwenden, die für
+eine Vielzahl von Verträgen vorformuliert sind (allgemeine
+Versorgungsbedingungen), gelten die §§ 2 bis 34. Diese sind,
+soweit Absatz 3 und § 35 nichts anderes vorsehen, Bestandteil des
 Versorgungsvertrages.
 
 (2) Die Verordnung gilt nicht für den Anschluß und die Versorgung von
 Industrieunternehmen.
 
 (3) Der Vertrag kann auch zu allgemeinen Versorgungsbedingungen
-abgeschlossen werden, die von den §§ 2 bis 34 abweichen, wenn das
-Fernwärmeversorgungsunternehmen einen Vertragsabschluß zu den
-allgemeinen Bedingungen dieser Verordnung angeboten hat und der Kunde
-mit den Abweichungen ausdrücklich einverstanden ist. Auf die
+abgeschlossen werden, die von den §§ 2 bis 34 abweichen, wenn
+das Fernwärmeversorgungsunternehmen einen Vertragsabschluß zu den
+allgemeinen Bedingungen dieser Verordnung angeboten hat und der
+Kunde mit den Abweichungen ausdrücklich einverstanden ist. Auf die
 abweichenden Bedingungen sind die §§ 305 bis 310 des Bürgerlichen
-Gesetzbuchs anzuwenden. Von den Bestimmungen des § 18 Absatz 1 und §
+Gesetzbuchs anzuwenden. Von den Bestimmungen des § 18 Absatz 1 und §
 24 Absatz 1 darf nicht abgewichen werden.
 
 (4) Das Fernwärmeversorgungsunternehmen hat seine allgemeinen
@@ -60,28 +57,28 @@ Preislisten in geeigneter Weise öffentlich bekanntzugeben.
 
 ## § 1a Veröffentlichungspflichten
 
-(1) Das Fernwärmeversorgungsunternehmen hat in leicht zugänglicher und
-allgemein verständlicher Form in jeweils aktueller Fassung seine
+(1) Das Fernwärmeversorgungsunternehmen hat in leicht zugänglicher
+und allgemein verständlicher Form in jeweils aktueller Fassung seine
 allgemeinen Versorgungsbedingungen, einschließlich der dazugehörenden
-Preisregelungen, Preisanpassungsklauseln und Preiskomponenten, sowie
-eindeutige Verweise auf die Quellen verwendeter Indizes und
+Preisregelungen, Preisanpassungsklauseln und Preiskomponenten,
+sowie eindeutige Verweise auf die Quellen verwendeter Indizes und
 Preislisten barrierefrei im Internet zu veröffentlichen.
 
-(2) Das Fernwärmeversorgungsunternehmen hat zudem Informationen über
-die Netzverluste in Megawattstunden pro Jahr als Differenz zwischen
-der Wärme-Netzeinspeisung und der nutzbaren Wärmeabgabe im Internet in
-leicht zugänglicher und allgemein verständlicher Form zu
+(2) Das Fernwärmeversorgungsunternehmen hat zudem Informationen
+über die Netzverluste in Megawattstunden pro Jahr als Differenz
+zwischen der Wärme-Netzeinspeisung und der nutzbaren Wärmeabgabe im
+Internet in leicht zugänglicher und allgemein verständlicher Form zu
 veröffentlichen. Die Wärmeabgabe entspricht der vom Kunden und vom
 Versorger für eigene Einrichtungen entnommenen Wärme.
 
 
 ## § 2 Vertragsabschluß
 
-(1) Der Vertrag soll schriftlich abgeschlossen werden. Ist er auf
-andere Weise zustande gekommen, so hat das
+(1) Der Vertrag soll schriftlich abgeschlossen werden.
+Ist er auf andere Weise zustande gekommen, so hat das
 Fernwärmeversorgungsunternehmen den Vertragsabschluß dem Kunden
-unverzüglich schriftlich zu bestätigen. Wird die Bestätigung mit
-automatischen Einrichtungen ausgefertigt, bedarf es keiner
+unverzüglich schriftlich zu bestätigen. Wird die Bestätigung
+mit automatischen Einrichtungen ausgefertigt, bedarf es keiner
 Unterschrift. Im Vertrag oder in der Vertragsbestätigung ist auf die
 allgemeinen Versorgungsbedingungen hinzuweisen.
 
@@ -102,16 +99,16 @@ unentgeltlich auszuhändigen.
 
 (1) Das Fernwärmeversorgungsunternehmen hat dem Kunden die Möglichkeit
 einzuräumen, eine Anpassung der vertraglich vereinbarten Wärmeleistung
-(Leistung) während der Vertragslaufzeit vorzunehmen. Die Anpassung der
-Leistung nach Satz 1 kann einmal jährlich mit einer Frist von vier
-Wochen zum Ende eines Kalendermonats erfolgen und bedarf keines
+(Leistung) während der Vertragslaufzeit vorzunehmen. Die Anpassung
+der Leistung nach Satz 1 kann einmal jährlich mit einer Frist von
+vier Wochen zum Ende eines Kalendermonats erfolgen und bedarf keines
 Nachweises, sofern sich die Leistung nicht um mehr als 50 Prozent
 reduziert.
 
-(2) Der Kunde kann eine Anpassung der Leistung, die eine Reduktion um
-mehr als 50 Prozent im Vergleich zur vertraglich vereinbarten Leistung
-darstellt, oder eine Kündigung des Versorgungsvertrages mit
-zweimonatiger Frist vornehmen, sofern er die Leistung durch den
+(2) Der Kunde kann eine Anpassung der Leistung, die eine Reduktion
+um mehr als 50 Prozent im Vergleich zur vertraglich vereinbarten
+Leistung darstellt, oder eine Kündigung des Versorgungsvertrages
+mit zweimonatiger Frist vornehmen, sofern er die Leistung durch den
 Einsatz erneuerbarer Energien ersetzen will. Er hat zu belegen, dass
 erneuerbare Energien eingesetzt werden sollen.
 
@@ -138,8 +135,8 @@ des Kunden nicht beeinträchtigt wird oder die Versorgung aus
 technischen Gründen anders nicht aufrecht erhalten werden kann oder
 dies gesetzlich oder behördlich vorgeschrieben wird.
 
-(4) Stellt der Kunde Anforderungen an die Wärmelieferung und an die
-Beschaffenheit des Wärmeträgers, die über die vorgenannten
+(4) Stellt der Kunde Anforderungen an die Wärmelieferung und an
+die Beschaffenheit des Wärmeträgers, die über die vorgenannten
 Verpflichtungen hinausgehen, so obliegt es ihm selbst, entsprechende
 Vorkehrungen zu treffen.
 
@@ -152,34 +149,26 @@ stellen. Dies gilt nicht,
 
 1.  soweit zeitliche Beschränkungen vertraglich vorbehalten sind,
 
-
 2.  soweit und solange das Unternehmen an der Erzeugung, dem Bezug oder
     der Fortleitung des Wärmeträgers durch höhere Gewalt oder sonstige
     Umstände, deren Beseitigung ihm wirtschaftlich nicht zugemutet werden
     kann, gehindert ist.
 
-
-
-
-(2) Die Versorgung kann unterbrochen werden, soweit dies zur Vornahme
-betriebsnotwendiger Arbeiten erforderlich ist. Das
+(2) Die Versorgung kann unterbrochen werden, soweit dies zur
+Vornahme betriebsnotwendiger Arbeiten erforderlich ist. Das
 Fernwärmeversorgungsunternehmen hat jede Unterbrechung oder
 Unregelmäßigkeit unverzüglich zu beheben.
 
-(3) Das Fernwärmeversorgungsunternehmen hat die Kunden bei einer nicht
-nur für kurze Dauer beabsichtigten Unterbrechung der Versorgung
+(3) Das Fernwärmeversorgungsunternehmen hat die Kunden bei einer
+nicht nur für kurze Dauer beabsichtigten Unterbrechung der Versorgung
 rechtzeitig in geeigneter Weise zu unterrichten. Die Pflicht zur
 Benachrichtigung entfällt, wenn die Unterrichtung
 
 1.  nach den Umständen nicht rechtzeitig möglich ist und das Unternehmen
     dies nicht zu vertreten hat oder
 
-
 2.  die Beseitigung von bereits eingetretenen Unterbrechungen verzögern
     würde.
-
-
-
 
 
 ## § 6 Haftung bei Versorgungsstörungen
@@ -189,31 +178,27 @@ Fernwärmeversorgung oder durch Unregelmäßigkeiten in der Belieferung
 erleidet, haftet das ihn beliefernde Fernwärmeversorgungsunternehmen
 aus Vertrag oder unerlaubter Handlung im Falle
 
-1.  der Tötung oder Verletzung des Körpers oder der Gesundheit des Kunden,
-    es sei denn, daß der Schaden von dem Unternehmen oder einem
-    Erfüllungs- oder Verrichtungsgehilfen weder vorsätzlich noch
+1.  der Tötung oder Verletzung des Körpers oder der Gesundheit des
+    Kunden, es sei denn, daß der Schaden von dem Unternehmen oder
+    einem Erfüllungs- oder Verrichtungsgehilfen weder vorsätzlich noch
     fahrlässig verursacht worden ist,
-
 
 2.  der Beschädigung einer Sache, es sei denn, daß der Schaden weder durch
     Vorsatz noch durch grobe Fahrlässigkeit des Unternehmens oder eines
     Erfüllungs- oder Verrichtungsgehilfen verursacht worden ist,
-
 
 3.  eines Vermögensschadens, es sei denn, daß dieser weder durch Vorsatz
     noch durch grobe Fahrlässigkeit des Inhabers des Unternehmens oder
     eines vertretungsberechtigten Organs oder Gesellschafters verursacht
     worden ist.
 
-
-
 § 831 Abs. 1 Satz 2 des Bürgerlichen Gesetzbuches ist nur bei
 vorsätzlichem Handeln von Verrichtungsgehilfen anzuwenden.
 
 (2) Absatz 1 ist auch auf Ansprüche von Kunden anzuwenden, die diese
 gegen ein drittes Fernwärmeversorgungsunternehmen aus unerlaubter
-Handlung geltend machen. Das Fernwärmeversorgungsunternehmen ist
-verpflichtet, seinen Kunden auf Verlangen über die mit der
+Handlung geltend machen. Das Fernwärmeversorgungsunternehmen
+ist verpflichtet, seinen Kunden auf Verlangen über die mit der
 Schadensverursachung durch ein drittes Unternehmen zusammenhängenden
 Tatsachen insoweit Auskunft zu geben, als sie ihm bekannt sind oder
 von ihm in zumutbarer Weise aufgeklärt werden können und ihre Kenntnis
@@ -221,24 +206,24 @@ zur Geltendmachung des Schadensersatzes erforderlich ist.
 
 (3) Die Ersatzpflicht entfällt für Schäden unter 15 Euro.
 
-(4) Ist der Kunde berechtigt, die gelieferte Wärme an einen Dritten
-weiterzuleiten, und erleidet dieser durch Unterbrechung der
+(4) Ist der Kunde berechtigt, die gelieferte Wärme an einen
+Dritten weiterzuleiten, und erleidet dieser durch Unterbrechung der
 Fernwärmeversorgung oder durch Unregelmäßigkeiten in der Belieferung
 einen Schaden, so haftet das Fernwärmeversorgungsunternehmen dem
 Dritten gegenüber in demselben Umfange wie dem Kunden aus dem
 Versorgungsvertrag.
 
-(5) Leitet der Kunde die gelieferte Wärme an einen Dritten weiter, so
-hat er im Rahmen seiner rechtlichen Möglichkeiten sicherzustellen, daß
-dieser aus unerlaubter Handlung keine weitergehenden
-Schadensersatzansprüche erheben kann, als sie in den Absätzen 1 bis 3
-vorgesehen sind. Das Fernwärmeversorgungsunternehmen hat den Kunden
+(5) Leitet der Kunde die gelieferte Wärme an einen Dritten weiter,
+so hat er im Rahmen seiner rechtlichen Möglichkeiten sicherzustellen,
+daß dieser aus unerlaubter Handlung keine weitergehenden
+Schadensersatzansprüche erheben kann, als sie in den Absätzen 1 bis
+3 vorgesehen sind. Das Fernwärmeversorgungsunternehmen hat den Kunden
 hierauf bei Abschluß des Vertrages besonders hinzuweisen.
 
 (6) Der Kunde hat den Schaden unverzüglich dem ihn beliefernden
-Fernwärmeversorgungsunternehmen oder, wenn dieses feststeht, dem
-ersatzpflichtigen Unternehmen mitzuteilen. Leitet der Kunde die
-gelieferte Wärme an einen Dritten weiter, so hat er diese
+Fernwärmeversorgungsunternehmen oder, wenn dieses feststeht,
+dem ersatzpflichtigen Unternehmen mitzuteilen. Leitet der Kunde
+die gelieferte Wärme an einen Dritten weiter, so hat er diese
 Verpflichtung auch dem Dritten aufzuerlegen.
 
 
@@ -256,9 +241,9 @@ Versorgungsgebiet liegenden Grundstücke und in ihren Gebäuden, ferner
 das Anbringen sonstiger Verteilungsanlagen und von Zubehör sowie
 erforderliche Schutzmaßnahmen unentgeltlich zuzulassen. Diese Pflicht
 betrifft nur Grundstücke, die an die Fernwärmeversorgung angeschlossen
-sind, die vom Eigentümer in wirtschaftlichem Zusammenhang mit der
-Fernwärmeversorgung eines angeschlossenen Grundstücks genutzt werden
-oder für die die Möglichkeit der Fernwärmeversorgung sonst
+sind, die vom Eigentümer in wirtschaftlichem Zusammenhang mit
+der Fernwärmeversorgung eines angeschlossenen Grundstücks genutzt
+werden oder für die die Möglichkeit der Fernwärmeversorgung sonst
 wirtschaftlich vorteilhaft ist. Sie entfällt, wenn die Inanspruchnahme
 der Grundstücke den Eigentümer mehr als notwendig oder in unzumutbarer
 Weise belasten würde.
@@ -267,9 +252,9 @@ Weise belasten würde.
 der beabsichtigten Inanspruchnahme von Grundstück und Gebäude zu
 benachrichtigen.
 
-(3) Der Grundstückseigentümer kann die Verlegung der Einrichtungen
-verlangen, wenn sie an der bisherigen Stelle für ihn nicht mehr
-zumutbar sind. Die Kosten der Verlegung hat das
+(3) Der Grundstückseigentümer kann die Verlegung der
+Einrichtungen verlangen, wenn sie an der bisherigen Stelle für
+ihn nicht mehr zumutbar sind. Die Kosten der Verlegung hat das
 Fernwärmeversorgungsunternehmen zu tragen; dies gilt nicht, soweit die
 Einrichtungen ausschließlich der Versorgung des Grundstücks dienen.
 
@@ -278,11 +263,11 @@ Grundstückseigentümer die Entfernung der Einrichtungen zu gestatten
 oder sie auf Verlangen des Unternehmens noch fünf Jahre unentgeltlich
 zu dulden, es sei denn, daß ihm dies nicht zugemutet werden kann.
 
-(5) Kunden und Anschlußnehmer, die nicht Grundstückseigentümer sind,
-haben auf Verlangen des Fernwärmeversorgungsunternehmens die
+(5) Kunden und Anschlußnehmer, die nicht Grundstückseigentümer
+sind, haben auf Verlangen des Fernwärmeversorgungsunternehmens die
 schriftliche Zustimmung des Grundstückseigentümers zur Benutzung des
-zu versorgenden Grundstücks und Gebäudes im Sinne der Absätze 1 und 4
-beizubringen.
+zu versorgenden Grundstücks und Gebäudes im Sinne der Absätze 1 und
+4 beizubringen.
 
 (6) Hat der Kunde oder Anschlußnehmer zur Sicherung der dem
 Fernwärmeversorgungsunternehmen nach Absatz 1 einzuräumenden Rechte
@@ -300,17 +285,17 @@ sind.
 
 (1) Das Fernwärmeversorgungsunternehmen ist berechtigt, von den
 Anschlußnehmern einen angemessenen Baukostenzuschuß zur teilweisen
-Abdeckung der bei wirtschaftlicher Betriebsführung notwendigen Kosten
-für die Erstellung oder Verstärkung von der örtlichen Versorgung
-dienenden Verteilungsanlagen zu verlangen, soweit sie sich
+Abdeckung der bei wirtschaftlicher Betriebsführung notwendigen
+Kosten für die Erstellung oder Verstärkung von der örtlichen
+Versorgung dienenden Verteilungsanlagen zu verlangen, soweit sie sich
 ausschließlich dem Versorgungsbereich zuordnen lassen, in dem der
 Anschluß erfolgt. Baukostenzuschüsse dürfen höchstens 70 vom Hundert
 dieser Kosten abdecken.
 
 (2) Der von den Anschlußnehmern als Baukostenzuschuß zu übernehmende
 Kostenanteil bemißt sich nach dem Verhältnis, in dem die an seinem
-Hausanschluß vorzuhaltende Leistung zu der Summe der Leistungen steht,
-die in den im betreffenden Versorgungsbereich erstellten
+Hausanschluß vorzuhaltende Leistung zu der Summe der Leistungen
+steht, die in den im betreffenden Versorgungsbereich erstellten
 Verteilungsanlagen oder auf Grund der Verstärkung insgesamt
 vorgehalten werden können. Der Durchmischung der jeweiligen
 Leistungsanforderungen ist Rechnung zu tragen.
@@ -319,12 +304,12 @@ Leistungsanforderungen ist Rechnung zu tragen.
 der Anschlußnehmer seine Leistungsanforderung wesentlich erhöht. Er
 ist nach Absatz 2 zu bemessen.
 
-(4) Wird ein Anschluß an eine Verteilungsanlage hergestellt, die vor
-Inkrafttreten dieser Verordnung errichtet worden oder mit deren
-Errichtung vor diesem Zeitpunkt begonnen worden ist, und ist der
-Anschluß ohne Verstärkung der Anlage möglich, so kann das
-Fernwärmeversorgungsunternehmen abweichend von den Absätzen 1 und 2
-einen Baukostenzuschuß nach Maßgabe der für die Anlage bisher
+(4) Wird ein Anschluß an eine Verteilungsanlage hergestellt, die
+vor Inkrafttreten dieser Verordnung errichtet worden oder mit
+deren Errichtung vor diesem Zeitpunkt begonnen worden ist, und
+ist der Anschluß ohne Verstärkung der Anlage möglich, so kann das
+Fernwärmeversorgungsunternehmen abweichend von den Absätzen 1 und
+2 einen Baukostenzuschuß nach Maßgabe der für die Anlage bisher
 verwendeten Berechnungsmaßstäbe verlangen.
 
 (5) Der Baukostenzuschuß und die in § 10 Abs. 5 geregelten
@@ -342,14 +327,14 @@ eine abweichende Vereinbarung getroffen ist.
 (2) Die Herstellung des Hausanschlusses soll auf einem Vordruck
 beantragt werden.
 
-(3) Art, Zahl und Lage der Hausanschlüsse sowie deren Änderung werden
-nach Anhörung des Anschlußnehmers und unter Wahrung seiner
+(3) Art, Zahl und Lage der Hausanschlüsse sowie deren Änderung
+werden nach Anhörung des Anschlußnehmers und unter Wahrung seiner
 berechtigten Interessen vom Fernwärmeversorgungsunternehmen bestimmt.
 
 (4) Hausanschlüsse gehören zu den Betriebsanlagen des
-Fernwärmeversorgungsunternehmens und stehen in dessen Eigentum, es sei
-denn, daß eine abweichende Vereinbarung getroffen ist. Sie werden
-ausschließlich von diesem hergestellt, unterhalten, erneuert,
+Fernwärmeversorgungsunternehmens und stehen in dessen Eigentum,
+es sei denn, daß eine abweichende Vereinbarung getroffen ist. Sie
+werden ausschließlich von diesem hergestellt, unterhalten, erneuert,
 geändert, abgetrennt und beseitigt, müssen zugänglich und vor
 Beschädigungen geschützt sein. Soweit das Versorgungsunternehmen die
 Erstellung des Hausanschlusses oder Veränderungen des Hausanschlusses
@@ -366,12 +351,9 @@ notwendigen Kosten für
 
 1.  die Erstellung des Hausanschlusses,
 
-
 2.  die Veränderungen des Hausanschlusses, die durch eine Änderung oder
     Erweiterung seiner Anlage erforderlich oder aus anderen Gründen von
     ihm veranlaßt werden,
-
-
 
 zu verlangen. Die Kosten können pauschal berechnet werden. § 18 Abs. 5
 Satz 1 bleibt unberührt.
@@ -386,10 +368,10 @@ Anschlußnehmer den etwa zuviel gezahlten Betrag zu erstatten.
 Undichtwerden von Leitungen sowie sonstige Störungen sind dem
 Fernwärmeversorgungsunternehmen unverzüglich mitzuteilen.
 
-(8) Kunden und Anschlußnehmer, die nicht Grundstückseigentümer sind,
-haben auf Verlangen des Fernwärmeversorgungsunternehmens die
-schriftliche Zustimmung des Grundstückseigentümers zur Herstellung des
-Hausanschlusses unter Anerkennung der damit verbundenen
+(8) Kunden und Anschlußnehmer, die nicht Grundstückseigentümer
+sind, haben auf Verlangen des Fernwärmeversorgungsunternehmens die
+schriftliche Zustimmung des Grundstückseigentümers zur Herstellung
+des Hausanschlusses unter Anerkennung der damit verbundenen
 Verpflichtungen beizubringen.
 
 
@@ -397,10 +379,10 @@ Verpflichtungen beizubringen.
 
 (1) Das Fernwärmeversorgungsunternehmen kann verlangen, daß der
 Anschlußnehmer unentgeltlich einen geeigneten Raum oder Platz zur
-Unterbringung von Meß-, Regel- und Absperreinrichtungen, Umformern und
-weiteren technischen Einrichtungen zur Verfügung stellt, soweit diese
-zu seiner Versorgung erforderlich sind. Das Unternehmen darf die
-Einrichtungen auch für andere Zwecke benutzen, soweit dies für den
+Unterbringung von Meß-, Regel- und Absperreinrichtungen, Umformern
+und weiteren technischen Einrichtungen zur Verfügung stellt, soweit
+diese zu seiner Versorgung erforderlich sind. Das Unternehmen darf
+die Einrichtungen auch für andere Zwecke benutzen, soweit dies für den
 Anschlußnehmer zumutbar ist.
 
 (2) § 8 Abs. 3 und 4 sowie § 10 Abs. 8 gelten entsprechend.
@@ -429,8 +411,8 @@ Anlage ist nach den Angaben des Fernwärmeversorgungsunternehmens zu
 veranlassen.
 
 (4) Es dürfen nur Materialien und Geräte verwendet werden, die
-entsprechend den anerkannten Regeln der Technik beschaffen sind. Das
-Zeichen einer amtlich anerkannten Prüfstelle bekundet, daß diese
+entsprechend den anerkannten Regeln der Technik beschaffen sind.
+Das Zeichen einer amtlich anerkannten Prüfstelle bekundet, daß diese
 Voraussetzungen erfüllt sind.
 
 
@@ -452,18 +434,18 @@ berechnet werden.
 ## § 14 Überprüfung der Kundenanlage
 
 (1) Das Fernwärmeversorgungsunternehmen ist berechtigt, die
-Kundenanlage vor und nach ihrer Inbetriebsetzung zu überprüfen. Es hat
-den Kunden auf erkannte Sicherheitsmängel aufmerksam zu machen und
+Kundenanlage vor und nach ihrer Inbetriebsetzung zu überprüfen. Es
+hat den Kunden auf erkannte Sicherheitsmängel aufmerksam zu machen und
 kann deren Beseitigung verlangen.
 
-(2) Werden Mängel festgestellt, welche die Sicherheit gefährden oder
-erhebliche Störungen erwarten lassen, so ist das
+(2) Werden Mängel festgestellt, welche die Sicherheit
+gefährden oder erhebliche Störungen erwarten lassen, so ist das
 Fernwärmeversorgungsunternehmen berechtigt, den Anschluß oder die
 Versorgung zu verweigern; bei Gefahr für Leib oder Leben ist es hierzu
 verpflichtet.
 
-(3) Durch Vornahme oder Unterlassung der Überprüfung der Anlage sowie
-durch deren Anschluß an das Verteilungsnetz übernimmt das
+(3) Durch Vornahme oder Unterlassung der Überprüfung der Anlage
+sowie durch deren Anschluß an das Verteilungsnetz übernimmt das
 Fernwärmeversorgungsunternehmen keine Haftung für die Mängelfreiheit
 der Anlage. Dies gilt nicht, wenn es bei einer Überprüfung Mängel
 festgestellt hat, die eine Gefahr für Leib oder Leben darstellen.
@@ -475,8 +457,8 @@ festgestellt hat, die eine Gefahr für Leib oder Leben darstellen.
 Störungen anderer Kunden und störende Rückwirkungen auf Einrichtungen
 des Fernwärmeversorgungsunternehmens oder Dritter ausgeschlossen sind.
 
-(2) Erweiterungen und Änderungen der Anlage sowie die Verwendung
-zusätzlicher Verbrauchseinrichtungen sind dem
+(2) Erweiterungen und Änderungen der Anlage sowie die
+Verwendung zusätzlicher Verbrauchseinrichtungen sind dem
 Fernwärmeversorgungsunternehmen mitzuteilen, soweit sich dadurch
 preisliche Bemessungsgrößen ändern oder sich die vorzuhaltende
 Leistung erhöht. Nähere Einzelheiten über den Inhalt der Mitteilung
@@ -487,10 +469,10 @@ kann das Unternehmen regeln.
 
 Der Kunde hat nach vorheriger Benachrichtigung dem mit einem Ausweis
 versehenen Beauftragten des Fernwärmeversorgungsunternehmens den
-Zutritt zu seinen Räumen zu gestatten, soweit dies für die Prüfung der
-technischen Einrichtungen, zur Wahrnehmung sonstiger Rechte und
-Pflichten nach dieser Verordnung, insbesondere zur Ablesung, oder zur
-Ermittlung preislicher Bemessungsgrundlagen erforderlich und
+Zutritt zu seinen Räumen zu gestatten, soweit dies für die Prüfung
+der technischen Einrichtungen, zur Wahrnehmung sonstiger Rechte und
+Pflichten nach dieser Verordnung, insbesondere zur Ablesung, oder
+zur Ermittlung preislicher Bemessungsgrundlagen erforderlich und
 vereinbart ist.
 
 
@@ -498,14 +480,14 @@ vereinbart ist.
 
 (1) Das Fernwärmeversorgungsunternehmen ist berechtigt, weitere
 technische Anforderungen an den Hausanschluß und andere Anlagenteile
-sowie an den Betrieb der Anlage festzulegen, soweit dies aus Gründen
-der sicheren und störungsfreien Versorgung, insbesondere im Hinblick
-auf die Erfordernisse des Verteilungsnetzes und der Erzeugungsanlagen
-notwendig ist. Diese Anforderungen dürfen den anerkannten Regeln der
-Technik nicht widersprechen. Der Anschluß bestimmter
-Verbrauchseinrichtungen kann von der vorherigen Zustimmung des
-Versorgungsunternehmens abhängig gemacht werden. Die Zustimmung darf
-nur verweigert werden, wenn der Anschluß eine sichere und
+sowie an den Betrieb der Anlage festzulegen, soweit dies aus
+Gründen der sicheren und störungsfreien Versorgung, insbesondere
+im Hinblick auf die Erfordernisse des Verteilungsnetzes und der
+Erzeugungsanlagen notwendig ist. Diese Anforderungen dürfen den
+anerkannten Regeln der Technik nicht widersprechen. Der Anschluß
+bestimmter Verbrauchseinrichtungen kann von der vorherigen Zustimmung
+des Versorgungsunternehmens abhängig gemacht werden. Die Zustimmung
+darf nur verweigert werden, wenn der Anschluß eine sichere und
 störungsfreie Versorgung gefährden würde.
 
 (2) Das Fernwärmeversorgungsunternehmen hat die weiteren technischen
@@ -516,37 +498,34 @@ vereinbaren sind.
 
 ## § 18 Messung
 
-(1) Für die Messung der gelieferten Wärmemenge (Wärmemessung) ist § 3
-der Fernwärme- oder Fernkälte-Verbrauchserfassungs- und
--Abrechnungsverordnung vom 28. September 2021 (BGBl. I S. 4591) in der
-jeweils geltenden Fassung anzuwenden. Anstelle der Wärmemessung ist
-auch die Messung der Wassermenge ausreichend (Ersatzverfahren), wenn
-die Einrichtungen zur Messung der Wassermenge vor dem 30. September
-1989 installiert worden sind. Der anteilige Wärmeverbrauch mehrerer
-Kunden kann mit Einrichtungen zur Verteilung von Heizkosten
+(1) Für die Messung der gelieferten Wärmemenge (Wärmemessung)
+ist § 3 der Fernwärme- oder Fernkälte-Verbrauchserfassungs- und
+-Abrechnungsverordnung vom 28. September 2021 (BGBl. I S. 4591) in
+der jeweils geltenden Fassung anzuwenden. Anstelle der Wärmemessung
+ist auch die Messung der Wassermenge ausreichend (Ersatzverfahren),
+wenn die Einrichtungen zur Messung der Wassermenge vor dem 30.
+September 1989 installiert worden sind. Der anteilige Wärmeverbrauch
+mehrerer Kunden kann mit Einrichtungen zur Verteilung von Heizkosten
 (Hilfsverfahren) bestimmt werden, wenn die gelieferte Wärmemenge wie
 folgt festgestellt wird:
 
 1.  an einem Hausanschluss, von dem aus mehrere Kunden versorgt werden,
     oder
 
-
 2.  an einer sonstigen verbrauchsnah gelegenen Stelle für einzelne
     Gebäudegruppen, die vor dem 1. April 1980 an das Verteilungsnetz
     angeschlossen worden sind.
 
-
-
 Das Unternehmen bestimmt das jeweils anzuwendende Verfahren; dabei ist
 es berechtigt, dieses während der Vertragslaufzeit zu ändern.
 
-(2) Das Fernwärmeversorgungsunternehmen hat dafür Sorge zu tragen, daß
-eine einwandfreie Anwendung der in Absatz 1 genannten Verfahren
-gewährleistet ist. Es bestimmt Art, Zahl und Größe sowie
+(2) Das Fernwärmeversorgungsunternehmen hat dafür Sorge zu
+tragen, daß eine einwandfreie Anwendung der in Absatz 1 genannten
+Verfahren gewährleistet ist. Es bestimmt Art, Zahl und Größe sowie
 Anbringungsort von Meß- und Regeleinrichtungen. Ebenso ist die
-Lieferung, Anbringung, Überwachung, Unterhaltung und Entfernung der
-Meß- und Regeleinrichtungen Aufgabe des Unternehmens. Es hat den
-Kunden und den Anschlußnehmer anzuhören und deren berechtigte
+Lieferung, Anbringung, Überwachung, Unterhaltung und Entfernung
+der Meß- und Regeleinrichtungen Aufgabe des Unternehmens. Es hat
+den Kunden und den Anschlußnehmer anzuhören und deren berechtigte
 Interessen zu wahren. Es ist verpflichtet, auf Verlangen des Kunden
 oder des Hauseigentümers Meß- oder Regeleinrichtungen zu verlegen,
 wenn dies ohne Beeinträchtigung einer einwandfreien Messung oder
@@ -563,8 +542,8 @@ Er hat den Verlust, Beschädigungen und Störungen dieser Einrichtungen
 dem Fernwärmeversorgungsunternehmen unverzüglich mitzuteilen.
 
 (5) Bei der Abrechnung der Lieferung von Fernwärme und Fernwarmwasser
-sind die Bestimmungen der Verordnung über Heizkostenabrechnung in der
-Fassung der Bekanntmachung vom 5. April 1984 (BGBl. I S. 592),
+sind die Bestimmungen der Verordnung über Heizkostenabrechnung in
+der Fassung der Bekanntmachung vom 5. April 1984 (BGBl. I S. 592),
 geändert durch Artikel 1 der Verordnung vom 19. Januar 1989 (BGBl. I
 S. 109), zu beachten.
 
@@ -574,9 +553,9 @@ S. 109), zu beachten.
 (1) Der Kunde kann jederzeit die Nachprüfung der Meßeinrichtungen
 verlangen. Bei Meßeinrichtungen, die den eichrechtlichen Vorschriften
 entsprechen müssen, kann er die Nachprüfung durch eine Eichbehörde
-oder eine staatlich anerkannte Prüfstelle im Sinne des § 40 Absatz 3
-des Mess- und Eichgesetzes verlangen. Stellt der Kunde den Antrag auf
-Prüfung nicht bei dem Fernwärmeversorgungsunternehmen, so hat er
+oder eine staatlich anerkannte Prüfstelle im Sinne des § 40 Absatz
+3 des Mess- und Eichgesetzes verlangen. Stellt der Kunde den Antrag
+auf Prüfung nicht bei dem Fernwärmeversorgungsunternehmen, so hat er
 dieses vor Antragstellung zu benachrichtigen.
 
 (2) Die Kosten der Prüfung fallen dem Unternehmen zur Last, falls eine
@@ -595,19 +574,19 @@ Dieser hat dafür Sorge zu tragen, daß die Meßeinrichtungen leicht
 zugänglich sind.
 
 (2) Solange der Beauftragte des Unternehmens die Räume des Kunden
-nicht zum Zwecke der Ablesung betreten kann, darf das Unternehmen den
-Verbrauch auf der Grundlage der letzten Ablesung schätzen; die
+nicht zum Zwecke der Ablesung betreten kann, darf das Unternehmen
+den Verbrauch auf der Grundlage der letzten Ablesung schätzen; die
 tatsächlichen Verhältnisse sind angemessen zu berücksichtigen.
 
 
 ## § 21 Berechnungsfehler
 
-(1) Ergibt eine Prüfung der Meßeinrichtungen eine nicht unerhebliche
-Ungenauigkeit oder werden Fehler in der Ermittlung des
-Rechnungsbetrages festgestellt, so ist der zuviel oder zuwenig
-berechnete Betrag zu erstatten oder nachzuentrichten. Ist die Größe
-des Fehlers nicht einwandfrei festzustellen oder zeigt eine
-Meßeinrichtung nicht an, so ermittelt das
+(1) Ergibt eine Prüfung der Meßeinrichtungen eine nicht
+unerhebliche Ungenauigkeit oder werden Fehler in der Ermittlung
+des Rechnungsbetrages festgestellt, so ist der zuviel oder
+zuwenig berechnete Betrag zu erstatten oder nachzuentrichten.
+Ist die Größe des Fehlers nicht einwandfrei festzustellen
+oder zeigt eine Meßeinrichtung nicht an, so ermittelt das
 Fernwärmeversorgungsunternehmen den Verbrauch für die Zeit seit der
 letzten fehlerfreien Ablesung aus dem Durchschnittsverbrauch des ihr
 vorhergehenden und des der Feststellung des Fehlers nachfolgenden
@@ -623,11 +602,11 @@ diesem Fall ist der Anspruch auf längstens zwei Jahre beschränkt.
 
 ## § 22 Verwendung der Wärme
 
-(1) Die Wärme wird nur für die eigenen Zwecke des Kunden und seiner
-Mieter zur Verfügung gestellt. Die Weiterleitung an sonstige Dritte
-ist nur mit schriftlicher Zustimmung des
-Fernwärmeversorgungsunternehmens zulässig. Diese muß erteilt werden,
-wenn dem Interesse an der Weiterleitung nicht überwiegende
+(1) Die Wärme wird nur für die eigenen Zwecke des Kunden
+und seiner Mieter zur Verfügung gestellt. Die Weiterleitung
+an sonstige Dritte ist nur mit schriftlicher Zustimmung des
+Fernwärmeversorgungsunternehmens zulässig. Diese muß erteilt
+werden, wenn dem Interesse an der Weiterleitung nicht überwiegende
 versorgungswirtschaftliche Gründe entgegenstehen.
 
 (2) Dampf, Kondensat oder Heizwasser dürfen den Anlagen, soweit nichts
@@ -637,57 +616,124 @@ verändert noch verunreinigt werden.
 
 ## § 23 Vertragsstrafe
 
-(1) Entnimmt der Kunde Wärme unter Umgehung, Beeinflussung oder vor
-Anbringung der Meßeinrichtungen oder nach Einstellung der Versorgung,
-so ist das Fernwärmeversorgungsunternehmen berechtigt, eine
-Vertragsstrafe zu verlangen. Diese bemißt sich nach der Dauer der
-unbefugten Entnahme und darf das Zweifache des für diese Zeit bei
-höchstmöglichem Wärmeverbrauch zu zahlenden Entgelts nicht
+(1) Entnimmt der Kunde Wärme unter Umgehung, Beeinflussung oder
+vor Anbringung der Meßeinrichtungen oder nach Einstellung der
+Versorgung, so ist das Fernwärmeversorgungsunternehmen berechtigt,
+eine Vertragsstrafe zu verlangen. Diese bemißt sich nach der Dauer
+der unbefugten Entnahme und darf das Zweifache des für diese Zeit
+bei höchstmöglichem Wärmeverbrauch zu zahlenden Entgelts nicht
 übersteigen.
 
-(2) Ist die Dauer der unbefugten Entnahme nicht festzustellen, so kann
-die Vertragsstrafe über einen festgestellten Zeitraum hinaus für
+(2) Ist die Dauer der unbefugten Entnahme nicht festzustellen, so
+kann die Vertragsstrafe über einen festgestellten Zeitraum hinaus für
 längstens ein Jahr erhoben werden.
 
 
 ## § 24 Abrechnung, Preisänderungsklauseln
 
-(1) Die Abrechnung des Energieverbrauchs und die Bereitstellung von
-Abrechnungsinformationen einschließlich Verbrauchsinformationen
+(1) Die Abrechnung des Energieverbrauchs und die Bereitstellung
+von Abrechnungsinformationen einschließlich Verbrauchsinformationen
 erfolgt nach den §§ 4 und 5 der Fernwärme- oder Fernkälte-
 Verbrauchserfassungs- und -Abrechnungsverordnung in der jeweils
 geltenden Fassung.
 
 (2) (weggefallen)
 
-(3) Ändern sich innerhalb eines Abrechnungszeitraumes die Preise, so
-wird der für die neuen Preise maßgebliche Verbrauch zeitanteilig
+(3) Ändern sich innerhalb eines Abrechnungszeitraumes die Preise,
+so wird der für die neuen Preise maßgebliche Verbrauch zeitanteilig
 berechnet; jahreszeitliche Verbrauchsschwankungen sind auf der
 Grundlage der für die jeweilige Abnehmergruppe maßgeblichen
 Erfahrungswerte angemessen zu berücksichtigen. Entsprechendes gilt bei
 Änderung des Umsatzsteuersatzes.
 
-(4) Preisänderungsklauseln dürfen nur so ausgestaltet sein, daß sie
-sowohl die Kostenentwicklung bei Erzeugung und Bereitstellung der
-Fernwärme durch das Unternehmen als auch die jeweiligen Verhältnisse
-auf dem Wärmemarkt angemessen berücksichtigen. Sie müssen die
-maßgeblichen Berechnungsfaktoren vollständig und in allgemein
-verständlicher Form ausweisen. Bei Anwendung der
-Preisänderungsklauseln ist der prozentuale Anteil des die
+(4) Preisänderungsklauseln dürfen nur so ausgestaltet sein, daß
+sie sowohl die Kostenentwicklung bei Erzeugung und Bereitstellung
+der Fernwärme durch das Unternehmen als auch die jeweiligen
+Verhältnisse auf dem Wärmemarkt angemessen berücksichtigen.
+Sie müssen die maßgeblichen Berechnungsfaktoren vollständig
+und in allgemein verständlicher Form ausweisen. Bei Anwendung
+der Preisänderungsklauseln ist der prozentuale Anteil des die
 Brennstoffkosten abdeckenden Preisfaktors an der jeweiligen
 Preisänderung gesondert auszuweisen. Eine Änderung einer
 Preisänderungsklausel darf nicht einseitig durch öffentliche
 Bekanntgabe erfolgen.
 
+(5) Hat ein Energieversorgungsunternehmen gegenüber einem
+Fernwärmeversorgungsunternehmen nach § 24 Absatz 1 oder Absatz
+4 des Energiesicherungsgesetzes vom 20. Dezember 1974 (BGBl.
+I S. 3681), das zuletzt durch Artikel 4 des Gesetzes vom 8.
+Juli 2022 (BGBl. I S. 1054) geändert worden ist, den Preis
+für die Lieferung von Gas zur Erzeugung von Fernwärme erhöht,
+so sind dieses Fernwärmeversorgungsunternehmen sowie ein
+Fernwärmeversorgungsunternehmen, das seinerseits Wärme von
+einem solchen Fernwärmeversorgungsunternehmen geliefert bekommt,
+berechtigt, ein in einem Wärmeliefervertrag vereinbartes und insoweit
+einschlägiges Preisanpassungsrecht frühestens zwei Wochen nach der
+Gaspreiserhöhung auszuüben, auch wenn in dem Wärmeliefervertrag
+ein längerer Zeitraum für die Anpassung des Preises für die
+Wärmelieferung an die Änderung der durch die Gaspreiserhöhung
+gestiegenen Bezugskosten vereinbart wurde. Die Ausübung des
+Preisanpassungsrechts ist dem Kunden in Textform mitzuteilen
+und mit einer Begründung zu versehen. Die Preisanpassung wird
+frühestens zwei Wochen nach dem Tag, der auf den Tag des Zugangs
+der mit der Begründung versehenen Mitteilung folgt, wirksam. Übt
+das Fernwärmeversorgungsunternehmen ein vertraglich vereinbartes
+Preisanpassungsrecht gegenüber dem Kunden nach Maßgabe des Satzes 1
+aus, hat der Kunde das Recht, den Wärmeliefervertrag außerordentlich
+mit Wirkung spätestens zum Ende des ersten Jahres nach Wirksamwerden
+der Preisänderung zu kündigen. Die Kündigung ist dabei binnen vier
+Wochen nach Wirksamwerden der Preisänderung in Textform gegenüber
+dem Fernwärmeversorgungsunternehmen unter Angabe des gewählten
+Wirksamkeitszeitpunkts zu erklären. In der Preisanpassungsmitteilung
+nach Satz 2 ist auf das Kündigungsrecht nach Satz 3 und auf das
+Überprüfungsrecht nach Absatz 6 Satz 1 hinzuweisen.
+
+(6) Bis zur Aufhebung der Feststellung nach § 24 Absatz 1 Satz 1 des
+Energiesicherungsgesetzes durch die Bundesnetzagentur hat der Kunde
+des Fernwärmeversorgungsunternehmens, das ein vertraglich vereinbartes
+Preisanpassungsrecht gegenüber dem Kunden nach Maßgabe des Absatzes
+5 Satz 1 ausgeübt hat, das Recht, alle zwei Monate ab Wirksamwerden
+einer solchen Preisanpassung die Überprüfung und gegebenenfalls
+unverzügliche Preissenkung auf ein angemessenes Niveau zu verlangen.
+Das Fernwärmeversorgungsunternehmen hat dem Kunden innerhalb einer
+Frist von zwei Wochen das Ergebnis der Überprüfung und eine etwaige
+Preisänderung mitzuteilen und zu begründen. Dabei sind für die
+Angemessenheit des Preises beim Fernwärmeversorgungsunternehmen seit
+der Preisanpassung nach Absatz 5 Satz 1 eingetretene Kostensenkungen
+und das Recht des Fernwärmeversorgungsunternehmens, nach § 24 Absatz
+4 des Energiesicherungsgesetzes vom Energieversorgungsunternehmen eine
+Anpassung des Gaspreises zu verlangen, zu berücksichtigen. Erfolgt
+auf ein Verlangen des Kunden nach Satz 1 keine Preissenkung, hat der
+Kunde das Recht, den Wärmeliefervertrag ohne Einhaltung einer Frist
+außerordentlich mit Wirkung spätestens zum Ende des ersten Jahres
+nach Zugang der Mitteilung nach Satz 2 zu kündigen. Die Kündigung ist
+dabei binnen vier Wochen nach Zugang der Mitteilung nach Satz 2 in
+Textform gegenüber dem Fernwärmeversorgungsunternehmen unter Angabe
+des gewählten Wirksamkeitszeitpunkts zu erklären. In der Mitteilung
+nach Satz 2 ist auf das Kündigungsrecht nach Satz 4 hinzuweisen.
+
+(7) Nach der Aufhebung der Feststellung nach § 24 Absatz 1 Satz
+1 des Energiesicherungsgesetzes durch die Bundesnetzagentur ist
+Absatz 6 entsprechend anzuwenden mit der Maßgabe, dass sechs
+Wochen nach Aufhebung der Feststellung nach § 24 Absatz 1 Satz 1
+des Energiesicherungsgesetzes das Fernwärmeversorgungsunternehmen
+verpflichtet ist, den Kunden über die Aufhebung der Feststellung zu
+unterrichten und den Preis auf ein angemessenes Niveau abzusenken.
+Wird ein höherer Preis vorgesehen als der Preis, der vor der Ausübung
+eines vertraglich vereinbarten Preisanpassungsrechts nach Maßgabe
+des Absatzes 5 Satz 1 galt, muss das Fernwärmeversorgungsunternehmen
+dem Kunden die Angemessenheit dieses höheren Preises nachvollziehbar
+darlegen.
+
 
 ## § 25 Abschlagszahlungen
 
-(1) Wird der Verbrauch für mehrere Monate abgerechnet, so kann das
-Fernwärmeversorgungsunternehmen für die nach der letzten Abrechnung
-verbrauchte Fernwärme sowie für deren Bereitstellung und Messung
-Abschlagszahlung verlangen. Die Abschlagszahlung auf das
-verbrauchsabhängige Entgelt ist entsprechend dem Verbrauch im zuletzt
-abgerechneten Zeitraum anteilig zu berechnen. Ist eine solche
+(1) Wird der Verbrauch für mehrere Monate abgerechnet, so kann
+das Fernwärmeversorgungsunternehmen für die nach der letzten
+Abrechnung verbrauchte Fernwärme sowie für deren Bereitstellung
+und Messung Abschlagszahlung verlangen. Die Abschlagszahlung auf
+das verbrauchsabhängige Entgelt ist entsprechend dem Verbrauch im
+zuletzt abgerechneten Zeitraum anteilig zu berechnen. Ist eine solche
 Berechnung nicht möglich, so bemißt sich die Abschlagszahlung nach dem
 durchschnittlichen Verbrauch vergleichbarer Kunden. Macht der Kunde
 glaubhaft, daß sein Verbrauch erheblich geringer ist, so ist dies
@@ -733,12 +779,12 @@ nachkommt.
 
 (2) Die Vorauszahlung bemißt sich nach dem Verbrauch des
 vorhergehenden Abrechnungszeitraumes oder dem durchschnittlichen
-Verbrauch vergleichbarer Kunden. Macht der Kunde glaubhaft, daß sein
-Verbrauch erheblich geringer ist, so ist dies angemessen zu
-berücksichtigen. Erstreckt sich der Abrechnungszeitraum über mehrere
-Monate und erhebt das Fernwärmeversorgungsunternehmen
-Abschlagszahlungen, so kann es die Vorauszahlung nur in ebenso vielen
-Teilbeträgen verlangen. Die Vorauszahlung ist bei der nächsten
+Verbrauch vergleichbarer Kunden. Macht der Kunde glaubhaft, daß
+sein Verbrauch erheblich geringer ist, so ist dies angemessen
+zu berücksichtigen. Erstreckt sich der Abrechnungszeitraum über
+mehrere Monate und erhebt das Fernwärmeversorgungsunternehmen
+Abschlagszahlungen, so kann es die Vorauszahlung nur in ebenso
+vielen Teilbeträgen verlangen. Die Vorauszahlung ist bei der nächsten
 Rechnungserteilung zu verrechnen.
 
 (3) Unter den Voraussetzungen des Absatzes 1 kann das
@@ -755,11 +801,11 @@ Sicherheitsleistung verlangen.
 (2) Barsicherheiten werden zum jeweiligen Basiszinssatz nach § 247 des
 Bürgerlichen Gesetzbuchs verzinst.
 
-(3) Ist der Kunde oder Anschlußnehmer in Verzug und kommt er nach
-erneuter Zahlungsaufforderung nicht unverzüglich seinen
-Zahlungsverpflichtungen aus dem Versorgungsverhältnis nach, so kann
-sich das Fernwärmeversorgungsunternehmen aus der Sicherheit bezahlt
-machen. Hierauf ist in der Zahlungsaufforderung hinzuweisen.
+(3) Ist der Kunde oder Anschlußnehmer in Verzug und kommt er
+nach erneuter Zahlungsaufforderung nicht unverzüglich seinen
+Zahlungsverpflichtungen aus dem Versorgungsverhältnis nach, so
+kann sich das Fernwärmeversorgungsunternehmen aus der Sicherheit
+bezahlt machen. Hierauf ist in der Zahlungsaufforderung hinzuweisen.
 Kursverluste beim Verkauf von Wertpapieren gehen zu Lasten des Kunden
 oder Anschlußnehmers.
 
@@ -775,13 +821,9 @@ Zahlungsaufschub oder zur Zahlungsverweigerung nur,
 1.  soweit sich aus den Umständen ergibt, daß offensichtliche Fehler
     vorliegen, und
 
-
-2.  wenn der Zahlungsaufschub oder die Zahlungsverweigerung innerhalb von
-    zwei Jahren nach Zugang der fehlerhaften Rechnung oder
+2.  wenn der Zahlungsaufschub oder die Zahlungsverweigerung innerhalb
+    von zwei Jahren nach Zugang der fehlerhaften Rechnung oder
     Abschlagsberechnung geltend gemacht wird.
-
-
-
 
 
 ## § 31 Aufrechnung
@@ -804,16 +846,16 @@ Vertragspartner, so kann er aus Anlaß der Beendigung des
 Mietverhältnisses den Versorgungsvertrag jederzeit mit zweimonatiger
 Frist kündigen.
 
-(3) Tritt anstelle des bisherigen Kunden ein anderer Kunde in die sich
-aus dem Vertragsverhältnis ergebenden Rechte und Pflichten ein, so
-bedarf es hierfür nicht der Zustimmung des
+(3) Tritt anstelle des bisherigen Kunden ein anderer Kunde
+in die sich aus dem Vertragsverhältnis ergebenden Rechte und
+Pflichten ein, so bedarf es hierfür nicht der Zustimmung des
 Fernwärmeversorgungsunternehmens. Der Wechsel des Kunden ist dem
 Unternehmen unverzüglich mitzuteilen. Das Unternehmen ist berechtigt,
 das Vertragsverhältnis aus wichtigem Grund mit zweiwöchiger Frist auf
 das Ende des der Mitteilung folgenden Monats zu kündigen.
 
-(4) Ist der Kunde Eigentümer der mit Wärme zu versorgenden Räume, so
-ist er bei der Veräußerung verpflichtet, das
+(4) Ist der Kunde Eigentümer der mit Wärme zu versorgenden
+Räume, so ist er bei der Veräußerung verpflichtet, das
 Fernwärmeversorgungsunternehmen unverzüglich zu unterrichten. Erfolgt
 die Veräußerung während der ausdrücklich vereinbarten Vertragsdauer,
 so ist der Kunde verpflichtet, dem Erwerber den Eintritt in den
@@ -823,8 +865,8 @@ Erbbauberechtigter, Nießbraucher oder Inhaber ähnlicher Rechte ist.
 (5) Tritt anstelle des bisherigen Fernwärmeversorgungsunternehmens ein
 anderes Unternehmen in die sich aus dem Vertragsverhältnis ergebenden
 Rechte und Pflichten ein, so bedarf es hierfür nicht der Zustimmung
-des Kunden. Der Wechsel des Fernwärmeversorgungsunternehmens ist
-öffentlich bekanntzugeben. Der Kunde ist berechtigt, das
+des Kunden. Der Wechsel des Fernwärmeversorgungsunternehmens
+ist öffentlich bekanntzugeben. Der Kunde ist berechtigt, das
 Vertragsverhältnis aus wichtigem Grund mit zweiwöchiger Frist auf das
 Ende des der Bekanntgabe folgenden Monats zu kündigen.
 
@@ -833,33 +875,28 @@ Ende des der Bekanntgabe folgenden Monats zu kündigen.
 
 ## § 33 Einstellung der Versorgung, fristlose Kündigung
 
-(1) Das Fernwärmeversorgungsunternehmen ist berechtigt, die Versorgung
-fristlos einzustellen, wenn der Kunde den allgemeinen
+(1) Das Fernwärmeversorgungsunternehmen ist berechtigt, die
+Versorgung fristlos einzustellen, wenn der Kunde den allgemeinen
 Versorgungsbedingungen zuwiderhandelt und die Einstellung erforderlich
 ist, um
 
 1.  eine unmittelbare Gefahr für die Sicherheit von Personen oder Anlagen
     abzuwenden,
 
-
 2.  den Verbrauch von Fernwärme unter Umgehung, Beeinflussung oder vor
     Anbringung der Meßeinrichtungen zu verhindern oder
-
 
 3.  zu gewährleisten, daß Störungen anderer Kunden oder störende
     Rückwirkungen auf Einrichtungen des Unternehmens oder Dritter
     ausgeschlossen sind.
 
-
-
-
-(2) Bei anderen Zuwiderhandlungen, insbesondere bei Nichterfüllung
-einer Zahlungsverpflichtung trotz Mahnung, ist das
-Fernwärmeversorgungsunternehmen berechtigt, die Versorgung zwei Wochen
-nach Androhung einzustellen. Dies gilt nicht, wenn der Kunde darlegt,
-daß die Folgen der Einstellung außer Verhältnis zur Schwere der
-Zuwiderhandlung stehen, und hinreichende Aussicht besteht, daß der
-Kunde seinen Verpflichtungen nachkommt. Das
+(2) Bei anderen Zuwiderhandlungen, insbesondere bei
+Nichterfüllung einer Zahlungsverpflichtung trotz Mahnung, ist das
+Fernwärmeversorgungsunternehmen berechtigt, die Versorgung zwei
+Wochen nach Androhung einzustellen. Dies gilt nicht, wenn der
+Kunde darlegt, daß die Folgen der Einstellung außer Verhältnis
+zur Schwere der Zuwiderhandlung stehen, und hinreichende Aussicht
+besteht, daß der Kunde seinen Verpflichtungen nachkommt. Das
 Fernwärmeversorgungsunternehmen kann mit der Mahnung zugleich die
 Einstellung der Versorgung androhen.
 
@@ -880,31 +917,27 @@ Absatz 2 Satz 2 und 3 gilt entsprechend.
 
 ## § 34 Gerichtsstand
 
-(1) Der Gerichtsstand für Kaufleute, die nicht zu den in § 4 des
-Handelsgesetzbuchs bezeichneten Gewerbetreibenden gehören, juristische
-Personen des öffentlichen Rechts und öffentlich-rechtliche
-Sondervermögen ist am Sitz der für den Kunden zuständigen
+(1) Der Gerichtsstand für Kaufleute, die nicht zu den in § 4
+des Handelsgesetzbuchs bezeichneten Gewerbetreibenden gehören,
+juristische Personen des öffentlichen Rechts und öffentlich-
+rechtliche Sondervermögen ist am Sitz der für den Kunden zuständigen
 Betriebsstelle des Fernwärmeversorgungsunternehmens.
 
 (2) Das gleiche gilt,
 
 1.  wenn der Kunde keinen allgemeinen Gerichtsstand im Inland hat oder
 
-
 2.  wenn der Kunde nach Vertragsschluß seinen Wohnsitz oder gewöhnlichen
-    Aufenthaltsort aus dem Geltungsbereich dieser Verordnung verlegt oder
-    sein Wohnsitz oder gewöhnlicher Aufenthalt im Zeitpunkt der
+    Aufenthaltsort aus dem Geltungsbereich dieser Verordnung verlegt
+    oder sein Wohnsitz oder gewöhnlicher Aufenthalt im Zeitpunkt der
     Klageerhebung nicht bekannt ist.
-
-
-
 
 
 ## § 35 Öffentlich-rechtliche Versorgung mit Fernwärme
 
 (1) Rechtsvorschriften, die das Versorgungsverhältnis öffentlich-
-rechtlich regeln, sind den Bestimmungen dieser Verordnung entsprechend
-zu gestalten; unberührt bleiben die Regelungen des
+rechtlich regeln, sind den Bestimmungen dieser Verordnung
+entsprechend zu gestalten; unberührt bleiben die Regelungen des
 Verwaltungsverfahrens sowie gemeinderechtliche Vorschriften zur
 Regelung des Abgabenrechts.
 
@@ -915,8 +948,8 @@ zum 1. Januar 1982 anzupassen.
 
 ## § 36 Berlin-Klausel
 
-Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
-Verbindung mit § 29 des Gesetzes zur Regelung des Rechts der
+Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes
+in Verbindung mit § 29 des Gesetzes zur Regelung des Rechts der
 Allgemeinen Geschäftsbedingungen auch im Land Berlin.
 
 
@@ -924,11 +957,11 @@ Allgemeinen Geschäftsbedingungen auch im Land Berlin.
 
 (1) Diese Verordnung tritt mit Wirkung vom 1. April 1980 in Kraft.
 
-(2) Die §§ 2 bis 34 gelten auch für Versorgungsverträge, die vor dem
-1\. April 1980 zustande gekommen sind, unmittelbar. Das
-Fernwärmeversorgungsunternehmen ist verpflichtet, die Kunden in
-geeigneter Weise hierüber zu unterrichten. § 32 Absatz 1 in der
-Fassung vom 12. November 2010 ist auch auf bestehende
+(2) Die §§ 2 bis 34 gelten auch für Versorgungsverträge, die
+vor dem 1. April 1980 zustande gekommen sind, unmittelbar. Das
+Fernwärmeversorgungsunternehmen ist verpflichtet, die Kunden
+in geeigneter Weise hierüber zu unterrichten. § 32 Absatz 1
+in der Fassung vom 12. November 2010 ist auch auf bestehende
 Versorgungsverträge anzuwenden, die vor dem 1. April 1980 geschlossen
 wurden. Vor dem 1. April 1980 geschlossene Versorgungsverträge, deren
 vereinbarte Laufzeit am 12. November 2010 noch nicht beendet ist,
@@ -945,54 +978,39 @@ von neun Monaten gekündigt werden, solange sich der Vertrag nicht nach
 
 Der Bundesminister für Wirtschaft
 
-Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet D Abschnitt III
-(BGBl. II 1990, 889, 1008)
 
-## Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+## Anhang EV Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet D Abschnitt III (BGBl. II 1990, 889, 1008) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:
 ...
-Verordnung über Allgemeine Bedingungen für die Versorgung mit
+*Verordnung über Allgemeine Bedingungen für die Versorgung mit
 Fernwärme vom 20. Juni 1980 (BGBl. I S. 742), geändert durch Artikel 4
-der Verordnung vom 19. Januar 1989 (BGBl. I S. 109),
-mit folgenden Maßgaben:
+der Verordnung vom 19. Januar 1989 (BGBl. I S. 109),*
+*mit folgenden Maßgaben:*
 
-*
-    a)  Für am Tage des Wirksamwerdens des Beitritts bestehende
-        Versorgungsverträge sind die Fernwärmeversorgungsunternehmen von der
-        Verpflichtung nach § 2 Abs. 1 Satz 2 bis zum 30. Juni 1992 befreit.
-
-
-    b)  Abweichend von § 10 Abs. 4 bleibt das am Tage des Wirksamwerdens des
-        Beitritts bestehende Eigentum eines Kunden an einem Hausanschluß, den
-        er auf eigene Kosten errichtet oder erweitert hat, bestehen, solange
-        er das Eigentum nicht auf das Fernwärmeversorgungsunternehmen
-        überträgt.
-
-
-    c)  Die §§ 18 bis 21 finden keine Anwendung, so weit bei Kunden am Tage
-        des Wirksamwerdens des Beitritts keine Meßeinrichtungen für die
-        verbrauchte Wärmemenge vorhanden sind. Meßeinrichtungen sind
-        nachträglich einzubauen, es sei denn, daß dies auch unter
-        Berücksichtigung des Ziels der rationellen und sparsamen
-        Wärmeverwendung wirtschaftlich nicht vertretbar ist.
-
-
-    d)  Für die am Tage des Wirksamwerdens des Beitritts bestehenden Verträge
-        finden die §§ 45 und 47 der Energieverordnung der Deutschen
-        Demokratischen Republik (EnVO) vom 1. Juni 1988 (GBl. I Nr. 10 S. 89),
-        zuletzt geändert durch die Verordnung vom 25. Juli 1990 zur Änderung
-        der Energieverordnung (GBl. I Nr. 46 S. 812), sowie der dazu
-        ergangenen Durchführungsbestimmungen bis zum 30. Juni 1992 weiter
-        Anwendung, soweit nicht durch Vertrag abweichende Regelungen
-        vereinbart werden, bei denen die Vorschriften dieser Verordnung
-        einzuhalten sind.
-
-
-
-
-
-
+*a)* *Für am Tage des Wirksamwerdens des Beitritts bestehende
+Versorgungsverträge sind die Fernwärmeversorgungsunternehmen von der
+Verpflichtung nach § 2 Abs. 1 Satz 2 bis zum 30. Juni 1992 befreit.*
+b) Abweichend von § 10 Abs. 4 bleibt das am Tage des Wirksamwerdens
+des Beitritts bestehende Eigentum eines Kunden an einem Hausanschluß,
+den er auf eigene Kosten errichtet oder erweitert hat, bestehen,
+solange er das Eigentum nicht auf das Fernwärmeversorgungsunternehmen
+überträgt.
+*c)* *Die §§ 18 bis 21 finden keine Anwendung, so weit bei Kunden
+am Tage des Wirksamwerdens des Beitritts keine Meßeinrichtungen
+für die verbrauchte Wärmemenge vorhanden sind. Meßeinrichtungen
+sind nachträglich einzubauen, es sei denn, daß dies auch
+unter Berücksichtigung des Ziels der rationellen und sparsamen
+Wärmeverwendung wirtschaftlich nicht vertretbar ist.*
+*d)* *Für die am Tage des Wirksamwerdens des Beitritts bestehenden
+Verträge finden die §§ 45 und 47 der Energieverordnung der Deutschen
+Demokratischen Republik (EnVO) vom 1. Juni 1988 (GBl. I Nr. 10 S.
+89), zuletzt geändert durch die Verordnung vom 25. Juli 1990 zur
+Änderung der Energieverordnung (GBl. I Nr. 46 S. 812), sowie der
+dazu ergangenen Durchführungsbestimmungen bis zum 30. Juni 1992
+weiter Anwendung, soweit nicht durch Vertrag abweichende Regelungen
+vereinbart werden, bei denen die Vorschriften dieser Verordnung
+einzuhalten sind.*
 

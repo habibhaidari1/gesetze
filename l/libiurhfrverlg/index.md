@@ -16,7 +16,6 @@ Fundstelle
 :   RGBl I: 1940, 758
 
 
-
 ## Eingangsformel
 
 Die Reichsregierung hat das folgende Gesetz beschlossen, das hierdurch
@@ -53,9 +52,9 @@ Schutzdauer bestimmt gewesen wäre.
 Geltendmachung der Erwerber dem Veräußerer das Urheberrecht für die
 Zeit nach Ablauf der bisher bestimmten Schutzdauer zur Verfügung
 stellt oder der Erlaubnisnehmer für diese Zeit auf die Erlaubnis
-verzichtet. Hat der Erwerber das Urheberrecht vor Inkrafttreten dieses
-Gesetzes weiter veräußert, so ist die Vergütung insoweit nicht zu
-zahlen, als sie den Erwerber mit Rücksicht auf die Umstände der
+verzichtet. Hat der Erwerber das Urheberrecht vor Inkrafttreten
+dieses Gesetzes weiter veräußert, so ist die Vergütung insoweit nicht
+zu zahlen, als sie den Erwerber mit Rücksicht auf die Umstände der
 Weiterveräußerung unbillig belasten würde.
 
 

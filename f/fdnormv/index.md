@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl I: 1999, 85
 
 
-
 ## Eingangsformel
 
 Auf Grund des § 3 Abs. 1 Satz 2 des Fernsehsignalübertragungs-Gesetzes
@@ -29,8 +28,8 @@ verordnet das Bundesministerium für Wirtschaft und Technologie:
 
 ## § 1 Normen
 
-(1) Für Übertragungssysteme für voll digitale Fernsehdienste müssen
-nachstehende Normen des Europäischen Instituts für
+(1) Für Übertragungssysteme für voll digitale Fernsehdienste
+müssen nachstehende Normen des Europäischen Instituts für
 Telekommunikationsnormen ETSI angewendet werden:
 
 a)  Terrestrische Übertragungssysteme:
@@ -39,13 +38,11 @@ a)  Terrestrische Übertragungssysteme:
     Kanalcodierung und Modulation für das digitale terrestrische Fernsehen
     (DVB-T)"
 
-
 b)  Satelliten-Übertragungssysteme:
 
     DIN ETS 300421 "Digitale Rundfunk-Systeme für Fernsehen, Ton und
     Datendienste; Rahmenstruktur, Kanalcodierung und Modulation für
     Dienste über Satellit bei 11/12 GHz"
-
 
 c)  Kabel-Übertragungssysteme:
 
@@ -53,11 +50,8 @@ c)  Kabel-Übertragungssysteme:
     Datendienste; Rahmenstruktur, Kanalcodierung und Modulation bei
     Kabelsystemen"
 
-
-
-
-(2) Für die unter Absatz 1 genannten Normen gilt die jeweilige
-aktuelle Fassung unter der Voraussetzung, daß die
+(2) Für die unter Absatz 1 genannten Normen gilt die
+jeweilige aktuelle Fassung unter der Voraussetzung, daß die
 Abwärtskompatibilität gewährleistet ist. Dies schließt das Überführen
 der Normen von DIN ETS nach DIN EN ein.
 

@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1997, 1494
 
 Zuletzt geändert durch
-:   Art. 8 G v. 4.11.2016 I 2473
-
-Änderung durch
-:   Art. 53 G v. 23.6.2021 I 1858 (Nr. 35) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 53 G v. 23.6.2021 I 1858
 
 
 ## § 1 Geltungsbereich
@@ -39,7 +36,6 @@ Im Sinne dieses Gesetzes ist
     Amateurfunkdienst aus persönlicher Neigung und nicht aus gewerblich-
     wirtschaftlichem Interesse befaßt,
 
-
 2.  Amateurfunkdienst ein Funkdienst, der von Funkamateuren untereinander,
     zu experimentellen und technisch-wissenschaftlichen Studien, zur
     eigenen Weiterbildung, zur Völkerverständigung und zur Unterstützung
@@ -48,16 +44,12 @@ Im Sinne dieses Gesetzes ist
     ein. Der Amateurfunkdienst und der Amateurfunkdienst über Satelliten
     sind keine Sicherheitsfunkdienste,
 
-
-3.  eine Amateurfunkstelle eine Funkstelle, die aus einer oder mehreren
-    Sendefunkanlagen und Empfangsfunkanlagen einschließlich der
-    Antennenanlagen und der zu ihrem Betrieb erforderlichen
+3.  eine Amateurfunkstelle eine Funkstelle, die aus einer oder
+    mehreren Sendefunkanlagen und Empfangsfunkanlagen einschließlich
+    der Antennenanlagen und der zu ihrem Betrieb erforderlichen
     Zusatzeinrichtungen besteht und die auf mindestens einer der im
     Frequenzplan für den Amateurfunkdienst ausgewiesenen Frequenzen
     betrieben werden kann.
-
-
-
 
 
 ## § 3 Voraussetzungen zur Teilnahme am Amateurfunkdienst, Rufzeichen, Frequenzzuteilung
@@ -81,29 +73,24 @@ am Amateurfunkdienst und der Zuteilung
 
 1.  eines personengebundenen Rufzeichens,
 
-
 2.  eines Rufzeichens für den Ausbildungsfunkbetrieb oder
-
 
 3.  eines Rufzeichens für fernbediente und automatisch arbeitende
     Amateurfunkstellen oder
 
-
 4.  eines Rufzeichens für Klubstationen
-
-
 
 durch den Funkamateur betrieben werden.
 
 (4) Die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation,
 Post und Eisenbahnen kann unter Beibehaltung der Zulassung zur
 Teilnahme am Amateurfunkdienst zugeteilte Rufzeichen aus wichtigen
-Gründen, insbesondere bei Änderungen durch internationale Vorgaben
-ändern. Sie kann unbeschadet des § 49 Abs. 2 des
+Gründen, insbesondere bei Änderungen durch internationale
+Vorgaben ändern. Sie kann unbeschadet des § 49 Abs. 2 des
 Verwaltungsverfahrensgesetzes die Zulassung zur Teilnahme am
 Amateurfunkdienst unter gleichzeitiger Entziehung der zugeteilten
-Rufzeichen widerrufen, wenn der Funkamateur fortgesetzt gegen dieses
-Gesetz oder gegen auf Grund dieses Gesetzes erlassene
+Rufzeichen widerrufen, wenn der Funkamateur fortgesetzt gegen
+dieses Gesetz oder gegen auf Grund dieses Gesetzes erlassene
 Rechtsverordnungen verstößt.
 
 (5) Die im Frequenzplan (§ 90 des Telekommunikationsgesetzes) für den
@@ -114,8 +101,8 @@ Rufzeichen zugeteilt worden sind.
 
 ## § 4 Fachliche Prüfung, Anerkennung von Amateurfunkzeugnissen fremder Verwaltungen
 
-(1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
-ermächtigt, durch Rechtsverordnung die Durchführung und die
+(1) Das Bundesministerium für Verkehr und digitale Infrastruktur
+wird ermächtigt, durch Rechtsverordnung die Durchführung und die
 inhaltlichen Anforderungen der fachlichen Prüfung für Funkamateure,
 den Ausbildungsfunkbetrieb, die Einteilung der verschiedenen Arten von
 Amateurfunkzeugnissen und die Anerkennung ausländischer Amateurfunk-
@@ -125,15 +112,15 @@ werden die Kenntnisse, Fähigkeiten und Fertigkeiten zu einer
 selbständigen und verantwortlichen Teilnahme am Amateurfunkdienst
 nachgewiesen.
 
-(2) Jede natürliche Person mit Wohnsitz in Deutschland ist auf Antrag
-zur fachlichen Prüfung für Funkamateure zuzulassen. Über die
+(2) Jede natürliche Person mit Wohnsitz in Deutschland ist auf
+Antrag zur fachlichen Prüfung für Funkamateure zuzulassen. Über die
 bestandene fachliche Prüfung nach Absatz 1 wird ein Amateurfunkzeugnis
 (§ 2 Nr. 1) erteilt.
 
 (3) Ausländische Funkamateure, die die Bedingungen der Verfügung
-8/1995 des Bundesministeriums für Post und Telekommunikation vom 11.
-Januar 1995 (Amtsblatt S. 18) erfüllen und keinen ständigen Wohnsitz
-in Deutschland haben, dürfen bis zu drei Monaten eine
+8/1995 des Bundesministeriums für Post und Telekommunikation vom
+11\. Januar 1995 (Amtsblatt S. 18) erfüllen und keinen ständigen
+Wohnsitz in Deutschland haben, dürfen bis zu drei Monaten eine
 Amateurfunkstelle in Deutschland betreiben.
 
 
@@ -144,11 +131,11 @@ Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen zugeteiltes
 Rufzeichen benutzen.
 
 (2) Mit einem von der Bundesnetzagentur für Elektrizität, Gas,
-Telekommunikation, Post und Eisenbahnen zugeteilten Rufzeichen ist der
-Funkamateur berechtigt, abweichend von den im Gesetz über Funkanlagen
-und Telekommunikationsendeinrichtungen vom 31. Januar 2001 (BGBl. I S.
-170) festgelegten Konformitätsbewertungsverfahren, eine im Handel
-erhältliche oder selbstgefertigte Amateurfunkstelle sowie
+Telekommunikation, Post und Eisenbahnen zugeteilten Rufzeichen
+ist der Funkamateur berechtigt, abweichend von den im Gesetz über
+Funkanlagen und Telekommunikationsendeinrichtungen vom 31. Januar 2001
+(BGBl. I S. 170) festgelegten Konformitätsbewertungsverfahren, eine
+im Handel erhältliche oder selbstgefertigte Amateurfunkstelle sowie
 Sendeanlagen, die zu Amateurfunkstellen umgebaut sind, zu betreiben.
 
 (3) Der Funkamateur darf mit seiner Amateurfunkstelle nur auf den in §
@@ -158,11 +145,8 @@ Sendeanlagen, die zu Amateurfunkstellen umgebaut sind, zu betreiben.
 
 1.  nicht zu gewerblich-wirtschaftlichen Zwecken und
 
-
 2.  nicht zum Zwecke des geschäftsmäßigen Erbringens von
     Telekommunikationsdiensten
-
-
 
 betrieben werden.
 
@@ -174,35 +158,30 @@ Amateurfunkdienst betreffen, für und an Dritte nicht übermitteln. Satz
 
 ## § 6 Technische und betriebliche Rahmenbedingungen
 
-Das Bundesministerium für Verkehr und digitale Infrastruktur wird
-ermächtigt, durch Rechtsverordnung unter Berücksichtigung
+Das Bundesministerium für Verkehr und digitale Infrastruktur
+wird ermächtigt, durch Rechtsverordnung unter Berücksichtigung
 internationaler Vereinbarungen und anderer den Amateurfunkdienst
-betreffenden internationalen Empfehlungen die technischen und
-betrieblichen Rahmenbedingungen für die Durchführung des
+betreffenden internationalen Empfehlungen die technischen
+und betrieblichen Rahmenbedingungen für die Durchführung des
 Amateurfunkdienstes festzulegen, insbesondere für
 
 1.  die Planung und Fortschreibung der im Frequenzplan für den
     Amateurfunkdienst ausgewiesenen Frequenzen für Relaisfunkstellen als
     fernbediente und automatisch arbeitende Amateurfunkstellen,
 
-
 2.  die Erstellung und Herausgabe eines Verzeichnisses der zugeteilten
     deutschen Rufzeichen und ihrer Inhaber und
 
-
 3.  den Betrieb von Amateurfunkstellen auf Wasser- und in Luftfahrzeugen
     sowie
-
 
 4.  Verfahren zur Beseitigung elektromagnetischer Unverträglichkeiten
     zwischen einer Amateurfunkstelle und anderen Geräten im Sinne des
     Gesetzes über die elektromagnetische Verträglichkeit von Geräten.
 
-
-
-Mit der Ermächtigung nach Satz 1 kann auch die Verordnung zur
-Durchführung des Gesetzes über den Amateurfunk in der im
-Bundesgesetzblatt Teil III, Gliederungsnummer 9022-1-1,
+Mit der Ermächtigung nach Satz 1 kann auch die Verordnung
+zur Durchführung des Gesetzes über den Amateurfunk in der
+im Bundesgesetzblatt Teil III, Gliederungsnummer 9022-1-1,
 veröffentlichten bereinigten Fassung, zuletzt geändert durch die
 Verordnung vom 15. April 1985 (BGBl. I S.637), aufgehoben werden.
 
@@ -211,14 +190,14 @@ Verordnung vom 15. April 1985 (BGBl. I S.637), aufgehoben werden.
 
 (1) Beim Betrieb einer Amateurfunkstelle sind abweichend von den
 sonstigen Vorschriften des Gesetzes über die elektromagnetische
-Verträglichkeit von Betriebsmitteln vom 26. Februar 2008 (BGBl. I S.
-220) nur die grundlegenden Anforderungen zur Gewährleistung der
+Verträglichkeit von Betriebsmitteln vom 26. Februar 2008 (BGBl. I
+S. 220) nur die grundlegenden Anforderungen zur Gewährleistung der
 elektromagnetischen Verträglichkeit nach § 4 Abs. 1 Nr. 1 jenes
 Gesetzes einzuhalten. Die in der Verordnung nach § 6 Satz 1 Nr. 4
 festgelegten Anforderungen sind zu beachten.
 
-(2) Von den grundlegenden Anforderungen nach § 4 Abs. 1 Nr. 2 des
-Gesetzes über die elektromagnetische Verträglichkeit von
+(2) Von den grundlegenden Anforderungen nach § 4 Abs. 1 Nr. 2
+des Gesetzes über die elektromagnetische Verträglichkeit von
 Betriebsmitteln darf der Funkamateur abweichen und kann den Grad der
 Störfestigkeit seiner Amateurfunkstelle selbst bestimmen. Erfüllt die
 Amateurfunkstelle nicht die grundlegenden Anforderungen nach § 4 Abs.
@@ -228,10 +207,10 @@ seiner Amateurfunkstelle durch andere Betriebsmittel hinnehmen, wenn
 diese die grundlegenden Anforderungen nach § 4 des Gesetzes über die
 elektromagnetische Verträglichkeit von Betriebsmitteln erfüllen.
 
-(3) Der Funkamateur hat der Bundesnetzagentur für Elektrizität, Gas,
-Telekommunikation, Post und Eisenbahnen vor Betriebsaufnahme die
-Berechnungsunterlagen und die ergänzenden Messprotokolle für die
-ungünstigste Antennenkonfiguration seiner Amateurfunkstelle
+(3) Der Funkamateur hat der Bundesnetzagentur für Elektrizität,
+Gas, Telekommunikation, Post und Eisenbahnen vor Betriebsaufnahme
+die Berechnungsunterlagen und die ergänzenden Messprotokolle für
+die ungünstigste Antennenkonfiguration seiner Amateurfunkstelle
 vorzulegen. Die Bundesnetzagentur für Elektrizität, Gas,
 Telekommunikation, Post und Eisenbahnen stellt auf Antrag eine
 Standortbescheinigung aus. § 12 des Gesetzes über Funkanlagen und
@@ -239,7 +218,6 @@ Telekommunikationsendeinrichtungen findet insoweit Anwendung.
 
 
 ## § 8 (weggefallen)
-
 
 
 ## § 9 Bußgeldvorschriften
@@ -250,19 +228,11 @@ Telekommunikationsendeinrichtungen findet insoweit Anwendung.
 
     a)  § 3 Abs. 3 oder
 
-
     b)  § 5 Abs. 4 Nr. 2
-
-
-
 
     eine Amateurfunkstelle betreibt oder
 
-
 2.  entgegen § 5 Abs. 5 Satz 2 eine Nachricht übermittelt.
-
-
-
 
 (2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nr. 1
 Buchstabe b mit einer Geldbuße bis zu zehntausend Euro, in den übrigen
@@ -296,17 +266,17 @@ erhalten.
 ## § 11 Betriebseinschränkungen und -verbote
 
 (1) Die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation,
-Post und Eisenbahnen kann bei Verstößen gegen dieses Gesetz oder gegen
-auf Grund dieses Gesetzes erlassene Rechtsverordnungen eine
-Einschränkung des Betriebes oder die Außerbetriebnahme von
+Post und Eisenbahnen kann bei Verstößen gegen dieses Gesetz oder
+gegen auf Grund dieses Gesetzes erlassene Rechtsverordnungen
+eine Einschränkung des Betriebes oder die Außerbetriebnahme von
 Amateurfunkstellen anordnen.
 
 (2) Die sofortige Vollziehbarkeit von Betriebseinschränkungen oder
-Betriebsverboten soll von der Bundesnetzagentur für Elektrizität, Gas,
-Telekommunikation, Post und Eisenbahnen angeordnet werden, wenn eine
-Gefährdung von Leib und Leben eines anderen oder einer fremden Sache
-von bedeutendem Wert zu befürchten ist. Gleiches gilt, wenn zu
-befürchten ist, daß der Funkamateur Frequenzbereiche nutzt, die
+Betriebsverboten soll von der Bundesnetzagentur für Elektrizität,
+Gas, Telekommunikation, Post und Eisenbahnen angeordnet werden, wenn
+eine Gefährdung von Leib und Leben eines anderen oder einer fremden
+Sache von bedeutendem Wert zu befürchten ist. Gleiches gilt, wenn
+zu befürchten ist, daß der Funkamateur Frequenzbereiche nutzt, die
 anderen Funkdiensten zugewiesen sind und die Gefahr besteht, daß
 hierdurch erhebliche Störungen dieser Funkdienste verursacht werden. §
 80 Abs. 2 Nr. 4 der Verwaltungsgerichtsordnung bleibt unberührt.

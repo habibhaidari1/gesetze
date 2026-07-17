@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zu dem Übereinkommen vom 26. Oktober 1979 über den physischen Schutz
-  von Kernmaterial
+Title: Gesetz zu dem Übereinkommen vom 26. Oktober 1979 über den physischen Schutz von Kernmaterial
 jurabk: AtSchÜbkG
 layout: default
 origslug: atsch_bkg
@@ -58,7 +57,7 @@ Anwendung dieses Gesetzes feststellt.
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 
-(2) Der Tag, an dem das Übereinkommen nach seinem Artikel 19 Abs. 2
-für die Bundesrepublik Deutschland in Kraft tritt, ist im
+(2) Der Tag, an dem das Übereinkommen nach seinem Artikel 19
+Abs. 2 für die Bundesrepublik Deutschland in Kraft tritt, ist im
 Bundesgesetzblatt bekanntzugeben.
 

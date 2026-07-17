@@ -19,7 +19,6 @@ Geändert durch
 :   Art. 338 V v. 31.8.2015 I 1474
 
 
-
 ## § 1
 
 -
@@ -33,10 +32,8 @@ Geändert durch
     Bank deutscher Länder" jeweils durch den "Basiszinssatz nach § 247 des
     Bürgerlichen Gesetzbuchs",
 
-
 2.  der "Basiszinssatz" durch den "Basiszinssatz nach § 247 des
     Bürgerlichen Gesetzbuchs",
-
 
 3.  die "Frankfurt Interbank Offered Rate für die Geldbeschaffung von
     ersten Adressen auf dem deutschen Markt (FIBOR)" durch die "EURO
@@ -44,21 +41,16 @@ Geändert durch
     von ersten Adressen in den Teilnehmerstaaten der Europäischen
     Währungsunion",
 
-
 4.  der "Lombardsatz der Deutschen Bundesbank" durch den "Zinssatz der
     Spitzenrefinanzierungsfazilität der Europäischen Zentralbank (SFR-
     Zinssatz)",
-
 
 5.  der "Zinssatz für Kassenkredite des Bundes" durch den um 1,5
     Prozentpunkte erhöhten Basiszinssatz nach § 247 des Bürgerlichen
     Gesetzbuchs.
 
-
-
-
 (2) Das Bundesministerium der Justiz und für Verbraucherschutz wird
-ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates in
-Gesetzen und Rechtsverordnungen des Bundes die Bezeichnung von
+ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
+in Gesetzen und Rechtsverordnungen des Bundes die Bezeichnung von
 Bezugsgrößen und Zinssätzen nach Maßgabe des Absatzes 1 anzupassen.
 

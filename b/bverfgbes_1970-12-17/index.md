@@ -1,6 +1,5 @@
 ---
-Title: Beschluß des Bundesverfassungsgerichts vom 17. Dezember 1970 gemäß § 14 Abs.
-  4 des Gesetzes über das Bundesverfassungsgericht
+Title: Beschluß des Bundesverfassungsgerichts vom 17. Dezember 1970 gemäß § 14 Abs. 4 des Gesetzes über das Bundesverfassungsgericht
 jurabk: BVerfGBes 1970-12-17
 layout: default
 origslug: bverfgbes_1970-12-17
@@ -22,9 +21,9 @@ Zuletzt geändert durch
 
 ## Eingangsformel
 
-Das Plenum des Bundesverfassungsgerichts hat gemäß § 14 Abs. 4 des
-Gesetzes über das Bundesverfassungsgericht vom 12. März 1951
-(Bundesgesetzbl. I S. 243) in der Fassung des Zweiten
+Das Plenum des Bundesverfassungsgerichts hat gemäß § 14 Abs.
+4 des Gesetzes über das Bundesverfassungsgericht vom 12. März
+1951 (Bundesgesetzbl. I S. 243) in der Fassung des Zweiten
 Änderungsgesetzes vom 26. Juni 1959 (Bundesgesetzbl. I S. 297)
 beschlossen:
 
@@ -44,7 +43,6 @@ Bundesverfassungsgerichts auch in folgenden Fällen zuständig:
     im Geschäftsjahr 1978 eingehen; überwiegen Fragen der Auslegung der
     Artikel 1 bis 17 des Grundgesetzes, so ist der Erste Senat zuständig;
 
-
 2.  in jedem Fall für Normenkontrollverfahren und Verfassungsbeschwerden
     aus den Rechtsbereichen
 
@@ -54,25 +52,16 @@ Bundesverfassungsgerichts auch in folgenden Fällen zuständig:
         Disziplinarrechts, sowie des Wehr- und Ersatzdienstes einschließlich
         des diesen Bereich betreffenden Straf- und Disziplinarrechts,
 
-
     b)  des Straf- und Bußgeldverfahrens sowie des Vollzugs von Untersuchungs-
         und Strafhaft und von freiheitsentziehenden Maßregeln der Sicherung
         und Besserung;
 
-
-
-
-
-3.  im übrigen für Verfassungsbeschwerden, bei denen andere Fragen als
-    solche der Auslegung der Artikel 1 bis 17 des Grundgesetzes
+3.  im übrigen für Verfassungsbeschwerden, bei denen andere Fragen
+    als solche der Auslegung der Artikel 1 bis 17 des Grundgesetzes
     überwiegen;
-
 
 4.  in den Fällen des § 13 Nr. 10 und Nr. 13 des Gesetzes über das
     Bundesverfassungsgericht entsprechend den vorstehenden Regeln.
-
-
-
 
 
 ## II.

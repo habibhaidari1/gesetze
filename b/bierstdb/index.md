@@ -28,7 +28,6 @@ V aufgeh. mit ausnahme der bezeichnung der v, der §§ 3, 8 satz 2 bis 4, der §
 ## (XXXX) §§ 1 und 2 (weggefallen)
 
 
-
 ## § 3
 
 Das Biersteuergesetz gilt in Bayern und im Gebiet der ehemaligen
@@ -39,7 +38,6 @@ S. 94) geänderten Fassung.
 
 
 ## (XXXX) §§ 4 bis 7 (weggefallen)
-
 
 
 ## § 8
@@ -56,7 +54,6 @@ dabei nicht berücksichtigt.
 ## (XXXX) §§ 9 bis 15 (weggefallen)
 
 
-
 ## § 16
 
 Die Ausdrücke "Bereitung von Bier" und "Bierbereitung" sind im
@@ -68,10 +65,10 @@ an den Verbraucher.
 
 ## § 17
 
-(1) Bei der Bereitung von Bier dürfen, soweit im § 9 Abs. 7 und 8 des
-Gesetzes nicht Ausnahmen vorgesehen sind, nur die im § 9 Abs. 1, 2 und
-4 des Gesetzes zugelassenen Braustoffe und Brauersatzstoffe verwendet
-werden. Die Vorschriften der Lebensmittelzusatzstoff-
+(1) Bei der Bereitung von Bier dürfen, soweit im § 9 Abs. 7 und 8
+des Gesetzes nicht Ausnahmen vorgesehen sind, nur die im § 9 Abs.
+1, 2 und 4 des Gesetzes zugelassenen Braustoffe und Brauersatzstoffe
+verwendet werden. Die Vorschriften der Lebensmittelzusatzstoff-
 Durchführungsverordnung sind anzuwenden. Farbebier muß aus
 Gerstenmalz, Hopfen, untergäriger Hefe und Wasser hergestellt werden,
 es muß vergoren sein.
@@ -93,15 +90,15 @@ nicht als Getreide im Sinne des § 9 Abs. 3 des Gesetzes.
 Rüben-, Rohr- oder Invertzucker ist technisch rein, wenn er mindestens
 99,5 Gewichtshundertteile Zucker, bezogen auf den Trockenstoff,
 enthält. Stärkezucker ist der aus natürlicher Stärke gewonnene Zucker.
-Es ist zulässig, den Zucker auch in der Form von wäßrigen Lösungen zu
-verwenden.
+Es ist zulässig, den Zucker auch in der Form von wäßrigen Lösungen
+zu verwenden.
 
 
 ## § 19
 
 Wasser im Sinne des § 9 Abs. 1 des Gesetzes ist alles in der Natur
-vorkommende, gesundheitlich unbedenkliche Wasser sowie solches Wasser,
-das nach Maßgabe der jeweils geltenden lebensmittelrechtlichen
+vorkommende, gesundheitlich unbedenkliche Wasser sowie solches
+Wasser, das nach Maßgabe der jeweils geltenden lebensmittelrechtlichen
 Vorschriften für Trink- oder Brauzwecke aufbereitet worden ist.
 Maische oder Würze darf mit auf dem Malz natürlich vorkommenden
 Milchsäurebakterien, auch wenn sie vermehrt worden sind, angereichert
@@ -115,11 +112,7 @@ Bieres verbleiben, zu dem anderes Malz als Gerstenmalz oder zu dem
 Zucker verwendet wurde, ist bei der Bereitung untergärigen Bieres
 nicht zulässig.
 
-
 (2) bis (4) (weggefallen)
-
-
-
 
 
 ## § 21
@@ -144,32 +137,24 @@ Würze) zum Zweck einer besseren Klärung oder zur Erzielung eines
 festeren Absetzens der Hefe zugesetzt wird. Die Zulassung ist an
 folgende Bedingungen und Auflagen zu knüpfen:
 
-a)  Der Zusatz der untergärigen Kräusen darf 15 vom Hundert, der Zusatz
-    der untergärigen Hefe 0,1 vom Hundert der Menge der mit reiner
-    obergäriger Hefe angestellten Würze nicht überschreiten; an
+a)  Der Zusatz der untergärigen Kräusen darf 15 vom Hundert, der
+    Zusatz der untergärigen Hefe 0,1 vom Hundert der Menge der mit
+    reiner obergäriger Hefe angestellten Würze nicht überschreiten; an
     untergäriger Hefe dürfen jedoch nicht mehr als 50 vom Hundert der
-    verwendeten Menge obergäriger Hefe zugesetzt werden. Einfachbier, das
-    unter Verwendung von Süßstoff hergestellt und in der Brauerei nur
-    angegoren wird, dürfen bis zu 75 vom Hundert der insgesamt zu
+    verwendeten Menge obergäriger Hefe zugesetzt werden. Einfachbier,
+    das unter Verwendung von Süßstoff hergestellt und in der Brauerei
+    nur angegoren wird, dürfen bis zu 75 vom Hundert der insgesamt zu
     verwendenden Hefe untergärige Hefe zugesetzt werden;
-
 
 b)  untergärige Hefe oder untergärige Kräusen dürfen niemals in den
     Anstell- oder Gärbottichen zugesetzt werden, sondern, wenn das Bier
     die Haupt- und Nachgärung in der Brauerei durchmacht, erst in den Gär-
     und Lagerfässern und auch hier erst, wenn keine Hefe mehr ausgestoßen
-    wird und der auftretende zarte weiße Schaum erkennen läßt, daß die
-    Hauptgärung und der erste Teil der Nachgärung - die sogenannte
+    wird und der auftretende zarte weiße Schaum erkennen läßt, daß
+    die Hauptgärung und der erste Teil der Nachgärung - die sogenannte
     beschleunigte Nachgärung - beendet sind. Wenn das Bier in der Brauerei
     nur angegoren wird, darf der Zusatz erst im Abziehbottich oder in den
     Versandgefäßen stattfinden.
 
-
-
-
-
 (2) (weggefallen)
-
-
-
 

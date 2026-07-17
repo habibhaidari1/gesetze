@@ -16,18 +16,17 @@ Fundstelle
 :   BGBl: 1949, 1
 
 Zuletzt geändert durch
-:   Art. 1 u. 2 Satz 2 G v. 29.9.2020 I 2048
+:   Art. 1 G v. 22.3.2025 I Nr. 94
 
 
 ## Eingangsformel
 
 Der Parlamentarische Rat hat am 23. Mai 1949 in Bonn am Rhein in
-öffentlicher Sitzung festgestellt, daß das am 8. Mai des Jahres 1949
-vom Parlamentarischen Rat beschlossene
-Grundgesetz für die Bundesrepublik Deutschland              in der
-Woche vom 16. bis 22. Mai 1949 durch die Volksvertretungen von mehr
-als Zweidritteln der beteiligten deutschen Länder angenommen worden
-ist.
+öffentlicher Sitzung festgestellt, daß das am 8. Mai des Jahres
+1949 vom Parlamentarischen Rat beschlossene Grundgesetz für die
+Bundesrepublik Deutschland in der Woche vom 16. bis 22. Mai 1949
+durch die Volksvertretungen von mehr als Zweidritteln der beteiligten
+deutschen Länder angenommen worden ist.
 Auf Grund dieser Feststellung hat der Parlamentarische Rat, vertreten
 durch seine Präsidenten, das Grundgesetz ausgefertigt und verkündet.
 Das Grundgesetz wird hiermit gemäß Artikel 145 Abs. 3 im
@@ -44,14 +43,13 @@ gegeben.
 Die Deutschen in den Ländern Baden-Württemberg, Bayern, Berlin,
 Brandenburg, Bremen, Hamburg, Hessen, Mecklenburg-Vorpommern,
 Niedersachsen, Nordrhein-Westfalen, Rheinland-Pfalz, Saarland,
-Sachsen, Sachsen-Anhalt, Schleswig-Holstein und Thüringen haben in
-freier Selbstbestimmung die Einheit und Freiheit Deutschlands
+Sachsen, Sachsen-Anhalt, Schleswig-Holstein und Thüringen haben
+in freier Selbstbestimmung die Einheit und Freiheit Deutschlands
 vollendet. Damit gilt dieses Grundgesetz für das gesamte Deutsche
 Volk.
 
 
 ## I. - Die Grundrechte
-
 
 
 ### Art 1
@@ -106,8 +104,8 @@ gezwungen werden. Das Nähere regelt ein Bundesgesetz.
 
 ### Art 5
 
-(1) Jeder hat das Recht, seine Meinung in Wort, Schrift und Bild frei
-zu äußern und zu verbreiten und sich aus allgemein zugänglichen
+(1) Jeder hat das Recht, seine Meinung in Wort, Schrift und Bild
+frei zu äußern und zu verbreiten und sich aus allgemein zugänglichen
 Quellen ungehindert zu unterrichten. Die Pressefreiheit und die
 Freiheit der Berichterstattung durch Rundfunk und Film werden
 gewährleistet. Eine Zensur findet nicht statt.
@@ -125,12 +123,12 @@ Freiheit der Lehre entbindet nicht von der Treue zur Verfassung.
 (1) Ehe und Familie stehen unter dem besonderen Schutze der
 staatlichen Ordnung.
 
-(2) Pflege und Erziehung der Kinder sind das natürliche Recht der
-Eltern und die zuvörderst ihnen obliegende Pflicht. Über ihre
+(2) Pflege und Erziehung der Kinder sind das natürliche Recht
+der Eltern und die zuvörderst ihnen obliegende Pflicht. Über ihre
 Betätigung wacht die staatliche Gemeinschaft.
 
-(3) Gegen den Willen der Erziehungsberechtigten dürfen Kinder nur auf
-Grund eines Gesetzes von der Familie getrennt werden, wenn die
+(3) Gegen den Willen der Erziehungsberechtigten dürfen Kinder nur
+auf Grund eines Gesetzes von der Familie getrennt werden, wenn die
 Erziehungsberechtigten versagen oder wenn die Kinder aus anderen
 Gründen zu verwahrlosen drohen.
 
@@ -149,9 +147,9 @@ Stellung in der Gesellschaft zu schaffen wie den ehelichen Kindern.
 (2) Die Erziehungsberechtigten haben das Recht, über die Teilnahme des
 Kindes am Religionsunterricht zu bestimmen.
 
-(3) Der Religionsunterricht ist in den öffentlichen Schulen mit
-Ausnahme der bekenntnisfreien Schulen ordentliches Lehrfach.
-Unbeschadet des staatlichen Aufsichtsrechtes wird der
+(3) Der Religionsunterricht ist in den öffentlichen Schulen
+mit Ausnahme der bekenntnisfreien Schulen ordentliches
+Lehrfach. Unbeschadet des staatlichen Aufsichtsrechtes wird der
 Religionsunterricht in Übereinstimmung mit den Grundsätzen der
 Religionsgemeinschaften erteilt. Kein Lehrer darf gegen seinen Willen
 verpflichtet werden, Religionsunterricht zu erteilen.
@@ -161,16 +159,16 @@ Private Schulen als Ersatz für öffentliche Schulen bedürfen der
 Genehmigung des Staates und unterstehen den Landesgesetzen. Die
 Genehmigung ist zu erteilen, wenn die privaten Schulen in ihren
 Lehrzielen und Einrichtungen sowie in der wissenschaftlichen
-Ausbildung ihrer Lehrkräfte nicht hinter den öffentlichen Schulen
-zurückstehen und eine Sonderung der Schüler nach den
+Ausbildung ihrer Lehrkräfte nicht hinter den öffentlichen
+Schulen zurückstehen und eine Sonderung der Schüler nach den
 Besitzverhältnissen der Eltern nicht gefördert wird. Die Genehmigung
 ist zu versagen, wenn die wirtschaftliche und rechtliche Stellung der
 Lehrkräfte nicht genügend gesichert ist.
 
 (5) Eine private Volksschule ist nur zuzulassen, wenn die
-Unterrichtsverwaltung ein besonderes pädagogisches Interesse anerkennt
-oder, auf Antrag von Erziehungsberechtigten, wenn sie als
-Gemeinschaftsschule, als Bekenntnis- oder Weltanschauungsschule
+Unterrichtsverwaltung ein besonderes pädagogisches Interesse
+anerkennt oder, auf Antrag von Erziehungsberechtigten, wenn sie
+als Gemeinschaftsschule, als Bekenntnis- oder Weltanschauungsschule
 errichtet werden soll und eine öffentliche Volksschule dieser Art in
 der Gemeinde nicht besteht.
 
@@ -199,8 +197,8 @@ gegen den Gedanken der Völkerverständigung richten, sind verboten.
 Wirtschaftsbedingungen Vereinigungen zu bilden, ist für jedermann und
 für alle Berufe gewährleistet. Abreden, die dieses Recht einschränken
 oder zu behindern suchen, sind nichtig, hierauf gerichtete Maßnahmen
-sind rechtswidrig. Maßnahmen nach den Artikeln 12a, 35 Abs. 2 und 3,
-Artikel 87a Abs. 4 und Artikel 91 dürfen sich nicht gegen
+sind rechtswidrig. Maßnahmen nach den Artikeln 12a, 35 Abs. 2
+und 3, Artikel 87a Abs. 4 und Artikel 91 dürfen sich nicht gegen
 Arbeitskämpfe richten, die zur Wahrung und Förderung der Arbeits- und
 Wirtschaftsbedingungen von Vereinigungen im Sinne des Satzes 1 geführt
 werden.
@@ -213,9 +211,9 @@ unverletzlich.
 
 (2) Beschränkungen dürfen nur auf Grund eines Gesetzes angeordnet
 werden. Dient die Beschränkung dem Schutze der freiheitlichen
-demokratischen Grundordnung oder des Bestandes oder der Sicherung des
-Bundes oder eines Landes, so kann das Gesetz bestimmen, daß sie dem
-Betroffenen nicht mitgeteilt wird und daß an die Stelle des
+demokratischen Grundordnung oder des Bestandes oder der Sicherung
+des Bundes oder eines Landes, so kann das Gesetz bestimmen, daß
+sie dem Betroffenen nicht mitgeteilt wird und daß an die Stelle des
 Rechtsweges die Nachprüfung durch von der Volksvertretung bestellte
 Organe und Hilfsorgane tritt.
 
@@ -229,8 +227,8 @@ und nur für die Fälle eingeschränkt werden, in denen eine ausreichende
 Lebensgrundlage nicht vorhanden ist und der Allgemeinheit daraus
 besondere Lasten entstehen würden oder in denen es zur Abwehr einer
 drohenden Gefahr für den Bestand oder die freiheitliche demokratische
-Grundordnung des Bundes oder eines Landes, zur Bekämpfung von
-Seuchengefahr, Naturkatastrophen oder besonders schweren
+Grundordnung des Bundes oder eines Landes, zur Bekämpfung
+von Seuchengefahr, Naturkatastrophen oder besonders schweren
 Unglücksfällen, zum Schutze der Jugend vor Verwahrlosung oder um
 strafbaren Handlungen vorzubeugen, erforderlich ist.
 
@@ -251,30 +249,30 @@ Freiheitsentziehung zulässig.
 
 ### Art 12a
 
-(1) Männer können vom vollendeten achtzehnten Lebensjahr an zum Dienst
-in den Streitkräften, im Bundesgrenzschutz oder in einem
+(1) Männer können vom vollendeten achtzehnten Lebensjahr an zum
+Dienst in den Streitkräften, im Bundesgrenzschutz oder in einem
 Zivilschutzverband verpflichtet werden.
 
 (2) Wer aus Gewissensgründen den Kriegsdienst mit der Waffe
-verweigert, kann zu einem Ersatzdienst verpflichtet werden. Die Dauer
-des Ersatzdienstes darf die Dauer des Wehrdienstes nicht übersteigen.
-Das Nähere regelt ein Gesetz, das die Freiheit der
-Gewissensentscheidung nicht beeinträchtigen darf und auch eine
-Möglichkeit des Ersatzdienstes vorsehen muß, die in keinem
-Zusammenhang mit den Verbänden der Streitkräfte und des
+verweigert, kann zu einem Ersatzdienst verpflichtet werden. Die
+Dauer des Ersatzdienstes darf die Dauer des Wehrdienstes nicht
+übersteigen. Das Nähere regelt ein Gesetz, das die Freiheit
+der Gewissensentscheidung nicht beeinträchtigen darf und
+auch eine Möglichkeit des Ersatzdienstes vorsehen muß, die in
+keinem Zusammenhang mit den Verbänden der Streitkräfte und des
 Bundesgrenzschutzes steht.
 
 (3) Wehrpflichtige, die nicht zu einem Dienst nach Absatz 1 oder 2
-herangezogen sind, können im Verteidigungsfalle durch Gesetz oder auf
-Grund eines Gesetzes zu zivilen Dienstleistungen für Zwecke der
-Verteidigung einschließlich des Schutzes der Zivilbevölkerung in
-Arbeitsverhältnisse verpflichtet werden; Verpflichtungen in
+herangezogen sind, können im Verteidigungsfalle durch Gesetz oder
+auf Grund eines Gesetzes zu zivilen Dienstleistungen für Zwecke
+der Verteidigung einschließlich des Schutzes der Zivilbevölkerung
+in Arbeitsverhältnisse verpflichtet werden; Verpflichtungen in
 öffentlich-rechtliche Dienstverhältnisse sind nur zur Wahrnehmung
 polizeilicher Aufgaben oder solcher hoheitlichen Aufgaben der
 öffentlichen Verwaltung, die nur in einem öffentlich-rechtlichen
 Dienstverhältnis erfüllt werden können, zulässig. Arbeitsverhältnisse
-nach Satz 1 können bei den Streitkräften, im Bereich ihrer Versorgung
-sowie bei der öffentlichen Verwaltung begründet werden;
+nach Satz 1 können bei den Streitkräften, im Bereich ihrer
+Versorgung sowie bei der öffentlichen Verwaltung begründet werden;
 Verpflichtungen in Arbeitsverhältnisse im Bereiche der Versorgung der
 Zivilbevölkerung sind nur zulässig, um ihren lebensnotwendigen Bedarf
 zu decken oder ihren Schutz sicherzustellen.
@@ -289,14 +287,14 @@ dürfen auf keinen Fall zum Dienst mit der Waffe verpflichtet werden.
 
 (5) Für die Zeit vor dem Verteidigungsfalle können Verpflichtungen
 nach Absatz 3 nur nach Maßgabe des Artikels 80a Abs. 1 begründet
-werden. Zur Vorbereitung auf Dienstleistungen nach Absatz 3, für die
-besondere Kenntnisse oder Fertigkeiten erforderlich sind, kann durch
-Gesetz oder auf Grund eines Gesetzes die Teilnahme an
+werden. Zur Vorbereitung auf Dienstleistungen nach Absatz 3, für
+die besondere Kenntnisse oder Fertigkeiten erforderlich sind,
+kann durch Gesetz oder auf Grund eines Gesetzes die Teilnahme an
 Ausbildungsveranstaltungen zur Pflicht gemacht werden. Satz 1 findet
 insoweit keine Anwendung.
 
-(6) Kann im Verteidigungsfalle der Bedarf an Arbeitskräften für die in
-Absatz 3 Satz 2 genannten Bereiche auf freiwilliger Grundlage nicht
+(6) Kann im Verteidigungsfalle der Bedarf an Arbeitskräften für die
+in Absatz 3 Satz 2 genannten Bereiche auf freiwilliger Grundlage nicht
 gedeckt werden, so kann zur Sicherung dieses Bedarfs die Freiheit der
 Deutschen, die Ausübung eines Berufs oder den Arbeitsplatz aufzugeben,
 durch Gesetz oder auf Grund eines Gesetzes eingeschränkt werden. Vor
@@ -312,21 +310,21 @@ auch durch die in den Gesetzen vorgesehenen anderen Organe angeordnet
 und nur in der dort vorgeschriebenen Form durchgeführt werden.
 
 (3) Begründen bestimmte Tatsachen den Verdacht, daß jemand eine durch
-Gesetz einzeln bestimmte besonders schwere Straftat begangen hat, so
-dürfen zur Verfolgung der Tat auf Grund richterlicher Anordnung
+Gesetz einzeln bestimmte besonders schwere Straftat begangen hat,
+so dürfen zur Verfolgung der Tat auf Grund richterlicher Anordnung
 technische Mittel zur akustischen Überwachung von Wohnungen, in denen
-der Beschuldigte sich vermutlich aufhält, eingesetzt werden, wenn die
-Erforschung des Sachverhalts auf andere Weise unverhältnismäßig
-erschwert oder aussichtslos wäre. Die Maßnahme ist zu befristen. Die
-Anordnung erfolgt durch einen mit drei Richtern besetzten
+der Beschuldigte sich vermutlich aufhält, eingesetzt werden, wenn
+die Erforschung des Sachverhalts auf andere Weise unverhältnismäßig
+erschwert oder aussichtslos wäre. Die Maßnahme ist zu befristen.
+Die Anordnung erfolgt durch einen mit drei Richtern besetzten
 Spruchkörper. Bei Gefahr im Verzuge kann sie auch durch einen
 einzelnen Richter getroffen werden.
 
 (4) Zur Abwehr dringender Gefahren für die öffentliche Sicherheit,
 insbesondere einer gemeinen Gefahr oder einer Lebensgefahr, dürfen
 technische Mittel zur Überwachung von Wohnungen nur auf Grund
-richterlicher Anordnung eingesetzt werden. Bei Gefahr im Verzuge kann
-die Maßnahme auch durch eine andere gesetzlich bestimmte Stelle
+richterlicher Anordnung eingesetzt werden. Bei Gefahr im Verzuge
+kann die Maßnahme auch durch eine andere gesetzlich bestimmte Stelle
 angeordnet werden; eine richterliche Entscheidung ist unverzüglich
 nachzuholen.
 
@@ -341,8 +339,8 @@ unverzüglich nachzuholen.
 
 (6) Die Bundesregierung unterrichtet den Bundestag jährlich über den
 nach Absatz 3 sowie über den im Zuständigkeitsbereich des Bundes nach
-Absatz 4 und, soweit richterlich überprüfungsbedürftig, nach Absatz 5
-erfolgten Einsatz technischer Mittel. Ein vom Bundestag gewähltes
+Absatz 4 und, soweit richterlich überprüfungsbedürftig, nach Absatz
+5 erfolgten Einsatz technischer Mittel. Ein vom Bundestag gewähltes
 Gremium übt auf der Grundlage dieses Berichts die parlamentarische
 Kontrolle aus. Die Länder gewährleisten eine gleichwertige
 parlamentarische Kontrolle.
@@ -363,10 +361,10 @@ Schranken werden durch die Gesetze bestimmt.
 (2) Eigentum verpflichtet. Sein Gebrauch soll zugleich dem Wohle der
 Allgemeinheit dienen.
 
-(3) Eine Enteignung ist nur zum Wohle der Allgemeinheit zulässig. Sie
-darf nur durch Gesetz oder auf Grund eines Gesetzes erfolgen, das Art
-und Ausmaß der Entschädigung regelt. Die Entschädigung ist unter
-gerechter Abwägung der Interessen der Allgemeinheit und der
+(3) Eine Enteignung ist nur zum Wohle der Allgemeinheit zulässig.
+Sie darf nur durch Gesetz oder auf Grund eines Gesetzes erfolgen,
+das Art und Ausmaß der Entschädigung regelt. Die Entschädigung ist
+unter gerechter Abwägung der Interessen der Allgemeinheit und der
 Beteiligten zu bestimmen. Wegen der Höhe der Entschädigung steht im
 Streitfalle der Rechtsweg vor den ordentlichen Gerichten offen.
 
@@ -383,8 +381,8 @@ Gemeinwirtschaft überführt werden. Für die Entschädigung gilt Artikel
 ### Art 16
 
 (1) Die deutsche Staatsangehörigkeit darf nicht entzogen werden. Der
-Verlust der Staatsangehörigkeit darf nur auf Grund eines Gesetzes und
-gegen den Willen des Betroffenen nur dann eintreten, wenn der
+Verlust der Staatsangehörigkeit darf nur auf Grund eines Gesetzes
+und gegen den Willen des Betroffenen nur dann eintreten, wenn der
 Betroffene dadurch nicht staatenlos wird.
 
 (2) Kein Deutscher darf an das Ausland ausgeliefert werden. Durch
@@ -401,19 +399,19 @@ gewahrt sind.
 (2) Auf Absatz 1 kann sich nicht berufen, wer aus einem Mitgliedstaat
 der Europäischen Gemeinschaften oder aus einem anderen Drittstaat
 einreist, in dem die Anwendung des Abkommens über die Rechtsstellung
-der Flüchtlinge und der Konvention zum Schutze der Menschenrechte und
-Grundfreiheiten sichergestellt ist. Die Staaten außerhalb der
-Europäischen Gemeinschaften, auf die die Voraussetzungen des Satzes 1
-zutreffen, werden durch Gesetz, das der Zustimmung des Bundesrates
-bedarf, bestimmt. In den Fällen des Satzes 1 können
+der Flüchtlinge und der Konvention zum Schutze der Menschenrechte
+und Grundfreiheiten sichergestellt ist. Die Staaten außerhalb
+der Europäischen Gemeinschaften, auf die die Voraussetzungen des
+Satzes 1 zutreffen, werden durch Gesetz, das der Zustimmung des
+Bundesrates bedarf, bestimmt. In den Fällen des Satzes 1 können
 aufenthaltsbeendende Maßnahmen unabhängig von einem hiergegen
 eingelegten Rechtsbehelf vollzogen werden.
 
-(3) Durch Gesetz, das der Zustimmung des Bundesrates bedarf, können
-Staaten bestimmt werden, bei denen auf Grund der Rechtslage, der
-Rechtsanwendung und der allgemeinen politischen Verhältnisse
-gewährleistet erscheint, daß dort weder politische Verfolgung noch
-unmenschliche oder erniedrigende Bestrafung oder Behandlung
+(3) Durch Gesetz, das der Zustimmung des Bundesrates bedarf,
+können Staaten bestimmt werden, bei denen auf Grund der Rechtslage,
+der Rechtsanwendung und der allgemeinen politischen Verhältnisse
+gewährleistet erscheint, daß dort weder politische Verfolgung
+noch unmenschliche oder erniedrigende Bestrafung oder Behandlung
 stattfindet. Es wird vermutet, daß ein Ausländer aus einem solchen
 Staat nicht verfolgt wird, solange er nicht Tatsachen vorträgt, die
 die Annahme begründen, daß er entgegen dieser Vermutung politisch
@@ -428,8 +426,8 @@ Vorbringen unberücksichtigt bleiben. Das Nähere ist durch Gesetz zu
 bestimmen.
 
 (5) Die Absätze 1 bis 4 stehen völkerrechtlichen Verträgen von
-Mitgliedstaaten der Europäischen Gemeinschaften untereinander und mit
-dritten Staaten nicht entgegen, die unter Beachtung der
+Mitgliedstaaten der Europäischen Gemeinschaften untereinander
+und mit dritten Staaten nicht entgegen, die unter Beachtung der
 Verpflichtungen aus dem Abkommen über die Rechtsstellung der
 Flüchtlinge und der Konvention zum Schutze der Menschenrechte und
 Grundfreiheiten, deren Anwendung in den Vertragsstaaten sichergestellt
@@ -447,11 +445,11 @@ an die Volksvertretung zu wenden.
 
 ### Art 17a
 
-(1) Gesetze über Wehrdienst und Ersatzdienst können bestimmen, daß für
-die Angehörigen der Streitkräfte und des Ersatzdienstes während der
-Zeit des Wehr- oder Ersatzdienstes das Grundrecht, seine Meinung in
-Wort, Schrift und Bild frei zu äußern und zu verbreiten (Artikel 5
-Abs. 1 Satz 1 erster Halbsatz), das Grundrecht der
+(1) Gesetze über Wehrdienst und Ersatzdienst können bestimmen,
+daß für die Angehörigen der Streitkräfte und des Ersatzdienstes
+während der Zeit des Wehr- oder Ersatzdienstes das Grundrecht, seine
+Meinung in Wort, Schrift und Bild frei zu äußern und zu verbreiten
+(Artikel 5 Abs. 1 Satz 1 erster Halbsatz), das Grundrecht der
 Versammlungsfreiheit (Artikel 8) und das Petitionsrecht (Artikel 17),
 soweit es das Recht gewährt, Bitten oder Beschwerden in Gemeinschaft
 mit anderen vorzubringen, eingeschränkt werden.
@@ -496,7 +494,6 @@ gegeben. Artikel 10 Abs. 2 Satz 2 bleibt unberührt.
 ## II. - Der Bund und die Länder
 
 
-
 ### Art 20
 
 (1) Die Bundesrepublik Deutschland ist ein demokratischer und sozialer
@@ -535,10 +532,10 @@ Anhänger darauf ausgehen, die freiheitliche demokratische Grundordnung
 zu beeinträchtigen oder zu beseitigen oder den Bestand der
 Bundesrepublik Deutschland zu gefährden, sind verfassungswidrig.
 
-(3) Parteien, die nach ihren Zielen oder dem Verhalten ihrer Anhänger
-darauf ausgerichtet sind, die freiheitliche demokratische Grundordnung
-zu beeinträchtigen oder zu beseitigen oder den Bestand der
-Bundesrepublik Deutschland zu gefährden, sind von staatlicher
+(3) Parteien, die nach ihren Zielen oder dem Verhalten ihrer
+Anhänger darauf ausgerichtet sind, die freiheitliche demokratische
+Grundordnung zu beeinträchtigen oder zu beseitigen oder den Bestand
+der Bundesrepublik Deutschland zu gefährden, sind von staatlicher
 Finanzierung ausgeschlossen. Wird der Ausschluss festgestellt, so
 entfällt auch eine steuerliche Begünstigung dieser Parteien und von
 Zuwendungen an diese Parteien.
@@ -564,29 +561,29 @@ Bundes. Das Nähere wird durch Bundesgesetz geregelt.
 (1) Zur Verwirklichung eines vereinten Europas wirkt die
 Bundesrepublik Deutschland bei der Entwicklung der Europäischen Union
 mit, die demokratischen, rechtsstaatlichen, sozialen und föderativen
-Grundsätzen und dem Grundsatz der Subsidiarität verpflichtet ist und
-einen diesem Grundgesetz im wesentlichen vergleichbaren
-Grundrechtsschutz gewährleistet. Der Bund kann hierzu durch Gesetz mit
-Zustimmung des Bundesrates Hoheitsrechte übertragen. Für die
-Begründung der Europäischen Union sowie für Änderungen ihrer
+Grundsätzen und dem Grundsatz der Subsidiarität verpflichtet
+ist und einen diesem Grundgesetz im wesentlichen vergleichbaren
+Grundrechtsschutz gewährleistet. Der Bund kann hierzu durch Gesetz
+mit Zustimmung des Bundesrates Hoheitsrechte übertragen. Für
+die Begründung der Europäischen Union sowie für Änderungen ihrer
 vertraglichen Grundlagen und vergleichbare Regelungen, durch die
 dieses Grundgesetz seinem Inhalt nach geändert oder ergänzt wird oder
 solche Änderungen oder Ergänzungen ermöglicht werden, gilt Artikel 79
 Abs. 2 und 3.
 
-(1a) Der Bundestag und der Bundesrat haben das Recht, wegen Verstoßes
-eines Gesetzgebungsakts der Europäischen Union gegen das
-Subsidiaritätsprinzip vor dem Gerichtshof der Europäischen Union Klage
-zu erheben. Der Bundestag ist hierzu auf Antrag eines Viertels seiner
-Mitglieder verpflichtet. Durch Gesetz, das der Zustimmung des
-Bundesrates bedarf, können für die Wahrnehmung der Rechte, die dem
-Bundestag und dem Bundesrat in den vertraglichen Grundlagen der
+(1a) Der Bundestag und der Bundesrat haben das Recht, wegen
+Verstoßes eines Gesetzgebungsakts der Europäischen Union gegen das
+Subsidiaritätsprinzip vor dem Gerichtshof der Europäischen Union
+Klage zu erheben. Der Bundestag ist hierzu auf Antrag eines Viertels
+seiner Mitglieder verpflichtet. Durch Gesetz, das der Zustimmung
+des Bundesrates bedarf, können für die Wahrnehmung der Rechte, die
+dem Bundestag und dem Bundesrat in den vertraglichen Grundlagen der
 Europäischen Union eingeräumt sind, Ausnahmen von Artikel 42 Abs. 2
 Satz 1 und Artikel 52 Abs. 3 Satz 1 zugelassen werden.
 
-(2) In Angelegenheiten der Europäischen Union wirken der Bundestag und
-durch den Bundesrat die Länder mit. Die Bundesregierung hat den
-Bundestag und den Bundesrat umfassend und zum frühestmöglichen
+(2) In Angelegenheiten der Europäischen Union wirken der Bundestag
+und durch den Bundesrat die Länder mit. Die Bundesregierung hat
+den Bundestag und den Bundesrat umfassend und zum frühestmöglichen
 Zeitpunkt zu unterrichten.
 
 (3) Die Bundesregierung gibt dem Bundestag Gelegenheit zur
@@ -600,12 +597,12 @@ soweit er an einer entsprechenden innerstaatlichen Maßnahme
 mitzuwirken hätte oder soweit die Länder innerstaatlich zuständig
 wären.
 
-(5) Soweit in einem Bereich ausschließlicher Zuständigkeiten des
-Bundes Interessen der Länder berührt sind oder soweit im übrigen der
-Bund das Recht zur Gesetzgebung hat, berücksichtigt die
-Bundesregierung die Stellungnahme des Bundesrates. Wenn im Schwerpunkt
-Gesetzgebungsbefugnisse der Länder, die Einrichtung ihrer Behörden
-oder ihre Verwaltungsverfahren betroffen sind, ist bei der
+(5) Soweit in einem Bereich ausschließlicher Zuständigkeiten
+des Bundes Interessen der Länder berührt sind oder soweit im
+übrigen der Bund das Recht zur Gesetzgebung hat, berücksichtigt
+die Bundesregierung die Stellungnahme des Bundesrates. Wenn im
+Schwerpunkt Gesetzgebungsbefugnisse der Länder, die Einrichtung ihrer
+Behörden oder ihre Verwaltungsverfahren betroffen sind, ist bei der
 Willensbildung des Bundes insoweit die Auffassung des Bundesrates
 maßgeblich zu berücksichtigen; dabei ist die gesamtstaatliche
 Verantwortung des Bundes zu wahren. In Angelegenheiten, die zu
@@ -613,11 +610,11 @@ Ausgabenerhöhungen oder Einnahmeminderungen für den Bund führen
 können, ist die Zustimmung der Bundesregierung erforderlich.
 
 (6) Wenn im Schwerpunkt ausschließliche Gesetzgebungsbefugnisse der
-Länder auf den Gebieten der schulischen Bildung, der Kultur oder des
-Rundfunks betroffen sind, wird die Wahrnehmung der Rechte, die der
-Bundesrepublik Deutschland als Mitgliedstaat der Europäischen Union
-zustehen, vom Bund auf einen vom Bundesrat benannten Vertreter der
-Länder übertragen. Die Wahrnehmung der Rechte erfolgt unter
+Länder auf den Gebieten der schulischen Bildung, der Kultur oder
+des Rundfunks betroffen sind, wird die Wahrnehmung der Rechte, die
+der Bundesrepublik Deutschland als Mitgliedstaat der Europäischen
+Union zustehen, vom Bund auf einen vom Bundesrat benannten Vertreter
+der Länder übertragen. Die Wahrnehmung der Rechte erfolgt unter
 Beteiligung und in Abstimmung mit der Bundesregierung; dabei ist die
 gesamtstaatliche Verantwortung des Bundes zu wahren.
 
@@ -630,9 +627,9 @@ Zustimmung des Bundesrates bedarf.
 (1) Der Bund kann durch Gesetz Hoheitsrechte auf zwischenstaatliche
 Einrichtungen übertragen.
 
-(1a) Soweit die Länder für die Ausübung der staatlichen Befugnisse und
-die Erfüllung der staatlichen Aufgaben zuständig sind, können sie mit
-Zustimmung der Bundesregierung Hoheitsrechte auf
+(1a) Soweit die Länder für die Ausübung der staatlichen Befugnisse
+und die Erfüllung der staatlichen Aufgaben zuständig sind,
+können sie mit Zustimmung der Bundesregierung Hoheitsrechte auf
 grenznachbarschaftliche Einrichtungen übertragen.
 
 (2) Der Bund kann sich zur Wahrung des Friedens einem System
@@ -678,18 +675,18 @@ des republikanischen, demokratischen und sozialen Rechtsstaates im
 Sinne dieses Grundgesetzes entsprechen. In den Ländern, Kreisen und
 Gemeinden muß das Volk eine Vertretung haben, die aus allgemeinen,
 unmittelbaren, freien, gleichen und geheimen Wahlen hervorgegangen
-ist. Bei Wahlen in Kreisen und Gemeinden sind auch Personen, die die
-Staatsangehörigkeit eines Mitgliedstaates der Europäischen
+ist. Bei Wahlen in Kreisen und Gemeinden sind auch Personen, die
+die Staatsangehörigkeit eines Mitgliedstaates der Europäischen
 Gemeinschaft besitzen, nach Maßgabe von Recht der Europäischen
 Gemeinschaft wahlberechtigt und wählbar. In Gemeinden kann an die
 Stelle einer gewählten Körperschaft die Gemeindeversammlung treten.
 
 (2) Den Gemeinden muß das Recht gewährleistet sein, alle
-Angelegenheiten der örtlichen Gemeinschaft im Rahmen der Gesetze in
-eigener Verantwortung zu regeln. Auch die Gemeindeverbände haben im
-Rahmen ihres gesetzlichen Aufgabenbereiches nach Maßgabe der Gesetze
-das Recht der Selbstverwaltung. Die Gewährleistung der
-Selbstverwaltung umfaßt auch die Grundlagen der finanziellen
+Angelegenheiten der örtlichen Gemeinschaft im Rahmen der Gesetze
+in eigener Verantwortung zu regeln. Auch die Gemeindeverbände
+haben im Rahmen ihres gesetzlichen Aufgabenbereiches nach Maßgabe
+der Gesetze das Recht der Selbstverwaltung. Die Gewährleistung
+der Selbstverwaltung umfaßt auch die Grundlagen der finanziellen
 Eigenverantwortung; zu diesen Grundlagen gehört eine den Gemeinden mit
 Hebesatzrecht zustehende wirtschaftskraftbezogene Steuerquelle.
 
@@ -718,11 +715,11 @@ betroffenen Länder wie bisher bestehenbleiben sollen oder ob das neue
 oder neu umgrenzte Land gebildet werden soll. Der Volksentscheid für
 die Bildung eines neuen oder neu umgrenzten Landes kommt zustande,
 wenn in dessen künftigem Gebiet und insgesamt in den Gebieten oder
-Gebietsteilen eines betroffenen Landes, deren Landeszugehörigkeit im
-gleichen Sinne geändert werden soll, jeweils eine Mehrheit der
-Änderung zustimmt. Er kommt nicht zustande, wenn im Gebiet eines der
-betroffenen Länder eine Mehrheit die Änderung ablehnt; die Ablehnung
-ist jedoch unbeachtlich, wenn in einem Gebietsteil, dessen
+Gebietsteilen eines betroffenen Landes, deren Landeszugehörigkeit
+im gleichen Sinne geändert werden soll, jeweils eine Mehrheit der
+Änderung zustimmt. Er kommt nicht zustande, wenn im Gebiet eines
+der betroffenen Länder eine Mehrheit die Änderung ablehnt; die
+Ablehnung ist jedoch unbeachtlich, wenn in einem Gebietsteil, dessen
 Zugehörigkeit zu dem betroffenen Land geändert werden soll, eine
 Mehrheit von zwei Dritteln der Änderung zustimmt, es sei denn, daß im
 Gesamtgebiet des betroffenen Landes eine Mehrheit von zwei Dritteln
@@ -731,36 +728,36 @@ die Änderung ablehnt.
 (4) Wird in einem zusammenhängenden, abgegrenzten Siedlungs- und
 Wirtschaftsraum, dessen Teile in mehreren Ländern liegen und der
 mindestens eine Million Einwohner hat, von einem Zehntel der in ihm
-zum Bundestag Wahlberechtigten durch Volksbegehren gefordert, daß für
-diesen Raum eine einheitliche Landeszugehörigkeit herbeigeführt werde,
-so ist durch Bundesgesetz innerhalb von zwei Jahren entweder zu
-bestimmen, ob die Landeszugehörigkeit gemäß Absatz 2 geändert wird,
+zum Bundestag Wahlberechtigten durch Volksbegehren gefordert, daß
+für diesen Raum eine einheitliche Landeszugehörigkeit herbeigeführt
+werde, so ist durch Bundesgesetz innerhalb von zwei Jahren entweder
+zu bestimmen, ob die Landeszugehörigkeit gemäß Absatz 2 geändert wird,
 oder daß in den betroffenen Ländern eine Volksbefragung stattfindet.
 
-(5) Die Volksbefragung ist darauf gerichtet festzustellen, ob eine in
-dem Gesetz vorzuschlagende Änderung der Landeszugehörigkeit Zustimmung
-findet. Das Gesetz kann verschiedene, jedoch nicht mehr als zwei
-Vorschläge der Volksbefragung vorlegen. Stimmt eine Mehrheit einer
-vorgeschlagenen Änderung der Landeszugehörigkeit zu, so ist durch
-Bundesgesetz innerhalb von zwei Jahren zu bestimmen, ob die
+(5) Die Volksbefragung ist darauf gerichtet festzustellen, ob eine
+in dem Gesetz vorzuschlagende Änderung der Landeszugehörigkeit
+Zustimmung findet. Das Gesetz kann verschiedene, jedoch nicht mehr
+als zwei Vorschläge der Volksbefragung vorlegen. Stimmt eine Mehrheit
+einer vorgeschlagenen Änderung der Landeszugehörigkeit zu, so ist
+durch Bundesgesetz innerhalb von zwei Jahren zu bestimmen, ob die
 Landeszugehörigkeit gemäß Absatz 2 geändert wird. Findet ein der
-Volksbefragung vorgelegter Vorschlag eine den Maßgaben des Absatzes 3
-Satz 3 und 4 entsprechende Zustimmung, so ist innerhalb von zwei
+Volksbefragung vorgelegter Vorschlag eine den Maßgaben des Absatzes
+3 Satz 3 und 4 entsprechende Zustimmung, so ist innerhalb von zwei
 Jahren nach der Durchführung der Volksbefragung ein Bundesgesetz zur
 Bildung des vorgeschlagenen Landes zu erlassen, das der Bestätigung
 durch Volksentscheid nicht mehr bedarf.
 
 (6) Mehrheit im Volksentscheid und in der Volksbefragung ist die
-Mehrheit der abgegebenen Stimmen, wenn sie mindestens ein Viertel der
-zum Bundestag Wahlberechtigten umfaßt. Im übrigen wird das Nähere über
-Volksentscheid, Volksbegehren und Volksbefragung durch ein
+Mehrheit der abgegebenen Stimmen, wenn sie mindestens ein Viertel
+der zum Bundestag Wahlberechtigten umfaßt. Im übrigen wird das Nähere
+über Volksentscheid, Volksbegehren und Volksbefragung durch ein
 Bundesgesetz geregelt; dieses kann auch vorsehen, daß Volksbegehren
 innerhalb eines Zeitraumes von fünf Jahren nicht wiederholt werden
 können.
 
-(7) Sonstige Änderungen des Gebietsbestandes der Länder können durch
-Staatsverträge der beteiligten Länder oder durch Bundesgesetz mit
-Zustimmung des Bundesrates erfolgen, wenn das Gebiet, dessen
+(7) Sonstige Änderungen des Gebietsbestandes der Länder können
+durch Staatsverträge der beteiligten Länder oder durch Bundesgesetz
+mit Zustimmung des Bundesrates erfolgen, wenn das Gebiet, dessen
 Landeszugehörigkeit geändert werden soll, nicht mehr als 50.000
 Einwohner hat. Das Nähere regelt ein Bundesgesetz, das der Zustimmung
 des Bundesrates und der Mehrheit der Mitglieder des Bundestages
@@ -825,8 +822,8 @@ Aufgabe in der Regel Angehörigen des öffentlichen Dienstes zu
 übertragen, die in einem öffentlich-rechtlichen Dienst- und
 Treueverhältnis stehen.
 
-(5) Das Recht des öffentlichen Dienstes ist unter Berücksichtigung der
-hergebrachten Grundsätze des Berufsbeamtentums zu regeln und
+(5) Das Recht des öffentlichen Dienstes ist unter Berücksichtigung
+der hergebrachten Grundsätze des Berufsbeamtentums zu regeln und
 fortzuentwickeln.
 
 
@@ -836,8 +833,8 @@ Verletzt jemand in Ausübung eines ihm anvertrauten öffentlichen Amtes
 die ihm einem Dritten gegenüber obliegende Amtspflicht, so trifft die
 Verantwortlichkeit grundsätzlich den Staat oder die Körperschaft, in
 deren Dienst er steht. Bei Vorsatz oder grober Fahrlässigkeit bleibt
-der Rückgriff vorbehalten. Für den Anspruch auf Schadensersatz und für
-den Rückgriff darf der ordentliche Rechtsweg nicht ausgeschlossen
+der Rückgriff vorbehalten. Für den Anspruch auf Schadensersatz und
+für den Rückgriff darf der ordentliche Rechtsweg nicht ausgeschlossen
 werden.
 
 
@@ -849,8 +846,8 @@ Rechts- und Amtshilfe.
 (2) Zur Aufrechterhaltung oder Wiederherstellung der öffentlichen
 Sicherheit oder Ordnung kann ein Land in Fällen von besonderer
 Bedeutung Kräfte und Einrichtungen des Bundesgrenzschutzes zur
-Unterstützung seiner Polizei anfordern, wenn die Polizei ohne diese
-Unterstützung eine Aufgabe nicht oder nur unter erheblichen
+Unterstützung seiner Polizei anfordern, wenn die Polizei ohne
+diese Unterstützung eine Aufgabe nicht oder nur unter erheblichen
 Schwierigkeiten erfüllen könnte. Zur Hilfe bei einer Naturkatastrophe
 oder bei einem besonders schweren Unglücksfall kann ein Land
 Polizeikräfte anderer Länder, Kräfte und Einrichtungen anderer
@@ -870,8 +867,8 @@ aufzuheben.
 
 ### Art 36
 
-(1) Bei den obersten Bundesbehörden sind Beamte aus allen Ländern in
-angemessenem Verhältnis zu verwenden. Die bei den übrigen
+(1) Bei den obersten Bundesbehörden sind Beamte aus allen Ländern
+in angemessenem Verhältnis zu verwenden. Die bei den übrigen
 Bundesbehörden beschäftigten Personen sollen in der Regel aus dem
 Lande genommen werden, in dem sie tätig sind.
 
@@ -895,7 +892,6 @@ Behörden.
 ## III. - Der Bundestag
 
 
-
 ### Art 38
 
 (1) Die Abgeordneten des Deutschen Bundestages werden in allgemeiner,
@@ -913,8 +909,8 @@ eintritt.
 ### Art 39
 
 (1) Der Bundestag wird vorbehaltlich der nachfolgenden Bestimmungen
-auf vier Jahre gewählt. Seine Wahlperiode endet mit dem Zusammentritt
-eines neuen Bundestages. Die Neuwahl findet frühestens
+auf vier Jahre gewählt. Seine Wahlperiode endet mit dem
+Zusammentritt eines neuen Bundestages. Die Neuwahl findet frühestens
 sechsundvierzig, spätestens achtundvierzig Monate nach Beginn der
 Wahlperiode statt. Im Falle einer Auflösung des Bundestages findet die
 Neuwahl innerhalb von sechzig Tagen statt.
@@ -971,8 +967,8 @@ frei.
 (1) Der Bundestag und seine Ausschüsse können die Anwesenheit jedes
 Mitgliedes der Bundesregierung verlangen.
 
-(2) Die Mitglieder des Bundesrates und der Bundesregierung sowie ihre
-Beauftragten haben zu allen Sitzungen des Bundestages und seiner
+(2) Die Mitglieder des Bundesrates und der Bundesregierung sowie
+ihre Beauftragten haben zu allen Sitzungen des Bundestages und seiner
 Ausschüsse Zutritt. Sie müssen jederzeit gehört werden.
 
 
@@ -997,9 +993,9 @@ Untersuchung zugrunde liegenden Sachverhaltes sind die Gerichte frei.
 
 ### Art 45
 
-Der Bundestag bestellt einen Ausschuß für die Angelegenheiten der
-Europäischen Union. Er kann ihn ermächtigen, die Rechte des
-Bundestages gemäß Artikel 23 gegenüber der Bundesregierung
+Der Bundestag bestellt einen Ausschuß für die Angelegenheiten
+der Europäischen Union. Er kann ihn ermächtigen, die Rechte
+des Bundestages gemäß Artikel 23 gegenüber der Bundesregierung
 wahrzunehmen. Er kann ihn auch ermächtigen, die Rechte wahrzunehmen,
 die dem Bundestag in den vertraglichen Grundlagen der Europäischen
 Union eingeräumt sind.
@@ -1028,8 +1024,8 @@ Bundestages berufen. Das Nähere regelt ein Bundesgesetz.
 
 ### Art 45c
 
-(1) Der Bundestag bestellt einen Petitionsausschuß, dem die Behandlung
-der nach Artikel 17 an den Bundestag gerichteten Bitten und
+(1) Der Bundestag bestellt einen Petitionsausschuß, dem die
+Behandlung der nach Artikel 17 an den Bundestag gerichteten Bitten und
 Beschwerden obliegt.
 
 (2) Die Befugnisse des Ausschusses zur Überprüfung von Beschwerden
@@ -1046,8 +1042,8 @@ nachrichtendienstlichen Tätigkeit des Bundes.
 
 ### Art 46
 
-(1) Ein Abgeordneter darf zu keiner Zeit wegen seiner Abstimmung oder
-wegen einer Äußerung, die er im Bundestage oder in einem seiner
+(1) Ein Abgeordneter darf zu keiner Zeit wegen seiner Abstimmung
+oder wegen einer Äußerung, die er im Bundestage oder in einem seiner
 Ausschüsse getan hat, gerichtlich oder dienstlich verfolgt oder sonst
 außerhalb des Bundestages zur Verantwortung gezogen werden. Dies gilt
 nicht für verleumderische Beleidigungen.
@@ -1059,8 +1055,8 @@ Laufe des folgenden Tages festgenommen wird.
 
 (3) Die Genehmigung des Bundestages ist ferner bei jeder anderen
 Beschränkung der persönlichen Freiheit eines Abgeordneten oder zur
-Einleitung eines Verfahrens gegen einen Abgeordneten gemäß Artikel 18
-erforderlich.
+Einleitung eines Verfahrens gegen einen Abgeordneten gemäß Artikel
+18 erforderlich.
 
 (4) Jedes Strafverfahren und jedes Verfahren gemäß Artikel 18 gegen
 einen Abgeordneten, jede Haft und jede sonstige Beschränkung seiner
@@ -1094,9 +1090,7 @@ Bundesgesetz.
 ### Art 49 (weggefallen)
 
 
-
 ## IV. - Der Bundesrat
-
 
 
 ### Art 50
@@ -1117,8 +1111,8 @@ Millionen Einwohnern haben vier, Länder mit mehr als sechs Millionen
 Einwohnern fünf, Länder mit mehr als sieben Millionen Einwohnern sechs
 Stimmen.
 
-(3) Jedes Land kann so viele Mitglieder entsenden, wie es Stimmen hat.
-Die Stimmen eines Landes können nur einheitlich und nur durch
+(3) Jedes Land kann so viele Mitglieder entsenden, wie es Stimmen
+hat. Die Stimmen eines Landes können nur einheitlich und nur durch
 anwesende Mitglieder oder deren Vertreter abgegeben werden.
 
 
@@ -1155,15 +1149,14 @@ auf dem laufenden zu halten.
 ## IV a. - Gemeinsamer Ausschuß
 
 
-
 ### Art 53a
 
 (1) Der Gemeinsame Ausschuß besteht zu zwei Dritteln aus Abgeordneten
 des Bundestages, zu einem Drittel aus Mitgliedern des Bundesrates. Die
 Abgeordneten werden vom Bundestage entsprechend dem Stärkeverhältnis
 der Fraktionen bestimmt; sie dürfen nicht der Bundesregierung
-angehören. Jedes Land wird durch ein von ihm bestelltes Mitglied des
-Bundesrates vertreten; diese Mitglieder sind nicht an Weisungen
+angehören. Jedes Land wird durch ein von ihm bestelltes Mitglied
+des Bundesrates vertreten; diese Mitglieder sind nicht an Weisungen
 gebunden. Die Bildung des Gemeinsamen Ausschusses und sein Verfahren
 werden durch eine Geschäftsordnung geregelt, die vom Bundestage zu
 beschließen ist und der Zustimmung des Bundesrates bedarf.
@@ -1177,7 +1170,6 @@ unberührt.
 ## V. - Der Bundespräsident
 
 
-
 ### Art 54
 
 (1) Der Bundespräsident wird ohne Aussprache von der Bundesversammlung
@@ -1187,8 +1179,8 @@ besitzt und das vierzigste Lebensjahr vollendet hat.
 (2) Das Amt des Bundespräsidenten dauert fünf Jahre. Anschließende
 Wiederwahl ist nur einmal zulässig.
 
-(3) Die Bundesversammlung besteht aus den Mitgliedern des Bundestages
-und einer gleichen Anzahl von Mitgliedern, die von den
+(3) Die Bundesversammlung besteht aus den Mitgliedern des
+Bundestages und einer gleichen Anzahl von Mitgliedern, die von den
 Volksvertretungen der Länder nach den Grundsätzen der Verhältniswahl
 gewählt werden.
 
@@ -1201,8 +1193,8 @@ Präsidenten des Bundestages einberufen.
 1 mit dem ersten Zusammentritt des Bundestages.
 
 (6) Gewählt ist, wer die Stimmen der Mehrheit der Mitglieder der
-Bundesversammlung erhält. Wird diese Mehrheit in zwei Wahlgängen von
-keinem Bewerber erreicht, so ist gewählt, wer in einem weiteren
+Bundesversammlung erhält. Wird diese Mehrheit in zwei Wahlgängen
+von keinem Bewerber erreicht, so ist gewählt, wer in einem weiteren
 Wahlgang die meisten Stimmen auf sich vereinigt.
 
 (7) Das Nähere regelt ein Bundesgesetz.
@@ -1224,13 +1216,11 @@ Der Bundespräsident leistet bei seinem Amtsantritt vor den
 versammelten Mitgliedern des Bundestages und des Bundesrates folgenden
 Eid:
 
-*   "Ich schwöre, daß ich meine Kraft dem Wohle des deutschen Volkes
+-   "Ich schwöre, daß ich meine Kraft dem Wohle des deutschen Volkes
     widmen, seinen Nutzen mehren, Schaden von ihm wenden, das Grundgesetz
     und die Gesetze des Bundes wahren und verteidigen, meine Pflichten
     gewissenhaft erfüllen und Gerechtigkeit gegen jedermann üben werde. So
     wahr mir Gott helfe."
-
-
 
 Der Eid kann auch ohne religiöse Beteuerung geleistet werden.
 
@@ -1253,20 +1243,19 @@ Artikel 63 und das Ersuchen gemäß Artikel 69 Abs. 3.
 
 ### Art 59
 
-(1) Der Bundespräsident vertritt den Bund völkerrechtlich. Er schließt
-im Namen des Bundes die Verträge mit auswärtigen Staaten. Er
+(1) Der Bundespräsident vertritt den Bund völkerrechtlich. Er
+schließt im Namen des Bundes die Verträge mit auswärtigen Staaten. Er
 beglaubigt und empfängt die Gesandten.
 
-(2) Verträge, welche die politischen Beziehungen des Bundes regeln
-oder sich auf Gegenstände der Bundesgesetzgebung beziehen, bedürfen
-der Zustimmung oder der Mitwirkung der jeweils für die
+(2) Verträge, welche die politischen Beziehungen des Bundes
+regeln oder sich auf Gegenstände der Bundesgesetzgebung beziehen,
+bedürfen der Zustimmung oder der Mitwirkung der jeweils für die
 Bundesgesetzgebung zuständigen Körperschaften in der Form eines
 Bundesgesetzes. Für Verwaltungsabkommen gelten die Vorschriften über
 die Bundesverwaltung entsprechend.
 
 
 ### Art 59a (weggefallen)
-
 
 
 ### Art 60
@@ -1287,9 +1276,9 @@ Bundespräsidenten entsprechende Anwendung.
 
 (1) Der Bundestag oder der Bundesrat können den Bundespräsidenten
 wegen vorsätzlicher Verletzung des Grundgesetzes oder eines anderen
-Bundesgesetzes vor dem Bundesverfassungsgericht anklagen. Der Antrag
-auf Erhebung der Anklage muß von mindestens einem Viertel der
-Mitglieder des Bundestages oder einem Viertel der Stimmen des
+Bundesgesetzes vor dem Bundesverfassungsgericht anklagen. Der
+Antrag auf Erhebung der Anklage muß von mindestens einem Viertel
+der Mitglieder des Bundestages oder einem Viertel der Stimmen des
 Bundesrates gestellt werden. Der Beschluß auf Erhebung der Anklage
 bedarf der Mehrheit von zwei Dritteln der Mitglieder des Bundestages
 oder von zwei Dritteln der Stimmen des Bundesrates. Die Anklage wird
@@ -1303,7 +1292,6 @@ Anklage bestimmen, daß er an der Ausübung seines Amtes verhindert ist.
 
 
 ## VI. - Die Bundesregierung
-
 
 
 ### Art 62
@@ -1325,10 +1313,10 @@ zu ernennen.
 binnen vierzehn Tagen nach dem Wahlgange mit mehr als der Hälfte
 seiner Mitglieder einen Bundeskanzler wählen.
 
-(4) Kommt eine Wahl innerhalb dieser Frist nicht zustande, so findet
-unverzüglich ein neuer Wahlgang statt, in dem gewählt ist, wer die
-meisten Stimmen erhält. Vereinigt der Gewählte die Stimmen der
-Mehrheit der Mitglieder des Bundestages auf sich, so muß der
+(4) Kommt eine Wahl innerhalb dieser Frist nicht zustande, so
+findet unverzüglich ein neuer Wahlgang statt, in dem gewählt ist,
+wer die meisten Stimmen erhält. Vereinigt der Gewählte die Stimmen
+der Mehrheit der Mitglieder des Bundestages auf sich, so muß der
 Bundespräsident ihn binnen sieben Tagen nach der Wahl ernennen.
 Erreicht der Gewählte diese Mehrheit nicht, so hat der Bundespräsident
 binnen sieben Tagen entweder ihn zu ernennen oder den Bundestag
@@ -1346,10 +1334,10 @@ Amtsübernahme vor dem Bundestage den in Artikel 56 vorgesehenen Eid.
 
 ### Art 65
 
-Der Bundeskanzler bestimmt die Richtlinien der Politik und trägt dafür
-die Verantwortung. Innerhalb dieser Richtlinien leitet jeder
-Bundesminister seinen Geschäftsbereich selbständig und unter eigener
-Verantwortung. Über Meinungsverschiedenheiten zwischen den
+Der Bundeskanzler bestimmt die Richtlinien der Politik und trägt
+dafür die Verantwortung. Innerhalb dieser Richtlinien leitet
+jeder Bundesminister seinen Geschäftsbereich selbständig und unter
+eigener Verantwortung. Über Meinungsverschiedenheiten zwischen den
 Bundesministern entscheidet die Bundesregierung. Der Bundeskanzler
 leitet ihre Geschäfte nach einer von der Bundesregierung beschlossenen
 und vom Bundespräsidenten genehmigten Geschäftsordnung.
@@ -1386,8 +1374,8 @@ liegen.
 ### Art 68
 
 (1) Findet ein Antrag des Bundeskanzlers, ihm das Vertrauen
-auszusprechen, nicht die Zustimmung der Mehrheit der Mitglieder des
-Bundestages, so kann der Bundespräsident auf Vorschlag des
+auszusprechen, nicht die Zustimmung der Mehrheit der Mitglieder
+des Bundestages, so kann der Bundespräsident auf Vorschlag des
 Bundeskanzlers binnen einundzwanzig Tagen den Bundestag auflösen. Das
 Recht zur Auflösung erlischt, sobald der Bundestag mit der Mehrheit
 seiner Mitglieder einen anderen Bundeskanzler wählt.
@@ -1403,11 +1391,11 @@ Stellvertreter.
 
 (2) Das Amt des Bundeskanzlers oder eines Bundesministers endigt in
 jedem Falle mit dem Zusammentritt eines neuen Bundestages, das Amt
-eines Bundesministers auch mit jeder anderen Erledigung des Amtes des
-Bundeskanzlers.
+eines Bundesministers auch mit jeder anderen Erledigung des Amtes
+des Bundeskanzlers.
 
-(3) Auf Ersuchen des Bundespräsidenten ist der Bundeskanzler, auf
-Ersuchen des Bundeskanzlers oder des Bundespräsidenten ein
+(3) Auf Ersuchen des Bundespräsidenten ist der Bundeskanzler,
+auf Ersuchen des Bundeskanzlers oder des Bundespräsidenten ein
 Bundesminister verpflichtet, die Geschäfte bis zur Ernennung seines
 Nachfolgers weiterzuführen.
 
@@ -1415,14 +1403,13 @@ Nachfolgers weiterzuführen.
 ## VII. - Die Gesetzgebung des Bundes
 
 
-
 ### Art 70
 
 (1) Die Länder haben das Recht der Gesetzgebung, soweit dieses
 Grundgesetz nicht dem Bunde Gesetzgebungsbefugnisse verleiht.
 
-(2) Die Abgrenzung der Zuständigkeit zwischen Bund und Ländern bemißt
-sich nach den Vorschriften dieses Grundgesetzes über die
+(2) Die Abgrenzung der Zuständigkeit zwischen Bund und Ländern
+bemißt sich nach den Vorschriften dieses Grundgesetzes über die
 ausschließliche und die konkurrierende Gesetzgebung.
 
 
@@ -1451,27 +1438,19 @@ treffen über:
 
 1.  das Jagdwesen (ohne das Recht der Jagdscheine);
 
-
 2.  den Naturschutz und die Landschaftspflege (ohne die allgemeinen
     Grundsätze des Naturschutzes, das Recht des Artenschutzes oder des
     Meeresnaturschutzes);
 
-
 3.  die Bodenverteilung;
-
 
 4.  die Raumordnung;
 
-
 5.  den Wasserhaushalt (ohne stoff- oder anlagenbezogene Regelungen);
-
 
 6.  die Hochschulzulassung und die Hochschulabschlüsse;
 
-
 7.  die Grundsteuer.
-
-
 
 Bundesgesetze auf diesen Gebieten treten frühestens sechs Monate nach
 ihrer Verkündung in Kraft, soweit nicht mit Zustimmung des Bundesrates
@@ -1490,46 +1469,35 @@ Absatzes 2 nicht mehr besteht, durch Landesrecht ersetzt werden kann.
 1.  die auswärtigen Angelegenheiten sowie die Verteidigung einschließlich
     des Schutzes der Zivilbevölkerung;
 
-
 2.  die Staatsangehörigkeit im Bunde;
-
 
 3.  die Freizügigkeit, das Paßwesen, das Melde- und Ausweiswesen, die Ein-
     und Auswanderung und die Auslieferung;
 
-
 4.  das Währungs-, Geld- und Münzwesen, Maße und Gewichte sowie die
     Zeitbestimmung;
-
 
 5.  die Einheit des Zoll- und Handelsgebietes, die Handels- und
     Schiffahrtsverträge, die Freizügigkeit des Warenverkehrs und den
     Waren- und Zahlungsverkehr mit dem Auslande einschließlich des Zoll-
     und Grenzschutzes;
 
-
 5a. den Schutz deutschen Kulturgutes gegen Abwanderung ins Ausland;
 
-
 6.  den Luftverkehr;
-
 
 6a. den Verkehr von Eisenbahnen, die ganz oder mehrheitlich im Eigentum
     des Bundes stehen (Eisenbahnen des Bundes), den Bau, die Unterhaltung
     und das Betreiben von Schienenwegen der Eisenbahnen des Bundes sowie
     die Erhebung von Entgelten für die Benutzung dieser Schienenwege;
 
-
 7.  das Postwesen und die Telekommunikation;
-
 
 8.  die Rechtsverhältnisse der im Dienste des Bundes und der
     bundesunmittelbaren Körperschaften des öffentlichen Rechtes stehenden
     Personen;
 
-
 9.  den gewerblichen Rechtsschutz, das Urheberrecht und das Verlagsrecht;
-
 
 9a. die Abwehr von Gefahren des internationalen Terrorismus durch das
     Bundeskriminalpolizeiamt in Fällen, in denen eine länderübergreifende
@@ -1537,48 +1505,33 @@ Absatzes 2 nicht mehr besteht, durch Landesrecht ersetzt werden kann.
     erkennbar ist oder die oberste Landesbehörde um eine Übernahme
     ersucht;
 
-
 10. die Zusammenarbeit des Bundes und der Länder
 
     a)  in der Kriminalpolizei,
 
-
-    b)  zum Schutze der freiheitlichen demokratischen Grundordnung, des
-        Bestandes und der Sicherheit des Bundes oder eines Landes
+    b)  zum Schutze der freiheitlichen demokratischen Grundordnung,
+        des Bestandes und der Sicherheit des Bundes oder eines Landes
         (Verfassungsschutz) und
-
 
     c)  zum Schutze gegen Bestrebungen im Bundesgebiet, die durch Anwendung
         von Gewalt oder darauf gerichtete Vorbereitungshandlungen auswärtige
         Belange der Bundesrepublik Deutschland gefährden,
 
-
-
-
     sowie die Einrichtung eines Bundeskriminalpolizeiamtes und die
     internationale Verbrechensbekämpfung;
 
-
-
-
 11. die Statistik für Bundeszwecke;
-
 
 12. das Waffen- und das Sprengstoffrecht;
 
-
 13. die Versorgung der Kriegsbeschädigten und Kriegshinterbliebenen und
     die Fürsorge für die ehemaligen Kriegsgefangenen;
-
 
 14. die Erzeugung und Nutzung der Kernenergie zu friedlichen Zwecken, die
     Errichtung und den Betrieb von Anlagen, die diesen Zwecken dienen, den
     Schutz gegen Gefahren, die bei Freiwerden von Kernenergie oder durch
     ionisierende Strahlen entstehen, und die Beseitigung radioaktiver
     Stoffe.
-
-
-
 
 (2) Gesetze nach Absatz 1 Nr. 9a bedürfen der Zustimmung des
 Bundesrates.
@@ -1593,34 +1546,24 @@ Gebiete:
     gerichtliche Verfahren (ohne das Recht des Untersuchungshaftvollzugs),
     die Rechtsanwaltschaft, das Notariat und die Rechtsberatung;
 
-
 2.  das Personenstandswesen;
-
 
 3.  das Vereinsrecht;
 
-
 4.  das Aufenthalts- und Niederlassungsrecht der Ausländer;
-
 
 5.  (weggefallen)
 
-
 6.  die Angelegenheiten der Flüchtlinge und Vertriebenen;
-
 
 7.  die öffentliche Fürsorge (ohne das Heimrecht);
 
-
 8.  (weggefallen)
-
 
 9.  die Kriegsschäden und die Wiedergutmachung;
 
-
 10. die Kriegsgräber und Gräber anderer Opfer des Krieges und Opfer von
     Gewaltherrschaft;
-
 
 11. das Recht der Wirtschaft (Bergbau, Industrie, Energiewirtschaft,
     Handwerk, Gewerbe, Handel, Bank- und Börsenwesen, privatrechtliches
@@ -1628,39 +1571,31 @@ Gebiete:
     Gaststätten, der Spielhallen, der Schaustellung von Personen, der
     Messen, der Ausstellungen und der Märkte;
 
-
-12. das Arbeitsrecht einschließlich der Betriebsverfassung, des
-    Arbeitsschutzes und der Arbeitsvermittlung sowie die
+12. das Arbeitsrecht einschließlich der Betriebsverfassung,
+    des Arbeitsschutzes und der Arbeitsvermittlung sowie die
     Sozialversicherung einschließlich der Arbeitslosenversicherung;
-
 
 13. die Regelung der Ausbildungsbeihilfen und die Förderung der
     wissenschaftlichen Forschung;
 
-
 14. das Recht der Enteignung, soweit sie auf den Sachgebieten der Artikel
     73 und 74 in Betracht kommt;
-
 
 15. die Überführung von Grund und Boden, von Naturschätzen und
     Produktionsmitteln in Gemeineigentum oder in andere Formen der
     Gemeinwirtschaft;
 
-
 16. die Verhütung des Mißbrauchs wirtschaftlicher Machtstellung;
-
 
 17. die Förderung der land- und forstwirtschaftlichen Erzeugung (ohne das
     Recht der Flurbereinigung), die Sicherung der Ernährung, die Ein- und
     Ausfuhr land- und forstwirtschaftlicher Erzeugnisse, die Hochsee- und
     Küstenfischerei und den Küstenschutz;
 
-
-18. den städtebaulichen Grundstücksverkehr, das Bodenrecht (ohne das Recht
-    der Erschließungsbeiträge) und das Wohngeldrecht, das
-    Altschuldenhilferecht, das Wohnungsbauprämienrecht, das
+18. den städtebaulichen Grundstücksverkehr, das Bodenrecht (ohne
+    das Recht der Erschließungsbeiträge) und das Wohngeldrecht,
+    das Altschuldenhilferecht, das Wohnungsbauprämienrecht, das
     Bergarbeiterwohnungsbaurecht und das Bergmannssiedlungsrecht;
-
 
 19. Maßnahmen gegen gemeingefährliche oder übertragbare Krankheiten bei
     Menschen und Tieren, Zulassung zu ärztlichen und anderen Heilberufen
@@ -1668,76 +1603,57 @@ Gebiete:
     Arzneien, der Medizinprodukte, der Heilmittel, der Betäubungsmittel
     und der Gifte;
 
-
 19a. die wirtschaftliche Sicherung der Krankenhäuser und die Regelung der
-    Krankenhauspflegesätze;
-
+     Krankenhauspflegesätze;
 
 20. das Recht der Lebensmittel einschließlich der ihrer Gewinnung
-    dienenden Tiere, das Recht der Genussmittel, Bedarfsgegenstände und
-    Futtermittel sowie den Schutz beim Verkehr mit land- und
+    dienenden Tiere, das Recht der Genussmittel, Bedarfsgegenstände
+    und Futtermittel sowie den Schutz beim Verkehr mit land- und
     forstwirtschaftlichem Saat- und Pflanzgut, den Schutz der Pflanzen
     gegen Krankheiten und Schädlinge sowie den Tierschutz;
-
 
 21. die Hochsee- und Küstenschiffahrt sowie die Seezeichen, die
     Binnenschiffahrt, den Wetterdienst, die Seewasserstraßen und die dem
     allgemeinen Verkehr dienenden Binnenwasserstraßen;
 
-
 22. den Straßenverkehr, das Kraftfahrwesen, den Bau und die Unterhaltung
     von Landstraßen für den Fernverkehr sowie die Erhebung und Verteilung
-    von Gebühren oder Entgelten für die Benutzung öffentlicher Straßen mit
-    Fahrzeugen;
-
+    von Gebühren oder Entgelten für die Benutzung öffentlicher Straßen
+    mit Fahrzeugen;
 
 23. die Schienenbahnen, die nicht Eisenbahnen des Bundes sind, mit
     Ausnahme der Bergbahnen;
 
-
 24. die Abfallwirtschaft, die Luftreinhaltung und die Lärmbekämpfung (ohne
     Schutz vor verhaltensbezogenem Lärm);
 
-
 25. die Staatshaftung;
-
 
 26. die medizinisch unterstützte Erzeugung menschlichen Lebens, die
     Untersuchung und die künstliche Veränderung von Erbinformationen sowie
     Regelungen zur Transplantation von Organen, Geweben und Zellen;
 
-
 27. die Statusrechte und -pflichten der Beamten der Länder, Gemeinden und
     anderen Körperschaften des öffentlichen Rechts sowie der Richter in
     den Ländern mit Ausnahme der Laufbahnen, Besoldung und Versorgung;
 
-
 28. das Jagdwesen;
-
 
 29. den Naturschutz und die Landschaftspflege;
 
-
 30. die Bodenverteilung;
-
 
 31. die Raumordnung;
 
-
 32. den Wasserhaushalt;
 
-
 33. die Hochschulzulassung und die Hochschulabschlüsse.
-
-
-
 
 (2) Gesetze nach Absatz 1 Nr. 25 und 27 bedürfen der Zustimmung des
 Bundesrates.
 
 
 ### (XXXX) Art 74a und 75 (weggefallen)
-
 
 
 ### Art 76
@@ -1748,30 +1664,30 @@ aus der Mitte des Bundestages oder durch den Bundesrat eingebracht.
 (2) Vorlagen der Bundesregierung sind zunächst dem Bundesrat
 zuzuleiten. Der Bundesrat ist berechtigt, innerhalb von sechs Wochen
 zu diesen Vorlagen Stellung zu nehmen. Verlangt er aus wichtigem
-Grunde, insbesondere mit Rücksicht auf den Umfang einer Vorlage, eine
-Fristverlängerung, so beträgt die Frist neun Wochen. Die
+Grunde, insbesondere mit Rücksicht auf den Umfang einer Vorlage,
+eine Fristverlängerung, so beträgt die Frist neun Wochen. Die
 Bundesregierung kann eine Vorlage, die sie bei der Zuleitung an den
 Bundesrat ausnahmsweise als besonders eilbedürftig bezeichnet hat,
-nach drei Wochen oder, wenn der Bundesrat ein Verlangen nach Satz 3
-geäußert hat, nach sechs Wochen dem Bundestag zuleiten, auch wenn die
-Stellungnahme des Bundesrates noch nicht bei ihr eingegangen ist; sie
-hat die Stellungnahme des Bundesrates unverzüglich nach Eingang dem
-Bundestag nachzureichen. Bei Vorlagen zur Änderung dieses
+nach drei Wochen oder, wenn der Bundesrat ein Verlangen nach Satz
+3 geäußert hat, nach sechs Wochen dem Bundestag zuleiten, auch wenn
+die Stellungnahme des Bundesrates noch nicht bei ihr eingegangen
+ist; sie hat die Stellungnahme des Bundesrates unverzüglich nach
+Eingang dem Bundestag nachzureichen. Bei Vorlagen zur Änderung dieses
 Grundgesetzes und zur Übertragung von Hoheitsrechten nach Artikel 23
 oder Artikel 24 beträgt die Frist zur Stellungnahme neun Wochen; Satz
 4 findet keine Anwendung.
 
 (3) Vorlagen des Bundesrates sind dem Bundestag durch die
 Bundesregierung innerhalb von sechs Wochen zuzuleiten. Sie soll
-hierbei ihre Auffassung darlegen. Verlangt sie aus wichtigem Grunde,
-insbesondere mit Rücksicht auf den Umfang einer Vorlage, eine
-Fristverlängerung, so beträgt die Frist neun Wochen. Wenn der
+hierbei ihre Auffassung darlegen. Verlangt sie aus wichtigem
+Grunde, insbesondere mit Rücksicht auf den Umfang einer Vorlage,
+eine Fristverlängerung, so beträgt die Frist neun Wochen. Wenn der
 Bundesrat eine Vorlage ausnahmsweise als besonders eilbedürftig
 bezeichnet hat, beträgt die Frist drei Wochen oder, wenn die
 Bundesregierung ein Verlangen nach Satz 3 geäußert hat, sechs Wochen.
-Bei Vorlagen zur Änderung dieses Grundgesetzes und zur Übertragung von
-Hoheitsrechten nach Artikel 23 oder Artikel 24 beträgt die Frist neun
-Wochen; Satz 4 findet keine Anwendung. Der Bundestag hat über die
+Bei Vorlagen zur Änderung dieses Grundgesetzes und zur Übertragung
+von Hoheitsrechten nach Artikel 23 oder Artikel 24 beträgt die Frist
+neun Wochen; Satz 4 findet keine Anwendung. Der Bundestag hat über die
 Vorlagen in angemessener Frist zu beraten und Beschluß zu fassen.
 
 
@@ -1788,21 +1704,21 @@ gebildeter Ausschuß einberufen wird. Die Zusammensetzung und das
 Verfahren dieses Ausschusses regelt eine Geschäftsordnung, die vom
 Bundestag beschlossen wird und der Zustimmung des Bundesrates bedarf.
 Die in diesen Ausschuß entsandten Mitglieder des Bundesrates sind
-nicht an Weisungen gebunden. Ist zu einem Gesetze die Zustimmung des
-Bundesrates erforderlich, so können auch der Bundestag und die
+nicht an Weisungen gebunden. Ist zu einem Gesetze die Zustimmung
+des Bundesrates erforderlich, so können auch der Bundestag und die
 Bundesregierung die Einberufung verlangen. Schlägt der Ausschuß eine
 Änderung des Gesetzesbeschlusses vor, so hat der Bundestag erneut
 Beschluß zu fassen.
 
 (2a) Soweit zu einem Gesetz die Zustimmung des Bundesrates
-erforderlich ist, hat der Bundesrat, wenn ein Verlangen nach Absatz 2
-Satz 1 nicht gestellt oder das Vermittlungsverfahren ohne einen
+erforderlich ist, hat der Bundesrat, wenn ein Verlangen nach Absatz
+2 Satz 1 nicht gestellt oder das Vermittlungsverfahren ohne einen
 Vorschlag zur Änderung des Gesetzesbeschlusses beendet ist, in
 angemessener Frist über die Zustimmung Beschluß zu fassen.
 
 (3) Soweit zu einem Gesetze die Zustimmung des Bundesrates nicht
-erforderlich ist, kann der Bundesrat, wenn das Verfahren nach Absatz 2
-beendigt ist, gegen ein vom Bundestage beschlossenes Gesetz binnen
+erforderlich ist, kann der Bundesrat, wenn das Verfahren nach Absatz
+2 beendigt ist, gegen ein vom Bundestage beschlossenes Gesetz binnen
 zwei Wochen Einspruch einlegen. Die Einspruchsfrist beginnt im Falle
 des Absatzes 2 letzter Satz mit dem Eingange des vom Bundestage erneut
 gefaßten Beschlusses, in allen anderen Fällen mit dem Eingange der
@@ -1810,12 +1726,12 @@ Mitteilung des Vorsitzenden des in Absatz 2 vorgesehenen Ausschusses,
 daß das Verfahren vor dem Ausschusse abgeschlossen ist.
 
 (4) Wird der Einspruch mit der Mehrheit der Stimmen des Bundesrates
-beschlossen, so kann er durch Beschluß der Mehrheit der Mitglieder des
-Bundestages zurückgewiesen werden. Hat der Bundesrat den Einspruch mit
-einer Mehrheit von mindestens zwei Dritteln seiner Stimmen
+beschlossen, so kann er durch Beschluß der Mehrheit der Mitglieder
+des Bundestages zurückgewiesen werden. Hat der Bundesrat den Einspruch
+mit einer Mehrheit von mindestens zwei Dritteln seiner Stimmen
 beschlossen, so bedarf die Zurückweisung durch den Bundestag einer
-Mehrheit von zwei Dritteln, mindestens der Mehrheit der Mitglieder des
-Bundestages.
+Mehrheit von zwei Dritteln, mindestens der Mehrheit der Mitglieder
+des Bundestages.
 
 
 ### Art 78
@@ -1829,10 +1745,10 @@ wird.
 
 ### Art 79
 
-(1) Das Grundgesetz kann nur durch ein Gesetz geändert werden, das den
-Wortlaut des Grundgesetzes ausdrücklich ändert oder ergänzt. Bei
-völkerrechtlichen Verträgen, die eine Friedensregelung, die
-Vorbereitung einer Friedensregelung oder den Abbau einer
+(1) Das Grundgesetz kann nur durch ein Gesetz geändert werden, das
+den Wortlaut des Grundgesetzes ausdrücklich ändert oder ergänzt.
+Bei völkerrechtlichen Verträgen, die eine Friedensregelung,
+die Vorbereitung einer Friedensregelung oder den Abbau einer
 besatzungsrechtlichen Ordnung zum Gegenstand haben oder der
 Verteidigung der Bundesrepublik zu dienen bestimmt sind, genügt zur
 Klarstellung, daß die Bestimmungen des Grundgesetzes dem Abschluß und
@@ -1840,35 +1756,35 @@ dem Inkraftsetzen der Verträge nicht entgegenstehen, eine Ergänzung
 des Wortlautes des Grundgesetzes, die sich auf diese Klarstellung
 beschränkt.
 
-(2) Ein solches Gesetz bedarf der Zustimmung von zwei Dritteln der
-Mitglieder des Bundestages und zwei Dritteln der Stimmen des
+(2) Ein solches Gesetz bedarf der Zustimmung von zwei Dritteln
+der Mitglieder des Bundestages und zwei Dritteln der Stimmen des
 Bundesrates.
 
 (3) Eine Änderung dieses Grundgesetzes, durch welche die Gliederung
-des Bundes in Länder, die grundsätzliche Mitwirkung der Länder bei der
-Gesetzgebung oder die in den Artikeln 1 und 20 niedergelegten
+des Bundes in Länder, die grundsätzliche Mitwirkung der Länder bei
+der Gesetzgebung oder die in den Artikeln 1 und 20 niedergelegten
 Grundsätze berührt werden, ist unzulässig.
 
 
 ### Art 80
 
-(1) Durch Gesetz können die Bundesregierung, ein Bundesminister oder
-die Landesregierungen ermächtigt werden, Rechtsverordnungen zu
-erlassen. Dabei müssen Inhalt, Zweck und Ausmaß der erteilten
-Ermächtigung im Gesetze bestimmt werden. Die Rechtsgrundlage ist in
-der Verordnung anzugeben. Ist durch Gesetz vorgesehen, daß eine
-Ermächtigung weiter übertragen werden kann, so bedarf es zur
+(1) Durch Gesetz können die Bundesregierung, ein Bundesminister
+oder die Landesregierungen ermächtigt werden, Rechtsverordnungen
+zu erlassen. Dabei müssen Inhalt, Zweck und Ausmaß der erteilten
+Ermächtigung im Gesetze bestimmt werden. Die Rechtsgrundlage ist
+in der Verordnung anzugeben. Ist durch Gesetz vorgesehen, daß
+eine Ermächtigung weiter übertragen werden kann, so bedarf es zur
 Übertragung der Ermächtigung einer Rechtsverordnung.
 
 (2) Der Zustimmung des Bundesrates bedürfen, vorbehaltlich
 anderweitiger bundesgesetzlicher Regelung, Rechtsverordnungen der
 Bundesregierung oder eines Bundesministers über Grundsätze und
 Gebühren für die Benutzung der Einrichtungen des Postwesens und der
-Telekommunikation, über die Grundsätze der Erhebung des Entgelts für
-die Benutzung der Einrichtungen der Eisenbahnen des Bundes, über den
-Bau und Betrieb der Eisenbahnen, sowie Rechtsverordnungen auf Grund
-von Bundesgesetzen, die der Zustimmung des Bundesrates bedürfen oder
-die von den Ländern im Auftrage des Bundes oder als eigene
+Telekommunikation, über die Grundsätze der Erhebung des Entgelts
+für die Benutzung der Einrichtungen der Eisenbahnen des Bundes, über
+den Bau und Betrieb der Eisenbahnen, sowie Rechtsverordnungen auf
+Grund von Bundesgesetzen, die der Zustimmung des Bundesrates bedürfen
+oder die von den Ländern im Auftrage des Bundes oder als eigene
 Angelegenheit ausgeführt werden.
 
 (3) Der Bundesrat kann der Bundesregierung Vorlagen für den Erlaß von
@@ -1881,15 +1797,15 @@ sind die Länder zu einer Regelung auch durch Gesetz befugt.
 
 ### Art 80a
 
-(1) Ist in diesem Grundgesetz oder in einem Bundesgesetz über die
-Verteidigung einschließlich des Schutzes der Zivilbevölkerung
-bestimmt, daß Rechtsvorschriften nur nach Maßgabe dieses Artikels
-angewandt werden dürfen, so ist die Anwendung außer im
+(1) Ist in diesem Grundgesetz oder in einem Bundesgesetz über
+die Verteidigung einschließlich des Schutzes der Zivilbevölkerung
+bestimmt, daß Rechtsvorschriften nur nach Maßgabe dieses
+Artikels angewandt werden dürfen, so ist die Anwendung außer im
 Verteidigungsfalle nur zulässig, wenn der Bundestag den Eintritt des
 Spannungsfalles festgestellt oder wenn er der Anwendung besonders
 zugestimmt hat. Die Feststellung des Spannungsfalles und die besondere
-Zustimmung in den Fällen des Artikels 12a Abs. 5 Satz 1 und Abs. 6
-Satz 2 bedürfen einer Mehrheit von zwei Dritteln der abgegebenen
+Zustimmung in den Fällen des Artikels 12a Abs. 5 Satz 1 und Abs.
+6 Satz 2 bedürfen einer Mehrheit von zwei Dritteln der abgegebenen
 Stimmen.
 
 (2) Maßnahmen auf Grund von Rechtsvorschriften nach Absatz 1 sind
@@ -1923,8 +1839,8 @@ Wochen nach der erneuten Einbringung verabschiedet wird.
 (3) Während der Amtszeit eines Bundeskanzlers kann auch jede andere
 vom Bundestage abgelehnte Gesetzesvorlage innerhalb einer Frist von
 sechs Monaten nach der ersten Erklärung des Gesetzgebungsnotstandes
-gemäß Absatz 1 und 2 verabschiedet werden. Nach Ablauf der Frist ist
-während der Amtszeit des gleichen Bundeskanzlers eine weitere
+gemäß Absatz 1 und 2 verabschiedet werden. Nach Ablauf der Frist
+ist während der Amtszeit des gleichen Bundeskanzlers eine weitere
 Erklärung des Gesetzgebungsnotstandes unzulässig.
 
 (4) Das Grundgesetz darf durch ein Gesetz, das nach Absatz 2 zustande
@@ -1936,9 +1852,11 @@ Anwendung gesetzt werden.
 
 (1) Die nach den Vorschriften dieses Grundgesetzes zustande gekommenen
 Gesetze werden vom Bundespräsidenten nach Gegenzeichnung ausgefertigt
-und im Bundesgesetzblatte verkündet. Rechtsverordnungen werden von der
-Stelle, die sie erläßt, ausgefertigt und vorbehaltlich anderweitiger
-gesetzlicher Regelung im Bundesgesetzblatte verkündet.
+und im Bundesgesetzblatt verkündet. Das Bundesgesetzblatt kann in
+elektronischer Form geführt werden. Rechtsverordnungen werden von
+der Stelle, die sie erlässt, ausgefertigt. Das Nähere zur Verkündung
+und zur Form von Gegenzeichnung und Ausfertigung von Gesetzen und
+Rechtsverordnungen regelt ein Bundesgesetz.
 
 (2) Jedes Gesetz und jede Rechtsverordnung soll den Tag des
 Inkrafttretens bestimmen. Fehlt eine solche Bestimmung, so treten sie
@@ -1949,7 +1867,6 @@ Bundesgesetzblatt ausgegeben worden ist.
 ## VIII. - Die Ausführung der Bundesgesetze und die Bundesverwaltung
 
 
-
 ### Art 83
 
 Die Länder führen die Bundesgesetze als eigene Angelegenheit aus,
@@ -1958,18 +1875,18 @@ soweit dieses Grundgesetz nichts anderes bestimmt oder zuläßt.
 
 ### Art 84
 
-(1) Führen die Länder die Bundesgesetze als eigene Angelegenheit aus,
-so regeln sie die Einrichtung der Behörden und das
+(1) Führen die Länder die Bundesgesetze als eigene Angelegenheit
+aus, so regeln sie die Einrichtung der Behörden und das
 Verwaltungsverfahren. Wenn Bundesgesetze etwas anderes bestimmen,
 können die Länder davon abweichende Regelungen treffen. Hat ein Land
-eine abweichende Regelung nach Satz 2 getroffen, treten in diesem Land
-hierauf bezogene spätere bundesgesetzliche Regelungen der Einrichtung
-der Behörden und des Verwaltungsverfahrens frühestens sechs Monate
-nach ihrer Verkündung in Kraft, soweit nicht mit Zustimmung des
-Bundesrates anderes bestimmt ist. Artikel 72 Abs. 3 Satz 3 gilt
-entsprechend. In Ausnahmefällen kann der Bund wegen eines besonderen
-Bedürfnisses nach bundeseinheitlicher Regelung das
-Verwaltungsverfahren ohne Abweichungsmöglichkeit für die Länder
+eine abweichende Regelung nach Satz 2 getroffen, treten in diesem
+Land hierauf bezogene spätere bundesgesetzliche Regelungen der
+Einrichtung der Behörden und des Verwaltungsverfahrens frühestens
+sechs Monate nach ihrer Verkündung in Kraft, soweit nicht mit
+Zustimmung des Bundesrates anderes bestimmt ist. Artikel 72 Abs.
+3 Satz 3 gilt entsprechend. In Ausnahmefällen kann der Bund wegen
+eines besonderen Bedürfnisses nach bundeseinheitlicher Regelung
+das Verwaltungsverfahren ohne Abweichungsmöglichkeit für die Länder
 regeln. Diese Gesetze bedürfen der Zustimmung des Bundesrates. Durch
 Bundesgesetz dürfen Gemeinden und Gemeindeverbänden Aufgaben nicht
 übertragen werden.
@@ -1977,16 +1894,16 @@ Bundesgesetz dürfen Gemeinden und Gemeindeverbänden Aufgaben nicht
 (2) Die Bundesregierung kann mit Zustimmung des Bundesrates allgemeine
 Verwaltungsvorschriften erlassen.
 
-(3) Die Bundesregierung übt die Aufsicht darüber aus, daß die Länder
-die Bundesgesetze dem geltenden Rechte gemäß ausführen. Die
+(3) Die Bundesregierung übt die Aufsicht darüber aus, daß die
+Länder die Bundesgesetze dem geltenden Rechte gemäß ausführen. Die
 Bundesregierung kann zu diesem Zwecke Beauftragte zu den obersten
 Landesbehörden entsenden, mit deren Zustimmung und, falls diese
 Zustimmung versagt wird, mit Zustimmung des Bundesrates auch zu den
 nachgeordneten Behörden.
 
 (4) Werden Mängel, die die Bundesregierung bei der Ausführung der
-Bundesgesetze in den Ländern festgestellt hat, nicht beseitigt, so
-beschließt auf Antrag der Bundesregierung oder des Landes der
+Bundesgesetze in den Ländern festgestellt hat, nicht beseitigt,
+so beschließt auf Antrag der Bundesregierung oder des Landes der
 Bundesrat, ob das Land das Recht verletzt hat. Gegen den Beschluß des
 Bundesrates kann das Bundesverfassungsgericht angerufen werden.
 
@@ -2028,19 +1945,19 @@ Führt der Bund die Gesetze durch bundeseigene Verwaltung oder durch
 bundesunmittelbare Körperschaften oder Anstalten des öffentlichen
 Rechtes aus, so erläßt die Bundesregierung, soweit nicht das Gesetz
 Besonderes vorschreibt, die allgemeinen Verwaltungsvorschriften. Sie
-regelt, soweit das Gesetz nichts anderes bestimmt, die Einrichtung der
-Behörden.
+regelt, soweit das Gesetz nichts anderes bestimmt, die Einrichtung
+der Behörden.
 
 
 ### Art 87
 
 (1) In bundeseigener Verwaltung mit eigenem Verwaltungsunterbau werden
 geführt der Auswärtige Dienst, die Bundesfinanzverwaltung und nach
-Maßgabe des Artikels 89 die Verwaltung der Bundeswasserstraßen und der
-Schiffahrt. Durch Bundesgesetz können Bundesgrenzschutzbehörden,
+Maßgabe des Artikels 89 die Verwaltung der Bundeswasserstraßen und
+der Schiffahrt. Durch Bundesgesetz können Bundesgrenzschutzbehörden,
 Zentralstellen für das polizeiliche Auskunfts- und Nachrichtenwesen,
-für die Kriminalpolizei und zur Sammlung von Unterlagen für Zwecke des
-Verfassungsschutzes und des Schutzes gegen Bestrebungen im
+für die Kriminalpolizei und zur Sammlung von Unterlagen für Zwecke
+des Verfassungsschutzes und des Schutzes gegen Bestrebungen im
 Bundesgebiet, die durch Anwendung von Gewalt oder darauf gerichtete
 Vorbereitungshandlungen auswärtige Belange der Bundesrepublik
 Deutschland gefährden, eingerichtet werden.
@@ -2049,8 +1966,8 @@ Deutschland gefährden, eingerichtet werden.
 werden diejenigen sozialen Versicherungsträger geführt, deren
 Zuständigkeitsbereich sich über das Gebiet eines Landes hinaus
 erstreckt. Soziale Versicherungsträger, deren Zuständigkeitsbereich
-sich über das Gebiet eines Landes, aber nicht über mehr als drei
-Länder hinaus erstreckt, werden abweichend von Satz 1 als
+sich über das Gebiet eines Landes, aber nicht über mehr als
+drei Länder hinaus erstreckt, werden abweichend von Satz 1 als
 landesunmittelbare Körperschaften des öffentlichen Rechtes geführt,
 wenn das aufsichtsführende Land durch die beteiligten Länder bestimmt
 ist.
@@ -2071,13 +1988,20 @@ Bundestages errichtet werden.
 zahlenmäßige Stärke und die Grundzüge ihrer Organisation müssen sich
 aus dem Haushaltsplan ergeben.
 
+(1a) Zur Stärkung der Bündnis- und Verteidigungsfähigkeit kann
+der Bund ein Sondervermögen für die Bundeswehr mit eigener
+Kreditermächtigung in Höhe von einmalig bis zu 100 Milliarden Euro
+errichten. Auf die Kreditermächtigung sind Artikel 109 Absatz 3
+und Artikel 115 Absatz 2 nicht anzuwenden. Das Nähere regelt ein
+Bundesgesetz.
+
 (2) Außer zur Verteidigung dürfen die Streitkräfte nur eingesetzt
 werden, soweit dieses Grundgesetz es ausdrücklich zuläßt.
 
-(3) Die Streitkräfte haben im Verteidigungsfalle und im Spannungsfalle
-die Befugnis, zivile Objekte zu schützen und Aufgaben der
-Verkehrsregelung wahrzunehmen, soweit dies zur Erfüllung ihres
-Verteidigungsauftrages erforderlich ist. Außerdem kann den
+(3) Die Streitkräfte haben im Verteidigungsfalle und im
+Spannungsfalle die Befugnis, zivile Objekte zu schützen und Aufgaben
+der Verkehrsregelung wahrzunehmen, soweit dies zur Erfüllung
+ihres Verteidigungsauftrages erforderlich ist. Außerdem kann den
 Streitkräften im Verteidigungsfalle und im Spannungsfalle der Schutz
 ziviler Objekte auch zur Unterstützung polizeilicher Maßnahmen
 übertragen werden; die Streitkräfte wirken dabei mit den zuständigen
@@ -2096,27 +2020,27 @@ Bundestag oder der Bundesrat es verlangen.
 
 ### Art 87b
 
-(1) Die Bundeswehrverwaltung wird in bundeseigener Verwaltung mit
-eigenem Verwaltungsunterbau geführt. Sie dient den Aufgaben des
-Personalwesens und der unmittelbaren Deckung des Sachbedarfs der
-Streitkräfte. Aufgaben der Beschädigtenversorgung und des Bauwesens
-können der Bundeswehrverwaltung nur durch Bundesgesetz, das der
-Zustimmung des Bundesrates bedarf, übertragen werden. Der Zustimmung
-des Bundesrates bedürfen ferner Gesetze, soweit sie die
+(1) Die Bundeswehrverwaltung wird in bundeseigener Verwaltung
+mit eigenem Verwaltungsunterbau geführt. Sie dient den Aufgaben
+des Personalwesens und der unmittelbaren Deckung des Sachbedarfs
+der Streitkräfte. Aufgaben der Beschädigtenversorgung und des
+Bauwesens können der Bundeswehrverwaltung nur durch Bundesgesetz,
+das der Zustimmung des Bundesrates bedarf, übertragen werden. Der
+Zustimmung des Bundesrates bedürfen ferner Gesetze, soweit sie die
 Bundeswehrverwaltung zu Eingriffen in Rechte Dritter ermächtigen; das
 gilt nicht für Gesetze auf dem Gebiete des Personalwesens.
 
 (2) Im übrigen können Bundesgesetze, die der Verteidigung
 einschließlich des Wehrersatzwesens und des Schutzes der
-Zivilbevölkerung dienen, mit Zustimmung des Bundesrates bestimmen, daß
-sie ganz oder teilweise in bundeseigener Verwaltung mit eigenem
+Zivilbevölkerung dienen, mit Zustimmung des Bundesrates bestimmen,
+daß sie ganz oder teilweise in bundeseigener Verwaltung mit eigenem
 Verwaltungsunterbau oder von den Ländern im Auftrage des Bundes
 ausgeführt werden. Werden solche Gesetze von den Ländern im Auftrage
 des Bundes ausgeführt, so können sie mit Zustimmung des Bundesrates
 bestimmen, daß die der Bundesregierung und den zuständigen obersten
-Bundesbehörden auf Grund des Artikels 85 zustehenden Befugnisse ganz
-oder teilweise Bundesoberbehörden übertragen werden; dabei kann
-bestimmt werden, daß diese Behörden beim Erlaß allgemeiner
+Bundesbehörden auf Grund des Artikels 85 zustehenden Befugnisse
+ganz oder teilweise Bundesoberbehörden übertragen werden; dabei
+kann bestimmt werden, daß diese Behörden beim Erlaß allgemeiner
 Verwaltungsvorschriften gemäß Artikel 85 Abs. 2 Satz 1 nicht der
 Zustimmung des Bundesrates bedürfen.
 
@@ -2132,12 +2056,12 @@ Auftrage des Bundes ausgeführt werden.
 
 (1) Die Luftverkehrsverwaltung wird in Bundesverwaltung geführt.
 Aufgaben der Flugsicherung können auch durch ausländische
-Flugsicherungsorganisationen wahrgenommen werden, die nach Recht der
-Europäischen Gemeinschaft zugelassen sind. Das Nähere regelt ein
+Flugsicherungsorganisationen wahrgenommen werden, die nach Recht
+der Europäischen Gemeinschaft zugelassen sind. Das Nähere regelt ein
 Bundesgesetz.
 
-(2) Durch Bundesgesetz, das der Zustimmung des Bundesrates bedarf,
-können Aufgaben der Luftverkehrsverwaltung den Ländern als
+(2) Durch Bundesgesetz, das der Zustimmung des Bundesrates
+bedarf, können Aufgaben der Luftverkehrsverwaltung den Ländern als
 Auftragsverwaltung übertragen werden.
 
 
@@ -2153,26 +2077,26 @@ hinausgehenden Aufgaben der Eisenbahnverkehrsverwaltung wahr, die ihm
 durch Bundesgesetz übertragen werden.
 
 (3) Eisenbahnen des Bundes werden als Wirtschaftsunternehmen in
-privat-rechtlicher Form geführt. Diese stehen im Eigentum des Bundes,
-soweit die Tätigkeit des Wirtschaftsunternehmens den Bau, die
-Unterhaltung und das Betreiben von Schienenwegen umfaßt. Die
+privat-rechtlicher Form geführt. Diese stehen im Eigentum des
+Bundes, soweit die Tätigkeit des Wirtschaftsunternehmens den Bau,
+die Unterhaltung und das Betreiben von Schienenwegen umfaßt. Die
 Veräußerung von Anteilen des Bundes an den Unternehmen nach Satz 2
 erfolgt auf Grund eines Gesetzes; die Mehrheit der Anteile an diesen
 Unternehmen verbleibt beim Bund. Das Nähere wird durch Bundesgesetz
 geregelt.
 
 (4) Der Bund gewährleistet, daß dem Wohl der Allgemeinheit,
-insbesondere den Verkehrsbedürfnissen, beim Ausbau und Erhalt des
-Schienennetzes der Eisenbahnen des Bundes sowie bei deren
+insbesondere den Verkehrsbedürfnissen, beim Ausbau und Erhalt
+des Schienennetzes der Eisenbahnen des Bundes sowie bei deren
 Verkehrsangeboten auf diesem Schienennetz, soweit diese nicht den
 Schienenpersonennahverkehr betreffen, Rechnung getragen wird. Das
 Nähere wird durch Bundesgesetz geregelt.
 
-(5) Gesetze auf Grund der Absätze 1 bis 4 bedürfen der Zustimmung des
-Bundesrates. Der Zustimmung des Bundesrates bedürfen ferner Gesetze,
-die die Auflösung, die Verschmelzung und die Aufspaltung von
-Eisenbahnunternehmen des Bundes, die Übertragung von Schienenwegen der
-Eisenbahnen des Bundes an Dritte sowie die Stillegung von
+(5) Gesetze auf Grund der Absätze 1 bis 4 bedürfen der Zustimmung
+des Bundesrates. Der Zustimmung des Bundesrates bedürfen ferner
+Gesetze, die die Auflösung, die Verschmelzung und die Aufspaltung von
+Eisenbahnunternehmen des Bundes, die Übertragung von Schienenwegen
+der Eisenbahnen des Bundes an Dritte sowie die Stillegung von
 Schienenwegen der Eisenbahnen des Bundes regeln oder Auswirkungen auf
 den Schienenpersonennahverkehr haben.
 
@@ -2230,12 +2154,12 @@ Bundesstraßen des Fernverkehrs. Das Eigentum ist unveräußerlich.
 
 (2) Die Verwaltung der Bundesautobahnen wird in Bundesverwaltung
 geführt. Der Bund kann sich zur Erledigung seiner Aufgaben einer
-Gesellschaft privaten Rechts bedienen. Diese Gesellschaft steht im
-unveräußerlichen Eigentum des Bundes. Eine unmittelbare oder
+Gesellschaft privaten Rechts bedienen. Diese Gesellschaft steht
+im unveräußerlichen Eigentum des Bundes. Eine unmittelbare oder
 mittelbare Beteiligung Dritter an der Gesellschaft und deren
-Tochtergesellschaften ist ausgeschlossen. Eine Beteiligung Privater im
-Rahmen von Öffentlich-Privaten Partnerschaften ist ausgeschlossen für
-Streckennetze, die das gesamte Bundesautobahnnetz oder das gesamte
+Tochtergesellschaften ist ausgeschlossen. Eine Beteiligung Privater
+im Rahmen von Öffentlich-Privaten Partnerschaften ist ausgeschlossen
+für Streckennetze, die das gesamte Bundesautobahnnetz oder das gesamte
 Netz sonstiger Bundesfernstraßen in einem Land oder wesentliche Teile
 davon umfassen. Das Nähere regelt ein Bundesgesetz.
 
@@ -2251,25 +2175,24 @@ Bundesverwaltung übernehmen.
 ### Art 91
 
 (1) Zur Abwehr einer drohenden Gefahr für den Bestand oder die
-freiheitliche demokratische Grundordnung des Bundes oder eines Landes
-kann ein Land Polizeikräfte anderer Länder sowie Kräfte und
-Einrichtungen anderer Verwaltungen und des Bundesgrenzschutzes
+freiheitliche demokratische Grundordnung des Bundes oder eines
+Landes kann ein Land Polizeikräfte anderer Länder sowie Kräfte
+und Einrichtungen anderer Verwaltungen und des Bundesgrenzschutzes
 anfordern.
 
 (2) Ist das Land, in dem die Gefahr droht, nicht selbst zur Bekämpfung
-der Gefahr bereit oder in der Lage, so kann die Bundesregierung die
-Polizei in diesem Lande und die Polizeikräfte anderer Länder ihren
-Weisungen unterstellen sowie Einheiten des Bundesgrenzschutzes
+der Gefahr bereit oder in der Lage, so kann die Bundesregierung
+die Polizei in diesem Lande und die Polizeikräfte anderer Länder
+ihren Weisungen unterstellen sowie Einheiten des Bundesgrenzschutzes
 einsetzen. Die Anordnung ist nach Beseitigung der Gefahr, im übrigen
-jederzeit auf Verlangen des Bundesrates aufzuheben. Erstreckt sich die
-Gefahr auf das Gebiet mehr als eines Landes, so kann die
+jederzeit auf Verlangen des Bundesrates aufzuheben. Erstreckt
+sich die Gefahr auf das Gebiet mehr als eines Landes, so kann die
 Bundesregierung, soweit es zur wirksamen Bekämpfung erforderlich ist,
 den Landesregierungen Weisungen erteilen; Satz 1 und Satz 2 bleiben
 unberührt.
 
 
 ## VIIIa. - Gemeinschaftsaufgaben, Verwaltungszusammenarbeit
-
 
 
 ### Art 91a
@@ -2281,31 +2204,27 @@ Lebensverhältnisse erforderlich ist (Gemeinschaftsaufgaben):
 
 1.  Verbesserung der regionalen Wirtschaftsstruktur,
 
-
 2.  Verbesserung der Agrarstruktur und des Küstenschutzes.
-
-
-
 
 (2) Durch Bundesgesetz mit Zustimmung des Bundesrates werden die
 Gemeinschaftsaufgaben sowie Einzelheiten der Koordinierung näher
 bestimmt.
 
-(3) Der Bund trägt in den Fällen des Absatzes 1 Nr. 1 die Hälfte der
-Ausgaben in jedem Land. In den Fällen des Absatzes 1 Nr. 2 trägt der
-Bund mindestens die Hälfte; die Beteiligung ist für alle Länder
-einheitlich festzusetzen. Das Nähere regelt das Gesetz. Die
-Bereitstellung der Mittel bleibt der Feststellung in den
+(3) Der Bund trägt in den Fällen des Absatzes 1 Nr. 1 die Hälfte
+der Ausgaben in jedem Land. In den Fällen des Absatzes 1 Nr. 2
+trägt der Bund mindestens die Hälfte; die Beteiligung ist für alle
+Länder einheitlich festzusetzen. Das Nähere regelt das Gesetz.
+Die Bereitstellung der Mittel bleibt der Feststellung in den
 Haushaltsplänen des Bundes und der Länder vorbehalten.
 
 
 ### Art 91b
 
 (1) Bund und Länder können auf Grund von Vereinbarungen in Fällen
-überregionaler Bedeutung bei der Förderung von Wissenschaft, Forschung
-und Lehre zusammenwirken. Vereinbarungen, die im Schwerpunkt
-Hochschulen betreffen, bedürfen der Zustimmung aller Länder. Dies gilt
-nicht für Vereinbarungen über Forschungsbauten einschließlich
+überregionaler Bedeutung bei der Förderung von Wissenschaft,
+Forschung und Lehre zusammenwirken. Vereinbarungen, die im Schwerpunkt
+Hochschulen betreffen, bedürfen der Zustimmung aller Länder. Dies
+gilt nicht für Vereinbarungen über Forschungsbauten einschließlich
 Großgeräten.
 
 (2) Bund und Länder können auf Grund von Vereinbarungen zur
@@ -2318,15 +2237,15 @@ Empfehlungen zusammenwirken.
 
 ### Art 91c
 
-(1) Bund und Länder können bei der Planung, der Errichtung und dem
-Betrieb der für ihre Aufgabenerfüllung benötigten
+(1) Bund und Länder können bei der Planung, der Errichtung
+und dem Betrieb der für ihre Aufgabenerfüllung benötigten
 informationstechnischen Systeme zusammenwirken.
 
-(2) Bund und Länder können auf Grund von Vereinbarungen die für die
-Kommunikation zwischen ihren informationstechnischen Systemen
+(2) Bund und Länder können auf Grund von Vereinbarungen die für
+die Kommunikation zwischen ihren informationstechnischen Systemen
 notwendigen Standards und Sicherheitsanforderungen festlegen.
-Vereinbarungen über die Grundlagen der Zusammenarbeit nach Satz 1
-können für einzelne nach Inhalt und Ausmaß bestimmte Aufgaben
+Vereinbarungen über die Grundlagen der Zusammenarbeit nach Satz
+1 können für einzelne nach Inhalt und Ausmaß bestimmte Aufgaben
 vorsehen, dass nähere Regelungen bei Zustimmung einer in der
 Vereinbarung zu bestimmenden qualifizierten Mehrheit für Bund und
 Länder in Kraft treten. Sie bedürfen der Zustimmung des Bundestages
@@ -2339,8 +2258,8 @@ informationstechnischer Systeme sowie die Errichtung von dazu
 bestimmten Einrichtungen vereinbaren.
 
 (4) Der Bund errichtet zur Verbindung der informationstechnischen
-Netze des Bundes und der Länder ein Verbindungsnetz. Das Nähere zur
-Errichtung und zum Betrieb des Verbindungsnetzes regelt ein
+Netze des Bundes und der Länder ein Verbindungsnetz. Das Nähere
+zur Errichtung und zum Betrieb des Verbindungsnetzes regelt ein
 Bundesgesetz mit Zustimmung des Bundesrates.
 
 (5) Der übergreifende informationstechnische Zugang zu den
@@ -2365,8 +2284,8 @@ gemeinsamen Einrichtungen zusammen.
 (2) Der Bund kann zulassen, dass eine begrenzte Anzahl von Gemeinden
 und Gemeindeverbänden auf ihren Antrag und mit Zustimmung der obersten
 Landesbehörde die Aufgaben nach Absatz 1 allein wahrnimmt. Die
-notwendigen Ausgaben einschließlich der Verwaltungsausgaben trägt der
-Bund, soweit die Aufgaben bei einer Ausführung von Gesetzen nach
+notwendigen Ausgaben einschließlich der Verwaltungsausgaben trägt
+der Bund, soweit die Aufgaben bei einer Ausführung von Gesetzen nach
 Absatz 1 vom Bund wahrzunehmen sind.
 
 (3) Das Nähere regelt ein Bundesgesetz, das der Zustimmung des
@@ -2376,113 +2295,123 @@ Bundesrates bedarf.
 ## IX. - Die Rechtsprechung
 
 
-
 ### Art 92
 
-Die rechtsprechende Gewalt ist den Richtern anvertraut; sie wird durch
-das Bundesverfassungsgericht, durch die in diesem Grundgesetze
+Die rechtsprechende Gewalt ist den Richtern anvertraut; sie wird
+durch das Bundesverfassungsgericht, durch die in diesem Grundgesetze
 vorgesehenen Bundesgerichte und durch die Gerichte der Länder
 ausgeübt.
 
 
 ### Art 93
 
+(1) Das Bundesverfassungsgericht ist ein allen übrigen
+Verfassungsorganen gegenüber selbständiger und unabhängiger
+Gerichtshof des Bundes.
+
+(2) Das Bundesverfassungsgericht besteht aus Bundesrichtern und
+anderen Mitgliedern; es gliedert sich in zwei Senate. In jeden
+Senat werden je zur Hälfte vom Bundestag und vom Bundesrat acht
+Richter gewählt; sie dürfen weder dem Bundestag, dem Bundesrat, der
+Bundesregierung noch entsprechenden Organen eines Landes angehören.
+Durch Bundesgesetz nach Absatz 5 kann vorgesehen werden, dass das
+Wahlrecht vom anderen Wahlorgan ausgeübt werden kann, wenn innerhalb
+einer zu bestimmenden Frist nach dem Ende der Amtszeit oder dem
+vorzeitigen Ausscheiden eines Richters eine Wahl seines Nachfolgers
+nicht zustande kommt.
+
+(3) Die Amtszeit der Mitglieder des Bundesverfassungsgerichts dauert
+zwölf Jahre, längstens bis zum Ende des Monats, in dem das Mitglied
+das 68. Lebensjahr vollendet. Nach Ablauf der Amtszeit führen die
+Richter ihre Amtsgeschäfte bis zur Ernennung des Nachfolgers fort.
+Eine anschließende oder spätere Wiederwahl ist ausgeschlossen.
+
+(4) Das Bundesverfassungsgericht gibt sich eine Geschäftsordnung, die
+das Plenum beschließt.
+
+(5) Ein Bundesgesetz regelt die Verfassung und das Verfahren des
+Bundesverfassungsgerichts. Es kann für Verfassungsbeschwerden die
+vorherige Erschöpfung des Rechtsweges zur Voraussetzung machen und ein
+besonderes Annahmeverfahren vorsehen.
+
+
+### Art 94
+
 (1) Das Bundesverfassungsgericht entscheidet:
 
-1.  über die Auslegung dieses Grundgesetzes aus Anlaß von Streitigkeiten
+1.  über die Auslegung dieses Grundgesetzes aus Anlass von Streitigkeiten
     über den Umfang der Rechte und Pflichten eines obersten Bundesorgans
     oder anderer Beteiligter, die durch dieses Grundgesetz oder in der
     Geschäftsordnung eines obersten Bundesorgans mit eigenen Rechten
     ausgestattet sind;
 
-
 2.  bei Meinungsverschiedenheiten oder Zweifeln über die förmliche und
     sachliche Vereinbarkeit von Bundesrecht oder Landesrecht mit diesem
-    Grundgesetze oder die Vereinbarkeit von Landesrecht mit sonstigem
-    Bundesrechte auf Antrag der Bundesregierung, einer Landesregierung
-    oder eines Viertels der Mitglieder des Bundestages;
-
+    Grundgesetz oder die Vereinbarkeit von Landesrecht mit sonstigem
+    Bundesrecht auf Antrag der Bundesregierung, einer Landesregierung oder
+    eines Viertels der Mitglieder des Bundestages;
 
 2a. bei Meinungsverschiedenheiten, ob ein Gesetz den Voraussetzungen des
-    Artikels 72 Abs. 2 entspricht, auf Antrag des Bundesrates, einer
+    Artikels 72 Absatz 2 entspricht, auf Antrag des Bundesrates, einer
     Landesregierung oder der Volksvertretung eines Landes;
-
 
 3.  bei Meinungsverschiedenheiten über Rechte und Pflichten des Bundes und
     der Länder, insbesondere bei der Ausführung von Bundesrecht durch die
     Länder und bei der Ausübung der Bundesaufsicht;
 
-
-4.  in anderen öffentlich-rechtlichen Streitigkeiten zwischen dem Bunde
+4.  in anderen öffentlich-rechtlichen Streitigkeiten zwischen dem Bund
     und den Ländern, zwischen verschiedenen Ländern oder innerhalb eines
     Landes, soweit nicht ein anderer Rechtsweg gegeben ist;
 
-
 4a. über Verfassungsbeschwerden, die von jedermann mit der Behauptung
     erhoben werden können, durch die öffentliche Gewalt in einem seiner
-    Grundrechte oder in einem seiner in Artikel 20 Abs. 4, 33, 38, 101,
+    Grundrechte oder in einem seiner in Artikel 20 Absatz 4, 33, 38, 101,
     103 und 104 enthaltenen Rechte verletzt zu sein;
-
 
 4b. über Verfassungsbeschwerden von Gemeinden und Gemeindeverbänden wegen
     Verletzung des Rechts auf Selbstverwaltung nach Artikel 28 durch ein
     Gesetz, bei Landesgesetzen jedoch nur, soweit nicht Beschwerde beim
     Landesverfassungsgericht erhoben werden kann;
 
-
 4c. über Beschwerden von Vereinigungen gegen ihre Nichtanerkennung als
     Partei für die Wahl zum Bundestag;
 
-
-5.  in den übrigen in diesem Grundgesetze vorgesehenen Fällen.
-
-
-
+5.  in den übrigen in diesem Grundgesetz vorgesehenen Fällen.
 
 (2) Das Bundesverfassungsgericht entscheidet außerdem auf Antrag des
 Bundesrates, einer Landesregierung oder der Volksvertretung eines
-Landes, ob im Falle des Artikels 72 Abs. 4 die Erforderlichkeit für
-eine bundesgesetzliche Regelung nach Artikel 72 Abs. 2 nicht mehr
-besteht oder Bundesrecht in den Fällen des Artikels 125a Abs. 2 Satz 1
-nicht mehr erlassen werden könnte. Die Feststellung, dass die
+Landes, ob im Falle des Artikels 72 Absatz 4 die Erforderlichkeit für
+eine bundesgesetzliche Regelung nach Artikel 72 Absatz 2 nicht mehr
+besteht oder Bundesrecht in den Fällen des Artikels 125a Absatz 2
+Satz 1 nicht mehr erlassen werden könnte. Die Feststellung, dass die
 Erforderlichkeit entfallen ist oder Bundesrecht nicht mehr erlassen
-werden könnte, ersetzt ein Bundesgesetz nach Artikel 72 Abs. 4 oder
-nach Artikel 125a Abs. 2 Satz 2. Der Antrag nach Satz 1 ist nur
-zulässig, wenn eine Gesetzesvorlage nach Artikel 72 Abs. 4 oder nach
-Artikel 125a Abs. 2 Satz 2 im Bundestag abgelehnt oder über sie nicht
-innerhalb eines Jahres beraten und Beschluss gefasst oder wenn eine
-entsprechende Gesetzesvorlage im Bundesrat abgelehnt worden ist.
+werden könnte, ersetzt ein Bundesgesetz nach Artikel 72 Absatz 4 oder
+nach Artikel 125a Absatz 2 Satz 2. Der Antrag nach Satz 1 ist nur
+zulässig, wenn eine Gesetzesvorlage nach Artikel 72 Absatz 4 oder
+nach Artikel 125a Absatz 2 Satz 2 im Bundestag abgelehnt oder über sie
+nicht innerhalb eines Jahres beraten und Beschluss gefasst oder wenn
+eine entsprechende Gesetzesvorlage im Bundesrat abgelehnt worden ist.
 
 (3) Das Bundesverfassungsgericht wird ferner in den ihm sonst durch
 Bundesgesetz zugewiesenen Fällen tätig.
 
-
-### Art 94
-
-(1) Das Bundesverfassungsgericht besteht aus Bundesrichtern und
-anderen Mitgliedern. Die Mitglieder des Bundesverfassungsgerichtes
-werden je zur Hälfte vom Bundestage und vom Bundesrate gewählt. Sie
-dürfen weder dem Bundestage, dem Bundesrate, der Bundesregierung noch
-entsprechenden Organen eines Landes angehören.
-
-(2) Ein Bundesgesetz regelt seine Verfassung und das Verfahren und
-bestimmt, in welchen Fällen seine Entscheidungen Gesetzeskraft haben.
-Es kann für Verfassungsbeschwerden die vorherige Erschöpfung des
-Rechtsweges zur Voraussetzung machen und ein besonderes
-Annahmeverfahren vorsehen.
+(4) Die Entscheidungen des Bundesverfassungsgerichts binden die
+Verfassungsorgane des Bundes und der Länder sowie alle Gerichte
+und Behörden. Ein Bundesgesetz bestimmt, in welchen Fällen seine
+Entscheidungen Gesetzeskraft haben.
 
 
 ### Art 95
 
-(1) Für die Gebiete der ordentlichen, der Verwaltungs-, der Finanz-,
-der Arbeits- und der Sozialgerichtsbarkeit errichtet der Bund als
-oberste Gerichtshöfe den Bundesgerichtshof, das
-Bundesverwaltungsgericht, den Bundesfinanzhof, das
+(1) Für die Gebiete der ordentlichen, der Verwaltungs-, der
+Finanz-, der Arbeits- und der Sozialgerichtsbarkeit errichtet
+der Bund als oberste Gerichtshöfe den Bundesgerichtshof,
+das Bundesverwaltungsgericht, den Bundesfinanzhof, das
 Bundesarbeitsgericht und das Bundessozialgericht.
 
-(2) Über die Berufung der Richter dieser Gerichte entscheidet der für
-das jeweilige Sachgebiet zuständige Bundesminister gemeinsam mit einem
-Richterwahlausschuß, der aus den für das jeweilige Sachgebiet
+(2) Über die Berufung der Richter dieser Gerichte entscheidet der
+für das jeweilige Sachgebiet zuständige Bundesminister gemeinsam mit
+einem Richterwahlausschuß, der aus den für das jeweilige Sachgebiet
 zuständigen Ministern der Länder und einer gleichen Anzahl von
 Mitgliedern besteht, die vom Bundestage gewählt werden.
 
@@ -2500,8 +2429,8 @@ ein Bundesgericht errichten.
 Bundesgerichte errichten. Sie können die Strafgerichtsbarkeit nur im
 Verteidigungsfalle sowie über Angehörige der Streitkräfte ausüben, die
 in das Ausland entsandt oder an Bord von Kriegsschiffen eingeschifft
-sind. Das Nähere regelt ein Bundesgesetz. Diese Gerichte gehören zum
-Geschäftsbereich des Bundesjustizministers. Ihre hauptamtlichen
+sind. Das Nähere regelt ein Bundesgesetz. Diese Gerichte gehören
+zum Geschäftsbereich des Bundesjustizministers. Ihre hauptamtlichen
 Richter müssen die Befähigung zum Richteramt haben.
 
 (3) Oberster Gerichtshof für die in Absatz 1 und 2 genannten Gerichte
@@ -2517,22 +2446,15 @@ der Länder Gerichtsbarkeit des Bundes ausüben:
 
 1.  Völkermord;
 
-
 2.  völkerstrafrechtliche Verbrechen gegen die Menschlichkeit;
 
-
 3.  Kriegsverbrechen;
-
 
 4.  andere Handlungen, die geeignet sind und in der Absicht vorgenommen
     werden, das friedliche Zusammenleben der Völker zu stören (Artikel 26
     Abs. 1);
 
-
 5.  Staatsschutz.
-
-
-
 
 
 ### Art 97
@@ -2540,10 +2462,10 @@ der Länder Gerichtsbarkeit des Bundes ausüben:
 (1) Die Richter sind unabhängig und nur dem Gesetze unterworfen.
 
 (2) Die hauptamtlich und planmäßig endgültig angestellten Richter
-können wider ihren Willen nur kraft richterlicher Entscheidung und nur
-aus Gründen und unter den Formen, welche die Gesetze bestimmen, vor
-Ablauf ihrer Amtszeit entlassen oder dauernd oder zeitweise ihres
-Amtes enthoben oder an eine andere Stelle oder in den Ruhestand
+können wider ihren Willen nur kraft richterlicher Entscheidung und
+nur aus Gründen und unter den Formen, welche die Gesetze bestimmen,
+vor Ablauf ihrer Amtszeit entlassen oder dauernd oder zeitweise
+ihres Amtes enthoben oder an eine andere Stelle oder in den Ruhestand
 versetzt werden. Die Gesetzgebung kann Altersgrenzen festsetzen, bei
 deren Erreichung auf Lebenszeit angestellte Richter in den Ruhestand
 treten. Bei Veränderung der Einrichtung der Gerichte oder ihrer
@@ -2556,25 +2478,25 @@ Amte entfernt werden, jedoch nur unter Belassung des vollen Gehaltes.
 (1) Die Rechtsstellung der Bundesrichter ist durch besonderes
 Bundesgesetz zu regeln.
 
-(2) Wenn ein Bundesrichter im Amte oder außerhalb des Amtes gegen die
-Grundsätze des Grundgesetzes oder gegen die verfassungsmäßige Ordnung
-eines Landes verstößt, so kann das Bundesverfassungsgericht mit
-Zweidrittelmehrheit auf Antrag des Bundestages anordnen, daß der
-Richter in ein anderes Amt oder in den Ruhestand zu versetzen ist. Im
-Falle eines vorsätzlichen Verstoßes kann auf Entlassung erkannt
+(2) Wenn ein Bundesrichter im Amte oder außerhalb des Amtes gegen
+die Grundsätze des Grundgesetzes oder gegen die verfassungsmäßige
+Ordnung eines Landes verstößt, so kann das Bundesverfassungsgericht
+mit Zweidrittelmehrheit auf Antrag des Bundestages anordnen, daß der
+Richter in ein anderes Amt oder in den Ruhestand zu versetzen ist.
+Im Falle eines vorsätzlichen Verstoßes kann auf Entlassung erkannt
 werden.
 
 (3) Die Rechtsstellung der Richter in den Ländern ist durch besondere
 Landesgesetze zu regeln, soweit Artikel 74 Abs. 1 Nr. 27 nichts
 anderes bestimmt.
 
-(4) Die Länder können bestimmen, daß über die Anstellung der Richter
-in den Ländern der Landesjustizminister gemeinsam mit einem
+(4) Die Länder können bestimmen, daß über die Anstellung der
+Richter in den Ländern der Landesjustizminister gemeinsam mit einem
 Richterwahlausschuß entscheidet.
 
 (5) Die Länder können für Landesrichter eine Absatz 2 entsprechende
-Regelung treffen. Geltendes Landesverfassungsrecht bleibt unberührt.
-Die Entscheidung über eine Richteranklage steht dem
+Regelung treffen. Geltendes Landesverfassungsrecht bleibt
+unberührt. Die Entscheidung über eine Richteranklage steht dem
 Bundesverfassungsgericht zu.
 
 
@@ -2593,16 +2515,16 @@ sich um die Anwendung von Landesrecht handelt.
 Entscheidung ankommt, für verfassungswidrig, so ist das Verfahren
 auszusetzen und, wenn es sich um die Verletzung der Verfassung eines
 Landes handelt, die Entscheidung des für Verfassungsstreitigkeiten
-zuständigen Gerichtes des Landes, wenn es sich um die Verletzung
-dieses Grundgesetzes handelt, die Entscheidung des
-Bundesverfassungsgerichtes einzuholen. Dies gilt auch, wenn es sich um
-die Verletzung dieses Grundgesetzes durch Landesrecht oder um die
+zuständigen Gerichtes des Landes, wenn es sich um die
+Verletzung dieses Grundgesetzes handelt, die Entscheidung des
+Bundesverfassungsgerichtes einzuholen. Dies gilt auch, wenn es sich
+um die Verletzung dieses Grundgesetzes durch Landesrecht oder um die
 Unvereinbarkeit eines Landesgesetzes mit einem Bundesgesetze handelt.
 
 (2) Ist in einem Rechtsstreite zweifelhaft, ob eine Regel des
 Völkerrechtes Bestandteil des Bundesrechtes ist und ob sie unmittelbar
-Rechte und Pflichten für den Einzelnen erzeugt (Artikel 25), so hat
-das Gericht die Entscheidung des Bundesverfassungsgerichtes
+Rechte und Pflichten für den Einzelnen erzeugt (Artikel 25), so
+hat das Gericht die Entscheidung des Bundesverfassungsgerichtes
 einzuholen.
 
 (3) Will das Verfassungsgericht eines Landes bei der Auslegung des
@@ -2644,8 +2566,8 @@ Gesetzes und nur unter Beachtung der darin vorgeschriebenen Formen
 beschränkt werden. Festgehaltene Personen dürfen weder seelisch noch
 körperlich mißhandelt werden.
 
-(2) Über die Zulässigkeit und Fortdauer einer Freiheitsentziehung hat
-nur der Richter zu entscheiden. Bei jeder nicht auf richterlicher
+(2) Über die Zulässigkeit und Fortdauer einer Freiheitsentziehung
+hat nur der Richter zu entscheiden. Bei jeder nicht auf richterlicher
 Anordnung beruhenden Freiheitsentziehung ist unverzüglich eine
 richterliche Entscheidung herbeizuführen. Die Polizei darf aus eigener
 Machtvollkommenheit niemanden länger als bis zum Ende des Tages nach
@@ -2659,14 +2581,13 @@ vernehmen und ihm Gelegenheit zu Einwendungen zu geben hat. Der
 Richter hat unverzüglich entweder einen mit Gründen versehenen
 schriftlichen Haftbefehl zu erlassen oder die Freilassung anzuordnen.
 
-(4) Von jeder richterlichen Entscheidung über die Anordnung oder
-Fortdauer einer Freiheitsentziehung ist unverzüglich ein Angehöriger
-des Festgehaltenen oder eine Person seines Vertrauens zu
-benachrichtigen.
+(4) Von jeder richterlichen Entscheidung über die Anordnung
+oder Fortdauer einer Freiheitsentziehung ist unverzüglich ein
+Angehöriger des Festgehaltenen oder eine Person seines Vertrauens
+zu benachrichtigen.
 
 
 ## X. - Das Finanzwesen
-
 
 
 ### Art 104a
@@ -2679,12 +2600,12 @@ nichts anderes bestimmt.
 daraus ergebenden Ausgaben.
 
 (3) Bundesgesetze, die Geldleistungen gewähren und von den Ländern
-ausgeführt werden, können bestimmen, daß die Geldleistungen ganz oder
-zum Teil vom Bund getragen werden. Bestimmt das Gesetz, daß der Bund
-die Hälfte der Ausgaben oder mehr trägt, wird es im Auftrage des
+ausgeführt werden, können bestimmen, daß die Geldleistungen ganz
+oder zum Teil vom Bund getragen werden. Bestimmt das Gesetz, daß der
+Bund die Hälfte der Ausgaben oder mehr trägt, wird es im Auftrage des
 Bundes durchgeführt. Bei der Gewährung von Leistungen für Unterkunft
-und Heizung auf dem Gebiet der Grundsicherung für Arbeitsuchende wird
-das Gesetz im Auftrage des Bundes ausgeführt, wenn der Bund drei
+und Heizung auf dem Gebiet der Grundsicherung für Arbeitsuchende
+wird das Gesetz im Auftrage des Bundes ausgeführt, wenn der Bund drei
 Viertel der Ausgaben oder mehr trägt.
 
 (4) Bundesgesetze, die Pflichten der Länder zur Erbringung von
@@ -2702,8 +2623,8 @@ der Zustimmung des Bundesrates bedarf.
 (6) Bund und Länder tragen nach der innerstaatlichen Zuständigkeits-
 und Aufgabenverteilung die Lasten einer Verletzung von supranationalen
 oder völkerrechtlichen Verpflichtungen Deutschlands. In Fällen
-länderübergreifender Finanzkorrekturen der Europäischen Union tragen
-Bund und Länder diese Lasten im Verhältnis 15 zu 85. Die
+länderübergreifender Finanzkorrekturen der Europäischen Union
+tragen Bund und Länder diese Lasten im Verhältnis 15 zu 85. Die
 Ländergesamtheit trägt in diesen Fällen solidarisch 35 vom Hundert der
 Gesamtlasten entsprechend einem allgemeinen Schlüssel; 50 vom Hundert
 der Gesamtlasten tragen die Länder, die die Lasten verursacht haben,
@@ -2721,33 +2642,29 @@ besonders bedeutsame Investitionen der Länder und der Gemeinden
 1.  zur Abwehr einer Störung des gesamtwirtschaftlichen Gleichgewichts
     oder
 
-
 2.  zum Ausgleich unterschiedlicher Wirtschaftskraft im Bundesgebiet oder
-
 
 3.  zur Förderung des wirtschaftlichen Wachstums
 
-
-
 erforderlich sind. Abweichend von Satz 1 kann der Bund im Falle von
-Naturkatastrophen oder außergewöhnlichen Notsituationen, die sich der
-Kontrolle des Staates entziehen und die staatliche Finanzlage
+Naturkatastrophen oder außergewöhnlichen Notsituationen, die sich
+der Kontrolle des Staates entziehen und die staatliche Finanzlage
 erheblich beeinträchtigen, auch ohne Gesetzgebungsbefugnisse
 Finanzhilfen gewähren.
 
 (2) Das Nähere, insbesondere die Arten der zu fördernden
 Investitionen, wird durch Bundesgesetz, das der Zustimmung des
-Bundesrates bedarf, oder auf Grund des Bundeshaushaltsgesetzes durch
-Verwaltungsvereinbarung geregelt. Das Bundesgesetz oder die
-Verwaltungsvereinbarung kann Bestimmungen über die Ausgestaltung der
-jeweiligen Länderprogramme zur Verwendung der Finanzhilfen vorsehen.
-Die Festlegung der Kriterien für die Ausgestaltung der Länderprogramme
-erfolgt im Einvernehmen mit den betroffenen Ländern. Zur
-Gewährleistung der zweckentsprechenden Mittelverwendung kann die
-Bundesregierung Bericht und Vorlage der Akten verlangen und Erhebungen
-bei allen Behörden durchführen. Die Mittel des Bundes werden
-zusätzlich zu eigenen Mitteln der Länder bereitgestellt. Sie sind
-befristet zu gewähren und hinsichtlich ihrer Verwendung in
+Bundesrates bedarf, oder auf Grund des Bundeshaushaltsgesetzes
+durch Verwaltungsvereinbarung geregelt. Das Bundesgesetz oder die
+Verwaltungsvereinbarung kann Bestimmungen über die Ausgestaltung
+der jeweiligen Länderprogramme zur Verwendung der Finanzhilfen
+vorsehen. Die Festlegung der Kriterien für die Ausgestaltung der
+Länderprogramme erfolgt im Einvernehmen mit den betroffenen Ländern.
+Zur Gewährleistung der zweckentsprechenden Mittelverwendung kann
+die Bundesregierung Bericht und Vorlage der Akten verlangen und
+Erhebungen bei allen Behörden durchführen. Die Mittel des Bundes
+werden zusätzlich zu eigenen Mitteln der Länder bereitgestellt.
+Sie sind befristet zu gewähren und hinsichtlich ihrer Verwendung in
 regelmäßigen Zeitabständen zu überprüfen. Die Finanzhilfen sind im
 Zeitablauf mit fallenden Jahresbeträgen zu gestalten.
 
@@ -2762,8 +2679,8 @@ Der Bund kann den Ländern Finanzhilfen für gesamtstaatlich bedeutsame
 Investitionen sowie besondere, mit diesen unmittelbar verbundene,
 befristete Ausgaben der Länder und Gemeinden (Gemeindeverbände) zur
 Steigerung der Leistungsfähigkeit der kommunalen Bildungsinfrastruktur
-gewähren. Artikel 104b Absatz 2 Satz 1 bis 3, 5, 6 und Absatz 3 gilt
-entsprechend. Zur Gewährleistung der zweckentsprechenden
+gewähren. Artikel 104b Absatz 2 Satz 1 bis 3, 5, 6 und Absatz
+3 gilt entsprechend. Zur Gewährleistung der zweckentsprechenden
 Mittelverwendung kann die Bundesregierung Berichte und anlassbezogen
 die Vorlage von Akten verlangen.
 
@@ -2786,8 +2703,8 @@ Er hat die konkurrierende Gesetzgebung über die übrigen Steuern, wenn
 ihm das Aufkommen dieser Steuern ganz oder zum Teil zusteht oder die
 Voraussetzungen des Artikels 72 Abs. 2 vorliegen.
 
-(2a) Die Länder haben die Befugnis zur Gesetzgebung über die örtlichen
-Verbrauch- und Aufwandsteuern, solange und soweit sie nicht
+(2a) Die Länder haben die Befugnis zur Gesetzgebung über die
+örtlichen Verbrauch- und Aufwandsteuern, solange und soweit sie nicht
 bundesgesetzlich geregelten Steuern gleichartig sind. Sie haben die
 Befugnis zur Bestimmung des Steuersatzes bei der Grunderwerbsteuer.
 
@@ -2803,87 +2720,68 @@ Steuern stehen dem Bund zu:
 
 1.  die Zölle,
 
-
 2.  die Verbrauchsteuern, soweit sie nicht nach Absatz 2 den Ländern, nach
     Absatz 3 Bund und Ländern gemeinsam oder nach Absatz 6 den Gemeinden
     zustehen,
 
-
 3.  die Straßengüterverkehrsteuer, die Kraftfahrzeugsteuer und sonstige
     auf motorisierte Verkehrsmittel bezogene Verkehrsteuern,
-
 
 4.  die Kapitalverkehrsteuern, die Versicherungsteuer und die
     Wechselsteuer,
 
-
 5.  die einmaligen Vermögensabgaben und die zur Durchführung des
     Lastenausgleichs erhobenen Ausgleichsabgaben,
 
-
 6.  die Ergänzungsabgabe zur Einkommensteuer und zur Körperschaftsteuer,
 
-
 7.  Abgaben im Rahmen der Europäischen Gemeinschaften.
-
-
-
 
 (2) Das Aufkommen der folgenden Steuern steht den Ländern zu:
 
 1.  die Vermögensteuer,
 
-
 2.  die Erbschaftsteuer,
-
 
 3.  die Verkehrsteuern, soweit sie nicht nach Absatz 1 dem Bund oder nach
     Absatz 3 Bund und Ländern gemeinsam zustehen,
 
-
 4.  die Biersteuer,
-
 
 5.  die Abgabe von Spielbanken.
 
-
-
-
-(3) Das Aufkommen der Einkommensteuer, der Körperschaftsteuer und der
-Umsatzsteuer steht dem Bund und den Ländern gemeinsam zu
+(3) Das Aufkommen der Einkommensteuer, der Körperschaftsteuer
+und der Umsatzsteuer steht dem Bund und den Ländern gemeinsam zu
 (Gemeinschaftsteuern), soweit das Aufkommen der Einkommensteuer nicht
-nach Absatz 5 und das Aufkommen der Umsatzsteuer nicht nach Absatz 5a
-den Gemeinden zugewiesen wird. Am Aufkommen der Einkommensteuer und
-der Körperschaftsteuer sind der Bund und die Länder je zur Hälfte
-beteiligt. Die Anteile von Bund und Ländern an der Umsatzsteuer werden
-durch Bundesgesetz, das der Zustimmung des Bundesrates bedarf,
+nach Absatz 5 und das Aufkommen der Umsatzsteuer nicht nach Absatz
+5a den Gemeinden zugewiesen wird. Am Aufkommen der Einkommensteuer
+und der Körperschaftsteuer sind der Bund und die Länder je zur Hälfte
+beteiligt. Die Anteile von Bund und Ländern an der Umsatzsteuer
+werden durch Bundesgesetz, das der Zustimmung des Bundesrates bedarf,
 festgesetzt. Bei der Festsetzung ist von folgenden Grundsätzen
 auszugehen:
 
 1.  Im Rahmen der laufenden Einnahmen haben der Bund und die Länder
-    gleichmäßig Anspruch auf Deckung ihrer notwendigen Ausgaben. Dabei ist
-    der Umfang der Ausgaben unter Berücksichtigung einer mehrjährigen
+    gleichmäßig Anspruch auf Deckung ihrer notwendigen Ausgaben. Dabei
+    ist der Umfang der Ausgaben unter Berücksichtigung einer mehrjährigen
     Finanzplanung zu ermitteln.
-
 
 2.  Die Deckungsbedürfnisse des Bundes und der Länder sind so aufeinander
     abzustimmen, daß ein billiger Ausgleich erzielt, eine Überbelastung
     der Steuerpflichtigen vermieden und die Einheitlichkeit der
     Lebensverhältnisse im Bundesgebiet gewahrt wird.
 
-
-
-Zusätzlich werden in die Festsetzung der Anteile von Bund und Ländern
-an der Umsatzsteuer Steuermindereinnahmen einbezogen, die den Ländern
-ab 1. Januar 1996 aus der Berücksichtigung von Kindern im
+Zusätzlich werden in die Festsetzung der Anteile von Bund und
+Ländern an der Umsatzsteuer Steuermindereinnahmen einbezogen, die
+den Ländern ab 1. Januar 1996 aus der Berücksichtigung von Kindern im
 Einkommensteuerrecht entstehen. Das Nähere bestimmt das Bundesgesetz
 nach Satz 3.
 
 (4) Die Anteile von Bund und Ländern an der Umsatzsteuer sind neu
 festzusetzen, wenn sich das Verhältnis zwischen den Einnahmen und
 Ausgaben des Bundes und der Länder wesentlich anders entwickelt;
-Steuermindereinnahmen, die nach Absatz 3 Satz 5 in die Festsetzung der
-Umsatzsteueranteile zusätzlich einbezogen werden, bleiben hierbei
+Steuermindereinnahmen, die nach Absatz 3 Satz 5 in die Festsetzung
+der Umsatzsteueranteile zusätzlich einbezogen werden, bleiben hierbei
 unberücksichtigt. Werden den Ländern durch Bundesgesetz zusätzliche
 Ausgaben auferlegt oder Einnahmen entzogen, so kann die Mehrbelastung
 durch Bundesgesetz, das der Zustimmung des Bundesrates bedarf, auch
@@ -2913,22 +2811,22 @@ Hebesätze der Grundsteuer und Gewerbesteuer im Rahmen der Gesetze
 festzusetzen. Bestehen in einem Land keine Gemeinden, so steht das
 Aufkommen der Grundsteuer und Gewerbesteuer sowie der örtlichen
 Verbrauch- und Aufwandsteuern dem Land zu. Bund und Länder können
-durch eine Umlage an dem Aufkommen der Gewerbesteuer beteiligt werden.
-Das Nähere über die Umlage bestimmt ein Bundesgesetz, das der
+durch eine Umlage an dem Aufkommen der Gewerbesteuer beteiligt
+werden. Das Nähere über die Umlage bestimmt ein Bundesgesetz, das der
 Zustimmung des Bundesrates bedarf. Nach Maßgabe der Landesgesetzgebung
-können die Grundsteuer und Gewerbesteuer sowie der Gemeindeanteil vom
-Aufkommen der Einkommensteuer und der Umsatzsteuer als
+können die Grundsteuer und Gewerbesteuer sowie der Gemeindeanteil
+vom Aufkommen der Einkommensteuer und der Umsatzsteuer als
 Bemessungsgrundlagen für Umlagen zugrunde gelegt werden.
 
 (7) Von dem Länderanteil am Gesamtaufkommen der Gemeinschaftsteuern
 fließt den Gemeinden und Gemeindeverbänden insgesamt ein von der
-Landesgesetzgebung zu bestimmender Hundertsatz zu. Im übrigen bestimmt
-die Landesgesetzgebung, ob und inwieweit das Aufkommen der
+Landesgesetzgebung zu bestimmender Hundertsatz zu. Im übrigen
+bestimmt die Landesgesetzgebung, ob und inwieweit das Aufkommen der
 Landessteuern den Gemeinden (Gemeindeverbänden) zufließt.
 
 (8) Veranlaßt der Bund in einzelnen Ländern oder Gemeinden
-(Gemeindeverbänden) besondere Einrichtungen, die diesen Ländern oder
-Gemeinden (Gemeindeverbänden) unmittelbar Mehrausgaben oder
+(Gemeindeverbänden) besondere Einrichtungen, die diesen Ländern
+oder Gemeinden (Gemeindeverbänden) unmittelbar Mehrausgaben oder
 Mindereinnahmen (Sonderbelastungen) verursachen, gewährt der Bund den
 erforderlichen Ausgleich, wenn und soweit den Ländern oder Gemeinden
 (Gemeindeverbänden) nicht zugemutet werden kann, die Sonderbelastungen
@@ -2936,18 +2834,18 @@ zu tragen. Entschädigungsleistungen Dritter und finanzielle Vorteile,
 die diesen Ländern oder Gemeinden (Gemeindeverbänden) als Folge der
 Einrichtungen erwachsen, werden bei dem Ausgleich berücksichtigt.
 
-(9) Als Einnahmen und Ausgaben der Länder im Sinne dieses Artikels
-gelten auch die Einnahmen und Ausgaben der Gemeinden
+(9) Als Einnahmen und Ausgaben der Länder im Sinne dieses
+Artikels gelten auch die Einnahmen und Ausgaben der Gemeinden
 (Gemeindeverbände).
 
 
 ### Art 106a
 
 Den Ländern steht ab 1. Januar 1996 für den öffentlichen
-Personennahverkehr ein Betrag aus dem Steueraufkommen des Bundes zu.
-Das Nähere regelt ein Bundesgesetz, das der Zustimmung des Bundesrates
-bedarf. Der Betrag nach Satz 1 bleibt bei der Bemessung der
-Finanzkraft nach Artikel 107 Abs. 2 unberücksichtigt.
+Personennahverkehr ein Betrag aus dem Steueraufkommen des Bundes
+zu. Das Nähere regelt ein Bundesgesetz, das der Zustimmung des
+Bundesrates bedarf. Der Betrag nach Satz 1 bleibt bei der Bemessung
+der Finanzkraft nach Artikel 107 Abs. 2 unberücksichtigt.
 
 
 ### Art 106b
@@ -2962,36 +2860,36 @@ des Bundesrates bedarf.
 
 (1) Das Aufkommen der Landessteuern und der Länderanteil am Aufkommen
 der Einkommensteuer und der Körperschaftsteuer stehen den einzelnen
-Ländern insoweit zu, als die Steuern von den Finanzbehörden in ihrem
-Gebiet vereinnahmt werden (örtliches Aufkommen). Durch Bundesgesetz,
-das der Zustimmung des Bundesrates bedarf, sind für die
-Körperschaftsteuer und die Lohnsteuer nähere Bestimmungen über die
-Abgrenzung sowie über Art und Umfang der Zerlegung des örtlichen
+Ländern insoweit zu, als die Steuern von den Finanzbehörden in
+ihrem Gebiet vereinnahmt werden (örtliches Aufkommen). Durch
+Bundesgesetz, das der Zustimmung des Bundesrates bedarf, sind für
+die Körperschaftsteuer und die Lohnsteuer nähere Bestimmungen über
+die Abgrenzung sowie über Art und Umfang der Zerlegung des örtlichen
 Aufkommens zu treffen. Das Gesetz kann auch Bestimmungen über die
 Abgrenzung und Zerlegung des örtlichen Aufkommens anderer Steuern
 treffen. Der Länderanteil am Aufkommen der Umsatzsteuer steht den
 einzelnen Ländern, vorbehaltlich der Regelungen nach Absatz 2, nach
 Maßgabe ihrer Einwohnerzahl zu.
 
-(2) Durch Bundesgesetz, das der Zustimmung des Bundesrates bedarf, ist
-sicherzustellen, dass die unterschiedliche Finanzkraft der Länder
+(2) Durch Bundesgesetz, das der Zustimmung des Bundesrates bedarf,
+ist sicherzustellen, dass die unterschiedliche Finanzkraft der Länder
 angemessen ausgeglichen wird; hierbei sind die Finanzkraft und der
-Finanzbedarf der Gemeinden (Gemeindeverbände) zu berücksichtigen. Zu
-diesem Zweck sind in dem Gesetz Zuschläge zu und Abschläge von der
-jeweiligen Finanzkraft bei der Verteilung der Länderanteile am
-Aufkommen der Umsatzsteuer zu regeln. Die Voraussetzungen für die
-Gewährung von Zuschlägen und für die Erhebung von Abschlägen sowie die
-Maßstäbe für die Höhe dieser Zuschläge und Abschläge sind in dem
-Gesetz zu bestimmen. Für Zwecke der Bemessung der Finanzkraft kann die
-bergrechtliche Förderabgabe mit nur einem Teil ihres Aufkommens
-berücksichtigt werden. Das Gesetz kann auch bestimmen, dass der Bund
-aus seinen Mitteln leistungsschwachen Ländern Zuweisungen zur
-ergänzenden Deckung ihres allgemeinen Finanzbedarfs
-(Ergänzungszuweisungen) gewährt. Zuweisungen können unabhängig von den
-Maßstäben nach den Sätzen 1 bis 3 auch solchen leistungsschwachen
-Ländern gewährt werden, deren Gemeinden (Gemeindeverbände) eine
-besonders geringe Steuerkraft aufweisen
-(Gemeindesteuerkraftzuweisungen), sowie außerdem solchen
+Finanzbedarf der Gemeinden (Gemeindeverbände) zu berücksichtigen.
+Zu diesem Zweck sind in dem Gesetz Zuschläge zu und Abschläge von
+der jeweiligen Finanzkraft bei der Verteilung der Länderanteile
+am Aufkommen der Umsatzsteuer zu regeln. Die Voraussetzungen für
+die Gewährung von Zuschlägen und für die Erhebung von Abschlägen
+sowie die Maßstäbe für die Höhe dieser Zuschläge und Abschläge
+sind in dem Gesetz zu bestimmen. Für Zwecke der Bemessung der
+Finanzkraft kann die bergrechtliche Förderabgabe mit nur einem
+Teil ihres Aufkommens berücksichtigt werden. Das Gesetz kann auch
+bestimmen, dass der Bund aus seinen Mitteln leistungsschwachen
+Ländern Zuweisungen zur ergänzenden Deckung ihres allgemeinen
+Finanzbedarfs (Ergänzungszuweisungen) gewährt. Zuweisungen
+können unabhängig von den Maßstäben nach den Sätzen 1 bis 3
+auch solchen leistungsschwachen Ländern gewährt werden, deren
+Gemeinden (Gemeindeverbände) eine besonders geringe Steuerkraft
+aufweisen (Gemeindesteuerkraftzuweisungen), sowie außerdem solchen
 leistungsschwachen Ländern, deren Anteile an den Fördermitteln nach
 Artikel 91b ihre Einwohneranteile unterschreiten.
 
@@ -3001,8 +2899,8 @@ Artikel 91b ihre Einwohneranteile unterschreiten.
 (1) Zölle, Finanzmonopole, die bundesgesetzlich geregelten
 Verbrauchsteuern einschließlich der Einfuhrumsatzsteuer, die
 Kraftfahrzeugsteuer und sonstige auf motorisierte Verkehrsmittel
-bezogene Verkehrsteuern ab dem 1. Juli 2009 sowie die Abgaben im
-Rahmen der Europäischen Gemeinschaften werden durch
+bezogene Verkehrsteuern ab dem 1. Juli 2009 sowie die Abgaben
+im Rahmen der Europäischen Gemeinschaften werden durch
 Bundesfinanzbehörden verwaltet. Der Aufbau dieser Behörden wird durch
 Bundesgesetz geregelt. Soweit Mittelbehörden eingerichtet sind, werden
 deren Leiter im Benehmen mit den Landesregierungen bestellt.
@@ -3013,23 +2911,23 @@ können durch Bundesgesetz mit Zustimmung des Bundesrates geregelt
 werden. Soweit Mittelbehörden eingerichtet sind, werden deren Leiter
 im Einvernehmen mit der Bundesregierung bestellt.
 
-(3) Verwalten die Landesfinanzbehörden Steuern, die ganz oder zum Teil
-dem Bund zufließen, so werden sie im Auftrage des Bundes tätig.
+(3) Verwalten die Landesfinanzbehörden Steuern, die ganz oder zum
+Teil dem Bund zufließen, so werden sie im Auftrage des Bundes tätig.
 Artikel 85 Abs. 3 und 4 gilt mit der Maßgabe, daß an die Stelle der
 Bundesregierung der Bundesminister der Finanzen tritt.
 
 (4) Durch Bundesgesetz, das der Zustimmung des Bundesrates bedarf,
-kann bei der Verwaltung von Steuern ein Zusammenwirken von Bundes- und
-Landesfinanzbehörden sowie für Steuern, die unter Absatz 1 fallen, die
-Verwaltung durch Landesfinanzbehörden und für andere Steuern die
+kann bei der Verwaltung von Steuern ein Zusammenwirken von Bundes-
+und Landesfinanzbehörden sowie für Steuern, die unter Absatz 1 fallen,
+die Verwaltung durch Landesfinanzbehörden und für andere Steuern die
 Verwaltung durch Bundesfinanzbehörden vorgesehen werden, wenn und
 soweit dadurch der Vollzug der Steuergesetze erheblich verbessert oder
 erleichtert wird. Für die den Gemeinden (Gemeindeverbänden) allein
 zufließenden Steuern kann die den Landesfinanzbehörden zustehende
 Verwaltung durch die Länder ganz oder zum Teil den Gemeinden
-(Gemeindeverbänden) übertragen werden. Das Bundesgesetz nach Satz 1
-kann für ein Zusammenwirken von Bund und Ländern bestimmen, dass bei
-Zustimmung einer im Gesetz genannten Mehrheit Regelungen für den
+(Gemeindeverbänden) übertragen werden. Das Bundesgesetz nach Satz
+1 kann für ein Zusammenwirken von Bund und Ländern bestimmen, dass
+bei Zustimmung einer im Gesetz genannten Mehrheit Regelungen für den
 Vollzug von Steuergesetzen für alle Länder verbindlich werden.
 
 (4a) Durch Bundesgesetz, das der Zustimmung des Bundesrates bedarf,
@@ -3076,14 +2974,25 @@ Entwicklung sowie eine Ausnahmeregelung für Naturkatastrophen oder
 außergewöhnliche Notsituationen, die sich der Kontrolle des Staates
 entziehen und die staatliche Finanzlage erheblich beeinträchtigen,
 vorsehen. Für die Ausnahmeregelung ist eine entsprechende
-Tilgungsregelung vorzusehen. Die nähere Ausgestaltung regelt für den
-Haushalt des Bundes Artikel 115 mit der Maßgabe, dass Satz 1
+Tilgungsregelung vorzusehen. Die nähere Ausgestaltung regelt für
+den Haushalt des Bundes Artikel 115 mit der Maßgabe, dass Satz 1
 entsprochen ist, wenn die Einnahmen aus Krediten 0,35 vom Hundert im
-Verhältnis zum nominalen Bruttoinlandsprodukt nicht überschreiten. Die
-nähere Ausgestaltung für die Haushalte der Länder regeln diese im
-Rahmen ihrer verfassungsrechtlichen Kompetenzen mit der Maßgabe, dass
-Satz 1 nur dann entsprochen ist, wenn keine Einnahmen aus Krediten
-zugelassen werden.
+Verhältnis zum nominalen Bruttoinlandsprodukt nicht überschreiten.
+Von den zu berücksichtigenden Einnahmen aus Krediten ist der
+Betrag abzuziehen, um den die Verteidigungsausgaben, die Ausgaben
+des Bundes für den Zivil- und Bevölkerungsschutz sowie für die
+Nachrichtendienste, für den Schutz der informationstechnischen Systeme
+und für die Hilfe für völkerrechtswidrig angegriffene Staaten 1 vom
+Hundert im Verhältnis zum nominalen Bruttoinlandsprodukt übersteigen.
+Die Gesamtheit der Länder entspricht Satz 1, wenn die durch sie
+erzielten Einnahmen aus Krediten 0,35 vom Hundert im Verhältnis zum
+nominalen Bruttoinlandsprodukt nicht überschreiten. Die Aufteilung
+der für die Gesamtheit der Länder zulässigen Kreditaufnahme nach Satz
+6 auf die einzelnen Länder regelt ein Bundesgesetz mit Zustimmung des
+Bundesrates. Die nähere Ausgestaltung für die Haushalte der Länder
+regeln diese im Rahmen ihrer verfassungsrechtlichen Kompetenzen.
+Bestehende landesrechtliche Regelungen, die hinter der gemäß Satz 7
+festgelegten Kreditobergrenze zurückbleiben, treten außer Kraft.
 
 (4) Durch Bundesgesetz, das der Zustimmung des Bundesrates bedarf,
 können für Bund und Länder gemeinsam geltende Grundsätze für das
@@ -3092,11 +3001,11 @@ für eine mehrjährige Finanzplanung aufgestellt werden.
 
 (5) Sanktionsmaßnahmen der Europäischen Gemeinschaft im Zusammenhang
 mit den Bestimmungen in Artikel 104 des Vertrags zur Gründung der
-Europäischen Gemeinschaft zur Einhaltung der Haushaltsdisziplin tragen
-Bund und Länder im Verhältnis 65 zu 35. Die Ländergesamtheit trägt
-solidarisch 35 vom Hundert der auf die Länder entfallenden Lasten
-entsprechend ihrer Einwohnerzahl; 65 vom Hundert der auf die Länder
-entfallenden Lasten tragen die Länder entsprechend ihrem
+Europäischen Gemeinschaft zur Einhaltung der Haushaltsdisziplin
+tragen Bund und Länder im Verhältnis 65 zu 35. Die Ländergesamtheit
+trägt solidarisch 35 vom Hundert der auf die Länder entfallenden
+Lasten entsprechend ihrer Einwohnerzahl; 65 vom Hundert der auf
+die Länder entfallenden Lasten tragen die Länder entsprechend ihrem
 Verursachungsbeitrag. Das Nähere regelt ein Bundesgesetz, das der
 Zustimmung des Bundesrates bedarf.
 
@@ -3109,16 +3018,11 @@ der Zustimmung des Bundesrates bedarf,
 1.  die fortlaufende Überwachung der Haushaltswirtschaft von Bund und
     Ländern durch ein gemeinsames Gremium (Stabilitätsrat),
 
-
 2.  die Voraussetzungen und das Verfahren zur Feststellung einer drohenden
     Haushaltsnotlage,
 
-
 3.  die Grundsätze zur Aufstellung und Durchführung von
     Sanierungsprogrammen zur Vermeidung von Haushaltsnotlagen.
-
-
-
 
 (2) Dem Stabilitätsrat obliegt ab dem Jahr 2020 die Überwachung der
 Einhaltung der Vorgaben des Artikels 109 Absatz 3 durch Bund und
@@ -3133,8 +3037,8 @@ Beratungsunterlagen sind zu veröffentlichen.
 ### Art 110
 
 (1) Alle Einnahmen und Ausgaben des Bundes sind in den Haushaltsplan
-einzustellen; bei Bundesbetrieben und bei Sondervermögen brauchen nur
-die Zuführungen oder die Ablieferungen eingestellt zu werden. Der
+einzustellen; bei Bundesbetrieben und bei Sondervermögen brauchen
+nur die Zuführungen oder die Ablieferungen eingestellt zu werden. Der
 Haushaltsplan ist in Einnahme und Ausgabe auszugleichen.
 
 (2) Der Haushaltsplan wird für ein oder mehrere Rechnungsjahre, nach
@@ -3160,24 +3064,19 @@ Artikel 115 zu einem späteren Zeitpunkt außer Kraft treten.
 
 ### Art 111
 
-(1) Ist bis zum Schluß eines Rechnungsjahres der Haushaltsplan für das
-folgende Jahr nicht durch Gesetz festgestellt, so ist bis zu seinem
-Inkrafttreten die Bundesregierung ermächtigt, alle Ausgaben zu
+(1) Ist bis zum Schluß eines Rechnungsjahres der Haushaltsplan für
+das folgende Jahr nicht durch Gesetz festgestellt, so ist bis zu
+seinem Inkrafttreten die Bundesregierung ermächtigt, alle Ausgaben zu
 leisten, die nötig sind,
 
 a)  um gesetzlich bestehende Einrichtungen zu erhalten und gesetzlich
     beschlossene Maßnahmen durchzuführen,
 
-
 b)  um die rechtlich begründeten Verpflichtungen des Bundes zu erfüllen,
-
 
 c)  um Bauten, Beschaffungen und sonstige Leistungen fortzusetzen oder
     Beihilfen für diese Zwecke weiter zu gewähren, sofern durch den
     Haushaltsplan eines Vorjahres bereits Beträge bewilligt worden sind.
-
-
-
 
 (2) Soweit nicht auf besonderem Gesetze beruhende Einnahmen aus
 Steuern, Abgaben und sonstigen Quellen oder die Betriebsmittelrücklage
@@ -3203,8 +3102,8 @@ schließen oder für die Zukunft mit sich bringen, bedürfen der
 Zustimmung der Bundesregierung. Das gleiche gilt für Gesetze, die
 Einnahmeminderungen in sich schließen oder für die Zukunft mit sich
 bringen. Die Bundesregierung kann verlangen, daß der Bundestag die
-Beschlußfassung über solche Gesetze aussetzt. In diesem Fall hat die
-Bundesregierung innerhalb von sechs Wochen dem Bundestage eine
+Beschlußfassung über solche Gesetze aussetzt. In diesem Fall hat
+die Bundesregierung innerhalb von sechs Wochen dem Bundestage eine
 Stellungnahme zuzuleiten.
 
 (2) Die Bundesregierung kann innerhalb von vier Wochen, nachdem der
@@ -3230,8 +3129,8 @@ Unabhängigkeit besitzen, prüft die Rechnung sowie die
 Wirtschaftlichkeit und Ordnungsmäßigkeit der Haushalts- und
 Wirtschaftsführung des Bundes. Zum Zweck der Prüfung nach Satz 1 kann
 der Bundesrechnungshof auch bei Stellen außerhalb der Bundesverwaltung
-Erhebungen vornehmen; dies gilt auch in den Fällen, in denen der Bund
-den Ländern zweckgebundene Finanzierungsmittel zur Erfüllung von
+Erhebungen vornehmen; dies gilt auch in den Fällen, in denen der
+Bund den Ländern zweckgebundene Finanzierungsmittel zur Erfüllung von
 Länderaufgaben zuweist. Er hat außer der Bundesregierung unmittelbar
 dem Bundestage und dem Bundesrate jährlich zu berichten. Im übrigen
 werden die Befugnisse des Bundesrechnungshofes durch Bundesgesetz
@@ -3251,29 +3150,39 @@ Einnahmen aus Krediten 0,35 vom Hundert im Verhältnis zum nominalen
 Bruttoinlandsprodukt nicht überschreiten. Zusätzlich sind bei einer
 von der Normallage abweichenden konjunkturellen Entwicklung die
 Auswirkungen auf den Haushalt im Auf- und Abschwung symmetrisch zu
-berücksichtigen. Abweichungen der tatsächlichen Kreditaufnahme von der
-nach den Sätzen 1 bis 3 zulässigen Kreditobergrenze werden auf einem
-Kontrollkonto erfasst; Belastungen, die den Schwellenwert von 1,5 vom
-Hundert im Verhältnis zum nominalen Bruttoinlandsprodukt
+berücksichtigen. Von den zu berücksichtigenden Einnahmen aus Krediten
+ist der Betrag abzuziehen, um den die Verteidigungsausgaben, die
+Ausgaben des Bundes für den Zivil- und Bevölkerungsschutz sowie für
+die Nachrichtendienste, für den Schutz der informationstechnischen
+Systeme und für die Hilfe für völkerrechtswidrig angegriffene Staaten
+1 vom Hundert im Verhältnis zum nominalen Bruttoinlandsprodukt
+übersteigen. Abweichungen der tatsächlichen Kreditaufnahme von
+der nach den Sätzen 1 bis 4 zulässigen Kreditobergrenze werden auf
+einem Kontrollkonto erfasst; Belastungen, die den Schwellenwert von
+1,5 vom Hundert im Verhältnis zum nominalen Bruttoinlandsprodukt
 überschreiten, sind konjunkturgerecht zurückzuführen. Näheres,
-insbesondere die Bereinigung der Einnahmen und Ausgaben um finanzielle
-Transaktionen und das Verfahren zur Berechnung der Obergrenze der
-jährlichen Nettokreditaufnahme unter Berücksichtigung der
-konjunkturellen Entwicklung auf der Grundlage eines
-Konjunkturbereinigungsverfahrens sowie die Kontrolle und den Ausgleich
-von Abweichungen der tatsächlichen Kreditaufnahme von der Regelgrenze,
-regelt ein Bundesgesetz. Im Falle von Naturkatastrophen oder
-außergewöhnlichen Notsituationen, die sich der Kontrolle des Staates
-entziehen und die staatliche Finanzlage erheblich beeinträchtigen,
-können diese Kreditobergrenzen auf Grund eines Beschlusses der
-Mehrheit der Mitglieder des Bundestages überschritten werden. Der
-Beschluss ist mit einem Tilgungsplan zu verbinden. Die Rückführung der
-nach Satz 6 aufgenommenen Kredite hat binnen eines angemessenen
-Zeitraumes zu erfolgen.
+insbesondere die Bereinigung der Einnahmen und Ausgaben um
+finanzielle Transaktionen und um Verteidigungsausgaben, die Ausgaben
+des Bundes für den Zivil- und Bevölkerungsschutz sowie für die
+Nachrichtendienste, für den Schutz der informationstechnischen Systeme
+und für die Hilfe für völkerrechtswidrig angegriffene Staaten oberhalb
+von 1 vom Hundert im Verhältnis zum nominalen Bruttoinlandsprodukt
+sowie das Verfahren zur Berechnung der Obergrenze der jährlichen
+Nettokreditaufnahme unter Berücksichtigung der konjunkturellen
+Entwicklung auf der Grundlage eines Konjunkturbereinigungsverfahrens
+sowie die Kontrolle und den Ausgleich von Abweichungen der
+tatsächlichen Kreditaufnahme von der Regelgrenze, regelt ein
+Bundesgesetz. Im Falle von Naturkatastrophen oder außergewöhnlichen
+Notsituationen, die sich der Kontrolle des Staates entziehen und
+die staatliche Finanzlage erheblich beeinträchtigen, können diese
+Kreditobergrenzen auf Grund eines Beschlusses der Mehrheit der
+Mitglieder des Bundestages überschritten werden. Der Beschluss ist
+mit einem Tilgungsplan zu verbinden. Die Rückführung der nach Satz
+7 aufgenommenen Kredite hat binnen eines angemessenen Zeitraumes zu
+erfolgen.
 
 
 ## X a. - Verteidigungsfall
-
 
 
 ### Art 115a
@@ -3304,8 +3213,8 @@ und als zu dem Zeitpunkt verkündet, in dem der Angriff begonnen hat.
 Der Bundespräsident gibt diesen Zeitpunkt bekannt, sobald die Umstände
 es zulassen.
 
-(5) Ist die Feststellung des Verteidigungsfalles verkündet und wird
-das Bundesgebiet mit Waffengewalt angegriffen, so kann der
+(5) Ist die Feststellung des Verteidigungsfalles verkündet und
+wird das Bundesgebiet mit Waffengewalt angegriffen, so kann der
 Bundespräsident völkerrechtliche Erklärungen über das Bestehen des
 Verteidigungsfalles mit Zustimmung des Bundestages abgeben. Unter den
 Voraussetzungen des Absatzes 2 tritt an die Stelle des Bundestages der
@@ -3331,46 +3240,42 @@ erfordern, kann durch Bundesgesetz für den Verteidigungsfall
 1.  bei Enteignungen abweichend von Artikel 14 Abs. 3 Satz 2 die
     Entschädigung vorläufig geregelt werden,
 
-
-2.  für Freiheitsentziehungen eine von Artikel 104 Abs. 2 Satz 3 und Abs.
-    3 Satz 1 abweichende Frist, höchstens jedoch eine solche von vier
-    Tagen, für den Fall festgesetzt werden, daß ein Richter nicht
+2.  für Freiheitsentziehungen eine von Artikel 104 Abs. 2 Satz 3 und
+    Abs. 3 Satz 1 abweichende Frist, höchstens jedoch eine solche von
+    vier Tagen, für den Fall festgesetzt werden, daß ein Richter nicht
     innerhalb der für Normalzeiten geltenden Frist tätig werden konnte.
-
-
-
 
 (3) Soweit es zur Abwehr eines gegenwärtigen oder unmittelbar
 drohenden Angriffs erforderlich ist, kann für den Verteidigungsfall
-durch Bundesgesetz mit Zustimmung des Bundesrates die Verwaltung und
-das Finanzwesen des Bundes und der Länder abweichend von den
-Abschnitten VIII, VIIIa und X geregelt werden, wobei die
+durch Bundesgesetz mit Zustimmung des Bundesrates die Verwaltung
+und das Finanzwesen des Bundes und der Länder abweichend von
+den Abschnitten VIII, VIIIa und X geregelt werden, wobei die
 Lebensfähigkeit der Länder, Gemeinden und Gemeindeverbände,
 insbesondere auch in finanzieller Hinsicht, zu wahren ist.
 
-(4) Bundesgesetze nach den Absätzen 1 und 2 Nr. 1 dürfen zur
-Vorbereitung ihres Vollzuges schon vor Eintritt des
+(4) Bundesgesetze nach den Absätzen 1 und 2 Nr. 1 dürfen
+zur Vorbereitung ihres Vollzuges schon vor Eintritt des
 Verteidigungsfalles angewandt werden.
 
 
 ### Art 115d
 
 (1) Für die Gesetzgebung des Bundes gilt im Verteidigungsfalle
-abweichend von Artikel 76 Abs. 2, Artikel 77 Abs. 1 Satz 2 und Abs. 2
-bis 4, Artikel 78 und Artikel 82 Abs. 1 die Regelung der Absätze 2 und
-3\.
+abweichend von Artikel 76 Abs. 2, Artikel 77 Abs. 1 Satz 2 und Abs.
+2 bis 4, Artikel 78 und Artikel 82 Abs. 1 die Regelung der Absätze 2
+und 3.
 
 (2) Gesetzesvorlagen der Bundesregierung, die sie als dringlich
 bezeichnet, sind gleichzeitig mit der Einbringung beim Bundestage dem
 Bundesrate zuzuleiten. Bundestag und Bundesrat beraten diese Vorlagen
-unverzüglich gemeinsam. Soweit zu einem Gesetze die Zustimmung des
-Bundesrates erforderlich ist, bedarf es zum Zustandekommen des
+unverzüglich gemeinsam. Soweit zu einem Gesetze die Zustimmung
+des Bundesrates erforderlich ist, bedarf es zum Zustandekommen des
 Gesetzes der Zustimmung der Mehrheit seiner Stimmen. Das Nähere regelt
 eine Geschäftsordnung, die vom Bundestage beschlossen wird und der
 Zustimmung des Bundesrates bedarf.
 
-(3) Für die Verkündung der Gesetze gilt Artikel 115a Abs. 3 Satz 2
-entsprechend.
+(3) Für die Verkündung der Gesetze gilt Artikel 115a Abs. 3 Satz
+2 entsprechend.
 
 
 ### Art 115e
@@ -3378,15 +3283,15 @@ entsprechend.
 (1) Stellt der Gemeinsame Ausschuß im Verteidigungsfalle mit einer
 Mehrheit von zwei Dritteln der abgegebenen Stimmen, mindestens mit der
 Mehrheit seiner Mitglieder fest, daß dem rechtzeitigen Zusammentritt
-des Bundestages unüberwindliche Hindernisse entgegenstehen oder daß
-dieser nicht beschlußfähig ist, so hat der Gemeinsame Ausschuß die
-Stellung von Bundestag und Bundesrat und nimmt deren Rechte
+des Bundestages unüberwindliche Hindernisse entgegenstehen oder
+daß dieser nicht beschlußfähig ist, so hat der Gemeinsame Ausschuß
+die Stellung von Bundestag und Bundesrat und nimmt deren Rechte
 einheitlich wahr.
 
 (2) Durch ein Gesetz des Gemeinsamen Ausschusses darf das Grundgesetz
 weder geändert noch ganz oder teilweise außer Kraft oder außer
-Anwendung gesetzt werden. Zum Erlaß von Gesetzen nach Artikel 23 Abs.
-1 Satz 2, Artikel 24 Abs. 1 oder Artikel 29 ist der Gemeinsame
+Anwendung gesetzt werden. Zum Erlaß von Gesetzen nach Artikel 23
+Abs. 1 Satz 2, Artikel 24 Abs. 1 oder Artikel 29 ist der Gemeinsame
 Ausschuß nicht befugt.
 
 
@@ -3397,14 +3302,10 @@ Verhältnisse erfordern,
 
 1.  den Bundesgrenzschutz im gesamten Bundesgebiete einsetzen;
 
-
-2.  außer der Bundesverwaltung auch den Landesregierungen und, wenn sie es
-    für dringlich erachtet, den Landesbehörden Weisungen erteilen und
-    diese Befugnis auf von ihr zu bestimmende Mitglieder der
+2.  außer der Bundesverwaltung auch den Landesregierungen und, wenn sie
+    es für dringlich erachtet, den Landesbehörden Weisungen erteilen
+    und diese Befugnis auf von ihr zu bestimmende Mitglieder der
     Landesregierungen übertragen.
-
-
-
 
 (2) Bundestag, Bundesrat und der Gemeinsame Ausschuß sind unverzüglich
 von den nach Absatz 1 getroffenen Maßnahmen zu unterrichten.
@@ -3413,9 +3314,9 @@ von den nach Absatz 1 getroffenen Maßnahmen zu unterrichten.
 ### Art 115g
 
 Die verfassungsmäßige Stellung und die Erfüllung der
-verfassungsmäßigen Aufgaben des Bundesverfassungsgerichtes und seiner
-Richter dürfen nicht beeinträchtigt werden. Das Gesetz über das
-Bundesverfassungsgericht darf durch ein Gesetz des Gemeinsamen
+verfassungsmäßigen Aufgaben des Bundesverfassungsgerichtes und
+seiner Richter dürfen nicht beeinträchtigt werden. Das Gesetz über
+das Bundesverfassungsgericht darf durch ein Gesetz des Gemeinsamen
 Ausschusses nur insoweit geändert werden, als dies auch nach
 Auffassung des Bundesverfassungsgerichtes zur Aufrechterhaltung der
 Funktionsfähigkeit des Gerichtes erforderlich ist. Bis zum Erlaß eines
@@ -3438,8 +3339,8 @@ eines Mitgliedes des Bundesverfassungsgerichtes endet sechs Monate
 nach Beendigung des Verteidigungsfalles.
 
 (2) Wird eine Neuwahl des Bundeskanzlers durch den Gemeinsamen
-Ausschuß erforderlich, so wählt dieser einen neuen Bundeskanzler mit
-der Mehrheit seiner Mitglieder; der Bundespräsident macht dem
+Ausschuß erforderlich, so wählt dieser einen neuen Bundeskanzler
+mit der Mehrheit seiner Mitglieder; der Bundespräsident macht dem
 Gemeinsamen Ausschuß einen Vorschlag. Der Gemeinsame Ausschuß kann dem
 Bundeskanzler das Mißtrauen nur dadurch aussprechen, daß er mit der
 Mehrheit von zwei Dritteln seiner Mitglieder einen Nachfolger wählt.
@@ -3451,12 +3352,12 @@ Bundestages ausgeschlossen.
 ### Art 115i
 
 (1) Sind die zuständigen Bundesorgane außerstande, die notwendigen
-Maßnahmen zur Abwehr der Gefahr zu treffen, und erfordert die Lage
-unabweisbar ein sofortiges selbständiges Handeln in einzelnen Teilen
-des Bundesgebietes, so sind die Landesregierungen oder die von ihnen
-bestimmten Behörden oder Beauftragten befugt, für ihren
-Zuständigkeitsbereich Maßnahmen im Sinne des Artikels 115f Abs. 1 zu
-treffen.
+Maßnahmen zur Abwehr der Gefahr zu treffen, und erfordert die
+Lage unabweisbar ein sofortiges selbständiges Handeln in einzelnen
+Teilen des Bundesgebietes, so sind die Landesregierungen oder die
+von ihnen bestimmten Behörden oder Beauftragten befugt, für ihren
+Zuständigkeitsbereich Maßnahmen im Sinne des Artikels 115f Abs. 1
+zu treffen.
 
 (2) Maßnahmen nach Absatz 1 können durch die Bundesregierung, im
 Verhältnis zu Landesbehörden und nachgeordneten Bundesbehörden auch
@@ -3476,13 +3377,13 @@ Rechtsverordnungen, die auf Grund solcher Gesetze ergangen sind,
 treten spätestens sechs Monate nach Beendigung des Verteidigungsfalles
 außer Kraft.
 
-(3) Gesetze, die von den Artikeln 91a, 91b, 104a, 106 und 107
-abweichende Regelungen enthalten, gelten längstens bis zum Ende des
-zweiten Rechnungsjahres, das auf die Beendigung des
-Verteidigungsfalles folgt. Sie können nach Beendigung des
+(3) Gesetze, die von den Artikeln 91a, 91b, 104a, 106 und
+107 abweichende Regelungen enthalten, gelten längstens bis
+zum Ende des zweiten Rechnungsjahres, das auf die Beendigung
+des Verteidigungsfalles folgt. Sie können nach Beendigung des
 Verteidigungsfalles durch Bundesgesetz mit Zustimmung des Bundesrates
-geändert werden, um zu der Regelung gemäß den Abschnitten VIIIa und X
-überzuleiten.
+geändert werden, um zu der Regelung gemäß den Abschnitten VIIIa und
+X überzuleiten.
 
 
 ### Art 115l
@@ -3494,8 +3395,8 @@ der Gefahr getroffene Maßnahmen des Gemeinsamen Ausschusses oder der
 Bundesregierung sind aufzuheben, wenn der Bundestag und der Bundesrat
 es beschließen.
 
-(2) Der Bundestag kann mit Zustimmung des Bundesrates jederzeit durch
-einen vom Bundespräsidenten zu verkündenden Beschluß den
+(2) Der Bundestag kann mit Zustimmung des Bundesrates jederzeit
+durch einen vom Bundespräsidenten zu verkündenden Beschluß den
 Verteidigungsfall für beendet erklären. Der Bundesrat kann verlangen,
 daß der Bundestag hierüber beschließt. Der Verteidigungsfall ist
 unverzüglich für beendet zu erklären, wenn die Voraussetzungen für
@@ -3505,7 +3406,6 @@ seine Feststellung nicht mehr gegeben sind.
 
 
 ## XI. - Übergangs- und Schlußbestimmungen
-
 
 
 ### Art 116
@@ -3520,8 +3420,8 @@ in dem Gebiete des Deutschen Reiches nach dem Stande vom 31. Dezember
 (2) Frühere deutsche Staatsangehörige, denen zwischen dem 30. Januar
 1933 und dem 8. Mai 1945 die Staatsangehörigkeit aus politischen,
 rassischen oder religiösen Gründen entzogen worden ist, und ihre
-Abkömmlinge sind auf Antrag wieder einzubürgern. Sie gelten als nicht
-ausgebürgert, sofern sie nach dem 8. Mai 1945 ihren Wohnsitz in
+Abkömmlinge sind auf Antrag wieder einzubürgern. Sie gelten als
+nicht ausgebürgert, sofern sie nach dem 8. Mai 1945 ihren Wohnsitz in
 Deutschland genommen haben und nicht einen entgegengesetzten Willen
 zum Ausdruck gebracht haben.
 
@@ -3540,9 +3440,9 @@ durch Bundesgesetz in Kraft.
 ### Art 118
 
 Die Neugliederung in dem die Länder Baden, Württemberg-Baden und
-Württemberg-Hohenzollern umfassenden Gebiete kann abweichend von den
-Vorschriften des Artikels 29 durch Vereinbarung der beteiligten Länder
-erfolgen. Kommt eine Vereinbarung nicht zustande, so wird die
+Württemberg-Hohenzollern umfassenden Gebiete kann abweichend von
+den Vorschriften des Artikels 29 durch Vereinbarung der beteiligten
+Länder erfolgen. Kommt eine Vereinbarung nicht zustande, so wird die
 Neugliederung durch Bundesgesetz geregelt, das eine Volksbefragung
 vorsehen muß.
 
@@ -3568,18 +3468,18 @@ obersten Landesbehörden zu richten.
 
 ### Art 120
 
-(1) Der Bund trägt die Aufwendungen für Besatzungskosten und die
-sonstigen inneren und äußeren Kriegsfolgelasten nach näherer
+(1) Der Bund trägt die Aufwendungen für Besatzungskosten und
+die sonstigen inneren und äußeren Kriegsfolgelasten nach näherer
 Bestimmung von Bundesgesetzen. Soweit diese Kriegsfolgelasten bis zum
 1\. Oktober 1969 durch Bundesgesetze geregelt worden sind, tragen Bund
 und Länder im Verhältnis zueinander die Aufwendungen nach Maßgabe
-dieser Bundesgesetze. Soweit Aufwendungen für Kriegsfolgelasten, die
-in Bundesgesetzen weder geregelt worden sind noch geregelt werden, bis
-zum 1. Oktober 1965 von den Ländern, Gemeinden (Gemeindeverbänden)
-oder sonstigen Aufgabenträgern, die Aufgaben von Ländern oder
-Gemeinden erfüllen, erbracht worden sind, ist der Bund zur Übernahme
-von Aufwendungen dieser Art auch nach diesem Zeitpunkt nicht
-verpflichtet. Der Bund trägt die Zuschüsse zu den Lasten der
+dieser Bundesgesetze. Soweit Aufwendungen für Kriegsfolgelasten,
+die in Bundesgesetzen weder geregelt worden sind noch geregelt
+werden, bis zum 1. Oktober 1965 von den Ländern, Gemeinden
+(Gemeindeverbänden) oder sonstigen Aufgabenträgern, die Aufgaben von
+Ländern oder Gemeinden erfüllen, erbracht worden sind, ist der Bund
+zur Übernahme von Aufwendungen dieser Art auch nach diesem Zeitpunkt
+nicht verpflichtet. Der Bund trägt die Zuschüsse zu den Lasten der
 Sozialversicherung mit Einschluß der Arbeitslosenversicherung und der
 Arbeitslosenhilfe. Die durch diesen Absatz geregelte Verteilung der
 Kriegsfolgelasten auf Bund und Länder läßt die gesetzliche Regelung
@@ -3608,8 +3508,8 @@ zu richten.
 
 ### Art 121
 
-Mehrheit der Mitglieder des Bundestages und der Bundesversammlung im
-Sinne dieses Grundgesetzes ist die Mehrheit ihrer gesetzlichen
+Mehrheit der Mitglieder des Bundestages und der Bundesversammlung
+im Sinne dieses Grundgesetzes ist die Mehrheit ihrer gesetzlichen
 Mitgliederzahl.
 
 
@@ -3629,11 +3529,11 @@ diesem Zeitpunkt aufgelöst.
 (1) Recht aus der Zeit vor dem Zusammentritt des Bundestages gilt
 fort, soweit es dem Grundgesetze nicht widerspricht.
 
-(2) Die vom Deutschen Reich abgeschlossenen Staatsverträge, die sich
-auf Gegenstände beziehen, für die nach diesem Grundgesetze die
+(2) Die vom Deutschen Reich abgeschlossenen Staatsverträge, die
+sich auf Gegenstände beziehen, für die nach diesem Grundgesetze die
 Landesgesetzgebung zuständig ist, bleiben, wenn sie nach allgemeinen
-Rechtsgrundsätzen gültig sind und fortgelten, unter Vorbehalt aller
-Rechte und Einwendungen der Beteiligten in Kraft, bis neue
+Rechtsgrundsätzen gültig sind und fortgelten, unter Vorbehalt
+aller Rechte und Einwendungen der Beteiligten in Kraft, bis neue
 Staatsverträge durch die nach diesem Grundgesetze zuständigen Stellen
 abgeschlossen werden oder ihre Beendigung auf Grund der in ihnen
 enthaltenen Bestimmungen anderweitig erfolgt.
@@ -3653,21 +3553,17 @@ betrifft, wird innerhalb seines Geltungsbereiches Bundesrecht,
 1.  soweit es innerhalb einer oder mehrerer Besatzungszonen einheitlich
     gilt,
 
-
 2.  soweit es sich um Recht handelt, durch das nach dem 8. Mai 1945
     früheres Reichsrecht abgeändert worden ist.
-
-
-
 
 
 ### Art 125a
 
 (1) Recht, das als Bundesrecht erlassen worden ist, aber wegen der
-Änderung des Artikels 74 Abs. 1, der Einfügung des Artikels 84 Abs. 1
-Satz 7, des Artikels 85 Abs. 1 Satz 2 oder des Artikels 105 Abs. 2a
-Satz 2 oder wegen der Aufhebung der Artikel 74a, 75 oder 98 Abs. 3
-Satz 2 nicht mehr als Bundesrecht erlassen werden könnte, gilt als
+Änderung des Artikels 74 Abs. 1, der Einfügung des Artikels 84 Abs.
+1 Satz 7, des Artikels 85 Abs. 1 Satz 2 oder des Artikels 105 Abs.
+2a Satz 2 oder wegen der Aufhebung der Artikel 74a, 75 oder 98 Abs.
+3 Satz 2 nicht mehr als Bundesrecht erlassen werden könnte, gilt als
 Bundesrecht fort. Es kann durch Landesrecht ersetzt werden.
 
 (2) Recht, das auf Grund des Artikels 72 Abs. 2 in der bis zum 15.
@@ -3716,16 +3612,16 @@ erlassen worden ist, gilt bis zum 31. Dezember 2006 fort.
 
 (2) Die nach Artikel 104a Abs. 4 in der bis zum 1. September 2006
 geltenden Fassung in den Bereichen der Gemeindeverkehrsfinanzierung
-und der sozialen Wohnraumförderung geschaffenen Regelungen gelten bis
-zum 31. Dezember 2006 fort. Die im Bereich der
-Gemeindeverkehrsfinanzierung für die besonderen Programme nach § 6
-Absatz 1 des Gemeindeverkehrsfinanzierungsgesetzes sowie die mit dem
-Gesetz über Finanzhilfen des Bundes nach Artikel 104a Absatz 4 des
-Grundgesetzes an die Länder Bremen, Hamburg, Mecklenburg-Vorpommern,
-Niedersachsen sowie Schleswig-Holstein für Seehäfen vom 20. Dezember
-2001 nach Artikel 104a Absatz 4 in der bis zum 1. September 2006
-geltenden Fassung geschaffenen Regelungen gelten bis zu ihrer
-Aufhebung fort. Eine Änderung des
+und der sozialen Wohnraumförderung geschaffenen Regelungen
+gelten bis zum 31. Dezember 2006 fort. Die im Bereich der
+Gemeindeverkehrsfinanzierung für die besonderen Programme nach
+§ 6 Absatz 1 des Gemeindeverkehrsfinanzierungsgesetzes sowie
+die mit dem Gesetz über Finanzhilfen des Bundes nach Artikel
+104a Absatz 4 des Grundgesetzes an die Länder Bremen, Hamburg,
+Mecklenburg-Vorpommern, Niedersachsen sowie Schleswig-Holstein
+für Seehäfen vom 20. Dezember 2001 nach Artikel 104a Absatz 4
+in der bis zum 1. September 2006 geltenden Fassung geschaffenen
+Regelungen gelten bis zu ihrer Aufhebung fort. Eine Änderung des
 Gemeindeverkehrsfinanzierungsgesetzes durch Bundesgesetz ist zulässig.
 Die sonstigen nach Artikel 104a Absatz 4 in der bis zum 1. September
 2006 geltenden Fassung geschaffenen Regelungen gelten bis zum 31.
@@ -3745,8 +3641,8 @@ Bundesrecht entscheidet das Bundesverfassungsgericht.
 
 ### Art 127
 
-Die Bundesregierung kann mit Zustimmung der Regierungen der
-beteiligten Länder Recht der Verwaltung des Vereinigten
+Die Bundesregierung kann mit Zustimmung der Regierungen
+der beteiligten Länder Recht der Verwaltung des Vereinigten
 Wirtschaftsgebietes, soweit es nach Artikel 124 oder 125 als
 Bundesrecht fortgilt, innerhalb eines Jahres nach Verkündung dieses
 Grundgesetzes in den Ländern Baden, Groß-Berlin, Rheinland-Pfalz und
@@ -3762,12 +3658,12 @@ Regelung bestehen.
 
 ### Art 129
 
-(1) Soweit in Rechtsvorschriften, die als Bundesrecht fortgelten, eine
-Ermächtigung zum Erlasse von Rechtsverordnungen oder allgemeinen
+(1) Soweit in Rechtsvorschriften, die als Bundesrecht fortgelten,
+eine Ermächtigung zum Erlasse von Rechtsverordnungen oder allgemeinen
 Verwaltungsvorschriften sowie zur Vornahme von Verwaltungsakten
-enthalten ist, geht sie auf die nunmehr sachlich zuständigen Stellen
-über. In Zweifelsfällen entscheidet die Bundesregierung im
-Einvernehmen mit dem Bundesrate; die Entscheidung ist zu
+enthalten ist, geht sie auf die nunmehr sachlich zuständigen
+Stellen über. In Zweifelsfällen entscheidet die Bundesregierung
+im Einvernehmen mit dem Bundesrate; die Entscheidung ist zu
 veröffentlichen.
 
 (2) Soweit in Rechtsvorschriften, die als Landesrecht fortgelten, eine
@@ -3785,10 +3681,10 @@ mehr bestehende Einrichtungen verwiesen ist.
 
 ### Art 130
 
-(1) Verwaltungsorgane und sonstige der öffentlichen Verwaltung oder
-Rechtspflege dienende Einrichtungen, die nicht auf Landesrecht oder
-Staatsverträgen zwischen Ländern beruhen, sowie die
-Betriebsvereinigung der südwestdeutschen Eisenbahnen und der
+(1) Verwaltungsorgane und sonstige der öffentlichen Verwaltung
+oder Rechtspflege dienende Einrichtungen, die nicht auf
+Landesrecht oder Staatsverträgen zwischen Ländern beruhen, sowie
+die Betriebsvereinigung der südwestdeutschen Eisenbahnen und der
 Verwaltungsrat für das Post- und Fernmeldewesen für das französische
 Besatzungsgebiet unterstehen der Bundesregierung. Diese regelt mit
 Zustimmung des Bundesrates die Überführung, Auflösung oder Abwicklung.
@@ -3804,13 +3700,13 @@ Bundesbehörde.
 
 ### Art 131
 
-Die Rechtsverhältnisse von Personen einschließlich der Flüchtlinge und
-Vertriebenen, die am 8. Mai 1945 im öffentlichen Dienste standen, aus
-anderen als beamten- oder tarifrechtlichen Gründen ausgeschieden sind
-und bisher nicht oder nicht ihrer früheren Stellung entsprechend
+Die Rechtsverhältnisse von Personen einschließlich der Flüchtlinge
+und Vertriebenen, die am 8. Mai 1945 im öffentlichen Dienste standen,
+aus anderen als beamten- oder tarifrechtlichen Gründen ausgeschieden
+sind und bisher nicht oder nicht ihrer früheren Stellung entsprechend
 verwendet werden, sind durch Bundesgesetz zu regeln. Entsprechendes
-gilt für Personen einschließlich der Flüchtlinge und Vertriebenen, die
-am 8. Mai 1945 versorgungsberechtigt waren und aus anderen als
+gilt für Personen einschließlich der Flüchtlinge und Vertriebenen,
+die am 8. Mai 1945 versorgungsberechtigt waren und aus anderen als
 beamten- oder tarifrechtlichen Gründen keine oder keine entsprechende
 Versorgung mehr erhalten. Bis zum Inkrafttreten des Bundesgesetzes
 können vorbehaltlich anderweitiger landesrechtlicher Regelung
@@ -3823,8 +3719,8 @@ Rechtsansprüche nicht geltend gemacht werden.
 Grundgesetzes auf Lebenszeit angestellt sind, können binnen sechs
 Monaten nach dem ersten Zusammentritt des Bundestages in den Ruhestand
 oder Wartestand oder in ein Amt mit niedrigerem Diensteinkommen
-versetzt werden, wenn ihnen die persönliche oder fachliche Eignung für
-ihr Amt fehlt. Auf Angestellte, die in einem unkündbaren
+versetzt werden, wenn ihnen die persönliche oder fachliche Eignung
+für ihr Amt fehlt. Auf Angestellte, die in einem unkündbaren
 Dienstverhältnis stehen, findet diese Vorschrift entsprechende
 Anwendung. Bei Angestellten, deren Dienstverhältnis kündbar ist,
 können über die tarifmäßige Regelung hinausgehende Kündigungsfristen
@@ -3922,23 +3818,18 @@ nicht oder nicht in voller Höhe zu erfüllen sind
     Landes Preußen und sonstiger nicht mehr bestehender Körperschaften und
     Anstalten des öffentlichen Rechts,
 
-
 2.  Verbindlichkeiten des Bundes oder anderer Körperschaften und Anstalten
     des öffentlichen Rechts, welche mit dem Übergang von Vermögenswerten
     nach Artikel 89, 90, 134 und 135 im Zusammenhang stehen, und
     Verbindlichkeiten dieser Rechtsträger, die auf Maßnahmen der in Nummer
     1 bezeichneten Rechtsträger beruhen,
 
-
-3.  Verbindlichkeiten der Länder und Gemeinden (Gemeindeverbände), die aus
-    Maßnahmen entstanden sind, welche diese Rechtsträger vor dem 1. August
-    1945 zur Durchführung von Anordnungen der Besatzungsmächte oder zur
-    Beseitigung eines kriegsbedingten Notstandes im Rahmen dem Reich
+3.  Verbindlichkeiten der Länder und Gemeinden (Gemeindeverbände), die
+    aus Maßnahmen entstanden sind, welche diese Rechtsträger vor dem 1.
+    August 1945 zur Durchführung von Anordnungen der Besatzungsmächte oder
+    zur Beseitigung eines kriegsbedingten Notstandes im Rahmen dem Reich
     obliegender oder vom Reich übertragener Verwaltungsaufgaben getroffen
     haben.
-
-
-
 
 (2) Absatz 1 findet entsprechende Anwendung auf Verbindlichkeiten der
 Deutschen Demokratischen Republik oder ihrer Rechtsträger sowie auf
@@ -3985,8 +3876,8 @@ bedürfen der Zustimmung der Regierungen dieser Länder.
 
 ### Art 139
 
-Die zur "Befreiung des deutschen Volkes vom Nationalsozialismus und
-Militarismus" erlassenen Rechtsvorschriften werden von den
+Die zur "Befreiung des deutschen Volkes vom Nationalsozialismus
+und Militarismus" erlassenen Rechtsvorschriften werden von den
 Bestimmungen dieses Grundgesetzes nicht berührt.
 
 
@@ -4013,12 +3904,11 @@ gewährleisten.
 ### Art 142a (weggefallen)
 
 
-
 ### Art 143
 
-(1) Recht in dem in Artikel 3 des Einigungsvertrags genannten Gebiet
-kann längstens bis zum 31. Dezember 1992 von Bestimmungen dieses
-Grundgesetzes abweichen, soweit und solange infolge der
+(1) Recht in dem in Artikel 3 des Einigungsvertrags genannten
+Gebiet kann längstens bis zum 31. Dezember 1992 von Bestimmungen
+dieses Grundgesetzes abweichen, soweit und solange infolge der
 unterschiedlichen Verhältnisse die völlige Anpassung an die
 grundgesetzliche Ordnung noch nicht erreicht werden kann. Abweichungen
 dürfen nicht gegen Artikel 19 Abs. 2 verstoßen und müssen mit den in
@@ -4029,8 +3919,8 @@ sind längstens bis zum 31. Dezember 1995 zulässig.
 
 (3) Unabhängig von Absatz 1 und 2 haben Artikel 41 des
 Einigungsvertrags und Regelungen zu seiner Durchführung auch insoweit
-Bestand, als sie vorsehen, daß Eingriffe in das Eigentum auf dem in
-Artikel 3 dieses Vertrags genannten Gebiet nicht mehr rückgängig
+Bestand, als sie vorsehen, daß Eingriffe in das Eigentum auf dem
+in Artikel 3 dieses Vertrags genannten Gebiet nicht mehr rückgängig
 gemacht werden.
 
 
@@ -4039,8 +3929,8 @@ gemacht werden.
 (1) Der Bund hat die ausschließliche Gesetzgebung über alle
 Angelegenheiten, die sich aus der Umwandlung der in bundeseigener
 Verwaltung geführten Bundeseisenbahnen in Wirtschaftsunternehmen
-ergeben. Artikel 87e Abs. 5 findet entsprechende Anwendung. Beamte der
-Bundeseisenbahnen können durch Gesetz unter Wahrung ihrer
+ergeben. Artikel 87e Abs. 5 findet entsprechende Anwendung. Beamte
+der Bundeseisenbahnen können durch Gesetz unter Wahrung ihrer
 Rechtsstellung und der Verantwortung des Dienstherrn einer privat-
 rechtlich organisierten Eisenbahn des Bundes zur Dienstleistung
 zugewiesen werden.
@@ -4048,8 +3938,8 @@ zugewiesen werden.
 (2) Gesetze nach Absatz 1 führt der Bund aus.
 
 (3) Die Erfüllung der Aufgaben im Bereich des
-Schienenpersonennahverkehrs der bisherigen Bundeseisenbahnen ist bis
-zum 31. Dezember 1995 Sache des Bundes. Dies gilt auch für die
+Schienenpersonennahverkehrs der bisherigen Bundeseisenbahnen ist
+bis zum 31. Dezember 1995 Sache des Bundes. Dies gilt auch für die
 entsprechenden Aufgaben der Eisenbahnverkehrsverwaltung. Das Nähere
 wird durch Bundesgesetz geregelt, das der Zustimmung des Bundesrates
 bedarf.
@@ -4078,14 +3968,14 @@ Dienstherrn bei den privaten Unternehmen beschäftigt. Die Unternehmen
 
 ### Art 143c
 
-(1) Den Ländern stehen ab dem 1. Januar 2007 bis zum 31. Dezember 2019
-für den durch die Abschaffung der Gemeinschaftsaufgaben Ausbau und
-Neubau von Hochschulen einschließlich Hochschulkliniken und
+(1) Den Ländern stehen ab dem 1. Januar 2007 bis zum 31. Dezember
+2019 für den durch die Abschaffung der Gemeinschaftsaufgaben Ausbau
+und Neubau von Hochschulen einschließlich Hochschulkliniken und
 Bildungsplanung sowie für den durch die Abschaffung der Finanzhilfen
 zur Verbesserung der Verkehrsverhältnisse der Gemeinden und zur
 sozialen Wohnraumförderung bedingten Wegfall der Finanzierungsanteile
-des Bundes jährlich Beträge aus dem Haushalt des Bundes zu. Bis zum
-31\. Dezember 2013 werden diese Beträge aus dem Durchschnitt der
+des Bundes jährlich Beträge aus dem Haushalt des Bundes zu. Bis
+zum 31. Dezember 2013 werden diese Beträge aus dem Durchschnitt der
 Finanzierungsanteile des Bundes im Referenzzeitraum 2000 bis 2008
 ermittelt.
 
@@ -4096,19 +3986,15 @@ Dezember 2013 wie folgt verteilt:
     Durchschnittsanteil eines jeden Landes im Zeitraum 2000 bis 2003
     errechnet;
 
-
 2.  jeweils zweckgebunden an den Aufgabenbereich der bisherigen
     Mischfinanzierungen.
 
-
-
-
-(3) Bund und Länder überprüfen bis Ende 2013, in welcher Höhe die den
-Ländern nach Absatz 1 zugewiesenen Finanzierungsmittel zur
-Aufgabenerfüllung der Länder noch angemessen und erforderlich sind. Ab
-dem 1. Januar 2014 entfällt die nach Absatz 2 Nr. 2 vorgesehene
-Zweckbindung der nach Absatz 1 zugewiesenen Finanzierungsmittel; die
-investive Zweckbindung des Mittelvolumens bleibt bestehen. Die
+(3) Bund und Länder überprüfen bis Ende 2013, in welcher Höhe die
+den Ländern nach Absatz 1 zugewiesenen Finanzierungsmittel zur
+Aufgabenerfüllung der Länder noch angemessen und erforderlich sind.
+Ab dem 1. Januar 2014 entfällt die nach Absatz 2 Nr. 2 vorgesehene
+Zweckbindung der nach Absatz 1 zugewiesenen Finanzierungsmittel;
+die investive Zweckbindung des Mittelvolumens bleibt bestehen. Die
 Vereinbarungen aus dem Solidarpakt II bleiben unberührt.
 
 (4) Das Nähere regelt ein Bundesgesetz, das der Zustimmung des
@@ -4122,8 +4008,8 @@ sind letztmals auf das Haushaltsjahr 2010 anzuwenden. Artikel 109 und
 115 in der ab dem 1. August 2009 geltenden Fassung sind erstmals für
 das Haushaltsjahr 2011 anzuwenden; am 31. Dezember 2010 bestehende
 Kreditermächtigungen für bereits eingerichtete Sondervermögen bleiben
-unberührt. Die Länder dürfen im Zeitraum vom 1. Januar 2011 bis zum
-31\. Dezember 2019 nach Maßgabe der geltenden landesrechtlichen
+unberührt. Die Länder dürfen im Zeitraum vom 1. Januar 2011 bis
+zum 31. Dezember 2019 nach Maßgabe der geltenden landesrechtlichen
 Regelungen von den Vorgaben des Artikels 109 Absatz 3 abweichen. Die
 Haushalte der Länder sind so aufzustellen, dass im Haushaltsjahr 2020
 die Vorgabe aus Artikel 109 Absatz 3 Satz 5 erfüllt wird. Der Bund
@@ -4134,22 +4020,22 @@ jährlichen Haushalte sind so aufzustellen, dass im Haushaltsjahr 2016
 die Vorgabe aus Artikel 115 Absatz 2 Satz 2 erfüllt wird; das Nähere
 regelt ein Bundesgesetz.
 
-(2) Als Hilfe zur Einhaltung der Vorgaben des Artikels 109 Absatz 3 ab
-dem 1. Januar 2020 können den Ländern Berlin, Bremen, Saarland,
-Sachsen-Anhalt und Schleswig-Holstein für den Zeitraum 2011 bis 2019
-Konsolidierungshilfen aus dem Haushalt des Bundes in Höhe von
-insgesamt 800 Millionen Euro jährlich gewährt werden. Davon entfallen
-auf Bremen 300 Millionen Euro, auf das Saarland 260 Millionen Euro und
-auf Berlin, Sachsen-Anhalt und Schleswig-Holstein jeweils 80 Millionen
-Euro. Die Hilfen werden auf der Grundlage einer
-Verwaltungsvereinbarung nach Maßgabe eines Bundesgesetzes mit
-Zustimmung des Bundesrates geleistet. Die Gewährung der Hilfen setzt
-einen vollständigen Abbau der Finanzierungsdefizite bis zum Jahresende
-2020 voraus. Das Nähere, insbesondere die jährlichen Abbauschritte der
-Finanzierungsdefizite, die Überwachung des Abbaus der
-Finanzierungsdefizite durch den Stabilitätsrat sowie die Konsequenzen
-im Falle der Nichteinhaltung der Abbauschritte, wird durch
-Bundesgesetz mit Zustimmung des Bundesrates und durch
+(2) Als Hilfe zur Einhaltung der Vorgaben des Artikels 109 Absatz 3
+ab dem 1. Januar 2020 können den Ländern Berlin, Bremen, Saarland,
+Sachsen-Anhalt und Schleswig-Holstein für den Zeitraum 2011 bis
+2019 Konsolidierungshilfen aus dem Haushalt des Bundes in Höhe
+von insgesamt 800 Millionen Euro jährlich gewährt werden. Davon
+entfallen auf Bremen 300 Millionen Euro, auf das Saarland 260
+Millionen Euro und auf Berlin, Sachsen-Anhalt und Schleswig-Holstein
+jeweils 80 Millionen Euro. Die Hilfen werden auf der Grundlage
+einer Verwaltungsvereinbarung nach Maßgabe eines Bundesgesetzes
+mit Zustimmung des Bundesrates geleistet. Die Gewährung der Hilfen
+setzt einen vollständigen Abbau der Finanzierungsdefizite bis zum
+Jahresende 2020 voraus. Das Nähere, insbesondere die jährlichen
+Abbauschritte der Finanzierungsdefizite, die Überwachung des
+Abbaus der Finanzierungsdefizite durch den Stabilitätsrat sowie
+die Konsequenzen im Falle der Nichteinhaltung der Abbauschritte,
+wird durch Bundesgesetz mit Zustimmung des Bundesrates und durch
 Verwaltungsvereinbarung geregelt. Die gleichzeitige Gewährung der
 Konsolidierungshilfen und Sanierungshilfen auf Grund einer extremen
 Haushaltsnotlage ist ausgeschlossen.
@@ -4160,8 +4046,8 @@ ihrem Umsatzsteueranteil, getragen. Das Nähere wird durch Bundesgesetz
 mit Zustimmung des Bundesrates geregelt.
 
 (4) Als Hilfe zur künftig eigenständigen Einhaltung der Vorgaben des
-Artikels 109 Absatz 3 können den Ländern Bremen und Saarland ab dem 1.
-Januar 2020 Sanierungshilfen in Höhe von jährlich insgesamt 800
+Artikels 109 Absatz 3 können den Ländern Bremen und Saarland ab dem
+1\. Januar 2020 Sanierungshilfen in Höhe von jährlich insgesamt 800
 Millionen Euro aus dem Haushalt des Bundes gewährt werden. Die Länder
 ergreifen hierzu Maßnahmen zum Abbau der übermäßigen Verschuldung
 sowie zur Stärkung der Wirtschafts- und Finanzkraft. Das Nähere regelt
@@ -4172,9 +4058,9 @@ Grund einer extremen Haushaltsnotlage ist ausgeschlossen.
 
 ### Art 143e
 
-(1) Die Bundesautobahnen werden abweichend von Artikel 90 Absatz 2
-längstens bis zum 31. Dezember 2020 in Auftragsverwaltung durch die
-Länder oder die nach Landesrecht zuständigen
+(1) Die Bundesautobahnen werden abweichend von Artikel 90 Absatz
+2 längstens bis zum 31. Dezember 2020 in Auftragsverwaltung
+durch die Länder oder die nach Landesrecht zuständigen
 Selbstverwaltungskörperschaften geführt. Der Bund regelt die
 Umwandlung der Auftragsverwaltung in Bundesverwaltung nach Artikel 90
 Absatz 2 und 4 durch Bundesgesetz mit Zustimmung des Bundesrates.
@@ -4195,27 +4081,50 @@ Voraussetzungen eine Rückübertragung erfolgen kann.
 
 ### Art 143f
 
-Artikel 143d, das Gesetz über den Finanzausgleich zwischen Bund und
-Ländern sowie sonstige auf der Grundlage von Artikel 107 Absatz 2 in
-seiner ab dem 1. Januar 2020 geltenden Fassung erlassene Gesetze
-treten außer Kraft, wenn nach dem 31. Dezember 2030 die
-Bundesregierung, der Bundestag oder gemeinsam mindestens drei Länder
-Verhandlungen über eine Neuordnung der bundesstaatlichen
+Artikel 143d, das Gesetz über den Finanzausgleich zwischen Bund
+und Ländern sowie sonstige auf der Grundlage von Artikel 107 Absatz
+2 in seiner ab dem 1. Januar 2020 geltenden Fassung erlassene
+Gesetze treten außer Kraft, wenn nach dem 31. Dezember 2030 die
+Bundesregierung, der Bundestag oder gemeinsam mindestens drei
+Länder Verhandlungen über eine Neuordnung der bundesstaatlichen
 Finanzbeziehungen verlangt haben und mit Ablauf von fünf Jahren nach
 Notifikation des Verhandlungsverlangens der Bundesregierung, des
 Bundestages oder der Länder beim Bundespräsidenten keine gesetzliche
 Neuordnung der bundesstaatlichen Finanzbeziehungen in Kraft getreten
-ist. Der Tag des Außerkrafttretens ist im Bundesgesetzblatt bekannt zu
-geben.
+ist. Der Tag des Außerkrafttretens ist im Bundesgesetzblatt bekannt
+zu geben.
 
 
 ### Art 143g
 
 Für die Regelung der Steuerertragsverteilung, des
-Länderfinanzausgleichs und der Bundesergänzungszuweisungen bis zum 31.
-Dezember 2019 ist Artikel 107 in seiner bis zum Inkrafttreten des
+Länderfinanzausgleichs und der Bundesergänzungszuweisungen bis zum
+31\. Dezember 2019 ist Artikel 107 in seiner bis zum Inkrafttreten des
 Gesetzes zur Änderung des Grundgesetzes vom 13. Juli 2017 geltenden
 Fassung weiter anzuwenden.
+
+
+### Art 143h
+
+(1) Der Bund kann ein Sondervermögen mit eigener Kreditermächtigung
+für zusätzliche Investitionen in die Infrastruktur und für
+zusätzliche Investitionen zur Erreichung der Klimaneutralität
+bis zum Jahr 2045 mit einem Volumen von bis zu 500 Milliarden
+Euro errichten. Zusätzlichkeit liegt vor, wenn im jeweiligen
+Haushaltsjahr eine angemessene Investitionsquote im Bundeshaushalt
+erreicht wird. Auf die Kreditermächtigung sind Artikel 109 Absatz
+3 und Artikel 115 Absatz 2 nicht anzuwenden. Investitionen aus dem
+Sondervermögen können innerhalb einer Laufzeit von zwölf Jahren
+bewilligt werden. Zuführungen aus dem Sondervermögen in den Klima-
+und Transformationsfonds werden in Höhe von 100 Milliarden Euro
+vorgenommen. Das Nähere regelt ein Bundesgesetz.
+
+(2) Aus dem Sondervermögen nach Absatz 1 Satz 1 stehen den Ländern
+100 Milliarden Euro auch für Investitionen der Länder in deren
+Infrastruktur zur Verfügung. Die Länder haben dem Bund über die
+Mittelverwendung Bericht zu erstatten. Der Bund ist zur Prüfung der
+zweckentsprechenden Mittelverwendung berechtigt. Das Nähere regelt ein
+Bundesgesetz mit Zustimmung des Bundesrates.
 
 
 ### Art 144
@@ -4233,8 +4142,8 @@ Recht, gemäß Artikel 38 Vertreter in den Bundestag und gemäß Artikel
 
 ### Art 145
 
-(1) Der Parlamentarische Rat stellt in öffentlicher Sitzung unter
-Mitwirkung der Abgeordneten Groß-Berlins die Annahme dieses
+(1) Der Parlamentarische Rat stellt in öffentlicher Sitzung
+unter Mitwirkung der Abgeordneten Groß-Berlins die Annahme dieses
 Grundgesetzes fest, fertigt es aus und verkündet es.
 
 (2) Dieses Grundgesetz tritt mit Ablauf des Tages der Verkündung in
@@ -4255,6 +4164,7 @@ dem deutschen Volke in freier Entscheidung beschlossen worden ist.
 
 - EinigVtr v. 31.8.1990 II 889, 890 - 892, -
 sieht folgende Maßgaben vor:
+
 Artikel 3
 Inkrafttreten des Grundgesetzes
 Mit dem Wirksamwerden des Beitritts tritt das Grundgesetz für die
@@ -4265,9 +4175,11 @@ Ländern Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt
 und Thüringen sowie in dem Teil des Landes Berlin, in dem es bisher
 nicht galt, mit den sich aus Artikel 4 ergebenden Änderungen in Kraft,
 soweit in diesem Vertrag nichts anderes bestimmt ist.
+
 Artikel 4
 Beitrittsbedingte Änderungen des Grundgesetzes
 ... (betroffen: Präambel, Art. 23, 51, 135a, 143, 146)
+
 Artikel 5
 Künftige Verfassungsänderungen
 Die Regierungen der beiden Vertragsparteien empfehlen den
@@ -4275,60 +4187,44 @@ gesetzgebenden Körperschaften des vereinten Deutschlands, sich
 innerhalb von zwei Jahren mit den im Zusammenhang mit der deutschen
 Einigung aufgeworfenen Fragen zur Änderung oder Ergänzung des
 Grundgesetzes zu befassen, insbesondere
-
--   in bezug auf das Verhältnis zwischen Bund und Ländern entsprechend dem
-    Gemeinsamen Beschluß der Ministerpräsidenten vom 5. Juli 1990,
-
-
--   in bezug auf die Möglichkeit einer Neugliederung für den Raum
-    Berlin/Brandenburg abweichend von den Vorschriften des Artikels 29 des
-    Grundgesetzes durch Vereinbarung der beteiligten Länder,
-
-
--   mit den Überlegungen zur Aufnahme von Staatszielbestimmungen in das
-    Grundgesetz sowie
-
-
--   mit der Frage der Anwendung des Artikels 146 des Grundgesetzes und in
-    deren Rahmen einer Volksabstimmung.
-
-
+- in bezug auf das Verhältnis zwischen Bund und Ländern entsprechend
+dem Gemeinsamen Beschluß der Ministerpräsidenten vom 5. Juli 1990,
+- in bezug auf die Möglichkeit einer Neugliederung für den Raum
+Berlin/Brandenburg abweichend von den Vorschriften des Artikels 29 des
+Grundgesetzes durch Vereinbarung der beteiligten Länder,
+- mit den Überlegungen zur Aufnahme von Staatszielbestimmungen in das
+Grundgesetz sowie
+- mit der Frage der Anwendung des Artikels 146 des Grundgesetzes und
+in deren Rahmen einer Volksabstimmung.
 
 Artikel 6
 Ausnahmebestimmung
 Artikel 131 des Grundgesetzes wird in dem in Artikel 3 genannten
 Gebiet vorerst nicht in Kraft gesetzt.
+
 Artikel 7
 Finanzverfassung
-(1) Die Finanzverfassung der Bundesrepublik Deutschland wird auf das
-in Artikel 3 genannte Gebiet erstreckt, soweit in diesem Vertrag
+(1) Die Finanzverfassung der Bundesrepublik Deutschland wird auf
+das in Artikel 3 genannte Gebiet erstreckt, soweit in diesem Vertrag
 nichts anderes bestimmt ist.
 
 (2) Für die Verteilung des Steueraufkommens auf den Bund sowie auf die
 Länder und Gemeinden (Gemeindeverbände) in dem in Artikel 3 genannten
 Gebiet gelten die Bestimmungen des Artikels 106 des Grundgesetzes mit
 der Maßgabe, daß
-
-1.  bis zum 31. Dezember 1994 Absatz 3 Satz 4 und Absatz 4 keine Anwendung
-    finden;
-
-
-2.  bis zum 31. Dezember 1996 der Anteil der Gemeinden an dem Aufkommen
-    der Einkommensteuer nach Artikel 106 Abs. 5 des Grundgesetzes von den
-    Ländern an die Gemeinden nicht auf der Grundlage der
-    Einkommensteuerleistung ihrer Einwohner, sondern nach der
-    Einwohnerzahl der Gemeinden weitergeleitet wird;
-
-
-3.  bis zum 31. Dezember 1994 abweichend von Artikel 106 Abs. 7 des
-    Grundgesetzes den Gemeinden (Gemeindeverbänden) von dem Länderanteil
-    am Gesamtaufkommen der Gemeinschaftssteuern und dem gesamten Aufkommen
-    der Landessteuern ein jährlicher Anteil von mindestens 20 vom Hundert
-    sowie vom Länderanteil aus den Mitteln des Fonds "Deutsche Einheit"
-    nach Absatz 5 Nr. 1 ein jährlicher Anteil von 40 vom Hundert zufließt.
-
-
-
+1\. bis zum 31. Dezember 1994 Absatz 3 Satz 4 und Absatz 4 keine
+Anwendung finden;
+2\. bis zum 31. Dezember 1996 der Anteil der Gemeinden an dem
+Aufkommen der Einkommensteuer nach Artikel 106 Abs. 5 des
+Grundgesetzes von den Ländern an die Gemeinden nicht auf der Grundlage
+der Einkommensteuerleistung ihrer Einwohner, sondern nach der
+Einwohnerzahl der Gemeinden weitergeleitet wird;
+3\. bis zum 31. Dezember 1994 abweichend von Artikel 106 Abs. 7 des
+Grundgesetzes den Gemeinden (Gemeindeverbänden) von dem Länderanteil
+am Gesamtaufkommen der Gemeinschaftssteuern und dem gesamten Aufkommen
+der Landessteuern ein jährlicher Anteil von mindestens 20 vom Hundert
+sowie vom Länderanteil aus den Mitteln des Fonds "Deutsche Einheit"
+nach Absatz 5 Nr. 1 ein jährlicher Anteil von 40 vom Hundert zufließt.
 
 (3) Artikel 107 des Grundgesetzes gilt in dem in Artikel 3 genannten
 Gebiet mit der Maßgabe, daß bis zum 31. Dezember 1994 zwischen den
@@ -4336,65 +4232,39 @@ bisherigen Ländern der Bundesrepublik Deutschland und den Ländern in
 dem in Artikel 3 genannten Gebiet die Regelung des Absatzes 1 Satz 4
 nicht angewendet wird und ein gesamtdeutscher Länderfinanzausgleich
 (Artikel 107 Abs. 2 des Grundgesetzes) nicht stattfindet. Der
-gesamtdeutsche Länderanteil an der Umsatzsteuer wird so in einen Ost-
-und Westanteil aufgeteilt, daß im Ergebnis der durchschnittliche
+gesamtdeutsche Länderanteil an der Umsatzsteuer wird so in einen
+Ost- und Westanteil aufgeteilt, daß im Ergebnis der durchschnittliche
 Umsatzsteueranteil pro Einwohner in den Ländern Brandenburg,
 Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen in den
 Jahren
-
-*    *   1991
-
-    *   55 vom Hundert
-
-
-*    *   1992
-
-    *   60 vom Hundert
-
-
-*    *   1993
-
-    *   65 vom Hundert
-
-
-*    *   1994
-
-    *   70 vom Hundert
-
-
-
-des durchschnittlichen Umsatzsteueranteils pro Einwohner in den
-Ländern Baden-Württemberg, Bayern, Bremen, Hessen, Hamburg,
+199155 vom Hundert199260 vom Hundert199365 vom Hundert199470 vom
+Hundert
+des durchschnittlichen Umsatzsteueranteils pro Einwohner in
+den Ländern Baden-Württemberg, Bayern, Bremen, Hessen, Hamburg,
 Niedersachsen, Nordrhein-Westfalen, Rheinland-Pfalz, Saarland und
 Schleswig-Holstein beträgt. Der Anteil des Landes Berlin wird vorab
 nach der Einwohnerzahl berechnet. Die Regelungen dieses Absatzes
 werden für 1993 in Ansehung der dann vorhandenen Gegebenheiten
 überprüft.
 
-(4) Das in Artikel 3 genannte Gebiet wird in die Regelungen der
-Artikel 91a, 91b und 104a Abs. 3 und 4 des Grundgesetzes
+(4) Das in Artikel 3 genannte Gebiet wird in die Regelungen
+der Artikel 91a, 91b und 104a Abs. 3 und 4 des Grundgesetzes
 einschließlich der hierzu ergangenen Ausführungsbestimmungen nach
 Maßgabe dieses Vertrags mit Wirkung vom 1. Januar 1991 einbezogen.
 
 (5) Nach Herstellung der deutschen Einheit werden die jährlichen
 Leistungen des Fonds "Deutsche Einheit"
-
-1.  zu 85 vom Hundert als besondere Unterstützung den Ländern Brandenburg,
-    Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen sowie
-    dem Land Berlin zur Deckung ihres allgemeinen Finanzbedarfs gewährt
-    und auf diese Länder im Verhältnis ihrer Einwohnerzahl ohne
-    Berücksichtigung der Einwohnerzahl von Berlin (West) verteilt sowie
-
-
-2.  zu 15 vom Hundert zur Erfüllung zentraler öffentlicher Aufgaben auf
-    dem Gebiet der vorgenannten Länder verwendet.
-
-
-
+1\. zu 85 vom Hundert als besondere Unterstützung den Ländern
+Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und
+Thüringen sowie dem Land Berlin zur Deckung ihres allgemeinen
+Finanzbedarfs gewährt und auf diese Länder im Verhältnis ihrer
+Einwohnerzahl ohne Berücksichtigung der Einwohnerzahl von Berlin
+(West) verteilt sowie
+2\. zu 15 vom Hundert zur Erfüllung zentraler öffentlicher Aufgaben auf
+dem Gebiet der vorgenannten Länder verwendet.
 
 (6) Bei grundlegender Veränderung der Gegebenheiten werden die
 Möglichkeiten weiterer Hilfe zum angemessenen Ausgleich der
 Finanzkraft für die Länder in dem in Artikel 3 genannten Gebiet von
 Bund und Ländern gemeinsam geprüft.
-
 

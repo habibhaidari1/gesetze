@@ -19,11 +19,10 @@ Neugefasst durch
 :   Bek. v. 24.5.1974 I 1213;
 
 Zuletzt geändert durch
-:   Art. 10 Abs. 8 G v. 30.10.2017 I 3618
+:   Art. 1 G v. 21.2.2025 I Nr. 55
 
 
 ## Erster Teil - Allgemeine Bestimmungen
-
 
 
 ### § 1 Geltungsbereich
@@ -34,15 +33,18 @@ begehen.
 (2) Es gilt auch für Straftaten, durch die militärische Vorgesetzte,
 die nicht Soldaten sind, ihre Pflichten verletzen (§§ 30 bis 41).
 
-(3) Wegen Verletzung von Privatgeheimnissen (§ 203 Absatz 2, 5 und 6,
-§§ 204, 205 des Strafgesetzbuches), wegen Verletzung des Post- oder
-Fernmeldegeheimnisses (§ 206 Abs. 4 des Strafgesetzbuches) und wegen
-Verletzung des Dienstgeheimnisses (§ 353b Abs. 1 des
+(3) Wegen einer Tätigkeit für eine fremde Macht (§ 47) sind auch
+frühere Soldaten strafbar.
+
+(4) Wegen Verletzung von Privatgeheimnissen (§ 203 Absatz 2, 5 und
+6, §§ 204, 205 des Strafgesetzbuches), wegen Verletzung des Post-
+oder Fernmeldegeheimnisses (§ 206 Abs. 4 des Strafgesetzbuches)
+und wegen Verletzung des Dienstgeheimnisses (§ 353b Abs. 1 des
 Strafgesetzbuches) sind nach Maßgabe des § 48 auch frühere Soldaten
 strafbar, soweit ihnen diese Geheimnisse während des Wehrdienstes
 anvertraut worden oder sonst bekanntgeworden sind.
 
-(4) Wegen Anstiftung und Beihilfe zu militärischen Straftaten sowie
+(5) Wegen Anstiftung und Beihilfe zu militärischen Straftaten sowie
 wegen Versuchs der Beteiligung an solchen Straftaten ist nach diesem
 Gesetz auch strafbar, wer nicht Soldat ist.
 
@@ -53,14 +55,11 @@ Gesetz auch strafbar, wer nicht Soldat ist.
 für Taten, die nach diesem Gesetz mit Strafe bedroht sind und im
 Ausland begangen werden, wenn der Täter
 
-1.  Soldat ist oder zu den in § 1 Abs. 2 bezeichneten Personen gehört oder
-
+1.  Soldat oder früherer Soldat ist oder zu den in § 1 Abs. 2 bezeichneten
+    Personen gehört oder
 
 2.  Deutscher ist und seine Lebensgrundlage im räumlichen Geltungsbereich
     dieses Gesetzes hat.
-
-
-
 
 (2) Das deutsche Strafrecht gilt, unabhängig vom Recht des Tatorts,
 auch für Taten, die ein Soldat während eines dienstlichen Aufenthalts
@@ -74,20 +73,15 @@ Im Sinne dieses Gesetzes ist
 1.  eine militärische Straftat eine Handlung, die der Zweite Teil dieses
     Gesetzes mit Strafe bedroht;
 
-
 2.  ein Befehl eine Anweisung zu einem bestimmten Verhalten, die ein
     militärischer Vorgesetzter (§ 1 Abs. 3 des Soldatengesetzes) einem
     Untergebenen schriftlich, mündlich oder in anderer Weise, allgemein
     oder für den Einzelfall und mit dem Anspruch auf Gehorsam erteilt;
 
-
 3.  eine schwerwiegende Folge eine Gefahr für die Sicherheit der
     Bundesrepublik Deutschland, die Schlagkraft der Truppe, Leib oder
     Leben eines Menschen oder Sachen von bedeutendem Wert, die dem Täter
     nicht gehören.
-
-
-
 
 
 ### § 3 Anwendung des allgemeinen Strafrechts
@@ -101,8 +95,8 @@ sind, gelten besondere Vorschriften des Jugendgerichtsgesetzes.
 
 ### § 4 Militärische Straftaten gegen verbündete Streitkräfte
 
-(1) Die Vorschriften dieses Gesetzes sind auch dann anzuwenden, wenn
-ein Soldat der Bundeswehr eine militärische Straftat gegen
+(1) Die Vorschriften dieses Gesetzes sind auch dann anzuwenden,
+wenn ein Soldat der Bundeswehr eine militärische Straftat gegen
 Streitkräfte eines verbündeten Staates oder eines ihrer Mitglieder
 begeht.
 
@@ -118,8 +112,8 @@ Schuld nur, wenn er erkennt, daß es sich um eine rechtswidrige Tat
 handelt oder dies nach den ihm bekannten Umständen offensichtlich ist.
 
 (2) Ist die Schuld des Untergebenen mit Rücksicht auf die besondere
-Lage, in der er sich bei der Ausführung des Befehls befand, gering, so
-kann das Gericht die Strafe nach § 49 Abs. 1 des Strafgesetzbuches
+Lage, in der er sich bei der Ausführung des Befehls befand, gering,
+so kann das Gericht die Strafe nach § 49 Abs. 1 des Strafgesetzbuches
 mildern, bei Vergehen auch von Strafe absehen.
 
 
@@ -165,19 +159,19 @@ Disziplin gebieten.
 
 ### § 11 Ersatzfreiheitsstrafe
 
-Ist wegen einer Tat, die ein Soldat während der Ausübung des Dienstes
-oder in Beziehung auf den Dienst begangen hat, eine Geldstrafe bis zu
-einhundertachtzig Tagessätzen verhängt, so ist die
-Ersatzfreiheitsstrafe Strafarrest. Einem Tagessatz entspricht ein Tag
-Strafarrest.
+Ist wegen einer Tat, die ein Soldat während der Ausübung des
+Dienstes oder in Beziehung auf den Dienst begangen hat, eine
+Geldstrafe bis zu einhundertachtzig Tagessätzen verhängt, so ist die
+Ersatzfreiheitsstrafe Strafarrest. Zwei Tagessätzen entspricht ein
+Tag Strafarrest.
 
 
 ### § 12 Strafarrest statt Freiheitsstrafe
 
 Darf auf Geldstrafe nach § 10 nicht erkannt werden oder ist bei
-Straftaten von Soldaten die Verhängung einer Freiheitsstrafe, die nach
-§ 47 des Strafgesetzbuches unerläßlich ist, auch zur Wahrung der
-Disziplin geboten, so ist, wenn eine Freiheitsstrafe von mehr als
+Straftaten von Soldaten die Verhängung einer Freiheitsstrafe, die
+nach § 47 des Strafgesetzbuches unerläßlich ist, auch zur Wahrung
+der Disziplin geboten, so ist, wenn eine Freiheitsstrafe von mehr als
 sechs Monaten nicht in Betracht kommt, auf Strafarrest zu erkennen.
 
 
@@ -188,12 +182,12 @@ von mehr als sechs Monaten Strafarrest zu bilden, so wird statt auf
 Strafarrest auf Freiheitsstrafe erkannt. Die Gesamtstrafe darf zwei
 Jahre nicht übersteigen.
 
-(2) Trifft zeitige Freiheitsstrafe mit Strafarrest zusammen, so ist
-die Gesamtstrafe durch Erhöhung der Freiheitsstrafe zu bilden. Jedoch
-ist auf Freiheitsstrafe und Strafarrest gesondert zu erkennen, wenn
-die Voraussetzungen für die Aussetzung der Vollstreckung des
-Strafarrestes nicht vorliegen, die Vollstreckung der Gesamtstrafe aber
-zur Bewährung ausgesetzt werden müßte. In diesem Fall sind beide
+(2) Trifft zeitige Freiheitsstrafe mit Strafarrest zusammen, so
+ist die Gesamtstrafe durch Erhöhung der Freiheitsstrafe zu bilden.
+Jedoch ist auf Freiheitsstrafe und Strafarrest gesondert zu erkennen,
+wenn die Voraussetzungen für die Aussetzung der Vollstreckung des
+Strafarrestes nicht vorliegen, die Vollstreckung der Gesamtstrafe
+aber zur Bewährung ausgesetzt werden müßte. In diesem Fall sind beide
 Strafen so zu kürzen, daß ihre Summe die Dauer der sonst zu bildenden
 Gesamtstrafe nicht überschreitet.
 
@@ -244,23 +238,21 @@ berücksichtigen.
 ## Zweiter Teil - Militärische Straftaten
 
 
-
 ### Erster Abschnitt - Straftaten gegen die Pflicht zur militärischen Dienstleistung
-
 
 
 #### § 15 Eigenmächtige Abwesenheit
 
-(1) Wer eigenmächtig seine Truppe oder Dienststelle verläßt oder ihr
-fernbleibt und vorsätzlich oder fahrlässig länger als drei volle
+(1) Wer eigenmächtig seine Truppe oder Dienststelle verläßt oder
+ihr fernbleibt und vorsätzlich oder fahrlässig länger als drei volle
 Kalendertage abwesend ist, wird mit Freiheitsstrafe bis zu drei Jahren
 bestraft.
 
 (2) Ebenso wird bestraft, wer außerhalb des räumlichen
 Geltungsbereichs dieses Gesetzes von seiner Truppe oder Dienststelle
-abgekommen ist und es vorsätzlich oder fahrlässig unterläßt, sich bei
-ihr, einer anderen Truppe oder Dienststelle der Bundeswehr oder einer
-Behörde der Bundesrepublik Deutschland innerhalb von drei vollen
+abgekommen ist und es vorsätzlich oder fahrlässig unterläßt, sich
+bei ihr, einer anderen Truppe oder Dienststelle der Bundeswehr oder
+einer Behörde der Bundesrepublik Deutschland innerhalb von drei vollen
 Kalendertagen zu melden.
 
 
@@ -278,16 +270,16 @@ zu fünf Jahren bestraft.
 der Verpflichtung zum Wehrdienst nachzukommen, so ist die Strafe
 Freiheitsstrafe bis zu drei Jahren.
 
-(4) Die Vorschriften über den Versuch der Beteiligung nach § 30 Abs. 1
-des Strafgesetzbuches gelten für Straftaten nach Absatz 1
+(4) Die Vorschriften über den Versuch der Beteiligung nach § 30
+Abs. 1 des Strafgesetzbuches gelten für Straftaten nach Absatz 1
 entsprechend.
 
 
 #### § 17 Selbstverstümmelung
 
-(1) Wer sich oder einen anderen Soldaten mit dessen Einwilligung durch
-Verstümmelung oder auf andere Weise zum Wehrdienst untauglich macht
-oder machen läßt, wird mit Freiheitsstrafe bis zu fünf Jahren
+(1) Wer sich oder einen anderen Soldaten mit dessen Einwilligung
+durch Verstümmelung oder auf andere Weise zum Wehrdienst untauglich
+macht oder machen läßt, wird mit Freiheitsstrafe bis zu fünf Jahren
 bestraft. Dies gilt auch dann, wenn der Täter die Untauglichkeit nur
 für eine gewisse Zeit oder teilweise herbeiführt.
 
@@ -297,15 +289,14 @@ für eine gewisse Zeit oder teilweise herbeiführt.
 #### § 18 Dienstentziehung durch Täuschung
 
 (1) Wer sich oder einen anderen Soldaten durch arglistige, auf
-Täuschung berechnete Machenschaften dem Wehrdienst dauernd oder für
-eine gewisse Zeit, ganz oder teilweise entzieht, wird mit
+Täuschung berechnete Machenschaften dem Wehrdienst dauernd oder
+für eine gewisse Zeit, ganz oder teilweise entzieht, wird mit
 Freiheitsstrafe bis zu fünf Jahren bestraft.
 
 (2) Der Versuch ist strafbar.
 
 
 ### Zweiter Abschnitt - Straftaten gegen die Pflichten der Untergebenen
-
 
 
 #### § 19 Ungehorsam
@@ -324,16 +315,13 @@ der Regel vor, wenn der Täter durch die Tat
     Sicherheit der Bundesrepublik Deutschland oder die Schlagkraft der
     Truppe oder
 
-
 2.  fahrlässig den Tod oder eine schwere Körperverletzung eines anderen (§
     226 des Strafgesetzbuches)
 
-
-
 verursacht.
 
-(4) Die Vorschriften über den Versuch der Beteiligung nach § 30 Abs. 1
-des Strafgesetzbuches gelten für Straftaten nach Absatz 1
+(4) Die Vorschriften über den Versuch der Beteiligung nach § 30
+Abs. 1 des Strafgesetzbuches gelten für Straftaten nach Absatz 1
 entsprechend.
 
 
@@ -344,12 +332,8 @@ entsprechend.
 1.  wer die Befolgung eines Befehls dadurch verweigert, daß er sich mit
     Wort oder Tat gegen ihn auflehnt, oder
 
-
 2.  wer darauf beharrt, einen Befehl nicht zu befolgen, nachdem dieser
     wiederholt worden ist.
-
-
-
 
 (2) Verweigert der Täter in den Fällen des Absatzes 1 Nr. 1 den
 Gehorsam gegenüber einem Befehl, der nicht sofort auszuführen ist,
@@ -374,8 +358,8 @@ Dies gilt auch, wenn der Untergebene irrig annimmt, der Befehl sei
 verbindlich.
 
 (2) Befolgt ein Untergebener einen Befehl nicht, weil er irrig
-annimmt, daß durch die Ausführung eine Straftat begangen würde, so ist
-er nach den §§ 19 bis 21 nicht strafbar, wenn er den Irrtum nicht
+annimmt, daß durch die Ausführung eine Straftat begangen würde, so
+ist er nach den §§ 19 bis 21 nicht strafbar, wenn er den Irrtum nicht
 vermeiden konnte.
 
 (3) Nimmt ein Untergebener irrig an, daß ein Befehl aus anderen
@@ -455,9 +439,9 @@ begangen wird, wird mit Freiheitsstrafe bis zu drei Jahren bestraft.
 
 (1) Verabreden Soldaten, gemeinschaftlich eine Gehorsamsverweigerung
 (§ 20), eine Bedrohung (§ 23), eine Nötigung (§ 24), einen tätlichen
-Angriff (§ 25) oder eine Meuterei (§ 27) zu begehen, so werden sie
-nach den Vorschriften bestraft, die für die Begehung der Tat gelten.
-In den Fällen des § 27 kann die Strafe nach § 49 Abs. 1 des
+Angriff (§ 25) oder eine Meuterei (§ 27) zu begehen, so werden
+sie nach den Vorschriften bestraft, die für die Begehung der Tat
+gelten. In den Fällen des § 27 kann die Strafe nach § 49 Abs. 1 des
 Strafgesetzbuches gemildert werden.
 
 (2) Nach Absatz 1 wird nicht bestraft, wer nach der Verabredung
@@ -476,10 +460,7 @@ Täters, aber
 1.  Offizier oder Unteroffizier ist und einen höheren Dienstgrad als der
     Täter hat oder
 
-
 2.  im Dienst dessen Vorgesetzter ist,
-
-
 
 und der Täter oder der andere zur Zeit der Tat im Dienst ist oder die
 Tat sich auf eine Diensthandlung bezieht.
@@ -488,7 +469,6 @@ Tat sich auf eine Diensthandlung bezieht.
 
 
 ### Dritter Abschnitt - Straftaten gegen die Pflichten der Vorgesetzten
-
 
 
 #### § 30 Mißhandlung
@@ -525,8 +505,8 @@ der Regel vor, wenn der Täter sein Verhalten beharrlich wiederholt.
 #### § 32 Mißbrauch der Befehlsbefugnis zu unzulässigen Zwecken
 
 Wer seine Befehlsbefugnis oder Dienststellung gegenüber einem
-Untergebenen zu Befehlen, Forderungen oder Zumutungen mißbraucht, die
-nicht in Beziehung zum Dienst stehen oder dienstlichen Zwecken
+Untergebenen zu Befehlen, Forderungen oder Zumutungen mißbraucht,
+die nicht in Beziehung zum Dienst stehen oder dienstlichen Zwecken
 zuwiderlaufen, wird mit Freiheitsstrafe bis zu zwei Jahren bestraft,
 wenn die Tat nicht in anderen Vorschriften mit schwererer Strafe
 bedroht ist.
@@ -534,8 +514,8 @@ bedroht ist.
 
 #### § 33 Verleiten zu einer rechtswidrigen Tat
 
-Wer durch Mißbrauch seiner Befehlsbefugnis oder Dienststellung einen
-Untergebenen zu einer von diesem begangenen rechtswidrigen Tat
+Wer durch Mißbrauch seiner Befehlsbefugnis oder Dienststellung
+einen Untergebenen zu einer von diesem begangenen rechtswidrigen Tat
 bestimmt hat, die den Tatbestand eines Strafgesetzes verwirklicht,
 wird nach den Vorschriften bestraft, die für die Begehung der Tat
 gelten. Die Strafe kann bis auf das Doppelte der sonst zulässigen
@@ -546,9 +526,9 @@ angedrohten Strafe hinaus erhöht werden.
 #### § 34 Erfolgloses Verleiten zu einer rechtswidrigen Tat
 
 (1) Wer durch Mißbrauch seiner Befehlsbefugnis oder Dienststellung
-einen Untergebenen zu bestimmen versucht, eine rechtswidrige Tat, die
-den Tatbestand eines Strafgesetzes verwirklicht, zu begehen oder zu
-ihr anzustiften, wird nach den für die Begehung der Tat geltenden
+einen Untergebenen zu bestimmen versucht, eine rechtswidrige Tat,
+die den Tatbestand eines Strafgesetzes verwirklicht, zu begehen oder
+zu ihr anzustiften, wird nach den für die Begehung der Tat geltenden
 Vorschriften bestraft. Jedoch kann die Strafe nach § 49 Abs. 1 des
 Strafgesetzbuches gemildert werden.
 
@@ -584,10 +564,7 @@ zur Zeit der Tat nicht Vorgesetzter des anderen, aber
 1.  Offizier oder Unteroffizier ist und einen höheren Dienstgrad als der
     andere hat oder
 
-
 2.  im Dienst dessen Vorgesetzter ist
-
-
 
 und der bei der Tat seine Dienststellung mißbraucht.
 
@@ -619,15 +596,11 @@ Ein Disziplinarvorgesetzter, der absichtlich oder wissentlich
     verfolgt werden darf, disziplinarrechtlich verfolgt oder auf eine
     solche Verfolgung hinwirkt,
 
-
 2.  zum Nachteil des Untergebenen eine Disziplinarmaßnahme verhängt, die
     nach Art oder Höhe im Gesetz nicht vorgesehen ist oder die er nicht
     verhängen darf, oder
 
-
 3.  ein Dienstvergehen mit unerlaubten Maßnahmen ahndet,
-
-
 
 wird mit Freiheitsstrafe bis zu fünf Jahren bestraft.
 
@@ -640,20 +613,17 @@ Wer es seiner Pflicht als Vorgesetzter zuwider unterläßt,
     rechtswidrige Tat begangen hat, die den Tatbestand eines Strafgesetzes
     verwirklicht, oder
 
-
 2.  eine solche Sache an die Strafverfolgungsbehörde abzugeben,
 
-
-
-um den Untergebenen der im Gesetz vorgesehenen Strafe oder Maßnahme (§
-11 Abs. 1 Nr. 8 des Strafgesetzbuches) zu entziehen, wird mit
+um den Untergebenen der im Gesetz vorgesehenen Strafe oder Maßnahme
+(§ 11 Abs. 1 Nr. 8 des Strafgesetzbuches) zu entziehen, wird mit
 Freiheitsstrafe bis zu drei Jahren bestraft.
 
 
 #### § 41 Mangelhafte Dienstaufsicht
 
-(1) Wer es unterläßt, Untergebene pflichtgemäß zu beaufsichtigen oder
-beaufsichtigen zu lassen, und dadurch wenigstens fahrlässig eine
+(1) Wer es unterläßt, Untergebene pflichtgemäß zu beaufsichtigen
+oder beaufsichtigen zu lassen, und dadurch wenigstens fahrlässig eine
 schwerwiegende Folge (§ 2 Nr. 3) verursacht, wird mit Freiheitsstrafe
 bis zu drei Jahren bestraft.
 
@@ -670,7 +640,6 @@ Vorschriften mit schwererer Strafe bedroht ist.
 ### Vierter Abschnitt - Straftaten gegen andere militärische Pflichten
 
 
-
 #### § 42 Unwahre dienstliche Meldung
 
 (1) Wer
@@ -678,14 +647,10 @@ Vorschriften mit schwererer Strafe bedroht ist.
 1.  in einer dienstlichen Meldung oder Erklärung unwahre Angaben über
     Tatsachen von dienstlicher Bedeutung macht,
 
-
 2.  eine solche Meldung weitergibt, ohne sie pflichtgemäß zu berichtigen,
     oder
 
-
 3.  eine dienstliche Meldung unrichtig übermittelt
-
-
 
 und dadurch wenigstens fahrlässig eine schwerwiegende Folge (§ 2 Nr.
 3) verursacht, wird mit Freiheitsstrafe bis zu drei Jahren bestraft.
@@ -715,33 +680,29 @@ machen, wird mit Freiheitsstrafe bis zu drei Jahren bestraft.
 1.  als Wachvorgesetzter es unterläßt, die Wache pflichtgemäß zu
     beaufsichtigen,
 
-
 2.  pflichtwidrig seinen Postenbereich oder Streifenweg verläßt oder
-
 
 3.  sich außerstande setzt, seinen Dienst zu versehen,
 
-
-
 wird mit Freiheitsstrafe bis zu drei Jahren bestraft.
 
-(2) Ebenso wird bestraft, wer im Wachdienst in anderen als den in
-Absatz 1 bezeichneten Fällen Befehle nicht befolgt, die für den
-Wachdienst gelten, und dadurch wenigstens fahrlässig eine
+(2) Ebenso wird bestraft, wer im Wachdienst in anderen als den
+in Absatz 1 bezeichneten Fällen Befehle nicht befolgt, die für
+den Wachdienst gelten, und dadurch wenigstens fahrlässig eine
 schwerwiegende Folge (§ 2 Nr. 3) verursacht.
 
 (3) Der Versuch ist strafbar.
 
-(4) In besonders schweren Fällen ist die Strafe Freiheitsstrafe von
-sechs Monaten bis zu fünf Jahren. § 19 Abs. 3 Satz 2 gilt
+(4) In besonders schweren Fällen ist die Strafe Freiheitsstrafe
+von sechs Monaten bis zu fünf Jahren. § 19 Abs. 3 Satz 2 gilt
 entsprechend.
 
 (5) Wer in den Fällen der Absätze 1 oder 2 fahrlässig handelt und
 dadurch wenigstens fahrlässig eine schwerwiegende Folge verursacht (§
 2 Nr. 3), wird mit Freiheitsstrafe bis zu zwei Jahren bestraft.
 
-(6) Wird ein Befehl nicht befolgt (Absatz 2), so gelten § 22 sowie die
-Vorschriften über den Versuch der Beteiligung nach § 30 Abs. 1 des
+(6) Wird ein Befehl nicht befolgt (Absatz 2), so gelten § 22 sowie
+die Vorschriften über den Versuch der Beteiligung nach § 30 Abs. 1 des
 Strafgesetzbuches entsprechend.
 
 
@@ -754,13 +715,9 @@ ist,
 
 1.  sich außerstande setzt, den Auftrag pflichtgemäß zu erfüllen,
 
-
 2.  seinen Posten verläßt oder
 
-
 3.  Befehle nicht befolgt, die für die Ausführung des Auftrags gelten,
-
-
 
 und dadurch wenigstens fahrlässig eine schwerwiegende Folge (§ 2 Nr.
 3) verursacht.
@@ -773,16 +730,38 @@ Freiheitsstrafe bis zu einem Jahr bestraft, wenn die Tat nicht in
 anderen Vorschriften mit schwererer Strafe bedroht ist.
 
 
-#### § 47
+#### § 47 Tätigkeit für eine fremde Macht
 
-(weggefallen)
+(1) Wer als Soldat oder früherer Soldat ohne die nach § 20 oder §
+20a des Soldatengesetzes erforderliche Genehmigung eine Tätigkeit
+für eine fremde Macht oder einen ihrer Mittelsmänner ausübt, wird mit
+Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
+
+(2) Wer in den Fällen des Absatzes 1 leichtfertig handelt, wird mit
+Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
+
+(3) Die Tat ist nicht strafbar, wenn eine Gefahr für die
+Sicherheitsinteressen der Bundesrepublik Deutschland auf Grund der
+ausgeübten Tätigkeit offensichtlich ausgeschlossen werden kann.
+
+(4) Die Tat wird nur mit Ermächtigung des Bundesministeriums der
+Verteidigung verfolgt.
+
+(5) Das Gericht kann die Strafe nach seinem Ermessen mildern (§ 49
+Absatz 2 des Strafgesetzbuches) oder von einer Bestrafung nach diesen
+Vorschriften absehen, wenn der Täter freiwillig sein Verhalten aufgibt
+und sein Wissen einer Dienststelle offenbart. Ist der Täter von der
+fremden Macht oder einem ihrer Mittelsmänner zu seinem Verhalten
+gedrängt worden, so wird er nach diesen Vorschriften nicht bestraft,
+wenn er freiwillig sein Verhalten aufgibt und sein Wissen unverzüglich
+einer Dienststelle offenbart.
 
 
 #### § 48 Verletzung anderer Dienstpflichten
 
 (1) Für die Anwendung der Vorschriften des Strafgesetzbuches über
 
-*   Gefangenenbefreiung (§ 120 Abs. 2),
+-   Gefangenenbefreiung (§ 120 Abs. 2),
 
     Verletzung der Vertraulichkeit des Wortes (§ 201 Abs. 3),
 
@@ -804,15 +783,13 @@ anderen Vorschriften mit schwererer Strafe bedroht ist.
 
     Verletzung des Dienstgeheimnisses (§ 353b Abs. 1)
 
-
-
 stehen Offiziere und Unteroffiziere den Amtsträgern und ihr Wehrdienst
 dem Amt gleich.
 
-(2) Für die Anwendung der Vorschriften des Strafgesetzbuches über
-Gefangenenbefreiung (§ 120 Abs. 2), Vorteilsannahme und
+(2) Für die Anwendung der Vorschriften des Strafgesetzbuches
+über Gefangenenbefreiung (§ 120 Abs. 2), Vorteilsannahme und
 Bestechlichkeit (§§ 331, 332, 335 Absatz 1 Nummer 1 Buchstabe a,
-Absatz 2, § 336), Falschbeurkundung im Amt (§ 348) und Verletzung des
-Dienstgeheimnisses (§ 353b Abs. 1) stehen auch Mannschaften den
+Absatz 2, § 336), Falschbeurkundung im Amt (§ 348) und Verletzung
+des Dienstgeheimnisses (§ 353b Abs. 1) stehen auch Mannschaften den
 Amtsträgern und ihr Wehrdienst dem Amt gleich.
 

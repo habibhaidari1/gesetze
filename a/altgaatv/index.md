@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Tilgung der Anteilrechte von Inhabern mit Wohnsitz außerhalb
-  der Deutschen Demokratischen Republik an der Altguthaben-Ablösungs-Anleihe
+Title: Verordnung über die Tilgung der Anteilrechte von Inhabern mit Wohnsitz außerhalb der Deutschen Demokratischen Republik an der Altguthaben-Ablösungs-Anleihe
 jurabk: AltgAATV
 layout: default
 origslug: altgaatv
@@ -15,6 +14,9 @@ Ausfertigungsdatum
 
 Fundstelle
 :   GBl DDR I: 1990, 543
+
+Fundstelle
+:   GBl DDR I: 1990, Nr 39, 543
 
 Neugefasst durch
 :   Bek. v. 26.8.1997 I 2214
@@ -45,8 +47,8 @@ Altguthaben-Ablösungs-Anleihe gilt gleichzeitig als aufgehoben.
 (1) Inhaber von Anteilrechten an der Altguthaben-Ablösungs-Anleihe
 bzw. deren Erben können bis zum 31. Dezember 1992 einen entsprechenden
 Antrag auf Tilgung an das zuständige Geldinstitut, bei dem die
-Anteilrechte begründet wurden, stellen. Bis zu diesem Zeitpunkt nicht
-zur Tilgung angemeldete Ansprüche aus Anteilrechten an der
+Anteilrechte begründet wurden, stellen. Bis zu diesem Zeitpunkt
+nicht zur Tilgung angemeldete Ansprüche aus Anteilrechten an der
 Altguthaben-Ablösungs-Anleihe erlöschen.
 
 (2) Der Anspruch auf Tilgung der Anteilrechte ist vom Inhaber der
@@ -58,10 +60,10 @@ Anteilrechte zu stellen.
 
 (3) Soweit der Anspruch auf Tilgung der Anteilrechte an der
 Altguthaben-Ablösungs-Anleihe auf Erben übergegangen ist, ist dies
-durch Erbnachweis zu belegen. Für die Erteilung eines Erbscheins wird
-eine Gebühr nicht erhoben, wenn der Erbschein nur für Zwecke der
-Tilgung der Anteilrechte verwendet werden soll. Ein nach Satz 2
-erteilter Erbschein kann auch in Verfahren zur Durchführung des
+durch Erbnachweis zu belegen. Für die Erteilung eines Erbscheins
+wird eine Gebühr nicht erhoben, wenn der Erbschein nur für Zwecke
+der Tilgung der Anteilrechte verwendet werden soll. Ein nach Satz
+2 erteilter Erbschein kann auch in Verfahren zur Durchführung des
 Lastenausgleichs, des Gesetzes zur Regelung offener Vermögensfragen
 und für staatliche Ausgleichsleistungen nach Nummer 1 der von der
 Regierung der Bundesrepublik Deutschland und der Regierung der
@@ -80,11 +82,11 @@ der Kreditanstalt für Wiederaufbau, Niederlassung Berlin, vorgelegt
 werden, erlöschen die Ansprüche aus Anteilsrechten an der Altguthaben-
 Ablösungs-Anleihe.
 
-(6) Anträge von Sparkassen auf Aufwendungsersatz für Auszahlungen von
-Uraltguthaben von Inhabern mit Wohnsitz in dem in Artikel 3 des
-Einigungsvertrages genannten Gebiet, die vor dem 9. Juli 1990
-umgewertet worden sind, sind bis spätestens 31. Dezember 1998 bei dem
-Bundesministerium der Finanzen, Außenstelle Berlin, einzureichen.
+(6) Anträge von Sparkassen auf Aufwendungsersatz für Auszahlungen
+von Uraltguthaben von Inhabern mit Wohnsitz in dem in Artikel 3
+des Einigungsvertrages genannten Gebiet, die vor dem 9. Juli 1990
+umgewertet worden sind, sind bis spätestens 31. Dezember 1998 bei
+dem Bundesministerium der Finanzen, Außenstelle Berlin, einzureichen.
 Danach erlöschen diese Ansprüche.
 
 

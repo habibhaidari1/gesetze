@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl I: 1982, 1124
 
 
-
 ## Eingangsformel
 
 Auf Grund des § 72 Abs. 4 Nr. 2 des Filmförderungsgesetzes vom 25.
@@ -27,9 +26,9 @@ Juni 1979 (BGBl. I S. 803) wird verordnet:
 
 Angaben nach § 72 Abs. 2 Nr. 3 und 6 des Filmförderungsgesetzes werden
 von Unternehmen, die Filme verleihen, vertreiben oder vorführen und
-deren Jahresumsatz unter DM 150.000 liegt, nicht erhoben. Angaben zu §
-72 Abs. 2 Nr. 5 des Filmförderungsgesetzes werden von Unternehmen, die
-Filme vorführen und deren Jahresumsatz unter DM 150.000 liegt, nur
+deren Jahresumsatz unter DM 150.000 liegt, nicht erhoben. Angaben zu
+§ 72 Abs. 2 Nr. 5 des Filmförderungsgesetzes werden von Unternehmen,
+die Filme vorführen und deren Jahresumsatz unter DM 150.000 liegt, nur
 hinsichtlich des Gesamtumsatzes und des Umsatzes aus dem Verkauf von
 Eintrittskarten erhoben.
 

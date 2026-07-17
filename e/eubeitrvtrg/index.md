@@ -1,7 +1,5 @@
 ---
-Title: Gesetz zu dem Vertrag vom 24. Juni 1994 über den Beitritt des Königreichs Norwegen,
-  der Republik Österreich, der Republik Finnland und des Königreichs Schweden zur
-  Europäischen Union
+Title: Gesetz zu dem Vertrag vom 24. Juni 1994 über den Beitritt des Königreichs Norwegen, der Republik Österreich, der Republik Finnland und des Königreichs Schweden zur Europäischen Union
 jurabk: EUBeitrVtrG
 layout: default
 origslug: eubeitrvtrg
@@ -20,7 +18,9 @@ Fundstelle
 Geändert durch
 :   Art. 29 V v. 19.6.2020 I 1328
 
-Stand: Vertrag in Kraft gem. Bek. v. 30.8.1996 II 1486 mWv 1.1.1995
+Stand
+:   Vertrag in Kraft gem. Bek. v. 30.8.1996 II 1486 mWv 1.1.1995
+
 
 ## Eingangsformel
 
@@ -43,8 +43,8 @@ Der Vertrag und die Schlußakte werden nachstehend veröffentlicht.
 Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt,
 durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
 bedarf, Vorschriften zur Durchführung des in Artikel 1 genannten
-Vertrages betreffend den Ausschluß der mehrfachen Wahlteilnahme und
-der mehrfachen Wahlbewerbung in einem Beitrittsstaat und in der
+Vertrages betreffend den Ausschluß der mehrfachen Wahlteilnahme
+und der mehrfachen Wahlbewerbung in einem Beitrittsstaat und in der
 Bundesrepublik Deutschland bei den Wahlen zum Europäischen Parlament
 zu erlassen.
 

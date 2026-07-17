@@ -1,6 +1,5 @@
 ---
-Title: Sechste Durchführungsverordnung zum Bereinigungsgesetz für deutsche Auslandsbonds
-  (Belgien)
+Title: Sechste Durchführungsverordnung zum Bereinigungsgesetz für deutsche Auslandsbonds (Belgien)
 jurabk: AuslWBGDV 6
 layout: default
 origslug: auslwbgdv_6
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BAnz: 1953, Nr 193
-
 
 
 ## Eingangsformel
@@ -49,9 +47,9 @@ ist.
 
 (2) Die Befugnis des Auslandsbevollmächtigten, nach § 23 Abs. 4 des
 Gesetzes im Einzelfall eine abweichende Regelung zuzulassen, bleibt
-unberührt; der Auslandsbevollmächtigte kann insbesondere zulassen, daß
-Auslandsbonds, die bei anderen Stellen als bei den in Absatz 1
-genannten Banken hinterlegt sind, dort verbleiben, sofern eine
+unberührt; der Auslandsbevollmächtigte kann insbesondere zulassen,
+daß Auslandsbonds, die bei anderen Stellen als bei den in Absatz
+1 genannten Banken hinterlegt sind, dort verbleiben, sofern eine
 Bescheinigung nach § 23 Abs. 2 des Gesetzes beigebracht wird.
 
 
@@ -90,12 +88,12 @@ fünf Abschriften beizufügen.
 
 (2) Der Auslandsbevollmächtigte stellt je eine Abschrift der
 Prüfstelle, dem Aussteller, den Treuhändern und den Zahlungsagenten
-mit der Aufforderung zu, ihm ihre etwaige Stellungnahme innerhalb
-zweier Monate nach der Zustellung einzureichen. Der
+mit der Aufforderung zu, ihm ihre etwaige Stellungnahme
+innerhalb zweier Monate nach der Zustellung einzureichen. Der
 Auslandsbevollmächtigte kann diese Frist auf Antrag verlängern, jedoch
 höchstens um drei Monate. Nach Ablauf der gesetzten Frist übermittelt
-der Auslandsbevollmächtigte den Antrag dem Schiedsgericht zusammen mit
-den Zustellungsnachweisen, den etwa eingegangenen Stellungnahmen,
+der Auslandsbevollmächtigte den Antrag dem Schiedsgericht zusammen
+mit den Zustellungsnachweisen, den etwa eingegangenen Stellungnahmen,
 seiner eigenen Stellungnahme und seinen Unterlagen.
 
 (3) Das Schiedsgericht kann Beweise erheben, soweit es dies für

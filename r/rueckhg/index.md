@@ -30,39 +30,29 @@ beschlossen:
 (1) Anspruch auf Rückkehrhilfe haben Arbeitnehmer, die
 
 1.  nicht mit einem Deutschen verheiratete Staatsangehörige eines Staates
-    sind, mit dem die Bundesregierung Vereinbarungen über Anwerbung und
-    Beschäftigung von Arbeitnehmern abgeschlossen hat und der nicht
+    sind, mit dem die Bundesregierung Vereinbarungen über Anwerbung
+    und Beschäftigung von Arbeitnehmern abgeschlossen hat und der nicht
     Mitglied der Europäischen Gemeinschaften ist,
 
-
-2.
-    a)  durch Stillegung des ganzen Betriebs oder von wesentlichen
+2.  a)  durch Stillegung des ganzen Betriebs oder von wesentlichen
         Betriebsteilen oder durch Konkurs nach dem 30. Oktober 1983 und bis
         zum 30. Juni 1984 arbeitslos geworden sind und bis zum Verlassen des
         Geltungsbereichs des Gesetzes arbeitslos gemeldet waren oder
-
 
     b)  innerhalb der letzten sechs Monate vor dem Antrag auf Rückkehrhilfe
         ununterbrochen Anspruch auf Kurzarbeitergeld für Ausfallstunden
         hatten, die mindestens 20 vom Hundert der betrieblichen Arbeitszeit im
         Sinne des § 69 des Arbeitsförderungsgesetzes umfaßten,
 
-
-
-
-
 3.  bis zum 30. Juni 1984 einen Antrag auf Rückkehrhilfe gestellt haben,
-
 
 4.  im Zeitpunkt der Ausreise im Besitz einer gültigen
     Niederlassungserlaubnis oder Aufenthaltserlaubnis zu Erwerbszwecken,
     zum Zweck des Familiennachzugs oder ohne Bindung an einen
     Aufenthaltszweck waren.
 
-
-
-In den Fällen des Satzes 1 Nr. 2 Buchstabe b bleibt eine Unterbrechung
-des Bezugs von Kurzarbeitergeld nach § 67 Abs. 3 des
+In den Fällen des Satzes 1 Nr. 2 Buchstabe b bleibt eine
+Unterbrechung des Bezugs von Kurzarbeitergeld nach § 67 Abs. 3 des
 Arbeitsförderungsgesetzes außer Betracht.
 
 (2) Die Rückkehrhilfe wird nur für Arbeitnehmer gezahlt, die nach dem
@@ -86,9 +76,9 @@ nur einmal gewährt.
 (2) Verläßt der Arbeitnehmer erst nach dem 1. Januar 1984 und später
 als einen Monat nach Erfüllung der in § 1 Abs. 1 Nr. 2 genannten
 Voraussetzungen den Geltungsbereich dieses Gesetzes, so vermindert
-sich der Betrag von 10.500 DM für jeden weiteren angefangenen Monat im
-Fall des § 1 Abs. 1 Nr. 2 Buchstabe a um 1.500 DM, im Fall des § 1
-Abs. 1 Nr. 2 Buchstabe b um 750 DM. Nach Ablauf von sieben Monaten
+sich der Betrag von 10.500 DM für jeden weiteren angefangenen Monat
+im Fall des § 1 Abs. 1 Nr. 2 Buchstabe a um 1.500 DM, im Fall des §
+1 Abs. 1 Nr. 2 Buchstabe b um 750 DM. Nach Ablauf von sieben Monaten
 wird eine Rückkehrhilfe nicht mehr gezahlt.
 
 
@@ -100,8 +90,8 @@ für Arbeit und Soziales durch die Bundesagentur für Arbeit gewährt.
 
 ## § 4 Aufbringung der Mittel durch den Bund
 
-Die Aufwendungen der Bundesagentur für Arbeit für die Gewährung der
-Rückkehrhilfe trägt der Bund. Verwaltungskosten werden nicht
+Die Aufwendungen der Bundesagentur für Arbeit für die Gewährung
+der Rückkehrhilfe trägt der Bund. Verwaltungskosten werden nicht
 erstattet.
 
 
@@ -119,11 +109,11 @@ Buches Sozialgesetzbuch Anwendung.
 
 ## § 6 Bescheinigung des Arbeitgebers
 
-Der Arbeitgeber hat dem Arbeitnehmer alle Tatsachen, die nach § 1 Abs.
-1 Nr. 2 Buchstabe a und b für die Entscheidung über den Anspruch auf
-Rückkehrhilfe erheblich sein können sowie die Zahl der auf der
-Lohnsteuerkarte des Arbeitnehmers eingetragenen Kinder zu
-bescheinigen. Dabei hat er den von der Bundesagentur für Arbeit
+Der Arbeitgeber hat dem Arbeitnehmer alle Tatsachen, die nach §
+1 Abs. 1 Nr. 2 Buchstabe a und b für die Entscheidung über den
+Anspruch auf Rückkehrhilfe erheblich sein können sowie die Zahl
+der auf der Lohnsteuerkarte des Arbeitnehmers eingetragenen Kinder
+zu bescheinigen. Dabei hat er den von der Bundesagentur für Arbeit
 hierfür vorgesehenen Vordruck zu benutzen. Die Bescheinigung ist dem
 Arbeitnehmer für dessen Antrag auf Rückkehrhilfe auszuhändigen.
 

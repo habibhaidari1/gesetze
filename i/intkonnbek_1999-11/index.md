@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl I: 1999, 2395
 
 
-
 ## (XXXX)
 
 Nach Artikel 6 Abs. 3 des Einführungsgesetzes zum Handelsgesetzbuche,
@@ -27,11 +26,9 @@ vom 23. Februar 1968 zur Änderung des Internationalen Abkommens vom
 von Ägypten am 12. Februar 1993 und dem Libanon am 11. April 1994
 gekündigt worden ist. Das Protokoll ist für
 
-*   Ägypten am 1. November 1997 und für den
+-   Ägypten am 1. November 1997 und für den
 
     Libanon am 1. November 1997
-
-
 
 außer Kraft getreten.
 Diese Bekanntmachung ergeht im Anschluss an die Bekanntmachung vom 31.

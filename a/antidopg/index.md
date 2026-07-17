@@ -16,17 +16,14 @@ Fundstelle
 :   BGBl I: 2015, 2210
 
 Zuletzt geändert durch
-:   Art. 1 V v. 3.7.2020 I 1547
-
-Änderung durch
-:   Art. 1 G v. 12.8.2021 I 3542 (Nr. 54) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 10.3.2023 I Nr. 67
 
 
 ## § 1 Zweck des Gesetzes
 
-Dieses Gesetz dient der Bekämpfung des Einsatzes von Dopingmitteln und
-Dopingmethoden im Sport, um die Gesundheit der Sportlerinnen und
-Sportler zu schützen, die Fairness und Chancengleichheit bei
+Dieses Gesetz dient der Bekämpfung des Einsatzes von Dopingmitteln
+und Dopingmethoden im Sport, um die Gesundheit der Sportlerinnen
+und Sportler zu schützen, die Fairness und Chancengleichheit bei
 Sportwettbewerben zu sichern und damit zur Erhaltung der Integrität
 des Sports beizutragen.
 
@@ -34,27 +31,21 @@ des Sports beizutragen.
 ## § 2 Unerlaubter Umgang mit Dopingmitteln, unerlaubte Anwendung von Dopingmethoden
 
 (1) Es ist verboten, ein Dopingmittel, das ein in der Anlage I des
-Internationalen Übereinkommens vom 19. Oktober 2005 gegen Doping im
-Sport (BGBl. 2007 II S. 354, 355) in der vom Bundesministerium des
-Innern, für Bau und Heimat jeweils im Bundesgesetzblatt Teil II
+Internationalen Übereinkommens vom 19. Oktober 2005 gegen Doping
+im Sport (BGBl. 2007 II S. 354, 355) in der vom Bundesministerium
+des Innern, für Bau und Heimat jeweils im Bundesgesetzblatt Teil II
 bekannt gemachten Fassung (Internationales Übereinkommen gegen Doping)
 aufgeführter Stoff ist oder einen solchen enthält, zum Zwecke des
 Dopings beim Menschen im Sport
 
 1.  herzustellen,
 
-
 2.  mit ihm Handel zu treiben,
-
 
 3.  es, ohne mit ihm Handel zu treiben, zu veräußern, abzugeben oder sonst
     in den Verkehr zu bringen oder
 
-
 4.  zu verschreiben.
-
-
-
 
 (2) Es ist verboten,
 
@@ -62,17 +53,14 @@ Dopings beim Menschen im Sport
     Übereinkommens gegen Doping aufgeführter Stoff ist oder einen solchen
     enthält, oder
 
-
 2.  eine Dopingmethode, die in der Anlage I des Internationalen
     Übereinkommens gegen Doping aufgeführt ist,
 
-
-
 zum Zwecke des Dopings im Sport bei einer anderen Person anzuwenden.
 
-(3) Es ist verboten, ein Dopingmittel, das ein in der Anlage zu diesem
-Gesetz aufgeführter Stoff ist oder einen solchen enthält, in nicht
-geringer Menge zum Zwecke des Dopings beim Menschen im Sport zu
+(3) Es ist verboten, ein Dopingmittel, das ein in der Anlage zu
+diesem Gesetz aufgeführter Stoff ist oder einen solchen enthält, in
+nicht geringer Menge zum Zwecke des Dopings beim Menschen im Sport zu
 erwerben, zu besitzen oder in oder durch den Geltungsbereich dieses
 Gesetzes zu verbringen.
 
@@ -87,18 +75,15 @@ Gesetzes zu verbringen.
     Übereinkommens gegen Doping nicht nur in bestimmten Sportarten
     verboten ist, oder
 
-
 2.  eine Dopingmethode, die in der Anlage I des Internationalen
     Übereinkommens gegen Doping aufgeführt ist,
-
-
 
 ohne medizinische Indikation bei sich in der Absicht, sich in einem
 Wettbewerb des organisierten Sports einen Vorteil zu verschaffen,
 anzuwenden oder anwenden zu lassen. Das Verbot nach Satz 1 gilt nicht,
 wenn das Dopingmittel außerhalb eines Wettbewerbs des organisierten
-Sports angewendet wird und das Dopingmittel ein Stoff ist oder einen
-solchen enthält, der nach der Anlage I des Internationalen
+Sports angewendet wird und das Dopingmittel ein Stoff ist oder
+einen solchen enthält, der nach der Anlage I des Internationalen
 Übereinkommens gegen Doping nur im Wettbewerb verboten ist.
 
 (2) Ebenso ist es verboten, an einem Wettbewerb des organisierten
@@ -113,17 +98,13 @@ ist jede Sportveranstaltung, die
 1.  von einer nationalen oder internationalen Sportorganisation oder in
     deren Auftrag oder mit deren Anerkennung organisiert wird und
 
-
 2.  bei der Regeln einzuhalten sind, die von einer nationalen oder
     internationalen Sportorganisation mit verpflichtender Wirkung für ihre
     Mitgliedsorganisationen verabschiedet wurden.
 
-
-
-
-(4) Es ist verboten, ein Dopingmittel nach Absatz 1 Satz 1 Nummer 1 zu
-erwerben oder zu besitzen, um es ohne medizinische Indikation bei sich
-anzuwenden oder anwenden zu lassen und um sich dadurch in einem
+(4) Es ist verboten, ein Dopingmittel nach Absatz 1 Satz 1 Nummer 1
+zu erwerben oder zu besitzen, um es ohne medizinische Indikation bei
+sich anzuwenden oder anwenden zu lassen und um sich dadurch in einem
 Wettbewerb des organisierten Sports einen Vorteil zu verschaffen.
 Absatz 1 Satz 2 gilt entsprechend.
 
@@ -138,27 +119,20 @@ bestraft, wer
     es, ohne mit ihm Handel zu treiben, veräußert, abgibt, sonst in den
     Verkehr bringt oder verschreibt,
 
-
 2.  entgegen § 2 Absatz 2, auch in Verbindung mit einer Rechtsverordnung
     nach § 6 Absatz 2, ein Dopingmittel oder eine Dopingmethode bei einer
     anderen Person anwendet,
 
-
-3.  entgegen § 2 Absatz 3 in Verbindung mit einer Rechtsverordnung nach §
-    6 Absatz 1 Satz 1 Nummer 1, jeweils auch in Verbindung mit einer
+3.  entgegen § 2 Absatz 3 in Verbindung mit einer Rechtsverordnung nach
+    § 6 Absatz 1 Satz 1 Nummer 1, jeweils auch in Verbindung mit einer
     Rechtsverordnung nach § 6 Absatz 1 Satz 1 Nummer 2 oder Satz 2, ein
     Dopingmittel erwirbt, besitzt oder verbringt,
-
 
 4.  entgegen § 3 Absatz 1 Satz 1 ein Dopingmittel oder eine Dopingmethode
     bei sich anwendet oder anwenden lässt oder
 
-
 5.  entgegen § 3 Absatz 2 an einem Wettbewerb des organisierten Sports
     teilnimmt.
-
-
-
 
 (2) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird
 bestraft, wer entgegen § 3 Absatz 4 ein Dopingmittel erwirbt oder
@@ -174,17 +148,11 @@ bestraft, wer
 
     a)  die Gesundheit einer großen Zahl von Menschen gefährdet,
 
-
     b)  einen anderen der Gefahr des Todes oder einer schweren Schädigung an
         Körper oder Gesundheit aussetzt oder
 
-
     c)  aus grobem Eigennutz für sich oder einen anderen Vermögensvorteile
         großen Ausmaßes erlangt oder
-
-
-
-
 
 2.  in den Fällen des Absatzes 1 Nummer 1 oder Nummer 2
 
@@ -192,15 +160,8 @@ bestraft, wer
         einer solchen Person verschreibt oder ein Dopingmittel oder eine
         Dopingmethode bei einer solchen Person anwendet oder
 
-
     b)  gewerbsmäßig oder als Mitglied einer Bande handelt, die sich zur
         fortgesetzten Begehung solcher Taten verbunden hat.
-
-
-
-
-
-
 
 (5) In minder schweren Fällen des Absatzes 4 ist die Strafe
 Freiheitsstrafe von drei Monaten bis zu fünf Jahren.
@@ -216,12 +177,8 @@ Jahr oder Geldstrafe.
     Sinne dieses Gesetzes gilt, wer als Mitglied eines Testpools im Rahmen
     des Dopingkontrollsystems Trainingskontrollen unterliegt, oder
 
-
 2.  aus der sportlichen Betätigung unmittelbar oder mittelbar Einnahmen
     von erheblichem Umfang erzielt.
-
-
-
 
 (8) Nach Absatz 2 wird nicht bestraft, wer freiwillig die tatsächliche
 Verfügungsgewalt über das Dopingmittel aufgibt, bevor er es anwendet
@@ -238,17 +195,14 @@ Jahren verwirkt hat, von Strafe absehen, wenn der Täter
     beigetragen hat, dass eine Straftat nach § 4, die mit seiner Tat in
     Zusammenhang steht, aufgedeckt werden konnte, oder
 
-
 2.  freiwillig sein Wissen so rechtzeitig einer Dienststelle offenbart,
     dass eine Straftat nach § 4 Absatz 4, die mit seiner Tat in
     Zusammenhang steht und von deren Planung er weiß, noch verhindert
     werden kann.
 
-
-
 War der Täter an der Tat beteiligt, muss sich sein Beitrag zur
-Aufklärung nach Satz 1 Nummer 1 über den eigenen Tatbeitrag hinaus
-erstrecken. § 46b Absatz 2 und 3 des Strafgesetzbuches gilt
+Aufklärung nach Satz 1 Nummer 1 über den eigenen Tatbeitrag
+hinaus erstrecken. § 46b Absatz 2 und 3 des Strafgesetzbuches gilt
 entsprechend.
 
 
@@ -261,19 +215,16 @@ eingezogen werden. § 74a des Strafgesetzbuchs ist anzuwenden.
 ## § 6 Verordnungsermächtigungen
 
 (1) Das Bundesministerium für Gesundheit wird ermächtigt, im
-Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat
-nach Anhörung von Sachverständigen durch Rechtsverordnung mit
+Einvernehmen mit dem Bundesministerium des Innern, für Bau und
+Heimat nach Anhörung von Sachverständigen durch Rechtsverordnung mit
 Zustimmung des Bundesrates
 
 1.  die nicht geringe Menge der in der Anlage zu diesem Gesetz genannten
     Stoffe zu bestimmen,
 
-
 2.  weitere Stoffe in die Anlage zu diesem Gesetz aufzunehmen, die zu
     Dopingzwecken im Sport geeignet sind und deren Anwendung bei nicht
     therapeutischer Bestimmung gefährlich ist.
-
-
 
 Durch Rechtsverordnung nach Satz 1 können Stoffe aus der Anlage zu
 diesem Gesetz gestrichen werden, wenn die Voraussetzungen von Satz 1
@@ -292,17 +243,17 @@ verhüten.
 
 (1) In der Packungsbeilage und in der Fachinformation von
 Arzneimitteln, die in Anlage I des Internationalen Übereinkommens
-gegen Doping aufgeführte Stoffe sind oder solche enthalten, ist
-folgender Warnhinweis anzugeben: „Die Anwendung des Arzneimittels
-[Bezeichnung des Arzneimittels einsetzen] kann bei Dopingkontrollen zu
-positiven Ergebnissen führen.“ Kann aus dem Fehlgebrauch des
-Arzneimittels zu Zwecken des Dopings im Sport eine
-Gesundheitsgefährdung folgen, ist dies zusätzlich anzugeben. Die Sätze
-1 und 2 finden keine Anwendung auf Arzneimittel, die nach einem
+gegen Doping aufgeführte Stoffe sind oder solche enthalten,
+ist folgender Warnhinweis anzugeben: „Die Anwendung des
+Arzneimittels [Bezeichnung des Arzneimittels einsetzen] kann bei
+Dopingkontrollen zu positiven Ergebnissen führen.“ Kann aus dem
+Fehlgebrauch des Arzneimittels zu Zwecken des Dopings im Sport eine
+Gesundheitsgefährdung folgen, ist dies zusätzlich anzugeben. Die
+Sätze 1 und 2 finden keine Anwendung auf Arzneimittel, die nach einem
 homöopathischen Zubereitungsverfahren hergestellt worden sind.
 
-(2) Wird ein Stoff oder eine Gruppe von Stoffen in die Anlage I des
-Internationalen Übereinkommens gegen Doping aufgenommen, dürfen
+(2) Wird ein Stoff oder eine Gruppe von Stoffen in die Anlage I
+des Internationalen Übereinkommens gegen Doping aufgenommen, dürfen
 Arzneimittel, die zum Zeitpunkt der Bekanntmachung der geänderten
 Anlage I im Bundesgesetzblatt Teil II zugelassen sind und die einen
 dieser Stoffe enthalten, auch ohne die in Absatz 1 vorgeschriebenen
@@ -336,29 +287,21 @@ Durchführung ihres Dopingkontrollsystems erforderlich ist:
 
 1.  Vor- und Familienname der Sportlerin oder des Sportlers,
 
-
 2.  Geschlecht der Sportlerin oder des Sportlers,
-
 
 3.  Geburtsdatum der Sportlerin oder des Sportlers,
 
-
 4.  Nationalität der Sportlerin oder des Sportlers,
-
 
 5.  Sportart und Sportverband der Sportlerin oder des Sportlers
     einschließlich der Einstufung in einen Leistungskader,
 
-
 6.  Zugehörigkeit der Sportlerin oder des Sportlers zu einem
     Trainingsstützpunkt und einer Trainingsgruppe,
 
-
 7.  Vor- und Familienname der Athletenbetreuerinnen und Athletenbetreuer,
 
-
 8.  Regelverstöße nach dem Dopingkontrollsystem und
-
 
 9.  Angaben zur Erreichbarkeit und zum Aufenthaltsort, sofern die
     Sportlerin oder der Sportler zu dem von der Stiftung Nationale Anti
@@ -366,13 +309,10 @@ Durchführung ihres Dopingkontrollsystems erforderlich ist:
     Trainingskontrollen unterzogen wird.
 
 
-
-
-
 ## § 10 Umgang mit Gesundheitsdaten
 
-(1) Die Stiftung Nationale Anti Doping Agentur Deutschland ist
-berechtigt, im Rahmen des Dopingkontrollsystems folgende
+(1) Die Stiftung Nationale Anti Doping Agentur Deutschland
+ist berechtigt, im Rahmen des Dopingkontrollsystems folgende
 Gesundheitsdaten zu verarbeiten, soweit dies zur Durchführung ihres
 Dopingkontrollsystems erforderlich ist:
 
@@ -380,12 +320,9 @@ Dopingkontrollsystems erforderlich ist:
     gewonnene Werte, die erforderlich sind, um die Anwendung verbotener
     Dopingmittel oder Dopingmethoden nachzuweisen,
 
-
-2.  die für die Erteilung einer medizinischen Ausnahmegenehmigung für die
-    erlaubte Anwendung verbotener Dopingmittel oder Dopingmethoden
+2.  die für die Erteilung einer medizinischen Ausnahmegenehmigung für
+    die erlaubte Anwendung verbotener Dopingmittel oder Dopingmethoden
     erforderlichen Angaben.
-
-
 
 Die Analyse der Dopingproben ist durch von der Welt Anti-Doping
 Agentur akkreditierte oder anerkannte Labore durchzuführen.
@@ -393,14 +330,14 @@ Agentur akkreditierte oder anerkannte Labore durchzuführen.
 (2) Die Stiftung Nationale Anti Doping Agentur Deutschland ist
 berechtigt, Ergebnisse von Dopingproben und Disziplinarverfahren im
 Rahmen des Dopingkontrollsystems sowie eine erteilte medizinische
-Ausnahmegenehmigung gemäß Absatz 1 Satz 1 Nummer 2 an eine andere
-nationale Anti-Doping-Organisation, einen internationalen
+Ausnahmegenehmigung gemäß Absatz 1 Satz 1 Nummer 2 an eine
+andere nationale Anti-Doping-Organisation, einen internationalen
 Sportfachverband, einen internationalen Veranstalter von
 Sportwettkämpfen oder die Welt Anti-Doping Agentur zu übermitteln,
 soweit dieser oder diese für die Dopingbekämpfung nach dem
 Dopingkontrollsystem der Stiftung Nationale Anti Doping Agentur
-Deutschland und der Welt Anti-Doping Agentur zuständig ist und die
-Übermittlung zur Durchführung dieses Dopingkontrollsystems
+Deutschland und der Welt Anti-Doping Agentur zuständig ist und
+die Übermittlung zur Durchführung dieses Dopingkontrollsystems
 erforderlich ist. Die Gesundheitsdaten, die die Stiftung Nationale
 Anti Doping Agentur Deutschland bei der Beantragung von medizinischen
 Ausnahmegenehmigungen für eine erlaubte Anwendung verbotener
@@ -414,35 +351,37 @@ werden.
 Sportverbände und Sportlerinnen und Sportler können als Voraussetzung
 der Teilnahme von Sportlerinnen und Sportlern an der organisierten
 Sportausübung Schiedsvereinbarungen über die Beilegung von
-Rechtsstreitigkeiten mit Bezug auf diese Teilnahme schließen, wenn die
-Schiedsvereinbarungen die Sportverbände und Sportlerinnen und Sportler
-in die nationalen oder internationalen Sportorganisationen einbinden
-und die organisierte Sportausübung insgesamt ermöglichen, fördern oder
-sichern. Das ist insbesondere der Fall, wenn mit den
+Rechtsstreitigkeiten mit Bezug auf diese Teilnahme schließen, wenn
+die Schiedsvereinbarungen die Sportverbände und Sportlerinnen und
+Sportler in die nationalen oder internationalen Sportorganisationen
+einbinden und die organisierte Sportausübung insgesamt ermöglichen,
+fördern oder sichern. Das ist insbesondere der Fall, wenn mit den
 Schiedsvereinbarungen die Vorgaben des Welt Anti-Doping Codes der Welt
 Anti-Doping Agentur umgesetzt werden sollen.
 
 
 ## § 12 Konzentration der Rechtsprechung in Dopingsachen; Verordnungsermächtigung
 
-Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die
-strafrechtlichen Verfahren nach § 4 ganz oder teilweise für die
+Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
+die strafrechtlichen Verfahren nach § 4 ganz oder teilweise für die
 Bezirke mehrerer Amts- oder Landgerichte einem dieser Amts- oder
-Landgerichte zuzuweisen, sofern dies der sachlichen Förderung oder der
-schnelleren Erledigung der Verfahren dient. Die Landesregierungen
+Landgerichte zuzuweisen, sofern dies der sachlichen Förderung oder
+der schnelleren Erledigung der Verfahren dient. Die Landesregierungen
 können die Ermächtigung nach Satz 1 durch Rechtsverordnung auf die
 Landesjustizverwaltungen übertragen.
 
 
 ## Anlage (zu § 2 Absatz 3)
 
-(Fundstelle: BGBl. I 2020, 1547 - 1549)
+(Fundstelle: BGBl. 2023 I, Nr. 67, 1 - 5)
 
 Stoffe gemäß § 2 Absatz 3 sind:
 
-**I.** **Anabole Stoffe**
+I.  **Anabole Stoffe**
 
-    **1.** **Anabol-androgene Steroide**
+    1.  **Anabol-androgene Steroide**
+
+        Androst-4-en-3,11,17-trion
 
         Androstanolon, synonym Dihydrotestosteron
 
@@ -474,6 +413,8 @@ Stoffe gemäß § 2 Absatz 3 sind:
 
         Drostanolon
 
+        Epistan
+
         Ethylestrenol
 
         Fluoxymesteron
@@ -503,6 +444,8 @@ Stoffe gemäß § 2 Absatz 3 sind:
         Methyl-1-testosteron
 
         Methylnortestosteron
+
+        Methylstenbolon
 
         Methyltestosteron
 
@@ -544,30 +487,45 @@ Stoffe gemäß § 2 Absatz 3 sind:
 
         Tetrahydrogestrinon
 
+        Tibolon
+
         Trenbolon
 
-        Andere exogene mit anabol-androgenen Steroiden verwandte Stoffe
+        Andere mit anabol-androgenen Steroiden verwandte Stoffe
 
+        – mit 17alpha-Methyl-Struktur
 
-    **2.** **Andere anabole Stoffe**
+        – mit anderen Strukturen
+
+    2.  **Andere anabole Stoffe**
 
         Clenbuterol
 
+        Osilodrostat
+
         Selektive Androgen-Rezeptor-Modulatoren (SARMs)
 
-        Tibolon
+        Zum Beispiel:
+
+        Andarin (S-4)
+
+        Ligandrol (LGD-4033, VK 5211)
+
+        Ostarin, synonym Enobosarm (S-22, MK-2866)
+
+        RAD-140, synonym Testolon
+
+        S-23
+
+        YK-11
 
         Zeranol
 
         Zilpaterol
 
+II. **Peptidhormone, Wachstumsfaktoren, verwandte Stoffe und Mimetika**
 
-
-
-
-**II.** **Peptidhormone, Wachstumsfaktoren, verwandte Stoffe und Mimetika**
-
-    **1.** **Erythropoese stimulierende Stoffe**
+    1.  **Erythropoese stimulierende Stoffe**
 
         Erythropoetin human (EPO)
 
@@ -581,85 +539,119 @@ Stoffe gemäß § 2 Absatz 3 sind:
 
         Peginesatid, synonym Hematid
 
-        Hypoxie-induzierbarer-Faktor (HIF)-Aktivatoren:
+        Hypoxie-induzierbarer-Faktor (HIF)-Aktivatoren
+
+        Zum Beispiel:
 
         Daprodustat (GSK1278863)
 
-        Molidustat (BAY 85-3934)
+        Molidustat
 
         Roxadustat (FG-4592)
 
         Vadadustat (AKB-6548)
 
+    2.  **Peptidhormone und ihre Releasingfaktoren**
 
-    **2.** **Choriongonadotropin (CG), Luteinisierendes Hormon (LH) sowie ihre
-        Releasingfaktoren**
+    2.1. **Choriongonadotropin (CG) und Luteinisierendes Hormon (LH) sowie ihre
+         Releasingfaktoren**
 
-        Buserelin
+         Buserelin
 
-        Choriongonadotropin (HCG)
+         Choriongonadotropin (HCG)
 
-        Choriongonadotropin alfa
+         Choriongonadotropin alfa
 
-        Deslorelin
+         Deslorelin
 
-        Gonadorelin
+         Gonadorelin
 
-        Goserelin
+         Goserelin
 
-        Leuprorelin
+         Leuprorelin
 
-        Lutropin alfa
+         Lutropin alfa
 
-        Nafarelin
+         Nafarelin
 
-        Triptorelin
+         Triptorelin
 
+    2.2. **Corticotropine**
 
-    **3.** **Corticotropine**
+         Corticotropin
 
-        Corticotropin
+         Tetracosactid
 
-        Tetracosactid
+    2.3. **Wachstumshormon (-Analoga und -Fragmente), Releasingfaktoren und
+         Releasingpeptide**
 
+         Lonapegsomatropin
 
-    **4.** **Wachstumshormon (-Fragmente), Releasingfaktoren und
-        Releasingpeptide**
+         Somapacitan
 
-        Somatropin, synonym Wachstumshormon human, Growth Hormone (GH)
+         Somatrogon
 
-        Somatrem, synonym Somatotropin (methionyl), human
+         Somatropin, synonym Wachstumshormon human, Growth Hormone (GH)
 
-        Wachstumshormon-Fragmente z. B. AOD-9604, hgH-Fragment 176-191
+         Somatrem, synonym Somatotropin (methionyl), human
 
-        Wachstumshormon-Releasingfaktoren, synonym Growth Hormone Releasing
-        Hormones (GHRH)
+         Wachstumshormon-Fragmente
 
-        Sermorelin
+         Zum Beispiel:
 
-        Somatorelin
+         AOD-9604
 
-        Tesamorelin
+         hGH-Fragment 176-191
 
-        und Peptide mit gleicher Wirkung, synonym Growth Hormone Releasing
-        Peptides (GHRP)
+    2.4. **Wachstumshormon Releasingfaktoren**
 
-        Wachstumshormon-Sekretagoge (GHS) und ihre Mimetika
+         Wachstumshormon-Releasing-Hormon, synonym Growth Hormone Releasing
+         Hormones (GHRH)
 
-        Anamorelin
+         Zum Beispiel:
 
-        Ipamorelin
+         Sermorelin
 
-        Lenomorelin (Ghrelin)
+         Somatorelin
 
-        Macimorelin
+         Tesamorelin
 
-        Ibutamoren (MK-677)
+         mod-GRF
 
-        Tabimorelin
+         CJC-1295
 
+         Wachstumshormon-Sekretagoge (GHS) und ihre Mimetika
 
-    **5.** **Wachstumsfaktoren und Wachstumsfaktor-Modulatoren**
+         Zum Beispiel:
+
+         Anamorelin
+
+         Ipamorelin
+
+         Lenomorelin, synonym Ghrelin
+
+         Macimorelin
+
+         Ibutamoren, synonym MK-677, Nutrabol
+
+         Tabimorelin
+
+         Peptide mit gleicher Wirkung wie Wachstumshormon Releasingfaktoren,
+         synonym Growth Hormone Releasing Peptides (GHRP)
+
+         Zum Beispiel:
+
+         GHRP-2, synonym Pralmorelin
+
+         GHRP-2-Gly
+
+         GHRP-6
+
+         GHRP-6-Gly
+
+         Hexarelin
+
+    3.  **Wachstumsfaktoren und Wachstumsfaktor-Modulatoren**
 
         Mecasermin, synonym Insulin-ähnlicher Wachstumsfaktor 1, Insulin-like
         Growth Factor -1 (IGF-1)
@@ -670,78 +662,72 @@ Stoffe gemäß § 2 Absatz 3 sind:
 
         Thymosin-beta-4 und seine Derivate
 
+        Zum Beispiel:
 
+        TB-500
 
+III. **Hormon- und Stoffwechsel-Modulatoren**
 
+     1.  **Aromatasehemmer**
 
-**III.** **Hormone und Stoffwechsel-Modulatoren**
+         Aminoglutethimid
 
-    **1.** **Aromatasehemmer**
+         Anastrozol
 
-        Aminoglutethimid
+         Androsta-3,5-dien-7,17-dion, synonym Arimistan
 
-        Anastrozol
+         Androsta-1,4,6-trien-3,17-dion, synonym Androstatriendion
 
-        Androsta-1,4,6-trien-3,17-dion, synonym Androstatriendion
+         4-Androsten-3,6,17-trion, synonym 6-oxo
 
-        4-Androsten-3,6,17-trion (6-oxo)
+         Exemestan
 
-        Exemestan
+         Formestan
 
-        Formestan
+         Letrozol
 
-        Letrozol
+         Testolacton
 
-        Testolacton
+     2.  **Antiestrogene Stoffe**
 
+         Clomifen
 
-    **2.** **Selektive Estrogen-Rezeptor-Modulatoren (SERMs)**
+         Cyclofenil
 
-        Raloxifen
+         Fulvestrant
 
-        Tamoxifen
+         Raloxifen
 
-        Toremifen
+         Tamoxifen
 
+         Toremifen
 
-    **3.** **Andere antiestrogen wirkende Stoffe**
+     3.  **Myostatinfunktionen verändernde Stoffe**
 
-        Clomifen
+         Follistatin und seine Derivate
 
-        Cyclofenil
+         Stamulumab
 
-        Fulvestrant
+     4.  **Stoffwechsel-Modulatoren**
 
+         Insuline
 
-    **4.** **Myostatinfunktionen verändernde Stoffe**
+         PPARδ (Peroxisome Proliferator Activated Receptor Delta)-Agonisten,
+         synonym PPAR-delta-Agonisten
 
-        Follistatin und seine Derivate
+         Zum Beispiel:
 
-        Stamulumab
+         GW501516, synonym GW1516, Cardarin, Endurobol
 
+         AMPK (PPARδ-AMP-activated protein kinase)-Axis-Agonisten
 
-    **5.** **Stoffwechsel-Modulatoren**
+         Zum Beispiel:
 
-        Insuline
+         AICAR
 
-        PPARδ (Peroxisome Proliferator Activated Receptor Delta)-Agonisten,
-        synonym PPAR-delta-Agonisten
+         Meldonium
 
-        GW051516, synonym GW 1516
-
-        AMPK (PPARδ-AMP-activated protein kinase)-Axis-Agonisten
-
-        AICAR
-
-        Meldonium
-
-        SR9009.
-
-
-
-
-
-
+         SR9009, synonym Stenabolic.
 
 Die Aufzählung schließt die verschiedenen Salze, Ester, Ether,
 Isomere, Mischungen von Isomeren, Komplexe oder Derivate mit ein.

@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zu dem Übereinkommen vom 13. Februar 1946 über die Vorrechte und Immunitäten
-  der Vereinten Nationen
+Title: Gesetz zu dem Übereinkommen vom 13. Februar 1946 über die Vorrechte und Immunitäten der Vereinten Nationen
 jurabk: UNOImmÜbkG
 layout: default
 origslug: unoimm_bkg
@@ -17,7 +16,6 @@ Fundstelle
 :   BGBl II: 1980, 941
 
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
@@ -26,8 +24,8 @@ beschlossen:
 
 ## Art 1
 
-Dem Beitritt der Bundesrepublik Deutschland zu dem am 13. Februar 1946
-von der Generalversammlung der Vereinten Nationen angenommenen
+Dem Beitritt der Bundesrepublik Deutschland zu dem am 13. Februar
+1946 von der Generalversammlung der Vereinten Nationen angenommenen
 Übereinkommen über die Vorrechte und Immunitäten der Vereinten
 Nationen wird zugestimmt. Das Übereinkommen wird nachstehend
 veröffentlicht.
@@ -35,8 +33,8 @@ veröffentlicht.
 
 ## Art 2
 
-Die in Abschnitt 19 des Übereinkommens vorgesehenen Vorrechte und
-Immunitäten gelten auch für den Vertreter des Hohen
+Die in Abschnitt 19 des Übereinkommens vorgesehenen Vorrechte
+und Immunitäten gelten auch für den Vertreter des Hohen
 Flüchtlingskommissars der Vereinten Nationen in Deutschland, dessen
 Ständigen Vertreter sowie für deren Ehegatten und minderjährige
 Kinder.
@@ -55,8 +53,8 @@ gewähren, soweit diese nicht in dem Übereinkommen geregelt sind.
 (2) Teilnehmer an Kongressen, Seminaren oder ähnlichen Veranstaltungen
 der Vereinten Nationen, der Sonderorganisationen der Vereinten
 Nationen und der durch zwischenstaatliche Vereinbarungen geschaffenen
-Organisationen unter dem Schirm der Vereinten Nationen, die im
-Geltungsbereich dieses Gesetzes stattfinden und denen die
+Organisationen unter dem Schirm der Vereinten Nationen, die
+im Geltungsbereich dieses Gesetzes stattfinden und denen die
 Bundesregierung ausdrücklich zugestimmt hat, genießen die in Artikel
 VI des Übereinkommens vorgesehenen Vorrechte und Immunitäten, sofern
 ihnen diese auf Grund des Privilegienstatus der veranstaltenden
@@ -64,18 +62,18 @@ Organisation nicht bereits zustehen. Für die Aufhebung der Immunität
 nach Maßgabe des Artikels VI Abschnitt 23 ist die veranstaltende
 Organisation zuständig.
 
-(3) Absatz 2 gilt für Deutsche im Sinne des Grundgesetzes, die Inhaber
-eines von einer deutschen Behörde im Geltungsbereich dieses Gesetzes
-oder von einer Auslandsvertretung der Bundesrepublik Deutschland
-ausgestellten gültigen Reisepasses oder Personalausweises sind, nur
-hinsichtlich der in Artikel VI Abschnitt 22 Buchstaben b, c und d
-genannten Vorrechte und Immunitäten. Die Immunität von der
-Gerichtsbarkeit nach Artikel VI Abschnitt 22 Buchstabe b gilt nicht im
-Fall eines Verstoßes gegen die Vorschriften über den Straßenverkehr
-durch einen Teilnehmer im Fall von Schäden, die durch ein
-Motorfahrzeug verursacht wurden, das einem Teilnehmer gehört oder von
-einem Teilnehmer gesteuert wurde. Die Sätze 1 und 2 gelten auch für
-solche Teilnehmer, die im Geltungsbereich dieses Gesetzes ständig
+(3) Absatz 2 gilt für Deutsche im Sinne des Grundgesetzes, die
+Inhaber eines von einer deutschen Behörde im Geltungsbereich dieses
+Gesetzes oder von einer Auslandsvertretung der Bundesrepublik
+Deutschland ausgestellten gültigen Reisepasses oder Personalausweises
+sind, nur hinsichtlich der in Artikel VI Abschnitt 22 Buchstaben
+b, c und d genannten Vorrechte und Immunitäten. Die Immunität von
+der Gerichtsbarkeit nach Artikel VI Abschnitt 22 Buchstabe b gilt
+nicht im Fall eines Verstoßes gegen die Vorschriften über den
+Straßenverkehr durch einen Teilnehmer im Fall von Schäden, die durch
+ein Motorfahrzeug verursacht wurden, das einem Teilnehmer gehört oder
+von einem Teilnehmer gesteuert wurde. Die Sätze 1 und 2 gelten auch
+für solche Teilnehmer, die im Geltungsbereich dieses Gesetzes ständig
 ansässig sind.
 
 

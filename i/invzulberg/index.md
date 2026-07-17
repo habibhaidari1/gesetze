@@ -1,6 +1,5 @@
 ---
-Title: Gesetz über die berechnungsrechtliche Behandlung von Investitionszulagen im
-  preisgebundenen Wohnungsbau
+Title: Gesetz über die berechnungsrechtliche Behandlung von Investitionszulagen im preisgebundenen Wohnungsbau
 jurabk: InvZulBerG
 layout: default
 origslug: invzulberg
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 1974, 3676, 3678
-
 
 
 ## § 1 Nichtberücksichtigung der Investitionszulage

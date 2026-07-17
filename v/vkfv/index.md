@@ -18,14 +18,14 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 19.3.2019 I 378
 
-Geändert durch
-:   Art. 1 V v. 9.12.2019 I 2142
+Zuletzt geändert durch
+:   Art. 1 V v. 28.11.2024 I Nr. 376
 
 
 ## § 1 Kosten der Grundsicherung für Arbeitsuchende
 
-Kosten der Grundsicherung für Arbeitsuchende nach dem Zweiten Buch
-Sozialgesetzbuch sind der in Geld ausgedrückte Güter- und
+Kosten der Grundsicherung für Arbeitsuchende nach dem Zweiten
+Buch Sozialgesetzbuch sind der in Geld ausgedrückte Güter- und
 Dienstleistungsverzehr für die Erbringung von Leistungen der
 Grundsicherung für Arbeitsuchende. Der Kostenbegriff umfasst die durch
 reale Zahlungsvorgänge entstehenden Kosten sowie Aufwendungen für
@@ -47,8 +47,8 @@ und Beamte (§ 7) sowie die Kosten der Personalverwaltung (§ 8).
 (3) Sächliche Aufwendungen sind die Sachkosten (§ 9) sowie die Kosten
 der Amtshilfe und Arbeitnehmerüberlassung (§ 10).
 
-(4) Sonstige Aufwendungen sind die Kosten für die Leistungen Dritter
-(§ 11) sowie für die zentral verwalteten Verfahren der
+(4) Sonstige Aufwendungen sind die Kosten für die Leistungen
+Dritter (§ 11) sowie für die zentral verwalteten Verfahren der
 Informationstechnik (§ 12).
 
 
@@ -64,8 +64,8 @@ nicht zu den Gesamtverwaltungskosten.
 
 (1) Das Vollzeitäquivalent bildet den Umfang der Tätigkeit einer
 Beschäftigten oder eines Beschäftigten in der gemeinsamen Einrichtung
-innerhalb eines Haushaltsjahres, ohne Berücksichtigung der im Wege der
-Amtshilfe oder Arbeitnehmerüberlassung Beschäftigten, ab. Für eine
+innerhalb eines Haushaltsjahres, ohne Berücksichtigung der im Wege
+der Amtshilfe oder Arbeitnehmerüberlassung Beschäftigten, ab. Für eine
 Beschäftigte oder einen Beschäftigten, dessen regelmäßige wöchentliche
 Arbeitszeit der einer oder eines vergleichbaren Vollzeitbeschäftigten
 entspricht und der im gesamten Haushaltsjahr ausschließlich in der
@@ -75,20 +75,16 @@ Wert von eins.
 (2) Bei anteiliger Beschäftigung errechnet sich das Vollzeitäquivalent
 je Beschäftigtem aus dem Anteil
 
-1.  der ermäßigten wöchentlichen Arbeitszeit der oder des Beschäftigten an
-    der regelmäßigen wöchentlichen Arbeitszeit einer oder eines
+1.  der ermäßigten wöchentlichen Arbeitszeit der oder des Beschäftigten
+    an der regelmäßigen wöchentlichen Arbeitszeit einer oder eines
     vergleichbaren Vollzeitbeschäftigten,
-
 
 2.  der vertraglich vereinbarten oder vom Dienstherrn festgesetzten
     Beschäftigungsmonate am Haushaltsjahr und
 
-
 3.  der Arbeitszeit zur Wahrnehmung von Aufgaben in der gemeinsamen
     Einrichtung an der gesamten regelmäßigen Arbeitszeit der Beschäftigten
     oder des Beschäftigten im Haushaltsjahr.
-
-
 
 Das Vollzeitäquivalent ist auf die vierte Nachkommastelle zu runden.
 
@@ -100,32 +96,23 @@ Beamten sowie Arbeitnehmerinnen und Arbeitnehmer, denen Tätigkeiten in
 den gemeinsamen Einrichtungen zugewiesen sind.
 
 (2) Bezüge sind alle nach besoldungsrechtlichen und tarifvertraglichen
-sowie vergleichbaren außertariflichen Regelungen laufend gezahlten
-Besoldungen und Entgelte an Beamtinnen und Beamte sowie
+sowie vergleichbaren außertariflichen Regelungen laufend
+gezahlten Besoldungen und Entgelte an Beamtinnen und Beamte sowie
 Arbeitnehmerinnen und Arbeitnehmer. Dazu gehören insbesondere:
 
 1.  das Grundgehalt,
 
-
 2.  der Familienzuschlag,
-
 
 3.  die Zulagen und Sonderzahlungen,
 
-
 4.  die Vergütungen,
-
 
 5.  die vermögenswirksamen Leistungen,
 
-
 6.  die leistungsorientierte Bezahlung sowie
 
-
 7.  die Arbeitgeberanteile zur Sozialversicherung und Zusatzversorgung.
-
-
-
 
 
 ## § 6 Personalnebenkosten
@@ -136,26 +123,17 @@ Arbeitnehmerinnen und Arbeitnehmer, insbesondere für
 
 1.  die Beihilfen und Beihilfeumlagen,
 
-
 2.  die Fürsorgeleistungen,
-
 
 3.  die Unterstützungen,
 
-
 4.  die Beiträge zu Unfallkassen,
-
 
 5.  das Trennungsgeld,
 
-
 6.  die Fahrkostenzuschüsse sowie
 
-
 7.  die Umzugskostenvergütungen.
-
-
-
 
 
 ## § 7 Versorgungsaufwendungen für Beamtinnen und Beamte
@@ -168,16 +146,16 @@ Tätigkeiten in den gemeinsamen Einrichtungen zugewiesen sind.
 
 ## § 8 Kosten der Personalverwaltung
 
-Kosten der Personalverwaltung sind die Aufwendungen der Träger zur
-Erfüllung ihrer Pflichten als Arbeitgeber und Dienstherr der
+Kosten der Personalverwaltung sind die Aufwendungen der Träger
+zur Erfüllung ihrer Pflichten als Arbeitgeber und Dienstherr der
 Beschäftigten in der gemeinsamen Einrichtung.
 
 
 ## § 8a Kosten der Nachwuchskräfte
 
-Kosten der Nachwuchskräfte sind Aufwendungen für Personen, die im
-Rahmen ihrer Ausbildung oder ihres Studiums im Bereich der
-Grundsicherung für Arbeitsuchende nach dem Zweiten Buch
+Kosten der Nachwuchskräfte sind Aufwendungen für Personen,
+die im Rahmen ihrer Ausbildung oder ihres Studiums im Bereich
+der Grundsicherung für Arbeitsuchende nach dem Zweiten Buch
 Sozialgesetzbuch eingesetzt werden.
 
 
@@ -192,27 +170,18 @@ Sachgemeinkosten.
 
 1.  den Büro- und Geschäftsbedarf sowie Verbrauchsmittel,
 
-
 2.  die dezentrale Informationstechnik und Kommunikation,
-
 
 3.  die Geräte sowie Ausstattungs- und Ausrüstungsgegenstände,
 
-
 4.  die Unterhaltung von Grundstücken und baulichen Anlagen,
 
-
 5.  die Bewirtschaftung der Grundstücke, Gebäude und Räume,
-
 
 6.  die Dienstreisen und die Beschaffung und Haltung von Kraftfahrzeugen
     sowie
 
-
 7.  die Dienst- und Schutzkleidung.
-
-
-
 
 (4) Sonstige Sachgemeinkosten sind die Kapitalkosten für die
 Büroausstattung und deren Unterhaltung, Aufwendungen für Investitionen
@@ -222,8 +191,8 @@ Aufwendungen für die Instandhaltung und Instandsetzung.
 
 ## § 10 Amtshilfe und Arbeitnehmerüberlassung
 
-Kosten der Amtshilfe sind die Aufwendungen für Personal, das in der
-gemeinsamen Einrichtung Amtshilfe gemäß § 3 des Zehnten Buches
+Kosten der Amtshilfe sind die Aufwendungen für Personal, das in
+der gemeinsamen Einrichtung Amtshilfe gemäß § 3 des Zehnten Buches
 Sozialgesetzbuch leistet. Kosten der Arbeitnehmerüberlassung sind die
 Aufwendungen für Personal, das in der gemeinsamen Einrichtung im Sinne
 des Arbeitnehmerüberlassungsgesetzes eingesetzt wird.
@@ -236,32 +205,37 @@ Leistungen Dritter sind
 1.  die Wahrnehmung von Aufgaben der gemeinsamen Einrichtung durch die
     Träger nach § 44b Absatz 4 des Zweiten Buches Sozialgesetzbuch oder
 
-
 2.  die Erbringung von Dienstleistungen für die gemeinsame Einrichtung
     durch die Träger oder sonstige Auftragnehmer.
 
 
-
-
-
 ## § 12 Zentral verwaltete Verfahren der Informationstechnik
 
-Kosten der zentral verwalteten Verfahren der Informationstechnik sind
-die Aufwendungen der Bundesagentur für Arbeit für die Betreuung und
-Unterhaltung sowie Organisation des Betriebes der zentral verwalteten
-laufenden Verfahren der Informationstechnik für die gemeinsamen
-Einrichtungen nach § 50 Absatz 3 des Zweiten Buches Sozialgesetzbuch.
+Kosten der zentral verwalteten Verfahren der Informationstechnik
+sind die Aufwendungen der Bundesagentur für Arbeit für die Betreuung,
+Unterhaltung, Weiterentwicklung sowie Organisation des Betriebes der
+zentral verwalteten laufenden Verfahren der Informationstechnik für
+die gemeinsamen Einrichtungen nach § 50 Absatz 3 des Zweiten Buches
+Sozialgesetzbuch. Zu den Kosten der zentral verwalteten Verfahren der
+Informationstechnik zählen auch die Aufwendungen der Bundesagentur
+für Arbeit für die Betreuung, Unterhaltung, Weiterentwicklung
+und Organisation des Betriebes von laufenden Verfahren, die aus
+strukturellen, architektonischen oder sicherheitsrelevanten Gründen
+zum Betrieb der Verfahren nach Satz 1 notwendig sind, sowie die
+Aufwendungen für Informationstechnik zur Unterstützung der gemeinsamen
+Einrichtungen bei der Betrugsprävention und der Aufdeckung banden-
+oder gewerbsmäßiger Kriminalität.
 
 
 ## § 13 Grundsätze zur Bestimmung der Gesamtverwaltungskosten
 
-(1) Die Bestimmung der Gesamtverwaltungskosten nach § 2 erfolgt unter
-Berücksichtigung der Grundsätze der Wirtschaftlichkeit und Sparsamkeit
-grundsätzlich auf der Grundlage der tatsächlich entstandenen Kosten.
-Staatliche Zuschüsse und sonstige Einnahmen oder Vergünstigungen, die
-die finanzielle Belastung beim Träger verringern, sind bei der
-Bestimmung der Gesamtverwaltungskosten ausgabemindernd zu
-berücksichtigen. Versorgungsaufwendungen nach § 7, Kosten der
+(1) Die Bestimmung der Gesamtverwaltungskosten nach § 2 erfolgt
+unter Berücksichtigung der Grundsätze der Wirtschaftlichkeit
+und Sparsamkeit grundsätzlich auf der Grundlage der tatsächlich
+entstandenen Kosten. Staatliche Zuschüsse und sonstige Einnahmen oder
+Vergünstigungen, die die finanzielle Belastung beim Träger verringern,
+sind bei der Bestimmung der Gesamtverwaltungskosten ausgabemindernd
+zu berücksichtigen. Versorgungsaufwendungen nach § 7, Kosten der
 Personalverwaltung nach § 8, Kosten der Nachwuchskräfte nach § 8a und
 Kosten der zentral verwalteten Verfahren der Informationstechnik nach
 § 12 werden auf der Grundlage von Pauschalen bestimmt.
@@ -281,26 +255,26 @@ ihrem jeweiligen Anteil für jede Beschäftigte und jeden Beschäftigten
 zu berücksichtigen.
 
 (2) Für Beschäftigte, die Altersteilzeitarbeit im Sinne des
-Altersteilzeitgesetzes leisten, werden als Personalkosten nach § 5 die
-Aufwendungen anerkannt, die der regelmäßigen Arbeitszeit des
-Beschäftigten entsprechen. In den Fällen, in denen eine
-Altersteilzeitarbeit im Rahmen eines Blockmodells nach § 2 Absatz 2
-oder 3 des Altersteilzeitgesetzes geleistet wird, können aus der
-Differenz zwischen den nach Satz 1 anerkennungsfähigen Personalkosten
-und den tatsächlichen Aufwendungen während der Aktivphase
-Rückstellungen für die Freistellungsphase gebildet werden.
+Altersteilzeitgesetzes leisten, werden als Personalkosten nach
+§ 5 die Aufwendungen anerkannt, die der regelmäßigen Arbeitszeit
+des Beschäftigten entsprechen. In den Fällen, in denen eine
+Altersteilzeitarbeit im Rahmen eines Blockmodells nach § 2
+Absatz 2 oder 3 des Altersteilzeitgesetzes geleistet wird, können
+aus der Differenz zwischen den nach Satz 1 anerkennungsfähigen
+Personalkosten und den tatsächlichen Aufwendungen während der
+Aktivphase Rückstellungen für die Freistellungsphase gebildet werden.
 Personalkosten während der Freistellungsphase werden nicht anerkannt.
 
-(3) Für Beschäftigte, mit denen eine Wertguthabenvereinbarung im Sinne
-der §§ 7b bis 7f des Vierten Buches Sozialgesetzbuch oder eine
-Wertguthabenvereinbarung auf Grund vergleichbarer gesetzlicher oder
-tarifvertraglicher Regelungen geschlossen wurde, werden als
-Personalkosten nach § 5 die Aufwendungen anerkannt, die der
-regelmäßigen Arbeitszeit des Beschäftigten entsprechen. Aus der
-Differenz zwischen den nach Satz 1 anerkennungsfähigen Personalkosten
-und den tatsächlichen Aufwendungen während der Ansparphase können
-Rückstellungen für die Freistellungsphase gebildet werden.
-Personalkosten, die über die nach Satz 1 anerkennungsfähigen
+(3) Für Beschäftigte, mit denen eine Wertguthabenvereinbarung
+im Sinne der §§ 7b bis 7f des Vierten Buches Sozialgesetzbuch
+oder eine Wertguthabenvereinbarung auf Grund vergleichbarer
+gesetzlicher oder tarifvertraglicher Regelungen geschlossen wurde,
+werden als Personalkosten nach § 5 die Aufwendungen anerkannt,
+die der regelmäßigen Arbeitszeit des Beschäftigten entsprechen.
+Aus der Differenz zwischen den nach Satz 1 anerkennungsfähigen
+Personalkosten und den tatsächlichen Aufwendungen während der
+Ansparphase können Rückstellungen für die Freistellungsphase gebildet
+werden. Personalkosten, die über die nach Satz 1 anerkennungsfähigen
 Aufwendungen hinausgehen, werden während der Freistellungsphase nicht
 anerkannt.
 
@@ -309,17 +283,17 @@ anerkannt.
 
 Personalnebenkosten nach § 6 werden in tatsächlicher Höhe anerkannt.
 Für Personalnebenkosten nach § 6 Nummer 1 und 4 können ausnahmsweise
-die jahresdurchschnittlichen Personalnebenkosten der Träger für den
-Abrechnungsmonat anerkannt werden. § 14 Absatz 1 Satz 3 gilt
+die jahresdurchschnittlichen Personalnebenkosten der Träger für
+den Abrechnungsmonat anerkannt werden. § 14 Absatz 1 Satz 3 gilt
 entsprechend.
 
 
 ## § 16 Versorgungsaufwendungen für Beamtinnen und Beamte
 
 Für Versorgungsaufwendungen nach § 7 wird ein Zuschlag von bis zu 30
-Prozent der nach § 14 bestimmten Personalkosten für Beamtinnen und
-Beamte anerkannt. Abweichend von Satz 1 gilt vom 1. Januar 2015 bis
-31\. Dezember 2024 ein Zuschlag von bis zu 35 Prozent.
+Prozent der nach § 14 bestimmten ruhegehaltfähigen Personalkosten für
+Beamtinnen und Beamte anerkannt. Abweichend von Satz 1 gilt vom 1.
+Januar 2015 bis 31. Dezember 2025 ein Zuschlag von bis zu 35 Prozent.
 
 
 ## § 17 Bestimmung der Kosten für die Personalverwaltung
@@ -332,9 +306,9 @@ Arbeitgeberanteile zur Sozialversicherung und Zusatzversorgung nach §
 
 ## § 17a Bestimmung der Kosten für Nachwuchskräfte
 
-(1) Für Kosten der Nachwuchskräfte nach § 8a wird ein Zuschlag von bis
-zu 0,5 Prozent der nach § 14 vom jeweiligen Träger bestimmten und um
-die Arbeitgeberanteile zur Sozialversicherung und Zusatzversorgung
+(1) Für Kosten der Nachwuchskräfte nach § 8a wird ein Zuschlag von
+bis zu 0,5 Prozent der nach § 14 vom jeweiligen Träger bestimmten und
+um die Arbeitgeberanteile zur Sozialversicherung und Zusatzversorgung
 nach § 5 Absatz 2 Satz 2 Nummer 7 geminderten Personalkosten
 anerkannt.
 
@@ -381,5 +355,4 @@ dieser Verordnung vor.
 
 
 ## § 22 (Außerkrafttreten)
-
 

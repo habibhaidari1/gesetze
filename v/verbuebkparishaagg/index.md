@@ -1,6 +1,5 @@
 ---
-Title: Gesetz über die am 6. November 1925 im Haag revidierte Pariser Verbandsübereinkunft
-  zum Schutze des gewerblichen Eigentums
+Title: Gesetz über die am 6. November 1925 im Haag revidierte Pariser Verbandsübereinkunft zum Schutze des gewerblichen Eigentums
 jurabk: VerbÜbkParisHaagG
 layout: default
 origslug: verb_bkparishaagg
@@ -18,7 +17,6 @@ Fundstelle
 
 Geändert durch
 :   Art. 49 G v. 8.12.2010 I 1864
-
 
 
 ## Art 1

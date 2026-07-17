@@ -1,7 +1,5 @@
 ---
-Title: Staatsvertrag über den Übergang der Aufgaben der Deutschen Dienststelle für
-  die Benachrichtigung der nächsten Angehörigen von Gefallenen der ehemaligen Deutschen
-  Wehrmacht
+Title: Staatsvertrag über den Übergang der Aufgaben der Deutschen Dienststelle für die Benachrichtigung der nächsten Angehörigen von Gefallenen der ehemaligen Deutschen Wehrmacht
 jurabk: WAStAÜStVtr
 layout: default
 origslug: wasta_stvtr
@@ -17,34 +15,36 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2018, 2258
 
-Stand: Der Staatsvertrag ist gem. § 3 iVm Bek. v. 12.4.2019 I 496 am 1.1.2019 in Kraft getreten
+Stand
+:   Der Staatsvertrag ist gem. § 3 iVm Bek. v. 12.4.2019 I 496 am 1.1.2019 in Kraft getreten
+
 
 ## Präambel
 
-Aus zeitgeschichtlichen Gründen wurde die Deutsche Dienststelle für
-die Benachrichtigung der nächsten Angehörigen von Gefallenen der
-ehemaligen Deutschen Wehrmacht (Deutsche Dienststelle (WASt))
+Aus zeitgeschichtlichen Gründen wurde die Deutsche Dienststelle
+für die Benachrichtigung der nächsten Angehörigen von Gefallenen
+der ehemaligen Deutschen Wehrmacht (Deutsche Dienststelle (WASt))
 jahrzehntelang als Behörde des Landes Berlin geführt, obwohl sie
 Bundesaufgaben wahrnahm. Gemäß einer Verwaltungsvereinbarung aus dem
 Jahr 1951 erstattete der Bund dem Land Berlin sämtliche Aufwendungen
-für die Aufgabenerledigung der Deutschen Dienststelle (WASt). Nunmehr
-sollen die Aufgaben der Deutschen Dienststelle (WASt) dem Bundesarchiv
-übertragen werden, weil die betreffenden Unterlagen zur
-zentralstaatlichen Überlieferung der deutschen Militärverwaltung
+für die Aufgabenerledigung der Deutschen Dienststelle (WASt).
+Nunmehr sollen die Aufgaben der Deutschen Dienststelle (WASt) dem
+Bundesarchiv übertragen werden, weil die betreffenden Unterlagen
+zur zentralstaatlichen Überlieferung der deutschen Militärverwaltung
 gehören und perspektivisch zu Archivgut werden.
 
 
 ## Art 1 Auflösung, Übergang
 
-Die Deutsche Dienststelle (WASt) als Behörde des Landes Berlin ist mit
-Inkrafttreten dieses Staatsvertrags aufgelöst. Alle die Deutsche
+Die Deutsche Dienststelle (WASt) als Behörde des Landes Berlin ist
+mit Inkrafttreten dieses Staatsvertrags aufgelöst. Alle die Deutsche
 Dienststelle (WASt) betreffenden Aufgaben, Rechte, Pflichten und
-Verbindlichkeiten gehen mit Inkrafttreten dieses Staatsvertrags vom
-Land Berlin auf die Bundesrepublik Deutschland über. Das Bundesarchiv
-als Bundesoberbehörde im Geschäftsbereich der für Kultur und Medien
-zuständigen obersten Bundesbehörde nimmt für die Bundesrepublik
-Deutschland die nach Satz 2 übergegangenen Aufgaben, Rechte und
-Pflichten wahr und ist für die Erfüllung der übergegangenen
+Verbindlichkeiten gehen mit Inkrafttreten dieses Staatsvertrags
+vom Land Berlin auf die Bundesrepublik Deutschland über. Das
+Bundesarchiv als Bundesoberbehörde im Geschäftsbereich der für
+Kultur und Medien zuständigen obersten Bundesbehörde nimmt für die
+Bundesrepublik Deutschland die nach Satz 2 übergegangenen Aufgaben,
+Rechte und Pflichten wahr und ist für die Erfüllung der übergegangenen
 Verbindlichkeiten verantwortlich.
 
 
@@ -72,28 +72,25 @@ Inkrafttreten dieses Staatsvertrags folgende Maßgaben:
     Bundes jeweils geltenden Fassung (Tarifvertrag für den öffentlichen
     Dienst) nach Maßgabe dessen § 12 einzugruppieren.
 
-
-2.  Die Zuordnung zu den Stufen der Entgelttabelle des Tarifvertrages für
-    den öffentlichen Dienst erfolgt nach § 16 des Tarifvertrages für den
-    öffentlichen Dienst. Bei der Berechnung der für die Zuordnung zu den
-    Stufen der Entgelttabelle des Tarifvertrages für den öffentlichen
+2.  Die Zuordnung zu den Stufen der Entgelttabelle des Tarifvertrages
+    für den öffentlichen Dienst erfolgt nach § 16 des Tarifvertrages für
+    den öffentlichen Dienst. Bei der Berechnung der für die Zuordnung zu
+    den Stufen der Entgelttabelle des Tarifvertrages für den öffentlichen
     Dienst maßgeblichen Zeiten nach § 16 Absatz 1 bis 5 des Tarifvertrages
     für den öffentlichen Dienst werden die bei dem Land Berlin bis zum
-    Inkrafttreten dieses Staatsvertrags erreichten Zeiten unbeschadet der
-    übrigen Voraussetzungen so berücksichtigt, als wenn sie beim Bund
+    Inkrafttreten dieses Staatsvertrags erreichten Zeiten unbeschadet
+    der übrigen Voraussetzungen so berücksichtigt, als wenn sie beim Bund
     zurückgelegt worden wären.
 
-
 3.  Die beim Land Berlin bis zum Inkrafttreten dieses Staatsvertrags
-    erreichte Beschäftigungszeit wird als Beschäftigungszeit im Sinne des
-    § 34 Absatz 3 des Tarifvertrages für den öffentlichen Dienst
+    erreichte Beschäftigungszeit wird als Beschäftigungszeit im Sinne
+    des § 34 Absatz 3 des Tarifvertrages für den öffentlichen Dienst
     fortgeführt.
 
-
-4.  Weichen die Regelungen des Tarifvertrages für den öffentlichen Dienst
-    zum Entgelt gegenüber den am Tag vor dem Inkrafttreten dieses
-    Staatsvertrags geltenden tariflichen Regelungen des Landes Berlin zu
-    Ungunsten der vom Übergang ihrer Arbeitsverhältnisse betroffenen
+4.  Weichen die Regelungen des Tarifvertrages für den öffentlichen
+    Dienst zum Entgelt gegenüber den am Tag vor dem Inkrafttreten dieses
+    Staatsvertrags geltenden tariflichen Regelungen des Landes Berlin
+    zu Ungunsten der vom Übergang ihrer Arbeitsverhältnisse betroffenen
     Arbeitnehmerinnen und Arbeitnehmer ab, kann diesen mit Zustimmung der
     für Kultur und Medien zuständigen obersten Bundesbehörde, die der im
     Einvernehmen mit dem Bundesministerium der Finanzen zu erteilenden
@@ -106,12 +103,9 @@ Inkrafttreten dieses Staatsvertrags folgende Maßgaben:
     Einwilligung des Bundesministeriums des Innern, für Bau und Heimat
     bedarf, festgelegt.
 
-
-
-
 (4) Betriebsbedingte Kündigungen der von Absatz 1 erfassten
-Beschäftigten durch das Land Berlin oder durch die Bundesrepublik
-Deutschland wegen der Überleitung der Arbeits- und
+Beschäftigten durch das Land Berlin oder durch die
+Bundesrepublik Deutschland wegen der Überleitung der Arbeits- und
 Ausbildungsverhältnisse sind unzulässig.
 
 
@@ -134,9 +128,9 @@ Absprachen auf Verwaltungsebene getroffen werden.
 
 ## Art 5 Inkrafttreten; Außerkrafttreten
 
-Dieser Staatsvertrag bedarf der Ratifikation. Er tritt am ersten Tag
-des auf den Austausch der Ratifikationsurkunden folgenden Monats in
-Kraft. Mit dem Inkrafttreten dieses Staatsvertrags tritt die
+Dieser Staatsvertrag bedarf der Ratifikation. Er tritt am ersten
+Tag des auf den Austausch der Ratifikationsurkunden folgenden Monats
+in Kraft. Mit dem Inkrafttreten dieses Staatsvertrags tritt die
 „Vereinbarung über die Deutsche Dienststelle für die Benachrichtigung
 der nächsten Angehörigen von Gefallenen der ehemaligen Deutschen
 Wehrmacht (WASt) und das Amt für die Erfassung der Kriegsopfer (AEK)“
@@ -146,25 +140,6 @@ ihres § 8 außer Kraft.
 
 ## Schlussformel
 
-
-
-*    *   Für das Land Berlin
-        Der Regierende Bürgermeister
-        vertreten durch
-        die Senatorin
-        für Integration, Arbeit und Soziales
-        Elke Breitenbach
-
-        Berlin, den 30. Mai 2018
-
-
-    *   Für die Bundesrepublik Deutschland
-        Die Beauftragte der Bundesregierung
-        für Kultur und Medien
-        Monika Grütters
-
-        Berlin, den 12. Oktober 2018
-
-
-
+| Für das Land Berlin Der Regierende Bürgermeister vertreten durch die Senatorin für Integration, Arbeit und Soziales Elke Breitenbach  Berlin, den 30. Mai 2018 | Für die Bundesrepublik Deutschland Die Beauftragte der Bundesregierung für Kultur und Medien Monika Grütters     Berlin, den 12. Oktober 2018 |
+| --- | --- |
 

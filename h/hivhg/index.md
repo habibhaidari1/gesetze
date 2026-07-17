@@ -28,11 +28,10 @@ beschlossen:
 ## Teil 1 - Allgemeine Vorschriften
 
 
-
 ### § 1 Zweck des Gesetzes
 
-Zweck des Gesetzes ist es, aus humanitären und sozialen Gründen und
-unabhängig von bisher erbrachten Entschädigungs- und sozialen
+Zweck des Gesetzes ist es, aus humanitären und sozialen Gründen
+und unabhängig von bisher erbrachten Entschädigungs- und sozialen
 Leistungen an Personen, die durch Blutprodukte unmittelbar oder
 mittelbar mit dem Human Immundeficiency Virus (HIV) oder infolge davon
 an AIDS erkrankt sind, lebenslang und an deren unterhaltsberechtigte
@@ -47,9 +46,7 @@ Die Mittel für die finanzielle Hilfe werden vom Bund aufgebracht.
 ## Teil 2 - Stiftung des Bundes
 
 
-
 ### Abschnitt 1 - Allgemeine Vorschriften
-
 
 
 #### § 3 Errichtung und Sitz
@@ -83,8 +80,8 @@ anzunehmen.
 
 #### § 6 Satzung
 
-Die Stiftung erhält eine Satzung, die vom Stiftungsrat (§ 8) mit den
-Stimmen der Mehrheit seiner Mitglieder beschlossen wird und der
+Die Stiftung erhält eine Satzung, die vom Stiftungsrat (§ 8) mit
+den Stimmen der Mehrheit seiner Mitglieder beschlossen wird und der
 Genehmigung des Bundesministeriums für Gesundheit im Einvernehmen mit
 dem Bundesministerium der Justiz und für Verbraucherschutz bedarf. Der
 Stiftungsrat kann die Satzung mit Genehmigung des Bundesministeriums
@@ -99,12 +96,12 @@ Organe der Stiftung sind der Stiftungsrat und der Stiftungsvorstand.
 
 #### § 8 Stiftungsrat
 
-(1) Der Stiftungsrat besteht aus sieben Mitgliedern. Ein Mitglied wird
-vom Bundesministerium für Gesundheit benannt. Zwei Mitglieder werden
-vom Deutschen Bundestag benannt. Zwei Mitglieder benennt das
-Bundesministerium für Gesundheit auf Vorschlag der in § 5 Absatz 1
-genannten pharmazeutischen Unternehmen und der Blutspendedienste des
-Deutschen Roten Kreuzes. Zwei weitere Mitglieder benennt das
+(1) Der Stiftungsrat besteht aus sieben Mitgliedern. Ein Mitglied
+wird vom Bundesministerium für Gesundheit benannt. Zwei Mitglieder
+werden vom Deutschen Bundestag benannt. Zwei Mitglieder benennt das
+Bundesministerium für Gesundheit auf Vorschlag der in § 5 Absatz
+1 genannten pharmazeutischen Unternehmen und der Blutspendedienste
+des Deutschen Roten Kreuzes. Zwei weitere Mitglieder benennt das
 Bundesministerium für Gesundheit auf Vorschlag der überörtlichen
 Hämophilieverbände.
 
@@ -137,8 +134,8 @@ höchstens zwei weiteren Mitgliedern. § 8 Abs. 4 gilt entsprechend.
 Bundesministerium für Gesundheit mit Zustimmung des Stiftungsrates
 bestellt.
 
-(3) Der Stiftungsvorstand führt die Beschlüsse des Stiftungsrates aus
-und führt die Geschäfte der Stiftung. Er vertritt die Stiftung
+(3) Der Stiftungsvorstand führt die Beschlüsse des Stiftungsrates
+aus und führt die Geschäfte der Stiftung. Er vertritt die Stiftung
 gerichtlich und außergerichtlich.
 
 (4) Das Nähere regelt die Satzung.
@@ -177,9 +174,9 @@ erlangten Kenntnisse und Unterlagen, die die personenbezogenen Daten
 der antragstellenden Personen betreffen, Verschwiegenheit zu bewahren,
 auch wenn sie die Tätigkeit für die Stiftung beendet haben. Personen,
 die bei der Stiftung beschäftigt sind und auf Grund ihrer Tätigkeit
-Zugang zu personenbezogenen Daten der antragstellenden Personen haben,
-sind nach dem Verpflichtungsgesetz vom 2. März 1974 (BGBl. I S. 469,
-547) auf die gewissenhafte Erfüllung ihrer Obliegenheiten zu
+Zugang zu personenbezogenen Daten der antragstellenden Personen
+haben, sind nach dem Verpflichtungsgesetz vom 2. März 1974 (BGBl. I
+S. 469, 547) auf die gewissenhafte Erfüllung ihrer Obliegenheiten zu
 verpflichten, soweit sie nicht Amtsträger sind.
 
 
@@ -199,21 +196,17 @@ Die Stiftung wird aufgehoben, wenn der Stiftungszweck erfüllt ist.
 ### Abschnitt 2 - Leistungen
 
 
-
 #### § 15 Anspruchsberechtigte Personen
 
-(1) Einen Anspruch auf Leistungen der Stiftung haben Personen, die in
-dem Gebiet der heutigen Bundesrepublik Deutschland durch in diesem
+(1) Einen Anspruch auf Leistungen der Stiftung haben Personen, die
+in dem Gebiet der heutigen Bundesrepublik Deutschland durch in diesem
 Gebiet in Verkehr gebrachte Blutprodukte vor dem 1. Januar 1988
 unmittelbar
 
 1.  mit dem HIV infiziert worden sind oder
 
-
 2.  mit dem HIV infiziert worden und als Folge davon an AIDS erkrankt
     sind.
-
-
 
 Eine AIDS-Erkrankung ist anzunehmen, wenn entweder eine CD4-Helferzahl
 von weniger als 200 oder eine CD4-Helferzahl von regelmäßig weniger
@@ -236,9 +229,9 @@ Kinder ihres Ehepartners berücksichtigt.
 
 (5) Im Falle des Absatzes 1 sind die Voraussetzungen nach Satz 1 durch
 ärztliche Bescheinigung nachzuweisen, aus der die Ursächlichkeit des
-verabreichten Blutproduktes für die vorliegende HIV-Infektion oder die
-dadurch bedingte AIDS-Erkrankung hervorgehen muß. Zum Nachweis der
-Ursächlichkeit genügt es, daß im Verlauf einer Behandlung ein
+verabreichten Blutproduktes für die vorliegende HIV-Infektion oder
+die dadurch bedingte AIDS-Erkrankung hervorgehen muß. Zum Nachweis
+der Ursächlichkeit genügt es, daß im Verlauf einer Behandlung ein
 Blutprodukt verwendet worden ist, das eine HIV-Infektion verursacht
 haben kann. Antragstellende Personen, die nicht Bluter sind, müssen
 darüber hinaus durch eine Bescheinigung der mit dem Blutprodukt
@@ -247,17 +240,17 @@ verabreicht hat. Anfallende Kosten für die Ausstellung der
 Bescheinigungen werden nicht erstattet.
 
 (6) Im Falle des Absatzes 2 ist durch ärztliche Bescheinigung
-nachzuweisen, daß eine HIV-Infektion oder AIDS-Erkrankung vorliegt und
-die Infektion mit großer Wahrscheinlichkeit durch den Ehepartner,
-Verlobten oder Lebenspartner übertragen worden ist. Absatz 5 gilt für
-den Nachweis der HIV-Infektion des Ehepartners, Verlobten oder
+nachzuweisen, daß eine HIV-Infektion oder AIDS-Erkrankung vorliegt
+und die Infektion mit großer Wahrscheinlichkeit durch den Ehepartner,
+Verlobten oder Lebenspartner übertragen worden ist. Absatz 5 gilt
+für den Nachweis der HIV-Infektion des Ehepartners, Verlobten oder
 Lebenspartners entsprechend. Es ist nachzuweisen, daß die Ehe, das
 Verlöbnis oder die Lebenspartnerschaft zum Zeitpunkt der Infektion
 bestanden hat. Die Lebenspartnerschaft ist insbesondere anzunehmen,
 wenn später die Ehe geschlossen worden ist, gemeinsame Kinder
 vorhanden sind oder durch Bescheinigung der zuständigen Meldebehörde
-der gemeinsame Hausstand nachgewiesen wird. In Ausnahmefällen kann der
-Nachweis nach Satz 2 auch durch eine eidesstattliche Erklärung
+der gemeinsame Hausstand nachgewiesen wird. In Ausnahmefällen kann
+der Nachweis nach Satz 2 auch durch eine eidesstattliche Erklärung
 erfolgen.
 
 (7) Im Falle des Absatzes 3 ist durch ärztliche Bescheinigung die HIV-
@@ -265,15 +258,15 @@ Infektion oder die AIDS-Erkrankung sowie das Kindschaftsverhältnis
 nachzuweisen. Die Absätze 5 und 6 gelten für den Nachweis der HIV-
 Infektion der Mutter entsprechend.
 
-(8) Im Falle des Absatzes 4 ist das Kindschaftsverhältnis oder die Ehe
-durch entsprechende Urkunden nachzuweisen. Im übrigen gelten die
+(8) Im Falle des Absatzes 4 ist das Kindschaftsverhältnis oder die
+Ehe durch entsprechende Urkunden nachzuweisen. Im übrigen gelten die
 Absätze 5 bis 7 entsprechend.
 
 
 #### § 16 Leistungen
 
-(1) HIV-infizierte Personen erhalten eine monatliche Leistung in Höhe
-von 766,94 Euro, AIDS-erkrankte Personen von 1 533,88 Euro ohne
+(1) HIV-infizierte Personen erhalten eine monatliche Leistung in
+Höhe von 766,94 Euro, AIDS-erkrankte Personen von 1 533,88 Euro ohne
 Prüfung der Einkommens- oder sonstigen wirtschaftlichen Verhältnisse.
 
 (2) Kinder im Sinne des § 15 Abs. 4 erhalten nach dem Tod der
@@ -287,29 +280,29 @@ Jahres nach Beginn der Zahlungen.
 
 (4) Die Zahlung der Leistungen beginnt frühestens mit dem
 Antragsmonat. Wird der Antrag innerhalb von drei Monaten nach dem
-Inkrafttreten dieses Gesetzes gestellt, so werden die Leistungen im
-Falle des Absatzes 1 rückwirkend vom 1. Januar 1994 und im Falle der
-Absätze 2 und 3 vom Zeitpunkt des Inkrafttretens des Gesetzes an
-gewährt.
+Inkrafttreten dieses Gesetzes gestellt, so werden die Leistungen
+im Falle des Absatzes 1 rückwirkend vom 1. Januar 1994 und im Falle
+der Absätze 2 und 3 vom Zeitpunkt des Inkrafttretens des Gesetzes
+an gewährt.
 
-(5) Die Zahlung der Leistungen endet unbeschadet der Regelungen in den
-Absätzen 2 und 3 mit Ablauf des Monats, in dem die
+(5) Die Zahlung der Leistungen endet unbeschadet der Regelungen
+in den Absätzen 2 und 3 mit Ablauf des Monats, in dem die
 anspruchsberechtigte Person stirbt. Verstirbt die antragstellende
 Person nach Antragseingang, so wird die auf Grund des Antrages
 bewilligte Leistung ihrem Ehepartner, Verlobten, Lebenspartner, ihren
 Kindern oder Eltern ausgezahlt, soweit sie erben.
 
 (6) Die Leistungen werden zum gleichen Zeitpunkt, zu dem die Renten
-der gesetzlichen Rentenversicherung angepasst werden, entsprechend dem
-Prozentsatz angepasst, um den sich der aktuelle Rentenwert in der
+der gesetzlichen Rentenversicherung angepasst werden, entsprechend
+dem Prozentsatz angepasst, um den sich der aktuelle Rentenwert in der
 gesetzlichen Rentenversicherung verändert. Die Anpassung erfolgt ab
 dem 1. Juli 2019.
 
 
 #### § 17 Steuerfreiheit, Anrechnung auf andere Leistungen
 
-(1) Die Leistungen der Stiftung werden nicht auf andere Leistungen aus
-öffentlichen Mitteln angerechnet und auch nicht bei der gesetzlich
+(1) Die Leistungen der Stiftung werden nicht auf andere Leistungen
+aus öffentlichen Mitteln angerechnet und auch nicht bei der gesetzlich
 vorgesehenen Ermittlung von Einkommen und Vermögen berücksichtigt.
 
 (2) Die Ansprüche auf Leistungen der Stiftung können nicht übertragen,
@@ -351,15 +344,14 @@ entscheidet.
 ### Abschnitt 3 - Andere Ansprüche
 
 
-
 #### § 20 Ausschluß von Ansprüchen
 
-(1) Ansprüche von Personen, die nach Abschnitt 2 Leistungen erhalten,
-gegen die Bundesrepublik Deutschland, die Blutspendedienste des
-Deutschen Roten Kreuzes und die in § 5 Absatz 1 genannten
+(1) Ansprüche von Personen, die nach Abschnitt 2 Leistungen
+erhalten, gegen die Bundesrepublik Deutschland, die Blutspendedienste
+des Deutschen Roten Kreuzes und die in § 5 Absatz 1 genannten
 pharmazeutischen Unternehmen sowie die mit ihnen verbundenen
-Unternehmen wegen einer von diesem Gesetz erfaßten HIV-Infektion oder
-AIDS-Erkrankung erlöschen. Das gilt auch, soweit Ansprüche kraft
+Unternehmen wegen einer von diesem Gesetz erfaßten HIV-Infektion
+oder AIDS-Erkrankung erlöschen. Das gilt auch, soweit Ansprüche kraft
 Gesetzes, kraft Überleitung oder durch Rechtsgeschäft auf andere
 übertragen worden sind.
 
@@ -379,15 +371,14 @@ erhoben.
 ## Teil 3 - Ländermittel
 
 
-
 ### § 22 (weggefallen)
 
 
 ### § 23 Ausschluß von Ansprüchen
 
 Ansprüche von Personen, die nach Teil 2 Abschnitt 2 Leistungen
-erhalten, gegen die Länder wegen einer von diesem Gesetz erfaßten HIV-
-Infektion oder AIDS-Erkrankung erlöschen. Das gilt auch, soweit
+erhalten, gegen die Länder wegen einer von diesem Gesetz erfaßten
+HIV-Infektion oder AIDS-Erkrankung erlöschen. Das gilt auch, soweit
 Ansprüche kraft Gesetzes, kraft Überleitung oder durch Rechtsgeschäft
 auf einen anderen übertragen worden sind.
 
@@ -396,7 +387,6 @@ auf einen anderen übertragen worden sind.
 
 
 ## Teil 4 - Schlußvorschriften
-
 
 
 ### § 25 Programm "Humanitäre Soforthilfe"
@@ -410,10 +400,10 @@ nach Maßgabe der Bestimmungen der genannten Richtlinie abgewickelt.
 
 ### § 26 Inkrafttreten
 
-Dieses Gesetz tritt in Kraft, sobald sichergestellt ist, daß die in §
-2 Nr. 2 und 3 genannten Mittel der Stiftung "Humanitäre Hilfe für
-durch Blutprodukte HIV-infizierte Personen" als Teilbeitrag für das
-Jahr 1995 zur Verfügung gestellt werden. Das Bundesministerium für
-Gesundheit gibt den Tag des Inkrafttretens im Bundesgesetzblatt
+Dieses Gesetz tritt in Kraft, sobald sichergestellt ist, daß die
+in § 2 Nr. 2 und 3 genannten Mittel der Stiftung "Humanitäre Hilfe
+für durch Blutprodukte HIV-infizierte Personen" als Teilbeitrag für
+das Jahr 1995 zur Verfügung gestellt werden. Das Bundesministerium
+für Gesundheit gibt den Tag des Inkrafttretens im Bundesgesetzblatt
 bekannt.
 

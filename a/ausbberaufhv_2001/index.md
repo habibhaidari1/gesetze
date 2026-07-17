@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl I: 2001, 2587
 
 
-
 ## Eingangsformel
 
 Auf Grund des § 25 Abs. 1 des Berufsbildungsgesetzes vom 14. August
@@ -35,37 +34,27 @@ Die Anerkennung folgender Ausbildungsberufe wird aufgehoben:
 
 1.  Bohrer,
 
-
 2.  Handschuhmacher,
-
 
 3.  Hobler,
 
-
 4.  Lichtdruckretuscheur,
-
 
 5.  Schriftgießer,
 
-
 6.  Stahlstichpräger,
-
 
 7.  Wärmestellengehilfe,
 
-
 8.  Zahnlagerist.
-
-
-
 
 
 ## § 2 Besitzstandswahrung
 
 Personen, die vor Inkrafttreten der Verordnung in einem der in § 1
 genannten Ausbildungsberufe ausgebildet worden sind oder im Zeitpunkt
-des Inkrafttretens der Verordnung darin ausgebildet werden und diese
-Berufsausbildung gemäß § 25 Abs. 3 des Berufsbildungsgesetzes
+des Inkrafttretens der Verordnung darin ausgebildet werden und
+diese Berufsausbildung gemäß § 25 Abs. 3 des Berufsbildungsgesetzes
 fortsetzen, bleiben in ihrem Ausbildungsstatus unberührt.
 
 

@@ -1,6 +1,5 @@
 ---
-Title: Vierte Verordnung zur Änderung der Dritten Verordnung zur Durchführung des
-  Bundesentschädigungsgesetzes
+Title: Vierte Verordnung zur Änderung der Dritten Verordnung zur Durchführung des Bundesentschädigungsgesetzes
 jurabk: BEGDV3ÄndV 4
 layout: default
 origslug: begdv3_ndv_4
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 1962, 422
-
 
 
 ## Eingangsformel

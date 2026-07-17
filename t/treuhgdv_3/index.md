@@ -15,6 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   GBl DDR I: 1990, 1333
 
+Fundstelle
+:   GBl DDR I: 1990, Nr 57, 1333
 
 
 ## Eingangsformel
@@ -31,21 +33,15 @@ Der Treuhandanstalt wird das Vermögen
 
 -   der volkseigenen Güter,
 
-
 -   der staatlichen Forstwirtschaftsbetriebe und Forsteinrichtungsämter,
 
-
 -   der volkseigenen Binnenfischereibetriebe,
-
 
 -   der volkseigenen Gestüte, Pferdezuchtdirektionen und Rennbetriebe
     sowie
 
-
 -   der Betriebe bzw. der bereits ausgegliederten Betriebe des
     volkseigenen Kombinates Industrielle Tierproduktion
-
-
 
 (nachfolgend Wirtschaftseinheiten genannt) zur zeitweiligen
 treuhänderischen Verwaltung übergeben.
@@ -53,9 +49,9 @@ treuhänderischen Verwaltung übergeben.
 
 ## § 2
 
-Soweit eine Übertragung bisheriger Wirtschaftseinheiten gemäß § 1 in
-das Eigentum der Länder und Kommunen nicht vorgesehen ist, erfolgt
-ihre Privatisierung auf der Grundlage des § 1 Abs. 2 des
+Soweit eine Übertragung bisheriger Wirtschaftseinheiten gemäß §
+1 in das Eigentum der Länder und Kommunen nicht vorgesehen ist,
+erfolgt ihre Privatisierung auf der Grundlage des § 1 Abs. 2 des
 Treuhandgesetzes. Die übrigen Bestimmungen des Treuhandgesetzes finden
 entsprechende Anwendung.
 
@@ -73,8 +69,8 @@ die treuhänderische Verwaltung der Treuhandanstalt übertragen.
 
 ## § 4
 
-Die Treuhandanstalt hat in Abstimmung mit dem Ministerium für
-Ernährung, Land- und Forstwirtschaft die erforderlichen
+Die Treuhandanstalt hat in Abstimmung mit dem Ministerium
+für Ernährung, Land- und Forstwirtschaft die erforderlichen
 Voraussetzungen für die Erfassung, Privatisierung und Reorganisation
 der volkseigenen Vermögenswerte im Bereich der Land- und
 Forstwirtschaft sicherzustellen und in Übereinstimmung mit § 1 Abs. 6

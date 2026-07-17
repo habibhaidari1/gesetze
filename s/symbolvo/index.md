@@ -18,8 +18,8 @@ Fundstelle
 
 ## Eingangsformel
 
-Auf Grund des § 6 Absatz 2 des Akkreditierungsstellengesetzes vom 31.
-Juli 2009 (BGBl. I S. 2625) verordnet das Bundesministerium für
+Auf Grund des § 6 Absatz 2 des Akkreditierungsstellengesetzes vom
+31\. Juli 2009 (BGBl. I S. 2625) verordnet das Bundesministerium für
 Wirtschaft und Technologie:
 
 
@@ -30,9 +30,11 @@ Akkreditierungsstelle in Kombination mit der individuellen
 Registrierungsnummer der verwendenden Konformitätsbewertungsstelle. Es
 ergibt sich folgendes Schriftbild:
 
+[Anlage: bgbl1_2009_j3870-1_0010.pdf](bgbl1_2009_j3870-1_0010.pdf)
+
 (2) Das Zeichen der Akkreditierungsstelle besteht aus einem
-Schriftzug, einem Siegelelement und dem ausgeschriebenen Namen der
-Akkreditierungsstelle. Die Farben sind Schwarz, Rot, Gold und
+Schriftzug, einem Siegelelement und dem ausgeschriebenen Namen
+der Akkreditierungsstelle. Die Farben sind Schwarz, Rot, Gold und
 Quarzgrüngrau. Eine Darstellung in entsprechenden Grautönen ist
 möglich.
 
@@ -56,9 +58,9 @@ Akkreditierungssymbol zu verwenden.
 
 ## § 4 Verwendung des Akkreditierungssymbols
 
-(1) Das Akkreditierungssymbol darf als Hinweis auf die Akkreditierung
-in Prüfberichten, Kalibrierscheinen, Zertifikaten und
-Inspektionsberichten, die im Rahmen des Akkreditierungsbereiches
+(1) Das Akkreditierungssymbol darf als Hinweis auf die
+Akkreditierung in Prüfberichten, Kalibrierscheinen, Zertifikaten
+und Inspektionsberichten, die im Rahmen des Akkreditierungsbereiches
 ausgestellt werden, verwendet werden. Eine darüber hinaus gehende
 Verwendung des Akkreditierungssymbols kann auf Antrag von der
 Akkreditierungsstelle genehmigt werden, soweit diese nicht dem Ruf der

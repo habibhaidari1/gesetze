@@ -1,6 +1,5 @@
 ---
-Title: Verordnung zur Änderung des Statuts der Genossenschaftsbank Berlin und zu deren
-  Umwandlung
+Title: Verordnung zur Änderung des Statuts der Genossenschaftsbank Berlin und zu deren Umwandlung
 jurabk: GBBStatÄndV
 layout: default
 origslug: gbbstat_ndv
@@ -42,9 +41,9 @@ der Anlage zu dieser Verordnung.
 
 ## § 3
 
-(1) Die GBB Genossenschafts-Holding Berlin kann gemäß den §§ 385a bis
-385c des Aktiengesetzes in eine Aktiengesellschaft umgewandelt werden.
-Über die Umwandlung beschließt die Hauptversammlung. Bei der
+(1) Die GBB Genossenschafts-Holding Berlin kann gemäß den §§ 385a
+bis 385c des Aktiengesetzes in eine Aktiengesellschaft umgewandelt
+werden. Über die Umwandlung beschließt die Hauptversammlung. Bei der
 Beschlußfassung muß mindestens die Hälfte des Kapitals vertreten sein.
 Der Beschluß bedarf einer Mehrheit, die mindestens zwei Drittel des
 vertretenen Kapitals umfaßt. Der Beschluß bedarf der Genehmigung des

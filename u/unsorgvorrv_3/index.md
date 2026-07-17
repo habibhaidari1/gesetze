@@ -1,6 +1,5 @@
 ---
-Title: Dritte Verordnung über die Gewährung von Vorrechten und Befreiungen an die
-  Sonderorganisationen der Vereinten Nationen
+Title: Dritte Verordnung über die Gewährung von Vorrechten und Befreiungen an die Sonderorganisationen der Vereinten Nationen
 jurabk: UNSOrgVorRV 3
 layout: default
 origslug: unsorgvorrv_3
@@ -16,17 +15,18 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1988, 979
 
-Stand: V in Kraft gem. Bek. v. 21.6.1989 II 559 mWv 3.3.1989
+Stand
+:   V in Kraft gem. Bek. v. 21.6.1989 II 559 mWv 3.3.1989
 
 
 ## Eingangsformel
 
 Auf Grund des Artikels 3 des Gesetzes vom 22. Juni 1954 über den
 Beitritt der Bundesrepublik Deutschland zum Abkommen vom 21. November
-1947 über die Vorrechte und Befreiungen der Sonderorganisationen der
-Vereinten Nationen und über die Gewährung von Vorrechten und
-Befreiungen an andere zwischenstaatliche Organisationen (BGBl. 1954 II
-S. 639), der durch das Gesetz vom 16. August 1980 (BGBl. II S. 941)
+1947 über die Vorrechte und Befreiungen der Sonderorganisationen
+der Vereinten Nationen und über die Gewährung von Vorrechten und
+Befreiungen an andere zwischenstaatliche Organisationen (BGBl. 1954
+II S. 639), der durch das Gesetz vom 16. August 1980 (BGBl. II S. 941)
 neu gefaßt wurde, verordnet die Bundesregierung:
 
 
@@ -35,8 +35,8 @@ neu gefaßt wurde, verordnet die Bundesregierung:
 Für die Gewährung von Vorrechten und Befreiungen an die
 Sonderorganisation der Vereinten Nationen für industrielle Entwicklung
 (UNIDO) gilt das Abkommen über die Vorrechte und Befreiungen der
-Sonderorganisationen der Vereinten Nationen vom 21. November 1947 mit
-seiner Anlage XVII. Die Anlage XVII wird nachstehend mit einer
+Sonderorganisationen der Vereinten Nationen vom 21. November 1947
+mit seiner Anlage XVII. Die Anlage XVII wird nachstehend mit einer
 amtlichen deutschen Übersetzung veröffentlicht.
 
 

@@ -19,35 +19,27 @@ Neugefasst durch
 :   Bek. v. 22.10.1998 I 3209; 1999 I 193;
 
 Zuletzt geändert durch
-:   Art. 2 § 12 V v. 21.9.2018 I 1398
+:   Art. 3 V v. 18.9.2024 I Nr. 286
 
 
 ## Erster Abschnitt - Allgemeine Bestimmungen
 
 
-
 ### § 1 Geltungsbereich
 
-(1) Die Verordnung gilt auf den Seeschiffahrtsstraßen mit Ausnahme der
-Emsmündung, die im Osten durch eine Verbindungslinie zwischen dem
-Pilsumer Watt (53
-Grad 29' 08" N; 07
-Grad 01' 52" O), Borkum (53
-Grad 34' 06" N; 06
-Grad 45' 31" O) und dem Schnittpunkt der Koordinaten 53
-Grad 39' 35" N; 06
-Grad 35' 00" O begrenzt wird. Seeschiffahrtsstraßen im Sinne dieser
-Verordnung sind
+(1) Die Verordnung gilt auf den Seeschiffahrtsstraßen mit Ausnahme
+der Emsmündung, die im Osten durch eine Verbindungslinie zwischen dem
+Pilsumer Watt (53 Grad 29' 08" N; 07 Grad 01' 52" O), Borkum (53 Grad
+34' 06" N; 06 Grad 45' 31" O) und dem Schnittpunkt der Koordinaten 53
+Grad 39' 35" N; 06 Grad 35' 00" O begrenzt wird. Seeschiffahrtsstraßen
+im Sinne dieser Verordnung sind
 
 1.  die Wasserflächen zwischen der Küstenlinie bei mittlerem Hochwasser
     oder der seewärtigen Begrenzung der Binnenwasserstraßen und einer
     Linie von drei Seemeilen Abstand seewärts der Basislinie,
 
-
 2.  die durchgehend durch Sichtzeichen B.11 der Anlage 1 begrenzten
     Wasserflächen der seewärtigen Teile der Fahrwasser im Küstenmeer.
-
-
 
 Darüber hinaus sind Seeschiffahrtsstraßen im Sinne dieser Verordnung
 die Wasserflächen zwischen den Ufern der nachstehend bezeichneten
@@ -56,77 +48,56 @@ Teile der angrenzenden Binnenwasserstraßen:
 3.  Weser bis zur Nordwestkante der Eisenbahnbrücke in Bremen mit den
     Nebenarmen Schweiburg, Rechter Nebenarm, Rekumer Loch;
 
-
 4.  Lesum und Wümme bis zur Ostkante der Franzosenbrücke in Borgfeld;
-
 
 5.  Hunte bis zum Hafen Oldenburg einerseits und bis 140 Meter unterhalb
     der Amalienbrücke in Oldenburg andererseits;
 
-
-6.  Elbe bis zur unteren Grenze des Hamburger Hafens bei km 638,98 rechtes
-    Ufer (Tinsdal) und km 633,35 linkes Ufer (Finkenwerder) mit der
-    Wischhafener Süderelbe (von km 8,03 bis zur Mündung in die Elbe), dem
-    Ruthenstrom (von km 3,75 bis zur Mündung in die Elbe) und der
+6.  Elbe bis zur unteren Grenze des Hamburger Hafens bei km 638,98
+    rechtes Ufer (Tinsdal) und km 633,35 linkes Ufer (Finkenwerder) mit
+    der Wischhafener Süderelbe (von km 8,03 bis zur Mündung in die Elbe),
+    dem Ruthenstrom (von km 3,75 bis zur Mündung in die Elbe) und der
     Bützflether Süderelbe (von km 0,69 bis zur Mündung in die Elbe);
-
 
 7.  Oste bis 210 m oberhalb der Achse der Straßenbrücke über das
     Ostesperrwerk (km 69,360);
 
-
 8.  Freiburger Hafenpriel bis zur Ostkante der Deichschleuse in Freiburg
     an der Elbe;
 
-
 9.  Schwinge bis zur Nordkante der Salztorschleuse in Stade;
-
 
 10. Lühe bis zum Unterwasser der Au-Mühle in Horneburg;
 
-
 11. Este bis zum Unterwasser der Schleuse Buxtehude;
 
-
 12. Stör bis 46 m oberhalb des Pegel Rensing;
-
 
 13. Krückau bis zur Südwestkante der im Verlauf der Straße Wedenkamp
     liegenden Straßenbrücke in Elmshorn;
 
-
 14. Pinnau bis zur Westkante der im Verlauf der Elmshorner Straße
     liegenden Straßenbrücke in Pinneberg;
-
 
 15. Eider bis Rendsburg und Sorge bis zur Südwestkante der im Verlauf der
     Bundesstraße 202 liegenden Straßenbrücke an der Sandschleuse;
 
-
 16. Gieselaukanal;
 
-
-17. Nord-Ostsee-Kanal - einschließlich Audorfer See und Schirnauer See -
-    von der Verbindungslinie zwischen den Molenköpfen in Brunsbüttel bis
-    zu der Verbindungslinie zwischen den Einfahrtsfeuern in Kiel-Holtenau
-    mit Borgstedter See mit Enge, Flemhuder See und Achterwehrer
+17. Nord-Ostsee-Kanal - einschließlich Audorfer See und Schirnauer See
+    - von der Verbindungslinie zwischen den Molenköpfen in Brunsbüttel
+    bis zu der Verbindungslinie zwischen den Einfahrtsfeuern in Kiel-
+    Holtenau mit Borgstedter See mit Enge, Flemhuder See und Achterwehrer
     Schiffahrtskanal;
-
 
 18. Trave bis zur Nordwestkante der Eisenbahnhubbrücke in Lübeck mit
     Pötenitzer Wiek und Dassower See;
 
-
 19. Warnow bis zur Südkante der Eisenbahnbrücke Rostock-Stralsund;
-
 
 20. Ryck bis zur Ostkante der Steinbecker-Brücke in Greifswald;
 
-
 21. Uecker bis zur Südwestkante der Straßenbrücke in Ueckermünde.
-
-
-
 
 (2) Auf den Wasserflächen zwischen der seewärtigen Begrenzung im Sinne
 des Absatzes 1 Satz 2 und der seewärtigen Begrenzung des Küstenmeeres
@@ -134,16 +105,16 @@ sind lediglich § 2 Abs. 1 Nr. 3, Nr. 13 Buchstabe b, Nr. 22 bis 25 und
 27, die §§ 3, 4, 5, 7 und § 32 Abs. 3, § 35 Abs. 1 und 2 sowie die §§
 55 bis 61 anzuwenden.
 
-(3) Die Verordnung gilt im Bereich der Seeschiffahrtsstraßen, auch auf
-den bundeseigenen Schiffahrtsanlagen, den dem Verkehr auf den
+(3) Die Verordnung gilt im Bereich der Seeschiffahrtsstraßen, auch
+auf den bundeseigenen Schiffahrtsanlagen, den dem Verkehr auf den
 Bundeswasserstraßen dienenden Grundstücken und in den öffentlichen
 bundeseigenen Häfen.
 
 (4) Im Geltungsbereich dieser Verordnung gelten die Internationalen
 Regeln von 1972 zur Verhütung von Zusammenstößen auf See -
 Kollisionsverhütungsregeln (Anlage zu § 1 der Verordnung zu den
-Internationalen Regeln von 1972 zur Verhütung von Zusammenstößen auf
-See vom 13. Juni 1977 - (BGBl. I S. 813), zuletzt geändert durch
+Internationalen Regeln von 1972 zur Verhütung von Zusammenstößen
+auf See vom 13. Juni 1977 - (BGBl. I S. 813), zuletzt geändert durch
 Artikel 4 Nr. 6 der Verordnung vom 7. Dezember 1994 (BGBl. I S. 3744),
 in der jeweils für die Bundesrepublik Deutschland geltenden Fassung,
 soweit diese Verordnung nicht ausdrücklich etwas anderes bestimmt.
@@ -155,8 +126,8 @@ III zu dieser Verordnung beigefügten Karte ersichtlich.
 
 ### § 2 Begriffsbestimmungen
 
-(1) Für diese Verordnung gelten die Begriffsbestimmungen der Regeln 3,
-21 und 32 der Kollisionsverhütungsregeln; im übrigen sind im Sinne
+(1) Für diese Verordnung gelten die Begriffsbestimmungen der Regeln
+3, 21 und 32 der Kollisionsverhütungsregeln; im übrigen sind im Sinne
 dieser Verordnung:
 
 1.  Fahrwasser
@@ -167,12 +138,11 @@ dieser Verordnung:
     Schiffahrt bestimmt sind; die Fahrwasser gelten als enge Fahrwasser im
     Sinne der Kollisionsverhütungsregeln;
 
-
 2.  Steuerbordseiten der Fahrwasser
 
-    die Seiten, die bei den von See einlaufenden Fahrzeugen an Steuerbord
-    liegen. Verbindet ein Fahrwasser zwei Meeresteile oder zwei durch
-    Gründe voneinander getrennte Wasserflächen, so gilt als
+    die Seiten, die bei den von See einlaufenden Fahrzeugen an
+    Steuerbord liegen. Verbindet ein Fahrwasser zwei Meeresteile oder
+    zwei durch Gründe voneinander getrennte Wasserflächen, so gilt als
     Steuerbordseite eines Fahrwassers die Seite, die von den Fahrzeugen an
     Steuerbord gelassen wird, wenn sie aus westlicher Richtung kommen, das
     heißt von Nord (einschließlich) über West bis Süd (ausschließlich).
@@ -180,13 +150,11 @@ dieser Verordnung:
     nördlich liegende Einfahrt für das gesamte zusammenhängende Fahrwasser
     maßgebend;
 
-
 3.  Reeden
 
-    durch Sichtzeichen B.14 der Anlage I gekennzeichnete, nach § 60 Abs. 1
-    bekanntgemachte oder in den Seekarten eingetragene Wasserflächen zum
-    Ankern;
-
+    durch Sichtzeichen B.14 der Anlage I gekennzeichnete, nach § 60 Abs.
+    1 bekanntgemachte oder in den Seekarten eingetragene Wasserflächen
+    zum Ankern;
 
 4.  schwimmende Geräte
 
@@ -195,7 +163,6 @@ dieser Verordnung:
     insbesondere Kräne, Rammen, Hebefahrzeuge einschließlich ihres
     schwimmenden Zubehörs;
 
-
 5.  schwimmende Anlagen
 
     schwimmende Einrichtungen, die gewöhnlich nicht zur Fortbewegung
@@ -203,17 +170,15 @@ dieser Verordnung:
     Falle der Überführung als Fahrzeuge im Sinne dieser Verordnung und im
     Sinne von Regel 24 Buchstabe g der Kollisionsverhütungsregeln;
 
-
 6.  außergewöhnliche Schwimmkörper
 
-    einzelne oder zu mehreren zusammengefaßte schwer erkennbare, teilweise
-    getauchte oder nicht über die Wasseroberfläche hinausragende Fahrzeuge
-    und Gegenstände, die im Wasser fortbewegt werden sollen, insbesondere
-    Hölzer, Rohre, Faltbehälter, Sinkstücke oder ähnliche Schwimmkörper.
-    Im Falle ihrer Fortbewegung gelten sie als geschleppte Fahrzeuge oder
-    Gegenstände im Sinne von Regel 24 Buchstabe g der
+    einzelne oder zu mehreren zusammengefaßte schwer erkennbare,
+    teilweise getauchte oder nicht über die Wasseroberfläche hinausragende
+    Fahrzeuge und Gegenstände, die im Wasser fortbewegt werden sollen,
+    insbesondere Hölzer, Rohre, Faltbehälter, Sinkstücke oder ähnliche
+    Schwimmkörper. Im Falle ihrer Fortbewegung gelten sie als geschleppte
+    Fahrzeuge oder Gegenstände im Sinne von Regel 24 Buchstabe g der
     Kollisionsverhütungsregeln;
-
 
 7.  Schleppverbände
 
@@ -221,63 +186,55 @@ dieser Verordnung:
     Maschinenfahrzeugen (Schlepper) und einem oder mehreren dahinter oder
     daneben geschleppten Anhängen, die keine oder keine betriebsbereite
     Antriebsanlage besitzen oder in ihrer Manövrierfähigkeit eingeschränkt
-    sind; Motorsportfahrzeuge, die andere Sportfahrzeuge schleppen, gelten
-    nicht als schleppende Maschinenfahrzeuge im Sinne der
+    sind; Motorsportfahrzeuge, die andere Sportfahrzeuge schleppen,
+    gelten nicht als schleppende Maschinenfahrzeuge im Sinne der
     Kollisionsverhütungsregeln;
-
 
 7a. Maschinenfahrzeuge mit Schlepperhilfe
 
-    ein manövrierfähiges Maschinenfahrzeug mit betriebsklarer Maschine in
-    Fahrt, das sich eines oder mehrerer Schlepper zur Unterstützung
-    bedient (bugsieren); es gilt als ein allein fahrendes
-    Maschinenfahrzeug im Sinne von Regel 23 Buchstabe a der
+    ein manövrierfähiges Maschinenfahrzeug mit betriebsklarer
+    Maschine in Fahrt, das sich eines oder mehrerer Schlepper
+    zur Unterstützung bedient (bugsieren); es gilt als ein allein
+    fahrendes Maschinenfahrzeug im Sinne von Regel 23 Buchstabe a der
     Kollisionsverhütungsregeln;
-
 
 8.  Schubverbände
 
-    eine starre Verbindung von Fahrzeugen, von denen sich mindestens eines
-    vor dem oder den Fahrzeugen mit Maschinenantrieb befindet, das oder
-    die den Verband fortbewegen und als "schiebendes Fahrzeug" oder
+    eine starre Verbindung von Fahrzeugen, von denen sich mindestens
+    eines vor dem oder den Fahrzeugen mit Maschinenantrieb befindet, das
+    oder die den Verband fortbewegen und als "schiebendes Fahrzeug" oder
     "schiebende Fahrzeuge" bezeichnet werden;
-
 
 9.  außergewöhnliche Schub- und Schleppverbände
 
-    Schub- und Schleppverbände, die die für eine Seeschiffahrtsstraße nach
-    § 60 Abs. 1 bekanntgemachten Abmessungen nach Länge, Breite oder
+    Schub- und Schleppverbände, die die für eine Seeschiffahrtsstraße
+    nach § 60 Abs. 1 bekanntgemachten Abmessungen nach Länge, Breite oder
     Tiefgang überschreiten, die die Schiffahrt außergewöhnlich behindern
-    können oder besonderer Rücksicht durch die Schiffahrt bedürfen; sie
-    gelten als manövrierbehinderte Fahrzeuge im Sinne von Regel 3
+    können oder besonderer Rücksicht durch die Schiffahrt bedürfen;
+    sie gelten als manövrierbehinderte Fahrzeuge im Sinne von Regel 3
     Buchstabe g der Kollisionsverhütungsregeln;
-
 
 10. außergewöhnlich große Fahrzeuge
 
-    Fahrzeuge, die die für eine Seeschiffahrtsstraße nach § 60 Abs. 1
-    bekanntgemachten Abmessungen nach Länge, Breite oder Tiefgang
+    Fahrzeuge, die die für eine Seeschiffahrtsstraße nach § 60 Abs.
+    1 bekanntgemachten Abmessungen nach Länge, Breite oder Tiefgang
     überschreiten;
-
 
 10a. Hochgeschwindigkeitsfahrzeuge
 
-    Fahrzeuge, die nach dem Code für Hochgeschwindigkeitsfahrzeuge (BAnz.
-    Nr. 21a vom 3. Januar 1996) gebaut sind und entsprechend betrieben
-    werden sowie sonstige Fahrzeuge, die entsprechend dem Code betrieben
-    werden;
-
+     Fahrzeuge, die nach dem Code für Hochgeschwindigkeitsfahrzeuge (BAnz.
+     Nr. 21a vom 3. Januar 1996) gebaut sind und entsprechend betrieben
+     werden sowie sonstige Fahrzeuge, die entsprechend dem Code betrieben
+     werden;
 
 11. Fahrgastschiffe
 
     Fahrzeuge, die mehr als zwölf Personen gewerblich befördern oder
     hierfür zugelassen und eingesetzt sind;
 
-
 12. Fähren
 
     Fahrzeuge, die dem Übersetzverkehr von einem Ufer zum anderen dienen;
-
 
 13. Wegerechtschiffe
 
@@ -287,44 +244,36 @@ dieser Verordnung:
         oder wegen anderer Eigenschaften gezwungen sind, den tiefsten Teil des
         Fahrwassers für sich in Anspruch zu nehmen,
 
-
     b)  Fahrzeuge im Bereich der Wasserflächen zwischen der seewärtigen
         Begrenzung im Sinne des § 1 Abs. 1 Satz 2 Nr. 1 und 2 und der
         seewärtigen Begrenzung des Küstenmeeres, die die nach § 60 Abs. 1
         bekanntgemachten Voraussetzungen erfüllen;
 
-
-
-
     sie gelten als manövrierbehinderte Fahrzeuge im Sinne von Regel 3
     Buchstabe g der Kollisionsverhütungsregeln;
-
 
 14. Binnenschiffe
 
     Fahrzeuge, denen eine Fahrtauglichkeitsbescheinigung nach der
-    Binnenschiffsuntersuchungsordnung vom 21. September 2018 (BGBl. I S.
-    1398) in der jeweils geltenden Fassung, erteilt worden ist sowie
+    Binnenschiffsuntersuchungsordnung vom 21. September 2018 (BGBl. I
+    S. 1398) in der jeweils geltenden Fassung, erteilt worden ist sowie
     Binnenfahrzeuge unter fremder Flagge;
-
 
 15. Freifahrer
 
     Fahrzeuge, die von der Verpflichtung zur Annahme eines Seelotsen
     befreit sind;
 
-
 16. bestimmte gefährliche Güter
 
-    Güter der Klasse 1 - Unterklassen 1.1, 1.2, 1.3 - und der Klassen 4.1
-    und 5.2 des IMDG-Code deutsch (Internationaler Code für die
+    Güter der Klasse 1 - Unterklassen 1.1, 1.2, 1.3 - und der Klassen
+    4\.1 und 5.2 des IMDG-Code deutsch (Internationaler Code für die
     Beförderung gefährlicher Güter mit Seeschiffen - BAnz. Nr. 158a vom
     23\. August 1995) in seiner jeweils geltenden Fassung, für die das
     zusätzliche Kennzeichen "Explosionsgefahr" vorgeschrieben ist, von
     mehr als 100 Kilogramm Gesamtmenge je Fahrzeug sowie die als Massengut
     in Tankschiffen oder Schub- und Schleppverbänden beförderten Güter im
     Sinne des § 30 Abs. 1 Nr. 1;
-
 
 17. Flammpunkt
 
@@ -334,7 +283,6 @@ dieser Verordnung:
     Versuche mit geschlossenem Tiegel, die in zugelassenen Prüfgeräten
     ermittelt werden;
 
-
 18. im Rahmen der Vorschriften für den Nord-Ostsee-Kanal
 
     a)  Verkehrsgruppen
@@ -342,42 +290,32 @@ dieser Verordnung:
         für die Verkehrslenkung eingeteilte Fahrzeuggruppen, die nach § 60
         Abs. 1 bekanntgemacht sind,
 
-
     b)  Sportfahrzeuge
 
         Wasserfahrzeuge, die ausschließlich Sport- oder Erholungszwecken
         dienen,
 
-
     c)  Weichengebiete
 
         Wasserflächen, die zum Warten, Begegnen oder Überholen dienen,
-
 
     d)  Zufahrten
 
         Wasserflächen vor den Schleusenvorhäfen des Nord-Ostsee-Kanals; sie
         gelten als Fahrwasser im Sinne dieser Verordnung,
 
-
     e)  Schleusenvorhäfen
 
         die Wasserflächen zwischen den Verbindungslinien der Außenhäupter der
         Schleusen und der Einfahrtsfeuer in Brunsbüttel und Kiel-Holtenau;
 
-
-
-
-
 19. Sichtzeichen der Fahrzeuge
 
     Lichter, Signalkörper, Flaggen und Tafeln;
 
-
 20. Signalkörper der Fahrzeuge
 
     Bälle, Kegel, Rhomben und Zylinder;
-
 
 21. Wassermotorräder
 
@@ -386,23 +324,19 @@ dieser Verordnung:
     werden, oder sonstige gleichartige Geräte; sie gelten nicht als
     Fahrzeuge im Sinne dieser Verordnung;
 
-
 21a. Parasailing
 
-    Drachenfliegen und Fallschirmfliegen hinter einem ziehenden
-    Wasserfahrzeug;
-
+     Drachenfliegen und Fallschirmfliegen hinter einem ziehenden
+     Wasserfahrzeug;
 
 21b. Wassersportanhänge
 
-    von Wassersportfahrzeugen gezogene aufblasbare Schwimmkörper, auf
-    denen sich Personen befinden;
-
+     von Wassersportfahrzeugen gezogene aufblasbare Schwimmkörper, auf
+     denen sich Personen befinden;
 
 21c. Kitesurfen
 
-    Surfen mit einem von einem Drachen gezogenen Surfbrett;".
-
+     Surfen mit einem von einem Drachen gezogenen Surfbrett;".
 
 22. Maritime Verkehrssicherung
 
@@ -412,14 +346,12 @@ dieser Verordnung:
     Verkehrsinformationen und Verkehrsunterstützungen sowie erlassenen
     Verfügungen zur Verkehrsregelung und -lenkung;
 
-
 23. Verkehrsinformationen
 
     nautische Warnnachrichten sowie Mitteilungen der Verkehrszentrale über
     die Verkehrslage, Fahrwasser- sowie Wetter- und Tideverhältnisse, die
     zu festgelegten Zeiten in regelmäßigen Abständen oder auf Anforderung
     einzelner Schiffe gegeben werden;
-
 
 24. Verkehrsunterstützungen
 
@@ -431,11 +363,10 @@ dieser Verordnung:
     17\. Juli 1997 (BGBl. I S. 1832), in der jeweils geltenden Fassung, die
     bei verminderter Sicht, auf Anforderung oder wenn die Verkehrszentrale
     es auf Grund der Verkehrsbeobachtung für erforderlich hält, gegeben
-    werden und sich entsprechend den Erfordernissen der Verkehrslage, der
-    Fahrwasser- sowie der Wetter- und Tideverhältnisse auch auf
+    werden und sich entsprechend den Erfordernissen der Verkehrslage,
+    der Fahrwasser- sowie der Wetter- und Tideverhältnisse auch auf
     Positionen, Passierzeiten, Kurse, Geschwindigkeiten oder Manöver
     bestimmter Schiffe erstrecken können;
-
 
 25. Verkehrsregelungen
 
@@ -445,19 +376,16 @@ dieser Verordnung:
     Vorfahrt, Überholen, Begegnen, Höchst- und Mindestgeschwindigkeiten
     oder über das Befahren einer Seeschiffahrtsstraße umfassen können;
 
-
 26. Verkehrslenkung
 
     Maßnahmen der Verkehrszentralen am Nord-Ostsee-Kanal, durch die der
     Verkehr zum Zweck der Gefahrenabwehr oder der Verkehrsablaufsteuerung
     gelenkt wird;
 
-
 27. Verkehrszentralen
 
     die von der Wasserstraßen- und Schifffahrtsverwaltung des Bundes
     eingerichteten Revierzentralen;
-
 
 28. AIS
 
@@ -467,22 +395,15 @@ dieser Verordnung:
     Maßgabe des Gesetzes vom 22. Dezember 2003 (BGBl. 2003 II S. 2018)
     geändert worden ist.
 
-
-
-
 (2) Im Sinne der Verordnung bedeutet:
 
 1.  am Tage
 
     die Zeit von Sonnenaufgang bis Sonnenuntergang;
 
-
 2.  bei Nacht
 
     die Zeit von Sonnenuntergang bis Sonnenaufgang.
-
-
-
 
 
 ### § 3 Grundregeln für das Verhalten im Verkehr
@@ -494,10 +415,10 @@ unvermeidbar, behindert oder belästigt wird. Er hat insbesondere die
 Vorsichtsmaßregeln zu beachten, die Seemannsbrauch oder besondere
 Umstände des Falles erfordern. Der Führer eines mit einer UKW-
 Sprechfunkanlage ausgerüsteten Fahrzeugs ist verpflichtet, bei der
-Befolgung der Vorschriften über das Verhalten im Verkehr die von einer
-Verkehrszentrale aus in deutscher, auf Anforderung in englischer
-Sprache gegebenen Verkehrsinformationen und -unterstützungen abzuhören
-und unverzüglich entsprechend den Bedingungen der jeweiligen
+Befolgung der Vorschriften über das Verhalten im Verkehr die von
+einer Verkehrszentrale aus in deutscher, auf Anforderung in englischer
+Sprache gegebenen Verkehrsinformationen und -unterstützungen
+abzuhören und unverzüglich entsprechend den Bedingungen der jeweiligen
 Verkehrssituation zu berücksichtigen.
 
 (2) Zur Abwehr einer unmittelbar drohenden Gefahr müssen unter
@@ -507,26 +428,33 @@ Vorschriften dieser Verordnung notwendig machen.
 
 (3) Wer infolge körperlicher oder geistiger Mängel oder des Genusses
 alkoholischer Getränke oder anderer berauschender Mittel in der
-sicheren Führung eines Fahrzeuges oder in der sicheren Ausübung einer
-anderen Tätigkeit des Brücken-, Decks- oder Maschinendienstes
+sicheren Führung eines Fahrzeuges oder in der sicheren Ausübung
+einer anderen Tätigkeit des Brücken-, Decks- oder Maschinendienstes
 behindert ist, darf ein Fahrzeug nicht führen oder als Mitglied der
 Schiffsbesatzung eine andere Tätigkeit des Brücken-, Decks- oder
 Maschinendienstes nicht ausüben. Dies gilt für das Fahren mit einem
 Wassermotorrad oder einem Kite- und Segelsurfbrett entsprechend.
 
-(4) Wer 0,25 mg/l oder mehr Alkohol in der Atemluft oder 0,5 Promille
-oder mehr Alkohol im Blut oder eine Alkoholmenge im Körper hat, die zu
-einer solchen Atem- oder Blutalkoholkonzentration führt, darf ein
-Fahrzeug nicht führen oder als Mitglied der Schiffsbesatzung eine
-andere Tätigkeit des Brücken-, Decks- oder Maschinendienstes nicht
-ausüben. Dies gilt für das Fahren mit einem Wassermotorrad oder einem
-Kite- und Segelsurfbrett entsprechend.
+(4) Wer 0,25 mg/l oder mehr Alkohol in der Atemluft, 0,5 Promille
+oder mehr Alkohol im Blut, eine Alkoholmenge im Körper, die zu einer
+solchen Atem- oder Blutalkoholkonzentration führt, oder 3,5 ng/
+ml oder mehr Tetrahydrocannabinol (THC) im Blutserum hat oder unter
+der Wirkung eines in Anlage IV aufgeführten berauschenden Mittels
+nach Absatz 3 Satz 1 steht, darf ein Fahrzeug nicht führen oder als
+Mitglied der Schiffsbesatzung eine andere Tätigkeit des Brücken-,
+Decks- oder Maschinendienstes nicht ausüben. Eine Wirkung nach Satz
+1 liegt vor, wenn eine der in Anlage IV genannten Substanzen im Blut
+nachgewiesen wird. Die Sätze 1 und 2 gelten nicht, wenn die Substanz
+aus der bestimmungsgemäßen Einnahme eines für einen bestimmten
+Krankheitsfall verschriebenen Medikamentes herrührt. Die Sätze 1 bis
+3 gelten für das Fahren mit einem Wassermotorrad oder einem Kite- und
+Segelsurfbrett entsprechend.
 
 (5) Der Schiffsführer eines Fahrgastschiffs oder eines
 Fahrbeschränkungen und Fahrverboten nach § 30 Abs. 1 unterliegenden
 Fahrzeuges darf in der Dienstzeit während der Fahrt alkoholische
-Getränke nicht zu sich nehmen oder bei Dienstantritt nicht unter der
-Wirkung solcher Getränke stehen. In Ruhezeiten und sonstigen
+Getränke nicht zu sich nehmen oder bei Dienstantritt nicht unter
+der Wirkung solcher Getränke stehen. In Ruhezeiten und sonstigen
 Erholungszeiten an Bord darf der Schiffsführer alkoholische Getränke
 zu sich nehmen, wenn sichergestellt ist, dass er bei der Übernahme
 sicherheitsrelevanter Aufgaben nicht mehr unter der Wirkung solcher
@@ -537,11 +465,11 @@ Mitglieder der Schiffsbesatzung entsprechend.
 ### § 4 Verantwortlichkeit
 
 (1) Der Fahrzeugführer und jeder sonst für die Sicherheit
-Verantwortliche haben die Vorschriften dieser Verordnung über das
-Verhalten im Verkehr und über die Ausrüstung der Fahrzeuge mit
-Einrichtungen für das Führen und Zeigen der Sichtzeichen und das Geben
-von Schallsignalen zu befolgen. Auf Binnenschiffen ist neben dem
-Fahrzeugführer hierfür auch jedes Mitglied der Besatzung
+Verantwortliche haben die Vorschriften dieser Verordnung über
+das Verhalten im Verkehr und über die Ausrüstung der Fahrzeuge
+mit Einrichtungen für das Führen und Zeigen der Sichtzeichen und
+das Geben von Schallsignalen zu befolgen. Auf Binnenschiffen ist
+neben dem Fahrzeugführer hierfür auch jedes Mitglied der Besatzung
 verantwortlich, das vorübergehend selbständig den Kurs und die
 Geschwindigkeit des Fahrzeugs bestimmt.
 
@@ -549,8 +477,8 @@ Geschwindigkeit des Fahrzeugs bestimmt.
 oder dessen Vertreter so zu beraten, daß sie die Vorschriften dieser
 Verordnung befolgen können.
 
-(3) Bei Schub- und Schleppverbänden ist unbeschadet der Vorschrift des
-Absatzes 1 der Führer des Verbandes für dessen sichere Führung
+(3) Bei Schub- und Schleppverbänden ist unbeschadet der Vorschrift
+des Absatzes 1 der Führer des Verbandes für dessen sichere Führung
 verantwortlich. Führer des Verbandes ist der Führer des Schleppers
 oder des Schubschiffes; die Führer der beteiligten Fahrzeuge können
 vor Antritt der Fahrt auch einen anderen Fahrzeugführer als Führer des
@@ -570,13 +498,13 @@ Verordnung oder sonstigen Vorschriften ergibt, bleibt unberührt.
 und Schallsignale, die Gebote, Verbote, Warnungen oder Hinweise
 enthalten. Die im Geltungsbereich dieser Verordnung verwendeten
 Schiffahrtszeichen, die Gebote und Verbote enthalten, sind in der
-Anlage I zu dieser Verordnung abschließend aufgeführt oder in den nach
-§ 60 Abs. 2 erlassenen Rechtsverordnungen enthalten. Produkte aus
-anderen Mitgliedstaaten der Europäischen Union, die den in der Anlage
-I geregelten technischen Anforderungen nicht entsprechen, werden
-einschließlich der im Herstellerland durchgeführten Prüfungen,
-Zulassungen und Überwachungen als gleichwertig behandelt, wenn mit
-ihnen das geforderte Schutzniveau - Sicherheit, Gesundheit und
+Anlage I zu dieser Verordnung abschließend aufgeführt oder in den
+nach § 60 Abs. 2 erlassenen Rechtsverordnungen enthalten. Produkte
+aus anderen Mitgliedstaaten der Europäischen Union, die den in der
+Anlage I geregelten technischen Anforderungen nicht entsprechen,
+werden einschließlich der im Herstellerland durchgeführten Prüfungen,
+Zulassungen und Überwachungen als gleichwertig behandelt, wenn
+mit ihnen das geforderte Schutzniveau - Sicherheit, Gesundheit und
 Gebrauchstauglichkeit - gleichermaßen dauerhaft erreicht wird.
 
 (2) Die durch Gebots- und Verbotszeichen getroffenen Anordnungen sind
@@ -591,34 +519,34 @@ Schiffahrtszeichen ist verboten.
 (1) Soweit die folgenden Vorschriften nicht etwas Besonderes
 vorschreiben, haben Fahrzeuge zusätzlich zu den in den
 Kollisionsverhütungsregeln vorgeschriebenen Sichtzeichen und
-Schallsignalen solche nur nach Maßgabe der Anlage II für die dort
-vorgesehenen Zwecke zu führen, zu zeigen oder zu geben. Die in dem
-Internationalen Signalbuch enthaltenen Sichtzeichen und Schallsignale
-dürfen nur für die dort vorgesehenen Zwecke verwendet werden. Es
-dürfen keine Sichtzeichen geführt oder gezeigt sowie Schallsignale
-gegeben werden, die mit den vorgeschriebenen oder vorgesehenen
-verwechselt werden können. Die Vorschriften der Allgemeinen
-Zollordnung und Regel 1 Buchstaben c und e der
+Schallsignalen solche nur nach Maßgabe der Anlage II für die
+dort vorgesehenen Zwecke zu führen, zu zeigen oder zu geben.
+Die in dem Internationalen Signalbuch enthaltenen Sichtzeichen
+und Schallsignale dürfen nur für die dort vorgesehenen Zwecke
+verwendet werden. Es dürfen keine Sichtzeichen geführt oder gezeigt
+sowie Schallsignale gegeben werden, die mit den vorgeschriebenen
+oder vorgesehenen verwechselt werden können. Die Vorschriften
+der Allgemeinen Zollordnung und Regel 1 Buchstaben c und e der
 Kollisionsverhütungsregeln bleiben unberührt.
 
 (2) Laternen, Leuchten und Scheinwerfer dürfen nur so gebraucht
 werden, daß sie nicht blenden und dadurch die Schiffahrt gefährden
 oder behindern können.
 
-(3) Für die Ausrüstung zum Geben der nach dieser Verordnung
-vorgeschriebenen Schallsignale gilt Regel 33 der
+(3) Für die Ausrüstung zum Geben der nach dieser
+Verordnung vorgeschriebenen Schallsignale gilt Regel 33 der
 Kollisionsverhütungsregeln entsprechend. Die Wirksamkeit und
 Betriebssicherheit dieser Schallsignalanlagen müssen jederzeit
 gewährleistet sein. Wird die Wirksamkeit oder Betriebssicherheit
 erkennbar beeinträchtigt, haben der Fahrzeugführer und der Eigentümer
 unverzüglich für die sachgemäße Instandsetzung zu sorgen.
 
-(4) Produkte aus anderen Mitgliedstaaten der Europäischen Union, die
-den in dieser Verordnung geregelten technischen Anforderungen nicht
-entsprechen, werden einschließlich der im Herstellerland
+(4) Produkte aus anderen Mitgliedstaaten der Europäischen Union,
+die den in dieser Verordnung geregelten technischen Anforderungen
+nicht entsprechen, werden einschließlich der im Herstellerland
 durchgeführten Prüfungen, Zulassungen und Überwachungen als
-gleichwertig behandelt, wenn mit ihnen das geforderte Schutzniveau -
-Sicherheit, Gesundheit und Gebrauchstauglichkeit - gleichermaßen
+gleichwertig behandelt, wenn mit ihnen das geforderte Schutzniveau
+- Sicherheit, Gesundheit und Gebrauchstauglichkeit - gleichermaßen
 dauerhaft erreicht wird.
 
 
@@ -628,47 +556,42 @@ Von den Vorschriften dieser Verordnung sind Fahrzeuge des öffentlichen
 Dienstes befreit, soweit dies zur Erfüllung hoheitlicher Aufgaben
 unter gebührender Berücksichtigung der öffentlichen Sicherheit und
 Ordnung dringend geboten ist. Satz 1 gilt für Fahrzeuge der Deutschen
-Gesellschaft zur Rettung Schiffbrüchiger, soweit diese Maßnahmen des
-Such- und Rettungsdienstes in Seenotfällen nach § 1 Nr. 7 des
+Gesellschaft zur Rettung Schiffbrüchiger, soweit diese Maßnahmen
+des Such- und Rettungsdienstes in Seenotfällen nach § 1 Nr. 7 des
 Seeaufgabengesetzes durchführen, entsprechend.
 
 
 ## Zweiter Abschnitt - Sichtzeichen und Schallsignale der Fahrzeuge
 
 
-
 ### § 8 Allgemeines
 
-(1) Für die nach dieser Verordnung vorgeschriebenen Sichtzeichen gilt
-Regel 20 sowie Anlage I der Kollisionsverhütungsregeln entsprechend.
-Sichtzeichen, die nach dieser Verordnung und den
+(1) Für die nach dieser Verordnung vorgeschriebenen Sichtzeichen
+gilt Regel 20 sowie Anlage I der Kollisionsverhütungsregeln
+entsprechend. Sichtzeichen, die nach dieser Verordnung und den
 Kollisionsverhütungsregeln von Fahrzeugen geführt werden müssen, sind
 ständig mitzuführen und während der Zeit, in der sie zu führen sind,
 fest anzubringen. Es dürfen nur solche Sichtzeichen verwendet werden,
 die über den ganzen Horizont sichtbar sind; sie sind dort zu führen,
 wo sie am besten gesehen werden können. Satz 3 gilt nur, soweit diese
-Verordnung nicht etwas anderes vorschreibt. Für Binnenschiffe, die die
-seewärtige Grenze einer Wasserfläche der Zone 2 nach Anhang I der
+Verordnung nicht etwas anderes vorschreibt. Für Binnenschiffe, die
+die seewärtige Grenze einer Wasserfläche der Zone 2 nach Anhang I der
 Binnenschiffsuntersuchungsordnung nicht überschreiten, gilt abweichend
 von Satz 1
 
-1.  Anlage I Abschnitt 5 Satz 1 der Kollisionsverhütungsregeln nicht
-    hinsichtlich der Abschirmung der Seitenlichter, wenn Positionslaternen
-    verwendet werden, die hinsichtlich der waagerechten Lichtverteilung
-    den Vorschriften der Anlage I Abschnitt 9 der
+1.  Anlage I Abschnitt 5 Satz 1 der Kollisionsverhütungsregeln
+    nicht hinsichtlich der Abschirmung der Seitenlichter, wenn
+    Positionslaternen verwendet werden, die hinsichtlich der waagerechten
+    Lichtverteilung den Vorschriften der Anlage I Abschnitt 9 der
     Kollisionsverhütungsregeln oder den in § 9 Abs. 4 genannten
     Vorschriften auch ohne Abschirmung entsprechen,
 
-
-2.  Anlage I Abschnitt 5 Satz 1 und 2 der Kollisionsverhütungsregeln nicht
-    hinsichtlich des mattschwarzen Anstrichs bei der Verwendung von
+2.  Anlage I Abschnitt 5 Satz 1 und 2 der Kollisionsverhütungsregeln
+    nicht hinsichtlich des mattschwarzen Anstrichs bei der Verwendung von
     Seitenlichtern mit Abschirmung.
 
-
-
-
-(2) Die Mindesttragweite aller in dieser Verordnung für Fahrzeuge und
-außergewöhnliche Schwimmkörper vorgeschriebenen Lichter muss den
+(2) Die Mindesttragweite aller in dieser Verordnung für Fahrzeuge
+und außergewöhnliche Schwimmkörper vorgeschriebenen Lichter muss den
 Anforderungen der Regel 22 der Kollisionsverhütungsregeln entsprechen.
 
 (3) Die in dieser Verordnung vorgeschriebenen Signalkörper dürfen
@@ -678,8 +601,8 @@ haben.
 
 (4) Die von den Fahrzeugen nach dieser Verordnung zu führenden Flaggen
 und Tafeln müssen, soweit nicht etwas anderes bestimmt ist, rechteckig
-und mindestens 1 Meter hoch und 1 Meter breit sein. Die Farben dürfen
-weder verblaßt noch verschmutzt sein. Anstelle der in dieser
+und mindestens 1 Meter hoch und 1 Meter breit sein. Die Farben
+dürfen weder verblaßt noch verschmutzt sein. Anstelle der in dieser
 Verordnung vorgeschriebenen Flaggen dürfen auch Tafeln gleicher Größe,
 Form und Farbe geführt werden. Auf Fahrzeugen von weniger als 20 Meter
 Länge dürfen Flaggen und Tafeln geringerer Abmessung verwendet werden,
@@ -691,8 +614,8 @@ die dem Größenverhältnis des Fahrzeugs angemessen sind.
 ### § 9 Verwendung von Positionslaternen und Schallsignalanlagen
 
 (1) Fahrzeuge, die zur Führung der Bundesflagge berechtigt sind,
-dürfen zur Führung der nach dieser Verordnung vorgeschriebenen Lichter
-und zur Abgabe der nach dieser Verordnung vorgeschriebenen
+dürfen zur Führung der nach dieser Verordnung vorgeschriebenen
+Lichter und zur Abgabe der nach dieser Verordnung vorgeschriebenen
 Schallsignale nur solche Positionslaternen und Schallsignalanlagen
 verwenden, deren Baumuster von einer benannten Stelle im Sinne des
 Artikels 9 in Verbindung mit Artikel 10 der Richtlinie 96/98/EG des
@@ -709,9 +632,9 @@ Wassermotorräder.
 Kollisionsverhütungsregeln müssen Positionslaternen elektrisch
 betrieben sein. Auf Fahrzeugen unter Ruder oder Segel von weniger als
 20 Metern Länge, auf denen keine ausreichende Stromquelle vorhanden
-ist, auf unbemannten Fahrzeugen, auf bemannten Binnenschiffen ohne
-eigene Antriebsanlage sowie für die Reservebeleuchtung von
-Binnenschiffen nach Anhang III § 6.06 Buchstabe c der
+ist, auf unbemannten Fahrzeugen, auf bemannten Binnenschiffen
+ohne eigene Antriebsanlage sowie für die Reservebeleuchtung
+von Binnenschiffen nach Anhang III § 6.06 Buchstabe c der
 Binnenschiffsuntersuchungsordnung dürfen nichtelektrische
 Positionslaternen verwendet werden.
 
@@ -724,22 +647,22 @@ Fahrzeugen der Wasserschutzpolizeien und der Bundespolizei der Abstand
 zwischen den senkrecht übereinander zu führenden Lichtern mindestens 1
 Meter betragen.
 
-(4) Auf Binnenschiffen im Sinne des § 8 Absatz 1 Satz 5 dürfen zur
-Lichterführung nach dieser Verordnung und den
+(4) Auf Binnenschiffen im Sinne des § 8 Absatz 1 Satz 5
+dürfen zur Lichterführung nach dieser Verordnung und den
 Kollisionsverhütungsregeln auch solche Positionslaternen verwendet
 werden, die vom Bundesamt für Seeschifffahrt und Hydrographie als
 helle Lichter, bei Verwendung als Topplaternen als starke Lichter nach
 Anhang II § 7.05 der Binnenschiffsuntersuchungsordnung vom 6. Dezember
-2008 (BGBl. I S. 2450), die zuletzt durch Artikel 1 der Verordnung vom
-20\. Dezember 2012 (BGBl. I S. 2802) geändert worden ist, in der
-jeweils geltenden und anzuwendenden Fassung zugelassen sind. Wird die
-Wirksamkeit oder Betriebssicherheit dieser Positionslaternen
+2008 (BGBl. I S. 2450), die zuletzt durch Artikel 1 der Verordnung
+vom 20. Dezember 2012 (BGBl. I S. 2802) geändert worden ist, in der
+jeweils geltenden und anzuwendenden Fassung zugelassen sind. Wird
+die Wirksamkeit oder Betriebssicherheit dieser Positionslaternen
 beeinträchtigt, ist unverzüglich für sachgemäße Instandsetzung oder
 Ersatz zu sorgen.
 
 (5) Abweichend von Anlage I Abschnitt 2 Buchstabe a der
-Kollisionsverhütungsregeln brauchen Binnenschiffe, die die seewärtige
-Grenze einer Wasserfläche der Zone 2 nach Anhang I der
+Kollisionsverhütungsregeln brauchen Binnenschiffe, die die
+seewärtige Grenze einer Wasserfläche der Zone 2 nach Anhang I der
 Binnenschiffsuntersuchungsordnung nicht überschreiten, das vordere
 weiße Licht nur mindestens 5 Meter über dem Schiffskörper und das
 zweite, hintere Licht nur mindestens 3 Meter über dem vorderen Licht
@@ -758,8 +681,8 @@ können, mindestens ein weißes Rundumlicht im Sinne von Regel 21
 Buchstabe e der Kollisionsverhütungsregeln zu führen.
 
 (3) Fahrzeuge im Sinne des Absatzes 2, auf denen die hiernach
-vorgeschriebenen Lichter, und Maschinenfahrzeuge von weniger als 7
-Metern Länge, auf denen die nach Regel 23 Buchstabe a und d der
+vorgeschriebenen Lichter, und Maschinenfahrzeuge von weniger als
+7 Metern Länge, auf denen die nach Regel 23 Buchstabe a und d der
 Kollisionsverhütungsregeln vorgeschriebenen Lichter nicht geführt
 werden können, dürfen in der Zeit, in der die Lichterführung
 vorgeschrieben ist, nicht fahren, es sei denn, daß ein Notstand
@@ -768,8 +691,8 @@ Laterne mit einem weißen Licht ständig gebrauchsfertig mitzuführen und
 rechtzeitig zu zeigen, um einen Zusammenstoß zu verhüten.
 
 (4) Auf den nach § 60 Abs. 1 als Anker- und Liegestellen
-bekanntgemachten Wasserflächen brauchen Fahrzeuge von weniger als 12
-Metern Länge nicht die nach Regel 30 Buchstabe a, b oder c der
+bekanntgemachten Wasserflächen brauchen Fahrzeuge von weniger als
+12 Metern Länge nicht die nach Regel 30 Buchstabe a, b oder c der
 Kollisionsverhütungsregeln vorgeschriebenen Sichtzeichen zu führen;
 Regel 30 Buchstabe e der Kollisionsverhütungsregeln bleibt unberührt.
 
@@ -794,7 +717,6 @@ Schallsignale geben.
 ### (XXXX) §§ 12 bis 18 (weggefallen)
 
 
-
 ## Dritter Abschnitt - Schallsignale der Fahrzeuge
 
 (aufgehoben)
@@ -803,17 +725,15 @@ Schallsignale geben.
 ### (XXXX) §§ 19 und 20 (weggefallen)
 
 
-
 ## Vierter Abschnitt - Fahrregeln
-
 
 
 ### § 21 Grundsätze
 
 (1) Die Fahrregeln dieses Abschnitts sowie des siebenten Abschnitts
-gelten unabhängig von den Sichtverhältnissen. Abweichend von den
-Regeln 11 und 19 der Kollisionsverhütungsregeln gelten die Regel 13
-Buchstabe a und c und Regel 14 Buchstabe a und c der
+gelten unabhängig von den Sichtverhältnissen. Abweichend von
+den Regeln 11 und 19 der Kollisionsverhütungsregeln gelten die
+Regel 13 Buchstabe a und c und Regel 14 Buchstabe a und c der
 Kollisionsverhütungsregeln im Fahrwasser auch dann, wenn die Fahrzeuge
 einander nicht in Sicht, aber mittels Radar geortet haben.
 
@@ -859,20 +779,14 @@ soweit wie möglich erleichtern.
 
 1.  in der Nähe von in Fahrt befindlichen, nicht freifahrenden Fähren,
 
-
 2.  an engen Stellen und in unübersichtlichen Krümmungen,
-
 
 3.  vor und innerhalb von Schleusen sowie innerhalb der Schleusenvorhäfen
     und Zufahrten des Nord-Ostsee-Kanals mit Ausnahme von schwimmenden
     Geräten im Einsatz,
 
-
 4.  innerhalb von Strecken und zwischen Fahrzeugen, die nach § 60 Abs. 1
     bekanntgemacht sind.
-
-
-
 
 (4) Kann in einem Fahrwasser nur unter Mitwirkung des zu überholenden
 Fahrzeugs sicher überholt werden, so ist das Überholen nur erlaubt,
@@ -884,22 +798,17 @@ zu überholenden Fahrzeug mitteilen, wenn
 
 1.  eine eindeutige Identifikation der Kommunikationsteilnehmer erfolgt,
 
-
 2.  eine eindeutige Absprache über UKW-Sprechfunk möglich ist,
-
 
 3.  durch die Wahl des UKW-Kanals sichergestellt wird, daß möglichst alle
     betroffenen Verkehrsteilnehmer die UKW-Absprache mithören können, und
 
-
 4.  die Verkehrslage es erlaubt.
-
-
 
 Ist das zu überholende Fahrzeug einverstanden, so kann es seine
 Zustimmung abweichend von Regel 34 Buchstabe c Ziffer ii der
-Kollisionsverhütungsregeln über UKW-Sprechfunk geben und Maßnahmen für
-ein sicheres Passieren treffen. Liegen die Voraussetzungen für die
+Kollisionsverhütungsregeln über UKW-Sprechfunk geben und Maßnahmen
+für ein sicheres Passieren treffen. Liegen die Voraussetzungen für die
 Absprache über UKW-Sprechfunk nicht vor, gilt ausschließlich Regel 9
 Buchstabe e der Kollisionsverhütungsregeln.
 
@@ -926,17 +835,12 @@ seine Absicht über UKW-Sprechfunk mitteilen, wenn
 
 1.  eine eindeutige Identifikation der Kommunikationsteilnehmer erfolgt,
 
-
 2.  eine eindeutige Absprache über UKW-Sprechfunk möglich ist,
-
 
 3.  durch die Wahl des UKW-Kanals sichergestellt wird, daß möglichst alle
     betroffenen Verkehrsteilnehmer die UKW-Absprache mithören können, und
 
-
 4.  die Verkehrslage es erlaubt.
-
-
 
 Liegen die Voraussetzungen für die Absprache über UKW-Sprechfunk nicht
 vor, so ist dem Gegenkommer die Absicht durch das Schallsignal nach
@@ -945,16 +849,16 @@ Gegenkommer zur Bestätigung mit diesem Schallsignal zu antworten.
 
 (4) Außerhalb der Weichengebiete im Nord-Ostsee-Kanal ist das Begegnen
 nur gestattet, wenn die Summe der Verkehrsgruppenzahlen der sich
-begegnenden Fahrzeuge nicht die nach § 60 Abs. 1 bekanntgemachte Zahl
-überschreitet. Einem Fahrzeug der Verkehrsgruppen 4 bis 6 ist
+begegnenden Fahrzeuge nicht die nach § 60 Abs. 1 bekanntgemachte
+Zahl überschreitet. Einem Fahrzeug der Verkehrsgruppen 4 bis 6 ist
 auszuweichen.
 
 
 ### § 25 Vorfahrt der Schiffahrt im Fahrwasser
 
-(1) Die in den nachfolgenden Absätzen enthaltenen Regelungen gelten
-für Fahrzeuge im Fahrwasser abweichend von der Regel 9 Buchstabe b bis
-d und den Regeln 15 und 18 Buchstabe a bis c der
+(1) Die in den nachfolgenden Absätzen enthaltenen Regelungen
+gelten für Fahrzeuge im Fahrwasser abweichend von der Regel 9
+Buchstabe b bis d und den Regeln 15 und 18 Buchstabe a bis c der
 Kollisionsverhütungsregeln.
 
 (2) Im Fahrwasser haben dem Fahrwasserverlauf folgende Fahrzeuge
@@ -963,17 +867,11 @@ können, Vorfahrt gegenüber Fahrzeugen, die
 
 1.  in das Fahrwasser einlaufen,
 
-
 2.  das Fahrwasser queren,
-
 
 3.  im Fahrwasser drehen,
 
-
 4.  ihre Anker- oder Liegeplätze verlassen.
-
-
-
 
 (3) Sofern Segelfahrzeuge nicht deutlich der Richtung eines
 Fahrwassers folgen, haben sie sich untereinander nach den
@@ -994,11 +892,8 @@ des Fahrwassers von beiden Seiten, so hat Vorfahrt
     Strom fahrende Fahrzeug, bei Stromstillstand das Fahrzeug, das vorher
     gegen den Strom gefahren ist,
 
-
 2.  in tidefreien Gewässern ohne Strömung das Fahrzeug, das grundsätzlich
     die Steuerbordseite des Fahrwassers zu benutzen hat.
-
-
 
 Das wartepflichtige Fahrzeug muß außerhalb der Engstelle so lange
 warten, bis das andere Fahrzeug vorbeigefahren ist.
@@ -1013,38 +908,30 @@ beeinträchtigt wird.
 
 (1) Jedes Fahrzeug, Wassermotorrad und Segelsurfbrett muß unter
 Beachtung von Regel 6 der Kollisionsverhütungsregeln mit einer
-sicheren Geschwindigkeit fahren. Fahrzeuge und Wassermotorräder haben
-ihre Geschwindigkeit rechtzeitig so weit zu vermindern, wie es
-erforderlich ist, um Gefährdungen durch Sog oder Wellenschlag zu
+sicheren Geschwindigkeit fahren. Fahrzeuge und Wassermotorräder
+haben ihre Geschwindigkeit rechtzeitig so weit zu vermindern, wie
+es erforderlich ist, um Gefährdungen durch Sog oder Wellenschlag zu
 vermeiden, insbesondere beim Vorbeifahren an
 
 1.  Häfen, Schleusen und Sperrwerken,
 
-
 2.  festliegenden Fähren,
-
 
 3.  manövrierunfähigen und festgekommenen Fahrzeugen sowie an
     manövrierbehinderten Fahrzeugen nach Regel 3 Buchstabe g der
     Kollisionsverhütungsregeln,
 
-
 4.  schwimmenden Geräten und schwimmenden Anlagen,
 
-
 5.  außergewöhnlichen Schwimmkörpern, die geschleppt werden, sowie
-
 
 6.  an Stellen, die durch die Sichtzeichen über
     Geschwindigkeitsbeschränkung oder durch die Flagge "A" des
     Internationalen Signalbuches gekennzeichnet sind.
 
-
-
-
 (2) Wird der Verkehr durch Sichtzeichen und bei verminderter Sicht
-zusätzlich durch Schallsignale geregelt, so ist die Geschwindigkeit so
-einzurichten, daß bei einer kurzfristigen Änderung des gezeigten
+zusätzlich durch Schallsignale geregelt, so ist die Geschwindigkeit
+so einzurichten, daß bei einer kurzfristigen Änderung des gezeigten
 Sichtzeichens oder des gegebenen Schallsignals das Fahrzeug sofort
 aufgestoppt werden kann. Wird an einer Anlage zur Regelung des
 Verkehrs durch Lichter kein Sichtzeichen gezeigt, so ist aufzustoppen,
@@ -1056,8 +943,8 @@ durch das Wasser, auf dem Nord-Ostsee-Kanal über Grund, nicht
 überschritten werden.
 
 (4) Fahrzeuge und Wassermotorräder dürfen vor Stellen mit erkennbarem
-Badebetrieb außerhalb des Fahrwassers in einem Abstand von weniger als
-500 Metern von der jeweiligen Wasserlinie des Ufers eine
+Badebetrieb außerhalb des Fahrwassers in einem Abstand von weniger
+als 500 Metern von der jeweiligen Wasserlinie des Ufers eine
 Höchstgeschwindigkeit durch das Wasser von 8 Kilometern (4,3
 Seemeilen) in der Stunde nicht überschreiten.
 
@@ -1078,8 +965,8 @@ erforderlichen Einrichtungen besitzen und deren Manövrierfähigkeit
 beim Schleppen oder Schieben gewährleistet ist.
 
 (2) Schlepp- und Schubverbände dürfen nicht mehr Anhänge oder
-Schubleichter enthalten, als die Schlepper oder Schubschiffe unter
-Berücksichtigung der Verkehrslage und der Beschaffenheit der
+Schubleichter enthalten, als die Schlepper oder Schubschiffe
+unter Berücksichtigung der Verkehrslage und der Beschaffenheit der
 Seeschiffahrtsstraße sicher zu führen vermögen.
 
 (3) Das Nebeneinanderkoppeln von Fahrzeugen in Fahrt ist auf den nach
@@ -1094,20 +981,20 @@ Maschinenkraft nebeneinander gekoppelt fahren.
 gestattet, wenn das Fahrwasser mit Sicherheit hinreichenden Raum für
 die gleichzeitige Durchfahrt gewährt. Anderenfalls ist die Vorfahrt
 entsprechend § 25 Abs. 5 zu beachten. Ein wartepflichtiges Fahrzeug
-muß in ausreichender Entfernung vor der Brücke anhalten. Dabei darf es
-vorübergehend an Festmachedalben, jedoch nicht an Leitwerken und
+muß in ausreichender Entfernung vor der Brücke anhalten. Dabei darf
+es vorübergehend an Festmachedalben, jedoch nicht an Leitwerken und
 Abweisedalben festmachen.
 
 (2) Feste Brücken und bewegliche Brücken in geschlossenem oder
 teilweise geöffnetem Zustand dürfen nur von Fahrzeugen durchfahren
-werden, für die die Öffnungen der Brücke in geschlossenem Zustand mit
-Sicherheit ausreichen. Das Öffnen der Brücke darf nur verlangt werden,
-wenn die Durchfahrtshöhe auch nach dem Niederlegen von Masten,
+werden, für die die Öffnungen der Brücke in geschlossenem Zustand
+mit Sicherheit ausreichen. Das Öffnen der Brücke darf nur verlangt
+werden, wenn die Durchfahrtshöhe auch nach dem Niederlegen von Masten,
 Aufbauten und Schornsteinen nicht ausreicht oder das Niederlegen mit
 unverhältnismäßig großen Schwierigkeiten verbunden ist.
 
-(3) In Sperrwerken ist es verboten, zu ankern oder Anker, Ketten oder
-Trossen schleifen zu lassen. Für das Durchfahren von Sperrwerken
+(3) In Sperrwerken ist es verboten, zu ankern oder Anker, Ketten
+oder Trossen schleifen zu lassen. Für das Durchfahren von Sperrwerken
 gelten die vorstehenden Bestimmungen entsprechend.
 
 
@@ -1120,8 +1007,8 @@ Entfernung vor der Schleuse angehalten werden. Dabei darf ein Fahrzeug
 vorübergehend an Festmachedalben, jedoch nicht an Leitwerken und
 Abweisedalben festmachen.
 
-(2) Die Fahrzeuge haben in der Reihenfolge ihrer Ankunft vor der
-Schleuse einzulaufen. Am Nord-Ostsee-Kanal bestimmt sich die
+(2) Die Fahrzeuge haben in der Reihenfolge ihrer Ankunft vor
+der Schleuse einzulaufen. Am Nord-Ostsee-Kanal bestimmt sich die
 Reihenfolge des Einlaufens in die Schleusen in Brunsbüttel und Kiel-
 Holtenau durch die Reihenfolge der Ankunft an der Grenze der Zufahrt.
 
@@ -1133,26 +1020,22 @@ Antriebsanlage sofort aufgestoppt werden kann.
 
 1.  zu ankern oder Anker, Ketten oder Trossen schleifen zu lassen,
 
-
 2.  ohne Erlaubnis der Schleusenaufsicht umzuschlagen.
-
-
-
 
 (5) Die Fahrzeuge dürfen erst nach dem vollständigen Öffnen der
 Schleusentore auslaufen. Die Schleusenkammer ist unverzüglich zu
-verlassen. Bei dem Ablegen sind die Leinen so zu bedienen, daß das
-Fahrzeug bei Aufnahme einer falschen Fahrtrichtung sofort aufgestoppt
-werden kann. Die Fahrzeuge haben aus der Schleuse in der Reihenfolge
-ihres Einlaufens auszulaufen, es sei denn, die beteiligten
+verlassen. Bei dem Ablegen sind die Leinen so zu bedienen, daß
+das Fahrzeug bei Aufnahme einer falschen Fahrtrichtung sofort
+aufgestoppt werden kann. Die Fahrzeuge haben aus der Schleuse in der
+Reihenfolge ihres Einlaufens auszulaufen, es sei denn, die beteiligten
 Fahrzeugführer vereinbaren eine andere Reihenfolge.
 
 
 ### § 30 Fahrbeschränkungen und Fahrverbote
 
 (1) Die Seeschiffahrtsstraßen Jade, Weser, Hunte, Elbe, Nord-Ostsee-
-Kanal, Kieler Förde und Trave sowie die Wasserflächen der Zufahrten zu
-den Häfen Wismar, Rostock mit Warnow, Stralsund mit Gellenstrom,
+Kanal, Kieler Förde und Trave sowie die Wasserflächen der Zufahrten
+zu den Häfen Wismar, Rostock mit Warnow, Stralsund mit Gellenstrom,
 Landtief und Osttief und Wolgast dürfen von den nachstehend
 aufgeführten Fahrzeugen, von denen auf Grund der Art der beförderten
 Ladung besondere Gefahren für die übrige Schiffahrt ausgehen können,
@@ -1160,74 +1043,57 @@ nur unter den in Absatz 2 genannten Voraussetzungen befahren werden:
 
 1.  Tankschiffe und Schub- und Schleppverbände, welche
 
-    a)  gasförmige Güter nach dem Internationalen Code für den Bau und die
-        Ausrüstung von Schiffen zur Beförderung verflüssigter Gase als
+    a)  gasförmige Güter nach dem Internationalen Code für den Bau und
+        die Ausrüstung von Schiffen zur Beförderung verflüssigter Gase als
         Massengut (IGC-Code) (VkBl. 2007 S. 8, S. 80 und S. 152), in der
         jeweils geltenden Fassung, außer Gase und Gasgemische der Klasse 2.2
         ohne Zusatzgefahr,
 
-
-    b)  flüssige Chemikalien nach dem Internationalen Code für den Bau und die
-        Ausrüstung von Schiffen zur Beförderung gefährlicher Chemikalien als
-        Massengut (IBC-Code) (VkBl. 2007 S. 8, S. 80 und S. 152) in der
-        jeweils geltenden Fassung, für die nach Kapitel 15 Abschnitt 15.19 des
-        IBC-Code in vollem Umfang Überfüllsicherungen und Füllstandsalarme
+    b)  flüssige Chemikalien nach dem Internationalen Code für den Bau und
+        die Ausrüstung von Schiffen zur Beförderung gefährlicher Chemikalien
+        als Massengut (IBC-Code) (VkBl. 2007 S. 8, S. 80 und S. 152) in der
+        jeweils geltenden Fassung, für die nach Kapitel 15 Abschnitt 15.19
+        des IBC-Code in vollem Umfang Überfüllsicherungen und Füllstandsalarme
         vorgeschrieben sind und die daher den Eintrag "15.19" in Spalte "o"
         der Tabelle in Kapitel 17 des Codes haben, oder
-
 
     c)  flüssige Güter nach Anlage I des Internationalen Übereinkommens von
         1973 zur Verhütung der Meeresverschmutzung durch Schiffe mit dem
         Protokoll von 1978 zu dem Übereinkommen (BGBl. 1982 II S. 2) in der
         jeweils geltenden Fassung
 
-
-
-
     als Massengut befördern,
-
 
 2.  Fahrzeuge, die nach dem Internationalen Code für die sichere
     Beförderung von verpackten bestrahlten Kernbrennstoffen, Plutonium und
-    hochradioaktiven Abfällen mit Seeschiffen (INF-Code) (BAnz. 2000 S. 23
-    322), in der jeweils geltenden Fassung, die dort genannten Stoffe
+    hochradioaktiven Abfällen mit Seeschiffen (INF-Code) (BAnz. 2000 S.
+    23 322), in der jeweils geltenden Fassung, die dort genannten Stoffe
     befördern,
 
-
-3.  leere Tankschiffe und Schub- und Schleppverbände nach dem Löschen der
-    in Nummer 1 Buchstabe b oder c genannten Stoffe - ausgenommen
+3.  leere Tankschiffe und Schub- und Schleppverbände nach dem Löschen
+    der in Nummer 1 Buchstabe b oder c genannten Stoffe - ausgenommen
     Restmengen, die bei ordnungsgemäßer Funktionsfähigkeit der
     Löscheinrichtungen nicht mehr gepumpt werden können - sofern der
-    Flammpunkt der letzten Ladung unter 35
-    Grad C lag und die Tanks nicht gereinigt und entgast oder vollständig
-    inertisiert sind.
-
-
-
+    Flammpunkt der letzten Ladung unter 35 Grad C lag und die Tanks nicht
+    gereinigt und entgast oder vollständig inertisiert sind.
 
 (2) Voraussetzungen für das Befahren der in Absatz 1 aufgeführten
 Seeschiffahrtsstraßen sind:
 
 1.  Beim Einlaufen in die Seeschiffahrtsstraße oder beim Verlassen einer
-    Liegestelle muß eine Sicht von mehr als 1 000 Metern herrschen; dies
-    gilt nicht für Fahrzeuge mit einer Ladefähigkeit von bis zu 2 000
+    Liegestelle muß eine Sicht von mehr als 1 000 Metern herrschen; dies
+    gilt nicht für Fahrzeuge mit einer Ladefähigkeit von bis zu 2 000
     Tonnen, soweit die Sicht von 500 Metern nicht unterschritten wird,
     sowie für die unmittelbare Einfahrt in den oder Ausfahrt aus dem Nord-
     Ostsee-Kanal und für das Befahren des Nord-Ostsee-Kanals, ausgenommen
     das Verlassen eines Liegeplatzes in einem Hafen,
 
-
 2.  es muß ein einwandfrei arbeitendes Radargerät eingeschaltet sein,
-
 
 3.  bei Gebrauch einer Selbststeueranlage hat sich ein Rudergänger in der
     Nähe des Ruders aufzuhalten und
 
-
 4.  die Tankdeckel sind geschlossen zu halten.
-
-
-
 
 (3) Unbeschadet des Absatzes 1 können für Fahrzeuge oder
 Fahrzeuggruppen weitere schiffahrtspolizeiliche Voraussetzungen für
@@ -1241,10 +1107,10 @@ nach § 60 Abs. 1 bekanntgemacht werden.
 Wassersportanhängen sowie das Fahren mit einem Wassermotorrad oder
 einem Kite- und Segelsurfbrett mit Ausnahme auf den nach § 60 Abs. 1
 bekannt gemachten oder durch Sichtzeichen freigegebenen Wasserflächen
-verboten. Außerhalb des Fahrwassers ist das Wasserskilaufen, und das
-Schleppen von Wassersportanhängen sowie das  Fahren mit einem
-Wassermotorrad oder einem Segelsurfbrett vorbehaltlich des § 26 Abs. 5
-erlaubt; dies gilt nicht auf den nach § 60 Abs. 1 bekanntgemachten
+verboten. Außerhalb des Fahrwassers ist das Wasserskilaufen, und
+das Schleppen von Wassersportanhängen sowie das Fahren mit einem
+Wassermotorrad oder einem Segelsurfbrett vorbehaltlich des § 26 Abs.
+5 erlaubt; dies gilt nicht auf den nach § 60 Abs. 1 bekanntgemachten
 Wasserflächen.
 
 (2) Die Führer von Zugbooten der Wasserskiläufer und von
@@ -1257,14 +1123,13 @@ Die Führer von Zugbooten, die Wassersportanhänge schleppen; haben
 diese bei der Begegnung mit Fahrzeugen, Wassermotorrädern und Kite-
 und Segelsurfern in ihrem Kielwasser zu halten.
 
-(3) Bei Nacht, bei verminderter Sicht und während der nach § 60 Abs. 1
-bekannt gemachten Zeiten darf nicht Wasserski gelaufen,
+(3) Bei Nacht, bei verminderter Sicht und während der nach § 60
+Abs. 1 bekannt gemachten Zeiten darf nicht Wasserski gelaufen,
 Wassersportanhänge geschleppt oder mit einem Wassermotorrad oder einem
 Kite- und Segelsurfbrett gefahren werden.
 
 
 ## Fünfter Abschnitt - Ruhender Verkehr
-
 
 
 ### § 32 Ankern
@@ -1276,31 +1141,22 @@ des Fahrwassers ist das Ankern auf folgenden Wasserflächen verboten:
 
 1.  an engen Stellen und in unübersichtlichen Krümmungen,
 
-
-2.  in einem Umkreis von 300 Metern von schwimmenden Geräten, Wracks und
-    sonstigen Schiffahrtshindernissen und Leitungstrassen sowie von
+2.  in einem Umkreis von 300 Metern von schwimmenden Geräten, Wracks
+    und sonstigen Schiffahrtshindernissen und Leitungstrassen sowie von
     Warnstellen, Kabeln und Rohrleitungen,
-
 
 3.  bei verminderter Sicht in einem Abstand von weniger als 300 Metern von
     Hochspannungsleitungen,
 
-
 4.  in einem Abstand von 100 Metern vor und hinter Sperrwerken,
-
 
 5.  vor Hafeneinfahrten, Anlegestellen, Schleusen und Sielen sowie in den
     Zufahrten zum Nord-Ostsee-Kanal,
 
-
 6.  innerhalb von Fähr- und Brückenstrecken sowie
-
 
 7.  an Stellen und innerhalb von Wasserflächen, die nach § 60 Abs. 1
     bekanntgemacht sind.
-
-
-
 
 (2) Der Gebrauch des Ankers für Manövrierzwecke gilt nicht als Ankern.
 Im Bereich der im Absatz 1 Nr. 2 und 4 bezeichneten Wasserflächen ist
@@ -1312,9 +1168,9 @@ dort gestattet ist.
 
 (4) Auf einem in der Nähe des Fahrwassers oder auf einer Reede vor
 Anker liegenden Fahrzeug oder außergewöhnlichen Schwimmkörper sowie
-auf Fahrzeugen, für die nach Absatz 3 das Ankerverbot nicht gilt, muß
-ständig Ankerwache gegangen werden. Das gilt nicht für Fahrzeuge von
-weniger als 12 Metern Länge auf den nach § 10 Abs. 4 bezeichneten
+auf Fahrzeugen, für die nach Absatz 3 das Ankerverbot nicht gilt,
+muß ständig Ankerwache gegangen werden. Das gilt nicht für Fahrzeuge
+von weniger als 12 Metern Länge auf den nach § 10 Abs. 4 bezeichneten
 Wasserflächen.
 
 
@@ -1330,22 +1186,15 @@ und mit der gebotenen Vorsicht zu navigieren.
 1.  an Sperrwerken, Strombauwerken, Leitwerken, Pegeln, festen und
     schwimmenden Schiffahrtszeichen,
 
-
 2.  an abbrüchigen Stellen am Ufer,
-
 
 3.  an Stellen, an denen das Ankern nach 32 Abs. 1 Nr. 1 und 5 verboten
     ist,
 
-
 4.  innerhalb von Strecken, in denen das Ankern nach § 32 Abs. 1 Nr. 6
     verboten ist, sowie
 
-
 5.  an nach § 60 Abs. 1 bekanntgemachten Stellen.
-
-
-
 
 (3) Nebeneinander festgemachte Fahrzeuge sind, soweit es möglich ist,
 an beiden Enden ausreichend am Ufer zu befestigen.
@@ -1354,14 +1203,9 @@ an beiden Enden ausreichend am Ufer zu befestigen.
 
 1.  probeweise mit der geringstmöglichen Kraft,
 
-
 2.  unmittelbar vor dem Ablegen und
 
-
 3.  wenn andere Fahrzeuge oder Anlagen nicht gefährdet werden.
-
-
-
 
 
 ### § 34 Umschlag
@@ -1375,8 +1219,8 @@ bekanntgemachten Voraussetzungen gestattet.
 ### § 35 Ankern, Anlegen, Festmachen und Vorbeifahren von und an Fahrzeugen, die bestimmte gefährliche Güter befördern
 
 (1) Fahrzeuge, die bestimmte gefährliche Güter (§ 2 Abs. 1 Nr. 16)
-befördern, dürfen nur auf den nach § 60 Abs. 1 bekanntgemachten Reeden
-und Liegestellen und nur unter Einhaltung der bekanntgemachten
+befördern, dürfen nur auf den nach § 60 Abs. 1 bekanntgemachten
+Reeden und Liegestellen und nur unter Einhaltung der bekanntgemachten
 Voraussetzungen ankern oder festmachen.
 
 (2) Liegen mehrere Fahrzeuge, die bestimmte gefährliche Güter
@@ -1387,16 +1231,16 @@ ausreichenden Sicherheitsabstand einzuhalten.
 (3) Von Fahrzeugen, die bestimmte gefährliche Güter befördern, haben
 andere Fahrzeuge unter besonderer Berücksichtigung des Funkenflugs
 einen ausreichenden Sicherheitsabstand einzuhalten, ausgenommen
-Schlepper, Versorgungs- und Tankreinigungsschiffe sowie Fahrzeuge, die
-am Umschlag beteiligt sind. Diese Fahrzeuge dürfen in den Bereich der
-Reede oder Liegestelle nur einlaufen, wenn Schornsteine und
+Schlepper, Versorgungs- und Tankreinigungsschiffe sowie Fahrzeuge,
+die am Umschlag beteiligt sind. Diese Fahrzeuge dürfen in den Bereich
+der Reede oder Liegestelle nur einlaufen, wenn Schornsteine und
 Auspuffleitungen mit Vorrichtungen versehen sind, die den Funkenflug
 verhindern.
 
 (4) An festgemachten Tankschiffen, die nach dem Löschen bestimmter
-gefährlicher Güter nicht gereinigt und entgast worden sind, dürfen
-beim Füllen der Tanks mit Ballastwasser keine Fahrzeuge und beim
-Reinigen und Entgasen nur die dafür erforderlichen
+gefährlicher Güter nicht gereinigt und entgast worden sind,
+dürfen beim Füllen der Tanks mit Ballastwasser keine Fahrzeuge
+und beim Reinigen und Entgasen nur die dafür erforderlichen
 Tankreinigungsschiffe längsseits liegen.
 
 (5) Festgemachte Fahrzeuge, die bestimmte gefährliche Güter befördern,
@@ -1406,9 +1250,9 @@ verholen können.
 
 ### § 36 Umschlag bestimmter gefährlicher Güter
 
-(1) Der Umschlag bestimmter gefährlicher Güter (§ 2 Abs. 1 Nr. 16) ist
-nur auf den hierfür nach § 60 Abs. 1 bekanntgemachten Reeden und
-Liegestellen und nur unter Einhaltung der bekanntgemachten
+(1) Der Umschlag bestimmter gefährlicher Güter (§ 2 Abs. 1 Nr. 16)
+ist nur auf den hierfür nach § 60 Abs. 1 bekanntgemachten Reeden
+und Liegestellen und nur unter Einhaltung der bekanntgemachten
 Voraussetzungen gestattet. Der Umschlag ist der zuständigen
 Schiffahrtspolizeibehörde rechtzeitig vorher anzuzeigen.
 
@@ -1431,7 +1275,6 @@ gefährlichen Gütern betreffen.
 ## Sechster Abschnitt - Sonstige Vorschriften
 
 
-
 ### § 37 Verhalten bei Schiffsunfällen und bei Verlust von Gegenständen
 
 (1) Bei Gefahr des Sinkens ist das Fahrzeug möglichst so weit aus dem
@@ -1448,11 +1291,8 @@ Verkehrs durch
     außergewöhnliche Schwimmkörper oder durch andere treibende oder auf
     Grund geratene Gegenstände oder
 
-
 2.  Schiffsunfälle, Brände oder sonstige Vorkommnisse auf Fahrzeugen,
     schwimmenden Anlagen und außergewöhnlichen Schwimmkörpern
-
-
 
 beeinträchtigt oder gefährdet, so ist das zuständige Wasserstraßen-
 und Schifffahrtsamt oder die Verkehrszentrale unverzüglich zu
@@ -1464,8 +1304,8 @@ hierzu auch der Führer eines beteiligten schwimmfähig gebliebenen
 Fahrzeugs verpflichtet. Er darf die Fahrt erst nach Genehmigung des
 zuständigen Wasserstraßen- und Schifffahrtsamtes fortsetzen.
 
-(4) Ein festgekommenes Fahrzeug darf seine Maschine zum Freikommen
-benutzen, es sei denn, daß dies ohne Beschädigung der
+(4) Ein festgekommenes Fahrzeug darf seine Maschine zum
+Freikommen benutzen, es sei denn, daß dies ohne Beschädigung der
 Seeschiffahrtsstraße einschließlich der Ufer, Strombauwerke und
 Schiffahrtsanlagen nicht möglich ist oder die Schiffahrt gefährdet
 wird.
@@ -1478,49 +1318,43 @@ insbesondere
 1.  alle nach außen führenden und nicht zur Aufrechterhaltung des
     Schiffsbetriebes erforderlichen Öffnungen geschlossen,
 
-
 2.  alle nicht zur Gewährleistung der Sicherheit von Schiff, Besatzung und
     Ladung erforderlichen Hilfsmaschinen abgestellt,
-
 
 3.  nicht geschützte offene Feuer gelöscht, insbesondere das Rauchen
     eingestellt, sowie
 
-
 4.  Geräte mit glühenden oder Funken gebenden Teilen stillgelegt werden.
-
-
-
 
 
 ### § 38 Ausübung der Fischerei und der Jagd
 
 Auf den nach § 60 Abs. 1 bekanntgemachten Wasserflächen ist das
 Fischen für bestimmte Arten der Fischerei, Schießen oder Jagen
-verboten. Für Fahrzeuge der Berufsfischerei gilt das Ankerverbot nicht
-im Fahrwasser, mit Ausnahme auf den nach Satz 1 bekanntgemachten
+verboten. Für Fahrzeuge der Berufsfischerei gilt das Ankerverbot
+nicht im Fahrwasser, mit Ausnahme auf den nach Satz 1 bekanntgemachten
 Wasserflächen.
 
 
 ### § 39 Fahrpläne für Fahrgastschiffe und Fähren
 
-(1) Fahrgastschiffe und Fähren dürfen die Fahrgastbeförderung nur von
-Anlegestellen aus durchführen, die nach § 31 Abs. 1 Nr. 2 und Abs. 3
-des Bundeswasserstraßengesetzes genehmigt oder rechtmäßig vorhanden
-sind. Die Vorschriften über Bewilligungen, Erlaubnisse und
-Genehmigungen für die Einrichtung der Anlegestellen, die
+(1) Fahrgastschiffe und Fähren dürfen die Fahrgastbeförderung nur
+von Anlegestellen aus durchführen, die nach § 31 Abs. 1 Nr. 2 und
+Abs. 3 des Bundeswasserstraßengesetzes genehmigt oder rechtmäßig
+vorhanden sind. Die Vorschriften über Bewilligungen, Erlaubnisse
+und Genehmigungen für die Einrichtung der Anlegestellen, die
 Fahrgastschiffahrt und den Fährbetrieb bleiben unberührt.
 
 (2) Wer Fahrgastschiffe oder Fähren zu regelmäßigen Fahrten einsetzen
-will, hat den Fahrplan mit den Abfahrts- und Ankunftszeiten und den
-Anlegestellen spätestens zwei Wochen vor Beginn der Fahrten dem
+will, hat den Fahrplan mit den Abfahrts- und Ankunftszeiten und
+den Anlegestellen spätestens zwei Wochen vor Beginn der Fahrten dem
 zuständigen Wasserstraßen- und Schifffahrtsamt vorzulegen. Die Fahrten
 sind nach den im Fahrplan angegebenen Zeiten durchzuführen. Jede
 Fahrplanänderung ist zwei Wochen, bevor sie in Kraft treten soll, der
 nach Satz 1 zuständigen Behörde mitzuteilen.
 
-(3) Der Unternehmer hat auf Verlangen des zuständigen Wasserstraßen-
-und Schifffahrtsamtes den Fahrplan so zu ändern, daß
+(3) Der Unternehmer hat auf Verlangen des zuständigen
+Wasserstraßen- und Schifffahrtsamtes den Fahrplan so zu ändern, daß
 Beeinträchtigungen der Sicherheit und Leichtigkeit des Verkehrs an den
 Anlegestellen und im Fahrwasser vermieden werden.
 
@@ -1531,33 +1365,28 @@ Verhältnisse oder besondere Umstände erfordern dies.
 
 ### § 40 Mitführen von Unterlagen
 
-Der Schiffsführer eines Binnenschiffs hat dafür zu sorgen, dass sich
-an Bord des Fahrzeugs jeweils ein Abdruck dieser Verordnung und der
-Verordnung zu den Internationalen Regeln von 1972 zur Verhütung von
-Zusammenstößen auf See befinden. Als Abdruck gilt auch eine
+Der Schiffsführer eines Binnenschiffs hat dafür zu sorgen, dass
+sich an Bord des Fahrzeugs jeweils ein Abdruck dieser Verordnung und
+der Verordnung zu den Internationalen Regeln von 1972 zur Verhütung
+von Zusammenstößen auf See befinden. Als Abdruck gilt auch eine
 elektronische Textfassung, wenn sie jederzeit lesbar gemacht werden
 kann. Die Sätze 1 und 2 gelten nicht für
 
 1.  Kleinfahrzeuge nach binnenschifffahrtsrechtlichen Vorschriften und
 
-
 2.  Schubleichter und andere Fahrzeuge ohne Antriebsmaschine, die nicht
     über Wohnräume, Steuerhäuser oder Aufenthaltsräume verfügen.
 
 
-
-
-
 ## Siebenter Abschnitt - Ergänzende Vorschriften für den Nord-Ostsee-Kanal
-
 
 
 ### § 41 Geltungsbereich
 
 Auf dem Nord-Ostsee-Kanal und seinen Zufahrten gelten die Vorschriften
 dieses Abschnitts zusätzlich zu den übrigen Vorschriften dieser
-Verordnung, insbesondere zu den in § 23 Abs. 3 Nr. 3 und Abs. 5, § 24
-Abs. 4, § 29 Abs. 2 und § 32 Abs. 1 Nr. 5 enthaltenen
+Verordnung, insbesondere zu den in § 23 Abs. 3 Nr. 3 und Abs.
+5, § 24 Abs. 4, § 29 Abs. 2 und § 32 Abs. 1 Nr. 5 enthaltenen
 Sondervorschriften für den Nord-Ostsee-Kanal.
 
 
@@ -1569,20 +1398,14 @@ Schleppverbänden nur befahren werden, wenn
 1.  die nach § 60 Abs. 1 bekanntgemachten Abmessungen nicht überschritten
     werden,
 
-
 2.  die Stabilität und Manövrierfähigkeit gewährleistet ist,
-
 
 3.  der Ruderlagenanzeiger ausreichend beleuchtet ist,
 
-
 4.  keine Gegenstände über die Bordwand hinausragen und
-
 
 5.  die Sicherheit und Leichtigkeit des Verkehrs nicht in anderer Weise
     beeinträchtigt ist.
-
-
 
 Dies gilt für schwimmende Geräte und schwimmende Anlagen entsprechend.
 
@@ -1600,8 +1423,8 @@ die gefährliche Güter der Klassen 1 bis 9 des IMDG-Code deutsch
 befördern, haben die nach Kapitel VII Regel 5 Nr. 5 der Anlage zum
 Internationalen Übereinkommen von 1974 zum Schutz des menschlichen
 Lebens auf See (Verordnung vom 11. Januar 1979 - BGBl. 1979 II S.
-141), zuletzt geändert durch Verordnung vom 24. April 1997 (BGBl. 1997
-II S. 934), in der jeweils geltenden Fassung mitzuführenden
+141), zuletzt geändert durch Verordnung vom 24. April 1997 (BGBl.
+1997 II S. 934), in der jeweils geltenden Fassung mitzuführenden
 Verzeichnisse oder Staupläne während der Kanalfahrt griffbereit auf
 der Brücke vorzuhalten.
 
@@ -1617,22 +1440,17 @@ Verhältnissen auf dem Nord-Ostsee-Kanal vertraut anerkannte Steurer
 1.  für die Fahrtstrecke zwischen den Kanalschleusen Brunsbüttel und dem
     Kanal km 6,00,
 
-
 2.  für die Fahrtstrecke zwischen den Kanalschleusen Kiel-Holtenau und der
     westlichen Begrenzung der Weiche Schwartenbek,
 
-
 3.  für Fahrzeuge des öffentlichen Dienstes und für Kriegsfahrzeuge.
-
-
-
 
 (6) Fahrzeugen, die die Voraussetzungen nach den Absätzen 1 bis 5
 nicht erfüllen, kann das zuständige Wasser- und Schiffahrtsamt die
 Durchfahrt verweigern oder unter Auflagen gestatten.
 
-(7) Fahrzeuge dürfen außerhalb der Weichengebiete, öffentlichen Häfen,
-Umschlags- und sonstigen Liegestellen aus anderen als
+(7) Fahrzeuge dürfen außerhalb der Weichengebiete, öffentlichen
+Häfen, Umschlags- und sonstigen Liegestellen aus anderen als
 verkehrsbedingten Gründen nicht liegen.
 
 
@@ -1656,8 +1474,10 @@ Verkehrssituation zu berücksichtigen und den getroffenen Maßnahmen der
 Verkehrslenkung nachzukommen.
 
 (3) Von den Liegestellen im Achterwehrer Schiffahrtskanal darf nur
-nach Anmeldung bei der Schleusenaufsicht abgelegt werden; dies gilt
-nicht für Sportfahrzeuge.
+nach Anmeldung bei der Schleusenaufsicht abgelegt werden.
+
+(4) Die Absätze 1 bis 3 gelten nicht für Sportfahrzeuge. § 58 bleibt
+unberührt.
 
 
 ### § 44
@@ -1673,20 +1493,14 @@ Nord-Ostsee-Kanal einlaufen oder ihn verlassen. Dies gilt nicht
 1.  für Fahrzeuge auf der Fahrtstrecke von und nach der Umschlagstelle im
     Schleusenvorhafen Kiel-Holtenau,
 
-
 2.  für Fahrgastschiffe auf der Fahrtstrecke von und zur Anlegestelle in
     Kiel-Holtenau,
-
 
 3.  für Sportfahrzeuge auf den Fahrtstrecken von und nach den zugelassenen
     Liegestellen sowie
 
-
 4.  für Fahrzeuge der Strom- und Schiffahrtspolizei,
     Lotsenversetzfahrzeuge und zugelassene Schlepper.
-
-
-
 
 
 ### § 46 Vorfahrt beim Einlaufen in die Schleusen und beim Auslaufen
@@ -1696,8 +1510,8 @@ abweichend von der Regel 9 Buchstabe b bis d und den Regeln 15 und 18
 Buchstabe a bis c der Kollisionsverhütungsregeln.
 
 (2) In Kiel-Holtenau haben die aus der Zufahrt in die Neue Schleuse
-einlaufenden Fahrzeuge Vorfahrt gegenüber den aus der Alten Schleuse
-auslaufenden Fahrzeugen. In Brunsbüttel haben die aus den
+einlaufenden Fahrzeuge Vorfahrt gegenüber den aus der Alten
+Schleuse auslaufenden Fahrzeugen. In Brunsbüttel haben die aus den
 Schleusenvorhäfen in die Zufahrt auslaufenden Fahrzeuge Vorfahrt
 gegenüber den in diesen Bereich einlaufenden Fahrzeugen.
 
@@ -1729,11 +1543,8 @@ hinter den Grenzen der Weichengebiete haben Fahrzeuge
 1.  der Verkehrsgruppen 1, 2 und 3 einen Abstand von mindestens 600
     Metern,
 
-
 2.  der Verkehrsgruppen 4 und höher einen Abstand von mindestens 1000
     Metern
-
-
 
 von einem vorausfahrenden Fahrzeug einzuhalten, es sei denn, daß sie
 dieses gemäß § 23 Abs. 4 und 5 überholen.
@@ -1746,21 +1557,21 @@ der vorgeschriebene Mindestabstand geringer sein.
 
 (1) In die Weichengebiete ist zügig einzulaufen.
 
-(2) Wird im Weichengebiet ein Sichtzeichen A.22 Buchstabe b (Anlage I)
-gezeigt, hat sich ein Fahrzeug, dem die Ausfahrt verboten ist, den
-bestehenden Umständen entsprechend an den jeweils vordersten und in
-seiner Fahrtrichtung rechts liegenden freien Dalben zu legen oder in
-dessen Nähe aufzustoppen und der durchgehenden Schifffahrt ausreichend
-Raum zu geben. An den jeweils vordersten freien Dalben an der linken
-Seite darf sich ein Fahrzeug nur legen, wenn Verkehrs- oder
+(2) Wird im Weichengebiet ein Sichtzeichen A.22 Buchstabe b (Anlage
+I) gezeigt, hat sich ein Fahrzeug, dem die Ausfahrt verboten ist,
+den bestehenden Umständen entsprechend an den jeweils vordersten
+und in seiner Fahrtrichtung rechts liegenden freien Dalben zu legen
+oder in dessen Nähe aufzustoppen und der durchgehenden Schifffahrt
+ausreichend Raum zu geben. An den jeweils vordersten freien Dalben an
+der linken Seite darf sich ein Fahrzeug nur legen, wenn Verkehrs- oder
 Wetterverhältnisse dies erfordern.
 
 (3) Für das Verlassen des Weichengebietes ist grundsätzlich die
-Reihenfolge des Einlaufens in das Weichengebiet maßgebend. Will ein
-Fahrzeug ein vor ihm an derselben Dalbenreihe liegendes und zur
-Weiterfahrt berechtigtes Fahrzeug überholen, haben sich die
-Fahrzeugführer nach Maßgabe des § 23 Abs. 4 zu verständigen. Dies gilt
-auch, wenn in das Weichengebiet einlaufende Fahrzeuge die im
+Reihenfolge des Einlaufens in das Weichengebiet maßgebend. Will
+ein Fahrzeug ein vor ihm an derselben Dalbenreihe liegendes und
+zur Weiterfahrt berechtigtes Fahrzeug überholen, haben sich die
+Fahrzeugführer nach Maßgabe des § 23 Abs. 4 zu verständigen. Dies
+gilt auch, wenn in das Weichengebiet einlaufende Fahrzeuge die im
 Weichengebiet in gleicher Fahrtrichtung liegenden und zur Weiterfahrt
 berechtigten Fahrzeuge überholen wollen. Das Vorbeifahren an zur
 Weiterfahrt nicht berechtigten Fahrzeugen, die an den Dalben liegen,
@@ -1771,8 +1582,8 @@ ablegen, wenn die durchgehende Schiffahrt und die von der rechten
 Dalbenreihe ablegenden Fahrzeuge nicht gefährdet oder behindert
 werden.
 
-(5) Fahrzeugen ist das Liegen in den Weichengebieten aus anderen als
-verkehrs- oder wetterbedingten Gründen nur mit Zustimmung der
+(5) Fahrzeugen ist das Liegen in den Weichengebieten aus anderen
+als verkehrs- oder wetterbedingten Gründen nur mit Zustimmung der
 zuständigen Verkehrszentrale gestattet.
 
 
@@ -1783,18 +1594,15 @@ nur fahren, wenn
 
 1.  das Radargerät einwandfrei arbeitet und
 
-
 2.  sich außer dem Fahrzeugführer eine fachkundige Person zur Bedienung
     des Radargerätes auf der Brücke befindet.
-
-
 
 Andernfalls hat das Fahrzeug die Kanalfahrt zu unterbrechen und im
 nächsten Weichengebiet nach Möglichkeit hinter den Dalben oder an der
 nächsten Liegestelle festzumachen.
 
-(2) Freifahrer und Schub- und Schleppverbände, welche die nach § 60
-Abs. 1 bekanntgemachten Voraussetzungen für die Nachtfahrt nicht
+(2) Freifahrer und Schub- und Schleppverbände, welche die nach §
+60 Abs. 1 bekanntgemachten Voraussetzungen für die Nachtfahrt nicht
 erfüllen, dürfen nur während der nach § 60 Abs. 1 bekanntgemachten
 Zeiten (Tagfahrzeiten) den Nord-Ostsee-Kanal befahren. Außerhalb
 dieser Zeiten ist gestattet
@@ -1802,19 +1610,14 @@ dieser Zeiten ist gestattet
 1.  das Einlaufen in die Schleusen von den Binnenhäfen aus und das
     Auslaufen in diese,
 
-
 2.  die Weiterfahrt bis zum Kreishafen Rendsburg, wenn die Weiche Breiholz
     oder die Weiche Audorf/Rade vor Ablauf der Tagfahrzeit erreicht wird,
-
 
 3.  die Weiterfahrt bis zur Ausgangsschleuse, wenn die Weiche Dükerswisch
     oder Groß-Nordsee vor Ablauf der Tagfahrzeit erreicht wird.
 
-
-
-
-(3) Freifahrer der Verkehrsgruppe 1 dürfen nicht mehr als ein
-Sportfahrzeug mit einer Länge bis zu 15 Meter während der
+(3) Freifahrer der Verkehrsgruppe 1 dürfen nicht mehr als
+ein Sportfahrzeug mit einer Länge bis zu 15 Meter während der
 Tagfahrzeiten schleppen; ein solcher Schleppverband gilt für die
 Verkehrslenkung als alleinfahrendes Fahrzeug.
 
@@ -1826,18 +1629,20 @@ festzumachen.
 ### § 51 Fahrregeln für Sportfahrzeuge
 
 (1) Sportfahrzeuge dürfen die Zufahrten und den Nord-Ostsee-Kanal
-lediglich zur Durchfahrt, nur während der Tagfahrzeiten im Sinne des §
-50 Abs. 2 und nicht bei verminderter Sicht benutzen. Dies gilt nicht
+lediglich zur Durchfahrt, nur während der Tagfahrzeiten im Sinne des
+§ 50 Abs. 2 und nicht bei verminderter Sicht benutzen. Dies gilt nicht
 bei Annahme eines Lotsen oder für das Aufsuchen der für Sportfahrzeuge
 zugelassenen Liegestellen im Schleusenvorhafen Kiel-Holtenau und im
 Binnenhafen Brunsbüttel oder das beim Schleusenmeister angemeldete
 Ausschleusen zur Elbe.
 
-(2) Sportfahrzeuge, die ihren ständigen Liegeplatz im oder ihren
-Lagerplatz unmittelbar am Nord-Ostsee-Kanal zwischen den Schleusen
-haben und auf dem Nord-Ostsee-Kanal fahren wollen, benötigen einen vom
-zuständigen Wasserstraßen- und Schifffahrtsamt ausgestellten
-Fahrtausweis.
+(2) Sportfahrzeuge, die ihren ständigen Lager- oder Liegeplatz
+an der Eider oberhalb der Schleuse Lexfähre, an der Obereider, am
+Audorfer See, unmittelbar am oder im Nord-Ostsee-Kanal zwischen
+den Schleusen haben, dürfen den Kanal uneingeschränkt benutzen. Als
+Nachweis des Vorliegens der Voraussetzungen des Satzes 1 benötigen sie
+einen vom zuständigen Wasserstraßen- und Schifffahrtsamt auf Antrag
+ausgestellten Fahrtausweis.
 
 (3) Sportfahrzeuge müssen ihre Kanalfahrt so einrichten, daß sie vor
 Ablauf der Tagfahrzeit eine für Sportfahrzeuge bestimmte Liegestelle
@@ -1852,11 +1657,8 @@ Freifahrer der Verkehrsgruppe 1 geschleppt werden.
 
 1.  im Schleusenvorhafen Kiel-Holtenau vor den Alten Schleusen,
 
-
 2.  außerhalb des Fahrwassers auf dem Borgstedter See, dem Audorfer See
     und dem Obereidersee.
-
-
 
 Sportfahrzeuge mit Maschinenantrieb dürfen zusätzlich die Segel
 setzen.
@@ -1890,28 +1692,27 @@ südlich der Gieselauschleuse befindlichen Liegestelle festmachen.
 ## Achter Abschnitt - Aufgaben und Zuständigkeiten der Behörden der Wasserstraßen- und Schifffahrtsverwaltung des Bundes
 
 
-
 ### § 55 Schifffahrtspolizei
 
 (1) Schifffahrtspolizeibehörden sind die Generaldirektion
-Wasserstraßen und Schifffahrt sowie die ihr nachgeordneten, für die
-Seeschifffahrtsstraßen zuständigen Wasserstraßen- und
+Wasserstraßen und Schifffahrt sowie die ihr nachgeordneten,
+für die Seeschifffahrtsstraßen zuständigen Wasserstraßen- und
 Schifffahrtsämter; sie bedienen sich nach Maßgabe der Vereinbarungen
 zwischen dem Bund und den Ländern über die Ausübung der
-schifffahrtspolizeilichen Vollzugsaufgaben der Wasserschutzpolizei der
-Küstenländer sowie nach Maßgabe des § 3 Absatz 2 des
+schifffahrtspolizeilichen Vollzugsaufgaben der Wasserschutzpolizei
+der Küstenländer sowie nach Maßgabe des § 3 Absatz 2 des
 Seeaufgabengesetzes der Bundespolizei und der Zollverwaltung.
 
 (2) Örtliche Maßnahmen der Schifffahrtspolizei treffen die
-Wasserstraßen- und Schifffahrtsämter. Wenn sich eine Maßnahme über den
-Bezirk eines Wasserstraßen- und Schifffahrtsamtes hinaus auswirkt, ist
-dasjenige Amt zuständig, in dessen Bezirk der zu regelnde Sachverhalt
-zuerst eintritt. Die Generaldirektion Wasserstraßen und Schifffahrt
-kann abweichend hiervon die Zuständigkeit für bestimmte
+Wasserstraßen- und Schifffahrtsämter. Wenn sich eine Maßnahme über
+den Bezirk eines Wasserstraßen- und Schifffahrtsamtes hinaus auswirkt,
+ist dasjenige Amt zuständig, in dessen Bezirk der zu regelnde
+Sachverhalt zuerst eintritt. Die Generaldirektion Wasserstraßen und
+Schifffahrt kann abweichend hiervon die Zuständigkeit für bestimmte
 schifffahrtspolizeiliche Aufgaben auf einer Seeschifffahrtsstraße
-einem bestimmten Wasserstraßen- und Schifffahrtsamt übertragen. Ist
-eine Maßnahme von grundsätzlicher Bedeutung, trifft sie die
-Generaldirektion Wasserstraßen und Schifffahrt.
+einem bestimmten Wasserstraßen- und Schifffahrtsamt übertragen.
+Ist eine Maßnahme von grundsätzlicher Bedeutung, trifft
+sie die Generaldirektion Wasserstraßen und Schifffahrt.
 Schifffahrtspolizeiliche Maßnahmen, die keinen Aufschub dulden, können
 auch von der Wasserschutzpolizei getroffen werden.
 
@@ -1924,17 +1725,11 @@ Verkehrssicherung für folgende Maßnahmen zuständig:
 
 1.  Verkehrsinformationen,
 
-
 2.  Verkehrsunterstützungen,
-
 
 3.  Verkehrsregelungen und
 
-
 4.  Verkehrslenkung auf dem Nord-Ostsee-Kanal.
-
-
-
 
 
 ### § 56 Schiffahrtspolizeiliche Verfügungen
@@ -1955,20 +1750,17 @@ vor.
 (1) Einer schiffahrtspolizeilichen Genehmigung des nach § 55 Absatz 2
 zuständigen Wasserstraßen- und Schifffahrtsamtes bedürfen
 
-1.  der Verkehr von außergewöhnlich großen Fahrzeugen, von Luftkissen-,
-    Tragflächen- und Bodeneffektfahrzeugen, von
+1.  der Verkehr von außergewöhnlich großen Fahrzeugen, von
+    Luftkissen-, Tragflächen- und Bodeneffektfahrzeugen, von
     Hochgeschwindigkeitsfahrzeugen sowie von Wasserflugzeugen und
     Flugbooten, außerhalb von genehmigten Flugplätzen nach § 6 des
     Luftverkehrsgesetzes und von Außenstart- und -landegeländen nach § 25
     des Luftverkehrsgesetzes,
 
-
 2.  der Verkehr außergewöhnlicher Schub- und Schleppverbände sowie das
     Schleppen außergewöhnlicher Schwimmkörper,
 
-
 3.  Stapelläufe,
-
 
 4.  die Bergung von Fahrzeugen, außergewöhnlichen Schwimmkörpern und
     Gegenständen, soweit dadurch die Sicherheit und Leichtigkeit des
@@ -1976,24 +1768,17 @@ zuständigen Wasserstraßen- und Schifffahrtsamtes bedürfen
     entstehen kann; dies gilt nicht, wenn die Bergung durch die
     Schiffahrtspolizeibehörde angeordnet worden ist,
 
-
 5.  die Erprobung und die Prüfung der Zugkraft von Fahrzeugen sowie
     Standproben, die die Sicherheit und Leichtigkeit des Verkehrs
     beeinträchtigen können,
 
-
 6.  wassersportliche Veranstaltungen auf dem Wasser,
 
-
 6a. Parasailing,
-
 
 7.  sonstige Veranstaltungen auf oder an Seeschiffahrtsstraßen, die die
     Sicherheit und Leichtigkeit des Verkehrs beeinträchtigen oder eine
     Gefahr für die Meeresumwelt darstellen können.
-
-
-
 
 (2) Die Genehmigung ist rechtzeitig zu beantragen.
 
@@ -2003,91 +1788,66 @@ werden, die
 a)  eine Beeinträchtigung der Sicherheit und Leichtigkeit des Verkehrs
     verhüten und ausgleichen oder
 
-
 b)  die von der Schiffahrt ausgehenden schädlichen Umwelteinwirkungen im
     Sinne des Bundes-Immissionsschutzgesetzes verhindern oder
 
-
 c)  die eine Gefahr für die Meeresumwelt verhindern oder beseitigen.
-
-
 
 Die Genehmigung wird für eine bestimmte angemessene Frist erteilt.
 
 
 ### § 58 Schiffahrtspolizeiliche Meldungen
 
-(1) Die Führer von Fahrzeugen, Schub- und Schleppverbänden, die die
-nach § 60 Abs. 1 bekannt gemachten Abmessungen und Größen
+(1) Die Führer von Fahrzeugen, Schub- und Schleppverbänden, die
+die nach § 60 Abs. 1 bekannt gemachten Abmessungen und Größen
 überschreiten, sowie von Fahrzeugen im Sinne des § 30 Abs. 1 haben der
 nach § 60 Abs. 1 bekannt gemachten Verkehrszentrale folgende Angaben
 zu melden:
 
-1.  soweit die Meldung der nachfolgenden Angaben nicht schon nach § 1 Abs.
-    1 in Verbindung mit Nummer 2.6 der Anlage zu § 1 Abs. 1 der
-    Anlaufbedingungsverordnung vorgenommen worden ist, rechtzeitig vor dem
-    Befahren der nach § 60 Abs. 1 bekannt gemachten
+1.  soweit die Meldung der nachfolgenden Angaben nicht schon nach
+    § 1 Abs. 1 in Verbindung mit Nummer 2.6 der Anlage zu § 1
+    Abs. 1 der Anlaufbedingungsverordnung vorgenommen worden ist,
+    rechtzeitig vor dem Befahren der nach § 60 Abs. 1 bekannt gemachten
     Seeschifffahrtsstraßen:
 
     a)  Name, Unterscheidungssignal, gegebenenfalls IMO-
         Schiffsidentifikationsnummer oder Maritime Mobile Service Identity
         (MMSI)-Nummer und Art des Fahrzeugs,
 
-
     b)  Position des Fahrzeugs,
-
 
     c)  Länge, Breite und aktueller Frischwassertiefgang des Fahrzeugs in
         Metern,
 
-
     d)  letzter Auslauf- und nächster Anlaufhafen,
-
 
     e)  Angabe, ob Massengüter im Sinne des § 30 Abs. 1 Nr. 1 befördert werden
         und, wenn dies zutrifft, Angabe der Ladungsart und -menge und der UN-
         Nummer, oder ob solche Güter befördert worden sind und danach die
         Tanks nicht gereinigt und entgast oder vollständig inertisiert sind,
 
-
     f)  Angabe, ob gefährliche oder umweltschädliche Güter im Sinne der Anlage
         zu § 1 Abs. 1 der Anlaufbedingungsverordnung befördert werden,
 
-
     g)  Erklärung, ob Mängel an Schiff oder Ladung vorliegen und
 
-
     h)  Gesamtzahl der Personen an Bord;
-
-
-
-
 
 2.  während der weiteren Fahrt bei den nach § 60 Abs. 1 bekannt gemachten
     Positionen:
 
     a)  Name und Unterscheidungssignal des Fahrzeugs,
 
-
     b)  Position des Fahrzeugs,
-
 
     c)  Geschwindigkeit des Fahrzeugs und
 
-
     d)  Passierzeit des Fahrzeugs;
-
-
-
-
 
 3.  Unterbrechung und Fortsetzung der Fahrt.
 
-
-
-
-(2) Nach Abgabe der ersten Meldung muss der Führer eines Fahrzeugs im
-Sinne des Absatzes 1 ständig über UKW-Sprechfunk auf den nach § 60
+(2) Nach Abgabe der ersten Meldung muss der Führer eines Fahrzeugs
+im Sinne des Absatzes 1 ständig über UKW-Sprechfunk auf den nach § 60
 Abs. 1 bekannt gemachten UKW-Kanälen und, wenn technisch durchführbar,
 auf UKW-Kanal 16 ansprechbar sein.
 
@@ -2109,8 +1869,8 @@ Verordnung im Einzelfall befreien.
 (1) Die Generaldirektion Wasserstraßen und Schifffahrt wird
 ermächtigt, die in den vorstehenden Vorschriften vorgesehenen
 Bekanntmachungen zu erlassen, wenn und soweit dies zur Abwehr von
-Gefahren für die Sicherheit und Leichtigkeit des Verkehrs, zur Abwehr
-von Gefahren für die Meeresumwelt oder zur Verhütung von der
+Gefahren für die Sicherheit und Leichtigkeit des Verkehrs, zur
+Abwehr von Gefahren für die Meeresumwelt oder zur Verhütung von der
 Schifffahrt ausgehender schädlicher Umwelteinwirkungen im Sinne des
 Bundes-Immissionsschutzgesetzes erforderlich ist. Die Bekanntmachungen
 sind im Bundesanzeiger zu veröffentlichen.
@@ -2121,23 +1881,22 @@ und zivilen Übungs- und Sperrgebieten sowie über das dadurch bedingte
 Verhalten von Fahrzeugen zu erlassen.
 
 (3) Die Generaldirektion Wasserstraßen und Schifffahrt wird
-ermächtigt, durch Rechtsverordnung Anordnungen vorübergehender Art mit
-einer Geltungsdauer von höchstens drei Jahren zu erlassen, die aus
-besonderen Anlässen für die Sicherheit und Leichtigkeit des Verkehrs
-auf den Seeschifffahrtsstraßen, zur Abwehr von Gefahren für die
-Meeresumwelt oder zur Verhütung von der Schifffahrt ausgehender
-schädlicher Umwelteinwirkungen im Sinne des Bundes-
-Immissionsschutzgesetzes erforderlich werden. Die Rechtsverordnungen
-können insbesondere veranlasst sein durch Arbeiten in der
-Wasserstraße, öffentliche Veranstaltungen oder durch die
-Fahrwasserverhältnisse. Satz 1 ist auch auf Rechtsverordnungen
+ermächtigt, durch Rechtsverordnung Anordnungen vorübergehender
+Art mit einer Geltungsdauer von höchstens drei Jahren zu
+erlassen, die aus besonderen Anlässen für die Sicherheit und
+Leichtigkeit des Verkehrs auf den Seeschifffahrtsstraßen, zur
+Abwehr von Gefahren für die Meeresumwelt oder zur Verhütung von
+der Schifffahrt ausgehender schädlicher Umwelteinwirkungen im
+Sinne des Bundes-Immissionsschutzgesetzes erforderlich werden.
+Die Rechtsverordnungen können insbesondere veranlasst sein durch
+Arbeiten in der Wasserstraße, öffentliche Veranstaltungen oder durch
+die Fahrwasserverhältnisse. Satz 1 ist auch auf Rechtsverordnungen
 anzuwenden, die notwendig sind, um bis zu einer Änderung dieser
 Verordnung oder zu Versuchszwecken schifffahrtspolizeiliche Maßnahmen
 zu treffen.
 
 
 ## Neunter Abschnitt - Bußgeld- und Schlußvorschriften
-
 
 
 ### § 61 Ordnungswidrigkeiten
@@ -2151,55 +1910,43 @@ fahrlässig
     geschädigt, gefährdet oder mehr, als nach den Umständen unvermeidbar,
     behindert oder belästigt wird,
 
-
-1a. entgegen § 3 Abs. 3 ein Fahrzeug führt oder eine andere Tätigkeit des
-    Brücken-, Decks- oder Maschinendienstes ausübt, mit einem
-    Wassermotorrad, einem Kite- oder einem Segelsurfbrett fährt, obwohl er
-    infolge körperlicher oder geistiger Mängel oder des Genusses
+1a. entgegen § 3 Abs. 3 ein Fahrzeug führt oder eine andere Tätigkeit
+    des Brücken-, Decks- oder Maschinendienstes ausübt, mit einem
+    Wassermotorrad, einem Kite- oder einem Segelsurfbrett fährt, obwohl
+    er infolge körperlicher oder geistiger Mängel oder des Genusses
     alkoholischer Getränke oder anderer berauschender Mittel in der
     sicheren Führung des Fahrzeuges oder in der sicheren Ausübung der
     Tätigkeiten des Brücken-, Decks- oder Maschinendienstes behindert ist,
 
-
-1b. entgegen § 3 Abs. 4 ein Fahrzeug führt oder eine andere Tätigkeit des
-    Brücken-, Decks- oder Maschinendienstes ausübt, mit einem
-    Wassermotorrad, einem Kite- oder einem Segelsurfbrett fährt, obwohl er
-    0,25 mg/l oder mehr Alkohol in der Atemluft oder 0,5 Promille oder
-    mehr Alkohol im Blut oder eine Alkoholmenge im Körper hat, die zu
-    einer solchen Atem- oder Blutalkoholkonzentration führt,
-
+1b. entgegen § 3 Absatz 4 Satz 1, auch in Verbindung mit Satz 4, ein
+    Fahrzeug führt, eine dort genannte Tätigkeit ausübt oder mit einem
+    Wassermotorrad oder einem Kite- oder Surfbrett fährt,
 
 1c. entgegen § 3 Abs. 5 während der Fahrt alkoholische Getränke zu sich
     nimmt oder bei Dienstantritt unter der Wirkung solcher Getränke steht,
-
 
 2.  der Vorschrift des § 4 Abs. 2 über die Beratung der Schiffsführung
     oder des Absatzes 4 über die Bestimmung des verantwortlichen
     Fahrzeugführers zuwiderhandelt,
 
-
 3.  entgegen § 5 Abs. 2 eine durch ein Gebots- oder Verbotszeichen
     getroffene Anordnung nicht befolgt,
 
-
 4.  entgegen § 5 Abs. 3 Schiffahrtszeichen beschädigt oder in ihrer
     Erkennbarkeit beeinträchtigt,
-
 
 5.  einer Vorschrift des § 6 über den Gebrauch der Sichtzeichen,
     Schallsignale, Laternen, Leuchten oder Scheinwerfer, über die
     Ausrüstung mit Schallsignalanlagen oder die Gewährleistung ihrer
     Wirksamkeit oder Betriebssicherheit zuwiderhandelt,
 
-
 6.  einer Vorschrift des § 8 über das Mitführen oder Anbringen, den
     Sichtbereich, die Tragweite oder die Beschaffenheit der Sichtzeichen
     zuwiderhandelt,
 
-
 7.  entgegen § 9 Abs. 1 Satz 1 Positionslaternen oder Schallsignalanlagen
-    verwendet, die vom Bundesamt für Seeschiffahrt und Hydrographie nicht
-    zugelassen sind, entgegen Absatz 1 Satz 2 für eine sachgemäße
+    verwendet, die vom Bundesamt für Seeschiffahrt und Hydrographie
+    nicht zugelassen sind, entgegen Absatz 1 Satz 2 für eine sachgemäße
     Instandsetzung oder Ersatz nicht oder nicht rechtzeitig sorgt,
     entgegen Absatz 2 Satz 1 nichtelektrische Positionslaternen verwendet,
     entgegen Absatz 4 Satz 1 andere als die dort aufgeführten oder nach
@@ -2207,74 +1954,58 @@ fahrlässig
     oder entgegen Absatz 4 Satz 2 für eine sachgemäße Instandsetzung oder
     Ersatz nicht oder nicht rechtzeitig sorgt,
 
-
 8.  einer Vorschrift des § 10 Abs. 1, 2 und 5 über das Führen von
     Sichtzeichen oder dem Fahrverbot nach Absatz 3 zuwiderhandelt,
-
 
 9.  einer Vorschrift der §§ 21 bis 26 über das Rechtsfahrgebot, Überholen
     oder Begegnen, die Vorfahrt, die Fahrgeschwindigkeit, den Abstand oder
     das sofortige Fallen der Buganker zuwiderhandelt,
 
-
 10. einer Vorschrift des § 27 über das Schleppen oder Schieben
     zuwiderhandelt,
-
 
 11. einer Vorschrift des § 28 oder des § 29 über das Durchfahren von
     Brücken, Sperrwerken oder Schleusen zuwiderhandelt,
 
-
 12. entgegen § 30 eine dort genannte Seeschiffahrtsstraße oder
     Wasserfläche befährt,
-
 
 13. einer Vorschrift des § 31 Abs. 1 Satz 1 oder 2, Abs. 2 oder 3 über das
     Wasserskilaufen, das Schleppen von Wassersportanhängen das Fahren mit
     Wassermotorrädern oder das Kite- oder Segelsurfen zuwiderhandelt,
 
-
 14. einer Vorschrift der §§ 32 bis 34 über das Ankern, Anlegen, Festmachen
     oder über den Umschlag zuwiderhandelt,
 
-
-15. einer Vorschrift des § 35 über das Ankern, Festmachen, Einhalten eines
-    Sicherheitsabstandes, das Vorhandensein von Einrichtungen zum Schutz
-    vor Funkenflug beim Vorbeifahren von und an Fahrzeugen, die bestimmte
-    gefährliche Güter befördern, das Längsseitsliegen an solchen
+15. einer Vorschrift des § 35 über das Ankern, Festmachen, Einhalten
+    eines Sicherheitsabstandes, das Vorhandensein von Einrichtungen zum
+    Schutz vor Funkenflug beim Vorbeifahren von und an Fahrzeugen, die
+    bestimmte gefährliche Güter befördern, das Längsseitsliegen an solchen
     Fahrzeugen oder das Verholen zuwiderhandelt,
-
 
 16. einer Vorschrift des § 36 über den Umschlag bestimmter gefährlicher
     Güter oder die Anzeige des Umschlags zuwiderhandelt,
 
-
-17. einer Vorschrift des § 37 über das Verhalten bei Schiffsunfällen oder
-    den Verlust von Gegenständen sowie über das Benachrichtigen bei
+17. einer Vorschrift des § 37 über das Verhalten bei Schiffsunfällen
+    oder den Verlust von Gegenständen sowie über das Benachrichtigen bei
     Bränden oder sonstigen, die Sicherheit und Leichtigkeit des Verkehrs
     gefährdenden Vorkommnissen zuwiderhandelt,
-
 
 18. einer Vorschrift des § 38 über das Fischen, Schießen oder Jagen
     zuwiderhandelt,
 
-
 19. einer Vorschrift des § 39 über die Fahrgastschiffahrt oder den
     Fährbetrieb zuwiderhandelt,
 
-
 19a. entgegen § 40 Satz 1 als Schiffsführer nicht dafür sorgt, dass sich
-    ein Abdruck der dort genannten Verordnungen an Bord befindet,
-
+     ein Abdruck der dort genannten Verordnungen an Bord befindet,
 
 20. den Nord-Ostsee-Kanal mit einem Fahrzeug befährt, das die
     Voraussetzungen nach § 42 Abs. 1 nicht erfüllt,
 
-
 21. einer Vorschrift des § 42 Abs. 2 über das Einhalten der
     Geschwindigkeit von Schleppverbänden oder die Besetzung von Anhängen
     zuwiderhandelt,
-
 
 22. entgegen § 42 Abs. 3 Satz 1 die Anzeige nicht oder nicht rechtzeitig
     erstattet, entgegen Absatz 3 Satz 3 die schriftliche Erklärung nicht
@@ -2282,67 +2013,49 @@ fahrlässig
     oder Staupläne während der Kanalfahrt nicht griffbereit auf der Brücke
     vorhält,
 
-
 23. einer Vorschrift des § 42 Abs. 4 über die Bedienung des Ruders oder
     des Absatzes 5 über die Annahme von Steurern zuwiderhandelt,
-
 
 24. entgegen der Anordnung nach § 42 Abs. 6 den Nord-Ostsee-Kanal befährt
     oder die Auflagen nicht erfüllt,
 
-
 25. entgegen § 42 Abs. 7 an dort nicht aufgeführten Stellen aus anderen
     als verkehrsbedingten Gründen liegt,
 
-
-26. einer Vorschrift des § 43 über die An- oder Abmeldung, den Antritt
-    oder die Fortsetzung der Fahrt durch den Nord-Ostsee-Kanal
+26. einer Vorschrift des § 43 über die An- oder Abmeldung, den
+    Antritt oder die Fortsetzung der Fahrt durch den Nord-Ostsee-Kanal
     zuwiderhandelt,
 
-
 27. entgegen § 45 Satz 1 die Zufahrten des Nord-Ostsee-Kanals benutzt,
-
 
 28. einer Vorschrift des § 46 über die Vorfahrt beim Ein- oder Auslaufen
     im Bereich der Schleusen des Nord-Ostsee-Kanals zuwiderhandelt,
 
-
 29. einer Vorschrift des § 47 über das Verbot des Ein- oder Auslaufens im
     Bereich der Schleusen des Nord-Ostsee-Kanals zuwiderhandelt,
 
-
 30. entgegen § 48 den Fahrabstand nicht einhält,
-
 
 31. einer Vorschrift des § 49 über das Verhalten in den Weichengebieten
     des Nord-Ostsee-Kanals zuwiderhandelt,
 
-
-32. einer Vorschrift des § 50 oder des § 51 über Fahrregeln auf dem Nord-
-    Ostsee-Kanal für Freifahrer, Schub- oder Schleppverbände oder
+32. einer Vorschrift des § 50 oder des § 51 über Fahrregeln auf dem
+    Nord-Ostsee-Kanal für Freifahrer, Schub- oder Schleppverbände oder
     Sportfahrzeuge zuwiderhandelt,
-
 
 33. einer Vorschrift des § 53 über Fahrregeln oder Festmachen auf dem
     Gieselaukanal zuwiderhandelt,
 
-
 34. einer vollziehbaren Anordnung nach § 56 Abs. 1 zuwiderhandelt,
-
 
 35. ohne die nach § 57 Abs. 1 erforderliche Genehmigung tätig wird,
 
-
 36. einer vollziehbare Auflage nach § 57 Abs. 3 zuwiderhandelt oder
 
-
-37. entgegen § 58 Abs. 1 oder 3 eine Meldung nicht, nicht richtig, nicht
-    vollständig, nicht in der vorgeschriebenen Weise oder nicht
+37. entgegen § 58 Abs. 1 oder 3 eine Meldung nicht, nicht richtig,
+    nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht
     rechtzeitig abgibt oder entgegen § 58 Abs. 2 nicht ständig über UKW-
     Sprechfunk ansprechbar ist.
-
-
-
 
 (2) Die Zuständigkeit für die Verfolgung und Ahndung von
 Ordnungswidrigkeiten nach Absatz 1 wird auf die Generaldirektion
@@ -2381,22 +2094,15 @@ Seeschiffahrtsstraßen-Ordnung.
 
     -   Flaggenzeichen,
 
-
     -   Tafelzeichen (u. U. mit Zusatzzeichen),
-
 
     -   Körperzeichen,
 
-
     -   Feuer,
-
 
     -   Lichtsignale,
 
         die Gebote, Verbote, Warnungen und Hinweise geben.
-
-
-
 
     Außer den abgebildeten Warnzeichen und Hinweiszeichen B.1 bis B.17
     können weitere derartige Sichtzeichen durch Bekanntmachung der
@@ -2406,7 +2112,6 @@ Seeschiffahrtsstraßen-Ordnung.
 
         Es werden einfarbige Flaggen (rot, grün) oder Flaggen des
         Internationalen Signalbuches verwendet.
-
 
     b)  Tafelzeichen
 
@@ -2419,7 +2124,6 @@ Seeschiffahrtsstraßen-Ordnung.
             dienenden Bauwerk angebracht sein. Die Tafel kann im Einzelfall
             dadurch ersetzt sein, daß das Schiffahrtszeichen auf einem beliebigen
             Untergrund aufgetragen ist.
-
 
         (2) Die Tafelzeichen sind entsprechend ihrer Aussage Gebotszeichen,
             Verbotszeichen, Warnzeichen und Hinweiszeichen, die mit wenigen
@@ -2442,16 +2146,12 @@ Seeschiffahrtsstraßen-Ordnung.
             zum Teil mit einem Symbol, durch die auf besondere Verhältnisse oder
             Anlagen der Seeschiffahrtsstraße hingewiesen wird;
 
-
-
-
-
     c)  Zusatzzeichen
 
         für Entfernungsangaben
 
-        rechteckige weiße Tafel über dem zu ergänzenden Schiffahrtszeichen mit
-        der Angabe der Entfernung, in der dieses, von seinem Standort aus
+        rechteckige weiße Tafel über dem zu ergänzenden Schiffahrtszeichen
+        mit der Angabe der Entfernung, in der dieses, von seinem Standort aus
         gemessen, Geltung hat;
 
         ... (Abb.)
@@ -2472,144 +2172,93 @@ Seeschiffahrtsstraßen-Ordnung.
 
         ... (Abb.)
 
-
     d)  Körperzeichen
 
         sind
 
         -   Tonnen, Pricken, Stangen, Bälle, Kegel, Zylinder.
 
-
-
-
-
     e)  Feuer
 
         Es werden verwendet
 
-        -   Festfeuer (F/F.)
-            ... (Abb.)
-
+        -   Festfeuer (F/F.) ... (Abb.)
 
         -   Unterbrochenes Feuer
 
-            mit Einzelunterbrechung (Oc/Ubr.)
-            ... (Abb.)
+            mit Einzelunterbrechung (Oc/Ubr.) ... (Abb.)
 
             oder
 
-            mit Gruppen von 2 Unterbrechungen (Oc
-            2                               /Ubr.
-            2                               )
-            ... (Abb.)
+            mit Gruppen von 2 Unterbrechungen (Oc 2/Ubr. 2) ... (Abb.)
 
             oder
 
-            mit Gruppen von 3 Unterbrechungen (Oc
-            3                               /Ubr.
-            3                               )
-            ... (Abb.)
+            mit Gruppen von 3 Unterbrechungen (Oc 3/Ubr. 3) ... (Abb.)
 
-
-        -   Gleichtaktfeuer (Iso/Glt.)
-            ... (Abb.)
-
+        -   Gleichtaktfeuer (Iso/Glt.) ... (Abb.)
 
         -   Blitzfeuer
 
-            mit Einzelblitzen (Fl./Blz.)
-            ... (Abb.) oder
+            mit Einzelblitzen (Fl./Blz.) ... (Abb.) oder
 
-            mit Gruppen von 2 Blitzen (Fl.
-            2                               /Blz.
-            2                               )
-            ... (Abb.)
+            mit Gruppen von 2 Blitzen (Fl. 2/Blz. 2) ... (Abb.)
 
             oder
 
-            mit Gruppen von 2 + 1 Blitzen (Fl. <2 + 1>/Blz. <2 + 1>)
-            ... (Abb.)
+            mit Gruppen von 2 + 1 Blitzen (Fl. <2 + 1>/Blz. <2 + 1>) ... (Abb.)
 
             oder
 
-            mit Gruppen von 5 Blitzen (Fl.
-            5                               /Blz.
-            5                               )
-            ... (Abb.)
-
+            mit Gruppen von 5 Blitzen (Fl. 5/Blz. 5) ... (Abb.)
 
         -   Funkelfeuer
 
-            mit dauerndem Funkeln (Q/Fkl.)
-            ... (Abb.)
+            mit dauerndem Funkeln (Q/Fkl.) ... (Abb.)
 
             oder
 
-            mit Gruppen von 3 Funkeln (Q
-            3                               /Fkl.
-            3                               )
-            ... (Abb.)
+            mit Gruppen von 3 Funkeln (Q 3/Fkl. 3) ... (Abb.)
 
             oder
 
-            mit Gruppen von 9 Funkeln (Q
-            9                               /Fkl.
-            9                               )
-            ... (Abb.)
+            mit Gruppen von 9 Funkeln (Q 9/Fkl. 9) ... (Abb.)
 
             oder
 
-            mit Gruppen von 6 Funkeln und 1 Blink (Q
-            6                                +LFI/Fkl.
-            6                                + Blk.)
-            ... (Abb.)
+            mit Gruppen von 6 Funkeln und 1 Blink (Q 6 +LFI/Fkl. 6 + Blk.) ...
+            (Abb.)
 
             oder
 
-            mit Unterbrechungen (IQ/Fkl. unt.)
-            ... (Abb.)
-
+            mit Unterbrechungen (IQ/Fkl. unt.) ... (Abb.)
 
         -   Schnelles Funkelfeuer
 
-            mit dauerndem schnellen Funkel (VQ/SFkl.)
-            ... (Abb.)
+            mit dauerndem schnellen Funkel (VQ/SFkl.) ... (Abb.)
 
             oder
 
-            mit Gruppen von 3 schnellen Funkeln (VQ
-            3                               /SFkl.
-            3                               )
-            ... (Abb.)
+            mit Gruppen von 3 schnellen Funkeln (VQ 3/SFkl. 3) ... (Abb.)
 
             oder
 
-            mit Gruppen von 9 schnellen Funkeln (VQ
-            9                               /SFkl.
-            9                               )
-            ... (Abb.)
+            mit Gruppen von 9 schnellen Funkeln (VQ 9/SFkl. 9) ... (Abb.)
 
             oder
 
-            mit Gruppen von 6 schnellen Funkeln und 1 Blink (VQ
-            6                                + LFI/SFkl.
-            6                                + Blk.)
-            ... (Abb.)
+            mit Gruppen von 6 schnellen Funkeln und 1 Blink (VQ 6 + LFI/SFkl. 6 +
+            Blk.) ... (Abb.)
 
             oder
 
-            mit Unterbrechungen (IVQ/SFkl. unt.)
-            ... (Abb.)
-
-
-
+            mit Unterbrechungen (IVQ/SFkl. unt.) ... (Abb.)
 
         Ein Funkelfeuer wird mit 60 Lichterscheinungen/Minute und ein
         schnelles Funkelfeuer mit 100 bis 120 Lichterscheinungen/Minute
         ausgesendet. Ein Blinken wird als Lichterscheinung von mehr als 2
         Sekunden Dauer sichtbar. In den Klammern ist für jede Kennung die
         englische/deutsche Abkürzung genannt.
-
 
     f)  Lichtsignale
 
@@ -2623,25 +2272,19 @@ Seeschiffahrtsstraßen-Ordnung.
 
             -   Fahrverbot
 
-                ein rotes oder zwei rote Lichter neben- oder übereinander, die nach
-                Anzahl oder Anordnung für verschiedene Fahrzeugarten eine
+                ein rotes oder zwei rote Lichter neben- oder übereinander, die
+                nach Anzahl oder Anordnung für verschiedene Fahrzeugarten eine
                 unterschiedliche Aussage darstellen können;
-
 
             -   Fahrgebot
 
                 ein grünes Licht oder zwei grüne Lichter nebeneinander, die
                 verschiedene Aussagen darstellen können;
 
-
             -   Fahrverbot oder Fahrgebot unter einschränkenden Bedingungen
 
                 weiße Zusatzlichter über den roten oder grünen Lichtern, die je nach
                 Anzahl unterschiedliche einschränkende Aussagen darstellen können.
-
-
-
-
 
         (2) Kennungen der Signallichter
 
@@ -2663,13 +2306,6 @@ Seeschiffahrtsstraßen-Ordnung.
 
             ... (Abb.)
 
-
-
-
-
-
-
-
 2.  **Schallsignale**
 
     **Verwendung der Schallsignale**
@@ -2682,14 +2318,9 @@ Seeschiffahrtsstraßen-Ordnung.
 
     -   Gebotssignale
 
-
     -   Verbotssignale
 
-
     -   Hinweissignale
-
-
-
 
     **Zeitmaße der Schallsignale**
 
@@ -2700,28 +2331,19 @@ Seeschiffahrtsstraßen-Ordnung.
 
     **Darstellung der Schallsignale**
 
-    1 langer Ton
-    ... (Abb.)
+    1 langer Ton ... (Abb.)
 
-    1 kurzer Ton
-    ... (Abb.)
+    1 kurzer Ton ... (Abb.)
 
-    Glockenschlag
-    ... (Abb.)
+    Glockenschlag ... (Abb.)
 
-    Rasches Läuten der Glocke
-    ... (Abb.)
-
-
-
+    Rasches Läuten der Glocke ... (Abb.)
 
 Abschnitt I - Sichtzeichen
 
-*
-    A.  Gebots- und Verbotszeichen ****
+-   A.  **Gebots- und Verbotszeichen**
 
-
-    **A.1** **Überholverbot**
+    A.1 **Überholverbot**
 
         a)  für alle Fahrzeuge
 
@@ -2730,17 +2352,12 @@ Abschnitt I - Sichtzeichen
 
             ... (Abb.) (Fundstelle: BGBl. I 1998, 2921)
 
-
         b)  für Schleppverbände
 
             rechteckige weiße Tafeln mit rotem Rand, rotem Schrägstrich und zwei
             senkrechten schwarzen Doppelpfeilen - Spitzen nach oben.
 
             ... (Abb.)
-
-
-
-
 
     A.2 **Begegnungsverbot an Engstellen**
 
@@ -2752,18 +2369,16 @@ Abschnitt I - Sichtzeichen
 
         ... (Abb.)
 
-
     A.3 **Geschwindigkeitsbeschränkung**
 
-        Verbot, die angegebene Geschwindigkeit in der nachfolgenden Strecke zu
-        überschreiten:
+        Verbot, die angegebene Geschwindigkeit in der nachfolgenden Strecke
+        zu überschreiten:
 
         quadratische weiße Tafel mit rotem Rand und schwarzer Zahl, die die
         zulässige Höchstgeschwindigkeit durch das Wasser, auf dem Nord-Ostsee-
         Kanal über Grund, in Kilometern pro Stunde angibt (Beispiel: 12 km/h).
 
         ... (Abb.)
-
 
     A.4 **Geschwindigkeitsbeschränkung wegen Gefährdung durch Sog oder
         Wellenschlag**
@@ -2785,7 +2400,6 @@ Abschnitt I - Sichtzeichen
 
         ... (Abb.)
 
-
     A.5 **Geschwindigkeitsbeschränkung vor Stellen mit Badebetrieb**
 
         Verbot, vor Stellen mit erkennbarem Badebetrieb außerhalb des
@@ -2796,7 +2410,6 @@ Abschnitt I - Sichtzeichen
         Stangen mit einem gelben liegenden Kreuz.
 
         ... (Abb.)
-
 
     A.6 **Einhalten eines Fahrabstandes**
 
@@ -2811,7 +2424,6 @@ Abschnitt I - Sichtzeichen
 
         ... (Abb.)
 
-
     A.7 **Anhalten vor beweglichen Brücken, Sperrwerken und Schleusen**
 
         Gebot, vor beweglichen Brücken, Sperrwerken und Schleusen vor der
@@ -2822,11 +2434,10 @@ Abschnitt I - Sichtzeichen
 
         ... (Abb.)
 
-
     A.8 **Ankerverbot**
 
-        Verbot, in einem Abstand von weniger als 300 m beiderseits der Linie,
-        die die Tafeln verbindet oder die die Verlängerung der
+        Verbot, in einem Abstand von weniger als 300 m beiderseits der
+        Linie, die die Tafeln verbindet oder die die Verlängerung der
         Verbindungslinie von Oberbake und Unterbake der Tafel an einem Ufer
         bildet, zu ankern und Anker, Trossen oder Ketten schleifen zu lassen
         (bei Entfernungs- und Streckenangaben nach Nr. 1c der Vorbemerkung
@@ -2845,7 +2456,6 @@ Abschnitt I - Sichtzeichen
 
         ... (Abb.)
 
-
     A.9 **Festmacheverbot**
 
         Verbot, in der nachfolgenden Strecke an dem Ufer festzumachen, an dem
@@ -2856,644 +2466,487 @@ Abschnitt I - Sichtzeichen
 
         ... (Abb.)
 
-
     A.10 **Liegeverbot**
 
-        Verbot, in der nachfolgenden Strecke auf der Seite der
-        Seeschiffahrtsstraße liegen zu bleiben (ankern oder festmachen), auf
-        der das Zeichen steht:
+         Verbot, in der nachfolgenden Strecke auf der Seite der
+         Seeschiffahrtsstraße liegen zu bleiben (ankern oder festmachen), auf
+         der das Zeichen steht:
 
-        quadratische weiße Tafel mit rotem Rand, rotem Schrägstrich und einem
-        schwarzen "P".
+         quadratische weiße Tafel mit rotem Rand, rotem Schrägstrich und einem
+         schwarzen "P".
 
-        ... (Abb.)
-
+         ... (Abb.)
 
     A.11 **Einhalten einer Fahrtrichtung**
 
-        Gebot, die durch den Pfeil angezeigte Richtung einzuschlagen:
+         Gebot, die durch den Pfeil angezeigte Richtung einzuschlagen:
 
-        rechteckige weiße Tafel mit rotem Rand und waagerechtem schwarzen
-        Pfeil.
+         rechteckige weiße Tafel mit rotem Rand und waagerechtem schwarzen
+         Pfeil.
 
-        ... (Abb.)
-
+         ... (Abb.)
 
     A.12 **Abgabe von Schallsignalen**
 
-        Gebot, an dieser Stelle das in der zusätzlichen Tafel angegebene
-        Schallsignal zu geben:
+         Gebot, an dieser Stelle das in der zusätzlichen Tafel angegebene
+         Schallsignal zu geben:
 
-        quadratische weiße Tafel mit rotem Rand und einem schwarzen Punkt.
+         quadratische weiße Tafel mit rotem Rand und einem schwarzen Punkt.
 
-        ... (Abb.) (Fundstelle: BGBl. I 1998, 2924)
-
+         ... (Abb.) (Fundstelle: BGBl. I 1998, 2924)
 
     A.13 **Anhalten in Schleusen**
 
-        Gebot, vor den Tafeln an den Schleusenmauern anzuhalten, solange die
-        Ausfahrt aus der Schleuse nicht freigegeben ist:
+         Gebot, vor den Tafeln an den Schleusenmauern anzuhalten, solange die
+         Ausfahrt aus der Schleuse nicht freigegeben ist:
 
-        senkrechter gelber Streifen an den Schleusenmauern vor den
-        Schleusentoren vom Wasserspiegel bis zur Schleusenplattform, der auf
-        der Schleusenplattform in einer Länge von 1 m weitergeführt ist.
+         senkrechter gelber Streifen an den Schleusenmauern vor den
+         Schleusentoren vom Wasserspiegel bis zur Schleusenplattform, der auf
+         der Schleusenplattform in einer Länge von 1 m weitergeführt ist.
 
-        ... (Abb.)
-
+         ... (Abb.)
 
     A.14 **Durchfahren von Brücken**
 
-        Verbot, die Brückenöffnung außerhalb des durch die beiden Tafeln
-        begrenzten Raumes zu durchfahren (das Verbot gilt nicht für kleine
-        Fahrzeuge im Sinne des § 10):
+         Verbot, die Brückenöffnung außerhalb des durch die beiden Tafeln
+         begrenzten Raumes zu durchfahren (das Verbot gilt nicht für kleine
+         Fahrzeuge im Sinne des § 10):
 
-        zwei quadratische, auf der Spitze stehende rot-weiße Tafeln.
+         zwei quadratische, auf der Spitze stehende rot-weiße Tafeln.
 
-        ... (Abb.)
-
+         ... (Abb.)
 
     A.15 **Ende einer Gebots- oder Verbotsstrecke in einer Richtung**
 
-        rechteckige blaue Tafel mit weißem Diagonalstreifen von links oben
-        nach rechts unten.
+         rechteckige blaue Tafel mit weißem Diagonalstreifen von links oben
+         nach rechts unten.
 
-        ... (Abb.)
-
+         ... (Abb.)
 
     A.16 **Aufforderung zum Anhalten**
 
-        Gebot zum Anhalten durch Fahrzeuge des öffentlichen Dienstes:
+         Gebot zum Anhalten durch Fahrzeuge des öffentlichen Dienstes:
 
-        der als Lichtzeichen gegebene Buchstabe "L" oder
+         der als Lichtzeichen gegebene Buchstabe "L" oder
 
-        ... (Abb.)
+         ... (Abb.)
 
-        die Flagge "L" des Internationalen Signalbuches.
+         die Flagge "L" des Internationalen Signalbuches.
 
-        ... (Abb.)
-
+         ... (Abb.)
 
     A.17 **Gesperrte Wasserflächen**
 
-        a)  Fahrverbot für Maschinenfahrzeuge, Wassermotorräder und Surffahrzeuge
+         a)  Fahrverbot für Maschinenfahrzeuge, Wassermotorräder und Surffahrzeuge
 
-            Verbot für Maschinenfahrzeuge, Wassermotorräder und Surffahrzeuge die
-            wegen Badebetriebs gesperrten Wasserflächen zu befahren.
+             Verbot für Maschinenfahrzeuge, Wassermotorräder und Surffahrzeuge die
+             wegen Badebetriebs gesperrten Wasserflächen zu befahren.
 
-            *
-                *
-                    *
-                        Farbe: bei Tonne
+             -   -   -   Farbe: bei Tonne
 
-                            weiß mit einem - von oben gesehen - rechtwinkligen gelben Kreuz
+                                weiß mit einem - von oben gesehen - rechtwinkligen gelben Kreuz
 
-                            ... (Abb.) (Fundstelle: BGBl. I 1998, 2925)
+                                ... (Abb.) (Fundstelle: BGBl. I 1998, 2925)
 
-                            bei Stange
+                                bei Stange
 
-                            weiß mit einem breiten gelben Band
+                                weiß mit einem breiten gelben Band
 
-                            ... (Abb.)
+                                ... (Abb.)
 
+                         Form: Faßtonne, Kugeltonne oder Stange
 
-                        Form: Faßtonne, Kugeltonne oder Stange
+                         Toppzeichen: Für Maschinenfahrzeuge und Wassermotorräder geöffnete
+                                      Durchfahrtsschneisen können durch zusätzliche weiße Flaggen als
+                                      Toppzeichen gekennzeichnet werden.
 
+                                      ... (Abb.)
 
-                        Toppzeichen: Für Maschinenfahrzeuge und Wassermotorräder geöffnete
-                            Durchfahrtsschneisen können durch zusätzliche weiße Flaggen als
-                            Toppzeichen gekennzeichnet werden.
+         b)  Sperrgebiete
 
-                            ... (Abb.)
+             Verbot, die gesperrte Wasserfläche zu befahren - mit Ausnahme der
+             berechtigten Fahrzeuge.
 
+             -   -   -   Farbe: bei Faßtonne und Leuchttonne
 
+                                gelb mit einem - von oben gesehen - rechtwinkligen roten Kreuz
 
+                                ... (Abb.)
 
+                                bei Spierentonne und Stange
 
+                                gelb mit einem roten Band
 
+                                ... (Abb.)
 
+                         Form: Faßtonne, Leuchttonne, Spierentonne oder Stange
 
+                         Beschriftung: Nur auf Faßtonne und Leuchttonne mit schwarzen Buchstaben
+                                       "Sperrgebiet" oder "Sperr-G."
 
+             Toppzeichen (wenn vorhanden):
 
+             -   -   -   -   gelbes liegendes Kreuz. Spierentonnen und Stangen sind immer mit
+                             Toppzeichen versehen.
 
+                             ... (Abb.)
 
+             Feuer (wenn vorhanden):
 
+             ... (Abb.)
 
-        b)  Sperrgebiete
+             -   -   -   Farbe: gelb
 
-            Verbot, die gesperrte Wasserfläche zu befahren - mit Ausnahme der
-            berechtigten Fahrzeuge.
+                         Kennung: Fl/Blz., Oc(2)/Ubr.(2) oder Oc(3)/Ubr.(3).
 
-            *
-                *
-                    *
-                        Farbe: bei Faßtonne und Leuchttonne
-
-                            gelb mit einem - von oben gesehen - rechtwinkligen roten Kreuz
-
-                            ... (Abb.)
-
-                            bei Spierentonne und Stange
-
-                            gelb mit einem roten Band
-
-                            ... (Abb.)
-
-
-                        Form: Faßtonne, Leuchttonne, Spierentonne oder Stange
-
-
-                        Beschriftung: Nur auf Faßtonne und Leuchttonne mit schwarzen Buchstaben
-                            "Sperrgebiet" oder "Sperr-G."
-
-
-
-
-
-
-
-
-
-
-
-
-
-            Toppzeichen (wenn vorhanden):
-
-            *
-                *
-                    *
-                        *   gelbes liegendes Kreuz. Spierentonnen und Stangen sind immer mit
-                            Toppzeichen versehen.
-
-                            ... (Abb.)
-
-
-
-
-
-
-
-
-
-
-
-
-
-            Feuer (wenn vorhanden):
-
-            ... (Abb.)
-
-            *
-                *
-                    *
-                        Farbe: gelb
-
-
-                        Kennung: Fl/Blz., Oc(2)/Ubr.(2) oder Oc(3)/Ubr.(3).
-
-                            ... (Abb.)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+                                  ... (Abb.)
 
     A.18 **Sperrung der gesamten Seeschiffahrtsstraße oder einer Teilstrecke**
 
-        Gebot, wegen Sperrung der Seeschiffahrtsstraße oder einer Teilstrecke
-        vor dem Sichtzeichen anzuhalten:
+         Gebot, wegen Sperrung der Seeschiffahrtsstraße oder einer Teilstrecke
+         vor dem Sichtzeichen anzuhalten:
 
-        a)  Dauernde Sperrung
+         a)  Dauernde Sperrung
 
-            drei Körperzeichen übereinander, oben ein schwarzer Ball, in der Mitte
-            ein schwarzer Kegel - Spitze unten -, unten ein schwarzer Kegel -
-            Spitze oben - oder
+             drei Körperzeichen übereinander, oben ein schwarzer Ball, in der Mitte
+             ein schwarzer Kegel - Spitze unten -, unten ein schwarzer Kegel -
+             Spitze oben - oder
 
-            ... (Abb.) (Fundstelle: BGBl. I 1998, 2926)
+             ... (Abb.) (Fundstelle: BGBl. I 1998, 2926)
 
-            drei feste Lichter übereinander, das obere rot, das mittlere grün, das
-            untere weiß.
+             drei feste Lichter übereinander, das obere rot, das mittlere grün, das
+             untere weiß.
 
-            ... (Abb.)
+             ... (Abb.)
 
-            Bei Sperrung einer Teilstrecke der Seeschiffahrtsstraße eine
-            rechteckige rote Tafel mit waagerechtem weißen Streifen.
+             Bei Sperrung einer Teilstrecke der Seeschiffahrtsstraße eine
+             rechteckige rote Tafel mit waagerechtem weißen Streifen.
 
-            ... (Abb.)
+             ... (Abb.)
 
+         b)  Vorübergehende Sperrung
 
-        b)  Vorübergehende Sperrung
+             Beginn: Schwenken eines roten Lichtes oder einer roten Flagge.
 
-            Beginn: Schwenken eines roten Lichtes oder einer roten Flagge.
+             ... (Abb.)
 
-            ... (Abb.)
+             Ende: Schwenken eines grünen Lichtes oder einer grünen Flagge.
 
-            Ende: Schwenken eines grünen Lichtes oder einer grünen Flagge.
-
-            ... (Abb.)
-
-
-
-
+             ... (Abb.)
 
     A.19 **Durchfahren beweglicher Brücken und Sperrwerke sowie Einfahren in
-        Schleusen und Ausfahren sowie der Zufahrten zu ihnen**
+         Schleusen und Ausfahren sowie der Zufahrten zu ihnen**
 
-        (Nord-Ostsee-Kanal siehe Zeichen A.21)
+         (Nord-Ostsee-Kanal siehe Zeichen A.21)
 
-        a)  Durchfahren/Einfahren verboten
+         a)  Durchfahren/Einfahren verboten
 
-            (Brücke/Sperrwerk/Schleuse geschlossen)
+             (Brücke/Sperrwerk/Schleuse geschlossen)
 
-            ohne Einschränkungen:
+             ohne Einschränkungen:
 
-            zwei feste rote Lichter nebeneinander;
+             zwei feste rote Lichter nebeneinander;
 
-            ... (Abb.) (Fundstelle: BGBl. I 1998, 2927)
+             ... (Abb.) (Fundstelle: BGBl. I 1998, 2927)
 
-            die Freigabe wird vorbereitet:
+             die Freigabe wird vorbereitet:
 
-            (Die Herrenbrücke über die Trave darf von Fahrzeugen durchfahren
-            werden, für die die Durchfahrthöhe mit Sicherheit ausreicht.)
+             (Die Herrenbrücke über die Trave darf von Fahrzeugen durchfahren
+             werden, für die die Durchfahrthöhe mit Sicherheit ausreicht.)
 
-            ein festes rotes Licht;
+             ein festes rotes Licht;
 
-            ... (Abb.)
+             ... (Abb.)
 
-            die Anlage (Brücke/Sperrwerk/Schleuse) kann unter Beachtung der
-            Vorfahrt des Gegenverkehrs nach § 25 Abs. 5 von Fahrzeugen durchfahren
-            werden, für die die Durchfahrthöhe mit Sicherheit ausreicht:
+             die Anlage (Brücke/Sperrwerk/Schleuse) kann unter Beachtung der
+             Vorfahrt des Gegenverkehrs nach § 25 Abs. 5 von Fahrzeugen durchfahren
+             werden, für die die Durchfahrthöhe mit Sicherheit ausreicht:
 
-            zusätzlich ein festes weißes Licht über dem linken roten Licht;
+             zusätzlich ein festes weißes Licht über dem linken roten Licht;
 
-            ... (Abb.)
+             ... (Abb.)
 
-            die Hubbrücke steht in der ersten Hubstufe und kann von Fahrzeugen
-            durchfahren werden, für die die Durchfahrthöhe mit Sicherheit
-            ausreicht:
+             die Hubbrücke steht in der ersten Hubstufe und kann von Fahrzeugen
+             durchfahren werden, für die die Durchfahrthöhe mit Sicherheit
+             ausreicht:
 
-            zusätzlich zwei feste weiße Lichter über den roten Lichtern.
+             zusätzlich zwei feste weiße Lichter über den roten Lichtern.
 
-            ... (Abb.)
+             ... (Abb.)
 
+         b)  Durchfahren/Einfahren
 
-        b)  Durchfahren/Einfahren
+             (Brücke/Sperrwerk/Schleuse geöffnet. Hubbrücken dürfen jedoch nur von
+             Fahrzeugen durchfahren werden, für die die Durchfahrthöhe der letzten
+             Hubstufe mit Sicherheit ausreicht.)
 
-            (Brücke/Sperrwerk/Schleuse geöffnet. Hubbrücken dürfen jedoch nur von
-            Fahrzeugen durchfahren werden, für die die Durchfahrthöhe der letzten
-            Hubstufe mit Sicherheit ausreicht.)
+             Gegenverkehr gesperrt:
 
-            Gegenverkehr gesperrt:
+             zwei feste grüne Lichter nebeneinander;
 
-            zwei feste grüne Lichter nebeneinander;
+             ... (Abb.)
 
-            ... (Abb.)
+             Gegenverkehr, Vorfahrt nach § 25 Abs. 5 beachten:
 
-            Gegenverkehr, Vorfahrt nach § 25 Abs. 5 beachten:
+             zusätzlich ein festes weißes Licht über dem linken grünen Licht.
 
-            zusätzlich ein festes weißes Licht über dem linken grünen Licht.
+             ... (Abb.)
 
-            ... (Abb.)
+         c)  Ausfahren aus Schleusen
 
+             Ausfahren verboten:
 
-        c)  Ausfahren aus Schleusen
+             ein festes rotes Licht;
 
-            Ausfahren verboten:
+             ... (Abb.)
 
-            ein festes rotes Licht;
+             Ausfahren:
 
-            ... (Abb.)
+             ein festes grünes Licht.
 
-            Ausfahren:
+             ... (Abb.)
 
-            ein festes grünes Licht.
+         d)  Die Anlage ist für die Schiffahrt gesperrt:
 
-            ... (Abb.)
+             zwei feste rote Lichter übereinander.
 
-
-        d)  Die Anlage ist für die Schiffahrt gesperrt:
-
-            zwei feste rote Lichter übereinander.
-
-            ... (Abb.)
-
-
-
-
+             ... (Abb.)
 
     A.20 **Einfahren in die Zufahrten zum Nord-Ostsee-Kanal**
 
-        Nachstehende Regeln gelten nicht für Fahrzeuge der Strom- und
-        Schiffahrtspolizei, Lotsenversetzfahrzeuge und zugelassene Schlepper
-        im Sinne des § 45 Satz 2 Nr. 4
+         Nachstehende Regeln gelten nicht für Fahrzeuge der Strom- und
+         Schiffahrtspolizei, Lotsenversetzfahrzeuge und zugelassene Schlepper
+         im Sinne des § 45 Satz 2 Nr. 4
 
-        a)  Einfahren verboten
+         a)  Einfahren verboten
 
-            ohne Einschränkungen:
+             ohne Einschränkungen:
 
-            ein unterbrochenes rotes Licht;
+             ein unterbrochenes rotes Licht;
 
-            ... (Abb.) (Fundstelle: BGBl. I 1998, 2928)
+             ... (Abb.) (Fundstelle: BGBl. I 1998, 2928)
 
-            die Freigabe wird vorbereitet:
+             die Freigabe wird vorbereitet:
 
-            ein unterbrochenes weißes Licht über einem unterbrochenen roten Licht.
-            ... (Abb.)
+             ein unterbrochenes weißes Licht über einem unterbrochenen roten
+             Licht.... (Abb.)
 
+         b)  Einfahren
 
-        b)  Einfahren
+             für Fahrzeuge mit Seelotsen:
 
-            für Fahrzeuge mit Seelotsen:
+             ein unterbrochenes grünes Licht; ... (Abb.)
 
-            ein unterbrochenes grünes Licht;
-            ... (Abb.)
+             für Freifahrer:
 
-            für Freifahrer:
+             ein unterbrochenes weißes Licht über einem unterbrochenen grünen
+             Licht; ... (Abb.)
 
-            ein unterbrochenes weißes Licht über einem unterbrochenen grünen
-            Licht;
-            ... (Abb.)
+             für Sportfahrzeuge:
 
-            für Sportfahrzeuge:
-
-            ein unterbrochenes weißes Licht.
-            ... (Abb.)
-
-
-
-
+             ein unterbrochenes weißes Licht.... (Abb.)
 
     A.21 **Einfahren in die Schleusenvorhäfen und in die Schleusen des Nord-
-        Ostsee-Kanals in Brunsbüttel und Kiel-Holtenau**
+         Ostsee-Kanals in Brunsbüttel und Kiel-Holtenau**
 
-        Nachstehende Regeln gelten nicht für Fahrzeuge der Strom- und
-        Schiffahrtspolizei, Lotsenversetzfahrzeuge und zugelassene Schlepper
-        im Sinne des § 45 Satz 2 Nr. 4 für den Verkehr in den Vorhäfen. Die
-        Lichter werden auf der Seite des Signalmastes gezeigt, auf der die
-        Schleusenkammer liegt, für die die Einfahrt geregelt wird.
+         Nachstehende Regeln gelten nicht für Fahrzeuge der Strom- und
+         Schiffahrtspolizei, Lotsenversetzfahrzeuge und zugelassene Schlepper
+         im Sinne des § 45 Satz 2 Nr. 4 für den Verkehr in den Vorhäfen. Die
+         Lichter werden auf der Seite des Signalmastes gezeigt, auf der die
+         Schleusenkammer liegt, für die die Einfahrt geregelt wird.
 
-        a)  Einfahren verboten
+         a)  Einfahren verboten
 
-            ohne Einschränkungen:
+             ohne Einschränkungen:
 
-            ein unterbrochenes rotes Licht;
-            ... (Abb.)
+             ein unterbrochenes rotes Licht; ... (Abb.)
 
-            die Freigabe wird vorbereitet:
+             die Freigabe wird vorbereitet:
 
-            ein unterbrochenes weißes Licht über einem unterbrochenen roten Licht.
-            ... (Abb.)
+             ein unterbrochenes weißes Licht über einem unterbrochenen roten
+             Licht.... (Abb.)
 
+         b)  Einfahren für Fahrzeuge mit Seelotsen
 
-        b)  Einfahren für Fahrzeuge mit Seelotsen
+             an der Mittelmauer festmachen:
 
-            an der Mittelmauer festmachen:
+             ein unterbrochenes grünes Licht; ... (Abb.)
 
-            ein unterbrochenes grünes Licht;
-            ... (Abb.)
+             an der Seitenmauer festmachen:
 
-            an der Seitenmauer festmachen:
+             ein unterbrochenes weißes Licht neben einem unterbrochenen grünen
+             Licht.... (Abb.)
 
-            ein unterbrochenes weißes Licht neben einem unterbrochenen grünen
-            Licht.
-            ... (Abb.)
+             (Das weiße Licht wird auf der Seite gezeigt, auf der die Seitenmauer
+             liegt).
 
-            (Das weiße Licht wird auf der Seite gezeigt, auf der die Seitenmauer
-            liegt).
+         c)  Einfahren für Freifahrer
 
+             an der Mittelmauer festmachen:
 
-        c)  Einfahren für Freifahrer
+             ein unterbrochenes weißes Licht über einem unterbrochenen grünen
+             Licht:
 
-            an der Mittelmauer festmachen:
+             grünen Licht: ... (Abb.) (Fundstelle: BGBl. I 1998, 2929)
 
-            ein unterbrochenes weißes Licht über einem unterbrochenen grünen
-            Licht:
+             an der Seitenmauer festmachen:
 
-            grünen Licht:
-            ... (Abb.) (Fundstelle: BGBl. I 1998, 2929)
+             je ein unterbrochenes weißes Licht neben und über einem unterbrochenen
+             grünen Licht.... (Abb.)
 
-            an der Seitenmauer festmachen:
+             (Das weiße Licht neben dem grünen Licht wird auf der Seite gezeigt,
+             auf der die Seitenmauer liegt.)
 
-            je ein unterbrochenes weißes Licht neben und über einem unterbrochenen
-            grünen Licht.
-            ... (Abb.)
+         d)  Einfahren für Sportfahrzeuge:
 
-            (Das weiße Licht neben dem grünen Licht wird auf der Seite gezeigt,
-            auf der die Seitenmauer liegt.)
-
-
-        d)  Einfahren für Sportfahrzeuge:
-
-            ein unterbrochenes weißes Licht.
-            ... (Abb.)
-
-
-
-
+             ein unterbrochenes weißes Licht.... (Abb.)
 
     A.22 **Durchfahren der Weichengebiete des Nord-Ostsee-Kanals**
 
-        a)  Einfahren in das Weichengebiet
+         a)  Einfahren in das Weichengebiet
 
-            (Die Lichter werden am Weicheneinfahrtsignalmast gezeigt.)
+             (Die Lichter werden am Weicheneinfahrtsignalmast gezeigt.)
 
-            Einfahren verboten:
+             Einfahren verboten:
 
-            ein rotes Funkellicht.
-            ... (Abb.)
+             ein rotes Funkellicht.... (Abb.)
 
-            Einfahren:
+             Einfahren:
 
-            mit freier Durchfahrt kann gerechnet werden:
+             mit freier Durchfahrt kann gerechnet werden:
 
-            ein unterbrochenes grünes Licht;
-            ... (Abb.)
+             ein unterbrochenes grünes Licht; ... (Abb.)
 
-            mit Durchfahrtverbot für eine oder mehrere Verkehrsgruppen muß
-            gerechnet werden:
+             mit Durchfahrtverbot für eine oder mehrere Verkehrsgruppen muß
+             gerechnet werden:
 
-            ein unterbrochenes weißes Licht.
-            ... (Abb.)
+             ein unterbrochenes weißes Licht.... (Abb.)
 
+         b)  Ausfahren aus den Weichengebieten
 
-        b)  Ausfahren aus den Weichengebieten
+             (Die Lichter werden an den Weichenausfahrtsignalmasten gezeigt; die
+             Lichter für Fahrzeuge der Verkehrsgruppen 1 und 2 unter 15 km/h und
+             die Lichter für die Freigabe einer oder mehrerer Verkehrsgruppen
+             werden allein oder zusätzlich seitlich neben den übrigen Lichtern
+             gezeigt.)
 
-            (Die Lichter werden an den Weichenausfahrtsignalmasten gezeigt; die
-            Lichter für Fahrzeuge der Verkehrsgruppen 1 und 2 unter 15 km/h und
-            die Lichter für die Freigabe einer oder mehrerer Verkehrsgruppen
-            werden allein oder zusätzlich seitlich neben den übrigen Lichtern
-            gezeigt.)
+             Ausfahren verboten,
 
-            Ausfahren verboten,
+             Weichengebietsgrenze darf nicht überfahren werden:
 
-            Weichengebietsgrenze darf nicht überfahren werden:
+             für Fahrzeuge der Verkehrsgruppen 1 und 2 unter 15 km/h:
 
-            für Fahrzeuge der Verkehrsgruppen 1 und 2 unter 15 km/h:
+             zwei weiße Gleichtaktlichter übereinander; ... (Abb.)
 
-            zwei weiße Gleichtaktlichter übereinander;
-            ... (Abb.)
+             für Fahrzeuge der Verkehrsgruppen 2 und höher:
 
-            für Fahrzeuge der Verkehrsgruppen 2 und höher:
+             drei unterbrochene Lichter übereinander, das obere und das untere rot,
+             das mittlere weiß; ... (Abb.)
 
-            drei unterbrochene Lichter übereinander, das obere und das untere rot,
-            das mittlere weiß;
-            ... (Abb.)
+             für Fahrzeuge der Verkehrsgruppen 3 und höher:
 
-            für Fahrzeuge der Verkehrsgruppen 3 und höher:
+             ein unterbrochenes rotes Licht; ... (Abb.)
 
-            ein unterbrochenes rotes Licht;
-            ... (Abb.)
+             für Fahrzeuge der Verkehrsgruppen 4 und höher:
 
-            für Fahrzeuge der Verkehrsgruppen 4 und höher:
+             zwei unterbrochene rote Lichter übereinander; ... (Abb.)
 
-            zwei unterbrochene rote Lichter übereinander;
-            ... (Abb.)
+             ... (Abb.) (Fundstelle: BGBl. I 1998, 2930)
 
-            ... (Abb.) (Fundstelle: BGBl. I 1998, 2930)
+             für Fahrzeuge der Verkehrsgruppen 5 und höher:
 
-            für Fahrzeuge der Verkehrsgruppen 5 und höher:
+             drei unterbrochene Lichter übereinander, die beiden oberen rot, das
+             untere weiß; ... (Abb.)
 
-            drei unterbrochene Lichter übereinander, die beiden oberen rot, das
-            untere weiß;
-            ... (Abb.)
+             für Schleppverbände:
 
-            für Schleppverbände:
+             ein unterbrochenes rotes Licht über einem unterbrochenen weißen
+             Licht; ... (Abb.)
 
-            ein unterbrochenes rotes Licht über einem unterbrochenen weißen Licht;
-            ... (Abb.)
+             für alle Fahrzeuge:
 
-            für alle Fahrzeuge:
+             drei unterbrochene rote Lichter übereinander; ... (Abb.)
 
-            drei unterbrochene rote Lichter übereinander;
-            ... (Abb.)
+             die Freigabe wird für eine oder mehrere Verkehrsgruppen in Kürze
+             erfolgen:
 
-            die Freigabe wird für eine oder mehrere Verkehrsgruppen in Kürze
-            erfolgen:
+             ein weißes Gleichtaktlicht.... (Abb.)
 
-            ein weißes Gleichtaktlicht.
-            ... (Abb.)
+             Ausfahren, für alle Fahrzeuge:
 
-            Ausfahren, für alle Fahrzeuge:
-
-            ein unterbrochenes grünes Licht.
-            ... (Abb.)
-
-
-
-
+             ein unterbrochenes grünes Licht.... (Abb.)
 
     A.23 **Verkehr beim Ölhafen Brunsbüttel**
 
-        a)  Ausfahren aus dem Wendebecken vor dem Ölhafen in den Nord-Ostsee-Kanal
+         a)  Ausfahren aus dem Wendebecken vor dem Ölhafen in den Nord-Ostsee-Kanal
 
-            Ausfahren verboten:
+             Ausfahren verboten:
 
-            für alle Fahrzeuge:
+             für alle Fahrzeuge:
 
-            zwei feste rote Lichter nebeneinander;
-            ... (Abb.)
+             zwei feste rote Lichter nebeneinander; ... (Abb.)
 
-            Fahrzeuge ohne Schlepperhilfe dürfen unter Beachtung der Vorfahrt des
-            Verkehrs auf dem Nord-Ostsee-Kanal ausfahren:
+             Fahrzeuge ohne Schlepperhilfe dürfen unter Beachtung der Vorfahrt des
+             Verkehrs auf dem Nord-Ostsee-Kanal ausfahren:
 
-            zwei feste rote Lichter nebeneinander und ein festes weißes Licht über
-            dem linken roten Licht.
-            ... (Abb.)
+             zwei feste rote Lichter nebeneinander und ein festes weißes Licht über
+             dem linken roten Licht.... (Abb.)
 
-            Ausfahren:
+             Ausfahren:
 
-            zwei feste grüne Lichter nebeneinander.
-            ... (Abb.)
+             zwei feste grüne Lichter nebeneinander.... (Abb.)
 
+         b)  Verkehr auf dem Nord-Ostsee-Kanal beim Wendebecken
 
-        b)  Verkehr auf dem Nord-Ostsee-Kanal beim Wendebecken
+             Weiterfahren verboten:
 
-            Weiterfahren verboten:
+             zwei feste rote Lichter nebeneinander.... (Abb.) (Fundstelle: BGBl. I
+             1998, 2931)
 
-            zwei feste rote Lichter nebeneinander.
-            ... (Abb.) (Fundstelle: BGBl. I 1998, 2931)
+             Weiterfahren
 
-            Weiterfahren
+             ohne Einschränkungen:
 
-            ohne Einschränkungen:
+             zwei feste grüne Lichter nebeneinander; ... (Abb.)
 
-            zwei feste grüne Lichter nebeneinander;
-            ... (Abb.)
+             mit Verkehr aus dem Wendebecken ist zu rechnen:
 
-            mit Verkehr aus dem Wendebecken ist zu rechnen:
-
-            zwei feste grüne Lichter nebeneinander und ein festes weißes Licht
-            über dem linken grünen Licht.
-            ... (Abb.)
-
-
-
-
+             zwei feste grüne Lichter nebeneinander und ein festes weißes Licht
+             über dem linken grünen Licht.... (Abb.)
 
     A.24 **Ein- und Ausfahren Gieselaukanal und Toter Travearm**
 
-        **(Altarm der Teerhofinsel)**
+         **(Altarm der Teerhofinsel)**
 
-        a)  Ein- und Ausfahren verboten:
+         a)  Ein- und Ausfahren verboten:
 
-            ein festes rotes Licht.
-            ... (Abb.)
+             ein festes rotes Licht.... (Abb.)
 
+         b)  Ein- und Ausfahren gestattet:
 
-        b)  Ein- und Ausfahren gestattet:
-
-            kein besonderes Sichtzeichen.
-
-
-
-
+             kein besonderes Sichtzeichen.
 
     A.25 **Einfahren in die Husumer Au**
 
-        Einfahren verboten:
+         Einfahren verboten:
 
-        ein festes rotes Licht.
-        ... (Abb.)
-
+         ein festes rotes Licht.... (Abb.)
 
     A.25 **Einfahren in die Husumer Au**
 
-        Einfahren verboten:
+         Einfahren verboten:
 
-        ein festes rotes Licht.
-        ... (Abb.)
-
+         ein festes rotes Licht.... (Abb.)
 
     A.26 **Einfahren in die Zufahrten zum Eidersperrwerk**
 
-        Einfahren verboten:
+         Einfahren verboten:
 
-        ein rotes schnelles Funkellicht.
-        ... (Abb.)
+         ein rotes schnelles Funkellicht.... (Abb.)
 
+-   B.  **Warnzeichen und Hinweiszeichen**
 
-
-
-
-
-
-
-*
-    B.  Warnzeichen und Hinweiszeichen ****
-
-
-    **B.1** **Fährstelle**
+    B.1 **Fährstelle**
 
         a)  für freifahrende Fähren
 
@@ -3501,17 +2954,12 @@ Abschnitt I - Sichtzeichen
 
             ... (Abb.)
 
-
         b)  für nicht freifahrende Fähren
 
             eine rechteckige blaue Tafel mit weißem Symbol eines Fährschiffes über
             einem waagerechten weißen Band.
 
             ... (Abb.)
-
-
-
-
 
     B.2 **Durchfahren von festen Brücken**
 
@@ -3524,16 +2972,11 @@ Abschnitt I - Sichtzeichen
 
             ... (Abb.) (Fundstelle: BGBl. I 1998, 2932)
 
-
         b)  in einer Richtung befahrbar (Gegenverkehr gesperrt)
 
             zwei quadratische, auf der Spitze stehende gelbe Tafeln nebeneinander.
 
             ... (Abb.)
-
-
-
-
 
     B.3 **Fernsprechstelle**
 
@@ -3541,18 +2984,16 @@ Abschnitt I - Sichtzeichen
 
         ... (Abb.)
 
-
     B.4 **Grenzen eines Weichengebietes am Nord-Ostsee-Kanal**
 
         (§ 2 Abs. 1 Nr. 18 Buchstabe c)
 
         quadratische weiße Tafel mit schwarzem Rand.
 
-        (Der Westteil der Weiche Audorf-Rade wird im Norden durch die Tonne
-        2/Oberreider 1 begrenzt.)
+        (Der Westteil der Weiche Audorf-Rade wird im Norden durch die Tonne 2/
+        Oberreider 1 begrenzt.)
 
         ... (Abb.)
-
 
     B.5 **Wasserski**
 
@@ -3563,7 +3004,6 @@ Abschnitt I - Sichtzeichen
         rechteckige blaue Tafel mit dem weißen Symbol eines Wasserskiläufers.
 
         ... (Abb.)
-
 
     B.6 **Außergewöhnliche Schiffahrtsbehinderung**
 
@@ -3581,7 +3021,6 @@ Abschnitt I - Sichtzeichen
 
         ... (Abb.)
 
-
     B.7 **Querströmung**
 
         mit gefährlichen Querströmungen ist zu rechnen:
@@ -3589,7 +3028,6 @@ Abschnitt I - Sichtzeichen
         zwei feste weiße senkrecht nebeneinander stehende Lichtbalken.
 
         ... (Abb.)
-
 
     B.8 **Wassermotorräder**
 
@@ -3602,7 +3040,6 @@ Abschnitt I - Sichtzeichen
 
         ... (Abb.)
 
-
     B.9 **Segelsurfbretter**
 
         (§ 31 Abs. 1 Satz 1)
@@ -3614,1345 +3051,462 @@ Abschnitt I - Sichtzeichen
 
         ... (Abb.)
 
-
     B.10 **Kennzeichnung der Zufahrt zu Fahrwassern und der Mitte von
-        Schiffahrtswegen**
+         Schiffahrtswegen**
 
-        Kennzeichnung der Zufahrt zu Fahrwassern von See aus sowie der Mitte
-        von Schiffahrtswegen, sofern sie nicht durch Feuerschiffe, Großtonnen,
-        Baken, Molen usw. erkennbar sind:
+         Kennzeichnung der Zufahrt zu Fahrwassern von See aus sowie der Mitte
+         von Schiffahrtswegen, sofern sie nicht durch Feuerschiffe, Großtonnen,
+         Baken, Molen usw. erkennbar sind:
 
-        *
-            *
-                *
-                    *
-                        Farbe: rote und weiße senkrechte Streifen.
+         -   -   -   -   Farbe: rote und weiße senkrechte Streifen.
 
-                            Form: Kugeltonne, Leuchttonne, Spierentonne oder Stange (ggf. ohne
-                            Farbe).
+                                Form: Kugeltonne, Leuchttonne, Spierentonne oder Stange (ggf. ohne
+                                Farbe).
 
+                         Beschriftung: fortlaufende Beschriftung und/oder Nummern, ggf. mit dem (auch
+                                       abgekürzten) Namen des Fahrwassers.
 
-                        Beschriftung: fortlaufende Beschriftung und/oder Nummern, ggf. mit dem (auch
-                            abgekürzten) Namen des Fahrwassers.
+         Toppzeichen (wenn vorhanden):
 
+         -   -   -   -   -   roter Ball; Spierentonnen und Stangen sind immer mit Toppzeichen
+                             versehen.
 
+         Feuer (wenn vorhanden):
 
+         -   -   -   -   Farbe: weiß.
 
+                         Kennung: Iso/Glt. oder Oc/Ubr.
 
-
-
-
-
-
-
-
-
-
-
-
-        Toppzeichen (wenn vorhanden):
-
-        *
-            *
-                *
-                    *
-                        *   roter Ball; Spierentonnen und Stangen sind immer mit Toppzeichen
-                            versehen.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        Feuer (wenn vorhanden):
-
-        *
-            *
-                *
-                    *
-                        Farbe: weiß.
-
-
-                        Kennung: Iso/Glt. oder Oc/Ubr.
-
-                            ... (Abb.) (Fundstelle: BGBl. I 1998, 2934)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+                                  ... (Abb.) (Fundstelle: BGBl. I 1998, 2934)
 
     B.11 **Bezeichnung der Fahrwasserseiten**
 
-        (Laterale Zeichen)
+         (Laterale Zeichen)
 
-        a)  Steuerbordseite des Fahrwassers:
+         a)  Steuerbordseite des Fahrwassers:
 
-            *
-                *
-                    *
-                        Farbe: grün.
+             -   -   -   Farbe: grün.
 
+                         Form: Spitztonne, Leuchttonne oder Stange (ggf. ohne Farbe).
 
-                        Form: Spitztonne, Leuchttonne oder Stange (ggf. ohne Farbe).
+             Beschriftung (wenn vorhanden):
 
+             -   -   -   -   fortlaufende ungerade Nummern - von See beginnend oder nach
+                             festgelegter Richtung - ggf. mit einem angehängten kleinen Buchstaben,
+                             ggf. in Verbindung mit dem (auch abgekürzten) Namen des Fahrwassers.
 
+                             ... (Abb.)
 
+             Toppzeichen (wenn vorhanden):
 
+             -   -   -   -   grüner Kegel, Spitze oben, oder Besen abwärts; Stangen sind immer mit
+                             Toppzeichen versehen.
 
+                             Feuer (wenn vorhanden):
 
+                         Farbe: grün.
 
+                         Kennung: FL/Blz., Fl(2)/Blz.(2), Oc(2)/Ubr.(2), Oc(3)/Ubr.(3), Q/Fkl., IQ/Fkl.
+                                  unt. oder Iso/Glt.
 
+                                  ... (Abb.)
 
+         b)  Backbordseite des Fahrwassers
 
+             -   -   -   Farbe: rot.
 
+                         Form: Stumpftonne, Leuchttonne, Spierentonne, Stange (ggf. ohne Farbe) oder
+                               Pricke (ohne Farbe).
 
+             Beschriftung (wenn vorhanden):
 
-            Beschriftung (wenn vorhanden):
+             -   -   -   -   fortlaufende gerade Nummern - von See beginnend oder nach festgelegter
+                             Richtung -, ggf. mit einem angehängten kleinen Buchstaben, ggf. in
+                             Verbindung mit dem (auch abgekürzten) Namen des Fahrwassers.
 
-            *
-                *
-                    *
-                        *   fortlaufende ungerade Nummern - von See beginnend oder nach
-                            festgelegter Richtung - ggf. mit einem angehängten kleinen Buchstaben,
-                            ggf. in Verbindung mit dem (auch abgekürzten) Namen des Fahrwassers.
+                             ... (Abb.) (Fundstelle: BGBl. I 1998, 2935)
 
-                            ... (Abb.)
+             Toppzeichen (wenn vorhanden):
 
+             -   -   -   -   roter Zylinder oder Besen aufwärts;
 
+                             Stangen sind immer mit Toppzeichen versehen.
 
+             Feuer (wenn vorhanden):
 
+             -   -   -   Farbe: rot.
 
+                         Kennung: Fl/Blz., Fl(2)/Blz.(2), Oc(2)/Ubr.(2), Oc(3)/Ubr.(3), Q/Fkl., IQ/Fkl.
+                                  unt. oder Iso/Glt.
 
-
-
-
-
-
-
-
-            Toppzeichen (wenn vorhanden):
-
-            *
-                *
-                    *
-                        *   grüner Kegel, Spitze oben, oder Besen abwärts; Stangen sind immer mit
-                            Toppzeichen versehen.
-
-                            Feuer (wenn vorhanden):
-
-
-                        Farbe: grün.
-
-
-                        Kennung: FL/Blz., Fl(2)/Blz.(2), Oc(2)/Ubr.(2), Oc(3)/Ubr.(3), Q/Fkl., IQ/Fkl.
-                            unt. oder Iso/Glt.
-
-                            ... (Abb.)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        b)  Backbordseite des Fahrwassers
-
-            *
-                *
-                    *
-                        Farbe: rot.
-
-
-                        Form: Stumpftonne, Leuchttonne, Spierentonne, Stange (ggf. ohne Farbe) oder
-                            Pricke (ohne Farbe).
-
-
-
-
-
-
-
-
-
-
-
-
-
-            Beschriftung (wenn vorhanden):
-
-            *
-                *
-                    *
-                        *   fortlaufende gerade Nummern - von See beginnend oder nach festgelegter
-                            Richtung -, ggf. mit einem angehängten kleinen Buchstaben, ggf. in
-                            Verbindung mit dem (auch abgekürzten) Namen des Fahrwassers.
-
-                            ... (Abb.) (Fundstelle: BGBl. I 1998, 2935)
-
-
-
-
-
-
-
-
-
-
-
-
-
-            Toppzeichen (wenn vorhanden):
-
-            *
-                *
-                    *
-                        *   roter Zylinder oder Besen aufwärts;
-
-                            Stangen sind immer mit Toppzeichen versehen.
-
-
-
-
-
-
-
-
-
-
-
-
-
-            Feuer (wenn vorhanden):
-
-            *
-                *
-                    *
-                        Farbe: rot.
-
-
-                        Kennung: Fl/Blz., Fl(2)/Blz.(2), Oc(2)/Ubr.(2), Oc(3)/Ubr.(3), Q/Fkl., IQ/Fkl.
-                            unt. oder Iso/Glt.
-
-                            ... (Abb.)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+                                  ... (Abb.)
 
     B.12 (aufgehoben)
 
-
     B.13 **Bezeichnung von abzweigenden oder einmündenden Fahrwassern**
 
-        a)  Steuerbordseite des durchgehenden Fahrwassers/Backbordseite des
-            abzweigenden oder einmündenden Fahrwassers:
+         a)  Steuerbordseite des durchgehenden Fahrwassers/Backbordseite des
+             abzweigenden oder einmündenden Fahrwassers:
 
-            *
-                *
-                    *
-                        Farbe: grün mit einem waagerechten roten Band.
+             -   -   -   Farbe: grün mit einem waagerechten roten Band.
 
+                         Form: Spitztonne, Leuchttonne oder Stange.
 
-                        Form: Spitztonne, Leuchttonne oder Stange.
+             Beschriftung (wenn vorhanden):
 
+             -   -   -   -   Unter der fortlaufenden ungeraden Nummer der Lateralbezeichnung des
+                             durchgehenden Fahrwassers, durch waagerechten Strich getrennt, der
+                             Name - ggf. abgekürzt - und die erste Nummer des abzweigenden oder die
+                             letzte Nummer des einmündenden Fahrwassers.
 
+                             ... (Abb.)
 
+                         Toppzeichen: grüner Kegel, Spitze oben oder Besen abwärts.
 
+             Feuer (wenn vorhanden):
 
+             -   -   -   Farbe: grün.
 
+                         Kennung: Fl(2+1)/Blz.(2+1).
 
+                                  ... (Abb.)
 
+         b)  Backbordseite des durchgehenden Fahrwassers/Steuerbordseite des
+             abzweigenden oder einmündenden Fahrwassers:
 
+             -   -   -   Farbe: rot mit einem waagerechten grünen Band.
 
+                         Form: Stumpftonne, Leuchttonne, Spierentonne oder Stange.
 
+             Beschriftung (wenn vorhanden):
 
+             -   -   -   -   Unter der fortlaufenden geraden Nummer der Lateralbezeichnung des
+                             durchgehenden Fahrwassers, durch waagerechten Strich getrennt, der
+                             Name - ggf. abgekürzt - und die erste Nummer des abzweigenden oder die
+                             letzte Nummer des einmündenden Fahrwassers.
 
-            Beschriftung (wenn vorhanden):
+                             ... (Abb.) (Fundstelle: BGBl. I 1998, 2936)
 
-            *
-                *
-                    *
-                        *   Unter der fortlaufenden ungeraden Nummer der Lateralbezeichnung des
-                            durchgehenden Fahrwassers, durch waagerechten Strich getrennt, der
-                            Name - ggf. abgekürzt - und die erste Nummer des abzweigenden oder die
-                            letzte Nummer des einmündenden Fahrwassers.
+                         Toppzeichen: roter Zylinder oder Besen aufwärts.
 
-                            ... (Abb.)
+             Feuer (wenn vorhanden):
 
+             -   -   -   Farbe: rot.
 
-                        Toppzeichen: grüner Kegel, Spitze oben oder Besen abwärts.
+                         Kennung: Fl(2+1)/Blz.(2+1).
 
+                                  ... (Abb.)
 
+             Die Positionen Steuerbordseite des durchgehenden Fahrwassers/
+             Steuerbordseite des abzweigenden oder einmündenden Fahrwassers
+             und Backbordseite des durchgehenden Fahrwassers/Backbordseite des
+             abzweigenden oder einmündenden Fahrwassers können mit lateralen
+             Zeichen (Zeichen B.11) bezeichnet werden. Sie erhalten dann eine
+             Beschriftung wie vorstehend beschrieben, sowie ein Toppzeichen.
 
+             Außerdem können abzweigende oder einmündende Fahrwasser mit kardinalen
+             Zeichen (Zeichen B.15) und der vorstehenden Beschriftung bezeichnet
+             werden.
 
-
-
-
-
-
-
-
-
-
-            Feuer (wenn vorhanden):
-
-            *
-                *
-                    *
-                        Farbe: grün.
-
-
-                        Kennung: Fl(2+1)/Blz.(2+1).
-
-                            ... (Abb.)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        b)  Backbordseite des durchgehenden Fahrwassers/Steuerbordseite des
-            abzweigenden oder einmündenden Fahrwassers:
-
-            *
-                *
-                    *
-                        Farbe: rot mit einem waagerechten grünen Band.
-
-
-                        Form: Stumpftonne, Leuchttonne, Spierentonne oder Stange.
-
-
-
-
-
-
-
-
-
-
-
-
-
-            Beschriftung (wenn vorhanden):
-
-            *
-                *
-                    *
-                        *   Unter der fortlaufenden geraden Nummer der Lateralbezeichnung des
-                            durchgehenden Fahrwassers, durch waagerechten Strich getrennt, der
-                            Name - ggf. abgekürzt - und die erste Nummer des abzweigenden oder die
-                            letzte Nummer des einmündenden Fahrwassers.
-
-                            ... (Abb.) (Fundstelle: BGBl. I 1998, 2936)
-
-
-                        Toppzeichen: roter Zylinder oder Besen aufwärts.
-
-
-
-
-
-
-
-
-
-
-
-
-
-            Feuer (wenn vorhanden):
-
-            *
-                *
-                    *
-                        Farbe: rot.
-
-
-                        Kennung: Fl(2+1)/Blz.(2+1).
-
-                            ... (Abb.)
-
-
-
-
-
-
-
-
-
-
-
-
-
-            Die Positionen Steuerbordseite des durchgehenden
-            Fahrwassers/Steuerbordseite des abzweigenden oder einmündenden
-            Fahrwassers und Backbordseite des durchgehenden
-            Fahrwassers/Backbordseite des abzweigenden oder einmündenden
-            Fahrwassers können mit lateralen Zeichen (Zeichen B.11) bezeichnet
-            werden. Sie erhalten dann eine Beschriftung wie vorstehend
-            beschrieben, sowie ein Toppzeichen.
-
-            Außerdem können abzweigende oder einmündende Fahrwasser mit kardinalen
-            Zeichen (Zeichen B.15) und der vorstehenden Beschriftung bezeichnet
-            werden.
-
-            ... (Abb.)
-
-
-
-
+             ... (Abb.)
 
     B.14 **Reeden**
 
-        (§ 2 Abs. 1 Nr. 3)
+         (§ 2 Abs. 1 Nr. 3)
 
-        a)  Kennzeichnung allgemeiner Reeden:
+         a)  Kennzeichnung allgemeiner Reeden:
 
-            *
-                *
-                    *
-                        Farbe: gelb.
+             -   -   -   Farbe: gelb.
 
+                         Form: Faßtonne oder Leuchttonne.
 
-                        Form: Faßtonne oder Leuchttonne.
+                         Beschriftung: mit schwarzen Buchstaben ausgeschriebener oder abgekürzter Name der
+                                       Reede und ggf. Nummer.
 
+             Toppzeichen (wenn vorhanden):
 
-                        Beschriftung: mit schwarzen Buchstaben ausgeschriebener oder abgekürzter Name der
-                            Reede und ggf. Nummer.
+             -   -   -   -   gelbes liegendes Kreuz.
 
+             Feuer (wenn vorhanden):
 
+             -   -   -   Farbe: gelb.
 
+                         Kennung: Fl./Blz., Oc(2)/Ubr.(2) oder Oc(3)/Ubr.(3).
 
+                                  ... (Abb.)
 
+             Grenzt die Reede an die Steuerbord- oder Backbordseite eines
+             Fahrwassers, so ist diese Seite der Reede mit der entsprechenden
+             Fahrwasserseitenbezeichnung gekennzeichnet (Zeichen B.11), die
+             unter einem waagerechten Strich zusätzlich den ausgeschriebenen oder
+             abgekürzten Namen der Reede und ggf. eine Nummer anzeigt.
 
+             ... (Abb.)
 
+         b)  Kennzeichnung von Reeden für Fahrzeuge, die bestimmte gefährliche
+             Güter befördern:
 
+             -   -   -   Farbe: gelb.
 
+                         Form: Faßtonne.
 
+                         Beschriftung: großes schwarzes "P", ggf. mit Nummer.
 
+             Toppzeichen (wenn vorhanden):
 
+             -   -   -   -   gelbes liegendes Kreuz.
 
-            Toppzeichen (wenn vorhanden):
+                             ... (Abb.) (Fundstelle: BGBl. I 1998, 2937)
 
-            *
-                *
-                    *
-                        *   gelbes liegendes Kreuz.
+         c)  Kennzeichnung von Reeden für unter Quarantäne stehende Fahrzeuge:
 
+             -   -   -   Farbe: gelb.
 
+                         Form: Faßtonne.
 
+                         Beschriftung: großes schwarzes "Q", ggf. mit Nummer.
 
+             Toppzeichen (wenn vorhanden):
 
+             -   -   -   -   gelbes liegendes Kreuz
 
-
-
-
-
-
-
-
-            Feuer (wenn vorhanden):
-
-            *
-                *
-                    *
-                        Farbe: gelb.
-
-
-                        Kennung: Fl./Blz., Oc(2)/Ubr.(2) oder Oc(3)/Ubr.(3).
-
-                            ... (Abb.)
-
-
-
-
-
-
-
-
-
-
-
-
-
-            Grenzt die Reede an die Steuerbord- oder Backbordseite eines
-            Fahrwassers, so ist diese Seite der Reede mit der entsprechenden
-            Fahrwasserseitenbezeichnung gekennzeichnet (Zeichen B.11), die unter
-            einem waagerechten Strich zusätzlich den ausgeschriebenen oder
-            abgekürzten Namen der Reede und ggf. eine Nummer anzeigt.
-
-            ... (Abb.)
-
-
-        b)  Kennzeichnung von Reeden für Fahrzeuge, die bestimmte gefährliche
-            Güter befördern:
-
-            *
-                *
-                    *
-                        Farbe: gelb.
-
-
-                        Form: Faßtonne.
-
-
-                        Beschriftung: großes schwarzes "P", ggf. mit Nummer.
-
-
-
-
-
-
-
-
-
-
-
-
-
-            Toppzeichen (wenn vorhanden):
-
-            *
-                *
-                    *
-                        *   gelbes liegendes Kreuz.
-
-                            ... (Abb.) (Fundstelle: BGBl. I 1998, 2937)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        c)  Kennzeichnung von Reeden für unter Quarantäne stehende Fahrzeuge:
-
-            *
-                *
-                    *
-                        Farbe: gelb.
-
-
-                        Form: Faßtonne.
-
-
-                        Beschriftung: großes schwarzes "Q", ggf. mit Nummer.
-
-
-
-
-
-
-
-
-
-
-
-
-
-            Toppzeichen (wenn vorhanden):
-
-            *
-                *
-                    *
-                        *   gelbes liegendes Kreuz
-
-                            ... (Abb.)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+                             ... (Abb.)
 
     B.15 **Gefahrenstellen**
 
-        Allgemeine Gefahrenstellen (z.B. Untiefen, Wracks, Buhnen und sonstige
-        Schiffahrtshindernisse).
+         Allgemeine Gefahrenstellen (z.B. Untiefen, Wracks, Buhnen und sonstige
+         Schiffahrtshindernisse).
 
-        Eine allgemeine Gefahrenstelle ist in der Regel mit einem oder
-        mehreren kardinalen Zeichen bezeichnet, die für die verschiedenen
-        Quadranten den Bezug zur Lage der Gefahrenstelle angeben.
+         Eine allgemeine Gefahrenstelle ist in der Regel mit einem oder
+         mehreren kardinalen Zeichen bezeichnet, die für die verschiedenen
+         Quadranten den Bezug zur Lage der Gefahrenstelle angeben.
 
-        ... (Abb.)
+         ... (Abb.)
 
-        a)  Nord-Kardinal-Zeichen:
+         a)  Nord-Kardinal-Zeichen:
 
-            *
-                *
-                    *
-                        Farbe: schwarz über gelb.
+             -   -   -   Farbe: schwarz über gelb.
 
+                         Form: Leuchttonne, Bakentonne, Spierentonne oder Stange.
 
-                        Form: Leuchttonne, Bakentonne, Spierentonne oder Stange.
+             Beschriftung (wenn vorhanden):
 
+             -   -   -   -   Angabe des Bezugs, ggf. abgekürzt, und/oder Kompaßrichtung.
 
+                         Toppzeichen: zwei schwarze Kegel übereinander, Spitzen oben.
 
+             Feuer (wenn vorhanden):
 
+             -   -   -   Farbe: weiß.
 
+                         Kennung: VQ/SFkl. oder Q/Fkl.
 
+                                  ... (Abb.)
 
+         b)  Ost-Kardinal-Zeichen:
 
+             -   -   -   Farbe: schwarz mit einem breiten waagerechten gelben Band.
 
+                         Form: Leuchttonne, Bakentonne, Spierentonne oder Stange.
 
+             Beschriftung (wenn vorhanden):
 
+             -   -   -   -   Angabe des Bezuges, ggf. abgekürzt, und/oder Kompaßrichtung.
 
+                         Toppzeichen: zwei schwarze Kegel übereinander, Spitzen voneinander.
 
-            Beschriftung (wenn vorhanden):
+             Feuer (wenn vorhanden):
 
-            *
-                *
-                    *
-                        *   Angabe des Bezugs, ggf. abgekürzt, und/oder Kompaßrichtung.
+             -   -   -   Farbe: weiß.
 
+                         Kennung: VQ(3)/SFkl.(3) oder Q(3)/Fkl.(3).
 
-                        Toppzeichen: zwei schwarze Kegel übereinander, Spitzen oben.
+                                  ... (Abb.) (Fundstelle: BGBl. I 1998, 2938)
 
+         c)  Süd-Kardinal-Zeichen:
 
+             -   -   -   Farbe: gelb über schwarz.
 
+                         Form: Leuchttonne, Bakentonne, Spierentonne oder Stange.
 
+             Beschriftung (wenn vorhanden):
 
+             -   -   -   -   Angabe des Bezuges, ggf. abgekürzt, und/oder Kompaßrichtung.
 
+                         Toppzeichen: zwei schwarze Kegel übereinander, Spitzen unten.
 
+             Feuer (wenn vorhanden):
 
+             -   -   -   Farbe: weiß.
 
+                         Kennung: VQ(6)+LFI/SFkl.(6)+Blk. oder VQ(6)+LFl/Fkl.(6)+Blk.
 
+                                  ... (Abb.)
 
+         d)  West-Kardinal-Zeichen:
 
+             -   -   -   Farbe: gelb mit einem breiten waagerechten schwarzen Band.
 
-            Feuer (wenn vorhanden):
+                         Form: Leuchttonne, Bakentonne, Spierentonne oder Stange.
 
-            *
-                *
-                    *
-                        Farbe: weiß.
+             Beschriftung (wenn vorhanden):
 
+             -   -   -   -   Angabe des Bezuges, ggf. abgekürzt, und/oder Kompaßrichtung.
 
-                        Kennung: VQ/SFkl. oder Q/Fkl.
+                         Toppzeichen: zwei schwarze Kegel übereinander, Spitzen zueinander.
 
-                            ... (Abb.)
+             Feuer (wenn vorhanden):
 
+             -   -   -   Farbe: weiß.
 
+                         Kennung: VQ(9)/SFkl.(9) oder Q(9)/Fkl.(9).
 
+                                  ... (Abb.)
 
+         e)  Einzelgefahrenstelle
 
+             Die Gefahrenstelle kann an allen Seiten passiert werden.
 
+             -   -   -   Farbe: schwarz mit einem breiten waagerechten roten Band.
 
+                         Form: Leuchttonne, Bakentonne, Spierentonne oder Stange.
 
+             Beschriftung (wenn vorhanden):
 
+             -   -   -   -   Name der Gefahrenstelle.
 
+                         Toppzeichen: zwei schwarze Bälle übereinander.
 
+             Feuer (wenn vorhanden):
 
+             -   -   -   Farbe: weiß.
 
+                         Kennung: Fl(2)/Blz.(2).
 
-        b)  Ost-Kardinal-Zeichen:
+                                  ... (Abb.)
 
-            *
-                *
-                    *
-                        Farbe: schwarz mit einem breiten waagerechten gelben Band.
+         f)  Neue Gefahrenstellen
 
-
-                        Form: Leuchttonne, Bakentonne, Spierentonne oder Stange.
-
-
-
-
-
-
-
-
-
-
-
-
-
-            Beschriftung (wenn vorhanden):
-
-            *
-                *
-                    *
-                        *   Angabe des Bezuges, ggf. abgekürzt, und/oder Kompaßrichtung.
-
-
-                        Toppzeichen: zwei schwarze Kegel übereinander, Spitzen voneinander.
-
-
-
-
-
-
-
-
-
-
-
-
-
-            Feuer (wenn vorhanden):
-
-            *
-                *
-                    *
-                        Farbe: weiß.
-
-
-                        Kennung: VQ(3)/SFkl.(3) oder Q(3)/Fkl.(3).
-
-                            ... (Abb.) (Fundstelle: BGBl. I 1998, 2938)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        c)  Süd-Kardinal-Zeichen:
-
-            *
-                *
-                    *
-                        Farbe: gelb über schwarz.
-
-
-                        Form: Leuchttonne, Bakentonne, Spierentonne oder Stange.
-
-
-
-
-
-
-
-
-
-
-
-
-
-            Beschriftung (wenn vorhanden):
-
-            *
-                *
-                    *
-                        *   Angabe des Bezuges, ggf. abgekürzt, und/oder Kompaßrichtung.
-
-
-                        Toppzeichen: zwei schwarze Kegel übereinander, Spitzen unten.
-
-
-
-
-
-
-
-
-
-
-
-
-
-            Feuer (wenn vorhanden):
-
-            *
-                *
-                    *
-                        Farbe: weiß.
-
-
-                        Kennung: VQ(6)+LFI/SFkl.(6)+Blk. oder VQ(6)+LFl/Fkl.(6)+Blk.
-
-                            ... (Abb.)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        d)  West-Kardinal-Zeichen:
-
-            *
-                *
-                    *
-                        Farbe: gelb mit einem breiten waagerechten schwarzen Band.
-
-
-                        Form: Leuchttonne, Bakentonne, Spierentonne oder Stange.
-
-
-
-
-
-
-
-
-
-
-
-
-
-            Beschriftung (wenn vorhanden):
-
-            *
-                *
-                    *
-                        *   Angabe des Bezuges, ggf. abgekürzt, und/oder Kompaßrichtung.
-
-
-                        Toppzeichen: zwei schwarze Kegel übereinander, Spitzen zueinander.
-
-
-
-
-
-
-
-
-
-
-
-
-
-            Feuer (wenn vorhanden):
-
-            *
-                *
-                    *
-                        Farbe: weiß.
-
-
-                        Kennung: VQ(9)/SFkl.(9) oder Q(9)/Fkl.(9).
-
-                            ... (Abb.)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        e)  Einzelgefahrenstelle
-
-            Die Gefahrenstelle kann an allen Seiten passiert werden.
-
-            *
-                *
-                    *
-                        Farbe: schwarz mit einem breiten waagerechten roten Band.
-
-
-                        Form: Leuchttonne, Bakentonne, Spierentonne oder Stange.
-
-
-
-
-
-
-
-
-
-
-
-
-
-            Beschriftung (wenn vorhanden):
-
-            *
-                *
-                    *
-                        *   Name der Gefahrenstelle.
-
-
-                        Toppzeichen: zwei schwarze Bälle übereinander.
-
-
-
-
-
-
-
-
-
-
-
-
-
-            Feuer (wenn vorhanden):
-
-            *
-                *
-                    *
-                        Farbe: weiß.
-
-
-                        Kennung: Fl(2)/Blz.(2).
-
-                            ... (Abb.)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        f)  Neue Gefahrenstellen
-
-            Bezeichnung wie allgemeine Gefahrenstellen oder Einzelgefahrenstellen,
-            jedoch wegen besonderer Umstände mindestens ein Sichtzeichen doppelt
-            und ggf. mit einer Radarantwortbake mit der Kennung "D" versehen.
-
-
-
-
+             Bezeichnung wie allgemeine Gefahrenstellen oder Einzelgefahrenstellen,
+             jedoch wegen besonderer Umstände mindestens ein Sichtzeichen doppelt
+             und ggf. mit einer Radarantwortbake mit der Kennung "D" versehen.
 
     B.16 **Kennzeichnung besonderer Gebiete und Stellen**
 
-        Die Bedeutung ist den Seekarten oder anderen nautischen
-        Veröffentlichungen zu entnehmen und ggf. auch aus der Beschriftung des
-        Zeichens zu erkennen.
+         Die Bedeutung ist den Seekarten oder anderen nautischen
+         Veröffentlichungen zu entnehmen und ggf. auch aus der Beschriftung des
+         Zeichens zu erkennen.
 
-        *
-            *
-                *
-                    *
-                        Farbe: gelb.
+         -   -   -   -   Farbe: gelb.
 
+                         Form: beliebig, vorzugsweise Faßtonne, Leuchttonne, Spierentonne oder
+                               Stange.
 
-                        Form: beliebig, vorzugsweise Faßtonne, Leuchttonne, Spierentonne oder
-                            Stange.
+             Beschriftung (wenn vorhanden):
 
+             -   -   -   -   jeweilige Bedeutung in schwarzen Buchstaben.
 
+         Toppzeichen (wenn vorhanden):
 
+         -   -   -   -   -   gelbes liegendes Kreuz.
 
+         Feuer (wenn vorhanden):
 
+         -   -   -   -   Farbe: gelb.
 
+                         Kennung: Fl/Blz., Oc(2)/Ubr.(2) oder Oc(3)/Ubr.(3), bei dem Beispiel g) nur
+                                  Fl(5)/Blz.(5).
 
+                                  ... (Abb.)
 
+         Beispiele für Beschriftung:
 
+         a)  Warngebiet
 
+             Grenze eines Gebietes, vor dessen Befahren, z.B. wegen militärischer
+             Übungen oder wegen Forschungs- und Vermessungsarbeiten,
+             hydrographischer Untersuchungen und ähnliche Arbeiten, gewarnt wird.
 
+             -   -   -   Beschriftung: "Warngebiet" oder "Warn.-G".
 
+             Wenn das Warngebiet durch das Zeigen auf Grund besonderer
+             Rechtsvorschriften eingeführter Sichtzeichen vorübergehend zum
+             Sperrgebiet werden kann, tragen die Faßtonnen, Leuchttonnen,
+             Spierentonnen oder Stangen ein
 
-            Beschriftung (wenn vorhanden):
+             -   -   -   Toppzeichen: gelbes liegendes Kreuz.
 
-            *
-                *
-                    *
-                        *   jeweilige Bedeutung in schwarzen Buchstaben.
+         b)  Warnstelle
 
+             Stelle (z.B. für militärische Zwecke und für Forschungs- und
+             Vermessungsarbeiten, hydrographische und ozeanographische
+             Untersuchungen und ähnliche Arbeiten sowie die dazugehörigen Geräte),
+             vor deren Annäherung oder Überfahren gewarnt wird.
 
+             -   -   -   Beschriftung: "Warnstelle" oder "Warn-St.".
 
+         c)  Fischereigründe
 
+             Begrenzung von Fischereigründen, Schongebieten und Muschelkulturen
+             sowie ggf. der Zufahrten zu ihnen.
 
+             -   -   -   Beschriftung: "Fischerei" oder "Fisch".
 
+                         Toppzeichen: gelber Körper in Form eines Fisches.
 
+         d)  Baggerschüttstelle
 
+             Begrenzung eines Gebietes, in dem Baggergut verklappt wird.
 
+             -   -   -   Beschriftung: "Schüttstelle" oder "Schütt-St.".
 
+         e)  Kabel und Rohrleitungen
 
+             Kennzeichnung von Trassen, Kabeln und Rohrleitungen.
 
+             -   -   -   Beschriftung: "Kabel", "K", "Pipeline" oder "Pipe".
 
+         f)  Gemessene Meile
 
+             Zeichen, die eine gemessene Meile bezeichnen;
 
+             -   -   -   Beschriftung: "Meile".
 
-        Toppzeichen (wenn vorhanden):
+         g)  Ozeanographische Meßstationen (ODAS)
 
-        *
-            *
-                *
-                    *
-                        *   gelbes liegendes Kreuz.
+             Kennzeichnung schwimmender Einrichtungen, mit denen ozeanographische
+             Daten gemessen werden;
 
+             -   -   -   Beschriftung: "ODAS".
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        Feuer (wenn vorhanden):
-
-        *
-            *
-                *
-                    *
-                        Farbe: gelb.
-
-
-                        Kennung: Fl/Blz., Oc(2)/Ubr.(2) oder Oc(3)/Ubr.(3), bei dem Beispiel g) nur
-                            Fl(5)/Blz.(5).
-
-                            ... (Abb.)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        Beispiele für Beschriftung:
-
-        a)  Warngebiet
-
-            Grenze eines Gebietes, vor dessen Befahren, z.B. wegen militärischer
-            Übungen oder wegen Forschungs- und Vermessungsarbeiten,
-            hydrographischer Untersuchungen und ähnliche Arbeiten, gewarnt wird.
-
-            *
-                *
-                    *
-                        Beschriftung: "Warngebiet" oder "Warn.-G".
-
-
-
-
-
-
-
-
-
-
-
-
-
-            Wenn das Warngebiet durch das Zeigen auf Grund besonderer
-            Rechtsvorschriften eingeführter Sichtzeichen vorübergehend zum
-            Sperrgebiet werden kann, tragen die Faßtonnen, Leuchttonnen,
-            Spierentonnen oder Stangen ein
-
-            *
-                *
-                    *
-                        Toppzeichen: gelbes liegendes Kreuz.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        b)  Warnstelle
-
-            Stelle (z.B. für militärische Zwecke und für Forschungs- und
-            Vermessungsarbeiten, hydrographische und ozeanographische
-            Untersuchungen und ähnliche Arbeiten sowie die dazugehörigen Geräte),
-            vor deren Annäherung oder Überfahren gewarnt wird.
-
-            *
-                *
-                    *
-                        Beschriftung: "Warnstelle" oder "Warn-St.".
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        c)  Fischereigründe
-
-            Begrenzung von Fischereigründen, Schongebieten und Muschelkulturen
-            sowie ggf. der Zufahrten zu ihnen.
-
-            *
-                *
-                    *
-                        Beschriftung: "Fischerei" oder "Fisch".
-
-
-                        Toppzeichen: gelber Körper in Form eines Fisches.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        d)  Baggerschüttstelle
-
-            Begrenzung eines Gebietes, in dem Baggergut verklappt wird.
-
-            *
-                *
-                    *
-                        Beschriftung: "Schüttstelle" oder "Schütt-St.".
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        e)  Kabel und Rohrleitungen
-
-            Kennzeichnung von Trassen, Kabeln und Rohrleitungen.
-
-            *
-                *
-                    *
-                        Beschriftung: "Kabel", "K", "Pipeline" oder "Pipe".
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        f)  Gemessene Meile
-
-            Zeichen, die eine gemessene Meile bezeichnen;
-
-            *
-                *
-                    *
-                        Beschriftung: "Meile".
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        g)  Ozeanographische Meßstationen (ODAS)
-
-            Kennzeichnung schwimmender Einrichtungen, mit denen ozeanographische
-            Daten gemessen werden;
-
-            *
-                *
-                    *
-                        Beschriftung: "ODAS".
-
-
-                        Kennzeichnung: Fl(5)/Blz.(5).
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+                         Kennzeichnung: Fl(5)/Blz.(5).
 
     B.17 **Festmachetonne**
 
-        Tonne, an der festgemacht werden darf.
+         Tonne, an der festgemacht werden darf.
 
-        *
-            *
-                *
-                    *
-                        Farbe: gelb.
+         -   -   -   -   Farbe: gelb.
 
+                         Form: Faßtonne, Zylindertonne oder Tonne in beliebiger Form.
 
-                        Form: Faßtonne, Zylindertonne oder Tonne in beliebiger Form.
+                         Beschriftung: mit schwarzen Buchstaben "Festmachen" oder "Festm.".
 
-
-                        Beschriftung: mit schwarzen Buchstaben "Festmachen" oder "Festm.".
-
-                            ... (Abb.) (Fundstelle: BGBl. I 1998, 2940)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+                                       ... (Abb.) (Fundstelle: BGBl. I 1998, 2940)
 
 Abschnitt II - Schallsignale
 
-*
-    C.1 **Anhalten**
+-   C.1 **Anhalten**
 
         von einem Fahrzeug des öffentlichen Dienstes:
 
-        ein kurzer Ton, ein langer Ton, zwei kurze Töne.
-        ... (Abb.) (Fundstelle: BGBl. I 1998, 2941)
-
+        ein kurzer Ton, ein langer Ton, zwei kurze Töne.... (Abb.)
+        (Fundstelle: BGBl. I 1998, 2941)
 
     C.2 **Durchfahren/Einfahren verboten**
 
         (Brücke, Sperrwerk, Schleuse kann vorübergehend nicht geöffnet werden)
 
-        vier kurze Töne.
-        ... (Abb.)
-
+        vier kurze Töne.... (Abb.)
 
     C.3 **Durchfahren/Einfahren**
 
@@ -4962,50 +3516,36 @@ Abschnitt II - Schallsignale
 
         a)  für seewärts fahrende Fahrzeuge
 
-            zwei lange Töne, ein kurzer Ton, ein langer Ton.
-            ... (Abb.)
-
+            zwei lange Töne, ein kurzer Ton, ein langer Ton.... (Abb.)
 
         b)  für binnenwärts fahrende Fahrzeuge
 
-            zwei lange Töne, zwei kurze Töne, ein langer Ton.
-            ... (Abb.)
-
-
-
-
+            zwei lange Töne, zwei kurze Töne, ein langer Ton.... (Abb.)
 
     C.4 **Sperrung der Seeschiffahrtsstraße**
 
-        zwei Gruppen von drei langen Tönen.
-        ... (Abb.)
+        zwei Gruppen von drei langen Tönen.... (Abb.)
 
-
-    C.5 **Einfahren in die Zufahrten und Schleusen des Nord-Ostsee-Kanals von
-        See**
+    C.5 **Einfahren in die Zufahrten und Schleusen des Nord-Ostsee-Kanals
+        von See**
 
         a)  Brunsbüttel (Neue Schleuse):
 
-            ein nach jeweils 7 Sekunden wiederkehrender Ton von 3 Sekunden Dauer.
-            ... (Abb.)
-
+            ein nach jeweils 7 Sekunden wiederkehrender Ton von 3 Sekunden
+            Dauer.... (Abb.)
 
         b)  Kiel-Holtenau (Neue Schleuse)
 
             in die rechte Schleusenkammer:
 
-            ein nach jeweils 7 Sekunden wiederkehrender Ton von 3 Sekunden Dauer.
-            ... (Abb.)
+            ein nach jeweils 7 Sekunden wiederkehrender Ton von 3 Sekunden
+            Dauer.... (Abb.)
 
             in die linke Schleusenkammer:
 
-            eine nach jeweils 5 Sekunden wiederkehrende Gruppe von zwei Tönen von
-            je zwei Sekunden Dauer mit einer Unterbrechung von 1 Sekunde.
-            ... (Abb.)
-
-
-
-
+            eine nach jeweils 5 Sekunden wiederkehrende Gruppe von zwei Tönen
+            von je zwei Sekunden Dauer mit einer Unterbrechung von 1 Sekunde....
+            (Abb.)
 
     C.6 **Einfahren in die Schleusen des Nord-Ostsee-Kanals vom Kanal aus**
 
@@ -5013,35 +3553,21 @@ Abschnitt II - Schallsignale
 
             in die rechte Schleusenkammer:
 
-            dauernde Einzelschläge der Glocke.
-            ... (Abb.)
+            dauernde Einzelschläge der Glocke.... (Abb.)
 
             in die linke Schleusenkammer:
 
-            Doppelschläge der Glocke in Zwischenräumen von 4 Sekunden.
-            ... (Abb.)
-
+            Doppelschläge der Glocke in Zwischenräumen von 4 Sekunden.... (Abb.)
 
         b)  Kiel-Holtenau (Neue Schleuse)
 
             in die rechte Schleusenkammer:
 
-            Einzelschläge der Glocke alle 3 Sekunden.
-            ... (Abb.)
+            Einzelschläge der Glocke alle 3 Sekunden.... (Abb.)
 
             in die linke Schleusenkammer:
 
-            Doppelschläge der Glocke alle 3 Sekunden.
-            ... (Abb.)
-
-
-
-
-
-
-
-
-
+            Doppelschläge der Glocke alle 3 Sekunden.... (Abb.)
 
 
 ### Anlage II Sichtzeichen und Schallsignale der Fahrzeuge
@@ -5053,82 +3579,60 @@ II.1 Sichtzeichen
 II.2 Schallsignale
 Erläuterung zur Anlage II
 
-*
-    1.  Allgemeines ****
+-   1.  **Allgemeines**
 
         **Gemäß § 6 Abs. 1 haben Fahrzeuge zusätzlich zu den in den
         Kollisionsverhütungsregeln vorgeschriebenen Sichtzeichen und
         Schallsignalen nur solche nach Maßgabe dieser Anlage zu führen, zu
         zeigen oder zu geben.**
 
-
-    **2.** Zu den Lichtern ****
+    2.  **Zu den Lichtern**
 
         **Die nach den Kollisionsverhütungsregeln vorgeschriebenen Lichter
         sind zusätzlich dargestellt.**
 
-
-    **2.1** **Kennzeichnung der Lichter**
+    2.1 **Kennzeichnung der Lichter**
 
         Ist ein Funkellicht vorgeschrieben, so ist als Zeitmaß mindestens 120
         Lichterscheinungen in der Minute einzuhalten.
 
-
     2.2 **Darstellung der Lichter**
 
-        Rundumlicht in der angegebenen Farbe,
-        ... (Abb.)
+        Rundumlicht in der angegebenen Farbe, ... (Abb.)
 
         festes Licht in der angegebenen Farbe, sichtbar über einen begrenzten
-        Horizontbogen,
-        ... (Abb.)
+        Horizontbogen, ... (Abb.)
 
         festes Licht in der angegebenen Farbe, sichtbar über einen begrenzten
-        Horizontbogen, vom Beobachter abgekehrte Richtung,
-        ... (Abb.)
+        Horizontbogen, vom Beobachter abgekehrte Richtung, ... (Abb.)
 
         Funkellicht in der angegebenen Farbe, sichtbar über den ganzen
-        Horizont,
-        ... (Abb.)
+        Horizont, ... (Abb.)
 
         Gleichtaktlicht in der angegebenen Farbe, sichtbar über den ganzen
-        Horizont,
-        ... (Abb.)
+        Horizont, ... (Abb.)
 
         auf und nieder bewegtes Licht in der angegebenen Farbe, sichtbar über
-        den ganzen Horizont,
-        ... (Abb.)
+        den ganzen Horizont, ... (Abb.)
 
-        Leuchtkugel mit Sternen in der angegebenen Farbe.
-        ... (Abb.)
+        Leuchtkugel mit Sternen in der angegebenen Farbe.... (Abb.)
 
-
-    3.  Zu den Schallsignalen ****
+    3.  **Zu den Schallsignalen**
 
         **Darstellung der Schallsignale**
 
-        1 langer Ton
-        **... (Abb.)**
+        **1 langer Ton ... (Abb.)**
 
-        1 kurzer Ton
-        **... (Abb.**
+        **1 kurzer Ton ... (Abb.**
 
-        Glockenschlag
-        **... (Abb.)**
+        **Glockenschlag ... (Abb.)**
 
-        rasches Läuten der Glocke.
-        **... (Abb.)**
-
-
-
-
-
+        **rasches Läuten der Glocke.... (Abb.)**
 
 **II.1 Sichtzeichen der Fahrzeuge**
 
-*
-    **1.** Fahrzeuge des öffentlichen Dienstes bei Erfüllung polizeilicher
-        Aufgaben ****
+-   1.  **Fahrzeuge des öffentlichen Dienstes bei Erfüllung polizeilicher
+        Aufgaben**
 
         **(§ 7)**
 
@@ -5143,8 +3647,7 @@ Erläuterung zur Anlage II
 
         **... (Abb.)**
 
-
-    **2.** Zollfahrzeuge ****
+    2.  **Zollfahrzeuge**
 
         **Bei Nacht:**
 
@@ -5156,29 +3659,25 @@ Erläuterung zur Anlage II
 
         **eine viereckige grüne Flagge an beliebiger Stelle.**
 
-
-    **3.** Fahrzeuge der Bundeswehr und der Bundespolizei sowie
-        Maschinenfahrzeuge, die Schießscheiben schleppen ****
+    3.  **Fahrzeuge der Bundeswehr und der Bundespolizei sowie
+        Maschinenfahrzeuge, die Schießscheiben schleppen**
 
         **Fahrzeuge der Bundeswehr und der Bundespolizei sowie
-        Maschinenfahrzeuge, die Schießscheiben schleppen, denen sich bei Nacht
-        Fahrzeuge in Gefahr drohender Weise nähern und von denen ein
+        Maschinenfahrzeuge, die Schießscheiben schleppen, denen sich bei
+        Nacht Fahrzeuge in Gefahr drohender Weise nähern und von denen ein
         ausreichender Abstand zu halten ist:**
 
         **Leuchtkugeln mit weißen Sternen.**
 
         **... (Abb.)**
 
+    4.  **(aufgehoben)**
 
-    **4.** **(aufgehoben)**
-
-
-    **5.** Fähren ****
+    5.  **Fähren**
 
         **(§ 2 Abs. 1 Nr. 12)**
 
-
-    **5.1** **Nicht freifahrende Fähren in Fahrt**
+    5.1 **Nicht freifahrende Fähren in Fahrt**
 
         Bei Nacht:
 
@@ -5186,22 +3685,20 @@ Erläuterung zur Anlage II
 
         ... (Abb.)
 
-
     5.2 **Freifahrende Fähren auf dem Nord-Ostsee-Kanal, der Trave und der
         Warnow in Fahrt**
 
         Bei Nacht:
 
-        je ein gelbes Gleichtaktlicht im Topp sowie vorn und hinten an jeder
-        Seite (bei den Ecklichtern nur sichtbar im fahrzeugabgewandten
+        je ein gelbes Gleichtaktlicht im Topp sowie vorn und hinten an
+        jeder Seite (bei den Ecklichtern nur sichtbar im fahrzeugabgewandten
         Sichtwinkel).
 
         ... (Abb.)
 
-
     6.  Fahrzeuge und Schub- und Schleppverbände, die bestimmte gefährliche
         Güter befördern (§ 2 Abs. 1 Nr. 16) und leere Fahrzeuge im Sinne des §
-        30 Abs. 1 Nr. 2 sowie auf dem Nord-Ostsee-Kanal die bekannt gemachten
+        30 Abs. 1 Nr. 3 sowie auf dem Nord-Ostsee-Kanal die bekannt gemachten
         besonders gefährlichen Fahrzeuge, Schub- und Schleppverbände
 
         Bei Nacht:
@@ -5225,15 +3722,12 @@ Erläuterung zur Anlage II
 
         ... (Abb.)
 
-
     7.  (aufgehoben)
-
 
     8.  (aufgehoben)
 
-
-    9   Schwimmendes Zubehör, das von Fahrzeugen, die baggern oder
-        Unterwasserarbeiten ausführen, bei ihrem Einsatz verwendet wird ****
+    9   **Schwimmendes Zubehör, das von Fahrzeugen, die baggern oder
+        Unterwasserarbeiten ausführen, bei ihrem Einsatz verwendet wird**
 
         **Bei Nacht:**
 
@@ -5247,9 +3741,8 @@ Erläuterung zur Anlage II
 
         **... (Abb.)**
 
-
-    **10.** Manövrierbehinderte Fahrzeuge, die im Fahrwasser baggern oder
-        Unterwasserarbeiten ausführen ****
+    10. **Manövrierbehinderte Fahrzeuge, die im Fahrwasser baggern oder
+        Unterwasserarbeiten ausführen**
 
         **Manövrierbehinderte Fahrzeuge, die im Fahrwasser baggern oder
         Unterwasserarbeiten ausführen, haben, wenn an keiner Seite eine
@@ -5268,194 +3761,178 @@ Erläuterung zur Anlage II
 
         **... (Abb.)**
 
-
-    **11.** Festgemachte Fahrzeuge, schwimmende Anlagen (§ 2 Abs. 1 Nr. 5) und
+    11. Festgemachte Fahrzeuge, schwimmende Anlagen (§ 2 Abs. 1 Nr. 5) und
         außergewöhnliche Schwimmkörper (§ 2 Abs. 1 Nr. 6)
-
 
     11.1 **Bei einer Fahrzeuglänge von weniger als 50 m**
 
-        Bei Nacht:
+         Bei Nacht:
 
-        ein weißes Rundumlicht mittschiffs an der Fahrwasserseite oder an dem
-        am weitesten zum Fahrwasser reichenden Ende, möglichst in Deckshöhe.
+         ein weißes Rundumlicht mittschiffs an der Fahrwasserseite oder an dem
+         am weitesten zum Fahrwasser reichenden Ende, möglichst in Deckshöhe.
 
-        ... (Abb.)
-
+         ... (Abb.)
 
     11.2 **Bei einer Fahrzeuglänge von 50 m und mehr**
 
-        Bei Nacht:
+         Bei Nacht:
 
-        je ein weißes Rundumlicht vorn und hinten an der Fahrwasserseite,
-        möglichst in Deckshöhe.
+         je ein weißes Rundumlicht vorn und hinten an der Fahrwasserseite,
+         möglichst in Deckshöhe.
 
-        ... (Abb.)
-
+         ... (Abb.)
 
     11.3 **Ausnahmen und Sonderregelungen**
 
-        Festgemachte Fahrzeuge brauchen, ausgenommen auf dem Nord-Ostsee-
-        Kanal, keine Sichtzeichen zu führen, wenn die Umrisse des Fahrzeugs
-        durch andere Lichtquellen ausreichend und dauernd erkennbar sind oder
-        das Fahrzeug im Bereich einer Liegestelle liegt, deren Umrisse
-        ausreichend und dauernd erkennbar sind.
+         Festgemachte Fahrzeuge brauchen, ausgenommen auf dem Nord-Ostsee-
+         Kanal, keine Sichtzeichen zu führen, wenn die Umrisse des Fahrzeugs
+         durch andere Lichtquellen ausreichend und dauernd erkennbar sind
+         oder das Fahrzeug im Bereich einer Liegestelle liegt, deren Umrisse
+         ausreichend und dauernd erkennbar sind.
 
-        Dies gilt auch für schwimmende Anlagen und außergewöhnliche
-        Schwimmkörper. Auf dem Nord-Ostsee-Kanal brauchen Sportfahrzeuge an
-        den dafür bestimmten Liegestellen keine Lichter zu führen.
+         Dies gilt auch für schwimmende Anlagen und außergewöhnliche
+         Schwimmkörper. Auf dem Nord-Ostsee-Kanal brauchen Sportfahrzeuge an
+         den dafür bestimmten Liegestellen keine Lichter zu führen.
 
-        Sind zwei oder mehrere Fahrzeuge nebeneinander festgemacht, so braucht
-        nur das dem Fahrwasser am nächsten liegende Fahrzeug das Sichtzeichen
-        zu führen. Dies gilt auch für außergewöhnliche Schwimmkörper.
+         Sind zwei oder mehrere Fahrzeuge nebeneinander festgemacht, so braucht
+         nur das dem Fahrwasser am nächsten liegende Fahrzeug das Sichtzeichen
+         zu führen. Dies gilt auch für außergewöhnliche Schwimmkörper.
 
-        Fahrzeuge auf dem Nord-Ostsee-Kanal, die in den Weichengebieten aus
-        anderen als verkehrs- oder wetterbedingten Gründen liegen, haben das
-        Sichtzeichen zu zeigen; bei einem Schleppverband hat jedes Fahrzeug
-        die Sichtzeichen zu führen.
-
+         Fahrzeuge auf dem Nord-Ostsee-Kanal, die in den Weichengebieten aus
+         anderen als verkehrs- oder wetterbedingten Gründen liegen, haben das
+         Sichtzeichen zu zeigen; bei einem Schleppverband hat jedes Fahrzeug
+         die Sichtzeichen zu führen.
 
     11.4 **Fahrzeuge, die an einer Festmachetonne B.17 der Anlage I liegen**
 
-        Diese Fahrzeuge haben das Sichtzeichen für Ankerlieger nach Regel 30
-        der Kollisionsverhütungsregeln zu führen.
-
+         Diese Fahrzeuge haben das Sichtzeichen für Ankerlieger nach Regel 30
+         der Kollisionsverhütungsregeln zu führen.
 
     12. Fahrzeuge mit Seelotsen auf dem Nord-Ostsee-Kanal (§ 2 Abs. 1 Nr. 18a)
         vor dem Auslaufen aus der Schleuse zum Kanal
 
-        Die Sichtzeichen sind vor dem Auslaufen aus der Schleuse zum Kanal zu
-        setzen.
-
+        Die Sichtzeichen sind vor dem Auslaufen aus der Schleuse zum Kanal
+        zu setzen.
 
     12.1 **Verkehrsgruppen 1 und 2**
 
-        Am Tage:
+         Am Tage:
 
-        die Flagge "H" des Internationalen Signalbuches.
+         die Flagge "H" des Internationalen Signalbuches.
 
-        ... (Abb.)
-
+         ... (Abb.)
 
     12.2 **Verkehrsgruppe 3**
 
-        keine besondere Kennzeichnung.
-
+         keine besondere Kennzeichnung.
 
     12.3 **Verkehrsgruppe 4**
 
-        Bei Nacht:
+         Bei Nacht:
 
-        ein grünes Rundumlicht.
+         ein grünes Rundumlicht.
 
-        ... (Abb.)
+         ... (Abb.)
 
-        Am Tage:
+         Am Tage:
 
-        ein schwarzer Zylinder.
+         ein schwarzer Zylinder.
 
-        ... (Abb.)
-
+         ... (Abb.)
 
     12.4 **Verkehrsgruppen 5 und 6**
 
-        Bei Nacht:
+         Bei Nacht:
 
-        zwei grüne Rundumlichter senkrecht übereinander.
+         zwei grüne Rundumlichter senkrecht übereinander.
 
-        ... (Abb.)
+         ... (Abb.)
 
-        Am Tage:
+         Am Tage:
 
-        ein schwarzer Zylinder, darunter ein schwarzer Ball.
+         ein schwarzer Zylinder, darunter ein schwarzer Ball.
 
-        ... (Abb.)
+         ... (Abb.)
 
-        Die Sichtzeichen der Verkehrsgruppen 4 bis 6 müssen an der Steuerbord-
-        Rah oder an anderer geeigneter, von vorn gut sichtbarer Stelle der
-        Steuerbordseite geführt werden.
-
+         Die Sichtzeichen der Verkehrsgruppen 4 bis 6 müssen an der Steuerbord-
+         Rah oder an anderer geeigneter, von vorn gut sichtbarer Stelle der
+         Steuerbordseite geführt werden.
 
     13. Freifahrer auf dem Nord-Ostsee-Kanal (§ 2 Abs. 1 Nr. 15)
         einschließlich des Einlaufens in die Schleusen
 
-        Die Sichtanzeigen sind vor dem Einlaufen in die Schleusen zum Kanal zu
-        setzen.
-
+        Die Sichtanzeigen sind vor dem Einlaufen in die Schleusen zum Kanal
+        zu setzen.
 
     13.1 **Verkehrsgruppe 1**
 
-        Bei Nacht:
+         Bei Nacht:
 
-        ein gelbes Rundumlicht mindestens 1,50 m senkrecht unterhalb des
-        vorderen Topplichtes.
+         ein gelbes Rundumlicht mindestens 1,50 m senkrecht unterhalb des
+         vorderen Topplichtes.
 
-        ... (Abb.)
+         ... (Abb.)
 
-        Am Tage:
+         Am Tage:
 
-        die Flagge "N" des Internationalen Signalbuches.
+         die Flagge "N" des Internationalen Signalbuches.
 
-        ... (Abb.)
-
+         ... (Abb.)
 
     13.2 **Verkehrsgruppe 2**
 
-        Bei Nacht:
+         Bei Nacht:
 
-        ein gelbes Rundumlicht mindestens 1,50 m senkrecht unterhalb des
-        vorderen Topplichtes.
+         ein gelbes Rundumlicht mindestens 1,50 m senkrecht unterhalb des
+         vorderen Topplichtes.
 
-        ... (Abb.)
+         ... (Abb.)
 
-        Am Tage:
+         Am Tage:
 
-        die Flagge "N" und darunter den Zahlenwimpel "2" des Internationalen
-        Signalbuches.
+         die Flagge "N" und darunter den Zahlenwimpel "2" des Internationalen
+         Signalbuches.
 
-        ... (Abb.)
-
+         ... (Abb.)
 
     13.3 **Verkehrsgruppe 3**
 
-        Bei Nacht:
+         Bei Nacht:
 
-        ein gelbes Rundumlicht mindestens 1,50 m senkrecht unterhalb des
-        vorderen Topplichtes.
+         ein gelbes Rundumlicht mindestens 1,50 m senkrecht unterhalb des
+         vorderen Topplichtes.
 
-        ... (Abb.)
+         ... (Abb.)
 
-        Am Tage:
+         Am Tage:
 
-        die Flagge "N" und darunter den Zahlenwimpel "3" des Internationalen
-        Signalbuches.
+         die Flagge "N" und darunter den Zahlenwimpel "3" des Internationalen
+         Signalbuches.
 
-        ... (Abb.)
-
+         ... (Abb.)
 
     13.4 **Verkehrsgruppe 4**
 
-        Bei Nacht:
+         Bei Nacht:
 
-        ein gelbes Rundumlicht mindestens 1,50 m senkrecht unterhalb des
-        vorderen Topplichtes, ein grünes Rundumlicht.
+         ein gelbes Rundumlicht mindestens 1,50 m senkrecht unterhalb des
+         vorderen Topplichtes, ein grünes Rundumlicht.
 
-        ... (Abb.)
+         ... (Abb.)
 
-        Am Tage:
+         Am Tage:
 
-        die Flagge "N" und darunter den Zahlenwimpel "4" des Internationalen
-        Signalbuches, ein schwarzer Zylinder.
+         die Flagge "N" und darunter den Zahlenwimpel "4" des Internationalen
+         Signalbuches, ein schwarzer Zylinder.
 
-        ... (Abb.)
+         ... (Abb.)
 
-        Die Sichtzeichen der Verkehrsgruppe 4 müssen an der Steuerbord-Rah
-        oder an anderer geeigneter, von vorn gut sichtbarer Stelle der
-        Steuerbordseite geführt werden.
+         Die Sichtzeichen der Verkehrsgruppe 4 müssen an der Steuerbord-
+         Rah oder an anderer geeigneter, von vorn gut sichtbarer Stelle der
+         Steuerbordseite geführt werden.
 
-
-    14. Am Ufer festgekommene Fahrzeuge auf dem Nord-Ostsee-Kanal an der
-        Seite, an der vorbeigefahren werden darf ****
+    14. **Am Ufer festgekommene Fahrzeuge auf dem Nord-Ostsee-Kanal an der
+        Seite, an der vorbeigefahren werden darf**
 
         **Bei Nacht:**
 
@@ -5464,38 +3941,34 @@ Erläuterung zur Anlage II
 
         **... (Abb.)**
 
+    15. **Fahrzeuge, die einen Seelotsen anfordern**
 
-    **15.** Fahrzeuge, die einen Seelotsen anfordern ****
+    15.1 **Bei den Außenstationen der Seelotsenreviere für die Revierfahrten,
+         auf der Reede vor Bremerhaven für die Fahrt nach der Außenstation des
+         Lotsenfahrzeugs oder nach den stadtbremischen Häfen in Bremen oder
+         auf der Reede vor Brunsbüttel für die Fahrt nach der Außenstation des
+         Lotsenfahrzeugs oder nach Hamburg**
 
+         Am Tage:
 
-    **15.1** **Bei den Außenstationen der Seelotsenreviere für die Revierfahrten,
-        auf der Reede vor Bremerhaven für die Fahrt nach der Außenstation des
-        Lotsenfahrzeugs oder nach den stadtbremischen Häfen in Bremen oder auf
-        der Reede vor Brunsbüttel für die Fahrt nach der Außenstation des
-        Lotsenfahrzeugs oder nach Hamburg**
+         die Flagge "G" des Internationalen Signalbuches.
 
-        Am Tage:
-
-        die Flagge "G" des Internationalen Signalbuches.
-
-        ... (Abb.)
-
+         ... (Abb.)
 
     15.2 **Bei der Station des Lotsenfahrzeugs in der Jade/Weser- Ansteuerung
-        für die Fahrt nach Wilhelmshaven, auf der Reede vor Bremerhaven für
-        die Fahrt nach einem niedersächsischen Hafen im Wesergebiet oder auf
-        den Reeden vor Brunsbüttel und Kiel-Holtenau für die Fahrtstrecken des
-        Nord-Ostsee-Kanals**
+         für die Fahrt nach Wilhelmshaven, auf der Reede vor Bremerhaven für
+         die Fahrt nach einem niedersächsischen Hafen im Wesergebiet oder auf
+         den Reeden vor Brunsbüttel und Kiel-Holtenau für die Fahrtstrecken des
+         Nord-Ostsee-Kanals**
 
-        Am Tage:
+         Am Tage:
 
-        die Flagge "G" des Internationalen Signalbuches und der darunter
-        gesetzte Wimpel 1.
+         die Flagge "G" des Internationalen Signalbuches und der darunter
+         gesetzte Wimpel 1.
 
-        ... (Abb.)
+         ... (Abb.)
 
-
-    16. Fahrzeuge, die einen Seelotsen absetzen wollen ****
+    16. **Fahrzeuge, die einen Seelotsen absetzen wollen**
 
         **Am Tage:**
 
@@ -5503,84 +3976,64 @@ Erläuterung zur Anlage II
 
         **... (Abb.)**
 
-
-
-
-
-
-****
-
 II.2 Schallsignale der Fahrzeuge
 
-*
-    1.  Achtungssignal ****
+-   1.  **Achtungssignal**
 
         **Das Schallsignal ist in allen Fällen zu geben, in denen die
         Verkehrslage ein Achtungssignal erfordert, insbesondere**
 
-        **beim Einlaufen in andere Fahrwasser und Häfen, beim Auslaufen aus
-        ihnen sowie aus Schleusen und beim Verlassen von Liege- und
+        **beim Einlaufen in andere Fahrwasser und Häfen, beim Auslaufen
+        aus ihnen sowie aus Schleusen und beim Verlassen von Liege- und
         Ankerplätzen und**
 
-        **auf dem Nord-Ostsee-Kanal bei der Annäherung an schwimmende Geräte
-        und an Stellen, die durch ein Sichtzeichen A.4 (Anlage I)
-        gekennzeichnet sind, sowie beim Ablegen von der Bunkerstation
+        **auf dem Nord-Ostsee-Kanal bei der Annäherung an schwimmende
+        Geräte und an Stellen, die durch ein Sichtzeichen A.4 (Anlage
+        I) gekennzeichnet sind, sowie beim Ablegen von der Bunkerstation
         Projensdorf, wenn das Fahrzeug westwärts fahren will.**
 
         **Ein Maschinenfahrzeug, das Schießscheiben schleppt, hat das
         Schallsignal zu geben, wenn sich bei Nacht ein Fahrzeug in Gefahr
         drohender Weise nähert.**
 
-
     1.1 **Auf allen Seeschiffahrtsstraßen mit Ausnahme auf dem Nord-Ostsee-
         Kanal:**
 
-        ein langer Ton.
-        ... (Abb.)
-
+        ein langer Ton.... (Abb.)
 
     1.2 **Auf dem Nord-Ostsee-Kanal:**
 
-
     1.2.1 Westwärts fahrende Fahrzeuge:
 
-        ein langer Ton.
-        ... (Abb.)
-
+          ein langer Ton.... (Abb.)
 
     1.2.2 Ostwärts fahrende Fahrzeuge:
 
-        zwei lange Töne.
-        ... (Abb.)
+          zwei lange Töne.... (Abb.)
 
+    2.  **Gefahr- und Warnsignal**
 
-    2.  Gefahr- und Warnsignal ****
-
-
-    **2.1** **Allgemeines Gefahr- und Warnsignal**
+    2.1 **Allgemeines Gefahr- und Warnsignal**
 
         Gefährdet ein Fahrzeug ein anderes Fahrzeug oder wird es durch dieses
         selbst gefährdet, hat es soweit möglich rechtzeitig das Schallsignal
         zu geben:
 
-        ein langer Ton, vier kurze Töne,
-        ... (Abb.)
+        ein langer Ton, vier kurze Töne, ... (Abb.)
 
-        ein langer Ton, vier kurze Töne.
-        ... (Abb.)
-
+        ein langer Ton, vier kurze Töne.... (Abb.)
 
     2.2 **Bleib-weg-Signal**
 
         Werden auf Fahrzeugen oder Schub- und Schleppverbänden bestimmte
-        gefährliche Güter oder radioaktive Stoffe im Sinne von § 2 Abs. 1 Nr.
-        16 frei oder drohen freizuwerden oder besteht Explosionsgefahr, ist
-        das folgende Schallsignal so lange zu geben, wie die Verkehrslage es
-        erfordert:
+        gefährliche Güter oder radioaktive Stoffe im Sinne von § 2 Abs. 1
+        Nr. 16 frei oder drohen freizuwerden oder besteht Explosionsgefahr,
+        ist das folgende Schallsignal so lange zu geben, wie die Verkehrslage
+        es erfordert:
 
         ein kurzer Ton, ein langer Ton; das Signal ist in jeder Minute
-        mindestens 5mal hintereinander mit jeweils 2 Sekunden Zwischenpause zu
-        geben; sofern entsprechende Einrichtungen an Bord sind, ist das
+        mindestens 5mal hintereinander mit jeweils 2 Sekunden Zwischenpause
+        zu geben; sofern entsprechende Einrichtungen an Bord sind, ist das
         Schallsignal gleichzeitig als Lichtsignal mit einem weißen Rundumlicht
         zu geben.
 
@@ -5592,19 +4045,15 @@ II.2 Schallsignale der Fahrzeuge
         Für die Ausrüstung zum Geben der Schallsignale von Umschlaganlagen
         gilt Anlage III der Kollisionsverhütungsregeln sinngemäß.
 
-
     2.3 **Warnsignal auf dem Nord-Ostsee-Kanal "ich vermindere meine
         Geschwindigkeit"**
 
         Vermindert ein Fahrzeug seine Geschwindigkeit, während sich ein
         anderes Fahrzeug nähert, hat es rechtzeitig das Schallsignal zu geben:
 
-        ein langer Ton, drei kurze Töne,
-        ... (Abb.)
+        ein langer Ton, drei kurze Töne, ... (Abb.)
 
-        ein langer Ton, drei kurze Töne.
-        ... (Abb.)
-
+        ein langer Ton, drei kurze Töne.... (Abb.)
 
     2.4 **Warnsignal auf dem Nord-Ostsee-Kanal "ich will anlegen"**
 
@@ -5612,31 +4061,23 @@ II.2 Schallsignale der Fahrzeuge
         festmachen, während sich ein anderes Fahrzeug nähert, hat es
         rechtzeitig das Schallsignal zu geben:
 
-        ein langer Ton, drei kurze Töne.
-        ... (Abb.)
+        ein langer Ton, drei kurze Töne.... (Abb.)
 
+    3.  **Schallsignale bei verminderter Sicht**
 
-    3.  Schallsignale bei verminderter Sicht ****
-
-
-    **3.1** **Auf dem Nord-Ostsee-Kanal haben in Fahrt befindliche Fahrzeuge mit
+    3.1 **Auf dem Nord-Ostsee-Kanal haben in Fahrt befindliche Fahrzeuge mit
         Ausnahme der Fähren an Stellen, die durch Sichtzeichen B.1 (Anlage 1)
         gekennzeichnet sind, das Schallsignal zu geben:**
 
-
     3.1.1 westwärts fahrende Fahrzeuge:
 
-        ein langer Ton;
-        ... (Abb.)
-
+          ein langer Ton; ... (Abb.)
 
     3.1.2 ortswärts fahrende Fahrzeuge:
 
-        zwei lange Töne.
-        ... (Abb.)
+          zwei lange Töne. ... (Abb.)
 
-        Im übrigen ist das Schallsignal bei Erfordernis zu geben.
-
+          Im übrigen ist das Schallsignal bei Erfordernis zu geben.
 
     3.2 **Bugsierte Maschinenfahrzeuge in Fahrt**
 
@@ -5644,182 +4085,146 @@ II.2 Schallsignale der Fahrzeuge
         Kollisionsverhütungsregeln ist das Schallsignal mindestens alle 2
         Minuten zu geben:
 
-        ein langer Ton, ein kurzer Ton, zwei lange Töne.
-        ... (Abb.)
+        ein langer Ton, ein kurzer Ton, zwei lange Töne.... (Abb.)
 
         Die bugsierenden Schlepper dürfen das Schallsignal nach Regel 35
         Buchstabe c der Kollisionsverhütungsregeln nicht geben.
 
-
     3.3 **Fähren während der ganzen Fahrt**
-
 
     3.3.1 Nicht freifahrende Fähren:
 
-        dauernde Einzelschläge der Glocke.
-        ... (Abb.)
-
+          dauernde Einzelschläge der Glocke.... (Abb.)
 
     3.3.2 Freifahrende Fähren:
 
-        ein kurzer Ton, zwei lange Töne.
-        ... (Abb.)
-
+          ein kurzer Ton, zwei lange Töne.... (Abb.)
 
     4.  (aufgehoben)
 
-
-    5.  Ausweichsignal ****
+    5.  **Ausweichsignal**
 
         **(§ 24 Abs. 3)**
 
-
-    **5.1** **Hinweissignal "Ich will links ausweichen" sowie auf dem Nord-Ostsee-
+    5.1 **Hinweissignal "Ich will links ausweichen" sowie auf dem Nord-Ostsee-
         Kanal das Antwortsignal des Gegenkommers:**
 
-        ein langer Ton mit zwei Gruppen von zwei kurzen Tönen.
-        ... (Abb.)
-
+        ein langer Ton mit zwei Gruppen von zwei kurzen Tönen.... (Abb.)
 
     5.2 (aufgehoben)
 
-
-    6.  Anforderungssignal ****
+    6.  **Anforderungssignal**
 
         **"Brücke/Sperrtor/Schleuse öffnen"**
-
 
     6.1 **Auf allen Seeschiffahrtsstraßen mit Ausnahme auf der Trave (bei
         Hubbrücken mit zwei Hubstufen "öffnen bis zur 1. Hubstufe"):**
 
-        zwei lange Töne.
-        ... (Abb.)
-
+        zwei lange Töne.... (Abb.)
 
     6.2 **Auf der Trave**
 
-
     6.2.1 Seewärts fahrende Fahrzeuge:
 
-        zwei lange Töne.
-        ... (Abb.)
-
+          zwei lange Töne.... (Abb.)
 
     6.2.2 Binnenwärts fahrende Fahrzeuge:
 
-        zwei Gruppen von zwei langen Tönen.
-        ... (Abb.)
-
+          zwei Gruppen von zwei langen Tönen.... (Abb.)
 
     6.3 **Bei Hubbrücken mit zwei Hubstufen "öffnen bis zur letzten
         Hubstufe":**
 
-        zwei lange Töne, ein kurzer Ton.
-        ... (Abb.)
+        zwei lange Töne, ein kurzer Ton.... (Abb.)
 
+    7.  **Schleppersignale**
 
-    7.  Schleppersignale ****
+    7.1 **Hinweissignal "Ich möchte einen Schlepper":**
 
-
-    **7.1** **Hinweissignal "Ich möchte einen Schlepper":**
-
-        ein kurzer Ton, ein langer Ton, ein kurzer Ton, ein langer Ton.
-        ... (Abb.)
-
+        ein kurzer Ton, ein langer Ton, ein kurzer Ton, ein langer Ton....
+        (Abb.)
 
     7.2 **Manövriersignale beim Schleppen**
 
-
     7.2.1 Hinweissignal "Bugschlepper Schleppleine nehmen, anschleppen (antauen)
-        oder loswerfen":
+          oder loswerfen":
 
-        ein langer Ton, zwei kurze Töne, ein langer Ton.
-        ... (Abb.)
-
+          ein langer Ton, zwei kurze Töne, ein langer Ton.... (Abb.)
 
     7.2.2 Hinweissignal "Heckschlepper Schleppleine nehmen, anschleppen
-        (antauen) oder loswerfen":
+          (antauen) oder loswerfen":
 
-        ein langer Ton, zwei kurze Töne, zwei lange Töne.
-        ... (Abb.)
-
+          ein langer Ton, zwei kurze Töne, zwei lange Töne.... (Abb.)
 
     7.2.3 Hinweissignal "Bugschlepper nach Steuerbord schleppen (austauen)":
 
-        ein kurzer Ton.
-        ... (Abb.)
-
+          ein kurzer Ton.... (Abb.)
 
     7.2.4 Hinweissignal "Bugschlepper nach Backbord schleppen (austauen)":
 
-        zwei kurze Töne.
-        ... (Abb.)
-
+          zwei kurze Töne.... (Abb.)
 
     7.2.5 Hinweissignal "Heckschlepper zurückschleppen (zurücktauen)":
 
-        drei kurze Töne.
-        ... (Abb.)
-
+          drei kurze Töne.... (Abb.)
 
     7.2.6 Hinweissignal "Heckschlepper nach Steuerbord schleppen (austauen)":
 
-        drei kurze Töne und nach einer Pause ein weiterer kurzer Ton.
-        ... (Abb.)
-
+          drei kurze Töne und nach einer Pause ein weiterer kurzer Ton....
+          (Abb.)
 
     7.2.7 Hinweissignal "Heckschlepper nach Backbord schleppen (austauen)":
 
-        drei kurze Töne und nach einer Pause zwei weitere kurze Töne.
-        ... (Abb.)
-
+          drei kurze Töne und nach einer Pause zwei weitere kurze Töne....
+          (Abb.)
 
     7.2.8 Hinweissignal "Manöver verlangsamen oder einstellen":
 
-        ein langer Ton.
-        ... (Abb.)
-
+          ein langer Ton.... (Abb.)
 
     7.2.9 Hinweissignal "Gefahr":
 
-        fünf kurze Töne oder mehr.
-        ... (Abb.)
-
+          fünf kurze Töne oder mehr.... (Abb.)
 
     8.  (aufgehoben)
 
 
-
-
-
-
-
-Darstellung des Geltungsbereichs der Schiffahrtsstraßen-Ordnung
-
-### Anlage III (zu § 1 Abs. 5)
+### Anlage III Darstellung des Geltungsbereichs der Schiffahrtsstraßen-Ordnung (zu § 1 Abs. 5)
 
 (Inhalt: nicht darstellbare kartographische Karte;
 Fundstelle: BGBl. I 1998, 3264)
 
-Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet D Abschnitt III
 
-### Anhang EV (BGBl. II 1990, 889, 1108)
+### Anlage IV Liste der berauschenden Mittel und Substanzen
+
+(Fundstelle: BGBl. 2024 I Nr. 286, S. 27)
+
+| Mittel | Substanz |
+| --- | --- |
+| Heroin | Morphin |
+| Morphin | Morphin |
+| Kokain | Benzoylecgonin |
+| Amfetamine | Amfetamin |
+| Designer Amfetamine | Methylendioxyamfetamin (MDA) |
+| Methylendioxyethylamfetamin (MDE) |  |
+| Methylendioxymetamfetamin (MDAE) |  |
+| Metamfetamin | Metamfetamin |
+
+Zum gesicherten Nachweis auf das Vorhandensein der in der Tabelle
+genannten Substanzen im Blut gelten die jeweils aktuellen Empfehlungen
+der Grenzwertkommission beim Bundesministerium für Digitales und
+Verkehr für den Bereich des Straßenverkehrs.
+
+
+### Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet D Abschnitt III (BGBl. II 1990, 889, 1108)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:
 1\. - 7. ...
-
-8.  Seeschiffahrtsstraßen-Ordnung in der Fassung der Bekanntmachung vom
-    15\. April 1987 (BGBl. I S. 1266), geändert durch Verordnung vom 8.
-    August 1989 (BGBl. I S. 1583),
-
-    mit folgender Maßgabe:
-
-    Sämtliche bisherigen Seegewässer der Deutschen Demokratischen Republik
-    gelten bis zu einer anderweitigen Regelung als Seeschiffahrtsstraßen
-    im Sinne dieser Verordnung.
-
-
-
-...
+8\. Seeschiffahrtsstraßen-Ordnung in der Fassung der Bekanntmachung
+vom 15. April 1987 (BGBl. I S. 1266), geändert durch Verordnung vom
+8\. August 1989 (BGBl. I S. 1583),mit folgender Maßgabe:Sämtliche
+bisherigen Seegewässer der Deutschen Demokratischen Republik gelten
+bis zu einer anderweitigen Regelung als Seeschiffahrtsstraßen im Sinne
+dieser Verordnung. ...
 

@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl I: 1997, 158
 
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
@@ -37,10 +36,10 @@ an geltenden Fassung im Bundesgesetzblatt bekanntmachen.
 
 ## Art 3 Übergangsvorschriften
 
-(1) Wer bei Inkrafttreten dieses Gesetzes ein Heim im Sinne des § 1
-Abs. 1a des Heimgesetzes ohne Anzeige betreibt, hat den Betrieb
-innerhalb von drei Monaten nach Inkrafttreten dieses Gesetzes der
-zuständigen Behörde anzuzeigen. § 7 des Heimgesetzes gilt
+(1) Wer bei Inkrafttreten dieses Gesetzes ein Heim im Sinne des §
+1 Abs. 1a des Heimgesetzes ohne Anzeige betreibt, hat den Betrieb
+innerhalb von drei Monaten nach Inkrafttreten dieses Gesetzes
+der zuständigen Behörde anzuzeigen. § 7 des Heimgesetzes gilt
 entsprechend. Das gleiche gilt, wenn der Betrieb eines Heims im Sinne
 des § 1 Abs. 1 und 1a des Heimgesetzes innerhalb von drei Monaten nach
 Inkrafttreten dieses Gesetzes aufgenommen wird.

@@ -37,8 +37,8 @@ ihrer Geltung unberührt.
 
 (1) Deutsche Auslandsschule im Sinne dieses Gesetzes ist eine Schule,
 die im Ausland liegt und der aus einem erheblichen Bundesinteresse
-heraus der Status „Deutsche Auslandsschule“ durch Vertrag zwischen dem
-Bund und dem Träger der Schule verliehen worden ist
+heraus der Status „Deutsche Auslandsschule“ durch Vertrag
+zwischen dem Bund und dem Träger der Schule verliehen worden ist
 (Verleihungsvertrag).
 
 (2) Abschlüsse im Sinne dieses Gesetzes sind
@@ -52,17 +52,12 @@ Bund und dem Träger der Schule verliehen worden ist
     und Realschulabschlüsse und deutsche berufsbildende Abschlüsse gemäß
     der Anerkennung durch die Kultusministerkonferenz,
 
-
 2.  das Gemischtsprachige International Baccalaureate an ausländischen
     Schulen mit Deutschunterricht gemäß der Anerkennung durch die
     Kultusministerkonferenz,
 
-
-3.  das Deutsche Sprachdiplom der Kultusministerkonferenz der Stufen I und
-    II.
-
-
-
+3.  das Deutsche Sprachdiplom der Kultusministerkonferenz der Stufen I
+    und II.
 
 
 ### § 3 Anspruch auf die Verleihung des Status „Deutsche Auslandsschule“ und Kündigung des Verleihungsvertrages
@@ -73,17 +68,17 @@ erfolgt nur, wenn nach den Maßgaben des Haushaltsgesetzes die
 Erfüllung der Verpflichtungen gewährleistet ist, die sich aus
 Abschnitt 2 für den Bund ergeben.
 
-(2) Der Verleihungsvertrag kann aus wichtigem Grund zu jeder Zeit und
-mit sofortiger Wirkung oder mit angemessener Frist bis zum Ende des
-Förderzeitraums gemäß § 7 Absatz 2 durch den Bund oder durch den
+(2) Der Verleihungsvertrag kann aus wichtigem Grund zu jeder Zeit
+und mit sofortiger Wirkung oder mit angemessener Frist bis zum Ende
+des Förderzeitraums gemäß § 7 Absatz 2 durch den Bund oder durch den
 Träger der Schule gekündigt werden. Mit der Kündigung erlischt der
 Status „Deutsche Auslandsschule“.
 
 
 ### § 4 Schulaufsicht über die Deutschen Auslandsschulen
 
-(1) Soweit das Recht des Sitzlandes es zulässt, beaufsichtigt der Bund
-die Deutschen Auslandsschulen. Grundlagen dafür sind der
+(1) Soweit das Recht des Sitzlandes es zulässt, beaufsichtigt
+der Bund die Deutschen Auslandsschulen. Grundlagen dafür sind der
 Verleihungsvertrag und der Fördervertrag.
 
 (2) Der Bund nimmt die Schulaufsicht insbesondere dadurch wahr, dass
@@ -91,14 +86,9 @@ er
 
 1.  eigene Überprüfungen vor Ort durchführt,
 
-
 2.  die Berichte der Schulen an die fördernden Stellen auswertet und
 
-
 3.  prüft, ob die Förderung vertragsgemäß verwendet wird.
-
-
-
 
 (3) Im Rahmen der Schulaufsicht können den Deutschen Auslandsschulen
 Weisungen erteilt werden.
@@ -134,8 +124,8 @@ Schuljahre oder bis zu 36 Monate. Ein Antrag kann frühestens ein Jahr
 vor dem Zeitpunkt gestellt werden, zu dem die Förderung beginnen soll.
 Erneute Antragstellung vor Ablauf des Förderzeitraums ist möglich.
 
-(3) Zur Bemessung des Anspruchs nach den §§ 11 und 12 werden an einer
-Schule pro Abschluss nach § 2 Absatz 2 bis zu drei parallele
+(3) Zur Bemessung des Anspruchs nach den §§ 11 und 12 werden an
+einer Schule pro Abschluss nach § 2 Absatz 2 bis zu drei parallele
 Klassenzüge berücksichtigt. Ein Klassenzug besteht pro Jahrgangsstufe
 aus bis zu 25 Schülerinnen und Schülern. Es können nicht mehr
 Klassenzüge berücksichtigt werden als in den drei Jahren vor
@@ -150,36 +140,28 @@ Eine Deutsche Auslandsschule ist förderfähig, wenn sie
 1.  deutschsprachigen Unterricht anbietet und deutschsprachig geprägte
     Abschlüsse nach § 2 Absatz 2 vermittelt,
 
-
-2.  in jedem der letzten drei Jahre vor Antragstellung Abschlüsse nach § 2
-    Absatz 2 Nummer 1 und 2 vergeben hat und von diesen Abschlüssen pro
+2.  in jedem der letzten drei Jahre vor Antragstellung Abschlüsse nach §
+    2 Absatz 2 Nummer 1 und 2 vergeben hat und von diesen Abschlüssen pro
     Jahr im Durchschnitt mindestens 12 Abschlüsse aus ein und derselben
     Kategorie des § 2 Absatz 2 Nummer 1 und 2 stammen,
 
-
-3.  den demokratischen Werten Deutschlands Rechnung trägt, indem sie den
-    Schülerinnen und Schülern, den Eltern und den Lehrkräften eine
+3.  den demokratischen Werten Deutschlands Rechnung trägt, indem sie
+    den Schülerinnen und Schülern, den Eltern und den Lehrkräften eine
     angemessene Beteiligung am Schulleben sichert,
-
 
 4.  die Mittel selbst aufbringt, die neben der Förderung für den
     nachhaltigen Betrieb einer Deutschen Auslandsschule notwendig sind,
 
-
 5.  einen ordnungsgemäßen Betrieb, insbesondere die vertragsgemäße
     Verwendung der Förderung, gewährleistet und
 
-
 6.  durch die Vorlage einer Bescheinigung einer Behörde des Sitzlandes
-    oder der Bundesrepublik Deutschland oder eines im Sitzland oder der
-    Europäischen Union zugelassenen Wirtschaftsprüfers nachweist, dass sie
-    entweder keine Gewinne erzielt oder die erzielten Gewinne
-    ausschließlich für den Betrieb, den Ausbau oder die Entwicklung der
-    Schule oder als Rücklagen oder Rückstellungen für diese Zwecke
+    oder der Bundesrepublik Deutschland oder eines im Sitzland oder
+    der Europäischen Union zugelassenen Wirtschaftsprüfers nachweist,
+    dass sie entweder keine Gewinne erzielt oder die erzielten Gewinne
+    ausschließlich für den Betrieb, den Ausbau oder die Entwicklung
+    der Schule oder als Rücklagen oder Rückstellungen für diese Zwecke
     eingesetzt werden.
-
-
-
 
 
 ### § 9 Fördervertrag
@@ -189,40 +171,29 @@ Auslandsschule werden insbesondere vereinbart:
 
 1.  der Förderzeitraum,
 
-
 2.  die geförderten Abschlüsse nach § 2 Absatz 2,
-
 
 3.  die Anzahl der gemäß § 7 Absatz 3 für die Förderung berücksichtigten
     Klassenzüge,
 
-
 4.  die Vermittlung von Lehrkräften gemäß § 11,
-
 
 5.  die Anforderungen an einen ordnungsgemäßen Betrieb, insbesondere die
     vertragsgemäße Verwendung der Förderung und deren Nachweis,
 
-
 6.  die Verpflichtung des Schulträgers, für Kinder aus einkommensschwachen
     Familien eine Ermäßigung des Schulgeldes vorzusehen,
 
-
-7.  die Frist, innerhalb derer der Schulträger eine Konzeption zur
-    Umsetzung des inklusiven Unterrichts bzw. regelmäßige
+7.  die Frist, innerhalb derer der Schulträger eine Konzeption
+    zur Umsetzung des inklusiven Unterrichts bzw. regelmäßige
     Fortschrittsberichte hierzu vorzulegen hat,
-
 
 8.  die Sicherstellung der Förderfähigkeit nach § 8 auch während des
     Förderzeitraums und
 
-
 9.  das Recht des Bundesrechnungshofes, an den Deutschen Auslandsschulen
     zu erheben, ob die Fördermittel des Bundes zweckentsprechend und
     wirtschaftlich verwendet werden.
-
-
-
 
 (2) Der Fördervertrag kann vom Bund aus wichtigem Grund ohne
 Einhaltung einer Frist gekündigt werden. Ein wichtiger Grund kann
@@ -239,12 +210,8 @@ finanziellen Förderung verlangen,
 1.  falls der Fördervertrag nach § 9 Absatz 2 fristlos gekündigt wurde
     oder
 
-
 2.  soweit die Förderung vollständig oder teilweise nicht vertragsgemäß
     verwendet wurde.
-
-
-
 
 
 ### § 11 Personelle Förderung
@@ -280,8 +247,8 @@ geförderter Wochenstunde zugrunde gelegt.
 
 (2) Um den Festbetrag für eine geförderte Wochenstunde zu berechnen,
 wird das Inlandsjahresgrundgehalt der Bundesbesoldungsgruppe A 14
-Stufe 8 durch 25 dividiert. Für den Förderzeitraum nach § 7 Absatz 2
-wird der Festbetrag zugrunde gelegt, der sich zum 1. Januar des
+Stufe 8 durch 25 dividiert. Für den Förderzeitraum nach § 7 Absatz
+2 wird der Festbetrag zugrunde gelegt, der sich zum 1. Januar des
 Kalenderjahres ergibt, in dem der Förderzeitraum beginnt.
 
 (3) Eine Schule wird für die Wochenstunden zur Vorbereitung oder
@@ -347,8 +314,8 @@ Maßgabe des Zuwendungsrechts fördern.
 ### § 18 Verwaltungsvorschriften
 
 Das Auswärtige Amt wird ermächtigt, die nach diesem Gesetz
-erforderlichen Verwaltungsvorschriften im Einvernehmen mit dem
-Bundesministerium der Finanzen zu erlassen. Die
+erforderlichen Verwaltungsvorschriften im Einvernehmen
+mit dem Bundesministerium der Finanzen zu erlassen. Die
 Verwaltungsvorschriften regeln die Berechnung des geförderten
 Unterrichtsaufwandes, das Antragsverfahren, das Verfahren zum Nachweis
 der Verwendung der Förderung und die Datenübermittlung zwischen

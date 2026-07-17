@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zur Sammlung von Nachrichten über Kriegsgefangene, festgehaltene oder
-  verschleppte Zivilpersonen und Vermißte
+Title: Gesetz zur Sammlung von Nachrichten über Kriegsgefangene, festgehaltene oder verschleppte Zivilpersonen und Vermißte
 jurabk: VermSammlG
 layout: default
 origslug: vermsammlg
@@ -17,7 +16,6 @@ Fundstelle
 :   BGBl I: 1951, 267
 
 
-
 ## § 1
 
 Wer Kenntnis von dem Verbleib eines Kriegsgefangenen, einer
@@ -32,8 +30,8 @@ sind. Die Aufforderung erfolgt durch Übersendung des Formblattes.
 ## § 2
 
 Wer im Besitz von Unterlagen ist, die Angaben über den Verbleib von
-Kriegsgefangenen, festgehaltenen oder verschleppten Zivilpersonen oder
-Vermißten enthalten, ist den in § 1 bestimmten Dienststellen zur
+Kriegsgefangenen, festgehaltenen oder verschleppten Zivilpersonen
+oder Vermißten enthalten, ist den in § 1 bestimmten Dienststellen zur
 Auskunft über diese Unterlagen verpflichtet. Auf Verlangen ist ihnen
 Einsicht in die Unterlagen zu gewähren.
 

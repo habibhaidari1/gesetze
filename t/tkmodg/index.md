@@ -1,7 +1,5 @@
 ---
-Title: Gesetz zur Umsetzung der Richtlinie (EU) 2018/1972 des Europäischen Parlaments
-  und des Rates vom 11. Dezember 2018 über den europäischen Kodex für die elektronische
-  Kommunikation (Neufassung) und zur Modernisierung des Telekommunikationsrechts
+Title: Gesetz zur Umsetzung der Richtlinie (EU) 2018/1972 des Europäischen Parlaments und des Rates vom 11. Dezember 2018 über den europäischen Kodex für die elektronische Kommunikation (Neufassung) und zur Modernisierung des Telekommunikationsrechts
 jurabk: TKModG
 layout: default
 origslug: tkmodg
@@ -15,12 +13,7 @@ Ausfertigungsdatum
 :   2021-06-23
 
 Fundstelle
-:   BGBl I: 2021, 1858
-
-[^F816631_01_BJNR185800021]:     Dieses Gesetz dient der Umsetzung der Richtlinie (EU) 2018/1972 des
-    Europäischen Parlaments und des Rates vom 11. Dezember 2018 über den
-    europäischen Kodex für die elektronische Kommunikation (Neufassung)
-    (ABl. L 321 vom 17.12.2018, S. 36).
+:   BGBl I: 2021, 1858 (2022 I 1045)
 
 
 ## Eingangsformel
@@ -49,8 +42,8 @@ nach dem Bundesversorgungsgesetz ergeben.
 
 ## Art 61 Inkrafttreten, Außerkrafttreten
 
-(1) Dieses Gesetz tritt vorbehaltlich der Absätze 2 und 3 am 1.
-Dezember 2021 in Kraft. Gleichzeitig tritt das
+(1) Dieses Gesetz tritt vorbehaltlich der Absätze 2 und
+3 am 1. Dezember 2021 in Kraft. Gleichzeitig tritt das
 Telekommunikationsgesetz vom 22. Juni 2004 (BGBl. I S. 1190), das
 zuletzt durch Artikel 2 des Gesetzes vom 18. Mai 2021 (BGBl. I S.
 1122) geändert worden ist, außer Kraft.

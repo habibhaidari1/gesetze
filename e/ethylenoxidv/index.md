@@ -22,8 +22,8 @@ Zuletzt geändert durch
 ## Eingangsformel
 
 Auf Grund des § 6 Abs. 1 und 2 und § 83 Abs. 1 und 2 des
-Arzneimittelgesetzes vom 24. August 1976 (BGBl. I S. 2445, 2448), § 6
-geändert gemäß Artikel 1 der Dritten Zuständigkeitsanpassungs-
+Arzneimittelgesetzes vom 24. August 1976 (BGBl. I S. 2445, 2448),
+§ 6 geändert gemäß Artikel 1 der Dritten Zuständigkeitsanpassungs-
 Verordnung vom 26. November 1986 (BGBl. I S. 2089), wird im
 Einvernehmen mit dem Bundesminister für Ernährung, Landwirtschaft und
 Forsten verordnet:
@@ -65,9 +65,9 @@ Tage nach der Verkündung in Kraft.
 
 (2) Bei der Herstellung von Arzneimitteln, die aus getrockneten
 Pflanzen in unzerkleinerter oder grob geschnittener Form bestehen und
-die ausschließlich dazu bestimmt sind, in unverändertem Zustand in den
-Verkehr gebracht zu werden, ist die Verwendung von Ethylenoxid zur
-Reduzierung von Krankheitskeimen noch bis zum 31. Dezember 1990
+die ausschließlich dazu bestimmt sind, in unverändertem Zustand in
+den Verkehr gebracht zu werden, ist die Verwendung von Ethylenoxid
+zur Reduzierung von Krankheitskeimen noch bis zum 31. Dezember 1990
 zugelassen.
 
 

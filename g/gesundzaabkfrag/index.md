@@ -1,11 +1,5 @@
 ---
-Title: Gesetz zu dem Rahmenabkommen vom 22. Juli 2005 zwischen der Regierung der Bundesrepublik
-  Deutschland und der Regierung der Französischen Republik über die grenzüberschreitende
-  Zusammenarbeit im Gesundheitsbereich und zu der Verwaltungsvereinbarung vom 9. März
-  2006 zwischen dem Bundesministerium für Gesundheit der Bundesrepublik Deutschland
-  und dem Minister für Gesundheit und Solidarität der Französischen Republik über
-  die Durchführungsmodalitäten des Rahmenabkommens vom 22. Juli 2005 über die grenzüberschreitende
-  Zusammenarbeit im Gesundheitsbereich
+Title: Gesetz zu dem Rahmenabkommen vom 22. Juli 2005 zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Französischen Republik über die grenzüberschreitende Zusammenarbeit im Gesundheitsbereich und zu der Verwaltungsvereinbarung vom 9. März 2006 zwischen dem Bundesministerium für Gesundheit der Bundesrepublik Deutschland und dem Minister für Gesundheit und Solidarität der Französischen Republik über die Durchführungsmodalitäten des Rahmenabkommens vom 22. Juli 2005 über die grenzüberschreitende Zusammenarbeit im Gesundheitsbereich
 jurabk: GesundZAAbkFRAG
 layout: default
 origslug: gesundzaabkfrag
@@ -20,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl II: 2006, 1330
-
 
 
 ## Eingangsformel
@@ -38,15 +31,12 @@ Folgenden zwischenstaatlichen Übereinkünften wird zugestimmt:
     Regierung der Französischen Republik über die grenzüberschreitende
     Zusammenarbeit im Gesundheitsbereich,
 
-
 2.  der in Berlin am 9. März 2006 unterzeichneten Verwaltungsvereinbarung
     zwischen dem Bundesministerium für Gesundheit der Bundesrepublik
     Deutschland und dem Minister für Gesundheit und Solidarität der
     Französischen Republik über die Durchführungsmodalitäten des
     Rahmenabkommens vom 22. Juli 2005 über die grenzüberschreitende
     Zusammenarbeit im Gesundheitsbereich.
-
-
 
 Das Rahmenabkommen und die Verwaltungsvereinbarung werden nachstehend
 veröffentlicht.

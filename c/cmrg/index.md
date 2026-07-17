@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zu dem Übereinkommen vom 19. Mai 1956 über den Beförderungsvertrag im
-  internationalen Straßengüterverkehr (CMR)
+Title: Gesetz zu dem Übereinkommen vom 19. Mai 1956 über den Beförderungsvertrag im internationalen Straßengüterverkehr (CMR)
 jurabk: CMRG
 layout: default
 origslug: cmrg
@@ -23,17 +22,17 @@ Geändert durch
 ## Art 1
 
 Dem in Genf am 19. Mai 1956 unterzeichneten Übereinkommen über den
-Beförderungsvertrag im internationalen Straßengüterverkehr (CMR) nebst
-Unterzeichnungsprotokoll vom gleichen Tage wird zugestimmt. Das
-Übereinkommen nebst Unterzeichnungsprotokoll wird nachstehend
+Beförderungsvertrag im internationalen Straßengüterverkehr (CMR)
+nebst Unterzeichnungsprotokoll vom gleichen Tage wird zugestimmt.
+Das Übereinkommen nebst Unterzeichnungsprotokoll wird nachstehend
 veröffentlicht.
 
 
 ## Art 1a
 
 Für Rechtsstreitigkeiten aus einer dem Übereinkommen unterliegenden
-Beförderung ist auch das Gericht zuständig, in dessen Bezirk der Ort
-der Übernahme des Gutes oder der für die Ablieferung des Gutes
+Beförderung ist auch das Gericht zuständig, in dessen Bezirk der
+Ort der Übernahme des Gutes oder der für die Ablieferung des Gutes
 vorgesehene Ort liegt.
 
 

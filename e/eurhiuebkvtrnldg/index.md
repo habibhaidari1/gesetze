@@ -1,8 +1,5 @@
 ---
-Title: Gesetz zu dem Vertrag vom 30. August 1979 zwischen der Bundesrepublik Deutschland
-  und dem Königreich der Niederlande über die Ergänzung des Europäischen Übereinkommens
-  vom 20. April 1959 über die Rechtshilfe in Strafsachen und die Erleichterung seiner
-  Anwendung
+Title: Gesetz zu dem Vertrag vom 30. August 1979 zwischen der Bundesrepublik Deutschland und dem Königreich der Niederlande über die Ergänzung des Europäischen Übereinkommens vom 20. April 1959 über die Rechtshilfe in Strafsachen und die Erleichterung seiner Anwendung
 jurabk: EuRHiÜbkVtrNLDG
 layout: default
 origslug: eurhi_bkvtrnldg
@@ -17,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl II: 1981, 1158
-
 
 
 ## Art 1

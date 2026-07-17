@@ -1,6 +1,5 @@
 ---
-Title: Verordnung zur Bestimmung der Rentenwerte in der gesetzlichen Rentenversicherung
-  und in der Alterssicherung der Landwirte zum 1. Juli 2005
+Title: Verordnung zur Bestimmung der Rentenwerte in der gesetzlichen Rentenversicherung und in der Alterssicherung der Landwirte zum 1. Juli 2005
 jurabk: RWBestV 2005
 layout: default
 origslug: rwbestv_2005
@@ -17,7 +16,6 @@ Fundstelle
 :   BGBl I: 2005, 1578
 
 
-
 ## Eingangsformel
 
 Auf Grund
@@ -30,18 +28,14 @@ Auf Grund
     255f zuletzt durch Artikel 1 Nr. 11 des Gesetzes vom 4. Dezember 2004
     (BGBl. I S. 3183) geändert worden sind,
 
-
 -   des § 255b Abs. 1 in Verbindung mit § 255a des Sechsten Buches
     Sozialgesetzbuch - Gesetzliche Rentenversicherung - in der Fassung der
     Bekanntmachung vom 19. Februar 2002 (BGBl. I S. 754, 1404, 3384), von
     denen § 255a durch Artikel 1 Nr. 52a des Gesetzes vom 9. Dezember 2004
     (BGBl. I S. 3242) zuletzt geändert worden ist, sowie
 
-
 -   des § 26 in Verbindung mit § 23 Abs. 4 und des § 105 des Gesetzes über
     die Alterssicherung der Landwirte vom 29. Juli 1994 (BGBl. I S. 1890)
-
-
 
 verordnet die Bundesregierung:
 

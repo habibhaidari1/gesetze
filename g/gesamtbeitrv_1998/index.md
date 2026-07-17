@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über den Gesamtbeitrag der Wehrdienstleistenden und der Zivildienstleistenden
-  zur Arbeitsförderung
+Title: Verordnung über den Gesamtbeitrag der Wehrdienstleistenden und der Zivildienstleistenden zur Arbeitsförderung
 jurabk: GesamtBeitrV 1998
 layout: default
 origslug: gesamtbeitrv_1998
@@ -35,8 +34,8 @@ Bundesministerium für Familie, Senioren, Frauen und Jugend:
 
 Der Bund entrichtet für die versicherungspflichtigen
 Wehrdienstleistenden und für die versicherungspflichtigen
-Zivildienstleistenden (§ 25 Abs. 2 Satz 2 und 3, § 26 Abs. 1 Nr. 2 des
-Dritten Buches Sozialgesetzbuch) je einen Gesamtbeitrag für das
+Zivildienstleistenden (§ 25 Abs. 2 Satz 2 und 3, § 26 Abs. 1 Nr. 2
+des Dritten Buches Sozialgesetzbuch) je einen Gesamtbeitrag für das
 Kalenderjahr, in dem der Dienst geleistet worden ist (Beitragsjahr).
 
 
@@ -46,28 +45,23 @@ Kalenderjahr, in dem der Dienst geleistet worden ist (Beitragsjahr).
 
 1.  als Beitragssatz die Hälfte des Beitragssatzes im
 
-
-
-BS
-Durchschnitt des Kalenderjahres (----)
-100
+```
+                                      BS    Durchschnitt des Kalenderjahres (----)                                     100
+```
 
 2.  als beitragspflichtige Einnahme (BE) ein Betrag in Höhe von 40 Prozent
     der monatlichen Bezugsgröße der Sozialversicherung sowie
 
-
 3.  die Summe der Diensttage (DT) der versicherungspflichtigen
     Wehrdienstleistenden und Zivildienstleistenden im Beitragsjahr.
-
-
-
 
 (2) Der Gesamtbeitrag der versicherungspflichtigen
 Wehrdienstleistenden und Zivildienstleistenden wird nach folgender
 Formel berechnet:
-BE    BS
--- x --- DT = Euro.
-30   100
+
+```
+                 BE    BS                 -- x --- DT = Euro.                 30   100
+```
 
 
 ## § 3

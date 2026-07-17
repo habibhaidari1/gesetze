@@ -28,12 +28,12 @@ verordnet die Bundesregierung:
 
 ## § 1 Urlaub für Arbeitnehmer bei Ausscheiden aus den Streitkräften
 
-(1) Ein Arbeitnehmer, der nach Teilnahme an einer Eignungsübung aus
-den Streitkräften ausscheidet, erhält von den Streitkräften für jeden
-angefangenen Monat, den er bei den Streitkräften Dienst geleistet hat,
-ein Zwölftel des Urlaubs, der ihm auf Grund des Arbeitsverhältnisses
-für das laufende Urlaubsjahr zusteht; der Urlaub wird auch dann
-gewährt, wenn der Arbeitnehmer eine für den Erwerb des
+(1) Ein Arbeitnehmer, der nach Teilnahme an einer Eignungsübung
+aus den Streitkräften ausscheidet, erhält von den Streitkräften
+für jeden angefangenen Monat, den er bei den Streitkräften Dienst
+geleistet hat, ein Zwölftel des Urlaubs, der ihm auf Grund des
+Arbeitsverhältnisses für das laufende Urlaubsjahr zusteht; der Urlaub
+wird auch dann gewährt, wenn der Arbeitnehmer eine für den Erwerb des
 Urlaubsanspruchs vorgesehene Wartezeit noch nicht erfüllt hat.
 
 (2) Ergibt sich nach der Berechnung des Urlaubs nach Absatz 1 ein
@@ -59,9 +59,9 @@ Dauer der Eignungsübung von den Streitkräften geklebt.
 ## § 2 Urlaub für Arbeitnehmer bei Verbleiben in den Streitkräften
 
 (1) Ein Arbeitnehmer, der nach Teilnahme an einer Eignungsübung als
-freiwilliger Soldat in den Streitkräften bleibt, erhält den Urlaub aus
-dem bisherigen Arbeitsverhältnis, der bei Beginn der Eignungsübung im
-laufenden Urlaubsjahr noch nicht verbraucht ist, von den
+freiwilliger Soldat in den Streitkräften bleibt, erhält den Urlaub
+aus dem bisherigen Arbeitsverhältnis, der bei Beginn der Eignungsübung
+im laufenden Urlaubsjahr noch nicht verbraucht ist, von den
 Streitkräften. Eine Abgeltung findet nicht statt.
 
 (2) Hat der Arbeitnehmer bei Beginn der Eignungsübung eine für den
@@ -72,8 +72,8 @@ diesem Zeitpunkt geendet hätte.
 
 ## § 3 Urlaubsbescheinigung
 
-Der Arbeitgeber hat dem Arbeitnehmer vor Beginn der Eignungsübung eine
-Bescheinigung über den im laufenden Urlaubsjahr zustehenden und
+Der Arbeitgeber hat dem Arbeitnehmer vor Beginn der Eignungsübung
+eine Bescheinigung über den im laufenden Urlaubsjahr zustehenden und
 bereits gewährten Erholungsurlaub oder die Urlaubskarte auszuhändigen.
 Der Arbeitnehmer hat die Bescheinigung oder die Urlaubskarte
 unverzüglich bei der zuständigen Dienststelle der Streitkräfte
@@ -97,19 +97,19 @@ für Arbeitnehmer im öffentlichen Dienst nicht berührt; jedoch sind
 während der Eignungsübung keine Beiträge zu entrichten.
 
 (2) Für Pflichtversicherte, die nach Teilnahme an einer Eignungsübung
-ihr bisheriges Arbeitsverhältnis fortsetzen oder bei Verbleiben in den
-Streitkräften sich freiwillig weiterversichern wollen, sind die
-Beiträge für die Dauer der Eignungsübung nachzuentrichten, und zwar in
-der Höhe, in der sie zuletzt vor Beginn der Eignungsübung gezahlt
-wurden. Während der Eignungsübung eintretende Änderungen des
-Beitragssatzes sind zu berücksichtigen. Das gleiche gilt für
-Pflichtversicherte und freiwillig Versicherte, bei denen der
+ihr bisheriges Arbeitsverhältnis fortsetzen oder bei Verbleiben
+in den Streitkräften sich freiwillig weiterversichern wollen, sind
+die Beiträge für die Dauer der Eignungsübung nachzuentrichten, und
+zwar in der Höhe, in der sie zuletzt vor Beginn der Eignungsübung
+gezahlt wurden. Während der Eignungsübung eintretende Änderungen
+des Beitragssatzes sind zu berücksichtigen. Das gleiche gilt
+für Pflichtversicherte und freiwillig Versicherte, bei denen der
 Versicherungsfall während der Eignungsübung eintritt.
 
 (3) Der Arbeitgeber hat die nachzuentrichtenden Beiträge an die
 Versicherungsanstalt abzuführen oder bei Verwendung von Beitragsmarken
-durch Kleben von Marken zu entrichten. Die Streitkräfte haben dem
-Arbeitgeber den Betrag zu erstatten, den er zum Zweck der
+durch Kleben von Marken zu entrichten. Die Streitkräfte haben
+dem Arbeitgeber den Betrag zu erstatten, den er zum Zweck der
 Beitragsnachentrichtung für die Dauer der Eignungsübung verwendet hat.
 
 (4) Leistet der Arbeitgeber bei einem freiwillig Versicherten auf
@@ -129,15 +129,15 @@ gelten die Absätze 1 bis 4 sinngemäß.
 2 sinngemäß.
 
 (2) Der Arbeitgeber hat die nachzuentrichtenden Beiträge an die
-Pensionskasse abzuführen oder bei Verwendung von Beitragsmarken durch
-Kleben von Marken zu entrichten. Die Streitkräfte haben dem
-Arbeitgeber den Betrag zu erstatten, den er zum Zweck der
-Beitragsnachentrichtung für die Dauer der Eignungsübung verwendet hat.
-Dies gilt auch dann, wenn nur der Arbeitgeber Beiträge an die
+Pensionskasse abzuführen oder bei Verwendung von Beitragsmarken
+durch Kleben von Marken zu entrichten. Die Streitkräfte haben
+dem Arbeitgeber den Betrag zu erstatten, den er zum Zweck der
+Beitragsnachentrichtung für die Dauer der Eignungsübung verwendet
+hat. Dies gilt auch dann, wenn nur der Arbeitgeber Beiträge an die
 Pensionskasse zahlt.
 
-(3) § 5 Abs. 4 gilt sinngemäß. Die Streitkräfte erstatten in diesen
-Fällen dem Arbeitgeber die für die Zeit der Eignungsübung
+(3) § 5 Abs. 4 gilt sinngemäß. Die Streitkräfte erstatten in
+diesen Fällen dem Arbeitgeber die für die Zeit der Eignungsübung
 nachzuentrichtenden Beitragsanteile.
 
 (4) Für sonstige Einrichtungen und Formen der betrieblichen und
@@ -153,8 +153,8 @@ nicht entrichtet zu werden. § 1 Abs. 6 bleibt unberührt.
 
 ## § 8 Anrechnung der Wehrdienstzeit
 
-Die Zeit der Teilnahme an einer Eignungsübung wird auf die Dauer der
-Berufs- und Betriebszugehörigkeit sowie auf die Dauer des
+Die Zeit der Teilnahme an einer Eignungsübung wird auf die Dauer
+der Berufs- und Betriebszugehörigkeit sowie auf die Dauer des
 Vertragsverhältnisses angerechnet. Für Arbeitnehmer im öffentlichen
 Dienst gilt sie als Dienstzeit im Sinne von Tarifordnungen und
 Tarifverträgen des öffentlichen Dienstes. Auf Ausbildungs- und

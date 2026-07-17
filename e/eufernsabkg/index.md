@@ -22,8 +22,8 @@ Geändert durch
 ## Art 1
 
 Dem in Straßburg am 11. Juli 1960 von der Bundesrepublik Deutschland
-unterzeichneten Europäischen Abkommen vom 22. Juni 1960 zum Schutz von
-Fernsehsendungen wird mit den sich aus Artikel 2 Abs. 1 ergebenden
+unterzeichneten Europäischen Abkommen vom 22. Juni 1960 zum Schutz
+von Fernsehsendungen wird mit den sich aus Artikel 2 Abs. 1 ergebenden
 Vorbehalten zugestimmt. Das Abkommen wird nachstehend veröffentlicht.
 
 
@@ -34,8 +34,8 @@ bei der Hinterlegung der Ratifikationsurkunde von den in Artikel 3
 Abs. 1 Buchstaben b, c und e des Abkommens vorgesehenen Vorbehalten
 Gebrauch und gewährt den darin bezeichneten Schutz nicht.
 
-(2) Auf den im Abkommen vorgesehenen Schutz von Fernsehsendungen sind
-die §§ 50 und 55 des Urheberrechtsgesetzes vom 9. September 1965
+(2) Auf den im Abkommen vorgesehenen Schutz von Fernsehsendungen
+sind die §§ 50 und 55 des Urheberrechtsgesetzes vom 9. September 1965
 (Bundesgesetzbl. I S. 1273) sinngemäß anzuwenden.
 
 
@@ -43,8 +43,8 @@ die §§ 50 und 55 des Urheberrechtsgesetzes vom 9. September 1965
 
 (1)
 
-(2) Der Schutz gegen die Festlegung von Einzelbildern oder gegen die
-Vervielfältigung dieser Festlegung aus Fernsehsendungen eines
+(2) Der Schutz gegen die Festlegung von Einzelbildern oder gegen
+die Vervielfältigung dieser Festlegung aus Fernsehsendungen eines
 Sendeunternehmens, das im Hoheitsgebiet einer anderen Vertragspartei
 des Abkommens nach deren Rechtsvorschriften errichtet ist oder dort
 Sendungen durchführt, wird im Geltungsbereich dieses Gesetzes nicht

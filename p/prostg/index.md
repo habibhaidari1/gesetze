@@ -19,7 +19,6 @@ Geändert durch
 :   Art. 2 G v. 21.10.2016 I 2372
 
 
-
 ## § 1
 
 Sind sexuelle Handlungen gegen ein vorher vereinbartes Entgelt
@@ -46,7 +45,7 @@ weitere Einwendungen und Einreden ausgeschlossen.
 (1) Weisungen, die das Ob, die Art oder das Ausmaß der Erbringung
 sexueller Dienstleistungen vorschreiben, sind unzulässig.
 
-(2) Bei Prostituierten steht das eingeschränkte Weisungsrecht im
-Rahmen einer abhängigen Tätigkeit nicht der Annahme einer
+(2) Bei Prostituierten steht das eingeschränkte Weisungsrecht
+im Rahmen einer abhängigen Tätigkeit nicht der Annahme einer
 Beschäftigung im Sinne des Sozialversicherungsrechts entgegen.
 

@@ -21,9 +21,9 @@ Zuletzt geändert durch
 
 ## § 1 Rechtsform der Stiftung
 
-Unter dem Namen "Otto-von-Bismarck-Stiftung" wird mit Sitz in Aumühle-
-Friedrichsruh eine rechtsfähige Stiftung des öffentlichen Rechts
-errichtet. Die Stiftung entsteht mit dem Inkrafttreten dieses
+Unter dem Namen "Otto-von-Bismarck-Stiftung" wird mit Sitz in
+Aumühle-Friedrichsruh eine rechtsfähige Stiftung des öffentlichen
+Rechts errichtet. Die Stiftung entsteht mit dem Inkrafttreten dieses
 Gesetzes.
 
 
@@ -40,27 +40,19 @@ Maßnahmen:
 1.  Einrichtung und Unterhaltung einer für die Öffentlichkeit zugänglichen
     Gedenkstätte in Aumühle-Friedrichsruh;
 
-
 2.  Übernahme, Unterhaltung und Ausbau der Bismarck-Bibliothek und des
     Bismarck-Archivs;
-
 
 3.  Einrichtung und Unterhaltung einer Forschungs- und
     Dokumentationsstelle in Aumühle-Friedrichsruh;
 
-
 4.  Veröffentlichung von Archivbeständen und wissenschaftlichen
     Untersuchungen;
 
-
 5.  Veranstaltungen im Sinne des Stiftungszweckes;
-
 
 6.  museale und wissenschaftliche Betreuung des Bismarck-Museums in
     Schönhausen (Elbe).
-
-
-
 
 
 ## § 3 Stiftungsvermögen
@@ -71,13 +63,9 @@ Maßnahmen:
     von-Bismarck-Stiftung erworbenen unbeweglichen und beweglichen
     Vermögensgegenstände und
 
-
 2.  die Rechte aus den im Leihvertrag vom 14. November 1994 zwischen
     Ferdinand von Bismarck und der Bundesrepublik Deutschland bezeichneten
     Archiv- und Bibliotheksbeständen.
-
-
-
 
 (2) Die Stiftung ist berechtigt, Zuwendungen von dritter Seite
 anzunehmen.
@@ -95,8 +83,8 @@ im Sinne des Stiftungszweckes zu verwenden.
 Die Stiftung gibt sich eine Satzung, die vom Kuratorium mit einer
 Mehrheit von vier Fünfteln seiner Mitglieder beschlossen wird und der
 Genehmigung des Beauftragten der Bundesregierung für Angelegenheiten
-der Kultur und der Medien bedarf. Das gleiche gilt für Änderungen der
-Satzung.
+der Kultur und der Medien bedarf. Das gleiche gilt für Änderungen
+der Satzung.
 
 
 ## § 5 Organe der Stiftung
@@ -105,11 +93,7 @@ Organe der Stiftung sind
 
 1.  das Kuratorium,
 
-
 2.  der Vorstand.
-
-
-
 
 
 ## § 6 Kuratorium
@@ -184,8 +168,8 @@ haben, verliehen werden.
 
 ## § 11 Gebühren
 
-Die Stiftung kann zur Deckung des Verwaltungsaufwandes nach näherer
-Bestimmung der Satzung Gebühren für die Benutzung von
+Die Stiftung kann zur Deckung des Verwaltungsaufwandes nach
+näherer Bestimmung der Satzung Gebühren für die Benutzung von
 Stiftungseinrichtungen erheben.
 
 

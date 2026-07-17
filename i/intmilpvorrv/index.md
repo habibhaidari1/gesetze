@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Gewährung von Vorrechten und Befreiungen an Militärpersonal
-  der internationalen militärischen Hauptquartiere in der Bundesrepublik Deutschland
+Title: Verordnung über die Gewährung von Vorrechten und Befreiungen an Militärpersonal der internationalen militärischen Hauptquartiere in der Bundesrepublik Deutschland
 jurabk: IntMilPVorRV
 layout: default
 origslug: intmilpvorrv
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl II: 1976, 445
-
 
 
 ## Eingangsformel
@@ -34,12 +32,12 @@ Bundesregierung mit Zustimmung des Bundesrates:
 
 Generalen und Admiralen nichtdeutscher Staatsangehörigkeit, die bei
 internationalen militärischen Hauptquartieren in der Bundesrepublik
-Deutschland die Stellung des Befehlshabers, des Chefs des Stabes oder
-ihrer Stellvertreter bekleiden, werden die in Artikel 6 Abs. 1
-Buchstaben a und b des Abkommens vom 13. März 1967 zwischen der
-Bundesrepublik Deutschland und dem Obersten Hauptquartier der
-Alliierten Mächte, Europa, über die besonderen Bedingungen für die
-Einrichtung und den Betrieb internationaler militärischer
+Deutschland die Stellung des Befehlshabers, des Chefs des Stabes
+oder ihrer Stellvertreter bekleiden, werden die in Artikel 6 Abs.
+1 Buchstaben a und b des Abkommens vom 13. März 1967 zwischen
+der Bundesrepublik Deutschland und dem Obersten Hauptquartier
+der Alliierten Mächte, Europa, über die besonderen Bedingungen
+für die Einrichtung und den Betrieb internationaler militärischer
 Hauptquartiere in der Bundesrepublik Deutschland (Ergänzungsabkommen,
 Bundesgesetzbl. 1969 II S. 1997, 2009) aufgeführten Vorrechte und
 Befreiungen gewährt.

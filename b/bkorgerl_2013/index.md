@@ -29,26 +29,19 @@ Es erhalten
 1.  das Bundesministerium für Wirtschaft und Technologie die Bezeichnung
     Bundesministerium für Wirtschaft und Energie;
 
-
 2.  das Bundesministerium der Justiz die Bezeichnung Bundesministerium der
     Justiz und für Verbraucherschutz;
 
-
 3.  das Bundesministerium für Ernährung, Landwirtschaft und
-    Verbraucherschutz die Bezeichnung Bundesministerium für Ernährung und
-    Landwirtschaft;
-
+    Verbraucherschutz die Bezeichnung Bundesministerium für Ernährung
+    und Landwirtschaft;
 
 4.  das Bundesministerium für Verkehr, Bau und Stadtentwicklung die
     Bezeichnung Bundesministerium für Verkehr und digitale Infrastruktur;
 
-
 5.  das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit
     die Bezeichnung Bundesministerium für Umwelt, Naturschutz, Bau und
     Reaktorsicherheit.
-
-
-
 
 
 ## II.
@@ -59,18 +52,13 @@ Dem Bundesministerium für Wirtschaft und Energie werden übertragen
     Zuständigkeit des Beauftragten der Bundesregierung für die neuen
     Bundesländer;
 
-
 2.  aus dem Geschäftsbereich des Bundesministeriums für Verkehr und
     digitale Infrastruktur die Zuständigkeiten für Energieeinsparung;
-
 
 3.  aus dem Geschäftsbereich des Bundesministeriums für Umwelt,
     Naturschutz, Bau und Reaktorsicherheit die Zuständigkeiten für die
     Energiewende einschließlich der mit der Energiewende verbundenen
     Aspekte des Klimaschutzes.
-
-
-
 
 Die Zuständigkeitsübertragungen schließen deren europäische und
 internationale Bezüge sowie die Grundsatz- und Planungsangelegenheiten
@@ -79,8 +67,8 @@ ein.
 
 ## III.
 
-Dem Bundesministerium der Justiz und für Verbraucherschutz wird aus
-dem Geschäftsbereich des Bundesministeriums für Ernährung und
+Dem Bundesministerium der Justiz und für Verbraucherschutz wird
+aus dem Geschäftsbereich des Bundesministeriums für Ernährung und
 Landwirtschaft die Zuständigkeit für Verbraucherpolitik übertragen.
 Der Verbraucherschutz im Bereich Ernährung und Lebensmittel verbleibt
 im Bundesministerium für Ernährung und Landwirtschaft.
@@ -98,10 +86,7 @@ Energie die Zuständigkeiten übertragen für
 
 1.  TK-Wirtschaft, Breitbandstrategie,
 
-
 2.  Telekommunikationsrecht
-
-
 
 einschließlich der diesbezüglichen Fachaufsicht über die
 Bundesnetzagentur. Die Aufsicht über die Bundesnetzagentur im Übrigen
@@ -121,12 +106,8 @@ Zuständigkeiten für
 
 1.  Bauwesen, Bauwirtschaft und Bundesbauten;
 
-
 2.  Stadtentwicklung, Wohnen, Ländliche Infrastruktur und öffentliches
     Baurecht übertragen.
-
-
-
 
 Die Zuständigkeitsübertragung schließt deren europäische und
 internationale Bezüge sowie die Grundsatz- und Planungsangelegenheiten

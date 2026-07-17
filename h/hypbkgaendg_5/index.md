@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1963, 9
 
 Zuletzt geändert durch
-:   Art. 17 G v. 22. 5.2005 I 1373
+:   Art. 17 G v. 22.5.2005 I 1373
 
 
 ## Art I
@@ -36,12 +36,8 @@ Für die Münchener Hypothekenbank eG gelten folgende Vorschriften:
     Geschäftsguthaben und der Rücklagen zu berücksichtigen. Die Satzung
     bedarf der Genehmigung durch die zuständige Behörde des Landes Bayern.
 
-
 2.  Die vom Land Bayern ausgeübte besondere staatliche Aufsicht bleibt
     unberührt.
-
-
-
 
 
 ## Art III
@@ -61,7 +57,6 @@ Für die Münchener Hypothekenbank eG gelten folgende Vorschriften:
 
 ## Art VI
 
-Dieses Gesetz tritt mit Wirkung vom 1. Januar 1963 in Kraft,
-Artikel I Nr. 28 bis 31              jedoch erst am Tage nach der
-Verkündung des Gesetzes.
+Dieses Gesetz tritt mit Wirkung vom 1. Januar 1963 in Kraft, *Artikel
+I Nr. 28 bis 31* jedoch erst am Tage nach der Verkündung des Gesetzes.
 

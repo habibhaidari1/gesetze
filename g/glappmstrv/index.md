@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen
-  und im fachtheoretischen Teil der Meisterprüfung für das Glasapparatebauer-Handwerk
+Title: Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Glasapparatebauer-Handwerk
 jurabk: GlAppMstrV
 layout: default
 origslug: glappmstrv
@@ -20,7 +19,6 @@ Geändert durch
 :   Art. 2 Abs. 8 V v. 18.1.2022 I 39
 
 
-
 ## Eingangsformel
 
 Auf Grund des § 45 der Handwerksordnung in der Fassung der
@@ -33,25 +31,19 @@ Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft:
 ## 1. Abschnitt - Berufsbild
 
 
-
 ### § 1 Berufsbild
 
 (1) Dem Glasapparatebauer-Handwerk sind folgende Tätigkeiten
 zuzurechnen:
 
-1.  Entwurf, Konstruktion und Herstellung von Instrumenten, Meßgeräten und
-    Apparaturen aus verschiedenen Gläsern sowie aus glasverwandten und
+1.  Entwurf, Konstruktion und Herstellung von Instrumenten, Meßgeräten
+    und Apparaturen aus verschiedenen Gläsern sowie aus glasverwandten und
     anderen Werkstoffen,
-
 
 2.  Wartung und Instandsetzung der in Nummer 1 genannten Instrumente,
     Meßgeräte und Apparaturen,
 
-
 3.  Herstellung von Gebrauchs- und Kunstgegenständen aus Glas.
-
-
-
 
 (2) Dem Glasapparatebauer-Handwerk sind folgende Kenntnisse und
 Fertigkeiten zuzurechnen:
@@ -59,81 +51,57 @@ Fertigkeiten zuzurechnen:
 1.  Kenntnisse über die Funktion, die Einsatz- und Betriebsbedingungen
     sowie die meßtechnische Anwendung der herzustellenden Geräte,
 
-
 2.  Kenntnisse über die Herstellung von Glas,
-
 
 3.  Kenntnisse der Arten, Sorten, Kennzeichnung, Daten und Verwendung von
     Gläsern und der mit ihnen verschmelzbaren Metalle und Keramiken,
 
-
 4.  Kenntnisse der Werk-, Betriebs- und Hilfsstoffe,
-
 
 5.  Kenntnisse der gebräuchlichsten Brenngase, ihrer Handhabung und
     Lagerung,
 
-
 6.  Kenntnisse der Flächen-, Volumen- und Druckberechnungen,
 
-
 7.  Kenntnisse der Volumen- und Temperaturmessungen,
-
 
 8.  Kenntnisse über lösbare Verbindungsteile, insbesondere Schliffe, sowie
     über Absperrhähne und -ventile,
 
-
 9.  Kenntnisse über das Justieren, Graduieren, Kalibrieren, Wachsen sowie
     Ätzen,
 
-
 10. Kenntnisse über Vakuumtechnik,
 
-
 11. Kenntnisse der berufsbezogenen Eich- und Normvorschriften,
-
 
 12. Kenntnisse der berufsbezogenen Vorschriften der Arbeitssicherheit und
     des Arbeitsschutzes,
 
-
 13. Kenntnisse über die berufsbezogenen Vorschriften des Umwelt-,
     insbesondere des Immissionsschutzes,
 
-
 14. Kenntnisse über Energieeinsparung,
 
-
 15. Lesen und Anfertigen von Skizzen und Zeichnungen,
-
 
 16. manuelles und maschinelles Heißverformen des Glases, insbesondere
     durch Biegen, Einblasen, Erweitern, Verbinden und Einschmelzen,
 
-
 17. Erkennen, Vermeiden und Beseitigen von Spannungen in Gläsern,
-
 
 18. Kaltbearbeiten des Glases, insbesondere durch Schleifen, Bohren,
     Trennen, Verspiegeln und Einfärben,
 
-
 19. Verschmelzen von Glas mit Metallen und Keramiken,
-
 
 20. Gestalten von Gebrauchs- und Kunstgegenständen aus Glas,
 
-
-21. Warten und Instandhalten der berufsbezogenen Maschinen, Werkzeuge und
-    Geräte.
-
-
-
+21. Warten und Instandhalten der berufsbezogenen Maschinen, Werkzeuge
+    und Geräte.
 
 
 ## 2. Abschnitt - Prüfungsanforderungen in den Teilen I und II der Meisterprüfung
-
 
 
 ### § 2 Gliederung, Dauer und Bestehen der praktischen Prüfung (Teil I)
@@ -159,45 +127,33 @@ Arbeiten anzufertigen:
 
 1.  Herstellen einer dreistufigen Diffusionspumpe nach Zeichnung,
 
-
 2.  Anfertigen einer Glockenbodenkolonne mit 5 Böden und unverspiegeltem
     Vakuummantel,
-
 
 3.  Anfertigen eines Kolonnenkopfes als Dampfteiler oder
     Flüssigkeitsteiler mit Vakuummantel,
 
-
 4.  Herstellen eines vollständigen Extraktionsapparates nach Soxhlet,
     1\.000 ml Inhalt,
-
 
 5.  Anfertigen eines Dreikugelkühlers nach Soxhlet, Durchmesser der
     einzelnen Kugeln 60, 90 und 120 mm, mit Schliffhülse und Schliffkern
     NS 29/32,
 
-
 6.  Anfertigen eines mehrwandigen Reaktionsgefäßes, höchstens 2.000 ml
     Inhalt,
 
-
 7.  Anfertigen einer Siedepunktbestimmungsapparatur,
 
-
 8.  Anfertigen eines Dünnschichtverdampfers,
-
 
 9.  Anfertigen einer Apparatur zur Flüssig-Flüssigextraktion für
     spezifisch leichtere oder spezifisch schwerere Lösungsmittel,
 
-
 10. Anfertigen eines Wärmetauschers.
 
-
-
-
-(2) Der Prüfling hat vor Anfertigung der Meisterprüfungsarbeit dem
-Meisterprüfungsausschuß die Skizzen mit Maßangaben und eine
+(2) Der Prüfling hat vor Anfertigung der Meisterprüfungsarbeit
+dem Meisterprüfungsausschuß die Skizzen mit Maßangaben und eine
 Vorkalkulation zur Genehmigung vorzulegen.
 
 (3) Die maßstabsgerechten Zeichnungen mit Maßangaben und die
@@ -213,36 +169,26 @@ auszuführen:
 1.  Anfertigen eines Dreiwegehahnes, 10 mm Bohrung, mit Hohlstopfen,
     ungeschliffen,
 
-
 2.  Anfertigen eines Durchgangshahnes, 15 mm Bohrung, mit Hohlstopfen,
     geschliffen,
 
-
-3.  Blasen des Mittelteils eines Extraktionsapparates nach Soxhlet, 500 ml
-    Inhalt,
-
+3.  Blasen des Mittelteils eines Extraktionsapparates nach Soxhlet, 500
+    ml Inhalt,
 
 4.  Anfertigen eines Vier-Hals-Kolbens, 2.000 ml Inhalt, Mittelhals mit
     Schliffhülse NS 45/40, Seitenhälse mit Schliffhülsen NS 29/32,
 
+5.  Anfertigen eines heizbaren Schliffwinkels, 90 Grad, mit Schliffhülse
+    und Schliffkern NS 29/32,
 
-5.  Anfertigen eines heizbaren Schliffwinkels,
-    90 Grad, mit Schliffhülse und Schliffkern NS 29/32,
-
-
-6.  Anfertigen eines heizbaren Tropftrichters mit Druckausgleich, 500 ml
-    Inhalt,
-
+6.  Anfertigen eines heizbaren Tropftrichters mit Druckausgleich, 500
+    ml Inhalt,
 
 7.  Anfertigen eines Intensivkühlers, Mantellänge 250 mm,
 
-
 8.  Herstellen einer Metall-Glas-Verbindung,
 
-
 9.  Einschleifen eines Hahnrohlings, 6 mm Bohrung.
-
-
 
 Die Arbeiten nach Nummer 3 bis 7 sind unter Verwendung fertiger
 Normschliffe und Rundkolben auszuführen.
@@ -262,88 +208,58 @@ nachzuweisen:
     Berechnen von Körpern, Flächen, Ausdehnungen, Drücken, Winkeln und
     Drehzahlen;
 
-
 2.  Technisches Zeichnen:
 
     a)  Anfertigen von maßstabsgerechten Zeichnungen der Glasapparate,
 
-
     b)  Skizzieren eines Glasapparates mit Bemaßung;
-
-
-
-
 
 3.  Fachtechnologie:
 
     a)  Wirkungsweise und Anwendung von Glasinstrumenten und Glasapparaturen,
 
-
     b)  Heißbearbeitung, einschließlich Verschmelzungen mit Metall und
         Keramik,
-
 
     c)  Kaltbearbeitung, insbesondere Trennen, Schleifen, Bohren und
         Verspiegeln,
 
-
     d)  lösbare Verbindungsteile, insbesondere Schliffe, sowie Absperrhähne
         und -ventile,
 
-
     e)  Justieren, Graduieren, Einfärben, Wachsen, Ätzen und Kalibrieren,
-
 
     f)  Vakuumtechnik,
 
-
     g)  berufsbezogene Eich- und Normvorschriften,
-
 
     h)  berufsbezogene Vorschriften der Arbeitssicherheit und des
         Arbeitsschutzes,
 
-
     i)  berufsbezogene Vorschriften des Umwelt-, insbesondere des
         Immissionsschutzes,
 
-
     k)  berufsbezogene Werkzeuge, Maschinen und Geräte;
-
-
-
-
 
 4.  Werkstoffkunde:
 
     a)  Rohstoffe und Herstellung von Glas,
 
-
     b)  Halbzeuge,
-
 
     c)  Arten, Sorten, Kennzeichnung und Daten der Gläser und der mit ihnen
         verschmelzbaren Metalle und Keramiken sowie ihre Verwendung und ihr
         Einsatz,
 
-
     d)  Anwendung und Einsatz von Hilfs- und Betriebsstoffen, insbesondere
         unter Berücksichtigung der Umweltverträglichkeit,
 
-
     e)  gebräuchliche Säuren und Laugen in der Glasverarbeitung;
-
-
-
-
 
 5.  Kalkulation:
 
     Kostenermittlung unter Einbeziehung aller für die Preisbildung
     wesentlichen Faktoren.
-
-
-
 
 (2) Die Prüfung ist schriftlich und mündlich durchzuführen.
 
@@ -364,7 +280,6 @@ ausreichende Leistungen in jedem der Prüfungsfächer nach Absatz 1 Nr.
 ## 3. Abschnitt - Übergangs- und Schlußvorschriften
 
 
-
 ### § 6 Übergangsvorschrift
 
 Die bei Inkrafttreten dieser Verordnung laufenden Prüfungsverfahren
@@ -381,7 +296,6 @@ sich nach der Allgemeinen Meisterprüfungsverordnung.
 
 
 ### § 8 (weggefallen)
-
 
 
 ### § 9 Inkrafttreten

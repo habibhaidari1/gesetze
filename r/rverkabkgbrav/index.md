@@ -36,13 +36,13 @@ Bezirk die Amtshandlung vorgenommen werden soll.
 ## Art 2
 
 (1) Für die Erledigung der in Artikel 12 des Abkommens vorgesehenen
-Angelegenheiten ist das Amtsgericht zuständig, in dessen Bezirk der
-britische diplomatische oder konsularische Beamte, der die
+Angelegenheiten ist das Amtsgericht zuständig, in dessen Bezirk
+der britische diplomatische oder konsularische Beamte, der die
 Beweisaufnahme vorzunehmen hat, seinen Sitz hat.
 
-(2) Wird im Falle des Artikel 12 Buchstabe a Abs. 2 des Abkommens von
-einem Zeugen oder einer sonst zu vernehmenden Person britischer
-Staatsangehörigkeit der Aufforderung, vor dem britischen
+(2) Wird im Falle des Artikel 12 Buchstabe a Abs. 2 des Abkommens
+von einem Zeugen oder einer sonst zu vernehmenden Person
+britischer Staatsangehörigkeit der Aufforderung, vor dem britischen
 diplomatischen oder konsularischen Beamten zu erscheinen, keine Folge
 geleistet oder bei der Vernehmung durch diesen die Aussage verweigert,
 so finden die Vorschriften der §§ 380, 390, 409 der Zivilprozeßordnung

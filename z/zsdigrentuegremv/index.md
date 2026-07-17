@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über das Steuerungsgremium bei der Zentralen Stelle für die Digitale
-  Rentenübersicht
+Title: Verordnung über das Steuerungsgremium bei der Zentralen Stelle für die Digitale Rentenübersicht
 jurabk: ZSDigRentÜGremV
 layout: default
 origslug: zsdigrent_gremv
@@ -32,23 +31,15 @@ Rentenübersichtsgesetzes besteht aus sechs Mitgliedern.
 
 1.  die Deutsche Rentenversicherung Bund,
 
+2.  die Arbeitsgemeinschaft für betriebliche Altersversorgung e. V.,
 
-2.  die Arbeitsgemeinschaft für betriebliche Altersversorgung e. V.,
-
-
-3.  den Gesamtverband der deutschen Versicherungswirtschaft e. V.,
-
+3.  den Gesamtverband der deutschen Versicherungswirtschaft e. V.,
 
 4.  die Stiftung Warentest,
 
-
 5.  das Bundesministerium für Arbeit und Soziales und
 
-
 6.  das Bundesministerium der Finanzen.
-
-
-
 
 
 ## § 2 Berufung der Mitglieder des Steuerungsgremiums und deren stellvertretenden Personen
@@ -64,12 +55,12 @@ werden vom Bundesministerium für Arbeit und Soziales berufen.
 
 ## § 3 Nachfolge von Mitgliedern und stellvertretenden Personen
 
-(1) Das Bundesministerium für Arbeit und Soziales kann jederzeit für
-sich ein neues Mitglied des Steuerungsgremiums oder eine neue
+(1) Das Bundesministerium für Arbeit und Soziales kann jederzeit
+für sich ein neues Mitglied des Steuerungsgremiums oder eine neue
 stellvertretende Person als Nachfolgerin oder Nachfolger berufen.
 
-(2) Die übrigen Stellen können jederzeit für sich eine Person als
-neues Mitglied oder als neue stellvertretende Person dem
+(2) Die übrigen Stellen können jederzeit für sich eine Person
+als neues Mitglied oder als neue stellvertretende Person dem
 Bundesministerium für Arbeit und Soziales als Nachfolgerin oder
 Nachfolger benennen. Die benannte Person wird vom Bundesministerium
 für Arbeit und Soziales als Nachfolgerin oder Nachfolger berufen.
@@ -122,8 +113,8 @@ Person die Sitzung.
 
 ## § 9 Teilnahme der Zentralen Stelle für die Digitale Rentenübersicht an Sitzungen
 
-An den Sitzungen des Steuerungsgremiums können auch Vertreterinnen und
-Vertreter der Zentralen Stelle für die Digitale Rentenübersicht
+An den Sitzungen des Steuerungsgremiums können auch Vertreterinnen
+und Vertreter der Zentralen Stelle für die Digitale Rentenübersicht
 teilnehmen.
 
 
@@ -154,26 +145,22 @@ eine Stimme.
 1.  für ihn mehr zustimmende als ablehnende Stimmen abgegeben worden sind
     oder
 
-
 2.  bei Stimmengleichheit die Person, die die Sitzung leitet, ihm
     zugestimmt hat.
 
-
-
-
 (4) Wenn Beschlüsse eilbedürftig sind oder wenn in einem angemessenen
 Zeitraum keine Sitzung anberaumt ist, können Beschlüsse auch außerhalb
-der Sitzungen des Steuerungsgremiums im schriftlichen Verfahren oder
-im Verfahren per E-Mail gefasst werden. Die Entscheidung, ob eine
-Beschlussfassung im schriftlichen Verfahren oder im Verfahren per
-E-Mail stattfindet, wird von der vorsitzenden Person getroffen. Die
-vorsitzende Person leitet das schriftliche Verfahren oder das
+der Sitzungen des Steuerungsgremiums im schriftlichen Verfahren
+oder im Verfahren per E-Mail gefasst werden. Die Entscheidung, ob
+eine Beschlussfassung im schriftlichen Verfahren oder im Verfahren
+per E-Mail stattfindet, wird von der vorsitzenden Person getroffen.
+Die vorsitzende Person leitet das schriftliche Verfahren oder das
 Verfahren per E-Mail ein. Die Frist für die Abgabe der Stimme beträgt
-zehn Arbeitstage nach Einleitung des schriftlichen Verfahrens oder des
-Verfahrens per E-Mail. Wird ein Beschluss im schriftlichen Verfahren
-oder im Verfahren per E-Mail gefasst, so entscheidet bei
-Stimmengleichheit die Stimme der vorsitzenden Person. Ein Beschluss im
-schriftlichen Verfahren oder im Verfahren per E-Mail bedarf zur
+zehn Arbeitstage nach Einleitung des schriftlichen Verfahrens oder
+des Verfahrens per E-Mail. Wird ein Beschluss im schriftlichen
+Verfahren oder im Verfahren per E-Mail gefasst, so entscheidet bei
+Stimmengleichheit die Stimme der vorsitzenden Person. Ein Beschluss
+im schriftlichen Verfahren oder im Verfahren per E-Mail bedarf zur
 Gültigkeit mindestens dreier abgegebener Stimmen.
 
 
@@ -185,19 +172,19 @@ stellvertretende Person übertragen, wenn sie an der Beschlussfassung
 des Steuerungsgremiums teilnimmt.
 
 (2) Kann weder das Mitglied noch seine stellvertretende Person an
-einer Beschlussfassung des Steuerungsgremiums teilnehmen, so kann das
-Mitglied oder seine stellvertretende Person ein Mitglied einer anderen
-Stelle oder die stellvertretende Person der anderen Stelle zur
-Stimmabgabe bevollmächtigen. Die Bevollmächtigung ist vor der
+einer Beschlussfassung des Steuerungsgremiums teilnehmen, so kann
+das Mitglied oder seine stellvertretende Person ein Mitglied einer
+anderen Stelle oder die stellvertretende Person der anderen Stelle
+zur Stimmabgabe bevollmächtigen. Die Bevollmächtigung ist vor der
 Stimmabgabe der vorsitzenden Person anzuzeigen.
 
 
 ## § 14 Annahmefiktion für Beschlussvorlagen der Zentralen Stelle für die Digitale Rentenübersicht
 
 Hat das Steuerungsgremium zu einer Beschlussvorlage der Zentralen
-Stelle für die Digitale Rentenübersicht, die den Mitgliedern und den
-stellvertretenden Personen mindestens zehn Arbeitstage vor einer
-Sitzung des Steuerungsgremiums übermittelt worden ist, keinen
+Stelle für die Digitale Rentenübersicht, die den Mitgliedern und
+den stellvertretenden Personen mindestens zehn Arbeitstage vor
+einer Sitzung des Steuerungsgremiums übermittelt worden ist, keinen
 Beschluss gefasst, so gilt die Beschlussvorlage zehn Arbeitstage nach
 der Sitzung als angenommen.
 

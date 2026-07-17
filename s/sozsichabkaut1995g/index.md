@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zu dem Abkommen vom 4. Oktober 1995 zwischen der Bundesrepublik Deutschland
-  und der Republik Österreich über Soziale Sicherheit
+Title: Gesetz zu dem Abkommen vom 4. Oktober 1995 zwischen der Bundesrepublik Deutschland und der Republik Österreich über Soziale Sicherheit
 jurabk: SozSichAbkAUT1995G
 layout: default
 origslug: sozsichabkaut1995g
@@ -17,7 +16,6 @@ Fundstelle
 :   BGBl II: 1998, 312
 
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
@@ -26,9 +24,9 @@ beschlossen:
 
 ## Art 1
 
-Dem in Wien am 4. Oktober 1995 unterzeichneten Abkommen zwischen der
-Bundesrepublik Deutschland und der Republik Österreich über Soziale
-Sicherheit wird zugestimmt. Das Abkommen wird nachstehend
+Dem in Wien am 4. Oktober 1995 unterzeichneten Abkommen zwischen
+der Bundesrepublik Deutschland und der Republik Österreich über
+Soziale Sicherheit wird zugestimmt. Das Abkommen wird nachstehend
 veröffentlicht.
 
 

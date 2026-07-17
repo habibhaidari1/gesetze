@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Verwaltung und Ordnung der Seelotsreviere Nord-Ostsee-Kanal
-  I und Nord-Ostsee-Kanal II/Kieler Förde/Trave/Flensburger Förde
+Title: Verordnung über die Verwaltung und Ordnung der Seelotsreviere Nord-Ostsee-Kanal I und Nord-Ostsee-Kanal II/Kieler Förde/Trave/Flensburger Förde
 jurabk: NOKanaluaLotsV 2003
 layout: default
 origslug: nokanalualotsv_2003
@@ -15,4 +14,7 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BAnz: 2003, Nr 84, 9991
+
+Fundstelle
+:   BAnz: 2003, 9991
 

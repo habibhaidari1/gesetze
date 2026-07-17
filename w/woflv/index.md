@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl I: 2003, 2346
 
 
-
 ## § 1 Anwendungsbereich, Berechnung der Wohnfläche
 
 (1) Wird nach dem Wohnraumförderungsgesetz die Wohnfläche berechnet,
@@ -39,10 +38,7 @@ gemeinschaftlichen Nutzung durch die Bewohner bestimmt sind.
 1.  Wintergärten, Schwimmbädern und ähnlichen nach allen Seiten
     geschlossenen Räumen sowie
 
-
 2.  Balkonen, Loggien, Dachgärten und Terrassen,
-
-
 
 wenn sie ausschließlich zu der Wohnung oder dem Wohnheim gehören.
 
@@ -52,36 +48,22 @@ wenn sie ausschließlich zu der Wohnung oder dem Wohnheim gehören.
 
     a)  Kellerräume,
 
-
     b)  Abstellräume und Kellerersatzräume außerhalb der Wohnung,
-
 
     c)  Waschküchen,
 
-
     d)  Bodenräume,
-
 
     e)  Trockenräume,
 
-
     f)  Heizungsräume und
 
-
     g)  Garagen,
-
-
-
-
 
 2.  Räume, die nicht den an ihre Nutzung zu stellenden Anforderungen des
     Bauordnungsrechts der Länder genügen, sowie
 
-
 3.  Geschäftsräume.
-
-
-
 
 
 ## § 3 Ermittlung der Grundfläche
@@ -96,24 +78,16 @@ die Grundflächen von
 
 1.  Tür- und Fensterbekleidungen sowie Tür- und Fensterumrahmungen,
 
-
 2.  Fuß-, Sockel- und Schrammleisten,
-
 
 3.  fest eingebauten Gegenständen, wie z. B. Öfen, Heiz- und Klimageräten,
     Herden, Bade- oder Duschwannen,
 
-
 4.  freiliegenden Installationen,
-
 
 5.  Einbaumöbeln und
 
-
 6.  nicht ortsgebundenen, versetzbaren Raumteilern.
-
-
-
 
 (3) Bei der Ermittlung der Grundflächen bleiben außer Betracht die
 Grundflächen von
@@ -122,19 +96,13 @@ Grundflächen von
     Säulen, wenn sie eine Höhe von mehr als 1,50 Meter aufweisen und ihre
     Grundfläche mehr als 0,1 Quadratmeter beträgt,
 
-
 2.  Treppen mit über drei Steigungen und deren Treppenabsätze,
 
-
 3.  Türnischen und
-
 
 4.  Fenster- und offenen Wandnischen, die nicht bis zum Fußboden
     herunterreichen oder bis zum Fußboden herunterreichen und 0,13 Meter
     oder weniger tief sind.
-
-
-
 
 (4) Die Grundfläche ist durch Ausmessung im fertig gestellten Wohnraum
 oder auf Grund einer Bauzeichnung zu ermitteln. Wird die Grundfläche
@@ -145,11 +113,8 @@ auf Grund einer Bauzeichnung ermittelt, muss diese
     oder, wenn ein bauordnungsrechtliches Verfahren nicht erforderlich
     ist, für ein solches geeignet sein und
 
-
 2.  die Ermittlung der lichten Maße zwischen den Bauteilen im Sinne des
     Absatzes 1 ermöglichen.
-
-
 
 Ist die Grundfläche nach einer Bauzeichnung ermittelt worden und ist
 abweichend von dieser Bauzeichnung gebaut worden, ist die Grundfläche
@@ -164,20 +129,14 @@ Die Grundflächen
 1.  von Räumen und Raumteilen mit einer lichten Höhe von mindestens zwei
     Metern sind vollständig,
 
-
 2.  von Räumen und Raumteilen mit einer lichten Höhe von mindestens einem
     Meter und weniger als zwei Metern sind zur Hälfte,
-
 
 3.  von unbeheizbaren Wintergärten, Schwimmbädern und ähnlichen nach allen
     Seiten geschlossenen Räumen sind zur Hälfte,
 
-
 4.  von Balkonen, Loggien, Dachgärten und Terrassen sind in der Regel zu
     einem Viertel, höchstens jedoch zur Hälfte
-
-
-
 
 anzurechnen.
 
@@ -186,11 +145,11 @@ anzurechnen.
 
 Ist die Wohnfläche bis zum 31. Dezember 2003 nach der Zweiten
 Berechnungsverordnung in der Fassung der Bekanntmachung vom 12.
-Oktober 1990 (BGBl. I S. 2178), zuletzt geändert durch Artikel 3 der
-Verordnung vom 25. November 2003 (BGBl. I S. 2346), in der jeweils
-geltenden Fassung berechnet worden, bleibt es bei dieser Berechnung.
-Soweit in den in Satz 1 genannten Fällen nach dem 31. Dezember 2003
-bauliche Änderungen an dem Wohnraum vorgenommen werden, die eine
-Neuberechnung der Wohnfläche erforderlich machen, sind die
+Oktober 1990 (BGBl. I S. 2178), zuletzt geändert durch Artikel
+3 der Verordnung vom 25. November 2003 (BGBl. I S. 2346), in der
+jeweils geltenden Fassung berechnet worden, bleibt es bei dieser
+Berechnung. Soweit in den in Satz 1 genannten Fällen nach dem 31.
+Dezember 2003 bauliche Änderungen an dem Wohnraum vorgenommen werden,
+die eine Neuberechnung der Wohnfläche erforderlich machen, sind die
 Vorschriften dieser Verordnung anzuwenden.
 

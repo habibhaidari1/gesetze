@@ -1,6 +1,5 @@
 ---
-Title: Verordnung zu dem Protokoll vom 13. Februar 1987 über die Vorrechte und Immunitäten
-  der Europäischen Fernmeldesatellitenorganisation EUTELSAT
+Title: Verordnung zu dem Protokoll vom 13. Februar 1987 über die Vorrechte und Immunitäten der Europäischen Fernmeldesatellitenorganisation EUTELSAT
 jurabk: EUTELSATVorRProtV
 layout: default
 origslug: eutelsatvorrprotv
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl II: 1989, 253
-
 
 
 ## Eingangsformel
@@ -41,12 +39,12 @@ EUTELSAT. Das Protokoll wird nachstehend mit einer amtlichen Deutschen
 
 ## Art 2
 
-(1) Deutsche im Sinne des Artikels 116 Abs. 1 des Grundgesetzes, die
-Inhaber eines Passes oder Personalausweises der Bundesrepublik
+(1) Deutsche im Sinne des Artikels 116 Abs. 1 des Grundgesetzes,
+die Inhaber eines Passes oder Personalausweises der Bundesrepublik
 Deutschland oder eines Berliner behelfsmäßigen Personalausweises sind,
 sowie Personen mit ständigem Aufenthalt im Geltungsbereich dieser
-Verordnung genießen nach Maßgabe der Artikel 7 Abs. 2, Artikel 8 Abs.
-2, Artikel 9 Abs. 4, Artikel 10 Abs. 2 und Artikel 11 Abs. 2 des
+Verordnung genießen nach Maßgabe der Artikel 7 Abs. 2, Artikel 8
+Abs. 2, Artikel 9 Abs. 4, Artikel 10 Abs. 2 und Artikel 11 Abs. 2 des
 Protokolls keine Vorrechte und Immunitäten.
 
 (2) Die in Artikel 9 Abs. 2 des Protokolls vorgesehene Befreiung von

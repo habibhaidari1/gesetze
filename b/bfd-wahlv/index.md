@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Wahl der Sprecherinnen und Sprecher der Freiwilligen des
-  Bundesfreiwilligendienstes
+Title: Verordnung über die Wahl der Sprecherinnen und Sprecher der Freiwilligen des Bundesfreiwilligendienstes
 jurabk: BFD-WahlV
 layout: default
 origslug: bfd-wahlv
@@ -36,8 +35,8 @@ Stellvertreter.
 ## § 2 Bestellung des Wahlvorstandes
 
 Die Präsidentin oder der Präsident des Bundesamtes für Familie und
-zivilgesellschaftliche Aufgaben (Bundesamt) bestellt spätestens einen
-Monat vor Beginn des Registrierungszeitraums für die Wahl der
+zivilgesellschaftliche Aufgaben (Bundesamt) bestellt spätestens
+einen Monat vor Beginn des Registrierungszeitraums für die Wahl der
 Sprecherinnen und Sprecher mindestens drei Mitarbeiterinnen oder
 Mitarbeiter des Bundesamtes als Wahlvorstand und eine oder einen von
 ihnen als Vorsitzende oder Vorsitzenden.
@@ -59,9 +58,9 @@ während des Wahlzeitraums im Dienst befinden und sich registriert
 haben.
 
 (2) Freiwillige können sich auf der Internetseite
-www.bundesfreiwilligendienst.de              als Wählerinnen und
-Wähler registrieren lassen. Das Bundesamt sendet nach Identifikation
-als Wahlberechtigte oder Wahlberechtigter jeder registrierten Wählerin
+www.bundesfreiwilligendienst.de als Wählerinnen und Wähler
+registrieren lassen. Das Bundesamt sendet nach Identifikation als
+Wahlberechtigte oder Wahlberechtigter jeder registrierten Wählerin
 und jedem registrierten Wähler durch zwei getrennte E-Mails die
 Zugangsdaten und einen Transaktionscode für die Stimmabgabe zu.
 
@@ -71,34 +70,24 @@ Wochen vor der Wahl.
 
 ## § 5 Wahlbekanntgabe
 
-(1) Der Wahlvorstand veröffentlicht auf einer nur
-für registrierte              Wählerinnen und Wähler zugänglichen
-Internetseite              unter www.bundesfreiwilligendienst.de
-folgende Informationen:
+(1) Der Wahlvorstand veröffentlicht auf einer nur für registrierte
+Wählerinnen und Wähler zugänglichen Internetseite unter
+www.bundesfreiwilligendienst.de folgende Informationen:
 
 1.  die Namen seiner Mitglieder,
 
-
 2.  die Personen, die Auskünfte über das Wählerverzeichnis erteilen,
-
 
 3.  den Zeitraum, in dem sich die Wählerin oder der Wähler registrieren
     kann,
 
-
 4.  die Frist zur Einlegung von Einsprüchen gegen das Wählerverzeichnis,
-
 
 5.  Hinweise zu den Kandidatinnen und Kandidaten,
 
-
 6.  den Zeitraum für die Wahl der Sprecherinnen und Sprecher und
 
-
 7.  die E-Mail-Adresse des Wahlvorstands.
-
-
-
 
 (2) Bei der Veröffentlichung nach Absatz 1 ist darauf hinzuweisen,
 dass
@@ -106,12 +95,8 @@ dass
 1.  nur Freiwillige wählen können, die als Wählerin oder Wähler
     registriert sind und
 
-
 2.  Einspruch gegen das Wählerverzeichnis nur bis zum angegebenen
     Zeitpunkt durch E-Mail beim Wahlvorstand eingelegt werden kann.
-
-
-
 
 (3) Nach Abschluss der Wahl sind die veröffentlichten Informationen
 zur Wahlbekanntgabe auf dieser Internetseite unverzüglich zu löschen.
@@ -123,8 +108,8 @@ zur Wahlbekanntgabe auf dieser Internetseite unverzüglich zu löschen.
 Wählerverzeichnis einlegen. Die Einspruchsfrist endet eine Woche vor
 Beginn des Wahlzeitraums.
 
-(2) Über den Einspruch entscheidet der Wahlvorstand unverzüglich. Die
-Entscheidung ist der Einspruchsführerin oder dem Einspruchsführer
+(2) Über den Einspruch entscheidet der Wahlvorstand unverzüglich.
+Die Entscheidung ist der Einspruchsführerin oder dem Einspruchsführer
 durch E-Mail mitzuteilen.
 
 (3) Ist der Einspruch begründet, berichtigt der Wahlvorstand das
@@ -147,8 +132,8 @@ Bundesamt veröffentlicht diese Unterlagen nach § 5 Absatz 1 Nummer 5.
 (4) Die Wahl wird ausschließlich über die Internetseite
 www.bundesfreiwilligendienst.de durchgeführt. Die Identifikation der
 registrierten Wählerinnen und Wähler erfolgt über die Zugangsdaten.
-Die Stimmabgabe erfolgt mittels Transaktionscode. Die Zuordnung einer
-Wählerin oder eines Wählers zum Transaktionscode wird nach der
+Die Stimmabgabe erfolgt mittels Transaktionscode. Die Zuordnung
+einer Wählerin oder eines Wählers zum Transaktionscode wird nach der
 Stimmabgabe gelöscht.
 
 (5) Als Sprecherinnen und Sprecher gewählt sind die sieben
@@ -164,12 +149,12 @@ meisten Stimmen entfallen. Bei Stimmengleichheit gilt Absatz 5 Satz 2
 und 3 entsprechend.
 
 (7) Die Amtszeit der Sprecherinnen oder Sprecher und der
-Stellvertreterinnen oder Stellvertreter dauert bis zur nächsten Wahl.
-Dies gilt auch, wenn sie aus dem Bundesfreiwilligendienst
+Stellvertreterinnen oder Stellvertreter dauert bis zur nächsten
+Wahl. Dies gilt auch, wenn sie aus dem Bundesfreiwilligendienst
 ausgeschieden sind. Legt eine Sprecherin oder ein Sprecher oder eine
 Stellvertreterin oder ein Stellvertreter das Amt nieder, rückt die
-Kandidatin oder der Kandidat nach, auf die oder den bei der Wahl nach
-den Stellvertreterinnen und Stellvertretern die meisten Stimmen
+Kandidatin oder der Kandidat nach, auf die oder den bei der Wahl
+nach den Stellvertreterinnen und Stellvertretern die meisten Stimmen
 entfallen sind. Steht die Kandidatin oder der Kandidat nicht mehr zur
 Verfügung, rückt die oder der Nächstplatzierte nach.
 
@@ -188,39 +173,29 @@ Stimmen entfallen sind.
 
 ## § 9 Bekanntgabe des Wahlergebnisses
 
-(1) Der Wahlvorstand gibt die Namen der gewählten Sprecherinnen und
-der Sprecher sowie der gewählten Stellvertreterinnen und
+(1) Der Wahlvorstand gibt die Namen der gewählten Sprecherinnen
+und der Sprecher sowie der gewählten Stellvertreterinnen und
 Stellvertreter auf einer nur für registrierte Wählerinnen und Wähler
-zugänglichen
-Internetseite              unter www.bundesfreiwilligendienst.de
+zugänglichen Internetseite unter www.bundesfreiwilligendienst.de
 bekannt. Die Bekanntgabe des Wahlergebnisses muss enthalten:
 
 1.  die Zahl der registrierten Wählerinnen und Wähler,
 
-
 2.  die Zahl der abgegebenen Stimmen,
-
 
 3.  die Namen der Kandidatinnen und Kandidaten und die Zahl der auf sie
     jeweils entfallenen Stimmen sowie
 
-
 4.  die Namen der gewählten Sprecherinnen und Sprecher sowie der gewählten
     Stellvertreterinnen und Stellvertreter.
-
-
-
 
 (2) Auf dieser Internetseite ist die Bekanntgabe des Wahlergebnisses
 
 1.  der unterlegenen Kandidatinnen und Kandidaten innerhalb von zwei
     Wochen nach der Wahl und
 
-
 2.  der gewählten Sprecherinnen und Sprecher sowie der gewählten
     Stellvertreterinnen und Stellvertreter nach dem Ende ihrer Amtszeit
-
-
 
 zu löschen.
 

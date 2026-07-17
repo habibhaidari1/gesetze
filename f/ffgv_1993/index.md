@@ -87,53 +87,13 @@ World Festival of Animated Films Zagreb
 
 Fundstelle des Originaltextes: BGBl. I 2001, 2606
 
-*    *   Der Beauftragte der Bundesregierung für Angelegenheiten der Kultur und
-        der Medien: Das Bundesministerium für Familie, Senioren, Frauen und
-        Jugend:
-
-    *   Spitzenauszeichnungen und Nominierungen im Rahmen des Deutschen
-        Filmpreises und des Deutschen Kurzfilmpreises Deutscher Jugend-Video-
-        Preis
-
-
-*    *   Academy of Motion Pictures, Arts and Sciences, Hollywood:
-
-    *   Oscar für Kurzfilme und Kurztrickfilme
-
-
-*    *   Friedrich-Wilhelm-Murnau-Stiftung:
-
-    *   Kurzfilmpreis
-
-
-*    *   Deutsches Kinderfilm- und Fernseh-Festival, Gera:
-
-    *   Auszeichnung "Goldener Spatz" (Kurzfilm)
-
-
-*    *   Die Katholische Filmarbeit in Deutschland:
-
-    *   Preis im Rahmen der Westdeutschen Kurzfilmtage Oberhausen und der
-        Internationalen Filmwoche Mannheim/Heidelberg
-
-
-*    *   Das Internationale Evangelische Filmzentrum:
-
-    *   Preis im Rahmen der Westdeutschen Kurzfilmtage Oberhausen und der
-        Internationalen Filmwoche Mannheim/Heidelberg
-
-
-*    *   Federation Internationale de la Presse Cinematographique (Fipresci):
-
-    *   Preis der Internationalen Filmkritik im Rahmen der Westdeutschen
-        Kurzfilmtage Oberhausen und der Internationalen Filmwoche
-        Mannheim/Heidelberg
-
-
-*    *   Arbeitsgemeinschaft der Filmjournalisten e.V.:
-
-    *   Preis der Deutschen Filmkritik (Kurzfilm)
-
-
-
+| Der Beauftragte der Bundesregierung für Angelegenheiten der Kultur und der Medien: Das Bundesministerium für Familie, Senioren, Frauen und Jugend: | Spitzenauszeichnungen und Nominierungen im Rahmen des Deutschen Filmpreises und des Deutschen Kurzfilmpreises Deutscher Jugend-Video-Preis |
+| --- | --- |
+| Academy of Motion Pictures, Arts and Sciences, Hollywood: | Oscar für Kurzfilme und Kurztrickfilme |
+| Friedrich-Wilhelm-Murnau-Stiftung: | Kurzfilmpreis |
+| Deutsches Kinderfilm- und Fernseh-Festival, Gera: | Auszeichnung "Goldener Spatz" (Kurzfilm) |
+| Die Katholische Filmarbeit in Deutschland: | Preis im Rahmen der Westdeutschen Kurzfilmtage Oberhausen und der Internationalen Filmwoche Mannheim/Heidelberg |
+| Das Internationale Evangelische Filmzentrum: | Preis im Rahmen der Westdeutschen Kurzfilmtage Oberhausen und der Internationalen Filmwoche Mannheim/Heidelberg |
+| Federation Internationale de la Presse Cinematographique (Fipresci): | Preis der Internationalen Filmkritik im Rahmen der Westdeutschen Kurzfilmtage Oberhausen und der Internationalen Filmwoche Mannheim/Heidelberg |
+| Arbeitsgemeinschaft der Filmjournalisten e.V.: | Preis der Deutschen Filmkritik (Kurzfilm) |
 

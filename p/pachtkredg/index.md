@@ -30,10 +30,10 @@ bestellen.
 
 ## § 2
 
-(1) Zur Bestellung des Pfandrechts ist die Einigung des Pächters und
-des Gläubigers darüber, daß dem Gläubiger das Pfandrecht zustehen
-soll, und die Niederlegung des Verpfändungsvertrages bei dem
-Amtsgericht, in dessen Bezirk der Sitz des Betriebes liegt,
+(1) Zur Bestellung des Pfandrechts ist die Einigung des Pächters
+und des Gläubigers darüber, daß dem Gläubiger das Pfandrecht
+zustehen soll, und die Niederlegung des Verpfändungsvertrages bei
+dem Amtsgericht, in dessen Bezirk der Sitz des Betriebes liegt,
 erforderlich. Der Verpfändungsvertrag bedarf der Schriftform. Er muß
 außer der Einigung über die Bestellung des Pfandrechts den Geldbetrag
 der Forderung und, wenn die Forderung verzinslich ist, den Zinssatz,
@@ -53,11 +53,11 @@ so müssen sie im Verpfändungsvertrag einzeln und unter Angabe ihrer
 kennzeichnenden Merkmale bezeichnet werden.
 
 (2) Das Pfandrecht erstreckt sich weiter auf Inventarstücke, die der
-Pächter nach der Entstehung des Pfandrechts erwirbt, sobald er sie in
-das Inventar einverleibt. Dies gilt nicht, wenn die Erstreckung des
-Pfandrechts durch eine schriftliche Vereinbarung des Pächters und des
-Pfandgläubigers ausgeschlossen und die Vereinbarung bei dem in § 2
-Abs. 1 bezeichneten Gericht niedergelegt worden ist. In der
+Pächter nach der Entstehung des Pfandrechts erwirbt, sobald er sie
+in das Inventar einverleibt. Dies gilt nicht, wenn die Erstreckung
+des Pfandrechts durch eine schriftliche Vereinbarung des Pächters
+und des Pfandgläubigers ausgeschlossen und die Vereinbarung bei dem
+in § 2 Abs. 1 bezeichneten Gericht niedergelegt worden ist. In der
 Vereinbarung muß das Inventarstück unter Angabe seiner kennzeichnenden
 Merkmale bezeichnet werden.
 
@@ -89,10 +89,10 @@ dem Amtsgericht niedergelegt ist, dem Kreditinstitut gegenüber nicht
 darauf berufen, daß er in Ansehung des Pfandrechts in gutem Glauben
 war.
 
-(2) Verfügt der Pächter über einzelne Inventarstücke, so wird das
-Inventarstück von der Haftung frei, wenn die Verfügung innerhalb der
-Grenzen einer ordnungsmäßigen Wirtschaft geschieht und das
-Inventarstück von dem Grundstück entfernt wird, bevor der
+(2) Verfügt der Pächter über einzelne Inventarstücke, so wird
+das Inventarstück von der Haftung frei, wenn die Verfügung
+innerhalb der Grenzen einer ordnungsmäßigen Wirtschaft geschieht
+und das Inventarstück von dem Grundstück entfernt wird, bevor der
 Pfandgläubiger sein Pfandrecht gerichtlich geltend gemacht hat.
 
 
@@ -113,15 +113,15 @@ Rechte in gutem Glauben ist.
 
 ## § 8
 
-Wird das Recht des Pfandgläubigers beeinträchtigt, so finden auf seine
-Ansprüche die für die Ansprüche aus dem Eigentum geltenden
+Wird das Recht des Pfandgläubigers beeinträchtigt, so finden auf
+seine Ansprüche die für die Ansprüche aus dem Eigentum geltenden
 Vorschriften entsprechende Anwendung.
 
 
 ## § 9
 
-Beabsichtigt der Verpächter oder das Kreditinstitut, das Inventar zu
-verwerten, so sollen sie sich unter dem Gesichtspunkt der
+Beabsichtigt der Verpächter oder das Kreditinstitut, das Inventar
+zu verwerten, so sollen sie sich unter dem Gesichtspunkt der
 Aufrechterhaltung des Betriebes über die Art des Vorgehens
 verständigen.
 
@@ -129,26 +129,26 @@ verständigen.
 ## § 10
 
 (1) Die Befriedigung des Pfandgläubigers aus dem Inventar erfolgt
-durch Verkauf. Die Vorschriften des § 1228 Abs. 2 Satz 1 und der §§
-1229, 1230 des Bürgerlichen Gesetzbuchs finden entsprechende
+durch Verkauf. Die Vorschriften des § 1228 Abs. 2 Satz 1 und der
+§§ 1229, 1230 des Bürgerlichen Gesetzbuchs finden entsprechende
 Anwendung.
 
-(2) Der Verkauf kann nach den Vorschriften über den Pfandverkauf (§§
-1234 bis 1240 des Bürgerlichen Gesetzbuchs) oder, wenn der
-Pfandgläubiger für sein Recht zum Verkauf einen vollstreckbaren Titel
-erlangt hat, nach den für den Verkauf einer gepfändeten Sache
+(2) Der Verkauf kann nach den Vorschriften über den Pfandverkauf
+(§§ 1234 bis 1240 des Bürgerlichen Gesetzbuchs) oder, wenn der
+Pfandgläubiger für sein Recht zum Verkauf einen vollstreckbaren
+Titel erlangt hat, nach den für den Verkauf einer gepfändeten Sache
 geltenden Vorschriften erfolgen. Die Vorschriften der §§ 1241 bis 1249
 des Bürgerlichen Gesetzbuchs finden entsprechende Anwendung.
 
-(3) Soll der Verkauf im Wege des Pfandverkaufs geschehen, so kann der
-Pfandgläubiger nach dem Eintritt der Verkaufsberechtigung von dem
+(3) Soll der Verkauf im Wege des Pfandverkaufs geschehen, so kann
+der Pfandgläubiger nach dem Eintritt der Verkaufsberechtigung von dem
 Pächter die Herausgabe der zu verkaufenden Inventarstücke verlangen.
 
 
 ## § 11
 
-(1) Der Verpächter kann der Verwertung des Inventars nach Maßgabe des
-§ 10 nicht widersprechen. Zu einer Verwertung, die nicht im Wege
+(1) Der Verpächter kann der Verwertung des Inventars nach Maßgabe
+des § 10 nicht widersprechen. Zu einer Verwertung, die nicht im Wege
 öffentlicher Versteigerung geschieht, bedarf das Kreditinstitut der
 Einwilligung des Verpächters. Das Kreditinstitut hat dem Verpächter
 auf sein Verlangen die Hälfte des Erlöses zur Befriedigung oder zur
@@ -174,10 +174,10 @@ dem Erlös geltend machen.
 
 ## § 13
 
-(1) Die nach Maßgabe dieses Gesetzes gesicherte Forderung kann nur an
-ein Kreditinstitut abgetreten werden; die Abtretung soll dem in § 2
-Abs. 1 bezeichneten Gericht angezeigt werden. Mit der Übertragung der
-Forderung geht das Pfandrecht auf den neuen Gläubiger über. Das
+(1) Die nach Maßgabe dieses Gesetzes gesicherte Forderung kann nur
+an ein Kreditinstitut abgetreten werden; die Abtretung soll dem in §
+2 Abs. 1 bezeichneten Gericht angezeigt werden. Mit der Übertragung
+der Forderung geht das Pfandrecht auf den neuen Gläubiger über. Das
 Pfandrecht kann nicht ohne die Forderung übertragen werden.
 
 (2) Wird bei der Übertragung der Forderung der Übergang des
@@ -234,5 +234,4 @@ niedergelegt worden ist.
 
 
 ## (XXXX) §§ 17 bis 19 (weggefallen)
-
 

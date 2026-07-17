@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Erhebung einer Ausgleichsabgabe zur Sicherung der deutschen
-  Landwirtschaft
+Title: Verordnung über die Erhebung einer Ausgleichsabgabe zur Sicherung der deutschen Landwirtschaft
 jurabk: LwAusglAbgV 1971
 layout: default
 origslug: lwausglabgv_1971
@@ -17,12 +16,11 @@ Fundstelle
 :   BGBl II: 1971, 233
 
 
-
 ## Eingangsformel
 
-Auf Grund des § 21 Abs. 2 Nr. 4 Buchstabe f des Zollgesetzes in der
-Fassung der Bekanntmachung vom 18. Mai 1970 (Bundesgesetzbl. I S.
-529), geändert durch das Dreizehnte Gesetz zur Änderung des
+Auf Grund des § 21 Abs. 2 Nr. 4 Buchstabe f des Zollgesetzes in
+der Fassung der Bekanntmachung vom 18. Mai 1970 (Bundesgesetzbl.
+I S. 529), geändert durch das Dreizehnte Gesetz zur Änderung des
 Zollgesetzes vom 8. März 1971 (Bundesgesetzbl. I S. 165), verordnet
 die Bundesregierung:
 
@@ -30,8 +28,8 @@ die Bundesregierung:
 ## § 1
 
 (1) Für in § 21 Abs. 2 Nr. 4 Buchstabe f Doppelbuchstabe cc des
-Zollgesetzes aufgeführte Waren, für die nach der Verordnung (EWG) Nr.
-974/71 des Rates vom 12. Mai 1971 (Amtsblatt der Europäischen
+Zollgesetzes aufgeführte Waren, für die nach der Verordnung (EWG)
+Nr. 974/71 des Rates vom 12. Mai 1971 (Amtsblatt der Europäischen
 Gemeinschaften vom 12. Mai 1971 Nr. L 106) Ausgleichsbeträge
 zugelassen und von der Kommission der Europäischen Gemeinschaften
 festgesetzt sind, werden diese Ausgleichsbeträge als Angleichungszoll
@@ -43,9 +41,8 @@ Ausgleichsbeträge auf Grund der in Absatz 1 angeführten Verordnung
 erhoben worden sind, mindert sich die Angleichungszollschuld um diesen
 Betrag.
 
-(3) Der Bundesminister
-für Wirtschaft und Finanzen              gibt die nach Absatz 1
-betroffenen Waren und die von der Kommission der Europäischen
+(3) Der Bundesminister *für Wirtschaft und Finanzen* gibt die nach
+Absatz 1 betroffenen Waren und die von der Kommission der Europäischen
 Gemeinschaften festgesetzten Ausgleichsbeträge im Bundesanzeiger
 bekannt.
 

@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Gewährung von Vorrechten und Befreiungen an die Internationale
-  Atomenergie-Organisation
+Title: Verordnung über die Gewährung von Vorrechten und Befreiungen an die Internationale Atomenergie-Organisation
 jurabk: IntAtomOrgVorRV
 layout: default
 origslug: intatomorgvorrv
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl II: 1960, 1993 (2108)
-
 
 
 ## Eingangsformel
@@ -34,8 +32,8 @@ Bundesregierung mit Zustimmung des Bundesrates:
 
 (1) Die Bestimmungen des Abkommens über die Vorrechte und Befreiungen
 der Sonderorganisationen der Vereinten Nationen finden sinngemäß auf
-die Internationale Atomenergie-Organisation Anwendung nach Maßgabe der
-auf Artikel XV der Satzung der Internationalen Atomenergie-
+die Internationale Atomenergie-Organisation Anwendung nach Maßgabe
+der auf Artikel XV der Satzung der Internationalen Atomenergie-
 Organisation (Bundesgesetzbl. 1957 II S. 1357) beruhenden Vereinbarung
 über die Vorrechte und Befreiungen der Internationalen Atomenergie-
 Organisation.
@@ -50,11 +48,11 @@ Anwendung.
 ## § 2
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
-4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit Artikel 4
-des Gesetzes vom 22. Juni 1954 über den Beitritt der Bundesrepublik
+4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit Artikel
+4 des Gesetzes vom 22. Juni 1954 über den Beitritt der Bundesrepublik
 Deutschland zum Abkommen über die Vorrechte und Befreiungen der
-Sonderorganisationen der Vereinten Nationen vom 21. November 1947 und
-über die Gewährung von Vorrechten und Befreiungen an andere
+Sonderorganisationen der Vereinten Nationen vom 21. November 1947
+und über die Gewährung von Vorrechten und Befreiungen an andere
 zwischenstaatliche Organisationen in der Fassung des Änderungsgesetzes
 vom 3. Juni 1957 auch im Land Berlin.
 

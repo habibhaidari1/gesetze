@@ -1,7 +1,5 @@
 ---
-Title: Hundertsechsundneunzigste Durchführungsverordnung zur Luftverkehrs-Ordnung
-  (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum
-  und vom Verkehrsflughafen Siegerland)
+Title: Hundertsechsundneunzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrsflughafen Siegerland)
 jurabk: LuftVODV 196
 layout: default
 origslug: luftvodv_196
@@ -16,4 +14,7 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BAnz: 1999, Nr 182, 16650
+
+Fundstelle
+:   BAnz: 1999, 16650
 

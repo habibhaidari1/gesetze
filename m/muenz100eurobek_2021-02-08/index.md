@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert
-  von 100 Euro (Goldmünze „Einigkeit“)
+Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze „Einigkeit“)
 jurabk: Münz100EuroBek 2021-02-08
 layout: default
 origslug: m_nz100eurobek_2021-02-08
@@ -19,18 +18,18 @@ Fundstelle
 
 ## (XXXX)
 
-Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
-I S. 2402) hat die Bundesregierung beschlossen, eine 100-Euro-
+Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999
+(BGBl. I S. 2402) hat die Bundesregierung beschlossen, eine 100-Euro-
 Goldmünze „Einigkeit“ prägen zu lassen. Die Münze bildet den Auftakt
 einer dreiteiligen Serie „Säulen der Demokratie“.
 
-Die Auflage der Münze beträgt maximal 180 000 Stück. Die Münze wird zu
+Die Auflage der Münze beträgt maximal 180 000 Stück. Die Münze wird zu
 gleichen Teilen in den Münzstätten Berlin (Münzzeichen „A“), München
 (Münzzeichen „D“), Stuttgart (Münzzeichen „F“), Karlsruhe (Münzzeichen
 „G“) und Hamburg (Münzzeichen „J“) in Stempelglanzausführung geprägt.
 
-Die Münze wird ab dem 1. Oktober 2020 in den Verkehr gebracht. Sie
-besteht aus Gold mit einem Feingehalt von 999,9 Tausendteilen
+Die Münze wird ab dem 1. Oktober 2020 in den Verkehr gebracht.
+Sie besteht aus Gold mit einem Feingehalt von 999,9 Tausendteilen
 (Feingold), hat einen Durchmesser von 28 Millimetern und eine Masse
 von 15,55 Gramm.
 
@@ -60,12 +59,4 @@ Der Bundesminister der Finanzen
 ## (XXXX)
 
 (Fundstelle: BGBl. I 2021, 256)
-
-
-*    *        ![bgbl1_2021_j0256-1_0010.jpg](bgbl1_2021_j0256-1_0010.jpg)
-    *        ![bgbl1_2021_j0256-1_0020.jpg](bgbl1_2021_j0256-1_0020.jpg)
-
-*    *
-    *
-
 

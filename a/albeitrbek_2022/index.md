@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung der Beiträge in der Alterssicherung der Landwirte für das Jahr
-  2022
+Title: Bekanntmachung der Beiträge in der Alterssicherung der Landwirte für das Jahr 2022
 jurabk: ALBeitrBek 2022
 layout: default
 origslug: albeitrbek_2022
@@ -29,12 +28,8 @@ gemacht:
 1.  Der Beitrag in der Alterssicherung der Landwirte beträgt für das
     Kalenderjahr 2022 monatlich 270 Euro.
 
-
 2.  Der Beitrag in der Alterssicherung der Landwirte beträgt für das
     Beitrittsgebiet für das Kalenderjahr 2022 monatlich 260 Euro.
-
-
-
 
 
 ## Schlussformel

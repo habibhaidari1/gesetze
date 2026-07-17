@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen
-  Mark (Gutenberg-Gedenkmünze)
+Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Gutenberg-Gedenkmünze)
 jurabk: Münz5DMBek 1968-10-31
 layout: default
 origslug: m_nz5dmbek_1968-10-31
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 1968, 1106
-
 
 
 ## (XXXX)
@@ -42,8 +40,7 @@ DEUTSCHE 5 MARK". Der Buchstabe G, das Münzzeichen der Staatlichen
 Münze Karlsruhe, ist in dem Bogen der Wertziffer 5 angebracht.
 
 (5) Die Bildseite zeigt das Kopfbild Gutenbergs mit der Umschrift: ".
-JOHANNES GUTENBERG .
-gest. 1468".
+JOHANNES GUTENBERG . gest. 1468".
 
 (6) Der glatte Münzrand ist mit der vertieften Inschrift versehen: ".
 GESEGNET SEI - WER DIE SCHRIFT ERFAND .".

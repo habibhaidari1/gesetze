@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über das Verfahren bei der Erteilung von Unbedenklichkeitsbescheinigungen
-  für andere Spiele im Sinne des § 33d Abs. 1 der Gewerbeordnung
+Title: Verordnung über das Verfahren bei der Erteilung von Unbedenklichkeitsbescheinigungen für andere Spiele im Sinne des § 33d Abs. 1 der Gewerbeordnung
 jurabk: SpielUBeschV
 layout: default
 origslug: spielubeschv
@@ -25,8 +24,8 @@ Zuletzt geändert durch
 
 ## § 1
 
-Über den Antrag auf Erteilung einer Unbedenklichkeitsbescheinigung für
-ein anderes Spiel im Sinne des § 33d Abs. 1 der Gewerbeordnung
+Über den Antrag auf Erteilung einer Unbedenklichkeitsbescheinigung
+für ein anderes Spiel im Sinne des § 33d Abs. 1 der Gewerbeordnung
 entscheidet das Bundeskriminalamt im Benehmen mit der Physikalisch-
 Technischen Bundesanstalt und einem Ausschuß von vier auf dem Gebiete
 des Spielwesens erfahrenen Kriminalbeamten der Länder. Die Mitglieder
@@ -42,8 +41,8 @@ Fachinstitut beauftragen.
 Der Antragsteller hat dem Antrag eine Spielbeschreibung, die
 Spielregeln und, soweit nach Art des Spieles erforderlich, eine
 Berechnung der Auszahlungs- und Treffererwartung beizufügen. Auf
-Verlangen des Bundeskriminalamtes hat er weitere Unterlagen und, wenn
-es sich um eine Spieleinrichtung handelt, eine betriebsfertige
+Verlangen des Bundeskriminalamtes hat er weitere Unterlagen und,
+wenn es sich um eine Spieleinrichtung handelt, eine betriebsfertige
 Einrichtung einzureichen. Der Antragsteller ist verpflichtet, dem
 Bundeskriminalamt auf Verlangen ein Muster der Spieleinrichtung oder
 einzelner Teile zu überlassen.
@@ -57,14 +56,10 @@ einzelner Teile zu überlassen.
     serienmäßig gefertigt werden soll und wenn die Übereinstimmung der
     Nachbauten mit dem geprüften Muster sichergestellt ist,
 
-
 2.  in allen übrigen Fällen dem Veranstalter.
 
-
-
-
-(2) Für jeden Nachbau einer Spieleinrichtung nach Absatz 1 Nr. 1
-erhält der Hersteller einen Abdruck der
+(2) Für jeden Nachbau einer Spieleinrichtung nach
+Absatz 1 Nr. 1 erhält der Hersteller einen Abdruck der
 Unbedenklichkeitsbescheinigung.
 
 
@@ -74,35 +69,22 @@ Die Unbedenklichkeitsbescheinigung enthält
 
 1.  Bezeichnung des Spieles,
 
-
-2.
-    a)  im Falle des § 3 Abs. 1 Nr. 1 Firmenbezeichnung und Sitz des
+2.  a)  im Falle des § 3 Abs. 1 Nr. 1 Firmenbezeichnung und Sitz des
         Herstellers, b)
 
         im Falle des § 3 Abs. 1 Nr. 2 Namen, Geburtsdatum und -ort sowie
         Wohnort des Veranstalters,
 
-
-
-
-
 3.  Beschreibung des Spieles, des Spielablaufs und, soweit erforderlich,
     Abbildungen oder Übersichtszeichnungen,
 
-
 4.  Spielregeln und Gewinnplan,
-
 
 5.  Bezeichnung der Plätze, an denen das Spiel veranstaltet werden darf,
 
-
 6.  Angabe der Geltungsdauer,
 
-
 7.  etwaige Nebenbestimmungen.
-
-
-
 
 
 ## § 5
@@ -115,7 +97,6 @@ oder abgelaufen ist und nicht mehr erteilt wird.
 
 
 ## § 6 (weggefallen)
-
 
 
 ## § 7

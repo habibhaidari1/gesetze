@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Standards für die Übermittlung elektronischer Akten zwischen
-  Behörden und Gerichten im Bußgeldverfahren
+Title: Verordnung über die Standards für die Übermittlung elektronischer Akten zwischen Behörden und Gerichten im Bußgeldverfahren
 jurabk: BußAktÜbV
 layout: default
 origslug: bu_akt_bv
@@ -15,6 +14,9 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 2020, 765
+
+Geändert durch
+:   Art. 41 G v. 12.7.2024 I Nr. 234
 
 
 ## Eingangsformel
@@ -32,23 +34,18 @@ geführter Bußgeldakten
 
 1.  der Verwaltungsbehörden, die als Bußgeldbehörden tätig sind;
 
-
 2.  der Staatsanwaltschaften;
-
 
 3.  der Gerichte.
 
 
-
-
-
 ## § 2 Übermittlung elektronischer Akten
 
-(1) Elektronische Akten sollen elektronisch übermittelt werden, wenn
-die empfangende Stelle die Akten elektronisch führt. Führt die
-empfangende Stelle noch keine elektronischen Akten, sind elektronische
-Dokumente vor der Übermittlung nach Maßgabe des § 32e der
-Strafprozessordnung in die Papierform zu übertragen.
+(1) Elektronische Akten sollen elektronisch übermittelt werden,
+wenn die empfangende Stelle die Akten elektronisch führt. Führt
+die empfangende Stelle noch keine elektronischen Akten, sind
+elektronische Dokumente vor der Übermittlung nach Maßgabe des § 32e
+der Strafprozessordnung in die Papierform zu übertragen.
 
 (2) Abweichend von Absatz 1 Satz 2 können aktenführende
 Verwaltungsbehörden, Staatsanwaltschaften und Gerichte, welche die
@@ -57,42 +54,33 @@ andere aktenführende Verwaltungsbehörden, Staatsanwaltschaften oder
 Gerichte übermitteln, wenn diese die Akten in Papierform führen.
 
 (3) Der elektronischen Akte soll bei der Übermittlung ein
-strukturierter maschinenlesbarer Datensatz beigefügt werden, der den
-nach § 6 Absatz 1 Nummer 1 bekanntgemachten Definitions- oder
+strukturierter maschinenlesbarer Datensatz beigefügt werden, der
+den nach § 6 Absatz 1 Nummer 1 bekanntgemachten Definitions- oder
 Schemadateien entspricht. Er soll mindestens Folgendes enthalten:
 
 1.  die Bezeichnung der aktenführenden Behörde oder des Gerichts;
 
-
 2.  sofern bekannt, das bußgeldbehördliche, staatsanwaltschaftliche oder
     gerichtliche Aktenzeichen des Verfahrens;
-
 
 3.  sofern bekannt, Vorgangsnummern zugrundeliegender polizeilicher
     Ermittlungsvorgänge;
 
-
 4.  Tatzeit, Tatort und Tatvorwurf;
-
 
 5.  die Bezeichnung der betroffenen Personen; bei Verfahren gegen
     Unbekannt anstelle der Bezeichnung der betroffenen Personen die Angabe
     „Unbekannt“ sowie, sofern bekannt, die Bezeichnung der geschädigten
     Personen;
 
-
 6.  sofern bekannt, das Aktenzeichen eines denselben Verfahrensgegenstand
     betreffenden Verfahrens und die Bezeichnung der diese Akten führenden
     Stelle;
-
 
 7.  die Information darüber, ob und in welchem Umfang die Aktenführung
     oder die Bearbeitungsbefugnis an die empfangende Stelle abgegeben
     werden sollen oder ob nur ein Repräsentat der elektronischen Akte
     übersandt wird.
-
-
-
 
 (4) Für die Form der Übermittlung gelten die §§ 2 und 3 Absatz 3 der
 Dokumentenerstellungs- und -übermittlungsverordnung entsprechend.
@@ -108,9 +96,9 @@ der Übermittlung im Umfang der abzugebenden Aktenführung oder
 Bearbeitung nicht mehr fortschreiben. Dies gilt nicht, wenn die
 empfangende Stelle die Übernahme ablehnt.
 
-(3) Die Abgabe ist erst vollzogen, wenn ein Strukturdatensatz von der
-übernehmenden an die abgebende Stelle mit der Information darüber,
-dass die Aktenführung oder die Bearbeitung übernommen wird,
+(3) Die Abgabe ist erst vollzogen, wenn ein Strukturdatensatz
+von der übernehmenden an die abgebende Stelle mit der Information
+darüber, dass die Aktenführung oder die Bearbeitung übernommen wird,
 zurückgesendet wurde. Ist die Übersendung eines Strukturdatensatzes
 technisch nicht möglich, genügt eine andere Form der Mitteilung.
 
@@ -128,8 +116,8 @@ oder einem diesen ersetzenden Protokollstandard beruht, der dem
 jeweiligen Stand der Technik entspricht.
 
 (2) Die Übermittlung elektronischer Akten kann auch über einen anderen
-Übermittlungsweg erfolgen, an den Absender und Empfänger innerhalb des
-Geschäftsbereichs des Bundes oder eines Landes zu diesem Zweck
+Übermittlungsweg erfolgen, an den Absender und Empfänger innerhalb
+des Geschäftsbereichs des Bundes oder eines Landes zu diesem Zweck
 angeschlossen sind, wenn die Authentizität und Integrität der Daten
 gewährleistet ist. Übermittlungswege, die bereits eingerichtet sind,
 sind bis zum 31. Dezember 2025 weiterhin zulässig.
@@ -137,28 +125,30 @@ sind bis zum 31. Dezember 2025 weiterhin zulässig.
 
 ## § 5 Ersatzmaßnahmen
 
-Ist aus technischen Gründen eine Übermittlung nach § 4 vorübergehend
-nicht möglich, so ist die Übermittlung der Akte auch auf andere Weise,
-etwa in Papierform oder auf einem physischen Datenträger nach § 6
-Absatz 1 Nummer 2, zulässig. Auf Anforderung ist die elektronische
-Akte nachzureichen.
+(1) Ist aus technischen Gründen eine Übermittlung nach § 4
+vorübergehend nicht möglich, so ist die Übermittlung der Akte auch
+auf andere Weise, etwa in Papierform oder auf einem physischen
+Datenträger nach § 6 Absatz 1 Nummer 2, zulässig. Auf Anforderung ist
+die elektronische Akte nachzureichen.
+
+(2) Können die nach § 5 Absatz 1 Nummer 3 der Elektronischer-
+Rechtsverkehr-Verordnung bekanntgemachten Höchstgrenzen für die Anzahl
+oder das Volumen elektronischer Dokumente nicht eingehalten werden,
+so ist die Übermittlung der Akte auch auf einem physischen Datenträger
+nach § 6 Absatz 1 Nummer 2 zulässig.
 
 
 ## § 6 Bekanntmachung technischer Anforderungen
 
-(1) Die Bundesregierung macht folgende technische Anforderungen an die
-Übermittlung elektronischer Akten im Bundesanzeiger und auf der
+(1) Die Bundesregierung macht folgende technische Anforderungen an
+die Übermittlung elektronischer Akten im Bundesanzeiger und auf der
 Internetseite www.justiz.de bekannt:
 
 1.  die Definitions- oder Schemadateien, die bei der Übermittlung eines
     strukturierten maschinenlesbaren Datensatzes im Format XML genutzt
     werden sollen;
 
-
-2.  die nach § 5 Satz 1 zulässigen physischen Datenträger.
-
-
-
+2.  die nach § 5 zulässigen physischen Datenträger.
 
 (2) Die technischen Anforderungen können mit einer
 Mindestgültigkeitsdauer und einem Ablaufdatum versehen werden.

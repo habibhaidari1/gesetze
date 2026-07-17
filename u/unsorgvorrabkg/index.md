@@ -1,8 +1,5 @@
 ---
-Title: Gesetz über den Beitritt der Bundesrepublik Deutschland zum Abkommen über die
-  Vorrechte und Befreiungen der Sonderorganisationen der Vereinten Nationen vom 21.
-  November 1947 und über die Gewährung von Vorrechten und Befreiungen an andere zwischenstaatliche
-  Organisationen
+Title: Gesetz über den Beitritt der Bundesrepublik Deutschland zum Abkommen über die Vorrechte und Befreiungen der Sonderorganisationen der Vereinten Nationen vom 21. November 1947 und über die Gewährung von Vorrechten und Befreiungen an andere zwischenstaatliche Organisationen
 jurabk: UNSOrgVorRAbkG
 layout: default
 origslug: unsorgvorrabkg
@@ -45,40 +42,25 @@ erforderlich ist, Rechtsverordnungen zu erlassen
 
     a)  die Sonderorganisationen der Vereinten Nationen,
 
-
     b)  durch zwischenstaatliche Vereinbarungen geschaffene Organisationen,
         die nicht Sonderorganisationen der Vereinten Nationen sind,
 
-
     c)  Einrichtungen anderer Staaten;
-
-
-
-
 
 2.  über die Gewährung diplomatischer Vorrechte und Immunitäten an
 
     a)  die in Nummer 1 genannten Organisationen und Einrichtungen,
 
-
     b)  die Bediensteten dieser Organisationen und Einrichtungen sowie die zum
         Haushalt der Bediensteten gehörenden Familienmitglieder und privaten
         Hausangestellten,
-
 
     c)  die Vertreter der Mitglieder dieser Organisationen sowie die zum
         Haushalt der Vertreter gehörenden Familienmitglieder und privaten
         Hausangestellten,
 
-
     d)  die Sachverständigen, die Aufträge für diese Organisationen
         durchführen.
-
-
-
-
-
-
 
 
 ## Art 4

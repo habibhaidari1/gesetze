@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen
-  Mark (Friedrich-Ebert-Gedenkmünze)
+Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Friedrich-Ebert-Gedenkmünze)
 jurabk: Münz5DMBek 1975-01-22
 layout: default
 origslug: m_nz5dmbek_1975-01-22
@@ -17,11 +16,10 @@ Fundstelle
 :   BGBl I: 1975, 405
 
 
-
 ## (XXXX)
 
-(1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen vom
-8\. Juli 1950 (Bundesgesetzbl. I S. 323) ist aus Anlaß der 50.
+(1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen
+vom 8. Juli 1950 (Bundesgesetzbl. I S. 323) ist aus Anlaß der 50.
 Wiederkehr des Todestages des ersten Reichspräsidenten der Weimarer
 Republik (28. Februar 1925) eine Bundesmünze (Gedenkmünze) im Nennwert
 von 5 Deutschen Mark geprägt worden. Die Ausprägung erfolgte in der
@@ -40,16 +38,11 @@ schützenden glatten Randstab umgeben.
 (5) Die Bildseite weist ein besonders groß und kräftig modelliertes
 Portrait Eberts auf mit der geteilten Umschrift
 
-*   "1871-1925 FRIEDRICH EBERT".
-
-
-
+-   "1871-1925 FRIEDRICH EBERT".
 
 (6) Die Wertseite zeigt einen Adler mit der zweizeiligen Umschrift
 
-*   "DEUTSCHE 5 MARK BUNDESREPUBLIK DEUTSCHLAND . 1975",
-
-
+-   "DEUTSCHE 5 MARK BUNDESREPUBLIK DEUTSCHLAND . 1975",
 
 die jeweils nach dem ersten Wort der Zeilen durch die Wertziffer 5
 unterbrochen ist.

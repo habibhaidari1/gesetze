@@ -1,8 +1,5 @@
 ---
-Title: Gesetz zu dem Übereinkommen vom 10. März 1988 zur Bekämpfung widerrechtlicher
-  Handlungen gegen die Sicherheit der Seeschiffahrt und zum Protokoll vom 10. März
-  1988 zur Bekämpfung widerrechtlicher Handlungen gegen die Sicherheit fester Plattformen,
-  die sich auf dem Festlandsockel befinden
+Title: Gesetz zu dem Übereinkommen vom 10. März 1988 zur Bekämpfung widerrechtlicher Handlungen gegen die Sicherheit der Seeschiffahrt und zum Protokoll vom 10. März 1988 zur Bekämpfung widerrechtlicher Handlungen gegen die Sicherheit fester Plattformen, die sich auf dem Festlandsockel befinden
 jurabk: SeeSchSiÜbkG
 layout: default
 origslug: seeschsi_bkg
@@ -20,7 +17,6 @@ Fundstelle
 
 Geändert durch
 :   Art. 3 G v. 25.11.2015 I 2095
-
 
 
 ## Art 1

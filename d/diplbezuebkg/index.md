@@ -48,14 +48,13 @@ a)  ausländische Missionen und ihren Mitgliedern auf der Grundlage
     Rechtsverordnung weitergehende diplomatische Vorrechte und Befreiungen
     nach Maßgabe der Gegenseitigkeit zu gewähren;
 
-
 b)  durch Rechtsverordnung zur Herstellung und Gewährleistung der
     Gegenseitigkeit zu bestimmen, daß die in dem Wiener Übereinkommen
     vereinbarten Vorrechte, Befreiungen und sonstigen Rechte ausländischen
     Missionen und deren Mitgliedern in der Bundesrepublik Deutschland
     nicht oder nicht in vollem Umfang gewährt werden, soweit die
-    Entsendestaaten das Wiener Übereinkommen auf die bei ihnen bestehende
-    Mission der Bundesrepublik Deutschland und ihre Mitglieder
+    Entsendestaaten das Wiener Übereinkommen auf die bei ihnen
+    bestehende Mission der Bundesrepublik Deutschland und ihre Mitglieder
     einschränkend anwenden. Die Bundesregierung wird insbesondere
     ermächtigt, die Tätigkeit ausländischer Missionen und ihrer Mitglieder
     in der Bundesrepublik Deutschland durch Rechtsverordnung der Art oder
@@ -64,19 +63,16 @@ b)  durch Rechtsverordnung zur Herstellung und Gewährleistung der
     Entsendestaat gelten. Die Rechtsverordnung kann Bestimmungen über das
     Verfahren und über den Vollzug der vorgesehenen Maßnahmen enthalten.
 
-
-
-
 (2) In Fällen, in denen eine Notifizierung nach Artikel 9 des Wiener
 Übereinkommens vom 18. April 1961 über diplomatische Beziehungen
 erfolgt oder Maßnahmen zur Vermeidung einer derartigen Notifizierung
 ergriffen werden sollen, darf das Auswärtige Amt dem Leiter einer
-Mission oder einem entsandten Mitglied einer Mission mitteilen, daß
-und auf Grund welcher Anhaltspunkte ein Mitglied des Personals der
-Mission oder ein Angehöriger desselben beschuldigt wird, eine
+Mission oder einem entsandten Mitglied einer Mission mitteilen,
+daß und auf Grund welcher Anhaltspunkte ein Mitglied des Personals
+der Mission oder ein Angehöriger desselben beschuldigt wird, eine
 strafbare Handlung oder eine Ordnungswidrigkeit begangen zu haben.
-Entsprechendes gilt bei Anhaltspunkten für sonstige Verfehlungen, die
-im Widerspruch zu den einem Mitglied des Personals einer Mission
+Entsprechendes gilt bei Anhaltspunkten für sonstige Verfehlungen,
+die im Widerspruch zu den einem Mitglied des Personals einer Mission
 obliegenden Pflichten stehen.
 
 
@@ -91,9 +87,9 @@ S. 1).
 
 ## Art 4
 
-Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft. Der Tag,
-an dem das Übereinkommen nach seinem Artikel 51 sowie die beiden
-Fakultativ-Protokolle nach ihren Artikeln 8 und 6 für die
+Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft. Der
+Tag, an dem das Übereinkommen nach seinem Artikel 51 sowie die
+beiden Fakultativ-Protokolle nach ihren Artikeln 8 und 6 für die
 Bundesrepublik Deutschland in Kraft treten, ist im Bundesgesetzblatt
 bekanntzugeben.
 

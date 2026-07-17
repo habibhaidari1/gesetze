@@ -1,6 +1,5 @@
 ---
-Title: Anordnung des Bundespräsidenten über den Erlass von Bestimmungen für die Dienstkleidung
-  von Beamtinnen und Beamten der Zollverwaltung
+Title: Anordnung des Bundespräsidenten über den Erlass von Bestimmungen für die Dienstkleidung von Beamtinnen und Beamten der Zollverwaltung
 jurabk: ZollDKlZustAnO
 layout: default
 origslug: zolldklzustano
@@ -16,7 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2015, 2325
 
-Stand: Ersetzt V 2030-12-5 v. 4.4.1957 I 369 (BPräsKldgZollVwAnO)
+Stand
+:   Ersetzt V 2030-12-5 v. 4.4.1957 I 369 (BPräsKldgZollVwAnO)
+
 
 ## Eingangsformel
 

@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zur Bestimmung der Beitragssätze in der gesetzlichen Rentenversicherung
-  für das Jahr 2007
+Title: Gesetz zur Bestimmung der Beitragssätze in der gesetzlichen Rentenversicherung für das Jahr 2007
 jurabk: BSG 2007
 layout: default
 origslug: bsg_2007
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 2006, 3286
-
 
 
 ## (XXXX)

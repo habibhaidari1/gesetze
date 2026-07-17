@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl I: 2001, 1939
 
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
@@ -24,7 +23,6 @@ beschlossen:
 
 
 ## (XXXX) Art 1 bis 9
-
 
 
 ## Art 10 Auflösung des Sondervermögens der Bundesrepublik Deutschland
@@ -42,10 +40,10 @@ Sechsten Buches Sozialgesetzbuch und Bescheide des Versorgungsträgers
 oder des Trägers der Rentenversicherung/Überleitungsanstalt
 Sozialversicherung nach den §§ 4, 10 und 11 des Anspruchs- und
 Anwartschaftsüberführungsgesetzes, die am 28. April 1999 unanfechtbar
-waren, können, soweit sie auf einer Rechtsnorm beruhen, die nach dem
-Erlass dieser Bescheide für mit dem Grundgesetz unvereinbar oder
-nichtig erklärt worden ist, nur mit Wirkung für die Zeit nach dem 30.
-April 1999 nach § 44 des Zehnten Buches Sozialgesetzbuch
+waren, können, soweit sie auf einer Rechtsnorm beruhen, die nach
+dem Erlass dieser Bescheide für mit dem Grundgesetz unvereinbar
+oder nichtig erklärt worden ist, nur mit Wirkung für die Zeit nach
+dem 30. April 1999 nach § 44 des Zehnten Buches Sozialgesetzbuch
 zurückgenommen werden.
 
 
@@ -71,18 +69,18 @@ in den folgenden Absätzen nichts Abweichendes bestimmt ist.
 2 Nr. 5 und 9 für Personen in Kraft, für die am 28. April 1999 ein
 Rentenbescheid noch nicht bindend war.
 
-(6) Mit  Wirkung vom 1. Juli 1993 tritt Artikel 1 Nr. 9 für Personen
-in Kraft, für die am 28. April 1999 ein Rentenbescheid noch nicht
-bindend war.
+(6) Mit Wirkung vom 1. Juli 1993 tritt Artikel 1 Nr. 9 für Personen in
+Kraft, für die am 28. April 1999 ein Rentenbescheid noch nicht bindend
+war.
 
-(7) Mit Wirkung vom 1. Juli 1993 treten § 6 Abs. 2 und 3 sowie Anlage
-4 und 5 des Anspruchs- und Anwartschaftsüberführungsgesetzes in der
-Fassung des AAÜG-Änderungsgesetzes vom 11. November 1996 (BGBl. I S.
-1674) für Personen in Kraft, für die am 28. April 1999 ein
-Überführungsbescheid eines Versorgungsträgers noch nicht bindend war;
-Absatz 8 bleibt unberührt. Dies gilt nicht für Personen, die in den
-Geltungsbereich der Anlage 7 zu § 6 Abs. 4 des Anspruchs- und
-Anwartschaftsüberführungsgesetzes in der Fassung des
+(7) Mit Wirkung vom 1. Juli 1993 treten § 6 Abs. 2 und 3 sowie
+Anlage 4 und 5 des Anspruchs- und Anwartschaftsüberführungsgesetzes
+in der Fassung des AAÜG-Änderungsgesetzes vom 11. November 1996
+(BGBl. I S. 1674) für Personen in Kraft, für die am 28. April
+1999 ein Überführungsbescheid eines Versorgungsträgers noch
+nicht bindend war; Absatz 8 bleibt unberührt. Dies gilt nicht für
+Personen, die in den Geltungsbereich der Anlage 7 zu § 6 Abs. 4 des
+Anspruchs- und Anwartschaftsüberführungsgesetzes in der Fassung des
 Rentenüberleitungs-Ergänzungsgesetzes vom 24. Juni 1993 (BGBl. I S.
 1038) fallen.
 
@@ -93,9 +91,9 @@ Für Personen, bei denen § 22a des Fremdrentengesetzes anzuwenden ist,
 tritt anstelle des Überführungsbescheides eines Versorgungsträgers der
 Bescheid des Trägers der Rentenversicherung.
 
-(9) Mit Wirkung vom 1. August 1991 tritt Artikel 1 Nr. 5 Buchstabe a
-und b Doppelbuchstabe aa für Personen in Kraft, für die am 28. April
-1999 ein Bescheid des Versorgungsträgers oder des Trägers der
+(9) Mit Wirkung vom 1. August 1991 tritt Artikel 1 Nr. 5 Buchstabe
+a und b Doppelbuchstabe aa für Personen in Kraft, für die am 28.
+April 1999 ein Bescheid des Versorgungsträgers oder des Trägers der
 Rentenversicherung/Überleitungsanstalt Sozialversicherung nach § 10
 Abs. 5 des Anspruchs- und Anwartschaftsüberführungsgesetzes noch nicht
 bindend war.
@@ -108,8 +106,8 @@ nach § 10 Abs. 5 des Anspruchs- und Anwartschaftsüberführungsgesetzes
 noch nicht bindend war.
 
 (11) Mit Wirkung vom 1. Juli 1994 treten Artikel 5 für Personen, die
-am 28. April 1999 einen Bescheid des Versorgungsträgers nach § 10 Abs.
-5 des Anspruchs- und Anwartschaftsüberführungsgesetzes noch nicht
+am 28. April 1999 einen Bescheid des Versorgungsträgers nach § 10
+Abs. 5 des Anspruchs- und Anwartschaftsüberführungsgesetzes noch nicht
 bindend war, und Artikel 7 in Kraft.
 
 (12) Artikel 2 Nr. 1 Buchstabe a, Nr. 2 bis 4 und 7 tritt mit Wirkung

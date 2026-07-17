@@ -18,7 +18,9 @@ Fundstelle
 Geändert durch
 :   Art. 1 G v. 7.8.2021 I 3311
 
-Stand: Ersetzt G 11-1 v. 24.6.1994 I 1406, 1413 (BGremBG)
+Stand
+:   Ersetzt G 11-1 v. 24.6.1994 I 1406, 1413 (BGremBG)
+
 
 ## § 1 Ziel des Gesetzes
 
@@ -29,9 +31,9 @@ kann.
 
 ## § 2 Geltungsbereich
 
-Dieses Gesetz gilt für Aufsichtsgremien und wesentliche Gremien, für
-die der Bund Mitglieder bestimmen kann. Es gilt nicht für die
-Ernennung der Mitglieder der Bundesregierung, nicht für die
+Dieses Gesetz gilt für Aufsichtsgremien und wesentliche Gremien,
+für die der Bund Mitglieder bestimmen kann. Es gilt nicht für
+die Ernennung der Mitglieder der Bundesregierung, nicht für die
 Gerichtsbarkeit und nicht für Gremienmitglieder, die in Ausübung
 gesetzlich verbürgter Unabhängigkeit bestimmt werden.
 
@@ -45,64 +47,47 @@ Im Sinne dieses Gesetzes sind:
     Rechtsgrundlage, auch wenn deren Mitglieder durch Wahl bestimmt
     werden;
 
-
 2.  wesentliche Gremien:
 
     a)  Gremien, bei denen die Bundesregierung als Gesamtheit die
         Mitgliedschaft mindestens eines Mitglieds zu beschließen oder zur
         Kenntnis zu nehmen hat,
 
-
     b)  Gremien, die wegen ihrer besonderen tatsächlichen, wissenschaftlichen
         oder zukunftsrelevanten Bedeutung von den Institutionen des Bundes
         nach Nummer 3 als wesentliche Gremien bestimmt worden sind;
-
-
-
-
 
 3.  Institutionen des Bundes:
 
     a)  die Bundesregierung als Gesamtheit,
 
-
     b)  das Bundeskanzleramt,
-
 
     c)  die Bundesministerien sowie die oder der Beauftragte der
         Bundesregierung für Kultur und Medien einschließlich der Behörden des
         jeweiligen Geschäftsbereichs,
 
-
     d)  die weiteren Beauftragten der Bundesregierung und die
         Bundesbeauftragten sowie
-
 
     e)  die bundesunmittelbaren juristischen Personen des öffentlichen Rechts
         ohne Recht auf Selbstverwaltung;
 
-
-
-
-
 4.  vom Bund zu bestimmende Mitglieder: Mitglieder, die die Institutionen
-    des Bundes einzeln oder gemeinsam in ein Aufsichtsgremium oder in ein
-    wesentliches Gremium unmittelbar und rechtsverbindlich wählen,
+    des Bundes einzeln oder gemeinsam in ein Aufsichtsgremium oder in
+    ein wesentliches Gremium unmittelbar und rechtsverbindlich wählen,
     berufen, entsenden oder für ein solches Gremium vorschlagen können;
     ein Mitglied ist nicht vom Bund bestimmt, wenn ein Dritter gegenüber
     dem Bund ein Vorschlagsrecht für die Mitgliedschaft hat und von diesem
     Recht Gebrauch macht.
 
 
-
-
-
 ## § 4 Besetzung der Aufsichtsgremien und der wesentlichen Gremien
 
 (1) In jedem Aufsichtsgremium mit mindestens zwei vom Bund zu
 bestimmenden Mitgliedern sollen unter den vom Bund zu bestimmenden
-Mitgliedern Frauen und Männer zu gleichen Teilen vertreten sein. Steht
-dem Bund eine ungerade Anzahl an Sitzen zu, so darf das
+Mitgliedern Frauen und Männer zu gleichen Teilen vertreten sein.
+Steht dem Bund eine ungerade Anzahl an Sitzen zu, so darf das
 Ungleichgewicht zwischen Frauen und Männern nur einen Sitz betragen.
 Bei jedem wesentlichen Gremium haben die Institutionen des Bundes
 darauf hinzuwirken, dass eine paritätische Vertretung von Frauen und
@@ -120,8 +105,8 @@ des Bundes. Droht bei einem Aufsichtsgremium oder einem wesentlichen
 Gremium, dessen Besetzung dem Bundeskabinett vorgelegt wird, eine
 Unterschreitung der Vorgaben des Absatzes 1, so hat die für dieses
 Gremium federführende Institution des Bundes unverzüglich das
-Bundesministerium für Familie, Senioren, Frauen und Jugend davon zu
-unterrichten. Die Gründe für die drohende Unterschreitung sind
+Bundesministerium für Familie, Senioren, Frauen und Jugend davon
+zu unterrichten. Die Gründe für die drohende Unterschreitung sind
 darzulegen.
 
 
@@ -132,24 +117,18 @@ darzulegen.
 1.  die Aufsichtsgremien und die wesentlichen Gremien, für die sie
     federführend zuständig sind,
 
-
 2.  die Zahl der vom Bund für die jeweiligen in Nummer 1 genannten Gremien
     zu bestimmenden Mitglieder,
-
 
 3.  die Anzahl der Frauen und Männer, die der Bund in den jeweiligen in
     Nummer 1 genannten Gremien bestimmt hat, und
 
-
 4.  die Veränderungen nach den Nummern 1 bis 3 im Vergleich zum Vorjahr.
 
-
-
-
 (2) Bis zum 31. März des Folgejahres haben die Institutionen des
-Bundes die Daten nach Absatz 1 dem Statistischen Bundesamt zu melden.
-Gleichzeitig haben sie diese Daten in übersichtlicher Form unter
-Beachtung des Datenschutzes auf ihrer Internetseite zu
+Bundes die Daten nach Absatz 1 dem Statistischen Bundesamt zu
+melden. Gleichzeitig haben sie diese Daten in übersichtlicher
+Form unter Beachtung des Datenschutzes auf ihrer Internetseite zu
 veröffentlichen.
 
 (3) Das Statistische Bundesamt erstellt im Auftrag des

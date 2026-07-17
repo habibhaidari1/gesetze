@@ -1,6 +1,5 @@
 ---
-Title: Anordnung über die Vertretung des Bundes im Geschäftsbereich des Bundesministers
-  für innerdeutsche Beziehungen
+Title: Anordnung über die Vertretung des Bundes im Geschäftsbereich des Bundesministers für innerdeutsche Beziehungen
 jurabk: BVertrBMBAnO
 layout: default
 origslug: bvertrbmbano
@@ -17,7 +16,6 @@ Fundstelle
 :   BAnz: 1970, Nr 76
 
 
-
 ## (XXXX)
 
 Soweit durch Rechtsvorschriften des Bundes nichts anderes bestimmt
@@ -30,11 +28,9 @@ innerdeutsche Beziehungen wie folgt vertreten:
         betreffen, ist der Bundesminister für innerdeutsche Beziehungen zur
         Vertretung berufen.
 
-
-    b)  In Verfahren, die das Gesamtdeutsche Institut - Bundesanstalt für
-        gesamtdeutsche Aufgaben - betreffen, ist der Präsident der
+    b)  In Verfahren, die das Gesamtdeutsche Institut - Bundesanstalt
+        für gesamtdeutsche Aufgaben - betreffen, ist der Präsident der
         Bundesanstalt für gesamtdeutsche Aufgaben zur Vertretung berufen.
-
 
     c)  Die Vertretung bleibt dem Bundesminister für innerdeutsche Beziehungen
         vorbehalten, wenn
@@ -42,20 +38,11 @@ innerdeutsche Beziehungen wie folgt vertreten:
         aa) der Bundesminister für innerdeutsche Beziehungen den zugrunde
             liegenden Vertrag selbst geschlossen hat,
 
-
         bb) eine Entscheidung des Bundesministers für innerdeutsche Beziehungen
             den Gegenstand des Rechtsstreits bildet,
 
-
         cc) der Präsident oder der Vizepräsident der Bundesanstalt für
             gesamtdeutsche Aufgaben persönlich beteiligt ist.
-
-
-
-
-
-
-
 
 2.  Vertretung in Verwaltungsverfahren
 
@@ -63,19 +50,17 @@ innerdeutsche Beziehungen wie folgt vertreten:
     entsprechend. § 174 des Bundesbeamtengesetzes und § 126 Abs. 3 des
     Beamtenrechtsrahmengesetzes bleiben jedoch unberührt.
 
-
 3.  Rechtsgeschäftliche Vertretung
 
     Bei Rechtsgeschäften wird der Bund - unbeschadet besonders
-    angeordneter Beschränkungen - durch den Präsidenten der Bundesanstalt
-    für gesamtdeutsche Aufgaben insoweit vertreten, als der Bundesanstalt
-    nach § 27 Abs. 1 der Wirtschaftsbestimmungen für die Reichsbehörden
-    die Befugnis zur Erteilung von Annahme- und Auszahlungsanordnungen
-    übertragen ist. Im übrigen vertritt der Bundesminister für
-    innerdeutsche Beziehungen den Bund. Dies gilt auch für
-    Rechtsgeschäfte, die den Erwerb oder die Veräußerung eines
+    angeordneter Beschränkungen - durch den Präsidenten der
+    Bundesanstalt für gesamtdeutsche Aufgaben insoweit vertreten, als
+    der Bundesanstalt nach § 27 Abs. 1 der Wirtschaftsbestimmungen
+    für die Reichsbehörden die Befugnis zur Erteilung von Annahme-
+    und Auszahlungsanordnungen übertragen ist. Im übrigen vertritt der
+    Bundesminister für innerdeutsche Beziehungen den Bund. Dies gilt
+    auch für Rechtsgeschäfte, die den Erwerb oder die Veräußerung eines
     Grundstückes zum Gegenstand haben.
-
 
 4.  Abweichende Regelungen
 
@@ -83,13 +68,10 @@ innerdeutsche Beziehungen wie folgt vertreten:
     die Vertretung abweichend von dieser Anordnung regeln oder sie selbst
     übernehmen.
 
-
 5.  Inkrafttreten
 
     Diese Anordnung tritt am Tage nach ihrer Veröffentlichung im
     Bundesanzeiger in Kraft.
-
-
 
 Der Bundesminister für innerdeutsche Beziehungen
 

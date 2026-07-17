@@ -16,16 +16,16 @@ Fundstelle
 :   BGBl I: 1974, 1449
 
 Zuletzt geändert durch
-:   Art. 7 G v. 19.3.2001 I 390
+:   Art. 2 V v. 15.7.2022 I 1162
 
 
 ## Eingangsformel
 
-Auf Grund des § 14a des Bundesausbildungsförderungsgesetzes vom 26.
-August 1971 (Bundesgesetzbl. I S. 1409) und des Gesetzes zur Änderung
-des Bundesausbildungsförderungsgesetzes und des
-Arbeitsförderungsgesetzes vom 14. November 1973 (Bundesgesetzbl. I S.
-1637), zuletzt geändert durch das Einführungsgesetz zum
+Auf Grund des § 14a des Bundesausbildungsförderungsgesetzes vom
+26\. August 1971 (Bundesgesetzbl. I S. 1409) und des Gesetzes
+zur Änderung des Bundesausbildungsförderungsgesetzes und des
+Arbeitsförderungsgesetzes vom 14. November 1973 (Bundesgesetzbl.
+I S. 1637), zuletzt geändert durch das Einführungsgesetz zum
 Strafgesetzbuch vom 2. März 1974 (Bundesgesetzbl. I S. 469), verordnet
 die Bundesregierung mit Zustimmung des Bundesrates:
 
@@ -38,8 +38,8 @@ die Bundesregierung mit Zustimmung des Bundesrates:
 organisatorisch angegliedert ist (Tagesheimschulen), wird
 Ausbildungsförderung für die neben dem Schulgeld zu entrichtenden
 Kosten bis zur Höhe von monatlich 77 Euro geleistet. Falls diese
-Kosten Aufwendungen für die Verpflegung der Schüler umfassen, werden
-von dem in Satz 1 genannten Betrag 1 Euro je Verpflegungstag
+Kosten Aufwendungen für die Verpflegung der Schüler umfassen,
+werden von dem in Satz 1 genannten Betrag 1 Euro je Verpflegungstag
 abgesetzt.
 
 
@@ -65,10 +65,10 @@ erhält. Einem Internat gleichgestellt ist ein selbständiges, keiner
 Ausbildungsstätte zugeordnetes Wohnheim, das einem gleichartigen Zweck
 dient.
 
-(3) Als Internat oder einem Internat gleichgestellt gelten nur
-Wohnheime, die nach landesrechtlichen Vorschriften der Schulaufsicht
-oder gemäß § 78 des Gesetzes für Jugendwohlfahrt der Aufsicht des
-Landesjugendamtes unterstehen.
+(3) Als Internat oder einem Internat gleichgestellt gelten
+nur Wohnheime, die nach landesrechtlichen Vorschriften der
+Schulaufsicht oder nach § 45 des Achten Buches Sozialgesetzbuch der
+Betriebserlaubnispflicht unterliegen.
 
 
 ## § 7 Leistung bei Internatsunterbringung
@@ -79,18 +79,18 @@ Bewilligungszeitraum zu entrichtenden Kosten ohne Schulgeld
 
 (2) Als Ausbildungsförderung wird der den maßgeblichen Bedarfssatz
 übersteigende Betrag geleistet, der sich aus der Teilung des
-Heimkostenbetrages nach Absatz 1 durch die Zahl der Kalendermonate des
-Bewilligungszeitraums ergibt. Dem so errechneten Monatsbedarf sind 41
-Euro als Bedarf für die Ferienzeit, die der Auszubildende nicht im
+Heimkostenbetrages nach Absatz 1 durch die Zahl der Kalendermonate
+des Bewilligungszeitraums ergibt. Dem so errechneten Monatsbedarf sind
+41 Euro als Bedarf für die Ferienzeit, die der Auszubildende nicht im
 Internat verbringt, hinzuzurechnen.
 
 (3) Heimkosten werden nur berücksichtigt, wenn eine erheblich
-preisgünstigere Unterbringung in einem zumutbaren Internat (§ 6 Abs. 2
-Satz 1) oder Wohnheim (§ 6 Abs. 2 Satz 2) mit im wesentlichen gleichen
-pädagogischen Leistungen ausgeschlossen ist. Das Amt für
-Ausbildungsförderung kann die Berücksichtigung der geltend gemachten
-Aufwendungen nur verweigern, wenn es die Möglichkeit einer erheblich
-preisgünstigeren Unterbringung bei im wesentlichen gleichen
+preisgünstigere Unterbringung in einem zumutbaren Internat (§ 6
+Abs. 2 Satz 1) oder Wohnheim (§ 6 Abs. 2 Satz 2) mit im wesentlichen
+gleichen pädagogischen Leistungen ausgeschlossen ist. Das Amt
+für Ausbildungsförderung kann die Berücksichtigung der geltend
+gemachten Aufwendungen nur verweigern, wenn es die Möglichkeit einer
+erheblich preisgünstigeren Unterbringung bei im wesentlichen gleichen
 pädagogischen Leistungen nachweist.
 
 

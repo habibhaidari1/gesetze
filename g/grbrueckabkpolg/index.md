@@ -1,7 +1,5 @@
 ---
-Title: Gesetz zu dem Abkommen vom 20. März 1995 zwischen der Bundesrepublik Deutschland
-  und der Republik Polen über die Erhaltung der Grenzbrücken im Zuge der deutschen
-  Bundesfernstraßen und der polnischen Landesstraßen an der deutsch-polnischen Grenze
+Title: Gesetz zu dem Abkommen vom 20. März 1995 zwischen der Bundesrepublik Deutschland und der Republik Polen über die Erhaltung der Grenzbrücken im Zuge der deutschen Bundesfernstraßen und der polnischen Landesstraßen an der deutsch-polnischen Grenze
 jurabk: GrBrückAbkPOLG
 layout: default
 origslug: grbr_ckabkpolg
@@ -18,7 +16,6 @@ Fundstelle
 :   BGBl II: 1996, 826
 
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
@@ -27,10 +24,10 @@ beschlossen:
 
 ## Art 1
 
-Dem in Warschau am 20. März 1995 unterzeichneten Abkommen zwischen der
-Bundesrepublik Deutschland und der Republik Polen über die Erhaltung
-der Grenzbrücken im Zuge der deutschen Bundesfernstraßen und der
-polnischen Landesstraßen an der deutsch-polnischen Grenze wird
+Dem in Warschau am 20. März 1995 unterzeichneten Abkommen zwischen
+der Bundesrepublik Deutschland und der Republik Polen über die
+Erhaltung der Grenzbrücken im Zuge der deutschen Bundesfernstraßen
+und der polnischen Landesstraßen an der deutsch-polnischen Grenze wird
 zugestimmt. Das Abkommen wird nachstehend veröffentlicht.
 
 

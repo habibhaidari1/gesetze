@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl I: 1986, 1726
 
 
-
 ## Eingangsformel
 
 Auf Grund der §§ 18e Satz 3 und 18a des Wohnungsbindungsgesetzes in

@@ -24,17 +24,10 @@ Ehrenzeichen in der im Bundesgesetzblatt Teil III, Gliederungsnummer
 Artikel 10 des Gesetzes vom 19. Februar 2006 (BGBl. I S. 334) geändert
 worden ist, erkenne ich
 
-*    *   das Deutsche Rettungsschwimmabzeichen
-        des Arbeiter-Samariter-Bundes – Silber
-
-
-*    *   und
-
-
-*    *   das Deutsche Rettungsschwimmabzeichen
-        des Arbeiter-Samariter-Bundes – Gold
-
-
+| das Deutsche Rettungsschwimmabzeichen des Arbeiter-Samariter-Bundes – Silber |
+| --- |
+| und |
+| das Deutsche Rettungsschwimmabzeichen des Arbeiter-Samariter-Bundes – Gold |
 
 als Ehrenzeichen an.
 

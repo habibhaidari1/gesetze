@@ -1,6 +1,5 @@
 ---
-Title: Verordnung zur Übertragung der Ermächtigung zum Erlaß von Rechtsverordnungen
-  nach dem Bundeswasserstraßengesetz über die Regelung des Betriebs von Anlagen
+Title: Verordnung zur Übertragung der Ermächtigung zum Erlaß von Rechtsverordnungen nach dem Bundeswasserstraßengesetz über die Regelung des Betriebs von Anlagen
 jurabk: WaStrGAnlErmV
 layout: default
 origslug: wastrganlermv
@@ -20,11 +19,10 @@ Geändert durch
 :   Art. 23 V v. 2.6.2016 I 1257
 
 
-
 ## Eingangsformel
 
-Auf Grund des § 46 des Bundeswasserstraßengesetzes vom 2. April 1968
-(Bundesgesetzbl. II S. 173), geändert durch Artikel 142 des
+Auf Grund des § 46 des Bundeswasserstraßengesetzes vom 2. April
+1968 (Bundesgesetzbl. II S. 173), geändert durch Artikel 142 des
 Einführungsgesetzes zum Gesetz über Ordnungswidrigkeiten vom 24. Mai
 1968 (Bundesgesetzbl. I S. 503), wird verordnet:
 

@@ -1,7 +1,5 @@
 ---
-Title: Ausführungsgesetz zu dem Übereinkommen vom 30. August 1961 zur Verminderung
-  der Staatenlosigkeit und zu dem Übereinkommen vom 13. September 1973 zur Verringerung
-  der Fälle von Staatenlosigkeit
+Title: Ausführungsgesetz zu dem Übereinkommen vom 30. August 1961 zur Verminderung der Staatenlosigkeit und zu dem Übereinkommen vom 13. September 1973 zur Verringerung der Fälle von Staatenlosigkeit
 jurabk: StaatenlMindÜbkAG
 layout: default
 origslug: staatenlmind_bkag
@@ -30,12 +28,9 @@ Staatenlosigkeit (BGBl. 1977 II S. 597) wird angewandt
     Artikel 1 Abs. 1 des Übereinkommens vom 28. September 1954 über die
     Rechtsstellung der Staatenlosen (BGBl. 1976 II S. 473) sind;
 
-
 2.  zur Verhinderung von Staatenlosigkeit oder Erhaltung der
     Staatsangehörigkeit auf Deutsche nach Artikel 116 Abs. 1 des
     Grundgesetzes.
-
-
 
 Die Verleihung der Staatsangehörigkeit zur Beseitigung von
 Staatenlosigkeit erfolgt durch Einbürgerung.
@@ -46,26 +41,22 @@ Staatenlosigkeit erfolgt durch Einbürgerung.
 Ein seit der Geburt Staatenloser ist auf seinen Antrag einzubürgern,
 wenn er
 
-1.  im Geltungsbereich dieses Gesetzes oder an Bord eines Schiffes, das
-    berechtigt ist, die Bundesflagge der Bundesrepublik Deutschland zu
-    führen, oder in einem Luftfahrzeug, das das
+1.  im Geltungsbereich dieses Gesetzes oder an Bord eines Schiffes,
+    das berechtigt ist, die Bundesflagge der Bundesrepublik
+    Deutschland zu führen, oder in einem Luftfahrzeug, das das
     Staatszugehörigkeitszeichen der Bundesrepublik Deutschland führt,
     geboren ist,
-
 
 2.  seit fünf Jahren rechtmäßig seinen dauernden Aufenthalt im
     Geltungsbereich dieses Gesetzes hat und
 
-
 3.  den Antrag vor der Vollendung des einundzwanzigsten Lebensjahres
     stellt,
 
-
-
 es sei denn, daß er rechtskräftig zu einer Freiheits- oder
-Jugendstrafe von fünf Jahren oder mehr verurteilt worden ist. Für das
-Verfahren bei der Einbürgerung einschließlich der Bestimmung der
-örtlichen Zuständigkeit gelten die Vorschriften des
+Jugendstrafe von fünf Jahren oder mehr verurteilt worden ist.
+Für das Verfahren bei der Einbürgerung einschließlich der
+Bestimmung der örtlichen Zuständigkeit gelten die Vorschriften des
 Staatsangehörigkeitsrechts.
 
 

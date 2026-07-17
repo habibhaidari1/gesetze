@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Umstellung von Schuldverhältnissen und dinglichen Rechten
-  im Saarland
+Title: Verordnung über die Umstellung von Schuldverhältnissen und dinglichen Rechten im Saarland
 jurabk: SchuldSaarUmstV
 layout: default
 origslug: schuldsaarumstv
@@ -17,7 +16,6 @@ Fundstelle
 :   BGBl I: 1959, 403
 
 
-
 ## Eingangsformel
 
 Auf Grund des § 17 Abs. 1 Nr. 3 des Gesetzes über die Eingliederung
@@ -28,16 +26,16 @@ Saarlandes:
 
 ## § 1
 
-(1) Forderungen und Verbindlichkeiten im Sinne dieser Verordnung sind
-auf französische Franken (Franken) lautende Forderungen und
-Verbindlichkeiten des privaten und öffentlichen Rechts aus
+(1) Forderungen und Verbindlichkeiten im Sinne dieser Verordnung
+sind auf französische Franken (Franken) lautende Forderungen
+und Verbindlichkeiten des privaten und öffentlichen Rechts aus
 Schuldverhältnissen, die vor dem Ende der Übergangszeit (Artikel 3 des
 Saarvertrages) begründet worden sind.
 
 (2) Auf Forderungen und Verbindlichkeiten, die am Ende der
 Übergangszeit bereits erloschen waren, und auf Guthaben bei
-Kreditinstituten und beim Postscheckamt Saarbrücken ist die Verordnung
-nicht anzuwenden. Das gleiche gilt für Forderungen und
+Kreditinstituten und beim Postscheckamt Saarbrücken ist die
+Verordnung nicht anzuwenden. Das gleiche gilt für Forderungen und
 Verbindlichkeiten, deren Umstellung auf Deutsche Mark am Ende der
 Übergangszeit durch andere gesetzliche Vorschriften bestimmt worden
 ist.
@@ -45,8 +43,8 @@ ist.
 
 ## § 2
 
-(1) Forderungen und Verbindlichkeiten zwischen Personen im
-Geltungsbereich dieser Verordnung sowie Forderungen und
+(1) Forderungen und Verbindlichkeiten zwischen Personen
+im Geltungsbereich dieser Verordnung sowie Forderungen und
 Verbindlichkeiten aus Schuldverschreibungen, die von einer Person im
 Geltungsbereich dieser Verordnung ausgegeben worden sind, werden in
 der Weise auf Deutsche Mark umgestellt, daß an Stelle von 100 Franken
@@ -56,26 +54,21 @@ der Weise auf Deutsche Mark umgestellt, daß an Stelle von 100 Franken
 
 1.  natürliche Personen mit gewöhnlichem Aufenthalt im Geltungsbereich
     dieser Verordnung, jedoch nicht hinsichtlich ihrer im Geschäftsbereich
-    einer Hauptniederlassung oder einer Zweigniederlassung außerhalb des
-    Geltungsbereichs dieser Verordnung entstandenen Forderungen und
+    einer Hauptniederlassung oder einer Zweigniederlassung außerhalb
+    des Geltungsbereichs dieser Verordnung entstandenen Forderungen und
     Verbindlichkeiten;
 
-
-2.  natürliche Personen mit gewöhnlichem Aufenthalt außerhalb des
-    Geltungsbereichs dieser Verordnung hinsichtlich ihrer im
-    Geschäftsbereich einer Hauptniederlassung oder einer
+2.  natürliche Personen mit gewöhnlichem Aufenthalt außerhalb
+    des Geltungsbereichs dieser Verordnung hinsichtlich ihrer
+    im Geschäftsbereich einer Hauptniederlassung oder einer
     Zweigniederlassung im Geltungsbereich dieser Verordnung entstandenen
     Forderungen und Verbindlichkeiten;
 
-
 3.  juristische Personen, Personenhandelsgesellschaften und
-    Personenvereinigungen hinsichtlich ihrer im Geschäftsbereich der
-    Hauptniederlassung, einer Zweigniederlassung oder einer
+    Personenvereinigungen hinsichtlich ihrer im Geschäftsbereich
+    der Hauptniederlassung, einer Zweigniederlassung oder einer
     Verwaltungsstelle im Geltungsbereich dieser Verordnung entstandenen
     Forderungen und Verbindlichkeiten.
-
-
-
 
 
 ## § 3
@@ -85,13 +78,9 @@ In Franken bleiben bestehen
 1.  Forderungen und Verbindlichkeiten, die unter Artikel 55 Abs. 5 des
     Saarvertrages fallen;
 
-
 2.  Forderungen und Verbindlichkeiten, die ohne Rücksicht darauf, daß die
     französische Währung im Saarland gegolten hat, in Franken begründet
     worden sind.
-
-
-
 
 
 ## § 4
@@ -103,14 +92,14 @@ bestellte Hypotheken, die auf Franken umgestellt, im Grundbuch aber
 noch nicht in Franken eingetragen worden sind.
 
 (2) Soweit die durch eine Hypothek gesicherte Forderung in
-Frankreich              bestehenbleibt, wird die Hypothek nicht nach
-Absatz 1 umgestellt. Vereinigt sich eine nach Satz 1 von der
-Umstellung ausgenommene Hypothek mit dem Eigentum, so wird sie im
-Zeitpunkt der Vereinigung nach Absatz 1 auf Deutsche Mark umgestellt.
+*Frankreich* bestehenbleibt, wird die Hypothek nicht nach Absatz
+1 umgestellt. Vereinigt sich eine nach Satz 1 von der Umstellung
+ausgenommene Hypothek mit dem Eigentum, so wird sie im Zeitpunkt der
+Vereinigung nach Absatz 1 auf Deutsche Mark umgestellt.
 
-(3) Zur Eintragung des nach Absatz 1 in Deutscher Mark sich ergebenden
-Nennbetrages einer Hypothek in das Grundbuch bedarf es der Bewilligung
-des Gläubigers und des Eigentümers. Der Vorlegung des
+(3) Zur Eintragung des nach Absatz 1 in Deutscher Mark sich
+ergebenden Nennbetrages einer Hypothek in das Grundbuch bedarf es
+der Bewilligung des Gläubigers und des Eigentümers. Der Vorlegung des
 Hypothekenbriefes bedarf es zur Berichtigung des Grundbuches nicht.
 
 (4) Ist eine vor dem 20. November 1947 bestellte, auf Franken
@@ -122,8 +111,8 @@ Umstellung der Hypothek auf Franken einzutragen ist.
 Ergänzung des Grundbuchauszuges auf dem Hypothekenbrief werden nicht
 erhoben.
 
-(6) Die Absätze 1 bis 5 gelten für Grundschulden, Rentenschulden und
-Reallasten sowie für Schiffshypotheken und Pfandrechte an
+(6) Die Absätze 1 bis 5 gelten für Grundschulden, Rentenschulden
+und Reallasten sowie für Schiffshypotheken und Pfandrechte an
 Bahneinheiten sinngemäß.
 
 
@@ -137,8 +126,8 @@ Verordnung Vereinbarungen getroffen, so behält es dabei sein Bewenden.
 (2) Durch eine Vereinbarung über die Umstellung eines dinglichen
 Rechts kann die Haftung des Grundstücks ohne Zustimmung der im Range
 gleich- oder nachstehenden Berechtigten nicht erweitert werden. Hat
-der Eigentümer des belasteten Grundstücks einer Vereinbarung über die
-Umstellung des dinglichen Rechts nicht zugestimmt, so ist sie
+der Eigentümer des belasteten Grundstücks einer Vereinbarung über
+die Umstellung des dinglichen Rechts nicht zugestimmt, so ist sie
 unwirksam. Das Zustimmungserfordernis bestimmt sich nach den beim
 Inkrafttreten dieser Verordnung bestehenden Rechtsverhältnissen.
 
@@ -155,8 +144,8 @@ Zivilprozeßordnung.
 
 ## § 7
 
-Für die Anwendung dieser Verordnung gelten auf Reichsmark lautende,
-noch nicht auf Franken oder Deutsche Mark umgestellte
+Für die Anwendung dieser Verordnung gelten auf Reichsmark
+lautende, noch nicht auf Franken oder Deutsche Mark umgestellte
 Verbindlichkeiten von Personen im Saarland (Artikel 55 Abs. 8
 Buchstabe a des Saarvertrages) als auf Franken umgestellt; an Stelle
 von einer Reichsmark treten zwanzig Franken.

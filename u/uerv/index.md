@@ -16,43 +16,25 @@ Fundstelle
 :   BGBl I: 2018, 169
 
 Zuletzt geändert durch
-:   Art. 2 V v. 30.6.2021 I 2334
-
-Änderung durch
-:   Art. 3 V v. 12.11.2021 I 4932 (Nr. 79) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-[^f801540_01_BJNR016900018]:     Diese Verordnung dient der Umsetzung der Richtlinie (EU) 2015/652 des
-    Rates vom 20. April 2015 zur Festlegung von Berechnungsverfahren und
-    Berichterstattungspflichten gemäß der Richtlinie 98/70/EG des
-    Europäischen Parlaments und des Rates über die Qualität von Otto- und
-    Dieselkraftstoffen (ABl. L 107 vom 25.4.2015, S. 26).
-[^f801540_02_BJNR016900018]:     Notifiziert gemäß der Richtlinie (EU) 2015/1535 des Europäischen
-    Parlaments und des Rates vom 9. September 2015 über ein
-    Informationsverfahren auf dem Gebiet der technischen Vorschriften und
-    der Vorschriften für die Dienste der Informationsgesellschaft (ABl. L
-    241 vom 17.9.2015, S. 1).
+:   Art. 2 V v. 1.4.2026 I Nr. 101
 
 
 ## Eingangsformel
 
 Es verordnen auf Grund
 
-–   des § 37d Absatz 1 und 2 Satz 1 Nummer 13 und Satz 2 und Absatz 3 des
-    Bundes-Immissionsschutzgesetzes, von denen Absatz 1 zuletzt durch
+– des § 37d Absatz 1 und 2 Satz 1 Nummer 13 und Satz 2 und Absatz 3
+    des Bundes-Immissionsschutzgesetzes, von denen Absatz 1 zuletzt durch
     Artikel 3 Nummer 2 des Gesetzes vom 26. Juli 2016 (BGBl. I S. 1839),
     Absatz 2 Satz 1 Nummer 13 durch Artikel 3 Nummer 2 des Gesetzes vom
     18\. Juli 2017 (BGBl. I S. 2771) und Absatz 3 durch Artikel 1 Nummer 7
     des Gesetzes vom 20. November 2014 (BGBl. I S. 1740) geändert worden
     sind, die Bundesregierung nach Anhörung der beteiligten Kreise sowie
 
-
-–   des § 37e Absatz 3 in Verbindung mit Absatz 1 Nummer 2 des Bundes-
+– des § 37e Absatz 3 in Verbindung mit Absatz 1 Nummer 2 des Bundes-
     Immissionsschutzgesetzes, der durch Artikel 3 Nummer 3 des Gesetzes
     vom 26. Juli 2016 (BGBl. I S. 1839) neu gefasst worden ist, das
     Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit:
-
-
-
 
 
 ## Teil 1 - Allgemeine Bestimmungen
@@ -69,14 +51,13 @@ in Verbindung mit § 37a Absatz 4 des Bundes-Immissionsschutzgesetzes.
 
 1.  Emissionsminderungen durch Projekttätigkeiten, die zu einer
     unmittelbaren oder mittelbaren Verringerung der Emissionen einer
-    Anlage führen, die dem Anwendungsbereich der Richtlinie 2003/87/EG des
-    Europäischen Parlaments und des Rates vom 13. Oktober 2003 über ein
-    System für den Handel mit Treibhausgasemissionszertifikaten in der
-    Gemeinschaft und zur Änderung der Richtlinie 96/61/EG des Rates (ABl.
-    L 275 vom 25.10.2003, S. 32), die zuletzt durch Artikel 2 des
+    Anlage führen, die dem Anwendungsbereich der Richtlinie 2003/87/EG
+    des Europäischen Parlaments und des Rates vom 13. Oktober 2003 über
+    ein System für den Handel mit Treibhausgasemissionszertifikaten in
+    der Gemeinschaft und zur Änderung der Richtlinie 96/61/EG des Rates
+    (ABl. L 275 vom 25.10.2003, S. 32), die zuletzt durch Artikel 2 des
     Beschlusses (EU) 2015/1814 (ABl. L 264 vom 9.10.2015, S. 1) geändert
     worden ist, unterliegt, oder
-
 
 2.  den Anteil an Emissionsminderungen durch Projekttätigkeiten im Inland,
     der durch öffentliche Fördermittel finanziert wird; dies gilt nicht,
@@ -84,19 +65,13 @@ in Verbindung mit § 37a Absatz 4 des Bundes-Immissionsschutzgesetzes.
     dienen.
 
 
-
-
-
 ### § 2 Begriffsbestimmungen
 
 (1) Treibhausgase im Sinne dieser Verordnung sind Kohlenstoffdioxid
-(CO
-2             ), Stickoxid (N
-2             O) und Methan (CH
-4             ).
+(CO2), Stickoxid (N2O) und Methan (CH4).
 
-(2) Upstream-Emissionen sind sämtliche Treibhausgasemissionen, die
-entstehen, bevor der Raffinerierohstoff in die Raffinerie oder
+(2) Upstream-Emissionen sind sämtliche Treibhausgasemissionen,
+die entstehen, bevor der Raffinerierohstoff in die Raffinerie oder
 Verarbeitungsanlage gelangt, in der die in Anhang I der Richtlinie
 (EU) 2015/652 des Rates vom 20. April 2015 zur Festlegung von
 Berechnungsverfahren und Berichterstattungspflichten gemäß der
@@ -120,36 +95,25 @@ Kraftstoffen vom 8. Dezember 2017 (BGBl. I S. 3892).
 (6) Projekttätigkeit ist die Entwicklung und Durchführung eines
 Projektes zur Minderung von Upstream-Emissionen.
 
-(7) Kyoto-Projekttätigkeit ist eine Projekttätigkeit nach § 2 Nummer
-12 des Projekt-Mechanismen-Gesetzes vom 22. September 2005 (BGBl. I S.
-2826), das zuletzt durch Artikel 67 des Gesetzes vom 29. März 2017
-(BGBl. I S. 626) geändert worden ist.
+(7) Projektträger ist eine natürliche oder juristische Person, die die
+Entscheidungsgewalt über eine Projekttätigkeit innehat; Projektträger
+können auch mehrere Personen gemeinschaftlich sein.
 
-(8) Projektträger ist eine natürliche oder juristische Person, die die
-Entscheidungsgewalt über eine Projekttätigkeit oder eine Kyoto-
-Projekttätigkeit innehat; Projektträger können auch mehrere Personen
-gemeinschaftlich sein.
+(8) Gastgeberstaat ist der Staat, auf dessen Staatsgebiet oder
+in dessen ausschließlicher Wirtschaftszone die Projekttätigkeit
+durchgeführt werden soll. Ein Gastgeberstaat kann nur ein Staat
+sein, der ungekündigtes Mitglied des Übereinkommens von Paris vom 12.
+Dezember 2015 (BGBl. 2016 II S. 1082, 1083) ist.
 
-(9) Projektgrenze ist die Projektgrenze nach Ziffer 52 des Abschnitts
-G der Anlage „Modalitäten und Verfahren für einen Mechanismus für
-umweltverträgliche Entwicklung“ des in dem Anhang zum Projekt-
-Mechanismen-Gesetz abgedruckten Beschlusses 17/CP.7, Modalitäten und
-Verfahren für einen Mechanismus für umweltverträgliche Entwicklung im
-Sinne des Artikels 12 des Protokolls von Kyoto.
-
-(10) Gastgeberstaat ist der Staat, auf dessen Staatsgebiet oder in
-dessen ausschließlicher Wirtschaftszone die Projekttätigkeit
-durchgeführt werden soll.
-
-(11) Verpflichtete sind die im Sinne des § 37a Absatz 2 des Bundes-
+(9) Verpflichtete sind die im Sinne des § 37a Absatz 2 des Bundes-
 Immissionsschutzgesetzes Verpflichteten.
 
-(12) Verpflichtungsjahr ist der in § 37a Absatz 1 Satz 1 des Bundes-
+(10) Verpflichtungsjahr ist der in § 37a Absatz 1 Satz 1 des Bundes-
 Immissionsschutzgesetzes genannte Zeitraum.
 
-(13) Biokraftstoffquotenstelle ist die zuständige Stelle nach § 8 der
-Verordnung zur Durchführung der Regelungen der Biokraftstoffquote vom
-29\. Januar 2007 (BGBl. I S. 60), die zuletzt durch Artikel 1 der
+(11) Biokraftstoffquotenstelle ist die zuständige Stelle nach § 8
+der Verordnung zur Durchführung der Regelungen der Biokraftstoffquote
+vom 29. Januar 2007 (BGBl. I S. 60), die zuletzt durch Artikel 1 der
 Verordnung vom 4. April 2016 (BGBl. I S. 590, 1318) geändert worden
 ist, in der jeweils geltenden Fassung.
 
@@ -159,13 +123,25 @@ ist, in der jeweils geltenden Fassung.
 
 ### § 3 Anrechenbarkeit von Upstream-Emissionsminderungen
 
-(1) Ab dem Verpflichtungsjahr 2020 können Upstream-
-Emissionsminderungen, die in einem Verpflichtungsjahr erreicht worden
-sind, zur Erfüllung der gesetzlichen Verpflichtung zur Minderung der
-Treibhausgasemissionen angerechnet werden.
+(1) Ab dem Verpflichtungsjahr 2020 bis zum Ablauf des
+Verpflichtungsjahres 2024 können Upstream-Emissionsminderungen, die
+in einem Verpflichtungsjahr erreicht worden sind, zur Erfüllung der
+gesetzlichen Verpflichtung zur Minderung der Treibhausgasemissionen
+angerechnet werden. Abweichend von Satz 1 können Upstream-
+Emissionsminderungen im Verpflichtungsjahr 2025 angerechnet werden aus
+Projekttätigkeiten,
 
-(2) Die Anrechenbarkeit ist begrenzt auf 1,2 Prozent bezogen auf den
-Referenzwert nach § 37a Absatz 4 Satz 3 des Bundes-
+1.  die bis zum Ablauf des 1. Juli 2024 eine Zustimmung nach § 10 erhalten
+    haben, oder
+
+2.  für die ein vollständiger Antrag auf Zustimmung nach § 7 bis zum
+    Ablauf des 1. Juli 2024 gestellt wurde.
+
+Upstream-Emissionsminderungen können nur in dem Verpflichtungsjahr
+angerechnet werden, in dem sie erreicht worden sind.
+
+(2) Die Anrechenbarkeit ist begrenzt auf 1,2 Prozent bezogen
+auf den Referenzwert nach § 37a Absatz 4 Satz 3 des Bundes-
 Immissionsschutzgesetzes in Verbindung mit der Verordnung zur
 Festlegung weiterer Bestimmungen zur Treibhausgasminderung von
 Kraftstoffen sowie der Verordnung zur Anrechnung von strombasierten
@@ -179,64 +155,67 @@ Zur Anrechnung von Upstream-Emissionsminderungen zur Erfüllung der
 gesetzlichen Verpflichtung zur Minderung der Treibhausgasemissionen
 muss der Verpflichtete
 
-1.  der Biokraftstoffquotenstelle im Rahmen der Mitteilung nach § 37c des
-    Bundes-Immissionsschutzgesetzes UER-Nachweise für die im
+1.  der Biokraftstoffquotenstelle im Rahmen der Mitteilung nach §
+    37c des Bundes-Immissionsschutzgesetzes UER-Nachweise für die im
     Verpflichtungsjahr erreichten Upstream-Emissionsminderungen vorlegen
     und
-
 
 2.  diese UER-Nachweise bis zum 15. April des auf das Verpflichtungsjahr
     folgenden Kalenderjahres auf das Entwertungskonto des UER-Registers
     übertragen.
 
 
-
-
-
 ### § 5 Anrechnungszeitraum
 
 (1) Anrechnungszeitraum ist der Zeitraum, für den für in einer
-Projekttätigkeit erreichte Upstream-Emissionsminderungen, die zur
-Erfüllung der gesetzlichen Verpflichtung zur Minderung von
+Projekttätigkeit erreichte Upstream-Emissionsminderungen, die
+zur Erfüllung der gesetzlichen Verpflichtung zur Minderung von
 Treibhausgasemissionen angerechnet werden, UER-Nachweise ausgestellt
 werden sollen.
 
-(2) Der Anrechnungszeitraum beträgt ein Jahr. Er ist nicht auf das
-Kalenderjahr beschränkt.
+(2) Der Anrechnungszeitraum beträgt ein Jahr. Er ist nicht auf
+das Kalenderjahr beschränkt. Abweichend von Satz 1 endet der
+Anrechnungszeitraum spätestens am 1. September 2025.
 
 
 ### § 6 Ermittlung der Upstream-Emissionsminderung
 
-(1) Upstream-Emissionsminderungen werden ermittelt nach der Anlage
-„Modalitäten und Verfahren für einen Mechanismus für
+(1) Upstream-Emissionsminderungen werden ermittelt nach der
+Anlage „Modalitäten und Verfahren für einen Mechanismus für
 umweltverträgliche Entwicklung“ des im Anhang zum Projekt-Mechanismen-
 Gesetzes vom 22. September 2005 abgedruckten Beschlusses „17/CP.7
 Modalitäten und Verfahren für einen Mechanismus für umweltverträgliche
-Entwicklung im Sinne des Artikels 12 des Protokolls von Kyoto“. Die
-Ermittlung erfolgt gemäß
+Entwicklung im Sinne des Artikels 12 des Protokolls von Kyoto“ und der
+Anlage zu dieser Verordnung. Die Ermittlung erfolgt gemäß
 
 1.  den Methoden, die der Exekutivrat nach Abschnitt C Nummer 5 Buchstabe
-    d der in Satz 1 benannten Anlage genehmigt hat,
-
+    d der in Satz 1 benannten Anlage im Anhang zum Projekt-Mechanismen-
+    Gesetz genehmigt hat,
 
 2.  den Nummern 44, 45, 47, 48 und 50 bis 52 des Abschnitts G der in Satz
-    1 benannten Anlage und
+    1 benannten Anlage im Anhang zum Projekt-Mechanismen-Gesetz,
 
+3.  den Maßgaben, die in der Anlage zu dieser Verordnung aufgeführt
+    sind und die die Voraussetzungen für die Zusätzlichkeit von
+    Projekttätigkeiten unter dem Übereinkommen von Paris sowie für den
+    Ausschluss der Doppelzählung von Minderungserfolgen betreffen, und
 
-3.  den Maßgaben, die nach Anhang C „Grundsätze für die Festlegung von
+4.  den Maßgaben, die nach Anhang C „Grundsätze für die Festlegung von
     Leitlinien für Methoden bezüglich der Referenzszenarien und der
-    Überwachung“ Buchstabe a Ziffer v der in Satz 1 benannten Anlage
-    verabschiedet worden sind.
+    Überwachung“ Buchstabe a Ziffer v der in Satz 1 benannten Anlage im
+    Anhang zum Projekt-Mechanismen-Gesetz verabschiedet worden sind.
 
+(2) Das Umweltbundesamt gibt bis zum Ablauf des 1. Oktobers eines
+jeden Jahres für das darauffolgende Verpflichtungsjahr Folgendes
+bekannt:
 
+1.  nähere Bestimmung zu den Maßgaben nach Absatz 1 Satz 2 Nummer 3,
 
-Die Werte für die Treibhausgaspotentiale (GWP 100y), die bei der
-Ermittlung der Höhe der Upstream-Emissionsminderungen zugrunde gelegt
-werden, werden durch das Umweltbundesamt jährlich festgelegt und bis
-zum Ablauf des 1. Oktober für das darauffolgende Verpflichtungsjahr im
-Bundesanzeiger bekannt gegeben.
+2.  die Werte für die Treibhausgaspotentiale (GWP 100y), die bei der
+    Ermittlung der Höhe der Upstream-Emissionsminderungen zugrunde gelegt
+    werden.
 
-(2) Soweit nicht bereits von Absatz 1 erfasst gilt DIN EN ISO 14064-2,
+(3) Soweit nicht bereits von Absatz 1 erfasst gilt DIN EN ISO 14064-2,
 Ausgabe Mai 2020.
 
 
@@ -257,32 +236,25 @@ Form gestellt.
 
 1.  den Namen und die Anschrift des Projektträgers,
 
-
 2.  die Erklärung, dass
 
     a)  die Projekttätigkeit weder unmittelbar noch mittelbar zu einer
         Minderung von Treibhausgasemissionen aus einer Anlage führt, die der
         Richtlinie 2003/87/EG unterliegt, und
 
-
     b)  für Upstream-Emissionsminderungen durch die Projekttätigkeit in keinem
         anderen Mitgliedstaat ein Antrag mit dem Ziel der Anrechnung zur
         Erfüllung von Verpflichtungen gestellt worden ist, die der Umsetzung
-        von Artikel 7a der Richtlinie 98/70/EG des Europäischen Parlaments und
-        des Rates vom 13. Oktober 1998 über die Qualität von Otto- und
+        von Artikel 7a der Richtlinie 98/70/EG des Europäischen Parlaments
+        und des Rates vom 13. Oktober 1998 über die Qualität von Otto- und
         Dieselkraftstoffen und zur Änderung der Richtlinie 93/12/EWG des Rates
         (ABl. L 350 vom 28.12.1998, S. 58), die zuletzt durch die Richtlinie
         (EU) 2015/1513 (ABl. L 239 vom 15.9.2015, S. 1) geändert worden ist,
         dienen,
 
-
     c)  die Projekttätigkeit keine schwerwiegenden nachteiligen Auswirkungen
         auf die in der Präambel des Übereinkommens vom 12. Dezember 2015
         (BGBl. 2016 II S. 1082, 1083) genannten Belange im Gastgeberstaat hat.
-
-
-
-
 
 3.  eine Erklärung, in der sich der Projektträger verpflichtet, dass mit
     der Projekttätigkeit nicht zugleich Strom erzeugt wird, für den
@@ -291,16 +263,12 @@ Form gestellt.
         Juli 2014 (BGBl. I S. 1066), das zuletzt durch Artikel 1 des Gesetzes
         vom 17. Juli 2017 (BGBl. I S. 2532) geändert worden ist, oder
 
-
     b)  Zuschlagszahlungen nach den §§ 6 bis 13 sowie 35 des Kraft-Wärme-
         Kopplungsgesetzes vom 21. Dezember 2015 (BGBl. I S. 2498), das zuletzt
         durch Artikel 3 des Gesetzes vom 17. Juli 2017 (BGBl. I S. 2532)
         geändert worden ist,
 
-
-
     in Anspruch genommen werden sollen,
-
 
 4.  eine Erklärung, in der sich der Projektträger verpflichtet,
 
@@ -309,128 +277,113 @@ Form gestellt.
 
         aa) auf Verlangen Räume zu bezeichnen und zu öffnen,
 
-
         bb) Geschäftsunterlagen vorzulegen,
-
 
         cc) Abschriften, Auszüge, Ausdrucke oder Kopien der Geschäftsunterlagen
             auf eigene Kosten anzufertigen und
 
-
         dd) die erforderlichen Auskünfte zu erteilen,
 
-
-
-
-
-    b)  für Upstream-Emissionsminderungen, die durch die Projekttätigkeit vor,
-        während oder nach Ablauf des Anrechnungszeitraums erreicht worden
+    b)  für Upstream-Emissionsminderungen, die durch die Projekttätigkeit
+        vor, während oder nach Ablauf des Anrechnungszeitraums erreicht worden
         sind, unbeschadet des § 29 Absatz 2 in keinem anderen Mitgliedstaat
         einen Antrag auf Anrechnung zur Erfüllung von Verpflichtungen zu
         stellen, die der Umsetzung von Artikel 7a der Richtlinie 98/70/EG
         dienen, und
 
-
     c)  dem Umweltbundesamt vor Beginn des Anrechnungszeitraums die von ihm
         beauftragte Verifizierungsstelle zu benennen,
 
-
-
-
-
 5.  die Projektdokumentation,
-
 
 6.  den Namen und die Anschrift der vom Projektträger beauftragten
     Validierungsstelle und
 
-
 7.  den Validierungsbericht.
-
-
 
 Die Angaben und Unterlagen der Nummern 5, 6 und 7 können in Textform
 vorgelegt werden.
 
-(3) Ist der Antrag unvollständig, so teilt das Umweltbundesamt dem
-Projektträger innerhalb von vier Wochen nach Eingang des Antrags mit,
-welche Unterlagen und Angaben fehlen.
+(3) Wird ein solcher Antrag von mehreren natürlichen oder
+juristischen Personen gestellt, haben diese der zuständigen
+Behörde eine natürliche Person als gemeinsamen Bevollmächtigten mit
+Zustelladresse im Inland zuzüglich E-Mail-Adresse und Telefonnummer
+zu benennen. Hat der Projektträger seinen Firmensitz im Ausland
+und keine Zweigniederlassung in der Bundesrepublik Deutschland,
+hat er eine im Inland ansässige Person als Empfangsberechtigten
+mit Zustelladresse zuzüglich E-Mail-Adresse und Telefonnummer für
+Zustellungen zu benennen. Diese empfangsberechtigte Person tritt auch
+ein als Schuldner für festgesetzte und vom Projektträger geschuldete
+Gebühren nach dieser Verordnung beziehungsweise nach § 1 Absatz 1
+Nummer 7 in Verbindung mit Abschnitt 7 der Anlage zu der Besonderen
+Gebührenverordnung BMUKN vom 30. Juni 2021 (BGBl. I S. 2334), die
+zuletzt durch Artikel 1 der Verordnung vom 1. April 2026 (BGBl. 2026 I
+Nr. 101) geändert worden ist, in der jeweils geltenden Fassung.
+
+(4) Ist der Antrag unvollständig, so teilt das Umweltbundesamt dem
+Projektträger mit, welche Unterlagen und Angaben fehlen. Anträge,
+die bis zum 1. Juli 2024 nicht vollständig beim Umweltbundesamt
+eingegangen sind, werden abgelehnt.
 
 
 #### § 8 Projektdokumentation
 
 Die Projektdokumentation enthält folgende Angaben und Unterlagen:
 
-1.  das angewendete Berechnungsverfahren nach § 6,
-
+1.  das angewendete Berechnungsverfahren nach § 6 unter gesonderter
+    Darstellung der Maßgaben nach der Anlage zu dieser Verordnung sowie
+    deren Änderungen nach § 6 Absatz 2 Nummer 1,
 
 2.  eine Beschreibung
 
     a)  der Projekttätigkeit,
 
-
     b)  des Projektziels,
-
 
     c)  der Projektgrenze, einschließlich einer Begründung für die Wahl der
         Projektgrenze,
 
-
     d)  der Art und Weise, wie die durch die Projekttätigkeit erreichten
         Upstream-Emissionsminderungen nach § 6 ermittelt werden,
 
-
-    e)  dessen, was getan wurde, um die Referenzfallemissionen konservativ zu
-        bestimmen,
-
+    e)  dessen, was getan wurde, um die Referenzfallemissionen konservativ
+        zu bestimmen,
 
     f)  sonstiger Umweltauswirkungen der Projekttätigkeit,
-
-
-
-
 
 3.  das Datum, an dem die ersten Upstream-Emissionsminderungen durch die
     Projekttätigkeit erreicht werden sollen,
 
-
 4.  die auf Basis des Berechnungsverfahrens ermittelte jährliche Upstream-
     Emissionsminderung in Kilogramm Kohlenstoffdioxid-Äquivalent,
-
 
 5.  den Projektort, der der Emissionsquelle am nächsten gelegen ist, unter
     Angabe der Koordinaten in Längen- und Breitengraden bis zur vierten
     Dezimalstelle,
-
 
 6.  die jährlichen Referenzfallemissionen und die voraussichtlichen
     jährlichen Emissionen nach der Umsetzung der Projekttätigkeit, jeweils
     bezogen auf den Brennwert des produzierten Rohstoffs in Kilogramm
     Kohlenstoffdioxid-Äquivalent pro Gigajoule,
 
-
 7.  alle relevanten Quellen, Senken und Reservoire für
     Treibhausgasemissionen, die in Zusammenhang mit dieser
     Projekttätigkeit stehen,
 
-
-8.  Unterlagen der Umweltbehörde des Gastgeberstaates über die Beurteilung
-    der Umweltauswirkungen der Projekttätigkeit einschließlich
-    grenzüberschreitender Auswirkungen, soweit solche Unterlagen nach dem
-    im Gastgeberstaat geltenden Recht angefertigt wurden und dem
+8.  Unterlagen der Umweltbehörde des Gastgeberstaates über die
+    Beurteilung der Umweltauswirkungen der Projekttätigkeit einschließlich
+    grenzüberschreitender Auswirkungen, soweit solche Unterlagen nach
+    dem im Gastgeberstaat geltenden Recht angefertigt wurden und dem
     Projektträger zugänglich sind,
-
 
 9.  die Ergebnisse einer Umweltverträglichkeitsprüfung, falls eine solche
     Prüfung im Gastgeberstaat durchgeführt worden ist, und sämtliche
     Verweise auf die Belegunterlagen,
 
-
 10. die Angabe des Anteils an Emissionsminderungen durch
     Projekttätigkeiten im Inland, die durch öffentliche Fördermittel
     finanziert wurden, und des Umfangs, in dem die öffentlichen
     Fördermittel der Absicherung von Investitionen dienten, und
-
 
 11. wenn eine Beteiligung der Öffentlichkeit nach dem Recht des
     Gastgeberstaates verpflichtend vorgesehen oder vom Projektträger nach
@@ -438,21 +391,12 @@ Die Projektdokumentation enthält folgende Angaben und Unterlagen:
 
     a)  eine Beschreibung des Beteiligungsverfahrens,
 
-
     b)  eine Zusammenfassung der eingegangenen Stellungnahmen,
-
 
     c)  ein Bericht darüber, wie die eingegangenen Stellungnahmen
         berücksichtigt worden sind, und
 
-
-
-
-
 12. den Überwachungsplan.
-
-
-
 
 
 #### § 9 Überwachungsplan
@@ -462,42 +406,32 @@ Der Überwachungsplan enthält folgende Angaben und Unterlagen:
 1.  alle gemäß dem angewendeten Berechnungsverfahren zu überwachenden
     Parameter und erforderlichen Informationen,
 
-
 2.  Vorgaben zur Erfassung und Archivierung aller Daten, die zur
     Abschätzung oder Messung sämtlicher Treibhausgasemissionen benötigt
     werden, die während des Überwachungszeitraums innerhalb der
     Projektgrenze entstehen,
 
-
-3.  Vorgaben zur Erfassung und Archivierung aller Daten, die zur
-    Bestimmung der Referenzfallemissionen während des
+3.  Vorgaben zur Erfassung und Archivierung aller Daten, die
+    zur Bestimmung der Referenzfallemissionen während des
     Überwachungszeitraums innerhalb der Projektgrenze benötigt werden,
-
 
 4.  die Feststellung möglicher Quellen von erhöhten Treibhausgasemissionen
     außerhalb der Projektgrenze, die nach vernünftigem Ermessen der
     Projekttätigkeit zuzurechnen sind, sowie Vorgaben zur Erfassung und
     Archivierung von Daten über diese Treibhausgasemissionen,
 
-
 5.  die betrieblichen Strukturen, die zur Umsetzung des Überwachungsplans
     einzuführen sind,
-
 
 6.  Verfahren zur Qualitätssicherung und Qualitätskontrolle der
     Überwachung und
 
-
 7.  die Dokumentation aller Berechnungsschritte.
-
 
 8.  eine Erklärung, dass die Projekttätigkeit keine schwerwiegenden
     nachteiligen Auswirkungen auf die in der Präambel des Übereinkommens
     vom 12. Dezember 2015 (BGBl. 2016 II S. 1082, 1083) genannten Belange
     während des Überwachungszeitraums im Gastgeberstaat hat.
-
-
-
 
 
 #### § 10 Erteilung der Zustimmung
@@ -506,43 +440,31 @@ Der Überwachungsplan enthält folgende Angaben und Unterlagen:
 für Upstream-Emissionsminderungen vorbehaltlich ihrer Verifizierung
 UER-Nachweise ausgestellt werden können.
 
-(2) Das Umweltbundesamt erteilt innerhalb von zwei Monaten nach
-Eingang des Antrags nach § 7 die Zustimmung, sofern
+(2) Das Umweltbundesamt erteilt nach Eingang des Antrags nach § 7 die
+Zustimmung, sofern
 
 1.  der Antrag die Anforderungen der §§ 7 bis 9 erfüllt,
-
 
 2.  die Ermittlung der Upstream-Emissionsminderungen entsprechend den
     Anforderungen nach § 6 erfolgt,
 
-
 3.  die vom Projektträger beauftragte Validierungsstelle zum Zeitpunkt der
     Validierung registriert war,
-
 
 4.  die Projekttätigkeit keine schwerwiegenden nachteiligen Auswirkungen
     auf die Umwelt oder das Klima hat und
 
-
 5.  für die Projekttätigkeit nicht schon zu einem früheren Zeitpunkt eine
     Zustimmung nach dieser Verordnung erteilt worden ist.
 
-
-
-
-(3) Für Kyoto-Projekttätigkeiten kann das Umweltbundesamt auf Antrag
-des Projektträgers Ausnahmen von den Anforderungen nach Absatz 2
-gewähren, sofern auf andere Weise nachgewiesen wurde, dass die
-Anforderungen erfüllt sind.
-
-(4) Das Umweltbundesamt kann den Projektträger zum Nachweis, dass die
-Anforderung von Absatz 2 Nummer 4 erfüllt ist, auffordern, Unterlagen
-vorzulegen, die jenen einer Umweltverträglichkeitsprüfung nach dem
-Gesetz über die Umweltverträglichkeitsprüfung in der Fassung der
-Bekanntmachung vom 24. Februar 2010 (BGBl. I S. 94), das zuletzt durch
-Artikel 2 des Gesetzes vom 8. September 2017 (BGBl. I S. 3370)
-geändert worden ist, in der jeweils geltenden Fassung, entsprechen,
-sofern es insbesondere auf Grund der in der validierten
+(3) Das Umweltbundesamt kann den Projektträger zum Nachweis, dass
+die Anforderung von Absatz 2 Nummer 4 erfüllt ist, auffordern,
+Unterlagen vorzulegen, die jenen einer Umweltverträglichkeitsprüfung
+nach dem Gesetz über die Umweltverträglichkeitsprüfung in der
+Fassung der Bekanntmachung vom 24. Februar 2010 (BGBl. I S. 94), das
+zuletzt durch Artikel 2 des Gesetzes vom 8. September 2017 (BGBl.
+I S. 3370) geändert worden ist, in der jeweils geltenden Fassung,
+entsprechen, sofern es insbesondere auf Grund der in der validierten
 Projektdokumentation beschriebenen Projekttätigkeit und der dort
 dargestellten Umweltauswirkungen zu der Einschätzung gelangt, dass
 nach Umfang, Standort und Folgen der Projekttätigkeit erhebliche
@@ -563,27 +485,18 @@ Die Zustimmung enthält folgende Angaben:
 
 1.  die Projektnummer,
 
-
 2.  das Datum der Ausstellung,
-
 
 3.  den Namen und die Anschrift des Projektträgers,
 
-
 4.  den Namen und die Anschrift der Validierungsstelle,
-
 
 5.  die Angaben nach § 8 Nummer 3 bis 6,
 
-
 6.  die Höhe der Sicherheitsleistung und
-
 
 7.  eine Nummer, mit der das Berechnungsverfahren eindeutig identifiziert
     wird.
-
-
-
 
 
 #### § 13 Veröffentlichung nach Erteilung der Zustimmung
@@ -593,21 +506,15 @@ Internetseite
 
 1.  das Datum der Ausstellung des Zustimmungsbescheids,
 
-
 2.  die auf Basis des Berechnungsverfahrens ermittelte jährliche Upstream-
     Emissionsminderung in Kilogramm Kohlenstoffdioxid-Äquivalent,
-
 
 3.  die Nummer, mit der das Berechnungsverfahren eindeutig identifiziert
     wird und
 
-
 4.  den Projektort, der der Emissionsquelle am nächsten gelegen ist, unter
     Angabe der Koordinaten in Längen- und Breitengraden bis zur vierten
     Dezimalstelle.
-
-
-
 
 (2) Das Umweltbundesamt veröffentlicht auf seiner Internetseite den
 Namen und die Anschrift des Projektträgers, sofern der Projektträger
@@ -617,10 +524,10 @@ der Veröffentlichung zugestimmt hat.
 #### § 14 Sicherheitsleistung
 
 (1) Die Sicherheitsleistung dient dazu, die Erfüllung der
-Verpflichtung nach § 24 Absatz 3 Satz 1 sicherzustellen. Die Höhe der
-Sicherheitsleistung legt das Umweltbundesamt im Rahmen der Zustimmung
-fest. Dabei berücksichtigt es insbesondere die Art der
-Projekttätigkeit, die geschätzte Höhe der Upstream-
+Verpflichtung nach § 24 Absatz 3 Satz 1 sicherzustellen. Die
+Höhe der Sicherheitsleistung legt das Umweltbundesamt im Rahmen
+der Zustimmung fest. Dabei berücksichtigt es insbesondere die
+Art der Projekttätigkeit, die geschätzte Höhe der Upstream-
 Emissionsminderungen und den zu erwartenden Marktwert der UER-
 Nachweise.
 
@@ -653,47 +560,40 @@ Anrechnungszeitraums unverzüglich auf seiner Internetseite.
 1.  die tatsächlichen Treibhausgasemissionen durch die Projekttätigkeit
     entsprechend dem Überwachungsplan zu überwachen und
 
-
-2.  Berichte über die nach den Vorgaben des Überwachungsplans ermittelten
-    Daten (Überwachungsberichte) zu erstellen und den
+2.  Berichte über die nach den Vorgaben des Überwachungsplans
+    ermittelten Daten (Überwachungsberichte) zu erstellen und den
     Verifizierungsstellen zu übermitteln.
-
-
 
 Für die Überwachung der Upstream-Emissionsminderungen und der
 Referenzfallemissionen sowie für die Berichterstattung gelten die
-Vorgaben der Berechnungsverfahren nach § 6 sowie der DIN EN ISO
-14064-2, Ausgabe Mai 2020, entsprechend.
+Vorgaben der Berechnungsverfahren nach § 6 sowie der DIN EN ISO 14064-
+2, Ausgabe Mai 2020, entsprechend.
 
-(2) Die Ergebnisse der Überwachung und die Berichterstattung müssen
-verlässlich und belastbar sein. Für die Verlässlichkeit und
+(2) Die Ergebnisse der Überwachung und die Berichterstattung
+müssen verlässlich und belastbar sein. Für die Verlässlichkeit und
 Belastbarkeit gelten die Anforderungen
 
 1.  der Durchführungsverordnung (EU) 2018/2067 der Kommission vom 19.
-    Dezember 2018 über die Prüfung von Daten und die Akkreditierung von
-    Prüfstellen gemäß der Richtlinie 2003/87/EG des Europäischen
+    Dezember 2018 über die Prüfung von Daten und die Akkreditierung
+    von Prüfstellen gemäß der Richtlinie 2003/87/EG des Europäischen
     Parlaments und des Rates (ABl. L 334 vom 31.12.2018, S. 94), die
     zuletzt durch die Durchführungsverordnung (EU) 2020/2084 (ABl. L 423
     vom 15.12.2020, S. 23) geändert worden ist, entsprechend und
 
-
 2.  der Durchführungsverordnung (EU) 2018/2066 der Kommission vom 19.
-    Dezember 2018 über die Überwachung von und die Berichterstattung über
-    Treibhausgasemissionen gemäß der Richtlinie 2003/87/EG des
+    Dezember 2018 über die Überwachung von und die Berichterstattung
+    über Treibhausgasemissionen gemäß der Richtlinie 2003/87/EG des
     Europäischen Parlaments und des Rates und zur Änderung der Verordnung
     (EU) Nr. 601/2012 der Kommission (ABl. L 334 vom 31.12.2018, S. 1),
     die zuletzt durch Durchführungsverordnung (EU) 2020/2085 (ABl. L 423
     vom 15.12.2020, S. 37) geändert worden ist, entsprechend.
 
 
-
-
-
 #### § 17 Abweichungen von der Projektdokumentation
 
 (1) Ergibt sich bei der Projekttätigkeit oder beim Überwachungssystem
-eine Abweichung von den der Zustimmung zugrunde liegenden Unterlagen,
-so hat der Projektträger dies dem Umweltbundesamt und der
+eine Abweichung von den der Zustimmung zugrunde liegenden
+Unterlagen, so hat der Projektträger dies dem Umweltbundesamt und der
 Verifizierungsstelle unverzüglich anzuzeigen. Hierbei sind alle für
 die Beurteilung der Abweichungen erforderlichen Unterlagen vorzulegen.
 
@@ -710,11 +610,11 @@ Projekttätigkeit ganz oder teilweise, soweit die Voraussetzungen für
 die Zustimmung nicht mehr vorliegen.
 
 (4) Einen Projektträgerwechsel nach der Zustimmung zu einer
-Projekttätigkeit stellt das Umweltbundesamt auf Antrag fest, sofern
-dem eintretenden Projektträger die Zustimmung zu einer
+Projekttätigkeit stellt das Umweltbundesamt auf Antrag fest,
+sofern dem eintretenden Projektträger die Zustimmung zu einer
 Projekttätigkeit nicht gemäß § 11 versagt wurde und der eintretende
-Projektträger die Erklärungen nach § 7 Absatz 2 Nummer 2 bis 4
-schriftlich oder elektronisch abgegeben hat. Der Antrag muss
+Projektträger die Erklärungen nach § 7 Absatz 2 Nummer 2 bis
+4 schriftlich oder elektronisch abgegeben hat. Der Antrag muss
 schriftlich oder elektronisch gestellt werden, die beschriebenen
 Erklärungen enthalten und von dem ursprünglichen und dem eintretenden
 Projektträger unterschrieben werden. Nach der Feststellung des
@@ -724,85 +624,61 @@ Rechte und Pflichten des ausgeschiedenen Projektträgers.
 
 #### § 18 Überwachungsbericht, Überwachungszeitraum
 
-(1) Der Überwachungsbericht muss auf einen Zeitraum bezogen sein, der
-sowohl innerhalb des Anrechnungszeitraums als auch innerhalb eines
-Verpflichtungsjahres liegt (Überwachungszeitraum).
+(1) Der Überwachungsbericht muss sich auf einen Zeitraum beziehen,
+der die gesamte Dauer des Anrechnungszeitraums innerhalb eines
+Verpflichtungsjahres umfasst (Überwachungszeitraum).
 
 (2) Der Überwachungsbericht enthält folgende Angaben und Unterlagen:
 
 1.  die Projektnummer,
 
-
 2.  den Namen und die Anschrift des Projektträgers,
-
 
 3.  das Datum, an dem die ersten Upstream-Emissionsminderungen durch die
     Projekttätigkeit erreicht wurden,
-
 
 4.  eine zusammenfassende Darstellung der Projekttätigkeit mit
 
     a)  einer kurzen Beschreibung der Maßnahmen zur Upstream-
         Emissionsminderung,
 
-
     b)  einer Beschreibung der installierten Technologie und Geräte,
         relevanter Zeitpunkte für die Projekttätigkeit einschließlich
         Informationen zur Errichtung und Inbetriebnahme sowie zu den
-        Betriebszeiträumen,
+        Betriebszeiträumen und
 
-
-
-
+    c)  einer gesonderten Darstellung der Maßgabe nach der Anlage zu dieser
+        Verordnung sowie deren Änderungen nach § 6 Absatz 2 Nummer 1,
 
 5.  den Überwachungszeitraum,
-
 
 6.  die Höhe der Upstream-Emissionsminderungen, die im
     Überwachungszeitraum erreicht wurden, in Kilogramm Kohlenstoffdioxid-
     Äquivalent sowie ihre Ermittlung,
 
-
 7.  Angaben zur Umsetzung der Projekttätigkeit im Überwachungszeitraum,
-
 
 8.  die feststehenden verwendeten Werte der Parameter, die in der
     Projektdokumentation vorgegeben sind, jeweils mit
 
     a)  der Maßeinheit,
 
-
     b)  der Quelle und
 
-
     c)  einer Beschreibung des Wertes,
-
-
-
-
 
 9.  die zu überwachenden Werte der Parameter, die in der
     Projektdokumentation vorgegeben sind, jeweils mit
 
     a)  der Maßeinheit,
 
-
     b)  der Quelle,
-
 
     c)  der Aufzeichnungsfrequenz,
 
-
     d)  einer Beschreibung des Wertes und
 
-
     e)  einer Beschreibung der Verfahren zur Qualitätskontrolle.
-
-
-
-
-
-
 
 
 ### Abschnitt 3 - UER-Nachweise, UER-Register
@@ -822,56 +698,47 @@ angegebenen Höhe ausstellen, wenn
 
 1.  für die Projekttätigkeit eine Zustimmung erteilt worden ist,
 
-
 2.  der Verifizierungszeitraum innerhalb des Anrechnungszeitraums der
     Projekttätigkeit liegt,
-
 
 3.  die vom Projektträger beauftragte Verifizierungsstelle zum Zeitpunkt
     der Verifizierung registriert war,
 
-
 4.  der Verifizierungsbericht dem Umweltbundesamt vorgelegt wurde und den
     Anforderungen des § 41 entspricht,
 
-
-5.  die Verifizierungsstelle für Upstream-Emissionsminderungen, die ab dem
-    Jahr 2021 erfolgt sind, gegenüber dem Umweltbundesamt bestätigt hat,
-    dass diese Upstream-Emissionsminderungen nicht gleichzeitig auf die
-    vom Gastgeberstaat oder von Drittstaaten übernommenen national
-    festgelegten Beiträge nach dem Übereinkommen vom 12. Dezember 2015
-    (BGBl. 2016 II S. 1082, 1083) angerechnet werden,
-
+5.  die Verifizierungsstelle gegenüber dem Umweltbundesamt bestätigt hat,
+    dass die verifizierten Upstream-Emissionsminderungen zusätzlich im
+    Sinne der Anlage zu dieser Verordnung sind und keine Anhaltspunkte
+    für eine nach der Anlage zu dieser Verordnung auszuschließende
+    Doppelzählung vorliegen,
 
 6.  der Projektträger erklärt, dass mit der Projekttätigkeit nicht
     zugleich Strom erzeugt wurde, für den
 
     a)  Zahlungen nach § 19 Absatz 1 des Erneuerbare-Energien-Gesetzes oder
 
-
     b)  Zuschlagszahlungen nach den §§ 6 bis 13 sowie 35 des Kraft-Wärme-
         Kopplungsgesetzes,
 
-
-
     in Anspruch genommen worden sind,
 
+7.  der Projektträger erklärt, dass Upstream-Emissionsminderungen, für
+    die UER-Nachweise ausgestellt werden sollen, nicht unter anderen
+    freiwilligen oder verpflichtenden Systemen veräußert oder genutzt
+    wurden oder werden,
 
-7.  Upstream-Emissionsminderungen durch die Projekttätigkeit nicht bereits
-    in einem anderen Mitgliedstaat zur Erfüllung von Verpflichtungen, die
-    der Umsetzung von Artikel 7a der Richtlinie 98/70/EG dienen,
+8.  Upstream-Emissionsminderungen durch die Projekttätigkeit nicht bereits
+    in einem anderen Mitgliedstaat zur Erfüllung von Verpflichtungen,
+    die der Umsetzung von Artikel 7a der Richtlinie 98/70/EG dienen,
     angerechnet worden sind und
 
+9.  der Projektträger die festgelegte Sicherheitsleistung erbracht hat.
 
-8.  der Projektträger die festgelegte Sicherheitsleistung erbracht hat.
-
-
-
-
-(3) Das Umweltbundesamt stellt vorbehaltlich der Kontrollen nach § 44
-Absatz 2 innerhalb von vier Wochen nach Eingang des
-Verifizierungsberichts, der Bestätigung nach Absatz 2 Nummer 5, der
-Erklärung nach Absatz 2 Nummer 6 und der Erbringung der
+(3) Das Umweltbundesamt stellt vorbehaltlich der Kontrollen
+nach § 44 Absatz 2 innerhalb von vier Wochen nach Eingang des
+Verifizierungsberichts, der Bestätigung nach Absatz 2 Nummer
+5, der Erklärung nach Absatz 2 Nummer 6 und der Erbringung der
 Sicherheitsleistung technisch sicher, dass der Projektträger die UER-
 Nachweise ausstellen kann.
 
@@ -882,104 +749,58 @@ Ein UER-Nachweis muss folgende Angaben enthalten:
 
 1.  eine eindeutige Nachweisnummer,
 
-
 2.  die Projektnummer,
-
 
 3.  den Namen und die Anschrift des ausstellenden Projektträgers und des
     aktuellen Inhabers des UER-Nachweises,
 
-
 4.  das Datum der Ausstellung,
-
 
 5.  das Datum, an dem die ersten Upstream-Emissionsminderungen durch die
     Projekttätigkeit erreicht worden sind,
 
-
 6.  die Höhe der Upstream-Emissionsminderungen in Kilogramm
     Kohlenstoffdioxid-Äquivalent,
-
 
 7.  das Verpflichtungsjahr, in dem die Upstream-Emissionsminderungen
     anrechenbar sind,
 
-
 8.  den Zeitraum, in dem die Upstream-Emissionsminderungen erbracht
     wurden,
 
-
 9.  eine Erklärung des Projektträgers, dass die Upstream-
-    Emissionsminderungen durch die Projekttätigkeit unbeschadet des § 29
-    Absatz 2 nicht als Upstream-Emissionsminderungen in einem anderen
+    Emissionsminderungen durch die Projekttätigkeit unbeschadet des §
+    29 Absatz 2 nicht als Upstream-Emissionsminderungen in einem anderen
     Mitgliedstaat der Europäischen Union geltend gemacht wurden,
-
 
 10. das Datum des Projektstarts,
 
-
 11. die jährlichen Upstream-Emissionsminderungen in Kilogramm
     Kohlenstoffdioxid-Äquivalent,
-
 
 12. den Projektort, der der Emissionsquelle am nächsten gelegen ist, unter
     Angabe der Koordinaten in Längen- und Breitengraden bis zur vierten
     Dezimalstelle,
 
-
 13. die jährlichen Referenzfallemissionen bezogen auf den Brennwert des
     produzierten Rohstoffs in Kilogramm Kohlenstoffdioxid-Äquivalent pro
     Gigajoule,
-
 
 14. die jährlichen Emissionen nach der Umsetzung der Projekttätigkeit
     bezogen auf den Brennwert des produzierten Rohstoffs Kilogramm
     Kohlenstoffdioxid-Äquivalent pro Gigajoule und
 
-
 15. die nicht wiederverwendbare Nummer, mit der das Berechnungsverfahren
     und das entsprechende System eindeutig identifiziert werden.
 
 
-
-
-
-##### § 21 UER-Nachweise für Kyoto-Projekttätigkeiten
-
-(1) Für Upstream-Emissionsminderungen durch Kyoto-Projekttätigkeiten
-können im Verpflichtungsjahr 2020 zertifizierte Emissionsreduktionen
-nach § 2 Nummer 21 des Projekt-Mechanismen-Gesetzes in UER-Nachweise
-umgewandelt werden.
-
-(2) Voraussetzung für die Umwandlung ist, dass
-
-1.  für die Kyoto-Projekttätigkeit eine Zustimmung nach dieser Verordnung
-    erteilt wurde,
-
-
-2.  ein Nachweis erbracht wurde, dass die Upstream-Emissionsminderungen im
-    Verpflichtungsjahr 2020 erbracht wurden,
-
-
-3.  die zertifizierten Emissionsreduktionen für diese Upstream-
-    Emissionsminderungen erzeugt und anschließend auf einem Konto im
-    Kyoto-Register Deutschlands gelöscht worden sind, um UER-Nachweise
-    auszustellen, und
-
-
-4.  die Upstream-Emissionsminderungen durch die Kyoto-Projekttätigkeit
-    nicht durch eine Maßnahme nach Artikel 11a Absatz 9 der Richtlinie
-    2003/87/EG von der Anrechnung auf den europäischen Emissionshandel
-    ausgeschlossen sind.
-
-
-
+##### § 21 (weggefallen)
 
 
 ##### § 22 Stückelung und Verbindung von UER-Nachweisen
 
-(1) UER-Nachweise können im UER-Register gestückelt werden. Dies gilt
-auch für UER-Nachweise, die bereits aus einer Stückelung
+(1) UER-Nachweise können im UER-Register gestückelt werden. Dies
+gilt auch für UER-Nachweise, die bereits aus einer Stückelung
 hervorgegangen sind.
 
 (2) Das Umweltbundesamt kann im UER-Register eine Verbindung von UER-
@@ -990,21 +811,15 @@ ursprünglichen UER-Nachweisen sicher.
 
 ##### § 23 Übertragung von UER-Nachweisen
 
-(1) UER-Nachweise können im UER-Register auf andere Kontoinhaber
-übertragen werden. Die Übertragung muss von einem
-Kontobevollmächtigten veranlasst werden. Der Kontoinhaber kann
-bestimmen, dass die Übertragung eines UER-Nachweises von einem
-weiteren Kontobevollmächtigten bestätigt werden muss.
+(1) UER-Nachweise können im UER-Register auf andere
+Kontoinhaber übertragen werden. Die Übertragung muss von einer
+kontobevollmächtigten Person veranlasst werden. Der Kontoinhaber
+kann bestimmen, dass die Übertragung eines UER-Nachweises von einer
+weiteren kontobevollmächtigten Person bestätigt werden muss.
 
 (2) Die Übertragung erfolgt spätestens zum nächsten Werktag nach der
 Veranlassung. Sie kann durch einen Kontobevollmächtigten abgebrochen
 werden, solange sie noch nicht abgeschlossen ist.
-
-(3) Das Umweltbundesamt stellt im Rahmen des Betriebs des UER-
-Registers sicher, dass Inhaber von UER-Nachweisen festlegen können,
-dass bestimmte UER-Nachweise dieser Inhaber und deren
-Kontaktinformationen für andere Kontoinhaber im UER-Register sichtbar
-sind.
 
 
 ##### § 24 Unrichtige UER-Nachweise
@@ -1017,13 +832,9 @@ unrichtig sind, wenn
     Emissionsminderung nicht mit der tatsächlich erreichten Höhe
     übereinstimmt oder
 
-
 2.  entgegen der Erklärung des Projektträgers die Upstream-
     Emissionsminderung bereits in einem anderen Mitgliedstaat der
     Europäischen Union geltend gemacht worden ist.
-
-
-
 
 (2) Das Umweltbundesamt
 
@@ -1031,21 +842,17 @@ unrichtig sind, wenn
     Nachweis, sofern sich der UER-Nachweis im UER-Register noch auf dem
     Konto des Projektträgers befindet, oder
 
-
 2.  löscht in entsprechendem Umfang gültige UER-Nachweise, die sich auf
     dem Konto des Projektträgers befinden, sofern sich der UER-Nachweis im
     UER-Register nicht mehr auf dem Konto des Projektträgers befindet.
-
-
-
 
 (3) Sind im Fall von Absatz 2 Nummer 2 nicht in ausreichendem Umfang
 gültige UER-Nachweise auf dem Konto des Projektträgers vorhanden,
 verpflichtet das Umweltbundesamt den Projektträger, innerhalb einer
 angemessenen Frist UER-Nachweise in entsprechendem Umfang auf sein
 Konto zur anschließenden Löschung zu übertragen. Erst wenn der
-Projektträger dieser Verpflichtung nachgekommen ist, können von seinem
-Konto wieder UER-Nachweise zur Erfüllung der gesetzlichen
+Projektträger dieser Verpflichtung nachgekommen ist, können von
+seinem Konto wieder UER-Nachweise zur Erfüllung der gesetzlichen
 Verpflichtung zur Minderung der Treibhausgasemissionen angerechnet
 oder auf andere Kontoinhaber übertragen werden.
 
@@ -1081,48 +888,41 @@ Antrag folgende Angaben:
 
 1.  den Namen und die Anschrift des Unternehmens oder der Institution,
 
-
 2.  einen Eintragungsnachweis der juristischen Person oder
     Personengesellschaft, sofern der Antragsteller nicht in einem
     deutschen Handelsregister registriert ist,
 
-
 3.  eine Telefonnummer und eine E-Mail-Adresse, unter denen der
     Kontoinhaber erreichbar ist,
-
 
 4.  von einem Geschäftsführer den Namen, das Geburtsdatum, den Geburtsort
     und das Geburtsland,
 
-
-6.  die Umsatzsteuer-Identifikationsnummer und
-
+6.  die Umsatzsteuer-Identifikationsnummer, sofern vorhanden, und
 
 7.  die Handelsregisternummer.
 
-
-
 Ist der Kontoinhaber eine natürliche Person, gilt Satz 1 entsprechend.
 Das Umweltbundesamt soll im Fall von Satz 1 die Vorlage des
-Führungszeugnisses (§§ 30, 31 des Bundeszentralregistergesetzes) des
-Geschäftsführers und im Fall von Satz 2 die Vorlage des
+Führungszeugnisses (§§ 30, 31 des Bundeszentralregistergesetzes)
+des Geschäftsführers und im Fall von Satz 2 die Vorlage des
 Führungszeugnisses des Kontoinhabers verlangen.
 
 (3) Die Eröffnung eines Kontos kann vom Umweltbundesamt abgelehnt
-werden aus den in Artikel 19 Absatz 2 der Delegierten Verordnung (EU)
-2019/1122 der Kommission vom 12. März 2019 zur Festlegung eines
+werden aus den in Artikel 19 Absatz 2 der Delegierten Verordnung
+(EU) 2019/1122 der Kommission vom 12. März 2019 zur Festlegung eines
 Unionsregisters gemäß der Richtlinie 2003/87/EG des Europäischen
 Parlaments und des Rates und den Entscheidungen Nr. 280/2004/EG und
 Nr. 406/2009/EG des Europäischen Parlaments und des Rates sowie zur
 Aufhebung der Verordnungen (EU) Nr. 920/2010 und (EU) Nr. 1193/2011
 der Kommission (ABl. L 122 vom 3.5.2013, S. 1) genannten Gründen.
 
-(4) Der Kontoinhaber bestätigt gegenüber dem Umweltbundesamt bis zum
-31\. Dezember jeden Jahres, dass die Angaben zu seinem Konto
+(4) Der Kontoinhaber bestätigt gegenüber dem Umweltbundesamt bis
+zum 31. Dezember jeden Jahres, dass die Angaben zu seinem Konto
 vollständig, aktuell und richtig sind.
 
-(5) Der Kontoinhaber teilt dem Umweltbundesamt innerhalb von zehn
-Arbeitstagen Änderungen der Angaben zu seinem Konto mit. Der
+(5) Der Kontoinhaber teilt dem Umweltbundesamt innerhalb von
+zehn Arbeitstagen Änderungen der Angaben zu seinem Konto mit. Der
 Kontoinhaber legt auf Anforderung des Umweltbundesamtes innerhalb von
 vier Wochen Belege für die Angaben in der Änderungsmitteilung vor.
 
@@ -1136,38 +936,25 @@ Kontoeröffnung und Kontoführung erlassen.
 
 1.  zur Kontoeröffnung,
 
-
 2.  zur Kontoführung für Nutzer,
 
-
-3.  zu Kontobevollmächtigten,
-
+3.  zu kontobevollmächtigten Personen,
 
 4.  zur Authentifizierung,
 
-
 5.  zu Transaktionen,
-
 
 6.  zu Mitwirkungspflichten der Nutzer zur Mitteilung von Änderungen,
 
-
 7.  zum Erlöschen der Eintragungsvollmacht,
-
 
 8.  zur Richtigkeit von Anweisungen,
 
-
 9.  zur Einhaltung von IT-Sicherheitsstandards durch Nutzer,
-
 
 10. zu technischen Störungen und
 
-
 11. zur Verfügbarkeit des Registerbetriebs.
-
-
-
 
 (3) Das Umweltbundesamt gibt die Nutzungsbedingungen im Bundesanzeiger
 bekannt.
@@ -1189,44 +976,30 @@ vorgelegt werden.
 
 ##### § 29 Ausbuchungskonto
 
-(1) Das Umweltbundesamt erstellt auf Antrag der zuständigen Behörde
-eines anderen Mitgliedstaats der Europäischen Union im UER-Register
-ein Ausbuchungskonto. Es stellt sicher, dass die zuständige Behörde
-des anderen Mitgliedstaats der Europäischen Union die UER-Nachweise
-auf dem Ausbuchungskonto einsehen und kennzeichnen kann.
-
-(2) Kontoinhaber, die UER-Nachweise in einem anderen Mitgliedstaat
-einsetzen wollen, übertragen diese UER-Nachweise auf das entsprechende
-Ausbuchungskonto der Behörde dieses Mitgliedstaats. Die UER-Nachweise
-werden dauerhaft auf dem Ausbuchungskonto gespeichert.
+Im UER-Register erstellte Ausbuchungskonten anderer Mitgliedsstaaten
+der Europäischen Union werden zum Ablauf des 31. Oktobers 2024
+geschlossen.
 
 
-##### § 30 Kontobevollmächtigte
+##### § 30 Kontobevollmächtigte Personen
 
 (1) Der Kontoinhaber benennt mindestens eine kontobevollmächtigte
 Person, die in seinem Auftrag Transaktionen im UER-Register
-durchführt.
-Kontobevollmächtigte Personen              sind natürliche Personen im
-Alter von mindestens 18 Jahren. Mindestens eine der
+durchführt. *Kontobevollmächtigte Personen* sind natürliche
+Personen im Alter von mindestens 18 Jahren. Mindestens eine der
 kontobevollmächtigten Personen muss seinen ständigen Wohnsitz in der
-Bundesrepublik Deutschland haben.
+Europäischen Union haben.
 
 (2) Nur kontobevollmächtigte Personen sind berechtigt,
 
 1.  UER-Nachweise auszustellen,
 
-
 2.  UER-Nachweise zu stückeln oder zu verbinden,
-
 
 3.  Übertragungen zu veranlassen, zu bestätigen und abzubrechen und
 
-
 4.  UER-Nachweise und Kontaktinformationen der von ihnen vertretenen
     Kontoinhaber für andere Kontoinhaber sichtbar zu machen.
-
-
-
 
 (3) Hat die kontobevollmächtigte Person aus technischen oder sonstigen
 Gründen keinen Zugang zum UER-Register, so kann das Umweltbundesamt
@@ -1235,33 +1008,29 @@ ausführen, sofern er zu diesen Handlungen zum Zeitpunkt der
 Veranlassung befugt ist.
 
 (4) Bei der Benennung einer kontobevollmächtigten Person übermittelt
-der Kontoinhaber dem Umweltbundesamt folgende Angaben:
+der Kontoinhaber dem Umweltbundesamt folgende Angaben und Unterlagen:
 
 1.  den Namen und die Anschrift,
-
 
 2.  die Telefonnummer, die E-Mail-Adresse, das Geburtsdatum, den
     Geburtsort und das Geburtsland,
 
+3.  die Art, das Gültigkeitsdatum sowie die Nummer des Ausweisdokuments
+    der kontobevollmächtigten Person,
 
-3.  den Namen und die Anschrift des Unternehmens oder der Institution, für
-    die die kontobevollmächtigte Person tätig ist,
+4.  eines der folgenden Dokumente zum Nachweis der Identität und des
+    ständigen Wohnsitzes der kontobevollmächtigen Person:
 
+    a)  eine beglaubigte Kopie des Personalausweises, ausgestellt von einem
+        Staat, der Mitglied des Europäischen Wirtschaftsraums oder der
+        Organisation für wirtschaftliche Zusammenarbeit und Entwicklung ist,
+        oder des Reisepasses, oder
 
-4.  die Funktion der kontobevollmächtigten Person innerhalb des
-    Unternehmens oder der Institution,
+    b)  eine Erklärung der lokalen Behörde, die den ständigen Wohnsitz der
+        kontobevollmächtigten Person bestätigt, sofern der ständige Wohnsitz
+        nicht aus den Dokumenten gemäß Buchstabe a ersichtlich ist,
 
-
-5.  die Art des Ausweisdokuments der kontobevollmächtigten Person,
-
-
-6.  die Nummer des Ausweisdokuments und
-
-
-7.  die Gültigkeitsdauer des Ausweisdokuments.
-
-
-
+5.  ein Führungszeugnis der kontobevollmächtigten Person.
 
 (5) Änderungen der Angaben zu einer kontobevollmächtigten Person
 werden dem Umweltbundesamt innerhalb von zehn Arbeitstagen mitgeteilt.
@@ -1269,62 +1038,56 @@ Der Kontoinhaber oder die betroffene kontobevollmächtigte Person legt
 auf Anforderung des Umweltbundesamtes innerhalb von vier Wochen Belege
 für die Angaben in der Änderungsmitteilung vor.
 
-(6) Auf die Benennung und Zulassung von kontobevollmächtigten Personen
-ist Artikel 19 Absatz 1 und 2 der Delegierten Verordnung (EU)
+(6) Auf die Benennung und Zulassung von kontobevollmächtigten
+Personen ist Artikel 19 Absatz 1 und 2 der Delegierten Verordnung (EU)
 2019/1122 entsprechend anzuwenden.
 
 
 ##### § 31 Kontosperrung
 
-(1) Das Umweltbundesamt kann den Zugang eines Kontobevollmächtigten
-zum UER-Register sperren, wenn Tatsachen die Annahme rechtfertigen,
-dass der Kontobevollmächtigte
+(1) Das Umweltbundesamt kann den Zugang einer kontobevollmächtigten
+Person zum UER-Register sperren, wenn Tatsachen die Annahme
+rechtfertigen, dass die kontobevollmächtigte Person
 
 1.  versucht hat, Zugang zu Konten oder Vorgängen zu erhalten, für die er
     nicht zugangsberechtigt ist,
 
-
 2.  wiederholt versucht hat, sich mit falschen Zugangsdaten Zugang zu
     einem Konto oder zu einem Vorgang zu verschaffen,
-
 
 3.  versucht hat, die Sicherheit, die Zugänglichkeit, die Integrität oder
     die Vertraulichkeit des UER-Registers oder der darin gespeicherten
     Daten zu kompromittieren.
 
-
-
 Die Sperrung des Zugangs wird unverzüglich aufgehoben, wenn sich die
 Annahmen, die zur Sperrung des Zugangs geführt haben, als unbegründet
 erweisen.
 
-(2) Das Umweltbundesamt kann den Zugang zu einem Konto für alle
-Kontobevollmächtigten sperren, wenn
+(2) Das Umweltbundesamt kann den Zugang zu Konten eines Kontoinhabers
+für alle kontobevollmächtigte Personen sperren, wenn
 
 1.  der Kontoinhaber ohne gesetzlichen Nachfolger verstorben ist oder
     keine Rechtspersönlichkeit mehr hat,
 
-
-2.  der Kontoinhaber fällige Gebühren nach dieser Verordnung nicht oder
-    nicht vollständig bezahlt hat,
-
+2.  der Kontoinhaber oder die empfangsberechtigte Person nach § 7 Absatz 2
+    Satz 1 Nummer 1 und Absatz 3 Satz 1 und 2 fällige Gebühren nach dieser
+    Verordnung beziehungsweise nach § 1 Absatz 1 Nummer 7 in Verbindung
+    mit Abschnitt 7 der Anlage zu der Besonderen Gebührenverordnung BMUKN
+    in der jeweils geltenden Fassung nicht oder nicht vollständig bezahlt
+    hat,
 
 3.  der Kontoinhaber gegen die Nutzungsbedingungen für die Kontoeröffnung
     und Kontoführung verstoßen hat,
 
-
 4.  der Kontoinhaber Änderungen der Nutzungsbedingungen für die
     Kontoeröffnung und Kontoführung nicht zugestimmt hat,
-
 
 5.  der Kontoinhaber Änderungen der Kontoangaben nicht, nicht vollständig
     oder nicht rechtzeitig mitgeteilt hat,
 
-
 6.  der Kontoinhaber im Zusammenhang mit der Änderung von Kontoangaben
     oder mit neuen Kontoangaben trotz Anforderung des Umweltbundesamtes
     Belege nicht oder nicht rechtzeitig beigebracht hat,
-
 
 7.  gegen den Kontoinhaber oder, bei einer juristischen Person, gegen
     einen der Geschäftsführer des Kontoinhabers wegen folgender Straftaten
@@ -1334,14 +1097,14 @@ Kontobevollmächtigten sperren, wenn
     a)  Betrug und Untreue nach den §§ 263 bis 265, 265b und 266 des
         Strafgesetzbuchs oder
 
-
     b)  Geldwäsche oder Terrorismusfinanzierung nach den §§ 261 und 89c des
-        Strafgesetzbuchs.
+        Strafgesetzbuchs,
 
-
-
-
-
+8.  Zweifel am Vorliegen der Zustimmungsvoraussetzungen bestehen und
+    das Umweltbundesamt außerhalb von § 45 die Validierungs- oder
+    Verifizierungsstelle und den Projektträger zur Aufklärung der Zweifel
+    aufgefordert hat und es sich um ein Konto dieses Projektträgers
+    handelt.
 
 Die Sperrung des Zugangs wird unverzüglich aufgehoben, wenn der Grund
 für die Sperrung nicht mehr besteht oder wenn der Kontoinhaber im Fall
@@ -1349,44 +1112,40 @@ von Satz 1 Nummer 3 nachweislich hinreichende Vorkehrungen getroffen
 hat, damit sich die Ursache für die Sperrung nicht wiederholt.
 
 
-### Abschnitt 4 - Validierungs- und Verifizierungsstellen
+### Abschnitt 4 - Validierungsstellen und Verifizierungsstellen
 
 
 #### Unterabschnitt 1 - Registrierung
 
 
-##### § 32 Registrierung von Validierungs- und Verifizierungsstellen
+##### § 32 Registrierung von Validierungsstellen und Verifizierungsstellen
 
-(1) Validierungs- und Verifizierungsstellen, die in einem
-Mitgliedstaat der Europäischen Union gemäß DIN EN ISO 14065, Ausgabe
-Juli 2013, für die Bereiche der DIN EN ISO 14064-2, Ausgabe Mai 2020,
-und der DIN ISO 14064-3, Ausgabe Mai 2020, oder nach einer
-Vorgängerversion dieser Normen akkreditiert sind, gelten für den
-Zeitraum der Akkreditierung als nach dieser Verordnung registriert.
-Die erforderliche Akkreditierung ist auf Verlangen des
-Umweltbundesamtes bei jeder Abgabe eines Validierungs- oder
-Verifizierungsberichts nachzuweisen. Die Regelungen der
-Durchführungsverordnung (EU) 2018/2067 zum Inhalt der internen
-Prüfunterlagen einer Validierungs- oder Verifizierungsstelle und deren
-Einsicht nach Artikel 26 Absatz 3 der Durchführungsverordnung (EU)
-2018/2067 sind entsprechend anzuwenden.
+(1) Validierungsstellen und Verifizierungsstellen, die in einem
+Mitgliedstaat der Europäischen Union gemäß DIN EN ISO 14065,
+Ausgabe Juli 2013, für die Bereiche der DIN EN ISO 14064-2, Ausgabe
+Mai 2020, und der DIN ISO 14064-3, Ausgabe Mai 2020, oder nach
+einer Vorgängerversion dieser Normen akkreditiert sind, gelten
+für den Zeitraum der Akkreditierung als nach dieser Verordnung
+registriert. Die erforderliche Akkreditierung ist auf Verlangen
+des Umweltbundesamtes bei jeder Abgabe eines Validierungsberichts
+oder eines Verifizierungsberichts nachzuweisen. Die Regelungen
+der Durchführungsverordnung (EU) 2018/2067 zum Inhalt der
+internen Prüfunterlagen einer Validierungsstelle oder einer
+Verifizierungsstelle und deren Einsicht nach Artikel 26 Absatz 3 der
+Durchführungsverordnung (EU) 2018/2067 sind entsprechend anzuwenden.
 
 (2) Beschäftigte des Umweltbundesamtes sind berechtigt,
 
 1.  der Begutachtung für die Akkreditierung und der wiederkehrenden
-    Überwachung der Validierungs- und Verifizierungsstellen durch die
-    zuständige nationale Akkreditierungsstelle beizuwohnen und
-
+    Überwachung der Validierungsstellen und der Verifizierungsstellen
+    durch die zuständige nationale Akkreditierungsstelle beizuwohnen und
 
 2.  Einsicht in die Begutachtungsberichte der nationalen
-    Akkreditierungsstelle zu einer Prüfstelle, die als Validierungs- oder
-    Verifizierungsstelle nach dieser Verordnung tätig ist, zu nehmen. Die
-    zuständige nationale Akkreditierungsstelle teilt dem Umweltbundesamt
-    die Termine für die Begutachtung und die wiederkehrende Überwachung
-    mindestens zwei Monate im Voraus mit.
-
-
-
+    Akkreditierungsstelle zu einer Prüfstelle, die als Validierungsstellen
+    oder als Verifizierungsstelle nach dieser Verordnung tätig ist,
+    zu nehmen. Die zuständige nationale Akkreditierungsstelle teilt
+    dem Umweltbundesamt die Termine für die Begutachtung und die
+    wiederkehrende Überwachung mindestens zwei Monate im Voraus mit.
 
 (3) Änderungen der Angaben und Unterlagen sind von der zuständigen
 nationalen Akkreditierungsstelle dem Umweltbundesamt unverzüglich
@@ -1396,7 +1155,6 @@ mitzuteilen.
 ##### (XXXX) §§ 33 bis 35 (weggefallen)
 
 
-
 ##### § 36 Widerruf und Rücknahme der Registrierung
 
 (1) Das Umweltbundesamt kann die Registrierung einer Validierungs-
@@ -1404,9 +1162,9 @@ oder Verifizierungsstelle widerrufen, wenn Tatsachen die Annahme
 rechtfertigen, dass eine ordnungsgemäße Durchführung der Aufgaben
 nicht mehr gegeben ist.
 
-(2) Die Registrierung soll insbesondere widerrufen werden, wenn die
-Validierungs- oder Verifizierungsstelle ihre Pflichten nicht, nicht
-richtig, nicht vollständig oder nicht rechtzeitig erfüllt. Die
+(2) Die Registrierung soll insbesondere widerrufen werden, wenn
+die Validierungs- oder Verifizierungsstelle ihre Pflichten nicht,
+nicht richtig, nicht vollständig oder nicht rechtzeitig erfüllt. Die
 Registrierung kann auch widerrufen werden, wenn eine Kontrolle der
 Projekttätigkeiten vor Ort nicht sichergestellt ist.
 
@@ -1417,29 +1175,25 @@ Rücknahme und den Widerruf von Verwaltungsakten bleiben unberührt.
 #### Unterabschnitt 2 - Aufgaben
 
 
-##### § 37 Allgemeine Anforderungen an Validierungs- und Verifizierungsstellen
+##### § 37 Allgemeine Anforderungen an Validierungsstellen und an Verifizierungsstellen
 
-(1) Validierungs- und Verifizierungsstellen sind verpflichtet,
+(1) Validierungsstellen und Verifizierungsstellen sind verpflichtet,
 
-1.  die Angaben des Projektträgers auf Richtigkeit und Vollständigkeit zu
-    überprüfen,
-
+1.  die Angaben des Projektträgers auf Richtigkeit und Vollständigkeit
+    zu überprüfen,
 
 2.  Prüfberichte (den Validierungsbericht und den Verifizierungsbericht)
     anzufertigen und
 
-
 3.  im Validierungsbericht und im Verifizierungsbericht richtige und
     vollständige Angaben zu machen.
 
-
-
-
-(2) Betragen die geschätzten Upstream-Emissionsminderungen der
-Projekttätigkeit mehr als 60 Kilotonnen Kohlenstoffdioxid-Äquivalent
-pro Jahr, so müssen die Aufgaben der Validierungsstelle und der
-Verifizierungsstelle von zwei verschiedenen Stellen wahrgenommen
-werden.
+(2) Die Aufgaben der Validierungsstelle und der Verifizierungsstelle
+müssen von zwei verschiedenen Stellen wahrgenommen werden. Bei
+den Prüfungen vor Ort müssen mindestens zwei Mitarbeitende der
+Validierungsstelle oder der Verifizierungsstelle am Projektort
+anwesend sein, wobei bei mehreren Prüfungen vor Ort mindestens eine
+Person ausgetauscht werden muss.
 
 
 ##### § 38 Spezifische Aufgaben der Validierungsstellen
@@ -1462,39 +1216,33 @@ Ausgabe April 2011, validiert.
 1.  für die Projekttätigkeit im Verifizierungszeitraum die Voraussetzungen
     für die Zustimmung vorgelegen haben,
 
-
 2.  die Projekttätigkeit entsprechend der Projektdokumentation oder, bei
     Abweichungen, im Einklang mit der Entscheidung nach § 17 Absatz 3
     durchgeführt worden ist,
 
-
 3.  der Überwachungsbericht den Anforderungen nach § 18 genügt und
-
 
 4.  der Projektträger die Upstream-Emissionsminderungen im
     Verifizierungszeitraum zutreffend ermittelt hat.
 
-
-
-
 (2) Die Verifizierung nach Absatz 1 erfolgt anhand des
-Überwachungsberichts und aller weiteren relevanten Daten sowie vor
-Ort. Die Vorgaben der Durchführungsverordnung (EU) 2018/2067 sind für
-die Tätigkeiten nach Absatz 1 entsprechend anzuwenden. Für die
-Verifizierung der Upstream-Emissionsminderungen und der
+Überwachungsberichts und aller weiteren relevanten Daten sowie
+vor Ort. Die Vorgaben der Durchführungsverordnung (EU) 2018/2067
+sind für die Tätigkeiten nach Absatz 1 entsprechend anzuwenden.
+Für die Verifizierung der Upstream-Emissionsminderungen und der
 Referenzfallemissionen gilt DIN EN ISO 14064-2, Ausgabe Mai 2020,
 entsprechend.
 
-(3) Die Ergebnisse der Verifizierung müssen verlässlich und belastbar
-sein. Für die Verlässlichkeit und Belastbarkeit gelten die
-Anforderungen der Durchführungsverordnung (EU) 2018/2067 und der
+(3) Die Ergebnisse der Verifizierung müssen verlässlich und
+belastbar sein. Für die Verlässlichkeit und Belastbarkeit gelten
+die Anforderungen der Durchführungsverordnung (EU) 2018/2067 und der
 Durchführungsverordnung (EU) 2018/2066 entsprechend.
 
 (4) Die Verifizierungsstelle legt dem Umweltbundesamt und dem
 Projektträger den Verifizierungsbericht einschließlich des dem
-Verifizierungsbericht zugrundeliegenden Überwachungsberichts vor. Sie
-bestätigt zudem schriftlich, dass die Projekttätigkeit innerhalb des
-Verifizierungszeitraums zu der verifizierten Upstream-
+Verifizierungsbericht zugrundeliegenden Überwachungsberichts
+vor. Sie bestätigt zudem schriftlich, dass die Projekttätigkeit
+innerhalb des Verifizierungszeitraums zu der verifizierten Upstream-
 Emissionsminderung geführt hat.
 
 
@@ -1504,24 +1252,18 @@ Der Validierungsbericht enthält folgende Angaben und Unterlagen:
 
 1.  eine zusammenfassende Darstellung des Validierungsprozesses,
 
-
 2.  den Namen und die Anschrift des Projektträgers,
-
 
 3.  den Zeitraum, in dem die Validierung durchgeführt worden ist,
 
-
 4.  eine Beschreibung der Projekttätigkeit,
-
 
 5.  den Projektort, der der Emissionsquelle am nächsten gelegen ist, unter
     Angabe der Koordinaten in Längen- und Breitengraden bis zur vierten
     Dezimalstelle,
 
-
 6.  eine Darstellung der Nachfragen der Validierungsstelle beim
     Projektträger und dessen Antworten,
-
 
 7.  soweit eine Beteiligung der Öffentlichkeit nach dem Recht des
     Gastgeberstaates oder der DIN EN ISO 14064-2, Ausgabe Mai 2020,
@@ -1529,29 +1271,24 @@ Der Validierungsbericht enthält folgende Angaben und Unterlagen:
     Projekttätigkeit, die aufgrund der Stellungnahmen der Beteiligung der
     Öffentlichkeit vorgenommen worden sind,
 
-
 8.  das Verfahren, das zur Validierung der geplanten Projekttätigkeit
     angewendet worden ist, und die Ergebnisse der Validierung,
 
-
 9.  die Feststellung, dass für die geplante Projekttätigkeit ein
     zugelassenes Berechnungsverfahren gewählt worden ist und dass dieses
-    Berechnungsverfahren entsprechend § 6 angewendet worden ist,
-
+    Berechnungsverfahren entsprechend § 6 unter gesonderter Darstellung
+    der Maßgaben nach der Anlage zu dieser Verordnung sowie den näheren
+    Bestimmungen nach § 6 Absatz 2 Nummer 1 angewendet worden ist,
 
 10. die Projektgrenze der Projekttätigkeit,
-
 
 11. das Verfahren zur Ermittlung der Referenzfallemissionen und der Höhe
     der zu erwartenden Upstream-Emissionsminderungen sowie die Ergebnisse
     der Berechnungen,
 
-
 12. Angaben zur sachgerechten Ausgestaltung des Überwachungsplans,
 
-
 13. die Darstellung der Umweltauswirkungen,
-
 
 14. eine Bestätigung der Validierungsstelle, dass keine Anhaltspunkte
     dafür vorliegen, dass die Projekttätigkeit schwerwiegende nachteilige
@@ -1559,28 +1296,20 @@ Der Validierungsbericht enthält folgende Angaben und Unterlagen:
     Dezember 2015 (BGBl. 2016 II S. 1082, 1083) genannten Belange im
     Gastgeberstaat hat,
 
-
 15. eine Liste mit den im Rahmen der Validierung durchgeführten Vor-Ort-
     Untersuchungen, befragten Personen und überprüften Dokumenten,
-
 
 16. die unterzeichnete Bestätigung der Validierungsstelle, dass die
     Projekttätigkeit alle Anforderungen dieser Verordnung einhält, mit
     Angabe der Höhe der zu erwartenden Upstream-Emissionsminderungen,
 
-
 17. die Namen und Kontaktdaten der Mitglieder des Validierungsteams,
     jeweils unter Angabe ihrer Aufgaben im Rahmen der Validierung,
 
-
 18. Zertifikate der Mitglieder des Validierungsteams,
-
 
 19. Informationen zur Qualitätskontrolle innerhalb des Validierungsteams
     und des Validierungsprozesses.
-
-
-
 
 
 ##### § 41 Verifizierungsbericht
@@ -1589,24 +1318,18 @@ Der Verifizierungsbericht enthält folgende Angaben und Unterlagen:
 
 1.  die Projektnummer,
 
-
 2.  den Namen und die Anschrift des Projektträgers,
-
 
 3.  den Verifizierungszeitraum,
 
-
 4.  den Zeitraum, in dem die Verifizierung durchgeführt worden ist,
-
 
 5.  die Angabe, ob für die Projekttätigkeit im Verifizierungszeitraum die
     Voraussetzungen für die Zustimmung vorgelegen haben,
 
-
 6.  die Höhe der Upstream-Emissionsminderung in Kilogramm
     Kohlenstoffdioxid-Äquivalent, die im Verifizierungszeitraum erreicht
     worden ist,
-
 
 7.  eine Bestätigung, dass keine Anhaltspunkte dafür vorliegen, dass die
     Projekttätigkeit während des Verifizierungszeitraums schwerwiegende
@@ -1614,24 +1337,18 @@ Der Verifizierungsbericht enthält folgende Angaben und Unterlagen:
     vom 12. Dezember 2015 (BGBl. 2016 II S. 1082, 1083) genannten Belange
     im Gastgeberstaat hat,
 
-
 8.  eine zusammenfassende Darstellung des Verifizierungsprozesses, des
     Umfangs und der Ergebnisse der Verifizierung,
-
 
 9.  eine Liste mit den im Rahmen der Verifizierung durchgeführten Vor-Ort-
     Untersuchungen, befragten Personen und überprüften Dokumenten,
 
-
 10. die Namen und Kontaktdaten der Mitglieder des Verifizierungsteams,
     jeweils unter Angabe ihrer Aufgaben im Rahmen der Verifizierung,
 
-
 11. Zertifikate der Mitglieder des Verifizierungsteams,
 
-
 12. die Ergebnisse der Überprüfungen,
-
 
 13. die Feststellung, dass
 
@@ -1639,41 +1356,30 @@ Der Verifizierungsbericht enthält folgende Angaben und Unterlagen:
         Abweichungen im Einklang mit der Entscheidung nach § 17 Absatz 3
         durchgeführt worden ist,
 
-
     b)  die Überwachungsaktivitäten mit dem Überwachungsplan übereinstimmen,
 
-
     c)  der Überwachungsbericht den Vorgaben des § 18 entspricht,
-
 
     d)  die Kalibrierungsfrequenz der jeweiligen Messinstrumente mit
         Auswirkungen auf die ermittelten Upstream-Emissionsminderungen den
         Vorgaben der Berechnungsverfahren und des Überwachungsplans oder bei
         Abweichungen der Entscheidung nach § 17 Absatz 3 entspricht,
 
-
-
-
-
 14. eine Bewertung der Daten und Berechnung der durch die Projekttätigkeit
-    erreichten Upstream-Emissionsminderungen,
-
+    erreichten Upstream-Emissionsminderungen unter gesonderter Darstellung
+    der Maßgaben nach der Anlage zu dieser Verordnung sowie den näheren
+    Bestimmungen nach § 6 Absatz 2 Nummer 1,
 
 15. eine Liste der im Überwachungsplan spezifizierten Parameter mit
     Angaben dazu, wie die im Überwachungsbericht dargestellten Werte von
     der Verifizierungsstelle verifiziert worden sind,
 
-
 16. eine Darstellung der Nachfragen der Verifizierungsstelle beim
     Projektträger und dessen Antworten sowie die Bewertung dieser
     Antworten und
 
-
 17. Informationen zur Qualitätskontrolle innerhalb des Verifizierungsteams
     und des Verifizierungsprozesses.
-
-
-
 
 
 ##### § 42 Verifizierungszeitraum
@@ -1696,34 +1402,35 @@ unverzüglich auf seiner Internetseite.
 #### § 44 Kontrollen
 
 (1) Das Umweltbundesamt kann bis zur Vorlage der
-Verifizierungsberichte das Fortbestehen der Voraussetzungen für die
-Zustimmung anhand der ihm vorgelegten Unterlagen und soweit
+Verifizierungsberichte das Fortbestehen der Voraussetzungen für
+die Zustimmung anhand der ihm vorgelegten Unterlagen und soweit
 erforderlich vor Ort jederzeit überprüfen.
 
-(2) Das Umweltbundesamt überprüft innerhalb eines Jahres nach Ablauf
-des Anrechnungszeitraums anhand der ihm vorgelegten Unterlagen und
-soweit erforderlich vor Ort die Verifizierungsberichte auf ihre
-Richtigkeit und Vollständigkeit.
+(2) Das Umweltbundesamt überprüft innerhalb eines Jahres anhand der
+ihm vorgelegten Unterlagen und, soweit erforderlich, vor Ort die
+Verifizierungsberichte auf ihre Richtigkeit und Vollständigkeit. Die
+Jahresfrist beginnt, wenn
 
-(3) Das Umweltbundesamt ist befugt, soweit es zur Durchführung der
-Aufgaben nach den Absätzen 1 und 2 erforderlich ist, bei
+1.  alle Verifizierungsberichte für die Projekttätigkeit
+    eingereicht wurden und dadurch Verifizierungen für den gesamten
+    Anrechnungszeitraum vorliegen, oder
+
+2.  der Projektträger dem Umweltbundesamt mitteilt, dass er keine weiteren
+    Verifizierungsberichte einreichen wird.
+
+(3) Das Umweltbundesamt ist befugt, soweit es zur Durchführung
+der Aufgaben nach den Absätzen 1 und 2 erforderlich ist, bei
 Projektträgern
 
 1.  während der Geschäfts- oder Betriebszeit Grundstücke sowie Geschäfts-,
     Betriebs- und Lagerräume sowie Transportmittel zu betreten,
 
-
 2.  Besichtigungen vorzunehmen,
-
 
 3.  alle die Projekttätigkeit betreffenden Geschäftsunterlagen einzusehen,
     zu prüfen, auszudrucken, zu kopieren und Abschriften anzufertigen und
 
-
 4.  die erforderlichen Auskünfte zu verlangen.
-
-
-
 
 
 #### § 45 Anordnungen
@@ -1734,16 +1441,21 @@ Anordnungen treffen, um Mängel zu beseitigen, die im Rahmen der
 Kontrollen nach § 44 festgestellt worden sind. Insbesondere kann das
 Umweltbundesamt anordnen, dass eine Mitarbeiterin oder ein Mitarbeiter
 einer Validierungs- oder Verifizierungsstelle wegen fehlender
-Unabhängigkeit, Fachkunde oder Zuverlässigkeit keine Tätigkeiten nach
-dieser Verordnung durchführen darf.
+Unabhängigkeit, Fachkunde oder Zuverlässigkeit keine Tätigkeiten
+nach dieser Verordnung durchführen darf. Auf Anordnungen nach Satz
+1 sind Validierungsstellen und Verifizierungsstellen verpflichtet,
+überarbeitete Prüfberichte vorzulegen. An der Mängelbeseitigung und
+der Erstellung des überarbeiteten Prüfberichts müssen mindestens zwei
+Mitarbeitende der Validierungsstelle oder der Verifizierungsstelle
+mitwirken, die an der ursprünglichen Prüfung nicht mitgewirkt haben.
 
 (2) Ordnet das Umweltbundesamt die Vorlage eines geänderten
 Validierungs- oder Verifizierungsberichts oder die erneute Überprüfung
 der Projekttätigkeit in Bezug auf die betroffenen Upstream-
-Emissionsminderungen an, so kann es zusätzlich festlegen, dass bis zur
-Vorlage des geänderten Validierungs- oder Verifizierungsberichts oder
-bis zum Abschluss der erneuten Überprüfung vom Projektträger UER-
-Nachweise nicht oder nur in begrenztem Umfang ausgestellt oder
+Emissionsminderungen an, so kann es zusätzlich festlegen, dass bis
+zur Vorlage des geänderten Validierungs- oder Verifizierungsberichts
+oder bis zum Abschluss der erneuten Überprüfung vom Projektträger
+UER-Nachweise nicht oder nur in begrenztem Umfang ausgestellt oder
 übertragen werden können.
 
 (3) Werden in Berichten einer Validierungs- oder Verifizierungsstelle
@@ -1757,8 +1469,8 @@ akkreditiert hat, ein Gesuch um Überprüfung der Akkreditierung.
 
 ### § 46 Zugänglichkeit der DIN-Normen
 
-DIN-Normen, auf die in dieser Verordnung verwiesen wird, sind im Beuth
-Verlag GmbH, Berlin, erschienen und in der Deutschen
+DIN-Normen, auf die in dieser Verordnung verwiesen wird, sind
+im Beuth Verlag GmbH, Berlin, erschienen und in der Deutschen
 Nationalbibliothek archivmäßig gesichert hinterlegt.
 
 
@@ -1769,14 +1481,9 @@ vorschreiben für
 
 1.  von Antragsstellern und Prüfstellen vorzulegende Dokumente,
 
-
 2.  für die Bekanntgabe von Entscheidungen und
 
-
 3.  für die sonstige Kommunikation.
-
-
-
 
 (2) Schreibt das Umweltbundesamt die elektronische Form vor, kann es
 eine bestimmte Verschlüsselung sowie die Eröffnung eines Zugangs für
@@ -1797,24 +1504,17 @@ Formvorschriften des Absatzes 3 möglich.
 (5) Das Umweltbundesamt macht die Vorschriften nach den Absätzen 1 bis
 3 im Bundesanzeiger bekannt.
 
-(6) Ausnahmen von § 23 Absatz 1 des Verwaltungsverfahrensgesetzes,
-insbesondere bei Kyoto-Projekttätigkeiten, kann das Umweltbundesamt
-gewähren auf Antrag
+(6) Ausnahmen von § 23 Absatz 1 des Verwaltungsverfahrensgesetzes kann
+das Umweltbundesamt gewähren auf Antrag
 
 1.  des Projektträgers,
 
-
 2.  der Validierungsstelle oder
-
 
 3.  der Verifizierungsstelle.
 
 
-
-
-
 ### § 48 (weggefallen)
-
 
 
 ### § 49 Aufbewahrung von Unterlagen, Umgang mit Informationen
@@ -1824,10 +1524,10 @@ auf deren Basis ein Verifizierungsbericht erstellt wurde, für einen
 Zeitraum von fünf Jahren aufbewahren. Die Aufbewahrungsfrist beginnt
 mit dem Abschluss des Verfahrens beim Umweltbundesamt.
 
-(2) Validierungs- und Verifizierungsstellen müssen die Unterlagen zur
-Validierung und Verifizierung der von ihnen geprüften
-Projekttätigkeiten für einen Zeitraum von fünf Jahren aufbewahren. Die
-Aufbewahrungsfrist beginnt mit dem Abschluss des Verfahrens beim
+(2) Validierungs- und Verifizierungsstellen müssen die Unterlagen
+zur Validierung und Verifizierung der von ihnen geprüften
+Projekttätigkeiten für einen Zeitraum von fünf Jahren aufbewahren.
+Die Aufbewahrungsfrist beginnt mit dem Abschluss des Verfahrens beim
 Umweltbundesamt.
 
 (3) Soweit Validierungsstellen und Verifizierungsstellen Aufgaben nach
@@ -1841,33 +1541,28 @@ einen Zeitraum von fünf Jahren auf:
 
 1.  die Anträge auf Zustimmung,
 
-
 2.  die Verifizierungsberichte,
-
 
 3.  die Anträge zur Kontoeröffnung und
 
-
 4.  die Angaben zur Benennung eines Kontobevollmächtigten.
-
-
 
 Die Aufbewahrungsfrist beginnt mit dem Abschluss des Verfahrens beim
 Umweltbundesamt.
 
-(5) Bei Projekttätigkeiten endet das Verfahren mit der Rückgabe oder
-Verwertung der Sicherheitsleitung nach § 25 oder der Einstellung eines
-Verfahrens. Bei Registerverfahren ohne Projektbezug endet das
-Verfahren mit der Schließung des Kontos. Sollte ein
-Rechtsmittelverfahren anhängig sein, verlängern sich die
+(5) Bei Projekttätigkeiten endet das Verfahren mit der Rückgabe
+oder Verwertung der Sicherheitsleitung nach § 25 oder der
+Einstellung eines Verfahrens. Bei Registerverfahren ohne
+Projektbezug endet das Verfahren mit der Schließung des Kontos.
+Sollte ein Rechtsmittelverfahren anhängig sein, verlängern sich die
 Aufbewahrungsfristen bis zu dessen Abschluss.
 
 
 ### § 50 Datenübermittlung
 
 (1) Soweit es zur Durchführung dieser Verordnung oder zur Erfüllung
-von Berichtspflichten der Bundesregierung erforderlich ist, dürfen das
-Umweltbundesamt und die Biokraftstoffquotenstelle UER-Nachweise,
+von Berichtspflichten der Bundesregierung erforderlich ist, dürfen
+das Umweltbundesamt und die Biokraftstoffquotenstelle UER-Nachweise,
 Berichte über die durchgeführten Kontrollen sowie Informationen über
 die Höhe der zur Erfüllung der Verpflichtung zur Treibhausgasminderung
 angerechneten Upstream-Emissionsminderungen übermitteln, und zwar an
@@ -1876,49 +1571,40 @@ angerechneten Upstream-Emissionsminderungen übermitteln, und zwar an
 
     a)  das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit,
 
-
     b)  das Bundesministerium der Finanzen und die ihm nachgeordneten
         Behörden,
 
-
     c)  die Biokraftstoffquotenstelle,
-
 
     d)  das Umweltbundesamt,
 
-
-
-
-
-2.  Behörden von anderen Mitgliedstaaten der Europäischen Union sowie von
-    Drittstaaten und die von ihnen jeweils mit der Nachweisführung
+2.  Behörden von anderen Mitgliedstaaten der Europäischen Union sowie
+    von Drittstaaten und die von ihnen jeweils mit der Nachweisführung
     beauftragten Stellen,
-
 
 3.  Organe der Europäischen Union und
 
+4.  die in den nicht-legislativen Leitlinien der Europäischen Kommission
+    genannte zentrale Datenbank.
 
-4.[^f801540_03_BJNR016900018BJNE005201116]
-  die in den nicht-legislativen Leitlinien
-    der Europäischen Kommission genannte zentrale Datenbank.
-
-
-
-
-(2) Die Übermittlung von Daten nach Absatz 1 Nummer 2 und 3 erfolgt in
-Abstimmung mit dem Bundesministerium für Umwelt, Naturschutz und
+(2) Die Übermittlung von Daten nach Absatz 1 Nummer 2 und 3 erfolgt
+in Abstimmung mit dem Bundesministerium für Umwelt, Naturschutz und
 nukleare Sicherheit.
-
-[^f801540_03_BJNR016900018BJNE005201116]:     Die nicht-legislativen Leitlinien können unter dem folgenden Link
-    abgerufen werden:              https://ec.europa.eu/clima/sites/clima/
-    files/guidance\_note\_on\_uer\_en.pdf
 
 
 ### § 51 Bericht
 
-Das Umweltbundesamt evaluiert diese Verordnung regelmäßig und legt der
-Bundesregierung ab dem Jahr 2021 jährlich zum 31. Juli einen
+Das Umweltbundesamt evaluiert diese Verordnung regelmäßig und legt
+der Bundesregierung ab dem Jahr 2021 jährlich zum 31. Juli einen
 Erfahrungsbericht vor.
+
+
+### § 52 Übergangsregelung
+
+Für Projektaktivitäten, die bereits vor dem 8. Juni 2024 eine
+Zustimmung nach § 10 erhalten haben, findet § 18 in der am 8. Juni
+2024 geltenden Fassung keine Anwendung. Diese Projektaktivitäten
+werden nach dem bis zum 8. Juni 2024 geltenden Recht beendet.
 
 
 ## Teil 5 - Schlussbestimmungen
@@ -1929,6 +1615,93 @@ Erfahrungsbericht vor.
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
-### Anlage 1 (weggefallen)
+### Anlage Voraussetzungen für die Zusätzlichkeit von Projekttätigkeiten unter dem Übereinkommen von Paris sowie für den Ausschluss der Doppelzählung von Minderungserfolgen
 
+(Fundstelle: BGBl. 2024 I Nr. 183, S. 5 – 6)
+
+**Teil A**
+
+Die Projektdokumentation muss folgende Angaben enthalten, die
+von der Validierungsstelle geprüft werden müssen und Teil des
+Validierungsberichts sind:
+
+Angabe darüber,
+
+1.  dass der Gastgeberstaat ungekündigte Partei des Übereinkommens von
+    Paris ist,
+
+2.  dass die unter Artikel 6 Absatz 4 des Übereinkommens von Paris
+    benannte zuständige Stelle im Gastgeberstaat über die Projekttätigkeit
+    (insbesondere die Projektgrenzen, den Anrechnungszeitraum und die
+    erwartete Menge an UER) informiert ist oder dass eine entsprechende
+    Stelle vom Gastgeberstaat nicht benannt wurde,
+
+3.  ob sich das Ziel des vom Gastgeberstaat übernommenen national
+    festgelegten Beitrages nach dem Übereinkommen von Paris um ein
+    Punktziel handelt und wenn ja, auf welches Jahr sich dieses Punktziel
+    bezieht,
+
+4.  ob der Sektor, in dem die Projektaktivität durchgeführt wird, als
+    Teil eines kooperativen Ansatzes nach Artikel 6 des Übereinkommens
+    von Paris vorgesehen ist; wenn dem so ist, muss dargelegt werden, dass
+    die Projektaktivität außerhalb der Aktivitätsgrenzen des kooperativen
+    Ansatzes liegt;
+
+5.  dass die Projekttätigkeit zusätzlich nicht nur gegenüber der
+    bestehenden Rechtslage im Gastgeberstaat, sondern auch gegenüber den
+    beschlossenen Strategien zur Erreichung des übernommenen national
+    festgelegten Beitrages nach dem Übereinkommen von Paris ist.
+
+Zur Prüfung der in Satz 1 genannten Angaben muss die
+Validierungsstelle den jeweils aktuellen Transparenzbericht (Biennial
+Transparency Report, BTR) sowie einen gegebenenfalls vorliegenden
+Anfangsbericht nach Artikel 6 des Übereinkommens von Paris (Initial
+Reports unter Artikel 6, IR) heranzuziehen.
+
+**Teil B**
+
+Der Überwachungsbericht muss folgende Angaben enthalten, die
+von der Verifizierungsstelle geprüft werden müssen und Teil des
+Verifizierungsberichts sind:
+
+Angabe darüber,
+
+1.  dass der Gastgeberstaat ungekündigte Partei des Übereinkommens von
+    Paris ist,
+
+2.  dass die unter Artikel 6 Absatz 4 des Übereinkommens von Paris
+    benannte zuständige Stelle im Gastgeberstaat über die Projekttätigkeit
+    (insbesondere die Projektgrenzen, den Anrechnungszeitraum und die im
+    Verifizierungszeitraum erzielte Menge an UER) informiert ist oder dass
+    eine entsprechende Stelle vom Gastgeberstaat nicht benannt wurde,
+
+3.  dass der Anrechnungszeitraum der Projekttätigkeit vor dem ersten
+    Punktziel des vom Gastgeberstaat übernommenen national festgelegten
+    Beitrages nach dem Übereinkommen von Paris endet,
+
+4.  ob der Sektor, in dem die Projektaktivität durchgeführt wird, als
+    Teil eines kooperativen Ansatzes nach Artikel 6 des Übereinkommens
+    von Paris vorgesehen ist; wenn dem so ist, muss dargelegt werden, dass
+    die Projektaktivität außerhalb der Aktivitätsgrenzen des kooperativen
+    Ansatzes liegt;
+
+5.  dass die Projekttätigkeit zusätzlich nicht nur gegenüber der
+    bestehenden Rechtslage im Gastgeberstaat, sondern auch gegenüber den
+    beschlossenen Strategien zur Erreichung des übernommenen national
+    festgelegten Beitrages nach dem Übereinkommen von Paris ist;
+
+6.  dass keine Anhaltspunkte dafür vorliegen, dass der erzielte
+    Klimaschutzerfolg, für den UER-Nachweise ausgestellt werden sollen,
+    zugleich auf dem freiwilligen Kohlenstoffmarkt veräußert oder
+    verwendet werden.
+
+Zur Prüfung der in Satz 1 genannten Angaben muss die
+Verifizierungsstelle den jeweils aktuellen Transparenzbericht
+(Biennial Transparency Report, BTR) sowie einen gegebenenfalls
+vorliegenden Anfangsbericht nach Artikel 6 des Übereinkommens
+von Paris (Initial Reports unter Artikel 6, IR) heranzuziehen.
+Entwicklungen, die nach Abschluss der Validierung eingetreten sind
+und Relevanz für die in Satz 1 genannten Angaben haben, müssen vom
+Projektträger im Überwachungsbericht und von der Verifizierungsstelle
+im Verifizierungsbericht berücksichtigt werden.
 

@@ -1,7 +1,5 @@
 ---
-Title: Zweihundertfünfundzwanzigste Durchführungsverordnung zur Luftverkehrs-Ordnung
-  (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom
-  Verkehrsflughafen Friedrichshafen)
+Title: Zweihundertfünfundzwanzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Verkehrsflughafen Friedrichshafen)
 jurabk: LuftVODV 225
 layout: default
 origslug: luftvodv_225
@@ -16,4 +14,7 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BAnz: 2005, Nr 227, 16330
+
+Fundstelle
+:   BAnz: 2005, 16330
 

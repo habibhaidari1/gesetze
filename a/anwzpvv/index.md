@@ -1,6 +1,5 @@
 ---
-Title: Verordnung zur Festlegung eines späteren Anwendungszeitpunktes der Verpflichtungen
-  nach § 5b des Einkommensteuergesetzes
+Title: Verordnung zur Festlegung eines späteren Anwendungszeitpunktes der Verpflichtungen nach § 5b des Einkommensteuergesetzes
 jurabk: AnwZpvV
 layout: default
 origslug: anwzpvv
@@ -26,9 +25,9 @@ der Fassung der Bekanntmachung vom 8. Oktober 2009 (BGBl. I S. 3366,
 
 ## § 1 Verschiebung des erstmaligen Anwendungszeitpunktes der Verpflichtungen nach § 5b des Einkommensteuergesetzes
 
-Abweichend von § 52 Absatz 15a des Einkommensteuergesetzes sind die
-Bilanz und die Gewinn- und Verlustrechnung erstmals für
-Wirtschaftsjahre, die nach dem 31. Dezember 2011 beginnen,
+Abweichend von § 52 Absatz 15a des Einkommensteuergesetzes
+sind die Bilanz und die Gewinn- und Verlustrechnung erstmals
+für Wirtschaftsjahre, die nach dem 31. Dezember 2011 beginnen,
 elektronisch zu übermitteln.
 
 

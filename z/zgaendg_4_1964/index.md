@@ -16,13 +16,10 @@ Fundstelle
 :   BGBl I: 1964, 805
 
 
-
 ## Art 1
 
 
-
 ## Art 2
-
 
 
 ### § 1
@@ -59,3 +56,4 @@ tritt dieses Gesetz am Tage nach seiner Verkündung in Kraft.
 (Fundstelle: BGBl. I 1964, 806)
 
 ![bgbl1_1964_j0806_0010.jpg](bgbl1_1964_j0806_0010.jpg)
+

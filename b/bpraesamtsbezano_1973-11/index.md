@@ -16,16 +16,12 @@ Fundstelle
 :   BGBl I: 1973, 1743
 
 
-
 ## (XXXX)
 
 Gemäß § 81 Abs. 1 des Bundesbeamtengesetzes setze ich folgende
 Amtsbezeichnung fest:
 
-*   Vizepräsident
+-   Vizepräsident
 
     der Bundesanstalt für Flugsicherung.
-
-
-
 

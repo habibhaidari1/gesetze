@@ -16,16 +16,13 @@ Fundstelle
 :   BGBl I: 1994, 1416
 
 
-
 ## Art 1 - Gesetz über Nachfolgeeinrichtungen des Bundesgesundheitsamtes (BGA-Nachfolgegesetz - BGA-NachfG)
-
 
 
 ## Art 2 - Institut für Wasser-, Boden- und Lufthygiene
 
 
-
-## § 1 Eingliederung, Übernahme der Beamten und Arbeitnehmer
+### § 1 Eingliederung, Übernahme der Beamten und Arbeitnehmer
 
 Das Institut für Wasser-, Boden- und Lufthygiene wird in das
 Umweltbundesamt eingegliedert. Beamte und Arbeitnehmer dieses
@@ -33,13 +30,12 @@ Institutes sind vom Tage der Eingliederung an Beamte und Arbeitnehmer
 des Umweltbundesamtes.
 
 
-## § 2
+### § 2
 
 -
 
 
-## Art 3 bis 9 - 
-
+## Art 3 bis 9
 
 
 ## Art 10 - Rückkehr zum einheitlichen Verordnungsrang

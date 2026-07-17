@@ -22,12 +22,11 @@ Zuletzt geändert durch
 ## Abschnitt I - Gemeinsame Vorschriften
 
 
-
 ### § 1 Anwendungsbereich
 
 (1) Dieses Gesetz gilt für die Polizeivollzugsbeamten in der
-Bundespolizei, im kriminalpolizeilichen Vollzugsdienst des Bundes und
-für den Inspekteur der Bereitschaftspolizeien der Länder.
+Bundespolizei, im kriminalpolizeilichen Vollzugsdienst des Bundes
+und für den Inspekteur der Bereitschaftspolizeien der Länder.
 Polizeivollzugsbeamte im Sinne des Satzes 1 sind die mit polizeilichen
 Aufgaben betrauten und zur Anwendung unmittelbaren Zwanges befugten
 Beamten; welche dieser Beamtengruppen im einzelnen dazu gehören,
@@ -54,42 +53,23 @@ folgende Laufbahnen:
 
     a)  die Laufbahn des mittleren Polizeivollzugsdienstes,
 
-
     b)  die Laufbahn des gehobenen Polizeivollzugsdienstes,
 
-
     c)  die Laufbahn des höheren Polizeivollzugsdienstes;
-
-
-
-
 
 2.  im kriminalpolizeilichen Vollzugsdienst des Bundes:
 
     a)  die Laufbahn des gehobenen Kriminaldienstes,
 
-
     b)  die Laufbahn des höheren Kriminaldienstes;
-
-
-
-
 
 3.  beim Deutschen Bundestag:
 
     a)  die Laufbahn des mittleren Polizeivollzugsdienstes,
 
-
     b)  die Laufbahn des gehobenen Polizeivollzugsdienstes,
 
-
     c)  die Laufbahn des höheren Polizeivollzugsdienstes.
-
-
-
-
-
-
 
 (2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne
 Zustimmung des Bundesrates allgemeine Vorschriften für die Laufbahnen
@@ -98,23 +78,15 @@ zu erlassen, insbesondere Vorschriften über
 1.  die Gestaltung der Laufbahnen, einschließlich der regelmäßig zu
     durchlaufenden Ämter,
 
-
 2.  die Festlegung von Altersgrenzen,
-
 
 3.  den Erwerb der Laufbahnbefähigung,
 
-
 4.  die Grundsätze der Fortbildung,
-
 
 5.  die Voraussetzungen und das Verfahren für den Aufstieg und
 
-
 6.  die Voraussetzungen für den Laufbahnwechsel.
-
-
-
 
 (3) Das Bundesministerium des Innern, für Bau und Heimat wird
 ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
@@ -123,28 +95,22 @@ Vorbereitungsdienste zu erlassen, insbesondere Vorschriften über
 
 1.  das Auswahlverfahren für die Einstellung in den Vorbereitungsdienst,
 
-
 2.  den Ablauf des Vorbereitungsdienstes, insbesondere über dessen Inhalte
     und Dauer,
 
-
 3.  die Prüfung und das Prüfungsverfahren, einschließlich der
     Prüfungsnoten, sowie
-
 
 4.  die Folgen der Nichtteilnahme an Prüfungen und die Folgen von
     Ordnungsverstößen.
 
 
-
-
-
 ### § 4 Polizeidienstunfähigkeit
 
-(1) Der Polizeivollzugsbeamte ist dienstunfähig, wenn er den
-besonderen gesundheitlichen Anforderungen für den
-Polizeivollzugsdienst nicht mehr genügt und nicht zu erwarten ist, daß
-er seine volle Verwendungsfähigkeit innerhalb zweier Jahre
+(1) Der Polizeivollzugsbeamte ist dienstunfähig, wenn
+er den besonderen gesundheitlichen Anforderungen für den
+Polizeivollzugsdienst nicht mehr genügt und nicht zu erwarten ist,
+daß er seine volle Verwendungsfähigkeit innerhalb zweier Jahre
 wiedererlangt (Polizeidienstunfähigkeit), es sei denn, die auszuübende
 Funktion erfordert bei Beamten auf Lebenszeit diese besonderen
 gesundheitlichen Anforderungen auf Dauer nicht mehr uneingeschränkt.
@@ -153,11 +119,11 @@ gesundheitlichen Anforderungen auf Dauer nicht mehr uneingeschränkt.
 Grund des Gutachtens eines Amtsarztes oder eines beamteten Arztes, in
 der Bundespolizei eines beamteten Bundespolizeiarztes, festgestellt.
 
-(3) Die Bundesregierung kann jährlich bestimmen, in welchem Umfang für
-die nach § 44 Abs. 2 bis 5 des Bundesbeamtengesetzes anderweitig zu
-verwendenden Polizeivollzugsbeamten freie, frei werdende und neu
-geschaffene Planstellen für Beamte des mittleren, des gehobenen und
-des höheren Dienstes beim Bund und bei den bundesunmittelbaren
+(3) Die Bundesregierung kann jährlich bestimmen, in welchem Umfang
+für die nach § 44 Abs. 2 bis 5 des Bundesbeamtengesetzes anderweitig
+zu verwendenden Polizeivollzugsbeamten freie, frei werdende und
+neu geschaffene Planstellen für Beamte des mittleren, des gehobenen
+und des höheren Dienstes beim Bund und bei den bundesunmittelbaren
 Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts
 vorbehalten werden.
 
@@ -173,180 +139,27 @@ sie das 60. Lebensjahr vollenden. Für Polizeivollzugsbeamte, die nach
 dem 31. Dezember 1951 geboren sind, wird die Altersgrenze wie folgt
 angehoben:
 
-*    *   Geburtsjahr
-        Geburtsmonat
-
-    *   Anhebung
-        um Monate
-
-    *   Altersgrenze
-
-
-*    *   Jahr
-
-    *   Monat
-
-
-*    *   1952
-
-    *
-    *
-    *
-
-*    *   Januar
-
-    *   1
-
-    *   60
-
-    *   1
-
-
-*    *   Februar
-
-    *   2
-
-    *   60
-
-    *   2
-
-
-*    *   März
-
-    *   3
-
-    *   60
-
-    *   3
-
-
-*    *   April
-
-    *   4
-
-    *   60
-
-    *   4
-
-
-*    *   Mai
-
-    *   5
-
-    *   60
-
-    *   5
-
-
-*    *   Juni–Dezember
-
-    *   6
-
-    *   60
-
-    *   6
-
-
-*    *   1953
-
-    *   7
-
-    *   60
-
-    *   7
-
-
-*    *   1954
-
-    *   8
-
-    *   60
-
-    *   8
-
-
-*    *   1955
-
-    *   9
-
-    *   60
-
-    *   9
-
-
-*    *   1956
-
-    *   10
-
-    *   60
-
-    *   10
-
-
-*    *   1957
-
-    *   11
-
-    *   60
-
-    *   11
-
-
-*    *   1958
-
-    *   12
-
-    *   61
-
-    *   0
-
-
-*    *   1959
-
-    *   14
-
-    *   61
-
-    *   2
-
-
-*    *   1960
-
-    *   16
-
-    *   61
-
-    *   4
-
-
-*    *   1961
-
-    *   18
-
-    *   61
-
-    *   6
-
-
-*    *   1962
-
-    *   20
-
-    *   61
-
-    *   8
-
-
-*    *   1963
-
-    *   22
-
-    *   61
-
-    *   10
-
-
-
+| Geburtsjahr Geburtsmonat | Anhebung um Monate | Altersgrenze |  |
+| --- | --- | --- | --- |
+| Jahr | Monat |  |  |
+| 1952 |  |  |  |
+| Januar | 1 | 60 | 1 |
+| Februar | 2 | 60 | 2 |
+| März | 3 | 60 | 3 |
+| April | 4 | 60 | 4 |
+| Mai | 5 | 60 | 5 |
+| Juni–Dezember | 6 | 60 | 6 |
+| 1953 | 7 | 60 | 7 |
+| 1954 | 8 | 60 | 8 |
+| 1955 | 9 | 60 | 9 |
+| 1956 | 10 | 60 | 10 |
+| 1957 | 11 | 60 | 11 |
+| 1958 | 12 | 61 | 0 |
+| 1959 | 14 | 61 | 2 |
+| 1960 | 16 | 61 | 4 |
+| 1961 | 18 | 61 | 6 |
+| 1962 | 20 | 61 | 8 |
+| 1963 | 22 | 61 | 10 |
 
 (3) § 147 Absatz 2 des Bundesbeamtengesetzes gilt entsprechend.
 
@@ -359,24 +172,23 @@ angehoben:
 ## Abschnitt II - Polizeivollzugsbeamte in der Bundespolizei
 
 
-
 ### § 7 Ausbildung
 
-Die Polizeivollzugsbeamten erhalten eine Ausbildung, die sie für eine
-Verwendung im Polizeivollzugsdienst in der Bundespolizei und in den
-entsprechenden Laufbahnen des Polizeivollzugsdienstes der Länder
+Die Polizeivollzugsbeamten erhalten eine Ausbildung, die sie für
+eine Verwendung im Polizeivollzugsdienst in der Bundespolizei und in
+den entsprechenden Laufbahnen des Polizeivollzugsdienstes der Länder
 befähigen soll.
 
 
 ### § 8 Versetzung
 
-(1) Die Versetzung eines Beamten, der noch nicht zehn Dienstjahre seit
-seiner Einstellung in der Bundespolizei vollendet hat, in den
+(1) Die Versetzung eines Beamten, der noch nicht zehn Dienstjahre
+seit seiner Einstellung in der Bundespolizei vollendet hat, in den
 Polizeivollzugsdienst eines Landes bedarf nicht der Zustimmung des
-Beamten, wenn ein dienstliches Bedürfnis an der Versetzung besteht und
-das neue Amt einer gleichwertigen Laufbahn angehört wie das bisherige
-Amt und mit mindestens demselben Endgrundgehalt verbunden ist; zum
-Endgrundgehalt gehören auch Amtszulagen und ruhegehaltfähige
+Beamten, wenn ein dienstliches Bedürfnis an der Versetzung besteht
+und das neue Amt einer gleichwertigen Laufbahn angehört wie das
+bisherige Amt und mit mindestens demselben Endgrundgehalt verbunden
+ist; zum Endgrundgehalt gehören auch Amtszulagen und ruhegehaltfähige
 Stellenzulagen.
 
 (2) Der Polizeivollzugsbeamte kann auch in ein Amt einer Laufbahn
@@ -411,9 +223,9 @@ Anstalten und Stiftungen des öffentlichen Rechts vorbehalten werden.
 ### § 10 Wohnen in Gemeinschaftsunterkunft und Teilnahme an der Gemeinschaftsverpflegung
 
 (1) Die Polizeivollzugsbeamten, die noch nicht fünf Dienstjahre
-abgeleistet oder noch nicht das fünfundzwanzigste Lebensjahr vollendet
-haben, sind auf Anordnung des Dienstvorgesetzten verpflichtet, in
-einer Gemeinschaftsunterkunft zu wohnen und an einer
+abgeleistet oder noch nicht das fünfundzwanzigste Lebensjahr
+vollendet haben, sind auf Anordnung des Dienstvorgesetzten
+verpflichtet, in einer Gemeinschaftsunterkunft zu wohnen und an einer
 Gemeinschaftsverpflegung teilzunehmen.
 
 (2) Andere als in Absatz 1 bezeichnete Polizeivollzugsbeamte können
@@ -426,8 +238,8 @@ werden.
 ### § 11 Freizeitausgleich bei Einsätzen und Übungen
 
 Bei Einsätzen und bei Übungen von Verbänden, Einheiten oder
-Teileinheiten der Bundespolizei von einer Dauer von mehr als einem Tag
-wird anstelle einer Dienstbefreiung nach den §§ 87 und 88 des
+Teileinheiten der Bundespolizei von einer Dauer von mehr als einem
+Tag wird anstelle einer Dienstbefreiung nach den §§ 87 und 88 des
 Bundesbeamtengesetzes ein einheitlicher Freizeitausgleich festgesetzt,
 der die Dauer des Einsatzes oder der Übung und die damit verbundene
 dienstliche Beanspruchung angemessen berücksichtigen muß. Die
@@ -443,9 +255,9 @@ Hat ein Polizeivollzugsbeamter, der sich zum Eintritt in die
 Bundespolizei verpflichtet hat, auf Grund dieser Verpflichtung vor
 oder nach seiner Einstellung einen Studienplatz an einer Hochschule
 erlangt, so muß er die vom Dienstherrn getragenen Kosten des Studiums
-erstatten, wenn er entlassen wird, bevor er eine Dienstzeit von der
-dreifachen Dauer des Studiums abgeleistet hat; dies gilt nicht, wenn
-er wegen Polizeidienstunfähigkeit entlassen wird, die nicht auf
+erstatten, wenn er entlassen wird, bevor er eine Dienstzeit von
+der dreifachen Dauer des Studiums abgeleistet hat; dies gilt nicht,
+wenn er wegen Polizeidienstunfähigkeit entlassen wird, die nicht auf
 eigenes grobes Verschulden zurückzuführen ist. Auf die Erstattung kann
 ganz oder teilweise verzichtet werden, wenn sie für den Beamten eine
 besondere Härte bedeuten würde.
@@ -462,9 +274,9 @@ insgesamt vier Wochen überschritten hat, die Kosten je Fortbildungstag
 Fachwissen außerhalb des bisherigen Tätigkeitsbereichs einsetzbar ist.
 
 (2) Zu erstatten sind die für die Fortbildungsmaßnahme angefallenen
-Kosten mit Ausnahme der Reisekosten und des Trennungsgeldes. Der
-Erstattungsbetrag mindert sich für jedes volle Jahr, das die ehemalige
-Beamtin oder der ehemalige Beamte seit Abschluss der
+Kosten mit Ausnahme der Reisekosten und des Trennungsgeldes.
+Der Erstattungsbetrag mindert sich für jedes volle Jahr, das die
+ehemalige Beamtin oder der ehemalige Beamte seit Abschluss der
 Fortbildungsmaßnahme bei ihrem oder seinem bisherigen Dienstherrn
 Dienst geleistet hat, um ein Viertel. Der Erstattungsbetrag wird vom
 bisherigen Dienstherrn durch schriftlichen Bescheid zur Erstattung
@@ -484,7 +296,6 @@ Beamtin oder des ehemaligen Beamten.
 ## Abschnitt III - Übergangs- und Schlußvorschriften
 
 
-
 ### § 13 (weggefallen)
 
 -
@@ -492,15 +303,15 @@ Beamtin oder des ehemaligen Beamten.
 
 ### § 14 Verweisungen und Bezeichnungen in anderen Vorschriften
 
-Wird in anderen Vorschriften auf Vorschriften und Bezeichnungen
+*Wird in anderen Vorschriften auf Vorschriften und Bezeichnungen
 verwiesen, die durch dieses Gesetz geändert worden oder weggefallen
 sind, treten an ihre Stelle die Vorschriften und Bezeichnungen nach
-den geänderten Vorschriften.
+den geänderten Vorschriften.*
 
 
 ### § 15 Verwaltungsvorschriften
 
-Das Bundesministerium des Innern, für Bau und Heimat erläßt die zur
-Durchführung dieses Gesetze erforderlichen allgemeinen
+Das Bundesministerium des Innern, für Bau und Heimat erläßt
+die zur Durchführung dieses Gesetze erforderlichen allgemeinen
 Verwaltungsvorschriften.
 

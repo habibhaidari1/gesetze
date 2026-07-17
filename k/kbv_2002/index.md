@@ -19,26 +19,19 @@ Geändert durch
 :   Art. 3 G v. 18.7.2016 I 1679
 
 
-
 ## § 1 Änderung oder Berichtigung von Steuerfestsetzungen
 
 (1) Festsetzungen der
 
 1.  Einkommensteuer,
 
-
 2.  Körperschaftsteuer,
-
 
 3.  Erbschaftsteuer (Schenkungsteuer),
 
-
 4.  Grunderwerbsteuer sowie
 
-
 5.  der Rennwett- und Lotteriesteuer
-
-
 
 werden nur geändert oder berichtigt, wenn die Abweichung von der
 bisherigen Festsetzung bei einer Änderung oder Berichtigung zugunsten
@@ -48,10 +41,10 @@ beträgt. Bei der Einkommensteuer und bei der Körperschaftsteuer ist
 die jeweils nach Anrechnung von Steuerabzugsbeträgen verbleibende
 Steuerschuld zu vergleichen.
 
-(2) Eine angemeldete Umsatzsteuervorauszahlung, eine für das
-Kalenderjahr angemeldete Umsatzsteuer, eine angemeldete
-Feuerschutzsteuer oder eine angemeldete Versicherungsteuer wird von
-der Finanzbehörde nur abweichend festgesetzt, geändert oder
+(2) Eine angemeldete Umsatzsteuervorauszahlung, eine für
+das Kalenderjahr angemeldete Umsatzsteuer, eine angemeldete
+Feuerschutzsteuer oder eine angemeldete Versicherungsteuer wird
+von der Finanzbehörde nur abweichend festgesetzt, geändert oder
 berichtigt, wenn die Abweichung von der angemeldeten Steuer im Fall
 einer Abweichung zugunsten des Steuerpflichtigen mindestens 10 Euro
 oder im Fall einer Abweichung zuungunsten des Steuerpflichtigen
@@ -65,9 +58,9 @@ gilt Absatz 2 entsprechend.
 
 ## § 2 Änderung oder Berichtigung der Festsetzung eines Gewerbesteuermessbetrages
 
-Die Festsetzung eines Gewerbesteuermessbetrages wird nur geändert oder
-berichtigt, wenn die Abweichung von der bisherigen Festsetzung bei
-einer Änderung oder Berichtigung zugunsten des Steuerpflichtigen
+Die Festsetzung eines Gewerbesteuermessbetrages wird nur geändert
+oder berichtigt, wenn die Abweichung von der bisherigen Festsetzung
+bei einer Änderung oder Berichtigung zugunsten des Steuerpflichtigen
 mindestens 2 Euro und bei einer Änderung oder Berichtigung zuungunsten
 des Steuerpflichtigen mindestens 5 Euro beträgt.
 
@@ -80,8 +73,8 @@ berichtigt, wenn sich diese Einkünfte bei mindestens einem Beteiligten
 um mindestens 25 Euro ermäßigen oder erhöhen.
 
 (2) Bei gesonderten Feststellungen wird in den Fällen des § 180 Absatz
-1 Satz 1 Nummer 2 Buchstabe b der Abgabenordnung die Feststellung zur
-Höhe der Einkünfte nur geändert oder berichtigt, wenn sich diese
+1 Satz 1 Nummer 2 Buchstabe b der Abgabenordnung die Feststellung
+zur Höhe der Einkünfte nur geändert oder berichtigt, wenn sich diese
 Einkünfte um mindestens 25 Euro ermäßigen oder erhöhen.
 
 

@@ -1,5 +1,5 @@
 ---
-Title: Gesetz über den Bau der "Südumfahrung Stendal" der Eisenbahnstrecke Berlin-Oebisfelde
+Title: "Gesetz über den Bau der \"Südumfahrung Stendal\" der Eisenbahnstrecke Berlin-Oebisfelde"
 jurabk: SüdumfStG
 layout: default
 origslug: s_dumfstg
@@ -63,18 +63,14 @@ Behörde hat zusätzliche Regelungen zu treffen,
 1.  soweit ihr die abschließende Entscheidung in dem Plan nach § 1 oder in
     einer Rechtsverordnung nach Absatz 1 vorbehalten ist,
 
-
 2.  wenn nicht vorhersehbare Wirkungen des Vorhabens oder der dem Plan
     nach § 1 oder einer Rechtsverordnung nach Absatz 1 entsprechenden
     Anlagen auf die benachbarten Grundstücke erst nach Inkrafttreten
-    dieses Gesetzes auftreten und der Betroffene Vorkehrungen oder die
-    Errichtung und Unterhaltung von Anlagen verlangt, welche die
+    dieses Gesetzes auftreten und der Betroffene Vorkehrungen oder
+    die Errichtung und Unterhaltung von Anlagen verlangt, welche die
     nachteiligen Wirkungen ausschließen,
 
-
 3.  soweit es sich um Planänderungen von unwesentlicher Bedeutung handelt.
-
-
 
 Auf das Verfahren finden die für die Planfeststellung geltenden
 Vorschriften Anwendung.
@@ -91,8 +87,8 @@ der Verwaltungsgerichtsordnung entsprechende Anwendung.
 Sondervermögen Deutsche Reichsbahn - ist zulässig, soweit sie zur
 Ausführung des Planes nach den §§ 1 und 2 notwendig ist.
 
-(2) Das Enteignungsverfahren richtet sich nach den §§ 104 bis 122 des
-Baugesetzbuchs mit der Maßgabe, daß für die vorzeitige
+(2) Das Enteignungsverfahren richtet sich nach den §§ 104 bis
+122 des Baugesetzbuchs mit der Maßgabe, daß für die vorzeitige
 Besitzeinweisung (§ 116) § 4 dieses Gesetzes gilt.
 
 (3) Für die Enteignungsentschädigung gelten die §§ 93 bis 103 des
@@ -105,26 +101,26 @@ entsprechend.
 
 ## § 4 Vorzeitige Besitzeinweisung
 
-(1) Weigert sich der Eigentümer oder Besitzer, den Besitz eines für
-das Vorhaben benötigten Grundstücks durch Vereinbarung unter Vorbehalt
-aller Entschädigungsansprüche zu überlassen, so hat die
+(1) Weigert sich der Eigentümer oder Besitzer, den Besitz eines
+für das Vorhaben benötigten Grundstücks durch Vereinbarung unter
+Vorbehalt aller Entschädigungsansprüche zu überlassen, so hat die
 Enteignungsbehörde die Deutsche Reichsbahn auf Antrag in den Besitz
 einzuweisen. Weiterer Voraussetzungen bedarf es nicht.
 
 (2) Die Enteignungsbehörde hat spätestens sechs Wochen nach Eingang
 des Antrages auf Besitzeinweisung mit den Beteiligten mündlich zu
-verhandeln. Hierzu sind die Deutsche Reichsbahn und die Betroffenen zu
-laden. Dabei ist den Betroffenen der Antrag auf Besitzeinweisung
-mitzuteilen. Die Ladungsfrist beträgt drei Wochen. Mit der Ladung sind
-die Betroffenen aufzufordern, etwaige Einwendungen gegen den Antrag
-vor der mündlichen Verhandlung bei der Enteignungsbehörde
+verhandeln. Hierzu sind die Deutsche Reichsbahn und die Betroffenen
+zu laden. Dabei ist den Betroffenen der Antrag auf Besitzeinweisung
+mitzuteilen. Die Ladungsfrist beträgt drei Wochen. Mit der Ladung
+sind die Betroffenen aufzufordern, etwaige Einwendungen gegen den
+Antrag vor der mündlichen Verhandlung bei der Enteignungsbehörde
 einzureichen. Sie sind außerdem darauf hinzuweisen, daß auch bei
 Nichterscheinen über den Antrag auf Besitzeinweisung und andere im
 Verfahren zu erledigende Anträge entschieden werden kann.
 
 (3) Soweit der Zustand des Grundstücks von Bedeutung ist, hat die
-Enteignungsbehörde diesen bis zum Beginn der mündlichen Verhandlung in
-einer Niederschrift festzustellen oder durch einen Sachverständigen
+Enteignungsbehörde diesen bis zum Beginn der mündlichen Verhandlung
+in einer Niederschrift festzustellen oder durch einen Sachverständigen
 ermitteln zu lassen. Den Beteiligten ist eine Abschrift der
 Niederschrift oder des Ermittlungsergebnisses zu übersenden.
 
@@ -142,8 +138,8 @@ Maßnahmen treffen. Der Beschluß über die Besitzeinweisung ist sofort
 vollziehbar.
 
 (5) Die Deutsche Reichsbahn hat für die durch die vorzeitige
-Besitzeinweisung entstehenden Vermögensnachteile Entschädigung zu
-leisten, soweit die Nachteile nicht durch die Verzinsung der
+Besitzeinweisung entstehenden Vermögensnachteile Entschädigung
+zu leisten, soweit die Nachteile nicht durch die Verzinsung der
 Geldentschädigung für die Entziehung oder Beschränkung des Eigentums
 oder eines anderen Rechtes ausgeglichen werden. Art und Höhe der
 Entschädigung sind von der Enteignungsbehörde in einem Beschluß
@@ -155,8 +151,8 @@ festzusetzen.
 Sind die Eigentumsverhältnisse an einem Grundstück ungeklärt, so hat
 die kommunale Aufsichtsbehörde der Gemeinde, in der das betroffene
 Grundstück liegt, in den Fällen der §§ 3 und 4 auf Antrag der
-Enteignungsbehörde innerhalb von zwei Wochen nach Antragstellung einen
-Vertreter des Eigentümers zu bestellen. § 16 Abs. 3 und 4 des
+Enteignungsbehörde innerhalb von zwei Wochen nach Antragstellung
+einen Vertreter des Eigentümers zu bestellen. § 16 Abs. 3 und 4 des
 Verwaltungsverfahrensgesetzes findet Anwendung.
 
 

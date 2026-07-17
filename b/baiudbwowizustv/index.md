@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Zuständigkeit des Bundesamtes für Infrastruktur, Umweltschutz
-  und Dienstleistungen der Bundeswehr für die Verfolgung und Ahndung von Ordnungswidrigkeiten
+Title: Verordnung über die Zuständigkeit des Bundesamtes für Infrastruktur, Umweltschutz und Dienstleistungen der Bundeswehr für die Verfolgung und Ahndung von Ordnungswidrigkeiten
 jurabk: BAIUDBwOWiZustV
 layout: default
 origslug: baiudbwowizustv
@@ -16,11 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2013, 1685
 
-Geändert durch
-:   Art. 1 V v. 8.12.2019; 2020 I 2
-
-Änderung durch
-:   Art. 1 V v. 31.8.2021 I 4162 (Nr. 63) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 4 Abs. 4 V v. 20.6.2023 I Nr. 159
 
 
 ## Eingangsformel
@@ -37,8 +33,8 @@ der Verteidigung:
 Die Zuständigkeit für die Verfolgung und Ahndung von
 Ordnungswidrigkeiten nach § 60 des Lebensmittel- und
 Futtermittelgesetzbuchs wird auf das Bundesamt für Infrastruktur,
-Umweltschutz und Dienstleistungen der Bundeswehr übertragen, soweit
-nach § 38 Absatz 2 Satz 1 des Lebensmittel- und
+Umweltschutz und Dienstleistungen der Bundeswehr übertragen,
+soweit nach § 38 Absatz 2 Satz 1 des Lebensmittel- und
 Futtermittelgesetzbuchs die Durchführung dieses Gesetzes im
 Geschäftsbereich des Bundesministeriums der Verteidigung den
 zuständigen Stellen und Sachverständigen der Bundeswehr obliegt.
@@ -47,9 +43,9 @@ zuständigen Stellen und Sachverständigen der Bundeswehr obliegt.
 ## § 2 Zuständigkeit nach dem Tierschutzgesetz
 
 Die Zuständigkeit für die Verfolgung und Ahndung von
-Ordnungswidrigkeiten nach § 18 des Tierschutzgesetzes wird auf das
-Bundesamt für Infrastruktur, Umweltschutz und Dienstleistungen der
-Bundeswehr übertragen, soweit nach § 15 Absatz 3 Satz 1 des
+Ordnungswidrigkeiten nach § 18 des Tierschutzgesetzes wird auf
+das Bundesamt für Infrastruktur, Umweltschutz und Dienstleistungen
+der Bundeswehr übertragen, soweit nach § 15 Absatz 3 Satz 1 des
 Tierschutzgesetzes die Durchführung dieses Gesetzes im Bereich der
 Bundeswehr den zuständigen Dienststellen der Bundeswehr obliegt.
 
@@ -58,8 +54,8 @@ Bundeswehr den zuständigen Dienststellen der Bundeswehr obliegt.
 
 Die Zuständigkeit für die Verfolgung und Ahndung von
 Ordnungswidrigkeiten nach § 32 des Tiergesundheitsgesetzes wird auf
-das Bundesamt für Infrastruktur, Umweltschutz und Dienstleistungen der
-Bundeswehr übertragen, soweit nach § 28 Absatz 1 Satz 1 des
+das Bundesamt für Infrastruktur, Umweltschutz und Dienstleistungen
+der Bundeswehr übertragen, soweit nach § 28 Absatz 1 Satz 1 des
 Tiergesundheitsgesetzes die Durchführung dieses Gesetzes im Bereich
 der Bundeswehr den zuständigen Dienststellen der Bundeswehr obliegt.
 
@@ -79,52 +75,51 @@ Dienststellen der Bundeswehr obliegt.
 
 Die Zuständigkeit für die Verfolgung und Ahndung von
 Ordnungswidrigkeiten nach § 73 des Infektionsschutzgesetzes wird auf
-das Bundesamt für Infrastruktur, Umweltschutz und Dienstleistungen der
-Bundeswehr übertragen, soweit nach § 70 Absatz 1 des
-Infektionsschutzgesetzes der Vollzug dieses Gesetzes im
-Geschäftsbereich des Bundesministeriums der Verteidigung den
+das Bundesamt für Infrastruktur, Umweltschutz und Dienstleistungen
+der Bundeswehr übertragen, soweit nach § 54a Absatz 1 des
+Infektionsschutzgesetzes der Vollzug des Infektionsschutzgesetzes den
 zuständigen Stellen der Bundeswehr obliegt.
 
 
-## § 6 Zuständigkeit nach dem Medizinproduktegesetz bis einschließlich 25. Mai 2022
-
-Die Zuständigkeit für die Verfolgung und Ahndung von
-Ordnungswidrigkeiten in Bezug auf In-vitro-Diagnostika nach § 2 Absatz
-1 Satz 2 Nummer 1 des Medizinprodukterecht-Durchführungsgesetzes in
-Verbindung mit den §§ 42 und 38 Absatz 2 des Medizinproduktegesetzes
-in der bis einschließlich 25. Mai 2021 geltenden Fassung wird bis
-einschließlich 25. Mai 2022 auf das Bundesamt für Infrastruktur,
-Umweltschutz und Dienstleistungen der Bundeswehr übertragen.
-
-Zuständigkeit nach dem
-
-## § 7 Medizinprodukterecht-Durchführungsgesetz
+## § 6 Zuständigkeit nach dem Medizinprodukterecht-Durchführungsgesetz
 
 Die Zuständigkeit für die Verfolgung und Ahndung von
 Ordnungswidrigkeiten nach § 94 in Verbindung mit § 90 Absatz 2 des
-Medizinprodukterecht- Durchführungsgesetzes wird auf das Bundesamt für
-Infrastruktur, Umweltschutz und Dienstleistungen der Bundeswehr
+Medizinprodukterecht- Durchführungsgesetzes wird auf das Bundesamt
+für Infrastruktur, Umweltschutz und Dienstleistungen der Bundeswehr
 übertragen.
+
+
+## § 7 Zuständigkeit nach dem Gefahrgutbeförderungsgesetz in Verbindung mit der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt
+
+Die Zuständigkeit für die Verfolgung und Ahndung von
+Ordnungswidrigkeiten nach § 10 Absatz 1 Nummer 1 Buchstabe b
+des Gefahrgutbeförderungsgesetzes in Verbindung mit § 37 der
+Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt wird auf
+das Bundesamt für Infrastruktur, Umweltschutz und Dienstleistungen
+der Bundeswehr übertragen, soweit nach § 7 Absatz 1 und 3 der
+Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt
+der Vollzug der Gefahrgutverordnung Straße, Eisenbahn und
+Binnenschifffahrt den zuständigen Dienststellen der Bundeswehr
+obliegt.
 
 
 ## § 8 Zuständigkeit nach der Trinkwasserverordnung
 
 Die Zuständigkeit für die Verfolgung und Ahndung von
-Ordnungswidrigkeiten nach § 25 der Trinkwasserverordnung wird auf das
-Bundesamt für Infrastruktur, Umweltschutz und Dienstleistungen der
-Bundeswehr übertragen, soweit nach § 22 der Trinkwasserverordnung der
-Vollzug der Verordnung im Bereich der Bundeswehr sowie im Bereich der
-auf Grund völkerrechtlicher Verträge in der Bundesrepublik Deutschland
-stationierten Truppen den zuständigen Dienststellen der Bundeswehr
-obliegt.
+Ordnungswidrigkeiten nach § 72 Absatz 1 der Trinkwasserverordnung
+wird auf das Bundesamt für Infrastruktur, Umweltschutz und
+Dienstleistungen der Bundeswehr übertragen, soweit nach § 54a Absatz 1
+des Infektionsschutzgesetzes der Vollzug der Trinkwasserverordnung den
+zuständigen Stellen der Bundeswehr obliegt.
 
 
 ## § 9 Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am 1. Juli 2013 in Kraft. Gleichzeitig tritt
-die Verordnung über die Zuständigkeit des Bundesamtes für
-Wehrverwaltung und der Wehrbereichsverwaltungen für die Verfolgung und
-Ahndung von Ordnungswidrigkeiten nach dem Lebensmittel- und
+Diese Verordnung tritt am 1. Juli 2013 in Kraft. Gleichzeitig
+tritt die Verordnung über die Zuständigkeit des Bundesamtes für
+Wehrverwaltung und der Wehrbereichsverwaltungen für die Verfolgung
+und Ahndung von Ordnungswidrigkeiten nach dem Lebensmittel- und
 Futtermittelgesetzbuch und dem Tierschutzgesetz vom 12. September 2006
 (BGBl. I S. 2135) außer Kraft.
 

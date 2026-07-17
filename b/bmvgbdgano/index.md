@@ -1,6 +1,5 @@
 ---
-Title: Anordnung zur Übertragung disziplinarrechtlicher Zuständigkeiten und Befugnisse
-  im Geschäftsbereich des Bundesministeriums der Verteidigung
+Title: Anordnung zur Übertragung disziplinarrechtlicher Zuständigkeiten und Befugnisse im Geschäftsbereich des Bundesministeriums der Verteidigung
 jurabk: BMVgBDGAnO
 layout: default
 origslug: bmvgbdgano
@@ -17,10 +16,7 @@ Fundstelle
 :   BGBl I: 2013, 1596
 
 Zuletzt geändert durch
-:   Art. 1 AnO v. 17.9.2017 I 3430
-
-Änderung durch
-:   Art. 1 AnO v. 1.9.2021 I 4190 (Nr. 63) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 AnO v. 4.6.2025 I Nr. 141
 
 
 ## Eingangsformel
@@ -32,113 +28,84 @@ Nach § 33 Absatz 5, § 34 Absatz 2 Satz 2, § 42 Absatz 1 Satz 2 und §
 
 ## § 1
 
-Die Befugnis zur Kürzung der Dienstbezüge bis zum Höchstmaß nach § 33
-Absatz 3 Nummer 1 des Bundesdisziplinargesetzes wird für den
-jeweiligen Kommando- oder Geschäftsbereich übertragen:
+Die Befugnis zur Kürzung der Dienstbezüge bis zum Höchstmaß nach §
+33 Absatz 3 Nummer 1 des Bundesdisziplinargesetzes in der bis zum
+31\. März 2024 geltenden Fassung und nach § 34 Absatz 2 Nummer 1
+des Bundesdisziplinargesetzes in der ab dem 1. April 2024 geltenden
+Fassung wird für den jeweiligen Kommando- oder Geschäftsbereich
+übertragen:
 
 1.  den Inspekteurinnen oder Inspekteuren
 
     a)  des Heeres,
 
-
     b)  der Luftwaffe,
-
 
     c)  der Marine,
 
+    d)  des Cyber- und Informationsraums,
 
-    d)  des Zentralen Sanitätsdienstes der Bundeswehr,
+2.  der Befehlshaberin oder dem Befehlshaber
 
+    a)  des Unterstützungskommandos der Bundeswehr,
 
-    e)  der Streitkräftebasis,
-
-
-    f)  des Cyber- und Informationsraums,
-
-
-
-
-
-2.  der Befehlshaberin oder dem Befehlshaber des Einsatzführungskommandos
-    der Bundeswehr,
-
+    b)  des Operativen Führungskommandos der Bundeswehr,
 
 3.  den Präsidentinnen oder Präsidenten
 
     a)  des Bildungszentrums der Bundeswehr,
 
-
     b)  des Bundesamtes für Ausrüstung, Informationstechnik und Nutzung der
         Bundeswehr,
 
-
     c)  des Bundesamtes für das Personalmanagement der Bundeswehr,
 
-
     d)  des Bundesamtes für den Militärischen Abschirmdienst,
-
 
     e)  des Bundesamtes für Infrastruktur, Umweltschutz und Dienstleistungen
         der Bundeswehr,
 
-
     f)  des Bundessprachenamtes,
-
 
     g)  der Truppendienstgerichte,
 
-
     h)  der Universitäten der Bundeswehr,
 
-
-
-
-
-4.  der Amtschefin oder dem Amtschef des Luftfahrtamtes der Bundeswehr,
-
-
-5.  der Präsidentin, dem Präsidenten, der Amtschefin oder dem Amtschef des
-    Planungsamtes der Bundeswehr,
-
-
-6.  der Kommandeurin oder dem Kommandeur der Führungsakademie der
+4.  der Kommandeurin oder dem Kommandeur der Führungsakademie der
     Bundeswehr,
 
+5.  der Kommandeurin oder dem Kommandeur des Zentrums Innere Führung,
 
-7.  der Kommandeurin oder dem Kommandeur des Zentrums Innere Führung,
-
-
-8.  der Leiterin oder dem Leiter des Evangelischen Kirchenamtes für die
+6.  der Leiterin oder dem Leiter des Evangelischen Kirchenamtes für die
     Bundeswehr,
 
+7.  dem Leiter des Katholischen Militärbischofsamtes,
 
-9.  dem Leiter des Katholischen Militärbischofsamtes,
+8.  der Leiterin oder dem Leiter des Militärrabbinats,
 
-
-10. der Leiterin oder dem Leiter des Militärrabbinats,
-
-
-11. der Bundeswehrdisziplinaranwältin oder dem
+9.  der Bundeswehrdisziplinaranwältin oder dem
     Bundeswehrdisziplinaranwalt,
 
-
-12. der dienstaufsichtführenden Rechtsberaterin oder dem
+10. der dienstaufsichtführenden Rechtsberaterin oder dem
     dienstaufsichtführenden Rechtsberater in den dem Bundesministerium der
     Verteidigung unmittelbar nachgeordneten Dienststellen sowie
 
-
-13. der Leiterin oder dem Leiter des Fachbereichs Bundeswehrverwaltung der
+11. der Leiterin oder dem Leiter des Fachbereichs Bundeswehrverwaltung der
     Hochschule des Bundes für öffentliche Verwaltung.
-
-
-
 
 
 ## § 2
 
-Die Befugnis zur Erhebung der Disziplinarklage nach § 34 Absatz 2 Satz
-1 des Bundesdisziplinargesetzes wird den in § 1 genannten
-Dienstvorgesetzten übertragen.
+(1) Die Befugnis zur Erhebung der Disziplinarklage nach § 34 Absatz
+2 Satz 1 des Bundesdisziplinargesetzes in der bis zum 31. März 2024
+geltenden Fassung wird den in § 1 genannten Dienstvorgesetzten für bis
+zu diesem Zeitpunkt eingeleitete Disziplinarverfahren übertragen.
+
+(2) Die Befugnis zum Aussprechen der Zurückstufung und der Entfernung
+aus dem Beamtenverhältnis nach § 34 Absatz 4 Halbsatz 1 des
+Bundesdisziplinargesetzes wird für ab dem 1. April 2024 eingeleitete
+Disziplinarverfahren den in § 1 genannten Dienstvorgesetzten
+übertragen.
 
 
 ## § 3
@@ -155,7 +122,11 @@ erlassen hat, den Widerspruchsbescheid.
 Die Disziplinarbefugnisse gegenüber Ruhestandsbeamtinnen und
 Ruhestandsbeamten nach § 84 Satz 1 des Bundesdisziplinargesetzes
 werden der Präsidentin oder dem Präsidenten des Bundesamtes für das
-Personalmanagement der Bundeswehr übertragen.
+Personalmanagement der Bundeswehr übertragen. Für vor dem Ruhestand
+eingeleitete Disziplinarverfahren werden diese Disziplinarbefugnisse
+der bzw. dem in § 1 genannten Dienstvorgesetzten übertragen, die
+bzw. der vor Eintritt der Beamtin oder des Beamten in den Ruhestand
+disziplinarrechtlich zuständig gewesen ist.
 
 
 ## § 5

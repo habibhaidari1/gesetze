@@ -47,32 +47,23 @@ Verordnung (Eurojust-Kontaktstellen) sind:
 
     a)  Netzwerk nationaler Experten für gemeinsame Ermittlungsgruppen,
 
-
     b)  Netzwerk im Sinne des Beschlusses 2002/494/JI des Rates vom 13. Juni
         2002 zur Einrichtung eines Europäischen Netzes von Anlaufstellen
         betreffend Personen, die für Völkermord, Verbrechen gegen die
         Menschlichkeit und Kriegsverbrechen verantwortlich sind (ABl. L 167
         vom 26.6.2002, S. 1),
 
-
-    c)  Netzwerk im Sinne des Beschlusses 2007/845/JI des Rates vom 6.
-        Dezember 2007 über die Zusammenarbeit zwischen den
+    c)  Netzwerk im Sinne des Beschlusses 2007/845/JI des Rates
+        vom 6. Dezember 2007 über die Zusammenarbeit zwischen den
         Vermögensabschöpfungsstellen der Mitgliedstaaten auf dem Gebiet des
         Aufspürens und der Ermittlung von Erträgen aus Straftaten oder anderen
         Vermögensgegenständen im Zusammenhang mit Straftaten (ABl. L 332 vom
         18\.12.2007, S. 103) und
 
-
-
-
-
 2.  die Justizbehörde, die von der Bundesregierung für das Netzwerk im
-    Sinne des Beschlusses 2008/852/JI des Rates vom 24. Oktober 2008 über
-    ein Kontaktstellennetz zur Korruptionsbekämpfung (ABl. L 301 vom
+    Sinne des Beschlusses 2008/852/JI des Rates vom 24. Oktober 2008
+    über ein Kontaktstellennetz zur Korruptionsbekämpfung (ABl. L 301 vom
     12\.11.2008, S. 38) benannt ist.
-
-
-
 
 
 ## § 4 Nationales Eurojust-Koordinierungssystem
@@ -81,14 +72,10 @@ Verordnung (Eurojust-Kontaktstellen) sind:
 
 1.  den Eurojust-Anlaufstellen,
 
-
 2.  den Eurojust-Kontaktstellen und
-
 
 3.  dem Generalbundesanwalt beim Bundesgerichtshof als nationaler
     Anlaufstelle im Sinne von § 1 der Eurojust-Anlaufstellen-Verordnung
-
-
 
 wird ein nationales Eurojust-Koordinierungssystem eingerichtet.
 

@@ -1,7 +1,5 @@
 ---
-Title: Bekanntmachung über die Übernahme des Beschlusses des Deutschen Bundestages
-  betr. Aufhebung der Immunität von Mitgliedern des Bundestages und der Grundsätze
-  in Immunitätsangelegenheiten
+Title: Bekanntmachung über die Übernahme des Beschlusses des Deutschen Bundestages betr. Aufhebung der Immunität von Mitgliedern des Bundestages und der Grundsätze in Immunitätsangelegenheiten
 jurabk: BTGO1980Anl6Bek 2014
 layout: default
 origslug: btgo1980anl6bek_2014
@@ -27,8 +25,8 @@ Geschäftsordnung in der 1. Sitzung des Deutschen Bundestages am 22.
 Oktober 2013 für die 18. Wahlperiode übernommen worden.
 
 Der Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung des
-Deutschen Bundestages hat am 30. Januar 2014 gemäß § 107 Absatz 2 der
-Geschäftsordnung des Deutschen Bundestages die Übernahme der
+Deutschen Bundestages hat am 30. Januar 2014 gemäß § 107 Absatz 2
+der Geschäftsordnung des Deutschen Bundestages die Übernahme der
 Grundsätze in Immunitätsangelegenheiten und in Fällen der Genehmigung
 gemäß § 50 Absatz 3 der Strafprozessordnung und § 382 Absatz 3 der
 Zivilprozessordnung sowie bei Ermächtigungen gemäß § 90b Absatz 2, §

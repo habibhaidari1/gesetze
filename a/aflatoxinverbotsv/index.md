@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über das Verbot der Verwendung von mit Aflatoxinen kontaminierten
-  Stoffen bei der Herstellung von Arzneimitteln
+Title: Verordnung über das Verbot der Verwendung von mit Aflatoxinen kontaminierten Stoffen bei der Herstellung von Arzneimitteln
 jurabk: AflatoxinverbotsV
 layout: default
 origslug: aflatoxinverbotsv
@@ -20,7 +19,6 @@ Geändert durch
 :   Art. 10 G v. 17.7.2009 I 1990
 
 
-
 ## Eingangsformel
 
 Das Bundesministerium für Gesundheit verordnet auf Grund
@@ -28,7 +26,6 @@ Das Bundesministerium für Gesundheit verordnet auf Grund
 -   des § 6 Abs. 1 und 2 des Arzneimittelgesetzes in der Fassung der
     Bekanntmachung vom 11. Dezember 1998 (BGBl. I S. 3585) im Einvernehmen
     mit dem Bundesministerium für Ernährung, Landwirtschaft und Forsten;
-
 
 -   des § 54 Abs. 1 und 2 des Arzneimittelgesetzes in Verbindung mit
     Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975
@@ -38,25 +35,22 @@ Das Bundesministerium für Gesundheit verordnet auf Grund
     Landwirtschaft und Forsten:
 
 
-
-
-
 ## § 1
 
 (1) Es ist verboten, bei der Herstellung von Arzneimitteln Stoffe,
-Zubereitungen aus Stoffen oder Erzeugnisse zu verwenden, bei denen die
-auf mindestens 88 Prozent Trockenmasse berechnete Höchstmenge an
-Aflatoxin M1 von 0,05 Mikrogramm pro Kilogramm, an Aflatoxin B1 von 2
-Mikrogramm pro Kilogramm oder die Gesamtmenge der Aflatoxine B1, B2,
-G1 und G2 von 4 Mikrogramm pro Kilogramm überschritten wird. Für
-Enzyme und Enzymzubereitungen gilt Satz 1 mit der Maßgabe, dass die
-Gesamtmenge der Aflatoxine B1, B2, G1 und G2 0,05 Mikrogramm pro
-Kilogramm nicht überschreiten darf. Abweichend von Satz 1 gelten für
-Fütterungsarzneimittel die futtermittelrechtlich festgesetzten
+Zubereitungen aus Stoffen oder Erzeugnisse zu verwenden, bei denen
+die auf mindestens 88 Prozent Trockenmasse berechnete Höchstmenge
+an Aflatoxin M1 von 0,05 Mikrogramm pro Kilogramm, an Aflatoxin B1
+von 2 Mikrogramm pro Kilogramm oder die Gesamtmenge der Aflatoxine
+B1, B2, G1 und G2 von 4 Mikrogramm pro Kilogramm überschritten wird.
+Für Enzyme und Enzymzubereitungen gilt Satz 1 mit der Maßgabe, dass
+die Gesamtmenge der Aflatoxine B1, B2, G1 und G2 0,05 Mikrogramm
+pro Kilogramm nicht überschreiten darf. Abweichend von Satz 1 gelten
+für Fütterungsarzneimittel die futtermittelrechtlich festgesetzten
 Höchstgehalte an Aflatoxin.
 
-(2) Das Inverkehrbringen eines Arzneimittels, das entgegen Absatz 1
-Satz 1 oder 2 hergestellt worden ist, ist verboten. Für
+(2) Das Inverkehrbringen eines Arzneimittels, das entgegen
+Absatz 1 Satz 1 oder 2 hergestellt worden ist, ist verboten. Für
 Fütterungsarzneimittel gelten die Bestimmungen des Futtermittelrechts.
 
 (3) Bei der Bestimmung des Aflatoxingehaltes sind Beprobungsverfahren

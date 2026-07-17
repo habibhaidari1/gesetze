@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2011, 2564
 
 Zuletzt geändert durch
-:   Art. 18 G v. 22.11.2021 I 4906
-
-Mittelbare änderung durch
-:   Art. 19 G v. 22.11.2021 I 4906 ist berücksichtigt
+:   Art. 69 G v. 23.10.2024 I Nr. 323
 
 
 ## § 1 Ziel des Gesetzes
@@ -30,17 +27,17 @@ zur Vereinbarkeit von Beruf und familiärer Pflege verbessert.
 
 ## § 2 Familienpflegezeit
 
-(1) Beschäftigte sind von der Arbeitsleistung für längstens 24 Monate
-(Höchstdauer) teilweise freizustellen, wenn sie einen
+(1) Beschäftigte sind von der Arbeitsleistung für längstens 24
+Monate (Höchstdauer) teilweise freizustellen, wenn sie einen
 pflegebedürftigen nahen Angehörigen in häuslicher Umgebung pflegen
 (Familienpflegezeit). Während der Familienpflegezeit muss die
 verringerte Arbeitszeit wöchentlich mindestens 15 Stunden betragen.
 Bei unterschiedlichen wöchentlichen Arbeitszeiten oder einer
 unterschiedlichen Verteilung der wöchentlichen Arbeitszeit darf die
-wöchentliche Arbeitszeit im Durchschnitt eines Zeitraums von bis zu
-einem Jahr 15 Stunden nicht unterschreiten (Mindestarbeitszeit). Der
-Anspruch nach Satz 1 besteht nicht gegenüber Arbeitgebern mit in der
-Regel 25 oder weniger Beschäftigten ausschließlich der zu ihrer
+wöchentliche Arbeitszeit im Durchschnitt eines Zeitraums von bis
+zu einem Jahr 15 Stunden nicht unterschreiten (Mindestarbeitszeit).
+Der Anspruch nach Satz 1 besteht nicht gegenüber Arbeitgebern mit in
+der Regel 25 oder weniger Beschäftigten ausschließlich der zu ihrer
 Berufsbildung Beschäftigten.
 
 (2) Pflegezeit und Familienpflegezeit dürfen gemeinsam 24 Monate je
@@ -55,24 +52,24 @@ angerechnet.
 (Höchstdauer) teilweise freizustellen, wenn sie einen minderjährigen
 pflegebedürftigen nahen Angehörigen in häuslicher oder außerhäuslicher
 Umgebung betreuen. Die Inanspruchnahme dieser Freistellung ist
-jederzeit im Wechsel mit der Freistellung nach Absatz 1 im Rahmen der
-Gesamtdauer nach Absatz 2 möglich. Absatz 1 Satz 2 bis 4 und die
-Absätze 2 bis 4 gelten entsprechend. Beschäftigte können diesen
+jederzeit im Wechsel mit der Freistellung nach Absatz 1 im Rahmen
+der Gesamtdauer nach Absatz 2 möglich. Absatz 1 Satz 2 bis 4 und
+die Absätze 2 bis 4 gelten entsprechend. Beschäftigte können diesen
 Anspruch wahlweise statt des Anspruchs auf Familienpflegezeit nach
 Absatz 1 geltend machen.
 
 
 ## § 2a Inanspruchnahme der Familienpflegezeit
 
-(1) Wer Familienpflegezeit nach § 2 beanspruchen will, muss dies dem
-Arbeitgeber spätestens acht Wochen vor dem gewünschten Beginn
-schriftlich ankündigen und gleichzeitig erklären, für welchen Zeitraum
-und in welchem Umfang innerhalb der Gesamtdauer nach § 2 Absatz 2 die
-Freistellung von der Arbeitsleistung in Anspruch genommen werden soll.
-Dabei ist auch die gewünschte Verteilung der Arbeitszeit anzugeben.
-Enthält die Ankündigung keine eindeutige Festlegung, ob die oder der
-Beschäftigte Pflegezeit nach § 3 des Pflegezeitgesetzes oder
-Familienpflegezeit in Anspruch nehmen will, und liegen die
+(1) Wer Familienpflegezeit nach § 2 beanspruchen will, muss dies
+dem Arbeitgeber spätestens acht Wochen vor dem gewünschten Beginn in
+Textform ankündigen und gleichzeitig erklären, für welchen Zeitraum
+und in welchem Umfang innerhalb der Gesamtdauer nach § 2 Absatz 2
+die Freistellung von der Arbeitsleistung in Anspruch genommen werden
+soll. Dabei ist auch die gewünschte Verteilung der Arbeitszeit
+anzugeben. Enthält die Ankündigung keine eindeutige Festlegung, ob
+die oder der Beschäftigte Pflegezeit nach § 3 des Pflegezeitgesetzes
+oder Familienpflegezeit in Anspruch nehmen will, und liegen die
 Voraussetzungen beider Freistellungsansprüche vor, gilt die Erklärung
 als Ankündigung von Pflegezeit. Wird die Familienpflegezeit nach einer
 Freistellung nach § 3 Absatz 1 oder Absatz 5 des Pflegezeitgesetzes
@@ -84,17 +81,15 @@ frühzeitig erklären, ob sie oder er Familienpflegezeit in Anspruch
 nehmen wird; abweichend von Satz 1 muss die Ankündigung spätestens
 drei Monate vor Beginn der Familienpflegezeit erfolgen. Wird eine
 Freistellung nach § 3 Absatz 1 oder Absatz 5 des Pflegezeitgesetzes
-nach einer Familienpflegezeit in Anspruch genommen, ist die
-Freistellung nach § 3 Absatz 1 oder Absatz 5 des Pflegezeitgesetzes in
-unmittelbarem Anschluss an die Familienpflegezeit zu beanspruchen und
-dem Arbeitgeber spätestens acht Wochen vor Beginn der Freistellung
-nach § 3 Absatz 1 oder Absatz 5 des Pflegezeitgesetzes schriftlich
+nach einer Familienpflegezeit in Anspruch genommen, ist diese in
+unmittelbarem Anschluss an die Familienpflegezeit zu beanspruchen;
+sie ist dem Arbeitgeber spätestens acht Wochen vor Beginn in Textform
 anzukündigen.
 
-(2) Arbeitgeber und Beschäftigte haben über die Verringerung und
-Verteilung der Arbeitszeit eine schriftliche Vereinbarung zu treffen.
-Hierbei hat der Arbeitgeber den Wünschen der Beschäftigten zu
-entsprechen, es sei denn, dass dringende betriebliche Gründe
+(2) Arbeitgeber und Beschäftigte haben über die Verringerung
+und Verteilung der Arbeitszeit eine schriftliche Vereinbarung zu
+treffen. Hierbei hat der Arbeitgeber den Wünschen der Beschäftigten
+zu entsprechen, es sei denn, dass dringende betriebliche Gründe
 entgegenstehen.
 
 (3) Für einen kürzeren Zeitraum in Anspruch genommene
@@ -112,10 +107,21 @@ ist ein entsprechender Nachweis zu erbringen.
 
 (5) Ist die oder der nahe Angehörige nicht mehr pflegebedürftig oder
 die häusliche Pflege der oder des nahen Angehörigen unmöglich oder
-unzumutbar, endet die Familienpflegezeit vier Wochen nach Eintritt der
-veränderten Umstände. Der Arbeitgeber ist hierüber unverzüglich zu
-unterrichten. Im Übrigen kann die Familienpflegezeit nur vorzeitig
+unzumutbar, endet die Familienpflegezeit vier Wochen nach Eintritt
+der veränderten Umstände. Der Arbeitgeber ist hierüber unverzüglich
+zu unterrichten. Im Übrigen kann die Familienpflegezeit nur vorzeitig
 beendet werden, wenn der Arbeitgeber zustimmt.
+
+(5a) Beschäftigte von Arbeitgebern mit in der Regel 25 oder weniger
+Beschäftigten ausschließlich der zu ihrer Berufsbildung Beschäftigten
+können bei ihrem Arbeitgeber den Abschluss einer Vereinbarung über
+eine Familienpflegezeit nach § 2 Absatz 1 Satz 1 bis 3 oder eine
+Freistellung nach § 2 Absatz 5 Satz 1 beantragen. Der Arbeitgeber
+hat den Antrag nach Satz 1 innerhalb von vier Wochen nach Zugang zu
+beantworten. Eine Ablehnung des Antrags ist zu begründen. Wird eine
+Freistellung nach Satz 1 vereinbart, gelten § 2 Absatz 2 bis 4 sowie
+§ 2a Absatz 1 Satz 4 und 6 erster Halbsatz, Absatz 2 Satz 1, Absatz 3
+Satz 1, Absatz 4 und 5 entsprechend.
 
 (6) Die Absätze 1 bis 5 gelten entsprechend für die Freistellung von
 der Arbeitsleistung nach § 2 Absatz 5.
@@ -123,41 +129,40 @@ der Arbeitsleistung nach § 2 Absatz 5.
 
 ## § 2b Erneute Familienpflegezeit nach Inanspruchnahme einer Freistellung auf Grundlage der Sonderregelungen aus Anlass der COVID-19-Pandemie
 
-(1) Abweichend von § 2a Absatz 3 können Beschäftigte einmalig nach
-einer beendeten Familienpflegezeit zur Pflege und Betreuung desselben
-pflegebedürftigen Angehörigen Familienpflegezeit erneut, jedoch
-insgesamt nur bis zur Höchstdauer nach § 2 Absatz 1 in Anspruch
-nehmen, wenn die Gesamtdauer von 24 Monaten nach § 2 Absatz 2 nicht
-überschritten wird und die Inanspruchnahme der beendeten
+(1) Abweichend von § 2a Absatz 3 können Beschäftigte einmalig
+nach einer beendeten Familienpflegezeit zur Pflege und Betreuung
+desselben pflegebedürftigen Angehörigen Familienpflegezeit erneut,
+jedoch insgesamt nur bis zur Höchstdauer nach § 2 Absatz 1 in
+Anspruch nehmen, wenn die Gesamtdauer von 24 Monaten nach § 2 Absatz
+2 nicht überschritten wird und die Inanspruchnahme der beendeten
 Familienpflegezeit auf der Grundlage der Sonderregelungen aus Anlass
 der COVID-19-Pandemie erfolgte.
 
 (2) Abweichend von § 2a Absatz 1 Satz 4 muss sich die
 Familienpflegezeit nicht unmittelbar an die Freistellung nach § 3
 Absatz 1 oder Absatz 5 des Pflegezeitgesetzes anschließen, wenn die
-Freistellung aufgrund der Sonderregelungen aus Anlass der
-COVID-19-Pandemie in Anspruch genommen wurde und die Gesamtdauer nach
-§ 2 Absatz 2 von 24 Monaten nicht überschritten wird.
+Freistellung aufgrund der Sonderregelungen aus Anlass der COVID-
+19-Pandemie in Anspruch genommen wurde und die Gesamtdauer nach § 2
+Absatz 2 von 24 Monaten nicht überschritten wird.
 
 (3) Abweichend von § 2a Absatz 1 Satz 6 muss sich die Freistellung
 nach § 3 Absatz 1 oder Absatz 5 des Pflegezeitgesetzes nicht
 unmittelbar an die Familienpflegezeit anschließen, wenn die
 Inanspruchnahme der Familienpflegezeit aufgrund der Sonderregelungen
-aus Anlass der COVID-19-Pandemie erfolgte und die Gesamtdauer nach § 2
-Absatz 2 von 24 Monaten ab Beginn der ersten Freistellung nicht
+aus Anlass der COVID-19-Pandemie erfolgte und die Gesamtdauer nach
+§ 2 Absatz 2 von 24 Monaten ab Beginn der ersten Freistellung nicht
 überschritten wird.
 
 
 ## § 3 Förderung der pflegebedingten Freistellung von der Arbeitsleistung
 
 (1) Für die Dauer der Freistellungen nach § 2 dieses Gesetzes oder
-nach § 3 des Pflegezeitgesetzes gewährt das Bundesamt für Familie und
-zivilgesellschaftliche Aufgaben Beschäftigten auf Antrag ein in
-monatlichen Raten zu zahlendes zinsloses Darlehen nach Maßgabe der
-Absätze 2 bis 5. Der Anspruch gilt auch für alle Vereinbarungen über
-Freistellungen von der Arbeitsleistung, die die Voraussetzungen von §
-2 Absatz 1 Satz 1 bis 3 dieses Gesetzes oder des § 3 Absatz 1 Satz 1,
-Absatz 5 Satz 1 oder Absatz 6 Satz 1 des Pflegezeitgesetzes erfüllen.
+nach § 3 des Pflegezeitgesetzes gewährt das Bundesamt für Familie
+und zivilgesellschaftliche Aufgaben Beschäftigten auf Antrag ein
+in monatlichen Raten zu zahlendes zinsloses Darlehen nach Maßgabe
+der Absätze 2 bis 5. Der Anspruch gilt auch für Vereinbarungen über
+Freistellungen von der Arbeitsleistung nach § 2a Absatz 5a dieses
+Gesetzes.
 
 (2) Die monatlichen Darlehensraten werden in Höhe der Hälfte der
 Differenz zwischen den pauschalierten monatlichen Nettoentgelten vor
@@ -166,15 +171,15 @@ und während der Freistellung nach Absatz 1 gewährt.
 (3) Das pauschalierte monatliche Nettoentgelt vor der Freistellung
 nach Absatz 1 wird berechnet auf der Grundlage des regelmäßigen
 durchschnittlichen monatlichen Bruttoarbeitsentgelts ausschließlich
-der Sachbezüge der letzten zwölf Kalendermonate vor Beginn der
-Freistellung. Das pauschalierte monatliche Nettoentgelt während der
-Freistellung wird berechnet auf der Grundlage des
+der Sachbezüge der letzten zwölf Kalendermonate vor Beginn
+der Freistellung. Das pauschalierte monatliche Nettoentgelt
+während der Freistellung wird berechnet auf der Grundlage des
 Bruttoarbeitsentgelts, das sich aus dem Produkt aus der vereinbarten
 durchschnittlichen monatlichen Stundenzahl während der Freistellung
 und dem durchschnittlichen Entgelt je Arbeitsstunde ergibt.
-Durchschnittliches Entgelt je Arbeitsstunde ist das Verhältnis des
-regelmäßigen gesamten Bruttoarbeitsentgelts ausschließlich der
-Sachbezüge der letzten zwölf Kalendermonate vor Beginn der
+Durchschnittliches Entgelt je Arbeitsstunde ist das Verhältnis
+des regelmäßigen gesamten Bruttoarbeitsentgelts ausschließlich
+der Sachbezüge der letzten zwölf Kalendermonate vor Beginn der
 Freistellung zur arbeitsvertraglichen Gesamtstundenzahl der letzten
 zwölf Kalendermonate vor Beginn der Freistellung. Die Berechnung der
 pauschalierten Nettoentgelte erfolgt entsprechend der Berechnung der
@@ -190,7 +195,7 @@ von Arbeitsentgelt in und die Entnahme von Arbeitsentgelt aus
 Wertguthaben nach § 7b des Vierten Buches Sozialgesetzbuch außer
 Betracht. Abweichend von Satz 6 bleiben auf Antrag für die Berechnung
 des durchschnittlichen Arbeitsentgelts je Arbeitsstunde in der Zeit
-vom 1. März 2020 bis zum Ablauf des 31. März 2022 auch Kalendermonate
+vom 1. März 2020 bis zum Ablauf des 30. April 2023 auch Kalendermonate
 mit einem aufgrund der COVID-19-Pandemie geringeren Entgelt
 unberücksichtigt.
 
@@ -225,24 +230,24 @@ Arbeitgebers der Auftraggeber oder Zwischenmeister.
 
 ## § 5 Ende der Förderfähigkeit
 
-(1) Die Förderfähigkeit endet mit dem Ende der Freistellung nach § 3
-Absatz 1. Die Förderfähigkeit endet auch dann, wenn die oder der
-Beschäftigte während der Freistellung nach § 2 den Mindestumfang der
-wöchentlichen Arbeitszeit aufgrund gesetzlicher oder
-kollektivvertraglicher Bestimmungen oder aufgrund von Bestimmungen,
-die in Arbeitsrechtsregelungen der Kirchen enthalten sind,
-unterschreitet. Die Unterschreitung der Mindestarbeitszeit aufgrund
-von Kurzarbeit oder eines Beschäftigungsverbotes lässt die
+(1) Die Förderfähigkeit endet mit dem Ende der Freistellung
+nach § 3 Absatz 1. Die Förderfähigkeit endet auch dann, wenn
+die oder der Beschäftigte während der Freistellung nach § 2 den
+Mindestumfang der wöchentlichen Arbeitszeit aufgrund gesetzlicher
+oder kollektivvertraglicher Bestimmungen oder aufgrund von
+Bestimmungen, die in Arbeitsrechtsregelungen der Kirchen enthalten
+sind, unterschreitet. Die Unterschreitung der Mindestarbeitszeit
+aufgrund von Kurzarbeit oder eines Beschäftigungsverbotes lässt die
 Förderfähigkeit unberührt.
 
 (2) Die Darlehensnehmerin oder der Darlehensnehmer hat dem Bundesamt
 für Familie und zivilgesellschaftliche Aufgaben unverzüglich jede
-Änderung in den Verhältnissen, die für den Anspruch nach § 3 Absatz 1
-erheblich sind, mitzuteilen, insbesondere die Beendigung der
+Änderung in den Verhältnissen, die für den Anspruch nach § 3 Absatz
+1 erheblich sind, mitzuteilen, insbesondere die Beendigung der
 häuslichen Pflege der oder des nahen Angehörigen, die Beendigung der
 Betreuung nach § 2 Absatz 5 dieses Gesetzes oder § 3 Absatz 5 des
-Pflegezeitgesetzes, die Beendigung der Freistellung nach § 3 Absatz 6
-des Pflegezeitgesetzes, die vorzeitige Beendigung der Freistellung
+Pflegezeitgesetzes, die Beendigung der Freistellung nach § 3 Absatz
+6 des Pflegezeitgesetzes, die vorzeitige Beendigung der Freistellung
 nach § 3 Absatz 1 sowie die Unterschreitung des Mindestumfangs der
 wöchentlichen Arbeitszeit während der Freistellung nach § 2 aus
 anderen als den in Absatz 1 Satz 2 genannten Gründen.
@@ -251,23 +256,23 @@ anderen als den in Absatz 1 Satz 2 genannten Gründen.
 ## § 6 Rückzahlung des Darlehens
 
 (1) Im Anschluss an die Freistellung nach § 3 Absatz 1 ist die
-Darlehensnehmerin oder der Darlehensnehmer verpflichtet, das Darlehen
-innerhalb von 48 Monaten nach Beginn der Freistellung nach § 3 Absatz
-1 zurückzuzahlen. Die Rückzahlung erfolgt in möglichst
-gleichbleibenden monatlichen Raten in Höhe des im Bescheid nach § 9
-festgesetzten monatlichen Betrags jeweils spätestens zum letzten
+Darlehensnehmerin oder der Darlehensnehmer verpflichtet, das
+Darlehen innerhalb von 48 Monaten nach Beginn der Freistellung nach
+§ 3 Absatz 1 zurückzuzahlen. Die Rückzahlung erfolgt in möglichst
+gleichbleibenden monatlichen Raten in Höhe des im Bescheid nach §
+9 festgesetzten monatlichen Betrags jeweils spätestens zum letzten
 Bankarbeitstag des laufenden Monats. Für die Rückzahlung gelten alle
 nach § 3 an die Darlehensnehmerin oder den Darlehensnehmer geleisteten
 Darlehensbeträge als ein Darlehen.
 
 (2) Die Rückzahlung beginnt in dem Monat, der auf das Ende der
-Förderung der Freistellung nach § 3 Absatz 1 folgt. Das Bundesamt für
-Familie und zivilgesellschaftliche Aufgaben kann auf Antrag der
+Förderung der Freistellung nach § 3 Absatz 1 folgt. Das Bundesamt
+für Familie und zivilgesellschaftliche Aufgaben kann auf Antrag der
 Darlehensnehmerin oder des Darlehensnehmers den Beginn der Rückzahlung
-auf einen späteren Zeitpunkt, spätestens jedoch auf den 25. Monat nach
-Beginn der Förderung festsetzen, wenn die übrigen Voraussetzungen für
-den Anspruch nach den §§ 2 und 3 weiterhin vorliegen. Befindet sich
-die Darlehensnehmerin oder der Darlehensnehmer während des
+auf einen späteren Zeitpunkt, spätestens jedoch auf den 25. Monat
+nach Beginn der Förderung festsetzen, wenn die übrigen Voraussetzungen
+für den Anspruch nach den §§ 2 und 3 weiterhin vorliegen. Befindet
+sich die Darlehensnehmerin oder der Darlehensnehmer während des
 Rückzahlungszeitraums in einer Freistellung nach § 3 Absatz 1, setzt
 das Bundesamt für Familie und zivilgesellschaftliche Aufgaben auf
 Antrag der oder des Beschäftigten die monatlichen Rückzahlungsraten
@@ -283,11 +288,11 @@ dem Darlehensnehmer auf Antrag die Rückzahlung des Darlehens, ohne
 dass hierfür Zinsen anfallen. Als besondere Härte gelten insbesondere
 der Bezug von Entgeltersatzleistungen nach dem Dritten und dem Fünften
 Buch Sozialgesetzbuch, Leistungen zur Sicherung des Lebensunterhalts
-nach dem Zweiten Buch Sozialgesetzbuch und Leistungen nach dem Dritten
-und Vierten Kapitel des Zwölften Buches Sozialgesetzbuch oder eine
-mehr als 180 Tage ununterbrochene Arbeitsunfähigkeit. Eine besondere
-Härte liegt auch vor, wenn sich die Darlehensnehmerin oder der
-Darlehensnehmer wegen unverschuldeter finanzieller Belastungen
+nach dem Zweiten Buch Sozialgesetzbuch und Leistungen nach dem
+Dritten und Vierten Kapitel des Zwölften Buches Sozialgesetzbuch
+oder eine mehr als 180 Tage ununterbrochene Arbeitsunfähigkeit. Eine
+besondere Härte liegt auch vor, wenn sich die Darlehensnehmerin oder
+der Darlehensnehmer wegen unverschuldeter finanzieller Belastungen
 vorübergehend in ernsthaften Zahlungsschwierigkeiten befindet oder zu
 erwarten ist, dass sie oder er durch die Rückzahlung des Darlehens in
 der vorgesehenen Form in solche Schwierigkeiten gerät.
@@ -296,8 +301,8 @@ der vorgesehenen Form in solche Schwierigkeiten gerät.
 Gesetzes oder nach § 3 Absatz 1 oder 5 des Pflegezeitgesetzes
 hinausgehenden Zeitraum, in dem die Pflegebedürftigkeit desselben
 nahen Angehörigen fortbesteht, die Pflege durch die oder den
-Beschäftigten in häuslicher Umgebung andauert und die Freistellung von
-der Arbeitsleistung fortgeführt wird, sind auf Antrag die fälligen
+Beschäftigten in häuslicher Umgebung andauert und die Freistellung
+von der Arbeitsleistung fortgeführt wird, sind auf Antrag die fälligen
 Rückzahlungsraten zu einem Viertel zu erlassen (Teildarlehenserlass)
 und die restliche Darlehensschuld für diesen Zeitraum bis zur
 Beendigung der häuslichen Pflege auf Antrag zu stunden, ohne dass
@@ -312,11 +317,7 @@ wenn die Darlehensnehmerin oder der Darlehensnehmer
     nach dem Zweiten Buch Sozialgesetzbuch ununterbrochen seit mindestens
     zwei Jahren nach dem Ende der Freistellung bezieht oder
 
-
 2.  verstirbt.
-
-
-
 
 (4) Der Abschluss von Vergleichen sowie die Stundung, Niederschlagung
 und der Erlass von Ansprüchen richten sich, sofern in diesem Gesetz
@@ -340,30 +341,22 @@ Monats der Antragstellung.
 1.  Name und Anschrift der oder des das Darlehen beantragenden
     Beschäftigten,
 
-
 2.  Name, Anschrift und Angehörigenstatus der gepflegten Person,
-
 
 3.  Bescheinigung über die Pflegebedürftigkeit oder im Fall des § 3 Absatz
     6 des Pflegezeitgesetzes das dort genannte ärztliche Zeugnis über die
     Erkrankung des oder der nahen Angehörigen,
 
-
 4.  Dauer der Freistellung nach § 3 Absatz 1 sowie Mitteilung, ob zuvor
     eine Freistellung nach § 3 Absatz 1 in Anspruch genommen wurde, sowie
 
-
 5.  Höhe, Dauer und Angabe der Zeitabschnitte des beantragten Darlehens.
-
-
-
 
 (4) Dem Antrag sind beizufügen:
 
 1.  Entgeltbescheinigungen mit Angabe der arbeitsvertraglichen
     Wochenstunden der letzten zwölf Monate vor Beginn der Freistellung
     nach § 3 Absatz 1,
-
 
 2.  in den Fällen der vollständigen Freistellung nach § 3 des
     Pflegezeitgesetzes eine Bescheinigung des Arbeitgebers über die
@@ -372,31 +365,23 @@ Monats der Antragstellung.
     und der oder dem Beschäftigten.
 
 
-
-
-
 ## § 9 Darlehensbescheid und Zahlweise
 
 (1) In dem Bescheid nach § 8 Absatz 1 sind anzugeben:
 
 1.  Höhe des Darlehens,
 
-
 2.  Höhe der monatlichen Darlehensraten sowie Dauer der Leistung der
     Darlehensraten,
 
-
 3.  Höhe und Dauer der Rückzahlungsraten und
-
 
 4.  Fälligkeit der ersten Rückzahlungsrate.
 
-
-
 Wurde dem Antragsteller für eine vor dem Antrag liegende Freistellung
-nach § 3 Absatz 1 ein Darlehen gewährt, sind für die Ermittlung der
-Beträge nach Satz 1 Nummer 3 und 4 das zurückliegende und das aktuell
-gewährte Darlehen wie ein Darlehen zu behandeln. Der das erste
+nach § 3 Absatz 1 ein Darlehen gewährt, sind für die Ermittlung
+der Beträge nach Satz 1 Nummer 3 und 4 das zurückliegende und das
+aktuell gewährte Darlehen wie ein Darlehen zu behandeln. Der das erste
 Darlehen betreffende Bescheid nach Satz 1 wird hinsichtlich Höhe,
 Dauer und Fälligkeit der Rückzahlungsraten geändert.
 
@@ -406,16 +391,16 @@ in monatlichen Festbeträgen für die gesamte Förderdauer festgelegt.
 (3) Die Darlehensraten werden unbar zu Beginn jeweils für den
 Kalendermonat ausgezahlt, in dem die Anspruchsvoraussetzungen
 vorliegen. Monatliche Förderungsbeträge, die nicht volle Euro ergeben,
-sind bei Restbeträgen bis zu 0,49 Euro abzurunden und von 0,50 Euro an
-aufzurunden.
+sind bei Restbeträgen bis zu 0,49 Euro abzurunden und von 0,50 Euro
+an aufzurunden.
 
 
 ## § 10 Antrag und Nachweis in weiteren Fällen
 
 (1) Das Bundesamt für Familie und zivilgesellschaftliche Aufgaben
-entscheidet auch in den Fällen des § 7 auf schriftlichen Antrag, der
-Name und Anschrift der Darlehensnehmerin oder des Darlehensnehmers
-enthalten muss.
+entscheidet auch in den Fällen des § 7 auf schriftlichen oder
+elektronischen Antrag, der Name und Anschrift der Darlehensnehmerin
+oder des Darlehensnehmers enthalten muss.
 
 (2) Die Voraussetzungen des § 7 sind nachzuweisen
 
@@ -425,20 +410,15 @@ enthalten muss.
     Vorlage einer Arbeitsunfähigkeitsbescheinigung der Darlehensnehmerin
     oder des Darlehensnehmers,
 
-
 2.  in den Fällen des Absatzes 2 durch Vorlage einer Bescheinigung über
     die fortbestehende Pflegebedürftigkeit der oder des nahen Angehörigen
     und die Fortdauer der Freistellung von der Arbeitsleistung sowie
     Glaubhaftmachung der dort genannten Voraussetzungen, insbesondere
     durch Darlegung der persönlichen wirtschaftlichen Verhältnisse,
 
-
 3.  in den Fällen des Absatzes 3 durch Vorlage der entsprechenden
     Leistungsbescheide der Darlehensnehmerin oder des Darlehensnehmers
     oder durch Vorlage einer Sterbeurkunde durch die Rechtsnachfolger.
-
-
-
 
 (3) Anträge auf Teildarlehenserlass nach § 7 Absatz 2 sind bis
 spätestens 48 Monate nach Beginn der Freistellungen nach § 2 dieses
@@ -460,37 +440,32 @@ Verwaltungsvorschriften erlassen.
 1.  entgegen § 4 Satz 1 eine dort genannte Bescheinigung nicht, nicht
     richtig, nicht vollständig oder nicht rechtzeitig erstellt,
 
-
 2.  entgegen § 5 Absatz 2 eine Mitteilung nicht, nicht richtig, nicht
     vollständig oder nicht rechtzeitig macht oder
 
-
 3.  entgegen § 8 Absatz 3 Nummer 4 eine Mitteilung nicht, nicht richtig,
     nicht vollständig oder nicht rechtzeitig macht.
-
-
-
 
 (2) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
 Gesetzes über Ordnungswidrigkeiten ist das Bundesamt für Familie und
 zivilgesellschaftliche Aufgaben.
 
-(3) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 1
-mit einer Geldbuße bis zu fünftausend Euro und in den Fällen des
+(3) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer
+1 mit einer Geldbuße bis zu fünftausend Euro und in den Fällen des
 Absatzes 1 Nummer 2 mit einer Geldbuße bis zu tausend Euro geahndet
 werden.
 
-(4) Die Geldbußen fließen in die Kasse des Bundesamtes für Familie und
-zivilgesellschaftliche Aufgaben. Diese trägt abweichend von § 105
-Absatz 2 des Gesetzes über Ordnungswidrigkeiten die notwendigen
+(4) Die Geldbußen fließen in die Kasse des Bundesamtes für Familie
+und zivilgesellschaftliche Aufgaben. Diese trägt abweichend von §
+105 Absatz 2 des Gesetzes über Ordnungswidrigkeiten die notwendigen
 Auslagen. Sie ist auch ersatzpflichtig im Sinne des § 110 Absatz 4 des
 Gesetzes über Ordnungswidrigkeiten.
 
 
 ## § 13 Aufbringung der Mittel
 
-Die für die Ausführung dieses Gesetzes erforderlichen Mittel trägt der
-Bund.
+Die für die Ausführung dieses Gesetzes erforderlichen Mittel trägt
+der Bund.
 
 
 ## § 14 Beirat
@@ -514,20 +489,20 @@ Bundesministerium für Familie, Senioren, Frauen und Jugend im
 Einvernehmen mit dem Bundesministerium für Arbeit und Soziales und dem
 Bundesministerium für Gesundheit berufen werden. Stellvertretung ist
 zulässig. Die oder der Vorsitzende und die oder der stellvertretende
-Vorsitzende werden vom Bundesministerium für Familie, Senioren, Frauen
-und Jugend ernannt. Der Beirat setzt sich zusammen aus sechs
-Vertreterinnen oder Vertretern von fachlich betroffenen
+Vorsitzende werden vom Bundesministerium für Familie, Senioren,
+Frauen und Jugend ernannt. Der Beirat setzt sich zusammen aus
+sechs Vertreterinnen oder Vertretern von fachlich betroffenen
 Interessenverbänden, je zwei Vertreterinnen oder Vertretern der
 Gewerkschaften, der Arbeitgeber, der Wohlfahrtsverbände und der
 Seniorenorganisationen sowie aus je einer Vertreterin oder einem
 Vertreter der sozialen und der privaten Pflege-Pflichtversicherung.
 Des Weiteren gehören dem Beirat zwei Wissenschaftlerinnen oder
-Wissenschaftler mit Schwerpunkt in der Forschung der Vereinbarkeit von
-Pflege und Beruf sowie je eine Vertreterin oder ein Vertreter der
-Konferenz der Ministerinnen und Minister, Senatorinnen und Senatoren
-für Jugend und Familie, der Konferenz der Ministerinnen und Minister,
-Senatorinnen und Senatoren für Arbeit und Soziales sowie der
-kommunalen Spitzenverbände an. Die Besetzung des Beirats muss
+Wissenschaftler mit Schwerpunkt in der Forschung der Vereinbarkeit
+von Pflege und Beruf sowie je eine Vertreterin oder ein Vertreter
+der Konferenz der Ministerinnen und Minister, Senatorinnen und
+Senatoren für Jugend und Familie, der Konferenz der Ministerinnen und
+Minister, Senatorinnen und Senatoren für Arbeit und Soziales sowie
+der kommunalen Spitzenverbände an. Die Besetzung des Beirats muss
 geschlechterparitätisch erfolgen.
 
 (5) Die Amtszeit der Mitglieder des Beirats und ihrer
@@ -552,43 +527,5 @@ für die Gewährung eines Darlehens nach § 3 Absatz 1 in Verbindung mit
 § 12 Absatz 1 Satz 1 bis einschließlich 31. Dezember 2014 vorlagen.
 
 
-## § 16 Sonderregelungen aus Anlass der COVID-19-Pandemie
-
-(1) Abweichend von § 2 Absatz 1 Satz 2 gilt, dass die wöchentliche
-Mindestarbeitszeit von 15 Wochenstunden vorübergehend unterschritten
-werden darf, längstens jedoch für die Dauer von einem Monat.
-
-(2) Abweichend von § 2a Absatz 1 Satz 1 gilt für Familienpflegezeit,
-die spätestens am 1. März 2022 beginnt, dass die Ankündigung gegenüber
-dem Arbeitgeber spätestens zehn Arbeitstage vor dem gewünschten Beginn
-in Textform erfolgen muss.
-
-(3) Abweichend von § 2a Absatz 1 Satz 4 muss sich die
-Familienpflegezeit nicht unmittelbar an die Freistellung nach § 3
-Absatz 1 oder Absatz 5 des Pflegezeitgesetzes anschließen, wenn der
-Arbeitgeber zustimmt, die Gesamtdauer nach § 2 Absatz 2 von 24 Monaten
-nicht überschritten wird und die Familienpflegezeit spätestens mit
-Ablauf des 31. März 2022 endet. Die Ankündigung muss abweichend von §
-2a Absatz 1 Satz 5 spätestens zehn Tage vor Beginn der
-Familienpflegezeit erfolgen.
-
-(4) Abweichend von § 2a Absatz 1 Satz 6 muss sich die Freistellung
-nach § 3 Absatz 1 oder Absatz 5 des Pflegezeitgesetzes nicht
-unmittelbar an die Familienpflegezeit anschließen, wenn der
-Arbeitgeber zustimmt, die Gesamtdauer nach § 2 Absatz 2 von 24 Monaten
-nicht überschritten wird und die Pflegezeit spätestens mit Ablauf des
-31\. März 2022 endet. Die Inanspruchnahme ist dem Arbeitgeber
-spätestens zehn Tage vor Beginn der Freistellung nach § 3 Absatz 1
-oder Absatz 5 des Pflegezeitgesetzes in Textform anzukündigen.
-
-(5) Abweichend von § 2a Absatz 2 Satz 1 gilt, dass die Vereinbarung in
-Textform zu treffen ist.
-
-(6) Abweichend von § 2a Absatz 3 können Beschäftigte mit Zustimmung
-des Arbeitgebers nach einer beendeten Familienpflegezeit zur Pflege
-oder Betreuung desselben pflegebedürftigen Angehörigen
-Familienpflegezeit erneut, jedoch insgesamt nur bis zur Höchstdauer
-nach § 2 Absatz 1 in Anspruch nehmen, wenn die Gesamtdauer von 24
-Monaten nach § 2 Absatz 2 nicht überschritten wird und die
-Familienpflegezeit spätestens mit Ablauf des 31. März 2022 endet.
+## § 16 (weggefallen)
 

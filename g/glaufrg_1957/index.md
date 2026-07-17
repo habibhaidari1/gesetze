@@ -1,6 +1,5 @@
 ---
-Title: Gesetz über den Aufruf der Gläubiger der I. G. Farbenindustrie Aktiengesellschaft
-  in Abwicklung
+Title: Gesetz über den Aufruf der Gläubiger der I. G. Farbenindustrie Aktiengesellschaft in Abwicklung
 jurabk: GlAufrG 1957
 layout: default
 origslug: glaufrg_1957
@@ -17,14 +16,13 @@ Fundstelle
 :   BGBl I: 1957, 569
 
 
-
 ## § 1
 
 (1) Zur Beschleunigung der Abwicklung der I.G. Farbenindustrie
 Aktiengesellschaft in Abwicklung haben die Abwickler der Gesellschaft
 deren Gläubiger aufzufordern, ihre Ansprüche anzumelden; in der
-Aufforderung haben sie auf die Auflösung der Gesellschaft und auf die
-Folgen der Nichtanmeldung sowie darauf hinzuweisen, daß durch die
+Aufforderung haben sie auf die Auflösung der Gesellschaft und auf
+die Folgen der Nichtanmeldung sowie darauf hinzuweisen, daß durch die
 Anmeldung die Verjährung der Ansprüche nicht unterbrochen wird. In der
 Aufforderung ist ein Zeitpunkt zu bestimmen, bis zu dem die Anmeldung
 spätestens zu erfolgen hat.

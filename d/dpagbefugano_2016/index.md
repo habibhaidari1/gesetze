@@ -1,6 +1,5 @@
 ---
-Title: Anordnung zur Übertragung dienstrechtlicher Befugnisse im Bereich der Deutschen
-  Post AG
+Title: Anordnung zur Übertragung dienstrechtlicher Befugnisse im Bereich der Deutschen Post AG
 jurabk: DPAGBefugAnO 2016
 layout: default
 origslug: dpagbefugano_2016
@@ -16,7 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2015, 2006
 
-Stand: Ersetzt Anordnung 900-10-4-49 v. 27.9.2013 I 3752, 3899 (DPAGBefugAnO)
+Ano aufgeh. durch
+:   § 4 Abs. 2 iVm Abs. 1 AnO 900-10-4-60 v. 18.5.2026 I Nr. 154 (DPAGBefugAnO 2026)
+
+Stand
+:   Ersetzt Anordnung 900-10-4-49 v. 27.9.2013 I 3752, 3899 (DPAGBefugAnO)
+
 
 ## Eingangsformel
 
@@ -27,8 +31,7 @@ Buchstabe a Doppelbuchstabe aa des Gesetzes vom 28. Mai 2015 (BGBl. I
 S. 813) und § 3 Absatz 2 Satz 4 durch Artikel 223 Nummer 2 Buchstabe a
 der Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785) geändert worden
 ist, ordnet das Bundesministerium der Finanzen nach Anhörung des
-Vorstands der Deutschen
-Post AG an:
+Vorstands der Deutschen Post AG an:
 
 
 ## § 1 Befugnisse von Dienstbehörden
@@ -38,14 +41,9 @@ Deutschen Post AG nehmen wahr
 
 1.  die Niederlassungen,
 
-
 2.  die Shared Service Center und
 
-
 3.  die Geschäftsbereiche Vertrieb.
-
-
-
 
 
 ## § 2 Befugnisse von Dienstvorgesetzten
@@ -55,14 +53,9 @@ unterhalb des Vorstands der Deutschen Post AG nehmen wahr
 
 1.  die Leitung der Niederlassungen,
 
-
 2.  die Leitung der Shared Service Center und
 
-
 3.  die Leitung der Geschäftsbereiche Vertrieb.
-
-
-
 
 
 ## § 3 Ernennungs- und Entlassungsbefugnis
@@ -74,12 +67,8 @@ Beamtinnen und Beamten der Bundesbesoldungsordnung A
 1.  in den Laufbahnen des höheren Dienstes auf den Vorstand der Deutschen
     Post AG und
 
-
 2.  im Übrigen auf die in § 2 genannten Stelleninhaber für die Beamtinnen
     und Beamten ihres jeweiligen Zuständigkeitsbereiches.
-
-
-
 
 (2) Das Bundesministerium der Finanzen behält sich vor, die Befugnis
 im Einzelfall selbst auszuüben.

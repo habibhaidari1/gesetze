@@ -1,7 +1,5 @@
 ---
-Title: Anordnung zur Übertragung der Entscheidung über Widersprüche in Beihilfeangelegenheiten
-  und zur Vertretung des Dienstherrn bei Klagen in Beihilfeangelegenheiten bei der
-  Museumsstiftung Post und Telekommunikation
+Title: Anordnung zur Übertragung der Entscheidung über Widersprüche in Beihilfeangelegenheiten und zur Vertretung des Dienstherrn bei Klagen in Beihilfeangelegenheiten bei der Museumsstiftung Post und Telekommunikation
 jurabk: MSPTBeihilfeAnO
 layout: default
 origslug: msptbeihilfeano
@@ -33,24 +31,22 @@ an:
 ## § 1 Entscheidung über Widersprüche in Beihilfeangelegenheiten
 
 In Angelegenheiten der Beihilfe in Krankheits-, Pflege- und
-Geburtsfällen
-(§ 80 Bundesbeamtengesetz) wird              die Entscheidung über
+Geburtsfällen (§ 80 Bundesbeamtengesetz) wird die Entscheidung über
 Widersprüche auf die Postbeamtenkrankenkasse übertragen.
 
 
 ## § 2 Vertretung des Dienstherrn bei Klagen in Beihilfeangelegenheiten
 
 In Angelegenheiten der Beihilfe in Krankheits-, Pflege- und
-Geburtsfällen
-(§ 80 Bundesbeamtengesetz) wird              die Vertretung des
-Dienstherrn bei Klagen aus dem Beamtenverhältnis auf die
+Geburtsfällen (§ 80 Bundesbeamtengesetz) wird die Vertretung
+des Dienstherrn bei Klagen aus dem Beamtenverhältnis auf die
 Postbeamtenkrankenkasse übertragen.
 
 
 ## § 3 Vorbehalt des Selbsteintritts
 
-Das Kuratorium behält sich vor, die Aufgaben und Befugnisse nach § 126
-Absatz 3 und § 127 des Bundesbeamtengesetzes im Einzelfall selbst
+Das Kuratorium behält sich vor, die Aufgaben und Befugnisse nach §
+126 Absatz 3 und § 127 des Bundesbeamtengesetzes im Einzelfall selbst
 auszuüben.
 
 

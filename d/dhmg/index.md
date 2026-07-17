@@ -43,32 +43,24 @@ ihrem europäischen Zusammenhang darzustellen.
 1.  Einrichtung, Unterhaltung und Weiterentwicklung einer ständigen
     Ausstellung;
 
-
 2.  Erwerb von Realien zur deutschen Geschichte sowie deren
     Inventarisierung, Dokumentation und erforderlichenfalls Restaurierung;
-
 
 3.  Wechselausstellungen, museumspädagogische Vermittlung, Vorträge,
     Seminare, Filmvorführungen und sonstige Veranstaltungen;
 
-
 4.  Unterhaltung einer Bibliothek und einer Mediathek;
 
-
 5.  Forschung und Veröffentlichungen;
-
 
 6.  Zusammenarbeit mit deutschen und internationalen Museen und sonstigen
     Einrichtungen mit fachlichem Bezug.
 
 
-
-
-
 ### § 3 Stiftungsvermögen
 
-(1) Mit dem Inkrafttreten dieses Gesetzes geht das Vermögen der
-Deutsches Historisches Museum-GmbH einschließlich der
+(1) Mit dem Inkrafttreten dieses Gesetzes geht das Vermögen
+der Deutsches Historisches Museum-GmbH einschließlich der
 Verbindlichkeiten und beweglichen Vermögensgegenstände der
 Bundesrepublik Deutschland, die für Zwecke des Deutschen Historischen
 Museums erworben und bereitgestellt wurden, auf die Stiftung
@@ -77,10 +69,10 @@ Deutsches Historisches Museum-GmbH. Die Geschäftsführung der Deutsches
 Historisches Museum-GmbH meldet die Vermögensübertragung und das
 Erlöschen der GmbH zur Eintragung in das Handelsregister an.
 
-(2) Zur Erfüllung des Stiftungszweckes erhält die Stiftung einen
-jährlichen Zuschuss des Bundes nach Maßgabe des jeweiligen
-Bundeshaushaltsgesetzes sowie der §§ 23 und 44 der
-Bundeshaushaltsordnung einschließlich der dazu ergangenen
+(2) Zur Erfüllung des Stiftungszweckes erhält die Stiftung
+einen jährlichen Zuschuss des Bundes nach Maßgabe des
+jeweiligen Bundeshaushaltsgesetzes sowie der §§ 23 und 44
+der Bundeshaushaltsordnung einschließlich der dazu ergangenen
 Verwaltungsvorschriften.
 
 (3) Die Stiftung ist berechtigt, Zuwendungen von dritter Seite
@@ -107,14 +99,9 @@ Organe der Stiftung sind
 
 1.  das Kuratorium,
 
-
 2.  die Präsidentin oder der Präsident,
 
-
 3.  der wissenschaftliche Beirat.
-
-
-
 
 
 ### § 6 Kuratorium
@@ -126,15 +113,11 @@ Jahre entsandt werden.
 
 1.  dem Deutschen Bundestag,
 
-
-2.  der Bundesregierung, davon je ein Mitglied auf Vorschlag der oder des
-    Beauftragten der Bundesregierung für Kultur und Medien und des
+2.  der Bundesregierung, davon je ein Mitglied auf Vorschlag der oder
+    des Beauftragten der Bundesregierung für Kultur und Medien und des
     Auswärtigen Amtes, und
 
-
 3.  den Ländern, davon ein Mitglied vom Land Berlin.
-
-
 
 Für jedes Mitglied ist für den Fall der Verhinderung ein
 stellvertretendes Mitglied zu entsenden. Die vom Deutschen Bundestag
@@ -154,10 +137,10 @@ oder ein neues stellvertretendes Mitglied zu entsenden.
 entsandten Mitgliedern; den stellvertretenden Vorsitz hat das vom Land
 Berlin entsandte Mitglied inne.
 
-(5) Das Kuratorium überwacht die Tätigkeit der Stiftungsleitung. Es
-beschließt über alle grundsätzlichen Fragen, insbesondere über die
-Grundzüge der Programmgestaltung, die Satzung, den Wirtschaftsplan,
-die Bestellung der Abschlussprüfer und wichtige
+(5) Das Kuratorium überwacht die Tätigkeit der Stiftungsleitung.
+Es beschließt über alle grundsätzlichen Fragen, insbesondere
+über die Grundzüge der Programmgestaltung, die Satzung, den
+Wirtschaftsplan, die Bestellung der Abschlussprüfer und wichtige
 Personalentscheidungen. Die Rechte und Pflichten seiner Mitglieder
 entsprechen denen der Mitglieder des Aufsichtsrates einer
 Aktiengesellschaft. Die Präsidentin oder der Präsident hat über ihre
@@ -168,8 +151,8 @@ Mitglieder anwesend oder vertreten ist.
 
 (7) Beschlüsse über die Satzung und deren Änderung bedürfen einer
 Mehrheit von zwei Dritteln der abgegebenen Stimmen. In der Satzung
-können weitere qualifizierte Mehrheiten festgelegt werden. Im Übrigen
-bedürfen Beschlüsse der Mehrheit der abgegebenen Stimmen. Bei
+können weitere qualifizierte Mehrheiten festgelegt werden. Im
+Übrigen bedürfen Beschlüsse der Mehrheit der abgegebenen Stimmen. Bei
 Stimmengleichheit gibt die Stimme der Person den Ausschlag, die den
 Vorsitz des Kuratoriums innehat. Gegen die Stimme des auf Vorschlag
 der oder des Beauftragten der Bundesregierung für Kultur und Medien
@@ -234,15 +217,15 @@ Bundesverwaltung geltenden Bestimmungen.
 untersteht der Rechtsaufsicht der oder des Beauftragten der
 Bundesregierung für Kultur und Medien.
 
-(2) Die Stiftung hat einen Jahresabschluss und einen Lagebericht
-entsprechend den Vorschriften des Dritten Buches des
+(2) Die Stiftung hat einen Jahresabschluss und einen
+Lagebericht entsprechend den Vorschriften des Dritten Buches des
 Handelsgesetzbuches für große Kapitalgesellschaften aufzustellen und
 prüfen zu lassen. Der Vorsitzende erteilt den Prüfungsauftrag; der
 Abschlussprüfer berichtet dem Kuratorium.
 
 (3) Die Stiftung hat einen Wirtschaftsplan einschließlich einer
-Überleitungsrechnung nach der Bundeshaushaltsordnung aufzustellen. Die
-Haushalts- und Wirtschaftsführung richtet sich nach den für die
+Überleitungsrechnung nach der Bundeshaushaltsordnung aufzustellen.
+Die Haushalts- und Wirtschaftsführung richtet sich nach den für die
 unmittelbare Bundesverwaltung geltenden Bestimmungen.
 
 (4) Die Haushalts- und Wirtschaftsführung der Stiftung einschließlich
@@ -330,24 +313,17 @@ ihrer Folgen wachzuhalten.
     Hintergründen und Zusammenhängen sowie europäischen Dimensionen und
     Folgen;
 
-
 2.  Erarbeitung von Einzelausstellungen zu speziellen Aspekten der
     Gesamtthematik;
-
 
 3.  Vermittlung von Forschungsergebnissen und wissenschaftlichen
     Erkenntnissen;
 
-
 4.  Sammlung, Dokumentation und wissenschaftliche Auswertung einschlägiger
     Unterlagen und Materialien, insbesondere auch von Zeitzeugenberichten;
 
-
 5.  Zusammenarbeit mit deutschen und internationalen Museen und
     Forschungseinrichtungen.
-
-
-
 
 
 ### § 17 Stiftungsvermögen
@@ -361,16 +337,16 @@ für die zu errichtende unselbständige Stiftung „Stiftung Flucht,
 Vertreibung, Versöhnung“ von dritter Seite. Der Träger verwaltet
 dieses Sondervermögen getrennt von seinem Vermögen.
 
-(2) Zur Erfüllung des Stiftungszweckes erhält der Träger für die
-unselbständige Stiftung einen jährlichen Zuschuss des Bundes nach
-Maßgabe des jeweiligen Bundeshaushaltsgesetzes sowie der §§ 23 und 44
-der Bundeshaushaltsordnung und der dazu ergangenen
+(2) Zur Erfüllung des Stiftungszweckes erhält der Träger für
+die unselbständige Stiftung einen jährlichen Zuschuss des Bundes
+nach Maßgabe des jeweiligen Bundeshaushaltsgesetzes sowie der
+§§ 23 und 44 der Bundeshaushaltsordnung und der dazu ergangenen
 Verwaltungsvorschriften.
 
 (3) Der Träger ist berechtigt, für die unselbständige Stiftung
 Zuwendungen von dritter Seite anzunehmen. Die Annahme darf nur
-erfolgen, wenn damit keine Auflagen verbunden sind, die den Erfolg des
-Stiftungszweckes beeinträchtigen. Der Stiftungszweck gilt als
+erfolgen, wenn damit keine Auflagen verbunden sind, die den Erfolg
+des Stiftungszweckes beeinträchtigen. Der Stiftungszweck gilt als
 beeinträchtigt, wenn die Erfüllung der Auflagen einen Aufwand erwarten
 lässt, der in Bezug auf den Wert der Zuwendung unverhältnismäßig ist.
 
@@ -382,8 +358,8 @@ des Bundes in Ausführung der Beschlüsse des Stiftungsrates der
 unselbständigen Stiftung.
 
 (6) Der Träger fertigt für die unselbständige Stiftung zum 31.
-Dezember eines jeden Jahres einen Bericht, der die Vermögenslage und
-die Mittelverwendung erläutert. Im Rahmen seiner öffentlichen
+Dezember eines jeden Jahres einen Bericht, der die Vermögenslage
+und die Mittelverwendung erläutert. Im Rahmen seiner öffentlichen
 Berichterstattung sorgt er für eine angemessene Publizität der
 Stiftungsaktivitäten.
 
@@ -394,10 +370,7 @@ Stiftungsaktivitäten.
 
 1.  der Stiftungsrat,
 
-
 2.  der wissenschaftliche Beraterkreis.
-
-
 
 Die Mitglieder des Stiftungsrates und des wissenschaftlichen
 Beraterkreises sind ehrenamtlich tätig.
@@ -414,20 +387,15 @@ Direktor.
 
 1.  vier Mitglieder durch den Deutschen Bundestag,
 
-
 2.  je ein Mitglied durch das Auswärtige Amt, das Bundesministerium des
     Innern, für Bau und Heimat und die Beauftragte oder den Beauftragten
     der Bundesregierung für Kultur und Medien,
 
-
 3.  sechs Mitglieder durch den Bund der Vertriebenen e. V.,
 
-
-4.  je zwei Mitglieder durch die Evangelische Kirche in Deutschland, die
-    Katholische Kirche in Deutschland und den Zentralrat der Juden in
-    Deutschland.
-
-
+4.  je zwei Mitglieder durch die Evangelische Kirche in Deutschland,
+    die Katholische Kirche in Deutschland und den Zentralrat der Juden
+    in Deutschland.
 
 Für jedes Mitglied ist für den Fall der Verhinderung ein
 stellvertretendes Mitglied vorzuschlagen. Die vom Deutschen Bundestag
@@ -435,8 +403,8 @@ vorgeschlagenen Mitglieder und stellvertretenden Mitglieder müssen
 Abgeordnete des Deutschen Bundestages sein.
 
 (3) Die oder der Beauftragte der Bundesregierung für Kultur und Medien
-leitet die Vorschläge nach Absatz 2 Satz 1 Nummer 2 bis 4 und Satz 2
-mit einem entsprechenden Antrag zur Wahl der Präsidentin oder dem
+leitet die Vorschläge nach Absatz 2 Satz 1 Nummer 2 bis 4 und Satz
+2 mit einem entsprechenden Antrag zur Wahl der Präsidentin oder dem
 Präsidenten des Deutschen Bundestages zu. Der Deutsche Bundestag wählt
 auf Grund der Vorschläge nach Absatz 2 Satz 1 Nummer 1 bis 4 und Satz
 2 die Mitglieder und stellvertretenden Mitglieder. Der Wahl liegt ein
@@ -454,8 +422,8 @@ Jahre verbleibende Zeit eine Nachbesetzung. Absatz 2 und Absatz 3 Satz
 1, 2 und 4 gelten entsprechend. Hat mehr als eine Nachbesetzung zu
 erfolgen, ist Absatz 3 Satz 3 entsprechend anwendbar.
 
-(5) Mitglieder kraft Amtes sind die Präsidentin oder der Präsident (§
-7) und die Präsidentin oder der Präsident der Stiftung „Haus der
+(5) Mitglieder kraft Amtes sind die Präsidentin oder der Präsident
+(§ 7) und die Präsidentin oder der Präsident der Stiftung „Haus der
 Geschichte der Bundesrepublik Deutschland“. Die stellvertretenden
 Mitglieder für diese Mitglieder sind ihre satzungsmäßigen Vertreter.
 
@@ -463,14 +431,14 @@ Mitglieder für diese Mitglieder sind ihre satzungsmäßigen Vertreter.
 kann das Stimmrecht durch ein anderes Mitglied oder stellvertretendes
 Mitglied ausgeübt werden.
 
-(7) Beschlüsse bedürfen der Mehrheit der abgegebenen Stimmen. Den
-Vorsitz hat das auf Vorschlag der oder des Beauftragten der
+(7) Beschlüsse bedürfen der Mehrheit der abgegebenen Stimmen.
+Den Vorsitz hat das auf Vorschlag der oder des Beauftragten der
 Bundesregierung für Kultur und Medien gewählte Mitglied. Die
 Direktorin oder der Direktor und die oder der Vorsitzende des
 wissenschaftlichen Beraterkreises nehmen mit Rederecht teil.
 
-(8) Der Stiftungsrat bestimmt die Grundzüge des Stiftungsprogramms und
-beschließt über alle grundsätzlichen Angelegenheiten der
+(8) Der Stiftungsrat bestimmt die Grundzüge des Stiftungsprogramms
+und beschließt über alle grundsätzlichen Angelegenheiten der
 unselbständigen Stiftung, soweit dadurch nicht grundsätzliche
 Verwaltungsangelegenheiten des Trägers betroffen werden. Der
 Stiftungsrat entscheidet insbesondere über die Verwendung der Mittel
@@ -480,37 +448,37 @@ Berufung der Mitglieder des wissenschaftlichen Beraterkreises sowie
 der Direktorin oder des Direktors und kontrolliert ihre oder seine
 Tätigkeit. Der Stiftungsrat gibt sich eine Geschäftsordnung.
 
-(9) Gegen Entscheidungen des Stiftungsrates steht der Präsidentin oder
-dem Präsidenten (§ 7) ein Vetorecht zu, wenn sie gegen
+(9) Gegen Entscheidungen des Stiftungsrates steht der Präsidentin
+oder dem Präsidenten (§ 7) ein Vetorecht zu, wenn sie gegen
 Rechtsvorschriften, insbesondere gegen die Satzung des Trägers oder
 gegen den Grundsatz der Wirtschaftlichkeit und Sparsamkeit, verstoßen.
 
-(10) In Haushalts- und Personalangelegenheiten können Beschlüsse nur
-mit Zustimmung des auf Vorschlag der oder des Beauftragten der
-Bundesregierung für Kultur und Medien gewählten
+(10) In Haushalts- und Personalangelegenheiten können
+Beschlüsse nur mit Zustimmung des auf Vorschlag der oder des
+Beauftragten der Bundesregierung für Kultur und Medien gewählten
 Stiftungsratsmitgliedes gefasst werden.
 
 
 ### § 20 Wissenschaftlicher Beraterkreis
 
-(1) Der Stiftungsrat richtet einen wissenschaftlichen Beraterkreis mit
-bis zu 15 Mitgliedern ein. Die Mitglieder werden für fünf Jahre
-berufen. Wiederholte Berufungen sind zulässig. Bei den Mitgliedern des
-wissenschaftlichen Beraterkreises muss es sich um Persönlichkeiten
+(1) Der Stiftungsrat richtet einen wissenschaftlichen Beraterkreis
+mit bis zu 15 Mitgliedern ein. Die Mitglieder werden für fünf Jahre
+berufen. Wiederholte Berufungen sind zulässig. Bei den Mitgliedern
+des wissenschaftlichen Beraterkreises muss es sich um Persönlichkeiten
 handeln, die auf Grund ihrer Sachkunde geeignet sind, den Stiftungsrat
 und die Direktorin oder den Direktor in fachlichen Fragen zu beraten.
 
-(2) Der wissenschaftliche Beraterkreis berät den Stiftungsrat und die
-Direktorin oder den Direktor entsprechend dem Stiftungszweck in
-fachlichen Fragen. Er soll dazu beitragen, dass die unselbständige
-Stiftung die historischen Ereignisse ausgewogen und
+(2) Der wissenschaftliche Beraterkreis berät den Stiftungsrat und
+die Direktorin oder den Direktor entsprechend dem Stiftungszweck
+in fachlichen Fragen. Er soll dazu beitragen, dass die
+unselbständige Stiftung die historischen Ereignisse ausgewogen und
 geschichtswissenschaftlich fundiert sowie lebendig, umfassend und
 anschaulich darstellt.
 
 (3) Der wissenschaftliche Beraterkreis wählt aus seiner Mitte eine
-Vorsitzende und deren Stellvertreterin oder Stellvertreter oder einen
-Vorsitzenden und dessen Stellvertreterin oder Stellvertreter mit der
-Mehrheit der abgegebenen Stimmen. An den Sitzungen des
+Vorsitzende und deren Stellvertreterin oder Stellvertreter oder
+einen Vorsitzenden und dessen Stellvertreterin oder Stellvertreter
+mit der Mehrheit der abgegebenen Stimmen. An den Sitzungen des
 wissenschaftlichen Beraterkreises nehmen die Direktorin oder der
 Direktor sowie die oder der Vorsitzende des Stiftungsrates mit
 Rederecht teil.

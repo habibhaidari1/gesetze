@@ -32,8 +32,8 @@ verordnet das Bundesministerium des Innern:
 ## § 1 Inhalt der Datensätze
 
 (1) Die Speicherung der Daten im Nationalen Waffenregister erfolgt
-nach Maßgabe des Datensatzes für das Waffenwesen (DSWaffe) vom 6. Juli
-2012 (BAnz AT 22.08.2012 B2) in der jeweils aktuellen Fassung.
+nach Maßgabe des Datensatzes für das Waffenwesen (DSWaffe) vom 6.
+Juli 2012 (BAnz AT 22.08.2012 B2) in der jeweils aktuellen Fassung.
 Änderungen des DSWaffe werden vom Bundesministerium des Innern, für
 Bau und Heimat im Bundesanzeiger bekannt gemacht; anzugeben ist das
 Herausgabedatum und ab wann der geänderte DSWaffe anzuwenden ist.
@@ -50,13 +50,13 @@ Koblenz, jedermann zugänglich und archivmäßig gesichert niedergelegt.
 informationstechnischen Netze von Bund, Ländern und Kommunen. Die
 Datenübermittlung zwischen dem Bund und den Ländern erfolgt gemäß § 3
 des Gesetzes zur Ausführung von Artikel 91c Absatz 4 des Grundgesetzes
-vom 10. August 2009 (BGBl. I S. 2702, 2706) in der jeweils geltenden
+vom 10. August 2009 (BGBl. I S. 2702, 2706) in der jeweils geltenden
 Fassung über das Verbindungsnetz.
 
 (2) Die Datenübermittlung durch die Waffenbehörden an die
 Registerbehörde erfolgt elektronisch unter Nutzung des
-Datenaustauschstandards XWaffe vom 6. Juli 2012 (BAnz AT 22.08.2012
-B3) in der jeweils aktuellen Fassung. Änderungen des
+Datenaustauschstandards XWaffe vom 6. Juli 2012 (BAnz AT
+22\.08.2012 B3) in der jeweils aktuellen Fassung. Änderungen des
 Datenaustauschstandards XWaffe werden vom Bundesministerium des
 Innern, für Bau und Heimat im Bundesanzeiger bekannt gemacht;
 anzugeben ist das Herausgabedatum und ab wann der geänderte
@@ -71,8 +71,8 @@ gemachten technischen Ausführungsregeln vom 29. Juni 2012 (BAnz AT
 gemacht; anzugeben ist, ab wann die geänderten Ausführungsregeln
 anzuwenden sind.
 
-(4) Der jeweils aktuelle Stand des Datenaustauschstandards XWaffe und
-der technischen Ausführungsregeln sind beim Bundesverwaltungsamt,
+(4) Der jeweils aktuelle Stand des Datenaustauschstandards XWaffe
+und der technischen Ausführungsregeln sind beim Bundesverwaltungsamt,
 Barbarastraße 1, 50735 Köln, zu beziehen. Die Bekanntmachungen sind
 beim Bundesarchiv, Potsdamer Straße 1, 56075 Koblenz, jedermann
 zugänglich und archivmäßig gesichert niedergelegt.
@@ -89,11 +89,7 @@ Länder.
 
 1.  ein Meldeportal (Web-Portal) und
 
-
 2.  eine automatisierte Schnittstelle (Web-Service).
-
-
-
 
 (3) Der Inhaber einer Erlaubnis nach § 21 Absatz 1 Satz 1 des
 Waffengesetzes hat bei der Waffenbehörde schriftlich oder elektronisch
@@ -105,15 +101,15 @@ erfolgt über die PKI-Leistungen des Verbindungsnetzes.
 
 (4) § 2 Absatz 2 und 3 Satz 1 und 2 gilt entsprechend.
 
-(5) Das Bundesministerium des Innern, für Bau und Heimat macht die
-Schnittstellenspezifikation zur Nutzung des automatisierten
+(5) Das Bundesministerium des Innern, für Bau und Heimat macht
+die Schnittstellenspezifikation zur Nutzung des automatisierten
 Fachverfahrens nach Absatz 2 Nummer 2 im Bundesanzeiger bekannt;
-anzugeben ist, ab wann die Schnittstellenspezifikation zu nutzen ist
-und wo die Schnittstellenspezifikation zu beziehen ist. Satz 1 gilt
-entsprechend für Änderungen der Schnittstellenspezifikation. Die
-Schnittstellenspezifikation ist in der jeweils aktuell geltenden
+anzugeben ist, ab wann die Schnittstellenspezifikation zu nutzen
+ist und wo die Schnittstellenspezifikation zu beziehen ist. Satz 1
+gilt entsprechend für Änderungen der Schnittstellenspezifikation.
+Die Schnittstellenspezifikation ist in der jeweils aktuell geltenden
 Fassung anzuwenden. Die Bekanntmachungen sind beim Bundesarchiv,
-Potsdamer Straße 1, 56075 Koblenz, jedermann zugänglich und
+Potsdamer Straße 1, 56075 Koblenz, jedermann zugänglich und
 archivmäßig gesichert niedergelegt.
 
 
@@ -131,13 +127,13 @@ vergibt zu diesen Daten die waffenrechtliche Entscheidungs-
 Ordnungsnummer und teilt diese der Waffenbehörde mit. Die
 Waffenbehörde übermittelt unter Bezugnahme auf die waffenrechtliche
 Entscheidungs-Ordnungsnummer die Grunddaten der Waffe oder des
-wesentlichen Teils. Die Registerbehörde vergibt für die Grunddaten der
-Waffe oder des wesentlichen Teils die Waffen- oder Waffenteil-
+wesentlichen Teils. Die Registerbehörde vergibt für die Grunddaten
+der Waffe oder des wesentlichen Teils die Waffen- oder Waffenteil-
 Ordnungsnummer.
 
-(2) Besteht im Register zu einer Person oder einer Waffe bereits ein
-Datensatz, werden diesem die übermittelten Daten durch Angabe der
-Ordnungsnummer nach § 7 Absatz 1 des Waffenregistergesetzes
+(2) Besteht im Register zu einer Person oder einer Waffe bereits
+ein Datensatz, werden diesem die übermittelten Daten durch Angabe
+der Ordnungsnummer nach § 7 Absatz 1 des Waffenregistergesetzes
 zugeordnet.
 
 (3) Stimmen Angaben nach § 6 Absatz 1 Nummer 2 oder Nummer 3 des
@@ -165,22 +161,22 @@ mitgeteilt hat, dass er diese Maßnahmen getroffen hat. Die
 Registerbehörde ist nicht verpflichtet zu überprüfen, ob die Maßnahmen
 tatsächlich getroffen worden sind.
 
-(3) Die Zulassung zum Datenabruf im automatisierten Verfahren kann auf
-bestimmte Standorte, inhaltlich beschränkt und mit einer Auflage
-versehen werden, um zu verhindern, dass ein automatisierter Datenabruf
-erfolgt, wenn die gesetzlichen Voraussetzungen hierfür nicht
-vorliegen.
+(3) Die Zulassung zum Datenabruf im automatisierten Verfahren
+kann auf bestimmte Standorte, inhaltlich beschränkt und mit einer
+Auflage versehen werden, um zu verhindern, dass ein automatisierter
+Datenabruf erfolgt, wenn die gesetzlichen Voraussetzungen hierfür
+nicht vorliegen.
 
-(4) Die Registerbehörde führt ein Verzeichnis der zum Abruf im
-automatisierten Verfahren zugelassenen öffentlichen Stellen und der
-getroffenen Maßnahmen. Die Registerbehörde hat die
+(4) Die Registerbehörde führt ein Verzeichnis der zum Abruf
+im automatisierten Verfahren zugelassenen öffentlichen Stellen
+und der getroffenen Maßnahmen. Die Registerbehörde hat die
 Zulassungsunterlagen aufzubewahren und gegen Zugriff durch Unbefugte
 zu sichern.
 
 (5) Die Registerbehörde gewährleistet im automatisierten
-Abrufverfahren nach den §§ 20 und 21 des Waffenregistergesetzes durch
-programmtechnische Vorkehrungen, dass keine Daten übermittelt werden,
-wenn die Identität der abfragenden Stelle nicht zweifelsfrei
+Abrufverfahren nach den §§ 20 und 21 des Waffenregistergesetzes
+durch programmtechnische Vorkehrungen, dass keine Daten übermittelt
+werden, wenn die Identität der abfragenden Stelle nicht zweifelsfrei
 feststeht. Sie dokumentiert für sechs Monate Anfragen ohne Kennung und
 Anfragen mit einer fehlerhaften Kennung.
 
@@ -196,9 +192,9 @@ gilt entsprechend.
 ## § 6 Identitätsfeststellung durch die zum Ersuchen berechtigten Stellen
 
 Ähnliche Personen, ähnliche Kaufleute, ähnliche juristische Personen,
-ähnliche Personenvereinigungen und ähnliche Waffen im Sinne des § 16
-Absatz 3 des Waffenregistergesetzes sind solche, deren Daten nach § 6
-Absatz 1 des Waffenregistergesetzes oder abweichende
+ähnliche Personenvereinigungen und ähnliche Waffen im Sinne des
+§ 16 Absatz 3 des Waffenregistergesetzes sind solche, deren Daten
+nach § 6 Absatz 1 des Waffenregistergesetzes oder abweichende
 Namensschreibweisen mit den im Übermittlungsersuchen angegebenen Daten
 nach § 6 Absatz 1 des Waffenregistergesetzes übereinstimmen oder nur
 geringfügig davon abweichen.
@@ -210,13 +206,13 @@ geringfügig davon abweichen.
 Maßnahmen, die erforderlich sind, um die Verfügbarkeit, Integrität,
 Authentizität und Vertraulichkeit der verarbeiteten Daten entsprechend
 dem jeweiligen Stand der Technik sicherzustellen. Dabei ist die
-besondere Schutzbedürftigkeit der im Register gespeicherten Daten zu
-berücksichtigen.
+besondere Schutzbedürftigkeit der im Register gespeicherten Daten
+zu berücksichtigen.
 
 (2) Die Waffenbehörden und die zum Ersuchen berechtigten Stellen
 treffen die technischen und organisatorischen Maßnahmen, die
-erforderlich sind, um die Verfügbarkeit, Integrität, Authentizität und
-Vertraulichkeit der in ihren Systemen verarbeiteten Daten für das
+erforderlich sind, um die Verfügbarkeit, Integrität, Authentizität
+und Vertraulichkeit der in ihren Systemen verarbeiteten Daten für das
 Nationale Waffenregister entsprechend dem jeweiligen Stand der Technik
 sicherzustellen. Dabei ist die besondere Schutzbedürftigkeit der
 verarbeiteten Daten zu berücksichtigen.
@@ -230,10 +226,10 @@ und organisatorischen Maßnahmen die Vorgaben des für die jeweilige
 Behörde anzuwendenden Datenschutzgesetzes und dieser Verordnung
 gewährleistet werden.
 
-(4) Die Organisation der in den Absätzen 1 und 2 genannten Stellen ist
-so zu gestalten, dass sie den Grundsätzen der Aufgabentrennung und der
-Erforderlichkeit entsprechen; insbesondere ist der Zugang zu
-personenbezogenen Daten nur so weit gestattet, wie es der
+(4) Die Organisation der in den Absätzen 1 und 2 genannten Stellen
+ist so zu gestalten, dass sie den Grundsätzen der Aufgabentrennung
+und der Erforderlichkeit entsprechen; insbesondere ist der Zugang
+zu personenbezogenen Daten nur so weit gestattet, wie es der
 Aufgabenerfüllung dient.
 
 

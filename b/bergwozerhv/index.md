@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl I: 1982, 1400
 
 
-
 ## Eingangsformel
 
 Auf Grund der §§ 18e Satz 3 und 18a des Wohnungsbindungsgesetzes in
@@ -31,8 +30,8 @@ Diese Verordnung ist auf Darlehen anzuwenden, die außerhalb des
 Saarlandes vor dem 1. Januar 1970 für den Bau von Eigenheimen,
 Kleinsiedlungen, Kaufeigenheimen, Eigentumswohnungen,
 Kaufeigentumswohnungen oder von Wohnungen in der Rechtsform eines
-eigentumsähnlichen Dauerwohnrechts aus dem Treuhandvermögen des Bundes
-nach dem Gesetz zur Förderung des Bergarbeiterwohnungsbaues im
+eigentumsähnlichen Dauerwohnrechts aus dem Treuhandvermögen des
+Bundes nach dem Gesetz zur Förderung des Bergarbeiterwohnungsbaues im
 Kohlenbergbau bewilligt worden sind.
 
 
@@ -47,34 +46,34 @@ Stelle mit einem Zinssatz von 8 vom Hundert jährlich zu verzinsen.
 Verlangen der darlehnsverwaltenden Stelle mit einem Zinssatz von 6 vom
 Hundert jährlich zu verzinsen.
 
-(3) Die Verzinsung beginnt mit dem ersten Zahlungsabschnitt, der auf
-den 31. Dezember 1982 folgt, soweit sich aus § 18b Abs. 4 des
+(3) Die Verzinsung beginnt mit dem ersten Zahlungsabschnitt, der
+auf den 31. Dezember 1982 folgt, soweit sich aus § 18b Abs. 4 des
 Wohnungsbindungsgesetzes nichts anderes ergibt.
 
 
 ## § 3 Begrenzung der Verzinsung
 
 (1) Die Mehrbelastung aus der höheren Verzinsung ist auf Einwendungen
-des Darlehnsschuldners auf den Kappungsbetrag zu begrenzen, der sich
-aus den Rechtsvorschriften des Landes zur Einschränkung von
-Zinsvergünstigungen bei mit öffentlichen Mitteln geförderten Wohnungen
-ergibt. Ist der Darlehnsschuldner wohnungsberechtigt im Sinne des § 4
-Abs. 1 Buchstabe a, b oder c des in § 1 bezeichneten Gesetzes, kommt
-es für die Begrenzung auf das Einkommen nicht an. Hat das Land keine
-entsprechenden Rechtsvorschriften erlassen, so hat die
-darlehnsverwaltende Stelle die Verzinsung auf Einwendungen des
-Darlehnsschuldners so zu begrenzen, daß die Mehrbelastung 70 Deutsche
-Mark im Monat nicht übersteigt; ist das Darlehen auch für eine zweite
-Wohnung in einem Eigenheim, einer Kleinsiedlung oder einem
+des Darlehnsschuldners auf den Kappungsbetrag zu begrenzen, der
+sich aus den Rechtsvorschriften des Landes zur Einschränkung
+von Zinsvergünstigungen bei mit öffentlichen Mitteln geförderten
+Wohnungen ergibt. Ist der Darlehnsschuldner wohnungsberechtigt im
+Sinne des § 4 Abs. 1 Buchstabe a, b oder c des in § 1 bezeichneten
+Gesetzes, kommt es für die Begrenzung auf das Einkommen nicht an.
+Hat das Land keine entsprechenden Rechtsvorschriften erlassen, so
+hat die darlehnsverwaltende Stelle die Verzinsung auf Einwendungen
+des Darlehnsschuldners so zu begrenzen, daß die Mehrbelastung 70
+Deutsche Mark im Monat nicht übersteigt; ist das Darlehen auch für
+eine zweite Wohnung in einem Eigenheim, einer Kleinsiedlung oder einem
 Kaufeigenheim bewilligt worden, erhöht sich die Kappungsgrenze auf 100
 Deutsche Mark im Monat.
 
-(2) Die Einwendungen können nur innerhalb einer Ausschlußfrist von 4
-Monaten nach dem Zugang der Mitteilung (§ 18b Abs. 3 des
-Wohnungsbindungsgesetzes) geltend gemacht werden. Hat das Land zum
-Zeitpunkt des Zuganges der Mitteilung keine Rechtsvorschrift nach
-Absatz 1 erlassen, können die Einwendungen nur innerhalb einer
-Ausschlußfrist von 4 Monaten nach dem Verkündungstage der
+(2) Die Einwendungen können nur innerhalb einer Ausschlußfrist
+von 4 Monaten nach dem Zugang der Mitteilung (§ 18b Abs. 3 des
+Wohnungsbindungsgesetzes) geltend gemacht werden. Hat das Land
+zum Zeitpunkt des Zuganges der Mitteilung keine Rechtsvorschrift
+nach Absatz 1 erlassen, können die Einwendungen nur innerhalb
+einer Ausschlußfrist von 4 Monaten nach dem Verkündungstage der
 Rechtsvorschrift geltend gemacht werden.
 
 

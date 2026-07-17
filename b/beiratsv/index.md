@@ -38,41 +38,30 @@ Dem Beirat gehören an
 
 1.  vier Vertreter aus den Lehrkörpern der Ausbildungsstätten,
 
-
 2.  fünf Vertreter aus dem Kreis der Auszubildenden,
-
 
 3.  zwei Vertreter der Rechts-, Wirtschafts- oder Sozialwissenschaften,
 
-
 4.  je ein Vertreter der Arbeitgeber und Arbeitnehmer,
-
 
 5.  ein Vertreter der Elternschaft,
 
-
 6.  vier Vertreter der Obersten Landesbehörden für Ausbildungsförderung,
-
 
 7.  zwei Vertreter der Bundesvereinigung der kommunalen Spitzenverbände,
 
-
 8.  ein Vertreter der Bundesagentur für Arbeit,
-
 
 9.  ein Vertreter des Deutschen Studentenwerkes e.V..
 
 
-
-
-
 ## § 3 Berufung und Dauer der Mitgliedschaft
 
-(1) Die Mitglieder des Beirates werden von dem Bundesministerium für
-Bildung und Forschung in der Regel für die Dauer von 4 Jahren berufen.
-Die Mitglieder nach § 2 Nr. 2, die den Kreis der Schüler vertreten,
-werden in der Regel für die Dauer von zwei Jahren berufen. Die
-Mitglieder nach § 2 Nr. 1, 2 und 6 werden auf Vorschlag des
+(1) Die Mitglieder des Beirates werden von dem Bundesministerium
+für Bildung und Forschung in der Regel für die Dauer von 4 Jahren
+berufen. Die Mitglieder nach § 2 Nr. 2, die den Kreis der Schüler
+vertreten, werden in der Regel für die Dauer von zwei Jahren berufen.
+Die Mitglieder nach § 2 Nr. 1, 2 und 6 werden auf Vorschlag des
 Bundesrates, die übrigen Mitglieder mit seiner Zustimmung berufen.
 
 (2) Das Bundesministerium für Bildung und Forschung kann mit
@@ -84,8 +73,8 @@ maßgebend waren.
 
 ## § 4 Aufgaben des Beirates
 
-Der Beirat berät das Bundesministerium für Bildung und Forschung nach
-Maßgabe des § 44 Abs. 1 des Gesetzes durch gutachtliche
+Der Beirat berät das Bundesministerium für Bildung und Forschung
+nach Maßgabe des § 44 Abs. 1 des Gesetzes durch gutachtliche
 Stellungnahmen.
 
 
@@ -97,8 +86,8 @@ Bundesministeriums für Bildung und Forschung bedarf.
 
 ## § 6 Geschäftsführung
 
-Die Geschäfte des Beirates führt das Bundesministerium für Bildung und
-Forschung.
+Die Geschäfte des Beirates führt das Bundesministerium für Bildung
+und Forschung.
 
 
 ## § 7 Inkrafttreten

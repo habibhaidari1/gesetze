@@ -55,17 +55,12 @@ auf Verlangen in zwei Stücken vorlegt:
 1.  Orts- und Lageplan der Betriebsräume, in denen das Magermilchpulver
     hergestellt und gelagert werden soll,
 
-
 2.  Beschreibung der vorhandenen technischen Einrichtungen,
-
 
 3.  Beschreibung der vorgesehenen Herstellungsvorgänge und der dabei zu
     verwendenden Magermilchmengen sowie Art und Menge der Herstellung
     anderer Erzeugnisse, insbesondere Buttermilchpulver und Molkenpulver,
     mit Angabe der voraussichtlichen Ausbeute.
-
-
-
 
 (3) Die Anerkennung wird dem Beteiligten durch einen Erlaubnisschein
 erteilt.
@@ -85,38 +80,27 @@ Monaten neu erteilt werden.
 1.  ordnungsgemäß kaufmännische Bücher zu führen und regelmäßige
     Abschlüsse zu machen,
 
-
 2.  gesonderte Aufzeichnungen zu machen über
 
     a)  den Zugang und Abgang oder den sonstigen Verbleib sowie den Bestand an
         Magermilch, Buttermilch und Molke,
 
-
     b)  die hergestellten Mengen an Magermilchpulver, Buttermilchpulver,
         Molkenpulver, Kaseine und Kaseinate,
 
-
     c)  die Art der Verpackung, die Kennzeichnung, den Verbleib sowie den
-        Auslieferungstag jeder Partie Magermilchpulver, Buttermilchpulver und
-        Molkenpulver,
-
-
-
-
+        Auslieferungstag jeder Partie Magermilchpulver, Buttermilchpulver
+        und Molkenpulver,
 
 3.  auf Verlangen weitere Aufzeichnungen über die einzelnen
     Verarbeitungsvorgänge sowie die dabei verwendeten Erzeugnismengen und
     -zutaten zu führen,
 
-
 4.  jede Veränderung hinsichtlich der nach § 3 Abs. 2 gemachten Angaben
     der Bundesanstalt unverzüglich mitzuteilen.
 
-
-
-
-(2) Erstreckt sich eine Inventur des Beteiligten auf Waren, die sich
-unter amtlicher Überwachung befinden, so hat der Beteiligte der
+(2) Erstreckt sich eine Inventur des Beteiligten auf Waren, die
+sich unter amtlicher Überwachung befinden, so hat der Beteiligte der
 Bundesanstalt den Zeitpunkt der Inventur so rechtzeitig anzuzeigen,
 daß eine amtliche Bestandsaufnahme durch die Bundesanstalt mit der
 Inventur verbunden werden kann.
@@ -130,10 +114,10 @@ Aufbewahrungsfristen nach anderen Vorschriften bestehen.
 ## § 5 Duldungs- und Mitwirkungspflichten
 
 Zum Zwecke der Überwachung hat der Beteiligte den Beauftragten der
-Bundesanstalt das Betreten der Geschäftsräume und Betriebsstätten, die
-Aufnahme der Bestände an Magermilchpulver, Buttermilchpulver,
-Molkenpulver und anderen Erzeugnissen sowie die Entnahme von Proben
-aus den für die öffentliche Lagerhaltung vorgesehenen
+Bundesanstalt das Betreten der Geschäftsräume und Betriebsstätten,
+die Aufnahme der Bestände an Magermilchpulver, Buttermilchpulver,
+Molkenpulver und anderen Erzeugnissen sowie die Entnahme von
+Proben aus den für die öffentliche Lagerhaltung vorgesehenen
 Magermilchpulvermengen während der Geschäfts- und Betriebszeit zu
 gestatten, auf Verlangen die in Betracht kommenden kaufmännischen
 Bücher, besonderen Aufzeichnungen, Belege und sonstigen Schriftstücke

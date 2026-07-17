@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl I: 2002, 2592
 
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
@@ -30,17 +29,17 @@ beschlossen:
 
 ## Art 3 Übergangsvorschriften
 
-(1) Für Studierende, die vor Inkrafttreten dieses Gesetzes das Studium
-aufgenommen haben und sich bis zum 1. Juli 2006 zur ersten
+(1) Für Studierende, die vor Inkrafttreten dieses Gesetzes das
+Studium aufgenommen haben und sich bis zum 1. Juli 2006 zur ersten
 Staatsprüfung gemeldet haben, finden die bis zum Inkrafttreten dieses
 Gesetzes geltenden Vorschriften des Deutschen Richtergesetzes zum
 Studium und zur ersten Staatsprüfung Anwendung. Das Landesrecht kann
 den Studierenden freistellen, sich nach neuem Recht prüfen zu lassen.
 
 (2) Für Referendare, die bis zum 1. Juli 2005 den Vorbereitungsdienst
-aufgenommen haben, findet § 5b des Deutschen Richtergesetzes in der
-bisher geltenden Fassung Anwendung. Abweichend von Satz 1 kann das
-Landesrecht bestimmen, dass die dem Artikel 1 dieses Gesetzes
+aufgenommen haben, findet § 5b des Deutschen Richtergesetzes in
+der bisher geltenden Fassung Anwendung. Abweichend von Satz 1 kann
+das Landesrecht bestimmen, dass die dem Artikel 1 dieses Gesetzes
 entsprechenden landesrechtlichen Vorschriften für Referendare gelten,
 die nach dem Inkrafttreten dieses Gesetzes den Vorbereitungsdienst
 aufnehmen. Wer den Vorbereitungsdienst nach § 5b des Deutschen

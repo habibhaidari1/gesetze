@@ -1,9 +1,5 @@
 ---
-Title: Gesetz zur Ausführung des Beschlusses 2009/917/JI des Rates vom 30. November
-  2009 über den Einsatz der Informationstechnologie im Zollbereich sowie zur Verordnung
-  (EG) Nr. 515/97 des Rates vom 13. März 1997 über die gegenseitige Amtshilfe zwischen
-  Verwaltungsbehörden der Mitgliedstaaten und die Zusammenarbeit dieser Behörden mit
-  der Kommission im Hinblick auf die ordnungsgemäße Anwendung der Zoll- und der Agrarregelung
+Title: Gesetz zur Ausführung des Beschlusses 2009/917/JI des Rates vom 30. November 2009 über den Einsatz der Informationstechnologie im Zollbereich sowie zur Verordnung (EG) Nr. 515/97 des Rates vom 13. März 1997 über die gegenseitige Amtshilfe zwischen Verwaltungsbehörden der Mitgliedstaaten und die Zusammenarbeit dieser Behörden mit der Kommission im Hinblick auf die ordnungsgemäße Anwendung der Zoll- und der Agrarregelung
 jurabk: ZISAG
 layout: default
 origslug: zisag
@@ -22,7 +18,8 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 26 Abs. 7 G v. 20.11.2019 I 1724
 
-Stand: Zum Inkrafttreten vgl. § 7
+Stand
+:   Zum Inkrafttreten vgl. § 7
 
 
 ## Eingangsformel
@@ -33,8 +30,8 @@ beschlossen:
 
 ## § 1
 
-Für Schadenersatzansprüche nach Artikel 30 des Beschlusses 2009/917/JI
-des Rates vom 30. November 2009 über den Einsatz der
+Für Schadenersatzansprüche nach Artikel 30 des Beschlusses
+2009/917/JI des Rates vom 30. November 2009 über den Einsatz der
 Informationstechnologie im Zollbereich (ABl. L 323 vom 10.12.2009, S.
 20, L 234 vom 4.9.2010, S. 17) sowie für Schadensersatzansprüche nach
 Artikel 40 Absatz 2 der Verordnung (EG) Nr. 515/97 des Rates vom 13.
@@ -50,8 +47,8 @@ durch die Generalzolldirektion, geltend zu machen.
 
 ## § 2
 
-Das Verzeichnis der Zuwiderhandlungen im Sinne des Artikels 15 Absatz
-3 Satz 1 des Beschlusses 2009/917/JI enthält ausschließlich
+Das Verzeichnis der Zuwiderhandlungen im Sinne des Artikels 15
+Absatz 3 Satz 1 des Beschlusses 2009/917/JI enthält ausschließlich
 zollstrafrechtliche Vorschriften in den in Artikel 2 Nummer 1 dieses
 Beschlusses genannten Bereichen, die mit einer Freiheitsstrafe oder
 einer die Freiheit beschränkenden Maßnahme der Sicherung und Besserung
@@ -64,8 +61,8 @@ Verzeichnis nach Satz 1.
 
 (1) Die Generalzolldirektion, die Zollfahndungsämter und die
 Hauptzollämter dürfen dienstlich erlangte Informationen einschließlich
-personenbezogener Daten im Zollinformationssystem nach dem Beschluss
-2009/917/JI sowie nach der Verordnung (EG) Nr. 515/97 im
+personenbezogener Daten im Zollinformationssystem nach dem
+Beschluss 2009/917/JI sowie nach der Verordnung (EG) Nr. 515/97 im
 automatisierten Verfahren erfassen.
 
 (2) Die Daten werden nur erfasst, soweit dies für die Erreichung des
@@ -91,21 +88,16 @@ natürlichen Personen sind zu löschen nach Ablauf
     169a der Strafprozessordnung), wenn in diesem Zeitpunkt keine Anklage
     erhoben worden ist,
 
-
 2.  von drei Jahren in Strafverfahren, bei denen der Abschluss der
     Ermittlungen noch nicht verfügt ist (§ 169a der Strafprozessordnung),
     wenn in diesem Zeitraum keine Anklage erhoben worden ist,
-
 
 3.  von sechs Jahren bei Strafverfahren, die zur Erhebung der Anklage,
     aber noch nicht zu einer rechtskräftigen Verurteilung geführt haben,
     oder
 
-
 4.  von zehn Jahren bei Strafverfahren, die zu einer rechtskräftigen
     Verurteilung geführt haben.
-
-
 
 Die Fristen nach Satz 1 Nr. 2 bis 4 beginnen mit dem Tag, an dem die
 Daten erstmals in der Ermittlungsakte vermerkt werden.
@@ -130,12 +122,9 @@ natürlichen Personen dieser Unternehmen
 
 a)  Ermittlungen wegen der in § 2 genannten Straftaten oder
 
-
 b)  Ermittlungen wegen einer Aufsichtspflichtverletzung (§ 130 des
     Gesetzes über Ordnungswidrigkeiten), die zu den in § 2 genannten
     Straftaten geführt haben kann oder ursächlich dafür gewesen sein kann,
-
-
 
 geführt werden. Daten nach Satz 1 Buchstabe b dürfen nur Hinweise auf
 die Ermittlungsakten zu den in § 2 genannten Straftaten enthalten.
@@ -146,8 +135,8 @@ Absatz 1 eingestellten Daten gemäß § 5 zu löschen sind.
 
 (3) Absatz 1 gilt auch, wenn wegen der dort genannten Straftaten ein
 selbständiges Verfahren nach § 30 Absatz 4 Satz 1 des Gesetzes über
-Ordnungswidrigkeiten durchgeführt wird. Die Daten sind unverzüglich zu
-löschen, wenn das Bußgeldverfahren nicht nur vorläufig eingestellt
+Ordnungswidrigkeiten durchgeführt wird. Die Daten sind unverzüglich
+zu löschen, wenn das Bußgeldverfahren nicht nur vorläufig eingestellt
 oder eine Bußgeldfestsetzung durch das Gericht rechtskräftig abgelehnt
 wird. Im Übrigen sind die Daten zu löschen nach Ablauf
 
@@ -155,27 +144,22 @@ wird. Im Übrigen sind die Daten zu löschen nach Ablauf
     Staatsanwaltschaft an das Gericht zur Festsetzung einer Geldbuße noch
     nicht gestellt worden ist,
 
-
 2.  von drei Jahren, wenn ein Antrag der Staatsanwaltschaft an das Gericht
     zur Festsetzung einer Geldbuße noch nicht gestellt worden ist,
-
 
 3.  von sechs Jahren, wenn ein Bußgeldbescheid erlassen worden ist, eine
     Bußgeldfestsetzung jedoch noch nicht rechtskräftig geworden ist oder
 
-
 4.  von zehn Jahren, wenn es zu einer rechtskräftigen Bußgeldfestsetzung
     gekommen ist.
-
-
 
 § 5 Absatz 1 Satz 2 gilt entsprechend.
 
 
 ## § 7
 
-Der Beschluss 2009/917/JI des Rates vom 30. November 2009 über den
-Einsatz der Informationstechnologie im Zollbereich (ABl. L 323 vom
-10\.12.2009, S. 20, L 234 vom 4.9.2010, S. 17) findet mit dem
+Der Beschluss 2009/917/JI des Rates vom 30. November 2009 über
+den Einsatz der Informationstechnologie im Zollbereich (ABl. L 323
+vom 10.12.2009, S. 20, L 234 vom 4.9.2010, S. 17) findet mit dem
 Inkrafttreten dieses Gesetzes uneingeschränkte Anwendung.
 

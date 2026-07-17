@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Schutz- und Sicherheitshäfen der Bundesrepublik Deutschland
-  an Binnenschiffahrtsstraßen im Bereich der Wasser- und Schiffahrtsdirektion Nord
+Title: Verordnung über die Schutz- und Sicherheitshäfen der Bundesrepublik Deutschland an Binnenschiffahrtsstraßen im Bereich der Wasser- und Schiffahrtsdirektion Nord
 jurabk: NordBinSchHfV
 layout: default
 origslug: nordbinschhfv
@@ -15,4 +14,7 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BAnz: 1983, Nr 62, 2834
+
+Fundstelle
+:   BAnz: 1983, 2834
 

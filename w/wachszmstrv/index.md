@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen
-  und im fachtheoretischen Teil der Meisterprüfung für das Wachszieher-Handwerk
+Title: Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Wachszieher-Handwerk
 jurabk: WachszMstrV
 layout: default
 origslug: wachszmstrv
@@ -20,7 +19,6 @@ Geändert durch
 :   Art. 2 Abs. 6 V v. 18.1.2022 I 39
 
 
-
 ## Eingangsformel
 
 Auf Grund des § 45 der Handwerksordnung in der Fassung der
@@ -33,7 +31,6 @@ Bildung und Wissenschaft verordnet:
 ## 1. Abschnitt - Berufsbild
 
 
-
 ### § 1 Berufsbild
 
 (1) Dem Wachszieher-Handwerk sind folgende Tätigkeiten zuzurechnen:
@@ -41,21 +38,14 @@ Bildung und Wissenschaft verordnet:
 1.  Entwurf, Herstellung und Dekorierung von gezogenen, gegossenen,
     gepreßten und getauchten Kerzen,
 
-
 2.  Entwurf, Anfertigung und Dekorierung von Wachsbildern sowie von
     Wappen, Symbolen und figürlichen Darstellungen aus Wachs,
 
-
 3.  Herstellung von Kompositionen aus verschiedenen Wachsrohstoffen,
-
 
 4.  Anfertigung von Wachsmodellen und Formen für Wachserzeugnisse,
 
-
 5.  Anfertigung von Wachsstöcken.
-
-
-
 
 (2) Dem Wachszieher-Handwerk sind folgende Kenntnisse und Fertigkeiten
 zuzurechnen:
@@ -64,125 +54,89 @@ zuzurechnen:
     chemischen Zusammensetzung, der Lagerung, Verwendung und Verarbeitung
     von Roh-, Werk- und Hilfsstoffen,
 
-
 2.  Kenntnisse der Funktionsweise und des Einsatzes von berufsbezogenen
     Geräten und mechanischen, hydraulischen, pneumatischen und
     elektrischen Maschinen,
 
-
 3.  Kenntnisse der Funktionsweise von Schmelzanlagen, Wärmespendern und
     -trägern,
 
-
 4.  Kenntnisse des Brennverhaltens von Kerzen,
-
 
 5.  Kenntnisse der Herstellungstechniken in der Einzel- und
     Serienfertigung,
-
 
 6.  Kenntnisse der Weiterverarbeitungs- und Veredelungstechniken,
     insbesondere der Farbgebung, Verzierung, Patinierung, Bemalung und
     Lackierung,
 
-
 7.  Kenntnisse über die Geschichte des Wachses, der Kerze, des
     Wachszieher-Handwerks sowie über Stile, Symbole, Ornamentik, Heraldik,
     Farbenlehre und Schriftarten,
 
-
 8.  Kenntnisse der Kompositionen aus verschiedenen Wachsrohstoffen,
 
-
 9.  Kenntnisse der Gütebestimmungen,
-
 
 10. Kenntnisse über die berufsbezogenen Vorschriften des Umwelt-,
     insbesondere des Immissionsschutzes, sowie über Energie- und
     Rohstoffeinsparung,
 
-
 11. Kenntnisse der berufsbezogenen Vorschriften der Arbeitssicherheit und
     des Arbeitsschutzes,
-
 
 12. Entwerfen von Motiven, insbesondere von Verzierungen für Kerzen, von
     Wachsbildern und figürlichen Darstellungen aus Wachs,
 
-
 13. Berechnen und Zubereiten von Kompositionen aus verschiedenen
     Wachsrohstoffen,
 
-
 14. Einfärben von Wachs,
-
 
 15. Hand- und Maschinenziehen von Kerzen,
 
-
 16. Maschinengießen von Kerzen,
-
 
 17. Pressen von Kerzen,
 
-
 18. Köpfeln und Lochen von Kerzen,
-
 
 19. Aufgießen von Kerzen,
 
-
 20. Ausgießen und Austunken von Kerzen,
-
 
 21. Verarbeiten von Dochten,
 
-
 22. Herstellen von Wachsplatten,
-
 
 23. Modellieren von Wachsbildern und figürlichen Darstellungen aus Wachs,
 
-
-24. Anfertigen von Formen für Wachsbilder und figürliche Darstellungen aus
-    Wachs,
-
+24. Anfertigen von Formen für Wachsbilder und figürliche Darstellungen
+    aus Wachs,
 
 25. Patinieren und Bemalen von Kerzen, Wachsbildern und figürlichen
     Darstellungen aus Wachs,
 
-
 26. Auflegen von Blattmetall auf Wachsfolien,
-
 
 27. Anfertigen und Ausstechen von Ornamenten,
 
-
 28. Schneiden und Walzen von Wachsstreifen,
-
 
 29. Entwerfen, Schneiden und Legen von Schriften,
 
-
 30. Verzieren von Kerzen und Wachsstöcken,
-
 
 31. Zwicken von Kerzen und Wachsstöcken,
 
-
 32. Restaurieren von verzierten Kerzen, Wachsbildern und figürlichen
     Darstellungen aus Wachs,
-
 
 33. Einstellen, Bedienen und Instandhalten der Schmelzanlagen,
     Wärmespender, Wärmeträger, Maschinen, Geräte und Werkzeuge.
 
 
-
-
-
 ## 2. Abschnitt - Prüfungsanforderungen in den Teilen I und II der Meisterprüfung
-
 
 
 ### § 2 Gliederung, Dauer und Bestehen der praktischen Prüfung (Teil I)
@@ -209,12 +163,8 @@ Arbeiten anzufertigen:
 1.  eine Votivkerze RAL 800/100 mm, 25% Bienenwachs, vom Docht auf selbst
     gegossen und voll verziert,
 
-
 2.  ein Wachsbild, Mindestgröße 400/300 mm, Motiv nach eigenem Entwurf,
     selbst modelliert und bemalt.
-
-
-
 
 (2) Der Prüfling hat vor Anfertigung der Meisterprüfungsarbeit dem
 Meisterprüfungsausschuß einen Entwurf in Form einer Werkzeichnung,
@@ -233,17 +183,11 @@ davon in jedem Fall die nach Nummer 1, auszuführen:
 1.  Modellieren eines Wachsbildes 15 X 15 cm oder einer figürlichen
     Darstellung aus Wachs, Höhe 20 cm,
 
-
 2.  Anfertigen einer zweiteiligen Form für Wachserzeugnisse,
-
 
 3.  Verzieren einer Kerze nach eigenem Entwurf,
 
-
 4.  Entwerfen und Zeichnen von Motiven nach eigenen Ideen.
-
-
-
 
 (2) Wird eine Meisterprüfungsarbeit nach § 3 Abs. 1 Nr. 2 angefertigt,
 so sind als Arbeitsprobe drei der nachstehend genannten Arbeiten,
@@ -252,19 +196,13 @@ davon in jedem Fall die nach Nummer 1, auszuführen:
 1.  maschinelles Ziehen von Kerzen mit 10% Bienenwachsgehalt, Durchmesser
     2 cm,
 
-
 2.  Einstellen von Preß-, Tauch-, Fräs-, Bohr- und Verpackungsmaschinen,
-
 
 3.  Aufgießen einer Kerze, Durchmesser 6 cm, Länge 70 cm, mit Wachs, das
     10% Bienenwachs enthält,
 
-
 4.  Pressen von Kerzen aus pulverförmigem Rohmaterial in zwei
     Durchmessern.
-
-
-
 
 (3) In der Arbeitsprobe sind die wichtigsten Fertigkeiten und
 Kenntnisse zu prüfen, die in der Meisterprüfungsarbeit nicht oder nur
@@ -282,103 +220,64 @@ nachzuweisen:
 
     a)  Kompositionen aus verschiedenen Wachsrohstoffen,
 
-
     b)  Vorguß, Gleichguß, Ausguß bei gegossenen Kerzen,
-
 
     c)  Austunk bei Kerzen,
 
-
     d)  Farbmengen für Kerzen und Wachsmassen,
 
-
     e)  Stückzahlen und Gewichten;
-
-
-
-
 
 2.  Zeichnen:
 
     a)  Anfertigen von Skizzen und Zeichnungen,
 
-
     b)  Anfertigen von Dekoren,
 
-
     c)  Vergrößern und Verkleinern von Entwürfen;
-
-
-
-
 
 3.  Fachtechnologie:
 
     a)  Funktionsweise und Einsatz von berufsbezogenen Geräten und
         mechanischen, hydraulischen, pneumatischen und elektrischen Maschinen,
 
-
     b)  Funktionsweise der Schmelzanlagen, Wärmespender und -träger,
-
 
     c)  Brennverhalten von Kerzen,
 
-
     d)  Herstellungstechniken in der Einzel- und Serienfertigung,
-
 
     e)  Weiterverarbeitungs- und Veredelungstechniken, insbesondere
         Farbgebung, Verzierung, Patinierung, Bemalung und Lackierung,
 
-
     f)  berufsbezogene Vorschriften des Umwelt-, insbesondere des
         Immissionsschutzes, sowie über Energie- und Rohstoffeinsparung,
 
-
     g)  berufsbezogene Vorschriften der Arbeitssicherheit und des
         Arbeitsschutzes;
-
-
-
-
 
 4.  Gestaltung und Formgebung:
 
     a)  Geschichte des Wachses, der Kerze und des Wachszieher-Handwerks,
 
-
     b)  Stile, Symbole, Ornamentik, Heraldik und Schriftarten,
 
-
     c)  Farbenlehre;
-
-
-
-
 
 5.  Werkstoffkunde:
 
     a)  Arten, Herstellung, Eigenschaften, chemische Zusammensetzung,
         Lagerung, Verwendung und Verarbeitung der Roh-, Werk- und Hilfsstoffe,
 
-
     b)  Kompositionen aus verschiedenen Wachsrohstoffen,
 
-
     c)  Gütebestimmungen;
-
-
-
-
 
 6.  Kalkulation:
 
     Kostenermittlung unter Einbeziehung aller für die Preisbildung
     wesentlichen Faktoren, einschließlich der Berechnungen für die
     Angebots- und Nachkalkulation.
-
-
-
 
 (2) Die Prüfung ist schriftlich und mündlich durchzuführen.
 
@@ -399,7 +298,6 @@ ausreichende Leistungen in jedem der Prüfungsfächer nach Absatz 1 Nr.
 ## 3. Abschnitt - Übergangs- und Schlußvorschriften
 
 
-
 ### § 6 Übergangsvorschrift
 
 Die bei Inkrafttreten dieser Verordnung laufenden Prüfungsverfahren
@@ -416,7 +314,6 @@ sich nach der Allgemeinen Meisterprüfungsverordnung.
 
 
 ### § 8 (weggefallen)
-
 
 
 ### § 9 Inkrafttreten

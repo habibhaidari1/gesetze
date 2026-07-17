@@ -19,13 +19,13 @@ Neugefasst durch
 :   Bek. v. 18.11.2004 I 2855;
 
 Zuletzt geändert durch
-:   Art. 87 G v. 29.3.2017 I 626
+:   Art. 58 G v. 23.10.2024 I Nr. 323
 
 
 ## § 1 Beginn und Ende des Anspruchs
 
-(1) Soldatinnen und Soldaten haben nach Maßgabe des § 15 Absatz 1 oder
-1a des Bundeselterngeld- und Elternzeitgesetzes Anspruch auf
+(1) Soldatinnen und Soldaten haben nach Maßgabe des § 15 Absatz 1
+oder 1a des Bundeselterngeld- und Elternzeitgesetzes Anspruch auf
 Elternzeit unter Wegfall der Geld- und Sachbezüge mit Ausnahme der
 unentgeltlichen truppenärztlichen Versorgung und ohne Leistungen nach
 dem Unterhaltssicherungsgesetz.
@@ -33,11 +33,11 @@ dem Unterhaltssicherungsgesetz.
 (2) Der Anspruch auf Elternzeit besteht bis zur Vollendung des dritten
 Lebensjahres des Kindes, bei einem angenommenen, in Vollzeitpflege
 oder in Adoptionspflege genommenen Kind bis zu drei Jahren ab der
-Aufnahme bei der berechtigten Person, längstens bis zur Vollendung des
-achten Lebensjahres des Kindes. Ein Anteil von bis zu 24 Monaten kann
-jedoch zu einem späteren Zeitpunkt nach Maßgabe des § 28 Abs. 5 Satz 1
-Nr. 1 des Soldatengesetzes genommen werden. Insgesamt kann die
-Elternzeit auf bis zu vier Zeitabschnitte verteilt werden. Die
+Aufnahme bei der berechtigten Person, längstens bis zur Vollendung
+des achten Lebensjahres des Kindes. Ein Anteil von bis zu 24 Monaten
+kann jedoch zu einem späteren Zeitpunkt nach Maßgabe des § 28 Abs.
+5 Satz 1 Nr. 1 des Soldatengesetzes genommen werden. Insgesamt kann
+die Elternzeit auf bis zu vier Zeitabschnitte verteilt werden. Die
 Übertragung eines Anteils der Elternzeit muss rechtzeitig vor Beginn
 des zu übertragenden Zeitraums beantragt werden. Sie bedarf nicht der
 Zustimmung der Elternzeit erteilenden Stelle.
@@ -49,13 +49,13 @@ Adoptiveltern, Adoptivpflegeeltern und Vollzeitpflegeeltern.
 (4) Die Elternzeit kann vorzeitig beendet oder im Rahmen des Absatzes
 2 verlängert werden, wenn die nach § 3 Abs. 1 zuständige Stelle
 zustimmt. Die vorzeitige Beendigung wegen der Geburt eines weiteren
-Kindes oder wegen eines besonderen Härtefalles (§ 7 Absatz 2 Satz 3
-des Bundeselterngeld- und Elternzeitgesetzes) kann nur innerhalb von
-vier Wochen nach Antragstellung aus zwingenden dienstlichen Gründen
-abgelehnt werden. Die Elternzeit kann zur Inanspruchnahme der
-Schutzfristen nach § 5 Absatz 1 Satz 1 der Mutterschutzverordnung für
-Soldatinnen auch ohne Zustimmung des Dienstherrn vorzeitig beendet
-werden; in diesen Fällen soll die Soldatin die Beendigung der
+Kindes oder wegen eines besonderen Härtefalles (§ 7 Absatz 2 Satz
+3 des Bundeselterngeld- und Elternzeitgesetzes) kann nur innerhalb
+von vier Wochen nach Antragstellung aus zwingenden dienstlichen
+Gründen abgelehnt werden. Die Elternzeit kann zur Inanspruchnahme
+der Schutzfristen nach § 5 Absatz 1 Satz 1 der Mutterschutzverordnung
+für Soldatinnen auch ohne Zustimmung des Dienstherrn vorzeitig
+beendet werden; in diesen Fällen soll die Soldatin die Beendigung der
 Elternzeit rechtzeitig mitteilen. Die Elternzeit ist auf Wunsch zu
 verlängern, wenn ein vorgesehener Wechsel in der Anspruchsberechtigung
 aus einem wichtigen Grund nicht erfolgen kann.
@@ -75,13 +75,13 @@ Mutterschutzverordnung für Soldatinnen) beginnen soll, sechs Wochen,
 andernfalls acht Wochen vor Beginn schriftlich oder elektronisch
 beantragt werden. Dabei ist anzugeben, für welche Zeiträume innerhalb
 von zwei Jahren Elternzeit beantragt wird. Nimmt die Mutter die
-Elternzeit im Anschluss an die Mutterschutzfrist, wird die Zeit der
-Mutterschutzfrist nach § 5 Abs. 1 der Mutterschutzverordnung für
-Soldatinnen auf den Zweijahreszeitraum nach Satz 2 angerechnet. Nimmt
-die Mutter die Elternzeit im Anschluss an einen auf die
-Mutterschutzfrist folgenden Erholungsurlaub, werden die Zeit der
-Mutterschutzfrist nach § 5 Abs. 1 der Mutterschutzverordnung für
-Soldatinnen und die Zeit des Erholungsurlaubs auf den
+Elternzeit im Anschluss an die Mutterschutzfrist, wird die Zeit
+der Mutterschutzfrist nach § 5 Abs. 1 der Mutterschutzverordnung
+für Soldatinnen auf den Zweijahreszeitraum nach Satz 2 angerechnet.
+Nimmt die Mutter die Elternzeit im Anschluss an einen auf die
+Mutterschutzfrist folgenden Erholungsurlaub, werden die Zeit
+der Mutterschutzfrist nach § 5 Abs. 1 der Mutterschutzverordnung
+für Soldatinnen und die Zeit des Erholungsurlaubs auf den
 Zweijahreszeitraum nach Satz 2 angerechnet.
 
 (2) Können Soldatinnen und Soldaten aus einem von ihnen nicht zu
@@ -113,10 +113,10 @@ verzichtet werden.
 ## § 4 Nicht volle Erwerbstätigkeit
 
 Während der Elternzeit darf die Soldatin oder der Soldat mit
-Zustimmung des Bundesministeriums der Verteidigung oder der von ihm
-beauftragten Stelle eine Teilzeitbeschäftigung außerhalb des
+Zustimmung des Bundesministeriums der Verteidigung oder der von
+ihm beauftragten Stelle eine Teilzeitbeschäftigung außerhalb des
 Soldatenverhältnisses ausüben, wenn die Teilzeitbeschäftigung den
-Umfang von 30 Stunden in der Woche nicht überschreitet.
+Umfang von 32 Stunden in der Woche nicht überschreitet.
 
 
 ## § 5 (weggefallen)

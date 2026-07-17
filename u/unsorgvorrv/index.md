@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Gewährung von Vorrechten und Befreiungen an die Sonderorganisationen
-  der Vereinten Nationen
+Title: Verordnung über die Gewährung von Vorrechten und Befreiungen an die Sonderorganisationen der Vereinten Nationen
 jurabk: UNSOrgVorRV
 layout: default
 origslug: unsorgvorrv
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl II: 1971, 129
-
 
 
 ## Eingangsformel
@@ -35,7 +33,7 @@ Bundesregierung mit Zustimmung des Bundesrates:
 (1) Für die Gewährung von Vorrechten und Befreiungen an die folgenden
 Sonderorganisationen der Vereinten Nationen:
 
-*   Internationale Arbeitsorganisation
+-   Internationale Arbeitsorganisation
 
     (ILO - Anlage I -)
 
@@ -88,11 +86,9 @@ Sonderorganisationen der Vereinten Nationen:
 
     (IDA - Anlage XIV -)
 
-
-
 gilt das Abkommen über die Vorrechte und Befreiungen der
-Sonderorganisationen der Vereinten Nationen mit seinen Anlagen I bis
-VI, VIII und IX, XI bis XIV und seinen Anlagen II in der ersten
+Sonderorganisationen der Vereinten Nationen mit seinen Anlagen I
+bis VI, VIII und IX, XI bis XIV und seinen Anlagen II in der ersten
 revidierten Fassung vom 26. Mai 1960 sowie in der zweiten revidierten
 Fassung vom 28. Dezember 1965, VII in der ersten revidierten Fassung
 vom 1. Juni 1950, in der zweiten revidierten Fassung vom 1. Juli 1957
@@ -110,9 +106,9 @@ ersten revidierten Fassung.
 ## § 2
 
 Diese Verordnung gilt auch im Land Berlin gemäß § 14 des Dritten
-Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) in
-Verbindung mit Artikel 4 des Gesetzes vom 22. Juni 1954 über den
-Beitritt der Bundesrepublik Deutschland zum Abkommen über die
+Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1)
+in Verbindung mit Artikel 4 des Gesetzes vom 22. Juni 1954 über
+den Beitritt der Bundesrepublik Deutschland zum Abkommen über die
 Vorrechte und Befreiungen der Sonderorganisationen der Vereinten
 Nationen vom 21. November 1947 und über die Gewährung von Vorrechten
 und Befreiungen an andere zwischenstaatliche Organisationen
@@ -139,13 +135,13 @@ Wirkung vom 12. April 1962,
 g) soweit es sich um die Anwendung der Anlage II in ihrer ersten
 revidierten Fassung handelt, mit Wirkung vom 23. Mai 1963,
 h) soweit es sich um die Anwendung der Anlage II in ihrer zweiten
-revidierten Fassung, XII in ihrer ersten revidierten Fassung und XIV
-handelt, an dem Tag, an dem die betreffenden Anlagen für die
+revidierten Fassung, XII in ihrer ersten revidierten Fassung und
+XIV handelt, an dem Tag, an dem die betreffenden Anlagen für die
 Bundesrepublik Deutschland in Kraft treten; der Tag des Inkrafttretens
 ist im Bundesgesetzblatt bekanntzugeben.
 
-(2) Diese Verordnung tritt an dem Tage außer Kraft, an dem die in § 1
-genannten völkerrechtlichen Vereinbarungen außer Kraft treten. Im
+(2) Diese Verordnung tritt an dem Tage außer Kraft, an dem die in §
+1 genannten völkerrechtlichen Vereinbarungen außer Kraft treten. Im
 Falle des Außerkrafttretens einzelner Anlagen tritt die Verordnung
 insoweit außer Kraft, als sie sich auf diese Anlagen bezieht. Der Tag
 des Außerkrafttretens ist im Bundesgesetzblatt bekanntzugeben.

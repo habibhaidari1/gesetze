@@ -1,7 +1,5 @@
 ---
-Title: Zweihundertdreiundfünfzigste Durchführungsverordnung zur Luftverkehrs-Ordnung
-  (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum
-  und vom Verkehrsflughafen Neubrandenburg)
+Title: Zweihundertdreiundfünfzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrsflughafen Neubrandenburg)
 jurabk: LuftVODV 253
 layout: default
 origslug: luftvodv_253

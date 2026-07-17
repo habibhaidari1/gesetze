@@ -1,6 +1,5 @@
 ---
-Title: Verordnung zur Konkretisierung der Mitteilungs- und Veröffentlichungspflichten
-  für Netto-Leerverkaufspositionen
+Title: Verordnung zur Konkretisierung der Mitteilungs- und Veröffentlichungspflichten für Netto-Leerverkaufspositionen
 jurabk: NLPosV 2012
 layout: default
 origslug: nlposv_2012
@@ -23,8 +22,8 @@ Zuletzt geändert durch
 ## Eingangsformel
 
 Auf Grund des § 30h Absatz 4 Satz 1 Nummer 1 und Nummer 1a des
-Wertpapierhandelsgesetzes, der durch Artikel 1 des Gesetzes vom 6.
-November 2012 (BGBl. I S. 2286) eingefügt worden ist, und in
+Wertpapierhandelsgesetzes, der durch Artikel 1 des Gesetzes vom
+6\. November 2012 (BGBl. I S. 2286) eingefügt worden ist, und in
 Verbindung mit § 1 Nummer 1 der Verordnung zur Übertragung von
 Befugnissen zum Erlass von Rechtsverordnungen auf die Bundesanstalt
 für Finanzdienstleistungsaufsicht, die zuletzt durch Artikel 1 der
@@ -50,11 +49,11 @@ der jeweils geltenden Fassung.
 
 ### § 2 Allgemeine Bestimmungen zur Mitteilungspflicht
 
-Der Inhaber einer Netto-Leerverkaufsposition, für die er nach Artikel
-5 Absatz 1, Artikel 7 Absatz 1 und Artikel 8 der Verordnung (EU) Nr.
-236/2012 mitteilungspflichtig ist (Positionsinhaber), hat seine
-Mitteilungen elektronisch nach Maßgabe der §§ 5 und 6 in Verbindung
-mit den §§ 3 und 4 an die Bundesanstalt für
+Der Inhaber einer Netto-Leerverkaufsposition, für die er nach
+Artikel 5 Absatz 1, Artikel 7 Absatz 1 und Artikel 8 der Verordnung
+(EU) Nr. 236/2012 mitteilungspflichtig ist (Positionsinhaber),
+hat seine Mitteilungen elektronisch nach Maßgabe der §§ 5 und
+6 in Verbindung mit den §§ 3 und 4 an die Bundesanstalt für
 Finanzdienstleistungsaufsicht (Bundesanstalt) zu übermitteln.
 
 
@@ -67,39 +66,31 @@ Maßgabe des § 6 Absatz 1 Satz 2 Nummer 3 und 4 zu erfolgen.
 
 (2) Ist der Positionsinhaber eine natürliche Person, sind mitzuteilen:
 
-1.  der Vor- und Nachname entsprechend Anhang I Tabelle 1 Nummer 1 der
-    Delegierten Verordnung (EU) Nr. 826/2012 der Kommission vom 29. Juni
-    2012 zur Ergänzung der Verordnung (EU) Nr. 236/2012 des Europäischen
-    Parlaments und des Rates im Hinblick auf technische
+1.  der Vor- und Nachname entsprechend Anhang I Tabelle 1 Nummer 1
+    der Delegierten Verordnung (EU) Nr. 826/2012 der Kommission vom
+    29\. Juni 2012 zur Ergänzung der Verordnung (EU) Nr. 236/2012 des
+    Europäischen Parlaments und des Rates im Hinblick auf technische
     Regulierungsstandards für die Melde- und Offenlegungspflichten in
-    Bezug auf Netto-Leerverkaufspositionen, die Einzelheiten der in Bezug
-    auf Netto-Leerverkaufspositionen an die Europäische Wertpapier- und
-    Marktaufsichtsbehörde zu übermittelnden Informationen und die Methode
-    zur Berechnung des Umsatzes zwecks Ermittlung der unter die
+    Bezug auf Netto-Leerverkaufspositionen, die Einzelheiten der in
+    Bezug auf Netto-Leerverkaufspositionen an die Europäische Wertpapier-
+    und Marktaufsichtsbehörde zu übermittelnden Informationen und die
+    Methode zur Berechnung des Umsatzes zwecks Ermittlung der unter die
     Ausnahmeregelung fallenden Aktien (ABl. L 251 vom 18.9.2012, S. 1) in
     der jeweils geltenden Fassung,
-
 
 2.  die Anschrift des Hauptwohnsitzes nach Anhang I Tabelle 1 Nummer 3 der
     Delegierten Verordnung (EU) Nr. 826/2012,
 
-
 3.  der Geburtsname,
-
 
 4.  das Geburtsdatum,
 
-
 5.  der Geburtsort,
-
 
 6.  der Geburtsstaat und
 
-
 7.  die Kontaktdaten des Positionsinhabers nach Anhang I Tabelle 1 Nummer
     4 der Delegierten Verordnung (EU) Nr. 826/2012.
-
-
 
 Zur Überprüfung der Identität des Positionsinhabers ist die Kopie
 eines gültigen amtlichen Ausweises beizufügen, der ein Lichtbild
@@ -115,27 +106,20 @@ mitzuteilen:
     Anhang I Tabelle 1 Nummer 1 der Delegierten Verordnung (EU) Nr.
     826/2012,
 
-
 2.  der Bank Identifier Code nach Anhang I Tabelle 1 Nummer 2 der
     Delegierten Verordnung (EU) Nr. 826/2012, falls vorhanden,
-
 
 3.  die Anschrift des Hauptsitzes nach Anhang I Tabelle 1 Nummer 3 der
     Delegierten Verordnung (EU) Nr. 826/2012,
 
-
 4.  der Sitzstaat,
-
 
 5.  die Kontaktdaten des Positionsinhabers nach Anhang I Tabelle 1 Nummer
     4 der Delegierten Verordnung (EU) Nr. 826/2012 und
 
-
-6.  die achtstellige BaFin-Identifikationsnummer (BaFin-ID), sofern die
-    Bundesanstalt diese Nummer bereits zugeteilt hat und kein Bank
+6.  die achtstellige BaFin-Identifikationsnummer (BaFin-ID), sofern
+    die Bundesanstalt diese Nummer bereits zugeteilt hat und kein Bank
     Identifier Code nach Nummer 2 angeben werden kann.
-
-
 
 Zur Überprüfung der Identität ist die Kopie eines Auszugs aus dem
 Handels- oder Genossenschaftsregister oder einem vergleichbaren
@@ -158,37 +142,29 @@ ersten Mitteilung erfolgen.
 
 (2) Die Benennung der Kontaktperson muss durch eine vom
 Positionsinhaber unterschriebene Vollmachtsurkunde nachgewiesen
-werden. Die Vollmachtsurkunde ist per Telefax oder auf dem Postweg an
-die Bundesanstalt zu übersenden. Wird die Vollmacht widerrufen oder
-erlischt sie, hat der Positionsinhaber dies der Bundesanstalt
+werden. Die Vollmachtsurkunde ist per Telefax oder auf dem Postweg
+an die Bundesanstalt zu übersenden. Wird die Vollmacht widerrufen
+oder erlischt sie, hat der Positionsinhaber dies der Bundesanstalt
 unverzüglich schriftlich mitzuteilen.
 
-(3) Die Kontaktperson hat der Bundesanstalt spätestens bei Abgabe der
-ersten Mitteilung die folgenden Angaben zu ihrer Person zu
+(3) Die Kontaktperson hat der Bundesanstalt spätestens bei Abgabe
+der ersten Mitteilung die folgenden Angaben zu ihrer Person zu
 übermitteln:
 
 1.  den Vor- und Nachnamen nach Anhang I Tabelle 1 Nummer 1 der
-    Delegierten Verordnung (EU)
-    Nr. 826/2012,
-
+    Delegierten Verordnung (EU) Nr. 826/2012,
 
 2.  ihre Geschäftsanschrift nach Anhang I Tabelle 1 Nummer 6 der
     Delegierten Verordnung (EU) Nr. 826/2012,
 
-
 3.  das Geburtsdatum,
-
 
 4.  den Geburtsort,
 
-
 5.  den Geburtsstaat und
-
 
 6.  die Kontaktdaten nach Anhang I Tabelle 1 Nummer 7 der Delegierten
     Verordnung (EU) Nr. 826/2012.
-
-
 
 Die Übermittlung hat nach Maßgabe des § 6 Absatz 1 Satz 2 Nummer 1 und
 3 zu erfolgen.
@@ -209,8 +185,8 @@ eines der dort zur Verfügung gestellten Verfahren zu nutzen. Für die
 Übermittlung sind die Formulare der Anhänge II und III der Delegierten
 Verordnung (EU) Nr. 826/2012 zu verwenden.
 
-(2) Bei technischen Problemen hat die Mitteilung fristwahrend per Fax
-zu erfolgen. Die elektronische Mitteilung ist unverzüglich
+(2) Bei technischen Problemen hat die Mitteilung fristwahrend per
+Fax zu erfolgen. Die elektronische Mitteilung ist unverzüglich
 nachzuholen, sobald die Probleme behoben sind.
 
 
@@ -227,17 +203,14 @@ beantragen. Für die Zulassung sind folgende Schritte erforderlich:
     Nummer 1 und die E-Mail-Adresse nach § 4 Absatz 3 Satz 1 Nummer 6 in
     das Registrierungsformular einzutragen und elektronisch abzusenden;
 
-
 2.  Erhalt einer individuellen Kennung und eines individuellen Passworts;
     Kennung und Passwort sind für alle folgenden Mitteilungen zu verwenden
     und dürfen nicht weitergegeben werden;
-
 
 3.  Anmeldung zum Meldeverfahren über die elektronische Meldeplattform der
     Bundesanstalt; dabei sind die Angaben nach § 3 Absatz 2 Satz 1 oder
     Absatz 3 Satz 1 und, soweit erforderlich, nach § 4 Absatz 3 Satz 1 in
     das dortige Formular einzutragen und elektronisch abzusenden;
-
 
 4.  Ausdrucken und Unterzeichnen des Formulars und unverzügliches Absenden
     an die Bundesanstalt per Telefax oder auf dem Postweg; folgende
@@ -245,19 +218,11 @@ beantragen. Für die Zulassung sind folgende Schritte erforderlich:
 
     a)  eine Kopie des amtlichen Ausweises (§ 3 Absatz 2 Satz 2),
 
-
     b)  eine Kopie eines Auszugs aus dem Handels- oder Genossenschaftsregister
         oder aus einem vergleichbaren amtlichen Register oder Verzeichnis (§ 3
         Absatz 3 Satz 2) und
 
-
     c)  die Vollmachtsurkunde (§ 4 Absatz 2 Satz 2), sofern erforderlich.
-
-
-
-
-
-
 
 (2) Sobald die Anmeldung zur Teilnahme am Meldeverfahren elektronisch
 abgesendet worden ist, kann das Meldeverfahren vorläufig genutzt
@@ -274,8 +239,8 @@ Kontaktperson sowie der Positionsinhaber erhalten eine entsprechende
 Mitteilung.
 
 (5) Gibt eine meldende Person im Sinne des § 11 Absatz 1 die
-Mitteilung ab, werden die Informationen nach den Sätzen 2 und 3 dem
-Positionsinhaber und der Kontaktperson dieser meldenden Person
+Mitteilung ab, werden die Informationen nach den Sätzen 2 und 3
+dem Positionsinhaber und der Kontaktperson dieser meldenden Person
 übermittelt.
 
 
@@ -294,8 +259,8 @@ Datenbank zu löschen.
 
 ### § 8 Allgemeine Bestimmungen zur Veröffentlichungspflicht; Auftragsnummer der Veröffentlichung
 
-(1) Der Inhaber einer nach Artikel 6 Absatz 1 der Verordnung (EU) Nr.
-236/2012 zu veröffentlichenden Netto-Leerverkaufsposition ist
+(1) Der Inhaber einer nach Artikel 6 Absatz 1 der Verordnung (EU)
+Nr. 236/2012 zu veröffentlichenden Netto-Leerverkaufsposition ist
 verpflichtet, die Veröffentlichung dieser Position im Bundesanzeiger
 nach Maßgabe dieses Abschnitts vorzunehmen.
 
@@ -312,17 +277,17 @@ Kontaktperson.
 
 ### § 9 Identifikation des Positionsinhabers und seiner Kontaktperson beim Betreiber des Bundesanzeigers
 
-(1) Der Positionsinhaber muss sich gegenüber dem Betreiber des
-Bundesanzeigers spätestens bis zur Vornahme der ersten
-Veröffentlichung identifizieren. § 3 sowie § 4 Absatz 1, 2, 3 Satz 1
-und Absatz 4 sind entsprechend anzuwenden. Bei der Identifizierung
+(1) Der Positionsinhaber muss sich gegenüber dem Betreiber
+des Bundesanzeigers spätestens bis zur Vornahme der ersten
+Veröffentlichung identifizieren. § 3 sowie § 4 Absatz 1, 2, 3 Satz
+1 und Absatz 4 sind entsprechend anzuwenden. Bei der Identifizierung
 muss der Positionsinhaber eine Kontaktperson nennen; die Benennung
 mehrerer Kontaktpersonen ist nicht zulässig.
 
 (2) Die Identifikation nach Absatz 1 erfolgt über das vom Betreiber
-des Bundesanzeigers auf dessen elektronischer Serviceplattform zur
-Verfügung gestellte Verfahren. Der Positionsinhaber kann sich nur
-während der beim Betreiber des Bundesanzeigers üblichen
+des Bundesanzeigers auf dessen elektronischer Serviceplattform
+zur Verfügung gestellte Verfahren. Der Positionsinhaber kann
+sich nur während der beim Betreiber des Bundesanzeigers üblichen
 Geschäftszeiten identifizieren.
 
 (3) Beim Betreiber des Bundesanzeigers bereits bestehende
@@ -363,9 +328,9 @@ benennen. Die §§ 3, 4 und 9 gelten entsprechend.
 7 sowie nach Absatz 3 Satz 1 Nummer 1 bis 3 ist ausschließlich das
 elektronische Meldeverfahren zu nutzen.
 
-(4) Die meldende Person hat der Bundesanstalt oder dem Betreiber des
-Bundesanzeigers zudem die Angaben zum Positionsinhaber nach § 3 Absatz
-2 oder 3 und ein von diesem ausgestelltes Bestätigungsschreiben
+(4) Die meldende Person hat der Bundesanstalt oder dem Betreiber
+des Bundesanzeigers zudem die Angaben zum Positionsinhaber nach § 3
+Absatz 2 oder 3 und ein von diesem ausgestelltes Bestätigungsschreiben
 entsprechend § 4 Absatz 2 Satz 1 zu übermitteln. Aus dem
 Bestätigungsschreiben muss hervorgehen, dass der Positionsinhaber
 ermächtigt ist, Mitteilungen abzugeben oder Veröffentlichungen zu
@@ -377,8 +342,8 @@ ist nur für die Mitteilungen gegenüber der Bundesanstalt zulässig.
 
 ### § 12 Eignung des Dritten
 
-(1) Geeignet ist eine meldende Person, wenn sie die Einhaltung der
-Mitteilungs- und Veröffentlichungspflichten für Netto-
+(1) Geeignet ist eine meldende Person, wenn sie die Einhaltung
+der Mitteilungs- und Veröffentlichungspflichten für Netto-
 Leerverkaufspositionen nach der Verordnung (EU) Nr. 236/2012 und den
 diese ausgestaltenden Rechtsakten dauerhaft gewährleistet.
 
@@ -410,35 +375,29 @@ und richtig innerhalb der in Artikel 9 Absatz 2 Satz 3 der Verordnung
 
 ### § 14 Befugnisse der Bundesanstalt gegenüber dem Betreiber des Bundesanzeigers
 
-(1) Im Hinblick auf die Veröffentlichungen nach Artikel 6 Absatz 1 der
-Verordnung (EU) Nr. 236/2012 überwacht die Bundesanstalt gegenüber dem
-Betreiber des Bundesanzeigers die Einhaltung von
+(1) Im Hinblick auf die Veröffentlichungen nach Artikel 6 Absatz
+1 der Verordnung (EU) Nr. 236/2012 überwacht die Bundesanstalt
+gegenüber dem Betreiber des Bundesanzeigers die Einhaltung von
 Mindestqualitätsnormen in Bezug auf
 
 1.  Datensicherheit,
 
-
 2.  Herkunftsgewissheit der Daten,
-
 
 3.  Zeitaufzeichnung und
 
-
 4.  schnellen Zugang der Endnutzer zu den veröffentlichten Daten.
-
-
-
 
 (2) Soweit es für die Überwachung nach Absatz 1 sowie für die
 Überwachung nach § 53 Absatz 2 Satz 2 des Wertpapierhandelsgesetzes
-erforderlich ist, kann die Bundesanstalt von dem Betreiber des
-Bundesanzeigers Auskünfte, die Vorlage von Unterlagen und die
-Überlassung von Kopien verlangen. Gesetzliche Auskunfts- oder
-Aussageverweigerungsrechte sowie gesetzliche
+erforderlich ist, kann die Bundesanstalt von dem Betreiber
+des Bundesanzeigers Auskünfte, die Vorlage von Unterlagen
+und die Überlassung von Kopien verlangen. Gesetzliche
+Auskunfts- oder Aussageverweigerungsrechte sowie gesetzliche
 Verschwiegenheitspflichten bleiben unberührt.
 
-(3) Falls der Betreiber des Bundesanzeigers dem berechtigten Verlangen
-der Bundesanstalt nicht nachkommt, kann diese gegenüber dem
+(3) Falls der Betreiber des Bundesanzeigers dem berechtigten
+Verlangen der Bundesanstalt nicht nachkommt, kann diese gegenüber dem
 Bundesministerium der Justiz und für Verbraucherschutz, das Kontroll-
 und Aufsichtsbehörde des Bundesanzeigers ist, darauf hinwirken, dass
 der Betreiber des Bundesanzeigers seine Pflichten erfüllt und die

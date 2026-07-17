@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert
-  von 10 Euro (Gedenkmünze "Nationalpark Bayerischer Wald")
+Title: "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze \"Nationalpark Bayerischer Wald\")"
 jurabk: Münz10EuroBek 2005
 layout: default
 origslug: m_nz10eurobek_2005
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 2005, 197
-
 
 
 ## (XXXX)
@@ -54,4 +52,6 @@ Der Bundesminister der Finanzen
 ## (XXXX)
 
 (Fundstelle: BGBl. I 2005, 197)
+
 ![bgbl1_2005_j0197_0010.jpg](bgbl1_2005_j0197_0010.jpg)
+

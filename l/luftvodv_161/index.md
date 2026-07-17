@@ -1,7 +1,5 @@
 ---
-Title: Hunderteinundsechzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung
-  von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrslandeplatz
-  Bayreuth)
+Title: Hunderteinundsechzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrslandeplatz Bayreuth)
 jurabk: LuftVODV 161
 layout: default
 origslug: luftvodv_161
@@ -16,4 +14,7 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BAnz: 1996, Nr 12, 494
+
+Fundstelle
+:   BAnz: 1996, 494
 

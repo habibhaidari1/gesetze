@@ -1,7 +1,5 @@
 ---
-Title: Gesetz zu dem Vertrag vom 10. März 1956 zwischen der Bundesrepublik Deutschland
-  und der Föderativen Volksrepublik Jugoslawien über die Regelung gewisser Forderungen
-  aus der Sozialversicherung
+Title: Gesetz zu dem Vertrag vom 10. März 1956 zwischen der Bundesrepublik Deutschland und der Föderativen Volksrepublik Jugoslawien über die Regelung gewisser Forderungen aus der Sozialversicherung
 jurabk: SVVtrYUGVtrG
 layout: default
 origslug: svvtryugvtrg
@@ -29,8 +27,8 @@ Geändert durch
 ## Art 2
 
 Innerstaatliches Recht im Sinne des Artikels 2 Buchstabe a des
-Vertrags ist die in der Bundesrepublik Deutschland und im Land Berlin
-geltende Gesetzgebung über Sozialversicherung, soweit sie den
+Vertrags ist die in der Bundesrepublik Deutschland und im Land
+Berlin geltende Gesetzgebung über Sozialversicherung, soweit sie den
 Bestimmungen des Vertrags und dieses Gesetzes nicht entgegensteht.
 
 
@@ -68,8 +66,8 @@ Jugoslawien beschäftigt gewesen wären, werden wie Versicherungszeiten
 angerechnet, die in einer deutschen gesetzlichen Rentenversicherung im
 Bundesgebiet zurückgelegt worden sind.
 
-(2) Die Wartezeit ist auch erfüllt, wenn die nach jugoslawischem Recht
-für den Erwerb des Leistungsanspruchs vorgeschriebene
+(2) Die Wartezeit ist auch erfüllt, wenn die nach jugoslawischem
+Recht für den Erwerb des Leistungsanspruchs vorgeschriebene
 Mindestbeitragszeit zurückgelegt worden ist.
 
 
@@ -134,42 +132,33 @@ Bundesrates
     auch bestimmte Beitragsklassen für die Rentenberechnung auf Grund der
     anzurechnenden Versicherungszeiten festgelegt werden;
 
-
 2.  die Steigerungsbeträge für solche nach Artikel 5 dieses Gesetzes
     anzurechnende Versicherungszeiten feststellen,
 
     a)  bei denen das zu berücksichtigende Entgelt oder die Höhe des Beitrags
         nicht feststeht oder
 
-
     b)  die nicht nachweisbar sind, aber durch Arbeitsbescheinigungen oder
         sonstige als zuverlässig zu erachtende Unterlagen glaubhaft gemacht
         werden;
 
-
-
-
-
 3.  bestimmen, welche Zeiten als Beitrags- und Ersatzzeiten der
     jugoslawischen gesetzlichen Rentenversicherung anzusehen sind.
-
-
-
 
 
 ## Art 11
 
 Der Bundesminister für Arbeit und Sozialordnung bestimmt im Benehmen
 mit dem Bundesminister der Finanzen durch Rechtsverordnung mit
-Zustimmung des Bundesrates, inwieweit der in Artikel 1 Abs. 2 des
-Vertrags genannte Betrag von 26 Millionen Deutsche Mark vom Bund, der
-gesetzlichen Unfallversicherung und den gesetzlichen
+Zustimmung des Bundesrates, inwieweit der in Artikel 1 Abs. 2
+des Vertrags genannte Betrag von 26 Millionen Deutsche Mark vom
+Bund, der gesetzlichen Unfallversicherung und den gesetzlichen
 Rentenversicherungen zu tragen ist. Dabei ist das Verhältnis zu
-berücksichtigen, in dem der zur Abgeltung der in Artikel 1 Abs. 1
-Buchstabe b des Vertrags genannten Anwartschaften und Ansprüche
+berücksichtigen, in dem der zur Abgeltung der in Artikel 1 Abs.
+1 Buchstabe b des Vertrags genannten Anwartschaften und Ansprüche
 errechnete Betrag zwischen dem Bund und den Versicherungsträgern zu
-verteilen wäre, wenn auf Grund dieser Anwartschaften und Ansprüche am
-Tage der Unterzeichnung des Vertrags die der Berechnung zugrunde
+verteilen wäre, wenn auf Grund dieser Anwartschaften und Ansprüche
+am Tage der Unterzeichnung des Vertrags die der Berechnung zugrunde
 liegenden Leistungen von Versicherungsträgern im Bundesgebiet und im
 Land Berlin hätten gewährt werden müssen. In der Rechtsverordnung kann
 auch geregelt werden, wie die von der gesetzlichen Unfallversicherung

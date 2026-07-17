@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Gewährung von Vorrechten und Befreiungen an die Direktoren
-  und Lehrer bei den Europäischen Schulen im Ausland
+Title: Verordnung über die Gewährung von Vorrechten und Befreiungen an die Direktoren und Lehrer bei den Europäischen Schulen im Ausland
 jurabk: EuSchulAuslVorRV
 layout: default
 origslug: euschulauslvorrv
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl II: 1995, 676
-
 
 
 ## Eingangsformel
@@ -34,9 +32,9 @@ Bundesregierung:
 
 Die Zulagen, die den Direktoren und Lehrern der in Anwendung des
 Protokolls über die Gründung Europäischer Schulen vom 13. April 1962
-(BGBl. 1969 II S. 1301) im Ausland gegründeten Schulen auf Grund der
-Vorschriften des Statuts des Lehrpersonals der Europäischen Schulen in
-der jeweils geltenden Fassung gezahlt werden, sind von der
+(BGBl. 1969 II S. 1301) im Ausland gegründeten Schulen auf Grund
+der Vorschriften des Statuts des Lehrpersonals der Europäischen
+Schulen in der jeweils geltenden Fassung gezahlt werden, sind von der
 Einkommensteuer befreit.
 
 

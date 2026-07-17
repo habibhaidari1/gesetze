@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Zuständigkeit der Bundesanstalt für Landwirtschaft und
-  Ernährung für die Registrierung der Vermehrungsverträge für Saatgut in Drittländern
+Title: Verordnung über die Zuständigkeit der Bundesanstalt für Landwirtschaft und Ernährung für die Registrierung der Vermehrungsverträge für Saatgut in Drittländern
 jurabk: BEFZustV 1979
 layout: default
 origslug: befzustv_1979
@@ -30,9 +29,9 @@ I S. 1608) geändert worden ist, wird verordnet:
 
 ## § 1
 
-Zuständig für die Durchführung von Rechtsakten des Rates und der
-Kommission der Europäischen Gemeinschaften im Rahmen der gemeinsamen
-Marktorganisation Saatgut über die Registrierung von
+Zuständig für die Durchführung von Rechtsakten des Rates und
+der Kommission der Europäischen Gemeinschaften im Rahmen der
+gemeinsamen Marktorganisation Saatgut über die Registrierung von
 Vermehrungsverträgen ist der Bundesanstalt für Landwirtschaft und
 Ernährung.
 

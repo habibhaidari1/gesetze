@@ -1,6 +1,5 @@
 ---
-Title: Gesetz betreffend das Internationale Übereinkommen über die Heimschaffung der
-  Schiffsleute
+Title: Gesetz betreffend das Internationale Übereinkommen über die Heimschaffung der Schiffsleute
 jurabk: SchLHeimÜbkG
 layout: default
 origslug: schlheim_bkg
@@ -17,20 +16,19 @@ Fundstelle
 :   RGBl II: 1930, 12
 
 
-
 ## § 1
 
-... Für die Durchführung des Übereinkommens sind die
-Seemannsordnung              vom 2. Juni 1902 (Reichsgesetzbl. S. 175)
-und das Gesetz betreffend die Verpflichtung der Kauffahrteischiffe zur
-Mitnahme heimzuschaffender Seeleute vom 2. Juni 1902 (Reichsgesetzbl.
-S. 212) maßgebend. ...
+... Für die Durchführung des Übereinkommens sind die *Seemannsordnung*
+vom 2. Juni 1902 (Reichsgesetzbl. S. 175) und das Gesetz
+betreffend die Verpflichtung der Kauffahrteischiffe zur Mitnahme
+heimzuschaffender Seeleute vom 2. Juni 1902 (Reichsgesetzbl. S. 212)
+maßgebend. ...
 
 
 ## § 2
 
 (1)
 
-(2) Dieses Gesetz tritt mit dem auf die Verkündung folgenden Tage in
-Kraft.
+(2) Dieses Gesetz tritt mit dem auf die Verkündung folgenden Tage
+in Kraft.
 

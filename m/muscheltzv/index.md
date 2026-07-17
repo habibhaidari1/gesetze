@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über den Mutterschutz für Beamtinnen des Bundes und die Elternzeit
-  für Beamtinnen und Beamte des Bundes
+Title: Verordnung über den Mutterschutz für Beamtinnen des Bundes und die Elternzeit für Beamtinnen und Beamte des Bundes
 jurabk: MuSchEltZV
 layout: default
 origslug: muscheltzv
@@ -17,7 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 320
 
 Zuletzt geändert durch
-:   Art. 5 V v. 16.8.2021 I 3582
+:   Art. 3 G v. 24.2.2025 I Nr. 59
 
 
 ## Abschnitt 1 - Mutterschutz
@@ -35,85 +34,75 @@ des öffentlichen Rechts gelten die §§ 2 bis 5.
 (1) Die folgenden Vorschriften des Mutterschutzgesetzes sind
 entsprechend anzuwenden:
 
-1.  zu Begriffsbestimmungen (§ 2 Absatz 1 Satz 1, Absatz 3 Satz 1 und
-    Absatz 4 des Mutterschutzgesetzes),
-
+1.  zu Begriffsbestimmungen (§ 2 Absatz 1 Satz 1, Absatz 3 Satz 1, Absatz
+    4 und 6 des Mutterschutzgesetzes),
 
 2.  zur Gestaltung der Arbeitsbedingungen (§§ 9, 10 Absatz 1 und 2, §§ 11,
     12, 13 Absatz 1 Nummer 1 des Mutterschutzgesetzes),
 
-
 3.  zum Arbeitsplatzwechsel (§ 13 Absatz 1 Nummer 2 des
     Mutterschutzgesetzes),
-
 
 4.  zur Dokumentation und Information durch den Arbeitgeber (§ 14 des
     Mutterschutzgesetzes),
 
-
 5.  zu Beschäftigungsverboten (§§ 3 bis 6, 10 Absatz 3, § 13 Absatz 1
     Nummer 3 und § 16 des Mutterschutzgesetzes),
-
 
 6.  zu Mitteilungen und Nachweisen über die Schwangerschaft und das
     Stillen (§ 15 des Mutterschutzgesetzes),
 
-
 7.  zur Freistellung für Untersuchungen und zum Stillen (§ 7 des
     Mutterschutzgesetzes),
-
 
 8.  zu den Mitteilungs- und Aufbewahrungspflichten des Arbeitgebers (§ 27
     Absatz 1 bis 5 des Mutterschutzgesetzes) sowie
 
-
 9.  zum behördlichen Genehmigungsverfahren für eine Beschäftigung zwischen
     20 und 22 Uhr (§ 28 des Mutterschutzgesetzes).
 
-
-
 Andere Arbeitsschutzvorschriften bleiben unberührt.
 
-(2) In jeder Dienststelle, bei der regelmäßig mehr als drei Personen
-tätig sind, sind ein Abdruck des Mutterschutzgesetzes sowie ein
-Abdruck dieser Verordnung an geeigneter Stelle zur Einsicht
-auszulegen, auszuhändigen oder in einem elektronischen
+(2) In jeder Dienststelle, bei der regelmäßig mehr als drei
+Personen tätig sind, sind ein Abdruck des Mutterschutzgesetzes
+sowie ein Abdruck dieser Verordnung an geeigneter Stelle zur
+Einsicht auszulegen, auszuhändigen oder in einem elektronischen
 Informationssystem jederzeit zugänglich zu machen.
 
 
 ### § 3 Besoldung bei Beschäftigungsverbot, Untersuchungen und Stillen
 
 (1) Durch die mutterschutzrechtlichen Beschäftigungsverbote mit
-Ausnahme des Verbots der Mehrarbeit wird die Zahlung der Dienst- und
-Anwärterbezüge nicht berührt (§§ 3 bis 6, 10 Absatz 3, § 13 Absatz 1
-Nummer 3 und § 16 des Mutterschutzgesetzes). Dies gilt auch für das
-Dienstversäumnis wegen ärztlicher Untersuchungen bei Schwangerschaft
-und Mutterschaft sowie während des Stillens (§ 7 des
+Ausnahme des Verbots der Mehrarbeit wird die Zahlung der Dienst-
+und Anwärterbezüge nicht berührt (§§ 3 bis 6, 10 Absatz 3, § 13
+Absatz 1 Nummer 3 und § 16 des Mutterschutzgesetzes). Dies gilt
+auch für das Dienstversäumnis wegen ärztlicher Untersuchungen bei
+Schwangerschaft und Mutterschaft sowie während des Stillens (§ 7 des
 Mutterschutzgesetzes).
 
-(2) Im Fall der vorzeitigen Beendigung einer Elternzeit nach § 16
-Absatz 3 Satz 3 des Bundeselterngeld- und Elternzeitgesetzes richtet
-sich die Höhe der Dienst- und Anwärterbezüge nach dem
+(2) Im Fall der vorzeitigen Beendigung einer Elternzeit nach §
+16 Absatz 3 Satz 3 des Bundeselterngeld- und Elternzeitgesetzes
+richtet sich die Höhe der Dienst- und Anwärterbezüge nach dem
 Beschäftigungsumfang vor der Elternzeit oder während der Elternzeit,
 wobei die höheren Bezüge maßgeblich sind.
 
 (3) Bemessungsgrundlage für die Zahlung von Erschwerniszulagen nach
 der Erschwerniszulagenverordnung sowie für die Vergütung nach der
 Vollstreckungsvergütungsverordnung in der Fassung der Bekanntmachung
-vom 6. Januar 2003 (BGBl. I S. 8) in der jeweils geltenden Fassung ist
-der Durchschnitt der Zulagen und der Vergütungen der letzten drei
+vom 6. Januar 2003 (BGBl. I S. 8) in der jeweils geltenden Fassung
+ist der Durchschnitt der Zulagen und der Vergütungen der letzten drei
 Monate vor Beginn des Monats, in dem die Schwangerschaft eingetreten
 ist.
 
 
 ### § 4 Entlassung während der Schwangerschaft, nach einer Fehlgeburt und nach der Entbindung
 
-(1) Während der Schwangerschaft, bis zum Ablauf von vier Monaten nach
-einer Fehlgeburt nach der zwölften Schwangerschaftswoche und bis zum
-Ende der Schutzfrist nach der Entbindung, mindestens bis zum Ablauf
-von vier Monaten nach der Entbindung, darf die Entlassung von
-Beamtinnen auf Probe und von Beamtinnen auf Widerruf gegen ihren
-Willen nicht ausgesprochen werden, wenn der oder dem
+(1) Während der Schwangerschaft, bis zum Ablauf von vier Monaten
+nach einer Fehlgeburt nach der zwölften Schwangerschaftswoche
+und bis zum Ende der Schutzfrist nach der Entbindung, mindestens
+bis zum Ablauf von vier Monaten nach der Entbindung, darf die
+Entlassung von Beamtinnen auf Probe und von Beamtinnen auf Widerruf
+gegen ihren Willen nicht ausgesprochen werden, wenn der oder dem
 Dienstvorgesetzten die Schwangerschaft, die Fehlgeburt nach der
 zwölften Schwangerschaftswoche oder die Entbindung bekannt ist. Eine
 ohne diese Kenntnis ergangene Entlassungsverfügung ist zurückzunehmen,
@@ -129,8 +118,8 @@ eine Entlassung einer Beamtin trifft.
 
 (2) Die oberste Dienstbehörde kann in besonderen Fällen, die nicht mit
 dem Zustand der Beamtin in der Schwangerschaft, nach einer Fehlgeburt
-nach der zwölften Schwangerschaftswoche oder nach der Entbindung in
-Zusammenhang stehen, ausnahmsweise die Entlassung für zulässig
+nach der zwölften Schwangerschaftswoche oder nach der Entbindung
+in Zusammenhang stehen, ausnahmsweise die Entlassung für zulässig
 erklären.
 
 (3) Die §§ 31, 32, 34 Absatz 4, § 35 Satz 1, letzterer vorbehaltlich
@@ -145,9 +134,9 @@ eines Beschäftigungsverbots in den letzten sechs Wochen vor der
 Entbindung und eines Beschäftigungsverbots nach der Entbindung –
 einschließlich des Entbindungstages –, der in eine Elternzeit fällt.
 Dies gilt nicht, wenn sie während der Elternzeit teilzeitbeschäftigt
-sind. Der Zuschuss ist auf 210 Euro begrenzt, wenn die Dienst- oder
-Anwärterbezüge ohne die mit Rücksicht auf den Familienstand gewährten
-Zuschläge und ohne Leistungen nach Abschnitt 5 des
+sind. Der Zuschuss ist auf 210 Euro begrenzt, wenn die Dienst-
+oder Anwärterbezüge ohne die mit Rücksicht auf den Familienstand
+gewährten Zuschläge und ohne Leistungen nach Abschnitt 5 des
 Bundesbesoldungsgesetzes die Versicherungspflichtgrenze in der
 gesetzlichen Krankenversicherung überschreiten oder überschreiten
 würden.
@@ -165,19 +154,19 @@ und 28 Absatz 1 Satz 1 des Bundeselterngeld- und Elternzeitgesetzes.
 
 ### § 7 Teilzeitbeschäftigung während der Elternzeit
 
-(1) Während der Elternzeit ist Beamtinnen und Beamten, die Anspruch
-auf Dienst- oder Anwärterbezüge haben, auf Antrag eine
-Teilzeitbeschäftigung bei ihrem Dienstherrn bis zu 32 Wochenstunden im
-Durchschnitt eines Monats zu bewilligen, wenn zwingende dienstliche
+(1) Während der Elternzeit ist Beamtinnen und Beamten, die
+Anspruch auf Dienst- oder Anwärterbezüge haben, auf Antrag eine
+Teilzeitbeschäftigung bei ihrem Dienstherrn bis zu 32 Wochenstunden
+im Durchschnitt eines Monats zu bewilligen, wenn zwingende dienstliche
 Belange nicht entgegenstehen.
 
-(2) Mit Genehmigung der zuständigen Dienstbehörde darf während der
-Elternzeit auch eine Teilzeitbeschäftigung außerhalb des
+(2) Mit Genehmigung der zuständigen Dienstbehörde darf während
+der Elternzeit auch eine Teilzeitbeschäftigung außerhalb des
 Beamtenverhältnisses in dem in Absatz 1 genannten Umfang ausgeübt
 werden. Die Genehmigung kann nur innerhalb von vier Wochen ab
 Antragstellung versagt werden, wenn dringende dienstliche Belange
-entgegenstehen. Sie ist zu versagen, wenn einer der in § 99 Absatz 2
-Satz 2 Nummer 2 bis 6 des Bundesbeamtengesetzes genannten Gründe
+entgegenstehen. Sie ist zu versagen, wenn einer der in § 99 Absatz
+2 Satz 2 Nummer 2 bis 6 des Bundesbeamtengesetzes genannten Gründe
 vorliegt.
 
 
@@ -196,14 +185,14 @@ ausnahmsweise für zulässig erklären.
 
 ### § 9 Erstattung von Krankenversicherungsbeiträgen
 
-(1) Beamtinnen und Beamten werden für die Dauer der Elternzeit die
-Beiträge für ihre Kranken- und Pflegeversicherung bis zu monatlich 31
-Euro erstattet, wenn ihre Dienst- oder Anwärterbezüge vor Beginn der
-Elternzeit die Versicherungspflichtgrenze in der gesetzlichen
-Krankenversicherung nicht überschritten haben oder überschritten
-hätten. Hierbei werden die mit Rücksicht auf den Familienstand
-gewährten Zuschläge sowie Leistungen nach Abschnitt 5 des
-Bundesbesoldungsgesetzes nicht berücksichtigt. Nehmen die Eltern
+(1) Beamtinnen und Beamten werden für die Dauer der Elternzeit
+die Beiträge für ihre Kranken- und Pflegeversicherung bis zu
+monatlich 31 Euro erstattet, wenn ihre Dienst- oder Anwärterbezüge
+vor Beginn der Elternzeit die Versicherungspflichtgrenze in der
+gesetzlichen Krankenversicherung nicht überschritten haben oder
+überschritten hätten. Hierbei werden die mit Rücksicht auf den
+Familienstand gewährten Zuschläge sowie Leistungen nach Abschnitt 5
+des Bundesbesoldungsgesetzes nicht berücksichtigt. Nehmen die Eltern
 gemeinsam Elternzeit, steht die Beitragserstattung nur dem Elternteil
 zu, bei dem das Kind im Familienzuschlag berücksichtigt wird oder
 berücksichtigt werden soll.
@@ -239,7 +228,7 @@ regelmäßigen Dienstes zulässig.
 ### § 11 Übergangsvorschrift
 
 Auf die vor dem 14. Februar 2009 geborenen Kinder oder auf die vor
-diesem Zeitpunkt mit dem Ziel der Adoption aufgenommenen Kinder ist §
-1 Absatz 2 Satz 2 und 3 der Elternzeitverordnung in der bis zum 13.
+diesem Zeitpunkt mit dem Ziel der Adoption aufgenommenen Kinder ist
+§ 1 Absatz 2 Satz 2 und 3 der Elternzeitverordnung in der bis zum 13.
 Februar 2009 geltenden Fassung anzuwenden.
 

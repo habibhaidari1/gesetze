@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert
-  von 10 Euro (Gedenkmünze „300 Jahre Fahrenheit-Skala“)
+Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze „300 Jahre Fahrenheit-Skala“)
 jurabk: Münz10EuroBek 2015-06-23
 layout: default
 origslug: m_nz10eurobek_2015-06-23
@@ -24,8 +23,8 @@ I S. 2402) hat die Bundesregierung beschlossen, zum Thema „300 Jahre
 Fahrenheit-Skala“ eine deutsche Euro-Gedenkmünze im Nennwert von 10
 Euro prägen zu lassen.
 
-Die Auflage der Münze beträgt ca. 1,4 Mio. Stück, davon ca. 0,2 Mio.
-Stück in Spiegelglanzqualität. Die Prägung erfolgt durch die
+Die Auflage der Münze beträgt ca. 1,4 Mio. Stück, davon ca. 0,2
+Mio. Stück in Spiegelglanzqualität. Die Prägung erfolgt durch die
 Hamburgische Münze (Prägezeichen J).
 
 Die Münze wird ab dem 6. November 2014 in den Verkehr gebracht. Die
@@ -64,12 +63,4 @@ Der Bundesminister der Finanzen
 ## (XXXX)
 
 (Fundstelle: BGBl. I 2015, 1035)
-
-
-*    *        ![bgbl1_2015_j1035-1_0010.jpg](bgbl1_2015_j1035-1_0010.jpg)
-    *        ![bgbl1_2015_j1035-1_0020.jpg](bgbl1_2015_j1035-1_0020.jpg)
-
-*    *        ![bgbl1_2015_j1035-1_0030.jpg](bgbl1_2015_j1035-1_0030.jpg)
-    *        ![bgbl1_2015_j1035-1_0040.jpg](bgbl1_2015_j1035-1_0040.jpg)
-
 

@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert
-  von 20 Euro (Gedenkmünze „300. Geburtstag Freiherr von Münchhausen“)
+Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze „300. Geburtstag Freiherr von Münchhausen“)
 jurabk: Münz20EuroBek 2020-08-20
 layout: default
 origslug: m_nz20eurobek_2020-08-20
@@ -21,8 +20,8 @@ Fundstelle
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
 I S. 2402) hat die Bundesregierung beschlossen, zum Thema „300.
-Geburtstag Freiherr von Münchhausen“ eine deutsche Euro-Gedenkmünze im
-Nennwert von 20 Euro prägen zu lassen. Die Münze würdigt den
+Geburtstag Freiherr von Münchhausen“ eine deutsche Euro-Gedenkmünze
+im Nennwert von 20 Euro prägen zu lassen. Die Münze würdigt den
 begnadeten Geschichtenerzähler Hieronymus Carl Friedrich Freiherr von
 Münchhausen (1720 – 1797).
 
@@ -37,20 +36,20 @@ Kupfer, hat einen Durchmesser von 32,5 Millimetern und eine Masse von
 schützenden, glatten Randstab umgeben.
 
 Die Bildseite zeigt den Ritt auf der Kanonenkugel, der durch die stark
-perspektivische Tiefenwirkung und Klarheit wie ein Flug durch Raum und
-Zeit erscheint. Dramaturgisch wird dieser Flug Münchhausens zum
+perspektivische Tiefenwirkung und Klarheit wie ein Flug durch Raum
+und Zeit erscheint. Dramaturgisch wird dieser Flug Münchhausens zum
 farbigen Höhepunkt des Münzraumes. Das farbig gestaltete Motivelement
 verstärkt die visuelle Attraktivität.
 
 Die Wertseite zeigt einen Adler, den Schriftzug „BUNDESREPUBLIK
-DEUTSCHLAND“, Wertziffer und Wertbezeichnung, das Prägezeichen „A“ der
-Staatlichen Münze Berlin, die Jahreszahl 2020 sowie die zwölf
+DEUTSCHLAND“, Wertziffer und Wertbezeichnung, das Prägezeichen „A“
+der Staatlichen Münze Berlin, die Jahreszahl 2020 sowie die zwölf
 Europasterne. Zusätzlich ist die Angabe „SILBER 925“ aufgeprägt.
 
 Der glatte Münzrand enthält in vertiefter Prägung die Inschrift:
 
 „MIT TAPFERKEIT UND
-GEGENWART DES GEISTES*             “.
+GEGENWART DES GEISTES ●“.
 
 Der Entwurf der Münze stammt von dem Künstler Frantisek Chochola aus
 Hamburg.
@@ -64,10 +63,4 @@ Der Bundesminister der Finanzen
 ## (XXXX)
 
 (Fundstelle: BGBl. I 2020, 2010)
-
-
-
-*    *        ![bgbl1_2020_j2010-1_0010.jpg](bgbl1_2020_j2010-1_0010.jpg)
-    *        ![bgbl1_2020_j2010-1_0020.jpg](bgbl1_2020_j2010-1_0020.jpg)
-
 

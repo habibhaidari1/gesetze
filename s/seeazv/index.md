@@ -1,7 +1,5 @@
 ---
-Title: Verordnung über die Arbeitszeit der Arbeitnehmerinnen und Arbeitnehmer als
-  Besatzungen von Schiffen und Booten im Geschäftsbereich des Bundesministeriums der
-  Verteidigung
+Title: Verordnung über die Arbeitszeit der Arbeitnehmerinnen und Arbeitnehmer als Besatzungen von Schiffen und Booten im Geschäftsbereich des Bundesministeriums der Verteidigung
 jurabk: SeeAZV
 layout: default
 origslug: seeazv
@@ -45,12 +43,12 @@ Verpflichtung und endet mit dem Ende der Unterstellung.
 außerhalb des Geltungsbereichs des Grundgesetzes nach Zustimmung des
 Bundestages nach Parlamentsbeteiligungsgesetz teilnehmen.
 
-(2) Einsatzbezogene Verpflichtungen sind Verwendungen, die außerhalb
-des deutschen Hoheitsgebietes mit Schiffen und Booten stattfinden und
-den mandatierten Einsätzen vergleichbare Belastungen und
-Einschränkungen mit sich bringen. Vor der Teilnahme von
-Arbeitnehmerinnen und Arbeitnehmern an einer entsprechenden Verwendung
-stellt der Inspekteur der Marine fest, ob es sich um eine
+(2) Einsatzbezogene Verpflichtungen sind Verwendungen, die
+außerhalb des deutschen Hoheitsgebietes mit Schiffen und Booten
+stattfinden und den mandatierten Einsätzen vergleichbare Belastungen
+und Einschränkungen mit sich bringen. Vor der Teilnahme von
+Arbeitnehmerinnen und Arbeitnehmern an einer entsprechenden
+Verwendung stellt der Inspekteur der Marine fest, ob es sich um eine
 einsatzbezogene Verpflichtung im Sinne dieser Vorschrift handelt.
 
 (3) Zur Besatzung eines Schiffes und Bootes gehören nur diejenigen
@@ -69,8 +67,8 @@ darf, abweichend von den §§ 3, 6 Absatz 2 und § 11 Absatz 2 des
 Arbeitszeitgesetzes, auf bis zu 13 Stunden verlängert werden, wenn
 hierfür dringende betriebliche oder dienstliche Gründe vorliegen, und
 darüber hinaus auf bis zu 15 Stunden bei Ereignissen, die unabhängig
-vom Willen der Betroffenen eintreten und deren Folgen nicht auf andere
-Weise zu beseitigen sind, besonders wenn Arbeitsergebnisse zu
+vom Willen der Betroffenen eintreten und deren Folgen nicht auf
+andere Weise zu beseitigen sind, besonders wenn Arbeitsergebnisse zu
 misslingen drohen.
 
 (2) An einem Tag geleistete Arbeitszeit, die dem Geltungsbereich
@@ -80,10 +78,10 @@ mit acht Stunden zu berücksichtigen.
 
 (3) Unterfällt die an einem Tag geleistete Arbeitszeit nicht
 ausschließlich dem Geltungsbereich dieser Verordnung, darf die
-Gesamtarbeitszeit die nach Absatz 1 zulässige Höchstarbeitszeit nicht
-überschreiten. Soweit die nicht dem Geltungsbereich dieser Verordnung
-unterfallende Arbeitszeit acht Stunden überschreitet, ist diese
-Arbeitszeit nach den Vorschriften des Arbeitszeitgesetzes
+Gesamtarbeitszeit die nach Absatz 1 zulässige Höchstarbeitszeit
+nicht überschreiten. Soweit die nicht dem Geltungsbereich dieser
+Verordnung unterfallende Arbeitszeit acht Stunden überschreitet,
+ist diese Arbeitszeit nach den Vorschriften des Arbeitszeitgesetzes
 auszugleichen.
 
 
@@ -98,10 +96,7 @@ sechseinhalb Stunden eine Ruhezeit gewährt wird.
 
 1.  30 Minuten bei einer Arbeitszeit von sechs bis zu neun Stunden,
 
-
 2.  45 Minuten bei einer Arbeitszeit von mehr als neun Stunden.
-
-
 
 Sie kann in Zeitabschnitte von jeweils mindestens 15 Minuten
 aufgeteilt werden.
@@ -122,8 +117,8 @@ unterschreiten.
 
 (3) Wird in einer Woche an weniger als sieben aufeinander folgenden
 Tagen Arbeit geleistet, die dem Geltungsbereich dieser Verordnung
-unterfällt, so kann der Ausgleich der täglichen Ruhezeit nach Absatz 2
-auch an Werktagen dieser Woche erfolgen, an denen keine Arbeit
+unterfällt, so kann der Ausgleich der täglichen Ruhezeit nach Absatz
+2 auch an Werktagen dieser Woche erfolgen, an denen keine Arbeit
 verrichtet wird, die dem Geltungsbereich dieser Verordnung unterfällt.
 Kann ein Ausgleich wegen Urlaubstagen, Krankheitstagen oder der
 Gewährung von Ersatzruhetagen nach § 9 nicht in derselben Woche
@@ -138,8 +133,8 @@ nicht dieser Verordnung unterfällt, gewährt werden.
 von den §§ 3 bis 5 die Arbeitsstunden anzuordnen, die für die
 unmittelbare Sicherheit des Schiffes und des Bootes und der Personen
 an Bord, zur Hilfeleistung für andere, in Seenot befindliche Schiffe
-oder Personen erforderlich sind. Der Kapitän kann anordnen, dass die
-Besatzungsmitglieder jederzeit die erforderlichen Arbeitsstunden
+oder Personen erforderlich sind. Der Kapitän kann anordnen, dass
+die Besatzungsmitglieder jederzeit die erforderlichen Arbeitsstunden
 erbringen, bis die normale Situation wiederhergestellt ist.
 
 (2) Sobald es nach Wiederherstellung der normalen Situation möglich
@@ -170,8 +165,8 @@ zeitnah, spätestens innerhalb eines Zeitraumes von zwölf Monaten,
 gerechnet ab dem Beginn der Teilnahme an Verwendungen im Sinne dieser
 Vorschrift, zu gewähren ist.
 
-(2) Ersatzruhetage sind in einem Hafen, in dem Landgang möglich ist,
-oder an Land zu gewähren. Auf Wunsch der Arbeitnehmerinnen und
+(2) Ersatzruhetage sind in einem Hafen, in dem Landgang möglich
+ist, oder an Land zu gewähren. Auf Wunsch der Arbeitnehmerinnen und
 Arbeitnehmer können die Ersatzruhetage auch auf See gewährt werden.
 Die Ersatzruhetage können zusammenhängend gewährt werden.
 

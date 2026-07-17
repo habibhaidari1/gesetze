@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zum Ausgleich von Auswirkungen besonderer Schadensereignisse in der
-  Forstwirtschaft
+Title: Gesetz zum Ausgleich von Auswirkungen besonderer Schadensereignisse in der Forstwirtschaft
 jurabk: ForstSchAusglG
 layout: default
 origslug: forstschausglg
@@ -27,11 +26,11 @@ Zuletzt geändert durch
 
 (1) Das Bundesministerium für Ernährung und Landwirtschaft wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft
-und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates den
-ordentlichen Holzeinschlag der Forstwirtschaft für einzelne
+und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates
+den ordentlichen Holzeinschlag der Forstwirtschaft für einzelne
 Holzartengruppen (Fichte, Kiefer, Buche, Eiche) oder Holzsorten zu
-beschränken, wenn und soweit dies erforderlich ist, um erhebliche und
-überregionale Störungen des Rohholzmarktes durch außerordentliche
+beschränken, wenn und soweit dies erforderlich ist, um erhebliche
+und überregionale Störungen des Rohholzmarktes durch außerordentliche
 Holznutzungen zu vermeiden, die infolge eines oder mehrerer besonderer
 Schadensereignisse, insbesondere Windwurf und Windbruch, Schnee- und
 Eisbruch, Pilzbefall, Insektenfraß oder sonstige Schädigungen auch
@@ -46,38 +45,29 @@ erwarten, wenn die Höhe der Kalamitätsnutzung
     mindestens 40 vom Hundert des ungekürzten Einschlagsprogramms des
     Bundesgebietes oder
 
-
-2.
-    a)  in einem Land bei allen Holzartengruppen voraussichtlich mindestens 45
+2.  a)  in einem Land bei allen Holzartengruppen voraussichtlich mindestens 45
         vom Hundert oder bei einer Holzartengruppe voraussichtlich mindestens
         75 vom Hundert des ungekürzten Einschlagsprogramms dieses Landes und
 
-
-    b)  im Bundesgebiet bei allen Holzartengruppen voraussichtlich mindestens
-        20 vom Hundert oder bei der betreffenden Holzartengruppe
+    b)  im Bundesgebiet bei allen Holzartengruppen voraussichtlich
+        mindestens 20 vom Hundert oder bei der betreffenden Holzartengruppe
         voraussichtlich mindestens 30 vom Hundert des ungekürzten
         Einschlagsprogramms des Bundesgebietes erreicht.
 
-
-
-
-
-
-
-(3) Die Einschlagsbeschränkung kann für das Forstwirtschaftsjahr (1.
-Oktober bis 30. September), in dem die Kalamitätsnutzungen
+(3) Die Einschlagsbeschränkung kann für das Forstwirtschaftsjahr
+(1. Oktober bis 30. September), in dem die Kalamitätsnutzungen
 erforderlich werden, sowie für das darauf folgende
 Forstwirtschaftsjahr angeordnet werden. Eine Verlängerung um ein
 weiteres Forstwirtschaftsjahr ist zulässig, falls die Voraussetzungen
 der Absätze 1 und 2 weiterhin vorliegen.
 
 (4) Der Gesamteinschlag eines Forstbetriebes darf durch eine
-Einschlagsbeschränkung nach Absatz 1 höchstens auf 70 vom Hundert des
-Nutzungssatzes im Sinne des § 68 Absatz 1 der Einkommensteuer-
+Einschlagsbeschränkung nach Absatz 1 höchstens auf 70 vom Hundert
+des Nutzungssatzes im Sinne des § 68 Absatz 1 der Einkommensteuer-
 Durchführungsverordnung beschränkt wurden.
 
-(5) Forstwirte, die nicht zur Buchführung verpflichtet sind, können in
-der Rechtsverordnung von der Einschlagsbeschränkung ausgenommen
+(5) Forstwirte, die nicht zur Buchführung verpflichtet sind, können
+in der Rechtsverordnung von der Einschlagsbeschränkung ausgenommen
 werden, wenn das Holzaufkommen dieser Betriebe die Marktstörung nur
 unerheblich beeinflußt. Die zuständige Landesbehörde kann auf Antrag
 einzelne Forstbetriebe von der Einschlagsbeschränkung befreien, wenn
@@ -101,25 +91,25 @@ wäre.
 ## § 3 Steuerfreie Rücklage für die Bildung eines betrieblichen Ausgleichsfonds
 
 (1) Steuerpflichtige, die Einkünfte aus dem Betrieb von
-Forstwirtschaft im Sinne des § 13 des Einkommensteuergesetzes beziehen
-und bei denen der nach § 4 Abs. 1 des Einkommensteuergesetzes
+Forstwirtschaft im Sinne des § 13 des Einkommensteuergesetzes
+beziehen und bei denen der nach § 4 Abs. 1 des Einkommensteuergesetzes
 ermittelte Gewinn der Besteuerung zugrunde gelegt wird, können unter
 den Voraussetzungen des Absatzes 2 eine den steuerlichen Gewinn
 mindernde Rücklage bilden. Satz 1 gilt entsprechend für natürliche
 Personen, Körperschaften, Personenvereinigungen und Vermögensmassen,
-bei denen Einkünfte aus dem Betrieb von Forstwirtschaft steuerlich als
-Einkünfte aus Gewerbebetrieb zu behandeln sind. Die Rücklage darf 100
-vom Hundert, die jährliche Zuführung zur Rücklage 25 vom Hundert der
-im Durchschnitt der vorangegangenen drei Wirtschaftsjahre erzielten
-nutzungssatzmäßigen Einnahmen nicht übersteigen. Sinkt in den
-Folgejahren die nutzungssatzmäßige Einnahme ab, so bleibt dies ohne
-Wirkung auf die zulässige Höhe einer bereits gebildeten Rücklage.
+bei denen Einkünfte aus dem Betrieb von Forstwirtschaft steuerlich
+als Einkünfte aus Gewerbebetrieb zu behandeln sind. Die Rücklage
+darf 100 vom Hundert, die jährliche Zuführung zur Rücklage 25 vom
+Hundert der im Durchschnitt der vorangegangenen drei Wirtschaftsjahre
+erzielten nutzungssatzmäßigen Einnahmen nicht übersteigen. Sinkt in
+den Folgejahren die nutzungssatzmäßige Einnahme ab, so bleibt dies
+ohne Wirkung auf die zulässige Höhe einer bereits gebildeten Rücklage.
 
-(2) Eine Rücklage nach Absatz 1 ist nur zulässig, wenn mindestens in
-gleicher Höhe ein betrieblicher Ausgleichsfonds gebildet wird. Die
-Gelder für den Fonds müssen auf ein besonderes Konto bei einem
-Kreditinstitut eingezahlt worden sein. Sie können auch für den Erwerb
-von festverzinslichen Schuldverschreibungen und
+(2) Eine Rücklage nach Absatz 1 ist nur zulässig, wenn mindestens
+in gleicher Höhe ein betrieblicher Ausgleichsfonds gebildet
+wird. Die Gelder für den Fonds müssen auf ein besonderes Konto
+bei einem Kreditinstitut eingezahlt worden sein. Sie können auch
+für den Erwerb von festverzinslichen Schuldverschreibungen und
 Rentenschuldverschreibungen, die vom Bund, von den Ländern und
 Gemeinden oder von anderen Körperschaften des öffentlichen Rechts oder
 von Kreditinstituten mit Sitz und Geschäftsleitung im Geltungsbereich
@@ -132,22 +122,15 @@ das Depot eines Kreditinstituts gegeben werden.
 1.  zur Ergänzung der durch eine Einschlagsbeschränkung geminderten
     Erlöse;
 
-
 2.  für vorbeugende oder akute Forstschutzmaßnahmen;
 
-
 3.  für Maßnahmen zur Konservierung oder Lagerung von Holz;
-
 
 4.  für die Wiederaufforstung oder Nachbesserung von Schadensflächen und
     die nachfolgende Waldpflege;
 
-
 5.  für die Beseitigung der unmittelbar oder mittelbar durch höhere Gewalt
     verursachten Schäden an Wegen und sonstigen Betriebsvorrichtungen.
-
-
-
 
 (4) Die Rücklage ist in Höhe der in Anspruch genommenen Fondsmittel
 zum Ende des Wirtschaftsjahres der Inanspruchnahme gewinnerhöhend
@@ -157,8 +140,8 @@ ein Zuschlag zur Einkommensteuer oder Körperschaftsteuer in Höhe von
 10 vom Hundert des Teils der aufgelösten Rücklage erhoben, der nicht
 auf die in Absatz 3 bezeichneten Zwecke entfällt.
 
-(5) Die Rücklage nach Absatz 1 ist bei der Berechnung der in § 141
-Abs. 1 Nr. 5 der Abgabenordnung bezeichneten Grenze nicht zu
+(5) Die Rücklage nach Absatz 1 ist bei der Berechnung der in §
+141 Abs. 1 Nr. 5 der Abgabenordnung bezeichneten Grenze nicht zu
 berücksichtigen.
 
 
@@ -173,25 +156,25 @@ eingeschlagenen Holzes abziehen. Soweit Holz auf dem Stamm verkauft
 wird, betragen die pauschalen Betriebsausgaben 65 Prozent der
 Einnahmen aus der Verwertung des stehenden Holzes.
 
-(2) Absatz 1 gilt auch, wenn diese Forstwirte nach § 1 Abs. 5 von der
-Einschlagsbeschränkung ausgenommen sind, jedoch freiwillig die
+(2) Absatz 1 gilt auch, wenn diese Forstwirte nach § 1 Abs. 5 von
+der Einschlagsbeschränkung ausgenommen sind, jedoch freiwillig die
 Einschlagsbeschränkung befolgen.
 
 
 ## § 4a Bewertung von Holzvorräten aus Kalamitätsnutzungen bei der Forstwirtschaft
 
-Steuerpflichtige mit Einkünften aus Forstwirtschaft, bei denen der
-nach § 4 Absatz 1, § 5 des Einkommensteuergesetzes ermittelte Gewinn
-der Besteuerung zugrunde gelegt wird, können im Falle einer
-Einschlagsbeschränkung nach § 1 von einer Aktivierung des
+Steuerpflichtige mit Einkünften aus Forstwirtschaft, bei denen
+der nach § 4 Absatz 1, § 5 des Einkommensteuergesetzes ermittelte
+Gewinn der Besteuerung zugrunde gelegt wird, können im Falle
+einer Einschlagsbeschränkung nach § 1 von einer Aktivierung des
 eingeschlagenen und unverkauften Kalamitätsholzes ganz oder teilweise
 absehen.
 
 
 ## § 5 Sonstige steuerliche Maßnahmen
 
-(1) Im Wirtschaftsjahr einer Einschlagsbeschränkung nach § 1 gilt für
-jegliche Kalamitätsnutzung einheitlich der Steuersatz nach § 34b
+(1) Im Wirtschaftsjahr einer Einschlagsbeschränkung nach § 1 gilt
+für jegliche Kalamitätsnutzung einheitlich der Steuersatz nach § 34b
 Absatz 3 Nummer 2 des Einkommensteuergesetzes.
 
 (2) Kalamitätsnutzungen, die in Folgejahren gezogen werden und im
@@ -214,14 +197,10 @@ Einkommensteuergesetzes ermitteln, können den Mehrbestand an
 
 1.  Holz im Sinne der Nr. 44.01 und 44.03 des Zolltarifs,
 
-
 2.  Holzhalbwaren im Sinne der Nr. 44.05, 44.07, 44.11, 44.13, 44.15 und
     44\.18 des Zolltarifs und
 
-
 3.  Halbstoffen aus Holz im Sinne der Nr. 47.01 des Zolltarifs
-
-
 
 an Bilanzstichtagen, die in einen Zeitraum fallen, für den eine
 Einschlagsbeschränkung im Sinne des § 1 angeordnet ist, statt mit dem
@@ -233,15 +212,15 @@ Einschlagsbeschränkung angewendet werden. Der niedrigere Wertansatz
 ist nur zulässig für Wirtschaftsgüter, die aus im Inland erzeugtem
 Holz bestehen.
 
-(2) Mehrbestand ist die mengenmäßige Erhöhung der Bestände an Holz
-oder Holzwaren im Sinne des Absatzes 1 gegenüber den
+(2) Mehrbestand ist die mengenmäßige Erhöhung der Bestände
+an Holz oder Holzwaren im Sinne des Absatzes 1 gegenüber den
 durchschnittlichen Beständen an diesen Waren an den letzten drei
 vorangegangenen Bilanzstichtagen, die nach Abzug etwaiger bei diesen
 Wirtschaftsgütern eingetretener mengenmäßiger Bestandsminderungen
 verbleibt. Die mengenmäßigen Bestandsänderungen an Bilanzstichtagen
 gegenüber den durchschnittlichen Beständen an den letzten drei
-vorangegangenen Bilanzstichtagen sind dabei für die in Absatz 1 Satz 1
-Nr. 1, 2 und 3 genannten Wirtschaftsgüter getrennt zu ermitteln. Der
+vorangegangenen Bilanzstichtagen sind dabei für die in Absatz 1 Satz
+1 Nr. 1, 2 und 3 genannten Wirtschaftsgüter getrennt zu ermitteln. Der
 Abzug der Bestandsminderungen ist in der Weise durchzuführen, daß bei
 den Bestandserhöhungen die Mengen abzusetzen sind, die dem Wert der
 Bestandsminderungen entsprechen; dabei sind die Wirtschaftsgüter mit
@@ -259,9 +238,9 @@ dem Wiederbeschaffungspreis am Bilanzstichtag zu bewerten.
 und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen zu
 überwachen.
 
-(2) Die zuständigen Behörden können zur Durchführung der ihnen durch
-dieses Gesetz oder auf Grund dieses Gesetzes übertragenen Aufgaben von
-natürlichen und juristischen Personen und nicht rechtsfähigen
+(2) Die zuständigen Behörden können zur Durchführung der ihnen
+durch dieses Gesetz oder auf Grund dieses Gesetzes übertragenen
+Aufgaben von natürlichen und juristischen Personen und sonstigen
 Personenvereinigungen die erforderlichen Auskünfte verlangen.
 
 (3) Die von den zuständigen Behörden mit der Einholung von Auskünften
@@ -272,8 +251,8 @@ Unterlagen einzusehen. Der Auskunftspflichtige hat die Maßnahmen nach
 Satz 1 zu dulden.
 
 (4) Der zur Auskunft Verpflichtete kann die Auskunft auf solche Fragen
-verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Abs.
-1 Nr. 1 bis 3 der Zivilprozeßordnung bezeichneten Angehörigen der
+verweigern, deren Beantwortung ihn selbst oder einen der in § 383
+Abs. 1 Nr. 1 bis 3 der Zivilprozeßordnung bezeichneten Angehörigen der
 Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem
 Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
@@ -291,14 +270,10 @@ Gesetz über Ordnungswidrigkeiten aussetzen würde.
     sie für einen bestimmten Tatbestand auf diese Bußgeldvorschrift
     verweist,
 
-
-2.  entgegen § 9 Abs. 2 eine Auskunft nicht, nicht richtig oder nicht
-    vollständig erteilt oder entgegen § 9 Abs. 3 den Zutritt zu
-    Grundstücken oder Geschäftsräumen oder die Einsichtnahme in
+2.  entgegen § 9 Abs. 2 eine Auskunft nicht, nicht richtig oder
+    nicht vollständig erteilt oder entgegen § 9 Abs. 3 den Zutritt
+    zu Grundstücken oder Geschäftsräumen oder die Einsichtnahme in
     geschäftliche Unterlagen nicht zuläßt.
-
-
-
 
 (2) Die Ordnungswidrigkeit kann im Falle des Absatzes 1 Nr. 1 mit
 einer Geldbuße bis zu fünfundzwanzigtausend Euro, im Falle des

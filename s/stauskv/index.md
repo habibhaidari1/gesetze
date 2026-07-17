@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2007, 2783
 
 Zuletzt geändert durch
-:   Art. 4 V v. 12.7.2017 I 2360
+:   Art. 7 V v. 19.12.2022 I 2432
 
 
 ## Eingangsformel
@@ -40,34 +40,25 @@ Antrag hat Folgendes zu enthalten:
     Personenvereinigungen und Vermögensmassen Sitz oder Ort der
     Geschäftsleitung, soweit vorhanden Steuernummer),
 
-
 2.  eine umfassende und in sich abgeschlossene Darstellung des zum
     Zeitpunkt der Antragstellung noch nicht verwirklichten Sachverhalts,
-
 
 3.  die Darlegung des besonderen steuerlichen Interesses des
     Antragstellers,
 
-
 4.  eine ausführliche Darlegung des Rechtsproblems mit eingehender
     Begründung des eigenen Rechtsstandpunktes des Antragstellers,
 
-
 5.  die Formulierung konkreter Rechtsfragen,
-
 
 6.  die Erklärung, dass über den zur Beurteilung gestellten Sachverhalt
     bei keiner anderen der in § 89 Abs. 2 Satz 2 und 3 der Abgabenordnung
     genannten Finanzbehörden (Finanzämter oder Bundeszentralamt für
     Steuern) eine verbindliche Auskunft beantragt wurde, sowie
 
-
-7.  die Versicherung, dass alle für die Erteilung der Auskunft und für die
-    Beurteilung erforderlichen Angaben gemacht wurden und der Wahrheit
+7.  die Versicherung, dass alle für die Erteilung der Auskunft und für
+    die Beurteilung erforderlichen Angaben gemacht wurden und der Wahrheit
     entsprechen.
-
-
-
 
 (2) Eine verbindliche Auskunft kann von allen Beteiligten nur
 gemeinsam beantragt werden, wenn sie sich auf einen Sachverhalt
@@ -76,42 +67,35 @@ bezieht, der
 1.  mehreren Personen steuerlich zuzurechnen ist (§ 179 Absatz 2 Satz 2
     der Abgabenordnung),
 
-
 2.  zur Begründung oder Beendigung einer Organschaft im Sinne
 
     a)  des § 2 Absatz 2 Nummer 2 des Umsatzsteuergesetzes,
 
-
     b)  der §§ 14 und 17 des Körperschaftsteuergesetzes oder
-
 
     c)  des § 2 Absatz 2 Satz 2 des Gewerbesteuergesetzes
 
-
-
     führen kann,
-
 
 3.  von einer Organgesellschaft verwirklicht werden soll und über
 
     a)  die gesonderte und einheitliche Feststellung nach § 14 Absatz 5 des
         Körperschaftsteuergesetzes oder
 
-
     b)  den dem Organträger zuzurechnenden Gewerbeertrag
 
-
-
     Auswirkungen auf die Besteuerungsgrundlagen des Organträgers haben
-    kann, oder
+    kann,
 
-
-4.  zur Verwirklichung eines Erwerbsvorgangs im Sinne von § 1 Absatz 3
-    Nummer 1 und 2 in Verbindung mit Absatz 4 Nummer 2 des
+4.  zur Verwirklichung eines Erwerbsvorgangs im Sinne von § 1
+    Absatz 3 Nummer 1 und 2 in Verbindung mit Absatz 4 Nummer 2 des
     Grunderwerbsteuergesetzes (grunderwerbsteuerliche Organschaft) führen
-    kann.
+    kann oder
 
-
+5.  sich nach den §§ 20, 21, 24 oder 25 des Umwandlungssteuergesetzes bei
+    verschiedenen Rechtsträgern steuerlich auswirkt und der steuerliche
+    Wertansatz beim einbringenden oder übertragenden Rechtsträger vom
+    steuerlichen Wertansatz beim übernehmenden Rechtsträger abhängt.
 
 Die Beteiligten sollen einen gemeinsamen Empfangsbevollmächtigten
 bestellen, der ermächtigt ist, für sie alle Verwaltungsakte und
@@ -125,12 +109,10 @@ ist zuständig
     das Finanzamt, das für die gesonderte und einheitliche Feststellung
     örtlich zuständig ist;
 
-
 2.  nach Absatz 2 Satz 1 Nummer 2 Buchstabe a:
 
     das Finanzamt, das für die Umsatzbesteuerung des Organträgers örtlich
     zuständig ist;
-
 
 3.  nach Absatz 2 Satz 1 Nummer 2 Buchstabe b und c sowie Nummer 3:
 
@@ -138,17 +120,18 @@ ist zuständig
     nach § 14 Absatz 5 des Körperschaftsteuergesetzes örtlich zuständig
     ist;
 
-
 4.  nach Absatz 2 Satz 1 Nummer 4:
 
-    das Finanzamt, das für die Festsetzung der Grunderwerbsteuer zuständig
-    ist; ist der verwirklichte Sachverhalt Gegenstand einer gesonderten
-    Feststellung nach § 17 Absatz 3 Satz 1 Nummer 2 oder Satz 2 in
-    Verbindung mit Absatz 2 des Grunderwerbsteuergesetzes, ist das
+    das Finanzamt, das für die Festsetzung der Grunderwerbsteuer
+    zuständig ist; ist der verwirklichte Sachverhalt Gegenstand einer
+    gesonderten Feststellung nach § 17 Absatz 3 Satz 1 Nummer 2 oder Satz
+    2 in Verbindung mit Absatz 2 des Grunderwerbsteuergesetzes, ist das
     Finanzamt zuständig, das für die gesonderte Feststellung zuständig
-    ist.
+    ist;
 
-
+5.  nach Absatz 2 Satz 1 Nummer 5: das Finanzamt, das nach § 18 oder
+    § 20 der Abgabenordnung für den übernehmenden Rechtsträger örtlich
+    zuständig ist.
 
 In den Fällen des Absatzes 2 Satz 1 Nummer 2 wird für die Bestimmung
 der Zuständigkeit stets von einer bestehenden Organschaft ausgegangen.
@@ -180,10 +163,10 @@ Sachverhalt nicht oder nur unwesentlich abweicht. Die verbindliche
 Auskunft ist nicht bindend, wenn sie zuungunsten des Steuerpflichtigen
 dem geltenden Recht widerspricht.
 
-(2) Eine nach § 1 Absatz 3 erteilte verbindliche Auskunft ist für die
-Besteuerung aller Beteiligten einheitlich bindend, wenn der später
-verwirklichte Sachverhalt von dem Sachverhalt, der der Auskunft
-zugrunde gelegt wurde, nicht oder nur unwesentlich abweicht.
+(2) Eine nach § 1 Absatz 3 erteilte verbindliche Auskunft ist
+für die Besteuerung aller Beteiligten einheitlich bindend, wenn
+der später verwirklichte Sachverhalt von dem Sachverhalt, der der
+Auskunft zugrunde gelegt wurde, nicht oder nur unwesentlich abweicht.
 Widerspricht die einheitlich erteilte verbindliche Auskunft dem
 geltenden Recht und beruft sich mindestens ein Beteiligter hierauf,
 entfällt die Bindungswirkung der verbindlichen Auskunft einheitlich
@@ -201,10 +184,14 @@ unrichtig war.
 
 ## § 3 Anwendungsvorschrift
 
-§ 1 Absatz 2 Satz 1, Absatz 3 und § 2 Absatz 2 in der am 20. Juli 2017
-geltenden Fassung sind erstmals auf Anträge auf Erteilung einer
-verbindlichen Auskunft anzuwenden, die nach dem 1. September 2017 bei
-der zuständigen Finanzbehörde eingegangen sind.
+§ 1 Absatz 2 Satz 1, Absatz 3 und § 2 Absatz 2 in der am 20. Juli
+2017 geltenden Fassung sind erstmals auf Anträge auf Erteilung einer
+verbindlichen Auskunft anzuwenden, die nach dem 1. September 2017
+bei der zuständigen Finanzbehörde eingegangen sind. § 1 Absatz 2 Satz
+1 Nummer 3 bis 5 und Absatz 3 Satz 1 Nummer 4 und 5 in der am 23.
+Dezember 2022 geltenden Fassung ist erstmals auf Anträge auf Erteilung
+einer verbindlichen Auskunft anzuwenden, die nach dem 31. Dezember
+2022 bei der zuständigen Finanzbehörde eingegangen sind.
 
 
 ## Schlussformel

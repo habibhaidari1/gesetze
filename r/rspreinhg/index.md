@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zur Wahrung der Einheitlichkeit der Rechtsprechung der obersten Gerichtshöfe
-  des Bundes
+Title: Gesetz zur Wahrung der Einheitlichkeit der Rechtsprechung der obersten Gerichtshöfe des Bundes
 jurabk: RsprEinhG
 layout: default
 origslug: rspreinhg
@@ -23,7 +22,6 @@ Zuletzt geändert durch
 ## Erster Abschnitt - Gemeinsamer Senat der obersten Gerichtshöfe
 
 
-
 ### § 1 Bildung des Gemeinsamen Senats
 
 (1) Zur Wahrung der Einheitlichkeit der Rechtsprechung der in Artikel
@@ -35,14 +33,14 @@ wird ein Gemeinsamer Senat dieser obersten Gerichtshöfe gebildet.
 
 ### § 2 Zuständigkeit
 
-(1) Der Gemeinsame Senat entscheidet, wenn ein oberster Gerichtshof in
-einer Rechtsfrage von der Entscheidung eines anderen obersten
+(1) Der Gemeinsame Senat entscheidet, wenn ein oberster Gerichtshof
+in einer Rechtsfrage von der Entscheidung eines anderen obersten
 Gerichtshofs oder des Gemeinsamen Senats abweichen will.
 
-(2) Sind nach den Gerichtsverfassungs- oder Verfahrensgesetzen der
-Große Senat oder die Vereinigten Großen Senate eines obersten
-Gerichtshofs anzurufen, so entscheidet der Gemeinsame Senat erst, wenn
-der Große Senat oder die Vereinigten Großen Senate von der
+(2) Sind nach den Gerichtsverfassungs- oder Verfahrensgesetzen
+der Große Senat oder die Vereinigten Großen Senate eines obersten
+Gerichtshofs anzurufen, so entscheidet der Gemeinsame Senat erst,
+wenn der Große Senat oder die Vereinigten Großen Senate von der
 Entscheidung eines anderen obersten Gerichtshofs oder des Gemeinsamen
 Senats abweichen wollen.
 
@@ -53,14 +51,9 @@ Senats abweichen wollen.
 
 1.  den Präsidenten der obersten Gerichtshöfe,
 
-
 2.  den Vorsitzenden Richtern der beteiligten Senate und
 
-
 3.  je einem weiteren Richter der beteiligten Senate.
-
-
-
 
 (2) Führt der Präsident eines obersten Gerichtshofs den Vorsitz in
 einem beteiligten Senat, so wirken außer ihm zwei weitere Richter des
@@ -80,12 +73,12 @@ Dauer von zwei Geschäftsjahren bestimmt.
 
 (1) Beteiligt sind der vorlegende Senat und der Senat des obersten
 Gerichtshofs, von dessen Entscheidung der vorlegende Senat abweichen
-will. Ist der Senat des anderen obersten Gerichtshofs bei Eingang des
-Vorlegungsbeschlusses für die Rechtsfrage nicht mehr zuständig, so
-tritt der nach der Geschäftsverteilung nunmehr zuständige Senat an
-seine Stelle. Haben mehrere Senate des anderen obersten Gerichtshofs
-über die Rechtsfrage abweichend entschieden, so ist der Senat
-beteiligt, der als letzter entschieden hat, sofern nach der
+will. Ist der Senat des anderen obersten Gerichtshofs bei Eingang
+des Vorlegungsbeschlusses für die Rechtsfrage nicht mehr zuständig,
+so tritt der nach der Geschäftsverteilung nunmehr zuständige
+Senat an seine Stelle. Haben mehrere Senate des anderen obersten
+Gerichtshofs über die Rechtsfrage abweichend entschieden, so ist der
+Senat beteiligt, der als letzter entschieden hat, sofern nach der
 Geschäftsverteilung nicht ein anderer Senat bestimmt ist.
 
 (2) Wird die Rechtsfrage von dem Großen Senat eines obersten
@@ -119,8 +112,8 @@ Gerichtshof vor.
 
 ### § 8 Geschäftsstelle
 
-Für den Gemeinsamen Senat wird eine Geschäftsstelle eingerichtet. Das
-Nähere bestimmt der Bundesminister der Justiz und für
+Für den Gemeinsamen Senat wird eine Geschäftsstelle eingerichtet.
+Das Nähere bestimmt der Bundesminister der Justiz und für
 Verbraucherschutz.
 
 
@@ -131,7 +124,6 @@ Rechts- und Amtshilfe.
 
 
 ## Zweiter Abschnitt - Verfahrensvorschriften
-
 
 
 ### § 10 Grundsatz
@@ -145,8 +137,8 @@ vor dem vorlegenden Senat entsprechend.
 
 (1) Das Verfahren vor dem Gemeinsamen Senat wird durch einen
 Vorlegungsbeschluß eingeleitet. In diesem ist die Entscheidung des
-obersten Gerichtshofs, von der der vorlegende Senat abweichen will, zu
-bezeichnen. Der Beschluß ist zu begründen und den am Verfahren
+obersten Gerichtshofs, von der der vorlegende Senat abweichen will,
+zu bezeichnen. Der Beschluß ist zu begründen und den am Verfahren
 Beteiligen zuzustellen.
 
 (2) Die Senate, die Großen Senate oder die Vereinigten Großen Senate
@@ -154,8 +146,8 @@ der obersten Gerichtshöfe holen die Entscheidung des Gemeinsamen
 Senats unmittelbar ein. Gleichzeitig ist das Verfahren vor dem
 vorlegenden Senat auszusetzen.
 
-(3) Eine Vorlage an den Gemeinsamen Senat im Sinne der Absätze 1 und 2
-ist nur zulässig, wenn der Senat, von dessen Entscheidung abgewichen
+(3) Eine Vorlage an den Gemeinsamen Senat im Sinne der Absätze 1 und
+2 ist nur zulässig, wenn der Senat, von dessen Entscheidung abgewichen
 werden soll, auf die zu begründende Anfrage des erkennenden Senats
 erklärt hat, dass er an seiner Rechtsauffassung festhält. § 4 gilt
 entsprechend.
@@ -172,9 +164,9 @@ Rechtsfragen zur Entscheidung anstehen.
 
 (2) Der Gemeinsame Senat kann einen obersten Gerichtshof ersuchen,
 seine Auffassung zu einer für die Entscheidung erheblichen Rechtsfrage
-darzulegen. Der ersuchte oberste Gerichtshof legt eine Äußerung des
-Senats vor, der nach der Geschäftsverteilung zur Entscheidung über die
-streitige Rechtsfrage zuständig ist oder, wenn nach der
+darzulegen. Der ersuchte oberste Gerichtshof legt eine Äußerung
+des Senats vor, der nach der Geschäftsverteilung zur Entscheidung
+über die streitige Rechtsfrage zuständig ist oder, wenn nach der
 Geschäftsverteilung kein bestimmter Senat zuständig ist, vom Präsidium
 bestimmt wird. Auch ohne Ersuchen kann ein oberster Gerichtshof dem
 Gemeinsamen Senat eine Äußerung seines zuständigen Senats zu der
@@ -198,9 +190,9 @@ Generalbundesanwalt von solchen Verfahren Kenntnis.
 
 (3) Der Vorsitzende des Gemeinsamen Senats soll dem
 Generalbundesanwalt, auch wenn er am Verfahren nicht beteiligt ist,
-Gelegenheit zur Äußerung geben, wenn die vorgelegte Rechtsfrage für
-das Rechtsgebiet, für das der Generalbundesanwalt zuständig ist,
-Bedeutung hat. Die Äußerung ist den am Verfahren Beteiligten
+Gelegenheit zur Äußerung geben, wenn die vorgelegte Rechtsfrage
+für das Rechtsgebiet, für das der Generalbundesanwalt zuständig
+ist, Bedeutung hat. Die Äußerung ist den am Verfahren Beteiligten
 mitzuteilen.
 
 (4) Die Absätze 2 und 3 gelten für den Vertreter des Bundesinteresses
@@ -212,8 +204,8 @@ entsprechend.
 
 Schließt sich der Senat des obersten Gerichtshofs, von dessen
 Entscheidung abgewichen werden soll, innerhalb eines Monats durch
-Beschluß der Rechtsauffassung des vorlegenden Senats an, so ist das
-Verfahren einzustellen. Die Frist beginnt mit dem Eingang des
+Beschluß der Rechtsauffassung des vorlegenden Senats an, so ist
+das Verfahren einzustellen. Die Frist beginnt mit dem Eingang des
 Vorlegungsbeschlusses bei dem obersten Gerichtshof, von dessen
 Entscheidung abgewichen werden soll. Sie kann von dem Vorsitzenden des
 Gemeinsamen Senats verlängert werden.
@@ -245,22 +237,21 @@ für das erkennende Gericht bindend.
 ## Dritter Abschnitt - Schlußvorschriften
 
 
-
 ### § 18 Erweiterung der Revisions- und Vorlegungsgründe
 
 (1) Hat ein Gericht die Revision oder die Rechtsbeschwerde zuzulassen,
 wenn es von einer Entscheidung eines obersten Gerichtshofs abweicht,
-so ist die Revision oder die Rechtsbeschwerde auch zuzulassen, wenn
-das Gericht von einer Entscheidung des Gemeinsamen Senats abweicht.
-Findet die Revision oder die Rechtsbeschwerde an einen obersten
-Gerichtshof bei einer Abweichung von dessen Entscheidung ohne
-Zulassung statt, so ist die Revision oder Rechtsbeschwerde auch bei
-einer Abweichung von einer Entscheidung des Gemeinsamen Senats
+so ist die Revision oder die Rechtsbeschwerde auch zuzulassen,
+wenn das Gericht von einer Entscheidung des Gemeinsamen Senats
+abweicht. Findet die Revision oder die Rechtsbeschwerde an einen
+obersten Gerichtshof bei einer Abweichung von dessen Entscheidung
+ohne Zulassung statt, so ist die Revision oder Rechtsbeschwerde auch
+bei einer Abweichung von einer Entscheidung des Gemeinsamen Senats
 zulässig.
 
 (2) Hat ein Gericht eine Sache einem obersten Gerichtshof vorzulegen,
-wenn es von dessen Entscheidung abweichen will, so hat das Gericht die
-Sache dem obersten Gerichtshof auch vorzulegen, wenn es von einer
+wenn es von dessen Entscheidung abweichen will, so hat das Gericht
+die Sache dem obersten Gerichtshof auch vorzulegen, wenn es von einer
 Entscheidung des Gemeinsamen Senats abweichen will.
 
 

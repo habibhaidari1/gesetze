@@ -16,17 +16,16 @@ Fundstelle
 :   BGBl I: 1996, 17
 
 
-
 ## (XXXX)
 
-1995 jährte sich zum 50. Mal das Ende des Zweiten Weltkrieges und der
-nationalsozialistischen Gewaltherrschaft. In diesem Jahr haben wir uns
-in besonderer Weise der Opfer des nationalsozialistischen Rassenwahns
-und Völkermordes erinnert und der Millionen Menschen gedacht, die
-durch das nationalsozialistische Regime entrechtet, verfolgt, gequält
-oder ermordet wurden. Symbolhaft für diesen Terror steht das
-Konzentrationslager Auschwitz, das am 27. Januar 1945 befreit wurde
-und in dem vor allem solche Menschen litten, die der
+1995 jährte sich zum 50. Mal das Ende des Zweiten Weltkrieges und
+der nationalsozialistischen Gewaltherrschaft. In diesem Jahr haben
+wir uns in besonderer Weise der Opfer des nationalsozialistischen
+Rassenwahns und Völkermordes erinnert und der Millionen Menschen
+gedacht, die durch das nationalsozialistische Regime entrechtet,
+verfolgt, gequält oder ermordet wurden. Symbolhaft für diesen Terror
+steht das Konzentrationslager Auschwitz, das am 27. Januar 1945
+befreit wurde und in dem vor allem solche Menschen litten, die der
 Nationalsozialismus planmäßig ermordete oder noch vernichten wollte.
 Die Erinnerung darf nicht enden; sie muß auch künftige Generationen
 zur Wachsamkeit mahnen.

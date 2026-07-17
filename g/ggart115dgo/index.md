@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl I: 1969, 1100
 
 
-
 ## Eingangsformel
 
 Zur Ausführung des Artikels 115d des Grundgesetzes hat der Bundestag
@@ -83,9 +82,9 @@ Bundesrat.
 Wort, so erklärt der Präsident des Bundestages die Beratung für
 geschlossen.
 
-(2) Über einen Antrag auf Vertagung oder Schluß der Beratung, der von
-30 anwesenden Abgeordneten gestellt wird, darf nur abgestimmt werden,
-wenn ihm der Bundesrat nicht mit der Mehrheit seiner Stimmen
+(2) Über einen Antrag auf Vertagung oder Schluß der Beratung, der
+von 30 anwesenden Abgeordneten gestellt wird, darf nur abgestimmt
+werden, wenn ihm der Bundesrat nicht mit der Mehrheit seiner Stimmen
 widerspricht.
 
 (3) Die Schlußabstimmung erfolgt in gemeinsamer Sitzung. Zuerst stimmt
@@ -96,8 +95,8 @@ erforderlich, sofern nicht nach dem Grundgesetz eine Mehrheit von zwei
 Dritteln der Stimmen erforderlich ist.
 
 (5) Lehnt der Bundesrat einen Gesetzesbeschluß, der nicht seiner
-Zustimmung bedarf, ab, so wird die Beratung wieder eröffnet. Der
-Bundestag kann das Gesetz mit der Mehrheit seiner Mitglieder
+Zustimmung bedarf, ab, so wird die Beratung wieder eröffnet.
+Der Bundestag kann das Gesetz mit der Mehrheit seiner Mitglieder
 bestätigen.
 
 
@@ -105,7 +104,7 @@ bestätigen.
 
 Im übrigen findet auf das Verfahren die Geschäftsordnung des
 Bundestages entsprechende Anwendung. Für die Abstimmungen der
-Mitglieder des Bundesrates und für die Abstimmungen der Vertreter in
-den Ausschüssen gelten die entsprechenden Bestimmungen der
+Mitglieder des Bundesrates und für die Abstimmungen der Vertreter
+in den Ausschüssen gelten die entsprechenden Bestimmungen der
 Geschäftsordnung des Bundesrates.
 

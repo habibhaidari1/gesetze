@@ -28,7 +28,6 @@ beschlossen:
 ## (XXXX) Art 1 bis 6
 
 
-
 ## Art 7
 
 -
@@ -38,7 +37,6 @@ beschlossen:
 
 
 ## (XXXX) Art 9 bis 11
-
 
 
 ## Art 12 Aufsicht zur Budgetierung 1999
@@ -56,10 +54,10 @@ bisherige Verträge weiter.
 
 (2) Die Entscheidungen der Schiedsämter über die Vergütung der
 Leistungen nach § 83 Abs. 1 und § 85 für das Jahr 1999 sind den
-Aufsichtsbehörden unverzüglich nach der Entscheidung vorzulegen. Die
-Aufsichtsbehörden haben die Entscheidungen bei einem Rechtsverstoß
-innerhalb von zwei Monaten nach Vorlage zu beanstanden. Die
-vorgelegten Entscheidungen gelten erst nach Ablauf der
+Aufsichtsbehörden unverzüglich nach der Entscheidung vorzulegen.
+Die Aufsichtsbehörden haben die Entscheidungen bei einem
+Rechtsverstoß innerhalb von zwei Monaten nach Vorlage zu beanstanden.
+Die vorgelegten Entscheidungen gelten erst nach Ablauf der
 Beanstandungsfrist, es sei denn, die Aufsichtsbehörden erklären dem
 Schiedsamt zuvor ihr Einvernehmen. Beanstandete Entscheidungen gelten
 nicht. Bis zur Behebung der Beanstandung durch die Vertragspartner
@@ -68,17 +66,17 @@ Vertragspartner gegen die Beanstandung gelten die Vorschriften über
 die Anfechtungsklage entsprechend.
 
 (3) Hat eine Kassenärztliche Vereinigung den Honorarverteilungsmaßstab
-bis zum 28. Februar 1999 nicht wirksam an die Vorgaben des § 85 Abs. 4
-Satz 4 Fünftes Buch Sozialgesetzbuch angepaßt, setzt das für die
-Kassenärztliche Vereinigung zuständige Landesschiedsamt den
+bis zum 28. Februar 1999 nicht wirksam an die Vorgaben des § 85
+Abs. 4 Satz 4 Fünftes Buch Sozialgesetzbuch angepaßt, setzt das
+für die Kassenärztliche Vereinigung zuständige Landesschiedsamt den
 Verteilungsmaßstab bis zum 31. März 1999 fest.
 
 
 ## Art 13 Ausgabenbegrenzung bei Strukturverträgen
 
 In Verträgen nach § 73a Fünftes Buch Sozialgesetzbuch ist das
-Vergütungsvolumen als Bestandteil der Gesamtvergütung (§ 85 Abs. 2
-Fünftes Buch Sozialgesetzbuch) für das Jahr 1999 nach Artikel 14
+Vergütungsvolumen als Bestandteil der Gesamtvergütung (§ 85 Abs.
+2 Fünftes Buch Sozialgesetzbuch) für das Jahr 1999 nach Artikel 14
 dieses Gesetzes begrenzt. Satz 1 gilt nicht für Verträge, die vor dem
 30\. November 1998 geschlossen worden sind.
 
@@ -88,15 +86,15 @@ dieses Gesetzes begrenzt. Satz 1 gilt nicht für Verträge, die vor dem
 (1) Die nach § 85 Abs. 3 Fünftes Buch Sozialgesetzbuch zu
 vereinbarenden Veränderungen der Gesamtvergütungen der Vertragsärzte
 als Ausgabenvolumen für die Gesamtheit der zu vergütenden ärztlichen
-Leistungen dürfen sich im Jahr 1999 höchstens um die nach Artikel 18
-festgestellte Veränderungsrate der beitragspflichtigen Einnahmen der
-Mitglieder aller Krankenkassen je Mitglied im Jahr 1998 verändern; die
-Vomhundertsätze sind für das Beitrittsgebiet und das übrige
-Bundesgebiet getrennt anzuwenden. Die Veränderungen der
-Gesamtvergütungen im Jahr 1999 sind auf das entsprechend der
+Leistungen dürfen sich im Jahr 1999 höchstens um die nach Artikel
+18 festgestellte Veränderungsrate der beitragspflichtigen Einnahmen
+der Mitglieder aller Krankenkassen je Mitglied im Jahr 1998
+verändern; die Vomhundertsätze sind für das Beitrittsgebiet und
+das übrige Bundesgebiet getrennt anzuwenden. Die Veränderungen
+der Gesamtvergütungen im Jahr 1999 sind auf das entsprechend der
 Veränderung der beitragspflichtigen Einnahmen im Jahr 1998 veränderte
-Vergütungsvolumen des Jahres 1997 zu beziehen. Der Ausgangsbetrag für
-die Vereinbarung der Gesamtvergütungen ist um den Betrag zu
+Vergütungsvolumen des Jahres 1997 zu beziehen. Der Ausgangsbetrag
+für die Vereinbarung der Gesamtvergütungen ist um den Betrag zu
 verringern, der im Jahr 1997 für die Leistungen nach Absatz 4 vergütet
 wurde. Zur Vergütung von Leistungen, die aufgrund von vor dem 30.
 November 1998 vereinbarten Strukturverträgen nach § 73a Fünftes Buch
@@ -109,8 +107,8 @@ Buch Sozialgesetzbuch gilt nicht.
 (1a) Übersteigt die nach Artikel 18 festgestellte Veränderungsrate der
 beitragspflichtigen Einnahmen der Mitglieder aller Krankenkassen je
 Mitglied im früheren Bundesgebiet die entsprechende Veränderungsrate
-im gesamten Bundesgebiet, werden die Gesamtvergütungen im Bereich der
-Kassenärztlichen Vereinigungen im Beitrittsgebiet für 1999 durch
+im gesamten Bundesgebiet, werden die Gesamtvergütungen im Bereich
+der Kassenärztlichen Vereinigungen im Beitrittsgebiet für 1999 durch
 Ausgleich unter den Kassenärztlichen Vereinigungen insgesamt um die
 Vergütungssumme erhöht, welche sich aus der Differenz der nach Absatz
 1 vereinbarten Veränderungsraten je Mitglied im früheren Bundesgebiet
@@ -122,9 +120,9 @@ Richtlinien nach § 75 Abs. 7 des Fünften Buches Sozialgesetzbuch.
 
 (1b) Absatz 1a gilt für Absatz 1 Satz 2 entsprechend.
 
-(2) Die Gesamtvergütungen im Jahr 1999 werden um das nach Artikel 11
-Abs. 1 Satz 2 Nr. 2 und Satz 3 des Gesetzes über die Berufe des
-Psychologischen Psychotherapeuten und des Kinder- und
+(2) Die Gesamtvergütungen im Jahr 1999 werden um das nach
+Artikel 11 Abs. 1 Satz 2 Nr. 2 und Satz 3 des Gesetzes über die
+Berufe des Psychologischen Psychotherapeuten und des Kinder- und
 Jugendlichenpsychotherapeuten, zur Änderung des Fünften Buches
 Sozialgesetzbuch und anderer Gesetze bestimmte, um 40 vom Hundert
 erhöhte, Ausgabenvolumen für die Vergütung psychotherapeutischer
@@ -132,24 +130,24 @@ Leistungen erhöht.
 
 (3) Das in der Gesamtvergütung für die vertragsärztliche Versorgung
 von den Krankenkassen für die Vergütung psychotherapeutischer
-Leistungen nach Artikel 11 Abs. 1 und 2 des Gesetzes über die Berufe
-des Psychologischen Psychotherapeuten und des Kinder- und
+Leistungen nach Artikel 11 Abs. 1 und 2 des Gesetzes über die
+Berufe des Psychologischen Psychotherapeuten und des Kinder- und
 Jugendlichenpsychotherapeuten, zur Änderung des Fünften Buches
-Sozialgesetzbuch und anderer Gesetze entrichtete Ausgabenvolumen für
-die Vergütung psychotherapeutischer Leistungen ist bei der
-Honorarverteilung nach § 85 Abs. 4 Fünftes Buch Sozialgesetzbuch nur
-zur Vergütung dieser Leistungen zu verwenden. Die
+Sozialgesetzbuch und anderer Gesetze entrichtete Ausgabenvolumen
+für die Vergütung psychotherapeutischer Leistungen ist bei der
+Honorarverteilung nach § 85 Abs. 4 Fünftes Buch Sozialgesetzbuch
+nur zur Vergütung dieser Leistungen zu verwenden. Die
 psychotherapeutischen Leistungen der Ärzte und der Psychotherapeuten
 dürfen nicht unterschiedlich vergütet werden.
 
 (4) Vertragsärztliche Leistungen nach den §§ 25 und 26 des Fünften
-Buches Sozialgesetzbuch, die ärztlichen Leistungen im Rahmen des § 196
-Abs. 1 der Reichsversicherungsordnung sowie die ärztlichen Leistungen
-im Rahmen der von den Krankenkassen satzungsgemäß übernommenen
-Schutzimpfungen sowie vertragsärztliche Leistungen bei der
-Substitutionsbehandlung der Drogenabhängigkeit gemäß den Richtlinien
-des Bundesausschusses der Ärzte und Krankenkassen werden von den
-Krankenkassen außerhalb der nach Absatz 1 vereinbarten
+Buches Sozialgesetzbuch, die ärztlichen Leistungen im Rahmen des
+§ 196 Abs. 1 der Reichsversicherungsordnung sowie die ärztlichen
+Leistungen im Rahmen der von den Krankenkassen satzungsgemäß
+übernommenen Schutzimpfungen sowie vertragsärztliche Leistungen
+bei der Substitutionsbehandlung der Drogenabhängigkeit gemäß den
+Richtlinien des Bundesausschusses der Ärzte und Krankenkassen werden
+von den Krankenkassen außerhalb der nach Absatz 1 vereinbarten
 Gesamtvergütungen vergütet.
 
 (5) Vergütungsansprüche der Kassenärztlichen Vereinigungen gegenüber
@@ -163,24 +161,24 @@ Sozialgesetzbuch gilt Absatz 1 entsprechend.
 
 ## Art 15 Budget- und Preisregelung vertragszahnärztlicher Versorgung im Jahr 1999
 
-(1) Für das Jahr 1999 darf in der nach § 85 Abs. 2 und 3 Fünftes Buch
-Sozialgesetzbuch zu vereinbarenden Gesamtvergütung das Ausgabenvolumen
-für zahnärztliche Leistungen ohne Zahnersatz und Kieferorthopädie die
-Gesamtheit der über die Kassenzahnärztlichen Vereinigungen
-abgerechneten entsprechenden Vergütungen für das Jahr 1997 nicht
-überschreiten. Das Ausgabenvolumen für Zahnersatz und
-Kieferorthopädie, jeweils ohne zahntechnische Leistungen, darf für das
-Jahr 1999 die Gesamtheit der über die Kassenzahnärztlichen
-Vereinigungen abgerechneten entsprechenden Vergütungen für das Jahr
-1997 abzüglich 5 vom Hundert nicht überschreiten; bei der Berechnung
-der Bezugsgröße sind die für das erste Halbjahr 1997 über die
-Kassenzahnärztlichen Vereinigungen abgerechneten Vergütungen für
-kieferorthopädische Behandlungen zu verdoppeln. Eine Veränderung der
-Zahl der Mitglieder der beteiligten Krankenkassen in den Jahren 1997
-bis 1999 ist zu beachten. § 85 Abs. 3c erster Halbsatz Fünftes Buch
-Sozialgesetzbuch gilt nicht. Die Vergütung vertragszahnärztlicher
-Leistungen nach den §§ 22 und 26 Abs. 1 Satz 2 des Fünften Buches
-Sozialgesetzbuch und nach § 196 Abs. 1 Satz 2 der
+(1) Für das Jahr 1999 darf in der nach § 85 Abs. 2 und 3 Fünftes
+Buch Sozialgesetzbuch zu vereinbarenden Gesamtvergütung das
+Ausgabenvolumen für zahnärztliche Leistungen ohne Zahnersatz und
+Kieferorthopädie die Gesamtheit der über die Kassenzahnärztlichen
+Vereinigungen abgerechneten entsprechenden Vergütungen für das
+Jahr 1997 nicht überschreiten. Das Ausgabenvolumen für Zahnersatz
+und Kieferorthopädie, jeweils ohne zahntechnische Leistungen, darf
+für das Jahr 1999 die Gesamtheit der über die Kassenzahnärztlichen
+Vereinigungen abgerechneten entsprechenden Vergütungen für
+das Jahr 1997 abzüglich 5 vom Hundert nicht überschreiten; bei
+der Berechnung der Bezugsgröße sind die für das erste Halbjahr
+1997 über die Kassenzahnärztlichen Vereinigungen abgerechneten
+Vergütungen für kieferorthopädische Behandlungen zu verdoppeln. Eine
+Veränderung der Zahl der Mitglieder der beteiligten Krankenkassen
+in den Jahren 1997 bis 1999 ist zu beachten. § 85 Abs. 3c erster
+Halbsatz Fünftes Buch Sozialgesetzbuch gilt nicht. Die Vergütung
+vertragszahnärztlicher Leistungen nach den §§ 22 und 26 Abs. 1 Satz 2
+des Fünften Buches Sozialgesetzbuch und nach § 196 Abs. 1 Satz 2 der
 Reichsversicherungsordnung unterliegt nicht der Begrenzung nach Satz 1
 bis 4. Die Vertragsparteien haben sicherzustellen, daß die jeweiligen
 Ausgabenvolumina gleichmäßig auf das gesamte Jahr verteilt werden.
@@ -192,28 +190,28 @@ Hundert nicht überschreiten.
 
 (2) Die nach § 88 Abs. 2 und 3 Fünftes Buch Sozialgesetzbuch zu
 vereinbarenden und abgerechneten Preise für zahntechnische Leistungen
-dürfen sich im Jahr 1999 gegenüber den am 31. Dezember 1997 geltenden
-Preisen höchstens um die nach Artikel 18 dieses Gesetzes festgestellte
-Veränderungsrate der beitragspflichtigen Einnahmen der Mitglieder
-aller Krankenkassen je Mitglied im Jahr 1998 verändern. Die
-Vomhundertsätze sind für das Beitrittsgebiet und das übrige
+dürfen sich im Jahr 1999 gegenüber den am 31. Dezember 1997
+geltenden Preisen höchstens um die nach Artikel 18 dieses Gesetzes
+festgestellte Veränderungsrate der beitragspflichtigen Einnahmen der
+Mitglieder aller Krankenkassen je Mitglied im Jahr 1998 verändern.
+Die Vomhundertsätze sind für das Beitrittsgebiet und das übrige
 Bundesgebiet getrennt anzuwenden.
 
 
 ## Art 16 Arznei-, Verband- und Heilmittelbudget für 1999
 
-(1) Als Budget nach § 84 Abs. 1 Fünftes Buch Sozialgesetzbuch für das
-Jahr 1999 gilt der um 7,5 vom Hundert erhöhte Betrag des Budgets für
-das Jahr 1996. Die für die Kassenärztliche Vereinigung zuständige
+(1) Als Budget nach § 84 Abs. 1 Fünftes Buch Sozialgesetzbuch für
+das Jahr 1999 gilt der um 7,5 vom Hundert erhöhte Betrag des Budgets
+für das Jahr 1996. Die für die Kassenärztliche Vereinigung zuständige
 Aufsichtsbehörde kann die Höhe des Budgets feststellen.
 
-(2) Sofern das Budget für das Jahr 1996 nicht vereinbart oder
-verbindlich festgestellt worden ist, stellt die für die
-Kassenärztliche Vereinigung zuständige Aufsichtsbehörde das Budget bis
-zum 31. Januar 1999 fest. Dabei können, ausgehend von dem nach Artikel
-29 des Gesundheitsstrukturgesetzes der Höhe nach festgelegten
-Ausgangsbudget, die Parameter zur Budgetanpassung nach § 84 Abs. 1
-Satz 3 Fünftes Buch Sozialgesetzbuch für die Jahre bis 1996
+(2) Sofern das Budget für das Jahr 1996 nicht vereinbart
+oder verbindlich festgestellt worden ist, stellt die für die
+Kassenärztliche Vereinigung zuständige Aufsichtsbehörde das Budget
+bis zum 31. Januar 1999 fest. Dabei können, ausgehend von dem nach
+Artikel 29 des Gesundheitsstrukturgesetzes der Höhe nach festgelegten
+Ausgangsbudget, die Parameter zur Budgetanpassung nach § 84 Abs.
+1 Satz 3 Fünftes Buch Sozialgesetzbuch für die Jahre bis 1996
 berücksichtigt werden; soweit die dafür erforderlichen Daten nicht
 verfügbar sind, können Schätzungen vorgenommen werden. Eine Klage
 gegen die Feststellung des Budgets hat keine aufschiebende Wirkung.
@@ -225,12 +223,12 @@ vor Inkrafttreten dieses Gesetzes.
 
 ## Art 17 Festsetzung des Vertragsinhalts durch das Schiedsamt
 
-Kommen für das Jahr 1999 Vereinbarungen nach § 84 Abs. 3, § 85 Abs. 2
-und 3 und § 106 Fünftes Buch Sozialgesetzbuch bis zum 31. März 1999
+Kommen für das Jahr 1999 Vereinbarungen nach § 84 Abs. 3, § 85 Abs.
+2 und 3 und § 106 Fünftes Buch Sozialgesetzbuch bis zum 31. März 1999
 ganz oder teilweise nicht zustande, setzt das Schiedsamt (§ 89 Fünftes
-Buch Sozialgesetzbuch) den Vertragsinhalt bis zum 30. Juni 1999 fest.
-Der Vorsitzende des Schiedsamts stellt unverzüglich nach Ablauf der
-Frist fest, ob die in Satz 1 genannten Voraussetzungen für die
+Buch Sozialgesetzbuch) den Vertragsinhalt bis zum 30. Juni 1999
+fest. Der Vorsitzende des Schiedsamts stellt unverzüglich nach Ablauf
+der Frist fest, ob die in Satz 1 genannten Voraussetzungen für die
 Festsetzung des Vertragsinhalts durch das Schiedsamt vorliegen. Die
 Vertragsparteien teilen dem Vorsitzenden des Schiedsamts unverzüglich
 nach Ablauf der Frist mit, ob ein Vertrag nach Satz 1 zustande
@@ -255,14 +253,14 @@ im Bundesanzeiger veröffentlicht.
 
 ## Art 19 Sonderkündigungsrecht
 
-Versicherungspflichtige und ihre versicherten Familienangehörigen, die
-auf Grund ihrer Wahl der Kostenerstattung nach § 13 Abs. 2 Fünftes
+Versicherungspflichtige und ihre versicherten Familienangehörigen,
+die auf Grund ihrer Wahl der Kostenerstattung nach § 13 Abs. 2 Fünftes
 Buch Sozialgesetzbuch in der bis zum 31. Dezember 1998 geltenden
 Fassung eine private Zusatzversicherung zur Abdeckung der Differenz
 zwischen Kassenanteil und der nach der Gebührenordnung für Ärzte
-erstellten Arztrechnung abgeschlossen hatten, können den Vertrag mit
-sofortiger Wirkung zum Ende des Monats, in dem die Kündigung dem
-Versicherer zugeht, kündigen. Entsprechendes gilt für nach 1978
+erstellten Arztrechnung abgeschlossen hatten, können den Vertrag
+mit sofortiger Wirkung zum Ende des Monats, in dem die Kündigung
+dem Versicherer zugeht, kündigen. Entsprechendes gilt für nach 1978
 geborene Versicherte, die 1997 und 1998 keinen Anspruch auf Versorgung
 mit Zahnersatz im Rahmen der vertragszahnärztlichen Versorgung hatten.
 
@@ -274,8 +272,8 @@ mit Zahnersatz im Rahmen der vertragszahnärztlichen Versorgung hatten.
 
 ## Art 21 Ende der laufenden Wahlperiode der Vertreterversammlungen der Kassenärztlichen/Kassenzahnärztlichen Vereinigungen
 
-Soweit die laufenden Wahlperioden und die Amtsdauer der Mitglieder der
-Vertreterversammlungen der Kassenärztlichen Vereinigungen und der
+Soweit die laufenden Wahlperioden und die Amtsdauer der Mitglieder
+der Vertreterversammlungen der Kassenärztlichen Vereinigungen und der
 Kassenzahnärztlichen Vereinigungen vor dem 31. Dezember 2000 enden,
 verlängern sie sich bis zu diesem Zeitpunkt.
 
@@ -310,11 +308,11 @@ spätestens mit Ablauf des 31. Dezember 1999 unwirksam.
 
 (3) Der am 31. Dezember 1997 geltende einheitliche Bewertungsmaßstab
 für vertragszahnärztliche prothetische Leistungen und die zu diesem
-Zeitpunkt für diese Leistungen geltenden Gesamtverträge treten wieder
-in Kraft. Die am 31. Dezember 1997 geltenden Punktwerte für
-zahnärztliche Leistungen bei Zahnersatz einschließlich Zahnkronen und
-bei kieferorthopädischer Behandlung werden bis zum Abschluß von
-Vergütungsvereinbarungen für das Jahr 1999 um 10 vom Hundert
+Zeitpunkt für diese Leistungen geltenden Gesamtverträge treten
+wieder in Kraft. Die am 31. Dezember 1997 geltenden Punktwerte für
+zahnärztliche Leistungen bei Zahnersatz einschließlich Zahnkronen
+und bei kieferorthopädischer Behandlung werden bis zum Abschluß
+von Vergütungsvereinbarungen für das Jahr 1999 um 10 vom Hundert
 abgesenkt. Das am 31. Dezember 1997 geltende bundeseinheitliche
 Leistungsverzeichnis zahntechnischer Leistungen sowie die zu diesem
 Zeitpunkt geltenden Vergütungsregelungen für zahntechnische Leistungen

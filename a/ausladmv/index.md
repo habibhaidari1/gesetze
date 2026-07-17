@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über Meldungen internationaler Adoptionsvermittlungsfälle an die
-  Bundeszentralstelle für Auslandsadoption
+Title: Verordnung über Meldungen internationaler Adoptionsvermittlungsfälle an die Bundeszentralstelle für Auslandsadoption
 jurabk: AuslAdMV
 layout: default
 origslug: ausladmv
@@ -32,7 +31,6 @@ Jugend im Einvernehmen mit dem Bundesministerium der Justiz:
 ## Abschnitt 1 - Allgemeines
 
 
-
 ### § 1 Anwendungsbereich
 
 Diese Verordnung regelt die Meldungen der nach dem
@@ -46,16 +44,11 @@ alle Vermittlungsfälle, in denen
 
     oder
 
-
 2.  das Kind innerhalb von zwei Jahren vor der Einleitung des
     Vermittlungsverfahrens in das Inland gebracht worden ist.
 
 
-
-
-
 ## Abschnitt 2 - Adoptionsvermittlungsverfahren im Verhältnis zu Vertragsstaaten des Adoptionsübereinkommens
-
 
 
 ### § 2 Anlässe für Meldungen
@@ -68,22 +61,17 @@ alle Vermittlungsfälle, in denen
     und die Zusammenarbeit auf dem Gebiet der internationalen Adoption
     (Adoptionsübereinkommen) (BGBl. 2001 II S. 1034),
 
-
-2.  die Annahme des Vermittlungsvorschlags aus dem Heimatstaat des Kindes
-    nach Artikel 16 Abs. 2 des Adoptionsübereinkommens durch die
+2.  die Annahme des Vermittlungsvorschlags aus dem Heimatstaat des
+    Kindes nach Artikel 16 Abs. 2 des Adoptionsübereinkommens durch die
     Adoptionsbewerber und
-
 
 3.  der vorläufige oder endgültige Abschluss des Vermittlungsverfahrens
     bei der meldepflichtigen Stelle.
 
-
-
-
 (2) Kommt eine Vermittlung zustande, gilt das Vermittlungsverfahren
-für die Zwecke dieser Verordnung als endgültig abgeschlossen, wenn die
-Entscheidung über die Annahme als Kind wirksam geworden ist und das
-Kind seinen gewöhnlichen Aufenthalt oder Wohnsitz bei den
+für die Zwecke dieser Verordnung als endgültig abgeschlossen, wenn
+die Entscheidung über die Annahme als Kind wirksam geworden ist
+und das Kind seinen gewöhnlichen Aufenthalt oder Wohnsitz bei den
 Adoptiveltern hat.
 
 (3) Ist das Vermittlungsverfahren vorläufig abgeschlossen worden, ohne
@@ -93,19 +81,15 @@ Meldung, wenn
 1.  endgültig feststeht, dass das Kind für eine Adoptionsvermittlung nicht
     mehr in Betracht kommt, oder
 
-
 2.  die Adoptionsbewerber an einer internationalen Adoptionsvermittlung
     erkennbar nicht mehr interessiert sind.
-
-
-
 
 
 ### § 3 Meldepflichtige Stelle, Mitteilung von Änderungen und Berichtigungen
 
 Meldepflichtig ist die nach dem Adoptionsvermittlungsgesetz zur
-internationalen Adoptionsvermittlung befugte Stelle, die zum Zeitpunkt
-des die Meldepflicht auslösenden Ereignisses die Akten des
+internationalen Adoptionsvermittlung befugte Stelle, die zum
+Zeitpunkt des die Meldepflicht auslösenden Ereignisses die Akten des
 Adoptionsverfahrens führt. Ein Wechsel der aktenführenden Stelle sowie
 Änderungen, Berichtigungen oder Ergänzungen des Inhalts einer Meldung
 sind der Bundeszentralstelle unverzüglich mitzuteilen.
@@ -121,76 +105,48 @@ sind der Bundeszentralstelle unverzüglich mitzuteilen.
         internationalen Adoptionsvermittlung befugten aktenführenden Stelle,
         deren Anschrift und Aktenzeichen,
 
-
     b)  zentrale Adoptionsstelle des für die Adoptionsbewerber zuständigen
         Landesjugendamtes und
 
-
     c)  zuständige örtliche Adoptionsvermittlungsstelle (§ 9b des
         Adoptionsvermittlungsgesetzes),
-
-
-
-
 
 2.  Daten der Adoptionsbewerber:
 
     a)  Familienname,
 
-
     b)  Geburtsname,
-
 
     c)  Vornamen,
 
-
     d)  Geschlecht,
-
 
     e)  Geburtsdatum,
 
-
     f)  Geburtsort,
-
 
     g)  Staatsangehörigkeit,
 
-
     h)  Familienstand und
 
-
     i)  Wohnsitz oder gewöhnlicher Aufenthalt,
-
-
-
-
 
 3.  Angabe des Heimatstaates, aus dem die Adoptionsbewerber ein Kind
     annehmen möchten,
 
-
 4.  Datum der Übermittlung des Berichts sowie
 
-
 5.  Angaben nach Absatz 3 Nr. 1 und 2, soweit diese bereits bekannt sind.
-
-
-
 
 (2) Alle weiteren Meldungen müssen enthalten:
 
 1.  die von der Bundeszentralstelle auf Grund der Meldung nach § 2 Abs. 1
     Nr. 1 vergebene Verfahrensnummer,
 
-
 2.  die Angaben nach Absatz 1 Nr. 1 Buchstabe a, Nr. 2 Buchstabe a und b
     und Nr. 3 sowie
 
-
 3.  das Datum des die Meldepflicht auslösenden Ereignisses.
-
-
-
 
 (3) Die Meldung nach § 2 Abs. 1 Nr. 2 muss ferner folgende Daten
 enthalten, soweit diese bekannt und noch nicht nach Absatz 1 Nr. 5
@@ -200,66 +156,41 @@ enthalten, soweit diese bekannt und noch nicht nach Absatz 1 Nr. 5
 
     a)  Geburtsname,
 
-
     b)  Vornamen,
-
 
     c)  Geschlecht,
 
-
     d)  Geburtsdatum,
-
 
     e)  Geburtsort,
 
-
     f)  Staatsangehörigkeit,
 
-
     g)  Wohnsitz oder gewöhnlicher Aufenthalt,
-
-
-
-
 
 2.  bezüglich der Mutter und des Vaters des Kindes:
 
     a)  Familienname,
 
-
     b)  Geburtsname,
-
 
     c)  Vornamen,
 
-
     d)  Geschlecht,
-
 
     e)  Geburtsdatum,
 
-
     f)  Geburtsort,
-
 
     g)  Staatsangehörigkeit,
 
-
     h)  Familienstand und
 
-
     i)  Wohnsitz oder gewöhnlicher Aufenthalt sowie
-
-
-
-
 
 3.  bezüglich des Verfahrens im Heimatstaat des Kindes die Bezeichnung der
     Zentralen Behörde oder sonstigen zuständigen Stelle, deren Anschrift
     und das Aktenzeichen des dortigen Vermittlungsverfahrens.
-
-
-
 
 (4) Die Meldung nach § 2 Abs. 1 Nr. 3 muss über die Angaben nach
 Absatz 2 hinaus enthalten:
@@ -269,34 +200,22 @@ Absatz 2 hinaus enthalten:
     a)  das Datum der Zustimmung des Heimatstaates nach Artikel 17 Buchstabe c
         des Adoptionsübereinkommens,
 
-
     b)  das Datum der Entscheidung über die Annahme als Kind und ihres
         Wirksamwerdens,
-
 
     c)  den Familiennamen des Kindes nach der Annahme als Kind, falls er vom
         Familiennamen der Annehmenden abweicht,
 
-
     d)  die Vornamen des Kindes nach der Annahme als Kind und
 
-
-    e)  soweit bekannt die Staatsangehörigkeit des Kindes nach der Annahme als
-        Kind,
-
-
-
-
+    e)  soweit bekannt die Staatsangehörigkeit des Kindes nach der Annahme
+        als Kind,
 
 2.  wenn die Annahme des Kindes nicht erfolgt: die Mitteilung dieser
     Tatsache.
 
 
-
-
-
 ## Abschnitt 3 - Adoptionsvermittlungsverfahren im Verhältnis zu sonstigen Staaten
-
 
 
 ### § 5 Einmalige Meldung
@@ -309,7 +228,6 @@ und Abs. 4 Nr. 1 Buchstabe b bis e in einer Meldung zusammengefasst zu
 
 
 ## Abschnitt 4 - Verfahren
-
 
 
 ### § 6 Form und Frist der Meldungen der Daten
@@ -331,14 +249,13 @@ Frist können mehrere Meldungen zusammengefasst übermittelt werden.
 ## Abschnitt 5 - Übergangs- und Schlussvorschriften
 
 
-
 ### § 7 Übergangsregelung
 
-Für internationale Adoptionsvermittlungsverfahren im Verhältnis zu
-Vertragsstaaten des Adoptionsübereinkommens, die zum Zeitpunkt des
-Inkrafttretens dieser Verordnung begonnen, aber noch nicht
-abgeschlossen sind, gelten die §§ 2 bis 4 mit der Maßgabe, dass die
-Meldungen bei Eintritt eines neuen meldepflichtigen Ereignisses
+Für internationale Adoptionsvermittlungsverfahren im Verhältnis
+zu Vertragsstaaten des Adoptionsübereinkommens, die zum Zeitpunkt
+des Inkrafttretens dieser Verordnung begonnen, aber noch nicht
+abgeschlossen sind, gelten die §§ 2 bis 4 mit der Maßgabe, dass
+die Meldungen bei Eintritt eines neuen meldepflichtigen Ereignisses
 zusammengefasst übermittelt werden können.
 
 

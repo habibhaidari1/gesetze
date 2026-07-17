@@ -15,18 +15,20 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2019, 1759
 
-Geändert durch
-:   Art. 10 G v. 24.2.2021 I 274
+Zuletzt geändert durch
+:   Art. 5 G v. 12.12.2023 I Nr. 359
 
-Stand: Ersetzt G 2124-14 v. 4.6.1985 I 902 (HebG 1985)
+Stand
+:   Ersetzt G 2124-14 v. 4.6.1985 I 902 (HebG 1985)
+
 
 ## Teil 1 - Allgemeines
 
 
 ### § 1 Hebammenberuf
 
-Der Hebammenberuf umfasst insbesondere die selbständige und umfassende
-Beratung, Betreuung und Beobachtung von Frauen während der
+Der Hebammenberuf umfasst insbesondere die selbständige und
+umfassende Beratung, Betreuung und Beobachtung von Frauen während der
 Schwangerschaft, bei der Geburt, während des Wochenbetts und während
 der Stillzeit, die selbständige Leitung von physiologischen Geburten
 sowie die Untersuchung, Pflege und Überwachung von Neugeborenen und
@@ -39,8 +41,8 @@ Säuglingen.
 Europäischen Union. Andere Mitgliedstaaten sind alle Mitgliedstaaten
 außer der Bundesrepublik Deutschland.
 
-(2) Vertragsstaat im Sinne dieses Gesetzes ist ein Vertragsstaat des
-Abkommens über den Europäischen Wirtschaftsraum. Andere
+(2) Vertragsstaat im Sinne dieses Gesetzes ist ein Vertragsstaat
+des Abkommens über den Europäischen Wirtschaftsraum. Andere
 Vertragsstaaten sind alle Vertragsstaaten außer der Bundesrepublik
 Deutschland.
 
@@ -88,14 +90,9 @@ nicht für Notfälle.
 
 1.  die Überwachung des Geburtsvorgangs von Beginn der Wehen an,
 
-
 2.  die Hilfe bei der Geburt und
 
-
 3.  die Überwachung des Wochenbettverlaufs.
-
-
-
 
 (3) Ärztinnen und Ärzte sind verpflichtet, dafür Sorge zu tragen, dass
 bei einer Geburt eine Hebamme zugezogen wird.
@@ -113,21 +110,15 @@ Person
     erfolgreich absolviert und die staatliche Prüfung nach § 24 bestanden
     hat,
 
-
 2.  sich nicht eines Verhaltens schuldig gemacht hat, aus dem sich ihre
     Unwürdigkeit oder ihre Unzuverlässigkeit zur Ausübung des Berufs
     ergibt,
 
-
 3.  nicht in gesundheitlicher Hinsicht zur Ausübung des Berufs ungeeignet
     ist und
 
-
 4.  über die Kenntnisse der deutschen Sprache verfügt, die für die
     Ausübung des Berufs erforderlich sind.
-
-
-
 
 
 ### § 6 Rücknahme der Erlaubnis
@@ -150,11 +141,7 @@ entsprechenden landesgesetzlichen Vorschriften unberührt.
 
 1.  die Voraussetzung nach § 5 Absatz 2 Nummer 2 wegfällt oder
 
-
 2.  die Voraussetzung nach § 5 Absatz 2 Nummer 3 dauerhaft wegfällt.
-
-
-
 
 (2) Im Übrigen bleiben die dem § 49 des Verwaltungsverfahrensgesetzes
 entsprechenden landesgesetzlichen Vorschriften unberührt.
@@ -169,7 +156,6 @@ entsprechenden landesgesetzlichen Vorschriften unberührt.
     Straftat, aus der sich die Unwürdigkeit oder Unzuverlässigkeit zur
     Ausübung des Berufs ergeben würde,
 
-
 2.  die Person, der die Erlaubnis erteilt worden ist, in gesundheitlicher
     Hinsicht vorübergehend nicht mehr zur Ausübung des Berufs geeignet
     ist, oder nachträglich Zweifel an der gesundheitlichen Eignung dieser
@@ -177,18 +163,13 @@ entsprechenden landesgesetzlichen Vorschriften unberührt.
     zuständigen Behörde angeordneten amtsärztlichen oder fachärztlichen
     Untersuchung zu unterziehen,
 
-
 3.  die Person, der die Erlaubnis erteilt worden ist, nicht über die
     Kenntnisse der deutschen Sprache verfügt, die für die Ausübung des
     Berufs erforderlich sind, oder
 
-
 4.  die Person nicht ausreichend gegen die sich aus der Ausübung ihres
     Berufs ergebenden Haftpflichtgefahren versichert ist, soweit eine
     Versicherungspflicht besteht.
-
-
-
 
 (2) Die Anordnung des Ruhens der Erlaubnis ist aufzuheben, sobald die
 Voraussetzung für die Anordnung nicht mehr vorliegt.
@@ -207,10 +188,10 @@ Voraussetzung für die Anordnung nicht mehr vorliegt.
 
 (1) Das Hebammenstudium vermittelt die fachlichen und personalen
 Kompetenzen, die für die selbständige und umfassende Hebammentätigkeit
-im stationären sowie im ambulanten Bereich erforderlich sind. Die
-Vermittlung erfolgt auf wissenschaftlicher Grundlage und nach
-wissenschaftlicher Methodik. Lebenslanges Lernen wird dabei als ein
-Prozess der eigenen beruflichen Biographie verstanden und die
+im stationären sowie im ambulanten Bereich erforderlich sind.
+Die Vermittlung erfolgt auf wissenschaftlicher Grundlage und nach
+wissenschaftlicher Methodik. Lebenslanges Lernen wird dabei als
+ein Prozess der eigenen beruflichen Biographie verstanden und die
 fortlaufende persönliche und fachliche Weiterentwicklung als notwendig
 anerkannt.
 
@@ -231,26 +212,20 @@ deren Selbständigkeit und achtet deren Recht auf Selbstbestimmung.
     auf der Grundlage wissenschaftsbasierter und wissenschaftsorientierter
     Entscheidungen zu planen, zu steuern und zu gestalten,
 
-
-2.  sich Forschungsgebiete der Hebammenwissenschaft auf dem neuesten Stand
-    der gesicherten Erkenntnisse erschließen und forschungsgestützte
-    Problemlösungen wie auch neue Technologien in das berufliche Handeln
-    übertragen zu können sowie berufsbezogene Fort- und
+2.  sich Forschungsgebiete der Hebammenwissenschaft auf dem neuesten
+    Stand der gesicherten Erkenntnisse erschließen und forschungsgestützte
+    Problemlösungen wie auch neue Technologien in das berufliche
+    Handeln übertragen zu können sowie berufsbezogene Fort- und
     Weiterbildungsbedarfe zu erkennen,
-
 
 3.  sich kritisch-reflexiv und analytisch sowohl mit theoretischem als
     auch praktischem Wissen auseinandersetzen und wissenschaftsbasiert
     innovative Lösungsansätze zur Verbesserung im eigenen beruflichen
     Handlungsfeld entwickeln und implementieren zu können und
 
-
 4.  an der Entwicklung von Qualitätsmanagementkonzepten,
     Risikomanagementkonzepten, Leitlinien und Expertenstandards
     mitzuwirken.
-
-
-
 
 (4) Das Hebammenstudium soll darüber hinaus insbesondere dazu
 befähigen,
@@ -259,27 +234,22 @@ befähigen,
 
     a)  eine Schwangerschaft festzustellen,
 
-
     b)  die physiologisch verlaufende Schwangerschaft durch Durchführung der
         hierfür erforderlichen Untersuchungen zu beobachten und zu überwachen,
 
-
     c)  Frauen und Familien auf die Geburt, das Wochenbett und die
-        Elternschaft vorzubereiten sowie zur Ernährung, Pflege, Hygiene und
-        Versorgung des Neugeborenen und des Säuglings anzuleiten und zu
+        Elternschaft vorzubereiten sowie zur Ernährung, Pflege, Hygiene
+        und Versorgung des Neugeborenen und des Säuglings anzuleiten und zu
         beraten,
-
 
     d)  belastende Lebenssituationen und psychosoziale Problemlagen bei Frauen
         und deren Familien zu erkennen und gegebenenfalls auf erforderliche
         Maßnahmen zur Unterstützung hinzuwirken,
 
-
     e)  über die Untersuchungen aufzuklären, die für eine möglichst
         frühzeitige Feststellung von Risikoschwangerschaften oder
         Regelwidrigkeiten und Komplikationen in der Schwangerschaft
         erforderlich sind,
-
 
     f)  Anzeichen von Regelwidrigkeiten, die eine ärztliche Behandlung
         erforderlich machen, in der Schwangerschaft, bei der Geburt, während
@@ -287,29 +257,22 @@ befähigen,
         jeweiligen Fall angemessenen Maßnahmen für eine ärztliche Behandlung
         zu ergreifen,
 
-
-    g)  Frauen und Familien bei Totgeburten und Fehlgeburten sowie bei
-        Abbrüchen von Schwangerschaften nach der zwölften
+    g)  Frauen und Familien bei Totgeburten und Fehlgeburten sowie
+        bei Abbrüchen von Schwangerschaften nach der zwölften
         Schwangerschaftswoche zu betreuen und zu begleiten,
-
 
     h)  während der Geburt Frauen zu betreuen und das ungeborene Kind mit
         Hilfe geeigneter klinischer und technischer Mittel zu überwachen,
 
-
     i)  physiologisch verlaufende Geburten bei Schädellage durchzuführen,
 
-
     j)  im Dringlichkeitsfall Steißgeburten durchzuführen,
-
 
     k)  die Frau und das Neugeborene fachgerecht in die ärztliche
         Weiterbehandlung zu übergeben,
 
-
-    l)  Hilfe bei ärztlichen Maßnahmen unter Fortsetzung der Hebammenhilfe zu
-        leisten,
-
+    l)  Hilfe bei ärztlichen Maßnahmen unter Fortsetzung der Hebammenhilfe
+        zu leisten,
 
     m)  im Notfall und bei Abwesenheit einer Ärztin oder eines Arztes die
         medizinisch erforderlichen Maßnahmen, insbesondere die manuelle
@@ -317,38 +280,26 @@ befähigen,
         Nachuntersuchung der Gebärmutter anschließt, einzuleiten und
         durchzuführen sowie
 
-
     n)  im Notfall die Wiederbelebungsmaßnahmen bei der Frau und dem
         Neugeborenen durchzuführen,
-
 
     o)  das Neugeborene und die Mutter nach der Geburt und im Wochenbett zu
         untersuchen, zu pflegen und deren Gesundheitszustand zu überwachen,
 
-
     p)  über Fragen der Familienplanung angemessen aufzuklären und zu beraten,
-
 
     q)  die angewendeten Maßnahmen, den Schwangerschaftsverlauf, die Geburt
         und das Wochenbett zu dokumentieren,
-
-
-
-
 
 2.  ärztlich angeordnete Maßnahmen eigenständig durchzuführen,
     insbesondere Maßnahmen der Erstversorgung von Mutter und Neugeborenem
     nach geburtshilflichen Eingriffen und Operationen,
 
-
 3.  interprofessionell mit anderen Berufsgruppen fachlich zu kommunizieren
     und effektiv zusammenzuarbeiten und bei der Zusammenarbeit
-    individuelle, multidisziplinäre und berufsübergreifende Lösungen vor
-    allem für regelwidrige Schwangerschafts-, Geburts- und
+    individuelle, multidisziplinäre und berufsübergreifende Lösungen
+    vor allem für regelwidrige Schwangerschafts-, Geburts- und
     Wochenbettverläufe zu entwickeln und teamorientiert umzusetzen.
-
-
-
 
 
 ##### § 10 Zugangsvoraussetzungen
@@ -360,7 +311,6 @@ befähigen,
     a)  den Abschluss einer mindestens zwölfjährigen allgemeinen
         Schulausbildung oder
 
-
     b)  den Abschluss einer erfolgreich absolvierten Berufsausbildung
 
         aa) zur Gesundheits- und Krankenpflegerin oder zum Gesundheits- und
@@ -368,66 +318,46 @@ befähigen,
             Juli 2003 (BGBl. I S. 1442), das zuletzt durch Artikel 12 des Gesetzes
             vom 15. August 2019 (BGBl. I S. 1307) geändert worden ist,
 
-
-        bb) zur Gesundheits- und Kinderkrankenpflegerin oder zum Gesundheits- und
-            Kinderkrankenpfleger auf der Grundlage des Krankenpflegegesetzes vom
-            16\. Juli 2003 (BGBl. I S. 1442), das zuletzt durch Artikel 12 des
+        bb) zur Gesundheits- und Kinderkrankenpflegerin oder zum Gesundheits-
+            und Kinderkrankenpfleger auf der Grundlage des Krankenpflegegesetzes
+            vom 16. Juli 2003 (BGBl. I S. 1442), das zuletzt durch Artikel 12 des
             Gesetzes vom 15. August 2019 (BGBl. I S. 1307) geändert worden ist,
 
-
-        cc) zur Gesundheits- und Kinderkrankenpflegerin oder zum Gesundheits- und
-            Kinderkrankenpfleger auf der Grundlage des Pflegeberufegesetzes vom
-            17\. Juli 2017 (BGBl. I S. 2581), das zuletzt durch Artikel 16 des
+        cc) zur Gesundheits- und Kinderkrankenpflegerin oder zum Gesundheits-
+            und Kinderkrankenpfleger auf der Grundlage des Pflegeberufegesetzes
+            vom 17. Juli 2017 (BGBl. I S. 2581), das zuletzt durch Artikel 16 des
             Gesetzes vom 15. August 2019 (BGBl. I S. 1307) geändert worden ist,
-
 
         dd) zur Pflegefachfrau oder zum Pflegefachmann auf der Grundlage des
             Pflegeberufegesetzes vom 17. Juli 2017 (BGBl. I S. 2581), das zuletzt
             durch Artikel 16 des Gesetzes vom 15. August 2019 (BGBl. I S. 1307)
             geändert worden ist, oder
 
-
         ee) zur für die allgemeine Pflege verantwortlichen Krankenschwester oder
             zum für die allgemeine Pflege verantwortlichen Krankenpfleger, für den
             der Nachweis belegt, dass die Ausbildung
 
-            aaa) den Mindestanforderungen des Artikels 31 in Verbindung mit dem Anhang
-                V Nummer 5.2.1 der Richtlinie 2005/36/EG des Europäischen Parlaments
-                und des Rates vom 7. September 2005 über die Anerkennung von
-                Berufsqualifikationen (ABl. L 255 vom 30.9.2005, S. 22; L 271 vom
-                16\.10.2007, S. 18; L 93 vom 4.4.2008, S. 28; L 33 vom 3.2.2009, S. 49;
-                L 305 vom 24.10.2014, S. 115), die zuletzt durch den Delegierten
-                Beschluss (EU) 2017/2113 (ABl. L 317 vom 1.12.2017, S. 119) geändert
-                worden ist, in der jeweils geltenden Fassung entspricht und
-
+            aaa) den Mindestanforderungen des Artikels 31 in Verbindung mit dem
+                 Anhang V Nummer 5.2.1 der Richtlinie 2005/36/EG des Europäischen
+                 Parlaments und des Rates vom 7. September 2005 über die Anerkennung
+                 von Berufsqualifikationen (ABl. L 255 vom 30.9.2005, S. 22; L 271 vom
+                 16\.10.2007, S. 18; L 93 vom 4.4.2008, S. 28; L 33 vom 3.2.2009, S.
+                 49; L 305 vom 24.10.2014, S. 115), die zuletzt durch den Delegierten
+                 Beschluss (EU) 2017/2113 (ABl. L 317 vom 1.12.2017, S. 119) geändert
+                 worden ist, in der jeweils geltenden Fassung entspricht und
 
             bbb) in einem anderen Mitgliedstaat, in einem anderen Vertragsstaat oder in
-                einem gleichgestellten Staat erworben worden ist,
+                 einem gleichgestellten Staat erworben worden ist,
 
-
-
-
-
-
-
-
-
-
-
-2.  sich nicht eines Verhaltens schuldig gemacht hat, aus dem sich die
-    Unwürdigkeit oder Unzuverlässigkeit zur Absolvierung des
+2.  sich nicht eines Verhaltens schuldig gemacht hat, aus dem sich
+    die Unwürdigkeit oder Unzuverlässigkeit zur Absolvierung des
     Hebammenstudiums ergibt,
-
 
 3.  nicht in gesundheitlicher Hinsicht zur Absolvierung des
     Hebammenstudiums ungeeignet ist und
 
-
 4.  über die Kenntnisse der deutschen Sprache verfügt, die für das
     Hebammenstudium erforderlich sind.
-
-
-
 
 (2) Die Länder können den Zugang zum Hebammenstudium von weiteren
 Voraussetzungen abhängig machen.
@@ -442,13 +372,16 @@ und höchstens acht Semester.
 berufspraktischen Studienteil und einem hochschulischen Studienteil.
 
 (3) Die für die Erlaubnis maßgeblichen Teile des Hebammenstudiums
-umfassen mindestens 4 600 Stunden. Davon entfallen mindestens 2 200
-Stunden auf den berufspraktischen Teil und mindestens 2 200 Stunden
+umfassen mindestens 4 600 Stunden. Davon entfallen mindestens 2 200
+Stunden auf den berufspraktischen Teil und mindestens 2 200 Stunden
 auf den hochschulischen Teil.
 
 (4) Den Inhalt der für die Erteilung der Erlaubnis maßgeblichen
 Bestandteile des Hebammenstudiums regelt die Studien- und
-Prüfungsverordnung nach § 71.
+Prüfungsverordnung nach § 71. Dabei sind die Inhalte der in Anhang
+V Nummer 5.5.1 der Richtlinie 2005/36/EG in der jeweils geltenden
+Fassung geregelten Fächer des theoretischen und fachlichen Unterrichts
+des Ausbildungsprogramms für Hebammen zu beachten.
 
 
 ##### § 12 Akkreditierung von Studiengängen
@@ -475,12 +408,9 @@ Akkreditierungsverfahrens werden durch die zuständige Landesbehörde
 1.  in Krankenhäusern, die zur Versorgung nach § 108 des Fünften Buches
     Sozialgesetzbuch zugelassen sind, und
 
-
 2.  bei freiberuflichen Hebammen oder in ambulanten hebammengeleiteten
     Einrichtungen, welche die im Vertrag nach § 134a Absatz 1 des Fünften
     Buches Sozialgesetzbuch geregelten Qualitätsanforderungen erfüllen.
-
-
 
 Praxiseinsätze nach Satz 1 Nummer 2 können auch in weiteren zur
 berufspraktischen Ausbildung von Hebammen geeigneten Einrichtungen
@@ -488,15 +418,15 @@ stattfinden.
 
 (2) Die Praxiseinsätze dürfen nur in Krankenhäusern, bei
 freiberuflichen Hebammen, in ambulanten hebammengeleiteten
-Einrichtungen oder weiteren Einrichtungen durchgeführt werden, die
-sicherstellen, dass die studierende Person während eines
+Einrichtungen oder weiteren Einrichtungen durchgeführt werden,
+die sicherstellen, dass die studierende Person während eines
 Praxiseinsatzes durch eine praxisanleitende Person im Umfang von
-mindestens 25 Prozent der von der studierenden Person während eines
-Praxiseinsatzes zu absolvierenden Stundenanzahl angeleitet wird.
-Abweichend von Satz 1 können die Länder bis zum Jahr 2030 einen
-geringeren Umfang für die Praxisanleitung vorsehen, jedoch nicht unter
-15 Prozent der von der studierenden Person während eines
-Praxiseinsatzes zu absolvierenden Stundenanzahl. Im Fall von
+mindestens 25 Prozent der von der studierenden Person während
+eines Praxiseinsatzes zu absolvierenden Stundenanzahl angeleitet
+wird. Abweichend von Satz 1 können die Länder bis zum Jahr 2030
+einen geringeren Umfang für die Praxisanleitung vorsehen, jedoch
+nicht unter 15 Prozent der von der studierenden Person während
+eines Praxiseinsatzes zu absolvierenden Stundenanzahl. Im Fall von
 Rechtsverstößen kann die zuständige Landesbehörde einem Krankenhaus,
 einer freiberuflichen Hebamme, einer ambulanten hebammengeleiteten
 Einrichtung oder einer weiteren Einrichtung die Durchführung der
@@ -510,8 +440,8 @@ bestimmt sich nach den jeweiligen landesrechtlichen Regelungen.
 
 ##### § 14 Praxisanleitung
 
-Die praxisanleitende Person führt die Studierenden schrittweise an die
-Wahrnehmung der im Hebammenberuf anfallenden Aufgaben heran und
+Die praxisanleitende Person führt die Studierenden schrittweise an
+die Wahrnehmung der im Hebammenberuf anfallenden Aufgaben heran und
 begleitet die Studierenden während ihres Lernprozesses im jeweiligen
 Praxiseinsatz. Sie ist während des jeweiligen Praxiseinsatzes
 Ansprechpartnerin für die verantwortliche Praxiseinrichtung und für
@@ -533,9 +463,9 @@ ein Krankenhaus nach § 13 Absatz 1 Satz 1 Nummer 1 sein.
 ##### § 16 Durchführung des berufspraktischen Teils; Praxisplan
 
 (1) Der berufspraktische Teil wird auf der Grundlage eines Praxisplans
-durchgeführt, der von der verantwortlichen Praxiseinrichtung für jede
-studierende Person zu erstellen ist. In dem Praxisplan sind die
-Praxiseinsätze zeitlich und sachlich so zu gliedern, dass das
+durchgeführt, der von der verantwortlichen Praxiseinrichtung für
+jede studierende Person zu erstellen ist. In dem Praxisplan sind
+die Praxiseinsätze zeitlich und sachlich so zu gliedern, dass das
 Studienziel erreicht werden kann. Die Vorgaben der Studien- und
 Prüfungsverordnung nach § 71 sind zu berücksichtigen.
 
@@ -562,8 +492,8 @@ Praxisanleitung.
 ##### § 18 Nachweis- und Begründungspflicht
 
 (1) Die ambulanten hebammengeleiteten Einrichtungen und
-freiberuflichen Hebammen nach § 13 Absatz 1 Satz 1 Nummer 2 legen der
-jeweiligen verantwortlichen Praxiseinrichtung rechtzeitig vor den
+freiberuflichen Hebammen nach § 13 Absatz 1 Satz 1 Nummer 2 legen
+der jeweiligen verantwortlichen Praxiseinrichtung rechtzeitig vor den
 Verhandlungen nach § 17a Absatz 3 des Krankenhausfinanzierungsgesetzes
 Nachweise und Begründungen für im Vereinbarungszeitraum geplante
 erstmalige Weiterqualifizierungen zur praxisanleitenden Person vor.
@@ -620,8 +550,8 @@ der theoretischen und praktischen Lehrveranstaltungen mit den
 berufspraktischen Praxiseinsätzen.
 
 (2) Die Hochschule prüft, ob der Praxisplan für den berufspraktischen
-Teil den Anforderungen des modularen Curriculums entspricht. Ist dies
-nicht der Fall, ist die verantwortliche Praxiseinrichtung
+Teil den Anforderungen des modularen Curriculums entspricht. Ist
+dies nicht der Fall, ist die verantwortliche Praxiseinrichtung
 verpflichtet, den Praxisplan so anzupassen, dass der Praxisplan dem
 modularen Curriculum entspricht.
 
@@ -671,8 +601,8 @@ Vorsitz auch für die zuständige Landesbehörde wahrzunehmen.
 #### § 27 Vertrag zur akademischen Hebammenausbildung; Schriftformerfordernis
 
 (1) Zwischen dem Inhaber oder Träger der verantwortlichen
-Praxiseinrichtung und der studierenden Person ist ein Vertrag zur
-akademischen Hebammenausbildung nach den Vorschriften dieses
+Praxiseinrichtung und der studierenden Person ist ein Vertrag
+zur akademischen Hebammenausbildung nach den Vorschriften dieses
 Abschnitts zu schließen.
 
 (2) Der Abschluss und jedes Rechtsgeschäft zur Änderung des Vertrages
@@ -688,25 +618,18 @@ folgende Regelungen enthalten:
 
 1.  den Beginn des Studiums,
 
-
 2.  den Praxisplan, den die verantwortliche Praxiseinrichtung für die
     studierende Person erstellt hat,
-
 
 3.  die Verpflichtung der studierenden Person, an den
     anwesenheitspflichtigen hochschulischen Lehrveranstaltungen
     teilzunehmen,
 
-
 4.  die Dauer der regelmäßigen täglichen oder wöchentlichen
     berufspraktischen Ausbildungszeit und
 
-
 5.  die Zahlungsmodalitäten und die Höhe der Vergütung einschließlich des
     Umfangs etwaiger Sachbezüge.
-
-
-
 
 (2) Des Weiteren sollen folgende Angaben, Informationen und Hinweise
 im Vertrag enthalten sein oder dem Vertrag beigefügt werden:
@@ -714,35 +637,25 @@ im Vertrag enthalten sein oder dem Vertrag beigefügt werden:
 1.  die dem Studium zugrunde liegende Studien- und Prüfungsverordnung nach
     § 71 in der jeweils geltenden Fassung,
 
-
 2.  die Dauer der Probezeit,
-
 
 3.  die Dauer des Urlaubs,
 
-
 4.  die Voraussetzungen, unter denen der Vertrag gekündigt werden kann,
-
 
 5.  der Zeitpunkt, zu dem das Vertragsverhältnis endet,
 
-
 6.  der Hinweis auf die Möglichkeit der Vertragsverlängerung nach § 37
     Absatz 2,
-
 
 7.  ein in allgemeiner Form gehaltener Hinweis auf die dem Vertrag
     gegebenenfalls zugrunde liegenden tariflichen Bestimmungen,
     Betriebsvereinbarungen oder Dienstvereinbarungen und
 
-
-8.  ein in allgemeiner Form gehaltener Hinweis auf die Rechte als
-    Arbeitnehmerin oder Arbeitnehmer nach § 5 des
-    Betriebsverfassungsgesetzes oder nach § 4 des
+8.  ein in allgemeiner Form gehaltener Hinweis auf die
+    Rechte als Arbeitnehmerin oder Arbeitnehmer nach §
+    5 des Betriebsverfassungsgesetzes oder nach § 4 des
     Bundespersonalvertretungsgesetzes.
-
-
-
 
 
 #### § 29 Wirksamkeit des Vertrages
@@ -778,35 +691,27 @@ verpflichtet,
 1.  den berufspraktischen Teil des Studiums in einer durch ihren Zweck
     gebotenen Form auf der Grundlage des Praxisplans durchzuführen,
 
-
 2.  zu gewährleisten, dass die im Praxisplan vorgegebenen Praxiseinsätze
     des berufspraktischen Teils des Studiums durchgeführt werden können,
 
-
-3.  sicherzustellen, dass die studierende Person im Umfang von mindestens
-    25 Prozent der während eines Praxiseinsatzes zu leistenden
+3.  sicherzustellen, dass die studierende Person im Umfang von
+    mindestens 25 Prozent der während eines Praxiseinsatzes zu leistenden
     Stundenanzahl von einer praxisanleitenden Person angeleitet wird,
 
-
-4.  der studierenden Person kostenlos die Fachbücher, Instrumente und
-    Apparate zur Verfügung zu stellen, die für die Absolvierung des
-    berufspraktischen Teils des Studiums und für das Ablegen der
+4.  der studierenden Person kostenlos die Fachbücher, Instrumente
+    und Apparate zur Verfügung zu stellen, die für die Absolvierung
+    des berufspraktischen Teils des Studiums und für das Ablegen der
     staatlichen Prüfung erforderlich sind,
-
 
 5.  die studierende Person für die Teilnahme an hochschulischen
     Lehrveranstaltungen und für die Teilnahme an Prüfungen freizustellen
     und
 
-
 6.  bei der Gestaltung der Praxiseinsätze auf die erforderlichen Lern- und
     Vorbereitungszeiten Rücksicht zu nehmen.
 
-
-
-
-(2) Der studierenden Person dürfen nur Aufgaben übertragen werden, die
-dem Zweck des Studiums und dem Bildungs- und Praxisstand der
+(2) Der studierenden Person dürfen nur Aufgaben übertragen werden,
+die dem Zweck des Studiums und dem Bildungs- und Praxisstand der
 studierenden Person entsprechen. Die übertragenen Aufgaben müssen den
 physischen und psychischen Kräften der studierenden Person angemessen
 sein.
@@ -815,33 +720,26 @@ sein.
 #### § 33 Pflichten der Studierenden
 
 (1) Die studierende Person hat sich zu bemühen, die in § 9 genannten
-Kompetenzen zu erwerben, die erforderlich sind, um das Studienziel zu
-erreichen.
+Kompetenzen zu erwerben, die erforderlich sind, um das Studienziel
+zu erreichen.
 
 (2) Die studierende Person ist insbesondere verpflichtet,
 
 1.  an den vorgeschriebenen anwesenheitspflichtigen hochschulischen
     Lehrveranstaltungen teilzunehmen,
 
-
 2.  die ihr im Rahmen des berufspraktischen Teils des Studiums
     übertragenen Aufgaben sorgfältig auszuführen,
 
-
 3.  einen Nachweis über die Tätigkeitsschwerpunkte des berufspraktischen
     Studienteils zu führen,
-
 
 4.  die für die Beschäftigten in den Einrichtungen und für freiberufliche
     Hebammen nach § 13 Absatz 1 Satz 1 Nummer 1 und 2 geltenden
     Bestimmungen über die Schweigepflicht einzuhalten und über
     Betriebsgeheimnisse Stillschweigen zu wahren und
 
-
 5.  die Rechte der zu betreuenden Frauen und Familien zu achten.
-
-
-
 
 
 #### § 34 Vergütung
@@ -883,11 +781,11 @@ akkreditierten Konzept des Studiengangs festgelegten Semesters. Der
 Zeitpunkt der Beendigung ist unabhängig vom Zeitpunkt der staatlichen
 Prüfung.
 
-(2) Besteht die studierende Person die staatliche Prüfung nicht oder
-kann die staatliche Prüfung ohne eigenes Verschulden nicht vor Ablauf
-des letzten Studiensemesters abgelegt werden, so verlängert sich das
-Vertragsverhältnis auf schriftlichen Antrag gegenüber der
-verantwortlichen Praxiseinrichtung bis zur nächstmöglichen
+(2) Besteht die studierende Person die staatliche Prüfung nicht
+oder kann die staatliche Prüfung ohne eigenes Verschulden nicht vor
+Ablauf des letzten Studiensemesters abgelegt werden, so verlängert
+sich das Vertragsverhältnis auf schriftlichen Antrag gegenüber
+der verantwortlichen Praxiseinrichtung bis zur nächstmöglichen
 Wiederholungsprüfung, höchstens jedoch um ein Jahr.
 
 
@@ -903,12 +801,8 @@ werden
 1.  von jedem Vertragspartner ohne Kündigungsfrist bei Vorliegen eines
     wichtigen Grundes,
 
-
 2.  von der studierenden Person mit einer Kündigungsfrist von vier Wochen
     zum Monatsende.
-
-
-
 
 
 #### § 39 Wirksamkeit der Kündigung
@@ -931,8 +825,8 @@ Beendigung der Lauf der Frist nach Satz 1 gehemmt.
 #### § 40 Beschäftigung im Anschluss an das Vertragsverhältnis
 
 Wird die studierende Person im Anschluss an das erfolgreich
-absolvierte Studium als Hebamme beschäftigt, ohne dass hierüber
-ausdrücklich etwas vereinbart worden ist, so gilt ein
+absolvierte Studium als Hebamme beschäftigt, ohne dass
+hierüber ausdrücklich etwas vereinbart worden ist, so gilt ein
 Arbeitsverhältnis auf unbestimmte Zeit als begründet.
 
 
@@ -941,8 +835,8 @@ Arbeitsverhältnis auf unbestimmte Zeit als begründet.
 (1) Eine Vereinbarung, die zu Ungunsten der studierenden Person von
 den §§ 27 bis 40 abweicht, ist nichtig.
 
-(2) Eine Vereinbarung, durch die die studierende Person für die Zeit
-nach Beendigung des Vertragsverhältnisses zur akademischen
+(2) Eine Vereinbarung, durch die die studierende Person für die
+Zeit nach Beendigung des Vertragsverhältnisses zur akademischen
 Hebammenausbildung in der Ausübung der beruflichen Tätigkeit
 beschränkt wird, ist nichtig. Dies gilt nicht, wenn die studierende
 Person innerhalb der letzten drei Monate des Vertragsverhältnisses für
@@ -953,17 +847,11 @@ die Zeit nach dessen Beendigung ein Arbeitsverhältnis eingeht.
 1.  die Verpflichtung, dass die studierende Person für die
     berufspraktische Ausbildung eine Entschädigung zu zahlen hat,
 
-
 2.  Vertragsstrafen,
-
 
 3.  den Ausschluss oder die Beschränkung von Schadensersatzansprüchen und
 
-
 4.  die Festsetzung der Höhe eines Schadensersatzes in Pauschalbeträgen.
-
-
-
 
 
 #### § 42 Ausschluss der Geltung von Vorschriften dieses Abschnitts
@@ -982,10 +870,10 @@ Gemeinschaften sind.
 #### § 43 Erlaubnis für Personen mit einer außerhalb des Geltungsbereichs dieses Gesetzes absolvierten Ausbildung
 
 (1) Beantragt eine Person, die außerhalb des Geltungsbereichs dieses
-Gesetzes eine Ausbildung absolviert hat, eine Erlaubnis nach § 5, ist
-die Voraussetzung nach § 5 Absatz 2 Nummer 1 nach den Maßgaben dieses
-Teils vor den Voraussetzungen nach § 5 Absatz 2 Nummer 2 bis 4 zu
-prüfen.
+Gesetzes eine Ausbildung absolviert hat, eine Erlaubnis nach § 5,
+ist die Voraussetzung nach § 5 Absatz 2 Nummer 1 nach den Maßgaben
+dieses Teils vor den Voraussetzungen nach § 5 Absatz 2 Nummer 2 bis 4
+zu prüfen.
 
 (2) Eine außerhalb des Geltungsbereichs dieses Gesetzes erworbene
 Berufsqualifikation erfüllt die Voraussetzungen nach § 5 Absatz 2
@@ -993,11 +881,7 @@ Nummer 1, wenn diese Berufsqualifikation
 
 1.  nach Abschnitt 2 dieses Teils automatisch anerkannt wird oder
 
-
 2.  nach Abschnitt 3 dieses Teils anerkannt wird.
-
-
-
 
 
 #### § 44 Bescheid über die Feststellung der Berufsqualifikation
@@ -1030,48 +914,37 @@ antragstellende Person
     gleichgestellten Staat eine Ausbildung oder ein Studium abgeschlossen
     hat,
 
-
 2.  den erfolgreichen Abschluss durch die Vorlage eines im Anhang V Nummer
-    5\.5.2 der Richtlinie
-    2005/36/EG                    in der jeweils geltenden Fassung
+    5\.5.2 der Richtlinie 2005/36/EG in der jeweils geltenden Fassung
     aufgeführten Ausbildungsnachweises belegt, der nach dem dort genannten
     Stichtag ausgestellt worden ist, und
-
 
 3.  die Ausbildung oder das Studium folgenden Anforderungen entspricht:
 
     a)  eine in Vollzeit mindestens dreijährige Hebammenausbildung, die aus
-        mindestens 4 600 Stunden theoretischer und praktischer Ausbildung
+        mindestens 4 600 Stunden theoretischer und praktischer Ausbildung
         besteht, mit mindestens einem Drittel der Mindestausbildungsdauer in
         Form klinisch-praktischer Ausbildung,
 
-
-    b)  eine in Vollzeit mindestens zweijährige Hebammenausbildung, die aus
-        mindestens 3 600 Stunden besteht und die den Besitz eines der im
-        Anhang V Nummer 5.2.2 der Richtlinie 2005/36/EG in der jeweils
-        geltenden Fassung aufgeführten Ausbildungsnachweise der
+    b)  eine in Vollzeit mindestens zweijährige Hebammenausbildung, die
+        aus mindestens 3 600 Stunden besteht und die den Besitz eines
+        der im Anhang V Nummer 5.2.2 der Richtlinie 2005/36/EG in der
+        jeweils geltenden Fassung aufgeführten Ausbildungsnachweise der
         Krankenschwester und des Krankenpflegers, die für die allgemeine
         Pflege verantwortlich sind, voraussetzt oder
 
-
-    c)  eine in Vollzeit mindestens 18-monatige Hebammenausbildung, die aus
-        mindestens 3 000 Stunden besteht und die den Besitz eines der im
-        Anhang V Nummer 5.2.2 der Richtlinie 2005/36/EG in der jeweils
-        geltenden Fassung aufgeführten Ausbildungsnachweise der
+    c)  eine in Vollzeit mindestens 18-monatige Hebammenausbildung, die
+        aus mindestens 3 000 Stunden besteht und die den Besitz eines
+        der im Anhang V Nummer 5.2.2 der Richtlinie 2005/36/EG in der
+        jeweils geltenden Fassung aufgeführten Ausbildungsnachweise der
         Krankenschwester und des Krankenpflegers, die für die allgemeine
         Pflege verantwortlich sind, voraussetzt, nach deren Abschluss eine
         einjährige Berufserfahrung erworben wird.
 
-
-
-
-
-
-
 (2) Entspricht die Bezeichnung in dem Ausbildungsnachweis nach Absatz
-1 Nummer 2 nicht der im Anhang V Nummer 5.5.2 der Richtlinie
-2005/36/EG in der jeweils geltenden Fassung aufgeführten Bezeichnung,
-ist eine Bescheinigung der zuständigen Stelle des betreffenden Staates
+1 Nummer 2 nicht der im Anhang V Nummer 5.5.2 der Richtlinie 2005/36/
+EG in der jeweils geltenden Fassung aufgeführten Bezeichnung, ist
+eine Bescheinigung der zuständigen Stelle des betreffenden Staates
 vorzulegen, dass die Berufsqualifikation den Mindestanforderungen des
 Artikels 40 in Verbindung mit Anhang V Nummer 5.5.2 der Richtlinie
 2005/36/EG in der jeweils geltenden Fassung entspricht und den für
@@ -1080,10 +953,10 @@ jeweils geltenden Fassung aufgeführten Nachweisen gleichsteht.
 
 (3) Zum Nachweis der einjährigen Berufserfahrung nach Absatz 1 Nummer
 3 Buchstabe c ist eine von der zuständigen Stelle des Herkunftsstaates
-der antragstellenden Person ausgestellte Bescheinigung vorzulegen, die
-bescheinigt, dass die betreffende Person nach Erhalt des
-Ausbildungsnachweises ein Jahr lang in zufriedenstellender Weise alle
-mit dem Beruf einer Hebamme verbundenen Tätigkeiten in einem
+der antragstellenden Person ausgestellte Bescheinigung vorzulegen,
+die bescheinigt, dass die betreffende Person nach Erhalt des
+Ausbildungsnachweises ein Jahr lang in zufriedenstellender Weise
+alle mit dem Beruf einer Hebamme verbundenen Tätigkeiten in einem
 Krankenhaus oder in einer Einrichtung des Gesundheitswesens, die im
 Hinblick auf diesen Zweck anerkannt ist, ausgeübt hat.
 
@@ -1099,39 +972,26 @@ Hinblick auf diesen Zweck anerkannt ist, ausgeübt hat.
     im Anhang V Nummer 5.5.2 der Richtlinie 2005/36/EG in der jeweils
     geltenden Fassung aufgeführten Stichtag ausgestellt worden ist, und
 
-
 2.  die nachgewiesene Ausbildung
 
-    a)  nicht den Mindestanforderungen an die Ausbildung nach Artikel 40 der
-        Richtlinie 2005/36/EG entspricht und die antragstellende Person eine
-        Bescheinigung vorlegt, dass sie in den letzten fünf Jahren vor
-        Ausstellung dieser Bescheinigung mindestens drei Jahre ohne
+    a)  nicht den Mindestanforderungen an die Ausbildung nach Artikel 40
+        der Richtlinie 2005/36/EG entspricht und die antragstellende Person
+        eine Bescheinigung vorlegt, dass sie in den letzten fünf Jahren
+        vor Ausstellung dieser Bescheinigung mindestens drei Jahre ohne
         Unterbrechung tatsächlich und rechtmäßig den Hebammenberuf ausgeübt
         hat, oder
-
 
     b)  den Mindestanforderungen an die Ausbildung nach Artikel 40 der
         Richtlinie 2005/36/EG entspricht und die antragstellende Person
 
         aa) eine Ausbildung nach § 46 Absatz 1 Nummer 3 Buchstabe c nachweist,
 
-
         bb) eine Bescheinigung nach § 46 Absatz 3 vorlegt und
 
-
-        cc) die antragstellende Person eine Bescheinigung vorlegt, dass sie in den
-            letzten fünf Jahren vor Ausstellung dieser Bescheinigung mindestens
-            zwei Jahre ohne Unterbrechung tatsächlich und rechtmäßig den
-            Hebammenberuf ausgeübt hat.
-
-
-
-
-
-
-
-
-
+        cc) die antragstellende Person eine Bescheinigung vorlegt, dass sie
+            in den letzten fünf Jahren vor Ausstellung dieser Bescheinigung
+            mindestens zwei Jahre ohne Unterbrechung tatsächlich und rechtmäßig
+            den Hebammenberuf ausgeübt hat.
 
 (2) Eine Berufsqualifikation wird automatisch anerkannt, wenn
 
@@ -1139,10 +999,8 @@ Hinblick auf diesen Zweck anerkannt ist, ausgeübt hat.
     einem anderen Mitgliedstaat, einem anderen Vertragsstaat oder einem
     gleichgestellten Staat ausgestellt worden ist,
 
-
 2.  die nachgewiesene Ausbildung vor dem 18. Januar 2016 begonnen worden
     ist und
-
 
 3.  die antragstellende Person
 
@@ -1151,48 +1009,30 @@ Hinblick auf diesen Zweck anerkannt ist, ausgeübt hat.
         aa) theoretischen und praktischen Unterricht von in Vollzeit mindestens
             drei Jahren umfasst,
 
-
-        bb) mindestens das im Anhang V Nummer 5.5.1 der Richtlinie 2005/36/EG in
-            der jeweils geltenden Fassung aufgeführte Ausbildungsprogramm
+        bb) mindestens das im Anhang V Nummer 5.5.1 der Richtlinie 2005/36/
+            EG in der jeweils geltenden Fassung aufgeführte Ausbildungsprogramm
             beinhaltet und
-
 
         cc) als Zulassungsvoraussetzung eine zehnjährige allgemeine
             Schulausbildung oder ein gleichwertiges Ausbildungsniveau
             vorausgesetzt hat, oder
 
-
-
-
-
     b)  eine spezielle Ausbildung zur Hebamme nachweist, die
 
         aa) in Vollzeit mindestens 18 Monate umfasst,
 
-
-        bb) mindestens das im Anhang V Nummer 5.5.1 der Richtlinie 2005/36/EG in
-            der jeweils geltenden Fassung aufgeführte Ausbildungsprogramm
+        bb) mindestens das im Anhang V Nummer 5.5.1 der Richtlinie 2005/36/
+            EG in der jeweils geltenden Fassung aufgeführte Ausbildungsprogramm
             beinhaltet, das nicht Gegenstand eines gleichwertigen Unterrichts im
             Rahmen der Ausbildung zur Krankenschwester und zum Krankenpfleger, die
             für die allgemeine Pflege verantwortlich sind, war, und
 
-
-        cc) die antragstellende Person durch einen im Anhang V Nummer 5.2.2 der
-            Richtlinie
-            2005/36/EG                                in der jeweils geltenden
-            Fassung aufgeführten Ausbildungsnachweis nachweist, dass sie vor
-            Beginn der Hebammenausbildung eine Ausbildung zur Krankenschwester
-            oder zum Krankenpfleger, die für die allgemeine Pflege verantwortlich
-            sind, abgeschlossen hat.
-
-
-
-
-
-
-
-
-
+        cc) die antragstellende Person durch einen im Anhang V Nummer 5.2.2
+            der Richtlinie 2005/36/EG in der jeweils geltenden Fassung
+            aufgeführten Ausbildungsnachweis nachweist, dass sie vor Beginn der
+            Hebammenausbildung eine Ausbildung zur Krankenschwester oder zum
+            Krankenpfleger, die für die allgemeine Pflege verantwortlich sind,
+            abgeschlossen hat.
 
 
 #### § 48 Automatische Anerkennung bei in den Gebieten der früheren Tschechoslowakei, der früheren Sowjetunion, dem früheren Jugoslawien erworbenen Rechten
@@ -1205,31 +1045,22 @@ antragstellende Person
     a)  von der früheren Tschechoslowakei verliehen worden ist und die
         Aufnahme des Hebammenberufs gestattet,
 
-
     b)  eine Ausbildung bescheinigt, welche im Fall der Tschechischen Republik
         und der Slowakei vor dem 1. Januar 1993 aufgenommen worden ist,
 
-
     c)  von der früheren Sowjetunion verliehen worden ist und die Aufnahme des
         Hebammenberufs gestattet,
-
 
     d)  eine Ausbildung bescheinigt, welche im Fall Estlands vor dem 20.
         August 1991, im Fall Lettlands vor dem 21. August 1991 und im Fall
         Litauens vor dem 11. März 1990 aufgenommen worden ist,
 
-
     e)  vom früheren Jugoslawien verliehen worden ist und die Aufnahme des
         Hebammenberufs gestattet oder
-
 
     f)  eine Ausbildung bescheinigt, welche im Fall Sloweniens vor dem 25.
         Juni 1991 und im Fall Kroatiens vor dem 8. Oktober 1991 aufgenommen
         worden ist,
-
-
-
-
 
 2.  eine Bescheinigung der zuständigen Behörde des jeweiligen
     Mitgliedstaates vorlegt, dass die antragstellende Person in den
@@ -1237,15 +1068,11 @@ antragstellende Person
     drei Jahre ohne Unterbrechung tatsächlich und rechtmäßig den
     Hebammenberuf ausgeübt hat, und
 
-
 3.  eine Bescheinigung der zuständigen Behörde des jeweiligen
     Mitgliedstaates vorlegt, dass der vorgelegte Ausbildungsnachweis
     hinsichtlich der Aufnahme und Ausübung des Hebammenberufs in ihrem
     Hoheitsgebiet die gleiche Rechtsgültigkeit hat wie der von ihnen
     verliehene Ausbildungsnachweis.
-
-
-
 
 
 #### § 49 Automatische Anerkennung bei in Polen erworbenen Rechten
@@ -1255,19 +1082,14 @@ Eine Berufsqualifikation wird automatisch anerkannt, wenn
 1.  die antragstellende Person einen Ausbildungsnachweis vorlegt, der in
     Polen verliehen worden ist,
 
-
 2.  die nachgewiesene Ausbildung vor dem 1. Mai 2004 abgeschlossen worden
     ist und nicht den Mindestanforderungen nach Artikel 40 der Richtlinie
-    2005/36/EG                    entspricht und
-
+    2005/36/EG entspricht und
 
 3.  die antragstellende Person ein Bakkalaureat-Diplom beifügt, das auf
     der Grundlage eines Aufstiegsfortbildungsprogramms, das in den in
     Artikel 43 Absatz 4 Buchstabe b Ziffer i und Ziffer ii der Richtlinie
     2005/36/EG genannten Gesetzen enthalten ist, erworben worden ist.
-
-
-
 
 
 #### § 50 Automatische Anerkennung bei in Rumänien erworbenen Rechten
@@ -1279,18 +1101,13 @@ Eine Berufsqualifikation wird automatisch anerkannt, wenn
     Krankenpfleger für Frauenheilkunde und Geburtshilfe vorlegt, der in
     Rumänien vor dem 1. Januar 2007 verliehen worden ist,
 
-
 2.  die nachgewiesene Ausbildung den Mindestanforderungen nach Artikel 40
     der Richtlinie 2005/36/EG nicht entspricht und
-
 
 3.  die antragstellende Person eine Bescheinigung beifügt, dass sie die
     Tätigkeiten einer Hebamme in den sieben Jahren vor Ausstellung der
     Bescheinigung mindestens fünf Jahre ohne Unterbrechung in Rumänien
     tatsächlich und rechtmäßig ausgeübt hat.
-
-
-
 
 
 #### § 51 Ausschluss der automatischen Anerkennung bei in Kroatien erworbenen Rechten
@@ -1303,23 +1120,15 @@ Juli 2013 erworben worden sind:
 
 1.  viša medicinska sestra ginekološko-ops tetričkog smjera,
 
-
 2.  medicinska sestra ginekološko-opstetričkog smjera,
-
 
 3.  viša medicinska sestra primaljskog smjera,
 
-
 4.  medicinska sestra primaljskog smjera,
-
 
 5.  ginekološko-opstetrička primalja und
 
-
 6.  primalja.
-
-
-
 
 
 #### § 52 Bekanntmachung
@@ -1331,8 +1140,8 @@ Bundesanzeiger bekannt.
 
 #### § 53 Europäischer Berufsausweis
 
-Für den Fall einer Einführung eines Europäischen Berufsausweises für
-den Hebammenberuf gelten die Regelungen über die Anerkennung von
+Für den Fall einer Einführung eines Europäischen Berufsausweises
+für den Hebammenberuf gelten die Regelungen über die Anerkennung von
 Berufsqualifikationen dieses Teils entsprechend.
 
 
@@ -1347,12 +1156,8 @@ automatisch anerkannt wird, wird anerkannt, wenn
 1.  sie mit der in diesem Gesetz geregelten Berufsqualifikation
     gleichwertig ist oder
 
-
 2.  die antragstellende Person die erforderliche Anpassungsmaßnahme
     erfolgreich absolviert hat.
-
-
-
 
 (2) Eine Berufsqualifikation ist der in diesem Gesetz geregelten
 Berufsqualifikation gleichwertig, wenn
@@ -1361,13 +1166,9 @@ Berufsqualifikation gleichwertig, wenn
     und Prüfungsverordnung nach § 71 geregelten Berufsqualifikation
     unterscheidet oder
 
-
 2.  wesentliche Unterschiede vollständig durch den Nachweis von
     Kenntnissen, Fähigkeiten und Kompetenzen nach § 56 ausgeglichen
     werden.
-
-
-
 
 
 #### § 55 Wesentliche Unterschiede
@@ -1381,22 +1182,18 @@ sich wesentlich, wenn
     von denen unterscheiden, die nach diesem Gesetz und nach der Studien-
     und Prüfungsverordnung nach § 71 vorgeschrieben sind, oder
 
-
-2.  eine Tätigkeit oder mehrere Tätigkeiten des in diesem Gesetz und in
-    der Studien- und Prüfungsverordnung nach § 71 geregelten
+2.  eine Tätigkeit oder mehrere Tätigkeiten des in diesem Gesetz
+    und in der Studien- und Prüfungsverordnung nach § 71 geregelten
     Hebammenberufs nicht Bestandteil des im Herkunftsstaat der
-    antragstellenden Person entsprechend reglementierten Berufs ist oder
-    sind und wenn das Hebammenstudium nach diesem Gesetz und nach der
-    Studien- und Prüfungsverordnung nach § 71 Themenbereiche oder
+    antragstellenden Person entsprechend reglementierten Berufs ist
+    oder sind und wenn das Hebammenstudium nach diesem Gesetz und nach
+    der Studien- und Prüfungsverordnung nach § 71 Themenbereiche oder
     berufspraktische Bestandteile umfasst, die sich inhaltlich wesentlich
     von denen unterscheiden, die von der Berufsqualifikation der
     antragstellenden Person abgedeckt sind.
 
-
-
-
-(2) Die inhaltlichen wesentlichen Abweichungen nach Absatz 1 Nummer 1
-und 2 müssen sich auf Themenbereiche oder berufspraktische
+(2) Die inhaltlichen wesentlichen Abweichungen nach Absatz 1
+Nummer 1 und 2 müssen sich auf Themenbereiche oder berufspraktische
 Bestandteile beziehen, deren Kenntnisse, Fähigkeiten und Kompetenzen
 eine wesentliche Voraussetzung für die Ausübung des Hebammenberufs im
 Geltungsbereich dieses Gesetzes sind.
@@ -1412,10 +1209,7 @@ welche die antragstellende Person erworben hat
     rechtmäßigen Ausübung des Hebammenberufs in Vollzeit oder Teilzeit
     oder
 
-
 2.  durch lebenslanges Lernen.
-
-
 
 Die nach Satz 1 Nummer 2 erworbenen Kenntnisse, Fähigkeiten und
 Kompetenzen werden nur anerkannt, wenn sie von einer dafür im
@@ -1428,15 +1222,15 @@ Fähigkeiten und Kompetenzen erworben worden sind.
 
 #### § 57 Anpassungsmaßnahmen
 
-(1) Ist die Berufsqualifikation der antragstellenden Person nicht mit
-der in diesem Gesetz geregelten Berufsqualifikation gleichwertig, ist
-für eine Anerkennung eine Anpassungsmaßnahme nach § 58 oder § 59
-durchzuführen.
+(1) Ist die Berufsqualifikation der antragstellenden Person nicht
+mit der in diesem Gesetz geregelten Berufsqualifikation gleichwertig,
+ist für eine Anerkennung eine Anpassungsmaßnahme nach § 58 oder §
+59 durchzuführen.
 
 (2) Dies gilt auch für den Fall, dass die Gleichwertigkeit der
 Berufsqualifikation der antragstellenden Person nur mit unangemessenem
-zeitlichen oder sachlichen Aufwand festgestellt werden kann, weil die
-erforderlichen Unterlagen und Nachweise aus Gründen, die die
+zeitlichen oder sachlichen Aufwand festgestellt werden kann, weil
+die erforderlichen Unterlagen und Nachweise aus Gründen, die die
 antragstellende Person nicht zu vertreten hat, nicht vorgelegt werden
 können.
 
@@ -1453,47 +1247,31 @@ Anpassungslehrgang zu absolvieren, wenn sie
     a)  in einem anderen Mitgliedstaat, in einem anderen Vertragsstaat oder in
         einem gleichgestellten Staat erworben worden ist und
 
-
     b)  eine Berufsqualifikation nachweist, die nicht automatisch anerkannt
         wird,
-
-
-
-
 
 2.  einen Ausbildungsnachweis für eine Spezialisierung vorlegt, der
 
     a)  in einem Mitgliedstaat, in einem Vertragsstaat oder in einem
         gleichgestellten Staat erworben worden ist und
 
-
-    b)  nach einer Ausbildung zum Erwerb einer der in Anhang V Nummer 5.2.2
-        der Richtlinie 2005/36/EG in der jeweils geltenden Fassung
+    b)  nach einer Ausbildung zum Erwerb einer der in Anhang V Nummer
+        5\.2.2 der Richtlinie 2005/36/EG in der jeweils geltenden Fassung
         aufgeführten Bezeichnungen ausschließlich zum Zwecke der Anerkennung
         der betreffenden Spezialisierung erworben worden ist,
-
-
-
-
 
 3.  einen Ausbildungsnachweis vorlegt,
 
     a)  der in einem Drittstaat, der kein gleichgestellter Staat ist, erworben
         worden ist,
 
-
     b)  der bereits in einem anderen Mitgliedstaat, in einem anderen
         Vertragsstaat oder in einem gleichgestellten Staat anerkannt worden
         ist, und
 
-
     c)  dem eine Bescheinigung beigefügt ist, dass die antragstellende Person
         im Hoheitsgebiet des den Ausbildungsnachweis anerkennenden Staates
         drei Jahre als Hebamme tätig war,
-
-
-
-
 
 4.  Ausbildungsnachweise oder eine Gesamtheit von Ausbildungsnachweisen
     vorlegt, die
@@ -1502,20 +1280,14 @@ Anpassungslehrgang zu absolvieren, wenn sie
         anderen Vertragsstaat oder in einem gleichgestellten Staat ausgestellt
         worden sind,
 
-
     b)  den erfolgreichen Abschluss einer in einem anderen Mitgliedstaat, in
         einem anderen Vertragsstaat oder in einem gleichgestellten Staat auf
         Vollzeitbasis oder Teilzeitbasis im Rahmen formaler oder nichtformaler
         Ausbildungsprogramme erworbenen Ausbildung bescheinigen und
 
-
-    c)  von diesem Staat als gleichwertig anerkannt werden und in Bezug auf
-        die Aufnahme oder Ausübung des Hebammenberufs dieselben Rechte
+    c)  von diesem Staat als gleichwertig anerkannt werden und in Bezug
+        auf die Aufnahme oder Ausübung des Hebammenberufs dieselben Rechte
         verleihen oder auf die Ausübung des Hebammenberufs vorbereiten, oder
-
-
-
-
 
 5.  Ausbildungsnachweise oder eine Gesamtheit von Ausbildungsnachweisen
     vorlegt, die
@@ -1524,43 +1296,30 @@ Anpassungslehrgang zu absolvieren, wenn sie
         anderen Vertragsstaat oder in einem gleichgestellten Staat ausgestellt
         worden sind,
 
-
     b)  den erfolgreichen Abschluss einer in einem anderen Mitgliedstaat, in
         einem anderen Vertragsstaat oder in einem gleichgestellten Staat auf
         Vollzeitbasis oder Teilzeitbasis im Rahmen formaler oder nichtformaler
         Ausbildungsprogramme erworbenen Ausbildung bescheinigen und
-
 
     c)  zwar nicht den Erfordernissen der Rechts- oder Verwaltungsvorschriften
         des Herkunftsstaates für die Aufnahme oder Ausübung des Hebammenberufs
         entsprechen, jedoch erworbene Rechte gemäß diesen Vorschriften
         verleihen.
 
-
-
-
-
-
-
 (2) Legt die antragstellende Person
 
-1.  einen Ausbildungsnachweis vor, der dem in Artikel 11 Buchstabe a der
-    Richtlinie 2005/36/EG genannten Niveau entspricht, hat sie den
+1.  einen Ausbildungsnachweis vor, der dem in Artikel 11 Buchstabe a
+    der Richtlinie 2005/36/EG genannten Niveau entspricht, hat sie den
     Anpassungslehrgang und die Eignungsprüfung zu absolvieren,
 
-
-2.  einen Ausbildungsnachweis vor, der dem in Artikel 11 Buchstabe b der
-    Richtlinie 2005/36/EG genannten Niveau entspricht, hat sie die
+2.  einen Ausbildungsnachweis vor, der dem in Artikel 11 Buchstabe b
+    der Richtlinie 2005/36/EG genannten Niveau entspricht, hat sie die
     Eignungsprüfung zu absolvieren, oder
 
-
-3.  einen Ausbildungsnachweis vor, der dem in Artikel 11 Buchstabe c, d
-    oder e der Richtlinie 2005/36/EG genannten Niveau entspricht, so kann
-    die antragstellende Person zwischen der Eignungsprüfung und der
+3.  einen Ausbildungsnachweis vor, der dem in Artikel 11 Buchstabe c,
+    d oder e der Richtlinie 2005/36/EG genannten Niveau entspricht, so
+    kann die antragstellende Person zwischen der Eignungsprüfung und der
     Teilnahme an einem Anpassungslehrgang wählen.
-
-
-
 
 
 #### § 59 Kenntnisprüfung oder Anpassungslehrgang
@@ -1575,15 +1334,67 @@ absolvieren:
 1.  eine Kenntnisprüfung, die sich auf den Inhalt der staatlichen Prüfung
     des Hebammenstudiums erstreckt, oder
 
-
 2.  einen höchstens dreijährigen Anpassungslehrgang, der mit einer Prüfung
     über den Inhalt des Anpassungslehrgangs abschließt.
 
-
-
-
 (2) Die antragstellende Person kann zwischen der Kenntnisprüfung und
 dem Anpassungslehrgang wählen.
+
+
+#### § 59a Erlaubnis zur partiellen Berufsausübung
+
+(1) Eine Erlaubnis zur partiellen Berufsausübung ist auf Antrag zu
+erteilen, wenn
+
+1.  die antragstellende Person ohne Einschränkung qualifiziert ist, in
+    einem anderen Mitgliedstaat, in einem anderen Vertragsstaat oder in
+    einem gleichgestellten Staat eine berufliche Tätigkeit auszuüben,
+    die der Tätigkeit einer Hebamme nach diesem Gesetz nur partiell
+    entspricht,
+
+2.  die Unterschiede zwischen der in einem anderen Mitgliedstaat, in einem
+    anderen Vertragsstaat oder einem gleichgestellten Staat rechtmäßig
+    ausgeübten beruflichen Tätigkeit und den Tätigkeiten einer Hebamme
+    nach diesem Gesetz so wesentlich sind, dass die Anwendung von
+    Anpassungsmaßnahmen nach § 57 der Anforderung an die antragstellende
+    Person gleichkäme, das vollständige Studium nach diesem Gesetz zu
+    absolvieren,
+
+3.  die rechtmäßig ausgeübte berufliche Tätigkeit nach Nummer 1 eine oder
+    mehrere der vorbehaltenen Tätigkeiten nach § 4 umfasst und
+
+4.  die Voraussetzungen nach § 5 Absatz 2 Nummer 2 bis 4 vorliegen.
+
+(2) Eine Erlaubnis zur partiellen Berufsausübung darf nicht erteilt
+werden, wenn
+
+1.  der Patientenschutz oder der Schutz der öffentlichen Gesundheit der
+    Erteilung entgegensteht oder
+
+2.  eine automatische Anerkennung der Berufsqualifikation möglich ist.
+
+(3) Eine Erlaubnis zur partiellen Berufsausübung ist auf die
+Tätigkeiten zu beschränken, in denen die antragstellende Person eine
+Qualifikation nach Absatz 1 Nummer 1 und 3 nachgewiesen hat.
+
+(4) Die berufliche Tätigkeit wird unter der Berufsbezeichnung des
+Staates, in dem die Qualifikation nach Absatz 1 Nummer 1 erworben
+wurde, ausgeübt und mit dem Hinweis auf
+
+1.  den Namen dieses Staates und
+
+2.  die Tätigkeit, auf die die Erlaubnis zur partiellen Berufsausübung
+    beschränkt ist.
+
+(5) Personen mit einer Erlaubnis zur partiellen Berufsausübung haben
+im Umfang dieser Erlaubnis die gleichen Rechte und Pflichten wie eine
+Person mit einer Erlaubnis zum Führen der Berufsbezeichnung nach §
+3 Absatz 1. Sie dürfen insbesondere eine oder mehrere vorbehaltene
+Tätigkeiten nach § 4 ausüben, soweit sie in den Umfang der Erlaubnis
+zur partiellen Berufsausübung fallen.
+
+(6) Die §§ 6 bis 8 gelten für die Erlaubnis zur partiellen
+Berufsausübung entsprechend.
 
 
 ## Teil 5 - Erbringen von Dienstleistungen
@@ -1598,8 +1409,8 @@ dem Anpassungslehrgang wählen.
 Mitgliedstaates, eines Vertragsstaates oder eines gleichgestellten
 Staates, darf als dienstleistungserbringende Person im Rahmen
 vorübergehender und gelegentlicher Dienstleistungen im Sinne des
-Artikels 57 des Vertrages über die Arbeitsweise der Europäischen Union
-(konsolidierte Fassung) (ABl. C 326 vom 26.10.2012, S. 47) den
+Artikels 57 des Vertrages über die Arbeitsweise der Europäischen
+Union (konsolidierte Fassung) (ABl. C 326 vom 26.10.2012, S. 47) den
 Hebammenberuf im Geltungsbereich dieses Gesetzes ausüben, wenn sie
 oder er
 
@@ -1610,24 +1421,15 @@ oder er
     a)  einer in der Bundesrepublik Deutschland erworbenen Berufsqualifikation
         oder
 
-
     b)  einer außerhalb des Geltungsbereichs dieses Gesetzes erworbenen
         Berufsqualifikation, die nach § 46 automatisch anzuerkennen wäre,
-
-
-
-
 
 2.  während der Dienstleistungserbringung in einem anderen Mitgliedstaat,
     einem anderen Vertragsstaat oder einem gleichgestellten Staat
     rechtmäßig niedergelassen ist und
 
-
 3.  über die für die Ausübung der Dienstleistung erforderlichen Kenntnisse
     der deutschen Sprache verfügt.
-
-
-
 
 (2) Zur Ausübung des Hebammenberufs im Geltungsbereich dieses Gesetzes
 ist im Rahmen vorübergehender und gelegentlicher Dienstleistungen
@@ -1637,18 +1439,14 @@ jedoch nicht berechtigt, wer
     Unwürdigkeit oder Unzuverlässigkeit zur Ausübung dieses Berufs ergibt,
     oder
 
-
 2.  in gesundheitlicher Hinsicht zur Ausübung dieses Berufs ungeeignet
     ist.
-
-
-
 
 (3) Eine dienstleistungserbringende Person führt im Rahmen der
 vorübergehenden und gelegentlichen Dienstleistungserbringung im
 Geltungsbereich dieses Gesetzes die Berufsbezeichnung „Hebamme“ und
-darf die vorbehaltene Tätigkeit der Geburtshilfe ausüben. Sie hat bei
-Dienstleistungserbringung im Geltungsbereich dieses Gesetzes die
+darf die vorbehaltene Tätigkeit der Geburtshilfe ausüben. Sie hat
+bei Dienstleistungserbringung im Geltungsbereich dieses Gesetzes die
 gleichen Rechte und Pflichten wie eine Person mit einer Erlaubnis nach
 § 5.
 
@@ -1670,9 +1468,7 @@ Person folgende Dokumente vorzulegen:
 
 1.  einen Nachweis ihrer Staatsangehörigkeit,
 
-
 2.  einen Nachweis ihrer Berufsqualifikation,
-
 
 3.  eine Bescheinigung, aus der sich ergibt, dass zum Zeitpunkt der
     Vorlage der Bescheinigung
@@ -1681,23 +1477,14 @@ Person folgende Dokumente vorzulegen:
         einem anderen Mitgliedstaat, in einem anderen Vertragsstaat oder in
         einem gleichgestellten Staat niedergelassen ist,
 
-
     b)  der dienstleistungserbringenden Person die Ausübung dieser Tätigkeit
         nicht, auch nicht vorübergehend, untersagt ist und
 
-
     c)  keine Vorstrafen der dienstleistungserbringenden Person vorliegen,
-
-
-
-
 
 4.  eine Erklärung, dass die dienstleistungserbringende Person über die
     Kenntnisse der deutschen Sprache verfügt, die zur Erbringung der
     Dienstleistung erforderlich sind.
-
-
-
 
 (3) Auf Verlangen der zuständigen Behörde hat die
 dienstleistungserbringende Person zudem Auskunft über einen
@@ -1710,9 +1497,9 @@ gelegentlich Dienstleistungen im Geltungsbereich dieses Gesetzes zu
 erbringen, ist die Meldung zu erneuern.
 
 (5) Erbringt die dienstleistungserbringende Person in einem
-Dringlichkeitsfall oder in einem Notfall die Dienstleistung, ohne dass
-es ihr vorher möglich ist, dies der zuständigen Behörde rechtzeitig zu
-melden, so hat sie die Meldung unverzüglich nach der
+Dringlichkeitsfall oder in einem Notfall die Dienstleistung,
+ohne dass es ihr vorher möglich ist, dies der zuständigen Behörde
+rechtzeitig zu melden, so hat sie die Meldung unverzüglich nach der
 Dienstleistungserbringung nachzuholen.
 
 
@@ -1723,28 +1510,65 @@ zuständigen Behörde unverzüglich zu melden
 
 1.  jede Änderung ihrer Staatsangehörigkeit,
 
-
 2.  den Verlust ihrer rechtmäßigen Niederlassung als Hebamme in einem
     anderen Mitgliedstaat, in einem anderen Vertragsstaat oder in einem
     gleichgestellten Staat,
 
-
 3.  die Tatsache, dass ihr die Ausübung des Hebammenberufs untersagt ist,
     auch bei vorübergehender Untersagung,
 
-
 4.  die Tatsache, dass bei ihr eine Vorstrafe vorliegt, oder
-
 
 5.  die Tatsache, dass sie in gesundheitlicher Hinsicht nicht mehr zur
     Ausübung des Hebammenberufs geeignet ist.
 
-
-
-
 (2) Mit der Meldung hat die dienstleistungserbringende Person der
 zuständigen Behörde die entsprechenden Nachweise, Bescheinigungen oder
 Erklärungen vorzulegen.
+
+
+#### § 62a Dienstleistungserbringung im Rahmen einer partiellen Berufsausübung
+
+(1) Für die Erbringung von vorübergehenden und gelegentlichen
+Dienstleistungen im Sinne des Artikels 57 des Vertrages über die
+Arbeitsweise der Europäischen Union im Rahmen einer partiellen
+Berufsausübung bedarf es einer Genehmigung durch die zuständige
+Behörde. Die Genehmigung wird auf Antrag erteilt, wenn:
+
+1.  die antragstellende Person eine Staatsangehörige oder ein
+    Staatsangehöriger eines Mitgliedstaates, eines Vertragsstaates oder
+    eines gleichgestellten Staates ist,
+
+2.  die antragstellende Person in einem anderen Mitgliedstaat, in einem
+    anderen Vertragsstaat oder einem gleichgestellten Staat zur Ausübung
+    des Berufs, dessen Tätigkeit der Tätigkeit einer Hebamme nur partiell
+    entspricht, rechtmäßig niedergelassen ist und
+
+    a)  dieser Beruf in diesem Mitgliedstaat, in diesem Vertragsstaat oder in
+        diesem gleichgestellten Staat reglementiert ist oder
+
+    b)  dieser Beruf in diesem Mitgliedstaat, in diesem Vertragsstaat oder
+        in diesem gleichgestellten Staat nicht reglementiert ist und die
+        antragstellende Person diesen Beruf während der vorhergehenden
+        zehn Jahre mindestens ein Jahr lang in einem oder in mehreren
+        Mitgliedstaaten, in einem oder in mehreren Vertragsstaaten oder
+        gleichgestellten Staaten rechtmäßig ausgeübt hat, und
+
+3.  die Voraussetzungen nach § 59a Absatz 1 Nummer 1 bis 4 vorliegen.
+
+(2) Personen mit einer Genehmigung zur Dienstleistungserbringung
+im Rahmen einer partiellen Berufsausübung haben beim Erbringen
+der Dienstleistung in Deutschland im Umfang dieser Genehmigung
+die gleichen Rechte und Pflichten wie eine Person mit einer
+Erlaubnis zum Führen der Berufsbezeichnung nach § 3 Absatz 1. Sie
+dürfen insbesondere eine oder mehrere vorbehaltene Tätigkeiten
+nach § 4 ausüben, soweit sie in den Umfang der Genehmigung zur
+Dienstleistungserbringung im Rahmen einer partiellen Berufsausübung
+fallen.
+
+(3) Die §§ 6 bis 8, § 59a Absatz 2 Nummer 1, Absatz 3 und 4, § 60
+Absatz 4, die §§ 61, 62, 65 Absatz 1 und 2, die §§ 66 bis 69 und 70
+Absatz 2 gelten entsprechend.
 
 
 ### Abschnitt 2 - Dienstleistungserbringung in anderen Mitgliedstaaten, in anderen Vertragsstaaten oder in anderen gleichgestellten Staaten
@@ -1752,8 +1576,8 @@ Erklärungen vorzulegen.
 
 #### § 63 Bescheinigung der zuständigen Behörde
 
-(1) Üben deutsche Staatsangehörige oder Staatsangehörige eines anderen
-Mitgliedstaates, eines anderen Vertragsstaates oder eines
+(1) Üben deutsche Staatsangehörige oder Staatsangehörige eines
+anderen Mitgliedstaates, eines anderen Vertragsstaates oder eines
 gleichgestellten Staates den Hebammenberuf in Deutschland aufgrund
 einer Erlaubnis nach § 5 aus, so stellt ihnen die zuständige Behörde
 auf Antrag eine Bescheinigung aus, damit sie die Möglichkeit haben, in
@@ -1767,16 +1591,11 @@ der Europäischen Union vorübergehend und gelegentlich auszuüben.
 1.  dass die antragstellende Person in der Bundesrepublik Deutschland als
     Hebamme rechtmäßig niedergelassen ist,
 
-
 2.  dass der antragstellenden Person die Ausübung des Hebammenberufs
     nicht, auch nicht vorübergehend, untersagt ist und
 
-
 3.  dass die antragstellende Person über die berufliche Qualifikation
     verfügt, die für die Ausübung des Hebammenberufs erforderlich ist.
-
-
-
 
 
 ## Teil 6 - Zuständigkeiten und Aufgaben der Behörden
@@ -1791,15 +1610,15 @@ zuständigen Behörden.
 des Landes, in dem die antragstellende Person die staatliche Prüfung
 abgelegt hat.
 
-(3) Die Entscheidung nach § 5 Absatz 2 in Verbindung mit Teil 4 trifft
-die zuständige Behörde des Landes, in dem der Beruf der Hebamme
-ausgeübt werden soll.
+(3) Die Entscheidung nach § 5 Absatz 2 in Verbindung mit Teil 4
+trifft die zuständige Behörde des Landes, in dem der Beruf der Hebamme
+partiell oder vollständig ausgeübt werden soll.
 
 (4) Die Aufgaben nach Teil 5 Abschnitt 1 nimmt die zuständige Behörde
 des Landes wahr, in dem die Dienstleistung erbracht werden soll oder
 erbracht worden ist. Die Aufgaben nach Teil 5 Abschnitt 2 nimmt die
 zuständige Behörde des Landes wahr, in dem die antragstellende Person
-den Beruf der Hebamme ausübt.
+den Beruf der Hebamme partiell oder vollständig ausübt.
 
 
 ### § 65 Unterrichtungs- und Überprüfungspflichten
@@ -1811,21 +1630,15 @@ zuständigen Behörden des Herkunftsstaates, wenn
 1.  sich diese Person eines Verhaltens schuldig gemacht hat, welches sich
     auf die Ausübung des Hebammenberufs auswirken kann,
 
-
 2.  die Erlaubnis nach diesem Gesetz zurückgenommen oder widerrufen worden
     ist oder das Ruhen der Erlaubnis nach diesem Gesetz angeordnet worden
     ist,
 
-
 3.  dieser Person die Ausübung des Hebammenberufs untersagt worden ist
     oder
 
-
 4.  in Bezug auf diese Person Tatsachen vorliegen, die eine der in den
     Nummern 1 bis 3 genannten Sanktionen oder Maßnahmen rechtfertigen.
-
-
-
 
 (2) Erhält die zuständige Behörde eines Landes Auskünfte von der
 zuständigen Behörde eines Aufnahmestaates, die sich auf die Ausübung
@@ -1834,42 +1647,33 @@ Gesetzes auswirken könnten, so hat sie
 
 1.  die Richtigkeit der ihr übermittelten Auskünfte zu überprüfen,
 
-
 2.  zu entscheiden, ob und in welchem Umfang weitere Überprüfungen
     durchzuführen sind, und
 
-
 3.  die zuständige Behörde des Aufnahmestaates zu unterrichten über die
     Konsequenzen, die aus den übermittelten Auskünften zu ziehen sind.
-
-
-
 
 (3) Die Länder teilen dem Bundesministerium für Gesundheit mit, welche
 Behörden zuständig sind für
 
 1.  die Anerkennung von Berufsqualifikationen nach Teil 4,
 
-
 2.  die Entgegennahme der Meldung über eine Dienstleistungserbringung nach
     § 61 oder
 
-
 3.  sonstige Entscheidungen, die im Zusammenhang mit der Richtlinie
     2005/36/EG stehen.
-
-
 
 Das Bundesministerium für Gesundheit unterrichtet die anderen
 Mitgliedstaaten, die anderen Vertragsstaaten, die gleichgestellten
 Staaten und die Europäische Kommission unverzüglich über die Benennung
 dieser Behörden.
 
-(4) Die für die Entscheidungen nach diesem Gesetz zuständigen Behörden
-und Stellen übermitteln dem Bundesministerium für Gesundheit
-statistische Aufstellungen über die getroffenen Entscheidungen, die
-die Europäische Kommission für den nach Artikel 60 Absatz 1 der
-Richtlinie 2005/36/EG erforderlichen Bericht benötigt. Das
+(4) Die für die Entscheidungen nach diesem Gesetz zuständigen
+Behörden und Stellen übermitteln dem Bundesministerium für Gesundheit
+statistische Aufstellungen über die getroffenen Entscheidungen,
+die die Europäische Kommission für den nach Artikel 60 Absatz 1
+der Richtlinie 2005/36/EG erforderlichen Bericht benötigt. Das
 Bundesministerium für Gesundheit leitet die ihm übermittelten
 statistischen Aufstellungen an die Europäische Kommission weiter.
 
@@ -1884,37 +1688,25 @@ der folgenden Entscheidungen getroffen worden ist:
 1.  der Widerruf, die Rücknahme oder die Anordnung des Ruhens der
     Erlaubnis, sofern sie sofort vollziehbar oder unanfechtbar sind,
 
-
 2.  das durch unanfechtbare gerichtliche Entscheidung getroffene Verbot
     der Ausübung des Hebammenberufs oder
 
-
 3.  das durch gerichtliche Entscheidung getroffene vorläufige
     Berufsverbot.
-
-
-
 
 (2) Die Warnmitteilung enthält folgende Angaben:
 
 1.  die zur Identifizierung der betroffenen Person erforderlichen Angaben,
     insbesondere Name, Vorname, Geburtsdatum und Geburtsort,
 
-
 2.  den Beruf der betroffenen Person,
-
 
 3.  Angaben über die Behörde oder das Gericht, die oder das die
     Entscheidung getroffen hat,
 
-
 4.  den Umfang der Entscheidung und
 
-
 5.  den Zeitraum, in dem die Entscheidung gilt.
-
-
-
 
 (3) Die Warnmitteilung erfolgt unverzüglich, spätestens jedoch drei
 Tage
@@ -1922,11 +1714,7 @@ Tage
 1.  nach Eintritt der Unanfechtbarkeit einer Entscheidung nach Absatz 1
     Nummer 1 oder 2 oder
 
-
 2.  nach Bekanntgabe einer Entscheidung nach Absatz 1 Nummer 3.
-
-
-
 
 (4) Für die Warnmitteilung ist das Binnenmarkt-Informationssystem zu
 verwenden, das eingerichtet worden ist durch die Verordnung (EU) Nr.
@@ -1937,10 +1725,10 @@ Kommission („IMI-Verordnung“) (ABl. L 316 vom 14.11.2012, S. 1).
 
 (5) Gleichzeitig mit der Warnmitteilung unterrichtet die Behörde, die
 die Warnmitteilung getätigt hat, die betroffene Person schriftlich
-über die Warnmitteilung und deren Inhalt. Der Unterrichtung hat sie
-eine Rechtsbehelfsbelehrung beizufügen. Wird ein Rechtsbehelf gegen
-die Warnmitteilung eingelegt, ergänzt die Behörde, die die
-Warnmitteilung getätigt hat, die Warnmitteilung um einen
+über die Warnmitteilung und deren Inhalt. Der Unterrichtung hat
+sie eine Rechtsbehelfsbelehrung beizufügen. Wird ein Rechtsbehelf
+gegen die Warnmitteilung eingelegt, ergänzt die Behörde, die
+die Warnmitteilung getätigt hat, die Warnmitteilung um einen
 entsprechenden Hinweis.
 
 
@@ -1953,12 +1741,8 @@ anderen Vertragsstaaten und der gleichgestellten Staaten über
 1.  die Aufhebung einer in § 66 Absatz 1 genannten Entscheidung und das
     Datum der Aufhebung,
 
-
 2.  die Änderung des Zeitraums, für den eine in § 66 Absatz 1 genannte
     Entscheidung gilt.
-
-
-
 
 (2) Für die Unterrichtung ist das Binnenmarkt-Informationssystem zu
 verwenden.
@@ -1967,15 +1751,15 @@ verwenden.
 ### § 68 Löschung einer Warnmitteilung
 
 Die zuständige Behörde, die die Warnmitteilung getätigt hat, löscht
-die Warnmitteilung im Binnenmarkt-
-Informationssystem              unverzüglich, spätestens jedoch drei
-Tage nach Aufhebung der in § 66 Absatz 1 genannten Entscheidung.
+die Warnmitteilung im Binnenmarkt-Informationssystem unverzüglich,
+spätestens jedoch drei Tage nach Aufhebung der in § 66 Absatz 1
+genannten Entscheidung.
 
 
 ### § 69 Unterrichtung über gefälschte Berufsqualifikationsnachweise
 
-(1) Wird gerichtlich festgestellt, dass eine Person bei ihrem Antrag
-auf Erteilung der Erlaubnis nach § 5 gefälschte
+(1) Wird gerichtlich festgestellt, dass eine Person bei
+ihrem Antrag auf Erteilung der Erlaubnis nach § 5 gefälschte
 Berufsqualifikationsnachweise vorgelegt hat, unterrichtet die
 zuständige Behörde die zuständigen Stellen der Mitgliedstaaten, der
 anderen Vertragsstaaten und der gleichgestellten Staaten über
@@ -1984,21 +1768,12 @@ anderen Vertragsstaaten und der gleichgestellten Staaten über
 
     a)  Namen und Vornamen,
 
-
     b)  Geburtsdatum,
-
 
     c)  Geburtsort und
 
-
-
-
-
 2.  den Umstand, dass diese Person gefälschte
     Berufsqualifikationsnachweise vorgelegt hat.
-
-
-
 
 (2) Die Unterrichtung über die Fälschung erfolgt unverzüglich,
 spätestens jedoch drei Tage nach Unanfechtbarkeit der Feststellung.
@@ -2006,9 +1781,9 @@ Für die Unterrichtung über die Fälschung ist das Binnenmarkt-
 Informationssystem zu verwenden.
 
 (3) Gleichzeitig mit der Unterrichtung über die Fälschung unterrichtet
-die Behörde, die die Unterrichtung über die Fälschung vorgenommen hat,
-die betroffene Person schriftlich über die Unterrichtung über die
-Fälschung und deren Inhalt. Der Unterrichtung hat sie eine
+die Behörde, die die Unterrichtung über die Fälschung vorgenommen
+hat, die betroffene Person schriftlich über die Unterrichtung über
+die Fälschung und deren Inhalt. Der Unterrichtung hat sie eine
 Rechtsbehelfsbelehrung beizufügen. Wird ein Rechtsbehelf gegen die
 Unterrichtung über die Fälschung eingelegt, so ergänzt die Stelle, die
 die Unterrichtung über die Fälschung getätigt hat, die Unterrichtung
@@ -2018,28 +1793,25 @@ die Unterrichtung über die Fälschung getätigt hat, die Unterrichtung
 ### § 70 Verwaltungszusammenarbeit bei Dienstleistungserbringung
 
 (1) Übt eine dienstleistungserbringende Person im Geltungsbereich
-dieses Gesetzes den Hebammenberuf aus oder führt die Berufsbezeichnung
-„Hebamme“, ohne dass die Voraussetzungen nach Teil 5 vorliegen,
-unterrichtet die zuständige Behörde unverzüglich die zuständige
-Behörde des Staates, in dem die dienstleistungserbringende Person
-niedergelassen ist, über den Verstoß.
+dieses Gesetzes den Hebammenberuf partiell oder vollständig
+aus oder führt die Berufsbezeichnung „Hebamme“, ohne dass die
+Voraussetzungen nach Teil 5 vorliegen, unterrichtet die zuständige
+Behörde unverzüglich die zuständige Behörde des Staates, in dem
+die dienstleistungserbringende Person niedergelassen ist, über den
+Verstoß.
 
 (2) Hat die zuständige Behörde berechtigte Zweifel an den von der
-dienstleistungsberechtigten Person vorgelegten Dokumenten, so ist sie
-berechtigt von der zuständigen Behörde des Staates, in dem die
-dienstleistungserbringende Person niedergelassen ist, folgende
+dienstleistungsberechtigten Person vorgelegten Dokumenten, so ist
+sie berechtigt von der zuständigen Behörde des Staates, in dem
+die dienstleistungserbringende Person niedergelassen ist, folgende
 Informationen anzufordern:
 
 1.  Informationen darüber, ob die Niederlassung der
     dienstleistungserbringenden Person in diesem Staat rechtmäßig ist, und
 
-
 2.  Informationen darüber, ob gegen die dienstleistungserbringende Person
     berufsbezogene disziplinarische oder strafrechtliche Sanktionen
     vorliegen.
-
-
-
 
 (3) Auf Anforderung der zuständigen Behörden eines anderen
 Mitgliedstaates, eines anderen Vertragsstaates oder eines
@@ -2050,16 +1822,11 @@ Artikel 56 der Richtlinie 2005/36/EG der anfordernden Behörde
     Person im Hebammenberuf in der Bundesrepublik Deutschland rechtmäßig
     ist,
 
-
 2.  Informationen über die gute Führung der dienstleistungserbringenden
     Person und
 
-
 3.  Informationen darüber, ob berufsbezogene disziplinarische oder
     strafrechtliche Sanktionen vorliegen.
-
-
-
 
 
 ## Teil 7 - Verordnungsermächtigung
@@ -2074,16 +1841,13 @@ bedarf, Folgendes zu regeln:
 1.  die Mindestanforderungen an das Studium nach Teil 3 einschließlich des
     berufspraktischen Teils des Studiums,
 
-
 2.  das Nähere über die staatliche Prüfung nach § 24, insbesondere
     bundeseinheitliche Rahmenvorgaben für die inhaltliche Ausgestaltung
     der staatlichen Prüfung, das Prüfungsformat und die Durchführung der
     Prüfung,
 
-
 3.  die Urkunde für die Erlaubnis zum Führen der Berufsbezeichnung nach §
     5 Absatz 1,
-
 
 4.  für Inhaberinnen und Inhaber von Ausbildungsnachweisen, die eine
     Erlaubnis nach § 5 Absatz 2 in Verbindung mit Teil 4 dieses Gesetzes
@@ -2091,42 +1855,52 @@ bedarf, Folgendes zu regeln:
 
     a)  die Fristen für die Erteilung der Erlaubnis,
 
-
-    b)  das Verfahren bei der Prüfung der Voraussetzungen des § 5 Absatz 2
-        Nummer 2 und 3, insbesondere die von der antragstellenden Person
+    b)  das Verfahren bei der Prüfung der Voraussetzungen des § 5 Absatz
+        2 Nummer 2 und 3, insbesondere die von der antragstellenden Person
         vorzulegenden Nachweise und die Ermittlung durch die zuständige
         Behörde entsprechend Artikel 50 Absatz 1 bis 3a in Verbindung mit
         Anhang VII der Richtlinie 2005/36/EG,
-
 
     c)  die Pflicht von Inhabern anerkannter Berufsqualifikationen, nach
         Maßgabe des Artikels 52 Absatz 1 der Richtlinie 2005/36/EG die
         Berufsbezeichnung des Aufnahmestaates zu führen und deren etwaige
         Abkürzung zu verwenden,
 
-
     d)  die Regelungen zur Durchführung und zum Inhalt der Anpassungsmaßnahmen
         nach den §§ 58 und 59 dieses Gesetzes,
-
 
     e)  das Verfahren bei der Ausstellung eines Europäischen Berufsausweises
         nach § 53,
 
-
-
-
-
 5.  das Verfahren und das Nähere zu den Voraussetzungen der
-    Dienstleistungserbringung.
+    Dienstleistungserbringung,
 
+6.  für Berufsangehörige, die einen Antrag nach § 59a oder nach § 62a
+    stellen,
 
+    a)  das Verfahren und das Nähere zu den jeweiligen Voraussetzungen zur
+        partiellen Berufsausübung, insbesondere
 
+        aa) die Fristen für die Erteilung der Erlaubnis zur partiellen
+            Berufsausübung nach § 59a,
+
+        bb) das Verfahren bei der Prüfung der Voraussetzungen des § 59a,
+            insbesondere die von der antragstellenden Person vorzulegenden
+            Nachweise und die Ermittlung durch die zuständige Behörde entsprechend
+            Artikel 50 Absatz 1 bis 3a in Verbindung mit Anhang VII der Richtlinie
+            2005/36/EG,
+
+        cc) die Urkunde für die Erlaubnis zur partiellen Berufsausübung nach
+            § 59a,
+
+    b)  das Verfahren und das Nähere zu den Voraussetzungen der
+        Dienstleistungserbringung im Rahmen einer partiellen Berufsausübung.
 
 (2) Abweichungen durch Landesrecht von den Regelungen des
 Verwaltungsverfahrens in der auf der Grundlage der nach Absatz 1
-erlassenen Rechtsverordnung sind ausgeschlossen. Abweichend von Satz 1
-können die Länder Abweichungen von den durch Rechtsverordnung im Fall
-des § 81a des Aufenthaltsgesetzes erlassenen Fristenregelungen
+erlassenen Rechtsverordnung sind ausgeschlossen. Abweichend von Satz
+1 können die Länder Abweichungen von den durch Rechtsverordnung im
+Fall des § 81a des Aufenthaltsgesetzes erlassenen Fristenregelungen
 vorsehen.
 
 
@@ -2139,11 +1913,7 @@ vorsehen.
 
 1.  entgegen § 4 Absatz 1 Geburtshilfe leistet oder
 
-
 2.  ohne Erlaubnis nach § 5 die Berufsbezeichnung „Hebamme“ führt.
-
-
-
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu dreitausend
 Euro geahndet werden.
@@ -2167,8 +1937,8 @@ wurde.
 (1) Die außerhalb dieses Gesetzes für „Hebammen“ bestehenden
 Rechtsvorschriften sind auch auf „Entbindungspfleger“ anzuwenden.
 
-(2) Entbindungspfleger haben auf Antrag Anspruch auf Erteilung einer
-Erlaubnis nach § 5 mit der Berufsbezeichnung „Hebamme“. In der
+(2) Entbindungspfleger haben auf Antrag Anspruch auf Erteilung
+einer Erlaubnis nach § 5 mit der Berufsbezeichnung „Hebamme“. In der
 Erlaubnis ist auf die ihr zugrunde liegende Berufsqualifikation sowie
 das Datum der ursprünglichen Erteilung der Erlaubnis zum Führen der
 Berufsbezeichnung hinzuweisen.
@@ -2189,21 +1959,21 @@ die Verantwortung dafür, dass das Studienziel gemäß § 9 erreicht wird.
 
 Nach Maßgabe der §§ 77 und 78 kann die Ausbildung zur Hebamme oder zum
 Entbindungspfleger auch nach dem 31. Dezember 2019 auf der Grundlage
-der Vorschriften des Hebammengesetzes in der bis zum 31. Dezember 2019
-geltenden Fassung und der auf dieser Grundlage ergangenen
+der Vorschriften des Hebammengesetzes in der bis zum 31. Dezember
+2019 geltenden Fassung und der auf dieser Grundlage ergangenen
 Rechtsverordnung fortgesetzt oder begonnen werden.
 
 
 ### § 77 Abschluss begonnener fachschulischer Ausbildungen
 
-(1) Eine Ausbildung zur Hebamme oder zum Entbindungspfleger, die vor
-dem 31. Dezember 2022 begonnen wurde, kann bis zum 31. Dezember 2027
-auf der Grundlage der Vorschriften des Hebammengesetzes in der bis zum
-31\. Dezember 2019 geltenden Fassung abgeschlossen werden. Wer die
-Ausbildung erfolgreich abgeschlossen hat und die weiteren
-Voraussetzungen des § 2 Absatz 1 des Hebammengesetzes in der bis zum
-31\. Dezember 2019 geltenden Fassung erfüllt, erhält auf Antrag die
-Erlaubnis zum Führen der Berufsbezeichnung nach § 1 Absatz 1 des
+(1) Eine Ausbildung zur Hebamme oder zum Entbindungspfleger, die
+vor dem 31. Dezember 2022 begonnen wurde, kann bis zum 31. Dezember
+2027 auf der Grundlage der Vorschriften des Hebammengesetzes in der
+bis zum 31. Dezember 2019 geltenden Fassung abgeschlossen werden.
+Wer die Ausbildung erfolgreich abgeschlossen hat und die weiteren
+Voraussetzungen des § 2 Absatz 1 des Hebammengesetzes in der bis
+zum 31. Dezember 2019 geltenden Fassung erfüllt, erhält auf Antrag
+die Erlaubnis zum Führen der Berufsbezeichnung nach § 1 Absatz 1 des
 Hebammengesetzes in der bis zum 31. Dezember 2019 geltenden Fassung.
 Diese Erlaubnis gilt als Erlaubnis nach § 5.
 
@@ -2227,13 +1997,13 @@ automatische Anerkennung erfüllt.
 
 ### § 78 Abschluss begonnener Ausbildungen in Form von Modellvorhaben
 
-Eine Ausbildung zur Hebamme oder zum Entbindungspfleger, die vor dem
-31\. Dezember 2022 auf der Grundlage des § 6 Absatz 3 des
-Hebammengesetzes in der bis zum 31. Dezember 2019 geltenden Fassung in
-Form von Modellvorhaben begonnen wurde, kann bis zum 31. Dezember 2027
-auf der Grundlage der Vorschriften des Hebammengesetzes in der bis zum
-31\. Dezember 2019 geltenden Fassung abgeschlossen werden. Wer die
-Ausbildung erfolgreich abgeschlossen hat und die weiteren
+Eine Ausbildung zur Hebamme oder zum Entbindungspfleger, die
+vor dem 31. Dezember 2022 auf der Grundlage des § 6 Absatz 3 des
+Hebammengesetzes in der bis zum 31. Dezember 2019 geltenden Fassung
+in Form von Modellvorhaben begonnen wurde, kann bis zum 31. Dezember
+2027 auf der Grundlage der Vorschriften des Hebammengesetzes in der
+bis zum 31. Dezember 2019 geltenden Fassung abgeschlossen werden.
+Wer die Ausbildung erfolgreich abgeschlossen hat und die weiteren
 Voraussetzungen des § 2 Absatz 1 des Hebammengesetzes in der bis zum
 31\. Dezember 2019 geltenden Fassung erfüllt, erhält die Erlaubnis zum
 Führen der Berufsbezeichnung nach § 1 Absatz 1 des Hebammengesetzes in
@@ -2250,24 +2020,20 @@ gelten weiterhin als staatlich anerkannt
 
 1.  für die Durchführung der Ausbildung bis zum 31. Dezember 2027 und
 
-
 2.  für die Durchführung der praktischen Lehrveranstaltungen und der
     Praxisbegleitung im Rahmen von Kooperationen mit Hochschulen nach § 75
     bis zum 31. Dezember 2030.
-
-
-
 
 
 ### § 80 Evaluierung
 
 (1) Das Bundesministerium für Gesundheit evaluiert bis zum 31.
 Dezember 2035 auf wissenschaftlicher Grundlage die Wirkungen dieses
-Gesetzes. Die Evaluierung soll sich insbesondere auf die Umsetzung der
-vollständigen Akademisierung der Hebammenausbildung beziehen. Dies
-umfasst beispielsweise die Einrichtung von dualen Studiengängen und
-die Entwicklung der Zahl der Hebammenstudierenden. Gegenstand der
-Evaluierung ist insbesondere auch, wie die Länder ihren
+Gesetzes. Die Evaluierung soll sich insbesondere auf die Umsetzung
+der vollständigen Akademisierung der Hebammenausbildung beziehen.
+Dies umfasst beispielsweise die Einrichtung von dualen Studiengängen
+und die Entwicklung der Zahl der Hebammenstudierenden. Gegenstand
+der Evaluierung ist insbesondere auch, wie die Länder ihren
 Gestaltungsspielraum bei den Anforderungen an die Qualifikation der
 Lehrenden und der Studiengangsleitungen genutzt haben.
 

@@ -1,7 +1,5 @@
 ---
-Title: Gesetz über Maßnahmen zur Entlastung der öffentlichen Haushalte und zur Stabilisierung
-  der Finanzentwicklung in der Rentenversicherung sowie über die Verlängerung der
-  Investitionshilfeabgabe
+Title: Gesetz über Maßnahmen zur Entlastung der öffentlichen Haushalte und zur Stabilisierung der Finanzentwicklung in der Rentenversicherung sowie über die Verlängerung der Investitionshilfeabgabe
 jurabk: HBegleitG 1984
 layout: default
 origslug: hbegleitg_1984
@@ -16,6 +14,9 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 1983, 1532
+
+Fundstelle
+:   BGBl I: 1984, 107, 261
 
 Geändert durch
 :   Art. 31 G v. 8.5.2008 I 810
@@ -179,9 +180,9 @@ vom 9. Juli 1980 (BGBl. I S. 895) sinngemäß.
 
 (3) Anstelle der in § 7a Abs. 4 Satz 1 und 2 des
 Graduiertenförderungsgesetzes für die Rückzahlung der Darlehen
-genannten Beträge gelten die jeweils in § 18a Abs. 1 Satz 1 und 2 des
-Bundesausbildungsförderungsgesetzes festgesetzten Beträge; dabei ist
-das Einkommen abweichend von der Regelung des § 20 Abs. 3 der
+genannten Beträge gelten die jeweils in § 18a Abs. 1 Satz 1 und 2
+des Bundesausbildungsförderungsgesetzes festgesetzten Beträge; dabei
+ist das Einkommen abweichend von der Regelung des § 20 Abs. 3 der
 Graduiertenförderungsverordnung entsprechend § 21 BAföG zu bestimmen.
 
 
@@ -193,12 +194,9 @@ Graduiertenförderungsverordnung entsprechend § 21 BAföG zu bestimmen.
 
 4.  Übergangsvorschrift
 
-
-
-
-(1) Nummer 1 findet keine Anwendung für die bis zum 30. Juni 1985
-ernannten Beamten, Richter und Soldaten, die Grundwehrdienst oder
-Zivildienst geleistet haben, sofern die Ernennung wegen des
+(1) Nummer 1 findet keine Anwendung für die bis zum 30. Juni
+1985 ernannten Beamten, Richter und Soldaten, die Grundwehrdienst
+oder Zivildienst geleistet haben, sofern die Ernennung wegen des
 Grundwehrdienstes oder Zivildienstes nicht bis zum 31. Dezember 1983
 erfolgen konnte.
 
@@ -278,15 +276,15 @@ Dienstbezüge führen nicht zu einer Erhöhung dieses Betrages.
 (4) Artikel 1 Nr. 45, Artikel 2 Nr. 22 und Artikel 3 Nr. 26 sowie
 Artikel 36 Nr. 1 bis 8 treten mit Wirkung vom 1. Januar 1983 in Kraft.
 
-(5) Artikel 10 tritt mit Wirkung vom 1. Juli 1983 in Kraft. Hat ein
-erstattungspflichtiger Leistungsträger vor Verkündigung dieses
+(5) Artikel 10 tritt mit Wirkung vom 1. Juli 1983 in Kraft. Hat
+ein erstattungspflichtiger Leistungsträger vor Verkündigung dieses
 Gesetzes Leistungen erbracht, findet § 104 Abs. 2 des Zehnten Buches
 Sozialgesetzbuch keine Anwendung.
 
 (6) Artikel 24 Nr. 2 tritt am 30. Dezember 1983 in Kraft.
 
-(7) Artikel 1 Nr. 34 Buchstaben b und c, Artikel 2 Nr. 11 Buchstaben b
-und c und Artikel 3 Nr. 14 Buchstabe b und Nr. 15 treten am 31.
+(7) Artikel 1 Nr. 34 Buchstaben b und c, Artikel 2 Nr. 11 Buchstaben
+b und c und Artikel 3 Nr. 14 Buchstabe b und Nr. 15 treten am 31.
 Dezember 1983 in Kraft.
 
 (8) Artikel 20 Nr. 1, 2, 4 bis 8 und Artikel 21 treten am 1. April

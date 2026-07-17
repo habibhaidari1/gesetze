@@ -16,14 +16,13 @@ Fundstelle
 :   BGBl I: 1953, 591
 
 Neugefasst durch
-:   Bek. v. 16. 3.1976 I 546;
+:   Bek. v. 16.3.1976 I 546;
 
 Zuletzt geändert durch
 :   Art. 17 G v. 19.12.2008 I 2794
 
 
 ## Erster Teil - Grundlagen der Flurbereinigung
-
 
 
 ### § 1
@@ -38,37 +37,37 @@ nach diesem Gesetz neugeordnet werden (Flurbereinigung).
 
 (1) Die Flurbereinigung wird in einem behördlich geleiteten Verfahren
 innerhalb eines bestimmten Gebietes (Flurbereinigungsgebiet) unter
-Mitwirkung der Gesamtheit der beteiligten Grundeigentümer und der
-Träger öffentlicher Belange sowie der landwirtschaftlichen
+Mitwirkung der Gesamtheit der beteiligten Grundeigentümer und
+der Träger öffentlicher Belange sowie der landwirtschaftlichen
 Berufsvertretung (§ 109) durchgeführt.
 
-(2) Die Durchführung der Flurbereinigung ist von den Ländern als eine
-besonders vordringliche Maßnahme zu betreiben. Sie bestimmen, welche
-Fachbehörden Flurbereinigungsbehörden und obere
+(2) Die Durchführung der Flurbereinigung ist von den Ländern
+als eine besonders vordringliche Maßnahme zu betreiben. Sie
+bestimmen, welche Fachbehörden Flurbereinigungsbehörden und obere
 Flurbereinigungsbehörden sind und setzen ihre Dienstbezirke fest.
 
-(3) Die Länder können Befugnisse, die nach diesem Gesetz der für die
-Flurbereinigung zuständigen obersten Landesbehörde zustehen, der
-oberen Flurbereinigungsbehörde übertragen. Sie können ferner
+(3) Die Länder können Befugnisse, die nach diesem Gesetz der für
+die Flurbereinigung zuständigen obersten Landesbehörde zustehen,
+der oberen Flurbereinigungsbehörde übertragen. Sie können ferner
 Befugnisse, die nach diesem Gesetz der oberen Flurbereinigungsbehörde
 zustehen, der Flurbereinigungsbehörde übertragen; dies gilt nicht für
 die Befugnisse nach § 41 Abs. 3 und § 58 Abs. 3.
 
-(4) Die Länder können Aufgaben und Befugnisse, die nach diesem Gesetz
-der Flurbereinigungsbehörde zustehen, auf die obere
+(4) Die Länder können Aufgaben und Befugnisse, die nach diesem
+Gesetz der Flurbereinigungsbehörde zustehen, auf die obere
 Flurbereinigungsbehörde übertragen.
 
 
 ### § 3
 
-(1) Für die Flurbereinigung ist die Flurbereinigungsbehörde örtlich
-zuständig, in deren Bezirk das Flurbereinigungsgebiet liegt. Die obere
-Flurbereinigungsbehörde kann ausnahmsweise eine andere als die örtlich
-zuständige Flurbereinigungsbehörde beauftragen; liegt das
-Flurbereinigungsgebiet in dem Bezirk einer anderen oberen
-Flurbereinigungsbehörde, so bestimmt die für die Flurbereinigung
-zuständige oberste Landesbehörde die zuständige
-Flurbereinigungsbehörde und die zuständige obere
+(1) Für die Flurbereinigung ist die Flurbereinigungsbehörde
+örtlich zuständig, in deren Bezirk das Flurbereinigungsgebiet
+liegt. Die obere Flurbereinigungsbehörde kann ausnahmsweise
+eine andere als die örtlich zuständige Flurbereinigungsbehörde
+beauftragen; liegt das Flurbereinigungsgebiet in dem Bezirk
+einer anderen oberen Flurbereinigungsbehörde, so bestimmt die
+für die Flurbereinigung zuständige oberste Landesbehörde die
+zuständige Flurbereinigungsbehörde und die zuständige obere
 Flurbereinigungsbehörde.
 
 (2) Erstreckt sich das Flurbereinigungsgebiet über die Bezirke
@@ -87,23 +86,23 @@ obere Flurbereinigungsbehörde in gegenseitigem Einvernehmen.
 
 ### § 4
 
-Die obere Flurbereinigungsbehörde kann die Flurbereinigung anordnen
-und das Flurbereinigungsgebiet feststellen, wenn sie eine
-Flurbereinigung für erforderlich und das Interesse der Beteiligten für
-gegeben hält (Flurbereinigungsbeschluß); der Beschluß ist zu
+Die obere Flurbereinigungsbehörde kann die Flurbereinigung
+anordnen und das Flurbereinigungsgebiet feststellen, wenn sie eine
+Flurbereinigung für erforderlich und das Interesse der Beteiligten
+für gegeben hält (Flurbereinigungsbeschluß); der Beschluß ist zu
 begründen.
 
 
 ### § 5
 
 (1) Vor der Anordnung der Flurbereinigung sind die voraussichtlich
-beteiligten Grundstückseigentümer in geeigneter Weise eingehend über
-das geplante Flurbereinigungsverfahren einschließlich der
+beteiligten Grundstückseigentümer in geeigneter Weise eingehend
+über das geplante Flurbereinigungsverfahren einschließlich der
 voraussichtlich entstehenden Kosten aufzuklären.
 
 (2) Die landwirtschaftliche Berufsvertretung, die zuständige
-Landesplanungsbehörde, die Gemeinde und der Gemeindeverband sowie die
-übrigen von der für die Landwirtschaft zuständigen obersten
+Landesplanungsbehörde, die Gemeinde und der Gemeindeverband sowie
+die übrigen von der für die Landwirtschaft zuständigen obersten
 Landesbehörde zu bestimmenden Organisationen und Behörden sollen
 gehört werden.
 
@@ -117,9 +116,9 @@ berührenden Planungen beabsichtigt sind oder bereits feststehen.
 
 ### § 6
 
-(1) In dem entscheidenden Teil des Flurbereinigungsbeschlusses sind
-Name und Sitz der Teilnehmergemeinschaft (§ 16) festzusetzen. Die
-Aufforderung zur Anmeldung unbekannter Rechte (§ 14) und die
+(1) In dem entscheidenden Teil des Flurbereinigungsbeschlusses
+sind Name und Sitz der Teilnehmergemeinschaft (§ 16) festzusetzen.
+Die Aufforderung zur Anmeldung unbekannter Rechte (§ 14) und die
 Bestimmungen über Nutzungsänderungen (§§ 34 und 85 Nr. 5 und 6) können
 in den entscheidenden Teil des Beschlusses aufgenommen werden.
 
@@ -127,9 +126,9 @@ in den entscheidenden Teil des Beschlusses aufgenommen werden.
 bekanntzumachen.
 
 (3) Der Beschluß mit Begründung ist in den Gemeinden, in denen
-beteiligte Grundstücke liegen (Flurbereinigungsgemeinden), und, soweit
-erforderlich (§ 110), in den angrenzenden Gemeinden zwei Wochen lang
-nach der Bekanntmachung zur Einsichtnahme für die Beteiligten
+beteiligte Grundstücke liegen (Flurbereinigungsgemeinden), und,
+soweit erforderlich (§ 110), in den angrenzenden Gemeinden zwei Wochen
+lang nach der Bekanntmachung zur Einsichtnahme für die Beteiligten
 auszulegen. Hierauf ist in der Bekanntmachung hinzuweisen.
 
 
@@ -145,8 +144,8 @@ Grundstücke, soweit sie nicht ausdrücklich ausgeschlossen werden.
 
 ### § 8
 
-(1) Geringfügige Änderungen des Flurbereinigungsgebietes kann die
-Flurbereinigungsbehörde anordnen. § 4 zweiter Halbsatz gilt
+(1) Geringfügige Änderungen des Flurbereinigungsgebietes kann
+die Flurbereinigungsbehörde anordnen. § 4 zweiter Halbsatz gilt
 entsprechend. Die Anordnung braucht nicht bekanntgemacht zu werden.
 Sie ist den an der Änderung beteiligten Grundstückseigentümern
 mitzuteilen.
@@ -175,9 +174,7 @@ nötigenfalls unter Aufwendung von öffentlichen Mitteln.
 ## Zweiter Teil - Die Beteiligten und ihre Rechte
 
 
-
 ### Erster Abschnitt - Die einzelnen Beteiligten
-
 
 
 #### § 10
@@ -188,44 +185,32 @@ Am Flurbereinigungsverfahren sind beteiligt (Beteiligte):
     gehörenden Grundstücke sowie die den Eigentümern gleichstehenden
     Erbbauberechtigten;
 
-
 2.  als Nebenbeteiligte:
 
     a)  Gemeinden und Gemeindeverbände, in deren Bezirk Grundstücke vom
         Flurbereinigungsverfahren betroffen werden;
 
-
     b)  andere Körperschaften des öffentlichen Rechts, die Land für
         gemeinschaftliche oder öffentliche Anlagen erhalten (§§ 39 und 40)
         oder deren Grenzen geändert werden (§ 58 Abs. 2);
 
-
     c)  Wasser- und Bodenverbände, deren Gebiet mit dem Flurbereinigungsgebiet
         räumlich zusammenhängt und dieses beeinflußt oder von ihm beeinflußt
         wird;
-
 
     d)  Inhaber von Rechten an den zum Flurbereinigungsgebiet gehörenden
         Grundstücken oder von Rechten an solchen Rechten oder von persönlichen
         Rechten, die zum Besitz oder zur Nutzung solcher Grundstücke
         berechtigen oder die Benutzung solcher Grundstücke beschränken;
 
-
     e)  Empfänger neuer Grundstücke nach den §§ 54 und 55 bis zum Eintritt des
         neuen Rechtszustandes (§ 61 Satz 2);
 
-
     f)  Eigentümer von nicht zum Flurbereinigungsgebiet gehörenden
         Grundstücken, denen ein Beitrag zu den Unterhaltungs- oder
-        Ausführungskosten auferlegt wird (§ 42 Abs. 3 und § 106) oder die zur
-        Errichtung fester Grenzzeichen an der Grenze des
+        Ausführungskosten auferlegt wird (§ 42 Abs. 3 und § 106)
+        oder die zur Errichtung fester Grenzzeichen an der Grenze des
         Flurbereinigungsgebietes mitzuwirken haben (§ 56).
-
-
-
-
-
-
 
 
 #### § 11
@@ -238,29 +223,29 @@ bis 14 zu ermitteln.
 
 (1) Für die Ermittlung der Beteiligten sind die Eintragungen im
 Grundbuch maßgebend. Die Flurbereinigungsbehörde kann das Eigentum
-oder andere Recht an Grundstücken für das Verfahren als nachgewiesen
+oder andere Rechte an Grundstücken für das Verfahren als nachgewiesen
 ansehen, wenn derjenige, der sich auf ein solches Recht beruft, es
 durch eine öffentliche Urkunde glaubhaft macht oder eine Bescheinigung
 der Gemeinde vorlegt, daß er das Grundstück wie ein Eigentümer besitzt
 oder das Recht ausübt. Meldet ein anderer entgegenstehende Rechte bei
 der Flurbereinigungsbehörde an, so gilt § 13.
 
-(2) Die Flurbereinigungsbehörde teilt dem Grundbuchamt und der für die
-Führung des Liegenschaftskatasters zuständigen Behörde die Anordnung
-des Flurbereinigungsverfahrens einschließlich der in das Verfahren
-einbezogenen Grundstücke (§ 4), die Änderungen des
-Flurbereinigungsgebiets (§ 8), die Einstellung des
+(2) Die Flurbereinigungsbehörde teilt dem Grundbuchamt und der
+für die Führung des Liegenschaftskatasters zuständigen Behörde
+die Anordnung des Flurbereinigungsverfahrens einschließlich
+der in das Verfahren einbezogenen Grundstücke (§ 4), die
+Änderungen des Flurbereinigungsgebiets (§ 8), die Einstellung des
 Flurbereinigungsverfahrens (§ 9), den Zeitpunkt des Eintritts des
 neuen Rechtszustands (§§ 61 bis 63) und die Schlußfeststellung (§ 149)
 mit, dem Grundbuchamt zudem die Abgabe der Unterlagen an die für die
 Führung des Liegenschaftskatasters zuständige Behörde (§ 81 Abs. 2).
 
-(3) Das Grundbuchamt hat die Flurbereinigungsbehörde bis zum Zeitpunkt
-des Wirksamwerdens der Schlußfeststellung von allen Eintragungen zu
-benachrichtigen, die nach dem Zeitpunkt der Anordnung des
-Flurbereinigungsverfahrens im Grundbuch der betroffenen Grundstücke
-vorgenommen sind oder vorgenommen werden, soweit nicht die
-Flurbereinigungsbehörde auf die Benachrichtigung verzichtet; es
+(3) Das Grundbuchamt hat die Flurbereinigungsbehörde bis zum
+Zeitpunkt des Wirksamwerdens der Schlußfeststellung von allen
+Eintragungen zu benachrichtigen, die nach dem Zeitpunkt der
+Anordnung des Flurbereinigungsverfahrens im Grundbuch der betroffenen
+Grundstücke vorgenommen sind oder vorgenommen werden, soweit nicht
+die Flurbereinigungsbehörde auf die Benachrichtigung verzichtet; es
 benachrichtigt die Flurbereinigungsbehörde von der Eintragung neuer
 Eigentümer der an das Flurbereinigungsgebiet angrenzenden Grundstücke,
 soweit die Flurbereinigungsbehörde dem Grundbuchamt die Bezeichnung
@@ -268,9 +253,9 @@ solcher Grundstücke zu diesem Zweck mitgeteilt hat.
 
 (4) Die für die Führung des Liegenschaftskatasters zuständige Behörde
 hat die Flurbereinigungsbehörde bis zum Zeitpunkt des Wirksamwerdens
-der Schlußfeststellung von allen Fortführungen zu benachrichtigen, die
-nach dem Zeitpunkt der Anordnung des Flurbereinigungsverfahrens in den
-Nachweisen der betroffenen Flurstücke im Liegenschaftskataster
+der Schlußfeststellung von allen Fortführungen zu benachrichtigen,
+die nach dem Zeitpunkt der Anordnung des Flurbereinigungsverfahrens
+in den Nachweisen der betroffenen Flurstücke im Liegenschaftskataster
 ausgeführt worden sind, soweit nicht die Flurbereinigungsbehörde auf
 die Benachrichtigung verzichtet.
 
@@ -307,21 +292,21 @@ wenn diese Rechte zur Erhaltung ihrer Wirksamkeit gegenüber dem
 
 (1) Beteiligte, die nicht nach Maßgabe der §§ 12 und 13 ermittelt
 werden, sind durch öffentliche Bekanntmachung aufzufordern, innerhalb
-von drei Monaten Rechte, die aus dem Grundbuch nicht ersichtlich sind,
-aber zur Beteiligung am Flurbereinigungsverfahren berechtigen, bei der
-Flurbereinigungsbehörde anzumelden. Auf Verlangen der
+von drei Monaten Rechte, die aus dem Grundbuch nicht ersichtlich
+sind, aber zur Beteiligung am Flurbereinigungsverfahren berechtigen,
+bei der Flurbereinigungsbehörde anzumelden. Auf Verlangen der
 Flurbereinigungsbehörde hat der Anmeldende sein Recht innerhalb einer
 von der Behörde zu setzenden Frist nachzuweisen. Nach fruchtlosem
 Ablauf der Frist ist der Anmeldende nicht mehr zu beteiligen.
 
-(2) Werden Rechte erst nach Ablauf der in Absatz 1 bezeichneten
-Fristen angemeldet oder nachgewiesen, so kann die
+(2) Werden Rechte erst nach Ablauf der in Absatz 1
+bezeichneten Fristen angemeldet oder nachgewiesen, so kann die
 Flurbereinigungsbehörde die bisherigen Verhandlungen und Festsetzungen
 gelten lassen.
 
 (3) Der Inhaber eines in Absatz 1 bezeichneten Rechts muß die Wirkung
-eines vor der Anmeldung eingetretenen Fristablaufs ebenso gegen sich
-gelten lassen wie der Beteiligte, demgegenüber die Frist durch
+eines vor der Anmeldung eingetretenen Fristablaufs ebenso gegen
+sich gelten lassen wie der Beteiligte, demgegenüber die Frist durch
 Bekanntgabe des Verwaltungsaktes zuerst in Lauf gesetzt worden ist.
 
 (4) Auf die rechtlichen Wirkungen nach den Absätzen 2 und 3 ist in der
@@ -338,7 +323,6 @@ wird.
 
 
 ### Zweiter Abschnitt - Die Teilnehmergemeinschaft
-
 
 
 #### § 16
@@ -367,19 +351,19 @@ geleistet werden, soweit diese nichts anderes anordnet.
 
 (1) Die Teilnehmergemeinschaft nimmt die gemeinschaftlichen
 Angelegenheiten der Teilnehmer wahr. Sie hat insbesondere die
-gemeinschaftlichen Anlagen herzustellen und zu unterhalten (§ 42) und
-die erforderlichen Bodenverbesserungen auszuführen, soweit nicht der
-Flurbereinigungsplan (§ 58) anderes bestimmt oder die Ausführung und
-Unterhaltung einzelnen Beteiligten oder einem Wasser- und Bodenverband
-überlassen werden. Sie hat ferner die im Verfahren festgesetzten
-Zahlungen zu leisten und zu fordern sowie die übrigen nicht der
-Flurbereinigungsbehörde obliegenden Aufgaben einschließlich der zur
-Durchführung der Flurbereinigung erforderlichen Vorarbeiten zu
-erfüllen. Sie kann mit den Vorarbeiten geeignete Stellen oder
+gemeinschaftlichen Anlagen herzustellen und zu unterhalten (§ 42)
+und die erforderlichen Bodenverbesserungen auszuführen, soweit
+nicht der Flurbereinigungsplan (§ 58) anderes bestimmt oder die
+Ausführung und Unterhaltung einzelnen Beteiligten oder einem Wasser-
+und Bodenverband überlassen werden. Sie hat ferner die im Verfahren
+festgesetzten Zahlungen zu leisten und zu fordern sowie die übrigen
+nicht der Flurbereinigungsbehörde obliegenden Aufgaben einschließlich
+der zur Durchführung der Flurbereinigung erforderlichen Vorarbeiten
+zu erfüllen. Sie kann mit den Vorarbeiten geeignete Stellen oder
 sachkundige Personen beauftragen.
 
-(2) Die Länder können weitere Aufgaben und Befugnisse, die nach diesem
-Gesetz der Flurbereinigungsbehörde zustehen, der
+(2) Die Länder können weitere Aufgaben und Befugnisse, die
+nach diesem Gesetz der Flurbereinigungsbehörde zustehen, der
 Teilnehmergemeinschaft übertragen.
 
 (3) Die Teilnehmergemeinschaft kann ihre Angelegenheiten, insbesondere
@@ -394,10 +378,10 @@ Flurbereinigungsbehörde.
 
 (1) Die Teilnehmergemeinschaft kann die Teilnehmer nur zu Beiträgen in
 Geld (Geldbeiträge) oder in Sachen, Werken, Diensten oder in anderen
-Leistungen (Sachbeiträge) heranziehen, soweit die Aufwendungen (§ 105)
-dem Interesse der Teilnehmer dienen. Die Beiträge sind von den
-Teilnehmern nach dem Verhältnis des Wertes ihrer neuen Grundstücke zu
-leisten, soweit nicht im Flurbereinigungsplan anderes festgesetzt
+Leistungen (Sachbeiträge) heranziehen, soweit die Aufwendungen (§
+105) dem Interesse der Teilnehmer dienen. Die Beiträge sind von den
+Teilnehmern nach dem Verhältnis des Wertes ihrer neuen Grundstücke
+zu leisten, soweit nicht im Flurbereinigungsplan anderes festgesetzt
 wird. Solange der Maßstab für die Beitragspflicht noch nicht
 feststeht, bestimmt die Flurbereinigungsbehörde einen vorläufigen
 Beitragsmaßstab, nach dem Vorschüsse zu erheben sind.
@@ -415,8 +399,8 @@ Teilnehmer befreien.
 
 #### § 20
 
-Die Beitrags- und Vorschußpflicht ruht als öffentliche Last auf den im
-Flurbereinigungsgebiet liegenden Grundstücken. Die einzelnen
+Die Beitrags- und Vorschußpflicht ruht als öffentliche Last auf
+den im Flurbereinigungsgebiet liegenden Grundstücken. Die einzelnen
 Grundstücke haften jedoch nur in der Höhe der auf sie entfallenden
 Anteile der berechneten Beiträge und Vorschüsse. Das gleiche gilt für
 die Ausgleichs- und Erstattungspflicht in den Fällen des § 44 Abs. 3
@@ -446,8 +430,8 @@ Berufsvertretung bestellen.
 (5) Für jedes Mitglied des Vorstandes ist ein Stellvertreter zu wählen
 oder zu bestellen.
 
-(6) Bei erheblichen Änderungen des Flurbereinigungsgebietes (§ 8 Abs.
-2) bestimmt die Flurbereinigungsbehörde, ob und inwieweit
+(6) Bei erheblichen Änderungen des Flurbereinigungsgebietes (§
+8 Abs. 2) bestimmt die Flurbereinigungsbehörde, ob und inwieweit
 Vorstandsmitglieder und Stellvertreter abberufen oder neu gewählt
 (bestellt) werden sollen.
 
@@ -457,14 +441,14 @@ abweichend regeln und Wahlperioden einführen.
 
 #### § 22
 
-(1) Der Vorstand kann die Teilnehmer zu Versammlungen einberufen; er
-muß dies tun, wenn ein Drittel der Teilnehmer oder die
+(1) Der Vorstand kann die Teilnehmer zu Versammlungen einberufen;
+er muß dies tun, wenn ein Drittel der Teilnehmer oder die
 Flurbereinigungsbehörde es verlangt. Die Flurbereinigungsbehörde ist
 zu den Versammlungen einzuladen.
 
-(2) Die Versammlung der Teilnehmer kann zu den Fragen, zu denen der
-Vorstand zu hören ist, Stellung nehmen. Die Stellungnahme ist, wenn
-sich der Vorstand ihr nicht anschließen will, der
+(2) Die Versammlung der Teilnehmer kann zu den Fragen, zu denen
+der Vorstand zu hören ist, Stellung nehmen. Die Stellungnahme
+ist, wenn sich der Vorstand ihr nicht anschließen will, der
 Flurbereinigungsbehörde mitzuteilen. Der Vorstand hat der Versammlung
 der Teilnehmer auf Verlangen Auskunft über seine Tätigkeit und über
 den Stand des Verfahrens zu geben.
@@ -472,14 +456,14 @@ den Stand des Verfahrens zu geben.
 
 #### § 23
 
-(1) Die Versammlung der Teilnehmer kann Mitglieder des Vorstandes oder
-Stellvertreter dadurch abberufen, daß sie an deren Stelle mit der
+(1) Die Versammlung der Teilnehmer kann Mitglieder des Vorstandes
+oder Stellvertreter dadurch abberufen, daß sie an deren Stelle mit der
 Mehrheit der anwesenden Teilnehmer neue Mitglieder oder Stellvertreter
 wählt. In der Versammlung muß mindestens die Hälfte der Teilnehmer
 anwesend sein.
 
-(2) Die Länder können bei Anwendung des § 18 Abs. 2 die Abberufung von
-Mitgliedern des Vorstandes oder deren Stellvertretern von der
+(2) Die Länder können bei Anwendung des § 18 Abs. 2 die Abberufung
+von Mitgliedern des Vorstandes oder deren Stellvertretern von der
 Zustimmung der Flurbereinigungsbehörde abhängig machen.
 
 (3) Die Flurbereinigungsbehörde kann nach Anhörung der
@@ -492,11 +476,11 @@ Widerspruch an die obere Flurbereinigungsbehörde zu.
 Stellvertreter können nicht wiedergewählt werden.
 
 (5) Ist der Vorstand durch Ausscheiden von Mitgliedern und
-Stellvertretern nicht mehr beschlußfähig (§ 26 Abs. 2), so kann die
-Flurbereinigungsbehörde nach Anhörung der landwirtschaftlichen
+Stellvertretern nicht mehr beschlußfähig (§ 26 Abs. 2), so kann
+die Flurbereinigungsbehörde nach Anhörung der landwirtschaftlichen
 Berufsvertretung geeignete Personen beauftragen, die Rechte und
-Pflichten der ausgeschiedenen Mitglieder des Vorstandes bis zur Wahl
-neuer Mitglieder wahrzunehmen. Die Wahl ist unverzüglich
+Pflichten der ausgeschiedenen Mitglieder des Vorstandes bis zur
+Wahl neuer Mitglieder wahrzunehmen. Die Wahl ist unverzüglich
 durchzuführen.
 
 
@@ -510,14 +494,14 @@ wird; die Entschädigung zahlt die Teilnehmergemeinschaft.
 
 #### § 25
 
-(1) Der Vorstand führt die Geschäfte der Teilnehmergemeinschaft. Ihm
-obliegt auch die Ausführung der Aufgaben, die der
+(1) Der Vorstand führt die Geschäfte der Teilnehmergemeinschaft.
+Ihm obliegt auch die Ausführung der Aufgaben, die der
 Teilnehmergemeinschaft gemäß der Vorschrift in § 18 Abs. 2 übertragen
 worden sind.
 
 (2) Der Vorstand ist von der Flurbereinigungsbehörde über den
-Fortschritt der Flurbereinigungsarbeiten laufend zu unterrichten, zu
-wichtigen gemeinschaftlichen Angelegenheiten zu hören und zur
+Fortschritt der Flurbereinigungsarbeiten laufend zu unterrichten,
+zu wichtigen gemeinschaftlichen Angelegenheiten zu hören und zur
 Mitarbeit heranzuziehen.
 
 
@@ -528,9 +512,9 @@ ein weiteres Mitglied zum Stellvertreter des Vorsitzenden, soweit
 nicht nach § 21 Abs. 7 eine abweichende Regelung erfolgt ist.
 
 (2) Der Vorstand ist beschlußfähig, wenn er von seinem Vorsitzenden
-oder der Flurbereinigungsbehörde einberufen und mindestens die Hälfte
-der Mitglieder oder ihrer Stellvertreter anwesend ist. Er faßt seine
-Beschlüsse mit der Mehrheit der anwesenden Mitglieder; bei
+oder der Flurbereinigungsbehörde einberufen und mindestens die
+Hälfte der Mitglieder oder ihrer Stellvertreter anwesend ist. Er
+faßt seine Beschlüsse mit der Mehrheit der anwesenden Mitglieder; bei
 Stimmengleichheit gibt die Stimme des Vorsitzenden den Ausschlag.
 
 (3) Der Vorsitzende führt die Vorstandsbeschlüsse aus und vertritt die
@@ -540,15 +524,14 @@ Teilnehmergemeinschaft gerichtlich und außergerichtlich.
 ### Dritter Abschnitt - Verband der Teilnehmergemeinschaften
 
 
-
 #### § 26a
 
 (1) Mehrere Teilnehmergemeinschaften können sich zu einem Verband
 zusammenschließen, soweit die gemeinsame Durchführung der ihnen nach §
 18 obliegenden Aufgaben zweckmäßig ist. Der Verband tritt nach Maßgabe
 seiner Satzung an die Stelle der einzelnen Teilnehmergemeinschaften.
-Er entsteht mit der öffentlichen Bekanntmachung der Satzung durch die
-obere Flurbereinigungsbehörde und ist eine Körperschaft des
+Er entsteht mit der öffentlichen Bekanntmachung der Satzung durch
+die obere Flurbereinigungsbehörde und ist eine Körperschaft des
 öffentlichen Rechts.
 
 (2) Die Satzung des Verbandes wird von der Mitgliederversammlung mit
@@ -557,9 +540,9 @@ der Mehrheit der abgegebenen Stimmen beschlossen.
 (3) Der Zusammenschluß und die Satzung bedürfen der Genehmigung der
 oberen Flurbereinigungsbehörde.
 
-(4) Kommt eine Satzung durch Beschluß nach Absatz 2 nicht zustande, so
-stellt die obere Flurbereinigungsbehörde eine Satzung auf. Die für die
-Flurbereinigung zuständige oberste Landesbehörde setzt die Satzung
+(4) Kommt eine Satzung durch Beschluß nach Absatz 2 nicht zustande,
+so stellt die obere Flurbereinigungsbehörde eine Satzung auf. Die für
+die Flurbereinigung zuständige oberste Landesbehörde setzt die Satzung
 fest.
 
 (5) Eine Teilnehmergemeinschaft kann mit Zustimmung der oberen
@@ -581,9 +564,9 @@ Berufsvertretung bestellen.
 (2) Der Verband kann zur Erfüllung seiner Aufgaben die ihm
 angehörenden Teilnehmergemeinschaften zu Beiträgen heranziehen; ihm
 kann durch die Satzung das Recht übertragen werden, die nach § 19
-beitragspflichtigen einzelnen Teilnehmer unmittelbar zur Leistung der
-Beiträge heranzuziehen. In diesem Falle ist dem Verband durch die
-Satzung die Kassen- und Buchführung mit voller Verantwortung zu
+beitragspflichtigen einzelnen Teilnehmer unmittelbar zur Leistung
+der Beiträge heranzuziehen. In diesem Falle ist dem Verband durch
+die Satzung die Kassen- und Buchführung mit voller Verantwortung zu
 übertragen.
 
 (3) § 21 Abs. 7 und die §§ 24 bis 26 gelten entsprechend.
@@ -607,23 +590,23 @@ Verband vorgenommenen Geschäfte. § 9 Abs. 2 gilt entsprechend.
 
 Der Verband untersteht der Aufsicht der Flurbereinigungsbehörde.
 Erstrecken sich die den Verband bildenden Teilnehmergemeinschaften
-über den Bezirk mehrerer Flurbereinigungsbehörden, so bestimmt die
-obere Flurbereinigungsbehörde die für die Aufsicht zuständige
-Flurbereinigungsbehörde. Erstrecken sich die den Verband bildenden
-Teilnehmergemeinschaften über den Bezirk mehrerer oberer
+über den Bezirk mehrerer Flurbereinigungsbehörden, so bestimmt
+die obere Flurbereinigungsbehörde die für die Aufsicht zuständige
+Flurbereinigungsbehörde. Erstrecken sich die den Verband
+bildenden Teilnehmergemeinschaften über den Bezirk mehrerer oberer
 Flurbereinigungsbehörden, so bestimmt die für die Flurbereinigung
 zuständige oberste Landesbehörde die für die Aufsicht zuständige
 Flurbereinigungsbehörde. Erstrecken sich die den Verband bildenden
-Teilnehmergemeinschaften über verschiedene Länder, so bestimmen die
-für die Flurbereinigung zuständigen obersten Landesbehörden die
+Teilnehmergemeinschaften über verschiedene Länder, so bestimmen
+die für die Flurbereinigung zuständigen obersten Landesbehörden die
 zuständige Flurbereinigungsbehörde in gegenseitigem Einvernehmen. § 17
 gilt im übrigen entsprechend.
 
 
 #### § 26e
 
-(1) Mehrere Verbände können sich zur Erfüllung der ihnen nach den §§
-26a bis 26c obliegenden Aufgaben zu einem Gesamtverband
+(1) Mehrere Verbände können sich zur Erfüllung der ihnen nach
+den §§ 26a bis 26c obliegenden Aufgaben zu einem Gesamtverband
 zusammenschließen. Der Gesamtverband tritt nach Maßgabe seiner Satzung
 an die Stelle der einzelnen Verbände. Er entsteht mit der öffentlichen
 Bekanntmachung der Satzung durch die für die Flurbereinigung
@@ -636,8 +619,8 @@ mit der Mehrheit der abgegebenen Stimmen beschlossen.
 (3) Der Zusammenschluß und die Satzung bedürfen der Genehmigung der
 für die Flurbereinigung zuständigen obersten Landesbehörde.
 
-(4) Kommt eine Satzung durch Beschluß nach Absatz 2 nicht zustande, so
-stellt die für die Flurbereinigung zuständige oberste Landesbehörde
+(4) Kommt eine Satzung durch Beschluß nach Absatz 2 nicht zustande,
+so stellt die für die Flurbereinigung zuständige oberste Landesbehörde
 die Satzung auf und setzt sie fest.
 
 (5) § 26a Abs. 5 Satz 1 zweiter Halbsatz gilt entsprechend mit der
@@ -645,8 +628,8 @@ Maßgabe, daß an die Stelle der oberen Flurbereinigungsbehörde die für
 die Flurbereinigung zuständige oberste Landesbehörde tritt.
 
 (6) Der Gesamtverband hat einen Vorstand, der in der
-Mitgliederversammlung mit der Mehrheit der abgegebenen Stimmen gewählt
-wird. Die Zahl der Vorstandsmitglieder wird durch die für die
+Mitgliederversammlung mit der Mehrheit der abgegebenen Stimmen
+gewählt wird. Die Zahl der Vorstandsmitglieder wird durch die für die
 Flurbereinigung zuständige oberste Landesbehörde bestimmt. Kommt eine
 Wahl nicht zustande und verspricht ein neuer Wahltermin keinen Erfolg,
 so kann die für die Flurbereinigung zuständige oberste Landesbehörde
@@ -661,13 +644,12 @@ Flurbereinigung zuständigen obersten Landesbehörde. § 17 gilt im
 ### Vierter Abschnitt - Wertermittlungsverfahren
 
 
-
 #### § 27
 
-Um die Teilnehmer mit Land von gleichem Wert abfinden zu können, ist
-der Wert der alten Grundstücke zu ermitteln. Die Wertermittlung hat in
-der Weise zu erfolgen, daß der Wert der Grundstücke eines Teilnehmers
-im Verhältnis zu dem Wert aller Grundstücke des
+Um die Teilnehmer mit Land von gleichem Wert abfinden zu können,
+ist der Wert der alten Grundstücke zu ermitteln. Die Wertermittlung
+hat in der Weise zu erfolgen, daß der Wert der Grundstücke eines
+Teilnehmers im Verhältnis zu dem Wert aller Grundstücke des
 Flurbereinigungsgebietes zu bestimmen ist.
 
 
@@ -675,10 +657,10 @@ Flurbereinigungsgebietes zu bestimmen ist.
 
 (1) Für landwirtschaftlich genutzte Grundstücke ist das Wertverhältnis
 in der Regel nach dem Nutzen zu ermitteln, den sie bei gemeinüblicher
-ordnungsmäßiger Bewirtschaftung jedem Besitzer ohne Rücksicht auf ihre
-Entfernung vom Wirtschaftshofe oder von der Ortslage nachhaltig
-gewähren können. Hierbei sind die Ergebnisse einer Bodenschätzung nach
-dem Bodenschätzungsgesetz vom 20. Dezember 2007 (BGBl. I S. 3150,
+ordnungsmäßiger Bewirtschaftung jedem Besitzer ohne Rücksicht auf
+ihre Entfernung vom Wirtschaftshofe oder von der Ortslage nachhaltig
+gewähren können. Hierbei sind die Ergebnisse einer Bodenschätzung
+nach dem Bodenschätzungsgesetz vom 20. Dezember 2007 (BGBl. I S. 3150,
 3176) in der jeweils geltenden Fassung zugrunde zu legen; Abweichungen
 sind zulässig.
 
@@ -695,9 +677,9 @@ Anlagen hat auf der Grundlage des Verkehrswertes zu erfolgen.
 (2) Der Verkehrswert wird durch den Preis bestimmt, der in dem
 Zeitpunkt, auf den sich die Ermittlung bezieht, im gewöhnlichen
 Geschäftsverkehr nach den Eigenschaften, der sonstigen Beschaffenheit
-und der Lage des Grundstücks ohne Rücksicht auf ungewöhnliche oder
-persönliche Verhältnisse zu erzielen wäre; Wertänderungen an baulichen
-Anlagen, die durch die Aussicht auf die Durchführung der
+und der Lage des Grundstücks ohne Rücksicht auf ungewöhnliche
+oder persönliche Verhältnisse zu erzielen wäre; Wertänderungen an
+baulichen Anlagen, die durch die Aussicht auf die Durchführung der
 Flurbereinigung entstanden sind, bleiben außer Betracht.
 
 (3) Bei bebauten Grundstücken ist der Verkehrswert des Bodenanteils
@@ -705,8 +687,8 @@ und der Bauteile getrennt zu ermitteln, wenn dies auf Grund von
 Vergleichspreisen möglich ist; die Verkehrswerte sind gesondert
 anzugeben.
 
-(4) Die Ermittlung des Verkehrswertes der baulichen Anlagen soll nur
-dann vorgenommen werden, wenn die baulichen Anlagen einem neuen
+(4) Die Ermittlung des Verkehrswertes der baulichen Anlagen soll
+nur dann vorgenommen werden, wenn die baulichen Anlagen einem neuen
 Eigentümer zugeteilt werden.
 
 
@@ -727,8 +709,8 @@ aufgestellten Liste der als Sachverständige geeigneten Personen aus
 und leitet die Wertermittlung. Der Vorstand soll der Wertermittlung
 beiwohnen.
 
-(2) Sind zu einer Wertermittlung Kenntnisse erforderlich, die über die
-allgemeine landwirtschaftliche Sachkunde hinausgehen, so sind
+(2) Sind zu einer Wertermittlung Kenntnisse erforderlich, die über
+die allgemeine landwirtschaftliche Sachkunde hinausgehen, so sind
 besondere anerkannte Sachverständige beizuziehen.
 
 
@@ -752,33 +734,27 @@ regeln.
 ### Fünfter Abschnitt - Zeitweilige Einschränkungen des Eigentums
 
 
-
 #### § 34
 
-(1) Von der Bekanntgabe des Flurbereinigungsbeschlusses bis zur
-Unanfechtbarkeit des Flurbereinigungsplanes gelten folgende
+(1) Von der Bekanntgabe des Flurbereinigungsbeschlusses bis
+zur Unanfechtbarkeit des Flurbereinigungsplanes gelten folgende
 Einschränkungen:
 
 1.  In der Nutzungsart der Grundstücke dürfen ohne Zustimmung der
     Flurbereinigungsbehörde nur Änderungen vorgenommen werden, die zum
     ordnungsmäßigen Wirtschaftsbetrieb gehören.
 
-
 2.  Bauwerke, Brunnen, Gräben, Einfriedungen, Hangterrassen und ähnliche
     Anlagen dürfen nur mit Zustimmung der Flurbereinigungsbehörde
     errichtet, hergestellt, wesentlich verändert oder beseitigt werden.
 
-
 3.  Obstbäume, Beerensträucher, Rebstöcke, Hopfenstöcke, einzelne Bäume,
     Hecken, Feld- und Ufergehölze dürfen nur in Ausnahmefällen, soweit
     landeskulturelle Belange, insbesondere des Naturschutzes und der
-    Landschaftspflege, nicht beeinträchtigt werden, mit Zustimmung der
-    Flurbereinigungsbehörde beseitigt werden. Andere gesetzliche
+    Landschaftspflege, nicht beeinträchtigt werden, mit Zustimmung
+    der Flurbereinigungsbehörde beseitigt werden. Andere gesetzliche
     Vorschriften über die Beseitigung von Rebstöcken und Hopfenstöcken
     bleiben unberührt.
-
-
-
 
 (2) Sind entgegen den Vorschriften des Absatzes 1 Nr. 1 und 2
 Änderungen vorgenommen oder Anlagen hergestellt oder beseitigt worden,
@@ -786,15 +762,15 @@ so können sie im Flurbereinigungsverfahren unberücksichtigt bleiben.
 Die Flurbereinigungsbehörde kann den früheren Zustand gemäß § 137
 wiederherstellen lassen, wenn dies der Flurbereinigung dienlich ist.
 
-(3) Sind Eingriffe entgegen der Vorschrift des Absatzes 1 Nr. 3
-vorgenommen worden, so muß die Flurbereinigungsbehörde
+(3) Sind Eingriffe entgegen der Vorschrift des Absatzes 1
+Nr. 3 vorgenommen worden, so muß die Flurbereinigungsbehörde
 Ersatzpflanzungen anordnen.
 
 (4) Das Erfordernis der Zustimmung und die Folgen seiner
 Nichtbeachtung sind öffentlich bekanntzumachen.
 
-(5) Ist die Bekanntmachung nach Absatz 4 nicht gemäß § 6 Abs. 1 in den
-entscheidenden Teil des Flurbereinigungsbeschlusses aufgenommen
+(5) Ist die Bekanntmachung nach Absatz 4 nicht gemäß § 6 Abs. 1 in
+den entscheidenden Teil des Flurbereinigungsbeschlusses aufgenommen
 worden, so treten die Rechtswirkungen gemäß den Absätzen 1 bis 3 erst
 mit der besonderen Bekanntmachung gemäß Absatz 4 ein.
 
@@ -807,8 +783,8 @@ betreten und die nach ihrem Ermessen erforderlichen Arbeiten auf ihnen
 vorzunehmen.
 
 (2) Soweit der hierdurch verursachte Schaden den Durchschnitt
-erheblich übersteigt, hat die Flurbereinigungsbehörde eine angemessene
-Entschädigung festzusetzen. Die Entschädigung trägt die
+erheblich übersteigt, hat die Flurbereinigungsbehörde eine
+angemessene Entschädigung festzusetzen. Die Entschädigung trägt die
 Teilnehmergemeinschaft; falls die Flurbereinigung nicht angeordnet
 wird, trägt sie das Land.
 
@@ -816,22 +792,21 @@ wird, trägt sie das Land.
 #### § 36
 
 (1) Wird es aus dringenden Gründen erforderlich, vor der Ausführung
-oder zur Vorbereitung und zur Durchführung von Änderungen des
-Flurbereinigungsplanes den Besitz oder die Nutzung von Grundstücken
-oder die Ausübung anderer Rechte zu regeln, so kann die
-Flurbereinigungsbehörde eine vorläufige Anordnung erlassen und
+oder zur Vorbereitung und zur Durchführung von Änderungen
+des Flurbereinigungsplanes den Besitz oder die Nutzung von
+Grundstücken oder die Ausübung anderer Rechte zu regeln, so kann
+die Flurbereinigungsbehörde eine vorläufige Anordnung erlassen und
 erlassene Anordnungen aufheben oder ändern. Zum Ausgleich von Härten
 kann sie angemessene Entschädigungen festsetzen. Die Entschädigungen
 trägt die Teilnehmergemeinschaft.
 
-(2) Soweit der Zustand eines Grundstücks für die Ermittlung des Wertes
-und für die Bemessung der Entschädigung von Bedeutung ist, hat ihn die
-Flurbereinigungsbehörde, nötigenfalls unter Zuziehung von
+(2) Soweit der Zustand eines Grundstücks für die Ermittlung des
+Wertes und für die Bemessung der Entschädigung von Bedeutung ist,
+hat ihn die Flurbereinigungsbehörde, nötigenfalls unter Zuziehung von
 Sachverständigen, rechtzeitig festzustellen.
 
 
 ## Dritter Teil - Neugestaltung des Flurbereinigungsgebietes
-
 
 
 ### § 37
@@ -846,25 +821,25 @@ neuzeitlichen betriebswirtschaftlichen Gesichtspunkten zusammenzulegen
 und nach Lage, Form und Größe zweckmäßig zu gestalten; Wege, Straßen,
 Gewässer und andere gemeinschaftliche Anlagen sind zu schaffen,
 bodenschützende sowie -verbessernde und landschaftsgestaltende
-Maßnahmen vorzunehmen und alle sonstigen Maßnahmen zu treffen, durch
-welche die Grundlagen der Wirtschaftsbetriebe verbessert, der
-Arbeitsaufwand vermindert und die Bewirtschaftung erleichtert werden.
-Maßnahmen der Dorferneuerung können durchgeführt werden; durch
+Maßnahmen vorzunehmen und alle sonstigen Maßnahmen zu treffen,
+durch welche die Grundlagen der Wirtschaftsbetriebe verbessert,
+der Arbeitsaufwand vermindert und die Bewirtschaftung erleichtert
+werden. Maßnahmen der Dorferneuerung können durchgeführt werden; durch
 Bebauungspläne und ähnliche Planungen wird die Zuziehung der Ortslage
 zur Flurbereinigung nicht ausgeschlossen. Die rechtlichen Verhältnisse
 sind zu ordnen.
 
-(2) Die Flurbereinigungsbehörde hat bei der Durchführung der Maßnahmen
-nach Absatz 1 die öffentlichen Interessen zu wahren, vor allem den
-Erfordernissen der Raumordnung, der Landesplanung und einer geordneten
-städtebaulichen Entwicklung, des Umweltschutzes, des Naturschutzes und
-der Landschaftspflege, des Denkmalschutzes, der Erholung, der
-Wasserwirtschaft einschließlich Wasserversorgung und
-Abwasserbeseitigung, der Fischerei, des Jagdwesens, der
+(2) Die Flurbereinigungsbehörde hat bei der Durchführung der
+Maßnahmen nach Absatz 1 die öffentlichen Interessen zu wahren, vor
+allem den Erfordernissen der Raumordnung, der Landesplanung und
+einer geordneten städtebaulichen Entwicklung, des Umweltschutzes,
+des Naturschutzes und der Landschaftspflege, des Denkmalschutzes,
+der Erholung, der Wasserwirtschaft einschließlich Wasserversorgung
+und Abwasserbeseitigung, der Fischerei, des Jagdwesens, der
 Energieversorgung, des öffentlichen Verkehrs, der landwirtschaftlichen
-Siedlung, der Kleinsiedlung, des Kleingartenwesens und der Gestaltung
-des Orts- und Landschaftsbildes sowie einer möglichen bergbaulichen
-Nutzung und der Erhaltung und Sicherung mineralischer
+Siedlung, der Kleinsiedlung, des Kleingartenwesens und der
+Gestaltung des Orts- und Landschaftsbildes sowie einer möglichen
+bergbaulichen Nutzung und der Erhaltung und Sicherung mineralischer
 Rohstoffvorkommen Rechnung zu tragen.
 
 (3) Die Veränderung natürlicher Gewässer darf nur aus
@@ -876,31 +851,30 @@ erfolgen.
 ### § 38
 
 Die Flurbereinigungsbehörde stellt im Benehmen mit der
-landwirtschaftlichen Berufsvertretung und den beteiligten Behörden und
-Organisationen, insbesondere den von der zuständigen
+landwirtschaftlichen Berufsvertretung und den beteiligten
+Behörden und Organisationen, insbesondere den von der zuständigen
 landwirtschaftlichen Behörde bestellten Fachberatern für
 Flurbereinigung, allgemeine Grundsätze für die zweckmäßige
 Neugestaltung des Flurbereinigungsgebietes auf. Dabei sind die
 Ergebnisse der Vorplanung nach § 1 Abs. 2 des Gesetzes über die
 Gemeinschaftsaufgabe "Verbesserung der Agrarstruktur und des
 Küstenschutzes" vom 3. September 1969 (Bundesgesetzbl. I S. 1573),
-geändert durch das Gesetz zur Änderung der Gesetze über die
+*geändert durch das Gesetz zur Änderung der Gesetze über die
 Gemeinschaftsaufgaben vom 23. Dezember 1971 (Bundesgesetzbl. I S.
-2140),              und Vorplanungen der landwirtschaftlichen
-Berufsvertretung oder anderer landwirtschaftlicher Stellen sowie des
-Naturschutzes und der Landschaftspflege zu erörtern und in dem
-möglichen Umfange zu berücksichtigen. Die Erfordernisse der
-Raumordnung, der Landesplanung und des Städtebaues sind zu beachten.
+2140),* und Vorplanungen der landwirtschaftlichen Berufsvertretung
+oder anderer landwirtschaftlicher Stellen sowie des Naturschutzes
+und der Landschaftspflege zu erörtern und in dem möglichen Umfange zu
+berücksichtigen. Die Erfordernisse der Raumordnung, der Landesplanung
+und des Städtebaues sind zu beachten.
 
 
 ### Erster Abschnitt - Gemeinschaftliche und öffentliche Anlagen
 
 
-
 #### § 39
 
-(1) Im Flurbereinigungsgebiet sind Wege, Straßen, Gewässer und andere
-zur gemeinschaftlichen Benutzung oder einem gemeinschaftlichen
+(1) Im Flurbereinigungsgebiet sind Wege, Straßen, Gewässer und
+andere zur gemeinschaftlichen Benutzung oder einem gemeinschaftlichen
 Interesse dienende Anlagen zu schaffen, soweit es der Zweck der
 Flurbereinigung erfordert. Sie sind gemeinschaftliche Anlagen.
 
@@ -915,14 +889,14 @@ Für Anlagen, die dem öffentlichen Verkehr oder einem anderen
 Einrichtungen von Eisenbahnen, Straßenbahnen und sonstigen Unternehmen
 des öffentlichen Verkehrs, Wasserversorgungs-, Energieversorgungs-,
 Abwasserverwertungs-, Abwasserbeseitigungs-, Windschutz-, Klimaschutz-
-und Feuerschutzanlagen, Anlagen zum Schutze gegen Immissionen oder
-Emissionen, Spiel- und Sportstätten sowie Anlagen, die dem
-Naturschutz, der Landschaftspflege oder der Erholung dienen, kann Land
-in verhältnismäßig geringem Umfange im Flurbereinigungsverfahren
+und Feuerschutzanlagen, Anlagen zum Schutze gegen Immissionen
+oder Emissionen, Spiel- und Sportstätten sowie Anlagen, die dem
+Naturschutz, der Landschaftspflege oder der Erholung dienen, kann
+Land in verhältnismäßig geringem Umfange im Flurbereinigungsverfahren
 bereitgestellt werden. Durch den Flurbereinigungsplan wird bestimmt,
 wem das Land zu Eigentum zugeteilt wird. Soweit eine Anlage nicht
-zugleich dem wirtschaftlichen Interesse der Teilnehmer dient, hat der
-Eigentümer der Anlage für das Land und entstehende Schäden einen
+zugleich dem wirtschaftlichen Interesse der Teilnehmer dient, hat
+der Eigentümer der Anlage für das Land und entstehende Schäden einen
 angemessenen Kapitalbetrag an die Teilnehmergemeinschaft zu leisten.
 
 
@@ -937,12 +911,12 @@ Anlagen (Wege- und Gewässerplan mit landschaftspflegerischem
 Begleitplan).
 
 (2) Der Plan ist mit den Trägern öffentlicher Belange einschließlich
-der landwirtschaftlichen Berufsvertretung in einem Anhörungstermin zu
-erörtern. Einwendungen gegen den Plan müssen zur Vermeidung des
-Ausschlusses in dem Anhörungstermin vorgebracht werden; darauf ist in
-der Ladung und in dem Termin hinzuweisen. Die Ladungsfrist beträgt
-einen Monat. Der Ladung ist ein Auszug aus dem Plan beizufügen, der
-die Festsetzungen enthält, durch welche die Träger öffentlicher
+der landwirtschaftlichen Berufsvertretung in einem Anhörungstermin
+zu erörtern. Einwendungen gegen den Plan müssen zur Vermeidung des
+Ausschlusses in dem Anhörungstermin vorgebracht werden; darauf ist
+in der Ladung und in dem Termin hinzuweisen. Die Ladungsfrist beträgt
+einen Monat. Der Ladung ist ein Auszug aus dem Plan beizufügen,
+der die Festsetzungen enthält, durch welche die Träger öffentlicher
 Belange berührt werden.
 
 (3) Der Plan ist durch die obere Flurbereinigungsbehörde
@@ -951,8 +925,8 @@ festzustellen.
 (4) Der Plan kann ohne vorherige Durchführung eines
 Planfeststellungsverfahrens von der oberen Flurbereinigungsbehörde
 genehmigt werden, wenn mit Einwendungen nicht zu rechnen ist oder
-Einwendungen nicht erhoben oder nachträglich ausgeräumt werden. Die
-Planfeststellung kann bei Änderungen und Erweiterungen von
+Einwendungen nicht erhoben oder nachträglich ausgeräumt werden.
+Die Planfeststellung kann bei Änderungen und Erweiterungen von
 unwesentlicher Bedeutung unterbleiben. Fälle von unwesentlicher
 Bedeutung liegen besonders vor, wenn Rechte anderer nicht beeinflußt
 werden oder wenn mit den Beteiligten entsprechende Vereinbarungen
@@ -969,8 +943,8 @@ rechtlichen Beziehungen zwischen dem Träger des Vorhabens und den
 durch den Plan Betroffenen rechtsgestaltend geregelt. Die Rechte der
 Teilnehmer nach den §§ 44, 58 und 59 bleiben unberührt.
 
-(6) Der Planfeststellungsbeschluß ist dem Träger des Vorhabens und dem
-Vorstand der Teilnehmergemeinschaft mit Rechtsbehelfsbelehrung
+(6) Der Planfeststellungsbeschluß ist dem Träger des Vorhabens und
+dem Vorstand der Teilnehmergemeinschaft mit Rechtsbehelfsbelehrung
 zuzustellen.
 
 
@@ -992,9 +966,9 @@ Gemeinde zugeteilt werden, wenn diese zustimmt. Die Länder können eine
 abweichende Regelung treffen.
 
 (3) Eigentümern von Grundstücken, die nicht zum Flurbereinigungsgebiet
-gehören, aber durch Anlagen wesentliche Vorteile haben, kann durch den
-Flurbereinigungsplan ein den Vorteilen entsprechender Anteil an den
-Kosten der Unterhaltung solcher Anlagen auferlegt werden. Der
+gehören, aber durch Anlagen wesentliche Vorteile haben, kann durch
+den Flurbereinigungsplan ein den Vorteilen entsprechender Anteil an
+den Kosten der Unterhaltung solcher Anlagen auferlegt werden. Der
 Kostenanteil ist an den Unterhaltungspflichtigen zu zahlen. Er haftet
 als öffentliche Last auf den Grundstücken, für die er festgesetzt ist.
 
@@ -1002,25 +976,24 @@ als öffentliche Last auf den Grundstücken, für die er festgesetzt ist.
 #### § 43
 
 Sollen Anlagen im Sinne des Gesetzes über Wasser- und Bodenverbände
-(Wasserverbandsgesetz) vom 12. Februar 1991 (BGBl. I S. 405) im
-Flurbereinigungsverfahren ausgeführt werden, so kann die
+(Wasserverbandsgesetz) vom 12. Februar 1991 (BGBl. I S. 405)
+im Flurbereinigungsverfahren ausgeführt werden, so kann die
 Flurbereinigungsbehörde zur Ausführung und Unterhaltung dieser Anlagen
-einen Wasser- und Bodenverband nach den Vorschriften über Wasser- und
-Bodenverbände gründen. Während des Flurbereinigungsverfahrens sind die
-Flurbereinigungsbehörde die Aufsichtsbehörde und die obere
+einen Wasser- und Bodenverband nach den Vorschriften über Wasser-
+und Bodenverbände gründen. Während des Flurbereinigungsverfahrens
+sind die Flurbereinigungsbehörde die Aufsichtsbehörde und die obere
 Flurbereinigungsbehörde die obere Aufsichtsbehörde des Verbandes.
 
 
 ### Zweiter Abschnitt - Grundsätze für die Abfindung
 
 
-
 #### § 44
 
 (1) Jeder Teilnehmer ist für seine Grundstücke unter Berücksichtigung
 der nach § 47 vorgenommenen Abzüge mit Land von gleichem Wert
-abzufinden. Bei der Bemessung der Landabfindung sind die nach den §§
-27 bis 33 ermittelten Werte zugrunde zu legen. Maßgebend ist der
+abzufinden. Bei der Bemessung der Landabfindung sind die nach den
+§§ 27 bis 33 ermittelten Werte zugrunde zu legen. Maßgebend ist der
 Zeitpunkt, in dem der neue Rechtszustand an die Stelle des bisherigen
 tritt (§ 61 Satz 2). In den Fällen der vorläufigen Besitzeinweisung
 ist der Zeitpunkt maßgebend, in dem diese wirksam wird.
@@ -1037,8 +1010,8 @@ zugänglich gemacht werden; die erforderliche Vorflut ist, soweit
 möglich, zu schaffen.
 
 (4) Die Landabfindung eines Teilnehmers soll in der Nutzungsart,
-Beschaffenheit, Bodengüte und Entfernung vom Wirtschaftshofe oder von
-der Ortslage seinen alten Grundstücken entsprechen, soweit es mit
+Beschaffenheit, Bodengüte und Entfernung vom Wirtschaftshofe oder
+von der Ortslage seinen alten Grundstücken entsprechen, soweit es mit
 einer großzügigen Zusammenlegung des Grundbesitzes nach neuzeitlichen
 betriebswirtschaftlichen Erkenntnissen vereinbar ist.
 
@@ -1050,19 +1023,19 @@ des Teilnehmers. Die Kosten der Änderung sind Ausführungskosten (§
 (6) Die Landabfindungen können im Wege des Austausches in einem
 anderen Flurbereinigungsgebiet ausgewiesen werden, soweit es für die
 Durchführung der Flurbereinigung zweckmäßig ist und in den betroffenen
-Flurbereinigungsgebieten der neue Rechtszustand gleichzeitig eintritt.
-Die Landabfindungen werden in diesen Fällen durch die
+Flurbereinigungsgebieten der neue Rechtszustand gleichzeitig
+eintritt. Die Landabfindungen werden in diesen Fällen durch die
 Flurbereinigungspläne der Flurbereinigungsgebiete festgestellt, in
 denen sie ausgewiesen werden.
 
-(7) Sind die betroffenen Rechtsinhaber einverstanden, können die
-Flurbereinigungsbehörde und die Gemeinde (Umlegungsstelle) in
-gegenseitigem Einvernehmen den Eigentümer eines in einem
-Flurbereinigungsgebiet gelegenen Grundstücks mit einem Grundstück in
-einem Gebiet abfinden, in dem eine Umlegung nach Maßgabe des Vierten
-Teils des Ersten Kapitels des Baugesetzbuchs durchgeführt wird. Das
-gleiche gilt, wenn der Eigentümer eines in einem Umlegungsgebiet
-gelegenen Grundstücks mit einem Grundstück in einem
+(7) Sind die betroffenen Rechtsinhaber einverstanden, können
+die Flurbereinigungsbehörde und die Gemeinde (Umlegungsstelle)
+in gegenseitigem Einvernehmen den Eigentümer eines in einem
+Flurbereinigungsgebiet gelegenen Grundstücks mit einem Grundstück
+in einem Gebiet abfinden, in dem eine Umlegung nach Maßgabe des
+Vierten Teils des Ersten Kapitels des Baugesetzbuchs durchgeführt
+wird. Das gleiche gilt, wenn der Eigentümer eines in einem
+Umlegungsgebiet gelegenen Grundstücks mit einem Grundstück in einem
 Flurbereinigungsgebiet abgefunden werden soll. Im übrigen ist Absatz 6
 entsprechend anzuwenden.
 
@@ -1074,50 +1047,38 @@ werden:
 
 1.  Hof- und Gebäudeflächen;
 
-
 2.  Parkanlagen;
-
 
 3.  Naturdenkmale, Naturschutzgebiete sowie geschützte Landschaftsteile
     und geschützte Landschaftsbestandteile;
 
-
 4.  Seen, Fischteiche und Fischzuchtanstalten;
-
 
 5.  Gewässer, die einem gewerblichen Betrieb dienen;
 
-
 6.  Sportanlagen;
-
 
 7.  Gärtnereien;
 
-
 8.  Friedhöfe, einzelne Grabstätten und Denkmale;
 
-
-9.  Anlagen, die dem öffentlichen Verkehr, dem Hochwasserschutz, der
-    öffentlichen Wasser- und Energieversorgung sowie der
+9.  Anlagen, die dem öffentlichen Verkehr, dem Hochwasserschutz,
+    der öffentlichen Wasser- und Energieversorgung sowie der
     Abwasserverwertung oder -beseitigung dienen;
 
-
 10. Sol- und Mineralquellen mit den dazugehörenden Grundstücken;
-
 
 11. Gewerbliche Anlagen zur Gewinnung von Bodenbestandteilen, sofern sie
     dauernd in Betrieb sind, und Lagerstätten von Bodenschätzen, die der
     Aufsicht der Bergbehörde unterliegen.
-
-
 
 In den Fällen der Nummern 9 bis 11 ist die Zustimmung der Eigentümer
 erforderlich. Sie ist in den Fällen der Nummer 9 nicht erforderlich,
 sofern es sich um Anlagen handelt, die einem gemeinschaftlichen
 Interesse im Sinne des § 39 Abs. 1 dienen.
 
-(2) Wenn der Zweck der Flurbereinigung in anderer Weise nicht erreicht
-werden kann, können die in Absatz 1 Nr. 1 bis 8 bezeichneten
+(2) Wenn der Zweck der Flurbereinigung in anderer Weise nicht
+erreicht werden kann, können die in Absatz 1 Nr. 1 bis 8 bezeichneten
 Grundstücke verlegt oder einem anderen gegeben werden. Bei
 Wohngebäuden und in den Fällen der Nummern 2, 7 und 8 ist jedoch die
 Zustimmung der Eigentümer, bei Friedhöfen auch die Zustimmung der
@@ -1132,12 +1093,12 @@ erforderlich.
 
 #### § 46
 
-Sind Teile des Flurbereinigungsgebietes durch besondere Maßnahmen mit
-erheblichen öffentlichen Mitteln im Flurbereinigungsverfahren
+Sind Teile des Flurbereinigungsgebietes durch besondere Maßnahmen
+mit erheblichen öffentlichen Mitteln im Flurbereinigungsverfahren
 verbessert und ist der Wert dieser Grundstücke wesentlich erhöht
-worden, so kann der Bemessung der Abfindung der Teilnehmer der erhöhte
-Wert zugrunde gelegt werden. Der erhöhte Wert ist nötigenfalls durch
-erneute Wertermittlung nach den §§ 28 und 31 bis 33 unter
+worden, so kann der Bemessung der Abfindung der Teilnehmer der
+erhöhte Wert zugrunde gelegt werden. Der erhöhte Wert ist nötigenfalls
+durch erneute Wertermittlung nach den §§ 28 und 31 bis 33 unter
 Berücksichtigung der den Teilnehmern verbleibenden Kostenlast
 festzustellen. Der Erlös des zur Abfindung der Teilnehmer nicht
 benötigten Landes ist zur Deckung der Kosten der Verbesserung zu
@@ -1149,9 +1110,9 @@ verwenden.
 (1) Den zu den gemeinschaftlichen Anlagen und zu öffentlichen Anlagen
 nach § 40 erforderlichen Grund und Boden haben alle Teilnehmer nach
 dem Verhältnis des Wertes ihrer alten Grundstücke zu dem Wert aller
-Grundstücke des Flurbereinigungsgebietes aufzubringen, soweit er nicht
-durch vor der Flurbereinigung vorhandene Anlagen gleicher Art oder
-durch einen bei Neumessung des Flurbereinigungsgebietes sich
+Grundstücke des Flurbereinigungsgebietes aufzubringen, soweit er
+nicht durch vor der Flurbereinigung vorhandene Anlagen gleicher Art
+oder durch einen bei Neumessung des Flurbereinigungsgebietes sich
 ergebenden Überschuß an Fläche gedeckt oder von einzelnen Teilnehmern
 hergegeben wird; in gleicher Weise ist ein bei Neumessung sich
 ergebender Mangel an Fläche aufzubringen. Der von den Teilnehmern
@@ -1195,14 +1156,14 @@ Werden in Satz 1 genannte Rechte, die nicht entbehrlich werden,
 aufgehoben, sind die Berechtigten entweder in Land, durch gleichartige
 Rechte oder mit ihrer Zustimmung in Geld abzufinden. Bei der Abfindung
 in Land oder durch gleichartige Rechte gilt § 44 Abs. 3 Satz 2, bei
-der Abfindung in Geld gelten die §§ 52 bis 54 entsprechend. Soweit die
-Abfindung in Land oder durch gleichartige Rechte unmöglich oder mit
-dem Zweck der Flurbereinigung nicht vereinbar ist, sind die
+der Abfindung in Geld gelten die §§ 52 bis 54 entsprechend. Soweit
+die Abfindung in Land oder durch gleichartige Rechte unmöglich oder
+mit dem Zweck der Flurbereinigung nicht vereinbar ist, sind die
 Berechtigten in Geld abzufinden.
 
 (2) Ein in Absatz 1 Satz 1 bezeichnetes Recht ist auf Antrag des
-Berechtigten aufzuheben, wenn es bei Übergang auf die Landabfindung an
-dieser nicht mehr in dem bisherigen Umfange ausgeübt werden könnte.
+Berechtigten aufzuheben, wenn es bei Übergang auf die Landabfindung
+an dieser nicht mehr in dem bisherigen Umfange ausgeübt werden könnte.
 Absatz 1 Satz 3 bis 5 gilt entsprechend.
 
 (3) Die aus dem Bestehen eines aufzuhebenden Rechts folgende Minderung
@@ -1213,8 +1174,8 @@ nur zu berücksichtigen, wenn sie erheblich ist.
 #### § 50
 
 (1) Obstbäume, Beerensträucher, Rebstöcke, Hopfenstöcke,
-Bodenaltertümer, Kulturdenkmale sowie Bäume, Feldgehölze und Hecken,
-deren Erhaltung aus Gründen des Naturschutzes und der
+Bodenaltertümer, Kulturdenkmale sowie Bäume, Feldgehölze und
+Hecken, deren Erhaltung aus Gründen des Naturschutzes und der
 Landschaftspflege oder aus anderen Gründen geboten ist, hat der
 Empfänger der Landabfindung zu übernehmen.
 
@@ -1222,18 +1183,18 @@ Empfänger der Landabfindung zu übernehmen.
 Teilnehmergemeinschaft den bisherigen Eigentümer in Geld abzufinden;
 sie kann von dem Empfänger der Landabfindung angemessene Erstattung
 verlangen. Mit Zustimmung der Flurbereinigungsbehörde können die
-Teilnehmer anderes vereinbaren. Für unfruchtbare, unveredelte, noch
-verpflanzbare oder abgängige Obstbäume, für verpflanzbare oder
-abgängige Beerensträucher, Rebstöcke, Hopfenstöcke und für andere als
-die in Absatz 1 genannten Bäume wird keine Geldabfindung gegeben; der
-bisherige Eigentümer kann sie entfernen. Als abgängig gelten auch
+Teilnehmer anderes vereinbaren. Für unfruchtbare, unveredelte,
+noch verpflanzbare oder abgängige Obstbäume, für verpflanzbare oder
+abgängige Beerensträucher, Rebstöcke, Hopfenstöcke und für andere
+als die in Absatz 1 genannten Bäume wird keine Geldabfindung gegeben;
+der bisherige Eigentümer kann sie entfernen. Als abgängig gelten auch
 Rebstöcke und Hopfenstöcke, die nach anderen gesetzlichen Vorschriften
 zu beseitigen sind; die Vorschriften über die Entschädigung nach
 diesen Gesetzen bleiben unberührt.
 
-(3) Die Länder können bestimmen, daß Obstbäume, Beerensträucher oder
-Rebstöcke zu entfernen sind, wenn Bodenverbesserungen oder andere
-ertragsfördernde Maßnahmen, z.B. Rebenneuaufbau, sonst nicht
+(3) Die Länder können bestimmen, daß Obstbäume, Beerensträucher
+oder Rebstöcke zu entfernen sind, wenn Bodenverbesserungen oder
+andere ertragsfördernde Maßnahmen, z.B. Rebenneuaufbau, sonst nicht
 zweckmäßig durchgeführt werden können.
 
 (4) Für andere nicht unter Absatz 1 fallende wesentliche Bestandteile
@@ -1244,10 +1205,10 @@ abzufinden.
 
 #### § 51
 
-(1) Ein vorübergehender Unterschied zwischen dem Wert der alten
-Grundstücke und dem Wert der Landabfindung sowie andere vorübergehende
-Nachteile einzelner Teilnehmer, die das Maß der den übrigen
-Teilnehmern entstehenden gleichartigen Nachteile erheblich
+(1) Ein vorübergehender Unterschied zwischen dem Wert der
+alten Grundstücke und dem Wert der Landabfindung sowie andere
+vorübergehende Nachteile einzelner Teilnehmer, die das Maß der den
+übrigen Teilnehmern entstehenden gleichartigen Nachteile erheblich
 übersteigen, sind durch Geld oder in anderer Art auszugleichen.
 
 (2) Die Teilnehmergemeinschaft kann Erstattung der von ihr geleisteten
@@ -1260,21 +1221,21 @@ Verhältnis seines Vorteiles verlangen.
 (1) Ein Teilnehmer kann mit seiner Zustimmung statt in Land ganz oder
 teilweise in Geld abgefunden werden.
 
-(2) Die Zustimmung bedarf zu ihrer Wirksamkeit schriftlicher Form. Sie
-kann nicht mehr widerrufen werden; wenn sie der
-Flurbereinigungsbehörde zugegangen oder in eine
+(2) Die Zustimmung bedarf zu ihrer Wirksamkeit schriftlicher
+Form. Sie kann nicht mehr widerrufen werden; wenn sie
+der Flurbereinigungsbehörde zugegangen oder in eine
 Verhandlungsniederschrift (§§ 129 bis 131) aufgenommen worden ist.
 
 (3) Ist die Zustimmung unwiderruflich geworden, so darf der Teilnehmer
 das Grundstück, für das er in Geld abzufinden ist, nicht mehr
 veräußern oder belasten. Das Verfügungsverbot (§ 135 des Bürgerlichen
-Gesetzbuchs) ist auf Ersuchen der Flurbereinigungsbehörde für die
-Teilnehmergemeinschaft oder im Falle der Zustimmung zugunsten eines
-bestimmten Dritten für diesen in das Grundbuch einzutragen. Solange
-das Verfügungsverbot nicht eingetragen ist, hat der
+Gesetzbuchs) ist auf Ersuchen der Flurbereinigungsbehörde für
+die Teilnehmergemeinschaft oder im Falle der Zustimmung zugunsten
+eines bestimmten Dritten für diesen in das Grundbuch einzutragen.
+Solange das Verfügungsverbot nicht eingetragen ist, hat der
 rechtsgeschäftliche Erwerber des Grundstücks, eines Rechts an dem
-Grundstück oder eines Rechts an einem solchen Recht die Auszahlung der
-Geldabfindung nur gegen sich gelten zu lassen, wenn ihm das
+Grundstück oder eines Rechts an einem solchen Recht die Auszahlung
+der Geldabfindung nur gegen sich gelten zu lassen, wenn ihm das
 Verfügungsverbot bei dem Erwerb bekannt war; § 892 des Bürgerlichen
 Gesetzbuchs gilt entsprechend. Wird ein Teilnehmer nur für einen
 Grundstücksteil in Geld abgefunden, so ist das Verfügungsverbot nur
@@ -1292,24 +1253,24 @@ werden.
 
 (2) Ist das Grundstück mit Rechten Dritter belastet, so ist die
 Abfindung dem Eigentümer nach Abzug des Wertes dieser Rechte
-auszuzahlen. Eine diesen Rechten zugrunde liegende persönliche Schuld
-des Eigentümers kann die Teilnehmergemeinschaft oder ein
+auszuzahlen. Eine diesen Rechten zugrunde liegende persönliche
+Schuld des Eigentümers kann die Teilnehmergemeinschaft oder ein
 gemeinnütziges Siedlungsunternehmen übernehmen, ohne daß es der
-Genehmigung des Gläubigers bedarf. Die Übernahme wird mit der Anzeige
-an den Gläubiger wirksam. Bis zu diesem Zeitpunkt ist die
+Genehmigung des Gläubigers bedarf. Die Übernahme wird mit der
+Anzeige an den Gläubiger wirksam. Bis zu diesem Zeitpunkt ist die
 Teilnehmergemeinschaft oder das Siedlungsunternehmen dem Eigentümer
 gegenüber verpflichtet, den Gläubiger rechtzeitig zu befriedigen.
 
 
 #### § 54
 
-(1) Geldabfindungen und Geldausgleiche müssen angemessen sein. Die
-Kapitalerträge sind unter Zugrundelegung des Wertes nach § 28, bei
-Bauflächen und Bauland sowie bei baulichen Anlagen nach § 29
+(1) Geldabfindungen und Geldausgleiche müssen angemessen sein.
+Die Kapitalerträge sind unter Zugrundelegung des Wertes nach § 28,
+bei Bauflächen und Bauland sowie bei baulichen Anlagen nach § 29
 festzusetzen. Sie können gegen Beiträge (§ 19) verrechnet werden.
 
-(2) Das infolge von Geldabfindungen und nach § 46 zur Abfindung der
-Teilnehmer nicht benötigte Land ist in einer dem Zweck der
+(2) Das infolge von Geldabfindungen und nach § 46 zur Abfindung
+der Teilnehmer nicht benötigte Land ist in einer dem Zweck der
 Flurbereinigung entsprechenden Weise oder für Siedlungszwecke zu
 verwenden. Durch den Flurbereinigungsplan wird bestimmt, wem das Land
 zu Eigentum zugeteilt wird. Für die Zuteilung gilt § 55 entsprechend.
@@ -1329,8 +1290,8 @@ verschiedenen Siedlern zugeteilt werden, entsprechend ihrem im
 Flurbereinigungsverfahren ermittelten Wert verteilen. Der Gläubiger
 kann der Verteilung nicht widersprechen.
 
-(3) Nach Eintritt des neuen Rechtszustandes haftet der Siedler für die
-persönliche Forderung, die der verteilten Hypothek zugrunde liegt,
+(3) Nach Eintritt des neuen Rechtszustandes haftet der Siedler für
+die persönliche Forderung, die der verteilten Hypothek zugrunde liegt,
 insoweit, als sie der Belastung seines Grundstücks mit der Hypothek
 entspricht. Die Rechte des Gläubigers gegen den bisherigen Schuldner
 erlöschen.
@@ -1344,15 +1305,14 @@ Verteilung nicht gefährdet wird.
 ### Dritter Abschnitt - Flurbereinigungsplan
 
 
-
 #### § 56
 
 Vor der Aufstellung des Flurbereinigungsplanes hat die
-Flurbereinigungsbehörde, soweit erforderlich, die Errichtung fester
-Grenzzeichen an der Grenze des Flurbereinigungsgebietes
-sicherzustellen. Sie hat erforderliche Grenzanerkennungen durch die
-Eigentümer der an das Gebiet grenzenden Grundstücke aufzunehmen. Die
-Grenzanerkennungen können durch Bestimmungen des
+Flurbereinigungsbehörde, soweit erforderlich, die Errichtung
+fester Grenzzeichen an der Grenze des Flurbereinigungsgebietes
+sicherzustellen. Sie hat erforderliche Grenzanerkennungen
+durch die Eigentümer der an das Gebiet grenzenden Grundstücke
+aufzunehmen. Die Grenzanerkennungen können durch Bestimmungen des
 Flurbereinigungsplanes ersetzt werden, durch die die Grenze des
 Flurbereinigungsgebietes festgelegt wird.
 
@@ -1365,22 +1325,22 @@ Vor der Aufstellung des Flurbereinigungsplanes sind die Teilnehmer
 
 #### § 58
 
-(1) Die Flurbereinigungsbehörde faßt die Ergebnisse des Verfahrens im
-Flurbereinigungsplan zusammen. In den Flurbereinigungsplan ist der
-Wege- und Gewässerplan mit landschaftspflegerischem Begleitplan
-aufzunehmen, die gemeinschaftlichen und öffentlichen Anlagen sowie die
-alten Grundstücke und Berechtigungen der Beteiligten und ihre
+(1) Die Flurbereinigungsbehörde faßt die Ergebnisse des Verfahrens
+im Flurbereinigungsplan zusammen. In den Flurbereinigungsplan ist
+der Wege- und Gewässerplan mit landschaftspflegerischem Begleitplan
+aufzunehmen, die gemeinschaftlichen und öffentlichen Anlagen sowie
+die alten Grundstücke und Berechtigungen der Beteiligten und ihre
 Abfindungen sind nachzuweisen, die sonstigen Rechtsverhältnisse sind
 zu regeln. Im Flurbereinigungsplan ist der im Grundbuch eingetragene
-Eigentümer oder andere Berechtigte auch dann zu bezeichnen, wenn an
-seiner Stelle gemäß § 12 Satz 2 und 3 sowie den §§ 13 und 14 ein
+Eigentümer oder andere Berechtigte auch dann zu bezeichnen, wenn
+an seiner Stelle gemäß § 12 Satz 2 und 3 sowie den §§ 13 und 14 ein
 anderer als Beteiligter behandelt worden ist.
 
 (2) Gemeindegrenzen können durch den Flurbereinigungsplan geändert
 werden, soweit es wegen der Flurbereinigung zweckmäßig ist. Die
 Änderung bezieht sich auch auf die Kreis-, Bezirks- und Landesgrenzen,
-wenn sie mit den Gemeindegrenzen übereinstimmen. Ist die Änderung von
-Gemeinde- oder Kreisgrenzen beabsichtigt, so ist die zuständige
+wenn sie mit den Gemeindegrenzen übereinstimmen. Ist die Änderung
+von Gemeinde- oder Kreisgrenzen beabsichtigt, so ist die zuständige
 Kommunalaufsichtsbehörde rechtzeitig zu verständigen; die Änderung
 bedarf der Zustimmung der beteiligten Gebietskörperschaften. Ist die
 Änderung von Bezirks- oder Landesgrenzen beabsichtigt, so sind auch
@@ -1401,8 +1361,8 @@ oder aufgehoben werden.
 
 #### § 59
 
-(1) Der Flurbereinigungsplan ist den Beteiligten bekanntzugeben. Die
-neue Feldeinteilung ist ihnen auf Wunsch an Ort und Stelle zu
+(1) Der Flurbereinigungsplan ist den Beteiligten bekanntzugeben.
+Die neue Feldeinteilung ist ihnen auf Wunsch an Ort und Stelle zu
 erläutern.
 
 (2) Widersprüche gegen den bekanntgegebenen Flurbereinigungsplan
@@ -1441,14 +1401,13 @@ der oberen Flurbereinigungsbehörde vor.
 ### Vierter Abschnitt - Ausführung des Flurbereinigungsplanes
 
 
-
 #### § 61
 
 Ist der Flurbereinigungsplan unanfechtbar geworden, ordnet die
-Flurbereinigungsbehörde seine Ausführung an (Ausführungsanordnung). Zu
-dem in der Ausführungsanordnung zu bestimmenden Zeitpunkt tritt der im
-Flurbereinigungsplan vorgesehene neue Rechtszustand an die Stelle des
-bisherigen.
+Flurbereinigungsbehörde seine Ausführung an (Ausführungsanordnung).
+Zu dem in der Ausführungsanordnung zu bestimmenden Zeitpunkt tritt der
+im Flurbereinigungsplan vorgesehene neue Rechtszustand an die Stelle
+des bisherigen.
 
 
 #### § 62
@@ -1457,14 +1416,14 @@ bisherigen.
 Rechtszustandes (§ 61 Satz 2) sind öffentlich bekanntzumachen. In der
 Bekanntmachung ist auf die Frist nach § 71 Satz 3 hinzuweisen.
 
-(2) Durch Überleitungsbestimmungen, zu denen der Vorstand der
-Teilnehmergemeinschaft zu hören ist, regelt die
+(2) Durch Überleitungsbestimmungen, zu denen der Vorstand
+der Teilnehmergemeinschaft zu hören ist, regelt die
 Flurbereinigungsbehörde die tatsächliche Überleitung in den neuen
 Zustand, namentlich den Übergang des Besitzes und der Nutzung der
 neuen Grundstücke.
 
-(3) Die Überleitungsbestimmungen sind bei den Gemeindeverwaltungen der
-Flurbereinigungsgemeinden oder bei dem Vorstand der
+(3) Die Überleitungsbestimmungen sind bei den Gemeindeverwaltungen
+der Flurbereinigungsgemeinden oder bei dem Vorstand der
 Teilnehmergemeinschaft zur Einsichtnahme für die Beteiligten
 auszulegen. Die Auslegung ist öffentlich bekanntzumachen.
 
@@ -1481,25 +1440,24 @@ der Ausführung voraussichtlich erhebliche Nachteile erwachsen würden
 (2) Wird der vorzeitig ausgeführte Flurbereinigungsplan unanfechtbar
 geändert, so wirkt diese Änderung in rechtlicher Hinsicht auf den in
 der Ausführungsanordnung festgesetzten Tag zurück. Die tatsächliche
-Ausführung der Änderung regelt die Flurbereinigungsbehörde durch
-Überleitungsbestimmungen. Die Änderung ist den Beteiligten
+Ausführung der Änderung regelt die Flurbereinigungsbehörde
+durch Überleitungsbestimmungen. Die Änderung ist den Beteiligten
 bekanntzugeben.
 
 
 #### § 64
 
-Die Flurbereinigungsbehörde kann den Flurbereinigungsplan auch nach
-der Ausführungsanordnung (§§ 61 und 63) ändern oder ergänzen, wenn
-öffentliche Interessen oder wichtige, nicht vorherzusehende
-wirtschaftliche Bedürfnisse der Beteiligten es erfordern oder wenn ihr
-eine rechtskräftige gerichtliche Entscheidung bekannt wird. Für das
-Verfahren gelten die §§ 59 bis 63 sinngemäß; § 63 Abs. 2 gilt auch,
-wenn die Ausführung des Flurbereinigungsplanes gemäß § 61 Satz 1
+Die Flurbereinigungsbehörde kann den Flurbereinigungsplan auch
+nach der Ausführungsanordnung (§§ 61 und 63) ändern oder ergänzen,
+wenn öffentliche Interessen oder wichtige, nicht vorherzusehende
+wirtschaftliche Bedürfnisse der Beteiligten es erfordern oder wenn
+ihr eine rechtskräftige gerichtliche Entscheidung bekannt wird. Für
+das Verfahren gelten die §§ 59 bis 63 sinngemäß; § 63 Abs. 2 gilt
+auch, wenn die Ausführung des Flurbereinigungsplanes gemäß § 61 Satz 1
 angeordnet war.
 
 
 ### Fünfter Abschnitt - Vorläufige Besitzeinweisung
-
 
 
 #### § 65
@@ -1507,8 +1465,8 @@ angeordnet war.
 (1) Die Beteiligten können in den Besitz der neuen Grundstücke
 vorläufig eingewiesen werden, wenn deren Grenzen in die Örtlichkeit
 übertragen worden sind und endgültige Nachweise für Fläche und Wert
-der neuen Grundstücke vorliegen sowie das Verhältnis der Abfindung zu
-dem von jedem Beteiligten Eingebrachten feststeht. Die neue
+der neuen Grundstücke vorliegen sowie das Verhältnis der Abfindung
+zu dem von jedem Beteiligten Eingebrachten feststeht. Die neue
 Feldeinteilung ist den Beteiligten bekanntzugeben und auf Antrag an
 Ort und Stelle zu erläutern. Die vorläufige Besitzeinweisung kann auf
 Teile des Flurbereinigungsgebietes beschränkt werden.
@@ -1544,22 +1502,21 @@ die Anordnung nach § 65 Abs. 2 zu leisten, soweit nicht Rechte Dritter
 nach den Vorschriften der §§ 74 bis 78 zu wahren sind.
 
 (2) Beträge, die nach den endgültigen Festsetzungen im
-Flurbereinigungsplan in anderer Höhe oder von anderen Beteiligten zu
-zahlen sind, sind nach Ausführung des Flurbereinigungsplanes
+Flurbereinigungsplan in anderer Höhe oder von anderen Beteiligten
+zu zahlen sind, sind nach Ausführung des Flurbereinigungsplanes
 auszugleichen.
 
 
 ### Sechster Abschnitt - Wahrung der Rechte Dritter
 
 
-
 #### § 68
 
-(1) Die Landabfindung tritt hinsichtlich der Rechte an den alten
-Grundstücken und der diese Grundstücke betreffenden
+(1) Die Landabfindung tritt hinsichtlich der Rechte an den
+alten Grundstücken und der diese Grundstücke betreffenden
 Rechtsverhältnisse, die nicht aufgehoben werden (§ 49), an die Stelle
-der alten Grundstücke. Die örtlich gebundenen öffentlichen Lasten, die
-auf den alten Grundstücken ruhen, gehen auf die in deren örtlicher
+der alten Grundstücke. Die örtlich gebundenen öffentlichen Lasten,
+die auf den alten Grundstücken ruhen, gehen auf die in deren örtlicher
 Lage ausgewiesenen neuen Grundstücke über.
 
 (2) Wird eine Landabfindung für mehrere alte Grundstücke oder
@@ -1568,8 +1525,8 @@ betroffen werden, so hat die Flurbereinigungsbehörde zu bestimmen,
 welche neuen Grundstücke oder Bruchteile von neuen Grundstücken an die
 Stelle der einzelnen alten Grundstücke oder Berechtigungen treten.
 
-(3) Auf Antrag und, soweit erforderlich, auch von Amts wegen hat die
-Flurbereinigungsbehörde an Stelle der nach Absatz 2 bestimmten
+(3) Auf Antrag und, soweit erforderlich, auch von Amts wegen hat
+die Flurbereinigungsbehörde an Stelle der nach Absatz 2 bestimmten
 Bruchteile besondere Grundstücke auszuweisen. Das gilt nicht
 hinsichtlich der Bruchteile von Berechtigungen der in § 49 Abs. 1 Satz
 3 bezeichneten Art.
@@ -1603,11 +1560,11 @@ Vertragsteile eine abweichende Regelung getroffen haben.
 
 #### § 71
 
-Über die Leistungen nach § 69, den Ausgleich nach § 70 Abs. 1 und die
-Auflösung des Pachtverhältnisses nach § 70 Abs. 2 entscheidet die
-Flurbereinigungsbehörde. Die Entscheidung ergeht nur auf Antrag; im
-Falle des § 70 Abs. 2 ist nur der Pächter antragsberechtigt. Die
-Anträge sind spätestens drei Monate nach Erlaß der
+Über die Leistungen nach § 69, den Ausgleich nach § 70 Abs. 1 und
+die Auflösung des Pachtverhältnisses nach § 70 Abs. 2 entscheidet
+die Flurbereinigungsbehörde. Die Entscheidung ergeht nur auf Antrag;
+im Falle des § 70 Abs. 2 ist nur der Pächter antragsberechtigt.
+Die Anträge sind spätestens drei Monate nach Erlaß der
 Ausführungsanordnung bei der Flurbereinigungsbehörde zu stellen.
 
 
@@ -1630,8 +1587,8 @@ Berechtigungen treten.
 
 Wird ein Teilnehmer nur in Geld abgefunden, so sind
 Altenteilsberechtigte sowie Inhaber von Erwerbsrechten an den alten
-Grundstücken oder von dinglichen oder persönlichen Rechten, die zum
-Besitz oder zur Nutzung dieser Grundstücke berechtigen oder die
+Grundstücken oder von dinglichen oder persönlichen Rechten, die
+zum Besitz oder zur Nutzung dieser Grundstücke berechtigen oder die
 Benutzung dieser Grundstücke beschränken, gesondert abzufinden. Die
 Vorschriften des § 49 Abs. 1 und 3 gelten entsprechend.
 
@@ -1642,48 +1599,41 @@ Wird ein Teilnehmer nur in Geld abgefunden, so sind die Rechte nach §
 72 Abs. 1, soweit sie aus dem Grundbuch ersichtlich oder sonst bekannt
 sind, nach folgenden Vorschriften zu wahren:
 
-1.  Sind die Rechte nicht streitig, Teilnehmer und Berechtigte über die
-    Auszahlung einig und macht kein Dritter dingliche Rechte an der
-    Geldabfindung geltend, so weist die Flurbereinigungsbehörde die
+1.  Sind die Rechte nicht streitig, Teilnehmer und Berechtigte über
+    die Auszahlung einig und macht kein Dritter dingliche Rechte an
+    der Geldabfindung geltend, so weist die Flurbereinigungsbehörde die
     Teilnehmergemeinschaft an, das Geld den Berechtigten auszuzahlen.
 
-
 2.  Sind die Rechte streitig oder Teilnehmer und Berechtigte über die
-    Auszahlung nicht einig oder macht ein Dritter dingliche Rechte an der
-    Geldabfindung geltend, so weist die Flurbereinigungsbehörde die
+    Auszahlung nicht einig oder macht ein Dritter dingliche Rechte an
+    der Geldabfindung geltend, so weist die Flurbereinigungsbehörde die
     Teilnehmergemeinschaft an, das Geld zugunsten des in Geld abgefundenen
-    Teilnehmers, der Berechtigten und des Dritten bei dem nach Nummer 3
-    für die Verteilung zuständigen Amtsgericht unter Verzicht auf das
+    Teilnehmers, der Berechtigten und des Dritten bei dem nach Nummer
+    3 für die Verteilung zuständigen Amtsgericht unter Verzicht auf das
     Recht der Rücknahme zu hinterlegen. Nach der Hinterlegung können
     Ansprüche wegen der Geldabfindung im Flurbereinigungsverfahren nicht
     mehr geltend gemacht werden. Das Amtsgericht hat den hinterlegten
     Betrag nach Maßgabe des § 75 zu verteilen. § 108 ist nicht anzuwenden.
 
-
 3.  Für die Verteilung ist das Amtsgericht zuständig, in dessen Bezirk die
     mit den Rechten belasteten Grundstücke liegen. Liegen die belasteten
-    Grundstücke in den Bezirken verschiedener Amtsgerichte, so ist das
-    Amtsgericht zuständig, in dessen Bezirk die größere Fläche der
+    Grundstücke in den Bezirken verschiedener Amtsgerichte, so ist
+    das Amtsgericht zuständig, in dessen Bezirk die größere Fläche der
     belasteten Grundstücke liegt. In Zweifelsfällen gilt § 2 des Gesetzes
     über die Zwangsversteigerung und die Zwangsverwaltung in der Fassung
     der Bekanntmachung vom 20. Mai 1898 (Reichsgesetzbl. S. 369, 713),
-    zuletzt geändert durch
-    das Einführungsgesetz zum Strafgesetzbuch vom 2. März 1974
-    (Bundesgesetzbl. I S. 469),                    entsprechend.
-
+    zuletzt geändert durch *das Einführungsgesetz zum Strafgesetzbuch vom
+    2\. März 1974 (Bundesgesetzbl. I S. 469),* entsprechend.
 
 4.  Hypotheken, Grundschulden, Rentenschulden und Reallasten, die aus der
     Geldabfindung nicht befriedigt werden, erlöschen.
 
 
-
-
-
 #### § 75
 
 (1) Nach Eintritt des neuen Rechtszustandes kann jeder
-Hinterlegungsbeteiligte sein Recht an der hinterlegten Summe gegen
-einen Mitbeteiligten, der dieses Recht bestreitet, vor den
+Hinterlegungsbeteiligte sein Recht an der hinterlegten Summe
+gegen einen Mitbeteiligten, der dieses Recht bestreitet, vor den
 ordentlichen Gerichten geltend machen oder die Einleitung eines
 gerichtlichen Verteilungsverfahrens beantragen.
 
@@ -1693,28 +1643,22 @@ Abweichungen sinngemäß anzuwenden:
 
 1.  Das Verteilungsverfahren ist durch Beschluß zu eröffnen.
 
-
-2.  Die Zustellung des Eröffnungsbeschlusses an den Antragsteller gilt als
-    Beschlagnahme im Sinne des § 13 des Zwangsversteigerungsgesetzes. Ist
-    das Grundstück schon in einem Zwangsversteigerungs- oder
+2.  Die Zustellung des Eröffnungsbeschlusses an den Antragsteller gilt
+    als Beschlagnahme im Sinne des § 13 des Zwangsversteigerungsgesetzes.
+    Ist das Grundstück schon in einem Zwangsversteigerungs- oder
     Zwangsverwaltungsverfahren beschlagnahmt, so hat es hierbei sein
     Bewenden.
 
-
-3.  Das Verteilungsgericht hat bei Eröffnung des Verfahrens von Amts wegen
-    das Grundbuchamt um die in § 19 Abs. 2 des
+3.  Das Verteilungsgericht hat bei Eröffnung des Verfahrens
+    von Amts wegen das Grundbuchamt um die in § 19 Abs. 2 des
     Zwangsversteigerungsgesetzes bezeichneten Mitteilungen zu ersuchen; in
     die beglaubigte Abschrift des Grundbuchblattes sind die im Zeitpunkt
     des Eintritts des neuen Rechtszustandes vorhandenen Eintragungen über
     Hypotheken, Grundschulden, Rentenschulden und Reallasten sowie die
     später eingetragenen Veränderungen und Löschungen aufzunehmen.
 
-
 4.  Ansprüche auf wiederkehrende Nebenleistungen sind nur bis zum
     Zeitpunkt der Hinterlegung zu berücksichtigen.
-
-
-
 
 
 #### § 76
@@ -1728,14 +1672,14 @@ Rechte an der Geldabfindung im Flurbereinigungsverfahren nur gewahrt
 werden, wenn sie dies innerhalb eines Monats beantragen.
 
 (2) Wird rechtzeitig ein Antrag gestellt, so hat die
-Flurbereinigungsbehörde das Recht des Antragstellers, soweit es unter
-Berücksichtigung der im Range vorgehenden Rechte durch den Wert der
-Landabfindung für die belasteten alten Grundstücke nicht gesichert
-ist, und die im Range nachstehenden Rechte entsprechend den
+Flurbereinigungsbehörde das Recht des Antragstellers, soweit es
+unter Berücksichtigung der im Range vorgehenden Rechte durch den
+Wert der Landabfindung für die belasteten alten Grundstücke nicht
+gesichert ist, und die im Range nachstehenden Rechte entsprechend den
 Vorschriften des § 74 zu wahren. Dies gilt nicht, wenn der Teilnehmer
-innerhalb einer von der Flurbereinigungsbehörde zu bestimmenden Frist
-die geschmälerte Sicherheit dadurch wiederherstellt, daß er im Range
-vorgehende Rechte beseitigt, andere Grundstücke den
+innerhalb einer von der Flurbereinigungsbehörde zu bestimmenden
+Frist die geschmälerte Sicherheit dadurch wiederherstellt, daß
+er im Range vorgehende Rechte beseitigt, andere Grundstücke den
 Abfindungsgrundstücken als Bestandteile zuschreiben läßt oder das
 Abfindungsgrundstück dauerhaft verbessert.
 
@@ -1757,7 +1701,6 @@ bereitzuhalten.
 ### Siebenter Abschnitt - Berichtigung der öffentlichen Bücher
 
 
-
 #### § 79
 
 (1) Nach Eintritt des neuen Rechtszustandes sind die öffentlichen
@@ -1777,20 +1720,14 @@ Auszug aus dem Flurbereinigungsplan beizufügen, der nachweisen muß:
 
 1.  die Eigentümer der zum Flurbereinigungsgebiet gehörenden Grundstücke;
 
-
 2.  die alten Grundstücke und Berechtigungen sowie die dafür ausgewiesenen
     Abfindungen;
-
 
 3.  die Landzuteilungen sowie die gemeinschaftlichen und die öffentlichen
     Anlagen;
 
-
 4.  die zu löschenden, die auf neue Grundstücke zu übertragenden und die
     neu einzutragenden Rechte.
-
-
-
 
 
 #### § 81
@@ -1799,8 +1736,8 @@ Auszug aus dem Flurbereinigungsplan beizufügen, der nachweisen muß:
 Flurbereinigungsplan als amtliches Verzeichnis der Grundstücke (§ 2
 Abs. 2 der Grundbuchordnung).
 
-(2) Hat die Flurbereinigungsbehörde die Unterlagen zur Berichtigung
-des Liegenschaftskatasters an die für die Führung des
+(2) Hat die Flurbereinigungsbehörde die Unterlagen zur
+Berichtigung des Liegenschaftskatasters an die für die Führung des
 Liegenschaftskatasters zuständige Behörde abgegeben, so ist für die
 Fortführung der Unterlagen auch vor Abschluß der Berichtigung diese
 Behörde zuständig.
@@ -1812,8 +1749,8 @@ Solange die Flurbereinigungsbehörde die Berichtigung des Grundbuches
 noch nicht veranlaßt hat, kann ein Teilnehmer, dessen Rechte durch
 Widersprüche gegen den Flurbereinigungsplan voraussichtlich nicht
 berührt werden, beantragen, daß die Flurbereinigungsbehörde das
-Grundbuchamt sogleich ersucht, das Grundbuch durch Eintragung seiner
-neuen Grundstücke zu berichtigen. Dem Ersuchen sind außer der
+Grundbuchamt sogleich ersucht, das Grundbuch durch Eintragung
+seiner neuen Grundstücke zu berichtigen. Dem Ersuchen sind außer der
 Bescheinigung über den Eintritt des neuen Rechtszustandes nur die
 Nachweise über die alten und neuen Grundstücke des Antragstellers
 beizufügen.
@@ -1829,9 +1766,7 @@ das Grundbuch übernommen.
 ## Vierter Teil - Besondere Vorschriften
 
 
-
 ### Erster Abschnitt - Waldgrundstücke
-
 
 
 #### § 84
@@ -1848,20 +1783,16 @@ Flurbereinigungsverfahren gelten folgende Sondervorschriften:
 1.  In den Fällen des § 5 Abs. 2 sowie der §§ 38 und 41 Abs. 2 ist die
     forstwirtschaftliche Berufsvertretung entsprechend zu beteiligen.
 
-
-2.  Zur Einbeziehung einer geschlossenen Waldfläche von mehr als zehn
-    Hektar Größe ist die Zustimmung der Forstaufsichtsbehörde
+2.  Zur Einbeziehung einer geschlossenen Waldfläche von mehr als
+    zehn Hektar Größe ist die Zustimmung der Forstaufsichtsbehörde
     erforderlich.
-
 
 3.  Für größere Waldgrundstücke, die einer Zusammenlegung nicht bedürfen
     und von der Flurbereinigung keinen wesentlichen Vorteil haben, sind
     Beiträge (§ 19) nicht zu erheben.
 
-
 4.  Ist der Wert eines Holzbestandes zu ermitteln, sind die Grundsätze der
     Waldwertrechnung anzuwenden.
-
 
 5.  Von der Bekanntgabe des Flurbereinigungsbeschlusses bis zur
     Ausführungsanordnung bedürfen Holzeinschläge, die den Rahmen einer
@@ -1869,36 +1800,27 @@ Flurbereinigungsverfahren gelten folgende Sondervorschriften:
     Flurbereinigungsbehörde; die Zustimmung darf nur im Einvernehmen mit
     der Forstaufsichtsbehörde erteilt werden.
 
-
 6.  Sind Holzeinschläge entgegen der Vorschrift der Nummer 5 vorgenommen
     worden, so kann die Flurbereinigungsbehörde anordnen, daß derjenige,
-    der das Holz gefällt hat, die abgeholzte oder verlichtete Fläche nach
-    den Weisungen der Forstaufsichtsbehörde wieder ordnungsmäßig in
+    der das Holz gefällt hat, die abgeholzte oder verlichtete Fläche
+    nach den Weisungen der Forstaufsichtsbehörde wieder ordnungsmäßig in
     Bestand zu bringen hat.
 
-
-7.  Eine geschlossene Waldfläche von mehr als drei Hektar Größe darf nur
-    mit Zustimmung des Eigentümers oder der Forstaufsichtsbehörde
+7.  Eine geschlossene Waldfläche von mehr als drei Hektar Größe darf
+    nur mit Zustimmung des Eigentümers oder der Forstaufsichtsbehörde
     wesentlich verändert werden.
-
 
 8.  Wird eine Waldfläche einem anderen zugeteilt, ist für aufstehendes
     Holz, soweit möglich, Abfindung in Holzwerten zu geben.
-
 
 9.  Die Teilung von Waldgrundstücken, die in gemeinschaftlichem Eigentum
     stehen (§ 48 Abs. 1), und die Aufhebung von Dienstbarkeiten (§ 49 Abs.
     1) bedürfen der Zustimmung der Forstaufsichtsbehörde.
 
-
 10. § 31 Abs. 2 und § 50 gelten entsprechend.
 
 
-
-
-
 ### Zweiter Abschnitt - Vereinfachtes Flurbereinigungsverfahren zur Landentwicklung
-
 
 
 #### § 86
@@ -1913,76 +1835,60 @@ werden, um
     oder der Gestaltung des Orts- und Landschaftsbildes zu ermöglichen
     oder auszuführen,
 
-
 2.  Nachteile für die allgemeine Landeskultur zu beseitigen, die durch
     Herstellung, Änderung oder Beseitigung von Infrastrukturanlagen oder
     durch ähnliche Maßnahmen entstehen oder entstanden sind,
 
-
 3.  Landnutzungskonflikte aufzulösen oder
-
 
 4.  eine erforderlich gewordene Neuordnung des Grundbesitzes in Weilern,
     Gemeinden kleineren Umfanges, Gebieten mit Einzelhöfen sowie in
     bereits flurbereinigten Gemeinden durchzuführen.
 
-
-
-
 (2) Für das Verfahren nach Absatz 1 gelten folgende
 Sondervorschriften:
 
 1.  Abweichend von § 4 erster Halbsatz sowie von § 6 Abs. 2 und 3 ordnet
-    die Flurbereinigungsbehörde die Flurbereinigung durch Beschluß an und
-    stellt das Flurbereinigungsgebiet fest. Der entscheidende Teil des
-    Beschlusses kann den Beteiligten in Abschrift übersandt oder
+    die Flurbereinigungsbehörde die Flurbereinigung durch Beschluß an
+    und stellt das Flurbereinigungsgebiet fest. Der entscheidende Teil
+    des Beschlusses kann den Beteiligten in Abschrift übersandt oder
     öffentlich bekanntgemacht werden.
-
 
 2.  Das vereinfachte Flurbereinigungsverfahren kann auch eingeleitet
     werden, wenn ein Träger von Maßnahmen nach Absatz 1 die
     Flurbereinigung beantragt.
 
-
 3.  Der Träger der Maßnahme nach Absatz 1 ist Nebenbeteiligter (§ 10 Nr.
     2).
-
 
 4.  Die Bekanntgabe der Wertermittlungsergebnisse (§ 32) kann mit der
     Bekanntgabe des Flurbereinigungsplanes (§ 59) verbunden werden.
 
-
 5.  Von der Aufstellung des Wege- und Gewässerplanes mit
-    landschaftspflegerischem Begleitplan (§ 41) kann abgesehen werden. In
-    diesem Fall sind die entsprechenden Maßnahmen in den
+    landschaftspflegerischem Begleitplan (§ 41) kann abgesehen
+    werden. In diesem Fall sind die entsprechenden Maßnahmen in den
     Flurbereinigungsplan (§ 58) aufzunehmen.
 
-
 6.  Planungen der Träger öffentlicher Belange können unberücksichtigt
-    bleiben, wenn sie bis zum Zeitpunkt des Anhörungstermins nach § 41
-    Abs. 2 und im Falle der Nummer 5 nach § 59 Abs. 2 nicht umsetzbar
-    vorliegen und dadurch die Durchführung der Flurbereinigung
+    bleiben, wenn sie bis zum Zeitpunkt des Anhörungstermins nach
+    § 41 Abs. 2 und im Falle der Nummer 5 nach § 59 Abs. 2 nicht
+    umsetzbar vorliegen und dadurch die Durchführung der Flurbereinigung
     unangemessen verzögert wird.
-
 
 7.  Die Ausführungsanordnung (§ 61) und die Überleitungsbestimmungen (§ 62
     Abs. 3) können den Beteiligten in Abschrift übersandt oder öffentlich
     bekanntgemacht werden.
 
-
 8.  § 95 findet entsprechende Anwendung.
 
-
-
-
 (3) Der Träger von Maßnahmen nach Absatz 1 hat an die
-Teilnehmergemeinschaft die von ihm verursachten Ausführungskosten (§
-105) zu zahlen; ein entsprechender Beitrag ist ihm durch den
-Flurbereinigungsplan aufzuerlegen. In den Fällen des Absatzes 1 Nr. 2
-sollen dem Träger der Maßnahme die Ausführungskosten entsprechend den
-durch die Herstellung, Änderung oder Beseitigung der Anlage
-entstandenen Nachteilen auferlegt werden, soweit die Nachteile in
-einem Planfeststellungsverfahren nach anderen gesetzlichen
+Teilnehmergemeinschaft die von ihm verursachten Ausführungskosten
+(§ 105) zu zahlen; ein entsprechender Beitrag ist ihm durch den
+Flurbereinigungsplan aufzuerlegen. In den Fällen des Absatzes 1 Nr.
+2 sollen dem Träger der Maßnahme die Ausführungskosten entsprechend
+den durch die Herstellung, Änderung oder Beseitigung der Anlage
+entstandenen Nachteilen auferlegt werden, soweit die Nachteile
+in einem Planfeststellungsverfahren nach anderen gesetzlichen
 Vorschriften nicht berücksichtigt und erst nach der Planfeststellung
 erkennbar geworden sind. Nach Ablauf von fünf Jahren seit der
 Herstellung, Änderung oder Beseitigung der Anlage können dem Träger
@@ -1992,26 +1898,25 @@ der Maßnahme Kosten nach Satz 2 nicht mehr auferlegt werden.
 ### Dritter Abschnitt - Bereitstellung von Land in großem Umfange für Unternehmen
 
 
-
 #### § 87
 
-(1) Ist aus besonderem Anlaß eine Enteignung zulässig, durch die
-ländliche Grundstücke in großem Umfange in Anspruch genommen würden,
-so kann auf Antrag der Enteignungsbehörde ein
+(1) Ist aus besonderem Anlaß eine Enteignung zulässig, durch
+die ländliche Grundstücke in großem Umfange in Anspruch
+genommen würden, so kann auf Antrag der Enteignungsbehörde ein
 Flurbereinigungsverfahren eingeleitet werden, wenn der den Betroffenen
 entstehende Landverlust auf einen größeren Kreis von Eigentümern
-verteilt oder Nachteile für die allgemeine Landeskultur, die durch das
-Unternehmen entstehen, vermieden werden sollen. Das Ausmaß der
-Verteilung des Landverlustes ist im Einvernehmen mit der
+verteilt oder Nachteile für die allgemeine Landeskultur, die durch
+das Unternehmen entstehen, vermieden werden sollen. Das Ausmaß
+der Verteilung des Landverlustes ist im Einvernehmen mit der
 landwirtschaftlichen Berufsvertretung zu regeln.
 
 (2) Das Flurbereinigungsverfahren kann bereits angeordnet werden, wenn
 das Planfeststellungsverfahren oder ein entsprechendes Verfahren für
 das Unternehmen, zu dessen Gunsten die Enteignung durchgeführt werden
-soll, eingeleitet ist. Die Bekanntgabe des Flurbereinigungsplanes (§
-59) und die vorläufige Einweisung der Beteiligten in den Besitz der
-neuen Grundstücke (§ 65) dürfen erst vorgenommen werden, nachdem die
-Planfeststellung für das Unternehmen oder der entsprechende
+soll, eingeleitet ist. Die Bekanntgabe des Flurbereinigungsplanes
+(§ 59) und die vorläufige Einweisung der Beteiligten in den Besitz
+der neuen Grundstücke (§ 65) dürfen erst vorgenommen werden, nachdem
+die Planfeststellung für das Unternehmen oder der entsprechende
 Verwaltungsakt unanfechtbar geworden oder für vollziehbar erklärt
 worden ist.
 
@@ -2019,15 +1924,15 @@ worden ist.
 Verfahren eingestellt, so soll auch das Flurbereinigungsverfahren
 eingestellt werden (§ 9). Die obere Flurbereinigungsbehörde kann
 jedoch anordnen, daß das Flurbereinigungsverfahren als ein Verfahren
-nach Maßgabe der §§ 1 und 37 oder des § 86 durchzuführen ist, wenn sie
-die Durchführung eines solchen Verfahrens für erforderlich und das
+nach Maßgabe der §§ 1 und 37 oder des § 86 durchzuführen ist, wenn
+sie die Durchführung eines solchen Verfahrens für erforderlich und das
 Interesse der Beteiligten für gegeben hält; § 5 Abs. 1 und 2 und § 6
 Abs. 2 und 3 sind entsprechend anzuwenden.
 
 (4) Die obere Flurbereinigungsbehörde kann auf Antrag der
-Enteignungsbehörde anordnen, daß ein Flurbereinigungsverfahren als ein
-Verfahren unter Anwendung der §§ 87 bis 89 durchgeführt wird, wenn die
-Voraussetzungen des Absatzes 1 vorliegen; § 5 Abs. 1 und 2 und § 6
+Enteignungsbehörde anordnen, daß ein Flurbereinigungsverfahren als
+ein Verfahren unter Anwendung der §§ 87 bis 89 durchgeführt wird, wenn
+die Voraussetzungen des Absatzes 1 vorliegen; § 5 Abs. 1 und 2 und § 6
 Abs. 2 und 3 sind entsprechend anzuwenden.
 
 
@@ -2041,9 +1946,7 @@ Sondervorschriften:
     Verfahrens hinzuweisen. Die Voraussetzungen des § 1 brauchen nicht
     vorzuliegen.
 
-
 2.  Der Träger des Unternehmens ist Nebenbeteiligter (§ 10 Nr. 2).
-
 
 3.  Auf Antrag der für das Unternehmen zuständigen Behörde kann die
     Flurbereinigungsbehörde eine vorläufige Anordnung gemäß § 36 erlassen.
@@ -2056,55 +1959,50 @@ Sondervorschriften:
     werden. Die Entschädigung ist in der von der Flurbereinigungsbehörde
     festgesetzten Höhe zu Händen der Teilnehmergemeinschaft zu zahlen.
 
-
 4.  Die für das Unternehmen benötigten Flächen sind von den Teilnehmern
-    nach dem Verhältnis des Wertes ihrer alten Grundstücke zu dem Wert
-    aller Grundstücke des Flurbereinigungsgebietes aufzubringen; § 45
-    findet insoweit keine Anwendung. Zu der Aufbringung sind
+    nach dem Verhältnis des Wertes ihrer alten Grundstücke zu dem
+    Wert aller Grundstücke des Flurbereinigungsgebietes aufzubringen;
+    § 45 findet insoweit keine Anwendung. Zu der Aufbringung sind
     landwirtschaftliche oder gärtnerische Betriebe nur insoweit
     heranzuziehen, als ihre wirtschaftliche Fortführung nicht gefährdet
-    wird. Die Flächen werden durch den Flurbereinigungsplan dem Träger des
-    Unternehmens zu Eigentum zugeteilt. Für die von einem Teilnehmer
-    aufgebrachte Fläche hat ihm der Träger des Unternehmens
+    wird. Die Flächen werden durch den Flurbereinigungsplan dem
+    Träger des Unternehmens zu Eigentum zugeteilt. Für die von einem
+    Teilnehmer aufgebrachte Fläche hat ihm der Träger des Unternehmens
     Geldentschädigung zu leisten.
-
 
 5.  Der Träger des Unternehmens hat Nachteile, die Beteiligten durch das
     Unternehmen entstehen, zu beheben und, soweit dies nicht möglich ist
     oder nach dem Ermessen der Flurbereinigungsbehörde nicht zweckmäßig
     erscheint, für sie Geldentschädigung zu leisten.
 
-
 6.  Die vom Träger des Unternehmens zur Behebung von Nachteilen nach
-    Nummer 5 zu erbringenden Leistungen und die Geldentschädigungen nach
-    den Nummern 3 bis 5 richten sich nach dem für das Unternehmen
+    Nummer 5 zu erbringenden Leistungen und die Geldentschädigungen
+    nach den Nummern 3 bis 5 richten sich nach dem für das Unternehmen
     geltenden Gesetz. Sie werden nach Anhörung des Trägers des
     Unternehmens von der Flurbereinigungsbehörde festgesetzt. Die
-    Geldentschädigungen sind zu Händen der Teilnehmergemeinschaft zu
-    zahlen und können gegen Beiträge (§ 19) verrechnet werden. Eine
-    Verrechnung von Geldentschädigungen nach Nummer 5 findet nur in dem
-    Umfange statt, in dem sie nicht zur Behebung der den Teilnehmern durch
-    das Unternehmen entstandenen Nachteile verwendet worden sind. Der
-    Träger des Unternehmens hat auf die von ihm zu zahlenden
-    Geldentschädigungen in der von der Flurbereinigungsbehörde
-    festgesetzten Höhe zu Händen der Teilnehmergemeinschaft Vorschüsse zu
-    leisten.
+    Geldentschädigungen sind zu Händen der Teilnehmergemeinschaft
+    zu zahlen und können gegen Beiträge (§ 19) verrechnet werden.
+    Eine Verrechnung von Geldentschädigungen nach Nummer 5 findet
+    nur in dem Umfange statt, in dem sie nicht zur Behebung der den
+    Teilnehmern durch das Unternehmen entstandenen Nachteile verwendet
+    worden sind. Der Träger des Unternehmens hat auf die von ihm zu
+    zahlenden Geldentschädigungen in der von der Flurbereinigungsbehörde
+    festgesetzten Höhe zu Händen der Teilnehmergemeinschaft Vorschüsse
+    zu leisten.
 
-
-7.  Wegen der Höhe der Geldentschädigungen steht nur der Rechtsweg vor den
-    ordentlichen Gerichten nach dem für das Unternehmen geltenden Gesetz
-    offen. Der Anspruch auf die Geldentschädigung für die von einem
-    Teilnehmer aufgebrachte Fläche kann gerichtlich erst geltend gemacht
-    werden, wenn die Landabfindungen aller Teilnehmer unanfechtbar
-    feststehen. Die Frist für eine gerichtliche Geltendmachung des in Satz
-    2 bezeichneten Anspruchs beginnt erst in dem Zeitpunkt, in dem die
-    Flurbereinigungsbehörde dem Entschädigungsberechtigten, dem der
-    Rechtsweg insoweit noch offensteht, mitgeteilt hat, daß die
+7.  Wegen der Höhe der Geldentschädigungen steht nur der Rechtsweg vor
+    den ordentlichen Gerichten nach dem für das Unternehmen geltenden
+    Gesetz offen. Der Anspruch auf die Geldentschädigung für die von
+    einem Teilnehmer aufgebrachte Fläche kann gerichtlich erst geltend
+    gemacht werden, wenn die Landabfindungen aller Teilnehmer unanfechtbar
+    feststehen. Die Frist für eine gerichtliche Geltendmachung des in
+    Satz 2 bezeichneten Anspruchs beginnt erst in dem Zeitpunkt, in
+    dem die Flurbereinigungsbehörde dem Entschädigungsberechtigten,
+    dem der Rechtsweg insoweit noch offensteht, mitgeteilt hat, daß die
     Landabfindungen aller Teilnehmer unanfechtbar sind.
 
-
-8.  Der Träger des Unternehmens hat an die Teilnehmergemeinschaft den
-    Anteil an den Ausführungskosten (§ 105) zu zahlen, der durch
+8.  Der Träger des Unternehmens hat an die Teilnehmergemeinschaft
+    den Anteil an den Ausführungskosten (§ 105) zu zahlen, der durch
     Bereitstellung der zugeteilten Flächen und Ausführung der durch das
     Unternehmen nötig gewordenen gemeinschaftlichen Anlagen verursacht
     ist. Die obere Flurbereinigungsbehörde setzt den Anteil nach Anhörung
@@ -2113,33 +2011,28 @@ Sondervorschriften:
     Sie werden von der Flurbereinigungsbehörde nach Anhörung des Trägers
     des Unternehmens festgesetzt.
 
-
-9.  Der Träger des Unternehmens hat den von ihm verursachten Anteil an den
-    Verfahrenskosten zu zahlen. Der Anteil wird von der oberen
+9.  Der Träger des Unternehmens hat den von ihm verursachten Anteil
+    an den Verfahrenskosten zu zahlen. Der Anteil wird von der oberen
     Flurbereinigungsbehörde nach Anhörung des Trägers des Unternehmens
     festgesetzt.
-
 
 10. Das vereinfachte Flurbereinigungsverfahren (§ 86) und das
     beschleunigte Zusammenlegungsverfahren (§§ 91 bis 103) sind nicht
     anzuwenden.
 
 
-
-
-
 #### § 89
 
 (1) Soweit im Falle des § 87 ein Teilnehmer nach dem für das
-Unternehmen geltenden Gesetz keinen Anspruch auf Entschädigung in Land
-hat, kann die Enteignungsbehörde entscheiden, daß er im
+Unternehmen geltenden Gesetz keinen Anspruch auf Entschädigung
+in Land hat, kann die Enteignungsbehörde entscheiden, daß er im
 Flurbereinigungsverfahren in Geld zu entschädigen ist. Die Anfechtung
 der Entscheidung richtet sich nach dem für das Unternehmen geltenden
 Gesetz.
 
 (2) Über die Höhe der Geldentschädigung entscheidet die
-Flurbereinigungsbehörde, nachdem die Entscheidung nach Absatz 1
-unanfechtbar geworden ist. Abweichend von § 88 Nr. 7 kann die
+Flurbereinigungsbehörde, nachdem die Entscheidung nach Absatz
+1 unanfechtbar geworden ist. Abweichend von § 88 Nr. 7 kann die
 Entscheidung über die Höhe der Geldentschädigung bereits angefochten
 werden, sobald sie ergangen ist. Die Geldentschädigung kann schon vor
 der Ausführung des Flurbereinigungsplanes ausgezahlt werden; § 52 Abs.
@@ -2149,18 +2042,17 @@ der Ausführung des Flurbereinigungsplanes ausgezahlt werden; § 52 Abs.
 #### § 90
 
 Wenn für ländliche Grundstücke eine Grundabtretung nach
-berggesetzlichen Vorschriften in großem Umfange durchgeführt oder
-zulässig ist und die Grundstückseigentümer den begründeten Anspruch
-erheben, daß der Bergwerksunternehmer das Eigentum an den Grundstücken
-erwirbt, kann der den Betroffenen entstehende Landverlust im Wege
-eines Flurbereinigungsverfahrens auf einen größeren Kreis von
-Eigentümern verteilt werden. In diesem Falle erwirbt der
+berggesetzlichen Vorschriften in großem Umfange durchgeführt
+oder zulässig ist und die Grundstückseigentümer den begründeten
+Anspruch erheben, daß der Bergwerksunternehmer das Eigentum an den
+Grundstücken erwirbt, kann der den Betroffenen entstehende Landverlust
+im Wege eines Flurbereinigungsverfahrens auf einen größeren Kreis
+von Eigentümern verteilt werden. In diesem Falle erwirbt der
 Bergwerksunternehmer das Eigentum durch den Flurbereinigungsplan. Die
 Vorschriften des § 88 sind sinngemäß anzuwenden.
 
 
 ## Fünfter Teil - Beschleunigtes Zusammenlegungsverfahren
-
 
 
 ### § 91
@@ -2178,8 +2070,8 @@ Zusammenlegung nach Maßgabe der folgenden Vorschriften stattfinden.
 
 (1) Die Zusammenlegung ist ein durch die Flurbereinigungsbehörde
 geleitetes Verfahren, in dem innerhalb eines bestimmten Gebietes
-(Zusammenlegungsgebiet) ländlicher Grundbesitz unter Mitwirkung der
-Gesamtheit der beteiligten Grundstückseigentümer wirtschaftlich
+(Zusammenlegungsgebiet) ländlicher Grundbesitz unter Mitwirkung
+der Gesamtheit der beteiligten Grundstückseigentümer wirtschaftlich
 zusammengelegt, zweckmäßig gestaltet oder neu geordnet wird. Sie kann
 auf den Grundbesitz oder Teile des Grundbesitzes bestimmter Eigentümer
 beschränkt werden.
@@ -2195,8 +2087,8 @@ der Zusammenlegung und den §§ 93 bis 103 Abweichungen ergeben.
 Grundstückseigentümer oder die landwirtschaftliche Berufsvertretung
 sie beantragen. Für Maßnahmen des Naturschutzes und der
 Landschaftspflege kann sie auch eingeleitet werden, wenn die für
-Naturschutz und Landschaftspflege zuständige Behörde sie beantragt und
-die Zusammenlegung zugleich dem Interesse der betroffenen
+Naturschutz und Landschaftspflege zuständige Behörde sie beantragt
+und die Zusammenlegung zugleich dem Interesse der betroffenen
 Grundstückseigentümer dient.
 
 (2) Für die Anordnung der Zusammenlegung (Zusammenlegungsbeschluß)
@@ -2211,10 +2103,10 @@ Gemeindeverband zu hören.
 (1) Nachträgliche Änderungen des Zusammenlegungsgebietes bedürfen der
 Zustimmung des Vorstandes der Teilnehmergemeinschaft.
 
-(2) Die Einstellung des Verfahrens kann nach Anhörung des Vorstandes
-der Teilnehmergemeinschaft und der landwirtschaftlichen
-Berufsvertretung von der Flurbereinigungsbehörde mit Zustimmung der
-oberen Flurbereinigungsbehörde angeordnet werden, wenn seine
+(2) Die Einstellung des Verfahrens kann nach Anhörung des
+Vorstandes der Teilnehmergemeinschaft und der landwirtschaftlichen
+Berufsvertretung von der Flurbereinigungsbehörde mit Zustimmung
+der oberen Flurbereinigungsbehörde angeordnet werden, wenn seine
 Durchführung unzweckmäßig erscheint. § 93 Abs. 2 ist sinngemäß
 anzuwenden.
 
@@ -2237,9 +2129,9 @@ des Zusammenlegungsplanes (§ 100) verbunden werden.
 
 ### § 97
 
-Der zersplitterte Grundbesitz ist großzügig zusammenzulegen. Nach
-Möglichkeit sollen ganze Flurstücke ausgetauscht werden. Die
-Veränderung und Neuanlage von Wegen und Gewässern sowie
+Der zersplitterte Grundbesitz ist großzügig zusammenzulegen.
+Nach Möglichkeit sollen ganze Flurstücke ausgetauscht werden.
+Die Veränderung und Neuanlage von Wegen und Gewässern sowie
 Bodenverbesserungen sollen sich auf die nötigsten Maßnahmen
 beschränken. Ein Wege- und Gewässerplan mit landschaftspflegerischem
 Begleitplan (§ 41) wird nicht aufgestellt. Wird die Zusammenlegung
@@ -2258,46 +2150,46 @@ nicht anzuwenden ist.
 
 ### § 99
 
-(1) Die Abfindungen sind nach Möglichkeit durch Vereinbarungen mit den
-Beteiligten zu bestimmen. Die Vereinbarungen bedürfen der Genehmigung
-der Flurbereinigungsbehörde. Zu ihrer Wirksamkeit genügt die
-schriftliche Form (§ 126 des Bürgerlichen Gesetzbuchs).
+(1) Die Abfindungen sind nach Möglichkeit durch Vereinbarungen
+mit den Beteiligten zu bestimmen. Die Vereinbarungen bedürfen der
+Genehmigung der Flurbereinigungsbehörde. Zu ihrer Wirksamkeit genügt
+die schriftliche Form (§ 126 des Bürgerlichen Gesetzbuchs).
 
 (2) Die Flurbereinigungsbehörde kann geeignete Stellen, insbesondere
-die landwirtschaftliche Berufsvertretung oder Dienststellen der
-landwirtschaftlichen Verwaltung, mit deren Zustimmung oder sachkundige
-Personen beauftragen, die Verhandlungen zur Erzielung einer
-Vereinbarung mit den Beteiligten zu führen und einen
+die landwirtschaftliche Berufsvertretung oder Dienststellen
+der landwirtschaftlichen Verwaltung, mit deren Zustimmung oder
+sachkundige Personen beauftragen, die Verhandlungen zur Erzielung
+einer Vereinbarung mit den Beteiligten zu führen und einen
 Zusammenlegungsplan vorzulegen. Der Auftrag kann zurückgezogen werden.
 
 (3) Ist eine Vereinbarung nicht zu erzielen, so werden die Abfindungen
-von Amts wegen durch die Flurbereinigungsbehörde bestimmt. Dabei sind
-die Ergebnisse einer Vorplanung nach § 1 Abs. 2 des Gesetzes über die
-Gemeinschaftsaufgabe "Verbesserung der Agrarstruktur und des
-Küstenschutzes" vom 3. September 1969 (Bundesgesetzbl. I S. 1573),
-geändert durch das Gesetz zur Änderung der Gesetze über die
+von Amts wegen durch die Flurbereinigungsbehörde bestimmt. Dabei
+sind die Ergebnisse einer Vorplanung nach § 1 Abs. 2 des Gesetzes
+über die Gemeinschaftsaufgabe "Verbesserung der Agrarstruktur und
+des Küstenschutzes" vom 3. September 1969 (Bundesgesetzbl. I S.
+1573), *geändert durch das Gesetz zur Änderung der Gesetze über die
 Gemeinschaftsaufgaben vom 23. Dezember 1971 (Bundesgesetzbl. I S.
-2140),              Vorplanungen der landwirtschaftlichen
-Berufsvertretung oder anderer landwirtschaftlicher Stellen sowie des
-Naturschutzes und der Landschaftspflege in dem möglichen Umfange zu
-berücksichtigen, die Erfordernisse der Raumordnung, der Landesplanung
-und des Städtebaues sind zu beachten; die übrigen Vorschriften der §§
-38 und 56 sind nicht anzuwenden.
+2140),* Vorplanungen der landwirtschaftlichen Berufsvertretung oder
+anderer landwirtschaftlicher Stellen sowie des Naturschutzes und der
+Landschaftspflege in dem möglichen Umfange zu berücksichtigen, die
+Erfordernisse der Raumordnung, der Landesplanung und des Städtebaues
+sind zu beachten; die übrigen Vorschriften der §§ 38 und 56 sind nicht
+anzuwenden.
 
 
 ### § 100
 
 An die Stelle des Flurbereinigungsplanes tritt der
-Zusammenlegungsplan. Auf diesen sind die Vorschriften der §§ 58 bis 60
-sinngemäß anzuwenden. Gemeindegrenzen sollen jedoch nicht geändert
+Zusammenlegungsplan. Auf diesen sind die Vorschriften der §§ 58 bis
+60 sinngemäß anzuwenden. Gemeindegrenzen sollen jedoch nicht geändert
 werden.
 
 
 ### § 101
 
-Die Ausführungsanordnung (§§ 61 und 63), die Anordnung der vorläufigen
-Besitzeinweisung (§ 65) und die Überleitungsbestimmungen sind den
-Beteiligten in Abschrift zu übersenden oder öffentlich
+Die Ausführungsanordnung (§§ 61 und 63), die Anordnung der
+vorläufigen Besitzeinweisung (§ 65) und die Überleitungsbestimmungen
+sind den Beteiligten in Abschrift zu übersenden oder öffentlich
 bekanntzumachen.
 
 
@@ -2311,11 +2203,11 @@ Durchführung eines Flurbereinigungsverfahrens nicht aus.
 
 Das Bayerische Gesetz über die Zusammenlegung von landwirtschaftlichen
 Grundstücken (Arrondierungsgesetz) in der Fassung der Bekanntmachung
-vom 11. August 1954 (Bayerisches Gesetz- und Verordnungsblatt S. 169)
-und die Zweite Verordnung des Staatsministeriums des Landes
+vom 11. August 1954 (Bayerisches Gesetz- und Verordnungsblatt S.
+169) und die Zweite Verordnung des Staatsministeriums des Landes
 Württemberg-Hohenzollern zur Durchführung des Bodenreformgesetzes
-(Agrarreformverordnung) vom 16. Dezember 1949 (Regierungsblatt für das
-Land Württemberg-Hohenzollern 1950 S. 7), geändert durch das
+(Agrarreformverordnung) vom 16. Dezember 1949 (Regierungsblatt für
+das Land Württemberg-Hohenzollern 1950 S. 7), geändert durch das
 Landesjustizkostengesetz vom 30. März 1971 (Gesetzblatt für Baden-
 Württemberg S. 96), bleiben unberührt.
 
@@ -2323,11 +2215,10 @@ Württemberg S. 96), bleiben unberührt.
 ## Sechster Teil - Freiwilliger Landtausch
 
 
-
 ### § 103a
 
-(1) Um ländliche Grundstücke zur Verbesserung der Agrarstruktur in
-einem schnellen und einfachen Verfahren neu zu ordnen, kann ein
+(1) Um ländliche Grundstücke zur Verbesserung der Agrarstruktur
+in einem schnellen und einfachen Verfahren neu zu ordnen, kann ein
 freiwilliger Landtausch durchgeführt werden.
 
 (2) Der freiwillige Landtausch kann auch aus Gründen des Naturschutzes
@@ -2344,21 +2235,21 @@ Flurbereinigung sinngemäß Anwendung, soweit sich nicht aus dem Zweck
 des freiwilligen Landtausches und den §§ 103c bis 103i Abweichungen
 ergeben.
 
-(2) Die Vorschriften über die Teilnehmergemeinschaft (§§ 16 bis 26),
-über das Wertermittlungsverfahren (§§ 27 bis 33), über die Grundsätze
-für die Abfindung (§§ 44 bis 55) und über die vorläufige
+(2) Die Vorschriften über die Teilnehmergemeinschaft (§§ 16 bis
+26), über das Wertermittlungsverfahren (§§ 27 bis 33), über die
+Grundsätze für die Abfindung (§§ 44 bis 55) und über die vorläufige
 Besitzeinweisung (§ 65) sowie über die Vertreterbestellung (§ 119)
 gelten nicht.
 
 
 ### § 103c
 
-(1) Die Durchführung des freiwilligen Landtausches setzt voraus, daß
-die Tauschpartner sie schriftlich oder zur Niederschrift bei der
+(1) Die Durchführung des freiwilligen Landtausches setzt voraus,
+daß die Tauschpartner sie schriftlich oder zur Niederschrift bei der
 Flurbereinigungsbehörde beantragen. Der Antrag soll zurückgewiesen
 werden, wenn die Antragsteller nicht glaubhaft dartun, daß die
-Durchführung des freiwilligen Landtausches sich verwirklichen läßt.
-Die Zurückweisung des Antrages ist zu begründen; sie ist den
+Durchführung des freiwilligen Landtausches sich verwirklichen
+läßt. Die Zurückweisung des Antrages ist zu begründen; sie ist den
 Antragstellern bekanntzumachen.
 
 (2) Für die Anordnung des freiwilligen Landtausches gelten § 6 Abs. 1
@@ -2373,8 +2264,8 @@ zuständig; § 9 Abs. 1 und § 86 Abs. 2 Nr. 1 gelten entsprechend.
 
 ### § 103e
 
-Die Tauschgrundstücke sollen großzügig zusammengelegt werden. Nach
-Möglichkeit sollen ganze Flurstücke getauscht und wege- und
+Die Tauschgrundstücke sollen großzügig zusammengelegt werden.
+Nach Möglichkeit sollen ganze Flurstücke getauscht und wege- und
 gewässerbauliche sowie bodenverbessernde Maßnahmen vermieden werden.
 Ein Wege- und Gewässerplan mit landschaftspflegerischem Begleitplan (§
 41) wird nicht aufgestellt.
@@ -2382,8 +2273,8 @@ Ein Wege- und Gewässerplan mit landschaftspflegerischem Begleitplan (§
 
 ### § 103f
 
-(1) An die Stelle des Flurbereinigungsplanes tritt der Tauschplan. Die
-Flurbereinigungsbehörde hat die Einverständniserklärungen der
+(1) An die Stelle des Flurbereinigungsplanes tritt der Tauschplan.
+Die Flurbereinigungsbehörde hat die Einverständniserklärungen der
 betroffenen Rechtsinhaber herbeizuführen. Bestehen keine Bedenken
 gegen die Durchführung des freiwilligen Landtausches, faßt die
 Flurbereinigungsbehörde die Vereinbarungen über die zu tauschenden
@@ -2447,7 +2338,6 @@ Flurbereinigungsverfahrens nicht aus.
 ## Siebenter Teil - Verbindung von Flurbereinigungsverfahren beschleunigtem Zusammenlegungsverfahren und freiwilligem Landtausch
 
 
-
 ### § 103j
 
 Ein Flurbereinigungsverfahren kann ganz oder in Teilen des
@@ -2465,7 +2355,6 @@ werden.
 ## Achter Teil - Kosten
 
 
-
 ### § 104
 
 Die persönlichen und sächlichen Kosten der Behördenorganisation
@@ -2481,8 +2370,8 @@ fallen der Teilnehmergemeinschaft zur Last (Ausführungskosten).
 ### § 106
 
 Eigentümern von Grundstücken, die nicht zum Flurbereinigungsgebiet
-gehören, aber von der Flurbereinigung wesentliche Vorteile haben, ist
-durch den Flurbereinigungsplan ein den Vorteilen entsprechender
+gehören, aber von der Flurbereinigung wesentliche Vorteile haben,
+ist durch den Flurbereinigungsplan ein den Vorteilen entsprechender
 Beitrag zu den Ausführungskosten aufzuerlegen. Der Beitrag ruht als
 öffentliche Last auf den Grundstücken, für die er festgesetzt ist.
 
@@ -2491,8 +2380,8 @@ Beitrag zu den Ausführungskosten aufzuerlegen. Der Beitrag ruht als
 
 (1) Ist die Erledigung eines Antrages zur Durchführung des
 Flurbereinigungsverfahrens nicht erforderlich, so trägt der
-Antragsteller die Kosten. Die Flurbereinigungsbehörde setzt den zu
-erhebenden Kostenbetrag unter Berücksichtigung der wirklich
+Antragsteller die Kosten. Die Flurbereinigungsbehörde setzt den
+zu erhebenden Kostenbetrag unter Berücksichtigung der wirklich
 erwachsenen Kosten fest. Sie kann von dem Kostenpflichtigen einen
 Vorschuß erheben, der nach der Höhe der voraussichtlich entstehenden
 Kosten zu bemessen ist; wird der Vorschuß nicht innerhalb der von der
@@ -2514,8 +2403,8 @@ Abgaben; hiervon unberührt bleiben Regelungen hinsichtlich der
 Gebühren, Kosten und Abgaben, die auf landesrechtlichen Vorschriften
 beruhen.
 
-(2) Die Gebühren-, Steuer-, Kosten- und Abgabefreiheit ist von der
-zuständigen Behörde ohne Nachprüfung anzuerkennen, wenn die
+(2) Die Gebühren-, Steuer-, Kosten- und Abgabefreiheit ist von
+der zuständigen Behörde ohne Nachprüfung anzuerkennen, wenn die
 Flurbereinigungsbehörde versichert, daß ein Geschäft oder eine
 Verhandlung der Durchführung der Flurbereinigung dient.
 
@@ -2525,14 +2414,13 @@ Verhandlung der Durchführung der Flurbereinigung dient.
 ## Neunter Teil - Allgemeine Verfahrensvorschriften
 
 
-
 ### § 109
 
 Die Berufsvertretung der Landwirtschaft, Forstwirtschaft oder
-Fischerei, soweit sie nach den Vorschriften dieses Gesetzes zu hören
-oder zu beteiligen ist, ist die Landwirtschaftskammer. In den Ländern,
-in denen eine Landwirtschaftskammer nicht besteht oder zur Vertretung
-eines Berufsstandes nicht befugt ist, bestimmt die für die
+Fischerei, soweit sie nach den Vorschriften dieses Gesetzes zu
+hören oder zu beteiligen ist, ist die Landwirtschaftskammer. In den
+Ländern, in denen eine Landwirtschaftskammer nicht besteht oder zur
+Vertretung eines Berufsstandes nicht befugt ist, bestimmt die für die
 Landwirtschaft zuständige oberste Landesbehörde die Organisation und
 deren Organ, das im Einzelfall zu beteiligen ist.
 
@@ -2552,14 +2440,14 @@ Bekanntmachungen erhalten.
 ### § 111
 
 (1) Ladungen und andere Mitteilungen können, soweit dieses Gesetz
-nichts anderes bestimmt, in jeder Form bekanntgegeben werden. Sollen
-Ladungen und andere Mitteilungen in Flurbereinigungs- oder
+nichts anderes bestimmt, in jeder Form bekanntgegeben werden.
+Sollen Ladungen und andere Mitteilungen in Flurbereinigungs- oder
 angrenzenden Gemeinden mehreren Beteiligten bekanntgegeben werden, so
 kann die Bekanntgabe, soweit dieses Gesetz nichts anderes bestimmt,
 durch öffentliche Bekanntmachung erfolgen.
 
-(2) Die Bekanntgabe ist urkundlich nachzuweisen, wenn die Ladung oder
-Mitteilung eine Frist in Lauf setzt oder Rechtsfolgen an ihre
+(2) Die Bekanntgabe ist urkundlich nachzuweisen, wenn die Ladung
+oder Mitteilung eine Frist in Lauf setzt oder Rechtsfolgen an ihre
 Nichtbeachtung geknüpft werden sollen.
 
 (3) Bekanntgaben an Körperschaften des öffentlichen Rechts sollen
@@ -2578,11 +2466,10 @@ Sonderart der Zustellung.
 Mehreren Beteiligten in einer Gemeinde kann auch durch Umlauf
 zugestellt werden. Dabei gilt folgendes:
 
-1.  Das zuzustellende Schriftstück ist zur Kenntnisnahme vorzulegen. Eine
-    beglaubigte Abschrift ist bei der Gemeinde des Zustellungsortes oder
-    bei einem der Beteiligten, an die der Umlauf gerichtet ist,
+1.  Das zuzustellende Schriftstück ist zur Kenntnisnahme vorzulegen.
+    Eine beglaubigte Abschrift ist bei der Gemeinde des Zustellungsortes
+    oder bei einem der Beteiligten, an die der Umlauf gerichtet ist,
     niederzulegen. Die Niederlegung ist in dem Schriftstück zu vermerken.
-
 
 2.  In den Fällen des § 5 Abs. 2 des Verwaltungszustellungsgesetzes ist
     anstelle des Schriftstückes eine schriftliche Mitteilung über die
@@ -2591,11 +2478,7 @@ zugestellt werden. Dabei gilt folgendes:
     § 5 Abs. 2 des Verwaltungszustellungsgesetzes in Verbindung mit § 181
     Abs. 1 Satz 2 der Zivilprozessordnung hinzuweisen.
 
-
 3.  Widerspruchsbescheide dürfen nicht durch Umlauf zugestellt werden.
-
-
-
 
 
 ### § 114
@@ -2631,14 +2514,14 @@ Frist mit Ablauf des nächsten Werktages.
 (1) Die Flurbereinigungsbehörde und die obere Flurbereinigungsbehörde
 können das persönliche Erscheinen der Beteiligten anordnen,
 Sachverständige und Zeugen vernehmen und den nach ihrem Ermessen
-erforderlichen Beweis in vollem Umfange erheben. Sie können anordnen,
-daß Beteiligte die in ihrem Besitz befindlichen zur Aufklärung
-notwendigen Urkunden, Hypotheken-, Grundschuld- und
+erforderlichen Beweis in vollem Umfange erheben. Sie können
+anordnen, daß Beteiligte die in ihrem Besitz befindlichen zur
+Aufklärung notwendigen Urkunden, Hypotheken-, Grundschuld- und
 Rentenschuldgläubiger die in ihrem Besitz befindlichen Hypotheken-,
 Grundschuld- und Rentenschuldbriefe vorlegen.
 
-(2) Nur das Flurbereinigungsgericht oder das Amtsgericht kann im Wege
-der Amtshilfe Zeugen und Sachverständige eidlich vernehmen. Die
+(2) Nur das Flurbereinigungsgericht oder das Amtsgericht kann im
+Wege der Amtshilfe Zeugen und Sachverständige eidlich vernehmen. Die
 Vorschriften der Zivilprozeßordnung finden sinngemäß Anwendung. § 135
 Abs. 1 Satz 1 bleibt unberührt.
 
@@ -2650,9 +2533,9 @@ Abs. 1 Satz 1 bleibt unberührt.
 (2) Er kann Personen, die seine Anordnungen zur Wahrung der Ordnung
 nicht befolgen, vom Verhandlungsort entfernen lassen.
 
-(3) Gegen Personen, die sich einer Ungebühr schuldig machen oder seine
-Anordnungen zur Wahrung der Ordnung nicht befolgen, kann er
-vorbehaltlich der strafrechtlichen Verfolgung ein Ordnungsgeld
+(3) Gegen Personen, die sich einer Ungebühr schuldig machen oder
+seine Anordnungen zur Wahrung der Ordnung nicht befolgen, kann
+er vorbehaltlich der strafrechtlichen Verfolgung ein Ordnungsgeld
 festsetzen.
 
 (4) Die Entfernung von Personen, die Festsetzung eines Ordnungsgeldes
@@ -2668,34 +2551,27 @@ abzugebenden Erklärungen keiner Genehmigung ihrer Aufsichtsbehörde.
 ### § 119
 
 (1) Auf Ersuchen der Flurbereinigungsbehörde oder der oberen
-Flurbereinigungsbehörde hat das nach Absatz 2 zuständige Gericht, wenn
-ein Vertreter nicht vorhanden ist, einen geeigneten Vertreter zu
-bestellen:
+Flurbereinigungsbehörde hat das nach Absatz 2 zuständige Gericht,
+wenn ein Vertreter nicht vorhanden ist, einen geeigneten Vertreter
+zu bestellen:
 
 1.  für einen Beteiligten, dessen Person unbekannt ist;
 
-
 2.  für einen abwesenden Beteiligten, dessen Aufenthalt unbekannt ist oder
     der an der Besorgung seiner Angelegenheiten verhindert ist;
-
 
 3.  für einen Beteiligten ohne Aufenthalt im Geltungsbereich dieses
     Gesetzes, wenn er der Aufforderung der Behörde, einen Vertreter zu
     bestellen, innerhalb der ihm gesetzten Frist nicht nachgekommen ist;
 
-
-4.  bei herrenlosen Grundstücken, auf die sich das Verfahren bezieht, zur
-    Wahrung der sich in bezug auf das Grundstück ergebenden Rechte und
-    Pflichten;
-
+4.  bei herrenlosen Grundstücken, auf die sich das Verfahren bezieht,
+    zur Wahrung der sich in bezug auf das Grundstück ergebenden Rechte
+    und Pflichten;
 
 5.  für Miteigentümer oder gemeinschaftliche Eigentümer von Grundstücken,
     sofern sie der Aufforderung der Flurbereinigungsbehörde oder der
     oberen Flurbereinigungsbehörde, einen gemeinsamen Bevollmächtigten zu
     bestellen, innerhalb der ihnen gesetzten Frist nicht nachkommen.
-
-
-
 
 (2) Für die Bestellung des Vertreters in den in Absatz 1 genannten
 Fällen ist das Betreuungsgericht zuständig, in dessen Bezirk die
@@ -2775,8 +2651,8 @@ Handlungen nach Absatz 1 ermächtigt.
 oder durch eine Veränderung in seiner Geschäftsfähigkeit oder seiner
 gesetzlichen Vertretung.
 
-(2) Widerruft der zum Widerruf Berechtigte die Vollmacht, so wird das
-Erlöschen der Vollmacht erst durch Anzeige an die
+(2) Widerruft der zum Widerruf Berechtigte die Vollmacht, so
+wird das Erlöschen der Vollmacht erst durch Anzeige an die
 Flurbereinigungsbehörde rechtswirksam.
 
 (3) Der Bevollmächtigte wird durch die von seiner Seite erfolgte
@@ -2805,8 +2681,8 @@ als unbestellbar zurückkommt.
 
 ### § 128
 
-Wohnen Beteiligte außerhalb des Geltungsbereichs dieses Gesetzes, so
-sind sie aufzufordern, innerhalb angemessener Frist einen im
+Wohnen Beteiligte außerhalb des Geltungsbereichs dieses Gesetzes,
+so sind sie aufzufordern, innerhalb angemessener Frist einen im
 Geltungsbereich dieses Gesetzes wohnenden Bevollmächtigten zu
 bestellen. § 14 Abs. 2 bis 4 gilt entsprechend.
 
@@ -2847,18 +2723,18 @@ der Nachweis der Fälschung zulässig.
 
 ### § 132
 
-Schreibfehler, Rechenfehler und ähnliche offenbare Unrichtigkeiten in
-Verhandlungsniederschriften, im Flurbereinigungsplan, in Anordnungen,
-Beschlüssen und Bescheiden können von Amts wegen berichtigt werden.
-Dies gilt auch für solche unerheblichen Fehler im
-Flurbereinigungsplan, die auf unrichtigen Vermessungsunterlagen
+Schreibfehler, Rechenfehler und ähnliche offenbare Unrichtigkeiten
+in Verhandlungsniederschriften, im Flurbereinigungsplan, in
+Anordnungen, Beschlüssen und Bescheiden können von Amts wegen
+berichtigt werden. Dies gilt auch für solche unerheblichen Fehler
+im Flurbereinigungsplan, die auf unrichtigen Vermessungsunterlagen
 beruhen.
 
 
 ### § 133
 
-Jedem Beteiligten müssen auf Verlangen gegen Erstattung der Kosten
-Abschriften aus Verhandlungsniederschriften und
+Jedem Beteiligten müssen auf Verlangen gegen Erstattung
+der Kosten Abschriften aus Verhandlungsniederschriften und
 Flurbereinigungsnachweisen sowie Abzeichnungen aus Karten, auf Antrag
 in beglaubigter Form, erteilt werden, soweit er ein berechtigtes
 Interesse darlegt.
@@ -2890,17 +2766,17 @@ eigenen Verschulden des Vertretenen gleich.
 Gemeinden und Gemeindeverbände sowie anderer Körperschaften des
 öffentlichen Rechts gewähren den Flurbereinigungsbehörden die
 erforderliche Rechts- und Amtshilfe, insbesondere bei der Ermittlung
-der Beteiligten, bei Bekanntmachungen und Zustellungen, bei der
-Vollstreckung und bei der Anwendung von Zwang, und erteilen Auskünfte.
-Die Vermessungsbehörden sind verpflichtet, auf Ersuchen der
-Flurbereinigungsbehörde Abdrucke oder Lichtpausen von Karten und
+der Beteiligten, bei Bekanntmachungen und Zustellungen, bei
+der Vollstreckung und bei der Anwendung von Zwang, und erteilen
+Auskünfte. Die Vermessungsbehörden sind verpflichtet, auf Ersuchen
+der Flurbereinigungsbehörde Abdrucke oder Lichtpausen von Karten und
 Zusammendrucke in einheitlichem Maßstab unverzüglich anzufertigen und
 Bücher, Karten und andere Dokumente vorübergehend zu überlassen.
 
-(2) Die ersuchende Behörde hat der ersuchten Behörde für die Amtshilfe
-keine Verwaltungsgebühr zu entrichten, es sei denn, daß in
-landesrechtlichen Vorschriften eine Erstattung vorgesehen ist oder
-wird. Auslagen hat sie der ersuchten Behörde auf Anforderung zu
+(2) Die ersuchende Behörde hat der ersuchten Behörde für die
+Amtshilfe keine Verwaltungsgebühr zu entrichten, es sei denn, daß
+in landesrechtlichen Vorschriften eine Erstattung vorgesehen ist
+oder wird. Auslagen hat sie der ersuchten Behörde auf Anforderung zu
 erstatten, wenn sie im Einzelfall fünfzig Deutsche Mark übersteigen.
 Leisten Behörden desselben Rechtsträgers einander Amtshilfe, so werden
 die Auslagen nicht erstattet.
@@ -2912,13 +2788,13 @@ hierfür geschuldeten Kosten (Gebühren und Auslagen) zu.
 
 ### § 136
 
-(1) Für die Vollstreckung von Geldforderungen sind die §§ 1 bis 5 des
-Verwaltungs-Vollstreckungsgesetzes (VwVG) vom 27. April 1953
-(Bundesgesetzblatt I S. 157), zuletzt geändert durch das
-Einführungsgesetz zum Strafgesetzbuch vom 2. März 1974
-(Bundesgesetzbl. I S. 469),              sinngemäß anzuwenden.
-Geldforderungen der Teilnehmergemeinschaft werden im
-Verwaltungszwangsverfahren wie Gemeindeabgaben vollstreckt.
+(1) Für die Vollstreckung von Geldforderungen sind die §§ 1
+bis 5 des Verwaltungs-Vollstreckungsgesetzes (VwVG) vom 27.
+April 1953 (Bundesgesetzblatt I S. 157), zuletzt geändert durch
+das *Einführungsgesetz zum Strafgesetzbuch vom 2. März 1974
+(Bundesgesetzbl. I S. 469),* sinngemäß anzuwenden. Geldforderungen
+der Teilnehmergemeinschaft werden im Verwaltungszwangsverfahren wie
+Gemeindeabgaben vollstreckt.
 
 (2) Vollstreckungsbehörde für Vollstreckungsmaßnahmen nach Absatz 1
 ist die Flurbereinigungsbehörde.
@@ -2932,12 +2808,9 @@ ist die Flurbereinigungsbehörde.
     Flurbereinigungsbehörde, der Teilnehmergemeinschaft und des Verbandes
     (§§ 26a und 26e);
 
-
 2.  in eine Verhandlungsniederschrift dieser Behörden, der
     Teilnehmergemeinschaft oder des Verbandes (§§ 26a und 26e)
     aufgenommene Verpflichtungserklärungen und Vereinbarungen.
-
-
 
 Die §§ 6 bis 18 VwVG gelten entsprechend. Vollzugsbehörde im Sinne des
 § 7 VwVG ist die Flurbereinigungsbehörde.
@@ -2951,13 +2824,12 @@ den §§ 10 und 12 VwVG genannten Zwangsmittel angewendet werden.
 ## Zehnter Teil - Rechtsbehelfsverfahren
 
 
-
 ### § 138
 
 (1) In jedem Land ist bei dem obersten Verwaltungsgericht ein Senat
 für Flurbereinigung (Flurbereinigungsgericht) einzurichten. Für die
-Gerichtsverfassung und das Verfahren gelten die Vorschriften über die
-Verwaltungsgerichtsbarkeit, soweit in den §§ 139 bis 148 nichts
+Gerichtsverfassung und das Verfahren gelten die Vorschriften über
+die Verwaltungsgerichtsbarkeit, soweit in den §§ 139 bis 148 nichts
 Abweichendes bestimmt ist.
 
 (2) Mehrere Länder können durch Staatsvertrag ein gemeinschaftliches
@@ -2973,19 +2845,19 @@ Richtern, ehrenamtlichen Richtern und Stellvertretern. Es verhandelt
 und entscheidet in der Besetzung von zwei Richtern und drei
 ehrenamtlichen Richtern; Vorsitzender ist ein Richter.
 
-(2) Die Richter und ihre Stellvertreter müssen die Befähigung zum
-Richteramt besitzen. Ein ehrenamtlicher Richter und dessen
-Stellvertreter müssen zum höheren Dienst der Flurbereinigungsbehörden
-befähigt und sollen mindestens drei Jahre in
-Flurbereinigungsangelegenheiten tätig gewesen sein; von dem letzteren
-Erfordernis kann abgesehen werden, wenn geeignete Personen nicht
-vorhanden sind, die diese Voraussetzungen erfüllen. Der in Satz 2
-genannte ehrenamtliche Richter und dessen Stellvertreter werden auf
-Vorschlag der für die Landwirtschaft zuständigen obersten
+(2) Die Richter und ihre Stellvertreter müssen die Befähigung
+zum Richteramt besitzen. Ein ehrenamtlicher Richter
+und dessen Stellvertreter müssen zum höheren Dienst der
+Flurbereinigungsbehörden befähigt und sollen mindestens drei Jahre
+in Flurbereinigungsangelegenheiten tätig gewesen sein; von dem
+letzteren Erfordernis kann abgesehen werden, wenn geeignete Personen
+nicht vorhanden sind, die diese Voraussetzungen erfüllen. Der in
+Satz 2 genannte ehrenamtliche Richter und dessen Stellvertreter
+werden auf Vorschlag der für die Landwirtschaft zuständigen obersten
 Landesbehörde für die Dauer von fünf Jahren ernannt.
 
-(3) Die anderen ehrenamtlichen Richter und ihre Stellvertreter müssen
-Inhaber eines landwirtschaftlichen Betriebes sein. Sie können
+(3) Die anderen ehrenamtlichen Richter und ihre Stellvertreter
+müssen Inhaber eines landwirtschaftlichen Betriebes sein. Sie können
 ausnahmsweise auch dann berufen werden, wenn sie ihren Betrieb bereits
 an den Hofnachfolger übergeben haben. Sie müssen besondere Erfahrungen
 in der landwirtschaftlichen Betriebswirtschaft haben. Ihre Berufung
@@ -2996,13 +2868,13 @@ bilden, so muß sie aus Landwirten und Forstwirten bestehen.
 ### § 140
 
 Das Flurbereinigungsgericht entscheidet über die Anfechtung von
-Verwaltungsakten, die im Vollzug dieses Gesetzes ergehen, über die
-Verurteilung zum Erlaß eines abgelehnten oder unterlassenen
+Verwaltungsakten, die im Vollzug dieses Gesetzes ergehen, über
+die Verurteilung zum Erlaß eines abgelehnten oder unterlassenen
 Verwaltungsaktes und über alle Streitigkeiten, die durch ein
-Flurbereinigungsverfahren hervorgerufen werden und vor Eintritt der
-Unanfechtbarkeit der Schlußfeststellung anhängig geworden sind, soweit
-hierfür der Verwaltungsrechtsweg gegeben ist. Für das Verfahren sind
-auch die §§ 118 bis 128 sinngemäß anzuwenden. § 67 Abs. 4 der
+Flurbereinigungsverfahren hervorgerufen werden und vor Eintritt
+der Unanfechtbarkeit der Schlußfeststellung anhängig geworden sind,
+soweit hierfür der Verwaltungsrechtsweg gegeben ist. Für das Verfahren
+sind auch die §§ 118 bis 128 sinngemäß anzuwenden. § 67 Abs. 4 der
 Verwaltungsgerichtsordnung findet keine Anwendung.
 
 
@@ -3013,25 +2885,21 @@ Verwaltungsgerichtsordnung findet keine Anwendung.
 1.  Verwaltungsakte der oberen Flurbereinigungsbehörde und der
     Flurbereinigungsbehörde bei der oberen Flurbereinigungsbehörde;
 
-
 2.  Verwaltungsakte der Teilnehmergemeinschaft bei der
     Flurbereinigungsbehörde;
-
 
 3.  Verwaltungsakte eines Verbandes der Teilnehmergemeinschaften oder
     eines Gesamtverbandes bei der nach den §§ 26d und 26e für die Aufsicht
     zuständigen Behörde.
-
-
 
 § 59 Abs. 2 bleibt unberührt. § 60 Abs. 1 Satz 3 und 4 gilt
 entsprechend.
 
 (2) Die Länder können bestimmen, daß zu den Entscheidungen über
 Widersprüche gegen die Ergebnisse der Wertermittlung oder den
-Flurbereinigungsplan zwei Landwirte ehrenamtlich zuzuziehen sind, für
-deren Bestellung § 139 Abs. 3 entsprechend anzuwenden ist. Ist eine
-solche Bestimmung getroffen, entscheidet die Behörde, die den
+Flurbereinigungsplan zwei Landwirte ehrenamtlich zuzuziehen sind,
+für deren Bestellung § 139 Abs. 3 entsprechend anzuwenden ist. Ist
+eine solche Bestimmung getroffen, entscheidet die Behörde, die den
 Widerspruchsbescheid zu erlassen hat, nach ihrer freien, aus den
 gesamten Verhandlungen und Ermittlungen gewonnenen Überzeugung.
 
@@ -3041,8 +2909,8 @@ gesamten Verhandlungen und Ermittlungen gewonnenen Überzeugung.
 (1)
 
 (2) Ist über einen Widerspruch oder über einen Antrag auf Vornahme
-eines Verwaltungsaktes innerhalb einer Frist von sechs Monaten, in den
-Fällen des § 59 Abs. 2 von einem Jahr, sachlich nicht entschieden
+eines Verwaltungsaktes innerhalb einer Frist von sechs Monaten, in
+den Fällen des § 59 Abs. 2 von einem Jahr, sachlich nicht entschieden
 worden, so ist die Klage ohne ein Vorverfahren zulässig. Die Erhebung
 der Klage ist in diesen Fällen nur bis zum Ablauf von weiteren drei
 Monaten seit Ablauf der Frist nach Satz 1 zulässig.
@@ -3054,12 +2922,12 @@ Art, Umfang und Höhe nicht bestimmt zu sein.
 ### § 143
 
 Der Vorsitzende des Flurbereinigungsgerichts nimmt die Ermittlungen
-und Verhandlungen vor, die er zur Vorbereitung der Entscheidung für
-erforderlich hält. Er kann einem Mitglied des Gerichts als
-beauftragtem Richter diese Aufgabe übertragen. Der Vorsitzende kann
-auch eine Flurbereinigungsbehörde sowie mit Zustimmung der zuständigen
-Dienststelle einen höheren Beamten einer oberen
-Flurbereinigungsbehörde oder einen höheren staatlichen
+und Verhandlungen vor, die er zur Vorbereitung der Entscheidung
+für erforderlich hält. Er kann einem Mitglied des Gerichts als
+beauftragtem Richter diese Aufgabe übertragen. Der Vorsitzende
+kann auch eine Flurbereinigungsbehörde sowie mit Zustimmung
+der zuständigen Dienststelle einen höheren Beamten einer
+oberen Flurbereinigungsbehörde oder einen höheren staatlichen
 kulturbautechnischen Beamten mit Erhebungen und Verhandlungen
 beauftragen und von ihnen gutachtliche Äußerungen fordern, die
 Vorschläge für Änderungen des Flurbereinigungsplanes enthalten können.
@@ -3070,14 +2938,14 @@ tätig waren, können nicht beauftragt werden.
 
 ### § 144
 
-Soweit das Flurbereinigungsgericht die Klage für begründet hält, kann
-es den angefochtenen Verwaltungsakt durch Urteil ändern oder den
-Widerspruchsbescheid der Flurbereinigungsbehörde oder der oberen
-Flurbereinigungsbehörde ganz oder teilweise aufheben und die Sache,
-soweit der Widerspruchsbescheid aufgehoben wird, zur erneuten
-Verhandlung und Bescheidung an die Flurbereinigungsbehörde oder die
-obere Flurbereinigungsbehörde zurückverweisen. Diese haben die
-Beurteilung, die der Aufhebung zugrunde gelegt ist, auch ihrer
+Soweit das Flurbereinigungsgericht die Klage für begründet hält,
+kann es den angefochtenen Verwaltungsakt durch Urteil ändern oder
+den Widerspruchsbescheid der Flurbereinigungsbehörde oder der
+oberen Flurbereinigungsbehörde ganz oder teilweise aufheben und
+die Sache, soweit der Widerspruchsbescheid aufgehoben wird, zur
+erneuten Verhandlung und Bescheidung an die Flurbereinigungsbehörde
+oder die obere Flurbereinigungsbehörde zurückverweisen. Diese haben
+die Beurteilung, die der Aufhebung zugrunde gelegt ist, auch ihrer
 Entscheidung zugrunde zu legen.
 
 
@@ -3089,8 +2957,8 @@ versehenen Bescheid abweisen, wenn das Sach- und Rechtsverhältnis
 genügend geklärt und die Klage offensichtlich unbegründet ist.
 
 (2) Die Beteiligten können innerhalb von zwei Wochen nach der
-Zustellung des Bescheides mündliche Verhandlung beantragen; auf dieses
-Recht ist im Bescheid hinzuweisen. Wird der Antrag rechtzeitig
+Zustellung des Bescheides mündliche Verhandlung beantragen; auf
+dieses Recht ist im Bescheid hinzuweisen. Wird der Antrag rechtzeitig
 gestellt, so gilt der Bescheid als nicht ergangen; anderenfalls gilt
 er als rechtskräftiges Urteil.
 
@@ -3103,13 +2971,9 @@ Sondervorschriften:
 1.  Das Flurbereinigungsgericht ist an Anträge der Beteiligten nicht
     gebunden.
 
-
 2.  Das Flurbereinigungsgericht hat auch zu prüfen, ob die
     Flurbereinigungsbehörde oder die obere Flurbereinigungsbehörde in
     zweckmäßiger Weise von ihrem Ermessen Gebrauch gemacht hat.
-
-
-
 
 
 ### § 147
@@ -3141,7 +3005,6 @@ die §§ 136 und 137 entsprechend.
 ## Elfter Teil - Abschluß des Flurbereinigungsverfahrens
 
 
-
 ### § 149
 
 (1) Die Flurbereinigungsbehörde schließt das Verfahren durch die
@@ -3170,24 +3033,19 @@ Schlußfeststellung für abgeschlossen erklärt sind.
 
 ### § 150
 
-(1) Der Gemeinde oder ihrer Aufsichtsbehörde sind zur Aufbewahrung zu
-übersenden:
+(1) Der Gemeinde oder ihrer Aufsichtsbehörde sind zur Aufbewahrung
+zu übersenden:
 
 1.  eine Ausfertigung der die neue Feldeinteilung nachweisenden Karte;
 
-
 2.  ein Verzeichnis der neuen Grundstücke und der gemeinschaftlichen und
     öffentlichen Anlagen mit Kartenbezeichnung und Größe;
-
 
 3.  eine Zusammenstellung der Bestimmungen des Flurbereinigungsplanes, die
     dauernd von allgemeiner Bedeutung und nicht in das Grundbuch oder in
     andere öffentliche Bücher übernommen sind;
 
-
 4.  eine Abschrift der Schlußfeststellung.
-
-
 
 Erstreckt sich das Flurbereinigungsgebiet auf mehrere Gemeinden, so
 bestimmt die Flurbereinigungsbehörde die Gemeinde.
@@ -3199,24 +3057,23 @@ darlegt, kann die in Absatz 1 aufgeführten Unterlagen einsehen.
 ## Zwölfter Teil - Die Teilnehmergemeinschaft nach der Beendigung des Flurbereinigungsverfahrens
 
 
-
 ### § 151
 
-Die Teilnehmergemeinschaft bleibt als Körperschaft des öffentlichen
-Rechts bestehen, solange über die Beendigung des
+Die Teilnehmergemeinschaft bleibt als Körperschaft des
+öffentlichen Rechts bestehen, solange über die Beendigung des
 Flurbereinigungsverfahrens hinaus Aufgaben der Teilnehmergemeinschaft,
 insbesondere Verbindlichkeiten aus Darlehensverträgen, zu erfüllen
-sind. Mit der Unanfechtbarkeit der Schlußfeststellung gemäß § 149 kann
-die Vertretung der Teilnehmergemeinschaft und die Verwaltung ihrer
-Angelegenheiten durch die Flurbereinigungsbehörde auf die
+sind. Mit der Unanfechtbarkeit der Schlußfeststellung gemäß § 149
+kann die Vertretung der Teilnehmergemeinschaft und die Verwaltung
+ihrer Angelegenheiten durch die Flurbereinigungsbehörde auf die
 Gemeindebehörde übertragen werden; die Aufsichtsbefugnisse der
 Flurbereinigungsbehörde gehen auf die Gemeindeaufsichtsbehörde über.
 
 
 ### § 152
 
-Für die Verteilung von Einkünften der Teilnehmergemeinschaft gilt § 19
-Abs. 1 sinngemäß. Sie findet nur insoweit statt, als die Einkünfte
+Für die Verteilung von Einkünften der Teilnehmergemeinschaft gilt §
+19 Abs. 1 sinngemäß. Sie findet nur insoweit statt, als die Einkünfte
 nicht zur Deckung von Verbindlichkeiten der Teilnehmergemeinschaft
 benötigt werden oder die Verteilung nicht wegen unverhältnismäßiger
 Kosten oder aus anderen Gründen unzweckmäßig erscheint.
@@ -3230,18 +3087,17 @@ die Gemeindeaufsichtsbehörde, soweit auf sie die Aufsichtsbefugnisse
 der Flurbereinigungsbehörde übergegangen sind (§ 151 Satz 2 zweiter
 Halbsatz). Die Auflösung ist öffentlich bekanntzumachen.
 
-(2) Die nach dem Bayerischen Flurbereinigungsgesetz in der Fassung vom
-11\. Februar 1932 (Gesetz- und Verordnungsblatt für den Freistaat
-Bayern S. 73), zuletzt geändert durch das
-Gesetz zur Ausführung des Flurbereinigungsgesetzes vom 11. August 1954
-(Bayerisches Gesetz- und Verordnungsblatt S. 165),              noch
-bestehenden Flurbereinigungsgenossenschaften können durch Beschluß des
-Vorstandes aufgelöst werden, wenn das Unternehmen abgeschlossen ist
-und ihre Aufgaben erfüllt sind.
+(2) Die nach dem Bayerischen Flurbereinigungsgesetz in der
+Fassung vom 11. Februar 1932 (Gesetz- und Verordnungsblatt für
+den Freistaat Bayern S. 73), zuletzt geändert durch das *Gesetz
+zur Ausführung des Flurbereinigungsgesetzes vom 11. August 1954
+(Bayerisches Gesetz- und Verordnungsblatt S. 165),* noch bestehenden
+Flurbereinigungsgenossenschaften können durch Beschluß des Vorstandes
+aufgelöst werden, wenn das Unternehmen abgeschlossen ist und ihre
+Aufgaben erfüllt sind.
 
 
 ## Dreizehnter Teil - Schluß- und Übergangsbestimmungen
-
 
 
 ### § 154
@@ -3259,11 +3115,11 @@ eingezogen werden.
 
 (1)
 
-(2) Soweit in Gesetzen und Verordnungen des Bundes und der Länder auf
-Vorschriften des Umlegungsgesetzes, der Reichsumlegungsordnung sowie
-der Ersten und Zweiten Verordnung zur Reichsumlegungsordnung sowie
-sonstiger nach Absatz 1 aufgehobener Vorschriften verwiesen ist, gilt
-dies als Verweisung auf die entsprechenden Vorschriften dieses
+(2) Soweit in Gesetzen und Verordnungen des Bundes und der Länder
+auf Vorschriften des Umlegungsgesetzes, der Reichsumlegungsordnung
+sowie der Ersten und Zweiten Verordnung zur Reichsumlegungsordnung
+sowie sonstiger nach Absatz 1 aufgehobener Vorschriften verwiesen ist,
+gilt dies als Verweisung auf die entsprechenden Vorschriften dieses
 Gesetzes.
 
 
@@ -3273,8 +3129,8 @@ Auf anhängige Verfahren, in denen die Bekanntgabe des
 Flurbereinigungsplanes oder der ihm gleichstehenden Urkunde begonnen
 hat, ist dieses Gesetz nicht anzuwenden, sofern die Landesgesetzgebung
 nicht Abweichendes bestimmt. Die nach dem Bayerischen
-Flurbereinigungsrecht (§ 155 Abs. 1) begonnenen Verfahren können nach
-dem bisherigen Recht zu Ende geführt werden. Im übrigen ist die
+Flurbereinigungsrecht (§ 155 Abs. 1) begonnenen Verfahren können
+nach dem bisherigen Recht zu Ende geführt werden. Im übrigen ist die
 Rechtswirksamkeit von Anordnungen, Festsetzungen und Entscheidungen
 der Behörden und Spruchstellen aus der Zeit vor dem Inkrafttreten
 dieses Gesetzes nach dem bisherigen Recht zu beurteilen. Anhängige
@@ -3285,8 +3141,8 @@ Stellen über.
 ### § 157
 
 Werden Grundstücke in ein Flurbereinigungs- oder Zusammenlegungsgebiet
-eines benachbarten Landes einbezogen (§ 3 Abs. 3 Satz 2), so gelten
-die auf Grund von Ermächtigungen dieses Gesetzes ergangenen
+eines benachbarten Landes einbezogen (§ 3 Abs. 3 Satz 2), so
+gelten die auf Grund von Ermächtigungen dieses Gesetzes ergangenen
 Vorschriften des Landes auch für die genannten Grundstücke.
 
 

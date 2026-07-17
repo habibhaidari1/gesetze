@@ -1,7 +1,5 @@
 ---
-Title: Gesetz zu dem Übereinkommen vom 10. April 1972 über das Verbot der Entwicklung,
-  Herstellung und Lagerung bakteriologischer (biologischer) Waffen und von Toxinwaffen
-  sowie über die Vernichtung solcher Waffen
+Title: Gesetz zu dem Übereinkommen vom 10. April 1972 über das Verbot der Entwicklung, Herstellung und Lagerung bakteriologischer (biologischer) Waffen und von Toxinwaffen sowie über die Vernichtung solcher Waffen
 jurabk: BaktWaffVernÜbkG
 layout: default
 origslug: baktwaffvern_bkg
@@ -16,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl II: 1983, 132
-
 
 
 ## Art 1
@@ -34,22 +31,19 @@ veröffentlicht.
 (1) Es ist verboten,
 
 1.  mikrobiologische oder andere biologische Agenzien oder - ungeachtet
-    ihres Ursprungs und ihrer Herstellungsmethode - Toxine von Arten und
-    in Mengen, die nicht durch Vorbeugungs-, Schutz- oder sonstige
+    ihres Ursprungs und ihrer Herstellungsmethode - Toxine von Arten
+    und in Mengen, die nicht durch Vorbeugungs-, Schutz- oder sonstige
     friedliche Zwecke gerechtfertigt sind, sowie
-
 
 2.  Waffen, Ausrüstungen oder Einsatzmittel, die für die Verwendung
     solcher Agenzien oder Toxine für feindselige Zwecke oder in einem
     bewaffneten Konflikt bestimmt sind,
 
-
-
 zu entwickeln, herzustellen, zu lagern oder in anderer Weise zu
 erwerben oder zurückzubehalten.
 
-(2) Soweit andere Rechtsvorschriften dies ebenfalls verbieten und mit
-Strafe oder Geldbuße bedrohen oder von einer Genehmigung abhängig
+(2) Soweit andere Rechtsvorschriften dies ebenfalls verbieten und
+mit Strafe oder Geldbuße bedrohen oder von einer Genehmigung abhängig
 machen, bleiben sie unberührt.
 
 

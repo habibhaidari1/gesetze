@@ -1,8 +1,5 @@
 ---
-Title: Gesetz zu dem Abkommen vom 20. Juni 1996 zwischen der Regierung der Bundesrepublik
-  Deutschland, den Vereinten Nationen und dem Sekretariat des Rahmenübereinkommens
-  der Vereinten Nationen über Klimaänderungen über den Sitz des Sekretariats des Übereinkommens
-  und zur Änderung des Bundesnaturschutzgesetzes
+Title: Gesetz zu dem Abkommen vom 20. Juni 1996 zwischen der Regierung der Bundesrepublik Deutschland, den Vereinten Nationen und dem Sekretariat des Rahmenübereinkommens der Vereinten Nationen über Klimaänderungen über den Sitz des Sekretariats des Übereinkommens und zur Änderung des Bundesnaturschutzgesetzes
 jurabk: UNSekrSitzAbkG
 layout: default
 origslug: unsekrsitzabkg
@@ -17,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl II: 1997, 1054
-
 
 
 ## Eingangsformel
@@ -37,12 +33,12 @@ zugestimmt. Das Abkommen wird nachstehend veröffentlicht.
 
 ## Art 2
 
-Die Bundesregierung wird ermächtigt, Änderungen dieses Abkommens, die
-im Rahmen von Konsultationen zwischen den Vertragsparteien des
-Abkommens nach Artikel 6 Abs. 2 in Verbindung mit Abschnitt 8 des
-ergänzenden, entsprechend anzuwendenden Notenwechsels vom 10. November
-1995 zwischen dem Administrator des Entwicklungsprogramms der
-Vereinten Nationen und dem Ständigen Vertreter der Bundesrepublik
+Die Bundesregierung wird ermächtigt, Änderungen dieses Abkommens,
+die im Rahmen von Konsultationen zwischen den Vertragsparteien
+des Abkommens nach Artikel 6 Abs. 2 in Verbindung mit Abschnitt 8
+des ergänzenden, entsprechend anzuwendenden Notenwechsels vom 10.
+November 1995 zwischen dem Administrator des Entwicklungsprogramms
+der Vereinten Nationen und dem Ständigen Vertreter der Bundesrepublik
 Deutschland bei den Vereinten Nationen vereinbart werden, durch
 Rechtsverordnung mit Zustimmung des Bundesrates in Kraft zu setzen.
 
@@ -52,8 +48,8 @@ Rechtsverordnung mit Zustimmung des Bundesrates in Kraft zu setzen.
 Artikel 3 des Gesetzes vom 5. Juni 1996 zum Abkommen vom 10. November
 1995 zwischen der Bundesrepublik Deutschland und den Vereinten
 Nationen über den Sitz des Freiwilligenprogramms der Vereinten
-Nationen (BGBl. 1996 II S. 903) gilt entsprechend für Bedienstete des
-Sekretariats des Rahmenübereinkommens der Vereinten Nationen über
+Nationen (BGBl. 1996 II S. 903) gilt entsprechend für Bedienstete
+des Sekretariats des Rahmenübereinkommens der Vereinten Nationen über
 Klimaänderungen beziehungsweise deren Familienangehörige gemäß Artikel
 24 Abs. 2 des entsprechend anzuwendenden Abkommens über den Sitz des
 Freiwilligenprogramms der Vereinten Nationen.

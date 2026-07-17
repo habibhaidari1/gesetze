@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten
-  nach dem Bundesdatenschutzgesetz im Bereich der Bundeswehr
+Title: Verordnung über die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach dem Bundesdatenschutzgesetz im Bereich der Bundeswehr
 jurabk: BwBDSGOWiZustV
 layout: default
 origslug: bwbdsgowizustv
@@ -32,10 +31,10 @@ der Verteidigung:
 ## § 1 Zuständigkeit
 
 Die Zuständigkeit für die Verfolgung und Ahndung von
-Ordnungswidrigkeiten nach § 43 des Bundesdatenschutzgesetzes wird für
-den Bereich der Bundeswehr auf das Bundesamt für Infrastruktur,
-Umweltschutz und Dienstleistungen der Bundeswehr übertragen. Für das
-Bundesministerium der Verteidigung bleibt das Ministerium selbst
+Ordnungswidrigkeiten nach § 43 des Bundesdatenschutzgesetzes wird
+für den Bereich der Bundeswehr auf das Bundesamt für Infrastruktur,
+Umweltschutz und Dienstleistungen der Bundeswehr übertragen. Für
+das Bundesministerium der Verteidigung bleibt das Ministerium selbst
 zuständig.
 
 

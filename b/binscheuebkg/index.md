@@ -39,22 +39,22 @@ Verbindung mit anderen Wasserstraßen haben.
 
 ## Art 2
 
-(1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
-ermächtigt, Änderungen der Anlage des Übereinkommens nach dessen
-Artikel 17, die der Verwirklichung neuer technischer Erkenntnisse
-hinsichtlich der Eichung von Binnenschiffen im Sinne des
-Übereinkommens dienen oder das technische oder verwaltungsmäßige
+(1) Das Bundesministerium für Verkehr und digitale Infrastruktur
+wird ermächtigt, Änderungen der Anlage des Übereinkommens nach
+dessen Artikel 17, die der Verwirklichung neuer technischer
+Erkenntnisse hinsichtlich der Eichung von Binnenschiffen im Sinne
+des Übereinkommens dienen oder das technische oder verwaltungsmäßige
 Verfahren betreffen, durch Rechtsverordnung mit Zustimmung des
 Bundesrates in Kraft zu setzen.
 
-(2) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
-ermächtigt, die zur Ausführung des Übereinkommens einschließlich
+(2) Das Bundesministerium für Verkehr und digitale Infrastruktur
+wird ermächtigt, die zur Ausführung des Übereinkommens einschließlich
 seiner Anlage in ihrer jeweiligen Fassung erforderlichen allgemeinen
 Verwaltungsvorschriften mit Zustimmung des Bundesrates zu erlassen.
 
-(3) Die Landesregierungen werden ermächtigt, die nach Artikel 2 Abs. 3
-und nach Artikel 8 des Übereinkommens zuständigen Stellen für die
-Schiffseichung (Schiffsvermessung) auf Gewässern, die nicht
+(3) Die Landesregierungen werden ermächtigt, die nach Artikel 2
+Abs. 3 und nach Artikel 8 des Übereinkommens zuständigen Stellen
+für die Schiffseichung (Schiffsvermessung) auf Gewässern, die nicht
 Bundeswasserstraßen sind, durch Rechtsverordnung zu bestimmen.
 
 

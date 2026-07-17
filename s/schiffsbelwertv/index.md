@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Ermittlung der Beleihungswerte von Schiffen und Schiffsbauwerken
-  nach § 24 Abs. 1 bis 3 des Pfandbriefgesetzes
+Title: Verordnung über die Ermittlung der Beleihungswerte von Schiffen und Schiffsbauwerken nach § 24 Abs. 1 bis 3 des Pfandbriefgesetzes
 jurabk: SchiffsBelWertV
 layout: default
 origslug: schiffsbelwertv
@@ -16,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 851
 
+Geändert durch
+:   Art. 6 V v. 4.10.2022 I 1614
+
 
 ## Eingangsformel
 
@@ -26,8 +28,8 @@ die Bundesanstalt für Finanzdienstleistungsaufsicht vom 13. Dezember
 2002 (BGBl. 2003 I S. 3), § 1 Nr. 4 zuletzt geändert durch Artikel 7
 Nr. 1 des Gesetzes vom 22. Juni 2005 (BGBl. I S. 1698), verordnet die
 Bundesanstalt für Finanzdienstleistungsaufsicht im Einvernehmen mit
-dem Bundesministerium der Justiz nach Anhörung der Spitzenverbände der
-Kreditwirtschaft:
+dem Bundesministerium der Justiz nach Anhörung der Spitzenverbände
+der Kreditwirtschaft:
 
 
 ## Teil 1 - Allgemeine Bestimmungen und Verfahrensgrundsätze
@@ -52,8 +54,8 @@ Schiffsbauwerke, die in einem öffentlichen Register eingetragen sind.
 (1) Der Wert, der der Beleihung zugrunde gelegt wird
 (Schiffsbeleihungswert), ist der Wert des Schiffes oder
 Schiffsbauwerks, der erfahrungsgemäß unabhängig von vorübergehenden,
-etwa konjunkturell bedingten Wertschwankungen am maßgeblichen Markt
-und unter Ausschaltung von spekulativen Elementen bei einer
+etwa konjunkturell bedingten Wertschwankungen am maßgeblichen
+Markt und unter Ausschaltung von spekulativen Elementen bei einer
 Veräußerung voraussichtlich erzielt werden kann.
 
 (2) Bei der Ermittlung des Schiffsbeleihungswerts sind die dauernden
@@ -68,15 +70,15 @@ aktuelle Marktwert (§ 9), der durchschnittliche Marktwert der letzten
 zehn Jahre (§ 10) und der Neubaupreis (§ 11) oder Kaufpreis (§ 12) des
 zu bewertenden Schiffes zu ermitteln.
 
-(2) Der Schiffsbeleihungswert darf weder den aktuellen Marktwert des
-Schiffes noch den durchschnittlichen Marktwert der letzten zehn Jahre
-übersteigen. Sind Marktwerte nur für einen kürzeren Zeitraum als zehn
-Jahre verfügbar, ist der durchschnittliche Marktwert für diesen
-kürzeren Zeitraum zu ermitteln; in diesen Fällen ist Satz 1 mit der
-Maßgabe anzuwenden, dass der aktuelle Marktwert um 15 Prozent zu
-mindern ist; lässt sich der durchschnittliche Marktwert nur für drei
-oder weniger Jahre ermitteln, beträgt dieser Abschlag mindestens 25
-Prozent.
+(2) Der Schiffsbeleihungswert darf weder den aktuellen Marktwert
+des Schiffes noch den durchschnittlichen Marktwert der letzten zehn
+Jahre übersteigen. Sind Marktwerte nur für einen kürzeren Zeitraum
+als zehn Jahre verfügbar, ist der durchschnittliche Marktwert für
+diesen kürzeren Zeitraum zu ermitteln; in diesen Fällen ist Satz 1
+mit der Maßgabe anzuwenden, dass der aktuelle Marktwert um 15 Prozent
+zu mindern ist; lässt sich der durchschnittliche Marktwert nur für
+drei oder weniger Jahre ermitteln, beträgt dieser Abschlag mindestens
+25 Prozent.
 
 (3) Bei Schiffsneubauten stellt der Neubaupreis eine weitere
 Obergrenze für den Schiffsbeleihungswert dar. Bei Schiffsankäufen darf
@@ -102,23 +104,19 @@ hat nach Maßgabe des § 13 zu erfolgen.
 ermitteln.
 
 (2) Das Gutachten muss durch einen oder mehrere Gutachter erstellt
-werden, die von der Pfandbriefbank allgemein oder von Fall zu Fall
-bestimmt werden. In besonderen Fällen, etwa im Rahmen von
-Kooperationen oder bei Portfoliokäufen, können für andere
+werden, die von der Pfandbriefbank allgemein oder von Fall
+zu Fall bestimmt werden. In besonderen Fällen, etwa im Rahmen
+von Kooperationen oder bei Portfoliokäufen, können für andere
 Kreditinstitute erstellte Gutachten zugrunde gelegt werden, wenn
 
 1.  diese Gutachten den Bestimmungen dieser Verordnung entsprechen,
-
 
 2.  ein nicht mit der Kreditentscheidung befasster, fachlich kundiger
     Mitarbeiter der Pfandbriefbank eine Plausibilitätsprüfung, auch im
     Hinblick auf die einzelnen angesetzten Bewertungsparameter, durchführt
     und
 
-
 3.  das Ergebnis der Plausibilitätsprüfung dokumentiert wird.
-
-
 
 Gutachten, die vom Darlehensnehmer oder Schiffseigentümer vorgelegt
 oder in Auftrag gegeben worden sind, dürfen nicht zugrunde gelegt
@@ -128,65 +126,61 @@ werden.
 
 (4) Im Gutachten sind der Schiffstyp und seine praktische
 Verwendbarkeit, insbesondere hinsichtlich Fahrtbereich,
-Einsatzmöglichkeit und Ladefähigkeit, unter Berücksichtigung der
-vorhandenen Ausrüstung, insbesondere in Bezug auf Lade- und
+Einsatzmöglichkeit und Ladefähigkeit, unter Berücksichtigung
+der vorhandenen Ausrüstung, insbesondere in Bezug auf Lade- und
 Löscheinrichtungen, darzustellen. Auf Vorzüge und Mängel des Schiffes
 ist hinzuweisen.
 
 (5) Bei der Ermittlung des aktuellen Marktwerts und des
 durchschnittlichen Marktwerts der letzten zehn Jahre kann das
 Gutachten auf die Schätzung eines im Bereich der Schiffswertermittlung
-tätigen und anerkannten Brokers oder Schätzers Bezug nehmen. Falls
-eine Besichtigung durch einen anerkannten technischen Sachverständigen
-vorgenommen worden ist, kann das Gutachten auch auf den
-Besichtigungsbericht Bezug nehmen.
+tätigen und anerkannten Brokers oder Schätzers Bezug nehmen.
+Falls eine Besichtigung durch einen anerkannten technischen
+Sachverständigen vorgenommen worden ist, kann das Gutachten auch auf
+den Besichtigungsbericht Bezug nehmen.
 
 
 ### § 6 Besichtigung
 
 (1) Das zu bewertende Schiff ist im Rahmen der Wertermittlung zu
 besichtigen. Dabei sind sämtliche an Bord befindliche Schiffspapiere
-einzusehen. Hierbei sind die Klassifikationen von Schiffskörper und
-Maschinenanlage zu ermitteln; die Gültigkeitsdauer der
+einzusehen. Hierbei sind die Klassifikationen von Schiffskörper
+und Maschinenanlage zu ermitteln; die Gültigkeitsdauer der
 Klassifikationszertifikate ist festzustellen. Die Besichtigung kann
 auch durch einen anerkannten technischen Sachverständigen erfolgen.
 
 (2) Auf eine Besichtigung kann verzichtet werden, wenn
 
-1.  der Pfandbriefbank von dem Schiffseigentümer die
-    Klassifikationsunterlagen einer anerkannten
+1.  der Pfandbriefbank von dem Schiffseigentümer
+    die Klassifikationsunterlagen einer anerkannten
     Klassifikationsgesellschaft vorgelegt werden und sich hieraus ergibt,
     dass das Schiff von der Klassifikationsgesellschaft innerhalb der
     letzten 15 Monate besichtigt worden ist,
 
-
 2.  das Schiff nicht älter als drei Jahre ist und das
     Klassifikationszertifikat bei Ablieferung vorgelegt wird, oder
-
 
 3.  das Schiff nicht älter als fünf Jahre ist und neben dem
     Klassifikationszertifikat bei Ablieferung das Zertifikat über die
     Interimsklasse vorgelegt wird.
 
-
-
-Die Pfandbriefbank hat die Klassifikationsunterlagen auf Echtheit zu
-überprüfen.
+Die Pfandbriefbank hat die Klassifikationsunterlagen auf Echtheit
+zu überprüfen.
 
 
 ### § 7 Gutachter
 
 (1) Der Gutachter muss nach seiner Ausbildung und beruflichen
-Tätigkeit über besondere Kenntnisse und Erfahrungen auf dem Gebiet der
-Bewertung von Schiffen verfügen. Bei der Auswahl des Gutachters hat
-sich die Pfandbriefbank davon zu überzeugen, dass der Gutachter neben
-langjähriger Berufserfahrung in der Bewertung von Schiffen speziell
-über die zur Erstellung von Schiffsbeleihungswert-Gutachten
+Tätigkeit über besondere Kenntnisse und Erfahrungen auf dem Gebiet
+der Bewertung von Schiffen verfügen. Bei der Auswahl des Gutachters
+hat sich die Pfandbriefbank davon zu überzeugen, dass der Gutachter
+neben langjähriger Berufserfahrung in der Bewertung von Schiffen
+speziell über die zur Erstellung von Schiffsbeleihungswert-Gutachten
 notwendigen Kenntnisse, insbesondere bezüglich des Schiffsmarkts,
 verfügt.
 
-(2) Wenn der Gutachter die Besichtigung nicht selbst vornimmt, ist
-eine technische oder ingenieurmäßige Berufsausbildung nicht
+(2) Wenn der Gutachter die Besichtigung nicht selbst vornimmt,
+ist eine technische oder ingenieurmäßige Berufsausbildung nicht
 erforderlich.
 
 
@@ -204,14 +198,14 @@ anerkannte Schätzer, Broker oder technische Sachverständige, auf deren
 Schätzung oder Besichtigungsbericht im Gutachten Bezug genommen wird.
 
 (2) Gutachten von bei der Pfandbriefbank angestellten Gutachtern
-dürfen nur dann der Schiffsbeleihungswertermittlung zugrunde gelegt
-werden, wenn die betreffenden Gutachter im Rahmen der
+dürfen nur dann der Schiffsbeleihungswertermittlung zugrunde
+gelegt werden, wenn die betreffenden Gutachter im Rahmen der
 Aufbauorganisation der Pfandbriefbank nur der Geschäftsleitung
 verantwortlich sind oder ausschließlich Teil einer Gutachtereinheit
-sind, die unmittelbar der Geschäftsleitung unterstellt ist, oder Teil
-einer alle betreffenden Gutachter zusammenfassenden Einheit und auch
-im Übrigen bis einschließlich der Ebene der Geschäftsleitung nicht
-einem Bereich der Pfandbriefbank zugeordnet sind, in dem
+sind, die unmittelbar der Geschäftsleitung unterstellt ist, oder
+Teil einer alle betreffenden Gutachter zusammenfassenden Einheit und
+auch im Übrigen bis einschließlich der Ebene der Geschäftsleitung
+nicht einem Bereich der Pfandbriefbank zugeordnet sind, in dem
 Schiffskreditgeschäfte entweder angebahnt oder zum Gegenstand des
 einzigen Votums gemacht werden.
 
@@ -221,9 +215,9 @@ einzigen Votums gemacht werden.
 
 ### § 9 Aktueller Marktwert
 
-(1) Der aktuelle Marktwert ist der geschätzte Betrag, für welchen ein
-Schiff am Bewertungsstichtag zwischen einem verkaufsbereiten Verkäufer
-und einem kaufbereiten Erwerber, nach angemessenem
+(1) Der aktuelle Marktwert ist der geschätzte Betrag, für welchen
+ein Schiff am Bewertungsstichtag zwischen einem verkaufsbereiten
+Verkäufer und einem kaufbereiten Erwerber, nach angemessenem
 Vermarktungszeitraum, in einer Transaktion im gewöhnlichen
 Geschäftsverkehr verkauft werden könnte, wobei jede Partei mit
 Sachkenntnis, Umsicht und ohne Zwang handelt.
@@ -251,19 +245,19 @@ sind.
 
 ### § 12 Kaufpreis
 
-Der Kaufpreis ist der vertraglich vereinbarte Preis für den Erwerb des
-zu bewertenden Schiffes. Kaufpreis ist auch der Preis, der für den
+Der Kaufpreis ist der vertraglich vereinbarte Preis für den Erwerb
+des zu bewertenden Schiffes. Kaufpreis ist auch der Preis, der für den
 Erwerb eines Bauvertrags über ein Schiffsbauwerk oder ein in Zukunft
 zu bauendes Schiff vereinbart wird.
 
 
 ### § 13 Wertermittlung bei Schiffsbauwerken
 
-Bei Schiffsbauwerken ist als Schiffsbeleihungswert der Zustandswert zu
-ermitteln. Der Zustandswert entspricht dem Bautenstand, der durch
-einen technischen Sachverständigen oder die Werft schriftlich zu
-bestätigen ist. Im Rahmen der Beleihungswertermittlung sind die
-Baubeschreibungen, die Bauzeichnungen und die mit der Werft
+Bei Schiffsbauwerken ist als Schiffsbeleihungswert der Zustandswert
+zu ermitteln. Der Zustandswert entspricht dem Bautenstand, der
+durch einen technischen Sachverständigen oder die Werft schriftlich
+zu bestätigen ist. Im Rahmen der Beleihungswertermittlung sind
+die Baubeschreibungen, die Bauzeichnungen und die mit der Werft
 geschlossenen Verträge einzusehen.
 
 
@@ -272,11 +266,15 @@ geschlossenen Verträge einzusehen.
 
 ### § 14 Überprüfung der Grundlagen der Schiffsbeleihungswertermittlung
 
-(1) Bestehen Anhaltspunkte, dass sich die Grundlagen der
+(1) Der Schiffsbeleihungswert ist längstens jährlich zu
+überwachen. Bestehen Anhaltspunkte, dass sich die Grundlagen der
 Schiffsbeleihungswertermittlung nicht nur unerheblich verschlechtert
-haben, sind diese zu überprüfen. Dies gilt insbesondere dann, wenn das
-allgemeine Preisniveau auf dem jeweiligen Schiffsmarkt in einem die
-Sicherheit der Beleihung gefährdenden Umfang gesunken ist. Der
+haben, sind diese zu überprüfen. Dies gilt insbesondere dann,
+wenn das allgemeine Preisniveau auf dem jeweiligen Schiffsmarkt
+in einem die Sicherheit der Beleihung gefährdenden Umfang gesunken
+ist. Eine Überprüfung ist auch dann vorzunehmen, wenn die auf
+dem Beleihungsobjekt abgesicherte Forderung einen wesentlichen
+Leistungsrückstand von mindestens 90 Tagen aufweist. Der
 Schiffsbeleihungswert ist bei Bedarf zu mindern.
 
 (2) Soweit nach anderen Vorschriften eine weitergehende Verpflichtung

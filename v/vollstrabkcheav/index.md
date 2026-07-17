@@ -1,7 +1,5 @@
 ---
-Title: Verordnung zur Ausführung des deutsch-schweizerischen Abkommens über die gegenseitige
-  Anerkennung und Vollstreckung von gerichtlichen Entscheidungen und Schiedssprüchen
-  vom 2. November 1929
+Title: Verordnung zur Ausführung des deutsch-schweizerischen Abkommens über die gegenseitige Anerkennung und Vollstreckung von gerichtlichen Entscheidungen und Schiedssprüchen vom 2. November 1929
 jurabk: VollstrAbkCHEAV
 layout: default
 origslug: vollstrabkcheav
@@ -84,10 +82,10 @@ Im Wege der Beschwerde kann der Verpflichtete auch Einwendungen gegen
 den Anspruch geltend machen, soweit diese nach schweizerischem Recht
 gegenüber der Entscheidung oder dem Vergleich zulässig sind. Ebenso
 können Einwendungen gegen die Zulässigkeit der Vollstreckungsklausel
-im Wege der Beschwerde geltend gemacht werden. Der Verpflichtete ist
-hierdurch nicht gehindert, solche Einwendungen in dem in den §§ 767,
-732, 768 der Zivilprozeßordnung vorgesehenen Verfahren geltend zu
-machen.
+im Wege der Beschwerde geltend gemacht werden. Der Verpflichtete
+ist hierdurch nicht gehindert, solche Einwendungen in dem in den §§
+767, 732, 768 der Zivilprozeßordnung vorgesehenen Verfahren geltend
+zu machen.
 
 
 ## Art 5

@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 2 Deutschen
-  Pfennig
+Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 2 Deutschen Pfennig
 jurabk: Münz2PfBek 1950
 layout: default
 origslug: m_nz2pfbek_1950
@@ -22,13 +21,13 @@ Geändert durch
 
 ## (XXXX)
 
-(1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen vom
-8\. Juli 1950 (Bundesgesetzblatt S. 323) werden Bundesmünzen im
+(1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen
+vom 8. Juli 1950 (Bundesgesetzblatt S. 323) werden Bundesmünzen im
 Nennwert von 2 Deutschen Pfennig ausgeprägt und demnächst in den
 Verkehr gebracht.
 
-(2) Die mit glattem Rand geprägten Münzen bestehen aus einem Stahlkern
-mit einer beiderseitigen Kupferplattierung. Sie haben einen
+(2) Die mit glattem Rand geprägten Münzen bestehen aus einem
+Stahlkern mit einer beiderseitigen Kupferplattierung. Sie haben einen
 Durchmesser von 19,25 mm und ein Gewicht von 2,9 g.
 
 (3) Auf der Wertseite tragen die Münzen innerhalb des erhabenen Randes

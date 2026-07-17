@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl I: 1992, 1126
 
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit der Mehrheit seiner Mitglieder und mit
@@ -44,15 +43,11 @@ treten an ihre Stelle die entsprechenden Vorschriften dieses Gesetzes.
 
 A.
 
-
 B.  Übergangsvorschrift zu A.:
 
     Bei Ausländern, die in der Zeit vom 1. Juli 1992 bis zum 31. März 1993
     einen Asylantrag gestellt haben, richtet sich die Verteilung auf die
     Länder nach A. Nummer 14.
-
-
-
 
 
 ## Art 6

@@ -1,6 +1,5 @@
 ---
-Title: Gesetz über die Durchführung einer Repräsentativstatistik auf dem Gebiete des
-  Wohnungswesens und des Städtebaus
+Title: Gesetz über die Durchführung einer Repräsentativstatistik auf dem Gebiete des Wohnungswesens und des Städtebaus
 jurabk: WoStichPrG 1972
 layout: default
 origslug: wostichprg_1972
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 1971, 1945
-
 
 
 ## Eingangsformel
@@ -49,21 +47,15 @@ In der Wohnungsstichprobe sind zu erfassen:
     a)  Stand der Bauleitplanung, Art und Maß der Nutzung, Lage des
         Grundstücks im Gemeindegebiet, Bauweise und Erschließung;
 
-
     b)  Art, Alter, Ausstattung, Zustand des Gebäudes, Zahl der Geschosse und
         Wohnungen; Förderung mit Mitteln des sozialen Wohnungsbaus; begonnene
-        oder geplante Modernisierung und Instandsetzung sowie deren Kosten und
-        Finanzierung; Eigentümer und bei Einzelpersonen deren soziale
+        oder geplante Modernisierung und Instandsetzung sowie deren Kosten
+        und Finanzierung; Eigentümer und bei Einzelpersonen deren soziale
         Stellung;
 
-
-    c)  Art, Größe, Ausstattung der Wohnung, Art der Beheizung, Lage der
-        Wohnung innerhalb des Gebäudes, Art der Nutzung der Räume,
+    c)  Art, Größe, Ausstattung der Wohnung, Art der Beheizung, Lage
+        der Wohnung innerhalb des Gebäudes, Art der Nutzung der Räume,
         Fernsprechanschluß sowie bei Mietwohnungen die Höhe der Miete.
-
-
-
-
 
 2.  Hinsichtlich der Wohnparteien (Haushalte):
 
@@ -74,32 +66,22 @@ In der Wohnungsstichprobe sind zu erfassen:
         und Zeitaufwand für den Weg zum Kindergarten, zur Arbeits- und
         Ausbildungsstätte sowie deren Beurteilung;
 
-
     b)  Haushalte nach Wohngeldbezug, erstmaligem Anlaß und Zeitpunkt der
         Wohngeldgewährung und derzeitige monatliche Höhe des Wohngelds; Anzahl
         eigengenutzter Kraftfahrzeuge, der Stellplätze sowie deren Lage,
         Abstellräume, Spielmöglichkeiten für Kinder, Einkaufsmöglichkeiten,
         Wohnlage und Umwelteinflüsse sowie deren Beurteilung;
 
-
-    c)  für die vorherige Wohnung Angaben wie Nummer 1 Buchstabe c sowie
-        Wohndauer und Rechtsverhältnis, Größe der Gemeinde, Lage im
-        Gemeindegebiet; Grund des Umzugs in die jetzige Wohnung und
+    c)  für die vorherige Wohnung Angaben wie Nummer 1 Buchstabe c
+        sowie Wohndauer und Rechtsverhältnis, Größe der Gemeinde, Lage
+        im Gemeindegebiet; Grund des Umzugs in die jetzige Wohnung und
         Bezugstermin;
 
-
-    d)  beabsichtigter Wohnungswechsel und Gründe, Wohnabsichten, Art und
-        Umfang der eigenen Bemühungen, Zahlungsbereitschaft zur
+    d)  beabsichtigter Wohnungswechsel und Gründe, Wohnabsichten, Art
+        und Umfang der eigenen Bemühungen, Zahlungsbereitschaft zur
         Verwirklichung;
 
-
     e)  bei Untermietern Größe und Einrichtung der Räume und Höhe der Miete.
-
-
-
-
-
-
 
 
 ## § 4
@@ -115,8 +97,8 @@ Eigentümer oder Verwalter von Gebäuden oder deren Vertreter und die
 Gemeinden.
 
 (2) Die Auskünfte werden durch mündliche Befragung eingeholt. Wohnt
-der Gebäudeeigentümer, sein Vertreter oder deren Beauftragter nicht im
-ausgewählten Gebäude oder wird die Gemeinde befragt, können die
+der Gebäudeeigentümer, sein Vertreter oder deren Beauftragter nicht
+im ausgewählten Gebäude oder wird die Gemeinde befragt, können die
 Auskünfte schriftlich eingeholt werden.
 
 
@@ -128,22 +110,18 @@ Stichprobe erfaßt werden - haben auszufüllen
 1.  einen Gemeindefragebogen, der die in § 3 Nr. 1 Buchstabe a genannten
     Merkmale enthält,
 
-
 2.  einen Grundstücksbogen mit Angaben über Größe und Abgrenzung der
-    städtebaulich maßgebenden Grundstücksfläche, Zustand und Lage der in
-    der Stichprobe zu erfassenden Gebäude auf dem Grundstück, die
+    städtebaulich maßgebenden Grundstücksfläche, Zustand und Lage der
+    in der Stichprobe zu erfassenden Gebäude auf dem Grundstück, die
     Freiflächen sowie die Größe, Aufteilung und Nutzung der Geschoßflächen
     von allen auf dem ausgewählten Grundstück vorhandenen Baulichkeiten.
     Soweit zur Ausfüllung des Grundstücksbogens eine Begehung der
     Grundstücke erforderlich ist, werden die Feststellungen durch
     Beauftragte der Gemeinden getroffen. Im Einvernehmen mit den Gemeinden
     können auch Beauftragte der Statistischen Landesämter die Begehung
-    durchführen. Den mit der Begehung Beauftragten ist das Betreten der
-    Grundstücke zu gestatten; das Grundrecht aus Artikel 13 des
+    durchführen. Den mit der Begehung Beauftragten ist das Betreten
+    der Grundstücke zu gestatten; das Grundrecht aus Artikel 13 des
     Grundgesetzes wird insoweit eingeschränkt.
-
-
-
 
 
 ## § 6

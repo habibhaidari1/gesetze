@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Laufbahnen im kriminalpolizeilichen Vollzugsdienst des
-  Bundes
+Title: Verordnung über die Laufbahnen im kriminalpolizeilichen Vollzugsdienst des Bundes
 jurabk: KrimLV 2009
 layout: default
 origslug: krimlv_2009
@@ -16,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 3042
 
-Geändert durch
-:   Art. 1 V v. 4.9.2020 I 1988
+Zuletzt geändert durch
+:   Art. 2 Abs. 4 V v. 11.3.2026 I Nr. 67
 
 
 ## Eingangsformel
@@ -27,97 +26,10 @@ der durch Artikel 3 Nummer 2 des Gesetzes vom 29. Juni 1998 (BGBl. I
 S. 1666) neu gefasst worden ist, verordnet die Bundesregierung:
 
 
-## Inhaltsverzeichnis
-
-
-*    *   §  1
-
-    *   Geltungsbereich
-
-
-*    *   §  2
-
-    *   Schwerbehinderte Menschen
-
-
-*    *   §  3
-
-    *   Gestaltung und Ämter der Laufbahnen
-
-
-*    *   §  4
-
-    *   Einrichtung von Vorbereitungsdiensten
-
-
-*    *   §  5
-
-    *   Einstellung in den Vorbereitungsdienst
-
-
-*    *   §  6
-
-    *   Gehobener Kriminaldienst
-
-
-*    *   §  6a
-
-    *   Voraussetzungen für die Einstellung für eine Verwendung im Bereich
-        Cyberkriminalität
-
-
-*    *   §  6b
-
-    *   Kriminalpolizeifachliche Qualifizierung für eine Verwendung im Bereich
-        Cyberkriminalität
-
-
-*    *   §  6c
-
-    *   Eingangsamt im gehobenen Kriminaldienst für eine Verwendung im Bereich
-        Cyberkriminalität
-
-
-*    *   §  7
-
-    *   Höherer Kriminaldienst
-
-
-*    *   §  7a
-
-    *   Zugang zum höheren Kriminaldienst für Beamtinnen und Beamte des
-        gehobenen Kriminaldienstes mit abgeschlossenem Hochschulstudium
-
-
-*    *   §  8
-
-    *   Andere Bewerberinnen und Bewerber
-
-
-*    *   §  9
-
-    *   Sonderregelungen
-
-
-*    *   § 10
-
-    *   Aufstieg
-
-
-*    *   § 11
-
-    *   Laufbahnwechsel
-
-
-*    *   Anlage (zu § 3 Absatz 2)
-
-
-
-
 ## § 1 Geltungsbereich
 
-Für die Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten im
-kriminalpolizeilichen Vollzugsdienst des Bundes gelten die
+Für die Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten
+im kriminalpolizeilichen Vollzugsdienst des Bundes gelten die
 Vorschriften der Bundeslaufbahnverordnung, soweit in dieser Verordnung
 nichts anderes bestimmt ist.
 
@@ -135,15 +47,11 @@ an Beamtinnen und Beamte im Polizeivollzugsdienst gestellt werden.
 
 1.  die Laufbahn des gehobenen Kriminaldienstes und
 
-
 2.  die Laufbahn des höheren Kriminaldienstes.
 
-
-
-
 (2) Die zu den Laufbahnen gehörenden Ämter sowie die ihnen
-zugeordneten Amtsbezeichnungen ergeben sich aus der Anlage zu dieser
-Verordnung. § 9 Absatz 2 der Bundeslaufbahnverordnung bleibt
+zugeordneten Amtsbezeichnungen ergeben sich aus der Anlage zu
+dieser Verordnung. § 9 Absatz 2 der Bundeslaufbahnverordnung bleibt
 unberührt.
 
 
@@ -156,11 +64,11 @@ unberührt.
 
 ## § 5 Einstellung in den Vorbereitungsdienst
 
-(1) Die Bewerberinnen und Bewerber werden als Beamtinnen und Beamte
-auf Widerruf in den Vorbereitungsdienst eingestellt. Sie führen
-während des Vorbereitungsdienstes im gehobenen Kriminaldienst die
-Dienstbezeichnung „Kriminalkommissaranwärterin” oder
-„Kriminalkommissaranwärter”, im höheren Kriminaldienst die
+(1) Die Bewerberinnen und Bewerber werden als Beamtinnen und
+Beamte auf Widerruf in den Vorbereitungsdienst eingestellt.
+Sie führen während des Vorbereitungsdienstes im gehobenen
+Kriminaldienst die Dienstbezeichnung „Kriminalkommissaranwärterin”
+oder „Kriminalkommissaranwärter”, im höheren Kriminaldienst die
 Dienstbezeichnung „Kriminalratanwärterin” oder „Kriminalratanwärter”.
 
 (2) Eingestellt werden kann
@@ -168,12 +76,8 @@ Dienstbezeichnung „Kriminalratanwärterin” oder „Kriminalratanwärter”.
 1.  in den Vorbereitungsdienst für den gehobenen Kriminaldienst, wer bei
     der Einstellung das 42. Lebensjahr noch nicht vollendet hat, und
 
-
 2.  in den Vorbereitungsdienst für den höheren Kriminaldienst, wer bei der
     Einstellung das 43. Lebensjahr noch nicht vollendet hat.
-
-
-
 
 (3) Einstellungsbehörde ist das Bundeskriminalamt.
 
@@ -185,24 +89,19 @@ Hochschule des Bundes für öffentliche Verwaltung durchgeführt
 
 1.  in einem Bachelorstudiengang,
 
-
 2.  in der kriminalpolizeifachlichen Qualifizierung für eine Verwendung im
     Bereich Cyberkriminalität (§ 6b) oder
 
-
-3.  in einer Qualifizierungsmaßnahme „Ausbildungsverkürzung“ nach Teil 4
-    der Verordnung über den Vorbereitungsdienst für den gehobenen
+3.  in einer Qualifizierungsmaßnahme „Ausbildungsverkürzung“ nach Teil
+    4 der Verordnung über den Vorbereitungsdienst für den gehobenen
     Kriminaldienst.
-
-
-
 
 
 ## § 6a Voraussetzungen für die Einstellung für eine Verwendung im Bereich Cyberkriminalität
 
 (1) Zur Laufbahn des gehobenen Kriminaldienstes für eine Verwendung im
-Bereich Cyberkriminalität können abweichend von § 17 Absatz 4 Nummer 2
-des Bundesbeamtengesetzes Bewerberinnen und Bewerber zugelassen
+Bereich Cyberkriminalität können abweichend von § 17 Absatz 4 Nummer
+2 des Bundesbeamtengesetzes Bewerberinnen und Bewerber zugelassen
 werden, die
 
 1.  ein Hochschulstudium in einem Studiengang, in dem
@@ -210,15 +109,11 @@ werden, die
     naturwissenschaftliche Inhalte überwiegen, mit einem Bachelor oder
     einem gleichwertigen Abschluss abgeschlossen haben und
 
-
 2.  die kriminalpolizeifachliche Qualifizierung nach § 6b erfolgreich
     abgeschlossen haben.
 
-
-
-
-(2) Nicht zugelassen werden Bewerberinnen und Bewerber, die bei Beginn
-der kriminalpolizeifachlichen Qualifizierung das 43. Lebensjahr
+(2) Nicht zugelassen werden Bewerberinnen und Bewerber, die bei
+Beginn der kriminalpolizeifachlichen Qualifizierung das 43. Lebensjahr
 vollendet haben.
 
 
@@ -236,9 +131,9 @@ eng verzahnten berufspraktischen Tätigkeit.
 Kriminalpolizei der Hochschule des Bundes für öffentliche Verwaltung.
 
 (4) Die berufspraktische Tätigkeit erfolgt in Organisationseinheiten
-des Bundeskriminalamtes, die mit Cyberkriminalität befasst sind. Sie
-dauert mindestens zwölf Monate. Nach ihrer Schwierigkeit muss sie der
-Tätigkeit einer Beamtin oder eines Beamten des gehobenen
+des Bundeskriminalamtes, die mit Cyberkriminalität befasst sind.
+Sie dauert mindestens zwölf Monate. Nach ihrer Schwierigkeit muss
+sie der Tätigkeit einer Beamtin oder eines Beamten des gehobenen
 Kriminaldienstes entsprechen.
 
 (5) Voraussetzung für den erfolgreichen Abschluss der
@@ -248,8 +143,8 @@ Modulprüfungen und der abschließenden mündlichen Prüfung.
 
 ## § 6c Eingangsamt im gehobenen Kriminaldienst für eine Verwendung im Bereich Cyberkriminalität
 
-Wer in den gehobenen Kriminaldienst für eine Verwendung im Bereich
-Cyberkriminalität eingestellt wird, kann in das Amt der
+Wer in den gehobenen Kriminaldienst für eine Verwendung im
+Bereich Cyberkriminalität eingestellt wird, kann in das Amt der
 Kriminaloberkommissarin oder des Kriminaloberkommissars eingestellt
 werden, wenn haushaltsrechtliche Gründe dem nicht entgegenstehen.
 
@@ -259,25 +154,25 @@ werden, wenn haushaltsrechtliche Gründe dem nicht entgegenstehen.
 Der Vorbereitungsdienst für den höheren Kriminaldienst besteht aus
 einer fachpraktischen Ausbildungsphase und dem Masterstudiengang
 „Öffentliche Verwaltung – Polizeimanagement“ (Public Administration –
-Police Management) an der Deutschen Hochschule der Polizei. § 14 der
+Police Management) an der Deutschen Hochschule der Polizei. § 17 der
 Bundeslaufbahnverordnung bleibt im Übrigen unberührt.
 
 
 ## § 7a Zugang zum höheren Kriminaldienst für Beamtinnen und Beamte des gehobenen Kriminaldienstes mit abgeschlossenem Hochschulstudium
 
 (1) Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte des gehobenen
-Kriminaldienstes, die ein Hochschulstudium mit einem Master oder einem
-vergleichbaren Abschluss abgeschlossen haben, können zum
-Vorbereitungsdienst für den höheren Kriminaldienst zugelassen werden,
-wenn sie an einem für Regelbewerberinnen und Regelbewerber
+Kriminaldienstes, die ein Hochschulstudium mit einem Master oder
+einem vergleichbaren Abschluss abgeschlossen haben, können zum
+Vorbereitungsdienst für den höheren Kriminaldienst zugelassen
+werden, wenn sie an einem für Regelbewerberinnen und Regelbewerber
 vorgesehenen Auswahlverfahren erfolgreich teilgenommen haben.
 
 (2) Die nach Absatz 1 zugelassenen Bewerberinnen und Bewerber nehmen
 an dem Vorbereitungsdienst nach § 7 teil. Während dieser Zeit behalten
 sie ihren bisherigen beamtenrechtlichen Status.
 
-(3) Den Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten wird im
-Rahmen der besetzbaren Planstellen ein Amt der neuen Laufbahn
+(3) Den Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten wird
+im Rahmen der besetzbaren Planstellen ein Amt der neuen Laufbahn
 übertragen, wenn sie den Vorbereitungsdienst erfolgreich abgeschlossen
 haben.
 
@@ -286,18 +181,18 @@ haben.
 
 Andere Bewerberinnen und Bewerber sollen neun Monate ihrer Probezeit
 bei Polizeidienststellen außerhalb des Bundeskriminalamtes leisten.
-Die §§ 22 und 28 bis 31 der Bundeslaufbahnverordnung bleiben
+Die §§ 26 und 37 bis 39 der Bundeslaufbahnverordnung bleiben
 unberührt.
 
 
 ## § 9 Sonderregelungen
 
-Zur Laufbahn des gehobenen Kriminaldienstes können bei Vorliegen eines
-besonderen dienstlichen Interesses abweichend von § 17 Absatz 4 des
-Bundesbeamtengesetzes Beamtinnen und Beamte zugelassen werden, die die
-Voraussetzungen des § 17 Absatz 3 des Bundesbeamtengesetzes erfüllen
-und die Befähigung für eine Laufbahn im polizeilichen oder
-kriminalpolizeilichen Vollzugsdienst besitzen. Der Erwerb der
+Zur Laufbahn des gehobenen Kriminaldienstes können bei Vorliegen
+eines besonderen dienstlichen Interesses abweichend von § 17 Absatz
+4 des Bundesbeamtengesetzes Beamtinnen und Beamte zugelassen werden,
+die die Voraussetzungen des § 17 Absatz 3 des Bundesbeamtengesetzes
+erfüllen und die Befähigung für eine Laufbahn im polizeilichen
+oder kriminalpolizeilichen Vollzugsdienst besitzen. Der Erwerb der
 Befähigung setzt eine Qualifizierung voraus, die den Anforderungen des
 Vorbereitungsdienstes nach § 6 entspricht. Der erfolgreiche Abschluss
 der Qualifizierung ist durch die Laufbahnprüfung nachzuweisen.
@@ -312,16 +207,12 @@ Kriminaldienstes zugelassen werden, wenn sie
 1.  sich nach Ablauf der Probezeit in einer Dienstzeit von mindestens drei
     Jahren im gehobenen Kriminaldienst bewährt haben,
 
-
 2.  bei Ablauf der Ausschreibungsfrist das 53. Lebensjahr noch nicht
     vollendet haben und
 
-
 3.  erfolgreich an einem Auswahlverfahren teilgenommen haben.
 
-
-
-§ 19 Absatz 4 der Bundeslaufbahnverordnung bleibt unberührt.
+§ 21 Absatz 3 der Bundeslaufbahnverordnung bleibt unberührt.
 
 (2) Das Auswahlverfahren wird nach den Richtlinien des
 Bundeskriminalamtes beim Bundeskriminalamt von einer Auswahlkommission
@@ -330,7 +221,7 @@ durchgeführt.
 (3) Die nach Absatz 1 zugelassenen Bewerberinnen und Bewerber nehmen
 am Vorbereitungsdienst nach § 7 teil.
 
-(4) Die §§ 40 und 41 der Bundeslaufbahnverordnung bleiben unberührt.
+(4) Die §§ 48 und 49 der Bundeslaufbahnverordnung bleiben unberührt.
 
 
 ## § 11 Laufbahnwechsel
@@ -339,13 +230,13 @@ am Vorbereitungsdienst nach § 7 teil.
 Vollzugsdienstes aus dienstlichen Gründen ist zulässig, wenn die
 Beamtin oder der Beamte die Befähigung hierfür besitzt.
 
-(2) Die Befähigung für die Laufbahn des gehobenen Kriminaldienstes hat
-auch, wer die Befähigung für die Laufbahn des gehobenen
+(2) Die Befähigung für die Laufbahn des gehobenen Kriminaldienstes
+hat auch, wer die Befähigung für die Laufbahn des gehobenen
 Polizeivollzugsdienstes in der Bundespolizei oder beim Deutschen
 Bundestag besitzt.
 
-(3) Die Befähigung für die Laufbahn des höheren Kriminaldienstes hat
-auch, wer die Befähigung für die Laufbahn des höheren
+(3) Die Befähigung für die Laufbahn des höheren Kriminaldienstes
+hat auch, wer die Befähigung für die Laufbahn des höheren
 Polizeivollzugsdienstes in der Bundespolizei oder beim Deutschen
 Bundestag besitzt.
 
@@ -360,10 +251,10 @@ werden, wenn das Bundeskriminalamt dies so festgelegt hat.
 (5) Während der Qualifizierung nach Absatz 4 müssen der Beamtin oder
 dem Beamten die für die Laufbahn erforderlichen Fach-, Methoden- und
 sozialen Kompetenzen vermittelt werden. Die Entscheidung über den
-erfolgreichen Abschluss der Qualifizierung trifft die Präsidentin oder
-der Präsident des Bundeskriminalamtes oder ihre oder seine Vertretung.
-§ 3 dieser Verordnung sowie die §§ 7, 8, 20 bis 25 und 27 der
-Bundeslaufbahnverordnung sind entsprechend anzuwenden.
+erfolgreichen Abschluss der Qualifizierung trifft die Präsidentin
+oder der Präsident des Bundeskriminalamtes oder ihre oder seine
+Vertretung. § 3 dieser Verordnung sowie die §§ 7, 8, 24 bis 34 und 63
+der Bundeslaufbahnverordnung sind entsprechend anzuwenden.
 
 
 ## Anlage (zu § 3 Absatz 2)
@@ -374,120 +265,21 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 Die in § 3 Absatz 1 aufgeführten Laufbahnen umfassen die nachfolgenden
 Ämter:
 
-*    *   **Gehobener Kriminaldienst des Bundes**
+| **Gehobener Kriminaldienst des Bundes** |  |
+| --- | --- |
+| **zu der Laufbahn gehörende Ämter:** | **Amtsbezeichnungen** |
+| – Besoldungsgruppe A 9 | Kriminalkommissarin/Kriminalkommissar |
+| – Besoldungsgruppe A 10 | Kriminaloberkommissarin/Kriminaloberkommissar |
+| – Besoldungsgruppe A 11 | Kriminalhauptkommissarin/Kriminalhauptkommissar |
+| – Besoldungsgruppe A 12 | Kriminalhauptkommissarin/Kriminalhauptkommissar |
+| – Besoldungsgruppe A 13 | Erste Kriminalhauptkommissarin/ Erster Kriminalhauptkommissar |
+
+| **Höherer Kriminaldienst des Bundes** |  |
+| --- | --- |
+| **zu der Laufbahn gehörende Ämter:** | **Amtsbezeichnungen** |
+| – Besoldungsgruppe A 13 | Kriminalrätin/Kriminalrat |
+| – Besoldungsgruppe A 14 | Kriminaloberrätin/Kriminaloberrat |
+| – Besoldungsgruppe A 15 | Kriminaldirektorin/Kriminaldirektor |
+| – Besoldungsgruppe A 16 | Leitende Kriminaldirektorin/Leitender Kriminaldirektor |
+| – Besoldungsgruppe B | Die Beförderungsämter ergeben sich aus dem Bundesbesoldungsgesetz (Besoldungsordnung B). |
 
-
-*    *   **zu der Laufbahn gehörende Ämter:**
-
-    *   **Amtsbezeichnungen**
-
-
-*    *
-        –[^F772574_01_BJNR304200009BJNE001702311]
-   Besoldungsgruppe A 9
-
-
-
-
-    *   Kriminalkommissarin/Kriminalkommissar
-
-
-*    *
-        –[^bjnr304200009bjne001702311_02_BJNR304200009BJNE001702311]
-   Besoldungsgruppe A 10
-
-
-
-
-    *   Kriminaloberkommissarin/Kriminaloberkommissar
-
-
-*    *
-        –   Besoldungsgruppe A 11
-
-
-
-
-    *   Kriminalhauptkommissarin/Kriminalhauptkommissar
-
-
-*    *
-        –   Besoldungsgruppe A 12
-
-
-
-
-    *   Kriminalhauptkommissarin/Kriminalhauptkommissar
-
-
-*    *
-        –   Besoldungsgruppe A 13
-
-
-
-
-    *   Erste Kriminalhauptkommissarin/ Erster Kriminalhauptkommissar
-
-
-
-
-
-*    *   **Höherer Kriminaldienst des Bundes**
-
-
-*    *   **zu der Laufbahn gehörende Ämter:**
-
-    *   **Amtsbezeichnungen**
-
-
-*    *
-        –   Besoldungsgruppe A 13
-
-
-
-
-    *   Kriminalrätin/Kriminalrat
-
-
-*    *
-        –   Besoldungsgruppe A 14
-
-
-
-
-    *   Kriminaloberrätin/Kriminaloberrat
-
-
-*    *
-        –   Besoldungsgruppe A 15
-
-
-
-
-    *   Kriminaldirektorin/Kriminaldirektor
-
-
-*    *
-        –   Besoldungsgruppe A 16
-
-
-
-
-    *   Leitende Kriminaldirektorin/Leitender Kriminaldirektor
-
-
-*    *
-        –   Besoldungsgruppe B
-
-
-
-
-    *   Die Beförderungsämter ergeben sich aus dem Bundesbesoldungsgesetz
-        (Besoldungsordnung B).
-
-
-
-
-    Eingangsamt.
-[^F772574_01_BJNR304200009BJNE001702311]:     Eingangsamt für eine Verwendung im Bereich Cyberkriminalität.
-[^bjnr304200009bjne001702311_02_BJNR304200009BJNE001702311]: 

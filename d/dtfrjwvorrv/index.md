@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Gewährung von Vorrechten und Immunitäten an das Deutsch-Französische
-  Jugendwerk
+Title: Verordnung über die Gewährung von Vorrechten und Immunitäten an das Deutsch-Französische Jugendwerk
 jurabk: DtFrJWVorRV
 layout: default
 origslug: dtfrjwvorrv
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl II: 1979, 1213
-
 
 
 ## Eingangsformel
@@ -34,8 +32,8 @@ des Bundesrates:
 
 Für die Gewährung von Vorrechten und Immunitäten an das Deutsch-
 Französische Jugendwerk gilt das Abkommen vom 22. Juni 1973 zur
-Änderung des Abkommens vom 5. Juli 1963 zwischen der Regierung der
-Bundesrepublik Deutschland und der Regierung der Französischen
+Änderung des Abkommens vom 5. Juli 1963 zwischen der Regierung
+der Bundesrepublik Deutschland und der Regierung der Französischen
 Republik über die Errichtung des Deutsch-Französischen Jugendwerks
 (BGBl. 1973 II S. 1458).
 

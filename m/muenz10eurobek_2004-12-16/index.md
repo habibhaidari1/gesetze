@@ -1,7 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert
-  von 10 Euro (Gedenkmünze "FIFA Fußball-Weltmeisterschaft Deutschland 2006" - 3.
-  Ausgabe 2005 -)
+Title: "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze \"FIFA Fußball-Weltmeisterschaft Deutschland 2006\" - 3. Ausgabe 2005 -)"
 jurabk: Münz10EuroBek 2004-12-16
 layout: default
 origslug: m_nz10eurobek_2004-12-16
@@ -16,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 2005, 75
-
 
 
 ## (XXXX)
@@ -43,20 +40,10 @@ Die Wertseite trägt einen Adler, zwölf Sterne, den Nennwert "10 EURO",
 die Umschrift "BUNDESREPUBLIK DEUTSCHLAND" und die Jahreszahl 2005.
 Der glatte Münzrand enthält in vertiefter Prägung die Inschrift:
 
-*
-    *
-        *   "DIE WELT ZU GAST BEI FREUNDEN"
+-   -   -   "DIE WELT ZU GAST BEI FREUNDEN"
 
-
-
-
-
-
-
-
-
-und die Münzzeichen
-"A . D . F . G . J" der fünf deutschen Prägestätten.
+und die Münzzeichen "A . D . F . G . J" der fünf deutschen
+Prägestätten.
 Der Entwurf der Münze stammt von Lucia Maria Hardegen, Bonn
 (Bildseite) und Erich Ott, München (Wertseite).
 
@@ -69,4 +56,6 @@ Der Bundesminister der Finanzen
 ## (XXXX)
 
 (Fundstelle: BGBl. I 2005, 75)
+
 ![bgbl1_2005_j0075_0010.jpg](bgbl1_2005_j0075_0010.jpg)
+

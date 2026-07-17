@@ -1,6 +1,5 @@
 ---
-Title: Gesetz über das Verfahren bei sonstigen Änderungen des Gebietsbestandes der
-  Länder nach Artikel 29 Abs. 7 des Grundgesetzes
+Title: Gesetz über das Verfahren bei sonstigen Änderungen des Gebietsbestandes der Länder nach Artikel 29 Abs. 7 des Grundgesetzes
 jurabk: GGArt29Abs7G
 layout: default
 origslug: ggart29abs7g
@@ -18,7 +17,6 @@ Fundstelle
 
 Geändert durch
 :   Art. 3 V v. 19.6.2020 I 1328
-
 
 
 ## Eingangsformel
@@ -43,8 +41,8 @@ als 10.000 Einwohnern bewohnt ist.
 (1) Die beteiligten Länder können Gebietsänderungen nach § 1 durch
 Staatsvertrag vereinbaren.
 
-(2) Die beteiligten Länder unterrichten die betroffenen Gemeinden und
-Gemeindeverbände über ihre Absicht, einen Grenzänderungsvertrag
+(2) Die beteiligten Länder unterrichten die betroffenen Gemeinden
+und Gemeindeverbände über ihre Absicht, einen Grenzänderungsvertrag
 abzuschließen, und über die Gründe hierfür. Den betroffenen Gemeinden
 und Gemeindeverbänden muß Gelegenheit gegeben werden, ihre Auffassung
 zu dem beabsichtigten Grenzänderungsvertrag vor seiner Unterzeichnung
@@ -59,27 +57,27 @@ dem der Staatsvertrag in Kraft tritt.
 ## § 3
 
 (1) Wird ein Gesetzentwurf über eine Gebietsänderung nach § 1 im
-Bundestag beraten, so muß den beteiligten Ländern spätestens vor der
-zweiten Lesung Gelegenheit gegeben werden, ihre Auffassung zu dem
-Gesetzentwurf zu äußern. Die beteiligten Länder hören vorher die
+Bundestag beraten, so muß den beteiligten Ländern spätestens vor
+der zweiten Lesung Gelegenheit gegeben werden, ihre Auffassung zu
+dem Gesetzentwurf zu äußern. Die beteiligten Länder hören vorher die
 betroffenen Gemeinden und Gemeindeverbände; sie teilen das Ergebnis
 der Anhörung in ihrer Äußerung nach Satz 1 mit.
 
-(2) Die beteiligten Länder sind verpflichtet, dem Bundesminister des
-Innern, für Bau und Heimat auf Anforderung die erforderlichen
+(2) Die beteiligten Länder sind verpflichtet, dem Bundesminister
+des Innern, für Bau und Heimat auf Anforderung die erforderlichen
 Unterlagen vorzulegen.
 
 
 ## § 4
 
-Verwaltungsvermögen von Körperschaften des öffentlichen Rechts in dem
-abzutretenden Gebiet geht, soweit der Staatsvertrag oder das
-Bundesgesetz nichts Abweichendes vorsieht, gegen angemessene
+Verwaltungsvermögen von Körperschaften des öffentlichen Rechts
+in dem abzutretenden Gebiet geht, soweit der Staatsvertrag oder
+das Bundesgesetz nichts Abweichendes vorsieht, gegen angemessene
 Entschädigung auf die im aufnehmenden Land zuständige entsprechende
-Körperschaft des öffentlichen Rechts über. Dies gilt nicht für das
-Vermögen der Kirchen, der mit den Rechten einer Körperschaft des
-öffentlichen Rechts ausgestatteten Religionsgemeinschaften und der den
-Aufgaben einer Kirche oder Religionsgemeinschaft dienenden
+Körperschaft des öffentlichen Rechts über. Dies gilt nicht für
+das Vermögen der Kirchen, der mit den Rechten einer Körperschaft
+des öffentlichen Rechts ausgestatteten Religionsgemeinschaften und
+der den Aufgaben einer Kirche oder Religionsgemeinschaft dienenden
 Körperschaften des öffentlichen Rechts und für das Vermögen der im
 Bereich der Sozialversicherung tätigen Körperschaften des öffentlichen
 Rechts.
@@ -87,8 +85,8 @@ Rechts.
 
 ## § 5
 
-(1) Mit der Gebietsänderung erhalten, soweit das aufnehmende Land oder
-das Bundesgesetz nichts Abweichendes bestimmt, in dem betroffenen
+(1) Mit der Gebietsänderung erhalten, soweit das aufnehmende Land
+oder das Bundesgesetz nichts Abweichendes bestimmt, in dem betroffenen
 Gebiet die Rechtsvorschriften des aufnehmenden Landes Geltung; die
 Rechtsvorschriften des abgebenden Landes treten außer Kraft.
 

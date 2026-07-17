@@ -34,24 +34,19 @@ verordnet:
 (1) Die Befugnis zur Erteilung und zum Widerruf der Genehmigung in den
 Fällen der §§ 2, 3 Abs. 1 und 2 und des § 4a des Gesetzes wird
 
-1.  für den Bereich der Bundeswehr auf das Bundesministerium
-    für                    Verteidigung,
-
+1.  für den Bereich der Bundeswehr auf das Bundesministerium *für*
+    Verteidigung,
 
 2.  für den Bereich des Zollgrenzdienstes auf das Bundesministerium der
     Finanzen,
-
 
 3.  für den Bereich der für die Aufrechterhaltung der öffentlichen
     Sicherheit zuständigen Behörden oder Dienststellen sowie der Behörden
     des Strafvollzugs auf das Bundesministerium des Innern, für Bau und
     Heimat,
 
-
-4.  für alle übrigen Bereiche auf das Bundesministerium für Wirtschaft und
-    Energie
-
-
+4.  für alle übrigen Bereiche auf das Bundesministerium für Wirtschaft
+    und Energie
 
 übertragen.
 

@@ -1,7 +1,5 @@
 ---
-Title: Sechste Anordnung über die Übertragung von Zuständigkeiten auf dem Gebiet der
-  beamtenrechtlichen Versorgung usw. im Dienstbereich des Bundesministers für das
-  Post- und Fernmeldewesen - 5. Ergänzung der ZOVers -
+Title: Sechste Anordnung über die Übertragung von Zuständigkeiten auf dem Gebiet der beamtenrechtlichen Versorgung usw. im Dienstbereich des Bundesministers für das Post- und Fernmeldewesen - 5. Ergänzung der ZOVers -
 jurabk: BMPZVersAnO 6
 layout: default
 origslug: bmpzversano_6
@@ -18,20 +16,20 @@ Fundstelle
 :   BGBl I: 1976, 3416
 
 Zuletzt geändert durch
-:   AnO v. 13. 9.1977 I 1870
+:   AnO v. 13.9.1977 I 1870
 
 
 ## Eingangsformel
 
-Die Anordnung über die Übertragung von Zuständigkeiten auf dem Gebiet
-der beamtenrechtlichen Versorgung usw. im Dienstbereich des
-Bundesministers für das Post- und Fernmeldewesen - ZOVers - vom 21.
-November 1958 (Bundesanzeiger Nr. 231 vom 2. Dezember 1958; AmtsblVfg
-Nr. 39/1959, S. 45), zuletzt geändert durch die Fünfte Anordnung über
-die Übertragung von Zuständigkeiten auf dem Gebiet der
-beamtenrechtlichen Versorgung usw. im Dienstbereich des
-Bundesministers für das Post- und Fernmeldewesen - 4. Ergänzung der
-ZOVers - vom 21. September 1972 (Bundesanzeiger Nr. 191 vom 10.
+Die Anordnung über die Übertragung von Zuständigkeiten auf dem
+Gebiet der beamtenrechtlichen Versorgung usw. im Dienstbereich
+des Bundesministers für das Post- und Fernmeldewesen - ZOVers
+- vom 21. November 1958 (Bundesanzeiger Nr. 231 vom 2. Dezember
+1958; AmtsblVfg Nr. 39/1959, S. 45), zuletzt geändert durch die
+Fünfte Anordnung über die Übertragung von Zuständigkeiten auf dem
+Gebiet der beamtenrechtlichen Versorgung usw. im Dienstbereich des
+Bundesministers für das Post- und Fernmeldewesen - 4. Ergänzung
+der ZOVers - vom 21. September 1972 (Bundesanzeiger Nr. 191 vom 10.
 Oktober 1972, AmtsblVfg Nr. 741/1972, S. 1722), wird in Anwendung des
 § 155 Abs. 1 Satz 2 des Bundesbeamtengesetzes im Einvernehmen mit dem
 Bundesminister des Innern wie folgt geändert:
@@ -50,7 +48,6 @@ bestimmt ist.
 Abweichend von Satz 1 tritt Nummer 6 in Kraft,
 
 a)  in Verbindung mit Nummer 3 am 1. Januar 1977,
-
 
 b)  in Verbindung mit Nummer 4 und 5
 
@@ -79,14 +76,12 @@ b)  in Verbindung mit Nummer 4 und 5
     für den Bereich der Fachhochschule der Deutschen Bundespost Berlin am
     1\. Februar 1978,
 
-
-
 soweit der Unfall zu bzw. nach dem jeweils genannten Zeitpunkt
 eintritt. Für Unfälle, die zu den genannten Zeitpunkten bereits
-anhängig waren, geht die Zuständigkeit jeweils sechs Monate nach dem
-in Satz 2 genannten Zeitpunkt auf das Sozialamt der Deutschen
-Bundespost über. Für die Landespostdirektion Berlin und die in Satz 2
-nicht genannten Oberpostdirektionen gilt die ZOVers in der am 30.
+anhängig waren, geht die Zuständigkeit jeweils sechs Monate nach
+dem in Satz 2 genannten Zeitpunkt auf das Sozialamt der Deutschen
+Bundespost über. Für die Landespostdirektion Berlin und die in Satz
+2 nicht genannten Oberpostdirektionen gilt die ZOVers in der am 30.
 September 1976 gültigen Fassung bis auf weiteres weiter.
 
 

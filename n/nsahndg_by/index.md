@@ -15,3 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   GVBl BY: 1946, 182
 
+Fundstelle
+:   BayBS III: 151
+

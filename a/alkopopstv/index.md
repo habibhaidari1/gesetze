@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über das Verfahren zur Berechnung des Netto-Mehraufkommens der nach
-  dem Alkopopsteuergesetz erhobenen Alkopopsteuer
+Title: Verordnung über das Verfahren zur Berechnung des Netto-Mehraufkommens der nach dem Alkopopsteuergesetz erhobenen Alkopopsteuer
 jurabk: AlkopopStV
 layout: default
 origslug: alkopopstv
@@ -18,7 +17,6 @@ Fundstelle
 
 Geändert durch
 :   Art. 16 Abs. 8 G v. 10.3.2017 I 420
-
 
 
 ## Eingangsformel
@@ -39,10 +37,10 @@ ergeben (§ 4 Satz 2 des Alkopopsteuergesetzes).
 abgelaufenen Haushaltsjahr ohne die steuerlichen Nebenleistungen nach
 § 3 Abs. 4 der Abgabenordnung.
 
-(3) Für die Berechnung der Mindereinnahmen bei der Alkoholsteuer, die
-sich durch die Einführung der Alkopopsteuer ergeben, ist von einer
-jährlichen Verbrauchsmenge von Alkopops vor Einführung der
-Alkopopsteuer von 45 000 Hektoliter reinen Alkohols auszugehen
+(3) Für die Berechnung der Mindereinnahmen bei der Alkoholsteuer,
+die sich durch die Einführung der Alkopopsteuer ergeben, ist von
+einer jährlichen Verbrauchsmenge von Alkopops vor Einführung der
+Alkopopsteuer von 45 000 Hektoliter reinen Alkohols auszugehen
 (bisherige Verbrauchsmenge). Die Mindereinnahmen bei der Alkoholsteuer
 werden aus der Differenz zwischen der Alkoholsteuer für die bisherige
 Verbrauchsmenge und der Alkoholsteuer für die im abgelaufenen
@@ -53,14 +51,14 @@ ist der im abgelaufenen Haushaltsjahr geltende Alkoholsteuersatz nach
 
 ## § 2 Verrechnung der Differenz zwischen Soll- und Ist-Netto-Mehraufkommen sowie zwischen Soll- und Ist-Ausgaben für Suchtpräventionsmaßnahmen
 
-(1) Bei der Aufstellung des Haushaltsplans wird der Sollansatz für das
-Netto-Mehraufkommen der Alkopopsteuer entsprechend dem
+(1) Bei der Aufstellung des Haushaltsplans wird der Sollansatz
+für das Netto-Mehraufkommen der Alkopopsteuer entsprechend dem
 Berechnungsverfahren nach § 1 auf der Grundlage der voraussichtlichen
-Verbrauchsmenge von Alkopops und unter Berücksichtigung von Absatz 2
-veranschlagt.
+Verbrauchsmenge von Alkopops und unter Berücksichtigung von Absatz
+2 veranschlagt.
 
-(2) Die Differenz zwischen dem Sollansatz eines Haushaltsjahres und
-dem für dieses Haushaltsjahr nach § 1 ermittelten Ist-Netto-
+(2) Die Differenz zwischen dem Sollansatz eines Haushaltsjahres
+und dem für dieses Haushaltsjahr nach § 1 ermittelten Ist-Netto-
 Mehraufkommen sowie die Differenz zwischen dem Sollansatz eines
 Haushaltsjahres und den tatsächlichen Ausgaben der Bundeszentrale für
 gesundheitliche Aufklärung für Maßnahmen der Suchtprävention (§ 4 Satz

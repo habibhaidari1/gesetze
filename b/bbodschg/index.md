@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zum Schutz vor schädlichen Bodenveränderungen und zur Sanierung von
-  Altlasten
+Title: Gesetz zum Schutz vor schädlichen Bodenveränderungen und zur Sanierung von Altlasten
 jurabk: BBodSchG
 layout: default
 origslug: bbodschg
@@ -23,11 +22,10 @@ Zuletzt geändert durch
 ## Erster Teil - Allgemeine Vorschriften
 
 
-
 ### § 1 Zweck und Grundsätze des Gesetzes
 
-Zweck dieses Gesetzes ist es, nachhaltig die Funktionen des Bodens zu
-sichern oder wiederherzustellen. Hierzu sind schädliche
+Zweck dieses Gesetzes ist es, nachhaltig die Funktionen des
+Bodens zu sichern oder wiederherzustellen. Hierzu sind schädliche
 Bodenveränderungen abzuwehren, der Boden und Altlasten sowie hierdurch
 verursachte Gewässerverunreinigungen zu sanieren und Vorsorge gegen
 nachteilige Einwirkungen auf den Boden zu treffen. Bei Einwirkungen
@@ -40,8 +38,8 @@ weit wie möglich vermieden werden.
 
 (1) Boden im Sinne dieses Gesetzes ist die obere Schicht der
 Erdkruste, soweit sie Träger der in Absatz 2 genannten Bodenfunktionen
-ist, einschließlich der flüssigen Bestandteile (Bodenlösung) und der
-gasförmigen Bestandteile (Bodenluft), ohne Grundwasser und
+ist, einschließlich der flüssigen Bestandteile (Bodenlösung) und
+der gasförmigen Bestandteile (Bodenluft), ohne Grundwasser und
 Gewässerbetten.
 
 (2) Der Boden erfüllt im Sinne dieses Gesetzes
@@ -51,41 +49,25 @@ Gewässerbetten.
     a)  Lebensgrundlage und Lebensraum für Menschen, Tiere, Pflanzen und
         Bodenorganismen,
 
-
     b)  Bestandteil des Naturhaushalts, insbesondere mit seinen Wasser- und
         Nährstoffkreisläufen,
 
-
-    c)  Abbau-, Ausgleichs- und Aufbaumedium für stoffliche Einwirkungen auf
-        Grund der Filter-, Puffer- und Stoffumwandlungseigenschaften,
+    c)  Abbau-, Ausgleichs- und Aufbaumedium für stoffliche Einwirkungen
+        auf Grund der Filter-, Puffer- und Stoffumwandlungseigenschaften,
         insbesondere auch zum Schutz des Grundwassers,
 
-
-
-
-
 2.  Funktionen als Archiv der Natur- und Kulturgeschichte sowie
-
 
 3.  Nutzungsfunktionen als
 
     a)  Rohstofflagerstätte,
 
-
     b)  Fläche für Siedlung und Erholung,
-
 
     c)  Standort für die land- und forstwirtschaftliche Nutzung,
 
-
     d)  Standort für sonstige wirtschaftliche und öffentliche Nutzungen,
         Verkehr, Ver- und Entsorgung.
-
-
-
-
-
-
 
 (3) Schädliche Bodenveränderungen im Sinne dieses Gesetzes sind
 Beeinträchtigungen der Bodenfunktionen, die geeignet sind, Gefahren,
@@ -97,17 +79,14 @@ denen der Verdacht schädlicher Bodenveränderungen besteht.
 
 (5) Altlasten im Sinne dieses Gesetzes sind
 
-1.  stillgelegte Abfallbeseitigungsanlagen sowie sonstige Grundstücke, auf
-    denen Abfälle behandelt, gelagert oder abgelagert worden sind
+1.  stillgelegte Abfallbeseitigungsanlagen sowie sonstige Grundstücke,
+    auf denen Abfälle behandelt, gelagert oder abgelagert worden sind
     (Altablagerungen), und
-
 
 2.  Grundstücke stillgelegter Anlagen und sonstige Grundstücke, auf denen
     mit umweltgefährdenden Stoffen umgegangen worden ist, ausgenommen
     Anlagen, deren Stillegung einer Genehmigung nach dem Atomgesetz bedarf
     (Altstandorte),
-
-
 
 durch die schädliche Bodenveränderungen oder sonstige Gefahren für den
 einzelnen oder die Allgemeinheit hervorgerufen werden.
@@ -122,17 +101,12 @@ Allgemeinheit besteht.
 1.  zur Beseitigung oder Verminderung der Schadstoffe
     (Dekontaminationsmaßnahmen),
 
-
 2.  die eine Ausbreitung der Schadstoffe langfristig verhindern oder
     vermindern, ohne die Schadstoffe zu beseitigen (Sicherungsmaßnahmen),
-
 
 3.  zur Beseitigung oder Verminderung schädlicher Veränderungen der
     physikalischen, chemischen oder biologischen Beschaffenheit des
     Bodens.
-
-
-
 
 (8) Schutz- und Beschränkungsmaßnahmen im Sinne dieses Gesetzes sind
 sonstige Maßnahmen, die Gefahren, erhebliche Nachteile oder erhebliche
@@ -145,54 +119,42 @@ vermindern, insbesondere Nutzungsbeschränkungen.
 (1) Dieses Gesetz findet auf schädliche Bodenveränderungen und
 Altlasten Anwendung, soweit
 
-1.  Vorschriften des Kreislaufwirtschaftsgesetzes über das Aufbringen von
-    Abfällen zur Verwertung als Düngemittel im Sinne des § 2 des
-    Düngegesetzes und der hierzu auf Grund des
-    Kreislaufwirtschaftsgesetzes und des bis zum 1. Juni 2012 geltenden
-    Kreislaufwirtschafts- und Abfallgesetzes erlassenen
+1.  Vorschriften des Kreislaufwirtschaftsgesetzes über das
+    Aufbringen von Abfällen zur Verwertung als Düngemittel im
+    Sinne des § 2 des Düngegesetzes und der hierzu auf Grund des
+    Kreislaufwirtschaftsgesetzes und des bis zum 1. Juni 2012
+    geltenden Kreislaufwirtschafts- und Abfallgesetzes erlassenen
     Rechtsverordnungen,
-
 
 2.  Vorschriften des Kreislaufwirtschaftsgesetzes über die Zulassung und
     den Betrieb von Abfallbeseitigungsanlagen zur Beseitigung von Abfällen
     sowie über die Stillegung von Deponien,
 
-
 3.  Vorschriften über die Beförderung gefährlicher Güter,
-
 
 4.  Vorschriften des Düngemittel- und Pflanzenschutzrechts,
 
-
 5.  Vorschriften des Gentechnikgesetzes,
-
 
 6.  Vorschriften des Zweiten Kapitels des Bundeswaldgesetzes und der
     Forst- und Waldgesetze der Länder,
-
 
 7.  Vorschriften des Flurbereinigungsgesetzes über das
     Flurbereinigungsgebiet, auch in Verbindung mit dem
     Landwirtschaftsanpassungsgesetz,
 
-
 8.  Vorschriften über Bau, Änderung, Unterhaltung und Betrieb von
     Verkehrswegen oder Vorschriften, die den Verkehr regeln,
 
-
 9.  Vorschriften des Bauplanungs- und Bauordnungsrechts,
-
 
 10. Vorschriften des Bundesberggesetzes und der auf Grund dieses Gesetzes
     erlassenen Rechtsverordnungen über die Errichtung, Führung oder
     Einstellung eines Betriebes sowie
 
-
 11. Vorschriften des Bundes-Immissionsschutzgesetzes und der auf Grund
     dieses Gesetzes erlassenen Rechtsverordnungen über die Errichtung und
     den Betrieb von Anlagen unter Berücksichtigung von Absatz 3
-
-
 
 Einwirkungen auf den Boden nicht regeln.
 
@@ -205,17 +167,17 @@ ferner nicht für das Aufsuchen, Bergen, Befördern, Lagern, Behandeln
 und Vernichten von Kampfmitteln.
 
 (3) Im Hinblick auf das Schutzgut Boden gelten schädliche
-Bodenveränderungen im Sinne des § 2 Abs. 3 dieses Gesetzes und der auf
-Grund dieses Gesetzes erlassenen Rechtsverordnungen, soweit sie durch
-Immissionen verursacht werden, als schädliche Umwelteinwirkungen nach
-§ 3 Abs. 1 des Bundes-Immissionsschutzgesetzes, im übrigen als
+Bodenveränderungen im Sinne des § 2 Abs. 3 dieses Gesetzes und der
+auf Grund dieses Gesetzes erlassenen Rechtsverordnungen, soweit sie
+durch Immissionen verursacht werden, als schädliche Umwelteinwirkungen
+nach § 3 Abs. 1 des Bundes-Immissionsschutzgesetzes, im übrigen als
 sonstige Gefahren, erhebliche Nachteile oder erhebliche Belästigungen
-nach § 5 Abs. 1 Nr. 1 des Bundes-Immissionsschutzgesetzes. Zur näheren
-Bestimmung der immissionsschutzrechtlichen Vorsorgepflichten sind die
-in einer Rechtsverordnung nach § 8 Abs. 2 festgelegten Werte
-heranzuziehen, sobald in einer Rechtsverordnung oder in einer
-Verwaltungsvorschrift des Bundes bestimmt worden ist, welche
-Zusatzbelastungen durch den Betrieb einer Anlage nicht als
+nach § 5 Abs. 1 Nr. 1 des Bundes-Immissionsschutzgesetzes. Zur
+näheren Bestimmung der immissionsschutzrechtlichen Vorsorgepflichten
+sind die in einer Rechtsverordnung nach § 8 Abs. 2 festgelegten
+Werte heranzuziehen, sobald in einer Rechtsverordnung oder in
+einer Verwaltungsvorschrift des Bundes bestimmt worden ist,
+welche Zusatzbelastungen durch den Betrieb einer Anlage nicht als
 ursächlicher Beitrag zum Entstehen schädlicher Bodenveränderungen
 anzusehen sind. In der Rechtsverordnung oder der Verwaltungsvorschrift
 soll gleichzeitig geregelt werden, daß bei Unterschreitung bestimmter
@@ -227,25 +189,24 @@ beiträgt.
 ## Zweiter Teil - Grundsätze und Pflichten
 
 
-
 ### § 4 Pflichten zur Gefahrenabwehr
 
 (1) Jeder, der auf den Boden einwirkt, hat sich so zu verhalten, daß
 schädliche Bodenveränderungen nicht hervorgerufen werden.
 
-(2) Der Grundstückseigentümer und der Inhaber der tatsächlichen Gewalt
-über ein Grundstück sind verpflichtet, Maßnahmen zur Abwehr der von
-ihrem Grundstück drohenden schädlichen Bodenveränderungen zu
-ergreifen.
+(2) Der Grundstückseigentümer und der Inhaber der tatsächlichen
+Gewalt über ein Grundstück sind verpflichtet, Maßnahmen zur Abwehr
+der von ihrem Grundstück drohenden schädlichen Bodenveränderungen
+zu ergreifen.
 
 (3) Der Verursacher einer schädlichen Bodenveränderung oder Altlast
-sowie dessen Gesamtrechtsnachfolger, der Grundstückseigentümer und der
-Inhaber der tatsächlichen Gewalt über ein Grundstück sind
-verpflichtet, den Boden und Altlasten sowie durch schädliche
+sowie dessen Gesamtrechtsnachfolger, der Grundstückseigentümer
+und der Inhaber der tatsächlichen Gewalt über ein Grundstück
+sind verpflichtet, den Boden und Altlasten sowie durch schädliche
 Bodenveränderungen oder Altlasten verursachte Verunreinigungen von
 Gewässern so zu sanieren, daß dauerhaft keine Gefahren, erheblichen
-Nachteile oder erheblichen Belästigungen für den einzelnen oder die
-Allgemeinheit entstehen. Hierzu kommen bei Belastungen durch
+Nachteile oder erheblichen Belästigungen für den einzelnen oder
+die Allgemeinheit entstehen. Hierzu kommen bei Belastungen durch
 Schadstoffe neben Dekontaminations- auch Sicherungsmaßnahmen in
 Betracht, die eine Ausbreitung der Schadstoffe langfristig verhindern.
 Soweit dies nicht möglich oder unzumutbar ist, sind sonstige Schutz-
@@ -266,9 +227,9 @@ der absehbaren Entwicklung das Schutzbedürfnis. Die bei der Sanierung
 von Gewässern zu erfüllenden Anforderungen bestimmen sich nach dem
 Wasserrecht.
 
-(5) Sind schädliche Bodenveränderungen oder Altlasten nach dem 1. März
-1999 eingetreten, sind Schadstoffe zu beseitigen, soweit dies im
-Hinblick auf die Vorbelastung des Bodens verhältnismäßig ist. Dies
+(5) Sind schädliche Bodenveränderungen oder Altlasten nach dem 1.
+März 1999 eingetreten, sind Schadstoffe zu beseitigen, soweit dies
+im Hinblick auf die Vorbelastung des Bodens verhältnismäßig ist. Dies
 gilt für denjenigen nicht, der zum Zeitpunkt der Verursachung auf
 Grund der Erfüllung der für ihn geltenden gesetzlichen Anforderungen
 darauf vertraut hat, daß solche Beeinträchtigungen nicht entstehen
@@ -278,8 +239,8 @@ Einzelfalles schutzwürdig ist.
 (6) Der frühere Eigentümer eines Grundstücks ist zur Sanierung
 verpflichtet, wenn er sein Eigentum nach dem 1. März 1999 übertragen
 hat und die schädliche Bodenveränderung oder Altlast hierbei kannte
-oder kennen mußte. Dies gilt für denjenigen nicht, der beim Erwerb des
-Grundstücks darauf vertraut hat, daß schädliche Bodenveränderungen
+oder kennen mußte. Dies gilt für denjenigen nicht, der beim Erwerb
+des Grundstücks darauf vertraut hat, daß schädliche Bodenveränderungen
 oder Altlasten nicht vorhanden sind, und sein Vertrauen unter
 Berücksichtigung der Umstände des Einzelfalles schutzwürdig ist.
 
@@ -287,11 +248,11 @@ Berücksichtigung der Umstände des Einzelfalles schutzwürdig ist.
 ### § 5 Entsiegelung
 
 Soweit die Vorschriften des Baurechts die Befugnisse der Behörden
-nicht regeln, wird die Bundesregierung ermächtigt, nach Anhörung der
-beteiligten Kreise (§ 20) durch Rechtsverordnung mit Zustimmung des
-Bundesrates Grundstückseigentümer zu verpflichten, bei dauerhaft nicht
-mehr genutzten Flächen, deren Versiegelung im Widerspruch zu
-planungsrechtlichen Festsetzungen steht, den Boden in seiner
+nicht regeln, wird die Bundesregierung ermächtigt, nach Anhörung
+der beteiligten Kreise (§ 20) durch Rechtsverordnung mit Zustimmung
+des Bundesrates Grundstückseigentümer zu verpflichten, bei dauerhaft
+nicht mehr genutzten Flächen, deren Versiegelung im Widerspruch
+zu planungsrechtlichen Festsetzungen steht, den Boden in seiner
 Leistungsfähigkeit im Sinne des § 1 so weit wie möglich und zumutbar
 zu erhalten oder wiederherzustellen. Bis zum Inkrafttreten einer
 Rechtsverordnung nach Satz 1 können durch die nach Landesrecht
@@ -304,44 +265,41 @@ in Satz 1 im übrigen genannten Voraussetzungen vorliegen.
 
 Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten
 Kreise (§ 20) durch Rechtsverordnung mit Zustimmung des Bundesrates
-zur Erfüllung der sich aus diesem Gesetz ergebenden Anforderungen an
-das Auf- und Einbringen von Materialien hinsichtlich der
+zur Erfüllung der sich aus diesem Gesetz ergebenden Anforderungen
+an das Auf- und Einbringen von Materialien hinsichtlich der
 Schadstoffgehalte und sonstiger Eigenschaften, insbesondere
 
 1.  Verbote oder Beschränkungen nach Maßgabe von Merkmalen wie Art und
     Beschaffenheit der Materialien und des Bodens, Aufbringungsort und
     -zeit und natürliche Standortverhältnisse sowie
 
-
 2.  Untersuchungen der Materialien oder des Bodens, Maßnahmen zur
     Vorbehandlung dieser Materialien oder geeignete andere Maßnahmen
-
-
 
 zu bestimmen.
 
 
 ### § 7 Vorsorgepflicht
 
-Der Grundstückseigentümer, der Inhaber der tatsächlichen Gewalt über
-ein Grundstück und derjenige, der Verrichtungen auf einem Grundstück
-durchführt oder durchführen läßt, die zu Veränderungen der
+Der Grundstückseigentümer, der Inhaber der tatsächlichen Gewalt
+über ein Grundstück und derjenige, der Verrichtungen auf einem
+Grundstück durchführt oder durchführen läßt, die zu Veränderungen der
 Bodenbeschaffenheit führen können, sind verpflichtet, Vorsorge gegen
 das Entstehen schädlicher Bodenveränderungen zu treffen, die durch
 ihre Nutzung auf dem Grundstück oder in dessen Einwirkungsbereich
 hervorgerufen werden können. Vorsorgemaßnahmen sind geboten, wenn
-wegen der räumlichen, langfristigen oder komplexen Auswirkungen einer
-Nutzung auf die Bodenfunktionen die Besorgnis einer schädlichen
+wegen der räumlichen, langfristigen oder komplexen Auswirkungen
+einer Nutzung auf die Bodenfunktionen die Besorgnis einer schädlichen
 Bodenveränderung besteht. Zur Erfüllung der Vorsorgepflicht sind
-Bodeneinwirkungen zu vermeiden oder zu vermindern, soweit dies auch im
-Hinblick auf den Zweck der Nutzung des Grundstücks verhältnismäßig
+Bodeneinwirkungen zu vermeiden oder zu vermindern, soweit dies auch
+im Hinblick auf den Zweck der Nutzung des Grundstücks verhältnismäßig
 ist. Anordnungen zur Vorsorge gegen schädliche Bodenveränderungen
 dürfen nur getroffen werden, soweit Anforderungen in einer
 Rechtsverordnung nach § 8 Abs. 2 festgelegt sind. Die Erfüllung der
-Vorsorgepflicht bei der landwirtschaftlichen Bodennutzung richtet sich
-nach § 17 Abs. 1 und 2, für die forstwirtschaftliche Bodennutzung
-richtet sie sich nach dem Zweiten Kapitel des Bundeswaldgesetzes und
-den Forst- und Waldgesetzen der Länder. Die Vorsorge für das
+Vorsorgepflicht bei der landwirtschaftlichen Bodennutzung richtet
+sich nach § 17 Abs. 1 und 2, für die forstwirtschaftliche Bodennutzung
+richtet sie sich nach dem Zweiten Kapitel des Bundeswaldgesetzes
+und den Forst- und Waldgesetzen der Länder. Die Vorsorge für das
 Grundwasser richtet sich nach wasserrechtlichen Vorschriften. Bei
 bestehenden Bodenbelastungen bestimmen sich die zu erfüllenden
 Pflichten nach § 4.
@@ -360,12 +318,10 @@ Flächen und Altlasten zu erlassen. Hierbei können insbesondere
     eine einzelfallbezogene Prüfung durchzuführen und festzustellen ist,
     ob eine schädliche Bodenveränderung oder Altlast vorliegt (Prüfwerte),
 
-
 2.  Werte für Einwirkungen oder Belastungen, bei deren Überschreiten unter
     Berücksichtigung der jeweiligen Bodennutzung in der Regel von einer
     schädlichen Bodenveränderung oder Altlast auszugehen ist und Maßnahmen
     erforderlich sind (Maßnahmenwerte),
-
 
 3.  Anforderungen an
 
@@ -373,76 +329,61 @@ Flächen und Altlasten zu erlassen. Hierbei können insbesondere
         Anforderungen an den Umgang mit ausgehobenem, abgeschobenem und
         behandeltem Bodenmaterial,
 
-
     b)  die Sanierung des Bodens und von Altlasten, insbesondere an
 
         -   die Bestimmung des zu erreichenden Sanierungsziels,
 
-
         -   den Umfang von Dekontaminations- und Sicherungsmaßnahmen, die
             langfristig eine Ausbreitung von Schadstoffen verhindern, sowie
 
-
         -   Schutz- und Beschränkungsmaßnahmen
-
-
-
-
-
-
-
-
 
 festgelegt werden.
 
 (2) Die Bundesregierung wird ermächtigt, nach Anhörung der beteiligten
 Kreise (§ 20) durch Rechtsverordnung mit Zustimmung des Bundesrates
 zur Erfüllung der sich aus § 7 ergebenden Pflichten sowie zur
-Festlegung von Anforderungen an die damit verbundene Untersuchung und
-Bewertung von Flächen mit der Besorgnis einer schädlichen
+Festlegung von Anforderungen an die damit verbundene Untersuchung
+und Bewertung von Flächen mit der Besorgnis einer schädlichen
 Bodenveränderung Vorschriften zu erlassen, insbesondere über
 
 1.  Bodenwerte, bei deren Überschreiten unter Berücksichtigung von
-    geogenen oder großflächig siedlungsbedingten Schadstoffgehalten in der
-    Regel davon auszugehen ist, daß die Besorgnis einer schädlichen
+    geogenen oder großflächig siedlungsbedingten Schadstoffgehalten in
+    der Regel davon auszugehen ist, daß die Besorgnis einer schädlichen
     Bodenveränderung besteht (Vorsorgewerte),
-
 
 2.  zulässige Zusatzbelastungen und Anforderungen zur Vermeidung oder
     Verminderung von Stoffeinträgen.
 
-
-
-
 (3) Mit den in den Absätzen 1 und 2 genannten Werten sind Verfahren
 zur Ermittlung von umweltgefährdenden Stoffen in Böden, biologischen
 und anderen Materialien festzulegen. Diese Verfahren umfassen auch
-Anforderungen an eine repräsentative Probenahme, Probenbehandlung und
-Qualitätssicherung einschließlich der Ermittlung der Werte für
+Anforderungen an eine repräsentative Probenahme, Probenbehandlung
+und Qualitätssicherung einschließlich der Ermittlung der Werte für
 unterschiedliche Belastungen.
 
 
 ### § 9 Gefährdungsabschätzung und Untersuchungsanordnungen
 
-(1) Liegen der zuständigen Behörde Anhaltspunkte dafür vor, daß eine
-schädliche Bodenveränderung oder Altlast vorliegt, so soll sie zur
-Ermittlung des Sachverhalts die geeigneten Maßnahmen ergreifen. Werden
-die in einer Rechtsverordnung nach § 8 Abs. 1 Satz 2 Nr. 1
+(1) Liegen der zuständigen Behörde Anhaltspunkte dafür vor, daß
+eine schädliche Bodenveränderung oder Altlast vorliegt, so soll sie
+zur Ermittlung des Sachverhalts die geeigneten Maßnahmen ergreifen.
+Werden die in einer Rechtsverordnung nach § 8 Abs. 1 Satz 2 Nr. 1
 festgesetzten Prüfwerte überschritten, soll die zuständige Behörde die
 notwendigen Maßnahmen treffen, um festzustellen, ob eine schädliche
-Bodenveränderung oder Altlast vorliegt. Im Rahmen der Untersuchung und
-Bewertung sind insbesondere Art und Konzentration der Schadstoffe, die
-Möglichkeit ihrer Ausbreitung in die Umwelt und ihrer Aufnahme durch
-Menschen, Tiere und Pflanzen sowie die Nutzung des Grundstücks nach §
-4 Abs. 4 zu berücksichtigen. Der Grundstückseigentümer und, wenn
-dieser bekannt ist, auch der Inhaber der tatsächlichen Gewalt sind
-über die getroffenen Feststellungen und über die Ergebnisse der
+Bodenveränderung oder Altlast vorliegt. Im Rahmen der Untersuchung
+und Bewertung sind insbesondere Art und Konzentration der Schadstoffe,
+die Möglichkeit ihrer Ausbreitung in die Umwelt und ihrer Aufnahme
+durch Menschen, Tiere und Pflanzen sowie die Nutzung des Grundstücks
+nach § 4 Abs. 4 zu berücksichtigen. Der Grundstückseigentümer und,
+wenn dieser bekannt ist, auch der Inhaber der tatsächlichen Gewalt
+sind über die getroffenen Feststellungen und über die Ergebnisse der
 Bewertung auf Antrag schriftlich zu unterrichten.
 
 (2) Besteht auf Grund konkreter Anhaltspunkte der hinreichende
-Verdacht einer schädlichen Bodenveränderung oder einer Altlast, kann
-die zuständige Behörde anordnen, daß die in § 4 Abs. 3, 5 und 6
-genannten Personen die notwendigen Untersuchungen zur
+Verdacht einer schädlichen Bodenveränderung oder einer Altlast,
+kann die zuständige Behörde anordnen, daß die in § 4 Abs. 3,
+5 und 6 genannten Personen die notwendigen Untersuchungen zur
 Gefährdungsabschätzung durchzuführen haben. Die zuständige Behörde
 kann verlangen, daß Untersuchungen von Sachverständigen oder
 Untersuchungsstellen nach § 18 durchgeführt werden. Sonstige Pflichten
@@ -453,22 +394,22 @@ Landesrecht.
 
 ### § 10 Sonstige Anordnungen
 
-(1) Zur Erfüllung der sich aus §§ 4 und 7 und den auf Grund von § 5
-Satz 1, §§ 6 und 8 erlassenen Rechtsverordnungen ergebenden Pflichten
-kann die zuständige Behörde die notwendigen Maßnahmen treffen. Werden
-zur Erfüllung der Verpflichtung aus § 4 Abs. 3 und 6
+(1) Zur Erfüllung der sich aus §§ 4 und 7 und den auf Grund von
+§ 5 Satz 1, §§ 6 und 8 erlassenen Rechtsverordnungen ergebenden
+Pflichten kann die zuständige Behörde die notwendigen Maßnahmen
+treffen. Werden zur Erfüllung der Verpflichtung aus § 4 Abs. 3 und 6
 Sicherungsmaßnahmen angeordnet, kann die zuständige Behörde verlangen,
 daß der Verpflichtete für die Aufrechterhaltung der Sicherungs- und
 Überwachungsmaßnahmen in der Zukunft Sicherheit leistet. Anordnungen
-zur Erfüllung der Pflichten nach § 7 dürfen getroffen werden, soweit
-Anforderungen in einer Rechtsverordnung festgelegt sind. Die
-zuständige Behörde darf eine Anordnung nicht treffen, wenn sie auch im
-Hinblick auf die berechtigten Nutzungsinteressen einzelner
+zur Erfüllung der Pflichten nach § 7 dürfen getroffen werden,
+soweit Anforderungen in einer Rechtsverordnung festgelegt sind.
+Die zuständige Behörde darf eine Anordnung nicht treffen, wenn sie
+auch im Hinblick auf die berechtigten Nutzungsinteressen einzelner
 unverhältnismäßig wäre.
 
 (2) Trifft die zuständige Behörde gegenüber dem Grundstückseigentümer
-oder dem Inhaber der tatsächlichen Gewalt zur Erfüllung der Pflichten
-nach § 4 Anordnungen zur Beschränkung der land- und
+oder dem Inhaber der tatsächlichen Gewalt zur Erfüllung der
+Pflichten nach § 4 Anordnungen zur Beschränkung der land- und
 forstwirtschaftlichen Bodennutzung sowie zur Bewirtschaftung von
 Böden, so hat sie, wenn diese nicht Verursacher der schädlichen
 Bodenveränderungen sind, für die nach zumutbaren innerbetrieblichen
@@ -482,7 +423,6 @@ Härte führen würde.
 ## Dritter Teil - Ergänzende Vorschriften für Altlasten
 
 
-
 ### § 11 Erfassung
 
 Die Länder können die Erfassung der Altlasten und altlastverdächtigen
@@ -491,12 +431,12 @@ Flächen regeln.
 
 ### § 12 Information der Betroffenen
 
-Die nach § 9 Abs. 2 Satz 1 zur Untersuchung der Altlast und die nach §
-4 Abs. 3, 5 und 6 zur Sanierung der Altlast Verpflichteten haben die
-Eigentümer der betroffenen Grundstücke, die sonstigen betroffenen
+Die nach § 9 Abs. 2 Satz 1 zur Untersuchung der Altlast und die nach
+§ 4 Abs. 3, 5 und 6 zur Sanierung der Altlast Verpflichteten haben
+die Eigentümer der betroffenen Grundstücke, die sonstigen betroffenen
 Nutzungsberechtigten und die betroffene Nachbarschaft (Betroffenen)
-von der bevorstehenden Durchführung der geplanten Maßnahmen zu
-informieren. Die zur Beurteilung der Maßnahmen wesentlichen
+von der bevorstehenden Durchführung der geplanten Maßnahmen
+zu informieren. Die zur Beurteilung der Maßnahmen wesentlichen
 vorhandenen Unterlagen sind zur Einsichtnahme zur Verfügung zu
 stellen. Enthalten Unterlagen Geschäfts- oder Betriebsgeheimnisse, muß
 ihr Inhalt, soweit es ohne Preisgabe des Geheimnisses geschehen kann,
@@ -506,35 +446,31 @@ die Auswirkungen der Maßnahmen auf ihre Belange zu beurteilen.
 
 ### § 13 Sanierungsuntersuchungen und Sanierungsplanung
 
-(1) Bei Altlasten, bei denen wegen der Verschiedenartigkeit der nach §
-4 erforderlichen Maßnahmen ein abgestimmtes Vorgehen notwendig ist
-oder von denen auf Grund von Art, Ausbreitung oder Menge der
-Schadstoffe in besonderem Maße schädliche Bodenveränderungen oder
-sonstige Gefahren für den einzelnen oder die Allgemeinheit ausgehen,
-soll die zuständige Behörde von einem nach § 4 Abs. 3, 5 oder 6 zur
-Sanierung Verpflichteten die notwendigen Untersuchungen zur
-Entscheidung über Art und Umfang der erforderlichen Maßnahmen
+(1) Bei Altlasten, bei denen wegen der Verschiedenartigkeit der nach
+§ 4 erforderlichen Maßnahmen ein abgestimmtes Vorgehen notwendig
+ist oder von denen auf Grund von Art, Ausbreitung oder Menge
+der Schadstoffe in besonderem Maße schädliche Bodenveränderungen
+oder sonstige Gefahren für den einzelnen oder die Allgemeinheit
+ausgehen, soll die zuständige Behörde von einem nach § 4 Abs. 3, 5
+oder 6 zur Sanierung Verpflichteten die notwendigen Untersuchungen
+zur Entscheidung über Art und Umfang der erforderlichen Maßnahmen
 (Sanierungsuntersuchungen) sowie die Vorlage eines Sanierungsplans
 verlangen, der insbesondere
 
 1.  eine Zusammenfassung der Gefährdungsabschätzung und der
     Sanierungsuntersuchungen,
 
-
 2.  Angaben über die bisherige und künftige Nutzung der zu sanierenden
     Grundstücke,
-
 
 3.  die Darstellung des Sanierungsziels und die hierzu erforderlichen
     Dekontaminations-, Sicherungs-, Schutz-, Beschränkungs- und
     Eigenkontrollmaßnahmen sowie die zeitliche Durchführung dieser
     Maßnahmen
 
-
-
-enthält. Die Bundesregierung wird ermächtigt, nach Anhörung der
-beteiligten Kreise (§ 20) durch Rechtsverordnung mit Zustimmung des
-Bundesrates Vorschriften über die Anforderungen an
+enthält. Die Bundesregierung wird ermächtigt, nach Anhörung
+der beteiligten Kreise (§ 20) durch Rechtsverordnung mit
+Zustimmung des Bundesrates Vorschriften über die Anforderungen an
 Sanierungsuntersuchungen sowie den Inhalt von Sanierungsplänen zu
 erlassen.
 
@@ -542,8 +478,8 @@ erlassen.
 Sanierungsuntersuchungen sowie der Sanierungsplan von einem
 Sachverständigen nach § 18 erstellt werden.
 
-(3) Wer nach Absatz 1 einen Sanierungsplan vorzulegen hat, hat die
-nach § 12 Betroffenen frühzeitig, in geeigneter Weise und
+(3) Wer nach Absatz 1 einen Sanierungsplan vorzulegen hat, hat
+die nach § 12 Betroffenen frühzeitig, in geeigneter Weise und
 unaufgefordert über die geplanten Maßnahmen zu informieren. § 12 Satz
 2 und 3 gilt entsprechend.
 
@@ -553,17 +489,17 @@ Dritter vorsehen kann.
 
 (5) Soweit entnommenes Bodenmaterial im Bereich der von der
 Altlastensanierung betroffenen Fläche wieder eingebracht werden soll,
-gilt § 28 Absatz 1 Satz 1 des Kreislaufwirtschaftsgesetzes nicht, wenn
-durch einen für verbindlich erklärten Sanierungsplan oder eine
+gilt § 28 Absatz 1 Satz 1 des Kreislaufwirtschaftsgesetzes nicht,
+wenn durch einen für verbindlich erklärten Sanierungsplan oder eine
 Anordnung zur Durchsetzung der Pflichten nach § 4 sichergestellt wird,
 daß das Wohl der Allgemeinheit nicht beeinträchtigt wird.
 
-(6) Die zuständige Behörde kann den Plan, auch unter Abänderungen oder
-mit Nebenbestimmungen, für verbindlich erklären. Ein für verbindlich
-erklärter Plan schließt andere die Sanierung betreffende behördliche
-Entscheidungen mit Ausnahme von Zulassungsentscheidungen für Vorhaben,
-die nach § 1 in Verbindung mit der Anlage 1 des Gesetzes über die
-Umweltverträglichkeitsprüfung oder kraft Landesrechts einer
+(6) Die zuständige Behörde kann den Plan, auch unter Abänderungen
+oder mit Nebenbestimmungen, für verbindlich erklären. Ein für
+verbindlich erklärter Plan schließt andere die Sanierung betreffende
+behördliche Entscheidungen mit Ausnahme von Zulassungsentscheidungen
+für Vorhaben, die nach § 1 in Verbindung mit der Anlage 1 des Gesetzes
+über die Umweltverträglichkeitsprüfung oder kraft Landesrechts einer
 Umweltverträglichkeitsprüfung unterliegen, mit ein, soweit sie im
 Einvernehmen mit der jeweils zuständigen Behörde erlassen und in dem
 für verbindlich erklärten Plan die miteingeschlossenen Entscheidungen
@@ -579,17 +515,13 @@ erstellen oder ergänzen lassen, wenn
 1.  der Plan nicht, nicht innerhalb der von der Behörde gesetzten Frist
     oder fachlich unzureichend erstellt worden ist,
 
-
 2.  ein nach § 4 Abs. 3, 5 oder 6 Verpflichteter nicht oder nicht
     rechtzeitig herangezogen werden kann oder
-
 
 3.  auf Grund der großflächigen Ausdehnung der Altlast, der auf der
     Altlast beruhenden weiträumigen Verunreinigung eines Gewässers oder
     auf Grund der Anzahl der nach § 4 Abs. 3, 5 oder 6 Verpflichteten ein
     koordiniertes Vorgehen erforderlich ist.
-
-
 
 § 13 Abs. 3 bis 6 gilt entsprechend.
 
@@ -606,10 +538,10 @@ Anordnungen durch die Anwendung dieses Gesetzes unberührt.
 nach § 4 Abs. 3, 5 oder 6 Verpflichteten, soweit erforderlich, die
 Durchführung von Eigenkontrollmaßnahmen, insbesondere Boden- und
 Wasseruntersuchungen, sowie die Einrichtung und den Betrieb von
-Meßstellen verlangen. Die Ergebnisse der Eigenkontrollmaßnahmen sind
-aufzuzeichnen und fünf Jahre lang aufzubewahren. Die zuständige
-Behörde kann eine längerfristige Aufbewahrung anordnen, soweit dies im
-Einzelfall erforderlich ist. Die zuständige Behörde kann
+Meßstellen verlangen. Die Ergebnisse der Eigenkontrollmaßnahmen
+sind aufzuzeichnen und fünf Jahre lang aufzubewahren. Die zuständige
+Behörde kann eine längerfristige Aufbewahrung anordnen, soweit
+dies im Einzelfall erforderlich ist. Die zuständige Behörde kann
 Eigenkontrollmaßnahmen auch nach Durchführung von Dekontaminations-,
 Sicherungs- und Beschränkungsmaßnahmen anordnen. Sie kann verlangen,
 daß die Eigenkontrollmaßnahmen von einem Sachverständigen nach § 18
@@ -624,13 +556,13 @@ mitzuteilen. Sie hat diese Aufzeichnungen und die Ergebnisse ihrer
 ### § 16 Ergänzende Anordnungen zur Altlastensanierung
 
 (1) Neben den im Zweiten Teil dieses Gesetzes vorgesehenen Anordnungen
-kann die zuständige Behörde zur Erfüllung der Pflichten, die sich aus
-dem Dritten Teil dieses Gesetzes ergeben, die erforderlichen
+kann die zuständige Behörde zur Erfüllung der Pflichten, die sich
+aus dem Dritten Teil dieses Gesetzes ergeben, die erforderlichen
 Anordnungen treffen.
 
-(2) Soweit ein für verbindlich erklärter Sanierungsplan im Sinne des §
-13 Abs. 6 nicht vorliegt, schließen Anordnungen zur Durchsetzung der
-Pflichten nach § 4 andere die Sanierung betreffende behördliche
+(2) Soweit ein für verbindlich erklärter Sanierungsplan im Sinne des
+§ 13 Abs. 6 nicht vorliegt, schließen Anordnungen zur Durchsetzung
+der Pflichten nach § 4 andere die Sanierung betreffende behördliche
 Entscheidungen mit Ausnahme von Zulassungsentscheidungen für Vorhaben,
 die § 1 Absatz 1 Nummer 1 in Verbindung mit der Anlage 1 des Gesetzes
 über die Umweltverträglichkeitsprüfung oder kraft Landesrechts einer
@@ -642,7 +574,6 @@ Anordnung die miteingeschlossenen Entscheidungen aufgeführt werden.
 ## Vierter Teil - Landwirtschaftliche Bodennutzung
 
 
-
 ### § 17 Gute fachliche Praxis in der Landwirtschaft
 
 (1) Bei der landwirtschaftlichen Bodennutzung wird die Vorsorgepflicht
@@ -652,43 +583,34 @@ Beratungstätigkeit die Grundsätze der guten fachlichen Praxis nach
 Absatz 2 vermitteln.
 
 (2) Grundsätze der guten fachlichen Praxis der landwirtschaftlichen
-Bodennutzung sind die nachhaltige Sicherung der Bodenfruchtbarkeit und
-Leistungsfähigkeit des Bodens als natürlicher Ressource. Zu den
+Bodennutzung sind die nachhaltige Sicherung der Bodenfruchtbarkeit
+und Leistungsfähigkeit des Bodens als natürlicher Ressource. Zu den
 Grundsätzen der guten fachlichen Praxis gehört insbesondere, daß
 
 1.  die Bodenbearbeitung unter Berücksichtigung der Witterung
     grundsätzlich standortangepaßt zu erfolgen hat,
 
-
 2.  die Bodenstruktur erhalten oder verbessert wird,
 
-
-3.  Bodenverdichtungen, insbesondere durch Berücksichtigung der Bodenart,
-    Bodenfeuchtigkeit und des von den zur landwirtschaftlichen
+3.  Bodenverdichtungen, insbesondere durch Berücksichtigung der
+    Bodenart, Bodenfeuchtigkeit und des von den zur landwirtschaftlichen
     Bodennutzung eingesetzten Geräten verursachten Bodendrucks, so weit
     wie möglich vermieden werden,
-
 
 4.  Bodenabträge durch eine standortangepaßte Nutzung, insbesondere durch
     Berücksichtigung der Hangneigung, der Wasser- und Windverhältnisse
     sowie der Bodenbedeckung, möglichst vermieden werden,
 
-
 5.  die naturbetonten Strukturelemente der Feldflur, insbesondere Hecken,
     Feldgehölze, Feldraine und Ackerterrassen, die zum Schutz des Bodens
     notwendig sind, erhalten werden,
 
-
 6.  die biologische Aktivität des Bodens durch entsprechende
     Fruchtfolgegestaltung erhalten oder gefördert wird und
-
 
 7.  der standorttypische Humusgehalt des Bodens, insbesondere durch eine
     ausreichende Zufuhr an organischer Substanz oder durch Reduzierung der
     Bearbeitungsintensität erhalten wird.
-
-
-
 
 (3) Die Pflichten nach § 4 werden durch die Einhaltung der in § 3 Abs.
 1 genannten Vorschriften erfüllt; enthalten diese keine Anforderungen
@@ -698,7 +620,6 @@ Grundsätzen der guten fachlichen Praxis nach Absatz 2, so gelten die
 
 
 ## Fünfter Teil - Schlußvorschriften
-
 
 
 ### § 18 Sachverständige und Untersuchungsstellen
@@ -753,10 +674,7 @@ Verdachtsflächen
 
 1.  von der zuständigen Behörde zu erfassen und
 
-
 2.  von den Verpflichteten der zuständigen Behörde mitzuteilen sind sowie
-
-
 
 daß bei schädlichen Bodenveränderungen, von denen auf Grund von Art,
 Ausbreitung oder Menge der Schadstoffe in besonderem Maße Gefahren,
@@ -765,10 +683,7 @@ oder die Allgemeinheit ausgehen,
 
 1.  Sanierungsuntersuchungen sowie die Erstellung von Sanierungsplänen und
 
-
 2.  die Durchführung von Eigenkontrollmaßnahmen
-
-
 
 verlangt werden können.
 
@@ -777,17 +692,17 @@ schädliche Bodenveränderungen auftreten oder zu erwarten sind, und die
 dort zu ergreifenden Maßnahmen bestimmen sowie weitere Regelungen über
 gebietsbezogene Maßnahmen des Bodenschutzes treffen.
 
-(4) Die Länder können bestimmen, daß für das Gebiet ihres Landes oder
-für bestimmte Teile des Gebiets Bodeninformationssysteme eingerichtet
-und geführt werden. Hierbei können insbesondere Daten von
-Dauerbeobachtungsflächen und Bodenzustandsuntersuchungen über die
-physikalische, chemische und biologische Beschaffenheit des Bodens und
-über die Bodennutzung erfaßt werden. Die Länder können regeln, daß
-Grundstückseigentümer und Inhaber der tatsächlichen Gewalt über ein
-Grundstück zur Duldung von Bodenuntersuchungen verpflichtet werden,
-die für Bodeninformationssysteme erforderlich sind. Hierbei ist auf
-die berechtigten Belange dieser Personen Rücksicht zu nehmen und
-Ersatz für Schäden vorzusehen, die bei Untersuchungen verursacht
+(4) Die Länder können bestimmen, daß für das Gebiet ihres Landes
+oder für bestimmte Teile des Gebiets Bodeninformationssysteme
+eingerichtet und geführt werden. Hierbei können insbesondere Daten
+von Dauerbeobachtungsflächen und Bodenzustandsuntersuchungen über die
+physikalische, chemische und biologische Beschaffenheit des Bodens
+und über die Bodennutzung erfaßt werden. Die Länder können regeln,
+daß Grundstückseigentümer und Inhaber der tatsächlichen Gewalt über
+ein Grundstück zur Duldung von Bodenuntersuchungen verpflichtet
+werden, die für Bodeninformationssysteme erforderlich sind. Hierbei
+ist auf die berechtigten Belange dieser Personen Rücksicht zu nehmen
+und Ersatz für Schäden vorzusehen, die bei Untersuchungen verursacht
 werden.
 
 
@@ -816,8 +731,8 @@ zulassen, soweit dies zwingende Gründe der Verteidigung oder die
 Erfüllung zwischenstaatlicher Verpflichtungen erfordern. Dabei ist der
 Schutz vor schädlichen Bodenveränderungen zu berücksichtigen.
 
-(2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates zu bestimmen, daß der Vollzug dieses
+(2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung
+mit Zustimmung des Bundesrates zu bestimmen, daß der Vollzug dieses
 Gesetzes und der auf dieses Gesetz gestützten Rechtsverordnungen im
 Geschäftsbereich des Bundesministeriums der Verteidigung und für die
 auf Grund völkerrechtlicher Verträge in der Bundesrepublik Deutschland
@@ -827,11 +742,11 @@ den von ihm bestimmten Stellen obliegt.
 
 ### § 24 Kosten
 
-(1) Die Kosten der nach § 9 Abs. 2, § 10 Abs. 1, §§ 12, 13, 14 Satz 1
-Nr. 1, § 15 Abs. 2 und § 16 Abs. 1 angeordneten Maßnahmen tragen die
-zur Durchführung Verpflichteten. Bestätigen im Fall des § 9 Abs. 2
-Satz 1 die Untersuchungen den Verdacht nicht oder liegen die
-Voraussetzungen des § 10 Abs. 2 vor, sind den zur Untersuchung
+(1) Die Kosten der nach § 9 Abs. 2, § 10 Abs. 1, §§ 12, 13, 14 Satz
+1 Nr. 1, § 15 Abs. 2 und § 16 Abs. 1 angeordneten Maßnahmen tragen
+die zur Durchführung Verpflichteten. Bestätigen im Fall des § 9
+Abs. 2 Satz 1 die Untersuchungen den Verdacht nicht oder liegen
+die Voraussetzungen des § 10 Abs. 2 vor, sind den zur Untersuchung
 Herangezogenen die Kosten zu erstatten, wenn sie die den Verdacht
 begründenden Umstände nicht zu vertreten haben. In den Fällen des § 14
 Satz 1 Nr. 2 und 3 trägt derjenige die Kosten, von dem die Erstellung
@@ -839,10 +754,10 @@ eines Sanierungsplans hätte verlangt werden können.
 
 (2) Mehrere Verpflichtete haben unabhängig von ihrer Heranziehung
 untereinander einen Ausgleichsanspruch. Soweit nichts anderes
-vereinbart wird, hängt die Verpflichtung zum Ausgleich sowie der
-Umfang des zu leistenden Ausgleichs davon ab, inwieweit die Gefahr
-oder der Schaden vorwiegend von dem einen oder dem anderen Teil
-verursacht worden ist; § 426 Abs. 1 Satz 2 des Bürgerlichen
+vereinbart wird, hängt die Verpflichtung zum Ausgleich sowie
+der Umfang des zu leistenden Ausgleichs davon ab, inwieweit die
+Gefahr oder der Schaden vorwiegend von dem einen oder dem anderen
+Teil verursacht worden ist; § 426 Abs. 1 Satz 2 des Bürgerlichen
 Gesetzbuches findet entsprechende Anwendung. Der Ausgleichsanspruch
 verjährt in drei Jahren; die §§ 438, 548 und 606 des Bürgerlichen
 Gesetzbuchs sind nicht anzuwenden. Die Verjährung beginnt nach der
@@ -862,26 +777,26 @@ Erfüllung der Pflichten nach § 4 der Verkehrswert eines Grundstücks
 nicht nur unwesentlich erhöht wird und der Eigentümer die Kosten
 hierfür nicht oder nicht vollständig getragen hat, hat er einen von
 der zuständigen Behörde festzusetzenden Wertausgleich in Höhe der
-maßnahmenbedingten Wertsteigerung an den öffentlichen Kostenträger zu
-leisten. Die Höhe des Ausgleichsbetrages wird durch die Höhe der
-eingesetzten öffentlichen Mittel begrenzt. Die Pflicht zum
+maßnahmenbedingten Wertsteigerung an den öffentlichen Kostenträger
+zu leisten. Die Höhe des Ausgleichsbetrages wird durch die Höhe
+der eingesetzten öffentlichen Mittel begrenzt. Die Pflicht zum
 Wertausgleich entsteht nicht, soweit hinsichtlich der auf einem
 Grundstück vorhandenen schädlichen Bodenveränderungen oder Altlasten
 eine Freistellung von der Verantwortung oder der Kostentragungspflicht
-nach Artikel 1 § 4 Abs. 3 Satz 1 des Umweltrahmengesetzes vom 29. Juni
-1990 (GBl. I Nr. 42 S. 649), zuletzt geändert durch Artikel 12 des
-Gesetzes vom 22. März 1991 (BGBl. I S. 766), in der jeweils geltenden
-Fassung erfolgt ist. Soweit Maßnahmen im Sinne des Satzes 1 in
-förmlich festgelegten Sanierungsgebieten oder Entwicklungsbereichen
-als Ordnungsmaßnahmen von der Gemeinde durchgeführt werden, wird die
-dadurch bedingte Erhöhung des Verkehrswertes im Rahmen des
+nach Artikel 1 § 4 Abs. 3 Satz 1 des Umweltrahmengesetzes vom 29.
+Juni 1990 (GBl. I Nr. 42 S. 649), zuletzt geändert durch Artikel
+12 des Gesetzes vom 22. März 1991 (BGBl. I S. 766), in der jeweils
+geltenden Fassung erfolgt ist. Soweit Maßnahmen im Sinne des Satzes 1
+in förmlich festgelegten Sanierungsgebieten oder Entwicklungsbereichen
+als Ordnungsmaßnahmen von der Gemeinde durchgeführt werden, wird
+die dadurch bedingte Erhöhung des Verkehrswertes im Rahmen des
 Ausgleichsbetrags nach § 154 des Baugesetzbuchs abgegolten.
 
 (2) Die durch Sanierungsmaßnahmen bedingte Erhöhung des Verkehrswerts
-eines Grundstücks besteht aus dem Unterschied zwischen dem Wert, der
-sich für das Grundstück ergeben würde, wenn die Maßnahmen nicht
-durchgeführt worden wären (Anfangswert), und dem Verkehrswert, der
-sich für das Grundstück nach Durchführung der Erkundungs- und
+eines Grundstücks besteht aus dem Unterschied zwischen dem Wert,
+der sich für das Grundstück ergeben würde, wenn die Maßnahmen nicht
+durchgeführt worden wären (Anfangswert), und dem Verkehrswert,
+der sich für das Grundstück nach Durchführung der Erkundungs- und
 Sanierungsmaßnahmen ergibt (Endwert).
 
 (3) Der Ausgleichsbetrag wird fällig, wenn die Sicherung oder
@@ -892,8 +807,8 @@ Sicherung oder Sanierung festgesetzt worden ist.
 
 (4) Die zuständige Behörde hat von dem Wertausgleich nach Absatz 1 die
 Aufwendungen abzuziehen, die der Eigentümer für eigene Maßnahmen der
-Sicherung oder Sanierung oder die er für den Erwerb des Grundstücks im
-berechtigten Vertrauen darauf verwendet hat, daß keine schädlichen
+Sicherung oder Sanierung oder die er für den Erwerb des Grundstücks
+im berechtigten Vertrauen darauf verwendet hat, daß keine schädlichen
 Bodenveränderungen oder Altlasten vorhanden sind. Kann der Eigentümer
 von Dritten Ersatz erlangen, so ist dies bei der Entscheidung nach
 Satz 1 zu berücksichtigen.
@@ -917,25 +832,19 @@ Last hinzuweisen ist, zu regeln.
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
-1.  einer Rechtsverordnung nach § 5 Satz 1, §§ 6, 8 Abs. 1 oder § 22 Abs.
-    1 oder einer vollziehbaren Anordnung auf Grund einer solchen
+1.  einer Rechtsverordnung nach § 5 Satz 1, §§ 6, 8 Abs. 1 oder § 22
+    Abs. 1 oder einer vollziehbaren Anordnung auf Grund einer solchen
     Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen
     bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
-
 
 2.  einer vollziehbaren Anordnung nach § 10 Abs. 1 Satz 1 zuwiderhandelt,
     soweit sie sich auf eine Pflicht nach § 4 Abs. 3, 5 oder 6 bezieht,
 
-
 3.  einer vollziehbaren Anordnung nach § 13 Abs. 1 oder § 15 Abs. 2 Satz
     1, 3 oder 4 zuwiderhandelt oder
 
-
 4.  entgegen § 15 Abs. 3 Satz 1 eine Mitteilung nicht, nicht richtig,
     nicht vollständig oder nicht rechtzeitig macht.
-
-
-
 
 (2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nr. 2 mit
 einer Geldbuße bis zu fünfzigtausend Euro, in den übrigen Fällen mit

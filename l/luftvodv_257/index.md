@@ -1,7 +1,5 @@
 ---
-Title: Zweihundertsiebenundfünfzigste Durchführungsverordnung zur Luftverkehrs-Ordnung
-  (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum
-  und vom Verkehrslandeplatz Schönhagen)
+Title: Zweihundertsiebenundfünfzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrslandeplatz Schönhagen)
 jurabk: LuftVODV 257
 layout: default
 origslug: luftvodv_257

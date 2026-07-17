@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert
-  von 25 Euro (Gedenkmünze „Weihnachten – Geburt Christi“)
+Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 25 Euro (Gedenkmünze „Weihnachten – Geburt Christi“)
 jurabk: Münz25EuroBek 2021-09-15
 layout: default
 origslug: m_nz25eurobek_2021-09-15
@@ -29,10 +28,10 @@ Die Auflage der Münze beträgt ca. 1,2 Millionen Stück, davon ca. 0,2
 Millionen Stück in Spiegelglanzqualität. Die Prägung erfolgt durch die
 Hamburgische Münze (Prägezeichen J).
 
-Die Münze wird ab dem 18. November 2021 in den Verkehr gebracht. Sie
-besteht aus Feinsilber (Ag 999), hat einen Durchmesser von 30
-Millimetern und eine Masse von 22 Gramm. Die Münze wird, erstmals in
-der Geschichte der Bundesrepublik Deutschland, als Tellerprägung
+Die Münze wird ab dem 18. November 2021 in den Verkehr gebracht.
+Sie besteht aus Feinsilber (Ag 999), hat einen Durchmesser von 30
+Millimetern und eine Masse von 22 Gramm. Die Münze wird, erstmals
+in der Geschichte der Bundesrepublik Deutschland, als Tellerprägung
 (hier: konkave Wölbung der Bildseite) hergestellt.
 
 Im Zentrum der Bildseite steht das Motiv der Heiligen Familie. Die
@@ -58,9 +57,4 @@ Der Bundesminister der Finanzen
 ## (XXXX)
 
 (Fundstelle: BGBl. I 2021, 4630)
-
-
-*    *        ![bgbl1_2021_j4630-1_0010.jpg](bgbl1_2021_j4630-1_0010.jpg)
-    *        ![bgbl1_2021_j4630-1_0020.jpg](bgbl1_2021_j4630-1_0020.jpg)
-
 

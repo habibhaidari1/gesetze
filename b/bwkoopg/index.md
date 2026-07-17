@@ -19,7 +19,6 @@ Geändert durch
 :   Art. 5 G v. 9.6.2021 I 1614
 
 
-
 ## § 1 Geltungsbereich
 
 Dieses Gesetz gilt für Beamtinnen, Beamte, Soldatinnen, Soldaten,
@@ -50,8 +49,8 @@ die §§ 60 bis 63 des Soldatinnen- und Soldatenbeteiligungsgesetzes
 gelten, richten sich nach den §§ 4 und 5 des Soldatinnen- und
 Soldatenbeteiligungsgesetzes.
 
-(2) Gehören Soldatinnen und Soldaten einem Wahlbereich für die Wahl
-einer Vertrauensperson im Sinne des § 4 Absatz 1 Satz 2 des
+(2) Gehören Soldatinnen und Soldaten einem Wahlbereich für die
+Wahl einer Vertrauensperson im Sinne des § 4 Absatz 1 Satz 2 des
 Soldatinnen- und Soldatenbeteiligungsgesetzes an, bleiben sie während
 ihrer Zugehörigkeit zu einem Kooperationsbetrieb bei der Wahl einer
 Vertrauensperson für ihren Wahlbereich wahlberechtigt, sind jedoch als
@@ -65,16 +64,16 @@ Rechtsstellung von schwerbehinderten Menschen bei der Anwendung des
 Teils 2 des Neunten Buches Sozialgesetzbuch im Geschäftsbereich des
 Bundesministeriums der Verteidigung unberührt.
 
-(2) Schwerbehinderte Menschen gelten für die Anwendung der
-Vorschriften über die Schwerbehindertenvertretung im
+(2) Schwerbehinderte Menschen gelten für die Anwendung
+der Vorschriften über die Schwerbehindertenvertretung im
 Kooperationsbetrieb als Beschäftigte.
 
 
 ## § 6 Geltung arbeitsrechtlicher Vorschriften
 
-(1) Die in § 1 genannten Personen gelten für die Anwendung der
-Vorschriften über die Vertretung der Arbeitnehmerinnen und
-Arbeitnehmer im Aufsichtsrat, für die Anwendung des
+(1) Die in § 1 genannten Personen gelten für die Anwendung
+der Vorschriften über die Vertretung der Arbeitnehmerinnen
+und Arbeitnehmer im Aufsichtsrat, für die Anwendung des
 Betriebsverfassungsgesetzes und des Sprecherausschussgesetzes als
 Arbeitnehmerinnen und Arbeitnehmer des Kooperationsbetriebs und sind
 als solche aktiv und passiv wahlberechtigt.
@@ -83,10 +82,10 @@ als solche aktiv und passiv wahlberechtigt.
 Betriebsverfassungsgesetzes gelten auch die funktional vergleichbaren
 Beamtinnen, Beamten, Soldatinnen und Soldaten.
 
-(3) Soweit der Kooperationsbetrieb Verpflichtungen, die ihm nach den
-Vorschriften über die Vertretung der Arbeitnehmerinnen und
-Arbeitnehmer im Aufsichtsrat, nach dem Betriebsverfassungsgesetz und
-dem Sprecherausschussgesetz sowie den Vorschriften über die
+(3) Soweit der Kooperationsbetrieb Verpflichtungen, die ihm nach
+den Vorschriften über die Vertretung der Arbeitnehmerinnen und
+Arbeitnehmer im Aufsichtsrat, nach dem Betriebsverfassungsgesetz
+und dem Sprecherausschussgesetz sowie den Vorschriften über die
 Schwerbehindertenvertretung obliegen, deshalb nicht erfüllen kann,
 weil er nicht Dienstherr und Arbeitgeber der in § 1 genannten Personen
 ist, treffen diese Verpflichtungen deren jeweilige Dienststelle.
@@ -96,16 +95,16 @@ ist, treffen diese Verpflichtungen deren jeweilige Dienststelle.
 
 (1) Der Personalrat der zuweisenden Dienststelle nimmt in dem
 Kooperationsbetrieb die Aufgaben eines Betriebsrats nach dem
-Betriebsverfassungsgesetz wahr, soweit die Voraussetzungen des § 1
-Abs. 1 Satz 1 des Betriebsverfassungsgesetzes vorliegen und in dem
-Kooperationsbetrieb nicht bereits ein Betriebsrat besteht
-(Übergangsmandat). Der Personalrat hat im Rahmen seines
+Betriebsverfassungsgesetz wahr, soweit die Voraussetzungen des
+§ 1 Abs. 1 Satz 1 des Betriebsverfassungsgesetzes vorliegen
+und in dem Kooperationsbetrieb nicht bereits ein Betriebsrat
+besteht (Übergangsmandat). Der Personalrat hat im Rahmen seines
 Übergangsmandats insbesondere die Aufgabe, unverzüglich den
 Wahlvorstand zur Einleitung der Betriebsratswahl zu bestellen.
 
 (2) Werden einem Kooperationsbetrieb Angehörige mehrerer Dienststellen
-zugewiesen, nimmt derjenige Personalrat das Übergangsmandat wahr, aus
-dessen Zuständigkeitsbereich die meisten der zugewiesenen
+zugewiesen, nimmt derjenige Personalrat das Übergangsmandat wahr,
+aus dessen Zuständigkeitsbereich die meisten der zugewiesenen
 Wahlberechtigten stammen.
 
 (3) Das Übergangsmandat endet, sobald im Kooperationsbetrieb ein
@@ -124,8 +123,8 @@ Schwerbehindertenvertretungen.
 ## § 8 Weitergeltung von Dienstvereinbarungen
 
 Die in den Dienststellen im Zeitpunkt der Zuweisung geltenden
-Dienstvereinbarungen gelten im Kooperationsbetrieb für längstens zwölf
-Monate als Betriebsvereinbarungen weiter, soweit sie nicht durch
+Dienstvereinbarungen gelten im Kooperationsbetrieb für längstens
+zwölf Monate als Betriebsvereinbarungen weiter, soweit sie nicht durch
 andere Regelungen ersetzt werden.
 
 

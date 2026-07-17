@@ -1,6 +1,5 @@
 ---
-Title: Verordnung zur Verfolgung und Ahndung von Ordnungswidrigkeiten nach dem Bundesnichtraucherschutzgesetz
-  im Geschäftsbereich des Bundesministeriums für Verkehr und digitale Infrastruktur
+Title: Verordnung zur Verfolgung und Ahndung von Ordnungswidrigkeiten nach dem Bundesnichtraucherschutzgesetz im Geschäftsbereich des Bundesministeriums für Verkehr und digitale Infrastruktur
 jurabk: BMVBSBNichtrSchGZustV
 layout: default
 origslug: bmvbsbnichtrschgzustv
@@ -17,7 +16,7 @@ Fundstelle
 :   BGBl I: 2007, 2347
 
 Zuletzt geändert durch
-:   Art. 7 V v. 2.6.2016 I 1257
+:   Art. 8 G v. 2.3.2023 I Nr. 56
 
 
 ## Eingangsformel
@@ -33,47 +32,35 @@ verordnet das Bundesministerium für Verkehr, Bau und Stadtentwicklung:
 
 ## § 1
 
-(1) Die Zuständigkeit für die Verfolgung und Ahndung von
-Ordnungswidrigkeiten nach § 5 Abs. 1 des
-Bundesnichtraucherschutzgesetzes, die in Einrichtungen nach § 2 Nr. 1
-dieses Gesetzes begangen werden, wird auf die nachfolgend genannten
+(1) Die Zuständigkeit für die Verfolgung und
+Ahndung von Ordnungswidrigkeiten nach § 5 Abs. 1 des
+Bundesnichtraucherschutzgesetzes, die in Einrichtungen nach § 2 Nr.
+1 dieses Gesetzes begangen werden, wird auf die nachfolgend genannten
 Behörden jeweils für die Räumlichkeiten, in denen sie das Hausrecht
 ausüben, übertragen:
 
-–   Kraftfahrt-Bundesamt,
+– Kraftfahrt-Bundesamt,
 
+– Luftfahrt-Bundesamt,
 
-–   Luftfahrt-Bundesamt,
+– Bundesamt für Bauwesen und Raumordnung,
 
+– Eisenbahn-Bundesamt,
 
-–   Bundesamt für Bauwesen und Raumordnung,
+– Bundeseisenbahnvermögen,
 
+– Deutscher Wetterdienst,
 
-–   Eisenbahn-Bundesamt,
+– Bundesanstalt für Straßenwesen,
 
+– Bundesamt für Logistik und Mobilität,
 
-–   Bundeseisenbahnvermögen,
+– Bundesamt für Seeschifffahrt und Hydrographie,
 
+– Generaldirektion Wasserstraßen und Schifffahrt.
 
-–   Deutscher Wetterdienst,
-
-
-–   Bundesanstalt für Straßenwesen,
-
-
-–   Bundesamt für Güterverkehr,
-
-
-–   Bundesamt für Seeschifffahrt und Hydrographie,
-
-
-–   Generaldirektion Wasserstraßen und Schifffahrt.
-
-
-
-
-(2) Die Zuständigkeit für die Verfolgung und Ahndung von
-Ordnungswidrigkeiten nach § 5 Abs. 1 des
+(2) Die Zuständigkeit für die Verfolgung und
+Ahndung von Ordnungswidrigkeiten nach § 5 Abs. 1 des
 Bundesnichtraucherschutzgesetzes wird auf
 
 1.  die Generaldirektion Wasserstraßen und Schifffahrt für die
@@ -82,43 +69,33 @@ Bundesnichtraucherschutzgesetzes wird auf
     der Außenbezirke, Bauhöfe, Revierzentralen und sonstigen
     Einrichtungen, sowie der Wasserstraßen-Neubauämter begangen werden,
 
-
 2.  die Generaldirektion Wasserstraßen und Schifffahrt für die
     Ordnungswidrigkeiten übertragen, die in den Räumlichkeiten der
     Bundesanstalt für Wasserbau und der Bundesanstalt für Gewässerkunde
     begangen werden,
 
-
 3.  das Luftfahrt-Bundesamt für die Ordnungswidrigkeiten übertragen, die
     in den Räumlichkeiten der Bundesstelle für Flugunfalluntersuchung
     begangen werden, und
-
 
 4.  das Bundesamt für Seeschifffahrt und Hydrographie für die
     Ordnungswidrigkeiten übertragen, die in den Räumlichkeiten der
     Bundesstelle für Seeunfalluntersuchung begangen werden.
 
 
-
-
-
 ## § 2
 
-Die Zuständigkeit für die Verfolgung und Ahndung von
-Ordnungswidrigkeiten nach § 5 Abs. 1 des
+Die Zuständigkeit für die Verfolgung und Ahndung
+von Ordnungswidrigkeiten nach § 5 Abs. 1 des
 Bundesnichtraucherschutzgesetzes, die in
 
 1.  Verkehrsmitteln und Personenbahnhöfen nach § 2 Nr. 2 Buchstabe a und
     Nr. 3 des Bundesnichtraucherschutzgesetzes begangen werden, wird auf
     das Eisenbahn-Bundesamt übertragen;
 
-
 2.  Verkehrsmitteln nach § 2 Nr. 2 Buchstabe c des
     Bundesnichtraucherschutzgesetzes begangen werden, wird auf das
     Luftfahrt-Bundesamt übertragen.
-
-
-
 
 
 ## § 3

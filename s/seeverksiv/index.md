@@ -29,12 +29,12 @@ verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
 ## § 1
 
-(1) Zweck dieser Verordnung ist es, sicherzustellen, daß in einem
-Verteidigungsfall sowie in einer Zeit, in der die
+(1) Zweck dieser Verordnung ist es, sicherzustellen, daß
+in einem Verteidigungsfall sowie in einer Zeit, in der die
 Verteidigungsbereitschaft der Bundesrepublik Deutschland im Hinblick
 auf einen möglichen Verteidigungsfall erhöht werden muß, die
-erforderlichen lebenswichtigen Verkehrsleistungen, insbesondere zur
-Versorgung der Zivilbevölkerung und der Streitkräfte, von der
+erforderlichen lebenswichtigen Verkehrsleistungen, insbesondere
+zur Versorgung der Zivilbevölkerung und der Streitkräfte, von der
 Seeschiffahrt erbracht werden können.
 
 (2) Seeschiffe im Sinne dieser Verordnung sind die Seeschiffe, die
@@ -51,25 +51,20 @@ und beförderten Gütern im Verteidigungsfall drohen, begegnet werden
 kann. Dazu gehören insbesondere Maßnahmen und Einrichtungen, die
 geeignet sind,
 
-1.  den auf den Seeschiffen befindlichen Personen und Gütern ABC-Schutz zu
-    bieten,
-
+1.  den auf den Seeschiffen befindlichen Personen und Gütern ABC-Schutz
+    zu bieten,
 
 2.  Lecks behelfsmäßig abzudichten,
-
 
 3.  beim Fahren in Geleitzügen auch ohne Funkverkehr bei jedem Wetter
     Verbindung zu anderen Schiffen zu halten.
 
 
-
-
-
 ## § 3
 
-Die Seeverkehrsbehörden können die Reeder und Ausrüster von
-Seeschiffen verpflichten, ihre Seeschiffe zur Sicherung bei der
-Ausführung von Seereisen entmagnetisieren zu lassen
+Die Seeverkehrsbehörden können die Reeder und Ausrüster
+von Seeschiffen verpflichten, ihre Seeschiffe zur Sicherung
+bei der Ausführung von Seereisen entmagnetisieren zu lassen
 (Fremdentmagnetisierung).
 
 
@@ -77,12 +72,12 @@ Ausführung von Seereisen entmagnetisieren zu lassen
 
 Die Führer von Seeschiffen sind verpflichtet, sich bei der Führung
 ihres Seeschiffs auf See und in den Häfen so zu verhalten, daß ihr
-Seeschiff, die darauf befindlichen Personen und die beförderten Güter
-unter Berücksichtigung der besonderen Gefahren eines
+Seeschiff, die darauf befindlichen Personen und die beförderten
+Güter unter Berücksichtigung der besonderen Gefahren eines
 Verteidigungsfalls nicht mehr als nach den Umständen unvermeidlich
-gefährdet werden. Zur Erfüllung dieser Verpflichtung haben sie den der
-Verhinderung oder Verringerung von Gefahren dienenden Forderungen zu
-entsprechend, die von den für die Sicherheit der Seeschiffahrt
+gefährdet werden. Zur Erfüllung dieser Verpflichtung haben sie den
+der Verhinderung oder Verringerung von Gefahren dienenden Forderungen
+zu entsprechend, die von den für die Sicherheit der Seeschiffahrt
 zuständigen Stellen an sie gestellt werden. Dies gilt auch für die
 Forderung, bestimmte Seegebiete zu meiden oder bestimmte Seewege zu
 benutzen sowie Fernmelde- und Ortungsmittel in bestimmter Weise zu
@@ -91,8 +86,8 @@ benutzen.
 
 ## § 5
 
-(1) Die Führer von Seeschiffen sind verpflichtet, unverzüglich nach
-dem Anlaufen eines Hafens oder Liegeplatzes außerhalb des
+(1) Die Führer von Seeschiffen sind verpflichtet, unverzüglich
+nach dem Anlaufen eines Hafens oder Liegeplatzes außerhalb des
 Geltungsbereichs des Verkehrssicherstellungsgesetzes folgende Angaben
 über ihr Seeschiff und seine Einsatzbereitschaft zu melden:
 
@@ -100,23 +95,18 @@ Geltungsbereichs des Verkehrssicherstellungsgesetzes folgende Angaben
     Berücksichtigung von Ladungsarbeiten sowie Zahl der Reisetage, die es
     nach dem Stand der Ausrüstung zurücklegen kann,
 
-
-2.  Art und Umfang der Ladung, den seit dem letzten Auslaufen aus einem
-    Hafen oder Liegeplatz zurückgelegten Reiseweg mit besonderen
+2.  Art und Umfang der Ladung, den seit dem letzten Auslaufen aus
+    einem Hafen oder Liegeplatz zurückgelegten Reiseweg mit besonderen
     Vorkommnissen, den beabsichtigten Reiseweg, die voraussichtliche
     Reisezeit sowie den Bestimmungshafen,
-
 
 3.  Grad der Benutzbarkeit des Schiffsgeschirrs und der sonstigen Lade-
     und Löschvorrichtungen,
 
-
 4.  Anschrift des Maklers oder Agenten am Ort.
 
-
-
-Die Verpflichtung entsteht nicht, wenn der Hafen oder Liegeplatz im
-Hoheitsgebiet eines Staates liegt, in dem die Bundesrepublik
+Die Verpflichtung entsteht nicht, wenn der Hafen oder Liegeplatz
+im Hoheitsgebiet eines Staates liegt, in dem die Bundesrepublik
 Deutschland keine diplomatische oder konsularische Vertretung
 unterhält, oder wenn die Erfüllung der Verpflichtung wegen besonderer
 Umstände nicht tunlich ist.
@@ -143,9 +133,9 @@ und eine bestimmte Ladezeit einzuhalten.
 (1) Die Hafenbehörden können die Reeder, Ausrüster oder Führer von
 Seeschiffen verpflichten, beim Güterumschlag, bei der Abfertigung und
 bei der Ausrüstung ihrer Seeschiffe in den Seehäfen im Geltungsbereich
-des Verkehrssicherstellungsgesetzes einen bestimmten Platz zu benutzen
-und eine bestimmte Liegezeit nicht zu überschreiten. Beim
-Güterumschlag, bei der Abfertigung und bei der Ausrüstung der
+des Verkehrssicherstellungsgesetzes einen bestimmten Platz zu
+benutzen und eine bestimmte Liegezeit nicht zu überschreiten.
+Beim Güterumschlag, bei der Abfertigung und bei der Ausrüstung der
 Seeschiffe außerhalb von Seehäfen können, soweit dabei landgebundene
 Umschlagsanlagen benutzt werden, die unteren Verwaltungsbehörden diese
 Verpflichtungen vornehmen, im übrigen die Seeverkehrsbehörden.
@@ -167,16 +157,16 @@ nicht, wenn die Seeschiffe aufgelegt sind.
 
 ## § 9
 
-Maßnahmen zum Umbau oder Aufliegen von Seeschiffen, durch die diese
-Seeschiffe vorübergehend nicht benutzbar werden, bedürfen der
+Maßnahmen zum Umbau oder Aufliegen von Seeschiffen, durch die
+diese Seeschiffe vorübergehend nicht benutzbar werden, bedürfen der
 Erlaubnis der Seeverkehrsbehörde. Soweit ein Aufliegen in Seehäfen
-vorgesehen ist, ist im Erlaubnisverfahren die Hafenbehörde zu hören.
-Einer Erlaubnis bedarf auch die Veräußerung oder sonstige
+vorgesehen ist, ist im Erlaubnisverfahren die Hafenbehörde zu
+hören. Einer Erlaubnis bedarf auch die Veräußerung oder sonstige
 rechtsgeschäftliche Überlassung von Seeschiffen an Ausländer im Sinne
-des § 2 Absatz 5 des Außenwirtschaftsgesetzes. Die Erlaubnis ist zu
-versagen, wenn durch den Umbau, das Aufliegen, die Veräußerung oder
-sonstige rechtsgeschäftliche Überlassung die Sicherstellung der für
-Zwecke der Verteidigung erforderlichen lebenswichtigen
+des § 2 Absatz 5 des Außenwirtschaftsgesetzes. Die Erlaubnis ist
+zu versagen, wenn durch den Umbau, das Aufliegen, die Veräußerung
+oder sonstige rechtsgeschäftliche Überlassung die Sicherstellung
+der für Zwecke der Verteidigung erforderlichen lebenswichtigen
 Verkehrsleistungen gefährdet wird.
 
 
@@ -186,10 +176,10 @@ Anstelle der Reeder oder Ausrüster können die Führer von Seeschiffen
 nach den §§ 2, 3, 6 und 8 verpflichtet werden, wenn die Verpflichtung
 der Reeder oder Ausrüster nicht oder nicht ohne eine ihren Zweck
 gefährdende Verzögerung möglich ist oder wenn den Reedern oder
-Ausrüstern die Erfüllung der Verpflichtung nicht oder nicht ohne eine
-ihren Zweck gefährdende Verzögerung möglich ist. Außer in den Fällen
-des § 8 können die Schiffsführer auch dann verpflichtet werden, wenn
-sich ihr Seeschiff außerhalb deutscher Häfen oder der
+Ausrüstern die Erfüllung der Verpflichtung nicht oder nicht ohne
+eine ihren Zweck gefährdende Verzögerung möglich ist. Außer in
+den Fällen des § 8 können die Schiffsführer auch dann verpflichtet
+werden, wenn sich ihr Seeschiff außerhalb deutscher Häfen oder der
 Bundeswasserstraßen befindet.
 
 
@@ -203,8 +193,8 @@ Wasserstraßen und Schifffahrt.
 
 Diese Verordnung gilt mit Ausnahme der §§ 2, 3 und 5 auch für
 Binnenschiffe, die im Binnenschiffsregister eines deutschen Gerichts
-eingetragen sind, wenn sie auf Wasserflächen seewärts der Grenze der
-Seefahrt zur Güterbeförderung verwendet werden und mehr als 15 t
+eingetragen sind, wenn sie auf Wasserflächen seewärts der Grenze
+der Seefahrt zur Güterbeförderung verwendet werden und mehr als 15 t
 Tragfähigkeit haben.
 
 
@@ -224,12 +214,11 @@ Verordnung Anwendung.
 (1) Wer vorsätzlich oder fahrlässig
 
 1.  als Führer eines Seeschiffes entgegen § 4 Satz 2 oder 3 den der
-    Verhinderung oder Verringerung von Gefahren dienenden Forderungen, die
-    von einer für die Sicherheit der Seeschiffahrt zuständigen Stelle
+    Verhinderung oder Verringerung von Gefahren dienenden Forderungen,
+    die von einer für die Sicherheit der Seeschiffahrt zuständigen Stelle
     gestellt worden sind, nicht entspricht, die bestimmten Seegebiete
     nicht meidet, die bestimmten Seewege nicht benutzt oder die Fernmelde-
     und Ortungsmittel nicht in der bestimmten Weise benutzt,
-
 
 2.  als Führer eines Seeschiffs
 
@@ -237,14 +226,9 @@ Verordnung Anwendung.
 
         oder
 
-
     b)  die nach § 5 Abs. 3 angeforderte
 
-
-
-
     Meldung nicht, nicht rechtzeitig oder nicht vollständig erstattet,
-
 
 3.  als Reeder, Ausrüster oder Führer eines Seeschiffs entgegen einer
     Verpflichtung
@@ -252,34 +236,24 @@ Verordnung Anwendung.
     a)  nach § 2 oder § 10 die Schiffsausrüstung zum Schutz des Schiffes sowie
         der darauf befindlichen Personen und beförderten Güter nicht ergänzt,
 
-
     b)  nach § 3 oder § 10 sein Schiff nicht entmagnetisieren läßt,
 
         oder
 
-
     c)  nach § 6 oder § 10 bei der Beladung seines Seeschiffs die bestimmte
         Reihenfolge oder die bestimmte Ladezeit nicht beachtet,
 
-
-
-
-
-4.  als Reeder, Ausrüster, Führer eines Seeschiffs oder sonst für die Be-
-    und Entladung Verantwortlicher entgegen einer Verpflichtung nach § 7
-    andere als die bestimmten Plätze benutzt oder die bestimmten
+4.  als Reeder, Ausrüster, Führer eines Seeschiffs oder sonst für die
+    Be- und Entladung Verantwortlicher entgegen einer Verpflichtung nach
+    § 7 andere als die bestimmten Plätze benutzt oder die bestimmten
     Liegezeiten nicht einhält,
-
 
 5.  als Reeder oder Führer eines Seeschiffs entgegen einer Verpflichtung
     nach § 8 oder § 10 sein Schiff nicht wie vorgeschrieben besetzt und
     bemannt hält,
 
-
 6.  als Reeder entgegen § 9 ohne Erlaubnis sein Schiff auflegt, umbaut, an
     Gebietsfremde veräußert oder sonst rechtsgeschäftlich überläßt
-
-
 
 begeht eine Zuwiderhandlung im Sinne des § 26 des
 Verkehrssicherstellungsgesetzes, die nach den Vorschriften des
@@ -292,24 +266,19 @@ Verkehrssicherstellungsgesetzes ist
 1.  in den Fällen des Absatzes 1 Nr. 6 die Seeverkehrsbehörde, die für die
     Erteilung der Erlaubnis zuständig wäre,
 
-
 2.  in den Fällen des Absatzes 1 Nr. 1 und 2 Buchstabe a die
     Generaldirektion Wasserstraßen und Schifffahrt,
 
-
 3.  in allen übrigen Fällen die Behörde, die die Verpflichtung erlassen
     hat.
-
-
-
 
 
 ## § 15
 
 (1) Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-(2) Sie darf gemäß § 2 Abs. 3 des Verkehrssicherstellungsgesetzes nur
-nach Maßgabe des Artikels 80a des Grundgesetzes und erst dann
+(2) Sie darf gemäß § 2 Abs. 3 des Verkehrssicherstellungsgesetzes
+nur nach Maßgabe des Artikels 80a des Grundgesetzes und erst dann
 angewandt werden, wenn dies das Bundesministerium für Verkehr und
 digitale Infrastruktur durch Rechtsverordnung bestimmt.
 

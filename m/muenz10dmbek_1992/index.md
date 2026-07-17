@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen
-  Mark (Gedenkmünze 125. Geburtstag von Käthe Kollwitz)
+Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen Mark (Gedenkmünze 125. Geburtstag von Käthe Kollwitz)
 jurabk: Münz10DMBek 1992
 layout: default
 origslug: m_nz10dmbek_1992
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 1992, 1028
-
 
 
 ## (XXXX)
@@ -41,82 +39,37 @@ schützenden glatten Randstab umgeben.
 Zeichenbrett aus einer Kohlezeichnung der Künstlerin von 1933. Die
 Umschrift lautet:
 
-*
-    *
-        *
-            *
-                *   "KÄTHE KOLLWITZ
+-   -   -   -   -   "KÄTHE KOLLWITZ
 
-                    \* 1867 . 1945 +".
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+                    * 1867 . 1945 +".
 
 (6) Die Wertseite trägt einen Adler, die Jahreszahl 1992, das
 Münzzeichen "G" der Staatlichen Münze Karlsruhe und die Umschrift:
 
-*
-    *
-        *
-            *   "BUNDESREPUBLIK DEUTSCHLAND
+-   -   -   -   "BUNDESREPUBLIK DEUTSCHLAND
 
-                *   10 DEUTSCHE MARK".
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+                -   10 DEUTSCHE MARK".
 
 (7) Die Jahreszahl "1992" und das Münzzeichen "G" sind Teil der
-Umschrift. Das Münzzeichen befindet sich zwischen der Zahl 10 und der
-Adlerabbildung.
+Umschrift. Das Münzzeichen befindet sich zwischen der Zahl 10 und
+der Adlerabbildung.
 
 (8) Der glatte Münzrand enthält in vertiefter Prägung die Inschrift:
 
-*
-    *
-        *   "ICH WILL WIRKEN IN DIESER ZEIT".
-
-
-
-
-
-
-
-
-
+-   -   -   "ICH WILL WIRKEN IN DIESER ZEIT".
 
 (9) Zwischen Ende und Anfang der Randschrift befinden sich drei
 fünfzackige Sterne.
 
 (10) Der Entwurf der Münze stammt von Reinhart Heinsdorff, Friedberg-
 Ottmaring.
+
 Der Bundesminister der Finanzen
 
 
 ## (XXXX) Abbildung der Münze
 
 (Fundstelle: BGBl. I 1992, 1028)
+
 ![bgbl1_1992_j1028_0010.jpg](bgbl1_1992_j1028_0010.jpg)
+

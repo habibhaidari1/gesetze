@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Berechnung des Kapitalwertes bei Abfindung von Leistungen
-  aus der gesetzlichen Unfallversicherung
+Title: Verordnung über die Berechnung des Kapitalwertes bei Abfindung von Leistungen aus der gesetzlichen Unfallversicherung
 jurabk: UVKapWertV
 layout: default
 origslug: uvkapwertv
@@ -33,10 +32,10 @@ Zustimmung des Bundesrates:
 Zeit nach § 62 Abs. 2 Satz 1 des Siebten Buches Sozialgesetzbuch wegen
 einer Minderung der Erwerbsfähigkeit durch Folgen des Arbeitsunfalls
 um weniger als 40 vom Hundert hat, innerhalb von 15 Jahren nach dem
-Unfall abgefunden, so richtet sich der Kapitalwert nach der Anzahl der
-zur Zeit des Unfalls vollendeten Lebensjahre des Verletzten und nach
-der seit dem Unfall vergangenen Zeit. Das Abfindungskapital ist die
-mit dem Kapitalwert aus der Tabelle der Anlage 1 vervielfältigte
+Unfall abgefunden, so richtet sich der Kapitalwert nach der Anzahl
+der zur Zeit des Unfalls vollendeten Lebensjahre des Verletzten und
+nach der seit dem Unfall vergangenen Zeit. Das Abfindungskapital ist
+die mit dem Kapitalwert aus der Tabelle der Anlage 1 vervielfältigte
 Jahresrente.
 
 (2) Wird der in Absatz 1 bezeichnete Verletzte nach Ablauf von 15
@@ -77,94 +76,25 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 Fundstelle des Originaltextes: BGBl. I 1965, 896,
 bzgl. der einzelnen Änderungen vgl. Fußnote
 
-*    *   Alter des Verletzten zur Zeit der Abfindung
-
-    *   Kapitalwert
-
-
-*    *   unter 25
-
-    *   20,5
-
-
-*    *   25 bis unter 30
-
-    *   19,7
-
-
-*    *   30 bis unter 35
-
-    *   18,8
-
-
-*    *   35 bis unter 40
-
-    *   17,7
-
-
-*    *   40 bis unter 45
-
-    *   16,5
-
-
-*    *   45 bis unter 50
-
-    *   15,1
-
-
-*    *   50 bis unter 55
-
-    *   13,5
-
-
-*    *   55 bis unter 60
-
-    *   11,8
-
-
-*    *   60 bis unter 65
-
-    *   10,0
-
-
-*    *   65 bis unter 70
-
-    *   8,2
-
-
-*    *   70 bis unter 75
-
-    *   6,5
-
-
-*    *   75 bis unter 80
-
-    *   5,0
-
-
-*    *   80 bis unter 85
-
-    *   3,8
-
-
-*    *   85 bis unter 90
-
-    *   2,9
-
-
-*    *   90 bis unter 95
-
-    *   2,2
-
-
-*    *   95 und mehr
-
-    *   1,6
-
-
-
+| Alter des Verletzten zur Zeit der Abfindung | Kapitalwert |
+| --- | --- |
+| unter 25 | 20,5 |
+| 25 bis unter 30 | 19,7 |
+| 30 bis unter 35 | 18,8 |
+| 35 bis unter 40 | 17,7 |
+| 40 bis unter 45 | 16,5 |
+| 45 bis unter 50 | 15,1 |
+| 50 bis unter 55 | 13,5 |
+| 55 bis unter 60 | 11,8 |
+| 60 bis unter 65 | 10,0 |
+| 65 bis unter 70 | 8,2 |
+| 70 bis unter 75 | 6,5 |
+| 75 bis unter 80 | 5,0 |
+| 80 bis unter 85 | 3,8 |
+| 85 bis unter 90 | 2,9 |
+| 90 bis unter 95 | 2,2 |
+| 95 und mehr | 1,6 |
 
 
 ## (XXXX) Anlage 3 bis 9 (weggefallen)
-
 

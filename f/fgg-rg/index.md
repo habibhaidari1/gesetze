@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zur Reform des Verfahrens in Familiensachen und in den Angelegenheiten
-  der freiwilligen Gerichtsbarkeit
+Title: Gesetz zur Reform des Verfahrens in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit
 jurabk: FGG-RG
 layout: default
 origslug: fgg-rg
@@ -19,7 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 8 G v. 30.7.2009 I 2449;
 
-Stand: Aufgenommen wegen Art. 111
+Stand
+:   Aufgenommen wegen Art. 111
+
 
 ## Art 1
 
@@ -33,19 +34,19 @@ Stand: Aufgenommen wegen Art. 111
 
 ## Art 111 Übergangsvorschrift
 
-(1) Auf Verfahren, die bis zum Inkrafttreten des Gesetzes zur Reform
+(1) Auf Verfahren, die bis zum Inkrafttreten des Gesetzes zur
+Reform des Verfahrens in Familiensachen und in den Angelegenheiten
+der freiwilligen Gerichtsbarkeit eingeleitet worden sind oder
+deren Einleitung bis zum Inkrafttreten des Gesetzes zur Reform
 des Verfahrens in Familiensachen und in den Angelegenheiten der
-freiwilligen Gerichtsbarkeit eingeleitet worden sind oder deren
-Einleitung bis zum Inkrafttreten des Gesetzes zur Reform des
-Verfahrens in Familiensachen und in den Angelegenheiten der
 freiwilligen Gerichtsbarkeit beantragt wurde, sind weiter die vor
 Inkrafttreten des Gesetzes zur Reform des Verfahrens in Familiensachen
 und in den Angelegenheiten der freiwilligen Gerichtsbarkeit geltenden
 Vorschriften anzuwenden. Auf Abänderungs-, Verlängerungs- und
 Aufhebungsverfahren finden die vor Inkrafttreten des Gesetzes zur
-Reform des Verfahrens in Familiensachen und in den Angelegenheiten der
-freiwilligen Gerichtsbarkeit geltenden Vorschriften Anwendung, wenn
-die Abänderungs-, Verlängerungs- und Aufhebungsverfahren bis zum
+Reform des Verfahrens in Familiensachen und in den Angelegenheiten
+der freiwilligen Gerichtsbarkeit geltenden Vorschriften Anwendung,
+wenn die Abänderungs-, Verlängerungs- und Aufhebungsverfahren bis zum
 Inkrafttreten des Gesetzes zur Reform des Verfahrens in Familiensachen
 und in den Angelegenheiten der freiwilligen Gerichtsbarkeit
 eingeleitet worden sind oder deren Einleitung bis zum Inkrafttreten
@@ -59,9 +60,9 @@ Absatzes 1 Satz 1.
 (3) Abweichend von Absatz 1 Satz 1 sind auf Verfahren in
 Familiensachen, die am 1. September 2009 ausgesetzt sind oder nach dem
 1\. September 2009 ausgesetzt werden oder deren Ruhen am 1. September
-2009 angeordnet ist oder nach dem 1. September 2009 angeordnet wird,
-die nach Inkrafttreten des Gesetzes zur Reform des Verfahrens in
-Familiensachen und in den Angelegenheiten der freiwilligen
+2009 angeordnet ist oder nach dem 1. September 2009 angeordnet
+wird, die nach Inkrafttreten des Gesetzes zur Reform des Verfahrens
+in Familiensachen und in den Angelegenheiten der freiwilligen
 Gerichtsbarkeit geltenden Vorschriften anzuwenden.
 
 (4) Abweichend von Absatz 1 Satz 1 sind auf Verfahren über den
@@ -76,9 +77,9 @@ fortgeführt.
 (5) Abweichend von Absatz 1 Satz 1 sind auf Verfahren über den
 Versorgungsausgleich, in denen am 31. August 2010 im ersten Rechtszug
 noch keine Endentscheidung erlassen wurde, sowie auf die mit solchen
-Verfahren im Verbund stehenden Scheidungs- und Folgesachen ab dem 1.
-September 2010 die nach Inkrafttreten des Gesetzes zur Reform des
-Verfahrens in Familiensachen und in den Angelegenheiten der
+Verfahren im Verbund stehenden Scheidungs- und Folgesachen ab dem
+1\. September 2010 die nach Inkrafttreten des Gesetzes zur Reform
+des Verfahrens in Familiensachen und in den Angelegenheiten der
 freiwilligen Gerichtsbarkeit geltenden Vorschriften anzuwenden.
 
 

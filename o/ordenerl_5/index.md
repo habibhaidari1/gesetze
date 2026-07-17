@@ -1,6 +1,5 @@
 ---
-Title: Fünfter Erlaß über die Genehmigung der Stiftung und Verleihung von Orden und
-  Ehrenzeichen
+Title: Fünfter Erlaß über die Genehmigung der Stiftung und Verleihung von Orden und Ehrenzeichen
 jurabk: OrdenErl 5
 layout: default
 origslug: ordenerl_5
@@ -17,7 +16,6 @@ Fundstelle
 :   BGBl I: 1975, 2479
 
 
-
 ## Art 1
 
 Auf Grund des § 3 Abs. 1 des Gesetzes über Titel, Orden und
@@ -26,11 +24,9 @@ geändert durch Artikel 33 des Einführungsgesetzes zum Strafgesetzbuch
 vom 2. März 1974 (Bundesgesetzbl. I S. 469), genehmige ich die
 Stiftung und Verleihung des
 
-*   Ehrenzeichens
+-   Ehrenzeichens
 
     des Technischen Hilfswerks
-
-
 
 in zwei Klassen.
 
@@ -43,8 +39,8 @@ in Artikel 1 genannten Ehrenzeichens.
 
 ## Art 3
 
-Die Stiftungsbestimmungen und die Verleihungsbedingungen sowie die
-Abbildung und die Beschreibung des nach Artikel 1 genehmigten
+Die Stiftungsbestimmungen und die Verleihungsbedingungen sowie
+die Abbildung und die Beschreibung des nach Artikel 1 genehmigten
 Ehrenzeichens werden vom Bundesminister des Innern im Bundesanzeiger
 veröffentlicht.
 

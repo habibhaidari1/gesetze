@@ -1,7 +1,5 @@
 ---
-Title: Zweihundertsiebenunddreißigste Durchführungsverordnung zur Luftverkehrs-Ordnung
-  (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum
-  und vom Verkehrsflughafen München)
+Title: Zweihundertsiebenunddreißigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrsflughafen München)
 jurabk: LuftVODV 237
 layout: default
 origslug: luftvodv_237
@@ -16,4 +14,7 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BAnz: 2008, Nr 68, 1619
+
+Fundstelle
+:   BAnz: 2008, 1619
 

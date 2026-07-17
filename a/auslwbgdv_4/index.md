@@ -1,6 +1,5 @@
 ---
-Title: Vierte Durchführungsverordnung zum Bereinigungsgesetz für deutsche Auslandsbonds
-  (Frankreich)
+Title: Vierte Durchführungsverordnung zum Bereinigungsgesetz für deutsche Auslandsbonds (Frankreich)
 jurabk: AuslWBGDV 4
 layout: default
 origslug: auslwbgdv_4
@@ -17,7 +16,6 @@ Fundstelle
 :   BAnz: 1953, Nr 134
 
 
-
 ## Eingangsformel
 
 Auf Grund des § 23 Abs. 5, des § 35 Abs. 2 und des § 76 des
@@ -29,10 +27,9 @@ Bereinigungsgesetzes für deutsche Auslandsbonds vom 25. August 1952
 
 (1) Diese Verordnung erstreckt sich auf alle Wertpapiere der im
 Verzeichnis der Auslandsbonds (§ 1 Abs. 1 des Gesetzes) aufgeführten
-oder bei einer Ergänzung
-(§ 1 Abs. 2 des Gesetzes)              in das Verzeichnis
-aufgenommenen Art einschließlich der Nebenurkunden (§ 5 des Gesetzes),
-soweit Frankreich als Begebungsland angegeben ist.
+oder bei einer Ergänzung *(§ 1 Abs. 2 des Gesetzes)* in das
+Verzeichnis aufgenommenen Art einschließlich der Nebenurkunden (§ 5
+des Gesetzes), soweit Frankreich als Begebungsland angegeben ist.
 
 (2) Im Sinne dieser Verordnung bezeichnet der Ausdruck "der
 Auslandsbevollmächtigte" den für Frankreich nach § 8 Abs. 1 des
@@ -42,10 +39,10 @@ Gesetzes bestellten Auslandsbevollmächtigten sowie einen für ihn nach
 
 ## § 2 Hinterlegung der Bonds
 
-Eine Hinterlegung von Auslandsbonds nach § 23 Abs. 2 des Gesetzes ist
-in Frankreich nur bei einer für den angemeldeten Bond zuständigen
-Zahlstelle zulässig. Die Befugnis des Auslandsbevollmächtigten, nach §
-23 Abs. 4 des Gesetzes im Einzelfall eine abweichende Regelung
+Eine Hinterlegung von Auslandsbonds nach § 23 Abs. 2 des Gesetzes
+ist in Frankreich nur bei einer für den angemeldeten Bond zuständigen
+Zahlstelle zulässig. Die Befugnis des Auslandsbevollmächtigten, nach
+§ 23 Abs. 4 des Gesetzes im Einzelfall eine abweichende Regelung
 zuzulassen, bleibt unberührt.
 
 
@@ -59,18 +56,18 @@ Auslandsbevollmächtigten zur Verfügung gestellt wird.
 
 (1) Für die Nachprüfung ablehnender Entscheidungen des
 Auslandsbevollmächtigten wird nach § 35 des Gesetzes für Frankreich
-ein Schiedsgericht eingerichtet. Das Schiedsgericht hat seinen Sitz in
-Paris.
+ein Schiedsgericht eingerichtet. Das Schiedsgericht hat seinen Sitz
+in Paris.
 
 (2) Das Schiedsgericht besteht aus drei Schiedsrichtern, und zwar aus
 einem Vorsitzer und zwei Beisitzern. Der Vorsitzer und ein Beisitzer
 werden auf Vorschlag der Nationalen Vereinigung französischer
-Wertpapierbesitzer (Association Nationale des Porteurs Francais de
-Valeurs Mobilieres) vom Bundesminister der Finanzen ernannt. Der
-zweite Beisitzer wird unter sinngemäßer Anwendung des § 77 des
+Wertpapierbesitzer (Association Nationale des Porteurs Francais
+de Valeurs Mobilieres) vom Bundesminister der Finanzen ernannt.
+Der zweite Beisitzer wird unter sinngemäßer Anwendung des § 77 des
 Gesetzes vom Bundesminister der Finanzen ernannt. Die Ernennung wird
-in der Bundesrepublik im Bundesanzeiger und in Frankreich in einer von
-der Nationalen Vereinigung französischer Wertpapierbesitzer zu
+in der Bundesrepublik im Bundesanzeiger und in Frankreich in einer
+von der Nationalen Vereinigung französischer Wertpapierbesitzer zu
 bezeichnenden Zeitung bekanntgemacht.
 
 (3) Für jeden Schiedsrichter ist für den Fall seiner Behinderung ein
@@ -90,12 +87,12 @@ fünf Abschriften beizufügen.
 
 (2) Der Auslandsbevollmächtigte stellt je eine Abschrift der
 Prüfstelle, dem Aussteller, den Treuhändern und den Zahlungsagenten
-mit der Aufforderung zu, ihm ihre etwaige Stellungnahme innerhalb
-zweier Monate nach der Zustellung einzureichen. Der
+mit der Aufforderung zu, ihm ihre etwaige Stellungnahme
+innerhalb zweier Monate nach der Zustellung einzureichen. Der
 Auslandsbevollmächtigte kann diese Frist auf Antrag verlängern, jedoch
 höchstens um drei Monate. Nach Ablauf der gesetzten Frist übermittelt
-der Auslandsbevollmächtigte den Antrag dem Schiedsgericht zusammen mit
-den Zustellungsnachweisen, den etwa eingegangenen Stellungnahmen,
+der Auslandsbevollmächtigte den Antrag dem Schiedsgericht zusammen
+mit den Zustellungsnachweisen, den etwa eingegangenen Stellungnahmen,
 seiner eigenen Stellungnahme und seinen Unterlagen.
 
 (3) Das Schiedsgericht kann Beweise erheben, soweit es dies für

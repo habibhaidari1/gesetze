@@ -15,7 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2020, 1602
 
-Stand: Ersetzt V 52-5-3 v. 15.8.2012 I 1714 (TrDGV) u. V 52-5-1 v. 16.5.2006 I 1262 (ErrV)
+Stand
+:   Ersetzt V 52-5-3 v. 15.8.2012 I 1714 (TrDGV) u. V 52-5-1 v. 16.5.2006 I 1262 (ErrV)
+
 
 ## Eingangsformel
 
@@ -30,11 +32,7 @@ Truppendienstgerichte sind
 
 1.  das Truppendienstgericht Nord mit Sitz in Münster und
 
-
 2.  das Truppendienstgericht Süd mit Sitz in München.
-
-
-
 
 
 ## § 2 Dienstbereiche der Truppendienstgerichte
@@ -45,39 +43,24 @@ Truppendienstgerichte sind
 
     a)  in Berlin,
 
-
     b)  in Brandenburg,
-
 
     c)  in Bremen,
 
-
     d)  in Hamburg,
-
 
     e)  in Mecklenburg-Vorpommern,
 
-
     f)  in Niedersachsen,
-
 
     g)  in Nordrhein-Westfalen mit Ausnahme des Regierungsbezirks Köln,
 
-
     h)  in Sachsen-Anhalt und
-
 
     i)  in Schleswig-Holstein;
 
-
-
-
-
 2.  die Schiffe und Boote im Geschäftsbereich des Bundesministeriums der
     Verteidigung.
-
-
-
 
 (2) Der Dienstbereich des Truppendienstgerichts Süd umfasst
 
@@ -85,40 +68,25 @@ Truppendienstgerichte sind
 
     a)  in Baden-Württemberg,
 
-
     b)  in Bayern,
-
 
     c)  in Hessen,
 
-
     d)  im Regierungsbezirk Köln,
-
 
     e)  in Rheinland-Pfalz,
 
-
     f)  im Saarland,
-
 
     g)  in Sachsen,
 
-
     h)  in Thüringen und
 
-
     i)  im Ausland;
-
-
-
-
 
 2.  die Truppenteile und Dienststellen, die sich vorübergehend im Ausland
     befinden, mit Ausnahme der Schiffe und Boote im Geschäftsbereich des
     Bundesministeriums der Verteidigung.
-
-
-
 
 
 ## § 3 Auswärtige Truppendienstkammern
@@ -130,31 +98,17 @@ bestehen als auswärtige Truppendienstkammern
 
     a)  zwei Truppendienstkammern mit Sitz in Hamburg,
 
-
     b)  zwei Truppendienstkammern mit Sitz in Potsdam und
 
-
     c)  eine Truppendienstkammer mit Sitz in Koblenz;
-
-
-
-
 
 2.  beim Truppendienstgericht Süd
 
     a)  zwei Truppendienstkammern mit Sitz in Koblenz,
 
-
     b)  zwei Truppendienstkammern mit Sitz in Erfurt und
 
-
     c)  eine Truppendienstkammer mit Sitz in Potsdam.
-
-
-
-
-
-
 
 
 ## § 4 Inkrafttreten, Außerkrafttreten

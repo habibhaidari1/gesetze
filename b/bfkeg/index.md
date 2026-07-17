@@ -1,6 +1,5 @@
 ---
-Title: Gesetz über die Errichtung eines Bundesamtes für die Sicherheit der nuklearen
-  Entsorgung
+Title: Gesetz über die Errichtung eines Bundesamtes für die Sicherheit der nuklearen Entsorgung
 jurabk: BfkEG
 layout: default
 origslug: bfkeg
@@ -22,8 +21,8 @@ Zuletzt geändert durch
 
 ## § 1 Errichtung
 
-Im Geschäftsbereich des Bundesministeriums für Umwelt, Naturschutz und
-nukleare Sicherheit wird ein „Bundesamt für die Sicherheit der
+Im Geschäftsbereich des Bundesministeriums für Umwelt, Naturschutz
+und nukleare Sicherheit wird ein „Bundesamt für die Sicherheit der
 nuklearen Entsorgung“ als selbständige Bundesoberbehörde errichtet.
 Das Bundesamt für die Sicherheit der nuklearen Entsorgung wird von
 einer Präsidentin oder einem Präsidenten geleitet. Die Präsidentin
@@ -52,10 +51,10 @@ Sicherheit fachlich und wissenschaftlich auf den in Absatz 1 genannten
 Gebieten.
 
 (3) Das Bundesamt für die Sicherheit der nuklearen Entsorgung
-erledigt, soweit keine andere Zuständigkeit gesetzlich festgelegt ist,
-Aufgaben des Bundes auf den in Absatz 1 genannten Gebieten, mit deren
-Durchführung es vom Bundesministerium für Umwelt, Naturschutz und
-nukleare Sicherheit oder mit seiner Zustimmung von der sachlich
+erledigt, soweit keine andere Zuständigkeit gesetzlich festgelegt
+ist, Aufgaben des Bundes auf den in Absatz 1 genannten Gebieten, mit
+deren Durchführung es vom Bundesministerium für Umwelt, Naturschutz
+und nukleare Sicherheit oder mit seiner Zustimmung von der sachlich
 zuständigen obersten Bundesbehörde beauftragt wird.
 
 (4) Das Bundesamt für die Sicherheit der nuklearen Entsorgung betreibt
@@ -66,8 +65,8 @@ Absatz 1 genannten Gebieten.
 ## § 3 Aufsicht
 
 Das Bundesamt für die Sicherheit der nuklearen Entsorgung untersteht
-der Aufsicht des Bundesministeriums für Umwelt, Naturschutz und
-nukleare Sicherheit. Soweit es Aufgaben aus einem anderen
+der Aufsicht des Bundesministeriums für Umwelt, Naturschutz
+und nukleare Sicherheit. Soweit es Aufgaben aus einem anderen
 Geschäftsbereich als dem des Bundesministeriums für Umwelt,
 Naturschutz und nukleare Sicherheit wahrnimmt, untersteht es den
 fachlichen Weisungen der sachlich zuständigen obersten Bundesbehörde.
@@ -90,8 +89,8 @@ Auszubildendenvertretung sowie die Schwerbehindertenvertretung.
 
 (4) Nach Errichtung des Bundesamtes findet innerhalb von sechs Monaten
 die Wahl der Gleichstellungsbeauftragten und ihrer Stellvertreterin
-statt. Bis zur Bestellung der Gleichstellungsbeauftragten und ihrer
-Stellvertreterin werden die Aufgaben von der
+statt. Bis zur Bestellung der Gleichstellungsbeauftragten
+und ihrer Stellvertreterin werden die Aufgaben von der
 Gleichstellungsbeauftragten und ihrer Stellvertreterin beim
 Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit
 wahrgenommen.

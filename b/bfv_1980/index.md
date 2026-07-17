@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über Anlagen zur Lagerung, Abfüllung und Beförderung brennbarer
-  Flüssigkeiten zu Lande
+Title: Verordnung über Anlagen zur Lagerung, Abfüllung und Beförderung brennbarer Flüssigkeiten zu Lande
 jurabk: BFV 1980
 layout: default
 origslug: bfv_1980
@@ -26,67 +25,7 @@ Zuletzt geändert durch
 :   Art. 11 V v. 2.6.2016 I 1257
 
 
-## Inhaltsverzeichnis
-
-
-*    *   (weggefallen)
-
-    *   §§ 1 bis 4
-
-
-*    *   Weitergehende Anforderungen
-
-    *   § 5
-
-
-*    *   Ausnahmen
-
-    *   § 6
-
-
-*    *   Anlagen des Bundes
-
-    *   § 7
-
-
-*    *   (weggefallen)
-
-    *   § 8
-
-
-*    *   Erlaubnis
-
-    *   § 9
-
-
-*    *   (weggefallen)
-
-    *   §§ 10 bis 23
-
-
-*    *   Aufsicht über Anlagen des Bundes
-
-    *   § 24
-
-
-*    *   (weggefallen)
-
-    *   §§ 25 bis 29
-
-
-*    *   (Außerkrafttreten anderer Vorschriften)
-
-    *   § 30
-
-
-*    *   Anhang I und II (weggefallen)
-
-
-
-
-
 ## (XXXX) §§ 1 bis 4 (weggefallen)
-
 
 
 ## § 5 Weitergehende Anforderungen
@@ -125,8 +64,8 @@ bestimmten Behörde zu.
 
 (1) und (2) (weggefallen)
 
-(3) Die Montage, die Installation und der Betrieb einer Anlage nach
-Absatz 1 bedürfen der Erlaubnis der zuständigen Behörde
+(3) Die Montage, die Installation und der Betrieb einer Anlage
+nach Absatz 1 bedürfen der Erlaubnis der zuständigen Behörde
 (Erlaubnisbehörde). Dem Antrag auf Erteilung der Erlaubnis sind alle
 für die Beurteilung der Anlage erforderlichen Unterlagen beizufügen.
 
@@ -136,19 +75,14 @@ für die Beurteilung der Anlage erforderlichen Unterlagen beizufügen.
 
 1.  (weggefallen)
 
-
 2.  (weggefallen)
 
-
 3.  der Bundeswehr.
-
-
 
 ...
 
 
 ## (XXXX) §§ 10 und 11 (weggefallen)
-
 
 
 ## § 12
@@ -157,7 +91,6 @@ für die Beurteilung der Anlage erforderlichen Unterlagen beizufügen.
 
 
 ## (XXXX) §§ 13 bis 23 (weggefallen)
-
 
 
 ## § 24 Aufsicht über Anlagen des Bundes
@@ -172,7 +105,6 @@ bestimmte Behörde.
 ## (XXXX) §§ 25 bis 28 (weggefallen)
 
 
-
 ## § 29
 
 (weggefallen)
@@ -184,5 +116,4 @@ bestimmte Behörde.
 
 
 ## (XXXX) Anhang I und II (weggefallen)
-
 

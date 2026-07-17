@@ -1,7 +1,5 @@
 ---
-Title: Gesetz zu dem Abkommen vom 16. Dezember 1992 zwischen der Regierung der Bundesrepublik
-  Deutschland und der Regierung der Russischen Föderation über die gegenseitige Hilfeleistung
-  bei Katastrophen oder schweren Unglücksfällen
+Title: Gesetz zu dem Abkommen vom 16. Dezember 1992 zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Russischen Föderation über die gegenseitige Hilfeleistung bei Katastrophen oder schweren Unglücksfällen
 jurabk: KatHiLAbkRussFöG
 layout: default
 origslug: kathilabkrussf_g
@@ -18,7 +16,6 @@ Fundstelle
 :   BGBl II: 1994, 3542
 
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
@@ -28,8 +25,8 @@ beschlossen:
 ## Art 1
 
 Dem in Moskau am 16. Dezember 1992 unterzeichneten Abkommen zwischen
-der Regierung der Bundesrepublik Deutschland und der Regierung der
-Russischen Föderation über die gegenseitige Hilfeleistung bei
+der Regierung der Bundesrepublik Deutschland und der Regierung
+der Russischen Föderation über die gegenseitige Hilfeleistung bei
 Katastrophen oder schweren Unglücksfällen wird zugestimmt. Das
 Abkommen wird nachstehend veröffentlicht.
 

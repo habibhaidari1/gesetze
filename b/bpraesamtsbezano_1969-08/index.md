@@ -16,14 +16,10 @@ Fundstelle
 :   BGBl I: 1969, 1087
 
 
-
 ## (XXXX)
 
 Gemäß § 81 Abs. 1 des Bundesbeamtengesetzes setze ich folgende
 Amtsbezeichnung fest
 
-*   Präsident des Bundessprachenamtes.
-
-
-
+-   Präsident des Bundessprachenamtes.
 

@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über das Verfahren zur Feststellung der Eignung als zugelassener
-  kommunaler Träger der Grundsicherung für Arbeitsuchende
+Title: Verordnung über das Verfahren zur Feststellung der Eignung als zugelassener kommunaler Träger der Grundsicherung für Arbeitsuchende
 jurabk: KtEfV
 layout: default
 origslug: ktefv
@@ -41,8 +40,8 @@ Buches Sozialgesetzbuch einvernehmlich fest, wie viele kommunale
 Träger in einem Land jeweils zugelassen werden können.
 
 (3) Stellen in einem Land mehr kommunale Träger einen Antrag auf
-Zulassung, als auf dieses auf Grund des Verteilungsschlüssels nach
-Absatz 2 entfallen, schlägt die oberste Landesbehörde dem
+Zulassung, als auf dieses auf Grund des Verteilungsschlüssels
+nach Absatz 2 entfallen, schlägt die oberste Landesbehörde dem
 Bundesministerium für Arbeit und Soziales bis zum 31. März 2011 vor,
 in welcher Reihenfolge die antragstellenden kommunalen Träger aus dem
 jeweiligen Land zugelassen werden. Die jeweils am höchsten gereihten
@@ -59,10 +58,10 @@ Arbeit zugelassen werden.
 
 ## § 2 Voraussetzungen der Eignungsfeststellung
 
-(1) Zur Feststellung der Eignung und Bestimmung der Reihenfolge haben
-die antragstellenden kommunalen Träger mit dem Antrag bei der
-zuständigen obersten Landesbehörde Konzepte zu ihrer Eignung zur
-alleinigen Aufgabenwahrnehmung nach § 3 einzureichen und die
+(1) Zur Feststellung der Eignung und Bestimmung der Reihenfolge
+haben die antragstellenden kommunalen Träger mit dem Antrag bei
+der zuständigen obersten Landesbehörde Konzepte zu ihrer Eignung
+zur alleinigen Aufgabenwahrnehmung nach § 3 einzureichen und die
 Verpflichtungserklärungen nach § 6a Absatz 2 Satz 1 Nummer 2 bis 5 des
 Zweiten Buches Sozialgesetzbuch abzugeben.
 
@@ -73,8 +72,8 @@ kommunale Träger muss bei jedem Kriterium eine von der zuständigen
 obersten Landesbehörde festzulegende Mindestpunktzahl erzielen. Die
 summierten Einzelwerte müssen ihrerseits eine von der zuständigen
 obersten Landesbehörde zu bestimmende Mindestpunktzahl ergeben. Die
-erreichte Punktzahl ist auch maßgeblich für die Platzierung in der für
-das jeweilige Land von der zuständigen obersten Landesbehörde zu
+erreichte Punktzahl ist auch maßgeblich für die Platzierung in der
+für das jeweilige Land von der zuständigen obersten Landesbehörde zu
 erstellenden Reihenfolge.
 
 
@@ -86,47 +85,34 @@ zu folgenden Bereichen Angaben enthalten:
 
 1.  infrastrukturelle Voraussetzungen,
 
-
 2.  Personalqualifizierung,
 
-
 3.  Aktenführung und Rechnungslegung und
-
 
 4.  bestehende und geplante Verwaltungskooperationen sowie Kooperationen
     mit Dritten.
 
-
-
-
-(2) Der kommunale Träger stellt zum Nachweis seiner Fähigkeit zur
-Erfüllung der Aufgaben und Ziele nach § 1 des Zweiten Buches
+(2) Der kommunale Träger stellt zum Nachweis seiner Fähigkeit
+zur Erfüllung der Aufgaben und Ziele nach § 1 des Zweiten Buches
 Sozialgesetzbuch dar,
 
 1.  mit welchem Konzept und mit welchem Erfolg er sich seit 2003
     arbeitsmarktpolitisch engagiert hat und wie dieses Engagement künftig
     ausgestaltet werden soll,
 
-
 2.  nach welchen Grundsätzen und in welchem Umfang er seit 2005 kommunale
     Eingliederungsleistungen erbracht hat und wie die Erbringung
     kommunaler Eingliederungsleistungen künftig ausgestaltet werden soll,
-
 
 3.  wie die kommunalen Eingliederungsleistungen bisher mit Leistungen der
     Agenturen für Arbeit verknüpft wurden und zukünftig verknüpft werden
     sollen,
 
-
 4.  nach welchen Zweckmäßigkeitserwägungen die arbeitsmarktpolitischen
     Leistungen erbracht werden sollen und
 
-
 5.  wie das Eingliederungsbudget verwendet und eine bürgerfreundliche und
     wirksame Arbeitsvermittlung aufgebaut werden soll.
-
-
-
 
 (3) Der kommunale Träger legt ein Konzept für eine überregionale
 Arbeitsvermittlung vor.
@@ -137,9 +123,9 @@ Leistungserbringung und Mittelverwendung vor.
 
 (5) Der kommunale Träger legt ein Konzept für den Übergang der in
 seinem Gebiet bestehenden Aufgabenwahrnehmung in die zugelassene
-kommunale Trägerschaft vor. Das Konzept umfasst einen Arbeits- und
-Zeitplan zur Vorbereitung der Trägerschaft, zur rechtlichen und
-tatsächlichen Abwicklung der bestehenden Trägerform sowie zur
+kommunale Trägerschaft vor. Das Konzept umfasst einen Arbeits-
+und Zeitplan zur Vorbereitung der Trägerschaft, zur rechtlichen
+und tatsächlichen Abwicklung der bestehenden Trägerform sowie zur
 Überführung des Daten- und Aktenbestandes und des Eigentums in die
 zugelassene kommunale Trägerschaft.
 

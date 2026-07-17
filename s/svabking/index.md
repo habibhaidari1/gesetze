@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zu dem Abkommen vom 8. Oktober 2008 zwischen der Bundesrepublik Deutschland
-  und der Republik Indien über Sozialversicherung
+Title: Gesetz zu dem Abkommen vom 8. Oktober 2008 zwischen der Bundesrepublik Deutschland und der Republik Indien über Sozialversicherung
 jurabk: SVAbkING
 layout: default
 origslug: svabking
@@ -31,13 +30,10 @@ zwischenstaatlichen Übereinkünften wird zugestimmt:
 1.  dem Abkommen zwischen der Bundesrepublik Deutschland und der Republik
     Indien über Sozialversicherung,
 
-
 2.  der Vereinbarung zwischen der Regierung der Bundesrepublik Deutschland
     und der Regierung der Republik Indien zur Durchführung des Abkommens
     vom 8. Oktober 2008 zwischen der Bundesrepublik Deutschland und der
     Republik Indien über Sozialversicherung.
-
-
 
 Das Abkommen und die Durchführungsvereinbarung werden nachstehend
 veröffentlicht.
@@ -59,16 +55,11 @@ folgende Gegenstände Regelungen getroffen werden:
     Abkommens befassten Stellen sowie zwischen diesen und den betroffenen
     Personen,
 
-
 2.  das Ausstellen, die Vorlage und Übermittlung von Bescheinigungen sowie
     die Verwendung von Vordrucken,
 
-
 3.  die Zuständigkeit der Versicherungsträger oder anderer im Abkommen
     genannter Stellen und Behörden.
-
-
-
 
 
 ## Art 3

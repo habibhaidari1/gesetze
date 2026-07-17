@@ -1,7 +1,5 @@
 ---
-Title: Gesetz über die Entschädigung nach dem Gesetz zur Regelung offener Vermögensfragen
-  und über staatliche Ausgleichsleistungen für Enteignungen auf besatzungsrechtlicher
-  oder besatzungshoheitlicher Grundlage
+Title: Gesetz über die Entschädigung nach dem Gesetz zur Regelung offener Vermögensfragen und über staatliche Ausgleichsleistungen für Enteignungen auf besatzungsrechtlicher oder besatzungshoheitlicher Grundlage
 jurabk: EALG
 layout: default
 origslug: ealg
@@ -45,7 +43,6 @@ beschlossen:
 ## (XXXX) Art 4 bis 7
 
 
-
 ## Art 8 Gesetz zur Behandlung von Schuldbuchforderungen gegen die ehemalige Deutsche Demokratische Republik (DDR-Schuldbuchbereinigungsgesetz - SchuldBBerG)
 
 -
@@ -86,15 +83,15 @@ Verkäufen sind an den Entschädigungsfonds abzuführen.
 ## Art 12 Neubekanntmachung
 
 Das Bundesministerium der Justiz kann den Wortlaut des
-Vermögensgesetzes, das Bundesministerium der Finanzen den Wortlaut des
-Wertausgleichsgesetzes in der vom Inkrafttreten dieses Gesetzes an
+Vermögensgesetzes, das Bundesministerium der Finanzen den Wortlaut
+des Wertausgleichsgesetzes in der vom Inkrafttreten dieses Gesetzes an
 geltenden Fassung im Bundesgesetzblatt bekanntmachen.
 
 
 ## Art 13 Inkrafttreten
 
 Artikel 9 tritt mit Wirkung vom 1. Januar 1994 in Kraft. Artikel 10
-Nr. 10 und Artikel 12 treten am Tage nach der Verkündung in Kraft. Im
-übrigen tritt dieses Gesetz am ersten Tage des auf die Verkündung
+Nr. 10 und Artikel 12 treten am Tage nach der Verkündung in Kraft.
+Im übrigen tritt dieses Gesetz am ersten Tage des auf die Verkündung
 folgenden dritten Kalendermonats in Kraft.
 

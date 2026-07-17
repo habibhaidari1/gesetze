@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Zuständigkeit der Bundesanstalt für Landwirtschaft und
-  Ernährung bei Maßnahmen zur Verbesserung der Milchqualität
+Title: Verordnung über die Zuständigkeit der Bundesanstalt für Landwirtschaft und Ernährung bei Maßnahmen zur Verbesserung der Milchqualität
 jurabk: MilchQBALMZustV
 layout: default
 origslug: milchqbalmzustv

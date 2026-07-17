@@ -27,8 +27,8 @@ Bundes errichtet.
 
 ## § 2 Zweck und Mittelverwendung; Verordnungsermächtigung
 
-(1) Der Fonds dient der Leistung von Hilfen in den vom Hochwasser im
-Mai und Juni 2013 betroffenen Ländern zur Beseitigung der
+(1) Der Fonds dient der Leistung von Hilfen in den vom Hochwasser
+im Mai und Juni 2013 betroffenen Ländern zur Beseitigung der
 Hochwasserschäden und zum Wiederaufbau der zerstörten Infrastruktur.
 
 (2) Aus den Mitteln des Fonds werden als Aufbauhilfen geleistet,
@@ -38,21 +38,18 @@ abgedeckt sind:
 1.  Maßnahmen für geschädigte Privathaushalte und Unternehmen sowie für
     andere Einrichtungen,
 
-
 2.  Maßnahmen zur Wiederherstellung der Infrastruktur der betroffenen
     Länder und Gemeinden und weiterer öffentlich-rechtlicher
     Körperschaften sowie des Bundes einschließlich der Gebäude und
     Einrichtungen von Religionsgemeinschaften, soweit sie Körperschaften
     des öffentlichen Rechts sind.
 
-
-
-Aus den Mitteln des Fonds werden Soforthilfen, über die im Jahr 2013
-Verwaltungsvereinbarungen zwischen dem Bund und den Ländern
+Aus den Mitteln des Fonds werden Soforthilfen, über die im Jahr
+2013 Verwaltungsvereinbarungen zwischen dem Bund und den Ländern
 geschlossen wurden, erstattet.
 
-(3) Bei der Verteilung der Mittel auf Bund, Länder und Gemeinden sowie
-bei der Gewährung der Hilfen sind die unterschiedlichen
+(3) Bei der Verteilung der Mittel auf Bund, Länder und Gemeinden
+sowie bei der Gewährung der Hilfen sind die unterschiedlichen
 Schadensbelastungen der Betroffenen zu berücksichtigen.
 
 (4) Die Bundesregierung erlässt mit Zustimmung des Bundesrates eine
@@ -75,24 +72,24 @@ die sich aus der Finanzierung des Fonds ergeben, haftet der Bund.
 
 ## § 4 Finanzierung des Fonds
 
-(1) Der Bund stellt dem Fonds Mittel in Höhe von 8 Milliarden Euro zur
-Verfügung. Die Liquidität des Fonds wird durch den Bund
+(1) Der Bund stellt dem Fonds Mittel in Höhe von 8 Milliarden
+Euro zur Verfügung. Die Liquidität des Fonds wird durch den Bund
 sichergestellt.
 
 (2) Die Länder beteiligen sich an der Finanzierung nach Maßgabe des
 Absatzes 3.
 
-(3) Die finanzielle Beteiligung der Länder an dem Fonds in den Jahren
-von 2014 bis 2033 erfolgt im Rahmen der vertikalen
-Umsatzsteuerverteilung nach Maßgabe von § 1 des
+(3) Die finanzielle Beteiligung der Länder an dem Fonds
+in den Jahren von 2014 bis 2033 erfolgt im Rahmen der
+vertikalen Umsatzsteuerverteilung nach Maßgabe von § 1 des
 Finanzausgleichsgesetzes.
 
-(4) Die im Jahr 2013 vor Inkrafttreten der Rechtsverordnung nach § 2
-Absatz 4 geleisteten Aufbauhilfen nach § 2 Absatz 2 Satz 1 und die
+(4) Die im Jahr 2013 vor Inkrafttreten der Rechtsverordnung nach §
+2 Absatz 4 geleisteten Aufbauhilfen nach § 2 Absatz 2 Satz 1 und die
 Soforthilfen nach § 2 Absatz 2 Satz 2 werden aus dem Fonds erstattet.
 
-(5) Ergibt sich nach der Schlussabrechnung des Fonds, dass die Länder
-Beiträge geleistet haben, die ihren Anteil an der Finanzierung
+(5) Ergibt sich nach der Schlussabrechnung des Fonds, dass die
+Länder Beiträge geleistet haben, die ihren Anteil an der Finanzierung
 übersteigen, erstattet der Bund den Ländern anteilig die zu viel
 geleisteten Beträge.
 
@@ -109,9 +106,9 @@ ausgewiesenen und den Ländern zur Verwendung zustehenden Mittel in
 Höhe von 6,5 Milliarden Euro nicht erforderlich sind, kann der Bund
 diesen Teil der Mittel auch vor der Schlussabrechnung bis zu einer
 Höhe von 1 Milliarde Euro im Bundeshaushalt vereinnahmen. Hiervon
-unberührt bleiben die Hilfen, die bis zum Ablauf der in Artikel 4
-Absatz 3 Satz 2 der Verwaltungsvereinbarung über die Festlegung von
-einheitlichen Maßstäben zur Verwendung der Mittel des Fonds
+unberührt bleiben die Hilfen, die bis zum Ablauf der in Artikel
+4 Absatz 3 Satz 2 der Verwaltungsvereinbarung über die Festlegung
+von einheitlichen Maßstäben zur Verwendung der Mittel des Fonds
 „Aufbauhilfe“ für Maßnahmen nach § 2 Absatz 2 Nummer 1 und 2 in den
 vom Hochwasser betroffenen Ländern genannten Frist für die Bewilligung
 von Anträgen bewilligt wurden.

@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung des Beschlusses des Deutschen Bundestages über die Feststellung
-  des Fortbestehens der epidemischen Lage von nationaler Tragweite
+Title: Bekanntmachung des Beschlusses des Deutschen Bundestages über die Feststellung des Fortbestehens der epidemischen Lage von nationaler Tragweite
 jurabk: BTEpiFortbestBek
 layout: default
 origslug: btepifortbestbek

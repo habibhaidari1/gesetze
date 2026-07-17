@@ -16,25 +16,22 @@ Fundstelle
 :   BGBl I: 1976, 1749
 
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
-## Art 1 bis 11 - 
-
+## Art 1 bis 11
 
 
 ## Art 12 - Übergangs- und Schlußvorschriften
 
 
+### § 1
 
-## § 1
-
-(1) Ist der nach den bisher geltenden Vorschriften an Kindes Statt
-Angenommene im Zeitpunkt des Inkrafttretens dieses Gesetzes
+(1) Ist der nach den bisher geltenden Vorschriften an Kindes
+Statt Angenommene im Zeitpunkt des Inkrafttretens dieses Gesetzes
 volljährig, so werden auf das Annahmeverhältnis die Vorschriften
 dieses Gesetzes über die Annahme Volljähriger angewandt, soweit sich
 nicht aus den Absätzen 2 bis 6 ein anderes ergibt.
@@ -61,35 +58,35 @@ Bürgerlichen Gesetzbuchs in der Fassung dieses Gesetzes bezeichneten
 Fristen beginnen frühestens mit dem Inkrafttreten dieses Gesetzes.
 
 
-## § 2
+### § 2
 
-(1) Ist der nach den bisher geltenden Vorschriften an Kindes Statt
-Angenommene im Zeitpunkt des Inkrafttretens dieses Gesetzes
+(1) Ist der nach den bisher geltenden Vorschriften an Kindes
+Statt Angenommene im Zeitpunkt des Inkrafttretens dieses Gesetzes
 minderjährig, so werden auf das Annahmeverhältnis bis zum 31. Dezember
 1977 die bisher geltenden Vorschriften über die Annahme an Kindes
 Statt angewandt.
 
 (2) Nach Ablauf der in Absatz 1 bestimmten Frist werden auf das
 Annahmeverhältnis die Vorschriften dieses Gesetzes über die Annahme
-Minderjähriger angewandt; § 1 Abs. 2 bis 4 gilt entsprechend; die in §
-1762 Abs. 2 des Bürgerlichen Gesetzbuchs in der Fassung dieses
-Gesetzes bezeichneten Fristen beginnen frühestens mit dem Tag, an dem
-auf das Annahmeverhältnis die Vorschriften dieses Gesetzes anzuwenden
-sind. Das gilt nicht, wenn ein Annehmender, das Kind, ein leiblicher
-Elternteil eines ehelichen Kindes oder die Mutter eines nichtehelichen
-Kindes erklärt, daß die Vorschriften dieses Gesetzes über die Annahme
-Minderjähriger nicht angewandt werden sollen. Wurde die Einwilligung
-eines Elternteils zur Annahme an Kindes Statt durch das
-Vormundschaftsgericht ersetzt, so ist dieser Elternteil nicht
+Minderjähriger angewandt; § 1 Abs. 2 bis 4 gilt entsprechend; die
+in § 1762 Abs. 2 des Bürgerlichen Gesetzbuchs in der Fassung dieses
+Gesetzes bezeichneten Fristen beginnen frühestens mit dem Tag,
+an dem auf das Annahmeverhältnis die Vorschriften dieses Gesetzes
+anzuwenden sind. Das gilt nicht, wenn ein Annehmender, das Kind, ein
+leiblicher Elternteil eines ehelichen Kindes oder die Mutter eines
+nichtehelichen Kindes erklärt, daß die Vorschriften dieses Gesetzes
+über die Annahme Minderjähriger nicht angewandt werden sollen. Wurde
+die Einwilligung eines Elternteils zur Annahme an Kindes Statt durch
+das Vormundschaftsgericht ersetzt, so ist dieser Elternteil nicht
 berechtigt, die Erklärung abzugeben.
 
-(3) Die Erklärung nach Absatz 2 Satz 2 kann nur bis zum Ablauf der in
-Absatz 1 bestimmten Frist gegenüber dem Amtsgericht Schöneberg in
-Berlin-Schöneberg abgegeben werden. Die Erklärung bedarf der
-notariellen Beurkundung; sie wird in dem Zeitpunkt wirksam, in dem sie
-dem Amtsgericht Schöneberg in Berlin-Schöneberg zugeht; sie kann bis
-zum Ablauf der in Absatz 1 bestimmten Frist schriftlich gegenüber dem
-Amtsgericht Schöneberg in Berlin-Schöneberg widerrufen werden. Der
+(3) Die Erklärung nach Absatz 2 Satz 2 kann nur bis zum Ablauf der
+in Absatz 1 bestimmten Frist gegenüber dem Amtsgericht Schöneberg
+in Berlin-Schöneberg abgegeben werden. Die Erklärung bedarf der
+notariellen Beurkundung; sie wird in dem Zeitpunkt wirksam, in dem
+sie dem Amtsgericht Schöneberg in Berlin-Schöneberg zugeht; sie kann
+bis zum Ablauf der in Absatz 1 bestimmten Frist schriftlich gegenüber
+dem Amtsgericht Schöneberg in Berlin-Schöneberg widerrufen werden. Der
 Widerruf muß öffentlich beglaubigt werden. § 1762 Abs. 1 Satz 2 bis 4
 des Bürgerlichen Gesetzbuchs ist anzuwenden.
 
@@ -101,25 +98,25 @@ Eine solche Mitteilung soll unterbleiben, wenn zu besorgen ist, daß
 durch sie ein nicht offenkundiges Annahmeverhältnis aufgedeckt wird.
 
 
-## § 3
+### § 3
 
 (1) Wird eine Erklärung nach § 2 Abs. 2 Satz 2 abgegeben, so werden
 auf das Annahmeverhältnis nach Ablauf der in § 2 Abs. 1 bestimmten
 Frist die Vorschriften dieses Gesetzes über die Annahme Volljähriger
 angewandt.
 
-(2) Die Vorschriften des § 1 Abs. 2 bis 5 und des § 2 Abs. 2 Satz 1
-Halbsatz 3 werden entsprechend angewandt. § 1761 des Bürgerlichen
+(2) Die Vorschriften des § 1 Abs. 2 bis 5 und des § 2 Abs. 2 Satz
+1 Halbsatz 3 werden entsprechend angewandt. § 1761 des Bürgerlichen
 Gesetzbuchs ist anzuwenden. Solange der an Kindes Statt Angenommene
-minderjährig ist, kann das Annahmeverhältnis auch nach § 1763 Abs. 1,
-2 des Bürgerlichen Gesetzbuchs in der Fassung dieses Gesetzes
+minderjährig ist, kann das Annahmeverhältnis auch nach § 1763 Abs.
+1, 2 des Bürgerlichen Gesetzbuchs in der Fassung dieses Gesetzes
 aufgehoben werden.
 
 
-## § 4
+### § 4
 
-(1) Das vor dem Inkrafttreten dieses Gesetzes von einem Deutschen nach
-den deutschen Gesetzen wirksam angenommene und im Zeitpunkt des
+(1) Das vor dem Inkrafttreten dieses Gesetzes von einem Deutschen
+nach den deutschen Gesetzen wirksam angenommene und im Zeitpunkt des
 Inkrafttretens dieses Gesetzes noch minderjährige Kind erwirbt durch
 die schriftliche Erklärung, deutscher Staatsangehöriger werden zu
 wollen, die Staatsangehörigkeit, wenn auf das Annahmeverhältnis gemäß
@@ -138,15 +135,11 @@ Erklärung
 
 1.  vor dem 1. Januar 1978 abgegeben wird, am 1. Januar 1978;
 
-
 2.  ab 1. Januar 1978 abgegeben wird, mit der Entgegennahme der Erklärung
     durch die Einbürgerungsbehörde.
 
-
-
-
-(4) Artikel 3 Abs. 3 Satz 2 und 3, Abs. 4, 5 Satz 1 und 4 und Abs. 7
-bis 9 des Gesetzes zur Änderung des Reichs- und
+(4) Artikel 3 Abs. 3 Satz 2 und 3, Abs. 4, 5 Satz 1 und 4
+und Abs. 7 bis 9 des Gesetzes zur Änderung des Reichs- und
 Staatsangehörigkeitsgesetzes vom 20. Dezember 1974 (Bundesgesetzbl. I
 S. 3714) gelten entsprechend.
 
@@ -156,20 +149,20 @@ Deutscher ohne deutsche Staatsangehörigkeit im Sinne des Artikels 116
 Abs. 1 des Grundgesetzes war.
 
 
-## § 5
+### § 5
 
 Hat im Zeitpunkt des Inkrafttretens dieses Gesetzes der Annehmende
 oder das Kind den Antrag auf Bestätigung eines Vertrages über die
-Annahme oder auf Bestätigung eines Vertrages über die Aufhebung der
-Annahme an Kindes Statt bei dem zuständigen Gericht eingereicht oder
-bei oder nach der notariellen Beurkundung des Vertrages den Notar mit
-der Einreichung betraut, so kann die Bestätigung nach den bisher
-geltenden Vorschriften erfolgen. § 15 Abs. 1 Satz 3 des
+Annahme oder auf Bestätigung eines Vertrages über die Aufhebung
+der Annahme an Kindes Statt bei dem zuständigen Gericht eingereicht
+oder bei oder nach der notariellen Beurkundung des Vertrages den
+Notar mit der Einreichung betraut, so kann die Bestätigung nach
+den bisher geltenden Vorschriften erfolgen. § 15 Abs. 1 Satz 3 des
 Personenstandsgesetzes ist in diesem Fall in der bisher geltenden
 Fassung anzuwenden.
 
 
-## § 6
+### § 6
 
 (1) Hat vor Inkrafttreten dieses Gesetzes ein Elternteil die
 Einwilligung zur Annahme eines Kindes an Kindes Statt erteilt, so
@@ -186,21 +179,21 @@ die Annahme Minderjähriger nicht angewandt werden sollen. § 2 Abs. 3
 gilt für die Erklärung entsprechend. Auf das Annahmeverhältnis werden
 bis zum Ablauf der in Satz 1 bestimmten Frist, im Fall einer Erklärung
 nach Satz 1 auch nach Ablauf dieser Frist, die Vorschriften dieses
-Gesetzes über die Annahme Volljähriger mit der Maßgabe angewandt, daß
-auf die Aufhebung des Annahmeverhältnisses die Vorschriften der §§
-1760 bis 1763 des Bürgerlichen Gesetzbuchs in der Fassung dieses
+Gesetzes über die Annahme Volljähriger mit der Maßgabe angewandt,
+daß auf die Aufhebung des Annahmeverhältnisses die Vorschriften der
+§§ 1760 bis 1763 des Bürgerlichen Gesetzbuchs in der Fassung dieses
 Gesetzes entsprechend anzuwenden sind. Wird keine Erklärung nach Satz
-1 abgegeben, so werden nach Ablauf der in Satz 2 bestimmten Frist auf
-das Annahmeverhältnis die Vorschriften dieses Gesetzes über die
+1 abgegeben, so werden nach Ablauf der in Satz 2 bestimmten Frist
+auf das Annahmeverhältnis die Vorschriften dieses Gesetzes über die
 Annahme Minderjähriger angewandt.
 
 
-## § 7
+### § 7
 
-(1) Die Annahme als Kind nach den Vorschriften dieses Gesetzes über
-die Annahme Minderjähriger ist auch dann zulässig, wenn der Annehmende
-und der Anzunehmende bereits durch Annahme an Kindes Statt nach den
-bisher geltenden Vorschriften verbunden sind. Besteht das
+(1) Die Annahme als Kind nach den Vorschriften dieses Gesetzes
+über die Annahme Minderjähriger ist auch dann zulässig, wenn der
+Annehmende und der Anzunehmende bereits durch Annahme an Kindes Statt
+nach den bisher geltenden Vorschriften verbunden sind. Besteht das
 Annahmeverhältnis zu einem Ehepaar, so ist die Annahme als Kind nur
 durch beide Ehegatten zulässig.
 
@@ -209,23 +202,23 @@ Gesetzes volljährig, so wird § 1772 des Bürgerlichen Gesetzbuchs
 angewandt.
 
 
-## § 8
+### § 8
 
-Wo auf Vorschriften verwiesen wird, die durch dieses Gesetz aufgehoben
-oder geändert werden, erhält die Verweisung ihren Inhalt aus den
-entsprechenden neuen Vorschriften. Einer Verweisung steht es gleich,
-wenn die Anwendbarkeit der in Satz 1 bezeichneten Vorschriften
-stillschweigend vorausgesetzt wird.
+*Wo auf Vorschriften verwiesen wird, die durch dieses Gesetz
+aufgehoben oder geändert werden, erhält die Verweisung ihren Inhalt
+aus den entsprechenden neuen Vorschriften. Einer Verweisung steht es
+gleich, wenn die Anwendbarkeit der in Satz 1 bezeichneten Vorschriften
+stillschweigend vorausgesetzt wird.*
 
 
-## § 9
+### § 9
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
 im Land Berlin.
 
 
-## § 10
+### § 10
 
 Dieses Gesetz tritt am 1. Januar 1977 in Kraft.
 Folgende Vorschriften treten jedoch bereits einen Tag nach Verkündung

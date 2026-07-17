@@ -1,6 +1,5 @@
 ---
-Title: Kostenordnung für Maßnahmen nach dem Gesetz zu dem Übereinkommen vom 2. Dezember
-  1972 über sichere Container
+Title: Kostenordnung für Maßnahmen nach dem Gesetz zu dem Übereinkommen vom 2. Dezember 1972 über sichere Container
 jurabk: CSCGKostO
 layout: default
 origslug: cscgkosto
@@ -44,7 +43,6 @@ Justizvergütungs- und -entschädigungsgesetz Anwendung.
 ## § 2 (weggefallen)
 
 
-
 ## § 3
 
 Diese Verordnung tritt hinsichtlich der Kosten für die Zulassung der
@@ -61,80 +59,14 @@ Der Bundesminister für Verkehr
 
 (Fundstelle: BGBl. II 2013, 1074 - 1075)
 
-*    *   Lfd. Nr.
-
-    *   Gebührentatbestand
-
-    *   Gebührenrahmen in Euro
-
-
-*    *   1
-
-    *   Zulassung neuer Container nach Baumuster nach Anlage I, Regel 4 des
-        Übereinkommens vom 2. Dezember 1972 über sichere Container (CSC) -
-        ohne Kosten der technischen Prüfung und Besichtigung -
-
-    *   100,— bis 250,—
-
-
-*    *   2
-
-    *   Einzelzulassung neuer Container nach Anlage I, Regel 8 des CSC - ohne
-        Kosten der technischen Prüfung und Besichtigung -
-
-    *   25,— bis 150,—
-
-
-*    *   3
-
-    *   Zulassung vorhandener Container nach Anlage I, Regel 9 Abs. 1 des CSC
-
-    *   25,— bis 250,—
-
-
-*    *   4
-
-    *   Zulassung vorhandener Container nach Anlage I, Regel 9 Abs. 2 des CSC
-        - ohne Kosten der technischen Prüfung und Besichtigung -
-
-    *   50,— bis 250,—
-
-
-*    *   5
-
-    *   Entziehung der Zulassung von Containern nach Artikel IV Abs. 5 des CSC
-        - ohne Kosten der technischen Prüfung und Besichtigung -
-
-    *   150,— bis 400,—
-
-
-*    *   6
-
-    *   Untersagung der Verwendung eines Containers nach Artikel 4 Abs. 1 Satz
-        2 und 3 des Gesetzes zu dem Übereinkommen vom 2. Dezember 1972 über
-        sichere Container
-
-    *   25,— bis 250,—
-
-
-*    *   7
-
-    *   Freigabe eines Containers, dessen Verwendung nach Artikel 4 Abs. 1
-        Satz 2 und 3 des Gesetzes zu dem Übereinkommen vom 2. Dezember 1972
-        über sichere Container untersagt wurde - ohne Kosten der technischen
-        Prüfung und Besichtigung -
-
-    *   25,— bis 250,—
-
-
-*    *   8
-
-    *   Genehmigung eines Programms der laufenden Überprüfung der Container
-        nach Artikel 5 Abs. 4 Satz 1 und 2 des Gesetzes zu dem Übereinkommen
-        vom 2. Dezember 1972 über sichere Container
-
-    *   150,— bis 250,—
-
-
-
+| Lfd. Nr. | Gebührentatbestand | Gebührenrahmen in Euro |
+| --- | --- | --- |
+| 1 | Zulassung neuer Container nach Baumuster nach Anlage I, Regel 4 des Übereinkommens vom 2. Dezember 1972 über sichere Container (CSC) - ohne Kosten der technischen Prüfung und Besichtigung - | 100,— bis 250,— |
+| 2 | Einzelzulassung neuer Container nach Anlage I, Regel 8 des CSC - ohne Kosten der technischen Prüfung und Besichtigung - | 25,— bis 150,— |
+| 3 | Zulassung vorhandener Container nach Anlage I, Regel 9 Abs. 1 des CSC | 25,— bis 250,— |
+| 4 | Zulassung vorhandener Container nach Anlage I, Regel 9 Abs. 2 des CSC - ohne Kosten der technischen Prüfung und Besichtigung - | 50,— bis 250,— |
+| 5 | Entziehung der Zulassung von Containern nach Artikel IV Abs. 5 des CSC - ohne Kosten der technischen Prüfung und Besichtigung - | 150,— bis 400,— |
+| 6 | Untersagung der Verwendung eines Containers nach Artikel 4 Abs. 1 Satz 2 und 3 des Gesetzes zu dem Übereinkommen vom 2. Dezember 1972 über sichere Container | 25,— bis 250,— |
+| 7 | Freigabe eines Containers, dessen Verwendung nach Artikel 4 Abs. 1 Satz 2 und 3 des Gesetzes zu dem Übereinkommen vom 2. Dezember 1972 über sichere Container untersagt wurde - ohne Kosten der technischen Prüfung und Besichtigung - | 25,— bis 250,— |
+| 8 | Genehmigung eines Programms der laufenden Überprüfung der Container nach Artikel 5 Abs. 4 Satz 1 und 2 des Gesetzes zu dem Übereinkommen vom 2. Dezember 1972 über sichere Container | 150,— bis 250,— |
 

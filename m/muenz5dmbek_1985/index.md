@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen
-  Mark (Gedenkmünze Europäisches Jahr der Musik 1985)
+Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Gedenkmünze Europäisches Jahr der Musik 1985)
 jurabk: Münz5DMBek 1985
 layout: default
 origslug: m_nz5dmbek_1985
@@ -17,7 +16,6 @@ Fundstelle
 :   BGBl I: 1985, 647
 
 
-
 ## (XXXX)
 
 (1) Auf Grund des § 6 des Gesetzes über die Ausprägung von
@@ -32,8 +30,8 @@ Stuttgart.
 
 (3) Die Münze besteht überwiegend aus einer Kupfer-Nickel-Legierung
 (75 Prozent Kupfer und 25 Prozent Nickel). Sie enthält einen
-Reinnickelkern. Der Durchmesser beträgt 29 Millimeter, das Gewicht 10
-Gramm.
+Reinnickelkern. Der Durchmesser beträgt 29 Millimeter, das Gewicht
+10 Gramm.
 
 (4) Das Gepräge auf beiden Seiten ist erhaben und wird von einem
 schützenden glatten Randstab umgeben.
@@ -42,20 +40,15 @@ schützenden glatten Randstab umgeben.
 in einem aus dem Mittelpunkt nach links unten herausgerückten Kreis,
 rechts davon zwei Noten. Über dem Emblem befindet sich die Aufschrift:
 
-*   "1985 EUROPÄISCHES JAHR DER MUSIK".
-
-
-
+-   "1985 EUROPÄISCHES JAHR DER MUSIK".
 
 (6) Die Wertseite trägt einen Adler in einem ebenfalls aus dem
-Mittelpunkt nach links unten herausgerückten Kreis, rechts davon die
-Wertziffer 5, darunter die Worte "DEUTSCHE MARK". Unter dem Wort
-"MARK" befindet sich das Münzzeichen "F" der Staatlichen Münze
+Mittelpunkt nach links unten herausgerückten Kreis, rechts davon
+die Wertziffer 5, darunter die Worte "DEUTSCHE MARK". Unter dem
+Wort "MARK" befindet sich das Münzzeichen "F" der Staatlichen Münze
 Stuttgart. Im oberen Teil ist die Aufschrift
 
-*   "1985 BUNDESREPUBLIK DEUTSCHLAND"
-
-
+-   "1985 BUNDESREPUBLIK DEUTSCHLAND"
 
 angebracht.
 
@@ -69,7 +62,9 @@ den Namen BERG und SCHÜTZ eine liegende Raute eingeprägt.
 (8) Der Entwurf der Münze stammt von Herwig Otto, Rodenbach.
 
 (9) Dies wird namens der Bundesregierung bekanntgemacht.
+
 Der Bundesminister der Finanzen
+
 Abbildung der Münze
 (Inhalt: Nicht darstellbare Abbildung,
 Fundstelle: BGBl I 1985, 647)

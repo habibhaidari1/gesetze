@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen
-  Mark (Gedenkmünze Friedrich der Große)
+Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Gedenkmünze Friedrich der Große)
 jurabk: Münz5DMBek 1986-09
 layout: default
 origslug: m_nz5dmbek_1986-09
@@ -17,7 +16,6 @@ Fundstelle
 :   BGBl I: 1986, 1525
 
 
-
 ## (XXXX)
 
 (1) Auf Grund des § 6 des Gesetzes über die Ausprägung von
@@ -32,8 +30,8 @@ Stück. Die Prägung erfolgt in der Staatlichen Münze Stuttgart.
 
 (3) Die Münze besteht überwiegend aus einer Kupfer-Nickel-Legierung
 (75 Prozent Kupfer und 25 Prozent Nickel). Sie enthält einen
-Reinnickelkern. Der Durchmesser beträgt 29 Millimeter, das Gewicht 10
-Gramm.
+Reinnickelkern. Der Durchmesser beträgt 29 Millimeter, das Gewicht
+10 Gramm.
 
 (4) Das Gepräge auf beiden Seiten ist erhaben und wird von einem
 schützenden glatten Randstab umgeben.
@@ -42,40 +40,29 @@ schützenden glatten Randstab umgeben.
 Profil mit Dreispitz und großem Ordensstern.
 Die Umschrift lautet:
 
-*    *   "FRIEDRICH DER GROSSE 1712 1786".
-
-
-
+| "FRIEDRICH DER GROSSE 1712 1786". |
+| --- |
 
 (6) Die Wertseite trägt einen Adler, die Jahreszahl 1986, das
 Münzzeichen "F" der Staatlichen Münze Stuttgart und die Umschrift:
 
-*   "BUNDESREPUBLIK DEUTSCHLAND
+-   "BUNDESREPUBLIK DEUTSCHLAND
 
-    *   5 DEUTSCHE MARK".
-
-
-
-
-
-
+    -   5 DEUTSCHE MARK".
 
 (7) Die Jahreszahl 1986 ist Teil der Umschrift und schließt sich dem
-Wort
-"MARK"              an. Links davon im Feld (zwischen Jahreszahl und
-Adler) befindet sich das Münzzeichen "F".
+Wort "MARK" an. Links davon im Feld (zwischen Jahreszahl und Adler)
+befindet sich das Münzzeichen "F".
 
-*   Der glatte Münzrand enthält die vertiefte Inschrift:
+-   Der glatte Münzrand enthält die vertiefte Inschrift:
 
     "ICH BIN DER ERSTE DIENER MEINES STAATES".
-
-
-
 
 (8) Zwischen Ende und Anfang der Randschrift ist ein fünfeckiger Stern
 eingeprägt.
 
 (9) Der Entwurf der Münze stammt von Carl Vezerfi-Clemm, München.
+
 Der Bundesminister der Finanzen
 
 

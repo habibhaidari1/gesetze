@@ -1,6 +1,5 @@
 ---
-Title: Gesetz über die Verbindung der informationstechnischen Netze des Bundes und
-  der Länder – Gesetz zur Ausführung von Artikel 91c Absatz 4 des Grundgesetzes –
+Title: Gesetz über die Verbindung der informationstechnischen Netze des Bundes und der Länder – Gesetz zur Ausführung von Artikel 91c Absatz 4 des Grundgesetzes –
 jurabk: IT-NetzG
 layout: default
 origslug: it-netzg
@@ -16,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 2702, 2706
 
-Geändert durch
-:   Art. 72 V v. 19.6.2020 I 1328
+Zuletzt geändert durch
+:   Art. 3 G v. 19.7.2024 I Nr. 245
 
 
 ## § 1 Gegenstand der Zusammenarbeit; Koordinierungsgremium
@@ -35,11 +34,7 @@ gehören als stimmberechtigte Mitglieder an:
 1.  die oder der Beauftragte der Bundesregierung für Informationstechnik
     als Vertreter des Bundes,
 
-
 2.  die zuständigen Vertreterinnen oder Vertreter der Länder.
-
-
-
 
 (3) Besteht aufgrund einer für den Bund und alle Länder wirksamen
 Vereinbarung nach Artikel 91c Absatz 2 des Grundgesetzes über die
@@ -55,7 +50,8 @@ ergänzend Anwendung, soweit sie diesem Gesetz nicht widersprechen.
 (1) Informationstechnische Netze im Sinne dieses Gesetzes sind die
 Gesamtheit von Übertragungssystemen und gegebenenfalls Vermittlungs-
 und Leitwegeinrichtungen sowie anderweitigen Ressourcen, die die
-Übertragung von Signalen ermöglichen. Ausgenommen sind Telemedien,
+Übertragung von Signalen ermöglichen. Ausgenommen sind digitale
+Dienste nach § 1 Absatz 4 Nummer 1 des Digitale-Dienste-Gesetzes,
 Rundfunk sowie Sprechfunk- und Telefonnetze.
 
 (2) Verbindungsnetz im Sinne dieses Gesetzes ist das
@@ -64,10 +60,20 @@ des Bundes und der Länder verbindet. Die Übergabepunkte zu den jeweils
 verbundenen Netzen werden gemeinsam vereinbart.
 
 
-## § 3 Datenaustausch über das Verbindungsnetz
+## § 3 Datenaustausch; Verordnungsermächtigung
 
-Der Datenaustausch zwischen dem Bund und den Ländern erfolgt über das
-Verbindungsnetz.
+(1) Der Datenaustausch zwischen dem Bund und den Ländern erfolgt über
+das Verbindungsnetz. Im Anwendungsbereich des Onlinezugangsgesetzes
+kann der Datenaustausch auch über andere Netze des Bundes,
+die einen dem beabsichtigten Datenaustausch entsprechenden IT-
+Sicherheitsstandard aufweisen, erfolgen.
+
+(2) Das Bundesministerium des Innern und für Heimat wird
+ermächtigt, nach Prüfung durch das Bundesamt für Sicherheit in der
+Informationstechnik und im Benehmen mit dem Koordinierungsgremium
+durch Rechtsverordnung ohne Zustimmung des Bundesrates andere Netze
+nach Absatz 1 sowie deren Anschlussklassen und IT-Sicherheitsstandards
+festzulegen.
 
 
 ## § 4 Beschlüsse über das Verbindungsnetz
@@ -78,23 +84,15 @@ Festlegungen:
 
 1.  die vom Verbindungsnetz zu erfüllenden Anforderungen,
 
-
 2.  die anzubietenden Anschlussklassen,
-
 
 3.  das Minimum anzubietender Dienste,
 
-
 4.  die Anschlussbedingungen,
-
 
 5.  die Höhe der Anschlusskosten sowie das Verfahren zu ihrer Ermittlung,
 
-
 6.  das Verfahren bei Eilentscheidungen.
-
-
-
 
 (2) Über Beschlüsse nach Absatz 1 entscheidet das
 Koordinierungsgremium auf Antrag des Bundes oder eines Viertels seiner
@@ -114,11 +112,11 @@ Landesverwaltung eine vom Bundesministerium des Innern, für Bau und
 Heimat zu bestimmende Bundesbehörde. Der Bund kann Unternehmen mit dem
 Aufbau und dem Betrieb des Verbindungsnetzes beauftragen.
 
-(2) Der Bund stellt die Vergabeunterlagen im Benehmen mit einem vom
-Koordinierungsgremium eingesetzten Arbeitsgremium aus drei
+(2) Der Bund stellt die Vergabeunterlagen im Benehmen mit einem
+vom Koordinierungsgremium eingesetzten Arbeitsgremium aus drei
 Ländervertretern fertig. Den Ländern wird zu ihrer Beteiligung
-rechtzeitig vor der Veröffentlichung der Vergabeunterlagen Einsicht in
-die Entwürfe der Vergabeunterlagen gewährt; dabei ist der Schutz
+rechtzeitig vor der Veröffentlichung der Vergabeunterlagen Einsicht
+in die Entwürfe der Vergabeunterlagen gewährt; dabei ist der Schutz
 vertraulicher Dokumente durch geeignete Maßnahmen sicherzustellen.
 
 
@@ -146,11 +144,14 @@ jeweiligen Anschluss ihres Netzes an das Verbindungsnetz.
 Festlegungen hinausgehen, zusätzliche Anschlusskosten, sind diese vom
 Bund zu tragen.
 
+(4) Für andere Netze des Bundes nach § 3 Absatz 1 Satz 2 gelten die
+Absätze 2 und 3 entsprechend.
+
 
 ## § 8 Übergangsregelung
 
-Den Übergang der gegenwärtig vom Deutschland Online Infrastruktur
-e. V. (DOI-Netz e. V.) wahrgenommenen Aufgaben auf den Bund nach
-diesem Gesetz einschließlich des Zeitpunkts des Übergangs legen Bund
-und Länder im DOI-Netz e. V. gemeinsam fest.
+Den Übergang der gegenwärtig vom Deutschland Online Infrastruktur e.
+V. (DOI-Netz e. V.) wahrgenommenen Aufgaben auf den Bund nach diesem
+Gesetz einschließlich des Zeitpunkts des Übergangs legen Bund und
+Länder im DOI-Netz e. V. gemeinsam fest.
 

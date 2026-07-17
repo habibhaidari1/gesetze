@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über den Vorbereitungsdienst für den mittleren nichttechnischen
-  Dienst in der allgemeinen und inneren Verwaltung des Bundes
+Title: Verordnung über den Vorbereitungsdienst für den mittleren nichttechnischen Dienst in der allgemeinen und inneren Verwaltung des Bundes
 jurabk: MntDAIVAPrV
 layout: default
 origslug: mntdaivaprv
@@ -17,13 +16,13 @@ Fundstelle
 :   BGBl I: 2012, 1554
 
 Zuletzt geändert durch
-:   Art. 4 V v. 22.7.2021 I 3552
+:   Art. 2 V v. 15.1.2025 I Nr. 18
 
 
 ## Eingangsformel
 
-Auf Grund des § 26 Absatz 1 Nummer 2 des Bundesbeamtengesetzes vom 5.
-Februar 2009 (BGBl. I S. 160) in Verbindung mit § 10 der
+Auf Grund des § 26 Absatz 1 Nummer 2 des Bundesbeamtengesetzes
+vom 5. Februar 2009 (BGBl. I S. 160) in Verbindung mit § 10 der
 Bundeslaufbahnverordnung vom 12. Februar 2009 (BGBl. I S. 284)
 verordnet das Bundesministerium des Innern:
 
@@ -37,13 +36,6 @@ Die Ausbildung und Prüfung nach dieser Verordnung sind der
 fachspezifische Vorbereitungsdienst für den mittleren nichttechnischen
 Dienst in der allgemeinen und inneren Verwaltung des Bundes. Der
 Vorbereitungsdienst dauert in der Regel 24 Monate.
-
-
-### § 1a Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie
-
-Von den bis zum 31. Dezember 2022 befristeten Sonderregelungen dieser
-Verordnung darf nur Gebrauch gemacht werden, wenn dies wegen der zur
-Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
 
 
 ### § 2 Ziele der Ausbildung
@@ -71,33 +63,29 @@ Behörden.
 
 ### § 4 Auswahlverfahren
 
-(1) Über die Einstellung entscheidet das Bundesverwaltungsamt auf der
-Grundlage eines Auswahlverfahrens, in dem festgestellt wird, ob die
-Bewerberinnen und Bewerber nach ihren Kenntnissen, Fähigkeiten und
-persönlichen Eigenschaften für den mittleren nichttechnischen
+(1) Über die Einstellung entscheidet das Bundesverwaltungsamt auf
+der Grundlage eines Auswahlverfahrens, in dem festgestellt wird, ob
+die Bewerberinnen und Bewerber nach ihren Kenntnissen, Fähigkeiten
+und persönlichen Eigenschaften für den mittleren nichttechnischen
 Verwaltungsdienst geeignet sind. Das Auswahlverfahren wird von einer
-Auswahlkommission durchgeführt und besteht aus einem schriftlichen und
-einem mündlichen Teil. Mit Zustimmung des Bundesministeriums des
-Innern, für Bau und Heimat kann anstelle des Bundesverwaltungsamts
-eine andere Behörde über die Einstellung entscheiden.
-
-(1a) Bis zum 31. Dezember 2022 kann für die Durchführung des
-mündlichen Teils Videokonferenztechnik genutzt werden, wenn dafür
-geeignete technische Einrichtungen zur Verfügung stehen.
+Auswahlkommission durchgeführt und besteht aus einem schriftlichen
+und einem mündlichen Teil. Mit Zustimmung des Bundesministeriums des
+Innern und für Heimat kann anstelle des Bundesverwaltungsamts eine
+andere Behörde über die Einstellung entscheiden.
 
 (2) Zum Auswahlverfahren wird zugelassen, wer nach den eingereichten
 Unterlagen die in der Ausschreibung bestimmten Voraussetzungen
 erfüllt. Übersteigt die Zahl der geeigneten Bewerberinnen und Bewerber
-das Dreifache der Zahl der Ausbildungsplätze, kann die Zahl der am
-Auswahlverfahren Teilnehmenden beschränkt werden, jedoch sind
+das Dreifache der Zahl der Ausbildungsplätze, kann die Zahl der
+am Auswahlverfahren Teilnehmenden beschränkt werden, jedoch sind
 mindestens dreimal so viele Bewerberinnen und Bewerber zuzulassen, wie
 Ausbildungsplätze angeboten werden. In diesem Fall wird zugelassen,
 wer nach den eingereichten Unterlagen am besten geeignet ist. Daneben
 werden schwerbehinderte und diesen gleichgestellte behinderte Menschen
 sowie ehemalige Soldatinnen auf Zeit und Soldaten auf Zeit mit
 Eingliederungs- oder Zulassungsschein zum Auswahlverfahren zugelassen,
-wenn sie die in der Ausschreibung genannten Voraussetzungen erfüllen.
-Die §§ 7 und 8 des Bundesgleichstellungsgesetzes sind zu
+wenn sie die in der Ausschreibung genannten Voraussetzungen
+erfüllen. Die §§ 7 und 8 des Bundesgleichstellungsgesetzes sind zu
 berücksichtigen.
 
 (3) Wer zum Auswahlverfahren nicht zugelassen wird oder daran
@@ -107,18 +95,12 @@ vernichten.
 
 (4) Die Auswahlkommission besteht aus:
 
-1.  einer Beamtin oder einem Beamten des höheren nichttechnischen
-    Verwaltungsdienstes des Bundes als Vorsitzender oder Vorsitzendem,
+1.  einer Beamtin oder einem Beamten des höheren oder gehobenen
+    nichttechnischen Verwaltungsdienstes des Bundes als Vorsitzender oder
+    Vorsitzendem und
 
-
-2.  einer Beamtin oder einem Beamten des höheren oder gehobenen
-    nichttechnischen Verwaltungsdienstes des Bundes und
-
-
-3.  einer Beamtin oder einem Beamten des gehobenen oder mittleren
+2.  einer Beamtin oder einem Beamten des gehobenen oder mittleren
     nichttechnischen Verwaltungsdienstes des Bundes.
-
-
 
 Je Auswahlkommission kann eine Tarifbeschäftigte oder ein
 Tarifbeschäftigter anstelle einer Beamtin oder eines Beamten zum
@@ -127,30 +109,14 @@ Kenntnisse verfügt. Mitglieder und Ersatzmitglieder der
 Auswahlkommission werden von der Einstellungsbehörde für die Dauer von
 drei Jahren bestellt. Wiederbestellung ist zulässig.
 
-(4a) Die Einstellungsbehörde kann festlegen, dass die
-Auswahlkommission bis zum 31. Dezember 2022 – abweichend von Absatz 4
-Satz 1 – nur aus folgenden Mitgliedern besteht:
-
-1.  einer Beamtin oder einem Beamten des höheren nichttechnischen
-    Verwaltungsdienstes des Bundes oder des gehobenen nichttechnischen
-    Verwaltungsdienstes des Bundes als Vorsitzender oder Vorsitzendem und
-
-
-2.  einer Beamtin oder einem Beamten des gehobenen nichttechnischen
-    Verwaltungsdienstes des Bundes oder des mittleren nichttechnischen
-    Verwaltungsdienstes des Bundes.
-
-
-
-
 (5) Die Mitglieder der Auswahlkommission sind unabhängig und nicht
 weisungsgebunden.
 
 (6) Die Auswahlkommission entscheidet mit Stimmenmehrheit. Eine
 Stimmenthaltung ist nicht zulässig.
 
-(7) Bei Bedarf können mehrere Auswahlkommissionen eingerichtet werden.
-In diesem Fall ist sicherzustellen, dass alle Kommissionen die
+(7) Bei Bedarf können mehrere Auswahlkommissionen eingerichtet
+werden. In diesem Fall ist sicherzustellen, dass alle Kommissionen die
 gleichen Auswahlmaßstäbe anlegen.
 
 
@@ -159,109 +125,24 @@ gleichen Auswahlmaßstäbe anlegen.
 (1) Die Leistungen der Anwärterinnen und Anwärter werden, soweit in
 dieser Verordnung nichts anderes bestimmt ist, wie folgt bewertet:
 
-*    *   Prozentualer Anteil
-        der erreichten Punktzahl
-        an der erreichbaren Punktzahl
-
-    *   Rangpunkte/
-        Rangpunktzahlen
-
-    *   Note
-
-
-*    *   93,70 bis 100,00
-
-    *   15
-
-    *   sehr gut
-
-
-*    *   87,50 bis  93,69
-
-    *   14
-
-
-*    *   83,40 bis  87,49
-
-    *   13
-
-    *   gut
-
-
-*    *   79,20 bis  83,39
-
-    *   12
-
-
-*    *   75,00 bis  79,19
-
-    *   11
-
-
-*    *   70,90 bis 74,99
-
-    *   10
-
-    *   befriedigend
-
-
-*    *   66,70 bis 70,89
-
-    *   9
-
-
-*    *   62,50 bis 66,69
-
-    *   8
-
-
-*    *   58,40 bis 62,49
-
-    *   7
-
-    *   ausreichend
-
-
-*    *   54,20 bis 58,39
-
-    *   6
-
-
-*    *   50,00 bis 54,19
-
-    *   5
-
-
-*    *   41,70 bis 49,99
-
-    *   4
-
-    *   mangelhaft
-
-
-*    *   33,40 bis 41,69
-
-    *   3
-
-
-*    *   25,00 bis 33,39
-
-    *   2
-
-
-*    *   12,50 bis 24,99
-
-    *   1
-
-    *   ungenügend
-
-
-*    *   00,00 bis 12,49
-
-    *   0
-
-
-
+| Prozentualer Anteil der erreichten Punktzahl an der erreichbaren Punktzahl | Rangpunkte/ Rangpunktzahlen | Note |
+| --- | --- | --- |
+| 93,70 bis 100,00 | 15 | sehr gut |
+| 87,50 bis 93,69 | 14 |  |
+| 83,40 bis 87,49 | 13 | gut |
+| 79,20 bis 83,39 | 12 |  |
+| 75,00 bis 79,19 | 11 |  |
+| 70,90 bis 74,99 | 10 | befriedigend |
+| 66,70 bis 70,89 | 9 |  |
+| 62,50 bis 66,69 | 8 |  |
+| 58,40 bis 62,49 | 7 | ausreichend |
+| 54,20 bis 58,39 | 6 |  |
+| 50,00 bis 54,19 | 5 |  |
+| 41,70 bis 49,99 | 4 | mangelhaft |
+| 33,40 bis 41,69 | 3 |  |
+| 25,00 bis 33,39 | 2 |  |
+| 12,50 bis 24,99 | 1 | ungenügend |
+| 00,00 bis 12,49 | 0 |  |
 
 (2) Bei der zusammenfassenden Bewertung von Leistungen werden, soweit
 in dieser Verordnung nichts anderes bestimmt ist, Rangpunktzahlen auf
@@ -270,8 +151,8 @@ zwei Nachkommastellen ohne Rundung berechnet.
 
 ### § 6 Urlaub
 
-Erholungsurlaub soll nur während der berufspraktischen Ausbildung (§
-10) gewährt werden. Die Zeiten des Erholungsurlaubs bestimmt das
+Erholungsurlaub soll nur während der berufspraktischen Ausbildung
+(§ 10) gewährt werden. Die Zeiten des Erholungsurlaubs bestimmt das
 Bundesverwaltungsamt.
 
 
@@ -285,184 +166,78 @@ Abschnitte (Lehrgänge) und berufspraktische Abschnitte (Praktika). Bei
 der berufspraktischen Ausbildung wird das Bundesverwaltungsamt durch
 Behörden des Bundes und der Kommunen unterstützt.
 
-(1a) Bis zum 31. Dezember 2022 können für einzelne oder alle
-Lehrveranstaltungen digitale Lehrformate genutzt werden.
+(2) Für einzelne oder alle Lehrveranstaltungen können digitale
+Lehrformate genutzt werden.
 
-(2) Die Ausbildung gliedert sich in folgende Abschnitte:
+(3) Die Ausbildung gliedert sich in folgende Abschnitte:
 
-*    *
-    *   Ausbildungsabschnitt
+|  | Ausbildungsabschnitt | Behörde | Dauer |
+| --- | --- | --- | --- |
+| 1 | Einführungslehrgang | Bundesverwaltungsamt | 2 Monate |
+| 2 | Praktikum I | Bundesbehörde | 5 Monate |
+| 3 | Zwischenlehrgang | Bundesverwaltungsamt | 3 Monate |
+| 4 | Praktikum II | Kommunalbehörde | 3 Monate |
+| 5 | Praktikum III | Bundesbehörde | 6 Monate |
+| 6 | Abschlusslehrgang | Bundesverwaltungsamt | 5 Monate |
 
-    *   Behörde
-
-    *   Dauer
-
-
-*    *   1
-
-    *   Einführungslehrgang
-
-    *   Bundesverwaltungsamt
-
-    *   2 Monate
-
-
-*    *   2
-
-    *   Praktikum I
-
-    *   Bundesbehörde
-
-    *   5 Monate
-
-
-*    *   3
-
-    *   Zwischenlehrgang
-
-    *   Bundesverwaltungsamt
-
-    *   3 Monate
-
-
-*    *   4
-
-    *   Praktikum II
-
-    *   Kommunalbehörde
-
-    *   3 Monate
-
-
-*    *   5
-
-    *   Praktikum III
-
-    *   Bundesbehörde
-
-    *   6 Monate
-
-
-*    *   6
-
-    *   Abschlusslehrgang
-
-    *   Bundesverwaltungsamt
-
-    *   5 Monate
-
-
-
-
-(3) Das Bundesverwaltungsamt kann festlegen, dass bis zum 31. Dezember
-2022 das Praktikum II – abweichend von Absatz 2 – in einer
-Bundesbehörde absolviert wird.
-
-(4) Das Bundesverwaltungsamt kann mit Zustimmung des
-Bundesministeriums des Innern, für Bau und Heimat festlegen, dass bis
-zum 31. Dezember 2022 die Ausbildungsabschnitte – abweichend von
-Absatz 2 –
-
-1.  anders gegliedert werden,
-
-
-2.  in einer anderen Abfolge durchgeführt werden und
-
-
-3.  eine andere Dauer haben.
-
-
-
+(4) Das Bundesverwaltungsamt kann festlegen, dass das Praktikum II –
+abweichend von Absatz 2 – in einer Bundesbehörde absolviert wird.
 
 
 ### § 8 Inhalt der fachtheoretischen Ausbildung
 
-(1) Die fachtheoretische Ausbildung umfasst mindestens 1 090
-Lehrstunden. Davon entfallen mindestens 210 Lehrstunden auf den
-Einführungslehrgang, mindestens 320 Lehrstunden auf den
-Zwischenlehrgang und mindestens 540 Lehrstunden auf den
+(1) Die fachtheoretische Ausbildung umfasst mindestens 1
+090 Lehrstunden. Davon entfallen mindestens 210 Lehrstunden
+auf den Einführungslehrgang, mindestens 320 Lehrstunden auf
+den Zwischenlehrgang und mindestens 540 Lehrstunden auf den
 Abschlusslehrgang.
-
-(1a) Das Bundesverwaltungsamt kann festlegen, dass bis zum 31.
-Dezember 2022 die Lehrstunden – abweichend von Absatz 1 Satz 2 –
-anders auf die Ausbildungsabschnitte verteilt werden.
 
 (2) Die fachtheoretische Ausbildung erstreckt sich auf folgende
 Fachgebiete:
 
 1.  Staats- und Verfassungsrecht,
 
-
 2.  Verwaltungsrecht,
 
-
 3.  bürgerliches Recht,
-
 
 4.  Recht des öffentlichen Dienstes, insbesondere
 
     a)  allgemeines Beamtenrecht,
 
-
     b)  Besoldungsrecht,
-
 
     c)  Beihilferecht,
 
-
     d)  Reisekostenrecht,
-
 
     e)  Arbeits- und Tarifrecht,
 
-
     f)  Personalvertretungsrecht,
-
-
-
-
 
 5.  öffentliche Finanzwirtschaft, insbesondere
 
     a)  Haushalts- und Rechnungswesen,
 
-
     b)  Kassenrecht,
-
 
     c)  Kosten- und Leistungsrechnung,
 
-
     d)  Controlling,
-
-
-
-
 
 6.  Organisation der Bundesverwaltung, insbesondere
 
     a)  Aufbau der Bundesverwaltung,
 
-
     b)  innerbehördliche Organisation,
-
-
-
-
 
 7.  Informationstechnik,
 
-
 8.  Vergaberecht,
-
 
 9.  Kommunikation und Kooperation,
 
-
 10. Gesundheitsmanagement.
-
-
-
 
 (3) Das Bundesverwaltungsamt erstellt Lehrpläne, in denen die
 Lerninhalte der Fachgebiete, die Stundenzahl und die Art der zu
@@ -477,35 +252,23 @@ Leistungstests zu erbringen:
 
 1.  im Einführungslehrgang zwei schriftliche Leistungstests,
 
-
 2.  im Zwischenlehrgang drei schriftliche Leistungstests,
-
 
 3.  im Abschlusslehrgang
 
     a)  fünf schriftliche Leistungstests und
 
-
     b)  zwei schriftliche oder mündliche Leistungstests.
-
-
-
-
-
 
 Die Inhalte der Leistungstests berücksichtigen die Schwerpunktsetzung
 in der Zwischenprüfung und in der Abschlussprüfung.
 
-(1a) Bis zum 31. Dezember 2022 können schriftliche Leistungstests mit
-Unterstützung durch Informationstechnik durchgeführt werden.
+(2) Schriftliche Leistungstests können mit Unterstützung durch
+Informationstechnik durchgeführt werden.
 
-(1b) Das Bundesverwaltungsamt kann festlegen, dass bis zum 31.
-Dezember 2022 – abweichend von Absatz 1 Satz 1 – weniger
-Leistungstests zu absolvieren sind.
+(3) Leistungstests werden mindestens eine Woche im Voraus angekündigt.
 
-(2) Leistungstests werden mindestens eine Woche im Voraus angekündigt.
-
-(3) Wer an einem Leistungstest nicht teilnehmen kann, erhält
+(4) Wer an einem Leistungstest nicht teilnehmen kann, erhält
 Gelegenheit, ihn nachzuholen. Wird der Leistungstest ohne wichtigen
 Grund nicht bis zum ersten Tag der schriftlichen Abschlussprüfung (§
 18) erbracht, gilt er als mit null Rangpunkten bewertet.
@@ -518,12 +281,12 @@ Organisation der berufspraktischen Ausbildung. Es erstellt für jede
 Anwärterin und jeden Anwärter einen Ausbildungsplan und gibt ihn der
 Anwärterin oder dem Anwärter bekannt.
 
-(2) Jede Behörde, in der die berufspraktische Ausbildung stattfindet,
-bestellt im Einvernehmen mit dem Bundesverwaltungsamt eine Beamtin
-oder einen Beamten als Ausbildungsverantwortliche oder
-Ausbildungsverantwortlichen und eine Vertretung. Die
-Ausbildungsverantwortlichen sind für die konzeptionelle Gestaltung und
-Organisation des Praktikums innerhalb ihrer Behörde zuständig und
+(2) Jede Behörde, in der die berufspraktische Ausbildung
+stattfindet, bestellt im Einvernehmen mit dem Bundesverwaltungsamt
+eine Beamtin oder einen Beamten als Ausbildungsverantwortliche
+oder Ausbildungsverantwortlichen und eine Vertretung. Die
+Ausbildungsverantwortlichen sind für die konzeptionelle Gestaltung
+und Organisation des Praktikums innerhalb ihrer Behörde zuständig und
 stellen eine sorgfältige Ausbildung der Anwärterinnen und Anwärter
 sicher. Sie beraten die Ausbildenden sowie die Anwärterinnen und
 Anwärter. Jedes Praktikum kann in mehrere Teile aufgeteilt werden.
@@ -532,8 +295,8 @@ dauert.
 
 (3) Den Ausbildenden dürfen nicht mehr Anwärterinnen und Anwärter
 zugewiesen werden, als sie mit Sorgfalt ausbilden können. Sie werden
-von anderen Dienstgeschäften entlastet, soweit dies erforderlich ist.
-Die Ausbildenden informieren die Ausbildungsverantwortlichen
+von anderen Dienstgeschäften entlastet, soweit dies erforderlich
+ist. Die Ausbildenden informieren die Ausbildungsverantwortlichen
 regelmäßig über den erreichten Ausbildungsstand.
 
 
@@ -544,12 +307,8 @@ vertraut gemacht mit
 
 1.  adressatenorientiertem Verwaltungshandeln und
 
-
 2.  den Aufgaben der inneren Verwaltung des Bundes, die den Fachgebieten
     nach § 8 Absatz 2 Nummer 4 bis 8 zugeordnet werden können.
-
-
-
 
 (2) Während des Praktikums II erhalten die Anwärterinnen und Anwärter
 einen Überblick über die Verwaltungsaufgaben der Kommunalbehörde und
@@ -572,13 +331,13 @@ Praktikums III fachbezogen ausgebildet werden.
 
 ### § 12 Bewertungen während der berufspraktischen Ausbildung
 
-(1) Am Ende jedes Praktikums oder Praktikumteils erstellt der oder die
-zuständige Ausbildende unter Beteiligung der oder des
+(1) Am Ende jedes Praktikums oder Praktikumteils erstellt der
+oder die zuständige Ausbildende unter Beteiligung der oder des
 Ausbildungsverantwortlichen für jede Anwärterin und jeden Anwärter
 eine dienstliche Bewertung, die die wesentlichen Leistungs-, Eignungs-
 und Befähigungsmerkmale enthält und in der der Ausbildungserfolg
-bewertet wird. Wenn nichts anderes bestimmt wird, gilt § 5. Gibt es
-innerhalb eines Praktikums mehrere bewertete Teile, wird das
+bewertet wird. Wenn nichts anderes bestimmt wird, gilt § 5. Gibt
+es innerhalb eines Praktikums mehrere bewertete Teile, wird das
 arithmetische Mittel der Bewertungen gebildet.
 
 (2) Die Bewertung ist der Anwärterin oder dem Anwärter bekannt zu
@@ -614,35 +373,25 @@ das insbesondere
 1.  Prüfungskommissionen für die Zwischenprüfung und die Abschlussprüfung
     einrichtet und deren Mitglieder bestellt,
 
-
 2.  Bewertungsmaßstäbe entwickelt und sicherstellt, dass diese bei allen
     Anwärterinnen und Anwärtern in gleicher Weise angelegt werden,
-
 
 3.  die Aufgaben für die Zwischenprüfung und die schriftliche
     Abschlussprüfung bestimmt,
 
-
 4.  die bei den Prüfungen zulässigen Hilfsmittel festlegt,
 
-
-5.  über die Gewährung eines Nachteilsausgleichs bei Anwärterinnen und
-    Anwärtern mit Beeinträchtigungen, die die Umsetzung der
+5.  über die Gewährung eines Nachteilsausgleichs bei Anwärterinnen
+    und Anwärtern mit Beeinträchtigungen, die die Umsetzung der
     nachzuweisenden Kenntnisse einschränken, entscheidet,
-
 
 6.  über die Zulassung zur schriftlichen und mündlichen Abschlussprüfung
     entscheidet,
 
-
 7.  die Entscheidungen der Prüfungskommissionen vollzieht und
-
 
 8.  die Zeugnisse für die Zwischenprüfung und die Abschlusszeugnisse
     erstellt.
-
-
-
 
 
 ### § 15 Prüfungskommission, Prüfende
@@ -652,11 +401,8 @@ das insbesondere
 1.  einer Beamtin oder einem Beamten des höheren Verwaltungsdienstes als
     Vorsitzender oder Vorsitzendem und
 
-
 2.  zwei Beamtinnen oder Beamten des gehobenen Dienstes in der allgemeinen
     und inneren Verwaltung des Bundes als Beisitzenden.
-
-
 
 Eine oder einer der Beisitzenden kann Tarifbeschäftigte oder
 Tarifbeschäftigter sein, sofern sie oder er über vergleichbare
@@ -672,9 +418,9 @@ Stimmenthaltung ist nicht zulässig.
 (4) Jede Klausur wird von zwei Prüfenden bewertet. Das Prüfungsamt
 legt fest, wer Erstprüferin oder Erstprüfer und wer Zweitprüferin oder
 Zweitprüfer ist. Die Zweitprüferin oder der Zweitprüfer darf Kenntnis
-von der Bewertung der Erstprüferin oder des Erstprüfers haben. Weichen
-die Bewertungen voneinander ab, ist zunächst eine Einigung zwischen
-den Prüfenden anzustreben; einigen sich die Prüfenden nicht,
+von der Bewertung der Erstprüferin oder des Erstprüfers haben.
+Weichen die Bewertungen voneinander ab, ist zunächst eine Einigung
+zwischen den Prüfenden anzustreben; einigen sich die Prüfenden nicht,
 entscheidet die Prüfungskommission mit Stimmenmehrheit.
 
 
@@ -687,23 +433,17 @@ besteht aus:
 
 1.  der Zwischenprüfung,
 
-
 2.  den Leistungstests der fachtheoretischen Ausbildung,
 
-
 3.  den Bewertungen in der berufspraktischen Ausbildung sowie
-
 
 4.  der schriftlichen und der mündlichen Abschlussprüfung.
 
 
-
-
-
 ### § 17 Zwischenprüfung
 
-(1) Zum Abschluss des Zwischenlehrgangs haben die Anwärterinnen und
-Anwärter in einer Zwischenprüfung nachzuweisen, dass sie einen
+(1) Zum Abschluss des Zwischenlehrgangs haben die Anwärterinnen
+und Anwärter in einer Zwischenprüfung nachzuweisen, dass sie einen
 Wissens- und Kenntnisstand erreicht haben, der eine erfolgreiche
 weitere Ausbildung erwarten lässt.
 
@@ -711,8 +451,8 @@ weitere Ausbildung erwarten lässt.
 Aufgabenschwerpunkte werden aus den Fachgebieten nach § 8 Absatz 2
 Nummer 4 bis 8 ausgewählt.
 
-(3) Die Bearbeitungszeit für jede Klausur beträgt 180 Minuten. Die
-Klausuren werden an drei aufeinanderfolgenden Arbeitstagen
+(3) Die Bearbeitungszeit für jede Klausur beträgt 180 Minuten.
+Die Klausuren werden an drei aufeinanderfolgenden Arbeitstagen
 geschrieben.
 
 (4) Es ist für jede Klausur anzugeben, welche Hilfsmittel benutzt
@@ -725,9 +465,9 @@ versehen.
 Klausuren mindestens fünf Rangpunkte und in allen drei Klausuren eine
 Durchschnittsrangpunktzahl von mindestens 5 erreicht hat.
 
-(7) Wer die Zwischenprüfung bestanden hat, erhält vom Prüfungsamt ein
-Zeugnis, das zumindest die Durchschnittsrangpunktzahl und die Note
-enthält. Wer die Zwischenprüfung nicht bestanden hat, erhält vom
+(7) Wer die Zwischenprüfung bestanden hat, erhält vom Prüfungsamt
+ein Zeugnis, das zumindest die Durchschnittsrangpunktzahl und die
+Note enthält. Wer die Zwischenprüfung nicht bestanden hat, erhält vom
 Prüfungsamt einen Bescheid über die nicht bestandene Zwischenprüfung
 und eine Bescheinigung über die erbrachten Ausbildungsleistungen.
 
@@ -761,18 +501,11 @@ rechtzeitig abgegeben, gilt diese als mit null Rangpunkten bewertet.
 Anwärter die in den in § 8 Absatz 2 genannten Fachgebieten erworbenen
 Kenntnisse nachzuweisen.
 
-(1a) Mit Zustimmung des Bundesministeriums des Innern, für Bau und
-Heimat kann das Bundesverwaltungsamt festlegen, dass bis zum 31.
-Dezember 2022 auf die Durchführung der mündlichen Abschlussprüfung
-verzichtet wird, wenn nicht gewährleistet werden kann, dass die
-Durchführung ohne Verstöße gegen ordnungsrechtliche Vorgaben zur
-Bewältigung der COVID-19-Pandemie erfolgt.
-
 (2) Zur mündlichen Abschlussprüfung wird zugelassen, wer in mindestens
-drei Klausuren der schriftlichen Abschlussprüfung mindestens fünf
-Rangpunkte und insgesamt eine Durchschnittsrangpunktzahl von
-mindestens 5 erreicht hat. Den Anwärterinnen und Anwärtern wird
-rechtzeitig schriftlich mitgeteilt, ob sie zur mündlichen
+drei Klausuren der schriftlichen Abschlussprüfung mindestens
+fünf Rangpunkte und insgesamt eine Durchschnittsrangpunktzahl
+von mindestens 5 erreicht hat. Den Anwärterinnen und Anwärtern
+wird rechtzeitig schriftlich mitgeteilt, ob sie zur mündlichen
 Abschlussprüfung zugelassen werden oder nicht.
 
 (3) Die Dauer der mündlichen Abschlussprüfung darf 30 Minuten je
@@ -780,8 +513,8 @@ Anwärterin oder Anwärter nicht unterschreiten und soll 40 Minuten
 nicht überschreiten. Bei Gruppenprüfungen sollen nicht mehr als fünf
 Anwärterinnen und Anwärter gleichzeitig geprüft werden.
 
-(4) Die Prüfungskommission bewertet die Leistungen. Auf Vorschlag der
-Fachprüferin oder des Fachprüfers bewertet die Prüfungskommission
+(4) Die Prüfungskommission bewertet die Leistungen. Auf Vorschlag
+der Fachprüferin oder des Fachprüfers bewertet die Prüfungskommission
 einvernehmlich die Prüfungsleistung des jeweiligen Fachgebiets. Das
 Ergebnis der mündlichen Abschlussprüfung wird aus dem Durchschnitt der
 Bewertungen für die einzelnen Fachgebiete gebildet.
@@ -789,8 +522,8 @@ Bewertungen für die einzelnen Fachgebiete gebildet.
 (5) Die mündliche Abschlussprüfung ist nicht öffentlich. Angehörige
 des Prüfungsamts können unabhängig vom Einverständnis der
 Anwärterinnen und Anwärter anwesend sein. Das Prüfungsamt kann
-Vertreterinnen und Vertretern des Bundesministeriums des Innern, für
-Bau und Heimat und des Bundesverwaltungsamts, die mit der Ausbildung
+Vertreterinnen und Vertretern des Bundesministeriums des Innern und
+für Heimat und des Bundesverwaltungsamts, die mit der Ausbildung
 befasst sind, die Anwesenheit allgemein oder im Einzelfall gestatten.
 In Ausnahmefällen kann auch anderen mit der Ausbildung befassten
 Personen die Anwesenheit gestattet werden, wenn die Anwärterin oder
@@ -802,8 +535,8 @@ sein.
 
 (6) Über die mündliche Abschlussprüfung fertigt die oder der
 Vorsitzende der Prüfungskommission ein Protokoll an, aus dem die
-wesentlichen Umstände der Prüfung und die Bewertung hervorgehen. Das
-Protokoll ist von allen Mitgliedern der Prüfungskommission zu
+wesentlichen Umstände der Prüfung und die Bewertung hervorgehen.
+Das Protokoll ist von allen Mitgliedern der Prüfungskommission zu
 bestätigen.
 
 (7) Die mündliche Abschlussprüfung muss bis zum Ende des
@@ -818,12 +551,12 @@ Prüfungsamts gilt diese Prüfung oder dieser Prüfungsteil als nicht
 bestanden.
 
 (2) Wird das Fernbleiben oder der Rücktritt genehmigt, gilt die
-Prüfung oder der Prüfungsteil als nicht begonnen. Die Genehmigung darf
-nur erteilt werden, wenn wichtige Gründe vorliegen. Bei Erkrankung
-kann die Genehmigung grundsätzlich nur erteilt werden, wenn
-unverzüglich ein ärztliches Attest vorgelegt wird. Auf Verlangen des
-Prüfungsamts ist ein amtsärztliches Attest oder das Zeugnis einer
-Ärztin oder eines Arztes vorzulegen, die oder der vom
+Prüfung oder der Prüfungsteil als nicht begonnen. Die Genehmigung
+darf nur erteilt werden, wenn wichtige Gründe vorliegen. Bei
+Erkrankung kann die Genehmigung grundsätzlich nur erteilt werden,
+wenn unverzüglich ein ärztliches Attest vorgelegt wird. Auf
+Verlangen des Prüfungsamts ist ein amtsärztliches Attest oder das
+Zeugnis einer Ärztin oder eines Arztes vorzulegen, die oder der vom
 Bundesverwaltungsamt beauftragt worden ist.
 
 (3) Das Prüfungsamt bestimmt, wann die Prüfung oder der Prüfungsteil
@@ -854,9 +587,9 @@ anordnen, den betreffenden Teil der Prüfung mit null Rangpunkten
 bewerten, die Prüfung insgesamt für nicht bestanden erklären oder die
 Laufbahnprüfung für endgültig nicht bestanden erklären.
 
-(4) Wird eine Täuschung erst nach Beendigung einer Prüfung oder eines
-Prüfungsteils festgestellt, sind die Absätze 2 und 3 entsprechend
-anzuwenden. Wird eine Täuschung erst nach Abschluss der
+(4) Wird eine Täuschung erst nach Beendigung einer Prüfung
+oder eines Prüfungsteils festgestellt, sind die Absätze 2 und 3
+entsprechend anzuwenden. Wird eine Täuschung erst nach Abschluss der
 Laufbahnprüfung festgestellt, kann das Prüfungsamt die Laufbahnprüfung
 innerhalb von fünf Jahren nach dem Tag der mündlichen Abschlussprüfung
 für nicht bestanden erklären.
@@ -871,20 +604,20 @@ für nicht bestanden erklären.
 Abschlussprüfung können jeweils einmal wiederholt werden.
 
 (2) Die Zwischenprüfung kann frühestens zwei Monate nach Bekanntgabe
-des Ergebnisses der Zwischenprüfung und spätestens bis zum Beginn des
-Abschlusslehrgangs wiederholt werden. Die Zwischenprüfung ist
+des Ergebnisses der Zwischenprüfung und spätestens bis zum Beginn
+des Abschlusslehrgangs wiederholt werden. Die Zwischenprüfung ist
 vollständig zu wiederholen. Die weitere Ausbildung wird wegen der
 Wiederholung der Zwischenprüfung nicht ausgesetzt.
 
-(3) Erfolgt keine Zulassung zur mündlichen Abschlussprüfung oder ist
-die Laufbahnprüfung nicht bestanden, kann die Abschlussprüfung
+(3) Erfolgt keine Zulassung zur mündlichen Abschlussprüfung oder
+ist die Laufbahnprüfung nicht bestanden, kann die Abschlussprüfung
 wiederholt werden. Das Prüfungsamt entscheidet auf Vorschlag der
 Prüfungskommission über die Wiederholungsfrist, die zu wiederholenden
 Teile der Ausbildung und die zu erbringenden Leistungstests. Die
-Wiederholungsfrist beträgt mindestens drei Monate nach Bekanntgabe des
-Nichtbestehens der Laufbahnprüfung und soll höchstens zwölf Monate
-betragen. Die Abschlussprüfung ist vollständig zu wiederholen. Der
-Vorbereitungsdienst wird bis zum Ablauf der Wiederholungsfrist
+Wiederholungsfrist beträgt mindestens drei Monate nach Bekanntgabe
+des Nichtbestehens der Laufbahnprüfung und soll höchstens zwölf
+Monate betragen. Die Abschlussprüfung ist vollständig zu wiederholen.
+Der Vorbereitungsdienst wird bis zum Ablauf der Wiederholungsfrist
 verlängert.
 
 (4) Eine bestandene Prüfung kann nicht wiederholt werden.
@@ -893,74 +626,36 @@ verlängert.
 ### § 23 Bestehen der Laufbahnprüfung, Abschlussnote
 
 (1) Die Laufbahnprüfung ist bestanden, wenn in der mündlichen
-Abschlussprüfung eine Durchschnittsrangpunktzahl von mindestens 5 und
-im Gesamtergebnis eine Rangpunktzahl der Laufbahnprüfung von
+Abschlussprüfung eine Durchschnittsrangpunktzahl von mindestens 5
+und im Gesamtergebnis eine Rangpunktzahl der Laufbahnprüfung von
 mindestens 5 erreicht worden ist.
 
-(2a) Ist festgelegt worden, dass auf die mündliche Abschlussprüfung
-verzichtet wird, so wird bei der Berechnung der Rangpunktzahl der
-Laufbahnprüfung die Bewertung der mündlichen Abschlussprüfung ersetzt
-durch das arithmetische Mittel aus den Bewertungen aller in der
-Ausbildung erbrachten Leistungen.
-
-(2) Die Rangpunktzahl der Laufbahnprüfung wird von der oder dem
-Vorsitzenden der Prüfungskommission im Anschluss an die mündliche
-Abschlussprüfung ermittelt. Sie wird aus den
-Durchschnittsrangpunktzahlen der Zwischenprüfung, der
+(2) Die Rangpunktzahl der Laufbahnprüfung wird von der
+oder dem Vorsitzenden der Prüfungskommission im Anschluss
+an die mündliche Abschlussprüfung ermittelt. Sie wird aus
+den Durchschnittsrangpunktzahlen der Zwischenprüfung, der
 fachtheoretischen Ausbildung und der berufspraktischen Ausbildung
 sowie aus den Bewertungen der Klausuren der schriftlichen
 Abschlussprüfung und aus der Bewertung der mündlichen Abschlussprüfung
 errechnet; diese sind wie folgt zu gewichten:
 
-1.
-    *        *   die fachtheoretische Ausbildung mit
+1.  | die fachtheoretische Ausbildung mit | 10 Prozent, |
+    | --- | --- |
 
-        *   10 Prozent,
+2.  | die berufspraktische Ausbildung mit | 10 Prozent, |
+    | --- | --- |
 
+3.  | die Zwischenprüfung mit | 5 Prozent, |
+    | --- | --- |
 
+4.  | jede Klausur der schriftlichen Abschlussprüfung mit | 10 Prozent, |
+    | --- | --- |
 
+5.  | die mündliche Abschlussprüfung mit | 25 Prozent. |
+    | --- | --- |
 
-
-2.
-    *        *   die berufspraktische Ausbildung mit
-
-        *   10 Prozent,
-
-
-
-
-
-3.
-    *        *   die Zwischenprüfung mit
-
-        *   5 Prozent,
-
-
-
-
-
-4.
-    *        *   jede Klausur der schriftlichen
-            Abschlussprüfung mit
-
-        *   10 Prozent,
-
-
-
-
-
-5.
-    *        *   die mündliche Abschlussprüfung mit
-
-        *   25 Prozent.
-
-
-
-
-
-
-Ist die Laufbahnprüfung bestanden, wird die Rangpunktzahl der
-Laufbahnprüfung für die Ermittlung der Abschlussnote bei
+Ist die Laufbahnprüfung bestanden, wird die Rangpunktzahl
+der Laufbahnprüfung für die Ermittlung der Abschlussnote bei
 Nachkommawerten ab 50 aufgerundet und bei kleineren Nachkommawerten
 abgerundet.
 
@@ -980,11 +675,7 @@ Abschlusszeugnis.
     für den mittleren nichttechnischen Verwaltungsdienst des Bundes
     erlangt hat,
 
-
 2.  die Abschlussnote und die Rangpunktzahl der Laufbahnprüfung.
-
-
-
 
 (3) Wer die Laufbahnprüfung nicht bestanden hat, erhält vom
 Prüfungsamt einen Bescheid über die nicht bestandene Laufbahnprüfung
@@ -998,17 +689,12 @@ und eine Bescheinigung über die erbrachten Ausbildungsleistungen.
 1.  eine Ausfertigung des Zeugnisses über die Zwischenprüfung oder des
     Bescheids über die nicht bestandene Zwischenprüfung (§ 17),
 
-
 2.  eine Ausfertigung des zusammenfassenden Zeugnisses (§ 13),
-
 
 3.  die Anlage zur Niederschrift der Laufbahnprüfung und
 
-
 4.  eine Ausfertigung des Abschlusszeugnisses oder des Bescheids über die
     nicht bestandene Laufbahnprüfung (§ 24).
-
-
 
 Die Prüfungsakten werden nach Beendigung des Vorbereitungsdienstes
 beim Bundesverwaltungsamt mindestens fünf Jahre aufbewahrt. Sie sind
@@ -1038,9 +724,9 @@ ist, weiter anzuwenden.
 
 ### § 27 Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am 1. August 2012 in Kraft. Gleichzeitig tritt
-die Verordnung über die Laufbahn, Ausbildung und Prüfung für den
-mittleren nichttechnischen Dienst in der allgemeinen und inneren
+Diese Verordnung tritt am 1. August 2012 in Kraft. Gleichzeitig
+tritt die Verordnung über die Laufbahn, Ausbildung und Prüfung für
+den mittleren nichttechnischen Dienst in der allgemeinen und inneren
 Verwaltung des Bundes vom 8. Oktober 2001 (BGBl. I S. 2612), die
 zuletzt durch Artikel 3 Absatz 7 der Verordnung vom 12. Februar 2009
 (BGBl. I S. 320) geändert worden ist, außer Kraft.

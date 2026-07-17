@@ -1,7 +1,5 @@
 ---
-Title: Staatsvertrag über die abschließende Aufteilung des Finanzvermögens gemäß Artikel
-  22 des Einigungsvertrages zwischen dem Bund, den neuen Ländern und dem Land Berlin
-  (Finanzvermögen-Staatsvertrag)
+Title: Staatsvertrag über die abschließende Aufteilung des Finanzvermögens gemäß Artikel 22 des Einigungsvertrages zwischen dem Bund, den neuen Ländern und dem Land Berlin (Finanzvermögen-Staatsvertrag)
 jurabk: FinVermStVtr
 layout: default
 origslug: finvermstvtr
@@ -17,17 +15,21 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2013, 1859
 
-Stand: Der Staatsvertrag ist gem. Art. 9 Satz 2 iVm Bek. v. 8.7.2013 I 2236 am 4.7.2013 in Kraft getreten
+Stand
+:   Der Staatsvertrag ist gem. Art. 9 Satz 2 iVm Bek. v. 8.7.2013 I 2236 am 4.7.2013 in Kraft getreten
 
-## (XXXX)
+
+## Eingangsformel
 
 Die Bundesrepublik Deutschland
+
 als Treuhandverwalterin des Finanzvermögens nach Artikel 22 des
 Einigungsvertrages,
 vertreten durch das Bundesministerium der Finanzen,
 vertreten durch den Bundesminister der Finanzen (im Folgenden Bund),
 
 und die Länder
+
 Berlin,
 vertreten durch den Senator für Finanzen,
 Brandenburg,
@@ -53,8 +55,8 @@ genannten Ländern (im Folgenden Länder) vor. Zu einzelnen
 Vermögensmassen bestehen unterschiedliche Rechtsauffassungen zwischen
 dem Bund und den Ländern.
 
-Bund und Länder bemühen sich seit über zehn Jahren ohne Ergebnis um
-eine Annäherung der divergierenden Standpunkte. Abhängig vom
+Bund und Länder bemühen sich seit über zehn Jahren ohne Ergebnis
+um eine Annäherung der divergierenden Standpunkte. Abhängig vom
 jeweiligen Rechtsstandpunkt steht einem Überschuss von etwa 3,5
 Milliarden Euro (Position der Länder) ein Fehlbetrag von rund 4
 Milliarden Euro (Position des Bundes) gegenüber. Eine Annäherung ist
@@ -71,41 +73,33 @@ zudem völlig offen.
 Im Zusammenhang mit dem Finanzvermögen gibt es eine Reihe zwischen dem
 Bund und den Ländern nicht abschließend geklärter Fragen, darunter:
 
-–   die Zurechnung von Sanierungsaufwendungen der Wismut GmbH zum
+– die Zurechnung von Sanierungsaufwendungen der Wismut GmbH zum
     Finanzvermögen,
 
-
-–   die Zurechnung der Verbindlichkeiten der Staatlichen Versicherung der
+– die Zurechnung der Verbindlichkeiten der Staatlichen Versicherung der
     DDR in Abwicklung zum Finanzvermögen,
 
-
-–   die Art und der Umfang der Inanspruchnahme des Finanzvermögens für die
-    Speisung des Entschädigungsfonds nach § 10 Absatz 1 Nummer 2 des
+– die Art und der Umfang der Inanspruchnahme des Finanzvermögens für
+    die Speisung des Entschädigungsfonds nach § 10 Absatz 1 Nummer 2 des
     Entschädigungsgesetzes,
 
-
-–   die Anrechnung des den Ländern unentgeltlich aufgelassenen
+– die Anrechnung des den Ländern unentgeltlich aufgelassenen
     Bodenreformlandes nach Artikel 233 § 16 Absatz 1 Satz 3 in Verbindung
     mit § 12 Absatz 2 Nummer 2 Buchstabe c des Einführungsgesetzes zum
     Bürgerlichen Gesetzbuche,
 
-
-–   die Erfassung, Abrechnung und Abführung der Veräußerungserlöse nach §
+– die Erfassung, Abrechnung und Abführung der Veräußerungserlöse nach §
     8 Absatz 4 des Vermögenszuordnungsgesetzes,
 
-
-–   die Berücksichtigung der den Belegenheitsgemeinden im Rahmen der
+– die Berücksichtigung der den Belegenheitsgemeinden im Rahmen der
     Bürgermeistermodellverkäufe übertragenen volkseigenen, ehemals in
     Rechtsträgerschaft des Freien Deutschen Gewerkschaftsbundes stehenden
     Feriendienstliegenschaften (FEDI) sowie der an die Gemeinden im Rahmen
     der FEDI-Erlösauskehr geleisteten Zahlungen,
 
-
-–   die Verwaltung und Verwertung des bislang nicht zur Zuordnung
+– die Verwaltung und Verwertung des bislang nicht zur Zuordnung
     beantragten ehemals volkseigenen Vermögens, soweit es dem
     Finanzvermögen zuzurechnen ist.
-
-
 
 Vor diesem Hintergrund und zur Vermeidung eines unverhältnismäßig
 hohen Aufwandes zur Klärung aller offenen Fragen haben Bund und Länder
@@ -134,21 +128,21 @@ bleibt unberührt.
 (2) Das nach Artikel 233 § 12 Absatz 2 Nummer 2 Buchstabe c des
 Einführungsgesetzes zum Bürgerlichen Gesetzbuche dem Landesfiskus
 zufallende Bodenreformvermögen verbleibt endgültig und ohne
-Ausgleichsverpflichtung gegenüber dem Bund und dem Finanzvermögen im
-Landeseigentum. Alle Ansprüche des Bundes gemäß Artikel 233 § 16
+Ausgleichsverpflichtung gegenüber dem Bund und dem Finanzvermögen
+im Landeseigentum. Alle Ansprüche des Bundes gemäß Artikel 233 § 16
 Absatz 1 Satz 3 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche
 sind damit erfüllt.
 
 (3) Die volkseigenen, ehemals in Rechtsträgerschaft des Freien
 Deutschen Gewerkschaftsbundes stehenden Feriendienstliegenschaften
 wurden ohne Ausgleichsverpflichtung gegenüber dem Bund und dem
-Finanzvermögen auf die Belegenheitsgemeinden übertragen; ebenso wurden
-die Zahlungen im Rahmen der sogenannten FEDI-Erlösauskehr ohne
+Finanzvermögen auf die Belegenheitsgemeinden übertragen; ebenso
+wurden die Zahlungen im Rahmen der sogenannten FEDI-Erlösauskehr ohne
 Ausgleichsverpflichtung geleistet. Soweit der Bund durch Artikel 22
 Absatz 1 Satz 4 des Einigungsvertrages verpflichtet sein sollte, für
 eine Beteiligung der Gemeinden (Gemeindeverbände) an dem nach Artikel
-22 Absatz 1 Satz 3 des Einigungsvertrages den Ländern zufallenden Teil
-des Finanzvermögens Sorge zu tragen, ist dies damit abschließend
+22 Absatz 1 Satz 3 des Einigungsvertrages den Ländern zufallenden
+Teil des Finanzvermögens Sorge zu tragen, ist dies damit abschließend
 erfolgt.
 
 
@@ -158,16 +152,16 @@ Die Verpflichtungen der Wismut GmbH, insbesondere die
 Sanierungsaufwendungen und die Kosten für die Langzeitaufgaben, werden
 auf der Grundlage der Freistellungserklärung des Bundes vom 31. März
 1992 gegenüber der Wismut GmbH durch den Bundeshaushalt getragen.
-Davon nicht berührt sind die sogenannten Wismut-Altstandorte. Der Bund
-und der Freistaat Sachsen stellen zur Sanierung der sogenannten
+Davon nicht berührt sind die sogenannten Wismut-Altstandorte. Der
+Bund und der Freistaat Sachsen stellen zur Sanierung der sogenannten
 Wismut-Altstandorte gemeinsam einen Finanzrahmen bereit. Einzelheiten
 dazu werden in einem gesonderten Verwaltungsabkommen geregelt.
 
 
 ## Art 4 Finanzierung der ehemaligen Staatlichen Versicherung der DDR in Abwicklung (SinA)
 
-Bund und Länder sind sich einig, dass den Ländern gegenüber dem Bund
-aus dem Komplex SinA keine unmittelbaren oder mittelbaren
+Bund und Länder sind sich einig, dass den Ländern gegenüber dem
+Bund aus dem Komplex SinA keine unmittelbaren oder mittelbaren
 Finanzierungsverpflichtungen obliegen.
 
 
@@ -182,8 +176,8 @@ des Finanzvermögens keine Finanzierungsverpflichtungen obliegen.
 ## Art 6 Ansprüche nach § 8 Absatz 4 des Vermögenszuordnungsgesetzes
 
 (1) Bund und Länder verzichten auf die Geltendmachung von Ansprüchen
-auf Erfassung, Abrechnung und Abführung der Veräußerungserlöse nach §
-8 Absatz 4 des Vermögenszuordnungsgesetzes, soweit nicht in den
+auf Erfassung, Abrechnung und Abführung der Veräußerungserlöse nach
+§ 8 Absatz 4 des Vermögenszuordnungsgesetzes, soweit nicht in den
 Absätzen 2 und 3 Abweichendes geregelt ist.
 
 (2) Der Verzicht nach Absatz 1 umfasst Ansprüche auf Abführung der
@@ -191,8 +185,8 @@ Veräußerungserlöse nach § 8 Absatz 4 des Vermögenszuordnungsgesetzes
 jedoch nur, soweit die Verfügung gemäß § 8 Absatz 1 Satz 1 des
 Vermögenszuordnungsgesetzes vor dem 31. Dezember 2011 erfolgt ist.
 
-(3) Der Verzicht nach Absatz 1 umfasst nicht Ansprüche auf Abführung
-der Veräußerungserlöse nach § 8 Absatz 4 des
+(3) Der Verzicht nach Absatz 1 umfasst nicht Ansprüche
+auf Abführung der Veräußerungserlöse nach § 8 Absatz 4 des
 Vermögenszuordnungsgesetzes,
 
 a)  die vor dem in Absatz 2 genannten Zeitpunkt bereits erfüllt oder
@@ -200,19 +194,14 @@ a)  die vor dem in Absatz 2 genannten Zeitpunkt bereits erfüllt oder
     gilt dies auch für alle Ansprüche, auf die nach dem erklärten Willen
     der Parteien der Ausgang des Musterprozesses Anwendung finden soll.
 
-
 b)  für die vor dem in Absatz 2 bezeichneten Zeitpunkt bereits ein
     Vollstreckungsbescheid zugestellt worden ist oder wenn einem Gericht
     nach voran gegangenem Mahnverfahren bereits eine Anspruchsbegründung
     nach § 697 Absatz 1 der Zivilprozessordnung zugegangen ist.
 
-
 c)  die Gegenstand einer privatrechtlichen Vereinbarung (zum Beispiel:
     Vergleich, Baudirektions- und Wertausgleichsvereinbarung, Stundungs-
     und Ratenzahlungsvereinbarung) sind.
-
-
-
 
 (4) Der Bund stellt sicher, dass sich auch die mit der Verwaltung des
 Finanzvermögens beauftragten Anstalten und Gesellschaften des Bundes
@@ -233,9 +222,9 @@ Grundstücke, grundstücksgleichen Rechte und beschränkten dinglichen
 Rechte des Finanzvermögens gemäß Artikel 2 Absatz 1 Satz 4 dieses
 Staatsvertrages zur Vermögenszuordnung beantragen, soweit sie jeweils
 Kenntnis darüber erlangt hat. Die Kommunen können die in ihrem Gebiet
-belegenen unbeantragten Grundstücke des Finanzvermögens ermitteln und
-der Bundesanstalt für Immobilienaufgaben mitteilen sowie die für die
-Vermögenszuordnungsentscheidung erforderlichen Tatsachen
+belegenen unbeantragten Grundstücke des Finanzvermögens ermitteln
+und der Bundesanstalt für Immobilienaufgaben mitteilen sowie die
+für die Vermögenszuordnungsentscheidung erforderlichen Tatsachen
 nachvollziehbar darlegen.
 
 
@@ -245,10 +234,10 @@ nachvollziehbar darlegen.
 Vermögenszuordnungsgesetzes bleiben im Übrigen von diesem
 Staatsvertrag unberührt.
 
-(2) Die 2002 zwischen dem Bund, dem Deutschen Städtetag, dem Deutschen
-Städte- und Gemeindebund und dem Deutschen Landkreistag abgeschlossene
-Rahmenvereinbarung über Ausgleichsleistungen für mitprivatisierte
-Kommunalobjekte sowie die dazu abgeschlossenen
+(2) Die 2002 zwischen dem Bund, dem Deutschen Städtetag, dem
+Deutschen Städte- und Gemeindebund und dem Deutschen Landkreistag
+abgeschlossene Rahmenvereinbarung über Ausgleichsleistungen für
+mitprivatisierte Kommunalobjekte sowie die dazu abgeschlossenen
 Ergänzungsvereinbarungen bleiben von diesem Staatsvertrag unberührt.
 
 

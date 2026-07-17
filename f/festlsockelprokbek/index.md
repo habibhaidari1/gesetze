@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung der Proklamation der Bundesregierung über die Erforschung und
-  Ausbeutung des deutschen Festlandsockels
+Title: Bekanntmachung der Proklamation der Bundesregierung über die Erforschung und Ausbeutung des deutschen Festlandsockels
 jurabk: FestLSockelProkBek
 layout: default
 origslug: festlsockelprokbek
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl II: 1964, 104
-
 
 
 ## (XXXX)

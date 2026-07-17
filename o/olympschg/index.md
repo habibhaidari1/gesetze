@@ -19,7 +19,6 @@ Geändert durch
 :   Art. 5 Abs. 8 G v. 10.10.2013 I 3799
 
 
-
 ## § 1 Gegenstand des Gesetzes
 
 (1) Gegenstand dieses Gesetzes ist der Schutz des olympischen Emblems
@@ -50,22 +49,17 @@ Schutzrechts im geschäftlichen Verkehr das olympische Emblem
 
 1.  zur Kennzeichnung von Waren oder Dienstleistungen,
 
-
 2.  in der Werbung für Waren oder Dienstleistungen,
-
 
 3.  als Firma, Geschäftsbezeichnung oder zur Bezeichnung einer
     Veranstaltung oder
 
-
 4.  für Vereinsabzeichen oder Vereinsfahnen
-
-
 
 zu verwenden. Satz 1 findet entsprechende Anwendung für Embleme, die
 dem olympischen Emblem ähnlich sind, wenn wegen der Ähnlichkeit die
-Gefahr von Verwechslungen besteht, einschließlich der Gefahr, dass das
-Emblem mit den Olympischen Spielen oder der Olympischen Bewegung
+Gefahr von Verwechslungen besteht, einschließlich der Gefahr, dass
+das Emblem mit den Olympischen Spielen oder der Olympischen Bewegung
 gedanklich in Verbindung gebracht wird oder dass hierdurch die
 Wertschätzung der Olympischen Spiele oder der Olympischen Bewegung
 ohne rechtfertigenden Grund in unlauterer Weise ausgenutzt oder
@@ -76,14 +70,10 @@ Schutzrechts im geschäftlichen Verkehr die olympischen Bezeichnungen
 
 1.  zur Kennzeichnung von Waren oder Dienstleistungen,
 
-
 2.  in der Werbung für Waren oder Dienstleistungen oder
-
 
 3.  als Firma, Geschäftsbezeichnung oder zur Bezeichnung einer
     gewerbsmäßigen Veranstaltung
-
-
 
 zu verwenden, wenn hierdurch die Gefahr von Verwechslungen besteht,
 einschließlich der Gefahr, dass die Bezeichnung mit den Olympischen
@@ -107,12 +97,9 @@ untersagen, im geschäftlichen Verkehr
 
 1.  dessen Namen oder Anschrift zu benutzen oder
 
-
 2.  die olympischen Bezeichnungen oder ähnliche Bezeichnungen als Angabe
     über Merkmale oder Eigenschaften von Waren, Dienstleistungen oder
     Personen zu benutzen,
-
-
 
 sofern die Benutzung nicht unlauter ist.
 
@@ -120,8 +107,8 @@ sofern die Benutzung nicht unlauter ist.
 ## § 5 Unterlassungsanspruch; Schadensersatzanspruch
 
 (1) Wer das olympische Emblem oder die olympischen Bezeichnungen
-entgegen § 3 benutzt, kann von dem Nationalen Olympischen Komitee für
-Deutschland oder dem Internationalen Olympischen Komitee auf
+entgegen § 3 benutzt, kann von dem Nationalen Olympischen Komitee
+für Deutschland oder dem Internationalen Olympischen Komitee auf
 Unterlassung in Anspruch genommen werden.
 
 (2) Wer die Verletzungshandlung vorsätzlich oder fahrlässig begeht,
@@ -135,8 +122,8 @@ Verletzungshandlung entstandenen Schadens verpflichtet.
 Das Nationale Olympische Komitee für Deutschland und das
 Internationale Olympische Komitee können in Fällen des § 3 verlangen,
 dass die im Besitz oder Eigentum des Verletzers befindlichen,
-widerrechtlich gekennzeichneten Gegenstände vernichtet werden, es sei
-denn, dass der durch die Rechtsverletzung verursachte Zustand der
+widerrechtlich gekennzeichneten Gegenstände vernichtet werden, es
+sei denn, dass der durch die Rechtsverletzung verursachte Zustand der
 Gegenstände auf andere Weise beseitigt werden kann und die Vernichtung
 für den Verletzer oder den Eigentümer im Einzelfall unverhältnismäßig
 ist. Weitergehende Ansprüche auf Beseitigung bleiben unberührt.
@@ -181,6 +168,7 @@ Kalendermonats in Kraft.
 ## Anlage 1
 
 ![pdf_grafik_olympschg_olympschg-rings.gif](pdf_grafik_olympschg_olympschg-rings.gif)
+
 Das olympische Symbol besteht aus fünf ineinander verschlungenen
 Ringen: blau, gelb, schwarz, grün und rot, die in dieser Reihenfolge
 von links nach rechts angeordnet sind. Es besteht aus den olympischen

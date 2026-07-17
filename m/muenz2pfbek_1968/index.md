@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 2 Deutschen
-  Pfennig
+Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 2 Deutschen Pfennig
 jurabk: Münz2PfBek 1968
 layout: default
 origslug: m_nz2pfbek_1968
@@ -17,7 +16,6 @@ Fundstelle
 :   BGBl I: 1968, 1316
 
 
-
 ## (XXXX)
 
 (1) Der Absatz 2 der Bekanntmachung über die Ausprägung von
@@ -31,5 +29,6 @@ Durchmesser von 19,25 mm und ein Gewicht von 2,9 g".
 Gültigkeit.
 
 (3) Dies wird namens der Bundesregierung bekanntgemacht.
+
 Der Bundesminister der Finanzen
 

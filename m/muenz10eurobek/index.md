@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert
-  von 10 Euro (Gedenkmünze "Übergang zur Währungsunion - Einführung des Euro")
+Title: "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze \"Übergang zur Währungsunion - Einführung des Euro\")"
 jurabk: Münz10EuroBek
 layout: default
 origslug: m_nz10eurobek
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 2001, 3788
-
 
 
 ## (XXXX)
@@ -35,32 +33,24 @@ Kupfer, hat einen Durchmesser von 32,5 Millimetern und eine Masse
 wird von einem schützenden, glatten Randstab umgeben.
 Die Bildseite zeigt die Konturen des europäischen Kontinents mit
 besonderer Hervorhebung der Euro-Teilnehmerländer. Zusätzlich werden
-die noch nicht an der Währungsunion teilnehmenden Mitgliedstaaten der
-Europäischen Union gegenüber dem restlichen Europa gesondert
+die noch nicht an der Währungsunion teilnehmenden Mitgliedstaaten
+der Europäischen Union gegenüber dem restlichen Europa gesondert
 dargestellt. Die Platzierung der Silhouette Europas in das Raster des
 Globus thematisiert die Rolle Europas und seiner Währung in der Welt.
 Die Wertseite zeigt einen Adler, der von zwölf Sternen umrahmt ist,
 die Jahreszahl 2002, das Münzzeichen "F" der Prägestätte Stuttgart und
 die Umschrift:
 
-*   "BUNDESREPUBLIK DEUTSCHLAND
+-   "BUNDESREPUBLIK DEUTSCHLAND
 
-    *
-        *   10 EURO".
-
-
-
-
-
-
-
-
+    -   -   10 EURO".
 
 Der glatte Münzrand enthält in vertiefter Prägung die Inschrift:
 "IM .. ZEICHEN .. DER .. EINIGUNG .. EUROPAS ....".
 Der Entwurf der Münze stammt von Erich Ott, München.
 
 Der Bundesminister der Finanzen
+
 (Inhalt: nicht darstellbare Abbildung der Münze)
 (Fundstelle: BGBl. I 2001, 3788)
 

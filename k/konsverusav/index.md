@@ -1,6 +1,5 @@
 ---
-Title: Verordnung zur Umsetzung von Konsultationsvereinbarungen zwischen der Bundesrepublik
-  Deutschland und den Vereinigten Staaten von Amerika
+Title: Verordnung zur Umsetzung von Konsultationsvereinbarungen zwischen der Bundesrepublik Deutschland und den Vereinigten Staaten von Amerika
 jurabk: KonsVerUSAV
 layout: default
 origslug: konsverusav
@@ -29,8 +28,8 @@ angefügt worden ist, verordnet das Bundesministerium der Finanzen:
 
 ## § 1 Abkommen
 
-Als Abkommen im Sinn dieser Verordnung gilt das Abkommen vom 29.
-August 1989 zwischen der Bundesrepublik Deutschland und den
+Als Abkommen im Sinn dieser Verordnung gilt das Abkommen vom
+29\. August 1989 zwischen der Bundesrepublik Deutschland und den
 Vereinigten Staaten von Amerika zur Vermeidung der Doppelbesteuerung
 und zur Verhinderung der Steuerverkürzung auf dem Gebiet der Steuern
 vom Einkommen und vom Vermögen und einiger anderer Steuern in der
@@ -40,8 +39,8 @@ Fassung der Bekanntmachung vom 4. Juni 2008 (BGBl. 2008 II S. 611,
 
 ## § 2 Besteuerung des Gehalts bestimmter Ortskräfte konsularischer Vertretungen
 
-(1) Die einheitliche Anwendung und Auslegung des Artikels 19 Absatz 1
-Buchstabe b des Abkommens auf Grund einer entsprechenden
+(1) Die einheitliche Anwendung und Auslegung des Artikels 19
+Absatz 1 Buchstabe b des Abkommens auf Grund einer entsprechenden
 Konsultationsvereinbarung zwischen den zuständigen Behörden im Sinn
 des Artikels 3 Absatz 1 Buchstabe i des Abkommens richtet sich nach
 den Absätzen 2 und 3.
@@ -49,12 +48,12 @@ den Absätzen 2 und 3.
 (2) Ortskräfte im Sinn dieser Vorschrift sind Konsularbedienstete der
 Vereinigten Staaten von Amerika und der Bundesrepublik Deutschland,
 die Staatsangehörige des Entsendestaates sind, aber im Empfangsstaat
-im Sinn des Artikels 4 des Abkommens ansässig sind, und die nicht in
-den Geltungsbereich des Wiener Übereinkommens über konsularische
+im Sinn des Artikels 4 des Abkommens ansässig sind, und die nicht
+in den Geltungsbereich des Wiener Übereinkommens über konsularische
 Beziehungen vom 24. April 1963 (BGBl. 1969 II S. 1587) fallen.
 
-(3) Für die Besteuerung des Gehalts der Ortskräfte gilt Artikel XIX
-des Freundschafts-, Handels- und Konsularvertrages zwischen dem
+(3) Für die Besteuerung des Gehalts der Ortskräfte gilt Artikel
+XIX des Freundschafts-, Handels- und Konsularvertrages zwischen dem
 Deutschen Reich und den Vereinigten Staaten von Amerika in der im
 Bundesgesetzblatt Teil III, Gliederungsnummer 27-4, veröffentlichten
 bereinigten Fassung; Artikel 19 Absatz 1 Buchstabe b des Abkommens ist

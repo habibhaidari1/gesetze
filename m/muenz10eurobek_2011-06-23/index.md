@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert
-  von 10 Euro (Gedenkmünze „500 Jahre Till Eulenspiegel“)
+Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze „500 Jahre Till Eulenspiegel“)
 jurabk: Münz10EuroBek 2011-06-23
 layout: default
 origslug: m_nz10eurobek_2011-06-23
@@ -24,20 +23,19 @@ I S. 2402) hat die Bundesregierung beschlossen, zum Thema „500 Jahre
 Till Eulenspiegel“ eine deutsche Euro-Gedenkmünze im Nennwert von 10
 Euro prägen zu lassen.
 
-Die Auflage der Münze beträgt ca. 2 000 000 Stück, davon ca. 200 000
-Stück in Spiegelglanzqualität. Die Prägung erfolgt durch das
+Die Auflage der Münze beträgt ca. 2 000 000 Stück, davon ca. 200
+000 Stück in Spiegelglanzqualität. Die Prägung erfolgt durch das
 Bayerische Hauptmünzamt, München.
 
-Die Münze wird ab dem 14. Juli 2011 in den Verkehr gebracht. Die
-10-Euro-Gedenkmünze in der Stempelglanzqualität besteht aus einer
-Kupfer-Nickel-Legierung (CuNi25), hat einen Durchmesser von 32,5
-Millimetern und ein Gewicht von 14 Gramm. Die Spiegelglanzmünze
-besteht aus einer Legierung von 625 Tausendteilen Silber und 375
-Tausendteilen Kupfer, hat einen Durchmesser von 32,5 Millimetern und
-ein Gewicht von 16 Gramm. Die Spiegelglanzmünze ist durch den
-Prägeaufdruck „Silber 625“ gekennzeichnet. Das Gepräge auf beiden
-Seiten ist erhaben und wird von einem schützenden, glatten Randstab
-umgeben.
+Die Münze wird ab dem 14. Juli 2011 in den Verkehr gebracht. Die 10-
+Euro-Gedenkmünze in der Stempelglanzqualität besteht aus einer Kupfer-
+Nickel-Legierung (CuNi25), hat einen Durchmesser von 32,5 Millimetern
+und ein Gewicht von 14 Gramm. Die Spiegelglanzmünze besteht aus einer
+Legierung von 625 Tausendteilen Silber und 375 Tausendteilen Kupfer,
+hat einen Durchmesser von 32,5 Millimetern und ein Gewicht von 16
+Gramm. Die Spiegelglanzmünze ist durch den Prägeaufdruck „Silber 625“
+gekennzeichnet. Das Gepräge auf beiden Seiten ist erhaben und wird von
+einem schützenden, glatten Randstab umgeben.
 
 Im Mittelpunkt der Bildseite steht eine asymmetrisch angeordnete
 Eulenspiegel-Darstellung, die dessen ambivalenten Charakter, der die
@@ -65,12 +63,4 @@ Der Bundesminister der Finanzen
 ## (XXXX)
 
 (Fundstelle: BGBl. I 2011, 1262)
-
-
-*    *        ![bgbl1_2011_j1262-1_0010.jpg](bgbl1_2011_j1262-1_0010.jpg)
-    *        ![bgbl1_2011_j1262-1_0020.jpg](bgbl1_2011_j1262-1_0020.jpg)
-
-*    *        ![bgbl1_2011_j1262-1_0030.jpg](bgbl1_2011_j1262-1_0030.jpg)
-    *        ![bgbl1_2011_j1262-1_0040.jpg](bgbl1_2011_j1262-1_0040.jpg)
-
 

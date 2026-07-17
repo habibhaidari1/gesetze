@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen
-  Mark (Leibniz-Gedenkmünze)
+Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Leibniz-Gedenkmünze)
 jurabk: Münz5DMBek 1967-02
 layout: default
 origslug: m_nz5dmbek_1967-02
@@ -17,14 +16,13 @@ Fundstelle
 :   BGBl I: 1967, 186
 
 
-
 ## (XXXX)
 
 (1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen vom
 8\. Juli 1950 (Bundesgesetzblatt S. 323) und des Änderungsgesetzes vom
 18\. Januar 1963 (Bundesgesetzbl. I S. 55) wird zur Erinnerung an den
-deutschen Philosophen Gottfried Wilhelm Leibniz, geb. 1. Juli 1646 in
-Leipzig, gest. 14. November 1716 in Hannover, eine Bundesmünze
+deutschen Philosophen Gottfried Wilhelm Leibniz, geb. 1. Juli 1646
+in Leipzig, gest. 14. November 1716 in Hannover, eine Bundesmünze
 (Gedenkmünze) im Nennwert von 5 Deutsche Mark geprägt und demnächst in
 den Verkehr gebracht. Die Gesamtauflage ist noch nicht festgelegt, sie
 wird sich im wesentlichen nach dem Bedarf richten.

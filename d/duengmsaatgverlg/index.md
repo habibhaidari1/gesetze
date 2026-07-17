@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl I: 1951, 476
 
 
-
 ## § 1
 
 Die Geltungsdauer des Gesetzes zur Sicherung der Düngemittel- und

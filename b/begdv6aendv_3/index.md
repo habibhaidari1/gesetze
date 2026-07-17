@@ -1,6 +1,5 @@
 ---
-Title: Dritte Verordnung zur Änderung der Sechsten Verordnung zur Durchführung des
-  Bundesentschädigungsgesetzes
+Title: Dritte Verordnung zur Änderung der Sechsten Verordnung zur Durchführung des Bundesentschädigungsgesetzes
 jurabk: BEGDV6ÄndV 3
 layout: default
 origslug: begdv6_ndv_3
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 1982, 1571
-
 
 
 ## Eingangsformel
@@ -34,19 +32,19 @@ verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
 ## § 2
 
-(1) Soweit vor Verkündung dieser Verordnung ein nach § 31 Abs. 2 des
-Bundesentschädigungsgesetzes geltend gemachter Anspruch durch
-unanfechtbaren Bescheid oder rechtskräftige gerichtliche Entscheidung
-mit der Begründung abgelehnt worden ist, daß eine Haftstätte nicht als
-Konzentrationslager im Sinne von § 31 Abs. 2 des
-Bundesentschädigungsgesetzes anzusehen sei, kann der Berechtigte einen
-Antrag auf erneute Entscheidung stellen, wenn sich auf Grund der
-Anlage zu dieser Verordnung ergibt, daß die Haftstätte als
-Konzentrationslager im Sinne von § 31 Abs. 2 des
+(1) Soweit vor Verkündung dieser Verordnung ein nach § 31 Abs.
+2 des Bundesentschädigungsgesetzes geltend gemachter Anspruch
+durch unanfechtbaren Bescheid oder rechtskräftige gerichtliche
+Entscheidung mit der Begründung abgelehnt worden ist, daß eine
+Haftstätte nicht als Konzentrationslager im Sinne von § 31
+Abs. 2 des Bundesentschädigungsgesetzes anzusehen sei, kann der
+Berechtigte einen Antrag auf erneute Entscheidung stellen, wenn
+sich auf Grund der Anlage zu dieser Verordnung ergibt, daß die
+Haftstätte als Konzentrationslager im Sinne von § 31 Abs. 2 des
 Bundesentschädigungsgesetzes anzusehen ist.
 
-(2) Absatz 1 gilt entsprechend, wenn erst auf Grund der Änderungen
-durch diese Verordnung der nach § 31 Abs. 2 des
+(2) Absatz 1 gilt entsprechend, wenn erst auf Grund der
+Änderungen durch diese Verordnung der nach § 31 Abs. 2 des
 Bundesentschädigungsgesetzes vorgeschriebene Zeitraum von mindestens
 einem Jahr Konzentrationslagerhaft erreicht wird.
 

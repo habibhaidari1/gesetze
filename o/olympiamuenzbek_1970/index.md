@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen
-  Mark (Olympiamünze)
+Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen Mark (Olympiamünze)
 jurabk: OlympiaMünzBek 1970
 layout: default
 origslug: olympiam_nzbek_1970
@@ -16,6 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1970, 35
 
+Fundstelle
+:   BAnz: 1970, Nr 8
 
 
 ## (XXXX)
@@ -36,13 +37,13 @@ Tausendteilen Kupfer. Der Durchmesser beträgt 32,5 mm und das Gewicht
 15,5 Gramm.
 
 (4) Der Entwurf für das Jahr 1969 stammt von Frau Greta Lippl-Heinsen,
-München. Er zeigt auf der Bildseite eine Darstellung des Emblems der
-Spiele der XX. Olympiade München 1972 (Strahlenspirale) und die
+München. Er zeigt auf der Bildseite eine Darstellung des Emblems
+der Spiele der XX. Olympiade München 1972 (Strahlenspirale) und die
 Umschrift: SPIELE DER XX . OLYMPIADE 1972 . IN DEUTSCHLAND .
 
-(5) Die Wertseite mit der Umschrift: BUNDESREPUBLIK DEUTSCHLAND 10
-DEUTSCHE MARK zeigt in der Mitte den Bundesadler und unterhalb der
-Schwanzfedern, unmittelbar am Randstab, die Wertziffer 10. Das
+(5) Die Wertseite mit der Umschrift: BUNDESREPUBLIK DEUTSCHLAND
+10 DEUTSCHE MARK zeigt in der Mitte den Bundesadler und unterhalb
+der Schwanzfedern, unmittelbar am Randstab, die Wertziffer 10. Das
 jeweilige Münzzeichen ist unterhalb der rechten Kralle angebracht.
 
 (6) Der glatte Münzrand ist mit der vertieften Inschrift versehen:

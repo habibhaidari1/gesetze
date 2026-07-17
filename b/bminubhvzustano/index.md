@@ -1,10 +1,5 @@
 ---
-Title: Anordnung zur Übertragung von Zuständigkeiten für die Bearbeitung, für den
-  Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen
-  aus dem Beamtenverhältnis im Geschäftsbereich des Bundesministeriums für Umwelt,
-  Naturschutz und Reaktorsicherheit in Angelegenheiten der Allgemeinen Verwaltungsvorschrift
-  für Beihilfen in Krankheits-, Pflege-, Geburts- und Todesfällen (Beihilfevorschriften
-  - BhV)
+Title: Anordnung zur Übertragung von Zuständigkeiten für die Bearbeitung, für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis im Geschäftsbereich des Bundesministeriums für Umwelt, Naturschutz und Reaktorsicherheit in Angelegenheiten der Allgemeinen Verwaltungsvorschrift für Beihilfen in Krankheits-, Pflege-, Geburts- und Todesfällen (Beihilfevorschriften - BhV)
 jurabk: BMinUBhVZustAnO
 layout: default
 origslug: bminubhvzustano
@@ -21,13 +16,12 @@ Fundstelle
 :   BGBl I: 2001, 1877
 
 
-
 ## I.
 
 Auf Grund des § 17 Abs. 5 Satz 2 der Allgemeinen Verwaltungsvorschrift
 für Beihilfen in Krankheits-, Pflege-, Geburts- und Todesfällen
-(Beihilfevorschriften - BhV) in der Fassung vom 10. Juli 1995 (GMBl S.
-470) übertrage ich dem Bundesamt für Finanzen die Bearbeitung der
+(Beihilfevorschriften - BhV) in der Fassung vom 10. Juli 1995 (GMBl
+S. 470) übertrage ich dem Bundesamt für Finanzen die Bearbeitung der
 Beihilfeangelegenheiten des Bundesministeriums für Umwelt, Naturschutz
 und Reaktorsicherheit (BMU), des Bundesamtes für Naturschutz (BfN),
 des Bundesamtes für Strahlenschutz (BfS) sowie des Umweltbundesamtes

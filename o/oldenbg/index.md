@@ -1,6 +1,5 @@
 ---
-Title: Gesetz über die Regelung der Landeszugehörigkeit des Verwaltungsbezirks Oldenburg
-  und des Landkreises Schaumburg-Lippe nach Artikel 29 Abs. 3 Satz 2 des Grundgesetzes
+Title: Gesetz über die Regelung der Landeszugehörigkeit des Verwaltungsbezirks Oldenburg und des Landkreises Schaumburg-Lippe nach Artikel 29 Abs. 3 Satz 2 des Grundgesetzes
 jurabk: OldenbG
 layout: default
 origslug: oldenbg
@@ -17,7 +16,6 @@ Fundstelle
 :   BGBl I: 1976, 45
 
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit der Mehrheit seiner Mitglieder das folgende
@@ -26,8 +24,8 @@ Gesetz beschlossen:
 
 ## § 1
 
-Der Verwaltungsbezirk Oldenburg und der Landkreis Schaumburg-Lippe -
-nach dem Gebietsstand vom 9. April 1956 - verbleiben beim Land
+Der Verwaltungsbezirk Oldenburg und der Landkreis Schaumburg-Lippe
+- nach dem Gebietsstand vom 9. April 1956 - verbleiben beim Land
 Niedersachsen.
 
 

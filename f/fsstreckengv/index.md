@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Erhebung von Kosten für die Inanspruchnahme von Streckennavigations-Diensten
-  und Streckennavigations-Einrichtungen der Flugsicherung
+Title: Verordnung über die Erhebung von Kosten für die Inanspruchnahme von Streckennavigations-Diensten und Streckennavigations-Einrichtungen der Flugsicherung
 jurabk: FSStreckenGV
 layout: default
 origslug: fsstreckengv
@@ -17,27 +16,29 @@ Fundstelle
 :   BGBl I: 1984, 629
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 177 G v. 7.8.2013 I 3154
+:   Art. 1 V v. 21.8.2024 I Nr. 268
 
-Stand: in Kraft gem. Bek. v. 7.1.1986 II 409 mWv 1.1.1986
+Stand
+:   In Kraft gem. § 3 Abs. 1 iVm Bek. v. 7.1.1986 II 409 mWv 1.1.1986
+
 
 ## Eingangsformel
 
 Auf Grund des § 32 Abs. 1 Satz 1 Nr. 14 und Satz 4 des
-Luftverkehrsgesetzes in der Fassung der Bekanntmachung vom 14. Januar
-1981 (BGBl. I S. 61), zuletzt geändert durch Artikel 4 des Gesetzes
-vom 2. Februar 1984 zu dem Protokoll vom 12. Februar 1981 zur Änderung
-des Internationalen Übereinkommens über Zusammenarbeit zur Sicherung
-der Luftfahrt "EUROCONTROL" vom 13. Dezember 1960 und zu der
+Luftverkehrsgesetzes in der Fassung der Bekanntmachung vom 14.
+Januar 1981 (BGBl. I S. 61), zuletzt geändert durch Artikel 4 des
+Gesetzes vom 2. Februar 1984 zu dem Protokoll vom 12. Februar 1981 zur
+Änderung des Internationalen Übereinkommens über Zusammenarbeit zur
+Sicherung der Luftfahrt "EUROCONTROL" vom 13. Dezember 1960 und zu der
 Mehrseitigen Vereinbarung vom 12. Februar 1981 über Flugsicherungs-
-Streckengebühren (BGBl. 1984 II S. 69), wird im Einvernehmen mit dem
-Bundesminister für Wirtschaft und mit Zustimmung des Bundesrates
+Streckengebühren (BGBl. 1984 II S. 69), wird im Einvernehmen mit
+dem Bundesminister für Wirtschaft und mit Zustimmung des Bundesrates
 verordnet:
 
 
 ## § 1
 
-Für die Inanspruchnahme von Streckennavigations-Diensten und
+(1) Für die Inanspruchnahme von Streckennavigations-Diensten und
 Streckennavigations-Einrichtungen der Flugsicherung bei der Benutzung
 des Luftraums der Fluginformationsgebiete der Bundesrepublik
 Deutschland werden Kosten (Gebühren und Auslagen) erhoben. Dies gilt
@@ -45,33 +46,26 @@ nicht für
 
 1.  Flüge militärischer Luftfahrzeuge der NATO-Mitgliedstaaten;
 
-
 2.  Flüge militärischer Luftfahrzeuge anderer als NATO-Mitgliedstaaten,
     wenn auch von dem betreffenden Staat für militärische Luftfahrzeuge
     der Bundesrepublik Deutschland eine entsprechende Kostenbefreiung
-    gewährt wird.
+    gewährt wird;
 
+3.  Flüge, soweit sie nach Sichtflugregeln durchgeführt werden.
 
-
-
-(2) Für die Inanspruchnahme der Flugsicherung bei Übungsflügen, die
-ausschließlich zum Zwecke des Erwerbs eines Pilotenscheins oder einer
-Berechtigung für Luftfahrzeugführer durchgeführt werden, wird
-befristet bis zum 31. Dezember 2000 eine Kostenermäßigung von 40 vom
-Hundert gewährt, wenn
-
-1.  diese Flüge nicht zur Beförderung von Fluggästen oder Fracht oder zur
-    Abstellung oder Überführung von Luftfahrzeugen dienen,
-
-
-2.  diese Flüge nur im Luftraum der Bundesrepublik Deutschland
-    durchgeführt werden und
-
-
-3.  im Flugplan Angaben zum Zweck des Übungsfluges eingetragen werden.
-
-
-
+(2) Kostenerstattungen nach Artikel 31 Absatz 6 in Verbindung mit den
+Absätzen 3 und 4 der Durchführungsverordnung (EU) Nr. 2019/317 der
+Kommission vom 11. Februar 2019 zur Festlegung eines Leistungssystems
+und einer Gebührenregelung für den einheitlichen europäischen
+Luftraum und zur Aufhebung der Durchführungsverordnungen (EU) Nr.
+390/2013 und (EU) Nr. 391/2013 (ABl. L 56 vom 25.2.2019, S. 1; L 8
+vom 13.1.2022, S. 192; L 112 vom 27.4.2023, S. 50), die zuletzt durch
+die Durchführungsverordnung (EU) Nr. 2021/1880 der Kommission vom
+26\. Oktober 2021 (L 380 vom 27.10.2021, S. 1) geändert worden ist,
+kann das Bundesministerium für Digitales und Verkehr auch rückwirkend
+gewähren, soweit eine Inanspruchnahme von Streckennavigations-Diensten
+und Streckennavigations-Einrichtungen der Flugsicherung erfolgt ist
+und keine Kosten nach Absatz 1 Satz 1 erhoben wurden.
 
 
 ## § 2
@@ -109,29 +103,17 @@ Bundesgesetzblatt bekanntzugeben.
 
 Der Bundesminister für Verkehr
 
-Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet C Abschnitt III
 
-## Anhang EV (BGBl. II 1990, 889, 1106)
+## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet C Abschnitt III (BGBl. II 1990, 889, 1106)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:
 1\. und 2. ...
-
-3.  Flugsicherungs-Streckengebührenverordnung vom 14. April 1984 (BGBl. I
-    S. 629), zuletzt geändert durch Verordnung vom 10. September 1986
-    (BGBl. I S. 1524)
-
-    und
-
-
-4.  ...
-
-    jeweils mit folgender Maßgabe:
-
-    Bei den unter Nummern 3 und 4 genannten Rechtsvorschriften sind Flüge
-    militärischer Luftfahrzeuge der Warschauer Vertragsstaaten denen der
-    NATO-Mitgliedstaaten gebührenrechtlich gleichgestellt.
-
-
-
+3\. Flugsicherungs-Streckengebührenverordnung vom 14. April 1984 (BGBl.
+I S. 629), zuletzt geändert durch Verordnung vom 10. September 1986
+(BGBl. I S. 1524)und
+4\. ...jeweils mit folgender Maßgabe:Bei den unter Nummern 3 und 4
+genannten Rechtsvorschriften sind Flüge militärischer Luftfahrzeuge
+der Warschauer Vertragsstaaten denen der NATO-Mitgliedstaaten
+gebührenrechtlich gleichgestellt.
 

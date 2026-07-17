@@ -19,7 +19,6 @@ Geändert durch
 :   Art. 1 V v. 19.10.2011 I 2098
 
 
-
 ## Eingangsformel
 
 Auf Grund des § 45 Abs. 4 Satz 2 des
@@ -41,68 +40,55 @@ Auszubildende, die eine Ausbildungsstätte besuchen, die gelegen ist
 
     durch das Land Baden-Württemberg,
 
-
 2.  in Liechtenstein, Österreich oder der Schweiz
 
     durch das Land Bayern,
-
 
 3.  in Italien, San Marino oder Vatikanstadt
 
     durch das Land Berlin,
 
-
 4.  in Afrika oder Ozeanien
 
     durch das Land Brandenburg,
-
 
 5.  in Amerika mit Ausnahme der Vereinigten Staaten von Amerika und mit
     Ausnahme von Kanada
 
     durch das Land Bremen,
 
-
 6.  in den Vereinigten Staaten von Amerika
 
     durch das Land Hamburg,
-
 
 7.  in Albanien, Bosnien und Herzegowina, Griechenland, Kosovo, Kroatien,
     Mazedonien, Montenegro, Serbien, Slowenien, Zypern oder Australien
 
     durch das Land Hessen,
 
-
 8.  in Schweden
 
     durch das Land Mecklenburg-Vorpommern,
-
 
 9.  in Großbritannien oder Irland
 
     durch das Land Niedersachsen,
 
-
 10. Belgien, Luxemburg oder den Niederlanden
 
     durch das Land Nordrhein-Westfalen,
-
 
 11. in Andorra, Frankreich oder Monaco
 
     durch das Land Rheinland-Pfalz,
 
-
 12. in Malta oder Portugal
 
     durch das Saarland,
 
-
 13. in Finnland
 
     durch das Land Sachsen-Anhalt,
-
 
 14. in Armenien, Aserbaidschan, Bulgarien, Estland, Georgien, Kasachstan,
     Kirgisistan, Lettland, Litauen, der Moldau, Polen, Rumänien, der
@@ -111,22 +97,17 @@ Auszubildende, die eine Ausbildungsstätte besuchen, die gelegen ist
 
     durch das Land Sachsen,
 
-
 15. in Dänemark, Island oder Norwegen
 
     durch das Land Schleswig-Holstein,
-
 
 16. in Kanada
 
     durch das Land Thüringen.
 
-
-
-
-(2) Wird ein neuer Staat gebildet, so besteht für Auszubildende, die
-eine auf seinem Gebiet gelegene Ausbildungsstätte besuchen, die
-örtliche Zuständigkeit des nach Absatz 1 bestimmten Amtes für
+(2) Wird ein neuer Staat gebildet, so besteht für Auszubildende,
+die eine auf seinem Gebiet gelegene Ausbildungsstätte besuchen,
+die örtliche Zuständigkeit des nach Absatz 1 bestimmten Amtes für
 Ausbildungsförderung fort.
 
 

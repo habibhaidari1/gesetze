@@ -1,7 +1,5 @@
 ---
-Title: Gesetz zu dem Europäischen Übereinkommen vom 22. Januar 1965 zur Verhütung
-  von Rundfunksendungen, die von Sendestellen außerhalb der staatlichen Hoheitsgebiete
-  gesendet werden
+Title: Gesetz zu dem Europäischen Übereinkommen vom 22. Januar 1965 zur Verhütung von Rundfunksendungen, die von Sendestellen außerhalb der staatlichen Hoheitsgebiete gesendet werden
 jurabk: EuRFVerhÜbkG
 layout: default
 origslug: eurfverh_bkg
@@ -33,16 +31,16 @@ wird nachstehend veröffentlicht.
 ## Art 2
 
 (1) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird
-bestraft, wer eine Rundfunksendestelle errichtet oder betreibt, wenn
-die Tat nicht nach § 15 Abs. 1 Satz 1 des Gesetzes über
+bestraft, wer eine Rundfunksendestelle errichtet oder betreibt,
+wenn die Tat nicht nach § 15 Abs. 1 Satz 1 des Gesetzes über
 Fernmeldeanlagen mit schwererer Strafe bedroht ist. Ebenso wird
 bestraft, wer eine Sendung einer Rundfunksendestelle bestellt oder
 durchführt.
 
 (2) Der Versuch ist strafbar.
 
-(3) Rundfunksendestellen im Sinne dieses Artikels sind die in den
-Artikeln 1 und 4 Buchstabe b des Übereinkommens bezeichneten
+(3) Rundfunksendestellen im Sinne dieses Artikels sind die in
+den Artikeln 1 und 4 Buchstabe b des Übereinkommens bezeichneten
 Sendestellen.
 
 
@@ -54,8 +52,8 @@ deutsche Strafrecht unabhängig vom Recht des Tatorts.
 
 ## Art 4
 
-Ist für eine Straftat nach Artikel 2 ein Gerichtsstand nach §§ 7 bis
-10, 13, 98 Abs. 2 Satz 3, § 128 Abs. 1 oder § 162 der
+Ist für eine Straftat nach Artikel 2 ein Gerichtsstand nach
+§§ 7 bis 10, 13, 98 Abs. 2 Satz 3, § 128 Abs. 1 oder § 162 der
 Strafprozeßordnung oder § 157 des Gerichtsverfassungsgesetzes im
 Geltungsbereich dieses Gesetzes nicht begründet, so ist Hamburg
 Gerichtsstand; zuständiges Amtsgericht ist das Amtsgericht Hamburg.

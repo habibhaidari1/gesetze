@@ -1,6 +1,5 @@
 ---
-Title: Ausführungsbestimmungen zum Tarif für die Schifffahrtsabgaben auf der Mosel
-  zwischen Thionville (Diedenhofen) und Koblenz (Coblence)
+Title: Ausführungsbestimmungen zum Tarif für die Schifffahrtsabgaben auf der Mosel zwischen Thionville (Diedenhofen) und Koblenz (Coblence)
 jurabk: MoselSchAbgT2002ABest
 layout: default
 origslug: moselschabgt2002abest
@@ -15,4 +14,7 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BAnz: 2002, Nr 8, 461
+
+Fundstelle
+:   BAnz: 2002, 461
 

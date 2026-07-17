@@ -1,7 +1,5 @@
 ---
-Title: Gesetz zu dem Abkommen vom 21. November 2000 zwischen der Regierung der Bundesrepublik
-  Deutschland und der Regierung der Republik Polen über den Bau und die Erhaltung
-  von Grenzbrücken im nachgeordneten Straßennetz
+Title: Gesetz zu dem Abkommen vom 21. November 2000 zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Republik Polen über den Bau und die Erhaltung von Grenzbrücken im nachgeordneten Straßennetz
 jurabk: GrBrückAbk2000POLG
 layout: default
 origslug: grbr_ckabk2000polg
@@ -18,7 +16,6 @@ Fundstelle
 :   BGBl II: 2002, 2331
 
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
@@ -27,13 +24,13 @@ beschlossen:
 
 ## Art 1
 
-Dem in Frankfurt (Oder) am 21. November 2000 unterzeichneten Abkommen
-zwischen der Regierung der Bundesrepublik Deutschland und der
-Regierung der Republik Polen über den Bau und die Erhaltung von
-Grenzbrücken in der Bundesrepublik Deutschland im Zuge von
-öffentlichen Straßen außerhalb des Netzes der Bundesfernstraßen, in
-der Republik Polen im Zuge von öffentlichen Straßen außerhalb des
-Netzes der Landesstraßen, wird zugestimmt. Das Abkommen wird
+Dem in Frankfurt (Oder) am 21. November 2000 unterzeichneten
+Abkommen zwischen der Regierung der Bundesrepublik Deutschland und
+der Regierung der Republik Polen über den Bau und die Erhaltung
+von Grenzbrücken in der Bundesrepublik Deutschland im Zuge von
+öffentlichen Straßen außerhalb des Netzes der Bundesfernstraßen,
+in der Republik Polen im Zuge von öffentlichen Straßen außerhalb
+des Netzes der Landesstraßen, wird zugestimmt. Das Abkommen wird
 nachstehend veröffentlicht.
 
 
@@ -62,9 +59,9 @@ Beschränkungen.
 (5) Die zuständigen Steuer- und Zollbehörden der Vertragsparteien
 verständigen sich und leisten einander die notwendigen Informationen
 und die Unterstützung bei der Anwendung ihrer Rechts- und
-Verwaltungsvorschriften im Rahmen der Absätze 1 bis 4. Die Vertreter
-der Behörden sind berechtigt, sich auf der Baustelle und der
-Grenzbrücke aufzuhalten sowie dort Maßnahmen im Rahmen der
+Verwaltungsvorschriften im Rahmen der Absätze 1 bis 4. Die
+Vertreter der Behörden sind berechtigt, sich auf der Baustelle
+und der Grenzbrücke aufzuhalten sowie dort Maßnahmen im Rahmen der
 Bestimmungen der Absätze 1 bis 4 zu treffen, die in ihren Rechts- und
 Verwaltungsvorschriften vorgesehen sind.
 

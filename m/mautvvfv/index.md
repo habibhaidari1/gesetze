@@ -25,8 +25,8 @@ Geändert durch
 ### § 1 Anwendungsbereich
 
 Diese Verordnung regelt das Verfahren zur Vermittlung bei
-Streitigkeiten zwischen den für die Erhebung einer Maut in Bund und
-Ländern zuständigen Behörden und registrierten Anbietern
+Streitigkeiten zwischen den für die Erhebung einer Maut in Bund
+und Ländern zuständigen Behörden und registrierten Anbietern
 mautdienstbezogener Leistungen nach den §§ 28 bis 30 des
 Mautsystemgesetzes.
 
@@ -40,14 +40,14 @@ einer Maut in Bund und Ländern jeweils zuständige Behörde sein.
 
 ### § 3 Vermittlungsgegenstand
 
-(1) Die Vermittlungsstelle wird bei Streitigkeiten zwischen den
-Parteien im Zusammenhang mit der Zulassung nach § 10 des
+(1) Die Vermittlungsstelle wird bei Streitigkeiten zwischen
+den Parteien im Zusammenhang mit der Zulassung nach § 10 des
 Mautsystemgesetzes und der beschränkten Zulassung nach § 11 des
 Mautsystemgesetzes auf Antrag tätig.
 
 (2) Gegenstand der Vermittlung ist insbesondere die Prüfung, ob
-Vertragsbedingungen, welche eine für die Erhebung einer Maut in Bund
-und Ländern zuständige Behörde den Anbietern auferlegt, keine
+Vertragsbedingungen, welche eine für die Erhebung einer Maut in
+Bund und Ländern zuständige Behörde den Anbietern auferlegt, keine
 Diskriminierung beinhalten, und ob die Vergütung der Anbieter die
 Voraussetzungen von § 10a des Mautsystemgesetzes erfüllt.
 
@@ -64,9 +64,9 @@ Privaten, dem die Errichtung und der Betrieb der Vermittlungsstelle
 und digitale Infrastruktur zuvor bestellter Vertreter den Vorsitz aus.
 
 (2) Ist der Vorsitzende dauerhaft an der Ausübung des Vorsitzes
-gehindert, bestimmt die Behörde oder der Private, dem die Errichtung
-und der Betrieb der Vermittlungsstelle übertragen wurde, mit
-Zustimmung des Bundesministeriums für Verkehr und digitale
+gehindert, bestimmt die Behörde oder der Private, dem die
+Errichtung und der Betrieb der Vermittlungsstelle übertragen wurde,
+mit Zustimmung des Bundesministeriums für Verkehr und digitale
 Infrastruktur einen neuen Vorsitzenden.
 
 
@@ -85,18 +85,18 @@ die jeweils andere Partei über den benannten Beisitzer.
 (1) Das Vermittlungsverfahren wird in der Regel schriftlich
 durchgeführt.
 
-(2) Die Vermittlungsstelle leitet alle Schriftsätze, Schriftstücke und
-sonstige Mitteilungen, die ihr im Rahmen der Einleitung und der
-Durchführung des Verfahrens von einer Partei vorgelegt werden, der
-jeweils anderen Partei zu. Die Parteien sind verpflichtet,
+(2) Die Vermittlungsstelle leitet alle Schriftsätze, Schriftstücke
+und sonstige Mitteilungen, die ihr im Rahmen der Einleitung und
+der Durchführung des Verfahrens von einer Partei vorgelegt werden,
+der jeweils anderen Partei zu. Die Parteien sind verpflichtet,
 Schriftsätze, Schriftstücke und sonstige Mitteilungen, die nicht
 elektronisch übermittelt werden, bei der Vermittlungsstelle in
 doppelter Ausfertigung in Papierform einzureichen.
 
 (3) Die Vermittlungsstelle ist nach vorheriger Zustimmung der Parteien
 berechtigt, alle Schriftsätze, Schriftstücke und sonstige Mitteilungen
-des Vermittlungsverfahrens, einschließlich der Stellungnahme nach § 14
-Absatz 1, elektronisch zu übermitteln sowie ihr im Rahmen des
+des Vermittlungsverfahrens, einschließlich der Stellungnahme nach
+§ 14 Absatz 1, elektronisch zu übermitteln sowie ihr im Rahmen des
 Vermittlungsverfahrens von einer Partei elektronisch übersandte
 Dokumente an die andere Partei elektronisch weiterzuleiten.
 
@@ -124,11 +124,7 @@ Partei bei der Vermittlungsstelle eingeleitet.
 
 1.  den Vermittlungsgegenstand und die Parteien genau bezeichnen und
 
-
 2.  eine Sachverhaltsdarstellung enthalten.
-
-
-
 
 (3) Entspricht der Antrag nicht den Anforderungen des Absatzes 2,
 fordert die Vermittlungsstelle den Antragsteller schriftlich auf,
@@ -149,28 +145,20 @@ Vermittlungsverfahrens ab, wenn
 1.  der Vermittlungsgegenstand gerichtlich anhängig ist oder in der
     Vergangenheit anhängig war,
 
-
 2.  die Streitigkeit durch außergerichtlichen Vergleich beigelegt wurde,
-
 
 3.  die streitgegenständliche Forderung von der anderen Partei bereits
     anerkannt wurde,
 
-
 4.  der Antragsteller rechtswirksam auf die streitgegenständliche
     Forderung verzichtet hat,
-
 
 5.  der Vermittlungsgegenstand bereits Gegenstand eines
     Vermittlungsverfahrens zwischen den Parteien ist oder war oder
 
-
 6.  das Vermittlungsverfahren zur Beilegung des Streits mit dem
     Antragsgegner ungeeignet ist, insbesondere der Vermittlungsgegenstand
     eine kostengünstige und schnelle Einigung nicht erwarten lässt.
-
-
-
 
 (2) Die Ablehnung des Antrags auf Durchführung eines
 Vermittlungsverfahrens ist dem Antragsteller schriftlich und unter
@@ -184,8 +172,8 @@ Fällen des § 8 den vollständigen Antrag und fordert ihn auf, innerhalb
 von vier Wochen nach Zugang des Schreibens hierauf schriftlich zu
 erwidern. Die Frist kann auf Antrag verlängert werden.
 
-(2) Erfolgt die Antragserwiderung nicht innerhalb der in Absatz 1
-bezeichneten Frist, gilt die Zustimmung zur Vermittlung als
+(2) Erfolgt die Antragserwiderung nicht innerhalb der in Absatz
+1 bezeichneten Frist, gilt die Zustimmung zur Vermittlung als
 verweigert. Ein Vermittlungsverfahren wird in diesem Fall nicht
 durchgeführt.
 
@@ -204,12 +192,12 @@ Vermittlungsgegenstandes enthalten.
 (3) Die Vermittlungsstelle gibt dem Antragsteller binnen einer
 angemessenen Frist, die drei Wochen nicht überschreiten soll,
 Gelegenheit zur Stellungnahme auf die Erwiderung des Antragsgegners.
-Ebenso gibt sie dem Antragsgegner innerhalb einer angemessenen Frist,
-die drei Wochen nicht überschreiten soll, die Möglichkeit zur
+Ebenso gibt sie dem Antragsgegner innerhalb einer angemessenen
+Frist, die drei Wochen nicht überschreiten soll, die Möglichkeit zur
 Erwiderung auf die Stellungnahme des Antragstellers nach Satz 1. Die
 Fristen der Sätze 1 und 2 können auf Antrag verlängert werden. In
-geeigneten Fällen kann die Vermittlungsstelle von der Aufforderung zur
-Stellungnahme absehen und ihre Stellungnahme nach § 14 Absatz 1
+geeigneten Fällen kann die Vermittlungsstelle von der Aufforderung
+zur Stellungnahme absehen und ihre Stellungnahme nach § 14 Absatz 1
 aufgrund der Aktenlage abgeben.
 
 (4) Wenn die Vermittlungsstelle eine weitere Aufklärung des Sach- und
@@ -238,19 +226,19 @@ gegenüber der Vermittlungsstelle schriftlich widerspricht.
 Räumen der Vermittlungsstelle durchgeführt, sofern der Vorsitzende mit
 Zustimmung der Parteien nicht einen anderen Ort bestimmt.
 
-(3) Der Vorsitzende leitet den Erörterungstermin nach freiem Ermessen.
-Es soll ein Vermittlungsgespräch durchgeführt werden. Eine
+(3) Der Vorsitzende leitet den Erörterungstermin nach freiem
+Ermessen. Es soll ein Vermittlungsgespräch durchgeführt werden. Eine
 Beweisaufnahme findet nicht statt.
 
-(4) Jede der Parteien kann unter Angabe von Gründen eine Vertagung des
-Termins beantragen. Gibt die Vermittlungsstelle dem Antrag statt,
+(4) Jede der Parteien kann unter Angabe von Gründen eine Vertagung
+des Termins beantragen. Gibt die Vermittlungsstelle dem Antrag statt,
 setzt sie beide Parteien hiervon in Kenntnis und bestimmt einen neuen
 Termin.
 
 (5) Die Parteien sind verpflichtet, zu dem Erörterungstermin zu
 erscheinen. Sie können an ihrer Stelle einen Vertreter entsenden.
-Erscheint eine Partei oder erscheinen beide Parteien nicht zu dem
-Erörterungstermin, gilt dies im Fall des Antragstellers als
+Erscheint eine Partei oder erscheinen beide Parteien nicht zu
+dem Erörterungstermin, gilt dies im Fall des Antragstellers als
 Antragsrücknahme und im Fall des Antragsgegners als Rücknahme der
 Zustimmung.
 
@@ -275,8 +263,8 @@ setzen.
 ### § 14 Stellungnahme
 
 (1) Der Spruchkörper nimmt spätestens sechs Monate nach Eingang eines
-Antrags auf Vermittlung zu der Streitigkeit schriftlich Stellung. Die
-Stellungnahme ist kurz und verständlich zu begründen. Hierin ist
+Antrags auf Vermittlung zu der Streitigkeit schriftlich Stellung.
+Die Stellungnahme ist kurz und verständlich zu begründen. Hierin ist
 aufzuzeigen, wie der Streit der Parteien aufgrund der Rechtslage unter
 Berücksichtigung von Treu und Glauben angemessen beigelegt werden
 kann.
@@ -301,12 +289,12 @@ allgemein oder der anderen Partei oder den anderen Beteiligten bekannt
 oder sonst zugänglich sind oder waren.
 
 (2) Soweit eine Partei oder Person aufgrund besonderer
-Rechtsverhältnisse verpflichtet ist, Dritte über Angelegenheiten des
-Verfahrens zu informieren, hat die Partei oder Person dies
+Rechtsverhältnisse verpflichtet ist, Dritte über Angelegenheiten
+des Verfahrens zu informieren, hat die Partei oder Person dies
 unverzüglich der Vermittlungsstelle offen zu legen.
 
-(3) Die Vermittlungsstelle tauscht mit den Vermittlungsstellen der
-anderen Mitgliedstaaten der Europäischen Union und der anderen
+(3) Die Vermittlungsstelle tauscht mit den Vermittlungsstellen
+der anderen Mitgliedstaaten der Europäischen Union und der anderen
 Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
 Informationen über ihre Arbeit, Leitlinien und Verfahren in nicht
 personenbezogener Form aus.
@@ -318,19 +306,13 @@ Das Verfahren ist beendet, wenn
 
 1.  der Spruchkörper zu dem Sachverhalt Stellung genommen hat,
 
-
 2.  sich die Parteien geeinigt haben,
-
 
 3.  der Antragsteller seinen Antrag auf Vermittlung zurückgenommen hat
     oder
 
-
 4.  der Antragsgegner seine Zustimmung zur Durchführung des
     Vermittlungsverfahrens zurückgenommen hat.
-
-
-
 
 
 ### § 17 Hinzuziehung Dritter

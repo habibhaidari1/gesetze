@@ -1,7 +1,5 @@
 ---
-Title: Zweihundertachtunddreißigste Durchführungsverordnung zur Luftverkehrs-Ordnung
-  (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom
-  Flughafen Saarbrücken)
+Title: Zweihundertachtunddreißigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Flughafen Saarbrücken)
 jurabk: LuftVODV 238
 layout: default
 origslug: luftvodv_238
@@ -16,4 +14,7 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BAnz: 2008, Nr 88, 2086
+
+Fundstelle
+:   BAnz: 2008, 2086
 

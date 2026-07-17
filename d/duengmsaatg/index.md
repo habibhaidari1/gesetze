@@ -16,7 +16,6 @@ Fundstelle
 :   WiGBl: 1949, 8
 
 
-
 ## Eingangsformel
 
 Der Wirtschaftsrat hat das folgende Gesetz beschlossen:
@@ -24,17 +23,17 @@ Der Wirtschaftsrat hat das folgende Gesetz beschlossen:
 
 ## § 1
 
-(1) Wegen der Ansprüche aus der Lieferung von Düngemitteln und
-anerkanntem Saatgut oder von zugelassenem Handelssaatgut - mit
-Ausnahme von Zuckerrübensamen -, die von dem Eigentümer,
+(1) Wegen der Ansprüche aus der Lieferung von Düngemitteln
+und anerkanntem Saatgut oder von zugelassenem Handelssaatgut
+- mit Ausnahme von Zuckerrübensamen -, die von dem Eigentümer,
 Eigenbesitzer, Nutznießer oder Pächter landwirtschaftlicher
 Grundstücke im Rahmen einer ordnungsmäßigen Wirtschaftsweise in der
 für derartige Geschäfte üblichen Art nach dem 31. Juli zur Steigerung
 des Ertrags der nächsten Ernte beschafft und verwendet worden sind,
 hat der Gläubiger ein gesetzliches Pfandrecht an den in dieser Ernte
-anfallenden Früchten der zum Betrieb gehörigen Grundstücke, auch wenn
-die Früchte noch nicht vom Grundstück getrennt worden sind. Das
-Pfandrecht erstreckt sich nicht auf die der Pfändung nicht
+anfallenden Früchten der zum Betrieb gehörigen Grundstücke, auch
+wenn die Früchte noch nicht vom Grundstück getrennt worden sind.
+Das Pfandrecht erstreckt sich nicht auf die der Pfändung nicht
 unterworfenen Früchte.
 
 (2) Die Vorschrift des Absatzes 1 gilt auch für Ansprüche aus
@@ -45,8 +44,8 @@ Pächter zur Bezahlung dieser Lieferung in der für derartige Geschäfte
 
 ## § 2
 
-(1) Das Pfandrecht des Gläubigers erlischt mit der Entfernung der ihm
-unterliegenden Früchte von dem Grundstück, es sei denn, daß die
+(1) Das Pfandrecht des Gläubigers erlischt mit der Entfernung der
+ihm unterliegenden Früchte von dem Grundstück, es sei denn, daß die
 Entfernung ohne Wissen oder unter Widerspruch des Gläubigers erfolgt.
 Der Gläubiger kann der Entfernung nicht widersprechen, wenn sie im
 Rahmen einer ordnungsmäßigen Wirtschaftsweise erfolgt oder wenn die
@@ -82,12 +81,12 @@ unterliegend kenntlich gemacht und gesondert aufbewahrt wird.
 Geschieht dies, so beschränkt sich das Pfandrecht auf diese Menge; § 2
 Abs. 1 ist insoweit nicht anzuwenden.
 
-(2) Die Zwangsvollstreckung wegen des dem Pfandgläubiger nach Absatz 1
-Satz 1 zustehenden Anspruchs geschieht im Wege der Pfändung eines zur
-Sicherung der Forderung ausreichenden Teils der dem Pfandrecht
-unterliegenden Früchte. Der Anspruch kann auch im Verfahren auf Erlaß
-einer einstweiligen Verfügung geltend gemacht werden; der
-Glaubhaftmachung einer Gefährdung im Sinne des § 935 der
+(2) Die Zwangsvollstreckung wegen des dem Pfandgläubiger nach
+Absatz 1 Satz 1 zustehenden Anspruchs geschieht im Wege der
+Pfändung eines zur Sicherung der Forderung ausreichenden Teils der
+dem Pfandrecht unterliegenden Früchte. Der Anspruch kann auch im
+Verfahren auf Erlaß einer einstweiligen Verfügung geltend gemacht
+werden; der Glaubhaftmachung einer Gefährdung im Sinne des § 935 der
 Zivilprozeßordnung bedarf es nicht.
 
 
@@ -100,13 +99,12 @@ Zivilprozeßordnung, geltend gemacht worden ist.
 
 ## § 5
 
-Die Vorschriften der
-§§ 18 und 19a der Verordnung über Maßnahmen auf dem Gebiete der
-Zwangsvollstreckung vom 26. Mai 1933 (Reichsgesetzbl. I S. 302) in der
-Fassung des Gesetzes zur Änderung der Vorschriften über die
-Zwangsvollstreckung vom 24. Oktober 1934 (Reichsgesetzbl. I S. 1070)
-sind auf die Zwangsvollstreckung wegen Forderungen der in § 1
-bezeichneten Art in die dem Pfandrecht unterliegenden Früchte nicht
+Die Vorschriften der *§§ 18 und 19a der Verordnung über Maßnahmen auf
+dem Gebiete der Zwangsvollstreckung vom 26. Mai 1933 (Reichsgesetzbl.
+I S. 302) in der Fassung des Gesetzes zur Änderung der Vorschriften
+über die Zwangsvollstreckung vom 24. Oktober 1934 (Reichsgesetzbl. I
+S. 1070)* sind auf die Zwangsvollstreckung wegen Forderungen der in §
+1 bezeichneten Art in die dem Pfandrecht unterliegenden Früchte nicht
 anzuwenden.
 
 
@@ -117,6 +115,6 @@ anzuwenden.
 
 ## § 7
 
-Dieses Gesetz tritt mit Wirkung vom 1. August 1948 an in Kraft
-und tritt am 1. August 1951 außer Kraft             .
+Dieses Gesetz tritt mit Wirkung vom 1. August 1948 an in Kraft *und
+tritt am 1. August 1951 außer Kraft*.
 

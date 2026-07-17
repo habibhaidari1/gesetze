@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl I: 1976, 1109
 
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
@@ -45,9 +44,9 @@ dabei Unstimmigkeiten des Wortlauts zu beseitigen.
 ## Art 4
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
-Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
-im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes
-erlassen werden, gelten im Land Berlin nach § 14 des Dritten
+Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S.
+1) auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses
+Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
 
 

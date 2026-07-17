@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung der Umrechnungsfaktoren für den Versorgungsausgleich in der
-  Rentenversicherung
+Title: Bekanntmachung der Umrechnungsfaktoren für den Versorgungsausgleich in der Rentenversicherung
 jurabk: VersorgAusglUmrFaktorBek 2014
 layout: default
 origslug: versorgausglumrfaktorbek_2014
@@ -25,89 +24,36 @@ die zuletzt durch Artikel 259 Nummer 1 der Verordnung vom 31. Oktober
 2006 (BGBl. I S. 2407) geändert worden sind, wird bekannt gemacht:
 
 Die auf Grund des vorläufigen Durchschnittsentgelts und des
-Beitragssatzes für das Jahr 2014 berechneten Faktoren betragen im Jahr
-2014
+Beitragssatzes für das Jahr 2014 berechneten Faktoren betragen im
+Jahr 2014
 
 1.  in der allgemeinen Rentenversicherung für die Umrechnung
 
-    a)
-        *            *   von Entgeltpunkten in Beiträge
+    a)  | von Entgeltpunkten in Beiträge | 6587,9730, |
+        | --- | --- |
 
-            *   6587,9730,
+        | von Entgeltpunkten (Ost) in Beiträge | 5548,7013, |
+        | --- | --- |
 
+    b)  | von Beiträgen, Barwerten, Deckungskapitalien und vergleichbaren Deckungsrücklagen in Entgeltpunkte | 0,0001517918, |
+        | --- | --- |
 
-
-
-
-        *            *   von Entgeltpunkten (Ost) in Beiträge
-
-            *   5548,7013,
-
-
-
-
-
-    b)
-        *            *   von Beiträgen, Barwerten, Deckungskapitalien und
-                vergleichbaren Deckungsrücklagen in Entgeltpunkte
-
-            *   0,0001517918,
-
-
-
-
-
-        *            *   von Beiträgen in Entgeltpunkte (Ost)
-
-            *   0,0001802224,
-
-
-
-
-
-
-
+        | von Beiträgen in Entgeltpunkte (Ost) | 0,0001802224, |
+        | --- | --- |
 
 2.  in der knappschaftlichen Rentenversicherung für die Umrechnung
 
-    a)
-        *            *   von Entgeltpunkten in Beiträge
+    a)  | von Entgeltpunkten in Beiträge | 8749,1070, |
+        | --- | --- |
 
-            *   8749,1070,
+        | von Entgeltpunkten (Ost) in Beiträge | 7368,9101, |
+        | --- | --- |
 
+    b)  | von Beiträgen in Entgeltpunkte | 0,0001142974, |
+        | --- | --- |
 
-
-
-
-        *            *   von Entgeltpunkten (Ost) in Beiträge
-
-            *   7368,9101,
-
-
-
-
-
-    b)
-        *            *   von Beiträgen in Entgeltpunkte
-
-            *   0,0001142974,
-
-
-
-
-
-        *            *   von Beiträgen in Entgeltpunkte (Ost)
-
-            *   0,0001357053.
-
-
-
-
-
-
-
-
-
+        | von Beiträgen in Entgeltpunkte (Ost) | 0,0001357053. |
+        | --- | --- |
 
 
 ## Schlussformel

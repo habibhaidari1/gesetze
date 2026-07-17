@@ -15,10 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   GBl DDR I: 1978, 365
 
+Fundstelle
+:   GBl DDR I: 1978, Nr 33, 365
 
 
 ## (XXXX) §§ 1 bis 7 (weggefallen)
-
 
 
 ## § 8 Erholungsurlaub für Kämpfer gegen den Faschismus und Verfolgte des Faschismus
@@ -30,7 +31,6 @@ bei Vorliegen der Voraussetzungen zusätzlich gewährt.
 
 
 ## (XXXX) §§ 9 bis 13 (weggefallen)
-
 
 
 ## Schlußformel

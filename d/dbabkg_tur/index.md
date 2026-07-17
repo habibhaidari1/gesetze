@@ -1,7 +1,5 @@
 ---
-Title: Gesetz zu dem Abkommen vom 19. September 2011 zwischen der Bundesrepublik Deutschland
-  und der Republik Türkei zur Vermeidung der Doppelbesteuerung und der Steuerverkürzung
-  auf dem Gebiet der Steuern vom Einkommen
+Title: Gesetz zu dem Abkommen vom 19. September 2011 zwischen der Bundesrepublik Deutschland und der Republik Türkei zur Vermeidung der Doppelbesteuerung und der Steuerverkürzung auf dem Gebiet der Steuern vom Einkommen
 jurabk: DBAbkG TUR
 layout: default
 origslug: dbabkg_tur
@@ -35,16 +33,16 @@ veröffentlicht.
 
 ## Art 2
 
-Soweit das Abkommen auf Grund seines Artikels 30 Absatz 2 für die Zeit
-vor seinem Inkrafttreten anzuwenden ist, sind bereits ergangene
+Soweit das Abkommen auf Grund seines Artikels 30 Absatz 2 für die
+Zeit vor seinem Inkrafttreten anzuwenden ist, sind bereits ergangene
 Steuerfestsetzungen zu ändern oder aufzuheben. Steuerfestsetzungen
 sowie ihre Aufhebung und Änderung sind insoweit auch zulässig, wenn
-die Festsetzungsfrist abgelaufen ist; dies gilt nur bis zum Ablauf des
-vierten Kalenderjahrs, das auf das Kalenderjahr folgt, in dem das
-Abkommen in Kraft getreten ist. Soweit sich bis zum Zeitpunkt des
+die Festsetzungsfrist abgelaufen ist; dies gilt nur bis zum Ablauf
+des vierten Kalenderjahrs, das auf das Kalenderjahr folgt, in dem
+das Abkommen in Kraft getreten ist. Soweit sich bis zum Zeitpunkt des
 Inkrafttretens des Abkommens unter Berücksichtigung der jeweiligen
-Besteuerung in der Bundesrepublik Deutschland und der Republik Türkei
-insgesamt eine höhere Belastung ergibt, als sie nach den
+Besteuerung in der Bundesrepublik Deutschland und der Republik
+Türkei insgesamt eine höhere Belastung ergibt, als sie nach den
 Rechtsvorschriften vor dem Inkrafttreten des Abkommens bestand, wird
 der Steuermehrbetrag nicht festgesetzt.
 

@@ -1,6 +1,5 @@
 ---
-Title: Gesetz über die unentgeltliche Beförderung Schwerbehinderter im öffentlichen
-  Personenverkehr
+Title: Gesetz über die unentgeltliche Beförderung Schwerbehinderter im öffentlichen Personenverkehr
 jurabk: UnBefG 1979
 layout: default
 origslug: unbefg_1979
@@ -33,13 +32,13 @@ beschlossen:
 
 ## Art 2 Besitzstand
 
-(1) Der Elfte Abschnitt des Schwerbehindertengesetzes in der durch
-Artikel 1 geänderten Fassung, geändert durch Artikel 20 des
+(1) Der Elfte Abschnitt des Schwerbehindertengesetzes in der
+durch Artikel 1 geänderten Fassung, geändert durch Artikel 20 des
 Haushaltsbegleitgesetzes 1984 vom 22. Dezember 1983 (BGBl. I S. 1532),
 gilt auch für Personen, die
 
-1.  bei Inkrafttreten dieses Gesetzes die Voraussetzungen nach § 2 Abs. 1
-    Nr. 1 und 3 und Abs. 3 des Gesetzes über die unentgeltliche
+1.  bei Inkrafttreten dieses Gesetzes die Voraussetzungen nach § 2
+    Abs. 1 Nr. 1 und 3 und Abs. 3 des Gesetzes über die unentgeltliche
     Beförderung von Kriegs- und Wehrdienstbeschädigten sowie von anderen
     Behinderten im Nahverkehr vom 27. August 1965 (BGBl. I S. 978),
     zuletzt geändert durch Artikel 41 des Zuständigkeitsanpassungsgesetzes
@@ -47,20 +46,18 @@ gilt auch für Personen, die
     Minderung der Erwerbsfähigkeit infolge der anerkannten Schädigung auf
     wenigstens 70 vom Hundert festgestellt ist,
 
-
 2.  ihren Wohnsitz oder gewöhnlichen Aufenthalt außerhalb des
     Geltungsbereichs dieses Gesetzes haben und
 
-    a)  bei Inkrafttreten dieses Gesetzes die Voraussetzungen nach § 2 Abs. 1
-        Nr. 2 und 4 und Abs. 3 des Gesetzes über die unentgeltliche
+    a)  bei Inkrafttreten dieses Gesetzes die Voraussetzungen nach § 2
+        Abs. 1 Nr. 2 und 4 und Abs. 3 des Gesetzes über die unentgeltliche
         Beförderung von Kriegs- und Wehrdienstbeschädigten sowie von anderen
         Behinderten im Nahverkehr vom 27. August 1965 (BGBl. I S. 978),
         zuletzt geändert durch Artikel 41 des Zuständigkeitsanpassungsgesetzes
         vom 18. März 1975 (BGBl. I S. 705), erfüllten, solange der Grad der
-        Minderung der Erwerbsfähigkeit infolge der anerkannten Schädigung auf
-        wenigstens 50 vom Hundert festgestellt ist und sie infolge der
+        Minderung der Erwerbsfähigkeit infolge der anerkannten Schädigung
+        auf wenigstens 50 vom Hundert festgestellt ist und sie infolge der
         Schädigung erheblich gehbehindert sind, oder
-
 
     b)  Deutsche im Sinne des Artikels 116 des Grundgesetzes sind, die
         körperlich, geistig oder seelisch behindert und infolge ihrer
@@ -69,16 +66,10 @@ gilt auch für Personen, die
         nach § 57 Abs. 1 des Schwerbehindertengesetzes in der durch Artikel 1
         geänderten Fassung erfüllen.
 
-
-
-
-
-
-
 (2) In den Fällen des Absatzes 1 gilt § 3 des
-Schwerbehindertengesetzes in der durch Artikel 1 geänderten Fassung
-entsprechend. In Fällen des Absatzes 1 Nr. 2 Buchstabe b kann
-abweichend hiervon ein Ausweis ausgestellt werden, wenn die
+Schwerbehindertengesetzes in der durch Artikel 1 geänderten
+Fassung entsprechend. In Fällen des Absatzes 1 Nr. 2 Buchstabe b
+kann abweichend hiervon ein Ausweis ausgestellt werden, wenn die
 gesundheitlichen Voraussetzungen offensichtlich sind, durch geeignete
 Beweismittel nachgewiesen werden oder auf sonstige Weise glaubhaft
 gemacht werden können; die Gültigkeit eines solchen Ausweises ist auf
@@ -91,22 +82,18 @@ einer Wertmarke versehen.
     gewöhnlichen Aufenthalt außerhalb des Geltungsbereichs dieses Gesetzes
     haben, und für Personen im Sinne des Absatzes 1 Nr. 2 Buchstabe a die
     auf Grund des § 3 Abs. 5 des Gesetzes über das Verwaltungsverfahren
-    der Kriegsopferversorgung in der Fassung der Bekanntmachung vom 6. Mai
-    1976 (BGBl. I S. 1169) durch Rechtsverordnung bestimmte
+    der Kriegsopferversorgung in der Fassung der Bekanntmachung vom
+    6\. Mai 1976 (BGBl. I S. 1169) durch Rechtsverordnung bestimmte
     Verwaltungsbehörde,
 
-
-2.  für Personen im Sinne des Absatzes 1 Nr. 2 Buchstabe b die für die
-    Durchführung des Bundesversorgungsgesetzes zuständige Behörde, in
-    deren Bereich sich der Behinderte während seines Besuchs im
+2.  für Personen im Sinne des Absatzes 1 Nr. 2 Buchstabe b die für
+    die Durchführung des Bundesversorgungsgesetzes zuständige Behörde,
+    in deren Bereich sich der Behinderte während seines Besuchs im
     Geltungsbereich dieses Gesetzes tatsächlich aufhält.
 
-
-
-
 (4) Ausweise für Personen, die außerhalb des Geltungsbereichs dieses
-Gesetzes wohnen, werden bei Festsetzung der Vomhundertsätze nach §§ 60
-und 61 in der durch Artikel 1 geänderten Fassung zu einem Zwölftel
+Gesetzes wohnen, werden bei Festsetzung der Vomhundertsätze nach §§
+60 und 61 in der durch Artikel 1 geänderten Fassung zu einem Zwölftel
 gezählt.
 
 
@@ -121,10 +108,10 @@ derzeitigen Geltungsdauer.
 
 (2) Ausweise, die nicht mit einem orangefarbenen Flächenaufdruck
 gekennzeichnet, auf denen aber die Merkzeichen "G", "aG" oder "Blind"
-oder der Grad der Minderung der Erwerbsfähigkeit um wenigstens 80 vom
-Hundert eingetragen sind, werden auf Antrag des Behinderten von den
-für die Durchführung des Bundesversorgungsgesetzes zuständigen
-Behörden durch einen mit orangefarbenem Flächenaufdruck
+oder der Grad der Minderung der Erwerbsfähigkeit um wenigstens 80
+vom Hundert eingetragen sind, werden auf Antrag des Behinderten
+von den für die Durchführung des Bundesversorgungsgesetzes
+zuständigen Behörden durch einen mit orangefarbenem Flächenaufdruck
 gekennzeichneten Ausweis ersetzt.
 
 
@@ -140,28 +127,24 @@ des Jahres 1979 nach Inkrafttreten dieses Gesetzes
 
 1.  zu Lasten der Länder in Höhe von 0,161 vom Hundert,
 
-
 2.  zu Lasten des Bundes in Höhe von 0,161 vom Hundert für den Nahverkehr
     nach § 63 Abs. 1 Satz 1 Nr. 1 sowie für die übrigen auf den Bund gemäß
     § 63 Abs. 1 Satz 1 des Schwerbehindertengesetzes in der durch Artikel
     1 geänderten Fassung entfallenden Aufwendungen in Höhe von 0,035 vom
     Hundert der für 1978 nachgewiesenen Fahrgeldeinnahmen im Nahverkehr.
 
+(3) Für die unentgeltliche Beförderung im Fernverkehr erhalten
+die Unternehmer im Jahre 1979 auf Antrag Vorauszahlungen für jeden
+Monat des Jahres 1979 nach Inkrafttreten dieses Gesetzes in Höhe
+von 0,025 vom Hundert der für 1978 nachgewiesenen Fahrgeldeinnahmen
+im Fernverkehr.
 
-
-
-(3) Für die unentgeltliche Beförderung im Fernverkehr erhalten die
-Unternehmer im Jahre 1979 auf Antrag Vorauszahlungen für jeden Monat
-des Jahres 1979 nach Inkrafttreten dieses Gesetzes in Höhe von 0,025
-vom Hundert der für 1978 nachgewiesenen Fahrgeldeinnahmen im
-Fernverkehr.
-
-(4) Für jeden Monat in der Zeit vom 1. Januar 1979 bis zum Letzten des
-Monats vor Inkrafttreten dieses Gesetzes erhalten die nach § 1 des
-Gesetzes über die unentgeltliche Beförderung von Kriegs- und
-Wehrdienstbeschädigten sowie von anderen Behinderten im Nahverkehr vom
-27\. August 1965 (BGBl. I S. 978), zuletzt geändert durch Artikel 41
-des Zuständigkeitsanpassungsgesetzes vom 18. März 1975 (BGBl. I S.
+(4) Für jeden Monat in der Zeit vom 1. Januar 1979 bis zum Letzten
+des Monats vor Inkrafttreten dieses Gesetzes erhalten die nach §
+1 des Gesetzes über die unentgeltliche Beförderung von Kriegs- und
+Wehrdienstbeschädigten sowie von anderen Behinderten im Nahverkehr
+vom 27. August 1965 (BGBl. I S. 978), zuletzt geändert durch Artikel
+41 des Zuständigkeitsanpassungsgesetzes vom 18. März 1975 (BGBl. I S.
 705), verpflichteten Unternehmen auf Antrag Abschlagszahlungen in Höhe
 von 6,7 vom Hundert der vom Bund und von den Ländern zuletzt für ein
 Jahr festgesetzten Erstattungsbeträge.
@@ -179,7 +162,6 @@ Wochen nach Inkrafttreten dieses Gesetzes gezahlt.
 ## (XXXX) Art 6 bis 8
 
 
-
 ## Art 9 Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
@@ -194,8 +176,8 @@ des Dritten Überleitungsgesetzes.
 
 (2) Mit dem Inkrafttreten dieses Gesetzes tritt das Gesetz über die
 unentgeltliche Beförderung von Kriegs- und Wehrdienstbeschädigten
-sowie von anderen Behinderten im Nahverkehr vom 27. August 1965 (BGBl.
-I S. 978), zuletzt geändert durch Artikel 41 des
+sowie von anderen Behinderten im Nahverkehr vom 27. August
+1965 (BGBl. I S. 978), zuletzt geändert durch Artikel 41 des
 Zuständigkeitsanpassungsgesetzes vom 18. März 1975 (BGBl. I S. 705),
 außer Kraft. Ansprüche der Unternehmen daraus bleiben bestehen;
 hierfür gelten die Verfahrensvorschriften des bisherigen Rechts.

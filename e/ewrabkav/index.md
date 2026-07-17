@@ -1,6 +1,5 @@
 ---
-Title: Verordnung zur Ausführung des Abkommens vom 2. Mai 1992 über den Europäischen
-  Wirtschaftsraum für die Anwendung von Vorschriften des Gesetzes über das Kreditwesen
+Title: Verordnung zur Ausführung des Abkommens vom 2. Mai 1992 über den Europäischen Wirtschaftsraum für die Anwendung von Vorschriften des Gesetzes über das Kreditwesen
 jurabk: EWRAbkAV
 layout: default
 origslug: ewrabkav
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 1996, 319
-
 
 
 ## Eingangsformel

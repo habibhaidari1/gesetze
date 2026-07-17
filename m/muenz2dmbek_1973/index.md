@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 2 Deutschen
-  Mark
+Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 2 Deutschen Mark
 jurabk: Münz2DMBek 1973
 layout: default
 origslug: m_nz2dmbek_1973
@@ -17,11 +16,10 @@ Fundstelle
 :   BGBl I: 1973, 602
 
 
-
 ## (XXXX)
 
-(1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen vom
-8\. Juli 1950 (Bundesgesetzbl. S. 323) gibt der Bund nachfolgend
+(1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen
+vom 8. Juli 1950 (Bundesgesetzbl. S. 323) gibt der Bund nachfolgend
 beschriebene, für den Zahlungsverkehr bestimmte Bundesmünze im
 Nennwert von 2 Deutschen Mark heraus. Die Münze wird in hoher Auflage
 geprägt und soll - ebenso wie die Adenauer-Münze - die Max-Planck-
@@ -32,19 +30,14 @@ wird. Mit der Ausgabe der neuen Münze wird am 1. Juli 1973 begonnen.
 Bundespräsidenten Professor Dr. Theodor Heuss im Profil mit der
 Umschrift:
 
-*   BUNDESREPUBLIK DEUTSCHLAND . 1949-1969.
-
-
-
+-   BUNDESREPUBLIK DEUTSCHLAND . 1949-1969.
 
 (3) Die Wertseite der Münze zeigt in der Mitte den Bundesadler. Das
 Adlerbild ist von der Umschrift:
 
-*   BUNDESREPUBLIK DEUTSCHLAND
+-   BUNDESREPUBLIK DEUTSCHLAND
 
     2 DEUTSCH MARK
-
-
 
 umschlossen. Dabei steht die Wertziffer 2 in der Mitte unter dem
 Adler. Oberhalb des Adlerkopfes ist die jeweilige Jahreszahl,
@@ -56,9 +49,7 @@ einem schützenden glatten Randstab umgeben.
 
 (5) Der glatte Münzrand ist mit der vertieften Inschrift:
 
-*   EINIGKEIT UND RECHT UND FREIHEIT
-
-
+-   EINIGKEIT UND RECHT UND FREIHEIT
 
 versehen. Zwischen jedem der Worte ist ein Ornament, am Schluß der
 Inschrift sind zwei Ornamente angebracht.

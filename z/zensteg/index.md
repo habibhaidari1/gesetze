@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl I: 2001, 1882
 
 
-
 ## § 1 Anordnung von Testerhebungen und -verfahren
 
 (1) Zur Erprobung eines registergestützten Zensusverfahrens werden
@@ -27,19 +26,13 @@ methodische Untersuchungen als Bundesstatistik durchgeführt.
 
 1.  eine Stichprobenerhebung bei allen Meldebehörden,
 
-
 2.  Stichprobenerhebungen bei Meldebehörden in ausgewählten Gemeinden und
     bei Personen in ausgewählten Gebäuden,
-
 
 3.  eine postalische Gebäude- und Wohnungsstichprobe in ausgewählten
     Gemeinden,
 
-
 4.  eine Stichprobenerhebung bei der Bundesanstalt für Arbeit.
-
-
-
 
 (3) Erhebungseinheiten sind Personen, Haushalte, Gebäude mit Wohnraum
 und Wohnungen.
@@ -53,10 +46,7 @@ eine Stichprobenerhebung durchgeführt, die sich auf
 1.  Einwohner aller Geburtsjahrgänge, die am 1. Januar, 15. Mai und 1.
     September geboren sind, und
 
-
 2.  alle Einwohner mit unvollständig eingetragenem Geburtsdatum
-
-
 
 erstreckt, die zu den Stichtagen 5. Dezember 2001 und 31. März 2002 in
 der Gemeinde mit alleiniger Wohnung, Haupt- oder Nebenwohnung gemeldet
@@ -69,104 +59,68 @@ Einwohner folgende Merkmale erhoben:
 
     a)  Geburtsmonat und -jahr,
 
-
     b)  Geschlecht,
-
 
     c)  Staatsangehörigkeiten,
 
-
     d)  bei im Ausland Geborenen: Geburtsstaat,
-
 
     e)  Familienstand,
 
-
     f)  Wohnort,
 
-
     g)  Status der Wohnung (alleinige Wohnung, Haupt- oder Nebenwohnung);
-
-
-
-
 
 2.  als Hilfsmerkmale:
 
     a)  Namen, Vornamen,
 
-
     b)  gegenwärtige Anschriften,
-
 
     c)  Tag der Geburt,
 
-
     d)  Geburtsort,
 
-
     e)  Standesamt und Nummer des Geburtseintrags,
-
 
     f)  Anschrift und Status der künftigen Wohnung oder der Wohnung, in die
         der Einwohner laut Rückmeldung verzogen ist,
 
-
     g)  Anschrift und Status der Wohnung in der Gemeinde, aus der der
         Einwohner zugezogen ist,
 
-
     h)  Zuzug aus dem Ausland,
-
 
     i)  Anschrift der zuletzt bewohnten Wohnung in der Gemeinde,
 
-
     j)  Datum des Beziehens der Wohnung,
-
 
     k)  Datum des Auszugs aus der Wohnung,
 
-
     l)  Datum des Fortzugs ins Ausland,
-
 
     m)  Datum der Anmeldung bei der Meldebehörde,
 
-
     n)  Datum der Abmeldung bei der Meldebehörde,
 
-
     o)  Datum des Wohnungsstatuswechsels.
-
-
-
-
-
-
 
 (3) Von den Meldebehörden werden folgende Hilfsmerkmale erhoben:
 
 1.  Bezeichnung und Anschrift der Meldebehörde,
 
-
 2.  Name und Telekommunikationsnummer der Person, die für Rückfragen zur
     Verfügung steht,
-
 
 3.  Bezeichnung und Anschrift der mit der Datenverarbeitung beauftragten
     Stelle,
 
-
 4.  technische Gegebenheiten der Führung des Melderegisters
     (Betriebssystem, Software, Möglichkeiten des Datentransfers).
 
-
-
-
-(4) Die Meldebehörden übermitteln den zuständigen statistischen Ämtern
-der Länder gemeindeweise die Zahl der gemeldeten Einwohner nach
-Deutschen und Ausländern sowie Status der Wohnung zum Stichtag 5.
+(4) Die Meldebehörden übermitteln den zuständigen statistischen
+Ämtern der Länder gemeindeweise die Zahl der gemeldeten Einwohner
+nach Deutschen und Ausländern sowie Status der Wohnung zum Stichtag 5.
 Dezember 2001.
 
 
@@ -190,34 +144,19 @@ erhoben:
 
     a)  Geburtsmonat und -jahr,
 
-
     b)  Geschlecht,
 
-
     c)  Wohnort am 5. Dezember 2001;
-
-
-
-
 
 2.  als Hilfsmerkmale:
 
     a)  Namen, Vornamen,
 
-
     b)  Tag der Geburt,
-
 
     c)  Geburtsort,
 
-
     d)  Anschrift der alleinigen oder Hauptwohnung am 5. Dezember 2001.
-
-
-
-
-
-
 
 
 ## § 4 Testerhebung zur Untersuchung von Über- und Untererfassungen in Melderegistern bei Meldebehörden und Personen in ausgewählten Gemeinden und Gebäuden
@@ -241,58 +180,35 @@ März 2002 gemeldeten Personen folgende Merkmale erhoben:
 
     a)  Geburtsmonat und -jahr,
 
-
     b)  Geschlecht,
-
 
     c)  Staatsangehörigkeiten,
 
-
     d)  Familienstand,
-
 
     e)  Wohnort,
 
-
     f)  Status der Wohnung (alleinige Wohnung, Haupt- oder Nebenwohnung);
-
-
-
-
 
 2.  als Hilfsmerkmale:
 
     a)  Namen, Vornamen,
 
-
     b)  Tag der Geburt,
-
 
     c)  gegenwärtige Anschriften,
 
-
     d)  Datum des Beziehens der Wohnung,
-
 
     e)  Datum des Auszugs aus der Wohnung,
 
-
     f)  Datum der Anmeldung bei der Meldebehörde,
-
 
     g)  Datum der Abmeldung bei der Meldebehörde,
 
-
     h)  Datum des Wohnungsstatuswechsels,
 
-
     i)  Ordnungsmerkmal der Meldebehörde für die gemeldete Person.
-
-
-
-
-
-
 
 (4) Bei den in den ausgewählten Gebäuden wohnenden Personen werden zum
 Stichtag 5. Dezember 2001 die in Absatz 3 Nr. 1 und 2 Buchstabe a bis
@@ -307,8 +223,8 @@ die Melderegister Unter- oder Übererfassungen aufweisen.
 
 ## § 5 Unterstichprobe für Verfahrenstests und methodische Untersuchungen
 
-Für Verfahrenstests, statistisch-methodische Untersuchungen sowie
-weitere Qualitätsprüfungen werden Stichprobenerhebungen
+Für Verfahrenstests, statistisch-methodische Untersuchungen
+sowie weitere Qualitätsprüfungen werden Stichprobenerhebungen
 (Zusatzerhebungen bei Meldebehörden und Personen, §§ 6 und 9, eine
 Gebäude- und Wohnungsstichprobe, § 7, und eine Erhebung bei der
 Bundesanstalt für Arbeit, § 8) durchgeführt, die sich auf höchstens
@@ -319,48 +235,35 @@ mathematische Zufallsverfahren ausgewählt.
 
 ## § 6 Zusatzerhebungen bei Meldebehörden in ausgewählten Gemeinden
 
-Bei den Meldebehörden der nach § 5 ausgewählten Gemeinden werden für
-die in den nach § 5 ausgewählten Gebäuden zu den Stichtagen 5.
+Bei den Meldebehörden der nach § 5 ausgewählten Gemeinden werden
+für die in den nach § 5 ausgewählten Gebäuden zu den Stichtagen 5.
 Dezember 2001 und 31. März 2002 gemeldeten Personen zusätzlich zu den
 Merkmalen nach § 4 Abs. 3 folgende Hilfsmerkmale erhoben:
 
 1.  Namen, Vornamen und Geburtsdatum des Ehegatten,
 
-
 2.  Namen, Vornamen und Geburtsdatum der Kinder,
-
 
 3.  bei Kindern: Namen, Vornamen und Geburtsdatum des gesetzlichen
     Vertreters,
 
-
 4.  Ordnungsmerkmale der Meldebehörde für Ehegatten, Kinder und deren
     gesetzliche Vertreter,
 
-
 5.  Datum der letzten Eheschliessung,
 
-
 6.  Datum der Beendigung der letzten Ehe,
-
 
 7.  Anschrift und Status der Wohnung in der Gemeinde, aus der der
     Einwohner zugezogen ist,
 
-
 8.  Datum des Zuzugs in die Gemeinde,
-
 
 9.  Zuzug aus dem Ausland,
 
-
 10. Anschrift der zuletzt bewohnten Wohnung in der Gemeinde,
 
-
 11. Name und Anschrift des Wohnungsgebers.
-
-
-
 
 
 ## § 7 Postalische Gebäude- und Wohnungsstichprobe
@@ -375,84 +278,50 @@ Merkmale erhoben:
 
         aa) Gemeinde,
 
-
         bb) Art des Gebäudes (Wohngebäude, Wohnheim, bewohnte Unterkunft,
             sonstiges Gebäude mit Wohnraum),
 
-
         cc) Zahl der Wohnungen im Gebäude,
 
-
         dd) Zahl der leerstehenden Wohnungen;
-
-
-
-
 
     b)  für jede Wohnung des Gebäudes:
 
         aa) leerstehende Wohnung,
 
-
         bb) gewerbliche Nutzung, Nutzung als Ferien- oder Freizeitwohnung,
-
 
         cc) Nutzung durch Angehörige ausländischer Streitkräfte, diplomatischer
             oder berufskonsularischer Vertretungen,
 
-
         dd) Wohnverhältnis (Eigentümer, Hauptmieter, Untermieter),
-
 
         ee) Zahl der Personen in der Wohnung,
 
-
         ff) Fläche der Wohnung,
-
 
         gg) Zahl der Räume mit sechs und mehr Quadratmetern,
 
-
         hh) Höhe der monatlichen Miete,
 
-
         ii) Ausstattung der Wohnung mit Küche, Kochnische, Bad, WC, Heizungsart;
-
-
-
-
-
-
-
 
 2.  als Hilfsmerkmale:
 
     a)  Anschrift des Gebäudes,
 
-
     b)  Lage der Wohnung im Gebäude,
 
-
     c)  Namen, Vornamen und Anschrift des Auskunftspflichtigen,
-
 
     d)  Telekommunikationsnummer der Person, die für Rückfragen zur Verfügung
         steht,
 
-
     e)  Namen und Vornamen der Wohnungsinhaber,
-
 
     f)  bei vom Eigentümer selbst genutzten Wohnungen: Datum des Einzugs,
 
-
     g)  bei vermieteten Wohnungen: Beginn des Mietvertrags.
-
-
-
-
-
-
 
 
 ## § 8 Testerhebung bei der Bundesanstalt für Arbeit
@@ -467,37 +336,21 @@ Personen zum Stichtag 5. Dezember 2001 folgende Merkmale erhoben:
 
     a)  Geburtsmonat und -jahr,
 
-
     b)  Geschlecht,
-
 
     c)  Wohnort,
 
-
     d)  Arbeitsort,
 
-
     e)  Stellung im Beruf;
-
-
-
-
 
 2.  als Hilfsmerkmale:
 
     a)  Namen, Vornamen,
 
-
     b)  Tag der Geburt,
 
-
     c)  Straße und Hausnummer.
-
-
-
-
-
-
 
 
 ## § 9 Zusatzerhebung bei Personen in ausgewählten Gemeinden
@@ -511,87 +364,61 @@ genannten Merkmalen folgende Merkmale erhoben:
     a)  Nutzung der Wohnung durch Angehörige ausländischer Streitkräfte,
         diplomatischer oder berufskonsularischer Vertretungen,
 
-
     b)  gewerbliche Nutzung, Nutzung als Freizeit- oder Ferienwohnung,
-
 
     c)  Zahl der Haushalte in der Wohnung und Zahl der Personen im Haushalt,
 
-
     d)  Wohnverhältnis je Haushalt (Eigentümer, Hauptmieter, Untermieter),
-
 
     e)  Wohnungs- und Haushaltszugehörigkeit sowie Familienzusammenhang,
 
-
     f)  Wohn- und Lebensgemeinschaft,
-
 
     g)  Fläche der Wohnung,
 
-
     h)  Zahl der Räume mit sechs und mehr Quadratmetern,
-
 
     i)  Höhe der monatlichen Miete,
 
-
     j)  Ausstattung der Wohnung mit Küche, Kochnische, Bad, WC, Heizungsart,
-
 
     k)  Beteiligung am Erwerbsleben,
 
-
     l)  Art des überwiegenden Lebensunterhalts,
-
 
     m)  Stellung im Beruf,
 
-
     n)  Arbeitsort;
-
-
-
-
 
 2.  als Hilfsmerkmale:
 
     a)  Namen und Vornamen der Wohnungsinhaber,
 
-
     b)  Einzugsdatum der Wohnungsinhaber oder Beginn des Mietvertrags,
 
-
     c)  Lage der Wohnung im Gebäude,
-
 
     d)  Telekommunikationsnummer der Person, die für Rückfragen zur Verfügung
         steht.
 
 
-
-
-
-
-
-
 ## § 10 Zusammenführung von Datensätzen aus den verschiedenen Erhebungen der Unterstichprobe durch die statistischen Ämter der Länder
 
-(1) Die aus den Melderegistern übermittelten Datensätze nach § 4 Abs.
-3 Nr. 1 der Personen, die in den nach § 5 ausgewählten Gebäuden
-gemeldet sind, sowie die Angaben aus der Gebäude- und
+(1) Die aus den Melderegistern übermittelten Datensätze nach §
+4 Abs. 3 Nr. 1 der Personen, die in den nach § 5 ausgewählten
+Gebäuden gemeldet sind, sowie die Angaben aus der Gebäude- und
 Wohnungsstichprobe nach § 7 Nr. 1 werden mittels der Anschrift der
 ausgewählten Gebäude gebäudeweise zusammengeführt. Sie werden sodann
-mittels der übrigen Hilfsmerkmale nach § 6 in Verbindung mit § 4 Abs.
-3 Nr. 2 und § 7 Nr. 2 Buchstabe b und e bis g personenweise den
+mittels der übrigen Hilfsmerkmale nach § 6 in Verbindung mit § 4
+Abs. 3 Nr. 2 und § 7 Nr. 2 Buchstabe b und e bis g personenweise den
 Wohnungsangaben zugeordnet und zu Haushalten generiert.
 
 (2) Die aus den Dateien der Bundesanstalt für Arbeit gewonnenen
 Datensätze zur Erwerbstätigkeit werden mit den Datensätzen nach Absatz
 1 zusammengeführt.
 
-(3) Zur Überprüfung der Qualität und Vollständigkeit der nach Absatz 2
-erstellten Datensätze werden diese mit den Angaben aus der Erhebung
+(3) Zur Überprüfung der Qualität und Vollständigkeit der nach Absatz
+2 erstellten Datensätze werden diese mit den Angaben aus der Erhebung
 nach § 9 in Verbindung mit § 4 Abs. 4 verglichen.
 
 
@@ -602,14 +429,14 @@ nach § 9 in Verbindung mit § 4 Abs. 4 verglichen.
 Länder auf Anforderung für die in den ausgewählten Gebäuden gemeldeten
 Einwohner Namen, Vornamen, Geburtsjahr und Anschrift.
 
-(2) Für die Durchführung der Gebäude- und Wohnungsstichprobe nach § 7
-übermitteln die Gemeinden, die für die Führung der Grundbücher
+(2) Für die Durchführung der Gebäude- und Wohnungsstichprobe nach
+§ 7 übermitteln die Gemeinden, die für die Führung der Grundbücher
 zuständigen Stellen, die für die Führung der Liegenschaftskataster
 zuständigen Stellen, die Finanzbehörden, die für die
 Gebäudebrandschutzversicherung zuständigen juristischen Personen des
-öffentlichen Rechts oder die Versorgungs- und Entsorgungsbetriebe den
-zuständigen statistischen Ämtern der Länder auf Anforderung Namen und
-Vornamen oder Bezeichnung und Anschrift der Eigentümer,
+öffentlichen Rechts oder die Versorgungs- und Entsorgungsbetriebe
+den zuständigen statistischen Ämtern der Länder auf Anforderung
+Namen und Vornamen oder Bezeichnung und Anschrift der Eigentümer,
 Erbbauberechtigten, Verwalter oder sonstigen Verfügungsberechtigten
 der in die Erhebung einbezogenen Gebäude.
 
@@ -617,19 +444,19 @@ der in die Erhebung einbezogenen Gebäude.
 ## § 12 Erhebungsbeauftragte
 
 (1) Für die Erhebungen nach § 3 Abs. 3, § 4 Abs. 4 und § 9 können
-ehrenamtliche Erhebungsbeauftragte eingesetzt werden. Sie dürfen nicht
-in der unmittelbaren Nähe ihrer Wohnung eingesetzt werden
+ehrenamtliche Erhebungsbeauftragte eingesetzt werden. Sie dürfen
+nicht in der unmittelbaren Nähe ihrer Wohnung eingesetzt werden
 (Nachbarschaft).
 
-(2) Die Erhebungsbeauftragten sind für die Erhebungen nach § 4 Abs. 4
-und § 9 berechtigt, in die Erhebungsvordrucke die Angaben Namen und
-Vornamen der in der Wohnung lebenden Personen, Anschrift, Nutzung
+(2) Die Erhebungsbeauftragten sind für die Erhebungen nach § 4 Abs.
+4 und § 9 berechtigt, in die Erhebungsvordrucke die Angaben Namen
+und Vornamen der in der Wohnung lebenden Personen, Anschrift, Nutzung
 durch Angehörige ausländischer Streitkräfte, diplomatischer oder
-berufskonsularischer Vertretungen, gewerbliche Nutzung, Nutzung als
-Ferien- oder Freizeitwohnung, Leerstehen der Wohnung selbst
+berufskonsularischer Vertretungen, gewerbliche Nutzung, Nutzung
+als Ferien- oder Freizeitwohnung, Leerstehen der Wohnung selbst
 einzutragen; für die Erhebung nach § 9 außerdem die Lage der Wohnung
-im Gebäude, Zahl der Haushalte in der Wohnung, Namen und Vornamen des
-Wohnungsinhabers.
+im Gebäude, Zahl der Haushalte in der Wohnung, Namen und Vornamen
+des Wohnungsinhabers.
 
 (3) Die Erhebungsbeauftragten erhalten für die ehrenamtliche Tätigkeit
 eine Entschädigung, die als steuerfreie Aufwandsentschädigung im Sinne
@@ -641,9 +468,9 @@ des § 3 Nr. 12 Satz 2 des Einkommensteuergesetzes gilt.
 (1) Für die Testerhebungen besteht Auskunftspflicht, soweit in Absatz
 8 nichts anderes bestimmt ist.
 
-(2) Auskunftspflichtig für die Erhebungen nach § 2 Abs. 2 und 3, § 4
-Abs. 3 und § 6 sind die zuständigen Meldebehörden. Sie erteilen die
-die Einwohner betreffenden Angaben aus dem Melderegister und
+(2) Auskunftspflichtig für die Erhebungen nach § 2 Abs. 2 und 3, §
+4 Abs. 3 und § 6 sind die zuständigen Meldebehörden. Sie erteilen
+die die Einwohner betreffenden Angaben aus dem Melderegister und
 übermitteln sie einschließlich der Angaben nach § 2 Abs. 3 spätestens
 vier Wochen nach den Stichtagen an die zuständigen statistischen Ämter
 der Länder.
@@ -652,22 +479,22 @@ der Länder.
 des Wohnsitzes am Stichtag 5. Dezember 2001 sind die betroffenen
 Einwohner.
 
-(4) Auskunftspflichtig für die Erhebungen nach § 4 Abs. 4 und nach § 9
-zu den Merkmalen nach Nummer 1 Buchstabe e, f, k bis n sind alle
+(4) Auskunftspflichtig für die Erhebungen nach § 4 Abs. 4 und nach
+§ 9 zu den Merkmalen nach Nummer 1 Buchstabe e, f, k bis n sind alle
 Volljährigen oder einen eigenen Haushalt führenden Minderjährigen,
 auch für minderjährige Haushaltsmitglieder, die in den ausgewählten
 Gebäuden wohnen. Für volljährige Haushaltsmitglieder, die wegen einer
 Behinderung selbst nicht Auskunft geben können, ist jedes andere
 auskunftspflichtige Haushaltsmitglied auskunftspflichtig.
 
-(5) Auskunftspflichtig für die Erhebung nach § 9 zu den Merkmalen nach
-Nummer 1 Buchstabe a bis d, g bis j, Nummer 2 Buchstabe a bis c sind
-die Wohnungsinhaber in den ausgewählten Gebäuden, ersatzweise die in
-derselben Wohnung lebenden nach Absatz 4 auskunftspflichtigen
+(5) Auskunftspflichtig für die Erhebung nach § 9 zu den Merkmalen
+nach Nummer 1 Buchstabe a bis d, g bis j, Nummer 2 Buchstabe a bis
+c sind die Wohnungsinhaber in den ausgewählten Gebäuden, ersatzweise
+die in derselben Wohnung lebenden nach Absatz 4 auskunftspflichtigen
 Personen.
 
-(6) Auskunftspflichtig für die Erhebung nach § 7 sind die Eigentümer
-und Verwalter oder Erbbauberechtigten oder die sonstigen
+(6) Auskunftspflichtig für die Erhebung nach § 7 sind die
+Eigentümer und Verwalter oder Erbbauberechtigten oder die sonstigen
 Verfügungsberechtigten der ausgewählten Gebäude.
 
 (7) Auskunftspflichtig für die Erhebung nach § 8 ist die Bundesanstalt
@@ -686,9 +513,9 @@ nach § 4 Abs. 4 sind freiwillig.
 zu den Erhebungen nach § 3 Abs. 3, § 4 Abs. 4 und § 9 mündlich
 gegenüber den Erhebungsbeauftragten oder schriftlich beantwortet
 werden. Die Angaben Namen und Vornamen der in der Wohnung lebenden
-Personen (§ 4 Abs. 4 in Verbindung mit § 4 Abs. 3 Nr. 2 Buchstabe a)
-und die Zahl der Haushalte in der Wohnung sowie die Zahl der Personen
-im Haushalt (§ 9 Nr. 1 Buchstabe c) sind auf Verlangen der
+Personen (§ 4 Abs. 4 in Verbindung mit § 4 Abs. 3 Nr. 2 Buchstabe
+a) und die Zahl der Haushalte in der Wohnung sowie die Zahl der
+Personen im Haushalt (§ 9 Nr. 1 Buchstabe c) sind auf Verlangen der
 Erhebungsbeauftragten mündlich mitzuteilen.
 
 (2) Bei schriftlicher Auskunftserteilung sind die ausgefüllten
@@ -716,18 +543,18 @@ Erhebungen gelöscht.
 Personen, spätestens zwei Jahre nach dem Stichtag 31. März 2002,
 gelöscht.
 
-(4) Die Hilfsmerkmale Namen, Vornamen und Anschrift nach § 4 Abs. 3
-Nr. 2 Buchstabe a und c, Abs. 4 in Verbindung mit Abs. 3 Nr. 2
-Buchstabe a und c, § 6 Nr. 1 bis 3 und 11, § 7 Nr. 2 Buchstabe e, § 9
-Nr. 2 Buchstabe a und alle Hilfsmerkmale nach § 8 Nr. 2 werden nach
+(4) Die Hilfsmerkmale Namen, Vornamen und Anschrift nach § 4 Abs.
+3 Nr. 2 Buchstabe a und c, Abs. 4 in Verbindung mit Abs. 3 Nr. 2
+Buchstabe a und c, § 6 Nr. 1 bis 3 und 11, § 7 Nr. 2 Buchstabe e, §
+9 Nr. 2 Buchstabe a und alle Hilfsmerkmale nach § 8 Nr. 2 werden nach
 der Zusammenführung nach § 10, spätestens zwei Jahre nach dem Stichtag
 31\. März 2002, gelöscht. Entsprechendes gilt für das Hilfsmerkmal Tag
 der Geburt nach § 4 Abs. 3 Nr. 2 Buchstabe b und Abs. 4 in Verbindung
 mit Abs. 3 Nr. 2 Buchstabe b, soweit es sich um Personen handelt, die
 nicht in die Erhebungen nach §§ 6 und 9 einbezogen sind.
 
-(5) Die übrigen Hilfsmerkmale, mit Ausnahme der Hilfsmerkmale nach § 2
-Abs. 3, dürfen gemeinsam mit den Erhebungsmerkmalen für methodische
+(5) Die übrigen Hilfsmerkmale, mit Ausnahme der Hilfsmerkmale nach §
+2 Abs. 3, dürfen gemeinsam mit den Erhebungsmerkmalen für methodische
 Untersuchungen und die Fortentwicklung eines registergestützten
 Zensuskonzeptes verwendet werden. Sie sind spätestens fünf Jahre nach
 dem Stichtag 31. März 2002 zu löschen.
@@ -744,8 +571,8 @@ durchgeführt.
 
 ## § 17 Aufbau einer Organisationsdatei
 
-Die von den Meldebehörden erhobenen Hilfsmerkmale nach § 2 Abs. 3
-dürfen für den Aufbau einer Organisationsdatei zur Vorbereitung und
-Durchführung eines registergestützten Zensus verwendet und
+Die von den Meldebehörden erhobenen Hilfsmerkmale nach § 2 Abs.
+3 dürfen für den Aufbau einer Organisationsdatei zur Vorbereitung
+und Durchführung eines registergestützten Zensus verwendet und
 aktualisiert werden.
 

@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zu dem Internationalen Übereinkommen von 2001 über die Beschränkung
-  des Einsatzes schädlicher Bewuchsschutzsysteme auf Schiffen
+Title: Gesetz zu dem Internationalen Übereinkommen von 2001 über die Beschränkung des Einsatzes schädlicher Bewuchsschutzsysteme auf Schiffen
 jurabk: AFSG
 layout: default
 origslug: afsg
@@ -28,11 +27,11 @@ beschlossen:
 
 ## Art 1
 
-Dem Beitritt der Bundesrepublik Deutschland zu dem in London am 5.
-Oktober 2001 von der Internationalen Konferenz über die Beschränkung
-des Einsatzes schädlicher Bewuchsschutzsysteme für Schiffe
-angenommenen Internationalen Übereinkommen von 2001 über die
-Beschränkung des Einsatzes schädlicher Bewuchsschutzsysteme auf
+Dem Beitritt der Bundesrepublik Deutschland zu dem in London
+am 5. Oktober 2001 von der Internationalen Konferenz über die
+Beschränkung des Einsatzes schädlicher Bewuchsschutzsysteme für
+Schiffe angenommenen Internationalen Übereinkommen von 2001 über
+die Beschränkung des Einsatzes schädlicher Bewuchsschutzsysteme auf
 Schiffen wird zugestimmt. Das Übereinkommen wird nachstehend mit einer
 amtlichen deutschen Übersetzung veröffentlicht.
 
@@ -40,8 +39,8 @@ amtlichen deutschen Übersetzung veröffentlicht.
 ## Art 2
 
 (1) Der Hersteller eines zugelassenen, registrierten oder
-freigegebenen Bewuchsschutzsystems hat die Angaben nach Artikel 9 Abs.
-3 des Übereinkommens einer anderen Vertragspartei auf deren
+freigegebenen Bewuchsschutzsystems hat die Angaben nach Artikel 9
+Abs. 3 des Übereinkommens einer anderen Vertragspartei auf deren
 Anforderung zu liefern. Artikel 66 Absatz 2 bis 4 der Verordnung (EU)
 Nr. 528/2012 des Europäischen Parlaments und des Rates vom 22. Mai
 2012 über die Bereitstellung auf dem Markt und die Verwendung von
@@ -81,7 +80,7 @@ eigene Angelegenheit auszuführen sind.
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 
-(2) Der Tag, an dem das Übereinkommen nach seinem Artikel 18 Abs. 2
-für die Bundesrepublik Deutschland in Kraft tritt, ist im
+(2) Der Tag, an dem das Übereinkommen nach seinem Artikel 18
+Abs. 2 für die Bundesrepublik Deutschland in Kraft tritt, ist im
 Bundesgesetzblatt bekannt zu geben.
 

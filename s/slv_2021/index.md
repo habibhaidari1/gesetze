@@ -15,7 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 1228 (5240)
 
-Stand: Ersetzt V 51-1-27 v. 19.3.2002 I 1111 (SLV 2002)
+Zuletzt geändert durch
+:   Art. 19 Abs. 1 G v. 22.12.2025 I Nr. 370
+
+Stand
+:   Ersetzt V 51-1-27 v. 19.3.2002 I 1111 (SLV 2002)
+
 
 ## Kapitel 1 - Allgemeines
 
@@ -25,18 +30,15 @@ Stand: Ersetzt V 51-1-27 v. 19.3.2002 I 1111 (SLV 2002)
 (1) Diese Verordnung gilt für
 
 1.  Soldatinnen und Soldaten im Dienstverhältnis einer Berufssoldatin,
-    eines Berufssoldaten, einer Soldatin auf Zeit oder eines Soldaten auf
-    Zeit,
-
+    eines Berufssoldaten, einer Soldatin auf Zeit oder eines Soldaten
+    auf Zeit,
 
 2.  Soldatinnen und Soldaten, die freiwilligen Wehrdienst nach § 58b des
-    Soldatengesetzes oder Wehrdienst nach § 4 Absatz 1 Nummer 1, 4 oder 7
+    Soldatengesetzes oder Wehrdienst nach § 4 Absatz 1 Nummer 1, 3 oder 4
     des Wehrpflichtgesetzes leisten,
-
 
 3.  Soldatinnen und Soldaten im Reservewehrdienstverhältnis nach dem
     Reservistengesetz,
-
 
 4.  Soldatinnen und Soldaten, die auf Grund freiwilliger Verpflichtung
     nach § 59 Absatz 3 Satz 1 des Soldatengesetzes eine Dienstleistung
@@ -44,21 +46,15 @@ Stand: Ersetzt V 51-1-27 v. 19.3.2002 I 1111 (SLV 2002)
     Wehrpflichtgesetzes einen anderen als den in Nummer 2 genannten
     Wehrdienst leisten,
 
-
-5.  frühere Soldatinnen und frühere Soldaten, die nach § 59 Absatz 1, 2
-    oder 3 Satz 3 des Soldatengesetzes zu weiteren Dienstleistungen
+5.  frühere Soldatinnen und frühere Soldaten, die nach § 59 Absatz 1,
+    2 oder 3 Satz 3 des Soldatengesetzes zu weiteren Dienstleistungen
     herangezogen werden,
-
 
 6.  frühere Soldaten, die als Reservisten zum Wehrdienst nach dem
     Wehrpflichtgesetz herangezogen werden, und
 
-
 7.  Soldatinnen und Soldaten, die an einer dienstlichen Veranstaltung nach
     § 81 Absatz 1 des Soldatengesetzes teilnehmen.
-
-
-
 
 (2) Soweit die folgenden Vorschriften Dienstgradbezeichnungen und
 Zusätze zur Dienstgradbezeichnung enthalten, sind die entsprechenden
@@ -68,36 +64,39 @@ umfasst.
 
 ### § 2 Dienstliche Beurteilung
 
-(1) Eignung, Befähigung und fachliche Leistung der Soldatinnen und
-Soldaten sind zu beurteilen:
-
-1.  in regelmäßigen Abständen, mindestens jedoch alle zwei Jahre,
-
-
-2.  im Übrigen, wenn die dienstlichen oder persönlichen Verhältnisse es
-    erfordern.
-
-
-
-Für die Beurteilung der Angehörigen der Reservelaufbahnen und der
-Angehörigen der Laufbahnen der Mannschaften kann das Bundesministerium
-der Verteidigung abweichende Regelungen treffen.
-
-(2) In der dienstlichen Beurteilung sind die Leistungen der Soldatin
+(1) In der dienstlichen Beurteilung sind die Leistungen der Soldatin
 oder des Soldaten nachvollziehbar darzustellen sowie die Eignung und
 Befähigung für künftige Verwendungen einzuschätzen.
+
+(2) Die in § 27b Absatz 1 Satz 2 des Soldatengesetzes genannten
+Soldatinnen und Soldaten sind in entsprechender Anwendung des § 27a
+des Soldatengesetzes von der betreffenden Fraktion des Deutschen
+Bundestages, der gesetzgebenden Körperschaft des Landes oder des
+Europäischen Parlaments zu beurteilen. In diesen Fällen ist § 3 Absatz
+3 nicht anzuwenden. Der Zeitpunkt der Erstellung der Beurteilung
+richtet sich nach dem im Geschäftsbereich des Bundesministeriums der
+Verteidigung festgelegten Beurteilungstermin.
+
+(3) Ausnahmen von der Beurteilungspflicht kann das Bundesministerium
+der Verteidigung zulassen, wenn eine dienstliche Beurteilung
+nicht zweckmäßig ist. Dies ist insbesondere bei Angehörigen der
+Reservelaufbahnen und Angehörigen der Laufbahnen der Mannschaften
+der Fall.
+
+(4) Für die Personalentwicklungsbewertungen gelten die Absätze 2 und
+3 entsprechend.
 
 
 ### § 3 Beurteilungsverfahren
 
 (1) Die dienstliche Beurteilung wird von der oder dem nächsten
-Disziplinarvorgesetzten als Erstbeurteilerin oder Erstbeurteiler sowie
-der oder dem nächsthöheren Disziplinarvorgesetzten als
+Disziplinarvorgesetzten als Erstbeurteilerin oder Erstbeurteiler
+sowie der oder dem nächsthöheren Disziplinarvorgesetzten als
 Zweitbeurteilerin oder Zweitbeurteiler erstellt. Sie schließt mit
-einem Gesamturteil der Zweitbeurteilerin oder des Zweitbeurteilers ab.
-Insbesondere für die Beurteilung von Soldatinnen und Soldaten, die
-nicht in den Streitkräften verwendet werden, kann das
-Bundesministerium der Vereidigung festlegen, dass die Beurteilungen
+einem Gesamturteil der Zweitbeurteilerin oder des Zweitbeurteilers
+ab. Insbesondere für die Beurteilung von Soldatinnen und Soldaten,
+die nicht in den Streitkräften verwendet werden, kann das
+Bundesministerium der Verteidigung festlegen, dass die Beurteilungen
 von anderen als den in Satz 1 genannten Personen erstellt werden,
 sofern diese über ausreichende Kenntnis von Eignung, Befähigung und
 fachlicher Leistung der zu Beurteilenden verfügen.
@@ -109,9 +108,9 @@ einheitlichen Beurteilungsmaßstab zu beurteilen.
 
 (3) Die höchste Note sollen nicht mehr als 5 Prozent, die zweithöchste
 Note nicht mehr als 10 Prozent und die dritthöchste Note nicht mehr
-als 15 Prozent der in der Vergleichsgruppe Beurteilten erhalten. Im
-Interesse der Einzelfallgerechtigkeit dürfen diese Richtwerte um bis
-zu fünf Prozentpunkte über- oder unterschritten werden. Sind die
+als 15 Prozent der in der Vergleichsgruppe Beurteilten erhalten.
+Im Interesse der Einzelfallgerechtigkeit dürfen diese Richtwerte um
+bis zu fünf Prozentpunkte über- oder unterschritten werden. Sind die
 Fallzahlen zu gering, um die Richtwerte anwenden zu können, sind die
 dienstlichen Beurteilungen entsprechend zu differenzieren.
 
@@ -122,28 +121,24 @@ hierarchieebenenübergreifend eingehalten werden, liegt
     Personalangelegenheiten zuständigen Staatssekretärin oder dem für
     Personalangelegenheiten zuständigen Staatssekretär,
 
-
 2.  bei der Generalinspekteurin oder dem Generalinspekteur der Bundeswehr
     für die ihr oder ihm unmittelbar unterstellten Dienststellen sowie
-
 
 3.  für die zivilen und militärischen Organisationsbereiche bei deren
     Leiterinnen oder Leitern.
 
-
-
-Zu diesem Zweck lassen die Gesamtverantwortlichen durch die nächsten
-Disziplinarvorgesetzten der Zweitbeurteilerinnen und der
-Zweitbeurteiler bereits vor Erstellung der Beurteilungen
+Zu diesem Zweck lassen die Gesamtverantwortlichen durch die
+nächsten Disziplinarvorgesetzten der Zweitbeurteilerinnen und
+der Zweitbeurteiler bereits vor Erstellung der Beurteilungen
 sicherstellen, dass die Vorgaben nach Absatz 3 beachtet werden.
 Abgesehen von der Vorgabe eines hierarchieebenenübergreifenden
 vergleichbaren Beurteilungsmaßstabs dürfen unterstellten
 Erstbeurteilerinnen, Erstbeurteilern, Zweitbeurteilerinnen oder
 Zweitbeurteilern keine konkreten Bewertungen vorgegeben werden.
 
-(5) Die Beurteilung ist vor ihrer Aufnahme in die Personalakte der
-oder dem Beurteilten bekannt zu geben und mit ihr oder ihm zu
-besprechen. Dies ist in der Personalakte zu dokumentieren. Das
+(5) Die Beurteilung ist vor ihrer Aufnahme in die Personalakte
+der oder dem Beurteilten bekannt zu geben und mit ihr oder ihm
+zu besprechen. Dies ist in der Personalakte zu dokumentieren. Das
 Gesamtergebnis eines Beurteilungsdurchgangs soll den Beurteilten in
 Form eines Notenspiegels bekannt gegeben werden.
 
@@ -154,24 +149,72 @@ oder des Zweitbeurteilers
     Bereiche aufheben, wenn trotz ausreichender Fallzahl verbindliche
     Richtwerte nicht eingehalten worden sind,
 
-
 2.  muss dienstliche Beurteilungen für ganze ihr oder ihm unterstellte
     Bereiche aufheben, wenn ohne hinreichende Begründung der beurteilenden
     Vorgesetzten bei nicht ausreichender Fallzahl nicht entsprechend
     differenziert worden ist, oder
 
-
 3.  muss nach Feststellung der in Absatz 4 Satz 1 genannten Personen
     dienstliche Beurteilungen für ganze ihr oder ihm unterstellte Bereiche
     aufheben, wenn kein hierarchieebenenübergreifender vergleichbarer
-    Beurteilungsmaßstab angewendet worden ist, soweit nicht bereits höhere
-    Vorgesetzte nach Feststellung der in Absatz 4 Satz 1 genannten
+    Beurteilungsmaßstab angewendet worden ist, soweit nicht bereits
+    höhere Vorgesetzte nach Feststellung der in Absatz 4 Satz 1 genannten
     Personen entsprechend erforderliche Aufhebungen veranlasst haben.
-
-
 
 Das Bundesministerium der Verteidigung kann abweichende Regelungen
 treffen.
+
+(7) Für Personalentwicklungsbewertungen gelten Absatz 1 und Absatz
+5 Satz 1 und 2 entsprechend. Zur Personalentwicklungsbewertung ist
+eine Stellungnahme abzugeben, wenn die Zweitbeurteilerin oder der
+Zweitbeurteiler mit ihrer oder seiner Bewertung die Dotierungsebene
+der eigenen Verwendung überschritten hat. Die Stellungnahme hat die
+oder der Vorgesetzte der Zweitbeurteilerin oder des Zweitbeurteilers
+abzugeben, die als nächste oder der als nächster die Dotierungsebene
+der vergebenen Entwicklungsprognose oder des vergebenen
+Verwendungsvorschlags inne hat. Ist keine Stellungnahme abzugeben,
+steht es der oder dem unmittelbaren Vorgesetzten der Zweitbeurteilerin
+oder des Zweitbeurteilers frei, Stellung zu nehmen. Diese
+Stellungnahmen gelten als Gesamturteil im Sinne des Absatzes 1 Satz 2.
+
+
+### § 3a Referenzgruppen
+
+(1) Für die in § 27b Absatz 1 des Soldatengesetzes genannten
+Soldatinnen und Soldaten hat das Bundesamt für das Personalmanagement
+der Bundeswehr zur fiktiven Nachzeichnung der beruflichen Entwicklung
+Referenzgruppen zu bilden. Als Grundlage für die Bildung der
+Referenzgruppe dient die letzte regelmäßige dienstliche Beurteilung.
+Die Referenzgruppen sind zu dem Zeitpunkt des gemäß § 27b Absatz
+1 Satz 1 Nummer 1 bis 6 des Soldatengesetzes auslösenden Anlasses
+erstmals zu bilden.
+
+(2) Die fiktive Nachzeichnung der beruflichen Entwicklung beginnt
+bei förderlichen Verwendungsentscheidungen sofort, in allen übrigen
+Fällen, sobald für die referenzierten Soldatinnen und Soldaten keine
+aktuellen verwertbaren Beurteilungserkenntnisse mehr vorliegen; sie
+endet, sobald wieder verwertbare Beurteilungserkenntnisse vorliegen.
+In diesem Geltungszeitraum wird für referenzierte Soldatinnen
+und Soldaten eine förderliche Auswahlentscheidung getroffen, wenn
+Auswahlentscheidungen zugunsten von Referenzpersonen den Rangplatz
+der referenzierten Soldatin oder des referenzierten Soldaten erreicht
+haben. Ist die Anwendung des Rangplatzprinzips aufgrund der Art der
+Entscheidung nicht möglich, wird die förderliche Auswahlentscheidung
+mit einer fiktiven, auf der Basis der Beurteilungsnoten der
+Referenzpersonen ermittelten Beurteilungsnote getroffen.
+
+(3) Die Voraussetzungen des § 27b Absatz 2 Satz 2 Nummer 1 und 3
+des Soldatengesetzes sind erfüllt, wenn die Referenzpersonen in
+der zu Grunde zu legenden dienstlichen Beurteilung gemessen an dem
+binnendifferenzierten Gesamturteil gleich beurteilt worden sind und
+derselben Ausbildungs- und Verwendungsreihe, demselben Werdegang oder
+demselben Kompetenzbereich wie die referenzierte Soldatin oder der
+referenzierte Soldat angehören.
+
+(4) Kann die Regelzahl von zehn Referenzpersonen nicht erreicht
+werden, so ist eine schrittweise Erweiterung der in § 27b Absatz 2
+Satz 2 des Soldatengesetzes genannten Kriterien mindestens bis zum
+Erhalt der notwendigen Referenzgruppengröße vorzunehmen.
 
 
 ### § 4 Ordnung der Laufbahnen
@@ -204,18 +247,18 @@ Verteidigung oder eine von ihm bestimmte Stelle. Die Laufbahn ist in
 der Entscheidung zu bezeichnen. § 13 Absatz 1 und § 15 Absatz 2 gelten
 entsprechend.
 
-(4) Mit einem höheren Dienstgrad eingestellten Soldatinnen auf Zeit
-und Soldaten auf Zeit wird der Dienstgrad zunächst vorläufig
+(4) Mit einem höheren Dienstgrad eingestellten Soldatinnen auf
+Zeit und Soldaten auf Zeit wird der Dienstgrad zunächst vorläufig
 verliehen. Er kann nach einem Wehrdienst von sechs Monaten endgültig
 verliehen werden.
 
 
 ### § 6 Zusicherung der Berufung in das Dienstverhältnis einer Berufssoldatin oder eines Berufssoldaten
 
-(1) Mit der Berufung in das Dienstverhältnis einer Soldatin auf Zeit
-oder eines Soldaten auf Zeit kann zugesichert werden, dieses
-Dienstverhältnis in das Dienstverhältnis einer Berufssoldatin oder
-eines Berufssoldaten umzuwandeln, sobald die gesetzlichen
+(1) Mit der Berufung in das Dienstverhältnis einer Soldatin auf
+Zeit oder eines Soldaten auf Zeit kann zugesichert werden, dieses
+Dienstverhältnis in das Dienstverhältnis einer Berufssoldatin
+oder eines Berufssoldaten umzuwandeln, sobald die gesetzlichen
 Voraussetzungen hierfür erfüllt sind.
 
 (2) Bei einer Einstellung nach § 43 oder § 45 ist eine Zusicherung
@@ -224,17 +267,16 @@ nach Absatz 1 zu erteilen mit der Maßgabe, dass die Umwandlung
 1.  in den Fällen des § 43 spätestens drei Jahre nach der Beförderung zum
     Leutnant erfolgt,
 
-
 2.  in den Fällen des § 45 spätestens drei Jahre nach der Einstellung
     erfolgt.
 
+Die Zusicherung kann an weitere Bedingungen geknüpft werden. Sie
+kann bei einer Einstellung in einen Werdegang des Sanitätsdienstes
+unterbleiben.
 
-
-Die Zusicherung kann an weitere Bedingungen geknüpft werden.
-
-(3) Einer Bewerberin oder einem Bewerber für eine Einstellung nach §
-15, § 19, § 25, § 30, § 35 oder § 40 kann zugesichert werden, dass ihr
-Dienstverhältnis drei Jahre nach ihrer Einstellung in das
+(3) Einer Bewerberin oder einem Bewerber für eine Einstellung nach
+§ 15, § 19, § 25, § 30, § 35 oder § 40 kann zugesichert werden,
+dass ihr Dienstverhältnis drei Jahre nach ihrer Einstellung in das
 Dienstverhältnis einer Berufssoldatin oder eines Berufssoldaten
 umgewandelt wird, wenn
 
@@ -243,18 +285,15 @@ umgewandelt wird, wenn
     Fachunteroffizier, Feldwebel, Offizierin oder Offizier eingestellt
     wird, und
 
-
 2.  zum Zeitpunkt der Umwandlung keine Erkenntnisse vorliegen, wonach die
     Bewerberin oder der Bewerber sich nicht zur Berufssoldatin oder zum
     Berufssoldaten eignet.
 
-
-
 Die Bewerberinnen und Bewerber sind darauf hinzuweisen, dass sich die
 Frist für die Umwandlung verlängert, wenn innerhalb dieser drei Jahre
 die Mindestdauer der Verwendung nach Satz 1 Nummer 1 aus besonderen
-dienstlichen Gründen nicht erreicht wird. Die Frist verlängert sich
-auch um Zeiten einer Beurlaubung unter Wegfall der Geld- und
+dienstlichen Gründen nicht erreicht wird. Die Frist verlängert
+sich auch um Zeiten einer Beurlaubung unter Wegfall der Geld- und
 Sachbezüge, wenn die Beurlaubung weder dienstlichen Interessen noch
 öffentlichen Belangen dient.
 
@@ -267,40 +306,29 @@ Eine Verwendung nach Satz 1 wird nicht unterbrochen durch Zeiten
 
 1.  eines Erholungsurlaubs,
 
-
 2.  eines Sonderurlaubs unter Belassung der Geld- und Sachbezüge,
-
 
 3.  einer Erkrankung einschließlich Heilkur,
 
-
 4.  eines mutterschutzrechtlichen Beschäftigungsverbots,
-
 
 5.  einer Elternzeit,
 
-
 6.  einer familienbedingten Beurlaubung,
 
-
-7.  einer Dienstbefreiung oder einer Freistellung vom Dienst für nach § 30
-    Absatz 4 des Soldatengesetzes geleisteten Dienst,
-
+7.  einer Dienstbefreiung oder einer Freistellung vom Dienst für nach §
+    30c Absatz 4 des Soldatengesetzes geleisteten Dienst,
 
 8.  einer Teilnahme an Fortbildungsveranstaltungen oder
 
-
 9.  einer Dienstreise.
 
-
-
-
-(5) Bei einer Einstellung nach § 15, § 19, § 25, § 30, § 35 oder § 40
-ohne Zusicherung nach Absatz 3 darf das Dienstverhältnis nicht vor
+(5) Bei einer Einstellung nach § 15, § 19, § 25, § 30, § 35 oder §
+40 ohne Zusicherung nach Absatz 3 darf das Dienstverhältnis nicht vor
 Ablauf von drei Jahren seit der Einstellung umgewandelt werden.
 
-(6) Eine Beamtin auf Lebenszeit oder ein Beamter auf Lebenszeit, die
-oder der nach § 15, § 19, § 25, § 30, § 35 oder § 40 eingestellt
+(6) Eine Beamtin auf Lebenszeit oder ein Beamter auf Lebenszeit,
+die oder der nach § 15, § 19, § 25, § 30, § 35 oder § 40 eingestellt
 worden ist, kann unmittelbar im Anschluss an eine sechsmonatige
 Bewährungszeit in das Dienstverhältnis einer Berufssoldatin oder eines
 Berufssoldaten berufen werden.
@@ -310,9 +338,9 @@ Berufssoldaten berufen werden.
 
 (1) Beförderung ist die Verleihung eines höheren Dienstgrades.
 
-(2) Eine Beförderung ist, soweit in dieser Verordnung nichts anderes
-bestimmt ist, frühestens ein Jahr nach der Einstellung oder der
-letzten Beförderung zulässig, es sei denn, dass der bisherige
+(2) Eine Beförderung ist, soweit in dieser Verordnung nichts
+anderes bestimmt ist, frühestens ein Jahr nach der Einstellung oder
+der letzten Beförderung zulässig, es sei denn, dass der bisherige
 Dienstgrad nicht regelmäßig durchlaufen werden musste.
 
 (3) Die Dienstgrade einer Laufbahn sind regelmäßig zu durchlaufen,
@@ -328,7 +356,6 @@ Absatz 2 ein höherer Dienstgrad verliehen werden
     Streitkräften oder streitkräfteähnlichen Einrichtungen erworben worden
     sind, oder
 
-
 2.  für eine militärfachliche Verwendung, insbesondere eine solche, die
     einem Berufsbild aus dem Bereich des Gesundheits-, Verwaltungs-,
     Logistik- oder Medienwesens oder einem technischen Beruf entspricht,
@@ -336,18 +363,16 @@ Absatz 2 ein höherer Dienstgrad verliehen werden
     und Fähigkeiten und die erforderliche Lebenserfahrung durch eine
     zivilberufliche Tätigkeit erworben worden sind.
 
-
-
-Den in § 1 Absatz 1 Nummer 4 bis 6 genannten Soldatinnen und Soldaten
-wird der Dienstgrad vorläufig verliehen; er kann nach einem Wehrdienst
-von mindestens der in § 12 Absatz 2 Satz 1, § 22 Absatz 4 Satz 3 und §
-48 Absatz 5 Satz 2 jeweils bestimmten Dauer endgültig verliehen
-werden. In den Fällen nach Satz 1 Nummer 2 kann der höhere Dienstgrad
-auch zeitweilig für die Dauer der Verwendung verliehen werden. Über
-die Verleihung der höheren Dienstgrade entscheidet das
+Den in § 1 Absatz 1 Nummer 4 bis 6 genannten Soldatinnen und
+Soldaten wird der Dienstgrad vorläufig verliehen; er kann nach einem
+Wehrdienst von mindestens der in § 12 Absatz 2 Satz 1, § 22 Absatz
+4 Satz 3 und § 48 Absatz 5 Satz 2 jeweils bestimmten Dauer endgültig
+verliehen werden. In den Fällen nach Satz 1 Nummer 2 kann der höhere
+Dienstgrad auch zeitweilig für die Dauer der Verwendung verliehen
+werden. Über die Verleihung der höheren Dienstgrade entscheidet das
 Bundesministerium der Verteidigung oder eine von ihm bestimmte Stelle.
-Die Laufbahn ist in der Entscheidung zu bezeichnen. Die Sätze 1 und 4
-gelten entsprechend für die in § 1 Absatz 1 Nummer 7 genannten
+Die Laufbahn ist in der Entscheidung zu bezeichnen. Die Sätze 1 und
+4 gelten entsprechend für die in § 1 Absatz 1 Nummer 7 genannten
 Soldatinnen und Soldaten; der höhere Dienstgrad darf nur für die Dauer
 der dienstlichen Veranstaltung verliehen werden.
 
@@ -370,19 +395,18 @@ Offiziere
 1.  des Sanitätsdienstes besitzt, wer die in § 29 Absatz 3 Satz 1
     genannten zusätzlichen Voraussetzungen erfüllt,
 
-
 2.  des Militärmusikdienstes besitzt, wer die in § 34 Absatz 3 genannten
     zusätzlichen Voraussetzungen erfüllt und
-
 
 3.  des Geoinformationsdienstes der Bundeswehr besitzt, wer die in § 39
     Absatz 3 genannten zusätzlichen Voraussetzungen erfüllt.
 
+Die Laufbahnbefähigung besitzt auch, wer
 
+1.  die Voraussetzungen für eine Einstellung mit einem höheren Dienstgrad
+    der jeweiligen Laufbahn, der kein Anwärterdienstgrad ist, erfüllt oder
 
-Die Laufbahnbefähigung besitzt auch, wer die Voraussetzungen für eine
-Einstellung mit einem höheren Dienstgrad der jeweiligen Laufbahn, der
-kein Anwärterdienstgrad ist, erfüllt.
+2.  eine fachspezifische Qualifizierung erfolgreich abgeschlossen hat.
 
 (2) Ein Laufbahnwechsel ist nur zulässig, wenn die Soldatin oder der
 Soldat die Befähigung für die neue Laufbahn erworben hat. Bei einem
@@ -396,43 +420,36 @@ Laufbahnwechsel aus dem Militärmusikdienst in den Truppendienst auch
 ohne Zustimmung der Soldatin oder des Soldaten zulässig.
 
 (4) Für Soldatinnen auf Zeit und Soldaten auf Zeit, die für nicht mehr
-als drei Jahre in ihr Dienstverhältnis berufen worden sind, gelten
+als eine dreijährige Ausbildungszeit in ihr Dienstverhältnis berufen
+worden sind, gelten
 
 1.  für den Aufstieg in die Laufbahn der Feldwebel der Reserve des
     Truppendienstes § 22 Absatz 2 Nummer 2, Absatz 3 und 4 Satz 1 und 2
     entsprechend und
 
-
 2.  für den Aufstieg in die Laufbahn der Offizierinnen und Offiziere der
-    Reserve des Truppendienstes § 48 Absatz 2 und 4 entsprechend.
+    Reserve des Truppendienstes § 48 Absatz 2 und 4 entsprechend sowie für
+    die Einstellung § 48 Absatz 3 entsprechend.
 
-
-
-
-(5) Sind Anwärterinnen und Anwärter nicht für ihre Laufbahn geeignet,
-werden sie mit der Beendigung ihres Dienstverhältnisses je nach
-erreichtem Dienstgrad in eine Laufbahn der Mannschaften, der
+(5) Sind Anwärterinnen und Anwärter nicht für ihre Laufbahn
+geeignet, werden sie mit der Beendigung ihres Dienstverhältnisses
+je nach erreichtem Dienstgrad in eine Laufbahn der Mannschaften, der
 Unteroffizierinnen und Unteroffiziere oder in eine andere Laufbahn der
 Offizierinnen und Offiziere überführt. Es werden überführt:
 
 1.  Anwärterinnen und Anwärter mit einem Mannschaftsdienstgrad in eine
     Laufbahn der Mannschaften der Reserve,
 
-
 2.  Anwärterinnen und Anwärter mit dem Dienstgrad „Unteroffizier“,
     „Fahnenjunker“ oder „Stabsunteroffizier“ in eine Laufbahn der
     Fachunteroffizierinnen und Fachunteroffiziere der Reserve,
 
-
 3.  Anwärterinnen und Anwärter mit dem Dienstgrad „Fähnrich“ oder
     „Oberfähnrich“ in eine Laufbahn der Feldwebel der Reserve und
 
-
-4.  Anwärterinnen und Anwärter mit einem Offizierdienstgrad in die
-    Laufbahn der Offizierinnen und Offiziere der Reserve des
+4.  Anwärterinnen und Anwärter mit einem Offizierdienstgrad in
+    die Laufbahn der Offizierinnen und Offiziere der Reserve des
     Truppendienstes.
-
-
 
 Nach der Überführung entfällt der für Anwärterinnen und Anwärter
 vorgesehene Zusatz zur Dienstgradbezeichnung. Fahnenjunker führen den
@@ -448,16 +465,16 @@ Anwärter vorgesehenen Zusatz. Für erneute Beförderungen gelten die
 Regelungen für Anwärterinnen und Anwärter im jeweiligen Dienstgrad
 entsprechend; ausgenommen sind die jeweiligen Prüfungserfordernisse.
 
-(7) Absatz 6 gilt für Unteroffizierinnen und Unteroffiziere in einer
-Laufbahn der Fachunteroffizierinnen und Fachunteroffiziere
+(7) Absatz 6 gilt für Unteroffizierinnen und Unteroffiziere in
+einer Laufbahn der Fachunteroffizierinnen und Fachunteroffiziere
 entsprechend.
 
 (8) Soldatinnen und Soldaten, die keiner Reservelaufbahn angehören,
 wechseln mit der Beendigung ihres Wehrdienstverhältnisses in die ihrer
 Laufbahn entsprechende Reservelaufbahn. Bei erneuter Begründung eines
-Wehrdienstverhältnisses nach Maßgabe des Wehrpflichtgesetzes oder nach
-dem Vierten oder Fünften Abschnitt des Soldatengesetzes bleibt diese
-Laufbahnzuordnung erhalten, wenn die Verwendung keine andere
+Wehrdienstverhältnisses nach Maßgabe des Wehrpflichtgesetzes oder
+nach dem Vierten oder Fünften Abschnitt des Soldatengesetzes bleibt
+diese Laufbahnzuordnung erhalten, wenn die Verwendung keine andere
 Laufbahnzuordnung erfordert.
 
 
@@ -472,8 +489,8 @@ Mannschaften des Militärmusikdienstes setzt außerdem voraus, dass die
 Bewerberin oder der Bewerber mindestens ein Orchesterinstrument oder
 ein Instrument des Spielmannszuges beherrscht.
 
-(2) Die Einstellung erfolgt als Soldatin auf Zeit oder als Soldat auf
-Zeit.
+(2) Die Einstellung erfolgt als Soldatin auf Zeit oder als Soldat
+auf Zeit.
 
 
 ### § 11 Beförderung der Mannschaften
@@ -483,26 +500,17 @@ zulässig:
 
 1.  zum Gefreiten nach drei Monaten,
 
-
 2.  zum Obergefreiten nach sechs Monaten,
-
 
 3.  zum Hauptgefreiten nach zwölf Monaten,
 
-
 4.  zum Stabsgefreiten nach 36 Monaten,
-
 
 5.  zum Oberstabsgefreiten nach 48 Monaten,
 
-
 6.  zum Korporal nach sieben Jahren und
 
-
 7.  zum Stabskorporal nach zehn Jahren.
-
-
-
 
 
 ### § 12 Sonstige Soldatinnen und sonstige Soldaten (§ 1 Absatz 1 Nummer 2 bis 7)
@@ -514,14 +522,14 @@ Beförderung von Mannschaften eingestellt und befördert.
 (2) Die in § 1 Absatz 1 Nummer 4 bis 7 genannten Soldatinnen und
 Soldaten können nach einem Wehrdienst von mindestens sechs Tagen
 befördert werden. Die Beförderung ist erst nach Ablauf der Zeit
-zulässig, die im Dienstverhältnis einer Soldatin auf Zeit oder eines
-Soldaten auf Zeit als Dienstzeit für die Beförderung nach dieser
-Verordnung mindestens vorausgesetzt wird. Zeiten einer dienstlichen
-Veranstaltung nach § 81 Absatz 1 des Soldatengesetzes werden auf den
-Wehrdienst nach Satz 1 nicht angerechnet. Das Bundesministerium der
-Verteidigung kann die Anrechnung von Zeiten nach Satz 3 zulassen,
-sofern Reservistinnen und Reservisten Aufgaben wahrnehmen, die
-zumindest ihrem Dienstgrad und den Aufgaben aus einem
+zulässig, die im Dienstverhältnis einer Soldatin auf Zeit oder
+eines Soldaten auf Zeit als Dienstzeit für die Beförderung nach
+dieser Verordnung mindestens vorausgesetzt wird. Zeiten einer
+dienstlichen Veranstaltung nach § 81 Absatz 1 des Soldatengesetzes
+werden auf den Wehrdienst nach Satz 1 nicht angerechnet. Das
+Bundesministerium der Verteidigung kann die Anrechnung von Zeiten
+nach Satz 3 zulassen, sofern Reservistinnen und Reservisten Aufgaben
+wahrnehmen, die zumindest ihrem Dienstgrad und den Aufgaben aus einem
 Beorderungsverhältnis entsprechen.
 
 
@@ -543,8 +551,8 @@ des Militärmusikdienstes oder des allgemeinen Fachdienstes
 werden, wer mindestens den Hauptschulabschluss oder einen als
 gleichwertig anerkannten Bildungsstand besitzt. Die Einstellung als
 Anwärterin oder Anwärter für die Laufbahn der Fachunteroffizierinnen
-und Fachunteroffiziere des Militärmusikdienstes setzt außerdem voraus,
-dass die Bewerberin oder der Bewerber mindestens ein
+und Fachunteroffiziere des Militärmusikdienstes setzt außerdem
+voraus, dass die Bewerberin oder der Bewerber mindestens ein
 Orchesterinstrument oder ein Instrument des Spielmannszuges
 beherrscht.
 
@@ -552,9 +560,9 @@ beherrscht.
 Zeit.
 
 (3) Die Anwärterinnen und Anwärter führen im Schriftverkehr bis zu
-ihrer Beförderung zum Unteroffizier ihre Dienstgradbezeichnung mit dem
-Zusatz „(Unteroffizieranwärterin)“, „(Unteroffizieranwärter)“ oder
-„(UA)“.
+ihrer Beförderung zum Unteroffizier ihre Dienstgradbezeichnung mit
+dem Zusatz „(Unteroffizieranwärterin)“, „(Unteroffizieranwärter)“
+oder „(UA)“.
 
 
 ##### § 14 Beförderung der Unteroffizieranwärterinnen und Unteroffizieranwärter
@@ -565,27 +573,23 @@ Dienstzeiten zulässig:
 
 1.  zum Gefreiten nach drei Monaten,
 
-
 2.  zum Obergefreiten nach sechs Monaten,
-
 
 3.  zum Unteroffizier nach zwölf Monaten, frühestens jedoch neun Monate
     nach der Ernennung zum Gefreiten.
 
-
-
 Die Dienstgrade ab dem Dienstgrad „Obergefreiter“ müssen nicht
 durchlaufen werden.
 
-(2) Unteroffizieranwärterinnen und Unteroffizieranwärter erhalten eine
-allgemeinmilitärische Laufbahnausbildung und eine mehrmonatige
+(2) Unteroffizieranwärterinnen und Unteroffizieranwärter erhalten
+eine allgemeinmilitärische Laufbahnausbildung und eine mehrmonatige
 militärfachliche Laufbahnausbildung in Form von Lehrgängen. Sie dürfen
 zum Unteroffizier befördert werden, wenn sie eine Unteroffizierprüfung
 bestanden haben, die sich aus einem allgemeinmilitärischen und einem
-militärfachlichen Teil zusammensetzt (Fachunteroffizierprüfung). Der
-militärfachliche Teil der Fachunteroffizierprüfung kann durch einen
-verwertbaren berufsqualifizierenden Ausbildungsabschluss ersetzt
-werden. Im Falle des Nichtbestehens eines Teils der
+militärfachlichen Teil zusammensetzt (Fachunteroffizierprüfung).
+Der militärfachliche Teil der Fachunteroffizierprüfung kann durch
+einen verwertbaren berufsqualifizierenden Ausbildungsabschluss
+ersetzt werden. Im Falle des Nichtbestehens eines Teils der
 Fachunteroffizierprüfung kann dieser Teil einmal wiederholt werden.
 
 
@@ -599,21 +603,15 @@ Soldaten auf Zeit kann eingestellt werden
     a)  mindestens den Hauptschulabschluss oder einen als gleichwertig
         anerkannten Bildungsstand besitzt und
 
-
     b)  über einen für die vorgesehene Verwendung verwertbaren
         berufsqualifizierenden Ausbildungsabschluss verfügt,
-
-
-
-
 
 2.  mit dem Dienstgrad „Stabsunteroffizier“, wer
 
     a)  mindestens einen Realschulabschluss oder einen als gleichwertig
-        anerkannten Bildungsstand besitzt und jeweils über einen für die
-        vorgesehene Verwendung verwertbaren berufsqualifizierenden
+        anerkannten Bildungsstand besitzt und jeweils über einen für
+        die vorgesehene Verwendung verwertbaren berufsqualifizierenden
         Ausbildungsabschluss verfügt oder
-
 
     b)  mindestens den Hauptschulabschluss oder einen als gleichwertig
         anerkannten Bildungsstand besitzt, jeweils über einen für die
@@ -622,34 +620,27 @@ Soldaten auf Zeit kann eingestellt werden
         Schwierigkeit vergleichbare hauptberufliche Tätigkeit von mindestens
         zwei Jahren nachweist,
 
-
-    c)  in die Laufbahn der Fachunteroffizierinnen und Fachunteroffiziere des
-        Militärmusikdienstes, wer die Bildungsvoraussetzungen nach Nummer 1
-        Buchstabe a erfüllt und eine für den Musikerberuf übliche, mindestens
-        dreijährige erfolgreiche praktische und theoretische Ausbildung in
-        einem musikalischen Bildungsinstitut, bei einem Mitglied eines
-        Kulturorchesters oder einer Lehrerin oder einem Lehrer in
-        freiberuflicher Tätigkeit (Privatmusikerzieherin oder
+    c)  in die Laufbahn der Fachunteroffizierinnen und Fachunteroffiziere
+        des Militärmusikdienstes, wer die Bildungsvoraussetzungen nach
+        Nummer 1 Buchstabe a erfüllt und eine für den Musikerberuf übliche,
+        mindestens dreijährige erfolgreiche praktische und theoretische
+        Ausbildung in einem musikalischen Bildungsinstitut, bei einem
+        Mitglied eines Kulturorchesters oder einer Lehrerin oder einem
+        Lehrer in freiberuflicher Tätigkeit (Privatmusikerzieherin oder
         Privatmusikerzieher) abgeschlossen hat.
 
-
-
-
-
-
-
-(2) Die Bewerberinnen und Bewerber müssen sich mindestens für drei
-Jahre, in der Laufbahn der Fachunteroffizierinnen und
-Fachunteroffiziere des Sanitätsdienstes mindestens für zwei Jahre, zu
+(2) Die Bewerberinnen und Bewerber müssen sich mindestens für
+drei Jahre, in der Laufbahn der Fachunteroffizierinnen und
+Fachunteroffiziere des Sanitätsdienstes mindestens für ein Jahr, zu
 einem Wehrdienst verpflichten.
 
 
 ##### § 16 Aufstieg in eine Laufbahn der Fachunteroffizierinnen und Fachunteroffiziere
 
 (1) Mannschaften aller Laufbahnen können in eine Laufbahn der
-Fachunteroffizierinnen und Fachunteroffiziere aufsteigen, wenn sie
-mindestens den Dienstgrad „Gefreiter“ erreicht haben und den
-Hauptschulabschluss oder einen als gleichwertig anerkannten
+Fachunteroffizierinnen und Fachunteroffiziere aufsteigen, wenn
+sie mindestens den Dienstgrad „Gefreiter“ erreicht haben und
+den Hauptschulabschluss oder einen als gleichwertig anerkannten
 Bildungsstand besitzen. § 6 Absatz 1 gilt entsprechend.
 
 (2) Nach dem Aufstieg führen sie im Schriftverkehr bis zu ihrer
@@ -659,35 +650,47 @@ Zusatz „(Unteroffizieranwärterin)“, „(Unteroffizieranwärter)“ oder
 
 (3) § 14 gilt entsprechend.
 
+(4) Unbeschadet der Absätze 1 bis 3 können Mannschaften aller
+Laufbahnen, die einen Hauptschulabschluss oder einen als gleichwertig
+anerkannten Bildungsstand besitzen, nach einer Dienstzeit von
+mindestens drei Jahren in die Laufbahn der Fachunteroffizierinnen
+und Fachunteroffiziere des allgemeinen Fachdienstes aufsteigen,
+wenn sie eine fachspezifische Qualifizierung abgeschlossen haben
+(Praxisaufstieg). Der Praxisaufstieg dauert sechs Monate. Er besteht
+aus
+
+1.  einer dreimonatigen fachtheoretischen Ausbildung und
+
+2.  einer dreimonatigen berufspraktischen Einführung.
+
+Die fachtheoretische Ausbildung schließt mit einer Prüfung und die
+berufspraktische Einführung mit einer Bewertung ab. Der erfolgreiche
+Abschluss des Praxisaufstiegs ist festzustellen. § 14 Absatz 2 Satz
+4 gilt entsprechend mit der Maßgabe, dass auch die berufspraktische
+Einführung einmal wiederholt werden kann.
+
 
 #### Unterabschnitt 2 - Feldwebel
 
 
 ##### § 17 Einstellung als Feldwebelanwärterin oder Feldwebelanwärter
 
-(1) Als Anwärterin oder Anwärter für eine Laufbahn der Feldwebel des
-Truppendienstes, des Sanitätsdienstes, des Militärmusikdienstes, des
-Geoinformationsdienstes der Bundeswehr oder des allgemeinen
+(1) Als Anwärterin oder Anwärter für eine Laufbahn der Feldwebel
+des Truppendienstes, des Sanitätsdienstes, des Militärmusikdienstes,
+des Geoinformationsdienstes der Bundeswehr oder des allgemeinen
 Fachdienstes (Feldwebelanwärterin oder Feldwebelanwärter) kann
 eingestellt werden, wer
 
 1.  mindestens den Realschulabschluss oder einen als gleichwertig
     anerkannten Bildungsstand besitzt oder
 
-
 2.  über folgende Bildungsvoraussetzungen verfügt:
 
     a)  mindestens den Hauptschulabschluss oder einen als gleichwertig
         anerkannten Bildungsstand und
 
-
     b)  zusätzlich einen förderlichen berufsqualifizierenden
         Ausbildungsabschluss.
-
-
-
-
-
 
 Die Einstellung als Anwärterin oder Anwärter für die Laufbahn der
 Feldwebel des Militärmusikdienstes setzt außerdem voraus, dass die
@@ -710,19 +713,13 @@ zulässig:
 
 1.  zum Gefreiten nach drei Monaten,
 
-
 2.  zum Obergefreiten nach sechs Monaten,
-
 
 3.  zum Unteroffizier nach zwölf Monaten,
 
-
 4.  zum Stabsunteroffizier nach 24 Monaten und
 
-
 5.  zum Feldwebel nach 36 Monaten.
-
-
 
 Die Mannschaftsdienstgrade ab dem Dienstgrad „Obergefreiter“ müssen
 nicht durchlaufen werden.
@@ -731,9 +728,9 @@ nicht durchlaufen werden.
 allgemeinmilitärische Laufbahnausbildung und eine mehrmonatige
 militärfachliche Laufbahnausbildung in Form von Lehrgängen. Sie dürfen
 zum Feldwebel befördert werden, wenn sie eine Unteroffizierprüfung
-bestanden haben, die sich aus einem allgemeinmilitärischen und einem
-militärfachlichen Teil zusammensetzt (Feldwebelprüfung). Der
-militärfachliche Teil der Feldwebelprüfung kann durch einen
+bestanden haben, die sich aus einem allgemeinmilitärischen und
+einem militärfachlichen Teil zusammensetzt (Feldwebelprüfung).
+Der militärfachliche Teil der Feldwebelprüfung kann durch einen
 verwertbaren berufsqualifizierenden Ausbildungsabschluss ersetzt
 werden. Im Falle des Nichtbestehens eines Teils der Feldwebelprüfung
 kann dieser Teil einmal wiederholt werden.
@@ -750,49 +747,33 @@ eingestellt werden
     a)  mindestens den Hauptschulabschluss oder einen als gleichwertig
         anerkannten Bildungsstand besitzt und
 
-
     b)  über einen für die vorgesehene Verwendung verwertbaren Berufsabschluss
         verfügt,
-
-
-
-
 
 2.  mit dem Dienstgrad „Stabsunteroffizier“, wer
 
     a)  mindestens den Realschulabschluss oder einen als gleichwertig
-        anerkannten Bildungsstand besitzt und zusätzlich über einen für die
-        vorgesehene Verwendung verwertbaren berufsqualifizierenden
+        anerkannten Bildungsstand besitzt und zusätzlich über einen für
+        die vorgesehene Verwendung verwertbaren berufsqualifizierenden
         Ausbildungsabschluss verfügt oder
 
-
     b)  mindestens den Hauptschulabschluss oder einen als gleichwertig
-        anerkannten Bildungsstand besitzt, zusätzlich über einen für die
-        vorgesehene Verwendung verwertbaren berufsqualifizierenden
+        anerkannten Bildungsstand besitzt, zusätzlich über einen für
+        die vorgesehene Verwendung verwertbaren berufsqualifizierenden
         Ausbildungsabschluss verfügt und eine dieser nach Fachrichtung und
         Schwierigkeit vergleichbare hauptberufliche Tätigkeit von mindestens
         zwei Jahren nachweist,
 
-
-
-
-
-3.  in die Laufbahn der Feldwebel des Militärmusikdienstes, wer
+3.  in die Laufbahn der Feldwebel des Militärmusikdienstes mit dem
+    Dienstgrad „Stabsunteroffizier“, wer
 
     a)  die Bildungsvoraussetzungen nach Nummer 2 Buchstabe a erfüllt und
 
-
     b)  eine für den Musikerberuf übliche, mindestens dreijährige erfolgreiche
         praktische und theoretische Ausbildung in einem musikalischen
-        Bildungsinstitut, bei einem Mitglied eines Kulturorchesters oder einer
-        Lehrerin oder einem Lehrer in freiberuflicher Tätigkeit
+        Bildungsinstitut, bei einem Mitglied eines Kulturorchesters oder
+        einer Lehrerin oder einem Lehrer in freiberuflicher Tätigkeit
         (Privatmusikerzieherin oder Privatmusikerzieher) abgeschlossen hat.
-
-
-
-
-
-
 
 (2) In das Dienstverhältnis einer Soldatin auf Zeit oder eines
 Soldaten auf Zeit kann mit dem Dienstgrad „Feldwebel“ eingestellt
@@ -801,56 +782,37 @@ werden
 1.  in die Laufbahnen der Feldwebel des Truppendienstes und des
     Geoinformationsdienstes der Bundeswehr, wer
 
-    a)  in einem für die vorgesehene Verwendung verwertbaren Beruf die
-        Meisterprüfung oder eine dieser nach Art, Inhalt und
+    a)  in einem für die vorgesehene Verwendung verwertbaren Beruf
+        die Meisterprüfung oder eine dieser nach Art, Inhalt und
         Zulassungsvoraussetzungen vergleichbare Prüfung oder die
         Abschlussprüfung an einer mindestens zweijährigen Fachschule bestanden
         hat oder
-
 
     b)  eine für die vorgesehene Verwendung verwertbare Befähigung für eine
         Laufbahn des mittleren Dienstes oder eine vergleichbare Laufbahn
         besitzt,
 
-
-
-
-
 2.  in die Laufbahn der Feldwebel des allgemeinen Fachdienstes, wer
 
     a)  die in Nummer 1 genannten Voraussetzungen erfüllt oder
 
-
     b)  eine luftfahrzeugtechnische Lizenz für freigabeberechtigtes Personal
         der Kategorie B besitzt,
 
-
-
-
-
-3.  in die Laufbahn der Feldwebel des Sanitätsdienstes, wer über einen für
-    die vorgesehene Verwendung verwertbaren berufsqualifizierenden
+3.  in die Laufbahn der Feldwebel des Sanitätsdienstes, wer über einen
+    für die vorgesehene Verwendung verwertbaren berufsqualifizierenden
     Ausbildungsabschluss verfügt in
 
     a)  einem Gesundheitsberuf,
 
-
     b)  einem technischen Assistenzberuf oder
 
-
     c)  einem Assistenzberuf im Gesundheitswesen, und
-
-
-
-
 
 4.  in die Laufbahn der Feldwebel des Militärmusikdienstes, wer mindestens
     180 Leistungspunkte in einem Bachelorstudiengang Orchesterinstrumente
     an einer Musikhochschule oder eine gleichwertige Qualifikation
     erworben hat.
-
-
-
 
 (3) Liegen die Voraussetzungen des Absatzes 2 vor, kann für eine
 militärfachliche Verwendung mit einem höheren Dienstgrad, höchstens
@@ -864,26 +826,21 @@ eine Einstellung
 
 1.  als Oberfeldwebel ein Jahr
 
-
 2.  als Hauptfeldwebel fünf Jahre und
-
 
 3.  als Stabsfeldwebel neun Jahre.
 
-
-
-
 (4) § 15 Absatz 2 gilt entsprechend mit der Maßgabe, dass das
-verkürzte Verpflichtungszeiterfordernis von zwei Jahren nur für
+verkürzte Verpflichtungszeiterfordernis von einem Jahr nur für
 Einstellungen in die Laufbahn der Feldwebel des Sanitätsdienstes nach
 den Absätzen 2 und 3 besteht.
 
 
 ##### § 20 Beförderung der Feldwebel
 
-(1) Die Beförderung zum Hauptfeldwebel ist nach einer Dienstzeit von
-mindestens acht Jahren zulässig. Abweichend von Satz 1 ist die
-Beförderung zum Hauptfeldwebel bei Angehörigen des fliegenden
+(1) Die Beförderung zum Hauptfeldwebel ist nach einer Dienstzeit
+von mindestens acht Jahren zulässig. Abweichend von Satz 1 ist
+die Beförderung zum Hauptfeldwebel bei Angehörigen des fliegenden
 Personals und bei Personal, das als Kampfschwimmerin oder
 Kampfschwimmer oder im Kommando Spezialkräfte für besondere Einsätze
 verwendet wird, nach einer Dienstzeit von mindestens sechs Jahren
@@ -895,36 +852,25 @@ Hauptfeldwebel setzt eine festgesetzte Dienstzeit voraus
 
 1.  von mindestens zwölf Jahren,
 
-
 2.  bei Einstellung als Unteroffizier von mindestens elf Jahren,
-
 
 3.  bei Einstellung als Stabsunteroffizier von mindestens zehn Jahren,
 
-
 4.  bei Einstellung als Feldwebel von mindestens neun Jahren und
 
-
 5.  bei Einstellung als Oberfeldwebel von mindestens acht Jahren.
-
-
-
 
 (3) Die Beförderung zum Oberstabsfeldwebel ist zulässig nach einer
 Dienstzeit
 
 1.  von mindestens 16 Jahren seit Ernennung zum Feldwebel und
 
-
 2.  von mindestens sechs Jahren seit Ernennung zum Hauptfeldwebel.
-
-
-
 
 
 ##### § 21 Aufstieg in eine Laufbahn der Feldwebel
 
-(1) Wenn die Voraussetzungen des § 17 Absatz 1 Satz 1 Nummer 1 und für
+(1) Wenn die Voraussetzungen des § 17 Absatz 1 Satz 1 und für
 die Laufbahn der Feldwebel des Militärmusikdienstes auch die
 Voraussetzungen des § 17 Absatz 1 Satz 2 erfüllt sind, können in eine
 Laufbahn der Feldwebel aufsteigen:
@@ -932,10 +878,7 @@ Laufbahn der Feldwebel aufsteigen:
 1.  Mannschaften aller Laufbahnen, die mindestens den Dienstgrad
     „Gefreiter“ erreicht haben, und
 
-
 2.  Fachunteroffizierinnen und Fachunteroffiziere.
-
-
 
 Aufsteigerinnen und Aufsteigern, die die Voraussetzungen des § 19
 Absatz 1 erfüllen, wird der entsprechende höhere Dienstgrad aus Anlass
@@ -965,59 +908,51 @@ Soldaten können aufsteigen
 1.  in eine Laufbahn der Fachunteroffizierinnen und Fachunteroffiziere der
     Reserve, wenn sie die Voraussetzungen des § 16 Absatz 1 erfüllen,
 
-
 2.  in eine Laufbahn der Feldwebel der Reserve, wenn sie die
     Voraussetzungen des § 21 Absatz 1 erfüllen.
 
-
-
-
-(3) Die Fachunteroffizierinnen und Fachunteroffiziere der Reserve
-führen im Schriftverkehr bis zu ihrer Beförderung zum Unteroffizier
-ihre Dienstgradbezeichnung mit dem Zusatz
+(3) Die Fachunteroffizierinnen und Fachunteroffiziere der
+Reserve führen im Schriftverkehr bis zu ihrer Beförderung
+zum Unteroffizier ihre Dienstgradbezeichnung mit dem Zusatz
 „(Reserveunteroffizieranwärterin)“, „(Reserveunteroffizieranwärter)“
-oder „(RUA)“; nach der Übernahme in eine Laufbahn der Feldwebel der
-Reserve führen sie im Schriftverkehr bis zu ihrer Beförderung zum
-Feldwebel ihre Dienstgradbezeichnung mit dem Zusatz
+oder „(RUA)“; nach der Übernahme in eine Laufbahn der Feldwebel
+der Reserve führen sie im Schriftverkehr bis zu ihrer Beförderung
+zum Feldwebel ihre Dienstgradbezeichnung mit dem Zusatz
 „(Reservefeldwebelanwärterin)“, „(Reservefeldwebelanwärter)“ oder
 „(RFA)“.
 
 (4) In den Laufbahnen der Fachunteroffizierinnen und
 Fachunteroffiziere der Reserve setzt die Beförderung zum Unteroffizier
 der Reserve das Bestehen einer Fachunteroffizierprüfung, in den
-Laufbahnen der Feldwebel der Reserve die Beförderung zum Feldwebel der
-Reserve das Bestehen einer Feldwebelprüfung voraus. Weitere
+Laufbahnen der Feldwebel der Reserve die Beförderung zum Feldwebel
+der Reserve das Bestehen einer Feldwebelprüfung voraus. Weitere
 Beförderungen sind erst nach Ablauf einer Zeit zulässig, die für
 Soldatinnen und Soldaten im Dienstverhältnis einer Berufssoldatin,
-eines Berufssoldaten, einer Soldatin auf Zeit oder eines Soldaten auf
-Zeit als Dienstzeit für die Beförderung nach dieser Verordnung
+eines Berufssoldaten, einer Soldatin auf Zeit oder eines Soldaten
+auf Zeit als Dienstzeit für die Beförderung nach dieser Verordnung
 mindestens vorausgesetzt wird. Außerdem können sie jeweils nach einem
 Wehrdienst von mindestens zwölf Tagen befördert werden. Zeiten einer
 dienstlichen Veranstaltung nach § 81 Absatz 1 des Soldatengesetzes
 werden auf den Wehrdienst nach Satz 3 nicht angerechnet. § 12 Absatz 2
 Satz 4 gilt entsprechend.
 
-(5) Reserveunteroffizierinnen und Reserveunteroffiziere können in das
-Dienstverhältnis einer Berufssoldatin oder eines Berufssoldaten
+(5) Reserveunteroffizierinnen und Reserveunteroffiziere können in
+das Dienstverhältnis einer Berufssoldatin oder eines Berufssoldaten
 berufen werden, wenn sie
 
-1.  als Angehörige einer Laufbahn der Fachunteroffizierinnen und
-    Fachunteroffiziere der Reserve mindestens den Dienstgrad
+1.  als Angehörige einer Laufbahn der Fachunteroffizierinnen
+    und Fachunteroffiziere der Reserve mindestens den Dienstgrad
     „Unteroffizier“ und als Angehöriger einer Laufbahn der Feldwebel der
     Reserve mindestens den Dienstgrad „Feldwebel“ erreicht haben,
 
-
-2.  in ihrem Dienstgrad mindestens vier Monate Wehrdienst geleistet und
-    sich dabei für ihre Berufung in das Dienstverhältnis einer
+2.  in ihrem Dienstgrad mindestens vier Monate Wehrdienst geleistet
+    und sich dabei für ihre Berufung in das Dienstverhältnis einer
     Berufssoldatin oder eines Berufssoldaten als geeignet erwiesen haben.
-
-
-
 
 (6) § 15 Absatz 1 und § 19 Absatz 2 gelten entsprechend. Der jeweilige
 Dienstgrad wird für die Dauer der Wehrdienstleistung vorläufig
-verliehen. Er kann nach einem Wehrdienst von mindestens zwölf Tagen
-endgültig verliehen werden. § 12 Absatz 2 Satz 3 und 4 gilt
+verliehen. Er kann nach einem Wehrdienst von mindestens zwölf
+Tagen endgültig verliehen werden. § 12 Absatz 2 Satz 3 und 4 gilt
 entsprechend.
 
 
@@ -1062,22 +997,15 @@ folgenden Dienstgraden und nach folgenden Dienstzeiten zulässig:
 
 1.  zum Gefreiten nach drei Monaten,
 
-
 2.  zum Obergefreiten nach sechs Monaten,
-
 
 3.  zum Fahnenjunker nach zwölf Monaten,
 
-
 4.  zum Fähnrich nach 21 Monaten,
-
 
 5.  zum Oberfähnrich nach 30 Monaten und
 
-
 6.  zum Leutnant nach 36 Monaten.
-
-
 
 Andere als die in Satz 2 genannten Dienstgrade müssen nicht
 durchlaufen werden.
@@ -1098,11 +1026,7 @@ Zeit folgende Voraussetzungen erfüllt sein:
 1.  mindestens Bachelor- oder gleichwertiger Hochschulabschluss in der für
     die Verwendung erforderlichen Fachrichtung und
 
-
 2.  Verpflichtung zu einem Wehrdienst für mindestens drei Jahre.
-
-
-
 
 (2) Die Einstellung erfolgt mit dem Dienstgrad „Oberleutnant“. Es kann
 eingestellt werden
@@ -1114,52 +1038,37 @@ eingestellt werden
         Fachrichtung und Schwierigkeit vergleichbare hauptberufliche Tätigkeit
         von mindestens zwei Jahren erworben hat oder
 
-
-    b)  ein der jeweiligen Verwendung entsprechendes Hochschulstudium mit
-        einem Masterabschluss oder mit einem gleichwertigen Abschluss
+    b)  ein der jeweiligen Verwendung entsprechendes Hochschulstudium
+        mit einem Masterabschluss oder mit einem gleichwertigen Abschluss
         abgeschlossen hat,
-
-
-
-
 
 2.  mit dem Dienstgrad „Major“, wer
 
     a)  ein der jeweiligen Verwendung entsprechendes Hochschulstudium mit
         einem Masterabschluss oder mit einem gleichwertigen Hochschulabschluss
         abgeschlossen hat und die Eignung für die dem höheren Dienstgrad
-        entsprechende Verwendung nach dem Erwerb des Abschlusses durch eine
-        dieser nach Fachrichtung und Schwierigkeit vergleichbare
+        entsprechende Verwendung nach dem Erwerb des Abschlusses durch
+        eine dieser nach Fachrichtung und Schwierigkeit vergleichbare
         hauptberufliche Tätigkeit von mindestens zwei Jahren und sechs Monaten
         erworben hat,
 
-
     b)  die Befähigung für eine Laufbahn des höheren Dienstes des Bundes
         erlangt hat oder
-
 
     c)  den Grad einer Doktoringenieurin oder eines Doktoringenieurs oder,
         wenn nach Landesrecht an dessen Stelle der Grad einer Doktorin der
         Naturwissenschaften oder eines Doktors der Naturwissenschaften tritt,
         diesen erworben hat,
 
-
-
-
-
 3.  mit dem Dienstgrad „Oberstleutnant“, wer die Voraussetzungen der
     Nummer 2 erfüllt und die darüber hinausgehende Eignung durch eine
     diesem Dienstgrad entsprechende Tätigkeit von mindestens drei weiteren
     Jahren erworben hat,
 
-
-4.  mit dem Dienstgrad „Oberst“, wer die Voraussetzungen der Nummer 3
-    erfüllt und die darüber hinausgehende Eignung durch eine diesem
+4.  mit dem Dienstgrad „Oberst“, wer die Voraussetzungen der Nummer
+    3 erfüllt und die darüber hinausgehende Eignung durch eine diesem
     Dienstgrad entsprechende Tätigkeit von mindestens drei weiteren Jahren
     erworben hat.
-
-
-
 
 (3) Die Laufbahn beginnt in den Fällen des Absatzes 2 Satz 2 Nummer 2
 bis 4 mit dem Dienstgrad „Major“.
@@ -1187,31 +1096,21 @@ Dienstzeiten seit der Ernennung zum Leutnant zulässig:
 
 1.  zum Hauptmann nach fünf Jahren,
 
-
 2.  zum Major nach neun Jahren und
-
 
 3.  zum Oberst nach 15 Jahren.
 
-
-
-
-(2) Die Beförderung der Offizierinnen und Offiziere des fliegenden
-Personals und der Offizierinnen und Offiziere, die als
+(2) Die Beförderung der Offizierinnen und Offiziere des
+fliegenden Personals und der Offizierinnen und Offiziere, die als
 Kampfschwimmerin oder Kampfschwimmer oder im Kommando Spezialkräfte
 für besondere Einsätze verwendet werden, ist abweichend von Absatz 1
 nach folgenden Dienstzeiten seit der Ernennung zum Leutnant zulässig:
 
 1.  zum Hauptmann nach vier Jahren und sechs Monaten,
 
-
 2.  zum Major nach acht Jahren und sechs Monaten und
 
-
 3.  zum Oberst nach 14 Jahren und sechs Monaten.
-
-
-
 
 
 ##### § 27 Aufstieg in die Laufbahn der Offizierinnen und Offiziere des Truppendienstes
@@ -1223,16 +1122,12 @@ Truppendienstes können aufsteigen
     1 oder Absatz 4 erfüllen und mindestens den Dienstgrad „Gefreiter“
     erreicht haben,
 
-
 2.  Unteroffiziere und Stabsunteroffiziere in den Laufbahnen der
     Fachunteroffizierinnen und Fachunteroffiziere, die die Voraussetzungen
     des § 23 Absatz 1 oder Absatz 4 erfüllen und
 
-
 3.  Feldwebel aller Laufbahnen, die mindestens den Dienstgrad „Feldwebel“
     erreicht haben.
-
-
 
 Aufsteigerinnen und Aufsteigern, die die Voraussetzungen des § 23
 Absatz 4 erfüllen, soll der entsprechende höhere Dienstgrad aus Anlass
@@ -1246,18 +1141,12 @@ im Schriftverkehr
 
 1.  Mannschaften bis zur Beförderung zum Fahnenjunker,
 
-
 2.  Stabsunteroffiziere bis zur Beförderung zum Fähnrich,
-
 
 3.  Oberfeldwebel bis zur Beförderung zum Oberfähnrich,
 
-
 4.  Stabsfeldwebel und Oberstabsfeldwebel bis zur Beförderung zum
     Leutnant.
-
-
-
 
 (3) § 24 gilt entsprechend mit der Maßgabe, dass vor dem Aufstieg
 absolvierte Ausbildungen auf die Ausbildungszeit und die für
@@ -1280,11 +1169,7 @@ Sanitätsoffizieranwärter) kann eingestellt werden, wer
     Tiermedizin oder der Pharmazie an deutschen öffentlichen Hochschulen
     besitzt und
 
-
 2.  sich für mindestens 17 Jahre zu einem Wehrdienst verpflichtet.
-
-
-
 
 (2) Die Einstellung erfolgt als Soldatin auf Zeit oder Soldaten auf
 Zeit.
@@ -1293,8 +1178,8 @@ Zeit.
 Dienstgradbezeichnung mit dem Zusatz „(Sanitätsoffizieranwärterin)“,
 „(Sanitätsoffizieranwärter)“ oder „(SanOA)“.
 
-(4) Als Sanitätsoffizieranwärterin oder Sanitätsoffizieranwärter kann
-mit dem Dienstgrad Oberfähnrich auch eingestellt werden, wer den
+(4) Als Sanitätsoffizieranwärterin oder Sanitätsoffizieranwärter
+kann mit dem Dienstgrad Oberfähnrich auch eingestellt werden, wer den
 ersten Abschnitt der ärztlichen, zahnärztlichen, tierärztlichen oder
 pharmazeutischen Prüfung oder einer vergleichbaren Prüfung bestanden
 und sich für mindestens 15 Jahre zu einem Wehrdienst verpflichtet hat.
@@ -1307,33 +1192,26 @@ folgenden Dienstgraden und nach folgenden Dienstzeiten zulässig:
 
 1.  zum Gefreiten nach drei Monaten,
 
-
 2.  zum Obergefreiten nach sechs Monaten,
-
 
 3.  zum Fahnenjunker nach zwölf Monaten,
 
-
 4.  zum Fähnrich nach 21 Monaten,
-
 
 5.  zum Oberfähnrich nach 30 Monaten und
 
-
 6.  zum Leutnant nach 36 Monaten.
-
-
 
 Andere als die in Satz 1 genannten Dienstgrade müssen nicht
 durchlaufen werden.
 
 (2) § 24 Absatz 2 gilt entsprechend.
 
-(3) Zum Stabsarzt oder Stabsveterinär darf nur befördert werden, wer
-als Ärztin oder Arzt, als Zahnärztin oder Zahnarzt oder als Tierärztin
-oder Tierarzt approbiert ist. Zum Stabsapotheker darf nur befördert
-werden, wer als Apothekerin oder Apotheker approbiert ist und die
-staatliche Prüfung als Lebensmittelchemikerin oder
+(3) Zum Stabsarzt oder Stabsveterinär darf nur befördert werden,
+wer als Ärztin oder Arzt, als Zahnärztin oder Zahnarzt oder als
+Tierärztin oder Tierarzt approbiert ist. Zum Stabsapotheker darf
+nur befördert werden, wer als Apothekerin oder Apotheker approbiert
+ist und die staatliche Prüfung als Lebensmittelchemikerin oder
 Lebensmittelchemiker bestanden hat. § 7 Absatz 2 ist nicht anzuwenden.
 
 
@@ -1345,28 +1223,19 @@ Sanitätsdienstes kann eingestellt werden, wer
 1.  die Approbation als Ärztin oder Arzt, Zahnärztin oder Zahnarzt,
     Tierärztin oder Tierarzt, Apothekerin oder Apotheker besitzt und
 
-
 2.  sich für mindestens ein Jahr zu einem Wehrdienst verpflichtet.
-
-
-
 
 (2) Es werden eingestellt:
 
 1.  Ärztinnen, Ärzte, Zahnärztinnen und Zahnärzte als Stabsarzt,
 
-
 2.  Tierärztinnen und Tierärzte als Stabsveterinär,
-
 
 3.  Apothekerinnen und Apotheker als Stabsapotheker.
 
-
-
-
 (3) Mit dem Dienstgrad „Oberstabsarzt“, „Oberstabsveterinär“ oder
-„Oberstabsapotheker“ kann eingestellt werden, wer die in Absatz 1
-genannten Voraussetzungen erfüllt und eine der Fachrichtung
+„Oberstabsapotheker“ kann eingestellt werden, wer die in Absatz
+1 genannten Voraussetzungen erfüllt und eine der Fachrichtung
 entsprechende hauptberufliche Vollzeittätigkeit von mindestens drei
 Jahren nach der Approbation nachweist. Bei einer hauptberuflichen
 Tätigkeit in Teilzeit verlängert sich der Zeitraum um die Differenz
@@ -1384,18 +1253,15 @@ Verwendung eingestellt werden, wer
 1.  die in Absatz 4 in Verbindung mit den Absätzen 1 und 3 genannten
     Voraussetzungen erfüllt und
 
-
 2.  die Eignung für die dem höheren Dienstgrad entsprechende Verwendung
-    durch eine darüber hinausgehende hauptberufliche Vollzeittätigkeit von
-    mindestens drei Jahren nach dem Erwerb der in Absatz 4 genannten
+    durch eine darüber hinausgehende hauptberufliche Vollzeittätigkeit
+    von mindestens drei Jahren nach dem Erwerb der in Absatz 4 genannten
     Qualifikation erworben hat.
-
-
 
 Absatz 3 Satz 2 gilt entsprechend.
 
-(6) Die Laufbahn beginnt in den Fällen der Absätze 3 bis 5 mit dem
-Dienstgrad „Oberstabsarzt“, „Oberstabsveterinär“ oder
+(6) Die Laufbahn beginnt in den Fällen der Absätze 3 bis 5
+mit dem Dienstgrad „Oberstabsarzt“, „Oberstabsveterinär“ oder
 „Oberstabsapotheker“.
 
 (7) Das Bundesministerium der Verteidigung kann Ausnahmen von den
@@ -1411,11 +1277,7 @@ zum Stabsarzt, Stabsveterinär oder Stabsapotheker zulässig:
 1.  zum Oberstabsarzt, Oberstabsveterinär oder Oberstabsapotheker nach
     zwei Jahren und
 
-
 2.  zum Oberstarzt, Oberstveterinär oder Oberstapotheker nach zehn Jahren.
-
-
-
 
 (2) Abweichend von § 7 Absatz 2 kann zum Oberfeldarzt,
 Oberfeldveterinär oder Oberfeldapotheker befördert werden, wer die in
@@ -1431,15 +1293,11 @@ Sanitätsdienstes können aufsteigen, wenn sie die Voraussetzungen des §
 1.  Mannschaften aller Laufbahnen, die mindestens den Dienstgrad
     „Gefreiter“ erreicht haben,
 
-
 2.  Unteroffiziere und Stabsunteroffiziere in den Laufbahnen der
     Fachunteroffizierinnen und Fachunteroffiziere und
 
-
 3.  Feldwebel aller Laufbahnen, die mindestens den Dienstgrad „Feldwebel“
     erreicht haben.
-
-
 
 Aufsteigerinnen und Aufsteigern, die die Voraussetzungen des § 28
 Absatz 4 erfüllen, soll der entsprechende höhere Dienstgrad aus Anlass
@@ -1454,18 +1312,12 @@ führen im Schriftverkehr
 
 1.  Mannschaften bis zur Beförderung zum Fahnenjunker,
 
-
 2.  Stabsunteroffiziere bis zur Beförderung zum Fähnrich,
-
 
 3.  Oberfeldwebel bis zur Beförderung zum Oberfähnrich und
 
-
 4.  Stabsfeldwebel und Oberstabsfeldwebel bis zur Beförderung zum Leutnant
     (Sanitätsoffizieranwärterin) oder Leutnant (Sanitätsoffizieranwärter).
-
-
-
 
 (3) § 29 gilt entsprechend.
 
@@ -1479,26 +1331,20 @@ führen im Schriftverkehr
 und Offiziere des Militärmusikdienstes (Militärmusikoffizieranwärterin
 oder Militärmusikoffizieranwärter) kann eingestellt werden, wer
 
-1.  die allgemeine Hochschulreife, die fachgebundene Hochschulreife, die
-    Fachhochschulreife oder einen als gleichwertig anerkannten
+1.  die allgemeine Hochschulreife, die fachgebundene Hochschulreife,
+    die Fachhochschulreife oder einen als gleichwertig anerkannten
     Bildungsstand besitzt,
-
 
 2.  die Aufnahmeprüfung an einer Hochschule für Musik bestanden hat und
 
-
 3.  sich für mindestens 15 Jahre zu einem Wehrdienst verpflichtet.
-
-
-
 
 (2) Die Einstellung erfolgt als Soldatin auf Zeit oder Soldat auf
 Zeit.
 
 (3) Die Anwärterinnen und Anwärter führen im Schriftverkehr ihre
-Dienstgradbezeichnung mit dem Zusatz
-„(Militärmusikoffizieranwärterin)“ oder
-„(Militärmusikoffizieranwärter)“ oder „(MilMusikOA)“.
+Dienstgradbezeichnung mit dem Zusatz „(Militärmusikoffizieranwärterin)“
+oder „(Militärmusikoffizieranwärter)“ oder „(MilMusikOA)“.
 
 
 ##### § 34 Beförderung der Militärmusikoffizieranwärterinnen und Militärmusikoffizieranwärter
@@ -1508,22 +1354,15 @@ folgenden Dienstgraden und nach folgenden Dienstzeiten zulässig:
 
 1.  zum Gefreiten nach drei Monaten,
 
-
 2.  zum Obergefreiten nach sechs Monaten,
-
 
 3.  zum Fahnenjunker nach zwölf Monaten,
 
-
 4.  zum Fähnrich nach 21 Monaten,
-
 
 5.  zum Oberfähnrich nach 30 Monaten und
 
-
 6.  zum Leutnant nach 36 Monaten.
-
-
 
 Andere als die in Satz 1 genannten Dienstgrade müssen nicht
 durchlaufen werden.
@@ -1543,11 +1382,7 @@ Militärmusikdienstes kann auch eingestellt werden, wer
     Musikinstitut mit dem Kapellmeisterexamen oder einer gleichwertigen
     Hochschulprüfung abgeschlossen hat und
 
-
 2.  sich für mindestens drei Jahre zu einem Wehrdienst verpflichtet.
-
-
-
 
 (2) Die Einstellung erfolgt mit dem Dienstgrad „Hauptmann“. Die
 Laufbahn beginnt mit dem Einstellungsdienstgrad.
@@ -1560,11 +1395,7 @@ Hauptmann zulässig:
 
 1.  zum Major nach drei Jahren und
 
-
 2.  zum Oberst nach 13 Jahren.
-
-
-
 
 
 ##### § 37 Aufstieg in die Laufbahn der Offizierinnen und Offiziere des Militärmusikdienstes
@@ -1576,16 +1407,11 @@ aufsteigen
 1.  Mannschaften aller Laufbahnen, die mindestens den Dienstgrad
     „Gefreiter“ erreicht haben,
 
-
 2.  Unteroffiziere und Stabsunteroffiziere in den Laufbahnen der
     Fachunteroffizierinnen und Fachunteroffiziere und
 
-
 3.  Feldwebel aller Laufbahnen, die mindestens den Dienstgrad „Feldwebel“
     erreicht haben.
-
-
-
 
 (2) Nach dem Aufstieg führen Unteroffiziere den Dienstgrad
 „Fahnenjunker“, Feldwebel den Dienstgrad „Fähnrich“ und Hauptfeldwebel
@@ -1596,19 +1422,13 @@ Satz 1 führen im Schriftverkehr
 
 1.  Mannschaften bis zur Beförderung zum Fahnenjunker,
 
-
 2.  Stabsunteroffiziere bis zur Beförderung zum Fähnrich,
-
 
 3.  Oberfeldwebel bis zur Beförderung zum Oberfähnrich,
 
-
-4.  Stabsfeldwebel und Oberstabsfeldwebel bis zur Beförderung zum Leutnant
-    (Militärmusikoffizieranwärterin) oder Leutnant
+4.  Stabsfeldwebel und Oberstabsfeldwebel bis zur Beförderung
+    zum Leutnant (Militärmusikoffizieranwärterin) oder Leutnant
     (Militärmusikoffizieranwärter).
-
-
-
 
 (3) § 34 gilt entsprechend.
 
@@ -1618,27 +1438,23 @@ Satz 1 führen im Schriftverkehr
 
 ##### § 38 Einstellung als Geoinformationsoffizieranwärterin oder Geoinformationsoffizieranwärter
 
-(1) Als Anwärterin oder Anwärter für die Laufbahn der Offizierinnen
-und Offiziere des Geoinformationsdienstes der Bundeswehr
-(Geoinformationsoffizieranwärterin oder
+(1) Als Anwärterin oder Anwärter für die Laufbahn der
+Offizierinnen und Offiziere des Geoinformationsdienstes
+der Bundeswehr (Geoinformationsoffizieranwärterin oder
 Geoinformationsoffizieranwärter) kann eingestellt werden, wer
 
 1.  die Berechtigung zum Studium in einer geowissenschaftlichen
     Studienrichtung an staatlichen Hochschulen und staatlich anerkannten
     Hochschulen der Bundesrepublik Deutschland besitzt und
 
-
 2.  sich für mindestens 15 Jahre zu einem Wehrdienst verpflichtet.
-
-
-
 
 (2) Die Einstellung erfolgt als Soldatin auf Zeit oder Soldat auf
 Zeit.
 
-(3) Die Anwärterinnen und Anwärter führen im Schriftverkehr ihre
-Dienstgradbezeichnung mit dem Zusatz
-„(Geoinformationsoffizieranwärterin)“ oder
+(3) Die Anwärterinnen und Anwärter führen im
+Schriftverkehr ihre Dienstgradbezeichnung mit dem
+Zusatz „(Geoinformationsoffizieranwärterin)“ oder
 „(Geoinformationsoffizieranwärter)“ oder „(GeoInfoOA)“.
 
 
@@ -1649,22 +1465,15 @@ folgenden Dienstgraden und nach folgenden Dienstzeiten zulässig:
 
 1.  zum Gefreiten nach drei Monaten,
 
-
 2.  zum Obergefreiten nach sechs Monaten,
-
 
 3.  zum Fahnenjunker nach zwölf Monaten,
 
-
 4.  zum Fähnrich nach 21 Monaten,
-
 
 5.  zum Oberfähnrich nach 30 Monaten und
 
-
 6.  zum Leutnant nach 36 Monaten.
-
-
 
 Andere als die in Satz 1 genannten Dienstgrade müssen nicht
 durchlaufen werden.
@@ -1693,59 +1502,43 @@ Oberleutnant zulässig:
 
 1.  zum Hauptmann nach drei Jahren,
 
-
 2.  zum Major nach sieben Jahren und
-
 
 3.  zum Oberst nach 13 Jahren.
 
 
-
-
-
 ##### § 42 Aufstieg in die Laufbahn der Offizierinnen und Offiziere des Geoinformationsdienstes der Bundeswehr
 
-(1) Wenn die Voraussetzungen des § 38 Absatz 1 erfüllt sind, können in
-die Laufbahn der Offizierinnen und Offiziere des
+(1) Wenn die Voraussetzungen des § 38 Absatz 1 erfüllt sind,
+können in die Laufbahn der Offizierinnen und Offiziere des
 Geoinformationsdienstes der Bundeswehr aufsteigen
 
 1.  Mannschaften aller Laufbahnen, die mindestens den Dienstgrad Gefreiter
     erreicht haben,
 
-
 2.  Unteroffiziere und Stabsunteroffiziere in den Laufbahnen der
     Fachunteroffizierinnen und Fachunteroffiziere und
-
 
 3.  Feldwebel aller Laufbahnen, die mindestens den Dienstgrad Feldwebel
     erreicht haben.
 
-
-
-
 (2) Nach dem Aufstieg führen Unteroffiziere den Dienstgrad
-Fahnenjunker, Feldwebel den Dienstgrad Fähnrich und Hauptfeldwebel den
-Dienstgrad Oberfähnrich und jeweils mit dem Zusatz
-„(Geoinformationsoffizieranwärterin)“,
+Fahnenjunker, Feldwebel den Dienstgrad Fähnrich und
+Hauptfeldwebel den Dienstgrad Oberfähnrich und jeweils
+mit dem Zusatz „(Geoinformationsoffizieranwärterin)“,
 „(Geoinformationsoffizieranwärter)“ oder „(GeoInfoOA)“. Ihre
 Dienstgradbezeichnung mit dem Zusatz nach Satz 1 führen im
 Schriftverkehr
 
 1.  Mannschaften bis zur Beförderung zum Fahnenjunker,
 
-
 2.  Stabsunteroffiziere bis zur Beförderung zum Fähnrich,
-
 
 3.  Oberfeldwebel bis zur Beförderung zum Oberfähnrich und
 
-
-4.  Stabsfeldwebel und Oberstabsfeldwebel bis zur Beförderung zum Leutnant
-    (Geoinformationsoffizieranwärterin) oder Leutnant
+4.  Stabsfeldwebel und Oberstabsfeldwebel bis zur Beförderung zum
+    Leutnant (Geoinformationsoffizieranwärterin) oder Leutnant
     (Geoinformationsoffizieranwärter).
-
-
-
 
 (3) § 39 gilt entsprechend.
 
@@ -1756,9 +1549,9 @@ Schriftverkehr
 ##### § 43 Einstellung als Offizieranwärterin oder Offizieranwärter
 
 (1) Als Anwärterin oder Anwärter für die Laufbahn der Offizierinnen
-und Offiziere des militärfachlichen Dienstes (Offizieranwärterin oder
-Offizieranwärter) kann eingestellt werden, wer mindestens einen
-Realschulabschluss oder einen als gleichwertig anerkannten
+und Offiziere des militärfachlichen Dienstes (Offizieranwärterin
+oder Offizieranwärter) kann eingestellt werden, wer mindestens
+einen Realschulabschluss oder einen als gleichwertig anerkannten
 Bildungsstand besitzt.
 
 (2) Die Einstellung erfolgt als Soldatin auf Zeit oder Soldat auf
@@ -1777,22 +1570,15 @@ Dienstgraden und nach folgenden Dienstzeiten zulässig:
 
 1.  zum Gefreiten nach drei Monaten,
 
-
 2.  zum Obergefreiten nach sechs Monaten,
-
 
 3.  zum Fahnenjunker nach zwölf Monaten,
 
-
 4.  zum Fähnrich nach 21 Monaten,
-
 
 5.  zum Oberfähnrich nach 30 Monaten und
 
-
 6.  zum Leutnant nach 36 Monaten.
-
-
 
 Andere als die in Satz 2 genannten Dienstgrade müssen nicht
 durchlaufen werden.
@@ -1810,50 +1596,37 @@ folgenden Befähigungsnachweise besitzt:
 1.  eine nach deutschem Recht gültige Berufsflugzeugführerlizenz und eine
     Instrumentenflugberechtigung,
 
-
 2.  eine nach deutschem Recht gültige Berufshubschrauberführerlizenz und
     eine Instrumentenflugberechtigung,
 
-
 3.  eine nach deutschem Recht gültige Fluglotsenlizenz,
 
-
-4.  ein nach deutschem Recht gültiges Zeugnis über die Befähigung zum
-    Kapitän (NK) auf Kauffahrteischiffen mit Ausnahme der
+4.  ein nach deutschem Recht gültiges Zeugnis über die Befähigung
+    zum Kapitän (NK) auf Kauffahrteischiffen mit Ausnahme der
     Fischereifahrzeuge,
-
 
 5.  ein nach deutschem Recht gültiges Zeugnis über die Befähigung zum
     Ersten Offizier (NEO) auf Kauffahrteischiffen mit Ausnahme der
     Fischereifahrzeuge,
 
-
 6.  ein nach deutschem Recht gültiges Zeugnis über die Befähigung zum
     Nautischen Wachoffizier (NWO) auf Kauffahrteischiffen mit Ausnahme der
     Fischereifahrzeuge,
 
-
 7.  ein nach deutschem Recht gültiges Zeugnis über die Befähigung zum
     Leiter der Maschinenanlage (TLM) auf Kauffahrteischiffen,
-
 
 8.  ein nach deutschem Recht gültiges Zeugnis über die Befähigung zum
     Zweiten technischen Schiffsoffizier (TZO) auf Kauffahrteischiffen,
 
-
 9.  ein nach deutschem Recht gültiges Zeugnis über die Befähigung zum
     Technischen Wachoffizier (TWO) auf Kauffahrteischiffen,
-
 
 10. ein nach deutschem Recht gültiges Zeugnis über die Befähigung zum
     Elektrotechnischen Schiffsoffizier (ETO) auf Kauffahrteischiffen,
 
-
 11. ein Zeugnis über das Bestehen der Prüfung zum Strategischen
     Professional.
-
-
-
 
 (2) Die Einstellung erfolgt mit dem Dienstgrad „Leutnant“. Es kann
 eingestellt werden
@@ -1864,34 +1637,31 @@ eingestellt werden
     hauptberufliche Tätigkeit von mindestens zwei Jahren erworben hat,
     oder
 
-
-2.  als Hauptmann, wer die über Nummer 1 hinausgehende Eignung für eine
-    diesem Dienstgrad entsprechende Verwendung durch eine diesem
+2.  als Hauptmann, wer die über Nummer 1 hinausgehende Eignung für
+    eine diesem Dienstgrad entsprechende Verwendung durch eine diesem
     Dienstgrad entsprechende Tätigkeit von mindestens zwei weiteren Jahren
     erworben hat.
-
-
-
 
 (3) Als Offizierin oder Offizier des militärfachlichen Dienstes kann
 auch eingestellt werden, wer einen für die vorgesehene Verwendung
 erforderlichen Bachelor- oder gleichwertigen Abschluss besitzt und
-sich für mindestens drei Jahre zu einem Wehrdienst verpflichtet.
+sich für mindestens drei Jahre, in Werdegängen des Sanitätsdienstes
+für mindestens ein Jahr zu einem Wehrdienst verpflichtet.
 
 (4) Die Einstellung nach Absatz 3 erfolgt mit dem Dienstgrad
-Oberleutnant. Als Hauptmann kann eingestellt werden, wer die Eignung
-für eine diesem Dienstgrad entsprechende Verwendung nach dem Erwerb
-des Bachelor- oder gleichwertigen Hochschulabschlusses durch eine
-dieser nach Fachrichtung und Schwierigkeit vergleichbare
+Oberleutnant. Als Hauptmann kann eingestellt werden, wer die
+Eignung für eine diesem Dienstgrad entsprechende Verwendung nach
+dem Erwerb des Bachelor- oder gleichwertigen Hochschulabschlusses
+durch eine dieser nach Fachrichtung und Schwierigkeit vergleichbare
 hauptberufliche Tätigkeit von mindestens zwei Jahren erworben hat.
 
 
 ##### § 46 Beförderung der Offizierinnen und Offiziere des militärfachlichen Dienstes
 
 (1) Die Beförderung zum Hauptmann ist nach einer Dienstzeit von fünf
-Jahren seit der Ernennung zum Leutnant zulässig. Die Beförderung der
-Offizierinnen und Offiziere des fliegenden Personals sowie der
-Offizierinnen und Offiziere, die als Kampfschwimmerinnen oder
+Jahren seit der Ernennung zum Leutnant zulässig. Die Beförderung
+der Offizierinnen und Offiziere des fliegenden Personals sowie
+der Offizierinnen und Offiziere, die als Kampfschwimmerinnen oder
 Kampfschwimmer oder im Kommando Spezialkräfte für besondere Einsätze
 verwendet werden, ist nach einer Dienstzeit von vier Jahren und sechs
 Monaten seit der Ernennung zum Leutnant zulässig.
@@ -1901,10 +1671,7 @@ Dienstzeit von
 
 1.  15 Jahren seit der Ernennung zum Leutnant und
 
-
 2.  sechs Jahren seit der Ernennung zum Hauptmann.
-
-
 
 Die Beförderung der Offizierinnen und Offiziere des fliegenden
 Personals sowie der Offizierinnen und Offiziere, die als
@@ -1914,11 +1681,7 @@ Dienstzeit von
 
 1.  14 Jahren und sechs Monaten seit der Ernennung zum Leutnant und
 
-
 2.  fünf Jahren und sechs Monaten seit der Ernennung zum Hauptmann.
-
-
-
 
 
 ##### § 47 Aufstieg in die Laufbahn der Offizierinnen und Offiziere des militärfachlichen Dienstes
@@ -1930,17 +1693,12 @@ oder eines Berufssoldaten können aufsteigen
 1.  Mannschaften aller Laufbahnen, die die Voraussetzungen des § 43 Absatz
     1 erfüllen und mindestens den Dienstgrad Gefreiter erreicht haben,
 
-
 2.  Unteroffiziere und Stabsunteroffiziere in den Laufbahnen der
     Fachunteroffizierinnen und Fachunteroffiziere, die die Voraussetzungen
     des § 43 Absatz 1 erfüllen und
 
-
 3.  Feldwebel aller Laufbahnen, die mindestens den Dienstgrad „Feldwebel“
     erreicht haben.
-
-
-
 
 (2) Nach dem Aufstieg führen Unteroffiziere den Dienstgrad
 „Fahnenjunker“, Feldwebel den Dienstgrad „Fähnrich“ und Hauptfeldwebel
@@ -1950,22 +1708,16 @@ im Schriftverkehr
 
 1.  Mannschaften bis zur Beförderung zum Fahnenjunker,
 
-
 2.  Stabsunteroffiziere bis zur Beförderung zum Fähnrich,
 
-
 3.  Oberfeldwebel bis zur Beförderung zum Oberfähnrich und
-
 
 4.  Stabsfeldwebel und Oberstabsfeldwebel bis zur Beförderung zum
     Leutnant.
 
-
-
-
 (3) Die Ausbildung zur Offizierin oder zum Offizier dauert mindestens
-drei Jahre. Auf die Ausbildungs- und Beförderungszeit können vor der
-Übernahme in die Laufbahn der Offizierinnen und Offiziere des
+drei Jahre. Auf die Ausbildungs- und Beförderungszeit können vor
+der Übernahme in die Laufbahn der Offizierinnen und Offiziere des
 militärfachlichen Dienstes absolvierte Ausbildungen höchstens mit zwei
 Jahren angerechnet werden.
 
@@ -1987,17 +1739,13 @@ eines Berufssoldaten, einer Soldatin auf Zeit oder eines Soldaten auf
 Zeit eingestellt und befördert.
 
 (2) Die in § 1 Absatz 1 Nummer 2 bis 6 genannten Soldatinnen und
-Soldaten können als Anwärterinnen oder Anwärter in die Laufbahn der
-Offizierinnen und Offiziere der Reserve des Truppendienstes
+Soldaten können als Anwärterinnen oder Anwärter in die Laufbahn
+der Offizierinnen und Offiziere der Reserve des Truppendienstes
 aufsteigen, wenn sie
 
-1.  mindestens einen Realschulabschluss oder einen als gleichwertig
-    anerkannten Abschluss besitzen oder
-
+1.  die in § 23 Absatz 1 genannten Voraussetzungen erfüllen oder
 
 2.  mindestens den Dienstgrad „Feldwebel“ erreicht haben.
-
-
 
 Nach der Übernahme in die neue Laufbahn führen die Anwärterinnen und
 Anwärter im Schriftverkehr ihre Dienstgradbezeichnung mit dem Zusatz
@@ -2005,29 +1753,28 @@ Anwärter im Schriftverkehr ihre Dienstgradbezeichnung mit dem Zusatz
 „(ROA)“. § 43 gilt entsprechend.
 
 (3) Für die Einstellung mit einem höheren Dienstgrad gelten § 23
-Absatz 4 und § 25 Absatz 2 bis 5, § 30 Absatz 3 bis 7, § 35 Absatz 2
-und die §§ 40 und 45 Absatz 2 bis 4 entsprechend. Der jeweilige
+Absatz 4 und § 25 Absatz 2 bis 5, § 30 Absatz 3 bis 7, § 35 Absatz
+2 und die §§ 40 und 45 Absatz 2 bis 4 entsprechend. Der jeweilige
 Dienstgrad wird für die Dauer der Wehrdienstleistung vorläufig
 verliehen. Er kann nach einem Wehrdienst von mindestens 24 Tagen
 endgültig verliehen werden.
 
 (4) Für die Beförderung der Reserveoffizieranwärterinnen und
 Reserveoffizieranwärter, die freiwilligen Wehrdienst nach § 58b des
-Soldatengesetzes leisten oder in ein Dienstverhältnis als Soldatin auf
-Zeit oder Soldat auf Zeit berufen worden sind, gilt § 24 Absatz 1
-entsprechend. Im Übrigen können Reserveoffizieranwärterinnen und
-Reserveoffizieranwärter nach einem Wehrdienst von mindestens 24 Tagen
-befördert werden, jedoch erst nach Ablauf einer Zeit, die nach § 24
-Absatz 1 als Dienstzeit vorausgesetzt wird. § 24 Absatz 2 gilt
-entsprechend. Der Dienstgrad „Oberfähnrich“ muss nicht durchlaufen
-werden.
+Soldatengesetzes leisten oder in ein Dienstverhältnis als Soldatin
+auf Zeit oder Soldat auf Zeit berufen worden sind, gilt § 24 Absatz
+1 entsprechend. Im Übrigen können Reserveoffizieranwärterinnen und
+Reserveoffizieranwärter nach einem Wehrdienst von mindestens 24
+Tagen befördert werden, jedoch erst nach Ablauf einer Zeit, die nach
+§ 24 Absatz 1 als Dienstzeit vorausgesetzt wird. § 24 Absatz 2 gilt
+entsprechend.
 
 (5) Die Reserveoffizierinnen und Reserveoffiziere können erst nach
 einer Zeit befördert werden, die für Soldatinnen und Soldaten im
 Dienstverhältnis einer Berufssoldatin, eines Berufssoldaten, einer
-Soldatin auf Zeit oder eines Soldaten auf Zeit als Dienstzeit für die
-Beförderung nach dieser Verordnung vorausgesetzt wird. Außerdem ist
-vor jeder Beförderung ein Wehrdienst von mindestens 24 Tagen zu
+Soldatin auf Zeit oder eines Soldaten auf Zeit als Dienstzeit für
+die Beförderung nach dieser Verordnung vorausgesetzt wird. Außerdem
+ist vor jeder Beförderung ein Wehrdienst von mindestens 24 Tagen zu
 leisten.
 
 (6) Reserveoffizieranwärterinnen und Reserveoffizieranwärter können
@@ -2067,15 +1814,11 @@ Ausnahmen von Vorschriften dieser Verordnung zulassen; dies betrifft:
 
 1.  die Mindestdienstzeiten für die Beförderung und
 
-
 2.  das Überspringen von Dienstgraden bei der Einstellung oder
     Beförderung.
 
-
-
-
-(2) Für die in § 1 Absatz 1 Nummer 2 bis 6 genannten Soldatinnen und
-Soldaten entscheidet das Bundesministerium der Verteidigung über
+(2) Für die in § 1 Absatz 1 Nummer 2 bis 6 genannten Soldatinnen
+und Soldaten entscheidet das Bundesministerium der Verteidigung über
 Ausnahmen nach Absatz 1.
 
 
@@ -2088,42 +1831,31 @@ zuletzt geändert durch Artikel 7 des Gesetzes vom 4. August 2019
 (BGBl. I S. 1147), in der bis zum Inkrafttreten dieser Verordnung
 geltenden Fassung weiter anzuwenden.
 
-(2) Bis zum 31. Dezember 2021 sind für Einstellungen für oder in die
-Laufbahnen der Offizierinnen und Offiziere die §§ 23 bis 43 der
-Soldatenlaufbahnverordnung in der Fassung der Bekanntmachung vom 19.
-August 2011 (BGBl. I S. 1813), zuletzt geändert durch Artikel 7 des
-Gesetzes vom 4. August 2019 (BGBl. I S. 1147), in der bis zum
+(2) Bis zum 31. Dezember 2021 sind für Einstellungen für oder in
+die Laufbahnen der Offizierinnen und Offiziere die §§ 23 bis 43 der
+Soldatenlaufbahnverordnung in der Fassung der Bekanntmachung vom
+19\. August 2011 (BGBl. I S. 1813), zuletzt geändert durch Artikel
+7 des Gesetzes vom 4. August 2019 (BGBl. I S. 1147), in der bis zum
 Inkrafttreten dieser Verordnung geltenden Fassung weiter anzuwenden.
 
-(zu § 4)
 
-### Anlage 1 Zuordnung der Laufbahnen der Soldatinnen und Soldaten zu den Laufbahngruppen der Mannschaften, der Unteroffizierinnen und Unteroffiziere sowie der Offizierinnen und Offiziere
+### Anlage 1 (zu § 4)Zuordnung der Laufbahnen der Soldatinnen und Soldaten zu den Laufbahngruppen der Mannschaften, der Unteroffizierinnen und Unteroffiziere sowie der Offizierinnen und Offiziere
 
 (Fundstelle: BGBl. I 2021, 1244)
-
 
 1.  Zur Laufbahngruppe der Mannschaften gehören die folgenden Laufbahnen:
 
     a)  Laufbahn der Mannschaften des Truppendienstes,
 
-
     b)  Laufbahn der Mannschaften der Reserve des Truppendienstes,
-
 
     c)  Laufbahn der Mannschaften des Sanitätsdienstes,
 
-
     d)  Laufbahn der Mannschaften der Reserve des Sanitätsdienstes,
-
 
     e)  Laufbahn der Mannschaften des Militärmusikdienstes,
 
-
     f)  Laufbahn der Mannschaften der Reserve des Militärmusikdienstes.
-
-
-
-
 
 2.  Zur Laufbahngruppe der Unteroffizierinnen und Unteroffiziere gehören
     die folgenden Laufbahnen:
@@ -2133,155 +1865,103 @@ Inkrafttreten dieser Verordnung geltenden Fassung weiter anzuwenden.
         aa) Laufbahn der Fachunteroffizierinnen und Fachunteroffiziere des
             allgemeinen Fachdienstes,
 
-
         bb) Laufbahn der Fachunteroffizierinnen und Fachunteroffiziere der Reserve
             des allgemeinen Fachdienstes,
-
 
         cc) Laufbahn der Fachunteroffizierinnen und Fachunteroffiziere des
             Sanitätsdienstes,
 
-
         dd) Laufbahn der Fachunteroffizierinnen und Fachunteroffiziere der Reserve
             des Sanitätsdienstes,
-
 
         ee) Laufbahn der Fachunteroffizierinnen und Fachunteroffiziere des
             Militärmusikdienstes,
 
-
         ff) Laufbahn der Fachunteroffizierinnen und Fachunteroffiziere der Reserve
             des Militärmusikdienstes,
-
-
-
-
 
     b)  Laufbahnen der Feldwebel:
 
         aa) Laufbahn der Feldwebel des Truppendienstes,
 
-
         bb) Laufbahn der Feldwebel der Reserve des Truppendienstes,
-
 
         cc) Laufbahn der Feldwebel des Sanitätsdienstes,
 
-
         dd) Laufbahn der Feldwebel der Reserve des Sanitätsdienstes,
-
 
         ee) Laufbahn der Feldwebel des Militärmusikdienstes,
 
-
         ff) Laufbahn der Feldwebel der Reserve des Militärmusikdienstes,
 
-
         gg) Laufbahn der Feldwebel des Geoinformationsdienstes der Bundeswehr,
-
 
         hh) Laufbahn der Feldwebel der Reserve des Geoinformationsdienstes der
             Bundeswehr,
 
-
         ii) Laufbahn der Feldwebel des allgemeinen Fachdienstes,
 
-
         jj) Laufbahn der Feldwebel der Reserve des allgemeinen Fachdienstes.
-
-
-
-
-
-
-
 
 3.  Zur Laufbahngruppe der Offizierinnen und Offiziere gehören die
     folgenden Laufbahnen:
 
     a)  Laufbahn der Offizierinnen und Offiziere des Truppendienstes,
 
-
     b)  Laufbahn der Offizierinnen und Offiziere der Reserve des
         Truppendienstes,
 
-
     c)  Laufbahn der Offizierinnen und Offiziere des Sanitätsdienstes,
-
 
     d)  Laufbahn der Offizierinnen und Offiziere der Reserve des
         Sanitätsdienstes,
 
-
     e)  Laufbahn der Offizierinnen und Offiziere des Militärmusikdienstes,
-
 
     f)  Laufbahn der Offizierinnen und Offiziere der Reserve des
         Militärmusikdienstes,
 
-
     g)  Laufbahn der Offizierinnen und Offiziere des Geoinformationsdienstes
         der Bundeswehr,
-
 
     h)  Laufbahn der Offizierinnen und Offiziere der Reserve des
         Geoinformationsdienstes der Bundeswehr,
 
-
     i)  Laufbahn der Offizierinnen und Offiziere des militärfachlichen
         Dienstes,
-
 
     j)  Laufbahn der Offizierinnen und Offiziere der Reserve des
         militärfachlichen Dienstes.
 
 
+### Anlage 2 (zu § 7 Absatz 3)Zuordnung der Dienstgrade zu den Laufbahnen der Soldatinnen und Soldaten
 
-
-
-
-
-(zu § 7 Absatz 3)
-
-### Anlage 2 Zuordnung der Dienstgrade zu den Laufbahnen der Soldatinnen und Soldaten
-
-(Fundstelle: BGBl. I 2021, 1245 - 1249)
-
+(Fundstelle: BGBl. I 2021, 1245 - 1249;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 1.  Laufbahngruppe der Mannschaften
 
-    a)  Zur Laufbahn der Mannschaften des Truppendienstes und zur Laufbahn der
-        Mannschaften der Reserve des Truppendienstes gehören die folgenden
+    a)  Zur Laufbahn der Mannschaften des Truppendienstes und zur Laufbahn
+        der Mannschaften der Reserve des Truppendienstes gehören die folgenden
         Dienstgrade:
 
         aa) Flieger, Funker, Grenadier, Jäger, Kanonier, Matrose, Panzerfunker,
             Panzergrenadier, Panzerjäger, Panzerkanonier, Panzerpionier,
             Panzerschütze, Pionier, Sanitätssoldat, Schütze,
 
-
         bb) Gefreiter,
-
 
         cc) Obergefreiter,
 
-
         dd) Hauptgefreiter,
-
 
         ee) Stabsgefreiter,
 
-
         ff) Oberstabsgefreiter,
-
 
         gg) Korporal,
 
-
         hh) Stabskorporal.
-
-
-
-
 
     b)  Zur Laufbahn der Mannschaften des Sanitätsdienstes und zur Laufbahn
         der Mannschaften der Reserve des Sanitätsdienstes gehören die
@@ -2289,24 +1969,15 @@ Inkrafttreten dieser Verordnung geltenden Fassung weiter anzuwenden.
 
         aa) Flieger, Matrose, Sanitätssoldat,
 
-
         bb) Gefreiter,
-
 
         cc) Obergefreiter,
 
-
         dd) Hauptgefreiter,
-
 
         ee) Stabsgefreiter,
 
-
         ff) Oberstabsgefreiter.
-
-
-
-
 
     c)  Zur Laufbahn der Mannschaften des Militärmusikdienstes und zur
         Laufbahn der Mannschaften der Reserve des Militärmusikdienstes gehören
@@ -2314,27 +1985,15 @@ Inkrafttreten dieser Verordnung geltenden Fassung weiter anzuwenden.
 
         aa) Flieger, Matrose, Schütze,
 
-
         bb) Gefreiter,
-
 
         cc) Obergefreiter,
 
-
         dd) Hauptgefreiter,
-
 
         ee) Stabsgefreiter,
 
-
         ff) Oberstabsgefreiter.
-
-
-
-
-
-
-
 
 2.  Laufbahngruppe der Unteroffizierinnen und Unteroffiziere
 
@@ -2347,21 +2006,13 @@ Inkrafttreten dieser Verordnung geltenden Fassung weiter anzuwenden.
 
             aaa) Flieger, Matrose, Schütze,
 
-
             bbb) Gefreiter,
-
 
             ccc) Obergefreiter,
 
-
             ddd) Unteroffizier, Maat,
 
-
             eee) Stabsunteroffizier, Obermaat.
-
-
-
-
 
         bb) Zur Laufbahn der Fachunteroffizierinnen und Fachunteroffiziere des
             Sanitätsdienstes und zur Laufbahn der Fachunteroffizierinnen und
@@ -2370,21 +2021,13 @@ Inkrafttreten dieser Verordnung geltenden Fassung weiter anzuwenden.
 
             aaa) Flieger, Matrose, Sanitätssoldat,
 
-
             bbb) Gefreiter,
-
 
             ccc) Obergefreiter,
 
-
             ddd) Unteroffizier, Maat,
 
-
             eee) Stabsunteroffizier, Obermaat.
-
-
-
-
 
         cc) Zur Laufbahn der Fachunteroffizierinnen und Fachunteroffiziere des
             Militärmusikdienstes und zur Laufbahn der Fachunteroffizierinnen und
@@ -2393,102 +2036,65 @@ Inkrafttreten dieser Verordnung geltenden Fassung weiter anzuwenden.
 
             aaa) Flieger, Matrose, Schütze,
 
-
             bbb) Gefreiter,
-
 
             ccc) Obergefreiter,
 
-
             ddd) Unteroffizier, Maat,
-
 
             eee) Stabsunteroffizier, Obermaat.
 
-
-
-
-
-
-
-
     b)  Laufbahnen der Feldwebel
 
-        aa) Zur Laufbahn der Feldwebel des Truppendienstes und zur Laufbahn der
-            Feldwebel der Reserve des Truppendienstes gehören die folgenden
+        aa) Zur Laufbahn der Feldwebel des Truppendienstes und zur Laufbahn
+            der Feldwebel der Reserve des Truppendienstes gehören die folgenden
             Dienstgrade:
 
             aaa) Flieger, Funker, Grenadier, Jäger, Kanonier, Matrose, Panzerfunker,
-                Panzergrenadier, Panzerjäger, Panzerkanonier, Panzerpionier,
-                Panzerschütze, Pionier, Schütze,
-
+                 Panzergrenadier, Panzerjäger, Panzerkanonier, Panzerpionier,
+                 Panzerschütze, Pionier, Schütze,
 
             bbb) Gefreiter,
 
-
             ccc) Obergefreiter,
-
 
             ddd) Unteroffizier, Maat,
 
-
             eee) Stabsunteroffizier, Obermaat,
-
 
             fff) Feldwebel, Bootsmann,
 
-
             ggg) Oberfeldwebel, Oberbootsmann,
-
 
             hhh) Hauptfeldwebel, Hauptbootsmann,
 
-
             iii) Stabsfeldwebel, Stabsbootsmann,
-
 
             jjj) Oberstabsfeldwebel, Oberstabsbootsmann.
 
-
-
-
-
-        bb) Zur Laufbahn der Feldwebel des Sanitätsdienstes und zur Laufbahn der
-            Feldwebel der Reserve des Sanitätsdienstes gehören die folgenden
+        bb) Zur Laufbahn der Feldwebel des Sanitätsdienstes und zur Laufbahn
+            der Feldwebel der Reserve des Sanitätsdienstes gehören die folgenden
             Dienstgrade:
 
             aaa) Flieger, Matrose, Sanitätssoldat,
 
-
             bbb) Gefreiter,
-
 
             ccc) Obergefreiter,
 
-
             ddd) Unteroffizier, Maat,
-
 
             eee) Stabsunteroffizier, Obermaat,
 
-
             fff) Feldwebel, Bootsmann,
-
 
             ggg) Oberfeldwebel, Oberbootsmann,
 
-
             hhh) Hauptfeldwebel, Hauptbootsmann,
-
 
             iii) Stabsfeldwebel, Stabsbootsmann,
 
-
             jjj) Oberstabsfeldwebel, Oberstabsbootsmann.
-
-
-
-
 
         cc) Zur Laufbahn der Feldwebel des Militärmusikdienstes und zur Laufbahn
             der Feldwebel der Reserve des Militärmusikdienstes gehören die
@@ -2496,36 +2102,23 @@ Inkrafttreten dieser Verordnung geltenden Fassung weiter anzuwenden.
 
             aaa) Flieger, Matrose, Schütze,
 
-
             bbb) Gefreiter,
-
 
             ccc) Obergefreiter,
 
-
             ddd) Unteroffizier, Maat,
-
 
             eee) Stabsunteroffizier, Obermaat,
 
-
             fff) Feldwebel, Bootsmann,
-
 
             ggg) Oberfeldwebel, Oberbootsmann,
 
-
             hhh) Hauptfeldwebel, Hauptbootsmann,
-
 
             iii) Stabsfeldwebel, Stabsbootsmann,
 
-
             jjj) Oberstabsfeldwebel, Oberstabsbootsmann.
-
-
-
-
 
         dd) Zur Laufbahn der Feldwebel des Geoinformationsdienstes der Bundeswehr
             und zur Laufbahn der Feldwebel der Reserve des Geoinformationsdienstes
@@ -2533,36 +2126,23 @@ Inkrafttreten dieser Verordnung geltenden Fassung weiter anzuwenden.
 
             aaa) Flieger, Matrose, Schütze,
 
-
             bbb) Gefreiter,
-
 
             ccc) Obergefreiter,
 
-
             ddd) Unteroffizier, Maat,
-
 
             eee) Stabsunteroffizier, Obermaat,
 
-
             fff) Feldwebel, Bootsmann,
-
 
             ggg) Oberfeldwebel, Oberbootsmann,
 
-
             hhh) Hauptfeldwebel, Hauptbootsmann,
-
 
             iii) Stabsfeldwebel, Stabsbootsmann,
 
-
             jjj) Oberstabsfeldwebel, Oberstabsbootsmann.
-
-
-
-
 
         ee) Zur Laufbahn der Feldwebel des allgemeinen Fachdienstes und zur
             Laufbahn der Feldwebel der Reserve des allgemeinen Fachdienstes
@@ -2570,42 +2150,23 @@ Inkrafttreten dieser Verordnung geltenden Fassung weiter anzuwenden.
 
             aaa) Flieger, Matrose, Schütze,
 
-
             bbb) Gefreiter,
-
 
             ccc) Obergefreiter,
 
-
             ddd) Unteroffizier, Maat,
-
 
             eee) Stabsunteroffizier, Obermaat,
 
-
             fff) Feldwebel, Bootsmann,
-
 
             ggg) Oberfeldwebel, Oberbootsmann,
 
-
             hhh) Hauptfeldwebel, Hauptbootsmann,
-
 
             iii) Stabsfeldwebel, Stabsbootsmann,
 
-
             jjj) Oberstabsfeldwebel, Oberstabsbootsmann.
-
-
-
-
-
-
-
-
-
-
 
 3.  Laufbahngruppe der Offizierinnen und Offiziere
 
@@ -2616,54 +2177,35 @@ Inkrafttreten dieser Verordnung geltenden Fassung weiter anzuwenden.
             Panzergrenadier, Panzerjäger, Panzerkanonier, Panzerpionier,
             Panzerschütze, Pionier, Schütze,
 
-
         bb) Gefreiter,
-
 
         cc) Obergefreiter,
 
-
         dd) Fahnenjunker, Seekadett,
-
 
         ee) Fähnrich, Fähnrich zur See,
 
-
         ff) Oberfähnrich, Oberfähnrich zur See,
-
 
         gg) Leutnant, Leutnant zur See,
 
-
         hh) Oberleutnant, Oberleutnant zur See,
-
 
         ii) Hauptmann, Kapitänleutnant,
 
-
         jj) Major, Korvettenkapitän,
-
 
         kk) Oberstleutnant, Fregattenkapitän,
 
-
         ll) Oberst, Kapitän zur See,
-
 
         mm) Brigadegeneral, Flottillenadmiral,
 
-
         nn) Generalmajor, Konteradmiral,
-
 
         oo) Generalleutnant, Vizeadmiral
 
-
         pp) General, Admiral.
-
-
-
-
 
     b)  Zur Laufbahn der Offizierinnen und Offiziere der Reserve des
         Truppendienstes gehören die folgenden Dienstgrade:
@@ -2672,187 +2214,123 @@ Inkrafttreten dieser Verordnung geltenden Fassung weiter anzuwenden.
             Panzergrenadier, Panzerjäger, Panzerkanonier, Panzerpionier,
             Panzerschütze, Pionier, Schütze,
 
-
         bb) Gefreiter,
-
 
         cc) Obergefreiter,
 
-
         dd) Fahnenjunker, Seekadett,
-
 
         ee) Fähnrich, Fähnrich zur See,
 
+        ff) Oberfähnrich, Oberfähnrich zur See,
 
-        ff) Leutnant, Leutnant zur See,
+        gg) Leutnant, Leutnant zur See,
 
+        hh) Oberleutnant, Oberleutnant zur See,
 
-        gg) Oberleutnant, Oberleutnant zur See,
+        ii) Hauptmann, Kapitänleutnant,
 
+        jj) Major, Korvettenkapitän,
 
-        hh) Hauptmann, Kapitänleutnant,
+        kk) Oberstleutnant, Fregattenkapitän,
 
+        ll) Oberst, Kapitän zur See,
 
-        ii) Major, Korvettenkapitän,
+        mm) Brigadegeneral, Flottillenadmiral,
 
+        nn) Generalmajor, Konteradmiral,
 
-        jj) Oberstleutnant, Fregattenkapitän,
+        oo) Generalleutnant, Vizeadmiral,
 
-
-        kk) Oberst, Kapitän zur See,
-
-
-        ll) Brigadegeneral, Flottillenadmiral,
-
-
-        mm) Generalmajor, Konteradmiral,
-
-
-        nn) Generalleutnant, Vizeadmiral,
-
-
-        oo) General, Admiral.
-
-
-
-
+        pp) General, Admiral.
 
     c)  Zur Laufbahn der Offizierinnen und Offiziere des Sanitätsdienstes
         gehören die folgenden Dienstgrade:
 
         aa) Flieger, Matrose, Sanitätssoldat,
 
-
         bb) Gefreiter,
-
 
         cc) Obergefreiter,
 
-
         dd) Fahnenjunker, Seekadett,
-
 
         ee) Fähnrich, Fähnrich zur See,
 
-
         ff) Oberfähnrich, Oberfähnrich zur See,
-
 
         gg) Leutnant, Leutnant zur See,
 
-
         hh) Stabsarzt, Stabsapotheker, Stabsveterinär,
 
-
         ii) Oberstabsarzt, Oberstabsapotheker, Oberstabsveterinär,
-
 
         jj) Oberfeldarzt, Flottillenarzt, Oberfeldapotheker, Flottillenapotheker,
             Oberfeldveterinär,
 
-
         kk) Oberstarzt, Flottenarzt, Oberstapotheker, Flottenapotheker,
             Oberstveterinär,
 
-
         ll) Generalarzt, Admiralarzt, Generalapotheker,
-
 
         mm) Generalstabsarzt, Admiralstabsarzt,
 
-
         nn) Generaloberstabsarzt, Admiraloberstabsarzt.
-
-
-
-
 
     d)  Zur Laufbahn der Offizierinnen und Offiziere der Reserve des
         Sanitätsdienstes gehören die folgenden Dienstgrade:
 
         aa) Stabsarzt, Stabsapotheker, Stabsveterinär,
 
-
         bb) Oberstabsarzt, Oberstabsapotheker, Oberstabsveterinär,
-
 
         cc) Oberfeldarzt, Flottillenarzt, Oberfeldapotheker, Flottillenapotheker,
             Oberfeldveterinär,
 
-
         dd) Oberstarzt, Flottenarzt, Oberstapotheker, Flottenapotheker,
             Oberstveterinär,
 
-
         ee) Generalarzt, Admiralarzt, Generalapotheker,
-
 
         ff) Generalstabsarzt, Admiralstabsarzt,
 
-
         gg) Generaloberstabsarzt, Admiraloberstabsarzt.
-
-
-
-
 
     e)  Zur Laufbahn der Offizierinnen und Offiziere des Militärmusikdienstes
         gehören die folgenden Dienstgrade:
 
         aa) Flieger, Matrose, Schütze,
 
-
         bb) Gefreiter,
-
 
         cc) Obergefreiter,
 
-
         dd) Fahnenjunker, Seekadett,
-
 
         ee) Fähnrich, Fähnrich zur See,
 
-
         ff) Oberfähnrich, Oberfähnrich zur See,
-
 
         gg) Leutnant, Leutnant zur See,
 
-
         hh) Hauptmann, Kapitänleutnant,
-
 
         ii) Major, Korvettenkapitän,
 
-
         jj) Oberstleutnant, Fregattenkapitän,
 
-
         kk) Oberst, Kapitän zur See.
-
-
-
-
 
     f)  Zur Laufbahn der Offizierinnen und Offiziere der Reserve des
         Militärmusikdienstes gehören die folgenden Dienstgrade:
 
         aa) Hauptmann, Kapitänleutnant,
 
-
         bb) Major, Korvettenkapitän,
-
 
         cc) Oberstleutnant, Fregattenkapitän,
 
-
         dd) Oberst, Kapitän zur See.
-
-
-
-
 
     g)  Zur Laufbahn der Offizierinnen und Offiziere des
         Geoinformationsdienstes der Bundeswehr gehören die folgenden
@@ -2860,45 +2338,29 @@ Inkrafttreten dieser Verordnung geltenden Fassung weiter anzuwenden.
 
         aa) Flieger, Matrose, Schütze,
 
-
         bb) Gefreiter,
-
 
         cc) Obergefreiter,
 
-
         dd) Fahnenjunker, Seekadett,
-
 
         ee) Fähnrich, Fähnrich zur See,
 
-
         ff) Oberfähnrich, Oberfähnrich zur See,
-
 
         gg) Leutnant, Leutnant zur See,
 
-
         hh) Oberleutnant, Oberleutnant zur See,
-
 
         ii) Hauptmann, Kapitänleutnant,
 
-
         jj) Major, Korvettenkapitän,
-
 
         kk) Oberstleutnant, Fregattenkapitän,
 
-
         ll) Oberst, Kapitän zur See,
 
-
         mm) Brigadegeneral, Flottillenadmiral.
-
-
-
-
 
     h)  Zur Laufbahn der Offizierinnen und Offiziere der Reserve des
         Geoinformationsdienstes der Bundeswehr gehören die folgenden
@@ -2906,24 +2368,15 @@ Inkrafttreten dieser Verordnung geltenden Fassung weiter anzuwenden.
 
         aa) Oberleutnant, Oberleutnant zur See,
 
-
         bb) Hauptmann, Kapitänleutnant,
-
 
         cc) Major, Korvettenkapitän,
 
-
         dd) Oberstleutnant, Fregattenkapitän,
-
 
         ee) Oberst, Kapitän zur See,
 
-
         ff) Brigadegeneral, Flottillenadmiral.
-
-
-
-
 
     i)  Zur Laufbahn der Offizierinnen und Offiziere des militärfachlichen
         Dienstes gehören die folgenden Dienstgrade:
@@ -2932,36 +2385,23 @@ Inkrafttreten dieser Verordnung geltenden Fassung weiter anzuwenden.
             Panzergrenadier, Panzerjäger, Panzerkanonier, Panzerpionier,
             Panzerschütze, Pionier, Sanitätssoldat, Schütze,
 
-
         bb) Gefreiter,
-
 
         cc) Obergefreiter,
 
-
         dd) Fahnenjunker, Seekadett,
-
 
         ee) Fähnrich, Fähnrich zur See,
 
-
         ff) Oberfähnrich, Oberfähnrich zur See,
-
 
         gg) Leutnant, Leutnant zur See,
 
-
         hh) Oberleutnant, Oberleutnant zur See,
-
 
         ii) Hauptmann, Kapitänleutnant,
 
-
         jj) Stabshauptmann, Stabskapitänleutnant.
-
-
-
-
 
     j)  Zur Laufbahn der Offizierinnen und Offiziere der Reserve des
         militärfachlichen Dienstes gehören die folgenden Dienstgrade:
@@ -2970,41 +2410,23 @@ Inkrafttreten dieser Verordnung geltenden Fassung weiter anzuwenden.
             Panzergrenadier, Panzerjäger, Panzerkanonier, Panzerpionier,
             Panzerschütze, Pionier, Sanitätssoldat, Schütze,
 
-
         bb) Gefreiter,
-
 
         cc) Obergefreiter,
 
-
         dd) Fahnenjunker, Seekadett,
-
 
         ee) Fähnrich, Fähnrich zur See,
 
-
         ff) Leutnant, Leutnant zur See,
-
 
         gg) Oberleutnant, Oberleutnant zur See,
 
-
         hh) Hauptmann, Kapitänleutnant,
 
-
         ii) Stabshauptmann, Stabskapitänleutnant.
-
-
-
-
-
-
-
 
 4.  Daneben sind den Laufbahnen die Dienstgrade zugeordnet, die die
     Soldatinnen und Soldaten vor einem Laufbahnaufstieg führen und die
     keinem Anwärterdienstgrad entsprechen.
-
-
-
 

@@ -16,7 +16,6 @@ Fundstelle
 :   BAnz: 1950, Nr 3
 
 
-
 ## Eingangsformel
 
 Auf Grund des § 9 Abs. 1 der 33. Durchführungsverordnung zum
@@ -28,8 +27,8 @@ angeordnet:
 ## § 1 Fristen und Termine
 
 (1) Bei der Berechnung von Fristen und Terminen, die den
-bauspartechnischen Ablauf des Bausparvertrages betreffen, wird die vor
-dem 21. Juni 1948 zurückgelegte Wartezeit in demselben Verhältnis
+bauspartechnischen Ablauf des Bausparvertrages betreffen, wird die
+vor dem 21. Juni 1948 zurückgelegte Wartezeit in demselben Verhältnis
 gekürzt, wie die Bausparguthaben herabgesetzt werden. Der Beginn der
 Wartezeit gilt als entsprechend hinausgeschoben.
 
@@ -41,8 +40,8 @@ angerechnet.
 ## § 2 Bewertung der Bausparguthaben
 
 (1) Die Bewertungsziffer der bis zum 20. Juni 1948 geleisteten
-Zahlungen wird auf 10 vom Hundert herabgesetzt. Vom 21. Juni 1948 ab
-wird der Zuwachs der Bewertungsziffern nach den vertraglichen
+Zahlungen wird auf 10 vom Hundert herabgesetzt. Vom 21. Juni 1948
+ab wird der Zuwachs der Bewertungsziffern nach den vertraglichen
 Bausparbedingungen errechnet.
 
 (2) Die Reihenfolge nach dem Listensystem bleibt unberührt.
@@ -50,12 +49,12 @@ Bausparbedingungen errechnet.
 
 ## § 3 Festsetzung der Bausparsumme und der Bewertungsziffer bei Widerspruch
 
-(1) Macht der Bausparer von seinem Widerspruchsrecht gemäß § 1 Satz 3
-BKVO Gebrauch, so ist die neue Bausparsumme gleich dem für die Zeit
-vom 21. Juni 1948 bis zum Ablauf des Bausparvertrages aufgezinsten,
-auf Deutsche Mark umgestellten Bausparguthaben zuzüglich der
-aufgezinsten Summe sämtlicher nach dem 20. Juni 1948 bei
-Berücksichtigung der längsten Wartezeit noch zu leistenden
+(1) Macht der Bausparer von seinem Widerspruchsrecht gemäß § 1
+Satz 3 BKVO Gebrauch, so ist die neue Bausparsumme gleich dem für
+die Zeit vom 21. Juni 1948 bis zum Ablauf des Bausparvertrages
+aufgezinsten, auf Deutsche Mark umgestellten Bausparguthaben
+zuzüglich der aufgezinsten Summe sämtlicher nach dem 20. Juni 1948
+bei Berücksichtigung der längsten Wartezeit noch zu leistenden
 Bausparbeiträge. Die Bausparsumme ist auf volle hundert DM
 aufzurunden.
 
@@ -88,8 +87,8 @@ der Herabsetzung behandelt.
 
 ## § 6 Schlußbestimmungen
 
-(1) Bei Verträgen der öffentlich-rechtlichen Bausparkassen und bei
-Vollfinanzierungsverträgen der privaten Bausparkassen gilt die
+(1) Bei Verträgen der öffentlich-rechtlichen Bausparkassen und
+bei Vollfinanzierungsverträgen der privaten Bausparkassen gilt die
 Vertragssumme als Bausparsumme.
 
 (2) Die Bestimmungen dieser Anordnung gelten sinngemäß für

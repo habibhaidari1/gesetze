@@ -39,32 +39,24 @@ Frauen und Männern in Deutschland.
     und Fakten zum Themenbereich Gleichstellung sowie durch Beauftragung
     von Studien im Bedarfsfall,
 
-
 2.  Begleitung und Unterstützung des bundesweiten öffentlichen Diskurses
     zu gleichstellungspolitischen Themen,
 
-
-3.  Stärkung der praktischen Gleichstellungsarbeit, insbesondere durch
-    Beratung von Verwaltung, Zivilgesellschaft, Wissenschaft und
-    Wirtschaft bei der Entwicklung von Lösungsansätzen und deren
+3.  Stärkung der praktischen Gleichstellungsarbeit, insbesondere
+    durch Beratung von Verwaltung, Zivilgesellschaft, Wissenschaft
+    und Wirtschaft bei der Entwicklung von Lösungsansätzen und deren
     Umsetzung,
-
 
 4.  Entwicklung und Erprobung von innovativen Maßnahmen zur Verwirklichung
     von Gleichstellung, gegebenenfalls einschließlich zugehöriger
     Fördermaßnahmen,
 
-
 5.  Vernetzung von Bund, Ländern, Kommunen, Zivilgesellschaft,
     Wissenschaft und Wirtschaft,
-
 
 6.  Unterstützung gleichstellungspolitischer Initiativen, insbesondere,
     indem die Stiftung als Vernetzungsplattform der Zivilgesellschaft im
     Sinne eines offenen Hauses für Gleichstellung fungiert.
-
-
-
 
 (2) Bei der Erfüllung des Stiftungszwecks berücksichtigt die Stiftung
 bestehende Bundesgesetze sowie bestehende Programme und Projekte.
@@ -94,8 +86,8 @@ Einnahmen sind nur zur Erfüllung des Stiftungszwecks zu verwenden.
 
 (1) Organe der Stiftung sind der Stiftungsrat und das Direktorium.
 
-(2) Bei den Mitgliedern des Stiftungsrates nach § 6 Absatz 1 Nummer 1
-wird eine paritätische Besetzung von Frauen und Männern angestrebt.
+(2) Bei den Mitgliedern des Stiftungsrates nach § 6 Absatz 1 Nummer
+1 wird eine paritätische Besetzung von Frauen und Männern angestrebt.
 Das Direktorium nach § 7 ist mit zwei Personen unterschiedlichen
 Geschlechts, darunter eine Frau, zu besetzen.
 
@@ -115,12 +107,8 @@ vorsätzlich oder grob fahrlässig verursacht haben.
 
 1.  zehn bestellten Mitgliedern, die dem Deutschen Bundestag angehören und
 
-
 2.  der Bundesministerin oder dem Bundesminister für Familie, Senioren,
     Frauen und Jugend als Vorsitzender oder Vorsitzendem.
-
-
-
 
 (2) Der Stiftungsrat überwacht die Geschäftsführung durch das
 Direktorium und entscheidet in allen Angelegenheiten, die für die
@@ -130,72 +118,62 @@ besonderer Bedeutung gehören insbesondere:
 
 1.  die Bestellung und die Abberufung des Direktoriums,
 
-
 2.  das Arbeitsprogramm der Stiftung,
-
 
 3.  die Beschlussfassung über die Satzung der Stiftung und über
     Satzungsänderungen,
 
-
 4.  die Genehmigung des jährlichen Haushalts- und Stellenplans der
     Stiftung,
 
-
 5.  die Genehmigung des Geschäftsverteilungsplans der Stiftung,
-
 
 6.  die Feststellung des Jahresabschlusses der Stiftung und die Entlastung
     des Direktoriums,
 
-
 7.  die Zustimmung zur Einleitung von Rechtsstreitigkeiten oder zum
     Abschluss von Vergleichen sowie
-
 
 8.  die Annahme und Verwendung von Zuwendungen und Spenden oder Entgelten
     Dritter.
 
-
-
-
 (3) Die Mitglieder des Stiftungsrates aus dem Deutschen Bundestag
 werden nach dem Verhältnis der Fraktionsstärken vom Deutschen
 Bundestag gewählt. Für jedes Mitglied wird nach dem Verfahren nach
-Satz 1 auch ein stellvertretendes Mitglied gewählt. Die Mitglieder und
-die Stellvertretungen werden vom Deutschen Bundestag gegenüber dem
-Bundesministerium für Familie, Senioren, Frauen und Jugend benannt.
-Wahl und Benennung müssen innerhalb einer angemessenen Frist erfolgt
-sein. Wird ein Mitglied aus dem Deutschen Bundestag nicht fristgerecht
-benannt, so konstituiert sich der Stiftungsrat nur mit den
-fristgerecht benannten Mitgliedern. Die oder der Vorsitzende des
-Stiftungsrates bestellt die benannten Mitglieder für die Dauer der
-jeweiligen Legislaturperiode. Mit Ausscheiden aus dem Deutschen
-Bundestag endet gleichzeitig die Mitgliedschaft oder Stellvertretung
-im Stiftungsrat. In diesem Fall wird für den Rest der
+Satz 1 auch ein stellvertretendes Mitglied gewählt. Die Mitglieder
+und die Stellvertretungen werden vom Deutschen Bundestag gegenüber
+dem Bundesministerium für Familie, Senioren, Frauen und Jugend
+benannt. Wahl und Benennung müssen innerhalb einer angemessenen
+Frist erfolgt sein. Wird ein Mitglied aus dem Deutschen Bundestag
+nicht fristgerecht benannt, so konstituiert sich der Stiftungsrat
+nur mit den fristgerecht benannten Mitgliedern. Die oder der
+Vorsitzende des Stiftungsrates bestellt die benannten Mitglieder
+für die Dauer der jeweiligen Legislaturperiode. Mit Ausscheiden aus
+dem Deutschen Bundestag endet gleichzeitig die Mitgliedschaft oder
+Stellvertretung im Stiftungsrat. In diesem Fall wird für den Rest der
 Legislaturperiode eine Nachfolge durch den Deutschen Bundestag gewählt
 und gegenüber dem Bundesministerium für Familie, Senioren, Frauen und
 Jugend benannt.
 
-(4) Der Stiftungsrat fasst seine Beschlüsse in der Regel in Sitzungen.
-Er ist beschlussfähig, wenn mehr als die Hälfte der Mitglieder
-teilnehmen oder vertreten sind. Ein stellvertretendes Mitglied kann
-nur an der Sitzung teilnehmen, wenn das Mitglied, als dessen
-Stellvertretung es bestellt wurde, nicht an der Sitzung teilnimmt. In
-der Regel erfolgt die Stiftungsratssitzung als Sitzung unter
-Anwesenden. Ist eine Teilnahme unter Anwesenden aus wichtigem Grund
-nicht möglich, ist die Teilnahme über Video- oder Telefontechnik der
-physischen Teilnahme gleichgestellt. Auf Anordnung der oder des
-Vorsitzenden des Stiftungsrates können Beschlüsse im schriftlichen
-Umlaufverfahren oder im Umlaufverfahren per E-Mail gefasst werden,
-sofern kein Stiftungsratsmitglied widerspricht. Im Umlaufverfahren ist
-der Stiftungsrat beschlussfähig, wenn sich mindestens die Hälfte der
-Stiftungsratsmitglieder an der Abstimmung beteiligt. Die Beschlüsse
-des Stiftungsrates werden mit einfacher Mehrheit der abgegebenen
-gültigen Stimmen gefasst, soweit in diesem Gesetz nichts anderes
-geregelt ist. Die oder der Vorsitzende des Stiftungsrates hat bei
-Änderungen der Satzung sowie bei Haushalts- und
-Personalangelegenheiten ein Vetorecht. Die Inanspruchnahme des
+(4) Der Stiftungsrat fasst seine Beschlüsse in der Regel in
+Sitzungen. Er ist beschlussfähig, wenn mehr als die Hälfte der
+Mitglieder teilnehmen oder vertreten sind. Ein stellvertretendes
+Mitglied kann nur an der Sitzung teilnehmen, wenn das Mitglied,
+als dessen Stellvertretung es bestellt wurde, nicht an der Sitzung
+teilnimmt. In der Regel erfolgt die Stiftungsratssitzung als
+Sitzung unter Anwesenden. Ist eine Teilnahme unter Anwesenden aus
+wichtigem Grund nicht möglich, ist die Teilnahme über Video- oder
+Telefontechnik der physischen Teilnahme gleichgestellt. Auf Anordnung
+der oder des Vorsitzenden des Stiftungsrates können Beschlüsse im
+schriftlichen Umlaufverfahren oder im Umlaufverfahren per E-Mail
+gefasst werden, sofern kein Stiftungsratsmitglied widerspricht.
+Im Umlaufverfahren ist der Stiftungsrat beschlussfähig, wenn sich
+mindestens die Hälfte der Stiftungsratsmitglieder an der Abstimmung
+beteiligt. Die Beschlüsse des Stiftungsrates werden mit einfacher
+Mehrheit der abgegebenen gültigen Stimmen gefasst, soweit in diesem
+Gesetz nichts anderes geregelt ist. Die oder der Vorsitzende des
+Stiftungsrates hat bei Änderungen der Satzung sowie bei Haushalts-
+und Personalangelegenheiten ein Vetorecht. Die Inanspruchnahme des
 Vetorechtes ist zu begründen.
 
 (5) Die Bundesministerin oder der Bundesminister für Familie,
@@ -204,9 +182,9 @@ Stiftungsrates zeitnah nach dem Inkrafttreten des Gesetzes ein.
 
 (6) Die Mitglieder und die stellvertretenden Mitglieder des
 Stiftungsrates sind für die Stiftung ehrenamtlich tätig. Sie haben
-Anspruch auf Erstattung der notwendigen Auslagen und Aufwendungen, die
-ihnen durch ihre Tätigkeit als Mitglied des Stiftungsrates entstanden
-sind. Für die Erstattung gelten die für die unmittelbare
+Anspruch auf Erstattung der notwendigen Auslagen und Aufwendungen,
+die ihnen durch ihre Tätigkeit als Mitglied des Stiftungsrates
+entstanden sind. Für die Erstattung gelten die für die unmittelbare
 Bundesverwaltung geltenden Bestimmungen entsprechend.
 
 
@@ -221,11 +199,11 @@ Direktorium vertritt die Stiftung gerichtlich und außergerichtlich.
 Jedes Mitglied des Direktoriums ist einzeln zur Vertretung der
 Stiftung berechtigt.
 
-(3) Die Mitglieder des Direktoriums werden durch den Stiftungsrat auf
-Vorschlag des Bundesministeriums für Familie, Senioren, Frauen und
-Jugend für die Dauer von fünf Jahren bestellt. Wiederbestellungen sind
-möglich. Jedes Direktoriumsmitglied kann aus wichtigem Grund abberufen
-werden. Für die Abberufung bedarf es eines Beschlusses des
+(3) Die Mitglieder des Direktoriums werden durch den Stiftungsrat
+auf Vorschlag des Bundesministeriums für Familie, Senioren, Frauen
+und Jugend für die Dauer von fünf Jahren bestellt. Wiederbestellungen
+sind möglich. Jedes Direktoriumsmitglied kann aus wichtigem Grund
+abberufen werden. Für die Abberufung bedarf es eines Beschlusses des
 Stiftungsrates mit mehr als zwei Dritteln der Stimmen der Mitglieder
 des Stiftungsrates. Dem von der Abberufung betroffenen Mitglied des
 Direktoriums ist zuvor Gelegenheit zur Stellungnahme zu geben.
@@ -238,50 +216,42 @@ beteiligt:
 
 1.  ein ständiger Stiftungsbeirat und
 
-
 2.  ein Fachbeirat oder mehrere Fachbeiräte.
-
-
 
 Bei den Mitgliedern der Gremien wird jeweils eine paritätische
 Besetzung von Frauen und Männern angestrebt.
 
 (2) Die Mitglieder der Gremien sind ehrenamtlich tätig. Sie haben
-Anspruch auf Erstattung der notwendigen Auslagen und Aufwendungen, die
-ihnen durch ihre Tätigkeit als Mitglied des Stiftungsbeirates oder
-eines Fachbeirates entstanden sind entsprechend der für die
+Anspruch auf Erstattung der notwendigen Auslagen und Aufwendungen,
+die ihnen durch ihre Tätigkeit als Mitglied des Stiftungsbeirates
+oder eines Fachbeirates entstanden sind entsprechend der für die
 unmittelbare Bundesverwaltung geltenden Bestimmungen. Für die
 Mitglieder der Gremien ist § 5 Absatz 3 entsprechend anzuwenden.
 
 
 ## § 9 Stiftungsbeirat
 
-(1) Der Stiftungsrat beruft den ständigen Stiftungsbeirat. Aufgabe des
-Stiftungsbeirates ist die Beratung des Stiftungsrates und des
+(1) Der Stiftungsrat beruft den ständigen Stiftungsbeirat. Aufgabe
+des Stiftungsbeirates ist die Beratung des Stiftungsrates und des
 Direktoriums bei der inhaltlichen Arbeitsplanung der Stiftung und bei
 der Qualitätssicherung der Stiftungsarbeit.
 
 (2) Der Stiftungsbeirat besteht aus
 
-1.  einer Vertreterin oder einem Vertreter der Länder, die oder der von
-    der Konferenz der Gleichstellungs- und Frauenministerinnen und
+1.  einer Vertreterin oder einem Vertreter der Länder, die oder der
+    von der Konferenz der Gleichstellungs- und Frauenministerinnen und
     -minister, -senatorinnen und -senatoren der Länder benannt wird,
-
 
 2.  einer Vertreterin oder einem Vertreter der Kommunen, die oder der
     durch die Bundesvereinigung der kommunalen Spitzenverbände benannt
     wird,
 
-
 3.  vier Vertreterinnen oder Vertretern aus dem Bereich der
     Zivilgesellschaft oder einem Verband, die vom Bundesministerium für
     Familie, Senioren, Frauen und Jugend vorgeschlagen werden und
 
-
 4.  vier Mitgliedern, die dem wissenschaftlichen Bereich entstammen und
     durch das Direktorium vorgeschlagen werden.
-
-
 
 Für die Mitglieder im Stiftungsbeirat nach Satz 1 Nummer 1 und 2 sind
 ebenfalls Stellvertretungen zu benennen; für die Mitglieder nach Satz
@@ -294,12 +264,8 @@ berufen und darf wiederberufen werden.
 
 1.  eine Vorsitzende oder einen Vorsitzenden und
 
-
 2.  eine stellvertretende Vorsitzende oder einen stellvertretenden
     Vorsitzenden.
-
-
-
 
 (5) Der Stiftungsbeirat erhält zur ordnungsgemäßen Ausübung seiner
 Aufgaben alle erforderlichen Unterlagen, einschließlich der Beschlüsse
@@ -331,12 +297,8 @@ höchstens fünf sachverständigen Mitgliedern.
 
 1.  eine Vorsitzende oder einen Vorsitzenden und
 
-
 2.  eine stellvertretende Vorsitzende oder einen stellvertretenden
     Vorsitzenden.
-
-
-
 
 
 ## § 11 Satzung
@@ -353,17 +315,11 @@ eine Satzung nach Absatz 1 Satz 1 beschließt.
 
 1.  zum Stiftungsrat,
 
-
 2.  zum Direktorium,
-
 
 3.  zum Stiftungsbeirat,
 
-
 4.  zum Fachbeirat.
-
-
-
 
 
 ## § 12 Beschäftigte
@@ -385,8 +341,8 @@ Bundesverwaltung geltenden Bestimmungen einschließlich der
 Verwaltungsvorschriften zur Bundeshaushaltsordnung.
 
 (2) Die Stiftung hat rechtzeitig vor Beginn eines jeden
-Geschäftsjahres einen Haushaltsplan aufzustellen. Der Haushaltsplan
-bedarf der Genehmigung des Stiftungsrates. § 108 der
+Geschäftsjahres einen Haushaltsplan aufzustellen. Der
+Haushaltsplan bedarf der Genehmigung des Stiftungsrates. § 108 der
 Bundeshaushaltsordnung bleibt unberührt.
 
 (3) Die Haushalts- und die Wirtschaftsführung der Stiftung unterliegen
@@ -411,9 +367,9 @@ Die Stiftung legt dem Deutschen Bundestag über das Bundesministerium
 für Familie, Senioren, Frauen und Jugend in jeder Legislaturperiode
 einen Arbeitsbericht auf Grundlage der verfügbaren Daten vor. Das
 Bundesministerium für Familie, Senioren, Frauen und Jugend koordiniert
-die Stellungnahme der Bundesregierung zum Arbeitsbericht, welche mit
-dem Arbeitsbericht der Stiftung an den Deutschen Bundestag übersandt
-wird. Der erste Arbeitsbericht sowie die Stellungnahme der
+die Stellungnahme der Bundesregierung zum Arbeitsbericht, welche
+mit dem Arbeitsbericht der Stiftung an den Deutschen Bundestag
+übersandt wird. Der erste Arbeitsbericht sowie die Stellungnahme der
 Bundesregierung sollen zwei Jahre nach Inkrafttreten dieses Gesetzes
 vorgelegt werden.
 

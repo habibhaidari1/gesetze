@@ -1,7 +1,5 @@
 ---
-Title: Gesetz zur Beibehaltung der Mitbestimmung beim Austausch von Anteilen und der
-  Einbringung von Unternehmensteilen, die Gesellschaften verschiedener Mitgliedstaaten
-  der Europäischen Union betreffen
+Title: Gesetz zur Beibehaltung der Mitbestimmung beim Austausch von Anteilen und der Einbringung von Unternehmensteilen, die Gesellschaften verschiedener Mitgliedstaaten der Europäischen Union betreffen
 jurabk: MitbestBeiG
 layout: default
 origslug: mitbestbeig
@@ -44,8 +42,8 @@ ist.
 seine Stelle tretenden Anteile steuerrechtlich mit dem tatsächlichen
 Wert des eingebrachten Betriebsvermögens angesetzt werden.
 
-(2) § 1 gilt ferner nicht, wenn die im Zeitpunkt des Vorgangs auf das
-Unternehmen angewandten Vorschriften über die Vertretung der
+(2) § 1 gilt ferner nicht, wenn die im Zeitpunkt des Vorgangs auf
+das Unternehmen angewandten Vorschriften über die Vertretung der
 Arbeitnehmer in dessen Organen eines Mindestzahl von Arbeitnehmern
 dieses Unternehmens voraussetzen und die nach diesen Vorschriften
 berechnete Zahl der Arbeitnehmer des Unternehmens auf weniger als in
@@ -54,9 +52,9 @@ der Regel ein Viertel dieser Mindestzahl sinkt.
 
 ## § 3
 
-Soweit nach § 1 die Konzernzugehörigkeit eines Unternehmens oder die
-Unternehmenszugehörigkeit eines Betriebs oder Teilbetriebs fingiert
-wird, sind die im Zeitpunkt des Vorgangs in dem betreffenden
+Soweit nach § 1 die Konzernzugehörigkeit eines Unternehmens oder
+die Unternehmenszugehörigkeit eines Betriebs oder Teilbetriebs
+fingiert wird, sind die im Zeitpunkt des Vorgangs in dem betreffenden
 Unternehmen, Betrieb oder Teilbetrieb bestehenden tatsächlichen
 Verhältnisse maßgebend.
 
@@ -64,8 +62,8 @@ Verhältnisse maßgebend.
 ## § 4
 
 Dieses Gesetz tritt am Tage nach der Verkündung in Kraft. § 1 in der
-Fassung des Artikels 11 des Gesetzes vom 7. Dezember 2006 (BGBl. I S.
-2782) ist erstmals auf die dort bezeichneten Vorgänge anzuwenden, auf
-die das Umwandlungssteuergesetz in der Fassung des Artikels 6 des
+Fassung des Artikels 11 des Gesetzes vom 7. Dezember 2006 (BGBl. I
+S. 2782) ist erstmals auf die dort bezeichneten Vorgänge anzuwenden,
+auf die das Umwandlungssteuergesetz in der Fassung des Artikels 6 des
 Gesetzes vom 7. Dezember 2006 (BGBl. I S. 2782) anzuwenden ist.
 

@@ -1,6 +1,5 @@
 ---
-Title: Verordnung zur weiteren Verlängerung der zulässigen Befristungsdauer nach §
-  2 Absatz 1 des Wissenschaftszeitvertragsgesetzes aus Anlass der COVID-19-Pandemie
+Title: Verordnung zur weiteren Verlängerung der zulässigen Befristungsdauer nach § 2 Absatz 1 des Wissenschaftszeitvertragsgesetzes aus Anlass der COVID-19-Pandemie
 jurabk: WissBdVV
 layout: default
 origslug: wissbdvv
@@ -19,19 +18,19 @@ Fundstelle
 
 ## Eingangsformel
 
-Auf Grund des § 7 Absatz 3 des Wissenschaftszeitvertragsgesetzes, der
-durch Artikel 1 Nummer 2 des Gesetzes vom 25. Mai 2020 (BGBl. I S.
-1073) eingefügt worden ist, verordnet das Bundesministerium für
+Auf Grund des § 7 Absatz 3 des Wissenschaftszeitvertragsgesetzes,
+der durch Artikel 1 Nummer 2 des Gesetzes vom 25. Mai 2020 (BGBl. I
+S. 1073) eingefügt worden ist, verordnet das Bundesministerium für
 Bildung und Forschung:
 
 
 ## § 1 Verlängerung der zulässigen Befristungsdauer nach § 2 Absatz 1 des Wissenschaftszeitvertragsgesetzes aus Anlass der COVID-19-Pandemie
 
 Die nach § 2 Absatz 1 Satz 1 und 2 des
-Wissenschaftszeitvertragsgesetzes vom 12. April 2007 (BGBl. I S. 506),
-das zuletzt durch Artikel 1 des Gesetzes vom 25. Mai 2020 (BGBl. I S.
-1073) geändert worden ist, insgesamt zulässige Befristungsdauer
-verlängert sich über die in § 7 Absatz 3 Satz 1 des
+Wissenschaftszeitvertragsgesetzes vom 12. April 2007 (BGBl. I
+S. 506), das zuletzt durch Artikel 1 des Gesetzes vom 25. Mai
+2020 (BGBl. I S. 1073) geändert worden ist, insgesamt zulässige
+Befristungsdauer verlängert sich über die in § 7 Absatz 3 Satz 1 des
 Wissenschaftszeitvertragsgesetzes genannte Verlängerung hinaus um
 weitere sechs Monate. Für Arbeitsverhältnisse nach § 2 Absatz 1 des
 Wissenschaftszeitvertragsgesetzes, die zwischen dem 1. Oktober 2020

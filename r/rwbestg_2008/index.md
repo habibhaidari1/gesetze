@@ -43,8 +43,8 @@ Landwirte beträgt ab dem 1. Juli 2008 10,78 Euro.
 ## § 4 Anpassungsfaktor in der Unfallversicherung
 
 (1) Der Anpassungsfaktor für die zum 1. Juli 2008 anzupassenden
-Geldleistungen der gesetzlichen Unfallversicherung im Sinne des § 44
-Abs. 4 und des § 95 des Siebten Buches Sozialgesetzbuch beträgt
+Geldleistungen der gesetzlichen Unfallversicherung im Sinne des §
+44 Abs. 4 und des § 95 des Siebten Buches Sozialgesetzbuch beträgt
 1,0110.
 
 (2) Die vom Jahresarbeitsverdienst abhängigen Geldleistungen und das
@@ -63,10 +63,6 @@ Juli 2008
     Sozialgesetzbuch anzuwenden ist, zwischen 300 Euro und 1.199 Euro
     monatlich,
 
-
 2.  für Versicherungsfälle, auf die § 215 Abs. 5 des Siebten Buches
     Sozialgesetzbuch anzuwenden ist, zwischen 260 Euro und 1.040 Euro.
-
-
-
 

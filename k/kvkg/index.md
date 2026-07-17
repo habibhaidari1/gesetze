@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zur Dämpfung der Ausgabenentwicklung und zur Strukturverbesserung in
-  der gesetzlichen Krankenversicherung
+Title: Gesetz zur Dämpfung der Ausgabenentwicklung und zur Strukturverbesserung in der gesetzlichen Krankenversicherung
 jurabk: KVKG
 layout: default
 origslug: kvkg
@@ -29,24 +28,20 @@ beschlossen:
 ## Art 1
 
 
-
-## (XXXX) §§ 1 bis 4
-
+### (XXXX) §§ 1 bis 4
 
 
-## § 5 (weggefallen)
-
+### § 5 (weggefallen)
 
 
 ## Art 2 - Übergangs- und Schlußvorschriften
 
 
+### § 1
 
-## § 1
-
-(1) Wer wegen des Inkrafttretens dieses Gesetzes nicht mehr nach § 165
-Abs. 1 Nr. 3 der Reichsversicherungsordnung versichert ist oder wer
-bis zum 30. Juni 1978 eine Rente aus der gesetzlichen
+(1) Wer wegen des Inkrafttretens dieses Gesetzes nicht mehr nach
+§ 165 Abs. 1 Nr. 3 der Reichsversicherungsordnung versichert ist
+oder wer bis zum 30. Juni 1978 eine Rente aus der gesetzlichen
 Rentenversicherung beantragt, gilt als versichert nach § 165 Abs. 1
 Nr. 3 der Reichsversicherungsordnung, solange er eine Rente aus der
 allgemeinen Rentenversicherung bezieht.
@@ -60,7 +55,7 @@ nach dem vor dem Inkrafttreten dieses Gesetzes geltenden Recht
 erfüllt.
 
 
-## § 2
+### § 2
 
 Personen, die bis zum 30. Juni 1978 eine Rente aus der gesetzlichen
 Rentenversicherung beantragen, gelten bis zu dem in § 315a Abs. 2 Satz
@@ -70,11 +65,11 @@ des § 315a Abs. 1 der Reichsversicherungsordnung nicht mehr erfüllen.
 § 315b der Reichsversicherungsordnung gilt entsprechend.
 
 
-## § 3
+### § 3
 
-(1) Personen, die vor dem Inkrafttreten dieses Gesetzes eine Rente aus
-der gesetzlichen Rentenversicherung beantragt haben, können erklären,
-daß die Mitgliedschaft nach § 306 Abs. 2 oder § 315a der
+(1) Personen, die vor dem Inkrafttreten dieses Gesetzes eine Rente
+aus der gesetzlichen Rentenversicherung beantragt haben, können
+erklären, daß die Mitgliedschaft nach § 306 Abs. 2 oder § 315a der
 Reichsversicherungsordnung bis zum Ende des Monats unterbrochen ist,
 in dem der Rentenbescheid zugestellt wird.
 
@@ -90,7 +85,7 @@ dem Inkrafttreten dieses Gesetzes bei dem zuständigen Träger der
 Krankenversicherung abgegeben werden.
 
 
-## § 4
+### § 4
 
 (1) Versicherte haben keinen Anspruch nach § 198 der
 Reichsversicherungsordnung oder nach § 25 des Gesetzes über die
@@ -110,7 +105,7 @@ Gesetzes nicht erfüllt sind.
 Reichsversicherungsordnung.
 
 
-## § 5
+### § 5
 
 (1) Vereinbarungen nach § 368f Abs. 3 der Reichsversicherungsordnung
 sind erstmalig mit Wirkung vom 1. Juli 1978 zu treffen; hierbei ist
@@ -119,107 +114,107 @@ Jahre 1977 auszugehen. Bis zu diesem Zeitpunkt gelten die bestehenden
 Vergütungsregelungen fort.
 
 (2) Vereinbarungen nach § 368f Abs. 6 der Reichsversicherungsordnung
-sind erstmalig mit Wirkung vom 1. Juli 1978 unter Zugrundelegung des
-Durchschnitts der Aufwendungen der beteiligten Krankenkassen für
+sind erstmalig mit Wirkung vom 1. Juli 1978 unter Zugrundelegung
+des Durchschnitts der Aufwendungen der beteiligten Krankenkassen für
 Arzneimittel im Jahre 1977 zu treffen.
 
 
-## § 6
+### § 6
 
-Die Bundesregierung hat den gesetzgebenden Körperschaften bis zum 31.
-Dezember 1981 einen Bericht über die Erfahrungen mit der konzertierten
-Aktion im Gesundheitswesen, den Bundesempfehlungen zur Veränderung der
-Gesamtvergütungen und der Arzneimittelhöchstbeträge sowie über die
-Auswirkung der Regelungen über die Gesamtvergütungen und die
-Arzneimittelhöchstbeträge vorzulegen. Sie hat außerdem darzulegen,
-inwieweit die Ausgabenentwicklung der gesetzlichen Krankenversicherung
-in Übereinstimmung mit der Einkommensentwicklung der Versicherten
-steht. Soweit sich aus dem Bericht die Notwendigkeit zu
-gesetzgeberischen Maßnahmen ergibt, soll die Bundesregierung einen
+Die Bundesregierung hat den gesetzgebenden Körperschaften bis
+zum 31. Dezember 1981 einen Bericht über die Erfahrungen mit der
+konzertierten Aktion im Gesundheitswesen, den Bundesempfehlungen zur
+Veränderung der Gesamtvergütungen und der Arzneimittelhöchstbeträge
+sowie über die Auswirkung der Regelungen über die Gesamtvergütungen
+und die Arzneimittelhöchstbeträge vorzulegen. Sie hat außerdem
+darzulegen, inwieweit die Ausgabenentwicklung der gesetzlichen
+Krankenversicherung in Übereinstimmung mit der Einkommensentwicklung
+der Versicherten steht. Soweit sich aus dem Bericht die Notwendigkeit
+zu gesetzgeberischen Maßnahmen ergibt, soll die Bundesregierung einen
 Vorschlag machen.
 
 
-## § 7
+### § 7
 
 Leistungen nach § 205 Abs. 1 der Reichsversicherungsordnung oder nach
 § 32 Abs. 1 des Gesetzes über die Krankenversicherung der Landwirte,
 für die nach dem Inkrafttreten dieses Gesetzes auf Grund des Artikels
 1 § 1 Nr. 18 Buchstabe a oder b oder § 3 Nr. 13 Buchstabe a oder b
-Ansprüche nicht mehr bestehen, sind für eingeschriebene Studenten der
-staatlichen und der staatlich anerkannten Fachhochschulen bis zum 31.
-August 1977 und für eingeschriebene Studenten der staatlichen und
-staatlich anerkannten Hochschulen bis zum 30. September 1977 zu
+Ansprüche nicht mehr bestehen, sind für eingeschriebene Studenten
+der staatlichen und der staatlich anerkannten Fachhochschulen bis
+zum 31. August 1977 und für eingeschriebene Studenten der staatlichen
+und staatlich anerkannten Hochschulen bis zum 30. September 1977 zu
 gewähren.
 
 
-## § 8
+### § 8
 
-Die in § 187 Nr. 1 Buchstabe b der Reichsversicherungsordnung und in §
-11 Nr. 1 Buchstabe b des Gesetzes über die Krankenversicherung der
-Landwirte genannten Leistungen werden bis zum 1. Januar 1978 nach den
-Voraussetzungen erbracht, die nach den vor Inkrafttreten dieses
+Die in § 187 Nr. 1 Buchstabe b der Reichsversicherungsordnung und in
+§ 11 Nr. 1 Buchstabe b des Gesetzes über die Krankenversicherung der
+Landwirte genannten Leistungen werden bis zum 1. Januar 1978 nach
+den Voraussetzungen erbracht, die nach den vor Inkrafttreten dieses
 Gesetzes geltenden Rechtsvorschriften zu erfüllen waren.
 
 
-## § 9
+### § 9
 
 Die Bewertungsmaßstäbe nach § 368g Abs. 4 der
-Reichsversicherungsordnung sind erstmalig bis zum 1. Juli 1978
-aufzustellen; hierbei ist insbesondere von der für die
+Reichsversicherungsordnung sind erstmalig bis zum 1. Juli
+1978 aufzustellen; hierbei ist insbesondere von der für die
 Ersatzkassenpraxis vereinbarten Gebührenordnung (E-Adgo) auszugehen.
 Bis zu dem in Satz 1 genannten Zeitpunkt gelten die bei Inkrafttreten
 dieses Gesetzes bestehenden Vergütungsregelungen fort.
 
 
-## § 10
+### § 10
 
 (1) Bis zum Inkrafttreten dieses Gesetzes abgeschlossene Verträge, die
 eine dem § 368n Abs. 2 Sätze 4 und 5 der Reichsversicherungsordnung
-entsprechende Versorgung sicherstellen, bleiben unberührt. Sind solche
-Verträge nicht mit den in § 368n Abs. 2 Satz 4 der
-Reichsversicherungsordnung genannten Vereinigungen abgeschlossen, so
-haben diese Vereinigungen innerhalb von sechs Monaten nach
+entsprechende Versorgung sicherstellen, bleiben unberührt.
+Sind solche Verträge nicht mit den in § 368n Abs. 2 Satz 4 der
+Reichsversicherungsordnung genannten Vereinigungen abgeschlossen,
+so haben diese Vereinigungen innerhalb von sechs Monaten nach
 Inkrafttreten dieses Gesetzes anstelle der bisherigen Vertragspartner
 in diese Verträge einzutreten. Ist in den in Sätzen 1 und 2 genannten
 Verträgen eine höhere als die in § 368n Abs. 2 Sätze 4 und 5 der
 Reichsversicherungsordnung vorgeschriebene Vergütung vereinbart, so
-gilt eine solche Vereinbarung unbeschadet der Laufzeit der Verträge so
-lange fort, bis die Höhe der vereinbarten Vergütung jeweils der Höhe
-der in § 368n Abs. 2 Sätze 4 und 5 der Reichsversicherungsordnung
+gilt eine solche Vereinbarung unbeschadet der Laufzeit der Verträge
+so lange fort, bis die Höhe der vereinbarten Vergütung jeweils der
+Höhe der in § 368n Abs. 2 Sätze 4 und 5 der Reichsversicherungsordnung
 vorgeschriebenen Vergütung entspricht.
 
-(2) § 368n Abs. 5 und 6 der Reichsversicherungsordnung in der bis zum
-Inkrafttreten dieses Gesetzes geltenden Fassung gilt für bei
-Inkrafttreten dieses Gesetzes anhängige Prüfungs- und
+(2) § 368n Abs. 5 und 6 der Reichsversicherungsordnung in der
+bis zum Inkrafttreten dieses Gesetzes geltenden Fassung gilt
+für bei Inkrafttreten dieses Gesetzes anhängige Prüfungs- und
 Beschwerdeverfahren bis zu deren Abschluß fort.
 
 
-## § 11
+### § 11
 
 -
 
 
-## § 12
+### § 12
 
 -
 
 
-## § 13
+### § 13
 
 -
 
 
-## § 14
+### § 14
 
 -
 
 
-## § 15
+### § 15
 
 -
 
 
-## § 16
+### § 16
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin. Rechtsverordnungen, die
@@ -227,12 +222,11 @@ aufgrund dieses Gesetzes erlassen werden, gelten im Land Berlin nach §
 14 des Dritten Überleitungsgesetzes.
 
 
-## § 17
+### § 17
 
 (1) Dieses Gesetz tritt mit Ausnahme der in Absatz 2 genannten
 Vorschriften am 1. Juli 1977 in Kraft.
 
-(2) Artikel 1
-§ 1 Nr. 10 und 40, § 3 Nr. 8, 20 und 21 sowie              § 5 tritt
-am 1. Januar 1978 in Kraft.
+(2) Artikel 1 *§ 1 Nr. 10 und 40, § 3 Nr. 8, 20 und 21 sowie* § 5
+tritt am 1. Januar 1978 in Kraft.
 

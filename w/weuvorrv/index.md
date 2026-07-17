@@ -1,7 +1,5 @@
 ---
-Title: Verordnung über die Gewährung von Vorrechten und Befreiungen an die Westeuropäische
-  Union, die nationalen Vertreter, das internationale Personal und die für die Westeuropäische
-  Union tätigen Sachverständigen
+Title: Verordnung über die Gewährung von Vorrechten und Befreiungen an die Westeuropäische Union, die nationalen Vertreter, das internationale Personal und die für die Westeuropäische Union tätigen Sachverständigen
 jurabk: WEUVorRV
 layout: default
 origslug: weuvorrv
@@ -16,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl II: 1959, 704
-
 
 
 ## Eingangsformel
@@ -34,12 +31,12 @@ mit Zustimmung des Bundesrates:
 ## § 1
 
 (1) Die Bestimmungen des Abkommens über die Vorrechte und Befreiungen
-der Sonderorganisationen der Vereinten Nationen finden sinngemäß auf
-die Westeuropäische Union, die nationalen Vertreter, das
-internationale Personal und die für die Westeuropäische Union tätigen
-Sachverständigen nach Maßgabe des von der Bundesrepublik Deutschland
-am 11. Mai 1955 unterzeichneten Übereinkommens über den Status der
-Westeuropäischen Union, der nationalen Vertreter und des
+der Sonderorganisationen der Vereinten Nationen finden sinngemäß
+auf die Westeuropäische Union, die nationalen Vertreter, das
+internationale Personal und die für die Westeuropäische Union
+tätigen Sachverständigen nach Maßgabe des von der Bundesrepublik
+Deutschland am 11. Mai 1955 unterzeichneten Übereinkommens über den
+Status der Westeuropäischen Union, der nationalen Vertreter und des
 internationalen Personals vom 11. Mai 1955 Anwendung.
 
 (2)

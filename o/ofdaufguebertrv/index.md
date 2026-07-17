@@ -1,7 +1,5 @@
 ---
-Title: Verordnung zur Übertragung von Aufgaben der Oberfinanzdirektionen Berlin, Bremen,
-  Chemnitz, Düsseldorf, Erfurt, Frankfurt am Main, Hannover, Kiel, Magdeburg, München,
-  Münster, Rostock, Saarbrücken und Stuttgart
+Title: Verordnung zur Übertragung von Aufgaben der Oberfinanzdirektionen Berlin, Bremen, Chemnitz, Düsseldorf, Erfurt, Frankfurt am Main, Hannover, Kiel, Magdeburg, München, Münster, Rostock, Saarbrücken und Stuttgart
 jurabk: OFDAufgÜbertrV
 layout: default
 origslug: ofdaufg_bertrv
@@ -18,7 +16,6 @@ Fundstelle
 :   BGBl I: 1998, 407
 
 
-
 ## Eingangsformel
 
 Auf Grund des § 8 Abs. 3 des Finanzverwaltungsgesetzes vom 30. August
@@ -33,72 +30,20 @@ Die Aufgaben der Oberfinanzdirektionen gemäß § 8 Abs. 4 des
 Finanzverwaltungsgesetzes (Zoll- und Verbrauchsteuerabteilung) werden
 wie folgt übertragen:
 
-*    *   von der Oberfinanzdirektion
-
-    *   auf die Oberfinanzdirektion
-
-
-*    *   Berlin
-
-    *   Cottbus
-
-
-*    *   Bremen
-
-    *   Hannover
-
-
-*    *   Düsseldorf
-
-    *   Köln
-
-
-*    *   Erfurt
-
-    *   Chemnitz
-
-
-*    *   Frankfurt am Main
-
-    *   Koblenz
-
-
-*    *   Kiel
-
-    *   Hamburg
-
-
-*    *   Magdeburg
-
-    *   Hannover
-
-
-*    *   München
-
-    *   Nürnberg
-
-
-*    *   Münster
-
-    *   Köln
-
-
-*    *   Rostock
-
-    *   Hamburg
-
-
-*    *   Saarbrücken
-
-    *   Koblenz
-
-
-*    *   Stuttgart
-
-    *   Karlsruhe
-
-
-
+| von der Oberfinanzdirektion | auf die Oberfinanzdirektion |
+| --- | --- |
+| Berlin | Cottbus |
+| Bremen | Hannover |
+| Düsseldorf | Köln |
+| Erfurt | Chemnitz |
+| Frankfurt am Main | Koblenz |
+| Kiel | Hamburg |
+| Magdeburg | Hannover |
+| München | Nürnberg |
+| Münster | Köln |
+| Rostock | Hamburg |
+| Saarbrücken | Koblenz |
+| Stuttgart | Karlsruhe |
 
 
 ## § 2
@@ -107,53 +52,21 @@ Die Aufgaben der Oberfinanzdirektionen gemäß § 8 Abs. 5 des
 Finanzverwaltungsgesetzes (Bundesvermögensabteilung) werden wie folgt
 übertragen:
 
-*    *   von der Oberfinanzdirektion
-
-    *   auf die Oberfinanzdirektion
-
-
-*    *   Chemnitz
-
-    *   Erfurt
-
-
-*    *   Frankfurt am Main
-
-    *   Koblenz
-
-
-*    *   Hannover
-
-    *   Magdeburg
-
-
-*    *   Kiel
-
-    *   Rostock
-
-
-*    *   München
-
-    *   Nürnberg
-
-
-*    *   Münster
-
-    *   Köln
-
-
-*    *   Stuttgart
-
-    *   Karlsruhe
-
-
-
+| von der Oberfinanzdirektion | auf die Oberfinanzdirektion |
+| --- | --- |
+| Chemnitz | Erfurt |
+| Frankfurt am Main | Koblenz |
+| Hannover | Magdeburg |
+| Kiel | Rostock |
+| München | Nürnberg |
+| Münster | Köln |
+| Stuttgart | Karlsruhe |
 
 
 ## § 3
 
-Die Zuständigkeit der Oberfinanzpräsidenten nach § 1 Abs. 1 Nr. 2,
-Abs. 2 bis 4 des Vermögenszuordnungsgesetzes in der Fassung der
+Die Zuständigkeit der Oberfinanzpräsidenten nach § 1 Abs. 1 Nr.
+2, Abs. 2 bis 4 des Vermögenszuordnungsgesetzes in der Fassung der
 Bekanntmachung vom 29. März 1994 (BGBl. I S. 709) bleibt unberührt.
 
 

@@ -36,8 +36,8 @@ sie der Aufsicht der Bundesregierung unterstehen.
 
 ## § 3
 
-(1) Aktenvorlage, Auskunft sowie der Zutritt zu Einrichtungen dürfen
-nur verweigert werden, wenn der Vorgang nach einem Gesetz
+(1) Aktenvorlage, Auskunft sowie der Zutritt zu Einrichtungen
+dürfen nur verweigert werden, wenn der Vorgang nach einem Gesetz
 geheimgehalten werden muß oder sonstige zwingende Geheimhaltungsgründe
 bestehen.
 

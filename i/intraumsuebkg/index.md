@@ -1,8 +1,5 @@
 ---
-Title: Gesetz zu dem Übereinkommen vom 29. Januar 1998 zwischen der Regierung Kanadas,
-  Regierungen von Mitgliedstaaten der Europäischen Weltraumorganisation, der Regierung
-  Japans, der Regierung der Russischen Föderation und der Regierung der Vereinigten
-  Staaten von Amerika über Zusammenarbeit bei der zivilen internationalen Raumstation
+Title: Gesetz zu dem Übereinkommen vom 29. Januar 1998 zwischen der Regierung Kanadas, Regierungen von Mitgliedstaaten der Europäischen Weltraumorganisation, der Regierung Japans, der Regierung der Russischen Föderation und der Regierung der Vereinigten Staaten von Amerika über Zusammenarbeit bei der zivilen internationalen Raumstation
 jurabk: IntRaumsÜbkG
 layout: default
 origslug: intraums_bkg
@@ -19,17 +16,16 @@ Fundstelle
 :   BGBl II: 1998, 2445
 
 
-
 ## Art 1
 
 Dem in Washington am 29. Januar 1998 von der Bundesrepublik
 Deutschland unterzeichneten Übereinkommen zwischen der Regierung
 Kanadas, Regierungen von Mitgliedstaaten der Europäischen
 Weltraumorganisation, der Regierung Japans, der Regierung der
-Russischen Föderation und der Regierung der Vereinigten Staaten von
-Amerika über Zusammenarbeit bei der zivilen internationalen
-Raumstation und dem Briefwechsel der Verhandlungsleiter vom 26. Januar
-1998 zur Auslegung des Übereinkommens wird zugestimmt. Das
+Russischen Föderation und der Regierung der Vereinigten Staaten
+von Amerika über Zusammenarbeit bei der zivilen internationalen
+Raumstation und dem Briefwechsel der Verhandlungsleiter vom 26.
+Januar 1998 zur Auslegung des Übereinkommens wird zugestimmt. Das
 Übereinkommen und der Briefwechsel werden nachstehend veröffentlicht.
 
 
@@ -49,22 +45,17 @@ begangen werden, wenn
 
 1.  der Täter zur Zeit der Tat Deutscher ist oder
 
-
 2.  die Tat gegen einen Deutschen begangen wird oder
-
 
 3.  sich die Tat gegen ein von der Europäischen Weltraumorganisation
     registriertes Flugelement richtet.
-
-
-
 
 
 ## Art 4
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 
-(2) Der Tag, an dem das Übereinkommen nach seinem Artikel 25 Abs. 3
-für die Bundesrepublik Deutschland in Kraft tritt, ist im
+(2) Der Tag, an dem das Übereinkommen nach seinem Artikel 25
+Abs. 3 für die Bundesrepublik Deutschland in Kraft tritt, ist im
 Bundesgesetzblatt bekanntzugeben.
 

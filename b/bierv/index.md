@@ -23,8 +23,8 @@ Zuletzt geändert durch
 
 Der Bundesminister für Jugend, Familie, Frauen und Gesundheit
 verordnet
-auf Grund des § 12 Abs. 1 Nr. 1 und Abs. 3, des § 16 Abs. 1 Satz 2 und
-des § 19 Nr. 1 und 4 Buchstabe a und b des Lebensmittel- und
+auf Grund des § 12 Abs. 1 Nr. 1 und Abs. 3, des § 16 Abs. 1 Satz
+2 und des § 19 Nr. 1 und 4 Buchstabe a und b des Lebensmittel- und
 Bedarfsgegenständegesetzes vom 15. August 1974 (BGBl. I S. 1945, 1946)
 im Einvernehmen mit den Bundesministern für Ernährung, Landwirtschaft
 und Forsten und für Wirtschaft sowie
@@ -35,17 +35,17 @@ S. 1945) auch im Einvernehmen mit dem Bundesminister der Finanzen:
 
 ## § 1 Schutz der Bezeichnung Bier
 
-(1) Unter der Bezeichnung Bier - allein oder in Zusammensetzung - oder
-unter Bezeichnungen oder bildlichen Darstellungen, die den Anschein
-erwecken, als ob es sich um Bier handelt, dürfen gewerbsmäßig nur
-Getränke in den Verkehr gebracht werden, die gegoren sind und den
-Vorschriften des § 9 Abs. 1, 2 und 4 bis 6 des Vorläufigen
-Biergesetzes und den §§ 16 bis 19, § 20 Abs. 1 Satz 2 und §§ 21 und 22
-Abs. 1 der Verordnung zur Durchführung des Vorläufigen Biergesetzes
+(1) Unter der Bezeichnung Bier - allein oder in Zusammensetzung
+- oder unter Bezeichnungen oder bildlichen Darstellungen, die den
+Anschein erwecken, als ob es sich um Bier handelt, dürfen gewerbsmäßig
+nur Getränke in den Verkehr gebracht werden, die gegoren sind und
+den Vorschriften des § 9 Abs. 1, 2 und 4 bis 6 des Vorläufigen
+Biergesetzes und den §§ 16 bis 19, § 20 Abs. 1 Satz 2 und §§ 21 und
+22 Abs. 1 der Verordnung zur Durchführung des Vorläufigen Biergesetzes
 entsprechen.
 
-(2) Abweichend von Absatz 1 dürfen im Ausland hergestellte gegorene
-Getränke, die nicht den in Absatz 1 genannten Vorschriften
+(2) Abweichend von Absatz 1 dürfen im Ausland hergestellte
+gegorene Getränke, die nicht den in Absatz 1 genannten Vorschriften
 entsprechen, unter der Bezeichnung "Bier" gewerbsmäßig in den Verkehr
 gebracht werden, wenn sie im jeweiligen Herstellungsland unter der
 Bezeichnung "Bier" oder einer dieser Bezeichnung entsprechenden
@@ -72,9 +72,9 @@ mit einem Stammwürzegehalt von 7 oder mehr als 7, aber weniger als 11
 vom Hundert darf nur unter der Bezeichnung "Schankbier" gewerbsmäßig
 in den Verkehr gebracht werden.
 
-(2) Bier darf unter der Bezeichnung "Starkbier", "Bockbier" oder einer
-sonstigen Bezeichnung, die den Anschein erweckt, als ob das Bier
-besonders stark eingebraut sei, gewerbsmäßig nur in den Verkehr
+(2) Bier darf unter der Bezeichnung "Starkbier", "Bockbier" oder
+einer sonstigen Bezeichnung, die den Anschein erweckt, als ob das
+Bier besonders stark eingebraut sei, gewerbsmäßig nur in den Verkehr
 gebracht werden, wenn der Stammwürzegehalt 16 vom Hundert oder mehr
 beträgt.
 
@@ -94,16 +94,13 @@ Futtermittelgesetzbuches wird bestraft, wer
 1.  entgegen § 1 Abs. 1 oder § 3 Abs. 2 ein Getränk unter einer dort
     genannten Bezeichnung oder
 
-
 2.  entgegen § 3 Abs. 1 Bier mit einem dort genannten Stammwürzegehalt
     nicht unter der vorgeschriebenen Bezeichnung
 
-
-
 gewerbsmäßig in den Verkehr bringt.
 
-(2) Wer eine in Absatz 1 bezeichnete Handlung fahrlässig begeht,
-handelt nach § 60 Abs. 1 des Lebensmittel- und
+(2) Wer eine in Absatz 1 bezeichnete Handlung fahrlässig
+begeht, handelt nach § 60 Abs. 1 des Lebensmittel- und
 Futtermittelgesetzbuches ordnungswidrig.
 
 

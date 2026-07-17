@@ -1,6 +1,5 @@
 ---
-Title: Anordnung über die Übertragung von Zuständigkeiten auf dem Gebiet des Beamtenrechts
-  auf den Generaldirektor der Deutschen Bibliothek
+Title: Anordnung über die Übertragung von Zuständigkeiten auf dem Gebiet des Beamtenrechts auf den Generaldirektor der Deutschen Bibliothek
 jurabk: BeamtZustÜAnO
 layout: default
 origslug: beamtzust_ano
@@ -17,7 +16,6 @@ Fundstelle
 :   BGBl I: 1987, 522
 
 
-
 ## I.
 
 Hiermit übertrage ich auf den Generaldirektor der Deutschen
@@ -27,17 +25,13 @@ Bibliothek, soweit er nicht selbst betroffen ist,
     oder die Ablehnung eines Verwaltungsaktes oder gegen die Ablehnung
     eines Anspruchs auf den Gebieten des Besoldungs-, Reisekosten-,
     Umzugskosten- und Beihilfenrechts sowie auf den Gebieten Arbeitszeit,
-    Anordnung, Genehmigung und Ausgleich von Mehrarbeit (§ 126 Abs. 3 Nr.
-    2 Satz 2 des Beamtenrechtsrahmengesetzes in der Fassung der
+    Anordnung, Genehmigung und Ausgleich von Mehrarbeit (§ 126 Abs.
+    3 Nr. 2 Satz 2 des Beamtenrechtsrahmengesetzes in der Fassung der
     Bekanntmachung vom 27. Februar 1985 - BGBl. I S. 462);
 
-
-2.  die Vertretung bei Klagen aus dem Beamtenverhältnis (§ 174 Abs. 3 des
-    Bundesbeamtengesetzes in der Fassung der Bekanntmachung vom 27.
+2.  die Vertretung bei Klagen aus dem Beamtenverhältnis (§ 174 Abs. 3
+    des Bundesbeamtengesetzes in der Fassung der Bekanntmachung vom 27.
     Februar 1985 - BGBl. I S. 479).
-
-
-
 
 
 ## II.

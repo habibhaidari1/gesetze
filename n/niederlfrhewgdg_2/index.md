@@ -1,6 +1,5 @@
 ---
-Title: Zweites Gesetz zur Durchführung von Richtlinien der Europäischen Wirtschaftsgemeinschaft
-  über die Niederlassungsfreiheit und den freien Dienstleistungsverkehr
+Title: Zweites Gesetz zur Durchführung von Richtlinien der Europäischen Wirtschaftsgemeinschaft über die Niederlassungsfreiheit und den freien Dienstleistungsverkehr
 jurabk: NiederlFrhEWGDG 2
 layout: default
 origslug: niederlfrhewgdg_2
@@ -37,9 +36,9 @@ an Eides Statt anzugeben, ob und gegebenenfalls wann über das Vermögen
 des Erklärenden ein Insolvenzverfahren eröffnet oder dessen Eröffnung
 mangels Masse abgelehnt worden ist. Hat ein Insolvenzverfahren
 stattgefunden, so kann sich die Erklärung auf alle näheren Umstände
-dieses Verfahrens, insbesondere auch darauf erstrecken, wann und in
-welcher Weise das Verfahren beendigt worden ist und ob und wie die
-Gläubiger befriedigt worden sind. Ist die Eröffnung des
+dieses Verfahrens, insbesondere auch darauf erstrecken, wann und
+in welcher Weise das Verfahren beendigt worden ist und ob und
+wie die Gläubiger befriedigt worden sind. Ist die Eröffnung des
 Insolvenzverfahrens mangels Masse abgelehnt worden, so kann sich die
 eidesstattliche Versicherung in entsprechender Weise auf die damit im
 Zusammenhang stehenden näheren Umstände erstrecken.
@@ -47,11 +46,11 @@ Zusammenhang stehenden näheren Umstände erstrecken.
 
 ## § 2
 
-(1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates Vorschriften zur Durchführung von
-Richtlinien des Rates der Europäischen Gemeinschaften über die
-Niederlassungsfreiheit und den freien Dienstleistungsverkehr für
-gewerbliche Tätigkeiten zu erlassen, soweit nach deutschen
+(1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung
+mit Zustimmung des Bundesrates Vorschriften zur Durchführung
+von Richtlinien des Rates der Europäischen Gemeinschaften über
+die Niederlassungsfreiheit und den freien Dienstleistungsverkehr
+für gewerbliche Tätigkeiten zu erlassen, soweit nach deutschen
 Rechtsvorschriften Anforderungen an die allgemeinen, kaufmännischen
 oder fachlichen Kenntnisse und Fertigkeiten der Berufsausübenden
 gestellt werden und die Richtlinien vorsehen, daß anstelle dieser
@@ -59,20 +58,20 @@ Anforderungen eine vorherige praktische Tätigkeit im Heimat- oder
 Herkunftsstaat oder bestimmte andere Prüfungen als ausreichend
 anzusehen sind.
 
-(2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates zur Durchführung von Bestimmungen der
-Europäischen Wirtschaftsgemeinschaft die nach deutschen
+(2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung
+mit Zustimmung des Bundesrates zur Durchführung von Bestimmungen
+der Europäischen Wirtschaftsgemeinschaft die nach deutschen
 Rechtsvorschriften bestehenden Beschränkungen der freien Niederlassung
 und des freien Dienstleistungsverkehrs hinsichtlich der Aufnahme und
-Ausübung gewerblicher Tätigkeiten aufzuheben. Die Rechtsverordnung ist
-gleichzeitig mit der Vorlage an den Bundesrat dem Bundestag zur
+Ausübung gewerblicher Tätigkeiten aufzuheben. Die Rechtsverordnung
+ist gleichzeitig mit der Vorlage an den Bundesrat dem Bundestag zur
 Kenntnisnahme zuzuleiten.
 
 
 ## § 3
 
-(1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates Vorschriften zur Durchführung von
+(1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung
+mit Zustimmung des Bundesrates Vorschriften zur Durchführung von
 Richtlinien des Rates der Europäischen Gemeinschaften über die
 Niederlassungsfreiheit und den freien Dienstleistungsverkehr für die
 selbständigen Tätigkeiten der Nahrungs- und Genußmittelgewerbe zu
@@ -83,12 +82,12 @@ erforderlichen Kenntnisse und Fertigkeiten für die Tätigkeit als
 verantwortlicher technischer Leiter einer Molkerei (Meierei) erbracht
 wird.
 
-(2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates Vorschriften zu erlassen, in denen die in
-deutschen Rechtsvorschriften geregelten Prüfungen bezeichnet werden,
-durch deren Ablegung der Nachweis der erforderlichen fachlichen
-Kenntnisse und Fertigkeiten für die Tätigkeit der für den
-milchwirtschaftlichen Betrieb eines Unternehmens der Be- und
+(2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung
+mit Zustimmung des Bundesrates Vorschriften zu erlassen, in denen
+die in deutschen Rechtsvorschriften geregelten Prüfungen bezeichnet
+werden, durch deren Ablegung der Nachweis der erforderlichen
+fachlichen Kenntnisse und Fertigkeiten für die Tätigkeit der für
+den milchwirtschaftlichen Betrieb eines Unternehmens der Be- und
 Verarbeitung von Milch (Molkerei, Meierei) verantwortlichen Personen
 (verantwortlicher technischer Leiter) erbracht wird.
 
@@ -101,9 +100,9 @@ Verarbeitung von Milch (Molkerei, Meierei) verantwortlichen Personen
 ## § 5
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
-Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
-im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes
-erlassen werden, gelten im Land Berlin nach § 14 des Dritten
+Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S.
+1) auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses
+Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
 
 

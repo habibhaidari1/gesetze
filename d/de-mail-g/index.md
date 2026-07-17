@@ -16,13 +16,10 @@ Fundstelle
 :   BGBl I: 2011, 666
 
 Zuletzt geändert durch
-:   Art. 14 G v. 20.11.2019 I 1626
+:   Art. 10 G v. 2.12.2025 I Nr. 301
 
 Änderung durch
-:   Art. 13 G v. 23.6.2021 I 1858 (Nr. 35) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 7 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 4 G v. 3.7.2026 I Nr. 199 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
@@ -38,11 +35,11 @@ Kommunikationsplattform, die einen sicheren, vertraulichen und
 nachweisbaren Geschäftsverkehr für jedermann im Internet sicherstellen
 sollen.
 
-(2) Ein De-Mail-Dienst muss eine sichere Anmeldung, die Nutzung eines
-Postfach- und Versanddienstes für sichere elektronische Post sowie die
-Nutzung eines Verzeichnisdienstes und kann zusätzlich auch
-Identitätsbestätigungs- und Dokumentenablagedienste ermöglichen. Ein
-De-Mail-Dienst wird von einem nach diesem Gesetz akkreditierten
+(2) Ein De-Mail-Dienst muss eine sichere Anmeldung, die Nutzung
+eines Postfach- und Versanddienstes für sichere elektronische Post
+sowie die Nutzung eines Verzeichnisdienstes und kann zusätzlich auch
+Identitätsbestätigungs- und Dokumentenablagedienste ermöglichen.
+Ein De-Mail-Dienst wird von einem nach diesem Gesetz akkreditierten
 Diensteanbieter betrieben.
 
 (3) Elektronische Kommunikationsinfrastrukturen und sonstige
@@ -64,24 +61,23 @@ in der Informationstechnik.
 (1) Durch einen De-Mail-Konto-Vertrag verpflichtet sich ein
 akkreditierter Diensteanbieter, einem Nutzer ein De-Mail-Konto zur
 Verfügung zu stellen. Ein De-Mail-Konto ist ein Bereich in einem De-
-Mail-Dienst, der einem Nutzer so zugeordnet ist, dass er nur von ihm
-genutzt werden kann. Der akkreditierte Diensteanbieter hat durch
-technische Mittel sicherzustellen, dass nur der diesem De-Mail-Konto
-zugeordnete Nutzer Zugang zu dem ihm zugeordneten De-Mail-Konto
+Mail-Dienst, der einem Nutzer so zugeordnet ist, dass er nur von
+ihm genutzt werden kann. Der akkreditierte Diensteanbieter hat durch
+technische Mittel sicherzustellen, dass nur der diesem De-Mail-
+Konto zugeordnete Nutzer Zugang zu dem ihm zugeordneten De-Mail-Konto
 erlangen kann.
 
 (2) Der akkreditierte Diensteanbieter hat die Identität des Nutzers
-und bei juristischen Personen, Personengesellschaften oder
-öffentlichen Stellen zusätzlich die Identität ihrer gesetzlichen
+und bei juristischen Personen, rechtsfähigen Personengesellschaften
+oder öffentlichen Stellen zusätzlich die Identität ihrer gesetzlichen
 Vertreter oder Organmitglieder zuverlässig festzustellen. Dazu erhebt
 und speichert er folgende Angaben:
 
 1.  bei einer natürlichen Person Name, Geburtsort, Geburtsdatum und
     Anschrift;
 
-
-2.  bei einer juristischen Person oder Personengesellschaft oder
-    öffentlichen Stelle Firma, Name oder Bezeichnung, Rechtsform,
+2.  bei einer juristischen Person oder rechtsfähigen Personengesellschaft
+    oder öffentlichen Stelle Firma, Name oder Bezeichnung, Rechtsform,
     Registernummer, soweit vorhanden, Anschrift des Sitzes oder der
     Hauptniederlassung und Namen der Mitglieder des Vertretungsorgans oder
     der gesetzlichen Vertreter; ist ein Mitglied des Vertretungsorgans
@@ -89,9 +85,6 @@ und speichert er folgende Angaben:
     Firma, Name oder Bezeichnung, Rechtsform, Registernummer, soweit
     vorhanden, und Anschrift des Sitzes oder der Hauptniederlassung
     erhoben.
-
-
-
 
 (3) Der akkreditierte Diensteanbieter hat die Angaben nach Absatz 2
 vor Freischaltung des De-Mail-Kontos des Nutzers zu überprüfen:
@@ -104,52 +97,36 @@ vor Freischaltung des De-Mail-Kontos des Nutzers zu überprüfen:
         ausländerrechtlichen Bestimmungen anerkannten oder zugelassenen
         Passes, Personalausweises oder Pass- oder Ausweisersatzes,
 
-
     b)  anhand von Dokumenten, die bezüglich ihrer Sicherheit einem Dokument
         nach Buchstabe a gleichwertig sind,
-
 
     c)  anhand eines elektronischen Identitätsnachweises nach § 18 des
         Personalausweisgesetzes, nach § 12 des eID-Karte-Gesetzes oder nach §
         78 Absatz 5 des Aufenthaltsgesetzes,
 
-
     d)  anhand einer qualifizierten elektronischen Signatur oder
-
 
     e)  anhand sonstiger geeigneter technischer Verfahren mit gleichwertiger
         Sicherheit zu einer Identifizierung anhand der Dokumente nach
         Buchstabe a;
 
-
-
-
-
-2.  bei juristischen Personen oder Personengesellschaften oder bei
-    öffentlichen Stellen
+2.  bei juristischen Personen oder rechtsfähigen Personengesellschaften
+    oder bei öffentlichen Stellen
 
     a)  anhand eines Auszugs aus dem Handels- oder Genossenschaftsregister
         oder aus einem vergleichbaren amtlichen Register oder Verzeichnis,
 
-
     b)  anhand der Gründungsdokumente,
-
 
     c)  anhand von Dokumenten, die bezüglich ihrer Beweiskraft den Dokumenten
         nach den Buchstaben a oder b gleichwertig sind, oder
 
-
     d)  durch Einsichtnahme in die Register- oder Verzeichnisdaten.
 
-
-
-
-
-
 Soweit die Anschrift von natürlichen Personen nicht durch Verfahren
-nach Satz 1 Nummer 1 Buchstabe a bis e überprüft werden kann, ist sie
-anhand behördlicher Dokumente zu überprüfen, die zum Zweck der
-Anschriftsbescheinigung ausgestellt worden sind; sofern keine
+nach Satz 1 Nummer 1 Buchstabe a bis e überprüft werden kann, ist
+sie anhand behördlicher Dokumente zu überprüfen, die zum Zweck
+der Anschriftsbescheinigung ausgestellt worden sind; sofern keine
 behördlichen Dokumente beigebracht werden können, ist die Anschrift
 anhand sonstiger geeigneter Verfahren zur Überprüfung der postalischen
 Erreichbarkeit zu überprüfen. Der akkreditierte Diensteanbieter kann
@@ -161,8 +138,8 @@ Einwilligung des Nutzers auch personenbezogene Daten verarbeiten, die
 er zu einem früheren Zeitpunkt erhoben hat, sofern diese Daten die
 zuverlässige Identitätsfeststellung des Nutzers gewährleisten.
 
-(4) Eine Nutzung der De-Mail-Dienste ist erst möglich, nachdem der
-akkreditierte Diensteanbieter das De-Mail-Konto des Nutzers
+(4) Eine Nutzung der De-Mail-Dienste ist erst möglich, nachdem
+der akkreditierte Diensteanbieter das De-Mail-Konto des Nutzers
 freigeschaltet hat. Die Freischaltung erfolgt, sobald
 
 1.  der akkreditierte Diensteanbieter den Nutzer eindeutig identifiziert
@@ -170,28 +147,21 @@ freigeschaltet hat. Die Freischaltung erfolgt, sobald
     dessen gesetzlichen Vertreters oder der Organmitglieder erhoben und
     erfolgreich überprüft worden sind,
 
-
 2.  der akkreditierte Diensteanbieter dem Nutzer dessen für die
     Erstanmeldung notwendigen Anmeldedaten auf geeignetem Wege übermittelt
     hat,
 
-
 3.  der Nutzer die Bestätigung nach § 9 Absatz 2 vorgenommen hat,
-
 
 4.  der Nutzer in die Prüfung seiner Nachrichten auf Schadsoftware durch
     den akkreditierten Diensteanbieter eingewilligt hat und
 
-
 5.  der Nutzer im Rahmen einer Erstanmeldung nachgewiesen hat, dass er die
     Anmeldedaten erfolgreich nutzen konnte.
 
-
-
-
-(5) Der akkreditierte Diensteanbieter hat nach der Freischaltung des
-De-Mail-Kontos eines Nutzers die Richtigkeit der zu dem Nutzer
-gespeicherten Identitätsdaten sicherzustellen. Er hat die
+(5) Der akkreditierte Diensteanbieter hat nach der Freischaltung
+des De-Mail-Kontos eines Nutzers die Richtigkeit der zu dem
+Nutzer gespeicherten Identitätsdaten sicherzustellen. Er hat die
 gespeicherten Identitätsdaten in angemessenen zeitlichen Abständen auf
 ihre Richtigkeit zu prüfen und soweit erforderlich zu berichtigen.
 
@@ -200,24 +170,24 @@ ihre Richtigkeit zu prüfen und soweit erforderlich zu berichtigen.
 
 (1) Der akkreditierte Diensteanbieter muss dem Nutzer den Zugang zu
 seinem De-Mail-Konto und den einzelnen Diensten mit einer sicheren
-Anmeldung oder auf Verlangen des Nutzers auch ohne eine solche sichere
-Anmeldung ermöglichen. Für die sichere Anmeldung hat der akkreditierte
-Diensteanbieter sicherzustellen, dass zum Schutz gegen eine
-unberechtigte Nutzung der Zugang zum De-Mail-Konto nur möglich ist,
-wenn zwei geeignete und voneinander unabhängige Sicherungsmittel
-eingesetzt werden; soweit bei den Sicherungsmitteln Geheimnisse
-verwendet werden, ist deren Einmaligkeit und Geheimhaltung
+Anmeldung oder auf Verlangen des Nutzers auch ohne eine solche
+sichere Anmeldung ermöglichen. Für die sichere Anmeldung hat der
+akkreditierte Diensteanbieter sicherzustellen, dass zum Schutz
+gegen eine unberechtigte Nutzung der Zugang zum De-Mail-Konto
+nur möglich ist, wenn zwei geeignete und voneinander unabhängige
+Sicherungsmittel eingesetzt werden; soweit bei den Sicherungsmitteln
+Geheimnisse verwendet werden, ist deren Einmaligkeit und Geheimhaltung
 sicherzustellen. Der Zugang zum De-Mail-Konto erfolgt ohne eine
 sichere Anmeldung, wenn nur ein Sicherungsmittel, in der Regel
 Benutzername und Passwort, verwendet wird. Der Nutzer kann verlangen,
 dass der Zugang zu seinem De-Mail-Konto ausschließlich mit einer
 sicheren Anmeldung möglich sein soll.
 
-(2) Der akkreditierte Diensteanbieter hat zu gewährleisten, dass der
-Nutzer zwischen mindestens zwei Verfahren zur sicheren Anmeldung nach
-Absatz 1 Satz 2 wählen kann. Als ein Verfahren zur sicheren Anmeldung
-muss durch den Nutzer, soweit er eine natürliche Person ist, der
-elektronische Identitätsnachweis nach § 18 des
+(2) Der akkreditierte Diensteanbieter hat zu gewährleisten,
+dass der Nutzer zwischen mindestens zwei Verfahren zur sicheren
+Anmeldung nach Absatz 1 Satz 2 wählen kann. Als ein Verfahren zur
+sicheren Anmeldung muss durch den Nutzer, soweit er eine natürliche
+Person ist, der elektronische Identitätsnachweis nach § 18 des
 Personalausweisgesetzes, nach § 12 des eID-Karte-Gesetzes oder nach §
 78 Absatz 5 des Aufenthaltsgesetzes genutzt werden können.
 
@@ -228,8 +198,8 @@ verschlüsselt erfolgt.
 
 ### § 5 Postfach- und Versanddienst
 
-(1) Die Bereitstellung eines De-Mail-Kontos umfasst die Nutzung eines
-sicheren elektronischen Postfach- und Versanddienstes für
+(1) Die Bereitstellung eines De-Mail-Kontos umfasst die Nutzung
+eines sicheren elektronischen Postfach- und Versanddienstes für
 elektronische Nachrichten. Hierzu wird dem Nutzer eine De-Mail-Adresse
 für elektronische Post zugewiesen, welche folgende Angaben enthalten
 muss:
@@ -237,22 +207,17 @@ muss:
 1.  im Domänenteil der De-Mail-Adresse eine Kennzeichnung, die
     ausschließlich für De-Mail-Dienste genutzt werden darf;
 
-
-2.  bei natürlichen Personen im lokalen Teil deren Nachnamen und einen
-    oder mehrere Vornamen oder einen Teil des oder der Vornamen
+2.  bei natürlichen Personen im lokalen Teil deren Nachnamen und
+    einen oder mehrere Vornamen oder einen Teil des oder der Vornamen
     (Hauptadresse);
 
-
-3.  bei juristischen Personen, Personengesellschaften oder öffentlichen
-    Stellen im Domänenteil eine Bezeichnung, welche in direktem Bezug zu
-    ihrer Firma, Namen oder sonstiger Bezeichnung steht.
-
-
-
+3.  bei juristischen Personen, rechtsfähigen Personengesellschaften
+    oder öffentlichen Stellen im Domänenteil eine Bezeichnung, welche in
+    direktem Bezug zu ihrer Firma, Namen oder sonstiger Bezeichnung steht.
 
 (2) Der akkreditierte Diensteanbieter kann Nutzern auf Verlangen auch
-pseudonyme De-Mail-Adressen zur Verfügung stellen, soweit es sich bei
-dem Nutzer um eine natürliche Person handelt. Die Inanspruchnahme
+pseudonyme De-Mail-Adressen zur Verfügung stellen, soweit es sich
+bei dem Nutzer um eine natürliche Person handelt. Die Inanspruchnahme
 eines Dienstes durch den Nutzer unter Pseudonym ist für Dritte
 erkennbar zu kennzeichnen.
 
@@ -265,12 +230,9 @@ Hierzu gewährleistet der akkreditierte Diensteanbieter, dass
     gegenseitig authentisierten Kanal erfolgt (Transportverschlüsselung)
     und
 
-
 2.  der Inhalt einer De-Mail-Nachricht vom akkreditierten Diensteanbieter
     des Senders zum akkreditierten Diensteanbieter des Empfängers
     verschlüsselt übertragen wird.
-
-
 
 Der Einsatz einer durchgängigen Verschlüsselung zwischen Sender und
 Empfänger (Ende-zu-Ende-Verschlüsselung) bleibt hiervon unberührt.
@@ -282,26 +244,26 @@ Nachricht durch den Empfänger bestimmen.
 seine sichere Anmeldung im Sinne von § 4 in der Nachricht so
 bestätigen zu lassen, dass die Unverfälschtheit der Bestätigung
 jederzeit nachprüfbar ist. Um dieses dem Empfänger der Nachricht
-kenntlich zu machen, bestätigt der akkreditierte Diensteanbieter des
-Senders die Verwendung der sicheren Anmeldung nach § 4. Hierzu
+kenntlich zu machen, bestätigt der akkreditierte Diensteanbieter
+des Senders die Verwendung der sicheren Anmeldung nach § 4. Hierzu
 versieht er im Auftrag des Senders die Nachricht mit einer dauerhaft
 überprüfbaren qualifizierten elektronischen Signatur; sind der
 Nachricht eine oder mehrere Dateien beigefügt, bezieht sich die
 qualifizierte elektronische Signatur auch auf diese. Die Bestätigung
 enthält bei natürlichen Personen den Namen und die Vornamen, bei
-juristischen Personen, Personengesellschaften oder öffentlichen
-Stellen die Firma, den Namen oder die Bezeichnung des Senders in der
-Form, in der diese nach § 3 Absatz 2 hinterlegt sind. Die Tatsache,
-dass der Absender diese Versandart genutzt hat, muss sich aus der
-Nachricht in der Form, wie sie beim Empfänger ankommt, ergeben. Die
-Bestätigung nach Satz 1 ist nicht zulässig bei Verwendung einer
-pseudonymen De-Mail-Adresse nach Absatz 2.
+juristischen Personen, rechtsfähigen Personengesellschaften oder
+öffentlichen Stellen die Firma, den Namen oder die Bezeichnung des
+Senders in der Form, in der diese nach § 3 Absatz 2 hinterlegt sind.
+Die Tatsache, dass der Absender diese Versandart genutzt hat, muss
+sich aus der Nachricht in der Form, wie sie beim Empfänger ankommt,
+ergeben. Die Bestätigung nach Satz 1 ist nicht zulässig bei Verwendung
+einer pseudonymen De-Mail-Adresse nach Absatz 2.
 
 (6) Der akkreditierte Diensteanbieter mit Ausnahme der Diensteanbieter
-nach § 19 ist verpflichtet, elektronische Nachrichten nach den
-Vorschriften der Prozessordnungen und der Gesetze, die die
-Verwaltungszustellung regeln, förmlich zuzustellen. Im Umfang dieser
-Verpflichtung ist der akkreditierte Diensteanbieter mit
+nach § 19 ist verpflichtet, elektronische Nachrichten nach
+den Vorschriften der Prozessordnungen und der Gesetze, die die
+Verwaltungszustellung regeln, förmlich zuzustellen. Im Umfang
+dieser Verpflichtung ist der akkreditierte Diensteanbieter mit
 Hoheitsbefugnissen ausgestattet (beliehener Unternehmer).
 
 (7) Der akkreditierte Diensteanbieter bestätigt auf Antrag des Senders
@@ -310,25 +272,20 @@ Angaben enthalten:
 
 1.  die De-Mail-Adresse des Absenders und des Empfängers;
 
-
 2.  das Datum und die Uhrzeit des Versands der Nachricht vom De-Mail-
     Postfach des Senders;
-
 
 3.  den Namen und Vornamen oder die Firma des akkreditierten
     Diensteanbieters, der die Versandbestätigung erzeugt und
 
-
 4.  die Prüfsumme der zu bestätigenden Nachricht.
 
-
-
 Der akkreditierte Diensteanbieter des Senders hat die
-Versandbestätigung mit einer qualifizierten elektronischen Signatur zu
-versehen.
+Versandbestätigung mit einer qualifizierten elektronischen Signatur
+zu versehen.
 
-(8) Auf Antrag des Senders wird der Eingang einer Nachricht im De-
-Mail-Postfach des Empfängers bestätigt. Hierbei wirken der
+(8) Auf Antrag des Senders wird der Eingang einer Nachricht im
+De-Mail-Postfach des Empfängers bestätigt. Hierbei wirken der
 akkreditierte Diensteanbieter des Senders und der akkreditierte
 Diensteanbieter des Empfängers zusammen. Der akkreditierte
 Diensteanbieter des Empfängers erstellt eine Eingangsbestätigung. Die
@@ -336,58 +293,47 @@ Eingangsbestätigung enthält folgende Angaben:
 
 1.  die De-Mail-Adresse des Absenders und des Empfängers;
 
-
 2.  das Datum und die Uhrzeit des Eingangs der Nachricht im De-Mail-
     Postfach des Empfängers;
-
 
 3.  den Namen und Vornamen oder die Firma des akkreditierten
     Diensteanbieters, der die Eingangsbestätigung erzeugt und
 
-
 4.  die Prüfsumme der zu bestätigenden Nachricht.
-
-
 
 Der akkreditierte Diensteanbieter des Empfängers hat die
 Eingangsbestätigung mit einer qualifizierten elektronischen Signatur
 zu versehen. Der akkreditierte Diensteanbieter des Empfängers sendet
 diesem ebenfalls die Eingangsbestätigung zu.
 
-(9) Eine öffentliche Stelle, welche zur förmlichen Zustellung nach den
-Vorschriften der Prozessordnungen und der Gesetze, die die
-Verwaltungszustellung regeln, berechtigt ist, kann eine
-Abholbestätigung verlangen. Aus der Abholbestätigung ergibt sich, dass
-sich der Empfänger nach dem Eingang der Nachricht im Postfach an
+(9) Eine öffentliche Stelle, welche zur förmlichen Zustellung
+nach den Vorschriften der Prozessordnungen und der Gesetze,
+die die Verwaltungszustellung regeln, berechtigt ist, kann eine
+Abholbestätigung verlangen. Aus der Abholbestätigung ergibt sich,
+dass sich der Empfänger nach dem Eingang der Nachricht im Postfach an
 seinem De-Mail-Konto sicher im Sinne des § 4 angemeldet hat. Hierbei
-wirken der akkreditierte Diensteanbieter der öffentlichen Stelle als
-Senderin und der akkreditierte Diensteanbieter des Empfängers
-zusammen. Der akkreditierte Diensteanbieter des Empfängers erzeugt die
-Abholbestätigung. Die Abholbestätigung muss folgende Angaben
+wirken der akkreditierte Diensteanbieter der öffentlichen Stelle
+als Senderin und der akkreditierte Diensteanbieter des Empfängers
+zusammen. Der akkreditierte Diensteanbieter des Empfängers erzeugt
+die Abholbestätigung. Die Abholbestätigung muss folgende Angaben
 enthalten:
 
 1.  die De-Mail-Adresse des Absenders und des Empfängers;
 
-
 2.  das Datum und die Uhrzeit des Eingangs der Nachricht im De-Mail-
     Postfach des Empfängers;
-
 
 3.  das Datum und die Uhrzeit der sicheren Anmeldung des Empfängers an
     seinem De-Mail-Konto im Sinne des § 4;
 
-
 4.  den Namen und Vornamen oder die Firma des akkreditierten
     Diensteanbieters, der die Abholbestätigung erzeugt und
 
-
 5.  die Prüfsumme der zu bestätigenden Nachricht.
 
-
-
 Der akkreditierte Diensteanbieter des Empfängers hat die
-Abholbestätigung mit einer qualifizierten elektronischen Signatur zu
-versehen. Der akkreditierte Diensteanbieter des Empfängers sendet
+Abholbestätigung mit einer qualifizierten elektronischen Signatur
+zu versehen. Der akkreditierte Diensteanbieter des Empfängers sendet
 diesem ebenfalls die Abholbestätigung zu. Die in Satz 5 genannten
 Daten dürfen ausschließlich zum Nachweis der förmlichen Zustellung im
 Sinne von § 5 Absatz 6 verarbeitet und genutzt werden.
@@ -400,14 +346,14 @@ ihrem Eingang gelöscht werden können.
 
 (11) Nutzern, die natürliche Personen sind, bietet der akkreditierte
 Diensteanbieter an, von allen an ihre De-Mail-Adresse adressierten
-Nachrichten eine Kopie an eine zuvor vom Nutzer angegebene De-Mail-
-Adresse (Weiterleitungsadresse) weiterzuleiten, ohne dass der Nutzer
-an seinem De-Mail-Konto angemeldet sein muss (automatische
+Nachrichten eine Kopie an eine zuvor vom Nutzer angegebene De-
+Mail-Adresse (Weiterleitungsadresse) weiterzuleiten, ohne dass der
+Nutzer an seinem De-Mail-Konto angemeldet sein muss (automatische
 Weiterleitung). Der Nutzer kann ausschließen, dass im Sinne des
 Absatzes 4 an ihn gesendete Nachrichten weitergeleitet werden. Der
 Nutzer kann den Dienst der automatischen Weiterleitung jederzeit
-zurücknehmen. Um den Dienst der automatischen Weiterleitung nutzen zu
-können, muss der Nutzer sicher an seinem De-Mail-Konto angemeldet
+zurücknehmen. Um den Dienst der automatischen Weiterleitung nutzen
+zu können, muss der Nutzer sicher an seinem De-Mail-Konto angemeldet
 sein.
 
 
@@ -425,8 +371,8 @@ mitteilen möchte, sendet. Die De-Mail-Nachricht wird durch den
 akkreditierten Diensteanbieter mit einer qualifizierten elektronischen
 Signatur versehen.
 
-(2) Der akkreditierte Diensteanbieter hat Vorkehrungen dafür zu
-treffen, dass Identitätsdaten nicht unbemerkt gefälscht oder
+(2) Der akkreditierte Diensteanbieter hat Vorkehrungen dafür
+zu treffen, dass Identitätsdaten nicht unbemerkt gefälscht oder
 verfälscht werden können.
 
 (3) Die zuständige Behörde kann die Einschränkung der Verarbeitung
@@ -437,69 +383,64 @@ ausgestellt wurde oder nicht ausreichend fälschungssicher ist.
 
 ### § 7 Verzeichnisdienst
 
-(1) Der akkreditierte Diensteanbieter hat auf ausdrückliches Verlangen
-des Nutzers die De-Mail-Adressen, die nach § 3 hinterlegten
-Identitätsdaten Name und Anschrift, die für die Verschlüsselung von
-Nachrichten an den Nutzer notwendigen Informationen und die
-Information über die Möglichkeit der sicheren Anmeldung nach § 4 des
-Nutzers in einem Verzeichnisdienst zu veröffentlichen. Der
-akkreditierte Diensteanbieter darf die Eröffnung eines De-Mail-Kontos
-für den Nutzer nicht von dem Verlangen des Nutzers nach Satz 1
+(1) Der akkreditierte Diensteanbieter hat auf ausdrückliches
+Verlangen des Nutzers die De-Mail-Adressen, die nach § 3 hinterlegten
+Identitätsdaten Name und Anschrift, die für die Verschlüsselung
+von Nachrichten an den Nutzer notwendigen Informationen und die
+Information über die Möglichkeit der sicheren Anmeldung nach §
+4 des Nutzers in einem Verzeichnisdienst zu veröffentlichen. Der
+akkreditierte Diensteanbieter darf die Eröffnung eines De-Mail-
+Kontos für den Nutzer nicht von dem Verlangen des Nutzers nach Satz 1
 abhängig machen.
 
 (2) Der akkreditierte Diensteanbieter hat eine De-Mail-Adresse, ein
-Identitätsdatum oder die für die Verschlüsselung von Nachrichten an
-den Nutzer notwendigen Informationen unverzüglich aus dem
+Identitätsdatum oder die für die Verschlüsselung von Nachrichten
+an den Nutzer notwendigen Informationen unverzüglich aus dem
 Verzeichnisdienst zu löschen, wenn
 
 1.  der Nutzer dies verlangt,
 
-
 2.  die Daten aufgrund falscher Angaben ausgestellt wurden,
-
 
 3.  der Diensteanbieter seine Tätigkeit beendet und diese nicht von einem
     anderen akkreditierten Diensteanbieter fortgeführt wird oder
 
-
 4.  die zuständige Behörde die Löschung aus dem Verzeichnisdienst
     anordnet.
 
-
-
 Weitere Gründe für eine Löschung können vertraglich vereinbart werden.
 
-(3) Die Veröffentlichung der De-Mail-Adresse im Verzeichnisdienst auf
-ein Verlangen des Nutzers als Verbraucher nach Absatz 1 allein gilt
-nicht als Eröffnung des Zugangs im Sinne von § 3a Absatz 1 des
-Verwaltungsverfahrensgesetzes, § 36a Absatz 1 des Ersten Buches
+(3) Die Veröffentlichung der De-Mail-Adresse im Verzeichnisdienst
+auf ein Verlangen des Nutzers als Verbraucher nach Absatz 1 allein
+gilt nicht als Eröffnung des Zugangs im Sinne von § 3a Absatz 1
+des Verwaltungsverfahrensgesetzes, § 36a Absatz 1 des Ersten Buches
 Sozialgesetzbuch oder des § 87a Absatz 1 Satz 1 der Abgabenordnung.
-Auf Verlangen des Nutzers muss der akkreditierte Diensteanbieter durch
-einen geeigneten Zusatz die Erklärung des Nutzers im Verzeichnisdienst
-veröffentlichen, den Zugang im Sinne von § 3a des
-Verwaltungsverfahrensgesetzes, § 36a Absatz 1 des Ersten Buches
+Auf Verlangen des Nutzers muss der akkreditierte Diensteanbieter
+durch einen geeigneten Zusatz die Erklärung des Nutzers im
+Verzeichnisdienst veröffentlichen, den Zugang im Sinne von § 3a
+des Verwaltungsverfahrensgesetzes, § 36a Absatz 1 des Ersten Buches
 Sozialgesetzbuch und des § 87a Absatz 1 Satz 1 der Abgabenordnung
 eröffnen zu wollen. Die Veröffentlichung der De-Mail-Adresse des
 Nutzers als Verbraucher mit diesem Zusatz im Verzeichnisdienst gilt
 als Zugangseröffnung. Satz 2 gilt entsprechend für die Entscheidung
 des Nutzers, die Zugangseröffnung zurückzunehmen.
 
-(4) § 18 des Telekommunikation-Telemedien-Datenschutz-Gesetzes gilt
-entsprechend.
+(4) § 18 des Telekommunikation-Digitale-Dienste-Datenschutz-Gesetzes
+gilt entsprechend.
 
 
 ### § 8 Dokumentenablage
 
 Der akkreditierte Diensteanbieter kann dem Nutzer eine
 Dokumentenablage zur sicheren Ablage von Dokumenten anbieten. Bietet
-er die Dokumentenablage an, so hat er dafür Sorge zu tragen, dass die
-Dokumente sicher abgelegt werden; Vertraulichkeit, Integrität und
+er die Dokumentenablage an, so hat er dafür Sorge zu tragen, dass
+die Dokumente sicher abgelegt werden; Vertraulichkeit, Integrität und
 ständige Verfügbarkeit der abgelegten Dokumente sind zu gewährleisten.
 Der akkreditierte Diensteanbieter ist verpflichtet, alle Dokumente
 verschlüsselt abzulegen. Der Nutzer kann für jede einzelne Datei eine
 für den Zugriff erforderliche sichere Anmeldung nach § 4 festlegen.
-Auf Verlangen des Nutzers hat der akkreditierte Diensteanbieter ein
-Protokoll über die Einstellung und Herausnahme von Dokumenten
+Auf Verlangen des Nutzers hat der akkreditierte Diensteanbieter
+ein Protokoll über die Einstellung und Herausnahme von Dokumenten
 bereitzustellen, das mit einer qualifizierten elektronischen Signatur
 gesichert ist.
 
@@ -511,12 +452,12 @@ gesichert ist.
 
 (1) Der akkreditierte Diensteanbieter hat den Nutzer vor der
 erstmaligen Nutzung des De-Mail-Kontos über die Rechtsfolgen und
-Kosten der Nutzung von De-Mail-Diensten, insbesondere der Nutzung des
-Postfach- und Versanddienstes nach § 5, des Verzeichnisdienstes nach §
-7 und der Dokumentenablage nach § 8, über die Rechtsfolgen und Kosten
-der Sperrung und Auflösung des De-Mail-Kontos nach § 10, der
-Einstellung der Tätigkeit nach § 11 und der Vertragsbeendigung nach §
-12 sowie über die Maßnahmen zu informieren, die notwendig sind, um
+Kosten der Nutzung von De-Mail-Diensten, insbesondere der Nutzung
+des Postfach- und Versanddienstes nach § 5, des Verzeichnisdienstes
+nach § 7 und der Dokumentenablage nach § 8, über die Rechtsfolgen und
+Kosten der Sperrung und Auflösung des De-Mail-Kontos nach § 10, der
+Einstellung der Tätigkeit nach § 11 und der Vertragsbeendigung nach
+§ 12 sowie über die Maßnahmen zu informieren, die notwendig sind, um
 einen unbefugten Zugang zum De-Mail-Konto zu verhindern. Dies umfasst
 insbesondere auch Informationen
 
@@ -525,20 +466,17 @@ insbesondere auch Informationen
     Konto ohne sichere Anmeldung nicht den gleichen Schutz bietet wie mit
     einer sicheren Anmeldung und
 
-
-2.  über den Inhalt und die Bedeutung der Transportverschlüsselung nach §
-    5 Absatz 3 Satz 2 sowie der Verschlüsselung nach § 4 Absatz 3 sowie
+2.  über den Inhalt und die Bedeutung der Transportverschlüsselung nach
+    § 5 Absatz 3 Satz 2 sowie der Verschlüsselung nach § 4 Absatz 3 sowie
     über die Unterschiede dieser Verschlüsselungen zu einer Ende-zu-Ende-
     Verschlüsselung nach § 5 Absatz 3 Satz 3.
-
-
 
 Der akkreditierte Diensteanbieter muss den Nutzer außerdem darüber
 informieren, wie mit schadsoftwarebehafteten De-Mail-Nachrichten
 umgegangen wird.
 
-(2) Der akkreditierte Diensteanbieter darf die erstmalige Nutzung des
-De-Mail-Kontos nur zulassen, wenn der Nutzer die erforderlichen
+(2) Der akkreditierte Diensteanbieter darf die erstmalige Nutzung
+des De-Mail-Kontos nur zulassen, wenn der Nutzer die erforderlichen
 Informationen in Textform erhalten und in Textform bestätigt hat, dass
 er die Informationen nach Absatz 1 erhalten und zur Kenntnis genommen
 hat.
@@ -553,37 +491,32 @@ Konto unverzüglich zu sperren, wenn
 
 1.  der Nutzer es verlangt,
 
-
 2.  Tatsachen die Annahme rechtfertigen, dass die zur eindeutigen
     Identifizierung des Nutzers beim akkreditierten Diensteanbieter
     gespeicherten Daten nicht ausreichend fälschungssicher sind oder dass
     die sichere Anmeldung gemäß § 4 Mängel aufweist, die eine unbemerkte
     Fälschung oder Kompromittierung des Anmeldevorgangs zulassen,
 
-
 3.  die zuständige Behörde die Sperrung gemäß Absatz 2 anordnet oder
-
 
 4.  die Voraussetzungen eines vertraglich zwischen dem akkreditierten
     Diensteanbieter und dem Nutzer vereinbarten Sperrgrundes vorliegen.
 
-
-
 Im Fall des Satzes 1 Nummer 4 hat der akkreditierte Diensteanbieter
-die Sperrung so vorzunehmen, dass der Abruf von Nachrichten möglich
-bleibt; dies gilt nicht, soweit der vertraglich vereinbarte Sperrgrund
-den Abruf von Nachrichten ausschließt. Der akkreditierte
+die Sperrung so vorzunehmen, dass der Abruf von Nachrichten
+möglich bleibt; dies gilt nicht, soweit der vertraglich vereinbarte
+Sperrgrund den Abruf von Nachrichten ausschließt. Der akkreditierte
 Diensteanbieter hat den zur Sperrung berechtigten Nutzern eine
 Rufnummer bekannt zu geben, unter der diese unverzüglich eine Sperrung
 des Zugangs veranlassen können.
 
 (2) Die zuständige Behörde kann die Sperrung eines De-Mail-Kontos
-anordnen, wenn Tatsachen die Annahme rechtfertigen, dass das De-Mail-
-Konto auf Grund falscher Angaben eröffnet wurde oder die zur
-eindeutigen Identifizierung des Nutzers beim akkreditierten
+anordnen, wenn Tatsachen die Annahme rechtfertigen, dass das De-
+Mail-Konto auf Grund falscher Angaben eröffnet wurde oder die
+zur eindeutigen Identifizierung des Nutzers beim akkreditierten
 Diensteanbieter vorgehaltenen Daten nicht ausreichend fälschungssicher
-sind oder die sichere Anmeldung gemäß § 4 Absatz 1 Mängel aufweist,
-die eine unbemerkte Fälschung oder Kompromittierung des
+sind oder die sichere Anmeldung gemäß § 4 Absatz 1 Mängel
+aufweist, die eine unbemerkte Fälschung oder Kompromittierung des
 Anmeldevorgangs zulassen.
 
 (3) Der akkreditierte Diensteanbieter hat dem Nutzer nach Wegfall des
@@ -594,10 +527,7 @@ unverzüglich aufzulösen, wenn
 
 1.  der Nutzer dies verlangt oder
 
-
 2.  die zuständige Behörde die Auflösung anordnet.
-
-
 
 Die zuständige Behörde kann die Auflösung anordnen, wenn die
 Voraussetzungen des Absatzes 2 vorliegen und eine Sperrung nicht
@@ -606,8 +536,8 @@ unwirksam.
 
 (5) Der akkreditierte Diensteanbieter hat sich vor einer Sperrung nach
 Absatz 1 oder einer Auflösung nach Absatz 4 auf geeignete Weise von
-der Identität des zur Sperrung oder Auflösung berechtigten Nutzers zu
-überzeugen.
+der Identität des zur Sperrung oder Auflösung berechtigten Nutzers
+zu überzeugen.
 
 (6) Im Fall einer Sperrung nach Absatz 1 Satz 1 Nummer 1 bis 3 oder
 Absatz 1 Satz 1 Nummer 4 in Verbindung mit Absatz 1 Satz 2 zweiter
@@ -628,22 +558,22 @@ kann.
 ### § 11 Einstellung der Tätigkeit
 
 (1) Der akkreditierte Diensteanbieter hat die Einstellung seiner
-Tätigkeit unverzüglich der zuständigen Behörde anzuzeigen. Er hat
-dafür zu sorgen, dass das De-Mail-Konto von einem anderen
+Tätigkeit unverzüglich der zuständigen Behörde anzuzeigen. Er
+hat dafür zu sorgen, dass das De-Mail-Konto von einem anderen
 akkreditierten Diensteanbieter übernommen werden kann. Er hat die
 betroffenen Nutzer unverzüglich über die Einstellung seiner Tätigkeit
 zu benachrichtigen und deren Zustimmung zur Übernahme des De-Mail-
 Kontos durch einen anderen akkreditierten Diensteanbieter einzuholen.
 
-(2) Übernimmt kein anderer akkreditierter Diensteanbieter das De-Mail-
-Konto, muss der akkreditierte Diensteanbieter sicherstellen, dass die
-im Postfach und in der Dokumentenablage gespeicherten Daten für
-wenigstens drei Monate ab dem Zeitpunkt der Benachrichtigung des
+(2) Übernimmt kein anderer akkreditierter Diensteanbieter das De-
+Mail-Konto, muss der akkreditierte Diensteanbieter sicherstellen,
+dass die im Postfach und in der Dokumentenablage gespeicherten Daten
+für wenigstens drei Monate ab dem Zeitpunkt der Benachrichtigung des
 Nutzers abrufbar bleiben.
 
-(3) Der akkreditierte Diensteanbieter hat die Dokumentation nach § 13
-an den akkreditierten Diensteanbieter, der das De-Mail-Konto nach
-Absatz 1 übernimmt, zu übergeben. Übernimmt kein anderer
+(3) Der akkreditierte Diensteanbieter hat die Dokumentation nach
+§ 13 an den akkreditierten Diensteanbieter, der das De-Mail-Konto
+nach Absatz 1 übernimmt, zu übergeben. Übernimmt kein anderer
 akkreditierter Diensteanbieter das De-Mail-Konto, übernimmt die
 zuständige Behörde die Dokumentation. In diesem Fall erteilt die
 zuständige Behörde bei Vorliegen eines berechtigten Interesses
@@ -658,8 +588,8 @@ anzuzeigen.
 ### § 12 Vertragsbeendigung
 
 Der akkreditierte Diensteanbieter ist verpflichtet, dem Nutzer für
-einen Zeitraum von drei Monaten nach Vertragsende den Zugriff auf die
-im Postfach und in der Dokumentenablage abgelegten Daten zu
+einen Zeitraum von drei Monaten nach Vertragsende den Zugriff auf
+die im Postfach und in der Dokumentenablage abgelegten Daten zu
 ermöglichen und ihn auf ihre Löschung mindestens einen Monat vor
 dieser in Textform hinzuweisen.
 
@@ -686,25 +616,25 @@ Jahres aufzubewahren, in dem das Vertragsverhältnis endet.
 
 ### § 14 Jugend- und Verbraucherschutz
 
-Der akkreditierte Diensteanbieter hat bei Gestaltung und Betrieb der
-De-Mail-Dienste die Belange des Jugendschutzes und des
+Der akkreditierte Diensteanbieter hat bei Gestaltung und Betrieb
+der De-Mail-Dienste die Belange des Jugendschutzes und des
 Verbraucherschutzes zu beachten.
 
 
 ### § 15 Datenschutz
 
-Der akkreditierte Diensteanbieter darf personenbezogene Daten des
-Nutzers eines De-Mail-Kontos nur verarbeiten, soweit dies zur
+Der akkreditierte Diensteanbieter darf personenbezogene Daten
+des Nutzers eines De-Mail-Kontos nur verarbeiten, soweit dies zur
 Bereitstellung der De-Mail-Dienste und deren Durchführung erforderlich
-ist; im Übrigen gelten die Regelungen des Telemediengesetzes, des
-Telekommunikationsgesetzes, des Telekommunikation-Telemedien-
-Datenschutz-Gesetzes und des Bundesdatenschutzgesetzes. Die
-datenschutzrechtlichen Regelungen dieser Gesetze gelten ergänzend zu
-der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates
-vom 27. April 2016 zum Schutz natürlicher Personen bei der
-Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur
-Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl.
-L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom
+ist; im Übrigen gelten die Regelungen des Digitale-Dienste-Gesetzes,
+des Telekommunikationsgesetzes, des Telekommunikation-Digitale-
+Dienste-Datenschutz-Gesetzes und des Bundesdatenschutzgesetzes. Die
+datenschutzrechtlichen Regelungen dieser Gesetze gelten ergänzend
+zu der Verordnung (EU) 2016/679 des Europäischen Parlaments und des
+Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der
+Verarbeitung personenbezogener Daten, zum freien Datenverkehr und
+zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung)
+(ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom
 23\.5.2018, S. 2) in der jeweils geltenden Fassung.
 
 
@@ -716,38 +646,30 @@ Namen und Anschrift eines Nutzers, wenn
 1.  der Dritte glaubhaft macht, die Auskunft zur Verfolgung eines
     Rechtsanspruches gegen den Nutzer zu benötigen,
 
-
 2.  sich die Auskunft auf ein Rechtsverhältnis zwischen dem Dritten und
     dem Nutzer bezieht, das unter Nutzung von De-Mail zustande gekommen
     ist,
 
-
 3.  der Dritte die zur Feststellung seiner Identität notwendigen Angaben
     im Sinne von § 3 Absatz 2 macht,
-
 
 4.  der akkreditierte Diensteanbieter die Richtigkeit der Angaben nach § 3
     Absatz 3 überprüft hat,
 
-
 5.  das Verlangen nicht rechtsmissbräuchlich ist, insbesondere nicht
     allein dem Zweck dient, ein Pseudonym aufzudecken, und
-
 
 6.  die schutzwürdigen Interessen des Nutzers im Einzelfall nicht
     überwiegen.
 
-
-
-
 (2) Der Dritte hat dem akkreditierten Diensteanbieter zur
-Glaubhaftmachung nach Absatz 1 Nummer 1 elektronische Nachrichten oder
-Schriftstücke zu übermitteln, aus denen sich das Rechtsverhältnis zum
-Nutzer ergibt, sofern diese angefallen sind. Der akkreditierte
+Glaubhaftmachung nach Absatz 1 Nummer 1 elektronische Nachrichten
+oder Schriftstücke zu übermitteln, aus denen sich das Rechtsverhältnis
+zum Nutzer ergibt, sofern diese angefallen sind. Der akkreditierte
 Diensteanbieter hat den Nutzer von dem Auskunftsersuchen unverzüglich
-und unter Benennung des Dritten zu informieren und ihm Gelegenheit zur
-Stellungnahme zum Auskunftsersuchen zu gewähren, soweit dies die
-Verfolgung des Rechtsanspruchs des Dritten nicht im Einzelfall
+und unter Benennung des Dritten zu informieren und ihm Gelegenheit
+zur Stellungnahme zum Auskunftsersuchen zu gewähren, soweit dies
+die Verfolgung des Rechtsanspruchs des Dritten nicht im Einzelfall
 gefährdet.
 
 (3) Der akkreditierte Diensteanbieter kann den Ersatz der für die
@@ -756,16 +678,16 @@ Auskunftserteilung erforderlichen Aufwendungen verlangen.
 (4) Die durch die Auskunftserteilung erlangten Daten dürfen nur zu dem
 bei dem Ersuchen angegebenen Zweck verwendet werden.
 
-(5) Der akkreditierte Diensteanbieter hat die Auskunftserteilung nach
-Absatz 1 zu dokumentieren und den Nutzer von der Erteilung der
-Auskunft zu informieren. Die Dokumentationspflicht nach Satz 1 umfasst
-den Antrag zur Auskunftserteilung samt Angabe des Dritten nach Absatz
-1, die Entscheidung des akkreditierten Diensteanbieters, die
-Identifizierungsdaten des bearbeitenden Mitarbeiters des
-akkreditierten Diensteanbieters, die Mitteilung des Ergebnisses an den
-auskunftsersuchenden Dritten, die Mitteilung über die
-Auskunftserteilung an den Nutzer und die jeweilige gesetzliche Zeit
-bei einzelnen Prozessen innerhalb der Auskunftserteilung. Die
+(5) Der akkreditierte Diensteanbieter hat die Auskunftserteilung
+nach Absatz 1 zu dokumentieren und den Nutzer von der Erteilung
+der Auskunft zu informieren. Die Dokumentationspflicht nach Satz 1
+umfasst den Antrag zur Auskunftserteilung samt Angabe des Dritten
+nach Absatz 1, die Entscheidung des akkreditierten Diensteanbieters,
+die Identifizierungsdaten des bearbeitenden Mitarbeiters des
+akkreditierten Diensteanbieters, die Mitteilung des Ergebnisses
+an den auskunftsersuchenden Dritten, die Mitteilung über die
+Auskunftserteilung an den Nutzer und die jeweilige gesetzliche
+Zeit bei einzelnen Prozessen innerhalb der Auskunftserteilung. Die
 Dokumentation ist drei Jahre aufzubewahren.
 
 (6) Die §§ 13 und 13a des Gesetzes über Unterlassungsklagen bei
@@ -785,8 +707,8 @@ auf schriftlichen Antrag von der zuständigen Behörde akkreditieren
 lassen. Die Akkreditierung ist zu erteilen, wenn der Diensteanbieter
 nachweist, dass er die Voraussetzungen nach § 18 erfüllt und wenn die
 Ausübung der Aufsicht über den Diensteanbieter durch die zuständige
-Behörde gewährleistet ist. Akkreditierte Diensteanbieter erhalten ein
-Gütezeichen der zuständigen Behörde. Das Gütezeichen dient als
+Behörde gewährleistet ist. Akkreditierte Diensteanbieter erhalten
+ein Gütezeichen der zuständigen Behörde. Das Gütezeichen dient als
 Nachweis für die umfassend geprüfte technische und administrative
 Sicherheit der De-Mail-Dienste. Sie dürfen sich als akkreditierte
 Diensteanbieter bezeichnen. Nur akkreditierte Diensteanbieter dürfen
@@ -798,8 +720,7 @@ Diensteanbietern vorbehalten sein.
 Frist von drei Monaten zu entscheiden; § 42a Absatz 2 Satz 2 bis 4 des
 Verwaltungsverfahrensgesetzes findet Anwendung.
 
-(3) Die Akkreditierung ist nach wesentlichen Veränderungen, spätestens
-jedoch nach drei Jahren zu erneuern.
+(3) (weggefallen)
 
 
 ### § 18 Voraussetzungen der Akkreditierung; Nachweis
@@ -809,37 +730,31 @@ jedoch nach drei Jahren zu erneuern.
 1.  die für den Betrieb von De-Mail-Diensten erforderliche Zuverlässigkeit
     und Fachkunde besitzt,
 
-
 2.  eine geeignete Deckungsvorsorge trifft, um seinen gesetzlichen
     Verpflichtungen zum Ersatz von Schäden nachzukommen,
 
-
 3.  die technischen und organisatorischen Anforderungen an die Pflichten
-    nach den §§ 3 bis 13 sowie nach § 16 in der Weise erfüllt, dass er die
-    Dienste zuverlässig und sicher erbringt, er mit den anderen
+    nach den §§ 3 bis 13 sowie nach § 16 in der Weise erfüllt, dass
+    er die Dienste zuverlässig und sicher erbringt, er mit den anderen
     akkreditierten Diensteanbietern zusammenwirkt und für die Erbringung
     der Dienste ausschließlich technische Geräte verwendet, die sich im
     Gebiet der Mitgliedstaaten der Europäischen Union oder eines anderen
     Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum
     befinden,
 
-
 4.  bei der Gestaltung und dem Betrieb der De-Mail-Dienste die
     datenschutzrechtlichen Anforderungen erfüllt.
 
-
-
-
 (2) Die Diensteanbieter haben die technischen und organisatorischen
-Anforderungen nach den §§ 3 bis 13 sowie nach § 16 nach dem Stand der
-Technik zu erfüllen. Die Einhaltung des Standes der Technik wird
+Anforderungen nach den §§ 3 bis 13 sowie nach § 16 nach dem Stand
+der Technik zu erfüllen. Die Einhaltung des Standes der Technik wird
 vermutet, wenn die Technische Richtlinie 01201 De-Mail des Bundesamtes
 für Sicherheit in der Informationstechnik vom 23. März 2011 (eBAnz
-AT40 2011 B1) in der jeweils im Bundesanzeiger veröffentlichten
-Fassung eingehalten wird. Bevor das Bundesamt für Sicherheit in der
-Informationstechnik wesentliche Änderungen an der Technischen
-Richtlinie vornimmt, hört es den Ausschuss De-Mail-Standardisierung im
-Sinne des § 22 an, und dem oder der Bundesbeauftragten für den
+AT40 2011 B1) in der jeweils im Bundesanzeiger veröffentlichten
+Fassung eingehalten wird. Bevor das Bundesamt für Sicherheit in
+der Informationstechnik wesentliche Änderungen an der Technischen
+Richtlinie vornimmt, hört es den Ausschuss De-Mail-Standardisierung
+im Sinne des § 22 an, und dem oder der Bundesbeauftragten für den
 Datenschutz und die Informationsfreiheit wird hierbei Gelegenheit zur
 Stellungnahme gegeben, sofern Fragen des Datenschutzes berührt sind.
 
@@ -849,15 +764,14 @@ Stellungnahme gegeben, sofern Fragen des Datenschutzes berührt sind.
     die persönlichen Eigenschaften, das Verhalten und die entsprechenden
     Fähigkeiten seiner oder der in seinem Betrieb tätigen Personen; als
     Nachweis der erforderlichen Fachkunde ist es in der Regel ausreichend,
-    wenn für die jeweilige Aufgabe im Betrieb entsprechende Zeugnisse oder
-    Nachweise über die dafür notwendigen Kenntnisse, Erfahrungen und
+    wenn für die jeweilige Aufgabe im Betrieb entsprechende Zeugnisse
+    oder Nachweise über die dafür notwendigen Kenntnisse, Erfahrungen und
     Fertigkeiten vorgelegt werden;
-
 
 2.  eine ausreichende Deckungsvorsorge durch den Abschluss einer
     Versicherung oder die Freistellungs- oder Gewährleistungsverpflichtung
     eines Kreditunternehmens mit einer Mindestdeckungssumme von jeweils
-    250 000 Euro für einen verursachten Schaden. Die Deckungsvorsorge kann
+    250 000 Euro für einen verursachten Schaden. Die Deckungsvorsorge kann
     erbracht werden durch
 
     a)  eine Haftpflichtversicherung bei einem innerhalb der Mitgliedstaaten
@@ -865,22 +779,18 @@ Stellungnahme gegeben, sofern Fragen des Datenschutzes berührt sind.
         Abkommens über den Europäischen Wirtschaftsraum zum Geschäftsbetrieb
         befugten Versicherungsunternehmen oder
 
-
     b)  eine Freistellungs- oder Gewährleistungsverpflichtung eines in einem
         der Mitgliedstaaten der Europäischen Union oder in einem anderen
-        Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum zum
-        Geschäftsbetrieb befugten Kreditinstituts, wenn gewährleistet ist,
-        dass sie einer Haftpflichtversicherung vergleichbare Sicherheit
+        Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
+        zum Geschäftsbetrieb befugten Kreditinstituts, wenn gewährleistet
+        ist, dass sie einer Haftpflichtversicherung vergleichbare Sicherheit
         bietet.
-
-
 
     Soweit die Deckungsvorsorge durch eine Versicherung erbracht wird,
     gilt Folgendes:
 
     a)  Auf diese Versicherung finden § 113 Absatz 2 und 3 und die §§ 114 bis
         124 des Versicherungsvertragsgesetzes Anwendung.
-
 
     b)  Die Mindestversicherungssumme muss 2,5 Millionen Euro für den
         einzelnen Versicherungsfall betragen. Versicherungsfall ist jede
@@ -889,49 +799,41 @@ Stellungnahme gegeben, sofern Fragen des Datenschutzes berührt sind.
         alle in einem Versicherungsjahr verursachten Schäden vereinbart, muss
         sie mindestens das Vierfache der Mindestversicherungssumme betragen.
 
-
-    c)  Von der Versicherung kann die Leistung nur ausgeschlossen werden für
-        Ersatzansprüche aus vorsätzlich begangener Pflichtverletzung des
-        akkreditierten Diensteanbieters oder der Personen, für die er
+    c)  Von der Versicherung kann die Leistung nur ausgeschlossen werden
+        für Ersatzansprüche aus vorsätzlich begangener Pflichtverletzung
+        des akkreditierten Diensteanbieters oder der Personen, für die er
         einzustehen hat.
-
 
     d)  Die Vereinbarung eines Selbstbehaltes bis zu 1 Prozent der
         Mindestversicherungssumme ist zulässig;
 
-
-
-
-
 3.  die Erfüllung der technischen und organisatorischen Anforderungen an
-    die Pflichten im Sinne des Absatzes 1 Nummer 3 durch vom Bundesamt für
-    Sicherheit in der Informationstechnik nach § 9 Absatz 2 Satz 1 des
-    Gesetzes über das Bundesamt für Sicherheit in der Informationstechnik
-    zertifizierten IT-Sicherheitsdienstleistern erteilte Testate; das
-    Zusammenwirken mit den anderen akkreditierten Diensteanbietern kann
-    nur nach ausreichenden Prüfungen bestätigt werden; die Sicherheit der
-    Dienste kann nur nach einer umfassenden im Rahmen der Vergabe der
-    Testate stattfindenden Prüfung des Sicherheitskonzepts und der
-    eingesetzten IT-Infrastrukturen bestätigt werden; zum Zeitpunkt des
-    Inkrafttretens des Gesetzes erteilte Zertifikate können berücksichtigt
-    werden;
-
+    die Pflichten im Sinne des Absatzes 1 Nummer 3 durch vom Bundesamt
+    für Sicherheit in der Informationstechnik nach § 52 Absatz 2 Satz
+    1 des BSI-Gesetzes zertifizierten IT-Sicherheitsdienstleistern
+    erteilte Testate; das Zusammenwirken mit den anderen akkreditierten
+    Diensteanbietern kann nur nach ausreichenden Prüfungen bestätigt
+    werden; die Sicherheit der Dienste kann nur nach einer umfassenden
+    im Rahmen der Vergabe der Testate stattfindenden Prüfung des
+    Sicherheitskonzepts und der eingesetzten IT-Infrastrukturen bestätigt
+    werden; zum Zeitpunkt des Inkrafttretens des Gesetzes erteilte
+    Zertifikate können berücksichtigt werden;
 
 4.  die Erfüllung der datenschutzrechtlichen Anforderungen an das
     Datenschutzkonzept für die eingesetzten Verfahren und die eingesetzten
     informationstechnischen Einrichtungen durch Vorlage geeigneter
     Nachweise; der Nachweis wird dadurch geführt, dass der antragstellende
-    Diensteanbieter ein Zertifikat des oder der Bundesbeauftragten für den
-    Datenschutz und die Informationsfreiheit vorlegt; der oder die
+    Diensteanbieter ein Zertifikat des oder der Bundesbeauftragten für
+    den Datenschutz und die Informationsfreiheit vorlegt; der oder die
     Bundesbeauftragte für den Datenschutz und die Informationsfreiheit
     erteilt auf schriftlichen Antrag des Diensteanbieters ein Zertifikat,
     wenn die datenschutzrechtlichen Kriterien erfüllt sind; die Erfüllung
     der datenschutzrechtlichen Kriterien wird nachgewiesen durch ein
-    Gutachten, welches von einer vom Bund oder einem Land anerkannten oder
-    öffentlich bestellten oder beliehenen sachverständigen Stelle für
-    Datenschutz erstellt wurde; der oder die Bundesbeauftragte für den
-    Datenschutz und die Informationsfreiheit kann ergänzende Angaben
-    anfordern; die datenschutzrechtlichen Kriterien sind in einem
+    Gutachten, welches von einer vom Bund oder einem Land anerkannten
+    oder öffentlich bestellten oder beliehenen sachverständigen Stelle
+    für Datenschutz erstellt wurde; der oder die Bundesbeauftragte
+    für den Datenschutz und die Informationsfreiheit kann ergänzende
+    Angaben anfordern; die datenschutzrechtlichen Kriterien sind in einem
     Kriterienkatalog definiert, der in der Verantwortung des oder der
     Bundesbeauftragten für den Datenschutz und die Informationsfreiheit
     liegt und durch ihn oder sie im Bundesanzeiger und zusätzlich im
@@ -940,11 +842,8 @@ Stellungnahme gegeben, sofern Fragen des Datenschutzes berührt sind.
     zur Stellungnahme gegeben, sofern Fragen der IT-Sicherheit berührt
     sind.
 
-
-
-
-(4) Der Diensteanbieter kann, unter Einbeziehung in seine Konzepte zur
-Umsetzung der Anforderungen des Absatzes 1, zur Erfüllung von
+(4) Der Diensteanbieter kann, unter Einbeziehung in seine Konzepte
+zur Umsetzung der Anforderungen des Absatzes 1, zur Erfüllung von
 Pflichten nach diesem Gesetz Dritte beauftragen.
 
 
@@ -962,20 +861,16 @@ Mitglied- oder Vertragsstaat bestehende Kontrolle gewährleistet wird.
 
 (2) Die Prüfung der Gleichwertigkeit des ausländischen
 Diensteanbieters nach Absatz 1 obliegt der zuständigen Behörde. Die
-Gleichwertigkeit ausländischer Diensteanbieter ist gegeben, wenn die
-zuständige Behörde festgestellt hat, dass im Herkunftsland des
+Gleichwertigkeit ausländischer Diensteanbieter ist gegeben, wenn
+die zuständige Behörde festgestellt hat, dass im Herkunftsland des
 jeweiligen Diensteanbieters
 
 1.  die Sicherheitsanforderungen an Diensteanbieter,
 
-
 2.  die Prüfungsmodalitäten für Diensteanbieter sowie die Anforderungen an
     die für die Prüfung der Dienste zuständigen Stellen und
 
-
 3.  das Kontrollsystem
-
-
 
 eine gleichwertige Sicherheit bieten.
 
@@ -985,59 +880,53 @@ eine gleichwertige Sicherheit bieten.
 
 ### § 20 Aufsichtsmaßnahmen
 
-(1) Die Aufsicht über die Einhaltung dieses Gesetzes obliegt der
-zuständigen Behörde. Mit der Akkreditierung unterliegen
+(1) Die Aufsicht über die Einhaltung dieses Gesetzes obliegt
+der zuständigen Behörde. Mit der Akkreditierung unterliegen
 Diensteanbieter der Aufsicht der zuständigen Behörde.
 
 (2) Die zuständige Behörde kann gegenüber Diensteanbietern Maßnahmen
 treffen, um die Einhaltung dieses Gesetzes sicherzustellen.
 
-(3) Ungeachtet des Vorliegens von Testaten im Sinne des § 18 Absatz 3
-Nummer 3 kann die zuständige Behörde einem akkreditierten
+(3) Ungeachtet des Vorliegens von Testaten im Sinne des § 18
+Absatz 3 Nummer 3 kann die zuständige Behörde einem akkreditierten
 Diensteanbieter den Betrieb vorübergehend ganz oder teilweise
 untersagen, wenn Tatsachen die Annahme rechtfertigen, dass
 
 1.  eine Voraussetzung für die Akkreditierung nach § 17 Absatz 1
     weggefallen ist,
 
-
 2.  ungültige Einzelnachweise für das Angebot von De-Mail-Diensten
     verwendet oder bestätigt werden,
-
 
 3.  nachhaltig, erheblich oder dauerhaft gegen Pflichten verstoßen wird
     oder
 
-
 4.  sonstige Voraussetzungen für die Akkreditierung oder für die
     Anerkennung nach diesem Gesetz nicht erfüllt werden.
 
-
-
-
-(4) Die Gültigkeit der von einem akkreditierten Diensteanbieter im
-Rahmen des Postfach- und Versanddienstes ausgestellten
+(4) Die Gültigkeit der von einem akkreditierten Diensteanbieter
+im Rahmen des Postfach- und Versanddienstes ausgestellten
 Eingangsbestätigungen und Abholbestätigungen bleibt von der
 Untersagung des Betriebs, der Einstellung der Tätigkeit, der Rücknahme
 oder dem Widerruf einer Akkreditierung unberührt.
 
 (5) Soweit es zur Erfüllung der der zuständigen Behörde als
-Aufsichtsbehörde übertragenen Aufgaben erforderlich ist, haben die
-akkreditierten Diensteanbieter und die für diese nach § 18 Absatz 4
-tätigen Dritten der zuständigen Behörde und den in ihrem Auftrag
-handelnden Personen das Betreten der Geschäftsräume während der
-üblichen Betriebszeiten zu gestatten, auf Verlangen die in Betracht
-kommenden Bücher, Aufzeichnungen, Belege, Schriftstücke und sonstigen
-Unterlagen in geeigneter Weise zur Einsicht vorzulegen, auch soweit
-sie elektronisch geführt werden, Auskunft zu erteilen und die
-erforderliche Unterstützung zu gewähren. Ein Zugriff auf De-Mail-
-Nachrichten von Nutzern durch die zuständige Behörde als
-Aufsichtsbehörde findet nicht statt. Der zur Erteilung einer Auskunft
-Verpflichtete kann die Auskunft verweigern, wenn er sich damit selbst
-oder einen der in § 383 Absatz 1 Nummer 1 bis 3 der
-Zivilprozessordnung bezeichneten Angehörigen der Gefahr der Verfolgung
-wegen einer Straftat oder eines Verfahrens nach dem Gesetz über
-Ordnungswidrigkeiten aussetzen würde. Er ist auf dieses Recht
+Aufsichtsbehörde übertragenen Aufgaben erforderlich ist, haben
+die akkreditierten Diensteanbieter und die für diese nach § 18
+Absatz 4 tätigen Dritten der zuständigen Behörde und den in ihrem
+Auftrag handelnden Personen das Betreten der Geschäftsräume während
+der üblichen Betriebszeiten zu gestatten, auf Verlangen die in
+Betracht kommenden Bücher, Aufzeichnungen, Belege, Schriftstücke und
+sonstigen Unterlagen in geeigneter Weise zur Einsicht vorzulegen,
+auch soweit sie elektronisch geführt werden, Auskunft zu erteilen
+und die erforderliche Unterstützung zu gewähren. Ein Zugriff
+auf De-Mail-Nachrichten von Nutzern durch die zuständige Behörde
+als Aufsichtsbehörde findet nicht statt. Der zur Erteilung einer
+Auskunft Verpflichtete kann die Auskunft verweigern, wenn er
+sich damit selbst oder einen der in § 383 Absatz 1 Nummer 1 bis
+3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr der
+Verfolgung wegen einer Straftat oder eines Verfahrens nach dem Gesetz
+über Ordnungswidrigkeiten aussetzen würde. Er ist auf dieses Recht
 hinzuweisen.
 
 
@@ -1062,8 +951,8 @@ akkreditierten Diensteanbieter weiterentwickelt; dies gilt nicht für
 Anforderungen, die das Zusammenwirken zwischen den akkreditierten
 Diensteanbietern als solches oder die Sicherheit betreffen. Zu diesem
 Zweck wird ein Ausschuss De-Mail-Standardisierung gegründet, dem
-mindestens alle akkreditierten Diensteanbieter, je ein Vertreter von
-zwei auf Bundesebene bestehenden Gesamtverbänden, deren Belange
+mindestens alle akkreditierten Diensteanbieter, je ein Vertreter
+von zwei auf Bundesebene bestehenden Gesamtverbänden, deren Belange
 berührt sind, das Bundesamt für Sicherheit in der Informationstechnik,
 der oder die Bundesbeauftragte für den Datenschutz und die
 Informationsfreiheit, ein vom IT-Planungsrat beauftragter Vertreter
@@ -1083,60 +972,45 @@ im Jahr.
 1.  entgegen § 3 Absatz 1 Satz 3 nicht sicherstellt, dass nur der Nutzer
     Zugang erlangen kann,
 
-
 2.  entgegen § 3 Absatz 3 Satz 1 Nummer 1 erster Halbsatz oder Nummer 2
     eine dort genannte Angabe nicht oder nicht rechtzeitig überprüft,
-
 
 3.  entgegen § 4 Absatz 1 Satz 2 nicht sicherstellt, dass eine sichere
     Anmeldung nur in den dort genannten Fällen erfolgt,
 
-
 4.  entgegen § 4 Absatz 3 nicht sicherstellt, dass eine
     Kommunikationsverbindung verschlüsselt erfolgt,
 
-
 5.  entgegen § 7 Absatz 2 Satz 1 Nummer 2 oder 4 dort genannte Daten nicht
     oder nicht rechtzeitig löscht,
-
 
 6.  entgegen § 10 Absatz 1 Satz 1 oder Absatz 4 Satz 1 Nummer 2 den Zugang
     zu einem De-Mail-Konto nicht oder nicht rechtzeitig sperrt oder das
     De-Mail-Konto nicht oder nicht rechtzeitig auflöst,
 
-
 7.  entgegen § 11 Absatz 1 Satz 1 eine Anzeige nicht, nicht richtig oder
     nicht rechtzeitig erstattet,
-
 
 8.  entgegen § 11 Absatz 1 Satz 3 einen Nutzer nicht, nicht richtig oder
     nicht rechtzeitig benachrichtigt,
 
-
 9.  entgegen § 11 Absatz 2 nicht sicherstellt, dass die dort genannten
     Daten abrufbar bleiben,
-
 
 10. entgegen § 12 den Zugriff auf dort genannte Daten nicht ermöglicht
     oder einen Hinweis nicht, nicht richtig oder nicht rechtzeitig gibt,
 
-
 11. entgegen § 13 Absatz 1 eine Dokumentation nicht oder nicht richtig
     erstellt,
-
 
 12. entgegen § 13 Absatz 2 eine Dokumentation nicht oder nicht mindestens
     zehn Jahre aufbewahrt oder
 
-
 13. entgegen § 17 Absatz 1 Satz 6 sich auf die nachgewiesene Sicherheit
     beruft oder das Gütezeichen führt.
 
-
-
-
-(2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 5
-und 6 mit einer Geldbuße bis zu dreihunderttausend Euro und in den
+(2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer
+5 und 6 mit einer Geldbuße bis zu dreihunderttausend Euro und in den
 übrigen Fällen mit einer Geldbuße bis zu fünfzigtausend Euro geahndet
 werden.
 
@@ -1148,9 +1022,13 @@ der Informationstechnik.
 ### § 24 (weggefallen)
 
 
-
 ### § 25 Verfahren über eine einheitliche Stelle
 
 Verwaltungsverfahren nach diesem Gesetz können über eine einheitliche
 Stelle abgewickelt werden.
+
+
+### § 26 Außerkrafttreten
+
+Dieses Gesetz tritt mit Ablauf des 31. Dezember 2026 außer Kraft.
 

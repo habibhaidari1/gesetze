@@ -1,7 +1,5 @@
 ---
-Title: Hundertvierunddreißigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung
-  von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Sonderlandeplatz
-  Hamburg-Finkenwerder)
+Title: Hundertvierunddreißigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Sonderlandeplatz Hamburg-Finkenwerder)
 jurabk: LuftVODV 134
 layout: default
 origslug: luftvodv_134
@@ -16,4 +14,7 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BAnz: 1993, Nr 212, 9966
+
+Fundstelle
+:   BAnz: 1993, 9966
 

@@ -19,7 +19,6 @@ Geändert durch
 :   Art. 11 G v. 17.7.2017 I 2421
 
 
-
 ## Eingangsformel
 
 Die Reichsregierung hat zur Durchführung des Ersten Abkommens zur
@@ -49,11 +48,10 @@ Verhältnis, wie ihr Gesamtbetrag zum Höchstbetrag steht.
 
 (1) An Stelle der in Artikel 22 des Abkommens in französischer Währung
 festgesetzten Höchstbeträge treten die entsprechenden Beträge in
-deutscher
-Reichs             währung.
+deutscher *Reichs*währung.
 
 (2) Der Bundesminister der Justiz wird ermächtigt, durch eine
-Rechtsverordnung, die der Zustimmung des Bundesrates nicht bedarf, den
-Umrechnungssatz für französische Franken entsprechend dem amtlich
+Rechtsverordnung, die der Zustimmung des Bundesrates nicht bedarf,
+den Umrechnungssatz für französische Franken entsprechend dem amtlich
 festgestellten Goldpreis in deutsche Mark vorzuschreiben.
 

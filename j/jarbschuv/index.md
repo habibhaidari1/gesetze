@@ -15,6 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1990, 2221
 
+Geändert durch
+:   Art. 19 V v. 11.12.2024 I Nr. 411
 
 
 ## Eingangsformel
@@ -26,18 +28,18 @@ verordnet der Bundesminister für Arbeit und Sozialordnung:
 
 ## § 1 Durchführung der Untersuchungen
 
-(1) Der Arzt, der einen Jugendlichen nach den §§ 32 bis 35 oder nach §
-42 des Jugendarbeitsschutzgesetzes untersucht, hat unter
+(1) Der Arzt, der einen Jugendlichen nach den §§ 32 bis 35 oder
+nach § 42 des Jugendarbeitsschutzgesetzes untersucht, hat unter
 Berücksichtigung der Krankheitsvorgeschichte des Jugendlichen auf
 Grund der Untersuchungen zu beurteilen, ob dessen Gesundheit und
-Entwicklung durch die Ausführung bestimmter Arbeiten oder durch die
-Beschäftigung während bestimmter Zeiten gefährdet wird, ob eine
+Entwicklung durch die Ausführung bestimmter Arbeiten oder durch
+die Beschäftigung während bestimmter Zeiten gefährdet wird, ob eine
 außerordentliche Nachuntersuchung oder eine Ergänzungsuntersuchung
 erforderlich ist oder ob besondere der Gesundheit dienende Maßnahmen
 nötig sind (§ 37 Jugendarbeitsschutzgesetz).
 
-(2) Als Tag der Untersuchung (§ 32 Abs. 1 Nr. 1, § 33 Abs. 1 und § 34
-Jugendarbeitsschutzgesetz) gilt der Tag der abschließenden
+(2) Als Tag der Untersuchung (§ 32 Abs. 1 Nr. 1, § 33 Abs. 1 und
+§ 34 Jugendarbeitsschutzgesetz) gilt der Tag der abschließenden
 Beurteilung.
 
 
@@ -54,49 +56,46 @@ ausgegebenen Untersuchungsberechtigungsschein beifügt.
 Zur Vorbereitung einer Untersuchung nach § 32 Abs. 1 des
 Jugendarbeitsschutzgesetzes (Erstuntersuchung) erhält der Jugendliche
 von der nach Landesrecht zuständigen Stelle einen Erhebungsbogen nach
-dem Muster der Anlage 1 in weißer Farbe, zur Vorbereitung einer
-Untersuchung nach § 33 Abs. 1, §§ 34, 35 Abs. 1 oder § 42 des
-Jugendarbeitsschutzgesetzes (Nachuntersuchung) einen Erhebungsbogen
-nach dem Muster der Anlage 1a in roter Farbe. Der Erhebungsbogen soll,
-vom Personensorgeberechtigten ausgefüllt und von diesem und dem
-Jugendlichen unterschrieben, dem Arzt bei der Untersuchung vorgelegt
-werden.
+dem Muster der Anlage 1, zur Vorbereitung einer Untersuchung nach §
+33 Abs. 1, §§ 34, 35 Abs. 1 oder § 42 des Jugendarbeitsschutzgesetzes
+(Nachuntersuchung) einen Erhebungsbogen nach dem Muster der Anlage
+1a. Der Erhebungsbogen soll, vom Personensorgeberechtigten ausgefüllt
+und von diesem und dem Jugendlichen unterschrieben, dem Arzt bei der
+Untersuchung vorgelegt werden.
 
 
 ## § 4 Untersuchungsbogen
 
-(1) Für die Aufzeichnung der Ergebnisse einer Erstuntersuchung hat der
-Arzt einen Untersuchungsbogen nach dem Muster der Anlage 2 in weißer
-Farbe, für die Aufzeichnung der Ergebnisse einer Nachuntersuchung
-einen Untersuchungsbogen nach dem Muster der Anlage 2a in roter Farbe
-zu verwenden.
+(1) Für die Aufzeichnung der Ergebnisse einer Erstuntersuchung hat
+der Arzt einen Untersuchungsbogen nach dem Muster der Anlage 2,
+für die Aufzeichnung der Ergebnisse einer Nachuntersuchung einen
+Untersuchungsbogen nach dem Muster der Anlage 2a zu verwenden.
 
 (2) Der Arzt hat die Untersuchungsbogen 10 Jahre aufzubewahren.
 
 
 ## § 5 Ärztliche Mitteilung an den Personensorgeberechtigten
 
-Für die ärztliche Mitteilung an den Personensorgeberechtigten nach §
-39 Abs. 1 des Jugendarbeitsschutzgesetzes hat der Arzt bei einer
-Erstuntersuchung einen Vordruck nach dem Muster der Anlage 3 in weißer
-Farbe, bei einer Nachuntersuchung einen Vordruck nach dem Muster der
-Anlage 3a in roter Farbe zu verwenden.
+Für die ärztliche Mitteilung an den Personensorgeberechtigten nach
+§ 39 Abs. 1 des Jugendarbeitsschutzgesetzes hat der Arzt bei einer
+Erstuntersuchung und bei einer Nachuntersuchung einen Vordruck nach
+dem Muster der Anlage 3 zu verwenden.
 
 
 ## § 6 Ärztliche Bescheinigung für den Arbeitgeber
 
-Für die ärztliche Bescheinigung für den Arbeitgeber nach § 39 Abs. 2
-des Jugendarbeitsschutzgesetzes hat der Arzt bei einer
-Erstuntersuchung einen Vordruck nach dem Muster der Anlage 4 in weißer
-Farbe, bei einer Nachuntersuchung einen Vordruck nach dem Muster der
-Anlage 4a in roter Farbe zu verwenden.
+Für die ärztliche Bescheinigung für den Arbeitgeber nach § 39
+Abs. 2 des Jugendarbeitsschutzgesetzes hat der Arzt bei einer
+Erstuntersuchung und bei einer Nachuntersuchung einen Vordruck nach
+dem Muster der Anlage 4 zu verwenden.
 
 
-## § 7 Berlin-Klausel
+## § 7 Übermittlung von Unterlagen
 
-Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
-Verbindung mit § 71 des Jugendarbeitsschutzgesetzes auch im Land
-Berlin.
+Bei der Übermittlung von Unterlagen nach den in dieser Verordnung
+vorgesehenen Mustern sind die in den Mustern vorgesehenen
+Unterschriften in schriftlicher Form zu leisten oder mit einer
+qualifizierten elektronischen Signatur zu versehen.
 
 
 ## § 8 Inkrafttreten, abgelöste Vorschrift
@@ -112,38 +111,366 @@ Der Bundesrat hat zugestimmt.
 
 ## Anlage 1 Erhebungsbogen für die Erstuntersuchung nach dem Jugendarbeitsschutzgesetz (JArbSchG)
 
-![pdf_grafik_jarbschuv_b0335.jpg](pdf_grafik_jarbschuv_b0335.jpg)![pdf_grafik_jarbschuv_b0336.jpg](pdf_grafik_jarbschuv_b0336.jpg)
-(Farbe rot)
+(Fundstelle: BGBl. 2024 I Nr. 411, S. 43)
 
-## Anlage 1a Erhebungsbogen für die Nachuntersuchung nach dem Jugendschutzgesetz (JArbSchG)
+**– vom Personensorgeberechtigten****auszufüllen und von ihm und dem
+Jugendlichen zu unterschreiben;**
+**dem Arzt vom Jugendlichen bei der Untersuchung vorzulegen –**
 
-![pdf_grafik_jarbschuv_b0337.jpg](pdf_grafik_jarbschuv_b0337.jpg)![pdf_grafik_jarbschuv_b0338.jpg](pdf_grafik_jarbschuv_b0338.jpg)
-Zum Verbleib beim Untersuchenden Arzt
+|  |  | UBS-ID |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Name, Vorname, Geburtsdatum des Jugendlichen |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | Straße, Hausnummer, Postleitzahl, Wohnort |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | Beabsichtigte berufliche Tätigkeit |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | Name, Vorname, Postanschrift des Personensorgeberechtigten (falls abweichend von der Postanschrift des Jugendlichen) |  |  |  |  |  |  |  |  |  |  |  |  |
 
-## Anlage 2 Untersuchungsbogen
+Zutreffendes bitte ⊠ ankreuzen, wenn es besteht oder „ein Verdacht
+auf“ existiert.
 
-![pdf_grafik_jarbschuv_b0339.jpg](pdf_grafik_jarbschuv_b0339.jpg)![pdf_grafik_jarbschuv_b0340.jpg](pdf_grafik_jarbschuv_b0340.jpg)![pdf_grafik_jarbschuv_b0341.jpg](pdf_grafik_jarbschuv_b0341.jpg)![pdf_grafik_jarbschuv_b0342.jpg](pdf_grafik_jarbschuv_b0342.jpg)![pdf_grafik_jarbschuv_b0343.jpg](pdf_grafik_jarbschuv_b0343.jpg)![pdf_grafik_jarbschuv_b0344.jpg](pdf_grafik_jarbschuv_b0344.jpg)
-(Farbe rot)
-Zum Verbleib beim untersuchenden Arzt
+A   **Vorgeschichte des Jugendlichen**
 
-## Anlage 2a Untersuchungsbogen
+A.1 **Krankheiten/Behinderungen:**
 
-![pdf_grafik_jarbschuv_b0345.jpg](pdf_grafik_jarbschuv_b0345.jpg)![pdf_grafik_jarbschuv_b0346.jpg](pdf_grafik_jarbschuv_b0346.jpg)![pdf_grafik_jarbschuv_b0347.jpg](pdf_grafik_jarbschuv_b0347.jpg)![pdf_grafik_jarbschuv_b0348.jpg](pdf_grafik_jarbschuv_b0348.jpg)![pdf_grafik_jarbschuv_b0349.jpg](pdf_grafik_jarbschuv_b0349.jpg)![pdf_grafik_jarbschuv_b0350.jpg](pdf_grafik_jarbschuv_b0350.jpg)
+    | ☐ Augenkrankheiten | ☐ Ohrenkrankheiten | ☐ Anfallsleiden |
+    | --- | --- | --- |
+    | ☐ Asthma | ☐ Herz-Kreislauf-Krankheiten | ☐ Zuckerkrankheit |
+    | ☐ Knochen-Gelenk-Krankheiten | ☐ Hautkrankheiten | ☐ Allergien |
+    | ☐ andere Krankheiten/Behinderungen | welche: _____________________________________________ |  |
+    | ☐ Operationen/Unfälle | welche: _____________________________________________ |  |
+    |  | wann: ______________________________________________ |  |
+    |  | ☐ noch Beschwerden/Folgen |  |
+    |  | welche: _____________________________________________ |  |
+
+A.2 **Häufige Beschwerden (Beispiele):**
+
+    | ☐ Husten | ☐ Atemnot | ☐ Kopfschmerz |
+    | --- | --- | --- |
+    | ☐ Schwindel | ☐ Ohnmacht | ☐ Hautausschläge |
+    | ☐ Sonstige: _____________________________________________________________________________ |  |  |
+
+A.3 | ☐ **Zurzeit in ärztlicher Behandlung** | Grund: _________________________________________ |
+    | --- | --- |
+
+A.4 | ☐ **Regelmäßige Medikamenteneinnahme** | welche: ________________________________________ |
+    | --- | --- |
+
+| **Bitte – falls vorhanden – zur Untersuchung mitbringen: Impfnachweise, Sehhilfen (Brillenpass), Allergiepass, Feststellungsbescheide über Behinderungen.** |
+| --- |
+
+| (Datum) |  | (Unterschrift des Personensorgeberechtigten) |  | (Unterschrift des Jugendlichen) |
+| --- | --- | --- | --- | --- |
+
+__________
+
+
+## Anlage 1a Erhebungsbogen für die Nachuntersuchungen nach dem Jugendarbeitsschutzgesetz (JArbSchG)
+
+(Fundstelle: BGBl. 2024 I Nr. 411, S. 44)
+
+**– vom Personensorgeberechtigten****auszufüllen und von ihm und dem
+Jugendlichen zu unterschreiben;**
+**dem Arzt vom Jugendlichen bei der Untersuchung vorzulegen –**
+
+|  |  | UBS-ID |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Name, Vorname, Geburtsdatum des Jugendlichen |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | Straße, Hausnummer, Postleitzahl, Wohnort |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | Berufliche Tätigkeit | Arbeitgeber mit Anschrift |  |  |  |  |  |  |  |  |  |  |  |
+|  | Name, Vorname, Postanschrift des Personensorgeberechtigten (falls abweichend von der Postanschrift des Jugendlichen) |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | Bisherige Untersuchungen (Jahr/Monat) | Name und Anschrift des Arztes |  |  |  |  |  |  |  |  |  |  |  |
+
+Zutreffendes bitte ⊠ ankreuzen, wenn es besteht oder „ein Verdacht
+auf“ existiert.
+
+A   **Vorgeschichte des Jugendlichen**
+
+A.1 **Krankheiten/Behinderungen:**
+
+    | ☐ Augenkrankheiten | ☐ Ohrenkrankheiten | ☐ Anfallsleiden |
+    | --- | --- | --- |
+    | ☐ Asthma | ☐ Herz-Kreislauf-Krankheiten | ☐ Zuckerkrankheit |
+    | ☐ Knochen-Gelenk-Krankheiten | ☐ Hautkrankheiten | ☐ Allergien |
+    | ☐ andere Krankheiten/Behinderungen | welche: _____________________________________________ |  |
+    | ☐ Operationen/Unfälle | welche: _____________________________________________ |  |
+    |  | wann: ______________________________________________ |  |
+    |  | ☐ noch Beschwerden/Folgen |  |
+    |  | welche: _____________________________________________ |  |
+
+A.2 **Häufige Beschwerden (Beispiele):**
+
+    | ☐ Husten | ☐ Atemnot | ☐ Kopfschmerz |
+    | --- | --- | --- |
+    | ☐ Schwindel | ☐ Ohnmacht | ☐ Hautausschläge |
+    | ☐ Sonstige: _____________________________________________________________________________ |  |  |
+
+A.3 | ☐ **Zurzeit in ärztlicher Behandlung** | Grund: _________________________________________ |
+    | --- | --- |
+
+A.4 | ☐ **Regelmäßige Medikamenteneinnahme** | welche: ________________________________________ |
+    | --- | --- |
+
+A.5 | **Arbeitsunfähigkeit insgesamt** | ☐ 1 bis 6 Tage☐ 7 bis 14 Tage☐ mehr als 14 Tage |
+    | --- | --- |
+    | ☐ 1 bis 6 Tage | ☐ 7 bis 14 Tage☐ mehr als 14 Tage |
+    | ☐ 7 bis 14 Tage | ☐ mehr als 14 Tage |
+    | ☐ mehr als 14 Tage |  |
+
+A.6 **Gibt es seit Arbeitsbeginn tätigkeitsbezogene Gesundheitsstörungen?
+    ** ________________________
+
+| **Bitte – falls vorhanden – zur Untersuchung mitbringen: Impfnachweise, Sehhilfen (Brillenpass), Allergiepass, Feststellungsbescheide über Behinderungen, Arbeitsunfähigkeitsbescheinigungen seit Arbeits-/Ausbildungsbeginn.** |
+| --- |
+
+| (Datum) |  | (Unterschrift des Personensorgeberechtigten) |  | (Unterschrift des Jugendlichen) |
+| --- | --- | --- | --- | --- |
+
+__________
+
+
+## Anlage 2 Zum Verbleib beim untersuchenden Arzt Erhebungs-/Untersuchungsbogen (Teil 2)
+
+(Fundstelle: BGBl. 2024 I Nr. 411, S. 45)
+
+Erstuntersuchung nach § 32 Absatz 1 Jugendarbeitsschutzgesetz
+(JArbSchG)
+
+| Name, Vorname des Jugendlichen, Geburtsdatum |
+| --- |
+
+Tag der Untersuchung: _____________________
+
+Zutreffendes bitte ⊠ ankreuzen.
+
+B   **Untersuchungen folgender Organe/Systeme erforderlich:**
+
+B.1 Größe (cm) ______________ Gewicht (teilbekleidet) (kg) ______________
+
+B.2 | **Haut** | ☐ Ekzem | ☐ Akne | ☐ Sonstiges: _______________ |
+    | --- | --- | --- | --- |
+
+B.3 | **Visus** | ☐ eingeschränkt | ☐ ausreichend mit Sehhilfe korrigiert |
+    | --- | --- | --- |
+
+B.4 | **Farbtüchtigkeit (pseudoisochromatische Farbtafeln oder Testgerät)** | ☐ rot/grün gestört | ☐ andere Störung: ___________ |
+    | --- | --- | --- |
+
+B.5 | **Hörvermögen** | ☐ rechts eingeschränkt | ☐ links eingeschränkt |
+    | --- | --- | --- |
+
+B.6 | **Lungen** | ☐ Nebengeräusche | ☐ Sonstiges: _______________ |
+    | --- | --- | --- |
+
+B.7 | **Herz-Kreislauf** | ☐ Rhythmusstörungen | ☐ pathologisches Geräusch | ☐ Sonstiges: _______________ |
+    | --- | --- | --- | --- |
+
+    |  | Puls im Sitzen (n/min) | ___________ |
+    | --- | --- | --- |
+    |  | Blutdruck im Sitzen (systolisch) (mmHg) | ___________ |
+    |  | Blutdruck im Sitzen (diastolisch) (mmHg) | ___________ |
+
+B.8 | **Abdomen** | ☐ Druckschmerz | ☐ Bruch/-anlage | ☐ pathologische Resistenz |
+    | --- | --- | --- | --- |
+    |  | ☐ Sonstiges: _____________________________ |  |  |
+
+B.9 | **Wirbelsäule** | ☐ statische Auffälligkeiten | ☐ Bewegungseinschränkungen ______________________ |
+    | --- | --- | --- |
+
+B.10 | **Extremitäten** | ☐ Durchblutungsstörung ____________________________________________________ |
+     | --- | --- |
+     |  | ☐ Bewegungseinschränkungen ______________________________________________ |
+     |  | ☐ Sensibilitätsstörung ______________________________________________________ |
+     |  | ☐ Kraftminderung _________________________________________________________ |
+
+B.11 **Psyche/zentrales Nervensystem** ☐ grobe Auffälligkeit
+     ___________________________________
+
+B.12 **Alkoholkonsum/Drogen/Spielsucht/Nikotinkonsum**
+
+     ______________________________________________________________________________________
+
+B.13 ☐ sonstige Auffälligkeiten in der Patientenakte dokumentiert
+
+     ☐ Ergänzungsuntersuchung erforderlich, Grund:
+     ______________________________________________
+
+     Fachrichtung:
+     ________________________________________________________________________
+
+__________
+
+
+## Anlage 2a Zum Verbleib beim untersuchenden Arzt Erhebungs-/Nachuntersuchungsbogen (Teil 2)
+
+(Fundstelle: BGBl. 2024 I Nr. 411, S. 46)
+
+Nachuntersuchung nach §§ 33 bis 35 und § 42 Jugendarbeitsschutzgesetz
+(JArbSchG)
+
+| Name, Vorname des Jugendlichen, Geburtsdatum |
+| --- |
+
+Tag der Untersuchung: _____________________
+
+Zutreffendes bitte ⊠ ankreuzen.
+
+B   **Untersuchungen folgender Organe/Systeme erforderlich:**
+
+B.1 Größe (cm) ______________ Gewicht (teilbekleidet) (kg) ______________
+
+B.2 | **Haut** | ☐ Ekzem | ☐ Akne | ☐ Sonstiges: _______________ |
+    | --- | --- | --- | --- |
+
+B.3 | **Visus** | ☐ eingeschränkt | ☐ ausreichend mit Sehhilfe korrigiert |
+    | --- | --- | --- |
+
+B.4 | **Farbtüchtigkeit (pseudoisochromatische Farbtafeln oder Testgerät)** | ☐ rot/grün gestört | ☐ andere Störung: ___________ |
+    | --- | --- | --- |
+
+B.5 | **Hörvermögen** | ☐ rechts eingeschränkt | ☐ links eingeschränkt |
+    | --- | --- | --- |
+
+B.6 | **Lungen** | ☐ Nebengeräusche | ☐ Sonstiges: _______________ |
+    | --- | --- | --- |
+
+B.7 | **Herz-Kreislauf** | ☐ Rhythmusstörungen | ☐ pathologisches Geräusch | ☐ Sonstiges: _______________ |
+    | --- | --- | --- | --- |
+
+    |  | Puls im Sitzen (n/min) | ___________ |
+    | --- | --- | --- |
+    |  | Blutdruck im Sitzen (systolisch) (mmHg) | ___________ |
+    |  | Blutdruck im Sitzen (diastolisch) (mmHg) | ___________ |
+
+B.8 | **Abdomen** | ☐ Druckschmerz | ☐ Bruch/-anlage | ☐ pathologische Resistenz |
+    | --- | --- | --- | --- |
+    |  | ☐ Sonstiges: _____________________________ |  |  |
+
+B.9 | **Wirbelsäule** | ☐ statische Auffälligkeiten | ☐ Bewegungseinschränkungen ______________________ |
+    | --- | --- | --- |
+
+B.10 | **Extremitäten** | ☐ Durchblutungsstörung ____________________________________________________ |
+     | --- | --- |
+     |  | ☐ Bewegungseinschränkungen ______________________________________________ |
+     |  | ☐ Sensibilitätsstörung ______________________________________________________ |
+     |  | ☐ Kraftminderung _________________________________________________________ |
+
+B.11 **Psyche/zentrales Nervensystem** ☐ grobe Auffälligkeit
+     ___________________________________
+
+B.12 **Alkoholkonsum/Drogen/Spielsucht/Nikotinkonsum**
+
+     ______________________________________________________________________________________
+
+B.13 | Angaben zur Arbeitsvorgeschichte: Wegdauer zu/von der Arbeitsstätte: ______________. Beginn und Ende der Arbeitszeit: _______________. Wechselschicht ☐ Sind seit Arbeitsaufnahme gesundheitliche Beschwerden aufgetreten und wenn ja, wurden diese in Verbindung mit der ausgeübten Tätigkeit gebracht? _______________________________________________________________________________________ |
+     | --- |
+     | Ist ein Ausbildungs-/Arbeitsverhältnis aus gesundheitlichen Gründen abgebrochen worden? Wenn ja, weshalb? _______________________________________________________________________________________ |
+
+     ☐ sonstige Auffälligkeiten in der Patientenakte dokumentiert
+
+     ☐ Ergänzungsuntersuchung erforderlich, Grund:
+     ______________________________________________
+
+     Fachrichtung:
+     ________________________________________________________________________
+
+__________
+
 
 ## Anlage 3 Ärztliche Mitteilung an den Personensorgeberechtigten
 
-![pdf_grafik_jarbschuv_b0351.jpg](pdf_grafik_jarbschuv_b0351.jpg)![pdf_grafik_jarbschuv_b0352.jpg](pdf_grafik_jarbschuv_b0352.jpg)
-(Farbe rot)
+(Fundstelle: BGBl. 2024 I Nr. 411, S. 47)
 
-## Anlage 3a Ärztliche Mitteilung an den Personensorgeberechtigten
+Erstuntersuchung nach § 32 Absatz 1 und Nachuntersuchungen nach §§ 33
+bis 35 und § 42 Jugendarbeitsschutzgesetz (JArbSchG)
 
-![pdf_grafik_jarbschuv_b0353.jpg](pdf_grafik_jarbschuv_b0353.jpg)![pdf_grafik_jarbschuv_b0354.jpg](pdf_grafik_jarbschuv_b0354.jpg)
+|  | Name, Vorname, Geburtsdatum des Jugendlichen (Versichertenstammdaten) | Aufgrund der Untersuchung halte ich die Gesundheit des Jugendlichen durch die Ausübung nachstehend angekreuzter Arbeiten für gefährdet. Nach § 40 Absatz 1 JArbSchG darf der Jugendliche mit diesen Arbeiten nicht beschäftigt werden. |  |
+| --- | --- | --- | --- |
+
+Zutreffendes bitte ⊠ ankreuzen.
+
+| ☐ Erstuntersuchung (gem. § 32 Abs. 1 JArbschG) |  |
+| --- | --- |
+| ☐ Erste Nachuntersuchung (gem. § 33 Abs. 1 JArbSchG) | ☐ Weitere Nachuntersuchung (gem. § 34 JArbSchG) |
+| ☐ Außerordentliche Nachuntersuchung (gem. § 35 JArbSchG) | ☐ Angeordnete Nachuntersuchung (gem. § 42 JArbSchG) |
+
+**Folgende Arbeiten müssen vermieden werden:**
+
+| ☐ | Überwiegendes Stehen. |
+| --- | --- |
+| ☐ | Überwiegendes Gehen. |
+| ☐ | Überwiegendes Sitzen. |
+| ☐ | Häufiges Einnehmen einer Zwangshaltung (z. B. Bücken, Hocken, Knien) _____________________________ |
+| ☐ | Häufiges Heben, Tragen oder Bewegen von Lasten ohne mechanische Hilfsmittel. |
+| ☐ | Arbeiten mit erhöhter Absturzgefahr. |
+| ☐ | Arbeiten mit besonderen klimatischen Belastungen (z. B. Kälte, Hitze, Nässe, Zugluft, starke Temperaturschwankungen) _________________________________ |
+| ☐ | Arbeiten mit physikalischen Belastungen (z. B. Lärm, mechanische Schwingungen/Erschütterungen) _________________________________________ |
+| ☐ | Arbeiten mit chemischer Belastung für die Haut oder der Schleimhäute durch Gase, Stäube, Dämpfe, Rauch ___________________________________________________________________________________ |
+| ☐ | Arbeiten, die die volle Sehkraft ohne Sehhilfe erfordern. |
+| ☐ | Arbeiten, die die Farbtüchtigkeit erfordern. |
+| ☐ | Sonstige Arbeiten: _________________________________________________________________________ |
+
+**Das wesentliche Ergebnis der Untersuchung ist**
+
+| ☐ | Normalbefund |  |
+| --- | --- | --- |
+| ☐ | Eine außerordentliche Nachuntersuchung nach § 35 Absatz 1 JArbSchG wird angeordnet: |  |
+|  |  | nach Ablauf von Monaten __________________________ |
+|  |  | spätestens bis zum _______________________________ |
+| ☐ | Es wird empfohlen, dass der Jugendliche sich möglichst bald einem Arzt/Zahnarzt vorstellt, wegen _______________________________________________________________________________________ |  |
+| Empfehlungen: ________________________________________________________________________________ |  |  |
+
+| (Ort, Datum der abschließenden Beurteilung) |  | (Unterschrift des untersuchenden Arztes) |
+| --- | --- | --- |
+
+**Zur Beachtung:** Vor Ablauf des ersten Beschäftigungsjahres vor
+dem 18. Geburtstag ist eine Nachuntersuchung erforderlich. Falls
+die öffentliche Berufsberatung in Anspruch genommen wird, sollte ihr
+von dem Personensorgeberechtigten im Interesse des Jugendlichen das
+vorstehende Untersuchungsergebnis mitgeteilt werden.
+
+__________
+
 
 ## Anlage 4 Ärztliche Bescheinigung für den Arbeitgeber
 
-![pdf_grafik_jarbschuv_b0355.jpg](pdf_grafik_jarbschuv_b0355.jpg)![pdf_grafik_jarbschuv_b0356.jpg](pdf_grafik_jarbschuv_b0356.jpg)
-(Farbe rot)
+(Fundstelle: BGBl. 2024 I Nr. 411, S. 48)
 
-## Anlage 4a Ärztliche Bescheinigung für den Arbeitgeber
+Erstuntersuchung nach § 32 Absatz 1 und Nachuntersuchungen nach §§ 33
+bis 35 und § 42 Jugendarbeitsschutzgesetz (JArbSchG)
 
-![pdf_grafik_jarbschuv_b0357.jpg](pdf_grafik_jarbschuv_b0357.jpg)![pdf_grafik_jarbschuv_b0358.jpg](pdf_grafik_jarbschuv_b0358.jpg)
+|  | Name, Vorname, Geburtsdatum des Jugendlichen (Versichertenstammdaten) | Aufgrund der Untersuchung halte ich die Gesundheit des Jugendlichen durch die Ausübung nachstehend angekreuzter Arbeiten für gefährdet. Nach § 40 Absatz 1 JArbSchG darf der Jugendliche mit diesen Arbeiten nicht beschäftigt werden. |  |
+| --- | --- | --- | --- |
+
+Zutreffendes bitte ⊠ ankreuzen.
+
+| ☐ Erstuntersuchung (gem. § 32 Abs. 1 JArbschG) |  |
+| --- | --- |
+| ☐ Erste Nachuntersuchung (gem. § 33 Abs. 1 JArbSchG) | ☐ Weitere Nachuntersuchung (gem. § 34 JArbSchG) |
+| ☐ Außerordentliche Nachuntersuchung (gem. § 35 JArbSchG) | ☐ Angeordnete Nachuntersuchung (gem. § 42 JArbSchG) |
+
+**Folgende Arbeiten müssen vermieden werden:**
+
+| ☐ | Überwiegendes Stehen. |
+| --- | --- |
+| ☐ | Überwiegendes Gehen. |
+| ☐ | Überwiegendes Sitzen. |
+| ☐ | Häufiges Einnehmen einer Zwangshaltung (z. B. Bücken, Hocken, Knien) _____________________________ |
+| ☐ | Häufiges Heben, Tragen oder Bewegen von Lasten ohne mechanische Hilfsmittel. |
+| ☐ | Arbeiten mit erhöhter Absturzgefahr. |
+| ☐ | Arbeiten mit besonderen klimatischen Belastungen (z. B. Kälte, Hitze, Nässe, Zugluft, starke Temperaturschwankungen) _________________________________ |
+| ☐ | Arbeiten mit physikalischen Belastungen (z. B. Lärm, mechanische Schwingungen/Erschütterungen) _________________________________________ |
+| ☐ | Arbeiten mit chemischer Belastung für die Haut oder der Schleimhäute durch Gase, Stäube, Dämpfe, Rauch ___________________________________________________________________________________ |
+| ☐ | Arbeiten, die die volle Sehkraft ohne Sehhilfe erfordern. |
+| ☐ | Arbeiten, die die Farbtüchtigkeit erfordern. |
+| ☐ | Sonstige Arbeiten: _________________________________________________________________________ |
+
+| (Ort, Datum der abschließenden Beurteilung) |  | (Unterschrift des untersuchenden Arztes) |
+| --- | --- | --- |
+
+**Zur Beachtung:** Vor Ablauf des ersten Beschäftigungsjahres vor
+dem 18. Geburtstag ist eine Nachuntersuchung erforderlich. Falls
+die öffentliche Berufsberatung in Anspruch genommen wird, sollte ihr
+von dem Personensorgeberechtigten im Interesse des Jugendlichen das
+vorstehende Untersuchungsergebnis mitgeteilt werden.
+
+__________
+

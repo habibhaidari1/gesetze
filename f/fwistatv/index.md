@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl I: 1986, 361
 
 
-
 ## Eingangsformel
 
 Auf Grund des § 72 Abs. 4 Nr. 2 des Filmförderungsgesetzes vom 25.

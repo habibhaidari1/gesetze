@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Einfuhrabgabenfreiheit von Waren in Sendungen von Privatpersonen
-  an Privatpersonen
+Title: Verordnung über die Einfuhrabgabenfreiheit von Waren in Sendungen von Privatpersonen an Privatpersonen
 jurabk: NKommerzWAbgV
 layout: default
 origslug: nkommerzwabgv
@@ -17,7 +16,7 @@ Fundstelle
 :   BGBl I: 1979, 73
 
 Zuletzt geändert durch
-:   Art. 3 V v. 22.12.2003, 2004 I 21
+:   Art. 3 V v. 22.12.2003; 2004 I 21
 
 
 ## Eingangsformel
@@ -31,16 +30,16 @@ Artikels 3 des Vierzehnten Gesetzes zur Änderung des Zollgesetzes vom
 ## § 1 Kleinsendungen nichtkommerzieller Art
 
 (1) Frei von Einfuhrabgaben (§ 1 Abs. 1 Satz 3 des
-Zollverwaltungsgesetzes vom 21. Dezember 1992 (BGBl. I S. 2125, 1993 I
-S. 2493), das zuletzt durch Artikel 1 des Gesetzes vom 31. Oktober
+Zollverwaltungsgesetzes vom 21. Dezember 1992 (BGBl. I S. 2125, 1993
+I S. 2493), das zuletzt durch Artikel 1 des Gesetzes vom 31. Oktober
 2003 (BGBl. I S. 2146) geändert worden ist, in der jeweils geltenden
 Fassung) sind, vorbehaltlich des Absatzes 2, Waren in Kleinsendungen
 bis zu einem Warenwert je Sendung von insgesamt 45 Euro.
 Kleinsendungen sind gelegentliche Sendungen nichtkommerzieller Art,
 die von natürlichen Personen aus Gebieten, die weder zum Zollgebiet
-der Gemeinschaft noch zu der Insel Helgoland gehören, unentgeltlich an
-andere natürliche Personen gesandt werden und ausschließlich zum
-persönlichen Gebrauch oder Verbrauch im Haushalt des Empfängers
+der Gemeinschaft noch zu der Insel Helgoland gehören, unentgeltlich
+an andere natürliche Personen gesandt werden und ausschließlich
+zum persönlichen Gebrauch oder Verbrauch im Haushalt des Empfängers
 bestimmt sind.
 
 (2) Bei den nachstehend bezeichneten Waren ist die
@@ -50,21 +49,14 @@ Einfuhrabgabenfreiheit auf die folgenden Höchstmengen beschränkt:
 
     50  Zigaretten oder
 
-
     25  Zigarillos (Zigarren mit einem Stückgewicht von höchstens 3 Gramm)
         oder
 
-
     10  Zigarren oder
-
 
     50  Gramm Rauchtabak oder
 
-
-
-
     eine anteilige Zusammenstellung dieser Waren;
-
 
 2.  Alkohol und alkoholhaltige Getränke:
 
@@ -78,17 +70,11 @@ Einfuhrabgabenfreiheit auf die folgenden Höchstmengen beschränkt:
 
         eine anteilige Zusammenstellung dieser Waren und
 
-
     b)  2 Liter nicht schäumende Weine;
-
-
-
-
 
 3.  Parfüms: 50 Gramm oder
 
     Toilettewasser: 0,25 Liter;
-
 
 4.  Kaffee:
 
@@ -97,8 +83,6 @@ Einfuhrabgabenfreiheit auf die folgenden Höchstmengen beschränkt:
     200 Gramm Auszüge, Essenzen oder Konzentrate aus Kaffee oder
     Zubereitungen auf der Grundlage dieser Waren oder auf der Grundlage
     von Kaffee.
-
-
 
 Die Mengenbeschränkungen nach Nummer 4 gelten nicht für die
 Zollfreiheit.

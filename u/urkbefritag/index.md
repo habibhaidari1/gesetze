@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zu dem Vertrag vom 7. Juni 1969 zwischen der Bundesrepublik Deutschland
-  und der Italienischen Republik über den Verzicht auf die Legalisation von Urkunden
+Title: Gesetz zu dem Vertrag vom 7. Juni 1969 zwischen der Bundesrepublik Deutschland und der Italienischen Republik über den Verzicht auf die Legalisation von Urkunden
 jurabk: UrkBefrITAG
 layout: default
 origslug: urkbefritag
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl II: 1974, 1069
-
 
 
 ## Eingangsformel
@@ -50,17 +48,11 @@ Die Beglaubigung nach Artikel 2 des Vertrages wird mit den
 entsprechenden Ergänzungen in der folgenden Form auf der Urkunde
 selbst oder auf einem mit der Urkunde zu verbindenden Blatt erteilt:
 
-*
-    *   Beglaubigung
+-   -   Beglaubigung
 
         (Vertrag zwischen der Bundesrepublik Deutschland und der Italienischen
         Republik vom 7. Juni 1969 über den Verzicht auf die Legalisation von
         Urkunden)
-
-
-
-
-
 
 Diese öffentliche Urkunde ist unterschrieben
 von
@@ -69,24 +61,9 @@ und versehen mit dem Siegel oder Stempel des/der
 Bestätigt in ... am ...
 durch
 
-*
-    *
-        *
-            Siegel Unterschrift
-
-
-
-
-
-
+-   -   -   Siegel Unterschrift
 
         Stempel
-
-
-
-
-
-
 
 
 ## Art 4

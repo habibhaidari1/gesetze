@@ -16,14 +16,14 @@ Fundstelle
 :   BGBl I: 2011, 2975
 
 Zuletzt geändert durch
-:   Art. 2 G v. 3.6.2021 I 1444
+:   Art. 3 G v. 3.4.2025 I Nr. 107
 
 
 ## § 1 Kinderschutz und staatliche Mitverantwortung
 
-(1) Ziel des Gesetzes ist es, das Wohl von Kindern und Jugendlichen zu
-schützen und ihre körperliche, geistige und seelische Entwicklung zu
-fördern.
+(1) Ziel des Gesetzes ist es, das Wohl von Kindern und Jugendlichen
+zu schützen und ihre körperliche, geistige und seelische Entwicklung
+zu fördern.
 
 (2) Pflege und Erziehung der Kinder und Jugendlichen sind das
 natürliche Recht der Eltern und die zuvörderst ihnen obliegende
@@ -35,18 +35,13 @@ Erziehungsverantwortung zu unterstützen, damit
 
 1.  sie im Einzelfall dieser Verantwortung besser gerecht werden können,
 
-
 2.  im Einzelfall Risiken für die Entwicklung von Kindern und Jugendlichen
     frühzeitig erkannt werden und
-
 
 3.  im Einzelfall eine Gefährdung des Wohls eines Kindes oder eines
     Jugendlichen vermieden oder, falls dies im Einzelfall nicht mehr
     möglich ist, eine weitere Gefährdung oder Schädigung abgewendet werden
     kann.
-
-
-
 
 (4) Zu diesem Zweck umfasst die Unterstützung der Eltern bei der
 Wahrnehmung ihres Erziehungsrechts und ihrer Erziehungsverantwortung
@@ -65,11 +60,11 @@ Leistungsangebote im örtlichen Einzugsbereich zur Beratung und Hilfe
 in Fragen der Schwangerschaft, Geburt und der Entwicklung des Kindes
 in den ersten Lebensjahren informiert werden.
 
-(2) Zu diesem Zweck sind die nach Landesrecht für die Information der
-Eltern nach Absatz 1 zuständigen Stellen befugt, den Eltern ein
-persönliches Gespräch anzubieten. Dieses kann auf Wunsch der Eltern in
-ihrer Wohnung stattfinden. Sofern Landesrecht keine andere Regelung
-trifft, bezieht sich die in Satz 1 geregelte Befugnis auf die
+(2) Zu diesem Zweck sind die nach Landesrecht für die Information
+der Eltern nach Absatz 1 zuständigen Stellen befugt, den Eltern
+ein persönliches Gespräch anzubieten. Dieses kann auf Wunsch der
+Eltern in ihrer Wohnung stattfinden. Sofern Landesrecht keine andere
+Regelung trifft, bezieht sich die in Satz 1 geregelte Befugnis auf die
 örtlichen Träger der Jugendhilfe.
 
 
@@ -77,38 +72,38 @@ trifft, bezieht sich die in Satz 1 geregelte Befugnis auf die
 
 (1) In den Ländern werden insbesondere im Bereich Früher Hilfen
 flächendeckend verbindliche Strukturen der Zusammenarbeit der
-zuständigen Leistungsträger und Institutionen im Kinderschutz mit dem
-Ziel aufgebaut und weiterentwickelt, sich gegenseitig über das
+zuständigen Leistungsträger und Institutionen im Kinderschutz mit
+dem Ziel aufgebaut und weiterentwickelt, sich gegenseitig über das
 jeweilige Angebots- und Aufgabenspektrum zu informieren, strukturelle
 Fragen der Angebotsgestaltung und -entwicklung zu klären sowie
 Verfahren im Kinderschutz aufeinander abzustimmen.
 
-(2) In das Netzwerk sollen insbesondere Einrichtungen und Dienste der
-öffentlichen und freien Jugendhilfe, Leistungserbringer, mit denen
-Verträge nach § 125 des Neunten Buches Sozialgesetzbuch bestehen,
-Gesundheitsämter, Sozialämter, Schulen, Polizei- und Ordnungsbehörden,
-Agenturen für Arbeit, Krankenhäuser, Sozialpädiatrische Zentren,
-Frühförderstellen, Beratungsstellen für soziale Problemlagen,
-Beratungsstellen nach den §§ 3 und 8 des
-Schwangerschaftskonfliktgesetzes, Einrichtungen und Dienste zur
-Müttergenesung sowie zum Schutz gegen Gewalt in engen sozialen
+(2) In das Netzwerk sollen insbesondere Einrichtungen und Dienste
+der öffentlichen und freien Jugendhilfe, Leistungserbringer, mit
+denen Verträge nach § 125 des Neunten Buches Sozialgesetzbuch
+bestehen, Gesundheitsämter, Sozialämter, Schulen, Polizei-
+und Ordnungsbehörden, Agenturen für Arbeit, Krankenhäuser,
+Sozialpädiatrische Zentren, Frühförderstellen, Beratungsstellen für
+soziale Problemlagen, Beratungsstellen nach den §§ 3 und 8 Absatz
+1 des Schwangerschaftskonfliktgesetzes, Einrichtungen und Dienste
+zur Müttergenesung sowie zum Schutz gegen Gewalt in engen sozialen
 Beziehungen, Mehrgenerationenhäuser, Familienbildungsstätten,
 Familiengerichte und Angehörige der Heilberufe einbezogen werden.
 
 (3) Sofern Landesrecht keine andere Regelung trifft, soll die
-verbindliche Zusammenarbeit im Kinderschutz als Netzwerk durch den
-örtlichen Träger der Jugendhilfe organisiert werden. Die Beteiligten
-sollen die Grundsätze für eine verbindliche Zusammenarbeit in
-Vereinbarungen festlegen. Auf vorhandene Strukturen soll
+verbindliche Zusammenarbeit im Kinderschutz als Netzwerk durch
+den örtlichen Träger der Jugendhilfe organisiert werden. Die
+Beteiligten sollen die Grundsätze für eine verbindliche Zusammenarbeit
+in Vereinbarungen festlegen. Auf vorhandene Strukturen soll
 zurückgegriffen werden.
 
 (4) Dieses Netzwerk soll zur Beförderung Früher Hilfen durch den
 Einsatz von Familienhebammen gestärkt werden. Das Bundesministerium
-für Familie, Senioren, Frauen und Jugend unterstützt den Aus- und
-Aufbau der Netzwerke Frühe Hilfen und des Einsatzes von
+für Familie, Senioren, Frauen und Jugend unterstützt den Aus-
+und Aufbau der Netzwerke Frühe Hilfen und des Einsatzes von
 Familienhebammen auch unter Einbeziehung ehrenamtlicher Strukturen
-durch eine zeitlich auf vier Jahre befristete Bundesinitiative, die im
-Jahr 2012 mit 30 Millionen Euro, im Jahr 2013 mit 45 Millionen Euro
+durch eine zeitlich auf vier Jahre befristete Bundesinitiative, die
+im Jahr 2012 mit 30 Millionen Euro, im Jahr 2013 mit 45 Millionen Euro
 und in den Jahren 2014 und 2015 mit 51 Millionen Euro ausgestattet
 wird. Nach Ablauf dieser Befristung wird der Bund einen Fonds zur
 Sicherstellung der Netzwerke Frühe Hilfen und der psychosozialen
@@ -129,37 +124,29 @@ Ländern schließt.
     für die Berufsausübung oder die Führung der Berufsbezeichnung eine
     staatlich geregelte Ausbildung erfordert,
 
-
 2.  Berufspsychologinnen oder -psychologen mit staatlich anerkannter
     wissenschaftlicher Abschlussprüfung,
 
-
 3.  Ehe-, Familien-, Erziehungs- oder Jugendberaterinnen oder -beratern
     sowie
-
 
 4.  Beraterinnen oder Beratern für Suchtfragen in einer Beratungsstelle,
     die von einer Behörde oder Körperschaft, Anstalt oder Stiftung des
     öffentlichen Rechts anerkannt ist,
 
-
 5.  Mitgliedern oder Beauftragten einer anerkannten Beratungsstelle nach
-    den §§ 3 und 8 des Schwangerschaftskonfliktgesetzes,
-
+    den §§ 3 und 8 Absatz 1 des Schwangerschaftskonfliktgesetzes,
 
 6.  staatlich anerkannten Sozialarbeiterinnen oder -arbeitern oder
     staatlich anerkannten Sozialpädagoginnen oder -pädagogen oder
 
-
 7.  Lehrerinnen oder Lehrern an öffentlichen und an staatlich anerkannten
     privaten Schulen
 
-
-
-in Ausübung ihrer beruflichen Tätigkeit gewichtige Anhaltspunkte für
-die Gefährdung des Wohls eines Kindes oder eines Jugendlichen bekannt,
-so sollen sie mit dem Kind oder Jugendlichen und den
-Erziehungsberechtigten die Situation erörtern und, soweit
+in Ausübung ihrer beruflichen Tätigkeit gewichtige Anhaltspunkte
+für die Gefährdung des Wohls eines Kindes oder eines Jugendlichen
+bekannt, so sollen sie mit dem Kind oder Jugendlichen und
+den Erziehungsberechtigten die Situation erörtern und, soweit
 erforderlich, bei den Erziehungsberechtigten auf die Inanspruchnahme
 von Hilfen hinwirken, soweit hierdurch der wirksame Schutz des Kindes
 oder des Jugendlichen nicht in Frage gestellt wird.
@@ -168,29 +155,29 @@ oder des Jugendlichen nicht in Frage gestellt wird.
 Kindeswohlgefährdung gegenüber dem Träger der öffentlichen Jugendhilfe
 Anspruch auf Beratung durch eine insoweit erfahrene Fachkraft. Sie
 sind zu diesem Zweck befugt, dieser Person die dafür erforderlichen
-Daten zu übermitteln; vor einer Übermittlung der Daten sind diese zu
-pseudonymisieren.
+Daten zu übermitteln; vor einer Übermittlung der Daten sind diese
+zu pseudonymisieren.
 
-(3) Scheidet eine Abwendung der Gefährdung nach Absatz 1 aus oder ist
-ein Vorgehen nach Absatz 1 erfolglos und halten die in Absatz 1
+(3) Scheidet eine Abwendung der Gefährdung nach Absatz 1 aus oder
+ist ein Vorgehen nach Absatz 1 erfolglos und halten die in Absatz 1
 genannten Personen ein Tätigwerden des Jugendamtes für erforderlich,
 um eine Gefährdung des Wohls eines Kindes oder eines Jugendlichen
 abzuwenden, so sind sie befugt, das Jugendamt zu informieren; hierauf
 sind die Betroffenen vorab hinzuweisen, es sei denn, dass damit der
 wirksame Schutz des Kindes oder des Jugendlichen in Frage gestellt
 wird. Zu diesem Zweck sind die Personen nach Satz 1 befugt, dem
-Jugendamt die erforderlichen Daten mitzuteilen. Die Sätze 1 und 2
-gelten für die in Absatz 1 Nummer 1 genannten Personen mit der
+Jugendamt die erforderlichen Daten mitzuteilen. Die Sätze 1 und
+2 gelten für die in Absatz 1 Nummer 1 genannten Personen mit der
 Maßgabe, dass diese unverzüglich das Jugendamt informieren sollen,
-wenn nach deren Einschätzung eine dringende Gefahr für das Wohl des
-Kindes oder des Jugendlichen das Tätigwerden des Jugendamtes
+wenn nach deren Einschätzung eine dringende Gefahr für das Wohl
+des Kindes oder des Jugendlichen das Tätigwerden des Jugendamtes
 erfordert.
 
 (4) Wird das Jugendamt von einer in Absatz 1 genannten Person
-informiert, soll es dieser Person zeitnah eine Rückmeldung geben, ob
-es die gewichtigen Anhaltspunkte für die Gefährdung des Wohls des
-Kindes oder Jugendlichen bestätigt sieht und ob es zum Schutz des
-Kindes oder Jugendlichen tätig geworden ist und noch tätig ist.
+informiert, soll es dieser Person zeitnah eine Rückmeldung geben,
+ob es die gewichtigen Anhaltspunkte für die Gefährdung des Wohls
+des Kindes oder Jugendlichen bestätigt sieht und ob es zum Schutz
+des Kindes oder Jugendlichen tätig geworden ist und noch tätig ist.
 Hierauf sind die Betroffenen vorab hinzuweisen, es sei denn, dass
 damit der wirksame Schutz des Kindes oder des Jugendlichen in Frage
 gestellt wird.
@@ -211,8 +198,8 @@ Gefährdung des Wohls eines Kindes oder eines Jugendlichen bekannt,
 informiert die Strafverfolgungsbehörde oder das Gericht unverzüglich
 den zuständigen örtlichen Träger der öffentlichen Jugendhilfe sowie im
 Falle seiner Zuständigkeit den überörtlichen Träger der öffentlichen
-Jugendhilfe und übermittelt die aus ihrer Sicht zur Einschätzung des
-Gefährdungsrisikos erforderlichen Daten. Die Mitteilung ordnen
+Jugendhilfe und übermittelt die aus ihrer Sicht zur Einschätzung
+des Gefährdungsrisikos erforderlichen Daten. Die Mitteilung ordnen
 Richterinnen oder Richter, Staatsanwältinnen oder Staatsanwälte an. §
 4 Absatz 2 gilt entsprechend.
 
@@ -220,7 +207,60 @@ Richterinnen oder Richter, Staatsanwältinnen oder Staatsanwälte an. §
 dann vorliegen, wenn gegen eine Person, die mit einem Kind oder
 Jugendlichen in häuslicher Gemeinschaft lebt oder die regelmäßig
 Umgang mit ihm hat oder haben wird, der Verdacht besteht, eine
-Straftat nach den §§ 171, 174, 176 bis 180, 182, 184b bis 184e, 225,
-232 bis 233a, 234, 235 oder 236 des Strafgesetzbuchs begangen zu
-haben.
+Straftat nach den §§ 171, 174, 176 bis 180, 182, 184b bis 184e,
+225, 232 bis 233a, 234, 235 oder 236 des Strafgesetzbuchs begangen
+zu haben.
+
+
+## § 6 Beratung im medizinischen Kinderschutz
+
+(1) Das Bundesministerium für Familie, Senioren, Frauen und
+Jugend stellt sicher, dass ein telefonisches Beratungsangebot im
+medizinischen Kinderschutz insbesondere für
+
+1.  Ärztinnen und Ärzte, Psychotherapeutinnen und Psychotherapeuten,
+    Zahnärztinnen und Zahnärzte, Hebammen und Entbindungspfleger sowie
+    Angehörige eines anderen Heilberufes, der für die Berufsausübung oder
+    die Führung der Berufsbezeichnung eine staatlich geregelte Ausbildung
+    erfordert,
+
+2.  Fachkräfte, die hauptberuflich oder nebenamtlich bei einem Träger
+    der öffentlichen oder freien Jugendhilfe oder einem Träger oder
+    Leistungserbringer der Eingliederungshilfe beschäftigt sind, und
+
+3.  Familienrichterinnen und Familienrichter
+
+bei Anhaltspunkten für die Gefährdung des Wohls eines Kindes oder
+eines Jugendlichen bedarfsgerecht zur Verfügung steht.
+
+(2) Das Beratungsangebot nach Absatz 1 ist unter einer entgeltfreien
+Rufnummer erreichbar und umfasst eine kostenlose Erstberatung und
+Information zu medizinischen Fragestellungen im Zusammenhang mit einer
+Kindeswohlgefährdung, zu adäquaten Vorgehensweisen bei Anhaltspunkten
+für eine Kindeswohlgefährdung sowie bei Bedarf zu geeigneten
+Ansprechpartnerinnen und Ansprechpartnern für eine weiterführende
+Beratung. Die medizinische Beratung nach Satz 1 erfolgt vertraulich.
+
+(3) Die Aufgaben nach Absatz 2 werden von insoweit erfahrenen
+Ärztinnen und Ärzten aus den Bereichen Rechtsmedizin, Kinder-
+und Jugendpsychiatrie und -psychotherapie und Kinder- und
+Jugendheilkunde sowie von insoweit erfahrenen Psychotherapeutinnen und
+Psychotherapeuten wahrgenommen.
+
+(4) Personenbezogene Daten dürfen verarbeitet werden, soweit dies für
+die in Absatz 2 genannten Zwecke erforderlich ist.
+
+(5) Das Bundesministerium für Familie, Senioren, Frauen und Jugend
+kann die Ausführung der ihm nach Absatz 1 obliegenden Aufgabe auch
+auf eine andere geeignete öffentliche Einrichtung übertragen. Erfolgt
+eine Übertragung nach Satz 1, nimmt das Bundesministerium für Familie,
+Senioren, Frauen und Jugend die Fachaufsicht wahr.
+
+(6) Das Bundesministerium für Familie, Senioren, Frauen und Jugend
+oder eine andere geeignete öffentliche Einrichtung nach Absatz 5
+evaluiert nach einem Jahr die Bedarfsgerechtigkeit des im Rahmen
+eines Modellprojekts 24 Stunden täglich zur Verfügung gestellten
+telefonischen Beratungsangebots. Die Wirkungen des telefonischen
+Beratungsangebots insgesamt werden erstmals nach zwei Jahren, im
+Folgenden alle vier Jahre evaluiert.
 

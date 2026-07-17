@@ -34,40 +34,31 @@ eingefügt worden ist, verordnet das Bundesministerium der Justiz:
 (1) Abdrucke aus Schuldnerverzeichnissen dürfen nur Inhabern einer
 Bewilligung nach den Vorschriften dieses Abschnitts erteilt werden.
 
-(2) Die Bewilligung ist zu erteilen, wenn die Voraussetzungen der §§
-882f und 882g Absatz 1 und 2 der Zivilprozessordnung und dieser
+(2) Die Bewilligung ist zu erteilen, wenn die Voraussetzungen der
+§§ 882f und 882g Absatz 1 und 2 der Zivilprozessordnung und dieser
 Verordnung erfüllt sind.
 
 (3) Die Bewilligung ist zu versagen, wenn
 
 1.  der Antragsteller schuldhaft unrichtige Angaben macht,
 
-
 2.  die Voraussetzungen vorliegen, unter denen die Bewilligung gemäß § 7
     Absatz 1 widerrufen werden könnte,
-
 
 3.  Tatsachen vorliegen, welche die Unzuverlässigkeit des Antragstellers
     in Bezug auf die Verarbeitung personenbezogener Daten begründen, oder
 
-
 4.  dem Antragsteller oder einer Person, die im Auftrag des Antragstellers
     die aus dem Schuldnerverzeichnis zu beziehenden Daten verarbeitet, der
     Betrieb eines Gewerbes untersagt ist.
-
-
-
 
 (4) Die Bewilligung des Bezugs von Abdrucken berechtigt Kammern,
 
 1.  die Abdrucke in Listen zusammenzufassen oder hiermit Dritte zu
     beauftragen und
 
-
 2.  die Listen ihren Mitgliedern oder Mitgliedern anderer Kammern auf
     Antrag zum laufenden Bezug zu überlassen.
-
-
 
 Die Überlassung von Listen ist unzulässig, wenn bei den
 Listenbeziehern die Voraussetzungen der §§ 882f und 882g Absatz 1 und
@@ -94,60 +85,51 @@ sind auf Verlangen glaubhaft zu machen.
 Vorliegen der in den §§ 882f und 882g Absatz 2 der Zivilprozessordnung
 geforderten Voraussetzungen ergibt. Darüber hinaus muss er enthalten:
 
-1.  die Angabe von Wohn- oder Geschäftssitz des Antragstellers; die Angabe
-    von Gewerbe- oder Handelsregistereintragung oder des ausgeübten
+1.  die Angabe von Wohn- oder Geschäftssitz des Antragstellers; die
+    Angabe von Gewerbe- oder Handelsregistereintragung oder des ausgeübten
     Berufs;
-
 
 2.  die Angabe der elektronischen Kontaktdaten für die Übermittlung der
     Abdrucke nach § 9 Absatz 1 Satz 1;
 
-
 3.  die Angabe, ob, wann, bei welchem Gericht und mit welchem Ergebnis
     bereits Anträge im Sinne dieses Abschnitts gestellt wurden;
-
 
 4.  die Erklärung, in welcher der dem Gericht möglichen Formen die
     Abdrucke erteilt werden sollen;
 
-
 5.  die Angabe, ob Listen gefertigt werden sollen;
-
 
 6.  die Angabe, von wem die Listen gefertigt und an wen diese
     weitergegeben werden sollen;
-
 
 7.  die Angabe, ob Einzelauskünfte im automatisierten Abrufverfahren
     erteilt werden sollen.
 
 
-
-
-
 ### § 4 Speicherung von Daten des Antragstellers
 
-(1) Für die Bewilligung des Bezugs von Abdrucken sowie die Einrichtung
-und Ausgestaltung des Abrufverfahrens von Abdrucken können
-personenbezogene Daten des Antragstellers, insbesondere der Name des
-Antragstellers, das Datum des Antrags sowie die Angaben des
-Antragstellers nach § 3 Absatz 2 von dem zentralen
+(1) Für die Bewilligung des Bezugs von Abdrucken sowie die
+Einrichtung und Ausgestaltung des Abrufverfahrens von Abdrucken
+können personenbezogene Daten des Antragstellers, insbesondere
+der Name des Antragstellers, das Datum des Antrags sowie die
+Angaben des Antragstellers nach § 3 Absatz 2 von dem zentralen
 Vollstreckungsgericht oder der nach § 882h Absatz 1 Satz 3 der
 Zivilprozessordnung zuständigen Stelle verarbeitet werden.
 
-(2) Im Fall der Ablehnung oder Rücknahme des Antrags werden der Name
-des Antragstellers, das Datum des Antrags sowie die Angaben des
+(2) Im Fall der Ablehnung oder Rücknahme des Antrags werden der
+Name des Antragstellers, das Datum des Antrags sowie die Angaben des
 Antragstellers nach § 3 Absatz 2 Nummer 1 und 2 von dem zentralen
 Vollstreckungsgericht oder der nach § 882h Absatz 1 Satz 3 der
-Zivilprozessordnung zuständigen Stelle erfasst und gespeichert. Diese
-Angaben dürfen nur verarbeitet werden, um Mehrfachanträge und
+Zivilprozessordnung zuständigen Stelle erfasst und gespeichert.
+Diese Angaben dürfen nur verarbeitet werden, um Mehrfachanträge und
 Bewilligungshindernisse zu erkennen.
 
 (3) Die Frist für die Aufbewahrung oder Speicherung beträgt sechs
 Jahre ab dem Ende des Jahres, in dem der Antrag gestellt wurde. Nach
 Ablauf der Frist nach Satz 1 oder mit dem Fristablauf der Bewilligung
-nach § 5 Absatz 2 in Verbindung mit § 6 Absatz 1 sind die Angaben zu
-löschen.
+nach § 5 Absatz 2 in Verbindung mit § 6 Absatz 1 sind die Angaben
+zu löschen.
 
 
 ### § 5 Bewilligung
@@ -159,19 +141,14 @@ ist nicht übertragbar.
 
 1.  die Entscheidung über den Antrag,
 
-
 2.  Bedingungen,
-
 
 3.  Auflagen, Befristungen und der Vorbehalt des Widerrufs.
 
-
-
-
-(3) Die Bewilligung enthält die Belehrung über die vom Begünstigten zu
-beachtenden datenschutzrechtlichen Vorschriften, insbesondere der
-Zivilprozessordnung und dieser Verordnung. In den Fällen des § 9
-Absatz 1 Satz 2 ist ferner über die anzuwendenden
+(3) Die Bewilligung enthält die Belehrung über die vom Begünstigten
+zu beachtenden datenschutzrechtlichen Vorschriften, insbesondere
+der Zivilprozessordnung und dieser Verordnung. In den Fällen
+des § 9 Absatz 1 Satz 2 ist ferner über die anzuwendenden
 Datenübermittlungsregeln zu belehren. Auf § 7 ist gesondert
 hinzuweisen. Der Bewilligung ist eine Rechtsmittelbelehrung
 beizufügen.
@@ -186,20 +163,16 @@ Beziehers der Abdrucke zuständig ist.
 (1) Die Bewilligung ist auf mindestens ein Jahr und höchstens sechs
 Jahre zu befristen.
 
-(2) Zum Zweck der Einhaltung der Vorschriften der §§ 882e bis 882h der
-Zivilprozessordnung, der datenschutzrechtlichen Vorschriften und
+(2) Zum Zweck der Einhaltung der Vorschriften der §§ 882e bis 882h
+der Zivilprozessordnung, der datenschutzrechtlichen Vorschriften und
 dieser Verordnung kann die Bewilligung ergehen mit Bestimmungen,
 
 1.  durch die dem Begünstigten ein Tun, Dulden oder Unterlassen
     vorgeschrieben wird (Auflagen) und
 
-
 2.  nach denen der Eintritt oder der Wegfall einer Vergünstigung oder
     Belastung von dem ungewissen Eintritt eines zukünftigen Ereignisses
     abhängt (Bedingung).
-
-
-
 
 
 ### § 7 Widerruf und Rücknahme von Bewilligungen
@@ -210,33 +183,30 @@ Satz 1 und 2 des Verwaltungsverfahrensgesetzes entsprechend.
 (2) Für die Rücknahme von Bewilligungen gilt § 48 Absatz 1, 3 und 4
 des Verwaltungsverfahrensgesetzes entsprechend.
 
-(3) Über Widerruf und Rücknahme von Bewilligungen entscheidet die nach
-§ 2 zuständige Stelle. Wenn die Bewilligung widerrufen oder
+(3) Über Widerruf und Rücknahme von Bewilligungen entscheidet die
+nach § 2 zuständige Stelle. Wenn die Bewilligung widerrufen oder
 zurückgenommen wird, ist die Entscheidung
 
 1.  dem Inhaber der Bewilligung mit Rechtsmittelbelehrung zuzustellen und
-
 
 2.  den Leitern oder Leiterinnen der zentralen Vollstreckungsgerichte
     mitzuteilen, bei denen weitere Anträge auf Erteilung einer Bewilligung
     zugunsten des ehemaligen Inhabers der Bewilligung gestellt wurden.
 
-
-
 Sind aus den Abdrucken Listen gefertigt und weitergegeben worden, so
 ist die rechtskräftige Entscheidung den Beziehern der Listen unter
 Hinweis auf ihre Pflichten nach Absatz 4 bekannt zu geben. Betrifft
-die Entscheidung eine Kammer, erfolgen die Mitteilungen nach Satz 2
-Nummer 2 durch diese, im Übrigen durch das entscheidende Gericht.
+die Entscheidung eine Kammer, erfolgen die Mitteilungen nach Satz
+2 Nummer 2 durch diese, im Übrigen durch das entscheidende Gericht.
 Benachrichtigungen nach Satz 3 erfolgen durch die betroffene Kammer.
 
 (4) Ist eine Bewilligung rechtskräftig widerrufen oder zurückgenommen,
 so sind Abdrucke sowie daraus gefertigte Dateien, Listen und sonstige
 Aufzeichnungen unverzüglich und ordnungsgemäß zu löschen oder zu
 vernichten. Bezieher der Abdrucke und Inhaber von Listen können dazu
-durch Zwangsgeld angehalten werden. Das einzelne Zwangsgeld darf den
-Betrag von 25 000 Euro nicht übersteigen. Ist die Verhängung von
-Zwangsgeld untunlich oder erfolglos, so ist die Ersatzvornahme
+durch Zwangsgeld angehalten werden. Das einzelne Zwangsgeld darf
+den Betrag von 25 000 Euro nicht übersteigen. Ist die Verhängung
+von Zwangsgeld untunlich oder erfolglos, so ist die Ersatzvornahme
 anzuordnen.
 
 
@@ -245,9 +215,9 @@ anzuordnen.
 
 ### § 8 Inhalt von Abdrucken
 
-(1) Abdrucke werden als Vollabdruck oder als Teilabdruck erteilt. Der
-Vollabdruck enthält alle Eintragungen im Schuldnerverzeichnis. Der
-Teilabdruck enthält nur die seit der letzten Abdruckerstellung
+(1) Abdrucke werden als Vollabdruck oder als Teilabdruck erteilt.
+Der Vollabdruck enthält alle Eintragungen im Schuldnerverzeichnis.
+Der Teilabdruck enthält nur die seit der letzten Abdruckerstellung
 eingetretenen Änderungen.
 
 (2) An gut sichtbarer Stelle ist auf die Pflichten hinzuweisen, die
@@ -274,28 +244,21 @@ insbesondere gewährleisten, dass
 1.  nur Befugte personenbezogene Daten zur Kenntnis nehmen können
     (Vertraulichkeit),
 
-
 2.  personenbezogene Daten während der Verarbeitung unversehrt,
     vollständig und aktuell bleiben (Integrität),
-
 
 3.  personenbezogene Daten zeitgerecht zur Verfügung stehen und
     ordnungsgemäß verarbeitet werden können (Verfügbarkeit),
 
-
 4.  personenbezogene Daten jederzeit ihrem Ursprung zugeordnet werden
     können (Authentizität),
-
 
 5.  festgestellt werden kann, wer wann welche personenbezogenen Daten in
     welcher Weise verarbeitet hat (Revisionsfähigkeit), und
 
-
 6.  die Verfahrensweisen bei der Verarbeitung personenbezogener Daten
     vollständig, aktuell und in einer Weise dokumentiert sind, dass sie in
     zumutbarer Zeit nachvollzogen werden können (Transparenz).
-
-
 
 Werden zur Übermittlung öffentliche Telekommunikationsnetze genutzt,
 ist ein geeignetes Verschlüsselungsverfahren zu verwenden.
@@ -308,15 +271,10 @@ sind
 
 1.  die Ersatzzustellung nach § 178 der Zivilprozessordnung,
 
-
 2.  die Zustellung bei verweigerter Annahme nach § 179 der
     Zivilprozessordnung sowie
 
-
 3.  die öffentliche Zustellung nach § 185 der Zivilprozessordnung.
-
-
-
 
 (4) Der Empfänger der Daten nach Absatz 1 hat durch geeignete
 Vorkehrungen sicherzustellen, dass die Anforderungen des Absatzes 2
@@ -325,16 +283,12 @@ Bewilligung hat dafür Sorge zu tragen, dass ihm überlassene Abdrucke
 
 1.  gesondert aufbewahrt werden,
 
-
 2.  bis zu ihrer Vernichtung jederzeit auffindbar sind und
-
 
 3.  gegen unbefugten Zugriff gesichert sind.
 
-
-
-Satz 2 gilt auch für Vervielfältigungen und jede andere Form der
-Bearbeitung der Abdrucke, insbesondere zum Zweck ihrer
+Satz 2 gilt auch für Vervielfältigungen und jede andere Form
+der Bearbeitung der Abdrucke, insbesondere zum Zweck ihrer
 Maschinenlesbarkeit.
 
 
@@ -345,18 +299,18 @@ einstweilen ausgeschlossen werden, wenn Tatsachen bekannt werden, die
 eine hinreichende Wahrscheinlichkeit begründen, dass die Bewilligung
 alsbald widerrufen oder zurückgenommen wird.
 
-(2) Über den einstweiligen Ausschluss entscheidet die nach § 2
-zuständige Stelle. Die Entscheidung ist mit einer
-Rechtsmittelbelehrung zu versehen und zuzustellen; § 7 Absatz 3 Satz 2
-Nummer 2 und Satz 4 gilt entsprechend. Die Wirksamkeit der
+(2) Über den einstweiligen Ausschluss entscheidet die
+nach § 2 zuständige Stelle. Die Entscheidung ist mit einer
+Rechtsmittelbelehrung zu versehen und zuzustellen; § 7 Absatz 3
+Satz 2 Nummer 2 und Satz 4 gilt entsprechend. Die Wirksamkeit der
 Entscheidung entfällt, wenn nicht binnen eines Monats ab Zustellung
 eine Entscheidung nach § 7 ergeht.
 
 (3) Ein nach Absatz 2 Satz 3 unwirksam gewordener oder alsbald
 unwirksam werdender einstweiliger Ausschluss kann wiederholt erlassen
 werden, wenn während des Zeitraums, in dem der zuerst erlassene
-einstweilige Ausschluss wirksam war, ein Verfahren mit dem Ziel des
-Widerrufs oder der Rücknahme der Bewilligung gemäß § 7 zwar
+einstweilige Ausschluss wirksam war, ein Verfahren mit dem Ziel
+des Widerrufs oder der Rücknahme der Bewilligung gemäß § 7 zwar
 eingeleitet, aber noch nicht abgeschlossen wurde. Die Gesamtdauer des
 einstweiligen Ausschlusses darf in einem Verfahren nicht mehr als drei
 Monate betragen. Für den wiederholten einstweiligen Ausschluss gelten
@@ -375,11 +329,8 @@ unzulässig.
 1.  aufgrund von gemeinsamen Merkmalen, nach denen die Angaben aus den
     Abdrucken ausgewählt werden können (Auswahlmerkmale), sowie
 
-
 2.  aufgrund von Sortieranweisungen, nach denen die Angaben in den Listen
     zu ordnen sind (Ordnungsmerkmale).
-
-
 
 Auswahlmerkmale dürfen sich nur auf Eintragungen nach § 882b Absatz 2
 und 3 der Zivilprozessordnung beziehen.
@@ -416,9 +367,9 @@ Abdrucken gemäß § 7 widerrufen werden.
 
 ### § 14 Löschung in Abdrucken und Listen
 
-(1) Löschungen gemäß § 882g Absatz 6 der Zivilprozessordnung führen
-die Bezieher von Abdrucken und Listen sowie die Inhaber sonstiger
-Aufzeichnungen im Sinne des § 882g Absatz 6 Satz 1 der
+(1) Löschungen gemäß § 882g Absatz 6 der Zivilprozessordnung
+führen die Bezieher von Abdrucken und Listen sowie die Inhaber
+sonstiger Aufzeichnungen im Sinne des § 882g Absatz 6 Satz 1 der
 Zivilprozessordnung eigenverantwortlich durch.
 
 (2) Löschungsmitteilungen gemäß § 882g Absatz 6 Satz 2 der
@@ -438,9 +389,9 @@ die zu löschende Eintragung bis zu diesem Zeitpunkt nicht durch eine
 Liste oder eine Auskunft der Kammer bekannt geworden ist, müssen nicht
 unterrichtet werden.
 
-(4) Löschungsmitteilungen nach Absatz 2 sind unverzüglich nach Zugang
-umzusetzen. Sie sind zu vernichten oder zu löschen, sobald sie
-umgesetzt sind. Es ist durch geeignete technische Maßnahmen
+(4) Löschungsmitteilungen nach Absatz 2 sind unverzüglich nach
+Zugang umzusetzen. Sie sind zu vernichten oder zu löschen, sobald
+sie umgesetzt sind. Es ist durch geeignete technische Maßnahmen
 sicherzustellen, dass gelöschte Datensätze nicht wiederhergestellt
 werden können. Die Sätze 1 bis 3 gelten entsprechend für die
 Mitteilungen an die Listenbezieher nach Absatz 3.
@@ -449,14 +400,14 @@ Mitteilungen an die Listenbezieher nach Absatz 3.
 ### § 15 Kontrolle von Löschungen in Abdrucken und Listen
 
 Werden öffentlichen Stellen Tatsachen bekannt, die die Annahme
-rechtfertigen, dass einer Löschungspflicht nach § 882g Absatz 6 der
-Zivilprozessordnung nicht nachgekommen wurde, haben sie diese
-Tatsachen dem Leiter oder der Leiterin des zentralen
+rechtfertigen, dass einer Löschungspflicht nach § 882g Absatz
+6 der Zivilprozessordnung nicht nachgekommen wurde, haben sie
+diese Tatsachen dem Leiter oder der Leiterin des zentralen
 Vollstreckungsgerichts nach § 882h Absatz 1 der Zivilprozessordnung
-mitzuteilen, bei dem das Schuldnerverzeichnis geführt wird, dem die zu
-löschende Eintragung entnommen wurde. Die zuständige Stelle nach § 2
-ergreift die Maßnahmen nach dieser Verordnung und benachrichtigt die
-für die Kontrolle über die Einhaltung der Datenschutzvorschriften
+mitzuteilen, bei dem das Schuldnerverzeichnis geführt wird, dem die
+zu löschende Eintragung entnommen wurde. Die zuständige Stelle nach
+§ 2 ergreift die Maßnahmen nach dieser Verordnung und benachrichtigt
+die für die Kontrolle über die Einhaltung der Datenschutzvorschriften
 zuständigen Stellen.
 
 
@@ -478,24 +429,18 @@ aufzunehmenden Eintragungen übermittelt werden. Die Verknüpfung zu
 1.  die Verknüpfung für die Zwecke des § 882f Absatz 1 der
     Zivilprozessordnung notwendig ist,
 
-
 2.  die Daten, mit denen die Daten aus dem Schuldnerverzeichnis verknüpft
     werden sollen, rechtmäßig und ausschließlich zu den in § 882f Absatz 1
     der Zivilprozessordnung genannten Zwecken verarbeitet werden,
 
-
 3.  der Bezieher der Abdrucke die Herkunft der Daten nachweisen kann und
 
-
-4.  der Bezieher der Abdrucke sicherstellt, dass der Empfänger der
-    Auskunft im Wege des Abrufs von Daten, die mit Daten aus dem
-    Schuldnerverzeichnis verknüpft sind, nur dann Kenntnis von verknüpften
-    Daten aus Schuldnerverzeichnissen erhält, wenn er dazu berechtigt ist
-    oder wenn dies für die Zwecke des § 882f Absatz 1 der
+4.  der Bezieher der Abdrucke sicherstellt, dass der Empfänger
+    der Auskunft im Wege des Abrufs von Daten, die mit Daten aus
+    dem Schuldnerverzeichnis verknüpft sind, nur dann Kenntnis von
+    verknüpften Daten aus Schuldnerverzeichnissen erhält, wenn er dazu
+    berechtigt ist oder wenn dies für die Zwecke des § 882f Absatz 1 der
     Zivilprozessordnung notwendig ist.
-
-
-
 
 (3) Für Anfragen im automatisierten Abrufverfahren dürfen nur Angaben
 verwendet werden, deren Eintragung in das Schuldnerverzeichnis nach §
@@ -506,11 +451,11 @@ verwendet werden, deren Eintragung in das Schuldnerverzeichnis nach §
 
 Der Bezieher von Abdrucken, der Einzelauskünfte im automatisierten
 Abrufverfahren erteilt (Auskunftsstelle), hat gemäß den Artikeln 24,
-25 und 32 der Verordnung (EU) 2016/679 des Europäischen Parlaments und
-des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der
-Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur
-Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl.
-L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom
+25 und 32 der Verordnung (EU) 2016/679 des Europäischen Parlaments
+und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei
+der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und
+zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung)
+(ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom
 23\.5.2018, S. 2) geeignete technische und organisatorische Maßnahmen
 zu treffen. § 9 Absatz 2 gilt entsprechend.
 
@@ -524,24 +469,18 @@ erkennen lassen, dass
 1.  die abgerufenen Daten vom Abrufberechtigten nicht zu den in § 882f
     Absatz 1 der Zivilprozessordnung genannten Zwecken verarbeitet werden,
 
-
 2.  kein berechtigtes Interesse nach § 882g Absatz 2 Nummer 3 der
     Zivilprozessordung bei dem Abrufberechtigten vorliegt und dennoch
     wiederholt Daten abgerufen wurden,
 
-
 3.  die abgerufenen Daten vom Abrufberechtigten in unzulässiger Weise
     verarbeitet werden,
-
 
 4.  der Abrufberechtigte seinen Pflichten nach § 17 nicht oder nicht
     hinreichend nachkommt oder
 
-
 5.  die Unzuverlässigkeit in Bezug auf die Verarbeitung personenbezogener
     Daten bei dem Abrufberechtigten aus sonstigen Gründen begründet ist.
-
-
 
 Die Auskunftsstelle teilt der für die Kontrolle der
 datenschutzrechtlichen Vorschriften zuständigen Stelle den Ausschluss

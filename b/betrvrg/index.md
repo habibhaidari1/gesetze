@@ -15,16 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 1852
 
-Art. 1 Nr. 18 dient der Umsetzung des Artikels 6 der Richtlinie
-2001/23/EG des Rates vom 12. März 2001 zur Angleichung der
-Rechtsvorschriften der Mitgliedstaaten über die Wahrung von Ansprüchen
-der Arbeitnehmer beim Übergang von Unternehmen, Betrieben oder
-Betriebstellen (ABl. EG Nr. L 82 S. 16).
-Art. 1 Nr. 51 Buchstabe a dient teilweise der Umsetzung der Richtlinie
-2000/78/EG des Rates vom 27. November 2000 zur Festlegung eines
-allgemeinen Rahmens für die Verwirklichung der Gleichbehandlung in
-Beschäftigung und Beruf (ABl. EG Nr. L 303 S. 16).
-
 
 ## (XXXX) Art 1 bis 12 (weggefallen)
 

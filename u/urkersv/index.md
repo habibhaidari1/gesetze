@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Ersetzung zerstörter oder abhanden gekommener gerichtlicher
-  oder notarischer Urkunden
+Title: Verordnung über die Ersetzung zerstörter oder abhanden gekommener gerichtlicher oder notarischer Urkunden
 jurabk: UrkErsV
 layout: default
 origslug: urkersv
@@ -20,11 +19,10 @@ Geändert durch
 :   Art. 35 G v. 17.12.2008 I 2586
 
 
-
 ## Eingangsformel
 
-Auf Grund des § 44 der Verordnung über Maßnahmen auf dem Gebiete der
-Gerichtsverfassung und der Rechtspflege vom 1. September 1939
+Auf Grund des § 44 der Verordnung über Maßnahmen auf dem Gebiete
+der Gerichtsverfassung und der Rechtspflege vom 1. September 1939
 (Reichsgesetzbl. I S. 1658) und des § 10 der Verordnung über weitere
 Maßnahmen auf dem Gebiete der Zwangsvollstreckung vom 31. Oktober 1939
 (Reichsgesetzbl. I S. 2139) wird verordnet:
@@ -42,8 +40,8 @@ oder beglaubigten Abschrift ersetzt.
 
 (2) Auf der Ersatzurkunde ist zu vermerken, daß sie an die Stelle der
 zerstörten oder abhanden gekommenen Urschrift tritt. Der Vermerk kann
-mit dem Beglaubigungsvermerk verbunden werden. Er ist vom Gericht oder
-Notar unter Angabe von Ort und Zeit zu unterschreiben. Wird die
+mit dem Beglaubigungsvermerk verbunden werden. Er ist vom Gericht
+oder Notar unter Angabe von Ort und Zeit zu unterschreiben. Wird die
 Ersatzurkunde den Beteiligten ausgehändigt, so ist sie überdies mit
 dem Siegel oder Stempel des Gerichts oder Notars zu versehen.
 
@@ -78,9 +76,9 @@ Gutachtens gerechtfertigt ist.
 ## § 4
 
 (1) Für die Ersetzung der Urschrift nach den §§ 1 und 3 ist das
-Gericht oder der Notar zuständig, von dem die Urkunde aufgenommen oder
-ausgestellt worden ist. An die Stelle eines ausgeschiedenen Notars
-tritt die Stelle, bei der die Akten des ausgeschiedenen Notars
+Gericht oder der Notar zuständig, von dem die Urkunde aufgenommen
+oder ausgestellt worden ist. An die Stelle eines ausgeschiedenen
+Notars tritt die Stelle, bei der die Akten des ausgeschiedenen Notars
 verwahrt werden.
 
 (2) Hat ein Urkundsbeamter der Geschäftsstelle die Urkunde aufgenommen
@@ -95,8 +93,8 @@ Gerichts oder des Notars auch anderen Beteiligten eine Ausfertigung
 zuzustellen. In bürgerlichen Rechtsstreitigkeiten ist die Ausfertigung
 den Parteien zuzustellen.
 
-(2) Im Falle des § 3 ist der Beschluß dem Antragsteller und den sonst
-Beteiligten, in bürgerlichen Rechtsstreitigkeiten den Parteien
+(2) Im Falle des § 3 ist der Beschluß dem Antragsteller und den
+sonst Beteiligten, in bürgerlichen Rechtsstreitigkeiten den Parteien
 zuzustellen.
 
 (3) Wer Beteiligter ist, bestimmt das Gericht oder der Notar nach
@@ -105,8 +103,8 @@ freiem Ermessen.
 
 ## § 6
 
-(1) Gegen die Ersetzung der Urschrift steht den Beteiligten, denen die
-Ausfertigung oder Entscheidung zugestellt worden ist (§ 5), die
+(1) Gegen die Ersetzung der Urschrift steht den Beteiligten, denen
+die Ausfertigung oder Entscheidung zugestellt worden ist (§ 5), die
 Beschwerde zu.
 
 (2) Im übrigen kann jeder, der durch die Entscheidung des Gerichts
@@ -115,16 +113,16 @@ beantragen. Lehnt das Gericht (der Notar) eine Änderung der neuen
 Urschrift ab, so steht dem Antragsteller die Beschwerde zu.
 
 (3) Für das Beschwerdeverfahren gelten in bürgerlichen
-Rechtsstreitigkeiten die Vorschriften der Zivilprozeßordnung, in
-Strafsachen die Vorschriften der Strafprozeßordnung, in
+Rechtsstreitigkeiten die Vorschriften der Zivilprozeßordnung,
+in Strafsachen die Vorschriften der Strafprozeßordnung, in
 Angelegenheiten der freiwilligen Gerichtsbarkeit (Notarsachen) die
-Vorschriften des Gesetzes über das Verfahren in Familiensachen und in
-den Angelegenheiten der freiwilligen Gerichtsbarkeit. Richtet sich die
-Beschwerde gegen die Verfügung eines Notars, so entscheidet das
-Landgericht, in dessen Bezirk der Notar seinen Amtssitz hat. Richtet
-sich die Beschwerde gegen die Verfügung eines Urkundsbeamten der
-Geschäftsstelle, so ist innerhalb der Beschwerdefrist die Entscheidung
-des Gerichts nachzusuchen, zu dem der Urkundsbeamte der
+Vorschriften des Gesetzes über das Verfahren in Familiensachen und
+in den Angelegenheiten der freiwilligen Gerichtsbarkeit. Richtet
+sich die Beschwerde gegen die Verfügung eines Notars, so entscheidet
+das Landgericht, in dessen Bezirk der Notar seinen Amtssitz hat.
+Richtet sich die Beschwerde gegen die Verfügung eines Urkundsbeamten
+der Geschäftsstelle, so ist innerhalb der Beschwerdefrist die
+Entscheidung des Gerichts nachzusuchen, zu dem der Urkundsbeamte der
 Geschäftsstelle gehört; das Gericht hat das Gesuch, wenn es ihm nicht
 entsprechen will, dem Beschwerdegericht vorzulegen.
 
@@ -134,10 +132,10 @@ Rechtsmittel nicht zulässig.
 
 ## § 7
 
-(1) Das Verfahren nach den §§ 1 und 3 ist gebührenfrei. Für die den
-Beteiligten zugestellten Ausfertigungen werden Schreibgebühren
-erhoben. Befand sich die Urschrift im Besitz eines Beteiligten und hat
-dieser den Verlust zu verantworten, so hat er für die
+(1) Das Verfahren nach den §§ 1 und 3 ist gebührenfrei. Für die
+den Beteiligten zugestellten Ausfertigungen werden Schreibgebühren
+erhoben. Befand sich die Urschrift im Besitz eines Beteiligten
+und hat dieser den Verlust zu verantworten, so hat er für die
 Wiederherstellung die gleiche Gebühr wie für die erstmalige Aufnahme
 oder Ausstellung der Urkunde zu entrichten.
 

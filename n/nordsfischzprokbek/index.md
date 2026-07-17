@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung der Proklamation der Bundesrepublik Deutschland über die Errichtung
-  einer Fischereizone der Bundesrepublik Deutschland in der Nordsee
+Title: Bekanntmachung der Proklamation der Bundesrepublik Deutschland über die Errichtung einer Fischereizone der Bundesrepublik Deutschland in der Nordsee
 jurabk: NordSFischZProkBek
 layout: default
 origslug: nordsfischzprokbek
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl II: 1976, 1999
-
 
 
 ## (XXXX)

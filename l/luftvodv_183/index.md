@@ -1,7 +1,5 @@
 ---
-Title: Hundertdreiundachzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung
-  von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrslandeplatz
-  Zweibrücken)
+Title: Hundertdreiundachzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrslandeplatz Zweibrücken)
 jurabk: LuftVODV 183
 layout: default
 origslug: luftvodv_183
@@ -16,4 +14,7 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BAnz: 1997, Nr 163, 11430
+
+Fundstelle
+:   BAnz: 1997, 11430
 

@@ -1,6 +1,5 @@
 ---
-Title: Siebter Erlaß über die Genehmigung der Stiftung und Verleihung von Orden und
-  Ehrenzeichen
+Title: Siebter Erlaß über die Genehmigung der Stiftung und Verleihung von Orden und Ehrenzeichen
 jurabk: OrdenErl 7
 layout: default
 origslug: ordenerl_7
@@ -17,31 +16,16 @@ Fundstelle
 :   BGBl I: 1996, 668
 
 
-
 ## Art 1
 
 Auf Grund des § 3 Abs. 1 des Gesetzes über Titel, Orden und
 Ehrenzeichen in der im Bundesgesetzblatt Teil III, Gliederungsnummer
-1132-1, veröffentlichten bereinigten Fassung, zuletzt geändert durch
-Anlage I Kapitel II Sachgebiet A Abschnitt II Nr. 2 des
+1132-1, veröffentlichten bereinigten Fassung, zuletzt geändert
+durch Anlage I Kapitel II Sachgebiet A Abschnitt II Nr. 2 des
 Einigungsvertrages vom 31. August 1990 (BGBl. II 1990 S. 885, 910),
 genehmige ich die Stiftung und Verleihung der
 
-*
-    *
-        *
-            *   Einsatzmedaille der Bundeswehr
-
-
-
-
-
-
-
-
-
-
-
+-   -   -   -   Einsatzmedaille der Bundeswehr
 
 durch den Bundesminister der Verteidigung.
 
@@ -63,8 +47,8 @@ Bundesminister des Innern im Bundesanzeiger bekanntgemacht.
 
 Jede Änderung der Stiftungsbestimmungen und der Verleihungsbedingungen
 des nach Artikel 1 genehmigten Ehrenzeichens und jede Änderung seiner
-Form und Benennung bedarf meiner Genehmigung und wird gemäß Artikel 3
-bekanntgemacht.
+Form und Benennung bedarf meiner Genehmigung und wird gemäß Artikel
+3 bekanntgemacht.
 
 
 ## Schlußformel

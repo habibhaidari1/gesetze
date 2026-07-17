@@ -19,24 +19,15 @@ Fundstelle
 ## (XXXX)
 
 Nach Artikel 6 Absatz 3 des Einführungsgesetzes zum
-Handelsgesetzbuche, der durch Artikel 5 Nummer 1 des Gesetzes vom 25.
-Juli 1986 (BGBl. I S. 1120) eingefügt worden ist, wird bekannt
+Handelsgesetzbuche, der durch Artikel 5 Nummer 1 des Gesetzes vom
+25\. Juli 1986 (BGBl. I S. 1120) eingefügt worden ist, wird bekannt
 gegeben, dass das Protokoll vom 23. Februar 1968 zur Änderung des
 Internationalen Abkommens vom 25. August 1924 zur Vereinheitlichung
 von Regeln über Konnossemente nach seinem Artikel 13 Absatz 2 für
 
-*    *   Lettland
-
-    *
-    *   am 4. Juli 2002
-
-
-*    *   Litauen
-
-    *
-    *   am 2. März 2004
-
-
+| Lettland |  | am 4. Juli 2002 |
+| --- | --- | --- |
+| Litauen |  | am 2. März 2004 |
 
 in Kraft getreten ist.
 

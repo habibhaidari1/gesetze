@@ -1,8 +1,5 @@
 ---
-Title: Gesetz zur Ausführung des Haager Übereinkommens vom 15. November 1965 über
-  die Zustellung gerichtlicher und außergerichtlicher Schriftstücke im Ausland in
-  Zivil- oder Handelssachen und des Haager Übereinkommens vom 18. März 1970 über die
-  Beweisaufnahme im Ausland in Zivil- oder Handelssachen
+Title: Gesetz zur Ausführung des Haager Übereinkommens vom 15. November 1965 über die Zustellung gerichtlicher und außergerichtlicher Schriftstücke im Ausland in Zivil- oder Handelssachen und des Haager Übereinkommens vom 18. März 1970 über die Beweisaufnahme im Ausland in Zivil- oder Handelssachen
 jurabk: HaagÜbkAG
 layout: default
 origslug: haag_bkag
@@ -19,8 +16,7 @@ Fundstelle
 :   BGBl I: 1977, 3105
 
 Zuletzt geändert durch
-:   Art. 3 G v. 11.6.2017 I 1607
-
+:   Art. 3 G v. 24.6.2022 I 959
 
 
 ## Eingangsformel
@@ -32,14 +28,17 @@ beschlossen:
 ## Erster Teil - Vorschriften zur Ausführung des Haager Übereinkommens vom 15. November 1965 über die Zustellung gerichtlicher und außergerichtlicher Schriftstücke im Ausland in Zivil- oder Handelssachen
 
 
-
 ### § 1
 
-Die Aufgaben der Zentralen Behörde (Artikel 2, 18 Abs. 3 des
+(1) Die Aufgaben der Zentralen Behörde (Artikel 2, 18 Abs. 3 des
 Übereinkommens) nehmen die von den Landesregierungen bestimmten
-Stellen wahr. Jedes Land kann nur eine Zentrale Behörde einrichten.Die
-Landesregierungen können die Befugnis nach Satz 1 auf die
+Stellen wahr. Jedes Land kann nur eine Zentrale Behörde einrichten.
+Die Landesregierungen können die Befugnis nach Satz 1 auf die
 Landesjustizverwaltungen übertragen.
+
+(2) Die Aufgaben der Zentralen Behörde nimmt für den Bund das
+Bundesamt für Justiz wahr. Es unterstützt bei Bedarf die zuständigen
+Behörden der Länder.
 
 
 ### § 2
@@ -64,8 +63,8 @@ abgefaßt oder in diese Sprache übersetzt ist.
 ### § 4
 
 (1) Die Zentrale Behörde ist befugt, Zustellungsanträge unmittelbar
-durch die Post erledigen zu lassen, wenn die Voraussetzungen für eine
-Zustellung gemäß Artikel 5 Abs. 1 Buchstabe a des Übereinkommens
+durch die Post erledigen zu lassen, wenn die Voraussetzungen für
+eine Zustellung gemäß Artikel 5 Abs. 1 Buchstabe a des Übereinkommens
 erfüllt sind. In diesem Fall händigt die Zentrale Behörde das zu
 übergebende Schriftstück der Post zur Zustellung aus. Die Vorschriften
 der Zivilprozeßordnung über die Zustellung von Amts wegen gelten
@@ -95,26 +94,29 @@ nach Artikel 10 des Übereinkommens findet nicht statt.
 ## Zweiter Teil - Vorschriften zur Ausführung des Haager Übereinkommens vom 18. März 1970 über die Beweisaufnahme im Ausland in Zivil- oder Handelssachen
 
 
-
 ### § 7
 
-Die Aufgaben der Zentralen Behörde (Artikel 2, 24 Abs. 2 des
+(1) Die Aufgaben der Zentralen Behörde (Artikel 2, 24 Abs. 2 des
 Übereinkommens) nehmen die von den Landesregierungen bestimmten
-Stellen wahr. Jedes Land kann nur eine Zentrale Behörde einrichten.Die
-Landesregierungen können die Befugnis nach Satz 1 auf die
+Stellen wahr. Jedes Land kann nur eine Zentrale Behörde einrichten.
+Die Landesregierungen können die Befugnis nach Satz 1 auf die
 Landesjustizverwaltungen übertragen.
+
+(2) Die Aufgaben der Zentralen Behörde nimmt für den Bund das
+Bundesamt für Justiz wahr. Es unterstützt bei Bedarf die zuständigen
+Behörden der Länder.
 
 
 ### § 8
 
 Für die Erledigung von Rechtshilfeersuchen ist das Amtsgericht
-zuständig, in dessen Bezirk die Amtshandlung vorzunehmen ist. Die
-Landesregierungen werden ermächtigt, diese Zuständigkeit durch
-Rechtsverordnung einem anderen Amtsgericht des
+zuständig, in dessen Bezirk die Amtshandlung vorzunehmen ist.
+Die Landesregierungen werden ermächtigt, diese Zuständigkeit
+durch Rechtsverordnung einem anderen Amtsgericht des
 Oberlandesgerichtsbezirks oder, wenn in einem Land mehrere
-Oberlandesgerichte errichtet sind, einem Amtsgerichtsbezirk für die
-Bezirke aller oder mehrerer Oberlandesgerichte zuzuweisen. Die
-Zuweisung kann auch nur für einzelne Arten der Beweisaufnahme
+Oberlandesgerichte errichtet sind, einem Amtsgerichtsbezirk für
+die Bezirke aller oder mehrerer Oberlandesgerichte zuzuweisen.
+Die Zuweisung kann auch nur für einzelne Arten der Beweisaufnahme
 erfolgen. Die Landesregierungen können diese Ermächtigung durch
 Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
@@ -152,8 +154,8 @@ des Staates des ersuchenden Gerichts besitzt.
 Zentrale Behörde sie genehmigt hat. Die Genehmigung kann mit Auflagen
 verbunden werden.
 
-(2) Das Gericht, das für die Erledigung eines Rechtshilfeersuchens in
-derselben Angelegenheit nach § 8 zuständig wäre, ist befugt, die
+(2) Das Gericht, das für die Erledigung eines Rechtshilfeersuchens
+in derselben Angelegenheit nach § 8 zuständig wäre, ist befugt, die
 Vorbereitung und die Durchführung der Beweisaufnahme zu überwachen.
 Ein Mitglied dieses Gerichts kann an der Beweisaufnahme teilnehmen
 (Artikel 19 Satz 2 des Übereinkommens).
@@ -168,20 +170,32 @@ in dem die Beweisaufnahme durchgeführt werden soll.
 
 ### § 14
 
-(1) Rechtshilfeersuchen, die ein Verfahren nach Artikel 23 des
-Übereinkommens zum Gegenstand haben, werden nicht erledigt.
+Rechtshilfeersuchen, die ein Verfahren nach Artikel 23 des
+Übereinkommens zum Gegenstand haben, werden nur erledigt, wenn
 
-(2) Jedoch können, soweit die tragenden Grundsätze des deutschen
-Verfahrensrechts nicht entgegenstehen, solche Ersuchen unter
-Berücksichtigung der schutzwürdigen Interessen der Betroffenen
-erledigt werden, nachdem die Voraussetzungen der Erledigung und das
-anzuwendende Verfahren durch Rechtsverordnung näher geregelt sind, die
-der Bundesminister der Justiz und für Verbraucherschutz mit Zustimmung
-des Bundesrates erlassen kann.
+1.  die vorzulegenden Dokumente im Einzelnen genau bezeichnet sind,
+
+2.  die vorzulegenden Dokumente für das jeweilige Verfahren und dessen
+    Ausgang von unmittelbarer und eindeutig zu erkennender Bedeutung sind,
+
+3.  die vorzulegenden Dokumente sich im Besitz einer an dem Verfahren
+    beteiligten Partei befinden,
+
+4.  das Herausgabeverlangen nicht gegen wesentliche Grundsätze des
+    deutschen Rechts verstößt und,
+
+5.  soweit personenbezogene Daten in den vorzulegenden Dokumenten
+    enthalten sind, die Voraussetzungen für die Übermittlung in ein
+    Drittland nach Kapitel V der Verordnung (EU) 2016/679 des Europäischen
+    Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher
+    Personen bei der Verarbeitung personenbezogener Daten, zum freien
+    Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-
+    Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016,
+    S. 72; L 127 vom 23.5.2018, S. 2; L 74 vom 4.3.2021, S. 35) erfüllt
+    sind.
 
 
 ## Dritter Teil - Sonstige Bestimmungen
-
 
 
 ### § 15
@@ -189,8 +203,8 @@ des Bundesrates erlassen kann.
 Der Bundesminister der Justiz und für Verbraucherschutz wird
 ermächtigt, durch Rechtsverordnung, die der Zustimmung des Bundesrates
 bedarf, die nach den §§ 1 und 7 dieses Gesetzes errichteten Zentralen
-Behörden als die Stellen zu bestimmen, die gemäß den §§ 1 und 3 Abs. 2
-des Gesetzes vom 5. April 1909 zur Ausführung des Haager Abkommens
+Behörden als die Stellen zu bestimmen, die gemäß den §§ 1 und 3 Abs.
+2 des Gesetzes vom 5. April 1909 zur Ausführung des Haager Abkommens
 über den Zivilprozeß vom 17. Juli 1905 (RGBl. 1909 S. 430) und gemäß
 den §§ 1 und 9 des Gesetzes zur Ausführung des Haager Übereinkommens
 vom 1. März 1954 über den Zivilprozeß zur Entgegennahme von Anträgen

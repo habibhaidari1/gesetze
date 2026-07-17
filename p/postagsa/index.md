@@ -1,6 +1,5 @@
 ---
-Title: Satzung der Deutsche Post AG (Anhang des Gesetzes zur Umwandlung der Unternehmen
-  der Deutschen Bundespost in die Rechtsform der Aktiengesellschaft)
+Title: Satzung der Deutsche Post AG (Anhang des Gesetzes zur Umwandlung der Unternehmen der Deutschen Bundespost in die Rechtsform der Aktiengesellschaft)
 jurabk: PostAGSa
 layout: default
 origslug: postagsa
@@ -17,9 +16,7 @@ Fundstelle
 :   BGBl I: 1994, 2325, 2339, 2343
 
 
-
 ## I. - Allgemeine Bestimmungen
-
 
 
 ### § 1 Firma, Sitz und Geschäftsjahr
@@ -53,8 +50,8 @@ verbundene Unternehmen ausgliedern.
 
 Die Gesellschaft läßt Angelegenheiten im Sinne des § 3 Abs. 2 des
 Bundesanstalt Post-Gesetzes durch die Bundesanstalt für Post und
-Telekommunikation Deutsche Bundespost wahrnehmen. Sie schließt zu
-diesem Zweck entgeltliche Geschäftsbesorgungsverträge mit der
+Telekommunikation Deutsche Bundespost wahrnehmen. Sie schließt
+zu diesem Zweck entgeltliche Geschäftsbesorgungsverträge mit der
 Bundesanstalt.
 
 
@@ -65,7 +62,6 @@ veröffentlicht.
 
 
 ## II. - Grundkapital und Aktien
-
 
 
 ### § 5 Höhe und Einteilung des Grundkapitals
@@ -91,7 +87,6 @@ abweichend von § 60 des Aktiengesetzes bestimmt werden.
 ## III. - Vorstand
 
 
-
 ### § 6 Zusammensetzung und Geschäftsordnung
 
 (1) Der Vorstand besteht aus mindestens zwei Mitgliedern. Im übrigen
@@ -103,8 +98,8 @@ Aufsichtsrat, Verwaltungsrat oder Beirat eines auf Erwerb gerichteten
 Unternehmens darf ein Vorstandsmitglied nur mit Zustimmung des
 Aufsichtsrats eintreten.
 
-(3) Der Aufsichtsrat kann einen Vorsitzenden des Vorstands sowie einen
-stellvertretenden Vorsitzenden des Vorstands ernennen. Es können
+(3) Der Aufsichtsrat kann einen Vorsitzenden des Vorstands sowie
+einen stellvertretenden Vorsitzenden des Vorstands ernennen. Es können
 stellvertretende Vorstandsmitglieder bestellt werden.
 
 (4) Der Vorstand gibt sich durch einstimmigen Beschluß aller
@@ -114,9 +109,9 @@ Aufsichtsrats bedarf.
 
 ### § 7 Vertretung der Gesellschaft
 
-Die Gesellschaft wird gesetzlich vertreten durch zwei Mitglieder des
-Vorstands oder durch ein Mitglied des Vorstands in Gemeinschaft mit
-einem Prokuristen. Stellvertretende Vorstandsmitglieder stehen
+Die Gesellschaft wird gesetzlich vertreten durch zwei Mitglieder
+des Vorstands oder durch ein Mitglied des Vorstands in Gemeinschaft
+mit einem Prokuristen. Stellvertretende Vorstandsmitglieder stehen
 hinsichtlich der Vertretungsmacht ordentlichen Vorstandsmitgliedern
 gleich.
 
@@ -135,19 +130,18 @@ darf.
 
 (2) Der Aufsichtsrat kann jederzeit weitere Geschäfte von seiner
 Zustimmung abhängig machen. Er kann widerruflich die Zustimmung zu
-einem bestimmten Kreis von Geschäften allgemein oder für den Fall, daß
-das einzelne Geschäft bestimmten Bedingungen genügt, im voraus
+einem bestimmten Kreis von Geschäften allgemein oder für den Fall,
+daß das einzelne Geschäft bestimmten Bedingungen genügt, im voraus
 erteilen.
 
 
 ## IV. - Aufsichtsrat
 
 
-
 ### § 10 Zusammensetzung, Amtsdauer, Amtsniederlegung
 
-(1) Der Aufsichtsrat besteht aus zwanzig Mitgliedern, und zwar zehn
-Aufsichtsratsmitgliedern der Aktionäre und zehn
+(1) Der Aufsichtsrat besteht aus zwanzig Mitgliedern, und
+zwar zehn Aufsichtsratsmitgliedern der Aktionäre und zehn
 Aufsichtsratsmitgliedern der Arbeitnehmer. Die Aufsichtsratsmitglieder
 der Aktionäre werden von der Hauptversammlung, die
 Aufsichtsratsmitglieder der Arbeitnehmer werden nach den Vorschriften
@@ -182,14 +176,14 @@ Frist von vier Wochen niederlegen.
 ### § 11 Vorsitzender und Stellvertreter
 
 (1) Der Aufsichtsrat wählt nach Maßgabe des § 27 Abs. 1 und 2 des
-Mitbestimmungsgesetzes aus seiner Mitte einen Vorsitzenden und einen
-Stellvertreter für die in § 10 Abs. 2 dieser Satzung bestimmte
-Amtszeit. Die Wahl erfolgt im Anschluß an die Hauptversammlung, in der
-die von der Hauptversammlung zu wählenden Aufsichtsratsmitglieder der
-Aktionäre bestellt worden sind, in einer ohne besondere Einberufung
-stattfindenden Sitzung. Scheidet der Vorsitzende oder sein
-Stellvertreter vor Ablauf der Amtszeit aus seinem Amt aus, so hat der
-Aufsichtsrat eine Neuwahl für die restliche Amtszeit des
+Mitbestimmungsgesetzes aus seiner Mitte einen Vorsitzenden und
+einen Stellvertreter für die in § 10 Abs. 2 dieser Satzung bestimmte
+Amtszeit. Die Wahl erfolgt im Anschluß an die Hauptversammlung, in
+der die von der Hauptversammlung zu wählenden Aufsichtsratsmitglieder
+der Aktionäre bestellt worden sind, in einer ohne besondere
+Einberufung stattfindenden Sitzung. Scheidet der Vorsitzende oder
+sein Stellvertreter vor Ablauf der Amtszeit aus seinem Amt aus, so
+hat der Aufsichtsrat eine Neuwahl für die restliche Amtszeit des
 Ausgeschiedenen vorzunehmen.
 
 (2) Unmittelbar nach der Wahl des Vorsitzenden und seines
@@ -210,11 +204,11 @@ Geschäftsordnung.
 ### § 13 Einberufung
 
 (1) Aufsichtsratssitzungen werden vom Vorsitzenden oder im Falle
-seiner Verhinderung von seinem Stellvertreter unter Einhaltung einer
-Frist von zwei Wochen einberufen. Bei der Berechnung der Frist werden
-der Tag der Absendung der Einladung und der Tag der Sitzung nicht
-mitgerechnet. In dringenden Fällen kann der Einberufende die
-Einberufungsfrist abkürzen und mündlich, fernmündlich,
+seiner Verhinderung von seinem Stellvertreter unter Einhaltung
+einer Frist von zwei Wochen einberufen. Bei der Berechnung der Frist
+werden der Tag der Absendung der Einladung und der Tag der Sitzung
+nicht mitgerechnet. In dringenden Fällen kann der Einberufende
+die Einberufungsfrist abkürzen und mündlich, fernmündlich,
 fernschriftlich, telegraphisch oder durch Telefax einberufen.
 
 (2) Mit der Einladung sind Ort und Zeit der Sitzung sowie die
@@ -233,13 +227,13 @@ Mehrheitsentscheidung des Aufsichtsrats.
 
 (1) Beschlüsse des Aufsichtsrats werden in der Regel in Sitzungen
 gefaßt. Der Vorsitzende bestimmt die Reihenfolge, in der die
-Gegenstände der Tagesordnung verhandelt werden, sowie die Art und die
-Reihenfolge der Abstimmungen. Zu Gegenständen der Tagesordnung, die
-nicht rechtzeitig mitgeteilt worden sind, kann nur Beschluß gefaßt
-werden, wenn kein Mitglied dem Verfahren widerspricht. Abwesenden
-Mitgliedern ist in einem solchen Fall innerhalb einer vom Vorsitzenden
-bestimmten angemessenen Frist Gelegenheit zu geben, der
-Beschlußfassung zu widersprechen oder nachträglich ihre Stimme
+Gegenstände der Tagesordnung verhandelt werden, sowie die Art und
+die Reihenfolge der Abstimmungen. Zu Gegenständen der Tagesordnung,
+die nicht rechtzeitig mitgeteilt worden sind, kann nur Beschluß
+gefaßt werden, wenn kein Mitglied dem Verfahren widerspricht.
+Abwesenden Mitgliedern ist in einem solchen Fall innerhalb einer
+vom Vorsitzenden bestimmten angemessenen Frist Gelegenheit zu geben,
+der Beschlußfassung zu widersprechen oder nachträglich ihre Stimme
 abzugeben; der Beschluß wird erst wirksam, wenn kein abwesendes
 Mitglied innerhalb der Frist widersprochen hat.
 
@@ -250,11 +244,11 @@ vorgeschlagenen Art der Abstimmung einverstanden erklären oder sich an
 ihr beteiligen. Solche Beschlüsse werden vom Vorsitzenden schriftlich
 festgestellt und allen Mitgliedern zugeleitet.
 
-(3) Der Aufsichtsrat ist beschlußfähig, wenn mindestens die Hälfte der
-Mitglieder, aus denen er insgesamt zu bestehen hat, persönlich oder
-durch schriftliche Stimmabgabe (§ 108 Abs. 3 des Aktiengesetzes) an
-der Beschlußfassung teilnimmt. Ein Mitglied nimmt auch dann an der
-Beschlußfassung teil, wenn es sich in der Abstimmung der Stimme
+(3) Der Aufsichtsrat ist beschlußfähig, wenn mindestens die Hälfte
+der Mitglieder, aus denen er insgesamt zu bestehen hat, persönlich
+oder durch schriftliche Stimmabgabe (§ 108 Abs. 3 des Aktiengesetzes)
+an der Beschlußfassung teilnimmt. Ein Mitglied nimmt auch dann an
+der Beschlußfassung teil, wenn es sich in der Abstimmung der Stimme
 enthält.
 
 (4) Der Vorsitzende kann die Beschlußfassung über einzelne oder
@@ -268,8 +262,8 @@ befugt.
 (5) Beschlüsse des Aufsichtsrats bedürfen der Mehrheit der abgegebenen
 Stimmen, soweit nicht gesetzlich eine andere Mehrheit zwingend
 vorgeschrieben ist. Ergibt eine Abstimmung Stimmengleichheit, so hat
-bei einer erneuten Abstimmung über denselben Gegenstand, wenn auch sie
-Stimmengleichheit ergibt, der Vorsitzende zwei Stimmen. Auch die
+bei einer erneuten Abstimmung über denselben Gegenstand, wenn auch
+sie Stimmengleichheit ergibt, der Vorsitzende zwei Stimmen. Auch die
 zweite Stimme kann gemäß Absatz 3 schriftlich abgegeben werden. Der
 Aufsichtsratsvorsitzende übt sein Zweitstimmrecht erst nach einer im
 Anschluß an die erste Abstimmung erfolgten Beratung durch den für die
@@ -286,17 +280,17 @@ Aufsichtsrat entgegenzunehmen.
 
 ### § 15 Ausschüsse
 
-(1) Der Aufsichtsrat bestellt aus seiner Mitte - neben dem in § 11
-Abs. 2 bezeichneten Ausschuß - einen Personalausschuß und einen
-Ausschuß für sonstige Angelegenheiten. Den Ausschüssen können, soweit
-gesetzlich zulässig, Entscheidungsbefugnisse des Aufsichtsrats
+(1) Der Aufsichtsrat bestellt aus seiner Mitte - neben dem in §
+11 Abs. 2 bezeichneten Ausschuß - einen Personalausschuß und einen
+Ausschuß für sonstige Angelegenheiten. Den Ausschüssen können,
+soweit gesetzlich zulässig, Entscheidungsbefugnisse des Aufsichtsrats
 überwiesen werden. Der Aufsichtsrat kann weitere Ausschüsse bestellen.
 
-(2) Für das Verfahren der Ausschüsse gelten die Regelungen in den §§
-13 und 14 - mit Ausnahme des Zweitstimmrechts - entsprechend. Der
-Ausschuß kann aus seiner Mitte einen Vorsitzenden wählen, wenn nicht
-der Aufsichtsrat einen Vorsitzenden bestimmt. Der Vorsitz im
-Personalausschuß wird durch ein Aufsichtsratsmitglied der
+(2) Für das Verfahren der Ausschüsse gelten die Regelungen in den
+§§ 13 und 14 - mit Ausnahme des Zweitstimmrechts - entsprechend.
+Der Ausschuß kann aus seiner Mitte einen Vorsitzenden wählen, wenn
+nicht der Aufsichtsrat einen Vorsitzenden bestimmt. Der Vorsitz
+im Personalausschuß wird durch ein Aufsichtsratsmitglied der
 Arbeitnehmer, der Vorsitz im Ausschuß für sonstige Angelegenheiten
 durch ein Aufsichtsratsmitglied der Aktionäre geführt.
 
@@ -311,12 +305,12 @@ Tätigkeit im Aufsichtsrat bekannt werden, Stillschweigen zu bewahren.
 
 ### § 17 Vergütung
 
-(1) Die Mitglieder des Aufsichtsrats erhalten außer dem Ersatz ihrer
-Auslagen eine feste nach Ablauf des Geschäftsjahres zahlbare jährliche
-Vergütung, deren Höhe die Hauptversammlung festsetzt. Der Vorsitzende
-des Aufsichtsrats erhält das Doppelte, ein stellvertretender
-Vorsitzender das Eineinhalbfache dieses Betrages.
-Aufsichtsratsmitglieder, die nur während eines Teils des
+(1) Die Mitglieder des Aufsichtsrats erhalten außer dem Ersatz
+ihrer Auslagen eine feste nach Ablauf des Geschäftsjahres
+zahlbare jährliche Vergütung, deren Höhe die Hauptversammlung
+festsetzt. Der Vorsitzende des Aufsichtsrats erhält das Doppelte,
+ein stellvertretender Vorsitzender das Eineinhalbfache dieses
+Betrages. Aufsichtsratsmitglieder, die nur während eines Teils des
 Geschäftsjahres dem Aufsichtsrat angehört haben, erhalten eine im
 Verhältnis der Zeit geringere Vergütung.
 
@@ -325,7 +319,6 @@ von der Gesellschaft erstattet.
 
 
 ## V. - Hauptversammlung
-
 
 
 ### § 18 Ort und Einberufung
@@ -344,8 +337,8 @@ Hinterlegungstag nicht mitgerechnet.
 (1) Zur Teilnahme an der Hauptversammlung und zur Ausübung des
 Stimmrechts in der Hauptversammlung sind diejenigen Aktionäre
 berechtigt, die ihre Aktien bei der Gesellschaftskasse, bei einem
-deutschen Notar, bei einer Wertpapiersammelbank oder bei den sonst in
-der Einberufung bezeichneten Stellen während der Geschäftsstunden
+deutschen Notar, bei einer Wertpapiersammelbank oder bei den sonst
+in der Einberufung bezeichneten Stellen während der Geschäftsstunden
 hinterlegen und bis zur Beendigung der Hauptversammlung dort belassen.
 Die Hinterlegung gilt auch dann als bei einer der benannten Stellen
 bewirkt, wenn Aktien mit Zustimmung einer Hinterlegungsstelle für
@@ -353,8 +346,8 @@ diese bei einem Kreditinstitut bis zur Beendigung der Hauptversammlung
 im Sperrdepot gehalten werden.
 
 (2) Die Hinterlegung muß spätestens am siebten Tage vor der
-Versammlung erfolgen. Fällt der letzte Tag der Hinterlegungsfrist auf
-einen Sonntag, einen Sonnabend oder einen am Hinterlegungsort
+Versammlung erfolgen. Fällt der letzte Tag der Hinterlegungsfrist
+auf einen Sonntag, einen Sonnabend oder einen am Hinterlegungsort
 staatlich anerkannten allgemeinen Feiertag, so hat die Hinterlegung
 spätestens am vorherigen Werktag zu erfolgen.
 
@@ -366,8 +359,8 @@ der Hinterlegungsfrist bei der Gesellschaft einzureichen.
 
 ### § 20 Vorsitz in der Hauptversammlung
 
-(1) Den Vorsitz in der Hauptversammlung führt der Vorsitzende des
-Aufsichtsrats oder ein von ihm bestimmtes anderes
+(1) Den Vorsitz in der Hauptversammlung führt der Vorsitzende
+des Aufsichtsrats oder ein von ihm bestimmtes anderes
 Aufsichtsratsmitglied aus dem Kreis der von den Aktionären gewählten
 und entsandten Mitglieder. Für den Fall, daß weder der Vorsitzende des
 Aufsichtsrats noch ein von ihm bestimmtes Mitglied des Aufsichtsrats
@@ -392,7 +385,6 @@ Beschlußfassung vertretenen Grundkapitals gefaßt.
 
 
 ## VI. - Jahresabschluß und Gewinnverwendung
-
 
 
 ### § 22 Jahresabschluß und ordentliche Hauptversammlung
@@ -426,7 +418,6 @@ Hauptversammlung nicht eine andere Verwendung beschließt.
 ## VII. - Bundesrechnungshof
 
 
-
 ### § 23 Bundesrechnungshof
 
 Der Bundesrechnungshof hat die Befugnisse nach § 54 des
@@ -434,7 +425,6 @@ Haushaltsgrundsätzegesetzes.
 
 
 ## VIII. - Geschäftsaufnahme
-
 
 
 ### § 24 Geschäftsaufnahme

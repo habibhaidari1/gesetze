@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zur strafrechtlichen Rehabilitierung der nach dem 8. Mai 1945 wegen
-  einvernehmlicher homosexueller Handlungen verurteilten Personen
+Title: Gesetz zur strafrechtlichen Rehabilitierung der nach dem 8. Mai 1945 wegen einvernehmlicher homosexueller Handlungen verurteilten Personen
 jurabk: StrRehaHomG
 layout: default
 origslug: strrehahomg
@@ -16,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2017, 2443
 
+Geändert durch
+:   Art. 5 G v. 11.7.2022 I 1082
+
 
 ## § 1 Aufhebung von Urteilen
 
@@ -28,26 +30,20 @@ strafgerichtlichen Urteile aufgehoben werden, die aufgrund
     August 1969 und nach dem 8. Mai 1945 in deren späterem Staatsgebiet
     gegolten hat,
 
-
-2.  der §§ 175 und 175a Nummer 3 und 4 des Strafgesetzbuches in der
-    Fassung, die in der Deutschen Demokratischen Republik bis
+2.  der §§ 175 und 175a Nummer 3 und 4 des Strafgesetzbuches in
+    der Fassung, die in der Deutschen Demokratischen Republik bis
     einschließlich 30. Juni 1968 und nach dem 8. Mai 1945 in deren
     späterem Staatsgebiet gegolten hat,
-
 
 3.  des § 175 Absatz 1 Nummer 1 und 3 des Strafgesetzbuches in der vom 1.
     September 1969 bis einschließlich 27. November 1973 geltenden Fassung,
 
-
 4.  des § 175 des Strafgesetzbuches in der vom 28. November 1973 bis
     einschließlich 10. Juni 1994 geltenden Fassung und
-
 
 5.  des § 151 des Strafgesetzbuches der Deutschen Demokratischen Republik
     in der vom 1. Juli 1968 bis einschließlich 30. Juni 1989 geltenden
     Fassung
-
-
 
 ergangen sind, es sei denn, den Verurteilungen liegen sexuelle
 Handlungen mit Personen unter 16 Jahren oder Handlungen zugrunde, die
@@ -58,8 +54,8 @@ erfüllen.
 (2) Absatz 1 gilt für strafgerichtliche Unterbringungsanordnungen
 entsprechend.
 
-(3) Die Aufhebung der Urteile nach den Absätzen 1 und 2 schließt alle
-darin ausgesprochenen Nebenstrafen und Nebenfolgen sowie alle
+(3) Die Aufhebung der Urteile nach den Absätzen 1 und 2 schließt
+alle darin ausgesprochenen Nebenstrafen und Nebenfolgen sowie alle
 Maßregeln der Besserung und Sicherung ein, die nicht in Absatz 2
 genannt sind.
 
@@ -84,14 +80,14 @@ entsprechend.
 ## § 3 Feststellung der Aufhebung von Urteilen; Rehabilitierungsbescheinigung
 
 (1) Die Staatsanwaltschaft stellt auf Antrag fest, ob ein Urteil nach
-§ 1 Absatz 1 aufgehoben ist. In den Fällen des § 2 Absatz 1 stellt sie
-die Teilaufhebung des Urteils und deren Umfang fest. Über die
+§ 1 Absatz 1 aufgehoben ist. In den Fällen des § 2 Absatz 1 stellt
+sie die Teilaufhebung des Urteils und deren Umfang fest. Über die
 Feststellungen nach den Sätzen 1 und 2 erteilt die Staatsanwaltschaft
 dem Antragsteller eine Rehabilitierungsbescheinigung.
 
 (2) Für die Feststellung nach Absatz 1 Satz 1 und 2 genügt
-grundsätzlich die Glaubhaftmachung einer erfolgten Verurteilung nach §
-1 Absatz 1. Zur Glaubhaftmachung kann auch die eidesstattliche
+grundsätzlich die Glaubhaftmachung einer erfolgten Verurteilung nach
+§ 1 Absatz 1. Zur Glaubhaftmachung kann auch die eidesstattliche
 Versicherung des Verurteilten zugelassen werden. Für die Abnahme der
 Versicherung an Eides statt ist die Staatsanwaltschaft zuständig.
 
@@ -99,14 +95,10 @@ Versicherung an Eides statt ist die Staatsanwaltschaft zuständig.
 
 1.  der Verurteilte,
 
-
 2.  nach dem Tod des Verurteilten dessen Ehegatte oder Lebenspartner sowie
     der Verlobte oder die Person, mit der der Verurteilte ein Versprechen
     eingegangen war, eine Lebenspartnerschaft zu begründen, sowie die
     Eltern, die Kinder und die Geschwister des Verurteilten.
-
-
-
 
 (4) Die örtliche Zuständigkeit der Staatsanwaltschaft bestimmt sich
 nach dem Gericht, welches das Urteil nach § 1 Absatz 1 im ersten
@@ -145,16 +137,12 @@ aus dem Bundeshaushalt zu.
 
 (2) Die Entschädigung beträgt
 
-1.  3 000 Euro je aufgehobenes Urteil und
+1.  3 000 Euro je aufgehobenes Urteil und
 
+2.  1 500 Euro je angefangenes Jahr erlittener Freiheitsentziehung.
 
-2.  1 500 Euro je angefangenes Jahr erlittener Freiheitsentziehung.
-
-
-
-
-(3) Ist gemäß § 2 nur ein Teil des Urteils aufgehoben, so ist die Höhe
-der Entschädigung für eine erlittene Freiheitsentziehung unter
+(3) Ist gemäß § 2 nur ein Teil des Urteils aufgehoben, so ist die
+Höhe der Entschädigung für eine erlittene Freiheitsentziehung unter
 Beachtung des Verhältnisses des aufgehobenen Teils zum gesamten Urteil
 geringer als in Absatz 2 Nummer 2 zu bemessen.
 
@@ -167,18 +155,17 @@ Sozialleistungen angerechnet.
 
 ## § 6 Entschädigungsverfahren beim Bundesamt für Justiz
 
-(1) Der Anspruch auf Entschädigung ist innerhalb von fünf Jahren ab
-dem 22. Juli 2017 beim Bundesamt für Justiz geltend zu machen. Das
-Bundesamt für Justiz setzt die Höhe der Entschädigung durch
-Verwaltungsakt fest.
+(1) Der Anspruch auf Entschädigung ist bis einschließlich 21. Juli
+2027 beim Bundesamt für Justiz geltend zu machen. Das Bundesamt für
+Justiz setzt die Höhe der Entschädigung durch Verwaltungsakt fest.
 
 (2) Antragsberechtigt ist die rehabilitierte Person.
 
 (3) Für die Gewährung einer Entschädigung gemäß § 5 Absatz 2 Nummer 1
 ist eine Ausfertigung des nach § 1 Absatz 1 oder Absatz 2 aufgehobenen
 Urteils oder eine Rehabilitierungsbescheinigung nach § 3 Absatz 1 Satz
-3 vorzulegen. Für die Gewährung einer Entschädigung gemäß § 5 Absatz 2
-Nummer 2 und Absatz 3 muss der Antragsteller ferner die Zeiten der
+3 vorzulegen. Für die Gewährung einer Entschädigung gemäß § 5 Absatz
+2 Nummer 2 und Absatz 3 muss der Antragsteller ferner die Zeiten der
 Freiheitsentziehung glaubhaft machen. Zur Glaubhaftmachung kann auch
 die eidesstattliche Versicherung des Antragstellers zugelassen werden.
 Für die Abnahme der Versicherung an Eides statt ist das Bundesamt für

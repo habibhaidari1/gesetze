@@ -1,7 +1,5 @@
 ---
-Title: Gesetz zu dem Staatsvertrag vom 14. Dezember 2012 über die abschließende Aufteilung
-  des Finanzvermögens gemäß Artikel 22 des Einigungsvertrages zwischen dem Bund, den
-  neuen Ländern und Berlin (Finanzvermögen-Staatsvertrag)
+Title: Gesetz zu dem Staatsvertrag vom 14. Dezember 2012 über die abschließende Aufteilung des Finanzvermögens gemäß Artikel 22 des Einigungsvertrages zwischen dem Bund, den neuen Ländern und Berlin (Finanzvermögen-Staatsvertrag)
 jurabk: FinVermStVtrG
 layout: default
 origslug: finvermstvtrg

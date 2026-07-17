@@ -16,20 +16,13 @@ Fundstelle
 :   BGBl I: 2009, 3824
 
 Zuletzt geändert durch
-:   Art. 3 V v. 16.8.2021 I 3582
-
-[^F772704_01_BJNR382400009]:     Diese Verordnung dient der Umsetzung der Richtlinie 2005/36/EG des
-    Europäischen Parlaments und des Rates vom 7. September 2005 über die
-    Anerkennung von Berufsqualifikationen (ABl. L 255 vom 30.9.2005, S.
-    22, L 271 vom 16.10.2007, S. 18, L 93 vom 4.4.2008, S. 28, L 33 vom
-    3\.2.2009, S. 49), die zuletzt durch die Richtlinie 2013/55/EU (ABl. L
-    354 vom 28.12.2013, S. 132) geändert worden ist.
+:   Art. 2 Abs. 2 V v. 11.3.2026 I Nr. 67
 
 
 ## Eingangsformel
 
-Auf Grund des § 18 Absatz 4 des Bundesbeamtengesetzes vom 5. Februar
-2009 (BGBl. I S. 160) in Verbindung mit dem 2. Abschnitt des
+Auf Grund des § 18 Absatz 4 des Bundesbeamtengesetzes vom 5.
+Februar 2009 (BGBl. I S. 160) in Verbindung mit dem 2. Abschnitt des
 Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821) verordnet
 das Bundesministerium des Innern:
 
@@ -46,8 +39,8 @@ Diese Verordnung regelt die Anerkennung von Berufsqualifikation als
 Befähigung für eine Laufbahn im Bundesdienst auf Grund der Richtlinie
 2005/36/EG des Europäischen Parlaments und des Rates vom 7. September
 2005 über die Anerkennung von Berufsqualifikationen (ABl. L 255 vom
-30\.9.2005, S. 22; L 271 vom 16.10.2007, S. 18; L 93 vom 4.4.2008, S.
-28; L 33 vom 3.2.2009, S. 49), die zuletzt durch die Richtlinie
+30\.9.2005, S. 22; L 271 vom 16.10.2007, S. 18; L 93 vom 4.4.2008,
+S. 28; L 33 vom 3.2.2009, S. 49), die zuletzt durch die Richtlinie
 2013/55/EU (ABl. L 354 vom 28.12.2013, S. 132) geändert worden ist.
 
 
@@ -60,16 +53,12 @@ anerkannt, wenn sie
     Bundesbeamtengesetzes genannt ist, erworben worden ist
     (Qualifikationsstaat),
 
-
 2.  im Qualifikationsstaat für den unmittelbaren Zugang zu einer Tätigkeit
     im öffentlichen Dienst erforderlich ist und
-
 
 3.  im Vergleich zu den Voraussetzungen, die nach Bundesrecht für den
     Erwerb der Laufbahnbefähigung zu erfüllen sind, keine wesentlichen
     Unterschiede aufweist.
-
-
 
 Weist die Berufsqualifikation im Vergleich zu den Voraussetzungen, die
 für den Erwerb der Laufbahnbefähigung zu erfüllen sind, wesentliche
@@ -77,32 +66,23 @@ Unterschiede auf, muss die Antragstellerin oder der Antragsteller
 
 1.  eine Eignungsprüfung (§ 6) bestanden haben,
 
-
 2.  an einem Anpassungslehrgang (§ 7) erfolgreich teilgenommen haben oder
-
 
 3.  eine Eignungsprüfung (§ 6) bestanden und an einem Anpassungslehrgang
     (§ 7) erfolgreich teilgenommen haben.
 
-
-
-
-(2) Hat die Antragstellerin oder der Antragsteller eine Tätigkeit im
-öffentlichen Dienst ausgeübt, die im Qualifikationsstaat nicht im
-Sinne des Artikels 3 Absatz 1 Buchstabe a der Richtlinie 2005/36/EG
-reglementiert ist, wird die Berufsqualifikation nach Maßgabe des
+(2) Hat die Antragstellerin oder der Antragsteller eine Tätigkeit
+im öffentlichen Dienst ausgeübt, die im Qualifikationsstaat nicht
+im Sinne des Artikels 3 Absatz 1 Buchstabe a der Richtlinie 2005/36/
+EG reglementiert ist, wird die Berufsqualifikation nach Maßgabe des
 Absatzes 1 anerkannt, wenn die Antragstellerin oder der Antragsteller
 auf die Ausübung des betreffenden Berufs vorbereitet worden ist und
 
 1.  die Tätigkeit innerhalb der letzten zehn Jahre ein Jahr lang ausgeübt
     worden ist oder
 
-
 2.  der zur Berufsqualifikation führende Ausbildungsgang reglementiert
     war.
-
-
-
 
 (3) Einer Berufsqualifikation nach Absatz 1 sind gleichgestellt:
 
@@ -111,44 +91,33 @@ auf die Ausübung des betreffenden Berufs vorbereitet worden ist und
     a)  in einem Staat, der nicht in § 7 Absatz 1 Satz 1 Nummer 1 des
         Bundesbeamtengesetzes genannt ist, erworben worden ist und
 
-
     b)  von einem Staat anerkannt worden ist, der in § 7 Absatz 1 Satz 1
         Nummer 1 des Bundesbeamtengesetzes genannt ist,
 
-
-
     sofern die Antragstellerin oder der Antragsteller durch eine vom
-    Anerkennungsstaat ausgestellte Bescheinigung nachweist, dass sie oder
-    er den betreffenden Beruf drei Jahre lang im Anerkennungsstaat
+    Anerkennungsstaat ausgestellte Bescheinigung nachweist, dass sie
+    oder er den betreffenden Beruf drei Jahre lang im Anerkennungsstaat
     ausgeübt hat, sowie
-
 
 2.  eine in Artikel 12 der Richtlinie 2005/36/EG aufgeführte
     Berufsqualifikation.
-
-
-
 
 (4) Abweichend von Absatz 1 wird eine Berufsqualifikation nach den
 Absätzen 1 bis 3 auf Antrag als Befähigung für eine Laufbahn im
 Bundesdienst mit partiellem Zugang zu einer bestimmten Tätigkeit
 anerkannt, wenn
 
-1.  die Antragstellerin oder der Antragsteller im Qualifikationsstaat oder
-    im Anerkennungsstaat ohne Einschränkung qualifiziert ist, die
+1.  die Antragstellerin oder der Antragsteller im Qualifikationsstaat
+    oder im Anerkennungsstaat ohne Einschränkung qualifiziert ist, die
     Tätigkeit auszuüben, für die ein partieller Zugang beantragt wird,
 
-
-2.  die Unterschiede zwischen der Tätigkeit im Qualifikationsstaat oder im
-    Anerkennungsstaat und der Tätigkeit in der Laufbahn so groß sind, dass
-    die Ausgleichsmaßnahmen nach Absatz 1 Nummer 2, 3 oder 4 einer
+2.  die Unterschiede zwischen der Tätigkeit im Qualifikationsstaat oder
+    im Anerkennungsstaat und der Tätigkeit in der Laufbahn so groß sind,
+    dass die Ausgleichsmaßnahmen nach Absatz 1 Nummer 2, 3 oder 4 einer
     Ausbildung für die Laufbahn gleichkäme, und
-
 
 3.  sich die Tätigkeit, für die ein partieller Zugang beantragt wird,
     objektiv von anderen Tätigkeiten der Laufbahn trennen lässt.
-
-
 
 Aufgrund der Anerkennung der Befähigung nach Satz 1 kann die
 Antragstellerin oder der Antragsteller zur Ausübung einer bestimmten
@@ -164,9 +133,7 @@ Laufbahn schriftlich oder elektronisch zu beantragen.
 
 1.  ein Nachweis der Staatsangehörigkeit,
 
-
 2.  die Befähigungs- oder Ausbildungsnachweise,
-
 
 3.  gegebenenfalls eine Bescheinigung einer zuständigen Stelle in der
     Bundesrepublik Deutschland, die die Voraussetzungen nach Artikel 13
@@ -175,26 +142,21 @@ Laufbahn schriftlich oder elektronisch zu beantragen.
     entsprechenden Beruf außerhalb des öffentlichen Dienstes des Bundes
     bereits geprüft hat,
 
-
 4.  gegebenenfalls Bescheinigungen über erworbene Berufserfahrungen sowie
-
 
 5.  gegebenenfalls von einer dazu berechtigten Stelle ausgestellte
     Bescheinigungen über Kenntnisse, Fähigkeiten und Kompetenzen, die
     außerhalb von formalen Bildungseinrichtungen erworben worden sind.
 
-
-
-
 (3) Von der Antragstellerin oder dem Antragsteller dürfen weitere
 Angaben einschließlich personenbezogener Daten verlangt werden, soweit
 diese erforderlich sind, um festzustellen, ob eine abgeschlossene
-Ausbildung wesentliche Unterschiede zu der Ausbildung aufweist, die
-nach Bundesrecht gefordert wird. Ist die Antragstellerin oder der
-Antragsteller nicht in der Lage, die Angaben zu machen, ersucht das
-Bundesverwaltungsamt oder die nach § 4 Absatz 2 beauftragte Behörde
-den einheitlichen Ansprechpartner nach § 10, die zuständige Behörde
-oder eine andere zuständige Stelle des Qualifikations- oder
+Ausbildung wesentliche Unterschiede zu der Ausbildung aufweist,
+die nach Bundesrecht gefordert wird. Ist die Antragstellerin oder
+der Antragsteller nicht in der Lage, die Angaben zu machen, ersucht
+das Bundesverwaltungsamt oder die nach § 4 Absatz 2 beauftragte
+Behörde den einheitlichen Ansprechpartner nach § 10, die zuständige
+Behörde oder eine andere zuständige Stelle des Qualifikations- oder
 Anerkennungsstaat um Übermittlung der Angaben.
 
 (4) Die Unterlagen sind in Kopie vorzulegen. Im Fall begründeter
@@ -228,8 +190,8 @@ sein müssen, durch Berufserfahrung, Zusatzqualifikationen oder
 Kenntnisse, Fähigkeiten und Kompetenzen, die außerhalb von formalen
 Bildungseinrichtungen erworben und von einer dazu berechtigten Stelle
 bescheinigt worden sind, ausgeglichen worden sind. Bleiben wesentliche
-Unterschiede bestehen, ist die Anerkennung der Berufsqualifikation als
-Befähigung für eine Laufbahn von einer Eignungsprüfung oder einem
+Unterschiede bestehen, ist die Anerkennung der Berufsqualifikation
+als Befähigung für eine Laufbahn von einer Eignungsprüfung oder einem
 Anpassungslehrgang abhängig zu machen.
 
 (2) Wesentlich ist ein Unterschied, wenn
@@ -239,7 +201,6 @@ Anpassungslehrgang abhängig zu machen.
     sind, und die Kenntnis dieser Inhalte eine wesentliche Voraussetzung
     für den Erwerb der Laufbahnbefähigung ist, oder
 
-
 2.  die Laufbahn eine oder mehrere Tätigkeiten umfasst, die im
     Qualifikationsstaat nicht Bestandteil des entsprechenden
     reglementierten Berufs sind, und wenn
@@ -248,29 +209,19 @@ Anpassungslehrgang abhängig zu machen.
         vorgelegten Befähigungs- oder Ausbildungsnachweis abgedeckt werden,
         und
 
-
     b)  die Kenntnis dieser Inhalte eine wesentliche Voraussetzung für den
         Erwerb der Laufbahnbefähigung ist.
 
-
-
-
-
-
-
 (3) Bei einer Anerkennung für eine Laufbahn
 
-1.  des einfachen und des mittleren Dienstes kann die Antragstellerin oder
-    der Antragsteller zwischen einer Eignungsprüfung und einem
+1.  des einfachen und des mittleren Dienstes kann die Antragstellerin
+    oder der Antragsteller zwischen einer Eignungsprüfung und einem
     Anpassungslehrgang wählen,
 
-
-2.  des gehobenen und des höheren Dienstes kann die Antragstellerin oder
-    der Antragsteller zwischen einer Eignungsprüfung und einem
+2.  des gehobenen und des höheren Dienstes kann die Antragstellerin
+    oder der Antragsteller zwischen einer Eignungsprüfung und einem
     Anpassungslehrgang wählen, wenn der Befähigungsnachweis mindestens
     Artikel 11 Buchstabe c der Richtlinie 2005/36/EG entspricht.
-
-
 
 In den übrigen Fällen legt das Bundesverwaltungsamt oder die nach § 4
 Absatz 2 beauftragte Behörde die Ausgleichsmaßnahme fest. Dabei können
@@ -281,16 +232,12 @@ folgende Ausgleichsmaßnahmen festgelegt werden:
     Befähigungsnachweis höchstens Artikel 11 Buchstabe a der Richtlinie
     2005/36/EG entspricht,
 
-
 2.  in den übrigen Fällen eine Eignungsprüfung oder ein
     Anpassungslehrgang.
 
-
-
-
-(4) Abweichend von Absatz 1 kann das Bundesverwaltungsamt oder die
-nach § 4 Absatz 2 beauftragte Behörde die Anerkennung einer Befähigung
-für eine Laufbahn des höheren Dienstes aufgrund eines
+(4) Abweichend von Absatz 1 kann das Bundesverwaltungsamt oder
+die nach § 4 Absatz 2 beauftragte Behörde die Anerkennung einer
+Befähigung für eine Laufbahn des höheren Dienstes aufgrund eines
 Befähigungsnachweises, der nicht mindestens Artikel 11 Buchstabe b der
 Richtlinie 2005/36/EG entspricht, ablehnen.
 
@@ -302,8 +249,8 @@ ob die Antragstellerin oder der Antragsteller in der Lage ist, die
 Aufgaben der angestrebten Laufbahn auszuüben. Sie muss spätestens
 sechs Monate nach der Entscheidung der Antragstellerin oder des
 Antragstellers, als Ausgleichsmaßnahme eine Eignungsprüfung abzulegen,
-oder nach der Entscheidung des Bundesverwaltungsamtes oder der nach §
-4 Absatz 2 beauftragten Behörde, als Ausgleichsmaßnahme eine
+oder nach der Entscheidung des Bundesverwaltungsamtes oder der
+nach § 4 Absatz 2 beauftragten Behörde, als Ausgleichsmaßnahme eine
 Eignungsprüfung festzulegen, durchgeführt werden.
 
 (2) Das Bundesverwaltungsamt oder die nach § 4 Absatz 2 beauftragte
@@ -324,8 +271,8 @@ ist unabhängig und nicht weisungsgebunden.
 
 (4) Die Eignungsprüfung besteht aus einem schriftlichen und einem
 mündlichen Teil. Der schriftliche Teil kann mehrere Aufsichtsarbeiten
-umfassen. § 10 Absatz 2 Satz 2 und § 17 Absatz 3 Nummer 1 und Absatz 5
-Satz 1 Nummer 1 der Bundeslaufbahnverordnung sind entsprechend
+umfassen. § 10 Absatz 2 Satz 2 und § 20 Absatz 3 Nummer 1 und Absatz
+5 Satz 1 Nummer 1 der Bundeslaufbahnverordnung sind entsprechend
 anzuwenden.
 
 (5) Über den Prüfungshergang ist ein Protokoll mit folgenden Angaben
@@ -333,32 +280,22 @@ aufzunehmen:
 
 1.  Zeit und Ort der mündlichen Prüfung,
 
-
 2.  die Namen der Mitglieder der Prüfungskommission,
-
 
 3.  die Namen der Prüfungsteilnehmerinnen und Prüfungsteilnehmer,
 
-
 4.  die Prüfungsthemen,
-
 
 5.  die Bewertung des schriftlichen Teils der Prüfung,
 
-
 6.  die Bewertung des mündlichen Teils der Prüfung,
-
 
 7.  das abschließende Prüfungsergebnis und
 
-
 8.  besondere Vorkommnisse.
 
-
-
-
-(6) Über die Folgen eines ordnungswidrigen Verhaltens entscheidet die
-Prüfungskommission nach Anhörung der Antragstellerin oder des
+(6) Über die Folgen eines ordnungswidrigen Verhaltens entscheidet
+die Prüfungskommission nach Anhörung der Antragstellerin oder des
 Antragstellers. Die Anhörung ist zu protokollieren. Versucht die
 Antragstellerin oder der Antragsteller, das Ergebnis des schriftlichen
 oder des mündlichen Teils der Prüfung durch Täuschung zu beeinflussen,
@@ -371,8 +308,8 @@ vor Beginn der Prüfung auf die Folgen ordnungswidrigen Verhaltens
 hinzuweisen. Die Belehrung ist zu protokollieren.
 
 (7) Ein Rücktritt von der Prüfung ist nur bis zum Beginn der Prüfung
-zulässig. Er ist dem Bundesverwaltungsamt oder der nach § 4 Absatz 2
-beauftragten Behörde unverzüglich zu erklären. Genehmigt das
+zulässig. Er ist dem Bundesverwaltungsamt oder der nach § 4 Absatz
+2 beauftragten Behörde unverzüglich zu erklären. Genehmigt das
 Bundesverwaltungsamt oder die nach § 4 Absatz 2 beauftragte Behörde
 den Rücktritt, gilt die Prüfung als nicht unternommen.
 
@@ -389,13 +326,13 @@ Bescheid.
 ## § 7 Anpassungslehrgang
 
 (1) Das Bundesverwaltungsamt oder die nach § 4 Absatz 2 beauftragte
-Behörde vergleicht auf der Grundlage der Ausbildungs-, Studien- und
-Prüfungsordnungen die Inhalte, die für die Fachrichtung der Laufbahn
-als unverzichtbar angesehen werden, mit den Qualifikationen und
-Berufserfahrungen der Antragstellerin oder des Antragstellers und
-regelt die Durchführung des höchstens dreijährigen
-Anpassungslehrgangs. Insbesondere sind die Dauer des Lehrgangs, Art
-und Zahl der zu erbringenden Leistungen und die unverzichtbaren
+Behörde vergleicht auf der Grundlage der Ausbildungs-, Studien-
+und Prüfungsordnungen die Inhalte, die für die Fachrichtung
+der Laufbahn als unverzichtbar angesehen werden, mit den
+Qualifikationen und Berufserfahrungen der Antragstellerin oder des
+Antragstellers und regelt die Durchführung des höchstens dreijährigen
+Anpassungslehrgangs. Insbesondere sind die Dauer des Lehrgangs,
+Art und Zahl der zu erbringenden Leistungen und die unverzichtbaren
 Inhalte, die noch vermittelt werden müssen, zu bestimmen.
 
 (2) Die Rechte und Pflichten der Antragstellerin oder des
@@ -403,8 +340,8 @@ Antragstellers während eines Anpassungslehrgangs werden durch einen
 Vertrag mit dem Bundesverwaltungsamt oder der nach § 4 Absatz 2
 beauftragten Behörde festgelegt.
 
-(3) Der Anpassungslehrgang schließt mit einer Gesamtbewertung der
-Leistungen ab, in der festgestellt wird, ob die wesentlichen
+(3) Der Anpassungslehrgang schließt mit einer Gesamtbewertung
+der Leistungen ab, in der festgestellt wird, ob die wesentlichen
 Unterschiede ausgeglichen sind. Die Antragstellerin oder der
 Antragsteller erhält über das Ergebnis einen schriftlichen Bescheid.
 
@@ -435,20 +372,12 @@ Aussagen dazu enthalten,
 
     a)  die für die Laufbahn zu fordernde Berufsqualifikation entspricht und
 
-
     b)  die erworbene Berufsqualifikation entspricht,
-
-
-
-
 
 2.  weshalb wesentliche Unterschiede nicht durch Berufserfahrung,
     Zusatzqualifikationen oder Kenntnisse, Fähigkeiten und Kompetenzen,
     die außerhalb von formalen Bildungseinrichtungen erworben worden sind
     (§ 5 Absatz 1 Satz 2), ausgeglichen werden können.
-
-
-
 
 (4) In dem Bescheid über die Anerkennung der Befähigung für eine
 Laufbahn mit partiellem Zugang ist die Tätigkeit aufzuführen, zu der
@@ -460,7 +389,6 @@ Tätigkeit begründet keinen Anspruch auf Einstellung.
 
 
 ## § 9 (weggefallen)
-
 
 
 ## § 10 Verwaltungszusammenarbeit
@@ -477,19 +405,19 @@ zusammen und leistet Amtshilfe, um die Anwendung der Richtlinie
 
 ## § 11 Übermittlung personenbezogener Daten
 
-(1) Das Bundesverwaltungsamt stellt den in § 10 genannten Stellen auf
-Ersuchen die erforderlichen Angaben über die Voraussetzungen der
+(1) Das Bundesverwaltungsamt stellt den in § 10 genannten Stellen
+auf Ersuchen die erforderlichen Angaben über die Voraussetzungen der
 Anerkennung der Qualifikationen als Laufbahnbefähigung zur Verfügung,
 wenn die Antragstellerin oder der Antragsteller nicht in der Lage ist,
 den in § 10 genannten Stellen entsprechende Angaben zu machen.
 
-(2) Beantragt eine Beamtin oder ein Beamter die Anerkennung ihrer oder
-seiner Berufsqualifikation in einem der in § 7 Absatz 1 Satz 1 Nummer
-1 des Bundesbeamtengesetzes genannten Staaten, unterrichtet die
-Dienstbehörde nach Anhörung der oder des Betroffenen die zuständige
-Behörde des Staates, in dem der Antrag gestellt worden ist, über
-Dienstvergehen, Straftaten, Ordnungswidrigkeiten, die sich auf die
-Zulässigkeit der Ausübung der Tätigkeit auswirken können.
+(2) Beantragt eine Beamtin oder ein Beamter die Anerkennung ihrer
+oder seiner Berufsqualifikation in einem der in § 7 Absatz 1 Satz 1
+Nummer 1 des Bundesbeamtengesetzes genannten Staaten, unterrichtet
+die Dienstbehörde nach Anhörung der oder des Betroffenen die
+zuständige Behörde des Staates, in dem der Antrag gestellt worden
+ist, über Dienstvergehen, Straftaten, Ordnungswidrigkeiten, die sich
+auf die Zulässigkeit der Ausübung der Tätigkeit auswirken können.
 Dienstvergehen, Straftaten und Ordnungswidrigkeiten dürfen nur
 mitgeteilt werden, wenn sie unanfechtbar festgestellt worden sind und
 der empfangende Staat zusichert,
@@ -497,12 +425,8 @@ der empfangende Staat zusichert,
 1.  die Angaben nur für die Entscheidung über die Anerkennung der
     Berufsqualifikation zu verwenden und
 
-
-2.  die nach deutschem Recht geltenden Löschungs- oder Tilgungsfristen zu
-    beachten.
-
-
-
+2.  die nach deutschem Recht geltenden Löschungs- oder Tilgungsfristen
+    zu beachten.
 
 
 ## § 12 Inkrafttreten, Außerkrafttreten

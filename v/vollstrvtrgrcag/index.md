@@ -1,8 +1,5 @@
 ---
-Title: Gesetz zur Ausführung des Vertrages vom 4. November 1961 zwischen der Bundesrepublik
-  Deutschland und dem Königreich Griechenland über die gegenseitige Anerkennung und
-  Vollstreckung von gerichtlichen Entscheidungen, Vergleichen und öffentlichen Urkunden
-  in Zivil- und Handelssachen
+Title: Gesetz zur Ausführung des Vertrages vom 4. November 1961 zwischen der Bundesrepublik Deutschland und dem Königreich Griechenland über die gegenseitige Anerkennung und Vollstreckung von gerichtlichen Entscheidungen, Vergleichen und öffentlichen Urkunden in Zivil- und Handelssachen
 jurabk: VollstrVtrGRCAG
 layout: default
 origslug: vollstrvtrgrcag
@@ -25,13 +22,12 @@ Zuletzt geändert durch
 ## Erster Abschnitt - Vollstreckbarerklärung von gerichtlichen Entscheidungen, Vergleichen und öffentlichen Urkunden
 
 
-
 ### § 1
 
 (1) Für die Vollstreckbarerklärung gerichtlicher Entscheidungen
 (Artikel 1, 6ff., 17 Abs. 2 des Vertrages), gerichtlicher Vergleiche
-(Artikel 13 des Vertrages) und öffentlicher Urkunden (Artikel 15 des
-Vertrages) ist sachlich das Amtsgericht oder das Landgericht
+(Artikel 13 des Vertrages) und öffentlicher Urkunden (Artikel 15
+des Vertrages) ist sachlich das Amtsgericht oder das Landgericht
 zuständig, das für die gerichtliche Geltendmachung des Anspruchs
 zuständig sein würde.
 
@@ -50,8 +46,8 @@ Zivilprozeßordnung entsprechend.
 (2) Dem Antrag soll die für die Zustellung erforderliche Zahl von
 Abschriften beigefügt werden.
 
-(3) Wird die mündliche Verhandlung angeordnet, so ist der Termin den
-Parteien von Amts wegen bekanntzumachen. Im Verfahren vor den
+(3) Wird die mündliche Verhandlung angeordnet, so ist der Termin
+den Parteien von Amts wegen bekanntzumachen. Im Verfahren vor den
 Landgerichten soll die Bekanntmachung die Aufforderung gemäß § 215 der
 Zivilprozeßordnung enthalten.
 
@@ -64,18 +60,18 @@ gelten entsprechend.
 
 ### § 3
 
-Hängt die Vollstreckung nach dem Inhalt des Schuldtitels (§ 1 Abs. 1)
-von einer dem Gläubiger obliegenden Sicherheitsleistung, dem Ablauf
-einer Frist oder dem Eintritt einer anderen Tatsache ab oder wird die
-Vollstreckbarerklärung zugunsten eines anderen als des in dem
-Schuldtitel bezeichneten Gläubigers oder gegen einen anderen als den
-darin bezeichneten Schuldner nachgesucht, so ist die Frage, inwieweit
-die Vollstreckbarerklärung von dem Nachweis besonderer Voraussetzungen
-abhängig oder ob der Schuldtitel für oder gegen den anderen
-vollstreckbar ist, nach griechischem Recht zu entscheiden. Der
-Nachweis ist durch öffentliche oder öffentlich beglaubigte Urkunden zu
-führen, sofern nicht die Tatsachen bei dem Gericht offenkundig sind.
-Kann er in dieser Form nicht erbracht werden, so ist mündliche
+Hängt die Vollstreckung nach dem Inhalt des Schuldtitels (§ 1 Abs.
+1) von einer dem Gläubiger obliegenden Sicherheitsleistung, dem
+Ablauf einer Frist oder dem Eintritt einer anderen Tatsache ab oder
+wird die Vollstreckbarerklärung zugunsten eines anderen als des in
+dem Schuldtitel bezeichneten Gläubigers oder gegen einen anderen
+als den darin bezeichneten Schuldner nachgesucht, so ist die Frage,
+inwieweit die Vollstreckbarerklärung von dem Nachweis besonderer
+Voraussetzungen abhängig oder ob der Schuldtitel für oder gegen den
+anderen vollstreckbar ist, nach griechischem Recht zu entscheiden. Der
+Nachweis ist durch öffentliche oder öffentlich beglaubigte Urkunden
+zu führen, sofern nicht die Tatsachen bei dem Gericht offenkundig
+sind. Kann er in dieser Form nicht erbracht werden, so ist mündliche
 Verhandlung anzuordnen.
 
 
@@ -99,11 +95,8 @@ die Gründe, auf denen sie beruhen, erst
 1.  nach Ablauf der Frist, innerhalb derer er Beschwerde hätte einlegen
     können, oder
 
-
 2.  falls die Beschwerde eingelegt worden ist, nach Beendigung dieses
     Verfahrens
-
-
 
 entstanden sind.
 
@@ -119,32 +112,30 @@ erklärt ist.
 ## Zweiter Abschnitt - Aufhebung oder Abänderung der Vollstreckbarerklärung
 
 
-
 ### § 6
 
 (1) Wird ein Schuldtitel (§ 1 Abs. 1) nach der Vollstreckbarerklärung
-in Griechenland aufgehoben oder geändert und kann der Schuldner diese
-Tatsache in dem Verfahren der Vollstreckbarerklärung nicht mehr
-geltend machen, so kann er die Aufhebung oder Änderung der
+in Griechenland aufgehoben oder geändert und kann der Schuldner
+diese Tatsache in dem Verfahren der Vollstreckbarerklärung nicht
+mehr geltend machen, so kann er die Aufhebung oder Änderung der
 Vollstreckbarerklärung in einem besonderen Verfahren beantragen.
 
 (2) Für die Entscheidung über den Antrag ist das Gericht
 ausschließlich zuständig, das in dem Verfahren der
-Vollstreckbarerklärung im ersten Rechtszug entschieden hat. Über den
-Antrag kann ohne mündliche Verhandlung entschieden werden; vor der
-Entscheidung ist der Gläubiger zu hören. Die Entscheidung ergeht durch
-Beschluß, der dem Gläubiger und dem Schuldner von Amts wegen
+Vollstreckbarerklärung im ersten Rechtszug entschieden hat. Über
+den Antrag kann ohne mündliche Verhandlung entschieden werden; vor
+der Entscheidung ist der Gläubiger zu hören. Die Entscheidung ergeht
+durch Beschluß, der dem Gläubiger und dem Schuldner von Amts wegen
 zuzustellen ist. Der Beschluss unterliegt der Beschwerde nach den §§
 567 bis 577 der Zivilprozessordnung.
 
 (3) Für die Einstellung der Zwangsvollstreckung und die Aufhebung
-bereits getroffener Vollstreckungsmaßregeln gelten §§ 769, 770 der
-Zivilprozeßordnung entsprechend. Die Aufhebung einer
+bereits getroffener Vollstreckungsmaßregeln gelten §§ 769,
+770 der Zivilprozeßordnung entsprechend. Die Aufhebung einer
 Vollstreckungsmaßregel ist auch ohne Sicherheitsleistung zulässig.
 
 
 ## Dritter Abschnitt - Besondere Vorschriften für deutsche gerichtliche Entscheidungen
-
 
 
 ### § 7
@@ -157,16 +148,16 @@ abgekürzter Form (§ 313b der Zivilprozeßordnung) hergestellt werden.
 ### § 8
 
 (1) Will eine Partei ein Versäumnis- oder Anerkenntnisurteil, das nach
-§ 313b der Zivilprozeßordnung in abgekürzter Form hergestellt ist, in
-Griechenland geltend machen, so ist das Urteil auf ihren Antrag zu
-vervollständigen. Der Antrag kann bei dem Gericht schriftlich
+§ 313b der Zivilprozeßordnung in abgekürzter Form hergestellt ist,
+in Griechenland geltend machen, so ist das Urteil auf ihren Antrag
+zu vervollständigen. Der Antrag kann bei dem Gericht schriftlich
 eingereicht oder mündlich zu Protokoll der Geschäftsstelle gestellt
 werden. Über den Antrag wird ohne mündliche Verhandlung entschieden.
 
 (2) Zur Vervollständigung des Urteils sind der Tatbestand und die
 Entscheidungsgründe nachträglich anzufertigen, von den Richtern
-besonders zu unterschreiben und der Geschäftsstelle zu übergeben; der
-Tatbestand und die Entscheidungsgründe können auch von Richtern
+besonders zu unterschreiben und der Geschäftsstelle zu übergeben;
+der Tatbestand und die Entscheidungsgründe können auch von Richtern
 unterschrieben werden, die bei dem Urteil nicht mitgewirkt haben.
 
 (3) Für die Berichtigung des nachträglich angefertigten Tatbestandes
@@ -181,8 +172,8 @@ nicht erhoben.
 
 ### § 9
 
-Einer einstweiligen Anordnung oder einer einstweiligen Verfügung, die
-in Griechenland geltend gemacht werden soll, ist eine Begründung
+Einer einstweiligen Anordnung oder einer einstweiligen Verfügung,
+die in Griechenland geltend gemacht werden soll, ist eine Begründung
 beizufügen. § 8 ist entsprechend anzuwenden.
 
 
@@ -197,7 +188,6 @@ eine Zwangsvollstreckung im Inland nach § 796 Abs. 1, §§ 936, 929 Abs.
 
 
 ## Vierter Abschnitt - Schlußbestimmungen
-
 
 
 ### § 11

@@ -1,7 +1,5 @@
 ---
-Title: Hunderteinundachtzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung
-  von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrsflughafen
-  Karlsruhe/Baden-Baden)
+Title: Hunderteinundachtzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrsflughafen Karlsruhe/Baden-Baden)
 jurabk: LuftVODV 181
 layout: default
 origslug: luftvodv_181
@@ -16,4 +14,7 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BAnz: 1997, Nr 87, 5825
+
+Fundstelle
+:   BAnz: 1997, 5825
 

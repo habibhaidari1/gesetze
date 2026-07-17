@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zu dem Internationalen Schiffsvermessungs-Übereinkommen vom 23. Juni
-  1969
+Title: Gesetz zu dem Internationalen Schiffsvermessungs-Übereinkommen vom 23. Juni 1969
 jurabk: IntSchVermÜbkG
 layout: default
 origslug: intschverm_bkg
@@ -28,8 +27,8 @@ Zuletzt geändert durch
 ## Art 2
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur wird
-ermächtigt, durch Rechtsverordnung Änderungen der Anlagen I - Regeln
-für die Ermittlung der Brutto- und Nettoraumzahlen - und II -
+ermächtigt, durch Rechtsverordnung Änderungen der Anlagen I -
+Regeln für die Ermittlung der Brutto- und Nettoraumzahlen - und II -
 Internationaler Schiffsmeßbrief (1969) - zum Übereinkommen, die von
 den Vertragsregierungen nach Artikel 18 des Übereinkommens angenommen
 wurden und die sich im Rahmen der Ziele des Übereinkommens halten, in
@@ -37,7 +36,6 @@ Kraft zu setzen.
 
 
 ## (XXXX) Art 3 u. 4
-
 
 
 ## Art 5

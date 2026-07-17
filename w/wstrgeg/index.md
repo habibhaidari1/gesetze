@@ -22,12 +22,11 @@ Zuletzt geändert durch
 ## (XXXX) Art 1 bis 3
 
 
-
 ## Art 4 Vormilitärische Straftaten
 
-Ist wegen einer vor Beginn des Wehrdienstes begangenen Straftat die
-Vollstreckung der Strafe zur Bewährung ausgesetzt (§§ 56 bis 58 des
-Strafgesetzbuches), so gelten für die Dauer des
+Ist wegen einer vor Beginn des Wehrdienstes begangenen Straftat
+die Vollstreckung der Strafe zur Bewährung ausgesetzt (§§ 56
+bis 58 des Strafgesetzbuches), so gelten für die Dauer des
 Wehrdienstverhältnisses eines Soldaten der Bundeswehr folgende
 besonderen Vorschriften:
 
@@ -36,19 +35,14 @@ besonderen Vorschriften:
     berücksichtigen. Bewährungsauflagen und Weisungen, die bereits
     angeordnet sind, soll der Richter diesen Besonderheiten anpassen.
 
-
-2.  Als ehrenamtlicher Bewährungshelfer (§ 56d des Strafgesetzbuches) kann
-    ein Soldat bestellt werden. Er untersteht bei der Überwachung des
+2.  Als ehrenamtlicher Bewährungshelfer (§ 56d des Strafgesetzbuches)
+    kann ein Soldat bestellt werden. Er untersteht bei der Überwachung des
     Verurteilten nicht den Anweisungen des Gerichts.
-
 
 3.  Von der Überwachung durch einen Bewährungshelfer, der nicht Soldat
     ist, sind Angelegenheiten ausgeschlossen, für welche die militärischen
     Vorgesetzten des Verurteilten zu sorgen haben. Maßnahmen des
     Disziplinarvorgesetzten haben den Vorrang.
-
-
-
 
 
 ## Art 5 Vollzug von Freiheitsstrafen und Jugendarrest an Soldaten der Bundeswehr
@@ -71,28 +65,24 @@ Gründe entgegenstehen und
 
 1.  der Verurteilte in Geisteskrankheit verfällt,
 
-
 2.  von der Vollstreckung eine nahe Lebensgefahr für den Verurteilten zu
     besorgen ist oder
 
-
 3.  der Verurteilte in einer Sanitätseinrichtung der Bundeswehr oder in
     einer anderen Krankenanstalt stationär aufgenommen wird.
-
-
 
 § 458 Abs. 2, Abs. 3 Satz 1 der Strafprozeßordnung ist anzuwenden.
 
 
 ## Art 7 Ausführungsvorschriften für den Vollzug
 
-(1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates für den Vollzug durch Behörden der
-Bundeswehr Vorschriften zu erlassen, die sich auf die Berechnung der
-Dauer der Freiheitsentziehung, die Art der Unterbringung, die
-Behandlung, die Beschäftigung, die Gewährung und den Entzug von
-Vergünstigungen, den Verkehr mit der Außenwelt, die Ordnung und
-Sicherheit im Vollzug und die Ahndung von Verstößen hiergegen
+(1) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung
+mit Zustimmung des Bundesrates für den Vollzug durch Behörden der
+Bundeswehr Vorschriften zu erlassen, die sich auf die Berechnung
+der Dauer der Freiheitsentziehung, die Art der Unterbringung,
+die Behandlung, die Beschäftigung, die Gewährung und den Entzug
+von Vergünstigungen, den Verkehr mit der Außenwelt, die Ordnung
+und Sicherheit im Vollzug und die Ahndung von Verstößen hiergegen
 beziehen.
 
 (2) Durch die Rechtsverordnung können die Grundrechte der körperlichen

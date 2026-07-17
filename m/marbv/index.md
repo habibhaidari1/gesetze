@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Gewährung von Mehrarbeitsvergütung für Beamtinnen und Beamte
-  des Bundes
+Title: Verordnung über die Gewährung von Mehrarbeitsvergütung für Beamtinnen und Beamte des Bundes
 jurabk: MArbV
 layout: default
 origslug: marbv
@@ -20,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 4.11.2009 I 3701;
 
 Zuletzt geändert durch
-:   Art. 8 G v. 9.7.2021 I 2444
-
-Änderung durch
-:   Art. 9 G v. 9.7.2021 I 2444 (Nr. 42) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 12 G v. 27.2.2025 I Nr. 72
 
 
 ## § 1
@@ -41,64 +37,56 @@ eine Vergütung gewährt werden:
 1.  im ärztlichen und Pflegedienst der Krankenhäuser, Kliniken und
     Sanatorien,
 
-
 2.  im Betriebsdienst des Bundeseisenbahnvermögens, soweit dieser bei der
-    Deutsche Bahn Aktiengesellschaft sowie einer gemäß § 2 Abs. 1 und § 3
-    Abs. 3 des Deutsche Bahn Gründungsgesetzes vom 27. Dezember 1993
+    Deutsche Bahn Aktiengesellschaft sowie einer gemäß § 2 Abs. 1 und §
+    3 Abs. 3 des Deutsche Bahn Gründungsgesetzes vom 27. Dezember 1993
     (BGBl. I S. 2378, 2386) ausgegliederten Gesellschaft geleistet wird,
     und im Dienst der Nachfolgeunternehmen der Deutschen Bundespost,
 
-
 3.  im Abfertigungsdienst der Zollverwaltung,
-
 
 4.  im polizeilichen Vollzugsdienst,
 
-
 5.  im Einsatzdienst der Berufsfeuerwehr,
 
-
 6.  im Schuldienst als Lehrkraft.
-
-
-
 
 (2) Absatz 1 gilt entsprechend auch in anderen Bereichen, soweit
 Mehrarbeit geleistet wird im Rahmen eines
 
 1.  Dienstes in Bereitschaft,
 
-
 2.  Schichtdienstes,
-
 
 3.  allgemein geltenden besonderen Dienstplanes, wenn ihn die Eigenart des
     Dienstes erfordert,
-
 
 4.  Dienstes, der ausschließlich aus gleichartigen, im wesentlichen die
     gleiche Arbeitszeit erfordernden Arbeitsvorgängen besteht, für die der
     Dienstherr Richtwerte eingeführt hat,
 
-
 5.  Dienstes zur Herbeiführung eines im öffentlichen Interesse liegenden
     unaufschiebbaren und termingebundenen Ergebnisses.
-
-
-
 
 (3) Eine Mehrarbeitsvergütung wird nicht gewährt neben
 
 1.  einer Vergütung nach § 50c des Bundesbesoldungsgesetzes,
 
-
 2.  Auslandsbesoldung nach Abschnitt 5 des Bundesbesoldungsgesetzes,
-
 
 3.  einer Vergütung nach der Sanitätsdienstvergütungsverordnung.
 
+Abweichend von Satz 1 Nummer 2 kann im Geschäftsbereich des
+Bundesministeriums der Verteidigung neben Auslandsdienstbezügen nach §
+52 des Bundesbesoldungsgesetzes eine Vergütung für Mehrarbeit gewährt
+werden, wenn eine Dienstbefreiung nicht möglich ist wegen
 
+1.  einer unmittelbaren Unterstützung soldatischer Tätigkeiten in
+    den Streitkräften zum Zwecke der Sicherstellung der militärischen
+    Einsatzbereitschaft im Rahmen der Landes- und Bündnisverteidigung oder
 
+2.  einer unmittelbaren Unterstützung in den Fällen des § 30c Absatz 4
+    des Soldatengesetzes.
 
 (4) Ist die Gewährung einer Mehrarbeitsvergütung neben einer Zulage
 ganz oder teilweise ausgeschlossen, gilt dies auch für eine nach
@@ -113,20 +101,15 @@ bis zur Hälfte aufgezehrt ist.
 1.  von Beamtinnen und Beamten geleistet wurde, für die beamtenrechtliche
     Arbeitszeitregelungen gelten,
 
-
 2.  schriftlich oder elektronisch angeordnet oder genehmigt wurde,
 
-
 3.  aus zwingenden dienstlichen Gründen nicht durch Dienstbefreiung
-    innerhalb eines Jahres ausgeglichen werden kann und
+    innerhalb einer Ausschlussfrist von einem Jahr ausgeglichen werden
+    kann und
 
-
-4.  die sich aus der regelmäßigen wöchentlichen Arbeitszeit ergebende
-    Arbeitszeit um mehr als fünf Stunden im Kalendermonat
+4.  die sich aus der regelmäßigen wöchentlichen Arbeitszeit
+    ergebende Arbeitszeit um mehr als fünf Stunden im Kalendermonat
     (Mindeststundenzahl) übersteigt.
-
-
-
 
 (2) Soweit nur während eines Teils eines Kalendermonats Dienst
 geleistet wurde, gilt die Mindeststundenzahl für die jeweils anteilige
@@ -136,8 +119,8 @@ dem Umfang der bewilligten Teilzeitbeschäftigung.
 (3) Besteht keine feste tägliche Arbeitszeit, so dass eine Mehrarbeit
 nicht für den einzelnen Arbeitstag, sondern nur auf Grund der
 regelmäßigen wöchentlichen Arbeitszeit für eine volle Woche ermittelt
-werden kann, so ist Mehrarbeit innerhalb einer Kalenderwoche, wenn
-diese zum Teil auf den laufenden, zum Teil auf den folgenden
+werden kann, so ist Mehrarbeit innerhalb einer Kalenderwoche,
+wenn diese zum Teil auf den laufenden, zum Teil auf den folgenden
 Kalendermonat fällt, diesem zuzurechnen.
 
 
@@ -145,39 +128,11 @@ Kalendermonat fällt, diesem zuzurechnen.
 
 (1) Die Vergütung beträgt je Stunde
 
-*    *   1.
-
-    *   in den Besoldungsgruppen
-        A 3 bis A 4
-
-    *   13,61 Euro,
-
-
-*    *   2.
-
-    *   in den Besoldungsgruppen
-        A 5 bis A 8
-
-    *   16,08 Euro,
-
-
-*    *   3.
-
-    *   in den Besoldungsgruppen
-        A 9 bis A 12
-
-    *   22,09 Euro,
-
-
-*    *   4.
-
-    *   in den Besoldungsgruppen
-        A 13 bis A 16
-
-    *   30,41 Euro.
-
-
-
+| 1. | in den Besoldungsgruppen A 3 bis A 4 | 15,42 Euro, |
+| --- | --- | --- |
+| 2. | in den Besoldungsgruppen A 5 bis A 8 | 18,22 Euro, |
+| 3. | in den Besoldungsgruppen A 9 bis A 12 | 25,03 Euro, |
+| 4. | in den Besoldungsgruppen A 13 bis A 16 | 34,46 Euro. |
 
 (2) Diese Beträge gelten auch für Beamtinnen und Beamte vergleichbarer
 Besoldungsgruppen, die der Bundesbesoldungsordnung C angehören.
@@ -186,24 +141,12 @@ Besoldungsgruppen, die der Bundesbesoldungsordnung C angehören.
 Absatz 1 je Unterrichtsstunde für Lehrkräfte an Fachhochschulen und
 Fachschulen des Bundes
 
-*    *   1.
+| 1. | im gehobenen Dienst | 34,24 Euro, |
+| --- | --- | --- |
+| 2. | im höheren Dienst | 40,00 Euro. |
 
-    *   im gehobenen Dienst
-
-    *   30,22 Euro,
-
-
-*    *   2.
-
-    *   im höheren Dienst
-
-    *   35,30 Euro.
-
-
-
-
-(4) Die in den Absätzen 1 und 3 enthaltenen Vergütungssätze gelten nur
-für Mehrarbeit, die nach dem Inkrafttreten dieser Sätze geleistet
+(4) Die in den Absätzen 1 und 3 enthaltenen Vergütungssätze gelten
+nur für Mehrarbeit, die nach dem Inkrafttreten dieser Sätze geleistet
 wird.
 
 
@@ -235,8 +178,8 @@ Inanspruchnahme berücksichtigt; dabei ist schon die Ableistung eines
 Dienstes in Bereitschaft als solche in jeweils angemessenem Umfang
 anzurechnen.
 
-(2) Bei Mehrarbeit im Schuldienst beträgt die Mindeststundenzahl nach
-§ 3 Absatz 1 Nummer 4 drei Unterrichtsstunden. § 3 Absatz 2 gilt
+(2) Bei Mehrarbeit im Schuldienst beträgt die Mindeststundenzahl
+nach § 3 Absatz 1 Nummer 4 drei Unterrichtsstunden. § 3 Absatz 2 gilt
 entsprechend.
 
 (3) Ergibt sich bei der monatlichen Mehrarbeitsstundenberechnung ein

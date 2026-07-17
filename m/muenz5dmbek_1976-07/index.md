@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen
-  Mark (Grimmelshausen-Gedenkmünze)
+Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Grimmelshausen-Gedenkmünze)
 jurabk: Münz5DMBek 1976-07
 layout: default
 origslug: m_nz5dmbek_1976-07
@@ -17,11 +16,10 @@ Fundstelle
 :   BGBl I: 1976, 1870 (2425)
 
 
-
 ## (XXXX)
 
-(1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen vom
-8\. Juli 1950 (Bundesgesetzbl. S. 323) ist aus Anlaß der 300.
+(1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen
+vom 8. Juli 1950 (Bundesgesetzbl. S. 323) ist aus Anlaß der 300.
 Wiederkehr des Todestages von Hans Jacob Christoph von Grimmelshausen
 eine Bundesmünze (Gedenkmünze) im Nennwert von 5 Deutschen Mark
 geprägt worden. Die Ausprägung erfolgte im Bayerischen Hauptmünzamt
@@ -41,38 +39,28 @@ schützenden glatten Randstab umgeben.
 Originalausgabe des "Simplicissimus". Es zeigt ein Fabelwesen mit
 aufgeschlagenem Buch. Ferner weist die Bildseite die Umschrift
 
-*   "HANS JACOB CHRISTOPH
+-   "HANS JACOB CHRISTOPH
 
     VON GRIMMELSHAUSEN
 
-    1621
-    geb. 1676
-    gest."
-
-
+    1621 geb. 1676 gest."
 
 auf.
 
 (6) Die Wertseite trägt einen Adler. Über dem Adler ist die Umschrift
 
-*   "BUNDESREPUBLIK DEUTSCHLAND",
-
-
+-   "BUNDESREPUBLIK DEUTSCHLAND",
 
 am unteren Münzrand die Jahreszahl "1976" und die Umschrift
 
-*   "5 DEUTSCHE MARK"
-
-
+-   "5 DEUTSCHE MARK"
 
 angebracht. Das Münzzeichen "D" des Bayerischen Hauptmünzamtes München
 befindet sich unterhalb der rechten Kralle des Adlers.
 
 (7) Der glatte Münzrand trägt die vertiefte Inschrift
 
-*   "DER ABENTHEURLICHE SIMPLICISSIMUS".
-
-
+-   "DER ABENTHEURLICHE SIMPLICISSIMUS".
 
 Zwischen Ende und Anfang der Randschrift sind zwei kleine stilisierte
 Masken eingeprägt.

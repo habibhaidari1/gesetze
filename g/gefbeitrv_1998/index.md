@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Pauschalberechnung der Beiträge zur Arbeitsförderung für
-  Gefangene
+Title: Verordnung über die Pauschalberechnung der Beiträge zur Arbeitsförderung für Gefangene
 jurabk: GefBeitrV 1998
 layout: default
 origslug: gefbeitrv_1998
@@ -37,34 +36,30 @@ zugrunde zu legen:
     Arbeitsförderung für versicherungspflichtige Gefangene (§ 345 Nr. 3
     des Dritten Buches Sozialgesetzbuch - BBGrdl),
 
-
 2.  die Summe der Tage, für die versicherungspflichtige Gefangene
-    innerhalb des Kalenderjahres Arbeitsentgelt, Ausbildungsbeihilfe oder
-    Ausfallentschädigung (§§ 43 bis 45, 176 und 177 des
+    innerhalb des Kalenderjahres Arbeitsentgelt, Ausbildungsbeihilfe
+    oder Ausfallentschädigung (§§ 43 bis 45, 176 und 177 des
     Strafvollzugsgesetzes) erhalten oder Ausbildungsbeihilfe nur wegen des
     Vorrangs von Leistungen zur Förderung der Berufsausbildung nach dem
     Dritten Buch Sozialgesetzbuch nicht erhalten haben, im Verhältnis zu
     den Arbeitstagen des Kalenderjahres
 
-
-
-( T )
-(---) und
-(250)
+```
+    ( T )    (---) und    (250)
+```
 
 3.  der Beitragssatz (§ 341 Abs. 2 des Dritten Buches Sozialgesetzbuch) im
     Durchschnitt des Kalenderjahres
 
-
-
-( B )
-(---).
-(100)
+```
+    ( B )    (---).    (100)
+```
 
 (2) Die Beiträge werden nach folgender Formel berechnet:
-T     B
-BBGrdl x --- x ---.
-250   100
+
+```
+                      T     B            BBGrdl x --- x ---.                     250   100
+```
 
 
 ## § 2 Zahlungsweise und -verfahren

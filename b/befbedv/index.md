@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Allgemeinen Beförderungsbedingungen für den Straßenbahn-
-  und Obusverkehr sowie den Linienverkehr mit Kraftfahrzeugen
+Title: Verordnung über die Allgemeinen Beförderungsbedingungen für den Straßenbahn- und Obusverkehr sowie den Linienverkehr mit Kraftfahrzeugen
 jurabk: BefBedV
 layout: default
 origslug: befbedv
@@ -17,10 +16,7 @@ Fundstelle
 :   BGBl I: 1970, 230
 
 Zuletzt geändert durch
-:   Art. 1 V v. 21.5.2015 I 782
-
-Änderung durch
-:   Art. 1 G v. 16.4.2021 I 822 (Nr. 19) mWv 2.8.2021 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 5a G v. 16.4.2021 I 822
 
 
 ## Eingangsformel
@@ -34,11 +30,11 @@ verordnet:
 
 ## § 1 Geltungsbereich
 
-(1) Die Allgemeinen Beförderungsbedingungen gelten für die Beförderung
-im Straßenbahn- und Obusverkehr sowie im Linienverkehr mit
-Kraftfahrzeugen. Die zuständige Genehmigungsbehörde kann in
-Berücksichtigung besonderer Verhältnisse Anträgen auf Abweichungen von
-den Bestimmungen dieser Verordnung zustimmen (Besondere
+(1) Die Allgemeinen Beförderungsbedingungen gelten für die
+Beförderung im Straßenbahn- und Obusverkehr sowie im Linienverkehr
+mit Kraftfahrzeugen. Die zuständige Genehmigungsbehörde kann in
+Berücksichtigung besonderer Verhältnisse Anträgen auf Abweichungen
+von den Bestimmungen dieser Verordnung zustimmen (Besondere
 Beförderungsbedingungen).
 
 (2)
@@ -46,8 +42,8 @@ Beförderungsbedingungen).
 
 ## § 2 Anspruch auf Beförderung
 
-Anspruch auf Beförderung besteht, soweit nach den Vorschriften des
-Personenbeförderungsgesetzes und den auf Grund dieses Gesetzes
+Anspruch auf Beförderung besteht, soweit nach den Vorschriften
+des Personenbeförderungsgesetzes und den auf Grund dieses Gesetzes
 erlassenen Rechtsvorschriften eine Beförderungspflicht gegeben ist.
 Sachen werden nur nach Maßgabe der §§ 11 und 12 befördert.
 
@@ -62,15 +58,10 @@ insbesondere ausgeschlossen
 1.  Personen, die unter dem Einfluß geistiger Getränke oder anderer
     berauschender Mittel stehen,
 
-
 2.  Personen mit ansteckenden Krankheiten,
-
 
 3.  Personen mit geladenen Schußwaffen, es sei denn, daß sie zum Führen
     von Schußwaffen berechtigt sind.
-
-
-
 
 (2) Nicht schulpflichtige Kinder vor Vollendung des 6. Lebensjahrs
 können von der Beförderung ausgeschlossen werden, sofern sie nicht auf
@@ -90,30 +81,20 @@ gebieten. Anweisungen des Betriebspersonals ist zu folgen.
 
 1.  sich mit dem Fahrzeugführer während der Fahrt zu unterhalten,
 
-
 2.  die Türen während der Fahrt eigenmächtig zu öffnen,
-
 
 3.  Gegenstände aus den Fahrzeugen zu werfen oder hinausragen zu lassen,
 
-
 4.  während der Fahrt auf- oder abzuspringen,
 
-
 5.  ein als besetzt bezeichnetes Fahrzeug zu betreten,
-
 
 6.  die Benutzbarkeit der Betriebseinrichtungen, der Durchgänge und der
     Ein- und Ausstiege durch sperrige Gegenstände zu beeinträchtigen,
 
-
 7.  auf unterirdischen Bahnsteiganlagen zu rauchen,
 
-
 8.  Tonwiedergabegeräte oder Tonrundfunkempfänger zu benutzen.
-
-
-
 
 (3) Die Fahrgäste dürfen die Fahrzeuge nur an den Haltestellen
 betreten und verlassen; Ausnahmen bedürfen der Zustimmung des
@@ -135,12 +116,12 @@ Rückhalteeinrichtung für Kinder gesichert sind.
 Pflichten nach den Absätzen 1 bis 4, so kann er von der Beförderung
 ausgeschlossen werden.
 
-(6) Bei Verunreinigung von Fahrzeugen oder Betriebsanlagen werden vom
-Unternehmer festgesetzte Reinigungskosten erhoben; weitergehende
+(6) Bei Verunreinigung von Fahrzeugen oder Betriebsanlagen werden
+vom Unternehmer festgesetzte Reinigungskosten erhoben; weitergehende
 Ansprüche bleiben unberührt.
 
-(7) Beschwerden sind - außer in den Fällen des § 6 Abs. 7 und des § 7
-Abs. 3 - nicht an das Fahr-, sondern an das Aufsichtspersonal zu
+(7) Beschwerden sind - außer in den Fällen des § 6 Abs. 7 und des §
+7 Abs. 3 - nicht an das Fahr-, sondern an das Aufsichtspersonal zu
 richten. Soweit die Beschwerden nicht durch das Aufsichtspersonal
 erledigt werden können, sind sie unter Angabe von Datum, Uhrzeit,
 Wagen- und Linienbezeichnung sowie möglichst unter Beifügung des
@@ -155,8 +136,8 @@ gegen die Untersagung nach Absatz 2 Nr. 3 oder Nr. 7 verstoßen wird.
 
 ## § 5 Zuweisen von Wagen und Plätzen
 
-(1) Das Betriebspersonal kann Fahrgäste auf bestimmte Wagen verweisen,
-wenn dies aus betrieblichen Gründen oder zur Erfüllung der
+(1) Das Betriebspersonal kann Fahrgäste auf bestimmte Wagen
+verweisen, wenn dies aus betrieblichen Gründen oder zur Erfüllung der
 Beförderungspflicht notwendig ist.
 
 (2) Das Betriebspersonal ist berechtigt, Fahrgästen Plätze zuzuweisen;
@@ -168,8 +149,8 @@ Kindern freizugeben.
 
 ## § 6 Beförderungsentgelte, Fahrausweise
 
-(1) Für die Beförderung sind die festgesetzten Beförderungsentgelte zu
-entrichten.
+(1) Für die Beförderung sind die festgesetzten Beförderungsentgelte
+zu entrichten.
 
 (2) Ist der Fahrgast beim Betreten des Fahrzeugs nicht mit einem für
 diese Fahrt gültigen Fahrausweis versehen, hat er unverzüglich und
@@ -177,8 +158,8 @@ unaufgefordert den erforderlichen Fahrausweis zu lösen.
 
 (3) Ist der Fahrgast beim Betreten des Fahrzeugs mit einem Fahrausweis
 versehen, der zu entwerten ist, hat er diesen dem Betriebspersonal
-unverzüglich und unaufgefordert zur Entwertung auszuhändigen; in
-Fahrzeugen mit Entwertern hat der Fahrgast den Fahrausweis
+unverzüglich und unaufgefordert zur Entwertung auszuhändigen;
+in Fahrzeugen mit Entwertern hat der Fahrgast den Fahrausweis
 entsprechend der Beförderungsstrecke unverzüglich zu entwerten und
 sich von der Entwertung zu überzeugen.
 
@@ -216,8 +197,8 @@ Fahrt abzubrechen.
 ausgestellten Quittung müssen sofort vorgebracht werden.
 
 (4) Die besonderen Beförderungsbedingungen können vorsehen, dass das
-Verkehrsunternehmen nicht verpflichtet ist, an der Haltestelle oder im
-Fahrzeug einen Fahrausweiserwerb mit Bargeld zu ermöglichen, sofern
+Verkehrsunternehmen nicht verpflichtet ist, an der Haltestelle oder
+im Fahrzeug einen Fahrausweiserwerb mit Bargeld zu ermöglichen, sofern
 auf andere Weise ein Fahrausweiserwerb angeboten wird.
 
 
@@ -231,29 +212,20 @@ die
 1.  nicht vorschriftsmäßig ausgefüllt sind und trotz Aufforderung nicht
     sofort ausgefüllt werden,
 
-
 2.  nicht mit aufgeklebter Wertmarke versehen sind,
-
 
 3.  zerrissen, zerschnitten oder sonst stark beschädigt, stark beschmutzt
     oder unleserlich sind, so daß sie nicht mehr geprüft werden können,
 
-
 4.  eigenmächtig geändert sind,
-
 
 5.  von Nichtberechtigten benutzt werden,
 
-
 6.  zu anderen als den zulässigen Fahrten benutzt werden,
-
 
 7.  wegen Zeitablaufs oder aus anderen Gründen verfallen sind,
 
-
 8.  ohne das erforderliche Lichtbild benutzt werden.
-
-
 
 Fahrgeld wird nicht erstattet.
 
@@ -270,23 +242,18 @@ verpflichtet, wenn er
 
 1.  sich keinen gültigen Fahrausweis beschafft hat,
 
-
 2.  sich einen gültigen Fahrausweis beschafft hat, diesen jedoch bei einer
     Überprüfung nicht vorzeigen kann,
-
 
 3.  den Fahrausweis nicht oder nicht unverzüglich im Sinne des § 6 Abs. 3
     entwertet hat oder entwerten ließ oder
 
-
 4.  den Fahrausweis auf Verlangen nicht zur Prüfung vorzeigt oder
     aushändigt.
 
-
-
-Eine Verfolgung im Straf- oder Bußgeldverfahren bleibt unberührt. Die
-Vorschriften unter den Nummern 1 und 3 werden nicht angewendet, wenn
-das Beschaffen oder die Entwertung des Fahrausweises aus Gründen
+Eine Verfolgung im Straf- oder Bußgeldverfahren bleibt unberührt.
+Die Vorschriften unter den Nummern 1 und 3 werden nicht angewendet,
+wenn das Beschaffen oder die Entwertung des Fahrausweises aus Gründen
 unterblieben ist, die der Fahrgast nicht zu vertreten hat.
 
 (2) In den Fällen des Absatzes 1 kann der Unternehmer ein erhöhtes
@@ -299,8 +266,8 @@ wenn der Fahrgast die zurückgelegte Strecke nicht nachweisen kann.
 
 (3) Das erhöhte Beförderungsentgelt ermäßigt sich im Falle von Absatz
 1 Nr. 2 auf 7 Euro, wenn der Fahrgast innerhalb einer Woche ab dem
-Feststellungstag bei der Verwaltung des Unternehmers nachweist, daß er
-im Zeitpunkt der Feststellung Inhaber einer gültigen persönlichen
+Feststellungstag bei der Verwaltung des Unternehmers nachweist, daß
+er im Zeitpunkt der Feststellung Inhaber einer gültigen persönlichen
 Zeitkarte war.
 
 (4) Bei Verwendung von ungültigen Zeitkarten bleiben weitergehende
@@ -314,26 +281,26 @@ Beförderungsentgelt auf Antrag gegen Vorlage des Fahrausweises
 erstattet. Beweispflichtig für die Nichtbenutzung des Fahrausweises
 ist der Fahrgast.
 
-(2) Wird ein Fahrausweis nur auf einem Teil der Strecke zur Fahrt
-benutzt, so wird der Unterschied zwischen dem gezahlten
+(2) Wird ein Fahrausweis nur auf einem Teil der Strecke zur
+Fahrt benutzt, so wird der Unterschied zwischen dem gezahlten
 Beförderungsentgelt und dem für die zurückgelegte Strecke
 erforderlichen Beförderungsentgelt auf Antrag gegen Vorlage des
 Fahrausweises erstattet. Beweispflichtig für die nur teilweise
 Benutzung des Fahrausweises ist der Fahrgast.
 
-(3) Wird eine Zeitkarte nicht oder nur teilweise benutzt, so wird das
-Beförderungsentgelt für die Zeitkarte unter Anrechnung des
+(3) Wird eine Zeitkarte nicht oder nur teilweise benutzt, so wird
+das Beförderungsentgelt für die Zeitkarte unter Anrechnung des
 Beförderungsentgelts für die durchgeführten Einzelfahrten auf Antrag
-gegen Vorlage des Fahrausweises erstattet. Für die Feststellung des
-Zeitpunkts, bis zu dem Einzelfahrten - je Tag zwei Fahrten - als
-durchgeführt gelten, ist der Tag der Rückgabe oder Hinterlegung der
-Zeitkarte oder das Datum des Poststempels der Übersendung der
-Zeitkarte mit der Post maßgeblich. Ein früherer Zeitpunkt kann nur
-berücksichtigt werden, wenn die Bescheinigung eines Arztes, eines
-Krankenhauses oder einer Krankenkasse über Krankheit, Unfall oder Tod
-des Fahrgasts vorgelegt wird. Bei der Anrechnung des
-Beförderungsentgelts für die durchgeführten Einzelfahrten wird eine
-Ermäßigung nur bei Vorliegen der hierfür erforderlichen
+gegen Vorlage des Fahrausweises erstattet. Für die Feststellung
+des Zeitpunkts, bis zu dem Einzelfahrten - je Tag zwei Fahrten -
+als durchgeführt gelten, ist der Tag der Rückgabe oder Hinterlegung
+der Zeitkarte oder das Datum des Poststempels der Übersendung der
+Zeitkarte mit der Post maßgeblich. Ein früherer Zeitpunkt kann
+nur berücksichtigt werden, wenn die Bescheinigung eines Arztes,
+eines Krankenhauses oder einer Krankenkasse über Krankheit, Unfall
+oder Tod des Fahrgasts vorgelegt wird. Bei der Anrechnung des
+Beförderungsentgelts für die durchgeführten Einzelfahrten wird
+eine Ermäßigung nur bei Vorliegen der hierfür erforderlichen
 Voraussetzungen, im übrigen das Beförderungsentgelt für einfache Fahrt
 zugrunde gelegt.
 
@@ -365,15 +332,10 @@ Gegenstände ausgeschlossen, insbesondere
 1.  explosionsfähige, leicht entzündliche, radioaktive, übelriechende oder
     ätzende Stoffe,
 
-
 2.  unverpackte oder ungeschützte Sachen, durch die Fahrgäste verletzt
     werden können,
 
-
 3.  Gegenstände, die über die Wagenumgrenzung hinausragen.
-
-
-
 
 (3) Die Pflicht zur Beförderung von Kleinkindern in Kinderwagen
 richtet sich nach den Vorschriften des § 2 Satz 1. Nach Möglichkeit
@@ -415,8 +377,8 @@ abzuliefern. Eine Fundsache wird an den Verlierer durch das Fundbüro
 des Unternehmers gegen Zahlung eines Entgelts für die Aufbewahrung
 zurückgegeben. Sofortige Rückgabe an den Verlierer durch das
 Betriebspersonal ist zulässig, wenn er sich einwandfrei als Verlierer
-ausweisen kann. Der Verlierer hat den Empfang der Sache schriftlich zu
-bestätigen.
+ausweisen kann. Der Verlierer hat den Empfang der Sache schriftlich
+zu bestätigen.
 
 
 ## § 14 Haftung
@@ -424,9 +386,9 @@ bestätigen.
 Der Unternehmer haftet für die Tötung oder Verletzung eines Fahrgasts
 und für Schäden an Sachen, die der Fahrgast an sich trägt oder mit
 sich führt, nach den allgemein geltenden Bestimmungen. Für Sachschäden
-haftet der Unternehmer gegenüber jeder beförderten Person nur bis zum
-Höchstbetrag von 1.000 Euro; die Begrenzung der Haftung gilt nicht,
-wenn die Sachschäden auf Vorsatz oder grobe Fahrlässigkeit
+haftet der Unternehmer gegenüber jeder beförderten Person nur bis
+zum Höchstbetrag von 1.000 Euro; die Begrenzung der Haftung gilt
+nicht, wenn die Sachschäden auf Vorsatz oder grobe Fahrlässigkeit
 zurückzuführen sind.
 
 

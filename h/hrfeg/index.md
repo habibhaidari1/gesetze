@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl I: 1997, 3251
 
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
@@ -24,7 +23,6 @@ beschlossen:
 
 
 ## (XXXX) Art 1 bis 4
-
 
 
 ## Art 5 Umsetzung

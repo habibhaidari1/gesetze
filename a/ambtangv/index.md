@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl I: 1991, 1968
 
 
-
 ## Eingangsformel
 
 Auf Grund des § 12 Abs. 1a des Arzneimittelgesetzes vom 24. August
@@ -32,9 +31,9 @@ für Ernährung, Landwirtschaft und Forsten:
 ## § 1
 
 (1) Die in der Anlage genannten Stoffe oder Zubereitungen aus Stoffen
-unterliegen nicht der Verpflichtung zur Angabe nach § 11 Abs. 1 Satz 1
-Nr. 3 und § 11a Abs. 1 Satz 2 Nr. 3 des Arzneimittelgesetzes, soweit
-es sich nicht um wirksame Bestandteile handelt und sie in
+unterliegen nicht der Verpflichtung zur Angabe nach § 11 Abs. 1
+Satz 1 Nr. 3 und § 11a Abs. 1 Satz 2 Nr. 3 des Arzneimittelgesetzes,
+soweit es sich nicht um wirksame Bestandteile handelt und sie in
 Arzneimitteln der in der Anlage jeweils genannten Anwendungsbereiche
 verwendet werden.
 
@@ -67,9 +66,7 @@ Der Bundesrat hat zugestimmt.
 
 ## Anlage
 
-
 1   Stoffe zur pH-Wert-Einstellung oder zur Pufferung
-
 
 1.1 in Arzneimitteln zur Anwendung auf der Haut und Schleimhaut
     einschließlich der Vaginalschleimhaut, mit Ausnahme der Arzneimittel
@@ -103,7 +100,6 @@ Der Bundesrat hat zugestimmt.
 
     Weinsäure
 
-
 1.2 in Arzneimitteln zur Anwendung am Auge:
 
     Essigsäure und ihre Natrium- und Kaliumsalze
@@ -119,7 +115,6 @@ Der Bundesrat hat zugestimmt.
     Salzsäure
 
     Wasser
-
 
 2   Stoffe in oral anzuwendenden Arzneimitteln:
 
@@ -143,9 +138,9 @@ Der Bundesrat hat zugestimmt.
 
     Maleinsäure
 
-    Mono- und Disaccharide, abbaubare, ausgenommen Lactose, sowie Sorbit
-    und Xylit, wenn mit der Tagesdosis des Fertigarzneimittels für
-    Erwachsene nicht mehr als 3 g und für Kinder nicht mehr als 2 g
+    Mono- und Disaccharide, abbaubare, ausgenommen Lactose, sowie
+    Sorbit und Xylit, wenn mit der Tagesdosis des Fertigarzneimittels
+    für Erwachsene nicht mehr als 3 g und für Kinder nicht mehr als 2 g
     verabreicht werden
 
     Milchsäure und ihr Natriumsalz
@@ -170,7 +165,6 @@ Der Bundesrat hat zugestimmt.
 
     Weinsäure
 
-
 3   Stoffe in Impfstoffen in physiologisch unbedeutenden Mengen:
 
     Aminosäuren und Peptide, Purine und Pyrimidine
@@ -184,7 +178,4 @@ Der Bundesrat hat zugestimmt.
     Wasser
 
     Zuckeralkohole (Dulcit, Inosit, Mannit, Sorbit)
-
-
-
 

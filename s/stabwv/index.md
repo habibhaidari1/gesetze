@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 5236
 
+Zuletzt geändert durch
+:   Art. 1 V v. 20.12.2024 I Nr. 444
+
 
 ## Eingangsformel
 
@@ -34,51 +37,54 @@ Diese Verordnung benennt
     Gesetzes, die in der jeweils geltenden EU-Liste der nicht kooperativen
     Länder und Gebiete für Steuerzwecke genannt sind und
 
-
 2.  den Zeitpunkt, ab dem ein bisher als nicht kooperativ genanntes
-    Steuerhoheitsgebiet die Voraussetzungen des § 2 Absatz 1 des Gesetzes
+    Steuerhoheitsgebiet die Voraussetzungen des § 2 Absatz 1 des Gesetzes
     nicht länger erfüllt.
-
-
-
 
 
 ## § 2 Nicht kooperative Steuerhoheitsgebiete
 
-Folgende Steuerhoheitsgebiete sind nach Maßgabe des § 2 Absatz 1 des
-Gesetzes nicht kooperativ und werden im Anhang I der
+(1) Folgende Steuerhoheitsgebiete sind nach Maßgabe des § 2
+Absatz 1 des Gesetzes nicht kooperativ und werden im Anhang I der
 Schlussfolgerungen des Rates zur überarbeiteten EU-Liste nicht
-kooperativer Länder und Gebiete für Steuerzwecke vom 5. Oktober 2021
-(ABl. C 413 I vom 12.10.2021, S. 3) als nicht kooperativ genannt:
+kooperativer Länder und Gebiete für Steuerzwecke vom 8. Oktober 2024
+(ABl. C 6322 vom 18.10.2024, S. 2) als nicht kooperativ genannt (§ 1
+Nummer 1):
 
 1.  Amerikanisch-Samoa (seit dem 24. Dezember 2021),
 
+2.  Anguilla (seit dem 21. Dezember 2022),
 
-2.  Fidschi (seit dem 24. Dezember 2021),
+3.  Fidschi (seit dem 24. Dezember 2021),
 
+4.  Guam (seit dem 24. Dezember 2021),
 
-3.  Guam (seit dem 24. Dezember 2021),
+5.  Palau (seit dem 24. Dezember 2021),
 
+6.  Panama (seit dem 24. Dezember 2021),
 
-4.  Palau (seit dem 24. Dezember 2021),
+7.  Russische Föderation (seit dem 20. Dezember 2023),
 
+8.  Samoa (seit dem 24. Dezember 2021),
 
-5.  Panama (seit dem 24. Dezember 2021),
+9.  Trinidad und Tobago (seit dem 24. Dezember 2021),
 
+10. Amerikanische Jungferninseln (seit dem 24. Dezember 2021),
 
-6.  Samoa (seit dem 24. Dezember 2021),
+11. Vanuatu (seit dem 24. Dezember 2021).
 
+(2) Folgende Steuerhoheitsgebiete erfüllen nicht länger die
+Voraussetzungen des § 2 Absatz 1 des Gesetzes (§ 1 Nummer 2):
 
-7.  Trinidad und Tobago (seit dem 24. Dezember 2021),
+1.  Antigua und Barbuda (seit dem 8. Oktober 2024),
 
+2.  Bahamas (seit dem 20. Februar 2024),
 
-8.  Amerikanische Jungferninseln (seit dem 24. Dezember 2021),
+3.  Belize (seit dem 20. Februar 2024),
 
+4.  Seychellen (seit dem 20. Februar 2024),
 
-9.  Vanuatu (seit dem 24. Dezember 2021).
-
-
-
+5.  Turks- und Caicosinseln (seit dem 20. Februar 2024).
 
 
 ## § 3 Inkrafttreten

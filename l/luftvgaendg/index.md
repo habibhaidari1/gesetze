@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl I: 1958, 899
 
 
-
 ## Art 1
 
 -
@@ -40,9 +39,9 @@ Fundstelle
 ## Art 5
 
 (1) Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
-Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
-im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes
-erlassen werden, gelten im Land Berlin nach § 14 des Dritten
+Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S.
+1) auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses
+Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes. Die Beschränkungen der Lufthoheit im Land Berlin
 bleiben unberührt.
 
@@ -57,10 +56,10 @@ sind in Berlin die entsprechenden Berliner Behörden zuständig.
 
 ## Art 6
 
-(1) Soweit in diesem Gesetz auf Vorschriften verwiesen wird, die im
-Saarland nicht gelten, treten im Saarland die entsprechenden
-saarländischen Bestimmungen an deren Stelle. Einer Verweisung steht es
-gleich, wenn die Anwendbarkeit einer Bestimmung stillschweigend
+(1) Soweit in diesem Gesetz auf Vorschriften verwiesen wird, die
+im Saarland nicht gelten, treten im Saarland die entsprechenden
+saarländischen Bestimmungen an deren Stelle. Einer Verweisung steht
+es gleich, wenn die Anwendbarkeit einer Bestimmung stillschweigend
 vorausgesetzt wird.
 
 (2) Soweit Behörden angeführt sind, die im Saarland nicht bestehen,

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2011, 2515
 
 Zuletzt geändert durch
-:   Art. 1 G v. 3.12.2020 I 2702
+:   Art. 10 G v. 16.8.2023 I Nr. 217
 
 
 ## Teil 1 - Allgemeiner Teil
@@ -31,17 +31,17 @@ qualifikationsnahe Beschäftigung zu ermöglichen.
 
 ### § 2 Anwendungsbereich
 
-(1) Dieses Gesetz gilt für die Feststellung der Gleichwertigkeit im
-Ausland erworbener Ausbildungsnachweise, unter Berücksichtigung
+(1) Dieses Gesetz gilt für die Feststellung der Gleichwertigkeit
+im Ausland erworbener Ausbildungsnachweise, unter Berücksichtigung
 sonstiger nachgewiesener Berufsqualifikationen, und inländischer
-Ausbildungsnachweise für bundesrechtlich geregelte Berufe, sofern die
-entsprechenden berufsrechtlichen Regelungen nicht etwas anderes
+Ausbildungsnachweise für bundesrechtlich geregelte Berufe, sofern
+die entsprechenden berufsrechtlichen Regelungen nicht etwas anderes
 bestimmen. § 10 des Bundesvertriebenengesetzes bleibt unberührt.
 
 (2) Dieses Gesetz ist auf alle Personen anwendbar, die im Ausland
-einen Ausbildungsnachweis erworben haben und darlegen, im Inland eine
-ihren Berufsqualifikationen entsprechende Erwerbstätigkeit ausüben zu
-wollen.
+einen Ausbildungsnachweis erworben haben und darlegen, im Inland
+eine ihren Berufsqualifikationen entsprechende oder eine andere
+Erwerbstätigkeit ausüben zu wollen.
 
 
 ### § 3 Begriffsbestimmungen
@@ -57,8 +57,8 @@ werden.
 
 (3) Berufsbildung im Sinne dieses Gesetzes ist eine durch Rechts- oder
 Verwaltungsvorschriften geregelte Berufsausbildung oder berufliche
-Fortbildung. Eine Berufsausbildung vermittelt die zur Ausübung einer
-qualifizierten beruflichen Tätigkeit erforderliche berufliche
+Fortbildung. Eine Berufsausbildung vermittelt die zur Ausübung
+einer qualifizierten beruflichen Tätigkeit erforderliche berufliche
 Handlungsfähigkeit. Sie findet in einem geordneten Ausbildungsgang
 statt, der auch den Erwerb der erforderlichen Berufserfahrungen
 umfassen kann. Die berufliche Fortbildung erweitert die berufliche
@@ -90,13 +90,9 @@ sofern
     vergleichbaren beruflichen Tätigkeiten wie der entsprechende
     inländische Ausbildungsnachweis belegt und
 
-
 2.  zwischen den nachgewiesenen Berufsqualifikationen und der
     entsprechenden inländischen Berufsbildung keine wesentlichen
     Unterschiede bestehen.
-
-
-
 
 (2) Wesentliche Unterschiede zwischen den nachgewiesenen
 Berufsqualifikationen und der entsprechenden inländischen
@@ -108,18 +104,13 @@ Berufsbildung liegen vor, sofern
     von den Fertigkeiten, Kenntnissen und Fähigkeiten unterscheiden, auf
     die sich der entsprechende inländische Ausbildungsnachweis bezieht,
 
-
 2.  die nach Nummer 1 abweichenden Fertigkeiten, Kenntnisse und
     Fähigkeiten für die Ausübung des jeweiligen Berufs wesentlich sind und
-
 
 3.  die Antragstellerin oder der Antragsteller diese Unterschiede nicht
     durch sonstige Befähigungsnachweise, nachgewiesene einschlägige
     Berufserfahrung oder sonstige nachgewiesene einschlägige
     Qualifikationen ausgeglichen hat.
-
-
-
 
 
 #### § 5 Vorzulegende Unterlagen
@@ -129,30 +120,23 @@ Berufsbildung liegen vor, sofern
 1.  eine tabellarische Aufstellung der absolvierten Ausbildungsgänge und
     der ausgeübten Erwerbstätigkeiten in deutscher Sprache,
 
-
 2.  ein Identitätsnachweis,
 
-
 3.  im Ausland erworbene Ausbildungsnachweise,
-
 
 4.  Nachweise über einschlägige Berufserfahrung oder sonstige
     Befähigungsnachweise, sofern diese zur Feststellung der
     Gleichwertigkeit erforderlich sind, und
 
-
 5.  eine Erklärung, dass bisher noch kein Antrag auf Feststellung der
     Gleichwertigkeit gestellt wurde.
 
-
-
-
 (2) Die Unterlagen nach Absatz 1 Nummer 2 bis 4 sind der zuständigen
-Stelle in Form von Kopien vorzulegen oder elektronisch zu übermitteln.
-Von den Unterlagen nach Absatz 1 Nummer 3 und 4 sind Übersetzungen in
-deutscher Sprache vorzulegen. Darüber hinaus kann die zuständige
-Stelle von den Unterlagen nach Absatz 1 Nummer 2 und allen
-nachgereichten Unterlagen Übersetzungen in deutscher Sprache
+Stelle in Form von Kopien vorzulegen oder elektronisch zu
+übermitteln. Von den Unterlagen nach Absatz 1 Nummer 3 und 4 sind
+Übersetzungen in deutscher Sprache vorzulegen. Darüber hinaus kann
+die zuständige Stelle von den Unterlagen nach Absatz 1 Nummer 2 und
+allen nachgereichten Unterlagen Übersetzungen in deutscher Sprache
 verlangen. Die Übersetzungen sind von einem öffentlich bestellten oder
 beeidigten Dolmetscher oder Übersetzer erstellen zu lassen.
 
@@ -166,23 +150,31 @@ Berufsbildung sowie zu sonstigen Berufsqualifikationen vorzulegen,
 soweit dies zur Feststellung der Gleichwertigkeit erforderlich ist.
 
 (5) Bestehen begründete Zweifel an der Echtheit oder der inhaltlichen
-Richtigkeit der vorgelegten Unterlagen, kann die zuständige Stelle die
-Antragstellerin oder den Antragsteller auffordern, innerhalb einer
-angemessenen Frist Originale, beglaubigte Kopien oder weitere
+Richtigkeit der vorgelegten Unterlagen, kann die zuständige Stelle
+die Antragstellerin oder den Antragsteller auffordern, innerhalb
+einer angemessenen Frist Originale, beglaubigte Kopien oder weitere
 geeignete Unterlagen vorzulegen.
 
 (6) Die Antragstellerin oder der Antragsteller hat durch geeignete
-Unterlagen darzulegen, im Inland eine der Berufsqualifikationen
-entsprechende Erwerbstätigkeit ausüben zu wollen. Geeignete Unterlagen
-können beispielsweise der Nachweis der Beantragung eines
-Einreisevisums zur Erwerbstätigkeit, der Nachweis einer
-Kontaktaufnahme mit potenziellen Arbeitgebern oder ein
-Geschäftskonzept sein. Für Antragstellerinnen oder Antragsteller mit
-Wohnsitz in einem Mitgliedstaat der Europäischen Union, einem weiteren
-Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder
-in der Schweiz sowie für Staatsangehörige dieser Staaten ist diese
-Darlegung entbehrlich, sofern keine besonderen Gründe gegen eine
-entsprechende Absicht sprechen.
+Unterlagen darzulegen, im Inland eine Erwerbstätigkeit ausüben zu
+wollen. Geeignete Unterlagen sind beispielsweise
+
+1.  der Nachweis einer Kontaktaufnahme mit potenziellen Arbeitgebern,
+
+2.  ein Geschäftskonzept oder
+
+3.  der Vermerk über eine Standortberatung der Zentralen Servicestelle
+    Berufsanerkennung.
+
+Die zuständige Stelle darf nicht zwingend einen Vermerk über
+eine Standortberatung nach Nummer 3 fordern, wenn durch andere
+Unterlagen die Erwerbsabsicht dargelegt wurde. Für Antragstellerinnen
+oder Antragsteller mit Wohnsitz in einem Mitgliedstaat der
+Europäischen Union, einem weiteren Vertragsstaat des Abkommens
+über den Europäischen Wirtschaftsraum oder in der Schweiz sowie für
+Staatsangehörige dieser Staaten ist diese Darlegung entbehrlich,
+sofern keine besonderen Gründe gegen eine entsprechende Absicht
+sprechen.
 
 
 #### § 6 Verfahren
@@ -191,16 +183,16 @@ entsprechende Absicht sprechen.
 Ausbildungsnachweis im Sinne des § 3 Absatz 2 erworben hat. Der Antrag
 ist bei der zuständigen Stelle zu stellen.
 
-(2) Die zuständige Stelle bestätigt der Antragstellerin oder dem
-Antragsteller innerhalb eines Monats den Eingang des Antrags
-einschließlich der nach § 5 Absatz 1 vorzulegenden Unterlagen. In der
-Empfangsbestätigung ist das Datum des Eingangs bei der zuständigen
-Stelle mitzuteilen und auf die Frist nach Absatz 3 und die
-Voraussetzungen für den Beginn des Fristlaufs hinzuweisen. Sind die
-nach § 5 Absatz 1 vorzulegenden Unterlagen unvollständig, teilt die
-zuständige Stelle innerhalb der Frist des Satzes 1 mit, welche
-Unterlagen nachzureichen sind. Die Mitteilung enthält den Hinweis,
-dass der Lauf der Frist nach Absatz 3 erst mit Eingang der
+(2) Die zuständige Stelle bestätigt der Antragstellerin oder
+dem Antragsteller innerhalb eines Monats den Eingang des Antrags
+einschließlich der nach § 5 Absatz 1 vorzulegenden Unterlagen.
+In der Empfangsbestätigung ist das Datum des Eingangs bei der
+zuständigen Stelle mitzuteilen und auf die Frist nach Absatz 3
+und die Voraussetzungen für den Beginn des Fristlaufs hinzuweisen.
+Sind die nach § 5 Absatz 1 vorzulegenden Unterlagen unvollständig,
+teilt die zuständige Stelle innerhalb der Frist des Satzes 1 mit,
+welche Unterlagen nachzureichen sind. Die Mitteilung enthält den
+Hinweis, dass der Lauf der Frist nach Absatz 3 erst mit Eingang der
 vollständigen Unterlagen beginnt.
 
 (3) Die zuständige Stelle muss innerhalb von drei Monaten über die
@@ -219,8 +211,8 @@ abgewickelt werden.
 gehemmt. Im Fall des § 14 ist der Lauf der Frist nach Absatz 3 bis zur
 Beendigung des sonstigen geeigneten Verfahrens gehemmt.
 
-(5) Der Antrag soll abgelehnt werden, wenn die Gleichwertigkeit im
-Rahmen anderer Verfahren oder durch Rechtsvorschrift bereits
+(5) Der Antrag soll abgelehnt werden, wenn die Gleichwertigkeit
+im Rahmen anderer Verfahren oder durch Rechtsvorschrift bereits
 festgestellt ist.
 
 
@@ -230,8 +222,8 @@ festgestellt ist.
 schriftlichen oder elektronischen Bescheid.
 
 (2) Ist der Antrag abzulehnen, weil die Feststellung der
-Gleichwertigkeit wegen wesentlicher Unterschiede im Sinne des § 4
-Absatz 2 nicht erfolgen kann, sind in der Begründung auch die
+Gleichwertigkeit wegen wesentlicher Unterschiede im Sinne des §
+4 Absatz 2 nicht erfolgen kann, sind in der Begründung auch die
 vorhandenen Berufsqualifikationen der Antragstellerin oder des
 Antragstellers sowie die wesentlichen Unterschiede zwischen den
 vorhandenen Berufsqualifikationen und der entsprechenden inländischen
@@ -246,33 +238,25 @@ Berufsbildung darzulegen.
 Berufsbildung,
 
 1.  die nach dem Berufsbildungsgesetz für den Bereich der
-    nichthandwerklichen Gewerbeberufe geregelt ist, ist die Industrie- und
-    Handelskammer;
-
+    nichthandwerklichen Gewerbeberufe geregelt ist, ist die Industrie-
+    und Handelskammer;
 
 2.  die nach der Handwerksordnung geregelt ist, ist die Handwerkskammer;
 
-
 3.  die nach dem Berufsbildungsgesetz für den Bereich der Landwirtschaft
     geregelt ist, ist die Landwirtschaftskammer;
-
 
 4.  die nach dem Berufsbildungsgesetz für den Bereich der Rechtspflege
     geregelt ist, sind jeweils für ihren Bereich die Rechtsanwalts-,
     Patentanwalts- und die Notarkammern;
 
-
 5.  die nach dem Berufsbildungsgesetz für den Bereich der
     Wirtschaftsprüfung und Steuerberatung geregelt ist, sind jeweils für
     ihren Bereich die Wirtschaftsprüfer- und die Steuerberaterkammern;
 
-
 6.  die nach dem Berufsbildungsgesetz für den Bereich der
     Gesundheitsdienstberufe geregelt ist, sind jeweils für ihren Bereich
     die Ärzte-, Zahnärzte-, Tierärzte- und die Apothekerkammern.
-
-
-
 
 (2) Soweit keine Kammern für einzelne Berufsbereiche des Absatzes 1
 bestehen, bestimmt das Land die zuständige Stelle.
@@ -307,7 +291,6 @@ inländischen Ausbildungsnachweis, sofern
     vergleichbaren beruflichen Tätigkeiten wie der entsprechende
     inländische Ausbildungsnachweis belegt,
 
-
 2.  die Antragstellerin oder der Antragsteller bei einem sowohl im Inland
     als auch im Ausbildungsstaat reglementierten Beruf zur Ausübung des
     jeweiligen Berufs im Ausbildungsstaat berechtigt ist oder die Befugnis
@@ -315,28 +298,22 @@ inländischen Ausbildungsnachweis, sofern
     wurde, die der Aufnahme oder Ausübung im Inland nicht entgegenstehen,
     und
 
-
 3.  zwischen den nachgewiesenen Berufsqualifikationen und der
     entsprechenden inländischen Berufsbildung keine wesentlichen
     Unterschiede bestehen.
-
-
-
 
 (2) Wesentliche Unterschiede zwischen den nachgewiesenen
 Berufsqualifikationen und der entsprechenden inländischen
 Berufsbildung liegen vor, sofern
 
-1.  sich der im Ausland erworbene Ausbildungsnachweis auf Fähigkeiten und
-    Kenntnisse bezieht, die sich hinsichtlich des Inhalts oder auf Grund
-    der Ausbildungsdauer wesentlich von den Fähigkeiten und Kenntnissen
-    unterscheiden, auf die sich der entsprechende inländische
+1.  sich der im Ausland erworbene Ausbildungsnachweis auf Fähigkeiten
+    und Kenntnisse bezieht, die sich hinsichtlich des Inhalts oder
+    auf Grund der Ausbildungsdauer wesentlich von den Fähigkeiten und
+    Kenntnissen unterscheiden, auf die sich der entsprechende inländische
     Ausbildungsnachweis bezieht,
-
 
 2.  die entsprechenden Fähigkeiten und Kenntnisse eine maßgebliche
     Voraussetzung für die Ausübung des jeweiligen Berufs darstellen und
-
 
 3.  die Antragstellerin oder der Antragsteller diese Unterschiede nicht
     durch sonstige Befähigungsnachweise, nachgewiesene einschlägige
@@ -344,15 +321,12 @@ Berufsbildung liegen vor, sofern
     Qualifikationen ausgeglichen hat.
 
 
-
-
-
 #### § 10 Feststellung der vorhandenen Berufsqualifikationen
 
 (1) Sofern die Feststellung der Gleichwertigkeit wegen wesentlicher
 Unterschiede im Sinne des § 9 Absatz 2 nicht erfolgen kann, werden bei
-der Entscheidung über die Befugnis zur Aufnahme oder Ausübung eines im
-Inland reglementierten Berufs die vorhandenen Berufsqualifikationen
+der Entscheidung über die Befugnis zur Aufnahme oder Ausübung eines
+im Inland reglementierten Berufs die vorhandenen Berufsqualifikationen
 und die wesentlichen Unterschiede gegenüber der entsprechenden
 inländischen Berufsbildung durch Bescheid festgestellt.
 
@@ -364,14 +338,14 @@ inländischen Ausbildungsnachweis ausgeglichen werden können.
 #### § 11 Ausgleichsmaßnahmen
 
 (1) Wesentliche Unterschiede im Sinne des § 9 Absatz 2 können durch
-die Absolvierung eines höchstens dreijährigen Anpassungslehrgangs, der
-Gegenstand einer Bewertung sein kann, oder das Ablegen einer
+die Absolvierung eines höchstens dreijährigen Anpassungslehrgangs,
+der Gegenstand einer Bewertung sein kann, oder das Ablegen einer
 Eignungsprüfung im Inland ausgeglichen werden.
 
-(2) Bei der Ausgestaltung der Ausgleichsmaßnahmen im Sinne des
-Absatzes 1 sind die vorhandenen Berufsqualifikationen der
-Antragstellerin oder des Antragstellers zu berücksichtigen. Der Inhalt
-der Ausgleichsmaßnahmen ist auf die festgestellten wesentlichen
+(2) Bei der Ausgestaltung der Ausgleichsmaßnahmen im Sinne
+des Absatzes 1 sind die vorhandenen Berufsqualifikationen der
+Antragstellerin oder des Antragstellers zu berücksichtigen. Der
+Inhalt der Ausgleichsmaßnahmen ist auf die festgestellten wesentlichen
 Unterschiede im Sinne des § 9 Absatz 2 zu beschränken.
 
 (3) Die Antragstellerin oder der Antragsteller hat die Wahl zwischen
@@ -397,45 +371,37 @@ folgende Unterlagen beizufügen:
 1.  eine tabellarische Aufstellung der absolvierten Ausbildungsgänge und
     der ausgeübten Erwerbstätigkeiten in deutscher Sprache,
 
-
 2.  ein Identitätsnachweis,
 
-
 3.  im Ausland erworbene Ausbildungsnachweise,
-
 
 4.  Nachweise über einschlägige Berufserfahrungen und sonstige
     Befähigungsnachweise, sofern diese zur Feststellung der
     Gleichwertigkeit erforderlich sind,
 
-
 5.  im Falle von § 9 Absatz 1 Nummer 2 eine Bescheinigung über die
     Berechtigung zur Berufsausübung im Ausbildungsstaat und
-
 
 6.  eine Erklärung, dass bisher noch kein Antrag auf Feststellung der
     Gleichwertigkeit gestellt wurde.
 
-
-
-
 (2) Die Unterlagen nach Absatz 1 Nummer 2 bis 5 sind der zuständigen
-Stelle in Form von Kopien vorzulegen oder elektronisch zu übermitteln.
-Von den Unterlagen nach Absatz 1 Nummer 3 bis 5 sind Übersetzungen in
-deutscher Sprache vorzulegen. Darüber hinaus kann die zuständige
-Stelle von den Unterlagen nach Absatz 1 Nummer 2 und allen
-nachgereichten Unterlagen Übersetzungen in deutscher Sprache
+Stelle in Form von Kopien vorzulegen oder elektronisch zu
+übermitteln. Von den Unterlagen nach Absatz 1 Nummer 3 bis 5 sind
+Übersetzungen in deutscher Sprache vorzulegen. Darüber hinaus kann
+die zuständige Stelle von den Unterlagen nach Absatz 1 Nummer 2 und
+allen nachgereichten Unterlagen Übersetzungen in deutscher Sprache
 verlangen. Die Übersetzungen sind von einem öffentlich bestellten oder
 beeidigten Dolmetscher oder Übersetzer erstellen zu lassen.
 
 (3) Die zuständige Stelle kann abweichend von Absatz 2 eine andere
-Form für die vorzulegenden Dokumente zulassen. Bei Unterlagen, die in
-einem Mitgliedstaat der Europäischen Union oder einem weiteren
+Form für die vorzulegenden Dokumente zulassen. Bei Unterlagen, die
+in einem Mitgliedstaat der Europäischen Union oder einem weiteren
 Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
-ausgestellt oder anerkannt wurden, kann sich die zuständige Stelle im
-Fall begründeter Zweifel an der Echtheit der Unterlagen sowohl an die
-zuständige Stelle des Ausbildungs- oder Anerkennungsstaats wenden als
-auch die Antragstellerin oder den Antragsteller auffordern,
+ausgestellt oder anerkannt wurden, kann sich die zuständige Stelle
+im Fall begründeter Zweifel an der Echtheit der Unterlagen sowohl
+an die zuständige Stelle des Ausbildungs- oder Anerkennungsstaats
+wenden als auch die Antragstellerin oder den Antragsteller auffordern,
 beglaubigte Kopien vorzulegen. Eine solche Aufforderung hemmt den Lauf
 der Fristen nach § 13 Absatz 3 nicht.
 
@@ -451,12 +417,12 @@ kann sich die zuständige Stelle an die zuständige Stelle des
 Ausbildungsstaats wenden.
 
 (5) Bestehen begründete Zweifel an der Echtheit oder der inhaltlichen
-Richtigkeit der vorgelegten Unterlagen, kann die zuständige Stelle die
-Antragstellerin oder den Antragsteller auffordern, innerhalb einer
-angemessenen Frist Originale, beglaubigte Kopien oder weitere
+Richtigkeit der vorgelegten Unterlagen, kann die zuständige Stelle
+die Antragstellerin oder den Antragsteller auffordern, innerhalb
+einer angemessenen Frist Originale, beglaubigte Kopien oder weitere
 geeignete Unterlagen vorzulegen. Im Fall einer gerichtlichen
-Feststellung, dass eine Antragstellerin oder ein Antragsteller in
-einem Verfahren nach diesem Kapitel gefälschte Nachweise über
+Feststellung, dass eine Antragstellerin oder ein Antragsteller
+in einem Verfahren nach diesem Kapitel gefälschte Nachweise über
 Berufsqualifikationen verwendet hat, unterrichtet die zuständige
 Stelle spätestens drei Tage nach Rechtskraft dieser Feststellung die
 zuständigen Stellen der übrigen Mitgliedstaaten der Europäischen Union
@@ -465,39 +431,47 @@ Wirtschaftsraum über das Binnenmarkt-Informationssystem über die
 Identität der betreffenden Person.
 
 (6) Die Antragstellerin oder der Antragsteller hat durch geeignete
-Unterlagen darzulegen, im Inland eine ihren Berufsqualifikationen
-entsprechende Erwerbstätigkeit ausüben zu wollen. Geeignete Unterlagen
-können beispielsweise der Nachweis der Beantragung eines
-Einreisevisums zur Erwerbstätigkeit, der Nachweis einer
-Kontaktaufnahme mit potenziellen Arbeitgebern oder ein
-Geschäftskonzept sein. Für Antragstellerinnen oder Antragsteller mit
-Wohnsitz in einem Mitgliedstaat der Europäischen Union, einem weiteren
-Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder
-in der Schweiz sowie für Staatsangehörige dieser Staaten ist diese
-Darlegung entbehrlich, sofern keine besonderen Gründe gegen eine
-entsprechende Absicht sprechen.
+Unterlagen darzulegen, im Inland eine Erwerbstätigkeit ausüben zu
+wollen. Geeignete Unterlagen sind beispielsweise
+
+1.  der Nachweis einer Kontaktaufnahme mit potenziellen Arbeitgebern,
+
+2.  ein Geschäftskonzept oder
+
+3.  der Vermerk über eine Standortberatung der Zentralen Servicestelle
+    Berufsanerkennung.
+
+Die zuständige Stelle darf nicht zwingend einen Vermerk über
+eine Standortberatung nach Nummer 3 fordern, wenn durch andere
+Unterlagen die Erwerbsabsicht dargelegt wurde. Für Antragstellerinnen
+oder Antragsteller mit Wohnsitz in einem Mitgliedstaat der
+Europäischen Union, einem weiteren Vertragsstaat des Abkommens
+über den Europäischen Wirtschaftsraum oder in der Schweiz sowie für
+Staatsangehörige dieser Staaten ist diese Darlegung entbehrlich,
+sofern keine besonderen Gründe gegen eine entsprechende Absicht
+sprechen.
 
 
 #### § 13 Verfahren
 
-(1) Die Bewertung der Gleichwertigkeit nach § 9 erfolgt im Rahmen der
-Entscheidung über die Befugnis zur Aufnahme oder Ausübung eines im
-Inland reglementierten Berufs. Auf Antrag erteilt die zuständige
+(1) Die Bewertung der Gleichwertigkeit nach § 9 erfolgt im Rahmen
+der Entscheidung über die Befugnis zur Aufnahme oder Ausübung eines
+im Inland reglementierten Berufs. Auf Antrag erteilt die zuständige
 Stelle der Antragstellerin oder dem Antragsteller einen gesonderten
-Bescheid über die Feststellung der Gleichwertigkeit ihrer oder seiner
-Berufsqualifikation oder entscheidet auf Antrag nur über die
+Bescheid über die Feststellung der Gleichwertigkeit ihrer oder
+seiner Berufsqualifikation oder entscheidet auf Antrag nur über die
 Gleichwertigkeit der Berufsqualifikation.
 
-(2) Die zuständige Stelle bestätigt der Antragstellerin oder dem
-Antragsteller innerhalb eines Monats den Eingang des Antrags
-einschließlich der nach § 12 Absatz 1 vorzulegenden Unterlagen. In der
-Empfangsbestätigung ist das Datum des Eingangs bei der zuständigen
-Stelle mitzuteilen und auf die Frist nach Absatz 3 und die
-Voraussetzungen für den Beginn des Fristlaufs hinzuweisen. Sind die
-nach § 12 Absatz 1 vorzulegenden Unterlagen unvollständig, teilt die
-zuständige Stelle innerhalb der Frist des Satzes 1 mit, welche
-Unterlagen nachzureichen sind. Die Mitteilung enthält den Hinweis,
-dass der Lauf der Frist nach Absatz 3 erst mit Eingang der
+(2) Die zuständige Stelle bestätigt der Antragstellerin oder
+dem Antragsteller innerhalb eines Monats den Eingang des Antrags
+einschließlich der nach § 12 Absatz 1 vorzulegenden Unterlagen.
+In der Empfangsbestätigung ist das Datum des Eingangs bei der
+zuständigen Stelle mitzuteilen und auf die Frist nach Absatz 3
+und die Voraussetzungen für den Beginn des Fristlaufs hinzuweisen.
+Sind die nach § 12 Absatz 1 vorzulegenden Unterlagen unvollständig,
+teilt die zuständige Stelle innerhalb der Frist des Satzes 1 mit,
+welche Unterlagen nachzureichen sind. Die Mitteilung enthält den
+Hinweis, dass der Lauf der Frist nach Absatz 3 erst mit Eingang der
 vollständigen Unterlagen beginnt.
 
 (3) Die zuständige Stelle muss innerhalb von drei Monaten über die
@@ -524,15 +498,15 @@ Stelle nach den Vorschriften des Verwaltungsverfahrensgesetzes
 abgewickelt werden.
 
 (7) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates zur Umsetzung der Richtlinie 2005/36/EG des
-Europäischen Parlaments und des Rates vom 7. September 2005 über die
-Anerkennung von Berufsqualifikationen (ABl. L 255 vom 30.9.2005, S.
-22), die zuletzt durch die Richtlinie 2013/55/EU (ABl. L 354 vom
+Zustimmung des Bundesrates zur Umsetzung der Richtlinie 2005/36/EG
+des Europäischen Parlaments und des Rates vom 7. September 2005 über
+die Anerkennung von Berufsqualifikationen (ABl. L 255 vom 30.9.2005,
+S. 22), die zuletzt durch die Richtlinie 2013/55/EU (ABl. L 354 vom
 28\.12.2013, S. 132) geändert worden ist, Regelungen zur Ausstellung
 eines Europäischen Berufsausweises für die Niederlassung sowie zur
 damit verbundenen Durchführung des Verfahrens zur Feststellung der
-Gleichwertigkeit einer im Ausland erworbenen Berufsqualifikation zu
-erlassen. Das Verfahren zur Feststellung der vorhandenen
+Gleichwertigkeit einer im Ausland erworbenen Berufsqualifikation
+zu erlassen. Das Verfahren zur Feststellung der vorhandenen
 Berufsqualifikationen nach diesem Kapitel bleibt unberührt.
 
 
@@ -543,17 +517,17 @@ Berufsqualifikationen nach diesem Kapitel bleibt unberührt.
 
 (1) Kann die Antragstellerin oder der Antragsteller die für die
 Feststellung oder Bewertung der Gleichwertigkeit erforderlichen
-Nachweise nach § 5 Absatz 1, 4 und 5 oder § 12 Absatz 1, 4 und 5 aus
-nicht selbst zu vertretenden Gründen nicht oder nur teilweise vorlegen
-oder ist die Vorlage der entsprechenden Unterlagen mit einem
-unangemessenen zeitlichen und sachlichen Aufwand verbunden, stellt die
-zuständige Stelle die für einen Vergleich mit der entsprechenden
+Nachweise nach § 5 Absatz 1, 4 und 5 oder § 12 Absatz 1, 4 und 5
+aus nicht selbst zu vertretenden Gründen nicht oder nur teilweise
+vorlegen oder ist die Vorlage der entsprechenden Unterlagen mit einem
+unangemessenen zeitlichen und sachlichen Aufwand verbunden, stellt
+die zuständige Stelle die für einen Vergleich mit der entsprechenden
 inländischen Berufsbildung maßgeblichen beruflichen Fertigkeiten,
 Kenntnisse und Fähigkeiten der Antragstellerin oder des Antragstellers
-durch sonstige geeignete Verfahren fest. Die Antragstellerin oder der
-Antragsteller hat die Gründe glaubhaft zu machen, die einer Vorlage
-der entsprechenden Unterlagen entgegenstehen. Die zuständige Stelle
-ist befugt, eine Versicherung an Eides statt zu verlangen und
+durch sonstige geeignete Verfahren fest. Die Antragstellerin oder
+der Antragsteller hat die Gründe glaubhaft zu machen, die einer
+Vorlage der entsprechenden Unterlagen entgegenstehen. Die zuständige
+Stelle ist befugt, eine Versicherung an Eides statt zu verlangen und
 abzunehmen.
 
 (2) Sonstige geeignete Verfahren zur Ermittlung der beruflichen
@@ -576,12 +550,12 @@ Zuleitung der Anträge erfolgt durch die zuständige Ausländerbehörde
 nach § 71 Absatz 1 des Aufenthaltsgesetzes.
 
 (2) Die zuständige Stelle bestätigt der antragstellenden Person
-innerhalb von zwei Wochen den Eingang des Antrags einschließlich der
-nach § 5 Absatz 1 oder § 12 Absatz 1 vorzulegenden Unterlagen. In der
-Empfangsbestätigung ist das Datum des Eingangs bei der zuständigen
-Stelle mitzuteilen und auf die Frist nach Absatz 3 und die
-Voraussetzungen für den Beginn des Fristlaufs hinzuweisen. Sind die
-nach § 5 Absatz 1 oder § 12 Absatz 1 vorzulegenden Unterlagen
+innerhalb von zwei Wochen den Eingang des Antrags einschließlich
+der nach § 5 Absatz 1 oder § 12 Absatz 1 vorzulegenden Unterlagen.
+In der Empfangsbestätigung ist das Datum des Eingangs bei der
+zuständigen Stelle mitzuteilen und auf die Frist nach Absatz 3 und
+die Voraussetzungen für den Beginn des Fristlaufs hinzuweisen. Sind
+die nach § 5 Absatz 1 oder § 12 Absatz 1 vorzulegenden Unterlagen
 unvollständig, teilt die zuständige Stelle innerhalb der Frist des
 Satzes 1 mit, welche Unterlagen nachzureichen sind. Die Mitteilung
 enthält den Hinweis, dass der Lauf der Frist nach Absatz 3 erst mit
@@ -594,31 +568,31 @@ Gleichwertigkeit entscheiden. Die Frist beginnt mit Eingang der
 vollständigen Unterlagen. Sie kann einmal angemessen verlängert
 werden, wenn dies wegen der Besonderheiten der Angelegenheit
 gerechtfertigt ist. Die Fristverlängerung ist zu begründen und
-rechtzeitig mitzuteilen. Der Schriftwechsel erfolgt über und die
-Zustellung der Entscheidung erfolgt durch die zuständige
+rechtzeitig mitzuteilen. Der Schriftwechsel erfolgt über und
+die Zustellung der Entscheidung erfolgt durch die zuständige
 Ausländerbehörde nach § 71 Absatz 1 des Aufenthaltsgesetzes an den
 Arbeitgeber als Bevollmächtigten der antragstellenden Person.
 
-(4) In den Fällen des § 5 Absatz 4 oder 5 oder § 12 Absatz 4 oder 5
-ist der Lauf der Frist nach Absatz 3 bis zum Ablauf der von der
+(4) In den Fällen des § 5 Absatz 4 oder 5 oder § 12 Absatz 4 oder
+5 ist der Lauf der Frist nach Absatz 3 bis zum Ablauf der von der
 zuständigen Stelle festgelegten Frist gehemmt. In den Fällen des § 14
 ist der Lauf der Frist nach Absatz 3 bis zur Beendigung des sonstigen
 geeigneten Verfahrens gehemmt.
 
-(5) Die Entscheidung der zuständigen Stelle richtet sich nach dem
-jeweiligen Fachrecht. Das beschleunigte Verfahren kann über eine
-einheitliche Stelle nach den Vorschriften des
+(5) Die Entscheidung der zuständigen Stelle richtet sich
+nach dem jeweiligen Fachrecht. Das beschleunigte Verfahren
+kann über eine einheitliche Stelle nach den Vorschriften des
 Verwaltungsverfahrensgesetzes abgewickelt werden.
 
-(6) Der Antrag auf Feststellung nach § 4 soll abgelehnt werden, wenn
-die Gleichwertigkeit im Rahmen anderer Verfahren oder durch
+(6) Der Antrag auf Feststellung nach § 4 soll abgelehnt werden,
+wenn die Gleichwertigkeit im Rahmen anderer Verfahren oder durch
 Rechtsvorschrift bereits festgestellt ist.
 
 
 #### § 15 Mitwirkungspflichten
 
-(1) Die Antragstellerin oder der Antragsteller ist verpflichtet, alle
-für die Ermittlung der Gleichwertigkeit notwendigen Unterlagen
+(1) Die Antragstellerin oder der Antragsteller ist verpflichtet,
+alle für die Ermittlung der Gleichwertigkeit notwendigen Unterlagen
 vorzulegen sowie alle dazu erforderlichen Auskünfte zu erteilen.
 
 (2) Kommt die Antragstellerin oder der Antragsteller dieser
@@ -653,41 +627,29 @@ Verordnungen wird eine Bundesstatistik durchgeführt.
 (2) Die Statistik erfasst jährlich für das vorausgegangene
 Kalenderjahr folgende Erhebungsmerkmale:
 
-1.  Staatsangehörigkeit, Geschlecht, Wohnort des Antragstellers, Datum der
-    Empfangsbestätigung, Datum der Vollständigkeit der vorzulegenden
+1.  Staatsangehörigkeit, Geschlecht, Wohnort des Antragstellers, Datum
+    der Empfangsbestätigung, Datum der Vollständigkeit der vorzulegenden
     Unterlagen,
-
 
 2.  Ausbildungsstaat, deutscher Referenzberuf oder deutsche
     Referenzausbildung,
 
-
 3.  Datum der Entscheidung, Gegenstand und Art der Entscheidung,
     Besonderheit im Verfahren,
-
 
 4.  Meldungen und Entscheidungen betreffend die Dienstleistungsfreiheit
     nach Artikel 7 Absatz 1 und 4 der Richtlinie 2005/36/EG,
 
-
 5.  eingelegte Rechtsbehelfe und Entscheidungen darüber.
-
-
-
 
 (3) Hilfsmerkmale sind
 
 1.  Name und Anschrift der Auskunftspflichtigen,
 
-
 2.  Name und Telefonnummer sowie Adresse für elektronische Post der für
     Rückfragen zur Verfügung stehenden Person,
 
-
 3.  Datensatznummer.
-
-
-
 
 (4) Für die Erhebung besteht Auskunftspflicht. Die Angaben nach Absatz
 3 Nummer 2 sind freiwillig. Auskunftspflichtig sind die nach diesem
@@ -706,35 +668,30 @@ Zustimmung des Bundesrates
     Ergebnisse nicht mehr oder nicht mehr in der ursprünglich vorgesehenen
     Ausführlichkeit oder Häufigkeit benötigt werden;
 
-
 2.  einzelne neue Merkmale einzuführen, wenn dies zur Deckung eines
-    geänderten Bedarfs für den in § 1 genannten Zweck erforderlich ist und
-    durch gleichzeitige Aussetzung anderer Merkmale eine Erweiterung des
-    Erhebungsumfangs vermieden wird; nicht eingeführt werden können
+    geänderten Bedarfs für den in § 1 genannten Zweck erforderlich ist
+    und durch gleichzeitige Aussetzung anderer Merkmale eine Erweiterung
+    des Erhebungsumfangs vermieden wird; nicht eingeführt werden können
     Merkmale, die besondere Kategorien personenbezogener Daten nach
     Artikel 9 Absatz 1 der Verordnung (EU) 2016/679 des Europäischen
     Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher
     Personen bei der Verarbeitung personenbezogener Daten, zum freien
     Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-
-    Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016,
-    S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung
+    Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016,
+    S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung
     betreffen;
 
-
-3.  die Erhebung von Merkmalen anzuordnen, soweit dies zur Umsetzung oder
-    Durchführung von Rechtsakten der Europäischen Gemeinschaft
+3.  die Erhebung von Merkmalen anzuordnen, soweit dies zur Umsetzung
+    oder Durchführung von Rechtsakten der Europäischen Gemeinschaft
     erforderlich ist.
-
-
-
 
 (7) Zur kontinuierlichen Beobachtung der Verfahren zur Feststellung
 der Gleichwertigkeit nach diesem Gesetz und nach anderen
 berufsrechtlichen Gesetzen und Verordnungen sind die von den
-statistischen Ämtern der Länder und dem Statistischen Bundesamt nach
-Absatz 2 und nach Rechtsverordnungen gemäß Absatz 6 erhobenen Angaben
-nach Abschluss der Datenprüfungen als Summendatensätze an das
-Bundesinstitut für Berufsbildung zu übermitteln. Das umfasst
+statistischen Ämtern der Länder und dem Statistischen Bundesamt
+nach Absatz 2 und nach Rechtsverordnungen gemäß Absatz 6 erhobenen
+Angaben nach Abschluss der Datenprüfungen als Summendatensätze an
+das Bundesinstitut für Berufsbildung zu übermitteln. Das umfasst
 diejenigen Angaben, die seit dem Inkrafttreten dieses Gesetzes erhoben
 wurden. Für die Übermittlung findet § 88 Absatz 4 Satz 2 bis 6 des
 Berufsbildungsgesetzes entsprechend Anwendung.
@@ -746,15 +703,14 @@ Berufsbildungsgesetzes entsprechend Anwendung.
 Bundesregierung nach Ablauf von vier Jahren nach Inkrafttreten dieses
 Gesetzes seine Anwendung und Auswirkungen.
 
-(2) Über das Ergebnis ist dem Deutschen Bundestag und dem Bundesrat zu
-berichten.
+(2) Über das Ergebnis ist dem Deutschen Bundestag und dem Bundesrat
+zu berichten.
 
 
 ### § 19 Ausschluss abweichenden Landesrechts
 
-Von den in § 5 Absatz 1, 3, 4 und 6, in § 6 Absatz 1 bis 3, 4 bis 5,
-in den §§ 7, 10, 12 Absatz 1, 4 und 6, in § 13 Absatz 1 Satz 1, Absatz
-2 bis 4 sowie in den §§ 14 und 15 Absatz 1, 2 und 3 Satz 1 getroffenen
-Regelungen des Verwaltungsverfahrens kann durch Landesrecht nicht
-abgewichen werden.
+Von folgenden Regelungen des Verwaltungsverfahrens darf durch
+Landesrecht nicht abgewichen werden: § 5 Absatz 1, 3 und 4, § 6 Absatz
+1 bis 3, 4 und 5, den §§ 7, 10, 12 Absatz 1 und 4, § 13 Absatz 1 Satz
+1 und Absatz 2 bis 4, den §§ 14 und 15 Absatz 1 bis 3 Satz 1.
 

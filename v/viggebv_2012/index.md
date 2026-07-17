@@ -29,9 +29,9 @@ vom 23. Juni 1970 (BGBl. I S. 821) verordnet die Bundesregierung:
 
 ## § 1 Gebühren und Auslagen
 
-Behörden des Bundes erheben für individuell zurechenbare öffentliche
-Leistungen nach dem Verbraucherinformationsgesetz Gebühren nach
-Maßgabe des § 7 Absatz 1 Satz 1 und 2 des
+Behörden des Bundes erheben für individuell zurechenbare
+öffentliche Leistungen nach dem Verbraucherinformationsgesetz
+Gebühren nach Maßgabe des § 7 Absatz 1 Satz 1 und 2 des
 Verbraucherinformationsgesetzes. Zusätzlich zu den Gebühren erheben
 die Behörden des Bundes Auslagen nach § 7 Absatz 1 Satz 1 und 2 des
 Verbraucherinformationsgesetzes in Verbindung mit § 23 Absatz 6 des

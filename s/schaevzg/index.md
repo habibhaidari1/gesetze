@@ -15,6 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   GBl DDR I: 1988, 345
 
+Fundstelle
+:   GBl DDR I: 1988, Nr 29, 345
 
 
 ## Eingangsformel
@@ -26,8 +28,8 @@ Sicherstellung. Bei der Geltendmachung darüber hinausgehender
 Schadenersatzansprüche gegen den Straftäter erhalten die Geschädigten
 umfassende Unterstützung durch die Organe der Rechtspflege. Ist ein
 Schadenersatzanspruch gegen den Straftäter nicht durchsetzbar, wird
-dem Geschädigten zur Vermeidung schwerwiegender Auswirkungen und zur
-weiteren Sicherung seiner Rechte finanzielle Hilfe gewährt. Dazu
+dem Geschädigten zur Vermeidung schwerwiegender Auswirkungen und
+zur weiteren Sicherung seiner Rechte finanzielle Hilfe gewährt. Dazu
 beschließt die Volkskammer folgendes Gesetz:
 
 
@@ -57,15 +59,14 @@ Versicherung der DDR.
 ## - - Voraussetzungen und Umfang der staatlichen Vorauszahlung
 
 
-
 ### § 3
 
 (1) Ist einem Bürger durch eine Straftat ein Gesundheitsschaden
-zugefügt worden, wird eine staatliche Vorauszahlung gewährt, wenn der
-Schaden zu einer erheblichen Beeinträchtigung seiner bisherigen
+zugefügt worden, wird eine staatliche Vorauszahlung gewährt, wenn
+der Schaden zu einer erheblichen Beeinträchtigung seiner bisherigen
 Lebensverhältnisse geführt hat. Eine staatliche Vorauszahlung wird
-auch gewährt, wenn aufgrund der Umstände der Begehung der Straftat und
-ihrer Auswirkungen auf die Öffentlichkeit ein unverzüglicher
+auch gewährt, wenn aufgrund der Umstände der Begehung der Straftat
+und ihrer Auswirkungen auf die Öffentlichkeit ein unverzüglicher
 Schadensausgleich geboten ist.
 
 (2) Die staatliche Vorauszahlung umfaßt neben dem Ersatz für die
@@ -77,8 +78,8 @@ Kosten der Rechtsverfolgung.
 
 ### § 4
 
-Hat die Straftat zum Tod eines Bürgers geführt, wird eine staatliche
-Vorauszahlung für die Kosten der Bestattung und für die
+Hat die Straftat zum Tod eines Bürgers geführt, wird eine
+staatliche Vorauszahlung für die Kosten der Bestattung und für die
 Unterhaltsansprüche Dritter im Umfang des § 339 ZGB sowie für die
 Kosten der Rechtsverfolgung gewährt.
 
@@ -112,15 +113,11 @@ Die Gewährung einer staatlichen Vorauszahlung erfordert, daß
     Kostenfestsetzungsbeschluß (nachfolgend Vollstreckungstitel genannt)
     festgestellt wurden und
 
-
 2.  eine beantragte Vollstreckung gegen den Schädiger erfolglos geblieben
     oder erkennbar ist, daß durch eine Vollstreckung in absehbarer Zeit
     keine Erfüllung der Schadenersatzverpflichtung zu erwarten oder eine
     Vollstreckung gegen den Schädiger in der Deutschen Demokratischen
     Republik nicht möglich ist.
-
-
-
 
 
 ### § 8
@@ -137,17 +134,17 @@ die er geschädigt wurde, gegeben hat.
 
 ### § 9 Höhe der staatlichen Vorauszahlung
 
-(1) Die staatliche Vorauszahlung wird grundsätzlich in Höhe des im
-Vollstreckungstitel festgestellten Schadenersatzanspruchs oder, soweit
-durch den Schädiger bereits Zahlungen geleistet wurden, in Höhe des
-offenstehenden Betrages gewährt. Es können auch Ratenzahlungen
+(1) Die staatliche Vorauszahlung wird grundsätzlich in Höhe des
+im Vollstreckungstitel festgestellten Schadenersatzanspruchs oder,
+soweit durch den Schädiger bereits Zahlungen geleistet wurden, in Höhe
+des offenstehenden Betrages gewährt. Es können auch Ratenzahlungen
 festgelegt werden.
 
 (2) In den Fällen der §§ 3 bis 5 kann die staatliche Vorauszahlung auf
 einen Teilbetrag des festgestellten Schadenersatzanspruchs beschränkt
 werden. Er ist so zu bemessen, daß eine erhebliche Verschlechterung
-der wirtschaftlichen Lage des geschädigten Bürgers oder eines Dritten
-gemäß § 4 gemildert wird, die dadurch entstanden ist, daß die
+der wirtschaftlichen Lage des geschädigten Bürgers oder eines
+Dritten gemäß § 4 gemildert wird, die dadurch entstanden ist, daß die
 rechtskräftig zuerkannte Schadenersatzforderung nicht durchgesetzt
 werden kann.
 
@@ -159,11 +156,8 @@ Antragsberechtigt sind
 
 -   Staatsbürger der DDR,
 
-
 -   Ausländer mit zeitlich unbefristetem oder länger befristetem
     Aufenthalt in der DDR,
-
-
 
 die auf dem Staatsgebiet der Deutschen Demokratischen Republik durch
 eine Straftat geschädigt wurden.
@@ -183,8 +177,8 @@ Kreisgericht einzureichen. Ihm sind die Ausfertigung des
 rechtskräftigen Urteils, der verbindlichen gerichtlichen Einigung und
 des rechtskräftigen Kostenfestsetzungsbeschlusses gegen den Schädiger
 sowie Unterlagen zum Nachweis erfolglos verlaufener Bemühungen zur
-Durchsetzung der Schadenersatzforderung beizufügen. Auf Verlangen des
-geschädigten Bürgers ist der Antrag von der Rechtsantragstelle
+Durchsetzung der Schadenersatzforderung beizufügen. Auf Verlangen
+des geschädigten Bürgers ist der Antrag von der Rechtsantragstelle
 aufzunehmen.
 
 
@@ -194,10 +188,10 @@ aufzunehmen.
 kann vor seiner Entscheidung eine mündliche Verhandlung durchführen.
 
 (2) Der Beschluß ist dem geschädigten Bürger zuzustellen. Wurde mit
-dem Beschluß dem Antrag auf staatliche Vorauszahlung stattgegeben, ist
-er nach Rechtskraft an die für den Wohnsitz des geschädigten Bürgers
-zuständige Kreisdirektion der Staatlichen Versicherung der DDR zu
-übersenden.
+dem Beschluß dem Antrag auf staatliche Vorauszahlung stattgegeben,
+ist er nach Rechtskraft an die für den Wohnsitz des geschädigten
+Bürgers zuständige Kreisdirektion der Staatlichen Versicherung der DDR
+zu übersenden.
 
 (3) Gegen den Beschluß steht dem geschädigten Bürger das Rechtsmittel
 der Beschwerde innerhalb von 2 Wochen ab Zustellung zu. Die Beschwerde
@@ -224,8 +218,8 @@ entsprechende Anwendung.
 ### § 13 Gewährung einer staatlichen Vorauszahlung in besonderen Fällen
 
 (1) Liegen die in den §§ 3 bis 6 genannten, nicht jedoch die nach
-diesem Gesetz weiterhin erforderlichen Voraussetzungen vor, kann dem
-geschädigten Bürger zur Vermeidung von Härten ausnahmsweise eine
+diesem Gesetz weiterhin erforderlichen Voraussetzungen vor, kann
+dem geschädigten Bürger zur Vermeidung von Härten ausnahmsweise eine
 staatliche Vorauszahlung gewährt werden.
 
 (2) Die Entscheidung darüber trifft der Minister der Justiz.
@@ -234,8 +228,8 @@ staatliche Vorauszahlung gewährt werden.
 ### § 14 Leistungen durch die Staatliche Versicherung der DDR
 
 (1) Die staatliche Vorauszahlung wird in Höhe des im Beschluß des
-Gerichts zuerkannten Betrages durch die Staatliche Versicherung der
-DDR an den geschädigten Bürger geleistet. Sie erfolgt durch die
+Gerichts zuerkannten Betrages durch die Staatliche Versicherung
+der DDR an den geschädigten Bürger geleistet. Sie erfolgt durch die
 Kreisdirektion der Staatlichen Versicherung der DDR am Wohnsitz des
 geschädigten Bürgers.
 
@@ -246,8 +240,8 @@ erbrachten Leistung geht der Schadenersatzanspruch des geschädigten
 Bürgers gegen den Schädiger auf die Staatliche Versicherung der DDR
 über.
 
-(3) Die Staatliche Versicherung der DDR ist verpflichtet, den auf sie
-übergegangenen Schadenersatzanspruch gegen den Schädiger
+(3) Die Staatliche Versicherung der DDR ist verpflichtet, den
+auf sie übergegangenen Schadenersatzanspruch gegen den Schädiger
 durchzusetzen.
 
 (4) Die Staatliche Versicherung der DDR ist berechtigt, vom Schädiger
@@ -273,8 +267,8 @@ Zuständigkeitsbereich das Ermittlungsverfahren anhängig ist.
 getroffene Festlegung entscheidet der Generalstaatsanwalt der DDR. Die
 Bestimmungen der Strafprozeßordnung finden entsprechende Anwendung.
 
-(4) Die Ausgleichszahlung wird in Höhe des zuerkannten Betrages durch
-die Staatliche Versicherung der DDR an den geschädigten Bürger
+(4) Die Ausgleichszahlung wird in Höhe des zuerkannten Betrages
+durch die Staatliche Versicherung der DDR an den geschädigten Bürger
 geleistet. Im übrigen gilt § 14 Abs. 1 entsprechend.
 
 (5) Die Staatliche Versicherung der DDR wird vom Staatsanwalt des
@@ -282,7 +276,6 @@ Bezirkes informiert, wenn der Straftäter ermittelt wurde.
 
 
 ## - - Schlußbestimmungen
-
 
 
 ### § 16

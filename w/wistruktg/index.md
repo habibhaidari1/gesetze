@@ -1,5 +1,5 @@
 ---
-Title: Gesetz über die Gemeinschaftsaufgabe "Verbesserung der regionalen Wirtschaftsstruktur"
+Title: "Gesetz über die Gemeinschaftsaufgabe \"Verbesserung der regionalen Wirtschaftsstruktur\""
 jurabk: WiStruktG
 layout: default
 origslug: wistruktg
@@ -35,31 +35,25 @@ Abs. 1 des Grundgesetzes wahrgenommen:
     Ausbau, Umstellung oder grundlegenden Rationalisierung von
     Gewerbebetrieben,
 
-
 2.  investive Förderung der wirtschaftsnahen Infrastruktur, soweit sie
     unmittelbar für die Entwicklung der regionalen Wirtschaft erforderlich
     ist,
 
-
 3.  nichtinvestive und sonstige Maßnahmen zur Stärkung der
-    Wettbewerbsfähigkeit  von Unternehmen, zur regionalpolitischen
+    Wettbewerbsfähigkeit von Unternehmen, zur regionalpolitischen
     Flankierung von Strukturproblemen und zur Unterstützung von regionalen
     Aktivitäten, soweit sie unmittelbar für die Entwicklung der regionalen
     Wirtschaft erforderlich sind,
 
-
 4.  Evaluierung der Maßnahmen und begleitende regionalpolitische
     Forschung.
 
-
-
-
 (2) Die in Absatz 1 genannten Förderungsmaßnahmen werden in Gebieten
 mit erheblichen wirtschaftlichen Strukturproblemen durchgeführt,
-insbesondere in Gebieten, in denen Regionalbeihilfen nach Artikel 87
-Abs. 3 des Vertrages zur Gründung der Europäischen Gemeinschaft
-gewährt werden können. Es können auch Gebiete gefördert werden, die
-vom Strukturwandel in einer Weise  bedroht sind, dass negative
+insbesondere in Gebieten, in denen Regionalbeihilfen nach Artikel
+87 Abs. 3 des Vertrages zur Gründung der Europäischen Gemeinschaft
+gewährt werden können. Es können auch Gebiete gefördert werden,
+die vom Strukturwandel in einer Weise bedroht sind, dass negative
 Rückwirkungen auf das Gebiet in erheblichem Umfang absehbar sind.
 
 (3) Einzelne Maßnahmen werden auch außerhalb der vorstehend genannten
@@ -70,9 +64,9 @@ geförderten Projekten innerhalb benachbarter Fördergebiete stehen.
 ## § 2 Allgemeine Grundsätze
 
 (1) Die Förderung der in § 1 Abs. 1 genannten Maßnahmen muß mit den
-Grundsätzen der allgemeinen Wirtschaftspolitik und mit den Zielen und
-Erfordernissen der Raumordnung und Landesplanung übereinstimmen. Die
-Förderung soll sich auf räumliche und sachliche Schwerpunkte
+Grundsätzen der allgemeinen Wirtschaftspolitik und mit den Zielen
+und Erfordernissen der Raumordnung und Landesplanung übereinstimmen.
+Die Förderung soll sich auf räumliche und sachliche Schwerpunkte
 konzentrieren. Sie ist mit anderen öffentlichen Entwicklungsvorhaben
 abzustimmen.
 
@@ -84,18 +78,13 @@ gefördert werden Maßnahmen
 
 1.  des Bundes und der Länder sowie
 
-
 2.  natürlicher und juristischer Personen, die auf Gewinnerzielung
     ausgerichtet sind.
-
-
-
 
 (3) Absatz 2 Satz 2 Halbsatz 2 Nummer 1 gilt nicht
 
 1.  für Gemeindeaufgaben, die in den Ländern Berlin und Hamburg
     wahrgenommen werden,
-
 
 2.  für Maßnahmen der Landeseigenverwaltung oder Maßnahmen der
     Landesverwaltung im Bundesauftrag im Bereich des Straßenbaus, wenn
@@ -103,18 +92,10 @@ gefördert werden Maßnahmen
     a)  diese Maßnahmen als Ergänzung sonstiger förderfähiger Maßnahmen
         anzusehen sind,
 
-
     b)  die Förderung im Umfang begrenzt und sachdienlich ist und
-
 
     c)  die ergänzenden Landesmaßnahmen nicht anderweitig aus Bundes- oder
         Landesmitteln finanziert werden.
-
-
-
-
-
-
 
 (4) Finanzhilfen werden nur bei einer angemessenen Beteiligung des
 Empfängers gewährt.
@@ -135,8 +116,8 @@ Koordinierungsrahmen für die regionale Wirtschaftsförderung
 aufgestellt.
 
 (2) Der gemeinsame Koordinierungsrahmen ist nach Maßgabe der jeweils
-geltenden  Vorschriften für Beihilfen mit regionaler Zielsetzung der
-Europäischen Kommission auszugestalten. Er ist regelmäßig
+geltenden Vorschriften für Beihilfen mit regionaler Zielsetzung
+der Europäischen Kommission auszugestalten. Er ist regelmäßig
 weiterzuentwickeln.
 
 (3) Der gemeinsame Koordinierungsrahmen umfasst insbesondere:
@@ -144,24 +125,16 @@ weiterzuentwickeln.
 1.  die Festlegung der Fördergebiete nach § 1 Abs. 2 nach einem
     sachgerechten Bewertungsverfahren,
 
-
 2.  die förderfähigen Maßnahmen nach § 1 Abs. 1,
-
 
 3.  Voraussetzungen, Art und Intensität der Förderung,
 
-
 4.  die sachgerechte Verteilung der Bundesmittel auf die Länder,
-
 
 5.  Regelungen über die Mittelbereitstellung und Rückforderungen zwischen
     Bund und Ländern,
 
-
 6.  Berichtswesen, Evaluierung und statistische Auswertungen.
-
-
-
 
 
 ## § 5 Koordinierungsausschuss
@@ -183,15 +156,15 @@ und der Mehrheit der Stimmen der Länder.
 ## § 6 Durchführung und Unterrichtung
 
 (1) Die Durchführung der Maßnahmen des gemeinsamen
-Koordinierungsrahmens  ist Aufgabe der Länder.
+Koordinierungsrahmens ist Aufgabe der Länder.
 
 (2) Die Landesregierungen unterrichten die Bundesregierung und den
 Bundesrat auf Verlangen über die Durchführung der Maßnahmen des
 gemeinsamen Koordinierungsrahmens und den allgemeinen Stand der
 Gemeinschaftsaufgabe.
 
-(3) Der Vorsitzende des Koordinierungsausschusses unterrichtet den
-Deutschen Bundestag über die Durchführung des gemeinsamen
+(3) Der Vorsitzende des Koordinierungsausschusses unterrichtet
+den Deutschen Bundestag über die Durchführung des gemeinsamen
 Koordinierungsrahmens und den allgemeinen Stand der
 Gemeinschaftsaufgabe.
 
@@ -201,8 +174,8 @@ Gemeinschaftsaufgabe.
 (1) Der Bund trägt vorbehaltlich der Bestimmung des Artikels 91a Abs.
 3 des Grundgesetzes die Hälfte der Ausgaben in jedem Land.
 
-(2) Die Zahlungsabwicklung wird vom Koordinierungsausschuss nach
-Maßgabe der haushaltsrechtlichen Vorschriften des Bundes im
+(2) Die Zahlungsabwicklung wird vom Koordinierungsausschuss
+nach Maßgabe der haushaltsrechtlichen Vorschriften des Bundes im
 gemeinsamen Koordinierungsrahmen konkretisiert.
 
 (3) Der Einsatz von Mitteln der Europäischen Strukturfonds für
@@ -216,7 +189,7 @@ gemeinsamen Koordinierungsrahmens einsetzen.
 
 (1) Beträge, die vom Zuwendungsempfänger zur Tilgung und Verzinsung
 erhaltener Darlehen oder zum Ausgleich der auf Grund übernommener
-Bürgschaften  erstatteten Ausfälle gezahlt werden, sind vom Land
+Bürgschaften erstatteten Ausfälle gezahlt werden, sind vom Land
 anteilig an den Bund abzuführen.
 
 (2) Der Bund kann zugewiesene Bundesmittel von einem Land
@@ -236,8 +209,10 @@ im Falle der Absätze 1 und 3 ab dem 31. Tag nach Eingang des Betrages
 beim Land.
 
 
-## (XXXX) §§ 12 und 13 (weggefallen)
+## (XXXX) §§ 9 bis 11 (jetzt §§ 6 bis 8)
 
+
+## (XXXX) §§ 12 und 13 (weggefallen)
 
 
 ## § 14 Inkrafttreten

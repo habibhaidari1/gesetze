@@ -1,6 +1,5 @@
 ---
-Title: Verordnung zur Festlegung und Anpassung der Bundesbeteiligung an den Leistungen
-  für Unterkunft und Heizung für das Jahr 2018
+Title: Verordnung zur Festlegung und Anpassung der Bundesbeteiligung an den Leistungen für Unterkunft und Heizung für das Jahr 2018
 jurabk: BBFestV 2018
 layout: default
 origslug: bbfestv_2018
@@ -23,9 +22,9 @@ Geändert durch
 ## Eingangsformel
 
 Auf Grund des § 46 Absatz 10 Satz 1 des Zweiten Buches
-Sozialgesetzbuch – Grundsicherung für Arbeitsuchende –, der durch
-Artikel 2 Nummer 2 Buchstabe a des Gesetzes vom 1. Dezember 2016
-(BGBl. I S. 2755) eingefügt worden ist, verordnet das
+Sozialgesetzbuch – Grundsicherung für Arbeitsuchende –, der
+durch Artikel 2 Nummer 2 Buchstabe a des Gesetzes vom 1. Dezember
+2016 (BGBl. I S. 2755) eingefügt worden ist, verordnet das
 Bundesministerium für Arbeit und Soziales:
 
 
@@ -34,12 +33,13 @@ Bundesministerium für Arbeit und Soziales:
 Der landesspezifische Wert nach § 46 Absatz 8 Satz 1 des Zweiten
 Buches Sozialgesetzbuch, der für das Jahr 2019 festgelegt und für das
 Jahr 2018 rückwirkend angepasst wird, beträgt
+
 4,3 Prozentpunkte für Baden-Württemberg,
 3,7 Prozentpunkte für den Freistaat Bayern,
 3,2 Prozentpunkte für Berlin,
 3,4 Prozentpunkte für Brandenburg,
 5,7 Prozentpunkte für die Hansestadt Bremen,
-7,8 Prozentpunkte für die Freie und Hansestadt
+7,8 Prozentpunkte für die Freie und Hansestadt
 Hamburg,
 3,8 Prozentpunkte für Hessen,
 5,3 Prozentpunkte für Mecklenburg-Vorpommern,
@@ -58,12 +58,13 @@ Hamburg,
 Der landesspezifische Wert nach § 46 Absatz 9 Satz 1 des Zweiten
 Buches Sozialgesetzbuch, der für das Jahr 2019 festgelegt und für die
 Jahre 2017 und 2018 rückwirkend angepasst wird, beträgt
+
 9,1 Prozentpunkte für Baden-Württemberg,
 11,2 Prozentpunkte für den Freistaat Bayern,
 7,9 Prozentpunkte für Berlin,
 5,3 Prozentpunkte für Brandenburg,
 7,7 Prozentpunkte für die Hansestadt Bremen,
-5,5 Prozentpunkte für die Freie und Hansestadt
+5,5 Prozentpunkte für die Freie und Hansestadt
 Hamburg,
 8,3 Prozentpunkte für Hessen,
 4,9 Prozentpunkte für Mecklenburg-Vorpommern,
@@ -81,6 +82,7 @@ Hamburg,
 
 (1) Die Beteiligung des Bundes an den Ausgaben für die Leistungen nach
 § 22 Absatz 1 des Zweiten Buches Sozialgesetzbuch beträgt im Jahr 2017
+
 52,6 Prozent für Baden-Württemberg,
 49,9 Prozent für den Freistaat Bayern,
 46,0 Prozent für Berlin,
@@ -100,6 +102,7 @@ Hamburg,
 
 (2) Die Beteiligung des Bundes an den Ausgaben für die Leistungen nach
 § 22 Absatz 1 des Zweiten Buches Sozialgesetzbuch beträgt im Jahr 2018
+
 52,9 Prozent für Baden-Württemberg,
 50,4 Prozent für den Freistaat Bayern,
 46,6 Prozent für Berlin,
@@ -119,6 +122,7 @@ Hamburg,
 
 (3) Die Beteiligung des Bundes an den Ausgaben für die Leistungen nach
 § 22 Absatz 1 des Zweiten Buches Sozialgesetzbuch beträgt im Jahr 2019
+
 48,3 Prozent für Baden-Württemberg,
 45,8 Prozent für den Freistaat Bayern,
 42,0 Prozent für Berlin,

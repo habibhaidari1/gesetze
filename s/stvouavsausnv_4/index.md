@@ -15,25 +15,28 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: AT 26.02.2021 V2
 
+Fundstelle
+:   VkBl: 2021, 576
+
 
 ## Eingangsformel
 
-Auf Grund des § 6 Absatz 1 Nummer 3 erster Halbsatz und Buchstabe d in
-Verbindung mit Absatz 2a und in Verbindung mit Absatz 3 des
+Auf Grund des § 6 Absatz 1 Nummer 3 erster Halbsatz und Buchstabe
+d in Verbindung mit Absatz 2a und in Verbindung mit Absatz 3 des
 Straßenverkehrsgesetzes, von denen Absatz 1 im Satzteil vor Nummer 1
 zuletzt durch Artikel 1 Nummer 6 Buchstabe a Doppelbuchstabe aa des
 Gesetzes vom 28. November 2014 (BGBl. I S. 1802) und Absatz 2a zuletzt
-durch Artikel 325 Nummer 2 der Verordnung vom 19. Juni 2020 (BGBl. I
-S. 1328) geändert worden sind, verordnen das Bundesministerium für
-Verkehr und digitale Infrastruktur und das Bundesministerium für
-Umwelt, Naturschutz und nukleare Sicherheit nach Anhörung der
+durch Artikel 325 Nummer 2 der Verordnung vom 19. Juni 2020 (BGBl.
+I S. 1328) geändert worden sind, verordnen das Bundesministerium
+für Verkehr und digitale Infrastruktur und das Bundesministerium
+für Umwelt, Naturschutz und nukleare Sicherheit nach Anhörung der
 zuständigen obersten Landesbehörden:
 
 
 ## § 1
 
-(1) Der Inhaber einer Reisegewerbekarte nach § 55 Absatz 1 Nummer 2
-der Gewerbeordnung darf Lastkraftwagen mit einer zulässigen
+(1) Der Inhaber einer Reisegewerbekarte nach § 55 Absatz 1 Nummer
+2 der Gewerbeordnung darf Lastkraftwagen mit einer zulässigen
 Gesamtmasse über 7,5 Tonnen sowie Lastkraftwagen mit Anhänger für die
 Zwecke seiner Tätigkeit als Schausteller oder nach Schaustellerart
 abweichend von
@@ -41,12 +44,9 @@ abweichend von
 1.  § 30 Absatz 3 Satz 1 der Straßenverkehrs-Ordnung an Sonntagen und
     Feiertagen sowie
 
-
 2.  § 1 Absatz 1 der Ferienreiseverordnung an Samstagen vom 1. Juli bis
     einschließlich 31. August eines Jahres auf den in § 1 Absatz 2 und 3
     der Ferienreiseverordnung genannten Straßen
-
-
 
 führen oder in seinem Auftrag führen lassen.
 
@@ -56,8 +56,8 @@ gilt § 60c Absatz 1 Satz 1 der Gewerbeordnung entsprechend. Die
 Tätigkeit als Schausteller oder nach Schaustellerart muss sich aus der
 Reisegewerbekarte ergeben.
 
-(3) Lässt der Inhaber einer Reisegewerbekarte nach § 55 Absatz 1
-Nummer 2 der Gewerbeordnung eine andere Person ein in Absatz 1
+(3) Lässt der Inhaber einer Reisegewerbekarte nach § 55 Absatz
+1 Nummer 2 der Gewerbeordnung eine andere Person ein in Absatz 1
 genanntes Fahrzeug in seinem Auftrag führen, gilt für diese Person
 Absatz 2 mit der Maßgabe, dass an die Stelle der Reisegewerbekarte
 eine Zweitschrift oder eine beglaubigte Kopie der Reisegewerbekarte

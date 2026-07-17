@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zur Ausführung des internationalen Vertrages zum Schutze der unterseeischen
-  Telegraphenkabel vom 14. März 1884
+Title: Gesetz zur Ausführung des internationalen Vertrages zum Schutze der unterseeischen Telegraphenkabel vom 14. März 1884
 jurabk: TKabelVtrAG
 layout: default
 origslug: tkabelvtrag
@@ -22,8 +21,8 @@ Zuletzt geändert durch
 
 ## § 1
 
-Die Bestimmungen der Artikel 5 (Absatz 2 bis 4), 6 und 7 des
-internationalen Vertrages zum Schutze der unterseeischen
+Die Bestimmungen der Artikel 5 (Absatz 2 bis 4), 6 und 7
+des internationalen Vertrages zum Schutze der unterseeischen
 Telegraphenkabel vom 14. März 1884 finden bezüglich der unterseeischen
 Telegraphenkabel der in Artikel 1 des Vertrages bezeichneten Art auch
 innerhalb der deutschen Küstengewässer Anwendung.
@@ -37,28 +36,22 @@ Vertrages zum Schutze der unterseeischen Telegraphenkabel vom 14. März
 1884 im Geltungsbereich des Vertrages oder in den zum Geltungsbereich
 dieses Gesetzes gehörenden Küstengewässern
 
-1.  als Führer eines Fahrzeugs von einem Fahrzeug, das mit dem Legen oder
-    der Wiederherstellung eines Kabels beschäftigt ist und die
+1.  als Führer eines Fahrzeugs von einem Fahrzeug, das mit dem Legen
+    oder der Wiederherstellung eines Kabels beschäftigt ist und die
     vorgeschriebenen Signale trägt, nicht einen Abstand von mindestens
     einer Seemeile hält,
-
 
 2.  als Fischer Netze oder Fischereigeräte von einem in Nummer 1
     bezeichneten Kabelfahrzeug nicht in einer Entfernung von mindestens
     einer Seemeile hält,
 
-
 3.  als Führer eines Fahrzeugs von einer Boje, die zur Kenntlichmachung
     von Kabelarbeiten bestimmt ist, nicht einen Abstand von mindestens
     einer Viertel-Seemeile hält oder
 
-
 4.  als Fischer Netze oder Fischereigeräte von einer in Nummer 3
     bezeichneten Boje nicht in einer Entfernung von mindestens einer
     Viertel-Seemeile hält.
-
-
-
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu zehntausend
 Deutsche Mark geahndet werden.
@@ -67,8 +60,8 @@ Deutsche Mark geahndet werden.
 ## § 3
 
 Die §§ 113, 114 und 115 Absatz 2 des Strafgesetzbuchs finden
-Anwendung, wenn die in denselben vorgesehenen Handlungen gegen die in
-Artikel 10 des Vertrages bezeichneten Schiffsbefehlshaber begangen
+Anwendung, wenn die in denselben vorgesehenen Handlungen gegen die
+in Artikel 10 des Vertrages bezeichneten Schiffsbefehlshaber begangen
 werden, während dieselben in Ausübung der ihnen dortselbst erteilten
 Befugnisse begriffen sind.
 

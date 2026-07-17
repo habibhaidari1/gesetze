@@ -31,16 +31,11 @@ Rechts wahrzunehmen.
 
 1.  die Erstellung der deutschen Raumfahrtplanung,
 
-
 2.  die Durchführung der deutschen Raumfahrtprogramme, insbesondere durch
     Vergabe von Aufträgen und Zuwendungen,
 
-
 3.  die Wahrnehmung deutscher Raumfahrtinteressen im internationalen
     Bereich, insbesondere gegenüber der Europäischen Weltraumorganisation.
-
-
-
 
 (3) Über Widersprüche gegen Verwaltungsakte, die das DLR aufgrund der
 ihm übertragenen Befugnisse erlassen hat, entscheidet dieses selbst.

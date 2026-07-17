@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen
-  Mark (Kopernikus-Gedenkmünze)
+Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Kopernikus-Gedenkmünze)
 jurabk: Münz5DMBek 1973-04
 layout: default
 origslug: m_nz5dmbek_1973-04
@@ -17,11 +16,10 @@ Fundstelle
 :   BGBl I: 1973, 306
 
 
-
 ## (XXXX)
 
-(1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen vom
-8\. Juli 1950 (Bundesgesetzblatt S. 323) ist aus Anlaß der 500.
+(1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen
+vom 8. Juli 1950 (Bundesgesetzblatt S. 323) ist aus Anlaß der 500.
 Wiederkehr des Geburtstages des großen Astronomen und vielseitigen
 Wissenschaftlers Nikolaus Kopernikus eine Bundesmünze (Gedenkmünze) im
 Nennwert von 5 Deutschen Mark geprägt worden. Die Ausprägung erfolgte
@@ -53,11 +51,9 @@ Sternchen angebracht.
 (8) Im Einklang mit der Bildseite ist die Wertseite gestaltet. Sie
 zeigt den Bundesadler und die Umschrift
 
-*   "BUNDESREPUBLIK DEUTSCHLAND
+-   "BUNDESREPUBLIK DEUTSCHLAND
 
     5 DEUTSCHE MARK"
-
-
 
 Zwischen den Worten "DEUTSCHLAND" und "MARK" ist ein kleiner Punkt
 eingeprägt.
@@ -68,11 +64,9 @@ befindet sich in dem freien Feld rechts neben dem Kopf des Adlers.
 
 (10) Der glatte Münzrand trägt die vertiefte Inschrift
 
-*   "IN MEDIO OMNIUM RESIDET SOL"
+-   "IN MEDIO OMNIUM RESIDET SOL"
 
     (In der Mitte des Alls ruht die Sonne)
-
-
 
 Zwischen Ende und Anfang der Randschrift befinden sich drei kleine
 Sternchen.

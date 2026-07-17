@@ -30,17 +30,11 @@ Erhebungen als Bundesstatistik werden durchgeführt über:
 
 1.  die Prostitutionstätigkeit,
 
-
 2.  das Prostitutionsgewerbe,
-
 
 3.  Prostitutionsfahrzeuge und
 
-
 4.  Prostitutionsveranstaltungen.
-
-
-
 
 
 ## § 2 Erhebungsmerkmale für die Statistik über die Prostitutionstätigkeit
@@ -51,31 +45,22 @@ Vorgang:
 1.  die Ausstellung, die Verlängerung und die Ablehnung einer
     Anmeldebescheinigung,
 
-
 2.  das Geburtsjahr der anmeldepflichtigen Person,
-
 
 3.  die Länder oder Kommunen, in denen die Tätigkeit geplant ist,
 
-
 4.  der Sitz der auskunftspflichtigen Behörde nach § 8 Absatz 1 Satz 2,
-
 
 5.  die Staatsangehörigkeit der anmeldepflichtigen Person; soweit die
     anmeldepflichtige Person außer der deutschen noch eine weitere
-    Staatsangehörigkeit besitzt, ist die deutsche Staatsangehörigkeit zu
-    erfassen,
-
+    Staatsangehörigkeit besitzt, ist die deutsche Staatsangehörigkeit
+    zu erfassen,
 
 6.  die Gültigkeitsdauer der Anmeldebescheinigung oder der Verlängerung
     der Anmeldebescheinigung in Jahren und
 
-
 7.  die Anmeldung der Personen, die bereits vor dem 1. Juli 2017 der
     Prostitution nachgegangen sind.
-
-
-
 
 
 ## § 3 Erhebungsmerkmale für die Statistik über das Prostitutionsgewerbe
@@ -90,22 +75,14 @@ Vorgang:
 
     a)  Betreiben einer Prostitutionsstätte,
 
-
     b)  Organisation oder Durchführung von Prostitutionsveranstaltungen,
-
 
     c)  Bereitstellen eines Prostitutionsfahrzeuges und
 
-
     d)  Betreiben einer Prostitutionsvermittlung,
-
-
-
-
 
 2.  die Rücknahme und der Widerruf einer Erlaubnis zum Betrieb eines
     Prostitutionsgewerbes,
-
 
 3.  die Gründe für die Versagung, die Rücknahme und den Widerruf einer
     Erlaubnis zum Betrieb eines Prostitutionsgewerbes, gegliedert nach:
@@ -113,37 +90,23 @@ Vorgang:
     a)  Versagung nach § 14 Absatz 1 Nummer 2 des
         Prostituiertenschutzgesetzes,
 
-
     b)  Versagung nach § 14 Absatz 2 Nummer 2 des
         Prostituiertenschutzgesetzes,
 
-
     c)  Rücknahme nach § 23 Absatz 1 Satz 1 des Prostituiertenschutzgesetzes,
-
 
     d)  Widerruf nach § 23 Absatz 3 des Prostituiertenschutzgesetzes und
 
-
     e)  anderen nicht in den Buchstaben a bis d genannten Gründen,
-
-
-
-
 
 4.  der Sitz der auskunftspflichtigen Behörde nach § 8 Absatz 1 Satz 2,
 
-
 5.  der Ort der Prostitutionsstätte,
-
 
 6.  das Jahr der Erlaubniserteilung oder der Verlängerung und
 
-
 7.  die Anzeige eines Prostitutionsgewerbes, das bereits vor dem 1. Juli
     2017 betrieben wurde.
-
-
-
 
 
 ## § 4 Erhebungsmerkmale für die Statistik über Prostitutionsfahrzeuge
@@ -153,14 +116,9 @@ Vorgang:
 
 1.  die Anzeige der Aufstellung eines Prostitutionsfahrzeuges,
 
-
 2.  der Ort der Aufstellung eines Prostitutionsfahrzeuges und
 
-
 3.  die Untersagung der Aufstellung eines Prostitutionsfahrzeuges.
-
-
-
 
 
 ## § 5 Erhebungsmerkmale für die Statistik über Prostitutionsveranstaltungen
@@ -170,11 +128,7 @@ Vorgang:
 
 1.  die Anzeige der Prostitutionsveranstaltung und
 
-
 2.  der Ort der Prostitutionsveranstaltung.
-
-
-
 
 
 ## § 6 Hilfsmerkmale
@@ -184,12 +138,8 @@ Hilfsmerkmale sind:
 1.  die Behördenbezeichnung und Anschrift der nach § 8 Absatz 1 Satz 2
     auskunftspflichtigen Behörde und
 
-
 2.  der Name sowie die Kontaktdaten der für Rückfragen zur Verfügung
     stehenden Person.
-
-
-
 
 
 ## § 7 Periodizität, Berichtszeitpunkt, Berichtszeitraum
@@ -197,8 +147,8 @@ Hilfsmerkmale sind:
 (1) Die Erhebungen werden jährlich, erstmalig für das Berichtsjahr
 2017 durchgeführt. Die Angaben nach § 2 Nummer 2 bis 6 und § 3 Nummer
 4 bis 5 werden zusätzlich zum Stichtag 31. Dezember des jeweiligen
-Kalenderjahres erhoben. Dabei sind jeweils ausschließlich Daten für
-alle zu diesem Zeitpunkt gültigen Anmeldebescheinigungen und
+Kalenderjahres erhoben. Dabei sind jeweils ausschließlich Daten
+für alle zu diesem Zeitpunkt gültigen Anmeldebescheinigungen und
 Erlaubnisse zu erfassen.
 
 (2) Die Angaben nach § 3 Nummer 6 werden nur zum Stichtag 31. Dezember

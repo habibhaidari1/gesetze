@@ -1,7 +1,5 @@
 ---
-Title: Gesetz zu dem Vertrag vom 20. Juli 1977 zwischen der Bundesrepublik Deutschland
-  und dem Staat Israel über die Ergänzung des Europäischen Übereinkommens vom 20.
-  April 1959 über die Rechtshilfe in Strafsachen und die Erleichterung seiner Anwendung
+Title: Gesetz zu dem Vertrag vom 20. Juli 1977 zwischen der Bundesrepublik Deutschland und dem Staat Israel über die Ergänzung des Europäischen Übereinkommens vom 20. April 1959 über die Rechtshilfe in Strafsachen und die Erleichterung seiner Anwendung
 jurabk: EuRHiISRÜbkErgVtrG
 layout: default
 origslug: eurhiisr_bkergvtrg
@@ -25,8 +23,8 @@ Geändert durch
 
 Dem in Jerusalem am 20. Juli 1977 unterzeichneten Vertrag zwischen der
 Bundesrepublik Deutschland und dem Staat Israel über die Ergänzung des
-Europäischen Übereinkommens vom 20. April 1959 über die Rechtshilfe in
-Strafsachen und die Erleichterung seiner Anwendung wird zugestimmt.
+Europäischen Übereinkommens vom 20. April 1959 über die Rechtshilfe
+in Strafsachen und die Erleichterung seiner Anwendung wird zugestimmt.
 Der Vertrag wird nachstehend veröffentlicht.
 
 
@@ -46,10 +44,10 @@ eingeschränkt.
 
 (1) Rechtshilfeersuchen israelischer Behörden, denen eine
 Zuwiderhandlung zugrunde liegt, die nach deutschem Recht eine
-Ordnungswidrigkeit wäre (Artikel II Buchstabe a des Vertrags), werden
-so behandelt, als ob ihnen nach deutschem Recht eine mit Strafe
-bedrohte Handlung zugrunde läge. Die Bewilligungsbehörde kann der
-Verwaltungsbehörde, die für die Verfolgung der Zuwiderhandlung
+Ordnungswidrigkeit wäre (Artikel II Buchstabe a des Vertrags),
+werden so behandelt, als ob ihnen nach deutschem Recht eine mit
+Strafe bedrohte Handlung zugrunde läge. Die Bewilligungsbehörde kann
+der Verwaltungsbehörde, die für die Verfolgung der Zuwiderhandlung
 zuständig wäre, die Vornahme der Rechtshilfehandlung übertragen.
 
 (2) Rechtshilfeersuchen deutscher Verwaltungsbehörden, denen eine
@@ -83,19 +81,11 @@ ist jedoch nur zulässig, wenn
     a)  zur Zeit der Begehung der Zuwiderhandlung Deutscher war oder es danach
         geworden ist oder
 
-
     b)  im Geltungsbereich dieses Gesetzes seinen Wohnsitz oder gewöhnlichen
         Aufenthalt hat und
 
-
-
-
-
 2.  die zuständige Behörde des Begehungsortes um die Verfolgung ersucht
     hat.
-
-
-
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße geahndet werden.
 

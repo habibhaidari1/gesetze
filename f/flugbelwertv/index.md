@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Ermittlung der Beleihungswerte von Flugzeugen nach § 26d
-  Absatz 1 und 2 des Pfandbriefgesetzes
+Title: Verordnung über die Ermittlung der Beleihungswerte von Flugzeugen nach § 26d Absatz 1 und 2 des Pfandbriefgesetzes
 jurabk: FlugBelWertV
 layout: default
 origslug: flugbelwertv
@@ -16,12 +15,15 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 1036
 
+Geändert durch
+:   Art. 7 V v. 4.10.2022 I 1614
+
 
 ## Eingangsformel
 
-Auf Grund des § 26d Absatz 3 Satz 1 und 2 des Pfandbriefgesetzes, der
-durch Artikel 1 Nummer 24 des Gesetzes vom 20. März 2009 (BGBl. I S.
-607) eingefügt worden ist, verordnet das Bundesministerium der
+Auf Grund des § 26d Absatz 3 Satz 1 und 2 des Pfandbriefgesetzes,
+der durch Artikel 1 Nummer 24 des Gesetzes vom 20. März 2009 (BGBl.
+I S. 607) eingefügt worden ist, verordnet das Bundesministerium der
 Finanzen im Einvernehmen mit dem Bundesministerium der Justiz nach
 Anhörung der Spitzenverbände der Kreditwirtschaft:
 
@@ -31,8 +33,8 @@ Anhörung der Spitzenverbände der Kreditwirtschaft:
 
 ### § 1 Anwendungsbereich
 
-Bei der Ermittlung der Flugzeugbeleihungswerte nach § 26d Absatz 1 und
-2 des Pfandbriefgesetzes und bei der Erhebung der für die
+Bei der Ermittlung der Flugzeugbeleihungswerte nach § 26d Absatz
+1 und 2 des Pfandbriefgesetzes und bei der Erhebung der für die
 Wertermittlung erforderlichen Daten sind die Vorschriften dieser
 Verordnung anzuwenden.
 
@@ -60,15 +62,15 @@ zu berücksichtigen.
 
 ### § 4 Verfahren zur Ermittlung von Beleihungswerten für Flugzeuge
 
-(1) Zur Ermittlung des Flugzeugbeleihungswerts für ein Flugzeug sind
-der aktuelle Marktwert (§ 9), der durchschnittliche Marktwert der
-letzten zehn Jahre (§ 10) sowie der Wert bei ausgeglichenen
+(1) Zur Ermittlung des Flugzeugbeleihungswerts für ein Flugzeug
+sind der aktuelle Marktwert (§ 9), der durchschnittliche Marktwert
+der letzten zehn Jahre (§ 10) sowie der Wert bei ausgeglichenen
 Marktbedingungen und durchschnittlichem Zustand (§ 11) des zu
 bewertenden Flugzeugs heranzuziehen.
 
-(2) Der Flugzeugbeleihungswert darf weder den aktuellen Marktwert des
-Flugzeugs, den durchschnittlichen Marktwert der letzten zehn Jahre
-noch den nach § 11 ermittelten Wert bei ausgeglichenen
+(2) Der Flugzeugbeleihungswert darf weder den aktuellen Marktwert
+des Flugzeugs, den durchschnittlichen Marktwert der letzten zehn
+Jahre noch den nach § 11 ermittelten Wert bei ausgeglichenen
 Marktbedingungen und durchschnittlichem Zustand übersteigen. Sind
 Marktwerte nur für einen kürzeren Zeitraum als zehn Jahre verfügbar,
 ist der durchschnittliche Marktwert für diesen kürzeren Zeitraum zu
@@ -78,9 +80,9 @@ und durchschnittlichem Zustand um 10 Prozent zu mindern ist. Ist für
 ein Flugzeugmuster kein durchschnittlicher Marktwert ermittelbar, gilt
 Satz 2 entsprechend.
 
-(3) Ist ein aktueller Marktwert nach § 9 nicht zu ermitteln, ist ein
-anderes angemessenes Verfahren anzuwenden. In diesen Fällen darf der
-Flugzeugbeleihungswert den um 25 Prozent geminderten Wert bei
+(3) Ist ein aktueller Marktwert nach § 9 nicht zu ermitteln, ist
+ein anderes angemessenes Verfahren anzuwenden. In diesen Fällen darf
+der Flugzeugbeleihungswert den um 25 Prozent geminderten Wert bei
 ausgeglichenen Marktbedingungen und durchschnittlichem Zustand nicht
 überschreiten.
 
@@ -94,23 +96,19 @@ ausgeglichenen Marktbedingungen und durchschnittlichem Zustand nicht
 ermitteln.
 
 (2) Das Gutachten muss durch einen oder mehrere Gutachter erstellt
-werden, die von der Pfandbriefbank allgemein oder von Fall zu Fall
-bestimmt werden. In besonderen Fällen, etwa im Rahmen von
-Kooperationen oder bei Portfoliokäufen, können für andere
+werden, die von der Pfandbriefbank allgemein oder von Fall
+zu Fall bestimmt werden. In besonderen Fällen, etwa im Rahmen
+von Kooperationen oder bei Portfoliokäufen, können für andere
 Kreditinstitute erstellte Gutachten zugrunde gelegt werden, wenn
 
 1.  diese Gutachten den Bestimmungen dieser Verordnung entsprechen,
-
 
 2.  ein nicht mit der Kreditentscheidung befasster, fachlich kundiger
     Mitarbeiter der Pfandbriefbank eine Plausibilitätsprüfung, auch im
     Hinblick auf die einzelnen angesetzten Bewertungsparameter, durchführt
     und
 
-
 3.  das Ergebnis der Plausibilitätsprüfung dokumentiert wird.
-
-
 
 Gutachten, die vom Darlehensnehmer oder Flugzeugeigentümer vorgelegt
 oder in Auftrag gegeben worden sind, dürfen nicht zugrunde gelegt
@@ -128,19 +126,19 @@ Abflugmasse), darzustellen. Auf Vorzüge und Mängel des Flugzeugs ist
 hinzuweisen.
 
 (5) Bei der Ermittlung des aktuellen Marktwerts, des
-durchschnittlichen Marktwerts der letzten zehn Jahre sowie des Wertes
-bei ausgeglichenen Marktbedingungen und durchschnittlichem Zustand
-kann das Gutachten auf die Schätzung eines im Bereich der
-Flugzeugwertermittlung tätigen und anerkannten Schätzers Bezug nehmen.
-Falls eine Besichtigung durch einen anerkannten technischen
+durchschnittlichen Marktwerts der letzten zehn Jahre sowie des
+Wertes bei ausgeglichenen Marktbedingungen und durchschnittlichem
+Zustand kann das Gutachten auf die Schätzung eines im Bereich der
+Flugzeugwertermittlung tätigen und anerkannten Schätzers Bezug
+nehmen. Falls eine Besichtigung durch einen anerkannten technischen
 Sachverständigen vorgenommen worden ist, kann das Gutachten auch auf
 den Besichtigungsbericht Bezug nehmen.
 
 
 ### § 6 Besichtigung
 
-(1) Das zu bewertende Flugzeug ist im Rahmen der Wertermittlung zu
-besichtigen. Dabei sind sämtliche gemäß den Regelungen der
+(1) Das zu bewertende Flugzeug ist im Rahmen der Wertermittlung
+zu besichtigen. Dabei sind sämtliche gemäß den Regelungen der
 Luftverkehrs-Zulassungs-Ordnung an Bord mitzuführende Flugzeugpapiere
 einzusehen. Hierbei sind die Ausstattungsmerkmale von Flugzeugzelle,
 Flugzeugausrüstung und Triebwerken zu ermitteln; der Wartungszustand
@@ -148,9 +146,9 @@ ist festzustellen. Die Besichtigung kann auch durch einen anerkannten
 technischen Sachverständigen erfolgen.
 
 (2) Auf eine Besichtigung kann verzichtet werden, wenn das Flugzeug
-erstmals abgeliefert und vom Betreiber abgenommen worden ist oder der
-Pfandbriefbank von dem Flugzeugeigentümer die Wartung im Rahmen eines
-vom Hersteller und der jeweils zuständigen Luftfahrtbehörde
+erstmals abgeliefert und vom Betreiber abgenommen worden ist oder
+der Pfandbriefbank von dem Flugzeugeigentümer die Wartung im Rahmen
+eines vom Hersteller und der jeweils zuständigen Luftfahrtbehörde
 zugelassenen Wartungsprogramms zugesichert und zur Bewertung ein
 aktueller Wartungsnachweis vorgelegt wird. Aus dem Wartungsnachweis
 muss sich ergeben, dass das Flugzeug einem von der zuständigen
@@ -165,18 +163,18 @@ Luftverkehrsgesetzes genannten Betriebsgenehmigung betrieben wird.
 ### § 7 Gutachter
 
 (1) Der Gutachter muss nach seiner Ausbildung und beruflichen
-Tätigkeit über besondere Kenntnisse und Erfahrungen auf dem Gebiet der
-Bewertung von Flugzeugen verfügen. Bei der Auswahl des Gutachters hat
-sich die Pfandbriefbank davon zu überzeugen, dass der Gutachter neben
-langjähriger Berufserfahrung in der Bewertung von Flugzeugen speziell
-über die zur Erstellung von Flugzeugbeleihungswert-Gutachten
+Tätigkeit über besondere Kenntnisse und Erfahrungen auf dem Gebiet
+der Bewertung von Flugzeugen verfügen. Bei der Auswahl des Gutachters
+hat sich die Pfandbriefbank davon zu überzeugen, dass der Gutachter
+neben langjähriger Berufserfahrung in der Bewertung von Flugzeugen
+speziell über die zur Erstellung von Flugzeugbeleihungswert-Gutachten
 notwendigen Kenntnisse, insbesondere bezüglich des Flugzeugmarkts,
 verfügt. Bei Gutachtern, die bei der International Society of
 Transport Aircraft Trading (ISTAT) zertifiziert sind, gelten die
 notwendigen Kenntnisse als nachgewiesen.
 
-(2) Wenn der Gutachter die Besichtigung nicht selbst vornimmt, ist
-eine technische oder ingenieurmäßige Berufsausbildung nicht
+(2) Wenn der Gutachter die Besichtigung nicht selbst vornimmt,
+ist eine technische oder ingenieurmäßige Berufsausbildung nicht
 erforderlich.
 
 
@@ -194,14 +192,14 @@ anerkannte Schätzer oder technische Sachverständige, auf deren
 Schätzung oder Besichtigungsbericht im Gutachten Bezug genommen wird.
 
 (2) Gutachten von bei der Pfandbriefbank angestellten Gutachtern
-dürfen nur dann der Flugzeugbeleihungswertermittlung zugrunde gelegt
-werden, wenn die betreffenden Gutachter im Rahmen der
+dürfen nur dann der Flugzeugbeleihungswertermittlung zugrunde
+gelegt werden, wenn die betreffenden Gutachter im Rahmen der
 Aufbauorganisation der Pfandbriefbank nur der Geschäftsleitung
 verantwortlich sind oder ausschließlich Teil einer Gutachtereinheit
-sind, die unmittelbar der Geschäftsleitung unterstellt ist, oder Teil
-einer alle betreffenden Gutachter zusammenfassenden Einheit und auch
-im Übrigen bis einschließlich der Ebene der Geschäftsleitung nicht
-einem Bereich der Pfandbriefbank zugeordnet sind, in dem
+sind, die unmittelbar der Geschäftsleitung unterstellt ist, oder
+Teil einer alle betreffenden Gutachter zusammenfassenden Einheit und
+auch im Übrigen bis einschließlich der Ebene der Geschäftsleitung
+nicht einem Bereich der Pfandbriefbank zugeordnet sind, in dem
 Flugzeugkreditgeschäfte entweder angebahnt oder zum Gegenstand des
 einzigen Votums gemacht werden.
 
@@ -211,8 +209,8 @@ einzigen Votums gemacht werden.
 
 ### § 9 Aktueller Marktwert
 
-(1) Der aktuelle Marktwert ist der geschätzte Betrag, für welchen ein
-Flugzeug am Bewertungsstichtag zwischen einem verkaufsbereiten
+(1) Der aktuelle Marktwert ist der geschätzte Betrag, für welchen
+ein Flugzeug am Bewertungsstichtag zwischen einem verkaufsbereiten
 Verkäufer und einem kaufbereiten Erwerber unter den gegebenen
 Marktverhältnissen nach angemessenem Vermarktungszeitraum in einer
 Transaktion im gewöhnlichen Geschäftsverkehr verkauft werden könnte,
@@ -237,8 +235,8 @@ letzten Kalenderjahre vor dem Jahr der Wertermittlung.
 ### § 11 Wert bei ausgeglichenen Marktbedingungen und durchschnittlichem Zustand
 
 (1) Der Wert bei ausgeglichenen Marktbedingungen und
-durchschnittlichem Zustand ist der geschätzte Betrag, für welchen ein
-Flugzeug am Bewertungsstichtag unter der Annahme eines
+durchschnittlichem Zustand ist der geschätzte Betrag, für welchen
+ein Flugzeug am Bewertungsstichtag unter der Annahme eines
 durchschnittlichen Wartungszustandes und eines durchschnittlichen
 Gesamtzustandes zwischen einem verkaufsbereiten Verkäufer und einem
 kaufbereiten Erwerber bei ausgeglichenen Marktverhältnissen nach
@@ -254,11 +252,15 @@ Sachkenntnis, Umsicht und ohne Zwang handelt.
 
 ### § 12 Überprüfung der Grundlagen der Flugzeugbeleihungswertermittlung
 
-(1) Bestehen Anhaltspunkte, dass sich die Grundlagen der
+(1) Der Flugzeugbeleihungswert ist längstens jährlich zu
+überwachen. Bestehen Anhaltspunkte, dass sich die Grundlagen der
 Flugzeugbeleihungswertermittlung nicht nur unerheblich verschlechtert
-haben, sind diese zu überprüfen. Dies gilt insbesondere dann, wenn das
-allgemeine Preisniveau auf dem jeweiligen Flugzeugmarkt in einem die
-Sicherheit der Beleihung gefährdenden Umfang gesunken ist. Der
+haben, sind diese zu überprüfen. Dies gilt insbesondere dann, wenn
+das allgemeine Preisniveau auf dem jeweiligen Flugzeugmarkt in
+einem die Sicherheit der Beleihung gefährdenden Umfang gesunken
+ist. Eine Überprüfung ist auch dann vorzunehmen, wenn die auf
+dem Beleihungsobjekt abgesicherte Forderung einen wesentlichen
+Leistungsrückstand von mindestens 90 Tagen aufweist. Der
 Flugzeugbeleihungswert ist bei Bedarf zu mindern.
 
 (2) Soweit nach anderen Vorschriften eine weitergehende Verpflichtung

@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zur verstärkten Eigentumsbildung im Wohnungsbau und zur Sicherung der
-  Zweckbestimmung von Sozialwohnungen
+Title: Gesetz zur verstärkten Eigentumsbildung im Wohnungsbau und zur Sicherung der Zweckbestimmung von Sozialwohnungen
 jurabk: WoBauÄndG 1965
 layout: default
 origslug: wobau_ndg_1965

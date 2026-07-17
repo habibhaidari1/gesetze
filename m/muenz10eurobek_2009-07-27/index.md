@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert
-  von 10 Euro (Gedenkmünze „100 Jahre Jugendherbergen")
+Title: "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze „100 Jahre Jugendherbergen\")"
 jurabk: Münz10EuroBek 2009-07-27
 layout: default
 origslug: m_nz10eurobek_2009-07-27
@@ -19,13 +18,13 @@ Fundstelle
 
 ## (XXXX)
 
-Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
-I S. 2402) hat die Bundesregierung beschlossen, zum 100-jährigen
-Jubiläum der Jugendherbergen im Jahr 2009 eine deutsche Euro-
+Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999
+(BGBl. I S. 2402) hat die Bundesregierung beschlossen, zum 100-
+jährigen Jubiläum der Jugendherbergen im Jahr 2009 eine deutsche Euro-
 Gedenkmünze im Nennwert von 10 Euro prägen zu lassen.
 
-Die Auflage der Münze beträgt 1 810 000 Stück, darunter maximal
-200 000 Stück in Spiegelglanzausführung. Die Prägung erfolgt durch die
+Die Auflage der Münze beträgt 1 810 000 Stück, darunter maximal 200
+000 Stück in Spiegelglanzausführung. Die Prägung erfolgt durch die
 Staatlichen Münzen Baden-Württemberg, Prägestätte Karlsruhe.
 
 Die Münze wird ab dem 13. August 2009 in den Verkehr gebracht. Sie
@@ -48,7 +47,7 @@ Staatlichen Münzen Baden-Württemberg, Prägestätte Karlsruhe.
 
 Der glatte Münzrand enthält in vertiefter Prägung die Inschrift:
 
-„BEGEGNUNG GEMEINSCHAFT TOLERANZ •“.
+„BEGEGNUNG GEMEINSCHAFT TOLERANZ •“.
 
 Der Entwurf stammt von Herrn Hans Joa Dobler aus Ehekirchen.
 
@@ -59,9 +58,4 @@ Der Bundesminister der Finanzen
 
 
 ## (XXXX)
-
-
-*    *        ![bgbl1_2009_j2443-1_0010.jpg](bgbl1_2009_j2443-1_0010.jpg)
-    *        ![bgbl1_2009_j2443-1_0020.jpg](bgbl1_2009_j2443-1_0020.jpg)
-
 

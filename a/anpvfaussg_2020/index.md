@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zur Aussetzung des Anpassungsverfahrens gemäß § 11 Absatz 4 des Abgeordnetengesetzes
-  für das Jahr 2020
+Title: Gesetz zur Aussetzung des Anpassungsverfahrens gemäß § 11 Absatz 4 des Abgeordnetengesetzes für das Jahr 2020
 jurabk: AnpVfAussG 2020
 layout: default
 origslug: anpvfaussg_2020

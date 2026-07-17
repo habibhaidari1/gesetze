@@ -16,12 +16,11 @@ Fundstelle
 :   BGBl I: 1998, 4023
 
 
-
 ## (XXXX)
 
 Auf Grund des Artikels 11 Abs. 2a des Seeschiffahrtsanpassungsgesetzes
-vom 9. September 1998 (BGBl. I S. 2860) wird bekanntgemacht, daß die
-Kommission der Europäischen Gemeinschaften in bezug auf die
+vom 9. September 1998 (BGBl. I S. 2860) wird bekanntgemacht, daß
+die Kommission der Europäischen Gemeinschaften in bezug auf die
 notifizierten Artikel 6 bis 10 dieses Gesetzes entschieden hat, die
 Tonnagesteuer und die 40%ige Nichtabführung der von Seeleuten zu
 entrichtenden Lohnsteuer durch die Reedereien (Arbeitgeber) als mit

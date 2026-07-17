@@ -1,10 +1,5 @@
 ---
-Title: Vertrag zwischen der Bundesrepublik Deutschland, vertreten durch den Bundesminister
-  des Innern, und dem Zentralrat der Juden in Deutschland – Körperschaft des öffentlichen
-  Rechts –, vertreten durch den Präsidenten und die Vizepräsidenten, zur Änderung
-  des Vertrages vom 27. Januar 2003, in der Fassung des Änderungsvertrages vom 3.
-  März 2008 zwischen der Bundesrepublik Deutschland und dem Zentralrat der Juden in
-  Deutschland – Körperschaft des öffentlichen Rechts –
+Title: Vertrag zwischen der Bundesrepublik Deutschland, vertreten durch den Bundesminister des Innern, und dem Zentralrat der Juden in Deutschland – Körperschaft des öffentlichen Rechts –, vertreten durch den Präsidenten und die Vizepräsidenten, zur Änderung des Vertrages vom 27. Januar 2003, in der Fassung des Änderungsvertrages vom 3. März 2008 zwischen der Bundesrepublik Deutschland und dem Zentralrat der Juden in Deutschland – Körperschaft des öffentlichen Rechts –
 jurabk: ZJDVtrÄndVtr 2011
 layout: default
 origslug: zjdvtr_ndvtr_2011
@@ -31,7 +26,7 @@ wird wie folgt gefasst:
 
 „(1) Zu den in Artikel 1 genannten Zwecken zahlt die Bundesrepublik
 Deutschland an den Zentralrat der Juden in Deutschland jährlich einen
-Betrag von 10 000 000 Euro, beginnend – unabhängig vom Inkrafttreten
+Betrag von 10 000 000 Euro, beginnend – unabhängig vom Inkrafttreten
 des Vertrages – mit dem Haushaltsjahr 2012.“
 
 
@@ -46,24 +41,8 @@ Vertrag zugestimmt wird, in Kraft.
 
 ## Schlussformel
 
-
-
-*    *
-    *
-
-*    *   Für die Bundesrepublik Deutschland
-        Bundesminister des Innern
-
-    *   Für den Zentralrat der Juden in Deutschland K.d.ö.R.
-        Präsident
-
-
-*    *
-    *   Vizepräsident
-
-
-*    *
-    *   Vizepräsident
-
-
+| Für die Bundesrepublik Deutschland  Bundesminister des Innern | Für den Zentralrat der Juden in Deutschland K.d.ö.R.  Präsident |
+| --- | --- |
+|  | Vizepräsident |
+|  | Vizepräsident |
 

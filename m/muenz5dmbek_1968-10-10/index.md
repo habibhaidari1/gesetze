@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen
-  Mark (Raiffeisen-Gedenkmünze)
+Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Raiffeisen-Gedenkmünze)
 jurabk: Münz5DMBek 1968-10-10
 layout: default
 origslug: m_nz5dmbek_1968-10-10
@@ -17,12 +16,11 @@ Fundstelle
 :   BGBl I: 1968, 1066
 
 
-
 ## (XXXX)
 
-(1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen vom
-8\. Juli 1950 (Bundesgesetzbl. S. 323) wird demnächst aus Anlaß des
-150\. Geburtstages von Friedrich Wilhelm Raiffeisen, dem
+(1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen
+vom 8. Juli 1950 (Bundesgesetzbl. S. 323) wird demnächst aus
+Anlaß des 150. Geburtstages von Friedrich Wilhelm Raiffeisen, dem
 Genossenschaftsgründer und Sozialreformer, eine Bundesmünze (Gedenk-
 Münze) im Nennwert von 5 Deutschen Mark in den Verkehr gebracht. Die
 Gesamtauflage richtet sich nach dem Bedarf.

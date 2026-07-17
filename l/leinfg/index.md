@@ -15,10 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   GBl DDR I: 1990, 955
 
+Fundstelle
+:   GBl DDR I: 1990, Nr 51, 955
 
 
 ## - - Territoriale Gliederung
-
 
 
 ### § 1
@@ -33,10 +34,6 @@ gebildet:
 
     .   ohne die Kreise Perleberg, Prenzlau und Templin;
 
-
-
-
-
 -   Brandenburg
 
     durch Zusammenlegung der Bezirksterritorien Cottbus, Frankfurt/Oder
@@ -44,12 +41,7 @@ gebildet:
 
     .   ohne die Kreise Hoyerswerda, Jessen und Weißwasser,
 
-
     .   zuzüglich der Kreise Perleberg, Prenzlau und Templin;
-
-
-
-
 
 -   Sachsen-Anhalt
 
@@ -57,38 +49,22 @@ gebildet:
 
     .   ohne den Kreis Artern,
 
-
     .   zuzüglich des Kreises Jessen;
-
-
-
-
 
 -   Sachsen
 
-    durch Zusammenlegung der Bezirksterritorien Dresden, Karl-Mark-
-    Stadt/Chemnitz und Leipzig,
+    durch Zusammenlegung der Bezirksterritorien Dresden, Karl-Mark-Stadt/
+    Chemnitz und Leipzig,
 
     .   ohne die Kreise Altenburg und Schmölln;
 
-
     .   zuzüglich der Kreise Hoyerswerda und Weißwasser;
-
-
-
-
 
 -   Thüringen
 
     durch Zusammenlegung der Bezirksterritorien Erfurt, Gera und Suhl,
 
     .   zuzüglich der Kreise Altenburg, Artern und Schmölln.
-
-
-
-
-
-
 
 (2)
 
@@ -98,20 +74,19 @@ gebildet:
 (1)
 
 (2) Änderungen von Grenzen der Länder der DDR, die im Ergebnis von
-Bürgerbefragungen in Gemeinden und Städten begehrt werden und von der
-Gemeindevertretung bzw. Stadtverordnetenversammlung beschlossen
+Bürgerbefragungen in Gemeinden und Städten begehrt werden und von
+der Gemeindevertretung bzw. Stadtverordnetenversammlung beschlossen
 wurden, bedürfen eines Staatsvertrages zwischen den beteiligten
 Ländern.
 
-(3) Wollen Gemeinden oder Städte nach der Länderbildung in das Land
-zurückkehren, dem sie am 23. Juli 1952 angehörten, ist ihrem in
-Bürgerbefragungen bekundeten und durch die Volksvertretungen
+(3) Wollen Gemeinden oder Städte nach der Länderbildung in das
+Land zurückkehren, dem sie am 23. Juli 1952 angehörten, ist ihrem
+in Bürgerbefragungen bekundeten und durch die Volksvertretungen
 bestätigten Willen stattzugeben, sofern dadurch keine Ex- bzw.
 Enklaven entstehen.
 
 
 ### (XXXX) §§ 3 bis 21 (weggefallen)
-
 
 
 ### § 22 Übergang von Einrichtungen und Personal
@@ -126,14 +101,13 @@ Länder wahrnehmen, auf die Länder über. Soweit Aufgaben auf die Länder
 ## - - Übergangs- und Schlußbestimmungen
 
 
-
 ### § 23
 
 (1)
 
 (2) Der erstgewählte Landtag, dem zugleich die Aufgabe einer
-verfassungsgebenden Landesversammlung obliegt, tritt spätestens am 14.
-Tag nach der Wahl zusammen. Spätestens am 20. Tag nach seinem
+verfassungsgebenden Landesversammlung obliegt, tritt spätestens am
+14\. Tag nach der Wahl zusammen. Spätestens am 20. Tag nach seinem
 Zusammentritt hat er eine vorläufige Landesregierung zu bilden.
 
 (3) Nach Inkrafttreten der Landesverfassung wird die Landesregierung

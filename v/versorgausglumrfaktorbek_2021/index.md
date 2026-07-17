@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung der Umrechnungsfaktoren für den Versorgungsausgleich in der
-  Rentenversicherung
+Title: Bekanntmachung der Umrechnungsfaktoren für den Versorgungsausgleich in der Rentenversicherung
 jurabk: VersorgAusglUmrFaktorBek 2021
 layout: default
 origslug: versorgausglumrfaktorbek_2021
@@ -25,89 +24,36 @@ die zuletzt durch Artikel 259 Nummer 1 der Verordnung vom 31. Oktober
 2006 (BGBl. I S. 2407) geändert worden sind, wird bekannt gemacht:
 
 Die auf Grund des vorläufigen Durchschnittsentgelts und des
-Beitragssatzes für das Jahr 2021 berechneten Faktoren betragen im Jahr
-2021
+Beitragssatzes für das Jahr 2021 berechneten Faktoren betragen im
+Jahr 2021
 
 1.  in der allgemeinen Rentenversicherung für die Umrechnung
 
-    a)
-        *            *   von Entgeltpunkten in Beiträge
+    a)  | von Entgeltpunkten in Beiträge | 7.726,6260, |
+        | --- | --- |
 
-            *   7.726,6260,
+        | von Entgeltpunkten (Ost) in Beiträge | 7.316,8807, |
+        | --- | --- |
 
+    b)  | von Beiträgen, Barwerten, Deckungskapitalien und vergleichbaren Deckungsrücklagen in Entgeltpunkte | 0,0001294226, |
+        | --- | --- |
 
-
-
-
-        *            *   von Entgeltpunkten (Ost) in Beiträge
-
-            *   7.316,8807,
-
-
-
-
-
-    b)
-        *            *   von Beiträgen, Barwerten, Deckungskapitalien und
-                vergleichbaren Deckungsrücklagen in Entgeltpunkte
-
-            *   0,0001294226,
-
-
-
-
-
-        *            *   von Beiträgen in Entgeltpunkte (Ost)
-
-            *   0,0001366703,
-
-
-
-
-
-
-
+        | von Beiträgen in Entgeltpunkte (Ost) | 0,0001366703, |
+        | --- | --- |
 
 2.  in der knappschaftlichen Rentenversicherung für die Umrechnung
 
-    a)
-        *            *   von Entgeltpunkten in Beiträge
+    a)  | von Entgeltpunkten in Beiträge | 10.260,6270, |
+        | --- | --- |
 
-            *   10.260,6270,
+        | von Entgeltpunkten (Ost) in Beiträge | 9.716,5028, |
+        | --- | --- |
 
+    b)  | von Beiträgen in Entgeltpunkte | 0,0000974599, |
+        | --- | --- |
 
-
-
-
-        *            *   von Entgeltpunkten (Ost) in Beiträge
-
-            *   9.716,5028,
-
-
-
-
-
-    b)
-        *            *   von Beiträgen in Entgeltpunkte
-
-            *   0,0000974599,
-
-
-
-
-
-        *            *   von Beiträgen in Entgeltpunkte (Ost)
-
-            *   0,0001029177.
-
-
-
-
-
-
-
-
-
+        | von Beiträgen in Entgeltpunkte (Ost) | 0,0001029177. |
+        | --- | --- |
 
 
 ## Schlussformel

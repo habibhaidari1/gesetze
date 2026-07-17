@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Gewährung von Heilfürsorge für Polizeivollzugsbeamtinnen
-  und Polizeivollzugsbeamte in der Bundespolizei
+Title: Verordnung über die Gewährung von Heilfürsorge für Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte in der Bundespolizei und beim Deutschen Bundestag
 jurabk: BPolHfV
 layout: default
 origslug: bpolhfv
@@ -8,7 +7,7 @@ slug: bpolhfv
 
 ---
 
-# Verordnung über die Gewährung von Heilfürsorge für Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte in der Bundespolizei (BPolHfV)
+# Verordnung über die Gewährung von Heilfürsorge für Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte in der Bundespolizei und beim Deutschen Bundestag (BPolHfV)
 
 Ausfertigungsdatum
 :   2014-05-22
@@ -17,7 +16,7 @@ Fundstelle
 :   BGBl I: 2014, 586
 
 Zuletzt geändert durch
-:   Art. 65 V v. 19.6.2020 I 1328
+:   Art. 1 V v. 11.3.2025 I Nr. 80
 
 
 ## Eingangsformel
@@ -42,19 +41,19 @@ mitverantwortlich. Sie sollen durch eine gesundheitsbewusste
 Lebensführung, durch frühzeitige Beteiligung an gesundheitlichen
 Vorsorgemaßnahmen sowie durch aktive Mitwirkung an Krankenbehandlung
 und Rehabilitation dazu beitragen, den Eintritt von Krankheit,
-Behinderung oder Pflegebedürftigkeit zu vermeiden oder deren Folgen zu
-überwinden.
+Behinderung oder Pflegebedürftigkeit zu vermeiden oder deren Folgen
+zu überwinden.
 
 (3) Die Behandlung umfasst auch die Untersuchung der oder des
 Heilfürsorgeberechtigten.
 
-(4) Die Heilfürsorgeberechtigten sind verpflichtet, dem Ärztlichen
-Dienst der Bundespolizei auf Verlangen ärztliche Bescheinigungen,
-Arzt- und Befundberichte vorzulegen. Der Ärztliche Dienst der
-Bundespolizei kann diagnostische Maßnahmen veranlassen, wenn diese für
-die Feststellung des Gesundheitszustandes erforderlich und für die
-oder den Heilfürsorgeberechtigten zumutbar sind. Die Kosten trägt der
-Bund.
+(4) Die Heilfürsorgeberechtigten der Bundespolizei sind verpflichtet,
+dem Ärztlichen Dienst der Bundespolizei auf Verlangen ärztliche
+Bescheinigungen, Arzt- und Befundberichte vorzulegen. Der Ärztliche
+Dienst der Bundespolizei kann diagnostische Maßnahmen veranlassen,
+wenn diese für die Feststellung des Gesundheitszustandes erforderlich
+und für die oder den Heilfürsorgeberechtigten zumutbar sind. Die
+Kosten trägt der Bund.
 
 
 ### § 2 Sachleistungsprinzip
@@ -66,17 +65,11 @@ Buches Sozialgesetzbuch entsprechend.
 
 ### § 3 Heilfürsorgekarte
 
-(1) Heilfürsorgeberechtigte, die in einer Dienststelle ohne eigenen
-polizeiärztlichen Dienst tätig sind, erhalten eine Heilfürsorgekarte,
-die für alle Heilfürsorgeleistungen nach § 4 Absatz 1 gilt (allgemeine
-Heilfürsorgekarte). Mit Zustimmung des Bundesministeriums des Innern,
-für Bau und Heimat können auch andere Heilfürsorgeberechtigte eine
-allgemeine Heilfürsorgekarte erhalten.
+(1) Alle Heilfürsorgeberechtigten erhalten eine Heilfürsorgekarte
+in Form einer elektronischen Gesundheitskarte, die für alle
+Heilfürsorgeleistungen nach § 4 Absatz 1 gilt.
 
-(2) Die übrigen Heilfürsorgeberechtigten erhalten eine
-Heilfürsorgekarte, die nur für zahnärztliche Behandlungen gilt.
-
-(3) Die Heilfürsorgeberechtigten haben der behandelnden Vertragsärztin
+(2) Die Heilfürsorgeberechtigten haben der behandelnden Vertragsärztin
 oder Vertragszahnärztin oder dem behandelnden Vertragsarzt oder
 Vertragszahnarzt die Heilfürsorgekarte vor der Behandlung vorzulegen.
 
@@ -90,60 +83,47 @@ Vertragszahnarzt die Heilfürsorgekarte vor der Behandlung vorzulegen.
     und Väter entsprechend den §§ 20, 20i, 23 bis 24b und 25 des Fünften
     Buches Sozialgesetzbuch,
 
-
 2.  Leistungen bei Schwangerschaft, Entbindung und Mutterschaft
-    entsprechend den §§ 24c bis 24i des Fünften Buches Sozialgesetzbuch,
-
+    entsprechend den §§ 24c bis 24h des Fünften Buches Sozialgesetzbuch
+    sowie zusätzlich 200 Euro pro Schwangerschaft für zusätzliche
+    Vorsorge- und Früherkennungsleistungen,
 
 3.  Leistungen zur künstlichen Befruchtung entsprechend § 27a des Fünften
     Buches Sozialgesetzbuch,
 
-
-4.  ärztliche und zahnärztliche Behandlung entsprechend § 27 Absatz 1 in
-    Verbindung mit den §§ 28, 55 und 56 des Fünften Buches
+4.  ärztliche und zahnärztliche Behandlung entsprechend § 27 Absatz
+    1 in Verbindung mit den §§ 28, 55 und 56 des Fünften Buches
     Sozialgesetzbuch,
-
 
 5.  Versorgung mit Arznei- und Verbandmitteln entsprechend § 27 Absatz 1
     in Verbindung mit § 31 des Fünften Buches Sozialgesetzbuch,
 
-
 6.  Versorgung mit Heilmitteln entsprechend § 27 Absatz 1 in Verbindung
     mit den §§ 32 und 92 des Fünften Buches Sozialgesetzbuch,
 
-
 7.  Versorgung mit Hilfsmitteln entsprechend § 27 Absatz 1 in Verbindung
     mit den §§ 33, 36 und 92 des Fünften Buches Sozialgesetzbuch,
-
 
 8.  häusliche Krankenpflege, Soziotherapie und spezialisierte ambulante
     Palliativversorgung entsprechend § 27 Absatz 1 in Verbindung mit den
     §§ 37 bis 37b des Fünften Buches Sozialgesetzbuch,
 
-
 9.  Haushaltshilfe entsprechend § 27 Absatz 1 in Verbindung mit § 38 des
     Fünften Buches Sozialgesetzbuch,
-
 
 10. Krankenhausbehandlung sowie stationäre und ambulante Hospizleistungen
     entsprechend § 27 Absatz 1 in Verbindung mit den §§ 39 und 39a des
     Fünften Buches Sozialgesetzbuch,
-
 
 11. Leistungen zur medizinischen Rehabilitation, medizinische
     Rehabilitation für Mütter und Väter sowie ergänzende Leistungen zur
     Rehabilitation entsprechend § 27 Absatz 1 in Verbindung mit den §§ 40,
     41 und 43 des Fünften Buches Sozialgesetzbuch,
 
-
 12. Fahrkosten entsprechend § 60 des Fünften Buches Sozialgesetzbuch,
-
 
 13. Leistungen bei Pflegebedürftigkeit entsprechend dem Elften Buch
     Sozialgesetzbuch.
-
-
-
 
 (2) Soweit in dieser Verordnung nichts anderes bestimmt ist,
 entsprechen die Leistungen der Heilfürsorge den Leistungen
@@ -152,10 +132,7 @@ entsprechen die Leistungen der Heilfürsorge den Leistungen
     Sozialgesetzbuch und den hierauf beruhenden, im Rang nachgehenden
     Regelungen sowie
 
-
 2.  der sozialen Pflegeversicherung nach dem Elften Buch Sozialgesetzbuch.
-
-
 
 Die Leistungen müssen ausreichend, zweckmäßig und wirtschaftlich sein;
 sie dürfen das Maß des Notwendigen nicht überschreiten.
@@ -167,88 +144,70 @@ Leistungserbringern übernommen.
 (4) Für vertragsärztliche und vertragszahnärztliche Leistungen im
 Rahmen des Sicherstellungsauftrages nach § 75 Absatz 3 des Fünften
 Buches Sozialgesetzbuch gelten die Vorschriften des Fünften Buches
-Sozialgesetzbuch sowie die hierauf beruhenden Regelungen, soweit diese
-Verordnung nichts anderes bestimmt und keine abweichenden
+Sozialgesetzbuch sowie die hierauf beruhenden Regelungen, soweit
+diese Verordnung nichts anderes bestimmt und keine abweichenden
 Vereinbarungen bestehen.
 
-(5) In begründeten Einzelfällen kann das Bundesministerium des Innern,
-für Bau und Heimat im Rahmen seiner Fürsorgepflicht einer Abweichung
-von den Richtlinien des Gemeinsamen Bundesausschusses zustimmen.
+(5) In begründeten Einzelfällen kann das Bundespolizeipräsidium im
+Rahmen seiner Fürsorgepflicht einer Abweichung von den Richtlinien des
+Gemeinsamen Bundesausschusses unter nachrichtlicher Beteiligung des
+Bundesministeriums des Innern und für Heimat zustimmen.
 
 
 ## Kapitel 2 - Leistungen
 
 
-### § 5 Ärztliche Behandlung von Heilfürsorgeberechtigten, die eine allgemeine Heilfürsorgekarte besitzen
+### § 5 Ärztliche Behandlung von Heilfürsorgeberechtigten
 
-(1) Heilfürsorgeberechtigte, die eine allgemeine Heilfürsorgekarte
-besitzen, haben eine an der vertragsärztlichen Versorgung teilnehmende
-Fachärztin für Allgemeinmedizin oder Fachärztin für Innere Medizin
-oder einen an der vertragsärztlichen Versorgung teilnehmenden Facharzt
-für Allgemeinmedizin oder Facharzt für Innere Medizin in Anspruch zu
+(1) Heilfürsorgeberechtigte haben eine an der vertragsärztlichen
+Versorgung teilnehmende Fachärztin für Allgemeinmedizin oder Innere
+Medizin oder einen an der vertragsärztlichen Versorgung teilnehmenden
+Facharzt für Allgemeinmedizin oder Innere Medizin in Anspruch zu
 nehmen, die oder der die Funktion der Hausärztin oder des Hausarztes
 übernimmt.
 
-(2) Soweit die Behandlung besondere Kenntnisse und Erfahrungen
-erfordert, erfolgt sie auf Veranlassung der Hausärztin oder des
-Hausarztes durch eine an der vertragsärztlichen Versorgung
-teilnehmende Ärztin oder einen an der vertragsärztlichen Versorgung
-teilnehmenden Arzt, in der Regel eine Fachärztin oder ein Facharzt.
+(2) Abweichend von Absatz 1 werden Heilfürsorgeberechtigte, die in
+einer Dienststelle mit eigenem polizeiärztlichen Dienst tätig sind,
+grundsätzlich durch die Polizeiärztin oder den Polizeiarzt medizinisch
+versorgt. Polizeivollzugsanwärterinnen und Polizeivollzugsanwärter
+sind verpflichtet, sich in die polizeiärztliche Behandlung zu begeben.
 
-
-### § 6 Ärztliche Behandlung von Heilfürsorgeberechtigten, die keine allgemeine Heilfürsorgekarte besitzen
-
-(1) Heilfürsorgeberechtigte, die keine allgemeine Heilfürsorgekarte
-besitzen, werden von der zuständigen Polizeiärztin oder dem
-zuständigen Polizeiarzt behandelt.
-
-(2) Steht am Dienstort vorübergehend keine Ärztin der Bundespolizei
-oder kein Arzt der Bundespolizei zur Verfügung, kann eine
-Vertragsärztin oder ein Vertragsarzt in Anspruch genommen werden. Die
-oder der Heilfürsorgeberechtigte hat die in Anspruch genommene Ärztin
-oder den in Anspruch genommenen Arzt darüber zu informieren, dass sie
-oder er heilfürsorgeberechtigte Angehörige oder
-heilfürsorgeberechtigter Angehöriger der Bundespolizei ist und
-innerhalb von vier Wochen nach der Behandlung einen Überweisungsschein
-oder eine Kostenübernahmeerklärung der zuständigen Ärztin der
-Bundespolizei oder des zuständigen Arztes der Bundespolizei
-nachreichen wird. Die oder der
-Heilfürsorgeberechtigte              hat die zuständige Ärztin der
-Bundespolizei oder den zuständigen Arzt der Bundespolizei unverzüglich
+(3) Steht im Fall des Absatzes 2 am Dienstort vorübergehend keine
+Ärztin der Bundespolizei oder kein Arzt der Bundespolizei für
+die Behandlung der Heilfürsorgeberechtigten zur Verfügung oder
+liegt ein Notfall vor, so können die Heilfürsorgeberechtigten
+eine vertragsärztliche Praxis in Anspruch nehmen. Die oder der
+Heilfürsorgeberechtigte hat die Ärztin oder den Arzt darüber zu
+informieren, dass sie oder er heilfürsorgeberechtigte Angehörige
+oder heilfürsorgeberechtigter Angehöriger der Bundespolizei ist.
+Die oder der Heilfürsorgeberechtigte hat die zuständige Ärztin der
+Bundespolizei oder den zuständigen Arzt der Bundespolizei im Nachgang
 über die Erkrankung oder den Unfall zu informieren.
 
-(3) Soweit die Behandlung besondere Kenntnisse und Erfahrungen
-erfordert, wird sie auf Veranlassung der Ärztin der Bundespolizei oder
-des Arztes der Bundespolizei durch eine an der vertragsärztlichen
+(4) Soweit die Behandlung des Heilfürsorgeberechtigten besondere
+Kenntnisse und Erfahrungen erfordert, erfolgt sie auf haus- oder
+polizeiärztliche Veranlassung durch eine an der vertragsärztlichen
 Versorgung teilnehmende Ärztin oder einen an der vertragsärztlichen
-Versorgung teilnehmenden Arzt, in der Regel eine Fachärztin oder einen
-Facharzt, gewährt.
+Versorgung teilnehmenden Arzt, in der Regel durch eine Fachärztin oder
+einen Facharzt.
 
 
-### § 7 Notfallbehandlung von Heilfürsorgeberechtigten, die keine allgemeine Heilfürsorgekarte besitzen
+### § 6 Zahnärztliche Behandlung
 
-Ist bei plötzlichen schweren Erkrankungen oder bei Unfällen eine
-Polizeiärztin oder ein Polizeiarzt nicht oder nicht rechtzeitig zu
-erreichen, können Heilfürsorgeberechtigte, die keine allgemeine
-Heilfürsorgekarte besitzen, andere ärztliche Hilfe in Anspruch nehmen,
-bis eine Polizeiärztin oder ein Polizeiarzt die weitere ärztliche
-Versorgung übernehmen oder veranlassen kann. § 4 Absatz 3 gilt
-entsprechend.
+(1) Heilfürsorgeberechtigte haben Anspruch auf die Übernahme
+der tatsächlichen Kosten einer Regelversorgung mit Zahnersatz,
+einschließlich Zahnkronen und Suprakonstruktionen, entsprechend den §§
+55 und 56 Absatz 1 des Fünften Buches Sozialgesetzbuch in Verbindung
+mit der Zahnersatz-Richtlinie des Gemeinsamen Bundesausschusses
+in der jeweils geltenden und nach § 94 Absatz 2 des Fünften Buches
+Sozialgesetzbuch im Bundesanzeiger bekannt gemachten Fassung. Wählt
+die oder der Heilfürsorgeberechtigte einen über die Regelversorgung
+hinausgehenden gleich- oder andersartigen Zahnersatz, wird höchstens
+ein hundertprozentiger Festzuschuss entsprechend § 55 Absatz 1 Satz 2
+des Fünften Buches Sozialgesetzbuch gewährt.
 
-
-### § 8 Zahnärztliche Behandlung
-
-(1) Heilfürsorgeberechtigte haben Anspruch auf die Übernahme der
-tatsächlichen Kosten einer Regelversorgung mit Zahnersatz,
-einschließlich Zahnkronen und Suprakonstruktionen, nach § 56 Absatz 1
-des Fünften Buches Sozialgesetzbuch. Wählt die oder der
-Heilfürsorgeberechtigte einen über die Regelversorgung hinausgehenden
-gleich- oder andersartigen Zahnersatz, wird höchstens der doppelte
-Betrag des Festzuschusses nach § 55 Absatz 1 Satz 2 des Fünften Buches
-Sozialgesetzbuch gewährt.
-
-(2) Die Anfertigung von Zahnersatz (einschließlich Zahnkronen und
-Suprakonstruktionen), die systematische Behandlung von
+(2) Die Anfertigung von Zahnersatz (einschließlich Zahnkronen
+und Suprakonstruktionen), die systematische Behandlung von
 Parodontopathien und kieferorthopädische Behandlungen bedürfen der
 vorherigen Genehmigung durch das für Heilfürsorgeangelegenheiten
 zuständige Referat des Bundespolizeipräsidiums. Bei Zweifeln an der
@@ -257,8 +216,8 @@ kann das für Heilfürsorgeangelegenheiten zuständige Referat des
 Bundespolizeipräsidiums den Heil- und Kostenplan durch einen Gutachter
 überprüfen lassen. Wird ein genehmigter Heil- und Kostenplan geändert,
 bedarf auch die Änderung der Genehmigung. Das Genehmigungsverfahren
-sowie das Gutachter- und Obergutachterverfahren, einschließlich der zu
-verwendenden Vordrucke, richten sich nach dem Ersatzkassenvertrag-
+sowie das Gutachter- und Obergutachterverfahren, einschließlich der
+zu verwendenden Vordrucke, richten sich nach dem Ersatzkassenvertrag-
 Zahnärzte vom 1. Januar 2005 in der jeweils jüngsten auf der
 Internetseite des Spitzenverbandes Bund der Krankenkassen (www.gkv-
 spitzenverband.de) veröffentlichten Fassung.
@@ -267,11 +226,15 @@ spitzenverband.de) veröffentlichten Fassung.
 Zahnreinigung nach Nummer 1040 der Anlage zur Gebührenordnung für
 Zahnärzte werden übernommen.
 
+(4) Medizinisch notwendige Aufwendungen für zahnimplantologische
+Leistungen werden entsprechend § 15 der Bundesbeihilfeverordnung in
+Höhe von 50 Prozent übernommen.
 
-### § 9 Arznei- und Verbandmittel
 
-(1) Die Einzelheiten der Versorgung der Heilfürsorgeberechtigten mit
-Arznei- und Verbandmitteln regelt der Arzneiversorgungsvertrag
+### § 7 Arznei- und Verbandmittel
+
+(1) Die Einzelheiten der Versorgung der Heilfürsorgeberechtigten
+mit Arznei- und Verbandmitteln regelt der Arzneiversorgungsvertrag
 zwischen der Bundesrepublik Deutschland und dem Deutschen
 Apothekerverband e. V. vom 1. Oktober 2011 in der jeweils jüngsten im
 Bundesanzeiger veröffentlichten Fassung.
@@ -280,23 +243,23 @@ Bundesanzeiger veröffentlichten Fassung.
 Einsatz bleibt unberührt.
 
 
-### § 10 Heilmittel
+### § 8 Heilmittel
 
 Die Kosten für Heilmittel werden entsprechend den von den Ersatzkassen
 nach dem Fünften Buch Sozialgesetzbuch getroffenen Vereinbarungen mit
 den Leistungserbringern übernommen, sofern eine ärztliche Verordnung
-nach der Heilmittel-Richtlinie des Gemeinsamen Bundesausschusses in
-ihrer jeweils jüngsten auf der Internetseite des Gemeinsamen
+nach der Heilmittel-Richtlinie des Gemeinsamen Bundesausschusses
+in ihrer jeweils jüngsten auf der Internetseite des Gemeinsamen
 Bundesausschusses (www.g-ba.de) veröffentlichten Fassung vorliegt und
 zugelassene Leistungserbringer nach dem Fünften Buch Sozialgesetzbuch
 in Anspruch genommen werden.
 
 
-### § 11 Hilfsmittel
+### § 9 Hilfsmittel
 
-(1) Zur Versorgung mit Hilfsmitteln entsprechend den §§ 33 und 36 des
-Fünften Buches Sozialgesetzbuch kann das für
-Heilfürsorgeangelegenheiten zuständige Referat des
+(1) Zur Versorgung mit Hilfsmitteln entsprechend den §§
+33 und 36 des Fünften Buches Sozialgesetzbuch kann das
+für Heilfürsorgeangelegenheiten zuständige Referat des
 Bundespolizeipräsidiums mit den Leistungserbringern Miet-, Leasing-
 oder ähnliche Verträge schließen. Die Versorgung mit Hilfsmitteln
 durch Apotheken regelt der in § 9 Absatz 1 genannte Vertrag.
@@ -310,30 +273,21 @@ in Anspruch zu nehmen.
 
 (3) Fällt der Anspruch auf Heilfürsorge weg, gehen die weiterhin
 benötigten Hilfsmittel in das Eigentum der oder des ehemaligen
-Heilfürsorgeberechtigten über. Hilfsmittel aus Verträgen nach Absatz 1
-Satz 1 sind dem Leistungserbringer zurückzugeben, wenn der Anspruch
+Heilfürsorgeberechtigten über. Hilfsmittel aus Verträgen nach Absatz
+1 Satz 1 sind dem Leistungserbringer zurückzugeben, wenn der Anspruch
 auf Heilfürsorge wegfällt.
 
 
-### § 12 Krankenhausbehandlung
+### § 10 Krankenhausbehandlung
 
 (1) Die Krankenhausbehandlung ist in der Regel am Dienst- oder Wohnort
 oder in dessen Nähe in Anspruch zu nehmen.
 
 (2) Heilfürsorgeberechtigte haben Anspruch auf die allgemeinen
-Krankenhausleistungen nach dem Krankenhausentgeltgesetz und der
-Bundespflegesatzverordnung sowie auf folgende darüber hinausgehende
-und gesondert zu berechnende Leistungen:
-
-1.  Unterkunft, deren Kosten die Kosten eines Zweibettzimmers nicht
-    übersteigen darf; dabei haben Heilfürsorgeberechtigte einen
-    Eigenanteil in Höhe von 14,50 Euro pro Tag zu zahlen, und
-
-
-2.  wahlärztliche Leistungen.
-
-
-
+Krankenhausleistungen entsprechend dem Fünften Buch Sozialgesetzbuch
+wie insbesondere entsprechend § 39 des Fünften Buches Sozialgesetzbuch
+sowie auf die Leistungen entsprechend den §§ 39a bis 39c und § 39e des
+Fünften Buches Sozialgesetzbuch.
 
 (3) Bei besonders schweren Erkrankungen sowie bei voraussichtlich
 länger dauernder stationärer Behandlung können Heilfürsorgeberechtigte
@@ -344,35 +298,35 @@ Nähe des Wohnorts eingewiesen oder verlegt werden, wenn dies dem
 Heilungsprozess oder der Verbesserung der Betreuung dient.
 
 
-### § 13 Organtransplantationen
+### § 11 Organ- und Gewebetransplantationen
 
 Bei Organ- und Gewebetransplantationen werden in entsprechender
 Anwendung der Vorschriften der Bundesbeihilfeverordnung auch die
 notwendigen und wirtschaftlich angemessenen Aufwendungen der Spenderin
 oder des Spenders, einschließlich der Versicherungskosten und des
-nachgewiesenen Ausfalls an Arbeitseinkünften, übernommen, soweit diese
-Aufwendungen nicht von anderer Seite übernommen werden. Der
+nachgewiesenen Ausfalls an Arbeitseinkünften, übernommen, soweit
+diese Aufwendungen nicht von anderer Seite übernommen werden. Der
 nachgewiesene Ausfall an Arbeitseinkünften wird auch dann übernommen,
 wenn die vorgesehene Spenderin oder der vorgesehene Spender letztlich
 nicht in Betracht kommt.
 
 
-### § 14 Leistungen zur Rehabilitation
+### § 12 Leistungen zur Rehabilitation
 
-(1) Leistungen zur medizinischen Rehabilitation werden entsprechend §
-40 des Fünften Buches Sozialgesetzbuch nach ärztlicher Feststellung
+(1) Leistungen zur medizinischen Rehabilitation werden entsprechend
+§ 40 des Fünften Buches Sozialgesetzbuch nach ärztlicher Feststellung
 gewährt.
 
-(2) Leistungen zur medizinischen Rehabilitation umfassen ambulante und
-stationäre Behandlungen in Rehabilitationseinrichtungen oder in
-anderen ärztlich geleiteten Einrichtungen, mit denen ein
+(2) Leistungen zur medizinischen Rehabilitation umfassen ambulante
+und stationäre Behandlungen in Rehabilitationseinrichtungen
+oder in anderen ärztlich geleiteten Einrichtungen, mit denen ein
 Versorgungsvertrag nach den §§ 111 und 111a des Fünften Buches
 Sozialgesetzbuch besteht.
 
 (3) Heilfürsorgeberechtigte haben Anspruch auf Leistungen zur
-medizinischen Rehabilitation entsprechend § 40 Absatz 1 des Fünften
-Buches Sozialgesetzbuch, wenn der unmittelbare Anschluss der
-Rehabilitation an eine Krankenhausbehandlung nach ärztlicher
+medizinischen Rehabilitation entsprechend § 40 Absatz 1 des
+Fünften Buches Sozialgesetzbuch, wenn der unmittelbare Anschluss
+der Rehabilitation an eine Krankenhausbehandlung nach ärztlicher
 Feststellung notwendig ist. Die Vereinbarung des Bundesministeriums
 des Innern, für Bau und Heimat mit der Deutschen Rentenversicherung
 Bund zur Durchführung von Anschlussheilbehandlungen für
@@ -382,8 +336,8 @@ in ihrer jeweils geltenden im Bundesanzeiger veröffentlichten Fassung
 ist entsprechend anzuwenden.
 
 (4) Die Kosten für Familien- oder Angehörigenseminare in
-therapeutischen Einrichtungen werden übernommen, soweit diese Kosten
-nicht bereits mit dem allgemeinen Pflegesatz abgegolten sind.
+therapeutischen Einrichtungen werden übernommen, soweit diese
+Kosten nicht bereits mit dem allgemeinen Pflegesatz abgegolten sind.
 Fahrkosten für die Angehörigen werden bis zur Höhe der Kosten für
 Fahrten in der niedrigsten Beförderungsklasse regelmäßig verkehrender
 Beförderungsmittel übernommen.
@@ -393,17 +347,21 @@ Erreichen der Altersgrenze für den Eintritt in den Ruhestand werden
 Leistungen zur medizinischen Rehabilitation, die der Erhaltung der
 Dienstfähigkeit dienen, nicht gewährt.
 
-(6) Leistungen zur Rehabilitation sind vor Beginn der Maßnahme bei dem
-für Heilfürsorgeangelegenheiten zuständigen Referat des
+(6) Leistungen zur Rehabilitation sind vor Beginn der Maßnahme
+bei dem für Heilfürsorgeangelegenheiten zuständigen Referat des
 Bundespolizeipräsidiums schriftlich zu beantragen.
 
 
-### § 15 Fahrkosten
+### § 13 Fahrkosten
 
-(1) Fahrkosten für Krankenbeförderungen werden entsprechend den
-Krankentransport-Richtlinien des Gemeinsamen Bundesausschusses in der
-jüngsten auf der Internetseite des Gemeinsamen Bundesausschusses
-(www.g-ba.de) veröffentlichten Fassung übernommen. Dies gilt auch für
+(1) Fahrtkosten für Krankenbeförderungen werden entsprechend der
+Krankentransport-Richtlinie des Gemeinsamen Bundesausschusses nach
+§ 92 Absatz 1 Satz 2 Nummer 12 des Fünften Buches Sozialgesetzbuch
+in der jeweils geltenden und nach § 94 Absatz 2 des Fünften
+Buches Sozialgesetzbuch im Bundesanzeiger bekannt gemachten
+Fassung mit der Maßgabe übernommen, dass über erforderliche
+Genehmigungen das für Heilfürsorgeangelegenheiten zuständige
+Referat des Bundespolizeipräsidiums entscheidet. Dies gilt auch für
 Krankentransporte mit Fahrzeugen der Bundespolizei. Über die Erteilung
 der Genehmigung nach § 9 der Krankentransport-Richtlinien entscheidet
 
@@ -411,21 +369,17 @@ der Genehmigung nach § 9 der Krankentransport-Richtlinien entscheidet
     besitzen, das für Heilfürsorgeangelegenheiten zuständige Referat des
     Bundespolizeipräsidiums,
 
-
 2.  bei Heilfürsorgeberechtigten, die keine allgemeine Heilfürsorgekarte
     besitzen, die zuständige Ärztin der Bundespolizei oder der zuständige
     Arzt der Bundespolizei.
 
-
-
-
-(2) Übernommen werden die durch Landes- oder Kommunalrecht oder in den
-Verträgen der Mitglieder des Verbandes der Ersatzkassen e. V. mit den
-Trägern der Rettungs- und Krankentransportdienste festgelegten
+(2) Übernommen werden die durch Landes- oder Kommunalrecht oder in
+den Verträgen der Mitglieder des Verbandes der Ersatzkassen e. V. mit
+den Trägern der Rettungs- und Krankentransportdienste festgelegten
 Entgelte.
 
 
-### § 16 Leistungen bei Pflegebedürftigkeit
+### § 14 Leistungen bei Pflegebedürftigkeit
 
 (1) Heilfürsorgeberechtigte erhalten die im Elften Buch
 Sozialgesetzbuch genannten Leistungen zur Hälfte.
@@ -438,76 +392,75 @@ sowie den Umfang und die Höhe der Leistungen der Pflegeversicherung
 beizufügen.
 
 
-### § 17 Behandlung während eines dienstlichen Aufenthaltes im Ausland
+### § 15 Behandlung während eines dienstlichen Aufenthaltes im Ausland
 
 (1) Bei Erkrankungen während eines dienstlichen Aufenthaltes im
 Ausland werden die notwendigen und wirtschaftlich angemessenen
-krankheitsbedingten Aufwendungen übernommen. Sofern nicht zwingende
-Gründe entgegenstehen, dürfen nur Leistungserbringer in Anspruch
-genommen werden, die ortsübliche Vergütungen berechnen.
+krankheitsbedingten Aufwendungen im Einsatzland übernommen. Sofern
+nicht zwingende Gründe entgegenstehen, dürfen nur Leistungserbringer
+in Anspruch genommen werden, die ortsübliche Vergütungen berechnen.
 
-(2) Heilfürsorgeberechtigte haben die Kostenerstattung bei dem für
-Heilfürsorgeangelegenheiten zuständigen Referat des
+(2) Heilfürsorgeberechtigte haben die Kostenerstattung bei
+dem für Heilfürsorgeangelegenheiten zuständigen Referat des
 Bundespolizeipräsidiums schriftlich zu beantragen; eine Bankverbindung
 ist anzugeben. Dem Antrag sind beizufügen:
 
 1.  Originalbelege (Rechnung mit Diagnose, Verordnung),
 
-
 2.  gegebenenfalls Kopien der Arztberichte mit deutscher Übersetzung und
-
 
 3.  gegebenenfalls ein Nachweis des Umrechnungskurses der ausländischen
     Währung am Tag der Zahlung.
 
-
-
 Die Kosten für Übersetzungen nach Satz 2 Nummer 2 werden übernommen.
 
 
-### § 18 Behandlung während eines privaten Aufenthaltes in einem anderen Mitgliedstaat der Europäischen Union, in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in der Schweiz
+### § 16 Behandlung während eines privaten Aufenthaltes oder bei Wohnsitz in einem anderen Mitgliedstaat der Europäischen Union, in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder in der Schweiz
 
-(1) Während eines privaten Aufenthaltes in einem anderen Mitgliedstaat
-der Europäischen Union, in einem anderen Vertragsstaat des Abkommens
-über den Europäischen Wirtschaftsraum oder in der Schweiz dürfen nur
-solche Leistungserbringer in Anspruch genommen werden,
+(1) Während eines privaten Aufenthaltes oder bei Wohnsitz in einem
+anderen Mitgliedstaat der Europäischen Union, in einem anderen
+Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
+oder in der Schweiz dürfen nur solche Leistungserbringer in Anspruch
+genommen werden,
 
 1.  bei denen die Bedingungen des Zuganges und der Ausübung des Berufes
     Gegenstand einer Richtlinie der Europäischen Union sind oder
 
-
 2.  die im System der Krankenversicherung des Aufenthaltsstaates zur
     Versorgung der Versicherten berechtigt sind.
 
+(1a) Ist während eines vorübergehenden privaten Aufenthaltes eine
+Behandlung unverzüglich erforderlich, die auch im Inland möglich
+wäre, so übernimmt die Heilfürsorge die Kosten der erforderlichen
+Behandlung. Die Kostenübernahme ist nicht zulässig, wenn
+Heilfürsorgeberechtigte sich zur Behandlung ins Ausland begeben.
 
-
-
-(2) Die Kosten einer Behandlung werden bis zu der Höhe übernommen, in
-der sie bei einer Erkrankung am Dienst- oder Wohnort im Inland und der
-Inanspruchnahme einer an der vertragsärztlichen Versorgung
+(2) Die Kosten einer Behandlung werden bis zu der Höhe übernommen,
+in der sie bei einer Erkrankung am Dienst- oder Wohnort im Inland
+und der Inanspruchnahme einer an der vertragsärztlichen Versorgung
 teilnehmenden Ärztin oder eines an der vertragsärztlichen Versorgung
-teilnehmenden Arztes oder eines zugelassenen Krankenhauses unter
-Berücksichtigung der für die Bundespolizei geltenden
+teilnehmenden Arztes oder eines zugelassenen Krankenhauses
+unter Berücksichtigung der für die Bundespolizei geltenden
 Abrechnungsmodalitäten entstanden wären.
 
-(3) Eine stationäre Behandlung bedarf der vorherigen Genehmigung durch
-das für Heilfürsorgeangelegenheiten zuständige Referat des
-Bundespolizeipräsidiums. Die Genehmigung soll nur erteilt werden, wenn
-eine dem anerkannten Stand der medizinischen Erkenntnisse
+(3) Eine stationäre Behandlung bedarf der vorherigen Genehmigung
+durch das für Heilfürsorgeangelegenheiten zuständige Referat des
+Bundespolizeipräsidiums. Die Genehmigung soll nur erteilt werden,
+wenn eine dem anerkannten Stand der medizinischen Erkenntnisse
 entsprechende Behandlung im Inland nicht möglich ist.
 
 (4) § 17 Absatz 2 gilt mit der Maßgabe entsprechend, dass
 Übersetzungskosten nicht übernommen werden.
 
 
-### § 19 Behandlung während eines privaten Aufenthaltes außerhalb der Mitgliedstaaten der Europäischen Union, der anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum und der Schweiz
+### § 17 Behandlung während eines privaten Aufenthaltes außerhalb der Mitgliedstaaten der Europäischen Union, der anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum und der Schweiz
 
 (1) Die Kosten einer während eines privaten Aufenthaltes außerhalb der
 Mitgliedstaaten der Europäischen Union, der anderen Vertragsstaaten
 des Abkommens über den Europäischen Wirtschaftsraum und der Schweiz
 unverzüglich erforderlichen Behandlung werden bis zu der Höhe
-übernommen, in der sie bei einer Erkrankung am Dienst- oder Wohnort im
-Inland und der Inanspruchnahme einer an der vertragsärztlichen
+übernommen, in der sie bei einer Erkrankung am Dienst- oder Wohnort
+im Inland und der Inanspruchnahme einer an der vertragsärztlichen
 Versorgung teilnehmenden Ärztin oder eines an der vertragsärztlichen
 Versorgung teilnehmenden Arztes oder eines zugelassenen Krankenhauses
 unter Berücksichtigung der für die Bundespolizei geltenden
@@ -520,17 +473,36 @@ Bundesministeriums des Innern, für Bau und Heimat. § 18 Absatz 3 Satz
 (3) § 17 Absatz 2 gilt mit der Maßgabe entsprechend, dass
 Übersetzungskosten nicht übernommen werden.
 
+(4) § 16 Absatz 1a gilt entsprechend.
+
+
+### § 18 Übergangsvorschrift
+
+(1) § 6 Absatz 4 ist anwendbar auf Behandlungen, die nach Ablauf
+des 31. Oktober 2025 begonnen wurden. Der Beginn einer Behandlung
+in diesem Sinne ist die Erbringung der ersten kostenauslösenden
+Behandlungsleistung. Im Einzelfall kann die Erstattung trotz einer
+bereits vor dem 1. April 2025 begonnenen Behandlung nach § 6 Absatz
+4 erfolgen, wenn die bereits erbrachten Leistungen im Verhältnis zur
+Gesamtbehandlung als geringfügig zu bewerten sind.
+
+(2) Im Übrigen ist die ab dem 1. November 2025 geltende Fassung dieser
+Verordnung auf Leistungen anwendbar, die ab dem 1. November 2025
+erbracht werden. Maßgebend hierfür ist die erste kostenauslösende
+Behandlungsleistung oder, sofern keine Behandlungsleistung erbracht
+wird, die erste kostenauslösende Tätigkeit eines Leistungserbringers.
+
 
 ## Kapitel 3 - Schlussbestimmungen
 
 
-### § 20 Verwaltungsvorschrift
+### § 19 Verwaltungsvorschrift
 
 Das Bundesministerium des Innern, für Bau und Heimat erlässt eine
 Verwaltungsvorschrift zur Durchführung dieser Verordnung.
 
 
-### § 21 Inkrafttreten, Außerkrafttreten
+### § 20 Inkrafttreten, Außerkrafttreten
 
 (1) Diese Verordnung tritt am 1. Juli 2014 in Kraft.
 

@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl II: 1976, 1089
 
 
-
 ## Art 1
 
 Dem in Malaga-Torremolinos am 25. Oktober 1973 von der Bundesrepublik

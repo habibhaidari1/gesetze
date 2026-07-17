@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Gewährung einer monatlichen Sonderzahlung an die bei der
-  Deutschen Postbank AG beschäftigten Beamtinnen und Beamten
+Title: Verordnung über die Gewährung einer monatlichen Sonderzahlung an die bei der Deutschen Postbank AG beschäftigten Beamtinnen und Beamten
 jurabk: PostbankSZV
 layout: default
 origslug: postbankszv
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 2007, 2121
-
 
 
 ## Eingangsformel
@@ -35,10 +33,10 @@ Beamten mit Dienstbezügen erhalten für die Zeit von Januar 2005 bis
 Dezember 2007 eine monatliche Sonderzahlung.
 
 (2) Die monatliche Sonderzahlung errechnet sich nach Maßgabe der
-folgenden Sätze. Ein Zwölftel des Urlaubsgeldes und ein Zwölftel der
-jährlichen Sonderzuwendung, die jeweils 2004 an eine Beamtin oder an
-einen Beamten in Vollzeitbeschäftigung gezahlt worden wären, wenn
-diese Zahlungen nicht durch die Sonderzahlung nach dem
+folgenden Sätze. Ein Zwölftel des Urlaubsgeldes und ein Zwölftel
+der jährlichen Sonderzuwendung, die jeweils 2004 an eine Beamtin
+oder an einen Beamten in Vollzeitbeschäftigung gezahlt worden
+wären, wenn diese Zahlungen nicht durch die Sonderzahlung nach dem
 Bundessonderzahlungsgesetz ersetzt worden wären, werden addiert. Von
 der sich daraus ergebenden Summe werden 5 Prozent des monatlichen
 Endgrundgehaltes der Besoldungsgruppe der Beamtin oder des Beamten

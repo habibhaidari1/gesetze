@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl I: 2002, 2889
 
 
-
 ## § 1
 
 Die Zucker-Mindestlagerabgaben-Verordnung vom 7. Juli 1977 (BGBl. I S.

@@ -1,7 +1,5 @@
 ---
-Title: Gesetz über die Freigabe der stillgelegten Mittel aus dem Zuschlag zur Einkommensteuer
-  und zur Körperschaftsteuer sowie über die Aufhebung der Stillegungspflicht für künftig
-  aufkommende Beträge
+Title: Gesetz über die Freigabe der stillgelegten Mittel aus dem Zuschlag zur Einkommensteuer und zur Körperschaftsteuer sowie über die Aufhebung der Stillegungspflicht für künftig aufkommende Beträge
 jurabk: EStFreigG
 layout: default
 origslug: estfreigg
@@ -18,7 +16,6 @@ Fundstelle
 :   BGBl I: 1974, 3676, 3679
 
 
-
 ## § 1 Freigabe der stillgelegten Mittel
 
 Die nach § 9 Abs. 1 des Stabilitätszuschlaggesetzes vom 26. Juni 1973
@@ -29,12 +26,12 @@ nach § 9 Abs. 2 dieses Gesetzes zur Entnahme freigegeben.
 
 ## § 2 Aufhebung der Stillegungspflicht für künftig aufkommende Beträge
 
-Künftig aufkommende Beträge aus dem Zuschlag zur Einkommensteuer und
-zur Körperschaftsteuer sind nicht mehr als
+Künftig aufkommende Beträge aus dem Zuschlag zur
+Einkommensteuer und zur Körperschaftsteuer sind nicht mehr als
 Konjunkturausgleichsrücklage auf Sonderkonten bei der Deutschen
-Bundesbank anzusammeln, sondern werden bei den entsprechenden Steuern
-vom Einkommen vereinnahmt. Zu leistende Erstattungen an
-Stabilitätszuschlag sind dem Aufkommen aus diesen Steuern zu
+Bundesbank anzusammeln, sondern werden bei den entsprechenden
+Steuern vom Einkommen vereinnahmt. Zu leistende Erstattungen
+an Stabilitätszuschlag sind dem Aufkommen aus diesen Steuern zu
 entnehmen.
 
 

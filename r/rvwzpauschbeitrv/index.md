@@ -1,7 +1,5 @@
 ---
-Title: Verordnung über die pauschale Berechnung und die Zahlung der Beiträge zur gesetzlichen
-  Rentenversicherung für die Dauer eines auf Grund gesetzlicher Pflicht zu leistenden
-  Wehr- und Zivildienstes
+Title: Verordnung über die pauschale Berechnung und die Zahlung der Beiträge zur gesetzlichen Rentenversicherung für die Dauer eines auf Grund gesetzlicher Pflicht zu leistenden Wehr- und Zivildienstes
 jurabk: RVWZPauschBeitrV
 layout: default
 origslug: rvwzpauschbeitrv
@@ -27,8 +25,8 @@ Auf Grund des § 178 Abs. 1 des Sechsten Buches Sozialgesetzbuch -
 Gesetzliche Rentenversicherung - (Artikel 1 des Gesetzes vom 18.
 Dezember 1989, BGBl. I S. 2261, 1990 I S. 1337), der zuletzt durch
 Artikel 40 der Verordnung vom 21. September 1997 (BGBl. I S. 2390)
-geändert worden ist, verordnet das Bundesministerium für Arbeit und
-Sozialordnung im Einvernehmen mit dem Bundesministerium der
+geändert worden ist, verordnet das Bundesministerium für Arbeit
+und Sozialordnung im Einvernehmen mit dem Bundesministerium der
 Verteidigung, dem Bundesministerium für Familie, Senioren, Frauen und
 Jugend und dem Bundesministerium der Finanzen:
 
@@ -38,8 +36,8 @@ Jugend und dem Bundesministerium der Finanzen:
 Diese Verordnung findet Anwendung auf Personen, die auf Grund
 gesetzlicher Pflicht Wehrdienst oder Zivildienst leisten
 (Dienstleistende) oder sich in einem Wehrdienstverhältnis besonderer
-Art nach § 6 des Einsatz-Weiterverwendungsgesetzes befinden und nach §
-3 Satz 1 Nr. 2 oder 2a des Sechsten Buches Sozialgesetzbuch
+Art nach § 6 des Einsatz-Weiterverwendungsgesetzes befinden und
+nach § 3 Satz 1 Nr. 2 oder 2a des Sechsten Buches Sozialgesetzbuch
 versicherungspflichtig in der Rentenversicherung sind.
 
 
@@ -55,8 +53,8 @@ Rentenversicherung vorgenommen.
 
 1.  für Dienstleistende, die Leistungen nach § 5 oder § 8 Absatz 1 Satz 1
     in Verbindung mit Anlage 1 des Unterhaltssicherungsgesetzes erhalten
-    und deren beitragspflichtige Einnahme nach § 166 Absatz 1 Nummer 1a
-    des Sechsten Buches Sozialgesetzbuch das Arbeitsentgelt ist, das
+    und deren beitragspflichtige Einnahme nach § 166 Absatz 1 Nummer
+    1a des Sechsten Buches Sozialgesetzbuch das Arbeitsentgelt ist, das
     dieser Leistung vor Abzug von Steuern und Beiträgen zugrunde liegt
     oder zugrunde läge, oder die Dienstbezüge auf Grund eines versicherten
     Wehrdienstverhältnisses besonderer Art nach § 6 des Einsatz-
@@ -70,27 +68,25 @@ Rentenversicherung vorgenommen.
     Sechsten Buches Sozialgesetzbuch der dort festgesetzte Prozentsatz der
     Bezugsgröße ist:
 
-    ![bgbl1_2019_j1147-1_0020.jpg](bgbl1_2019_j1147-1_0020.jpg)    .
+    ![bgbl1_2019_j1147-1_0020.jpg](bgbl1_2019_j1147-1_0020.jpg)
 
-
-
-
+    .
 
 
 ## § 3 Berechnungsgrundlagen
 
 (1) Summe der Arbeitsentgelte (§ 2 Abs. 2 Nr. 1) sind im Fall einer
-Verdienstausfallentschädigung (1. Alternative) die den Leistungen nach
-§ 5 Absatz 1 des Unterhaltssicherungsgesetzes vor Abzug von Steuern
-und Beitragsanteilen zugrunde liegenden Arbeitsentgelte bis zur
-jeweiligen Beitragsbemessungsgrenze und im Fall von Dienstbezügen (2.
-Alternative) die beitragspflichtigen Einnahmen nach § 166 Absatz 1
+Verdienstausfallentschädigung (1. Alternative) die den Leistungen
+nach § 5 Absatz 1 des Unterhaltssicherungsgesetzes vor Abzug von
+Steuern und Beitragsanteilen zugrunde liegenden Arbeitsentgelte bis
+zur jeweiligen Beitragsbemessungsgrenze und im Fall von Dienstbezügen
+(2. Alternative) die beitragspflichtigen Einnahmen nach § 166 Absatz 1
 Nummer 1b des Sechsten Buches Sozialgesetzbuch.
 
-(2) Beitragsbemessungsgrundlage (§ 2 Abs. 2 Nr. 2) sind die aus der
-für das Kalenderjahr der Dienstleistung geltenden Bezugsgröße
-abgeleiteten beitragspflichtigen Einnahmen nach § 166 Absatz 1 Nummer
-1 und 1a des Sechsten Buches Sozialgesetzbuch. Solange
+(2) Beitragsbemessungsgrundlage (§ 2 Abs. 2 Nr. 2) sind die aus
+der für das Kalenderjahr der Dienstleistung geltenden Bezugsgröße
+abgeleiteten beitragspflichtigen Einnahmen nach § 166 Absatz 1
+Nummer 1 und 1a des Sechsten Buches Sozialgesetzbuch. Solange
 unterschiedliche Bezugsgrößen bestimmt sind, ist jeweils die
 Bezugsgröße des Gebietes anzuwenden, in dem die in § 1 genannten
 Personen ihren Dienst regelmäßig ableisten.
@@ -111,12 +107,8 @@ Die Berechnung und die Zahlung der Beiträge nehmen vor für
 1.  Wehrdienstleistende das Bundesamt für das Personalmanagement der
     Bundeswehr,
 
-
 2.  Zivildienstleistende das Bundesamt für Familie und
     zivilgesellschaftliche Aufgaben.
-
-
-
 
 
 ## § 5 Berechnungsverfahren
@@ -147,28 +139,25 @@ Rentenversicherung an
 
 1.  die Träger der allgemeinen Rentenversicherung,
 
-
 2.  die Deutsche Rentenversicherung Knappschaft-Bahn-See als Träger der
     knappschaftlichen Rentenversicherung
 
-
-
 zu zahlen.
 
-(2) Auf die Beiträge sind bis zum 15. des zweiten Monats eines jeden
-Kalendervierteljahres Vorschüsse zu zahlen. Für die Berechnung der
-Vorschüsse sind die Diensttage im vergangenen Kalendervierteljahr
-zugrunde zu legen. Die Vorschüsse für die allgemeinen
-Rentenversicherung werden nach dem Verhältnis der auf sie im
-vergangenen Kalendervierteljahr entfallenden Diensttage verteilt.
+(2) Auf die Beiträge sind bis zum 15. des zweiten Monats eines
+jeden Kalendervierteljahres Vorschüsse zu zahlen. Für die
+Berechnung der Vorschüsse sind die Diensttage im vergangenen
+Kalendervierteljahr zugrunde zu legen. Die Vorschüsse für die
+allgemeinen Rentenversicherung werden nach dem Verhältnis der auf sie
+im vergangenen Kalendervierteljahr entfallenden Diensttage verteilt.
 
-(3) Nach Ablauf eines jeden Kalenderjahres werden die Beiträge für die
-Diensttage des vorangegangenen Kalenderjahres errechnet und den
+(3) Nach Ablauf eines jeden Kalenderjahres werden die Beiträge für
+die Diensttage des vorangegangenen Kalenderjahres errechnet und den
 gezahlten Vorschüssen gegenübergestellt. Unterschiedsbeträge sind bis
 zum 31. März eines jeden Jahres für das vergangene Kalenderjahr zu
-zahlen oder zu erstatten. Nachträglich festgestellte Änderungen in der
-Anzahl der Diensttage oder der Summe der Arbeitsentgelte werden mit
-den Berechnungsgrößen des dazugehörigen Abrechnungsjahres bei der
+zahlen oder zu erstatten. Nachträglich festgestellte Änderungen in
+der Anzahl der Diensttage oder der Summe der Arbeitsentgelte werden
+mit den Berechnungsgrößen des dazugehörigen Abrechnungsjahres bei der
 nächsten Abrechnung berücksichtigt.
 
 

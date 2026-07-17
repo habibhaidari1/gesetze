@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl I: 1993, 1857
 
 
-
 ## Eingangsformel
 
 Auf Grund des § 6 Satz 1 Nr. 1 des Bundesarchivgesetzes vom 6. Januar
@@ -49,13 +48,13 @@ der Nachforschung schriftlich zu stellen.
 die Genehmigung mit Auflagen erteilen.
 
 (3) Der Antragsteller hat sich auf Verlangen des Bundesarchivs
-schriftlich zu verpflichten, bei der Verwertung von Erkenntnissen aus
-Archivgut Persönlichkeits- und Urheberrechte sowie schutzwürdige
+schriftlich zu verpflichten, bei der Verwertung von Erkenntnissen
+aus Archivgut Persönlichkeits- und Urheberrechte sowie schutzwürdige
 Belange Dritter zu beachten und bei Verstößen das Bundesarchiv von der
 Haftung freizustellen.
 
-(4) Die Mitwirkung von Hilfskräften bei der Benutzung ist besonders zu
-beantragen. Die Namen der Hilfskräfte sind im Benutzungsantrag
+(4) Die Mitwirkung von Hilfskräften bei der Benutzung ist besonders
+zu beantragen. Die Namen der Hilfskräfte sind im Benutzungsantrag
 anzugeben; Absatz 3 gilt entsprechend.
 
 (5) Sollen aus dem Archivgut gewonnene Erkenntnisse für andere als im
@@ -65,10 +64,10 @@ neuer Antrag erforderlich.
 
 ## § 4 Sorgfaltspflicht des Benutzers
 
-Der Benutzer ist verpflichtet, das Archivgut in den Benutzerräumen zu
-belassen, die innere Ordnung des Archivgutes zu bewahren, es nicht zu
-beschädigen, zu verändern oder in seinem Erhaltungszustand zu
-gefährden.
+Der Benutzer ist verpflichtet, das Archivgut in den Benutzerräumen
+zu belassen, die innere Ordnung des Archivgutes zu bewahren, es
+nicht zu beschädigen, zu verändern oder in seinem Erhaltungszustand
+zu gefährden.
 
 
 ## § 5 Ausschluß von der Benutzung
@@ -81,11 +80,11 @@ Bundesarchiv ausgeschlossen.
 
 ## § 6 Nutzung durch Stellen des Bundes
 
-Eine der in § 2 Abs. 1 Satz 1 des Bundesarchivgesetzes oder der in § 1
-Abs. 2 und § 2 des Gesetzes über die zentrale Archivierung der
-Unterlagen aus dem Bereich des Kriegsfolgenrechts vom 6. Januar 1988
-(BGBl. I S. 65) bezeichneten Stellen kann jederzeit auf das bei ihr
-oder ihrem Rechtsvorgänger entstandene Archivgut für die Zwecke
+Eine der in § 2 Abs. 1 Satz 1 des Bundesarchivgesetzes oder der in
+§ 1 Abs. 2 und § 2 des Gesetzes über die zentrale Archivierung der
+Unterlagen aus dem Bereich des Kriegsfolgenrechts vom 6. Januar
+1988 (BGBl. I S. 65) bezeichneten Stellen kann jederzeit auf das bei
+ihr oder ihrem Rechtsvorgänger entstandene Archivgut für die Zwecke
 zurückgreifen, für die diese Unterlagen vor Abgabe an das Bundesarchiv
 verwendet werden durften. Die §§ 1 bis 5 dieser Verordnung finden
 insoweit keine Anwendung.

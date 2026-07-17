@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Gewährung von Leistungsentgelten an Beamtinnen und Beamte
-  bei der Deutschen Post AG
+Title: Verordnung über die Gewährung von Leistungsentgelten an Beamtinnen und Beamte bei der Deutschen Post AG
 jurabk: PostLEntgV
 layout: default
 origslug: postlentgv
@@ -17,7 +16,7 @@ Fundstelle
 :   BGBl I: 2005, 3475
 
 Zuletzt geändert durch
-:   Art. 1 V v. 3.12.2020 I 2877
+:   Art. 1 V v. 1.12.2025 I Nr. 299
 
 
 ## Eingangsformel
@@ -41,17 +40,17 @@ leistungsbezogenes Entgelt (Leistungsentgelt) gewährt werden.
 
 (1) Das Leistungsentgelt (§ 1 Satz 1) wird als Jahresbetrag für im
 abgelaufenen Kalenderjahr erzielte Leistungen gewährt. Seine Höhe wird
-für Beamtinnen und Beamte des einfachen und des mittleren Dienstes auf
-der Grundlage einer Leistungsbeurteilung (§ 5), für die übrigen
-Beamtinnen und Beamten auf der Grundlage einer Gesamtbeurteilung (§ 7)
-ermittelt.
+für Beamtinnen und Beamte des einfachen und des mittleren Dienstes
+auf der Grundlage einer Leistungsbeurteilung (§ 5), für die übrigen
+Beamtinnen und Beamten auf der Grundlage einer Gesamtbeurteilung (§
+7) ermittelt.
 
 (2) Maßgeblich für die Ermittlung des Leistungsentgelts ist die
 Besoldungsgruppe der Beamtin oder des Beamten am 1. Dezember des
 abgelaufenen Kalenderjahres.
 
-(3) Das Leistungsentgelt wird mit den Dienstbezügen für den Monat Mai
-des auf den Beurteilungszeitraum folgenden Jahres gezahlt.
+(3) Das Leistungsentgelt wird mit den Dienstbezügen für den Monat
+Mai des auf den Beurteilungszeitraum folgenden Jahres gezahlt.
 Beurteilungszeitraum ist grundsätzlich das Kalenderjahr. Das
 Leistungsentgelt wird nicht auf die Besoldung angerechnet.
 
@@ -81,41 +80,17 @@ zugewiesenen Budgets je Besoldungsgruppe.
 
 (1) Zur Ermittlung der auf die einzelnen Beamtinnen und Beamten
 entfallenden Zahlbeträge wird zunächst, für jede Besoldungsgruppe
-einer Organisationseinheit gesondert, die Zahl der Beamtinnen und
-Beamten je Gesamtbeurteilungsstufe mit folgenden Faktoren
+einer Organisationseinheit gesondert, die Zahl der Beamtinnen
+und Beamten je Gesamtbeurteilungsstufe mit folgenden Faktoren
 multipliziert:
 
-*    *   Gesamtbeurteilungsstufe
-
-    *   Faktor
-
-
-*    *   erfüllt nicht die Anforderungen
-
-    *   0
-
-
-*    *   erfüllt teilweise die Anforderungen
-
-    *   0
-
-
-*    *   voll und ganz zufriedenstellend
-
-    *   1
-
-
-*    *   übertrifft die Anforderungen
-
-    *   2
-
-
-*    *   übertrifft deutlich die Anforderungen
-
-    *   3
-
-
-
+| Gesamtbeurteilungsstufe | Faktor |
+| --- | --- |
+| erfüllt nicht die Anforderungen | 0 |
+| erfüllt teilweise die Anforderungen | 0 |
+| voll und ganz zufriedenstellend | 1 |
+| übertrifft die Anforderungen | 2 |
+| übertrifft deutlich die Anforderungen | 3 |
 
 Bei Teilzeitbeschäftigung verringert sich der Faktor prozentual
 entsprechend dem Umfang der bewilligten Teilzeitbeschäftigung.
@@ -133,15 +108,15 @@ Anforderungen“ und „erfüllt teilweise die Anforderungen“ ergibt sich
 kein Zahlbetrag.
 
 (3) Bei Teilzeitbeschäftigung wird das Leistungsentgelt im gleichen
-Verhältnis wie die Arbeitszeit gekürzt. Bei Altersteilzeit wird das
-Leistungsentgelt nach der Arbeitszeit bemessen, die während der
+Verhältnis wie die Arbeitszeit gekürzt. Bei Altersteilzeit wird
+das Leistungsentgelt nach der Arbeitszeit bemessen, die während der
 Altersteilzeit zugrunde gelegt worden ist.
 
 (4) Der Anspruch auf das Leistungsentgelt vermindert sich für die
 Zeiten, in denen der Beamtin oder dem Beamten keine Bezüge zugestanden
 haben. Die Minderung beträgt für jeden Kalendermonat ein Zwölftel.
-Dabei werden Zeiten ohne Bezüge zusammengezählt und der Monat zu 30
-Tagen gerechnet. Der Zahlung von Bezügen steht die Zahlung von
+Dabei werden Zeiten ohne Bezüge zusammengezählt und der Monat zu
+30 Tagen gerechnet. Der Zahlung von Bezügen steht die Zahlung von
 Mutterschaftsgeld nach dem Mutterschutzgesetz gleich. Für die Dauer
 einer Elternzeit unterbleibt die Minderung bis zur Vollendung des
 zwölften Lebensmonats des Kindes.
@@ -169,47 +144,21 @@ einzelnen Besoldungsgruppen in anonymisierter Form.
 
 ## § 6 Ermittlung des Zahlbetrages für die Beamtinnen und Beamten des gehobenen und des höheren Dienstes
 
-(1) Für Beamtinnen und Beamte wird die Höhe des Leistungsentgelts auf
-der Grundlage eines Richtbetrages ermittelt, der 60 Prozent des
+(1) Für Beamtinnen und Beamte wird die Höhe des Leistungsentgelts
+auf der Grundlage eines Richtbetrages ermittelt, der 60 Prozent des
 monatlichen Endgrundgehaltes der jeweiligen Besoldungsgruppe beträgt.
 In der Bundesbesoldungsordnung B tritt an die Stelle des monatlichen
 Endgrundgehaltes das monatliche Grundgehalt.
 
 (2) Das Leistungsentgelt berechnet sich wie folgt:
 
-*    *   Gesamtbeurteilungsstufe
-
-    *   Leistungsentgelt
-        in Prozent des
-        Richtbetrages
-
-
-*    *   erfüllt nicht die Anforderungen
-
-    *   0 %
-
-
-*    *   erfüllt annähernd die Anforderungen
-
-    *   75 %
-
-
-*    *   voll und ganz zufriedenstellend
-
-    *   100 %
-
-
-*    *   übertrifft die Anforderungen
-
-    *   125 %
-
-
-*    *   übertrifft deutlich die Anforderungen
-
-    *   200 %
-
-
-
+| Gesamtbeurteilungsstufe | Leistungsentgelt in Prozent des Richtbetrages |
+| --- | --- |
+| erfüllt nicht die Anforderungen | 0 % |
+| erfüllt annähernd die Anforderungen | 75 % |
+| voll und ganz zufriedenstellend | 100 % |
+| übertrifft die Anforderungen | 125 % |
+| übertrifft deutlich die Anforderungen | 200 % |
 
 (3) § 4 Abs. 3 und 4 gilt entsprechend.
 
@@ -222,8 +171,8 @@ Verordnung nichts anderes bestimmt. Die Gesamtbeurteilung wird einer
 Gesamtbeurteilungsstufe (§ 6 Abs. 2) zugeordnet.
 
 (2) Bis zum 15. April des auf den Beurteilungszeitraum folgenden
-Jahres erhält der Betriebsrat der jeweiligen Organisationseinheit eine
-auf Besoldungsgruppen bezogene Zusammenstellung der
+Jahres erhält der Betriebsrat der jeweiligen Organisationseinheit
+eine auf Besoldungsgruppen bezogene Zusammenstellung der
 Gesamtbeurteilungsstufen in anonymisierter Form.
 
 
@@ -247,8 +196,8 @@ Beauftragte oder einen Beauftragten geschehen.
 Zielvereinbarung (§ 10) zur Zielerreichung und erfolgt nach
 festgelegten Zielerreichungsstufen. § 8 gilt entsprechend.
 
-(2) Ist am Ende des Beurteilungszeitraums eine Zielbewertung nicht
-möglich, ist dies schriftlich festzuhalten. Die Höhe des
+(2) Ist am Ende des Beurteilungszeitraums eine Zielbewertung
+nicht möglich, ist dies schriftlich festzuhalten. Die Höhe des
 Leistungsentgelts richtet sich in diesem Fall ausschließlich nach der
 Leistungsbeurteilung.
 
@@ -262,23 +211,23 @@ auch durch eine Beauftragte oder einen Beauftragten geschehen. Die
 Zielvereinbarung nennt bis zu drei Ziele für den Beurteilungszeitraum.
 Dies können quantitative oder qualitative individuelle Ziele oder
 Gruppenziele sein. Die Ziele müssen nachvollziehbar, klar zuzuordnen,
-unmittelbar auf die Tätigkeit bezogen und von der Beamtin oder dem
-Beamten direkt beeinflussbar sein. Tritt ein Ereignis ein, das
+unmittelbar auf die Tätigkeit bezogen und von der Beamtin oder
+dem Beamten direkt beeinflussbar sein. Tritt ein Ereignis ein, das
 Einfluss auf die Zielerreichung hat und das nicht von der Beamtin oder
 dem Beamten zu vertreten ist, sind die Ziele und deren Gewichtung nach
 den Regeln dieser Verordnung einvernehmlich anzupassen.
 
-(2) Wer Dienstvorgesetztenbefugnisse gegenüber der Beamtin oder dem
-Beamten wahrnimmt, führt mit ihr oder ihm vor dem Abschluss der
-Zielvereinbarung ein Gespräch (Zielvereinbarungsgespräch). Dies kann
-auch durch eine Beauftragte oder einen Beauftragten geschehen. Die
-Beamtin oder der Beamte kann zu dem Gespräch ein Mitglied des
-Betriebsrates hinzuziehen. Zur Vorbereitung auf dieses Gespräch wird
-der Beamtin oder dem Beamten mindestens zwei Wochen vorher mitgeteilt,
-welche Ziele vereinbart werden sollen. Gleichzeitig wird sie oder er
-über die Ziele der jeweiligen übergeordneten fachlichen Ebene
-unterrichtet. Die Beamtin oder der Beamte kann eigene Ziele
-vorschlagen. Mit ihr oder ihm werden auch während des
+(2) Wer Dienstvorgesetztenbefugnisse gegenüber der Beamtin oder
+dem Beamten wahrnimmt, führt mit ihr oder ihm vor dem Abschluss
+der Zielvereinbarung ein Gespräch (Zielvereinbarungsgespräch). Dies
+kann auch durch eine Beauftragte oder einen Beauftragten geschehen.
+Die Beamtin oder der Beamte kann zu dem Gespräch ein Mitglied des
+Betriebsrates hinzuziehen. Zur Vorbereitung auf dieses Gespräch
+wird der Beamtin oder dem Beamten mindestens zwei Wochen vorher
+mitgeteilt, welche Ziele vereinbart werden sollen. Gleichzeitig
+wird sie oder er über die Ziele der jeweiligen übergeordneten
+fachlichen Ebene unterrichtet. Die Beamtin oder der Beamte kann
+eigene Ziele vorschlagen. Mit ihr oder ihm werden auch während des
 Beurteilungszeitraums Gespräche über den Stand der Erreichung der
 vereinbarten Ziele (Zielerreichungsgespräche) geführt. Hierbei soll
 gegebenenfalls auch darüber gesprochen werden, wie die Ziele besser
@@ -299,16 +248,16 @@ nach § 5 innerhalb einer Ausschlussfrist von einer Woche und die
 Gesamtbeurteilung nach § 7 innerhalb einer Ausschlussfrist von zwei
 Wochen nach ihrer Bekanntgabe schriftlich mit kurzer Begründung bei
 der die Dienstvorgesetztenbefugnisse wahrnehmenden Stelleninhaberin
-oder dem die Dienstvorgesetztenbefugnisse wahrnehmenden Stelleninhaber
-Gegenvorstellung erheben. Diese oder dieser leitet die
+oder dem die Dienstvorgesetztenbefugnisse wahrnehmenden
+Stelleninhaber Gegenvorstellung erheben. Diese oder dieser leitet die
 Gegenvorstellung unverzüglich an die Schlichtungsstelle weiter.
 
 (2) Für das Verfahren über die Gegenvorstellung wird in jeder
 Organisationseinheit eine Schlichtungsstelle gebildet.
 
-(3) Die Schlichtungsstelle ist paritätisch mit je zwei von der
-Dienststelle und dem Betriebsrat benannten Vertreterinnen oder
-Vertretern besetzt. Die Vertreterinnen oder Vertreter der
+(3) Die Schlichtungsstelle ist paritätisch mit je zwei von
+der Dienststelle und dem Betriebsrat benannten Vertreterinnen
+oder Vertretern besetzt. Die Vertreterinnen oder Vertreter der
 Dienststelle, die die Leistungsbeurteilung oder die Gesamtbeurteilung
 vorgenommen oder eröffnet haben, können nicht Mitglieder der
 Schlichtungsstelle sein.
@@ -316,12 +265,12 @@ Schlichtungsstelle sein.
 (4) Die Schlichtungsstelle hat die Dienstvorgesetztenbefugnisse
 wahrnehmende Stelleninhaberin oder den Dienstvorgesetztenbefugnisse
 wahrnehmenden Stelleninhaber sowie die beurteilte Beamtin oder den
-beurteilten Beamten vor ihrer Entscheidung zu hören. Sie hat auf eine
-gütliche Einigung der Angelegenheit hinzuwirken. Kann eine gütliche
-Einigung nicht erzielt werden, hat die Schlichtungsstelle innerhalb
-von zwei Wochen nach Eingang der Gegenvorstellung bei der
-Schlichtungsstelle eine Empfehlung auszusprechen und schriftlich zu
-begründen. Sie übermittelt die Empfehlung einschließlich der
+beurteilten Beamten vor ihrer Entscheidung zu hören. Sie hat auf
+eine gütliche Einigung der Angelegenheit hinzuwirken. Kann eine
+gütliche Einigung nicht erzielt werden, hat die Schlichtungsstelle
+innerhalb von zwei Wochen nach Eingang der Gegenvorstellung bei der
+Schlichtungsstelle eine Empfehlung auszusprechen und schriftlich
+zu begründen. Sie übermittelt die Empfehlung einschließlich der
 Begründung der Stelleninhaberin oder dem Stelleninhaber mit den
 Befugnissen einer oder eines Dienstvorgesetzten zur Entscheidung.
 
@@ -331,17 +280,17 @@ Befugnissen einer oder eines Dienstvorgesetzten zur Entscheidung.
 Eine Leistungs- oder Gesamtbeurteilung findet nicht statt, wenn die
 Beamtin oder der Beamte infolge von Dienstunfähigkeit oder aus anderen
 von ihr oder ihm nicht zu vertretenden Gründen im Beurteilungszeitraum
-weniger als drei Monate aktiven Dienst verrichtet hat. In diesem Fall
-gilt die im vorangegangenen Beurteilungszeitraum zuerkannte
+weniger als drei Monate aktiven Dienst verrichtet hat. In diesem
+Fall gilt die im vorangegangenen Beurteilungszeitraum zuerkannte
 Gesamtbeurteilungsstufe als erreicht. Ist im vorangegangenen
 Beurteilungszeitraum keine Leistungs- oder Gesamtbeurteilung erfolgt,
-gilt die Gesamtbeurteilungsstufe „voll und ganz zufriedenstellend” als
-erreicht.
+gilt die Gesamtbeurteilungsstufe „voll und ganz zufriedenstellend”
+als erreicht.
 
 
 ## § 13 Übergangsregelung
 
-Für die Jahre 2012 bis 2025 wird kein Leistungsentgelt nach § 1
+Für die Jahre 2012 bis 2041 wird kein Leistungsentgelt nach § 1
 gezahlt.
 
 

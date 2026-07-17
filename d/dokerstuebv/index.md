@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Standards für die Erstellung elektronischer Dokumente und
-  für deren Übermittlung zwischen Strafverfolgungsbehörden und Gerichten
+Title: Verordnung über die Standards für die Erstellung elektronischer Dokumente und für deren Übermittlung zwischen Strafverfolgungsbehörden und Gerichten
 jurabk: DokErstÜbV
 layout: default
 origslug: dokerst_bv
@@ -16,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2020, 244
 
-Geändert durch
-:   Art. 10 G v. 25.6.2021 I 2099
+Zuletzt geändert durch
+:   Art. 40 G v. 12.7.2024 I Nr. 234
 
 
 ## Eingangsformel
@@ -34,22 +33,16 @@ eingefügt worden ist, verordnet die Bundesregierung:
 1.  die Erstellung elektronischer Dokumente durch Strafverfolgungsbehörden
     und Gerichte;
 
-
 2.  die Übermittlung elektronischer Dokumente zwischen aktenführenden
     Strafverfolgungsbehörden und Gerichten sowie diesen Stellen
     untereinander;
-
 
 3.  die Übermittlung elektronischer Dokumente zwischen nichtaktenführenden
     Strafverfolgungsbehörden und aktenführenden Strafverfolgungsbehörden
     und Gerichten;
 
-
 4.  Ermittlungsvorgänge, die als Verhandlungen im Sinne des § 163 Absatz 2
     Satz 1 der Strafprozessordnung zu übersenden sind.
-
-
-
 
 (2) Diese Verordnung gilt entsprechend für die Erstellung und
 Übermittlung elektronischer Dokumente
@@ -57,31 +50,27 @@ eingefügt worden ist, verordnet die Bundesregierung:
 1.  durch Behörden und Gerichte im Bußgeldverfahren (§ 110c Satz 1 des
     Gesetzes über Ordnungswidrigkeiten);
 
-
 2.  durch Behörden und Gerichte in gerichtlichen Verfahren nach dem
     Strafvollzugsgesetz (§ 120 Absatz 1 Satz 2 des Strafvollzugsgesetzes).
-
-
-
 
 
 ## § 2 Erstellung elektronischer Dokumente
 
 (1) Elektronische Dokumente sind in druckbarer, kopierbarer und,
-soweit technisch möglich, durchsuchbarer Form im Dateiformat PDF/A zu
-erstellen. Das Dateiformat muss der nach § 7 Absatz 1 Nummer 1
+soweit technisch möglich, durchsuchbarer Form im Dateiformat PDF/
+A zu erstellen. Das Dateiformat muss der nach § 7 Absatz 1 Nummer 1
 bekanntgemachten Version entsprechen.
 
 (2) Wird ein elektronisches Dokument mit einer qualifizierten
-elektronischen Signatur versehen, muss diese den nach § 7 Absatz 1
-Nummer 4 bekanntgemachten Vorgaben entsprechen. An oder in jedem
+elektronischen Signatur versehen, muss diese den nach § 7 Absatz
+1 Nummer 4 bekanntgemachten Vorgaben entsprechen. An oder in jedem
 elektronischen Dokument, das qualifiziert elektronisch zu signieren
 ist, sind qualifizierte elektronische Signaturen einzeln anzubringen.
 
-(3) Bei der Erstellung elektronischer Dokumente durch Übertragung ist
-der Stand der Technik im Sinne von § 32e Absatz 2 der
-Strafprozessordnung insbesondere gewahrt, wenn den Anforderungen der
-Technischen Richtlinie 03138 Ersetzendes Scannen (RESISCAN) des
+(3) Bei der Erstellung elektronischer Dokumente durch Übertragung
+ist der Stand der Technik im Sinne von § 32e Absatz 2 der
+Strafprozessordnung insbesondere gewahrt, wenn den Anforderungen
+der Technischen Richtlinie 03138 Ersetzendes Scannen (RESISCAN) des
 Bundesamtes für Sicherheit in der Informationstechnik in der zum
 Zeitpunkt der Übertragung geltenden Fassung genügt wird. Eingescannte
 Leerseiten müssen nicht gespeichert werden.
@@ -98,16 +87,16 @@ beachtet werden.
 
 (1) Strafverfolgungsbehörden und Gerichte sollen einander Dokumente
 als elektronische Dokumente übermitteln, wenn die empfangende Stelle
-die Akten elektronisch führt. Führt die empfangende Stelle noch keine
-elektronischen Akten, sind elektronische Dokumente vor der
+die Akten elektronisch führt. Führt die empfangende Stelle noch
+keine elektronischen Akten, sind elektronische Dokumente vor der
 Übermittlung nach Maßgabe des § 32e der Strafprozessordnung in die
 Papierform zu übertragen.
 
 (2) Abweichend von Absatz 1 Satz 2 können Staatsanwaltschaften,
 Finanzbehörden in Ermittlungsverfahren nach § 386 Absatz 2 der
-Abgabenordnung und § 14a des Schwarzarbeitsbekämpfungsgesetzes und
-Gerichte, welche die Akten elektronisch führen, Dokumente auch dann
-als elektronische Dokumente an andere aktenführende
+Abgabenordnung und § 14a des Schwarzarbeitsbekämpfungsgesetzes
+und Gerichte, welche die Akten elektronisch führen, Dokumente
+auch dann als elektronische Dokumente an andere aktenführende
 Strafverfolgungsbehörden oder Gerichte übermitteln, wenn diese die
 Akten noch in Papierform führen.
 
@@ -120,8 +109,8 @@ enthalten sind oder sonst durch den Formattransfer Qualitätsverluste
 entstanden sind.
 
 (4) Dem elektronischen Dokument soll ein strukturierter
-maschinenlesbarer Datensatz beigefügt werden, der den nach § 7 Absatz
-1 Nummer 2 bekanntgemachten Definitions- oder Schemadateien
+maschinenlesbarer Datensatz beigefügt werden, der den nach § 7
+Absatz 1 Nummer 2 bekanntgemachten Definitions- oder Schemadateien
 entspricht.
 
 
@@ -130,25 +119,25 @@ entspricht.
 (1) Bei der elektronischen Übermittlung von Ermittlungsvorgängen
 (Verhandlungen gemäß § 163 Absatz 2 Satz 1 der Strafprozessordnung)
 nach § 3 Absatz 1 Satz 1 sind sämtliche elektronischen Dokumente
-einschließlich zugehöriger Signaturdateien in elektronischer Form zu
-übermitteln.
+einschließlich zugehöriger Signaturdateien in elektronischer Form
+zu übermitteln.
 
 (2) Soweit Ermittlungsvorgänge nach Absatz 1 Ausgangsdokumente in
 Papierform enthalten, sind diese vor der Übermittlung entsprechend §
 32e der Strafprozessordnung in elektronische Dokumente zu übertragen.
-Ausgangsdokumente, die als Beweismittel sichergestellt sind, können in
-elektronische Dokumente übertragen oder von der elektronischen
+Ausgangsdokumente, die als Beweismittel sichergestellt sind, können
+in elektronische Dokumente übertragen oder von der elektronischen
 Übermittlung ausgenommen werden.
 
-(3) Ausgangsdokumente, die nicht als Beweismittel sichergestellt sind,
-müssen während des laufenden Verfahrens im Anschluss an die
+(3) Ausgangsdokumente, die nicht als Beweismittel sichergestellt
+sind, müssen während des laufenden Verfahrens im Anschluss an die
 Übermittlung mindestens sechs Monate lang gespeichert oder aufbewahrt
 werden. Die Speicher- und Aufbewahrungsfristen gemäß § 32e Absatz 4
 Satz 2 der Strafprozessordnung gelten entsprechend.
 
 (4) Mit dem Ermittlungsvorgang soll ein strukturierter
-maschinenlesbarer Datensatz im Dateiformat XML übermittelt werden, der
-den nach § 7 Absatz 1 Nummer 2 bekanntgemachten Definitions- oder
+maschinenlesbarer Datensatz im Dateiformat XML übermittelt werden,
+der den nach § 7 Absatz 1 Nummer 2 bekanntgemachten Definitions- oder
 Schemadateien entspricht. Dieser Datensatz soll auch Informationen zur
 Gliederung und Sortierung der mit dem Vorgang übermittelten Dokumente
 enthalten.
@@ -172,11 +161,17 @@ sind, sind bis zum 31. Dezember 2025 weiterhin zulässig.
 
 ## § 6 Ersatzmaßnahmen
 
-Ist aus technischen Gründen eine Übermittlung nach § 5 vorübergehend
-nicht möglich, so ist die Übermittlung auch auf andere Weise, etwa in
-Papierform oder auf einem physischen Datenträger nach § 7 Absatz 1
-Nummer 3, zulässig. Auf Anforderung ist die elektronische Fassung des
-Dokuments oder Ermittlungsvorgangs nachzureichen.
+(1) Ist aus technischen Gründen eine Übermittlung nach § 5
+vorübergehend nicht möglich, so ist die Übermittlung auch auf andere
+Weise, etwa in Papierform oder auf einem physischen Datenträger nach
+§ 7 Absatz 1 Nummer 3, zulässig. Auf Anforderung ist die elektronische
+Fassung des Dokuments oder Ermittlungsvorgangs nachzureichen.
+
+(2) Können die nach § 5 Absatz 1 Nummer 3 der Elektronischer-
+Rechtsverkehr-Verordnung bekanntgemachten Höchstgrenzen für die Anzahl
+oder das Volumen elektronischer Dokumente nicht eingehalten werden,
+so ist die Übermittlung auch auf einem physischen Datenträger nach § 7
+Absatz 1 Nummer 3 zulässig.
 
 
 ## § 7 Bekanntmachung technischer Anforderungen
@@ -186,20 +181,14 @@ Bundesanzeiger und auf der Internetseite www.justiz.de bekannt:
 
 1.  die Version des Dateiformates PDF;
 
-
 2.  die Definitions- oder Schemadateien, die bei der Übermittlung eines
     strukturierten maschinenlesbaren Datensatzes im Format XML genutzt
     werden sollen;
 
-
 3.  die nach § 6 zulässigen physischen Datenträger;
-
 
 4.  die Einzelheiten zur Anbringung der qualifizierten elektronischen
     Signatur an oder in elektronischen Dokumenten.
-
-
-
 
 (2) Die technischen Anforderungen können mit einer
 Mindestgültigkeitsdauer und einem Ablaufdatum versehen werden.

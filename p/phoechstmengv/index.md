@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl I: 1980, 664
 
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 2 und 3 des Waschmittelgesetzes vom 20. August
@@ -24,11 +23,8 @@ Auf Grund des § 4 Abs. 2 und 3 des Waschmittelgesetzes vom 20. August
 
 -   zu § 4 Abs. 2 im Einvernehmen mit dem Bundesminister für Wirtschaft
 
-
 -   zu § 4 Abs. 3 im Einvernehmen mit den Bundesministern für Wirtschaft
     und für Jugend, Familie und Gesundheit
-
-
 
 mit Zustimmung des Bundesrates verordnet:
 
@@ -46,14 +42,14 @@ Geltungsbereiches dieser Verordnung bestimmt sind.
 ## § 2 Wasch- und Reinigungsmittel zur Verwendung im Haushalt
 
 (1) Es ist Herstellern, Einführern und Vertriebsunternehmen untersagt,
-Wasch- und Reinigungsmittel zur Verwendung im Haushalt in den Verkehr
-zu bringen, die einen Phosphatgehalt aufweisen, der bei
+Wasch- und Reinigungsmittel zur Verwendung im Haushalt in den
+Verkehr zu bringen, die einen Phosphatgehalt aufweisen, der bei
 bestimmungsgemäßem Gebrauch die in den Absätzen 2 und 3 festgesetzten
 Obergrenzen (Phosphathöchstmengen) überschreitet. Bei Wasch- und
 Reinigungsmitteln, die nach ihren Dosierungsempfehlungen gleichzeitig
-mit anderen Wasch- und Reinigungsmitteln zu verwenden sind, darf der
-Phosphatgehalt insgesamt nicht die Obergrenzen der Absätze 2 und 3
-überschreiten.
+mit anderen Wasch- und Reinigungsmitteln zu verwenden sind, darf
+der Phosphatgehalt insgesamt nicht die Obergrenzen der Absätze 2 und
+3 überschreiten.
 
 (2) Für Wasch- und Reinigungsmittel zur Verwendung im Haushalt gelten
 ab 1. Oktober 1981 bei einem Waschlaugenvolumen von 20 Litern und bei
@@ -62,140 +58,26 @@ einer Waschmaschine von 4 bis 5 Kilogramm Trockenwäsche, folgende
 Obergrenzen für den Phosphatgehalt in der Waschlauge, ermittelt als
 Gramm an elementarem Phosphor je Liter Waschlauge (g/lP):
 
-*    *   Phosphatgehalt in der Waschlauge in g/lP bei Verwendung von
-
-
-*    *   Wasserhärtebereich
-
-    *   Wasch- und Reinigungsmitteln für alle Waschtemperaturen
-
-    *   Wasch- und Reinigungsmitteln für Waschtemperaturen bis 60 Grad C
-
-    *   Spezial-/Feinwaschmitteln
-
-    *   Vorwaschmitteln
-
-
-*    *
-    *   im gesamten Waschvorgang:
-
-    *   in der Vorwäsche:
-
-
-*    *   1
-
-    *   0,70
-
-    *   0,85
-
-    *   0,45
-
-    *   0,55
-
-
-*    *   2
-
-    *   0,85
-
-    *   1,00
-
-    *   0,55
-
-    *   0,65
-
-
-*    *   3
-
-    *   1,00
-
-    *   1,20
-
-    *   0,65
-
-    *   0,80
-
-
-*    *   4
-
-    *   1,25
-
-    *   1,40
-
-    *   0,75
-
-    *   0,90
-
-
-
+| Phosphatgehalt in der Waschlauge in g/lP bei Verwendung von |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Wasserhärtebereich | Wasch- und Reinigungsmitteln für alle Waschtemperaturen | Wasch- und Reinigungsmitteln für Waschtemperaturen bis 60 Grad C | Spezial-/Feinwaschmitteln | Vorwaschmitteln |
+|  | im gesamten Waschvorgang: | in der Vorwäsche: |  |  |
+| 1 | 0,70 | 0,85 | 0,45 | 0,55 |
+| 2 | 0,85 | 1,00 | 0,55 | 0,65 |
+| 3 | 1,00 | 1,20 | 0,65 | 0,80 |
+| 4 | 1,25 | 1,40 | 0,75 | 0,90 |
 
 (3) Die Obergrenzen des Absatzes 2 werden ab 1. Januar 1984 durch
 folgende Werte ersetzt:
 
-*    *   Phosphatgehalt in der Waschlauge in g/lP bei Verwendung von
-
-
-*    *   Wasserhärtebereich
-
-    *   Wasch- und Reinigungsmitteln für alle Waschtemperaturen
-
-    *   Wasch- und Reinigungsmitteln für Waschtemperaturen bis 60 Grad C
-
-    *   Spezial-/Feinwaschmitteln
-
-    *   Vorwaschmitteln
-
-
-*    *
-    *   im gesamten Waschvorgang:
-
-    *   in der Vorwäsche:
-
-
-*    *   1
-
-    *   0,50
-
-    *   0,75
-
-    *   0,40
-
-    *   0,50
-
-
-*    *   2
-
-    *   0,65
-
-    *   0,85
-
-    *   0,45
-
-    *   0,60
-
-
-*    *   3
-
-    *   0,80
-
-    *   1,05
-
-    *   0,55
-
-    *   0,70
-
-
-*    *   4
-
-    *   1,00
-
-    *   1,25
-
-    *   0,65
-
-    *   0,80
-
-
-
+| Phosphatgehalt in der Waschlauge in g/lP bei Verwendung von |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Wasserhärtebereich | Wasch- und Reinigungsmitteln für alle Waschtemperaturen | Wasch- und Reinigungsmitteln für Waschtemperaturen bis 60 Grad C | Spezial-/Feinwaschmitteln | Vorwaschmitteln |
+|  | im gesamten Waschvorgang: | in der Vorwäsche: |  |  |
+| 1 | 0,50 | 0,75 | 0,40 | 0,50 |
+| 2 | 0,65 | 0,85 | 0,45 | 0,60 |
+| 3 | 0,80 | 1,05 | 0,55 | 0,70 |
+| 4 | 1,00 | 1,25 | 0,65 | 0,80 |
 
 
 ## § 3 Wasch- und Reinigungsmittel zur Verwendung in Wäschereien
@@ -208,64 +90,18 @@ Litern Waschlauge nach folgenden Obergrenzen für den Phosphatgehalt in
 der Waschlauge, ermittelt als Gramm an elementarem Phosphor je Liter
 Waschlauge (g/lP; Phosphathöchstmengen):
 
-*    *   Phosphatgehalt in der Waschlauge in g/lP bei Verwendung von
+| Phosphatgehalt in der Waschlauge in g/lP bei Verwendung von |  |  |  |
+| --- | --- | --- | --- |
+| Wasserhärtebereich | Vollwaschmitteln, Alleinwaschmitteln | Spezialwaschmitteln, Bunt- und Feinwaschmitteln | Vorwaschmitteln |
+|  | im gesamten Waschvorgang: | in der Vorwäsche: |  |
+| 1 | 0,45 | 0,70 | 0,30 |
+| 2 | 0,60 | 0,85 | 0,40 |
+| 3 | 0,80 | 1,00 | 0,55 |
+| 4 | 1,00 | 1,20 | 0,65 |
 
-
-*    *   Wasserhärtebereich
-
-    *   Vollwaschmitteln, Alleinwaschmitteln
-
-    *   Spezialwaschmitteln, Bunt- und Feinwaschmitteln
-
-    *   Vorwaschmitteln
-
-
-*    *
-    *   im gesamten Waschvorgang:
-
-    *   in der Vorwäsche:
-
-
-*    *   1
-
-    *   0,45
-
-    *   0,70
-
-    *   0,30
-
-
-*    *   2
-
-    *   0,60
-
-    *   0,85
-
-    *   0,40
-
-
-*    *   3
-
-    *   0,80
-
-    *   1,00
-
-    *   0,55
-
-
-*    *   4
-
-    *   1,00
-
-    *   1,20
-
-    *   0,65
-
-
-
-Für Wasch- und Reinigungsmittel, die aufeinander abgestimmt sind und
-nach ihren Dosierungsempfehlungen nacheinander zu verwenden sind,
-gelten für den sich insgesamt ergebenden Phosphatgehalt in der
+Für Wasch- und Reinigungsmittel, die aufeinander abgestimmt sind
+und nach ihren Dosierungsempfehlungen nacheinander zu verwenden
+sind, gelten für den sich insgesamt ergebenden Phosphatgehalt in der
 Waschlauge die für Vollwaschmittel festgelegten Obergrenzen.
 
 (2) Bei Wasch- und Reinigungsmitteln, die nach ihren
@@ -284,8 +120,8 @@ Verfahren zu bestimmen, das gleichwertige Ergebnisse erbringt.
 ## § 5 Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 11 Abs. 1 Nr. 6 des
-Waschmittelgesetzes handelt, wer entgegen § 2 Abs. 1 vorsätzlich oder
-fahrlässig ein zur Verwendung im Haushalt bestimmtes Wasch- oder
+Waschmittelgesetzes handelt, wer entgegen § 2 Abs. 1 vorsätzlich
+oder fahrlässig ein zur Verwendung im Haushalt bestimmtes Wasch- oder
 Reinigungsmittel in den Verkehr bringt, dessen Phosphatgehalt die in §
 2 Abs. 2 oder 3 festgesetzten Höchstmengen überschreitet.
 
@@ -298,9 +134,9 @@ Höchstmengen überschreitet.
 
 ## § 6 Übergangsbestimmung
 
-Wasch- und Reinigungsmittel, die vor dem 1. Oktober 1981 (§ 2 Abs. 2,
-§ 3 Abs. 1) hergestellt worden sind, dürfen auch danach in den Verkehr
-gebracht werden. Dies gilt entsprechend für Wasch- und
+Wasch- und Reinigungsmittel, die vor dem 1. Oktober 1981 (§ 2 Abs.
+2, § 3 Abs. 1) hergestellt worden sind, dürfen auch danach in den
+Verkehr gebracht werden. Dies gilt entsprechend für Wasch- und
 Reinigungsmittel, die vor dem 1. Januar 1984 (§ 2 Abs. 3) hergestellt
 worden sind.
 
@@ -320,11 +156,11 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 Der Bundesminister des Innern
 
-(zu § 4)
 
-## Anlage Verfahren zur Bestimmung des Phosphatgehaltes in Wasch- und Reinigungsmitteln
+## Anlage (zu § 4) Verfahren zur Bestimmung des Phosphatgehaltes in Wasch- und Reinigungsmitteln
 
 Fundstelle des Originaltextes: BGBl. I 1980, 666
+
 Der Phosphatgehalt in Wasch- und Reinigungsmitteln ist wie folgt zu
 bestimmen:
 
@@ -342,23 +178,22 @@ bestimmen:
     bei flüssigen Wasch- und Reinigungsmitteln je Gebinde ca. 100 Gramm;
     soweit erforderlich, sind mehrere kleine Gebinde zu vereinigen.
 
-
 2.  Ermittlung der Anwendungsmenge
 
-    Bei pulverförmigen Wasch- und Reinigungsmitteln zur Verwendung im
-    Haushalt ist die Anwendungsmenge in Gramm durch Bestimmung der
-    mittleren Schüttdichte der 10 Einzelproben in Gramm je Milliliter,
-    durch die Bestimmung des mittleren Dosiervolumens der den Gebinden
-    beigefügten Dosiergefäße in Millilitern und durch Feststellung der
-    Anzahl von Dosiergefäßfüllungen zu ermitteln, die für die
-    Wasserhärtebereiche 1 bis 4 für Waschmaschinen mit einem
-    Fassungsvermögen von 4 bis 5 Kilogramm für durchschnittlich
+    Bei pulverförmigen Wasch- und Reinigungsmitteln zur Verwendung
+    im Haushalt ist die Anwendungsmenge in Gramm durch Bestimmung
+    der mittleren Schüttdichte der 10 Einzelproben in Gramm je
+    Milliliter, durch die Bestimmung des mittleren Dosiervolumens der
+    den Gebinden beigefügten Dosiergefäße in Millilitern und durch
+    Feststellung der Anzahl von Dosiergefäßfüllungen zu ermitteln,
+    die für die Wasserhärtebereiche 1 bis 4 für Waschmaschinen mit
+    einem Fassungsvermögen von 4 bis 5 Kilogramm für durchschnittlich
     verschmutzte Wäsche empfohlen wird.
 
     Bei flüssigen Wasch- und Reinigungsmitteln zur Verwendung im Haushalt
     ist die Anwendungsmenge entsprechend in Gramm aus der Bestimmung der
-    mittleren Füllmenge der den Gebinden beigefügten Dosierungsgefäße und
-    durch Feststellung der vom Hersteller empfohlenen Anzahl von
+    mittleren Füllmenge der den Gebinden beigefügten Dosierungsgefäße
+    und durch Feststellung der vom Hersteller empfohlenen Anzahl von
     Dosiergefäßfüllungen zu ermitteln.
 
     Die Anwendungsmenge ist in beiden vorgenannten Fällen beim Hersteller,
@@ -369,37 +204,32 @@ bestimmen:
     Liter zu ermitteln, wobei ein Verhältnis von 1 Kilogramm Trockenwäsche
     zu 5 Litern Waschlauge zugrunde zu legen ist.
 
-
 3.  Ermittlung des Phosphatgehaltes der Wasch- und Reinigungsmittel
 
     Aus den 10 Einzelproben ist eine repräsentative Mischprobe bereits
-    beim Hersteller, Einführer oder Vertriebsunternehmen herzustellen. Auf
-    dessen Verlangen ist ein Teil der Mischprobe amtlich verschlossen oder
-    versiegelt bei ihm zurückzulassen (§ 10 Abs. 2 Satz 2 des
-    Waschmittelgesetzes). Von der Mischprobe ist der Phosphatgehalt des
-    Wasch- und Reinigungsmittels in Prozentanteilen an elementarem
+    beim Hersteller, Einführer oder Vertriebsunternehmen herzustellen.
+    Auf dessen Verlangen ist ein Teil der Mischprobe amtlich verschlossen
+    oder versiegelt bei ihm zurückzulassen (§ 10 Abs. 2 Satz 2 des
+    Waschmittelgesetzes). Von der Mischprobe ist der Phosphatgehalt
+    des Wasch- und Reinigungsmittels in Prozentanteilen an elementarem
     Phosphor (P) nach Aufschluß der Phosphate photometrisch zu bestimmen.
-    Es sind vier Parallelanalysen von der Mischprobe durchzuführen. Ein
-    deutlich von den übrigen drei Werten abweichender Wert bleibt
+    Es sind vier Parallelanalysen von der Mischprobe durchzuführen.
+    Ein deutlich von den übrigen drei Werten abweichender Wert bleibt
     unberücksichtigt. Maßgebend ist der Mittelwert der verbleibenden
     Einzelwerte.
 
-
 4.  Berechnung des Phosphatgehaltes in der Waschlauge
 
-    Aus der Anwendungsmenge des Wasch- und Reinigungsmittels in Gramm bzw.
-    in Gramm je Liter und aus dem Phosphatgehalt des Wasch- und
-    Reinigungsmittels in Prozentanteilen an elementarem Phosphor (P) ist
-    für den Vergleich der in den §§ 2 und 3 festgelegten
-    Phosphatobergrenzen der Phosphatgehalt in der Waschlauge in Gramm an
-    elementarem Phosphor je Liter (g/lP) zu berechnen; bei Wasch- und
-    Reinigungsmitteln zur Verwendung im Haushalt ist hierbei ein
+    Aus der Anwendungsmenge des Wasch- und Reinigungsmittels in Gramm
+    bzw. in Gramm je Liter und aus dem Phosphatgehalt des Wasch-
+    und Reinigungsmittels in Prozentanteilen an elementarem Phosphor
+    (P) ist für den Vergleich der in den §§ 2 und 3 festgelegten
+    Phosphatobergrenzen der Phosphatgehalt in der Waschlauge in Gramm
+    an elementarem Phosphor je Liter (g/lP) zu berechnen; bei Wasch-
+    und Reinigungsmitteln zur Verwendung im Haushalt ist hierbei ein
     Waschlaugenvolumen von 20 Litern für den jeweiligen Waschvorgang
     zugrunde zu legen.
 
     Sind in einem Wasch- und Reinigungsmittel andere Phosphorverbindungen
     als Phosphate enthalten, so ist deren Anteil in Abzug zu bringen.
-
-
-
 

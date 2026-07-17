@@ -1,6 +1,5 @@
 ---
-Title: Verordnung zur Aussetzung der Datenübermittlungen nach § 5 Absatz 2 Nummer
-  2 des Zensusgesetzes 2021
+Title: Verordnung zur Aussetzung der Datenübermittlungen nach § 5 Absatz 2 Nummer 2 des Zensusgesetzes 2021
 jurabk: ZensG2021AussV
 layout: default
 origslug: zensg2021aussv

@@ -21,8 +21,8 @@ Zuletzt geändert durch
 
 ## § 1 Rechtsform der Stiftung
 
-Unter dem Namen "Museumsstiftung Post und Telekommunikation" wird mit
-Sitz in Bonn eine rechtsfähige Stiftung des öffentlichen Rechts
+Unter dem Namen "Museumsstiftung Post und Telekommunikation" wird
+mit Sitz in Bonn eine rechtsfähige Stiftung des öffentlichen Rechts
 errichtet. Die Stiftung entsteht mit dem Inkrafttreten dieses
 Gesetzes.
 
@@ -30,33 +30,26 @@ Gesetzes.
 ## § 2 Stiftungszweck
 
 (1) Zweck der Stiftung ist die Erschließung, Sammlung und Darstellung
-der gesamten Entwicklung der Nachrichtenübermittlung und des damit im
-Zusammenhang stehenden Bank-, Güter- und Personenverkehrs im Post- und
-Fernmeldewesen.
+der gesamten Entwicklung der Nachrichtenübermittlung und des damit
+im Zusammenhang stehenden Bank-, Güter- und Personenverkehrs im Post-
+und Fernmeldewesen.
 
 (2) Dazu gehört insbesondere die Aufgabe,
 
 1.  die ihr übertragenen Sammlungsgegenstände zu bewahren, zu pflegen, zu
     ergänzen und der Öffentlichkeit zu erschließen,
 
-
 2.  einen sinnvollen Zusammenhang dieser Sammlung zu erhalten,
 
-
-3.  die Auswertung der Sammlung für die Interessen der Allgemeinheit in
-    Bildung und Wissenschaft sowie im Gesamtzusammenhang der
+3.  die Auswertung der Sammlung für die Interessen der Allgemeinheit
+    in Bildung und Wissenschaft sowie im Gesamtzusammenhang der
     Wirtschaftsgeschichte zu gewährleisten,
-
 
 4.  die Zusammenarbeit mit postgeschichtlich tätigen Vereinigungen zu
     pflegen sowie
 
-
 5.  mit Museen und Stiftungen gleicher Zielrichtung national und
     international zusammenzuarbeiten.
-
-
-
 
 
 ## § 3 Stiftungsvermögen
@@ -64,8 +57,8 @@ Fernmeldewesen.
 (1) Der Stiftung sind nach näherer Maßgabe der §§ 13 und 14 des
 Postumwandlungsgesetzes ohne Wertausgleich alle Vermögensgegenstände
 des Sondervermögens Deutsche Bundespost einschließlich beschränkter
-dinglicher Rechte, die der Deutschen Bundespost persönlich eingeräumt
-sind, zu übertragen, die dem Museumswesen dienen
+dinglicher Rechte, die der Deutschen Bundespost persönlich
+eingeräumt sind, zu übertragen, die dem Museumswesen dienen
 (Sammlungsgegenstände, Postwertzeichenarchive und sonstige
 Vermögensgegenstände). Dabei gehen mit den Vermögensrechten
 gleichzeitig die mit ihnen im Zusammenhang stehenden Verbindlichkeiten
@@ -73,8 +66,8 @@ und Forderungen über.
 
 (2) Die Stiftung ist berechtigt, Zuwendungen Dritter anzunehmen.
 
-(3) Soweit dadurch keine Gefährdung des Stiftungszwecks eintritt, ist
-die Stiftung berechtigt, im Rahmen ordnungsgemäßer Verwaltung
+(3) Soweit dadurch keine Gefährdung des Stiftungszwecks eintritt,
+ist die Stiftung berechtigt, im Rahmen ordnungsgemäßer Verwaltung
 Vermögensgegenstände zu veräußern oder sonstwie entgeltlich abzugeben.
 
 (4) Erträgnisse des Stiftungsvermögens und sonstige Einnahmen sind nur
@@ -88,27 +81,22 @@ im Sinne des Stiftungszwecks zu verwenden.
 1.  Einnahmen aus Eintrittsgeldern, Zinsen, Mieten und sonstigen Erträgen
     und Erlösen,
 
-
 2.  Zuschüsse der aus den Teilsondervermögen der Deutschen Bundespost
     hervorgegangenen Aktiengesellschaften und
 
-
 3.  Zuschüsse Dritter.
-
-
-
 
 (2) Die Höhe des Zuschusses der Postnachfolgeunternehmen wird jährlich
 im voraus durch das Kuratorium festgesetzt. Der Zuschuß ist so zu
-bemessen, daß zusammen mit den sonstigen Einnahmen und Zuschüssen der
-Stiftungszweck erfüllt und der erforderliche Verwaltungsaufwand
+bemessen, daß zusammen mit den sonstigen Einnahmen und Zuschüssen
+der Stiftungszweck erfüllt und der erforderliche Verwaltungsaufwand
 gedeckt werden kann. Sofern keine andere Regelung getroffen wird,
 tragen die Postnachfolgeunternehmen den jeweils auf sie entfallenden
 Zuschußanteil in dem Verhältnis ihrer Beteiligung im Kuratorium.
 
 (3) Sofern weitere Unternehmen oder Privatpersonen im Kuratorium
-vertreten sind, haben sich auch diese nach dem gleichen Maßstab an den
-jährlichen Zuschußzahlungen zu beteiligen. Dies gilt nicht für
+vertreten sind, haben sich auch diese nach dem gleichen Maßstab an
+den jährlichen Zuschußzahlungen zu beteiligen. Dies gilt nicht für
 Kuratoriumsmitglieder aus dem Museumswesen.
 
 
@@ -130,9 +118,9 @@ gilt für Änderungen der Satzung.
 (1) Das Kuratorium besteht aus mindestens elf Mitgliedern. Die
 Deutsche Postbank AG ist berechtigt, einen Vertreter zu entsenden. Ein
 weiteres Mitglied kann vom Bundesrat benannt werden. Die Mitglieder
-des Kuratoriums werden vom Bundesministerium der Finanzen für die
-Dauer von fünf Jahren bestellt. Die Vertreter der Unternehmen werden
-auf Vorschlag des jeweiligen Unternehmens, die Vertreter des
+des Kuratoriums werden vom Bundesministerium der Finanzen für
+die Dauer von fünf Jahren bestellt. Die Vertreter der Unternehmen
+werden auf Vorschlag des jeweiligen Unternehmens, die Vertreter des
 Museumswesens werden auf Vorschlag des Deutschen Museumsbundes e.V.
 bestellt. Eine wiederholte Bestellung ist zulässig.
 
@@ -151,8 +139,8 @@ erteilt. Vorher ist das Kuratorium anzuhören. Absatz 1 Satz 4 bis 6
 gilt entsprechend.
 
 (5) Scheidet ein Kuratoriumsmitglied oder sein Vertreter vorzeitig
-aus, so kann eine Bestellung des Nachfolgers nur für den Rest der
-Zeit, für die das Mitglied oder der Vertreter bestellt waren,
+aus, so kann eine Bestellung des Nachfolgers nur für den Rest
+der Zeit, für die das Mitglied oder der Vertreter bestellt waren,
 erfolgen.
 
 (6) Das Kuratorium ist beschlußfähig, wenn mehr als die Hälfte seiner
@@ -165,8 +153,8 @@ beratende Stimme.
 (7) Das Kuratorium gibt sich eine Geschäftsordnung, die der
 Genehmigung durch das Bundesministerium der Finanzen bedarf.
 
-(8) Das Kuratorium wählt nach Maßgabe seiner Geschäftsordnung aus
-seiner Mitte den Vorsitzenden und einen stellvertretenden
+(8) Das Kuratorium wählt nach Maßgabe seiner Geschäftsordnung
+aus seiner Mitte den Vorsitzenden und einen stellvertretenden
 Vorsitzenden.
 
 (9) Das Nähere regelt die Satzung.
@@ -179,38 +167,27 @@ zum Aufgabenbereich der Stiftung gehören. Dazu zählt insbesondere:
 
 1.  der Vorschlag über die Bestellung des Kurators,
 
-
 2.  die Festsetzung des jährlich von den im Kuratorium vertretenen
     Unternehmen und Privatpersonen an die Stiftung zu zahlenden
     Zuschusses,
 
-
 3.  die Feststellung des Haushaltsplans,
-
 
 4.  die Genehmigung der Veräußerung oder sonstigen entgeltlichen Abgabe
     von Vermögensgegenständen in dem von der Satzung festgelegten Umfang,
 
-
 5.  die Entscheidung über die Bestellung der Museumsleiter und die
     Festlegung ihrer Befugnisse,
 
-
 6.  die Genehmigung von Organisationsvorschriften für die Museen,
 
-
 7.  die Entscheidung über die Veränderung des Standorts einer Sammlung,
-
 
 8.  die Beschlußfassung über Art und Weise der Zusammenarbeit mit
     postgeschichtlich tätigen Vereinigungen sowie mit anderen Museen und
     Stiftungen und
 
-
 9.  der Erlaß und die Änderung der Satzung.
-
-
-
 
 (2) Das Kuratorium überwacht die Tätigkeit des Kurators. Es kann von
 ihm jederzeit Auskünfte und Berichte sowie die Vorlage der Akten und
@@ -231,8 +208,8 @@ Kuratoriums vertreten.
 
 ## § 10 Aufgaben des Kurators
 
-(1) Der Kurator hat die Beschlüsse des Kuratoriums auszuführen und die
-laufenden Angelegenheiten der Stiftung wahrzunehmen. Das Nähere,
+(1) Der Kurator hat die Beschlüsse des Kuratoriums auszuführen und
+die laufenden Angelegenheiten der Stiftung wahrzunehmen. Das Nähere,
 insbesondere die Aufgabenabgrenzung zwischen dem Kurator und den
 Museumsleitern, regelt die Satzung.
 
@@ -245,11 +222,11 @@ außergerichtlich.
 (1) Unbeschadet des Rechts, Angestellte und Arbeiter zu beschäftigen,
 wird der Stiftung das Recht verliehen, Beamte zu haben.
 
-(2) Das Bundesministerium der Finanzen regelt die Überleitung von
-Beschäftigten des Bundesministeriums der Finanzen und nach Anhörung
-der Postnachfolgeunternehmen auch die Überleitung der Beschäftigten
-der Postnachfolgeunternehmen auf die Stiftung im Hinblick auf die
-geltenden beamtenrechtlichen, disziplinarrechtlichen,
+(2) Das Bundesministerium der Finanzen regelt die Überleitung
+von Beschäftigten des Bundesministeriums der Finanzen und nach
+Anhörung der Postnachfolgeunternehmen auch die Überleitung der
+Beschäftigten der Postnachfolgeunternehmen auf die Stiftung im
+Hinblick auf die geltenden beamtenrechtlichen, disziplinarrechtlichen,
 arbeitsrechtlichen und personalvertretungsrechtlichen Bestimmungen.
 
 (3) Oberste Dienstbehörde für den Kurator ist das Bundesministerium

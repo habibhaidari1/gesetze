@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die pauschale Erstattung von Ausgaben der Träger der Rentenversicherung
-  für Leistungen zur Rehabilitation
+Title: Verordnung über die pauschale Erstattung von Ausgaben der Träger der Rentenversicherung für Leistungen zur Rehabilitation
 jurabk: RehaErstV
 layout: default
 origslug: rehaerstv
@@ -33,20 +32,20 @@ und Sozialordnung im Einvernehmen mit dem Bundesminister der Finanzen:
 (1) Soweit für Leistungen zur Teilhabe die Deutsche Rentenversicherung
 Knappschaft-Bahn-See als Träger der knappschaftlichen
 Rentenversicherung zuständig ist, erstatten ihr die Träger der
-allgemeinen Rentenversicherung den von ihnen nach § 223 Abs. 1 Satz 2
-des Sechsten Buches Sozialgesetzbuch zu tragenden Anteil an den
+allgemeinen Rentenversicherung den von ihnen nach § 223 Abs. 1 Satz
+2 des Sechsten Buches Sozialgesetzbuch zu tragenden Anteil an den
 Ausgaben.
 
-(2) Soweit für Leistungen zur Teilhabe die Träger der allgemeinen
-Rentenversicherung zuständig sind, erstattet die Deutsche
-Rentenversicherung Knappschaft-Bahn-See als Träger der
+(2) Soweit für Leistungen zur Teilhabe die Träger der
+allgemeinen Rentenversicherung zuständig sind, erstattet die
+Deutsche Rentenversicherung Knappschaft-Bahn-See als Träger der
 knappschaftlichen Rentenversicherung ihnen den von ihr nach § 223 Abs.
 2 Satz 2 des Sechsten Buches Sozialgesetzbuch zu tragenden Anteil an
 den Ausgaben.
 
-(3) Die Erstattung erfolgt in einem pauschalen Verfahren. Die Deutsche
-Rentenversicherung Bund führt die Schlussabrechnung durch. Die
-Erstattungsbeträge der Träger der allgemeinen Rentenversicherung
+(3) Die Erstattung erfolgt in einem pauschalen Verfahren. Die
+Deutsche Rentenversicherung Bund führt die Schlussabrechnung durch.
+Die Erstattungsbeträge der Träger der allgemeinen Rentenversicherung
 werden buchhalterisch auf diese entsprechend ihrem Anteil an den
 Beitragseinnahmen verteilt.
 
@@ -68,10 +67,10 @@ allgemeine Rentenversicherung entfallen.
 Stichprobe zugrunde gelegt.
 
 (3) Auf den Jahresbetrag der Erstattungen sind monatliche Vorschüsse
-zu leisten. Die Aufteilung des Jahresbetrages und der Vorschüsse für
-die Träger der allgemeinen Rentenversicherung erfolgt in dem
-Verhältnis, in dem deren Ausgaben für Leistungen zur Teilhabe zu den
-Ausgaben dieser Träger der Rentenversicherung für Leistungen zur
+zu leisten. Die Aufteilung des Jahresbetrages und der Vorschüsse
+für die Träger der allgemeinen Rentenversicherung erfolgt in dem
+Verhältnis, in dem deren Ausgaben für Leistungen zur Teilhabe zu
+den Ausgaben dieser Träger der Rentenversicherung für Leistungen zur
 Teilhabe zusammen stehen.
 
 

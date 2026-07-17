@@ -1,6 +1,5 @@
 ---
-Title: Gesetz über die Überführung der Anteilsrechte an der Volkswagenwerk Gesellschaft
-  mit beschränkter Haftung in private Hand
+Title: Gesetz über die Überführung der Anteilsrechte an der Volkswagenwerk Gesellschaft mit beschränkter Haftung in private Hand
 jurabk: VWGmbHÜG
 layout: default
 origslug: vwgmbh_g
@@ -42,9 +41,9 @@ bis 276 des Aktiengesetzes Anwendung.
 ## § 3 Vertretung bei der Stimmrechtsausübung
 
 (1) Niemand darf das Stimmrecht im eigenen Namen für Aktien ausüben,
-die ihm nicht gehören. Wer das Stimmrecht für Aktien ausübt, die ihm
-nicht gehören, bedarf, sofern er nicht gesetzlicher Vertreter des
-Aktionärs ist, einer Vollmacht des Aktionärs in Textform. Die
+die ihm nicht gehören. Wer das Stimmrecht für Aktien ausübt, die
+ihm nicht gehören, bedarf, sofern er nicht gesetzlicher Vertreter
+des Aktionärs ist, einer Vollmacht des Aktionärs in Textform. Die
 Vollmacht gilt nur jeweils für die nächste Hauptversammlung.
 
 (2)
@@ -63,12 +62,12 @@ des Aktiengesetzes) ist nur der Vertreter aufzunehmen; er hat den
 Betrag und die Gattung der Aktien, die ihm nicht gehören, sowie die
 Zahl der von ihm vertretenen Stimmen zur Aufnahme in das Verzeichnis
 gesondert anzugeben. Die Gesellschaft hat die Vollmachten drei Jahre
-nach der Hauptversammlung aufzubewahren; ist bei Ablauf der Frist eine
-Klage auf Anfechtung eines in der Hauptversammlung gefaßten
+nach der Hauptversammlung aufzubewahren; ist bei Ablauf der Frist
+eine Klage auf Anfechtung eines in der Hauptversammlung gefaßten
 Beschlusses rechtshängig, so verlängert sich die Frist, bis über die
 Klage rechtskräftig entschieden ist oder sie sich auf andere Weise
-endgültig erledigt hat. Jedem Aktionär ist auf Verlangen Einsicht zu
-gewähren.
+endgültig erledigt hat. Jedem Aktionär ist auf Verlangen Einsicht
+zu gewähren.
 
 (5) (weggefallen)
 
@@ -82,14 +81,13 @@ der Zustimmung des Aufsichtsrats. Der Beschluß bedarf der Mehrheit von
 zwei Drittel der Mitglieder des Aufsichtsrats.
 
 (3) Beschlüsse der Hauptversammlung, für die nach dem Aktiengesetz
-eine Mehrheit erforderlich ist, die mindestens drei Viertel des bei
-der Beschlußfassung vertretenen Grundkapitals umfaßt, bedürfen einer
-Mehrheit von mehr als vier Fünftel des bei der Beschlußfassung
+eine Mehrheit erforderlich ist, die mindestens drei Viertel des
+bei der Beschlußfassung vertretenen Grundkapitals umfaßt, bedürfen
+einer Mehrheit von mehr als vier Fünftel des bei der Beschlußfassung
 vertretenen Grundkapitals der Gesellschaft.
 
 
 ## (XXXX) §§ 5 bis 12
-
 
 
 ## § 13 Berlin-Klausel

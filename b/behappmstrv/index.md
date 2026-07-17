@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Meisterprüfung in den Teilen I und II im Behälter- und
-  Apparatebauer-Handwerk
+Title: Verordnung über die Meisterprüfung in den Teilen I und II im Behälter- und Apparatebauer-Handwerk
 jurabk: BehAppMstrV
 layout: default
 origslug: behappmstrv
@@ -23,8 +22,8 @@ Zuletzt geändert durch
 ## Eingangsformel
 
 Auf Grund des § 51a Absatz 2 der Handwerksordnung, der zuletzt durch
-Artikel 3 Nummer 3 Buchstabe a des Gesetzes vom 11. Juli 2011 (BGBl. I
-S. 1341) geändert worden ist, verordnet das Bundesministerium für
+Artikel 3 Nummer 3 Buchstabe a des Gesetzes vom 11. Juli 2011 (BGBl.
+I S. 1341) geändert worden ist, verordnet das Bundesministerium für
 Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium
 für Bildung und Forschung:
 
@@ -32,8 +31,8 @@ für Bildung und Forschung:
 ## § 1 Gegenstand
 
 Die Meisterprüfung besteht aus vier selbständigen Prüfungsteilen.
-Diese Verordnung regelt das Meisterprüfungsberufsbild sowie die
-Prüfung in den Teilen I und II der Meisterprüfung im
+Diese Verordnung regelt das Meisterprüfungsberufsbild sowie
+die Prüfung in den Teilen I und II der Meisterprüfung im
 zulassungspflichtigen Behälter- und Apparatebauer-Handwerk.
 
 
@@ -48,17 +47,14 @@ beruflichen Handlungskompetenz zu berücksichtigen:
     Auftragsziele festlegen, Leistungen kalkulieren und Angebote
     erstellen, Verträge schließen,
 
-
 2.  Aufgaben der technischen, kaufmännischen und personalwirtschaftlichen
     Betriebsführung wahrnehmen, insbesondere unter Berücksichtigung der
     Betriebsorganisation, der betrieblichen Aus- und Weiterbildung, des
     Qualitätsmanagements, des Arbeitsschutzrechtes, des Datenschutzes, des
     Umweltschutzes sowie von Informations- und Kommunikationssystemen,
 
-
 3.  Auftragsabwicklungsprozesse planen, organisieren und überwachen;
     Logistikkonzepte entwickeln und umsetzen,
-
 
 4.  Produktions-, Montage- und Instandhaltungsaufträge ausführen,
     insbesondere unter Berücksichtigung von Konstruktions-, Fertigungs-,
@@ -68,66 +64,51 @@ beruflichen Handlungskompetenz zu berücksichtigen:
     Maschinen und Geräten sowie von Möglichkeiten zum Einsatz von
     Auszubildenden,
 
-
-5.  technische Arbeitspläne, Skizzen und Zeichnungen, auch unter Einsatz
-    von rechnergestützten Systemen, erstellen; Informations- und
+5.  technische Arbeitspläne, Skizzen und Zeichnungen, auch unter
+    Einsatz von rechnergestützten Systemen, erstellen; Informations- und
     Kommunikationssysteme nutzen,
-
 
 6.  Arten und Eigenschaften zu be- und verarbeitender Werk- und
     Hilfsstoffe, einschließlich der Verfahren zur Wärme- und
     Oberflächenbehandlung sowie des Korrosionsschutzes, bei der Planung,
     Fertigung und Instandsetzung berücksichtigen,
 
-
 7.  Materialbedarfe und Materialzuschnitte, auch unter Einsatz
     rechnergestützter Systeme, festlegen,
-
 
 8.  Konzepte für Betriebsstätten einschließlich Betriebs- und
     Lagerausstattung sowie für logistische Prozesse entwickeln und
     umsetzen,
 
-
 9.  produktions- und verfahrenstechnische Anlagen und Anlagenteile,
     insbesondere Behälter, Dampferzeuger, Wärme- und Kältetauscher aus
     hoch-, niedrig- und unlegierten Stählen, Nichteisenmetallen und
-    Kunststoffen sowie Rohre, Rohrleitungen und Formstücke für alle Medien
-    im gesamten Druck- und Temperaturbereich einschließlich der
+    Kunststoffen sowie Rohre, Rohrleitungen und Formstücke für alle
+    Medien im gesamten Druck- und Temperaturbereich einschließlich der
     Tragkonstruktionen und Befestigungen planen, berechnen, konstruieren,
     fertigen, installieren und dokumentieren; bei den Planungsarbeiten
     sind energie- und ressourceneffiziente Aspekte zu berücksichtigen,
-
 
 10. Anlagen und Anlagenteile unter Berücksichtigung von Prüf- und
     Messtechniken auf Funktion und Dichtigkeit prüfen, warten, instand
     setzen, dokumentieren und in Betrieb nehmen,
 
-
 11. Unteraufträge vergeben und deren Durchführung kontrollieren,
-
 
 12. Qualitätskontrollen durchführen, Fehler, Mängel und Störungen
     analysieren und beseitigen, Ergebnisse bewerten und dokumentieren,
 
-
 13. Baustelleneinrichtungen planen und überwachen sowie Arbeitsabläufe mit
     den am Bau Beteiligten abstimmen,
-
 
 14. Kupferschmiedearbeiten entwerfen, anfertigen, montieren und instand
     setzen,
 
-
 15. Betriebseinrichtungen, insbesondere Maschinen, Geräte und Werkzeuge,
     überwachen,
 
-
 16. durchgeführte Leistungen abnehmen und dokumentieren sowie
     Nachkalkulationen durchführen und Auftragsabwicklungen auswerten.
-
-
-
 
 
 ## § 3 Ziel und Gliederung des Teils I
@@ -141,11 +122,7 @@ Behälter- und Apparatebauer-Handwerks meisterhaft verrichten kann.
 
 1.  ein Meisterprüfungsprojekt und ein darauf bezogenes Fachgespräch und
 
-
 2.  eine Situationsaufgabe.
-
-
-
 
 
 ## § 4 Meisterprüfungsprojekt
@@ -171,15 +148,11 @@ durchzuführen:
     Anschlüssen für Armaturen, Regel- und Sicherheitseinrichtungen sowie
     Tragkonstruktionen, planen und herstellen,
 
-
 2.  eine Rohrnetzanlage mit Armaturen, Verteilern, Pumpe, Regel- und
     Sicherheitseinrichtungen planen und herstellen oder
 
-
 3.  eine Kupferschmiedearbeit unter Berücksichtigung kreativer
     Gestaltungsaspekte entwerfen, planen und anfertigen.
-
-
 
 Die durchgeführten Arbeiten sind zu kontrollieren und zu
 dokumentieren.
@@ -198,16 +171,11 @@ einem Fachgespräch nachzuweisen, dass er befähigt ist,
 1.  die fachlichen Zusammenhänge aufzuzeigen, die dem
     Meisterprüfungsprojekt zugrunde liegen,
 
-
 2.  den Ablauf des Meisterprüfungsprojekts zu begründen und
-
 
 3.  mit dem Meisterprüfungsprojekt verbundene berufsbezogene Probleme
     sowie deren Lösungen darzustellen und dabei neue Entwicklungen zu
     berücksichtigen.
-
-
-
 
 
 ## § 6 Situationsaufgabe
@@ -223,14 +191,10 @@ vorgegebenen Auftrag eine der folgenden Arbeiten auszuführen:
     oder ein Formstück von rund auf eckig nach vorgegebener Zeichnung
     überprüfen, berechnen, anfertigen und prüfen oder
 
-
 2.  Fehler an einer Rohrleitung oder an einer Kupferschmiedearbeit nach
     vorgegebener Zeichnung ermitteln und bewerten, Reparaturkonzept
-    erstellen sowie ein Teilelement für die Instandsetzung anfertigen und
-    prüfen.
-
-
-
+    erstellen sowie ein Teilelement für die Instandsetzung anfertigen
+    und prüfen.
 
 
 ## § 7 Prüfungsdauer und Bestehen des Teils I
@@ -240,9 +204,9 @@ Fachgespräch soll höchstens 30 Minuten und die Situationsaufgabe
 höchstens acht Stunden dauern.
 
 (2) Das Meisterprüfungsprojekt, das Fachgespräch und die
-Situationsaufgabe werden gesondert bewertet. Die Prüfungsleistungen im
-Meisterprüfungsprojekt und im Fachgespräch werden im Verhältnis 3:1
-gewichtet. Hieraus wird eine Gesamtbewertung gebildet. Diese
+Situationsaufgabe werden gesondert bewertet. Die Prüfungsleistungen
+im Meisterprüfungsprojekt und im Fachgespräch werden im Verhältnis
+3:1 gewichtet. Hieraus wird eine Gesamtbewertung gebildet. Diese
 Gesamtbewertung wird zum Prüfungsergebnis der Situationsaufgabe im
 Verhältnis 2:1 gewichtet.
 
@@ -255,8 +219,8 @@ sein darf.
 
 ## § 8 Ziel, Gliederung und Inhalt des Teils II
 
-(1) Durch die Prüfung in Teil II hat der Prüfling in den in Absatz 2
-Satz 2 Nummer 1 bis 4 genannten Handlungsfeldern seine berufliche
+(1) Durch die Prüfung in Teil II hat der Prüfling in den in Absatz
+2 Satz 2 Nummer 1 bis 4 genannten Handlungsfeldern seine berufliche
 Handlungskompetenz dadurch nachzuweisen, dass er die erforderlichen
 fachtheoretischen Kenntnisse im Behälter- und Apparatebauer-Handwerk
 zur Lösung komplexer beruflicher Aufgabenstellungen anwenden kann.
@@ -271,64 +235,51 @@ auch handlungsfeldübergreifend verknüpft werden können:
 
     Der Prüfling hat nachzuweisen, dass er in der Lage ist, konstruktions-
     und fertigungstechnische Aufgaben unter Berücksichtigung
-    gestalterischer, wirtschaftlicher und ökologischer Aspekte in einem
-    Behälter- und Apparatebauer-Betrieb zu bearbeiten. Dabei soll er
-    berufsbezogene Sachverhalte analysieren und bewerten. Bei der
+    gestalterischer, wirtschaftlicher und ökologischer Aspekte in
+    einem Behälter- und Apparatebauer-Betrieb zu bearbeiten. Dabei soll
+    er berufsbezogene Sachverhalte analysieren und bewerten. Bei der
     jeweiligen Aufgabenstellung sollen mehrere der unter den Buchstaben a
     bis j aufgeführten Qualifikationen verknüpft werden:
 
     a)  Behälter und Apparate sowie Kupferschmiedearbeiten, auch unter
         gestalterischen Aspekten, entwerfen,
 
-
-    b)  Konstruktionsunterlagen, insbesondere Funktionspläne, Stücklisten und
-        Schweißpläne, unter Berücksichtigung eines Auftrags und einer
+    b)  Konstruktionsunterlagen, insbesondere Funktionspläne, Stücklisten
+        und Schweißpläne, unter Berücksichtigung eines Auftrags und einer
         Angebotskalkulation erstellen, analysieren, bewerten und korrigieren,
-
 
     c)  Aufbau, Wirkungsweisen und Funktionen von Behältern und Apparaten
         beschreiben und bewerten,
 
-
     d)  Konstruktionen und Abwicklungen für Behälter und Apparate beschreiben,
         auswählen, entwerfen und berechnen,
-
 
     e)  Werkstoffe bestimmen und die Auswahl begründen; Materialbedarf
         berechnen sowie Materialzuschnitte zeichnerisch darstellen und
         rechnerisch ermitteln,
 
-
     f)  Materialbe- und -verarbeitung im Fertigungsprozess unter
         Berücksichtigung des Werkstoffs und des Verwendungszwecks auswählen
         und die Auswahl begründen,
 
-
     g)  Füge- und Umformtechniken, insbesondere von Metallen, Metall-
         Verbundstoffen und Kunststoffen, beschreiben und bewerten,
-
 
     h)  Arten und Aufbringen von metallischen und nichtmetallischen
         Schutzüberzügen beschreiben, den jeweiligen Verwendungszwecken
         zuordnen und Zuordnung begründen,
 
-
     i)  Verfahren der Oberflächen- und Wärmebehandlung sowie des
         Korrosionsschutzes beschreiben, den jeweiligen Verwendungszwecken
         zuordnen und Zuordnung begründen,
 
-
     j)  Verfahren zur Bauteilprüfung beschreiben, auswählen und die Auswahl
         begründen;
 
-
-
-
-
 2.  Montage und Instandhaltung
 
-    Der Prüfling hat nachzuweisen, dass er in der Lage ist, montage- und
-    instandhaltungstechnische Aufgaben unter Berücksichtigung
+    Der Prüfling hat nachzuweisen, dass er in der Lage ist, montage-
+    und instandhaltungstechnische Aufgaben unter Berücksichtigung
     wirtschaftlicher und ökologischer Aspekte in einem Behälter- und
     Apparatebauer-Betrieb zu bearbeiten. Dabei soll er berufsbezogene
     Sachverhalte analysieren und bewerten. Bei der jeweiligen
@@ -339,55 +290,43 @@ auch handlungsfeldübergreifend verknüpft werden können:
         Angebotskalkulation sowie von Funktionsplänen und Zeichnungen
         darstellen, auswählen und die Auswahl begründen,
 
-
     b)  Fehler- und Störungssuche durchführen, Maßnahmen, Methoden und
         Alternativen für die Instandhaltung auswählen, Lösungen erarbeiten,
         korrigieren und begründen,
 
-
     c)  Material bestimmen und Materialbedarf für Instandhaltung berechnen
         sowie Materialzuschnitte rechnerisch ermitteln,
-
 
     d)  Maßnahmen zur Instandsetzung an Behältern und Apparaten unter
         Berücksichtigung von Besonderheiten bei bestehenden Anlagen,
         insbesondere von Werkstoffen und Materialien, beschreiben und
         bewerten,
 
-
     e)  Maßnahmen zur Instandsetzung an Kupferschmiedearbeiten, insbesondere
         unter Beachtung des Denkmalschutzes, auswählen und die Auswahl
         begründen,
 
-
     f)  Prüf- und Messverfahren sowie Prüf- und Messtechniken für
         Funktionsprüfungen, einschließlich Fehlersuchverfahren, auswählen und
         beurteilen; Prüf- und Messergebnisse bewerten und dokumentieren;
-
-
-
-
 
 3.  Auftragsabwicklung
 
     Der Prüfling hat nachzuweisen, dass er in der Lage ist,
     Auftragsabwicklungsprozesse in einem Behälter- und Apparatebauer-
     Betrieb, auch unter Anwendung branchenüblicher Software, erfolgs-,
-    kunden- und qualitätsorientiert zu planen, deren Durchführung zu
-    kontrollieren und sie abzuschließen. Bei der jeweiligen
+    kunden- und qualitätsorientiert zu planen, deren Durchführung
+    zu kontrollieren und sie abzuschließen. Bei der jeweiligen
     Aufgabenstellung sollen mehrere der unter den Buchstaben a bis i
     aufgeführten Qualifikationen verknüpft werden:
 
     a)  Möglichkeiten der Auftragsbeschaffung darstellen,
 
-
     b)  Angebotsunterlagen erstellen und Angebote auswerten, auch unter
         Berücksichtigung von energie- und ressourceneffizienten Aspekten;
         Angebotskalkulationen für unterschiedliche Auftragstypen durchführen,
 
-
     c)  Unteraufträge vergeben und kontrollieren,
-
 
     d)  Methoden und Verfahren der Arbeitsplanung und -organisation unter
         Berücksichtigung der Fertigungs-, Montage- und Instandhaltungstechnik,
@@ -395,90 +334,66 @@ auch handlungsfeldübergreifend verknüpft werden können:
         qualitätssichernde Aspekte darstellen sowie Schnittstellen zwischen
         Arbeitsbereichen berücksichtigen,
 
-
     e)  berufsbezogene rechtliche Vorschriften und technische Normen sowie
         allgemein anerkannte Regeln der Technik anwenden, insbesondere die
         Haftung bei der Herstellung, der Montage und bei Dienstleistungen
         beurteilen,
 
-
     f)  technische Arbeitspläne, Skizzen und Zeichnungen zur
-        Arbeitsprozessplanung-                          und -überwachung, auch
-        unter Anwendung branchenüblicher Software, erstellen, bewerten und
-        korrigieren,
-
+        *Arbeitsprozessplanung-* und -überwachung, auch unter Anwendung
+        branchenüblicher Software, erstellen, bewerten und korrigieren,
 
     g)  den auftragsbezogenen Einsatz von Personal, Material, Werkstoffen,
         Maschinen und Geräten bestimmen und begründen,
 
-
     h)  qualitätssichernde Aspekte bei der Auftragsannahme und der
         Durchführung von Aufträgen beschreiben,
 
-
     i)  eine Nachkalkulation durchführen;
-
-
-
-
 
 4.  Betriebsführung und Betriebsorganisation
 
-    Der Prüfling hat nachzuweisen, dass er in der Lage ist, Aufgaben der
-    Betriebsführung und Betriebsorganisation in einem Behälter- und
-    Apparatebauer-Betrieb unter Berücksichtigung der rechtlichen
-    Vorschriften, auch unter Anwendung von Informations- und
-    Kommunikationssystemen, wahrzunehmen. Bei der jeweiligen
+    Der Prüfling hat nachzuweisen, dass er in der Lage ist,
+    Aufgaben der Betriebsführung und Betriebsorganisation in einem
+    Behälter- und Apparatebauer-Betrieb unter Berücksichtigung der
+    rechtlichen Vorschriften, auch unter Anwendung von Informations-
+    und Kommunikationssystemen, wahrzunehmen. Bei der jeweiligen
     Aufgabenstellung sollen mehrere der unter den Buchstaben a bis i
     aufgeführten Qualifikationen verknüpft werden:
 
     a)  betriebliche Kosten ermitteln; dabei betriebswirtschaftliche
         Zusammenhänge berücksichtigen,
 
-
     b)  betriebliche Kostenstrukturen überprüfen; betriebliche Kennzahlen
         ermitteln,
 
-
-    c)  Marketingmaßnahmen zur Kundenpflege und zur Gewinnung neuer Kunden vor
-        dem Hintergrund technischer und wirtschaftlicher Entwicklungen
+    c)  Marketingmaßnahmen zur Kundenpflege und zur Gewinnung neuer Kunden
+        vor dem Hintergrund technischer und wirtschaftlicher Entwicklungen
         erarbeiten,
-
 
     d)  Bedeutung des betrieblichen Qualitätsmanagements für den
         Unternehmenserfolg darstellen, Maßnahmen des Qualitätsmanagements
         festlegen; Dokumentationen bewerten,
 
-
     e)  Aufgaben der Personalverwaltung wahrnehmen; Notwendigkeit der
         Personalentwicklung, insbesondere in Abhängigkeit von Auftragslage und
         Auftragsabwicklung, begründen,
-
 
     f)  betriebsspezifische Maßnahmen zur Einhaltung der
         arbeitsschutzrechtlichen Bestimmungen und des Umweltschutzes
         entwickeln; Gefahrenpotenziale beurteilen und Maßnahmen zur
         Gefahrenvermeidung und -beseitigung festlegen,
 
-
     g)  gewerkspezifische Betriebs- und Lagerausstattung sowie logistische
         Prozesse planen und darstellen,
-
 
     h)  den Nutzen des Einsatzes von Informations- und Kommunikationssystemen,
         insbesondere für Kundenbindung und -pflege sowie Warenwirtschaft,
         begründen,
 
-
     i)  den Nutzen zwischenbetrieblicher Kooperationen auftragsbezogen prüfen,
         Konsequenzen, insbesondere für die betriebsinterne Organisation sowie
         das betriebliche Personalwesen, aufzeigen und bewerten.
-
-
-
-
-
-
 
 
 ## § 9 Prüfungsdauer und Bestehen des Teils II
@@ -488,8 +403,8 @@ jedem Handlungsfeld drei Stunden. Eine Prüfungsdauer von sechs Stunden
 täglich darf nicht überschritten werden.
 
 (2) Die Gesamtbewertung des Teils II wird aus dem arithmetischen
-Mittel der Einzelbewertungen der Handlungsfelder nach § 8 Absatz 2
-gebildet.
+Mittel der Einzelbewertungen der Handlungsfelder nach § 8 Absatz
+2 gebildet.
 
 (3) Wurden in höchstens zwei der in § 8 Absatz 2 genannten
 Handlungsfelder jeweils mindestens 30 und weniger als 50 Punkte
@@ -503,12 +418,8 @@ Prüfung des Teils II ist nicht bestanden, wenn
 
 1.  ein Handlungsfeld mit weniger als 30 Punkten bewertet worden ist oder
 
-
 2.  nach durchgeführter Ergänzungsprüfung zwei Handlungsfelder jeweils mit
     weniger als 50 Punkten bewertet worden sind.
-
-
-
 
 
 ## § 10 Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung

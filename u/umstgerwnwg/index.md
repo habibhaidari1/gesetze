@@ -15,22 +15,24 @@ Ausfertigungsdatum
 Fundstelle
 :   GBl DDR I: 1990, 503
 
+Fundstelle
+:   GBl DDR I: 1990, Nr 38, 503
 
 
 ## § 1
 
 Zur Entscheidung über die Realisierung der Umstellung von Guthaben
 kann die Prüfung des rechtmäßigen Erwerbs im nachfolgend geregelten
-Verfahren angeordnet werden. Dazu wird mit sofortiger Wirkung ein aus
-21 Abgeordneten der Volkskammer bestehender zeitweiliger
+Verfahren angeordnet werden. Dazu wird mit sofortiger Wirkung
+ein aus 21 Abgeordneten der Volkskammer bestehender zeitweiliger
 Sonderausschuß gebildet.
 
 
 ## § 2
 
-Natürliche Personen und juristische Personen mit Wohnsitz oder Sitz
-der Niederlassung in der DDR oder außerhalb der DDR haben auf
-Verlangen die Rechtmäßigkeit des Erwerbs des zur Umstellung
+Natürliche Personen und juristische Personen mit Wohnsitz oder
+Sitz der Niederlassung in der DDR oder außerhalb der DDR haben
+auf Verlangen die Rechtmäßigkeit des Erwerbs des zur Umstellung
 angemeldeten Guthabens (nachfolgend Gesamtguthaben) nachzuweisen.
 
 
@@ -71,16 +73,12 @@ das Gesamtguthaben oder Teile davon durch
 
 -   strafbares oder ordnungswidriges Handeln,
 
-
 -   Handlungen, die einen gröblichen Verstoß gegen die guten Sitten
     darstellen,
-
 
 -   einen Mißbrauch staatlicher oder gesellschaftlicher Befugnisse oder
     einer staatlichen oder gesellschaftlichen Stellung oder Tätigkeit zum
     Nachteil des Gemeinwohls
-
-
 
 erlangt wurde.
 
@@ -106,9 +104,9 @@ des kontoführenden Kreditinstituts mitzuteilen.
 
 ## § 6
 
-(1) Gegen die Entscheidung des zeitweiligen Sonderausschusses hat der
-Betroffene das Recht der Beschwerde. Sie ist innerhalb von 2 Wochen
-schriftlich und begründet bei dem zeitweiligen Sonderausschuß
+(1) Gegen die Entscheidung des zeitweiligen Sonderausschusses hat
+der Betroffene das Recht der Beschwerde. Sie ist innerhalb von 2
+Wochen schriftlich und begründet bei dem zeitweiligen Sonderausschuß
 einzulegen. Die Beschwerde hat aufschiebende Wirkung.
 
 (2) Über die Beschwerde ist innerhalb von 2 Wochen nach ihrem Eingang
@@ -130,48 +128,22 @@ Dieses Gesetz tritt am 29. Juni 1990 in Kraft.
 **Die Präsidentin der Volkskammer der Deutschen Demokratischen
 Republik**
 
-Auszug aus EinigVtrVbg Art 3
 
-## Anhang EV (BGBl. II 1990, 1239)
+## Anhang EV Auszug aus EinigVtrVbg Art 3 (BGBl. II 1990, 1239)
 
 Das nachfolgend aufgeführte Recht der Deutschen Demokratischen
 Republik bleibt nach Wirksamwerden des Beitritts in Kraft. Artikel 9
 Abs. 4 des Vertrags gilt entsprechend.
 
-*
-    *
-        *
-            Zu Kapitel II (Geschäftsbereich des Bundesministers des Innern)
 
 
-
-
-
-
-
-
-
-
-
-
-...
-
-12. Gesetz über den Nachweis der Rechtmäßigkeit des Erwerbs von
-    Umstellungsguthaben vom 29. Juni 1990 (GBl. I Nr. 38 S. 503) mit
-    folgenden Maßgaben:
-
-    a)  In den Fällen des § 5 Abs. 4 Satz 2 entscheidet anstelle des
-        zeitweiligen Sonderausschusses eine Kammer für Verwaltungssachen bei
-        dem Kreisgericht, in dessen Bezirk das Gesamtguthaben zur Umstellung
-        angemeldet worden ist.
-
-
-    b)  Dieses Gericht entscheidet auch über Beschwerden nach § 6.
-
-
-
-
-
-
-...
+Zu Kapitel II (Geschäftsbereich des Bundesministers des Innern) ...
+12\. Gesetz über den Nachweis der Rechtmäßigkeit des Erwerbs von
+Umstellungsguthaben vom 29. Juni 1990 (GBl. I Nr. 38 S. 503) mit
+folgenden Maßgaben:
+a) In den Fällen des § 5 Abs. 4 Satz 2 entscheidet anstelle des
+zeitweiligen Sonderausschusses eine Kammer für Verwaltungssachen bei
+dem Kreisgericht, in dessen Bezirk das Gesamtguthaben zur Umstellung
+angemeldet worden ist.
+b) Dieses Gericht entscheidet auch über Beschwerden nach § 6. ...
 

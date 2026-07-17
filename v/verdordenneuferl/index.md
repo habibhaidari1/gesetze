@@ -1,6 +1,5 @@
 ---
-Title: Erlaß über die Neufassung des Statuts des "Verdienstordens der Bundesrepublik
-  Deutschland"
+Title: "Erlaß über die Neufassung des Statuts des \"Verdienstordens der Bundesrepublik Deutschland\""
 jurabk: VerdOrdenNeufErl
 layout: default
 origslug: verdordenneuferl
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 1955, 749
-
 
 
 ## (XXXX)

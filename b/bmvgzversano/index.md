@@ -1,6 +1,5 @@
 ---
-Title: Anordnung über die Übertragung von Zuständigkeiten auf dem Gebiet der beamtenrechtlichen
-  Versorgung im Dienstbereich des Bundesministers der Verteidigung
+Title: Anordnung über die Übertragung von Zuständigkeiten auf dem Gebiet der beamtenrechtlichen Versorgung im Dienstbereich des Bundesministers der Verteidigung
 jurabk: BMVgZVersAnO
 layout: default
 origslug: bmvgzversano
@@ -44,7 +43,6 @@ des Bundesbesoldungsgesetzes vom 15. April 1970 (Bundesgesetzbl. I S.
     Dienstbezüge von den Wehrbereichsgebührnisämtern IV bis VI erhalten
     haben;
 
-
 2.  über die Berücksichtigung von Vordienstzeiten als ruhegehaltfähige
     Dienstzeit nach den §§ 115, 116 und 116a BBG vor Eintritt des
     Versorgungsfalles zu entscheiden, auf
@@ -74,20 +72,15 @@ des Bundesbesoldungsgesetzes vom 15. April 1970 (Bundesgesetzbl. I S.
     vorgenommen werden. Ist ein Einvernehmen nicht zu erzielen, so ist
     meine Entscheidung herbeizuführen.
 
-
-3.  Die Versorgungsberechtigten nach Nummer 1 können die Zuständigkeit des
-    anderen Wehrbereichsgebührnisamtes beantragen, wenn sie ihren Wohnsitz
-    in dessen Zuständigkeitsbereich verlegen. Dem Antrag ist stattzugeben,
-    soweit der Festsetzungsbescheid unanfechtbar geworden ist. Bei
-    mehreren gleichberechtigten Versorgungsberechtigten bedarf es
+3.  Die Versorgungsberechtigten nach Nummer 1 können die Zuständigkeit
+    des anderen Wehrbereichsgebührnisamtes beantragen, wenn sie ihren
+    Wohnsitz in dessen Zuständigkeitsbereich verlegen. Dem Antrag ist
+    stattzugeben, soweit der Festsetzungsbescheid unanfechtbar geworden
+    ist. Bei mehreren gleichberechtigten Versorgungsberechtigten bedarf es
     übereinstimmender Anträge.
 
 
-
-
-
 ## II. Dienstunfallversorgung
-
 
 1.  Den in Abschnitt I Nr. 2 aufgeführten Behörden übertrage ich für die
     Beamten ihres Geschäftsbereiches die Befugnis
@@ -103,15 +96,11 @@ des Bundesbesoldungsgesetzes vom 15. April 1970 (Bundesgesetzbl. I S.
     nach § 142 Abs. 5 Satz 2 BBG zur Nachprüfung des Grades der Minderung
     der Erwerbsfähigkeit eine amtsärztliche Untersuchung anzuordnen.
 
-
 2.  Ein Unfallausgleich nach § 139 BBG ist nach Eintritt des
     Versorgungsfalles von den nach Abschnitt I Nr. 1 zuständigen
     Wehrbereichsgebührnisämtern zusammen mit den Versorgungsbezügen zu
     zahlen; im übrigen verbleibt es bei der unter Abschnitt II Nr. 1
     genannten Zuständigkeitsregelung.
-
-
-
 
 
 ## III. Übertragung von Zuständigkeiten kraft besonderer Ermächtigung
@@ -138,21 +127,12 @@ Ich behalte mir vor,
 1.  in Einzelfällen die nach den Abschnitten I bis III übertragenen
     Befugnisse selbst auszuüben,
 
-
-2.
-    a)  versorgungsrechtliche Entscheidungen grundsätzlicher, über den
+2.  a)  versorgungsrechtliche Entscheidungen grundsätzlicher, über den
         Einzelfall hinausgehender Bedeutung und
-
 
     b)  Entscheidungen über Abweichungen von den Richtlinien
 
-
-
-
     herbeizuführen.
-
-
-
 
 
 ## V. Übergangsvorschriften
@@ -167,8 +147,8 @@ Hamburg und München tätig sind.
 ## VI. Schlußvorschriften
 
 Diese Anordnung ergeht im Einvernehmen mit dem Bundesminister des
-Innern. Sie tritt am Ersten des auf die Verkündung folgenden Monats in
-Kraft.
+Innern. Sie tritt am Ersten des auf die Verkündung folgenden Monats
+in Kraft.
 
 
 ## Schlußformel

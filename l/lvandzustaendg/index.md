@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zur Änderung von örtlichen Zuständigkeiten der Landesversicherungsanstalten
-  in Niedersachsen und zur Änderung des Bundesversorgungsgesetzes
+Title: Gesetz zur Änderung von örtlichen Zuständigkeiten der Landesversicherungsanstalten in Niedersachsen und zur Änderung des Bundesversorgungsgesetzes
 jurabk: LVANDZustÄndG
 layout: default
 origslug: lvandzust_ndg
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 1979, 98
-
 
 
 ## Eingangsformel
@@ -33,12 +31,10 @@ Im Land Niedersachsen sind örtlich zuständig:
     Göttingen, Northeim, Osterode am Harz und der kreisfreien Stadt
     Wolfsburg,
 
-
 2.  die Landesversicherungsanstalt Oldenburg-Bremen für den
     Regierungsbezirk Weser-Ems mit Ausnahme der Landkreise Aurich,
     Emsland, Grafschaft Bentheim, Leer, Osnabrück und der kreisfreien
     Städte Emden und Osnabrück,
-
 
 3.  die Landesversicherungsanstalt Hannover für die Regierungsbezirke
     Hannover und Lüneburg und
@@ -46,14 +42,7 @@ Im Land Niedersachsen sind örtlich zuständig:
     a)  die Landkreise Aurich, Emsland, Gifhorn, Göttingen, Grafschaft
         Bentheim, Leer, Northeim, Osnabrück, Osterode am Harz und
 
-
     b)  die kreisfreien Städte Emden, Osnabrück und Wolfsburg.
-
-
-
-
-
-
 
 
 ## § 2

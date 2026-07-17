@@ -1,7 +1,5 @@
 ---
-Title: Verordnung zur Entlastung der nichtöffentlichen Betriebe, die Wasser gewinnen
-  sowie Wasser oder Abwasser in Gewässer einleiten, von Berichtspflichten nach dem
-  Umweltstatistikgesetz
+Title: Verordnung zur Entlastung der nichtöffentlichen Betriebe, die Wasser gewinnen sowie Wasser oder Abwasser in Gewässer einleiten, von Berichtspflichten nach dem Umweltstatistikgesetz
 jurabk: UStatG2005BerPflEntlV
 layout: default
 origslug: ustatg2005berpflentlv
@@ -24,5 +22,5 @@ In die Erhebung nach § 8 des Umweltstatistikgesetzes werden
 nichtöffentliche Betriebe, die Wasser gewinnen, sowie nichtöffentliche
 Betriebe, die Wasser oder Abwasser in Gewässer einleiten, nur
 einbezogen, soweit die gewonnene oder eingeleitete Wasser- oder
-Abwassermenge jeweils mindestens 2 000 Kubikmeter pro Jahr beträgt.
+Abwassermenge jeweils mindestens 2 000 Kubikmeter pro Jahr beträgt.
 

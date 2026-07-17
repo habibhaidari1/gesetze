@@ -1,6 +1,5 @@
 ---
-Title: Verordnung zur Übertragung der Ermächtigung zum Erlass einer Bußgeldverordnung
-  nach dem Seefischereigesetz
+Title: Verordnung zur Übertragung der Ermächtigung zum Erlass einer Bußgeldverordnung nach dem Seefischereigesetz
 jurabk: SeefischGBußgÜbertrV
 layout: default
 origslug: seefischgbu_g_bertrv

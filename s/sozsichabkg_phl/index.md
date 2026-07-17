@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zu dem Abkommen vom 19. September 2014 zwischen der Bundesrepublik Deutschland
-  und der Republik der Philippinen über Soziale Sicherheit
+Title: Gesetz zu dem Abkommen vom 19. September 2014 zwischen der Bundesrepublik Deutschland und der Republik der Philippinen über Soziale Sicherheit
 jurabk: SozSichAbkG PHL
 layout: default
 origslug: sozsichabkg_phl
@@ -31,12 +30,9 @@ zwischenstaatlichen Übereinkünften wird zugestimmt:
 1.  dem Abkommen zwischen der Bundesrepublik Deutschland und der Republik
     der Philippinen über Soziale Sicherheit,
 
-
-2.  der Vereinbarung zur Durchführung des Abkommens vom 19. September 2014
-    zwischen der Bundesrepublik Deutschland und der Republik der
+2.  der Vereinbarung zur Durchführung des Abkommens vom 19. September
+    2014 zwischen der Bundesrepublik Deutschland und der Republik der
     Philippinen über Soziale Sicherheit.
-
-
 
 Das Abkommen und die Durchführungsvereinbarung werden nachstehend
 veröffentlicht.
@@ -48,10 +44,10 @@ Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates Vereinbarungen zur Durchführung des
 Abkommens sowie Änderungen der in Artikel 1 Nummer 2 genannten
 Durchführungsvereinbarung in Kraft zu setzen. Im Übrigen wird die
-Bundesregierung ermächtigt, durch Rechtsverordnung mit Zustimmung des
-Bundesrates die zur Durchführung des Abkommens erforderlichen
-innerstaatlichen Regelungen zu treffen. Dabei können zur Anwendung und
-Durchführung des Abkommens insbesondere über folgende Gegenstände
+Bundesregierung ermächtigt, durch Rechtsverordnung mit Zustimmung
+des Bundesrates die zur Durchführung des Abkommens erforderlichen
+innerstaatlichen Regelungen zu treffen. Dabei können zur Anwendung
+und Durchführung des Abkommens insbesondere über folgende Gegenstände
 Regelungen getroffen werden:
 
 1.  Aufklärungs-, Anzeige- und Mitteilungspflichten sowie das
@@ -59,16 +55,11 @@ Regelungen getroffen werden:
     Abkommens befassten Stellen sowie zwischen diesen und den betroffenen
     Personen,
 
-
 2.  das Ausstellen, die Vorlage und Übermittlung von Bescheinigungen sowie
     die Verwendung von Vordrucken,
 
-
 3.  die Zuständigkeit der Versicherungsträger oder anderer im Abkommen
     genannter Stellen und Behörden.
-
-
-
 
 
 ## Art 3

@@ -16,18 +16,14 @@ Fundstelle
 :   BGBl I: 1972, 123
 
 
-
 ## (XXXX)
 
 Gemäß § 81 Abs. 1 des Bundesbeamtengesetzes setze ich folgende
 Amtsbezeichnung fest:
 
-*   Präsident und Professor
+-   Präsident und Professor
 
     der Bundesanstalt
 
     für Arbeitsschutz und Unfallforschung.
-
-
-
 

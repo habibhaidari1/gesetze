@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zu dem Abkommen vom 8. Dezember 1990 zwischen der Bundesrepublik Deutschland
-  und der Republik Polen über Soziale Sicherheit
+Title: Gesetz zu dem Abkommen vom 8. Dezember 1990 zwischen der Bundesrepublik Deutschland und der Republik Polen über Soziale Sicherheit
 jurabk: SozSichAbkPOLG
 layout: default
 origslug: sozsichabkpolg
@@ -28,9 +27,9 @@ beschlossen:
 
 ## Art 1
 
-Dem am 8. Dezember 1990 in Warschau unterzeichneten Abkommen zwischen
-der Bundesrepublik Deutschland und der Republik Polen über Soziale
-Sicherheit wird zugestimmt. Das Abkommen wird nachstehend
+Dem am 8. Dezember 1990 in Warschau unterzeichneten Abkommen
+zwischen der Bundesrepublik Deutschland und der Republik Polen über
+Soziale Sicherheit wird zugestimmt. Das Abkommen wird nachstehend
 veröffentlicht.
 
 
@@ -46,9 +45,9 @@ veröffentlicht.
 
 ## Art 4
 
-Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates Vereinbarungen zur Durchführung des
-Abkommens in Kraft zu setzen oder in Ermangelung solcher
+Die Bundesregierung wird ermächtigt, durch Rechtsverordnung
+mit Zustimmung des Bundesrates Vereinbarungen zur Durchführung
+des Abkommens in Kraft zu setzen oder in Ermangelung solcher
 Vereinbarungen das Nähere zu regeln. Dabei können zur Anwendung und
 Durchführung des Abkommens insbesondere über folgende Gegenstände
 Regelungen getroffen werden:
@@ -58,23 +57,16 @@ Regelungen getroffen werden:
     Abkommens genannten Stellen sowie zwischen diesen und den betroffenen
     Personen,
 
-
 2.  das Ausstellen, die Vorlage und Übermittlung von Bescheinigungen sowie
     die Verwendung von Vordrucken,
 
-
 3.  das Verfahren beim Erbringen von Geld- und Sachleistungen,
-
 
 4.  die Zuständigkeit der Versicherungsträger oder anderer in Artikel 22
     Abs. 1 des Abkommens genannter Stellen,
 
-
 5.  die gegenseitige Umrechnung von Versicherungszeiten nach den
     Rechtsvorschriften beider Vertragsstaaten.
-
-
-
 
 
 ## Art 5

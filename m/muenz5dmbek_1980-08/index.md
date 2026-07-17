@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen
-  Mark (Gedenkmünze Kölner Dom)
+Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Gedenkmünze Kölner Dom)
 jurabk: Münz5DMBek 1980-08
 layout: default
 origslug: m_nz5dmbek_1980-08
@@ -17,7 +16,6 @@ Fundstelle
 :   BGBl I: 1980, 1683
 
 
-
 ## (XXXX)
 
 (1) Auf Grund des § 6 des Gesetzes über die Ausprägung von
@@ -30,8 +28,8 @@ Staatlichen Münze Stuttgart.
 
 (2) Die Münze wird ab 22. Oktober 1980 in den Verkehr gebracht.
 
-(3) Die Münze besteht überwiegend aus einer Kupfer-Nickel-Legierung
-(75 Prozent Kupfer und 25 Prozent Nickel) und hat einen
+(3) Die Münze besteht überwiegend aus einer Kupfer-Nickel-
+Legierung (75 Prozent Kupfer und 25 Prozent Nickel) und hat einen
 Reinnickelkern. Sie hat einen Durchmesser von 29 Millimetern und ein
 Gewicht von 10 Gramm.
 
@@ -41,17 +39,13 @@ schützenden glatten Randstab umgeben.
 (5) Die Bildseite zeigt die Turmfassade des Kölner Doms. Die Umschrift
 lautet:
 
-*    *   "DER KÖLNER DOM . 100 JAHRE VOLLENDET . 1880 1980".
-
-
-
+| "DER KÖLNER DOM . 100 JAHRE VOLLENDET . 1880 1980". |
+| --- |
 
 (6) Die Wertseite trägt einen Adler und die Umschrift:
 
-*    *   "BUNDESREPUBLIK DEUTSCHLAND . 5 DEUTSCHE MARK 1980".
-
-
-
+| "BUNDESREPUBLIK DEUTSCHLAND . 5 DEUTSCHE MARK 1980". |
+| --- |
 
 (7) Das Münzzeichen "F" der Staatlichen Münze Stuttgart befindet sich
 rechts unten zwischen dem Wort "MARK" und der Jahreszahl "1980".

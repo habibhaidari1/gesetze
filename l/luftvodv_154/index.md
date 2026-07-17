@@ -1,7 +1,5 @@
 ---
-Title: Hundertvierundfünfzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung
-  von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Verkehrsflughafen
-  Westerland/Sylt)
+Title: Hundertvierundfünfzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Verkehrsflughafen Westerland/Sylt)
 jurabk: LuftVODV 154
 layout: default
 origslug: luftvodv_154
@@ -16,4 +14,7 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BAnz: 1995, Nr 131, 7706
+
+Fundstelle
+:   BAnz: 1995, 7706
 

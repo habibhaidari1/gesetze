@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zur Überleitung der Beteiligung des ehemaligen Landes Preußen am Grundkapital
-  der Deutschen Pfandbriefanstalt auf den Bund
+Title: Gesetz zur Überleitung der Beteiligung des ehemaligen Landes Preußen am Grundkapital der Deutschen Pfandbriefanstalt auf den Bund
 jurabk: PfandBrÜblG
 layout: default
 origslug: pfandbr_blg
@@ -16,12 +15,14 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1954, 439
 
-Stand: G tritt gem. § 7 G v. 20.12.1988 I 2310 an dem Tag außer Kraft, an dem die Aktiengesellschaft ins Handelsregister eingetragen wird
+Stand
+:   G tritt gem. § 7 G v. 20.12.1988 I 2310 an dem Tag außer Kraft, an dem die Aktiengesellschaft ins Handelsregister eingetragen wird
+
 
 ## § 1
 
-Die Beteiligung des ehemaligen Landes Preußen am Grundkapital der
-Deutschen Pfandbriefanstalt (ehemals Preußischen
+Die Beteiligung des ehemaligen Landes Preußen am Grundkapital
+der Deutschen Pfandbriefanstalt (ehemals Preußischen
 Landespfandbriefanstalt) geht mit dem Inkrafttreten dieses Gesetzes
 auf den Bund über.
 

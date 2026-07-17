@@ -1,7 +1,5 @@
 ---
-Title: Gesetz zu dem Vertrag vom 24. Oktober 1974 zwischen der Bundesrepublik Deutschland
-  und der Französischen Republik zu dem Europäischen Übereinkommen vom 20. April 1959
-  über die Rechtshilfe in Strafsachen
+Title: Gesetz zu dem Vertrag vom 24. Oktober 1974 zwischen der Bundesrepublik Deutschland und der Französischen Republik zu dem Europäischen Übereinkommen vom 20. April 1959 über die Rechtshilfe in Strafsachen
 jurabk: EuRHiÜbkVtrFRAG
 layout: default
 origslug: eurhi_bkvtrfrag
@@ -23,10 +21,10 @@ Geändert durch
 
 ## Art 1
 
-Dem in Bonn am 24. Oktober 1974 unterzeichneten Vertrag zwischen der
-Bundesrepublik Deutschland und der Französischen Republik zu dem
-Europäischen Übereinkommen vom 20. April 1959 über die Rechtshilfe in
-Strafsachen wird zugestimmt. Der Vertrag wird nachstehend
+Dem in Bonn am 24. Oktober 1974 unterzeichneten Vertrag zwischen
+der Bundesrepublik Deutschland und der Französischen Republik zu dem
+Europäischen Übereinkommen vom 20. April 1959 über die Rechtshilfe
+in Strafsachen wird zugestimmt. Der Vertrag wird nachstehend
 veröffentlicht.
 
 
@@ -45,10 +43,10 @@ eingeschränkt.
 ## Art 4
 
 Rechtshilfeersuchen französischer Behörden, denen eine Zuwiderhandlung
-zugrunde liegt, die nach deutschem Recht eine Ordnungswidrigkeit wäre,
-werden so behandelt, als ob ihnen nach deutschem Recht eine mit Strafe
-bedrohte Handlung zugrunde läge. Die Bewilligungsbehörde kann der
-Verwaltungsbehörde, die für die Verfolgung der Zuwiderhandlung
+zugrunde liegt, die nach deutschem Recht eine Ordnungswidrigkeit
+wäre, werden so behandelt, als ob ihnen nach deutschem Recht eine mit
+Strafe bedrohte Handlung zugrunde läge. Die Bewilligungsbehörde kann
+der Verwaltungsbehörde, die für die Verfolgung der Zuwiderhandlung
 zuständig wäre, die Vornahme der Rechtshilfehandlung übertragen.
 
 

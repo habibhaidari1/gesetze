@@ -1,6 +1,5 @@
 ---
-Title: Dreizehnte Durchführungsverordnung zum Bereinigungsgesetz für deutsche Auslandsbonds
-  (Endgültige Verwaltungsabgabe)
+Title: Dreizehnte Durchführungsverordnung zum Bereinigungsgesetz für deutsche Auslandsbonds (Endgültige Verwaltungsabgabe)
 jurabk: AuslWBGDV 13
 layout: default
 origslug: auslwbgdv_13
@@ -42,67 +41,27 @@ Auslandsbonds unter Abzug
 a)  der Stücke, die bei Inkrafttreten des Gesetzes nach den
     Anleihebedingungen bereits getilgt waren;
 
-
 b)  der Stücke, die nach § 6 des Gesetzes als kraftlos gelten;
-
 
 c)  der Stücke, die durch Sammelanerkennung (§§ 13, 55 bis 58 des
     Gesetzes) anerkannt worden sind.
 
-
-
-
 (3) Der nach Absatz 2 errechnete Nennbetrag ist vorbehaltlich des
 Satzes 2 nach folgenden Sätzen in Deutsche Mark umzurechnen:
 
-*    *   100 hfl.
+| 100 hfl. | = | 110,80 DM |
+| --- | --- | --- |
+| 100 sfrs. | = | 96,80 DM |
+| 1 Pfund | = | 11,80 DM |
+| 1 $ | = | 4,20 DM. |
 
-    *   =
-
-    *   110,80 DM
-
-
-*    *   100 sfrs.
-
-    *   =
-
-    *   96,80 DM
-
-
-*    *   1 Pfund
-
-    *   =
-
-    *   11,80 DM
-
-
-*    *   1 $
-
-    *   =
-
-    *   4,20 DM.
-
-
-
-Für Auslandsbonds, die eine auf Goldbasis beruhende oder mit
-Goldklausel versehene Schuld verbriefen, sind folgende
+Für Auslandsbonds, die eine auf Goldbasis beruhende oder
+mit Goldklausel versehene Schuld verbriefen, sind folgende
 Umrechnungssätze anzuwenden:
 
-*    *   100 hfl.
-
-    *   =
-
-    *   168,80 DM
-
-
-*    *   1 Pfund
-
-    *   =
-
-    *   20,40 DM.
-
-
-
+| 100 hfl. | = | 168,80 DM |
+| --- | --- | --- |
+| 1 Pfund | = | 20,40 DM. |
 
 
 ## § 2 Anrechnung früherer Leistungen

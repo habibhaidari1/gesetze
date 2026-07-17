@@ -1,8 +1,5 @@
 ---
-Title: Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchs-
-  und Einspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von Beschäftigten
-  des Bundesministeriums für Gesundheit in Angelegenheiten der Besoldung, des Tarifentgelts
-  und des Kindergeldes
+Title: Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchs- und Einspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von Beschäftigten des Bundesministeriums für Gesundheit in Angelegenheiten der Besoldung, des Tarifentgelts und des Kindergeldes
 jurabk: BMinGZustAnO
 layout: default
 origslug: bmingzustano
@@ -19,15 +16,14 @@ Fundstelle
 :   BGBl I: 2006, 502
 
 
-
 ## I.
 
-Nach § 126 Abs. 3 Nr. 2 Satz 2 des Beamtenrechtsrahmengesetzes in
-Verbindung mit § 172 des Bundesbeamtengesetzes wird dem
-Bundesverwaltungsamt die Befugnis übertragen, über Widersprüche und
-Einsprüche gegen Verwaltungsakte sowie die Ablehnung eines Anspruchs
-in Angelegenheiten der Besoldung, des Tarifentgelts und des
-Kindergeldes zu entscheiden, soweit es für den Erlass des
+Nach § 126 Abs. 3 Nr. 2 Satz 2 des Beamtenrechtsrahmengesetzes
+in Verbindung mit § 172 des Bundesbeamtengesetzes wird dem
+Bundesverwaltungsamt die Befugnis übertragen, über Widersprüche
+und Einsprüche gegen Verwaltungsakte sowie die Ablehnung eines
+Anspruchs in Angelegenheiten der Besoldung, des Tarifentgelts
+und des Kindergeldes zu entscheiden, soweit es für den Erlass des
 Verwaltungsaktes oder die Ablehnung des Anspruchs zuständig war.
 
 

@@ -1,6 +1,5 @@
 ---
-Title: Statut für die Verleihung der Goethe-Medaille des Goethe-Instituts Inter Nationes
-  e. V. (gestiftet 1954)
+Title: Statut für die Verleihung der Goethe-Medaille des Goethe-Instituts Inter Nationes e. V. (gestiftet 1954)
 jurabk: GoetheMedStat
 layout: default
 origslug: goethemedstat
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 2003, 407
-
 
 
 ## Art 1

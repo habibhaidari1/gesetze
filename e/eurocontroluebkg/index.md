@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zu dem Internationalen Übereinkommen vom 13. Dezember 1960 über Zusammenarbeit
-  zur Sicherung der Luftfahrt "EUROCONTROL"
+Title: "Gesetz zu dem Internationalen Übereinkommen vom 13. Dezember 1960 über Zusammenarbeit zur Sicherung der Luftfahrt \"EUROCONTROL\""
 jurabk: EUROCONTROLÜbkG
 layout: default
 origslug: eurocontrol_bkg
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl II: 1962, 2273
-
 
 
 ## Art 1

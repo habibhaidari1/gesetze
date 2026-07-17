@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die elektronische Aktenführung in Ordnungsgeldverfahren beim
-  Bundesamt für Justiz
+Title: Verordnung über die elektronische Aktenführung in Ordnungsgeldverfahren beim Bundesamt für Justiz
 jurabk: OGAV
 layout: default
 origslug: ogav
@@ -44,8 +43,8 @@ führen.
 zum 31. Dezember 2017 verwendeten elektronischen Form weitergeführt
 werden.
 
-(3) Verfahrensakten, die vor dem 1. Januar 2018 in Papierform geführt
-worden sind, können in dieser Form bis zum 31. Dezember 2025
+(3) Verfahrensakten, die vor dem 1. Januar 2018 in Papierform
+geführt worden sind, können in dieser Form bis zum 31. Dezember 2025
 weitergeführt werden.
 
 
@@ -59,10 +58,10 @@ elektronische Vorgangsbearbeitung in der Bundesverwaltung zu genügen.
 
 (1) Werden Akten elektronisch geführt, sind sämtliche zu den Akten
 gehörenden Dokumente in elektronische Dokumente zu übertragen.
-Vermerke zum Geschäftsgang sind elektronisch zu erstellen. Zu den
-Akten gehören sämtliche Dokumente, die das für das Verfahren
-bedeutsame Handeln des Betroffenen sowie der Behörde dokumentieren. Es
-ist sicherzustellen, dass in elektronische Dokumente übertragene
+Vermerke zum Geschäftsgang sind elektronisch zu erstellen. Zu
+den Akten gehören sämtliche Dokumente, die das für das Verfahren
+bedeutsame Handeln des Betroffenen sowie der Behörde dokumentieren.
+Es ist sicherzustellen, dass in elektronische Dokumente übertragene
 Dokumente sowie Vermerke nicht nachträglich verändert werden können.
 
 (2) Für jeden Vorgang ist eine elektronische Akte anzulegen.

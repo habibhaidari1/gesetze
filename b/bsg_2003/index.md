@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zur Bestimmung der Beitragssätze in der gesetzlichen Rentenversicherung
-  und der Beitragszahlung des Bundes für Kindererziehungszeiten für das Jahr 2003
+Title: Gesetz zur Bestimmung der Beitragssätze in der gesetzlichen Rentenversicherung und der Beitragszahlung des Bundes für Kindererziehungszeiten für das Jahr 2003
 jurabk: BSG 2003
 layout: default
 origslug: bsg_2003
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 2002, 4637, 4641
-
 
 
 ## § 1 Beitragssätze in der Rentenversicherung

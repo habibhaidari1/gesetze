@@ -16,7 +16,6 @@ Fundstelle
 :   RGBl: 1919, 1383
 
 
-
 ## Art 109
 
 (1) u. (2)
@@ -43,8 +42,8 @@ Zugehörigkeit zu einer Religionsgesellschaft zu fragen, als davon
 Rechte und Pflichten abhängen oder eine gesetzlich angeordnete
 statistische Erhebung dies erfordert.
 
-(4) Niemand darf zu einer kirchlichen Handlung oder Feierlichkeit oder
-zur Teilnahme an religiösen Übungen oder zur Benutzung einer
+(4) Niemand darf zu einer kirchlichen Handlung oder Feierlichkeit
+oder zur Teilnahme an religiösen Übungen oder zur Benutzung einer
 religiösen Eidesform gezwungen werden.
 
 
@@ -93,8 +92,8 @@ Staatsleistungen an die Religionsgesellschaften werden durch die
 Landesgesetzgebung abgelöst. Die Grundsätze hierfür stellt das Reich
 auf.
 
-(2) Das Eigentum und andere Rechte der Religionsgesellschaften und
-religiösen Vereine an ihren für Kultus-, Unterrichts- und
+(2) Das Eigentum und andere Rechte der Religionsgesellschaften
+und religiösen Vereine an ihren für Kultus-, Unterrichts- und
 Wohltätigkeitszwecke bestimmten Anstalten, Stiftungen und sonstigen
 Vermögen werden gewährleistet.
 

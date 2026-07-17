@@ -1,6 +1,5 @@
 ---
-Title: Gesetz über die Durchsetzung von Kostenforderungen aus dem Internationalen
-  Übereinkommen von Nairobi von 2007 über die Beseitigung von Wracks
+Title: Gesetz über die Durchsetzung von Kostenforderungen aus dem Internationalen Übereinkommen von Nairobi von 2007 über die Beseitigung von Wracks
 jurabk: WrackBKostDG
 layout: default
 origslug: wrackbkostdg
@@ -21,9 +20,9 @@ Fundstelle
 
 Kommt der eingetragene Eigentümer eines Schiffes seiner Pflicht zur
 Beseitigung nach Artikel 9 Absatz 2 des Internationalen Übereinkommens
-von Nairobi von 2007 über die Beseitigung von Wracks (BGBl. 2013 II S.
-530, 531) (Wrackbeseitigungsübereinkommen) nicht nach, erfolgt die
-Beseitigung im Rahmen des Artikels 9 Absatz 6 bis 8 des
+von Nairobi von 2007 über die Beseitigung von Wracks (BGBl. 2013
+II S. 530, 531) (Wrackbeseitigungsübereinkommen) nicht nach,
+erfolgt die Beseitigung im Rahmen des Artikels 9 Absatz 6 bis 8 des
 Wrackbeseitigungsübereinkommens durch die nach § 3 zuständige Behörde
 nach Maßgabe der §§ 677 bis 687 des Bürgerlichen Gesetzbuches.
 
@@ -37,8 +36,8 @@ Bürgerlichen Gesetzbuches anzuwenden.
 
 ## § 3
 
-Zuständige Behörde im Sinne der §§ 1 und 2 ist die für die Maßnahmen
-nach den Artikeln 6 bis 8 und 9 Absatz 1 und 4 des
+Zuständige Behörde im Sinne der §§ 1 und 2 ist die für die
+Maßnahmen nach den Artikeln 6 bis 8 und 9 Absatz 1 und 4 des
 Wrackbeseitigungsübereinkommens zuständige Schifffahrtspolizeibehörde
 des Bundes.
 

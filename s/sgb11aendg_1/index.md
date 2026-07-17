@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl I: 1996, 830
 
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
@@ -26,12 +25,11 @@ beschlossen:
 ## (XXXX) Art 1 bis 5
 
 
-
 ## Art 6 Übergangsregelung zur Bußgeldvorschrift
 
-Pflegekassen, die auf Grund der bisherigen Zuständigkeitsregelung nach
-§ 112 Abs. 3 in Verbindung mit § 112 Abs. 1 Nr. 1 und 6 des Elften
-Buches Sozialgesetzbuch ein Bußgeldverfahren eingeleitet haben,
+Pflegekassen, die auf Grund der bisherigen Zuständigkeitsregelung
+nach § 112 Abs. 3 in Verbindung mit § 112 Abs. 1 Nr. 1 und 6 des
+Elften Buches Sozialgesetzbuch ein Bußgeldverfahren eingeleitet haben,
 bleiben für das weitere Verfahren bis zum Erlaß des Bußgeldbescheides
 zuständig.
 
@@ -40,8 +38,8 @@ zuständig.
 
 Der Deutsche Bundestag und der Bundesrat prüfen im Laufe des Jahres
 1999, ob und in welchem Umfang die Aufwendungen für die medizinische
-Behandlungspflege in stationären Pflegeeinrichtungen ab 1. Januar 2000
-von der sozialen Pflegeversicherung oder der gesetzlichen
+Behandlungspflege in stationären Pflegeeinrichtungen ab 1. Januar
+2000 von der sozialen Pflegeversicherung oder der gesetzlichen
 Krankenversicherung zu tragen sind.
 
 

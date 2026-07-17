@@ -22,40 +22,33 @@ Zuletzt geändert durch
 ## § 1 Haftung
 
 (1) Wird durch den Fehler eines Produkts jemand getötet, sein Körper
-oder seine Gesundheit verletzt oder eine Sache beschädigt, so ist der
-Hersteller des Produkts verpflichtet, dem Geschädigten den daraus
-entstehenden Schaden zu ersetzen. Im Falle der Sachbeschädigung gilt
-dies nur, wenn eine andere Sache als das fehlerhafte Produkt
-beschädigt wird und diese andere Sache ihrer Art nach gewöhnlich für
-den privaten Ge- oder Verbrauch bestimmt und hierzu von dem
+oder seine Gesundheit verletzt oder eine Sache beschädigt, so ist
+der Hersteller des Produkts verpflichtet, dem Geschädigten den daraus
+entstehenden Schaden zu ersetzen. Im Falle der Sachbeschädigung
+gilt dies nur, wenn eine andere Sache als das fehlerhafte Produkt
+beschädigt wird und diese andere Sache ihrer Art nach gewöhnlich
+für den privaten Ge- oder Verbrauch bestimmt und hierzu von dem
 Geschädigten hauptsächlich verwendet worden ist.
 
 (2) Die Ersatzpflicht des Herstellers ist ausgeschlossen, wenn
 
 1.  er das Produkt nicht in den Verkehr gebracht hat,
 
-
 2.  nach den Umständen davon auszugehen ist, daß das Produkt den Fehler,
     der den Schaden verursacht hat, noch nicht hatte, als der Hersteller
     es in den Verkehr brachte,
-
 
 3.  er das Produkt weder für den Verkauf oder eine andere Form des
     Vertriebs mit wirtschaftlichem Zweck hergestellt noch im Rahmen seiner
     beruflichen Tätigkeit hergestellt oder vertrieben hat,
 
-
-4.  der Fehler darauf beruht, daß das Produkt in dem Zeitpunkt, in dem der
-    Hersteller es in den Verkehr brachte, dazu zwingenden
+4.  der Fehler darauf beruht, daß das Produkt in dem Zeitpunkt, in
+    dem der Hersteller es in den Verkehr brachte, dazu zwingenden
     Rechtsvorschriften entsprochen hat, oder
-
 
 5.  der Fehler nach dem Stand der Wissenschaft und Technik in dem
     Zeitpunkt, in dem der Hersteller das Produkt in den Verkehr brachte,
     nicht erkannt werden konnte.
-
-
-
 
 (3) Die Ersatzpflicht des Herstellers eines Teilprodukts ist ferner
 ausgeschlossen, wenn der Fehler durch die Konstruktion des Produkts,
@@ -71,8 +64,8 @@ ist, so trägt der Hersteller die Beweislast.
 
 ## § 2 Produkt
 
-Produkt im Sinne dieses Gesetzes ist jede bewegliche Sache, auch wenn
-sie einen Teil einer anderen beweglichen Sache oder einer
+Produkt im Sinne dieses Gesetzes ist jede bewegliche Sache, auch
+wenn sie einen Teil einer anderen beweglichen Sache oder einer
 unbeweglichen Sache bildet, sowie Elektrizität.
 
 
@@ -83,13 +76,9 @@ die unter Berücksichtigung aller Umstände, insbesondere
 
 a)  seiner Darbietung,
 
-
 b)  des Gebrauchs, mit dem billigerweise gerechnet werden kann,
 
-
 c)  des Zeitpunkts, in dem es in den Verkehr gebracht wurde,
-
-
 
 berechtigterweise erwartet werden kann.
 
@@ -99,10 +88,10 @@ verbessertes Produkt in den Verkehr gebracht wurde.
 
 ## § 4 Hersteller
 
-(1) Hersteller im Sinne dieses Gesetzes ist, wer das Endprodukt, einen
-Grundstoff oder ein Teilprodukt hergestellt hat. Als Hersteller gilt
-auch jeder, der sich durch das Anbringen seines Namens, seiner Marke
-oder eines anderen unterscheidungskräftigen Kennzeichens als
+(1) Hersteller im Sinne dieses Gesetzes ist, wer das Endprodukt,
+einen Grundstoff oder ein Teilprodukt hergestellt hat. Als Hersteller
+gilt auch jeder, der sich durch das Anbringen seines Namens, seiner
+Marke oder eines anderen unterscheidungskräftigen Kennzeichens als
 Hersteller ausgibt.
 
 (2) Als Hersteller gilt ferner, wer ein Produkt zum Zweck des
@@ -148,39 +137,39 @@ Dritten verursacht worden ist. § 5 Satz 2 gilt entsprechend.
 
 ## § 7 Umfang der Ersatzpflicht bei Tötung
 
-(1) Im Falle der Tötung ist Ersatz der Kosten einer versuchten Heilung
-sowie des Vermögensnachteils zu leisten, den der Getötete dadurch
-erlitten hat, daß während der Krankheit seine Erwerbsfähigkeit
+(1) Im Falle der Tötung ist Ersatz der Kosten einer versuchten
+Heilung sowie des Vermögensnachteils zu leisten, den der Getötete
+dadurch erlitten hat, daß während der Krankheit seine Erwerbsfähigkeit
 aufgehoben oder gemindert war oder seine Bedürfnisse vermehrt waren.
 Der Ersatzpflichtige hat außerdem die Kosten der Beerdigung demjenigen
 zu ersetzen, der diese Kosten zu tragen hat.
 
-(2) Stand der Getötete zur Zeit der Verletzung zu einem Dritten in
-einem Verhältnis, aus dem er diesem gegenüber kraft Gesetzes
+(2) Stand der Getötete zur Zeit der Verletzung zu einem Dritten
+in einem Verhältnis, aus dem er diesem gegenüber kraft Gesetzes
 unterhaltspflichtig war oder unterhaltspflichtig werden konnte, und
 ist dem Dritten infolge der Tötung das Recht auf Unterhalt entzogen,
-so hat der Ersatzpflichtige dem Dritten insoweit Schadensersatz zu
-leisten, als der Getötete während der mutmaßlichen Dauer seines Lebens
-zur Gewährung des Unterhalts verpflichtet gewesen wäre. Die
+so hat der Ersatzpflichtige dem Dritten insoweit Schadensersatz
+zu leisten, als der Getötete während der mutmaßlichen Dauer seines
+Lebens zur Gewährung des Unterhalts verpflichtet gewesen wäre. Die
 Ersatzpflicht tritt auch ein, wenn der Dritte zur Zeit der Verletzung
 gezeugt, aber noch nicht geboren war.
 
-(3) Der Ersatzpflichtige hat dem Hinterbliebenen, der zur Zeit der
-Verletzung zu dem Getöteten in einem besonderen persönlichen
+(3) Der Ersatzpflichtige hat dem Hinterbliebenen, der zur Zeit
+der Verletzung zu dem Getöteten in einem besonderen persönlichen
 Näheverhältnis stand, für das dem Hinterbliebenen zugefügte seelische
 Leid eine angemessene Entschädigung in Geld zu leisten. Ein besonderes
-persönliches Näheverhältnis wird vermutet, wenn der Hinterbliebene der
-Ehegatte, der Lebenspartner, ein Elternteil oder ein Kind des
+persönliches Näheverhältnis wird vermutet, wenn der Hinterbliebene
+der Ehegatte, der Lebenspartner, ein Elternteil oder ein Kind des
 Getöteten war.
 
 
 ## § 8 Umfang der Ersatzpflicht bei Körperverletzung
 
-Im Falle der Verletzung des Körpers oder der Gesundheit ist Ersatz der
-Kosten der Heilung sowie des Vermögensnachteils zu leisten, den der
-Verletzte dadurch erleidet, daß infolge der Verletzung zeitweise oder
-dauernd seine Erwerbsfähigkeit aufgehoben oder gemindert ist oder
-seine Bedürfnisse vermehrt sind. Wegen des Schadens, der nicht
+Im Falle der Verletzung des Körpers oder der Gesundheit ist Ersatz
+der Kosten der Heilung sowie des Vermögensnachteils zu leisten, den
+der Verletzte dadurch erleidet, daß infolge der Verletzung zeitweise
+oder dauernd seine Erwerbsfähigkeit aufgehoben oder gemindert ist
+oder seine Bedürfnisse vermehrt sind. Wegen des Schadens, der nicht
 Vermögensschaden ist, kann auch eine billige Entschädigung in Geld
 gefordert werden.
 
@@ -217,8 +206,8 @@ einer Höhe von 500 Euro selbst zu tragen.
 ## § 12 Verjährung
 
 (1) Der Anspruch nach § 1 verjährt in drei Jahren von dem Zeitpunkt
-an, in dem der Ersatzberechtigte von dem Schaden, dem Fehler und von
-der Person des Ersatzpflichtigen Kenntnis erlangt hat oder hätte
+an, in dem der Ersatzberechtigte von dem Schaden, dem Fehler und
+von der Person des Ersatzpflichtigen Kenntnis erlangt hat oder hätte
 erlangen müssen.
 
 (2) Schweben zwischen dem Ersatzpflichtigen und dem Ersatzberechtigten
@@ -233,8 +222,8 @@ die Verjährung anzuwenden.
 ## § 13 Erlöschen von Ansprüchen
 
 (1) Der Anspruch nach § 1 erlischt zehn Jahre nach dem Zeitpunkt, in
-dem der Hersteller das Produkt, das den Schaden verursacht hat, in den
-Verkehr gebracht hat. Dies gilt nicht, wenn über den Anspruch ein
+dem der Hersteller das Produkt, das den Schaden verursacht hat, in
+den Verkehr gebracht hat. Dies gilt nicht, wenn über den Anspruch ein
 Rechtsstreit oder ein Mahnverfahren anhängig ist.
 
 (2) Auf den rechtskräftig festgestellten Anspruch oder auf den
@@ -253,12 +242,12 @@ Vereinbarungen sind nichtig.
 
 ## § 15 Arzneimittelhaftung, Haftung nach anderen Rechtsvorschriften
 
-(1) Wird infolge der Anwendung eines zum Gebrauch bei Menschen
-bestimmten Arzneimittels, das im Geltungsbereich des
+(1) Wird infolge der Anwendung eines zum Gebrauch bei
+Menschen bestimmten Arzneimittels, das im Geltungsbereich des
 Arzneimittelgesetzes an den Verbraucher abgegeben wurde und der
-Pflicht zur Zulassung unterliegt oder durch Rechtsverordnung von der
-Zulassung befreit worden ist, jemand getötet, sein Körper oder seine
-Gesundheit verletzt, so sind die Vorschriften des
+Pflicht zur Zulassung unterliegt oder durch Rechtsverordnung von
+der Zulassung befreit worden ist, jemand getötet, sein Körper
+oder seine Gesundheit verletzt, so sind die Vorschriften des
 Produkthaftungsgesetzes nicht anzuwenden.
 
 (2) Eine Haftung aufgrund anderer Vorschriften bleibt unberührt.
@@ -273,9 +262,9 @@ Inkrafttreten in den Verkehr gebracht worden sind.
 ## § 17 Erlaß von Rechtsverordnungen
 
 Das Bundesministerium der Justiz und für Verbraucherschutz wird
-ermächtigt, durch Rechtsverordnung die Beträge der §§ 10 und 11 zu
-ändern oder das Außerkrafttreten des § 10 anzuordnen, wenn und soweit
-dies zur Umsetzung einer Richtlinie des Rates der Europäischen
+ermächtigt, durch Rechtsverordnung die Beträge der §§ 10 und 11
+zu ändern oder das Außerkrafttreten des § 10 anzuordnen, wenn und
+soweit dies zur Umsetzung einer Richtlinie des Rates der Europäischen
 Gemeinschaften auf der Grundlage der Artikel 16 Abs. 2 und 18 Abs. 2
 der Richtlinie des Rates vom 25. Juli 1985 zur Angleichung der Rechts-
 und Verwaltungsvorschriften der Mitgliedstaaten über die Haftung für

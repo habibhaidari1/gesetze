@@ -1,6 +1,5 @@
 ---
-Title: Verordnung zur Durchführung des Vertrages zwischen dem Deutschen Reich und
-  dem Königreich Schweden über Amts- und Rechtshilfe in Steuersachen
+Title: Verordnung zur Durchführung des Vertrages zwischen dem Deutschen Reich und dem Königreich Schweden über Amts- und Rechtshilfe in Steuersachen
 jurabk: RHiStVtrSWEDV
 layout: default
 origslug: rhistvtrswedv

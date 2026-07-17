@@ -16,22 +16,22 @@ Fundstelle
 :   BGBl I: 2019, 2763
 
 Zuletzt geändert durch
-:   Art. 5 G v. 16.7.2021 I 2931
+:   Art. 3 G v. 22.12.2025 I Nr. 363
 
 
 ## § 1 Anspruchsberechtigung
 
 (1) Anspruchsberechtigt sind Steuerpflichtige im Sinne des
-Einkommensteuer- und des Körperschaftsteuergesetzes, soweit sie
-Einkünfte nach § 2 Absatz 1 Satz 1 Nummer 1 bis 3 des
+Einkommensteuer- und des Körperschaftsteuergesetzes, soweit
+sie Einkünfte nach § 2 Absatz 1 Satz 1 Nummer 1 bis 3 des
 Einkommensteuergesetzes erzielen, nicht von der Besteuerung befreit
 sind und die in diesem Gesetz aufgeführten Voraussetzungen erfüllen.
 
-(2) Bei Mitunternehmerschaften nach § 15 Absatz 1 Satz 1 Nummer 2 des
-Einkommensteuergesetzes tritt an die Stelle des Steuerpflichtigen die
-Mitunternehmerschaft als Anspruchsberechtigter. Nach § 1a des
-Körperschaftsteuergesetzes optierende Gesellschaften sind als
-Steuerpflichtige im Sinne des Körperschaftsteuergesetzes
+(2) Bei Mitunternehmerschaften nach § 15 Absatz 1 Satz 1 Nummer 2
+des Einkommensteuergesetzes tritt an die Stelle des Steuerpflichtigen
+die Mitunternehmerschaft als Anspruchsberechtigter. Nach § 1a
+des Körperschaftsteuergesetzes optierende Gesellschaften sind
+als Steuerpflichtige im Sinne des Körperschaftsteuergesetzes
 anspruchsberechtigt.
 
 
@@ -47,10 +47,10 @@ soll durch diese Tätigkeit das Produktionssystem zum reibungslosen
 Funktionieren gebracht werden, kann diese Tätigkeit nicht mehr den in
 Absatz 1 genannten Kategorien zugerechnet werden.
 
-(3) Begünstigte Forschungs- und Entwicklungsvorhaben nach Absatz 1
-zielen darauf ab, eine genau definierte unteilbare Aufgabe
-ökonomischer, wissenschaftlicher oder technischer Art mit klar
-festgelegten Zielen durchzuführen. Ein Forschungs- und
+(3) Begünstigte Forschungs- und Entwicklungsvorhaben nach
+Absatz 1 zielen darauf ab, eine genau definierte unteilbare
+Aufgabe ökonomischer, wissenschaftlicher oder technischer Art
+mit klar festgelegten Zielen durchzuführen. Ein Forschungs- und
 Entwicklungsvorhaben kann aus mehreren Arbeitspaketen, Tätigkeiten
 oder Dienstleistungen bestehen. Es umfasst klare Ziele und die
 Tätigkeiten, die zur Erreichung dieser Ziele durchzuführen sind, sowie
@@ -66,23 +66,18 @@ durchgeführt werden
 
 1.  als eigenbetriebliche Forschung und/oder als Auftragsforschung,
 
-
 2.  als Kooperation von einem Anspruchsberechtigten mit mindestens einem
     anderen Unternehmen,
 
-
-3.  als Kooperation von einem Anspruchsberechtigten in Zusammenarbeit mit
-    einer oder mehreren Einrichtungen für Forschung und
+3.  als Kooperation von einem Anspruchsberechtigten in Zusammenarbeit
+    mit einer oder mehreren Einrichtungen für Forschung und
     Wissensverbreitung.
 
-
-
-
-(5) Werden Forschungs- und Entwicklungsvorhaben im Sinne des Absatzes
-1 in Auftrag gegeben, sind diese nur dann begünstigt, wenn der
-Auftragnehmer seine Geschäftsleitung in einem Mitgliedstaat der
-Europäischen Union hat oder in einem anderen Staat, auf den das
-Abkommen über den Europäischen Wirtschaftsraum (EWR-Abkommen)
+(5) Werden Forschungs- und Entwicklungsvorhaben im Sinne des
+Absatzes 1 in Auftrag gegeben, sind diese nur dann begünstigt, wenn
+der Auftragnehmer seine Geschäftsleitung in einem Mitgliedstaat
+der Europäischen Union hat oder in einem anderen Staat, auf den
+das Abkommen über den Europäischen Wirtschaftsraum (EWR-Abkommen)
 Anwendung findet und der aufgrund vertraglicher Verpflichtung
 Amtshilfe entsprechend dem EU-Amtshilfegesetz in einem Umfang leistet,
 der für die Überprüfung der Anspruchsvoraussetzungen erforderlich ist.
@@ -90,15 +85,15 @@ der für die Überprüfung der Anspruchsvoraussetzungen erforderlich ist.
 
 ## § 3 Förderfähige Aufwendungen und Bemessungsgrundlage
 
-(1) Förderfähige Aufwendungen sind die beim Anspruchsberechtigten dem
-Lohnsteuerabzug gemäß § 38 Absatz 1 des Einkommensteuergesetzes
+(1) Förderfähige Aufwendungen sind die beim Anspruchsberechtigten
+dem Lohnsteuerabzug gemäß § 38 Absatz 1 des Einkommensteuergesetzes
 unterliegenden Arbeitslöhne für Arbeitnehmer, die der Arbeitnehmer
 unmittelbar vom Arbeitgeber erhält, sowie die Ausgaben des
 Arbeitgebers für die Zukunftssicherung des Arbeitnehmers nach § 3
 Nummer 62 des Einkommensteuergesetzes. Die in Satz 1 bezeichneten
-Aufwendungen sind nur förderfähig, soweit die Arbeitnehmer mit
-Forschungs- und Entwicklungstätigkeiten in begünstigten Forschungs-
-und Entwicklungsvorhaben im Sinne des § 2 Absatz 1 des
+Aufwendungen sind nur förderfähig, soweit die Arbeitnehmer
+mit Forschungs- und Entwicklungstätigkeiten in begünstigten
+Forschungs- und Entwicklungsvorhaben im Sinne des § 2 Absatz 1 des
 Anspruchsberechtigten betraut sind. Zu den in den Sätzen 1 und 2
 bezeichneten Aufwendungen gehören auch solche aufgrund eines zwischen
 einer Kapitalgesellschaft und einem Gesellschafter oder Anteilseigner
@@ -119,43 +114,95 @@ Schweizerischen Eidgenossenschaft zugewiesen ist.
 Einzelunternehmers in einem begünstigten Forschungs- und
 Entwicklungsvorhaben. Je nachgewiesener Arbeitsstunde, die der
 Einzelunternehmer mit Forschungs- und Entwicklungstätigkeiten
-beschäftigt ist, sind 40 Euro je Arbeitsstunde bei insgesamt maximal
+beschäftigt ist, sind 100 Euro je Arbeitsstunde bei insgesamt maximal
 40 Arbeitsstunden pro Woche als förderfähige Aufwendungen anzusetzen.
 Haben Gesellschafter einer anspruchsberechtigten Mitunternehmerschaft
 vertraglich vereinbart, dass ein oder mehrere Gesellschafter für
 Forschungs- und Entwicklungstätigkeiten in begünstigten Forschungs-
-und Entwicklungsvorhaben eine Tätigkeitsvergütung erhalten, dann ist
-diese Tätigkeitsvergütung förderfähiger Aufwand, soweit sie 40 Euro je
-Arbeitsstunde bei maximal 40 Arbeitsstunden pro Woche nicht
-übersteigt. Voraussetzung ist, dass die Vereinbarung zivilrechtlich
-wirksam, ernsthaft gewollt und tatsächlich durchgeführt und so
-eindeutig und klar abgefasst ist, dass sie von anderen
+und Entwicklungsvorhaben eine Tätigkeitsvergütung erhalten,
+dann ist diese Tätigkeitsvergütung förderfähiger Aufwand, soweit
+sie 100 Euro je Arbeitsstunde bei maximal 40 Arbeitsstunden pro
+Woche nicht übersteigt. Voraussetzung ist, dass die Vereinbarung
+zivilrechtlich wirksam, ernsthaft gewollt und tatsächlich durchgeführt
+und so eindeutig und klar abgefasst ist, dass sie von anderen
 Tätigkeitsvergütungen im Dienste der Gesellschaft abgegrenzt werden
 kann.
 
-(4) Für in Auftrag gegebene Forschungs- und Entwicklungsvorhaben im
-Sinne des § 2 Absatz 5 betragen die förderfähigen Aufwendungen 60
-Prozent des beim Anspruchsberechtigten für den Auftrag entstandenen
-Entgelts. Werden in Auftrag gegebene Forschungs- und
-Entwicklungsvorhaben im Sinne des § 2 Absatz 5 vom Auftragnehmer ganz
-oder teilweise an Unterauftragnehmer weitervergeben, ist das für einen
-Unterauftrag entstandene Entgelt kein förderfähiger Aufwand.
+(3a) Zu den förderfähigen Aufwendungen eines nach dem 31. Dezember
+2023 beginnenden Wirtschaftsjahres gehört auch der Teil der
+Anschaffungs- und Herstellungskosten eines abnutzbaren beweglichen
+Wirtschaftsguts des Anlagevermögens, der auf die nach den Sätzen 3
+und 4 ermittelte Wertminderung entfällt, soweit dieses Wirtschaftsgut
+nach dem 27. März 2024 angeschafft oder hergestellt wurde, im
+begünstigten Forschungs- und Entwicklungsvorhaben ausschließlich
+eigenbetrieblich verwendet wird und für die Durchführung des
+Forschungs- und Entwicklungsvorhabens erforderlich ist. Satz 1 gilt
+nicht für Wirtschaftsgüter, für die die Bewertungsvorschriften des
+§ 6 Absatz 2 und 2a des Einkommensteuergesetzes angewendet werden.
+Die Wertminderung ermittelt sich nach den Grundsätzen ordnungsmäßiger
+Buchführung
+
+1.  im Jahr der Anschaffung oder Herstellung aus dem Unterschiedsbetrag
+    zwischen den Anschaffungs- oder Herstellungskosten und dem Wert des
+    Wirtschaftsgutes am Schluss des Wirtschaftsjahres,
+
+2.  in den Folgejahren aus dem Unterschiedsbetrag zwischen dem Wert des
+    Wirtschaftsgutes am Schluss des jeweiligen Wirtschaftsjahres und dem
+    Wert am Schluss des vorangegangenen Wirtschaftsjahres.
+
+Bei der Ermittlung der Wertminderung nach Satz 3 sind Wertminderungen
+nach § 6 Absatz 1 Nummer 1 Satz 2 des Einkommensteuergesetzes, erhöhte
+Absetzungen und Sonderabschreibungen zu berücksichtigen. Liegen
+die Voraussetzungen des Satzes 1 nicht im gesamten Wirtschaftsjahr
+vor, mindert sich der nach Satz 3 ermittelte förderfähige Aufwand
+um jeweils ein Zwölftel für jeden vollen Monat, in dem die
+Voraussetzungen nach Satz 1 nicht vorliegen.
+
+(3b) Zu den förderfähigen Aufwendungen gehört auch der pauschalisierte
+Betrag für zusätzliche Gemeinkosten und sonstige Betriebskosten
+nach Satz 2, die im Rahmen eines begünstigten Forschungs- und
+Entwicklungsvorhabens, welches nach dem 31. Dezember 2025 begonnen
+hat, entstanden sind. Die als förderfähige Aufwendungen zu
+berücksichtigenden Gemein- und Betriebskosten betragen pauschal 20
+Prozent der im Wirtschaftsjahr nach den Absätzen 1, 2, 3, 3a und 4
+entstandenen förderfähigen Aufwendungen.
+
+(4) Für vor dem 28. März 2024 in Auftrag gegebene Forschungs-
+und Entwicklungsvorhaben im Sinne des § 2 Absatz 5 betragen die
+förderfähigen Aufwendungen 60 Prozent des beim Anspruchsberechtigten
+für den Auftrag entstandenen Entgelts. Für nach dem 27. März 2024 in
+Auftrag gegebene Forschungs- und Entwicklungsvorhaben im Sinne des §
+2 Absatz 5 betragen die förderfähigen Aufwendungen 70 Prozent des beim
+Anspruchsberechtigten für den Auftrag entstandenen Entgelts. Werden in
+Auftrag gegebene Forschungs- und Entwicklungsvorhaben im Sinne des §
+2 Absatz 5 vom Auftragnehmer ganz oder teilweise an Unterauftragnehmer
+weitervergeben, ist das für einen Unterauftrag entstandene Entgelt
+kein förderfähiger Aufwand.
 
 (5) Bemessungsgrundlage sind die im Wirtschaftsjahr entstandenen
 förderfähigen Aufwendungen des Anspruchsberechtigten im Sinne der
-Absätze 1 bis 4, maximal 2 000 000 Euro. Für nach dem 30. Juni 2020
-und vor dem 1. Juli 2026 entstandene förderfähige Aufwendungen des
-Anspruchsberechtigten im Sinne der Absätze 1 bis 4 beträgt die
-Bemessungsgrundlage maximal 4 000 000 Euro.
+Absätze 1 bis 4. Die Bemessungsgrundlage beträgt höchstens für
 
-(6) Für Anspruchsberechtigte, die am Ende des Wirtschaftsjahres, für
-das die Forschungszulage beantragt wird, mit anderen Unternehmen
+1.  nach dem 1. Januar 2020 und vor dem 1. Juli 2020 entstandene
+    förderfähige Aufwendungen 2 000 000 Euro,
+
+2.  nach dem 30. Juni 2020 und vor dem 28. März 2024 entstandene
+    förderfähige Aufwendungen 4 000 000 Euro,
+
+3.  nach dem 27. März 2024 und vor dem 1. Januar 2026 entstandene
+    förderfähige Aufwendungen 10 000 000 Euro und
+
+4.  nach dem 31. Dezember 2025 entstandene förderfähige Aufwendungen 12
+    000 000 Euro.
+
+(6) Für Anspruchsberechtigte, die am Ende des Wirtschaftsjahres,
+für das die Forschungszulage beantragt wird, mit anderen Unternehmen
 verbunden sind, gilt die Grenze im Sinne des Absatzes 5 für die
 verbundenen Unternehmen insgesamt. In diesem Sinne gelten zwei oder
 mehr Unternehmen als miteinander verbunden, wenn ein Unternehmen auf
-ein anderes Unternehmen einen beherrschenden Einfluss im Sinne des §
-290 Absatz 2 bis 4 des Handelsgesetzbuchs ausübt. Maßgeblich ist die
-Bemessungsgrundlage eines Kalenderjahres. Ein Bescheid über die
+ein anderes Unternehmen einen beherrschenden Einfluss im Sinne des
+§ 290 Absatz 2 bis 4 des Handelsgesetzbuchs ausübt. Maßgeblich ist
+die Bemessungsgrundlage eines Kalenderjahres. Ein Bescheid über die
 Festsetzung von Forschungszulage für ein verbundenes Unternehmen kann
 auch, nachdem er bestandskräftig ist, noch geändert werden, wenn
 
@@ -163,66 +210,67 @@ auch, nachdem er bestandskräftig ist, noch geändert werden, wenn
     Kalenderjahr eines mit ihm verbundenen Unternehmens aufgehoben,
     geändert oder berichtigt wird und
 
-
-2.  diese Änderung Einfluss auf die Aufteilung des Höchstbetrages zwischen
-    den verbundenen Unternehmen hat. Das die Änderung begehrende
+2.  diese Änderung Einfluss auf die Aufteilung des Höchstbetrages
+    zwischen den verbundenen Unternehmen hat. Das die Änderung begehrende
     Unternehmen kann insoweit weitere förderfähige Aufwendungen geltend
     machen, wenn hierauf bisher aufgrund der Begrenzung des Höchstbetrages
     für verbundene Unternehmen verzichtet wurde.
 
-
-
-
-(7) Für Kooperationsvorhaben im Sinne des § 2 Absatz 4 Nummer 2 und 3
-gilt für jeden am Vorhaben beteiligten Anspruchsberechtigten die
-Bemessungsgrundlage im Sinne des Absatzes 5, soweit nicht die
+(7) Für Kooperationsvorhaben im Sinne des § 2 Absatz 4 Nummer 2
+und 3 gilt für jeden am Vorhaben beteiligten Anspruchsberechtigten
+die Bemessungsgrundlage im Sinne des Absatzes 5, soweit nicht die
 Voraussetzungen des Absatzes 6 vorliegen.
 
 
 ## § 4 Höhe der Forschungszulage
 
 (1) Die Forschungszulage beträgt 25 Prozent der Bemessungsgrundlage
-nach § 3 Absatz 5. Der Anspruch auf Forschungszulage entsteht mit
-Ablauf des Wirtschaftsjahres, in dem die förderfähigen Aufwendungen im
-Sinne des § 3 Absatz 1 und 2 vom Arbeitnehmer bezogen worden sind oder
-die nach § 3 Absatz 3 und 4 förderfähigen Aufwendungen beim
+nach § 3 Absatz 5. Anspruchsberechtigte, die als kleines und mittleres
+Unternehmen im Sinne der KMU-Definition des Anhang I der Allgemeinen
+Gruppenfreistellungsverordnung gelten, können zusätzlich eine Erhöhung
+der Forschungszulage um zehn Prozentpunkte beantragen.
+
+(2) Der Anspruch auf Forschungszulage entsteht mit Ablauf des
+Wirtschaftsjahres, in dem die förderfähigen Aufwendungen im
+Sinne des § 3 Absatz 1 und 2 vom Arbeitnehmer bezogen worden sind
+oder die nach § 3 Absatz 3 bis 4 förderfähigen Aufwendungen beim
 Anspruchsberechtigten entstanden sind.
 
-(2) Die Summe der für ein Forschungs- und Entwicklungsvorhaben
+(3) Die Summe der für ein Forschungs- und Entwicklungsvorhaben
 gewährten staatlichen Beihilfen darf einschließlich der
 Forschungszulagen nach diesem Gesetz pro Unternehmen und Forschungs-
-und Entwicklungsvorhaben den Betrag von 15 000 000 Euro nicht
+und Entwicklungsvorhaben den Betrag von 15 000 000 Euro nicht
 überschreiten.
 
 
 ## § 5 Antrag auf Forschungszulage
 
-(1) Der Anspruchsberechtigte hat nach Ablauf des Wirtschaftsjahres, in
-dem die förderfähigen Aufwendungen im Sinne des § 3 Absatz 1 und 2 vom
-Arbeitnehmer bezogen worden sind oder die nach § 3 Absatz 3 und 4
-förderfähigen Aufwendungen entstanden sind, einen Antrag auf
-Forschungszulage nach amtlich vorgeschriebenem Datensatz über die
-amtlich bestimmte Schnittstelle bei dem für die Besteuerung des
-Anspruchsberechtigten nach dem Einkommen zuständigen Finanzamt zu
-stellen. Dies gilt auch in Fällen, in denen die Einkünfte nach § 180
-Absatz 1 Satz 1 Nummer 2 Buchstabe b der Abgabenordnung gesondert
-festgestellt werden. Ist eine Mitunternehmerschaft
+(1) Der Anspruchsberechtigte hat nach Ablauf des Wirtschaftsjahres,
+in dem die förderfähigen Aufwendungen im Sinne des § 3 Absatz 1
+und 2 vom Arbeitnehmer bezogen worden sind oder die nach § 3 Absatz
+3 bis 4 förderfähigen Aufwendungen entstanden sind, einen Antrag
+auf Forschungszulage nach amtlich vorgeschriebenem Datensatz über
+die amtlich bestimmte Schnittstelle bei dem für die Besteuerung
+des Anspruchsberechtigten nach dem Einkommen zuständigen Finanzamt
+zu stellen. Dies gilt auch in Fällen, in denen die Einkünfte nach
+§ 180 Absatz 1 Satz 1 Nummer 2 Buchstabe b der Abgabenordnung
+gesondert festgestellt werden. Ist eine Mitunternehmerschaft
 Anspruchsberechtigter, so ist der Antrag bei dem Finanzamt zu stellen,
 das für die einheitliche und gesonderte Feststellung der Einkünfte
 zuständig ist.
 
 (2) In dem Antrag nach Absatz 1 sind die Forschungs- und
 Entwicklungsvorhaben, für die eine Forschungszulage beantragt wird,
-sowie die förderfähigen Aufwendungen im Sinne des § 3 Absatz 1 bis 4
-so genau zu bezeichnen, dass eine Überprüfung möglich ist. Die
+sowie die förderfähigen Aufwendungen im Sinne des § 3 Absatz 1 bis
+4 so genau zu bezeichnen, dass eine Überprüfung möglich ist. Die
 Verteilung der für verbundene Unternehmen maximal förderfähigen
 Bemessungsgrundlage nach § 3 Absatz 5 ist von jedem verbundenen
 Unternehmen im Antrag nach Absatz 1 anzugeben.
 
 (3) Für den Antrag ist eine Bescheinigung nach § 6 für die im Antrag
-aufgeführten Forschungs- und Entwicklungsvorhaben erforderlich. Der
-Anspruchsberechtigte hat im Antrag zu versichern, dass sich die im
-Rahmen des Bescheinigungsverfahrens nach § 6 erklärten und der
+aufgeführten Forschungs- und Entwicklungsvorhaben erforderlich.
+Der Anspruchsberechtigte hat im Antrag zu versichern, dass sich die
+im Rahmen des Bescheinigungsverfahrens nach § 6 erklärten und der
 Bescheinigung zu Grunde gelegten Sachverhalte nicht verändert haben.
 
 (4) In den Fällen des Absatzes 1 Satz 2 stellt das für die gesonderte
@@ -232,26 +280,35 @@ nach § 3 Absatz 1 bis 4 förderfähigen Aufwendungen gesondert fest.
 
 ## § 6 Bescheinigung
 
-(1) Grundlage für die Festsetzung der Forschungszulage ist eine
-Bescheinigung der auf Grundlage der nach § 14 zu erlassenen
-Rechtsverordnung bestimmten Stelle für jedes im Antrag aufgeführte
-Forschungs- und Entwicklungsvorhaben des Anspruchsberechtigten.
+(1) Grundlage für die Festsetzung der Forschungszulage ist
+für jedes im Antrag nach § 5 aufgeführte Forschungs- und
+Entwicklungsvorhaben des Anspruchsberechtigten eine Bescheinigung der
+Bescheinigungsstelle nach § 2 Absatz 1 Satz 2 der Forschungszulagen-
+Bescheinigungsverordnung.
 
-(2) Die Bescheinigung ist nach einem vom Bundesministerium der
-Finanzen in Abstimmung mit den obersten Finanzbehörden der Länder und
-im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie
-und dem Bundesministerium für Bildung und Forschung vorgeschriebenen
-Muster zu erstellen und hat die Feststellung zu enthalten, dass die
-Voraussetzungen des § 2 für das vom Antragsteller näher bezeichnete
-Forschungs- und Entwicklungsvorhaben vorliegen. Die Feststellung ist
-zu begründen.
+(2) Die Bescheinigung muss für jedes im Antrag nach § 5 aufgeführte
+Forschungs- und Entwicklungsvorhaben gesondert die Feststellung
+enthalten, dass die Voraussetzungen des § 2 vorliegen. Die
+Feststellung ist zu begründen.
 
-(3) Die erste Bescheinigung für ein Wirtschaftsjahr ist für den
-Antragsteller vorbehaltlich des Satzes 2 gebührenfrei. Im Fall
-weiterer Anträge auf Bescheinigung für Forschungs- und
+(3) Soweit im Antrag nach § 5 auch förderfähige Aufwendungen im Sinne
+des § 3 Absatz 3a geltend gemacht werden, muss die Bescheinigung auch
+die Feststellung enthalten, dass das jeweilige Wirtschaftsgut für die
+Durchführung des begünstigten Forschungs- und Entwicklungsvorhabens
+erforderlich ist.
+
+(4) Die Bescheinigung ist nach einem vom Bundesministerium der
+Finanzen in Abstimmung mit den obersten Finanzbehörden der Länder
+und im Einvernehmen mit dem Bundesministerium für Wirtschaft und
+Klimaschutz und dem Bundesministerium für Bildung und Forschung
+vorgeschriebenen Muster zu erstellen.
+
+(5) Die erste Bescheinigung für ein Wirtschaftsjahr ist für
+den Antragsteller vorbehaltlich des Satzes 2 gebührenfrei. Im
+Fall weiterer Anträge auf Bescheinigung für Forschungs- und
 Entwicklungsvorhaben desselben Wirtschaftsjahres können ab der
 Ausstellung der zweiten Bescheinigung nach Absatz 1 Gebühren und
-Auslagen nach Maßgabe des Bundesgebührengesetzes erhoben werden.
+Auslagen erhoben werden.
 
 
 ## § 7 Kumulierung mit anderen Förderungen oder staatlichen Beihilfen
@@ -283,71 +340,65 @@ Januar 2020 begonnen wird oder für die der Auftrag nach dem 1. Januar
 (1) Auf dieses Gesetz findet vorbehaltlich des Absatzes 5 die
 Verordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni 2014 zur
 Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen mit
-dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über
-die Arbeitsweise der Europäischen Union, im Folgenden Allgemeine
+dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags
+über die Arbeitsweise der Europäischen Union, im Folgenden Allgemeine
 Gruppenfreistellungsverordnung (AGVO) (ABl. L 187 vom 26.6.2014, S.
 1), in der jeweils geltenden Fassung Anwendung.
 
-(2) Ein Anspruch nach diesem Gesetz besteht nicht für Unternehmen in
-Schwierigkeiten im Sinne des Artikels 1 Absatz 4 Buchstabe c und des
-Artikels 2 Nummer 18 AGVO und soweit die Anwendung der AGVO nach
+(2) Ein Anspruch nach diesem Gesetz besteht nicht für Unternehmen
+in Schwierigkeiten im Sinne des Artikels 1 Absatz 4 Buchstabe c und
+des Artikels 2 Nummer 18 AGVO und soweit die Anwendung der AGVO nach
 Artikel 1 Absatz 3 AGVO ausgeschlossen ist.
 
 (3) Die Gewährung der Forschungszulage ist nicht zulässig, solange
 derjenige, der die Forschungszulage beantragt, zu einer Rückzahlung
-von Beihilfen aufgrund eines früheren Beschlusses der Kommission zur
-Feststellung der Unzulässigkeit einer Beihilfe und ihrer
+von Beihilfen aufgrund eines früheren Beschlusses der Kommission
+zur Feststellung der Unzulässigkeit einer Beihilfe und ihrer
 Unvereinbarkeit mit dem Binnenmarkt verpflichtet worden und dieser
 Rückzahlungsanforderung nicht nachgekommen ist.
 
-(4) In den Antrag nach § 5 sind die Angaben aufzunehmen, die für die
-Feststellung der Voraussetzungen nach den Absätzen 1 bis 3
+(4) In den Antrag nach § 5 sind die Angaben aufzunehmen, die für
+die Feststellung der Voraussetzungen nach den Absätzen 1 bis 3
 erforderlich sind.
 
 (5) Die Forschungszulage kann für den Teil der Bemessungsgrundlage,
-der auf Aufwendungen im Sinne des § 3 Absatz 3 entfällt, nur gewährt
-werden, soweit die Voraussetzungen der Verordnung (EU) Nr. 1407/2013
-der Kommission vom 18. Dezember 2013 über die Anwendung der Artikel
-107 und 108 des Vertrags über die Arbeitsweise der Europäischen Union
-auf De-minimis-Beihilfen (ABl. L 352 vom 24.12.2013, S. 1) (De-
-minimis-Verordnung) in der jeweils geltenden Fassung eingehalten sind.
-Unter anderem darf hiernach der Gesamtbetrag der einem einzigen
-Unternehmen gewährten De-minimis-Beihilfe in einem Zeitraum von drei
-Veranlagungszeiträumen maximal 200 000 Euro nicht übersteigen. Bei
-dieser Höchstgrenze sind auch andere in diesem Zeitraum an das
-Unternehmen gewährte De-minimis-Beihilfen gleich welcher Art und
-Zielsetzung zu berücksichtigen. Die Forschungszulage kann insoweit
-erst gewährt werden, wenn der Anspruchsberechtigte in geeigneter Weise
-den Nachweis erbracht hat, in welcher Höhe ihm in den beiden
-vorangegangenen sowie im laufenden Veranlagungszeitraum De-minimis-
-Beihilfen gewährt worden sind, für die die vorliegende oder andere De-
-minimis-Verordnungen gelten, und nur soweit, wie die Voraussetzungen
-der De-minimis-Verordnung bei dem Unternehmen im Sinne der De-minimis-
-Verordnung eingehalten werden.
+der auf Aufwendungen im Sinne des § 3 Absatz 3 Satz 1 und 2 entfällt,
+nur gewährt werden, soweit die Voraussetzungen der Verordnung (EU)
+2023/2831 eingehalten sind und dies durch den Anspruchsberechtigten in
+geeigneter Weise nachgewiesen wird.
 
 
 ## § 10 Festsetzung und Leistung der Forschungszulage
 
 (1) Die Forschungszulage ist in einem Forschungszulagenbescheid
-festzusetzen. Die festgesetzte Forschungszulage wird im Rahmen der
-nächsten erstmaligen Festsetzung von Einkommen- oder
+festzusetzen. Die festgesetzte Forschungszulage wird im Rahmen
+der nächsten erstmaligen Festsetzung von Einkommen- oder
 Körperschaftsteuer vollständig auf die festgesetzte Steuer
 angerechnet. Ergibt sich nach der Anrechnung nach Satz 2 ein
 Überschuss zugunsten des Steuerpflichtigen, wird dieser dem
-Steuerpflichtigen als Einkommensteuererstattung aus den Einnahmen an
-Einkommensteuer oder als Körperschaftsteuererstattung bei
+Steuerpflichtigen als Einkommensteuererstattung aus den Einnahmen
+an Einkommensteuer oder als Körperschaftsteuererstattung bei
 Steuerpflichtigen im Sinne des Körperschaftsteuergesetzes aus den
 Einnahmen an Körperschaftsteuer ausgezahlt.
 
 (2) Bei Anspruchsberechtigten im Sinne des § 1 Absatz 2 erfolgt die
 Anrechnung nach Absatz 1 Satz 2 anteilig im Rahmen der jeweiligen
-Veranlagung zur Einkommen- oder Körperschaftsteuer. Die Anteile an der
-anzurechnenden Forschungszulage sind gesondert und einheitlich
+Veranlagung zur Einkommen- oder Körperschaftsteuer. Die Anteile an
+der anzurechnenden Forschungszulage sind gesondert und einheitlich
 gegenüber den Mitunternehmern festzustellen. Maßstab für die
 Verteilung ist der jeweils vereinbarte Gewinnverteilungsschlüssel.
 Wird der Forschungszulagenbescheid aufgehoben oder geändert, ist die
-gesonderte und einheitliche Feststellung nach Satz 2 entsprechend zu
-ändern.
+gesonderte und einheitliche Feststellung nach Satz 2 entsprechend
+zu ändern.
+
+(2a) Wenn im Zeitpunkt der Festsetzung der Forschungszulage die
+Steuererklärung für die nächste erstmalige Festsetzung von Einkommen-
+oder Körperschaftsteuer noch nicht abgegeben worden ist und die
+Vorauszahlungen nach § 37 Absatz 3 Satz 3 des Einkommensteuergesetzes
+für den letzten noch nicht veranlagten Zeitraum angepasst
+werden können, hat das Finanzamt die Vorauszahlungen für diesen
+Veranlagungszeitraum um die festgesetzte Forschungszulage, jedoch
+höchstens auf 0 Euro, auf Antrag herabzusetzen.
 
 (3) Wird der Forschungszulagenbescheid aufgehoben oder geändert, ist
 die nach Absatz 1 Satz 2 oder Absatz 2 Satz 1 erfolgte Anrechnung
@@ -357,15 +408,15 @@ entsprechend zu ändern.
 ## § 11 Verzinsung des Rückforderungsanspruchs
 
 Ist der Forschungszulagenbescheid nach § 10 aufgehoben oder
-zuungunsten des Anspruchsberechtigten geändert worden, ist der
-Rückzahlungsanspruch nach Maßgabe der §§ 238 und 239 der
-Abgabenordnung vom Tag der Anrechnung der Forschungszulage an zu
-verzinsen. Der Zinslauf endet mit Ablauf des Tages, an dem der
-geänderte Forschungszulagenbescheid wirksam geworden ist. Maßgebend
-für die Zinsberechnung ist die Differenz zwischen der neu
-festgesetzten Forschungszulage und der vorher festgesetzten
-Forschungszulage. Zinsschuldner ist, bei wem die Forschungszulage nach
-§ 10 Absatz 1 und/oder Absatz 2 auf die Einkommen- oder
+zuungunsten des Anspruchsberechtigten geändert worden, ist
+der Rückzahlungsanspruch nach Maßgabe der §§ 238 und 239 der
+Abgabenordnung vom Tag der Anrechnung der Forschungszulage an
+zu verzinsen. Der Zinslauf endet mit Ablauf des Tages, an dem
+der geänderte Forschungszulagenbescheid wirksam geworden ist.
+Maßgebend für die Zinsberechnung ist die Differenz zwischen der
+neu festgesetzten Forschungszulage und der vorher festgesetzten
+Forschungszulage. Zinsschuldner ist, bei wem die Forschungszulage
+nach § 10 Absatz 1 und/oder Absatz 2 auf die Einkommen- oder
 Körperschaftsteuer angerechnet wurde. Die Festsetzungsfrist beginnt
 mit Ablauf des Kalenderjahres, in dem der Forschungszulagenbescheid
 aufgehoben oder geändert worden ist.
@@ -382,12 +433,12 @@ Finanzrechtsweg gegeben.
 
 ## § 13 Verfolgung von Straftaten
 
-Für die Forschungszulage gelten die Strafvorschriften des § 370 Absatz
-1 bis 4, der §§ 371, 375 Absatz 1 und des § 376 sowie die
-Bußgeldvorschriften der §§ 378 und 379 Absatz 1 und 4 und der §§ 383
-und 384 der Abgabenordnung entsprechend. Für das Strafverfahren wegen
-einer Straftat nach Satz 1 sowie der Begünstigung einer Person, die
-eine solche Tat begangen hat, gelten die §§ 385 bis 408, für das
+Für die Forschungszulage gelten die Strafvorschriften des § 370
+Absatz 1 bis 4, der §§ 371, 375 Absatz 1 und des § 376 sowie die
+Bußgeldvorschriften der §§ 378 und 379 Absatz 1 und 4 und der §§
+383 und 384 der Abgabenordnung entsprechend. Für das Strafverfahren
+wegen einer Straftat nach Satz 1 sowie der Begünstigung einer Person,
+die eine solche Tat begangen hat, gelten die §§ 385 bis 408, für das
 Bußgeldverfahren wegen einer Ordnungswidrigkeit nach Satz 1 die §§ 409
 bis 412 der Abgabenordnung entsprechend.
 
@@ -405,36 +456,25 @@ Bundesministerium für Wirtschaft und Energie
     a)  die für die Ausstellung der Bescheinigungen im Sinne des § 6
         erforderlichen Handlungen durchzuführen,
 
-
     b)  die Bescheinigung für den Antragsteller auszustellen,
-
 
     c)  eine Geschäftsstatistik über die Verfahren nach § 6 durchzuführen und
 
-
-    d)  erforderliche Einzelangaben bei den Antragstellern im Rahmen des
-        Bescheinigungsverfahrens nach § 6 für die Evaluierung dieses Gesetzes
-        (§ 17) zu erheben und weitere freiwillige Erhebungen bei den
+    d)  erforderliche Einzelangaben bei den Antragstellern im Rahmen
+        des Bescheinigungsverfahrens nach § 6 für die Evaluierung dieses
+        Gesetzes (§ 17) zu erheben und weitere freiwillige Erhebungen bei den
         Antragstellern durchzuführen.
-
-
-
-
 
 2.  Verfahrensvorschriften zu § 2 zu erlassen, insbesondere zur
     inhaltlichen Beurteilung der Forschungs- und Entwicklungsvorhaben
     sowie zum Verfahren zur Beantragung der nach § 6 erforderlichen
     Bescheinigung,
 
-
-3.  die im Zusammenhang mit der Ausstellung der Bescheinigungen nach § 6
-    zu erhebenden Gebühren und Auslagen im Einvernehmen mit dem
+3.  die im Zusammenhang mit der Ausstellung der Bescheinigungen nach
+    § 6 zu erhebenden Gebühren und Auslagen im Einvernehmen mit dem
     Bundesministerium für Wirtschaft und Energie und dem Bundesministerium
     der Finanzen näher zu bestimmen und dabei feste Sätze oder Rahmensätze
     vorzusehen.
-
-
-
 
 (2) Das Bundesministerium der Finanzen wird ermächtigt, zur
 Durchführung des Gesetzes durch Rechtsverordnung mit Zustimmung des
@@ -463,12 +503,23 @@ Rechtsaktes, der an die Stelle der AGVO tritt, anwendbar.
 1.  den Beschluss der Europäischen Kommission gemäß Artikel 1 Absatz 2
     Buchstabe a AGVO sowie
 
-
 2.  den Tag des Wegfalls der Freistellungsvoraussetzungen
 
-
-
 im Bundesgesetzblatt bekannt zu machen.
+
+
+## § 16a Anonymisierung und Datenverarbeitung
+
+Das Bundesministerium für Bildung und Forschung und
+die Bescheinigungsstelle nach § 2 Absatz 1 Satz 2 der
+Forschungszulagen-Bescheinigungsverordnung dürfen die im Rahmen
+des Bescheinigungsverfahrens nach § 6 erhobenen Einzelangaben der
+Antragsteller anonymisieren und in anonymisierter Form für weitere
+Datenanalysen zum Zweck der Verfahrensverbesserungen verarbeiten.
+Das Bundesministerium für Bildung und Forschung darf die Daten
+in anonymisierter Form für weitere Datenanalysen zum Zweck der
+Ausgestaltung anderer Fördermaßnahmen sowie politikberatender
+Maßnahmen im Bereich Forschung und Entwicklung verarbeiten.
 
 
 ## § 17 Evaluierung und wissenschaftliche Forschung
@@ -483,29 +534,30 @@ Einzelangaben der Antragsteller dürfen
 
 1.  zum Zweck der Evaluierung verarbeitet und an die mit der Evaluierung
     des Gesetzes betrauten Stelle, soweit diese Angaben für die
-    Evaluierung erforderlich sind, und
+    Evaluierung erforderlich sind,
 
+2.  in anonymisierter Form an die die Erhebungen gemäß
+    Durchführungsverordnung (EU) Nr. 995/2012 der Kommission vom 26.
+    Oktober 2012 mit Durchführungsvorschriften zur Entscheidung Nr.
+    1608/2003/EG des Europäischen Parlaments und des Rates zur Erstellung
+    und Entwicklung von Gemeinschaftsstatistiken über Wissenschaft
+    und Technologie (ABl. L 299 vom 27.10.2012, S. 18) in der jeweils
+    geltenden Fassung durchführenden Stellen, zum Zweck der Evaluierung,
+    weiterer wissenschaftlicher Forschung und zur Qualitätssicherung der
+    genannten Erhebungen, und
 
-2.  an die die Erhebungen gemäß Durchführungsverordnung (EU) Nr. 995/2012
-    der Kommission vom 26. Oktober 2012 mit Durchführungsvorschriften zur
-    Entscheidung Nr. 1608/2003/EG des Europäischen Parlaments und des
-    Rates zur Erstellung und Entwicklung von Gemeinschaftsstatistiken über
-    Wissenschaft und Technologie (ABl. L 299 vom 27.10.2012, S. 18) in der
-    jeweils geltenden Fassung durchführenden Stellen, zum Zweck der
-    Evaluierung, weiterer wissenschaftlicher Forschung und zur
-    Qualitätssicherung der genannten Erhebungen
-
-
+3.  zum Zweck weiterer wissenschaftlicher Forschung in anonymisierter
+    Form an in einem Mitgliedstaat der Europäischen Union ansässige
+    Forschungseinrichtungen
 
 übermittelt werden. Diese Empfänger der Daten dürfen die Daten nur zu
 dem Zweck verarbeiten, zu dem sie ihnen übermittelt worden sind. Sie
-sind nach Abschluss der Evaluierung und der wissenschaftlichen
-Forschung zu löschen.
+sind nach Abschluss der jeweiligen Arbeiten zu löschen.
 
-(3) Die Daten dürfen durch die aufgrund der Rechtsverordnung nach § 14
-Absatz 1 Nummer 1 zu bestimmende Stelle sowie durch die mit der
-Evaluierung des Gesetzes betrauten Stelle nur durch Personen
-verarbeitet werden, die zur Wahrung des Steuergeheimnisses
+(3) Die Daten dürfen durch die Bescheinigungsstelle nach § 2 Absatz
+1 Satz 2 der Forschungszulagen-Bescheinigungsverordnung sowie durch
+die mit der Evaluierung des Gesetzes betrauten Stelle nur durch
+Personen verarbeitet werden, die zur Wahrung des Steuergeheimnisses
 verpflichtet worden sind.
 
 (4) Die Ergebnisse der Evaluierung sowie der weiteren

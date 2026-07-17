@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl I: 1953, 663
 
 
-
 ## Eingangsformel
 
 Auf Grund des § 6 des Erlasses über die Stiftung des Grubenwehr-
@@ -28,11 +27,11 @@ Behandlung der Vorschläge folgendes bestimmt:
 
 (1) Die Vorschläge für die Verleihung des Grubenwehr-Ehrenzeichens
 sind von den Ministerpräsidenten der Länder, dem Regierenden
-Bürgermeister der Stadt Berlin, dem Präsidenten des Senats der Freien
-Hansestadt Bremen und dem Präsidenten des Senats der Freien und
-Hansestadt Hamburg für den Bereich ihrer Länder in doppelter
-Ausfertigung nach anliegendem Vordruck alphabetisch geordnet an den
-Chef des Bundespräsidialamtes einzureichen. Dieser holt die
+Bürgermeister der Stadt Berlin, dem Präsidenten des Senats der
+Freien Hansestadt Bremen und dem Präsidenten des Senats der Freien
+und Hansestadt Hamburg für den Bereich ihrer Länder in doppelter
+Ausfertigung nach anliegendem Vordruck alphabetisch geordnet an
+den Chef des Bundespräsidialamtes einzureichen. Dieser holt die
 Entscheidung des Bundespräsidenten ein.
 
 (2) Die Vorschläge für die Verleihung des Grubenwehr-Ehrenzeichens
@@ -56,9 +55,9 @@ Abs. 3) mit.
 ## § 3
 
 Personen, denen auf Grund der Verordnung vom 30. Januar 1938
-(Reichsgesetzbl. I S. 83) das Grubenwehr-Ehrenzeichen verliehen worden
-ist, können den Umtausch dieses Ehrenzeichens in das neu gestiftete
-Grubenwehr-Ehrenzeichen in Silber bei den in § 1 genannten
+(Reichsgesetzbl. I S. 83) das Grubenwehr-Ehrenzeichen verliehen
+worden ist, können den Umtausch dieses Ehrenzeichens in das neu
+gestiftete Grubenwehr-Ehrenzeichen in Silber bei den in § 1 genannten
 Vorschlagsberechtigten beantragen.
 
 

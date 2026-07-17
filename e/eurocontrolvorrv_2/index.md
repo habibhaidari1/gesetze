@@ -1,6 +1,5 @@
 ---
-Title: Zweite Verordnung über die Gewährung von Vorrechten und Befreiungen an die
-  Europäische Organisation zur Sicherung der Luftfahrt "EUROCONTROL"
+Title: "Zweite Verordnung über die Gewährung von Vorrechten und Befreiungen an die Europäische Organisation zur Sicherung der Luftfahrt \"EUROCONTROL\""
 jurabk: EUROCONTROLVorRV 2
 layout: default
 origslug: eurocontrolvorrv_2
@@ -35,20 +34,20 @@ des Bundesrates:
 ## § 1
 
 Für die Europäische Organisation zur Sicherung der Luftfahrt
-EUROCONTROL und die Mitglieder ihres Personals, die dem System der
-sozialen Sicherheit der Organisation unterliegen, gelten nicht die
-deutschen Rechtsvorschriften über die Versicherungspflicht in der
-gesetzlichen Rentenversicherung, Unfallversicherung,
+EUROCONTROL und die Mitglieder ihres Personals, die dem System
+der sozialen Sicherheit der Organisation unterliegen, gelten nicht
+die deutschen Rechtsvorschriften über die Versicherungspflicht
+in der gesetzlichen Rentenversicherung, Unfallversicherung,
 Krankenversicherung und die Pflegeversicherung sowie über das
-Kindergeld und die Versicherungs- und Umlagepflicht nach dem Recht der
-Arbeitsförderung.
+Kindergeld und die Versicherungs- und Umlagepflicht nach dem Recht
+der Arbeitsförderung.
 
 
 ## § 2
 
-Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
-Verbindung mit Artikel 4 des Gesetzes vom 22. Juni 1954 über den
-Beitritt der Bundesrepublik Deutschland zum Abkommen über die
+Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes
+in Verbindung mit Artikel 4 des Gesetzes vom 22. Juni 1954 über
+den Beitritt der Bundesrepublik Deutschland zum Abkommen über die
 Vorrechte und Befreiungen der Sonderorganisationen der Vereinten
 Nationen vom 21. November 1947 und über die Gewährung von Vorrechten
 und Befreiungen an andere zwischenstaatliche Organisationen, der durch

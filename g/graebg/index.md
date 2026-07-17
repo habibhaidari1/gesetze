@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 16.1.2012 I 98
 
 Zuletzt geändert durch
-:   Art. 3 Ab. 2 G v. 4.12.2018 I 2257; 2019 I 496
+:   Art. 3 Abs. 2 G v. 4.12.2018 I 2257; 2019 I 496
 
 
 ## § 1 Anwendungsbereich
@@ -33,68 +33,56 @@ Gewaltherrschaft haben.
 liegende
 
 1.  Gräber von Personen nach § 5 des Gesetzes über die Erhaltung der
-    Kriegergräber aus dem Weltkrieg vom 29. Dezember 1922 (RGBl. 1923 I S.
-    25),
+    Kriegergräber aus dem Weltkrieg vom 29. Dezember 1922 (RGBl. 1923 I
+    S. 25),
 
-
-2.  Gräber von Personen, die in der Zeit vom 26. August 1939 bis 31. März
-    1952 während ihres militärischen oder militärähnlichen Dienstes
+2.  Gräber von Personen, die in der Zeit vom 26. August 1939 bis 31.
+    März 1952 während ihres militärischen oder militärähnlichen Dienstes
     gefallen oder tödlich verunglückt oder an den Folgen der in diesen
     Diensten erlittenen Gesundheitsschädigungen gestorben sind, ferner
     Gräber von Personen, die während der Kriegsgefangenschaft oder an
     deren Folgen bis 31. März 1952 oder innerhalb eines Jahres nach
     Beendigung der Kriegsgefangenschaft gestorben sind,
 
-
 3.  Gräber von Zivilpersonen, die in der Zeit vom 1. September 1939 bis
     31\. März 1952 durch unmittelbare Kriegseinwirkung zu Tode gekommen
     oder an den Folgen der durch unmittelbare Kriegseinwirkungen
     erlittenen Gesundheitsschädigungen gestorben sind,
 
-
 4.  Gräber von Personen, die als Opfer nationalsozialistischer
     Gewaltmaßnahmen seit dem 30. Januar 1933 ums Leben gekommen sind oder
     an deren Folgen bis 31. März 1952 gestorben sind,
-
 
 5.  Gräber von Personen, die auf Grund von rechtsstaatswidrigen Maßnahmen
     als Opfer des kommunistischen Regimes ums Leben gekommen sind oder
     Gesundheitsschäden erlitten haben, an deren Folgen sie innerhalb eines
     Jahres nach Beendigung dieser Maßnahmen gestorben sind,
 
-
 6.  Gräber von Vertriebenen nach § 1 des Bundesvertriebenengesetzes, die
     in der Zeit seit 1. September 1939 während der Umsiedlung bis 8. Mai
     1945 oder während der Vertreibung oder der Flucht bis 31. März 1952
     gestorben sind,
 
-
 7.  Gräber von Deutschen, die in der Zeit seit 1. September 1939
-    verschleppt wurden und während der Verschleppung oder innerhalb eines
-    Jahres nach ihrer Beendigung an den Folgen der dabei erlittenen
+    verschleppt wurden und während der Verschleppung oder innerhalb
+    eines Jahres nach ihrer Beendigung an den Folgen der dabei erlittenen
     Gesundheitsschädigungen gestorben sind,
-
 
 8.  Gräber von Personen, die in der Zeit vom 1. September 1939 bis 8. Mai
     1945 in Internierungslagern unter deutscher Verwaltung gestorben sind,
 
-
-9.  Gräber von Personen, die in der Zeit vom 1. September 1939 bis 8. Mai
-    1945 zur Leistung von Arbeiten in das Gebiet des Deutschen Reichs
+9.  Gräber von Personen, die in der Zeit vom 1. September 1939 bis 8.
+    Mai 1945 zur Leistung von Arbeiten in das Gebiet des Deutschen Reichs
     verschleppt oder in diesem Gebiet gegen ihren Willen festgehalten
     worden waren und während dieser Zeit gestorben sind,
 
-
 10. Gräber der von einer anerkannten internationalen
     Flüchtlingsorganisation in Sammellagern betreuten Ausländer, die dort
-    oder nach ihrer Überführung in eine Krankenanstalt in der Zeit vom 9.
-    Mai 1945 bis 30. Juni 1950 gestorben sind. Ist die Verwaltung des
+    oder nach ihrer Überführung in eine Krankenanstalt in der Zeit vom
+    9\. Mai 1945 bis 30. Juni 1950 gestorben sind. Ist die Verwaltung des
     Sammellagers nach dem 1. Juli 1950 in die Zuständigkeit deutscher
     Stellen übergegangen, tritt der Tag vor der Übernahme in deutsche
     Verwaltung anstelle des 30. Juni 1950.
-
-
-
 
 (2a) In unklaren Fällen zu § 1 Absatz 2 Nummer 1, 2 und 8 kann ein
 Bestätigungsnachweis durch das Bundesarchiv erbracht werden.
@@ -131,17 +119,17 @@ ist von dem Land, in dem das Grundstück liegt, eine Entschädigung in
 Geld zu leisten.
 
 (2) Gebietskörperschaften können keine neuen Ansprüche mehr geltend
-machen und keine Anträge auf Erhöhung der Ruherechtsentschädigung mehr
-stellen.
+machen und keine Anträge auf Erhöhung der Ruherechtsentschädigung
+mehr stellen.
 
 (3) Die Entschädigung ist nach dem Wert der durch die Belegung mit
 Gräbern geminderten oder entgangenen Nutzung zu bemessen, wobei
 Zustand und Nutzungsart des Grundstücks zur Zeit der Belegung
 maßgebend sind.
 
-(4) Ist der Wert der geminderten oder entgangenen Nutzung nicht oder
-nur mit unverhältnismäßig großem Verwaltungsaufwand zu ermitteln, kann
-die ortsübliche Pacht für Grundstücke, die nach Lage,
+(4) Ist der Wert der geminderten oder entgangenen Nutzung nicht
+oder nur mit unverhältnismäßig großem Verwaltungsaufwand zu
+ermitteln, kann die ortsübliche Pacht für Grundstücke, die nach Lage,
 Bodenbeschaffenheit, Zustand und Nutzungsart vergleichbar sind, als
 Bemessungsmaßstab herangezogen werden.
 
@@ -164,21 +152,17 @@ zu zahlen.
 1.  die Nutzung des Grundstücks durch die öffentliche Last nach § 2
     unwesentlich beeinträchtigt wird,
 
-
 2.  die Kosten für den Grundstückserwerb nach § 4 oder § 10 Absatz 2
     Nummer 2 getragen worden sind,
 
-
 3.  der Bund dem Eigentümer das Grundstück unentgeltlich übertragen hat.
 
-
-
-Bei Gräbern nach § 1 auf Friedhöfen mit einer Gebührenordnung gilt die
-Beeinträchtigung nach Nummer 1 als unwesentlich, wenn die Nutzung des
-Friedhofs durch die öffentliche Last 5 vom Hundert der im Jahr der
+Bei Gräbern nach § 1 auf Friedhöfen mit einer Gebührenordnung gilt
+die Beeinträchtigung nach Nummer 1 als unwesentlich, wenn die Nutzung
+des Friedhofs durch die öffentliche Last 5 vom Hundert der im Jahr der
 Belegung mit Gräbern nach § 1 oder bei einer späteren Antragstellung
-der in diesem Jahr vereinnahmten Grabgebühren nicht übersteigt. Bei
-Gräbern nach § 1 Absatz 2 auf sonstigen Grundstücken gilt die
+der in diesem Jahr vereinnahmten Grabgebühren nicht übersteigt.
+Bei Gräbern nach § 1 Absatz 2 auf sonstigen Grundstücken gilt die
 Beeinträchtigung nach Nummer 1 als unwesentlich, wenn die Nutzung des
 Grundstücks durch die öffentliche Last 5 vom Hundert der Gesamtfläche
 nicht übersteigt.
@@ -189,9 +173,9 @@ nicht übersteigt.
 (1) Wird dem Eigentümer eines Grundstücks durch die öffentliche Last
 nach § 2 die bisher zulässige Nutzung des Grundstücks unzumutbar
 erschwert, kann er die Übernahme des Grundstücks verlangen. Treffen
-diese Voraussetzungen nur für einen Teil des Grundstücks zu, kann nur
-die Übernahme dieses Teils verlangt werden, es sei denn, dass der
-übrige Teil für den Eigentümer keinen oder einen verhältnismäßig
+diese Voraussetzungen nur für einen Teil des Grundstücks zu, kann
+nur die Übernahme dieses Teils verlangt werden, es sei denn, dass
+der übrige Teil für den Eigentümer keinen oder einen verhältnismäßig
 geringen Wert hätte.
 
 (2) Wird die Übernahme eines Grundstücks verlangt, gelten § 11 Abs. 1,
@@ -205,25 +189,18 @@ Fassung entsprechend mit folgender Maßgabe:
 1.  In § 11 Abs. 1 des genannten Gesetzes tritt an Stelle des Antrags das
     Verlangen des Eigentümers.
 
-
-2.  An Stelle des Bundes als Beteiligten am Enteignungsverfahren tritt das
-    Land, in dem das Grundstück liegt. Entsprechendes gilt für die
+2.  An Stelle des Bundes als Beteiligten am Enteignungsverfahren tritt
+    das Land, in dem das Grundstück liegt. Entsprechendes gilt für die
     Verpflichtung zur Zahlung der Entschädigung.
-
 
 3.  Bei der Planprüfung ist das in § 32 des genannten Gesetzes bezeichnete
     Verfahren anzuwenden.
 
-
 4.  Entschädigung in Land oder durch Naturalwertrente wird nicht gewährt.
-
 
 5.  Für die Angabe der Eigentumsverhältnisse nach der Enteignung gemäß §
     47 Abs. 3 Nr. 7 des genannten Gesetzes gelten die Sätze 1 und 2 des §
     12 Abs. 2 entsprechend.
-
-
-
 
 (3) Juristische Personen des öffentlichen Rechts können einen Anspruch
 nach Absatz 1 nicht geltend machen.
@@ -231,16 +208,16 @@ nach Absatz 1 nicht geltend machen.
 
 ## § 5 Feststellung und Erhaltung von Gräbern
 
-(1) Die Länder haben die in ihrem Gebiet liegenden Gräber nach § 1
-festzustellen, in Listen nachzuweisen und diese Listen auf dem
+(1) Die Länder haben die in ihrem Gebiet liegenden Gräber nach §
+1 festzustellen, in Listen nachzuweisen und diese Listen auf dem
 Laufenden zu halten.
 
 (2) Demjenigen, der ein berechtigtes Interesse darlegt, ist Auskunft
 darüber zu erteilen, ob auf einem Grundstück ein Grab nach § 1 liegt.
 
-(3) Die Länder haben die in ihrem Gebiet liegenden Gräber nach § 1 zu
-erhalten. Maßnahmen zur Erhaltung sind Anlegung, Instandsetzung und
-Pflege.
+(3) Die Länder haben die in ihrem Gebiet liegenden Gräber nach § 1
+zu erhalten. Maßnahmen zur Erhaltung sind Anlegung, Instandsetzung
+und Pflege.
 
 
 ## § 6 Verlegung von Gräbern
@@ -260,22 +237,22 @@ Friedhofs.
 
 ## § 7 Herausgabe von Gegenständen
 
-Wer Unterlagen zur Person oder Nachlassgegenstände der in § 1
-genannten Personen sowie Verlustunterlagen der ehemaligen deutschen
-Wehrmacht (Truppenlisten und -meldungen,
+Wer Unterlagen zur Person oder Nachlassgegenstände der
+in § 1 genannten Personen sowie Verlustunterlagen der
+ehemaligen deutschen Wehrmacht (Truppenlisten und -meldungen,
 Erkennungsmarkenverzeichnisse, Soldbücher, Kranken- und
 Lazarettpapiere, Grablageakten) oder sonstige Gegenstände unberechtigt
 in Besitz hat, die für personenstandsrechtliche Feststellungen,
-Identifizierung unbekannter Toter oder Ermittlung von Grablagen der in
-§ 1 genannten Personen zweckdienlich sein können, ist verpflichtet,
+Identifizierung unbekannter Toter oder Ermittlung von Grablagen der
+in § 1 genannten Personen zweckdienlich sein können, ist verpflichtet,
 sie dem Bundesarchiv herauszugeben.
 
 
 ## § 8 Identifizierungen
 
-Zum Zwecke der Identifizierung namentlich unbekannter Toter kann eine
-Graböffnung angeordnet werden. Eine solche Anordnung soll nur
-getroffen werden, wenn eine Identifizierung nach gutachtlicher
+Zum Zwecke der Identifizierung namentlich unbekannter Toter kann
+eine Graböffnung angeordnet werden. Eine solche Anordnung soll
+nur getroffen werden, wenn eine Identifizierung nach gutachtlicher
 Äußerung des Bundesarchivs anders nicht durchführbar ist und eine
 Identitätsfeststellung mit hoher Wahrscheinlichkeit zu erwarten steht.
 
@@ -287,8 +264,8 @@ Identitätsfeststellung mit hoher Wahrscheinlichkeit zu erwarten steht.
 
 ## § 10 Aufwendungen
 
-(1) Der Bund trägt die Aufwendungen, die sich aus §§ 3, 4, 5, 6 und 8
-ergeben.
+(1) Der Bund trägt die Aufwendungen, die sich aus §§ 3, 4, 5, 6 und
+8 ergeben.
 
 (2) Zu den Aufwendungen nach Absatz 1 gehören auch
 
@@ -296,48 +273,36 @@ ergeben.
     Instandsetzung einer geschlossenen Begräbnisstätte zugrunde gelegt
     wird,
 
-
 2.  Aufwendungen für den Ankauf eines Grundstücks, wenn der
     Grundstückserwerb wirtschaftlicher ist als die Gewährung der
     Entschädigung nach § 3,
-
 
 3.  Aufwendungen für die Errichtung eines Zugangs oder einer Zufahrt zu
     einer geschlossenen Begräbnisstätte, wenn der Zugang oder die Zufahrt
     ausschließlich Zwecken dieser Begräbnisstätte dient,
 
-
-4.  Aufwendungen für die Wiedereinbettung in demselben Grab und der
-    Wiederherstellung des früheren Zustands des Grabes und der
+4.  Aufwendungen für die Wiedereinbettung in demselben Grab und
+    der Wiederherstellung des früheren Zustands des Grabes und der
     Begräbnisstätte bei Maßnahmen nach § 8.
-
-
-
 
 (3) Zu den Aufwendungen nach Absatz 1 gehören insbesondere nicht
 
 1.  Aufwendungen für die zusätzliche Ausgestaltung oder Umgestaltung
     bereits angelegter Gräber oder Begräbnisstätten,
 
-
 2.  Aufwendungen für die Errichtung oder Unterhaltung von Denkmälern,
     Ehrenhallen, Ehrenhainen, Namensschreinen, Feierplätzen und
     symbolischen Gräbern,
 
-
 3.  die Grunderwerbsteuer bei Übernahme eines Grundstücks nach § 4 oder
     bei Ankauf eines Grundstücks nach Absatz 2 Nummer 2,
 
-
 4.  persönliche und sächliche Verwaltungskosten.
-
-
-
 
 (4) Der Bund erstattet den Ländern die auf die Gräber nach § 1 Absatz
 2 entfallenden Aufwendungen für die Anlegung, Instandsetzung und
-Pflege nach § 5 Absatz 3, die Aufwendungen für die Verlegung nach § 6
-und die Aufwendungen für die Identifizierung nach § 8 in einer
+Pflege nach § 5 Absatz 3, die Aufwendungen für die Verlegung nach
+§ 6 und die Aufwendungen für die Identifizierung nach § 8 in einer
 Pauschale. Das Bundesministerium für Familie, Senioren, Frauen und
 Jugend setzt im Einvernehmen mit dem Bundesministerium der Finanzen
 durch Rechtsverordnung mit Zustimmung des Bundesrates die Pauschale
@@ -361,11 +326,8 @@ Absatz 1 in Form einer Pauschale. Die Pauschale setzt sich zusammen
 1.  aus dem Bedarf, der bis zum 30. Juni 2011 von den Ländern für die
     Jahresbeträge nach § 3 Absatz 5 gemeldet wird,
 
-
 2.  auf Antrag aus einem Zuschlag in Höhe von bis zu 10 vom Hundert des am
     30\. Juni 2011 gemeldeten Bedarfs.
-
-
 
 Der Betrag nach Nummer 1 erhöht sich um den Betrag, der aus dem
 Zuschlag nach Nummer 2 für neu bewilligte Jahresbeträge nach § 3
@@ -391,8 +353,8 @@ Ausnahme des § 7 erforderlich werden, werden Gebühren und Auslagen
 nicht erhoben. Dies gilt auch für Gerichtskosten, Beurkundungs- und
 Beglaubigungskosten nach dem Gerichts- und Notarkostengesetz.
 
-(2) Die Wahrnehmung der Aufgaben nach diesem Gesetz gilt nicht als
-gewerbliche Tätigkeit im Sinne des § 2 Absatz 3 des
+(2) Die Wahrnehmung der Aufgaben nach diesem Gesetz gilt
+nicht als gewerbliche Tätigkeit im Sinne des § 2 Absatz 3 des
 Umsatzsteuergesetzes.
 
 
@@ -429,12 +391,10 @@ Dieses Gesetz ist auf Gräber nach § 1 nicht anzuwenden, wenn
     beigesetzt ist oder noch beigesetzt werden kann, dessen Grab nicht
     unter § 1 fällt,
 
-
 2.  bei Verlegung des Grabes aus dem Ausland in das Inland bei Beisetzung
     außerhalb einer geschlossenen Begräbnisstätte für Gräber nach § 1
     erfolgen soll oder die zuständige Behörde der Beisetzung in einer
     solchen Begräbnisstätte nicht zustimmt,
-
 
 3.  es sich um ein Grab handelt, dessen Erhaltung (§ 5 Absatz 3)
     Angehörige des Verstorbenen oder Dritte zeitweilig oder dauerhaft
@@ -442,19 +402,16 @@ Dieses Gesetz ist auf Gräber nach § 1 nicht anzuwenden, wenn
     Gräber in die öffentliche Obhut ist ausgeschlossen.
 
 
-
-
-
 ## § 17 Anwendung des Gräbergesetzes in den neuen Bundesländern
 
 (1) Abweichend von Anlage I Kapitel X Sachgebiet H Abschnitt III
-Nummer 11 des Einigungsvertrages vom 31. August 1990 (BGBl. 1990 II S.
-885, 1096) tritt dieses Gesetz in dem in Artikel 3 des
+Nummer 11 des Einigungsvertrages vom 31. August 1990 (BGBl. 1990
+II S. 885, 1096) tritt dieses Gesetz in dem in Artikel 3 des
 Einigungsvertrages genannten Gebiet am 1. Januar 1993 in Kraft.
 
 (2) Abweichend von Anlage II Kapitel X Sachgebiet H Abschnitt III
-Nummer 15 des Einigungsvertrages vom 31. August 1990 (BGBl. 1990 II S.
-885, 1020) gilt § 12 der Verordnung über das Bestattungs- und
+Nummer 15 des Einigungsvertrages vom 31. August 1990 (BGBl. 1990
+II S. 885, 1020) gilt § 12 der Verordnung über das Bestattungs- und
 Friedhofswesen vom 17. April 1980 (GBl. I Nummer 18 S. 159) nur bis
 zum 31. Dezember 1992.
 

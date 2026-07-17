@@ -1,7 +1,5 @@
 ---
-Title: Gesetz zu dem Protokoll vom 3. Juni 1971 betreffend die Auslegung des Übereinkommens
-  vom 27. September 1968 über die gerichtliche Zuständigkeit und die Vollstreckung
-  gerichtlicher Entscheidungen in Zivil- und Handelssachen durch den Gerichtshof
+Title: Gesetz zu dem Protokoll vom 3. Juni 1971 betreffend die Auslegung des Übereinkommens vom 27. September 1968 über die gerichtliche Zuständigkeit und die Vollstreckung gerichtlicher Entscheidungen in Zivil- und Handelssachen durch den Gerichtshof
 jurabk: VollstrZustProtG
 layout: default
 origslug: vollstrzustprotg
@@ -34,9 +32,9 @@ veröffentlicht.
 ## Art 2
 
 In dem Beschluß, mit dem die Auslegungsfrage dem Gerichtshof zur
-Vorabentscheidung vorgelegt wird, ist die auszulegende Vorschrift zu
-bezeichnen sowie die zu klärende Auslegungsfrage darzulegen. Ferner
-ist der Sach- und Streitstand, soweit dies zur Beurteilung der
+Vorabentscheidung vorgelegt wird, ist die auszulegende Vorschrift
+zu bezeichnen sowie die zu klärende Auslegungsfrage darzulegen.
+Ferner ist der Sach- und Streitstand, soweit dies zur Beurteilung der
 Auslegungsfrage erforderlich ist, in gedrängter Form darzustellen.
 
 

@@ -1,6 +1,5 @@
 ---
-Title: Sechsundneunzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung
-  von Flugverfahren für Flüge nach Sichtflugregeln am Verkehrsflughafen Paderborn-Lippstadt)
+Title: Sechsundneunzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für Flüge nach Sichtflugregeln am Verkehrsflughafen Paderborn-Lippstadt)
 jurabk: LuftVODV 96
 layout: default
 origslug: luftvodv_96
@@ -15,4 +14,7 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BAnz: 1986, Nr 60, 3814
+
+Fundstelle
+:   BAnz: 1986, 3814
 

@@ -1,6 +1,5 @@
 ---
-Title: Gesetz über die Beendigung der Zahlungsmitteleigenschaft der auf Deutsche Mark
-  lautenden Banknoten und der auf Deutsche Mark oder Deutsche Pfennig lautenden Bundesmünzen
+Title: Gesetz über die Beendigung der Zahlungsmitteleigenschaft der auf Deutsche Mark lautenden Banknoten und der auf Deutsche Mark oder Deutsche Pfennig lautenden Bundesmünzen
 jurabk: DMBeEndG
 layout: default
 origslug: dmbeendg
@@ -17,23 +16,23 @@ Fundstelle
 :   BGBl I: 1999, 2402
 
 Geändert durch
-:   Art. 7 G v. 14. 9.2005 I 2746
+:   Art. 7 G v. 14.9.2005 I 2746
 
 
 ## § 1
 
 Mit Ablauf des 31. Dezember 2001 verlieren die von der Deutschen
-Bundesbank ausgegebenen, auf Deutsche Mark lautenden Banknoten und die
-von der Bundesrepublik Deutschland ausgegebenen, auf Deutsche Mark
-oder Deutsche Pfennig lautenden Bundesmünzen ihre Eigenschaft als
-gesetzliches Zahlungsmittel. Die Deutsche Bundesbank tauscht im Rahmen
-von Artikel 16 der Verordnung (EG) Nr. 974/98 des Rates vom 3. Mai
-1998 über die Einführung des Euro (ABl. EG Nr. L 139 S. 1) die in Satz
-1 bezeichneten Banknoten und Bundesmünzen ab 1. Januar 2002 zum gemäß
-der Verordnung (EG) Nr. 2866/98 des Rates vom 31. Dezember 1998 über
-die Umrechnungskurse zwischen dem Euro und den Währungen der
-Mitgliedstaaten, die den Euro einführen (ABl. EG Nr. L 359 S. 1),
-unwiderruflich festgelegten Umrechnungskurs in Euro-Banknoten und
+Bundesbank ausgegebenen, auf Deutsche Mark lautenden Banknoten und
+die von der Bundesrepublik Deutschland ausgegebenen, auf Deutsche
+Mark oder Deutsche Pfennig lautenden Bundesmünzen ihre Eigenschaft
+als gesetzliches Zahlungsmittel. Die Deutsche Bundesbank tauscht im
+Rahmen von Artikel 16 der Verordnung (EG) Nr. 974/98 des Rates vom
+3\. Mai 1998 über die Einführung des Euro (ABl. EG Nr. L 139 S. 1) die
+in Satz 1 bezeichneten Banknoten und Bundesmünzen ab 1. Januar 2002
+zum gemäß der Verordnung (EG) Nr. 2866/98 des Rates vom 31. Dezember
+1998 über die Umrechnungskurse zwischen dem Euro und den Währungen
+der Mitgliedstaaten, die den Euro einführen (ABl. EG Nr. L 359 S.
+1), unwiderruflich festgelegten Umrechnungskurs in Euro-Banknoten und
 Euro-Münzen um.
 
 

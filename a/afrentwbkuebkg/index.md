@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zu dem Übereinkommen vom 4. August 1963 zur Errichtung der Afrikanischen
-  Entwicklungsbank
+Title: Gesetz zu dem Übereinkommen vom 4. August 1963 zur Errichtung der Afrikanischen Entwicklungsbank
 jurabk: AfrEntwBkÜbkG
 layout: default
 origslug: afrentwbk_bkg
@@ -17,7 +16,6 @@ Fundstelle
 :   BGBl II: 1981, 253
 
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
@@ -26,8 +24,8 @@ beschlossen:
 
 ## Art 1
 
-Dem Beitritt der Bundesrepublik Deutschland zu dem Übereinkommen von
-Khartoum vom 4. August 1963 zur Errichtung der Afrikanischen
+Dem Beitritt der Bundesrepublik Deutschland zu dem Übereinkommen
+von Khartoum vom 4. August 1963 zur Errichtung der Afrikanischen
 Entwicklungsbank in der Neufassung vom 17. Mai 1979 sowie den vom
 Gouverneursrat der Bank am 17. Mai 1979 beschlossenen Allgemeinen
 Vorschriften für die Aufnahme nichtregionaler Staaten als Mitglieder
@@ -39,11 +37,11 @@ Vorschriften werden nachstehend veröffentlicht.
 
 Zur Erfüllung der Verbindlichkeiten, die der Bundesrepublik
 Deutschland aus dem Beitritt zur Afrikanischen Entwicklungsbank
-erwachsen, wird die Bundesregierung ermächtigt, vom nichtregionalen
-Stammkapital einen Anteil von 184.440.000,00 RE (in Worten:
-einhundertvierundachtzig Millionen vierhundertvierzigtausend
-Rechnungseinheiten) im Gegenwert von 424.394.963,00 DM (in Worten:
-vierhundertvierundzwanzig Millionen
+erwachsen, wird die Bundesregierung ermächtigt, vom
+nichtregionalen Stammkapital einen Anteil von 184.440.000,00
+RE (in Worten: einhundertvierundachtzig Millionen
+vierhundertvierzigtausend Rechnungseinheiten) im Gegenwert von
+424\.394.963,00 DM (in Worten: vierhundertvierundzwanzig Millionen
 dreihundertvierundneunzigtausendneunhundertdreiundsechzig Deutsche
 Mark) zu festgelegten Kursen zu zeichnen.
 

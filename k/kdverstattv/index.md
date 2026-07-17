@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Erstattung von Auslagen, Verdienstausfall und Aufwendungen
-  bei der Anhörung im Anerkennungsverfahren als Kriegsdienstverweigerin oder Kriegsdienstverweigerer
+Title: Verordnung über die Erstattung von Auslagen, Verdienstausfall und Aufwendungen bei der Anhörung im Anerkennungsverfahren als Kriegsdienstverweigerin oder Kriegsdienstverweigerer
 jurabk: KDVErstattV
 layout: default
 origslug: kdverstattv
@@ -17,19 +16,18 @@ Fundstelle
 :   BGBl I: 2003, 2162
 
 
-
 ## Eingangsformel
 
-Auf Grund des § 6 Abs. 6 des Kriegsdienstverweigerungsgesetzes vom 9.
-August 2003 (BGBl. I S. 1593) verordnet das Bundesministerium für
+Auf Grund des § 6 Abs. 6 des Kriegsdienstverweigerungsgesetzes vom
+9\. August 2003 (BGBl. I S. 1593) verordnet das Bundesministerium für
 Familie, Senioren, Frauen und Jugend:
 
 
 ## § 1 Fahrkosten, Wegstreckenentschädigung
 
-(1) Der Antragstellerin oder dem Antragsteller werden auf Antrag die
-notwendigen Fahrkosten erstattet. Notwendig sind die Fahrkosten, die
-für die Benutzung regelmäßig verkehrender Beförderungsmittel der
+(1) Der Antragstellerin oder dem Antragsteller werden auf Antrag
+die notwendigen Fahrkosten erstattet. Notwendig sind die Fahrkosten,
+die für die Benutzung regelmäßig verkehrender Beförderungsmittel der
 niedrigsten Beförderungsklasse zwischen der Wohnung und dem Ort der
 Anhörung tatsächlich entstehen. Reist die Antragstellerin oder der
 Antragsteller von einem anderen Ort als dem Wohnort an oder dorthin
@@ -59,8 +57,8 @@ Bundesreisekostengesetzes in der jeweils geltenden Fassung.
 ## § 3 Verdienstausfall, notwendige Aufwendungen
 
 (1) Soweit eine Arbeitnehmerin oder ein Arbeitnehmer keinen Anspruch
-auf Weiterzahlung des Arbeitsentgelts nach § 6 Abs. 5 Satz 2 des
-Kriegsdienstverweigerungsgesetzes hat, wird auf Antrag eine
+auf Weiterzahlung des Arbeitsentgelts nach § 6 Abs. 5 Satz 2
+des Kriegsdienstverweigerungsgesetzes hat, wird auf Antrag eine
 Entschädigung für Verdienstausfall gewährt. Sie richtet sich nach dem
 regelmäßigen Bruttoarbeitsentgelt zuzüglich des Arbeitgeberanteils zur
 Sozialversicherung. Die letzte begonnene Stunde wird voll gerechnet.

@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zu dem Abkommen vom 16. Juni 1995 zur Erhaltung der afrikanisch-eurasischen
-  wandernden Wasservögel
+Title: Gesetz zu dem Abkommen vom 16. Juni 1995 zur Erhaltung der afrikanisch-eurasischen wandernden Wasservögel
 jurabk: WVögelAbkG
 layout: default
 origslug: wv_gelabkg
@@ -16,7 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1998, 2498
 
-Stand: Zuletzt geändert Art. 33 V v. 19.6.2020 I 1328
+Stand
+:   Zuletzt geändert Art. 33 V v. 19.6.2020 I 1328
+
 
 ## Eingangsformel
 
@@ -28,8 +29,8 @@ beschlossen:
 
 Dem in Den Haag am 15. August 1996 von der Bundesrepublik Deutschland
 unterzeichneten Abkommen zur Erhaltung der afrikanisch-eurasischen
-wandernden Wasservögel vom 16. Juni 1995 wird zugestimmt. Das Abkommen
-wird nachstehend mit einer amtlichen deutschen Übersetzung
+wandernden Wasservögel vom 16. Juni 1995 wird zugestimmt. Das
+Abkommen wird nachstehend mit einer amtlichen deutschen Übersetzung
 veröffentlicht.
 
 
@@ -38,8 +39,8 @@ veröffentlicht.
 Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit
 wird ermächtigt, Änderungen der Anlagen 1 bis 3 des Abkommens nach
 dessen Artikel X, die sich im Rahmen der Ziele des Abkommens halten,
-durch Rechtsverordnung in bezug auf Änderungen der Anlage 3 mit, im
-übrigen ohne Zustimmung des Bundesrates in Kraft zu setzen.
+durch Rechtsverordnung in bezug auf Änderungen der Anlage 3 mit,
+im übrigen ohne Zustimmung des Bundesrates in Kraft zu setzen.
 Rechtsverordnungen nach Satz 1 bedürfen des Einvernehmens mit dem
 Bundesministerium für Ernährung und Landwirtschaft, soweit sie sich
 auf Tierarten, die dem Jagdrecht unterliegen, beziehen.
@@ -57,10 +58,7 @@ Verbot nach Absatz 1 zulassen, wenn
 
 1.  die Entnahme aus der Natur wissenschaftlichen Zwecken dient oder
 
-
 2.  außerordentliche Umstände es erfordern.
-
-
 
 Die Ausnahmen sind räumlich und zeitlich zu beschränken und dürfen die
 Erhaltung der betreffenden Art nicht gefährden. Maßnahmen aus Gründen
@@ -70,11 +68,7 @@ der Verteidigung sind von den Verboten des Absatzes 1 ausgenommen.
 
 1.  entnehmen, jagen, fangen oder
 
-
 2.  absichtlich beunruhigen oder absichtlich töten.
-
-
-
 
 
 ## Art 4
@@ -90,8 +84,8 @@ jagt oder fängt.
 Euro geahndet werden.
 
 (4) Tiere, auf die sich die Ordnungswidrigkeit bezieht, oder
-Gegenstände, die zu ihrer Begehung oder Vorbereitung gebraucht worden
-oder bestimmt gewesen sind, können einbezogen werden. § 23 des
+Gegenstände, die zu ihrer Begehung oder Vorbereitung gebraucht
+worden oder bestimmt gewesen sind, können einbezogen werden. § 23 des
 Gesetzes über Ordnungswidrigkeiten ist anzuwenden.
 
 (5) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes

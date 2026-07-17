@@ -36,8 +36,8 @@ den Kraftfahrzeugverkehr vorbereitet werden.
 
 (2) Die Ausbildung ist unter der Leitung eines von der Technischen
 Prüfstelle eingesetzten Ausbildungsleiters durchzuführen. Der
-Ausbildungsleiter muß amtlich anerkannter Sachverständiger für den
-Kraftfahrzeugverkehr sein; seine Anerkennung darf nicht auf
+Ausbildungsleiter muß amtlich anerkannter Sachverständiger für
+den Kraftfahrzeugverkehr sein; seine Anerkennung darf nicht auf
 Teilbefugnisse beschränkt sein.
 
 (3) Der Bewerber ist während der Ausbildung in den folgenden Gebieten
@@ -45,36 +45,29 @@ zu unterweisen:
 
 1.  Bau und Betrieb von Kraftfahrzeugen und ihren Anhängern;
 
-
 2.  Prüfung von Bewerbern um die Fahrerlaubnis gemäß den Anforderungen
     nach Anlage 1;
-
 
 3.  Begutachtung von Kraftfahrzeugen und ihren Anhängern sowie von
     Fahrzeugteilen, insbesondere zur Erlangung von Betriebserlaubnissen
     und Bauartgenehmigungen;
 
-
 4.  Untersuchung der Kraftfahrzeuge und ihrer Anhänger im Rahmen der
     regelmäßigen technischen Überwachung;
-
 
 5.  Straßenverkehrsrecht sowie die die Sachverständigen- und
     Prüfertätigkeit berührenden anderen Rechtsgebiete;
 
-
 6.  Organisation der Verkehrsverwaltung in Bund und Ländern.
 
-
-
 Für Bewerber um die amtliche Anerkennung als Sachverständiger mit
-Teilbefugnissen, als Prüfer und als Prüfer mit Teilbefugnissen können
-die Ausbildungsgebiete nach Maßgabe ihrer künftigen Befugnisse
+Teilbefugnissen, als Prüfer und als Prüfer mit Teilbefugnissen
+können die Ausbildungsgebiete nach Maßgabe ihrer künftigen Befugnisse
 eingeschränkt werden.
 
 (4) Für die Ausbildung nach Absatz 3 ist von der Technischen
-Prüfstelle ein Ausbildungsplan umzusetzen, der den Vorgaben eines im
-Verkehrsblatt vom Bundesministerium für Verkehr und digitale
+Prüfstelle ein Ausbildungsplan umzusetzen, der den Vorgaben eines
+im Verkehrsblatt vom Bundesministerium für Verkehr und digitale
 Infrastruktur im Benehmen mit den zuständigen obersten Landesbehörden
 bekannt gemachten Rahmenlehrplanes für amtlich anerkannte
 Sachverständige oder Prüfer entspricht.
@@ -103,21 +96,16 @@ Prüfungsausschusses und bestimmt den Vorsitzenden.
 
 1.  Eine Person, die ein Studium des Maschinenbaufachs, des
     Kraftfahrzeugbaufachs oder der Elektrotechnik an einer deutschen
-    Universität oder Technischen Hochschule erfolgreich abgeschlossen hat,
-    amtlich anerkannter Sachverständiger für den Kraftfahrzeugverkehr ist
-    oder die die Voraussetzungen für die Anerkennung erfüllt; sie braucht
-    jedoch einer Technischen Prüfstelle nicht anzugehören und ihre
+    Universität oder Technischen Hochschule erfolgreich abgeschlossen
+    hat, amtlich anerkannter Sachverständiger für den Kraftfahrzeugverkehr
+    ist oder die die Voraussetzungen für die Anerkennung erfüllt; sie
+    braucht jedoch einer Technischen Prüfstelle nicht anzugehören und ihre
     fachliche Eignung nicht durch eine Prüfung nachgewiesen zu haben;
-
 
 2.  ein Angehöriger des höheren nichttechnischen Verwaltungsdiensts;
 
-
 3.  der Leiter einer Technischen Prüfstelle für den Kraftfahrzeugverkehr
     oder dessen Stellvertreter.
-
-
-
 
 (4) Die Prüfung ist vor dem Prüfungsausschuß abzulegen, in dessen
 Bereich der Bewerber nach § 1 dieser Verordnung ausgebildet worden
@@ -142,23 +130,23 @@ fern oder unterbricht er sie ohne ausreichende Entschuldigung, so gilt
 die Prüfung als nicht bestanden.
 
 (3) Der Vorsitzende des Prüfungsausschusses kann Bewerbern, die
-bereits ihre Ausbildung nach § 1 ableisten oder abgeleistet haben, die
-Anwesenheit bei dem mündlichen Teil der Prüfung gestatten, ebenso den
-Ausbildungsleitern der Technischen Prüfstellen. Beauftragte der
+bereits ihre Ausbildung nach § 1 ableisten oder abgeleistet haben,
+die Anwesenheit bei dem mündlichen Teil der Prüfung gestatten, ebenso
+den Ausbildungsleitern der Technischen Prüfstellen. Beauftragte der
 Anerkennungsbehörden können jederzeit der Prüfung beiwohnen.
 
 
 ## § 5 Teile der Prüfung
 
-Die Prüfung umfaßt einen praktischen, einen schriftlichen und einen
-mündlichen Teil. Die Reihenfolge bestimmt der Vorsitzende des
+Die Prüfung umfaßt einen praktischen, einen schriftlichen und
+einen mündlichen Teil. Die Reihenfolge bestimmt der Vorsitzende des
 Prüfungsausschusses.
 
 
 ## § 6 Praktischer Teil der Prüfung
 
-(1) Im praktischen Teil der Prüfung hat der Bewerber nachzuweisen, daß
-er Kraftfahrzeuge aller Klassen für Verbrennungsmaschinen
+(1) Im praktischen Teil der Prüfung hat der Bewerber nachzuweisen,
+daß er Kraftfahrzeuge aller Klassen für Verbrennungsmaschinen
 vorschriftsmäßig, sicher und gewandt im Straßenverkehr führen kann.
 
 (2) Der Vorsitzende kann bestimmen, daß der praktische Teil der
@@ -169,20 +157,16 @@ wird.
 ## § 7 Schriftlicher Teil der Prüfung
 
 (1) Im schriftlichen Teil der Prüfung hat der Bewerber um die amtliche
-Anerkennung als Sachverständiger, bei dem die Anerkennung nicht auf
-Teilbefugnisse beschränkt werden soll, umfassende Kenntnisse in
+Anerkennung als Sachverständiger, bei dem die Anerkennung nicht
+auf Teilbefugnisse beschränkt werden soll, umfassende Kenntnisse in
 folgenden Fachgebieten nachzuweisen:
 
 1.  Bau und Betrieb von Kraftfahrzeugen und ihren Anhängern;
 
-
 2.  Straßenverkehrsrecht sowie die die Sachverständigentätigkeit
     berührenden anderen Rechtsgebiete;
 
-
 3.  Tätigkeit des Sachverständigen.
-
-
 
 Darin eingeschlossen ist der Nachweis, daß der Bewerber mit den
 Gefahren des Straßenverkehrs und den zu ihrer Abwehr erforderlichen
@@ -223,37 +207,13 @@ jeweils getrennt zu bewerten. Für jedes Fachgebiet sind aus den
 Einzelnoten des schriftlichen und mündlichen Teils Gesamtnoten zu
 bilden. Es ist nach folgenden Noten zu bewerten:
 
-*    *   sehr gut
-
-    *   (1) = eine besonders hervorragende Leistung;
-
-
-*    *   gut
-
-    *   (2) = eine erheblich über dem Durchschnitt liegende Leistung;
-
-
-*    *   befriedigend
-
-    *   (3) = eine über dem Durchschnitt liegende Leistung;
-
-
-*    *   ausreichend
-
-    *   (4) = eine Leistung, die durchschnittlichen Anforderungen entspricht;
-
-
-*    *   mangelhaft
-
-    *   (5) = eine Leistung mit erheblichen Mängeln;
-
-
-*    *   ungenügend
-
-    *   (6) = eine völlig unbrauchbare Leistung.
-
-
-
+| sehr gut | (1) = eine besonders hervorragende Leistung; |
+| --- | --- |
+| gut | (2) = eine erheblich über dem Durchschnitt liegende Leistung; |
+| befriedigend | (3) = eine über dem Durchschnitt liegende Leistung; |
+| ausreichend | (4) = eine Leistung, die durchschnittlichen Anforderungen entspricht; |
+| mangelhaft | (5) = eine Leistung mit erheblichen Mängeln; |
+| ungenügend | (6) = eine völlig unbrauchbare Leistung. |
 
 
 ## § 10 Bestehen der Prüfung
@@ -262,16 +222,11 @@ Die Gesamtprüfung ist bestanden, wenn
 
 1.  der praktische Teil der Prüfung bestanden ist,
 
-
 2.  im schriftlichen und mündlichen Teil die Einzelnote "ungenügend" nicht
     erteilt worden ist und
 
-
 3.  die Leistungen in jedem der drei Fachgebiete mindestens mit der
     Gesamtnote "ausreichend" bewertet worden sind.
-
-
-
 
 
 ## § 11 Entscheidung über die Prüfung
@@ -290,12 +245,9 @@ ausschließen, wenn
 
 1.  der Bewerber den praktischen Teil der Prüfung nicht bestanden hat oder
 
-
 2.  die Leistungen des Bewerbers im schriftlichen oder mündlichen Teil der
     Prüfung in einem Fachgebiet mit der Einzelnote "ungenügend" bewertet
     worden sind.
-
-
 
 Die Prüfung gilt auch in diesen Fällen als nicht bestanden.
 
@@ -303,8 +255,8 @@ Die Prüfung gilt auch in diesen Fällen als nicht bestanden.
 Prüfungsausschuß, ob der praktische Teil oder Leistungen in einzelnen
 Fachgebieten auf die Wiederholungsprüfung angerechnet werden können.
 Es dürfen jedoch nur Leistungen in Fachgebieten angerechnet werden,
-die mindestens mit der Gesamtnote "befriedigend" bewertet worden sind.
-Eine Anrechnung ist nur möglich, wenn die Wiederholungsprüfung
+die mindestens mit der Gesamtnote "befriedigend" bewertet worden
+sind. Eine Anrechnung ist nur möglich, wenn die Wiederholungsprüfung
 innerhalb eines Jahres durchgeführt wird.
 
 
@@ -341,8 +293,8 @@ wiederholen.
 ## § 15 Ausbildung und Prüfung der Bewerber bei Behörden
 
 Bewerber um die amtliche Anerkennung als Sachverständiger oder Prüfer
-für den Kraftfahrzeugverkehr bei Behörden nach § 16 des Gesetzes sind
-in entsprechender Anwendung der Vorschriften dieser Verordnung
+für den Kraftfahrzeugverkehr bei Behörden nach § 16 des Gesetzes
+sind in entsprechender Anwendung der Vorschriften dieser Verordnung
 auszubilden und zu prüfen.
 
 
@@ -367,10 +319,8 @@ nach der Gebührenordnung für Maßnahmen im Straßenverkehr erhoben.
 
 Der Bundesminister für Verkehr
 
-(zu § 1 Absatz 3 Nummer 2)
-Anforderungen an amtlich anerkannte Sachverständige oder Prüfer
 
-## Anlage 1 für den Kraftfahrzeugverkehr nach § 15 der Fahrerlaubnis-Verordnung (Fahrerlaubnisprüfungen)
+## Anlage 1 (zu § 1 Absatz 3 Nummer 2)Anforderungen an amtlich anerkannte Sachverständige oder Prüferfür den Kraftfahrzeugverkehr nach § 15 der Fahrerlaubnis-Verordnung (Fahrerlaubnisprüfungen)
 
 **1. Erforderliche Befähigung von Fahrerlaubnisprüfern**
 
@@ -381,32 +331,22 @@ a)  Befähigung, die Fahrleistung eines Bewerbers zu bewerten, der eine
     Fahrerlaubnis der Klasse erhalten möchte, für die die Fahrprüfung
     stattfindet.
 
-
-b)  Kenntnisse und Verständnis in Bezug auf das Führen eines Fahrzeugs und
-    Bewertung
+b)  Kenntnisse und Verständnis in Bezug auf das Führen eines Fahrzeugs
+    und Bewertung
 
     aa) der Theorie des Fahrverhaltens,
 
-
     bb) der Gefahrenerkennung und Unfallvermeidung,
 
-
     cc) der Anforderungen an die Fahrprüfung,
-
 
     dd) der einschlägigen Straßenverkehrsvorschriften einschließlich der
         einschlägigen gemeinschaftlichen und nationalen Rechtsvorschriften und
         Auslegungsleitlinien,
 
-
     ee) der Theorie und Praxis der Bewertung,
 
-
     ff) des defensiven Fahrens.
-
-
-
-
 
 c)  Bewertungsfähigkeiten
 
@@ -415,35 +355,24 @@ c)  Bewertungsfähigkeiten
 
     aa) das richtige und umfassende Erkennen gefährlicher Situationen,
 
-
     bb) die genaue Bestimmung von Ursache und voraussichtlicher Auswirkung
         derartiger Situationen,
 
-
     cc) das Tauglichkeitsniveau und die Erkennung von Fehlern,
-
 
     dd) die Einheitlichkeit und Kohärenz der Bewertung,
 
-
     ee) zügige Aneignung von Informationen und Herausfiltern von Kernpunkten,
-
 
     ff) vorausschauendes Handeln, Erkennung potenzieller Probleme und
         Entwicklung von entsprechenden Abhilfestrategien,
 
-
     gg) rechtzeitige und konstruktive Rückmeldungen.
-
-
-
-
 
 d)  Persönliche Fahrfähigkeiten
 
     Fahrerlaubnisprüfer müssen in der Lage sein, Kraftfahrzeuge des
     betreffenden Typs mit beständig hohem Fahrniveau zu führen.
-
 
 e)  Qualität der Dienstleistung
 
@@ -452,20 +381,13 @@ e)  Qualität der Dienstleistung
 
     aa) eine Festlegung und Vermittlung der Prüfungsinhalte,
 
-
     bb) eine klare Kommunikation, wobei Inhalt, Stil und Wortwahl der
         Zielgruppe entsprechen müssen und auf Fragen der Bewerber einzugehen
         ist,
 
-
     cc) eine klare Rückmeldung in Bezug auf das Prüfungsergebnis,
 
-
     dd) eine nichtdiskriminierende und respektvolle Behandlung aller Bewerber.
-
-
-
-
 
 f)  Fahrzeugtechnische und physikalische Kenntnisse
 
@@ -475,22 +397,13 @@ f)  Fahrzeugtechnische und physikalische Kenntnisse
         Scheinwerfer und Leuchten, insbesondere bei Motorrädern und
         Lastkraftwagen,
 
-
     bb) Kenntnisse der Ladungssicherung,
-
 
     cc) Kenntnisse der Fahrzeugphysik wie Geschwindigkeit, Reibung, Dynamik,
         Energie,
 
-
     dd) Kenntnisse über die Kraftstoff (Energie) sparende und
         umweltfreundliche Fahrweise.
-
-
-
-
-
-
 
 **2. Allgemeine Bedingungen**
 
@@ -503,14 +416,10 @@ a)  die Fahrerlaubnis für Kraftfahrzeuge sämtlicher Fahrerlaubnisklassen
     D oder die Fahrerlaubnis zur Fahrgastbeförderung für Kraftomnibusse
     nach der Straßenverkehrs-Zulassungs-Ordnung erworben hat.
 
-
 b)  amtlich anerkannte Sachverständige oder Prüfer für den
     Kraftfahrzeugverkehr im Sinne des § 1 sein und anschließend die
     Qualitätssicherung und die regelmäßigen Weiterbildungsmaßnahmen gemäß
     Nummer 4 absolviert haben.
-
-
-
 
 **3. Qualitätssicherung**
 
@@ -518,15 +427,11 @@ a)  Fahrerlaubnisprüfer müssen im Rahmen der Qualitätssicherungssysteme
     nach § 11 Absatz 1a des Kraftfahrsachverständigengesetzes mindestens
     einmal im Jahr überwacht werden.
 
-
 b)  Zusätzlich muss jeder Fahrerlaubnisprüfer einmal innerhalb von fünf
-    Jahren für einen Mindestzeitraum von insgesamt einem halben Tag bei
-    der Abnahme von Fahrerlaubnisprüfungen beobachtet werden. Die
+    Jahren für einen Mindestzeitraum von insgesamt einem halben Tag
+    bei der Abnahme von Fahrerlaubnisprüfungen beobachtet werden. Die
     Überwachung erfolgt durch die Qualitätsmanagementbeauftragten der
     Technischen Prüfstelle für den Kraftfahrzeugverkehr.
-
-
-
 
 **4. Weiterbildung**
 
@@ -542,12 +447,9 @@ a)  an einer regelmäßigen Weiterbildung von insgesamt vier Tagen in einem
     Prüfungen nach wie vor nach fairen und einheitlichen Anforderungen
     durchführt;
 
-
-b)  an einer regelmäßigen Weiterbildung von insgesamt fünf Tagen Dauer in
-    einem Zeitraum von fünf Jahren teilnehmen, um die erforderlichen
+b)  an einer regelmäßigen Weiterbildung von insgesamt fünf Tagen Dauer
+    in einem Zeitraum von fünf Jahren teilnehmen, um die erforderlichen
     praktischen Fahrfähigkeiten zu entwickeln und zu erhalten.
-
-
 
 Die regelmäßige Weiterbildung kann in Form von Besprechungen,
 Unterricht, herkömmlicher oder computergestützter Vermittlung erfolgen

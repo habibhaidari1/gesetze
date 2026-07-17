@@ -1,6 +1,5 @@
 ---
-Title: Gesetz über die interne Teilung beamtenversorgungsrechtlicher Ansprüche von
-  Bundesbeamtinnen und Bundesbeamten im Versorgungsausgleich
+Title: Gesetz über die interne Teilung beamtenversorgungsrechtlicher Ansprüche von Bundesbeamtinnen und Bundesbeamten im Versorgungsausgleich
 jurabk: BVersTG
 layout: default
 origslug: bverstg
@@ -33,19 +32,13 @@ Versorgungsausgleichsgesetzes Anrechte übertragen wurden.
     bundesunmittelbaren Körperschaft, Anstalt oder Stiftung des
     öffentlichen Rechts ist,
 
-
 2.  Richterin oder Richter des Bundes ist,
-
 
 3.  Versorgungsempfängerin oder Versorgungsempfänger aus einem der in
     Nummer 1 oder Nummer 2 genannten Dienstverhältnisse ist oder
 
-
 4.  Anspruch auf Leistungen nach dem Altersgeldgesetz vom 28. August 2013
     (BGBl. I S. 3386) hat.
-
-
-
 
 (3) Dieses Gesetz gilt entsprechend, wenn die ausgleichspflichtige
 Person in einem öffentlich-rechtlichen Amtsverhältnis des Bundes steht
@@ -59,50 +52,50 @@ nach § 10 Abs. 1 des Versorgungsausgleichsgesetzes übertragen worden
 ist.
 
 (2) Mit dem Tod der ausgleichsberechtigten Person geht der Anspruch
-auf die Hinterbliebenen über. Als Hinterbliebene nach diesem Gesetz
-gelten die nach den §§ 46 und 48 Abs. 1 bis 3 des Sechsten Buches
-Sozialgesetzbuch Leistungsberechtigten unter den dort für den
-Leistungsanspruch im Einzelnen bestimmten Voraussetzungen; die
-Erfüllung der allgemeinen Wartezeit ist unbeachtlich. Nicht
+auf die Hinterbliebenen über. Als Hinterbliebene nach diesem
+Gesetz gelten die nach den §§ 46 und 48 Abs. 1 bis 3 des Sechsten
+Buches Sozialgesetzbuch Leistungsberechtigten unter den dort für
+den Leistungsanspruch im Einzelnen bestimmten Voraussetzungen;
+die Erfüllung der allgemeinen Wartezeit ist unbeachtlich. Nicht
 leistungsberechtigt sind Waisen, wenn das Kindschaftsverhältnis durch
 Annahme als Kind begründet wurde und die ausgleichsberechtigte Person
 zu diesem Zeitpunkt bereits das 65. Lebensjahr vollendet hatte.
 
 (3) Zahlungen aus dem übertragenen Anrecht werden von Beginn des
-Kalendermonats an geleistet, in dem die ausgleichsberechtigte Person
-Anspruch auf Leistungen wegen Alters oder wegen Dienst- oder
-Erwerbsunfähigkeit aus einem gesetzlichen Alterssicherungssystem hat
-oder, wenn sie einem solchen System nicht angehört, in der
-gesetzlichen Rentenversicherung gehabt hätte. Zahlungen an
-Hinterbliebene beginnen mit dem Ablauf des Sterbemonats der
+Kalendermonats an geleistet, in dem die ausgleichsberechtigte
+Person Anspruch auf Leistungen wegen Alters oder wegen Dienst- oder
+Erwerbsunfähigkeit aus einem gesetzlichen Alterssicherungssystem
+hat oder, wenn sie einem solchen System nicht angehört, in
+der gesetzlichen Rentenversicherung gehabt hätte. Zahlungen
+an Hinterbliebene beginnen mit dem Ablauf des Sterbemonats der
 ausgleichsberechtigten Person.
 
-(4) Entsteht der Zahlungsanspruch erstmals nach dem 31. Dezember 2019,
-aber bevor die ausgleichsberechtigte Person die für sie geltende
-Altersgrenze erreicht hat, so vermindert sich der Anspruch
+(4) Entsteht der Zahlungsanspruch erstmals nach dem 31. Dezember
+2019, aber bevor die ausgleichsberechtigte Person die für sie
+geltende Altersgrenze erreicht hat, so vermindert sich der Anspruch
 entsprechend den Regelungen, die für das nach Absatz 3 Satz 1
 maßgebliche gesetzliche Alterssicherungssystem gelten.
 
-(5) Der Anspruch ist schriftlich oder elektronisch geltend zu machen.
-§ 49 Abs. 4 bis 8, 10 und § 62 Abs. 2 Satz 2 des
+(5) Der Anspruch ist schriftlich oder elektronisch geltend
+zu machen. § 49 Abs. 4 bis 8, 10 und § 62 Abs. 2 Satz 2 des
 Beamtenversorgungsgesetzes gelten entsprechend.
 
-(6) Der Anspruch der ausgleichsberechtigten Person endet spätestens
-mit Ablauf des Monats, in dem sie verstirbt. Für Hinterbliebene gilt §
-61 Abs. 1 Satz 1 Nr. 1 bis 3, Abs. 2 und 3 des
+(6) Der Anspruch der ausgleichsberechtigten Person endet
+spätestens mit Ablauf des Monats, in dem sie verstirbt. Für
+Hinterbliebene gilt § 61 Abs. 1 Satz 1 Nr. 1 bis 3, Abs. 2 und 3 des
 Beamtenversorgungsgesetzes entsprechend.
 
 
 ## § 3 Anpassung
 
 (1) Der durch Entscheidung des Familiengerichts zugunsten der
-ausgleichsberechtigten Person festgesetzte oder sich in den Fällen des
-§ 10 Absatz 2 des Versorgungsausgleichsgesetzes nach Verrechnung
-zugunsten der ausgleichsberechtigten Person ergebende monatliche
-Betrag erhöht oder vermindert sich um die Prozentsätze der nach dem
-Ende der Ehezeit bis zum Zeitpunkt des Eintritts der
-ausgleichspflichtigen Person in den Ruhestand eingetretenen Erhöhungen
-oder Verminderungen der Versorgungsbezüge nach dem
+ausgleichsberechtigten Person festgesetzte oder sich in den
+Fällen des § 10 Absatz 2 des Versorgungsausgleichsgesetzes nach
+Verrechnung zugunsten der ausgleichsberechtigten Person ergebende
+monatliche Betrag erhöht oder vermindert sich um die Prozentsätze
+der nach dem Ende der Ehezeit bis zum Zeitpunkt des Eintritts
+der ausgleichspflichtigen Person in den Ruhestand eingetretenen
+Erhöhungen oder Verminderungen der Versorgungsbezüge nach dem
 Beamtenversorgungsgesetz, die in festen Beträgen festgesetzt sind.
 
 (2) Vom Zeitpunkt des Eintritts der ausgleichspflichtigen Person in
@@ -110,8 +103,8 @@ den Ruhestand an oder, sofern sich die ausgleichspflichtige Person zum
 Zeitpunkt der Entscheidung des Familiengerichts bereits im Ruhestand
 befindet, vom ersten Tag des auf das Ende der Ehezeit folgenden Monats
 an erhöht oder vermindert sich der Betrag in dem Verhältnis, in dem
-sich das Ruhegehalt der ausgleichspflichtigen Person vor Anwendung von
-Ruhens-, Kürzungs- und Anrechnungsvorschriften durch Anpassung der
+sich das Ruhegehalt der ausgleichspflichtigen Person vor Anwendung
+von Ruhens-, Kürzungs- und Anrechnungsvorschriften durch Anpassung der
 Versorgungsbezüge erhöht oder vermindert. Gleiches gilt für die Zeit
 ab dem ersten Tag des auf den Tod der ausgleichspflichtigen Person
 folgenden Monats.
@@ -133,5 +126,4 @@ bis 4 des Beamtenversorgungsgesetzes entsprechend.
 
 
 ## § 5 (weggefallen)
-
 

@@ -19,7 +19,6 @@ Geändert durch
 :   Art. 14 Abs. 1 G v. 4.4.2016 I 558
 
 
-
 ## Eingangsformel
 
 Auf Grund des § 34 Abs. 8 des Patentgesetzes in der Fassung der
@@ -38,9 +37,9 @@ Deutsche Patent- und Markenamt:
 
 (1) Betrifft eine Erfindung biologisches Material, das der
 Öffentlichkeit nicht zugänglich ist und in der Patent- oder
-Gebrauchsmusteranmeldung nicht so beschrieben werden kann, dass ein
-Fachmann diese Erfindung danach ausführen kann, oder beinhaltet die
-Erfindung die Verwendung eines solchen Materials, so gilt die
+Gebrauchsmusteranmeldung nicht so beschrieben werden kann, dass
+ein Fachmann diese Erfindung danach ausführen kann, oder beinhaltet
+die Erfindung die Verwendung eines solchen Materials, so gilt die
 Beschreibung für die Anwendung des Patent- oder Gebrauchsmusterrechts
 nur dann als ausreichend, wenn
 
@@ -48,17 +47,12 @@ nur dann als ausreichend, wenn
     eine Priorität in Anspruch genommen worden ist, am Prioritätstag bei
     einer anerkannten Hinterlegungsstelle hinterlegt worden ist,
 
-
 2.  die Anmeldung die einschlägigen Informationen enthält, die dem
     Anmelder bezüglich der Merkmale des hinterlegten biologischen
     Materials bekannt sind, und
 
-
 3.  in der Anmeldung die Hinterlegungsstelle und das Aktenzeichen der
     Hinterlegung angegeben sind.
-
-
-
 
 (2) Biologisches Material im Sinne dieser Verordnung ist ein Material,
 das genetische Informationen enthält und sich selbst reproduzieren
@@ -89,9 +83,8 @@ und vom Hinterleger unabhängig sind.
 Zuordnung der Anmeldung zu dem hinterlegten biologischen Material
 möglich, so kann das Aktenzeichen der Hinterlegung nachgereicht werden
 
-1.  bei Gebrauchsmusteranmeldungen innerhalb eines Monats nach dem Tag der
-    Einreichung;
-
+1.  bei Gebrauchsmusteranmeldungen innerhalb eines Monats nach dem Tag
+    der Einreichung;
 
 2.  bei Patentanmeldungen innerhalb einer Frist von 16 Monaten nach dem
     Tag der Anmeldung oder, wenn eine Priorität in Anspruch genommen
@@ -99,9 +92,6 @@ möglich, so kann das Aktenzeichen der Hinterlegung nachgereicht werden
     wenn das Aktenzeichen bis zum Abschluss der technischen Vorbereitungen
     für die Veröffentlichung des Offenlegungshinweises nach § 32 Abs. 5
     des Patentgesetzes mitgeteilt worden ist.
-
-
-
 
 (2) Die Frist zur Nachreichung endet jedoch spätestens einen Monat
 nach der Mitteilung an den Anmelder, dass ein Recht auf Akteneinsicht
@@ -113,18 +103,18 @@ Anmelders nach § 31 Absatz 2 Satz 1 Nummer 1 des Patentgesetzes.
 ## § 4 Freigabeerklärung
 
 (1) Der Anmelder hat das hinterlegte biologische Material der
-Hinterlegungsstelle ab dem Tag der Anmeldung zur Herausgabe von Proben
-nach § 5 für die in § 7 festgelegte Aufbewahrungsdauer durch Abgabe
-einer unwiderruflichen Erklärung vorbehaltlos zur Verfügung zu
-stellen. Im Fall einer Dritthinterlegung muss der Anmelder durch
+Hinterlegungsstelle ab dem Tag der Anmeldung zur Herausgabe von
+Proben nach § 5 für die in § 7 festgelegte Aufbewahrungsdauer durch
+Abgabe einer unwiderruflichen Erklärung vorbehaltlos zur Verfügung
+zu stellen. Im Fall einer Dritthinterlegung muss der Anmelder durch
 Vorlage von Urkunden nachweisen, dass das hinterlegte biologische
 Material vom Hinterleger nach Satz 1 zur Verfügung gestellt worden
 ist.
 
 (2) Der Anmelder hat sich gegenüber der Hinterlegungsstelle
 unwiderruflich zu verpflichten, eine nach § 9 erforderlich werdende
-erneute Hinterlegung vorzunehmen oder durch einen Dritten vornehmen zu
-lassen.
+erneute Hinterlegung vorzunehmen oder durch einen Dritten vornehmen
+zu lassen.
 
 
 ## § 5 Zugang zu biologischem Material
@@ -137,27 +127,20 @@ Probe auf Antrag zugänglich gemacht
 
     a)  für den Hinterleger,
 
-
     b)  für das Deutsche Patent- und Markenamt auf Anforderung oder
 
-
     c)  für den Anmelder oder einen sonstigen Dritten, wenn dieser aufgrund
-        einer Entscheidung des Deutschen Patent- und Markenamts nach § 31 Abs.
-        1 Satz 1 des Patentgesetzes oder § 8 Abs. 5 Satz 2 des
+        einer Entscheidung des Deutschen Patent- und Markenamts nach §
+        31 Abs. 1 Satz 1 des Patentgesetzes oder § 8 Abs. 5 Satz 2 des
         Gebrauchsmustergesetzes oder aufgrund der Entscheidung eines Gerichts
         zum Erhalt einer Probe berechtigt ist oder der Hinterleger in die
         Abgabe der Probe schriftlich eingewilligt hat;
 
-
-
-
-
-2.  von der Veröffentlichung des Offenlegungshinweises nach § 32 Abs. 5
-    des Patentgesetzes bis zur Erteilung des Patents für jedermann; auf
-    Antrag des Hinterlegers wird der Zugang zu dem hinterlegten
+2.  von der Veröffentlichung des Offenlegungshinweises nach § 32 Abs.
+    5 des Patentgesetzes bis zur Erteilung des Patents für jedermann;
+    auf Antrag des Hinterlegers wird der Zugang zu dem hinterlegten
     biologischen Material nur durch Herausgabe einer Probe an einen vom
     Antragsteller benannten unabhängigen Sachverständigen hergestellt;
-
 
 3.  nach der Erteilung des Patents oder eines ergänzenden
     Schutzzertifikats oder nach Eintragung des Gebrauchsmusters ungeachtet
@@ -165,13 +148,10 @@ Probe auf Antrag zugänglich gemacht
     des ergänzenden Schutzzertifikats oder einer späteren Löschung des
     Gebrauchsmusters für jedermann.
 
-
-
-
-(2) Bei Zurückweisung oder Zurücknahme der Anmeldung wird der in
-Absatz 1 Nr. 1 Buchstabe c und Nr. 2 geregelte Zugang zu dem
-hinterlegten biologischen Material auf Antrag des Hinterlegers für die
-Dauer von 20 Jahren ab dem Tag der Anmeldung nur durch Herausgabe
+(2) Bei Zurückweisung oder Zurücknahme der Anmeldung wird der
+in Absatz 1 Nr. 1 Buchstabe c und Nr. 2 geregelte Zugang zu dem
+hinterlegten biologischen Material auf Antrag des Hinterlegers für
+die Dauer von 20 Jahren ab dem Tag der Anmeldung nur durch Herausgabe
 einer Probe an einen vom Antragsteller benannten unabhängigen
 Sachverständigen hergestellt.
 
@@ -181,18 +161,14 @@ werden
 1.  jede natürliche Person, auf die sich der Antragsteller und der
     Hinterleger geeinigt haben;
 
-
 2.  jede natürliche Person, die vom Präsidenten des Deutschen Patent- und
     Markenamts als Sachverständiger anerkannt ist.
 
-
-
-
-(4) Die Anträge des Hinterlegers nach Absatz 1 Nr. 2 und Absatz 2 sind
-beim Deutschen Patent- und Markenamt zu stellen und können nur bis zu
-dem Zeitpunkt eingereicht werden, zu dem die technischen
-Vorbereitungen für die Veröffentlichung des Offenlegungshinweises nach
-§ 32 Abs. 5 des Patentgesetzes oder für die Eintragung des
+(4) Die Anträge des Hinterlegers nach Absatz 1 Nr. 2 und Absatz
+2 sind beim Deutschen Patent- und Markenamt zu stellen und können
+nur bis zu dem Zeitpunkt eingereicht werden, zu dem die technischen
+Vorbereitungen für die Veröffentlichung des Offenlegungshinweises
+nach § 32 Abs. 5 des Patentgesetzes oder für die Eintragung des
 Gebrauchsmusters als abgeschlossen gelten.
 
 (5) Der Antrag auf Zugang zu biologischem Material ist unter
@@ -224,7 +200,6 @@ Bezug nehmen,
 1.  Dritten keine Probe des hinterlegten biologischen Materials oder eines
     daraus abgeleiteten Materials zugänglich zu machen und
 
-
 2.  keine Probe des hinterlegten biologischen Materials oder eines daraus
     abgeleiteten Materials zu anderen als zu Versuchszwecken zu verwenden,
     es sei denn, der Anmelder oder Inhaber des Schutzrechts, im Fall der
@@ -234,19 +209,16 @@ Bezug nehmen,
     der Antragsteller dieses Material aufgrund einer Zwangslizenz oder
     einer staatlichen Benutzungsanordnung verwendet.
 
-
-
-
 (2) Wird die Probe an einen unabhängigen Sachverständigen
-herausgegeben, so hat dieser die Verpflichtungserklärung nach Absatz 1
-abzugeben. Gegenüber dem Sachverständigen ist der Antragsteller als
+herausgegeben, so hat dieser die Verpflichtungserklärung nach Absatz
+1 abzugeben. Gegenüber dem Sachverständigen ist der Antragsteller als
 Dritter im Sinne des Absatzes 1 Nr. 1 anzusehen.
 
 
 ## § 7 Aufbewahrungsdauer
 
-Das hinterlegte biologische Material ist fünf Jahre ab dem Eingang des
-letzten Antrags auf Abgabe einer Probe aufzubewahren, mindestens
+Das hinterlegte biologische Material ist fünf Jahre ab dem Eingang
+des letzten Antrags auf Abgabe einer Probe aufzubewahren, mindestens
 jedoch fünf Jahre über die gesetzlich bestimmte maximale Schutzdauer
 aller Schutzrechte, die auf das hinterlegte biologische Material Bezug
 nehmen, hinaus.
@@ -254,10 +226,10 @@ nehmen, hinaus.
 
 ## § 8 Hinterlegung nach Maßgabe des Budapester Vertrags
 
-Im Fall einer Hinterlegung nach dem Budapester Vertrag richten sich
-die Freigabeerklärung, die Herausgabe von Proben, die
-Verpflichtungserklärung und die Aufbewahrungsdauer ausschließlich nach
-den Regeln des Budapester Vertrags und der zu diesem ergangenen
+Im Fall einer Hinterlegung nach dem Budapester Vertrag richten
+sich die Freigabeerklärung, die Herausgabe von Proben, die
+Verpflichtungserklärung und die Aufbewahrungsdauer ausschließlich
+nach den Regeln des Budapester Vertrags und der zu diesem ergangenen
 Ausführungsordnung (BGBl. 1980 II S. 1104, 1122) in ihrer jeweils
 geltenden Fassung.
 
@@ -265,9 +237,9 @@ geltenden Fassung.
 ## § 9 Erneute Hinterlegung
 
 (1) Ist das nach dieser Verordnung hinterlegte biologische Material
-bei der anerkannten Hinterlegungsstelle nicht mehr zugänglich, so ist
-eine erneute Hinterlegung unter denselben Bedingungen wie denen des
-Budapester Vertrags zulässig und auf Anforderung der
+bei der anerkannten Hinterlegungsstelle nicht mehr zugänglich,
+so ist eine erneute Hinterlegung unter denselben Bedingungen wie
+denen des Budapester Vertrags zulässig und auf Anforderung der
 Hinterlegungsstelle vorzunehmen.
 
 (2) Das biologische Material ist innerhalb einer Frist von drei
@@ -275,8 +247,8 @@ Monaten nach der Anforderung der Hinterlegungsstelle nach Absatz 1
 erneut zu hinterlegen.
 
 (3) Jeder erneuten Hinterlegung ist eine vom Hinterleger
-unterzeichnete Erklärung beizufügen, in der bestätigt wird, dass das
-erneut hinterlegte biologische Material das Gleiche wie das
+unterzeichnete Erklärung beizufügen, in der bestätigt wird, dass
+das erneut hinterlegte biologische Material das Gleiche wie das
 ursprünglich hinterlegte Material ist.
 
 

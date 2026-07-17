@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zu dem Übereinkommen vom 20. Mai 1980 über die Erhaltung der lebenden
-  Meeresschätze der Antarktis
+Title: Gesetz zu dem Übereinkommen vom 20. Mai 1980 über die Erhaltung der lebenden Meeresschätze der Antarktis
 jurabk: AntarktMeerSchÜbkG
 layout: default
 origslug: antarktmeersch_bkg
@@ -41,14 +40,10 @@ Verbraucherschutz wird ermächtigt, durch Rechtsverordnung
     lebenden Meeresschätze der Antarktis nach Artikel IX Abs. 2 des
     Übereinkommens in Kraft zu setzen,
 
-
 2.  das Verfahren der Überwachung zur Einhaltung dieser Maßnahmen zu
-    regeln. Das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13
-    Abs. 1 des Grundgesetzes) kann für dieses Verfahren eingeschränkt
+    regeln. Das Grundrecht der Unverletzlichkeit der Wohnung (Artikel
+    13 Abs. 1 des Grundgesetzes) kann für dieses Verfahren eingeschränkt
     werden.
-
-
-
 
 
 ## Art 3

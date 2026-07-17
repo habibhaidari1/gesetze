@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung der Proklamation der Bundesrepublik Deutschland über die Errichtung
-  einer Fischereizone der Bundesrepublik Deutschland in der Ostsee
+Title: Bekanntmachung der Proklamation der Bundesrepublik Deutschland über die Errichtung einer Fischereizone der Bundesrepublik Deutschland in der Ostsee
 jurabk: OstSFischZProkBek
 layout: default
 origslug: ostsfischzprokbek
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl II: 1978, 867
-
 
 
 ## (XXXX)

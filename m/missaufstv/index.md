@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über den Aufstieg in den höheren nichttechnischen Verwaltungsdienst
-  über den Masterstudiengang „Intelligence and Security Studies“
+Title: Verordnung über den Aufstieg in den höheren nichttechnischen Verwaltungsdienst über den Masterstudiengang „Intelligence and Security Studies“
 jurabk: MISSAufstV
 layout: default
 origslug: missaufstv
@@ -16,19 +15,22 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2019, 202
 
+Geändert durch
+:   Art. 2 Abs. 17 V v. 11.3.2026 I Nr. 67
+
 
 ## Eingangsformel
 
-Auf Grund des § 26 Absatz 1 Nummer 2 des Bundesbeamtengesetzes, der
-durch Artikel 1 Nummer 9 des Gesetzes vom 6. März 2015 (BGBl. I S.
-250) geändert worden ist, in Verbindung mit § 39 Absatz 6 der
+Auf Grund des § 26 Absatz 1 Nummer 2 des Bundesbeamtengesetzes,
+der durch Artikel 1 Nummer 9 des Gesetzes vom 6. März 2015 (BGBl.
+I S. 250) geändert worden ist, in Verbindung mit § 39 Absatz 6 der
 Bundeslaufbahnverordnung, der durch Artikel 1 Nummer 8 der Verordnung
 vom 20. Februar 2013 (BGBl. I S. 316) eingefügt worden ist, in
 Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom
-16\. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 14.
-März 2018 (BGBl. I S. 374) verordnet das Bundesministerium des Innern,
-für Bau und Heimat im Einvernehmen mit dem Bundesministerium der
-Verteidigung:
+16\. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom
+14\. März 2018 (BGBl. I S. 374) verordnet das Bundesministerium des
+Innern, für Bau und Heimat im Einvernehmen mit dem Bundesministerium
+der Verteidigung:
 
 
 ## Abschnitt 1 - Zulassung zum Aufstieg
@@ -43,16 +45,12 @@ Beamtinnen und Beamte zugelassen werden, die
 1.  über die Laufbahnbefähigung für den gehobenen nichttechnischen
     Verwaltungsdienst verfügen und
 
-
 2.  einen Abschluss erreicht haben, der mit einem an einer Hochschule
     erworbenen Bachelor- oder einem gleichwertigen Abschluss, der
     Kompetenzen in einem Umfang von mindestens 180 Leistungspunkten
     entspricht, gleichwertig ist.
 
-
-
-
-(2) Im Übrigen bleibt § 36 der Bundeslaufbahnverordnung unberührt.
+(2) Im Übrigen bleibt § 44 der Bundeslaufbahnverordnung unberührt.
 
 
 ## Abschnitt 2 - Masterstudiengang „Intelligence and Security Studies“
@@ -60,15 +58,15 @@ Beamtinnen und Beamte zugelassen werden, die
 
 ### § 2 Ziele
 
-(1) Das Studium vermittelt die notwendigen wissenschaftlichen Methoden
-und Kenntnisse für die Erfüllung der Aufgaben im höheren
+(1) Das Studium vermittelt die notwendigen wissenschaftlichen
+Methoden und Kenntnisse für die Erfüllung der Aufgaben im höheren
 nichttechnischen Verwaltungsdienst der Nachrichtendienste und anderer
 Sicherheitsbehörden, die mit Nachrichtendiensten eng zusammenarbeiten.
 
-(2) Die Beamtinnen und Beamten sollen ihre im Erststudium und in der
-beruflichen Praxis erworbenen Kompetenzen weiterentwickeln, um den
-ständig wachsenden Herausforderungen in den Nachrichtendiensten und in
-anderen Sicherheitsbehörden, die mit Nachrichtendiensten eng
+(2) Die Beamtinnen und Beamten sollen ihre im Erststudium und in
+der beruflichen Praxis erworbenen Kompetenzen weiterentwickeln, um
+den ständig wachsenden Herausforderungen in den Nachrichtendiensten
+und in anderen Sicherheitsbehörden, die mit Nachrichtendiensten eng
 zusammenarbeiten, gerecht zu werden.
 
 
@@ -81,8 +79,8 @@ Das Studium ist ein Vollzeitstudium.
 
 (1) Die Regelstudienzeit beträgt zwei Jahre.
 
-(2) Für Verlängerungen und Verkürzungen der Regelstudienzeit gelten §
-15 Absatz 1 und § 16 Absatz 1 der Bundeslaufbahnverordnung
+(2) Für Verlängerungen und Verkürzungen der Regelstudienzeit
+gelten § 18 Absatz 1 und § 19 Absatz 1 der Bundeslaufbahnverordnung
 entsprechend. Die Entscheidung trifft die Dienstbehörde im
 Einvernehmen mit der Universität der Bundeswehr München und der
 Hochschule des Bundes für öffentliche Verwaltung.
@@ -94,48 +92,34 @@ Hochschule des Bundes für öffentliche Verwaltung.
 
 1.  die Voraussetzungen für den Zugang zum Studium,
 
-
 2.  die angebotenen Vertiefungsrichtungen und die ihnen zugeordneten
     akademischen Grade,
-
 
 3.  die Zahl der Module und die Leistungspunkte, die in jedem Modul
     vergeben werden,
 
-
 4.  die Voraussetzungen für die Zulassung zu Prüfungen und für den Erwerb
     der Zulassungsvoraussetzungen,
 
-
 5.  das Prüfungsverfahren,
 
-
 6.  die Prüfungsformen und die Dauer oder den Umfang der Prüfungsformen,
-
 
 7.  die Aufgaben und die Zusammensetzung des Prüfungsausschusses, der
     Prüfenden und der Beisitzenden,
 
-
 8.  die Grundsätze für die Bewertung der einzelnen Prüfungsleistungen und
     für die Ermittlung der Gesamtnote,
 
-
 9.  die Wiederholung von Prüfungen,
 
-
 10. die Folgen von Verstößen gegen Prüfungsvorschriften,
-
 
 11. das Verfahren zur Anerkennung von Kompetenzen, die in anderen
     Studiengängen oder an anderen Hochschulen erworben worden sind, und
     von außerhochschulisch erworbenen Kompetenzen sowie
 
-
 12. die Einsicht in die Prüfungsakten nach den einzelnen Prüfungen.
-
-
-
 
 (2) Die Prüfungsordnung wird von der Universität der Bundeswehr
 München auf ihrer Internetseite veröffentlicht.
@@ -147,14 +131,9 @@ Das Studium gliedert sich in
 
 1.  die allgemeinen Module,
 
-
 2.  das Modul der Vertiefungsrichtung und
 
-
 3.  das Modul Masterarbeit.
-
-
-
 
 
 ### § 7 Allgemeine Module
@@ -164,20 +143,13 @@ zuzuordnen:
 
 1.  Nachrichtendienste im politischen Entscheidungsprozess,
 
-
 2.  Beschaffung und Auswertung von Informationen,
-
 
 3.  Frieden und Sicherheit,
 
-
 4.  Kommunikation und Führung sowie
 
-
 5.  Nachrichtendienste im Informationszeitalter.
-
-
-
 
 (2) Die Inhalte der allgemeinen Module richten sich nach dem
 Modulhandbuch.
@@ -223,17 +195,11 @@ Abschlusszeugnis.
 
 1.  die Feststellung, dass die Masterprüfung bestanden worden ist,
 
-
 2.  die in den Modulen erzielten Noten,
-
 
 3.  das Thema der Masterarbeit sowie
 
-
 4.  die Gesamtnote.
-
-
-
 
 
 ### § 12 Leitung, Planung und Durchführung des Studiums
@@ -249,25 +215,17 @@ Studiums sicher.
 
 1.  die Sicherung der Qualität des Studiums,
 
-
 2.  die Abfrage, wie viele Beamtinnen und Beamte das Studium aufnehmen
     werden,
-
 
 3.  die Prüfung der Zulassungsvoraussetzung nach § 1 Absatz 1 Nummer 2 und
     der Zugangsvoraussetzungen nach § 5 Absatz 1 Nummer 1,
 
-
 4.  die Planung und die Durchführung der Lehrveranstaltungen,
-
 
 5.  die Studienbetreuung der Beamtinnen und Beamten sowie
 
-
 6.  die Abnahme der Modulprüfungen.
-
-
-
 
 
 ### § 13 Prüfungsamt
@@ -277,17 +235,11 @@ Dieses ist zuständig für
 
 1.  die Führung der Studien- und Prüfungsakten,
 
-
 2.  die Organisation des Ablaufs der Prüfungen,
-
 
 3.  die Ausstellung der Abschlusszeugnisse und
 
-
 4.  die Durchführung von Widerspruchsverfahren.
-
-
-
 
 
 ## Abschnitt 3 - Berufspraktische Einführung
@@ -296,14 +248,14 @@ Dieses ist zuständig für
 ### § 14 Zeitpunkt, Dauer und Ziel
 
 (1) An den erfolgreichen Abschluss des Masterstudiengangs
-„Intelligence and Security Studies“ schließt sich eine einjährige
-berufspraktische Einführung an. Für Verlängerungen der
-berufspraktischen Einführung gilt § 15 Absatz 1 und 2 der
+„Intelligence and Security Studies“ schließt sich eine
+einjährige berufspraktische Einführung an. Für Verlängerungen
+der berufspraktischen Einführung gilt § 18 Absatz 1 und 2 der
 Bundeslaufbahnverordnung entsprechend. Über die Verlängerung
 entscheidet die Dienstbehörde.
 
-(2) In der berufspraktischen Einführung sollen sich die Beamtinnen und
-Beamten im höheren nichttechnischen Verwaltungsdienst des Bundes
+(2) In der berufspraktischen Einführung sollen sich die Beamtinnen
+und Beamten im höheren nichttechnischen Verwaltungsdienst des Bundes
 bewähren.
 
 

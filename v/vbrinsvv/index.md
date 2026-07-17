@@ -1,6 +1,5 @@
 ---
-Title: Verordnung zur Einführung von Formularen für das Verbraucherinsolvenzverfahren
-  und das Restschuldbefreiungsverfahren
+Title: Verordnung zur Einführung von Formularen für das Verbraucherinsolvenzverfahren und das Restschuldbefreiungsverfahren
 jurabk: VbrInsVV
 layout: default
 origslug: vbrinsvv
@@ -17,8 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 703
 
 Zuletzt geändert durch
-:   Art. 8 G v. 22.12.2020 I 3328
-
+:   Art. 3 V v. 16.12.2022 I 2368
 
 
 ## Eingangsformel
@@ -40,40 +38,27 @@ folgenden, in der Anlage bestimmten Formulare eingeführt:
     Insolvenzordnung mit Antrag auf Erteilung der Restschuldbefreiung nach
     § 287 Abs. 1 der Insolvenzordnung,
 
-
 2.  Anlagen zum Antrag auf Eröffnung des Insolvenzverfahrens:
 
     a)  Personalbogen mit Angaben zur Person des Schuldners,
 
-
     b)  Bescheinigung über das Scheitern des außergerichtlichen
         Einigungsversuchs nach § 305 Abs. 1 Nr. 1 der Insolvenzordnung,
 
-
     c)  Abtretungserklärung nach § 287 Abs. 2 der Insolvenzordnung,
-
 
     d)  Zusammenfassung des wesentlichen Inhalts des Vermögensverzeichnisses
         nach § 305 Abs. 1 Nr. 3 der Insolvenzordnung (Vermögensübersicht),
 
-
-    e)  Verzeichnis des vorhandenen Vermögens und des Einkommens nach § 305
-        Abs. 1 Nr. 3 der Insolvenzordnung mit Ergänzungsblättern
+    e)  Verzeichnis des vorhandenen Vermögens und des Einkommens nach
+        § 305 Abs. 1 Nr. 3 der Insolvenzordnung mit Ergänzungsblättern
         (Vermögensverzeichnis),
-
 
     f)  Verzeichnis der Gläubiger und Verzeichnis der gegen den Schuldner
         gerichteten Forderungen nach § 305 Abs. 1 Nr. 3 der Insolvenzordnung
         (Gläubiger- und Forderungsverzeichnis),
 
-
     g)  Schuldenbereinigungsplan nach § 305 Abs. 1 Nr. 4 der Insolvenzordnung.
-
-
-
-
-
-
 
 (2) Den Formularen ist ein Hinweisblatt beizufügen, das deren
 wesentlichen Inhalt kurz erläutert.
@@ -86,27 +71,23 @@ dem Hinweisblatt sind zulässig:
 
 1.  Berichtigungen, die auf einer Änderung von Rechtsvorschriften beruhen;
 
-
 2.  Ergänzungen oder Anpassungen des Hinweisblattes zu den Formularen,
     soweit solche mit Rücksicht auf die Erfahrungen mit den Formularen
     geboten sind.
 
 
-
-
-
 ## § 2a Übergangsregelung
 
 Wird ein Antrag auf Eröffnung eines Verbraucherinsolvenzverfahrens
-zwischen dem 1. Oktober 2020 und dem 31. März 2021 gestellt, können
-die in der Anlage zur Verbraucherinsolvenzformularverordnung in der
-Fassung der Verordnung zur Änderung der
-Verbraucherinsolvenzvordruckverordnung vom 23. Juni 2014 (BGBl. I S.
-825) vorgesehenen Formulare weiterhin verwendet werden. Wird von der
-in Satz 1 genannten Möglichkeit Gebrauch gemacht, ist eine in der
-Abtretungserklärung erklärte, von § 287 Absatz 2 der Insolvenzordnung
-in der Fassung des Gesetzes zur weiteren Verkürzung des
-Restschuldbefreiungsverfahrens und zur Anpassung pandemiebedingter
+zwischen dem 1. Oktober 2020 und dem 31. März 2021 gestellt,
+können die in der Anlage zur Verbraucherinsolvenzformularverordnung
+in der Fassung der Verordnung zur Änderung der
+Verbraucherinsolvenzvordruckverordnung vom 23. Juni 2014 (BGBl.
+I S. 825) vorgesehenen Formulare weiterhin verwendet werden. Wird
+von der in Satz 1 genannten Möglichkeit Gebrauch gemacht, ist
+eine in der Abtretungserklärung erklärte, von § 287 Absatz 2 der
+Insolvenzordnung in der Fassung des Gesetzes zur weiteren Verkürzung
+des Restschuldbefreiungsverfahrens und zur Anpassung pandemiebedingter
 Vorschriften im Gesellschafts-, Genossenschafts-, Vereins- und
 Stiftungsrecht sowie im Miet- und Pachtrecht vom 22. Dezember 2020
 (BGBl. I S. 3328) abweichende anderslautende Abtretungsfrist nach
@@ -130,36 +111,69 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Formulare
 
+[Anlage: bgbl1_2022_1-j0825-1_0010.pdf](bgbl1_2022_1-j0825-1_0010.pdf)
 
+[Anlage: bgbl1_2022_2-j0828_0010.pdf](bgbl1_2022_2-j0828_0010.pdf)
 
+[Anlage: bgbl1_2022_3-j0829_0010.pdf](bgbl1_2022_3-j0829_0010.pdf)
 
+[Anlage: bgbl1_2022_4-j0825-1_0040.pdf](bgbl1_2022_4-j0825-1_0040.pdf)
 
+[Anlage: bgbl1_2022_5-j0825-1_0050.pdf](bgbl1_2022_5-j0825-1_0050.pdf)
 
+[Anlage: bgbl1_2022_6-j0832_0010.pdf](bgbl1_2022_6-j0832_0010.pdf)
 
+[Anlage: bgbl1_2022_7-j0825-1_0070.pdf](bgbl1_2022_7-j0825-1_0070.pdf)
 
+[Anlage: bgbl1_2022_8-j0825-1_0080.pdf](bgbl1_2022_8-j0825-1_0080.pdf)
 
+[Anlage: bgbl1_2022_9-j0825-1_0090.pdf](bgbl1_2022_9-j0825-1_0090.pdf)
 
+[Anlage: bgbl1_2022_10-j0825-1_0100.pdf](bgbl1_2022_10-j0825-1_0100.pdf)
 
+[Anlage: bgbl1_2022_11-j0825-1_0110.pdf](bgbl1_2022_11-j0825-1_0110.pdf)
 
+[Anlage: bgbl1_2022_12-j0825-1_0120.pdf](bgbl1_2022_12-j0825-1_0120.pdf)
 
+[Anlage: bgbl1_2022_13-j0825-1_0130.pdf](bgbl1_2022_13-j0825-1_0130.pdf)
 
+[Anlage: bgbl1_2022_14-j0825-1_0140.pdf](bgbl1_2022_14-j0825-1_0140.pdf)
 
+[Anlage: bgbl1_2022_15-j0825-1_0150.pdf](bgbl1_2022_15-j0825-1_0150.pdf)
 
+[Anlage: bgbl1_2022_16-j0825-1_0160.pdf](bgbl1_2022_16-j0825-1_0160.pdf)
 
+[Anlage: bgbl1_2022_17-j0825-1_0170.pdf](bgbl1_2022_17-j0825-1_0170.pdf)
 
+[Anlage: bgbl1_2022_18-j0825-1_0180.pdf](bgbl1_2022_18-j0825-1_0180.pdf)
 
+[Anlage: bgbl1_2022_19-j0825-1_0190.pdf](bgbl1_2022_19-j0825-1_0190.pdf)
 
+[Anlage: bgbl1_2022_20-j0825-1_0200.pdf](bgbl1_2022_20-j0825-1_0200.pdf)
 
+[Anlage: bgbl1_2022_21-j0825-1_0210.pdf](bgbl1_2022_21-j0825-1_0210.pdf)
 
+[Anlage: bgbl1_2022_22-j0825-1_0220.pdf](bgbl1_2022_22-j0825-1_0220.pdf)
 
+[Anlage: bgbl1_2022_23-j0825-1_0230.pdf](bgbl1_2022_23-j0825-1_0230.pdf)
 
+[Anlage: bgbl1_2022_24-j0825-1_0240.pdf](bgbl1_2022_24-j0825-1_0240.pdf)
 
+[Anlage: bgbl1_2022_25-j0825-1_0250.pdf](bgbl1_2022_25-j0825-1_0250.pdf)
 
+[Anlage: bgbl1_2022_26-j0825-1_0260.pdf](bgbl1_2022_26-j0825-1_0260.pdf)
 
+[Anlage: bgbl1_2022_27-j0825-1_0270.pdf](bgbl1_2022_27-j0825-1_0270.pdf)
 
+[Anlage: bgbl1_2022_28-j0825-1_0280.pdf](bgbl1_2022_28-j0825-1_0280.pdf)
 
+[Anlage: bgbl1_2022_29-j0825-1_0290.pdf](bgbl1_2022_29-j0825-1_0290.pdf)
 
+[Anlage: bgbl1_2022_30-j0825-1_0300.pdf](bgbl1_2022_30-j0825-1_0300.pdf)
 
+[Anlage: bgbl1_2022_31-j0825-1_0310.pdf](bgbl1_2022_31-j0825-1_0310.pdf)
 
+[Anlage: bgbl1_2022_32-j0825-1_0320.pdf](bgbl1_2022_32-j0825-1_0320.pdf)
 
+[Anlage: bgbl1_2022_33-j0859_0010.pdf](bgbl1_2022_33-j0859_0010.pdf)
 

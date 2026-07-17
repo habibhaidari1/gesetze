@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert
-  von 2 Euro (Gedenkmünze "Bremen")
+Title: "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze \"Bremen\")"
 jurabk: Münz2EuroBek 2009-11
 layout: default
 origslug: m_nz2eurobek_2009-11
@@ -19,8 +18,8 @@ Fundstelle
 
 ## (XXXX)
 
-Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
-I S. 2402) hat die Bundesregierung beschlossen, eine 2-Euro-
+Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999
+(BGBl. I S. 2402) hat die Bundesregierung beschlossen, eine 2-Euro-
 Gedenkmünze „Bremen“ prägen zu lassen. Die Auflage der Münze beträgt
 30 Millionen Stück.
 
@@ -33,10 +32,10 @@ Der Münzrand enthält in vertiefter Prägung unverändert die Inschrift:
 
 „EINIGKEIT UND RECHT UND FREIHEIT“.
 
-Die nationale Seite zeigt das Rathaus von Bremen mit dem Roland, die
-zusammen die republikanische Geschichte und Tradition Bremens
-symbolisieren. Die Weserrenaissance-Fassade des alten Rathauses ist
-realitätsnah dargestellt, der Roland im Verhältnis zum Rathaus
+Die nationale Seite zeigt das Rathaus von Bremen mit dem Roland,
+die zusammen die republikanische Geschichte und Tradition Bremens
+symbolisieren. Die Weserrenaissance-Fassade des alten Rathauses
+ist realitätsnah dargestellt, der Roland im Verhältnis zum Rathaus
 überhöht. Die Länderbezeichnung „BREMEN“ verknüpft Rathaus und Roland
 mit dem Bundesland. Auf der Randzone befinden sich die europäischen
 Sterne, das Ausgabejahr 2010 und die Nationalitätenkennzeichnung „D“
@@ -56,11 +55,7 @@ Broschat, Berlin.
 Der Bundesminister der Finanzen
 
 
-## (XXXX)
+## Anlage
 
 (Fundstelle: BGBl. I 2009, 3882)
-
-*    *        ![bgbl1_2009_j3882-1_0010.jpg](bgbl1_2009_j3882-1_0010.jpg)
-    *        ![bgbl1_2009_j3882-1_0020.jpg](bgbl1_2009_j3882-1_0020.jpg)
-
 

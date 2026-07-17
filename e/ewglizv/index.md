@@ -16,12 +16,7 @@ Fundstelle
 :   BGBl I: 1987, 2334
 
 Zuletzt geändert durch
-:   Art. 1 V v. 15.4.2004 I 588
-
-Die V dient der Durchführung von Rechtsakten der Europäischen
-Gemeinschaften
-im Rahmen der Gemeinsamen Marktorganisationen und Handelsregelungen,
-insbesondere der EWGV 2823/87 und EWGV 2454/93.
+:   Art. 1 V v. 10.3.2022 I 428
 
 
 ## Eingangsformel
@@ -34,22 +29,11 @@ Finanzen und dem Bundesminister für Wirtschaft verordnet:
 
 ## § 1 Anwendungsbereich
 
-Die Vorschriften dieser Verordnung gelten für die Durchführung der
-Rechtsakte des Rates und der Kommission der Europäischen
-Gemeinschaften, die im Rahmen der Gemeinsamen Marktorganisationen und
-Handelsregelungen hinsichtlich der
-
-1.  Einfuhrlizenzen,
-
-
-2.  Ausfuhrlizenzen,
-
-
-3.  Vorausfestsetzungsbescheinigungen
-
-
-
-(Lizenzen) erlassen worden sind.
+Die Vorschriften dieser Verordnung gelten für die Durchführung
+der Rechtsakte der Europäischen Gemeinschaft und der Europäischen
+Union, die im Rahmen der gemeinsamen Marktorganisationen und der
+Handelsregelungen hinsichtlich der Lizenzen im Sinne des § 5 des
+Marktorganisationsgesetzes erlassen worden sind.
 
 
 ## § 2
@@ -64,46 +48,46 @@ Handelsregelungen hinsichtlich der
 
 ## § 4 Abschreibungen auf der Lizenz
 
-Die Abschreibung und die Bestätigung auf der Lizenz nimmt die
-zuständige Zollstelle vor. Die für die Abschreibung erforderlichen
-Angaben kann der Beteiligte auch selbst auf der Lizenz eintragen. Bei
-einer nachträglich erteilten Lizenz nach den in § 1 genannten
-Rechtsakten nimmt das Hauptzollamt Hamburg-Jonas die Abschreibung und
-die Bestätigung auf der Lizenz vor.
+(1) Die Abschreibung und die Bestätigung auf der Lizenz nimmt die
+Bundesfinanzverwaltung vor. Die für die Abschreibung erforderlichen
+Angaben kann der Beteiligte auch selbst auf der Lizenz eintragen.
+
+(2) Elektronisch erteilte Lizenzen werden durch die
+Bundesfinanzverwaltung elektronisch abgeschrieben und bestätigt. Die
+Marktordnungsstelle und die Bundesfinanzverwaltung übermitteln sich
+dazu gegenseitig auf elektronischem Weg, soweit erforderlich,
+
+1.  die in Abschnitt I Nummer 1, 4, 5 und 11 der Anlage des
+    Marktorganisationsgesetzes genannten allgemeinen Daten,
+
+2.  die in Abschnitt II Nummer 8, 11, 15 bis 20 und 22 der Anlage des
+    Marktorganisationsgesetzes genannten maßnahmenspezifischen Angaben
+    sowie
+
+3.  die in der referenzierten Zollanmeldung enthaltene Nummer der
+    Rechnung.
 
 
-## § 5 Freigabe der Sicherheit
+## § 5 Nachweise für den Handel mit Drittländern oder für die Referenzmenge
 
-(1) Hängt die Freigabe der für eine Lizenz geleisteten Sicherheit von
-dem Nachweis ab, daß die Ware ihrer Bestimmung zugeführt worden ist,
-und ist die Form dieses Nachweises nicht in anderen Vorschriften
-festgelegt, so ist für diesen Nachweis ein Kontrollexemplar T 5 nach
-Artikel 912a der Verordnung (EWG) Nr. 2454/93 der Kommission vom 2.
-Juli 1993 mit Durchführungsvorschriften zu der Verordnung (EWG) Nr.
-2913/92 des Rates zur Festlegung des Zollkodex der Gemeinschaften
-(ABl. EG Nr. L 253 S. 1) in der jeweils geltenden Fassung zu
-verwenden.
+(1) Soweit Rechtsakte der Europäischen Union für die Erteilung
+einer Lizenz für ein Zollkontingent einen Nachweis über den Handel
+mit Drittländern (Handelsnachweis) vorsehen oder vom Nachweis einer
+Referenzmenge (Referenzmengennachweis) abhängig machen, muss im
+Nachweis der Antragsteller als zollrechtlicher Anmelder nach Artikel 5
+Nummer 15 der Verordnung (EU) Nr. 952/2013 des Europäischen Parlaments
+und des Rates vom 9. Oktober 2013 zur Festlegung des Zollkodex der
+Union (ABl. L 269 vom 10.10.2013, S. 1; L 287 vom 29.10.2013, S. 90;
+L 267 vom 30.9.2016, S. 2; L 317 vom 1.10.2020, S. 39), die zuletzt
+durch die Verordnung (EU) 2019/632 (ABl. L 111 vom 25.4.2019, S. 54)
+geändert worden ist, ausgewiesen sein.
 
-(2) Kann der Beteiligte im Falle des Absatz 1 aus von ihm nicht zu
-vertretenden Gründen das Kontrollexemplar T 5 nicht vorlegen, wird der
-Nachweis, dass die Ware ihrer Bestimmung zugeführt wurde, durch die
-Vorlage anderer gleichwertiger Belege geführt, insbesondere durch
-Schriftstücke nach Artikel 49 Abs. 3 der Verordnung (EG) Nr. 800/1999
-der Kommission vom 15. April 1999 über gemeinsame
-Durchführungsvorschriften für Ausfuhrerstattungen bei
-landwirtschaftlichen Erzeugnissen (ABl. EG Nr. L 102 S. 11) in der
-jeweils geltenden Fassung.
-
-(3) Im Falle des Artikels 32 Abs. 1 Satz 3 der Verordnung (EG) Nr.
-1291/2000 der Kommission vom 9. Juni 2000 über gemeinsame
-Durchführungsvorschriften für Einfuhr- und Ausfuhrlizenzen sowie
-Vorausfestsetzungsbescheinigungen für landwirtschaftliche Erzeugnisse
-(ABl. EG Nr. L 152 S. 1) in der jeweils geltenden Fassung wird die
-Sicherheit auf Vorlage des Bescheids, aus dem hervorgeht, dass eine
-Kürzung der Ausfuhrerstattung nach Artikel 50 Abs. 1 der Verordnung
-(EG) Nr. 800/1999 wegen Nichteinhaltung der Fristen von Artikel 7 Abs.
-1 oder Artikel 40 Abs. 1 der Verordnung (EG) Nr. 800/1999 vorgenommen
-wurde, vollständig freigegeben.
+(2) Für die Zwecke des Referenzmengennachweises muss sich die in
+der Zollanmeldung anzugebende Rechnungsnummer auf die Rechnung in
+der Fassung beziehen, die in der Buchhaltung des Antragstellers
+oder Lizenzübernehmers verbucht und von ihm beglichen wird. Die
+Marktordnungsstelle ist berechtigt, Übersetzungen anzufordern, wenn
+die vorgelegte Rechnung nicht in deutscher Sprache abgefasst ist.
 
 
 ## § 6 Inkrafttreten, Übergangsregelung

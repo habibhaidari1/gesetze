@@ -1,7 +1,5 @@
 ---
-Title: Hundertsiebenundneunzigste Durchführungsverordnung zur Luftverkehrs-Ordnung
-  (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom
-  Flughafen Frankfurt am Main)
+Title: Hundertsiebenundneunzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Flughafen Frankfurt am Main)
 jurabk: LuftVODV 197
 layout: default
 origslug: luftvodv_197
@@ -16,4 +14,7 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BAnz: 1999, Nr 233, 19762
+
+Fundstelle
+:   BAnz: 1999, 19762
 

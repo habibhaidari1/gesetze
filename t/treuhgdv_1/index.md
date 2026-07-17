@@ -15,6 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   GBl DDR I: 1990, 1076
 
+Fundstelle
+:   GBl DDR I: 1990, Nr 53, 1076
 
 
 ## Eingangsformel
@@ -31,10 +33,10 @@ folgendes verordnet:
 Aufgaben gemäß dem Treuhandgesetz zur Durchführung des dezentral zu
 verwirklichenden Privatisierungsauftrages.
 
-(2) Die Treuhand-Aktiengesellschaften sind entsprechend der Anlage zur
-Satzung der Treuhandanstalt (GBl. I Nr. 46 S. 809) gegliedert. Der
-Verwaltungsrat der Treuhandanstalt ist berechtigt, in Durchführung der
-Aufgaben der Privatisierung, Sanierung und Strukturanpassung der
+(2) Die Treuhand-Aktiengesellschaften sind entsprechend der Anlage
+zur Satzung der Treuhandanstalt (GBl. I Nr. 46 S. 809) gegliedert.
+Der Verwaltungsrat der Treuhandanstalt ist berechtigt, in Durchführung
+der Aufgaben der Privatisierung, Sanierung und Strukturanpassung der
 Unternehmen sachlich gebotene Anpassungen und Veränderungen bezüglich
 der Zuordnung von Kapitalgesellschaften und der Anzahl und Struktur
 der Treuhand-Aktiengesellschaften zu beschließen.
@@ -42,10 +44,10 @@ der Treuhand-Aktiengesellschaften zu beschließen.
 
 ## § 2
 
-Den einzelnen Treuhand-Aktiengesellschaften werden die ihnen vom
-Verwaltungsrat der Treuhandanstalt gemäß § 7 Abs. 3 des
-Treuhandgesetzes zuzuordnenden Anteile an den Kapitalgesellschaften zu
-treuhänderischem Eigentum übertragen. Die Treuhand-
+Den einzelnen Treuhand-Aktiengesellschaften werden die ihnen
+vom Verwaltungsrat der Treuhandanstalt gemäß § 7 Abs. 3 des
+Treuhandgesetzes zuzuordnenden Anteile an den Kapitalgesellschaften
+zu treuhänderischem Eigentum übertragen. Die Treuhand-
 Aktiengesellschaften üben die Gesellschafterrechte an den von ihnen
 gehaltenen Anteilen im eigenen Namen im Interesse der Treuhandanstalt
 aus.
@@ -63,11 +65,11 @@ Treuhandvertrag.
 Beteiligungsveräußerung erzielte Erlöse und Erträge aus Beteiligungen
 an die Treuhandanstalt abzuführen, soweit im Unternehmens- und
 Finanzierungsplan und nach Maßgabe des § 5 Abs. 1 des Treuhandgesetzes
-durch die Treuhandanstalt nicht etwas anderes festgelegt ist oder die
-Treuhandanstalt sie der Treuhand-Aktiengesellschaft zur Erfüllung
+durch die Treuhandanstalt nicht etwas anderes festgelegt ist oder
+die Treuhandanstalt sie der Treuhand-Aktiengesellschaft zur Erfüllung
 ihrer Aufgaben beläßt. Maßnahmen nach § 9 Abs. 4 des Treuhandgesetzes
-bedürfen der Einwilligung der Treuhandanstalt. Die Treuhandanstalt ist
-ermächtigt, Wertgrenzen für das Erfordernis der Einwilligung im
+bedürfen der Einwilligung der Treuhandanstalt. Die Treuhandanstalt
+ist ermächtigt, Wertgrenzen für das Erfordernis der Einwilligung im
 Einvernehmen mit dem Ministerium der Finanzen festzulegen.
 
 

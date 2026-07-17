@@ -22,8 +22,8 @@ Geändert durch
 ## Eingangsformel
 
 Auf Grund des § 14 Abs. 1 Nr. 1 der Reichsabgabenordnung in der
-Fassung des Gesetzes zur Änderung von einzelnen Vorschriften der
-Reichsabgabenordnung und anderer Gesetze vom 11. Juli 1953
+Fassung des Gesetzes zur Änderung von einzelnen Vorschriften
+der Reichsabgabenordnung und anderer Gesetze vom 11. Juli 1953
 (Bundesgesetzbl. I S. 511) wird mit Zustimmung des Bundesrates
 verordnet:
 
@@ -39,9 +39,9 @@ nicht übersteigt.
 
 ## § 2
 
-Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
-4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit Artikel V
-des Gesetzes zur Änderung von einzelnen Vorschriften der
+Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes
+vom 4. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit
+Artikel V des Gesetzes zur Änderung von einzelnen Vorschriften der
 Reichsabgabenordnung und anderer Gesetze vom 11. Juli 1953 auch im
 Land Berlin.
 

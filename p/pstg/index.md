@@ -16,26 +16,22 @@ Fundstelle
 :   BGBl I: 2007, 122
 
 Zuletzt geändert durch
-:   Art. 88 V v. 19.6.2020 I 1328
+:   Art. 2 G v. 29.3.2026 I Nr. 83
 
-Änderung durch
-:   Art. 5 G v. 28.3.2021 I 591 (Nr. 14) textlich nachgewiesen, dokumentarisch noch nicht abgeschlossen
-
-Änderung durch
-:   Art. 3 G v. 4.5.2021 I 882 (Nr. 21) ist berücksichtigt
+Stand
+:   Bek. v. 15.10.2025 I Nr. 262 ist berücksichtigt
 
 
 ## Kapitel 1 - Allgemeine Bestimmungen
 
 
-
 ### § 1 Personenstand, Aufgaben des Standesamts
 
 (1) Personenstand im Sinne dieses Gesetzes ist die sich aus den
-Merkmalen des Familienrechts ergebende Stellung einer Person innerhalb
-der Rechtsordnung einschließlich ihres Namens. Der Personenstand
-umfasst Daten über Geburt, Eheschließung, Begründung einer
-Lebenspartnerschaft und Tod sowie damit in Verbindung stehende
+Merkmalen des Familienrechts ergebende Stellung einer Person
+innerhalb der Rechtsordnung einschließlich ihres Namens. Der
+Personenstand umfasst Daten über Geburt, Eheschließung, Begründung
+einer Lebenspartnerschaft und Tod sowie damit in Verbindung stehende
 familien- und namensrechtliche Tatsachen.
 
 (2) Die nach Landesrecht für das Personenstandswesen zuständigen
@@ -50,11 +46,12 @@ Bundesrecht oder Landesrecht zugewiesen werden.
 
 (1) Beurkundungen und Beglaubigungen für Zwecke des
 Personenstandswesens werden im Standesamt nur von hierzu bestellten
-Urkundspersonen (Standesbeamten) vorgenommen. Gleiches gilt für die
-Ausstellung von Personenstandsurkunden und sonstigen öffentlichen
-Urkunden. Die Zuständigkeit der Notare, anderer Urkundspersonen oder
-sonstiger Stellen für öffentliche Beurkundungen und Beglaubigungen
-bleibt unberührt.
+Urkundspersonen (Standesbeamten) vorgenommen. Gleiches gilt
+für die Ausstellung von Personenstandsurkunden, elektronischen
+Personenstandsbescheinigungen und sonstigen öffentlichen Urkunden.
+Die Zuständigkeit der Notare, anderer Urkundspersonen oder sonstiger
+Stellen für öffentliche Beurkundungen und Beglaubigungen bleibt
+unberührt.
 
 (2) Bei der Wahrnehmung ihrer Aufgaben als Urkundspersonen sind die
 Standesbeamten nicht an Weisungen gebunden.
@@ -69,35 +66,41 @@ männlicher Form geführt.
 ## Kapitel 2 - Führung der Personenstandsregister
 
 
-
 ### § 3 Personenstandsregister
 
-(1)Das Standesamt führt für seinen Zuständigkeitsbereich
+(1) Das Standesamt führt für seinen Zuständigkeitsbereich
 
 1.  ein Eheregister (§ 15),
 
-
 2.  ein Lebenspartnerschaftsregister (§ 17),
-
 
 3.  ein Geburtenregister (§ 21),
 
-
 4.  ein Sterberegister (§ 31).
-
-
 
 Die Registereinträge bestehen aus einem urkundlichen Teil
 (Haupteintrag und Folgebeurkundungen) und einem Hinweisteil.
 
-(2) Die Personenstandsregister werden elektronisch geführt. Die
-Beurkundungen in den Personenstandsregistern sind jährlich fortlaufend
-zu nummerieren und mit der Angabe des Familiennamens des
-zugriffsberechtigten Standesbeamten abzuschließen. Die Identität der
-Person, die die Eintragung vornimmt, muss jederzeit erkennbar sein.
-Das Programm muss eine automatisierte Suche anhand der in die
+(2) Die Personenstandsregister werden elektronisch geführt.
+Die Beurkundungen in den Personenstandsregistern sind jährlich
+fortlaufend zu nummerieren und mit der Angabe des Familiennamens
+des zugriffsberechtigten Standesbeamten abzuschließen. Die Identität
+der Person, die die Eintragung vornimmt, muss jederzeit erkennbar
+sein. Das Programm muss eine automatisierte Suche anhand der in die
 Personenstandsregister aufzunehmenden Angaben zulassen; die Register
 müssen jederzeit nach Jahreseinträgen ausgewertet werden können.
+
+(3) Den Registereinträgen werden als funktionale Ordnungsmerkmale
+außerhalb des urkundlichen Teils und des Hinweisteils
+
+1.  die Daten einer Stilllegung nach § 47 Absatz 4,
+
+2.  die Sperrvermerke nach § 64 und
+
+3.  die Identifikationsnummern nach dem Identifikationsnummerngesetz für
+    die beurkundeten Personen
+
+zugeordnet.
 
 
 ### § 4 Sicherungsregister
@@ -106,8 +109,8 @@ müssen jederzeit nach Jahreseinträgen ausgewertet werden können.
 Abschluss (§ 3 Abs. 2) in einem weiteren elektronischen Register
 (Sicherungsregister) zu speichern.
 
-(2) Das Sicherungsregister ist wie das Personenstandsregister am Ende
-des Jahres abzuschließen. Es ist nach Fortführung des
+(2) Das Sicherungsregister ist wie das Personenstandsregister
+am Ende des Jahres abzuschließen. Es ist nach Fortführung des
 Personenstandsregisters zu aktualisieren.
 
 
@@ -134,15 +137,10 @@ Sicherungsregister gelten folgende Fristen:
 
 1.  für Eheregister und Lebenspartnerschaftsregister 80 Jahre;
 
-
 2.  für Geburtenregister 110 Jahre;
-
 
 3.  für Sterberegister 30 Jahre; für Sterberegister des Sonderstandesamts
     in Bad Arolsen 80 Jahre.
-
-
-
 
 
 ### § 6 Aktenführung
@@ -155,41 +153,46 @@ betreffen, werden in besonderen Akten (Sammelakten) aufbewahrt.
 
 (1) Die Personenstandsregister und die Sicherungsregister sind
 räumlich getrennt voneinander und vor unberechtigtem Zugriff geschützt
-aufzubewahren.
+aufzubewahren. Zum Schutz vor physischer Vernichtung beider Register
+durch Naturkatastrophen und Großschadenslagen soll die räumliche
+Trennung zwischen elektronischem Register und Sicherungsregister
+mindestens 20 Kilometer betragen.
 
-(2) Die Personenstandsregister sind dauernd aufzubewahren. Für die
-Sicherungsregister und die Sammelakten endet die Pflicht zur
+(2) Die Personenstandsregister sind dauernd aufzubewahren. Für
+die Sicherungsregister und die Sammelakten endet die Pflicht zur
 Aufbewahrung mit Ablauf der in § 5 Absatz 5 für das jeweilige Register
 genannten Frist.
 
 (3) Nach Ablauf der in § 5 Absatz 5 genannten Fristen sind die
-Personenstandsregister, die Sicherungsregister und die Sammelakten
-nach den jeweiligen archivrechtlichen Vorschriften den zuständigen
-öffentlichen Archiven zur Übernahme anzubieten. Dies gilt nicht für
-stillgelegte Registereinträge nach § 47 Absatz 4; diese sind zu
-löschen.
+entsprechenden Teile der Personenstandsregister, Sicherungsregister
+und Sammelakten nach den jeweiligen archivrechtlichen Vorschriften
+den zuständigen öffentlichen Archiven zur Übernahme anzubieten.
+Die entsprechenden Registereinträge und Sammelakten sind nach
+der Übernahme oder Ablehnung der Übernahme durch die Archive im
+Standesamt zu löschen; dies gilt nicht bei Ablehnung der Übernahme von
+Personenstandsregistern.
 
 
 ### § 8 Verlust eines Personenstandsregisters
 
 (1) Gerät ein Ehe-, Lebenspartnerschafts-, Geburten- oder
-Sterberegister ganz oder teilweise in Verlust, so ist es auf Grund des
-Sicherungsregisters wiederherzustellen. Ein Verlust ist auch dann
+Sterberegister ganz oder teilweise in Verlust, so ist es auf Grund
+des Sicherungsregisters wiederherzustellen. Ein Verlust ist auch dann
 gegeben, wenn die Daten eines Registereintrags wegen eines nicht zu
 behebenden technischen Fehlers nicht mehr zu verwenden sind.
 
 (2) Gerät das Sicherungsregister ganz oder teilweise in Verlust, so
 ist es auf Grund des Personenstandsregisters wiederherzustellen. Sind
-sowohl das Personenstandsregister als auch das Sicherungsregister in
-Verlust geraten, so sind beide Register durch Neubeurkundung
+sowohl das Personenstandsregister als auch das Sicherungsregister
+in Verlust geraten, so sind beide Register durch Neubeurkundung
 wiederherzustellen. Die Beurkundungen werden nach amtlicher Ermittlung
 des Sachverhalts vorgenommen.
 
 (3) Sind Eheschließung, Begründung der Lebenspartnerschaft, Geburt
-oder Tod einer Person mit hinreichender Sicherheit festgestellt, so
-ist die Neubeurkundung auch dann zulässig, wenn der Inhalt des
-früheren Eintrags nicht mehr zweifelsfrei festgestellt werden kann.
-Der Zeitpunkt der Eheschließung, der Begründung der
+oder Tod einer Person mit hinreichender Sicherheit festgestellt,
+so ist die Neubeurkundung auch dann zulässig, wenn der Inhalt
+des früheren Eintrags nicht mehr zweifelsfrei festgestellt
+werden kann. Der Zeitpunkt der Eheschließung, der Begründung der
 Lebenspartnerschaft, der Geburt oder des Todes ist hierbei so genau zu
 bestimmen, wie es nach dem Ergebnis der Ermittlungen möglich ist.
 
@@ -200,8 +203,8 @@ berücksichtigt sind, vorgenommen werden.
 
 ### § 9 Beurkundungsgrundlagen
 
-(1) Eintragungen in den Personenstandsregistern werden auf Grund von
-Anzeigen, Anordnungen, Erklärungen, Mitteilungen und eigenen
+(1) Eintragungen in den Personenstandsregistern werden auf Grund
+von Anzeigen, Anordnungen, Erklärungen, Mitteilungen und eigenen
 Ermittlungen des Standesamts sowie von Einträgen in anderen
 Personenstandsregistern, Personenstandsurkunden oder sonstigen
 öffentlichen Urkunden vorgenommen.
@@ -222,26 +225,32 @@ anderer Personen verlangen und abnehmen.
 
 (1) Die nach diesem Gesetz zur Anzeige Verpflichteten haben die für
 die Beurkundung des Personenstandsfalls erforderlichen Angaben zu
-machen, soweit diese nicht Registern entnommen werden können, zu denen
-das Standesamt einen Zugang hat.
+machen und die erforderlichen Nachweise zu erbringen. Das Standesamt
+soll auf die Vorlage von Nachweisen verzichten, soweit diese
+aus Personenstandsregistern oder aus Registern anderer Behörden
+elektronisch abgerufen werden können.
 
 (2) Auskunftspflichtig unter den Voraussetzungen des Absatzes 1 sind
 weitere Personen, die Angaben zu Tatsachen machen können, die für
 Beurkundungen in den Personenstandsregistern benötigt werden.
 
-(3) Absatz 1 gilt für die Beibringung von Nachweisen entsprechend.
+(3) Werden dem Standesamt mit einer qualifizierten elektronischen
+Signatur oder einem qualifizierten elektronischen Siegel versehene
+elektronische Dokumente übermittelt, so ist die Gültigkeit der
+Signatur oder des Siegels unter Berücksichtigung des aktuellen Standes
+der Technik zu prüfen und zu dokumentieren sowie der Beweiswert im
+Bedarfsfall gemäß § 15 des Vertrauensdienstegesetzes vom 18. Juli 2017
+(BGBl. I S. 2745) sicherzustellen.
 
-(4) Eine Auskunfts- und Nachweispflicht besteht nicht bei einer
-vertraulichen Geburt nach § 25 Absatz 1 des
+(4) Eine Auskunfts- und Nachweispflicht besteht nicht
+bei einer vertraulichen Geburt nach § 25 Absatz 1 des
 Schwangerschaftskonfliktgesetzes.
 
 
 ## Kapitel 3 - Eheschließung
 
 
-
 ### Abschnitt 1 - Zuständigkeit, Anmeldung und Eheschließung
-
 
 
 #### § 11 Zuständigkeit und Standesamtsvorbehalt
@@ -249,31 +258,25 @@ Schwangerschaftskonfliktgesetzes.
 (1) Zuständig für die Eheschließung ist jedes deutsche Standesamt.
 
 (2) Eine religiöse oder traditionelle Handlung, die darauf gerichtet
-ist, eine der Ehe vergleichbare dauerhafte Bindung zweier Personen zu
-begründen, von denen eine das 18. Lebensjahr noch nicht vollendet hat,
-ist verboten. Das Gleiche gilt für den Abschluss eines Vertrags, der
-nach den traditionellen oder religiösen Vorstellungen der Partner an
-die Stelle der Eheschließung tritt. Die Verbote richten sich gegen
+ist, eine der Ehe vergleichbare dauerhafte Bindung zweier Personen
+zu begründen, von denen eine das 18. Lebensjahr noch nicht vollendet
+hat, ist verboten. Das Gleiche gilt für den Abschluss eines Vertrags,
+der nach den traditionellen oder religiösen Vorstellungen der Partner
+an die Stelle der Eheschließung tritt. Die Verbote richten sich gegen
 Personen, die
 
 1.  als Geistliche eine solche Handlung vornehmen oder hieran mitwirken,
 
-
 2.  als Sorgeberechtigte eines Minderjährigen eine solche Handlung
     veranlassen,
-
 
 3.  als Volljährige oder Beauftragte einem Vertrag zustimmen, der eine der
     Ehe vergleichbare dauerhafte Bindung begründet, oder
 
-
-4.  als anwesende Personen eine solche Handlung bezeugen, soweit ihre
-    Mitwirkung für die Gültigkeit der Handlung nach religiösen
+4.  als anwesende Personen eine solche Handlung bezeugen, soweit
+    ihre Mitwirkung für die Gültigkeit der Handlung nach religiösen
     Vorschriften, den traditionellen Vorstellungen oder dem Heimatrecht
     eines der Bindungswilligen als erforderlich angesehen wird.
-
-
-
 
 
 #### § 12 Anmeldung der Eheschließung
@@ -291,43 +294,47 @@ durch öffentliche Urkunden nachzuweisen
 
 1.  ihren Personenstand,
 
-
 2.  ihren Wohnsitz oder gewöhnlichen Aufenthalt,
-
 
 3.  ihre Staatsangehörigkeit,
 
-
 4.  wenn sie schon verheiratet waren oder eine Lebenspartnerschaft
-    begründet hatten, die letzte Eheschließung oder Begründung der
-    Lebenspartnerschaft sowie die Auflösung dieser Ehe oder
-    Lebenspartnerschaft. Ist die letzte Ehe oder Lebenspartnerschaft nicht
-    bei einem deutschen Standesamt geschlossen worden, so ist auch die
-    Auflösung etwaiger weiterer Vorehen oder Lebenspartnerschaften
+    begründet hatten, die letzte Eheschließung oder Begründung
+    der Lebenspartnerschaft sowie die Auflösung dieser Ehe oder
+    Lebenspartnerschaft. Ist die letzte Ehe oder Lebenspartnerschaft
+    nicht bei einem deutschen Standesamt geschlossen worden, so ist auch
+    die Auflösung etwaiger weiterer Vorehen oder Lebenspartnerschaften
     nachzuweisen, wenn eine entsprechende Prüfung nicht bereits von einem
     deutschen Standesamt bei einer früheren Eheschließung oder Begründung
     einer Lebenspartnerschaft durchgeführt worden ist.
 
-
-
-
 (3) Das Standesamt hat einen Antrag auf Befreiung von der Beibringung
 des Ehefähigkeitszeugnisses aufzunehmen und die Entscheidung
-vorzubereiten; hierfür haben die Eheschließenden auch die Nachweise zu
-erbringen, die für die Prüfung der Zulässigkeit der Ehe nach
+vorzubereiten; hierfür haben die Eheschließenden auch die Nachweise
+zu erbringen, die für die Prüfung der Zulässigkeit der Ehe nach
 anzuwendendem ausländischen Recht erforderlich sind. § 9 gilt
 entsprechend.
 
 
+#### § 12a Anmeldung der erneuten Eheschließung nach § 1305 Absatz 2 des Bürgerlichen Gesetzbuchs
+
+§ 12 Absatz 1 und 2 gelten für die Anmeldung einer erneuten
+Eheschließung nach § 1305 Absatz 2 des Bürgerlichen Gesetzbuchs mit
+der Maßgabe, dass die im Ausland erfolgte Eheschließung mit einer
+Person, die zu diesem Zeitpunkt das 16. Lebensjahr nicht vollendet
+hatte, durch öffentliche Urkunden nachzuweisen ist. § 12 Absatz 3 ist
+nicht anzuwenden.
+
+
 #### § 13 Prüfung der Ehevoraussetzungen
 
-(1) Das Standesamt, bei dem die Eheschließung angemeldet ist, hat zu
-prüfen, ob der Eheschließung ein Hindernis entgegensteht. Reichen die
-nach § 12 Abs. 2 vorgelegten Urkunden nicht aus, so haben die
+(1) Das Standesamt, bei dem die Eheschließung angemeldet ist, hat
+zu prüfen, ob der Eheschließung ein Hindernis entgegensteht. Reichen
+die nach § 12 Abs. 2 vorgelegten Urkunden nicht aus, so haben die
 Eheschließenden weitere Urkunden oder sonstige Nachweise vorzulegen.
 
-(2) Bestehen konkrete Anhaltspunkte dafür, dass die zu schließende Ehe
-nach § 1314 Abs. 2 des Bürgerlichen Gesetzbuchs aufhebbar wäre, so
+(2) Bestehen konkrete Anhaltspunkte dafür, dass die zu schließende
+Ehe nach § 1314 Abs. 2 des Bürgerlichen Gesetzbuchs aufhebbar wäre, so
 können die Eheschließenden in dem hierzu erforderlichen Umfang einzeln
 oder gemeinsam befragt werden; zum Beleg der Angaben kann ihnen die
 Beibringung geeigneter Nachweise aufgegeben werden. Wenn diese Mittel
@@ -339,15 +346,15 @@ sind.
 (3) Soll die Ehe wegen lebensgefährlicher Erkrankung eines
 Eheschließenden ohne abschließende Prüfung nach Absatz 1 geschlossen
 werden, so muss durch ärztliches Zeugnis oder auf andere Weise
-nachgewiesen werden, dass die Eheschließung nicht aufgeschoben werden
-kann. In diesem Fall muss glaubhaft gemacht werden, dass kein
+nachgewiesen werden, dass die Eheschließung nicht aufgeschoben
+werden kann. In diesem Fall muss glaubhaft gemacht werden, dass kein
 Ehehindernis besteht.
 
-(4) Wird bei der Prüfung der Ehevoraussetzungen ein Ehehindernis nicht
-festgestellt, so teilt das Standesamt den Eheschließenden mit, dass
-die Eheschließung vorgenommen werden kann; die Mitteilung ist für das
-Standesamt, das die Eheschließung vornimmt, verbindlich. Die
-Eheschließenden sind verpflichtet, Änderungen in ihren die
+(4) Wird bei der Prüfung der Ehevoraussetzungen ein Ehehindernis
+nicht festgestellt, so teilt das Standesamt den Eheschließenden mit,
+dass die Eheschließung vorgenommen werden kann; die Mitteilung ist
+für das Standesamt, das die Eheschließung vornimmt, verbindlich.
+Die Eheschließenden sind verpflichtet, Änderungen in ihren die
 Ehevoraussetzungen betreffenden tatsächlichen Verhältnissen
 unverzüglich anzuzeigen; die Mitteilung nach Satz 1 wird entsprechend
 geändert oder aufgehoben. Sind seit der Mitteilung an die
@@ -368,11 +375,11 @@ entsprechenden würdigen Form, die dem Standesbeamten eine
 ordnungsgemäße Vornahme seiner Amtshandlung ermöglicht, vorgenommen
 werden.
 
-(3) Die Erklärungen der Eheschließenden, die Ehe miteinander eingehen
-zu wollen, sind von dem Standesbeamten im Anschluss an die
+(3) Die Erklärungen der Eheschließenden, die Ehe miteinander
+eingehen zu wollen, sind von dem Standesbeamten im Anschluss an die
 Eheschließung in einer Niederschrift zu beurkunden. Die Niederschrift
-muss alle im Eheregister zu beurkundenden Angaben enthalten; sie ist
-von den Ehegatten, den Zeugen und dem Standesbeamten zu
+muss alle im Eheregister zu beurkundenden Angaben enthalten;
+sie ist von den Ehegatten, den Zeugen und dem Standesbeamten zu
 unterschreiben. Die Niederschrift wird zu den Sammelakten des
 Eheeintrags genommen.
 
@@ -383,39 +390,25 @@ Eheeintrags genommen.
 
 1.  Tag und Ort der Eheschließung,
 
-
 2.  die Vornamen und die Familiennamen der Ehegatten, Ort und Tag ihrer
-    Geburt, ihr Geschlecht sowie auf Wunsch eines Ehegatten seine
-    rechtliche Zugehörigkeit zu einer Religionsgemeinschaft, die
-    Körperschaft des öffentlichen Rechts ist,
-
+    Geburt, ihr Geschlecht,
 
 3.  die nach der Eheschließung geführten Vornamen und Familiennamen der
     Ehegatten.
-
-
-
 
 (2) Zum Eheeintrag wird hingewiesen
 
 1.  auf die Beurkundung der Geburt der Ehegatten,
 
-
 2.  auf die Staatsangehörigkeit der Ehegatten, wenn sie nicht Deutsche
     sind und ihre ausländische Staatsangehörigkeit nachgewiesen ist,
 
-
 3.  auf die Bestimmung eines Ehenamens,
-
 
 4.  auf das Sachrecht, dem die Namensführung der Ehegatten unterliegt.
 
 
-
-
-
 ### Abschnitt 2 - Fortführung des Eheregisters
-
 
 
 #### § 16 Fortführung
@@ -424,63 +417,51 @@ Eheeintrags genommen.
 
 1.  den Tod des erstverstorbenen Ehegatten,
 
-
 2.  die Todeserklärung oder die gerichtliche Feststellung der Todeszeit
     eines Ehegatten und die Aufhebung solcher Beschlüsse sowie die
     Auflösung der Ehe durch Eheschließung des anderen Ehegatten,
 
-
 3.  die Aufhebung oder die Scheidung der Ehe,
-
 
 4.  die Feststellung des Nichtbestehens der Ehe,
 
-
 5.  jede Änderung des Namens der Ehegatten,
-
 
 6.  jede sonstige Änderung des Personenstandes, soweit sie Angaben im
     Eheeintrag betrifft,
 
-
-7.  die Änderung der eingetragenen Religionszugehörigkeit, wenn der
-    betroffene Ehegatte dies wünscht,
-
-
-8.  Berichtigungen.
-
-
+7.  Berichtigungen.
 
 Auf die Wiederverheiratung oder die Begründung einer
 Lebenspartnerschaft wird hingewiesen.
 
-(2) Der Eheeintrag wird nicht mehr fortgeführt, wenn nach Absatz 1
-Nummer 4 eine Folgebeurkundung über das Nichtbestehen der Ehe
+(2) Der Eheeintrag wird nicht mehr fortgeführt, wenn nach Absatz
+1 Nummer 4 eine Folgebeurkundung über das Nichtbestehen der Ehe
 eingetragen worden ist. Wurde zum Eheeintrag eine Folgebeurkundung
 über die Auflösung der Ehe oder die Todeserklärung oder die
-gerichtliche Feststellung der Todeszeit eines Ehegatten nach Absatz 1
-Nummer 1 bis 3 aufgenommen, ist eine weitere Folgebeurkundung nur über
-die Änderung des Namens, Berichtigungen sowie in den Fällen des
-Absatzes 1 Nummer 2 über die Aufhebung eines Beschlusses und die
-Auflösung der Ehe durch Eheschließung des anderen Ehegatten
-einzutragen. Die Änderung der Vornamen ist nicht einzutragen, wenn
-diese auf Grund des Transsexuellengesetzes oder in einem
-Adoptionsverfahren geändert wurden. Für einen Ehegatten, der wieder
-geheiratet oder eine Lebenspartnerschaft begründet hat, ist nur eine
-Folgebeurkundung über Berichtigungen nach Absatz 1 Nummer 8
-einzutragen.
+gerichtliche Feststellung der Todeszeit eines Ehegatten nach Absatz
+1 Nummer 1 bis 3 aufgenommen, ist eine weitere Folgebeurkundung nur
+über die Änderung des Namens, Berichtigungen sowie in den Fällen
+des Absatzes 1 Nummer 2 über die Aufhebung eines Beschlusses und
+die Auflösung der Ehe durch Eheschließung des anderen Ehegatten
+einzutragen. Die Änderung der Vornamen oder des Geschlechts ist
+nicht einzutragen, wenn die Änderung nach § 2 Absatz 3 des Gesetzes
+über die Selbstbestimmung in Bezug auf den Geschlechtseintrag, durch
+Erklärung nach § 45b oder in einem Adoptionsverfahren erfolgt ist. Für
+einen Ehegatten, der wieder geheiratet oder eine Lebenspartnerschaft
+begründet hat, ist nur eine Folgebeurkundung über Berichtigungen nach
+Absatz 1 Nummer 7 einzutragen.
 
 
 ## Kapitel 4 - Lebenspartnerschaft
 
 
-
 ### § 17 Fortführung des Lebenspartnerschaftsregisters
 
-Für die Fortführung des Lebenspartnerschaftsregisters gilt § 16
-entsprechend. Zusätzlich ist im Fall der Umwandlung der
-Lebenspartnerschaft in eine Ehe eine Folgebeurkundung aufzunehmen.
-Nach Eintragung dieser Folgebeurkundung wird das
+Für die Fortführung des Lebenspartnerschaftsregisters gilt
+§ 16 entsprechend. Zusätzlich ist im Fall der Umwandlung
+der Lebenspartnerschaft in eine Ehe eine Folgebeurkundung
+aufzunehmen. Nach Eintragung dieser Folgebeurkundung wird das
 Lebenspartnerschaftsregister nicht fortgeführt.
 
 
@@ -491,8 +472,8 @@ Lebenspartnerschaft in eine Ehe das Bestehen der Lebenspartnerschaft
 durch öffentliche Urkunden nachzuweisen.
 
 (2) Für die Umwandlung einer Lebenspartnerschaft in eine Ehe gelten
-die §§ 11 und 12 Absatz 1 und 2 Nummer 1 bis 3 sowie die §§ 14 bis 16
-entsprechend.
+die §§ 11 und 12 Absatz 1 und 2 Nummer 1 bis 3 sowie die §§ 14 bis
+16 entsprechend.
 
 (3) Im Eheregister ist zusätzlich der Tag der Begründung der
 Lebenspartnerschaft zu beurkunden und sind Hinweise darüber
@@ -502,26 +483,24 @@ aufzunehmen.
 ## Kapitel 5 - Geburt
 
 
-
 ### Abschnitt 1 - Anzeige und Beurkundung
-
 
 
 #### § 18 Anzeige
 
-(1) Die Geburt eines Kindes muss dem Standesamt, in dessen
-Zuständigkeitsbereich es geboren ist,
+(1) Die Geburt eines Kindes ist dem Standesamt, in dessen
+Zuständigkeitsbereich es geboren ist, binnen einer Woche anzuzeigen,
+und zwar
 
-1.  von den in § 19 Satz 1 genannten Personen mündlich oder
+1.  von den in § 19 Satz 1 genannten Personen mündlich oder schriftlich,
+    oder
 
+2.  von den in § 20 Satz 1 und 2 genannten Einrichtungen schriftlich.
 
-2.  von den in § 20 Satz 1 und 2 genannten Einrichtungen schriftlich
-
-
-
-binnen einer Woche angezeigt werden. Ist ein Kind tot geboren, so muss
-die Anzeige spätestens am dritten auf die Geburt folgenden Werktag
-erstattet werden.
+Ist ein Kind tot geboren, so muss die Anzeige spätestens am dritten
+auf die Geburt folgenden Werktag erstattet werden. In den Fällen des
+Satzes 1 Nummer 1 haben die anzeigenden Personen die Geburt des Kindes
+glaubhaft zu machen.
 
 (2) Bei einer vertraulichen Geburt nach § 25 Absatz 1 des
 Schwangerschaftskonfliktgesetzes sind in der Anzeige auch das
@@ -535,26 +514,24 @@ Zur Anzeige sind verpflichtet
 
 1.  jeder Elternteil des Kindes, wenn er sorgeberechtigt ist,
 
-
 2.  jede andere Person, die bei der Geburt zugegen war oder von der Geburt
     aus eigenem Wissen unterrichtet ist.
 
-
-
 Eine Anzeigepflicht nach Nummer 2 besteht nur, wenn die
-sorgeberechtigten Eltern an der Anzeige gehindert sind.
+sorgeberechtigten Eltern an der Anzeige gehindert oder unbekannten
+Aufenthalts sind.
 
 
 #### § 20 Anzeige durch Einrichtungen
 
-Bei Geburten in Krankenhäusern und sonstigen Einrichtungen, in denen
-Geburtshilfe geleistet wird, ist der Träger der Einrichtung zur
-Anzeige verpflichtet. Das Gleiche gilt für Geburten in Einrichtungen,
-die der Unterbringung psychisch Kranker dienen, in Einrichtungen der
-Träger der Jugendhilfe sowie in Anstalten, in denen eine
-Freiheitsstrafe, ein Jugendarrest oder eine freiheitsentziehende
-Maßregel der Besserung und Sicherung vollzogen wird. Die
-Anzeigeberechtigung der in § 19 genannten Personen und ihre
+Bei Geburten in Krankenhäusern und sonstigen Einrichtungen, in
+denen Geburtshilfe geleistet wird, ist der Träger der Einrichtung
+zur Anzeige verpflichtet. Das Gleiche gilt für Geburten in
+Einrichtungen, die der Unterbringung psychisch Kranker dienen,
+in Einrichtungen der Träger der Jugendhilfe sowie in Anstalten,
+in denen eine Freiheitsstrafe, ein Jugendarrest oder eine
+freiheitsentziehende Maßregel der Besserung und Sicherung vollzogen
+wird. Die Anzeigeberechtigung der in § 19 genannten Personen und ihre
 Auskunftspflicht zu Angaben, die der nach Satz 1 oder 2 zur Anzeige
 Verpflichtete nicht machen kann, bleiben hiervon unberührt.
 
@@ -565,19 +542,11 @@ Verpflichtete nicht machen kann, bleiben hiervon unberührt.
 
 1.  die Vornamen und der Geburtsname des Kindes,
 
-
 2.  Ort sowie Tag, Stunde und Minute der Geburt,
-
 
 3.  das Geschlecht des Kindes,
 
-
-4.  die Vornamen und die Familiennamen der Eltern, ihr Geschlecht sowie
-    auf Wunsch eines Elternteils seine rechtliche Zugehörigkeit zu einer
-    Religionsgemeinschaft, die Körperschaft des öffentlichen Rechts ist.
-
-
-
+4.  die Vornamen und die Familiennamen der Eltern, ihr Geschlecht.
 
 (2) Ist ein Kind tot geboren, so werden nur die in Absatz 1 Nr. 2 bis
 4 vorgeschriebenen Angaben mit dem Zusatz aufgenommen, dass das Kind
@@ -585,13 +554,13 @@ tot geboren ist. Auf Wunsch einer Person, der bei Lebendgeburt des
 Kindes die Personensorge zugestanden hätte, sind auch Angaben nach
 Absatz 1 Nr. 1 einzutragen. Hätte die Personensorge bei Lebendgeburt
 des Kindes beiden Elternteilen zugestanden und führen sie keinen
-gemeinsamen Familiennamen, so kann ein Familienname für das Kind nur
-eingetragen werden, wenn sich die Eltern auf den Namen eines
+gemeinsamen Familiennamen, so kann ein Familienname für das Kind
+nur eingetragen werden, wenn sich die Eltern auf den Namen eines
 Elternteils einigen.
 
 (2a) Bei einer vertraulichen Geburt nach § 25 Absatz 1 des
-Schwangerschaftskonfliktgesetzes werden nur die in Absatz 1 Nummer 1
-bis 3 vorgeschriebenen Angaben aufgenommen. Die zuständige
+Schwangerschaftskonfliktgesetzes werden nur die in Absatz 1 Nummer
+1 bis 3 vorgeschriebenen Angaben aufgenommen. Die zuständige
 Verwaltungsbehörde bestimmt die Vornamen und den Familiennamen des
 Kindes.
 
@@ -600,26 +569,18 @@ Kindes.
 1.  auf die Staatsangehörigkeit der Eltern, wenn sie nicht Deutsche sind
     und ihre ausländische Staatsangehörigkeit nachgewiesen ist,
 
-
 2.  bei einem Kind, dessen Eltern miteinander verheiratet sind, auf deren
     Eheschließung,
 
-
 3.  auf die Beurkundung der Geburt der Mutter und des Vaters,
-
 
 4.  auf den Erwerb der deutschen Staatsangehörigkeit des Kindes nach § 4
     Absatz 3 des Staatsangehörigkeitsgesetzes,
 
-
 5.  auf das Sachrecht, dem die Namensführung des Kindes unterliegt.
 
 
-
-
-
 ### Abschnitt 2 - Besonderheiten
-
 
 
 #### § 22 Fehlende Angaben
@@ -628,8 +589,8 @@ Kindes.
 müssen sie binnen eines Monats mündlich oder schriftlich angezeigt
 werden. Sie werden alsdann bei dem Geburtseintrag beurkundet.
 
-(2) Die Vornamen des Kindes können nachträglich auch bei einem anderen
-Standesamt als dem, das die Geburt des Kindes beurkundet hat,
+(2) Die Vornamen des Kindes können nachträglich auch bei einem
+anderen Standesamt als dem, das die Geburt des Kindes beurkundet hat,
 angezeigt werden.
 
 (3) Kann das Kind weder dem weiblichen noch dem männlichen Geschlecht
@@ -663,12 +624,12 @@ Kind aufgefunden worden ist, für die Beurkundung zuständig.
 
 #### § 25 Person mit ungewissem Personenstand
 
-Wird im Inland eine Person angetroffen, deren Personenstand nicht
-festgestellt werden kann, so bestimmt die zuständige
-Verwaltungsbehörde, welcher Geburtsort und Geburtstag für sie
-einzutragen ist; sie bestimmt ferner die Vornamen und den
-Familiennamen. Auf ihre schriftliche Anordnung wird die Geburt in dem
-Geburtenregister des für den bestimmten Geburtsort zuständigen
+Wird im Inland eine Person angetroffen, deren Personenstand
+nicht festgestellt werden kann, so bestimmt die zuständige
+Verwaltungsbehörde, welcher Geburtsort und Geburtstag für
+sie einzutragen ist; sie bestimmt ferner die Vornamen und den
+Familiennamen. Auf ihre schriftliche Anordnung wird die Geburt in
+dem Geburtenregister des für den bestimmten Geburtsort zuständigen
 Standesamts beurkundet. Liegt der Geburtsort im Ausland, so ist das
 Standesamt, in dessen Bezirk die Person angetroffen worden ist, für
 die Beurkundung zuständig.
@@ -684,19 +645,18 @@ berichtigt, die ihn veranlasst hat.
 ### Abschnitt 3 - Fortführung des Geburtenregisters
 
 
-
 #### § 27 Feststellung und Änderung des Personenstandes, sonstige Fortführung
 
-(1) Wird die Vaterschaft nach der Beurkundung der Geburt des Kindes
-anerkannt oder gerichtlich festgestellt, so ist dies beim
+(1) Wird die Vaterschaft nach der Beurkundung der Geburt des
+Kindes anerkannt oder gerichtlich festgestellt, so ist dies beim
 Geburtseintrag zu beurkunden. Über den Vater werden die in § 21 Abs. 1
 Nr. 4 genannten Angaben eingetragen; auf die Beurkundung seiner Geburt
 wird hingewiesen.
 
 (2) Die Anerkennung der Mutterschaft zu einem Kinde wird auf
-mündlichen oder schriftlichen Antrag der Mutter oder des Kindes beim
-Geburtseintrag beurkundet, wenn geltend gemacht wird, dass die Mutter
-oder der Mann, dessen Vaterschaft anerkannt oder rechtskräftig
+mündlichen oder schriftlichen Antrag der Mutter oder des Kindes
+beim Geburtseintrag beurkundet, wenn geltend gemacht wird, dass die
+Mutter oder der Mann, dessen Vaterschaft anerkannt oder rechtskräftig
 festgestellt ist oder von dem das Kind nach Angabe der Mutter stammt,
 eine fremde Staatsangehörigkeit besitzt und das Heimatrecht dieses
 Elternteils eine Anerkennung der Mutterschaft vorsieht.
@@ -707,51 +667,36 @@ Elternteils eine Anerkennung der Mutterschaft vorsieht.
 1.  jede sonstige Änderung des Personenstandes des Kindes; bei einer
     Annahme als Kind gilt § 21 Abs. 1 Nr. 4 entsprechend,
 
-
 2.  die Änderung der Namensführung der Eltern oder eines Elternteils, wenn
     auch das Kind den geänderten Namen führt,
-
 
 3.  die Feststellung des Namens des Kindes mit allgemein verbindlicher
     Wirkung,
 
+4.  die nachträgliche Angabe des einzutragenden Geschlechts oder die
+    Änderung des Geschlechtseintrags des Kindes,
 
-4.  die nachträgliche Angabe oder die Änderung des Geschlechts des Kindes,
-
-
-5.  die rechtliche Zugehörigkeit des Kindes zu einer
-    Religionsgemeinschaft, die Körperschaft des öffentlichen Rechts ist,
-    sowie die Änderung dieser Eintragung, sofern das Kind dies wünscht,
-
+5.  die Änderung des Geschlechtseintrags und der Vornamen eines
+    Elternteils nach der Geburt des Kindes,
 
 6.  die Berichtigung des Eintrags.
 
-
-
-
 (4) Für die aus Anlass der Beurkundungen nach den Absätzen 1 und 3
-aufzunehmenden Hinweise gilt § 21 Abs. 3 entsprechend. Im Übrigen wird
-hingewiesen
+aufzunehmenden Hinweise gilt § 21 Abs. 3 entsprechend. Im Übrigen
+wird hingewiesen
 
 1.  auf die Ehe oder die Lebenspartnerschaft des Kindes,
 
-
 2.  auf die Geburt eines Kindes,
-
 
 3.  auf den Tod des Kindes oder eine das Kind betreffende Todeserklärung
     oder gerichtliche Feststellung der Todeszeit.
 
 
-
-
-
 ## Kapitel 6 - Sterbefall
 
 
-
 ### Abschnitt 1 - Anzeige und Beurkundung
-
 
 
 #### § 28 Anzeige
@@ -759,38 +704,27 @@ hingewiesen
 Der Tod eines Menschen muss dem Standesamt, in dessen
 Zuständigkeitsbereich er gestorben ist,
 
-1.  von den in § 29 Abs. 1 Satz 1 genannten Personen mündlich oder
-
+1.  von den in § 29 genannten Personen mündlich oder schriftlich, oder
 
 2.  von den in § 30 Abs. 1 genannten Einrichtungen schriftlich
-
-
 
 spätestens am dritten auf den Tod folgenden Werktag angezeigt werden.
 
 
 #### § 29 Anzeige durch Personen
 
-(1) Zur Anzeige sind verpflichtet
+Zur Anzeige sind verpflichtet
 
 1.  jede Person, die mit dem Verstorbenen in häuslicher Gemeinschaft
     gelebt hat,
 
-
 2.  die Person, in deren Wohnung sich der Sterbefall ereignet hat,
-
 
 3.  jede andere Person, die bei dem Tod zugegen war oder von dem
     Sterbefall aus eigenem Wissen unterrichtet ist.
 
-
-
 Eine Anzeigepflicht besteht nur, wenn eine in der Reihenfolge früher
 genannte Person nicht vorhanden oder an der Anzeige gehindert ist.
-
-(2) Ist mit der Anzeige ein bei einer Handwerkskammer oder Industrie-
-und Handelskammer registriertes Bestattungsunternehmen beauftragt, so
-kann die Anzeige auch schriftlich erstattet werden.
 
 
 #### § 30 Anzeige durch Einrichtungen und Behörden
@@ -800,8 +734,8 @@ sonstigen Einrichtungen gilt § 20 entsprechend.
 
 (2) Ist ein Anzeigepflichtiger nicht vorhanden oder ist sein
 Aufenthaltsort unbekannt und erlangt die für den Sterbeort zuständige
-Gemeindebehörde Kenntnis von dem Sterbefall, so hat sie die Anzeige zu
-erstatten.
+Gemeindebehörde Kenntnis von dem Sterbefall, so hat sie die Anzeige
+zu erstatten.
 
 (3) Findet über den Tod einer Person eine amtliche Ermittlung statt,
 so wird der Sterbefall auf schriftliche Anzeige der zuständigen
@@ -813,13 +747,9 @@ Behörde eingetragen.
 (1) Im Sterberegister werden beurkundet
 
 1.  die Vornamen und der Familienname des Verstorbenen, Ort und Tag seiner
-    Geburt, das Geschlecht sowie auf Wunsch des Anzeigenden die rechtliche
-    Zugehörigkeit des Verstorbenen zu einer Religionsgemeinschaft, die
-    Körperschaft des öffentlichen Rechts ist,
-
+    Geburt, das Geschlecht,
 
 2.  der letzte Wohnsitz und der Familienstand des Verstorbenen,
-
 
 3.  die Vornamen und der Familienname sowie das Geschlecht des Ehegatten
     oder Lebenspartners, wenn der Verstorbene im Zeitpunkt seines Todes
@@ -829,29 +759,19 @@ Behörde eingetragen.
     festgestellt worden, sind die Angaben für den letzten Ehegatten oder
     Lebenspartner aufzunehmen,
 
-
 4.  Ort sowie Tag, Stunde und Minute des Todes.
-
-
-
 
 (2) Zum Sterbeeintrag wird hingewiesen
 
 1.  auf die Beurkundung der Geburt des Verstorbenen,
 
-
 2.  bei verheiratet gewesenen Verstorbenen auf die Eheschließung,
-
 
 3.  bei Verstorbenen, die eine Lebenspartnerschaft führten, auf die
     Begründung der Lebenspartnerschaft.
 
 
-
-
-
 ### Abschnitt 2 - Fortführung des Sterberegisters; Todeserklärungen
-
 
 
 #### § 32 Fortführung
@@ -871,19 +791,17 @@ einer Sammlung dauernd aufbewahrt.
 ## Kapitel 7 - Besondere Beurkundungen
 
 
-
 ### Abschnitt 1 - Beurkundungen mit Auslandsbezug; besondere Beurkundungsfälle
-
 
 
 #### § 34 Eheschließungen im Ausland oder vor ermächtigten Personen im Inland
 
 (1) Hat ein Deutscher im Ausland die Ehe geschlossen, so kann die
-Eheschließung auf Antrag im Eheregister beurkundet werden; für den
-Besitz der deutschen Staatsangehörigkeit ist der Zeitpunkt der
+Eheschließung auf Antrag im Eheregister beurkundet werden; für
+den Besitz der deutschen Staatsangehörigkeit ist der Zeitpunkt der
 Antragstellung maßgebend. Die §§ 3 bis 7, 9, 10, 15 und 16 gelten
-entsprechend. Gleiches gilt für Staatenlose, heimatlose Ausländer und
-ausländische Flüchtlinge im Sinne des Abkommens über die
+entsprechend. Gleiches gilt für Staatenlose, heimatlose Ausländer
+und ausländische Flüchtlinge im Sinne des Abkommens über die
 Rechtsstellung der Flüchtlinge vom 28. Juli 1951 (BGBl. 1953 II S.
 559) mit gewöhnlichem Aufenthalt im Inland. Antragsberechtigt sind die
 Ehegatten, sind beide verstorben, deren Eltern und Kinder.
@@ -914,10 +832,10 @@ Absätzen 1 und 2 beurkundeten Eheschließungen.
 
 #### § 35 Begründung von Lebenspartnerschaften im Ausland
 
-(1) Hat ein Deutscher im Ausland eine Lebenspartnerschaft im Sinne des
-§ 1 des Lebenspartnerschaftsgesetzes in der bis einschließlich 21.
-Dezember 2018 geltenden Fassung begründet, so kann die Begründung der
-Lebenspartnerschaft auf Antrag im Lebenspartnerschaftsregister
+(1) Hat ein Deutscher im Ausland eine Lebenspartnerschaft im Sinne
+des § 1 des Lebenspartnerschaftsgesetzes in der bis einschließlich
+21\. Dezember 2018 geltenden Fassung begründet, so kann die Begründung
+der Lebenspartnerschaft auf Antrag im Lebenspartnerschaftsregister
 beurkundet werden; für den Besitz der deutschen Staatsangehörigkeit
 ist der Zeitpunkt der Antragstellung maßgebend. Die §§ 3 bis 7, 9, 10
 und 17 gelten entsprechend. Deutschen gleichgestellt sind Staatenlose,
@@ -942,12 +860,12 @@ beurkundeten Begründungen von Lebenspartnerschaften.
 
 #### § 36 Geburten und Sterbefälle im Ausland
 
-(1) Ist ein Deutscher im Ausland geboren oder gestorben, so kann der
-Personenstandsfall auf Antrag im Geburtenregister oder im
+(1) Ist ein Deutscher im Ausland geboren oder gestorben, so kann
+der Personenstandsfall auf Antrag im Geburtenregister oder im
 Sterberegister beurkundet werden; für den Besitz der deutschen
 Staatsangehörigkeit ist der Zeitpunkt der Antragstellung maßgebend.
-Die §§ 3 bis 7, 9, 10, 21, 27, 31 und 32 gelten entsprechend. Gleiches
-gilt für Staatenlose, heimatlose Ausländer und ausländische
+Die §§ 3 bis 7, 9, 10, 21, 27, 31 und 32 gelten entsprechend.
+Gleiches gilt für Staatenlose, heimatlose Ausländer und ausländische
 Flüchtlinge im Sinne des Abkommens über die Rechtsstellung der
 Flüchtlinge mit gewöhnlichem Aufenthalt im Inland. Antragsberechtigt
 sind
@@ -955,23 +873,19 @@ sind
 1.  bei einer Geburt die Eltern des Kindes sowie das Kind, dessen
     Ehegatte, Lebenspartner oder Kinder,
 
-
-2.  bei einem Sterbefall die Eltern, die Kinder und der Ehegatte oder
-    Lebenspartner des Verstorbenen, jede andere Person, die ein
+2.  bei einem Sterbefall die Eltern, die Kinder und der Ehegatte
+    oder Lebenspartner des Verstorbenen, jede andere Person, die ein
     rechtliches Interesse an der Beurkundung geltend machen kann, sowie
     die deutsche Auslandsvertretung, in deren Zuständigkeitsbereich der
     Sterbefall eingetreten ist.
-
-
-
 
 (2) Zuständig für die Beurkundung ist das Standesamt, in dessen
 Zuständigkeitsbereich die im Ausland geborene Person ihren Wohnsitz
 hat oder zuletzt hatte oder ihren gewöhnlichen Aufenthalt hat; hatte
 die verstorbene Person ihren letzten Wohnsitz oder gewöhnlichen
 Aufenthalt im Inland, so beurkundet das für diesen Ort zuständige
-Standesamt den Sterbefall. Ergibt sich danach keine Zuständigkeit, so
-beurkundet das Standesamt den Personenstandsfall, in dessen
+Standesamt den Sterbefall. Ergibt sich danach keine Zuständigkeit,
+so beurkundet das Standesamt den Personenstandsfall, in dessen
 Zuständigkeitsbereich die antragstellende Person ihren Wohnsitz hat
 oder zuletzt hatte oder ihren gewöhnlichen Aufenthalt hat. Ergibt sich
 danach keine Zuständigkeit, so beurkundet das Standesamt I in Berlin
@@ -986,19 +900,19 @@ beurkundeten Personenstandsfälle.
 (1) Die Geburt oder der Tod eines Menschen während der Reise auf einem
 Seeschiff, das die Bundesflagge führt, wird von dem Standesamt I in
 Berlin beurkundet. Dies gilt auch, wenn sich der Sterbefall während
-der Seereise außerhalb des Seeschiffes, jedoch nicht an Land oder in
-einem Hafen im Inland, ereignet hat und der Verstorbene von einem
+der Seereise außerhalb des Seeschiffes, jedoch nicht an Land oder
+in einem Hafen im Inland, ereignet hat und der Verstorbene von einem
 Seeschiff, das die Bundesflagge führt, aufgenommen wurde.
 
 (2) Die Geburt oder der Tod muss von dem nach § 19 oder § 29
 Verpflichteten dem Schiffsführer unverzüglich mündlich angezeigt
 werden.
 
-(3) Der Schiffsführer hat über die Anzeige der Geburt oder des Todes
-eine Niederschrift aufzunehmen, die von ihm und von dem Anzeigenden zu
-unterschreiben ist. In die Niederschrift sind auch die Angaben
-aufzunehmen, die nach § 21 oder § 31 in dem Geburten- oder
-Sterberegister zu beurkunden sind. Der Schiffsführer hat die
+(3) Der Schiffsführer hat über die Anzeige der Geburt oder des
+Todes eine Niederschrift aufzunehmen, die von ihm und von dem
+Anzeigenden zu unterschreiben ist. In die Niederschrift sind auch
+die Angaben aufzunehmen, die nach § 21 oder § 31 in dem Geburten-
+oder Sterberegister zu beurkunden sind. Der Schiffsführer hat die
 Niederschrift dem Standesamt I in Berlin zu übersenden.
 
 (4) Für die Beurkundung der Geburt oder des Todes eines Deutschen auf
@@ -1014,33 +928,35 @@ deutschen Konzentrationslager ist im Inland das Sonderstandesamt in
 Bad Arolsen ausschließlich zuständig.
 
 (2) Die Beurkundung der Sterbefälle erfolgt auf schriftliche Anzeige
-der Urkundenprüfstelle beim Sonderstandesamt in Bad Arolsen oder des
-Bundesarchivs. Die Anzeige kann auch von jeder Person erstattet
+der Urkundenprüfstelle beim Sonderstandesamt in Bad Arolsen oder
+des Bundesarchivs. Die Anzeige kann auch von jeder Person erstattet
 werden, die bei dem Tode zugegen war oder von dem Sterbefall aus
 eigenem Wissen unterrichtet ist. § 3 Abs. 2 Satz 1 und 4 und § 4 Abs.
 1 gelten nicht.
 
 (3) Die Beurkundung erfolgt nicht, wenn der Sterbefall bereits von
 einem anderen Standesamt beurkundet worden ist. Sind von diesem
-Standesamt Urkunden nicht zu erhalten, so ist der Sterbefall erneut zu
-beurkunden.
+Standesamt Urkunden nicht zu erhalten, so ist der Sterbefall erneut
+zu beurkunden.
 
 
 #### § 39 Ehefähigkeitszeugnis
 
 (1) Zur Ausstellung eines Ehefähigkeitszeugnisses, dessen ein
 Deutscher zur Eheschließung im Ausland bedarf, ist das Standesamt
-zuständig, in dessen Zuständigkeitsbereich der Eheschließende seinen
-Wohnsitz oder seinen gewöhnlichen Aufenthalt hat. Hat der
+zuständig, in dessen Zuständigkeitsbereich der Eheschließende
+seinen Wohnsitz oder seinen gewöhnlichen Aufenthalt hat. Hat der
 Eheschließende im Inland weder Wohnsitz noch gewöhnlichen Aufenthalt,
-so ist der Ort des letzten gewöhnlichen Aufenthalts maßgebend; hat er
-sich niemals oder nur vorübergehend im Inland aufgehalten, so ist das
-Standesamt I in Berlin zuständig.
+so ist der Ort des letzten gewöhnlichen Aufenthalts maßgebend; hat
+er sich niemals oder nur vorübergehend im Inland aufgehalten, so
+ist das Standesamt I in Berlin zuständig. Der Antrag auf Erteilung
+eines Ehefähigkeitszeugnisses kann mündlich oder schriftlich gestellt
+werden.
 
-(2) Das Ehefähigkeitszeugnis darf nur ausgestellt werden, wenn der
-beabsichtigten Eheschließung ein Ehehindernis nach deutschem Recht
-nicht entgegensteht; § 13 Abs. 1 bis 3 gilt entsprechend. Die
-Beibringung eines Ehefähigkeitszeugnisses für den anderen
+(2) Das Ehefähigkeitszeugnis darf nur ausgestellt werden, wenn
+der beabsichtigten Eheschließung ein Ehehindernis nach deutschem
+Recht nicht entgegensteht; § 13 Abs. 1 bis 3 gilt entsprechend.
+Die Beibringung eines Ehefähigkeitszeugnisses für den anderen
 Eheschließenden ist nicht erforderlich. Das Ehefähigkeitszeugnis gilt
 für die Dauer von sechs Monaten.
 
@@ -1062,8 +978,8 @@ entscheidet die gemeinsame Aufsichtsbehörde oder, falls eine solche
 fehlt, das Bundesministerium des Innern, für Bau und Heimat.
 
 (2) Bestehen Zweifel darüber, ob ein Personenstandsfall sich im Inland
-oder im Ausland ereignet hat, so entscheidet das Bundesministerium des
-Innern, für Bau und Heimat, ob und bei welchem Standesamt der
+oder im Ausland ereignet hat, so entscheidet das Bundesministerium
+des Innern, für Bau und Heimat, ob und bei welchem Standesamt der
 Personenstandsfall zu beurkunden ist.
 
 (3) Entscheidet die gemeinsame Aufsichtsbehörde, so ordnet sie die
@@ -1075,85 +991,53 @@ mit; diese ordnet die Eintragung an.
 ### Abschnitt 2 - Familienrechtliche Beurkundungen
 
 
-
 #### § 41 Erklärungen zur Namensführung von Ehegatten
 
-(1) Die Erklärung, durch die
+(1) Jede der folgenden Erklärungen kann auch von den Standesbeamten
+beglaubigt oder beurkundet werden:
 
-1.  Ehegatten nach der Eheschließung einen Ehenamen bestimmen,
+1.  Erklärung, durch die Ehegatten nach der Eheschließung einen Ehenamen
+    bestimmen,
 
-
-2.  ein Ehegatte seinen Geburtsnamen oder den zur Zeit der Erklärung über
-    die Bestimmung des Ehenamens geführten Namen dem Ehenamen voranstellt
-    oder anfügt oder durch die er diese Erklärung widerruft,
-
-
-3.  ein Ehegatte seinen Geburtsnamen oder den bis zur Bestimmung des
-    Ehenamens geführten Namen wieder annimmt,
-
-
-4.  Ehegatten nach der Eheschließung ihren künftig zu führenden Namen
-    gemäß Artikel 10 Abs. 2 Satz 1 und 2 des Einführungsgesetzes zum
-    Bürgerlichen Gesetzbuche wählen,
-
-
-
-kann auch von den Standesbeamten beglaubigt oder beurkundet werden.
-Gleiches gilt für die Erklärung, durch die ein Kind und sein Ehegatte
-die Namensänderung des Kindes oder der Eltern des Kindes auf ihren
-Ehenamen erstrecken.
-
-(2) Zur Entgegennahme der Erklärungen ist das Standesamt zuständig,
-das die Eheschließung zu beurkunden hat oder das Eheregister führt, in
-dem die Eheschließung beurkundet ist. Ist die Eheschließung nicht in
-einem deutschen Eheregister beurkundet, so ist das Standesamt
-zuständig, in dessen Zuständigkeitsbereich einer der Erklärenden
-seinen Wohnsitz hat oder zuletzt hatte oder seinen gewöhnlichen
-Aufenthalt hat. Ergibt sich danach keine Zuständigkeit, so ist das
-Standesamt I in Berlin zuständig. Das Standesamt I in Berlin führt ein
-Verzeichnis der nach den Sätzen 2 und 3 entgegengenommenen
-Erklärungen.
-
-
-#### § 42 Erklärungen zur Namensführung von Lebenspartnern
-
-(1) Die Erklärung, durch die
-
-1.  Lebenspartner nach der Begründung der Lebenspartnerschaft einen
-    Lebenspartnerschaftsnamen bestimmen,
-
-
-2.  ein Lebenspartner seinen Geburtsnamen oder den zur Zeit der Erklärung
-    über die Bestimmung des Lebenspartnerschaftsnamens geführten Namen dem
-    Lebenspartnerschaftsnamen voranstellt oder anfügt oder durch die er
+2.  Erklärung, durch die ein Ehegatte seinen Geburtsnamen oder den
+    zur Zeit der Erklärung über die Bestimmung des Ehenamens geführten
+    Familiennamen dem Ehenamen voranstellt oder anfügt oder durch die er
     diese Erklärung widerruft,
 
+3.  Erklärung, durch die ein verwitweter oder geschiedener Ehegatte
 
-3.  ein Lebenspartner seinen Geburtsnamen oder den bis zur Bestimmung des
-    Lebenspartnerschaftsnamens geführten Namen wieder annimmt,
+    a)  seinen Geburtsnamen wieder annimmt,
 
+    b)  den bis zur Bestimmung des Ehenamens geführten Namen wieder annimmt
+        oder
 
-4.  Lebenspartner nach der Begründung der Lebenspartnerschaft ihren
-    künftig zu führenden Namen gemäß Artikel 17b Abs. 2 des
-    Einführungsgesetzes zum Bürgerlichen Gesetzbuche wählen,
+    c)  dem Ehenamen seinen Geburtsnamen oder den bis zur Erklärung über die
+        Bestimmung des Ehenamens geführten Namen voranstellt oder anfügt oder
+        diese Erklärung widerruft,
 
+4.  Erklärung, durch die Ehegatten nach der Eheschließung ihren künftig zu
+    führenden Namen gemäß Artikel 10 Absatz 2 des Einführungsgesetzes zum
+    Bürgerlichen Gesetzbuche wählen,
 
+5.  Erklärung, durch die ein Ehegatte den Ehenamen seinem Geschlecht
+    anpasst oder durch die er eine solche Erklärung widerruft,
 
-kann auch von den Standesbeamten beglaubigt oder beurkundet werden.
+6.  Erklärung, durch die ein Ehegatte sich der Erstreckung der Änderung
+    des Geburtsnamens des Kindes auf den Ehenamen anschließt.
 
 (2) Zur Entgegennahme der Erklärungen ist das Standesamt zuständig,
-das die Begründung der Lebenspartnerschaft zu beurkunden hat oder das
-Lebenspartnerschaftsregister führt, in dem die Lebenspartnerschaft
-beurkundet ist. Ist die Lebenspartnerschaft nicht in einem deutschen
-Lebenspartnerschaftsregister beurkundet, so ist das Standesamt
+das die Eheschließung zu beurkunden hat oder das Eheregister führt,
+in dem die Eheschließung beurkundet ist. Ist die Eheschließung nicht
+in einem deutschen Eheregister beurkundet, so ist das Standesamt
 zuständig, in dessen Zuständigkeitsbereich einer der Erklärenden
 seinen Wohnsitz hat oder zuletzt hatte oder seinen gewöhnlichen
 Aufenthalt hat. Ergibt sich danach keine Zuständigkeit, so ist das
-Standesamt I in Berlin zuständig. Das Standesamt I in Berlin führt ein
-Verzeichnis der nach den Sätzen 2 und 3 entgegengenommenen
+Standesamt I in Berlin zuständig. Das Standesamt I in Berlin führt
+ein Verzeichnis der nach den Sätzen 2 und 3 entgegengenommenen
 Erklärungen.
 
-(3) § 23 des Lebenspartnerschaftsgesetzes bleibt unberührt.
+
+#### § 42 (weggefallen)
 
 
 #### § 43 Erklärungen zur Namensangleichung
@@ -1161,26 +1045,26 @@ Erklärungen.
 (1) Die Erklärungen über die Namenswahl nach Artikel 48 des
 Einführungsgesetzes zum Bürgerlichen Gesetzbuche oder über die
 Angleichung von Familiennamen und Vornamen nach Artikel 47 des
-Einführungsgesetzes zum Bürgerlichen Gesetzbuche oder nach § 94 des
-Bundesvertriebenengesetzes können auch von den Standesbeamten
+Einführungsgesetzes zum Bürgerlichen Gesetzbuche oder nach § 94
+des Bundesvertriebenengesetzes können auch von den Standesbeamten
 beglaubigt oder beurkundet werden.
 
 (2) Zur Entgegennahme der Erklärungen ist das Standesamt zuständig,
 das das Geburtenregister für die Person, deren Name geändert oder
 bestimmt werden soll, führt. Wird die Erklärung im Zusammenhang mit
 einer Erklärung zur Namensführung von Ehegatten oder Lebenspartnern
-abgegeben, so ist das Standesamt zuständig, das die Eheschließung oder
-die Begründung der Lebenspartnerschaft zu beurkunden hat oder das
-Eheregister oder das Lebenspartnerschaftsregister führt; dieses
+abgegeben, so ist das Standesamt zuständig, das die Eheschließung
+oder die Begründung der Lebenspartnerschaft zu beurkunden hat oder
+das Eheregister oder das Lebenspartnerschaftsregister führt; dieses
 Standesamt ist außerdem zuständig, wenn die Erklärung nicht im
-Zusammenhang mit einer Erklärung zur Namensführung von Ehegatten oder
-Lebenspartnern abgegeben und kein Geburtseintrag im Inland geführt
-wird. Ergibt sich danach keine Zuständigkeit, so ist das Standesamt
-zuständig, in dessen Zuständigkeitsbereich der Erklärende seinen
-Wohnsitz hat oder zuletzt hatte oder seinen gewöhnlichen Aufenthalt
-hat. Ergibt sich auch danach keine Zuständigkeit, so ist das
-Standesamt I in Berlin zuständig. Das Standesamt I in Berlin führt ein
-Verzeichnis der nach den Sätzen 3 und 4 entgegengenommenen
+Zusammenhang mit einer Erklärung zur Namensführung von Ehegatten
+oder Lebenspartnern abgegeben und kein Geburtseintrag im Inland
+geführt wird. Ergibt sich danach keine Zuständigkeit, so ist das
+Standesamt zuständig, in dessen Zuständigkeitsbereich der Erklärende
+seinen Wohnsitz hat oder zuletzt hatte oder seinen gewöhnlichen
+Aufenthalt hat. Ergibt sich auch danach keine Zuständigkeit, so ist
+das Standesamt I in Berlin zuständig. Das Standesamt I in Berlin
+führt ein Verzeichnis der nach den Sätzen 3 und 4 entgegengenommenen
 Erklärungen.
 
 
@@ -1190,67 +1074,91 @@ Erklärungen.
 anerkannt wird, sowie die Zustimmungserklärung der Mutter können auch
 von den Standesbeamten beurkundet werden. Gleiches gilt für die etwa
 erforderliche Zustimmung des Kindes, des gesetzlichen Vertreters oder
-des Ehemannes der Mutter zu einer solchen Erklärung sowie für den
-Widerruf der Anerkennung.
+des Mannes, der dem Kind bislang als Vater zugeordnet war, zu einer
+solchen Erklärung.
 
 (2) Die Erklärung, durch welche die Mutterschaft zu einem Kind
 anerkannt wird, und die etwa erforderliche Zustimmungserklärung des
 gesetzlichen Vertreters der Mutter können auch von den Standesbeamten
 beurkundet werden.
 
-(3) Dem Standesamt, das den Geburtseintrag des Kindes führt, ist eine
-beglaubigte Abschrift der Erklärungen zu übersenden. Ist die Geburt
-des Kindes nicht im Inland beurkundet, so ist die beglaubigte
+(3) Dem Standesamt, das den Geburtseintrag des Kindes führt, ist
+eine beglaubigte Abschrift der Erklärungen zu übersenden. Ist die
+Geburt des Kindes nicht im Inland beurkundet, so ist die beglaubigte
 Abschrift dem Standesamt I in Berlin zu übersenden.
+
+
+#### § 44a Nachweise nach einer Anerkennung trotz bestehender Vaterschaft
+
+Zur Prüfung der leiblichen Abstammung des Kindes von dem anerkennenden
+Mann nach § 1595a Absatz 1 des Bürgerlichen Gesetzbuchs verlangt
+das Standesamt die Vorlage des Ergebnisses einer genetischen
+Abstammungsuntersuchung nach § 17 des Gendiagnostikgesetzes, dem
+zufolge der anerkennende Mann der leibliche Vater des Kindes ist.
 
 
 #### § 45 Erklärungen zur Namensführung des Kindes
 
-(1) Die Erklärung, durch die
+(1) Jede der folgenden Erklärungen kann auch von den Standesbeamten
+beglaubigt oder beurkundet werden:
 
-1.  Eltern nach der Beurkundung der Geburt den Geburtsnamen eines Kindes
-    bestimmen,
+1.  Erklärung, durch die Eltern nach der Beurkundung der Geburt den
+    Geburtsnamen des Kindes bestimmen oder, wenn sie keinen Geburtsnamen
+    bestimmen, die Erklärung eines Elternteils, der den gesetzlich
+    vorgegebenen Namen ablehnt,
 
+2.  Erklärung, durch die der Elternteil, dem die elterliche Sorge allein
+    zusteht, dem Kind nur einen oder einige der Namen, aus denen der
+    Familienname dieses Elternteils besteht, den Familiennamen des
+    anderen Elternteils, einen aus den Namen beider Elternteile gebildeten
+    Doppelnamen oder einen Geburtsnamen nach friesischer oder dänischer
+    Tradition erteilt,
 
-2.  ein Kind sich der Bestimmung seines Geburtsnamens durch die Eltern
-    anschließt,
+3.  Erklärung, durch die ein Kind sich der Bestimmung seines Geburtsnamens
+    durch die Eltern anschließt,
 
+4.  Erklärung, durch die ein Kind beantragt, den von seiner Mutter
+    zur Zeit seiner Geburt geführten Familiennamen als Geburtsnamen zu
+    erhalten, wenn es den Namen eines Mannes führt, von dem rechtskräftig
+    festgestellt wurde, dass er nicht der Vater des Kindes ist,
 
-3.  ein Kind beantragt, den von seiner Mutter zur Zeit seiner Geburt
-    geführten Namen als Geburtsnamen zu erhalten, wenn es den Namen eines
-    Mannes führt, von dem rechtskräftig festgestellt wurde, dass er nicht
-    der Vater des Kindes ist,
+5.  Erklärung, durch die ein Mann den Antrag nach Nummer 4 stellt, wenn
+    das Kind das fünfte Lebensjahr noch nicht vollendet hat,
 
+6.  Erklärung, durch die ein Kind sich der Änderung des Namens der Eltern
+    oder eines Elternteils anschließt,
 
-4.  ein Mann den Antrag nach Nummer 3 stellt, wenn das Kind das fünfte
-    Lebensjahr noch nicht vollendet hat,
+7.  Erklärung, durch die der Elternteil, dem die elterliche Sorge allein
+    oder gemeinsam mit dem anderen Elternteil zusteht, dem Kind seinen
+    nach Scheidung vom anderen Elternteil oder Tod des anderen Elternteils
+    wieder angenommenen Namen oder einen aus seinem wieder angenommenen
+    Namen und dem von dem Kind zur Zeit der Erklärung geführten
+    Geburtsnamen gebildeten Doppelnamen erteilt,
 
+8.  Erklärung, durch die der Elternteil, dem die elterliche Sorge für
+    das Kind allein oder gemeinsam mit dem anderen Elternteil zusteht,
+    und sein Ehegatte, der nicht Elternteil des Kindes ist, das Kind
+    einbenennen,
 
-5.  ein Kind sich der Änderung des Familiennamens der Eltern oder eines
-    Elternteils anschließt,
+9.  Erklärung, durch die ein Elternteil, dem die elterliche Sorge für das
+    Kind allein oder gemeinsam mit dem anderen Elternteil zusteht, das
+    Kind rückbenennt oder durch die das volljährige Kind sich rückbenennt,
 
+10. Erklärung, durch die ein Elternteil nach der Beurkundung der Geburt
+    den Geburtsnamen des Kindes dem Geschlecht des Kindes anpasst, durch
+    die das volljährige Kind seinen Geburtsnamen seinem Geschlecht anpasst
+    oder durch die eine solche Erklärung widerrufen wird,
 
-6.  der Elternteil, dem die elterliche Sorge allein oder gemeinsam mit dem
-    anderen Elternteil zusteht, und sein Ehegatte, der nicht Elternteil
-    des Kindes ist, oder sein Lebenspartner dem Kind ihren Ehenamen oder
-    ihren Lebenspartnerschaftsnamen erteilen oder diesen Namen dem von dem
-    Kind zur Zeit der Erklärung geführten Namen voranstellen oder anfügen,
+11. Erklärung, durch die eine volljährige Person ihren Geburtsnamen neu
+    bestimmt.
 
-
-7.  der Elternteil, dem die elterliche Sorge allein zusteht, dem Kind den
-    Namen des anderen Elternteils erteilt,
-
-
-
-sowie die zu den Nummern 6 und 7 erforderlichen Einwilligungen eines
-Elternteils oder des Kindes können auch von den Standesbeamten
-beglaubigt oder beurkundet werden. Gleiches gilt für die etwa
-erforderliche Zustimmung des gesetzlichen Vertreters zu einer in Satz
-1 genannten Erklärung.
+Satz 1 gilt auch für die etwa erforderliche Einwilligung eines
+Elternteils oder des Kindes oder Zustimmung des gesetzlichen
+Vertreters zu einer der in Satz 1 genannten Erklärungen.
 
 (2) Zur Entgegennahme der Erklärungen ist das Standesamt zuständig,
-das das Geburtenregister, in dem die Geburt des Kindes beurkundet ist,
-führt. Ist die Geburt des Kindes nicht in einem deutschen
+das das Geburtenregister, in dem die Geburt des Kindes beurkundet
+ist, führt. Ist die Geburt des Kindes nicht in einem deutschen
 Geburtenregister beurkundet, so ist das Standesamt zuständig, in
 dessen Zuständigkeitsbereich das Kind oder ein Elternteil seinen
 Wohnsitz hat oder zuletzt hatte oder seinen gewöhnlichen Aufenthalt
@@ -1263,9 +1171,9 @@ der nach den Sätzen 2 und 3 entgegengenommenen Erklärungen.
 
 #### § 45a Erklärung zur Reihenfolge der Vornamen
 
-(1) Unterliegt der Name einer Person deutschem Recht und hat sie
-mehrere Vornamen, so kann deren Reihenfolge durch Erklärung des
-Namenträgers gegenüber dem Standesamt neu bestimmt werden
+(1) Unterliegt der Name einer Person deutschem Recht und hat
+sie mehrere Vornamen, so kann deren Reihenfolge durch Erklärung
+des Namenträgers gegenüber dem Standesamt neu bestimmt werden
 (Vornamensortierung). Eine Änderung der Schreibweise der Vornamen
 sowie das Hinzufügen von neuen Vornamen oder das Weglassen von
 Vornamen ist dabei nicht zulässig; die Artikel 47 und 48 des
@@ -1279,98 +1187,63 @@ Lebensjahr vollendet hat, kann die Erklärung nach Absatz 1 nur selbst
 abgeben; das Kind bedarf hierzu der Zustimmung seines gesetzlichen
 Vertreters.
 
-(3) Zur Entgegennahme der Erklärung ist das Standesamt zuständig, das
-das Geburtenregister für die Person führt, deren Vornamen neu sortiert
-werden sollen. Ist die Geburt nicht in einem deutschen
+(3) Zur Entgegennahme der Erklärung ist das Standesamt zuständig,
+das das Geburtenregister für die Person führt, deren Vornamen neu
+sortiert werden sollen. Ist die Geburt nicht in einem deutschen
 Geburtenregister beurkundet, so ist das Standesamt zuständig, das das
 Eheregister oder Lebenspartnerschaftsregister der Person führt. Ergibt
-sich danach keine Zuständigkeit, so ist das Standesamt zuständig, in
-dessen Zuständigkeitsbereich die Person ihren Wohnsitz hat oder
-zuletzt hatte oder ihren gewöhnlichen Aufenthalt hat. Ergibt sich auch
-danach keine Zuständigkeit, so ist das Standesamt I in Berlin
+sich danach keine Zuständigkeit, so ist das Standesamt zuständig,
+in dessen Zuständigkeitsbereich die Person ihren Wohnsitz hat oder
+zuletzt hatte oder ihren gewöhnlichen Aufenthalt hat. Ergibt sich
+auch danach keine Zuständigkeit, so ist das Standesamt I in Berlin
 zuständig.
 
 
-#### § 45b Erklärung zur Geschlechtsangabe und Vornamensführung bei Personen mit Varianten der Geschlechtsentwicklung
+#### § 45b Erklärungen nach dem Gesetz über die Selbstbestimmung in Bezug auf den Geschlechtseintrag
 
-(1) Personen mit Varianten der Geschlechtsentwicklung können gegenüber
-dem Standesamt erklären, dass die Angabe zu ihrem Geschlecht in einem
-deutschen Personenstandseintrag durch eine andere in § 22 Absatz 3
-vorgesehene Bezeichnung ersetzt oder gestrichen werden soll. Liegt
-kein deutscher Personenstandseintrag vor, können sie gegenüber dem
-Standesamt erklären, welche der in § 22 Absatz 3 vorgesehenen
-Bezeichnungen für sie maßgeblich ist, oder auf die Angabe einer
-Geschlechtsbezeichnung verzichten, wenn sie
+(1) Die Erklärungen zur Änderung des Geschlechtseintrags und der
+Vornamen nach § 2 des Gesetzes über die Selbstbestimmung in Bezug
+auf den Geschlechtseintrag und die Erklärung zum maßgeblichen
+Geschlechtseintrag für das Rechtsverhältnis der Person zu
+ihren Kindern nach § 11 Absatz 1 Satz 2 des Gesetzes über die
+Selbstbestimmung in Bezug auf den Geschlechtseintrag sind persönlich
+vor dem Standesbeamten abzugeben und von diesem zu beurkunden. Bei
+Deutschen mit gewöhnlichem Aufenthalt im Ausland kann eine deutsche
+Auslandsvertretung die Erklärung öffentlich beglaubigen und an
+das zuständige Standesamt übermitteln. Ist die Zustimmung eines
+gesetzlichen Vertreters erforderlich, so gelten die Sätze 1 und 2 auch
+für dessen Erklärung. Wird die Erklärung für eine minderjährige Person
+abgegeben, die geschäftsunfähig ist oder das 14. Lebensjahr noch nicht
+vollendet hat, muss auch die minderjährige Person anwesend sein.
 
-1.  Deutsche im Sinne des Grundgesetzes sind,
+(2) Für die Entgegennahme von Erklärungen nach § 2 des Gesetzes über
+die Selbstbestimmung in Bezug auf den Geschlechtseintrag ist das
+Standesamt zuständig, das das Geburtenregister für die betroffene
+Person, deren Geschlechtseintrag und Vornamen geändert werden sollen,
+führt. Für die Entgegennahme von Erklärungen nach § 11 Absatz 1
+Satz 2 des Gesetzes über die Selbstbestimmung in Bezug auf den
+Geschlechtseintrag ist das Standesamt zuständig, welches die Geburt
+des jeweiligen Kindes der betroffenen Person zu beurkunden hat. Ergibt
+sich nach Satz 1 keine Zuständigkeit, weil die Geburt nicht in einem
+deutschen Geburtenregister beurkundet ist, so ist das Standesamt
+zuständig, das das Eheregister oder Lebenspartnerschaftsregister
+der Person führt. Ergibt sich danach keine Zuständigkeit, so ist
+das Standesamt zuständig, in dessen Zuständigkeitsbereich die
+Person ihren Wohnsitz hat oder zuletzt hatte oder ihren gewöhnlichen
+Aufenthalt hat. Ergibt sich auch danach keine Zuständigkeit, so ist
+das Standesamt I in Berlin zuständig. Das Standesamt I in Berlin
+führt ein Verzeichnis der nach den Sätzen 4 und 5 entgegengenommenen
+Erklärungen.
 
-
-2.  als Staatenlose oder heimatlose Ausländer ihren gewöhnlichen
-    Aufenthalt im Inland haben,
-
-
-3.  als Asylberechtigte oder ausländische Flüchtlinge ihren Wohnsitz im
-    Inland haben oder
-
-
-4.  als Ausländer, deren Heimatrecht keine vergleichbare Regelung kennt,
-
-    a)  ein unbefristetes Aufenthaltsrecht besitzen,
-
-
-    b)  eine verlängerbare Aufenthaltserlaubnis besitzen und sich dauerhaft
-        rechtmäßig im Inland aufhalten oder
-
-
-    c)  eine Blaue Karte EU besitzen.
-
-
-
-
-
-
-Mit der Erklärung können auch neue Vornamen bestimmt werden. Die
-Erklärungen müssen öffentlich beglaubigt werden; sie können auch von
-den Standesbeamten beglaubigt oder beurkundet werden.
-
-(2) Für ein Kind, das geschäftsunfähig oder noch nicht 14 Jahre alt
-ist, kann nur sein gesetzlicher Vertreter die Erklärung abgeben. Im
-Übrigen kann ein Kind die Erklärung nur selbst abgeben; es bedarf
-hierzu der Zustimmung seines gesetzlichen Vertreters. Stimmt der
-gesetzliche Vertreter nicht zu, so ersetzt das Familiengericht die
-Zustimmung, wenn die Änderung der Angabe zum Geschlecht oder der
-Vornamen dem Kindeswohl nicht widerspricht; das Verfahren vor dem
-Familiengericht ist eine Kindschaftssache nach Buch 2 Abschnitt 3 des
-Gesetzes über das Verfahren in Familiensachen und in den
-Angelegenheiten der freiwilligen Gerichtsbarkeit.
-
-(3) Durch Vorlage einer ärztlichen Bescheinigung ist nachzuweisen,
-dass eine Variante der Geschlechtsentwicklung vorliegt. Dies gilt
-nicht für Personen, die über keine ärztliche Bescheinigung einer
-erfolgten medizinischen Behandlung verfügen und bei denen das
-Vorliegen der Variante der Geschlechtsentwicklung wegen der Behandlung
-nicht mehr oder nur durch eine unzumutbare Untersuchung nachgewiesen
-werden kann, sofern sie dies an Eides statt versichern.
-
-(4) Für die Entgegennahme der Erklärung ist das Standesamt zuständig,
-das das Geburtenregister für die betroffene Person führt. Ist die
-Geburt nicht in einem deutschen Geburtenregister beurkundet, so ist
-das Standesamt zuständig, das das Eheregister oder
-Lebenspartnerschaftsregister der Person führt. Ergibt sich danach
-keine Zuständigkeit, so ist das Standesamt zuständig, in dessen
-Zuständigkeitsbereich die Person ihren Wohnsitz hat oder zuletzt hatte
-oder ihren gewöhnlichen Aufenthalt hat. Ergibt sich auch danach keine
-Zuständigkeit, so ist das Standesamt I in Berlin zuständig. Das
-Standesamt I in Berlin führt ein Verzeichnis der nach den Sätzen 3 und
-4 entgegengenommenen Erklärungen.
+(3) Die Erklärungen nach Artikel 7a Absatz 2 des Einführungsgesetzes
+zum Bürgerlichen Gesetzbuche sind gegenüber dem Standesamt abzugeben.
+Absatz 2 gilt entsprechend.
 
 
 ## Kapitel 8 - Berichtigungen und gerichtliches Verfahren
 
 
-
 ### Abschnitt 1 - Berichtigungen ohne Mitwirkung des Gerichts
-
 
 
 #### § 46 Änderung einer Anzeige
@@ -1390,23 +1263,17 @@ eigener Ermittlungen des Standesamts sind außerdem zu berichtigen
 
 1.  die in den Personenstandsregistern eingetragenen Hinweise,
 
-
 2.  fehlerhafte Übertragungen aus Urkunden, die der Eintragung zugrunde
     gelegen haben,
-
 
 3.  im Sterberegister die Angaben über den letzten Wohnsitz des
     Verstorbenen,
 
-
 4.  in allen Personenstandsregistern die Registrierungsdaten eines
     Personenstandseintrags,
 
-
 5.  in allen Personenstandsregistern die Elementbezeichnungen und
     Leittextangaben.
-
-
 
 Ferner können sonstige unrichtige oder unvollständige Eintragungen
 berichtigt werden, wenn der richtige oder vollständige Sachverhalt
@@ -1414,13 +1281,14 @@ festgestellt wird durch
 
 1.  Personenstandsurkunden,
 
-
 2.  Dokumente des Heimatstaates, die zum Grenzübertritt berechtigen,
     soweit dadurch ein erläuternder Zusatz zur Identität oder zur
     Namensführung im Personenstandsregister gestrichen werden soll.
 
-
-
+Eintragungen auf Grund einer Anerkennung, die nach § 1594 Absatz
+5 Satz 1 des Bürgerlichen Gesetzbuchs nicht wirksam war, sind
+zu berichtigen, wenn die Vaterschaft des anderen Mannes durch
+Gerichtsbeschluss festgestellt wird.
 
 (2) Gehen dem Standesamt berichtigende Mitteilungen oder Anzeigen zu,
 so sind außerdem zu berichtigen
@@ -1429,17 +1297,11 @@ so sind außerdem zu berichtigen
     sowie das Geschlecht des Kindes, wenn die Geburt schriftlich angezeigt
     worden ist,
 
-
 2.  im Sterberegister die Angaben über Zeitpunkt und Ort des Todes, wenn
     der Sterbefall schriftlich angezeigt worden ist,
 
-
-3.  in allen Personenstandsregistern die Angaben über die rechtliche
-    Zugehörigkeit zu einer Religionsgemeinschaft und die Rechtskraft
+3.  in allen Personenstandsregistern die Angaben über die Rechtskraft
     gerichtlicher Entscheidungen.
-
-
-
 
 (3) Bei Berichtigungen sind die Beteiligten vor der Änderung zu hören.
 Eine Anhörung unterbleibt in den Fällen des Absatzes 1 Satz 2 Nummer
@@ -1448,13 +1310,12 @@ Eine Anhörung unterbleibt in den Fällen des Absatzes 1 Satz 2 Nummer
 (4) Die Berichtigung fehlerhafter Registrierungsdaten eines Eintrags
 erfolgt durch Kennzeichnung des entsprechenden Registereintrags und
 erneute Beurkundung. Die nach Satz 1 gekennzeichneten Registereinträge
-gelten als stillgelegt und dürfen nicht mehr verarbeitet werden. Die
-Registrierungsdaten eines stillgelegten Eintrags können wieder
+gelten als stillgelegt und dürfen nicht mehr verarbeitet werden.
+Die Registrierungsdaten eines stillgelegten Eintrags können wieder
 verwendet werden.
 
 
 ### Abschnitt 2 - Gerichtliches Verfahren
-
 
 
 #### § 48 Berichtigung auf Anordnung des Gerichts
@@ -1476,8 +1337,8 @@ Gericht dazu angewiesen werden.
 
 (2) Das Standesamt kann in Zweifelsfällen auch von sich aus die
 Entscheidung des Gerichts darüber herbeiführen, ob eine Amtshandlung
-vorzunehmen ist. Für das weitere Verfahren gilt dies als Ablehnung der
-Amtshandlung.
+vorzunehmen ist. Für das weitere Verfahren gilt dies als Ablehnung
+der Amtshandlung.
 
 
 #### § 50 Sachliche und örtliche Zuständigkeit der Gerichte
@@ -1495,8 +1356,8 @@ berichtigt werden soll.
 #### § 51 Gerichtliches Verfahren
 
 (1) Auf das gerichtliche Verfahren sind die Vorschriften des Gesetzes
-über das Verfahren in Familiensachen und in den Angelegenheiten der
-freiwilligen Gerichtsbarkeit anzuwenden. Standesämter und
+über das Verfahren in Familiensachen und in den Angelegenheiten
+der freiwilligen Gerichtsbarkeit anzuwenden. Standesämter und
 Aufsichtsbehörden sind von Gerichtskosten befreit.
 
 (2) Die Aufsichtsbehörde, das Standesamt und die Beteiligten können in
@@ -1508,8 +1369,8 @@ auch durch Einlegung eines Rechtsmittels erklären.
 
 (1) Das Gericht kann die öffentliche Bekanntmachung einer Entscheidung
 anordnen, wenn es Zweifel hat, ob ihm alle Beteiligten bekannt
-geworden sind. An Beteiligte, die ihm bekannt sind, soll außerdem eine
-besondere Bekanntmachung erfolgen. Dem Antragsteller, dem
+geworden sind. An Beteiligte, die ihm bekannt sind, soll außerdem
+eine besondere Bekanntmachung erfolgen. Dem Antragsteller, dem
 Beschwerdeführer, dem Standesamt und der Aufsichtsbehörde muss die
 Entscheidung stets besonders bekannt gemacht werden.
 
@@ -1518,12 +1379,12 @@ Beteiligten, denen die Entscheidung besonders bekannt gemacht worden
 ist oder bekannt gemacht werden muss, als zugestellt, wenn seit der
 öffentlichen Bekanntmachung zwei Wochen verstrichen sind.
 
-(3) Die Art der öffentlichen Bekanntmachung bestimmt das Gericht. Es
-genügt die Anheftung einer Ausfertigung oder einer beglaubigten
+(3) Die Art der öffentlichen Bekanntmachung bestimmt das Gericht.
+Es genügt die Anheftung einer Ausfertigung oder einer beglaubigten
 Abschrift der Entscheidung oder eines Auszugs davon an der
-Gerichtstafel. Das Schriftstück soll zwei Wochen, und wenn durch die
-Bekanntmachung der Entscheidung eine Frist in Gang gesetzt wird, bis
-zum Ablauf der Frist an der Tafel angeheftet bleiben. Auf die
+Gerichtstafel. Das Schriftstück soll zwei Wochen, und wenn durch
+die Bekanntmachung der Entscheidung eine Frist in Gang gesetzt wird,
+bis zum Ablauf der Frist an der Tafel angeheftet bleiben. Auf die
 Gültigkeit der öffentlichen Bekanntmachung ist es ohne Einfluss, wenn
 das Schriftstück zu früh von der Tafel entfernt wird. Der Zeitpunkt
 der Anheftung und der Zeitpunkt der Abnahme sind auf dem Schriftstück
@@ -1543,21 +1404,21 @@ die Beschwerde in jedem Fall zu.
 ## Kapitel 9 - Beweiskraft und Benutzung der Personenstandsregister
 
 
-
 ### Abschnitt 1 - Beweiskraft; Personenstandsurkunden
-
 
 
 #### § 54 Beweiskraft der Personenstandsregister und -urkunden
 
 (1) Die Beurkundungen in den Personenstandsregistern beweisen
-Eheschließung, Begründung der Lebenspartnerschaft, Geburt und Tod und
-die darüber gemachten näheren Angaben sowie die sonstigen Angaben über
-den Personenstand der Personen, auf die sich der Eintrag bezieht.
+Eheschließung, Begründung der Lebenspartnerschaft, Geburt und Tod
+und die darüber gemachten näheren Angaben sowie die sonstigen Angaben
+über den Personenstand der Personen, auf die sich der Eintrag bezieht.
 Hinweise haben diese Beweiskraft nicht.
 
-(2) Die Personenstandsurkunden (§ 55 Abs. 1) haben dieselbe
-Beweiskraft wie die Beurkundungen in den Personenstandsregistern.
+(2) Die Personenstandsurkunden (§ 55 Absatz 1 Satz 1) und die
+elektronischen Personenstandsbescheinigungen (§ 55 Absatz 1
+Satz 2) haben dieselbe Beweiskraft wie die Beurkundungen in den
+Personenstandsregistern.
 
 (3) Der Nachweis der Unrichtigkeit der beurkundeten Tatsachen ist
 zulässig. Der Nachweis der Unrichtigkeit einer Personenstandsurkunde
@@ -1569,45 +1430,47 @@ entsprechenden Personenstandsregister geführt werden.
 
 (1) Das Standesamt stellt folgende Personenstandsurkunden aus:
 
-1.  aus allen Personenstandsregistern beglaubigte Registerausdrucke,
-
-
-2.  aus dem Eheregister Eheurkunden (§ 57); bis zu der Beurkundung der
-    Eheschließung im Eheregister können Eheurkunden auch aus der
+1.  aus dem Eheregister Eheurkunden (§ 57); bis zu der Beurkundung
+    der Eheschließung im Eheregister können Eheurkunden auch aus der
     Niederschrift über die Eheschließung ausgestellt werden,
 
+2.  aus dem Lebenspartnerschaftsregister Lebenspartnerschaftsurkunden
+    (§ 58),
 
-3.  aus dem Lebenspartnerschaftsregister Lebenspartnerschaftsurkunden (§
-    58),
+3.  aus dem Geburtenregister Geburtsurkunden (§ 59),
 
+4.  aus dem Sterberegister Sterbeurkunden (§ 60),
 
-4.  aus dem Geburtenregister Geburtsurkunden (§ 59),
+5.  aus allen Personenstandsregistern beglaubigte Registerausdrucke,
 
+6.  aus der Sammlung der Beschlüsse über Todeserklärungen beglaubigte
+    Abschriften oder beglaubigte Ausdrucke der elektronisch gespeicherten
+    gerichtlichen Entscheidungen.
 
-5.  aus dem Sterberegister Sterbeurkunden (§ 60),
+Darüber hinaus stellt das Standesamt aus allen elektronisch
+geführten Personenstandsregistern Personenstandsbescheinigungen
+als elektronische Dokumente mit den Daten einer entsprechenden
+Geburts-, Ehe-, Lebenspartnerschafts- oder Sterbeurkunde
+nach Satz 1 Nummer 1 bis 4 aus. Die Vorschriften über
+Beweiskraft von Personenstandsurkunden sind für elektronische
+Personenstandsbescheinigungen entsprechend anzuwenden.
 
-
-6.  aus der Sammlung der Todeserklärungen beglaubigte Abschriften.
-
-
-
-
-(2) Für die Ausstellung der Personenstandsurkunde ist vorbehaltlich
-des § 67 Absatz 3 das Standesamt zuständig, bei dem der entsprechende
-Registereintrag geführt wird. Die Personenstandsurkunde kann auch bei
-einem anderen Standesamt beantragt werden, wenn diesem die hierfür
-erforderlichen Daten elektronisch übermittelt werden können.
-Voraussetzung für die elektronische Übermittlung ist, dass das
-empfangende Standesamt und das den betreffenden Registereintrag
-führende Standesamt über technische Einrichtungen zur Versendung und
-zum Empfang elektronischer Daten verfügen und hierfür einen Zugang
-eröffnet haben.
+(2) Für die Ausstellung der Personenstandsurkunde und elektronischen
+Personenstandsbescheinigung ist vorbehaltlich des § 67 Absatz 3
+das Standesamt zuständig, bei dem der entsprechende Registereintrag
+geführt wird. Die Personenstandsurkunde kann auch bei einem anderen
+Standesamt beantragt werden, wenn diesem die hierfür erforderlichen
+Daten elektronisch übermittelt werden können. Voraussetzung für
+die elektronische Übermittlung ist, dass das empfangende Standesamt
+und das den betreffenden Registereintrag führende Standesamt über
+technische Einrichtungen zur Versendung und zum Empfang elektronischer
+Daten verfügen und hierfür einen Zugang eröffnet haben.
 
 (3) Nach Ablauf der in § 5 Abs. 5 festgelegten Fristen für die Führung
-der Personenstandsregister werden keine Personenstandsurkunden mehr
-ausgestellt; für die Erteilung von Nachweisen aus diesen
-Personenstandsregistern sind die archivrechtlichen Vorschriften
-maßgebend.
+der Personenstandsregister werden keine Personenstandsurkunden und
+elektronischen Personenstandsbescheinigungen mehr ausgestellt; für die
+Erteilung von Nachweisen aus diesen Personenstandsregistern sind die
+archivrechtlichen Vorschriften maßgebend.
 
 
 #### § 56 Allgemeine Vorschriften für die Ausstellung von Personenstandsurkunden
@@ -1615,32 +1478,28 @@ maßgebend.
 (1) In der Ehe-, der Lebenspartnerschafts-, der Geburts- und der
 Sterbeurkunde werden das Standesamt, bei dem der Personenstandsfall
 beurkundet worden ist, und der Jahrgang sowie die Nummer des
-Registereintrags angegeben. Bei der Ausstellung der Eheurkunde aus der
-Niederschrift über die Eheschließung oder der
-Lebenspartnerschaftsurkunde aus der Niederschrift über die Begründung
-der Lebenspartnerschaft ist an Stelle der Nummer des Registereintrags
-ein Hinweis auf die Niederschrift aufzunehmen.
+Registereintrags angegeben. Bei der Ausstellung der Eheurkunde aus
+der Niederschrift über die Eheschließung ist an Stelle der Nummer des
+Registereintrags ein Hinweis auf die Niederschrift aufzunehmen.
 
-(2) Ist ein Registereintrag durch Folgebeurkundungen fortgeführt
-worden, so werden nur die geänderten Tatsachen in die
-Personenstandsurkunden aufgenommen.
+(2) Ist ein Registereintrag durch Folgebeurkundungen
+fortgeführt worden, so werden nur die geänderten
+Tatsachen in die Personenstandsurkunden und elektronischen
+Personenstandsbescheinigungen aufgenommen.
 
-(3) Am Schluss der Personenstandsurkunden werden der Tag und der Ort
-ihrer Ausstellung sowie der Familienname des ausstellenden
+(3) Am Schluss der Personenstandsurkunden werden der Tag und der
+Ort ihrer Ausstellung sowie der Familienname des ausstellenden
 Standesbeamten angegeben. Die Personenstandsurkunden werden von dem
 Standesbeamten unterschrieben und mit dem Abdruck des Dienstsiegels
 versehen.
 
-(4) Wird die Personenstandsurkunde bei einem anderen als dem für die
-Ausstellung zuständigen Standesamt beantragt (§ 55 Abs. 2 Satz 2), so
-übermittelt der das Register führende Standesbeamte die für den
-Ausdruck der Urkunde erforderlichen Daten und versieht diese mit
-seiner dauerhaft überprüfbaren qualifizierten elektronischen Signatur.
-Der empfangende Standesbeamte druckt die Personenstandsurkunde auf
-Grund der übermittelten Daten aus und beglaubigt, dass die Angaben in
-der Urkunde mit den ihm übermittelten Daten übereinstimmen; der
-Beglaubigungsvermerk ist unter Angabe des Tages und des Ortes von ihm
-zu unterschreiben und mit dem Abdruck des Dienstsiegels zu versehen.
+(4) Die elektronische Personenstandsbescheinigung wird vom Standesamt
+mit einer qualifizierten elektronischen Signatur versehen und den nach
+§ 62 berechtigten Personen sowie den nach § 65 berechtigten Behörden
+und Gerichten elektronisch übermittelt. Dabei sind Datenschutz und
+Datensicherheit nach dem jeweiligen Stand der Technik sicherzustellen
+und bei Nutzung allgemein zugänglicher Netze Verschlüsselungs- und
+Authentifizierungsverfahren zu verwenden.
 
 
 #### § 57 Eheurkunde
@@ -1651,85 +1510,61 @@ zu unterschreiben und mit dem Abdruck des Dienstsiegels zu versehen.
     Eheschließung sowie die sich aus dem Registereintrag zum Zeitpunkt der
     Ausstellung der Eheurkunde ergebenden Vornamen und Familiennamen,
 
-
 2.  Ort und Tag der Geburt der Ehegatten,
 
-
-3.  Ort und Tag der Eheschließung,
-
-
-4.  die rechtliche Zugehörigkeit eines Ehegatten zu einer
-    Religionsgemeinschaft, sofern sich die Zugehörigkeit aus dem
-    Registereintrag ergibt.
-
-
+3.  Ort und Tag der Eheschließung.
 
 In dem Feld „Weitere Angaben aus dem Register“ sind anzugeben
 
 1.  die Auflösung der Ehe,
 
-
 2.  das Nichtbestehen der Ehe,
 
-
 3.  die Nichtigerklärung der Ehe,
-
 
 4.  die Todeserklärung oder gerichtliche Feststellung der Todeszeit eines
     Ehegatten,
 
-
 5.  die Umwandlung der Lebenspartnerschaft in eine Ehe.
-
-
-
 
 (2) In die Eheurkunde wird außerhalb des Beurkundungstextes ein
 Hinweis auf die Beurkundung der Geburt der Ehegatten aufgenommen.
+
+(3) Auf Verlangen der Ehegatten werden in die Eheurkunde die vor der
+Eheschließung geführten Vornamen nicht aufgenommen.
 
 
 #### § 58 Lebenspartnerschaftsurkunde
 
 (1) In die Lebenspartnerschaftsurkunde werden aufgenommen
 
-1.  die Vornamen und Familiennamen der Lebenspartner zum Zeitpunkt der
-    Begründung der Lebenspartnerschaft sowie die sich aus dem
-    Registereintrag zum Zeitpunkt der Ausstellung der
+1.  die Vornamen und Familiennamen der Lebenspartner zum Zeitpunkt
+    der Begründung der Lebenspartnerschaft sowie die sich
+    aus dem Registereintrag zum Zeitpunkt der Ausstellung der
     Lebenspartnerschaftsurkunde ergebenden Vornamen und Familiennamen,
-
 
 2.  Ort und Tag der Geburt der Lebenspartner,
 
-
-3.  Ort und Tag der Begründung der Lebenspartnerschaft,
-
-
-4.  die rechtliche Zugehörigkeit eines Lebenspartners zu einer
-    Religionsgemeinschaft, sofern sich die Zugehörigkeit aus dem
-    Registereintrag ergibt.
-
-
+3.  Ort und Tag der Begründung der Lebenspartnerschaft.
 
 In dem Feld „Weitere Angaben aus dem Register“ sind anzugeben
 
 1.  die Auflösung der Lebenspartnerschaft,
 
-
 2.  das Nichtbestehen der Lebenspartnerschaft,
-
 
 3.  die Todeserklärung oder gerichtliche Feststellung der Todeszeit eines
     Lebenspartners,
 
-
 4.  die Umwandlung der Lebenspartnerschaft in eine Ehe.
-
-
-
 
 (2) In die Lebenspartnerschaftsurkunde wird außerhalb des
 Beurkundungstextes ein Hinweis auf die Beurkundung der Geburt der
 Lebenspartner aufgenommen.
+
+(3) Auf Verlangen der Lebenspartner werden in die
+Lebenspartnerschaftsurkunde die vor der Begründung der
+Lebenspartnerschaft geführten Vornamen nicht aufgenommen.
 
 
 #### § 59 Geburtsurkunde
@@ -1738,25 +1573,14 @@ Lebenspartner aufgenommen.
 
 1.  die Vornamen und der Geburtsname des Kindes,
 
-
 2.  das Geschlecht des Kindes,
 
+3.  Ort sowie Tag, Stunde und Minute der Geburt,
 
-3.  Ort und Tag der Geburt,
-
-
-4.  die Vornamen und die Familiennamen der Eltern des Kindes,
-
-
-5.  die rechtliche Zugehörigkeit des Kindes und seiner Eltern zu einer
-    Religionsgemeinschaft, sofern sich die Zugehörigkeit aus dem
-    Registereintrag ergibt.
-
-
-
+4.  die Vornamen und die Familiennamen der Eltern des Kindes.
 
 (2) Auf Verlangen werden in die Geburtsurkunde Angaben nach Absatz 1
-Nr. 2, 4 und 5 nicht aufgenommen.
+Nummer 2 und 4 nicht aufgenommen.
 
 
 #### § 60 Sterbeurkunde
@@ -1764,41 +1588,32 @@ Nr. 2, 4 und 5 nicht aufgenommen.
 In die Sterbeurkunde werden aufgenommen
 
 1.  die Vornamen und der Familienname des Verstorbenen, Ort und Tag seiner
-    Geburt sowie seine rechtliche Zugehörigkeit zu einer
-    Religionsgemeinschaft, sofern sich die Zugehörigkeit aus dem
-    Registereintrag ergibt,
-
+    Geburt,
 
 2.  der letzte Wohnsitz und der Familienstand des Verstorbenen,
-
 
 3.  die Vornamen und der Familienname des Ehegatten oder Lebenspartners,
     wenn der Verstorbene im Zeitpunkt seines Todes verheiratet war oder
     eine Lebenspartnerschaft führte; war die Ehe oder Lebenspartnerschaft
     durch Tod aufgelöst oder war der Ehegatte oder Lebenspartner für tot
-    erklärt oder war seine Todeszeit gerichtlich festgestellt worden, sind
-    die Vornamen und der Familienname des letzten Ehegatten oder
+    erklärt oder war seine Todeszeit gerichtlich festgestellt worden,
+    sind die Vornamen und der Familienname des letzten Ehegatten oder
     Lebenspartners anzugeben,
 
-
 4.  Sterbeort und Zeitpunkt des Todes.
-
-
-
 
 
 ### Abschnitt 2 - Benutzung der Personenstandsregister
 
 
-
 #### § 61 Allgemeine Vorschriften für die Benutzung
 
 (1) Die §§ 62 bis 66 gelten für die Benutzung der bei den
-Standesämtern geführten Personenstandsregister und Sammelakten bis zum
-Ablauf der in § 5 Abs. 5 festgelegten Fristen. Benutzung ist die
+Standesämtern geführten Personenstandsregister und Sammelakten bis
+zum Ablauf der in § 5 Abs. 5 festgelegten Fristen. Benutzung ist die
 Erteilung von Personenstandsurkunden aus einem Registereintrag, die
-Auskunft aus einem und die Einsicht in einen Registereintrag sowie die
-Durchsicht mehrerer Registereinträge; hierzu gehört auch eine
+Auskunft aus einem und die Einsicht in einen Registereintrag sowie
+die Durchsicht mehrerer Registereinträge; hierzu gehört auch eine
 entsprechende Verwendung der Sammelakten.
 
 (2) Nach Ablauf der in § 5 Abs. 5 festgelegten Fristen für die Führung
@@ -1810,24 +1625,24 @@ Vorschriften für die Benutzung maßgebend.
 
 (1) Personenstandsurkunden sind auf Antrag den Personen zu erteilen,
 auf die sich der Registereintrag bezieht, sowie deren Ehegatten,
-Lebenspartnern, Vorfahren und Abkömmlingen. Andere Personen haben ein
-Recht auf Erteilung von Personenstandsurkunden, wenn sie ein
-rechtliches Interesse glaubhaft machen; beim Geburtenregister oder
-Sterberegister reicht die Glaubhaftmachung eines berechtigten
+Lebenspartnern, Vorfahren und Abkömmlingen. Andere Personen haben
+ein Recht auf Erteilung von Personenstandsurkunden, wenn sie ein
+rechtliches Interesse glaubhaft machen; beim Geburtenregister
+oder Sterberegister reicht die Glaubhaftmachung eines berechtigten
 Interesses aus, wenn der Antrag von einem Geschwister des Kindes oder
 des Verstorbenen gestellt wird. Antragsbefugt sind über 16 Jahre alte
 Personen.
 
-(2) Absatz 1 gilt entsprechend für Auskunft aus einem und Einsicht in
-einen Registereintrag sowie Auskunft aus den und Einsicht in die
+(2) Absatz 1 gilt entsprechend für Auskunft aus einem und Einsicht
+in einen Registereintrag sowie Auskunft aus den und Einsicht in die
 Sammelakten.
 
 (3) Vor Ablauf der für die Führung der Personenstandsregister
-festgelegten Fristen ist die Benutzung nach den Absätzen 1 und 2
-bereits bei Glaubhaftmachung eines berechtigten Interesses zuzulassen,
-wenn seit dem Tod des zuletzt verstorbenen Beteiligten 30 Jahre
-vergangen sind; Beteiligte sind beim Geburtenregister die Eltern und
-das Kind, beim Eheregister die Ehegatten und beim
+festgelegten Fristen ist die Benutzung nach den Absätzen 1 und
+2 bereits bei Glaubhaftmachung eines berechtigten Interesses
+zuzulassen, wenn seit dem Tod des zuletzt verstorbenen Beteiligten
+30 Jahre vergangen sind; Beteiligte sind beim Geburtenregister
+die Eltern und das Kind, beim Eheregister die Ehegatten und beim
 Lebenspartnerschaftsregister die Lebenspartner.
 
 
@@ -1840,36 +1655,48 @@ dem über 16 Jahre alten Kind selbst erteilt werden. Diese Beschränkung
 entfällt mit dem Tod des Kindes; § 1758 des Bürgerlichen Gesetzbuchs
 bleibt unberührt.
 
-(2) Sind die Vornamen einer Person auf Grund des
-Transsexuellengesetzes vom 10. September 1980 (BGBl. I S. 1654)
-geändert oder ist festgestellt worden, dass diese Person dem anderen
-als dem in ihrem Geburtseintrag angegebenen Geschlecht angehört, so
-darf abweichend von § 62 eine Personenstandsurkunde aus dem
-Geburtseintrag nur der betroffenen Person selbst und eine
-Personenstandsurkunde aus dem Ehe- oder Lebenspartnerschaftseintrag
-nur der betroffenen Person selbst sowie ihrem Ehegatten oder
-Lebenspartner erteilt werden. Diese Beschränkungen entfallen mit dem
-Tod der transsexuellen Person; § 5 Absatz 1 und § 10 Absatz 2 in
-Verbindung mit § 5 Absatz 1 des Transsexuellengesetzes bleiben
-unberührt.
+(2) Ist der Geschlechtseintrag einer Person nach § 2 Absatz 1 des
+Gesetzes über die Selbstbestimmung in Bezug auf den Geschlechtseintrag
+und sind die Vornamen einer Person nach § 2 Absatz 3 des Gesetzes
+über die Selbstbestimmung in Bezug auf den Geschlechtseintrag geändert
+worden, so gilt abweichend von § 62:
+
+1.  eine Personenstandsurkunde aus dem Geburtseintrag darf nur der
+    betroffenen Person selbst erteilt werden,
+
+2.  eine Ehe- oder Lebenspartnerschaftsurkunde aus dem Ehe- oder
+    Lebenspartnerschaftseintrag darf nur der betroffenen Person selbst
+    sowie ihrem Ehegatten oder Lebenspartner erteilt werden.
+
+Diese Beschränkungen entfallen mit dem Tod der betroffenen Person;
+§ 13 des Gesetzes über die Selbstbestimmung in Bezug auf den
+Geschlechtseintrag bleibt unberührt.
 
 (3) Die Absätze 1 und 2 gelten entsprechend für Auskunft aus einem und
 Einsicht in einen Registereintrag sowie Auskunft aus den und Einsicht
 in die Sammelakten.
+
+(4) Ist die Anerkennung trotz bestehender Vaterschaft erfolgt,
+so darf abweichend von § 62 Auskunft aus einem und Einsicht in
+ein in die Sammelakten aufgenommenes Ergebnis einer genetischen
+Abstammungsuntersuchung nach § 17 des Gendiagnostikgesetzes nur dem
+Anerkennenden, der Mutter, dem Kind und dem anderen Mann, dessen
+Zustimmung nach § 1595a des Bürgerlichen Gesetzbuchs erforderlich ist,
+erteilt werden.
 
 
 #### § 64 Sperrvermerke
 
 (1) Sind dem Standesamt Tatsachen bekannt, die die Annahme
 rechtfertigen, dass einer Person durch die Ausstellung einer
-Personenstandsurkunde oder durch Auskunft aus einem oder Einsicht in
-einen Personenstandseintrag eine Gefahr für Leben, Gesundheit,
+Personenstandsurkunde oder durch Auskunft aus einem oder Einsicht
+in einen Personenstandseintrag eine Gefahr für Leben, Gesundheit,
 persönliche Freiheit oder ähnliche schutzwürdige Belange erwachsen
 kann, so wird auf ihren Antrag zu diesem Eintrag für die Dauer von
 drei Jahren ein Sperrvermerk eingetragen. Der Sperrvermerk wird unter
-den Voraussetzungen des Satzes 1 erneuert; seine Wirkung erlischt mit
-dem Tod des Betroffenen. Ist ein Sperrvermerk eingetragen, so dürfen
-ohne Einwilligung des Betroffenen auf Anordnung des Gerichts
+den Voraussetzungen des Satzes 1 erneuert; seine Wirkung erlischt
+mit dem Tod des Betroffenen. Ist ein Sperrvermerk eingetragen, so
+dürfen ohne Einwilligung des Betroffenen auf Anordnung des Gerichts
 Personenstandsurkunden erteilt sowie Auskunft aus einem oder Einsicht
 in einen Personenstandseintrag gewährt werden, wenn es zur Behebung
 einer bestehenden Beweisnot oder aus sonstigen im überwiegenden
@@ -1895,31 +1722,24 @@ Sammelakten.
 
 #### § 65 Benutzung durch Behörden und Gerichte
 
-(1) Behörden und Gerichten sind auf Ersuchen Personenstandsurkunden zu
-erteilen, Auskunft aus einem oder Einsicht in einen Registereintrag
+(1) Behörden und Gerichten sind auf Ersuchen Personenstandsurkunden
+zu erteilen, Auskunft aus einem oder Einsicht in einen Registereintrag
 sowie die Durchsicht mehrerer Registereinträge zu gewähren, soweit
 dies zur Erfüllung der in ihrer Zuständigkeit liegenden Aufgaben
-erforderlich ist. Gleiches gilt für Auskunft aus den und Einsicht in
-die Sammelakten. Die Behörden und die Gerichte haben den Zweck
+erforderlich ist. Gleiches gilt für Auskunft aus den und Einsicht
+in die Sammelakten. Die Behörden und die Gerichte haben den Zweck
 anzugeben. Sie tragen die Verantwortung für die Zulässigkeit der
 Übermittlung.
 
-(2) Religionsgemeinschaften im Inland, die Körperschaften des
-öffentlichen Rechts sind, können unter den Voraussetzungen des
-Absatzes 1 Personenstandsurkunden und Auskünfte aus einem
-Personenstandsregister erteilt werden, soweit das Ersuchen Mitglieder
-ihrer Religionsgemeinschaft betrifft. Dabei kann eine Eheurkunde auch
-dann erteilt werden, wenn nur ein Ehegatte der betreffenden
-Religionsgemeinschaft angehört und die Ehegatten der Erteilung
-zugestimmt haben.
+(2) (weggefallen)
 
-(3) Ausländischen diplomatischen oder konsularischen Vertretungen im
-Inland können unter den Voraussetzungen des Absatzes 1
+(3) Ausländischen diplomatischen oder konsularischen Vertretungen
+im Inland können unter den Voraussetzungen des Absatzes 1
 Personenstandsurkunden und Auskünfte aus einem Personenstandsregister
 erteilt werden, soweit das Ersuchen Angehörige des von ihnen
-vertretenen Staates betrifft. Ist dem Standesbeamten bekannt, dass es
-sich bei der betreffenden Person um einen heimatlosen Ausländer oder
-ausländischen Flüchtling im Sinne des Abkommens über die
+vertretenen Staates betrifft. Ist dem Standesbeamten bekannt, dass
+es sich bei der betreffenden Person um einen heimatlosen Ausländer
+oder ausländischen Flüchtling im Sinne des Abkommens über die
 Rechtsstellung der Flüchtlinge handelt, so ist die Benutzung der
 Register zu versagen.
 
@@ -1934,17 +1754,13 @@ Personenstandsregistern gewährt werden, wenn
 1.  dies für die Durchführung bestimmter wissenschaftlicher
     Forschungsvorhaben erforderlich ist,
 
-
 2.  eine Nutzung anonymisierter Daten zu diesem Zweck nicht möglich oder
-    die Anonymisierung mit einem unverhältnismäßigen Aufwand verbunden ist
-    und
-
+    die Anonymisierung mit einem unverhältnismäßigen Aufwand verbunden
+    ist und
 
 3.  das öffentliche Interesse an der Durchführung des Forschungsvorhabens
     die schutzwürdigen Belange des Betroffenen an dem Ausschluss der
     Benutzung erheblich überwiegt.
-
-
 
 Gleiches gilt für Auskunft aus den und Einsicht in die Sammelakten.
 
@@ -1954,11 +1770,11 @@ Maßnahmen trifft, die nach den anzuwendenden datenschutzrechtlichen
 Vorschriften zum Schutz der Daten erforderlich und angemessen sind.
 Die Benutzung bedarf der Zustimmung der für den Fachbereich des
 Forschungsvorhabens zuständigen obersten Bundes- oder Landesbehörde
-oder einer von dieser bestimmten Stelle; die Zuständigkeit der
-obersten Landesbehörde richtet sich nach dem Sitz der
-Forschungseinrichtung. Die Zustimmung muss den Empfänger, die Art der
-Nutzung der Personenstandseinträge, den Kreis der Betroffenen und das
-Forschungsvorhaben bezeichnen; sie ist dem zuständigen
+oder einer von dieser bestimmten Stelle; die Zuständigkeit
+der obersten Landesbehörde richtet sich nach dem Sitz der
+Forschungseinrichtung. Die Zustimmung muss den Empfänger, die Art
+der Nutzung der Personenstandseinträge, den Kreis der Betroffenen
+und das Forschungsvorhaben bezeichnen; sie ist dem zuständigen
 Datenschutzbeauftragten mitzuteilen.
 
 (3) Mit Zustimmung der zuständigen obersten Bundes oder Landesbehörde
@@ -1966,8 +1782,8 @@ oder der von dieser bestimmten Stelle dürfen die nach Absatz 1
 genutzten Daten unter gleichen Voraussetzungen auch für andere
 Forschungsvorhaben verwendet oder weiter übermittelt werden.
 
-(4) Wenn und sobald der Forschungszweck es erlaubt, sind die nach den
-Absätzen 1 und 3 erlangten Daten zu anonymisieren. Bis zu einer
+(4) Wenn und sobald der Forschungszweck es erlaubt, sind die nach
+den Absätzen 1 und 3 erlangten Daten zu anonymisieren. Bis zu einer
 Anonymisierung sind die Merkmale gesondert zu speichern, mit denen
 Einzelangaben über persönliche und sachliche Verhältnisse einer
 bestimmten oder bestimmbaren Person zugeordnet werden können; sie
@@ -1981,52 +1797,101 @@ Daten ist nur zulässig, wenn
 1.  die Betroffenen, im Falle ihres Todes deren Ehegatten und Abkömmlinge,
     eingewilligt haben oder
 
-
-2.  dies für die Darstellung von Forschungsergebnissen über Ereignisse der
-    Zeitgeschichte unerlässlich ist; in diesem Fall bedarf die
-    Veröffentlichung der Zustimmung der obersten Bundes- oder
+2.  dies für die Darstellung von Forschungsergebnissen über Ereignisse
+    der Zeitgeschichte unerlässlich ist; in diesem Fall bedarf
+    die Veröffentlichung der Zustimmung der obersten Bundes- oder
     Landesbehörde, die der Benutzung nach Absatz 2 zugestimmt hat.
 
 
+#### § 67 Zentrale Register
 
+(1) Die Länder dürfen zentrale Register einrichten zu dem Zweck,
+die Registereinträge der angeschlossenen Standesämter zu erfassen,
+ihre Benutzung nach Absatz 3 sowie ihre Fortführung nach Absatz 4
+zu ermöglichen.
 
+(2) Die Standesämter dürfen bei ihnen gespeicherte Registereinträge
+an das zentrale Register übermitteln. Die Länder können zulassen, dass
+die elektronische Erfassung eines Altregisters nach § 76 Absatz 5 auch
+durch ein angeschlossenes Standesamt erfolgt, das den Haupteintrag
+nicht selbst errichtet hat. Die Verantwortung für die Richtigkeit und
+Vollständigkeit der Daten trägt die übermittelnde Stelle. Das zentrale
+Register darf die Daten speichern zum Zweck der Übermittlung nach
+Absatz 3.
 
-#### § 67 Einrichtung zentraler Register
-
-(1) Die Länder dürfen zentrale Register einrichten zu dem Zweck, die
-Registereinträge der angeschlossenen Standesämter zu erfassen und ihre
-Benutzung nach Absatz 3 zu ermöglichen.
-
-(2) Die Standesämter dürfen bei ihnen gespeicherte Registereinträge an
-das zentrale Register übermitteln. Die Verantwortung für die
-Richtigkeit und Vollständigkeit der Daten trägt die übermittelnde
-Stelle. Das zentrale Register darf die Daten speichern zum Zweck der
-Übermittlung nach Absatz 3.
-
-(3) Die Standesämter dürfen bei dem zentralen Register
-Registereinträge erheben, wenn die Angaben benötigt werden zur
-Erteilung von Personenstandsurkunden und Auskünften sowie zur
-Gewährung von Einsicht in die Personenstandsregister und Durchsicht
-dieser Register nach den §§ 55, 61 bis 66; die Benutzung der
-Personenstandsregister kann von allen an das zentrale Register
+(3) Die Standesämter dürfen zur Erfüllung der ihnen obliegenden
+Aufgaben bei dem zentralen Register Registereinträge nutzen, wenn
+die Angaben benötigt werden zur Erteilung von Personenstandsurkunden,
+elektronischen Personenstandsbescheinigungen und Auskünften sowie
+zur Gewährung von Einsicht in die Personenstandsregister und
+Durchsicht dieser Register nach den §§ 55, 61 bis 66; die Benutzung
+der Personenstandsregister kann allen an das zentrale Register
 angeschlossenen Standesämtern gewährt werden.
 
-(4) (weggefallen)
+(4) Die Länder können zulassen, dass an das zentrale Register
+übermittelte Registereinträge abweichend von § 5 Absatz 4 von jedem
+angeschlossenen Standesamt fortgeführt werden dürfen.
 
 
-#### § 68 Mitteilungen an Behörden und Gerichte von Amts wegen
+#### § 68 Datenaustausch zwischen Standesämtern, Behörden und Gerichten
 
 (1) Das Standesamt, das in einem Personenstandsregister eine
-Beurkundung vornimmt (§§ 3, 5), übermittelt Angaben hierüber von Amts
-wegen einer anderen Behörde oder einem Gericht, wenn sich die
+Beurkundung vornimmt (§§ 3, 5), übermittelt Angaben hierüber von
+Amts wegen einer anderen Behörde oder einem Gericht, wenn sich die
 Mitteilungspflicht aus einer Rechtsvorschrift ergibt.
 
-(2) Die Einrichtung eines automatisierten Abrufverfahrens, das die
-Übermittlung personenbezogener Daten an andere Stellen als
-Standesämter durch Abruf ermöglicht, ist nur zulässig, soweit dies
-durch Bundes- oder Landesrecht unter Festlegung der Datenempfänger,
-der Art der zu übermittelnden Daten und des Zwecks der Übermittlung
-bestimmt wird.
+(2) Die Übermittlung von Daten zwischen Standesämtern durch
+automatisierte Abrufverfahren ist zulässig, soweit diese Daten zur
+Erfüllung der Aufgaben der abrufenden Stelle erforderlich sind. Bei
+Datenabrufen in automatisierten Abrufverfahren ist durch technische
+Maßnahmen sicherzustellen, dass die Berechtigung der abrufenden
+Stelle beim angefragten Standesamt erkannt und protokolliert wird. Ein
+Datenabruf im automatisierten Abrufverfahren darf nur die Einsicht in
+das Suchverzeichnis und in den der Abfrage zugehörigen Registereintrag
+ermöglichen. Bei Verfahren nach § 67 sind ergänzend landesrechtliche
+Regelungen zu beachten. Eine Datenübermittlung im automatisierten
+Abrufverfahren ist nicht zulässig, wenn
+
+1.  die Benutzung eines Eintrags nach Ablauf der Fortführungsfristen nach
+    § 5 Absatz 5 archivrechtlichen Vorschriften unterliegt,
+
+2.  die Daten im Übermittlungsersuchen nicht mit den gespeicherten Daten
+    korrespondieren,
+
+3.  zu einem Registereintrag ein Sperrvermerk nach § 64 eingetragen ist
+    oder
+
+4.  ein Registereintrag nach § 47 Absatz 4 Satz 2 stillgelegt worden ist.
+
+Datenübermittlungen und Auskünfte zwischen den Standesämtern sind
+gebührenfrei.
+
+(3) Die Einrichtung eines automatisierten Abrufverfahrens, das
+die Übermittlung personenbezogener Daten an andere Stellen als
+Standesämter ermöglicht, ist nur zulässig, soweit dies durch Bundes-
+oder Landesrecht unter Festlegung der Datenempfänger, der Art der zu
+übermittelnden Daten und des Zwecks der Übermittlung bestimmt wird.
+Absatz 2 gilt entsprechend.
+
+(4) Die Übermittlung von elektronischen Personenstandsbescheinigungen
+nach § 55 Absatz 1 Satz 2 an öffentliche Stellen anderer
+Mitgliedstaaten der Europäischen Union ist zulässig, soweit die
+abrufende Stelle zum Abruf berechtigt ist und dies zur Erfüllung
+ihrer Aufgaben für eines der Verfahren nach Artikel 14 Absatz 1
+der Verordnung (EU) 2018/1724 des Europäischen Parlaments und des
+Rates vom 2. Oktober 2018 über die Einrichtung eines einheitlichen
+digitalen Zugangstors zu Informationen, Verfahren, Hilfs- und
+Problemlösungsdiensten und zur Änderung der Verordnung (EU) Nr.
+1024/2012 (ABl. L 295 vom 21.11.2018, S. 1) in der jeweils geltenden
+Fassung erforderlich ist. Für die Übermittlung sind die sich aus
+der Verordnung (EU) 2018/1724 ergebenden technischen Anforderungen
+einzuhalten.
+
+(5) Die Standesämter können bei öffentlichen Stellen anderer
+Mitgliedstaaten der Europäischen Union personenbezogene Daten abrufen,
+soweit dies zur Erfüllung ihrer Aufgaben im Rahmen eines der Verfahren
+nach Artikel 14 Absatz 1 der Verordnung (EU) 2018/1724 erforderlich
+ist.
 
 
 #### § 68a Rechte der betroffenen Person
@@ -2036,21 +1901,21 @@ Erhalt einer Kopie nach Artikel 15 Absatz 3 der Verordnung (EU)
 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016
 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener
 Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie
-95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1;
-L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils
-geltenden Fassung werden dadurch gewährleistet, dass die betroffene
-Person nach § 62 Einsicht in das Personenstandsregister und in die zum
-Personenstandseintrag geführten Sammelakten nehmen sowie eine Auskunft
-aus dem Personenstandseintrag oder der Sammelakte erhalten kann.
-Soweit die Auskunft zu den verarbeiteten personenbezogenen Daten nach
-Artikel 15 Absatz 3 der Verordnung (EU) 2016/679 durch eine
-gebührenfreie Kopie des amtlichen Formulars einer
-Personenstandsurkunde erfolgt, ist dieses nicht vom Standesbeamten zu
-unterschreiben, zu siegeln oder zu beglaubigen. Das Recht auf Auskunft
-der betroffenen Person gemäß Artikel 15 Absatz 1 Buchstabe c der
-Verordnung (EU) 2016/679 ist beschränkt auf die Kategorien von
-Empfängern, gegenüber denen die im Personenstandsregister oder in den
-zum Registereintrag geführten Sammelakten enthaltenen
+95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S.
+1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der
+jeweils geltenden Fassung werden dadurch gewährleistet, dass die
+betroffene Person nach § 62 Einsicht in das Personenstandsregister
+und in die zum Personenstandseintrag geführten Sammelakten
+nehmen sowie eine Auskunft aus dem Personenstandseintrag oder der
+Sammelakte erhalten kann. Soweit die Auskunft zu den verarbeiteten
+personenbezogenen Daten nach Artikel 15 Absatz 3 der Verordnung (EU)
+2016/679 durch eine gebührenfreie Kopie des amtlichen Formulars einer
+Personenstandsurkunde erfolgt, ist dieses nicht vom Standesbeamten
+zu unterschreiben, zu siegeln oder zu beglaubigen. Das Recht auf
+Auskunft der betroffenen Person gemäß Artikel 15 Absatz 1 Buchstabe
+c der Verordnung (EU) 2016/679 ist beschränkt auf die Kategorien
+von Empfängern, gegenüber denen die im Personenstandsregister
+oder in den zum Registereintrag geführten Sammelakten enthaltenen
 personenbezogenen Daten offengelegt worden sind oder noch offengelegt
 werden.
 
@@ -2066,7 +1931,6 @@ keine Anwendung.
 
 
 ## Kapitel 10 - Zwangsmittel, Bußgeldvorschriften, Besonderheiten
-
 
 
 ### § 69 Erzwingung von Anzeigen
@@ -2089,22 +1953,16 @@ einen dort genannten Vertrag abschließt.
 1.  als Person nach § 19 Satz 1 Nummer 1 entgegen § 18 Absatz 1 Satz 1
     Nummer 1 oder Satz 2,
 
-
 2.  als Träger einer Einrichtung nach § 20 Satz 1 entgegen § 18 Absatz 1
     Satz 1 Nummer 2 oder Satz 2,
 
-
 3.  entgegen § 24 Abs. 1 Satz 1,
 
-
-4.  als Person nach § 29 Abs. 1 Satz 1 Nr. 1 oder 2 entgegen § 28 Nr. 1
-    oder
-
+4.  als Person nach § 29 Abs. 1 Satz 1 Nr. 1 oder 2 entgegen § 28 Nr.
+    1 oder
 
 5.  als Träger einer Einrichtung nach § 30 Abs. 1 in Verbindung mit § 20
     Satz 1 entgegen § 28 Nr. 2
-
-
 
 eine Anzeige nicht, nicht richtig, nicht vollständig, nicht in der
 vorgeschriebenen Weise oder nicht rechtzeitig erstattet.
@@ -2119,9 +1977,9 @@ Geldbuße bis zu eintausend Euro geahndet werden.
 Die aus Anlass des deutsch-belgischen Vertrags vom 24. September 1956
 (BGBl. 1958 II S. 262, 353) und auf Grund des deutsch-niederländischen
 Ausgleichsvertrags vom 8. April 1960 (BGBl. 1963 II S. 458, 1078)
-übergebenen Personenstandsbücher stehen Personenstandsregistern im
-Sinne dieses Gesetzes gleich. Soweit lediglich beglaubigte Abschriften
-übergeben worden sind, stehen diese einem Eintrag in einem
+übergebenen Personenstandsbücher stehen Personenstandsregistern
+im Sinne dieses Gesetzes gleich. Soweit lediglich beglaubigte
+Abschriften übergeben worden sind, stehen diese einem Eintrag in einem
 Personenstandsregister gleich.
 
 
@@ -2131,24 +1989,21 @@ Personenstandsregister gleich.
 ## Kapitel 11 - Verordnungsermächtigungen
 
 
-
 ### § 73 Ermächtigungen zum Erlass von Rechtsverordnungen
 
-Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt,
-im Benehmen mit dem Bundesministerium der Justiz und für
+Das Bundesministerium des Innern, für Bau und Heimat wird
+ermächtigt, im Benehmen mit dem Bundesministerium der Justiz und für
 Verbraucherschutz und mit Zustimmung des Bundesrates zur Durchführung
 dieses Gesetzes Rechtsverordnungen zu erlassen über
 
-1.  die Führung, Fortführung, Benutzung und Aufbewahrung der von deutschen
-    Standesbeamten errichteten Personenstandsregister,
+1.  die Führung, Fortführung, Benutzung und Aufbewahrung der von
+    deutschen Standesbeamten errichteten Personenstandsregister,
     Personenstandsbücher und Standesregister sowie die Führung und
     Fortführung der Sicherungsregister, Zweitbücher und standesamtlichen
     Nebenregister,
 
-
 2.  die Führung, Fortführung, Benutzung und Aufbewahrung der von deutschen
     Konsularbeamten errichteten Personenstandseinträge,
-
 
 3.  die Anforderungen an elektronische Verfahren
 
@@ -2156,115 +2011,109 @@ dieses Gesetzes Rechtsverordnungen zu erlassen über
         die Aufbewahrung dieser Register einschließlich der Anforderungen an
         Anlagen und Programme sowie deren Sicherung (§§ 3, 4),
 
-
     b)  mittels derer die Identität der Person, die die Eintragung vorgenommen
         hat, erkennbar ist (§ 3 Abs. 2 Satz 3),
-
-
-
-
 
 4.  den Aufbau und die Darstellung der elektronischen Register am
     Bildschirm und die Formulare für die Personenstandsurkunden (§§ 3 bis
     5, 55),
 
-
-5.  die Ausstellung von Personenstandsurkunden durch ein anderes als das
-    registerführende Standesamt (§ 55 Abs. 2, § 56 Abs. 4),
-
+5.  die technische Ausgestaltung der Ausstellung, Übermittlung und
+    Verifizierung von elektronischen Personenstandsbescheinigungen (§ 55
+    Absatz 1 Satz 2),
 
 6.  die technischen Verfahren zur Neubeurkundung nach Verlust eines
     Registers (§ 8),
 
-
 7.  die Führung der Sammelakten (§ 6),
-
 
 8.  die Mitteilungen an Behörden und sonstige öffentliche Stellen auf
     Grund von Rechtsvorschriften, insbesondere die Bezeichnung der
     empfangenden Stelle sowie die im Einzelnen zu übermittelnden Angaben
     und das Verfahren der Übermittlung,
 
-
 9.  die Übertragung von besonderen Aufgaben auf das Standesamt I in
-    Berlin, die sich daraus ergeben, dass diesem im Rahmen der ihm durch
-    dieses Gesetz übertragenen Zuständigkeiten Mitteilungen oder
+    Berlin, die sich daraus ergeben, dass diesem im Rahmen der ihm
+    durch dieses Gesetz übertragenen Zuständigkeiten Mitteilungen oder
     Erklärungen über Vorgänge zugehen, die in einem Personenstandsregister
     zu beurkunden wären, sowie die Organisation und Nutzung der nach
     diesem Gesetz beim Standesamt I in Berlin zu führenden Verzeichnisse,
     insbesondere im Rahmen der Zusammenarbeit mit den Standesämtern,
 
-
 10. die Anmeldung der Eheschließung, die Eheschließung und die Umwandlung
     der Lebenspartnerschaft in eine Ehe sowie die Erteilung einer
     Bescheinigung hierüber,
 
-
 11. die Anzeige einer Geburt oder eines Sterbefalls,
 
+12. die Erteilung von Personenstandsurkunden, einer Bescheinigung über die
+    Entgegennahme einer namensrechtlichen Erklärung sowie die Anmeldung
+    einer Erklärung zur Änderung des Geschlechtseintrags und der Vornamen,
 
-12. die Erteilung von Personenstandsurkunden sowie einer Bescheinigung
-    über die Entgegennahme einer namensrechtlichen Erklärung,
-
-
-13. die Beurkundung von Personenstandsfällen, bei denen besondere Umstände
-    zu berücksichtigen sind, weil sie sich in der Luft, auf
+13. die Beurkundung von Personenstandsfällen, bei denen besondere
+    Umstände zu berücksichtigen sind, weil sie sich in der Luft, auf
     Binnenschiffen, in Landfahrzeugen oder in Bergwerken ereignet haben
     oder einzelne Angaben für die Beurkundung fehlen oder urkundlich nicht
     belegt werden können,
-
 
 14. die Beurkundung von Personenstandsfällen, falls eine Person beteiligt
     ist, die taub oder stumm oder sonst am Sprechen gehindert ist, die die
     deutsche Sprache nicht versteht oder nicht schreiben kann,
 
-
 15. die Beurkundung der Sterbefälle von Angehörigen der ehemaligen
     deutschen Wehrmacht sowie das Verfahren zur Beurkundung von
     Sterbefällen in ehemaligen deutschen Konzentrationslagern (§ 38),
-
 
 16. weitere Angaben zum Familienstand des Verstorbenen sowie zum Ort und
     Zeitpunkt des Todes im Sterbeeintrag (§ 31 Absatz 1 Nummer 2 und 4)
     und in der Sterbeurkunde (§ 60 Nummer 2 und 4),
 
-
 17. die Eintragung der Staatsangehörigkeit in die Personenstandsregister,
-
 
 18. die Begriffsbestimmungen für tot geborene Kinder und Fehlgeburten,
 
-
 19. die Angabe von Namen, wenn Vor- und Familiennamen nicht geführt
     werden,
-
 
 20. die Bezeichnung der Behörden und sonstigen öffentlichen Stellen, die
     nach gesetzlichen Vorschriften dem Standesamt eine Mitteilung zur
     Fortführung der Personenstandsregister zu machen haben, sowie die
     jeweils zu übermittelnden Angaben,
 
-
-21. die Besonderheiten für die in § 71 genannten Personenstandsbücher und
-    beglaubigten Abschriften, die darauf beruhen, dass Zweitbücher nicht
-    vorhanden sind oder Einträge von den im inländischen Recht
+21. die Besonderheiten für die in § 71 genannten Personenstandsbücher
+    und beglaubigten Abschriften, die darauf beruhen, dass Zweitbücher
+    nicht vorhanden sind oder Einträge von den im inländischen Recht
     vorgesehenen Einträgen abweichen,
-
 
 22. die Führung der Sammlung der Todeserklärungen, die damit
     zusammenhängenden Mitteilungspflichten und die Benutzung dieser
     Sammlung (§ 33),
 
-
 23. die elektronische Erfassung und Fortführung der Übergangsbeurkundungen
     (§ 75) und Altregister (§ 76),
 
+24. die Benutzung der als Heiratseinträge fortgeführten Familienbücher
+    (§ 77),
 
-24. die Benutzung der als Heiratseinträge fortgeführten Familienbücher (§
-    77).
+25. die technischen Standards, die zu übermittelnden Daten, ihre
+    Form sowie das Nähere über das Verfahren der Übermittlung bei
+    Datenübermittlungen zwischen Standesämtern und einem Verwaltungsportal
+    nach § 3 Absatz 2 des Onlinezugangsgesetzes vom 14. August 2017 (BGBl.
+    I. S. 3122, 3138), das zuletzt durch Artikel 16 des Gesetzes vom 28.
+    Juni 2021 (BGBl. I S. 2250) geändert worden ist (OZG),
 
+26. die Festlegung des Vertrauensniveaus im Sinne des Artikel 8 der
+    Verordnung (EU) Nr. 910/2014 des Europäischen Parlaments und des
+    Rates vom 23. Juli 2014 über elektronische Identifizierung und
+    Vertrauensdienste für elektronische Transaktionen im Binnenmarkt und
+    zur Aufhebung der Richtlinie 1999/93/EG (ABl. L 257 vom 28.8.2014, S.
+    73; L 23 vom 29.1.2015, S. 19; L 155 vom 14.6.2016, S. 44), das bei
+    einer elektronischen Erbringung von Verwaltungsleistungen nach diesem
+    Gesetz jeweils erforderlich ist,
 
-
+27. automatisierte Abrufverfahren und technische Benutzer nach § 68 sowie
+    die im Einzelnen zu übermittelnden Angaben, die Protokollierung der
+    Abrufe und die Verfahren der Übermittlung.
 
 
 ### § 74 Rechtsverordnungen der Landesregierungen
@@ -2274,31 +2123,22 @@ dieses Gesetzes Rechtsverordnungen zu erlassen über
 1.  die Bestellung der Standesbeamten und die fachlichen Anforderungen an
     diese Personen zu regeln,
 
-
 2.  die Aufbewahrung der Zweitbücher und Sicherungsregister zu regeln,
-
 
 3.  ein zentrales elektronisches Personenstandsregister einzurichten und
     nähere Bestimmungen zu dessen Führung zu treffen,
 
-
 4.  die Aufbewahrung der Sammelakten zu regeln,
-
 
 5.  die elektronische Erfassung und Fortführung der Übergangsbeurkundungen
     (§ 75) und Altregister (§ 76) zu regeln,
 
-
 6.  das zuständige Amtsgericht zu bestimmen, wenn im Falle des § 50 Abs. 1
     am Ort des Landgerichts mehrere Amtsgerichte ihren Sitz haben,
-
 
 7.  zu bestimmen, dass auch anderen als den auf Grund des § 73 Nr. 8
     bezeichneten öffentlichen Stellen Angaben mitzuteilen sind, die diese
     zur Erfüllung ihrer Aufgaben benötigen.
-
-
-
 
 (2) Die Landesregierungen können durch Rechtsverordnung die
 Ermächtigungen nach Absatz 1 auf oberste Landesbehörden übertragen.
@@ -2307,12 +2147,11 @@ Ermächtigungen nach Absatz 1 auf oberste Landesbehörden übertragen.
 ## Kapitel 12 - Übergangsvorschriften
 
 
-
 ### § 75 Übergangsbeurkundung
 
-Die zwischen dem 1. Januar 2009 und dem 31. Dezember 2013 in einem
-Papierregister beurkundeten Personenstandseinträge
-(Übergangsbeurkundungen) können in elektronische Register übernommen
+Die zwischen dem 1. Januar 2009 und dem 31. Dezember 2013
+in einem Papierregister beurkundeten Personenstandseinträge
+(Übergangsbeurkundungen) sollen in elektronische Register übernommen
 werden; in diesem Fall gelten die §§ 3 bis 5 entsprechend.
 
 
@@ -2333,17 +2172,33 @@ Sammelakten gelten die §§ 61 bis 66 entsprechend.
 
 (4) Für die Aufbewahrung und das Anbieten der Altregister, der
 Zweitbücher und der Sammelakten gegenüber den Archiven gilt § 7 Absatz
-1 und 3 entsprechend.
+1 Satz 1, Absatz 2 und 3 entsprechend.
 
-(5) Die Altregister können innerhalb der in § 5 Absatz 5 genannten
-Fristen elektronisch erfasst und fortgeführt werden; in diesem Fall
-gelten die §§ 3 bis 5 entsprechend.
+(5) Einträge aus Altregistern werden elektronisch erfasst und
+fortgeführt, wenn
+
+1.  ein Anlass zur Fortführung des Registereintrags im Geburten-, Ehe- und
+    Lebenspartnerschaftsregister besteht,
+
+2.  die Ausstellung einer Personenstandsurkunde aus einem der in Nummer 1
+    genannten Register beantragt wird oder
+
+3.  durch eine automatisierte Datenabfrage Daten aus einem
+    papiergebundenen Altregister nach Nummer 1 abgefragt werden.
+
+Im Übrigen sollen sie elektronisch erfasst werden. Eine Nacherfassung
+im elektronischen Personenstandsregister nach den Sätzen 1 und 2 ist
+nicht erforderlich, wenn bereits die Hälfte der nach § 5 Absatz 5 für
+den entsprechenden Personenstandseintrag geltenden Fortführungsfrist
+abgelaufen ist oder die elektronische Nacherfassung aufgrund der in
+dem papiergebundenen Registereintrag beurkundeten Daten aus anderen
+Gründen nicht angezeigt ist.
 
 
 ### § 77 Fortführung, Aufbewahrung und Benutzung der Familienbücher
 
-(1) Die Familienbücher werden als Heiratseinträge fortgeführt; die
-bisherigen Heiratseinträge in den Heiratsbüchern werden nicht
+(1) Die Familienbücher werden als Heiratseinträge fortgeführt;
+die bisherigen Heiratseinträge in den Heiratsbüchern werden nicht
 fortgeführt. § 16 gilt entsprechend.
 
 (2) Zuständig für die Fortführung des Familienbuchs ist das
@@ -2356,18 +2211,27 @@ werden, werden als Personenstandsurkunden nur Eheurkunden (§ 57)
 ausgestellt.
 
 
-### § 78 (weggefallen)
+### § 78 Übergangsregelung
 
+Die Vorschriften für Änderungen des Geschlechtseintrags und der
+Vornamen nach dem Gesetz über die Selbstbestimmung in Bezug auf den
+Geschlechtseintrag gelten auch für die Änderungen, die vorgenommen
+wurden auf Grund der jeweils bis einschließlich 31. Oktober 2024
+geltenden Fassung
+
+1.  des Transsexuellengesetzes und
+
+2.  des § 45b.
 
 
 ### § 79 Altfallregelung
 
 Für die Bearbeitung von Anträgen auf Beurkundung von
 Auslandspersonenstandsfällen und von namensrechtlichen Erklärungen,
-die vor dem 1. November 2017 beim Standesamt I in Berlin gestellt oder
-dort eingegangen sind, bleibt abweichend von der in § 34 Absatz 4 Satz
-1, § 35 Absatz 3 Satz 1, § 36 Absatz 2, § 41 Absatz 2 Satz 2, § 42
-Absatz 2 Satz 2, § 43 Absatz 2 Satz 3 und § 45 Absatz 2 Satz 2
-getroffenen Zuständigkeitsreglung bei lediglich früherem Wohnsitz im
-Inland das Standesamt I in Berlin zuständig.
+die vor dem 1. November 2017 beim Standesamt I in Berlin gestellt
+oder dort eingegangen sind, bleibt abweichend von der in § 34
+Absatz 4 Satz 1, § 35 Absatz 3 Satz 1, § 36 Absatz 2, § 41 Absatz
+2 Satz 2, § 43 Absatz 2 Satz 3 und § 45 Absatz 2 Satz 2 getroffenen
+Zuständigkeitsreglung bei lediglich früherem Wohnsitz im Inland das
+Standesamt I in Berlin zuständig.
 

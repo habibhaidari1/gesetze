@@ -1,6 +1,5 @@
 ---
-Title: Verordnung zur Ausführung des deutsch-türkischen Abkommens über den Rechtsverkehr
-  in Zivil- und Handelssachen vom 28. Mai 1929 (Reichsgesetzbl. 1930 II S. 6)
+Title: Verordnung zur Ausführung des deutsch-türkischen Abkommens über den Rechtsverkehr in Zivil- und Handelssachen vom 28. Mai 1929 (Reichsgesetzbl. 1930 II S. 6)
 jurabk: RVerkAbkTURAV
 layout: default
 origslug: rverkabkturav
@@ -30,8 +29,8 @@ Januar 1930 (Reichsgesetzbl. II S. 6) verordnet die Reichsregierung:
 ## Art 1
 
 Für die Erledigung der in Artikel 9 und 12 des Abkommens vorgesehenen
-Angelegenheiten ist das Amtsgericht zuständig, in dessen Bezirk die
-Amtshandlung vorgenommen werden soll. Für die Entgegennahme der
+Angelegenheiten ist das Amtsgericht zuständig, in dessen Bezirk
+die Amtshandlung vorgenommen werden soll. Für die Entgegennahme der
 Zustellungsanträge und Rechtshilfeersuchen ist der Präsident des dem
 Amtsgericht übergeordneten Landgerichts zuständig.
 
@@ -54,8 +53,8 @@ Ist der Antrag auf Vollstreckbarerklärung auf diplomatischem Wege
 gestellt, so hat das Amtsgericht eine von Amts wegen zu erteilende
 Ausfertigung seines Beschlusses der Landesjustizverwaltung
 einzureichen; die Ausfertigung ist, sofern dem Antrag stattgegeben
-wird, mit der Vollstreckungsklausel zu versehen. Ist der Antrag auf
-Vollstreckbarerklärung durch die beteiligte Partei unmittelbar
+wird, mit der Vollstreckungsklausel zu versehen. Ist der Antrag
+auf Vollstreckbarerklärung durch die beteiligte Partei unmittelbar
 gestellt worden, so ist der Beschluß beiden Teilen von Amts wegen
 zuzustellen.
 
@@ -63,8 +62,8 @@ zuzustellen.
 ## Art 4
 
 (1) Beschlüsse, durch die der Antrag auf Vollstreckbarerklärung
-abgelehnt wird, unterliegen der Beschwerde nach den §§ 567 bis 577 der
-Zivilprozessordnung. Die Beschwerde steht, sofern der Antrag auf
+abgelehnt wird, unterliegen der Beschwerde nach den §§ 567 bis 577
+der Zivilprozessordnung. Die Beschwerde steht, sofern der Antrag auf
 diplomatischem Wege gestellt ist, dem Staatsanwalt, sofern er durch
 die beteiligte Partei unmittelbar gestellt ist, dem Antragsteller zu.
 
@@ -102,7 +101,7 @@ eines Rechtsanwalts eingelegt werden.
 ## Art 8
 
 Die für die Erhebung von Auslagen geltenden bundes- und
-landesrechtlichen Vorschriften finden auf die gemäß Artikel 16 Abs. 2
-des Abkommens von der ersuchten türkischen Behörde mitgeteilten
+landesrechtlichen Vorschriften finden auf die gemäß Artikel 16 Abs.
+2 des Abkommens von der ersuchten türkischen Behörde mitgeteilten
 Auslagen entsprechende Anwendung.
 

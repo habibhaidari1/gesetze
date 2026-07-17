@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Erfüllung von Entschädigungs- und Ausgleichsleistungsansprüchen
-  durch Begebung und Zuteilung von Schuldverschreibungen des Entschädigungsfonds
+Title: Verordnung über die Erfüllung von Entschädigungs- und Ausgleichsleistungsansprüchen durch Begebung und Zuteilung von Schuldverschreibungen des Entschädigungsfonds
 jurabk: SchuV
 layout: default
 origslug: schuv
@@ -29,7 +28,6 @@ Auf Grund des § 9 Abs. 8 des Entschädigungsgesetzes vom 27. September
 ## Abschnitt 1 - Begebung
 
 
-
 ### § 1 Begebung, Nennwert, Laufzeit, Tilgung und Verzinsung der Schuldverschreibungen
 
 (1) Für die Schuldverschreibungen wird eine Sammelschuldbuchforderung
@@ -37,8 +35,8 @@ für die Deutscher Kassenverein AG mit der Maßgabe der Verfügung durch
 die Deutsche Bundesbank in das Bundesschuldbuch eingetragen. Die
 Eintragungen werden in Teilbeträgen vorgenommen.
 
-(2) Der Nennwert der Schuldverschreibungen beträgt 1.000 Deutsche Mark
-oder ein ganzes Vielfaches davon. Der Nennwert der
+(2) Der Nennwert der Schuldverschreibungen beträgt 1.000
+Deutsche Mark oder ein ganzes Vielfaches davon. Der Nennwert der
 Schuldverschreibungen, die ab 1. Januar 1999 zugeteilt werden, beträgt
 100 Euro oder ein ganzes Vielfaches davon.
 
@@ -54,16 +52,16 @@ längste Laufzeit von 13 Jahren. Sie sind somit spätestens am 1. Januar
 durch Auslosung zum Nennwert getilgt, erstmals zum 1. Januar 2004.
 Eine vorzeitige Kündigung ist ausgeschlossen.
 
-(4) Vor Beginn der Tilgung werden die Schuldverschreibungen in fünf
-gleich große Gruppen aufgeteilt. Die ersten vier Tilgungsraten werden
-jeweils drei Monate vor dem Tilgungstermin von der das
+(4) Vor Beginn der Tilgung werden die Schuldverschreibungen in
+fünf gleich große Gruppen aufgeteilt. Die ersten vier Tilgungsraten
+werden jeweils drei Monate vor dem Tilgungstermin von der das
 Bundesschuldbuch führenden Stelle durch Auslosung einer Gruppe
 ermittelt.
 
 (5) Die Schuldverschreibungen werden bis 31. Dezember 2003 nicht
-verzinst. Ab 1. Januar 2004 werden sie mit sechs Prozent verzinst. Die
-Zinsen sind jährlich nachträglich fällig, erstmals am 1. Januar 2005.
-Die Verzinsung endet mit dem Ablauf des dem Fälligkeitstag
+verzinst. Ab 1. Januar 2004 werden sie mit sechs Prozent verzinst.
+Die Zinsen sind jährlich nachträglich fällig, erstmals am 1. Januar
+2005\. Die Verzinsung endet mit dem Ablauf des dem Fälligkeitstag
 vorhergehenden Tages; das gilt auch dann, wenn die Leistung nach § 193
 Bürgerliches Gesetzbuch bewirkt wird.
 
@@ -77,8 +75,8 @@ Stelle.
 
 ### § 2 Marktpflege
 
-Der Entschädigungsfonds sorgt für die Marktpflege. Hierzu können in
-Höhe bis zu zehn Prozent der umlaufenden Schuldtitel
+Der Entschädigungsfonds sorgt für die Marktpflege. Hierzu
+können in Höhe bis zu zehn Prozent der umlaufenden Schuldtitel
 Schuldverschreibungen angekauft werden. Die Mittel für die Marktpflege
 stellt der Entschädigungsfonds zur Verfügung. Sie sind in dessen
 jährlichem Wirtschaftsplan zu berücksichtigen. Eine Kreditaufnahme ist
@@ -86,7 +84,6 @@ nicht zulässig.
 
 
 ## Abschnitt 2 - Zuteilung und Verwaltung
-
 
 
 ### § 3 Zuteilung der Schuldverschreibungen
@@ -97,23 +94,20 @@ Ausgleichsleistungsanspruch durch Zuteilung von Schuldverschreibungen
 des Entschädigungsfonds erfüllt. Diese werden für den Berechtigten
 nach seiner Wahl in einem Depot eines von ihm zu benennenden
 Kreditinstitutes oder als Einzelschuldbuchforderung im
-Bundesschuldbuch verwaltet. Haben sich die Gesellschafter eines als
-Berechtigten festgestellten Unternehmens i.L. einvernehmlich
+Bundesschuldbuch verwaltet. Haben sich die Gesellschafter eines
+als Berechtigten festgestellten Unternehmens i.L. einvernehmlich
 auseinandergesetzt, kann die Zuteilung von Schuldverschreibungen
 unmittelbar an die Gesellschafter erfolgen, ohne dass eine nochmalige
 Abrundung stattfindet. Entsprechendes gilt für Erbengemeinschaften.
 
-(2) Die bescheidende Stelle weist den Berechtigten auf die in Absatz 1
-Satz 2 genannten Verwaltungsarten hin. Der Berechtigte bestimmt die
+(2) Die bescheidende Stelle weist den Berechtigten auf die in Absatz
+1 Satz 2 genannten Verwaltungsarten hin. Der Berechtigte bestimmt die
 Art der Verwaltung, indem er entweder
 
 1.  das Kreditinstitut und die Nummer eines Depots oder
 
-
 2.  die Nummer seines bereits bestehenden Einzelschuldbuchkontos im
     Bundesschuldbuch
-
-
 
 der bescheidenden Stelle mitteilt oder dieser erklärt, daß er die
 Neueröffnung eines Einzelschuldbuchkontos im Bundesschuldbuch wünscht.
@@ -122,25 +116,25 @@ Neueröffnung eines Einzelschuldbuchkontos im Bundesschuldbuch wünscht.
 deren sachliche und rechnerische Richtigkeit und leitet sie mit den
 Angaben zur gewählten Verwaltungsart an das Bundesamt für zentrale
 Dienste und offene Vermögensfragen (nachfolgend Bundesamt genannt)
-weiter. Diese Daten werden im beleglosen Verfahren übermittelt, sobald
-über Form und Inhalt des Datensatzes sowie über die Form der
-Feststellungen der sachlichen und rechnerischen Richtigkeit und der
-Unterschrift des Anordnungsbefugten eine Vereinbarung mit Zustimmung
-des Bundesministeriums der Finanzen und des Bundesrechnungshofes
-getroffen ist. Der Datensatz hat nach Inhalt und Form einem
-maschinenlesbaren Formblatt (Anlage) zu entsprechen und den
-Bestimmungen über den Einsatz von automatisierten Verfahren im
-Haushalts-, Kassen- und Rechnungswesen (Anlage zur Vorläufigen
+weiter. Diese Daten werden im beleglosen Verfahren übermittelt,
+sobald über Form und Inhalt des Datensatzes sowie über die Form
+der Feststellungen der sachlichen und rechnerischen Richtigkeit
+und der Unterschrift des Anordnungsbefugten eine Vereinbarung
+mit Zustimmung des Bundesministeriums der Finanzen und des
+Bundesrechnungshofes getroffen ist. Der Datensatz hat nach Inhalt
+und Form einem maschinenlesbaren Formblatt (Anlage) zu entsprechen
+und den Bestimmungen über den Einsatz von automatisierten Verfahren
+im Haushalts-, Kassen- und Rechnungswesen (Anlage zur Vorläufigen
 Verwaltungsvorschrift Nr. 2.6 zu § 34 BHO) zu genügen. Bis zur
 Installierung des beleglosen Verfahrens erfolgt die Datenübermittlung
 durch Übersendung des maschinenlesbaren Formblattes. Das Verfahren
 sowie der Inhalt des Formblattes können nur im Einvernehmen mit den
 neuen Bundesländern und Berlin geändert werden.
 
-(4) Das Bundesamt sendet denjenigen Berechtigten, die die Neueröffnung
-eines Einzelschuldbuchkontos im Bundesschuldbuch wünschen, einen
-Kontoeröffnungsantrag zu. Die Berechtigten leiten die
-Kontoeröffnungsanträge ausgefüllt und mit ihrer bestätigten
+(4) Das Bundesamt sendet denjenigen Berechtigten, die die
+Neueröffnung eines Einzelschuldbuchkontos im Bundesschuldbuch
+wünschen, einen Kontoeröffnungsantrag zu. Die Berechtigten leiten
+die Kontoeröffnungsanträge ausgefüllt und mit ihrer bestätigten
 Unterschrift versehen der das Bundesschuldbuch führenden Stelle zu.
 Sie können ihre Unterschrift auf dem Kontoeröffnungsantrag von jeder
 dienstsiegelführenden Stelle beglaubigen lassen.
@@ -164,22 +158,22 @@ Die Schuldverschreibungen sind handelbare Wertrechte.
 ### § 5 Verwaltung der Einzelschuldbuchkonten
 
 (1) Die das Bundesschuldbuch führende Stelle führt
-Einzelschuldbuchkonten für natürliche Personen (ein oder höchstens
-zwei Kontoinhaber), für juristische Personen und für
+Einzelschuldbuchkonten für natürliche Personen (ein oder
+höchstens zwei Kontoinhaber), für juristische Personen und für
 Handelsgesellschaften.
 
 (2) Die das Bundesschuldbuch führende Stelle benachrichtigt den
 Berechtigten (Kontoinhaber) und das Bundesamt über die Kontoeröffnung
 unter Angabe der Kontonummer.
 
-(3) Die Eintragung und Verwaltung der Einzelschuldbuchforderung sowie
-die Überweisung von Zins und Tilgung sind gebührenfrei. Der
+(3) Die Eintragung und Verwaltung der Einzelschuldbuchforderung
+sowie die Überweisung von Zins und Tilgung sind gebührenfrei. Der
 Berechtigte erhält jährlich einen Kontoauszug.
 
 (4) Die Einzelschuldbuchforderungen können verkauft werden, sobald die
 Schuldverschreibungen in den Handel an den deutschen Wertpapierbörsen
-eingeführt worden sind. Der Inhaber richtet seinen Verkaufsauftrag an
-die das Bundesschuldbuch führende Stelle. Diese läßt den
+eingeführt worden sind. Der Inhaber richtet seinen Verkaufsauftrag
+an die das Bundesschuldbuch führende Stelle. Diese läßt den
 Verkaufsauftrag durch die Deutsche Bundesbank nach deren Allgemeinen
 Geschäftsbedingungen einschließlich Gebührentabelle ausführen.
 

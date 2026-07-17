@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über das Befahren der Bundeswasserstraßen in Nationalparken und
-  Naturschutzgebieten im Bereich der Küste von Mecklenburg-Vorpommern
+Title: Verordnung über das Befahren der Bundeswasserstraßen in Nationalparken und Naturschutzgebieten im Bereich der Küste von Mecklenburg-Vorpommern
 jurabk: NPBefVMVK
 layout: default
 origslug: npbefvmvk
@@ -20,7 +19,6 @@ Geändert durch
 :   Art. 30 V v. 2.6.2016 I 1257
 
 
-
 ## Eingangsformel
 
 Auf Grund des § 5 Satz 3 des Bundeswasserstraßengesetzes in der
@@ -38,57 +36,53 @@ in dem
 
 1.  Nationalpark "Vorpommersche Boddenlandschaft" gemäß der Verordnung
     über die Festsetzung des Nationalparks Vorpommersche Boddenlandschaft
-    vom 12. September 1990 (GBl. Sonderdruck Nr. 1466), die nach Artikel 3
-    Kapitel XII Nr. 30 Buchstabe a der Vereinbarung zum Einigungsvertrag
+    vom 12. September 1990 (GBl. Sonderdruck Nr. 1466), die nach Artikel
+    3 Kapitel XII Nr. 30 Buchstabe a der Vereinbarung zum Einigungsvertrag
     vom 18. September 1990 in Verbindung mit Artikel 1 des Gesetzes vom
     23\. September 1990 (BGBl. 1990 II S. 885, 1239) mit den dort genannten
     Maßgaben fortgilt,
 
-
-2.  Nationalpark "Jasmund" gemäß der Verordnung über die Festsetzung des
-    Nationalparks Jasmund vom 12. September 1990 (GBl. Sonderdruck Nr.
-    1467), die nach Artikel 3 Kapitel XII Nr. 30 Buchstabe b der
+2.  Nationalpark "Jasmund" gemäß der Verordnung über die Festsetzung
+    des Nationalparks Jasmund vom 12. September 1990 (GBl. Sonderdruck
+    Nr. 1467), die nach Artikel 3 Kapitel XII Nr. 30 Buchstabe b der
     Vereinbarung zum Einigungsvertrag vom 18. September 1990 in Verbindung
     mit Artikel 1 des Gesetzes vom 23. September 1990 (BGBl. 1990 II S.
     885, 1239) mit den dort genannten Maßgaben fortgilt,
 
-
-3.  Biosphärenreservat "Südost-Rügen", Schutzzonen I und II, gemäß der
-    Verordnung über die Festsetzung von Naturschutzgebieten und einem
-    Landschaftsschutzgebiet von zentraler Bedeutung mit der
+3.  Biosphärenreservat "Südost-Rügen", Schutzzonen I und II, gemäß
+    der Verordnung über die Festsetzung von Naturschutzgebieten und
+    einem Landschaftsschutzgebiet von zentraler Bedeutung mit der
     Gesamtbezeichnung "Biosphärenreservat Südost-Rügen" vom 12. September
     1990 (GBl. Sonderdruck Nr. 1471), die nach Artikel 3 Kapitel XII Nr.
     30 Buchstabe f der Vereinbarung zum Einigungsvertrag vom 18. September
     1990 in Verbindung mit Artikel 1 des Gesetzes vom 23. September 1990
     (BGBl. 1990 II S. 885, 1239) mit den dort genannten Maßgaben fortgilt,
 
-
-
 nach dieser Verordnung geregelt.
 
-(2) Die Grenzen der Nationalparke nach Absatz 1 Nr. 1 und 2 und des
-Biosphärenreservats "Südost-Rügen" nach Absatz 1 Nr. 3 auf den
+(2) Die Grenzen der Nationalparke nach Absatz 1 Nr. 1 und 2 und
+des Biosphärenreservats "Südost-Rügen" nach Absatz 1 Nr. 3 auf den
 Bundeswasserstraßen mit den Schutzzonen I und II, die durch diese
 Gebiete führenden Fahrwasser im Sinne des § 2 Abs. 1 Nr. 1 der
 Seeschiffahrtsstraßen-Ordnung in der Fassung der Bekanntmachung vom
 15\. April 1987 (BGBl. I S. 1266), die zuletzt durch Artikel 3 der
 Verordnung vom 7. Dezember 1994 (BGBl. I S. 3744) geändert worden ist,
-in der jeweils geltenden Fassung, die sonst von der Wasserstraßen- und
-Schifffahrtsverwaltung des Bundes für die durchgehende Schiffahrt aus
-Gründen der Sicherheit und Leichtigkeit des Verkehrs festgelegten und
-bekanntgemachten Wasserflächen oder die direkten, nicht durch
-Sichtzeichen begrenzten oder gekennzeichneten Zufahrtswege zu oder von
-den Häfen oder, soweit darstellbar, den genehmigten Anlegestellen oder
-genehmigten Liegeplätzen sowie die in dieser Verordnung genannten
+in der jeweils geltenden Fassung, die sonst von der Wasserstraßen-
+und Schifffahrtsverwaltung des Bundes für die durchgehende Schiffahrt
+aus Gründen der Sicherheit und Leichtigkeit des Verkehrs festgelegten
+und bekanntgemachten Wasserflächen oder die direkten, nicht durch
+Sichtzeichen begrenzten oder gekennzeichneten Zufahrtswege zu oder
+von den Häfen oder, soweit darstellbar, den genehmigten Anlegestellen
+oder genehmigten Liegeplätzen sowie die in dieser Verordnung genannten
 besonderen Schutzgebiete der Boddengewässer (§ 4) sind aus den
 amtlichen Seekarten des Bundesamtes für Seeschiffahrt und Hydrographie
 in ihrer jeweils gültigen Fassung ersichtlich. Die amtlichen Seekarten
 können bei den Wasserstraßen- und Schifffahrtsämtern des Bundes für
 den Küstenbereich von Mecklenburg-Vorpommern während der Dienstzeiten
 eingesehen und von den Vertriebs- und Auslieferungsstellen des
-Bundesamtes für Seeschiffahrt und Hydrographie, Bernhard-Nocht-Straße
-78, 20359 Hamburg, bezogen werden. Kartenausschnitte über die
-Nationalparke und das Biosphärenreservat "Südost-Rügen" mit den
+Bundesamtes für Seeschiffahrt und Hydrographie, Bernhard-Nocht-
+Straße 78, 20359 Hamburg, bezogen werden. Kartenausschnitte über
+die Nationalparke und das Biosphärenreservat "Südost-Rügen" mit den
 Schutzzonen I und II und den darin liegenden besonderen Schutzgebieten
 (§ 4) sind aus der Anlage I zu ersehen.
 
@@ -96,42 +90,42 @@ Schutzzonen I und II und den darin liegenden besonderen Schutzgebieten
 ## § 2
 
 (1) Das Befahren der Bundeswasserstraßen in den Nationalparken und den
-Schutzzonen I und II des Biosphärenreservats "Südost-Rügen" mit den in
-§ 1 Abs. 1 genannten Fahrzeugen oder Wassersportgeräten ist unter
+Schutzzonen I und II des Biosphärenreservats "Südost-Rügen" mit den
+in § 1 Abs. 1 genannten Fahrzeugen oder Wassersportgeräten ist unter
 Beachtung der für die Verkehrsteilnehmer in Absatz 2 festgelegten
 Verhaltensgrundsätze gestattet, soweit dies in den §§ 3 bis 6 nicht
 untersagt oder soweit bei Untersagung eine Befreiung nach § 7 gewährt
 worden ist.
 
-(2) Die Verkehrsteilnehmer haben sich auf den Bundeswasserstraßen in
-den Nationalparken und den Schutzzonen I und II des
-Biosphärenreservats "Südost-Rügen" so zu verhalten, daß die Tier- und
-Pflanzenwelt nicht geschädigt, gefährdet oder mehr, als nach den
+(2) Die Verkehrsteilnehmer haben sich auf den Bundeswasserstraßen
+in den Nationalparken und den Schutzzonen I und II des
+Biosphärenreservats "Südost-Rügen" so zu verhalten, daß die Tier-
+und Pflanzenwelt nicht geschädigt, gefährdet oder mehr, als nach den
 Umständen unvermeidbar, gestört wird.
 
 
 ## § 3
 
-(1) Es ist untersagt, die Bundeswasserstraßen in den Schutzzonen I und
-II der Nationalparke oder des Biosphärenreservats "Südost-Rügen" mit
-Luftkissenfahrzeugen oder Wassermotorrädern im Sinne des § 2 Abs. 1
-Nr. 21 der Seeschiffahrtsstraßen-Ordnung zu befahren oder auf ihnen
+(1) Es ist untersagt, die Bundeswasserstraßen in den Schutzzonen I
+und II der Nationalparke oder des Biosphärenreservats "Südost-Rügen"
+mit Luftkissenfahrzeugen oder Wassermotorrädern im Sinne des § 2 Abs.
+1 Nr. 21 der Seeschiffahrtsstraßen-Ordnung zu befahren oder auf ihnen
 Wasserskisport oder Parasailing zu betreiben. Die Generaldirektion
 Wasserstraßen und Schifffahrt kann auf Antrag des Landes Mecklenburg-
 Vorpommern den Betrieb von weiteren Wassersportgeräten verbieten,
 soweit dies zur Erreichung des Schutzzweckes dieser Verordnung
-notwendig ist. Der Betrieb von ferngesteuerten Schiffsmodellen ist in
-den Schutzzonen I sowie in den in § 4 besonders ausgewiesenen
+notwendig ist. Der Betrieb von ferngesteuerten Schiffsmodellen ist
+in den Schutzzonen I sowie in den in § 4 besonders ausgewiesenen
 Schutzgebieten der Schutzzonen II nicht gestattet.
 
-(2) Es ist untersagt, die Bundeswasserstraßen in den Schutzzonen I mit
-Segelsurfbrettern zu befahren. Es ist ferner untersagt, die
+(2) Es ist untersagt, die Bundeswasserstraßen in den Schutzzonen
+I mit Segelsurfbrettern zu befahren. Es ist ferner untersagt, die
 Bundeswasserstraßen in den Schutzzonen II innerhalb eines Abstandes
-von 200 m zu den wasserseitigen Schilfkanten im Uferbereich sowie in
-den in § 4 besonders ausgewiesenen Schutzgebieten mit
-Segelsurfbrettern zu befahren. Die direkten Zugangswege für Surfer auf
-den Bundeswasserstraßen zu oder von den von den zuständigen Stellen
-des Landes Mecklenburg-Vorpommern genehmigten Start- und
+von 200 m zu den wasserseitigen Schilfkanten im Uferbereich
+sowie in den in § 4 besonders ausgewiesenen Schutzgebieten mit
+Segelsurfbrettern zu befahren. Die direkten Zugangswege für Surfer
+auf den Bundeswasserstraßen zu oder von den von den zuständigen
+Stellen des Landes Mecklenburg-Vorpommern genehmigten Start- und
 Anlandeplätzen am Ufer sind von dem Befahrensverbot nach Satz 2
 ausgenommen. § 31 Abs. 3 und 4 der Seeschiffahrtsstraßen-Ordnung gilt
 entsprechend.
@@ -140,29 +134,29 @@ entsprechend.
 Maschinenkraft angetrieben werden, dürfen auf den Bundeswasserstraßen
 in den Schutzzonen I und II der Nationalparke oder des
 Biosphärenreservats "Südost-Rügen" auf den durch Sichtzeichen
-begrenzten oder gekennzeichneten Fahrwassern im Sinne des § 2 Abs. 1
-Nr. 1 der Seeschiffahrtsstraßen-Ordnung eine Geschwindigkeit von 12
-kn\*) durch das Wasser und außerhalb dieser Fahrwasser eine
-Geschwindigkeit von 8 kn durch das Wasser nicht überschreiten, soweit
-in dieser Verordnung nicht anderes bestimmt ist. Mit diesen Fahrzeugen
-darf auf den Bundeswasserstraßen in dem Nationalpark "Vorpommersche
-Boddenlandschaft" nördlich der Tonnen 5 und 6 des Hiddensee
-Fahrwassers und nördlich der Tonnen 10 und 11 des Stralsunder
-Nordfahrwassers eine Geschwindigkeit von 16 kn nicht überschritten
-werden. Die Zulässigkeit der Festlegung von
+begrenzten oder gekennzeichneten Fahrwassern im Sinne des § 2 Abs.
+1 Nr. 1 der Seeschiffahrtsstraßen-Ordnung eine Geschwindigkeit
+von 12 kn*) durch das Wasser und außerhalb dieser Fahrwasser eine
+Geschwindigkeit von 8 kn durch das Wasser nicht überschreiten,
+soweit in dieser Verordnung nicht anderes bestimmt ist. Mit diesen
+Fahrzeugen darf auf den Bundeswasserstraßen in dem Nationalpark
+"Vorpommersche Boddenlandschaft" nördlich der Tonnen 5 und 6
+des Hiddensee Fahrwassers und nördlich der Tonnen 10 und 11
+des Stralsunder Nordfahrwassers eine Geschwindigkeit von 16 kn
+nicht überschritten werden. Die Zulässigkeit der Festlegung von
 Geschwindigkeitsbegrenzungen nach der Seeschiffahrtsstraßen-Ordnung
 bleibt unberührt.
 
 (4) Für Fahrzeuge, die vor Erlaß dieser Verordnung mit Genehmigung des
 Landes Mecklenburg-Vorpommern im Fährverkehr auf den Boddengewässern
-des Nationalparks "Vorpommersche Boddenlandschaft" eingesetzt worden
-sind, gelten bei der Durchführung dieses Fährverkehrs die
+des Nationalparks "Vorpommersche Boddenlandschaft" eingesetzt
+worden sind, gelten bei der Durchführung dieses Fährverkehrs die
 Geschwindigkeitsregelungen nach Absatz 3 für das Befahren der
 genannten Boddengewässer nicht. Dies gilt auch für Ersatzfahrzeuge.
 Eine Geschwindigkeit von 23 kn durch das Wasser darf mit diesen
 Fahrzeugen nicht überschritten werden.
 ----------
-\*) kn = Knoten, 1 Knoten = 1,852 km/h.
+*) kn = Knoten, 1 Knoten = 1,852 km/h.
 
 
 ## § 4 Nationalpark "Vorpommersche Boddenlandschaft"
@@ -182,10 +176,10 @@ mit Fahrzeugen im Sinne des § 1 Abs. 1 zu befahren, die durch
 Maschinenkraft angetrieben werden.
 
 (2) Führer von Fahrzeugen im Sinne des § 1 Abs. 1, die nicht durch
-Maschinenkraft angetrieben werden, dürfen die Bundeswasserstraßen in
-den Schutzzonen I und II auf den in den Kartenausschnitten der Anlage
-I Kartenblatt 1 bis 4 rot gekennzeichneten und in der Anlage II näher
-bezeichneten Wasserflächen des Nationalparks "Vorpommersche
+Maschinenkraft angetrieben werden, dürfen die Bundeswasserstraßen
+in den Schutzzonen I und II auf den in den Kartenausschnitten der
+Anlage I Kartenblatt 1 bis 4 rot gekennzeichneten und in der Anlage
+II näher bezeichneten Wasserflächen des Nationalparks "Vorpommersche
 Boddenlandschaft" außerhalb der in Absatz 1 genannten Fahrwasser,
 sonstigen Wasserflächen oder Zufahrtswege nicht befahren.
 
@@ -205,22 +199,22 @@ innerhalb der Schutzzone I zu befahren.
 
 ## § 6 Biosphärenreservat "Südost-Rügen"
 
-Es ist untersagt, die Bundeswasserstraßen in den Schutzzonen I und II
-des Biosphärenreservats "Südost-Rügen" außerhalb der Fahrwasser im
-Sinne des § 2 Abs. 1 Nr. 1 der Seeschiffahrtsstraßen-Ordnung oder der
-sonst von der Wasserstraßen- und Schifffahrtsverwaltung des Bundes für
-die durchgehende Schiffahrt aus Gründen der Sicherheit und
-Leichtigkeit des Verkehrs festgelegten und bekanntgemachten
+Es ist untersagt, die Bundeswasserstraßen in den Schutzzonen I und
+II des Biosphärenreservats "Südost-Rügen" außerhalb der Fahrwasser
+im Sinne des § 2 Abs. 1 Nr. 1 der Seeschiffahrtsstraßen-Ordnung
+oder der sonst von der Wasserstraßen- und Schifffahrtsverwaltung des
+Bundes für die durchgehende Schiffahrt aus Gründen der Sicherheit
+und Leichtigkeit des Verkehrs festgelegten und bekanntgemachten
 Wasserflächen oder der direkten, nicht durch Sichtzeichen begrenzten
 oder gekennzeichneten Zufahrtswege zu oder von den Häfen oder
 genehmigten Anlegestellen oder genehmigten Liegeplätzen zu befahren.
 Führer von Fahrzeugen im Sinne des § 1 Abs. 1, die nicht durch
-Maschinenkraft angetrieben werden, dürfen jedoch außerhalb der in Satz
-1 genannten Fahrwasser, Wasserflächen oder Zufahrtswege die
-Bundeswasserstraßen der Having, der Kaming und des Zickersees
+Maschinenkraft angetrieben werden, dürfen jedoch außerhalb der
+in Satz 1 genannten Fahrwasser, Wasserflächen oder Zufahrtswege
+die Bundeswasserstraßen der Having, der Kaming und des Zickersees
 befahren, wenn sie einen Mindestabstand von 100 m zum Ufer einhalten.
-Abweichend von den Sätzen 1 und 2 dürfen Führer von Sportfahrzeugen in
-Höhe der Einfahrt zum Zickersee vom betonnten Fahrwasser aus in
+Abweichend von den Sätzen 1 und 2 dürfen Führer von Sportfahrzeugen
+in Höhe der Einfahrt zum Zickersee vom betonnten Fahrwasser aus in
 nördlicher oder südlicher Richtung die jeweilige Wasserfläche auf
 einer Länge bis zu 200 m entlang des Westufers unter Einhaltung eines
 Mindestabstands von 100 m zum Ufer befahren.
@@ -234,15 +228,10 @@ Befreiungen von den §§ 3 bis 6 gewähren, wenn
 1.  die Einhaltung der Verbote zu einer nicht beabsichtigten Härte führen
     würde,
 
-
 2.  überwiegende Gründe des Wohls der Allgemeinheit die Befreiung
     erfordern oder
 
-
 3.  sie vom Land Mecklenburg-Vorpommern beantragt werden.
-
-
-
 
 (2) Eine Befreiung nach Absatz 1 Nr. 1 darf nur gewährt werden, wenn
 dies mit dem Schutzzweck der Verordnung vereinbar ist. Vor einer
@@ -259,30 +248,22 @@ geben.
     Durchführung notwendiger Dienstfahrten sowie Wasserfahrzeuge, die im
     dienstlichen Auftrag des Bundes oder des Landes fahren,
 
-
 2.  Wasserfahrzeuge zur Überwachung und Reparatur von Rohrleitungen und
     Kabeln nach rechtzeitiger Anmeldung bei der örtlich zuständigen Strom-
     und Schiffahrtspolizeibehörde,
 
-
 3.  Rettungsfahrzeuge im Einsatz,
-
 
 4.  Wasserfahrzeuge, die im Auftrag des Bundes oder des Landes
     Mecklenburg-Vorpommern Forschungsfahrten in den Nationalparken oder
     den Schutzzonen I und II des Biosphärenreservats "Südost-Rügen"
     durchführen,
 
-
 5.  Wasserfahrzeuge bei der rechtmäßigen Ausübung der gewerbsmäßigen
     Fischerei sowie
 
-
 6.  Fahrzeuge im Sinne des § 1 Abs. 1, die sich in Not oder sonst
     unmittelbar drohender Gefahr befinden oder Nothilfe leisten.
-
-
-
 
 (2) § 3 Abs. 3 gilt nicht für Wasserfahrzeuge nach Absatz 1 Nr. 1, 3
 und 6.
@@ -297,39 +278,30 @@ Bundeswasserstraßengesetzes handelt, wer vorsätzlich oder fahrlässig
     Luftkissenfahrzeug oder einem Wassermotorrad befährt oder auf ihr
     Wasserskisport oder Parasailing betreibt,
 
-
 2.  einer vollziehbaren Anordnung nach § 3 Abs. 1 Satz 2 zuwiderhandelt,
 
-
 3.  entgegen § 3 Abs. 1 Satz 3 ein ferngesteuertes Schiffsmodell betreibt,
-
 
 4.  entgegen § 3 Abs. 2 Satz 1 oder 2 eine dort bezeichnete
     Bundeswasserstraße mit Segelsurfbrettern befährt,
 
-
 5.  entgegen § 3 Abs. 3 Satz 1 oder 2 oder Abs. 4 Satz 3 die zulässige
     Höchstgeschwindigkeit überschreitet,
 
-
 6.  entgegen § 4, § 5 oder § 6 Satz 1 eine dort bezeichnete
     Bundeswasserstraße befährt oder
-
 
 7.  einer mit einer Befreiung nach § 7 Abs. 1 verbundenen vollziehbaren
     Auflage zuwiderhandelt.
 
 
-
-
-
 ## § 10
 
 Diese Verordnung tritt am 10. Juli 1997 in Kraft. Gleichzeitig treten
-für den Bereich der Bundeswasserstraßen § 6 Abs. 1 Nr. 18, Abs. 2, § 7
-Abs. 1 Nr. 3, § 8 der in § 1 Abs. 1 Nr. 1 genannten Verordnung, § 6
-Abs. 1 Nr. 14, § 8 der in § 1 Abs. 1 Nr. 2 genannten Verordnung und §
-6 Abs. 4 Nr. 12, § 8 der in § 1 Abs. 1 Nr. 3 genannten Verordnung
+für den Bereich der Bundeswasserstraßen § 6 Abs. 1 Nr. 18, Abs. 2, §
+7 Abs. 1 Nr. 3, § 8 der in § 1 Abs. 1 Nr. 1 genannten Verordnung, §
+6 Abs. 1 Nr. 14, § 8 der in § 1 Abs. 1 Nr. 2 genannten Verordnung und
+§ 6 Abs. 4 Nr. 12, § 8 der in § 1 Abs. 1 Nr. 3 genannten Verordnung
 außer Kraft.
 
 
@@ -338,110 +310,51 @@ außer Kraft.
 (Inhalt: Nicht darstellbare topographische Karten,
 Fundstelle: BGBl. I 1997, S. 1545 - 1551)
 
-*    *   ... Kartenblatt 1
+| ... Kartenblatt 1 |  |
+| --- | --- |
+|  | Nationalpark Vorpommersche Boddenlandschaft |
+|  | 1:115.000 |
+| ... Kartenblatt 2 |  |
+|  | Nationalpark Vorpommersche Boddenlandschaft |
+|  | 1:115.000 |
+| ... Kartenblatt 3 |  |
+|  | Nationalpark Vorpommersche Boddenlandschaft |
+|  | 1:85.000 |
+| ... Kartenblatt 4 |  |
+|  | Nationalpark Vorpommersche Boddenlandschaft |
+|  | 1:85.000 |
+| ... Kartenblatt 5 |  |
+|  | Nationalpark Jasmund |
+|  | 1:50.000 |
+| ... Kartenblatt 6 |  |
+|  | Biosphärenreservat Südost-Rügen |
+|  | 1:80.000 |
+| ... Kartenblatt 7 |  |
+|  | Biosphärenreservat Südost-Rügen |
+|  | 1:80.000 |
 
 
-*    *
-    *   Nationalpark Vorpommersche Boddenlandschaft
-
-
-*    *
-    *   1:115.000
-
-
-*    *   ... Kartenblatt 2
-
-
-*    *
-    *   Nationalpark Vorpommersche Boddenlandschaft
-
-
-*    *
-    *   1:115.000
-
-
-*    *   ... Kartenblatt 3
-
-
-*    *
-    *   Nationalpark Vorpommersche Boddenlandschaft
-
-
-*    *
-    *   1:85.000
-
-
-*    *   ... Kartenblatt 4
-
-
-*    *
-    *   Nationalpark Vorpommersche Boddenlandschaft
-
-
-*    *
-    *   1:85.000
-
-
-*    *   ... Kartenblatt 5
-
-
-*    *
-    *   Nationalpark Jasmund
-
-
-*    *
-    *   1:50.000
-
-
-*    *   ... Kartenblatt 6
-
-
-*    *
-    *   Biosphärenreservat Südost-Rügen
-
-
-*    *
-    *   1:80.000
-
-
-*    *   ... Kartenblatt 7
-
-
-*    *
-    *   Biosphärenreservat Südost-Rügen
-
-
-*    *
-    *   1:80.000
-
-
-
-
-(zu § 4 Abs. 1 und 2)
-
-## Anlage II Befahrensverbote außerhalb der Fahrwasser im Nationalpark Vorpommersche Boddenlandschaft
+## Anlage II (zu § 4 Abs. 1 und 2) Befahrensverbote außerhalb der Fahrwasser im Nationalpark Vorpommersche Boddenlandschaft
 
 Fundstelle des Originaltextes: BGBl. I 1997, S. 1552 - 1555
 
+1.*) **Neuendorfer Bülten**
 
-**1.\*)** **Neuendorfer Bülten**
+     Befahrensverbot für alle Fahrzeuge
 
-    Befahrensverbot für alle Fahrzeuge
+     Begrenzung:
 
-    Begrenzung:
+     Im Norden durch die Verbindungslinie der Nordspitze der östlichen
+     Bülteninsel und dem Anleger Michaelsdorf,
 
-    Im Norden durch die Verbindungslinie der Nordspitze der östlichen
-    Bülteninsel und dem Anleger Michaelsdorf,
+     im Osten durch die Uferlinie bis zum Breitengrad 54° 20,9' N,
 
-    im Osten durch die Uferlinie bis zum Breitengrad 54° 20,9' N,
+     im Süden durch den Breitenparallel 54° 20,9' N bis zum Fahrwasser,
 
-    im Süden durch den Breitenparallel 54° 20,9' N bis zum Fahrwasser,
+     im Westen durch das Fahrwasser und die östliche Uferlinie der
+     östlichen Bülteninseln.
 
-    im Westen durch das Fahrwasser und die östliche Uferlinie der
-    östlichen Bülteninseln.
-
-
-**2.** **Koppelstrom (Staben bis Roland)**
+2.  **Koppelstrom (Staben bis Roland)**
 
     Befahrensverbot für durch Maschinenkraft angetriebene Fahrzeuge
 
@@ -449,12 +362,11 @@ Fundstelle des Originaltextes: BGBl. I 1997, S. 1552 - 1555
 
     Entlang der Uferlinie von Eichort nordwärts über Staben, Rhedeort,
     Roland bis zur Verbindungslinie der westlichen Spitze der Insel
-    Jägerbülten und der vorspringenden Kante an der westlichen Seite der
-    Halbinsel Planort (54° 22,3' N; 012° 34,4' E) innerhalb eines
+    Jägerbülten und der vorspringenden Kante an der westlichen Seite
+    der Halbinsel Planort (54° 22,3' N; 012° 34,4' E) innerhalb eines
     Abstandes von weniger als 200 m von der Schilfkante.
 
-
-**3.** **Nadelstrom - Jägerbülten**
+3.  **Nadelstrom - Jägerbülten**
 
     Befahrensverbot für alle Fahrzeuge
 
@@ -462,8 +374,8 @@ Fundstelle des Originaltextes: BGBl. I 1997, S. 1552 - 1555
 
     Im Norden durch das Südufer der Insel Jägerbülten,
 
-    im Osten durch die Verbindungslinie zwischen der Nordspitze der Insel
-    und dem vorspringenden Haken nordöstlich des Redensees bis zur
+    im Osten durch die Verbindungslinie zwischen der Nordspitze der
+    Insel und dem vorspringenden Haken nordöstlich des Redensees bis zur
     Nationalparkgrenze,
 
     im Süden durch die Nationalparkgrenze und die Uferlinie der Halbinsel
@@ -473,8 +385,7 @@ Fundstelle des Originaltextes: BGBl. I 1997, S. 1552 - 1555
     an der westlichen Seite der Halbinsel Planort (54° 22,3' N; 12° 34,4'
     E) und der westlichen Spitze der Insel Jägerbülten.
 
-
-**4.** **Bodstedter Bodden (Westteil)**
+4.  **Bodstedter Bodden (Westteil)**
 
     Befahrensverbot für durch Maschinenkraft angetriebene Fahrzeuge
 
@@ -483,8 +394,7 @@ Fundstelle des Originaltextes: BGBl. I 1997, S. 1552 - 1555
     Entlang der Uferlinie von Bliesenrade bis Wieck innerhalb eines
     Abstandes von weniger als 200 m von der Schilfkante.
 
-
-**5.** **Bodstedter Bodden (Nordteil)**
+5.  **Bodstedter Bodden (Nordteil)**
 
     Befahrensverbot für alle Fahrzeuge
 
@@ -501,8 +411,7 @@ Fundstelle des Originaltextes: BGBl. I 1997, S. 1552 - 1555
     folgend bis Höhe Fastbültenhaken und von dort auf dem Breitengrad (54°
     24,42' N) bis zur Südspitze Fastbültenhaken.
 
-
-**6.** **Große Kirr**
+6.  **Große Kirr**
 
     Befahrensverbot für alle Fahrzeuge
 
@@ -519,11 +428,10 @@ Fundstelle des Originaltextes: BGBl. I 1997, S. 1552 - 1555
     bis zum Längengrad 012° 40,50' E,
 
     im Westen die Verbindungslinie von dem Längengrad 012° 40,50' E bis
-    zur westlichen Seite von Große Kirr in einem Abstand von 20 m von der
-    Uferlinie.
+    zur westlichen Seite von Große Kirr in einem Abstand von 20 m von
+    der Uferlinie.
 
-
-**7.** **Barther Bodden und Grabow (Nordteil)**
+7.  **Barther Bodden und Grabow (Nordteil)**
 
     Befahrensverbot für alle Fahrzeuge
 
@@ -539,12 +447,11 @@ Fundstelle des Originaltextes: BGBl. I 1997, S. 1552 - 1555
     Landzunge von der Schutzzone I bis zur 2-m-Tiefenlinie, dieser folgend
     um den Kavelnhaken bis zur westlichen Grenze des Nationalparks,
 
-    im Westen durch die Nationalparkgrenze bis zur 2-m-Tiefenlinie, dieser
-    folgend bis zur Verbindungslinie zwischen der nördlich des
+    im Westen durch die Nationalparkgrenze bis zur 2-m-Tiefenlinie,
+    dieser folgend bis zur Verbindungslinie zwischen der nördlich des
     Kavelnhakens befindlichen Landzunge und dem Salzhaken.
 
-
-**8.** **Grabow bis Barhöft**
+8.  **Grabow bis Barhöft**
 
     Befahrensverbot für alle Fahrzeuge
 
@@ -554,8 +461,7 @@ Fundstelle des Originaltextes: BGBl. I 1997, S. 1552 - 1555
     Zingst, Großer Werder, Kleiner Werder und Bock nördlich des
     Fahrwassers Barth bis zur Bock-Reede.
 
-
-**9.** **Barhöfter Rinne am Bock und Gellenstrom**
+9.  **Barhöfter Rinne am Bock und Gellenstrom**
 
     Befahrensverbot für alle Fahrzeuge
 
@@ -570,23 +476,15 @@ Fundstelle des Originaltextes: BGBl. I 1997, S. 1552 - 1555
 
     -   die Bock-Reede,
 
-
     -   die Wasserfläche beiderseits des betonnten Fahrwassers Nordansteuerung
         Stralsund in eine Breite von jeweils 50 m;
-
-
-
 
     für Fahrzeuge, die nicht durch Maschinenkraft angetrieben werden,
 
     -   die Wasserfläche nördlich des Breitengrades 54° 28,3' N und westlich
         des Fahrwassers Nordansteuerung Stralsund.
 
-
-
-
-
-**10.** **Geller Haken, Vierendehlgrund**
+10. **Geller Haken, Vierendehlgrund**
 
     Befahrensverbot für alle Fahrzeuge
 
@@ -602,11 +500,7 @@ Fundstelle des Originaltextes: BGBl. I 1997, S. 1552 - 1555
     -   die Wasserfläche beiderseits des betonnten Fahrwassers Nordansteuerung
         Stralsund in einer Breite von jeweils 50 m.
 
-
-
-
-
-**11.** **Prohner Wiek (Westteil)**
+11. **Prohner Wiek (Westteil)**
 
     Befahrensverbot für durch Maschinenkraft angetriebene Fahrzeuge
 
@@ -615,8 +509,7 @@ Fundstelle des Originaltextes: BGBl. I 1997, S. 1552 - 1555
     Entlang der Uferlinie von Barhöft bis zur Nationalparkgrenze bei Parow
     innerhalb eines Abstandes von weniger als 200 m von der Schilfkante.
 
-
-**12.** **Kubitzer Bodden (Südteil)**
+12. **Kubitzer Bodden (Südteil)**
 
     Befahrensverbot für durch Maschinenkraft angetriebene Fahrzeuge
 
@@ -626,8 +519,7 @@ Fundstelle des Originaltextes: BGBl. I 1997, S. 1552 - 1555
     Naturschutzgebiet Liebitz innerhalb eines Abstandes von weniger als
     500 m von der Schilfkante.
 
-
-**13.** **Insel Liebitz**
+13. **Insel Liebitz**
 
     Befahrensverbot für alle Fahrzeuge
 
@@ -635,8 +527,7 @@ Fundstelle des Originaltextes: BGBl. I 1997, S. 1552 - 1555
 
     Die gesamte Wasserfläche des ehemaligen Naturschutzgebietes Liebitz.
 
-
-**14.** **Kubitzer Bodden (Nordteil)**
+14. **Kubitzer Bodden (Nordteil)**
 
     Befahrensverbot für durch Maschinenkraft angetriebene Fahrzeuge
 
@@ -646,8 +537,7 @@ Fundstelle des Originaltextes: BGBl. I 1997, S. 1552 - 1555
     Halbinsel Lieschow innerhalb eines Abstandes von weniger als 500 m und
     von dort spitz auf den Pahler Haken zulaufend.
 
-
-**15.** **Heuwiese**
+15. **Heuwiese**
 
     Befahrensverbot für alle Fahrzeuge
 
@@ -655,8 +545,7 @@ Fundstelle des Originaltextes: BGBl. I 1997, S. 1552 - 1555
 
     Die gesamte Wasserfläche des ehemaligen Naturschutzgebietes Heuwiese.
 
-
-**16.** **Wasserfläche zwischen den Inseln Ummanz und Rügen**
+16. **Wasserfläche zwischen den Inseln Ummanz und Rügen**
 
     Befahrensverbot für alle Fahrzeuge
 
@@ -669,8 +558,7 @@ Fundstelle des Originaltextes: BGBl. I 1997, S. 1552 - 1555
     Stroms, des Kosolower und des Kapeller Sees, des Wittenberger Stroms
     und des Varbelvitzer Boddens.
 
-
-**17.** **Schaproder Bodden zwischen Suhrendorf und Trog**
+17. **Schaproder Bodden zwischen Suhrendorf und Trog**
 
     Befahrensverbot für durch Maschinenkraft angetriebene Fahrzeuge
 
@@ -683,14 +571,9 @@ Fundstelle des Originaltextes: BGBl. I 1997, S. 1552 - 1555
         Schutzzone I am Geller Haken und der nördlichen Ecke des ehemaligen
         Naturschutzgebietes Heuwiese,
 
-
     -   südlich der Einfahrt zum Trog.
 
-
-
-
-
-**18.** **Fährinsel**
+18. **Fährinsel**
 
     Befahrensverbot für alle Fahrzeuge
 
@@ -698,8 +581,7 @@ Fundstelle des Originaltextes: BGBl. I 1997, S. 1552 - 1555
 
     Die gesamte Wasserfläche des ehemaligen Naturschutzgebietes Fährinsel.
 
-
-**19.** **Vitter Bodden (Westteil) und Trog**
+19. **Vitter Bodden (Westteil) und Trog**
 
     Befahrensverbot für durch Maschinenkraft angetriebene Fahrzeuge
 
@@ -710,8 +592,8 @@ Fundstelle des Originaltextes: BGBl. I 1997, S. 1552 - 1555
     im Osten durch die Uferlinie und die Nationalparkgrenze zwischen
     Steinort und der Einfahrt in den Rassower Strom,
 
-    im Norden durch das Hiddensee Fahrwasser (Tonne bis 20 bis Tonne
-    14/W1) und das Kloster Fahrwasser,
+    im Norden durch das Hiddensee Fahrwasser (Tonne bis 20 bis Tonne 14/
+    W1) und das Kloster Fahrwasser,
 
     im Westen durch die Uferlinie der Insel Hiddensee.
 
@@ -722,11 +604,7 @@ Fundstelle des Originaltextes: BGBl. I 1997, S. 1552 - 1555
     -   die Wasserflächen beiderseits der betonnten Fahrwasser in einer Breite
         von jeweils 50 m.
 
-
-
-
-
-**20.** **Bug und Rassower Strom (Schutzzone I)**
+20. **Bug und Rassower Strom (Schutzzone I)**
 
     Befahrensverbot für alle Fahrzeuge
 
@@ -745,15 +623,10 @@ Fundstelle des Originaltextes: BGBl. I 1997, S. 1552 - 1555
     -   die Wasserfläche nördlich des betonnten Fahrwassers Wiek in einer
         Breite von 50 m,
 
-
     -   die Wasserfläche beiderseits des betonnten Fahrwassers Hiddensee in
         einer Breite von jeweils 50 m.
 
-
-
-
-
-**21.** **Rassower Strom (Schutzzone II)**
+21. **Rassower Strom (Schutzzone II)**
 
     Befahrensverbot für durch Maschinenkraft angetriebene Fahrzeuge
 
@@ -761,8 +634,7 @@ Fundstelle des Originaltextes: BGBl. I 1997, S. 1552 - 1555
 
     Die gesamte Wasserfläche der Schutzzone II.
 
-
-**22.** **Vitter Bodden bis Libben**
+22. **Vitter Bodden bis Libben**
 
     Befahrensverbot für alle Fahrzeuge
 
@@ -779,8 +651,7 @@ Fundstelle des Originaltextes: BGBl. I 1997, S. 1552 - 1555
 
     im Westen in einem Abstand von 50 m entlang des Fahrwassers Kloster.
 
-
-**23.** **Libben**
+23. **Libben**
 
     Befahrensverbot für durch Maschinenkraft angetriebene Fahrzeuge
 
@@ -789,10 +660,9 @@ Fundstelle des Originaltextes: BGBl. I 1997, S. 1552 - 1555
     a)  Im Norden ab Höhe Toter Kerl innerhalb der 2-m-Tiefenlinie bis zum
         Breitengrad 54° 35,9' N.
 
-
     b)  Im Norden durch die Grenze der Schutzzone I von der 2-m-Tiefenlinie
-        vor Neubessin bis zum Fahrwasser Hiddensee (zwischen den Tonnen 3 und
-        5), entlang der Ostseite des Fahrwassers nordwärts bis zur
+        vor Neubessin bis zum Fahrwasser Hiddensee (zwischen den Tonnen
+        3 und 5), entlang der Ostseite des Fahrwassers nordwärts bis zur
         Nationalparkgrenze, dieser folgend bis zur Halbinsel Bug,
 
         im Osten durch die Uferlinie der Halbinsel Bug bis zur Grenze der
@@ -805,9 +675,6 @@ Fundstelle des Originaltextes: BGBl. I 1997, S. 1552 - 1555
         im Westen der 2-m-Tiefenlinie nordwärts folgend bis zur Grenze der
         Schutzzone I.
 
-
-
-
     Hiervon sind ausgenommen:
 
     für alle Fahrzeuge:
@@ -815,11 +682,7 @@ Fundstelle des Originaltextes: BGBl. I 1997, S. 1552 - 1555
     -   die Wasserfläche beiderseits des betonnten Fahrwassers Hiddensee in
         einer Breite von jeweils 50 m.
 
-
-
-
-
-**24.** **Außenküste (Schutzzone I)**
+24. **Außenküste (Schutzzone I)**
 
     Befahrensverbot für alle Fahrzeuge
 
@@ -835,11 +698,7 @@ Fundstelle des Originaltextes: BGBl. I 1997, S. 1552 - 1555
     -   die Wasserfläche nördlich des Breitengrads 54° 28,3' N und westlich
         des Fahrwassers Nordansteuerung Stralsund.
 
-
-
-
-
-**25.** **Außenküste (Schutzzone II)**
+25. **Außenküste (Schutzzone II)**
 
     Befahrensverbot für durch Maschinenkraft angetriebene Fahrzeuge
 
@@ -850,16 +709,11 @@ Fundstelle des Originaltextes: BGBl. I 1997, S. 1552 - 1555
     -   ab Höhe Toter Kerl im Norden der Insel Hiddensee entlang der Westküste
         bis zur Grenze der Schutzzone I,
 
-
     -   nördlich der Halbinsel Zingst im Osten von der Grenze der Schutzzone I
         bis zur Grenze der Schutzzone I östlich des Fahrwasser Darßer Ort,
 
-
     -   Weststrand Darß vom Breitengrad 54° 28,4' N bis zur Grenze des
         Nationalparks nördlich Ahrenshoop.
-
-
-
 
     Hiervon sind ausgenommen:
 
@@ -867,22 +721,12 @@ Fundstelle des Originaltextes: BGBl. I 1997, S. 1552 - 1555
 
     -   Prerow-Zingst,
 
-
     -   Neuendorf,
-
 
     -   Kloster-Vitte.
 
-
-
-
-
-
 ----------
 
-\*) Die Nummern 1 bis 25 entsprechen den Nummern in der Anlage I
+*)  Die Nummern 1 bis 25 entsprechen den Nummern in der Anlage I
     Kartenblatt 1 bis 4.
-
-
-
 

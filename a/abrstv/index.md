@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl I: 2005, 2926
 
 
-
 ## Eingangsformel
 
 Auf Grund des Artikels 31 Abs. 2 des Scheckgesetzes in der im
@@ -34,9 +33,9 @@ Abs. 1 des Scheckgesetzes.
 
 ## § 2
 
-(1) Schecks können in die Abrechnungsstelle eingeliefert werden, wenn
-der Einlieferer sowie der Bezogene oder der Dritte, bei dem der Scheck
-zahlbar gestellt worden ist, am Abrechnungsverkehr der
+(1) Schecks können in die Abrechnungsstelle eingeliefert werden,
+wenn der Einlieferer sowie der Bezogene oder der Dritte, bei dem
+der Scheck zahlbar gestellt worden ist, am Abrechnungsverkehr der
 Abrechnungsstelle teilnehmen oder durch einen Teilnehmer vertreten
 werden.
 
@@ -49,8 +48,8 @@ vollständig abbildet, übermittelt wird.
 ## § 3
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-Gleichzeitig tritt die Verordnung über Abrechnungsstellen im Wechsel-
-und Scheckverkehr in der im Bundesgesetzblatt Teil III,
+Gleichzeitig tritt die Verordnung über Abrechnungsstellen im
+Wechsel- und Scheckverkehr in der im Bundesgesetzblatt Teil III,
 Gliederungsnummer 4132-4, veröffentlichten bereinigten Fassung außer
 Kraft.
 

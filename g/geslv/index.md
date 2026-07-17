@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2018, 870
 
-Änderung durch
-:   Art. 65 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 65 G v. 10.8.2021 I 3436
 
 
 ## Eingangsformel
@@ -31,23 +31,23 @@ verordnet das Bundesministerium der Justiz und für Verbraucherschutz:
 
 (1) In der Gesellschafterliste sind die Geschäftsanteile fortlaufend
 und in eindeutiger Zuordnung zu den Gesellschaftern mit ganzen
-arabischen Zahlen (Einzelnummern) oder, in den durch diese Verordnung
-bestimmten Fällen, mit ganzen arabischen Zahlen in dezimaler
-Gliederung (Abschnittsnummern) zu nummerieren (Nummern). Die
-numerische Zuordnung von Geschäftsanteilen kann für jeden
+arabischen Zahlen (Einzelnummern) oder, in den durch diese
+Verordnung bestimmten Fällen, mit ganzen arabischen Zahlen in
+dezimaler Gliederung (Abschnittsnummern) zu nummerieren (Nummern).
+Die numerische Zuordnung von Geschäftsanteilen kann für jeden
 Gesellschafter zusammengefasst werden. Die Gesellschafterliste kann
 sowohl nach Geschäftsanteilen als auch nach Gesellschaftern sortiert
 werden.
 
-(2) Eine für einen Geschäftsanteil einmal vergebene Nummer darf nicht
-für einen anderen Geschäftsanteil verwendet werden
+(2) Eine für einen Geschäftsanteil einmal vergebene Nummer
+darf nicht für einen anderen Geschäftsanteil verwendet werden
 (Nummerierungskontinuität). Eine Änderung der Nummern ist nur in den
 durch diese Verordnung bestimmten Fällen zulässig.
 
 (3) Neue Einzelnummern sind zu vergeben, wenn neue Geschäftsanteile
 geschaffen, Geschäftsanteile zusammengelegt oder Geschäftsanteile
-geteilt werden. Es muss jeweils die nächste freie ganze arabische Zahl
-vergeben werden. Werden neue Geschäftsanteile geschaffen oder
+geteilt werden. Es muss jeweils die nächste freie ganze arabische
+Zahl vergeben werden. Werden neue Geschäftsanteile geschaffen oder
 Geschäftsanteile geteilt, können die neu entstandenen Geschäftsanteile
 auch durch Abschnittsnummern gekennzeichnet werden; Satz 2 gilt
 entsprechend.
@@ -74,26 +74,17 @@ Veränderungsspalte einzutragen.
 
 1.  die Teilung von Geschäftsanteilen,
 
-
 2.  die Zusammenlegung von Geschäftsanteilen,
-
 
 3.  die Einziehung von Geschäftsanteilen,
 
-
 4.  die Kapitalerhöhung mit Ausgabe neuer Geschäftsanteile,
-
 
 5.  die Kapitalerhöhung mit Aufstockung der Geschäftsanteile,
 
-
 6.  die Kapitalherabsetzung,
 
-
 7.  der Anteilsübergang.
-
-
-
 
 (4) Weitere Veränderungen nach Absatz 1 können in die
 Veränderungsspalte eingetragen werden.
@@ -110,8 +101,8 @@ der bisherigen Nummer eingetragen waren, weg.
 ## § 4 Prozentangaben
 
 (1) Die nach § 40 Absatz 1 Satz 1 des Gesetzes betreffend die
-Gesellschaften mit beschränkter Haftung erforderlichen Angaben zur
-prozentualen Beteiligung am Stammkapital dürfen nach dem
+Gesellschaften mit beschränkter Haftung erforderlichen Angaben
+zur prozentualen Beteiligung am Stammkapital dürfen nach dem
 kaufmännischen Prinzip bis auf eine Dezimalstelle gerundet werden.
 Eine Abrundung auf 0,0 Prozent, 25,0 Prozent oder 50,0 Prozent ist
 nicht zulässig. Alternativ können die Angaben ohne Rundung durch das
@@ -119,7 +110,7 @@ Weglassen der Nachkommastellen bis auf eine Dezimalstelle dargestellt
 werden; Satz 2 gilt entsprechend.
 
 (2) Der Gesamtumfang der prozentualen Beteiligung eines
-Gesellschafters am Stammkapital nach § 40 Absatz 1 Satz 3 des Gesetzes
+Gesellschafters am Stammkapital nach § 40 Absatz 1 Satz 4 des Gesetzes
 betreffend die Gesellschaften mit beschränkter Haftung ist vor der
 Rundung (Absatz 1 Satz 1) oder dem Weglassen von Nachkommastellen
 (Absatz 1 Satz 3) der Einzelbeteiligungen zu errechnen. Für die Angabe
@@ -129,16 +120,16 @@ des Gesamtumfangs gilt Absatz 1 entsprechend.
 nicht 100 Prozent zu ergeben.
 
 (4) Beträgt der Anteil des Nennbetrags eines einzelnen
-Geschäftsanteils weniger als 1 Prozent vom Stammkapital, genügt diese
-Angabe. Entsprechendes gilt, wenn die addierten Nennbeträge der
-Geschäftsanteile eines Gesellschafters weniger als 1 Prozent vom
+Geschäftsanteils weniger als 1 Prozent vom Stammkapital, genügt
+diese Angabe. Entsprechendes gilt, wenn die addierten Nennbeträge
+der Geschäftsanteile eines Gesellschafters weniger als 1 Prozent vom
 Stammkapital betragen.
 
 (5) Die Prozentangaben nach § 40 Absatz 1 Satz 1 des Gesetzes
-betreffend die Gesellschaften mit beschränkter Haftung sind in
-separaten Spalten aufzuführen. Die Prozentangaben nach § 40 Absatz 1
-Satz 3 des Gesetzes betreffend die Gesellschaften mit beschränkter
-Haftung sind in weiteren separaten Spalten oder in an die
+betreffend die Gesellschaften mit beschränkter Haftung sind
+in separaten Spalten aufzuführen. Die Prozentangaben nach § 40
+Absatz 1 Satz 4 des Gesetzes betreffend die Gesellschaften mit
+beschränkter Haftung sind in weiteren separaten Spalten oder in an die
 Gesellschafterliste anschließenden separaten Zeilen aufzuführen.
 
 

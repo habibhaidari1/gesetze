@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Schlichtungsstelle nach § 16 des Behindertengleichstellungsgesetzes
-  und ihr Verfahren
+Title: Verordnung über die Schlichtungsstelle nach § 16 des Behindertengleichstellungsgesetzes und ihr Verfahren
 jurabk: BGleiSV
 layout: default
 origslug: bgleisv
@@ -23,17 +22,17 @@ Zuletzt geändert durch
 ## § 1 Anwendungsbereich und Ziel
 
 (1) Diese Verordnung trifft für Schlichtungsverfahren nach § 16 des
-Behindertengleichstellungsgesetzes Regelungen zur Geschäftsstelle, zur
-Besetzung, zum Verfahren, zu den Kosten des Verfahrens und zum
+Behindertengleichstellungsgesetzes Regelungen zur Geschäftsstelle,
+zur Besetzung, zum Verfahren, zu den Kosten des Verfahrens und zum
 Tätigkeitsbericht.
 
-(2) Ziel ist, der Antragstellerin oder dem Antragsteller eines
-Schlichtungsverfahrens nach § 16 Absatz 2 oder 3 des
-Behindertengleichstellungsgesetzes und der öffentlichen Stelle oder
-dem Eigentümer, Besitzer und Betreiber von beweglichen oder
-unbeweglichen Anlagen und Einrichtungen im Sinne des
-Behindertengleichstellungsgesetzes (Beteiligte eines
-Schlichtungsverfahrens) eine rasche, einvernehmliche,
+(2) Ziel ist, der Antragstellerin oder dem Antragsteller
+eines Schlichtungsverfahrens nach § 16 Absatz 2 oder 3 des
+Behindertengleichstellungsgesetzes und der öffentlichen
+Stelle oder dem Eigentümer, Besitzer und Betreiber von
+beweglichen oder unbeweglichen Anlagen und Einrichtungen
+im Sinne des Behindertengleichstellungsgesetzes (Beteiligte
+eines Schlichtungsverfahrens) eine rasche, einvernehmliche,
 außergerichtliche und unentgeltliche Streitbeilegung zu ermöglichen.
 
 
@@ -43,13 +42,13 @@ außergerichtliche und unentgeltliche Streitbeilegung zu ermöglichen.
 Bundesregierung für die Belange von Menschen mit Behinderungen nach
 Abschnitt 5 des Behindertengleichstellungsgesetzes eingerichtet. Sie
 ist mit mindestens zwei schlichtenden Personen zu besetzen, die mit
-der außergerichtlichen Beilegung von Streitigkeiten nach § 16 Absatz 2
-und 3 des Behindertengleichstellungsgesetzes betraut und für die
+der außergerichtlichen Beilegung von Streitigkeiten nach § 16 Absatz
+2 und 3 des Behindertengleichstellungsgesetzes betraut und für die
 unparteiische und faire Verfahrensführung verantwortlich sind.
 
-(2) Für die Schlichtungsstelle ist bei der oder dem Beauftragten der
-Bundesregierung für die Belange von Menschen mit Behinderungen nach
-Abschnitt 5 des Behindertengleichstellungsgesetzes eine
+(2) Für die Schlichtungsstelle ist bei der oder dem Beauftragten
+der Bundesregierung für die Belange von Menschen mit Behinderungen
+nach Abschnitt 5 des Behindertengleichstellungsgesetzes eine
 Geschäftsstelle einzurichten.
 
 
@@ -57,44 +56,39 @@ Geschäftsstelle einzurichten.
 
 (1) Die schlichtenden Personen müssen die Befähigung zum Richteramt
 haben. Sie müssen über das Fachwissen, die Fähigkeiten und die
-Erfahrung verfügen, die für die Beilegung von Streitigkeiten in der
-Zuständigkeit der Schlichtungsstelle und für die Durchführung von
-Mediationen erforderlich sind. Die schlichtenden Personen sind
+Erfahrung verfügen, die für die Beilegung von Streitigkeiten in
+der Zuständigkeit der Schlichtungsstelle und für die Durchführung
+von Mediationen erforderlich sind. Die schlichtenden Personen sind
 unabhängig und an Weisungen nicht gebunden.
 
 (2) Für jede schlichtende Person ist eine andere schlichtende Person
 als Vertretung zu bestellen.
 
-(3) Vor jedem Geschäftsjahr ist die Geschäftsverteilung durch die
-schlichtenden Personen festzulegen. Eine Änderung der
+(3) Vor jedem Geschäftsjahr ist die Geschäftsverteilung durch
+die schlichtenden Personen festzulegen. Eine Änderung der
 Geschäftsverteilung während des Geschäftsjahres ist nur aus wichtigem
 Grund zulässig.
 
 (4) Das Bundesministerium für Arbeit und Soziales bestellt unter
-Beteiligung der oder des Beauftragten der Bundesregierung für die
-Belange von Menschen mit Behinderungen nach Abschnitt 5 des
-Behindertengleichstellungsgesetzes die schlichtenden Personen für vier
-Jahre. Nach Ablauf dieser Zeit bleiben die schlichtenden Personen bis
-zur Bestellung ihrer Nachfolgerin oder ihres Nachfolgers im Amt.
+Beteiligung der oder des Beauftragten der Bundesregierung für
+die Belange von Menschen mit Behinderungen nach Abschnitt 5 des
+Behindertengleichstellungsgesetzes die schlichtenden Personen für
+vier Jahre. Nach Ablauf dieser Zeit bleiben die schlichtenden Personen
+bis zur Bestellung ihrer Nachfolgerin oder ihres Nachfolgers im Amt.
 Wiederbestellung ist zulässig.
 
-(5) Unter Beteiligung der oder des Beauftragten für die Belange von
-Menschen mit Behinderungen nach Abschnitt 5 des
+(5) Unter Beteiligung der oder des Beauftragten für die
+Belange von Menschen mit Behinderungen nach Abschnitt 5 des
 Behindertengleichstellungsgesetzes kann das Bundesministerium für
 Arbeit und Soziales eine schlichtende Person nur abberufen, wenn
 
 1.  Tatsachen vorliegen, die eine unabhängige und unparteiische Ausübung
     der Tätigkeit als schlichtende Person nicht mehr erwarten lassen,
 
-
 2.  sie nicht nur vorübergehend an der Ausübung der Tätigkeit als
     schlichtende Person gehindert ist oder
 
-
 3.  ein vergleichbar wichtiger Grund vorliegt.
-
-
-
 
 (6) Eine schlichtende Person darf nicht zur Beilegung einer
 Streitigkeit tätig werden, wenn ein Grund vorliegt, der geeignet ist,
@@ -104,24 +98,24 @@ Misstrauen gegen ihre Unparteilichkeit zu rechtfertigen. Das Verfahren
 
 ## § 4 Verschwiegenheit
 
-Die schlichtenden Personen und die weiteren in die Durchführung des
-Schlichtungsverfahrens eingebundenen Personen sind zur
+Die schlichtenden Personen und die weiteren in die Durchführung
+des Schlichtungsverfahrens eingebundenen Personen sind zur
 Verschwiegenheit verpflichtet, soweit durch Rechtsvorschrift nichts
-anderes geregelt ist. Die Pflicht bezieht sich auf alles, was ihnen in
-Ausübung ihrer Tätigkeit bekannt geworden ist. § 4 Satz 3 des
+anderes geregelt ist. Die Pflicht bezieht sich auf alles, was ihnen
+in Ausübung ihrer Tätigkeit bekannt geworden ist. § 4 Satz 3 des
 Mediationsgesetzes gilt entsprechend.
 
 
 ## § 5 Antrag auf Einleitung eines Schlichtungsverfahrens
 
-(1) Der Antrag auf Einleitung eines Schlichtungsverfahrens nach § 16
-Absatz 2 oder 3 des Behindertengleichstellungsgesetzes kann in
-Textform oder zur Niederschrift bei der Geschäftsstelle der
+(1) Der Antrag auf Einleitung eines Schlichtungsverfahrens nach
+§ 16 Absatz 2 oder 3 des Behindertengleichstellungsgesetzes kann
+in Textform oder zur Niederschrift bei der Geschäftsstelle der
 Schlichtungsstelle gestellt werden. Er muss eine Schilderung des
-Sachverhalts, das verfolgte Ziel, den Namen und die Anschrift der
-Antragstellerin oder des Antragstellers und der beteiligten
-öffentlichen Stelle oder des beteiligten Eigentümers, Besitzers oder
-Betreibers von beweglichen oder unbeweglichen Anlagen oder
+Sachverhalts, das verfolgte Ziel, den Namen und die Anschrift
+der Antragstellerin oder des Antragstellers und der beteiligten
+öffentlichen Stelle oder des beteiligten Eigentümers, Besitzers
+oder Betreibers von beweglichen oder unbeweglichen Anlagen oder
 Einrichtungen enthalten.
 
 (2) Die Schlichtungsstelle erstellt ein Antragsformular und stellt
@@ -139,21 +133,21 @@ Schlichtungsverfahrens ab, wenn die Streitigkeit nicht in die
 Zuständigkeit der Schlichtungsstelle fällt. Die schlichtende Person
 teilt der Antragstellerin oder dem Antragsteller und, sofern der
 Antrag bereits der Antragsgegnerin oder dem Antragsgegner übermittelt
-worden ist, auch dieser oder diesem die Ablehnung in Textform mit. Die
-Ablehnung ist kurz und verständlich zu begründen. Ist die
+worden ist, auch dieser oder diesem die Ablehnung in Textform
+mit. Die Ablehnung ist kurz und verständlich zu begründen. Ist die
 Schlichtungsstelle der Ansicht, dass eine andere Stelle Möglichkeiten
 der Abhilfe anbieten könnte, kann sie eine Verweisberatung anbieten.
 
 
 ## § 7 Rechtliches Gehör
 
-(1) Die Schlichtungsstelle übermittelt der Antragsgegnerin oder dem
-Antragsgegner eine Abschrift des Schlichtungsantrags. Die
+(1) Die Schlichtungsstelle übermittelt der Antragsgegnerin oder
+dem Antragsgegner eine Abschrift des Schlichtungsantrags. Die
 Antragsgegnerin oder der Antragsgegner kann binnen einer Frist von
 einem Monat ab Bekanntgabe Stellung nehmen. Die Schlichtungsstelle
-leitet diese Stellungnahme der antragstellenden Person zu und stellt
-ihr anheim, sich innerhalb einer Frist von einem Monat nach
-Bekanntgabe dazu zu äußern, wenn die Antragsgegnerin oder der
+leitet diese Stellungnahme der antragstellenden Person zu und
+stellt ihr anheim, sich innerhalb einer Frist von einem Monat
+nach Bekanntgabe dazu zu äußern, wenn die Antragsgegnerin oder der
 Antragsgegner keine Abhilfe schafft.
 
 (2) Die schlichtende Person kann die Beteiligten zu einem
@@ -169,33 +163,33 @@ Gewährung von Akteneinsicht auffordern.
 
 ## § 8 Verfahren und Schlichtungsvorschlag
 
-(1) Die schlichtende Person bestimmt den weiteren Gang des Verfahrens
-nach freiem Ermessen unter Beachtung der Grundsätze der
+(1) Die schlichtende Person bestimmt den weiteren Gang des
+Verfahrens nach freiem Ermessen unter Beachtung der Grundsätze der
 Unparteilichkeit und Billigkeit. Sie wirkt auf eine gütliche Einigung
-der Beteiligten hin. Die schlichtende Person kann den Beteiligten den
-Einsatz von Mediation zur Streitbeilegung anbieten oder einen
+der Beteiligten hin. Die schlichtende Person kann den Beteiligten
+den Einsatz von Mediation zur Streitbeilegung anbieten oder einen
 Schlichtungsvorschlag unterbreiten. Sie kann den Beteiligten die
-Hinzuziehung der oder des Beauftragten der Bundesregierung für die
-Belange von Menschen mit Behinderungen nach Abschnitt 5 des
+Hinzuziehung der oder des Beauftragten der Bundesregierung für
+die Belange von Menschen mit Behinderungen nach Abschnitt 5 des
 Behindertengleichstellungsgesetzes oder anderer sachkundiger Stellen
 vorschlagen. Eine Hinzuziehung kommt nur in Betracht, wenn die
 Beteiligten zustimmen.
 
 (2) Entscheiden sich die Beteiligten für eine Mediation, wird in der
-Regel die schlichtende Person als Mediatorin oder Mediator tätig. Im
-Fall der Einigung der Beteiligten im Rahmen der Mediation gilt § 2
-Absatz 6 Satz 3 des Mediationsgesetzes mit der Maßgabe, dass die
+Regel die schlichtende Person als Mediatorin oder Mediator tätig.
+Im Fall der Einigung der Beteiligten im Rahmen der Mediation gilt §
+2 Absatz 6 Satz 3 des Mediationsgesetzes mit der Maßgabe, dass die
 erzielte Einigung in einer Abschlussvereinbarung dokumentiert und von
 den Beteiligten unterschrieben wird.
 
 (3) Kommt eine gütliche Einigung der Beteiligten nicht zustande,
 unterbreitet die schlichtende Person den Beteiligten einen Vorschlag
-zur Beilegung der Streitigkeit (Schlichtungsvorschlag), der auf der
-sich aus dem Schlichtungsverfahren ergebenden Sachlage beruht. Er soll
-am geltenden Recht ausgerichtet sein und muss geeignet sein, den
-Streit der Beteiligten angemessen beizulegen. Der
-Schlichtungsvorschlag ist kurz und verständlich zu begründen. Gibt die
-öffentliche Stelle keine Stellungnahme ab, kann die schlichtende
+zur Beilegung der Streitigkeit (Schlichtungsvorschlag), der auf
+der sich aus dem Schlichtungsverfahren ergebenden Sachlage beruht.
+Er soll am geltenden Recht ausgerichtet sein und muss geeignet
+sein, den Streit der Beteiligten angemessen beizulegen. Der
+Schlichtungsvorschlag ist kurz und verständlich zu begründen. Gibt
+die öffentliche Stelle keine Stellungnahme ab, kann die schlichtende
 Person den Beteiligten allein auf Grund des Schlichtungsantrages einen
 Schlichtungsvorschlag nach Absatz 2 unterbreiten.
 
@@ -210,18 +204,18 @@ auf die Möglichkeit hin, den Vorschlag nicht anzunehmen und einen
 Rechtsbehelf einzulegen.
 
 (6) Die Schlichtungsstelle setzt den Beteiligten eine angemessene
-Frist zur Annahme des Schlichtungsvorschlags. Sie soll einen Monat ab
-Bekanntgabe des Schlichtungsvorschlags nicht überschreiten. Die
-Annahme erfolgt durch Mitteilung in Textform an die
-Schlichtungsstelle. Nach Ablauf der Frist schließt die
+Frist zur Annahme des Schlichtungsvorschlags. Sie soll
+einen Monat ab Bekanntgabe des Schlichtungsvorschlags nicht
+überschreiten. Die Annahme erfolgt durch Mitteilung in Textform
+an die Schlichtungsstelle. Nach Ablauf der Frist schließt die
 Schlichtungsstelle das Verfahren ab.
 
 
 ## § 9 Abschluss des Verfahrens
 
 (1) Haben sich die Beteiligten gütlich geeinigt oder einen
-Schlichtungsvorschlag nach § 8 angenommen und eine Mitteilung der
-Schlichtungsstelle nach Absatz 2 erhalten, endet das
+Schlichtungsvorschlag nach § 8 angenommen und eine Mitteilung
+der Schlichtungsstelle nach Absatz 2 erhalten, endet das
 Schlichtungsverfahren.
 
 (2) Die Schlichtungsstelle übermittelt den Beteiligten jeweils eine
@@ -271,8 +265,8 @@ Bundesreisekostengesetzes übernommen, soweit sie nicht bereits nach
 anderen Vorschriften übernommen werden können. Zu den notwendigen
 Kosten nach Satz 1 zählen auch entsprechende Reisekosten für eine
 erforderliche Begleitperson. Die Erforderlichkeit beurteilt die
-Schlichtungsstelle nach den Umständen des Einzelfalls. Für Reisen aus
-dem Ausland werden Kosten nicht übernommen. Reisekosten des
+Schlichtungsstelle nach den Umständen des Einzelfalls. Für Reisen
+aus dem Ausland werden Kosten nicht übernommen. Reisekosten des
 Antragsgegners werden nicht übernommen.
 
 

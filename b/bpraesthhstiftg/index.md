@@ -21,9 +21,9 @@ Geändert durch
 
 ## § 1 Rechtsform der Stiftung
 
-Unter dem Namen "Stiftung Bundespräsident-Theodor-Heuss-Haus" wird mit
-Sitz in Stuttgart eine rechtsfähige Stiftung des öffentlichen Rechts
-errichtet. Die Stiftung entsteht mit dem Inkrafttreten dieses
+Unter dem Namen "Stiftung Bundespräsident-Theodor-Heuss-Haus" wird
+mit Sitz in Stuttgart eine rechtsfähige Stiftung des öffentlichen
+Rechts errichtet. Die Stiftung entsteht mit dem Inkrafttreten dieses
 Gesetzes.
 
 
@@ -34,17 +34,13 @@ Gesetzes.
 1.  das Andenken an das Wirken des ersten Bundespräsidenten der
     Bundesrepublik Deutschland, Theodor Heuss, für Freiheit und Einheit
     des deutschen Volkes, für Europa, für Verständigung und Versöhnung
-    unter den Völkern zu wahren und einen Beitrag zum Verständnis der
-    jüngeren Geschichte sowie der Entstehung der Bundesrepublik
+    unter den Völkern zu wahren und einen Beitrag zum Verständnis
+    der jüngeren Geschichte sowie der Entstehung der Bundesrepublik
     Deutschland zu leisten und
-
 
 2.  den Nachlaß Theodor Heuss zu sammeln, zu pflegen, zu verwalten und für
     die Interessen der Allgemeinheit in Wissenschaft, Bildung und Politik
     auszuwerten.
-
-
-
 
 (2) Der Erfüllung dieses Zweckes dienen insbesondere folgende
 Maßnahmen:
@@ -53,19 +49,13 @@ Maßnahmen:
     zugänglichen Gedenkstätte "Stiftung Bundespräsident-Theodor-Heuss-
     Haus" in Stuttgart;
 
-
 2.  Einrichtung und Unterhaltung eines Archivs nebst Forschungs- und
     Dokumentationsstelle in Stuttgart;
-
 
 3.  Veröffentlichung von Archivbeständen und wissenschaftlichen
     Untersuchungen;
 
-
 4.  Veranstaltungen im Sinne des Stiftungszweckes.
-
-
-
 
 
 ## § 3 Stiftungsvermögen
@@ -90,8 +80,8 @@ im Sinne des Stiftungszweckes zu verwenden.
 Die Stiftung gibt sich eine Satzung, die vom Kuratorium mit einer
 Mehrheit von vier Fünfteln seiner Mitglieder beschlossen wird und der
 Genehmigung des Beauftragten der Bundesregierung für Angelegenheiten
-der Kultur und der Medien bedarf. Das gleiche gilt für Änderungen der
-Satzung.
+der Kultur und der Medien bedarf. Das gleiche gilt für Änderungen
+der Satzung.
 
 
 ## § 5 Organe der Stiftung
@@ -100,21 +90,17 @@ Organe der Stiftung sind
 
 1.  das Kuratorium,
 
-
 2.  der Vorstand.
-
-
-
 
 
 ## § 6 Kuratorium
 
 (1) Das Kuratorium besteht aus fünf Mitgliedern, die vom
-Bundespräsidenten für die Dauer von fünf Jahren bestellt werden. Zwei
-Mitglieder werden von der Bundesregierung vorgeschlagen, je ein
+Bundespräsidenten für die Dauer von fünf Jahren bestellt werden.
+Zwei Mitglieder werden von der Bundesregierung vorgeschlagen, je ein
 Mitglied wird von den Erben Theodor Heuss und von der Stadt Stuttgart
-vorgeschlagen; das fünfte Mitglied wählt der Bundespräsident aus. Für
-jedes der fünf Mitglieder ist in gleicher Weise ein Vertreter zu
+vorgeschlagen; das fünfte Mitglied wählt der Bundespräsident aus.
+Für jedes der fünf Mitglieder ist in gleicher Weise ein Vertreter zu
 bestellen. Wiederholte Bestellung ist zulässig.
 
 (2) Scheidet ein Kuratoriumsmitglied oder sein Vertreter vorzeitig
@@ -158,8 +144,8 @@ nicht nebenamtlich tätig sind, ehrenamtlich tätig.
 ## § 9 Aufsicht, Haushalt, Rechnungsprüfung
 
 (1) Die Stiftung untersteht der Aufsicht des Beauftragten der
-Bundesregierung für Angelegenheiten der Kultur und der Medien. Bei der
-Erfüllung ihrer Aufgaben wird die Stiftung durch das Bundesarchiv
+Bundesregierung für Angelegenheiten der Kultur und der Medien. Bei
+der Erfüllung ihrer Aufgaben wird die Stiftung durch das Bundesarchiv
 unterstützt; Art und Umfang regelt der Beauftragte der Bundesregierung
 für Angelegenheiten der Kultur und der Medien im Benehmen mit dem
 Kuratorium.
@@ -184,8 +170,8 @@ haben, verliehen werden.
 
 ## § 11 Gebühren
 
-Die Stiftung kann zur Deckung des Verwaltungsaufwandes nach näherer
-Bestimmung der Satzung Gebühren für die Benutzung von
+Die Stiftung kann zur Deckung des Verwaltungsaufwandes nach
+näherer Bestimmung der Satzung Gebühren für die Benutzung von
 Stiftungseinrichtungen erheben.
 
 

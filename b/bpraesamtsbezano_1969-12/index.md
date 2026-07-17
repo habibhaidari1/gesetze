@@ -16,14 +16,10 @@ Fundstelle
 :   BGBl I: 1969, 2186
 
 
-
 ## (XXXX)
 
 Gemäß § 81 Abs. 1 des Bundesbeamtengesetzes setze ich folgende
 Amtsbezeichnung fest
 
-*   Präsident der Akademie für Führungskräfte der Deutschen Bundespost.
-
-
-
+-   Präsident der Akademie für Führungskräfte der Deutschen Bundespost.
 

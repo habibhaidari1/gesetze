@@ -19,7 +19,6 @@ Geändert durch
 :   Art. 105 G v. 29.3.2017 I 626
 
 
-
 ## Eingangsformel
 
 Auf Grund des § 7 Abs. 2 Satz 6 der Handwerksordnung in der Fassung
@@ -34,9 +33,9 @@ Bundesministerium für Bildung und Forschung:
 
 Die Verordnung regelt die Eintragung in die Handwerksrolle für den
 nach § 7 Abs. 2 Satz 1 der Handwerksordnung erfassten Personenkreis,
-der Prüfungen in Studien- oder Schulschwerpunkten abgelegt hat, deren
-Inhalte Meisterprüfungen in zulassungspflichtigen Handwerken der
-Anlage A zur Handwerksordnung entsprechen und die vor einem
+der Prüfungen in Studien- oder Schulschwerpunkten abgelegt hat,
+deren Inhalte Meisterprüfungen in zulassungspflichtigen Handwerken
+der Anlage A zur Handwerksordnung entsprechen und die vor einem
 staatlichen oder staatlich anerkannten Prüfungsausschuss mit Erfolg
 abgelegt worden sind.
 
@@ -51,25 +50,20 @@ abgelegt worden sind, werden für die Eintragung in die Handwerksrolle
 in zulassungspflichtigen Handwerken nach Maßgabe der Voraussetzungen
 des Absatzes 2 anerkannt.
 
-(2) Der Abschluss ist anzuerkennen, wenn der Studienschwerpunkt in
-seinen wesentlichen Inhalten der Meisterprüfung in dem
-zulassungspflichtigen Handwerk, für das die Eintragung beantragt wird,
-entspricht. Für die Beurteilung der wesentlichen Inhalte sind
+(2) Der Abschluss ist anzuerkennen, wenn der Studienschwerpunkt
+in seinen wesentlichen Inhalten der Meisterprüfung in dem
+zulassungspflichtigen Handwerk, für das die Eintragung beantragt
+wird, entspricht. Für die Beurteilung der wesentlichen Inhalte sind
 insbesondere
 
 1.  die technische Ausrichtung des Studiengangs,
 
-
 2.  die Fächer, die als Studienschwerpunkt im Studiengang gewählt wurden
     und in denen ein Leistungsnachweis erbracht worden ist,
 
-
 3.  die erfolgreich angefertigte Abschlussarbeit und
 
-
 4.  die erfolgreich absolvierte Abschlussprüfung
-
-
 
 maßgeblich.
 
@@ -85,27 +79,22 @@ erfolgreich abgelegt worden sind, werden für die Eintragung in die
 Handwerksrolle in zulassungspflichtigen Handwerken nach Maßgabe der
 Voraussetzungen des Absatzes 2 anerkannt.
 
-(2) Der Abschluss ist anzuerkennen, wenn der Schulschwerpunkt in
-seinen wesentlichen Inhalten der Meisterprüfung in dem
-zulassungspflichtigen Handwerk, für das die Eintragung beantragt wird,
-entspricht. Für die Beurteilung der wesentlichen Inhalte sind
+(2) Der Abschluss ist anzuerkennen, wenn der Schulschwerpunkt
+in seinen wesentlichen Inhalten der Meisterprüfung in dem
+zulassungspflichtigen Handwerk, für das die Eintragung beantragt
+wird, entspricht. Für die Beurteilung der wesentlichen Inhalte sind
 insbesondere
 
 1.  die gewählte Fachrichtung im Fachbereich,
-
 
 2.  die Fächer, die als Schwerpunkt in der Fachrichtung gewählt wurden,
     soweit eine Schwerpunktbildung auf Grund Landesregelung vorgesehen
     ist, und in denen ein Leistungsnachweis erbracht worden ist,
 
-
 3.  die erfolgreich angefertigte Abschlussarbeit, soweit eine solche auf
     Grund Landesregelung vorgesehen ist, und
 
-
 4.  die erfolgreich absolvierte Abschlussprüfung
-
-
 
 maßgeblich.
 

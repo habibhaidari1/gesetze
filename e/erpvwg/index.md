@@ -63,8 +63,8 @@ nach wirtschaftlichen Grundsätzen zu verwalten.
 
 (2) Die Mittel des Sondervermögens werden in der Regel als
 verzinsliche Darlehen vergeben. In besonderen Fällen können auch
-unverzinsliche Darlehen und verlorene Zuschüsse gewährt werden. Zinsen
-und Tilgungsbeträge aus Darlehen sowie zurückgezahlte Zuschüsse
+unverzinsliche Darlehen und verlorene Zuschüsse gewährt werden.
+Zinsen und Tilgungsbeträge aus Darlehen sowie zurückgezahlte Zuschüsse
 fließen dem Sondervermögen zu.
 
 (3) Im Rahmen der veranschlagten Mittel (§ 7) können Kreditzusagen
@@ -72,14 +72,14 @@ erteilt sowie mit vorheriger Zustimmung des Bundesministeriums der
 Finanzen Sicherheiten bestellt und Gewährleistungen und Bürgschaften
 übernommen werden.
 
-(4) Zum Erwerb von Beteiligungen mit Mitteln des Sondervermögens ist
-die Zustimmung des Bundesministeriums der Finanzen erforderlich,
+(4) Zum Erwerb von Beteiligungen mit Mitteln des Sondervermögens
+ist die Zustimmung des Bundesministeriums der Finanzen erforderlich,
 ebenso zum Erwerb von Grundstücken, soweit diese nicht im Zusammenhang
 mit dinglichen Belastungen zugunsten des Sondervermögens in der
 Zwangsversteigerung erworben werden.
 
-(5) Verträge, durch die die Verpflichtung übernommen werden soll, über
-ein Rechnungsjahr hinaus Auszahlungen aus dem Sondervermögen zu
+(5) Verträge, durch die die Verpflichtung übernommen werden soll,
+über ein Rechnungsjahr hinaus Auszahlungen aus dem Sondervermögen zu
 leisten, dürfen endgültig erst abgeschlossen werden, nachdem erstmals
 Ausgabemittel hierfür im Wirtschaftsplan bewilligt worden sind oder
 die Genehmigung zum Vertragsschluß durch das Bundesministerium der
@@ -104,12 +104,12 @@ Kreditnehmern ermächtigen.
 ## § 7
 
 Alle Einnahmen und Ausgaben des Sondervermögens werden für jedes
-Rechnungsjahr vom Bundesministerium für Wirtschaft und Technologie im
-Einvernehmen mit dem Bundesministerium der Finanzen in einem
-Wirtschaftsplan veranschlagt. Die Einnahmen sind nach den
+Rechnungsjahr vom Bundesministerium für Wirtschaft und Technologie
+im Einvernehmen mit dem Bundesministerium der Finanzen in
+einem Wirtschaftsplan veranschlagt. Die Einnahmen sind nach den
 hauptsächlichsten Quellen, die Ausgaben nach den hauptsächlichsten
-Verwendungszwecken gesondert anzugeben. Der Wirtschaftsplan wird vor
-Beginn des Rechnungsjahres durch Gesetz festgestellt. Er ist in
+Verwendungszwecken gesondert anzugeben. Der Wirtschaftsplan wird
+vor Beginn des Rechnungsjahres durch Gesetz festgestellt. Er ist in
 Einnahmen und Ausgaben auszugleichen.
 
 
@@ -132,16 +132,16 @@ Ausgabeansätzen des Wirtschaftsplanes oder außerplanmäßige Ausgaben
 nur im Falle eines unvorhergesehenen und unabweisbaren Bedürfnisses
 und nur im Rahmen der zur Verfügung stehenden Mittel erfolgen.
 
-(3) Überschreitungen bzw. außerplanmäßige Ausgaben gemäß Absatz 1 und
-2 bedürfen der vorherigen Zustimmung des Bundesministeriums der
+(3) Überschreitungen bzw. außerplanmäßige Ausgaben gemäß Absatz 1
+und 2 bedürfen der vorherigen Zustimmung des Bundesministeriums der
 Finanzen.
 
 
 ## § 10
 
 (1) Das Bundesministerium für Wirtschaft und Technologie wird
-ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen im
-Rahmen der Kreditermächtigung des jährlichen ERP-Wirtschaftsplans
+ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen
+im Rahmen der Kreditermächtigung des jährlichen ERP-Wirtschaftsplans
 Kredite aufzunehmen.
 
 (2) Das Bundesministerium für Wirtschaft und Technologie wird
@@ -158,18 +158,18 @@ Schuldurkunden des Bundes gleich.
 
 (5) Die nach den Absätzen 1 und 2 zu begründenden Verbindlichkeiten
 werden nach den für die Verwaltung der allgemeinen Bundesschuld
-geltenden gesetzlichen Vorschriften verwaltet. Die nach § 5 Abs. 3 zu
-übernehmenden Gewährleistungen und Bürgschaften werden durch das
-Bundesamt für zentrale Dienste und offene Vermögensfragen verwaltet.
-Gesetzliche Befugnisse, die nach den Sätzen 1 und 2 dem
+geltenden gesetzlichen Vorschriften verwaltet. Die nach § 5 Abs.
+3 zu übernehmenden Gewährleistungen und Bürgschaften werden durch
+das Bundesamt für zentrale Dienste und offene Vermögensfragen
+verwaltet. Gesetzliche Befugnisse, die nach den Sätzen 1 und 2 dem
 Bundesministerium der Finanzen zustehen, werden von diesem und dem
 Bundesministerium für Wirtschaft und Technologie gemeinsam ausgeübt.
 
 
 ## § 11
 
-(1) Das Bundesministerium für Wirtschaft und Technologie stellt am
-Schluß eines jeden Rechnungsjahres die Jahresrechnung für das
+(1) Das Bundesministerium für Wirtschaft und Technologie stellt
+am Schluß eines jeden Rechnungsjahres die Jahresrechnung für das
 Sondervermögen auf und legt diese dem Bundesministerium der Finanzen
 vor. Das Bundesministerium der Finanzen übernimmt die Jahresrechnung
 als Anhang in die Haushaltsrechnung des Bundes.
@@ -180,8 +180,8 @@ erkennen lassen sowie die Einnahmen und Ausgaben nachweisen. Die
 Vorschriften des Handelsrechts gelten nicht für die Aufstellung der
 Jahresrechnung über das Sondervermögen.
 
-(3) Die Jahresrechnung wird durch den Bundesrechnungshof geprüft. Der
-Bundesrechnungshof übermittelt seine Bemerkungen hierüber dem
+(3) Die Jahresrechnung wird durch den Bundesrechnungshof geprüft.
+Der Bundesrechnungshof übermittelt seine Bemerkungen hierüber dem
 Bundesministerium der Finanzen.
 
 (4) Das Bundesministerium der Finanzen legt dem Bundestag und dem
@@ -197,16 +197,16 @@ unmittelbar oder durch Beauftragte nach Maßgabe der Verordnung über
 Auskunftspflicht vom 13. Juli 1923 (Reichsgesetzbl. I S. 699, 723) von
 allen natürlichen oder juristischen Personen, Handelsgesellschaften,
 Verbänden und Vereinigungen, öffentlich-rechtlichen Körperschaften
-oder Behörden, welche Mittel des Sondervermögens erhalten haben oder
-verwalten, Auskünfte oder Einsicht in die Geschäftsbücher und
-Geschäftspapiere verlangen. Das gleiche gilt gegenüber den
+oder Behörden, welche Mittel des Sondervermögens erhalten haben
+oder verwalten, Auskünfte oder Einsicht in die Geschäftsbücher
+und Geschäftspapiere verlangen. Das gleiche gilt gegenüber den
 Begünstigten in den Fällen, in denen zu Lasten des Sondervermögens
 Sicherheiten bestellt, Bürgschaften oder Gewährleistungen übernommen
 oder mit Mitteln des Sondervermögens Beteiligungen erworben worden
 sind.
 
-(2) Das Bundesministerium für Wirtschaft und Technologie kann sich bei
-der Ausübung des Prüfungsrechts gegenüber den durchleitenden
+(2) Das Bundesministerium für Wirtschaft und Technologie kann sich
+bei der Ausübung des Prüfungsrechts gegenüber den durchleitenden
 Kreditinstituten und den Endkreditnehmern der Vermittlung der
 Hauptleihinstitute bedienen.
 
@@ -226,9 +226,9 @@ Gesetz nichts Abweichendes ergibt.
 
 ## § 15
 
-Auf die Verpflichtungen des Sondervermögens, Abgaben an den Bund, die
-Länder, die Gemeinden (Gemeindeverbände) und Körperschaften des
-öffentlichen Rechts zu entrichten, finden die allgemein für
+Auf die Verpflichtungen des Sondervermögens, Abgaben an den Bund,
+die Länder, die Gemeinden (Gemeindeverbände) und Körperschaften
+des öffentlichen Rechts zu entrichten, finden die allgemein für
 Bundesbehörden geltenden Vorschriften Anwendung.
 
 

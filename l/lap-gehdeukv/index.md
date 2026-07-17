@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Laufbahn, Ausbildung und Prüfung für den gehobenen technischen
-  Dienst bei der Eisenbahn-Unfallkasse
+Title: Verordnung über die Laufbahn, Ausbildung und Prüfung für den gehobenen technischen Dienst bei der Eisenbahn-Unfallkasse
 jurabk: LAP-gehDEUKV
 layout: default
 origslug: lap-gehdeukv
@@ -42,62 +41,14 @@ Unfallkasse umfasst den Vorbereitungsdienst, die Probezeit und alle
 (2) Die Beamtinnen und Beamten führen in der Laufbahn folgende Dienst-
 und Amtsbezeichnungen:
 
-*    *   1.
-
-    *   im Vorbereitungsdienst
-
-    *   Technische Verwaltungsinspektoranwärterin/Technischer
-        Verwaltungsinspektoranwärter,
-
-
-*    *   2.
-
-    *   in der Probezeit bis zur Anstellung
-
-    *   Technische Verwaltungsoberinspektorin zur Anstellung (z.
-        A.)/Technischer Verwaltungsoberinspektor zur Anstellung (z. A.),
-
-
-*    *   3.
-
-    *   im Eingangsamt (Besoldungsgruppe A 10)
-
-    *   Technische Verwaltungsoberinspektorin/Technischer
-        Verwaltungsoberinspektor,
-
-
-*    *   4.
-
-    *   in den Beförderungsämtern der
-
-    *
-
-*    *
-    *   a)
-
-    *   Besoldungsgruppe A 11
-
-    *   Technische Verwaltungsamtfrau/Technischer Verwaltungsamtmann,
-
-
-*    *
-    *   b)
-
-    *   Besoldungsgruppe A 12
-
-    *   Technische Verwaltungsamtsrätin/Technischer Verwaltungsamtsrat,
-
-
-*    *
-    *   c)
-
-    *   Besoldungsgruppe A 13
-
-    *   Technische Verwaltungsoberamtsrätin/Technischer
-        Verwaltungsoberamtsrat.
-
-
-
+| 1. | im Vorbereitungsdienst | Technische Verwaltungsinspektoranwärterin/Technischer Verwaltungsinspektoranwärter, |  |
+| --- | --- | --- | --- |
+| 2. | in der Probezeit bis zur Anstellung | Technische Verwaltungsoberinspektorin zur Anstellung (z. A.)/Technischer Verwaltungsoberinspektor zur Anstellung (z. A.), |  |
+| 3. | im Eingangsamt (Besoldungsgruppe A 10) | Technische Verwaltungsoberinspektorin/Technischer Verwaltungsoberinspektor, |  |
+| 4. | in den Beförderungsämtern der |  |  |
+|  | a) | Besoldungsgruppe A 11 | Technische Verwaltungsamtfrau/Technischer Verwaltungsamtmann, |
+|  | b) | Besoldungsgruppe A 12 | Technische Verwaltungsamtsrätin/Technischer Verwaltungsamtsrat, |
+|  | c) | Besoldungsgruppe A 13 | Technische Verwaltungsoberamtsrätin/Technischer Verwaltungsoberamtsrat. |
 
 (3) Die Ämter der Laufbahn sind regelmäßig zu durchlaufen.
 
@@ -109,8 +60,8 @@ oder Leiter der Außenbüros tätig.
 
 ## § 2 Ziel des Vorbereitungsdienstes
 
-Der Vorbereitungsdienst vermittelt den Anwärterinnen und Anwärtern die
-wissenschaftlichen Erkenntnisse und Methoden sowie die
+Der Vorbereitungsdienst vermittelt den Anwärterinnen und Anwärtern
+die wissenschaftlichen Erkenntnisse und Methoden sowie die
 berufspraktischen Fähigkeiten, Kenntnisse und Fertigkeiten, die zur
 Erfüllung der Aufgaben in der Laufbahn des gehobenen technischen
 Dienstes bei der Eisenbahn-Unfallkasse erforderlich sind.
@@ -118,8 +69,8 @@ Dienstes bei der Eisenbahn-Unfallkasse erforderlich sind.
 
 ## § 3 Einstellungsbehörde
 
-Einstellungsbehörde ist die Eisenbahn-Unfallkasse. Ihr obliegen die
-Bedarfsermittlung, die Ausschreibung, die Durchführung des
+Einstellungsbehörde ist die Eisenbahn-Unfallkasse. Ihr obliegen
+die Bedarfsermittlung, die Ausschreibung, die Durchführung des
 Auswahlverfahrens, die Einstellung, die Beaufsichtigung sowie die
 Betreuung der Anwärterinnen und Anwärter.
 
@@ -131,15 +82,11 @@ In den Vorbereitungsdienst kann eingestellt werden, wer
 1.  die gesetzlichen Voraussetzungen für die Berufung in das
     Bundesbeamtenverhältnis erfüllt und
 
-
 2.  die in den §§ 4 und 5 der Prüfungsordnung des Bundesverbandes der
     Unfallversicherungsträger der öffentlichen Hand e.V. (BAGUV) für
     Aufsichtspersonen nach § 18 des Siebten Buches Sozialgesetzbuch
     (Prüfungsordnung) vom 15. Mai 1997 (EUK-Dialog Nr. 1/98 vom 13. März
     1998, S. 109 ff.) geforderte Vorbildung nachweisen kann.
-
-
-
 
 
 ## § 5 Ausschreibung, Bewerbung
@@ -152,33 +99,22 @@ Bewerbung sind beizufügen:
 
 1.  ein Lebenslauf,
 
-
 2.  ein Lichtbild aus neuester Zeit,
-
 
 3.  Kopien der letzten Schulzeugnisse, des Diplomzeugnisses, der
     Diplomurkunde sowie der Zeugnisse über die Tätigkeiten nach § 5 der
     Prüfungsordnung vom 15. Mai 1997,
 
-
 4.  eine Erklärung der Bewerberin oder des Bewerbers über schwebende
     Ermittlungs- und sonstige Strafverfahren und
-
 
 5.  gegebenenfalls Kopien
 
     a)  des Schwerbehindertenausweises oder des Bescheides über die
         Gleichstellung als schwerbehinderter Mensch und
 
-
     b)  des Zulassungs- oder Eingliederungsscheins oder der Bestätigung nach §
-        10 Abs. 4 des Soldatenversorgungsgesetzes.
-
-
-
-
-
-
+        14 Absatz 3 des Soldatenversorgungsgesetzes.
 
 
 ## § 6 Auswahlverfahren
@@ -190,8 +126,8 @@ auf Grund ihrer Kenntnisse, Fähigkeiten und persönlichen Eigenschaften
 für die Übernahme in den Vorbereitungsdienst der Laufbahn geeignet
 sind.
 
-(2) Zum Auswahlverfahren kann nur zugelassen werden, wer nach den
-eingereichten Unterlagen die in der Ausschreibung genannten
+(2) Zum Auswahlverfahren kann nur zugelassen werden, wer nach
+den eingereichten Unterlagen die in der Ausschreibung genannten
 Voraussetzungen erfüllt.
 
 (3) Bewerberinnen und Bewerber, die schon nach den eingereichten
@@ -222,10 +158,10 @@ Bewerbern.
 
 (2) Vor der Einstellung haben die Bewerberinnen und Bewerber
 Ausfertigungen der Personenstandsurkunden (Geburtsurkunde,
-gegebenenfalls Eheurkunde sowie Geburtsurkunden der Kinder), ein
-Führungszeugnis nach § 30 des Bundeszentralregistergesetzes zur
-unmittelbaren Vorlage bei der Einstellungsbehörde sowie eine Erklärung
-über das Vorliegen geordneter wirtschaftlicher Verhältnisse
+gegebenenfalls Eheurkunde sowie Geburtsurkunden der Kinder),
+ein Führungszeugnis nach § 30 des Bundeszentralregistergesetzes
+zur unmittelbaren Vorlage bei der Einstellungsbehörde sowie eine
+Erklärung über das Vorliegen geordneter wirtschaftlicher Verhältnisse
 nachzureichen. Eine amtsärztliche Einstellungsuntersuchung wird durch
 die Eisenbahn-Unfallkasse veranlasst.
 
@@ -244,24 +180,24 @@ unterstehen der Dienstaufsicht der Einstellungsbehörde.
 ## § 9 Verlängerung des Vorbereitungsdienstes
 
 (1) Wird die Ausbildung wegen Krankheit oder aus anderen zwingenden
-Gründen unterbrochen, können Ausbildungsabschnitte verkürzt und
-Abweichungen vom Ausbildungsplan zugelassen werden, um eine
+Gründen unterbrochen, können Ausbildungsabschnitte verkürzt
+und Abweichungen vom Ausbildungsplan zugelassen werden, um eine
 zielgerechte Fortsetzung des Vorbereitungsdienstes zu ermöglichen.
 
-(2) Der Vorbereitungsdienst ist im Einzelfall zu verlängern, wenn die
-Ausbildung wegen einer Erkrankung, wegen eines Beschäftigungsverbots
-für die Zeit vor oder nach einer Entbindung nach
-mutterschutzrechtlichen Vorschriften oder wegen einer Elternzeit,
-durch Ableistung des Grundwehrdienstes oder eines Ersatzdienstes oder
-aus anderen zwingenden Gründen unterbrochen worden und bei Verkürzung
-von Ausbildungsabschnitten die zielgerechte Fortsetzung des
+(2) Der Vorbereitungsdienst ist im Einzelfall zu verlängern,
+wenn die Ausbildung wegen einer Erkrankung, wegen eines
+Beschäftigungsverbots für die Zeit vor oder nach einer Entbindung
+nach mutterschutzrechtlichen Vorschriften oder wegen einer Elternzeit,
+durch Ableistung des Grundwehrdienstes oder eines Ersatzdienstes
+oder aus anderen zwingenden Gründen unterbrochen worden und bei
+Verkürzung von Ausbildungsabschnitten die zielgerechte Fortsetzung des
 Vorbereitungsdienstes nicht gewährleistet ist.
 
 (3) Der Vorbereitungsdienst kann - nach Anhörung der Anwärterinnen und
 Anwärter - höchstens zweimal um nicht mehr als insgesamt zwölf Monate
-verlängert werden. Die Verlängerung soll so bemessen werden, dass die
-Laufbahnprüfung zusammen mit den Anwärterinnen und Anwärtern, die zu
-einem späteren Zeitpunkt eingestellt worden sind, abgelegt werden
+verlängert werden. Die Verlängerung soll so bemessen werden, dass
+die Laufbahnprüfung zusammen mit den Anwärterinnen und Anwärtern, die
+zu einem späteren Zeitpunkt eingestellt worden sind, abgelegt werden
 kann.
 
 (4) Bei Nichtbestehen der Laufbahnprüfung richtet sich die
@@ -271,15 +207,15 @@ vom 15. Mai 1997.
 
 ## § 10 Schwerbehinderte Menschen
 
-(1) Schwerbehinderten Menschen werden im Auswahlverfahren sowie für
-die Erbringung von Leistungsnachweisen und für die Teilnahme an
+(1) Schwerbehinderten Menschen werden im Auswahlverfahren sowie
+für die Erbringung von Leistungsnachweisen und für die Teilnahme an
 Prüfungen die ihrer Behinderung angemessenen Erleichterungen gewährt.
 Hierauf sind sie rechtzeitig hinzuweisen. Art und Umfang der zu
 gewährenden Erleichterungen sind mit den schwerbehinderten Menschen
 und der Schwerbehindertenvertretung rechtzeitig, sofern dies zeitlich
 möglich ist, zu erörtern. Die Erleichterungen dürfen nicht dazu
-führen, dass die Anforderungen herabgesetzt werden. Die Sätze 1 bis 4
-werden auch bei aktuellen Behinderungen, die nicht unter den Schutz
+führen, dass die Anforderungen herabgesetzt werden. Die Sätze 1 bis
+4 werden auch bei aktuellen Behinderungen, die nicht unter den Schutz
 des Neunten Buches Sozialgesetzbuch fallen, angewandt.
 
 (2) Im Auswahlverfahren wird die Schwerbehindertenvertretung nicht
@@ -299,9 +235,9 @@ Regelungen der Prüfungsordnung vom 15. Mai 1997.
 abzulegende Prüfung wird als Laufbahnprüfung anerkannt. Einer
 besonderen Zuerkennung der Befähigung bedarf es nicht.
 
-(2) Der Prüfungsausschuss nach § 8 der Prüfungsordnung vom 15. Mai
-1997 erteilt den Anwärterinnen und Anwärtern über das Ergebnis der
-bestandenen Prüfung ein Prüfungszeugnis. Ist die Prüfung nicht
+(2) Der Prüfungsausschuss nach § 8 der Prüfungsordnung vom 15.
+Mai 1997 erteilt den Anwärterinnen und Anwärtern über das Ergebnis
+der bestandenen Prüfung ein Prüfungszeugnis. Ist die Prüfung nicht
 bestanden, erteilt die oder der Vorsitzende des Prüfungsausschusses
 hierüber einen schriftlichen Bescheid. Abschriften dieser Unterlagen
 sind zu den Personalakten zu nehmen.
@@ -328,12 +264,12 @@ Technischen Verwaltungsoberinspektoren zur Anstellung (z. A.) ernannt.
 
 ## § 15 Gleichwertige Befähigung
 
-Die Befähigung für die Laufbahn des gehobenen technischen Dienstes bei
-der Eisenbahn-Unfallkasse wird auch Bewerberinnen und Bewerbern
-zuerkannt, die außerhalb des Vorbereitungsdienstes eine Ausbildung als
-Aufsichtsperson gemäß § 18 des Siebten Buches Sozialgesetzbuch
-abgeschlossen haben. Diese Bewerberinnen und Bewerber werden direkt -
-unter Berufung in das Beamtenverhältnis auf Probe - zu Technischen
+Die Befähigung für die Laufbahn des gehobenen technischen Dienstes
+bei der Eisenbahn-Unfallkasse wird auch Bewerberinnen und Bewerbern
+zuerkannt, die außerhalb des Vorbereitungsdienstes eine Ausbildung
+als Aufsichtsperson gemäß § 18 des Siebten Buches Sozialgesetzbuch
+abgeschlossen haben. Diese Bewerberinnen und Bewerber werden direkt
+- unter Berufung in das Beamtenverhältnis auf Probe - zu Technischen
 Verwaltungsoberinspektorinnen zur Anstellung (z. A.) oder zu
 Technischen Verwaltungsoberinspektoren zur Anstellung (z. A.) ernannt.
 Sie gelten als Regellaufbahnbewerberinnen und Regellaufbahnbewerber.

@@ -18,8 +18,8 @@ Fundstelle
 
 ## Eingangsformel
 
-Auf Grund des § 27 Absatz 6 Satz 8 des Tiergesundheitsgesetzes vom 22.
-Mai 2013 (BGBl. I S. 1324) in Verbindung mit § 1 Absatz 2 des
+Auf Grund des § 27 Absatz 6 Satz 8 des Tiergesundheitsgesetzes vom
+22\. Mai 2013 (BGBl. I S. 1324) in Verbindung mit § 1 Absatz 2 des
 Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165)
 und dem Organisationserlass vom 17. Dezember 2013 (BGBl. I S. 4310),
 verordnet das Bundesministerium für Ernährung und Landwirtschaft:
@@ -34,39 +34,29 @@ Institut (Kommission)
     Tierarzneimitteln im Sinne des § 11 Absatz 1 Satz 1 des
     Tiergesundheitsgesetzes,
 
-
 2.  kann Empfehlungen abgeben zur Durchführung von Impfungen mit
     immunologischen Tierarzneimitteln,
 
-    a)  die nach § 11 Absatz 1 Satz 2 des Tiergesundheitsgesetzes keiner
-        Zulassung oder Genehmigung nach § 11 Absatz 1 Satz 1 des
+    a)  die nach § 11 Absatz 1 Satz 2 des Tiergesundheitsgesetzes
+        keiner Zulassung oder Genehmigung nach § 11 Absatz 1 Satz 1 des
         Tiergesundheitsgesetzes bedürfen,
-
 
     b)  bei denen nach § 11 Absatz 4 Satz 1 Nummer 1 des
         Tiergesundheitsgesetzes von der Zulassung abgesehen wurde oder
 
-
     c)  bei denen nach § 11 Absatz 4 Satz 1 Nummer 2 des
         Tiergesundheitsgesetzes eine vorläufige Zulassung erteilt wurde,
-
-
-
-
 
 3.  prüft und bewertet Fragen im Zusammenhang mit Impfungen von Tieren,
     insbesondere zu Kreuzimmunitäten, und
 
-
-4.  berät die Bundesregierung zu Fragen im Zusammenhang mit Impfungen von
-    Tieren.
-
-
+4.  berät die Bundesregierung zu Fragen im Zusammenhang mit Impfungen
+    von Tieren.
 
 Die Aufgaben nach Satz 1 sind auf die Tierarten Einhufer, Rinder,
 kleine Wiederkäuer, Schweine, Hunde, Katzen, Geflügel und Fische
-beschränkt. Die Befassung mit weiteren Tierarten bedarf der Zustimmung
-des Bundesministeriums für Ernährung und Landwirtschaft
+beschränkt. Die Befassung mit weiteren Tierarten bedarf der
+Zustimmung des Bundesministeriums für Ernährung und Landwirtschaft
 (Bundesministerium). Die Kommission berücksichtigt bei der Erfüllung
 ihrer Aufgaben den Stand der Wissenschaft und Technik und hält ihre
 Empfehlungen auf diesem Stand.
@@ -75,13 +65,12 @@ Empfehlungen auf diesem Stand.
 ## § 2 Berufung der Mitglieder
 
 (1) Das Friedrich-Loeffler-Institut beruft acht Mitglieder und für
+jedes dieser Mitglieder jeweils ein stellvertretendes Mitglied aus
+dem gleichen Fachbereich wie das Mitglied in die Kommission. Soweit es
+zur sachgerechten Erledigung der Aufgaben nach § 1 Satz 1 erforderlich
+ist, können zusätzlich bis zu vier ordentliche Mitglieder und für
 jedes dieser Mitglieder jeweils ein stellvertretendes Mitglied aus dem
-gleichen Fachbereich wie das Mitglied in die Kommission. Soweit es zur
-sachgerechten Erledigung der Aufgaben nach § 1 Satz 1 erforderlich
-ist, können zusätzlich bis zu
-vier ordentliche              Mitglieder und für jedes dieser
-Mitglieder jeweils ein stellvertretendes Mitglied aus dem gleichen
-Fachbereich wie das Mitglied berufen werden.
+gleichen Fachbereich wie das Mitglied berufen werden.
 
 (2) Als Mitglied oder stellvertretendes Mitglied im Sinne des Absatzes
 1 Satz 1 oder 2 kann berufen werden, wer über die für die Tätigkeit in
@@ -96,18 +85,18 @@ veröffentlichen.
 
 ## § 3 Mitgliedschaft
 
-(1) Die Tätigkeit in der Kommission wird ehrenamtlich ausgeübt. Für
-die Ausübung der ehrenamtlichen Tätigkeit und die
-Verschwiegenheitspflicht gelten die §§ 83 und 84 des
+(1) Die Tätigkeit in der Kommission wird ehrenamtlich
+ausgeübt. Für die Ausübung der ehrenamtlichen Tätigkeit und
+die Verschwiegenheitspflicht gelten die §§ 83 und 84 des
 Verwaltungsverfahrensgesetzes entsprechend.
 
-(2) Die Mitgliedschaft beginnt mit dem in dem Berufungsschreiben für
-den Beginn der Berufungsdauer angegebenen Zeitpunkt oder, wenn ein
-solcher nicht angegeben ist, mit der Bekanntgabe des
+(2) Die Mitgliedschaft beginnt mit dem in dem Berufungsschreiben
+für den Beginn der Berufungsdauer angegebenen Zeitpunkt oder,
+wenn ein solcher nicht angegeben ist, mit der Bekanntgabe des
 Berufungsschreibens an den Adressaten. Die Mitgliedschaft endet nach
 Ablauf von drei Jahren, gerechnet ab dem Beginn der Mitgliedschaft
-nach Satz 1. Eine Wiederberufung ist zulässig. Die Mitgliedschaft in
-der Kommission kann durch schriftliche Erklärung gegenüber dem
+nach Satz 1. Eine Wiederberufung ist zulässig. Die Mitgliedschaft
+in der Kommission kann durch schriftliche Erklärung gegenüber dem
 Friedrich-Loeffler-Institut jederzeit beendet werden.
 
 (3) Scheidet ein Mitglied vor Ablauf seiner dreijährigen
@@ -125,9 +114,9 @@ durch das Friedrich-Loeffler-Institut abberufen werden.
 
 ## § 4 Vorsitz, Vertretung
 
-(1) Die Mitglieder der Kommission wählen aus ihrer Mitte ein Mitglied,
-das den Vorsitz übernimmt, und ein Mitglied, das die Vertretung des
-Vorsitzes übernimmt. § 92 Absatz 1 und 2 des
+(1) Die Mitglieder der Kommission wählen aus ihrer Mitte ein
+Mitglied, das den Vorsitz übernimmt, und ein Mitglied, das die
+Vertretung des Vorsitzes übernimmt. § 92 Absatz 1 und 2 des
 Verwaltungsverfahrensgesetzes gilt entsprechend. Eine Wiederwahl ist
 zulässig.
 
@@ -150,8 +139,8 @@ oder Einholung von Gutachten nach § 6 Absatz 1 Satz 1 machen.
 
 ## § 6 Sachverständige, Gutachten
 
-(1) Die Kommission kann schriftlich beschließen, zur Erfüllung ihrer
-Aufgaben Sachverständige zu hören oder für die Mitarbeit in
+(1) Die Kommission kann schriftlich beschließen, zur Erfüllung
+ihrer Aufgaben Sachverständige zu hören oder für die Mitarbeit in
 Arbeitskreisen hinzuziehen oder Gutachten beizuziehen oder einzuholen,
 soweit dies im Einzelfall erforderlich ist. Der Beschluss bedarf einer
 Begründung, aus der sich die tragenden Erwägungen und die fachliche
@@ -160,10 +149,10 @@ ist dem Friedrich-Loeffler-Institut bekannt zu geben.
 
 (2) Sachverständige, die nach Absatz 1 Satz 1 angehört oder zur
 Mitarbeit hinzugezogen werden, werden dadurch nicht Mitglied der
-Kommission. Für sie gelten die Pflichten zur Verschwiegenheit nach § 3
-Absatz 1 Satz 2 entsprechend. Zum Schutz vor Interessenkonflikten und
-zur Vermeidung der Besorgnis der Befangenheit sind die Grundsätze der
-§§ 20 und 21 des Verwaltungsverfahrensgesetzes entsprechend
+Kommission. Für sie gelten die Pflichten zur Verschwiegenheit nach §
+3 Absatz 1 Satz 2 entsprechend. Zum Schutz vor Interessenkonflikten
+und zur Vermeidung der Besorgnis der Befangenheit sind die Grundsätze
+der §§ 20 und 21 des Verwaltungsverfahrensgesetzes entsprechend
 anzuwenden. Hierauf sind Sachverständige vor Beginn ihrer Tätigkeit
 für die Kommission oder für einen Arbeitskreis in geeigneter Form
 hinzuweisen.
@@ -178,13 +167,13 @@ angehören. Ein Mitglied kann mehreren Arbeitskreisen angehören. Die
 Kommission bestimmt die Anzahl der Personen der Arbeitskreise und
 jeweils einen Sprecher, der die Arbeitsergebnisse in der Kommission
 vertritt. Die Kommission kann einen Arbeitskreis ermächtigen,
-Gutachten beizuziehen, Sachverständige anzuhören, zur Mitarbeit in
-einem Arbeitskreis hinzuzuziehen oder mit der Erstellung eines
-Gutachtens zu beauftragen. Für den Arbeitskreis gilt § 6 Absatz 1
-entsprechend.
+Gutachten beizuziehen, Sachverständige anzuhören, zur Mitarbeit
+in einem Arbeitskreis hinzuzuziehen oder mit der Erstellung eines
+Gutachtens zu beauftragen. Für den Arbeitskreis gilt § 6 Absatz
+1 entsprechend.
 
-(2) Die Arbeitskreise haben ihre Arbeitsergebnisse der Kommission zur
-Beratung und Beschlussfassung zu unterbreiten. § 9 Absatz 2, § 11
+(2) Die Arbeitskreise haben ihre Arbeitsergebnisse der Kommission
+zur Beratung und Beschlussfassung zu unterbreiten. § 9 Absatz 2, § 11
 Absatz 1 und § 13 Absatz 1 sind entsprechend anzuwenden.
 
 
@@ -192,8 +181,8 @@ Absatz 1 und § 13 Absatz 1 sind entsprechend anzuwenden.
 
 Auf Einladung der Kommission können nicht der Kommission angehörende
 Personen, auch Vertreter privater oder öffentlich-rechtlicher
-Einrichtungen oder von Behörden, an den Sitzungen der Kommission oder
-eines Arbeitskreises teilnehmen. Sie haben kein Stimmrecht und
+Einrichtungen oder von Behörden, an den Sitzungen der Kommission
+oder eines Arbeitskreises teilnehmen. Sie haben kein Stimmrecht und
 erhalten keine Reisekostenerstattung oder sonstige Erstattungen oder
 Entschädigungen. Hierauf ist in der Einladung nach Satz 1 hinzuweisen.
 Nach Satz 1 eingeladene Sitzungsteilnehmer haben sich vor Beginn der
@@ -202,14 +191,13 @@ Sitzung schriftlich zur Verschwiegenheit zu verpflichten.
 
 ## § 9 Geschäftsstelle
 
-(1) Die Kommission hat eine in Angelegenheiten
-der Kommission              fachlich unabhängige Geschäftsstelle beim
-Friedrich-Loeffler-Institut.
+(1) Die Kommission hat eine in Angelegenheiten der Kommission fachlich
+unabhängige Geschäftsstelle beim Friedrich-Loeffler-Institut.
 
 (2) Die Geschäftsstelle führt die laufenden Geschäfte der Kommission
 einschließlich der Vorbereitung der Sitzungen und der Vorbereitung,
-Weiterleitung und Bekanntmachung ihrer Beschlüsse und unterstützt die
-Kommission, die Arbeitskreise und die Berichterstatter bei der
+Weiterleitung und Bekanntmachung ihrer Beschlüsse und unterstützt
+die Kommission, die Arbeitskreise und die Berichterstatter bei der
 Wahrnehmung ihren Aufgaben.
 
 
@@ -217,16 +205,16 @@ Wahrnehmung ihren Aufgaben.
 
 (1) Die Sitzungen der Kommission finden in regelmäßigen Abständen
 statt. Die Sitzungen sollen in der Regel als Präsenzsitzungen
-stattfinden. Sie können auf Vorschlag des Vorsitzes, soweit dies im
-Einzelfall erforderlich ist und kein stimmberechtigtes Mitglied
+stattfinden. Sie können auf Vorschlag des Vorsitzes, soweit dies
+im Einzelfall erforderlich ist und kein stimmberechtigtes Mitglied
 widerspricht, auch als Telefonkonferenzen oder Videokonferenzen
 stattfinden.
 
 (2) Auf Antrag von mindestens fünf Mitgliedern der Kommission ist zu
 einer außerordentlichen Sitzung einzuladen.
 
-(3) Der Vorsitz beruft die Kommission ein und stellt für jede Sitzung
-eine Tagesordnung auf. Die Mitglieder können Vorschläge zur
+(3) Der Vorsitz beruft die Kommission ein und stellt für jede
+Sitzung eine Tagesordnung auf. Die Mitglieder können Vorschläge zur
 Tagesordnung unterbreiten.
 
 (4) Die Einladung, die Tagesordnung und die Sitzungsunterlagen sollen
@@ -264,9 +252,9 @@ Vertraulichkeit gewahrt ist.
 
 (1) Die Kommission ist beschlussfähig, wenn alle stimmberechtigten
 Mitglieder geladen und mindestens sechs stimmberechtigte Mitglieder
-anwesend sind oder im Rahmen einer Telefon- oder Videokonferenz an der
-Sitzung teilnehmen. Beschlüsse werden mit der Mehrheit der Stimmen der
-stimmberechtigten Mitglieder gefasst. Stimmengleichheit gilt als
+anwesend sind oder im Rahmen einer Telefon- oder Videokonferenz an
+der Sitzung teilnehmen. Beschlüsse werden mit der Mehrheit der Stimmen
+der stimmberechtigten Mitglieder gefasst. Stimmengleichheit gilt als
 Ablehnung.
 
 (2) Beschlüsse können auch im schriftlichen Verfahren gefasst werden,
@@ -276,25 +264,24 @@ Satz 2 und 3 gilt entsprechend.
 (3) Überstimmte Mitglieder können verlangen, dass ein Minderheitsvotum
 bei der Veröffentlichung von Beschlüssen der Kommission
 mitveröffentlicht wird. Ein Minderheitsvotum ist zulässig, wenn das
-Mitglied die Stellungnahme als Ganzes ablehnt und der Gegenstand des
-Minderheitsvotums in die Beratung eingeführt worden ist. Das
+Mitglied die Stellungnahme als Ganzes ablehnt und der Gegenstand
+des Minderheitsvotums in die Beratung eingeführt worden ist. Das
 Minderheitsvotum ist zu begründen. Aus der Begründung muss sich
 ergeben, auf welchen Erwägungen die Ablehnung des Beschlusses beruht.
 
 (4) Mitglieder, deren Befangenheit zu besorgen ist, dürfen nicht an
-der Beschlussfassung und an den
-mit ihr              zusammenhängenden Beratungen teilnehmen.
-Besorgnis der Befangenheit liegt vor, wenn ein Grund gegeben ist, der
-geeignet ist, Misstrauen gegen die Unparteilichkeit eines Mitgliedes
-zu rechtfertigen.
+der Beschlussfassung und an den mit ihr zusammenhängenden Beratungen
+teilnehmen. Besorgnis der Befangenheit liegt vor, wenn ein Grund
+gegeben ist, der geeignet ist, Misstrauen gegen die Unparteilichkeit
+eines Mitgliedes zu rechtfertigen.
 
 (5) Hält sich ein Mitglied für befangen, unterrichtet es unverzüglich
 den Vorsitz. Über den Ausschluss wegen Befangenheit entscheiden die
 Mitglieder mit Ausnahme des Mitglieds, das sich für befangen erklärt
 hat.
 
-(6) Ein nach Absatz 4 oder Absatz 5 ausgeschlossenes Mitglied darf bei
-der weiteren Beratung des die Befangenheit begründenden
+(6) Ein nach Absatz 4 oder Absatz 5 ausgeschlossenes Mitglied
+darf bei der weiteren Beratung des die Befangenheit begründenden
 Beratungsgegenstandes und bei der Beschlussfassung darüber nicht
 anwesend sein.
 
@@ -308,12 +295,12 @@ anzuwenden.
 Sitzungsniederschrift, die Ort und Tag der Sitzung, die
 Beratungsgegenstände, den wesentlichen Inhalt und das Ergebnis der
 Beratungen sowie die Stimmenverhältnisse ausweist. Minderheitsvoten
-werden in der Niederschrift vermerkt. Der Sitzungsniederschrift ist
-eine Liste der Sitzungsteilnehmer getrennt nach ordentlichen
+werden in der Niederschrift vermerkt. Der Sitzungsniederschrift
+ist eine Liste der Sitzungsteilnehmer getrennt nach ordentlichen
 Mitgliedern und stellvertretenden Mitgliedern beizufügen.
 
-(2) Die Sitzungsniederschrift ist von dem oder der Vorsitzenden und
-von einem oder einer Beauftragten der Geschäftsstelle zu
+(2) Die Sitzungsniederschrift ist von dem oder der Vorsitzenden
+und von einem oder einer Beauftragten der Geschäftsstelle zu
 unterzeichnen.
 
 (3) Die Geschäftsstelle übersendet die Sitzungsniederschrift an die

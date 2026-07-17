@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Erstattung und Umlage von Kosten der Bundesanstalt für
-  Finanzmarktstabilisierung
+Title: Verordnung über die Erstattung und Umlage von Kosten der Bundesanstalt für Finanzmarktstabilisierung
 jurabk: FMSAKostV
 layout: default
 origslug: fmsakostv
@@ -16,8 +15,17 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2015, 1928
 
+Stand
+:   Zukünftige amtl. Langüberschrift: Verordnung über die Erstattung und Umlage von Kosten im Zusammenhang mit der Finanzmarktstabilisierung (ab 1.1.2026; BGBl. 2025 I Nr. 69)
+
+Stand
+:   Zukünftige amtl. Kurzüberschrift: FMS-Kostenverordnung (ab 1.1.2026; BGBl. 2025 I Nr. 69)
+
+Stand
+:   Zukünftige amtl. Buchstabenankürzung: FMSKostV (ab 1.1.2026; BGBl. 2025 I Nr. 69)
+
 Zuletzt geändert durch
-:   Art. 4 Abs. 3 G v. 10.7.2020 I 1633
+:   Art. 6 G v. 28.2.2025 I Nr. 69
 
 
 ## Abschnitt 1 - Kostenerstattung
@@ -31,13 +39,9 @@ zurechenbaren Kosten an den Bund verpflichtet ist,
 1.  wer die Verpflichtung zur Kostenerstattung durch
     Verpflichtungserklärung oder Vertrag übernommen hat, oder
 
-
 2.  für den eine Verpflichtung zur Kostenerstattung gesetzlich oder
     hoheitlich angeordnet ist oder der für die Verpflichtung eines anderen
     zur Kostenerstattung gesetzlich haftet.
-
-
-
 
 (2) Mehrere Kostenschuldner haften als Gesamtschuldner.
 
@@ -46,29 +50,23 @@ zurechenbaren Kosten an den Bund verpflichtet ist,
 
 (1) Die Pflicht zur Kostenerstattung entsteht mit Beendigung der
 Leistung, für die Kosten zu erstatten sind. Bedarf diese Leistung
-einer Zustellung, Eröffnung oder sonstigen Bekanntgabe, so gilt diese
-jeweils als deren Beendigung. Abweichend von Satz 1 entsteht die
-Pflicht zur Kostenerstattung bei laufenden Überwachungs- und sonstigen
-laufenden Maßnahmen, die sich voraussichtlich über einen längeren
-Zeitraum als ein Jahr erstrecken, jährlich zum 31. März eines
-Kalenderjahres, es sei denn, die Bundesanstalt für
-Finanzmarktstabilisierung (Anstalt) oder die Bundesrepublik
-Deutschland – Finanzagentur GmbH (Finanzagentur) legen einen anderen
-Zeitpunkt fest.
+einer Zustellung, Eröffnung oder sonstigen Bekanntgabe, so gilt
+diese jeweils als deren Beendigung. Abweichend von Satz 1 entsteht
+die Pflicht zur Kostenerstattung bei laufenden Überwachungs- und
+sonstigen laufenden Maßnahmen, die sich voraussichtlich über einen
+längeren Zeitraum als ein Jahr erstrecken, jährlich zum 31. März
+eines Kalenderjahres, es sei denn, die Bundesrepublik Deutschland –
+Finanzagentur GmbH (Finanzagentur) legt einen anderen Zeitpunkt fest.
 
 (2) Abweichend von Absatz 1 entsteht die Pflicht zur Kostenerstattung,
 
 1.  im Zeitpunkt der bestandskräftigen Ablehnung, Rücknahme oder der
     sonstigen Erledigung eines Antrags oder
 
-
 2.  wenn eine Leistung aus Gründen, die der Betroffene zu vertreten hat,
     nicht zum festgesetzten Termin erbracht werden kann oder abgebrochen
     werden muss, im Zeitpunkt des für die Erbringung der Leistung
     festgesetzten Termins oder im Zeitpunkt des Abbruchs der Leistung.
-
-
-
 
 (3) Abweichend von den Absätzen 1 und 2 entsteht die Pflicht zur
 Kostenerstattung, die durch Verpflichtungserklärung oder Vertrag
@@ -86,15 +84,15 @@ ihrer Beendigung entstehen.
 
 (2) Die zu erstattenden Kosten können in Form von Kostenpauschalen
 berechnet werden. Zur Festlegung der Höhe und sonstigen Einzelheiten
-der Kostenpauschalen erstellen die Anstalt und die Finanzagentur
-Regelungen, die der Einwilligung des Bundesministeriums der Finanzen
-bedürfen. Bei der Festlegung der Höhe der Kostenpauschalen ist
-zwischen einzelnen Maßnahmen oder Tätigkeiten zu unterscheiden.
-Außerdem kann die Höhe der Kostenpauschale von dem Wert der jeweiligen
-Leistungen abhängig gemacht werden.
+der Kostenpauschalen erstellt die Finanzagentur Regelungen, die
+der Einwilligung des Bundesministeriums der Finanzen bedürfen. Bei
+der Festlegung der Höhe der Kostenpauschalen ist zwischen einzelnen
+Maßnahmen oder Tätigkeiten zu unterscheiden. Außerdem kann die Höhe
+der Kostenpauschale von dem Wert der jeweiligen Leistungen abhängig
+gemacht werden.
 
-(3) In den Regelungen zu den Kostenpauschalen nach Absatz 2 Satz 2
-kann der Leitungsausschuss den Entstehungszeitpunkt für die
+(3) In den Regelungen zu den Kostenpauschalen nach Absatz 2
+Satz 2 kann die Finanzagentur den Entstehungszeitpunkt für die
 Kostenpauschalen abweichend von § 2 festlegen.
 
 
@@ -102,7 +100,7 @@ Kostenpauschalen abweichend von § 2 festlegen.
 
 (1) Die Pflicht zur Kostenerstattung wird zehn Tage nach Bekanntgabe
 der Festsetzung an den Kostenschuldner fällig, es sei denn, die
-Anstalt oder die Finanzagentur legen einen anderen Zeitpunkt fest.
+Finanzagentur legt einen anderen Zeitpunkt fest.
 
 (2) Soweit die Pflicht zur Kostenerstattung durch
 Verpflichtungserklärung oder Vertrag übernommen worden ist, bestimmt
@@ -112,12 +110,11 @@ Vertrag.
 
 ### § 5 Vorschusszahlung und Sicherheitsleistung
 
-(1) Die Anstalt oder die Finanzagentur können von einem
-Kostenschuldner nach § 1 die Zahlung eines Vorschusses oder die
-Leistung einer Sicherheit bis zur Höhe der voraussichtlich zu
-erstattenden Kosten verlangen. Bei Maßnahmen, die sich über einen
-längeren Zeitraum erstrecken, können auch mehrfach Vorschüsse oder
-Sicherheitsleistungen verlangt werden.
+(1) Die Finanzagentur kann von einem Kostenschuldner nach § 1 die
+Zahlung eines Vorschusses oder die Leistung einer Sicherheit bis
+zur Höhe der voraussichtlich zu erstattenden Kosten verlangen. Bei
+Maßnahmen, die sich über einen längeren Zeitraum erstrecken, können
+auch mehrfach Vorschüsse oder Sicherheitsleistungen verlangt werden.
 
 (2) Dem Kostenschuldner ist eine Frist zur Zahlung des Vorschusses
 oder zur Leistung der Sicherheit zu setzen.
@@ -133,8 +130,8 @@ Sicherheit nach dieser Verpflichtungserklärung oder diesem Vertrag.
 
 ### § 6 Festsetzungsverjährung
 
-(1) Die Festsetzung von Kostenerstattungen sowie ihre Aufhebung oder
-Änderung ist nicht mehr zulässig, wenn die Festsetzungsfrist
+(1) Die Festsetzung von Kostenerstattungen sowie ihre Aufhebung
+oder Änderung ist nicht mehr zulässig, wenn die Festsetzungsfrist
 abgelaufen ist (Festsetzungsverjährung).
 
 (2) Die Festsetzungsfrist beträgt vier Jahre.
@@ -147,10 +144,10 @@ oder § 3 Absatz 3 entstanden ist.
 wegen höherer Gewalt innerhalb der letzten sechs Monate der
 Festsetzungsfrist nicht erfolgen kann.
 
-(5) Wird die Festsetzung angefochten, läuft die Festsetzungsfrist erst
-sechs Monate nach dem Zeitpunkt ab, an dem die Festsetzung
-unanfechtbar geworden ist. Dies gilt auch, wenn der Rechtsbehelf erst
-nach Ablauf der Festsetzungsfrist eingelegt wird. Der Ablauf der
+(5) Wird die Festsetzung angefochten, läuft die Festsetzungsfrist
+erst sechs Monate nach dem Zeitpunkt ab, an dem die Festsetzung
+unanfechtbar geworden ist. Dies gilt auch, wenn der Rechtsbehelf
+erst nach Ablauf der Festsetzungsfrist eingelegt wird. Der Ablauf der
 Festsetzungsfrist ist hinsichtlich des gesamten Anspruchs gehemmt. Für
 vor dem Ablauf der Festsetzungsfrist gestellte Anträge auf Aufhebung
 oder Änderung der Festsetzung gilt Satz 1 entsprechend.
@@ -174,44 +171,30 @@ nicht verfolgt werden kann.
 
 1.  schriftliche Geltendmachung des Anspruchs,
 
-
 2.  Zahlungsaufschub,
-
 
 3.  Stundung,
 
-
 4.  Eintritt der aufschiebenden Wirkung,
-
 
 5.  Aussetzung der Vollziehung,
 
-
 6.  Sicherheitsleistung,
-
 
 7.  Vollstreckungsaufschub,
 
-
 8.  eine Vollstreckungsmaßnahme,
 
-
 9.  Anmeldung im Insolvenzverfahren,
-
 
 10. Aufnahme in einen Insolvenzplan oder einen gerichtlichen
     Schuldenbereinigungsplan,
 
-
 11. Einbeziehung in ein Verfahren, das die Restschuldbefreiung für den
     Schuldner zum Ziel hat, oder
 
-
 12. Ermittlungen nach dem Wohnsitz oder dem Aufenthaltsort des
     Zahlungspflichtigen.
-
-
-
 
 (2) Die Unterbrechung der Zahlungsverjährung durch eine der in Absatz
 1 genannten Maßnahmen dauert fort, bis
@@ -220,28 +203,20 @@ nicht verfolgt werden kann.
     Aussetzung der Vollziehung oder der Vollstreckungsaufschub beendet
     ist,
 
-
 2.  bei Sicherheitsleistung, Pfändungspfandrecht, Zwangshypothek oder
     einem sonstigen Vorzugsrecht auf Befriedigung das entsprechende Recht
     erloschen ist,
 
-
 3.  das Insolvenzverfahren beendet ist,
-
 
 4.  der Insolvenzplan oder der gerichtliche Schuldenbereinigungsplan
     erfüllt ist oder hinfällig wird,
 
-
 5.  die Restschuldbefreiung erteilt oder versagt wird oder das Verfahren,
     das die Restschuldbefreiung zum Ziel hat, vorzeitig beendet wird oder
 
-
 6.  die Ermittlung nach dem Wohnsitz oder dem Aufenthalt des
     Zahlungspflichtigen beendet ist.
-
-
-
 
 (3) Die Zahlungsverjährung wird nur in Höhe des Betrags unterbrochen,
 auf den sich die Unterbrechungshandlung bezieht. Mit Ablauf des
@@ -259,8 +234,8 @@ nach Absatz 1 unterbrochen werden.
 ### § 9 Säumniszuschlag
 
 (1) Werden Kostenerstattungsbeträge nicht bis zum Ablauf des
-Fälligkeitstages entrichtet, so ist für jeden angefangenen Monat der
-Säumnis ein Säumniszuschlag von 1 Prozent des abgerundeten
+Fälligkeitstages entrichtet, so ist für jeden angefangenen Monat
+der Säumnis ein Säumniszuschlag von 1 Prozent des abgerundeten
 rückständigen Betrags zu entrichten. Der Säumniszuschlag wird nur
 erhoben, wenn der rückständige Betrag 50 Euro übersteigt und die
 Säumnis länger als drei Tage beträgt.
@@ -276,12 +251,8 @@ entrichtet
     Vertrages oder der Verpflichtungserklärung zuständigen Bundeskasse
     oder Zahlstelle (zuständige Kasse) oder
 
-
 2.  bei Überweisung oder Einzahlung auf ein Konto der zuständigen Kasse an
     dem Tag, an dem der Betrag der zuständigen Kasse gutgeschrieben wird.
-
-
-
 
 (4) In den Fällen der Gesamtschuld entstehen Säumniszuschläge
 gegenüber jedem säumigen Gesamtschuldner. Insgesamt ist jedoch kein
@@ -297,8 +268,8 @@ richten sich nach § 59 der Bundeshaushaltsordnung.
 
 ### § 11 Erstattung überzahlter oder zu Unrecht erhobener Kostenerstattungen
 
-(1) Überzahlte oder zu Unrecht erhobene Kostenerstattungen, die nicht
-auf der Erhebung einer Vorauszahlung beruhen, sind nach
+(1) Überzahlte oder zu Unrecht erhobene Kostenerstattungen, die
+nicht auf der Erhebung einer Vorauszahlung beruhen, sind nach
 Kenntniserlangung durch den Bund zu erstatten, zu Unrecht erhobene
 Kostenerstattungen jedoch nur, solange ihre Festsetzung noch
 anfechtbar ist.
@@ -320,16 +291,19 @@ Verjährung beginnt nicht vor der Unanfechtbarkeit der Festsetzung.
 (1) Für Unternehmen des Finanzsektors, die eine
 Stabilisierungsmaßnahme nach dem Stabilisierungsfondsgesetz beantragt
 haben und sich vor dem 10. November 2015 auf Grundlage einer
-Verpflichtungserklärung oder eines Vertrages zur Erstattung von Kosten
-verpflichtet haben, bleiben diese Verpflichtungserklärungen und
-Verträge auch nach dem 10. November 2015 wirksam.
+Verpflichtungserklärung oder eines Vertrages zur Erstattung von
+Kosten verpflichtet haben, bleiben diese Verpflichtungserklärungen
+und Verträge auch nach dem 10. November 2015 wirksam.
 Verpflichtungserklärungen und Verträge nach Satz 1 gelten als
 Verpflichtungserklärungen und Verträge im Sinne dieser Verordnung.
 
-(2) Soweit der Leitungsausschuss vor dem 10. November 2015 Regelungen
-zur Festlegung der Höhe und sonstiger Einzelheiten der
-Kostenpauschalen nach § 7 Absatz 2 Nummer 11 und § 10 Absatz 7 der
-Anlage zur Verordnung über die Satzung der Bundesanstalt für
+(2) Soweit der Leitungsausschuss der nach § 3a Absatz 1 des
+Stabilisierungsfondsgesetzes in der bis einschließlich 31.
+Dezember 2025 geltenden Fassung errichteten früheren Bundesanstalt
+für Finanzmarktstabilisierung vor dem 10. November 2015
+Regelungen zur Festlegung der Höhe und sonstiger Einzelheiten der
+Kostenpauschalen nach § 7 Absatz 2 Nummer 11 und § 10 Absatz 7
+der Anlage zur Verordnung über die Satzung der Bundesanstalt für
 Finanzmarktstabilisierung vom 21. Februar 2011 (BGBl. I S. 271) in der
 am 1. Januar 2013 geltenden Fassung festgelegt hat, bleiben diese auch
 nach dem 10. November 2015 wirksam. Sie gelten als Regelungen im Sinne
@@ -338,4 +312,10 @@ des § 3 Absatz 2 Satz 2.
 (3) Die Regelungen zur Kostenerstattung sind auch auf die bei ihrem
 Inkrafttreten anhängigen Verwaltungsverfahren anzuwenden, soweit zu
 diesem Zeitpunkt die Kostenerstattung nicht bereits festgesetzt ist.
+
+(4) Für Kosten und Sachverhalte, die die Kalenderjahre bis
+einschließlich 2025 betreffen, gelten die Regelungen dieser Verordnung
+in der bis einschließlich 31. Dezember 2025 geltenden Fassung unter
+Berücksichtigung der Regelungen in § 3a Absatz 2b und § 14e Absatz 2,
+3 und 7 des Stabilisierungsfondsgesetzes.
 

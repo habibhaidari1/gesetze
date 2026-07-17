@@ -25,8 +25,8 @@ Die v tritt gem. § 3 satz 2 mit ablauf des 31. dezember 2009 außer kraft. § 3
 ## Eingangsformel
 
 Auf Grund des § 6 Abs. 1 Nr. 3 in Verbindung mit Abs. 3 des
-Straßenverkehrsgesetzes in der Fassung der Bekanntmachung vom 5. März
-2003 (BGBl. I S. 310, 919) verordnet das Bundesministerium für
+Straßenverkehrsgesetzes in der Fassung der Bekanntmachung vom 5.
+März 2003 (BGBl. I S. 310, 919) verordnet das Bundesministerium für
 Verkehr, Bau- und Wohnungswesen nach Anhörung der zuständigen obersten
 Landesbehörden:
 

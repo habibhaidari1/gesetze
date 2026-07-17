@@ -31,10 +31,10 @@ versehen sein.
 (2) Verpflichtet zur Anbringung der Gewichtsbezeichnung ist der
 Absender.
 
-(3) Das Gewicht ist durch Wiegen festzustellen; stehen dem besondere
-Schwierigkeiten entgegen, so ist das Gewicht zu errechnen oder
-möglichst genau zu schätzen. Die Gewichtsbezeichnung ist spätestens
-vor der Verladung auf ein Schiff anzubringen. Annähernde
+(3) Das Gewicht ist durch Wiegen festzustellen; stehen dem
+besondere Schwierigkeiten entgegen, so ist das Gewicht zu errechnen
+oder möglichst genau zu schätzen. Die Gewichtsbezeichnung ist
+spätestens vor der Verladung auf ein Schiff anzubringen. Annähernde
 Gewichtsangaben sind als solche kenntlich zu machen. Ist der
 Gegenstand bereits mit einer Gewichtsbezeichnung versehen, so ist der
 Absender zum Nachwiegen nur dann verpflichtet, wenn die Gewichtsangabe
@@ -54,13 +54,13 @@ Abs. 1, 2 und 4 der Gewerbeordnung findet entsprechende Anwendung.
 
 (2) Sind Gegenstände der in § 1 Abs. 1 genannten Art entgegen den
 Vorschriften nicht bezeichnet, so kann die für die Hafen- oder
-Schiffahrtspolizei zuständige Behörde das Wiegen und das Anbringen der
-vorgeschriebenen Gewichtsbezeichnung selbst ausführen lassen, sofern
-die Gegenstände zur Ausfuhr aus dem Geltungsbereich dieses Gesetzes
-bestimmt sind oder anzunehmen ist, daß bei ihrer weiteren Behandlung
-das Fehlen der Gewichtsbezeichnung Gefahren für die Arbeitnehmer
-herbeiführen kann. Die Kosten der nachträglichen Wiegung und
-Gewichtsbezeichnung sind von dem Verpflichteten zu tragen; ihre
+Schiffahrtspolizei zuständige Behörde das Wiegen und das Anbringen
+der vorgeschriebenen Gewichtsbezeichnung selbst ausführen lassen,
+sofern die Gegenstände zur Ausfuhr aus dem Geltungsbereich dieses
+Gesetzes bestimmt sind oder anzunehmen ist, daß bei ihrer weiteren
+Behandlung das Fehlen der Gewichtsbezeichnung Gefahren für die
+Arbeitnehmer herbeiführen kann. Die Kosten der nachträglichen Wiegung
+und Gewichtsbezeichnung sind von dem Verpflichteten zu tragen; ihre
 Einziehung regelt sich nach den landesrechtlichen Bestimmungen über
 die Beitreibung öffentlicher Abgaben.
 

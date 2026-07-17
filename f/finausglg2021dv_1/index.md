@@ -1,6 +1,5 @@
 ---
-Title: Erste Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr
-  2021
+Title: Erste Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2021
 jurabk: FinAusglG2021DV 1
 layout: default
 origslug: finausglg2021dv_1
@@ -31,91 +30,27 @@ worden ist, verordnet das Bundesministerium der Finanzen:
 Finanzkraftausgleichs im Ausgleichsjahr 2021 wird der Zahlungsverkehr
 nach § 14 Absatz 1 des Finanzausgleichsgesetzes in der Weise
 durchgeführt, dass die Ablieferung des in § 1 Absatz 1 des
-Finanzausgleichsgesetzes festgelegten Bundesanteils an der durch die
-Landesfinanzbehörden verwalteten Umsatzsteuer auf die folgenden
+Finanzausgleichsgesetzes festgelegten Bundesanteils an der durch
+die Landesfinanzbehörden verwalteten Umsatzsteuer auf die folgenden
 Prozentsätze festgelegt wird:
 
-*    *   Baden-Württemberg
-
-    *   59,6 %
-
-
-*    *   Bayern
-
-    *   81,0 %
-
-
-*    *   Berlin
-
-    *   19,1 %
-
-
-*    *   Brandenburg
-
-    *   0,5 %
-
-
-*    *   Bremen
-
-    *   23,7 %
-
-
-*    *   Hamburg
-
-    *   84,2 %
-
-
-*    *   Hessen
-
-    *   73,9 %
-
-
-*    *   Mecklenburg-Vorpommern
-
-    *   –
-
-
-*    *   Niedersachsen
-
-    *   5,4 %
-
-
-*    *   Nordrhein-Westfalen
-
-    *   62,8 %
-
-
-*    *   Rheinland-Pfalz
-
-    *   35,2 %
-
-
-*    *   Saarland
-
-    *   50,1 %
-
-
-*    *   Sachsen
-
-    *   –
-
-
-*    *   Sachsen-Anhalt
-
-    *   –
-
-
-*    *   Schleswig-Holstein
-
-    *   43,4 %
-
-
-*    *   Thüringen
-
-    *   – .
-
-
-
+| Baden-Württemberg | 59,6 % |
+| --- | --- |
+| Bayern | 81,0 % |
+| Berlin | 19,1 % |
+| Brandenburg | 0,5 % |
+| Bremen | 23,7 % |
+| Hamburg | 84,2 % |
+| Hessen | 73,9 % |
+| Mecklenburg-Vorpommern | – |
+| Niedersachsen | 5,4 % |
+| Nordrhein-Westfalen | 62,8 % |
+| Rheinland-Pfalz | 35,2 % |
+| Saarland | 50,1 % |
+| Sachsen | – |
+| Sachsen-Anhalt | – |
+| Schleswig-Holstein | 43,4 % |
+| Thüringen | – . |
 
 (2) Die zuständigen Landeskassen überweisen die vorläufigen Einnahmen
 des Bundes nach Absatz 1 telegrafisch an die zuständigen Bundeskassen
@@ -128,14 +63,14 @@ dem tatsächlichen Aufkommen ist unverzüglich durchzuführen.
 
 (3) Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen
 leisten im Zahlungsverkehr nach den Absätzen 1 und 2 keine Zahlungen
-auf den Bundesanteil nach § 1 Absatz 1 des Finanzausgleichsgesetzes an
-der durch die Landesfinanzbehörden verwalteten Umsatzsteuer. Auf den
-durch diesen Bundesanteil nicht gedeckten Teil ihrer Ansprüche aus der
-vorläufigen Umsatzsteuerverteilung und dem Finanzkraftausgleich
+auf den Bundesanteil nach § 1 Absatz 1 des Finanzausgleichsgesetzes
+an der durch die Landesfinanzbehörden verwalteten Umsatzsteuer. Auf
+den durch diesen Bundesanteil nicht gedeckten Teil ihrer Ansprüche aus
+der vorläufigen Umsatzsteuerverteilung und dem Finanzkraftausgleich
 überweist das Bundesministerium der Finanzen an monatlichen
-Vorauszahlungen an Mecklenburg-Vorpommern 103 032 000 Euro, an Sachsen
-58 287 000 Euro, an Sachsen-Anhalt 100 690 000 Euro und an Thüringen
-96 949 000 Euro. Die Zahlungen werden am 15. eines jeden Monats
+Vorauszahlungen an Mecklenburg-Vorpommern 103 032 000 Euro, an Sachsen
+58 287 000 Euro, an Sachsen-Anhalt 100 690 000 Euro und an Thüringen
+96 949 000 Euro. Die Zahlungen werden am 15. eines jeden Monats
 fällig.
 
 (4) Auf den Länderanteil nach § 1 Absatz 1 des

@@ -15,12 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 1090
 
-Geändert durch
-:   Art. 3 G v. 26.2.2007 I 179
+Zuletzt geändert durch
+:   Art. 23 G v. 6.5.2024 I Nr. 149
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
-
 
 
 ### § 1 Zweck des Gesetzes
@@ -35,26 +34,20 @@ Im Sinne dieses Gesetzes bezeichnet der Ausdruck
 
 1.  "zugangskontrollierte Dienste"
 
-    a)  Rundfunkdarbietungen im Sinne von § 2 des Rundfunkstaatsvertrages,
+    a)  Rundfunk im Sinne von § 2 Absatz 1 Satz 1 des Medienstaatsvertrages,
 
-
-    b)  Telemedien im Sinne von § 1 des Telemediengesetzes,
-
-
-
+    b)  digitale Dienste im Sinne von § 1 Absatz 4 Nummer 1 des Digitale-
+        Dienste-Gesetzes,
 
     die unter der Voraussetzung eines Entgelts erbracht werden und nur
     unter Verwendung eines Zugangskontrolldienstes genutzt werden können,
 
-
 2.  "Zugangskontrolldienste" technische Verfahren oder Vorrichtungen, die
     die erlaubte Nutzung eines zugangskontrollierten Dienstes ermöglichen,
-
 
 3.  "Umgehungsvorrichtungen" technische Verfahren oder Vorrichtungen, die
     dazu bestimmt oder entsprechend angepasst sind, die unerlaubte Nutzung
     eines zugangskontrollierten Dienstes zu ermöglichen,
-
 
 4.  "Absatzförderung" jede Form der unmittelbaren oder mittelbaren
     Förderung des Absatzes von Waren, Dienstleistungen oder des
@@ -63,11 +56,7 @@ Im Sinne dieses Gesetzes bezeichnet der Ausdruck
     oder Handwerk oder einen freien Beruf ausübt.
 
 
-
-
-
 ## Abschnitt 2 - Schutz der Zugangskontrolldienste
-
 
 
 ### § 3 Verbot von gewerbsmäßigen Eingriffen zur Umgehung von Zugangskontrolldiensten
@@ -77,19 +66,13 @@ Verboten sind
 1.  die Herstellung, die Einfuhr und die Verbreitung von
     Umgehungsvorrichtungen zu gewerbsmäßigen Zwecken,
 
-
 2.  der Besitz, die technische Einrichtung, die Wartung und der Austausch
     von Umgehungsvorrichtungen zu gewerbsmäßigen Zwecken,
-
 
 3.  die Absatzförderung von Umgehungsvorrichtungen.
 
 
-
-
-
 ## Abschnitt 3 - Straf- und Bußgeldvorschriften
-
 
 
 ### § 4 Strafvorschriften
@@ -116,7 +99,6 @@ eingezogen werden.
 
 
 ## Abschnitt 4 - Schlussvorschrift
-
 
 
 ### § 7 Inkrafttreten

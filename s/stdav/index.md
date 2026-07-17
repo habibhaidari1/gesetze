@@ -15,9 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 3021
 
-Geändert durch
-:   Art. 3 V v. 12.7.2017 I 2360
-
+Zuletzt geändert durch
+:   Art. 19 Abs. 7 G v. 22.12.2025 I Nr. 369
 
 
 ## Eingangsformel
@@ -43,8 +42,8 @@ der Abgabenordnung.
 
 ## § 2 Maßnahmen zur Wahrung des Steuergeheimnisses
 
-(1) Es sind angemessene organisatorische und dem jeweiligen Stand der
-Technik entsprechende technische Vorkehrungen zur Wahrung des
+(1) Es sind angemessene organisatorische und dem jeweiligen Stand
+der Technik entsprechende technische Vorkehrungen zur Wahrung des
 Steuergeheimnisses zu treffen. Hierzu zählen insbesondere Maßnahmen,
 die sicherstellen, dass
 
@@ -52,25 +51,19 @@ die sicherstellen, dass
     § 1 Satz 1 bezeichneten Daten abgerufen werden können, verwehrt wird
     (Zutrittskontrolle),
 
-
 2.  Datenverarbeitungssysteme nicht unbefugt zum Abruf genutzt werden
     können (Zugangskontrolle),
-
 
 3.  die zur Benutzung eines Datenverarbeitungssystems zum Datenabruf
     Befugten ausschließlich auf die ihrer Zugriffsbefugnis unterliegenden
     Daten zugreifen können und dass die Daten während des Abrufs nicht
     unbefugt gelesen oder kopiert werden können (Zugriffskontrolle),
 
-
 4.  überprüft und festgestellt werden kann, wer personenbezogene Daten
     abrufen darf oder abgerufen hat (Weitergabekontrolle).
 
-
-
-
-(2) Abrufverfahren zur Übermittlung von Daten an Empfänger außerhalb
-der für die Speicherung verantwortlichen Stelle sollen nur
+(2) Abrufverfahren zur Übermittlung von Daten an Empfänger
+außerhalb der für die Speicherung verantwortlichen Stelle sollen nur
 eingerichtet werden, wenn es wegen der Vielzahl der Übermittlungen
 oder wegen ihrer besonderen Eilbedürftigkeit unter Berücksichtigung
 der schutzwürdigen Interessen der Betroffenen angemessen ist.
@@ -80,53 +73,49 @@ der schutzwürdigen Interessen der Betroffenen angemessen ist.
 
 Die Erteilung einer Abrufbefugnis kommt in Betracht bei
 
-1.  Amtsträgern (§ 7 der Abgabenordnung) oder gleichgestellten Personen (§
-    30 Abs. 3 der Abgabenordnung), die in einem Verwaltungsverfahren,
+1.  Amtsträgern (§ 7 der Abgabenordnung) oder gleichgestellten Personen
+    (§ 30 Abs. 3 der Abgabenordnung), die in einem Verwaltungsverfahren,
     einem Rechnungsprüfungsverfahren oder gerichtlichen Verfahren in
     Steuersachen, in einem Strafverfahren wegen einer Steuerstraftat oder
     einem Bußgeldverfahren wegen einer Steuerordnungswidrigkeit tätig
     sind,
 
-
 2.  Amtsträgern oder gleichgestellten Personen, soweit die Abrufbefugnis
     zur Wahrnehmung der Dienst- und Fachaufsicht erforderlich ist,
-
 
 3.  Amtsträgern oder gleichgestellten Personen, soweit die Abrufbefugnis
     erforderlich ist zur zulässigen Offenbarung geschützter Daten nach §
     30 Absatz 4 oder Absatz 5 der Abgabenordnung,
-
 
 4.  Amtsträgern oder gleichgestellten Personen, die mit der Entwicklung
     oder Betreuung automatisierter Verfahren oder der dabei eingesetzten
     technischen Einrichtungen befasst sind, in denen die in § 1
     bezeichneten Daten verarbeitet werden, wenn der Abruf allein der
     Beseitigung von Fehlern oder der Kontrolle der ordnungsgemäßen
-    Arbeitsweise der Verfahren oder der technischen Einrichtungen dient
-    und dies nicht mit vertretbarem Aufwand durch Zugriff auf
+    Arbeitsweise der Verfahren oder der technischen Einrichtungen
+    dient und dies nicht mit vertretbarem Aufwand durch Zugriff auf
     anonymisierte oder pseudonymisierte Daten erreicht werden kann,
 
-
-5.  Amtsträgern der Zollverwaltung oder gleichgestellten Personen, soweit
-    die Abrufbefugnis für die Festsetzung oder Erhebung der
-    Einfuhrumsatzsteuer erforderlich ist und die Daten beim
+5.  Amtsträgern der Zollverwaltung oder gleichgestellten Personen,
+    soweit die Abrufbefugnis für die Festsetzung oder Erhebung
+    der Einfuhrumsatzsteuer erforderlich ist und die Daten beim
     Bundeszentralamt für Steuern gespeichert sind,
 
+6.  Amtsträgern der Gemeinden, soweit sie in einem Realsteuerverfahren
+    in Ausübung der nach § 21 des Finanzverwaltungsgesetzes den Gemeinden
+    zustehenden Rechte tätig sind,
 
-6.  Amtsträgern der Gemeinden, soweit sie in einem Realsteuerverfahren in
-    Ausübung der nach § 21 des Finanzverwaltungsgesetzes den Gemeinden
-    zustehenden Rechte tätig sind.
-
-
-
+7.  Amtsträgern der Zollverwaltung oder gleichgestellten Personen, soweit
+    die Abrufbefugnis für die Wahrnehmung der Aufgaben oder Befugnisse
+    nach dem Schwarzarbeitsbekämpfungsgesetz erforderlich ist.
 
 
 ## § 4 Umfang der Abrufbefugnis
 
 (1) Die Abrufbefugnis ist auf die Daten oder die Arten von Daten zu
 beschränken, die zur Erledigung der jeweiligen Aufgabe erforderlich
-sind. Hiervon darf nur abgesehen werden, wenn der Aufwand für eine
-Beschränkung auf bestimmte Daten oder Arten von Daten unter
+sind. Hiervon darf nur abgesehen werden, wenn der Aufwand für
+eine Beschränkung auf bestimmte Daten oder Arten von Daten unter
 Berücksichtigung der schutzwürdigen Interessen der Betroffenen außer
 Verhältnis zu dem angestrebten Zweck steht.
 
@@ -144,17 +133,14 @@ Anlass für ihre Erteilung weggefallen ist.
     haltenden Passwortes oder sonst zum hinreichend sicheren Nachweis von
     Benutzeridentität und Authentizität geeigneter Verfahren,
 
-
 2.  bei jedem Abruf anhand eines Verzeichnisses über den Umfang der dem
     Abrufenden eingeräumten Abrufbefugnis.
-
-
 
 Benutzerkennungen und Passwörter sind nach höchstens fünf aufeinander
 folgenden Fehlversuchen zum Aufbau einer Verbindung zu sperren.
 
-(2) Die Passwörter nach Absatz 1 Satz 1 Nr. 1 sind spätestens nach 90
-Tagen, bei Kenntnisnahme durch andere Personen unverzüglich, zu
+(2) Die Passwörter nach Absatz 1 Satz 1 Nr. 1 sind spätestens nach
+90 Tagen, bei Kenntnisnahme durch andere Personen unverzüglich, zu
 ändern.
 
 (3) Werden zur Authentifizierung automatisiert lesbare Ausweiskarten
@@ -202,56 +188,42 @@ zu dokumentieren
 
 1.  Anlass, Zweck und beteiligte Stellen des Abrufverfahrens,
 
-
 2.  die notwendigen technischen Voraussetzungen und die verwendeten
     Programme,
 
-
 3.  die zum Abruf bereitgehaltenen Daten,
-
 
 4.  auf welche Weise und zu welchem Zeitpunkt die verantwortlichen Stellen
     über die Abrufbefugnis anderer Behörden zu unterrichten sind,
 
-
 5.  die Gruppen der zum Abruf berechtigten Personen (§ 3) und der Umfang
     der Abrufbefugnisse (§ 4),
 
-
 6.  die protokollierende Stelle,
-
 
 7.  die zur Identifizierung, Authentisierung und Verschlüsselung
     verwendeten Verfahren,
-
 
 8.  die für die Vergabe und Verwaltung von Benutzerkennungen, Passwörtern
     und Ausweiskarten sowie die für die Prüfung der aufgezeichneten Abrufe
     und Stichproben zuständigen Stellen,
 
-
 9.  Art und Umfang der Maßnahmen zur nachträglichen Überprüfung
     eingeräumter Abrufbefugnisse sowie die Frist zur Aufbewahrung der
     revisionsfähigen Unterlagen,
 
-
 10. die Einzelheiten des Prüfungsverfahrens nach § 7,
-
 
 11. das Verfahren zur Erprobung und zur Qualitätssicherung der Programme
     vor dem Einsatz,
-
 
 12. die Fristen, nach deren Ablauf Daten zum Abruf durch Abrufberechtigte
     außerhalb der für die Speicherung verantwortlichen Stelle nicht mehr
     für einen Datenabruf bereitgehalten werden dürfen,
 
-
 13. die sonstigen zur Wahrung der schutzwürdigen Belange der Betroffenen
     sowie zur Gewährleistung von Datenschutz und Datensicherheit
     getroffenen technischen und organisatorischen Maßnahmen.
-
-
 
 Die Verfahrensdokumentation ist fortlaufend zu aktualisieren. Sie ist
 mindestens zwei Jahre über das Ende des Verfahrenseinsatzes hinaus
@@ -269,7 +241,6 @@ Abrufberechtigung erteilt wird.
 
 
 ## § 10 (weggefallen)
-
 
 
 ## § 11 Inkrafttreten

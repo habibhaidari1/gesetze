@@ -1,7 +1,5 @@
 ---
-Title: Hundertvierundsechzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung
-  von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Verkehrslandeplatz
-  Mönchengladbach)
+Title: Hundertvierundsechzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Verkehrslandeplatz Mönchengladbach)
 jurabk: LuftVODV 164
 layout: default
 origslug: luftvodv_164
@@ -16,4 +14,7 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BAnz: 1996, Nr 35, 1626
+
+Fundstelle
+:   BAnz: 1996, 1626
 

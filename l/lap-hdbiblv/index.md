@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Laufbahn, Ausbildung und Prüfung für den höheren Dienst
-  an wissenschaftlichen Bibliotheken des Bundes
+Title: Verordnung über die Laufbahn, Ausbildung und Prüfung für den höheren Dienst an wissenschaftlichen Bibliotheken des Bundes
 jurabk: LAP-hDBiblV
 layout: default
 origslug: lap-hdbiblv
@@ -17,7 +16,7 @@ Fundstelle
 :   BGBl I: 2001, 2779
 
 Zuletzt geändert durch
-:   Art. 17 G v. 29.3.2017 I 626
+:   Art. 2 Abs. 10 V v. 11.3.2026 I Nr. 67
 
 
 ## Eingangsformel
@@ -26,13 +25,12 @@ Auf Grund des § 15 Abs. 1 Nr. 2 des Bundesbeamtengesetzes in der
 Fassung der Bekanntmachung vom 31. März 1999 (BGBl. I S. 675) in
 Verbindung mit § 2 Abs. 4 der Bundeslaufbahnverordnung in der Fassung
 der Bekanntmachung vom 8. März 1990 (BGBl. I S. 449, 863), der durch
-Artikel 1 Nr. 1 Buchstabe b der Verordnung vom 15. April 1999 (BGBl. I
-S. 706) neu gefasst worden ist, verordnet das Bundesministerium des
-Innern:
+Artikel 1 Nr. 1 Buchstabe b der Verordnung vom 15. April 1999 (BGBl.
+I S. 706) neu gefasst worden ist, verordnet das Bundesministerium
+des Innern:
 
 
 ## Kapitel 1 - Laufbahn und Ausbildung
-
 
 
 ### § 1 Laufbahnämter
@@ -44,71 +42,26 @@ und alle Ämter dieser Laufbahn.
 (2) Die Beamtinnen und Beamten führen in der Laufbahn folgende Dienst-
 und Amtsbezeichnungen:
 
-*    *   1.
-
-    *   im Vorbereitungsdienst
-
-    *   Bibliotheksreferendarin/ Bibliotheksreferendar,
-
-
-*    *   2.
-
-    *   in der Probezeit bis zur Anstellung
-
-    *   Bibliotheksrätin zur Anstellung (z. A.)/Bibliotheksrat zur Anstellung
-        (z. A.),
-
-
-*    *   3.
-
-    *   im Eingangsamt (Besoldungsgruppe A 13)
-
-    *   Bibliotheksrätin/Bibliotheksrat,
-
-
-*    *   4.
-
-    *   in den Beförderungsämtern der
-
-    *
-
-*    *
-    *   a)
-
-    *   Besoldungsgruppe A 14
-
-    *   Bibliotheksoberrätin/ Bibliotheksoberrat,
-
-
-*    *
-    *   b)
-
-    *   Besoldungsgruppe A 15
-
-    *   Bibliotheksdirektorin/ Bibliotheksdirektor,
-
-
-*    *
-    *   c)
-
-    *   Besoldungsgruppe A 16
-
-    *   Leitende Bibliotheksdirektorin/Leitender Bibliotheksdirektor.
-
-
-
+| 1. | im Vorbereitungsdienst | Bibliotheksreferendarin/ Bibliotheksreferendar, |  |
+| --- | --- | --- | --- |
+| 2. | in der Probezeit bis zur Anstellung | Bibliotheksrätin zur Anstellung (z. A.)/Bibliotheksrat zur Anstellung (z. A.), |  |
+| 3. | im Eingangsamt (Besoldungsgruppe A 13) | Bibliotheksrätin/Bibliotheksrat, |  |
+| 4. | in den Beförderungsämtern der |  |  |
+|  | a) | Besoldungsgruppe A 14 | Bibliotheksoberrätin/ Bibliotheksoberrat, |
+|  | b) | Besoldungsgruppe A 15 | Bibliotheksdirektorin/ Bibliotheksdirektor, |
+|  | c) | Besoldungsgruppe A 16 | Leitende Bibliotheksdirektorin/Leitender Bibliotheksdirektor. |
 
 (3) Die Ämter der Laufbahn sind regelmäßig zu durchlaufen.
 
 
 ### § 2 Ziel des Vorbereitungsdienstes
 
-Der Vorbereitungsdienst soll die Beamtinnen und Beamten befähigen, die
-Aufgaben der Laufbahn des höheren Dienstes an wissenschaftlichen
+Der Vorbereitungsdienst soll die Beamtinnen und Beamten befähigen,
+die Aufgaben der Laufbahn des höheren Dienstes an wissenschaftlichen
 Bibliotheken des Bundes in allen Arbeitsbereichen des
 Bibliothekswesens wahrzunehmen. Der Vorbereitungsdienst vermittelt
-neben dem Fachwissen insbesondere auch die Grundlagen für das zur
-Aufgabenwahrnehmung erforderliche Verständnis für kulturelle,
+neben dem Fachwissen insbesondere auch die Grundlagen für das
+zur Aufgabenwahrnehmung erforderliche Verständnis für kulturelle,
 rechtliche, politische, wirtschaftliche, technische und soziale
 Fragen.
 
@@ -118,8 +71,8 @@ Fragen.
 (1) Einstellungsbehörden sind die obersten Bundesbehörden, die
 Bundesanstalt Die Deutsche Bibliothek und die Stiftung Preußischer
 Kulturbesitz. Ihnen obliegen die Durchführung des Auswahlverfahrens
-und die Einstellung; sie treffen die Entscheidungen über Verkürzung
-und Verlängerung des Vorbereitungsdienstes und der
+und die Einstellung; sie treffen die Entscheidungen über
+Verkürzung und Verlängerung des Vorbereitungsdienstes und der
 Aufstiegsausbildung. Die Einstellungsbehörden sind die für die
 beamtenrechtlichen Entscheidungen zuständigen Dienstbehörden. Ihnen
 obliegen auch die Bedarfsermittlung, die Ausschreibung und die
@@ -130,9 +83,9 @@ Bibliothek, die Staatsbibliothek zu Berlin Preußischer Kulturbesitz,
 die Bibliothek des Ibero-Amerikanischen Instituts Preußischer
 Kulturbesitz, die Bibliothek des Deutschen Bundestages und die
 Universitätsbibliotheken der Universitäten der Bundeswehr. Der
-Beauftragte der Bundesregierung für Angelegenheiten der Kultur und der
-Medien kann bei Bedarf weitere wissenschaftliche Bibliotheken, deren
-Abteilungen durch Beamtinnen oder Beamte des höheren
+Beauftragte der Bundesregierung für Angelegenheiten der Kultur und
+der Medien kann bei Bedarf weitere wissenschaftliche Bibliotheken,
+deren Abteilungen durch Beamtinnen oder Beamte des höheren
 Bibliotheksdienstes geleitet werden und die die Gewähr dafür bieten,
 dass die Anforderungen nach den §§ 14 bis 17 erfüllt werden, als
 Ausbildungsbibliotheken anerkennen.
@@ -145,20 +98,16 @@ In den Vorbereitungsdienst kann eingestellt werden, wer
 1.  die gesetzlichen Voraussetzungen für die Berufung in das
     Bundesbeamtenverhältnis erfüllt und
 
-
 2.  ein für die Laufbahn des höheren Dienstes an wissenschaftlichen
     Bibliotheken des Bundes geeignetes Studium an einer wissenschaftlichen
-    Hochschule, dessen Mindest- oder Regelstudienzeit nicht weniger als
-    drei Jahre beträgt und dabei Zeiten einer in den Studiengang
+    Hochschule, dessen Mindest- oder Regelstudienzeit nicht weniger
+    als drei Jahre beträgt und dabei Zeiten einer in den Studiengang
     eingeordneten berufspraktischen Ausbildung oder Tätigkeit nicht
     umfasst, mit einer Staatsprüfung oder, soweit üblich, mit einer
-    Hochschulprüfung abgeschlossen hat. Bewerberinnen und Bewerber mit
-    Hochschulabschluss außerhalb des Geltungsbereiches der
+    Hochschulprüfung abgeschlossen hat. Bewerberinnen und Bewerber
+    mit Hochschulabschluss außerhalb des Geltungsbereiches der
     Bundeslaufbahnverordnung können eingestellt werden, wenn der
     Hochschulabschluss gleichwertig ist.
-
-
-
 
 
 ### § 5 Ausschreibung, Bewerbung
@@ -166,45 +115,32 @@ In den Vorbereitungsdienst kann eingestellt werden, wer
 (1) Die Bewerberinnen und Bewerber werden durch Stellenausschreibung
 ermittelt.
 
-(2) Bewerbungen um Einstellung in den Vorbereitungsdienst sind an die
-jeweilige Einstellungsbehörde zu richten. Der Bewerbung sind
+(2) Bewerbungen um Einstellung in den Vorbereitungsdienst sind an
+die jeweilige Einstellungsbehörde zu richten. Der Bewerbung sind
 beizufügen:
 
 1.  ein tabellarischer Lebenslauf,
 
-
 2.  ein Lichtbild, das nicht älter als sechs Monate sein soll,
-
 
 3.  Ablichtungen
 
     a)  des Zeugnisses der allgemeinen Hochschulreife oder des Nachweises
         eines entsprechenden Bildungsstandes,
 
-
     b)  des Zeugnisses über die Staatsprüfung oder die Hochschulprüfung,
-
 
     c)  der Bescheinigungen der Hochschule über die Vorlesungen, die die
         Bewerberin oder der Bewerber belegt hat, und über die Übungen und
         Seminare, an denen sie oder er teilgenommen hat,
 
-
     d)  etwaiger weiterer Unterlagen über besondere wissenschaftliche oder
         informationstechnische Kenntnisse und Fähigkeiten und
 
-
     e)  der Zeugnisse über die bisherigen Beschäftigungen sowie
-
-
-
-
 
 4.  gegebenenfalls eine Ablichtung des Schwerbehindertenausweises oder des
     Bescheides über die Gleichstellung als schwerbehinderter Mensch.
-
-
-
 
 
 ### § 6 Auswahlverfahren
@@ -216,9 +152,9 @@ Qualifikation und persönlichen Eigenschaften für die Einstellung in
 den Vorbereitungsdienst der Laufbahn geeignet sind.
 
 (2) Zum Auswahlverfahren wird zugelassen, wer nach den eingereichten
-Unterlagen die in der Ausschreibung genannten Voraussetzungen erfüllt.
-Übersteigt die Zahl dieser Bewerberinnen und Bewerber das Dreifache
-der Zahl der Ausbildungsplätze, kann die Zahl der an dem
+Unterlagen die in der Ausschreibung genannten Voraussetzungen
+erfüllt. Übersteigt die Zahl dieser Bewerberinnen und Bewerber das
+Dreifache der Zahl der Ausbildungsplätze, kann die Zahl der an dem
 Auswahlverfahren Teilnehmenden bis auf das Dreifache der Zahl der
 Ausbildungsplätze beschränkt werden. Dabei wird zugelassen, wer nach
 den eingereichten Unterlagen, insbesondere unter Berücksichtigung der
@@ -236,8 +172,8 @@ schriftlichen Ablehnung zurück.
 unabhängigen Auswahlkommission durchgeführt und besteht aus einem
 schriftlichen und einem mündlichen Teil.
 
-(5) Die Auswahlkommission besteht aus drei Beamtinnen oder Beamten des
-höheren Bibliotheksdienstes, von denen eine oder einer zur
+(5) Die Auswahlkommission besteht aus drei Beamtinnen oder Beamten
+des höheren Bibliotheksdienstes, von denen eine oder einer zur
 Vorsitzenden oder zum Vorsitzenden zu bestellen ist. Die Mitglieder
 sind unabhängig und an Weisungen nicht gebunden. Die Auswahlkommission
 entscheidet mit Stimmenmehrheit. Stimmenthaltung ist nicht zulässig.
@@ -258,8 +194,8 @@ Wiederbestellung ist zulässig.
 
 ### § 7 Einstellung in den Vorbereitungsdienst
 
-(1) Die Einstellungsbehörden entscheiden unter Berücksichtigung des
-Ergebnisses des Auswahlverfahrens über die Einstellung von
+(1) Die Einstellungsbehörden entscheiden unter Berücksichtigung
+des Ergebnisses des Auswahlverfahrens über die Einstellung von
 Bewerberinnen und Bewerbern.
 
 (2) Vor der Einstellung haben die Bewerberinnen und Bewerber folgende
@@ -270,31 +206,21 @@ weitere Unterlagen beizubringen:
     oder einer Personalärztin oder eines Personalarztes aus neuester Zeit,
     in dem auch zur Beamtendiensttauglichkeit Stellung genommen wird,
 
-
 2.  eine Ausfertigung der Geburtsurkunde, auf Verlangen auch einen
     Nachweis der Staatsangehörigkeit,
-
 
 3.  gegebenenfalls Ausfertigungen der Eheurkunde oder der
     Lebenspartnerschaftsurkunde und der Geburtsurkunden der Kinder,
 
-
 4.  ein Führungszeugnis nach § 30 des Bundeszentralregistergesetzes zur
     unmittelbaren Vorlage bei der Einstellungsbehörde und
-
 
 5.  eine Erklärung der Bewerberin oder des Bewerbers darüber, ob sie oder
     er
 
     a)  in geordneten wirtschaftlichen Verhältnissen lebt und
 
-
     b)  in einem Ermittlungs- oder sonstigen Strafverfahren beschuldigt wird.
-
-
-
-
-
 
 Die Kosten des Gesundheitszeugnisses trägt die jeweilige
 Einstellungsbehörde.
@@ -333,31 +259,26 @@ Vorbereitungsdienstes ausgehändigt wird.
 (5) Wird die Ausbildung wegen einer Erkrankung oder aus anderen
 zwingenden Gründen unterbrochen, können Ausbildungsabschnitte verkürzt
 oder verlängert und Abweichungen vom Ausbildungsplan zugelassen
-werden, um eine zielgerechte Fortsetzung des Vorbereitungsdienstes zu
-ermöglichen.
+werden, um eine zielgerechte Fortsetzung des Vorbereitungsdienstes
+zu ermöglichen.
 
 (6) Der Vorbereitungsdienst schließt mit der Laufbahnprüfung ab.
 
 
 ### § 10 Verlängerung und Verkürzung des Vorbereitungsdienstes
 
-(1) Der Vorbereitungsdienst ist im Einzelfall zu verlängern, wenn die
-Ausbildung
+(1) Der Vorbereitungsdienst ist im Einzelfall zu verlängern, wenn
+die Ausbildung
 
 1.  wegen einer Erkrankung,
-
 
 2.  wegen eines Beschäftigungsverbots für die Zeit vor oder nach einer
     Entbindung nach mutterschutzrechtlichen Vorschriften oder wegen einer
     Elternzeit,
 
-
 3.  durch Ableistung des Grundwehrdienstes oder eines Ersatzdienstes oder
 
-
 4.  aus anderen zwingenden Gründen
-
-
 
 unterbrochen worden und bei Verkürzung von Ausbildungsabschnitten die
 zielgerechte Fortsetzung des Vorbereitungsdienstes nicht gewährleistet
@@ -375,21 +296,21 @@ sich die Verlängerung des Vorbereitungsdienstes nach § 20 Satz 3 bis
 5\.
 
 (4) Die praktische Ausbildung kann um Zeiten einer beruflichen
-Tätigkeit auf den in § 15 Abs. 2 genannten Gebieten verkürzt werden,
-soweit Aufgaben der Laufbahn des höheren Dienstes an
+Tätigkeit auf den in § 15 Abs. 2 genannten Gebieten verkürzt
+werden, soweit Aufgaben der Laufbahn des höheren Dienstes an
 wissenschaftlichen Bibliotheken wahrgenommen wurden. Die Verkürzung
 darf sechs Monate nicht überschreiten.
 
 
 ### § 11 Schwerbehinderte Menschen
 
-(1) Schwerbehinderten Menschen werden im Auswahlverfahren sowie für
-die Erbringung von Leistungsnachweisen die ihrer Behinderung
+(1) Schwerbehinderten Menschen werden im Auswahlverfahren sowie
+für die Erbringung von Leistungsnachweisen die ihrer Behinderung
 angemessenen Erleichterungen gewährt. Hierauf sind sie rechtzeitig
 hinzuweisen. Art und Umfang der zu gewährenden Erleichterungen sind
 mit den schwerbehinderten Menschen und der Schwerbehindertenvertretung
-rechtzeitig, sofern dies zeitlich noch möglich ist, zu erörtern. Die
-Erleichterungen dürfen nicht dazu führen, dass die Anforderungen
+rechtzeitig, sofern dies zeitlich noch möglich ist, zu erörtern.
+Die Erleichterungen dürfen nicht dazu führen, dass die Anforderungen
 herabgesetzt werden. Die Sätze 1 bis 4 werden auch bei aktuellen
 Behinderungen, die nicht unter den Schutz des Neunten Buches
 Sozialgesetzbuch fallen, angewandt.
@@ -418,13 +339,13 @@ berufliche Kenntnisse und Erfahrungen sowie Fähigkeiten und
 Kenntnisse, die zur selbständigen Erfüllung der Aufgaben der Laufbahn
 erforderlich sind.
 
-(2) Während der Praktika werden die Referendarinnen und Referendare in
-den Schwerpunktbereichen der Laufbahn des höheren Dienstes an
+(2) Während der Praktika werden die Referendarinnen und Referendare
+in den Schwerpunktbereichen der Laufbahn des höheren Dienstes an
 wissenschaftlichen Bibliotheken des Bundes mit den Aufgaben der
 Bibliotheken vertraut gemacht. Je nach ihrem Ausbildungsstand sollen
-die Referendarinnen und Referendare einzelne Geschäftsvorgänge, die
-typisch für die Aufgaben der Laufbahn sind, selbständig bearbeiten und
-an dienstlichen Veranstaltungen und internen
+die Referendarinnen und Referendare einzelne Geschäftsvorgänge,
+die typisch für die Aufgaben der Laufbahn sind, selbständig
+bearbeiten und an dienstlichen Veranstaltungen und internen
 Fortbildungsveranstaltungen, die ihrer Ausbildung förderlich sind,
 teilnehmen.
 
@@ -441,11 +362,8 @@ Ausbildung.
 
 1.  Praktikum I bei der jeweils eigenen Bibliothek und
 
-
 2.  Praktikum II bei einer anderen der in § 3 Abs. 2 genannten
     Bibliotheken.
-
-
 
 In begründeten Ausnahmefällen können auch beide Praktika bei der
 jeweils eigenen Bibliothek, einer der anderen Bibliotheken nach § 3
@@ -456,23 +374,15 @@ werden.
 
 1.  Bestandsaufbau,
 
-
 2.  Bestandserschließung,
-
 
 3.  Benutzungs-, Informations- und Beratungsdienst,
 
-
 4.  Einsatz der Informationstechnik in Bibliotheken,
-
 
 5.  Bibliotheksbau und technische Einrichtungen sowie
 
-
 6.  Organisation, allgemeine Verwaltung und Leitungsaufgaben.
-
-
-
 
 (3) Jede Ausbildungsbibliothek erstellt einen Ausbildungsplan, der Art
 und Dauer der Tätigkeit der Referendarinnen und Referendare während
@@ -501,8 +411,8 @@ ordnungsgemäße Durchführung des Praktikums verantwortlich ist, sowie
 eine Vertretung. Außerdem werden auf Vorschlag der Ausbildungsleitung
 Ausbilderinnen oder Ausbilder bestellt.
 
-(2) Die Ausbildungsleitung lenkt und überwacht die Ausbildung der
-Referendarinnen und Referendare; sie stellt eine sorgfältige
+(2) Die Ausbildungsleitung lenkt und überwacht die Ausbildung
+der Referendarinnen und Referendare; sie stellt eine sorgfältige
 Ausbildung sicher. Sie führt regelmäßig Besprechungen mit den
 Referendarinnen und Referendaren und den Ausbilderinnen und Ausbildern
 durch und berät sie in Fragen der Ausbildung.
@@ -518,62 +428,27 @@ Ausbildungsstand.
 
 ### § 17 Bewertung während der praktischen Ausbildung
 
-(1) Jede Ausbildungsbibliothek gibt über die Leistungen und den
-Befähigungsstand der Referendarinnen und Referendare unter
-Berücksichtigung von Arbeiten nach § 15 Abs. 4 eine schriftliche oder
-elektronische Bewertung ab. Die Bewertung soll Auskunft über die
+(1) Jede Ausbildungsbibliothek gibt über die Leistungen und
+den Befähigungsstand der Referendarinnen und Referendare unter
+Berücksichtigung von Arbeiten nach § 15 Abs. 4 eine schriftliche
+oder elektronische Bewertung ab. Die Bewertung soll Auskunft über die
 fachlichen Kenntnisse, die Allgemeinbildung, die berufliche Eignung
-und über das Persönlichkeitsbild geben; auf besondere Fähigkeiten oder
-Mängel ist hinzuweisen. Die Leistungen der Referendarinnen und
+und über das Persönlichkeitsbild geben; auf besondere Fähigkeiten
+oder Mängel ist hinzuweisen. Die Leistungen der Referendarinnen und
 Referendare sind mit folgenden Noten zu bewerten:
 
-*    *   sehr gut (1)
-        15 bis 14 Punkte
+| sehr gut (1) 15 bis 14 Punkte | eine Leistung, die den Anforderungen in besonderem Maße entspricht, |
+| --- | --- |
+| gut (2) 13 bis 11 Punkte | eine Leistung, die den Anforderungen voll entspricht, |
+| befriedigend (3) 10 bis 8 Punkte | eine Leistung, die im Allgemeinen den Anforderungen entspricht, |
+| ausreichend (4) 7 7 bis 5 Punkte | eine Leistung, die zwar Mängel aufweist, aber im Ganzen den Anforderungen noch entspricht, |
+| mangelhaft (5) 4 bis 2 Punkte | eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen lässt, dass die notwendigen Grundkenntnisse vorhanden sind und die Mängel in absehbarer Zeit behoben werden könnten, |
+| ungenügend (6) 1 bis 0 Punkte | eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Grundkenntnisse so lückenhaft sind, dass die Mängel in absehbarer Zeit nicht behoben werden könnten. |
 
-    *   eine Leistung, die den Anforderungen in besonderem Maße entspricht,
-
-
-*    *   gut (2)
-        13 bis 11 Punkte
-
-    *   eine Leistung, die den Anforderungen voll entspricht,
-
-
-*    *   befriedigend (3)
-        10 bis 8 Punkte
-
-    *   eine Leistung, die im Allgemeinen den Anforderungen entspricht,
-
-
-*    *   ausreichend (4) 7
-        7 bis 5 Punkte
-
-    *   eine Leistung, die zwar Mängel aufweist, aber im Ganzen den
-        Anforderungen noch entspricht,
-
-
-*    *   mangelhaft (5)
-        4 bis 2 Punkte
-
-    *   eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen
-        lässt, dass die notwendigen Grundkenntnisse vorhanden sind und die
-        Mängel in absehbarer Zeit behoben werden könnten,
-
-
-*    *   ungenügend (6)
-        1 bis 0 Punkte
-
-    *   eine Leistung, die den Anforderungen nicht entspricht und bei der
-        selbst die Grundkenntnisse so lückenhaft sind, dass die Mängel in
-        absehbarer Zeit nicht behoben werden könnten.
-
-
-
-
-(2) Die Bewertung nach Absatz 1 wird auf der Grundlage eines Entwurfs
-mit den Referendarinnen und Referendaren besprochen. Sie ist ihnen zu
-eröffnen. Die Referendarinnen und Referendare erhalten eine
-Ausfertigung der Bewertung und können zu ihr schriftlich oder
+(2) Die Bewertung nach Absatz 1 wird auf der Grundlage eines
+Entwurfs mit den Referendarinnen und Referendaren besprochen. Sie
+ist ihnen zu eröffnen. Die Referendarinnen und Referendare erhalten
+eine Ausfertigung der Bewertung und können zu ihr schriftlich oder
 elektronisch Stellung nehmen.
 
 
@@ -587,44 +462,30 @@ Gebiete erstrecken:
 
 1.  Grundlagen der Informationswissenschaft,
 
-
 2.  Organisation der Wissenschaft und des Bildungswesens, Kulturpolitik,
 
-
 3.  Rechts- und Verwaltungskunde,
-
 
 4.  Organisation und Betrieb von Bibliotheken (Verwaltung, Management und
     Personalführung, Bestandsaufbau und -erschließung, Benutzungs- und
     Beratungsdienst, Öffentlichkeitsarbeit),
 
-
 5.  Bibliotheksbau, -einrichtung und -technik,
-
 
 6.  Informationstechnik,
 
-
 7.  Bibliotheksgeschichte,
-
 
 8.  deutsches und ausländisches Bibliothekswesen der Gegenwart,
 
-
 9.  Informations- und Dokumentationswesen,
 
-
 10. Buch- und Medienkunde und
-
 
 11. Allgemein- und Fachbibliographien, Informationsvermittlung.
 
 
-
-
-
 ## Kapitel 2 - Erwerb der Laufbahnbefähigung
-
 
 
 ### § 19 Prüfung
@@ -648,8 +509,8 @@ Dienstbehörde kann in begründeten Ausnahmefällen eine zweite
 Wiederholung zulassen. Sie bestimmt auf Vorschlag des jeweiligen
 Prüfungsausschusses, um welche Zeit der Vorbereitungsdienst verlängert
 wird und welche Ausbildungsabschnitte zu wiederholen sind. Die weitere
-Ausbildung muss mindestens sechs Monate dauern und darf ein Jahr nicht
-übersteigen. Der Vorbereitungsdienst wird bis zum Ablauf der
+Ausbildung muss mindestens sechs Monate dauern und darf ein Jahr
+nicht übersteigen. Der Vorbereitungsdienst wird bis zum Ablauf der
 Wiederholungsfrist verlängert.
 
 
@@ -666,13 +527,12 @@ Anspruch auf Übernahme in das Beamtenverhältnis auf Probe.
 ## Kapitel 3 - Aufstieg
 
 
-
 ### § 22 Aufstieg, Auswahlverfahren
 
 (1) Beamtinnen und Beamte der Laufbahn des gehobenen Dienstes an
-wissenschaftlichen Bibliotheken und Dokumentationsstellen können gemäß
-§ 36 der Bundeslaufbahnverordnung zum Aufstieg in die Laufbahn des
-höheren Dienstes an wissenschaftlichen Bibliotheken des Bundes
+wissenschaftlichen Bibliotheken und Dokumentationsstellen können
+gemäß § 44 der Bundeslaufbahnverordnung zum Aufstieg in die Laufbahn
+des höheren Dienstes an wissenschaftlichen Bibliotheken des Bundes
 zugelassen werden.
 
 (2) In einem Auswahlverfahren wird von einer Auswahlkommission die
@@ -685,9 +545,9 @@ Dienstbehörde auf Grund des Ergebnisses des Auswahlverfahrens.
 
 ### § 23 Einführung
 
-(1) Die Aufstiegsbeamtinnen und -beamten nehmen zur Einführung in die
-neue Laufbahn gemeinsam mit den Referendarinnen und Referendaren an
-der Ausbildung teil. § 8 Abs. 2 Satz 2 und die §§ 9 bis 19 Abs. 1
+(1) Die Aufstiegsbeamtinnen und -beamten nehmen zur Einführung in
+die neue Laufbahn gemeinsam mit den Referendarinnen und Referendaren
+an der Ausbildung teil. § 8 Abs. 2 Satz 2 und die §§ 9 bis 19 Abs. 1
 gelten entsprechend.
 
 (2) Die Einführung schließt mit der Aufstiegsprüfung ab; diese
@@ -705,11 +565,10 @@ bisherigen Rechtsstellung.
 ## Kapitel 4 - Sonstige Vorschriften
 
 
-
 ### § 25 Übergangsregelung
 
-Ausbildung und Prüfung der vor Inkrafttreten dieser Verordnung in den
-Vorbereitungsdienst eingestellten Referendarinnen und Referendare
+Ausbildung und Prüfung der vor Inkrafttreten dieser Verordnung in
+den Vorbereitungsdienst eingestellten Referendarinnen und Referendare
 richten sich nach den bisherigen Vorschriften. Dies gilt für
 Aufstiegsbeamtinnen und Aufstiegsbeamte entsprechend.
 

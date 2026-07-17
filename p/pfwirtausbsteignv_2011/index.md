@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung
-  zum Pferdewirt und zur Pferdewirtin
+Title: Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung zum Pferdewirt und zur Pferdewirtin
 jurabk: PfWirtAusbStEignV 2011
 layout: default
 origslug: pfwirtausbsteignv_2011
@@ -22,20 +21,20 @@ Geändert durch
 
 ## Eingangsformel
 
-Auf Grund des § 27 Absatz 3 in Verbindung mit Absatz 1 und 2 des
-Berufsbildungsgesetzes, von denen Absatz 3 durch Artikel 232 Nummer 2
-Buchstabe a der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407)
-geändert worden ist, verordnet das Bundesministerium für Ernährung,
-Landwirtschaft und Verbraucherschutz im Einvernehmen mit dem
-Bundesministerium für Bildung und Forschung nach Anhörung des
+Auf Grund des § 27 Absatz 3 in Verbindung mit Absatz 1 und 2
+des Berufsbildungsgesetzes, von denen Absatz 3 durch Artikel 232
+Nummer 2 Buchstabe a der Verordnung vom 31. Oktober 2006 (BGBl. I
+S. 2407) geändert worden ist, verordnet das Bundesministerium für
+Ernährung, Landwirtschaft und Verbraucherschutz im Einvernehmen mit
+dem Bundesministerium für Bildung und Forschung nach Anhörung des
 Hauptausschusses des Bundesinstituts für Berufsbildung:
 
 
 ## § 1 Mindestanforderungen an die Einrichtung und den Bewirtschaftungszustand
 
-(1) Die Ausbildungsstätte muss unter Berücksichtigung der in § 27
-Absatz 1 des Berufsbildungsgesetzes genannten Anforderungen ein
-Betrieb sein, der nach Art und Umfang der Produktion und
+(1) Die Ausbildungsstätte muss unter Berücksichtigung der in §
+27 Absatz 1 des Berufsbildungsgesetzes genannten Anforderungen
+ein Betrieb sein, der nach Art und Umfang der Produktion und
 Dienstleistungen sowie nach seinem Bewirtschaftungszustand die
 Voraussetzungen dafür bietet, dass den Auszubildenden die in der
 Verordnung über die Berufsausbildung zum Pferdewirt/zur Pferdewirtin
@@ -51,8 +50,8 @@ geführt werden. Die Wirtschaftsergebnisse müssen buchführungsgemäß
 erfasst sein.
 
 (3) Die Gebäude, baulichen Anlagen und technischen Ausstattungen der
-Ausbildungsstätte müssen den im Hinblick auf die Ausbildungsziele zu
-stellenden Anforderungen sowie dem Stand der Technik und des
+Ausbildungsstätte müssen den im Hinblick auf die Ausbildungsziele
+zu stellenden Anforderungen sowie dem Stand der Technik und des
 Tierschutzes entsprechen und in ordnungsgemäßem Zustand sein.
 
 (4) Ausbildungsstätten, die selbst nicht über die für die Durchführung
@@ -77,16 +76,16 @@ Fachliteratur zur Verfügung stehen. Soweit tarifvertragliche
 Regelungen für den Ausbildungsbetrieb gelten, sind diese in der
 Ausbildungsstätte zur Einsicht auszulegen.
 
-(7) Die Ausbildungsstätte muss die Gewähr dafür bieten, dass die
-Vorschriften des Jugendarbeitsschutzgesetzes, des
+(7) Die Ausbildungsstätte muss die Gewähr dafür bieten,
+dass die Vorschriften des Jugendarbeitsschutzgesetzes, des
 Mutterschutzgesetzes, der Unfallverhütungsvorschriften, der
 Arbeitsstättenverordnung und sonstige Vorschriften zum Schutze der
 Auszubildenden eingehalten werden können. Sie muss über geeignete
 Sozialräume und Sanitärräume verfügen. Bei der Beantragung der
-Anerkennung nach § 27 Absatz 3 des Berufsbildungsgesetzes muss eine
-Bescheinigung der zuständigen Berufsgenossenschaft über die
-sicherheitstechnische Überprüfung des Betriebes vorliegen, die nicht
-älter als ein Jahr ist. Sollen Auszubildende in die häusliche
+Anerkennung nach § 27 Absatz 3 des Berufsbildungsgesetzes muss
+eine Bescheinigung der zuständigen Berufsgenossenschaft über die
+sicherheitstechnische Überprüfung des Betriebes vorliegen, die
+nicht älter als ein Jahr ist. Sollen Auszubildende in die häusliche
 Gemeinschaft der Ausbildungsstätte aufgenommen werden, so muss eine
 Unterkunft zur Verfügung gestellt werden, die zeitgemäß beschaffen und
 ausgestattet ist.
@@ -98,9 +97,9 @@ eröffnet worden ist.
 
 ## § 2 Fachrichtungsspezifische Anforderungen
 
-(1) Die Ausbildungsstätte in der Fachrichtung Pferdehaltung und
-Service muss über einen Bestand von mindestens 20 Pferden verfügen.
-Dieser Bestand muss eine Ausbildung im Reiten oder Fahren
+(1) Die Ausbildungsstätte in der Fachrichtung Pferdehaltung
+und Service muss über einen Bestand von mindestens 20 Pferden
+verfügen. Dieser Bestand muss eine Ausbildung im Reiten oder Fahren
 sicherstellen. Regelmäßiger Kundenkontakt und Einrichtungen zur
 Kundenberatung und -betreuung müssen vorhanden sein. Des Weiteren muss
 der Ausbildungsbetrieb über ganzjährig nutzbare Auslaufplätze, Reit-
@@ -109,8 +108,8 @@ Weidehaltung verfügen.
 
 (2) Die Ausbildungsstätte in der Fachrichtung Pferdezucht muss über
 einen Bestand von mindestens fünf Pferden im aktiven Zuchteinsatz
-verfügen. Auf- und Nachzucht müssen im Betrieb gehalten werden. Die
-Vermittlung der Ausbildungsinhalte zur Reproduktion muss
+verfügen. Auf- und Nachzucht müssen im Betrieb gehalten werden.
+Die Vermittlung der Ausbildungsinhalte zur Reproduktion muss
 sichergestellt werden. Die Mitgliedschaft in rassespezifischen
 Zuchtverbänden oder -organisationen ist erforderlich. Des Weiteren
 muss der Ausbildungsbetrieb über ganzjährig nutzbare Auslaufplätze
@@ -119,40 +118,40 @@ verfügen.
 
 (3) Die Ausbildungsstätte in der Fachrichtung Klassische
 Reitausbildung muss über einen Bestand von mindestens drei
-Springpferden und mindestens drei Dressurpferden verfügen, der die
-Ausbildung von Pferden und Reitern sowie Reiterinnen sowohl im
+Springpferden und mindestens drei Dressurpferden verfügen, der
+die Ausbildung von Pferden und Reitern sowie Reiterinnen sowohl im
 Dressur- als auch im Springreiten bis zu den in der Ausbildungsordnung
 für diese Fachrichtung beschriebenen Schwierigkeitsgraden
 sicherstellt. Die materiell-technischen Voraussetzungen zur Ausbildung
 von Kunden im Reiten müssen vorhanden sein. Insbesondere muss die
 Ausbildungsstätte über eine gedeckte Reitbahn mit einer Fläche von
 mindestens 20 Meter mal 40 Meter, einen Außenplatz mit einer Fläche
-von mindestens 1 200 Quadratmeter und einer Breite von mindestens 20
+von mindestens 1 200 Quadratmeter und einer Breite von mindestens 20
 Meter sowie einen Springparcours, der dem in der Ausbildungsordnung
 beschriebenen Schwierigkeitsgrad im Springreiten entspricht, verfügen.
 Ganzjährig nutzbare Auslaufflächen und Bewegungsplätze müssen
 vorhanden sein.
 
-(4) Die Ausbildungsstätte in der Fachrichtung Pferderennen muss über
-einen Bestand von mindestens zehn Pferden im Training in dem
-jeweiligen Einsatzgebiet verfügen, die einen durchgehenden
-Trainingsbetrieb sicherstellen. Die Teilnahme an Pferderennen ist
-nachzuweisen. Die Ausbildungsstätte muss über eine geeignete
+(4) Die Ausbildungsstätte in der Fachrichtung Pferderennen muss
+über einen Bestand von mindestens zehn Pferden im Training in
+dem jeweiligen Einsatzgebiet verfügen, die einen durchgehenden
+Trainingsbetrieb sicherstellen. Die Teilnahme an Pferderennen
+ist nachzuweisen. Die Ausbildungsstätte muss über eine geeignete
 Trainingsbahn, ganzjährig nutzbare Auslaufflächen und Bewegungsplätze
 verfügen sowie eine Anbindung an eine Galopp- oder eine Trabrennbahn
 haben.
 
-(5) Die Ausbildungsstätte in der Fachrichtung Spezialreitweisen muss
-über einen Bestand von mindestens drei Pferden verfügen, der die
-Ausbildung von Pferden und Reitern sowie Reiterinnen in den
-Kerndisziplinen des jeweiligen Einsatzgebiets bis zu den in der
-Ausbildungsordnung für diese Fachrichtung beschriebenen
+(5) Die Ausbildungsstätte in der Fachrichtung Spezialreitweisen
+muss über einen Bestand von mindestens drei Pferden verfügen,
+der die Ausbildung von Pferden und Reitern sowie Reiterinnen
+in den Kerndisziplinen des jeweiligen Einsatzgebiets bis zu den
+in der Ausbildungsordnung für diese Fachrichtung beschriebenen
 Schwierigkeitsgraden und Anforderungen sicherstellt. Die materiell-
-technischen Voraussetzungen zur Ausbildung von Kunden im Reiten müssen
-vorhanden sein. Insbesondere muss die Ausbildungsstätte über eine
-gedeckte Reitbahn mit einer Fläche von mindestens 20 Meter mal 40
-Meter sowie einen Außenplatz mit einer Fläche von mindestens 20 Meter
-mal 40 Meter oder eine Ovalbahn verfügen. Ganzjährig nutzbare
+technischen Voraussetzungen zur Ausbildung von Kunden im Reiten
+müssen vorhanden sein. Insbesondere muss die Ausbildungsstätte über
+eine gedeckte Reitbahn mit einer Fläche von mindestens 20 Meter mal
+40 Meter sowie einen Außenplatz mit einer Fläche von mindestens 20
+Meter mal 40 Meter oder eine Ovalbahn verfügen. Ganzjährig nutzbare
 Auslaufflächen und Bewegungsplätze müssen vorhanden sein.
 
 
@@ -160,8 +159,8 @@ Auslaufflächen und Bewegungsplätze müssen vorhanden sein.
 
 Eine Ausbildungsstätte, in der die erforderlichen beruflichen
 Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche
-Handlungsfähigkeit) nicht im vollen Umfang vermittelt werden können,
-gilt als geeignet, wenn sichergestellt ist, dass diese durch
+Handlungsfähigkeit) nicht im vollen Umfang vermittelt werden
+können, gilt als geeignet, wenn sichergestellt ist, dass diese durch
 Ausbildungsmaßnahmen außerhalb der Ausbildungsstätte in einer anderen
 anerkannten Ausbildungsstätte, in Form von Ausbildungsverbünden oder
 in Form überbetrieblicher Ausbildung vermittelt werden können.

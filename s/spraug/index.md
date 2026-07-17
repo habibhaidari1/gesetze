@@ -16,11 +16,10 @@ Fundstelle
 :   BGBl I: 1988, 2312, 2316
 
 Zuletzt geändert durch
-:   Art. 6 G v. 10.12.2021 I 5162
+:   Art. 6e G v. 16.9.2022 I 1454
 
 
 ## Erster Teil - Allgemeine Vorschriften
-
 
 
 ### § 1 Errichtung von Sprecherausschüssen
@@ -29,11 +28,11 @@ Zuletzt geändert durch
 Angestellten (§ 5 Abs. 3 des Betriebsverfassungsgesetzes) werden
 Sprecherausschüsse der leitenden Angestellten gewählt.
 
-(2) Leitende Angestellte eines Betriebs mit in der Regel weniger als
-zehn leitenden Angestellten gelten für die Anwendung dieses Gesetzes
-als leitende Angestellte des räumlich nächstgelegenen Betriebs
-desselben Unternehmens, der die Voraussetzungen des Absatzes 1
-erfüllt.
+(2) Leitende Angestellte eines Betriebs mit in der Regel weniger
+als zehn leitenden Angestellten gelten für die Anwendung dieses
+Gesetzes als leitende Angestellte des räumlich nächstgelegenen
+Betriebs desselben Unternehmens, der die Voraussetzungen des Absatzes
+1 erfüllt.
 
 (3) Dieses Gesetz findet keine Anwendung auf
 
@@ -41,12 +40,8 @@ erfüllt.
     sonstiger Körperschaften, Anstalten und Stiftungen des öffentlichen
     Rechts sowie
 
-
 2.  Religionsgemeinschaften und ihre karitativen und erzieherischen
     Einrichtungen unbeschadet deren Rechtsform.
-
-
-
 
 
 ### § 2 Zusammenarbeit
@@ -73,8 +68,8 @@ auch für ihre berufliche Entwicklung.
 
 (4) Arbeitgeber und Sprecherausschuß haben Betätigungen zu
 unterlassen, durch die der Arbeitsablauf oder der Frieden des Betriebs
-beeinträchtigt werden. Sie haben jede parteipolitische Betätigung im
-Betrieb zu unterlassen; die Behandlung von Angelegenheiten
+beeinträchtigt werden. Sie haben jede parteipolitische Betätigung
+im Betrieb zu unterlassen; die Behandlung von Angelegenheiten
 tarifpolitischer, sozialpolitischer und wirtschaftlicher Art, die den
 Betrieb oder die leitenden Angestellten unmittelbar betreffen, wird
 hierdurch nicht berührt.
@@ -83,9 +78,7 @@ hierdurch nicht berührt.
 ## Zweiter Teil - Sprecherausschuß, Versammlung der leitenden Angestellten, Gesamt-, Unternehmens- und Konzernsprecherausschuß
 
 
-
 ### Erster Abschnitt - Wahl, Zusammensetzung und Amtszeit des Sprecherausschusses
-
 
 
 #### § 3 Wahlberechtigung und Wählbarkeit
@@ -102,44 +95,23 @@ wählbar ist, wer
 1.  aufgrund allgemeinen Auftrags des Arbeitgebers Verhandlungspartner des
     Sprecherausschusses ist,
 
-
-2.  nicht Aufsichtsratsmitglied der Arbeitnehmer nach § 6 Abs. 2 Satz 1
-    des Mitbestimmungsgesetzes in Verbindung mit § 105 Abs. 1 des
+2.  nicht Aufsichtsratsmitglied der Arbeitnehmer nach § 6 Abs. 2 Satz
+    1 des Mitbestimmungsgesetzes in Verbindung mit § 105 Abs. 1 des
     Aktiengesetzes sein kann oder
-
 
 3.  infolge strafgerichtlicher Verurteilung die Fähigkeit, Rechte aus
     öffentlichen Wahlen zu erlangen, nicht besitzt.
-
-
-
 
 
 #### § 4 Zahl der Sprecherausschußmitglieder
 
 (1) Der Sprecherausschuß besteht in Betrieben mit in der Regel
 
-*    *   10 bis 20 leitenden Angestellten
-
-    *   aus einer Person,
-
-
-*    *   21 bis 100 leitenden Angestellten
-
-    *   aus drei Mitgliedern,
-
-
-*    *   101 bis 300 leitenden Angestellten
-
-    *   aus fünf Mitgliedern,
-
-
-*    *   über 300 leitenden Angestellten
-
-    *   aus sieben Mitgliedern.
-
-
-
+| 10 bis 20 leitenden Angestellten | aus einer Person, |
+| --- | --- |
+| 21 bis 100 leitenden Angestellten | aus drei Mitgliedern, |
+| 101 bis 300 leitenden Angestellten | aus fünf Mitgliedern, |
+| über 300 leitenden Angestellten | aus sieben Mitgliedern. |
 
 (2) Männer und Frauen sollen entsprechend ihrem zahlenmäßigen
 Verhältnis im Sprecherausschuß vertreten sein.
@@ -157,25 +129,19 @@ wenn
 
 1.  im Betrieb ein Sprecherausschuß nicht besteht,
 
-
 2.  der Sprecherausschuß durch eine gerichtliche Entscheidung aufgelöst
     ist,
-
 
 3.  die Wahl des Sprecherausschusses mit Erfolg angefochten worden ist
     oder
 
-
 4.  der Sprecherausschuß mit der Mehrheit seiner Mitglieder seinen
     Rücktritt beschlossen hat.
 
-
-
-
-(3) Hat außerhalb des in Absatz 1 festgelegten Zeitraums eine Wahl des
-Sprecherausschusses stattgefunden, ist der Sprecherausschuß in dem auf
-die Wahl folgenden nächsten Zeitraum der regelmäßigen Wahlen des
-Sprecherausschusses neu zu wählen. Hat die Amtszeit des
+(3) Hat außerhalb des in Absatz 1 festgelegten Zeitraums eine Wahl
+des Sprecherausschusses stattgefunden, ist der Sprecherausschuß
+in dem auf die Wahl folgenden nächsten Zeitraum der regelmäßigen
+Wahlen des Sprecherausschusses neu zu wählen. Hat die Amtszeit des
 Sprecherausschusses zu Beginn des in Absatz 1 festgelegten Zeitraums
 noch nicht ein Jahr betragen, ist der Sprecherausschuß in dem
 übernächsten Zeitraum der regelmäßigen Wahlen des Sprecherausschusses
@@ -183,15 +149,15 @@ neu zu wählen.
 
 (4) Die regelmäßige Amtszeit des Sprecherausschusses beträgt vier
 Jahre. Die Amtszeit beginnt mit der Bekanntgabe des Wahlergebnisses
-oder, wenn zu diesem Zeitpunkt noch ein Sprecherausschuß besteht, mit
-Ablauf von dessen Amtszeit. Die Amtszeit endet spätestens am 31. Mai
-des Jahres, in dem nach Absatz 1 die regelmäßigen Wahlen des
-Sprecherausschusses stattfinden. In dem Fall des Absatzes 3 Satz 2
-endet die Amtszeit spätestens am 31. Mai des Jahres, in dem der
+oder, wenn zu diesem Zeitpunkt noch ein Sprecherausschuß besteht,
+mit Ablauf von dessen Amtszeit. Die Amtszeit endet spätestens am
+31\. Mai des Jahres, in dem nach Absatz 1 die regelmäßigen Wahlen
+des Sprecherausschusses stattfinden. In dem Fall des Absatzes 3 Satz
+2 endet die Amtszeit spätestens am 31. Mai des Jahres, in dem der
 Sprecherausschuß neu zu wählen ist.
 
-(5) In dem Fall des Absatzes 2 Nr. 4 führt der Sprecherausschuß die
-Geschäfte weiter, bis der neue Sprecherausschuß gewählt und das
+(5) In dem Fall des Absatzes 2 Nr. 4 führt der Sprecherausschuß
+die Geschäfte weiter, bis der neue Sprecherausschuß gewählt und das
 Wahlergebnis bekanntgegeben ist.
 
 
@@ -209,12 +175,12 @@ wird dieser mit einfacher Stimmenmehrheit gewählt. In einem getrennten
 Wahlgang ist ein Ersatzmitglied zu wählen.
 
 (4) Zur Wahl des Sprecherausschusses können die leitenden Angestellten
-Wahlvorschläge machen. Jeder Wahlvorschlag muß von mindestens einem
-Zwanzigstel der leitenden Angestellten, jedoch von mindestens drei
-leitenden Angestellten unterzeichnet sein; in Betrieben mit in der
-Regel bis zu zwanzig leitenden Angestellten genügt die Unterzeichnung
-durch zwei leitende Angestellte. In jedem Fall genügt die
-Unterzeichnung durch fünfzig leitende Angestellte.
+Wahlvorschläge machen. Jeder Wahlvorschlag muß von mindestens
+einem Zwanzigstel der leitenden Angestellten, jedoch von mindestens
+drei leitenden Angestellten unterzeichnet sein; in Betrieben mit
+in der Regel bis zu zwanzig leitenden Angestellten genügt die
+Unterzeichnung durch zwei leitende Angestellte. In jedem Fall genügt
+die Unterzeichnung durch fünfzig leitende Angestellte.
 
 
 #### § 7 Bestellung, Wahl und Aufgaben des Wahlvorstands
@@ -224,31 +190,31 @@ Sprecherausschuß einen aus drei oder einer höheren ungeraden Zahl von
 leitenden Angestellten bestehenden Wahlvorstand und einen von ihnen
 als Vorsitzenden.
 
-(2) Besteht in einem Betrieb, der die Voraussetzungen des § 1 Abs. 1
-erfüllt, kein Sprecherausschuß, wird in einer Versammlung von der
-Mehrheit der anwesenden leitenden Angestellten des Betriebs ein
-Wahlvorstand gewählt. Zu dieser Versammlung können drei leitende
-Angestellte des Betriebs einladen und Vorschläge für die
-Zusammensetzung des Wahlvorstands machen. Der Wahlvorstand hat
-unverzüglich eine Abstimmung darüber herbeizuführen, ob ein
+(2) Besteht in einem Betrieb, der die Voraussetzungen des § 1 Abs.
+1 erfüllt, kein Sprecherausschuß, wird in einer Versammlung von
+der Mehrheit der anwesenden leitenden Angestellten des Betriebs
+ein Wahlvorstand gewählt. Zu dieser Versammlung können drei
+leitende Angestellte des Betriebs einladen und Vorschläge für
+die Zusammensetzung des Wahlvorstands machen. Der Wahlvorstand
+hat unverzüglich eine Abstimmung darüber herbeizuführen, ob ein
 Sprecherausschuß gewählt werden soll. Ein Sprecherausschuß wird
 gewählt, wenn dies die Mehrheit der leitenden Angestellten des
 Betriebs in einer Versammlung oder durch schriftliche Stimmabgabe
 verlangt.
 
-(3) Zur Teilnahme an der Versammlung und der Abstimmung nach Absatz 2
-sind die Angestellten berechtigt, die vom Wahlvorstand aus Anlaß der
-letzten Betriebsratswahl oder der letzten Wahl von
-Aufsichtsratsmitgliedern der Arbeitnehmer, falls diese Wahl später als
-die Betriebsratswahl stattgefunden hat, oder durch gerichtliche
+(3) Zur Teilnahme an der Versammlung und der Abstimmung nach
+Absatz 2 sind die Angestellten berechtigt, die vom Wahlvorstand
+aus Anlaß der letzten Betriebsratswahl oder der letzten Wahl von
+Aufsichtsratsmitgliedern der Arbeitnehmer, falls diese Wahl später
+als die Betriebsratswahl stattgefunden hat, oder durch gerichtliche
 Entscheidung den leitenden Angestellten zugeordnet worden sind. Hat
 zuletzt oder im gleichen Zeitraum wie die nach Satz 1 maßgebende Wahl
 eine Wahl nach diesem Gesetz stattgefunden, ist die für diese Wahl
 erfolgte Zuordnung entscheidend.
 
 (4) Der Wahlvorstand hat die Wahl unverzüglich einzuleiten, sie
-durchzuführen und nach Abschluß der Wahl öffentlich die Auszählung der
-Stimmen vorzunehmen, deren Ergebnis in einer Niederschrift
+durchzuführen und nach Abschluß der Wahl öffentlich die Auszählung
+der Stimmen vorzunehmen, deren Ergebnis in einer Niederschrift
 festzustellen und es im Betrieb bekanntzugeben. Dem Arbeitgeber ist
 eine Abschrift der Wahlniederschrift zu übersenden.
 
@@ -256,24 +222,24 @@ eine Abschrift der Wahlniederschrift zu übersenden.
 #### § 8 Wahlanfechtung, Wahlschutz und Wahlkosten
 
 (1) Die Wahl kann beim Arbeitsgericht angefochten werden, wenn gegen
-wesentliche Vorschriften über das Wahlrecht, die Wählbarkeit oder das
-Wahlverfahren verstoßen worden ist und eine Berichtigung nicht erfolgt
-ist, es sei denn, daß durch den Verstoß das Wahlergebnis nicht
-geändert oder beeinflußt werden konnte. Zur Anfechtung berechtigt sind
-mindestens drei leitende Angestellte oder der Arbeitgeber. Die
+wesentliche Vorschriften über das Wahlrecht, die Wählbarkeit oder
+das Wahlverfahren verstoßen worden ist und eine Berichtigung nicht
+erfolgt ist, es sei denn, daß durch den Verstoß das Wahlergebnis nicht
+geändert oder beeinflußt werden konnte. Zur Anfechtung berechtigt
+sind mindestens drei leitende Angestellte oder der Arbeitgeber. Die
 Wahlanfechtung ist nur innerhalb einer Frist von zwei Wochen, vom Tage
 der Bekanntgabe des Wahlergebnisses an gerechnet, zulässig.
 
 (2) Niemand darf die Wahl des Sprecherausschusses behindern.
 Insbesondere darf kein leitender Angestellter in der Ausübung des
-aktiven und passiven Wahlrechts beschränkt werden. Niemand darf die
-Wahl des Sprecherausschusses durch Zufügung oder Androhung von
-Nachteilen oder durch Gewährung oder Versprechen von Vorteilen
+aktiven und passiven Wahlrechts beschränkt werden. Niemand darf
+die Wahl des Sprecherausschusses durch Zufügung oder Androhung
+von Nachteilen oder durch Gewährung oder Versprechen von Vorteilen
 beeinflussen.
 
 (3) Die Kosten der Wahl trägt der Arbeitgeber. Versäumnis von
-Arbeitszeit, die zur Ausübung des Wahlrechts, zur Betätigung im
-Wahlvorstand oder zur Tätigkeit als Vermittler (§ 18a des
+Arbeitszeit, die zur Ausübung des Wahlrechts, zur Betätigung
+im Wahlvorstand oder zur Tätigkeit als Vermittler (§ 18a des
 Betriebsverfassungsgesetzes) erforderlich ist, berechtigt den
 Arbeitgeber nicht zur Minderung des Arbeitsentgelts.
 
@@ -291,26 +257,18 @@ werden.
 
 1.  Ablauf der Amtszeit,
 
-
 2.  Niederlegung des Sprecherausschußamtes,
-
 
 3.  Beendigung des Arbeitsverhältnisses,
 
-
 4.  Verlust der Wählbarkeit,
-
 
 5.  Ausschluß aus dem Sprecherausschuß oder Auflösung des
     Sprecherausschusses aufgrund einer gerichtlichen Entscheidung oder
 
-
 6.  gerichtliche Entscheidung über die Feststellung der Nichtwählbarkeit
     nach Ablauf der in § 8 Abs. 1 Satz 3 bezeichneten Frist, es sei denn,
     der Mangel liegt nicht mehr vor.
-
-
-
 
 
 #### § 10 Ersatzmitglieder
@@ -323,10 +281,10 @@ eines zeitweilig verhinderten Mitglieds des Sprecherausschusses.
 leitenden Angestellten derjenigen Vorschlagslisten entnommen, denen
 die zu ersetzenden Mitglieder angehören. Ist eine Vorschlagsliste
 erschöpft, ist das Ersatzmitglied derjenigen Vorschlagsliste zu
-entnehmen, auf die nach den Grundsätzen der Verhältniswahl der nächste
-Sitz entfallen würde. Ist das ausgeschiedene oder verhinderte Mitglied
-nach den Grundsätzen der Mehrheitswahl gewählt, bestimmt sich die
-Reihenfolge der Ersatzmitglieder nach der Höhe der erreichten
+entnehmen, auf die nach den Grundsätzen der Verhältniswahl der
+nächste Sitz entfallen würde. Ist das ausgeschiedene oder verhinderte
+Mitglied nach den Grundsätzen der Mehrheitswahl gewählt, bestimmt
+sich die Reihenfolge der Ersatzmitglieder nach der Höhe der erreichten
 Stimmenzahl.
 
 (3) In dem Fall des § 6 Abs. 3 gilt Absatz 1 mit der Maßgabe, daß das
@@ -336,15 +294,14 @@ gewählte Ersatzmitglied nachrückt oder die Stellvertretung übernimmt.
 ### Zweiter Abschnitt - Geschäftsführung des Sprecherausschusses
 
 
-
 #### § 11 Vorsitzender
 
 (1) Der Sprecherausschuß wählt aus seiner Mitte den Vorsitzenden und
 dessen Stellvertreter.
 
 (2) Der Vorsitzende vertritt den Sprecherausschuß im Rahmen der von
-diesem gefaßten Beschlüsse. Zur Entgegennahme von Erklärungen, die dem
-Sprecherausschuß gegenüber abzugeben sind, ist der Vorsitzende
+diesem gefaßten Beschlüsse. Zur Entgegennahme von Erklärungen, die
+dem Sprecherausschuß gegenüber abzugeben sind, ist der Vorsitzende
 berechtigt. Im Falle der Verhinderung des Vorsitzenden nimmt sein
 Stellvertreter diese Aufgaben wahr.
 
@@ -355,16 +312,16 @@ Vorsitzenden oder andere Mitglieder des Sprecherausschusses
 
 #### § 12 Sitzungen des Sprecherausschusses
 
-(1) Vor Ablauf einer Woche nach dem Wahltag hat der Wahlvorstand die
-Mitglieder des Sprecherausschusses zu der nach § 11 Abs. 1
+(1) Vor Ablauf einer Woche nach dem Wahltag hat der Wahlvorstand
+die Mitglieder des Sprecherausschusses zu der nach § 11 Abs. 1
 vorgeschriebenen Wahl einzuberufen. Der Vorsitzende des Wahlvorstands
 leitet die Sitzung, bis der Sprecherausschuß aus seiner Mitte einen
 Wahlleiter zur Wahl des Vorsitzenden und seines Stellvertreters
 bestellt hat.
 
 (2) Die weiteren Sitzungen beruft der Vorsitzende des
-Sprecherausschusses ein. Er setzt die Tagesordnung fest und leitet die
-Verhandlung. Der Vorsitzende hat die Mitglieder des
+Sprecherausschusses ein. Er setzt die Tagesordnung fest und
+leitet die Verhandlung. Der Vorsitzende hat die Mitglieder des
 Sprecherausschusses zu den Sitzungen rechtzeitig unter Mitteilung der
 Tagesordnung zu laden.
 
@@ -379,10 +336,10 @@ eingeladen ist, teil.
 
 (5) Die Sitzungen des Sprecherausschusses finden in der Regel während
 der Arbeitszeit statt. Der Sprecherausschuß hat bei der Anberaumung
-von Sitzungen auf die betrieblichen Notwendigkeiten Rücksicht zu
-nehmen. Der Arbeitgeber ist über den Zeitpunkt der Sitzung vorher zu
-verständigen. Die Sitzungen des Sprecherausschusses sind nicht
-öffentlich; § 2 Abs. 2 bleibt unberührt. Die Sitzungen des
+von Sitzungen auf die betrieblichen Notwendigkeiten Rücksicht
+zu nehmen. Der Arbeitgeber ist über den Zeitpunkt der Sitzung
+vorher zu verständigen. Die Sitzungen des Sprecherausschusses sind
+nicht öffentlich; § 2 Abs. 2 bleibt unberührt. Die Sitzungen des
 Sprecherausschusses finden als Präsenzsitzung statt.
 
 (6) Abweichend von Absatz 5 Satz 5 kann die Teilnahme an einer Sitzung
@@ -392,16 +349,12 @@ wenn
 1.  die Voraussetzungen für eine solche Teilnahme in der Geschäftsordnung
     unter Sicherung des Vorrangs der Präsenzsitzung festgelegt sind,
 
-
 2.  nicht mindestens ein Viertel der Mitglieder des Sprecherausschusses
     binnen einer von dem Vorsitzenden zu bestimmenden Frist diesem
     gegenüber widerspricht und
 
-
 3.  sichergestellt ist, dass Dritte vom Inhalt der Sitzung keine Kenntnis
     nehmen können.
-
-
 
 Eine Aufzeichnung der Sitzung ist unzulässig.
 
@@ -413,22 +366,22 @@ auch eine Teilnahme vor Ort als erforderlich.
 #### § 13 Beschlüsse und Geschäftsordnung des Sprecherausschusses
 
 (1) Die Beschlüsse des Sprecherausschusses werden, soweit in diesem
-Gesetz nichts anderes bestimmt ist, mit der Mehrheit der Stimmen der
-anwesenden Mitglieder gefaßt. Mitglieder, die mittels Video- und
-Telefonkonferenz an der Beschlussfassung teilnehmen, gelten als
+Gesetz nichts anderes bestimmt ist, mit der Mehrheit der Stimmen
+der anwesenden Mitglieder gefaßt. Mitglieder, die mittels Video-
+und Telefonkonferenz an der Beschlussfassung teilnehmen, gelten als
 anwesend. Bei Stimmengleichheit ist ein Antrag abgelehnt.
 
-(2) Der Sprecherausschuß ist nur beschlußfähig, wenn mindestens die
-Hälfte seiner Mitglieder an der Beschlußfassung teilnimmt.
+(2) Der Sprecherausschuß ist nur beschlußfähig, wenn mindestens
+die Hälfte seiner Mitglieder an der Beschlußfassung teilnimmt.
 Stellvertretung durch Ersatzmitglieder ist zulässig.
 
 (3) Über jede Verhandlung des Sprecherausschusses ist eine
 Niederschrift anzufertigen, die mindestens den Wortlaut der Beschlüsse
 und die Stimmenmehrheit, mit der sie gefaßt sind, enthält. Die
-Niederschrift ist von dem Vorsitzenden und einem weiteren Mitglied zu
-unterzeichnen. Der Niederschrift ist eine Anwesenheitsliste
-beizufügen, in die sich jeder Teilnehmer eigenhändig einzutragen hat.
-Nimmt ein Mitglied des Sprecherausschusses mittels Video- und
+Niederschrift ist von dem Vorsitzenden und einem weiteren Mitglied
+zu unterzeichnen. Der Niederschrift ist eine Anwesenheitsliste
+beizufügen, in die sich jeder Teilnehmer eigenhändig einzutragen
+hat. Nimmt ein Mitglied des Sprecherausschusses mittels Video- und
 Telefonkonferenz an der Sitzung teil, so hat es seine Teilnahme
 gegenüber dem Vorsitzenden in Textform zu bestätigen. Die Bestätigung
 ist der Niederschrift beizufügen.
@@ -436,8 +389,8 @@ ist der Niederschrift beizufügen.
 (4) Die Mitglieder des Sprecherausschusses haben das Recht, die
 Unterlagen des Sprecherausschusses jederzeit einzusehen.
 
-(5) Sonstige Bestimmungen über die Geschäftsführung können in einer
-schriftlichen Geschäftsordnung getroffen werden, die der
+(5) Sonstige Bestimmungen über die Geschäftsführung können in
+einer schriftlichen Geschäftsordnung getroffen werden, die der
 Sprecherausschuß mit der Mehrheit der Stimmen seiner Mitglieder
 beschließt.
 
@@ -445,8 +398,8 @@ beschließt.
 #### § 14 Arbeitsversäumnis und Kosten
 
 (1) Mitglieder des Sprecherausschusses sind von ihrer beruflichen
-Tätigkeit ohne Minderung des Arbeitsentgelts zu befreien, wenn und
-soweit es nach Umfang und Art des Betriebs zur ordnungsgemäßen
+Tätigkeit ohne Minderung des Arbeitsentgelts zu befreien, wenn
+und soweit es nach Umfang und Art des Betriebs zur ordnungsgemäßen
 Durchführung ihrer Aufgaben erforderlich ist.
 
 (2) Die durch die Tätigkeit des Sprecherausschusses entstehenden
@@ -458,18 +411,17 @@ sachliche Mittel und Büropersonal zur Verfügung zu stellen.
 ### Dritter Abschnitt - Versammlung der leitenden Angestellten
 
 
-
 #### § 15 Zeitpunkt, Einberufung und Themen der Versammlung
 
-(1) Der Sprecherausschuß soll einmal im Kalenderjahr eine Versammlung
-der leitenden Angestellten einberufen und in ihr einen
-Tätigkeitsbericht erstatten. Auf Antrag des Arbeitgebers oder eines
-Viertels der leitenden Angestellten hat der Sprecherausschuß eine
-Versammlung der leitenden Angestellten einzuberufen und den
+(1) Der Sprecherausschuß soll einmal im Kalenderjahr eine
+Versammlung der leitenden Angestellten einberufen und in ihr einen
+Tätigkeitsbericht erstatten. Auf Antrag des Arbeitgebers oder
+eines Viertels der leitenden Angestellten hat der Sprecherausschuß
+eine Versammlung der leitenden Angestellten einzuberufen und den
 beantragten Beratungsgegenstand auf die Tagesordnung zu setzen.
 
-(2) Die Versammlung der leitenden Angestellten soll während der
-Arbeitszeit stattfinden. Sie wird vom Vorsitzenden des
+(2) Die Versammlung der leitenden Angestellten soll während
+der Arbeitszeit stattfinden. Sie wird vom Vorsitzenden des
 Sprecherausschusses geleitet. Sie ist nicht öffentlich.
 
 (3) Der Arbeitgeber ist zu der Versammlung der leitenden Angestellten
@@ -485,7 +437,6 @@ Stellung nehmen. § 2 Abs. 4 gilt entsprechend.
 
 
 ### Vierter Abschnitt - Gesamtsprecherausschuß
-
 
 
 #### § 16 Errichtung, Mitgliederzahl und Stimmengewicht
@@ -505,12 +456,12 @@ und die Reihenfolge des Nachrückens festzulegen; § 10 Abs. 3 gilt
 entsprechend.
 
 (4) Jedes Mitglied des Gesamtsprecherausschusses hat so viele Stimmen,
-wie in dem Betrieb, in dem es gewählt wurde, leitende Angestellte in
-der Wählerliste der leitenden Angestellten eingetragen sind. Ist ein
-Mitglied des Gesamtsprecherausschusses für mehrere Betriebe entsandt
-worden, hat es so viele Stimmen, wie in den Betrieben, für die es
-entsandt ist, leitende Angestellte in den Wählerlisten eingetragen
-sind. Sind für einen Betrieb mehrere Mitglieder des
+wie in dem Betrieb, in dem es gewählt wurde, leitende Angestellte
+in der Wählerliste der leitenden Angestellten eingetragen sind.
+Ist ein Mitglied des Gesamtsprecherausschusses für mehrere Betriebe
+entsandt worden, hat es so viele Stimmen, wie in den Betrieben,
+für die es entsandt ist, leitende Angestellte in den Wählerlisten
+eingetragen sind. Sind für einen Betrieb mehrere Mitglieder des
 Sprecherausschusses entsandt worden, stehen diesen die Stimmen nach
 Satz 1 anteilig zu.
 
@@ -518,8 +469,8 @@ Satz 1 anteilig zu.
 #### § 17 Ausschluß von Mitgliedern und Erlöschen der Mitgliedschaft
 
 (1) Mindestens ein Viertel der leitenden Angestellten des
-Unternehmens, der Gesamtsprecherausschuß oder der Arbeitgeber können
-beim Arbeitsgericht den Ausschluß eines Mitglieds aus dem
+Unternehmens, der Gesamtsprecherausschuß oder der Arbeitgeber
+können beim Arbeitsgericht den Ausschluß eines Mitglieds aus dem
 Gesamtsprecherausschuß wegen grober Verletzung seiner gesetzlichen
 Pflichten beantragen.
 
@@ -531,9 +482,9 @@ Entscheidung oder Abberufung durch den Sprecherausschuß.
 
 #### § 18 Zuständigkeit
 
-(1) Der Gesamtsprecherausschuß ist zuständig für die Behandlung von
-Angelegenheiten, die das Unternehmen oder mehrere Betriebe des
-Unternehmens betreffen und nicht durch die einzelnen
+(1) Der Gesamtsprecherausschuß ist zuständig für die Behandlung
+von Angelegenheiten, die das Unternehmen oder mehrere Betriebe
+des Unternehmens betreffen und nicht durch die einzelnen
 Sprecherausschüsse innerhalb ihrer Betriebe behandelt werden können.
 Er ist den Sprecherausschüssen nicht übergeordnet.
 
@@ -554,8 +505,8 @@ entsprechend für den Gesamtsprecherausschuß.
 Abs. 1, 3 bis 5 und § 14 entsprechend.
 
 (2) Ist ein Gesamtsprecherausschuß zu errichten, hat der
-Sprecherausschuß der Hauptverwaltung des Unternehmens oder, sofern ein
-solcher nicht besteht, der Sprecherausschuß des nach der Zahl der
+Sprecherausschuß der Hauptverwaltung des Unternehmens oder, sofern
+ein solcher nicht besteht, der Sprecherausschuß des nach der Zahl der
 leitenden Angestellten größten Betriebs zu der Wahl des Vorsitzenden
 und des stellvertretenden Vorsitzenden des Gesamtsprecherausschusses
 einzuladen. Der Vorsitzende des einladenden Sprecherausschusses hat
@@ -564,13 +515,12 @@ einen Wahlleiter zur Wahl des Vorsitzenden und seines Stellvertreters
 bestellt hat. § 12 Absatz 2 bis 7 gilt entsprechend.
 
 (3) Der Gesamtsprecherausschuß ist nur beschlußfähig, wenn mindestens
-die Hälfte seiner Mitglieder an der Beschlußfassung teilnimmt und die
-Teilnehmenden mindestens die Hälfte aller Stimmen vertreten.
+die Hälfte seiner Mitglieder an der Beschlußfassung teilnimmt und
+die Teilnehmenden mindestens die Hälfte aller Stimmen vertreten.
 Stellvertretung durch Ersatzmitglieder ist zulässig.
 
 
 ### Fünfter Abschnitt - Unternehmenssprecherausschuß
-
 
 
 #### § 20 Errichtung
@@ -582,22 +532,22 @@ leitenden Angestellten gewählt werden, wenn dies die Mehrheit der
 leitenden Angestellten des Unternehmens verlangt. Die §§ 2 bis 15
 gelten entsprechend.
 
-(2) Bestehen in dem Unternehmen Sprecherausschüsse, hat auf Antrag der
-Mehrheit der leitenden Angestellten des Unternehmens der
-Sprecherausschuß der Hauptverwaltung oder, sofern ein solcher nicht
-besteht, der Sprecherausschuß des nach der Zahl der leitenden
+(2) Bestehen in dem Unternehmen Sprecherausschüsse, hat auf
+Antrag der Mehrheit der leitenden Angestellten des Unternehmens
+der Sprecherausschuß der Hauptverwaltung oder, sofern ein solcher
+nicht besteht, der Sprecherausschuß des nach der Zahl der leitenden
 Angestellten größten Betriebs einen Unternehmenswahlvorstand für die
-Wahl eines Unternehmenssprecherausschusses zu bestellen. Die Wahl des
-Unternehmenssprecherausschusses findet im nächsten Zeitraum der
+Wahl eines Unternehmenssprecherausschusses zu bestellen. Die Wahl
+des Unternehmenssprecherausschusses findet im nächsten Zeitraum der
 regelmäßigen Wahlen im Sinne des § 5 Abs. 1 Satz 1 statt. Die Amtszeit
 der Sprecherausschüsse endet mit der Bekanntgabe des Wahlergebnisses.
 
-(3) Besteht ein Unternehmenssprecherausschuß, können auf Antrag der
-Mehrheit der leitenden Angestellten des Unternehmens
+(3) Besteht ein Unternehmenssprecherausschuß, können auf
+Antrag der Mehrheit der leitenden Angestellten des Unternehmens
 Sprecherausschüsse gewählt werden. Der Unternehmenssprecherausschuß
-hat für jeden Betrieb, der die Voraussetzungen des § 1 Abs. 1 erfüllt,
-einen Wahlvorstand nach § 7 Abs. 1 zu bestellen. Die Wahl von
-Sprecherausschüssen findet im nächsten Zeitraum der regelmäßigen
+hat für jeden Betrieb, der die Voraussetzungen des § 1 Abs. 1
+erfüllt, einen Wahlvorstand nach § 7 Abs. 1 zu bestellen. Die Wahl
+von Sprecherausschüssen findet im nächsten Zeitraum der regelmäßigen
 Wahlen im Sinne des § 5 Abs. 1 Satz 1 statt. Die Amtszeit des
 Unternehmenssprecherausschusses endet mit der Bekanntgabe des
 Wahlergebnisses eines Sprecherausschusses.
@@ -610,18 +560,17 @@ entsprechend für den Unternehmenssprecherausschuß.
 ### Sechster Abschnitt - Konzernsprecherausschuß
 
 
-
 #### § 21 Errichtung, Mitgliederzahl und Stimmengewicht
 
-(1) Für einen Konzern (§ 18 Abs. 1 des Aktiengesetzes) kann durch
-Beschlüsse der einzelnen Gesamtsprecherausschüsse ein
-Konzernsprecherausschuß errichtet werden. Die Errichtung erfordert die
-Zustimmung der Gesamtsprecherausschüsse der Konzernunternehmen, in
-denen insgesamt mindestens 75 vom Hundert der leitenden Angestellten
-der Konzernunternehmen beschäftigt sind. Besteht in einem
-Konzernunternehmen nur ein Sprecherausschuß oder ein
-Unternehmenssprecherausschuß, tritt er an die Stelle des
-Gesamtsprecherausschusses und nimmt dessen Aufgaben nach den
+(1) Für einen Konzern (§ 18 Abs. 1 des Aktiengesetzes) kann
+durch Beschlüsse der einzelnen Gesamtsprecherausschüsse ein
+Konzernsprecherausschuß errichtet werden. Die Errichtung
+erfordert die Zustimmung der Gesamtsprecherausschüsse der
+Konzernunternehmen, in denen insgesamt mindestens 75 vom Hundert
+der leitenden Angestellten der Konzernunternehmen beschäftigt
+sind. Besteht in einem Konzernunternehmen nur ein Sprecherausschuß
+oder ein Unternehmenssprecherausschuß, tritt er an die Stelle
+des Gesamtsprecherausschusses und nimmt dessen Aufgaben nach den
 Vorschriften dieses Abschnitts wahr.
 
 (2) In den Konzernsprecherausschuß entsendet jeder
@@ -631,19 +580,19 @@ Konzernsprecherausschuß und Arbeitgeber kann die Mitgliederzahl des
 Konzernsprecherausschusses abweichend von Satz 1 geregelt werden.
 
 (3) Der Gesamtsprecherausschuß hat für jedes Mitglied des
-Konzernsprecherausschusses mindestens ein Ersatzmitglied zu bestellen
-und die Reihenfolge des Nachrückens festzulegen; nimmt der
-Sprecherausschuß oder der Unternehmenssprecherausschuß eines
+Konzernsprecherausschusses mindestens ein Ersatzmitglied zu
+bestellen und die Reihenfolge des Nachrückens festzulegen; nimmt
+der Sprecherausschuß oder der Unternehmenssprecherausschuß eines
 Konzernunternehmens die Aufgaben des Gesamtsprecherausschusses nach
 Absatz 1 Satz 3 wahr, gilt § 10 Abs. 3 entsprechend.
 
 (4) Jedes Mitglied des Konzernsprecherausschusses hat so viele
-Stimmen, wie die Mitglieder des Gesamtsprecherausschusses, von dem es
-entsandt wurde, im Gesamtsprecherausschuß Stimmen haben. Ist ein
+Stimmen, wie die Mitglieder des Gesamtsprecherausschusses, von dem
+es entsandt wurde, im Gesamtsprecherausschuß Stimmen haben. Ist ein
 Mitglied des Konzernsprecherausschusses von einem Sprecherausschuß
 oder Unternehmenssprecherausschuß entsandt worden, hat es so viele
-Stimmen, wie in dem Betrieb oder Konzernunternehmen, in dem es gewählt
-wurde, leitende Angestellte in der Wählerliste der leitenden
+Stimmen, wie in dem Betrieb oder Konzernunternehmen, in dem es
+gewählt wurde, leitende Angestellte in der Wählerliste der leitenden
 Angestellten eingetragen sind. § 16 Abs. 4 Satz 2 und 3 gilt
 entsprechend.
 
@@ -665,8 +614,8 @@ Gesamtsprecherausschuß.
 
 #### § 23 Zuständigkeit
 
-(1) Der Konzernsprecherausschuß ist zuständig für die Behandlung von
-Angelegenheiten, die den Konzern oder mehrere Konzernunternehmen
+(1) Der Konzernsprecherausschuß ist zuständig für die Behandlung
+von Angelegenheiten, die den Konzern oder mehrere Konzernunternehmen
 betreffen und nicht durch die einzelnen Gesamtsprecherausschüsse
 innerhalb ihrer Unternehmen geregelt werden können. Er ist den
 Gesamtsprecherausschüssen nicht übergeordnet.
@@ -684,10 +633,10 @@ Widerruf der Beauftragung gilt Satz 1 entsprechend.
 Abs. 1, 3 bis 5, die §§ 14, 18 Abs. 3 und § 19 Abs. 3 entsprechend.
 
 (2) Ist ein Konzernsprecherausschuß zu errichten, hat der
-Gesamtsprecherausschuß des herrschenden Unternehmens oder, sofern ein
-solcher nicht besteht, der Gesamtsprecherausschuß des nach der Zahl
-der leitenden Angestellten größten Konzernunternehmens zu der Wahl des
-Vorsitzenden und des stellvertretenden Vorsitzenden des
+Gesamtsprecherausschuß des herrschenden Unternehmens oder, sofern
+ein solcher nicht besteht, der Gesamtsprecherausschuß des nach der
+Zahl der leitenden Angestellten größten Konzernunternehmens zu der
+Wahl des Vorsitzenden und des stellvertretenden Vorsitzenden des
 Konzernsprecherausschusses einzuladen. Der Vorsitzende des einladenden
 Gesamtsprecherausschusses hat die Sitzung zu leiten, bis der
 Konzernsprecherausschuß aus seiner Mitte einen Wahlleiter zur Wahl des
@@ -698,9 +647,7 @@ bis 7 gilt entsprechend.
 ## Dritter Teil - Mitwirkung der leitenden Angestellten
 
 
-
 ### Erster Abschnitt - Allgemeine Vorschriften
-
 
 
 #### § 25 Aufgaben des Sprecherausschusses
@@ -709,8 +656,8 @@ bis 7 gilt entsprechend.
 Angestellten des Betriebs (§ 1 Abs. 1 und 2). Die Wahrnehmung eigener
 Belange durch den einzelnen leitenden Angestellten bleibt unberührt.
 
-(2) Der Sprecherausschuß ist zur Durchführung seiner Aufgaben nach
-diesem Gesetz rechtzeitig und umfassend vom Arbeitgeber zu
+(2) Der Sprecherausschuß ist zur Durchführung seiner Aufgaben
+nach diesem Gesetz rechtzeitig und umfassend vom Arbeitgeber zu
 unterrichten. Auf Verlangen sind ihm die erforderlichen Unterlagen
 jederzeit zur Verfügung zu stellen.
 
@@ -733,9 +680,9 @@ Verlangen beizufügen.
 
 #### § 27 Grundsätze für die Behandlung der leitenden Angestellten
 
-(1) Arbeitgeber und Sprecherausschuss haben darüber zu wachen, dass
-alle leitenden Angestellten des Betriebs nach den Grundsätzen von
-Recht und Billigkeit behandelt werden, insbesondere, dass jede
+(1) Arbeitgeber und Sprecherausschuss haben darüber zu wachen,
+dass alle leitenden Angestellten des Betriebs nach den Grundsätzen
+von Recht und Billigkeit behandelt werden, insbesondere, dass jede
 Benachteiligung von Personen aus Gründen ihrer Rasse oder wegen ihrer
 ethnischen Herkunft, ihrer Abstammung oder sonstigen Herkunft, ihrer
 Nationalität, ihrer Religion oder Weltanschauung, ihrer Behinderung,
@@ -751,10 +698,10 @@ zu fördern.
 #### § 28 Richtlinien und Vereinbarungen
 
 (1) Arbeitgeber und Sprecherausschuß können Richtlinien über den
-Inhalt, den Abschluß oder die Beendigung von Arbeitsverhältnissen der
-leitenden Angestellten schriftlich vereinbaren. Werden Richtlinien in
-elektronischer Form geschlossen, haben Arbeitgeber und
-Sprecherausschuss abweichend von § 126a Absatz 2 des Bürgerlichen
+Inhalt, den Abschluß oder die Beendigung von Arbeitsverhältnissen
+der leitenden Angestellten schriftlich vereinbaren. Werden
+Richtlinien in elektronischer Form geschlossen, haben Arbeitgeber
+und Sprecherausschuss abweichend von § 126a Absatz 2 des Bürgerlichen
 Gesetzesbuchs dasselbe Dokument elektronisch zu signieren.
 
 (2) Der Inhalt der Richtlinien gilt für die Arbeitsverhältnisse
@@ -769,15 +716,15 @@ drei Monaten gekündigt werden.
 
 #### § 29 Geheimhaltungspflicht
 
-(1) Die Mitglieder und Ersatzmitglieder des Sprecherausschusses sind
-verpflichtet, Betriebs- oder Geschäftsgeheimnisse, die ihnen wegen
-ihrer Zugehörigkeit zum Sprecherausschuß bekanntgeworden und vom
-Arbeitgeber ausdrücklich als geheimhaltungsbedürftig bezeichnet worden
-sind, nicht zu offenbaren und nicht zu verwerten. Dies gilt auch nach
-dem Ausscheiden aus dem Sprecherausschuß. Die Verpflichtung gilt nicht
-gegenüber Mitgliedern des Sprecherausschusses, des
-Gesamtsprecherausschusses, des Unternehmenssprecherausschusses, des
-Konzernsprecherausschusses und den Arbeitnehmervertretern im
+(1) Die Mitglieder und Ersatzmitglieder des Sprecherausschusses
+sind verpflichtet, Betriebs- oder Geschäftsgeheimnisse, die ihnen
+wegen ihrer Zugehörigkeit zum Sprecherausschuß bekanntgeworden und
+vom Arbeitgeber ausdrücklich als geheimhaltungsbedürftig bezeichnet
+worden sind, nicht zu offenbaren und nicht zu verwerten. Dies gilt
+auch nach dem Ausscheiden aus dem Sprecherausschuß. Die Verpflichtung
+gilt nicht gegenüber Mitgliedern des Sprecherausschusses, des
+Gesamtsprecherausschusses, des Unternehmenssprecherausschusses,
+des Konzernsprecherausschusses und den Arbeitnehmervertretern im
 Aufsichtsrat.
 
 (2) Absatz 1 gilt entsprechend für die Mitglieder und Ersatzmitglieder
@@ -788,7 +735,6 @@ des Konzernsprecherausschusses.
 ### Zweiter Abschnitt - Mitwirkungsrechte
 
 
-
 #### § 30 Arbeitsbedingungen und Beurteilungsgrundsätze
 
 Der Arbeitgeber hat den Sprecherausschuß rechtzeitig in folgenden
@@ -797,18 +743,15 @@ Angelegenheiten der leitenden Angestellten zu unterrichten:
 1.  Änderungen der Gehaltsgestaltung und sonstiger allgemeiner
     Arbeitsbedingungen;
 
-
 2.  Einführung oder Änderung allgemeiner Beurteilungsgrundsätze.
-
-
 
 Er hat die vorgesehenen Maßnahmen mit dem Sprecherausschuß zu beraten.
 
 
 #### § 31 Personelle Maßnahmen
 
-(1) Eine beabsichtigte Einstellung oder personelle Veränderung eines
-leitenden Angestellten ist dem Sprecherausschuß rechtzeitig
+(1) Eine beabsichtigte Einstellung oder personelle Veränderung
+eines leitenden Angestellten ist dem Sprecherausschuß rechtzeitig
 mitzuteilen.
 
 (2) Der Sprecherausschuß ist vor jeder Kündigung eines leitenden
@@ -822,8 +765,8 @@ unter Angabe der Gründe schriftlich mitzuteilen. Äußert er sich
 innerhalb der nach Satz 4 maßgebenden Frist nicht, so gilt dies als
 Einverständnis des Sprecherausschusses mit der Kündigung.
 
-(3) Die Mitglieder des Sprecherausschusses sind verpflichtet, über die
-ihnen im Rahmen personeller Maßnahmen nach den Absätzen 1 und 2
+(3) Die Mitglieder des Sprecherausschusses sind verpflichtet, über
+die ihnen im Rahmen personeller Maßnahmen nach den Absätzen 1 und 2
 bekanntgewordenen persönlichen Verhältnisse und Angelegenheiten der
 leitenden Angestellten, die ihrer Bedeutung oder ihrem Inhalt nach
 einer vertraulichen Behandlung bedürfen, Stillschweigen zu bewahren; §
@@ -832,9 +775,9 @@ einer vertraulichen Behandlung bedürfen, Stillschweigen zu bewahren; §
 
 #### § 32 Wirtschaftliche Angelegenheiten
 
-(1) Der Unternehmer hat den Sprecherausschuß mindestens einmal im
-Kalenderhalbjahr über die wirtschaftlichen Angelegenheiten des
-Betriebs und des Unternehmens im Sinne des § 106 Abs. 3 des
+(1) Der Unternehmer hat den Sprecherausschuß mindestens einmal
+im Kalenderhalbjahr über die wirtschaftlichen Angelegenheiten
+des Betriebs und des Unternehmens im Sinne des § 106 Abs. 3 des
 Betriebsverfassungsgesetzes zu unterrichten, soweit dadurch nicht die
 Betriebs- oder Geschäftsgeheimnisse des Unternehmens gefährdet werden.
 Satz 1 gilt nicht für Unternehmen und Betriebe im Sinne des § 118 Abs.
@@ -853,7 +796,6 @@ dieser Nachteile zu beraten.
 ## Vierter Teil - Besondere Vorschriften
 
 
-
 ### § 33 Seeschiffahrt
 
 (1) Auf Seeschiffahrtsunternehmen (§ 114 Abs. 2 des
@@ -864,8 +806,8 @@ ergibt.
 (2) Sprecherausschüsse werden nur in den Landbetrieben von
 Seeschiffahrtsunternehmen gewählt.
 
-(3) Leitende Angestellte im Sinne des § 1 Abs. 1 dieses Gesetzes sind
-in einem Seebetrieb (§ 114 Abs. 3 und 4 des
+(3) Leitende Angestellte im Sinne des § 1 Abs. 1 dieses
+Gesetzes sind in einem Seebetrieb (§ 114 Abs. 3 und 4 des
 Betriebsverfassungsgesetzes) nur die Kapitäne. Sie gelten für die
 Anwendung dieses Gesetzes als leitende Angestellte des Landbetriebs.
 Bestehen mehrere Landbetriebe, so gelten sie als leitende Angestellte
@@ -877,23 +819,18 @@ mit folgender Maßgabe Anwendung:
 
 1.  Die in § 7 Abs. 1 genannte Frist wird auf sechzehn Wochen verlängert.
 
-
 2.  Die Frist für die Wahlanfechtung nach § 8 Abs. 1 Satz 3 beginnt für
     die leitenden Angestellten an Bord, wenn das Schiff nach Bekanntgabe
     des Wahlergebnisses erstmalig einen Hafen im Geltungsbereich dieses
-    Gesetzes oder einen Hafen, in dem ein Seemannsamt seinen Sitz hat,
-    anläuft. Nach Ablauf von drei Monaten seit Bekanntgabe des
+    Gesetzes oder einen Hafen, in dem ein Seemannsamt seinen Sitz
+    hat, anläuft. Nach Ablauf von drei Monaten seit Bekanntgabe des
     Wahlergebnisses ist eine Wahlanfechtung unzulässig. Die Wahlanfechtung
     kann auch zu Protokoll des Seemannsamtes erklärt werden. Die
     Anfechtungserklärung ist vom Seemannsamt unverzüglich an das für die
     Anfechtung zuständige Arbeitsgericht weiterzuleiten.
 
 
-
-
-
 ## Fünfter Teil - Straf- und Bußgeldvorschriften
-
 
 
 ### § 34 Straftaten gegen Vertretungsorgane der leitenden Angestellten und ihre Mitglieder
@@ -906,19 +843,14 @@ bestraft, wer
     Androhung von Nachteilen oder durch Gewährung oder Versprechen von
     Vorteilen beeinflußt,
 
-
 2.  die Tätigkeit des Sprecherausschusses, des Gesamtsprecherausschusses,
     des Unternehmenssprecherausschusses oder des
     Konzernsprecherausschusses behindert oder stört oder
 
-
 3.  ein Mitglied oder ein Ersatzmitglied des Sprecherausschusses, des
-    Gesamtsprecherausschusses, des Unternehmenssprecherausschusses oder
-    des Konzernsprecherausschusses um seiner Tätigkeit willen
+    Gesamtsprecherausschusses, des Unternehmenssprecherausschusses
+    oder des Konzernsprecherausschusses um seiner Tätigkeit willen
     benachteiligt oder begünstigt.
-
-
-
 
 (2) Die Tat wird nur auf Antrag des Sprecherausschusses, des
 Gesamtsprecherausschusses, des Unternehmenssprecherausschusses, des
@@ -929,19 +861,19 @@ verfolgt.
 ### § 35 Verletzung von Geheimnissen
 
 (1) Wer unbefugt ein fremdes Betriebs- oder Geschäftsgeheimnis
-offenbart, das ihm in seiner Eigenschaft als Mitglied oder
-Ersatzmitglied des Sprecherausschusses, des Gesamtsprecherausschusses,
-des Unternehmenssprecherausschusses oder des
-Konzernsprecherausschusses bekanntgeworden und das vom Arbeitgeber
+offenbart, das ihm in seiner Eigenschaft als Mitglied
+oder Ersatzmitglied des Sprecherausschusses, des
+Gesamtsprecherausschusses, des Unternehmenssprecherausschusses oder
+des Konzernsprecherausschusses bekanntgeworden und das vom Arbeitgeber
 ausdrücklich als geheimhaltungsbedürftig bezeichnet worden ist, wird
 mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
 
-(2) Ebenso wird bestraft, wer unbefugt ein fremdes Geheimnis eines
-leitenden Angestellten oder eines anderen Arbeitnehmers, namentlich
-ein zu dessen persönlichen Lebensbereich gehörendes Geheimnis,
-offenbart, das ihm in seiner Eigenschaft als Mitglied oder
-Ersatzmitglied des Sprecherausschusses oder einer der in Absatz 1
-genannten Vertretungen bekanntgeworden ist und über das nach den
+(2) Ebenso wird bestraft, wer unbefugt ein fremdes Geheimnis
+eines leitenden Angestellten oder eines anderen Arbeitnehmers,
+namentlich ein zu dessen persönlichen Lebensbereich gehörendes
+Geheimnis, offenbart, das ihm in seiner Eigenschaft als Mitglied
+oder Ersatzmitglied des Sprecherausschusses oder einer der in Absatz
+1 genannten Vertretungen bekanntgeworden ist und über das nach den
 Vorschriften dieses Gesetzes Stillschweigen zu bewahren ist.
 
 (3) Handelt der Täter gegen Entgelt oder in der Absicht, sich oder
@@ -952,11 +884,11 @@ Betriebs- oder Geschäftsgeheimnis, zu dessen Geheimhaltung er nach den
 Absätzen 1 oder 2 verpflichtet ist, verwertet.
 
 (4) Die Absätze 1 bis 3 sind auch anzuwenden, wenn der Täter das
-fremde Geheimnis nach dem Tode des Betroffenen unbefugt offenbart oder
-verwertet.
+fremde Geheimnis nach dem Tode des Betroffenen unbefugt offenbart
+oder verwertet.
 
-(5) Die Tat wird nur auf Antrag des Verletzten verfolgt. Stirbt der
-Verletzte, so geht das Antragsrecht nach § 77 Abs. 2 des
+(5) Die Tat wird nur auf Antrag des Verletzten verfolgt. Stirbt
+der Verletzte, so geht das Antragsrecht nach § 77 Abs. 2 des
 Strafgesetzbuches auf die Angehörigen über, wenn das Geheimnis zum
 persönlichen Lebensbereich des Verletzten gehört; in anderen Fällen
 geht es auf die Erben über. Offenbart der Täter das Geheimnis nach dem
@@ -977,7 +909,6 @@ Euro geahndet werden.
 ## Sechster Teil - Übergangs- und Schlußvorschriften
 
 
-
 ### § 37 Erstmalige Wahlen nach diesem Gesetz
 
 (1) Die erstmaligen Wahlen des Sprecherausschusses oder des
@@ -994,46 +925,33 @@ spätestens bis zum 31. Mai 1990, im Amt.
 ### § 38 Ermächtigung zum Erlaß von Wahlordnungen
 
 Das Bundesministerium für Arbeit und Soziales kann durch
-Rechtsverordnung zur Regelung des Wahlverfahrens Vorschriften über die
-in den §§ 3 bis 8, 20 und 33 bezeichneten Wahlen erlassen,
+Rechtsverordnung zur Regelung des Wahlverfahrens Vorschriften über
+die in den §§ 3 bis 8, 20 und 33 bezeichneten Wahlen erlassen,
 insbesondere über
 
 1.  die Vorbereitung der Wahl, insbesondere die Aufstellung der
     Wählerlisten;
 
-
 2.  die Frist für die Einsichtnahme in die Wählerlisten und die Erhebung
     von Einsprüchen gegen sie;
 
-
 3.  die Vorschlagslisten und die Frist für ihre Einreichung;
-
 
 4.  das Wahlausschreiben und die Fristen für seine Bekanntmachung;
 
-
 5.  die Stimmabgabe;
-
 
 6.  die Feststellung des Wahlergebnisses und die Fristen für seine
     Bekanntmachung;
 
-
 7.  die Aufbewahrung der Wahlakten.
-
-
-
 
 
 ### § 39 Sonderregelung aus Anlass der COVID-19-Pandemie
 
-(1) Eine Versammlung nach § 15 kann bis zum Ablauf des 19. März 2022
+Eine Versammlung nach § 15 kann bis zum Ablauf des 7. April 2023
 auch mittels audiovisueller Einrichtungen durchgeführt werden, wenn
 sichergestellt ist, dass nur teilnahmeberechtigte Personen Kenntnis
 von dem Inhalt der Versammlung nehmen können. Eine Aufzeichnung ist
 unzulässig.
-
-(2) Der Deutsche Bundestag kann durch im Bundesgesetzblatt bekannt zu
-machenden Beschluss einmalig die Frist nach Absatz 1 Satz 1 um bis zu
-drei Monate verlängern.
 

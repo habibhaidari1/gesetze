@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Gewährung von Vorrechten und Befreiungen an die Europäische
-  Organisation zur Sicherung der Luftfahrt "EUROCONTROL" in Brüssel
+Title: "Verordnung über die Gewährung von Vorrechten und Befreiungen an die Europäische Organisation zur Sicherung der Luftfahrt \"EUROCONTROL\" in Brüssel"
 jurabk: EUROCONTROLVorRV
 layout: default
 origslug: eurocontrolvorrv
@@ -37,8 +36,7 @@ Bundesregierung mit Zustimmung des Bundesrates:
 (1) Das Bundeszentralamt für Steuern erstattet an die Europäische
 Organisation zur Sicherung der Luftfahrt EUROCONTROL auf Antrag aus
 dem Aufkommen der Umsatzsteuer die EUROCONTROL von dem Unternehmer
-nach
-§ 14 Abs. 1 des Umsatzsteuergesetzes 1967              für Lieferungen
+nach *§ 14 Abs. 1 des Umsatzsteuergesetzes 1967* für Lieferungen
 oder sonstige Leistungen, die ausschließlich für den amtlichen
 Gebrauch bestimmt sind, in Rechnung gestellte und von EUROCONTROL
 bezahlte Umsatzsteuer, wenn der Steuerbetrag im Einzelfall 50,-- DM
@@ -47,8 +45,8 @@ Tabakerzeugnissen.
 
 (2) Der Antrag auf Erstattung ist unter Beifügung der in Betracht
 kommenden Rechnung innerhalb von sechs Monaten nach Erhalt einer
-Rechnung, spätestens jedoch bis zum Ablauf des Kalenderjahres, das auf
-das Kalenderjahr folgt, in dem der Umsatz an EUROCONTROL bewirkt
+Rechnung, spätestens jedoch bis zum Ablauf des Kalenderjahres, das
+auf das Kalenderjahr folgt, in dem der Umsatz an EUROCONTROL bewirkt
 worden ist, zu stellen.
 
 (3) Wird dem Antrag nicht entsprochen, so ist ein schriftlicher
@@ -75,8 +73,8 @@ Umsatzsteuer oder Einfuhrumsatzsteuer, der dem Veräußerungspreis
 entspricht, an das Bundeszentralamt für Steuern abzuführen. Der
 abzuführende Steuerbetrag kann aus Vereinfachungsgründen durch
 Anwendung des im Zeitpunkt der Veräußerung für die Lieferung des
-Gegenstandes geltenden Steuersatzes
-(§ 12 des Umsatzsteuergesetzes 1967)              ermittelt werden.
+Gegenstandes geltenden Steuersatzes *(§ 12 des Umsatzsteuergesetzes
+1967)* ermittelt werden.
 
 
 ## § 4
@@ -90,12 +88,12 @@ Kontingente.
 
 ## § 5
 
-(1) Das Bundeszentralamt für Steuern erstattet EUROCONTROL auf Antrag
-aus dem Aufkommen der Einkommensteuer die Einkommensteuer oder
-Lohnsteuer, die auf die Bezüge im Sinne des Artikels 3 des in § 10
-näher bezeichneten Zusatzprotokolls entfällt. Diese ist in der Weise
-zu ermitteln, daß die sich bei der Veranlagung des Einkommens oder
-beim Lohnsteuerjahresausgleich ergebende Einkommensteuer oder
+(1) Das Bundeszentralamt für Steuern erstattet EUROCONTROL auf
+Antrag aus dem Aufkommen der Einkommensteuer die Einkommensteuer
+oder Lohnsteuer, die auf die Bezüge im Sinne des Artikels 3 des in
+§ 10 näher bezeichneten Zusatzprotokolls entfällt. Diese ist in der
+Weise zu ermitteln, daß die sich bei der Veranlagung des Einkommens
+oder beim Lohnsteuerjahresausgleich ergebende Einkommensteuer oder
 Lohnsteuer im Verhältnis der von EUROCONTROL bezogenen Einkünfte zum
 Gesamtbetrag der Einkünfte aufgeteilt wird. Wird eine Veranlagung des
 Einkommens oder ein Lohnsteuerjahresausgleich nicht durchgeführt, so
@@ -104,8 +102,8 @@ wird die einbehaltene Lohnsteuer erstattet.
 (2) Der Antrag auf Erstattung ist unter Angabe der in Betracht
 kommenden Arbeitnehmer sowie des für diese zuständigen Finanzamts
 spätestens bis zum Ablauf des Kalenderjahres, das dem Kalenderjahr
-folgt, in dem die Bezüge gezahlt worden sind, zu stellen. Während des
-Kalenderjahres, in dem die Bezüge gezahlt werden, können vom
+folgt, in dem die Bezüge gezahlt worden sind, zu stellen. Während
+des Kalenderjahres, in dem die Bezüge gezahlt werden, können vom
 Bundeszentralamt für Steuern nach näherer Vereinbarung zwischen
 EUROCONTROL und dem für die Finanzen zuständigen Bundesminister
 angemessene Vorauszahlungen auf den Erstattungsbetrag entrichtet
@@ -120,8 +118,8 @@ EUROCONTROL zugelassen sind, ist von der Kraftfahrzeugsteuer befreit.
 
 ## § 7
 
-Steuerentlastungen nach den vorstehenden Bestimmungen werden nur
-gewährt, soweit die anderen Mitgliedstaaten von EUROCONTROL
+Steuerentlastungen nach den vorstehenden Bestimmungen werden
+nur gewährt, soweit die anderen Mitgliedstaaten von EUROCONTROL
 entsprechende Steuerentlastungen gewähren.
 
 
@@ -140,19 +138,19 @@ Inkrafttreten des in § 10 näher bezeichneten Zusatzprotokolls liegt.
 Inkrafttreten des in § 10 näher bezeichneten Zusatzprotokolls gezahlt
 worden sind.
 
-(4) § 7 dieser Verordnung ist anzuwenden, soweit Kraftfahrzeuge und
-Kraftfahrzeuganhänger nach dem Inkrafttreten des in § 10 näher
+(4) § 7 dieser Verordnung ist anzuwenden, soweit Kraftfahrzeuge
+und Kraftfahrzeuganhänger nach dem Inkrafttreten des in § 10 näher
 bezeichneten Zusatzprotokolls gehalten werden.
 
 
 ## § 9
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
-4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit Artikel 4
-des Gesetzes vom 22. Juni 1954 über den Beitritt der Bundesrepublik
+4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit Artikel
+4 des Gesetzes vom 22. Juni 1954 über den Beitritt der Bundesrepublik
 Deutschland zum Abkommen über die Vorrechte und Befreiungen der
-Sonderorganisationen der Vereinten Nationen vom 21. November 1947 und
-über die Gewährung von Vorrechten und Befreiungen an andere
+Sonderorganisationen der Vereinten Nationen vom 21. November 1947
+und über die Gewährung von Vorrechten und Befreiungen an andere
 zwischenstaatliche Organisationen, zuletzt geändert durch das Gesetz
 vom 28. Februar 1964, auch im Land Berlin.
 
@@ -160,8 +158,8 @@ vom 28. Februar 1964, auch im Land Berlin.
 ## § 10
 
 (1) Diese Verordnung tritt an dem Tage in Kraft, an dem das
-Zusatzprotokoll vom 6. Juli 1970 zum Internationalen Übereinkommen vom
-13\. Dezember 1960 über Zusammenarbeit zur Sicherung der Luftfahrt
+Zusatzprotokoll vom 6. Juli 1970 zum Internationalen Übereinkommen
+vom 13. Dezember 1960 über Zusammenarbeit zur Sicherung der Luftfahrt
 "EUROCONTROL" (Bundesgesetzbl. 1962 II S. 2273) nach seinem Artikel 7
 für die Bundesrepublik Deutschland in Kraft tritt. Das Zusatzprotokoll
 wird nachstehend veröffentlicht.

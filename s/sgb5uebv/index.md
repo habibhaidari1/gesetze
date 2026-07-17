@@ -1,6 +1,5 @@
 ---
-Title: Verordnung zur Übertragung der Befugnis zum Erlass von Rechtsverordnungen nach
-  dem Fünften Buch Sozialgesetzbuch auf das Bundesamt für Soziale Sicherung
+Title: Verordnung zur Übertragung der Befugnis zum Erlass von Rechtsverordnungen nach dem Fünften Buch Sozialgesetzbuch auf das Bundesamt für Soziale Sicherung
 jurabk: SGB5ÜbV
 layout: default
 origslug: sgb5_bv

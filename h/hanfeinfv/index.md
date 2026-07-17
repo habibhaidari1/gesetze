@@ -21,13 +21,13 @@ Zuletzt geändert durch
 
 ## Eingangsformel
 
-Auf Grund des § 3 Abs. 2, der §§ 15, 16 und 21 Nr. 1 und 3 sowie des §
-31 Abs. 2 Nr. 1 des Gesetzes zur Durchführung der Gemeinsamen
+Auf Grund des § 3 Abs. 2, der §§ 15, 16 und 21 Nr. 1 und 3 sowie
+des § 31 Abs. 2 Nr. 1 des Gesetzes zur Durchführung der Gemeinsamen
 Marktorganisationen in der Fassung der Bekanntmachung vom 20.
-September 1995 (BGBl. I S. 1146), von denen § 3 Abs. 2 zuletzt durch
-Artikel 196 der Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785) und
-§ 15 und § 21 durch Artikel 196 der Verordnung vom 29. Oktober 2001
-(BGBl. I S. 2785) geändert worden sind, verordnet das
+September 1995 (BGBl. I S. 1146), von denen § 3 Abs. 2 zuletzt
+durch Artikel 196 der Verordnung vom 29. Oktober 2001 (BGBl. I S.
+2785) und § 15 und § 21 durch Artikel 196 der Verordnung vom 29.
+Oktober 2001 (BGBl. I S. 2785) geändert worden sind, verordnet das
 Bundesministerium für Verbraucherschutz, Ernährung und Landwirtschaft
 im Einvernehmen mit den Bundesministerien der Finanzen und für
 Wirtschaft und Technologie:
@@ -43,9 +43,9 @@ gemeinsamen Organisation der Agrarmärkte.
 
 ## § 2 Zuständigkeit
 
-Zuständig für die Durchführung dieser Verordnung und der in § 1
-genannten Rechtsakte ist die Bundesanstalt für Landwirtschaft und
-Ernährung (Bundesanstalt), soweit nicht nach § 5 Absatz 1 die
+Zuständig für die Durchführung dieser Verordnung und der in §
+1 genannten Rechtsakte ist die Bundesanstalt für Landwirtschaft
+und Ernährung (Bundesanstalt), soweit nicht nach § 5 Absatz 1 die
 Bundesfinanzverwaltung zuständig ist.
 
 
@@ -56,17 +56,13 @@ von Hanf wird auf Antrag erteilt an
 
 1.  Forschungseinrichtungen oder
 
-
 2.  natürliche oder juristische Personen, die im Handel mit Getreide oder
     Saaten für die Futter- oder Nahrungsmittelherstellung tätig sind.
 
-
-
-
 (2) Die Zulassung ist zu versagen, wenn Tatsachen die Annahme
 rechtfertigen, dass der Antragsteller die für die Einfuhr von nicht
-zur Aussaat bestimmten Hanfsamen erforderliche Zuverlässigkeit nicht
-besitzt, insbesondere weil er erheblich oder wiederholt gegen
+zur Aussaat bestimmten Hanfsamen erforderliche Zuverlässigkeit
+nicht besitzt, insbesondere weil er erheblich oder wiederholt gegen
 betäubungsmittelrechtliche Vorschriften verstoßen hat.
 
 (3) Die Zulassung ist schriftlich bei der Bundesanstalt zu beantragen.
@@ -74,17 +70,14 @@ Der Antrag hat zu enthalten:
 
 1.  Name und Anschrift des Antragstellers,
 
-
 2.  Nachweis der in Absatz 1 genannten Voraussetzungen durch Vorlage
     geeigneter Unterlagen,
-
 
 3.  Angabe der beabsichtigten Verwendungszwecke der einzuführenden
     Hanfsamen und
 
-
-4.  Verpflichtungserklärung über die Vorlage der Bescheinigungen über die
-    Behandlung der Hanfsamen nach Artikel 9 Absatz 4 der delegierten
+4.  Verpflichtungserklärung über die Vorlage der Bescheinigungen über
+    die Behandlung der Hanfsamen nach Artikel 9 Absatz 4 der delegierten
     Verordnung (EU) 2016/1237 der Kommission vom 18. Mai 2016 zur
     Ergänzung der Verordnung (EU) Nr. 1308/2013 des Europäischen
     Parlaments und des Rates in Bezug auf die Durchführungsbestimmungen
@@ -98,9 +91,6 @@ Der Antrag hat zu enthalten:
     (EG) Nr. 1345/2005, (EG) Nr. 376/2008 und (EG) Nr. 507/2008 der
     Kommission (ABl. L 206 vom 30.7.2016, S. 1) in der jeweils geltenden
     Fassung.
-
-
-
 
 (4) Die Zulassung erfolgt durch Bescheid. Die Zulassung kann jederzeit
 widerrufen werden, wenn der Inhaber der Zulassung nicht mehr die
@@ -152,15 +142,15 @@ Die Nummer der Warenprobe vermerkt die Zollstelle, die die Probe
 nimmt, auf dem teilausgefüllten Lizenzformular, mit dem der Einführer
 bei der Bundesanstalt die Lizenz beantragt.
 
-(2) Bei zur Aussaat bestimmten Hanfsamen ist dem Antrag auf Erteilung
-der Lizenz das aufgrund des OECD-Systems für die sortenmäßige
-Zertifizierung von Saatgut ausgestellte Zertifikat beizufügen. Bei
-Sorten, die nicht im gemeinsamen Sortenkatalog für landwirtschaftliche
-Pflanzenarten aufgeführt sind und nach Artikel 17 der Richtlinie
-2002/53/EG des Rates vom 13. Juni 2002 über einen gemeinsamen
-Sortenkatalog für landwirtschaftliche Pflanzenarten (ABl. L 193 vom
-20\.7.2002, S. 1) veröffentlicht wurden, ist zusätzlich ein amtlich
-bestätigtes Attest des Ausfuhrstaates über den
+(2) Bei zur Aussaat bestimmten Hanfsamen ist dem Antrag auf
+Erteilung der Lizenz das aufgrund des OECD-Systems für die
+sortenmäßige Zertifizierung von Saatgut ausgestellte Zertifikat
+beizufügen. Bei Sorten, die nicht im gemeinsamen Sortenkatalog für
+landwirtschaftliche Pflanzenarten aufgeführt sind und nach Artikel
+17 der Richtlinie 2002/53/EG des Rates vom 13. Juni 2002 über einen
+gemeinsamen Sortenkatalog für landwirtschaftliche Pflanzenarten
+(ABl. L 193 vom 20.7.2002, S. 1) veröffentlicht wurden, ist
+zusätzlich ein amtlich bestätigtes Attest des Ausfuhrstaates über den
 Tetrahydrocannabinolgehalt der Sorte beizufügen. Bei Sorten, die die
 Voraussetzungen für die Erteilung des in Satz 1 genannten Zertifikats
 nicht erfüllen, genügt die Vorlage des in Satz 2 genannten Attestes.
@@ -168,8 +158,8 @@ nicht erfüllen, genügt die Vorlage des in Satz 2 genannten Attestes.
 
 ## § 6 Behandlung
 
-Auf begründeten Antrag des zugelassenen Einführers kann die Frist zur
-Behandlung der nicht zur Aussaat bestimmten Hanfsamen von der
+Auf begründeten Antrag des zugelassenen Einführers kann die Frist
+zur Behandlung der nicht zur Aussaat bestimmten Hanfsamen von der
 Bundesanstalt um einen oder zwei Sechsmonatszeiträume verlängert
 werden.
 
@@ -179,8 +169,8 @@ werden.
 Der zugelassene Einführer hat der Bundesanstalt die in Artikel 9
 Absatz 4 der delegierten Verordnung (EU) Nr. 2016/1237 genannte
 Bescheinigung über die Behandlung von nicht zur Aussaat bestimmtem
-Hanfsamen innerhalb von einem Monat nach Ablauf eines Quartals über
-die im jeweils abgelaufenen Quartal vorgenommenen Behandlungen
+Hanfsamen innerhalb von einem Monat nach Ablauf eines Quartals
+über die im jeweils abgelaufenen Quartal vorgenommenen Behandlungen
 vorzulegen. Die Bescheinigung ist durch den zugelassenen Einführer
 durch seine Unterschrift zu bestätigen und einer Lizenz durch Angabe
 der Registriernummer der Lizenz zuzuordnen.
@@ -199,19 +189,15 @@ werden, sind diese zu verwenden.
 
 ## § 9 Ordnungswidrigkeiten
 
-Ordnungswidrig im Sinne des § 36 Abs. 3 Nr. 3 des Gesetzes zur
-Durchführung der Gemeinsamen Marktorganisationen und der
+Ordnungswidrig im Sinne des § 36 Abs. 3 Nr. 3 des Gesetzes
+zur Durchführung der Gemeinsamen Marktorganisationen und der
 Direktzahlungen handelt, wer vorsätzlich oder leichtfertig
 
 1.  entgegen § 4 Abs. 7 eine Lizenz nicht oder nicht rechtzeitig
     zurücksendet oder
 
-
 2.  entgegen § 7 Satz 1 eine Bescheinigung nicht oder nicht rechtzeitig
     vorlegt.
-
-
-
 
 
 ## § 10 Inkrafttreten

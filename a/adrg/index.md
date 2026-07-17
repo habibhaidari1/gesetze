@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zu dem Europäischen Übereinkommen vom 30. September 1957 über die internationale
-  Beförderung gefährlicher Güter auf der Straße (ADR)
+Title: Gesetz zu dem Europäischen Übereinkommen vom 30. September 1957 über die internationale Beförderung gefährlicher Güter auf der Straße (ADR)
 jurabk: ADRG
 layout: default
 origslug: adrg
@@ -29,9 +28,9 @@ beschlossen:
 ## Art 1
 
 Dem in Genf am 13. Dezember 1957 von der Bundesrepublik Deutschland
-unterzeichneten Europäischen Übereinkommen vom 30. September 1957 über
-die internationale Beförderung gefährlicher Güter auf der Straße (ADR)
-einschließlich der Anlagen in ihrer am 29. Juli 1968 geänderten
+unterzeichneten Europäischen Übereinkommen vom 30. September 1957
+über die internationale Beförderung gefährlicher Güter auf der Straße
+(ADR) einschließlich der Anlagen in ihrer am 29. Juli 1968 geänderten
 Fassung wird zugestimmt. Das Übereinkommen wird nachstehend, die
 Anlagen A und B werden in einem Anlagenband veröffentlicht.
 
@@ -49,13 +48,13 @@ Kraft zu setzen.
 (2) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, Sonderabkommen nach Artikel 4 Abs. 3 des Übereinkommens
 durch Rechtsverordnung in Kraft zu setzen. Dasselbe gilt für
-Vereinbarungen über Ausnahmen nach den Vorschriften der Anlagen des
-Übereinkommens, wenn Gegenstände der Bundesgesetzgebung berührt
+Vereinbarungen über Ausnahmen nach den Vorschriften der Anlagen
+des Übereinkommens, wenn Gegenstände der Bundesgesetzgebung berührt
 werden.
 
 (3) Rechtsverordnungen nach den Absätzen 1 oder 2 bedürfen der
-Zustimmung des Bundesrates, wenn Änderungen des Übereinkommens oder
-seiner Anlagen oder Sonderabkommen nach Artikel 4 Abs. 3 des
+Zustimmung des Bundesrates, wenn Änderungen des Übereinkommens
+oder seiner Anlagen oder Sonderabkommen nach Artikel 4 Abs. 3 des
 Übereinkommens die Einrichtung der Landesbehörden oder die Regelung
 ihres Verwaltungsverfahrens betreffen.
 
@@ -84,32 +83,24 @@ Fahrzeuge zurückweisen.
 1.  der Bundesminister für Verkehr für Ausnahmen von den Vorschriften der
     Anlagen A und B;
 
-
 2.  die Physikalisch-Technische Bundesanstalt für die Genehmigung der
     Beförderung von radioaktiven Stoffen und für die Zulassung der Muster
     von Versandstücken für radioaktive Stoffe;
 
-
-3.  die Bundesanstalt für Materialprüfung für die Zulassung der Bauart von
-    Verpackungen und für die Genehmigung der Beförderung ohne
+3.  die Bundesanstalt für Materialprüfung für die Zulassung der Bauart
+    von Verpackungen und für die Genehmigung der Beförderung ohne
     Schutzbehälter;
-
 
 4.  die Behörden, die den Fahrzeugen das amtliche Kennzeichen zugeteilt
     haben, für Bescheinigungen nach Anhang B.3 der Anlage B;
 
-
 5.  die amtlich anerkannten Sachverständigen und Prüfer für den
-    Kraftfahrzeugverkehr für Untersuchungen von Fahrzeugen, mit Ausnahme
-    der mit diesen fest verbundenen Tanks, zur Vorbereitung von
+    Kraftfahrzeugverkehr für Untersuchungen von Fahrzeugen, mit
+    Ausnahme der mit diesen fest verbundenen Tanks, zur Vorbereitung von
     Entscheidungen über Bescheinigungen nach Anhang B.3 der Anlage B; die
-    amtlich anerkannten Sachverständigen nach
-    § 24c der Gewerbeordnung                    für Untersuchungen der mit
-    den Fahrzeugen fest verbundenen Tanks, auch wenn die Tanks nicht unter
-    § 24 der Gewerbeordnung                    fallen.
-
-
-
+    amtlich anerkannten Sachverständigen nach *§ 24c der Gewerbeordnung*
+    für Untersuchungen der mit den Fahrzeugen fest verbundenen Tanks, auch
+    wenn die Tanks nicht unter *§ 24 der Gewerbeordnung* fallen.
 
 (2) Im übrigen bestimmen sich die sachliche und die örtliche
 Zuständigkeit nach Landesrecht.

@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Entgelte für die Leistungen der Binnenlotsen auf der Bundeswasserstraße
-  Rhein zwischen den Schleusen Iffezheim und Mannheim/Ludwigshafen
+Title: Verordnung über die Entgelte für die Leistungen der Binnenlotsen auf der Bundeswasserstraße Rhein zwischen den Schleusen Iffezheim und Mannheim/Ludwigshafen
 jurabk: BinSchLotsVergV 2012
 layout: default
 origslug: binschlotsvergv_2012

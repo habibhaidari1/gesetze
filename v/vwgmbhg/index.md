@@ -1,6 +1,5 @@
 ---
-Title: Gesetz über die Regelung der Rechtsverhältnisse bei der Volkswagenwerk Gesellschaft
-  mit beschränkter Haftung
+Title: Gesetz über die Regelung der Rechtsverhältnisse bei der Volkswagenwerk Gesellschaft mit beschränkter Haftung
 jurabk: VWGmbHG
 layout: default
 origslug: vwgmbhg
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 1960, 301
-
 
 
 ## § 1
@@ -50,11 +48,10 @@ Gesetzes.
 Die bis zum 11. November 1959 von der Volkswagenwerk Gesellschaft mit
 beschränkter Haftung gezahlte Vermögensteuer und die bis zu diesem
 Zeitpunkt auf die Erträge aus den Geschäftsanteilen (§ 1) einbehaltene
-und abgeführte Kapitalertragsteuer sind nicht zu erstatten. Die bis
-zum 11. November 1959 entstandenen, aber noch nicht erfüllten
-Vermögensteuer- und Kapitalertragsteueransprüche sind nicht geltend zu
-machen.
-§ 222 der Reichsabgabenordnung              findet in den Fällen der
+und abgeführte Kapitalertragsteuer sind nicht zu erstatten. Die
+bis zum 11. November 1959 entstandenen, aber noch nicht erfüllten
+Vermögensteuer- und Kapitalertragsteueransprüche sind nicht geltend
+zu machen. *§ 222 der Reichsabgabenordnung* findet in den Fällen der
 Sätze 1 und 2 keine Anwendung.
 
 

@@ -21,8 +21,8 @@ Geändert durch
 
 ## Eingangsformel
 
-Die Reichsregierung hat zur Durchführung des zweiten Abkommens zur
-Vereinheitlichung des Luftprivatrechts vom 29. Mai 1933
+Die Reichsregierung hat zur Durchführung des zweiten Abkommens
+zur Vereinheitlichung des Luftprivatrechts vom 29. Mai 1933
 (Reichsgesetzbl. 1935 II S. 301) und zur Erweiterung des
 Geltungsbereichs seiner Bestimmungen das folgende Gesetz beschlossen,
 das hiermit verkündet wird:
@@ -35,24 +35,19 @@ Zur Vollziehung eines Arrestes dürfen nicht gepfändet werden:
 1.  Luftfahrzeuge, die ausschließlich staatlichen oder postalischen
     Zwecken dienen,
 
-
 2.  Luftfahrzeuge, die auf einer Fluglinie des öffentlichen Verkehrs
     eingesetzt sind, sowie die für den Liniendienst unentbehrlichen
     Ersatzluftfahrzeuge,
-
 
 3.  andere Luftfahrzeuge, die zur Beförderung von Personen oder Gütern
     gegen Entgelt verwendet werden und zum Abflug für eine solche
     Beförderung fertig sind.
 
 
-
-
-
 ## § 2
 
-(1) Das Verbot des § 1 steht der Pfändung eines Luftfahrzeugs der im §
-1 Nr. 3 bezeichneten Art nicht entgegen, wenn der Arrestanspruch
+(1) Das Verbot des § 1 steht der Pfändung eines Luftfahrzeugs der im
+§ 1 Nr. 3 bezeichneten Art nicht entgegen, wenn der Arrestanspruch
 während der Reise, auf der sich das Luftfahrzeug befindet, entstanden
 ist oder die Schuld für die bevorstehende Reise eingegangen ist. Das
 Vorliegen dieser Voraussetzungen ist vom Antragsteller glaubhaft zu
@@ -70,8 +65,8 @@ deckenden Summe wird die Vollziehung des Arrestes in Luftfahrzeuge
 gehemmt und der Schuldner zu dem Antrag auf sofortige Aufhebung des in
 ein Luftfahrzeug vollzogenen Arrestes berechtigt.
 
-(2) Ist der Wert des Luftfahrzeugs niedriger als dieser Betrag, so
-genügt die Hinterlegung eines dem Wert des Luftfahrzeugs
+(2) Ist der Wert des Luftfahrzeugs niedriger als dieser Betrag,
+so genügt die Hinterlegung eines dem Wert des Luftfahrzeugs
 entsprechenden Betrags.
 
 (3) Im übrigen bewendet es bei der Vorschrift des § 923 der

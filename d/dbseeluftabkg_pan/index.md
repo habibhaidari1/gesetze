@@ -1,8 +1,5 @@
 ---
-Title: Gesetz zu dem Abkommen vom 21. November 2016 zwischen der Bundesrepublik Deutschland
-  und der Republik Panama zur Vermeidung der Doppelbesteuerung auf dem Gebiet der
-  Steuern vom Einkommen betreffend den Betrieb von Seeschiffen oder Luftfahrzeugen
-  im internationalen Verkehr
+Title: Gesetz zu dem Abkommen vom 21. November 2016 zwischen der Bundesrepublik Deutschland und der Republik Panama zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen betreffend den Betrieb von Seeschiffen oder Luftfahrzeugen im internationalen Verkehr
 jurabk: DBSeeLuftAbkG PAN
 layout: default
 origslug: dbseeluftabkg_pan
@@ -28,8 +25,8 @@ beschlossen:
 ## Art 1
 
 Dem in Panama-Stadt am 21. November 2016 unterzeichneten Abkommen
-zwischen der Bundesrepublik Deutschland und der Republik Panama zur
-Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom
+zwischen der Bundesrepublik Deutschland und der Republik Panama
+zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom
 Einkommen betreffend den Betrieb von Seeschiffen oder Luftfahrzeugen
 im internationalen Verkehr wird zugestimmt. Das Abkommen wird
 nachstehend veröffentlicht.
@@ -37,9 +34,9 @@ nachstehend veröffentlicht.
 
 ## Art 2
 
-Soweit das Abkommen aufgrund seines Artikels 8 Absatz 2 für die Zeit
-vor dem Inkrafttreten des Abkommens anzuwenden ist, sind bereits
-ergangene Steuerfestsetzungen zu ändern oder aufzuheben.
+Soweit das Abkommen aufgrund seines Artikels 8 Absatz 2 für die
+Zeit vor dem Inkrafttreten des Abkommens anzuwenden ist, sind
+bereits ergangene Steuerfestsetzungen zu ändern oder aufzuheben.
 Steuerfestsetzungen sowie ihre Aufhebung und Änderung sind insoweit
 auch zulässig, wenn die Festsetzungsfrist abgelaufen ist; dies gilt
 nur bis zum Ablauf des vierten Kalenderjahrs, das auf das Kalenderjahr

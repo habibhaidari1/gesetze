@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zu dem Übereinkommen über den Internationalen Währungsfonds in der Fassung
-  von 1976
+Title: Gesetz zu dem Übereinkommen über den Internationalen Währungsfonds in der Fassung von 1976
 jurabk: IMFAbkG
 layout: default
 origslug: imfabkg
@@ -29,8 +28,8 @@ beschlossen:
 ## Art 1
 
 Der Neufassung des Abkommens über den Internationalen Währungsfonds,
-die der Gouverneursrat des Fonds bis zum 30. April 1976 genehmigt hat
-(ursprüngliche Fassung: BGBl. 1952 II S. 638; Änderungen und
+die der Gouverneursrat des Fonds bis zum 30. April 1976 genehmigt
+hat (ursprüngliche Fassung: BGBl. 1952 II S. 638; Änderungen und
 Ergänzungen von 1968: BGBl. 1968 II S. 1227), wird zugestimmt. Die im
 folgenden als Übereinkommen bezeichnete Neufassung wird nachstehend
 veröffentlicht.
@@ -39,8 +38,8 @@ veröffentlicht.
 ## Art 2
 
 Das Recht aus Artikel V des Übereinkommens, Mittel des Internationalen
-Währungsfonds innerhalb der Reservetranche im Sinne des Artikels XXX
-Buchstabe c des Übereinkommens zu beantragen, übt die Deutsche
+Währungsfonds innerhalb der Reservetranche im Sinne des Artikels
+XXX Buchstabe c des Übereinkommens zu beantragen, übt die Deutsche
 Bundesbank aus.
 
 
@@ -64,16 +63,16 @@ Bundesbank an den Fonds überträgt, gehen auf die Deutsche Bundesbank
 ## Art 4
 
 Die Deutsche Bundesbank wickelt den Geschäftsverkehr der
-Bundesrepublik Deutschland mit dem Internationalen Währungsfonds nach
-Artikel V Abschnitt 1 des Übereinkommens ab. Sie ist
+Bundesrepublik Deutschland mit dem Internationalen Währungsfonds
+nach Artikel V Abschnitt 1 des Übereinkommens ab. Sie ist
 Hinterlegungsstelle nach Artikel XIII Abschnitt 2 des Übereinkommens.
 
 
 ## Art 5
 
 (1) Die Bundesregierung bestellt den Gouverneur und den
-Stellvertretenden Gouverneur für die Bundesrepublik Deutschland im
-Internationalen Währungsfonds im Benehmen mit der Deutschen
+Stellvertretenden Gouverneur für die Bundesrepublik Deutschland
+im Internationalen Währungsfonds im Benehmen mit der Deutschen
 Bundesbank. Der Gouverneur oder der Stellvertretende Gouverneur können
 im Einvernehmen mit dem Bundesministerium der Finanzen zeitweilige
 Stellvertretende Gouverneure bestellen.
@@ -86,8 +85,8 @@ Bundesbank aus.
 
 (3) Das Bundesministerium der Finanzen übt das Recht der
 Bundesrepublik Deutschland zur Besetzung der Stelle eines
-Exekutivdirektors im Internationalen Währungsfonds im Benehmen mit der
-Deutschen Bundesbank aus. Der Exekutivdirektor bestellt den
+Exekutivdirektors im Internationalen Währungsfonds im Benehmen mit
+der Deutschen Bundesbank aus. Der Exekutivdirektor bestellt den
 Stellvertretenden Exekutivdirektor nach Weisung des Bundesministeriums
 der Finanzen. Satz 2 gilt entsprechend für die Bestellung eines
 zeitweiligen Stellvertretenden Exekutivdirektors.
@@ -100,8 +99,8 @@ ihre Tätigkeit im Einvernehmen mit dem Bundesministerium der Finanzen
 aus, der das Benehmen mit dem Bundesministerium für Wirtschaft und
 Energie herstellt.
 
-(2) Die sonstigen Erklärungsberechtigten im Gouverneursrat und im Rat
-auf Ministerebene sowie die Erklärungsberechtigten im
+(2) Die sonstigen Erklärungsberechtigten im Gouverneursrat und
+im Rat auf Ministerebene sowie die Erklärungsberechtigten im
 Exekutivdirektorium handeln auf Weisungen des Bundesministeriums der
 Finanzen.
 

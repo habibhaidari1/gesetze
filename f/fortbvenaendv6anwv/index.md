@@ -19,8 +19,8 @@ Fundstelle
 ## § 1 Anwendung geänderter Fortbildungsordnungen
 
 Die durch die Artikel 1 bis 19 und 21 bis 83 der Sechsten Verordnung
-zur Änderung von Fortbildungsordnungen vom 9. Dezember 2019 (BGBl. I
-S. 2153) geänderten Vorschriften der dort bezeichneten
+zur Änderung von Fortbildungsordnungen vom 9. Dezember 2019
+(BGBl. I S. 2153) geänderten Vorschriften der dort bezeichneten
 Fortbildungsordnungen sind ab dem 1. Oktober 2020 anzuwenden.
 
 
@@ -37,9 +37,9 @@ bis 83 der Sechsten Verordnung zur Änderung von Fortbildungsordnungen
 bezeichneten Verordnungen jeweils in ihrer bis zum Ablauf des 16.
 Dezember 2019 geltenden oder angewandten Fassung weiter anzuwenden.
 
-(2) Hat sich eine zu prüfende Person vor Ablauf des 30. September 2020
-erstmals für eine Prüfung nach den in den Artikeln 1 bis 83 der
-Sechsten Verordnung zur Änderung von Fortbildungsordnungen
+(2) Hat sich eine zu prüfende Person vor Ablauf des 30. September
+2020 erstmals für eine Prüfung nach den in den Artikeln 1 bis 83
+der Sechsten Verordnung zur Änderung von Fortbildungsordnungen
 bezeichneten Fortbildungsordnungen angemeldet, sind auf das
 Prüfungsverfahren auch über den 1. Oktober 2020 hinaus die
 Vorschriften anzuwenden, die bis zum Ablauf des 30. September 2020

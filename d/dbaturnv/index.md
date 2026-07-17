@@ -1,6 +1,5 @@
 ---
-Title: Verordnung zur Umsetzung der Notifizierung zur Anwendung der Anrechnungsmethode
-  bei bestimmten Einkünften nach dem deutsch-türkischen Doppelbesteuerungsabkommen
+Title: Verordnung zur Umsetzung der Notifizierung zur Anwendung der Anrechnungsmethode bei bestimmten Einkünften nach dem deutsch-türkischen Doppelbesteuerungsabkommen
 jurabk: DBATURNV
 layout: default
 origslug: dbaturnv
@@ -20,8 +19,8 @@ Fundstelle
 ## Eingangsformel
 
 Auf Grund des § 2 Absatz 3 Nummer 1 der Abgabenordnung, der durch
-Artikel 2 Nummer 1 des Gesetzes vom 20. Dezember 2016 (BGBl. I S.
-3000) angefügt worden ist, verordnet das Bundesministerium der
+Artikel 2 Nummer 1 des Gesetzes vom 20. Dezember 2016 (BGBl. I
+S. 3000) angefügt worden ist, verordnet das Bundesministerium der
 Finanzen:
 
 
@@ -37,10 +36,10 @@ in der jeweils geltenden Fassung.
 ## § 2 Vermeidung der Doppelbesteuerung
 
 Aufgrund der auf diplomatischem Weg erfolgten Notifizierung gemäß
-Artikel 22 Absatz 2 Buchstabe e Doppelbuchstabe bb des Abkommens wird
-bei einer nach Artikel 4 des Abkommens in der Bundesrepublik
-Deutschland ansässigen Person die Doppelbesteuerung bei Einkünften aus
-nichtselbständiger Arbeit nach Artikel 15 des Abkommens wie folgt
+Artikel 22 Absatz 2 Buchstabe e Doppelbuchstabe bb des Abkommens
+wird bei einer nach Artikel 4 des Abkommens in der Bundesrepublik
+Deutschland ansässigen Person die Doppelbesteuerung bei Einkünften
+aus nichtselbständiger Arbeit nach Artikel 15 des Abkommens wie folgt
 vermieden: Einkünfte, die nach dem Abkommen in der Republik Türkei
 besteuert werden können, sind nicht mehr von der Bemessungsgrundlage
 der deutschen Steuer nach Artikel 22 Absatz 2 Buchstabe a des

@@ -15,119 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2015, 286
 
-Stand: Ersetzt GO 1104-1-4 v. 15.12.1986 I 2529 (BVerfGGO 1986)
-
-## Inhalt
-
-## Teil A
-
-
-*    *   Vorschriften zur Organisation und Verwaltung des
-        Bundesverfassungsgerichts
-
-    *   §§  1 – 19
-
-
-
-
-## Teil B
-
-
-*    *   Verfahrensergänzende Vorschriften
-
-    *   §§ 20 – 73
-
-
-*    *
-    *   Titel  1:
-
-    *   Zum Verfahren im Allgemeinen
-
-    *   §§ 20 – 37
-
-
-*    *
-    *   Titel  2:
-
-    *   Zum Verfahren im Vertretungsfalle gemäß § 15 Absatz 2 Satz 2, § 19
-        Absatz 4 BVerfGG
-
-    *   § 38
-
-
-*    *
-    *   Titel  3:
-
-    *   Zum Verfahren in den Kammern gemäß § 81a und §§ 93b bis 93d BVerfGG
-
-    *   §§ 39 – 42
-
-
-*    *
-    *   Titel  4:
-
-    *   Zum Verfahren im Ausschuss gemäß § 14 Absatz 5 BVerfGG
-
-    *   §§ 43 – 46
-
-
-*    *
-    *   Titel  5:
-
-    *   Zum Verfahren im Plenum gemäß § 16 BVerfGG
-
-    *   §§ 47 – 48
-
-
-*    *
-    *   Titel  6:
-
-    *   Zum Verfahren im Plenum gemäß § 105 BVerfGG
-
-    *   §§ 49 – 54
-
-
-*    *
-    *   Titel  7:
-
-    *   Zum Verfahren bei Abgabe eines Sondervotums gemäß § 30 Absatz 2
-        BVerfGG
-
-    *   § 55
-
-
-*    *
-    *   Titel  8:
-
-    *   Zum Verfahren im Plenum gemäß § 7a BVerfGG
-
-    *   §§ 56 – 58
-
-
-*    *
-    *   Titel  9:
-
-    *   Zum Verfahren in der Beschwerdekammer gemäß § 97c BVerfGG
-
-    *   §§ 59 – 62
-
-
-*    *
-    *   Titel 10:
-
-    *   Über das Allgemeine Register (AR) des Bundesverfassungsgerichts
-
-    *   §§ 63 – 65
-
-
-*    *
-    *   Titel 11:
-
-    *   Schlussvorschriften
-
-    *   §§ 66 – 73
-
-
+Stand
+:   Ersetzt Geschäftsordnung 1104-1-4 v. 15.12.1986 I 2529 (BVerfGGO 1986)
 
 
 ## Teil A - Vorschriften zur Organisation und Verwaltung des Bundesverfassungsgerichts
@@ -169,8 +58,8 @@ Beratung erforderlichen Unterlagen beizufügen.
 
 (6) Der Präsident setzt jeden von einem Mitglied des Gerichts
 spätestens am dritten Tag vor der Sitzung angemeldeten
-Beratungsgegenstand auf die Tagesordnung. Das Plenum kann, wenn
-niemand widerspricht, weitere Beratungsgegenstände auf die
+Beratungsgegenstand auf die Tagesordnung. Das Plenum kann,
+wenn niemand widerspricht, weitere Beratungsgegenstände auf die
 Tagesordnung setzen. Ein Beratungsgegenstand, den der Präsident, der
 Vizepräsident, ein Ausschuss oder mindestens drei Richterinnen und
 Richter eingebracht haben, darf von der Tagesordnung nicht abgesetzt
@@ -188,16 +77,11 @@ zugeleitet wird.
 
 a)  einen Geschäftsordnungsausschuss,
 
-
 b)  einen Protokollausschuss,
-
 
 c)  einen Haushalts- und Personalausschuss,
 
-
 d)  einen Bibliotheksausschuss.
-
-
 
 Nach Bedarf können weitere Ausschüsse gebildet werden.
 
@@ -219,8 +103,8 @@ den Ausschuss unverzüglich einberufen.
 Mitglieder anwesend ist.
 
 (7) Die ständigen Ausschüsse erledigen ihre Angelegenheiten an Stelle
-des Plenums, soweit nicht das Plenum im Einzelfall die Entscheidung an
-sich zieht oder der Ausschuss die Entscheidung des Plenums für
+des Plenums, soweit nicht das Plenum im Einzelfall die Entscheidung
+an sich zieht oder der Ausschuss die Entscheidung des Plenums für
 erforderlich hält. Das Plenum kann einen Ausschuss für die Behandlung
 einer Angelegenheit an seine Beschlüsse binden. Es kann einem
 ständigen Ausschuss eine Angelegenheit zur Vorbereitung der Beratung
@@ -240,14 +124,14 @@ lebensältesten anwesenden Mitglied des Gerichts vertreten.
 ### § 5
 
 (1) Der Präsident vertritt das Gericht nach außen. Die Vertretung
-übernimmt im Fall der Verhinderung der Vizepräsident und bei dessen
-Verhinderung das dienstälteste, bei gleichem Dienstalter das
+übernimmt im Fall der Verhinderung der Vizepräsident und bei
+dessen Verhinderung das dienstälteste, bei gleichem Dienstalter das
 lebensälteste anwesende Mitglied des Gerichts.
 
 (2) Die Darlegung von Auffassungen des Gerichts und die Wahrnehmung
-seiner Interessen gegenüber dem Bundespräsidenten, dem Bundestag, dem
-Bundesrat, der Bundesregierung sowie deren Ausschüssen obliegt dem
-Präsidenten im Benehmen mit dem Vizepräsidenten. Sie können von
+seiner Interessen gegenüber dem Bundespräsidenten, dem Bundestag,
+dem Bundesrat, der Bundesregierung sowie deren Ausschüssen obliegt
+dem Präsidenten im Benehmen mit dem Vizepräsidenten. Sie können von
 anderen Richterinnen und Richtern vertreten oder unterstützt werden.
 
 
@@ -272,10 +156,10 @@ zu unterrichten.
 
 ### § 8
 
-Das Dienstalter eines Mitglieds des Gerichts bestimmt sich vom Tage
-der Vereidigung als Richterin oder Richter des
-Bundesverfassungsgerichts an. Bei gleichem Dienstalter entscheidet das
-Lebensalter.
+Das Dienstalter eines Mitglieds des Gerichts bestimmt sich
+vom Tage der Vereidigung als Richterin oder Richter des
+Bundesverfassungsgerichts an. Bei gleichem Dienstalter entscheidet
+das Lebensalter.
 
 
 ### § 9
@@ -299,8 +183,8 @@ Teilnahme an Fachtagungen im Inland gilt immer als Dienstreise.
 Urlaub der Richterinnen und Richter ist ebenso wie Krankheit und
 Ortsabwesenheit von längerer Dauer als einer Woche rechtzeitig vorher
 dem Präsidenten und dem oder der Vorsitzenden ihres Senats anzuzeigen.
-Es ist eine Anschrift zu hinterlassen oder sonst die Erreichbarkeit zu
-sichern.
+Es ist eine Anschrift zu hinterlassen oder sonst die Erreichbarkeit
+zu sichern.
 
 
 ### § 12
@@ -380,8 +264,8 @@ alle das Gericht berührenden Materialien gesammelt werden.
 ### § 19
 
 Soweit sich aus der Stellung des Gerichts als eines obersten
-kollegialen Verfassungsorgans, dem Bundesverfassungsgerichtsgesetz und
-dem Gesetz über das Amtsgehalt der Mitglieder des
+kollegialen Verfassungsorgans, dem Bundesverfassungsgerichtsgesetz
+und dem Gesetz über das Amtsgehalt der Mitglieder des
 Bundesverfassungsgerichts, aus dieser Geschäftsordnung oder den vom
 Gericht erlassenen besonderen Verwaltungsvorschriften nichts anderes
 ergibt, gelten die allgemeinen Verwaltungsvorschriften für die
@@ -397,19 +281,19 @@ obersten Bundesbehörden.
 #### § 20
 
 (1) Der Senat beschließt vor Beginn eines Geschäftsjahres mit Wirkung
-vom Beginn dieses Geschäftsjahres an, nach welchen Grundsätzen die
-verfahrenseinleitenden Anträge auf die Mitglieder des Gerichts
+vom Beginn dieses Geschäftsjahres an, nach welchen Grundsätzen
+die verfahrenseinleitenden Anträge auf die Mitglieder des Gerichts
 einschließlich der Vorsitzenden zur Berichterstattung zu verteilen
-sind. Von diesen Grundsätzen kann während des Geschäftsjahres nur
-abgewichen werden, wenn dies wegen Überlastung oder längerer
+sind. Von diesen Grundsätzen kann während des Geschäftsjahres
+nur abgewichen werden, wenn dies wegen Überlastung oder längerer
 Verhinderung eines Mitglieds des Gerichts nötig wird.
 
 (2) Der oder die Vorsitzende stellt fest, wer für die
 Berichterstattung zuständig ist. In Zweifelsfällen werden die
 betroffenen Mitglieder des Senats vor der Zuweisung angehört. Bei
 Meinungsverschiedenheiten entscheidet grundsätzlich der Senat. Der
-oder die Vorsitzende kann wegen der besonderen Bedeutung der Sache im
-Einvernehmen mit dem Senat ein Mitglied zur Mitberichterstattung
+oder die Vorsitzende kann wegen der besonderen Bedeutung der Sache
+im Einvernehmen mit dem Senat ein Mitglied zur Mitberichterstattung
 bestimmen.
 
 
@@ -428,12 +312,12 @@ Tage vorher zugehen.
 #### § 22
 
 (1) Entscheidungen nach §§ 24 und 81a BVerfGG können ohne Zustellung
-des Antrags getroffen werden. Ebenso bedarf es keiner Zustellung, wenn
-die Annahme der Verfassungsbeschwerde abgelehnt wird (§§ 93a, 93b
-BVerfGG).
+des Antrags getroffen werden. Ebenso bedarf es keiner Zustellung,
+wenn die Annahme der Verfassungsbeschwerde abgelehnt wird (§§ 93a,
+93b BVerfGG).
 
-(2) Die Zustellung durch den Vorsitzenden oder die Vorsitzende (§ 23
-Absatz 2 BVerfGG) erfolgt auf Vorschlag des berichterstattenden
+(2) Die Zustellung durch den Vorsitzenden oder die Vorsitzende (§
+23 Absatz 2 BVerfGG) erfolgt auf Vorschlag des berichterstattenden
 Mitglieds des Senats.
 
 (3) Die weitere Förderung des Verfahrens, insbesondere durch
@@ -443,12 +327,12 @@ Senats, soweit veranlasst im Benehmen mit dem oder der Vorsitzenden.
 (4) Ersuchen an oberste Gerichtshöfe des Bundes oder oberste
 Landesgerichte (§ 82 Absatz 4 BVerfGG) werden von dem oder der
 Vorsitzenden des Senats auf Vorschlag des berichterstattenden
-Mitglieds des Senats oder des Senats verfügt. Entsprechende Ersuchen
-können auch in anderen Fällen als in denen der konkreten
+Mitglieds des Senats oder des Senats verfügt. Entsprechende
+Ersuchen können auch in anderen Fällen als in denen der konkreten
 Normenkontrolle (§ 13 Nummer 11 BVerfGG) verfügt werden.
 
-(5) Auf Vorschlag des berichterstattenden Mitglieds des Senats oder
-auf Beschluss des Senats ersucht der oder die Vorsitzende
+(5) Auf Vorschlag des berichterstattenden Mitglieds des Senats
+oder auf Beschluss des Senats ersucht der oder die Vorsitzende
 Persönlichkeiten, die auf einem Gebiet über besondere Kenntnisse
 verfügen, sich zu einer für die Entscheidung erheblichen Frage
 gutachtlich zu äußern.
@@ -491,21 +375,21 @@ angefertigt werden, können die Verfahrensbeteiligten davon Abdrucke
 erhalten.
 
 (5) Zur Veröffentlichung oder Auswertung in einer wissenschaftlichen
-Publikation oder einer Verfahrensdokumentation können Abschriften von
-Äußerungen freigegeben werden, wenn dies auf Grund einer Abwägung des
-öffentlichen Interesses an der Publikation mit den Belangen der
-Verfahrensbeteiligten und der Erklärenden gerechtfertigt ist. Sind in
-den Abschriften personenbezogene Daten enthalten, finden die
+Publikation oder einer Verfahrensdokumentation können Abschriften
+von Äußerungen freigegeben werden, wenn dies auf Grund einer Abwägung
+des öffentlichen Interesses an der Publikation mit den Belangen der
+Verfahrensbeteiligten und der Erklärenden gerechtfertigt ist. Sind
+in den Abschriften personenbezogene Daten enthalten, finden die
 Vorschriften des Bundesdatenschutzgesetzes für die Übermittlung zu
 Forschungszwecken Anwendung.
 
 (6) Ehe Einsicht in eine in der Abschrift enthaltene Äußerung gewährt
 wird, erhalten die Erklärenden Gelegenheit, zur Richtigkeit der
 Abschrift Stellung zu nehmen; sie können auch stilistische Korrekturen
-anregen, die den Sinn nicht verändern. Die Entscheidung trifft jeweils
-die oder der Vorsitzende des Senats. Einwendungen, denen nicht
-entsprochen wird, sind zu den Akten zu nehmen. Von der Anhörung der
-Erklärenden kann abgesehen werden, wenn dies unverhältnismäßig
+anregen, die den Sinn nicht verändern. Die Entscheidung trifft
+jeweils die oder der Vorsitzende des Senats. Einwendungen, denen
+nicht entsprochen wird, sind zu den Akten zu nehmen. Von der Anhörung
+der Erklärenden kann abgesehen werden, wenn dies unverhältnismäßig
 aufwändig wäre.
 
 (7) Auf § 25a BVerfGG ist zu Beginn der mündlichen Verhandlung
@@ -522,9 +406,9 @@ Richterinnen und Richter anwesend sein.
 
 (1) Die Richterinnen und Richter, die an der Entscheidung mitgewirkt
 haben, können bis zu deren Verkündung oder bis zu deren Ausfertigung
-zum Zwecke der Zustellung die Fortsetzung der Beratung verlangen, wenn
-sie ihre Stimmabgabe ändern wollen; sie können die Fortsetzung der
-Beratung beantragen, um bisher nicht erörterte Gesichtspunkte
+zum Zwecke der Zustellung die Fortsetzung der Beratung verlangen,
+wenn sie ihre Stimmabgabe ändern wollen; sie können die Fortsetzung
+der Beratung beantragen, um bisher nicht erörterte Gesichtspunkte
 vorzutragen oder wenn ein Sondervotum dazu Anlass gibt.
 
 (2) Entscheidungen, die nicht auf Grund einer mündlichen Verhandlung
@@ -568,8 +452,8 @@ Verfassungsorgan unmittelbar zu übersenden.
 
 #### § 31
 
-(1) Die Entscheidungen des Plenums gemäß § 16 Absatz 1 BVerfGG und der
-Senate werden in einer vom Gericht autorisierten Sammlung der
+(1) Die Entscheidungen des Plenums gemäß § 16 Absatz 1 BVerfGG und
+der Senate werden in einer vom Gericht autorisierten Sammlung der
 Entscheidungen des Bundesverfassungsgerichts veröffentlicht, die von
 den Mitgliedern des Gerichts in eigener Verantwortung herausgegeben
 wird.
@@ -597,10 +481,10 @@ gemeinnützige Zwecke zu verwenden.
 
 #### § 32
 
-(1) Amtliche Informationen über ergangene Entscheidungen bedürfen der
-Billigung des berichterstattenden Mitglieds des Senats und des oder
-der Vorsitzenden und dürfen erst veröffentlicht werden, wenn
-anzunehmen ist, dass die Entscheidung den Prozessbeteiligten
+(1) Amtliche Informationen über ergangene Entscheidungen bedürfen
+der Billigung des berichterstattenden Mitglieds des Senats und
+des oder der Vorsitzenden und dürfen erst veröffentlicht werden,
+wenn anzunehmen ist, dass die Entscheidung den Prozessbeteiligten
 zugegangen ist.
 
 (2) Entsprechendes gilt für Beschlüsse der Kammern.
@@ -630,8 +514,8 @@ Satz 2 BVerfGG unterliegen sie nicht der Akteneinsicht.
 #### § 35
 
 (1) Über die Akteneinsicht entscheidet der oder die Vorsitzende im
-Benehmen mit dem berichterstattenden Mitglied des Senats. Im Fall des
-§ 63 Absatz 2 Buchstabe c entscheidet der Präsident. Über die
+Benehmen mit dem berichterstattenden Mitglied des Senats. Im Fall
+des § 63 Absatz 2 Buchstabe c entscheidet der Präsident. Über die
 Akteneinsicht bei Verfahren im Allgemeinen Register nach § 63 Absatz 1
 entscheiden die gemäß § 65 Zuständigen.
 
@@ -656,8 +540,8 @@ regelt eine Anweisung des Präsidenten.
 einschließlich der in § 34 genannten Schriftstücke können nach zehn
 Jahren an das Bundesarchiv abgegeben werden.
 
-(2) Die Vernichtung von Verfahrensakten und von Schriftstücken nach §
-34 ist nach 30 Jahren zulässig. Hiervon ausgeschlossen sind
+(2) Die Vernichtung von Verfahrensakten und von Schriftstücken
+nach § 34 ist nach 30 Jahren zulässig. Hiervon ausgeschlossen sind
 Verfahrensakten und Schriftstücke nach § 34 zu Entscheidungen, die
 seitens des Gerichts zur Veröffentlichung bestimmt wurden.
 
@@ -667,8 +551,8 @@ seitens des Gerichts zur Veröffentlichung bestimmt wurden.
 
 #### § 38
 
-(1) In den Fällen des § 15 Absatz 2 Satz 2 und des § 19 Absatz 4 Satz
-1 BVerfGG ordnet der oder die Vorsitzende des Senats, in dem der
+(1) In den Fällen des § 15 Absatz 2 Satz 2 und des § 19 Absatz 4
+Satz 1 BVerfGG ordnet der oder die Vorsitzende des Senats, in dem der
 Vertretungsfall eingetreten ist, das Losverfahren an.
 
 (2) Der oder die Vorsitzende des anderen Senats führt das Losverfahren
@@ -711,8 +595,8 @@ einstweiligen Anordnung gegenstandslos.
 
 #### § 41
 
-Das berichterstattende Mitglied kann bereits vor der Entscheidung der
-Kammer, ob ein Normenkontrollantrag unzulässig ist oder eine
+Das berichterstattende Mitglied kann bereits vor der Entscheidung
+der Kammer, ob ein Normenkontrollantrag unzulässig ist oder eine
 Verfassungsbeschwerde nicht angenommen wird (§§ 81a, 93b BVerfGG),
 Stellungnahmen der Äußerungsberechtigten (§ 82 in Verbindung mit §§
 77, 94 BVerfGG) oder Dritter einholen und sich mit Ersuchen an die in
@@ -737,9 +621,9 @@ obersten Bundesgerichts gerichtet hat.
 
 #### § 43
 
-In den nach § 14 Absatz 5 BVerfGG zu bildenden Ausschuss wählt jeder
-Senat für die Dauer eines Geschäftsjahres zwei Mitglieder des Gerichts
-und deren Stellvertretung. Der Präsident wird im Vorsitz vom
+In den nach § 14 Absatz 5 BVerfGG zu bildenden Ausschuss wählt
+jeder Senat für die Dauer eines Geschäftsjahres zwei Mitglieder des
+Gerichts und deren Stellvertretung. Der Präsident wird im Vorsitz vom
 Vizepräsidenten vertreten, bei dessen Verhinderung vom dienstältesten,
 bei gleichem Dienstalter von dem lebensältesten Mitglied des
 Ausschusses.
@@ -747,9 +631,9 @@ Ausschusses.
 
 #### § 44
 
-(1) Die Vorsitzenden werden über alle verfahrenseinleitenden Anträge
-für ihren Senat unterrichtet. Dabei werden sie auf Zweifel, die
-Senatszuständigkeiten betreffen, hingewiesen. Sie führen
+(1) Die Vorsitzenden werden über alle verfahrenseinleitenden
+Anträge für ihren Senat unterrichtet. Dabei werden sie auf Zweifel,
+die Senatszuständigkeiten betreffen, hingewiesen. Sie führen
 gegebenenfalls eine Erörterung in ihrem Senat herbei.
 
 (2) Eine Sache kann an den anderen Senat abgegeben werden, wenn die
@@ -764,16 +648,16 @@ der Senat die Beratung in der Sache begonnen hat.
 
 #### § 45
 
-Der Präsident bestellt aus den Mitgliedern des Ausschusses je ein
-berichterstattendes Mitglied aus jedem Senat. Diese können gemeinsam
-oder getrennt vor der Sitzung ein schriftliches Votum zur
+Der Präsident bestellt aus den Mitgliedern des Ausschusses je
+ein berichterstattendes Mitglied aus jedem Senat. Diese können
+gemeinsam oder getrennt vor der Sitzung ein schriftliches Votum zur
 Zuständigkeitsfrage abgeben.
 
 
 #### § 46
 
-Die Beschlüsse des Ausschusses werden von dem oder der Vorsitzenden in
-einem Aktenvermerk festgehalten. Sie werden nicht begründet. Sie
+Die Beschlüsse des Ausschusses werden von dem oder der Vorsitzenden
+in einem Aktenvermerk festgehalten. Sie werden nicht begründet. Sie
 werden allen Mitgliedern des Gerichts mitgeteilt und zu den Akten des
 Verfahrens gebracht.
 
@@ -825,23 +709,23 @@ Plenum zu äußern.
 
 #### § 51
 
-Der Beschluss auf Einleitung des Verfahrens bedarf der Zustimmung von
-mindestens acht Mitgliedern des Gerichts. Das Plenum berät und
-beschließt in Abwesenheit des oder der Betroffenen. Der Beschluss wird
-nicht begründet; er wird von den mitwirkenden Richterinnen und
+Der Beschluss auf Einleitung des Verfahrens bedarf der Zustimmung
+von mindestens acht Mitgliedern des Gerichts. Das Plenum berät und
+beschließt in Abwesenheit des oder der Betroffenen. Der Beschluss
+wird nicht begründet; er wird von den mitwirkenden Richterinnen und
 Richtern unterschrieben und anschließend dem oder der Betroffenen
 eröffnet.
 
 
 #### § 52
 
-Nach Einleitung des Verfahrens bestellt das Plenum ein Mitglied zur
-Führung der Untersuchung aus seiner Mitte. Dieses hört den oder die
-Betroffene und führt die erforderlichen Ermittlungen durch; zu
-Beweiserhebungen sind Betroffene zu laden. Über das Ergebnis der
-Untersuchung berichtet es dem Plenum schriftlich und in der mündlichen
-Verhandlung; der Bericht schließt mit einem Vorschlag für die
-Entscheidung. Von der Beratung und Beschlussfassung ist dieses
+Nach Einleitung des Verfahrens bestellt das Plenum ein Mitglied
+zur Führung der Untersuchung aus seiner Mitte. Dieses hört den oder
+die Betroffene und führt die erforderlichen Ermittlungen durch;
+zu Beweiserhebungen sind Betroffene zu laden. Über das Ergebnis
+der Untersuchung berichtet es dem Plenum schriftlich und in der
+mündlichen Verhandlung; der Bericht schließt mit einem Vorschlag für
+die Entscheidung. Von der Beratung und Beschlussfassung ist dieses
 Mitglied des Gerichts ausgeschlossen.
 
 
@@ -899,9 +783,9 @@ vorstehenden Bestimmungen entsprechend.
 
 #### § 56
 
-Jedes Mitglied des Gerichts kann Vorschläge für die Entschließung des
-Plenums gemäß § 7a BVerfGG machen. Sie sind spätestens eine Woche vor
-der Sitzung des Plenums einzureichen und zu begründen; dabei ist
+Jedes Mitglied des Gerichts kann Vorschläge für die Entschließung
+des Plenums gemäß § 7a BVerfGG machen. Sie sind spätestens eine Woche
+vor der Sitzung des Plenums einzureichen und zu begründen; dabei ist
 mitzuteilen, ob die Vorgeschlagenen mit der Nominierung im Plenum
 einverstanden sind. Von der Einhaltung der Vorschlagsfrist kann im
 Einverständnis aller anwesenden Mitglieder des Gerichts abgesehen
@@ -921,11 +805,11 @@ Vorschläge zu machen sind. Gewählt ist, wer mindestens die Mehrheit
 der abgegebenen Stimmen erhalten hat, und zwar in der Reihenfolge, die
 sich aus der Stimmenzahl ergibt.
 
-(3) Bleibt der erste Wahlgang ganz oder teilweise erfolglos, so wird
-einzeln in gesonderten Wahlgängen mit Stimmzetteln gewählt, auf die
-die Wahlberechtigten nur einen Namen setzen. Der Wahlakt wird so lange
-wiederholt, bis eine Mehrheit der abgegebenen Stimmen für einen
-Vorschlag vorliegt; bei jeder Wiederholung scheidet aus, wer im
+(3) Bleibt der erste Wahlgang ganz oder teilweise erfolglos, so
+wird einzeln in gesonderten Wahlgängen mit Stimmzetteln gewählt, auf
+die die Wahlberechtigten nur einen Namen setzen. Der Wahlakt wird
+so lange wiederholt, bis eine Mehrheit der abgegebenen Stimmen für
+einen Vorschlag vorliegt; bei jeder Wiederholung scheidet aus, wer im
 vorangegangenen Wahlgang die wenigsten Stimmen erhalten hat.
 
 
@@ -940,9 +824,9 @@ Satz 2 verkürzt sich auf drei Tage. Das Plenum kann beschließen, dass
 in der neuen Wahl nur nach Maßgabe des § 57 Absatz 3 abgestimmt wird.
 
 (2) Werden im Fall des Absatzes 1 Satz 1 noch in der Sitzung
-Vorschläge für die neue Wahl gemacht, so kann mit den Stimmen aller
-anwesenden Mitglieder des Gerichts beschlossen werden, dass die neue
-Wahl sofort durchgeführt wird. Werden lediglich Personen
+Vorschläge für die neue Wahl gemacht, so kann mit den Stimmen
+aller anwesenden Mitglieder des Gerichts beschlossen werden, dass
+die neue Wahl sofort durchgeführt wird. Werden lediglich Personen
 vorgeschlagen, die bereits früher benannt waren, so kann der Beschluss
 mit einer Mehrheit von zwei Dritteln der anwesenden Mitglieder des
 Gerichts gefasst werden.
@@ -990,8 +874,8 @@ Beschwerdekammer vorzulegen. Es kann die Akten des Ausgangsverfahrens
 beiziehen, soweit die Akteneinsicht nicht nach § 34 ausgeschlossen
 ist.
 
-(2) Über die Akteneinsicht der Beteiligten entscheidet der oder die
-Vorsitzende der Beschwerdekammer im Einvernehmen mit dem
+(2) Über die Akteneinsicht der Beteiligten entscheidet der oder
+die Vorsitzende der Beschwerdekammer im Einvernehmen mit dem
 berichterstattenden Mitglied.
 
 
@@ -1002,46 +886,37 @@ berichterstattenden Mitglied.
 
 (1) Eingaben an das Bundesverfassungsgericht, die weder eine
 Verwaltungsangelegenheit des Gerichts betreffen noch nach den
-Vorschriften des Gesetzes über das Bundesverfassungsgericht statthaft
-sind, werden im Allgemeinen Register (AR) erfasst und als
-Justizverwaltungsangelegenheit bearbeitet. Hierzu rechnen
+Vorschriften des Gesetzes über das Bundesverfassungsgericht
+statthaft sind, werden im Allgemeinen Register (AR) erfasst und
+als Justizverwaltungsangelegenheit bearbeitet. Hierzu rechnen
 insbesondere:
 
 a)  Anfragen zur Rechtsprechung des Bundesverfassungsgerichts sowie zu
     anhängigen oder abgeschlossenen Verfahren,
 
-
-b)  Eingaben, mit denen weder ein bestimmter Antrag verfolgt noch ein
-    Anliegen geltend gemacht wird, für das eine Zuständigkeit des
+b)  Eingaben, mit denen weder ein bestimmter Antrag verfolgt noch
+    ein Anliegen geltend gemacht wird, für das eine Zuständigkeit des
     Bundesverfassungsgerichts besteht.
-
-
-
 
 (2) Im Allgemeinen Register können auch registriert werden:
 
-a)  Verfassungsbeschwerden, bei denen eine Annahme zur Entscheidung (§ 93a
-    BVerfGG) nicht in Betracht kommt, weil sie offensichtlich unzulässig
-    sind oder unter Berücksichtigung der Rechtsprechung des
+a)  Verfassungsbeschwerden, bei denen eine Annahme zur Entscheidung
+    (§ 93a BVerfGG) nicht in Betracht kommt, weil sie offensichtlich
+    unzulässig sind oder unter Berücksichtigung der Rechtsprechung des
     Bundesverfassungsgerichts offensichtlich keinen Erfolg haben können,
-
 
 b)  sonstige offensichtlich unzulässige Verfahrensanträge,
 
-
 c)  Verfahren, bei denen sich die Senatszuständigkeit nicht alsbald klären
     lässt.
-
-
-
 
 
 #### § 64
 
 (1) Die Entscheidung darüber, ob ein Vorgang in das Allgemeine
 Register einzutragen ist, treffen die Vorsitzenden des jeweiligen
-Senats. Sie können die Entscheidungsbefugnis allgemein auf die gemäß §
-16 zur Postauszeichnung berufenen Mitarbeiterinnen und Mitarbeiter
+Senats. Sie können die Entscheidungsbefugnis allgemein auf die gemäß
+§ 16 zur Postauszeichnung berufenen Mitarbeiterinnen und Mitarbeiter
 übertragen.
 
 (2) Ein gemäß § 63 Absatz 2 Buchstabe a im Allgemeinen Register
@@ -1074,8 +949,8 @@ Register unterstützt, die die Befähigung zum Richteramt haben müssen.
 
 #### § 66
 
-Mitglieder des Gerichts im Sinne dieser Geschäftsordnung sind auch
-Richterinnen und Richter, die nach Ablauf ihrer Amtszeit ihre
+Mitglieder des Gerichts im Sinne dieser Geschäftsordnung sind
+auch Richterinnen und Richter, die nach Ablauf ihrer Amtszeit ihre
 Amtsgeschäfte fortführen (§ 4 Absatz 4 BVerfGG).
 
 
@@ -1108,8 +983,8 @@ des Präsidenten zu beflaggen.
 #### § 71
 
 (1) Der Antrag auf Änderung der Geschäftsordnung kann von jedem
-Mitglied des Gerichts gestellt werden. Der Antrag ist schriftlich zu
-stellen. Er muss die formulierte Textänderung und eine Begründung
+Mitglied des Gerichts gestellt werden. Der Antrag ist schriftlich
+zu stellen. Er muss die formulierte Textänderung und eine Begründung
 enthalten.
 
 (2) Zwischen Antrag und Beschlussfassung im Plenum soll mindestens

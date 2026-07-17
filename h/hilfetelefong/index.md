@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zur Einrichtung und zum Betrieb eines bundesweiten Hilfetelefons „Gewalt
-  gegen Frauen“
+Title: Gesetz zur Einrichtung und zum Betrieb eines bundesweiten Hilfetelefons „Gewalt gegen Frauen“
 jurabk: HilfetelefonG
 layout: default
 origslug: hilfetelefong
@@ -23,8 +22,8 @@ Geändert durch
 ## § 1 Einrichtung
 
 Der Bund richtet beim Bundesamt für Familie und zivilgesellschaftliche
-Aufgaben ein bundesweites zentrales Hilfetelefon „Gewalt gegen Frauen“
-ein. Das Hilfetelefon untersteht der Fachaufsicht des
+Aufgaben ein bundesweites zentrales Hilfetelefon „Gewalt gegen
+Frauen“ ein. Das Hilfetelefon untersteht der Fachaufsicht des
 Bundesministeriums für Familie, Senioren, Frauen und Jugend.
 
 
@@ -50,17 +49,12 @@ Die Angebote des Hilfetelefons wenden sich insbesondere an:
 
 1.  Frauen, die von Gewalt betroffen sind,
 
-
 2.  Personen aus dem sozialen Umfeld von Frauen, die von Gewalt betroffen
     sind, und
 
-
-3.  Personen, die bei ihrer beruflichen oder ehrenamtlichen Tätigkeit mit
-    der Beratung und Unterstützung oder Intervention bei Gewalt gegen
+3.  Personen, die bei ihrer beruflichen oder ehrenamtlichen Tätigkeit
+    mit der Beratung und Unterstützung oder Intervention bei Gewalt gegen
     Frauen konfrontiert sind.
-
-
-
 
 
 ## § 4 Anforderungen an die Hilfeleistung
@@ -72,10 +66,10 @@ qualifizierte weibliche Fachkräfte.
 datenschutzrechtlicher Anforderungen. Anrufe beim Hilfetelefon werden
 nicht in Einzelverbindungsnachweisen ausgewiesen.
 
-(3) Personenbezogene Daten werden nur für die in § 2 Absatz 1 und 2
-Satz 1 genannten Zwecke und nur mit Einwilligung der betroffenen
-Person verarbeitet. Die gespeicherten Daten werden gelöscht, sobald
-sie für die Erfüllung des Zwecks der Speicherung nicht mehr
+(3) Personenbezogene Daten werden nur für die in § 2 Absatz 1 und
+2 Satz 1 genannten Zwecke und nur mit Einwilligung der betroffenen
+Person verarbeitet. Die gespeicherten Daten werden gelöscht,
+sobald sie für die Erfüllung des Zwecks der Speicherung nicht mehr
 erforderlich sind.
 
 (4) Die Angebote des Hilfetelefons sind barrierefrei und mehrsprachig.

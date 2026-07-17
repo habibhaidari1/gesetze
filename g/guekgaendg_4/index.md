@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl I: 1961, 1157
 
 
-
 ## Art 1
 
 -

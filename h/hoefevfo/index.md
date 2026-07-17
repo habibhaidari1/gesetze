@@ -16,16 +16,16 @@ Fundstelle
 :   BGBl I: 1976, 881, 885 (1977 I 288)
 
 Zuletzt geändert durch
-:   Art. 25 G v. 20.11.2015 I 2010
+:   Art. 2 G v. 4.12.2024 I Nr. 395
 
 
 ## § 1 Verhältnis zum allgemeinen Verfahrensrecht
 
 (1) Auf das Verfahren in Höfesachen sind die Vorschriften des Gesetzes
-über das gerichtliche Verfahren in Landwirtschaftssachen vom 21. Juli
-1953 (Bundesgesetzbl. I S. 667) anzuwenden, soweit dieses Gesetz
-nichts anderes bestimmt. Höfesachen sind Angelegenheiten, auf die die
-in den Ländern Hamburg, Niedersachsen, Nordrhein-Westfalen und
+über das gerichtliche Verfahren in Landwirtschaftssachen vom 21.
+Juli 1953 (Bundesgesetzbl. I S. 667) anzuwenden, soweit dieses Gesetz
+nichts anderes bestimmt. Höfesachen sind Angelegenheiten, auf die
+die in den Ländern Hamburg, Niedersachsen, Nordrhein-Westfalen und
 Schleswig-Holstein geltenden höferechtlichen Vorschriften anzuwenden
 sind.
 
@@ -37,9 +37,9 @@ Ersatzbetriebes oder von Ersatzgrundstücken geltend gemacht werden.
 
 ## § 2 Eintragungsgrundsatz
 
-(1) Eine Besitzung, die nach den höferechtlichen Vorschriften Hof ist
-oder auf Grund einer Erklärung des Eigentümers Hof werden kann, wird
-auf Ersuchen des Landwirtschaftsgerichts im Grundbuch als Hof
+(1) Eine Besitzung, die nach den höferechtlichen Vorschriften Hof
+ist oder auf Grund einer Erklärung des Eigentümers Hof werden kann,
+wird auf Ersuchen des Landwirtschaftsgerichts im Grundbuch als Hof
 eingetragen.
 
 (2) Absatz 1 gilt für die Eintragung einer Besitzung als Ehegattenhof
@@ -57,17 +57,13 @@ ausweisenden Vermerks (Hofvermerk)
     Ehegattenhof nach den höferechtlichen Vorschriften eine Erklärung des
     Eigentümers nicht vorausgesetzt ist;
 
-
 2.  auf Grund der Erklärung des Eigentümers, wenn die Eintragung oder
     Löschung des Hofvermerks nach den höferechtlichen Vorschriften von
     einer Erklärung des Eigentümers abhängt.
 
-
-
-
 (2) Ersucht das Landwirtschaftsgericht um die Löschung eines die
-Eigenschaft als Ehegattenhof ausweisenden Vermerks, so hat es, soweit
-die Besitzung die Eigenschaft als Hof behält, zugleich das
+Eigenschaft als Ehegattenhof ausweisenden Vermerks, so hat es,
+soweit die Besitzung die Eigenschaft als Hof behält, zugleich das
 Grundbuchamt von Amts wegen um die Eintragung des Hofvermerks zu
 ersuchen.
 
@@ -77,22 +73,16 @@ Landwirtschaftsgericht ohne Zuziehung ehrenamtlicher Richter.
 
 ## § 3a
 
-Das Finanzamt teilt dem Landwirtschaftsgericht den Wirtschaftswert
-eines Betriebs der Land- und Forstwirtschaft mit, wenn dieser nach
-Maßgabe einer Einheitswertfeststellung oder sonst auf Antrag
-vorgenommenen Ermittlung
+Das Finanzamt teilt dem Landwirtschaftsgericht den Grundsteuerwert für
+einen Betrieb der Land- und Forstwirtschaft mit, wenn dieser
 
-1.  sich von mindestens 5.000 Euro auf weniger als 5.000 Euro verringert
+1.  sich von mindestens 27 000 Euro auf weniger als 27 000 Euro verringert
     hat,
 
+2.  sich von weniger als 54 000 Euro auf mindestens 54 000 Euro erhöht
+    hat oder
 
-2.  sich von weniger als 10.000 Euro auf mindestens 10.000 Euro erhöht hat
-    oder
-
-
-3.  erstmals ermittelt worden ist und mindestens 10.000 Euro beträgt.
-
-
+3.  erstmals ermittelt worden ist und mindestens 54 000 Euro beträgt.
 
 Die Mitteilungen erfolgen mindestens einmal jährlich.
 
@@ -121,53 +111,40 @@ Besitzung die durch den Vermerk ausgewiesene Eigenschaft hat.
 (1) Der Hofvermerk wird in der Aufschrift des Grundbuchs des Hofes
 eingetragen und lautet:
 
-*   "Hof gemäß der Höfeordnung. Eingetragen am ..."
-
-
-
+-   "Hof gemäß der Höfeordnung. Eingetragen am ..."
 
 (2) Beim Ehegattenhof lautet der Hofvermerk:
 
-*   "Ehegattenhof gemäß der Höfeordnung. Eingetragen am ..."
+-   "Ehegattenhof gemäß der Höfeordnung. Eingetragen am ..."
 
-
-
-
-(3) Ist bei einem Ehegattenhof der Grundbesitz der Ehegatten nicht auf
-demselben Grundbuchblatt eingetragen, so ist im Hofvermerk
+(3) Ist bei einem Ehegattenhof der Grundbesitz der Ehegatten nicht
+auf demselben Grundbuchblatt eingetragen, so ist im Hofvermerk
 wechselseitig auf den Grundbesitz des anderen Ehegatten hinzuweisen.
 Der Hofvermerk lautet dementsprechend:
 
-*   "Dieser Grundbesitz bildet mit dem im Grundbuch von ... Bd. ... Bl.
-    ... eingetragenen Grundbesitz einen Ehegattenhof gemäß der
+-   "Dieser Grundbesitz bildet mit dem im Grundbuch von ... Bd. ...
+    Bl. ... eingetragenen Grundbesitz einen Ehegattenhof gemäß der
     Höfeordnung. Eingetragen am ..."
-
-
-
 
 (4) Gehört zum Hof ein Miteigentumsanteil, der auf einem anderen
 Grundbuchblatt eingetragen ist, so ist im Grundbuch des Hofs folgender
 Vermerk:
 
-*   "Zum Hof gehört der im Grundbuch von ... Bd. ... Bl. ... eingetragene
+-   "Zum Hof gehört der im Grundbuch von ... Bd. ... Bl. ... eingetragene
     Miteigentumsanteil. Eingetragen am ..."
-
-
 
 und im Grundbuch des Miteigentumsanteils folgender Vermerk:
 
-*   "Der Miteigentumsanteil des ... gehört zu dem im Grundbuch von ... Bd.
-    ... Bl. ... eingetragenen Hof. Eingetragen am ..."
-
-
+-   "Der Miteigentumsanteil des ... gehört zu dem im Grundbuch von ...
+    Bd. ... Bl. ... eingetragenen Hof. Eingetragen am ..."
 
 einzutragen.
 
 
 ## § 7 Besonderes Grundbuchblatt
 
-(1) Die zum Hof gehörenden Grundstücke desselben Eigentümers sind auf
-Ersuchen des Landwirtschaftsgerichts auf einem besonderen
+(1) Die zum Hof gehörenden Grundstücke desselben Eigentümers sind
+auf Ersuchen des Landwirtschaftsgerichts auf einem besonderen
 Grundbuchblatt einzutragen; das Ersuchen ist von Amts wegen zu
 stellen.
 
@@ -205,8 +182,8 @@ nach dem Grundstücksverkehrsgesetz.
 ## § 10 Höfeakten
 
 Das Ersuchen des Landwirtschaftsgerichts um Eintragung oder Löschung
-des Hofvermerks und sonstige höferechtlich erhebliche Vorgänge sind zu
-einer besonderen Höfeakte zu nehmen, die bei den Grundakten der
+des Hofvermerks und sonstige höferechtlich erhebliche Vorgänge sind
+zu einer besonderen Höfeakte zu nehmen, die bei den Grundakten der
 Hofstelle aufzubewahren ist.
 
 
@@ -219,31 +196,21 @@ im Wege eines besonderen Feststellungsverfahrens,
 a)  ob ein Hof im Sinne der höferechtlichen Vorschriften vorliegt oder
     vorgelegen hat,
 
-
 b)  ob ein Hof ein Ehegattenhof im Sinne der höferechtlichen Vorschriften
     ist oder war,
 
-
 c)  ob ein Gegenstand Bestandteil oder Zubehör eines Hofes ist,
-
 
 d)  ob ein Hoferbe wirtschaftsfähig ist,
 
-
 e)  ob für die Erbfolge in einen Hof Ältesten- oder Jüngstenrecht gilt,
-
 
 f)  von wem der Hof stammt,
 
-
 g)  wer nach dem Tode des Eigentümers eines Hofes Hoferbe geworden ist,
-
 
 h)  über sonstige nach den höferechtlichen Vorschriften bestehende
     Rechtsverhältnisse.
-
-
-
 
 (2) Das Gericht soll alle Personen, deren Rechte durch die
 Entscheidung betroffen werden können, von der Einleitung des
@@ -267,9 +234,9 @@ werden können.
 
 (2) Im übrigen kann ein neuer Antrag nur gestellt werden, wenn ein
 berechtigter Grund für die nochmalige Nachprüfung vorliegt. In diesem
-Fall sind die an dem früheren Verfahren Beteiligten zuzuziehen und die
-in § 11 Abs. 2 genannten Personen zu benachrichtigen. Führt die
-Nachprüfung zu einer abweichenden Entscheidung, so ist in der
+Fall sind die an dem früheren Verfahren Beteiligten zuzuziehen und
+die in § 11 Abs. 2 genannten Personen zu benachrichtigen. Führt
+die Nachprüfung zu einer abweichenden Entscheidung, so ist in der
 ergehenden Entscheidung gleichzeitig der frühere Beschluß aufzuheben.
 
 (3) Nach Ablauf von fünf Jahren, vom Tag der Rechtskraft der
@@ -294,9 +261,9 @@ ein berechtigtes Interesse an der Entscheidung glaubhaft macht.
 ## § 14 Beschwerdeberechtigung
 
 Genehmigt das Landwirtschaftsgericht eine Verfügung von Todes wegen,
-durch die so viele Grundstücke vom Hof abgetrennt werden, daß er nach
-den höferechtlichen Vorschriften seine Eigenschaft als Hof verliert,
-so ist von den Hoferbenberechtigten nur der nächstberufene
+durch die so viele Grundstücke vom Hof abgetrennt werden, daß er
+nach den höferechtlichen Vorschriften seine Eigenschaft als Hof
+verliert, so ist von den Hoferbenberechtigten nur der nächstberufene
 hoferbenberechtigte Abkömmling beschwerdeberechtigt. Diesem steht
 derjenige Abkömmling gleich, der zulässigerweise durch Erbvertrag oder
 gemeinschaftliches Testament als Hoferbe bestimmt ist.
@@ -321,14 +288,13 @@ der §§ 13 bis 15 sinngemäß.
 ## § 17 Stundungsverfahren
 
 Im Verfahren über die Stundung, Verzinsung und Sicherung eines
-Abfindungsanspruchs (§ 12 Abs. 5 der Höfeordnung) ist § 264 des
-Gesetzes über das Verfahren in Familiensachen und in den
+Abfindungsanspruchs (§ 12 Abs. 5 der Höfeordnung) ist § 264
+des Gesetzes über das Verfahren in Familiensachen und in den
 Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechend
 anzuwenden.
 
 
 ## (XXXX) §§ 18 bis 24 (weggefallen)
-
 
 
 ## § 25 Anpassungsverfahren

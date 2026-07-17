@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl I: 1997, 726, 731
 
 
-
 ## § 1
 
 Der Bundesverband für den Selbstschutz wird mit Wirkung vom 1. Januar

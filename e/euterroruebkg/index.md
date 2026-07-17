@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zu dem Europäischen Übereinkommen vom 27. Januar 1977 zur Bekämpfung
-  des Terrorismus
+Title: Gesetz zu dem Europäischen Übereinkommen vom 27. Januar 1977 zur Bekämpfung des Terrorismus
 jurabk: EuTerrorÜbkG
 layout: default
 origslug: euterror_bkg
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl II: 1978, 321
-
 
 
 ## Art 1
@@ -42,14 +40,10 @@ Fall,
 1.  wenn durch die Tat der Tod oder eine schwere Körperverletzung (§ 224
     StGB) des Opfers verursacht,
 
-
 2.  wenn durch die Tat das Leben oder die Gesundheit einer großen Zahl von
     Menschen gefährdet oder
 
-
 3.  wenn die Tat grausam oder mit gemeingefährlichen Mitteln begangen
-
-
 
 worden ist.
 

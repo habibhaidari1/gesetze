@@ -1,7 +1,5 @@
 ---
-Title: Gesetz zur Ausführung des Seerechtsübereinkommens der Vereinten Nationen vom
-  10. Dezember 1982 sowie des Übereinkommens vom 28. Juli 1994 zur Durchführung des
-  Teils XI des Seerechtsübereinkommens
+Title: Gesetz zur Ausführung des Seerechtsübereinkommens der Vereinten Nationen vom 10. Dezember 1982 sowie des Übereinkommens vom 28. Juli 1994 zur Durchführung des Teils XI des Seerechtsübereinkommens
 jurabk: SeeRÜbkAG
 layout: default
 origslug: seer_bkag
@@ -17,7 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1995, 778
 
-Stand: geändert Art. 550 V v. 31.8.2015 I 1474
+Stand
+:   geändert Art. 550 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
@@ -29,9 +28,7 @@ beschlossen:
 ## Abschnitt 1 - Seeschiffahrt
 
 
-
 ### (XXXX) Art 1 bis 4
-
 
 
 ### Art 5
@@ -39,8 +36,8 @@ beschlossen:
 (1) bis (3)
 
 (4) Das Bundesministerium der Justiz und für Verbraucherschutz kann
-den Wortlaut der Schiffsregisterordnung und der Grundbuchordnung in
-der vom Inkrafttreten dieses Artikels an geltenden Fassung im
+den Wortlaut der Schiffsregisterordnung und der Grundbuchordnung
+in der vom Inkrafttreten dieses Artikels an geltenden Fassung im
 Bundesgesetzblatt bekanntmachen.
 
 
@@ -65,7 +62,6 @@ Artikels an geltenden Fassung im Bundesgesetzblatt bekanntmachen.
 ## Abschnitt 2 - Meeresbergbau
 
 
-
 ### Art 8
 
 -
@@ -79,14 +75,12 @@ Artikels an geltenden Fassung im Bundesgesetzblatt bekanntmachen.
 ## Abschnitt 3 - Wissenschaftliche Meeresforschung
 
 
-
 ### Art 10
 
 -
 
 
 ## Abschnitt 4 - Umweltstrafrecht
-
 
 
 ### Art 11
@@ -96,16 +90,16 @@ Artikels an geltenden Fassung im Bundesgesetzblatt bekanntmachen.
 
 ### Art 12 Erweiterung des Geltungsbereichs des deutschen Strafrechts
 
-Das deutsche Strafrecht gilt für Straftaten gegen die Umwelt in den
-Fällen der §§ 324, 326, 330 und 330a des Strafgesetzbuches, die von
-einem Schiff aus in der Nordsee oder Ostsee außerhalb der deutschen
-ausschließlichen Wirtschaftszone durch Einleiten von Stoffen unter
-Verletzung verwaltungsrechtlicher Pflichten (§ 330d Nr. 4, 5 des
-Strafgesetzbuches) begangen werden, welche der Durchführung
+Das deutsche Strafrecht gilt für Straftaten gegen die Umwelt in
+den Fällen der §§ 324, 326, 330 und 330a des Strafgesetzbuches,
+die von einem Schiff aus in der Nordsee oder Ostsee außerhalb der
+deutschen ausschließlichen Wirtschaftszone durch Einleiten von Stoffen
+unter Verletzung verwaltungsrechtlicher Pflichten (§ 330d Nr. 4,
+5 des Strafgesetzbuches) begangen werden, welche der Durchführung
 völkerrechtlicher Übereinkommen zum Schutz des Meeres dienen. Soweit
-die Tat in den Hoheitsgewässern eines anderen Staates begangen wird,
-gilt dies, wenn die Tat nach dem Recht dieses Staates mit Strafe
-bedroht ist. Für die Abgrenzung der Nordsee ist Artikel 2 des
+die Tat in den Hoheitsgewässern eines anderen Staates begangen
+wird, gilt dies, wenn die Tat nach dem Recht dieses Staates mit
+Strafe bedroht ist. Für die Abgrenzung der Nordsee ist Artikel 2 des
 Übereinkommens zur Zusammenarbeit bei der Bekämpfung der Verschmutzung
 der Nordsee durch Öl und andere Schadstoffe vom 13. September 1983
 (BGBl. 1990 II S. 70) maßgebend.
@@ -124,14 +118,12 @@ Die Übermittlung erfolgt auf diplomatischem Weg.
 ## Abschnitt 5 - Vollstreckung seegerichtlicher Entscheidungen
 
 
-
 ### Art 14
 
 -
 
 
 ## Abschnitt 6 - Schlußvorschrift
-
 
 
 ### Art 15 Inkrafttreten

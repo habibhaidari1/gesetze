@@ -1,8 +1,5 @@
 ---
-Title: Gesetz zu dem Protokoll vom 24. Juni 2013 zur Änderung des Abkommens vom 4.
-  Oktober 1991 zwischen der Bundesrepublik Deutschland und dem Königreich Norwegen
-  zur Vermeidung der Doppelbesteuerung und über gegenseitige Amtshilfe auf dem Gebiet
-  der Steuern vom Einkommen und vom Vermögen sowie des dazugehörigen Protokolls
+Title: Gesetz zu dem Protokoll vom 24. Juni 2013 zur Änderung des Abkommens vom 4. Oktober 1991 zwischen der Bundesrepublik Deutschland und dem Königreich Norwegen zur Vermeidung der Doppelbesteuerung und über gegenseitige Amtshilfe auf dem Gebiet der Steuern vom Einkommen und vom Vermögen sowie des dazugehörigen Protokolls
 jurabk: DBAÄndProtG NOR
 layout: default
 origslug: dba_ndprotg_nor
@@ -30,8 +27,8 @@ beschlossen:
 Dem in Berlin am 24. Juni 2013 unterzeichneten Protokoll zur Änderung
 des Abkommens vom 4. Oktober 1991 zwischen der Bundesrepublik
 Deutschland und dem Königreich Norwegen zur Vermeidung der
-Doppelbesteuerung und über gegenseitige Amtshilfe auf dem Gebiet der
-Steuern vom Einkommen und vom Vermögen sowie des dazugehörigen
+Doppelbesteuerung und über gegenseitige Amtshilfe auf dem Gebiet
+der Steuern vom Einkommen und vom Vermögen sowie des dazugehörigen
 Protokolls (BGBl. 1993 II S. 970, 972) wird zugestimmt. Das
 Änderungsprotokoll wird nachstehend veröffentlicht.
 

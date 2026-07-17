@@ -22,18 +22,18 @@ Zuletzt geändert durch
 ## § 1 Errichtung
 
 Zur Durchführung von Artikel 3 Abs. 1 der Verordnung (EG) Nr. 718/1999
-des Rates vom 29. März 1999 über kapazitätsbezogene Maßnahmen für die
-Binnenschifffahrtsflotten der Gemeinschaft und zur Förderung des
-Binnenschiffsverkehrs (ABl. EG Nr. L 90 S. 1) wird der "Deutsche
+des Rates vom 29. März 1999 über kapazitätsbezogene Maßnahmen für
+die Binnenschifffahrtsflotten der Gemeinschaft und zur Förderung
+des Binnenschiffsverkehrs (ABl. EG Nr. L 90 S. 1) wird der "Deutsche
 Binnenschifffahrtsfonds" (Binnenschifffahrtsfonds) in Form eines
 Sondervermögens errichtet.
 
 
 ## § 2 Aufgaben des Fonds
 
-Der Binnenschifffahrtsfonds erfüllt die ihm nach der Verordnung (EG)
-Nr. 718/1999 des Rates in Verbindung mit der Verordnung (EG) Nr.
-805/1999 der Kommission vom 16. April 1999 zur Festlegung der
+Der Binnenschifffahrtsfonds erfüllt die ihm nach der Verordnung
+(EG) Nr. 718/1999 des Rates in Verbindung mit der Verordnung (EG)
+Nr. 805/1999 der Kommission vom 16. April 1999 zur Festlegung der
 Durchführungsbestimmungen zur Verordnung (EG) Nr. 718/1999 des Rates
 über kapazitätsbezogene Maßnahmen für die Binnenschifffahrtsflotten
 der Gemeinschaft und zur Förderung des Binnenschiffsverkehrs (ABl. EG
@@ -42,9 +42,9 @@ Nr. L 102 S. 64) übertragenen Aufgaben.
 
 ## § 3 Rechtsform
 
-Der Binnenschifffahrtsfonds ist nicht rechtsfähig. Er kann unter
-seinem Namen im rechtsgeschäftlichen Verkehr handeln, klagen und
-verklagt werden. Der allgemeine Gerichtsstand des
+Der Binnenschifffahrtsfonds ist nicht rechtsfähig. Er kann
+unter seinem Namen im rechtsgeschäftlichen Verkehr handeln,
+klagen und verklagt werden. Der allgemeine Gerichtsstand des
 Binnenschifffahrtsfonds ist Münster.
 
 
@@ -55,8 +55,8 @@ Binnenschifffahrtsfonds, führt dessen Geschäfte und vertritt ihn nach
 außen. Sie hat die überregionalen Binnenschifffahrtsverbände über
 dessen Wirtschaftsplan und den Jahresabschluss zu unterrichten.
 
-(2) Die Mittel des Binnenschifffahrtsfonds einschließlich der Erträge
-sind bis zur bestimmungsgemäßen Verwendung zu marktüblichen
+(2) Die Mittel des Binnenschifffahrtsfonds einschließlich der
+Erträge sind bis zur bestimmungsgemäßen Verwendung zu marktüblichen
 Bedingungen in Euro anzulegen
 
 1.  in handelbaren Schuldverschreibungen, deren Schuldner der Bund, ein
@@ -65,10 +65,7 @@ Bedingungen in Euro anzulegen
     Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder
     die Europäische Investitionsbank sind,
 
-
 2.  bei geeigneten Kreditinstituten.
-
-
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur erlässt
 hierzu Anlagerichtlinien.
@@ -76,8 +73,8 @@ hierzu Anlagerichtlinien.
 
 ## § 5 Verwendung der Mittel
 
-(1) Die Mittel des Binnenschifffahrtsfonds dürfen nur nach Maßgabe der
-Artikel 3 Abs. 5, Artikel 6 und 8 der Verordnung (EG) Nr. 718/1999
+(1) Die Mittel des Binnenschifffahrtsfonds dürfen nur nach Maßgabe
+der Artikel 3 Abs. 5, Artikel 6 und 8 der Verordnung (EG) Nr. 718/1999
 verwendet werden.
 
 (2) Zinserträge nach § 4 Abs. 2 dürfen nach Maßgabe von Richtlinien
@@ -99,8 +96,8 @@ Verbindlichkeiten des Fonds.
 (1) Für die Haushalts- und Wirtschaftsführung gilt § 113 der
 Bundeshaushaltsordnung.
 
-(2) Für jedes Kalenderjahr sind ein Wirtschaftsplan und eine
-Jahresrechnung aufzustellen, die der Genehmigung des
+(2) Für jedes Kalenderjahr sind ein Wirtschaftsplan und
+eine Jahresrechnung aufzustellen, die der Genehmigung des
 Bundesministeriums für Verkehr und digitale Infrastruktur bedürfen. In
 der Jahresrechnung sind der Bestand des Sondervermögens einschließlich
 der Forderungen und Verbindlichkeiten sowie die Einnahmen und Ausgaben

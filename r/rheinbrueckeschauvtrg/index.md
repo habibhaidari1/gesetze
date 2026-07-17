@@ -1,7 +1,5 @@
 ---
-Title: Gesetz zu dem Vertrag vom 5. Juni 1996 zwischen der Bundesrepublik Deutschland
-  und der Französischen Republik über den Bau einer Straßenbrücke über den Rhein zwischen
-  Altenheim und Eschau
+Title: Gesetz zu dem Vertrag vom 5. Juni 1996 zwischen der Bundesrepublik Deutschland und der Französischen Republik über den Bau einer Straßenbrücke über den Rhein zwischen Altenheim und Eschau
 jurabk: RheinBrückEschauVtrG
 layout: default
 origslug: rheinbr_ckeschauvtrg
@@ -16,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl II: 1998, 986
-
 
 
 ## Eingangsformel
@@ -36,14 +33,14 @@ zugestimmt. Der Vertrag wird nachstehend veröffentlicht.
 ## Art 2
 
 (1) Bis zur Abnahme der Rheinbrücke gilt die Baustelle für die
-Anwendung des deutschen Umsatzsteuer- und Verbrauchsteuerrechts auf
-die in Artikel 9 Abs. 1 des Vertrags bezeichneten Umsätze und
+Anwendung des deutschen Umsatzsteuer- und Verbrauchsteuerrechts
+auf die in Artikel 9 Abs. 1 des Vertrags bezeichneten Umsätze und
 Warenbewegungen als französisches Hoheitsgebiet. Sie ist insoweit
 nicht als Inland und Steuergebiet anzusehen.
 
 (2) Vom Zeitpunkt der Abnahme an für einen Zeitraum von zehn Jahren
-gilt die Rheinbrücke für die Anwendung des deutschen Umsatzsteuer- und
-Verbrauchsteuerrechts auf die in Artikel 9 Abs. 1 des Vertrags
+gilt die Rheinbrücke für die Anwendung des deutschen Umsatzsteuer-
+und Verbrauchsteuerrechts auf die in Artikel 9 Abs. 1 des Vertrags
 bezeichneten Umsätze und Warenbewegungen als französisches
 Hoheitsgebiet. Sie ist insoweit nicht als Inland und Steuergebiet
 anzusehen.

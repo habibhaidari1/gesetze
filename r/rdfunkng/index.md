@@ -1,6 +1,5 @@
 ---
-Title: Gesetz über die Neuordnung der Rundfunkanstalten des Bundesrechts und des RIAS
-  Berlin
+Title: Gesetz über die Neuordnung der Rundfunkanstalten des Bundesrechts und des RIAS Berlin
 jurabk: RdFunkNG
 layout: default
 origslug: rdfunkng
@@ -17,7 +16,6 @@ Fundstelle
 :   BGBl I: 1993, 2246
 
 
-
 ## Eingangsformel
 
 Der Bundestag hat das folgende Gesetz beschlossen:
@@ -27,8 +25,8 @@ Der Bundestag hat das folgende Gesetz beschlossen:
 
 Dem am 17. Juni 1993 unterzeichneten "Staatsvertrag zwischen der
 Bundesrepublik Deutschland und den Ländern über die Überleitung von
-Rechten und Pflichten des Deutschlandfunks und des RIAS Berlin auf die
-Körperschaft des öffentlichen Rechts "Deutschlandradio" - Hörfunk-
+Rechten und Pflichten des Deutschlandfunks und des RIAS Berlin auf
+die Körperschaft des öffentlichen Rechts "Deutschlandradio" - Hörfunk-
 Überleitungsstaatsvertrag -" wird zugestimmt. Der Staatsvertrag wird
 nachstehend veröffentlicht.
 

@@ -1,7 +1,5 @@
 ---
-Title: Hundertneunzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung
-  von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Sonderflughafen
-  Oberpfaffenhofen)
+Title: Hundertneunzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Sonderflughafen Oberpfaffenhofen)
 jurabk: LuftVODV 190
 layout: default
 origslug: luftvodv_190
@@ -16,4 +14,7 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BAnz: 1998, Nr 172, 13698
+
+Fundstelle
+:   BAnz: 1998, 13698
 

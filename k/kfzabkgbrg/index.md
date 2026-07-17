@@ -1,7 +1,5 @@
 ---
-Title: Gesetz zu dem Abkommen vom 5. November 1971 zwischen der Regierung der Bundesrepublik
-  Deutschland und der Regierung des Vereinigten Königreichs Großbritannien und Nordirland
-  über die steuerliche Behandlung von Straßenfahrzeugen im internationalen Verkehr
+Title: Gesetz zu dem Abkommen vom 5. November 1971 zwischen der Regierung der Bundesrepublik Deutschland und der Regierung des Vereinigten Königreichs Großbritannien und Nordirland über die steuerliche Behandlung von Straßenfahrzeugen im internationalen Verkehr
 jurabk: KfzAbkGBRG
 layout: default
 origslug: kfzabkgbrg
@@ -18,12 +16,11 @@ Fundstelle
 :   BGBl II: 1973, 340
 
 
-
 ## Art 1
 
-Dem in Bonn am 5. November 1971 unterzeichneten Abkommen zwischen der
-Regierung der Bundesrepublik Deutschland und der Regierung des
-Vereinigten Königreichs Großbritannien und Nordirland über die
+Dem in Bonn am 5. November 1971 unterzeichneten Abkommen zwischen
+der Regierung der Bundesrepublik Deutschland und der Regierung
+des Vereinigten Königreichs Großbritannien und Nordirland über die
 steuerliche Behandlung von Straßenfahrzeugen im internationalen
 Verkehr wird zugestimmt. Das Abkommen wird nachstehend veröffentlicht.
 
@@ -33,8 +30,8 @@ Verkehr wird zugestimmt. Das Abkommen wird nachstehend veröffentlicht.
 (1) Die Befreiung nach Artikel 2 Abs. 1 Buchstabe (a) in Verbindung
 mit den Absätzen 2 und 3 des Abkommens ist bei Fahrzeugen, die nach
 ihrer Bauart oder Einrichtung zur Beförderung von Gütern bestimmt
-sind, nur zu gewähren, wenn der einzelne vorübergehende Aufenthalt im
-Geltungsbereich dieses Gesetzes vierzehn aufeinanderfolgende Tage
+sind, nur zu gewähren, wenn der einzelne vorübergehende Aufenthalt
+im Geltungsbereich dieses Gesetzes vierzehn aufeinanderfolgende Tage
 nicht überschreitet.
 
 (2) Bei Berechnung der Aufenthaltsdauer sind der Einreisetag und der

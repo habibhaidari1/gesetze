@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl I: 1991, 157
 
 
-
 ## I.
 
 Es wird ein Bundesministerium für Gesundheit errichtet.
@@ -42,12 +41,8 @@ folgt übertragen:
 -   auf das Bundesministerium für Familie und Senioren die Unterabteilung
     Z A;
 
-
 -   auf das Bundesministerium des Innern alle übrigen personellen und
     materiellen Mittel.
-
-
-
 
 
 ## V.

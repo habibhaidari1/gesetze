@@ -1,7 +1,5 @@
-Bekanntmachung
 ---
-Title: über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro
-  (Goldmünze "UNESCO Welterbe — Hansestadt Lübeck")
+Title: "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze \"UNESCO Welterbe — Hansestadt Lübeck\")"
 jurabk: Münz100EuroBek 2007
 layout: default
 origslug: m_nz100eurobek_2007
@@ -9,7 +7,7 @@ slug: muenz100eurobek_2007
 
 ---
 
-# über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze "UNESCO Welterbe — Hansestadt Lübeck") (Münz100EuroBek 2007)
+# Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze "UNESCO Welterbe — Hansestadt Lübeck") (Münz100EuroBek 2007)
 
 Ausfertigungsdatum
 :   2007-09-07
@@ -30,8 +28,8 @@ gleichen Teilen in den Münzstätten Berlin (Münzzeichen „A“), München
 (Münzzeichen „D“), Stuttgart (Münzzeichen „F“), Karlsruhe (Münzzeichen
 „G“) und Hamburg (Münzzeichen „J“) in Stempelglanzausführung geprägt.
 
-Die Münze wird ab dem 1. Oktober 2007 in den Verkehr gebracht. Sie
-besteht aus Gold mit einem Feingehalt von 999,9 Tausendteilen
+Die Münze wird ab dem 1. Oktober 2007 in den Verkehr gebracht.
+Sie besteht aus Gold mit einem Feingehalt von 999,9 Tausendteilen
 (Feingold). Sie hat einen Durchmesser von 28 Millimetern und eine
 Masse (Gewicht) von 15,55 Gramm. Der Münzrand ist geriffelt.
 
@@ -56,4 +54,6 @@ Der Bundesminister der Finanzen
 ## (XXXX)
 
 (Fundstelle der Originalgrafik: BGBl. I 2007, 2298)
+
 ![bgbl1_2007_j2298_0010.jpg](bgbl1_2007_j2298_0010.jpg)
+

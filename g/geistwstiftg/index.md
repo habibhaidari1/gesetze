@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zur Errichtung einer Stiftung Deutsche Geisteswissenschaftliche Institute
-  im Ausland, Bonn
+Title: Gesetz zur Errichtung einer Stiftung Deutsche Geisteswissenschaftliche Institute im Ausland, Bonn
 jurabk: GeistwStiftG
 layout: default
 origslug: geistwstiftg
@@ -20,7 +19,6 @@ Zuletzt geändert durch
 :   Art. 6 G v. 9.6.2021 I 1614
 
 
-
 ## § 1 Name, Rechtsform und Sitz der Stiftung
 
 Unter dem Namen "Stiftung Deutsche Geisteswissenschaftliche Institute
@@ -37,37 +35,28 @@ durch Satzung einen Namenszusatz geben.
     Kultur-, Wirtschafts- und Sozialwissenschaften in ausgewählten Ländern
     und
 
-
 2.  das gegenseitige Verständnis zwischen Deutschland und diesen Ländern.
-
-
 
 Die Stiftung unterhält mit dieser Zielrichtung im jeweiligen Gastland
 deutsche Forschungsinstitute (Institute) und fördert vorbereitende und
 begleitende Tätigkeiten, insbesondere Projekte.
 
-(2) Die Institute sind im Rahmen der Satzung der Stiftung selbständige
-Einrichtungen, die in ihrer wissenschaftlichen Arbeit unabhängig sind.
-Sie sollen eigene Forschung betreiben und dabei die Zusammenarbeit
-zwischen den deutschen Geisteswissenschaften und den
-Geisteswissenschaften des Gastlandes fördern, insbesondere durch
+(2) Die Institute sind im Rahmen der Satzung der Stiftung
+selbständige Einrichtungen, die in ihrer wissenschaftlichen Arbeit
+unabhängig sind. Sie sollen eigene Forschung betreiben und dabei die
+Zusammenarbeit zwischen den deutschen Geisteswissenschaften und den
+Geisteswissenschaften des Gastlandes fördern, insbesondere durch
 
 1.  Publikationen,
-
 
 2.  wissenschaftliche Veranstaltungen wie Ausstellungen, Kolloquien und
     Tagungen,
 
-
 3.  wissenschaftliche Auskünfte und Beratungen sowie die Vermittlung
     wissenschaftlicher Kontakte und
 
-
 4.  Förderung des wissenschaftlichen Nachwuchses, vor allem durch Vergabe
     von Stipendien.
-
-
-
 
 (3) Die Stiftung verfolgt ausschließlich und unmittelbar gemeinnützige
 Zwecke im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der
@@ -104,20 +93,13 @@ Organe der Stiftung sind
 
 1.  der Stiftungsrat,
 
-
 2.  die oder der Vorsitzende des Stiftungsrates,
-
 
 3.  die Direktionsversammlung,
 
-
 4.  die Direktorinnen oder Direktoren der Institute,
 
-
 5.  die Geschäftsführerin oder der Geschäftsführer.
-
-
-
 
 
 ## § 6 Stiftungsrat
@@ -128,19 +110,14 @@ Es werden berufen:
 
 1.  zwei Mitglieder, die von der Bundesregierung benannt werden,
 
-
 2.  ein Mitglied als Vorsitzende oder Vorsitzender des Stiftungsrates, das
     vom Stiftungsrat benannt wird,
-
 
 3.  sieben Mitglieder, die von den in der Satzung bestimmten Stellen,
     insbesondere von Wissenschaftsorganisationen benannt werden, und
 
-
 4.  ein Mitglied, das von der in der Satzung bestimmten Organisation der
     Wirtschaft benannt wird.
-
-
 
 Als Mitglieder nach Satz 2 Nummer 2 und 3 können nur
 Wissenschaftlerinnen oder Wissenschaftler benannt werden. Die
@@ -153,11 +130,11 @@ zum Zeitpunkt der Berufung bereits Mitglied des Stiftungsrates nach
 Satz 2 Nummer 3 oder 4 ist, wird für den frei werdenden Platz ein
 neues Mitglied berufen.
 
-(2) Die mit dem Vorsitz des Stiftungsrates betraute Person leitet die
-Sitzungen des Stiftungsrates und hat das Recht, an den Sitzungen aller
-anderen Organe und Gremien teilzunehmen. Sie führt unter Beteiligung
-der Geschäftsführerin oder des Geschäftsführers und der
-Direktionsversammlung die Haushaltsverhandlungen mit dem
+(2) Die mit dem Vorsitz des Stiftungsrates betraute Person leitet
+die Sitzungen des Stiftungsrates und hat das Recht, an den Sitzungen
+aller anderen Organe und Gremien teilzunehmen. Sie führt unter
+Beteiligung der Geschäftsführerin oder des Geschäftsführers und
+der Direktionsversammlung die Haushaltsverhandlungen mit dem
 Bundesministerium für Bildung und Forschung. Sie ist Vorgesetzte der
 Direktorinnen und Direktoren sowie der Geschäftsführerin oder des
 Geschäftsführers und kann die Stiftung auch insoweit vertreten.
@@ -166,8 +143,8 @@ Geschäftsführers und kann die Stiftung auch insoweit vertreten.
 entscheidet in allen Angelegenheiten, die für die Stiftung von
 grundsätzlicher Bedeutung sind. Dazu gehören insbesondere Änderungen
 der Satzung, Entscheidungen über die Zuordnung von Aufgaben zu Organen
-und Einrichtungen der Stiftung im Zweifelsfall, die Aufstellung des
-Wirtschaftsplans, bedeutsame Personalentscheidungen sowie die
+und Einrichtungen der Stiftung im Zweifelsfall, die Aufstellung
+des Wirtschaftsplans, bedeutsame Personalentscheidungen sowie die
 Errichtung oder Schließung von Einrichtungen der Stiftung. Mit der
 Leitung der Institute beauftragt er Direktorinnen und Direktoren. Der
 Stiftungsrat überwacht die Tätigkeit der Einrichtungen und der anderen
@@ -184,8 +161,8 @@ oder die Vorsitzende nach Bedarf, jedoch mindestens einmal im Jahr
 einberuft. Auf Antrag von mindestens der Hälfte der Mitglieder muss
 der oder die Vorsitzende eine Sitzung einberufen.
 
-(2) An den Sitzungen des Stiftungsrates nehmen zwei Mitglieder der
-Direktionsversammlung, zwei Mitglieder der Versammlung der
+(2) An den Sitzungen des Stiftungsrates nehmen zwei Mitglieder
+der Direktionsversammlung, zwei Mitglieder der Versammlung der
 Beiratsvorsitzenden, die Geschäftsführerin oder der Geschäftsführer
 sowie je eine Vertreterin oder ein Vertreter des Personals und der
 wissenschaftlichen Mitarbeiterinnen und Mitarbeiter als ständige Gäste
@@ -194,8 +171,8 @@ zur Teilnahme zugelassen werden.
 
 (3) Der Stiftungsrat ist beschlussfähig, wenn mindestens die Hälfte
 der Mitglieder anwesend oder vertreten ist. Der Stiftungsrat fasst
-seine Beschlüsse mit einfacher Mehrheit der anwesenden oder sich an
-einer schriftlichen oder elektronischen Abstimmung beteiligenden
+seine Beschlüsse mit einfacher Mehrheit der anwesenden oder sich
+an einer schriftlichen oder elektronischen Abstimmung beteiligenden
 Mitglieder, soweit nicht in diesem Gesetz oder der Satzung etwas
 anderes vorgesehen ist. Bei Stimmengleichheit gibt die Stimme des oder
 der Vorsitzenden den Ausschlag. Wirtschaftsplanangelegenheiten, die
@@ -219,10 +196,10 @@ bestimmt ihre ständigen Gäste im Stiftungsrat.
 ständigen Gäste im Stiftungsrat an der Willensbildung der Stiftung
 teil.
 
-(4) Die Direktionsversammlung entscheidet in der Regel in Sitzungen,
-die die Sprecherin oder der Sprecher nach Bedarf, jedoch mindestens
-einmal im Jahr, einberuft. Auf Antrag von mindestens der Hälfte der
-Mitglieder muss eine Sitzung einberufen werden. Die
+(4) Die Direktionsversammlung entscheidet in der Regel in
+Sitzungen, die die Sprecherin oder der Sprecher nach Bedarf, jedoch
+mindestens einmal im Jahr, einberuft. Auf Antrag von mindestens
+der Hälfte der Mitglieder muss eine Sitzung einberufen werden. Die
 Direktionsversammlung fasst ihre Beschlüsse mit der Mehrheit der
 anwesenden Mitglieder.
 
@@ -232,12 +209,12 @@ anwesenden Mitglieder.
 ## § 9 Direktorinnen und Direktoren der Institute
 
 (1) Der Stiftungsrat bestellt für jedes Institut auf Vorschlag des
-Wissenschaftlichen Beirates (§ 10) eine Person zur Direktorin oder zum
-Direktor, die das Institut leitet. Sie kann die Stiftung in
+Wissenschaftlichen Beirates (§ 10) eine Person zur Direktorin oder
+zum Direktor, die das Institut leitet. Sie kann die Stiftung in
 Angelegenheiten des jeweiligen Instituts vertreten und ist Vorgesetzte
-oder Vorgesetzter der Institutsangehörigen. Sie vollzieht aus dem
-Wirtschaftsplan der Stiftung den Teilplan des Instituts. Die Institute
-sollen die Mittel erhalten, die sie zur Wahrnehmung ihrer
+oder Vorgesetzter der Institutsangehörigen. Sie vollzieht aus
+dem Wirtschaftsplan der Stiftung den Teilplan des Instituts. Die
+Institute sollen die Mittel erhalten, die sie zur Wahrnehmung ihrer
 wissenschaftlichen und verwaltungsmäßigen Aufgaben benötigen.
 
 (2) Die Direktorin oder der Direktor eines Instituts wird für
@@ -249,16 +226,16 @@ sieben Jahre ist zulässig.
 
 ## § 10 Wissenschaftliche Beiräte der Institute
 
-(1) Für jedes Institut wird ein Wissenschaftlicher Beirat berufen. Er
-hat bis zu neun Mitglieder. Beschäftigte der Institute dürfen ihm
+(1) Für jedes Institut wird ein Wissenschaftlicher Beirat berufen.
+Er hat bis zu neun Mitglieder. Beschäftigte der Institute dürfen ihm
 nicht angehören. Zu den Mitgliedern eines Wissenschaftlichen Beirates
 sollen auch ausländische Wissenschaftlerinnen und Wissenschaftler
 gehören.
 
 (2) Der Stiftungsrat beruft die Mitglieder der Wissenschaftlichen
 Beiräte auf vier Jahre. Einmalige Wiederberufung in Folge ist
-zulässig. Vor Berufungen ist der jeweilige Wissenschaftliche Beirat zu
-hören.
+zulässig. Vor Berufungen ist der jeweilige Wissenschaftliche Beirat
+zu hören.
 
 (3) Jeder Wissenschaftliche Beirat berät in wissenschaftlichen Fragen
 das Institut, für das er berufen worden ist, und den Stiftungsrat in
@@ -282,8 +259,8 @@ Vergütung erhalten.
 ## § 12 Geschäftsführung
 
 (1) Die Geschäftsführerin oder der Geschäftsführer führt die Geschäfte
-der Stiftung, soweit sie nach dem Gesetz oder der Satzung nicht von
-einem anderen Organ zu besorgen sind. Diese Person entscheidet
+der Stiftung, soweit sie nach dem Gesetz oder der Satzung nicht
+von einem anderen Organ zu besorgen sind. Diese Person entscheidet
 insbesondere in nichtwissenschaftlichen Angelegenheiten, die über die
 Zusammenarbeit der Institute mit Personen und Behörden des jeweiligen
 Gastlandes hinausgehen oder von denen mehrere Institute betroffen
@@ -314,9 +291,9 @@ Stiftung unterliegen der Prüfung durch den Bundesrechnungshof.
 
 ## § 15 Beschäftigte
 
-(1) Auf die Arbeits- und Ausbildungsverhältnisse der Beschäftigten und
-Auszubildenden der Stiftung sind die für die Beschäftigten und
-Auszubildenden des Bundes jeweils geltenden Tarifverträge und
+(1) Auf die Arbeits- und Ausbildungsverhältnisse der Beschäftigten
+und Auszubildenden der Stiftung sind die für die Beschäftigten
+und Auszubildenden des Bundes jeweils geltenden Tarifverträge und
 sonstigen Bestimmungen anzuwenden.
 
 (2) Die Satzung kann mit Genehmigung des Bundesministeriums für

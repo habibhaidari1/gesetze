@@ -31,7 +31,6 @@ Gesetzeskraft:
 ## Abschnitt I - Neuordnung der Krankenversicherung der Bergleute
 
 
-
 ### § 1
 
 -
@@ -58,14 +57,12 @@ werden. Bestandteil der Satzung bildet auch die Krankenordnung.
 ## Abschnitt II - Gesundheitsfürsorge
 
 
-
 ### § 4
 
 -
 
 
 ## Abschnitt III - Krankenversicherung der Rentner
-
 
 
 ### § 5
@@ -76,14 +73,12 @@ werden. Bestandteil der Satzung bildet auch die Krankenordnung.
 ## Abschnitt IV - Gemeinschaftshilfe des Reichsstocks für Arbeitseinsatz
 
 
-
 ### § 6
 
 -
 
 
 ## Abschnitt V - Umfang der Versicherung
-
 
 
 ### § 7
@@ -99,9 +94,7 @@ werden. Bestandteil der Satzung bildet auch die Krankenordnung.
 ## Abschnitt VI - Übergangs- und Schlußvorschriften
 
 
-
 ### (XXXX) §§ 9 u. 10 (weggefallen)
-
 
 
 ### § 11

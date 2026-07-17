@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl I: 1992, 1370
 
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
@@ -26,25 +25,20 @@ beschlossen:
 ## (XXXX) Art 1 und 2
 
 
-
 ## Art 3
 
 1\.
 
 2.  Die bis zum Zeitpunkt des Inkrafttretens dieses Gesetzes von der
-    Bundesanstalt für Flugsicherung und dem Luftfahrt-Bundesamt auf der
-    Grundlage des § 32 Abs. 3 Satz 3 des Luftverkehrsgesetzes ohne
+    Bundesanstalt für Flugsicherung und dem Luftfahrt-Bundesamt auf
+    der Grundlage des § 32 Abs. 3 Satz 3 des Luftverkehrsgesetzes ohne
     Zustimmung des Bundesrates erlassenen Rechtsverordnungen werden
     rückwirkend auf den Tag ihres jeweiligen Inkrafttretens in Kraft
     gesetzt. Diese Rechtsverordnungen können auf Grund der einschlägigen
     Ermächtigungen durch Rechtsverordnung geändert werden.
 
 
-
-
-
 ## (XXXX) Art 4 bis 6
-
 
 
 ## Art 7 Gesetz zur Übernahme der Beamten und Arbeitnehmer der Bundesanstalt für Flugsicherung
@@ -53,7 +47,6 @@ beschlossen:
 
 
 ## (XXXX) Art 8 und 9
-
 
 
 ## Art 10
@@ -71,9 +64,6 @@ nichts anderes bestimmt ist.
 1\.
 
 2.  Artikel 2, 4 bis 8.
-
-
-
 
 (3) und (4)
 

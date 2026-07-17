@@ -16,27 +16,16 @@ Fundstelle
 :   BGBl I: 2010, 38
 
 Zuletzt geändert durch
-:   Art. 105 V v. 19.6.2020 I 1328
-
-Änderung durch
-:   Art. 1 V v. 13.10.2021 I 4676 (Nr. 73) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-[^fn772806_01_BJNR003800010]:     Die Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen
-    Parlaments und des Rates vom 22. Juni 1998 über ein
-    Informationsverfahren auf dem Gebiet der Normen und technischen
-    Vorschriften und der Vorschriften für die Dienste der
-    Informationsgesellschaft (ABl. L 204 vom 21.7.1998, S. 37), die
-    zuletzt durch die Richtlinie 2006/96/EG (ABl. L 363 vom 20.12.2006, S.
-    81) geändert worden ist, sind beachtet worden.
+:   Art. 1 V v. 13.10.2021 I 4676
 
 
 ## Eingangsformel
 
-Auf Grund des § 23 Absatz 1 in Verbindung mit § 48b sowie des § 59 des
-Bundes-Immissionsschutzgesetzes in der Fassung der Bekanntmachung vom
-26\. September 2002 (BGBl. I S. 3830) verordnet die Bundesregierung
-nach Anhörung der beteiligten Kreise und unter Wahrung der Rechte des
-Bundestages:
+Auf Grund des § 23 Absatz 1 in Verbindung mit § 48b sowie des § 59
+des Bundes-Immissionsschutzgesetzes in der Fassung der Bekanntmachung
+vom 26. September 2002 (BGBl. I S. 3830) verordnet die Bundesregierung
+nach Anhörung der beteiligten Kreise und unter Wahrung der Rechte
+des Bundestages:
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -44,9 +33,9 @@ Bundestages:
 
 ### § 1 Anwendungsbereich
 
-(1) Diese Verordnung gilt für die Errichtung, die Beschaffenheit und
-den Betrieb von Feuerungsanlagen, die keiner Genehmigung nach § 4 des
-Bundes-Immissionsschutzgesetzes bedürfen, mit Ausnahme von
+(1) Diese Verordnung gilt für die Errichtung, die Beschaffenheit
+und den Betrieb von Feuerungsanlagen, die keiner Genehmigung nach
+§ 4 des Bundes-Immissionsschutzgesetzes bedürfen, mit Ausnahme von
 Feuerungsanlagen zur Verbrennung von gasförmigen oder flüssigen
 Brennstoffen mit einer Feuerungswärmeleistung von 1 Megawatt oder
 mehr.
@@ -57,37 +46,27 @@ mehr.
     zur Ableitung der Abgase betrieben werden können, insbesondere
     Infrarotheizstrahler,
 
-
 2.  Feuerungsanlagen, die dazu bestimmt sind,
 
     a)  Güter durch unmittelbare Berührung mit heißen Abgasen zu trocknen,
 
-
     b)  Speisen durch unmittelbare Berührung mit heißen Abgasen zu backen oder
         in ähnlicher Weise zuzubereiten,
-
 
     c)  Alkohol in Kleinbrennereien mit einer jährlichen Erzeugung von nicht
         mehr als 10 Hektoliter Alkohol und einer jährlichen Betriebszeit von
         nicht mehr als 20 Tagen herzustellen oder
 
-
     d)  Warmwasser in Badeöfen zu erzeugen,
 
-
-
-
-
-3.  Feuerungsanlagen, von denen nach den Umständen zu erwarten ist, dass
-    sie nicht länger als während der drei Monate, die auf die
+3.  Feuerungsanlagen, von denen nach den Umständen zu erwarten ist,
+    dass sie nicht länger als während der drei Monate, die auf die
     Inbetriebnahme folgen, an demselben Ort betrieben werden.
 
-
-
-Die §§ 14 und 19 bleiben in den Fällen von Satz 1 Nummer 2 Buchstabe b
-auf ab dem 20. Juni 2019 errichtete oder wesentlich geänderte
-stationäre Feuerungsanlagen zum Grillen oder Backen von Speisen zu
-gewerblichen Zwecken, die feste Brennstoffe nach § 3 Absatz 1
+Die §§ 14 und 19 bleiben in den Fällen von Satz 1 Nummer 2 Buchstabe
+b auf ab dem 20. Juni 2019 errichtete oder wesentlich geänderte
+stationäre Feuerungsanlagen zum Grillen oder Backen von Speisen
+zu gewerblichen Zwecken, die feste Brennstoffe nach § 3 Absatz 1
 einsetzen, anwendbar.
 
 
@@ -100,13 +79,11 @@ In dieser Verordnung gelten die folgenden Begriffsbestimmungen:
     die Differenz zwischen dem Wärmeinhalt des Abgases und dem Wärmeinhalt
     der Verbrennungsluft bezogen auf den Heizwert des Brennstoffes;
 
-
 2.  Brennwertgerät:
 
     Wärmeerzeuger, bei dem die Verdampfungswärme des im Abgas enthaltenen
     Wasserdampfes konstruktionsbedingt durch Kondensation nutzbar gemacht
     wird;
-
 
 3.  Einzelraumfeuerungsanlage:
 
@@ -114,14 +91,12 @@ In dieser Verordnung gelten die folgenden Begriffsbestimmungen:
     verwendet wird, sowie Herde mit oder ohne indirekt beheizte
     Backvorrichtung;
 
-
 4.  Emissionen:
 
     die von einer Feuerungsanlage ausgehenden Luftverunreinigungen;
     Konzentrationsangaben beziehen sich auf das Abgasvolumen im
-    Normzustand (273 Kelvin, 1 013 Hektopascal) nach Abzug des
+    Normzustand (273 Kelvin, 1 013 Hektopascal) nach Abzug des
     Feuchtegehaltes an Wasserdampf;
-
 
 5.  Feuerungsanlage:
 
@@ -130,34 +105,29 @@ In dieser Verordnung gelten die folgenden Begriffsbestimmungen:
     Einrichtungen zur Verbrennungsluftzuführung, Verbindungsstück und
     Abgaseinrichtung;
 
-
 6.  Feuerungswärmeleistung:
 
     der auf den unteren Heizwert bezogene Wärmeinhalt des Brennstoffs, der
     einer Feuerungsanlage im Dauerbetrieb je Zeiteinheit zugeführt werden
     kann;
 
-
 7.  Holzschutzmittel:
 
-    bei der Be- und Verarbeitung des Holzes eingesetzte Stoffe mit
-    biozider Wirkung gegen holzzerstörende Insekten oder Pilze sowie
-    holzverfärbende Pilze; ferner Stoffe zur Herabsetzung der
+    bei der Be- und Verarbeitung des Holzes eingesetzte Stoffe
+    mit biozider Wirkung gegen holzzerstörende Insekten oder Pilze
+    sowie holzverfärbende Pilze; ferner Stoffe zur Herabsetzung der
     Entflammbarkeit von Holz;
-
 
 8.  Kern des Abgasstromes:
 
     der Teil des Abgasstromes, der im Querschnitt des Abgaskanals im
     Bereich der Messöffnung die höchste Temperatur aufweist;
 
-
 9.  naturbelassenes Holz:
 
     Holz, das ausschließlich mechanischer Bearbeitung ausgesetzt war und
     bei seiner Verwendung nicht mehr als nur unerheblich mit Schadstoffen
     kontaminiert wurde;
-
 
 10. Nennwärmeleistung:
 
@@ -169,7 +139,6 @@ In dieser Verordnung gelten die folgenden Begriffsbestimmungen:
     ohne Zusatzschild gilt als Nennwärmeleistung der höchste Wert des
     Nennwärmeleistungsbereichs;
 
-
 11. Nutzungsgrad:
 
     das Verhältnis der von einer Feuerungsanlage nutzbar abgegebenen
@@ -177,13 +146,11 @@ In dieser Verordnung gelten die folgenden Begriffsbestimmungen:
     Wärmeinhalt bezogen auf eine Heizperiode mit festgelegter
     Wärmebedarfs-Häufigkeitsverteilung nach Anlage 3 Nummer 1;
 
-
 12. offener Kamin:
 
     Feuerstätte für feste Brennstoffe, die bestimmungsgemäß offen
     betrieben werden kann, soweit die Feuerstätte nicht ausschließlich für
     die Zubereitung von Speisen bestimmt ist;
-
 
 13. Grundofen:
 
@@ -191,21 +158,18 @@ In dieser Verordnung gelten die folgenden Begriffsbestimmungen:
     Speichermaterialien, die an Ort und Stelle handwerklich gesetzt
     werden;
 
-
 14. Ölderivate:
 
     schwerflüchtige organische Substanzen, die sich bei der Bestimmung der
     Rußzahl auf dem Filterpapier niederschlagen;
 
-
 15. Rußzahl:
 
     die Kennzahl für die Schwärzung, die die im Abgas enthaltenen
-    staubförmigen Emissionen bei der Rußzahlbestimmung nach DIN 51402 Teil
-    1, Ausgabe Oktober 1986, hervorrufen; Maßstab für die Schwärzung ist
-    das optische Reflexionsvermögen; einer Erhöhung der Rußzahl um 1
+    staubförmigen Emissionen bei der Rußzahlbestimmung nach DIN 51402
+    Teil 1, Ausgabe Oktober 1986, hervorrufen; Maßstab für die Schwärzung
+    ist das optische Reflexionsvermögen; einer Erhöhung der Rußzahl um 1
     entspricht eine Abnahme des Reflexionsvermögens um 10 Prozent;
-
 
 16. wesentliche Änderung:
 
@@ -213,22 +177,14 @@ In dieser Verordnung gelten die folgenden Begriffsbestimmungen:
     Emissionen erheblich verändern kann; eine wesentliche Änderung liegt
     regelmäßig vor bei
 
-    a)  Umstellung einer Feuerungsanlage auf einen anderen Brennstoff, es sei
-        denn, die Feuerungsanlage ist bereits für wechselweisen
+    a)  Umstellung einer Feuerungsanlage auf einen anderen Brennstoff,
+        es sei denn, die Feuerungsanlage ist bereits für wechselweisen
         Brennstoffeinsatz eingerichtet,
-
 
     b)  Austausch eines Kessels;
 
-
-
-
-
 17. bestehende Feuerungsanlagen:
     Feuerungsanlagen, die vor dem 22. März 2010 errichtet worden sind.
-
-
-
 
 
 ### § 3 Brennstoffe
@@ -238,80 +194,63 @@ eingesetzt werden:
 
 1.  Steinkohlen, nicht pechgebundene Steinkohlenbriketts, Steinkohlenkoks,
 
-
 2.  Braunkohlen, Braunkohlenbriketts, Braunkohlenkoks,
-
 
 3.  Brenntorf, Presslinge aus Brenntorf,
 
-
 3a. Grill-Holzkohle, Grill-Holzkohlebriketts nach DIN EN 1860, Ausgabe
     September 2005,
-
 
 4.  naturbelassenes stückiges Holz einschließlich anhaftender Rinde,
     insbesondere in Form von Scheitholz und Hackschnitzeln, sowie Reisig
     und Zapfen,
 
-
 5.  naturbelassenes nicht stückiges Holz, insbesondere in Form von
     Sägemehl, Spänen und Schleifstaub, sowie Rinde,
 
-
-5a. Presslinge aus naturbelassenem Holz in Form von Holzbriketts nach DIN
-    51731, Ausgabe Oktober 1996, oder in Form von Holzpellets nach den
-    brennstofftechnischen Anforderungen des DINplus-
+5a. Presslinge aus naturbelassenem Holz in Form von Holzbriketts nach
+    DIN 51731, Ausgabe Oktober 1996, oder in Form von Holzpellets
+    nach den brennstofftechnischen Anforderungen des DINplus-
     Zertifizierungsprogramms „Holzpellets zur Verwendung in
     Kleinfeuerstätten nach DIN 51731-HP 5“, Ausgabe August 2007, sowie
     andere Holzbriketts oder Holzpellets aus naturbelassenem Holz mit
     gleichwertiger Qualität,
-
 
 6.  gestrichenes, lackiertes oder beschichtetes Holz sowie daraus
     anfallende Reste, soweit keine Holzschutzmittel aufgetragen oder
     infolge einer Behandlung enthalten sind und Beschichtungen keine
     halogenorganischen Verbindungen oder Schwermetalle enthalten,
 
-
 7.  Sperrholz, Spanplatten, Faserplatten oder sonst verleimtes Holz sowie
     daraus anfallende Reste, soweit keine Holzschutzmittel aufgetragen
     oder infolge einer Behandlung enthalten sind und Beschichtungen keine
     halogenorganischen Verbindungen oder Schwermetalle enthalten,
-
 
 8.  Stroh und ähnliche pflanzliche Stoffe, nicht als Lebensmittel
     bestimmtes Getreide wie Getreidekörner und Getreidebruchkörner,
     Getreideganzpflanzen, Getreideausputz, Getreidespelzen und
     Getreidehalmreste sowie Pellets aus den vorgenannten Brennstoffen,
 
-
 9.  Heizöl leicht (Heizöl EL) nach DIN 51603-1, Ausgabe August 2008, und
     andere leichte Heizöle mit gleichwertiger Qualität sowie Methanol,
     Ethanol, naturbelassene Pflanzenöle oder Pflanzenölmethylester,
-
 
 10. Gase der öffentlichen Gasversorgung, naturbelassenes Erdgas oder
     Erdölgas mit vergleichbaren Schwefelgehalten sowie Flüssiggas oder
     Wasserstoff,
 
-
 11. Klärgas mit einem Volumengehalt an Schwefelverbindungen bis zu 1
     Promille, angegeben als Schwefel, oder Biogas aus der Landwirtschaft,
-
 
 12. Koksofengas, Grubengas, Stahlgas, Hochofengas, Raffineriegas und
     Synthesegas mit einem Volumengehalt an Schwefelverbindungen bis zu 1
     Promille, angegeben als Schwefel, sowie
 
-
 13. sonstige nachwachsende Rohstoffe, soweit diese die Anforderungen nach
     Absatz 5 einhalten.
 
-
-
-
-(2) Der Massegehalt an Schwefel der in Absatz 1 Nummer 1 und 2
-genannten Brennstoffe darf 1 Prozent der Rohsubstanz nicht
+(2) Der Massegehalt an Schwefel der in Absatz 1 Nummer 1 und
+2 genannten Brennstoffe darf 1 Prozent der Rohsubstanz nicht
 überschreiten. Bei Steinkohlenbriketts oder Braunkohlenbriketts gilt
 diese Anforderung als erfüllt, wenn durch eine besondere Vorbehandlung
 eine gleichwertige Begrenzung der Emissionen an Schwefeldioxid im
@@ -324,8 +263,8 @@ Brennstoffs liegt. Satz 1 gilt nicht bei automatisch beschickten
 Feuerungsanlagen, die nach Angaben des Herstellers für Brennstoffe mit
 höheren Feuchtegehalten geeignet sind.
 
-(4) Presslinge aus Brennstoffen nach Absatz 1 Nummer 5a bis 8 und 13
-dürfen nicht unter Verwendung von Bindemitteln hergestellt sein.
+(4) Presslinge aus Brennstoffen nach Absatz 1 Nummer 5a bis 8 und
+13 dürfen nicht unter Verwendung von Bindemitteln hergestellt sein.
 Ausgenommen davon sind Bindemittel aus Stärke, pflanzlichem Stearin,
 Melasse und Zellulosefaser.
 
@@ -334,10 +273,8 @@ Anforderungen erfüllen:
 
 1.  für den Brennstoff müssen genormte Qualitätsanforderungen vorliegen,
 
-
 2.  die Emissionsgrenzwerte nach Anlage 4 Nummer 2 müssen unter
     Prüfbedingungen eingehalten werden,
-
 
 3.  beim Einsatz des Brennstoffes im Betrieb dürfen keine höheren
     Emissionen an Dioxinen, Furanen und polyzyklischen aromatischen
@@ -345,14 +282,10 @@ Anforderungen erfüllen:
     muss durch ein mindestens einjährliches Messprogramm an den für den
     Einsatz vorgesehenen Feuerungsanlagentyp nachgewiesen werden,
 
-
 4.  beim Einsatz des Brennstoffes im Betrieb müssen die Anforderungen nach
     § 5 Absatz 1 eingehalten werden können; dies muss durch ein mindestens
     einjährliches Messprogramm an den für den Einsatz vorgesehenen
     Feuerungsanlagentyp nachgewiesen werden.
-
-
-
 
 
 ## Abschnitt 2 - Feuerungsanlagen für feste Brennstoffe
@@ -370,10 +303,10 @@ Herstellers zu richten.
 (2) Emissionsbegrenzungen beziehen sich auf einen Volumengehalt an
 Sauerstoff im Abgas von 13 Prozent.
 
-(3) Einzelraumfeuerungsanlagen für feste Brennstoffe, mit Ausnahme von
-Grundöfen und offenen Kaminen, die ab dem 22. März 2010 errichtet
-werden, dürfen nur betrieben werden, wenn für die Feuerstättenart der
-Einzelraumfeuerungsanlagen durch eine Typprüfung des Herstellers
+(3) Einzelraumfeuerungsanlagen für feste Brennstoffe, mit Ausnahme
+von Grundöfen und offenen Kaminen, die ab dem 22. März 2010 errichtet
+werden, dürfen nur betrieben werden, wenn für die Feuerstättenart
+der Einzelraumfeuerungsanlagen durch eine Typprüfung des Herstellers
 belegt werden kann, dass unter Prüfbedingungen die Anforderungen an
 die Emissionsgrenzwerte und den Mindestwirkungsgrad nach Anlage 4
 eingehalten werden.
@@ -394,33 +327,29 @@ Nummer 1 zu Kachelofenheizeinsätzen mit Füllfeuerungen nach DIN EN
     Schornsteinfeger unter sinngemäßer Anwendung der Bestimmungen der
     Anlage 4 Nummer 3 zu Beginn des Betriebes oder
 
-
 2.  im Rahmen einer Typprüfung des vorgefertigten Feuerraumes unter
     Anwendung der Bestimmungen der Anlage 4 Nummer 3.
-
-
-
 
 (6) Die nachgeschalteten Einrichtungen zur Staubminderung nach Absatz
 5 dürfen nur verwendet werden, wenn ihre Eignung von der zuständigen
 Behörde festgestellt worden ist oder eine Bauartzulassung vorliegt.
 Die Eignungsfeststellung und die Bauartzulassung entfallen, sofern
-nach den bauordnungsrechtlichen Vorschriften über die Verwendung von
-Bauprodukten auch die immissionsschutzrechtlichen Anforderungen
+nach den bauordnungsrechtlichen Vorschriften über die Verwendung
+von Bauprodukten auch die immissionsschutzrechtlichen Anforderungen
 eingehalten werden.
 
-(7) Feuerungsanlagen für die in § 3 Absatz 1 Nummer 8 und 13 genannten
-Brennstoffe, die ab dem 22. März 2010 errichtet werden, dürfen nur
-betrieben werden, wenn für die Feuerungsanlage durch eine Typprüfung
-des Herstellers belegt wird, dass unter Prüfbedingungen die
-Anforderungen an die Emissionsgrenzwerte nach Anlage 4 Nummer 2
+(7) Feuerungsanlagen für die in § 3 Absatz 1 Nummer 8 und 13
+genannten Brennstoffe, die ab dem 22. März 2010 errichtet werden,
+dürfen nur betrieben werden, wenn für die Feuerungsanlage durch eine
+Typprüfung des Herstellers belegt wird, dass unter Prüfbedingungen
+die Anforderungen an die Emissionsgrenzwerte nach Anlage 4 Nummer 2
 eingehalten werden.
 
-(8) Der Betreiber einer handbeschickten Feuerungsanlage für feste
-Brennstoffe hat sich nach der Errichtung oder nach einem
+(8) Der Betreiber einer handbeschickten Feuerungsanlage für
+feste Brennstoffe hat sich nach der Errichtung oder nach einem
 Betreiberwechsel innerhalb eines Jahres hinsichtlich der sachgerechten
-Bedienung der Feuerungsanlage, der ordnungsgemäßen Lagerung des
-Brennstoffs sowie der Besonderheiten beim Umgang mit festen
+Bedienung der Feuerungsanlage, der ordnungsgemäßen Lagerung
+des Brennstoffs sowie der Besonderheiten beim Umgang mit festen
 Brennstoffen von einer Schornsteinfegerin oder einem Schornsteinfeger
 im Zusammenhang mit anderen Schornsteinfegerarbeiten beraten zu
 lassen.
@@ -434,152 +363,22 @@ so zu errichten und zu betreiben, dass die nach Anlage 2 ermittelten
 Massenkonzentrationen die folgenden Emissionsgrenzwerte für Staub und
 Kohlenstoffmonoxid (CO) nicht überschreiten:
 
-*    *
-    *   Brennstoff
-        nach § 3
-        Absatz 1
-
-    *   Nennwärme-
-        leistung
-        (Kilowatt)
-
-    *   Staub
-        (g/m
-        3                       )
-
-    *   CO
-        (g/m
-        3                       )
-
-
-*    *   Stufe 1:
-        Anlagen, die ab dem
-        22\. März 2010 errichtet werden
-
-    *   Nummer
-        1 bis 3a
-
-    *   *                        4*                        500
-
-    *   0,09
-
-    *   1,0
-
-
-*    *   *                       500
-
-    *   0,09
-
-    *   0,5
-
-
-*    *   Nummer
-        4 bis 5
-
-    *   *                       4*                        500
-
-    *   0,10
-
-    *   1,0
-
-
-*    *   *                        500
-
-    *   0,10
-
-    *   0,5
-
-
-*    *   Nummer 5a
-
-    *   *                        4*                        500
-
-    *   0,06
-
-    *   0,8
-
-
-*    *   *                        500
-
-    *   0,06
-
-    *   0,5
-
-
-*    *   Nummer
-        6 bis 7
-
-    *   *                        30*                        100
-
-    *   0,10
-
-    *   0,8
-
-
-*    *   *                        100*                        500
-
-    *   0,10
-
-    *   0,5
-
-
-*    *   *                        500
-
-    *   0,10
-
-    *   0,3
-
-
-*    *   Nummer
-        8 und 13
-
-    *   *                        4*                        100
-
-    *   0,10
-
-    *   1,0
-
-
-*    *   Stufe 2:
-        Anlagen, die nach dem 31.12.2014 errichtet werden
-
-    *   Nummer
-        1 bis 5a
-
-    *   *                       4
-
-    *   0,02
-
-    *   0,4
-
-
-*    *   Nummer
-        6 bis 7
-
-    *   *                        30*                        500
-
-    *   0,02
-
-    *   0,4
-
-
-*    *   *                        500
-
-    *   0,02
-
-    *   0,3
-
-
-*    *   Nummer
-        8 und 13
-
-    *   *                        4*                        100
-
-    *   0,02
-
-    *   0,4
-
-
+|  | Brennstoff nach § 3 Absatz 1 | Nennwärme- leistung (Kilowatt) | Staub (g/m3) | CO (g/m3) |
+| --- | --- | --- | --- | --- |
+| Stufe 1: Anlagen, die ab dem 22. März 2010 errichtet werden | Nummer 1 bis 3a | ≥ 4 ≤ 500 | 0,09 | 1,0 |
+| >500 | 0,09 | 0,5 |  |  |
+| Nummer 4 bis 5 | ≥4 ≤ 500 | 0,10 | 1,0 |  |
+| > 500 | 0,10 | 0,5 |  |  |
+| Nummer 5a | ≥ 4 ≤ 500 | 0,06 | 0,8 |  |
+| > 500 | 0,06 | 0,5 |  |  |
+| Nummer 6 bis 7 | ≥ 30 ≤ 100 | 0,10 | 0,8 |  |
+| > 100 ≤ 500 | 0,10 | 0,5 |  |  |
+| > 500 | 0,10 | 0,3 |  |  |
+| Nummer 8 und 13 | ≥ 4 < 100 | 0,10 | 1,0 |  |
+| Stufe 2: Anlagen, die nach dem 31.12.2014 errichtet werden | Nummer 1 bis 5a | ≥4 | 0,02 | 0,4 |
+| Nummer 6 bis 7 | ≥ 30 ≤ 500 | 0,02 | 0,4 |  |
+| > 500 | 0,02 | 0,3 |  |  |
+| Nummer 8 und 13 | ≥ 4 < 100 | 0,02 | 0,4 |  |
 
 .
 Abweichend von Satz 1 gelten bei Feuerungsanlagen, in denen
@@ -593,24 +392,24 @@ Kilowatt oder mehr und nur in Betrieben der Holzbearbeitung oder
 Holzverarbeitung eingesetzt werden.
 
 (3) Die in § 3 Absatz 1 Nummer 8 und 13 genannten Brennstoffe dürfen
-nur in automatisch beschickten Feuerungsanlagen eingesetzt werden, die
-nach Angaben des Herstellers für diese Brennstoffe geeignet sind und
-die im Rahmen der Typprüfung nach § 4 Absatz 7 mit den jeweiligen
+nur in automatisch beschickten Feuerungsanlagen eingesetzt werden,
+die nach Angaben des Herstellers für diese Brennstoffe geeignet sind
+und die im Rahmen der Typprüfung nach § 4 Absatz 7 mit den jeweiligen
 Brennstoffen geprüft wurden. Die in § 3 Absatz 1 Nummer 8 genannten
 Brennstoffe, ausgenommen Stroh und ähnliche pflanzliche Stoffe, dürfen
-nur in Betrieben der Land- und Forstwirtschaft, des Gartenbaus und in
-Betrieben des agrargewerblichen Sektors, die Umgang mit Getreide
+nur in Betrieben der Land- und Forstwirtschaft, des Gartenbaus und
+in Betrieben des agrargewerblichen Sektors, die Umgang mit Getreide
 haben, insbesondere Mühlen und Agrarhandel, eingesetzt werden.
 
 (4) Bei Feuerungsanlagen mit flüssigem Wärmeträgermedium, ausgenommen
-Einzelraumfeuerungsanlagen, für den Einsatz der in § 3 Absatz 1 Nummer
-4 bis 8 und 13 genannten Brennstoffe, die ab dem 22. März 2010
-errichtet werden, soll ein Wasser-Wärmespeicher mit einem Volumen von
-zwölf Litern je Liter Brennstofffüllraum vorgehalten werden. Es ist
-mindestens ein Wasser-Wärmespeichervolumen von 55 Litern pro Kilowatt
-Nennwärmeleistung zu verwenden. Abweichend von Satz 1 genügt bei
-automatisch beschickten Anlagen ein Wasser-Wärmespeicher mit einem
-Volumen von mindestens 20 Litern je Kilowatt Nennwärmeleistung.
+Einzelraumfeuerungsanlagen, für den Einsatz der in § 3 Absatz 1
+Nummer 4 bis 8 und 13 genannten Brennstoffe, die ab dem 22. März 2010
+errichtet werden, soll ein Wasser-Wärmespeicher mit einem Volumen
+von zwölf Litern je Liter Brennstofffüllraum vorgehalten werden.
+Es ist mindestens ein Wasser-Wärmespeichervolumen von 55 Litern pro
+Kilowatt Nennwärmeleistung zu verwenden. Abweichend von Satz 1 genügt
+bei automatisch beschickten Anlagen ein Wasser-Wärmespeicher mit
+einem Volumen von mindestens 20 Litern je Kilowatt Nennwärmeleistung.
 Abweichend von den Sätzen 1 und 2 kann ein sonstiger Wärmespeicher
 gleicher Kapazität verwendet werden. Die Sätze 1 und 2 gelten nicht
 für
@@ -618,17 +417,12 @@ für
 1.  automatisch beschickte Feuerungsanlagen, die die Anforderungen nach
     Absatz 1 bei kleinster einstellbarer Leistung einhalten,
 
-
-2.  Feuerungsanlagen, die zur Abdeckung der Grund- und Mittellast in einem
-    Wärmeversorgungssystem unter Volllast betrieben werden und die
+2.  Feuerungsanlagen, die zur Abdeckung der Grund- und Mittellast in
+    einem Wärmeversorgungssystem unter Volllast betrieben werden und die
     Spitzen- und Zusatzlasten durch einen Reservekessel abdecken, sowie
-
 
 3.  Feuerungsanlagen, die auf Grund ihrer bestimmungsgemäßen Funktion
     ausschließlich bei Volllast betrieben werden.
-
-
-
 
 
 ## Abschnitt 3 - Öl- und Gasfeuerungsanlagen
@@ -637,8 +431,8 @@ für
 ### § 6 Allgemeine Anforderungen
 
 (1) Öl- und Gasfeuerungsanlagen zur Beheizung von Gebäuden oder Räumen
-mit Wasser als Wärmeträger und einer Feuerungswärmeleistung unter 1
-Megawatt, die ab dem 22. März 2010 errichtet werden, dürfen nur
+mit Wasser als Wärmeträger und einer Feuerungswärmeleistung unter
+1 Megawatt, die ab dem 22. März 2010 errichtet werden, dürfen nur
 betrieben werden, wenn für die eingesetzten Kessel-Brenner-Einheiten,
 Kessel und Brenner durch eine Bescheinigung des Herstellers belegt
 wird, dass der unter Prüfbedingungen nach dem Verfahren der Anlage 3
@@ -648,57 +442,21 @@ folgenden Werte nicht überschreitet:
 
 1.  bei Einsatz von Heizöl EL im Sinne des § 3 Absatz 1 Nummer 9:
 
-    *        *   Nennwärmeleistung
-            (kW)
-
-        *   Emissionen in mg/kWh
-
-
-    *        *   *                              120
-
-        *   110
-
-
-    *        *   *                              120*                              400
-
-        *   120
-
-
-    *        *   *                              400
-
-        *   185
-
-
-
-
+    | Nennwärmeleistung (kW) | Emissionen in mg/kWh |
+    | --- | --- |
+    | ≤ 120 | 110 |
+    | > 120 ≤ 400 | 120 |
+    | > 400 | 185 |
 
 2.  bei Einsatz von Gasen der öffentlichen Gasversorgung:
 
-    *        *   Nennwärmeleistung
-            (kW)
-
-        *   Emissionen in mg/kWh
-
-
-    *        *   *                              120
-
-        *   60
-
-
-    *        *   *                             120*                              400
-
-        *   80
-
-
-    *        *   *                              400
-
-        *   120
-
-
+    | Nennwärmeleistung (kW) | Emissionen in mg/kWh |
+    | --- | --- |
+    | ≤ 120 | 60 |
+    | >120 ≤ 400 | 80 |
+    | > 400 | 120 |
 
     .
-
-
 
 Die Möglichkeiten, die Emissionen an Stickstoffoxid durch
 feuerungstechnische Maßnahmen nach dem Stand der Technik weiter zu
@@ -715,8 +473,8 @@ unterschritten wird.
 
 (3) (weggefallen)
 
-(4) Für Kessel-Brenner-Einheiten, Kessel und Brenner, die in einem
-Mitgliedstaat der Europäischen Union oder in einem anderen
+(4) Für Kessel-Brenner-Einheiten, Kessel und Brenner, die in
+einem Mitgliedstaat der Europäischen Union oder in einem anderen
 Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
 hergestellt worden sind, kann der Gehalt des Abgases an
 Stickstoffoxiden abweichend von Absatz 1 auch nach einem dem Verfahren
@@ -734,19 +492,14 @@ betreiben, dass
     durch die staubförmigen Emissionen im Abgas die Rußzahl 2 nicht
     überschreitet,
 
-
 2.  die Abgase nach der nach dem Verfahren der Anlage 2 Nummer 3.3
     vorgenommenen Prüfung frei von Ölderivaten sind,
-
 
 3.  die Grenzwerte für die Abgasverluste nach § 10 Absatz 1 eingehalten
     werden und
 
-
-4.  die Kohlenstoffmonoxidemissionen einen Wert von 1 300 Milligramm je
+4.  die Kohlenstoffmonoxidemissionen einen Wert von 1 300 Milligramm je
     Kilowattstunde nicht überschreiten.
-
-
 
 Bei Anlagen mit einer Nennwärmeleistung von 11 Kilowatt oder weniger,
 die vor dem 1. November 1996 errichtet worden sind, darf abweichend
@@ -762,35 +515,30 @@ betreiben, dass
     durch die staubförmigen Emissionen im Abgas die Rußzahl 1 nicht
     überschreitet,
 
-
 2.  die Abgase nach der nach dem Verfahren der Anlage 2 Nummer 3.3
     vorgenommenen Prüfung frei von Ölderivaten sind,
-
 
 3.  die Grenzwerte für die Abgasverluste nach § 10 Absatz 1 eingehalten
     werden und
 
-
-4.  die Kohlenstoffmonoxidemissionen einen Wert von 1 300 Milligramm je
+4.  die Kohlenstoffmonoxidemissionen einen Wert von 1 300 Milligramm je
     Kilowattstunde nicht überschreiten.
 
-
-
-Bei Anlagen, die bis zum 1. Oktober 1988, in dem in Artikel 3 des
-Einigungsvertrages genannten Gebiet bis zum 3. Oktober 1990, errichtet
-worden sind, darf abweichend von Satz 1 Nummer 1 die Rußzahl 2 nicht
-überschritten werden, es sei denn, die Anlagen sind nach diesen
-Zeitpunkten wesentlich geändert worden oder werden wesentlich
+Bei Anlagen, die bis zum 1. Oktober 1988, in dem in Artikel 3
+des Einigungsvertrages genannten Gebiet bis zum 3. Oktober 1990,
+errichtet worden sind, darf abweichend von Satz 1 Nummer 1 die Rußzahl
+2 nicht überschritten werden, es sei denn, die Anlagen sind nach
+diesen Zeitpunkten wesentlich geändert worden oder werden wesentlich
 geändert.
 
 
 ### § 9 Gasfeuerungsanlagen
 
 (1) Für Feuerungsanlagen, die regelmäßig mit Gasen der öffentlichen
-Gasversorgung und während höchstens 300 Stunden im Jahr mit Heizöl EL
-im Sinne des § 3 Absatz 1 Nummer 9 betrieben werden, gilt während des
-Betriebs mit Heizöl EL für alle Betriebstemperaturen ein
-Emissionsgrenzwert für Stickstoffoxide von 250 Milligramm je
+Gasversorgung und während höchstens 300 Stunden im Jahr mit Heizöl
+EL im Sinne des § 3 Absatz 1 Nummer 9 betrieben werden, gilt
+während des Betriebs mit Heizöl EL für alle Betriebstemperaturen
+ein Emissionsgrenzwert für Stickstoffoxide von 250 Milligramm je
 Kilowattstunde Abgas.
 
 (2) Gasfeuerungsanlagen sind so zu errichten und zu betreiben, dass
@@ -804,28 +552,11 @@ werden.
 Anlage 2 Nummer 3.4 für die Feuerstätte ermittelten Abgasverluste die
 nachfolgend genannten Prozentsätze nicht überschreiten:
 
-*    *   Nennwärmeleistung
-        in Kilowatt
-
-    *   Grenzwerte für die
-        Abgasverluste in Prozent
-
-
-*    *   *                        4*                        25
-
-    *   11
-
-
-*    *   *                        25*                        50
-
-    *   10
-
-
-*    *   *                        50
-
-    *   9
-
-
+| Nennwärmeleistung in Kilowatt | Grenzwerte für die Abgasverluste in Prozent |
+| --- | --- |
+| ≥ 4 ≤ 25 | 11 |
+| > 25 ≤ 50 | 10 |
+| > 50 | 9 |
 
 .
 Kann bei einer Öl- oder Gasfeuerungsanlage, die mit einem Heizkessel
@@ -853,16 +584,11 @@ oder der jeweiligen Bauart entsprechen.
 1.  Einzelraumfeuerungsanlagen mit einer Nennwärmeleistung von 11 Kilowatt
     oder weniger und
 
-
 2.  Feuerungsanlagen, die bei einer Nennwärmeleistung von 28 Kilowatt oder
     weniger ausschließlich der Brauchwasserbereitung dienen.
 
 
-
-
-
 ### § 11 (weggefallen)
-
 
 
 ## Abschnitt 4 - Überwachung
@@ -872,11 +598,11 @@ oder der jeweiligen Bauart entsprechen.
 
 Der Betreiber einer Feuerungsanlage, für die nach den §§ 14 und 15
 Messungen von einer Schornsteinfegerin oder einem Schornsteinfeger
-vorgeschrieben sind, hat eine Messöffnung herzustellen oder herstellen
-zu lassen, die den Anforderungen nach Anlage 1 entspricht. Hat eine
-Feuerungsanlage mehrere Verbindungsstücke, ist in jedem
-Verbindungsstück eine Messöffnung einzurichten. In anderen als den in
-Satz 1 genannten Fällen hat der Betreiber auf Verlangen der
+vorgeschrieben sind, hat eine Messöffnung herzustellen oder
+herstellen zu lassen, die den Anforderungen nach Anlage 1 entspricht.
+Hat eine Feuerungsanlage mehrere Verbindungsstücke, ist in jedem
+Verbindungsstück eine Messöffnung einzurichten. In anderen als
+den in Satz 1 genannten Fällen hat der Betreiber auf Verlangen der
 zuständigen Behörde die Herstellung einer Messöffnung zu gestatten.
 
 
@@ -890,8 +616,8 @@ durchgeführt werden, die dem Stand der Messtechnik entsprechen.
 Messeinrichtungen durchzuführen.
 
 (3) Die eingesetzten Messeinrichtungen sind halbjährlich einmal von
-einer nach Landesrecht zuständigen Behörde bekannt gegebenen Stelle zu
-überprüfen.
+einer nach Landesrecht zuständigen Behörde bekannt gegebenen Stelle
+zu überprüfen.
 
 
 ### § 14 Überwachung neuer und wesentlich geänderter Feuerungsanlagen
@@ -902,9 +628,9 @@ Schornsteinfeger feststellen zu lassen; die Feststellung kann auch im
 Zusammenhang mit anderen Schornsteinfegerarbeiten erfolgen.
 
 (2) Der Betreiber einer ab dem 22. März 2010 errichteten oder
-wesentlich geänderten Feuerungsanlage, für die in § 3 Absatz 3, § 4
-Absatz 1, 3 bis 7, § 5, § 6 Absatz 1 oder 2 oder in den §§ 7 bis 10
-Anforderungen festgelegt sind, hat die Einhaltung der jeweiligen
+wesentlich geänderten Feuerungsanlage, für die in § 3 Absatz 3, §
+4 Absatz 1, 3 bis 7, § 5, § 6 Absatz 1 oder 2 oder in den §§ 7 bis
+10 Anforderungen festgelegt sind, hat die Einhaltung der jeweiligen
 Anforderungen innerhalb von vier Wochen nach der Inbetriebnahme von
 einer Schornsteinfegerin oder einem Schornsteinfeger feststellen zu
 lassen.
@@ -914,10 +640,8 @@ lassen.
 1.  Einzelraumfeuerungsanlagen für den Einsatz von flüssigen Brennstoffen
     mit einer Nennwärmeleistung von 11 Kilowatt oder weniger,
 
-
 2.  Feuerungsanlagen mit einer Nennwärmeleistung von 11 Kilowatt oder
     weniger, die ausschließlich der Brauchwassererwärmung dienen,
-
 
 3.  Feuerungsanlagen, bei denen Methanol, Ethanol, Wasserstoff, Biogas,
     Klärgas, Grubengas, Stahlgas, Hochofengas oder Raffineriegas
@@ -925,16 +649,12 @@ lassen.
     Erdgas oder Erdölgas jeweils an der Gewinnungsstelle eingesetzt
     werden,
 
-
 4.  Feuerungsanlagen, die als Brennwertgeräte eingerichtet sind,
     hinsichtlich der Anforderungen des § 10.
 
-
-
-
-(4) Die Messungen nach Absatz 2 sind während der üblichen Betriebszeit
-einer Feuerungsanlage nach der Anlage 2 durchzuführen. Über das
-Ergebnis der Messungen sowie über die Durchführung der
+(4) Die Messungen nach Absatz 2 sind während der üblichen
+Betriebszeit einer Feuerungsanlage nach der Anlage 2 durchzuführen.
+Über das Ergebnis der Messungen sowie über die Durchführung der
 Überwachungstätigkeiten nach Absatz 1 und 2 hat die Schornsteinfegerin
 oder der Schornsteinfeger dem Betreiber der Feuerungsanlage eine
 Bescheinigung nach Anlage 2 Nummer 4 und 5 auszustellen.
@@ -949,13 +669,13 @@ lassen. Das Schornsteinfeger-Handwerksgesetz vom 26. November 2008
 
 ### § 15 Wiederkehrende Überwachung
 
-(1) Der Betreiber einer Feuerungsanlage für den Einsatz der in § 3
-Absatz 1 Nummer 1 bis 8 und 13 genannten Brennstoffe mit einer
-Nennwärmeleistung von 4 Kilowatt oder mehr, ausgenommen
+(1) Der Betreiber einer Feuerungsanlage für den Einsatz der in
+§ 3 Absatz 1 Nummer 1 bis 8 und 13 genannten Brennstoffe mit
+einer Nennwärmeleistung von 4 Kilowatt oder mehr, ausgenommen
 Einzelraumfeuerungsanlagen, hat die Einhaltung der Anforderungen nach
 § 5 Absatz 1 und § 25 Absatz 1 Satz 1 ab den in diesen Vorschriften
-genannten Zeitpunkten einmal in jedem zweiten Kalenderjahr von einer
-Schornsteinfegerin oder einem Schornsteinfeger durch Messungen
+genannten Zeitpunkten einmal in jedem zweiten Kalenderjahr von
+einer Schornsteinfegerin oder einem Schornsteinfeger durch Messungen
 feststellen zu lassen. Im Rahmen der Überwachung nach Satz 1 ist die
 Einhaltung der Anforderungen an die Brennstoffe nach § 3 Absatz 3, § 4
 Absatz 1 und § 5 Absatz 2 und 3 überprüfen zu lassen.
@@ -966,20 +686,17 @@ Brennstoffe hat die Einhaltung der Anforderung nach § 3 Absatz 3 und §
 dem Bezirksschornsteinfegermeister überprüfen zu lassen.
 
 (3) Der Betreiber einer Öl- oder Gasfeuerungsanlage mit einer
-Nennwärmeleistung von 4 Kilowatt und mehr, für die in den §§ 7 bis 10
-Anforderungen festgelegt sind, hat die Einhaltung der jeweiligen
+Nennwärmeleistung von 4 Kilowatt und mehr, für die in den §§ 7 bis
+10 Anforderungen festgelegt sind, hat die Einhaltung der jeweiligen
 Anforderungen
 
 1.  einmal in jedem dritten Kalenderjahr bei Anlagen, deren Inbetriebnahme
     oder wesentliche Änderung nach § 2 Nummer 16 Buchstabe b zwölf Jahre
     und weniger zurückliegt, und
 
-
 2.  einmal in jedem zweiten Kalenderjahr bei Anlagen, deren Inbetriebnahme
     oder wesentliche Änderung nach § 2 Nummer 16 Buchstabe b mehr als
     zwölf Jahre zurückliegt,
-
-
 
 von einer Schornsteinfegerin oder einem Schornsteinfeger durch
 Messungen feststellen zu lassen. Abweichend von Satz 1 hat der
@@ -992,12 +709,8 @@ einem Schornsteinfeger durch Messungen feststellen zu lassen.
 
 1.  Feuerungsanlagen nach § 14 Absatz 3 sowie
 
-
 2.  vor dem 1. Januar 1985 errichtete Gasfeuerungsanlagen mit
     Außenwandanschluss.
-
-
-
 
 (5) § 14 Absatz 4 und 5 gilt entsprechend.
 
@@ -1007,14 +720,14 @@ einem Schornsteinfeger durch Messungen feststellen zu lassen.
 Der Bezirksschornsteinfegermeister meldet die Ergebnisse der Messungen
 nach den §§ 14 und 15 kalenderjährlich nach näherer Weisung der Innung
 für das Schornsteinfegerhandwerk dem zuständigen Landesinnungsverband.
-Die Landesinnungsverbände für das Schornsteinfegerhandwerk erstellen
-für jedes Kalenderjahr Übersichten über die Ergebnisse der Messungen
-und legen diese Übersichten im Rahmen der gesetzlichen
-Auskunftspflichten der Innungen für das Schornsteinfegerhandwerk der
-für den Immissionsschutz zuständigen obersten Landesbehörde oder der
-nach Landesrecht zuständigen Behörde bis zum 30. April des folgenden
-Jahres vor. Der zuständige Zentralinnungsverband des
-Schornsteinfegerhandwerks erstellt für jedes Kalenderjahr eine
+Die Landesinnungsverbände für das Schornsteinfegerhandwerk
+erstellen für jedes Kalenderjahr Übersichten über die Ergebnisse
+der Messungen und legen diese Übersichten im Rahmen der gesetzlichen
+Auskunftspflichten der Innungen für das Schornsteinfegerhandwerk
+der für den Immissionsschutz zuständigen obersten Landesbehörde
+oder der nach Landesrecht zuständigen Behörde bis zum 30. April
+des folgenden Jahres vor. Der zuständige Zentralinnungsverband
+des Schornsteinfegerhandwerks erstellt für jedes Kalenderjahr eine
 entsprechende länderübergreifende Übersicht und legt diese dem
 Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit bis
 zum 30. Juni des folgenden Jahres vor.
@@ -1033,8 +746,8 @@ Stellen teilen die Wahrnehmung der Eigenüberwachung der für den
 Vollzug dieser Verordnung jeweils örtlich zuständigen Landesbehörde
 und dem Bezirksschornsteinfegermeister mit.
 
-(2) Die in Absatz 1 genannten Stellen richten die Bescheinigungen nach
-§ 14 Absatz 4 sowie die Informationen nach § 16 Satz 1 an die
+(2) Die in Absatz 1 genannten Stellen richten die Bescheinigungen
+nach § 14 Absatz 4 sowie die Informationen nach § 16 Satz 1 an die
 zuständige Verwaltung. Anstelle des Kehrbuchs führt sie vergleichbare
 Aufzeichnungen.
 
@@ -1049,7 +762,6 @@ nach § 16 Satz 2 und 3 mit.
 ### § 18 (weggefallen)
 
 
-
 ## Abschnitt 5 - Gemeinsame Vorschriften
 
 
@@ -1061,60 +773,48 @@ die Austrittsöffnung des Schornsteins
 
 1.  firstnah angeordnet ist und
 
-
 2.  den First um mindestens 40 Zentimeter überragt.
-
-
 
 Firstnah angeordnet ist die Austrittsöffnung eines Schornsteins, wenn
 
 1.  ihr horizontaler Abstand vom First kleiner ist als ihr horizontaler
     Abstand von der Traufe und
 
-
 2.  ihr vertikaler Abstand vom First größer ist als ihr horizontaler
     Abstand vom First.
 
-
-
-Bei einer Dachneigung von weniger als 20 Grad ist die Höhe der
-Austrittsöffnung gemäß Satz 1 Nummer 2 auf einen fiktiven Dachfirst zu
-beziehen, dessen Höhe unter Zugrundelegung einer Dachneigung von 20
-Grad zu berechnen ist. Von den Anforderungen nach den Sätzen 1 bis 3
-darf nur abgewichen werden, wenn die Höhe der Austrittsöffnung für das
-Einzelgebäude nach Abschnitt 6.2.1 der Richtlinie VDI 3781 Blatt 4
-(Ausgabe Juli 2017) bestimmt worden ist. Der Schornstein ist so
-auszuführen, dass die Austrittsöffnung des Schornsteins bei einer
+Bei einer Dachneigung von weniger als 20 Grad ist die Höhe der
+Austrittsöffnung gemäß Satz 1 Nummer 2 auf einen fiktiven Dachfirst
+zu beziehen, dessen Höhe unter Zugrundelegung einer Dachneigung von
+20 Grad zu berechnen ist. Von den Anforderungen nach den Sätzen 1
+bis 3 darf nur abgewichen werden, wenn die Höhe der Austrittsöffnung
+für das Einzelgebäude nach Abschnitt 6.2.1 der Richtlinie VDI 3781
+Blatt 4 (Ausgabe Juli 2017) bestimmt worden ist. Der Schornstein ist
+so auszuführen, dass die Austrittsöffnung des Schornsteins bei einer
 Gesamtwärmeleistung der Feuerungsanlage
 
-1.  bis 50 Kilowatt in einem Umkreis von 15 Metern die Oberkanten der
+1.  bis 50 Kilowatt in einem Umkreis von 15 Metern die Oberkanten der
     Lüftungsöffnungen, Fenster und Türen um mindestens 1 Meter überragt,
 
-
-2.  von mehr als 50 bis 100 Kilowatt in einem Umkreis von 17 Metern die
+2.  von mehr als 50 bis 100 Kilowatt in einem Umkreis von 17 Metern die
     Oberkanten der Lüftungsöffnungen, Fenster und Türen um mindestens 2
     Meter überragt,
 
-
-3.  von mehr als 100 bis 150 Kilowatt in einem Umkreis von 19 Metern die
+3.  von mehr als 100 bis 150 Kilowatt in einem Umkreis von 19 Metern die
     Oberkanten der Lüftungsöffnungen, Fenster und Türen um mindestens 3
     Meter überragt,
 
-
-4.  von mehr als 150 bis 200 Kilowatt in einem Umkreis von 21 Metern die
+4.  von mehr als 150 bis 200 Kilowatt in einem Umkreis von 21 Metern die
     Oberkanten der Lüftungsöffnungen, Fenster und Türen um mindestens 3
     Meter überragt oder
 
-
-5.  von mehr als 200 Kilowatt die Oberkanten der Lüftungsöffnungen,
+5.  von mehr als 200 Kilowatt die Oberkanten der Lüftungsöffnungen,
     Fenster und Türen in demjenigen Umkreis um diejenigen Mindesthöhen
     überragt, die in Tabelle 3 auf Seite 32 der Richtlinie VDI 3781 Blatt
     4 (Ausgabe Juli 2017) vorgegeben sind.
 
-
-
-Können mit der Ausführung des Schornsteins nach den Sätzen 1 bis 5
-schädliche Umwelteinwirkungen nicht verhindert werden, muss der
+Können mit der Ausführung des Schornsteins nach den Sätzen 1 bis
+5 schädliche Umwelteinwirkungen nicht verhindert werden, muss der
 Schornstein gemäß der Richtlinie VDI 3781 Blatt 4 (Ausgabe Juli 2017)
 unter Berücksichtigung der vorgelagerten Bebauung und der Hanglage
 ausgeführt werden. Bei der Errichtung von Feuerungsanlagen für feste
@@ -1130,28 +830,21 @@ muss
 
 1.  bei Dachneigungen
 
-    a)  bis einschließlich 20 Grad den First um mindestens 40 Zentimeter
-        überragen oder von der Dachfläche mindestens 1 Meter entfernt sein,
+    a)  bis einschließlich 20 Grad den First um mindestens 40 Zentimeter
+        überragen oder von der Dachfläche mindestens 1 Meter entfernt sein,
 
+    b)  von mehr als 20 Grad den First um mindestens 40 Zentimeter überragen
+        oder einen horizontalen Abstand von der Dachfläche von mindestens 2
+        Meter und 30 Zentimeter haben;
 
-    b)  von mehr als 20 Grad den First um mindestens 40 Zentimeter überragen
-        oder einen horizontalen Abstand von der Dachfläche von mindestens
-        2 Meter und 30 Zentimeter haben;
-
-
-
-
-
-2.  bei Feuerungsanlagen mit einer Gesamtwärmeleistung bis 50 Kilowatt in
-    einem Umkreis von 15 Metern die Oberkanten von Lüftungsöffnungen,
+2.  bei Feuerungsanlagen mit einer Gesamtwärmeleistung bis 50 Kilowatt
+    in einem Umkreis von 15 Metern die Oberkanten von Lüftungsöffnungen,
     Fenstern oder Türen um mindestens 1 Meter überragen; der Umkreis
-    vergrößert sich um 2 Meter je weitere angefangene 50 Kilowatt bis auf
-    höchstens 40 Meter.
-
-
+    vergrößert sich um 2 Meter je weitere angefangene 50 Kilowatt bis auf
+    höchstens 40 Meter.
 
 Satz 1 gilt für den Austausch der Feuerstätte entsprechend. Die
-Übergangsvorschriften der §§ 25 und 26 bleiben unberührt.Die
+Übergangsvorschriften der §§ 25 und 26 bleiben unberührt.Die
 Anforderungen des Satzes 1 gelten entsprechend, wenn eine
 Feuerungsanlage für flüssige oder gasförmige Brennstoffe, die vor dem
 1\. Januar 2022 errichtet und in Betrieb genommen wurde und ab dem 1.
@@ -1161,10 +854,10 @@ wird.
 
 ### § 20 Anzeige und Nachweise
 
-Der Betreiber einer Feuerungsanlage hat dafür Sorge zu tragen, dass
-die Nachweise über die Durchführung aller von einer Schornsteinfegerin
-oder einem Schornsteinfeger durchzuführenden Tätigkeiten an den
-Bezirksschornsteinfegermeister gesendet werden. Der
+Der Betreiber einer Feuerungsanlage hat dafür Sorge zu tragen,
+dass die Nachweise über die Durchführung aller von einer
+Schornsteinfegerin oder einem Schornsteinfeger durchzuführenden
+Tätigkeiten an den Bezirksschornsteinfegermeister gesendet werden. Der
 Bezirksschornsteinfegermeister hat die durchgeführten Arbeiten in das
 Kehrbuch einzutragen.
 
@@ -1180,16 +873,16 @@ zu treffen, bleibt unberührt.
 
 Die zuständige Behörde kann auf Antrag Ausnahmen von den Anforderungen
 der §§ 3 bis 10, 19, 25 und 26 zulassen, soweit diese im Einzelfall
-wegen besonderer Umstände durch einen unangemessenen Aufwand oder in
-sonstiger Weise zu einer unbilligen Härte führen und schädliche
+wegen besonderer Umstände durch einen unangemessenen Aufwand oder
+in sonstiger Weise zu einer unbilligen Härte führen und schädliche
 Umwelteinwirkungen nicht zu befürchten sind.
 
 
 ### § 23 Zugänglichkeit der Normen
 
 DIN-, DIN EN-Normen sowie die VDI-Richtlinien, auf die in dieser
-Verordnung verwiesen wird, sind bei der Beuth Verlag GmbH, Berlin,
-erschienen. Das in § 3 Absatz 1 Nummer 5a genannte
+Verordnung verwiesen wird, sind bei der Beuth Verlag GmbH,
+Berlin, erschienen. Das in § 3 Absatz 1 Nummer 5a genannte
 Zertifizierungsprogramm für Holzpellets kann bei DIN CERTCO,
 Gesellschaft für Konformitätsbewertung mbH, Alboinstraße 56, 12103
 Berlin, bezogen werden. Die DIN-, DIN EN-Normen, die VDI-Richtlinien
@@ -1205,29 +898,22 @@ Immissionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 1.  entgegen § 3 Absatz 1 andere als die dort aufgeführten Brennstoffe
     einsetzt,
 
-
 2.  entgegen § 4 Absatz 1 Satz 2, Absatz 3 oder Absatz 7 eine
     Feuerungsanlage betreibt,
-
 
 3.  entgegen § 5 Absatz 1, § 7, § 8 oder § 9 Absatz 2 eine Feuerungsanlage
     nicht richtig errichtet oder nicht richtig betreibt,
 
-
 4.  entgegen § 5 Absatz 2 oder Absatz 3 Brennstoffe in anderen als den
     dort bezeichneten Feuerungsanlagen oder Betrieben einsetzt,
-
 
 5.  entgegen § 6 Absatz 2 einen Heizkessel in einer Feuerungsanlage
     einsetzt,
 
-
 6.  (weggefallen)
-
 
 7.  entgegen § 12 Satz 3 die Herstellung einer Messöffnung nicht
     gestattet,
-
 
 8.  entgegen § 14 Absatz 2, § 15 Absatz 1, 2 oder Absatz 3 oder § 25
     Absatz 4 Satz 1 oder Satz 2 die Einhaltung einer dort genannten
@@ -1235,38 +921,26 @@ Immissionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
     nicht rechtzeitig überprüfen lässt oder nicht oder nicht rechtzeitig
     überwachen lässt,
 
-
 9.  (weggefallen)
-
 
 10. (weggefallen)
 
-
 11. (weggefallen)
-
 
 12. (weggefallen)
 
-
 13. (weggefallen)
 
-
 14. (weggefallen)
-
 
 15. entgegen § 20 Satz 1 nicht dafür Sorge trägt, dass ein dort genannter
     Nachweis gesendet wird,
 
-
 16. entgegen § 25 Absatz 1 Satz 1 oder § 26 Absatz 1 Satz 1 eine
     Feuerungsanlage weiterbetreibt oder
 
-
 17. entgegen § 25 Absatz 4 Satz 1 die Einhaltung einer dort genannten
     Anforderung nicht oder nicht rechtzeitig überwachen lässt.
-
-
-
 
 
 ## Abschnitt 6 - Übergangsregelungen
@@ -1280,41 +954,19 @@ weiterbetrieben werden, wenn die Grenzwerte der Stufe 1 des § 5 Absatz
 1 Satz 1 in Abhängigkeit vom Zeitpunkt ihrer Errichtung ab folgenden
 Zeitpunkten eingehalten werden:
 
-*    *   Zeitpunkt der Errichtung
-
-    *   Zeitpunkt der Einhaltung
-        der Grenzwerte der
-        Stufe 1 des § 5 Absatz 1
-
-
-*    *   bis einschließlich
-        31\. Dezember 1994
-
-    *   1. Januar 2015
-
-
-*    *   vom 1. Januar 1995
-        bis einschließlich
-        31\. Dezember 2004
-
-    *   1. Januar 2019
-
-
-*    *   vom 1. Januar 2005
-        bis einschließlich
-        21\. März 2010
-
-    *   1. Januar 2025
-
-
+| Zeitpunkt der Errichtung | Zeitpunkt der Einhaltung der Grenzwerte der Stufe 1 des § 5 Absatz 1 |
+| --- | --- |
+| bis einschließlich 31. Dezember 1994 | 1. Januar 2015 |
+| vom 1. Januar 1995 bis einschließlich  31. Dezember 2004 | 1. Januar 2019 |
+| vom 1. Januar 2005 bis einschließlich  21. März 2010 | 1. Januar 2025 |
 
 .
-Die Feststellung des Zeitpunktes, ab wann die Anlagen die Grenzwerte
-nach Satz 1 einhalten müssen, erfolgt spätestens bis zum 31. Dezember
-2012 durch den Bezirksschornsteinfegermeister im Rahmen der
-Feuerstättenschau. Sofern bis zum 31. Dezember 2012 keine
-Feuerstättenschau durchgeführt wird, kann die Feststellung des
-Zeitpunktes der Errichtung auch im Zusammenhang mit anderen
+Die Feststellung des Zeitpunktes, ab wann die Anlagen die
+Grenzwerte nach Satz 1 einhalten müssen, erfolgt spätestens bis
+zum 31. Dezember 2012 durch den Bezirksschornsteinfegermeister
+im Rahmen der Feuerstättenschau. Sofern bis zum 31. Dezember 2012
+keine Feuerstättenschau durchgeführt wird, kann die Feststellung
+des Zeitpunktes der Errichtung auch im Zusammenhang mit anderen
 Schornsteinfegerarbeiten erfolgen.
 
 (2) Vom 22. März 2010 bis zu den in Absatz 1 Satz 1 genannten
@@ -1324,138 +976,31 @@ ausgenommen Einzelraumfeuerungsanlagen, in Abhängigkeit von den
 eingesetzten Brennstoffen folgende Grenzwerte, die nach Anlage 2 zu
 ermitteln sind:
 
-*    *   Brennstoff nach
-        § 3 Absatz 1
-        Nennwärme-
-        leistung in kW
+| Brennstoff nach § 3 Absatz 1 Nennwärme-  leistung in kW | Nummer 1 bis 3a | Nummer 4 bis 5a |  |
+| --- | --- | --- | --- |
+| Staub [g/m3] | Staub [g/m3] | CO [g/m3] |  |
+| > 15 ≤ 50 | 0,15 | 0,15 | 4 |
+| > 50 ≤ 150 | 0,15 | 0,15 | 2 |
+| > 150 ≤ 500 | 0,15 | 0,15 | 1 |
+| > 500 | 0,15 | 0,15 | 0,5 |
 
-    *   Nummer
-        1 bis 3a
+| Brennstoff nach § 3 Absatz 1 Nennwärme-  leistung in kW | Nummer 6 und 7 |  |
+| --- | --- | --- |
+| Staub [g/m3] | CO [g/m3] |  |
+| > 50 ≤ 100 | 0,15 | 0,8 |
+| > 100 ≤ 500 | 0,15 | 0,5 |
+| > 500 | 0,15 | 0,3 |
 
-    *   Nummer 4 bis 5a
-
-
-*    *   Staub
-        [g/m
-        3                       ]
-
-    *   Staub
-        [g/m
-        3                       ]
-
-    *   CO
-        [g/m
-        3                       ]
-
-
-*    *   *                         15*                         50
-
-    *   0,15
-
-    *   0,15
-
-    *   4
-
-
-*    *   *                         50*                        150
-
-    *   0,15
-
-    *   0,15
-
-    *   2
-
-
-*    *   *                        150*                        500
-
-    *   0,15
-
-    *   0,15
-
-    *   1
-
-
-*    *   *                        500
-
-    *   0,15
-
-    *   0,15
-
-    *   0,5
-
-
-
-
-*    *   Brennstoff nach
-        § 3 Absatz 1
-        Nennwärme-
-        leistung in kW
-
-    *   Nummer 6 und 7
-
-
-*    *   Staub
-        [g/m
-        3                       ]
-
-    *   CO
-        [g/m
-        3                       ]
-
-
-*    *   *                         50*                        100
-
-    *   0,15
-
-    *   0,8
-
-
-*    *   *                        100*                        500
-
-    *   0,15
-
-    *   0,5
-
-
-*    *   *                        500
-
-    *   0,15
-
-    *   0,3
-
-
-
-
-*    *   Brennstoff nach
-        § 3 Absatz 1
-        Nennwärme-
-        leistung in kW
-
-    *   Nummer 8
-
-
-*    *   Staub
-        [g/m
-        3                       ]
-
-    *   CO
-        [g/m
-        3                       ]
-
-
-*    *   *                        15*                        100
-
-    *   0,15
-
-    *   4
-
-
+| Brennstoff nach § 3 Absatz 1 Nennwärme-  leistung in kW | Nummer 8 |  |
+| --- | --- | --- |
+| Staub [g/m3] | CO [g/m3] |  |
+| > 15 ≤ 100 | 0,15 | 4 |
 
 .
-Abweichend von § 4 Absatz 2 beziehen sich bis zu den in Absatz 1 Satz
-1 genannten Zeitpunkten die Emissionsbegrenzungen bei den Brennstoffen
-nach § 3 Absatz 1 Nummer 1 bis 3a auf einen Volumengehalt an
-Sauerstoff im Abgas von 8 Prozent. Bei handbeschickten
+Abweichend von § 4 Absatz 2 beziehen sich bis zu den in Absatz
+1 Satz 1 genannten Zeitpunkten die Emissionsbegrenzungen bei den
+Brennstoffen nach § 3 Absatz 1 Nummer 1 bis 3a auf einen Volumengehalt
+an Sauerstoff im Abgas von 8 Prozent. Bei handbeschickten
 Feuerungsanlagen ohne Pufferspeicher sind bei Einsatz der in § 3
 Absatz 1 Nummer 4 bis 8 genannten Brennstoffe die Anforderungen bei
 gedrosselter Verbrennungsluftzufuhr einzuhalten.
@@ -1471,20 +1016,20 @@ Brennstoffe, für die in Absatz 2 Anforderungen festgelegt sind, hat
 die Einhaltung der Anforderungen bis einschließlich 31. Dezember 2011
 und anschließend alle zwei Jahre von einer Schornsteinfegerin oder
 einem Schornsteinfeger überwachen zu lassen. Im Rahmen der Überwachung
-nach Satz 1 ist die Einhaltung der Anforderungen nach § 3 Absatz 3, §
-4 Absatz 1 und § 5 Absatz 2 und 3 Satz 1 überprüfen zu lassen. § 14
+nach Satz 1 ist die Einhaltung der Anforderungen nach § 3 Absatz 3,
+§ 4 Absatz 1 und § 5 Absatz 2 und 3 Satz 1 überprüfen zu lassen. § 14
 Absatz 3 und 5 gilt entsprechend.
 
 (5) Der Betreiber einer bestehenden handbeschickten Feuerungsanlage
-für feste Brennstoffe muss sich bis einschließlich 31. Dezember 2014
-nach § 4 Absatz 8 von einer Schornsteinfegerin oder einem
+für feste Brennstoffe muss sich bis einschließlich 31. Dezember
+2014 nach § 4 Absatz 8 von einer Schornsteinfegerin oder einem
 Schornsteinfeger beraten lassen.
 
 (6) Der Betreiber einer ab dem 22. März 2010 errichteten oder
 wesentlich geänderten Feuerungsanlage für feste Brennstoffe hat die
-Überwachung nach § 14 Absatz 2 auf die Einhaltung der in § 5 Absatz 1
-genannten Anforderungen für Anlagen mit einer Nennwärmeleistung bis zu
-15 Kilowatt, die mit den in § 3 Absatz 1 Nummer 1 bis 8 und 13
+Überwachung nach § 14 Absatz 2 auf die Einhaltung der in § 5 Absatz
+1 genannten Anforderungen für Anlagen mit einer Nennwärmeleistung
+bis zu 15 Kilowatt, die mit den in § 3 Absatz 1 Nummer 1 bis 8 und 13
 genannten Brennstoffen betrieben werden, erst sechs Monate nach der
 Bekanntgabe einer geeigneten Messeinrichtung im Sinne des § 13 Absatz
 2 überprüfen zu lassen. § 14 Absatz 2 bleibt im Übrigen unberührt.
@@ -1497,12 +1042,9 @@ Absätzen 1 und 2 sowie § 5 Absatz 1 mit Ausnahme von
     Absatz 1 Nummer 1 bis 5a, 8 oder Nummer 13 genannten Brennstoffe mit
     einer Nennwärmeleistung über 15 Kilowatt und
 
-
 2.  Feuerungsanlagen für den Einsatz der in § 3 Absatz 1 Nummer 6 oder
     Nummer 7 genannten festen Brennstoffe mit einer Nennwärmeleistung über
     50 Kilowatt
-
-
 
 erst sechs Monate nach der Bekanntgabe einer geeigneten
 Messeinrichtung im Sinne des § 13 Absatz 2 überprüfen zu lassen. § 15
@@ -1511,71 +1053,38 @@ Absatz 1 Satz 2 bleibt unberührt.
 
 ### § 26 Übergangsregelung für Einzelraumfeuerungsanlagen für feste Brennstoffe
 
-(1) Einzelraumfeuerungsanlagen für feste Brennstoffe, die vor dem 22.
-März 2010 errichtet und in Betrieb genommen wurden, dürfen nur
-weiterbetrieben werden, wenn nachfolgende Grenzwerte nicht
+(1) Einzelraumfeuerungsanlagen für feste Brennstoffe, die vor dem
+22\. März 2010 errichtet und in Betrieb genommen wurden, dürfen
+nur weiterbetrieben werden, wenn nachfolgende Grenzwerte nicht
 überschritten werden:
 
 1.  Staub: 0,15 Gramm je Kubikmeter,
 
-
 2.  Kohlenmonoxid: 4 Gramm je Kubikmeter.
-
-
 
 Der Nachweis der Einhaltung der Grenzwerte kann
 
 1.  durch Vorlage einer Prüfstandsmessbescheinigung des Herstellers oder
 
-
-2.  durch eine Messung unter entsprechender Anwendung der Bestimmungen der
-    Anlage 4 Nummer 3 durch eine Schornsteinfegerin oder einen
+2.  durch eine Messung unter entsprechender Anwendung der Bestimmungen
+    der Anlage 4 Nummer 3 durch eine Schornsteinfegerin oder einen
     Schornsteinfeger
-
-
 
 geführt werden.
 
 (2) Kann ein Nachweis über die Einhaltung der Grenzwerte bis
-einschließlich 31. Dezember 2013 nicht geführt werden, sind bestehende
-Einzelraumfeuerungsanlagen in Abhängigkeit des Datums auf dem
-Typschild zu folgenden Zeitpunkten mit einer Einrichtung zur
-Reduzierung der Staubemissionen nach dem Stand der Technik
+einschließlich 31. Dezember 2013 nicht geführt werden, sind
+bestehende Einzelraumfeuerungsanlagen in Abhängigkeit des Datums
+auf dem Typschild zu folgenden Zeitpunkten mit einer Einrichtung
+zur Reduzierung der Staubemissionen nach dem Stand der Technik
 nachzurüsten oder außer Betrieb zu nehmen:
 
-*    *   Datum auf dem Typschild
-
-    *   Zeitpunkt der
-        Nachrüstung oder
-        Außerbetriebnahme
-
-
-*    *   bis einschließlich
-        31\. Dezember 1974
-        oder Datum nicht mehr feststellbar
-
-    *   31. Dezember 2014
-
-
-*    *   1. Januar 1975 bis
-        31\. Dezember 1984
-
-    *   31. Dezember 2017
-
-
-*    *   1. Januar 1985 bis
-        31\. Dezember 1994
-
-    *   31. Dezember 2020
-
-
-*    *   1. Januar 1995 bis
-        einschließlich
-        21\. März 2010
-
-    *   31. Dezember 2024
-
-
+| Datum auf dem Typschild | Zeitpunkt der Nachrüstung oder Außerbetriebnahme |
+| --- | --- |
+| bis einschließlich 31. Dezember 1974  oder Datum nicht mehr feststellbar | 31. Dezember 2014 |
+| 1. Januar 1975 bis 31. Dezember 1984 | 31. Dezember 2017 |
+| 1. Januar 1985 bis 31. Dezember 1994 | 31. Dezember 2020 |
+| 1. Januar 1995 bis einschließlich  21. März 2010 | 31. Dezember 2024 |
 
 .
 § 4 Absatz 6 gilt entsprechend.
@@ -1585,39 +1094,32 @@ nachzurüsten oder außer Betrieb zu nehmen:
 1.  nichtgewerblich genutzte Herde und Backöfen mit einer
     Nennwärmeleistung unter 15 Kilowatt,
 
-
 2.  offene Kamine nach § 2 Nummer 12,
-
 
 3.  Grundöfen nach § 2 Nummer 13,
 
-
 4.  Einzelraumfeuerungsanlagen in Wohneinheiten, deren Wärmeversorgung
     ausschließlich über diese Anlagen erfolgt, sowie
-
 
 5.  Einzelraumfeuerungsanlagen, bei denen der Betreiber gegenüber dem
     Bezirksschornsteinfegermeister glaubhaft machen kann, dass sie vor dem
     1\. Januar 1950 hergestellt oder errichtet wurden.
 
-
-
-
-(4) Absatz 2 gilt nicht für Kamineinsätze, Kachelofeneinsätze oder
-vergleichbare Ofeneinsätze, die eingemauert sind. Diese sind
+(4) Absatz 2 gilt nicht für Kamineinsätze, Kachelofeneinsätze
+oder vergleichbare Ofeneinsätze, die eingemauert sind. Diese sind
 spätestens bis zu den in Absatz 2 Satz 1 genannten Zeitpunkten mit
 nachgeschalteten Einrichtungen zur Minderung der Staubemission nach
 dem Stand der Technik auszustatten. § 4 Absatz 6 gilt entsprechend.
 
-(5) Der Betreiber einer bestehenden Einzelraumfeuerungsanlage hat bis
-einschließlich 31. Dezember 2012 das Datum auf dem Typschild der
-Anlage vom Bezirksschornsteinfegermeister im Rahmen der
-Feuerstättenschau feststellen zu lassen. Sofern bis einschließlich 31.
-Dezember 2012 keine Feuerstättenschau durchgeführt wird, kann die
-Feststellung des Datums auf dem Typschild auch im Zusammenhang mit
-anderen Schornsteinfegerarbeiten erfolgen. Nachweise nach Absatz 1
-Satz 2 müssen bis spätestens 31. Dezember 2012 dem
-Bezirksschornsteinfegermeister vorgelegt werden. Der
+(5) Der Betreiber einer bestehenden Einzelraumfeuerungsanlage hat
+bis einschließlich 31. Dezember 2012 das Datum auf dem Typschild
+der Anlage vom Bezirksschornsteinfegermeister im Rahmen der
+Feuerstättenschau feststellen zu lassen. Sofern bis einschließlich
+31\. Dezember 2012 keine Feuerstättenschau durchgeführt wird,
+kann die Feststellung des Datums auf dem Typschild auch im
+Zusammenhang mit anderen Schornsteinfegerarbeiten erfolgen.
+Nachweise nach Absatz 1 Satz 2 müssen bis spätestens 31. Dezember
+2012 dem Bezirksschornsteinfegermeister vorgelegt werden. Der
 Bezirksschornsteinfegermeister hat im Rahmen der Feuerstättenschau
 oder im Zusammenhang mit anderen Schornsteinfegerarbeiten spätestens
 zwei Jahre vor dem Zeitpunkt der Nachrüstung oder Außerbetriebnahme
@@ -1658,9 +1160,8 @@ zuletzt durch Artikel 4 der Verordnung vom 14. August 2003 (BGBl I
 
 Der Bundesrat hat zugestimmt.
 
-(zu § 12)
 
-### Anlage 1 Messöffnung
+### Anlage 1 (zu § 12)Messöffnung
 
 (Fundstelle: BGBl. I 2010, 50)
 
@@ -1673,28 +1174,20 @@ Der Bundesrat hat zugestimmt.
     entspricht, hinter dem Abgasstutzen des Wärmetauschers oder der
     Abgasreinigungseinrichtung angebracht sein.
 
-
 2.  Eine Messöffnung an anderer Stelle als nach Nummer 1 ist zulässig,
     wenn reproduzierbare Strömungsverhältnisse vorherrschen und keine
     größeren Wärmeverluste in der Einlaufstrecke auftreten als nach Nummer
     1\.
 
-
 3.  An der Messöffnung dürfen keine Staub- oder Rußablagerungen vorhanden
     sein, die die Messungen wesentlich beeinträchtigen können.
 
 
-
-
-(zu § 5 Absatz 1, §§ 7, 8, 10, 14 Absatz 4, § 15 Absatz 5, § 25 Absatz
-2)
-
-### Anlage 2 Anforderungen an die Durchführung der Messungen im Betrieb
+### Anlage 2 (zu § 5 Absatz 1, §§ 7, 8, 10, 14 Absatz 4, § 15 Absatz 5, § 25 Absatz 2)Anforderungen an die Durchführung der Messungen im Betrieb
 
 (Fundstelle: BGBl. I 2010, 51 - 53)
 
-
-**1.** **Allgemeine Anforderungen**
+1.  **Allgemeine Anforderungen**
 
     **Messung des Feuchtegehaltes**
 
@@ -1709,18 +1202,15 @@ Der Bundesrat hat zugestimmt.
         durchzuführen. Besitzt eine Feuerungsanlage mehrere Messöffnungen,
         sind die Messungen an jeder Messöffnung durchzuführen.
 
-
     1.2 Vor den Messungen ist die Funktionsfähigkeit der Messgeräte zu
         überprüfen. Die in den Betriebsanleitungen enthaltenen Anweisungen der
         Hersteller sind zu beachten.
 
-
     1.3 Die Messungen sind im ungestörten Dauerbetriebszustand der
-        Feuerungsanlagen bei Nennwärmeleistung, ersatzweise bei der höchsten
-        einstellbaren Wärmeleistung, so durchzuführen, dass die Ergebnisse
-        repräsentativ und bei vergleichbaren Feuerungsanlagen und
+        Feuerungsanlagen bei Nennwärmeleistung, ersatzweise bei der
+        höchsten einstellbaren Wärmeleistung, so durchzuführen, dass die
+        Ergebnisse repräsentativ und bei vergleichbaren Feuerungsanlagen und
         Betriebsbedingungen miteinander vergleichbar sind.
-
 
     1.4 Zur Beurteilung des Betriebszustandes sind die Druckdifferenz zwischen
         Abgas und Umgebungsluft sowie die Temperatur des Abgases zu messen.
@@ -1730,15 +1220,10 @@ Der Bundesrat hat zugestimmt.
         Feuerungsanlagen mit mehrstufigen oder stufenlos geregelten Brennern
         ist die bei der Messung eingestellte Leistung zu erfassen.
 
-
     1.5 Das Messprogramm ist immer vollständig durchzuführen. Es soll nicht
         abgebrochen werden, wenn eine einzelne Messung negativ ausfällt.
 
-
-
-
-
-**2.** **Messungen an Feuerungsanlagen für feste Brennstoffe**
+2.  **Messungen an Feuerungsanlagen für feste Brennstoffe**
 
     2.1 Zur Erfüllung der Anforderungen nach Nummer 1.3 sind die Messungen bei
         einer Kesseltemperatur von mindestens 60 Grad Celsius durchzuführen.
@@ -1747,56 +1232,22 @@ Der Bundesrat hat zugestimmt.
         Bedienungsanleitung genannte Brennstoffmenge auf eine für die
         Entzündung ausreichende Glutschicht aufgegeben wurde, begonnen werden.
 
-
-    2.2 Die Emissionen sind jeweils zeitgleich mit dem Sauerstoffgehalt im
-        Abgas als Viertelstundenmittelwert zu ermitteln. Die Emissionen sind
-        mit einer eignungsgeprüften Messeinrichtung zu bestimmen. Die
+    2.2 Die Emissionen sind jeweils zeitgleich mit dem Sauerstoffgehalt
+        im Abgas als Viertelstundenmittelwert zu ermitteln. Die Emissionen
+        sind mit einer eignungsgeprüften Messeinrichtung zu bestimmen. Die
         gemessenen Emissionen sind nach der Beziehung
 
-        *            *   E
-                B                                    =
-
-            *   21 – O
-                2B
-
-            *   xE
-                M
-
-
-        *            *   21 – O
-                2
-
-
-
+        | EB = | 21 – O2B | xEM |
+        | --- | --- | --- |
+        | 21 – O2 |  |  |
 
         auf den Bezugssauerstoffgehalt umzurechnen. Es bedeuten:
 
-        *            *   E
-                B                                    =
-
-            *   Emissionen, bezogen auf den Bezugssauerstoffgehalt
-
-
-        *            *   E
-                M                                    =
-
-            *   gemessene Emissionen
-
-
-        *            *   O
-                2B                                    =
-
-            *   Bezugssauerstoffgehalt in Volumenprozent
-
-
-        *            *   O
-                2                                    =
-
-            *   Volumengehalt an Sauerstoff im trockenen Abgas.
-
-
-
-
+        | EB = | Emissionen, bezogen auf den Bezugssauerstoffgehalt |
+        | --- | --- |
+        | EM = | gemessene Emissionen |
+        | O2B = | Bezugssauerstoffgehalt in Volumenprozent |
+        | O2 = | Volumengehalt an Sauerstoff im trockenen Abgas. |
 
     2.3 Das Ergebnis der Messungen ist nach Umrechnung auf den Normzustand und
         den Bezugssauerstoffgehalt des Abgases mit einer Dezimalstelle mehr
@@ -1805,33 +1256,23 @@ Der Bundesrat hat zugestimmt.
         runden. Der Emissionsgrenzwert ist eingehalten, wenn ihn der gemessene
         Wert abzüglich der Messunsicherheit nicht überschreitet.
 
-
     2.4 Bei Messungen im Teillastbereich nach § 25 Absatz 2 ist wie folgt
         vorzugehen:
 
         2.4.1 Bei Feuerungsanlagen ohne Verbrennungsluftgebläse ist in den ersten
-            fünf Minuten bei geöffneter und in den restlichen zehn Minuten bei
-            geschlossener Verbrennungsluftklappe zu messen.
+              fünf Minuten bei geöffneter und in den restlichen zehn Minuten bei
+              geschlossener Verbrennungsluftklappe zu messen.
 
-
-        2.4.2 Bei Feuerungsanlagen mit ungeregeltem Verbrennungsluftgebläse
-            (Ein/Aus-Regelung) ist fünf Minuten bei laufendem und zehn Minuten bei
-            abgeschaltetem Gebläse zu messen.
-
+        2.4.2 Bei Feuerungsanlagen mit ungeregeltem Verbrennungsluftgebläse (Ein/
+              Aus-Regelung) ist fünf Minuten bei laufendem und zehn Minuten bei
+              abgeschaltetem Gebläse zu messen.
 
         2.4.3 Bei Feuerungsanlagen mit geregeltem Verbrennungsluftgebläse
-            (Drehzahlregelung, Stufenregelung, Luftmengenregelung mittels
-            Drosselscheibe, -blende oder -klappe u. Ä.) ist 15 Minuten lang mit
-            verminderter Verbrennungsluftzufuhr zu messen.
+              (Drehzahlregelung, Stufenregelung, Luftmengenregelung mittels
+              Drosselscheibe, -blende oder -klappe u. Ä.) ist 15 Minuten lang mit
+              verminderter Verbrennungsluftzufuhr zu messen.
 
-
-
-
-
-
-
-
-**3.** **Messungen an Öl- und Gasfeuerungsanlagen**
+3.  **Messungen an Öl- und Gasfeuerungsanlagen**
 
     3.1 Zur Erfüllung der Anforderungen nach Nummer 1.3 soll bei
         Ölfeuerungsanlagen mit Zerstäubungsbrenner und bei Gasfeuerungsanlagen
@@ -1839,147 +1280,69 @@ Der Bundesrat hat zugestimmt.
         Ölfeuerungsanlagen mit Verdampfungsbrenner frühestens zwei Minuten
         nach dem Einstellen der Nennwärmeleistung mit den Messungen begonnen
         werden. Bei Warmwasserheizungsanlagen soll die Kesselwassertemperatur
-        bei Beginn der Messungen wenigstens 60 Grad Celsius betragen. Dies
-        gilt nicht für Warmwasserheizungsanlagen, deren Kessel
+        bei Beginn der Messungen wenigstens 60 Grad Celsius betragen.
+        Dies gilt nicht für Warmwasserheizungsanlagen, deren Kessel
         bestimmungsgemäß bei Temperaturen unter 60 Grad Celsius betrieben
         werden (Brennwertgeräte, Niedertemperaturkessel mit gleitender
         Regelung).
 
-
-    3.2 Die Bestimmung der Rußzahl ist nach dem Verfahren der DIN 51402, Teil
-        1, Ausgabe Oktober 1986, visuell durchzuführen. Es sind drei
-        Einzelmessungen vorzunehmen. Eine weitere Einzelmessung ist jeweils
-        durchzuführen, wenn das beaufschlagte Filterpapier durch
+    3.2 Die Bestimmung der Rußzahl ist nach dem Verfahren der DIN 51402,
+        Teil 1, Ausgabe Oktober 1986, visuell durchzuführen. Es sind
+        drei Einzelmessungen vorzunehmen. Eine weitere Einzelmessung ist
+        jeweils durchzuführen, wenn das beaufschlagte Filterpapier durch
         Kondensatbildung merklich feucht wurde oder einen ungleichmäßigen
         Schwärzungsgrad aufweist. Aus den Einzelmessungen ist das
         arithmetische Mittel zu bilden. Das auf die nächste ganze Zahl
         gerundete Ergebnis entspricht dieser Verordnung, wenn die festgelegte
         Rußzahl nicht überschritten wird.
 
-
     3.3 Die Prüfung des Abgases auf das Vorhandensein von Ölderivaten ist
         anhand der bei der Rußzahlbestimmung beaufschlagten Filterpapiere
         vorzunehmen. Die beaufschlagten Filterpapiere sind jeweils zunächst
         mit bloßem Auge auf Ölderivate zu untersuchen. Wird dabei eine
-        Verfärbung festgestellt, ist der Filter für die Rußzahlbestimmung zu
-        verwerfen. Ist eine eindeutige Entscheidung nicht möglich, muss nach
-        der Rußzahlbestimmung ein Fließmitteltest nach DIN 51402, Teil 2,
-        Ausgabe März 1979, durchgeführt werden. Die Anforderungen dieser
-        Verordnung sind erfüllt, wenn an keiner der drei Filterproben
+        Verfärbung festgestellt, ist der Filter für die Rußzahlbestimmung
+        zu verwerfen. Ist eine eindeutige Entscheidung nicht möglich, muss
+        nach der Rußzahlbestimmung ein Fließmitteltest nach DIN 51402,
+        Teil 2, Ausgabe März 1979, durchgeführt werden. Die Anforderungen
+        dieser Verordnung sind erfüllt, wenn an keiner der drei Filterproben
         Ölderivate festgestellt werden.
-
 
     3.4 Bestimmung der Abgasverluste
 
         3.4.1 Der Sauerstoffgehalt des Abgases sowie die Abgastemperatur sind
-            quasikontinuierlich als Mittelwert über einen Zeitraum von 30 Sekunden
-            jeweils zeitgleich im gleichen Punkt zu bestimmen. Die Temperatur der
-            Verbrennungsluft wird in der Nähe der Ansaugöffnung des
-            Wärmeerzeugers, bei raumluftunabhängigen Feuerungsanlagen an
-            geeigneter Stelle im Zuführungsrohr gemessen.
+              quasikontinuierlich als Mittelwert über einen Zeitraum von 30
+              Sekunden jeweils zeitgleich im gleichen Punkt zu bestimmen. Die
+              Temperatur der Verbrennungsluft wird in der Nähe der Ansaugöffnung
+              des Wärmeerzeugers, bei raumluftunabhängigen Feuerungsanlagen an
+              geeigneter Stelle im Zuführungsrohr gemessen.
 
-            Der Abgasverlust wird aus den Mittelwerten der quasikontinuierlichen
-            Messung von Abgastemperatur und Sauerstoffgehalt sowie aus den
-            gemessenen Werten für Sauerstoffgehalt und Temperatur der
-            Verbrennungsluft nach folgender Formel errechnet:
+              Der Abgasverlust wird aus den Mittelwerten der quasikontinuierlichen
+              Messung von Abgastemperatur und Sauerstoffgehalt sowie aus
+              den gemessenen Werten für Sauerstoffgehalt und Temperatur der
+              Verbrennungsluft nach folgender Formel errechnet:
 
-            *                *   q
-                    A                                          = (t
-                    A                                          – t
-                    L                                         ) •
+              | qA = (tA – tL) • | ( | A | + B | ) |
+              | --- | --- | --- | --- | --- |
+              | 21 – O2,A |  |  |  |  |
 
-                *   (
+              Es bedeuten:
 
-                *   A
+              | qA = | Abgasverlust in Prozent |
+              | --- | --- |
+              | tA = | Abgastemperatur in Grad Celsius |
+              | tL = | Verbrennungslufttemperatur in Grad Celsius |
+              | O2,A = | Volumengehalt an Sauerstoff im trockenen Abgas in Prozent |
 
-                *   + B
+              |  | Heizöl EL, naturbelassene Pflanzenöle, Pflanzenölmethylester | Gase der öffentlichen Gasversorgung | Kokereigas | Flüssiggas und Flüssiggas-Luft-Gemische |
+              | --- | --- | --- | --- | --- |
+              | A = | 0,68 | 0,66 | 0,60 | 0,63 |
+              | B = | 0,007 | 0,009 | 0,011 | 0,008 |
 
-                *   )
-
-
-            *                *   21 – O
-                    2,A
-
-
-
-
-            Es bedeuten:
-
-            *                *   q
-                    A                                          =
-
-                *   Abgasverlust in Prozent
-
-
-            *                *   t
-                    A                                          =
-
-                *   Abgastemperatur in Grad Celsius
-
-
-            *                *   t
-                    L                                          =
-
-                *   Verbrennungslufttemperatur in Grad Celsius
-
-
-            *                *   O
-                    2,A                                          =
-
-                *   Volumengehalt an Sauerstoff im trockenen Abgas in Prozent
-
-
-
-
-
-            *                *
-                *   Heizöl EL, naturbelassene
-                    Pflanzenöle, Pflanzenölmethylester
-
-                *   Gase der öffentlichen Gasversorgung
-
-                *   Kokereigas
-
-                *   Flüssiggas und
-                    Flüssiggas-Luft-Gemische
-
-
-            *                *   A =
-
-                *   0,68
-
-                *   0,66
-
-                *   0,60
-
-                *   0,63
-
-
-            *                *   B =
-
-                *   0,007
-
-                *   0,009
-
-                *   0,011
-
-                *   0,008
-
-
-
-            .
-
+              .
 
         3.4.2 Nummer 2.3 gilt entsprechend.
 
-
-
-
-
-
-
-
-**4.** **Inhalt der Bescheinigung über die Überwachungsmessungen an
+4.  **Inhalt der Bescheinigung über die Überwachungsmessungen an
     Feuerungsanlagen für flüssige und gasförmige Brennstoffe**
 
     Die Bescheinigung nach § 14 Absatz 4 oder § 15 Absatz 5 muss
@@ -2036,8 +1399,7 @@ Der Bundesrat hat zugestimmt.
     Information über die Überprüfung der Anforderungen nach § 6 Absatz 2
     (Herstellerbescheinigung)
 
-
-**5.** **Inhalt der Bescheinigung über die Überwachungsmessungen an
+5.  **Inhalt der Bescheinigung über die Überwachungsmessungen an
     Feuerungsanlagen für feste Brennstoffe**
 
     Die Bescheinigung nach § 14 Absatz 4 oder § 15 Absatz 5 muss
@@ -2094,27 +1456,20 @@ Der Bundesrat hat zugestimmt.
     und 6, § 6 Absatz 1 (Herstellerbescheinigungen)
 
 
-
-
-(zu § 2 Nummer 11, § 6)
-
-### Anlage 3 Bestimmung des Nutzungsgrades und des Stickstoffoxidgehaltes unter Prüfbedingungen
+### Anlage 3 (zu § 2 Nummer 11, § 6)Bestimmung des Nutzungsgrades und des Stickstoffoxidgehaltes unter Prüfbedingungen
 
 (Fundstelle: BGBl. I 2010, 54)
 
-**1.** **Bestimmung des Nutzungsgrades**
-
+1.  **Bestimmung des Nutzungsgrades**
 
 1.1 Der Nutzungsgrad ist nach dem Verfahren der DIN EN 303-5, Ausgabe Juni
     1999, zu bestimmen.
 
-
-1.2 Die Bestimmung des Nutzungsgrades kann für den Typ des Heizkessels auf
-    einem Prüfstand oder für einzelne Heizkessel an einer bereits
+1.2 Die Bestimmung des Nutzungsgrades kann für den Typ des Heizkessels
+    auf einem Prüfstand oder für einzelne Heizkessel an einer bereits
     errichteten Feuerungsanlage vorgenommen werden. Erfolgt die Bestimmung
     an einer bereits errichteten Feuerungsanlage, sind die für die Prüfung
     auf dem Prüfstand geltenden Vorschriften sinngemäß anzuwenden.
-
 
 1.3 Die Unsicherheit der Bestimmungsmethode darf 3 Prozent des ermittelten
     Nutzungsgradwertes nicht überschreiten. Die Anforderungen an den
@@ -2122,28 +1477,23 @@ Der Bundesrat hat zugestimmt.
     zuzüglich der Unsicherheit nach Satz 1 die festgelegten Grenzwerte
     nicht unterschreiten.
 
+2.  **Bestimmung des Stickstoffoxidgehaltes**
 
-**2.** **Bestimmung des Stickstoffoxidgehaltes**
-
-
-2.1 Die Emissionsprüfung ist für den Typ des Brenners nach DIN EN 267,
-    Ausgabe November 1999, oder unter ihrer sinngemäßen Anwendung am
-    Prüfflammrohr vorzunehmen. Der Typ des Kessels mit einem vom
+2.1 Die Emissionsprüfung ist für den Typ des Brenners nach DIN EN
+    267, Ausgabe November 1999, oder unter ihrer sinngemäßen Anwendung
+    am Prüfflammrohr vorzunehmen. Der Typ des Kessels mit einem vom
     Hersteller auszuwählenden geprüften Brenner sowie die Kessel-Brenner-
     Einheiten (Units) sind auf einem Prüfstand unter sinngemäßer Anwendung
     dieser Norm zu prüfen.
 
-
-2.2 Die Prüfungen nach Nummer 2.1 können für einzelne Brenner oder
-    Brenner-Kessel-Kombinationen auch an bereits errichteten
+2.2 Die Prüfungen nach Nummer 2.1 können für einzelne Brenner
+    oder Brenner-Kessel-Kombinationen auch an bereits errichteten
     Feuerungsanlagen in Anlehnung an DIN EN 267, Ausgabe November 1999,
     vorgenommen werden.
-
 
 2.3 Für die Kalibrierung der Messgeräte sind zertifizierte Kalibriergase
     zu verwenden. Bei Gasbrennern und bei Gasbrenner-Kessel-Kombinationen
     ist als Prüfgas G20 (Methan) zu verwenden.
-
 
 2.4 Die Anforderungen an den Stickstoffoxidgehalt des Abgases gelten als
     eingehalten, wenn unter Berücksichtigung der Messtoleranzen nach DIN
@@ -2152,281 +1502,76 @@ Der Bundesrat hat zugestimmt.
     a)  bei einstufigen Brennern die in den Prüfpunkten des Arbeitsfeldes
         ermittelten Werte die festgelegten Grenzwerte nicht überschreiten,
 
-
     b)  bei Kesseln und Kessel-Brenner-Einheiten der nach DIN EN 303-5,
         Ausgabe Juni 1999, sowie bei mehrstufigen oder modulierenden Brennern
         der in Anlehnung an diese Norm ermittelte Norm-Emissionsfaktor EN die
         festgelegten Grenzwerte nicht überschreitet.
 
 
-
-
-
-
-
-(zu § 3 Absatz 5 Nummer 2, § 4 Absatz 3, 5 und 7, § 26 Absatz 1 Satz 2
-Nummer 2, Absatz 6)
-
-### Anlage 4 Anforderungen bei der Typprüfung
+### Anlage 4 (zu § 3 Absatz 5 Nummer 2, § 4 Absatz 3, 5 und 7, § 26 Absatz 1 Satz 2 Nummer 2, Absatz 6)Anforderungen bei der Typprüfung
 
 (Fundstelle: BGBl. I 2010, 55 - 56)
 
-**1.** **Emissionsgrenzwerte und Mindestwirkungsgrade für
+1.  **Emissionsgrenzwerte und Mindestwirkungsgrade für
     Einzelraumfeuerungsanlagen für feste Brennstoffe (Anforderungen bei
     der Typprüfung)**
 
-    *        *
-        *
-        *   Stufe 1:
-            Errichtung ab dem
-            22\. März 2010
-
-        *   Stufe 2:
-            Errichtung nach dem 31. Dezember 2014
-
-        *   Errichtung ab dem 22. März 2010
-
-
-    *        *   Feuerstättenart
-
-        *   Technische
-            Regeln
-
-        *   CO
-            [g/m
-            3                             ]
-
-        *   Staub
-            [g/m
-            3                             ]
-
-        *   CO
-            [g/m
-            3                             ]
-
-        *   Staub
-            [g/m
-            3                             ]
-
-        *   Mindest-
-            wirkungsgrad
-            [%]
-
-
-    *        *   Raumheizer
-            mit Flachfeuerung
-
-        *   DIN EN 13240
-            (Ausgabe Oktober 2005) Zeitbrand
-
-        *   2,0
-
-        *   0,075
-
-        *   1,25
-
-        *   0,04
-
-        *   73
-
-
-    *        *   Raumheizer
-            mit Füllfeuerung
-
-        *   DIN EN 13240
-            (Ausgabe Oktober 2005) Dauerbrand
-
-        *   2,5
-
-        *   0,075
-
-        *   1,25
-
-        *   0,04
-
-        *   70
-
-
-    *        *   Speichereinzel-
-            feuerstätten
-
-        *   DIN EN 15250/A1
-            (Ausgabe Juni 2007)
-
-        *   2,0
-
-        *   0,075
-
-        *   1,25
-
-        *   0,04
-
-        *   75
-
-
-    *        *   Kamineinsätze
-            (geschlossene
-            Betriebsweise)
-
-        *   DIN EN 13229
-            (Ausgabe Oktober 2005)
-
-        *   2,0
-
-        *   0,075
-
-        *   1,25
-
-        *   0,04
-
-        *   75
-
-
-    *        *   Kachelofeneinsätze
-            mit Flachfeuerung
-
-        *   DIN EN 13229/A1
-            (Ausgabe Oktober 2005)
-
-        *   2,0
-
-        *   0,075
-
-        *   1,25
-
-        *   0,04
-
-        *   80
-
-
-    *        *   Kachelofeneinsätze
-            mit Füllfeuerung
-
-        *   DIN EN 13229/A1
-            (Ausgabe Oktober 2005)
-
-        *   2,5
-
-        *   0,075
-
-        *   1,25
-
-        *   0,04
-
-        *   80
-
-
-    *        *   Herde
-
-        *   DIN EN 12815
-            (Ausgabe September 2005)
-
-        *   3,0
-
-        *   0,075
-
-        *   1,50
-
-        *   0,04
-
-        *   70
-
-
-    *        *   Heizungsherde
-
-        *   DIN EN 12815
-            (Ausgabe September 2005)
-
-        *   3,5
-
-        *   0,075
-
-        *   1,50
-
-        *   0,04
-
-        *   75
-
-
-    *        *   Pelletöfen ohne
-            Wassertasche
-
-        *   DIN EN 14785
-            (Ausgabe September 2006)
-
-        *   0,40
-
-        *   0,05
-
-        *   0,25
-
-        *   0,03
-
-        *   85
-
-
-    *        *   Pelletöfen mit
-            Wassertasche
-
-        *   DIN EN 14785
-            (Ausgabe September 2006)
-
-        *   0,40
-
-        *   0,03
-
-        *   0,25
-
-        *   0,02
-
-        *   90
-
-
+    |  |  | Stufe 1: Errichtung ab dem  22. März 2010 | Stufe 2: Errichtung nach dem 31. Dezember 2014 | Errichtung ab dem 22. März 2010 |  |  |
+    | --- | --- | --- | --- | --- | --- | --- |
+    | Feuerstättenart | Technische Regeln | CO [g/m3] | Staub [g/m3] | CO [g/m3] | Staub [g/m3] | Mindest- wirkungsgrad [%] |
+    | Raumheizer  mit Flachfeuerung | DIN EN 13240  (Ausgabe Oktober 2005) Zeitbrand | 2,0 | 0,075 | 1,25 | 0,04 | 73 |
+    | Raumheizer  mit Füllfeuerung | DIN EN 13240  (Ausgabe Oktober 2005) Dauerbrand | 2,5 | 0,075 | 1,25 | 0,04 | 70 |
+    | Speichereinzel- feuerstätten | DIN EN 15250/A1  (Ausgabe Juni 2007) | 2,0 | 0,075 | 1,25 | 0,04 | 75 |
+    | Kamineinsätze  (geschlossene  Betriebsweise) | DIN EN 13229  (Ausgabe Oktober 2005) | 2,0 | 0,075 | 1,25 | 0,04 | 75 |
+    | Kachelofeneinsätze  mit Flachfeuerung | DIN EN 13229/A1  (Ausgabe Oktober 2005) | 2,0 | 0,075 | 1,25 | 0,04 | 80 |
+    | Kachelofeneinsätze  mit Füllfeuerung | DIN EN 13229/A1  (Ausgabe Oktober 2005) | 2,5 | 0,075 | 1,25 | 0,04 | 80 |
+    | Herde | DIN EN 12815  (Ausgabe September 2005) | 3,0 | 0,075 | 1,50 | 0,04 | 70 |
+    | Heizungsherde | DIN EN 12815  (Ausgabe September 2005) | 3,5 | 0,075 | 1,50 | 0,04 | 75 |
+    | Pelletöfen ohne  Wassertasche | DIN EN 14785  (Ausgabe September 2006) | 0,40 | 0,05 | 0,25 | 0,03 | 85 |
+    | Pelletöfen mit  Wassertasche | DIN EN 14785  (Ausgabe September 2006) | 0,40 | 0,03 | 0,25 | 0,02 | 90 |
 
     .
 
-    Sonstige Einzelraumfeuerungsanlagen zum Beheizen, die nicht einer in
-    der Tabelle genannten Feuerstättenart bzw. technischen Regeln
+    Sonstige Einzelraumfeuerungsanlagen zum Beheizen, die nicht einer
+    in der Tabelle genannten Feuerstättenart bzw. technischen Regeln
     zuzuordnen sind, müssen die Anforderungen der Raumheizer mit
     Flachfeuerung (DIN EN 13240, Ausgabe Oktober 2005) einhalten.
 
     Sonstige Einzelraumfeuerungsanlagen zum Kochen und Backen bzw. zum
     Kochen, Backen und Heizen, die nicht einer in der Tabelle genannten
-    Feuerstättenart bzw. technischen Regeln unterzuordnen sind, müssen die
-    Anforderungen für Herde (DIN EN 12815, Ausgabe September 2005)
+    Feuerstättenart bzw. technischen Regeln unterzuordnen sind, müssen
+    die Anforderungen für Herde (DIN EN 12815, Ausgabe September 2005)
     einhalten.
 
-    Typprüfungen können nur von benannten Stellen durchgeführt werden, die
-    Prüfungen entsprechend den Normen nach der Richtlinie 89/106/EWG des
-    Rates vom 21. Dezember 1988 zur Angleichung der Rechts- und
-    Verwaltungsvorschriften der Mitgliedstaaten über Bauprodukte (ABl. L
-    40 vom 11.2.1989, S. 12), die zuletzt durch die Verordnung (EG) Nr.
-    1882/2003 (ABl. L 284 vom 31.10.2003, S. 1) geändert worden ist,
+    Typprüfungen können nur von benannten Stellen durchgeführt werden,
+    die Prüfungen entsprechend den Normen nach der Richtlinie 89/106/
+    EWG des Rates vom 21. Dezember 1988 zur Angleichung der Rechts- und
+    Verwaltungsvorschriften der Mitgliedstaaten über Bauprodukte (ABl.
+    L 40 vom 11.2.1989, S. 12), die zuletzt durch die Verordnung (EG)
+    Nr. 1882/2003 (ABl. L 284 vom 31.10.2003, S. 1) geändert worden ist,
     durchführen dürfen.
 
-
-**2.** **Grenzwerte für Anlagen mit den in § 3 Absatz 1 Nummer 8 und 13
+2.  **Grenzwerte für Anlagen mit den in § 3 Absatz 1 Nummer 8 und 13
     genannten Brennstoffen (Anforderungen bei der Typprüfung)**
 
     Dioxine und Furane:
-    0,1  ng/m
-    3
+
+    0,1 ng/m3
 
     Stickstoffoxide:
     Anlagen, die ab dem 22. März 2010 errichtet werden:
-    0,6   g/m
-    3
+
+    0,6 g/m3
 
     Anlagen, die nach dem 31. Dezember 2014 errichtet werden:
-    0,5   g/m
-    3
+
+    0,5 g/m3
 
     Kohlenstoffmonoxid:
-    0,25  g/m
-    3                   .
 
+    0,25 g/m3.
 
-**3.** **Durchführung der Messungen und Bestimmung des Wirkungsgrades:**
+3.  **Durchführung der Messungen und Bestimmung des Wirkungsgrades:**
 
     3.1 **Kohlenstoffmonoxid**
 
@@ -2436,40 +1581,30 @@ Nummer 2, Absatz 6)
         Nummer 8 erfolgt die Messung der Kohlenstoffmonoxidemissionen parallel
         zur Messung der Stickstoffoxidemissionen.
 
-
     3.2 **Staub**
 
         Die Ermittlung der staubförmigen Emissionen erfolgt bei
         Nennwärmeleistung als Halbstundenmittelwert (Messbeginn drei Minuten
-        nach Brennstoffaufgabe) nach VDI 2066 Blatt 1, Ausgabe November 2006,
-        oder nach dem Zertifizierungsprogramm DINplus in Anlehnung an VDI 2066
-        Blatt 1, Ausgabe November 2006. Andere Verfahren können bei
+        nach Brennstoffaufgabe) nach VDI 2066 Blatt 1, Ausgabe November
+        2006, oder nach dem Zertifizierungsprogramm DINplus in Anlehnung an
+        VDI 2066 Blatt 1, Ausgabe November 2006. Andere Verfahren können bei
         Gleichwertigkeit ebenso angewendet werden.
-
 
     3.3 **Wirkungsgrad**
 
         Die Bestimmung des Wirkungsgrades erfolgt bei Nennwärmeleistung über
         Abgasverlust und Brennstoffdurchsatz nach den entsprechenden Normen.
 
-
     3.4 **Stickstoffoxide**
 
         Die Ermittlung erfolgt nach DIN EN 14792, Ausgabe April 2006. Die
-        Probenahmedauer beträgt eine halbe Stunde bei Nennwärmeleistung; es
-        sind mindestens drei Bestimmungen für jede Brennstoffart
+        Probenahmedauer beträgt eine halbe Stunde bei Nennwärmeleistung;
+        es sind mindestens drei Bestimmungen für jede Brennstoffart
         durchzuführen.
-
 
     3.5 **Dioxine und Furane**
 
         Die Ermittlung erfolgt nach DIN EN 1948, Ausgabe Juni 2006. Die
         Probenahmedauer beträgt sechs Stunden bei Nennwärmeleistung; es sind
         mindestens drei Bestimmungen für jede Brennstoffart durchzuführen.
-
-
-
-
-
-
 

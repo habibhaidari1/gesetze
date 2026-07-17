@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl II: 2002, 2482
 
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz

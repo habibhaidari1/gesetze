@@ -15,14 +15,16 @@ Ausfertigungsdatum
 Fundstelle
 :   GBl DDR I: 1990, 1466
 
+Fundstelle
+:   GBl DDR I: 1990, Nr 60, 1466
 
 
 ## Eingangsformel
 
 Zur zügigen Reorganisation des volkseigenen Vermögens und seiner
-Entflechtung im Interesse zweckmäßiger Unternehmensstrukturen wird
-nach Maßgabe des § 1 Abs. 2 und § 24 Abs. 4 des Gesetzes zur
-Privatisierung und Reorganisation des volkseigenen Vermögens
+Entflechtung im Interesse zweckmäßiger Unternehmensstrukturen
+wird nach Maßgabe des § 1 Abs. 2 und § 24 Abs. 4 des Gesetzes
+zur Privatisierung und Reorganisation des volkseigenen Vermögens
 (Treuhandgesetz) vom 17. Juni 1990 (GBl. I Nr. 33 S. 300) folgendes
 verordnet:
 
@@ -70,35 +72,26 @@ enthalten:
 1.  die Lage- und Grundbuchbezeichnung des durch diese
     Durchführungsverordnung geteilten Grundstücks;
 
-
 2.  einen Teilungsentwurf, aus dem sich der exakte Verlauf der neuen
     Grundstücksgrenzen ergibt;
-
 
 3.  eine genaue Beschreibung der vom Nutzungsberechtigten genutzten
     Gebäude und Anlagen, einschließlich ihrer Bewertung zum Stichtag der
     Vereinbarung für den Fall offener vermögensrechtlicher Ansprüche;
 
-
 4.  den Verkauf/Kauf von Gebäuden und Anlagen, die vom ehemaligen
     Rechtsträger infolge der Teilung nicht mehr genutzt oder verwertet
     werden können;
 
-
 5.  notwendige weitere Vereinbarungen, die sich aus der Abwicklung des
     Nutzungsvertrages ergeben;
 
-
 6.  das Datum der Rechtswirksamkeit der Übergabe/Übernahme.
 
-
-
-
-(2) Der Nutzungsberechtigte hat unter Vorlage des
-Übergabe-/Übernahmeprotokolls zu veranlassen, daß das Teilgrundstück
-vermessen und die Vermessungsergebnisse in die
-Liegenschaftsdokumentation, einschließlich Grundbuch, übernommen
-werden.
+(2) Der Nutzungsberechtigte hat unter Vorlage des Übergabe-/
+Übernahmeprotokolls zu veranlassen, daß das Teilgrundstück vermessen
+und die Vermessungsergebnisse in die Liegenschaftsdokumentation,
+einschließlich Grundbuch, übernommen werden.
 
 
 ## § 5

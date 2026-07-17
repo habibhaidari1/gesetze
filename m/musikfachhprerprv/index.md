@@ -1,7 +1,5 @@
 ---
-Title: Verordnung über die Erprobung der Durchführung der Abschlussprüfung in zwei
-  zeitlich auseinanderfallenden Teilen in der Berufsausbildung zum Musikfachhändler/zur
-  Musikfachhändlerin
+Title: Verordnung über die Erprobung der Durchführung der Abschlussprüfung in zwei zeitlich auseinanderfallenden Teilen in der Berufsausbildung zum Musikfachhändler/zur Musikfachhändlerin
 jurabk: MusikfachhPrErprV
 layout: default
 origslug: musikfachhprerprv

@@ -1,7 +1,5 @@
 ---
-Title: Gesetz über den Beruf der Anästhesietechnischen Assistentin und des Anästhesietechnischen
-  Assistenten und über den Beruf der Operationstechnischen Assistentin und des Operationstechnischen
-  Assistenten
+Title: Gesetz über den Beruf der Anästhesietechnischen Assistentin und des Anästhesietechnischen Assistenten und über den Beruf der Operationstechnischen Assistentin und des Operationstechnischen Assistenten
 jurabk: ATA-OTA-G
 layout: default
 origslug: ata-ota-g
@@ -17,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2019, 2768
 
-Geändert durch
-:   Art. 11 G v. 24.2.2021 I 274
+Zuletzt geändert durch
+:   Art. 8 G v. 20.7.2022 I 1174
 
 
 ## Abschnitt 1 - Erlaubnis zum Führen der Berufsbezeichnung
@@ -35,28 +33,22 @@ auf Antrag erteilt, wenn die antragstellende Person
 
 1.  die Ausbildung zur Anästhesietechnischen Assistentin oder zum
     Anästhesietechnischen Assistenten mit der staatlichen Prüfung
-    erfolgreich abgeschlossen hat oder ihre Berufsqualifikation außerhalb
-    des Geltungsbereichs dieses Gesetzes erworben hat und diese
+    erfolgreich abgeschlossen hat oder ihre Berufsqualifikation
+    außerhalb des Geltungsbereichs dieses Gesetzes erworben hat und diese
     Berufsqualifikation nach Abschnitt 3 anerkannt wird,
-
 
 2.  sich nicht eines Verhaltens schuldig gemacht hat, aus dem sich die
     Unzuverlässigkeit zur Berufsausübung ergibt,
 
-
 3.  in gesundheitlicher Hinsicht zur Berufsausübung nicht ungeeignet ist
     und
-
 
 4.  über Kenntnisse der deutschen Sprache verfügt, die zur Berufsausübung
     erforderlich sind.
 
-
-
-
-(3) Beantragt eine Person, die ihre Berufsqualifikation außerhalb des
-Geltungsbereichs dieses Gesetzes erworben hat, die Erlaubnis, so prüft
-die zuständige Behörde zunächst, ob diese Berufsqualifikation
+(3) Beantragt eine Person, die ihre Berufsqualifikation außerhalb
+des Geltungsbereichs dieses Gesetzes erworben hat, die Erlaubnis, so
+prüft die zuständige Behörde zunächst, ob diese Berufsqualifikation
 anerkannt wird. Erst danach prüft sie, ob bei der antragstellenden
 Person die in Absatz 2 Nummer 2 bis 4 genannten Voraussetzungen
 vorliegen.
@@ -66,14 +58,10 @@ zuständige Behörde des Landes, in dem
 
 1.  die antragstellende Person die staatliche Prüfung abgelegt hat oder
 
-
 2.  die antragstellende Person mit einer außerhalb des Geltungsbereichs
     dieses Gesetzes erworbenen Berufsqualifikation den Beruf der
     Anästhesietechnischen Assistentin oder des Anästhesietechnischen
     Assistenten ausüben will.
-
-
-
 
 
 ### § 2 Erlaubnis zum Führen der Berufsbezeichnung „Operationstechnische Assistentin“ oder „Operationstechnischer Assistent“
@@ -87,28 +75,22 @@ auf Antrag erteilt, wenn die antragstellende Person
 
 1.  die Ausbildung zur Operationstechnischen Assistentin oder zum
     Operationstechnischen Assistenten mit der staatlichen Prüfung
-    erfolgreich abgeschlossen hat oder ihre Berufsqualifikation außerhalb
-    des Geltungsbereichs dieses Gesetzes erworben hat und diese
+    erfolgreich abgeschlossen hat oder ihre Berufsqualifikation
+    außerhalb des Geltungsbereichs dieses Gesetzes erworben hat und diese
     Berufsqualifikation nach Abschnitt 3 anerkannt wird,
-
 
 2.  sich nicht eines Verhaltens schuldig gemacht hat, aus dem sich die
     Unzuverlässigkeit zur Berufsausübung ergibt,
 
-
 3.  in gesundheitlicher Hinsicht zur Berufsausübung nicht ungeeignet ist
     und
-
 
 4.  über Kenntnisse der deutschen Sprache verfügt, die zur Berufsausübung
     erforderlich sind.
 
-
-
-
-(3) Beantragt eine Person, die ihre Berufsqualifikation außerhalb des
-Geltungsbereichs dieses Gesetzes erworben hat, die Erlaubnis, so prüft
-die zuständige Behörde zunächst, ob diese Berufsqualifikation
+(3) Beantragt eine Person, die ihre Berufsqualifikation außerhalb
+des Geltungsbereichs dieses Gesetzes erworben hat, die Erlaubnis, so
+prüft die zuständige Behörde zunächst, ob diese Berufsqualifikation
 anerkannt wird. Erst danach prüft sie, ob bei der antragstellenden
 Person die in Absatz 2 Nummer 2 bis 4 genannten Voraussetzungen
 vorliegen.
@@ -118,14 +100,10 @@ zuständige Behörde des Landes, in dem
 
 1.  die antragstellende Person die staatliche Prüfung abgelegt hat oder
 
-
 2.  die antragstellende Person mit einer außerhalb des Geltungsbereichs
     dieses Gesetzes erworbenen Berufsqualifikation den Beruf der
     Operationstechnischen Assistentin oder des Operationstechnischen
     Assistenten ausüben will.
-
-
-
 
 
 ### § 3 Rücknahme der Erlaubnis zum Führen der Berufsbezeichnung
@@ -136,30 +114,22 @@ wenn
 1.  bei der Erteilung
 
     a)  der Erlaubnis zum Führen der Berufsbezeichnung „Anästhesietechnische
-        Assistentin“ oder „Anästhesietechnischer Assistent“ die Ausbildung zur
-        Anästhesietechnischen Assistentin oder zum Anästhesietechnischen
+        Assistentin“ oder „Anästhesietechnischer Assistent“ die Ausbildung
+        zur Anästhesietechnischen Assistentin oder zum Anästhesietechnischen
         Assistenten nicht abgeschlossen gewesen ist oder die Voraussetzungen
         für die Anerkennung der außerhalb des Geltungsbereichs dieses Gesetzes
         erworbenen Berufsqualifikation nicht vorgelegen haben oder
-
 
     b)  der Erlaubnis zum Führen der Berufsbezeichnung „Operationstechnische
-        Assistentin“ oder „Operationstechnischer Assistent“ die Ausbildung zur
-        Operationstechnischen Assistentin oder zum Operationstechnischen
+        Assistentin“ oder „Operationstechnischer Assistent“ die Ausbildung
+        zur Operationstechnischen Assistentin oder zum Operationstechnischen
         Assistenten nicht abgeschlossen gewesen ist oder die Voraussetzungen
         für die Anerkennung der außerhalb des Geltungsbereichs dieses Gesetzes
         erworbenen Berufsqualifikation nicht vorgelegen haben oder
-
-
-
-
 
 2.  die antragstellende Person sich bis zur Erteilung der Erlaubnis eines
     Verhaltens schuldig gemacht hat, aus dem sich ihre Unzuverlässigkeit
     zur Berufsausübung ergibt.
-
-
-
 
 (2) Die Erlaubnis kann zurückgenommen werden, wenn bei ihrer Erteilung
 die antragstellende Person in gesundheitlicher Hinsicht nicht zur
@@ -195,18 +165,13 @@ angeordnet werden, wenn
     einer Straftat, aus der sich die Unzuverlässigkeit zur Berufsausübung
     ergeben würde, oder
 
-
 2.  die Inhaberin oder der Inhaber der Erlaubnis in gesundheitlicher
-    Hinsicht vorübergehend nicht mehr zur Ausübung des Berufs geeignet ist
-    oder
+    Hinsicht vorübergehend nicht mehr zur Ausübung des Berufs geeignet
+    ist oder
 
-
-3.  sich erweist, dass die Inhaberin oder der Inhaber der Erlaubnis nicht
-    über die Kenntnisse der deutschen Sprache verfügt, die für die
+3.  sich erweist, dass die Inhaberin oder der Inhaber der Erlaubnis
+    nicht über die Kenntnisse der deutschen Sprache verfügt, die für die
     Ausübung des Berufs in Deutschland erforderlich sind.
-
-
-
 
 (2) Die Anordnung des Ruhens der Erlaubnis ist aufzuheben, sobald ihre
 Voraussetzungen nicht mehr vorliegen.
@@ -220,8 +185,8 @@ Voraussetzungen nicht mehr vorliegen.
 
 #### § 6 Nichtanwendung des Berufsbildungsgesetzes
 
-Auf die Ausbildung zum Beruf der Anästhesietechnischen Assistentin und
-des Anästhesietechnischen Assistenten und zum Beruf der
+Auf die Ausbildung zum Beruf der Anästhesietechnischen Assistentin
+und des Anästhesietechnischen Assistenten und zum Beruf der
 Operationstechnischen Assistentin und des Operationstechnischen
 Assistenten und auf das Ausbildungsverhältnis ist das
 Berufsbildungsgesetz nicht anzuwenden.
@@ -234,16 +199,16 @@ Berufsbildungsgesetz nicht anzuwenden.
 
 (1) Die Ausbildung zur Anästhesietechnischen Assistentin oder zum
 Anästhesietechnischen Assistenten und zur Operationstechnischen
-Assistentin oder zum Operationstechnischen Assistenten vermittelt die
-für die Berufsausübung erforderlichen fachlichen und methodischen
+Assistentin oder zum Operationstechnischen Assistenten vermittelt
+die für die Berufsausübung erforderlichen fachlichen und methodischen
 Kompetenzen zur eigenverantwortlichen Durchführung und zur Mitwirkung,
 insbesondere in den operativen oder anästhesiologischen Bereichen der
 stationären und ambulanten Versorgung sowie in weiteren diagnostischen
 und therapeutischen Versorgungsbereichen, einschließlich der zugrunde
-liegenden Lernkompetenzen sowie der Fähigkeit zum Wissenstransfer und
-zur Selbstreflexion. Darüber hinaus vermittelt sie personale und
-soziale Kompetenzen. Die Vermittlung hat entsprechend dem anerkannten
-Stand medizinischer, medizinisch-technischer und weiterer
+liegenden Lernkompetenzen sowie der Fähigkeit zum Wissenstransfer
+und zur Selbstreflexion. Darüber hinaus vermittelt sie personale
+und soziale Kompetenzen. Die Vermittlung hat entsprechend dem
+anerkannten Stand medizinischer, medizinisch-technischer und weiterer
 bezugswissenschaftlicher Erkenntnisse zu erfolgen.
 
 (2) Die Ausbildung befähigt die Anästhesietechnische Assistentin oder
@@ -254,8 +219,8 @@ Selbständigkeit und Selbstbestimmung sowie deren kulturellen und
 religiösen Hintergrund, in ihr Handeln mit einzubeziehen.
 
 (3) Den Auszubildenden wird vermittelt, ihre persönliche und fachliche
-Weiterentwicklung als notwendig anzuerkennen und lebenslanges Lernen
-als Teil der eigenen beruflichen Biographie zu verstehen. Die
+Weiterentwicklung als notwendig anzuerkennen und lebenslanges
+Lernen als Teil der eigenen beruflichen Biographie zu verstehen. Die
 Ausbildung führt dazu, dass die Auszubildenden ein professionelles,
 ethisch fundiertes berufliches Selbstverständnis entwickeln, das der
 Bedeutung ihrer zukünftigen Tätigkeit angemessen ist.
@@ -272,57 +237,42 @@ Alle Auszubildenden sind zu befähigen,
         diagnostischen und therapeutischen Versorgungsbereichen im ambulanten
         und stationären Bereich,
 
-
     b)  geplantes und strukturiertes Vorbereiten, Durchführen und Nachbereiten
-        von berufsfeldspezifischen Maßnahmen der medizinischen Diagnostik und
-        Therapie,
-
+        von berufsfeldspezifischen Maßnahmen der medizinischen Diagnostik
+        und Therapie,
 
     c)  sach- und fachgerechtes Umgehen mit Medikamenten, medizinischen
         Geräten und Materialien sowie mit Medizinprodukten,
 
-
     d)  Sicherstellen der Funktions- und Betriebsbereitschaft des jeweiligen
         Versorgungsbereichs,
 
-
     e)  Einhalten der Hygienevorschriften sowie der rechtlichen Arbeits- und
         Gesundheitsschutzvorschriften,
-
 
     f)  Übernehmen der Patientinnen und Patienten in den jeweiligen
         Versorgungsbereichen unter Berücksichtigung ihres gesundheitlichen
         Zustandes,
 
-
     g)  Überwachen des gesundheitlichen Zustandes der Patientinnen und
         Patienten und seines Verlaufs während des Aufenthaltes in den
         jeweiligen Versorgungsbereichen,
-
 
     h)  fachgerechte Übergabe und Überleitung der Patientinnen und Patienten
         einschließlich des Beschreibens und der Dokumentation ihres
         gesundheitlichen Zustandes und dessen Verlaufs,
 
-
     i)  angemessenes Kommunizieren mit den Patientinnen und Patienten sowie
         weiteren beteiligten Personen und Berufsgruppen,
-
 
     j)  Durchführen von qualitätssichernden und organisatorischen Maßnahmen in
         den jeweiligen Einsatzbereichen sowie Dokumentieren der angewendeten
         Maßnahmen,
 
-
     k)  Aufbereiten von Medizinprodukten und medizinischen Geräten und
-
 
     l)  Einleiten lebenserhaltender Sofortmaßnahmen bis zum Eintreffen der
         Ärztin oder des Arztes,
-
-
-
-
 
 2.  im Rahmen der Mitwirkung insbesondere die folgenden Aufgaben
     auszuführen:
@@ -332,14 +282,9 @@ Alle Auszubildenden sind zu befähigen,
         anästhesiologischen und operativen Funktionsbereichen und weiteren
         Versorgungsbereichen und
 
-
     b)  eigenständiges Durchführen ärztlich veranlasster Maßnahmen in
         anästhesiologischen und operativen Funktionsbereichen und weiteren
         Versorgungsbereichen sowie
-
-
-
-
 
 3.  insbesondere die folgenden übergreifenden fachlichen, methodischen und
     personalen Kompetenzen anzuwenden:
@@ -347,29 +292,19 @@ Alle Auszubildenden sind zu befähigen,
     a)  interdisziplinäre und multiprofessionelle Zusammenarbeit und fachliche
         Kommunikation,
 
-
     b)  Entwicklung und Umsetzung berufsübergreifender Lösungen, die die
         Optimierung der Arbeitsabläufe ermöglichen und die Bedürfnisse der
         Patientinnen und Patienten berücksichtigen,
 
-
     c)  Analyse, Evaluation, Sicherung und Weiterentwicklung der Qualität des
         eigenen beruflichen Handelns,
 
-
-    d)  Mitwirkung an der Einarbeitung neuer Mitarbeiterinnen und Mitarbeiter
-        sowie an der praktischen Ausbildung von Angehörigen von
+    d)  Mitwirkung an der Einarbeitung neuer Mitarbeiterinnen und
+        Mitarbeiter sowie an der praktischen Ausbildung von Angehörigen von
         Gesundheitsfachberufen und
-
 
     e)  Berücksichtigung von Aspekten der Qualitätssicherung, der
         Patientensicherheit, der Ökologie und der Wirtschaftlichkeit.
-
-
-
-
-
-
 
 
 #### § 9 Spezifisches Ausbildungsziel für Anästhesietechnische Assistentinnen und Anästhesietechnische Assistenten
@@ -382,31 +317,23 @@ Anästhesietechnischen Assistenten Auszubildenden sind zu befähigen,
     a)  Herstellen der Funktions- und Betriebsfähigkeit des
         anästhesiologischen Versorgungsbereichs,
 
-
     b)  Vorbereiten und Koordinieren der zur Durchführung anästhesiologischer
         Maßnahmen und Verfahren erforderlichen Arbeitsabläufe sowie deren
         Nachbereitung,
 
-
-    c)  sach- und fachgerechtes Umgehen mit Medikamenten, die zur Anästhesie
-        und im Rahmen der Anästhesie in anästhesiologischen
+    c)  sach- und fachgerechtes Umgehen mit Medikamenten, die zur
+        Anästhesie und im Rahmen der Anästhesie in anästhesiologischen
         Versorgungsbereichen angewendet werden,
 
-
-    d)  Durchführen von bedarfsgerechten Maßnahmen und Verfahren zur Betreuung
-        der Patientinnen und Patienten während ihres Aufenthaltes im
-        anästhesiologischen Versorgungsbereich unter Berücksichtigung ihres
+    d)  Durchführen von bedarfsgerechten Maßnahmen und Verfahren zur
+        Betreuung der Patientinnen und Patienten während ihres Aufenthaltes
+        im anästhesiologischen Versorgungsbereich unter Berücksichtigung ihres
         jeweiligen physischen und psychischen Gesundheitszustandes und
-
 
     e)  Überwachen des gesundheitlichen Zustandes der Patientinnen und
         Patienten und seines Verlaufs während des Aufenthaltes in den
         jeweiligen Versorgungsbereichen und Aufwacheinheiten außerhalb von
         Intensivtherapiestationen sowie
-
-
-
-
 
 2.  im Rahmen der Mitwirkung insbesondere die folgenden Aufgaben
     auszuführen:
@@ -415,16 +342,9 @@ Anästhesietechnischen Assistenten Auszubildenden sind zu befähigen,
         Maßnahmen und Verfahren in anästhesiologischen Funktionsbereichen und
         weiteren Versorgungsbereichen und
 
-
-    b)  eigenständiges Durchführen ärztlich veranlasster Maßnahmen in
-        anästhesiologischen Funktionsbereichen und weiteren
+    b)  eigenständiges Durchführen ärztlich veranlasster Maßnahmen
+        in anästhesiologischen Funktionsbereichen und weiteren
         Versorgungsbereichen.
-
-
-
-
-
-
 
 
 #### § 10 Spezifisches Ausbildungsziel für Operationstechnische Assistentinnen und Operationstechnische Assistenten
@@ -437,28 +357,20 @@ Operationstechnischen Assistenten Auszubildenden sind zu befähigen,
     a)  Herstellen der Funktions- und Betriebsfähigkeit des operativen
         Versorgungsbereichs,
 
-
     b)  Vorbereiten und Koordinieren der zur Durchführung operativer Eingriffe
         erforderlichen Arbeitsabläufe und deren Nachbereitung,
 
-
     c)  geplantes und strukturiertes Ausführen der Springertätigkeit,
 
-
-    d)  Durchführen von bedarfsgerechten Maßnahmen und Verfahren zur Betreuung
-        der Patientinnen und Patienten während ihres Aufenthaltes im
+    d)  Durchführen von bedarfsgerechten Maßnahmen und Verfahren zur
+        Betreuung der Patientinnen und Patienten während ihres Aufenthaltes im
         operativen Versorgungsbereich unter Berücksichtigung ihres jeweiligen
         physischen und psychischen Gesundheitszustandes und
-
 
     e)  Überwachen des gesundheitlichen Zustandes der Patientinnen und
         Patienten und seines Verlaufs während des Aufenthaltes in den
         jeweiligen Versorgungsbereichen außerhalb von Aufwacheinheiten und
         Intensivtherapiestationen sowie
-
-
-
-
 
 2.  im Rahmen der Mitwirkung insbesondere die folgenden Aufgaben
     auszuführen:
@@ -466,15 +378,8 @@ Operationstechnischen Assistenten Auszubildenden sind zu befähigen,
     a)  fach- und situationsgerechtes Assistieren bei operativen Eingriffen in
         operativen Funktionsbereichen und weiteren Versorgungsbereichen und
 
-
     b)  eigenständiges Durchführen ärztlich veranlasster Maßnahmen in
         operativen Funktionsbereichen und weiteren Versorgungsbereichen.
-
-
-
-
-
-
 
 
 #### § 11 Voraussetzungen für den Zugang zur Ausbildung
@@ -486,13 +391,11 @@ Die Ausbildung darf nur absolvieren, wer
     a)  den mittleren Schulabschluss oder einen anderen gleichwertigen
         Schulabschluss oder
 
-
     b)  eine nach einem Hauptschulabschluss oder einer gleichwertigen
         Schulbildung erfolgreich abgeschlossene Berufsausbildung
 
         aa) in einem Beruf, für den eine reguläre Ausbildungsdauer von mindestens
             zwei Jahren vorgeschrieben ist,
-
 
         bb) in einer landesrechtlich geregelten Assistenz- oder Helferausbildung
             in der Pflege von mindestens einjähriger Dauer, die die
@@ -502,32 +405,19 @@ Die Ausbildung darf nur absolvieren, wer
             und Helferberufen in der Pflege“ (BAnz AT 17.02.2016 B3) beschlossen
             wurden, erfüllt, oder
 
-
         cc) in einer bis zum 31. Dezember 2021 begonnenen, erfolgreich
             abgeschlossenen landesrechtlich geregelten Ausbildung in der
             Krankenpflegehilfe oder in der Altenpflegehilfe von jeweils mindestens
             einjähriger Dauer,
 
-
-
-
-
-
-
-
 2.  sich nicht eines Verhaltens schuldig gemacht hat, aus dem sich die
     Unzuverlässigkeit zur Absolvierung der Ausbildung ergibt,
-
 
 3.  in gesundheitlicher Hinsicht zur Absolvierung der Ausbildung nicht
     ungeeignet ist und
 
-
 4.  über die Kenntnisse der deutschen Sprache verfügt, die für die
     Ausbildung erforderlich sind.
-
-
-
 
 
 #### § 12 Dauer
@@ -549,24 +439,15 @@ Operationstechnischen Assistenten kann zur Hälfte gemeinsam erfolgen.
 
 1.  theoretischem Unterricht,
 
-
 2.  praktischem Unterricht und
-
 
 3.  einer praktischen Ausbildung.
 
-
-
-
 (2) Der zeitliche Anteil der Ausbildung unterteilt sich in
 
-1.  mindestens 2 100 Stunden theoretischen und praktischen Unterrichts und
+1.  mindestens 2 100 Stunden theoretischen und praktischen Unterrichts und
 
-
-2.  mindestens 2 500 Stunden praktischer Ausbildung.
-
-
-
+2.  mindestens 2 500 Stunden praktischer Ausbildung.
 
 
 #### § 14 Ausbildungsorte
@@ -579,28 +460,28 @@ statt.
 Krankenhaus oder in mehreren dafür geeigneten Krankenhäusern
 durchgeführt. Teile der praktischen Ausbildung können auch in einer
 dafür geeigneten ambulanten Einrichtung oder in mehreren dafür
-geeigneten ambulanten Einrichtungen durchgeführt werden, soweit diese
-Teile der praktischen Ausbildung die praktische Ausbildung im
+geeigneten ambulanten Einrichtungen durchgeführt werden, soweit
+diese Teile der praktischen Ausbildung die praktische Ausbildung im
 Krankenhaus nicht überwiegen.
 
-(3) Findet die praktische Ausbildung in mehreren Einrichtungen der
-praktischen Ausbildung statt, so übernimmt die Einrichtung die
-Verantwortung für die Durchführung der praktischen Ausbildung, an der
-der überwiegende Teil der praktischen Ausbildung stattfindet
+(3) Findet die praktische Ausbildung in mehreren Einrichtungen
+der praktischen Ausbildung statt, so übernimmt die Einrichtung die
+Verantwortung für die Durchführung der praktischen Ausbildung, an
+der der überwiegende Teil der praktischen Ausbildung stattfindet
 (verantwortliche Einrichtung der praktischen Ausbildung).
 
-(4) Die Schule und die Einrichtungen der praktischen Ausbildung wirken
-bei der Ausbildung auf der Grundlage von Kooperationsverträgen
+(4) Die Schule und die Einrichtungen der praktischen Ausbildung
+wirken bei der Ausbildung auf der Grundlage von Kooperationsverträgen
 zusammen.
 
-(5) Die Eignung als Einrichtung der praktischen Ausbildung stellt die
-zuständige Behörde fest. Die zuständige Behörde kann im Fall von
+(5) Die Eignung als Einrichtung der praktischen Ausbildung stellt
+die zuständige Behörde fest. Die zuständige Behörde kann im Fall von
 Rechtsverstößen einer Einrichtung die Durchführung der praktischen
 Ausbildung untersagen.
 
 (6) Auszubildende sind für die gesamte Dauer der Ausbildung
-Arbeitnehmer im Sinne von § 5 des Betriebsverfassungsgesetzes oder von
-§ 4 des Bundespersonalvertretungsgesetzes der verantwortlichen
+Arbeitnehmer im Sinne von § 5 des Betriebsverfassungsgesetzes oder
+von § 4 des Bundespersonalvertretungsgesetzes der verantwortlichen
 Einrichtung der praktischen Ausbildung.
 
 
@@ -635,8 +516,8 @@ Praxisbegleitung in angemessenem Umfang gewährleistet.
 während ihrer Praxiseinsätze fachlich im Benehmen mit der
 Praxisanleitung und unterstützt die Praxisanleitung.
 
-(3) Die Einrichtungen der praktischen Ausbildung unterstützen die
-Schule bei der Durchführung der von der Schule zu leistenden
+(3) Die Einrichtungen der praktischen Ausbildung unterstützen
+die Schule bei der Durchführung der von der Schule zu leistenden
 Praxisbegleitung.
 
 
@@ -659,15 +540,15 @@ Curriculum und den Ausbildungsplan ab.
 
 #### § 19 Gesamtverantwortung der Schule
 
-(1) Die Gesamtverantwortung für die Koordination des theoretischen und
-praktischen Unterrichts mit der praktischen Ausbildung trägt die
+(1) Die Gesamtverantwortung für die Koordination des theoretischen
+und praktischen Unterrichts mit der praktischen Ausbildung trägt die
 Schule.
 
 (2) Die Schule hat in Abstimmung mit den Einrichtungen der praktischen
-Ausbildung sicherzustellen, dass die oder der Auszubildende für die
-Teilnahme an Ausbildungsveranstaltungen der Schule und für die
-Teilnahme an Prüfungen freigestellt wird und dass bei der Gestaltung
-der Ausbildung auf die dafür erforderlichen Lernzeiten und
+Ausbildung sicherzustellen, dass die oder der Auszubildende für
+die Teilnahme an Ausbildungsveranstaltungen der Schule und für
+die Teilnahme an Prüfungen freigestellt wird und dass bei der
+Gestaltung der Ausbildung auf die dafür erforderlichen Lernzeiten und
 Vorbereitungszeiten Rücksicht genommen wird.
 
 
@@ -681,16 +562,16 @@ vorgesehenen Zeit erreicht werden kann.
 (2) Die Einrichtungen der praktischen Ausbildung haben den
 vorgegebenen Mindestumfang der Praxisanleitung sicherzustellen.
 
-(3) Die Einrichtungen der praktischen Ausbildung haben die oder den
-Auszubildenden für die Teilnahme an Ausbildungsveranstaltungen der
-Schule und für die Teilnahme an Prüfungen freizustellen. Die
+(3) Die Einrichtungen der praktischen Ausbildung haben die oder
+den Auszubildenden für die Teilnahme an Ausbildungsveranstaltungen
+der Schule und für die Teilnahme an Prüfungen freizustellen. Die
 Einrichtungen der praktischen Ausbildung haben auch bei der Gestaltung
 der praktischen Ausbildung auf die erforderlichen Lernzeiten und
 Vorbereitungszeiten Rücksicht zu nehmen.
 
-(4) Die Einrichtungen der praktischen Ausbildung dürfen der oder dem
-Auszubildenden nur Aufgaben übertragen, die dem Ausbildungsziel und
-ihrem oder seinem Ausbildungsstand entsprechen. Die übertragenen
+(4) Die Einrichtungen der praktischen Ausbildung dürfen der oder
+dem Auszubildenden nur Aufgaben übertragen, die dem Ausbildungsziel
+und ihrem oder seinem Ausbildungsstand entsprechen. Die übertragenen
 Aufgaben sollen den physischen und psychischen Kräften der oder des
 Auszubildenden angemessen sein.
 
@@ -721,31 +602,24 @@ durch die zuständige Behörde.
     und eine abgeschlossene Hochschulausbildung mindestens auf
     Masterniveau oder auf einem vergleichbarem Niveau verfügt,
 
-
 2.  sie über ein Verhältnis von hauptberuflichen Lehrkräften für den
     theoretischen und den praktischen Unterricht von mindestens einer
     Vollzeitstelle zu 20 Ausbildungsplätzen verfügt,
-
 
 3.  ihre hauptamtlichen Lehrkräfte fachlich in den Bereichen
     Anästhesietechnik oder Operationstechnik qualifiziert sind und über
     eine abgeschlossene Hochschulausbildung im Bereich Pädagogik verfügen,
 
-
 4.  bei ihr die für die Ausbildung erforderlichen Räume und Einrichtungen
     sowie ausreichende Lehrmittel und Lernmittel vorhanden sind und
-
 
 5.  die Durchführung der praktischen Ausbildung in geeigneten
     Krankenhäusern und Einrichtungen sichergestellt ist.
 
-
-
-
 (4) Die Länder können durch Landesrecht das Nähere zu den
 Anforderungen der Anerkennung bestimmen und darüber hinausgehende
-Anforderungen festlegen. Für die Lehrkräfte des theoretischen und des
-praktischen Unterrichts können sie regeln, dass die geforderte
+Anforderungen festlegen. Für die Lehrkräfte des theoretischen und
+des praktischen Unterrichts können sie regeln, dass die geforderte
 Hochschulausbildung auf bestimmte Hochschularten und Studiengänge
 beschränkt wird.
 
@@ -753,9 +627,9 @@ beschränkt wird.
 #### § 23 Verkürzung der Ausbildungsdauer durch Anrechnung gleichwertiger Ausbildungen
 
 (1) Die zuständige Behörde kann auf Antrag eine erfolgreich
-abgeschlossene Ausbildung oder erfolgreich abgeschlossene Teile einer
-Ausbildung im Umfang ihrer Gleichwertigkeit auf die Dauer der
-Ausbildung zur Anästhesietechnischen Assistentin und zum
+abgeschlossene Ausbildung oder erfolgreich abgeschlossene Teile
+einer Ausbildung im Umfang ihrer Gleichwertigkeit auf die Dauer
+der Ausbildung zur Anästhesietechnischen Assistentin und zum
 Anästhesietechnischen Assistenten oder auf die Ausbildung zur
 Operationstechnischen Assistentin und zum Operationstechnischen
 Assistenten anrechnen.
@@ -767,10 +641,10 @@ einer anderen Ausbildung vorzulegen.
 
 (3) Die Anrechnung darf nur in dem Umfang erfolgen, dass mindestens
 ein Drittel der Dauer der Ausbildung zur Anästhesietechnischen
-Assistentin und zum Anästhesietechnischen Assistenten oder der
-Ausbildung zur Operationstechnischen Assistentin und zum
-Operationstechnischen Assistenten absolviert werden muss. Durch die
-Anrechnung darf nicht gefährdet werden, dass die oder der
+Assistentin und zum Anästhesietechnischen Assistenten oder
+der Ausbildung zur Operationstechnischen Assistentin und zum
+Operationstechnischen Assistenten absolviert werden muss. Durch
+die Anrechnung darf nicht gefährdet werden, dass die oder der
 Auszubildende das Ausbildungsziel erreicht.
 
 (4) In jedem Fall verkürzt sich um die Hälfte
@@ -782,13 +656,8 @@ Auszubildende das Ausbildungsziel erreicht.
 
     a)  nach diesem Gesetz oder
 
-
     b)  nach einer der in § 69 Absatz 1 Nummer 1 bis 4 genannten Vorschriften
         und
-
-
-
-
 
 2.  die Zeit für die Ausbildung zur Operationstechnischen Assistentin oder
     zum Operationstechnischen Assistenten bei Personen, die die Ausbildung
@@ -797,14 +666,7 @@ Auszubildende das Ausbildungsziel erreicht.
 
     a)  nach diesem Gesetz oder
 
-
     b)  nach einer der in § 69 Absatz 1 Nummer 1 bis 4 genannten Vorschriften.
-
-
-
-
-
-
 
 
 #### § 24 Verlängerung der Ausbildungsdauer
@@ -818,8 +680,8 @@ erforderlich ist, um das Ausbildungsziel zu erreichen. Die
 Ausbildungsdauer darf jedoch fünf Jahre nicht überschreiten.
 
 (3) Über die Genehmigung entscheidet die zuständige Behörde des
-Landes, in dem die Ausbildung durchgeführt wird oder entsprechend dem
-Antrag durchgeführt werden soll, in Abstimmung mit der
+Landes, in dem die Ausbildung durchgeführt wird oder entsprechend
+dem Antrag durchgeführt werden soll, in Abstimmung mit der
 verantwortlichen Einrichtung der praktischen Ausbildung und der
 Schule.
 
@@ -834,23 +696,15 @@ anzuhören.
 
 1.  Urlaub, einschließlich Bildungsurlaub, und Ferien,
 
-
 2.  Fehlzeiten wegen Krankheit oder aus anderen Gründen, die die oder der
     Auszubildende nicht zu vertreten hat,
 
     a)  bis zu 10 Prozent des theoretischen und des praktischen Unterrichts
         und
 
-
     b)  bis zu 10 Prozent der Stunden der praktischen Ausbildung sowie
 
-
-
-
-
 3.  Fehlzeiten aufgrund mutterschutzrechtlicher Beschäftigungsverbote.
-
-
 
 Die Unterbrechung der Ausbildung wegen Fehlzeiten aufgrund
 mutterschutzrechtlicher Beschäftigungsverbote und Fehlzeiten wegen
@@ -865,12 +719,8 @@ angerechnet werden. Die Anrechnung hat zu erfolgen, wenn
 
 1.  eine besondere Härte vorliegt und
 
-
 2.  bei der oder dem Auszubildenden das Erreichen des Ausbildungsziels
     durch die Anrechnung nicht gefährdet wird.
-
-
-
 
 (3) Über die Anrechnung von Fehlzeiten entscheidet die zuständige
 Behörde.
@@ -878,8 +728,8 @@ Behörde.
 (4) Ist eine Anrechnung der Fehlzeiten nicht möglich, kann die
 Ausbildung nach § 24 verlängert werden.
 
-(5) Freistellungsansprüche nach dem Betriebsverfassungsgesetz, dem
-Bundespersonalvertretungsgesetz oder den
+(5) Freistellungsansprüche nach dem Betriebsverfassungsgesetz,
+dem Bundespersonalvertretungsgesetz oder den
 Landespersonalvertretungsgesetzen bleiben unberührt.
 
 
@@ -898,68 +748,58 @@ Form kann nicht durch die elektronische Form ersetzt werden.
 1.  die Bezeichnung des Berufs, zu dem nach den Vorschriften dieses
     Gesetzes ausgebildet wird,
 
-
 2.  den Beginn und die Dauer der Ausbildung,
-
 
 3.  den Ausbildungsplan für die praktische Ausbildung,
 
-
 4.  die Dauer der regelmäßigen täglichen oder wöchentlichen Arbeitszeit,
-
 
 5.  die Höhe der Ausbildungsvergütung einschließlich des Umfangs etwaiger
     Sachbezüge nach § 30,
 
-
 6.  die Modalitäten zur Zahlung der Ausbildungsvergütung und
 
-
 7.  die Dauer des Urlaubs.
-
-
-
 
 (3) Des Weiteren sollen folgende Angaben, Informationen und Hinweise
 im Vertrag enthalten sein oder dem Vertrag beigefügt werden:
 
 1.  die Dauer der Probezeit,
 
-
 2.  Angaben über die der Ausbildung zugrunde liegende Ausbildungs- und
     Prüfungsverordnung nach § 66,
-
 
 3.  Angaben zu den Voraussetzungen, unter denen der Ausbildungsvertrag
     gekündigt werden kann, sowie
 
-
 4.  Hinweise auf die dem Ausbildungsvertrag zugrunde liegenden tariflichen
     Bestimmungen, Betriebs- oder Dienstvereinbarungen sowie auf die Rechte
-    als Arbeitnehmer im Sinne von § 5 des Betriebsverfassungsgesetzes oder
-    von § 4 des Bundespersonalvertretungsgesetzes der Einrichtung der
+    als Arbeitnehmer im Sinne von § 5 des Betriebsverfassungsgesetzes
+    oder von § 4 des Bundespersonalvertretungsgesetzes der Einrichtung der
     praktischen Ausbildung.
-
-
-
 
 (4) Der Ausbildungsvertrag ist bei Minderjährigen gemeinsam von den
 Minderjährigen und deren gesetzlichen Vertretern zu schließen.
 
 (5) Eine Vertragsurkunde ist der oder dem Auszubildenden
-auszuhändigen. Ist die oder der Auszubildende noch minderjährig, so
-ist auch ihren oder seinen gesetzlichen Vertretern eine
+auszuhändigen. Ist die oder der Auszubildende noch minderjährig,
+so ist auch ihren oder seinen gesetzlichen Vertretern eine
 Vertragsurkunde auszuhändigen.
 
-(6) Ist die Schule Ausbildungsträger, wird der Ausbildungsvertrag nur
-wirksam, wenn die verantwortliche Einrichtung der praktischen
+(6) Ist die Schule Ausbildungsträger, wird der Ausbildungsvertrag
+nur wirksam, wenn die verantwortliche Einrichtung der praktischen
 Ausbildung dem Ausbildungsvertrag zustimmt. Ist die verantwortliche
-Einrichtung der praktischen Ausbildung Ausbildungsträger, wird der
-Ausbildungsvertrag nur wirksam, wenn die Schule dem Ausbildungsvertrag
-zustimmt. Ist ein Dritter Ausbildungsträger, wird der
-Ausbildungsvertrag nur wirksam, wenn die Schule und die
-verantwortliche Einrichtung der praktischen Ausbildung dem
+Einrichtung der praktischen Ausbildung Ausbildungsträger,
+wird der Ausbildungsvertrag nur wirksam, wenn die Schule dem
+Ausbildungsvertrag zustimmt. Ist ein Dritter Ausbildungsträger,
+wird der Ausbildungsvertrag nur wirksam, wenn die Schule und
+die verantwortliche Einrichtung der praktischen Ausbildung dem
 Ausbildungsvertrag zustimmen.
+
+(7) Auf den Ausbildungsvertrag sind, soweit sich aus seinem Wesen
+und Zweck sowie aus diesem Gesetz nichts anderes ergibt, die für
+den Arbeitsvertrag geltenden Rechtsvorschriften und Rechtsgrundsätze
+anzuwenden.
 
 
 #### § 27 Pflichten des Ausbildungsträgers
@@ -989,24 +829,17 @@ Ausbildungsziel zu erreichen.
 1.  an den vorgeschriebenen Ausbildungsveranstaltungen der Schule
     teilzunehmen,
 
-
 2.  die Aufgaben, die ihr oder ihm im Rahmen der Ausbildung übertragen
     werden, sorgfältig auszuführen,
 
-
 3.  die Rechte der Patientinnen und Patienten zu wahren und ihre
     Selbstbestimmung zu achten,
-
 
 4.  die Bestimmungen über die Schweigepflicht, die für Beschäftigte in
     Einrichtungen der praktischen Ausbildung gelten, einzuhalten und über
     Betriebsgeheimnisse Stillschweigen zu bewahren und
 
-
 5.  einen schriftlichen Ausbildungsnachweis zu führen.
-
-
-
 
 
 #### § 29 Ausbildungsvergütung
@@ -1020,39 +853,26 @@ angemessene monatliche Ausbildungsvergütung zu gewähren.
 
     a)  am theoretischen und praktischen Unterricht,
 
-
     b)  an Prüfungen und
-
 
     c)  an Ausbildungsmaßnahmen, die außerhalb der Ausbildungsstätte
         durchgeführt werden, oder
-
-
-
-
 
 2.  bis zur Dauer von sechs Wochen, wenn
 
     a)  Bestandteile der Ausbildung, für die die oder der Auszubildende sich
         bereitgehalten hat, nicht durchgeführt werden oder
 
-
     b)  die oder der Auszubildende ihre oder seine Pflichten aus dem
         Ausbildungsverhältnis nicht erfüllen kann aus Gründen, die er oder sie
         nicht zu verschulden hat.
 
 
-
-
-
-
-
-
 #### § 30 Sachbezüge
 
 (1) Auf die Ausbildungsvergütung können Sachbezüge angerechnet werden.
-Maßgeblich für die Bestimmung der Werte der Sachbezüge sind die Werte,
-die in der Verordnung über die sozialversicherungsrechtliche
+Maßgeblich für die Bestimmung der Werte der Sachbezüge sind die
+Werte, die in der Verordnung über die sozialversicherungsrechtliche
 Beurteilung von Zuwendungen des Arbeitgebers als Arbeitsentgelt in der
 jeweils geltenden Fassung bestimmt sind.
 
@@ -1092,11 +912,8 @@ oder er
 
 1.  die staatliche Prüfung nicht bestanden hat oder
 
-
 2.  ohne eigenes Verschulden die staatliche Prüfung nicht vor Ablauf der
     Ausbildungszeit ablegen kann.
-
-
 
 Die Ausbildungszeit verlängert sich bis zur nächstmöglichen
 Durchführung der staatlichen Prüfung, höchstens jedoch um ein Jahr.
@@ -1116,15 +933,11 @@ werden, wenn
     oder macht, aus dem sich die Unzuverlässigkeit zur Absolvierung der
     Ausbildung ergibt,
 
-
 2.  die oder der Auszubildende in gesundheitlicher Hinsicht dauerhaft
     nicht oder nicht mehr zur Absolvierung der Ausbildung geeignet ist
     oder
 
-
 3.  ein sonstiger wichtiger Grund vorliegt.
-
-
 
 In diesen Fällen ist die Kündigung zu begründen.
 
@@ -1134,10 +947,10 @@ des Kündigungsgrundes kündigen.
 
 (4) Die Kündigung muss schriftlich erfolgen.
 
-(5) Eine Kündigung aus einem sonstigen wichtigen Grund ist unwirksam,
-wenn die Tatsachen, die der Kündigung zugrunde liegen, der
-kündigungsberechtigten Person länger als 14 Tage bekannt sind. Ist ein
-vorgesehenes Güteverfahren vor einer außergerichtlichen Stelle
+(5) Eine Kündigung aus einem sonstigen wichtigen Grund ist
+unwirksam, wenn die Tatsachen, die der Kündigung zugrunde liegen, der
+kündigungsberechtigten Person länger als 14 Tage bekannt sind. Ist
+ein vorgesehenes Güteverfahren vor einer außergerichtlichen Stelle
 eingeleitet, so wird bis zu dessen Beendigung der Lauf der Frist nach
 Satz 1 gehemmt.
 
@@ -1160,33 +973,26 @@ von den §§ 26 bis 35 abweicht, ist nichtig.
 1.  die Verpflichtung der oder des Auszubildenden, für die Ausbildung eine
     Entschädigung oder Schulgeld zu zahlen,
 
-
 2.  Gebühren für Prüfungen,
-
 
 3.  Vertragsstrafen,
 
-
 4.  den Ausschluss oder die Beschränkung von Schadensersatzansprüchen und
-
 
 5.  die Festsetzung der Höhe eines Schadensersatzes in Pauschalbeträgen.
 
-
-
-
-(3) Nichtig ist zudem eine Vereinbarung, die die Auszubildende oder
-den Auszubildenden für die Zeit nach der Beendigung des
+(3) Nichtig ist zudem eine Vereinbarung, die die Auszubildende
+oder den Auszubildenden für die Zeit nach der Beendigung des
 Ausbildungsverhältnisses in der Ausübung ihrer oder seiner beruflichen
-Tätigkeit beschränkt. Wirksam ist eine innerhalb der letzten sechs
-Monate des Ausbildungsverhältnisses getroffene Vereinbarung darüber,
-dass die oder der Auszubildende nach Beendigung des
+Tätigkeit beschränkt. Wirksam ist eine innerhalb der letzten
+sechs Monate des Ausbildungsverhältnisses getroffene Vereinbarung
+darüber, dass die oder der Auszubildende nach Beendigung des
 Ausbildungsverhältnisses ein Arbeitsverhältnis eingeht.
 
 
 #### § 37 Ausnahmeregelung für Mitglieder geistlicher Gemeinschaften
 
-Die §§ 26 bis 36 finden keine Anwendung auf Auszubildende, die
+Die §§ 26 bis 36 finden keine Anwendung auf Auszubildende, die
 Diakonissen, Diakonieschwestern oder Mitglieder geistlicher
 Gemeinschaften sind.
 
@@ -1202,12 +1008,8 @@ Berufsqualifikation wird anerkannt, wenn
 1.  sie mit der in diesem Gesetz geregelten Ausbildung gleichwertig ist
     oder
 
-
 2.  die antragstellende Person die erforderliche Anpassungsmaßnahme
     erfolgreich absolviert hat.
-
-
-
 
 (2) Die Überprüfung der Gleichwertigkeit der Berufsqualifikation
 erfolgt auf der Grundlage der eingereichten Ausbildungsnachweise und
@@ -1236,8 +1038,8 @@ Das Berufsqualifikationsfeststellungsgesetz findet mit Ausnahme des §
 Europäischen Union. Andere Mitgliedstaaten sind alle Mitgliedstaaten
 außer der Bundesrepublik Deutschland.
 
-(2) Vertragsstaat im Sinne dieses Gesetzes ist ein Vertragsstaat des
-Abkommens über den Europäischen Wirtschaftsraum. Andere
+(2) Vertragsstaat im Sinne dieses Gesetzes ist ein Vertragsstaat
+des Abkommens über den Europäischen Wirtschaftsraum. Andere
 Vertragsstaaten sind alle Vertragsstaaten außer der Bundesrepublik
 Deutschland.
 
@@ -1255,33 +1057,31 @@ erworben worden ist.
 (6) Aufnahmestaat ist der andere Mitgliedstaat, der andere
 Vertragsstaat oder der gleichgestellte Staat, in dem eine
 Anästhesietechnische Assistentin oder ein Anästhesietechnischer
-Assistent oder eine Operationstechnische Assistentin oder ein
-Operationstechnischer Assistent niedergelassen ist oder
+Assistent oder eine Operationstechnische Assistentin oder
+ein Operationstechnischer Assistent niedergelassen ist oder
 Dienstleistungen erbringt.
 
 
 ### § 41 Ausbildungsnachweise bei Berufsqualifikationen, die in einem anderen Mitgliedstaat, in einem anderen Vertragsstaat oder in einem gleichgestellten Staat abgeschlossen worden sind
 
 (1) Bei einer Berufsqualifikation, die in einem anderen Mitgliedstaat,
-in einem anderen Vertragsstaat oder in einem gleichgestellten Staat
-abgeschlossen worden ist, soll die Überprüfung der Gleichwertigkeit
-der Berufsqualifikation nur aufgrund der folgenden
+in einem anderen Vertragsstaat oder in einem gleichgestellten
+Staat abgeschlossen worden ist, soll die Überprüfung der
+Gleichwertigkeit der Berufsqualifikation nur aufgrund der folgenden
 Ausbildungsnachweise erfolgen:
 
 1.  Europäischer Berufsausweis, aus dem hervorgeht, dass die
-    antragstellende Person eine Berufsqualifikation erworben hat, die in
-    diesem Staat erforderlich ist für den unmittelbaren Zugang zu einem
-    Beruf, der dem Beruf der Anästhesietechnischen Assistentin und des
-    Anästhesietechnischen Assistenten oder dem Beruf der
+    antragstellende Person eine Berufsqualifikation erworben hat, die
+    in diesem Staat erforderlich ist für den unmittelbaren Zugang zu
+    einem Beruf, der dem Beruf der Anästhesietechnischen Assistentin
+    und des Anästhesietechnischen Assistenten oder dem Beruf der
     Operationstechnischen Assistentin und des Operationstechnischen
     Assistenten entspricht,
 
-
 2.  Europäischer Berufsausweis für den Beruf der Anästhesietechnischen
-    Assistentin und des Anästhesietechnischen Assistenten oder für den
-    Beruf der Operationstechnischen Assistentin und des
+    Assistentin und des Anästhesietechnischen Assistenten oder
+    für den Beruf der Operationstechnischen Assistentin und des
     Operationstechnischen Assistenten,
-
 
 3.  ein Ausbildungsnachweis,
 
@@ -1294,27 +1094,19 @@ Ausbildungsnachweise erfolgen:
         (ABl. L 104 vom 15.4.2019, S. 1) geändert worden ist, in der jeweils
         geltenden Fassung, und
 
-
-    b)  aus dem hervorgeht, dass die antragstellende Person eine Ausbildung
-        erworben hat, die in diesem Staat erforderlich ist für den
-        unmittelbaren Zugang zu einem Beruf, der dem Beruf der
+    b)  aus dem hervorgeht, dass die antragstellende Person eine
+        Ausbildung erworben hat, die in diesem Staat erforderlich ist
+        für den unmittelbaren Zugang zu einem Beruf, der dem Beruf der
         Anästhesietechnischen Assistentin und des Anästhesietechnischen
         Assistenten oder dem Beruf der Operationstechnischen Assistentin und
         des Operationstechnischen Assistenten entspricht, oder
 
-
-
-
-
-4.  ein Diplom, aus dem hervorgeht, dass die antragstellende Person eine
-    Ausbildung erworben hat, die in diesem Staat erforderlich ist für den
-    unmittelbaren Zugang zu einem Beruf, der dem Beruf der
+4.  ein Diplom, aus dem hervorgeht, dass die antragstellende Person
+    eine Ausbildung erworben hat, die in diesem Staat erforderlich
+    ist für den unmittelbaren Zugang zu einem Beruf, der dem Beruf der
     Anästhesietechnischen Assistentin und des Anästhesietechnischen
     Assistenten oder dem Beruf der Operationstechnischen Assistentin und
     des Operationstechnischen Assistenten entspricht.
-
-
-
 
 (2) Diplome im Sinne dieses Gesetzes sind Ausbildungsnachweise nach
 Artikel 3 Absatz 1 Buchstabe c der Richtlinie 2005/36/EG in der
@@ -1334,9 +1126,7 @@ beigefügt ist.
         Staat auf Vollzeitbasis oder Teilzeitbasis im Rahmen formaler oder
         nichtformaler Ausbildungsprogramme erworben worden sind,
 
-
     b)  von diesem Herkunftsstaat als gleichwertig anerkannt worden sind,
-
 
     c)  in Bezug auf die Aufnahme oder Ausübung des Berufs der
         Anästhesietechnischen Assistentin und des Anästhesietechnischen
@@ -1344,36 +1134,25 @@ beigefügt ist.
         des Operationstechnischen Assistenten dieselben Rechte verleihen oder
         auf die Ausübung dieses Berufs vorbereiten und
 
-
-
-
-
 2.  Berufsqualifikationen, die zwar nicht den Erfordernissen der Rechts-
-    oder Verwaltungsvorschriften des Herkunftsstaats für die Aufnahme oder
-    Ausübung des Berufs der Anästhesietechnischen Assistentin und des
-    Anästhesietechnischen Assistenten oder des Berufs der
+    oder Verwaltungsvorschriften des Herkunftsstaats für die Aufnahme
+    oder Ausübung des Berufs der Anästhesietechnischen Assistentin
+    und des Anästhesietechnischen Assistenten oder des Berufs der
     Operationstechnischen Assistentin und des Operationstechnischen
     Assistenten entsprechen, ihrer Inhaberin oder ihrem Inhaber jedoch
     Rechte verleihen, die nach dem Recht des Herkunftsstaats erworben
     worden sind.
 
 
-
-
-
 ### § 42 Ausbildungsnachweise bei Ausbildungen, die in einem Drittstaat abgeschlossen worden sind
 
-(1) Bei einer Berufsqualifikation, die in einem Drittstaat, der kein
-gleichgestellter Staat ist, abgeschlossen worden ist, sind die
+(1) Bei einer Berufsqualifikation, die in einem Drittstaat, der
+kein gleichgestellter Staat ist, abgeschlossen worden ist, sind die
 Ausbildungsnachweise vorzulegen, die
 
 1.  in dem Drittstaat ausgestellt worden sind und
 
-
 2.  mit angemessenem Aufwand beizubringen sind.
-
-
-
 
 (2) In Ausnahmefällen kann der Abschluss der Berufsqualifikation auch
 auf andere Art und Weise glaubhaft gemacht werden.
@@ -1397,41 +1176,33 @@ oder zum Operationstechnischen Assistenten, wenn
     Abschnitt 2 und in der Ausbildungs- und Prüfungsverordnung nach § 66
     geregelten Ausbildung oder
 
-
 2.  wesentliche Unterschiede vollständig durch den Nachweis von
     Kenntnissen, Fähigkeiten und Kompetenzen aufgrund von Berufserfahrung
     oder von lebenslangem Lernen ausgeglichen werden.
-
-
-
 
 
 ### § 44 Wesentliche Unterschiede bei der Berufsqualifikation
 
 (1) Wesentliche Unterschiede liegen vor,
 
-1.  wenn in der Berufsqualifikation mindestens ein Themenbereich oder ein
-    berufspraktischer Bestandteil fehlt, der in Deutschland
-    Mindestvoraussetzung für die Ausübung des Berufs der
+1.  wenn in der Berufsqualifikation mindestens ein Themenbereich
+    oder ein berufspraktischer Bestandteil fehlt, der in
+    Deutschland Mindestvoraussetzung für die Ausübung des Berufs der
     Anästhesietechnischen Assistentin oder des Anästhesietechnischen
     Assistenten oder des Berufs der Operationstechnischen Assistentin oder
     des Operationstechnischen Assistenten ist, oder
 
-
-2.  wenn in dem Beruf mindestens eine reglementierte Tätigkeit nicht
-    ausgeübt wird, die in Deutschland Mindestvoraussetzung für die
-    Ausübung des Berufs der Anästhesietechnischen Assistentin oder des
-    Anästhesietechnischen Assistenten oder des Berufs der
+2.  wenn in dem Beruf mindestens eine reglementierte Tätigkeit
+    nicht ausgeübt wird, die in Deutschland Mindestvoraussetzung für
+    die Ausübung des Berufs der Anästhesietechnischen Assistentin
+    oder des Anästhesietechnischen Assistenten oder des Berufs der
     Operationstechnischen Assistentin oder des Operationstechnischen
     Assistenten ist.
 
-
-
-
-(2) Die inhaltlichen wesentlichen Abweichungen nach Absatz 1 müssen
-sich auf Themenbereiche oder berufspraktische Bestandteile beziehen,
-deren Kenntnisse, Fähigkeiten und Kompetenzen eine wesentliche
-Voraussetzung für die Ausübung des jeweiligen Berufs im
+(2) Die inhaltlichen wesentlichen Abweichungen nach Absatz 1
+müssen sich auf Themenbereiche oder berufspraktische Bestandteile
+beziehen, deren Kenntnisse, Fähigkeiten und Kompetenzen eine
+wesentliche Voraussetzung für die Ausübung des jeweiligen Berufs im
 Geltungsbereich dieses Gesetzes sind.
 
 
@@ -1442,16 +1213,12 @@ ausgeglichen werden durch Kenntnisse, Fähigkeiten und Kompetenzen, die
 die antragstellende Person erworben hat
 
 1.  durch Berufserfahrung im Rahmen ihrer tatsächlichen und rechtmäßigen
-    Ausübung des Berufs der Anästhesietechnischen Assistentin oder des
-    Anästhesietechnischen Assistenten oder des Berufs der
+    Ausübung des Berufs der Anästhesietechnischen Assistentin
+    oder des Anästhesietechnischen Assistenten oder des Berufs der
     Operationstechnischen Assistentin oder des Operationstechnischen
     Assistenten in Vollzeit oder Teilzeit oder
 
-
 2.  durch lebenslanges Lernen.
-
-
-
 
 (2) Die Anerkennung der nach Absatz 1 Nummer 2 erworbenen Kenntnisse,
 Fähigkeiten und Kompetenzen setzt voraus, dass sie von einer dafür in
@@ -1486,29 +1253,21 @@ Anpassungslehrgang erforderlich, wenn die antragstellende Person
     Mitgliedstaat, in einem anderen Vertragsstaat oder in einem
     gleichgestellten Staat erworben worden ist, oder
 
-
 2.  eine Berufsqualifikation nachweist, die
 
     a)  in einem Drittstaat, der kein gleichgestellter Staat ist, erworben
         worden ist und
 
-
     b)  bereits in einem anderen Mitgliedstaat, in einem anderen Vertragsstaat
         oder in einem gleichgestellten Staat anerkannt worden ist.
 
-
-
-
-
-
-
-(2) Die antragstellende Person hat das Recht, zwischen dem Ablegen der
-Eignungsprüfung oder dem Absolvieren eines Anpassungslehrgangs zu
-wählen.
+(2) Die antragstellende Person hat das Recht, zwischen dem Ablegen
+der Eignungsprüfung oder dem Absolvieren eines Anpassungslehrgangs
+zu wählen.
 
 (3) Verfügt eine antragstellende Person lediglich über einen
-Ausbildungsnachweis, der dem in Artikel 11 Buchstabe a der Richtlinie
-2005/36/EG genannten Niveau entspricht, so muss sie eine
+Ausbildungsnachweis, der dem in Artikel 11 Buchstabe a der
+Richtlinie 2005/36/EG genannten Niveau entspricht, so muss sie eine
 Eignungsprüfung ablegen.
 
 
@@ -1521,17 +1280,13 @@ Berufsqualifikation nachweist, die
 1.  in einem Drittstaat, der kein gleichgestellter Staat ist, erworben
     worden ist und
 
-
 2.  weder in einem anderen Mitgliedstaat noch in einem anderen
     Vertragsstaat noch in einem gleichgestellten Staat anerkannt worden
     ist.
 
-
-
-
-(2) Die antragstellende Person hat das Recht, zwischen dem Ablegen der
-Kenntnisprüfung oder dem Absolvieren eines Anpassungslehrgangs zu
-wählen.
+(2) Die antragstellende Person hat das Recht, zwischen dem Ablegen
+der Kenntnisprüfung oder dem Absolvieren eines Anpassungslehrgangs
+zu wählen.
 
 (3) Der Anpassungslehrgang schließt mit einer Prüfung ab.
 
@@ -1580,10 +1335,10 @@ Grundlage des § 66 erlassene Ausbildungs- und Prüfungsverordnung.
 
 Eine Staatsangehörige oder ein Staatsangehöriger eines anderen
 Mitgliedstaates, eines anderen Vertragsstaates oder eines
-gleichgestellten Staates darf als dienstleistungserbringende Person im
-Rahmen vorübergehender und gelegentlicher Dienstleistungen im Sinne
-des Artikels 57 des Vertrages über die Arbeitsweise der Europäischen
-Union (ABl. C 326 vom 26.10.2012, S. 47) den Beruf der
+gleichgestellten Staates darf als dienstleistungserbringende Person
+im Rahmen vorübergehender und gelegentlicher Dienstleistungen
+im Sinne des Artikels 57 des Vertrages über die Arbeitsweise der
+Europäischen Union (ABl. C 326 vom 26.10.2012, S. 47) den Beruf der
 Anästhesietechnischen Assistentin oder des Anästhesietechnischen
 Assistenten oder den Beruf der Operationstechnischen Assistentin oder
 des Operationstechnischen Assistenten ausüben, wenn sie oder er zur
@@ -1600,9 +1355,7 @@ zuständigen Behörde vorab schriftlich zu melden.
 
 1.  ein Nachweis der Staatsangehörigkeit,
 
-
 2.  ein Nachweis der Berufsqualifikation,
-
 
 3.  eine Bescheinigung über eine zum Zeitpunkt der Vorlage bestehende
     rechtmäßige Niederlassung in einem anderen Mitgliedstaat, in einem
@@ -1611,36 +1364,23 @@ zuständigen Behörde vorab schriftlich zu melden.
     a)  für die Tätigkeit in einem reglementierten Beruf, der einem in diesem
         Gesetz geregelten Beruf entspricht, oder
 
-
     b)  für die Tätigkeit in einem Beruf, der einem in diesem Gesetz
         geregelten Beruf entspricht und der nicht reglementiert ist, sowie
-        zusätzlich ein Nachweis in beliebiger Form, dass die Tätigkeit in dem
-        Beruf während der vorhergehenden zehn Jahre mindestens ein Jahr lang
-        in einem oder in mehreren Mitgliedstaaten, Vertragsstaaten oder
+        zusätzlich ein Nachweis in beliebiger Form, dass die Tätigkeit in
+        dem Beruf während der vorhergehenden zehn Jahre mindestens ein Jahr
+        lang in einem oder in mehreren Mitgliedstaaten, Vertragsstaaten oder
         gleichgestellten Staaten rechtmäßig ausgeübt worden ist,
-
-
-
-
 
 4.  eine Erklärung, dass die meldende Person über die Kenntnisse der
     deutschen Sprache verfügt, die zur Ausübung des Berufs erforderlich
     sind, und
-
 
 5.  eine Bescheinigung, aus der sich ergibt, dass
 
     a)  die Ausübung dieser Tätigkeit nicht, auch nicht vorübergehend,
         untersagt ist und
 
-
     b)  keine Vorstrafen der meldenden Person vorliegen.
-
-
-
-
-
-
 
 (3) Die erstmalige Meldung ist an die zuständige Behörde des Landes zu
 richten, in dem die Dienstleistung erbracht werden soll.
@@ -1655,7 +1395,6 @@ Zur Dienstleistungserbringung ist nur berechtigt, wer
 1.  über eine zur Dienstleistungserbringung berechtigende
     Berufsqualifikation verfügt,
 
-
 2.  in einem anderen Mitgliedstaat, in einem anderen Vertragsstaat oder in
     einem gleichgestellten Staat rechtmäßig niedergelassen ist und
 
@@ -1664,19 +1403,14 @@ Zur Dienstleistungserbringung ist nur berechtigt, wer
         anderen Mitgliedstaat, in diesem anderen Vertragsstaat oder in dem
         gleichgestellten Staat reglementiert ist oder
 
-
-    b)  die Ausübung des Berufs oder die Ausbildung zu dem Beruf, der dem
-        Beruf, in dem die Dienstleistungserbringung angestrebt wird,
+    b)  die Ausübung des Berufs oder die Ausbildung zu dem Beruf, der
+        dem Beruf, in dem die Dienstleistungserbringung angestrebt wird,
         entspricht, in diesem anderen Mitgliedstaat, in diesem anderen
         Vertragsstaat oder in dem gleichgestellten Staat nicht reglementiert
-        ist und die meldende Person den Beruf während der vorhergehenden zehn
-        Jahre mindestens ein Jahr lang in einem oder in mehreren
+        ist und die meldende Person den Beruf während der vorhergehenden
+        zehn Jahre mindestens ein Jahr lang in einem oder in mehreren
         Mitgliedstaaten, Vertragsstaaten oder gleichgestellten Staaten
         ausgeübt hat,
-
-
-
-
 
 3.  sich nicht eines Verhaltens schuldig gemacht hat, aus dem sich die
     Unzuverlässigkeit zur Ausübung des Berufs der Anästhesietechnischen
@@ -1684,21 +1418,16 @@ Zur Dienstleistungserbringung ist nur berechtigt, wer
     der Operationstechnischen Assistentin oder des Operationstechnischen
     Assistenten ergibt,
 
-
-4.  in gesundheitlicher Hinsicht geeignet ist zur Ausübung des Berufs der
-    Anästhesietechnischen Assistentin oder des Anästhesietechnischen
+4.  in gesundheitlicher Hinsicht geeignet ist zur Ausübung des Berufs
+    der Anästhesietechnischen Assistentin oder des Anästhesietechnischen
     Assistenten oder des Berufs der Operationstechnischen Assistentin oder
     des Operationstechnischen Assistenten und
 
-
-5.  über Kenntnisse der deutschen Sprache verfügt, die zur Ausübung des
-    Berufs der Anästhesietechnischen Assistentin oder des
-    Anästhesietechnischen Assistenten oder des Berufs der
+5.  über Kenntnisse der deutschen Sprache verfügt, die zur
+    Ausübung des Berufs der Anästhesietechnischen Assistentin
+    oder des Anästhesietechnischen Assistenten oder des Berufs der
     Operationstechnischen Assistentin oder des Operationstechnischen
     Assistenten erforderlich sind.
-
-
-
 
 
 #### § 55 Zur Dienstleistungserbringung berechtigende Berufsqualifikation
@@ -1708,46 +1437,37 @@ Berufsqualifikationen:
 
 1.  eine abgeschlossene Ausbildung nach diesem Gesetz oder
 
-
 2.  eine Berufsqualifikation, die
 
     a)  in einem anderen Mitgliedstaat, in einem anderen Vertragsstaat oder in
         einem gleichgestellten Staat erworben worden ist,
 
-
-    b)  in dem Staat, in dem sie erworben worden ist, erforderlich ist für den
-        unmittelbaren Zugang zu einem Beruf, der dem Beruf der
+    b)  in dem Staat, in dem sie erworben worden ist, erforderlich ist
+        für den unmittelbaren Zugang zu einem Beruf, der dem Beruf der
         Anästhesietechnischen Assistentin und des Anästhesietechnischen
         Assistenten oder dem Beruf der Operationstechnischen Assistentin und
         des Operationstechnischen Assistenten entspricht, und
 
-
     c)  entweder nach den §§ 43 bis 45 mit der in diesem Gesetz geregelten
-        Ausbildung gleichwertig ist oder wesentliche Unterschiede nur in einem
-        Umfang aufweist, der nicht zu einer Gefährdung der öffentlichen
+        Ausbildung gleichwertig ist oder wesentliche Unterschiede nur in
+        einem Umfang aufweist, der nicht zu einer Gefährdung der öffentlichen
         Gesundheit führt.
 
-
-
-
-
-
-
 (2) Weist eine Berufsqualifikation wesentliche Unterschiede in einem
-Umfang vor, der zu einer Gefährdung der öffentlichen Gesundheit führt,
-so kann die meldende Person zum Erwerb einer zur Dienstleistung
+Umfang vor, der zu einer Gefährdung der öffentlichen Gesundheit
+führt, so kann die meldende Person zum Erwerb einer zur Dienstleistung
 berechtigenden Berufsqualifikation eine Eignungsprüfung ablegen, die
 sich auf diese wesentlichen Unterschiede erstreckt.
 
 (3) Die meldende Person kann auch dann eine Eignungsprüfung ablegen,
 wenn die Gleichwertigkeit ihrer Berufsqualifikation nur mit einem
-unangemessenen zeitlichen oder sachlichen Aufwand festgestellt werden
-kann, da die die Meldung erstattende Person die erforderlichen
+unangemessenen zeitlichen oder sachlichen Aufwand festgestellt
+werden kann, da die die Meldung erstattende Person die erforderlichen
 Unterlagen oder Nachweise aus Gründen, die sie nicht zu verantworten
 hat, nicht vorlegen kann.
 
-(4) Ist die Eignungsprüfung erfolgreich abgelegt worden, so berechtigt
-die Berufsqualifikation der meldenden Person zur
+(4) Ist die Eignungsprüfung erfolgreich abgelegt worden, so
+berechtigt die Berufsqualifikation der meldenden Person zur
 Dienstleistungserbringung.
 
 
@@ -1755,8 +1475,8 @@ Dienstleistungserbringung.
 
 (1) Die zuständige Behörde überprüft, ob die meldende Person
 berechtigt ist, in Deutschland die Tätigkeit der Anästhesietechnischen
-Assistentin oder des Anästhesietechnischen Assistenten oder die
-Tätigkeit der Operationstechnischen Assistentin oder des
+Assistentin oder des Anästhesietechnischen Assistenten oder
+die Tätigkeit der Operationstechnischen Assistentin oder des
 Operationstechnischen Assistenten als dienstleistungserbringende
 Person vorübergehend und gelegentlich auszuüben.
 
@@ -1767,8 +1487,8 @@ regelmäßige Wiederkehr und Kontinuität der Dienstleistungserbringung
 ein.
 
 (3) Soweit es für die Überprüfung der Gleichwertigkeit der
-Berufsqualifikation erforderlich ist, kann die zuständige Behörde bei
-der zuständigen Behörde des Staates, in dem die meldende Person
+Berufsqualifikation erforderlich ist, kann die zuständige Behörde
+bei der zuständigen Behörde des Staates, in dem die meldende Person
 niedergelassen ist, Informationen über den Ausbildungsgang der
 meldenden Person anfordern.
 
@@ -1798,28 +1518,22 @@ zuständigen Behörde unverzüglich zu melden:
 
 1.  eine Änderung der Staatsangehörigkeit,
 
-
 2.  den Verlust der rechtmäßigen Niederlassung im Beruf der
     Anästhesietechnischen Assistentin oder des Anästhesietechnischen
     Assistenten oder im Beruf der Operationstechnischen Assistentin oder
     des Operationstechnischen Assistenten in einem anderen Mitgliedstaat,
     in einem anderen Vertragsstaat oder in einem gleichgestellten Staat,
 
-
 3.  die Tatsache, dass ihr die Ausübung dieses Berufs untersagt ist, auch
     bei vorübergehender Untersagung,
 
-
 4.  die Tatsache, dass bei ihr eine Vorstrafe vorliegt, oder
-
 
 5.  die Tatsache, dass sie in gesundheitlicher Hinsicht nicht mehr
     geeignet ist zur Ausübung des Berufs der Anästhesietechnischen
     Assistentin oder des Anästhesietechnischen Assistenten oder des Berufs
     der Operationstechnischen Assistentin oder des Operationstechnischen
     Assistenten.
-
-
 
 Die Änderungsmeldung ist der zuständigen Behörde des Landes zu machen,
 in dem die Dienstleistung erbracht wird.
@@ -1841,16 +1555,16 @@ machen, in dem die Dienstleistung erbracht werden soll.
 
 #### § 59 Bescheinigung, die erforderlich ist zur Dienstleistungserbringung in einem anderen Mitgliedstaat, einem anderen Vertragsstaat oder in einem gleichgestellten Staat
 
-(1) Üben deutsche Staatsangehörige oder Staatsangehörige eines anderen
-Mitgliedstaates, eines anderen Vertragsstaates oder eines
+(1) Üben deutsche Staatsangehörige oder Staatsangehörige eines
+anderen Mitgliedstaates, eines anderen Vertragsstaates oder eines
 gleichgestellten Staates den Beruf der Anästhesietechnischen
 Assistentin und des Anästhesietechnischen Assistenten oder den Beruf
 der Operationstechnischen Assistentin und des Operationstechnischen
-Assistenten in Deutschland aufgrund einer Erlaubnis zum Führen der
-Berufsbezeichnung nach § 1 Absatz 1 oder § 2 Absatz 1 aus, so wird
-ihnen auf Antrag eine Bescheinigung von der zuständigen Behörde
-ausgestellt, damit sie die Möglichkeit haben, in einem anderen
-Mitgliedstaat, in einem anderen Vertragsstaat oder in einem
+Assistenten in Deutschland aufgrund einer Erlaubnis zum Führen
+der Berufsbezeichnung nach § 1 Absatz 1 oder § 2 Absatz 1 aus,
+so wird ihnen auf Antrag eine Bescheinigung von der zuständigen
+Behörde ausgestellt, damit sie die Möglichkeit haben, in einem
+anderen Mitgliedstaat, in einem anderen Vertragsstaat oder in einem
 gleichgestellten Staat ihren Beruf als dienstleistungserbringende
 Person im Sinne des Artikels 57 des Vertrages über die Arbeitsweise
 der Europäischen Union vorübergehend und gelegentlich auszuüben.
@@ -1869,23 +1583,14 @@ des Operationstechnischen Assistenten ausübt.
     a)  als Anästhesietechnische Assistentin oder Anästhesietechnischer
         Assistent oder
 
-
     b)  als Operationstechnische Assistentin oder Operationstechnischer
         Assistent,
-
-
-
-
 
 2.  dass der antragstellenden Person die Ausübung dieses Berufs nicht,
     auch nicht vorübergehend, untersagt ist und
 
-
 3.  dass die antragstellende Person über die berufliche Qualifikation
     verfügt, die für die Berufsausübung erforderlich ist.
-
-
-
 
 
 ## Abschnitt 5 - Zuständigkeiten und weitere Aufgaben der Behörden
@@ -1906,19 +1611,15 @@ der Länder wahrgenommen werden:
 1.  Aufgaben im Verfahren der Anerkennung der Gleichwertigkeit von
     Ausbildungen, die im Ausland abgeschlossen worden sind, und
 
-
 2.  Aufgaben bei der Entgegennahme der Meldung zur
-    Dienstleistungserbringung und Aufgaben bei der Überprüfung, ob eine
-    Person in Deutschland berechtigt ist, den Beruf der
+    Dienstleistungserbringung und Aufgaben bei der Überprüfung,
+    ob eine Person in Deutschland berechtigt ist, den Beruf der
     Anästhesietechnischen Assistentin oder des Anästhesietechnischen
     Assistenten oder den Beruf der Operationstechnischen Assistentin oder
     des Operationstechnischen Assistenten als dienstleistungserbringende
     Person im Rahmen vorübergehender und gelegentlicher Dienstleistungen
     im Sinne des Artikels 57 des Vertrages über die Arbeitsweise der
     Europäischen Union auszuüben.
-
-
-
 
 
 ### Unterabschnitt 2 - Weitere Aufgaben
@@ -1936,56 +1637,40 @@ unverzüglich, wenn
 1.  diese Person sich eines Verhaltens schuldig gemacht hat, aus dem sich
     die Unzuverlässigkeit zur Berufsausübung ergibt,
 
-
 2.  bei dieser Person
 
     a)  die Erlaubnis zum Führen der Berufsbezeichnung zurückgenommen worden
         ist,
 
-
     b)  die Erlaubnis zum Führen der Berufsbezeichnung widerrufen worden ist
         oder
 
-
     c)  das Ruhen der Erlaubnis zum Führen der Berufsbezeichnung angeordnet
         worden ist,
-
-
-
-
 
 3.  dieser Person die Ausübung der Tätigkeit der Anästhesietechnischen
     Assistentin oder des Anästhesietechnischen Assistenten oder die
     Ausübung der Tätigkeit der Operationstechnischen Assistentin oder des
     Operationstechnischen Assistenten untersagt worden ist oder
 
-
 4.  in Bezug auf diese Person Tatsachen vorliegen, die eine der in den
     Nummern 1 bis 3 genannten Sanktionen oder Maßnahmen rechtfertigen.
 
-
-
-
-(2) Erhält die zuständige Behörde eines Landes Auskünfte von der
-zuständigen Behörde eines Aufnahmestaates, die sich auf die Ausübung
-des Berufs der Anästhesietechnischen Assistentin und des
-Anästhesietechnischen Assistenten und auf die Ausübung des Berufs der
-Operationstechnischen Assistentin und des Operationstechnischen
+(2) Erhält die zuständige Behörde eines Landes Auskünfte von
+der zuständigen Behörde eines Aufnahmestaates, die sich auf die
+Ausübung des Berufs der Anästhesietechnischen Assistentin und des
+Anästhesietechnischen Assistenten und auf die Ausübung des Berufs
+der Operationstechnischen Assistentin und des Operationstechnischen
 Assistenten im Geltungsbereich dieses Gesetzes auswirken können, so
 hat sie
 
 1.  die Richtigkeit der ihr übermittelten Auskünfte zu überprüfen,
 
-
 2.  zu entscheiden, in welcher Art und in welchem Umfang weitere
     Überprüfungen durchzuführen sind, und
 
-
 3.  die zuständige deutsche Behörde zu unterrichten über die Konsequenzen,
     die aus den ihr übermittelten Auskünften zu ziehen sind.
-
-
-
 
 (3) Das Bundesministerium für Gesundheit benennt nach Mitteilung der
 Länder
@@ -1994,19 +1679,15 @@ Länder
     Richtlinie 2005/36/EG genannten Ausbildungsnachweise und sonstigen
     Unterlagen oder Informationen zuständig sind, sowie
 
-
 2.  die Behörden, die die Anträge annehmen und Entscheidungen treffen
     können, die im Zusammenhang mit der Richtlinie 2005/36/EG stehen.
-
-
-
 
 (4) Das Bundesministerium für Gesundheit unterrichtet die anderen
 Mitgliedstaaten und die Europäische Kommission unverzüglich über die
 Benennung.
 
-(5) Die für die Entscheidungen nach diesem Gesetz zuständigen Behörden
-übermitteln dem Bundesministerium für Gesundheit statistische
+(5) Die für die Entscheidungen nach diesem Gesetz zuständigen
+Behörden übermitteln dem Bundesministerium für Gesundheit statistische
 Aufstellungen über die getroffenen Entscheidungen, die die Europäische
 Kommission für den nach Artikel 60 Absatz 1 der Richtlinie 2005/36/EG
 erforderlichen Bericht benötigt. Das Bundesministerium für Gesundheit
@@ -2023,31 +1704,24 @@ der anderen gleichgestellten Staaten durch eine Warnmitteilung über
 1.  den Widerruf der Erlaubnis zum Führen der Berufsbezeichnung, sofern er
     sofort vollziehbar oder unanfechtbar ist,
 
-
 2.  die Rücknahme der Erlaubnis zum Führen der Berufsbezeichnung, sofern
     sie sofort vollziehbar oder unanfechtbar ist,
-
 
 3.  die Anordnung des Ruhens der Erlaubnis zum Führen der
     Berufsbezeichnung, sofern sie sofort vollziehbar oder unanfechtbar
     ist,
 
-
-4.  das durch gerichtliche Entscheidung getroffene vorläufige Verbot, den
-    Beruf der Anästhesietechnischen Assistentin und des
-    Anästhesietechnischen Assistenten oder den Beruf der
+4.  das durch gerichtliche Entscheidung getroffene vorläufige
+    Verbot, den Beruf der Anästhesietechnischen Assistentin und
+    des Anästhesietechnischen Assistenten oder den Beruf der
     Operationstechnischen Assistentin und des Operationstechnischen
     Assistenten auszuüben, oder
 
-
-5.  das durch unanfechtbare gerichtliche Entscheidung getroffene Verbot,
-    den Beruf der Anästhesietechnischen Assistentin und des
-    Anästhesietechnischen Assistenten oder den Beruf der
+5.  das durch unanfechtbare gerichtliche Entscheidung getroffene
+    Verbot, den Beruf der Anästhesietechnischen Assistentin und
+    des Anästhesietechnischen Assistenten oder den Beruf der
     Operationstechnischen Assistentin und des Operationstechnischen
     Assistenten auszuüben.
-
-
-
 
 (2) Die Warnmitteilung enthält folgende Angaben:
 
@@ -2056,24 +1730,14 @@ der anderen gleichgestellten Staaten durch eine Warnmitteilung über
 
     a)  Namen und Vornamen,
 
-
     b)  Geburtsdatum und
-
 
     c)  Geburtsort,
 
-
-
-
-
 2.  den Beruf der betroffenen Person und
-
 
 3.  Angaben über die Behörde oder das Gericht, die oder das die
     Entscheidung getroffen hat.
-
-
-
 
 (3) Die Warnmitteilung erfolgt unverzüglich, spätestens jedoch drei
 Tage
@@ -2081,11 +1745,7 @@ Tage
 1.  nach Eintritt der Unanfechtbarkeit einer Entscheidung nach Absatz 1
     Nummer 1, 2 oder Nummer 4 oder
 
-
 2.  nach Bekanntgabe einer Entscheidung nach Absatz 1 Nummer 4.
-
-
-
 
 (4) Für die Warnmitteilung ist das Binnenmarkt-Informationssystem zu
 verwenden, das eingerichtet worden ist durch die Verordnung (EU) Nr.
@@ -2096,10 +1756,10 @@ Kommission („IMI-Verordnung“) (ABl. L 316 vom 14.11.2012, S. 1).
 
 (5) Gleichzeitig mit der Warnmitteilung unterrichtet die Behörde, die
 die Warnmitteilung getätigt hat, die betroffene Person schriftlich
-über die Warnmitteilung und deren Inhalt. Der Unterrichtung hat sie
-eine Rechtsbehelfsbelehrung beizufügen. Wird ein Rechtsbehelf gegen
-die Warnmitteilung eingelegt, so ergänzt die Behörde, die die
-Warnmitteilung getätigt hat, die Warnmitteilung um einen
+über die Warnmitteilung und deren Inhalt. Der Unterrichtung hat
+sie eine Rechtsbehelfsbelehrung beizufügen. Wird ein Rechtsbehelf
+gegen die Warnmitteilung eingelegt, so ergänzt die Behörde, die
+die Warnmitteilung getätigt hat, die Warnmitteilung um einen
 entsprechenden Hinweis.
 
 
@@ -2114,10 +1774,10 @@ Entscheidung.
 
 #### § 64 Unterrichtung über gefälschte Berufsqualifikationsnachweise
 
-(1) Wird gerichtlich festgestellt, dass eine Person bei ihrem Antrag
-auf Erteilung der Erlaubnis zum Führen der Berufsbezeichnung oder auf
-Anerkennung der Gleichwertigkeit einer außerhalb des Geltungsbereichs
-dieses Gesetzes abgeschlossenen Ausbildung gefälschte
+(1) Wird gerichtlich festgestellt, dass eine Person bei ihrem
+Antrag auf Erteilung der Erlaubnis zum Führen der Berufsbezeichnung
+oder auf Anerkennung der Gleichwertigkeit einer außerhalb des
+Geltungsbereichs dieses Gesetzes abgeschlossenen Ausbildung gefälschte
 Ausbildungsnachweise vorgelegt hat, so unterrichtet die zuständige
 Behörde die zuständigen Behörden der anderen Mitgliedstaaten, der
 anderen Vertragsstaaten und der gleichgestellten Staaten über
@@ -2126,21 +1786,12 @@ anderen Vertragsstaaten und der gleichgestellten Staaten über
 
     a)  Namen und Vornamen,
 
-
     b)  Geburtsdatum und
-
 
     c)  Geburtsort und
 
-
-
-
-
 2.  den Umstand, dass diese Person gefälschte Ausbildungsnachweise
     vorgelegt hat.
-
-
-
 
 (2) Für die Unterrichtung über die Fälschung ist das Binnenmarkt-
 Informationssystem zu verwenden.
@@ -2149,9 +1800,9 @@ Informationssystem zu verwenden.
 spätestens jedoch drei Tage nach Unanfechtbarkeit der Feststellung.
 
 (4) Gleichzeitig mit der Unterrichtung über die Fälschung unterrichtet
-die Behörde, die die Unterrichtung über die Fälschung vorgenommen hat,
-die betroffene Person schriftlich über die Unterrichtung über die
-Fälschung und deren Inhalt. Der Unterrichtung hat sie eine
+die Behörde, die die Unterrichtung über die Fälschung vorgenommen
+hat, die betroffene Person schriftlich über die Unterrichtung über
+die Fälschung und deren Inhalt. Der Unterrichtung hat sie eine
 Rechtsbehelfsbelehrung beizufügen. Wird ein Rechtsbehelf gegen die
 Unterrichtung über die Fälschung eingelegt, so ergänzt die Stelle, die
 die Unterrichtung über die Fälschung getätigt hat, die Unterrichtung
@@ -2161,28 +1812,24 @@ die Unterrichtung über die Fälschung getätigt hat, die Unterrichtung
 #### § 65 Verwaltungszusammenarbeit bei Dienstleistungserbringung
 
 (1) Übt eine dienstleistungserbringende Person im Geltungsbereich
-dieses Gesetzes den Beruf der Anästhesietechnischen Assistentin oder
-des Anästhesietechnischen Assistenten oder den Beruf der
+dieses Gesetzes den Beruf der Anästhesietechnischen Assistentin
+oder des Anästhesietechnischen Assistenten oder den Beruf der
 Operationstechnischen Assistentin oder des Operationstechnischen
 Assistenten aus oder führt diese Berufsbezeichnung, ohne dass die
 Voraussetzungen dafür vorliegen, so unterrichtet die zuständige
 Behörde unverzüglich die zuständige Behörde des Niederlassungsstaats
 dieser dienstleistungserbringenden Person über den Verstoß.
 
-(2) Die zuständige Behörde ist bei berechtigten Zweifeln an den von
-der dienstleistungsberechtigten Person vorgelegten Dokumenten
+(2) Die zuständige Behörde ist bei berechtigten Zweifeln an den
+von der dienstleistungsberechtigten Person vorgelegten Dokumenten
 berechtigt, von der zuständigen Behörde des Niederlassungsstaats der
 dienstleistenden Person folgende Informationen darüber anzufordern,
 
 1.  ob die Niederlassung der dienstleistungserbringenden Person in diesem
     Staat rechtmäßig ist und
 
-
 2.  ob gegen die dienstleistungserbringende Person berufsbezogene
     disziplinarische oder strafrechtliche Sanktionen vorliegen.
-
-
-
 
 (3) Auf Anforderung der zuständigen Behörden eines anderen
 Mitgliedstaates, eines anderen Vertragsstaates oder eines
@@ -2196,17 +1843,12 @@ Behörde:
     der Operationstechnischen Assistentin und des Operationstechnischen
     Assistenten in Deutschland rechtmäßig ist,
 
-
 2.  alle Informationen über die gute Führung der
     dienstleistungserbringenden Person und
-
 
 3.  Informationen darüber, dass gegen die dienstleistungserbringende
     Person berufsbezogen keine disziplinarischen oder keine
     strafrechtlichen Sanktionen vorliegen.
-
-
-
 
 
 ## Abschnitt 6 - Verordnungsermächtigung
@@ -2214,34 +1856,28 @@ Behörde:
 
 ### § 66 Ermächtigung zum Erlass der Ausbildungs- und Prüfungsverordnung
 
-(1) Das Bundesministerium für Gesundheit wird ermächtigt, im Benehmen
-mit dem Bundesministerium für Bildung und Forschung durch
+(1) Das Bundesministerium für Gesundheit wird ermächtigt, im
+Benehmen mit dem Bundesministerium für Bildung und Forschung durch
 Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, in einer
 Ausbildungs- und Prüfungsverordnung Folgendes zu regeln:
 
-1.  die Mindestanforderungen an die Ausbildungsziele nach den §§ 7 bis 10,
-    einschließlich der Abgrenzung der Ausbildungsinhalte von den
+1.  die Mindestanforderungen an die Ausbildungsziele nach den §§ 7 bis
+    10, einschließlich der Abgrenzung der Ausbildungsinhalte von den
     ärztlichen Tätigkeiten,
-
 
 2.  das Nähere über das Pflegepraktikum nach § 15, das einen Überblick
     über die pflegerische Versorgung von Patientinnen und Patienten vor
     und nach operativen und anästhesiologischen Eingriffen vermittelt,
 
-
 3.  das Nähere über die Qualifikationsanforderungen der Praxisanleitung
     nach § 16,
 
-
 4.  das Nähere über die staatliche Prüfung nach § 21,
-
 
 5.  das Nähere über die Urkunden für die Erlaubnis nach den §§ 1, 2 und 69
     Absatz 2,
 
-
 6.  das Nähere über die Nachprüfung nach § 69 Absatz 3 sowie
-
 
 7.  für Inhaberinnen und Inhaber von außerhalb des Geltungsbereichs dieses
     Gesetzes erworbenen Ausbildungsnachweisen, die eine Erlaubnis nach § 1
@@ -2253,40 +1889,25 @@ Ausbildungs- und Prüfungsverordnung Folgendes zu regeln:
         aa) die Vorlage der von der antragstellenden Person vorzulegenden
             Nachweise und
 
-
         bb) die Ermittlung durch die zuständige Behörde entsprechend Artikel 50
-            Absatz 1 bis 3a in Verbindung mit Anhang VII der Richtlinie
-            2005/36/EG,
-
-
-
-
+            Absatz 1 bis 3a in Verbindung mit Anhang VII der Richtlinie 2005/36/
+            EG,
 
     b)  die Pflicht für Inhaberinnen und Inhabern solcher
         Ausbildungsnachweise, nach Maßgabe des Artikels 52 Absatz 1 der
         Richtlinie 2005/36/EG die in Deutschland geltende Berufsbezeichnung zu
         führen und deren etwaige Abkürzung zu verwenden,
 
-
     c)  die Fristen für die Erteilung der Erlaubnis,
-
 
     d)  das Nähere zur Durchführung und zum Inhalt der Eignungsprüfung, der
         Kenntnisprüfung und des Anpassungslehrgangs,
 
-
     e)  das Verfahren bei der Ausstellung eines Europäischen Berufsausweises
         und
 
-
-
-
-
 8.  das Verfahren und das Nähere zu den Voraussetzungen der
     Dienstleistungserbringung nach Abschnitt 4 Unterabschnitt 1.
-
-
-
 
 (2) Abweichungen durch Landesrecht von den Regelungen des
 Verwaltungsverfahrens in der nach Absatz 1 erlassenen Rechtsverordnung
@@ -2307,16 +1928,11 @@ werden.
     „Anästhesietechnische Assistentin“ oder „Anästhesietechnischer
     Assistent“ führt,
 
-
 2.  ohne Erlaubnis nach § 2 Absatz 1 die Berufsbezeichnung
     „Operationstechnische Assistentin“ oder „Operationstechnischer
     Assistent“ führt oder
 
-
 3.  einer vollziehbaren Anordnung nach § 5 Absatz 1 zuwiderhandelt.
-
-
-
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu dreitausend
 Euro geahndet werden.
@@ -2331,71 +1947,60 @@ Euro geahndet werden.
 erfüllt, wenn als Schulleitung oder als Lehrkräfte Personen eingesetzt
 werden, die am 1. Januar 2022
 
-1.  eine Schule leiten, die entweder Anästhesietechnische oder
-    Operationstechnische Assistenten ausbildet oder die
+1.  eine Schule leiten, die entweder Anästhesietechnische
+    oder Operationstechnische Assistenten ausbildet oder die
     Anästhesietechnische und Operationstechnische Assistenten ausbildet,
-
 
 2.  als Lehrkräfte an einer Schule unterrichten, die entweder
     Anästhesietechnische oder Operationstechnische Assistenten ausbildet
     oder die Anästhesietechnische und Operationstechnische Assistenten
     ausbildet,
 
+3.  über die Qualifikation zur Leitung oder zur Tätigkeit als
+    Lehrkraft an einer Schule, die entweder Anästhesietechnische
+    oder Operationstechnische Assistenten ausbildet oder die
+    Anästhesietechnische und Operationstechnische Assistenten
+    ausbildet, gemäß der „DKG-Empfehlung zur Ausbildung und Prüfung
+    von Operationstechnischen und Anästhesietechnischen Assistentinnen/
+    Assistenten“ in der jeweiligen Fassung verfügen,
 
-3.  über die Qualifikation zur Leitung oder zur Tätigkeit als Lehrkraft an
-    einer Schule, die entweder Anästhesietechnische oder
-    Operationstechnische Assistenten ausbildet oder die
-    Anästhesietechnische und Operationstechnische Assistenten ausbildet,
-    gemäß der „DKG-Empfehlung zur Ausbildung und Prüfung von
-    Operationstechnischen und Anästhesietechnischen
-    Assistentinnen/Assistenten“ in der jeweiligen Fassung verfügen,
+4.  über die Qualifikation zur Leitung oder zur Tätigkeit als Lehrkraft
+    an einer Schule, die Medizinisch-technische Assistenten für den
+    Operationsdienst ausbildet, gemäß der in Thüringen geltenden
+    Schulordnung für die Höhere Berufsfachschule – dreijährige
+    Bildungsgänge – (GVBl. 2005, S. 3) vom 13. Dezember 2004, die zuletzt
+    durch Artikel 16 der Verordnung vom 8. August 2013 (GVBl. S. 208, 238)
+    geändert worden ist, verfügen,
 
-
-4.  über die Qualifikation zur Leitung oder zur Tätigkeit als Lehrkraft an
-    einer Schule, die Medizinisch-
-    technische                    Assistenten für den Operationsdienst
-    ausbildet, gemäß der in Thüringen geltenden Schulordnung für die
-    Höhere Berufsfachschule – dreijährige Bildungsgänge – (GVBl. 2005, S.
-    3) vom 13. Dezember 2004, die zuletzt durch Artikel 16 der Verordnung
-    vom 8. August 2013 (GVBl. S. 208, 238) geändert worden ist, verfügen,
-
-
-5.  über die Qualifikation zur Leitung oder zur Tätigkeit als Lehrkraft an
-    einer Schule, die Operationstechnische Angestellte auf Grundlage der
-    in Schleswig-Holstein geltenden Landesverordnung über die
+5.  über die Qualifikation zur Leitung oder zur Tätigkeit als Lehrkraft
+    an einer Schule, die Operationstechnische Angestellte auf Grundlage
+    der in Schleswig-Holstein geltenden Landesverordnung über die
     Berufsausbildung zur oder zum Operationstechnischen Angestellten vom
     8\. Juni 2004 (GVOBl. S. 190) ausbildet, verfügen,
 
+6.  über die Qualifikation zur Leitung oder zur Tätigkeit als Lehrkraft
+    an einer Schule, die Operationstechnische Assistenten auf Grundlage
+    der in Sachsen-Anhalt geltenden Verordnung über die Ausbildung für die
+    operationstechnische Assistenz vom 15. März 2010, die zuletzt durch
+    Verordnung vom 26. Januar 2015 (GVBl. LSA S. 34) geändert worden ist,
+    ausbildet, verfügen,
 
-6.  über die Qualifikation zur Leitung oder zur Tätigkeit als Lehrkraft an
-    einer Schule, die Operationstechnische Assistenten auf Grundlage der
-    in Sachsen-
-    Anhalt                    geltenden Verordnung über die Ausbildung für
-    die operationstechnische Assistenz vom 15. März 2010, die zuletzt
-    durch Verordnung vom 26. Januar 2015 (GVBl. LSA S. 34) geändert worden
-    ist, ausbildet, verfügen,
-
-
-7.  über die Qualifikation zur Leitung oder zur Tätigkeit als Lehrkraft an
-    einer Schule, die entweder Anästhesietechnische oder
-    Operationstechnische Assistenten ausbildet oder die
+7.  über die Qualifikation zur Leitung oder zur Tätigkeit als
+    Lehrkraft an einer Schule, die entweder Anästhesietechnische
+    oder Operationstechnische Assistenten ausbildet oder die
     Anästhesietechnische und Operationstechnische Assistenten ausbildet,
     nach sonstigen landesrechtlichen Bestimmungen verfügen oder
 
-
-8.  ein berufspädagogisches Studium absolvieren zur Leitung einer Schule
-    oder Lehrkraft an einer Schule, die Anästhesietechnische und
-    Operationstechnische Assistenten ausbildet, und dieses nach
+8.  ein berufspädagogisches Studium absolvieren zur Leitung einer
+    Schule oder Lehrkraft an einer Schule, die Anästhesietechnische
+    und Operationstechnische Assistenten ausbildet, und dieses nach
     Inkrafttreten dieses Gesetzes erfolgreich abschließen.
-
-
-
 
 (2) Die Genehmigung oder Anerkennung einer Schule ist zurückzunehmen,
 wenn die Schule der zuständigen Behörde nicht bis zum 1. Januar 2028
 nachweist, dass sie die in § 22 genannten Voraussetzungen für die
-staatliche Anerkennung erfüllt. Die Voraussetzungen des § 22 Absatz 3
-Nummer 1 und 3 gelten als erfüllt, wenn als Schulleitung oder als
+staatliche Anerkennung erfüllt. Die Voraussetzungen des § 22 Absatz
+3 Nummer 1 und 3 gelten als erfüllt, wenn als Schulleitung oder als
 Lehrkräfte Personen eingesetzt werden, die nach dem 1. Januar 2022
 mindestens drei Jahre lang in der entsprechenden Position tätig
 gewesen sind.
@@ -2410,10 +2015,9 @@ Berufsbezeichnung nach § 1 Absatz 1 oder § 2 Absatz 1:
     „Anästhesietechnische Assistentin“ oder „Anästhesietechnischer
     Assistent“ oder zum Führen der Berufsbezeichnung „Operationstechnische
     Assistentin“ oder „Operationstechnischer Assistent“, die erteilt
-    worden ist auf der Grundlage der „DKG-Empfehlung zur Ausbildung und
-    Prüfung von Operationstechnischen und Anästhesietechnischen
+    worden ist auf der Grundlage der „DKG-Empfehlung zur Ausbildung
+    und Prüfung von Operationstechnischen und Anästhesietechnischen
     Assistentinnen/Assistenten“ in der jeweils geltenden Fassung,
-
 
 2.  die Berechtigung zum Führen der Berufsbezeichnung „Medizinisch-
     technische Assistentin für den Operationsdienst“ oder „Medizinisch-
@@ -2423,24 +2027,19 @@ Berufsbezeichnung nach § 1 Absatz 1 oder § 2 Absatz 1:
     3) vom 13. Dezember 2004, die zuletzt durch Artikel 16 der Verordnung
     vom 8. August 2013 (GVBl. S. 208, 238) geändert worden ist,
 
-
 3.  die Berechtigung zum Führen der Berufsbezeichnung
     „Operationstechnische Angestellte“ oder „Operationstechnischer
-    Angestellter“, die erteilt worden ist auf der Grundlage der in
-    Schleswig-Holstein geltenden Landesverordnung über die
+    Angestellter“, die erteilt worden ist auf der Grundlage der
+    in Schleswig-Holstein geltenden Landesverordnung über die
     Berufsausbildung zur oder zum Operationstechnischen Angestellten vom
     8\. Juni 2004 (GVOBl. S. 190) und
 
-
 4.  die Berechtigung zum Führen der Berufsbezeichnung
     „Operationstechnische Assistentin“ oder „Operationstechnischer
-    Assistent“, die erteilt worden ist auf der Grundlage der in Sachsen-
-    Anhalt geltenden Verordnung über die Ausbildung für die
+    Assistent“, die erteilt worden ist auf der Grundlage der in
+    Sachsen-Anhalt geltenden Verordnung über die Ausbildung für die
     operationstechnische Assistenz vom 15. März 2010, die zuletzt durch
     Verordnung vom 26. Januar 2015 (GVBl. LSA S. 34) geändert worden ist.
-
-
-
 
 (2) Eine Person, die eine der in Absatz 1 genannten Berechtigungen
 besitzt, kann bei der zuständigen Behörde beantragen, dass ihr eine
@@ -2451,33 +2050,25 @@ wenn die antragstellende Person
 1.  sich nicht eines Verhaltens schuldig gemacht hat, aus dem sich die
     Unzuverlässigkeit zur Berufsausübung ergibt,
 
-
 2.  in gesundheitlicher Hinsicht zur Berufsausübung nicht ungeeignet ist
     und
 
-
 3.  über Kenntnisse der deutschen Sprache verfügt, die zur Berufsausübung
     erforderlich sind.
-
-
 
 In diesem Fall sind auf der Erlaubnis zusätzlich anzugeben
 
 1.  die ihr zugrunde liegende Berufsqualifikation nach dem bisherigen
     Recht und
 
-
 2.  das Datum, an dem die ursprüngliche Berechtigung zum Führen der
     Berufsbezeichnung erteilt oder erworben worden ist.
 
-
-
-
-(3) Will eine Person, die nicht nach einer der in Absatz 1 genannten
-Grundlagen ausgebildet ist, die Erlaubnis zum Führen der
-Berufsbezeichnung nach § 1 Absatz 1 oder § 2 Absatz 1 erhalten, so
-muss sie die Nachprüfung nach der auf Grundlage des § 66 erlassenen
-Ausbildungs- und Prüfungsverordnung bestehen. Ist ein
+(3) Will eine Person, die nicht nach einer der in Absatz 1
+genannten Grundlagen ausgebildet ist, die Erlaubnis zum Führen der
+Berufsbezeichnung nach § 1 Absatz 1 oder § 2 Absatz 1 erhalten,
+so muss sie die Nachprüfung nach der auf Grundlage des § 66
+erlassenen Ausbildungs- und Prüfungsverordnung bestehen. Ist ein
 Ausbildungsabschluss von der Deutschen Krankenhausgesellschaft
 anerkannt, so ist die Nachprüfung nicht erforderlich.
 
@@ -2492,15 +2083,10 @@ Absatz 1, wer
 
 1.  die Ausbildung erfolgreich abgeschlossen hat,
 
-
 2.  sich nicht eines Verhaltens schuldig gemacht hat, aus dem sich die
     Unzuverlässigkeit zur Berufsausübung ergibt und
 
-
 3.  in gesundheitlicher Hinsicht zur Berufsausübung nicht ungeeignet ist.
-
-
-
 
 
 ### § 71 Weitergeltung der Berechtigung zum Führen der Berufsbezeichnung und Weiterführung eines begonnenen Anerkennungsverfahrens
@@ -2519,15 +2105,10 @@ Prüfung der Gleichwertigkeit ihrer Ausbildung, das vor dem 1. Januar
     jeweiligen Fassung als gleichwertig anerkannt worden ist oder noch
     anerkannt wird,
 
-
 2.  sie die Kenntnisprüfung erfolgreich abgelegt haben oder noch
     erfolgreich ablegen oder
 
-
 3.  den Anpassungslehrgang absolviert haben oder noch absolvieren.
-
-
-
 
 
 ### § 72 Finanzierung von Ausbildungskosten; Kooperationsvereinbarungen
@@ -2538,11 +2119,8 @@ Krankenhausfinanzierungsgesetzes gelten auch Schulen, die
 
 1.  Ausbildungen nach diesem Gesetz durchführen und
 
-
 2.  mit Krankenhäusern Kooperationsvereinbarungen über die Durchführung
     der praktischen Ausbildung nach diesem Gesetz abgeschlossen haben.
-
-
 
 Kooperationsvereinbarungen nach Satz 1 Nummer 2 bedürfen der
 Schriftform.
@@ -2553,11 +2131,9 @@ insbesondere Folgendes zu enthalten:
 1.  Angaben zur Anzahl der zur Verfügung stehenden Ausbildungsplätze der
     Schule,
 
-
 2.  Angaben zur voraussichtlichen Anzahl an Ausbildungsplätzen, die das
     Krankenhaus bei der Schule pro Ausbildungsgang in Anspruch nehmen
     wird,
-
 
 3.  Angaben zu den Ausbildungskosten der Schule, insbesondere zu
     Personalmitteln, Sachmitteln, Lehr- oder Lernmitteln, Kosten der
@@ -2565,18 +2141,14 @@ insbesondere Folgendes zu enthalten:
     für die Ausbildung nach diesem Gesetz und in dem vereinbarten Umfang
     an Ausbildungsplätzen voraussichtlich anfallen, und
 
-
 4.  Vorgaben zur Weiterleitung der Ausbildungskosten, die für die Schule
-    im krankenhausindividuellen Ausbildungsbudget nach § 17a Absatz 3 Satz
-    1 des Krankenhausfinanzierungsgesetzes enthalten sind, durch das
+    im krankenhausindividuellen Ausbildungsbudget nach § 17a Absatz 3
+    Satz 1 des Krankenhausfinanzierungsgesetzes enthalten sind, durch das
     Krankenhaus an die Schule.
 
-
-
-
 (3) Rechtzeitig vor dem Beginn der Verhandlungen des
-krankenhausindividuellen Ausbildungsbudgets nach § 17a Absatz 3 Satz 1
-des Krankenhausfinanzierungsgesetzes hat die Schule dem Krankenhaus
+krankenhausindividuellen Ausbildungsbudgets nach § 17a Absatz 3 Satz
+1 des Krankenhausfinanzierungsgesetzes hat die Schule dem Krankenhaus
 diejenigen Nachweise und Begründungen vorzulegen, die das Krankenhaus
 für die Geltendmachung der Ausbildungskosten der Schule im Rahmen der
 Verhandlungen benötigt.
@@ -2589,10 +2161,6 @@ zusätzliche Auskünfte zu erteilen, soweit
 1.  das Krankenhaus diese Auskünfte für die Geltendmachung der
     Ausbildungskosten der Schule im Rahmen der Verhandlungen benötigt und
 
-
 2.  der dafür von der Schule zu betreibende Aufwand und der Nutzen für die
     Verhandlungen durch das Krankenhaus nicht außer Verhältnis stehen.
-
-
-
 

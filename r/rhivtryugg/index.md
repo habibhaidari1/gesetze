@@ -1,7 +1,5 @@
 ---
-Title: Gesetz zu dem Vertrag vom 1. Oktober 1971 zwischen der Bundesrepublik Deutschland
-  und der Sozialistischen Föderativen Republik Jugoslawien über die Rechtshilfe in
-  Strafsachen
+Title: Gesetz zu dem Vertrag vom 1. Oktober 1971 zwischen der Bundesrepublik Deutschland und der Sozialistischen Föderativen Republik Jugoslawien über die Rechtshilfe in Strafsachen
 jurabk: RHiVtrYUGG
 layout: default
 origslug: rhivtryugg
@@ -23,8 +21,8 @@ Geändert durch
 
 ## Art 1
 
-Dem in Bonn am 1. Oktober 1971 unterzeichneten Vertrag zwischen der
-Bundesrepublik Deutschland und der Sozialistischen Föderativen
+Dem in Bonn am 1. Oktober 1971 unterzeichneten Vertrag zwischen
+der Bundesrepublik Deutschland und der Sozialistischen Föderativen
 Republik Jugoslawien über die Rechtshilfe in Strafsachen wird
 zugestimmt. Der Vertrag wird nachstehend veröffentlicht.
 
@@ -51,15 +49,15 @@ Vertrages eingeschränkt.
 (1) Rechtshilfeersuchen jugoslawischer Behörden, denen eine
 Zuwiderhandlung zugrunde liegt, die nach deutschem Recht eine
 Ordnungswidrigkeit wäre (Artikel 1 Abs. 2 Buchstabe a des Vertrages),
-werden so behandelt, als ob ihnen nach deutschem Recht eine mit Strafe
-bedrohte Handlung zugrunde läge. Die Bewilligungsbehörde kann der
-Verwaltungsbehörde, die für die Verfolgung der Zuwiderhandlung
+werden so behandelt, als ob ihnen nach deutschem Recht eine mit
+Strafe bedrohte Handlung zugrunde läge. Die Bewilligungsbehörde kann
+der Verwaltungsbehörde, die für die Verfolgung der Zuwiderhandlung
 zuständig wäre, die Vornahme der Rechtshilfehandlung übertragen.
 
 (2) Rechtshilfeersuchen deutscher Verwaltungsbehörden, denen eine
-Ordnungswidrigkeit zugrunde liegt (Artikel 1 Abs. 2 Buchstabe a des
-Vertrages), werden so behandelt, als ob ihnen nach deutschem Recht
-eine mit Strafe bedrohte Handlung zugrunde läge. Die
+Ordnungswidrigkeit zugrunde liegt (Artikel 1 Abs. 2 Buchstabe a
+des Vertrages), werden so behandelt, als ob ihnen nach deutschem
+Recht eine mit Strafe bedrohte Handlung zugrunde läge. Die
 Verwaltungsbehörden legen die Ersuchen der für ihren Bezirk
 zuständigen Strafverfolgungsbehörde vor.
 
@@ -76,11 +74,7 @@ entsprechend anzuwenden, wenn der Betroffene
     ist, oder im Geltungsbereich dieses Gesetzes seinen gewöhnlichen
     Aufenthalt hat, und
 
-
 2.  die zuständige jugoslawische Behörde um die Verfolgung ersucht.
-
-
-
 
 
 ## Art 7

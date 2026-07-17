@@ -16,23 +16,10 @@ Fundstelle
 :   RGBl: 1892, 477
 
 Zuletzt geändert durch
-:   Art. 15 Abs. 23 G v. 4.5.2021 I 882
-
-Änderung durch
-:   Art. 18 G v. 3.6.2021 I 1534 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 10 G v. 7.8.2021 I 3311 (Nr. 51) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 20 G v. 5.7.2021 I 3338 (Nr. 52) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 64 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 21 G v. 23.10.2024 I Nr. 323
 
 
 ## Abschnitt 1 - Errichtung der Gesellschaft
-
 
 
 ### § 1 Zweck; Gründerzahl
@@ -47,17 +34,40 @@ durch eine oder mehrere Personen errichtet werden.
 (1) Der Gesellschaftsvertrag bedarf notarieller Form. Er ist von
 sämtlichen Gesellschaftern zu unterzeichnen.
 
-(1a) Die Gesellschaft kann in einem vereinfachten Verfahren gegründet
-werden, wenn sie höchstens drei Gesellschafter und einen
+(1a) Die Gesellschaft kann in einem vereinfachten Verfahren
+gegründet werden, wenn sie höchstens drei Gesellschafter und einen
 Geschäftsführer hat. Für die Gründung im vereinfachten Verfahren ist
-das in der Anlage bestimmte Musterprotokoll zu verwenden. Darüber
-hinaus dürfen keine vom Gesetz abweichenden Bestimmungen getroffen
-werden. Das Musterprotokoll gilt zugleich als Gesellschafterliste. Im
-Übrigen finden auf das Musterprotokoll die Vorschriften dieses
-Gesetzes über den Gesellschaftsvertrag entsprechende Anwendung.
+das in Anlage 1 bestimmte Musterprotokoll zu verwenden. Darüber hinaus
+dürfen keine vom Gesetz abweichenden Bestimmungen getroffen werden.
+Das Musterprotokoll gilt zugleich als Gesellschafterliste. Im Übrigen
+finden auf das Musterprotokoll die Vorschriften dieses Gesetzes über
+den Gesellschaftsvertrag entsprechende Anwendung.
 
-(2) Die Unterzeichnung durch Bevollmächtigte ist nur auf Grund einer
-notariell errichteten oder beglaubigten Vollmacht zulässig.
+(2) Die Unterzeichnung durch Bevollmächtigte ist nur auf Grund
+einer notariell errichteten oder beglaubigten Vollmacht zulässig.
+Die notarielle Errichtung der Vollmacht kann auch mittels
+Videokommunikation gemäß den §§ 16a bis 16e des Beurkundungsgesetzes
+erfolgen.
+
+(3) Die notarielle Beurkundung des Gesellschaftsvertrags kann
+auch mittels Videokommunikation gemäß den §§ 16a bis 16e des
+Beurkundungsgesetzes erfolgen, sofern andere Formvorschriften
+nicht entgegenstehen; dabei dürfen in den Gesellschaftsvertrag
+auch Verpflichtungen zur Abtretung von Geschäftsanteilen an der
+Gesellschaft aufgenommen werden. Im Fall der Beurkundung mittels
+Videokommunikation genügen abweichend von Absatz 1 Satz 2 für
+die Unterzeichnung die qualifizierten elektronischen Signaturen
+der mittels Videokommunikation an der Beurkundung teilnehmenden
+Gesellschafter. Sonstige Willenserklärungen, welche nicht der
+notariellen Form bedürfen, können mittels Videokommunikation gemäß den
+§§ 16a bis 16e des Beurkundungsgesetzes beurkundet werden; sie müssen
+in die nach Satz 1 errichtete elektronische Niederschrift aufgenommen
+werden. Satz 3 ist auf einstimmig gefasste Beschlüsse entsprechend
+anzuwenden. Die Gründung mittels Videokommunikation kann auch im Wege
+des vereinfachten Verfahrens nach Absatz 1a oder unter Verwendung
+der in Anlage 2 bestimmten Musterprotokolle erfolgen. Bei Verwendung
+der in Anlage 2 bestimmten Musterprotokolle gilt Absatz 1a Satz 3 bis
+5 entsprechend.
 
 
 ### § 3 Inhalt des Gesellschaftsvertrags
@@ -66,24 +76,18 @@ notariell errichteten oder beglaubigten Vollmacht zulässig.
 
 1.  die Firma und den Sitz der Gesellschaft,
 
-
 2.  den Gegenstand des Unternehmens,
 
-
 3.  den Betrag des Stammkapitals,
-
 
 4.  die Zahl und die Nennbeträge der Geschäftsanteile, die jeder
     Gesellschafter gegen Einlage auf das Stammkapital (Stammeinlage)
     übernimmt.
 
-
-
-
 (2) Soll das Unternehmen auf eine gewisse Zeit beschränkt sein oder
-sollen den Gesellschaftern außer der Leistung von Kapitaleinlagen noch
-andere Verpflichtungen gegenüber der Gesellschaft auferlegt werden, so
-bedürfen auch diese Bestimmungen der Aufnahme in den
+sollen den Gesellschaftern außer der Leistung von Kapitaleinlagen
+noch andere Verpflichtungen gegenüber der Gesellschaft auferlegt
+werden, so bedürfen auch diese Bestimmungen der Aufnahme in den
 Gesellschaftsvertrag.
 
 
@@ -93,8 +97,8 @@ Die Firma der Gesellschaft muß, auch wenn sie nach § 22 des
 Handelsgesetzbuchs oder nach anderen gesetzlichen Vorschriften
 fortgeführt wird, die Bezeichnung "Gesellschaft mit beschränkter
 Haftung" oder eine allgemein verständliche Abkürzung dieser
-Bezeichnung enthalten. Verfolgt die Gesellschaft ausschließlich und
-unmittelbar steuerbegünstigte Zwecke nach den §§ 51 bis 68 der
+Bezeichnung enthalten. Verfolgt die Gesellschaft ausschließlich
+und unmittelbar steuerbegünstigte Zwecke nach den §§ 51 bis 68 der
 Abgabenordnung kann die Abkürzung „gGmbH“ lauten.
 
 
@@ -117,10 +121,10 @@ Geschäftsanteile übernehmen.
 verschieden bestimmt werden. Die Summe der Nennbeträge aller
 Geschäftsanteile muss mit dem Stammkapital übereinstimmen.
 
-(4) Sollen Sacheinlagen geleistet werden, so müssen der Gegenstand der
-Sacheinlage und der Nennbetrag des Geschäftsanteils, auf den sich die
-Sacheinlage bezieht, im Gesellschaftsvertrag festgesetzt werden. Die
-Gesellschafter haben in einem Sachgründungsbericht die für die
+(4) Sollen Sacheinlagen geleistet werden, so müssen der Gegenstand
+der Sacheinlage und der Nennbetrag des Geschäftsanteils, auf den sich
+die Sacheinlage bezieht, im Gesellschaftsvertrag festgesetzt werden.
+Die Gesellschafter haben in einem Sachgründungsbericht die für die
 Angemessenheit der Leistungen für Sacheinlagen wesentlichen Umstände
 darzulegen und beim Übergang eines Unternehmens auf die Gesellschaft
 die Jahresergebnisse der beiden letzten Geschäftsjahre anzugeben.
@@ -128,10 +132,10 @@ die Jahresergebnisse der beiden letzten Geschäftsjahre anzugeben.
 
 ### § 5a Unternehmergesellschaft
 
-(1) Eine Gesellschaft, die mit einem Stammkapital gegründet wird, das
-den Betrag des Mindeststammkapitals nach § 5 Abs. 1 unterschreitet,
-muss in der Firma abweichend von § 4 die Bezeichnung
-"Unternehmergesellschaft (haftungsbeschränkt)" oder "UG
+(1) Eine Gesellschaft, die mit einem Stammkapital gegründet
+wird, das den Betrag des Mindeststammkapitals nach § 5 Abs.
+1 unterschreitet, muss in der Firma abweichend von § 4 die
+Bezeichnung "Unternehmergesellschaft (haftungsbeschränkt)" oder "UG
 (haftungsbeschränkt)" führen.
 
 (2) Abweichend von § 7 Abs. 2 darf die Anmeldung erst erfolgen, wenn
@@ -146,16 +150,11 @@ verwandt werden
 
 1.  für Zwecke des § 57c;
 
-
 2.  zum Ausgleich eines Jahresfehlbetrags, soweit er nicht durch einen
     Gewinnvortrag aus dem Vorjahr gedeckt ist;
 
-
 3.  zum Ausgleich eines Verlustvortrags aus dem Vorjahr, soweit er nicht
     durch einen Jahresüberschuss gedeckt ist.
-
-
-
 
 (4) Abweichend von § 49 Abs. 3 muss die Versammlung der Gesellschafter
 bei drohender Zahlungsunfähigkeit unverzüglich einberufen werden.
@@ -174,9 +173,8 @@ finden die Absätze 1 bis 4 keine Anwendung mehr; die Firma nach Absatz
 geschäftsfähige Person sein. Geschäftsführer kann nicht sein, wer
 
 1.  als Betreuter bei der Besorgung seiner Vermögensangelegenheiten ganz
-    oder teilweise einem Einwilligungsvorbehalt (§ 1903 des Bürgerlichen
+    oder teilweise einem Einwilligungsvorbehalt (§ 1825 des Bürgerlichen
     Gesetzbuchs) unterliegt,
-
 
 2.  aufgrund eines gerichtlichen Urteils oder einer vollziehbaren
     Entscheidung einer Verwaltungsbehörde einen Beruf, einen Berufszweig,
@@ -184,44 +182,37 @@ geschäftsfähige Person sein. Geschäftsführer kann nicht sein, wer
     Unternehmensgegenstand ganz oder teilweise mit dem Gegenstand des
     Verbots übereinstimmt,
 
-
 3.  wegen einer oder mehrerer vorsätzlich begangener Straftaten
 
     a)  des Unterlassens der Stellung des Antrags auf Eröffnung des
         Insolvenzverfahrens (Insolvenzverschleppung),
 
-
     b)  nach den §§ 283 bis 283d des Strafgesetzbuchs (Insolvenzstraftaten),
-
 
     c)  der falschen Angaben nach § 82 dieses Gesetzes oder § 399 des
         Aktiengesetzes,
 
-
-    d)  der unrichtigen Darstellung nach § 400 des Aktiengesetzes, § 331 des
-        Handelsgesetzbuchs, § 313 des Umwandlungsgesetzes oder § 17 des
+    d)  der unrichtigen Darstellung nach § 400 des Aktiengesetzes, § 331
+        des Handelsgesetzbuchs, § 346 des Umwandlungsgesetzes oder § 17 des
         Publizitätsgesetzes oder
-
 
     e)  nach den §§ 263 bis 264a oder den §§ 265b bis 266a des
         Strafgesetzbuchs zu einer Freiheitsstrafe von mindestens einem Jahr
 
-
-
-
-    verurteilt worden ist; dieser Ausschluss gilt für die Dauer von fünf
-    Jahren seit der Rechtskraft des Urteils, wobei die Zeit nicht
+    verurteilt worden ist; dieser Ausschluss gilt für die Dauer von
+    fünf Jahren seit der Rechtskraft des Urteils, wobei die Zeit nicht
     eingerechnet wird, in welcher der Täter auf behördliche Anordnung in
     einer Anstalt verwahrt worden ist.
 
+Satz 2 Nummer 2 gilt entsprechend, wenn die Person in einem anderen
+Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat
+des Abkommens über den Europäischen Wirtschaftsraum einem
+vergleichbaren Verbot unterliegt. Satz 2 Nr. 3 gilt entsprechend bei
+einer Verurteilung im Ausland wegen einer Tat, die mit den in Satz 2
+Nr. 3 genannten Taten vergleichbar ist.
 
-
-Satz 2 Nr. 3 gilt entsprechend bei einer Verurteilung im Ausland wegen
-einer Tat, die mit den in Satz 2 Nr. 3 genannten Taten vergleichbar
-ist.
-
-(3) Zu Geschäftsführern können Gesellschafter oder andere Personen
-bestellt werden. Die Bestellung erfolgt entweder im
+(3) Zu Geschäftsführern können Gesellschafter oder andere
+Personen bestellt werden. Die Bestellung erfolgt entweder im
 Gesellschaftsvertrag oder nach Maßgabe der Bestimmungen des dritten
 Abschnitts.
 
@@ -230,8 +221,8 @@ zur Geschäftsführung berechtigt sein sollen, so gelten nur die der
 Gesellschaft bei Festsetzung dieser Bestimmung angehörenden Personen
 als die bestellten Geschäftsführer.
 
-(5) Gesellschafter, die vorsätzlich oder grob fahrlässig einer Person,
-die nicht Geschäftsführer sein kann, die Führung der Geschäfte
+(5) Gesellschafter, die vorsätzlich oder grob fahrlässig einer
+Person, die nicht Geschäftsführer sein kann, die Führung der Geschäfte
 überlassen, haften der Gesellschaft solidarisch für den Schaden, der
 dadurch entsteht, dass diese Person die ihr gegenüber der Gesellschaft
 bestehenden Obliegenheiten verletzt.
@@ -263,40 +254,35 @@ daß sie endgültig zur freien Verfügung der Geschäftsführer stehen.
     der Vertreter, welche den Gesellschaftsvertrag unterzeichnet haben,
     oder eine beglaubigte Abschrift dieser Urkunden,
 
-
 2.  die Legitimation der Geschäftsführer, sofern dieselben nicht im
     Gesellschaftsvertrag bestellt sind,
 
-
-3.  eine von den Anmeldenden unterschriebene Liste der Gesellschafter nach
-    den Vorgaben des § 40,
-
+3.  eine von den Anmeldenden unterschriebene oder mit den qualifizierten
+    elektronischen Signaturen der Anmeldenden versehene Liste der
+    Gesellschafter nach den Vorgaben des § 40,
 
 4.  im Fall des § 5 Abs. 4 die Verträge, die den Festsetzungen zugrunde
     liegen oder zu ihrer Ausführung geschlossen worden sind, und der
     Sachgründungsbericht,
 
-
-5.  wenn Sacheinlagen vereinbart sind, Unterlagen darüber, daß der Wert
-    der Sacheinlagen den Nennbetrag der dafür übernommenen
+5.  wenn Sacheinlagen vereinbart sind, Unterlagen darüber, daß der
+    Wert der Sacheinlagen den Nennbetrag der dafür übernommenen
     Geschäftsanteile erreicht.
-
 
 6.  (weggefallen)
 
-
-
-
-(2) In der Anmeldung ist die Versicherung abzugeben, daß die in § 7
-Abs. 2 und 3 bezeichneten Leistungen auf die Geschäftsanteile bewirkt
-sind und daß der Gegenstand der Leistungen sich endgültig in der
-freien Verfügung der Geschäftsführer befindet. Das Gericht kann bei
-erheblichen Zweifeln an der Richtigkeit der Versicherung Nachweise
-(unter anderem Einzahlungsbelege) verlangen.
+(2) In der Anmeldung ist die Versicherung abzugeben, daß die in
+§ 7 Abs. 2 und 3 bezeichneten Leistungen auf die Geschäftsanteile
+bewirkt sind und daß der Gegenstand der Leistungen sich endgültig
+in der freien Verfügung der Geschäftsführer befindet. Das Gericht
+kann bei erheblichen Zweifeln an der Richtigkeit der Versicherung
+Nachweise wie insbesondere die Vorlage von Einzahlungsbelegen eines
+in der Europäischen Union niedergelassenen Finanzinstituts oder
+Zahlungsdienstleisters verlangen.
 
 (3) In der Anmeldung haben die Geschäftsführer zu versichern, daß
 keine Umstände vorliegen, die ihrer Bestellung nach § 6 Abs. 2 Satz 2
-Nr. 2 und 3 sowie Satz 3 entgegenstehen, und daß sie über ihre
+Nr. 2 und 3 sowie Satz 3 und 4 entgegenstehen, und daß sie über ihre
 unbeschränkte Auskunftspflicht gegenüber dem Gericht belehrt worden
 sind. Die Belehrung nach § 53 Abs. 2 des Bundeszentralregistergesetzes
 kann schriftlich vorgenommen werden; sie kann auch durch einen Notar
@@ -308,11 +294,7 @@ erfolgen.
 
 1.  eine inländische Geschäftsanschrift,
 
-
 2.  Art und Umfang der Vertretungsbefugnis der Geschäftsführer.
-
-
-
 
 (5) Für die Einreichung von Unterlagen nach diesem Gesetz gilt § 12
 Abs. 2 des Handelsgesetzbuchs entsprechend.
@@ -320,27 +302,27 @@ Abs. 2 des Handelsgesetzbuchs entsprechend.
 
 ### § 9 Überbewertung der Sacheinlagen
 
-(1) Erreicht der Wert einer Sacheinlage im Zeitpunkt der Anmeldung der
-Gesellschaft zur Eintragung in das Handelsregister nicht den
-Nennbetrag des dafür übernommenen Geschäftsanteils, hat der
+(1) Erreicht der Wert einer Sacheinlage im Zeitpunkt der Anmeldung
+der Gesellschaft zur Eintragung in das Handelsregister nicht
+den Nennbetrag des dafür übernommenen Geschäftsanteils, hat der
 Gesellschafter in Höhe des Fehlbetrags eine Einlage in Geld zu
 leisten. Sonstige Ansprüche bleiben unberührt.
 
-(2) Der Anspruch der Gesellschaft nach Absatz 1 Satz 1 verjährt in
-zehn Jahren seit der Eintragung der Gesellschaft in das
+(2) Der Anspruch der Gesellschaft nach Absatz 1 Satz 1 verjährt
+in zehn Jahren seit der Eintragung der Gesellschaft in das
 Handelsregister.
 
 
 ### § 9a Ersatzansprüche der Gesellschaft
 
-(1) Werden zum Zweck der Errichtung der Gesellschaft falsche Angaben
-gemacht, so haben die Gesellschafter und Geschäftsführer der
+(1) Werden zum Zweck der Errichtung der Gesellschaft falsche
+Angaben gemacht, so haben die Gesellschafter und Geschäftsführer der
 Gesellschaft als Gesamtschuldner fehlende Einzahlungen zu leisten,
 eine Vergütung, die nicht unter den Gründungsaufwand aufgenommen ist,
 zu ersetzen und für den sonst entstehenden Schaden Ersatz zu leisten.
 
-(2) Wird die Gesellschaft von Gesellschaftern durch Einlagen oder
-Gründungsaufwand vorsätzlich oder aus grober Fahrlässigkeit
+(2) Wird die Gesellschaft von Gesellschaftern durch Einlagen
+oder Gründungsaufwand vorsätzlich oder aus grober Fahrlässigkeit
 geschädigt, so sind ihr alle Gesellschafter als Gesamtschuldner zum
 Ersatz verpflichtet.
 
@@ -363,8 +345,8 @@ ordentlichen Geschäftsmannes kennen mußte.
 ein Vergleich der Gesellschaft über diese Ansprüche ist unwirksam,
 soweit der Ersatz zur Befriedigung der Gläubiger der Gesellschaft
 erforderlich ist. Dies gilt nicht, wenn der Ersatzpflichtige
-zahlungsunfähig ist und sich zur Abwendung des Insolvenzverfahrens mit
-seinen Gläubigern vergleicht oder wenn die Ersatzpflicht in einem
+zahlungsunfähig ist und sich zur Abwendung des Insolvenzverfahrens
+mit seinen Gläubigern vergleicht oder wenn die Ersatzpflicht in einem
 Insolvenzplan geregelt wird.
 
 (2) Ersatzansprüche der Gesellschaft nach § 9a verjähren in fünf
@@ -379,46 +361,41 @@ später begangen worden ist, mit der Vornahme der Handlung.
 so hat das Gericht die Eintragung abzulehnen. Dies gilt auch, wenn
 Sacheinlagen nicht unwesentlich überbewertet worden sind.
 
-(2) Wegen einer mangelhaften, fehlenden oder nichtigen Bestimmung des
-Gesellschaftsvertrages darf das Gericht die Eintragung nach Absatz 1
-nur ablehnen, soweit diese Bestimmung, ihr Fehlen oder ihre
+(2) Wegen einer mangelhaften, fehlenden oder nichtigen Bestimmung
+des Gesellschaftsvertrages darf das Gericht die Eintragung nach
+Absatz 1 nur ablehnen, soweit diese Bestimmung, ihr Fehlen oder ihre
 Nichtigkeit
 
-1.  Tatsachen oder Rechtsverhältnisse betrifft, die nach § 3 Abs. 1 oder
-    auf Grund anderer zwingender gesetzlicher Vorschriften in dem
-    Gesellschaftsvertrag bestimmt sein müssen oder die in das
+1.  Tatsachen oder Rechtsverhältnisse betrifft, die nach § 3 Abs. 1
+    oder auf Grund anderer zwingender gesetzlicher Vorschriften in
+    dem Gesellschaftsvertrag bestimmt sein müssen oder die in das
     Handelsregister einzutragen oder von dem Gericht bekanntzumachen sind,
-
 
 2.  Vorschriften verletzt, die ausschließlich oder überwiegend zum Schutze
     der Gläubiger der Gesellschaft oder sonst im öffentlichen Interesse
     gegeben sind, oder
 
-
 3.  die Nichtigkeit des Gesellschaftsvertrages zur Folge hat.
-
-
-
 
 
 ### § 10 Inhalt der Eintragung
 
-(1) Bei der Eintragung in das Handelsregister sind die Firma und der
-Sitz der Gesellschaft, eine inländische Geschäftsanschrift, der
-Gegenstand des Unternehmens, die Höhe des Stammkapitals, der Tag des
-Abschlusses des Gesellschaftsvertrags und die Personen der
-Geschäftsführer anzugeben. Ferner ist einzutragen, welche
+(1) Bei der Eintragung in das Handelsregister sind die Firma und
+der Sitz der Gesellschaft, eine inländische Geschäftsanschrift,
+der Gegenstand des Unternehmens, die Höhe des Stammkapitals, der
+Tag des Abschlusses des Gesellschaftsvertrags und die Personen
+der Geschäftsführer anzugeben. Ferner ist einzutragen, welche
 Vertretungsbefugnis die Geschäftsführer haben.
 
 (2) Enthält der Gesellschaftsvertrag Bestimmungen über die Zeitdauer
 der Gesellschaft oder über das genehmigte Kapital, so sind auch diese
 Bestimmungen einzutragen. Wenn eine Person, die für Willenserklärungen
-und Zustellungen an die Gesellschaft empfangsberechtigt ist, mit einer
-inländischen Anschrift zur Eintragung in das Handelsregister
+und Zustellungen an die Gesellschaft empfangsberechtigt ist, mit
+einer inländischen Anschrift zur Eintragung in das Handelsregister
 angemeldet wird, sind auch diese Angaben einzutragen; Dritten
-gegenüber gilt die Empfangsberechtigung als fortbestehend, bis sie im
-Handelsregister gelöscht und die Löschung bekannt gemacht worden ist,
-es sei denn, dass die fehlende Empfangsberechtigung dem Dritten
+gegenüber gilt die Empfangsberechtigung als fortbestehend, bis sie
+im Handelsregister gelöscht und die Löschung bekannt gemacht worden
+ist, es sei denn, dass die fehlende Empfangsberechtigung dem Dritten
 bekannt war.
 
 (3) (weggefallen)
@@ -436,15 +413,14 @@ so haften die Handelnden persönlich und solidarisch.
 
 ### § 12 Bekanntmachungen der Gesellschaft
 
-Bestimmt das Gesetz oder der Gesellschaftsvertrag, dass von der
-Gesellschaft etwas bekannt zu machen ist, so erfolgt die
+Bestimmt das Gesetz oder der Gesellschaftsvertrag, dass von
+der Gesellschaft etwas bekannt zu machen ist, so erfolgt die
 Bekanntmachung im Bundesanzeiger (Gesellschaftsblatt). Daneben kann
 der Gesellschaftsvertrag andere öffentliche Blätter oder elektronische
 Informationsmedien als Gesellschaftsblätter bezeichnen.
 
 
 ## Abschnitt 2 - Rechtsverhältnisse der Gesellschaft und der Gesellschafter
-
 
 
 ### § 13 Juristische Person; Handelsgesellschaft
@@ -463,11 +439,11 @@ Handelsgesetzbuchs.
 
 ### § 14 Einlagepflicht
 
-Auf jeden Geschäftsanteil ist eine Einlage zu leisten. Die Höhe der zu
-leistenden Einlage richtet sich nach dem bei der Errichtung der
-Gesellschaft im Gesellschaftsvertrag festgesetzten Nennbetrag des
-Geschäftsanteils. Im Fall der Kapitalerhöhung bestimmt sich die Höhe
-der zu leistenden Einlage nach dem in der Übernahmeerklärung
+Auf jeden Geschäftsanteil ist eine Einlage zu leisten. Die Höhe
+der zu leistenden Einlage richtet sich nach dem bei der Errichtung
+der Gesellschaft im Gesellschaftsvertrag festgesetzten Nennbetrag
+des Geschäftsanteils. Im Fall der Kapitalerhöhung bestimmt sich die
+Höhe der zu leistenden Einlage nach dem in der Übernahmeerklärung
 festgesetzten Nennbetrag des Geschäftsanteils.
 
 
@@ -482,8 +458,8 @@ Selbständigkeit.
 (3) Zur Abtretung von Geschäftsanteilen durch Gesellschafter bedarf es
 eines in notarieller Form geschlossenen Vertrags.
 
-(4) Der notariellen Form bedarf auch eine Vereinbarung, durch welche
-die Verpflichtung eines Gesellschafters zur Abtretung eines
+(4) Der notariellen Form bedarf auch eine Vereinbarung, durch
+welche die Verpflichtung eines Gesellschafters zur Abtretung eines
 Geschäftsanteils begründet wird. Eine ohne diese Form getroffene
 Vereinbarung wird jedoch durch den nach Maßgabe des vorigen Absatzes
 geschlossenen Abtretungsvertrag gültig.
@@ -496,37 +472,36 @@ der Genehmigung der Gesellschaft abhängig gemacht werden.
 ### § 16 Rechtsstellung bei Wechsel der Gesellschafter oder Veränderung des Umfangs ihrer Beteiligung; Erwerb vom Nichtberechtigten
 
 (1) Im Verhältnis zur Gesellschaft gilt im Fall einer Veränderung in
-den Personen der Gesellschafter oder des Umfangs ihrer Beteiligung als
-Inhaber eines Geschäftsanteils nur, wer als solcher in der im
+den Personen der Gesellschafter oder des Umfangs ihrer Beteiligung
+als Inhaber eines Geschäftsanteils nur, wer als solcher in der im
 Handelsregister aufgenommenen Gesellschafterliste (§ 40) eingetragen
 ist. Eine vom Erwerber in Bezug auf das Gesellschaftsverhältnis
-vorgenommene Rechtshandlung gilt als von Anfang an wirksam, wenn die
-Liste unverzüglich nach Vornahme der Rechtshandlung in das
+vorgenommene Rechtshandlung gilt als von Anfang an wirksam, wenn
+die Liste unverzüglich nach Vornahme der Rechtshandlung in das
 Handelsregister aufgenommen wird.
 
-(2) Für Einlageverpflichtungen, die in dem Zeitpunkt rückständig sind,
-ab dem der Erwerber gemäß Absatz 1 Satz 1 im Verhältnis zur
+(2) Für Einlageverpflichtungen, die in dem Zeitpunkt rückständig
+sind, ab dem der Erwerber gemäß Absatz 1 Satz 1 im Verhältnis zur
 Gesellschaft als Inhaber des Geschäftsanteils gilt, haftet der
 Erwerber neben dem Veräußerer.
 
-(3) Der Erwerber kann einen Geschäftsanteil oder ein Recht daran durch
-Rechtsgeschäft wirksam vom Nichtberechtigten erwerben, wenn der
-Veräußerer als Inhaber des Geschäftsanteils in der im Handelsregister
-aufgenommenen Gesellschafterliste eingetragen ist. Dies gilt nicht,
-wenn die Liste zum Zeitpunkt des Erwerbs hinsichtlich des
-Geschäftsanteils weniger als drei Jahre unrichtig und die
-Unrichtigkeit dem Berechtigten nicht zuzurechnen ist. Ein gutgläubiger
-Erwerb ist ferner nicht möglich, wenn dem Erwerber die mangelnde
-Berechtigung bekannt oder infolge grober Fahrlässigkeit unbekannt ist
-oder der Liste ein Widerspruch zugeordnet ist. Die Zuordnung eines
-Widerspruchs erfolgt aufgrund einer einstweiligen Verfügung oder
-aufgrund einer Bewilligung desjenigen, gegen dessen Berechtigung sich
-der Widerspruch richtet. Eine Gefährdung des Rechts des
-Widersprechenden muss nicht glaubhaft gemacht werden.
+(3) Der Erwerber kann einen Geschäftsanteil oder ein Recht daran
+durch Rechtsgeschäft wirksam vom Nichtberechtigten erwerben,
+wenn der Veräußerer als Inhaber des Geschäftsanteils in der im
+Handelsregister aufgenommenen Gesellschafterliste eingetragen
+ist. Dies gilt nicht, wenn die Liste zum Zeitpunkt des Erwerbs
+hinsichtlich des Geschäftsanteils weniger als drei Jahre unrichtig
+und die Unrichtigkeit dem Berechtigten nicht zuzurechnen ist. Ein
+gutgläubiger Erwerb ist ferner nicht möglich, wenn dem Erwerber die
+mangelnde Berechtigung bekannt oder infolge grober Fahrlässigkeit
+unbekannt ist oder der Liste ein Widerspruch zugeordnet ist. Die
+Zuordnung eines Widerspruchs erfolgt aufgrund einer einstweiligen
+Verfügung oder aufgrund einer Bewilligung desjenigen, gegen dessen
+Berechtigung sich der Widerspruch richtet. Eine Gefährdung des Rechts
+des Widersprechenden muss nicht glaubhaft gemacht werden.
 
 
 ### § 17 (weggefallen)
-
 
 
 ### § 18 Mitberechtigung am Geschäftsanteil
@@ -565,11 +540,11 @@ Verpflichtung zur Leistung von Einlagen höchstens in Höhe des Betrags
 befreit werden, um den das Stammkapital herabgesetzt worden ist.
 
 (4) Ist eine Geldeinlage eines Gesellschafters bei wirtschaftlicher
-Betrachtung und aufgrund einer im Zusammenhang mit der Übernahme der
-Geldeinlage getroffenen Abrede vollständig oder teilweise als
+Betrachtung und aufgrund einer im Zusammenhang mit der Übernahme
+der Geldeinlage getroffenen Abrede vollständig oder teilweise als
 Sacheinlage zu bewerten (verdeckte Sacheinlage), so befreit dies den
-Gesellschafter nicht von seiner Einlageverpflichtung. Jedoch sind die
-Verträge über die Sacheinlage und die Rechtshandlungen zu ihrer
+Gesellschafter nicht von seiner Einlageverpflichtung. Jedoch sind
+die Verträge über die Sacheinlage und die Rechtshandlungen zu ihrer
 Ausführung nicht unwirksam. Auf die fortbestehende Geldeinlagepflicht
 des Gesellschafters wird der Wert des Vermögensgegenstandes im
 Zeitpunkt der Anmeldung der Gesellschaft zur Eintragung in das
@@ -579,14 +554,14 @@ erfolgt nicht vor Eintragung der Gesellschaft in das Handelsregister.
 Die Beweislast für die Werthaltigkeit des Vermögensgegenstandes trägt
 der Gesellschafter.
 
-(5) Ist vor der Einlage eine Leistung an den Gesellschafter vereinbart
-worden, die wirtschaftlich einer Rückzahlung der Einlage entspricht
-und die nicht als verdeckte Sacheinlage im Sinne von Absatz 4 zu
-beurteilen ist, so befreit dies den Gesellschafter von seiner
-Einlageverpflichtung nur dann, wenn die Leistung durch einen
-vollwertigen Rückgewähranspruch gedeckt ist, der jederzeit fällig ist
-oder durch fristlose Kündigung durch die Gesellschaft fällig werden
-kann. Eine solche Leistung oder die Vereinbarung einer solchen
+(5) Ist vor der Einlage eine Leistung an den Gesellschafter
+vereinbart worden, die wirtschaftlich einer Rückzahlung der Einlage
+entspricht und die nicht als verdeckte Sacheinlage im Sinne von
+Absatz 4 zu beurteilen ist, so befreit dies den Gesellschafter von
+seiner Einlageverpflichtung nur dann, wenn die Leistung durch einen
+vollwertigen Rückgewähranspruch gedeckt ist, der jederzeit fällig
+ist oder durch fristlose Kündigung durch die Gesellschaft fällig
+werden kann. Eine solche Leistung oder die Vereinbarung einer solchen
 Leistung ist in der Anmeldung nach § 8 anzugeben.
 
 (6) Der Anspruch der Gesellschaft auf Leistung der Einlagen verjährt
@@ -617,8 +592,8 @@ der Gesellschaft verlustig zu erklären. Die Erklärung erfolgt mittels
 eingeschriebenen Briefes.
 
 (3) Wegen des Ausfalls, welchen die Gesellschaft an dem rückständigen
-Betrag oder den später auf den Geschäftsanteil eingeforderten Beträgen
-der Stammeinlage erleidet, bleibt ihr der ausgeschlossene
+Betrag oder den später auf den Geschäftsanteil eingeforderten
+Beträgen der Stammeinlage erleidet, bleibt ihr der ausgeschlossene
 Gesellschafter verhaftet.
 
 
@@ -629,17 +604,17 @@ Einlageverpflichtung haftet der Gesellschaft auch der letzte und jeder
 frühere Rechtsvorgänger des Ausgeschlossenen, der im Verhältnis zu ihr
 als Inhaber des Geschäftsanteils gilt.
 
-(2) Ein früherer Rechtsvorgänger haftet nur, soweit die Zahlung von
-dessen Rechtsnachfolger nicht zu erlangen ist; dies ist bis zum Beweis
-des Gegenteils anzunehmen, wenn der letztere die Zahlung nicht bis zum
-Ablauf eines Monats geleistet hat, nachdem an ihn die
+(2) Ein früherer Rechtsvorgänger haftet nur, soweit die Zahlung
+von dessen Rechtsnachfolger nicht zu erlangen ist; dies ist bis
+zum Beweis des Gegenteils anzunehmen, wenn der letztere die Zahlung
+nicht bis zum Ablauf eines Monats geleistet hat, nachdem an ihn die
 Zahlungsaufforderung und an den Rechtsvorgänger die Benachrichtigung
 von derselben erfolgt ist.
 
-(3) Die Haftung des Rechtsvorgängers ist auf die innerhalb der Frist
-von fünf Jahren auf die Einlageverpflichtung eingeforderten Leistungen
-beschränkt. Die Frist beginnt mit dem Tag, ab welchem der
-Rechtsnachfolger im Verhältnis zur Gesellschaft als Inhaber des
+(3) Die Haftung des Rechtsvorgängers ist auf die innerhalb der
+Frist von fünf Jahren auf die Einlageverpflichtung eingeforderten
+Leistungen beschränkt. Die Frist beginnt mit dem Tag, ab welchem
+der Rechtsnachfolger im Verhältnis zur Gesellschaft als Inhaber des
 Geschäftsanteils gilt.
 
 (4) Der Rechtsvorgänger erwirbt gegen Zahlung des rückständigen
@@ -650,16 +625,16 @@ Betrags den Geschäftsanteil des ausgeschlossenen Gesellschafters.
 
 Ist die Zahlung des rückständigen Betrags von Rechtsvorgängern nicht
 zu erlangen, so kann die Gesellschaft den Geschäftsanteil im Wege
-öffentlicher Versteigerung verkaufen lassen. Eine andere Art des
-Verkaufs ist nur mit Zustimmung des ausgeschlossenen Gesellschafters
-zulässig.
+öffentlicher Versteigerung verkaufen lassen. Die Versteigerung kann
+auch durch einen Notar erfolgen. Eine andere Art des Verkaufs ist nur
+mit Zustimmung des ausgeschlossenen Gesellschafters zulässig.
 
 
 ### § 24 Aufbringung von Fehlbeträgen
 
 Soweit eine Stammeinlage weder von den Zahlungspflichtigen eingezogen,
-noch durch Verkauf des Geschäftsanteils gedeckt werden kann, haben die
-übrigen Gesellschafter den Fehlbetrag nach Verhältnis ihrer
+noch durch Verkauf des Geschäftsanteils gedeckt werden kann, haben
+die übrigen Gesellschafter den Fehlbetrag nach Verhältnis ihrer
 Geschäftsanteile aufzubringen. Beiträge, welche von einzelnen
 Gesellschaftern nicht zu erlangen sind, werden nach dem bezeichneten
 Verhältnis auf die übrigen verteilt.
@@ -692,9 +667,9 @@ Betrag beschränkt werden.
 beschränkt, so hat jeder Gesellschafter, falls er die Stammeinlage
 vollständig eingezahlt hat, das Recht, sich von der Zahlung des auf
 den Geschäftsanteil eingeforderten Nachschusses dadurch zu befreien,
-daß er innerhalb eines Monats nach der Aufforderung zur Einzahlung den
-Geschäftsanteil der Gesellschaft zur Befriedigung aus demselben zur
-Verfügung stellt. Ebenso kann die Gesellschaft, wenn der
+daß er innerhalb eines Monats nach der Aufforderung zur Einzahlung
+den Geschäftsanteil der Gesellschaft zur Befriedigung aus demselben
+zur Verfügung stellt. Ebenso kann die Gesellschaft, wenn der
 Gesellschafter binnen der angegebenen Frist weder von der bezeichneten
 Befugnis Gebrauch macht, noch die Einzahlung leistet, demselben
 mittels eingeschriebenen Briefes erklären, daß sie den Geschäftsanteil
@@ -703,8 +678,8 @@ als zur Verfügung gestellt betrachte.
 (2) Die Gesellschaft hat den Geschäftsanteil innerhalb eines Monats
 nach der Erklärung des Gesellschafters oder der Gesellschaft im Wege
 öffentlicher Versteigerung verkaufen zu lassen. Eine andere Art des
-Verkaufs ist nur mit Zustimmung des Gesellschafters zulässig. Ein nach
-Deckung der Verkaufskosten und des rückständigen Nachschusses
+Verkaufs ist nur mit Zustimmung des Gesellschafters zulässig. Ein
+nach Deckung der Verkaufskosten und des rückständigen Nachschusses
 verbleibender Überschuß gebührt dem Gesellschafter.
 
 (3) Ist die Befriedigung der Gesellschaft durch den Verkauf nicht zu
@@ -728,8 +703,8 @@ bei unbeschränkter Nachschußpflicht, soweit die Nachschüsse den im
 Gesellschaftsvertrag festgesetzten Betrag nicht überschreiten.
 
 (2) Im Gesellschaftsvertrag kann bestimmt werden, daß die Einforderung
-von Nachschüssen, auf deren Zahlung die Vorschriften der §§ 21 bis 23
-Anwendung finden, schon vor vollständiger Einforderung der
+von Nachschüssen, auf deren Zahlung die Vorschriften der §§ 21
+bis 23 Anwendung finden, schon vor vollständiger Einforderung der
 Stammeinlagen zulässig ist.
 
 
@@ -742,16 +717,16 @@ Gesellschaftsvertrag, durch Beschluß nach Absatz 2 oder als
 zusätzlicher Aufwand auf Grund des Beschlusses über die Verwendung des
 Ergebnisses von der Verteilung unter die Gesellschafter ausgeschlossen
 ist. Wird die Bilanz unter Berücksichtigung der teilweisen
-Ergebnisverwendung aufgestellt oder werden Rücklagen aufgelöst, so
-haben die Gesellschafter abweichend von Satz 1 Anspruch auf den
+Ergebnisverwendung aufgestellt oder werden Rücklagen aufgelöst,
+so haben die Gesellschafter abweichend von Satz 1 Anspruch auf den
 Bilanzgewinn.
 
 (2) Im Beschluß über die Verwendung des Ergebnisses können die
 Gesellschafter, wenn der Gesellschaftsvertrag nichts anderes bestimmt,
 Beträge in Gewinnrücklagen einstellen oder als Gewinn vortragen.
 
-(3) Die Verteilung erfolgt nach Verhältnis der Geschäftsanteile. Im
-Gesellschaftsvertrag kann ein anderer Maßstab der Verteilung
+(3) Die Verteilung erfolgt nach Verhältnis der Geschäftsanteile.
+Im Gesellschaftsvertrag kann ein anderer Maßstab der Verteilung
 festgesetzt werden.
 
 (4) Unbeschadet der Absätze 1 und 2 und abweichender
@@ -770,17 +745,17 @@ Gesellschaft darf an die Gesellschafter nicht ausgezahlt werden. Satz
 1 gilt nicht bei Leistungen, die bei Bestehen eines Beherrschungs-
 oder Gewinnabführungsvertrags (§ 291 des Aktiengesetzes) erfolgen oder
 durch einen vollwertigen Gegenleistungs- oder Rückgewähranspruch gegen
-den Gesellschafter gedeckt sind. Satz 1 ist zudem nicht anzuwenden auf
-die Rückgewähr eines Gesellschafterdarlehens und Leistungen auf
+den Gesellschafter gedeckt sind. Satz 1 ist zudem nicht anzuwenden
+auf die Rückgewähr eines Gesellschafterdarlehens und Leistungen auf
 Forderungen aus Rechtshandlungen, die einem Gesellschafterdarlehen
 wirtschaftlich entsprechen.
 
 (2) Eingezahlte Nachschüsse können, soweit sie nicht zur Deckung eines
 Verlustes am Stammkapital erforderlich sind, an die Gesellschafter
-zurückgezahlt werden. Die Zurückzahlung darf nicht vor Ablauf von drei
-Monaten erfolgen, nachdem der Rückzahlungsbeschluß nach § 12
-bekanntgemacht ist. Im Fall des § 28 Abs. 2 ist die Zurückzahlung von
-Nachschüssen vor der Volleinzahlung des Stammkapitals unzulässig.
+zurückgezahlt werden. Die Zurückzahlung darf nicht vor Ablauf von
+drei Monaten erfolgen, nachdem der Rückzahlungsbeschluß nach § 12
+bekanntgemacht ist. Im Fall des § 28 Abs. 2 ist die Zurückzahlung
+von Nachschüssen vor der Volleinzahlung des Stammkapitals unzulässig.
 Zurückgezahlte Nachschüsse gelten als nicht eingezogen.
 
 
@@ -789,12 +764,12 @@ Zurückgezahlte Nachschüsse gelten als nicht eingezogen.
 (1) Zahlungen, welche den Vorschriften des § 30 zuwider geleistet
 sind, müssen der Gesellschaft erstattet werden.
 
-(2) War der Empfänger in gutem Glauben, so kann die Erstattung nur
-insoweit verlangt werden, als sie zur Befriedigung der
+(2) War der Empfänger in gutem Glauben, so kann die Erstattung
+nur insoweit verlangt werden, als sie zur Befriedigung der
 Gesellschaftsgläubiger erforderlich ist.
 
-(3) Ist die Erstattung von dem Empfänger nicht zu erlangen, so haften
-für den zu erstattenden Betrag, soweit er zur Befriedigung der
+(3) Ist die Erstattung von dem Empfänger nicht zu erlangen, so
+haften für den zu erstattenden Betrag, soweit er zur Befriedigung der
 Gesellschaftsgläubiger erforderlich ist, die übrigen Gesellschafter
 nach Verhältnis ihrer Geschäftsanteile. Beiträge, welche von einzelnen
 Gesellschaftern nicht zu erlangen sind, werden nach dem bezeichneten
@@ -806,13 +781,13 @@ leisten sind, können den Verpflichteten nicht erlassen werden.
 (5) Die Ansprüche der Gesellschaft verjähren in den Fällen des
 Absatzes 1 in zehn Jahren sowie in den Fällen des Absatzes 3 in fünf
 Jahren. Die Verjährung beginnt mit dem Ablauf des Tages, an welchem
-die Zahlung, deren Erstattung beansprucht wird, geleistet ist. In den
-Fällen des Absatzes 1 findet § 19 Abs. 6 Satz 2 entsprechende
+die Zahlung, deren Erstattung beansprucht wird, geleistet ist. In
+den Fällen des Absatzes 1 findet § 19 Abs. 6 Satz 2 entsprechende
 Anwendung.
 
-(6) Für die in den Fällen des Absatzes 3 geleistete Erstattung einer
-Zahlung sind den Gesellschaftern die Geschäftsführer, welchen in
-betreff der geleisteten Zahlung ein Verschulden zur Last fällt,
+(6) Für die in den Fällen des Absatzes 3 geleistete Erstattung
+einer Zahlung sind den Gesellschaftern die Geschäftsführer, welchen
+in betreff der geleisteten Zahlung ein Verschulden zur Last fällt,
 solidarisch zum Ersatz verpflichtet. Die Bestimmungen in § 43 Abs. 1
 und 4 finden entsprechende Anwendung.
 
@@ -827,9 +802,7 @@ gutem Glauben als Gewinnanteile bezogen haben, zurückzuzahlen.
 ### § 32a (weggefallen)
 
 
-
 ### § 32b (weggefallen)
-
 
 
 ### § 33 Erwerb eigener Geschäftsanteile
@@ -845,22 +818,23 @@ könnte, ohne das Stammkapital oder eine nach dem Gesellschaftsvertrag
 zu bildende Rücklage zu mindern, die nicht zur Zahlung an die
 Gesellschafter verwandt werden darf. Als Pfand nehmen darf sie solche
 Geschäftsanteile nur, soweit der Gesamtbetrag der durch Inpfandnahme
-eigener Geschäftsanteile gesicherten Forderungen oder, wenn der Wert
-der als Pfand genommenen Geschäftsanteile niedriger ist, dieser Betrag
-nicht höher ist als das über das Stammkapital hinaus vorhandene
+eigener Geschäftsanteile gesicherten Forderungen oder, wenn der
+Wert der als Pfand genommenen Geschäftsanteile niedriger ist, dieser
+Betrag nicht höher ist als das über das Stammkapital hinaus vorhandene
 Vermögen. Ein Verstoß gegen die Sätze 1 und 2 macht den Erwerb oder
 die Inpfandnahme der Geschäftsanteile nicht unwirksam; jedoch ist das
 schuldrechtliche Geschäft über einen verbotswidrigen Erwerb oder eine
 verbotswidrige Inpfandnahme nichtig.
 
 (3) Der Erwerb eigener Geschäftsanteile ist ferner zulässig zur
-Abfindung von Gesellschaftern nach § 29 Abs. 1, § 122i Abs. 1 Satz 2,
-§ 125 Satz 1 in Verbindung mit § 29 Abs. 1 und § 207 Abs. 1 des
-Umwandlungsgesetzes, sofern der Erwerb binnen sechs Monaten nach dem
-Wirksamwerden der Umwandlung oder nach der Rechtskraft der
-gerichtlichen Entscheidung erfolgt und die Gesellschaft im Zeitpunkt
-des Erwerbs eine Rücklage in Höhe der Aufwendungen für den Erwerb
-bilden könnte, ohne das Stammkapital oder eine nach dem
+Abfindung von Gesellschaftern nach § 29 Absatz 1, nach § 125 Satz 1 in
+Verbindung mit § 29 Absatz 1, nach § 207 Absatz 1, nach § 313 Absatz
+1, nach § 327 in Verbindung mit § 313 Absatz 1 und nach § 340 Absatz
+1 des Umwandlungsgesetzes, sofern der Erwerb binnen sechs Monaten
+nach dem Wirksamwerden der Umwandlung oder nach der Rechtskraft
+der gerichtlichen Entscheidung erfolgt und die Gesellschaft im
+Zeitpunkt des Erwerbs eine Rücklage in Höhe der Aufwendungen für
+den Erwerb bilden könnte, ohne das Stammkapital oder eine nach dem
 Gesellschaftsvertrag zu bildende Rücklage zu mindern, die nicht zur
 Zahlung an die Gesellschafter verwandt werden darf.
 
@@ -871,8 +845,8 @@ Zahlung an die Gesellschafter verwandt werden darf.
 erfolgen, soweit sie im Gesellschaftsvertrag zugelassen ist.
 
 (2) Ohne die Zustimmung des Anteilsberechtigten findet die Einziehung
-nur statt, wenn die Voraussetzungen derselben vor dem Zeitpunkt, in
-welchem der Berechtigte den Geschäftsanteil erworben hat, im
+nur statt, wenn die Voraussetzungen derselben vor dem Zeitpunkt,
+in welchem der Berechtigte den Geschäftsanteil erworben hat, im
 Gesellschaftsvertrag festgesetzt waren.
 
 (3) Die Bestimmung in § 30 Abs. 1 bleibt unberührt.
@@ -881,33 +855,32 @@ Gesellschaftsvertrag festgesetzt waren.
 ## Abschnitt 3 - Vertretung und Geschäftsführung
 
 
-
 ### § 35 Vertretung der Gesellschaft
 
-(1) Die Gesellschaft wird durch die Geschäftsführer gerichtlich und
-außergerichtlich vertreten. Hat eine Gesellschaft keinen
-Geschäftsführer (Führungslosigkeit), wird die Gesellschaft für den
-Fall, dass ihr gegenüber Willenserklärungen abgegeben oder
+(1) Die Gesellschaft wird durch die Geschäftsführer gerichtlich
+und außergerichtlich vertreten. Hat eine Gesellschaft keinen
+Geschäftsführer (Führungslosigkeit), wird die Gesellschaft für
+den Fall, dass ihr gegenüber Willenserklärungen abgegeben oder
 Schriftstücke zugestellt werden, durch die Gesellschafter vertreten.
 
 (2) Sind mehrere Geschäftsführer bestellt, sind sie alle nur
-gemeinschaftlich zur Vertretung der Gesellschaft befugt, es sei denn,
-dass der Gesellschaftsvertrag etwas anderes bestimmt. Ist der
+gemeinschaftlich zur Vertretung der Gesellschaft befugt, es sei
+denn, dass der Gesellschaftsvertrag etwas anderes bestimmt. Ist der
 Gesellschaft gegenüber eine Willenserklärung abzugeben, genügt die
-Abgabe gegenüber einem Vertreter der Gesellschaft nach Absatz 1. An
-die Vertreter der Gesellschaft nach Absatz 1 können unter der im
+Abgabe gegenüber einem Vertreter der Gesellschaft nach Absatz 1.
+An die Vertreter der Gesellschaft nach Absatz 1 können unter der im
 Handelsregister eingetragenen Geschäftsanschrift Willenserklärungen
 abgegeben und Schriftstücke für die Gesellschaft zugestellt werden.
 Unabhängig hiervon können die Abgabe und die Zustellung auch unter der
 eingetragenen Anschrift der empfangsberechtigten Person nach § 10 Abs.
 2 Satz 2 erfolgen.
 
-(3) Befinden sich alle Geschäftsanteile der Gesellschaft in der Hand
-eines Gesellschafters oder daneben in der Hand der Gesellschaft und
-ist er zugleich deren alleiniger Geschäftsführer, so ist auf seine
-Rechtsgeschäfte mit der Gesellschaft § 181 des Bürgerlichen
-Gesetzbuchs anzuwenden. Rechtsgeschäfte zwischen ihm und der von ihm
-vertretenen Gesellschaft sind, auch wenn er nicht alleiniger
+(3) Befinden sich alle Geschäftsanteile der Gesellschaft in der
+Hand eines Gesellschafters oder daneben in der Hand der Gesellschaft
+und ist er zugleich deren alleiniger Geschäftsführer, so ist auf
+seine Rechtsgeschäfte mit der Gesellschaft § 181 des Bürgerlichen
+Gesetzbuchs anzuwenden. Rechtsgeschäfte zwischen ihm und der von
+ihm vertretenen Gesellschaft sind, auch wenn er nicht alleiniger
 Geschäftsführer ist, unverzüglich nach ihrer Vornahme in eine
 Niederschrift aufzunehmen.
 
@@ -929,8 +902,8 @@ angegeben werden.
 
 (2) Der Angaben nach Absatz 1 Satz 1 bedarf es nicht bei Mitteilungen
 oder Berichten, die im Rahmen einer bestehenden Geschäftsverbindung
-ergehen und für die üblicherweise Vordrucke verwendet werden, in denen
-lediglich die im Einzelfall erforderlichen besonderen Angaben
+ergehen und für die üblicherweise Vordrucke verwendet werden, in
+denen lediglich die im Einzelfall erforderlichen besonderen Angaben
 eingefügt zu werden brauchen.
 
 (3) Bestellscheine gelten als Geschäftsbriefe im Sinne des Absatzes 1.
@@ -940,8 +913,8 @@ Absatz 2 ist auf sie nicht anzuwenden.
 Zweigniederlassung einer Gesellschaft mit beschränkter Haftung mit
 Sitz im Ausland verwendet werden, müssen das Register, bei dem die
 Zweigniederlassung geführt wird, und die Nummer des Registereintrags
-angegeben werden; im übrigen gelten die Vorschriften der Absätze 1 bis
-3 für die Angaben bezüglich der Haupt- und der Zweigniederlassung,
+angegeben werden; im übrigen gelten die Vorschriften der Absätze 1
+bis 3 für die Angaben bezüglich der Haupt- und der Zweigniederlassung,
 soweit nicht das ausländische Recht Abweichungen nötig macht. Befindet
 sich die ausländische Gesellschaft in Liquidation, so sind auch diese
 Tatsache sowie alle Liquidatoren anzugeben.
@@ -951,11 +924,11 @@ Tatsache sowie alle Liquidatoren anzugeben.
 
 Die Geschäftsführer einer Gesellschaft, die der Mitbestimmung
 unterliegt, legen für den Frauenanteil in den beiden Führungsebenen
-unterhalb der Geschäftsführer Zielgrößen fest. Die Zielgrößen müssen
-den angestrebten Frauenanteil an der jeweiligen Führungsebene
+unterhalb der Geschäftsführer Zielgrößen fest. Die Zielgrößen
+müssen den angestrebten Frauenanteil an der jeweiligen Führungsebene
 beschreiben und bei Angaben in Prozent vollen Personenzahlen
-entsprechen. Legen die Geschäftsführer für den Frauenanteil auf einer
-der Führungsebenen die Zielgröße Null fest, so haben sie diesen
+entsprechen. Legen die Geschäftsführer für den Frauenanteil auf
+einer der Führungsebenen die Zielgröße Null fest, so haben sie diesen
 Beschluss klar und verständlich zu begründen. Die Begründung muss
 ausführlich die Erwägungen darlegen, die der Entscheidung zugrunde
 liegen. Liegt der Frauenanteil bei Festlegung der Zielgrößen unter 30
@@ -975,10 +948,10 @@ Gesellschafter festgesetzt sind.
 
 (2) Gegen dritte Personen hat eine Beschränkung der Befugnis der
 Geschäftsführer, die Gesellschaft zu vertreten, keine rechtliche
-Wirkung. Dies gilt insbesondere für den Fall, daß die Vertretung sich
-nur auf gewisse Geschäfte oder Arten von Geschäften erstrecken oder
-nur unter gewissen Umständen oder für eine gewisse Zeit oder an
-einzelnen Orten stattfinden soll, oder daß die Zustimmung der
+Wirkung. Dies gilt insbesondere für den Fall, daß die Vertretung
+sich nur auf gewisse Geschäfte oder Arten von Geschäften erstrecken
+oder nur unter gewissen Umständen oder für eine gewisse Zeit oder
+an einzelnen Orten stattfinden soll, oder daß die Zustimmung der
 Gesellschafter oder eines Organs der Gesellschaft für einzelne
 Geschäfte erfordert ist.
 
@@ -994,8 +967,8 @@ machen. Als solche Gründe sind insbesondere grobe Pflichtverletzung
 oder Unfähigkeit zur ordnungsmäßigen Geschäftsführung anzusehen.
 
 (3) Der Geschäftsführer hat das Recht, um den Widerruf seiner
-Bestellung zu ersuchen, wenn er wegen Mutterschutz, Elternzeit, der
-Pflege eines Familienangehörigen oder Krankheit seinen mit der
+Bestellung zu ersuchen, wenn er wegen Mutterschutz, Elternzeit,
+der Pflege eines Familienangehörigen oder Krankheit seinen mit der
 Bestellung verbundenen Pflichten vorübergehend nicht nachkommen kann
 und mindestens ein weiterer Geschäftsführer bestellt ist. Macht ein
 Geschäftsführer von diesem Recht Gebrauch, muss die Bestellung dieses
@@ -1005,18 +978,15 @@ Geschäftsführers
     der in § 3 Absatz 1 und 2 des Mutterschutzgesetzes genannten
     Schutzfristen zugesichert werden,
 
-
 2.  in den Fällen der Elternzeit, der Pflege eines Familienangehörigen
     oder der Krankheit widerrufen und dabei die Wiederbestellung nach
     einem Zeitraum von bis zu drei Monaten entsprechend dem Verlangen des
     Geschäftsführers zugesichert werden; von dem Widerruf der Bestellung
     kann abgesehen werden, wenn ein wichtiger Grund vorliegt.
 
-
-
-In den in Satz 2 Nummer 2 genannten Fällen kann die Bestellung des
-Geschäftsführers auf dessen Verlangen für einen Zeitraum von bis zu
-zwölf Monaten widerrufen werden. § 77a Absatz 2 findet auf
+In den in Satz 2 Nummer 2 genannten Fällen kann die Bestellung
+des Geschäftsführers auf dessen Verlangen für einen Zeitraum von
+bis zu zwölf Monaten widerrufen werden. § 77a Absatz 2 findet auf
 Bestellungen während des Zeitraums nach den Sätzen 2 oder 3 keine
 Anwendung, wenn das Beteiligungsgebot ohne den Widerruf eingehalten
 wäre.
@@ -1034,43 +1004,46 @@ Urschrift oder öffentlich beglaubigter Abschrift beizufügen.
 
 (3) Die neuen Geschäftsführer haben in der Anmeldung zu versichern,
 daß keine Umstände vorliegen, die ihrer Bestellung nach § 6 Abs. 2
-Satz 2 Nr. 2 und 3 sowie Satz 3 entgegenstehen und daß sie über ihre
-unbeschränkte Auskunftspflicht gegenüber dem Gericht belehrt worden
-sind. § 8 Abs. 3 Satz 2 ist anzuwenden.
+Satz 2 Nr. 2 und 3 sowie Satz 3 und 4 entgegenstehen und daß sie über
+ihre unbeschränkte Auskunftspflicht gegenüber dem Gericht belehrt
+worden sind. § 8 Abs. 3 Satz 2 ist anzuwenden.
 
 (4) (weggefallen)
 
 
 ### § 40 Liste der Gesellschafter, Verordnungsermächtigung
 
-(1) Die Geschäftsführer haben unverzüglich nach Wirksamwerden jeder
-Veränderung in den Personen der Gesellschafter oder des Umfangs ihrer
-Beteiligung eine von ihnen unterschriebene Liste der Gesellschafter
-zum Handelsregister einzureichen, aus welcher Name, Vorname,
-Geburtsdatum und Wohnort derselben sowie die Nennbeträge und die
-laufenden Nummern der von einem jeden derselben übernommenen
+(1) Die Geschäftsführer haben unverzüglich nach Wirksamwerden
+jeder Veränderung in den Personen der Gesellschafter oder des
+Umfangs ihrer Beteiligung eine von ihnen unterschriebene oder mit
+ihrer qualifizierten elektronischen Signatur versehene Liste der
+Gesellschafter zum Handelsregister einzureichen, aus welcher Name,
+Vorname, Geburtsdatum und Wohnort derselben sowie die Nennbeträge
+und die laufenden Nummern der von einem jeden derselben übernommenen
 Geschäftsanteile sowie die durch den jeweiligen Nennbetrag eines
 Geschäftsanteils vermittelte jeweilige prozentuale Beteiligung am
 Stammkapital zu entnehmen sind. Ist ein Gesellschafter selbst eine
-Gesellschaft, so sind bei eingetragenen Gesellschaften in die Liste
-deren Firma, Satzungssitz, zuständiges Register und Registernummer
-aufzunehmen, bei nicht eingetragenen Gesellschaften deren jeweilige
-Gesellschafter unter einer zusammenfassenden Bezeichnung mit Name,
-Vorname, Geburtsdatum und Wohnort. Hält ein Gesellschafter mehr als
-einen Geschäftsanteil, ist in der Liste der Gesellschafter zudem der
-Gesamtumfang der Beteiligung am Stammkapital als Prozentsatz gesondert
-anzugeben. Die Änderung der Liste durch die Geschäftsführer erfolgt
-auf Mitteilung und Nachweis.
+juristische Person oder rechtsfähige Personengesellschaft, sind
+in die Liste deren Firma oder Name, Sitz und, soweit gesetzlich
+vorgesehen, das zuständige Registergericht und die Registernummer
+aufzunehmen. Eine Gesellschaft bürgerlichen Rechts kann nur in die
+Liste eingetragen und Veränderungen an ihrer Eintragung können nur
+vorgenommen werden, wenn sie in das Gesellschaftsregister eingetragen
+ist. Hält ein Gesellschafter mehr als einen Geschäftsanteil, ist in
+der Liste der Gesellschafter zudem der Gesamtumfang der Beteiligung
+am Stammkapital als Prozentsatz gesondert anzugeben. Die Änderung der
+Liste durch die Geschäftsführer erfolgt auf Mitteilung und Nachweis.
 
 (2) Hat ein Notar an Veränderungen nach Absatz 1 Satz 1 mitgewirkt,
 hat er unverzüglich nach deren Wirksamwerden ohne Rücksicht auf
-etwaige später eintretende Unwirksamkeitsgründe die Liste anstelle der
-Geschäftsführer zu unterschreiben, zum Handelsregister einzureichen
+etwaige später eintretende Unwirksamkeitsgründe die Liste anstelle
+der Geschäftsführer zu unterschreiben oder mit seiner qualifizierten
+elektronischen Signatur zu versehen, zum Handelsregister einzureichen
 und eine Abschrift der geänderten Liste an die Gesellschaft zu
-übermitteln. Die Liste muss mit der Bescheinigung des Notars versehen
-sein, dass die geänderten Eintragungen den Veränderungen entsprechen,
-an denen er mitgewirkt hat, und die übrigen Eintragungen mit dem
-Inhalt der zuletzt im Handelsregister aufgenommenen Liste
+übermitteln. Die Liste muss mit der Bescheinigung des Notars
+versehen sein, dass die geänderten Eintragungen den Veränderungen
+entsprechen, an denen er mitgewirkt hat, und die übrigen Eintragungen
+mit dem Inhalt der zuletzt im Handelsregister aufgenommenen Liste
 übereinstimmen.
 
 (3) Geschäftsführer, welche die ihnen nach Absatz 1 obliegende Pflicht
@@ -1080,16 +1053,16 @@ als Gesamtschuldner.
 
 (4) Das Bundesministerium der Justiz und für Verbraucherschutz wird
 ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
-nähere Bestimmungen über die Ausgestaltung der Gesellschafterliste zu
-treffen.
+nähere Bestimmungen über die Ausgestaltung der Gesellschafterliste
+zu treffen.
 
-(5) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung zu
-bestimmen, dass bestimmte in der Liste der Gesellschafter enthaltene
-Angaben in strukturierter maschinenlesbarer Form an das
-Handelsregister zu übermitteln sind, soweit nicht durch das
+(5) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
+zu bestimmen, dass bestimmte in der Liste der Gesellschafter
+enthaltene Angaben in strukturierter maschinenlesbarer Form an
+das Handelsregister zu übermitteln sind, soweit nicht durch das
 Bundesministerium der Justiz und für Verbraucherschutz nach § 387
-Absatz 2 des Gesetzes über das Verfahren in Familiensachen und in den
-Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechende
+Absatz 2 des Gesetzes über das Verfahren in Familiensachen und in
+den Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechende
 Vorschriften erlassen werden. Die Landesregierungen können die
 Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen
 übertragen.
@@ -1129,8 +1102,8 @@ ausgewiesen, so muß diese Eigenschaft vermerkt werden.
 (1) Die Geschäftsführer haben den Jahresabschluß und den Lagebericht
 unverzüglich nach der Aufstellung den Gesellschaftern zum Zwecke der
 Feststellung des Jahresabschlusses vorzulegen. Ist der Jahresabschluß
-durch einen Abschlußprüfer zu prüfen, so haben die Geschäftsführer ihn
-zusammen mit dem Lagebericht und dem Prüfungsbericht des
+durch einen Abschlußprüfer zu prüfen, so haben die Geschäftsführer
+ihn zusammen mit dem Lagebericht und dem Prüfungsbericht des
 Abschlußprüfers unverzüglich nach Eingang des Prüfungsberichts
 vorzulegen. Hat die Gesellschaft einen Aufsichtsrat, so ist dessen
 Bericht über das Ergebnis seiner Prüfung ebenfalls unverzüglich
@@ -1141,17 +1114,17 @@ Monate oder, wenn es sich um eine kleine Gesellschaft handelt (§ 267
 Abs. 1 des Handelsgesetzbuchs), bis zum Ablauf der ersten elf Monate
 des Geschäftsjahrs über die Feststellung des Jahresabschlusses und
 über die Ergebnisverwendung zu beschließen. Der Gesellschaftsvertrag
-kann die Frist nicht verlängern. Auf den Jahresabschluß sind bei der
-Feststellung die für seine Aufstellung geltenden Vorschriften
+kann die Frist nicht verlängern. Auf den Jahresabschluß sind bei
+der Feststellung die für seine Aufstellung geltenden Vorschriften
 anzuwenden.
 
-(3) Hat ein Abschlußprüfer den Jahresabschluß geprüft, so hat er auf
-Verlangen eines Gesellschafters an den Verhandlungen über die
+(3) Hat ein Abschlußprüfer den Jahresabschluß geprüft, so hat er
+auf Verlangen eines Gesellschafters an den Verhandlungen über die
 Feststellung des Jahresabschlusses teilzunehmen.
 
-(4) Ist die Gesellschaft zur Aufstellung eines Konzernabschlusses und
-eines Konzernlageberichts verpflichtet, so sind die Absätze 1 bis 3
-entsprechend anzuwenden. Das Gleiche gilt hinsichtlich eines
+(4) Ist die Gesellschaft zur Aufstellung eines Konzernabschlusses
+und eines Konzernlageberichts verpflichtet, so sind die Absätze 1
+bis 3 entsprechend anzuwenden. Das Gleiche gilt hinsichtlich eines
 Einzelabschlusses nach § 325 Abs. 2a des Handelsgesetzbuchs, wenn die
 Gesellschafter die Offenlegung eines solchen beschlossen haben.
 
@@ -1166,8 +1139,8 @@ Gesellschaft solidarisch für den entstandenen Schaden.
 
 (3) Insbesondere sind sie zum Ersatz verpflichtet, wenn den
 Bestimmungen des § 30 zuwider Zahlungen aus dem zur Erhaltung des
-Stammkapitals erforderlichen Vermögen der Gesellschaft gemacht oder
-den Bestimmungen des § 33 zuwider eigene Geschäftsanteile der
+Stammkapitals erforderlichen Vermögen der Gesellschaft gemacht
+oder den Bestimmungen des § 33 zuwider eigene Geschäftsanteile der
 Gesellschaft erworben worden sind. Auf den Ersatzanspruch finden die
 Bestimmungen in § 9b Abs. 1 entsprechende Anwendung. Soweit der Ersatz
 zur Befriedigung der Gläubiger der Gesellschaft erforderlich ist, wird
@@ -1181,11 +1154,11 @@ fünf Jahren.
 
 ### § 43a Kreditgewährung aus Gesellschaftsvermögen
 
-Den Geschäftsführern, anderen gesetzlichen Vertretern, Prokuristen
-oder zum gesamten Geschäftsbetrieb ermächtigten
-Handlungsbevollmächtigten darf Kredit nicht aus dem zur Erhaltung des
-Stammkapitals erforderlichen Vermögen der Gesellschaft gewährt werden.
-Ein entgegen Satz 1 gewährter Kredit ist ohne Rücksicht auf
+Den Geschäftsführern, anderen gesetzlichen Vertretern,
+Prokuristen oder zum gesamten Geschäftsbetrieb ermächtigten
+Handlungsbevollmächtigten darf Kredit nicht aus dem zur Erhaltung
+des Stammkapitals erforderlichen Vermögen der Gesellschaft gewährt
+werden. Ein entgegen Satz 1 gewährter Kredit ist ohne Rücksicht auf
 entgegenstehende Vereinbarungen sofort zurückzugewähren.
 
 
@@ -1197,10 +1170,10 @@ Stellvertreter von Geschäftsführern.
 
 ### § 45 Rechte der Gesellschafter
 
-(1) Die Rechte, welche den Gesellschaftern in den Angelegenheiten der
-Gesellschaft, insbesondere in bezug auf die Führung der Geschäfte
-zustehen, sowie die Ausübung derselben bestimmen sich, soweit nicht
-gesetzliche Vorschriften entgegenstehen, nach dem
+(1) Die Rechte, welche den Gesellschaftern in den Angelegenheiten
+der Gesellschaft, insbesondere in bezug auf die Führung der
+Geschäfte zustehen, sowie die Ausübung derselben bestimmen sich,
+soweit nicht gesetzliche Vorschriften entgegenstehen, nach dem
 Gesellschaftsvertrag.
 
 (2) In Ermangelung besonderer Bestimmungen des Gesellschaftsvertrags
@@ -1214,45 +1187,33 @@ Der Bestimmung der Gesellschafter unterliegen:
 1.  die Feststellung des Jahresabschlusses und die Verwendung des
     Ergebnisses;
 
-
-1a. die Entscheidung über die Offenlegung eines Einzelabschlusses nach
-    internationalen Rechnungslegungsstandards (§ 325 Abs. 2a des
-    Handelsgesetzbuchs) und über die Billigung des von den
+1a. die Entscheidung über die Offenlegung eines Einzelabschlusses
+    nach internationalen Rechnungslegungsstandards (§ 325 Abs.
+    2a des Handelsgesetzbuchs) und über die Billigung des von den
     Geschäftsführern aufgestellten Abschlusses;
-
 
 1b. die Billigung eines von den Geschäftsführern aufgestellten
     Konzernabschlusses;
 
-
 2.  die Einforderung der Einlagen;
 
-
 3.  die Rückzahlung von Nachschüssen;
-
 
 4.  die Teilung, die Zusammenlegung sowie die Einziehung von
     Geschäftsanteilen;
 
-
 5.  die Bestellung und die Abberufung von Geschäftsführern sowie die
     Entlastung derselben;
 
-
 6.  die Maßregeln zur Prüfung und Überwachung der Geschäftsführung;
-
 
 7.  die Bestellung von Prokuristen und von Handlungsbevollmächtigten zum
     gesamten Geschäftsbetrieb;
 
-
-8.  die Geltendmachung von Ersatzansprüchen, welche der Gesellschaft aus
-    der Gründung oder Geschäftsführung gegen Geschäftsführer oder
+8.  die Geltendmachung von Ersatzansprüchen, welche der Gesellschaft
+    aus der Gründung oder Geschäftsführung gegen Geschäftsführer oder
     Gesellschafter zustehen, sowie die Vertretung der Gesellschaft in
     Prozessen, welche sie gegen die Geschäftsführer zu führen hat.
-
-
-
 
 
 ### § 47 Abstimmung
@@ -1266,24 +1227,27 @@ nach der Mehrheit der abgegebenen Stimmen.
 (3) Vollmachten bedürfen zu ihrer Gültigkeit der Textform.
 
 (4) Ein Gesellschafter, welcher durch die Beschlußfassung entlastet
-oder von einer Verbindlichkeit befreit werden soll, hat hierbei kein
-Stimmrecht und darf ein solches auch nicht für andere ausüben.
-Dasselbe gilt von einer Beschlußfassung, welche die Vornahme eines
-Rechtsgeschäfts oder die Einleitung oder Erledigung eines
+oder von einer Verbindlichkeit befreit werden soll, hat hierbei
+kein Stimmrecht und darf ein solches auch nicht für andere ausüben.
+Dasselbe gilt von einer Beschlußfassung, welche die Vornahme
+eines Rechtsgeschäfts oder die Einleitung oder Erledigung eines
 Rechtsstreits gegenüber einem Gesellschafter betrifft.
 
 
 ### § 48 Gesellschafterversammlung
 
 (1) Die Beschlüsse der Gesellschafter werden in Versammlungen gefaßt.
+Versammlungen können auch fernmündlich oder mittels Videokommunikation
+abgehalten werden, wenn sämtliche Gesellschafter sich damit in
+Textform einverstanden erklären.
 
 (2) Der Abhaltung einer Versammlung bedarf es nicht, wenn sämtliche
-Gesellschafter in Textform mit der zu treffenden Bestimmung oder mit
-der schriftlichen Abgabe der Stimmen sich einverstanden erklären.
+Gesellschafter sich in Textform mit der zu treffenden Bestimmung oder
+mit der Abgabe der Stimmen in Textform einverstanden erklären.
 
 (3) Befinden sich alle Geschäftsanteile der Gesellschaft in der Hand
-eines Gesellschafters oder daneben in der Hand der Gesellschaft, so
-hat er unverzüglich nach der Beschlußfassung eine Niederschrift
+eines Gesellschafters oder daneben in der Hand der Gesellschaft,
+so hat er unverzüglich nach der Beschlußfassung eine Niederschrift
 aufzunehmen und zu unterschreiben.
 
 
@@ -1295,8 +1259,8 @@ berufen.
 (2) Sie ist außer den ausdrücklich bestimmten Fällen zu berufen, wenn
 es im Interesse der Gesellschaft erforderlich erscheint.
 
-(3) Insbesondere muß die Versammlung unverzüglich berufen werden, wenn
-aus der Jahresbilanz oder aus einer im Laufe des Geschäftsjahres
+(3) Insbesondere muß die Versammlung unverzüglich berufen werden,
+wenn aus der Jahresbilanz oder aus einer im Laufe des Geschäftsjahres
 aufgestellten Bilanz sich ergibt, daß die Hälfte des Stammkapitals
 verloren ist.
 
@@ -1346,8 +1310,8 @@ geben und die Einsicht der Bücher und Schriften zu gestatten.
 (2) Die Geschäftsführer dürfen die Auskunft und die Einsicht
 verweigern, wenn zu besorgen ist, daß der Gesellschafter sie zu
 gesellschaftsfremden Zwecken verwenden und dadurch der Gesellschaft
-oder einem verbundenen Unternehmen einen nicht unerheblichen Nachteil
-zufügen wird. Die Verweigerung bedarf eines Beschlusses der
+oder einem verbundenen Unternehmen einen nicht unerheblichen
+Nachteil zufügen wird. Die Verweigerung bedarf eines Beschlusses der
 Gesellschafter.
 
 (3) Von diesen Vorschriften kann im Gesellschaftsvertrag nicht
@@ -1366,26 +1330,26 @@ nicht gestattet worden ist.
 ### § 52 Aufsichtsrat
 
 (1) Ist nach dem Gesellschaftsvertrag ein Aufsichtsrat zu bestellen,
-so sind § 90 Abs. 3, 4, 5 Satz 1 und 2, § 95 Satz 1, § 100 Abs. 1 und
-2 Nr. 2 und Abs. 5, § 101 Abs. 1 Satz 1, § 103 Abs. 1 Satz 1 und 2, §§
-105, 107 Absatz 3 Satz 2 und 3 und Absatz 4, §§ 110 bis 114, 116 des
-Aktiengesetzes in Verbindung mit § 93 Abs. 1 und 2 Satz 1 und 2 des
-Aktiengesetzes, § 124 Abs. 3 Satz 2, §§ 170, 171, 394 und 395 des
-Aktiengesetzes entsprechend anzuwenden, soweit nicht im
+so sind § 90 Abs. 3, 4, 5 Satz 1 und 2, § 95 Satz 1, § 100 Abs. 1
+und 2 Nr. 2 und Abs. 5, § 101 Abs. 1 Satz 1, § 103 Abs. 1 Satz 1
+und 2, §§ 105, 107 Absatz 3 Satz 2 und 3 und Absatz 4, §§ 110 bis
+114, 116 des Aktiengesetzes in Verbindung mit § 93 Abs. 1 und 2 Satz
+1 und 2 des Aktiengesetzes, § 124 Abs. 3 Satz 2, §§ 170, 171, 394
+und 395 des Aktiengesetzes entsprechend anzuwenden, soweit nicht im
 Gesellschaftsvertrag ein anderes bestimmt ist.
 
 (2) Ist nach dem Drittelbeteiligungsgesetz ein Aufsichtsrat zu
 bestellen, so legt die Gesellschafterversammlung für den Frauenanteil
-im Aufsichtsrat und unter den Geschäftsführern Zielgrößen fest, es sei
-denn, sie hat dem Aufsichtsrat diese Aufgabe übertragen. Ist nach dem
-Mitbestimmungsgesetz, dem Montan-Mitbestimmungsgesetz oder dem
-Mitbestimmungsergänzungsgesetz ein Aufsichtsrat zu bestellen, so legt
-der Aufsichtsrat für den Frauenanteil im Aufsichtsrat und unter den
-Geschäftsführern Zielgrößen fest. Die Zielgrößen müssen den
-angestrebten Frauenanteil am jeweiligen Gesamtgremium beschreiben und
-bei Angaben in Prozent vollen Personenzahlen entsprechen. Wird für den
-Aufsichtsrat oder unter den Geschäftsführern die Zielgröße Null
-festgelegt, so ist dieser Beschluss klar und verständlich zu
+im Aufsichtsrat und unter den Geschäftsführern Zielgrößen fest, es
+sei denn, sie hat dem Aufsichtsrat diese Aufgabe übertragen. Ist
+nach dem Mitbestimmungsgesetz, dem Montan-Mitbestimmungsgesetz oder
+dem Mitbestimmungsergänzungsgesetz ein Aufsichtsrat zu bestellen,
+so legt der Aufsichtsrat für den Frauenanteil im Aufsichtsrat und
+unter den Geschäftsführern Zielgrößen fest. Die Zielgrößen müssen
+den angestrebten Frauenanteil am jeweiligen Gesamtgremium beschreiben
+und bei Angaben in Prozent vollen Personenzahlen entsprechen. Wird
+für den Aufsichtsrat oder unter den Geschäftsführern die Zielgröße
+Null festgelegt, so ist dieser Beschluss klar und verständlich zu
 begründen. Die Begründung muss ausführlich die Erwägungen darlegen,
 die der Entscheidung zugrunde liegen. Liegt der Frauenanteil bei
 Festlegung der Zielgrößen unter 30 Prozent, so dürfen die Zielgrößen
@@ -1394,9 +1358,9 @@ sind Fristen zur Erreichung der Zielgrößen festzulegen. Die Fristen
 dürfen jeweils nicht länger als fünf Jahre sein.
 
 (3) Werden die Mitglieder des Aufsichtsrats vor der Eintragung der
-Gesellschaft in das Handelsregister bestellt, gilt § 37 Abs. 4 Nr. 3
-und 3a des Aktiengesetzes entsprechend. Die Geschäftsführer haben bei
-jeder Änderung in den Personen der Aufsichtsratsmitglieder
+Gesellschaft in das Handelsregister bestellt, gilt § 37 Abs. 4 Nr.
+3 und 3a des Aktiengesetzes entsprechend. Die Geschäftsführer haben
+bei jeder Änderung in den Personen der Aufsichtsratsmitglieder
 unverzüglich eine Liste der Mitglieder des Aufsichtsrats, aus welcher
 Name, Vorname, ausgeübter Beruf und Wohnort der Mitglieder ersichtlich
 ist, zum Handelsregister einzureichen; das Gericht hat nach § 10 des
@@ -1410,25 +1374,28 @@ wegen Verletzung ihrer Obliegenheiten verjähren in fünf Jahren.
 ## Abschnitt 4 - Abänderungen des Gesellschaftsvertrags
 
 
-
 ### § 53 Form der Satzungsänderung
 
-(1) Eine Abänderung des Gesellschaftsvertrags kann nur durch Beschluß
+(1) Eine Abänderung des Gesellschaftsvertrags kann nur durch Beschluss
 der Gesellschafter erfolgen.
 
-(2) Der Beschluß muß notariell beurkundet werden, derselbe bedarf
-einer Mehrheit von drei Vierteilen der abgegebenen Stimmen. Der
-Gesellschaftsvertrag kann noch andere Erfordernisse aufstellen.
+(2) Der Beschluss bedarf einer Mehrheit von drei Vierteilen der
+abgegebenen Stimmen. Der Gesellschaftsvertrag kann noch andere
+Erfordernisse aufstellen.
 
-(3) Eine Vermehrung der den Gesellschaftern nach dem
+(3) Der Beschluss muss notariell beurkundet werden. Erfolgt die
+Beschlussfassung einstimmig, so ist § 2 Absatz 3 Satz 1, 3 und 4
+entsprechend anzuwenden.
+
+(4) Eine Vermehrung der den Gesellschaftern nach dem
 Gesellschaftsvertrag obliegenden Leistungen kann nur mit Zustimmung
 sämtlicher beteiligter Gesellschafter beschlossen werden.
 
 
 ### § 54 Anmeldung und Eintragung der Satzungsänderung
 
-(1) Die Abänderung des Gesellschaftsvertrags ist zur Eintragung in das
-Handelsregister anzumelden. Der Anmeldung ist der vollständige
+(1) Die Abänderung des Gesellschaftsvertrags ist zur Eintragung in
+das Handelsregister anzumelden. Der Anmeldung ist der vollständige
 Wortlaut des Gesellschaftsvertrags beizufügen; er muß mit der
 Bescheinigung eines Notars versehen sein, daß die geänderten
 Bestimmungen des Gesellschaftsvertrags mit dem Beschluß über die
@@ -1446,14 +1413,17 @@ Handelsregister des Sitzes der Gesellschaft eingetragen ist.
 
 ### § 55 Erhöhung des Stammkapitals
 
-(1) Wird eine Erhöhung des Stammkapitals beschlossen, so bedarf es zur
-Übernahme jedes Geschäftsanteils an dem erhöhten Kapital einer
+(1) Wird eine Erhöhung des Stammkapitals beschlossen, so bedarf es
+zur Übernahme jedes Geschäftsanteils an dem erhöhten Kapital einer
 notariell aufgenommenen oder beglaubigten Erklärung des Übernehmers.
+Die notarielle Aufnahme oder Beglaubigung der Erklärung kann auch
+mittels Videokommunikation gemäß den §§ 16a bis 16e und 40a des
+Beurkundungsgesetzes erfolgen.
 
 (2) Zur Übernahme eines Geschäftsanteils können von der Gesellschaft
-die bisherigen Gesellschafter oder andere Personen, welche durch die
-Übernahme ihren Beitritt zu der Gesellschaft erklären, zugelassen
-werden. Im letzteren Fall sind außer dem Nennbetrag des
+die bisherigen Gesellschafter oder andere Personen, welche
+durch die Übernahme ihren Beitritt zu der Gesellschaft erklären,
+zugelassen werden. Im letzteren Fall sind außer dem Nennbetrag des
 Geschäftsanteils auch sonstige Leistungen, zu welchen der Beitretende
 nach dem Gesellschaftsvertrag verpflichtet sein soll, in der in Absatz
 1 bezeichneten Urkunde ersichtlich zu machen.
@@ -1488,8 +1458,8 @@ werden, wenn die Ermächtigung es vorsieht.
 
 ### § 56 Kapitalerhöhung mit Sacheinlagen
 
-(1) Sollen Sacheinlagen geleistet werden, so müssen ihr Gegenstand und
-der Nennbetrag des Geschäftsanteils, auf den sich die Sacheinlage
+(1) Sollen Sacheinlagen geleistet werden, so müssen ihr Gegenstand
+und der Nennbetrag des Geschäftsanteils, auf den sich die Sacheinlage
 bezieht, im Beschluß über die Erhöhung des Stammkapitals festgesetzt
 werden. Die Festsetzung ist in die in § 55 Abs. 1 bezeichnete
 Erklärung des Übernehmers aufzunehmen.
@@ -1506,8 +1476,8 @@ Abs. 2 Satz 1 und Abs. 3 sowie § 19 Abs. 5 entsprechende Anwendung.
 
 ### § 57 Anmeldung der Erhöhung
 
-(1) Die beschlossene Erhöhung des Stammkapitals ist zur Eintragung in
-das Handelsregister anzumelden, nachdem das erhöhte Kapital durch
+(1) Die beschlossene Erhöhung des Stammkapitals ist zur Eintragung
+in das Handelsregister anzumelden, nachdem das erhöhte Kapital durch
 Übernahme von Geschäftsanteilen gedeckt ist.
 
 (2) In der Anmeldung ist die Versicherung abzugeben, daß die Einlagen
@@ -1521,19 +1491,15 @@ entsprechend.
 1.  die in § 55 Abs. 1 bezeichneten Erklärungen oder eine beglaubigte
     Abschrift derselben;
 
-
-2.  eine von den Anmeldenden unterschriebene Liste der Personen, welche
-    die neuen Geschäftsanteile übernommen haben; aus der Liste müssen die
+2.  eine von den Anmeldenden unterschriebene oder mit einer qualifizierten
+    elektronischen Signatur versehene Liste der Personen, welche die
+    neuen Geschäftsanteile übernommen haben; aus der Liste müssen die
     Nennbeträge der von jedem übernommenen Geschäftsanteile ersichtlich
     sein;
-
 
 3.  bei einer Kapitalerhöhung mit Sacheinlagen die Verträge, die den
     Festsetzungen nach § 56 zugrunde liegen oder zu ihrer Ausführung
     geschlossen worden sind.
-
-
-
 
 (4) Für die Verantwortlichkeit der Geschäftsführer, welche die
 Kapitalerhöhung zur Eintragung in das Handelsregister angemeldet
@@ -1547,7 +1513,6 @@ entsprechende Anwendung.
 
 
 ### § 57b (weggefallen)
-
 
 
 ### § 57c Kapitalerhöhung aus Gesellschaftsmitteln
@@ -1577,8 +1542,8 @@ Bilanz unter "Kapitalrücklage" oder "Gewinnrücklagen" oder im letzten
 Beschluß über die Verwendung des Jahresergebnisses als Zuführung zu
 diesen Rücklagen ausgewiesen sein.
 
-(2) Die Rücklagen können nicht umgewandelt werden, soweit in der
-zugrunde gelegten Bilanz ein Verlust, einschließlich eines
+(2) Die Rücklagen können nicht umgewandelt werden, soweit in
+der zugrunde gelegten Bilanz ein Verlust, einschließlich eines
 Verlustvortrags, ausgewiesen ist.
 
 (3) Andere Gewinnrücklagen, die einem bestimmten Zweck zu dienen
@@ -1594,16 +1559,16 @@ dem uneingeschränkten Bestätigungsvermerk der Abschlußprüfer versehen
 ist und wenn ihr Stichtag höchstens acht Monate vor der Anmeldung des
 Beschlusses zur Eintragung in das Handelsregister liegt.
 
-(2) Bei Gesellschaften, die nicht große im Sinne des § 267 Abs. 3 des
-Handelsgesetzbuchs sind, kann die Prüfung auch durch vereidigte
+(2) Bei Gesellschaften, die nicht große im Sinne des § 267 Abs. 3
+des Handelsgesetzbuchs sind, kann die Prüfung auch durch vereidigte
 Buchprüfer erfolgen; die Abschlußprüfer müssen von der Versammlung der
 Gesellschafter gewählt sein.
 
 
 ### § 57f Anforderungen an die Bilanz
 
-(1) Wird dem Beschluß nicht die letzte Jahresbilanz zugrunde gelegt,
-so muß die Bilanz den Vorschriften über die Gliederung der
+(1) Wird dem Beschluß nicht die letzte Jahresbilanz zugrunde
+gelegt, so muß die Bilanz den Vorschriften über die Gliederung der
 Jahresbilanz und über die Wertansätze in der Jahresbilanz entsprechen.
 Der Stichtag der Bilanz darf höchstens acht Monate vor der Anmeldung
 des Beschlusses zur Eintragung in das Handelsregister liegen.
@@ -1618,13 +1583,13 @@ ohne diese Bestätigung der Prüfer beschlossen werden.
 (3) Die Prüfer werden von den Gesellschaftern gewählt; falls nicht
 andere Prüfer gewählt werden, gelten die Prüfer als gewählt, die für
 die Prüfung des letzten Jahresabschlusses von den Gesellschaftern
-gewählt oder vom Gericht bestellt worden sind. Im Übrigen sind, soweit
-sich aus der Besonderheit des Prüfungsauftrags nichts anderes ergibt,
-§ 318 Absatz 1 Satz 2, § 319 Absatz 1 bis 4, § 319b Absatz 1, § 320
-Absatz 1 Satz 2 und Absatz 2, die §§ 321 und 323 des
+gewählt oder vom Gericht bestellt worden sind. Im Übrigen sind,
+soweit sich aus der Besonderheit des Prüfungsauftrags nichts anderes
+ergibt, § 318 Absatz 1 Satz 2, § 319 Absatz 1 bis 4, § 319b Absatz
+1, § 320 Absatz 1 Satz 2 und Absatz 2, die §§ 321 und 323 des
 Handelsgesetzbuchs sowie bei Gesellschaften, die Unternehmen von
-öffentlichem Interesse nach § 316a Satz 2 des Handelsgesetzbuchs sind,
-auch Artikel 5 der Verordnung (EU) Nr. 537/2014 des Europäischen
+öffentlichem Interesse nach § 316a Satz 2 des Handelsgesetzbuchs
+sind, auch Artikel 5 der Verordnung (EU) Nr. 537/2014 des Europäischen
 Parlaments und des Rates vom 16. April 2014 über spezifische
 Anforderungen an die Abschlussprüfung bei Unternehmen von öffentlichem
 Interesse und zur Aufhebung des Beschlusses 2005/909/EG der Kommission
@@ -1644,13 +1609,13 @@ Fällen des § 57f entsprechend anzuwenden.
 ### § 57h Arten der Kapitalerhöhung
 
 (1) Die Kapitalerhöhung kann vorbehaltlich des § 57l Abs. 2 durch
-Bildung neuer Geschäftsanteile oder durch Erhöhung des Nennbetrags der
-Geschäftsanteile ausgeführt werden. Die neuen Geschäftsanteile und die
-Geschäftsanteile, deren Nennbetrag erhöht wird, müssen auf einen
+Bildung neuer Geschäftsanteile oder durch Erhöhung des Nennbetrags
+der Geschäftsanteile ausgeführt werden. Die neuen Geschäftsanteile und
+die Geschäftsanteile, deren Nennbetrag erhöht wird, müssen auf einen
 Betrag gestellt werden, der auf volle Euro lautet.
 
-(2) Der Beschluß über die Erhöhung des Stammkapitals muß die Art der
-Erhöhung angeben. Soweit die Kapitalerhöhung durch Erhöhung des
+(2) Der Beschluß über die Erhöhung des Stammkapitals muß die Art
+der Erhöhung angeben. Soweit die Kapitalerhöhung durch Erhöhung des
 Nennbetrags der Geschäftsanteile ausgeführt werden soll, ist sie so zu
 bemessen, daß durch sie auf keinen Geschäftsanteil, dessen Nennbetrag
 erhöht wird, Beträge entfallen, die durch die Erhöhung des Nennbetrags
@@ -1665,13 +1630,13 @@ zugrunde gelegte, mit dem Bestätigungsvermerk der Prüfer versehene
 Bilanz, in den Fällen des § 57f außerdem die letzte Jahresbilanz,
 sofern sie noch nicht nach § 325 Abs. 1 des Handelsgesetzbuchs
 eingereicht ist, beizufügen. Die Anmeldenden haben dem Registergericht
-gegenüber zu erklären, daß nach ihrer Kenntnis seit dem Stichtag der
-zugrunde gelegten Bilanz bis zum Tag der Anmeldung keine
+gegenüber zu erklären, daß nach ihrer Kenntnis seit dem Stichtag
+der zugrunde gelegten Bilanz bis zum Tag der Anmeldung keine
 Vermögensminderung eingetreten ist, die der Kapitalerhöhung
 entgegenstünde, wenn sie am Tag der Anmeldung beschlossen worden wäre.
 
-(2) Das Registergericht darf den Beschluß nur eintragen, wenn die der
-Kapitalerhöhung zugrunde gelegte Bilanz für einen höchstens acht
+(2) Das Registergericht darf den Beschluß nur eintragen, wenn die
+der Kapitalerhöhung zugrunde gelegte Bilanz für einen höchstens acht
 Monate vor der Anmeldung liegenden Zeitpunkt aufgestellt und eine
 Erklärung nach Absatz 1 Satz 2 abgegeben worden ist.
 
@@ -1691,12 +1656,12 @@ der Gesellschafter ist nichtig.
 
 ### § 57k Teilrechte; Ausübung der Rechte
 
-(1) Führt die Kapitalerhöhung dazu, daß auf einen Geschäftsanteil nur
-ein Teil eines neuen Geschäftsanteils entfällt, so ist dieses
+(1) Führt die Kapitalerhöhung dazu, daß auf einen Geschäftsanteil
+nur ein Teil eines neuen Geschäftsanteils entfällt, so ist dieses
 Teilrecht selbständig veräußerlich und vererblich.
 
-(2) Die Rechte aus einem neuen Geschäftsanteil, einschließlich des
-Anspruchs auf Ausstellung einer Urkunde über den neuen
+(2) Die Rechte aus einem neuen Geschäftsanteil, einschließlich
+des Anspruchs auf Ausstellung einer Urkunde über den neuen
 Geschäftsanteil, können nur ausgeübt werden, wenn Teilrechte, die
 zusammen einen vollen Geschäftsanteil ergeben, in einer Hand vereinigt
 sind oder wenn sich mehrere Berechtigte, deren Teilrechte zusammen
@@ -1710,8 +1675,8 @@ zusammenschließen.
 teil.
 
 (2) Teileingezahlte Geschäftsanteile nehmen entsprechend ihrem
-Nennbetrag an der Erhöhung des Stammkapitals teil. Bei ihnen kann die
-Kapitalerhöhung nur durch Erhöhung des Nennbetrags der
+Nennbetrag an der Erhöhung des Stammkapitals teil. Bei ihnen
+kann die Kapitalerhöhung nur durch Erhöhung des Nennbetrags der
 Geschäftsanteile ausgeführt werden. Sind neben teileingezahlten
 Geschäftsanteilen vollständig eingezahlte Geschäftsanteile vorhanden,
 so kann bei diesen die Kapitalerhöhung durch Erhöhung des Nennbetrags
@@ -1752,18 +1717,18 @@ des Stammkapitals beschlossen worden ist.
 werden, daß die neuen Geschäftsanteile bereits am Gewinn des letzten
 vor der Beschlußfassung über die Kapitalerhöhung abgelaufenen
 Geschäftsjahrs teilnehmen. In diesem Fall ist die Erhöhung des
-Stammkapitals abweichend von § 57c Abs. 2 zu beschließen, bevor über
-die Ergebnisverwendung für das letzte vor der Beschlußfassung
+Stammkapitals abweichend von § 57c Abs. 2 zu beschließen, bevor
+über die Ergebnisverwendung für das letzte vor der Beschlußfassung
 abgelaufene Geschäftsjahr Beschluß gefaßt worden ist. Der Beschluß
 über die Ergebnisverwendung für das letzte vor der Beschlußfassung
-über die Kapitalerhöhung abgelaufene Geschäftsjahr wird erst wirksam,
-wenn das Stammkapital erhöht worden ist. Der Beschluß über die
-Erhöhung des Stammkapitals und der Beschluß über die
+über die Kapitalerhöhung abgelaufene Geschäftsjahr wird erst
+wirksam, wenn das Stammkapital erhöht worden ist. Der Beschluß
+über die Erhöhung des Stammkapitals und der Beschluß über die
 Ergebnisverwendung für das letzte vor der Beschlußfassung über die
 Kapitalerhöhung abgelaufene Geschäftsjahr sind nichtig, wenn der
-Beschluß über die Kapitalerhöhung nicht binnen drei Monaten nach der
-Beschlußfassung in das Handelsregister eingetragen worden ist; der
-Lauf der Frist ist gehemmt, solange eine Anfechtungs- oder
+Beschluß über die Kapitalerhöhung nicht binnen drei Monaten nach
+der Beschlußfassung in das Handelsregister eingetragen worden ist;
+der Lauf der Frist ist gehemmt, solange eine Anfechtungs- oder
 Nichtigkeitsklage rechtshängig ist.
 
 
@@ -1772,10 +1737,10 @@ Nichtigkeitsklage rechtshängig ist.
 Als Anschaffungskosten der vor der Erhöhung des Stammkapitals
 erworbenen Geschäftsanteile und der auf sie entfallenden neuen
 Geschäftsanteile gelten die Beträge, die sich für die einzelnen
-Geschäftsanteile ergeben, wenn die Anschaffungskosten der vor der
-Erhöhung des Stammkapitals erworbenen Geschäftsanteile auf diese und
-auf die auf sie entfallenden neuen Geschäftsanteile nach dem
-Verhältnis der Nennbeträge verteilt werden. Der Zuwachs an
+Geschäftsanteile ergeben, wenn die Anschaffungskosten der vor
+der Erhöhung des Stammkapitals erworbenen Geschäftsanteile auf
+diese und auf die auf sie entfallenden neuen Geschäftsanteile nach
+dem Verhältnis der Nennbeträge verteilt werden. Der Zuwachs an
 Geschäftsanteilen ist nicht als Zugang auszuweisen.
 
 
@@ -1791,26 +1756,20 @@ nachstehenden Bestimmungen erfolgen:
     der Gesellschaft ersichtlichen oder in anderer Weise bekannten
     Gläubiger sind durch besondere Mitteilung zur Anmeldung aufzufordern;
 
-
 2.  die Gläubiger, welche sich bei der Gesellschaft melden und der
     Herabsetzung nicht zustimmen, sind wegen der erhobenen Ansprüche zu
     befriedigen oder sicherzustellen;
-
 
 3.  die Anmeldung des Herabsetzungsbeschlusses zur Eintragung in das
     Handelsregister erfolgt nicht vor Ablauf eines Jahres seit dem Tage,
     an welchem die Aufforderung der Gläubiger in den Gesellschaftsblättern
     stattgefunden hat;
 
-
 4.  mit der Anmeldung ist die Bekanntmachung des Beschlusses einzureichen;
-    zugleich haben die Geschäftsführer die Versicherung abzugeben, daß die
-    Gläubiger, welche sich bei der Gesellschaft gemeldet und der
+    zugleich haben die Geschäftsführer die Versicherung abzugeben, daß
+    die Gläubiger, welche sich bei der Gesellschaft gemeldet und der
     Herabsetzung nicht zugestimmt haben, befriedigt oder sichergestellt
     sind.
-
-
-
 
 (2) Die Bestimmung in § 5 Abs. 1 über den Mindestbetrag des
 Stammkapitals bleibt unberührt. Erfolgt die Herabsetzung zum Zweck der
@@ -1825,9 +1784,9 @@ nicht unter den in § 5 Abs. 2 und 3 bezeichneten Betrag herabgehen.
 Wertminderungen auszugleichen oder sonstige Verluste zu decken, kann
 als vereinfachte Kapitalherabsetzung vorgenommen werden.
 
-(2) Die vereinfachte Kapitalherabsetzung ist nur zulässig, nachdem der
-Teil der Kapital- und Gewinnrücklagen, der zusammen über zehn vom
-Hundert des nach der Herabsetzung verbleibenden Stammkapitals
+(2) Die vereinfachte Kapitalherabsetzung ist nur zulässig, nachdem
+der Teil der Kapital- und Gewinnrücklagen, der zusammen über zehn
+vom Hundert des nach der Herabsetzung verbleibenden Stammkapitals
 hinausgeht, vorweg aufgelöst ist. Sie ist nicht zulässig, solange ein
 Gewinnvortrag vorhanden ist.
 
@@ -1840,8 +1799,8 @@ werden, der auf volle Euro lautet.
 Mindestnennbetrag herabgesetzt werden, wenn dieser durch eine
 Kapitalerhöhung wieder erreicht wird, die zugleich mit der
 Kapitalherabsetzung beschlossen ist und bei der Sacheinlagen nicht
-festgesetzt sind. Die Beschlüsse sind nichtig, wenn sie nicht binnen
-drei Monaten nach der Beschlußfassung in das Handelsregister
+festgesetzt sind. Die Beschlüsse sind nichtig, wenn sie nicht
+binnen drei Monaten nach der Beschlußfassung in das Handelsregister
 eingetragen worden sind. Der Lauf der Frist ist gehemmt, solange eine
 Anfechtungs- oder Nichtigkeitsklage rechtshängig ist. Die Beschlüsse
 sollen nur zusammen in das Handelsregister eingetragen werden.
@@ -1864,36 +1823,31 @@ durch die Herabsetzung ergibt, mindestens aber der nach § 5 Abs. 1
 zulässige Mindestnennbetrag.
 
 (3) Ein Betrag, der auf Grund des Absatzes 2 in die Kapitalrücklage
-eingestellt worden ist, darf vor Ablauf des fünften nach der
-Beschlußfassung über die Kapitalherabsetzung beginnenden
+eingestellt worden ist, darf vor Ablauf des fünften nach
+der Beschlußfassung über die Kapitalherabsetzung beginnenden
 Geschäftsjahrs nur verwandt werden
 
 1.  zum Ausgleich eines Jahresfehlbetrags, soweit er nicht durch einen
     Gewinnvortrag aus dem Vorjahr gedeckt ist und nicht durch Auflösung
     von Gewinnrücklagen ausgeglichen werden kann;
 
-
 2.  zum Ausgleich eines Verlustvortrags aus dem Vorjahr, soweit er nicht
     durch einen Jahresüberschuß gedeckt ist und nicht durch Auflösung von
     Gewinnrücklagen ausgeglichen werden kann;
 
-
 3.  zur Kapitalerhöhung aus Gesellschaftsmitteln.
-
-
-
 
 
 ### § 58c Nichteintritt angenommener Verluste
 
-Ergibt sich bei Aufstellung der Jahresbilanz für das Geschäftsjahr, in
-dem der Beschluß über die Kapitalherabsetzung gefaßt wurde, oder für
-eines der beiden folgenden Geschäftsjahre, daß Wertminderungen und
-sonstige Verluste in der bei der Beschlußfassung angenommenen Höhe
-tatsächlich nicht eingetreten oder ausgeglichen waren, so ist der
+Ergibt sich bei Aufstellung der Jahresbilanz für das Geschäftsjahr,
+in dem der Beschluß über die Kapitalherabsetzung gefaßt wurde, oder
+für eines der beiden folgenden Geschäftsjahre, daß Wertminderungen
+und sonstige Verluste in der bei der Beschlußfassung angenommenen
+Höhe tatsächlich nicht eingetreten oder ausgeglichen waren, so ist der
 Unterschiedsbetrag in die Kapitalrücklage einzustellen. Für einen nach
-Satz 1 in die Kapitalrücklage eingestellten Betrag gilt § 58b Abs. 3
-sinngemäß.
+Satz 1 in die Kapitalrücklage eingestellten Betrag gilt § 58b Abs.
+3 sinngemäß.
 
 
 ### § 58d Gewinnausschüttung
@@ -1909,25 +1863,27 @@ der nach § 5 Abs. 1 zulässige Mindestnennbetrag.
 erst für ein Geschäftsjahr zulässig, das später als zwei Jahre nach
 der Beschlußfassung über die Kapitalherabsetzung beginnt. Dies gilt
 nicht, wenn die Gläubiger, deren Forderungen vor der Bekanntmachung
-der Eintragung des Beschlusses begründet worden waren, befriedigt oder
-sichergestellt sind, soweit sie sich binnen sechs Monaten nach der
-Bekanntmachung des Jahresabschlusses, auf Grund dessen die
+der Eintragung des Beschlusses begründet worden waren, befriedigt
+oder sichergestellt sind, soweit sie sich binnen sechs Monaten
+nach der Bekanntmachung des Jahresabschlusses, auf Grund dessen die
 Gewinnverteilung beschlossen ist, zu diesem Zweck gemeldet haben.
-Einer Sicherstellung der Gläubiger bedarf es nicht, die im Fall des
-Insolvenzverfahrens ein Recht auf vorzugsweise Befriedigung aus einer
-Deckungsmasse haben, die nach gesetzlicher Vorschrift zu ihrem Schutz
-errichtet und staatlich überwacht ist. Die Gläubiger sind in der
-Bekanntmachung nach § 325 Abs. 2 des Handelsgesetzbuchs auf die
-Befriedigung oder Sicherstellung hinzuweisen.
+Einer Sicherstellung der Gläubiger bedarf es nicht, die im Fall
+des Insolvenzverfahrens ein Recht auf vorzugsweise Befriedigung aus
+einer Deckungsmasse haben, die nach gesetzlicher Vorschrift zu ihrem
+Schutz errichtet und staatlich überwacht ist. Die Gläubiger sind auf
+die Befriedigung oder Sicherstellung durch eine gesonderte Erklärung
+hinzuweisen, die der das Unternehmensregister führenden Stelle
+gemeinsam mit dem Jahresabschluss elektronisch zur Einstellung in das
+Unternehmensregister zu übermitteln ist.
 
 
 ### § 58e Beschluss über die Kapitalherabsetzung
 
 (1) Im Jahresabschluß für das letzte vor der Beschlußfassung über die
 Kapitalherabsetzung abgelaufene Geschäftsjahr können das Stammkapital
-sowie die Kapital- und Gewinnrücklagen in der Höhe ausgewiesen werden,
-in der sie nach der Kapitalherabsetzung bestehen sollen. Dies gilt
-nicht, wenn der Jahresabschluß anders als durch Beschluß der
+sowie die Kapital- und Gewinnrücklagen in der Höhe ausgewiesen
+werden, in der sie nach der Kapitalherabsetzung bestehen sollen. Dies
+gilt nicht, wenn der Jahresabschluß anders als durch Beschluß der
 Gesellschafter festgestellt wird.
 
 (2) Der Beschluß über die Feststellung des Jahresabschlusses soll
@@ -1939,20 +1895,20 @@ in das Handelsregister eingetragen worden ist. Der Lauf der Frist ist
 gehemmt, solange eine Anfechtungs- oder Nichtigkeitsklage rechtshängig
 ist.
 
-(4) Der Jahresabschluß darf nach § 325 des Handelsgesetzbuchs erst
-nach Eintragung des Beschlusses über die Kapitalherabsetzung
+(4) Der Jahresabschluß darf nach § 325 des Handelsgesetzbuchs
+erst nach Eintragung des Beschlusses über die Kapitalherabsetzung
 offengelegt werden.
 
 
 ### § 58f Kapitalherabsetzung bei gleichzeitiger Erhöhung des Stammkapitals
 
-(1) Wird im Fall des § 58e zugleich mit der Kapitalherabsetzung eine
-Erhöhung des Stammkapitals beschlossen, so kann auch die
+(1) Wird im Fall des § 58e zugleich mit der Kapitalherabsetzung
+eine Erhöhung des Stammkapitals beschlossen, so kann auch die
 Kapitalerhöhung in dem Jahresabschluß als vollzogen berücksichtigt
 werden. Die Beschlussfassung ist nur zulässig, wenn die neuen
 Geschäftsanteile übernommen, keine Sacheinlagen festgesetzt sind und
-wenn auf jeden neuen Geschäftsanteil die Einzahlung geleistet ist, die
-nach § 56a zur Zeit der Anmeldung der Kapitalerhöhung bewirkt sein
+wenn auf jeden neuen Geschäftsanteil die Einzahlung geleistet ist,
+die nach § 56a zur Zeit der Anmeldung der Kapitalerhöhung bewirkt sein
 muss. Die Übernahme und die Einzahlung sind dem Notar nachzuweisen,
 der den Beschluß über die Erhöhung des Stammkapitals beurkundet.
 
@@ -1963,17 +1919,15 @@ sind. Der Lauf der Frist ist gehemmt, solange eine Anfechtungs- oder
 Nichtigkeitsklage rechtshängig ist. Die Beschlüsse sollen nur zusammen
 in das Handelsregister eingetragen werden.
 
-(3) Der Jahresabschluß darf nach § 325 des Handelsgesetzbuchs erst
-offengelegt werden, nachdem die Beschlüsse über die
+(3) Der Jahresabschluß darf nach § 325 des Handelsgesetzbuchs
+erst offengelegt werden, nachdem die Beschlüsse über die
 Kapitalherabsetzung und Kapitalerhöhung eingetragen worden sind.
 
 
 ### § 59 (weggefallen)
 
 
-
 ## Abschnitt 5 - Auflösung und Nichtigkeit der Gesellschaft
-
 
 
 ### § 60 Auflösungsgründe
@@ -1982,16 +1936,13 @@ Kapitalherabsetzung und Kapitalerhöhung eingetragen worden sind.
 
 1.  durch Ablauf der im Gesellschaftsvertrag bestimmten Zeit;
 
-
 2.  durch Beschluß der Gesellschafter; derselbe bedarf, sofern im
     Gesellschaftsvertrag nicht ein anderes bestimmt ist, einer Mehrheit
     von drei Vierteilen der abgegebenen Stimmen;
 
-
 3.  durch gerichtliches Urteil oder durch Entscheidung des
     Verwaltungsgerichts oder der Verwaltungsbehörde in den Fällen der §§
     61 und 62;
-
 
 4.  durch die Eröffnung des Insolvenzverfahrens; wird das Verfahren auf
     Antrag des Schuldners eingestellt oder nach der Bestätigung eines
@@ -1999,23 +1950,17 @@ Kapitalherabsetzung und Kapitalerhöhung eingetragen worden sind.
     aufgehoben, so können die Gesellschafter die Fortsetzung der
     Gesellschaft beschließen;
 
-
 5.  mit der Rechtskraft des Beschlusses, durch den die Eröffnung des
     Insolvenzverfahrens mangels Masse abgelehnt worden ist;
-
 
 6.  mit der Rechtskraft einer Verfügung des Registergerichts, durch welche
     nach § 399 des Gesetzes über das Verfahren in Familiensachen und in
     den Angelegenheiten der freiwilligen Gerichtsbarkeit ein Mangel des
     Gesellschaftsvertrags festgestellt worden ist;
 
-
-7.  durch die Löschung der Gesellschaft wegen Vermögenslosigkeit nach §
-    394 des Gesetzes über das Verfahren in Familiensachen und in den
+7.  durch die Löschung der Gesellschaft wegen Vermögenslosigkeit nach
+    § 394 des Gesetzes über das Verfahren in Familiensachen und in den
     Angelegenheiten der freiwilligen Gerichtsbarkeit.
-
-
-
 
 (2) Im Gesellschaftsvertrag können weitere Auflösungsgründe
 festgesetzt werden.
@@ -2024,8 +1969,8 @@ festgesetzt werden.
 ### § 61 Auflösung durch Urteil
 
 (1) Die Gesellschaft kann durch gerichtliches Urteil aufgelöst werden,
-wenn die Erreichung des Gesellschaftszweckes unmöglich wird, oder wenn
-andere, in den Verhältnissen der Gesellschaft liegende, wichtige
+wenn die Erreichung des Gesellschaftszweckes unmöglich wird, oder
+wenn andere, in den Verhältnissen der Gesellschaft liegende, wichtige
 Gründe für die Auflösung vorhanden sind.
 
 (2) Die Auflösungsklage ist gegen die Gesellschaft zu richten. Sie
@@ -2051,25 +1996,23 @@ den für streitige Verwaltungssachen ... geltenden Vorschriften.
 ### § 63 (weggefallen)
 
 
-
 ### § 64 (weggefallen)
-
 
 
 ### § 65 Anmeldung und Eintragung der Auflösung
 
 (1) Die Auflösung der Gesellschaft ist zur Eintragung in das
 Handelsregister anzumelden. Dies gilt nicht in den Fällen der
-Eröffnung oder der Ablehnung der Eröffnung des Insolvenzverfahrens und
-der gerichtlichen Feststellung eines Mangels des
+Eröffnung oder der Ablehnung der Eröffnung des Insolvenzverfahrens
+und der gerichtlichen Feststellung eines Mangels des
 Gesellschaftsvertrags. In diesen Fällen hat das Gericht die Auflösung
-und ihren Grund von Amts wegen einzutragen. Im Falle der Löschung der
-Gesellschaft (§ 60 Abs. 1 Nr. 7) entfällt die Eintragung der
+und ihren Grund von Amts wegen einzutragen. Im Falle der Löschung
+der Gesellschaft (§ 60 Abs. 1 Nr. 7) entfällt die Eintragung der
 Auflösung.
 
 (2) Die Auflösung ist von den Liquidatoren in den
-Gesellschaftsblättern bekanntzumachen. Durch die Bekanntmachung sind
-zugleich die Gläubiger der Gesellschaft aufzufordern, sich bei
+Gesellschaftsblättern bekanntzumachen. Durch die Bekanntmachung
+sind zugleich die Gläubiger der Gesellschaft aufzufordern, sich bei
 derselben zu melden.
 
 
@@ -2087,11 +2030,11 @@ erfolgen.
 
 (3) Die Abberufung von Liquidatoren kann durch das Gericht unter
 derselben Voraussetzung wie die Bestellung stattfinden. Liquidatoren,
-welche nicht vom Gericht ernannt sind, können auch durch Beschluß der
-Gesellschafter vor Ablauf des Zeitraums, für welchen sie bestellt
+welche nicht vom Gericht ernannt sind, können auch durch Beschluß
+der Gesellschafter vor Ablauf des Zeitraums, für welchen sie bestellt
 sind, abberufen werden.
 
-(4) Für die Auswahl der Liquidatoren findet § 6 Abs. 2 Satz 2 und 3
+(4) Für die Auswahl der Liquidatoren findet § 6 Abs. 2 Satz 2 bis 4
 entsprechende Anwendung.
 
 (5) Ist die Gesellschaft durch Löschung wegen Vermögenslosigkeit
@@ -2112,9 +2055,9 @@ in das Handelsregister anzumelden.
 Liquidatoren oder über die Änderung in den Personen derselben in
 Urschrift oder öffentlich beglaubigter Abschrift beizufügen.
 
-(3) In der Anmeldung haben die Liquidatoren zu versichern, daß keine
-Umstände vorliegen, die ihrer Bestellung nach § 66 Abs. 4 in
-Verbindung mit § 6 Abs. 2 Satz 2 Nr. 2 und 3 sowie Satz 3
+(3) In der Anmeldung haben die Liquidatoren zu versichern, daß
+keine Umstände vorliegen, die ihrer Bestellung nach § 66 Abs. 4
+in Verbindung mit § 6 Abs. 2 Satz 2 Nr. 2 und 3 sowie Satz 3 und 4
 entgegenstehen, und daß sie über ihre unbeschränkte Auskunftspflicht
 gegenüber dem Gericht belehrt worden sind. § 8 Abs. 3 Satz 2 ist
 anzuwenden.
@@ -2127,22 +2070,21 @@ Liquidatoren geschieht von Amts wegen.
 
 ### § 68 Zeichnung der Liquidatoren
 
-(1) Die Liquidatoren haben in der bei ihrer Bestellung bestimmten Form
-ihre Willenserklärungen kundzugeben und für die Gesellschaft zu
-zeichnen. Ist nichts darüber bestimmt, so muß die Erklärung und
+(1) Die Liquidatoren haben in der bei ihrer Bestellung bestimmten
+Form ihre Willenserklärungen kundzugeben und für die Gesellschaft
+zu zeichnen. Ist nichts darüber bestimmt, so muß die Erklärung und
 Zeichnung durch sämtliche Liquidatoren erfolgen.
 
-(2) Die Zeichnungen geschehen in der Weise, daß die Liquidatoren der
-bisherigen, nunmehr als Liquidationsfirma zu bezeichnenden Firma ihre
-Namensunterschrift beifügen.
+(2) Zeichnen Liquidatoren für die Gesellschaft, ist der Firma ein auf
+die Liquidation hinweisender Zusatz hinzuzufügen.
 
 
 ### § 69 Rechtsverhältnisse von Gesellschaft und Gesellschaftern
 
 (1) Bis zur Beendigung der Liquidation kommen ungeachtet der Auflösung
-der Gesellschaft in bezug auf die Rechtsverhältnisse derselben und der
-Gesellschafter die Vorschriften des zweiten und dritten Abschnitts zur
-Anwendung, soweit sich aus den Bestimmungen des gegenwärtigen
+der Gesellschaft in bezug auf die Rechtsverhältnisse derselben und
+der Gesellschafter die Vorschriften des zweiten und dritten Abschnitts
+zur Anwendung, soweit sich aus den Bestimmungen des gegenwärtigen
 Abschnitts und aus dem Wesen der Liquidation nicht ein anderes ergibt.
 
 (2) Der Gerichtsstand, welchen die Gesellschaft zur Zeit ihrer
@@ -2154,8 +2096,8 @@ bestehen.
 
 Die Liquidatoren haben die laufenden Geschäfte zu beendigen, die
 Verpflichtungen der aufgelösten Gesellschaft zu erfüllen, die
-Forderungen derselben einzuziehen und das Vermögen der Gesellschaft in
-Geld umzusetzen; sie haben die Gesellschaft gerichtlich und
+Forderungen derselben einzuziehen und das Vermögen der Gesellschaft
+in Geld umzusetzen; sie haben die Gesellschaft gerichtlich und
 außergerichtlich zu vertreten. Zur Beendigung schwebender Geschäfte
 können die Liquidatoren auch neue Geschäfte eingehen.
 
@@ -2168,17 +2110,17 @@ sowie für den Schluß eines jeden Jahres einen Jahresabschluß und einen
 Lagebericht aufzustellen.
 
 (2) Die Gesellschafter beschließen über die Feststellung der
-Eröffnungsbilanz und des Jahresabschlusses sowie über die Entlastung
-der Liquidatoren. Auf die Eröffnungsbilanz und den erläuternden
-Bericht sind die Vorschriften über den Jahresabschluß entsprechend
-anzuwenden. Vermögensgegenstände des Anlagevermögens sind jedoch wie
-Umlaufvermögen zu bewerten, soweit ihre Veräußerung innerhalb eines
-übersehbaren Zeitraums beabsichtigt ist oder diese
+Eröffnungsbilanz und des Jahresabschlusses sowie über die
+Entlastung der Liquidatoren. Auf die Eröffnungsbilanz und den
+erläuternden Bericht sind die Vorschriften über den Jahresabschluß
+entsprechend anzuwenden. Vermögensgegenstände des Anlagevermögens
+sind jedoch wie Umlaufvermögen zu bewerten, soweit ihre Veräußerung
+innerhalb eines übersehbaren Zeitraums beabsichtigt ist oder diese
 Vermögensgegenstände nicht mehr dem Geschäftsbetrieb dienen; dies gilt
 auch für den Jahresabschluß.
 
-(3) Das Gericht kann von der Prüfung des Jahresabschlusses und des
-Lageberichts durch einen Abschlußprüfer befreien, wenn die
+(3) Das Gericht kann von der Prüfung des Jahresabschlusses und
+des Lageberichts durch einen Abschlußprüfer befreien, wenn die
 Verhältnisse der Gesellschaft so überschaubar sind, daß eine Prüfung
 im Interesse der Gläubiger und der Gesellschafter nicht geboten
 erscheint. Gegen die Entscheidung ist die Beschwerde zulässig.
@@ -2193,8 +2135,8 @@ in Liquidation befindet; im Übrigen gilt § 35a entsprechend.
 
 ### § 72 Vermögensverteilung
 
-Das Vermögen der Gesellschaft wird unter die Gesellschafter nach
-Verhältnis ihrer Geschäftsanteile verteilt. Durch den
+Das Vermögen der Gesellschaft wird unter die Gesellschafter
+nach Verhältnis ihrer Geschäftsanteile verteilt. Durch den
 Gesellschaftsvertrag kann ein anderes Verhältnis für die Verteilung
 bestimmt werden.
 
@@ -2213,9 +2155,9 @@ zur Zeit nicht ausführbar oder ist eine Verbindlichkeit streitig, so
 darf die Verteilung des Vermögens nur erfolgen, wenn dem Gläubiger
 Sicherheit geleistet ist.
 
-(3) Liquidatoren, welche diesen Vorschriften zuwiderhandeln, sind zum
-Ersatz der verteilten Beträge solidarisch verpflichtet. Auf den
-Ersatzanspruch finden die Bestimmungen in § 43 Abs. 3 und 4
+(3) Liquidatoren, welche diesen Vorschriften zuwiderhandeln, sind
+zum Ersatz der verteilten Beträge solidarisch verpflichtet. Auf
+den Ersatzanspruch finden die Bestimmungen in § 43 Abs. 3 und 4
 entsprechende Anwendung.
 
 
@@ -2238,11 +2180,11 @@ von dem Gericht zur Einsicht ermächtigt werden.
 
 ### § 75 Nichtigkeitsklage
 
-(1) Enthält der Gesellschaftsvertrag keine Bestimmungen über die Höhe
-des Stammkapitals oder über den Gegenstand des Unternehmens oder sind
-die Bestimmungen des Gesellschaftsvertrags über den Gegenstand des
-Unternehmens nichtig, so kann jeder Gesellschafter, jeder
-Geschäftsführer und, wenn ein Aufsichtsrat bestellt ist, jedes
+(1) Enthält der Gesellschaftsvertrag keine Bestimmungen über die
+Höhe des Stammkapitals oder über den Gegenstand des Unternehmens
+oder sind die Bestimmungen des Gesellschaftsvertrags über den
+Gegenstand des Unternehmens nichtig, so kann jeder Gesellschafter,
+jeder Geschäftsführer und, wenn ein Aufsichtsrat bestellt ist, jedes
 Mitglied des Aufsichtsrats im Wege der Klage beantragen, daß die
 Gesellschaft für nichtig erklärt werde.
 
@@ -2276,7 +2218,6 @@ erforderlich ist.
 ## Abschnitt 6 - Sondervorschriften bei Beteiligung des Bundes
 
 
-
 ### § 77a Besetzung von Organen bei Gesellschaften mit Mehrheitsbeteiligung des Bundes
 
 (1) Gesellschaften mit beschränkter Haftung mit Mehrheitsbeteiligung
@@ -2285,12 +2226,10 @@ Inland,
 
 1.  deren Anteile zur Mehrheit vom Bund gehalten werden oder
 
-
 2.  die große Kapitalgesellschaften (§ 267 Absatz 3 des
     Handelsgesetzbuchs) sind und deren Anteile zur Mehrheit von
     Gesellschaften gehalten werden, deren Anteile ihrerseits zur Mehrheit
     vom Bund gehalten werden, oder
-
 
 3.  die in der Regel mehr als 500 Arbeitnehmerinnen und Arbeitnehmer haben
     und deren Anteile zur Mehrheit von Gesellschaften gehalten werden,
@@ -2298,57 +2237,46 @@ Inland,
 
     a)  vom Bund gehalten werden oder
 
-
     b)  von Gesellschaften gehalten werden, bei denen sich die Inhaberschaften
         an den Anteilen in dieser Weise bis zu Gesellschaften fortsetzen,
         deren Anteile zur Mehrheit vom Bund gehalten werden.
-
-
-
-
-
 
 Anteile, die über ein Sondervermögen des Bundes gehalten werden,
 bleiben außer Betracht. Dem Bund stehen öffentlich-rechtliche
 Anstalten des Bundes, die unternehmerisch tätig sind, gleich.
 
 (2) Hat eine Gesellschaft mit beschränkter Haftung mit
-Mehrheitsbeteiligung des Bundes mehr als zwei Geschäftsführer, muss
-mindestens ein Geschäftsführer eine Frau und mindestens ein
+Mehrheitsbeteiligung des Bundes mehr als zwei Geschäftsführer,
+muss mindestens ein Geschäftsführer eine Frau und mindestens ein
 Geschäftsführer ein Mann sein. Eine Bestellung eines Geschäftsführers
-unter Verstoß gegen das Beteiligungsgebot ist nichtig. Gilt das
-Beteiligungsgebot nach Satz 1, entfällt eine Pflicht zur
+unter Verstoß gegen das Beteiligungsgebot ist nichtig. Gilt
+das Beteiligungsgebot nach Satz 1, entfällt eine Pflicht zur
 Zielgrößensetzung für die Geschäftsführung.
 
-(3) Für die Zusammensetzung des Aufsichtsrats einer Gesellschaft mit
-beschränkter Haftung mit Mehrheitsbeteiligung des Bundes gilt
+(3) Für die Zusammensetzung des Aufsichtsrats einer Gesellschaft
+mit beschränkter Haftung mit Mehrheitsbeteiligung des Bundes gilt
 unabhängig von einer Geltung des Mitbestimmungsgesetzes, des Montan-
-Mitbestimmungsgesetzes oder des Mitbestimmungsergänzungsgesetzes § 96
-Absatz 2 des Aktiengesetzes entsprechend. Eine Pflicht zur
+Mitbestimmungsgesetzes oder des Mitbestimmungsergänzungsgesetzes
+§ 96 Absatz 2 des Aktiengesetzes entsprechend. Eine Pflicht zur
 Zielgrößensetzung besteht insoweit nicht.
 
 (4) Die Länder können die Vorgaben der Absätze 2 und 3 durch
 Landesgesetz auf Gesellschaften mit beschränkter Haftung erstrecken,
-an denen eine Mehrheitsbeteiligung eines Landes entsprechend Absatz 1
-besteht. In diesem Fall gelten für Gesellschaften mit
+an denen eine Mehrheitsbeteiligung eines Landes entsprechend
+Absatz 1 besteht. In diesem Fall gelten für Gesellschaften mit
 Mehrheitsbeteiligung eines Landes, die der Mitbestimmung unterliegen,
 die gesetzlichen Regelungen und Wahlordnungen zur Mitbestimmung in
 Unternehmen mit Mehrheitsbeteiligung des Bundes entsprechend.
 
 
-## Abschnitt 6 - Ordnungs-, Straf- und Bußgeldvorschriften
-
-
-
 ## Abschnitt 7 - Ordnungs-, Straf- und Bußgeldvorschriften
-
 
 
 ### § 78 Anmeldepflichtige
 
 Die in diesem Gesetz vorgesehenen Anmeldungen zum Handelsregister sind
-durch die Geschäftsführer oder die Liquidatoren, die in § 7 Abs. 1, §
-57 Abs. 1, § 57i Abs. 1, § 58 Abs. 1 Nr. 3 vorgesehenen Anmeldungen
+durch die Geschäftsführer oder die Liquidatoren, die in § 7 Abs. 1,
+§ 57 Abs. 1, § 57i Abs. 1, § 58 Abs. 1 Nr. 3 vorgesehenen Anmeldungen
 sind durch sämtliche Geschäftsführer zu bewirken.
 
 
@@ -2370,9 +2298,7 @@ statt.
 ### § 80 (weggefallen)
 
 
-
 ### § 81 (weggefallen)
-
 
 
 ### § 82 Falsche Angaben
@@ -2381,39 +2307,32 @@ statt.
 bestraft, wer
 
 1.  als Gesellschafter oder als Geschäftsführer zum Zweck der Eintragung
-    der Gesellschaft über die Übernahme der Geschäftsanteile, die Leistung
-    der Einlagen, die Verwendung eingezahlter Beträge, über
+    der Gesellschaft über die Übernahme der Geschäftsanteile, die
+    Leistung der Einlagen, die Verwendung eingezahlter Beträge, über
     Sondervorteile, Gründungsaufwand und Sacheinlagen,
 
-
 2.  als Gesellschafter im Sachgründungsbericht,
-
 
 3.  als Geschäftsführer zum Zweck der Eintragung einer Erhöhung des
     Stammkapitals über die Zeichnung oder Einbringung des neuen Kapitals
     oder über Sacheinlagen,
 
-
 4.  als Geschäftsführer in der in § 57i Abs. 1 Satz 2 vorgeschriebenen
     Erklärung oder
 
-
-5.  als Geschäftsführer einer Gesellschaft mit beschränkter Haftung oder
-    als Geschäftsleiter einer ausländischen juristischen Person in der
-    nach § 8 Abs. 3 Satz 1 oder § 39 Abs. 3 Satz 1 abzugebenden
+5.  als Geschäftsführer einer Gesellschaft mit beschränkter Haftung
+    oder als Geschäftsleiter einer ausländischen juristischen Person
+    in der nach § 8 Abs. 3 Satz 1 oder § 39 Abs. 3 Satz 1 abzugebenden
     Versicherung oder als Liquidator in der nach § 67 Abs. 3 Satz 1
     abzugebenden Versicherung
-
-
 
 falsche Angaben macht.
 
 (2) Ebenso wird bestraft, wer
 
-1.  als Geschäftsführer zum Zweck der Herabsetzung des Stammkapitals über
-    die Befriedigung oder Sicherstellung der Gläubiger eine unwahre
+1.  als Geschäftsführer zum Zweck der Herabsetzung des Stammkapitals
+    über die Befriedigung oder Sicherstellung der Gläubiger eine unwahre
     Versicherung abgibt oder
-
 
 2.  als Geschäftsführer, Liquidator, Mitglied eines Aufsichtsrats oder
     ähnlichen Organs in einer öffentlichen Mitteilung die Vermögenslage
@@ -2422,11 +2341,7 @@ falsche Angaben macht.
     bedroht ist.
 
 
-
-
-
 ### § 83 (weggefallen)
-
 
 
 ### § 84 Verletzung der Verlustanzeigepflicht
@@ -2441,45 +2356,41 @@ bis zu einem Jahr oder Geldstrafe.
 
 ### § 85 Verletzung der Geheimhaltungspflicht
 
-(1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
-bestraft, wer ein Geheimnis der Gesellschaft, namentlich ein Betriebs-
-oder Geschäftsgeheimnis, das ihm in seiner Eigenschaft als
-Geschäftsführer, Mitglied des Aufsichtsrats oder Liquidator
+(1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe
+wird bestraft, wer ein Geheimnis der Gesellschaft, namentlich ein
+Betriebs- oder Geschäftsgeheimnis, das ihm in seiner Eigenschaft
+als Geschäftsführer, Mitglied des Aufsichtsrats oder Liquidator
 bekanntgeworden ist, unbefugt offenbart.
 
 (2) Handelt der Täter gegen Entgelt oder in der Absicht, sich oder
-einen anderen zu bereichern oder einen anderen zu schädigen, so ist
-die Strafe Freiheitsstrafe bis zu zwei Jahren oder Geldstrafe. Ebenso
-wird bestraft, wer ein Geheimnis der in Absatz 1 bezeichneten Art,
-namentlich ein Betriebs- oder Geschäftsgeheimnis, das ihm unter den
-Voraussetzungen des Absatzes 1 bekanntgeworden ist, unbefugt
+einen anderen zu bereichern oder einen anderen zu schädigen, so
+ist die Strafe Freiheitsstrafe bis zu zwei Jahren oder Geldstrafe.
+Ebenso wird bestraft, wer ein Geheimnis der in Absatz 1 bezeichneten
+Art, namentlich ein Betriebs- oder Geschäftsgeheimnis, das ihm unter
+den Voraussetzungen des Absatzes 1 bekanntgeworden ist, unbefugt
 verwertet.
 
 (3) Die Tat wird nur auf Antrag der Gesellschaft verfolgt. Hat ein
 Geschäftsführer oder ein Liquidator die Tat begangen, so sind der
 Aufsichtsrat und, wenn kein Aufsichtsrat vorhanden ist, von den
-Gesellschaftern bestellte besondere Vertreter antragsberechtigt. Hat
-ein Mitglied des Aufsichtsrats die Tat begangen, so sind die
+Gesellschaftern bestellte besondere Vertreter antragsberechtigt.
+Hat ein Mitglied des Aufsichtsrats die Tat begangen, so sind die
 Geschäftsführer oder die Liquidatoren antragsberechtigt.
 
 
 ### § 86 Verletzung der Pflichten bei Abschlussprüfungen
 
 Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
-bestraft, wer als Mitglied eines Aufsichtsrats oder als Mitglied eines
-Prüfungsausschusses einer Gesellschaft, die ein Unternehmen von
-öffentlichem Interesse nach § 316a Satz 2 Nummer 1 oder 2 des
+bestraft, wer als Mitglied eines Aufsichtsrats oder als Mitglied
+eines Prüfungsausschusses einer Gesellschaft, die ein Unternehmen
+von öffentlichem Interesse nach § 316a Satz 2 Nummer 1 oder 2 des
 Handelsgesetzbuchs ist,
 
 1.  eine in § 87 Absatz 1, 2 oder 3 bezeichnete Handlung begeht und dafür
     einen Vermögensvorteil erhält oder sich versprechen lässt oder
 
-
 2.  eine in § 87 Absatz 1, 2 oder 3 bezeichnete Handlung beharrlich
     wiederholt.
-
-
-
 
 
 ### § 87 Bußgeldvorschriften
@@ -2490,14 +2401,13 @@ Unternehmen von öffentlichem Interesse nach § 316a Satz 2 Nummer 1
 oder 2 des Handelsgesetzbuchs ist,
 
 1.  die Unabhängigkeit des Abschlussprüfers oder der Prüfungsgesellschaft
-    nicht nach Maßgabe des Artikels 4 Absatz 3 Unterabsatz 2, des Artikels
-    5 Absatz 4 Unterabsatz 1 Satz 1 oder des Artikels 6 Absatz 2 der
-    Verordnung (EU) Nr. 537/2014 des Europäischen Parlaments und des Rates
-    vom 16. April 2014 über spezifische Anforderungen an die
+    nicht nach Maßgabe des Artikels 4 Absatz 3 Unterabsatz 2, des
+    Artikels 5 Absatz 4 Unterabsatz 1 Satz 1 oder des Artikels 6 Absatz
+    2 der Verordnung (EU) Nr. 537/2014 des Europäischen Parlaments und
+    des Rates vom 16. April 2014 über spezifische Anforderungen an die
     Abschlussprüfung bei Unternehmen von öffentlichem Interesse und zur
     Aufhebung des Beschlusses 2005/909/EG der Kommission (ABl. L 158 vom
     27\.5.2014, S. 77, L 170 vom 11.6.2014, S. 66) überwacht oder
-
 
 2.  eine Empfehlung für die Bestellung eines Abschlussprüfers oder einer
     Prüfungsgesellschaft vorlegt, die den Anforderungen nach Artikel 16
@@ -2506,23 +2416,20 @@ oder 2 des Handelsgesetzbuchs ist,
     Unterabsatz 1 der Verordnung (EU) Nr. 537/2014 nicht vorangegangen
     ist.
 
-
-
-
-(2) Ordnungswidrig handelt, wer als Mitglied eines Aufsichtsrats, der
-einen Prüfungsausschuss nicht bestellt hat, einer Gesellschaft, die
-ein Unternehmen von öffentlichem Interesse nach § 316a Satz 2 Nummer 1
-oder 2 des Handelsgesetzbuchs ist, den Gesellschaftern einen Vorschlag
-für die Bestellung eines Abschlussprüfers oder einer
-Prüfungsgesellschaft vorlegt, der den Anforderungen nach Artikel 16
-Absatz 5 Unterabsatz 1 der Verordnung (EU) Nr. 537/2014 nicht
+(2) Ordnungswidrig handelt, wer als Mitglied eines Aufsichtsrats,
+der einen Prüfungsausschuss nicht bestellt hat, einer Gesellschaft,
+die ein Unternehmen von öffentlichem Interesse nach § 316a Satz
+2 Nummer 1 oder 2 des Handelsgesetzbuchs ist, den Gesellschaftern
+einen Vorschlag für die Bestellung eines Abschlussprüfers oder einer
+Prüfungsgesellschaft vorlegt, der den Anforderungen nach Artikel
+16 Absatz 5 Unterabsatz 1 der Verordnung (EU) Nr. 537/2014 nicht
 entspricht.
 
-(3) Ordnungswidrig handelt, wer als Mitglied eines Aufsichtsrats, der
-einen Prüfungsausschuss bestellt hat, einer in Absatz 2 genannten
+(3) Ordnungswidrig handelt, wer als Mitglied eines Aufsichtsrats,
+der einen Prüfungsausschuss bestellt hat, einer in Absatz 2 genannten
 Gesellschaft den Gesellschaftern einen Vorschlag für die Bestellung
-eines Abschlussprüfers oder einer Prüfungsgesellschaft vorlegt, der
-den Anforderungen nach Artikel 16 Absatz 5 Unterabsatz 1 oder
+eines Abschlussprüfers oder einer Prüfungsgesellschaft vorlegt,
+der den Anforderungen nach Artikel 16 Absatz 5 Unterabsatz 1 oder
 Unterabsatz 2 Satz 1 oder Satz 2 der Verordnung (EU) Nr. 537/2014
 nicht entspricht.
 
@@ -2530,9 +2437,9 @@ nicht entspricht.
 fünfhunderttausend Euro geahndet werden.
 
 (5) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
-Gesetzes über Ordnungswidrigkeiten ist bei einer Gesellschaft, die ein
-Unternehmen von öffentlichem Interesse nach § 316a Satz 2 Nummer 2 des
-Handelsgesetzbuchs ist, die Bundesanstalt für
+Gesetzes über Ordnungswidrigkeiten ist bei einer Gesellschaft,
+die ein Unternehmen von öffentlichem Interesse nach § 316a Satz
+2 Nummer 2 des Handelsgesetzbuchs ist, die Bundesanstalt für
 Finanzdienstleistungsaufsicht, im Übrigen das Bundesamt für Justiz.
 
 
@@ -2543,14 +2450,63 @@ der Abschlussprüferaufsichtsstelle beim Bundesamt für Wirtschaft und
 Ausfuhrkontrolle alle Bußgeldentscheidungen nach § 87 Absatz 1 bis 3.
 
 (2) In Strafverfahren, die eine Straftat nach § 86 zum Gegenstand
-haben, übermittelt die Staatsanwaltschaft im Falle der Erhebung der
-öffentlichen Klage der Abschlussprüferaufsichtsstelle die das
+haben, übermittelt die Staatsanwaltschaft im Falle der Erhebung
+der öffentlichen Klage der Abschlussprüferaufsichtsstelle die das
 Verfahren abschließende Entscheidung. Ist gegen die Entscheidung ein
 Rechtsmittel eingelegt worden, ist die Entscheidung unter Hinweis auf
 das eingelegte Rechtsmittel zu übermitteln.
 
 
-### Anlage (zu § 2 Abs. 1a)
+### Anlage 1 (zu § 2 Abs. 1a)
 
-(Fundstelle: BGBl. I 2008, 2044 - 2045 )
+(Fundstelle: BGBl. I 2008, 2044 - 2045)
+
+[Anlage: bgbl1_2021_j3364_0010.pdf](bgbl1_2021_j3364_0010.pdf)
+
+
+### Anlage 2 (zu § 2 Absatz 3)
+
+(Fundstelle: BGBl. I 2021, 3364 - 3366)
+
+a)  | Musterprotokoll für die Gründung einer Einpersonengesellschaft mittels Videokommunikation |  |
+    | --- | --- |
+    | UR. Nr. | ______________________________________ |
+    | Heute, den | ______________________________________, |
+    | erschien mittels Videokommunikation vor mir, | ______________________________________, |
+    | Notar/in mit dem Amtssitz in |  |
+    | ________________________________, |  |
+    | Herr/Frau |  |
+    | ________________________________ |  |
+    | ________________________________ |  |
+    | 1. Der/Die Erschienene errichtet hiermit nach § 2 Absatz 3 GmbHG mittels einer Beurkundung im Wege der Videokommunikation nach den §§ 16a ff. BeurkG eine Gesellschaft mit beschränkter Haftung unter der Firma ______________________________________  _______________________________________________________________________________________  mit dem Sitz in  _______________________________________________________________________________________ |  |
+    | 2. Gegenstand des Unternehmens ist __________________________________________________________ |  |
+    | 3. Das Stammkapital der Gesellschaft beträgt _______________________ € (i. W. _______________________ Euro) und wird vollständig von:  Herrn/Frau _______________________ (Geschäftsanteil Nr. 1) übernommen.  Die Einlage ist in Geld zu erbringen, und zwar sofort in voller Höhe/zu 50 Prozent sofort, im Übrigen sobald die Gesellschafterversammlung ihre Einforderung beschließt. |  |
+    | 4. Zum Geschäftsführer der Gesellschaft wird/Zu den Geschäftsführern der Gesellschaft werden  Herr/Frau  _______________________________________________________________________________________  geboren am _______________________, wohnhaft in _______________________  _______________________________________________________________________________________  _______________________________________________________________________________bestellt.  Der Geschäftsführer ist/Die Geschäftsführer sind von den Beschränkungen des § 181 des Bürgerlichen Gesetzbuchs befreit. Ist nur ein Geschäftsführer bestellt, so vertritt dieser die Gesellschaft allein. Sind mehrere Geschäftsführer bestellt, so wird die Gesellschaft durch zwei Geschäftsführer gemeinsam oder durch einen Geschäftsführer gemeinschaftlich mit einem Prokuristen vertreten. |  |
+    | 5. Die Gesellschaft trägt die mit der Gründung verbundenen Kosten bis zu einem Gesamtbetrag von 600 €, höchstens jedoch bis zum Betrag ihres Stammkapitals. Darüberhinausgehende Kosten trägt der Gesellschafter. |  |
+    | 6. Von dieser Urkunde erhält eine Ausfertigung jeder Gesellschafter, beglaubigte Ablichtungen die Gesellschaft und das Registergericht (in elektronischer Form) sowie eine einfache Abschrift das Finanzamt – Körperschaftsteuerstelle –. |  |
+    | 7. Der/Die Erschienene wurden vom Notar/von der Notarin insbesondere auf Folgendes hingewiesen:  _______________________________________________________________________________________ |  |
+
+b)  | Musterprotokoll für die Gründung einer Mehrpersonengesellschaft mittels Videokommunikation |  |
+    | --- | --- |
+    | UR. Nr. | ______________________________________ |
+    | Heute, den | ______________________________________, |
+    | erschien mittels Videokommunikation vor mir, | ______________________________________, |
+    | Notar/in mit dem Amtssitz in |  |
+    | ________________________________, |  |
+    | Herr/Frau |  |
+    | ________________________________ |  |
+    | ________________________________ |  |
+    | Herr/Frau |  |
+    | ________________________________ |  |
+    | ________________________________ |  |
+    | Herr/Frau |  |
+    | ________________________________ |  |
+    | ________________________________ |  |
+    | 1. Die Erschienenen errichten hiermit nach § 2 Absatz 3 GmbHG durch Beurkundung des Gesellschaftsvertrages mittels Videokommunikation nach den §§ 16a ff. BeurkG eine Gesellschaft mit beschränkter Haftung unter der Firma_______________________________________________________________________________________  _______________________________________________________________________________________  mit dem Sitz in  _______________________________________________________________________________________ |  |
+    | 2. Gegenstand des Unternehmens ist __________________________________________________________ |  |
+    | 3. Das Stammkapital der Gesellschaft beträgt _______________________ € (i. W. _______________________ Euro) und wird wie folgt übernommen:  Herr/Frau _______________________ übernimmt einen Geschäftsanteil mit einem Nennbetrag in Höhe von _______________________€ (i. W. _______________________ Euro) (Geschäftsanteil Nr. 1),  Herr/Frau _______________________ übernimmt einen  Geschäftsanteil mit einem Nennbetrag in Höhe von _______________________ € (i. W. _______________________Euro) (Geschäftsanteil Nr. 2),  Herr/Frau _______________________ übernimmt einen  Geschäftsanteil mit einem Nennbetrag in Höhe von _______________________ € (i. W. _______________________ Euro) (Geschäftsanteil Nr. 3).  Die Einlagen sind in Geld zu erbringen, und zwar sofort in voller Höhe/zu 50 Prozent sofort, im Übrigen sobald die Gesellschafterversammlung ihre Einforderung beschließt. |  |
+    | 4. Zum Geschäftsführer der Gesellschaft wird/Zu den Geschäftsführern der Gesellschaft werden  Herr/Frau  _______________________________________________________________________________________  geboren am _______________________, wohnhaft in _______________________  _______________________________________________________________________________________  Herr/Frau  _______________________________________________________________________________________  geboren am _______________________, wohnhaft in _______________________  _______________________________________________________________________________________  _______________________________________________________________________________bestellt.  Der Geschäftsführer ist/Die Geschäftsführer sind von den Beschränkungen des § 181 des Bürgerlichen Gesetzbuchs befreit. Ist nur ein Geschäftsführer bestellt, so vertritt dieser die Gesellschaft allein. Sind mehrere Geschäftsführer bestellt, so wird die Gesellschaft durch zwei Geschäftsführer gemeinsam oder durch einen Geschäftsführer gemeinschaftlich mit einem Prokuristen vertreten. |  |
+    | 5. Die Gesellschaft trägt die mit der Gründung verbundenen Kosten bis zu einem Gesamtbetrag von 600 €, höchstens jedoch bis zum Betrag ihres Stammkapitals. Darüberhinausgehende Kosten tragen die Gesellschafter im Verhältnis der Nennbeträge ihrer Geschäftsanteile. |  |
+    | 6. Von dieser Urkunde erhält eine Ausfertigung jeder Gesellschafter, beglaubigte Ablichtungen die Gesellschaft und das Registergericht (in elektronischer Form) sowie eine einfache Abschrift das Finanzamt – Körperschaftsteuerstelle –. |  |
+    | 7. Die Erschienenen wurden vom Notar/von der Notarin insbesondere auf Folgendes hingewiesen:  _______________________________________________________________________________________ |  |
 

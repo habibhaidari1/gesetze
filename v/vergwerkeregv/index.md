@@ -22,18 +22,18 @@ Geändert durch
 ## Eingangsformel
 
 Auf Grund des § 13e Absatz 5 des Urheberrechtswahrnehmungsgesetzes,
-der durch Artikel 2 des Gesetzes vom 1. Oktober 2013 (BGBl. I S. 3728)
-eingefügt worden ist, in Verbindung mit § 1 Absatz 2 des
-Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165)
-und mit dem Organisationserlass vom 17. Dezember 2013 (BGBl. I S.
-4310) verordnet das Bundesministerium der Justiz und für
+der durch Artikel 2 des Gesetzes vom 1. Oktober 2013 (BGBl. I S.
+3728) eingefügt worden ist, in Verbindung mit § 1 Absatz 2 des
+Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S.
+3165) und mit dem Organisationserlass vom 17. Dezember 2013 (BGBl.
+I S. 4310) verordnet das Bundesministerium der Justiz und für
 Verbraucherschutz:
 
 
 ## § 1 Antragstellung
 
-(1) Der Antrag auf Eintragung von Werken in das Register vergriffener
-Werke nach § 51 Absatz 1 Nummer 4 des
+(1) Der Antrag auf Eintragung von Werken in das Register
+vergriffener Werke nach § 51 Absatz 1 Nummer 4 des
 Verwertungsgesellschaftengesetzes muss die Angaben nach § 52 Absatz 1
 Satz 2 Nummer 1 bis 5 des Verwertungsgesellschaftengesetzes enthalten.
 
@@ -48,8 +48,8 @@ Schnittstelle ein.
 Euro erhoben.
 
 (2) Zur Zahlung der Eintragungsgebühren ist ein gültiges SEPA-
-Basislastschriftmandat zu Gunsten der zuständigen Bundeskasse für das
-Deutsche Patent- und Markenamt zu erteilen. Mit dem SEPA-
+Basislastschriftmandat zu Gunsten der zuständigen Bundeskasse
+für das Deutsche Patent- und Markenamt zu erteilen. Mit dem SEPA-
 Basislastschriftmandat sind Angaben zum Verwendungszweck einzureichen.
 Das SEPA-Basislastschriftmandat soll für eine Vielzahl von Einzügen
 verwendet werden.
@@ -66,8 +66,8 @@ Verwertungsgesellschaften den Gesamtbetrag der auf sie entfallenden
 Eintragungsgebühren für jeden Kalendermonat mit und zieht diesen
 Betrag aufgrund des SEPA-Basislastschriftmandats ein.
 
-(5) Die §§ 5, 6 Absatz 1, § 8 Absatz 2, § 10 Absatz 1, § 12 Absatz 1
-und 4 sowie § 13 der DPMA-Verwaltungskostenverordnung sind
+(5) Die §§ 5, 6 Absatz 1, § 8 Absatz 2, § 10 Absatz 1, § 12 Absatz
+1 und 4 sowie § 13 der DPMA-Verwaltungskostenverordnung sind
 entsprechend anzuwenden.
 
 

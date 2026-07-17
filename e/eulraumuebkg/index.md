@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zu dem Übereinkommen vom 19. September 1979 über die Erhaltung der europäischen
-  wildlebenden Pflanzen und Tiere und ihrer natürlichen Lebensräume
+Title: Gesetz zu dem Übereinkommen vom 19. September 1979 über die Erhaltung der europäischen wildlebenden Pflanzen und Tiere und ihrer natürlichen Lebensräume
 jurabk: EuLRaumÜbkG
 layout: default
 origslug: eulraum_bkg
@@ -30,10 +29,10 @@ zugestimmt. Das Übereinkommen wird nachstehend veröffentlicht.
 
 ## Art 2
 
-Das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit
-wird ermächtigt, Änderungen der Anhänge I bis IV des Übereinkommens
-nach dessen Artikel 17, die sich im Rahmen der Ziele des
-Übereinkommens halten, durch Rechtsverordnung ohne Zustimmung des
+Das Bundesministerium für Umwelt, Naturschutz und nukleare
+Sicherheit wird ermächtigt, Änderungen der Anhänge I bis IV des
+Übereinkommens nach dessen Artikel 17, die sich im Rahmen der Ziele
+des Übereinkommens halten, durch Rechtsverordnung ohne Zustimmung des
 Bundesrates in Kraft zu setzen.
 
 
@@ -42,8 +41,8 @@ Bundesrates in Kraft zu setzen.
 (1) Es ist verboten, in Gebieten, die keiner Staatshoheit unterliegen,
 insbesondere von einem Schiff oder Luftfahrzeug aus, das berechtigt
 ist, die Bundesflagge oder das Staatszugehörigkeitszeichen der
-Bundesrepublik Deutschland zu führen, Pflanzen der im Anhang I des
-Übereinkommens oder Tiere der im Anhang II des Übereinkommens
+Bundesrepublik Deutschland zu führen, Pflanzen der im Anhang I
+des Übereinkommens oder Tiere der im Anhang II des Übereinkommens
 aufgeführten Arten der Natur zu entnehmen.
 
 (2) Das Bundesamt für Naturschutz kann auf Antrag Ausnahmen von den
@@ -51,26 +50,20 @@ Verboten nach Absatz 1
 
 1.  zum Schutz der Pflanzen- und Tierarten,
 
-
 2.  zur Verhütung ernster Schäden an Kulturen, Viehbeständen, Wäldern,
     Fischgründen, Gewässern und anderem Eigentum,
-
 
 3.  im Interesse der öffentlichen Gesundheit und Sicherheit, der
     Sicherheit der Luftfahrt oder anderer vorrangiger öffentlicher
     Belange,
 
-
 4.  für Zwecke der Forschung und Erziehung, der Bestandsauffrischung, der
     Wiederansiedlung und der Aufzucht oder
-
 
 5.  um unter streng überwachten Bedingungen selektiv und in begrenztem
     Umfang das Fangen, das Halten oder eine andere vernünftige Nutzung
     bestimmter wildlebender Tiere und Pflanzen in geringen Mengen zu
     gestatten,
-
-
 
 zulassen. Die Ausnahmen dürfen nur zugelassen werden, wenn es keine
 andere befriedigende Lösung gibt und sie dem Bestand der betreffenden
@@ -80,14 +73,10 @@ Population nicht schaden.
 
 a)  Pflanzen pflücken, sammeln, abschneiden, ausgraben oder ausreißen,
 
-
 b)  Tiere fangen, halten, töten oder beunruhigen, deren Brut- oder
     Raststätten beschädigen oder zerstören oder deren Eier zerstören oder
     aus der Natur entfernen oder diese Eier besitzen, auch wenn sie leer
     sind.
-
-
-
 
 
 ## Art 4

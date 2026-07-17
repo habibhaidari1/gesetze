@@ -1,6 +1,5 @@
 ---
-Title: Verordnung zur Durchführung des Mehrseitigen Übereinkommens vom 22. April 1960
-  über Lufttüchtigkeitszeugnisse eingeführter Luftfahrzeuge
+Title: Verordnung zur Durchführung des Mehrseitigen Übereinkommens vom 22. April 1960 über Lufttüchtigkeitszeugnisse eingeführter Luftfahrzeuge
 jurabk: LuftFzgÜbkDV
 layout: default
 origslug: luftfzg_bkdv
@@ -17,13 +16,12 @@ Fundstelle
 :   BGBl II: 1962, 23
 
 
-
 ## Eingangsformel
 
 Auf Grund des § 32 Abs. 1 Nr. 2 des Luftverkehrsgesetzes in der
 Fassung vom 10. Januar 1959 (Bundesgesetzbl. I S. 9), geändert durch
-das Gesetz über Zuständigkeiten in der Luftverkehrsverwaltung vom 8.
-Februar 1961 (Bundesgesetzbl. I S. 69), wird mit Zustimmung des
+das Gesetz über Zuständigkeiten in der Luftverkehrsverwaltung vom
+8\. Februar 1961 (Bundesgesetzbl. I S. 69), wird mit Zustimmung des
 Bundesrates verordnet:
 
 

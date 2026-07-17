@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl I: 1964, 644
 
 
-
 ## Art 1
 
 Auf Grund des § 3 Abs. 2 des Gesetzes über Titel, Orden und
@@ -25,11 +24,8 @@ Ehrenzeichen vom 26. Juli 1957 (Bundesgesetzbl. I S. 844) erkenne ich
 1.  das Leistungsabzeichen und das Lehrabzeichen der Deutschen Lebens-
     Rettungs-Gesellschaft e.V.,
 
-
 2.  das Leistungsabzeichen und das Lehrabzeichen der Wasserwacht des
     Deutschen Roten Kreuzes
-
-
 
 als Ehrenzeichen an.
 

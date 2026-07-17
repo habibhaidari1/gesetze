@@ -1,8 +1,5 @@
 ---
-Title: Gesetz zu dem Vertrag vom 24. Oktober 1979 zwischen der Bundesrepublik Deutschland
-  und der Italienischen Republik über die Ergänzung des Europäischen Übereinkommens
-  vom 20. April 1959 über die Rechtshilfe in Strafsachen und die Erleichterung seiner
-  Anwendung
+Title: Gesetz zu dem Vertrag vom 24. Oktober 1979 zwischen der Bundesrepublik Deutschland und der Italienischen Republik über die Ergänzung des Europäischen Übereinkommens vom 20. April 1959 über die Rechtshilfe in Strafsachen und die Erleichterung seiner Anwendung
 jurabk: EuRHiÜbkVtrITAG
 layout: default
 origslug: eurhi_bkvtritag
@@ -46,8 +43,8 @@ eingeschränkt.
 ## Art 4
 
 Polizeibehörden sind zur Stellung und Beantwortung von Ersuchen im
-Sinne des Artikels IX Abs. 3 des Vertrags nur insoweit befugt, als sie
-nach innerstaatlichem Recht in eigener Zuständigkeit Anordnungen
+Sinne des Artikels IX Abs. 3 des Vertrags nur insoweit befugt, als
+sie nach innerstaatlichem Recht in eigener Zuständigkeit Anordnungen
 treffen können.
 
 

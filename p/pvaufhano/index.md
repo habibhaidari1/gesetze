@@ -1,6 +1,5 @@
 ---
-Title: Anordnung über die Aufhebung von Rechtsvorschriften auf dem Gebiet der freiwilligen
-  Personenversicherungen der Bürger
+Title: Anordnung über die Aufhebung von Rechtsvorschriften auf dem Gebiet der freiwilligen Personenversicherungen der Bürger
 jurabk: PVAufhAnO
 layout: default
 origslug: pvaufhano
@@ -16,6 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   GBl DDR I: 1990, 1269
 
+Fundstelle
+:   GBl DDR I: 1990, Nr 56, 1269
 
 
 ## § 1
@@ -43,9 +44,9 @@ nicht auf seiten der Unruhestifter teilgenommen hat.
 Der Versicherungsnehmer und der Versicherer können den
 Versicherungsvertrag zum Ende des Beitragszeitraumes schriftlich
 kündigen. Die Kündigungsfrist beträgt drei Monate. Bis zum 31.
-Dezember 1990 ist die Kündigung durch den Versicherungsnehmer zum Ende
-des jeweiligen Beitragszeitraumes ohne Einhaltung einer
-Kündigungsfrist möglich. Zu Lebensversicherungen sowie zu
+Dezember 1990 ist die Kündigung durch den Versicherungsnehmer
+zum Ende des jeweiligen Beitragszeitraumes ohne Einhaltung
+einer Kündigungsfrist möglich. Zu Lebensversicherungen sowie zu
 Rentenversicherungen besteht kein Kündigungsrecht des Versicherers.
 
 

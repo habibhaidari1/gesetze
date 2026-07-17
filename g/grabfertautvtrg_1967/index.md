@@ -1,7 +1,5 @@
 ---
-Title: Gesetz zu dem Vertrag vom 31. Mai 1967 zwischen der Bundesrepublik Deutschland
-  und der Republik Österreich über zoll- und paßrechtliche Fragen die sich an der
-  deutsch-österreichischen Grenze bei Staustufen und Grenzbrücken ergeben
+Title: Gesetz zu dem Vertrag vom 31. Mai 1967 zwischen der Bundesrepublik Deutschland und der Republik Österreich über zoll- und paßrechtliche Fragen die sich an der deutsch-österreichischen Grenze bei Staustufen und Grenzbrücken ergeben
 jurabk: GrAbfertAUTVtrG 1967
 layout: default
 origslug: grabfertautvtrg_1967
@@ -68,7 +66,7 @@ S. 1).
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 
-(2) Der Tag, an dem der Vertrag nach seinem Artikel 25 Abs. 2 sowie
-der Briefwechsel und der Notenwechsel in Kraft treten, ist im
+(2) Der Tag, an dem der Vertrag nach seinem Artikel 25 Abs. 2
+sowie der Briefwechsel und der Notenwechsel in Kraft treten, ist im
 Bundesgesetzblatt bekanntzugeben.
 

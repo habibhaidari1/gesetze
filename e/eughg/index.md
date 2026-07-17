@@ -1,7 +1,5 @@
 ---
-Title: Gesetz betreffend die Anrufung des Gerichtshofes der Europäischen Gemeinschaften
-  im Wege des Vorabentscheidungsverfahrens auf dem Gebiet der polizeilichen Zusammenarbeit
-  und der justitiellen Zusammenarbeit in Strafsachen nach Artikel 35 des EU-Vertrages
+Title: Gesetz betreffend die Anrufung des Gerichtshofes der Europäischen Gemeinschaften im Wege des Vorabentscheidungsverfahrens auf dem Gebiet der polizeilichen Zusammenarbeit und der justitiellen Zusammenarbeit in Strafsachen nach Artikel 35 des EU-Vertrages
 jurabk: EuGHG
 layout: default
 origslug: eughg
@@ -17,7 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1998, 2035
 
-Stand: Dieses G ist gem. § 2 iVm Bek. v. 19.4.1999 I 728 am 1.5.1999 in Kraft getreten.
+Stand
+:   Dieses G ist gem. § 2 iVm Bek. v. 19.4.1999 I 728 am 1.5.1999 in Kraft getreten.
 
 
 ## § 1

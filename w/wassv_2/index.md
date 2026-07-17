@@ -21,8 +21,8 @@ Geändert durch
 
 ## Eingangsformel
 
-Auf Grund des § 3 Nr. 3 des Wassersicherstellungsgesetzes vom 24.
-August 1965 (Bundesgesetzblatt I S. 1225), geändert durch das
+Auf Grund des § 3 Nr. 3 des Wassersicherstellungsgesetzes vom
+24\. August 1965 (Bundesgesetzblatt I S. 1225), geändert durch das
 Einführungsgesetz zum Gesetz über Ordnungswidrigkeiten vom 24. Mai
 1968 (Bundesgesetzbl. I S. 503), verordnet die Bundesregierung mit
 Zustimmung des Bundesrates:
@@ -35,16 +35,12 @@ Quellfassungen, die als selbständig zu betreibende Einzelanlagen zur
 
 1.  Deckung des lebensnotwendigen Bedarfs an Trinkwasser,
 
-
 2.  Versorgung mit Betriebswasser im unentbehrlichen Umfang,
-
 
 3.  Deckung des Bedarfs an Löschwasser
 
-
-
-nach dem Wassersicherstellungsgesetz gebaut oder umgebaut werden. Sie
-gelten nicht für Brunnen und Quellfassungen der zentralen
+nach dem Wassersicherstellungsgesetz gebaut oder umgebaut werden.
+Sie gelten nicht für Brunnen und Quellfassungen der zentralen
 Wasserversorgung.
 
 
@@ -57,9 +53,9 @@ anderes bestimmt.
 
 ## § 3 Bauweise, Baustoffe und Bestandteile von Brunnen
 
-(1) Bauweise und Baustoffe von Brunnen müssen so beschaffen sein, daß
-sie elektrolytischen und chemischen Einwirkungen für eine möglichst
-lange Zeit widerstehen. Die Bauweise der Brunnen muß den
+(1) Bauweise und Baustoffe von Brunnen müssen so beschaffen sein,
+daß sie elektrolytischen und chemischen Einwirkungen für eine
+möglichst lange Zeit widerstehen. Die Bauweise der Brunnen muß den
 hydrogeologischen Verhältnissen entsprechen.
 
 (2) Brunnenschacht und Brunnenkopf müssen so hergestellt werden, daß
@@ -69,13 +65,13 @@ oder chemische Kampfmittel, beeinträchtigt werden kann.
 
 (3) Art und Ausbildung der Förderanlage werden bestimmt durch die
 hydrogeologischen Verhältnisse und die Wasserbereitstellung. Bei
-ausreichendem Grundwasserstand und einer Wasserbereitstellung bis
-3 cbm/h sind weitgehend Handpumpen einzusetzen. In allen anderen
-Fällen soll die Förderanlage aus Pumpe und Motor bestehen;
-Abweichungen dürfen in begründeten Fällen vorgesehen werden.
-Entsprechend der Konstruktion kann ein Hydrant mit Schlüssel und
-Standrohr zur Förderanlage gehören. Für Pumpen mit Elektromotor ist
-außer dem Netzanschluß der Anschluß für ein Notstromaggregat oder eine
+ausreichendem Grundwasserstand und einer Wasserbereitstellung bis 3
+cbm/h sind weitgehend Handpumpen einzusetzen. In allen anderen Fällen
+soll die Förderanlage aus Pumpe und Motor bestehen; Abweichungen
+dürfen in begründeten Fällen vorgesehen werden. Entsprechend
+der Konstruktion kann ein Hydrant mit Schlüssel und Standrohr
+zur Förderanlage gehören. Für Pumpen mit Elektromotor ist außer
+dem Netzanschluß der Anschluß für ein Notstromaggregat oder eine
 gleichwertige Einrichtung vorzusehen.
 
 (4) Die unmittelbare Umgebung von Brunnen ist so zu befestigen, daß
@@ -92,11 +88,9 @@ kann.
 bestimmt sind, müssen in der Regel als Bohrbrunnen gebaut werden. Sie
 müssen aus folgenden Teilen bestehen:
 
-*   Sumpfrohr mit Boden, Filterrohr, Aufsatzrohr, Brunnenkopf,
+-   Sumpfrohr mit Boden, Filterrohr, Aufsatzrohr, Brunnenkopf,
     Förderleitung und Brunnenschacht mit tagwasserdichter
     Schachtabdeckung.
-
-
 
 Abweichungen dürfen nur in begründeten Ausnahmefällen vorgesehen
 werden. Es sind Förderanlagen nach § 3 Abs. 3 vorzusehen.
@@ -115,23 +109,15 @@ Die Bauteile eines Brunnens müssen folgenden Anforderungen genügen:
     a)  Es ist ein kreisförmiger Querschnitt mit möglichst kleinem Durchmesser
         zu wählen.
 
-
     b)  Nacheinander sind folgende Lastfälle anzusetzen:
 
         aa) eine gleichmäßig verteilte senkrechte Gebrauchslast in Geländehöhe von
             200 kN/qm,
 
-
-        bb) ein gleichmäßig verteilter Außendruck (Kreisringdruck) von
-            150 kN/qm.
-
-
-
-
+        bb) ein gleichmäßig verteilter Außendruck (Kreisringdruck) von 150 kN/qm.
 
     c)  Der Kreisringquerschnitt muß unter einem horizontal in einer Richtung
-        wirkenden Bodendruck
-        "p" (kN/qm)
+        wirkenden Bodendruck "p" (kN/qm)
 
         entweder
 
@@ -140,48 +126,23 @@ Die Bauteile eines Brunnens müssen folgenden Anforderungen genügen:
 
             oder
 
-
         bb) für ein Biegemoment
 
+```
+                         a(tief)a(hoch)2            M = p(tief)o --------------- (kN x m)                               2
+```
 
-
-
-
-
-
-
-
-a(tief)a(hoch)2
-M = p(tief)o --------------- (kN x m)
-2
-
-*
-    *
-        *   bemessen werden
+-   -   -   bemessen werden
 
             oder
 
-
         cc) eine Scheiteldrucklast von
 
+```
+                                 a(tief)a(hoch)2 x Pi            P = 1,7 x p(tief)o x --------------------- (kN/m)                                     2 x a(tief)i
+```
 
-
-
-
-
-
-
-
-a(tief)a(hoch)2 x Pi
-P = 1,7 x p(tief)o x --------------------- (kN/m)
-2 x a(tief)i
-
-*
-    *
-        *   aufnehmen.
-
-
-
+-   -   -   aufnehmen.
 
         Hierbei bedeuten:
 
@@ -191,28 +152,16 @@ P = 1,7 x p(tief)o x --------------------- (kN/m)
 
         a(tief)i = Innenradius (m).
 
-
-
-
-
 2.  Brunnenrohre und Brunnenkopf
 
     Die als Brunnenelemente verwendeten Rohre sind nacheinander für
     folgende Lastfälle zu bemessen:
 
-    a)  einen gleichmäßig verteilten Außendruck (Kreisringdruck) von
-        200 kN/qm
+    a)  einen gleichmäßig verteilten Außendruck (Kreisringdruck) von 200 kN/qm
 
-
-    b)  unter einem horizontal in einer Richtung wirkenden Bodendruck
-        "p" (kN/qm) muß eine Verformung von 1% des Durchmessers ohne
-        Überschreitung der zulässigen Spannungen aufgenommen werden können.
-
-
-
-
-
-
+    b)  unter einem horizontal in einer Richtung wirkenden Bodendruck "p" (kN/
+        qm) muß eine Verformung von 1% des Durchmessers ohne Überschreitung
+        der zulässigen Spannungen aufgenommen werden können.
 
 
 ## § 6 Bauweise, Baustoffe und Bestandteile von Quellfassungen
@@ -220,8 +169,8 @@ P = 1,7 x p(tief)o x --------------------- (kN/m)
 (1) Quellfassungen dürfen nur dann gebaut oder umgebaut werden, wenn
 eine ausreichende Quellschüttung gewährleistet ist.
 
-(2) Bauweise und Baustoffe von Quellfassungen müssen sich nach Art der
-Quelle und nach den örtlichen Verhältnissen richten. Die
+(2) Bauweise und Baustoffe von Quellfassungen müssen sich nach
+Art der Quelle und nach den örtlichen Verhältnissen richten. Die
 Quellfassungen müssen so beschaffen sein, daß sie elektrolytischen und
 chemischen Einwirkungen für eine möglichst lange Zeit widerstehen.
 
@@ -237,10 +186,10 @@ für die Umgebung abfließen können.
 für einen notwendigen Druck des Wassers an der Verteilerstelle
 erforderlich ist. Die Art der Pumpanlage richtet sich nach der
 Quellschüttung und nach dem Fördervermögen der Zuleitung bis zur
-Verteilerstelle. Bei Quellen mit einer Schüttung bis zu
-3 cbm/h sind weitgehend Handpumpen, in allen anderen Fällen
-Motorpumpen zu verwenden. Für Pumpen mit Elektromotor ist außer dem
-Netzanschluß der Anschluß für ein Notstromaggregat vorzusehen.
+Verteilerstelle. Bei Quellen mit einer Schüttung bis zu 3 cbm/h
+sind weitgehend Handpumpen, in allen anderen Fällen Motorpumpen zu
+verwenden. Für Pumpen mit Elektromotor ist außer dem Netzanschluß der
+Anschluß für ein Notstromaggregat vorzusehen.
 
 (5) Die unmittelbare Umgebung der Wasserentnahmestelle ist so zu
 befestigen, daß sie begehbar ist. Bei Pumpen mit Verbrennungsmotor muß

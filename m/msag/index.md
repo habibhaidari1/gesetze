@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zu dem Haager Übereinkommen vom 5. Oktober 1961 über die Zuständigkeit
-  der Behörden und das anzuwendende Recht auf dem Gebiet des Schutzes von Minderjährigen
+Title: Gesetz zu dem Haager Übereinkommen vom 5. Oktober 1961 über die Zuständigkeit der Behörden und das anzuwendende Recht auf dem Gebiet des Schutzes von Minderjährigen
 jurabk: MSAG
 layout: default
 origslug: msag
@@ -28,8 +27,8 @@ beschlossen:
 
 ## Art 1
 
-Dem in Den Haag am 22. Oktober 1968 von der Bundesrepublik Deutschland
-unterzeichneten Übereinkommen vom 5. Oktober 1961 über die
+Dem in Den Haag am 22. Oktober 1968 von der Bundesrepublik
+Deutschland unterzeichneten Übereinkommen vom 5. Oktober 1961 über die
 Zuständigkeit der Behörden und das anzuwendende Recht auf dem Gebiet
 des Schutzes von Minderjährigen wird zugestimmt. Das Übereinkommen
 wird nachstehend veröffentlicht.
@@ -40,8 +39,8 @@ wird nachstehend veröffentlicht.
 (1) Für die in Artikel 4 Abs. 1, Artikel 5 Abs. 2, Artikel 10 und
 Artikel 11 Abs. 1 des Übereinkommens vorgesehenen Mitteilungen sind
 die deutschen Gerichte und Behörden zuständig, bei denen ein Verfahren
-nach dem Übereinkommen anhängig ist oder, in den Fällen des Artikels 5
-Abs. 2, zur Zeit des Aufenthaltswechsels des Minderjährigen anhängig
+nach dem Übereinkommen anhängig ist oder, in den Fällen des Artikels
+5 Abs. 2, zur Zeit des Aufenthaltswechsels des Minderjährigen anhängig
 war.
 
 (2) Ist ein Verfahren im Geltungsbereich dieses Gesetzes nicht
@@ -75,7 +74,7 @@ Anwendung dieses Gesetzes feststellt.
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 
-(2) Der Tag, an dem das Übereinkommen nach seinem Artikel 20 Abs. 2
-für die Bundesrepublik Deutschland in Kraft tritt, ist im
+(2) Der Tag, an dem das Übereinkommen nach seinem Artikel 20
+Abs. 2 für die Bundesrepublik Deutschland in Kraft tritt, ist im
 Bundesgesetzblatt bekanntzugeben.
 

@@ -16,11 +16,10 @@ Fundstelle
 :   BGBl I: 1984, 1689
 
 
-
 ## I.
 
-Der Staatssekretär beim Bundeskanzler wird zum Beauftragten für die
-Nachrichtendienste bestellt. Er untersteht dem Bundeskanzler
+Der Staatssekretär beim Bundeskanzler wird zum Beauftragten für
+die Nachrichtendienste bestellt. Er untersteht dem Bundeskanzler
 unmittelbar.
 Sein Vertreter ist ein Abteilungsleiter im Bundeskanzleramt.
 Dem Beauftragten ist zur Erfüllung seiner Aufgaben eine Abteilung des
@@ -56,53 +55,37 @@ Zusammenarbeit mit anderen Behörden und Dienststellen.
 
     a)  der Vorsitz des "Ständigen Ausschusses 'Nachrichtendienste'";
 
-
     b)  der Vorsitz des "Staatssekretärausschusses für das geheime
         Nachrichtenwesen und die Sicherheit";
-
 
     c)  die Mitwirkung bei der parlamentarischen Behandlung der
         Haushaltsangelegenheiten der drei Dienste;
 
-
     d)  die Koordinierung der Vorbereitung von Sitzungen der Parlamentarischen
         Kontrollkommission.
-
-
-
-
 
 2.  Im Rahmen seiner Koordinierungstätigkeit hat der Beauftragte folgende
     Befugnisse:
 
     a)  das Recht, von den Ressorts und von den Nachrichtendiensten des Bundes
         Auskünfte über die Arbeitsmethodik, das Informations- und Karteiwesen,
-        die Organisation, die Haushaltsplanung und Personalstrukturplanung zu
-        verlangen;
-
+        die Organisation, die Haushaltsplanung und Personalstrukturplanung
+        zu verlangen;
 
     b)  das Recht, für den Bereich der Zusammenarbeit der Dienste Maßnahmen
         vorzuschlagen;
-
 
     c)  das Recht zur Beteiligung an Gesetzesvorhaben und an der Ausarbeitung
         von Vorschriften, die einen der Nachrichtendienste des Bundes oder die
         drei Dienste oder ihre Zusammenarbeit mit anderen Stellen betreffen;
 
-
     d)  das Recht zu unmittelbaren Besprechungen mit den Leitern der Dienste
         und deren Vertretern; die dienstaufsichtsführenden Ressorts können an
         derartigen Besprechungen teilnehmen.
 
-
-
-
     Den dienstaufsichtsführenden Ressorts ist von allen an die Dienste
     gerichteten Auskunftsersuchen und dem sonstigen Schriftwechsel
     mindestens gleichzeitig Kenntnis zu geben.
-
-
-
 
 
 ## IV.

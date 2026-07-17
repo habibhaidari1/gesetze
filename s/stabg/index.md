@@ -29,9 +29,9 @@ beschlossen:
 
 Bund und Länder haben bei ihren wirtschafts- und finanzpolitischen
 Maßnahmen die Erfordernisse des gesamtwirtschaftlichen Gleichgewichts
-zu beachten. Die Maßnahmen sind so zu treffen, daß sie im Rahmen der
-marktwirtschaftlichen Ordnung gleichzeitig zur Stabilität des
-Preisniveaus, zu einem hohen Beschäftigungsstand und
+zu beachten. Die Maßnahmen sind so zu treffen, daß sie im Rahmen
+der marktwirtschaftlichen Ordnung gleichzeitig zur Stabilität
+des Preisniveaus, zu einem hohen Beschäftigungsstand und
 außenwirtschaftlichem Gleichgewicht bei stetigem und angemessenem
 Wirtschaftswachstum beitragen.
 
@@ -42,12 +42,11 @@ Wirtschaftswachstum beitragen.
 Bundestag und dem Bundesrat einen Jahreswirtschaftsbericht vor. Der
 Jahreswirtschaftsbericht enthält:
 
-1.  die Stellungnahme zu dem Jahresgutachten des Sachverständigenrates auf
-    Grund des § 6 Abs. 1 Satz 3 des Gesetzes über die Bildung eines
+1.  die Stellungnahme zu dem Jahresgutachten des Sachverständigenrates
+    auf Grund des § 6 Abs. 1 Satz 3 des Gesetzes über die Bildung eines
     Sachverständigenrates zur Begutachtung der gesamtwirtschaftlichen
     Entwicklung vom 14. August 1963 (Bundesgesetzbl. I S. 685) in der
     Fassung des Gesetzes vom 8. November 1966 (Bundesgesetzbl. I S. 633);
-
 
 2.  eine Darlegung der für das laufende Jahr von der Bundesregierung
     angestrebten wirtschafts- und finanzpolitischen Ziele
@@ -55,26 +54,22 @@ Jahreswirtschaftsbericht enthält:
     der Form der volkswirtschaftlichen Gesamtrechnung, gegebenenfalls mit
     Alternativrechnungen;
 
-
 3.  eine Darlegung der für das laufende Jahr geplanten Wirtschafts- und
     Finanzpolitik.
 
-
-
-
 (2) Maßnahmen nach § 6 Abs. 2 und 3 und nach den §§ 15 und 19 dieses
 Gesetzes sowie nach § 51 Abs. 3 des Einkommensteuergesetzes und nach
-§ 19c des Körperschaftsteuergesetzes              dürfen nur getroffen
-werden, wenn die Bundesregierung gleichzeitig gegenüber dem Bundestag
-und dem Bundesrat begründet, daß diese Maßnahmen erforderlich sind, um
-eine Gefährdung der Ziele des § 1 zu verhindern.
+*§ 19c des Körperschaftsteuergesetzes* dürfen nur getroffen werden,
+wenn die Bundesregierung gleichzeitig gegenüber dem Bundestag und dem
+Bundesrat begründet, daß diese Maßnahmen erforderlich sind, um eine
+Gefährdung der Ziele des § 1 zu verhindern.
 
 
 ## § 3
 
-(1) Im Falle der Gefährdung eines der Ziele des § 1 stellt die
-Bundesregierung Orientierungsdaten für ein gleichzeitiges aufeinander
-abgestimmtes Verhalten (konzertierte Aktion) der
+(1) Im Falle der Gefährdung eines der Ziele des § 1 stellt
+die Bundesregierung Orientierungsdaten für ein gleichzeitiges
+aufeinander abgestimmtes Verhalten (konzertierte Aktion) der
 Gebietskörperschaften, Gewerkschaften und Unternehmensverbände zur
 Erreichung der Ziele des § 1 zur Verfügung. Diese Orientierungsdaten
 enthalten insbesondere eine Darstellung der gesamtwirtschaftlichen
@@ -115,28 +110,28 @@ werden.
 
 ## § 6
 
-(1) Bei der Ausführung des Bundeshaushaltsplans kann im Falle einer
-die volkswirtschaftliche Leistungsfähigkeit übersteigenden
+(1) Bei der Ausführung des Bundeshaushaltsplans kann im Falle
+einer die volkswirtschaftliche Leistungsfähigkeit übersteigenden
 Nachfrageausweitung die Bundesregierung das Bundesministerium der
 Finanzen ermächtigen, zur Erreichung der Ziele des § 1 die Verfügung
 über bestimmte Ausgabemittel, den Beginn von Baumaßnahmen und das
 Eingehen von Verpflichtungen zu Lasten künftiger Rechnungsjahre von
 dessen Einwilligung abhängig zu machen. Die Bundesministerien der
 Finanzen und für Wirtschaft und Energie schlagen die erforderlichen
-Maßnahmen vor. Das Bundesministerium der Finanzen hat die dadurch nach
-Ablauf des Rechnungsjahres freigewordenen Mittel zur zusätzlichen
+Maßnahmen vor. Das Bundesministerium der Finanzen hat die dadurch
+nach Ablauf des Rechnungsjahres freigewordenen Mittel zur zusätzlichen
 Tilgung von Schulden bei der Deutschen Bundesbank zu verwenden oder
 der Konjunkturausgleichsrücklage zuzuführen.
 
-(2) Die Bundesregierung kann bestimmen, daß bei einer die Ziele des §
-1 gefährdenden Abschwächung der allgemeinen Wirtschaftstätigkeit
-zusätzliche Ausgaben geleistet werden; Absatz 1 Satz 2 ist anzuwenden.
-Die zusätzlichen Mittel dürfen nur für im Finanzplan (§ 9 in
-Verbindung mit § 10) vorgesehene Zwecke oder als Finanzhilfe für
-besonders bedeutsame Investitionen der Länder und Gemeinden
+(2) Die Bundesregierung kann bestimmen, daß bei einer die Ziele des
+§ 1 gefährdenden Abschwächung der allgemeinen Wirtschaftstätigkeit
+zusätzliche Ausgaben geleistet werden; Absatz 1 Satz 2 ist
+anzuwenden. Die zusätzlichen Mittel dürfen nur für im Finanzplan (§
+9 in Verbindung mit § 10) vorgesehene Zwecke oder als Finanzhilfe
+für besonders bedeutsame Investitionen der Länder und Gemeinden
 (Gemeindeverbände) zur Abwehr einer Störung des gesamtwirtschaftlichen
-Gleichgewichts (Artikel 104a Abs. 4 Satz 1 GG) verwendet werden. Zu
-ihrer Deckung sollen die notwendigen Mittel zunächst der
+Gleichgewichts (Artikel 104a Abs. 4 Satz 1 GG) verwendet werden.
+Zu ihrer Deckung sollen die notwendigen Mittel zunächst der
 Konjunkturausgleichsrücklage entnommen werden.
 
 (3) Das Bundesministerium der Finanzen wird ermächtigt, zu dem in
@@ -151,8 +146,8 @@ kann das Recht zur Kreditaufnahme erneut in Anspruch genommen werden.
 ## § 7
 
 (1) Die Konjunkturausgleichsrücklage ist bei der Deutschen Bundesbank
-anzusammeln. Mittel der Konjunkturausgleichsrücklage dürfen nur zur
-Deckung zusätzlicher Ausgaben gemäß § 5 Abs. 3 und § 6 Abs. 2
+anzusammeln. Mittel der Konjunkturausgleichsrücklage dürfen nur
+zur Deckung zusätzlicher Ausgaben gemäß § 5 Abs. 3 und § 6 Abs. 2
 verwendet werden.
 
 (2) Ob und in welchem Ausmaß über Mittel der
@@ -163,19 +158,19 @@ Bundesregierung; § 6 Abs. 1 Satz 2 ist anzuwenden.
 
 ## § 8
 
-(1) In den Bundeshaushaltsplan ist ein Leertitel für Ausgaben nach § 6
-Abs. 2 Satz 1 und 2 einzustellen. Ausgaben aus diesem Titel dürfen nur
-mit Zustimmung des Bundestages und nur insoweit geleistet werden, als
-Einnahmen aus der Konjunkturausgleichsrücklage oder aus Krediten nach
-§ 6 Abs. 3 vorhanden sind. Die Vorlage ist gleichzeitig dem Bundestag
-und dem Bundesrat zuzuleiten. Der Bundesrat kann binnen zwei Wochen
-dem Bundestag gegenüber Stellung nehmen. Die Zustimmung des
+(1) In den Bundeshaushaltsplan ist ein Leertitel für Ausgaben nach §
+6 Abs. 2 Satz 1 und 2 einzustellen. Ausgaben aus diesem Titel dürfen
+nur mit Zustimmung des Bundestages und nur insoweit geleistet werden,
+als Einnahmen aus der Konjunkturausgleichsrücklage oder aus Krediten
+nach § 6 Abs. 3 vorhanden sind. Die Vorlage ist gleichzeitig dem
+Bundestag und dem Bundesrat zuzuleiten. Der Bundesrat kann binnen zwei
+Wochen dem Bundestag gegenüber Stellung nehmen. Die Zustimmung des
 Bundestages gilt als erteilt, wenn er nicht binnen vier Wochen nach
 Eingang der Vorlage der Bundesregierung die Zustimmung verweigert hat.
 
 (2) In den Bundeshaushaltsplan ist ferner ein Leertitel für Einnahmen
-aus der Konjunkturausgleichsrücklage und aus Krediten nach § 6 Abs. 3
-einzustellen.
+aus der Konjunkturausgleichsrücklage und aus Krediten nach § 6 Abs.
+3 einzustellen.
 
 
 ## § 9
@@ -198,19 +193,19 @@ fortzuführen.
 ## § 10
 
 (1) Als Unterlagen für die Finanzplanung stellen die Bundesministerien
-für ihren Geschäftsbereich mehrjährige Investitionsprogramme auf und
-übersenden sie mit den sonstigen Bedarfsschätzungen dem
+für ihren Geschäftsbereich mehrjährige Investitionsprogramme
+auf und übersenden sie mit den sonstigen Bedarfsschätzungen dem
 Bundesministerium der Finanzen zu dem von ihm zu bestimmenden
 Zeitpunkt. Die Geschäftsbereiche, für die Investitionsprogramme
 aufzustellen sind, bestimmt die Bundesregierung.
 
-(2) Die Investitionsprogramme haben nach Dringlichkeit und
-Jahresabschnitten gegliedert die in den nächsten Jahren
-durchzuführenden Investitionsvorhaben zu erfassen. Jeder
-Jahresabschnitt soll die fortzuführenden und neuen
-Investitionsvorhaben mit den auf das betreffende Jahr entfallenden
-Teilbeträgen wiedergeben. Finanzierungshilfen des Bundes für
-Investitionen Dritter sind bei Anwendung gleicher
+(2) Die Investitionsprogramme haben nach Dringlichkeit
+und Jahresabschnitten gegliedert die in den nächsten
+Jahren durchzuführenden Investitionsvorhaben zu erfassen.
+Jeder Jahresabschnitt soll die fortzuführenden und neuen
+Investitionsvorhaben mit den auf das betreffende Jahr
+entfallenden Teilbeträgen wiedergeben. Finanzierungshilfen des
+Bundes für Investitionen Dritter sind bei Anwendung gleicher
 Gliederungsgrundsätze unter Kenntlichmachung der Finanzierungsart in
 einem besonderen Teil zu erfassen.
 
@@ -241,16 +236,12 @@ Entwurf des Bundeshaushaltsplans alle zwei Jahre eine zahlenmäßige
 
 1.  der Erhaltung von Betrieben oder Wirtschaftszweigen,
 
-
 2.  der Anpassung von Betrieben oder Wirtschaftszweigen an neue
     Bedingungen und
-
 
 3.  der Förderung des Produktivitätsfortschritts und des Wachstums von
     Betrieben oder Wirtschaftszweigen, insbesondere durch Entwicklung
     neuer Produktionsmethoden und -richtungen
-
-
 
 dienen.
 
@@ -274,9 +265,9 @@ in Absatz 2 beschriebenen Gliederung aufgestellt.
 (1) Die Vorschriften der §§ 1, 5, 6 Abs. 1 und 2 gelten für das ERP-
 Sondervermögen entsprechend.
 
-(2) Für die Deutsche Bundesbahn erläßt das Bundesministerium für
-Verkehr und digitale Infrastruktur im Einvernehmen mit dem
-Bundesministerium der Finanzen die nach § 1 erforderlichen
+(2) Für die Deutsche Bundesbahn erläßt das Bundesministerium
+für Verkehr und digitale Infrastruktur im Einvernehmen mit
+dem Bundesministerium der Finanzen die nach § 1 erforderlichen
 Anordnungen.
 
 (3) Die bundesunmittelbaren Körperschaften, Anstalten und Stiftungen
@@ -294,34 +285,33 @@ Zuständigkeiten bleibt den Ländern überlassen.
 ## § 15
 
 (1) Zur Abwehr einer Störung des gesamtwirtschaftlichen Gleichgewichts
-kann die Bundesregierung durch Rechtsverordnung mit Zustimmung des
-Bundesrates anordnen, daß der Bund und die Länder ihren
+kann die Bundesregierung durch Rechtsverordnung mit Zustimmung
+des Bundesrates anordnen, daß der Bund und die Länder ihren
 Konjunkturausgleichsrücklagen Mittel zuzuführen haben.
 
-(2) In der Rechtsverordnung ist der Gesamtbetrag zu bestimmen, der von
-Bund und Ländern aufzubringen ist. Er soll unbeschadet der nach Absatz
-4 den Konjunkturausgleichsrücklagen zuzuführenden Beträge in einem
-Haushaltsjahr drei vom Hundert der von Bund und Ländern im
-vorangegangenen Haushaltsjahr erzielten Steuereinnahmen nicht
+(2) In der Rechtsverordnung ist der Gesamtbetrag zu bestimmen, der
+von Bund und Ländern aufzubringen ist. Er soll unbeschadet der nach
+Absatz 4 den Konjunkturausgleichsrücklagen zuzuführenden Beträge
+in einem Haushaltsjahr drei vom Hundert der von Bund und Ländern
+im vorangegangenen Haushaltsjahr erzielten Steuereinnahmen nicht
 überschreiten.
 
-(3) Soweit Bund und Länder keine andere Aufbringung vereinbaren, haben
-sie den Gesamtbetrag im Verhältnis der von ihnen im vorangegangenen
-Haushaltsjahr erzielten Steuereinnahmen unter Berücksichtigung der
-Ausgleichszuweisungen und Ausgleichsbeiträge nach dem
-Länderfinanzausgleich aufzubringen. Bei der Berechnung der
-Steuereinnahmen der Länder bleiben die Gemeindesteuern der Länder
-Berlin, Bremen, Hamburg und die nach § 6 Abs. 2 des
+(3) Soweit Bund und Länder keine andere Aufbringung vereinbaren,
+haben sie den Gesamtbetrag im Verhältnis der von ihnen im
+vorangegangenen Haushaltsjahr erzielten Steuereinnahmen unter
+Berücksichtigung der Ausgleichszuweisungen und Ausgleichsbeiträge
+nach dem Länderfinanzausgleich aufzubringen. Bei der Berechnung
+der Steuereinnahmen der Länder bleiben die Gemeindesteuern
+der Länder Berlin, Bremen, Hamburg und die nach § 6 Abs. 2 des
 Lastenausgleichsgesetzes zu leistenden Zuschüsse außer Betracht. Haben
 der Bund oder einzelne Länder ihrer Konjunkturausgleichsrücklage im
 gleichen Haushaltsjahr bereits Mittel zugeführt, so werden diese auf
 ihre Verpflichtung angerechnet.
 
-(4) Werden die Einkommensteuer auf Grund der Ermächtigung in § 51 Abs.
-3 Ziff. 2 des Einkommensteuergesetzes und die Körperschaftsteuer auf
-Grund des
-§ 19c des Körperschaftsteuergesetzes              erhöht, so haben der
-Bund und die Länder zusätzlich laufend ihren
+(4) Werden die Einkommensteuer auf Grund der Ermächtigung in § 51
+Abs. 3 Ziff. 2 des Einkommensteuergesetzes und die Körperschaftsteuer
+auf Grund des *§ 19c des Körperschaftsteuergesetzes* erhöht,
+so haben der Bund und die Länder zusätzlich laufend ihren
 Konjunkturausgleichsrücklagen aus dem Aufkommen an Einkommensteuer und
 Körperschaftsteuer während des Zeitraums, für den die Erhöhung gilt,
 jeweils Beträge in dem Verhältnis zuzuführen, in dem der Hundertsatz,
@@ -331,9 +321,9 @@ sind, zu der aus 100 und diesem Hundertsatz gebildeten Summe steht.
 (5) Die den Konjunkturausgleichsrücklagen auf Grund einer
 Rechtsverordnung nach Absatz 1 oder gemäß Absatz 4 zugeführten Beträge
 dürfen nur insoweit entnommen werden, als sie durch Rechtsverordnung
-der Bundesregierung mit Zustimmung des Bundesrates freigegeben sind.
-Die Freigabe ist nur zur Vermeidung einer die Ziele des § 1
-gefährdenden Abschwächung der allgemeinen Wirtschaftstätigkeit
+der Bundesregierung mit Zustimmung des Bundesrates freigegeben
+sind. Die Freigabe ist nur zur Vermeidung einer die Ziele des §
+1 gefährdenden Abschwächung der allgemeinen Wirtschaftstätigkeit
 zulässig. Die Sätze 1 und 2 sind auf die in Absatz 3 Satz 3
 bezeichneten Mittel anzuwenden.
 
@@ -343,8 +333,8 @@ bezeichneten Mittel anzuwenden.
 (1) Gemeinden und Gemeindeverbände haben bei ihrer Haushaltswirtschaft
 den Zielen des § 1 Rechnung zu tragen.
 
-(2) Die Länder haben durch geeignete Maßnahme darauf hinzuwirken, daß
-die Haushaltswirtschaft der Gemeinden und Gemeindeverbände den
+(2) Die Länder haben durch geeignete Maßnahme darauf hinzuwirken,
+daß die Haushaltswirtschaft der Gemeinden und Gemeindeverbände den
 konjunkturpolitischen Erfordernissen entspricht.
 
 
@@ -362,15 +352,11 @@ Hand gebildet. Dem Rat gehören an:
 
 1.  die Bundesminister für Wirtschaft und Energie und der Finanzen,
 
-
 2.  je ein Vertreter eines jeden Landes,
-
 
 3.  vier Vertreter der Gemeinden und der Gemeindeverbände, die vom
     Bundesrat auf Vorschlag der kommunalen Spitzenverbände bestimmt
     werden.
-
-
 
 Den Vorsitz im Konjunkturrat führt der Bundesminister für Wirtschaft
 und Energie.
@@ -382,11 +368,8 @@ Abständen:
 1.  alle zur Erreichung der Ziele dieses Gesetzes erforderlichen
     konjunkturpolitischen Maßnahmen;
 
-
 2.  die Möglichkeiten der Deckung des Kreditbedarfs der öffentlichen
     Haushalte.
-
-
 
 Der Konjunkturrat ist insbesondere vor allen Maßnahmen nach den §§ 15,
 19 und 20 zu hören.
@@ -421,15 +404,11 @@ eigene Rechtspersönlichkeit aufgenommen werden.
 1.  für einen zu bestimmenden Zeitraum die Kreditaufnahme durch die in §
     19 bezeichneten Stellen auf einen Höchstbetrag begrenzt wird;
 
-
-2.  im Rahmen der nach Nummer 1 festgesetzten Höchstbeträge Kredite
-    bestimmter Art oder Höhe, insbesondere Anleihen oder
+2.  im Rahmen der nach Nummer 1 festgesetzten Höchstbeträge
+    Kredite bestimmter Art oder Höhe, insbesondere Anleihen oder
     Schuldscheindarlehen, nur nach Maßgabe eines Zeitplans und nur unter
     Einhaltung von Kreditbedingungen (§ 22 Abs. 1 und 2) aufgenommen
     werden dürfen.
-
-
-
 
 (2) Der Höchstbetrag nach Absatz 1 Nr. 1 muß für die einzelne Stelle
 für ein Haushaltsjahr mindestens 80 vom Hundert der Summe betragen,
@@ -438,20 +417,20 @@ Haushaltsjahre vor Erlaß der Rechtsverordnung als Kredit aufgenommen
 hat; Kassen- und Betriebsmittelkredite, Kredite, die die Deutsche
 Bundesbank oder eine in § 19 bezeichnete Stelle gewährt hat, sowie
 Kredite für die in § 19 Satz 2 bezeichneten Zwecke bleiben hierbei
-unberücksichtigt. Zum Ausgleich von Schwankungen im Kreditbedarf der
-Gemeinden, Gemeindeverbände und Zweckverbände kann für diese der
-Höchstbetrag auf 70 vom Hundert gekürzt werden. Die hierdurch
+unberücksichtigt. Zum Ausgleich von Schwankungen im Kreditbedarf
+der Gemeinden, Gemeindeverbände und Zweckverbände kann für diese
+der Höchstbetrag auf 70 vom Hundert gekürzt werden. Die hierdurch
 freiwerdenden Beträge sind von den Ländern solchen Gemeinden,
 Gemeindeverbänden und Zweckverbänden zuzuweisen, die besonders
 dringende Investitionsaufgaben zu erfüllen haben.
 
 (3) In Rechtsverordnungen nach § 19 ist zu bestimmen, inwieweit
-Kreditaufnahmen Dritter, die wirtschaftlich der Kreditaufnahme einer
-der in § 19 bezeichneten Stellen gleichkommen, auf den Höchstbetrag
-nach Absatz 1 Nr. 1 anzurechnen sind. Insbesondere sind
-Kreditaufnahmen Dritter zu berücksichtigen, soweit diese Aufgaben der
-Finanzierung für eine der in § 19 bezeichneten Stellen wahrnehmen oder
-soweit eine solche Stelle die Kreditaufnahme durch
+Kreditaufnahmen Dritter, die wirtschaftlich der Kreditaufnahme
+einer der in § 19 bezeichneten Stellen gleichkommen, auf den
+Höchstbetrag nach Absatz 1 Nr. 1 anzurechnen sind. Insbesondere
+sind Kreditaufnahmen Dritter zu berücksichtigen, soweit diese
+Aufgaben der Finanzierung für eine der in § 19 bezeichneten Stellen
+wahrnehmen oder soweit eine solche Stelle die Kreditaufnahme durch
 Zinsverbilligungsmittel oder Zuwendungen gleicher Wirkung fördert.
 
 (4) Rechtsverordnungen nach § 19 sind auf längstens ein Jahr zu
@@ -479,9 +458,9 @@ zusätzlichen Kreditbedarf zugewiesen werden.
 ## § 22
 
 (1) Der besondere Ausschuß des Konjunkturrates (§ 18 Abs. 3) stellt
-unter Berücksichtigung der Lage am Kapitalmarkt einen Zeitplan für
-jeweils längstens drei Monate auf. In dem Plan sind für die in der
-Rechtsverordnung nach § 20 Abs. 1 Nr. 2 bestimmten Kredite die
+unter Berücksichtigung der Lage am Kapitalmarkt einen Zeitplan
+für jeweils längstens drei Monate auf. In dem Plan sind für die in
+der Rechtsverordnung nach § 20 Abs. 1 Nr. 2 bestimmten Kredite die
 Reihenfolge der Kreditaufnahme und die Höhe des Betrages festzulegen;
 die Kreditbedingungen können festgelegt werden.
 
@@ -490,17 +469,17 @@ aufgestellte Zeitplan für verbindlich erklärt oder, wenn im besonderen
 Ausschuß des Konjunkturrates keine Übereinstimmung erzielt worden ist,
 mit Zustimmung des Bundesrates ein Zeitplan festgestellt werden.
 
-(3) Bei einer drohenden Verschlechterung der Lage am Kapitalmarkt kann
-das Bundesministerium der Finanzen im Benehmen mit der Deutschen
+(3) Bei einer drohenden Verschlechterung der Lage am Kapitalmarkt
+kann das Bundesministerium der Finanzen im Benehmen mit der Deutschen
 Bundesbank den Vollzug des Zeitplans vorläufig aussetzen. Er tritt in
 diesem Fall innerhalb von zwei Wochen mit dem besonderen Ausschuß des
 Konjunkturrates in erneute Beratungen ein.
 
 (4) Die in § 19 bezeichneten Stellen sind verpflichtet, auch bei
-solchen Krediten, die nicht Gegenstand der Rechtsverordnung nach § 20
-Abs. 1 Nr. 2 sind, in der Zeitfolge der Kreditaufnahme und der
-Gestaltung der Kreditbedingungen der Lage am Kapitalmarkt Rechnung zu
-tragen.
+solchen Krediten, die nicht Gegenstand der Rechtsverordnung nach §
+20 Abs. 1 Nr. 2 sind, in der Zeitfolge der Kreditaufnahme und der
+Gestaltung der Kreditbedingungen der Lage am Kapitalmarkt Rechnung
+zu tragen.
 
 
 ## § 23
@@ -529,20 +508,19 @@ Finanzen auf Anforderung Auskunft über den Kreditbedarf des Landes,
 der Gemeinden, Gemeindeverbände und Zweckverbände über Art und Höhe
 der von diesen aufgenommenen Kredite sowie über Kreditaufnahmen
 Dritter, die wirtschaftlich einer eigenen Kreditaufnahme gleichkommen.
-Die öffentlichen Sondervermögen erteilen die Auskunft nach Satz 1
-unmittelbar.
+Die öffentlichen Sondervermögen erteilen die Auskunft nach Satz
+1 unmittelbar.
 
 
 ## (XXXX) §§ 26 bis 31
 
 
-
 ## § 32
 
 Dieses Gesetz gilt nach § 12 Abs. 1 und § 13 Abs. 1 des Dritten
-Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
-im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes
-erlassen werden, gelten im Land Berlin nach § 14 des Dritten
+Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S.
+1) auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses
+Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
 
 
@@ -551,7 +529,7 @@ erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 (1) Dieses Gesetz tritt vorbehaltlich des Absatzes 2 am Tage nach
 seiner Verkündung in Kraft.
 
-(2) Die Vorschriften des § 26 Nr. 3 Buchstabe a und des § 27 Nr. 2
-hinsichtlich des § 23a Abs. 1 Ziff. 2 Buchstabe k des
+(2) Die Vorschriften des § 26 Nr. 3 Buchstabe a und des § 27
+Nr. 2 hinsichtlich des § 23a Abs. 1 Ziff. 2 Buchstabe k des
 Körperschaftsteuergesetzes treten am 1. Januar 1969 in Kraft.
 

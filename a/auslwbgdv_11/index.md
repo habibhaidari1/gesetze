@@ -1,6 +1,5 @@
 ---
-Title: Elfte Durchführungsverordnung zum Bereinigungsgesetz für deutsche Auslandsbonds
-  (Dritte Verlängerung der Anmeldefrist)
+Title: Elfte Durchführungsverordnung zum Bereinigungsgesetz für deutsche Auslandsbonds (Dritte Verlängerung der Anmeldefrist)
 jurabk: AuslWBGDV 11
 layout: default
 origslug: auslwbgdv_11
@@ -17,7 +16,6 @@ Fundstelle
 :   BGBl I: 1956, 72
 
 
-
 ## Eingangsformel
 
 Auf Grund des § 21 Abs. 2 in Verbindung mit § 76 Abs. 3 des
@@ -27,13 +25,13 @@ Bereinigungsgesetzes für deutsche Auslandsbonds vom 25. August 1952
 
 ## § 1 Verlängerung der Anmeldefrist
 
-Die in § 21 Abs. 1 Satz 1 des Gesetzes bezeichnete Frist wird für die
-im Verzeichnis der Auslandsbonds (Anlage zu § 1 Abs. 1 des Gesetzes,
-ergänzt durch § 1 der Ersten Durchführungsverordnung vom 21. Februar
-1953 - Bundesgesetzbl. I S. 31 - und durch § 1 der Neunten
+Die in § 21 Abs. 1 Satz 1 des Gesetzes bezeichnete Frist wird für
+die im Verzeichnis der Auslandsbonds (Anlage zu § 1 Abs. 1 des
+Gesetzes, *ergänzt durch § 1 der Ersten Durchführungsverordnung vom
+21\. Februar 1953 - Bundesgesetzbl. I S. 31 - und durch § 1 der Neunten
 Durchführungsverordnung vom 16. August 1954 - Bundesgesetzbl. I S. 267
--)              aufgeführten Arten von Auslandsbonds bis zum Ablauf
-des 31. August 1956 verlängert.
+-)* aufgeführten Arten von Auslandsbonds bis zum Ablauf des 31. August
+1956 verlängert.
 
 
 ## § 2 Land Berlin

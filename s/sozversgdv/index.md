@@ -15,6 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   GBl DDR I: 1990, 1075
 
+Fundstelle
+:   GBl DDR I: 1990, Nr 53, 1075
 
 
 ## Eingangsformel
@@ -43,8 +45,8 @@ Ausgaben für Zwecke der Sozialversicherung zu übergeben.
 ## § 2
 
 Die Verwaltungen der Sozialversicherung gewährleisten in
-Zusammenarbeit mit den Finanzämtern die Kontrolle über den
-ordnungsgemäßen Einzug und die Weiterleitung der
+Zusammenarbeit mit den Finanzämtern die Kontrolle über
+den ordnungsgemäßen Einzug und die Weiterleitung der
 Sozialversicherungsbeiträge. Die Finanzämter gewährleisten die
 Auskunftspflicht sowie die Einsichtnahme in die entsprechenden
 Unterlagen durch die Verwaltungen der Sozialversicherung.

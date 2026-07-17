@@ -37,8 +37,8 @@ Gesetz über die Kontrolle von Kriegswaffen wird dem Bundesamt für
 Wirtschaft und Ausfuhrkontrolle (BAFA) übertragen.
 
 (2) Die Zuständigkeit des Bundesministeriums der Finanzen zur
-Verfolgung und Ahndung von Ordnungswidrigkeiten nach dem Gesetz über
-die Kontrolle von Kriegswaffen wird den örtlich zuständigen
+Verfolgung und Ahndung von Ordnungswidrigkeiten nach dem Gesetz
+über die Kontrolle von Kriegswaffen wird den örtlich zuständigen
 Hauptzollämtern übertragen.
 
 

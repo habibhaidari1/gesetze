@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Haftung der Bundesrepublik Deutschland für ihre Beamten
-  und Soldaten gegenüber Angehörigen der Niederlande
+Title: Bekanntmachung über die Haftung der Bundesrepublik Deutschland für ihre Beamten und Soldaten gegenüber Angehörigen der Niederlande
 jurabk: BeamtHaftNLDBek
 layout: default
 origslug: beamthaftnldbek
@@ -17,7 +16,6 @@ Fundstelle
 :   BGBl I: 1958, 339
 
 
-
 ## (XXXX)
 
 Auf Grund des § 7 des Gesetzes über die Haftung des Reichs für seine
@@ -26,5 +24,6 @@ daß durch die Gesetzgebung der Niederlande die Gegenseitigkeit ohne
 die in der Bekanntmachung des Reichsministers der Justiz vom 18.
 Dezember 1928 (Reichsgesetzbl. I S. 414) genannte Einschränkung
 verbürgt ist.
+
 Der Bundesminister der Justiz
 

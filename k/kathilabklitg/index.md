@@ -1,7 +1,5 @@
 ---
-Title: Gesetz zu dem Abkommen vom 15. März 1994 zwischen der Bundesrepublik Deutschland
-  und der Republik Litauen über die gegenseitige Hilfeleistung bei Katastrophen oder
-  schweren Unglücksfällen
+Title: Gesetz zu dem Abkommen vom 15. März 1994 zwischen der Bundesrepublik Deutschland und der Republik Litauen über die gegenseitige Hilfeleistung bei Katastrophen oder schweren Unglücksfällen
 jurabk: KatHiLAbkLITG
 layout: default
 origslug: kathilabklitg
@@ -18,7 +16,6 @@ Fundstelle
 :   BGBl II: 1996, 27
 
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
@@ -27,9 +24,9 @@ beschlossen:
 
 ## Art 1
 
-Dem in Bonn am 15. März 1994 unterzeichneten Abkommen zwischen der
-Bundesrepublik Deutschland und der Republik Litauen über die
-gegenseitige Hilfeleistung bei Katastrophen oder schweren
+Dem in Bonn am 15. März 1994 unterzeichneten Abkommen zwischen
+der Bundesrepublik Deutschland und der Republik Litauen über
+die gegenseitige Hilfeleistung bei Katastrophen oder schweren
 Unglücksfällen wird zugestimmt. Das Abkommen wird nachstehend
 veröffentlicht.
 

@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen
-  Mark (Gedenkmünze Europäisches Denkmalschutzjahr 1975)
+Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Gedenkmünze Europäisches Denkmalschutzjahr 1975)
 jurabk: Münz5DMBek 1975-09
 layout: default
 origslug: m_nz5dmbek_1975-09
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 1975, 2532
-
 
 
 ## (XXXX)
@@ -44,13 +42,11 @@ vereinfachter Stilelemente verschiedene Bauepochen vertreten.
 (6) Die Wertseite zeigt im oberen Teil einen Adler, darunter die
 Aufschrift
 
-*   "5 DEUTSCHE MARK
+-   "5 DEUTSCHE MARK
 
     BUNDESREPUBLIK
 
     DEUTSCHLAND".
-
-
 
 Die Jahreszahl "1975" wird durch den Kopf des Adlers in "19" und "75"
 getrennt. Das Münzzeichen "F" der Staatlichen Münze Stuttgart befindet
@@ -58,9 +54,7 @@ sich unterhalb des Buchstabens "C" des Wortes "DEUTSCHLAND".
 
 (7) Der glatte Münzrand ist mit der vertieften Inschrift
 
-*   "ZUKUNFT FÜR UNSERE VERGANGENHEIT"
-
-
+-   "ZUKUNFT FÜR UNSERE VERGANGENHEIT"
 
 versehen. Zwischen Ende und Anfang der Randbeschriftung ist ein
 liegender Rhombus eingeprägt.

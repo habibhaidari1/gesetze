@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl I: 1976, 417
 
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
@@ -30,11 +29,11 @@ beschlossen:
 
 ## Art 2
 
-(1) Die vor Inkrafttreten dieses Gesetzes nach § 59 Abs. 4 und, soweit
-sie nur noch zur Ausübung der tatsächlichen Gewalt berechtigen, auch
-die nach § 28 Abs. 1 des Waffengesetzes vom 19. September 1972
-erteilten Waffenbesitzkarten, gelten als unbefristet erteilt. Sie
-können unter den Voraussetzungen des § 28 Abs. 1 Satz 5 des
+(1) Die vor Inkrafttreten dieses Gesetzes nach § 59 Abs. 4 und,
+soweit sie nur noch zur Ausübung der tatsächlichen Gewalt berechtigen,
+auch die nach § 28 Abs. 1 des Waffengesetzes vom 19. September
+1972 erteilten Waffenbesitzkarten, gelten als unbefristet erteilt.
+Sie können unter den Voraussetzungen des § 28 Abs. 1 Satz 5 des
 Waffengesetzes nachträglich befristet werden. Die Waffenbesitzkarte
 nach Satz 1 berechtigt nicht zum Erwerb von Munition.
 
@@ -46,16 +45,13 @@ Schußwaffen ausgeübt
     Munition verschossen werden kann (§ 28 Abs. 3 Nr. 1 des Waffengesetzes
     vom 19. September 1972),
 
-
 2.  für deren Erwerb es nach den §§ 1 bis 5 der Ersten Verordnung zum
     Waffengesetz vom 19. Dezember 1972 (Bundesgesetzbl. I S. 2522) keiner
     Erlaubnis bedurfte,
 
-
-
 für deren Erwerb es jedoch nach diesem Gesetz oder auf Grund einer
-Rechtsverordnung der Erlaubnis bedarf, so hat er diese Schußwaffen bis
-zum 30. Juni 1976 nach Maßgabe des § 59 Abs. 1 des Waffengesetzes
+Rechtsverordnung der Erlaubnis bedarf, so hat er diese Schußwaffen
+bis zum 30. Juni 1976 nach Maßgabe des § 59 Abs. 1 des Waffengesetzes
 anzumelden. § 59 Abs. 2 bis 4 des Waffengesetzes ist entsprechend
 anzuwenden.
 
@@ -81,7 +77,7 @@ Artikel 1 Nr. 21 ergebenden Fassung sowie Artikel 2 Abs. 2 und Artikel
 3\.
 
 (2) Am Tage nach der Verkündung des Gesetzes tritt § 2 Abs. 5 Nr. 2
-der Ersten Verordnung zum Waffengesetz außer Kraft, soweit er sich auf
-Handfeuerwaffen, mit einer Länge von nicht mehr als 60 cm bezieht,
+der Ersten Verordnung zum Waffengesetz außer Kraft, soweit er sich
+auf Handfeuerwaffen, mit einer Länge von nicht mehr als 60 cm bezieht,
 deren Bauart nicht nach § 22 zugelassen ist.
 

@@ -19,11 +19,10 @@ Neugefasst durch
 :   Bek. v. 27.6.1994 I 1537;
 
 Zuletzt geändert durch
-:   Art. 29 G v. 5.10.2021 I 4607
+:   Art. 2 G v. 10.2.2026 I Nr. 39
 
 
 ## Erster Teil - Anwendungsbereich
-
 
 
 ### § 1 Anwendungsbereich
@@ -31,10 +30,10 @@ Zuletzt geändert durch
 (1) Der Rechtshilfeverkehr mit dem Ausland in strafrechtlichen
 Angelegenheiten richtet sich nach diesem Gesetz.
 
-(2) Strafrechtliche Angelegenheiten im Sinne dieses Gesetzes sind auch
-Verfahren wegen einer Tat, die nach deutschem Recht als
-Ordnungswidrigkeit mit Geldbuße oder die nach ausländischem Recht mit
-einer vergleichbaren Sanktion bedroht ist, sofern über deren
+(2) Strafrechtliche Angelegenheiten im Sinne dieses Gesetzes
+sind auch Verfahren wegen einer Tat, die nach deutschem Recht als
+Ordnungswidrigkeit mit Geldbuße oder die nach ausländischem Recht
+mit einer vergleichbaren Sanktion bedroht ist, sofern über deren
 Festsetzung ein auch für Strafsachen zuständiges Gericht entscheiden
 kann.
 
@@ -55,19 +54,18 @@ sich nach diesem Gesetz.
 ## Zweiter Teil - Auslieferung an das Ausland
 
 
-
 ### § 2 Grundsatz
 
-(1) Ein Ausländer, der in einem ausländischen Staat wegen einer Tat,
-die dort mit Strafe bedroht ist, verfolgt wird oder verurteilt worden
-ist, kann diesem Staat auf Ersuchen einer zuständigen Stelle zur
-Verfolgung oder zur Vollstreckung einer wegen der Tat verhängten
+(1) Ein Ausländer, der in einem ausländischen Staat wegen einer
+Tat, die dort mit Strafe bedroht ist, verfolgt wird oder verurteilt
+worden ist, kann diesem Staat auf Ersuchen einer zuständigen Stelle
+zur Verfolgung oder zur Vollstreckung einer wegen der Tat verhängten
 Strafe oder sonstigen Sanktion ausgeliefert werden.
 
 (2) Ein Ausländer, der in einem ausländischen Staat wegen einer Tat,
 die dort mit Strafe bedroht ist, verurteilt worden ist, kann einem
-anderen ausländischen Staat, der die Vollstreckung übernommen hat, auf
-Ersuchen einer zuständigen Stelle dieses Staates zur Vollstreckung
+anderen ausländischen Staat, der die Vollstreckung übernommen hat,
+auf Ersuchen einer zuständigen Stelle dieses Staates zur Vollstreckung
 einer wegen der Tat verhängten Strafe oder sonstigen Sanktion
 ausgeliefert werden.
 
@@ -88,12 +86,12 @@ einem Jahr bedroht ist oder wenn sie bei sinngemäßer Umstellung des
 Sachverhalts nach deutschem Recht mit einer solchen Strafe bedroht
 wäre.
 
-(3) Die Auslieferung zur Vollstreckung ist nur zulässig, wenn wegen
-der Tat die Auslieferung zur Verfolgung zulässig wäre und wenn eine
-freiheitsentziehende Sanktion zu vollstrecken ist. Sie ist ferner nur
-zulässig, wenn zu erwarten ist, daß die noch zu vollstreckende
-freiheitsentziehende Sanktion oder die Summe der noch zu
-vollstreckenden freiheitsentziehenden Sanktionen mindestens vier
+(3) Die Auslieferung zur Vollstreckung ist nur zulässig, wenn
+wegen der Tat die Auslieferung zur Verfolgung zulässig wäre und
+wenn eine freiheitsentziehende Sanktion zu vollstrecken ist. Sie
+ist ferner nur zulässig, wenn zu erwarten ist, daß die noch zu
+vollstreckende freiheitsentziehende Sanktion oder die Summe der noch
+zu vollstreckenden freiheitsentziehenden Sanktionen mindestens vier
 Monate beträgt.
 
 
@@ -104,13 +102,9 @@ auch dann zulässig, wenn für diese
 
 1.  die Voraussetzungen des § 3 Abs. 2 oder 3 nicht vorliegen oder
 
-
 2.  die Voraussetzungen des § 2 oder des § 3 Abs. 1 deshalb nicht
     vorliegen, weil die weitere Tat nur mit einer Sanktion im Sinne des §
     1 Abs. 2 bedroht ist.
-
-
-
 
 
 ### § 5 Gegenseitigkeit
@@ -122,9 +116,9 @@ vergleichbaren deutschen Ersuchen entsprechen würde.
 
 ### § 6 Politische Straftaten, politische Verfolgung
 
-(1) Die Auslieferung ist nicht zulässig wegen einer politischen Tat
-oder wegen einer mit einer solchen zusammenhängenden Tat. Sie ist
-zulässig, wenn der Verfolgte wegen vollendeten oder versuchten
+(1) Die Auslieferung ist nicht zulässig wegen einer politischen
+Tat oder wegen einer mit einer solchen zusammenhängenden Tat. Sie
+ist zulässig, wenn der Verfolgte wegen vollendeten oder versuchten
 Völkermordes, Mordes oder Totschlags oder wegen der Beteiligung hieran
 verfolgt wird oder verurteilt worden ist.
 
@@ -155,22 +149,18 @@ vollstreckt werden wird.
 Ist für die Tat auch die deutsche Gerichtsbarkeit begründet, so ist
 die Auslieferung nicht zulässig, wenn
 
-1.  ein Gericht oder eine Behörde im Geltungsbereich dieses Gesetzes gegen
-    den Verfolgten wegen der Tat ein Urteil oder eine Entscheidung mit
-    entsprechender Rechtswirkung erlassen, die Eröffnung des
-    Hauptverfahrens abgelehnt (§ 204 der Strafprozeßordnung), einen Antrag
-    auf Erhebung der öffentlichen Klage verworfen (§ 174 der
+1.  ein Gericht oder eine Behörde im Geltungsbereich dieses Gesetzes
+    gegen den Verfolgten wegen der Tat ein Urteil oder eine Entscheidung
+    mit entsprechender Rechtswirkung erlassen, die Eröffnung des
+    Hauptverfahrens abgelehnt (§ 204 der Strafprozeßordnung), einen
+    Antrag auf Erhebung der öffentlichen Klage verworfen (§ 174 der
     Strafprozeßordnung), das Verfahren nach Erfüllung von Auflagen und
     Weisungen eingestellt (§ 153a der Strafprozeßordnung) oder nach
     Jugendstrafrecht von der Verfolgung abgesehen oder das Verfahren
     eingestellt hat (§§ 45, 47 des Jugendgerichtsgesetzes) oder
 
-
 2.  die Verfolgung oder Vollstreckung nach deutschem Recht verjährt oder
     auf Grund eines deutschen Straffreiheitsgesetzes ausgeschlossen ist.
-
-
-
 
 
 ### § 9a Auslieferung und Verfahren vor internationalen Strafgerichtshöfen
@@ -178,24 +168,24 @@ die Auslieferung nicht zulässig, wenn
 (1) Die Auslieferung ist nicht zulässig, wenn ein internationaler
 Strafgerichtshof, der durch einen für die Bundesrepublik Deutschland
 verbindlichen Rechtsakt errichtet wurde, gegen den Verfolgten wegen
-der Tat ein rechtskräftiges Strafurteil oder eine Entscheidung mit
-entsprechender Rechtswirkung erlassen oder das Strafverfahren
+der Tat ein rechtskräftiges Strafurteil oder eine Entscheidung
+mit entsprechender Rechtswirkung erlassen oder das Strafverfahren
 unanfechtbar eingestellt hat und nach dem Errichtungsakt in diesem
-Falle die Verfolgung durch andere Stellen untersagt ist. Führt der in
-Satz 1 bezeichnete Gerichtshof wegen der Tat ein Strafverfahren und
-liegt eine Entscheidung im Sinne des Satzes 1 des Gerichtshofes bei
-Eingang des Auslieferungsersuchens noch nicht vor, wird die
+Falle die Verfolgung durch andere Stellen untersagt ist. Führt der
+in Satz 1 bezeichnete Gerichtshof wegen der Tat ein Strafverfahren
+und liegt eine Entscheidung im Sinne des Satzes 1 des Gerichtshofes
+bei Eingang des Auslieferungsersuchens noch nicht vor, wird die
 Entscheidung über die Zulässigkeit der Auslieferung zurückgestellt.
 Eine vorübergehende Auslieferung (§ 37) scheidet aus.
 
 (2) Ersuchen sowohl ein ausländischer Staat als auch ein Gerichtshof
 im Sinne des Absatzes 1 Satz 1 um Übergabe des Verfolgten zur
-Strafverfolgung oder Strafvollstreckung (konkurrierende Ersuchen) und
-enthält der Errichtungsakt des Gerichtshofes oder enthalten die zu
-seiner Ausführung erlassenen Rechtsvorschriften Bestimmungen, die die
-Behandlung mehrerer Ersuchen regeln, so richtet sich die Behandlung
-der Ersuchen nach diesen Bestimmungen. Enthalten weder der
-Errichtungsakt noch die zu seiner Ausführung erlassenen
+Strafverfolgung oder Strafvollstreckung (konkurrierende Ersuchen)
+und enthält der Errichtungsakt des Gerichtshofes oder enthalten die
+zu seiner Ausführung erlassenen Rechtsvorschriften Bestimmungen,
+die die Behandlung mehrerer Ersuchen regeln, so richtet sich
+die Behandlung der Ersuchen nach diesen Bestimmungen. Enthalten
+weder der Errichtungsakt noch die zu seiner Ausführung erlassenen
 Rechtsvorschriften Bestimmungen zur Behandlung konkurrierender
 Ersuchen, räumt aber der Errichtungsakt dem Verfahren des
 Gerichtshofes Vorrang vor dem Verfahren des ausländischen Staates ein,
@@ -208,15 +198,15 @@ wird dem Ersuchen des Gerichtshofes Vorrang gegeben.
 Haftbefehl, eine Urkunde mit entsprechender Rechtswirkung oder ein
 vollstreckbares, eine Freiheitsentziehung anordnendes Erkenntnis einer
 zuständigen Stelle des ersuchenden Staates und eine Darstellung der
-anwendbaren gesetzlichen Bestimmungen vorgelegt worden sind. Wird um
-Auslieferung zur Verfolgung mehrerer Taten ersucht, so genügt
+anwendbaren gesetzlichen Bestimmungen vorgelegt worden sind. Wird
+um Auslieferung zur Verfolgung mehrerer Taten ersucht, so genügt
 hinsichtlich der weiteren Taten anstelle eines Haftbefehls oder einer
 Urkunde mit entsprechender Rechtswirkung die Urkunde einer zuständigen
 Stelle des ersuchenden Staates, aus der sich die dem Verfolgten zur
 Last gelegte Tat ergibt.
 
-(2) Geben besondere Umstände des Falles Anlaß zu der Prüfung, ob der
-Verfolgte der ihm zur Last gelegten Tat hinreichend verdächtig
+(2) Geben besondere Umstände des Falles Anlaß zu der Prüfung, ob
+der Verfolgte der ihm zur Last gelegten Tat hinreichend verdächtig
 erscheint, so ist die Auslieferung ferner nur zulässig, wenn eine
 Darstellung der Tatsachen vorgelegt worden ist, aus denen sich der
 hinreichende Tatverdacht ergibt.
@@ -225,31 +215,26 @@ hinreichende Tatverdacht ergibt.
 sonstigen Sanktion, die in einem dritten Staat verhängt wurde, ist nur
 zulässig, wenn
 
-1.  das vollstreckbare, eine Freiheitsentziehung anordnende Erkenntnis und
-    eine Urkunde des dritten Staates, aus der sich sein Einverständnis mit
-    der Vollstreckung durch den Staat ergibt, der die Vollstreckung
+1.  das vollstreckbare, eine Freiheitsentziehung anordnende Erkenntnis
+    und eine Urkunde des dritten Staates, aus der sich sein Einverständnis
+    mit der Vollstreckung durch den Staat ergibt, der die Vollstreckung
     übernommen hat,
-
 
 2.  eine Urkunde einer zuständigen Stelle des Staates, der die
     Vollstreckung übernommen hat, nach der die Strafe oder sonstige
     Sanktion dort vollstreckbar ist,
 
-
 3.  eine Darstellung der anwendbaren gesetzlichen Bestimmungen sowie
 
-
 4.  im Fall des Absatzes 2 eine Darstellung im Sinne dieser Vorschrift
-
-
 
 vorgelegt worden sind.
 
 
 ### § 11 Spezialität
 
-(1) Die Auslieferung ist nur zulässig, wenn gewährleistet ist, daß der
-Verfolgte
+(1) Die Auslieferung ist nur zulässig, wenn gewährleistet ist, daß
+der Verfolgte
 
 1.  in dem ersuchenden Staat ohne deutsche Zustimmung aus keinem vor
     seiner Überstellung eingetretenen Grund mit Ausnahme der Tat,
@@ -258,16 +243,11 @@ Verfolgte
     Maßnahmen, die nicht auch in seiner Abwesenheit getroffen werden
     können, verfolgt werden wird,
 
-
 2.  nicht ohne deutsche Zustimmung an einen dritten Staat weitergeliefert,
     überstellt oder in einen dritten Staat abgeschoben werden wird und
 
-
 3.  den ersuchenden Staat nach dem endgültigen Abschluß des Verfahrens,
     dessentwegen seine Auslieferung bewilligt worden ist, verlassen darf.
-
-
-
 
 (2) Die Bindung des ersuchenden Staates an die Spezialität darf nur
 entfallen, wenn
@@ -277,21 +257,16 @@ entfallen, wenn
     (§ 35) oder zur Weiterlieferung, Überstellung oder Abschiebung an
     einen anderen ausländischen Staat (§ 36) erteilt worden ist,
 
-
 2.  der Verfolgte den ersuchenden Staat innerhalb eines Monats nach dem
     endgültigen Abschluß des Verfahrens, dessentwegen seine Auslieferung
     bewilligt worden ist, nicht verlassen hat, obwohl er dazu das Recht
     und die Möglichkeit hatte, oder
 
-
-3.  der Verfolgte, nachdem er den ersuchenden Staat verlassen hatte,
-    dorthin zurückgekehrt ist oder von einem dritten Staat
+3.  der Verfolgte, nachdem er den ersuchenden Staat verlassen
+    hatte, dorthin zurückgekehrt ist oder von einem dritten Staat
     zurücküberstellt worden ist. Das Recht des ersuchenden Staates, den
     Verfolgten zur Vorbereitung eines Ersuchens nach § 35 zu vernehmen,
     bleibt unberührt.
-
-
-
 
 (3) Eine bedingte Freilassung ohne eine die Bewegungsfreiheit des
 Verfolgten einschränkende Anordnung steht dem endgültigen Abschluß des
@@ -306,8 +281,8 @@ wenn das Gericht sie für zulässig erklärt hat.
 
 ### § 13 Sachliche Zuständigkeit
 
-(1) Die gerichtlichen Entscheidungen erläßt vorbehaltlich der §§ 21,
-22 und 39 Abs. 2 das Oberlandesgericht. Die Entscheidungen des
+(1) Die gerichtlichen Entscheidungen erläßt vorbehaltlich der §§
+21, 22 und 39 Abs. 2 das Oberlandesgericht. Die Entscheidungen des
 Oberlandesgerichts sind unanfechtbar.
 
 (2) Die Staatsanwaltschaft bei dem Oberlandesgericht bereitet die
@@ -343,13 +318,9 @@ Verfolgten die Auslieferungshaft angeordnet werden, wenn
 1.  die Gefahr besteht, daß er sich dem Auslieferungsverfahren oder der
     Durchführung der Auslieferung entziehen werde, oder
 
-
 2.  auf Grund bestimmter Tatsachen der dringende Verdacht begründet ist,
     daß der Verfolgte die Ermittlung der Wahrheit in dem ausländischen
     Verfahren oder im Auslieferungsverfahren erschweren werde.
-
-
-
 
 (2) Absatz 1 gilt nicht, wenn die Auslieferung von vornherein
 unzulässig erscheint.
@@ -363,18 +334,14 @@ wenn
 
 1.  eine zuständige Stelle des ersuchenden Staates darum ersucht oder
 
-
 2.  ein Ausländer einer Tat, die zu seiner Auslieferung Anlaß geben kann,
     auf Grund bestimmter Tatsachen dringend verdächtig ist.
-
-
-
 
 (2) Der Auslieferungshaftbefehl ist aufzuheben, wenn der Verfolgte
 seit dem Tag der Ergreifung oder der vorläufigen Festnahme insgesamt
 zwei Monate zum Zweck der Auslieferung in Haft ist, ohne daß das
-Auslieferungsersuchen und die Auslieferungsunterlagen bei der in § 74
-bezeichneten Behörde oder bei einer sonst zu ihrer Entgegennahme
+Auslieferungsersuchen und die Auslieferungsunterlagen bei der in §
+74 bezeichneten Behörde oder bei einer sonst zu ihrer Entgegennahme
 zuständigen Stelle eingegangen sind. Hat ein außereuropäischer Staat
 um Anordnung der vorläufigen Auslieferungshaft ersucht, so beträgt die
 Frist drei Monate.
@@ -386,51 +353,44 @@ Auslieferungsunterlagen entscheidet das Oberlandesgericht unverzüglich
 
 ### § 17 Auslieferungshaftbefehl
 
-(1) Die vorläufige Auslieferungshaft und die Auslieferungshaft werden
-durch schriftlichen Haftbefehl (Auslieferungshaftbefehl) des
+(1) Die vorläufige Auslieferungshaft und die Auslieferungshaft
+werden durch schriftlichen Haftbefehl (Auslieferungshaftbefehl) des
 Oberlandesgerichts angeordnet.
 
 (2) In dem Auslieferungshaftbefehl sind anzuführen
 
 1.  der Verfolgte,
 
-
 2.  der Staat, an den die Auslieferung nach den Umständen des Falles in
     Betracht kommt,
 
-
 3.  die dem Verfolgten zur Last gelegte Tat,
 
-
-4.  das Ersuchen oder im Fall des § 16 Abs. 1 Nr. 2 die Tatsachen, aus
-    denen sich ergibt, daß der Verfolgte einer Tat, die zu seiner
+4.  das Ersuchen oder im Fall des § 16 Abs. 1 Nr. 2 die Tatsachen,
+    aus denen sich ergibt, daß der Verfolgte einer Tat, die zu seiner
     Auslieferung Anlaß geben kann, dringend verdächtig ist, sowie
 
-
 5.  der Haftgrund und die Tatsachen, aus denen er sich ergibt.
-
-
-
 
 
 ### § 18 Fahndungsmaßnahmen
 
 Liegt ein Auslieferungsersuchen vor und ist der Aufenthalt des
-Verfolgten nicht bekannt, so können die erforderlichen Maßnahmen zur
-Feststellung des Aufenthaltes und zur Festnahme des Verfolgten
-ergriffen werden. Zur Anordnung einzelner Fahndungsmaßnahmen bedarf es
-keines gesonderten Ersuchens. Zuständig für die Ausschreibung zur
-Festnahme ist die Staatsanwaltschaft bei dem Oberlandesgericht. Die
-Vorschriften des Abschnitts 9a der Strafprozessordnung sind
+Verfolgten nicht bekannt, so können die erforderlichen Maßnahmen
+zur Feststellung des Aufenthaltes und zur Festnahme des Verfolgten
+ergriffen werden. Zur Anordnung einzelner Fahndungsmaßnahmen bedarf
+es keines gesonderten Ersuchens. Zuständig für die Ausschreibung
+zur Festnahme ist die Staatsanwaltschaft bei dem Oberlandesgericht.
+Die Vorschriften des Abschnitts 9a der Strafprozessordnung sind
 entsprechend anwendbar.
 
 
 ### § 19 Vorläufige Festnahme
 
-Liegen die Voraussetzungen eines Auslieferungshaftbefehls vor, so sind
-die Staatsanwaltschaft und die Beamten des Polizeidienstes zur
-vorläufigen Festnahme befugt. Unter den Voraussetzungen des § 127 Abs.
-1 Satz 1 der Strafprozeßordnung ist jedermann zur vorläufigen
+Liegen die Voraussetzungen eines Auslieferungshaftbefehls vor, so
+sind die Staatsanwaltschaft und die Beamten des Polizeidienstes zur
+vorläufigen Festnahme befugt. Unter den Voraussetzungen des § 127
+Abs. 1 Satz 1 der Strafprozeßordnung ist jedermann zur vorläufigen
 Festnahme berechtigt.
 
 
@@ -449,18 +409,18 @@ unverzüglich bekanntzugeben. Der Verfolgte erhält eine Abschrift.
 ergriffen, so ist er unverzüglich, spätestens am Tag nach der
 Ergreifung, dem Richter des nächsten Amtsgerichts vorzuführen.
 
-(2) Der Richter beim Amtsgericht vernimmt den Verfolgten unverzüglich
-nach der Vorführung, spätestens am nächsten Tag, über seine
-persönlichen Verhältnisse, insbesondere über seine
+(2) Der Richter beim Amtsgericht vernimmt den Verfolgten
+unverzüglich nach der Vorführung, spätestens am nächsten Tag,
+über seine persönlichen Verhältnisse, insbesondere über seine
 Staatsangehörigkeit. Er weist ihn darauf hin, daß er sich in jeder
 Lage des Verfahrens eines Rechtsbeistands (§ 40) bedienen kann und daß
 es ihm freisteht, sich zu der ihm zur Last gelegten Tat zu äußern oder
 dazu nicht auszusagen. Sodann befragt er ihn, ob und gegebenenfalls
-aus welchen Gründen er Einwendungen gegen die Auslieferung, gegen den
-Auslieferungshaftbefehl oder gegen dessen Vollzug erheben will. Im
-Fall des § 16 Abs. 1 Nr. 2 erstreckt sich die Vernehmung auch auf den
-Gegenstand der Beschuldigung; in den übrigen Fällen sind die Angaben,
-die der Verfolgte von sich aus hierzu macht, in das Protokoll
+aus welchen Gründen er Einwendungen gegen die Auslieferung, gegen
+den Auslieferungshaftbefehl oder gegen dessen Vollzug erheben will.
+Im Fall des § 16 Abs. 1 Nr. 2 erstreckt sich die Vernehmung auch
+auf den Gegenstand der Beschuldigung; in den übrigen Fällen sind die
+Angaben, die der Verfolgte von sich aus hierzu macht, in das Protokoll
 aufzunehmen.
 
 (3) Ergibt sich bei der Vernehmung, daß
@@ -468,13 +428,9 @@ aufzunehmen.
 1.  der Ergriffene nicht die in dem Auslieferungshaftbefehl bezeichnete
     Person ist,
 
-
 2.  der Auslieferungshaftbefehl aufgehoben ist oder
 
-
 3.  der Vollzug des Auslieferungshaftbefehls ausgesetzt ist,
-
-
 
 so ordnet der Richter beim Amtsgericht die Freilassung an.
 
@@ -486,25 +442,22 @@ ist, wenn
 1.  die Voraussetzungen eines neuen Auslieferungshaftbefehls wegen der Tat
     vorliegen oder
 
-
 2.  Gründe dafür vorliegen, den Vollzug des Auslieferungshaftbefehls
     anzuordnen.
-
-
 
 Die Staatsanwaltschaft bei dem Oberlandesgericht führt unverzüglich
 die Entscheidung des Oberlandesgerichts herbei.
 
-(5) Erhebt der Verfolgte gegen den Auslieferungshaftbefehl oder gegen
-dessen Vollzug sonstige Einwendungen, die nicht offensichtlich
-unbegründet sind, oder hat der Richter beim Amtsgericht Bedenken gegen
-die Aufrechterhaltung der Haft, so teilt er dies der
+(5) Erhebt der Verfolgte gegen den Auslieferungshaftbefehl oder
+gegen dessen Vollzug sonstige Einwendungen, die nicht offensichtlich
+unbegründet sind, oder hat der Richter beim Amtsgericht Bedenken
+gegen die Aufrechterhaltung der Haft, so teilt er dies der
 Staatsanwaltschaft bei dem Oberlandesgericht unverzüglich und auf dem
 schnellsten Weg mit. Die Staatsanwaltschaft bei dem Oberlandesgericht
 führt unverzüglich die Entscheidung des Oberlandesgerichts herbei.
 
-(6) Erhebt der Verfolgte gegen die Auslieferung keine Einwendungen, so
-belehrt ihn der Richter beim Amtsgericht über die Möglichkeit der
+(6) Erhebt der Verfolgte gegen die Auslieferung keine Einwendungen,
+so belehrt ihn der Richter beim Amtsgericht über die Möglichkeit der
 vereinfachten Auslieferung und deren Rechtsfolgen (§ 41) und nimmt
 sodann dessen Erklärung zu Protokoll.
 
@@ -519,9 +472,9 @@ des Verfolgten anordnen.
 spätestens am Tag nach der Festnahme, dem Richter des nächsten
 Amtsgerichts vorzuführen.
 
-(2) Der Richter beim Amtsgericht vernimmt den Verfolgten unverzüglich
-nach der Vorführung, spätestens am nächsten Tag, über seine
-persönlichen Verhältnisse, insbesondere über seine
+(2) Der Richter beim Amtsgericht vernimmt den Verfolgten
+unverzüglich nach der Vorführung, spätestens am nächsten Tag,
+über seine persönlichen Verhältnisse, insbesondere über seine
 Staatsangehörigkeit. Er weist ihn darauf hin, daß er sich in jeder
 Lage des Verfahrens eines Rechtsbeistands (§ 40) bedienen kann und daß
 es ihm freisteht, sich zu der ihm zur Last gelegten Tat zu äußern oder
@@ -605,8 +558,8 @@ zuständigen Senats des Oberlandesgerichts.
 Staatsanwaltschaft bei dem Oberlandesgericht die Vernehmung des
 Verfolgten bei dem Amtsgericht, in dessen Bezirk er sich befindet.
 
-(2) Der Richter beim Amtsgericht vernimmt den Verfolgten über seine
-persönlichen Verhältnisse, insbesondere über seine
+(2) Der Richter beim Amtsgericht vernimmt den Verfolgten
+über seine persönlichen Verhältnisse, insbesondere über seine
 Staatsangehörigkeit. Er weist ihn darauf hin, daß er sich in jeder
 Lage des Verfahrens eines Rechtsbeistands (§ 40) bedienen kann und daß
 es ihm freisteht, sich zu der ihm zur Last gelegten Tat zu äußern oder
@@ -617,8 +570,8 @@ vernehmen, wenn die Staatsanwaltschaft bei dem Oberlandesgericht dies
 beantragt; in den übrigen Fällen sind die Angaben, die der Verfolgte
 von sich aus hierzu macht, in das Protokoll aufzunehmen.
 
-(3) Erhebt der Verfolgte gegen die Auslieferung keine Einwendungen, so
-belehrt ihn der Richter beim Amtsgericht über die Möglichkeit der
+(3) Erhebt der Verfolgte gegen die Auslieferung keine Einwendungen,
+so belehrt ihn der Richter beim Amtsgericht über die Möglichkeit der
 vereinfachten Auslieferung und deren Rechtsfolgen (§ 41) und nimmt
 sodann dessen Erklärung zu Protokoll.
 
@@ -645,8 +598,8 @@ worden ist, ergänzende Unterlagen beizubringen. Für ihre Beibringung
 kann eine Frist gesetzt werden.
 
 (2) Das Oberlandesgericht kann den Verfolgten vernehmen. Es kann
-sonstige Beweise über die Zulässigkeit der Auslieferung erheben. Im
-Fall des § 10 Abs. 2 erstreckt sich die Beweiserhebung über die
+sonstige Beweise über die Zulässigkeit der Auslieferung erheben.
+Im Fall des § 10 Abs. 2 erstreckt sich die Beweiserhebung über die
 Zulässigkeit der Auslieferung auch darauf, ob der Verfolgte der ihm
 zur Last gelegten Tat hinreichend verdächtig erscheint. Art und Umfang
 der Beweisaufnahme bestimmt das Oberlandesgericht, ohne durch Anträge,
@@ -658,13 +611,13 @@ Verzichte oder frühere Beschlüsse gebunden zu sein.
 ### § 31 Durchführung der mündlichen Verhandlung
 
 (1) Von Ort und Zeit der mündlichen Verhandlung sind die
-Staatsanwaltschaft bei dem Oberlandesgericht, der Verfolgte und sein
-Rechtsbeistand (§ 40) zu benachrichtigen. Bei der mündlichen
+Staatsanwaltschaft bei dem Oberlandesgericht, der Verfolgte und
+sein Rechtsbeistand (§ 40) zu benachrichtigen. Bei der mündlichen
 Verhandlung muß ein Vertreter der Staatsanwaltschaft bei dem
 Oberlandesgericht anwesend sein.
 
-(2) Befindet sich der Verfolgte in Haft, so ist er vorzuführen, es sei
-denn, daß er auf die Anwesenheit in der Verhandlung verzichtet hat
+(2) Befindet sich der Verfolgte in Haft, so ist er vorzuführen, es
+sei denn, daß er auf die Anwesenheit in der Verhandlung verzichtet hat
 oder daß der Vorführung weite Entfernung, Krankheit oder andere nicht
 zu beseitigende Hindernisse entgegenstehen. Wird der Verfolgte zur
 mündlichen Verhandlung nicht vorgeführt, so muß ein Rechtsbeistand (§
@@ -692,8 +645,8 @@ Verfolgte erhält eine Abschrift.
 
 ### § 33 Erneute Entscheidung über die Zulässigkeit
 
-(1) Treten nach der Entscheidung des Oberlandesgerichts über die
-Zulässigkeit der Auslieferung Umstände ein, die eine andere
+(1) Treten nach der Entscheidung des Oberlandesgerichts über
+die Zulässigkeit der Auslieferung Umstände ein, die eine andere
 Entscheidung über die Zulässigkeit zu begründen geeignet sind, so
 entscheidet das Oberlandesgericht von Amts wegen, auf Antrag der
 Staatsanwaltschaft bei dem Oberlandesgericht oder auf Antrag des
@@ -712,25 +665,20 @@ Zulässigkeit der Auslieferung entscheiden.
 ### § 34 Haft zur Durchführung der Auslieferung
 
 (1) Befindet sich der Verfolgte nach der Bewilligung der Auslieferung
-auf freiem Fuß und ist die Durchführung der Auslieferung nicht auf
-andere Weise gewährleistet, so ordnet das Oberlandesgericht durch
-schriftlichen Haftbefehl die Haft zur Durchführung der Auslieferung
-an, sofern nicht der Vollzug eines bestehenden
+auf freiem Fuß und ist die Durchführung der Auslieferung nicht
+auf andere Weise gewährleistet, so ordnet das Oberlandesgericht
+durch schriftlichen Haftbefehl die Haft zur Durchführung der
+Auslieferung an, sofern nicht der Vollzug eines bestehenden
 Auslieferungshaftbefehls (§ 17) angeordnet werden kann.
 
 (2) In dem Haftbefehl sind anzuführen
 
 1.  der Verfolgte,
 
-
 2.  die Entscheidung, durch welche die Auslieferung bewilligt worden ist,
     sowie
 
-
 3.  der Haftgrund und die Tatsachen, aus denen er sich ergibt.
-
-
-
 
 (3) Die §§ 18 bis 20 und 23 bis 27 gelten entsprechend.
 
@@ -746,21 +694,18 @@ einer sonstigen Sanktion, so kann die Zustimmung erteilt werden, wenn
     zu dem Ersuchen zu äußern, und das Oberlandesgericht entschieden hat,
     daß wegen der Tat die Auslieferung zulässig wäre, oder
 
-
-2.  nachgewiesen worden ist, daß der Ausgelieferte sich zu Protokoll eines
-    Richters des ersuchenden Staates mit der Verfolgung oder mit der
-    Vollstreckung der Strafe oder der sonstigen Sanktion einverstanden
+2.  nachgewiesen worden ist, daß der Ausgelieferte sich zu Protokoll
+    eines Richters des ersuchenden Staates mit der Verfolgung oder mit
+    der Vollstreckung der Strafe oder der sonstigen Sanktion einverstanden
     erklärt hat, und wegen der Tat die Auslieferung zulässig wäre.
-
-
 
 Wird um Zustimmung zur Verfolgung ersucht, so genügt anstelle eines
 Haftbefehls oder einer Urkunde mit entsprechender Rechtswirkung (§ 10
 Abs. 1 Satz 1) die Urkunde einer zuständigen Stelle des ersuchenden
 Staates, aus der sich die dem Verfolgten zur Last gelegte Tat ergibt.
 
-(2) Für das Verfahren gelten § 29 mit der Maßgabe, daß an die Stelle
-des Einverständnisses des Verfolgten mit der vereinfachten
+(2) Für das Verfahren gelten § 29 mit der Maßgabe, daß an die
+Stelle des Einverständnisses des Verfolgten mit der vereinfachten
 Auslieferung sein Einverständnis im Sinne des Absatzes 1 Satz 1 Nr. 2
 tritt, sowie § 30 Abs. 1, Abs. 2 Satz 2 bis 4, Abs. 3, § 31 Abs. 1 und
 4, §§ 32, 33 Abs. 1 und 2 entsprechend. Zuständig für die gerichtliche
@@ -802,12 +747,12 @@ Anforderung zurückzuliefern.
 (2) Auf die Rücklieferung des Verfolgten kann verzichtet werden.
 
 (3) Wird in dem Verfahren, dessentwegen die Auslieferung aufgeschoben
-wurde, zeitige Freiheitsstrafe oder Geldstrafe verhängt, so wird die
-in dem ersuchenden Staat bis zur Rücklieferung oder bis zum Verzicht
-auf die Rücklieferung erlittene Freiheitsentziehung darauf
+wurde, zeitige Freiheitsstrafe oder Geldstrafe verhängt, so wird
+die in dem ersuchenden Staat bis zur Rücklieferung oder bis zum
+Verzicht auf die Rücklieferung erlittene Freiheitsentziehung darauf
 angerechnet. Ist die Auslieferung aufgeschoben worden, weil gegen den
-Verfolgten zeitige Freiheitsstrafe zu vollstrecken ist, so gilt Satz 1
-entsprechend.
+Verfolgten zeitige Freiheitsstrafe zu vollstrecken ist, so gilt Satz
+1 entsprechend.
 
 (4) Die für die Anrechnung nach Absatz 3 zuständige Stelle bestimmt
 nach Anhörung der Staatsanwaltschaft bei dem Oberlandesgericht den
@@ -818,12 +763,8 @@ ganz oder zum Teil unterbleibt, wenn
     zum Teil auf eine dort verhängte oder zu vollstreckende Strafe oder
     sonstige Sanktion angerechnet worden ist oder
 
-
 2.  die Anrechnung im Hinblick auf das Verhalten des Verfolgten nach der
     Übergabe nicht gerechtfertigt ist.
-
-
-
 
 
 ### § 38 Herausgabe von Gegenständen im Auslieferungsverfahren
@@ -833,13 +774,9 @@ Staat ohne besonderes Ersuchen Gegenstände herausgegeben werden,
 
 1.  die als Beweismittel für das ausländische Verfahren dienen können oder
 
-
 2.  die der Verfolgte oder ein Beteiligter durch die Tat, derentwegen die
     Auslieferung bewilligt worden ist, für sie oder als Entgelt für solche
     Gegenstände erlangt hat.
-
-
-
 
 (2) Die Herausgabe ist nur zulässig, wenn gewährleistet ist, daß
 Rechte Dritter unberührt bleiben und unter Vorbehalt herausgegebene
@@ -862,15 +799,15 @@ erklärt hat.
 
 ### § 39 Beschlagnahme und Durchsuchung
 
-(1) Gegenstände, deren Herausgabe an einen ausländischen Staat in
-Betracht kommt, können, auch schon vor Eingang des
+(1) Gegenstände, deren Herausgabe an einen ausländischen
+Staat in Betracht kommt, können, auch schon vor Eingang des
 Auslieferungsersuchens, beschlagnahmt oder sonst sichergestellt
 werden. Zu diesem Zweck kann auch eine Durchsuchung vorgenommen
 werden.
 
 (2) Ist noch kein Oberlandesgericht mit dem Auslieferungsverfahren
-befaßt, so werden die Beschlagnahme und die Durchsuchung zunächst von
-dem Amtsgericht angeordnet, in dessen Bezirk die Handlungen
+befaßt, so werden die Beschlagnahme und die Durchsuchung zunächst
+von dem Amtsgericht angeordnet, in dessen Bezirk die Handlungen
 vorzunehmen sind.
 
 (3) Bei Gefahr im Verzug sind die Staatsanwaltschaft und ihre
@@ -895,15 +832,10 @@ notwendigen Rechtsbeistandschaft vor, wenn
     Achten Teils insbesondere bei Zweifeln, ob die Voraussetzungen der §§
     80 und 81 Nummer 4 vorliegen,
 
-
 2.  ersichtlich ist, dass die verfolgte Person ihre Rechte nicht selbst
     hinreichend wahrnehmen kann oder
 
-
 3.  die verfolgte Person noch nicht 18 Jahre alt ist.
-
-
-
 
 (4) Liegt ein Fall der notwendigen Rechtsbeistandschaft vor und hat
 die verfolgte Person noch keinen Rechtsbeistand, so ist ihr auf Antrag
@@ -916,17 +848,12 @@ sie die Bestellung eines Rechtsbeistands beantragen kann.
 
 1.  im Fall des Absatzes 2 unverzüglich nach Festnahme,
 
-
 2.  im Fall des Absatzes 3 Nummer 3 unverzüglich nach Bekanntgabe des
     Auslieferungsersuchens,
-
 
 3.  in den Fällen des Absatzes 3 Nummer 1 und 2 nach Bekanntgabe des
     Auslieferungsersuchens, sobald die dort genannten Voraussetzungen
     vorliegen.
-
-
-
 
 (6) Über die Bestellung entscheidet das Gericht, dem die verfolgte
 Person vorzuführen ist oder dem sie vorzuführen wäre. Nach einer
@@ -946,8 +873,8 @@ notwendigen Rechtsbeistandschaft mehr vorliegt.
 (8) Die Vorschriften des Elften Abschnittes des Ersten Buches der
 Strafprozessordnung mit Ausnahme der §§ 139, 140, 141, 141a, 142
 Absatz 2 und 3, von § 143 Absatz 1 und 2 Satz 2 bis 4 sowie § 143a
-Absatz 3 gelten entsprechend. § 142 Absatz 7, § 143 Absatz 3 und §
-143a Absatz 4 der Strafprozessordnung gelten mit der Maßgabe
+Absatz 3 gelten entsprechend. § 142 Absatz 7, § 143 Absatz 3 und
+§ 143a Absatz 4 der Strafprozessordnung gelten mit der Maßgabe
 entsprechend, dass über die sofortige Beschwerde das Gericht
 entscheidet, das für die Entscheidung über die Zulässigkeit der
 Auslieferung zuständig ist. Entscheidungen des Oberlandesgerichts nach
@@ -960,8 +887,8 @@ Absatz 6 Satz 2 und Absatz 7 Satz 4 sind unanfechtbar.
 Auslieferungshaftbefehl besteht, kann auf Ersuchen einer zuständigen
 Stelle eines ausländischen Staates um Auslieferung oder um vorläufige
 Festnahme zum Zweck der Auslieferung ohne Durchführung des förmlichen
-Auslieferungsverfahrens bewilligt werden, wenn sich der Verfolgte nach
-Belehrung zu richterlichem Protokoll mit dieser vereinfachten
+Auslieferungsverfahrens bewilligt werden, wenn sich der Verfolgte
+nach Belehrung zu richterlichem Protokoll mit dieser vereinfachten
 Auslieferung einverstanden erklärt hat.
 
 (2) Im Fall des Absatzes 1 kann auf die Beachtung der Voraussetzungen
@@ -983,14 +910,14 @@ der Verfolgte befindet.
 (1) Hält das Oberlandesgericht eine Entscheidung des
 Bundesgerichtshofes für geboten, um eine Rechtsfrage von
 grundsätzlicher Bedeutung zu klären, oder will es von einer
-Entscheidung des Bundesgerichtshofes oder einer nach dem Inkrafttreten
-dieses Gesetzes ergangenen Entscheidung eines anderen
+Entscheidung des Bundesgerichtshofes oder einer nach dem
+Inkrafttreten dieses Gesetzes ergangenen Entscheidung eines anderen
 Oberlandesgerichts über eine Rechtsfrage in Auslieferungssachen
 abweichen, so begründet es seine Auffassung und holt die Entscheidung
 des Bundesgerichtshofes über die Rechtsfrage ein.
 
-(2) Die Entscheidung des Bundesgerichtshofes wird auch eingeholt, wenn
-der Generalbundesanwalt oder die Staatsanwaltschaft bei dem
+(2) Die Entscheidung des Bundesgerichtshofes wird auch eingeholt,
+wenn der Generalbundesanwalt oder die Staatsanwaltschaft bei dem
 Oberlandesgericht dies zur Klärung einer Rechtsfrage beantragt.
 
 (3) Der Bundesgerichtshof gibt dem Verfolgten Gelegenheit zur
@@ -998,7 +925,6 @@ Oberlandesgericht dies zur Klärung einer Rechtsfrage beantragt.
 
 
 ## Dritter Teil - Durchlieferung
-
 
 
 ### § 43 Zulässigkeit der Durchlieferung
@@ -1010,11 +936,11 @@ Verfolgung oder zur Vollstreckung einer wegen der Tat verhängten
 Strafe oder sonstigen Sanktion durch den Geltungsbereich dieses
 Gesetzes durchgeliefert werden.
 
-(2) Ein Ausländer, der in einem ausländischen Staat wegen einer Tat,
-die dort mit Strafe bedroht ist, verurteilt worden ist, kann auf
-Ersuchen einer zuständigen Stelle eines anderen ausländischen Staates,
-der die Vollstreckung übernommen hat, zur Vollstreckung einer wegen
-der Tat verhängten Strafe oder sonstigen Sanktion durch den
+(2) Ein Ausländer, der in einem ausländischen Staat wegen einer
+Tat, die dort mit Strafe bedroht ist, verurteilt worden ist, kann
+auf Ersuchen einer zuständigen Stelle eines anderen ausländischen
+Staates, der die Vollstreckung übernommen hat, zur Vollstreckung einer
+wegen der Tat verhängten Strafe oder sonstigen Sanktion durch den
 Geltungsbereich dieses Gesetzes durchgeliefert werden.
 
 (3) Die Durchlieferung ist nur zulässig, wenn
@@ -1023,20 +949,13 @@ Geltungsbereich dieses Gesetzes durchgeliefert werden.
     Freiheitsstrafe bedroht ist oder bei sinngemäßer Umstellung des
     Sachverhalts mit Freiheitsstrafe bedroht wäre und
 
-
 2.  wegen der dem Ersuchen zugrunde liegenden Tat
 
     a)  im Fall des Absatzes 1 die in § 10 Abs. 1 Satz 1 oder
 
-
     b)  im Fall des Absatzes 2 die in § 10 Abs. 3 Nr. 1 bis 3
 
-
-
-
     bezeichneten Unterlagen vorgelegt worden sind.
-
-
 
 Wird um Durchlieferung wegen mehrerer Taten ersucht, so genügt es,
 wenn die Voraussetzungen des Satzes 1 für mindestens eine der dem
@@ -1056,12 +975,8 @@ Ersuchen zugrunde liegenden Taten vorliegen.
     Oberlandesgericht, in dessen Bezirk der Verfolgte voraussichtlich in
     den Geltungsbereich dieses Gesetzes überstellt werden wird,
 
-
 2.  im Fall der Durchlieferung auf dem Luftweg das Oberlandesgericht, in
     dessen Bezirk die erste Zwischenlandung stattfinden soll.
-
-
-
 
 (3) Ist eine Zuständigkeit nach Absatz 2 Nr. 2 nicht begründet, so ist
 das Oberlandesgericht Frankfurt am Main zuständig.
@@ -1083,30 +998,30 @@ Durchlieferungshaftbefehl erlassen worden ist.
 seinem Eintreffen im Geltungsbereich dieses Gesetzes bekanntzugeben.
 Der Verfolgte erhält eine Abschrift.
 
-(5) Kann die Durchlieferung voraussichtlich nicht bis zum Ablauf des
-auf die Überstellung folgenden Tages abgeschlossen werden, so ist der
-Verfolgte unverzüglich, spätestens am Tag nach seinem Eintreffen im
-Geltungsbereich dieses Gesetzes, dem Richter des nächsten Amtsgerichts
-vorzuführen. Der Richter beim Amtsgericht vernimmt ihn über seine
-persönlichen Verhältnisse, insbesondere über seine
-Staatsangehörigkeit. Er weist ihn darauf hin, daß er sich in jeder
-Lage des Verfahrens eines Rechtsbeistands (§ 40) bedienen kann und daß
-es ihm freisteht, sich zu der ihm zur Last gelegten Tat zu äußern oder
-dazu nicht auszusagen. Sodann befragt er ihn, ob und gegebenenfalls
-aus welchen Gründen er Einwendungen gegen den
-Durchlieferungshaftbefehl oder gegen die Zulässigkeit der
-Durchlieferung erheben will. Erhebt der Verfolgte Einwendungen, die
-nicht offensichtlich unbegründet sind, oder hat der Richter beim
-Amtsgericht Bedenken gegen die Aufrechterhaltung der Haft oder gegen
-die Zulässigkeit der Durchlieferung, so teilt er dies der
+(5) Kann die Durchlieferung voraussichtlich nicht bis zum Ablauf
+des auf die Überstellung folgenden Tages abgeschlossen werden,
+so ist der Verfolgte unverzüglich, spätestens am Tag nach seinem
+Eintreffen im Geltungsbereich dieses Gesetzes, dem Richter des
+nächsten Amtsgerichts vorzuführen. Der Richter beim Amtsgericht
+vernimmt ihn über seine persönlichen Verhältnisse, insbesondere
+über seine Staatsangehörigkeit. Er weist ihn darauf hin, daß er
+sich in jeder Lage des Verfahrens eines Rechtsbeistands (§ 40)
+bedienen kann und daß es ihm freisteht, sich zu der ihm zur Last
+gelegten Tat zu äußern oder dazu nicht auszusagen. Sodann befragt
+er ihn, ob und gegebenenfalls aus welchen Gründen er Einwendungen
+gegen den Durchlieferungshaftbefehl oder gegen die Zulässigkeit
+der Durchlieferung erheben will. Erhebt der Verfolgte Einwendungen,
+die nicht offensichtlich unbegründet sind, oder hat der Richter
+beim Amtsgericht Bedenken gegen die Aufrechterhaltung der Haft oder
+gegen die Zulässigkeit der Durchlieferung, so teilt er dies der
 Staatsanwaltschaft bei dem Oberlandesgericht unverzüglich und auf dem
 schnellsten Weg mit. Diese führt unverzüglich die Entscheidung des
 Oberlandesgerichts herbei.
 
 (6) Die §§ 24, 27, 33 Abs. 1, 2 und 4, § 42 gelten entsprechend,
-ebenso § 26 Abs. 1 mit der Maßgabe, daß an die Stelle der Frist von
-zwei Monaten eine Frist von einem Monat tritt. § 40 gilt mit der
-Maßgabe entsprechend, dass ein Fall der notwendigen
+ebenso § 26 Abs. 1 mit der Maßgabe, daß an die Stelle der Frist
+von zwei Monaten eine Frist von einem Monat tritt. § 40 gilt
+mit der Maßgabe entsprechend, dass ein Fall der notwendigen
 Rechtsbeistandschaft nur bei Vorliegen der Voraussetzungen nach dessen
 Absatz 3 vorliegt.
 
@@ -1117,9 +1032,9 @@ herausgegeben werden.
 
 ### § 46 Durchlieferung bei vorübergehender Auslieferung
 
-(1) Ist die Durchlieferung bewilligt worden, so kann der Verfolgte auf
-Ersuchen einer zuständigen Stelle des ersuchenden Staates zunächst zum
-Vollzug einer vorübergehenden Auslieferung und einer nachfolgenden
+(1) Ist die Durchlieferung bewilligt worden, so kann der Verfolgte
+auf Ersuchen einer zuständigen Stelle des ersuchenden Staates zunächst
+zum Vollzug einer vorübergehenden Auslieferung und einer nachfolgenden
 Rücklieferung durch den Geltungsbereich dieses Gesetzes durchgeliefert
 werden.
 
@@ -1130,11 +1045,11 @@ die weiteren Überstellungsfälle zu erstrecken.
 ### § 47 Unvorhergesehene Zwischenlandung bei Beförderung auf dem Luftweg
 
 (1) Hat eine zuständige Stelle eines ausländischen Staates
-angekündigt, sie werde einen Ausländer zum Zweck der Auslieferung auf
-dem Luftweg ohne Zwischenlandung durch den Geltungsbereich dieses
-Gesetzes befördern lassen, und mitgeteilt, daß die gemäß § 43 Abs. 3
-Satz 1 Nr. 2, Satz 2 erforderlichen Unterlagen vorliegen, so wird die
-Ankündigung im Fall einer unvorhergesehenen Zwischenlandung als
+angekündigt, sie werde einen Ausländer zum Zweck der Auslieferung
+auf dem Luftweg ohne Zwischenlandung durch den Geltungsbereich dieses
+Gesetzes befördern lassen, und mitgeteilt, daß die gemäß § 43 Abs.
+3 Satz 1 Nr. 2, Satz 2 erforderlichen Unterlagen vorliegen, so wird
+die Ankündigung im Fall einer unvorhergesehenen Zwischenlandung als
 Ersuchen um Durchlieferung behandelt.
 
 (2) Liegen die Voraussetzungen des Absatzes 1 vor, so sind die
@@ -1142,20 +1057,20 @@ Staatsanwaltschaft und die Beamten des Polizeidienstes zur vorläufigen
 Festnahme befugt.
 
 (3) Der Verfolgte ist unverzüglich, spätestens am Tag nach der
-Festnahme, dem Richter des nächsten Amtsgerichts vorzuführen. Der
-Richter beim Amtsgericht vernimmt ihn über seine persönlichen
+Festnahme, dem Richter des nächsten Amtsgerichts vorzuführen.
+Der Richter beim Amtsgericht vernimmt ihn über seine persönlichen
 Verhältnisse, insbesondere über seine Staatsangehörigkeit. Er weist
 ihn darauf hin, daß er sich in jeder Lage des Verfahrens eines
-Rechtsbeistands (§ 40) bedienen kann und daß es ihm freisteht, sich zu
-der ihm zur Last gelegten Tat zu äußern oder dazu nicht auszusagen.
+Rechtsbeistands (§ 40) bedienen kann und daß es ihm freisteht, sich
+zu der ihm zur Last gelegten Tat zu äußern oder dazu nicht auszusagen.
 Sodann befragt er ihn, ob und gegebenenfalls aus welchen Gründen er
 Einwendungen gegen die Durchlieferung oder dagegen erheben will, daß
 er festgehalten wird.
 
 (4) Ergibt sich bei der Vernehmung, daß der Vorgeführte nicht die in
 der Ankündigung bezeichnete Person ist, so ordnet der Richter beim
-Amtsgericht seine Freilassung an. Andernfalls ordnet der Richter beim
-Amtsgericht an, daß der Verfolgte bis zur Entscheidung des
+Amtsgericht seine Freilassung an. Andernfalls ordnet der Richter
+beim Amtsgericht an, daß der Verfolgte bis zur Entscheidung des
 Oberlandesgerichts festzuhalten ist. § 21 Abs. 4 Satz 2, Abs. 7 gilt
 entsprechend.
 
@@ -1165,17 +1080,17 @@ dem Verfolgten unverzüglich bekanntzugeben. Der Verfolgte erhält eine
 Abschrift.
 
 (6) Der Durchlieferungshaftbefehl ist aufzuheben, wenn der Verfolgte
-seit dem Tag der vorläufigen Festnahme insgesamt 45 Tage zum Zweck der
-Durchlieferung in Haft ist, ohne daß die Durchlieferungsunterlagen
+seit dem Tag der vorläufigen Festnahme insgesamt 45 Tage zum Zweck
+der Durchlieferung in Haft ist, ohne daß die Durchlieferungsunterlagen
 eingegangen sind. Hat ein außereuropäischer Staat die Beförderung
 gemäß Absatz 1 angekündigt, so beträgt die Frist zwei Monate.
 
 (7) Nach dem Eingang der Unterlagen beantragt die Staatsanwaltschaft
-bei dem Oberlandesgericht die Vernehmung des Verfolgten durch den
-Richter des Amtsgerichts, in dessen Bezirk sich der Verfolgte
+bei dem Oberlandesgericht die Vernehmung des Verfolgten durch
+den Richter des Amtsgerichts, in dessen Bezirk sich der Verfolgte
 befindet. § 45 Abs. 5 Satz 2 bis 4 gilt entsprechend. Sodann beantragt
-die Staatsanwaltschaft bei dem Oberlandesgericht die Entscheidung des
-Oberlandesgerichts darüber, ob der Durchlieferungshaftbefehl
+die Staatsanwaltschaft bei dem Oberlandesgericht die Entscheidung
+des Oberlandesgerichts darüber, ob der Durchlieferungshaftbefehl
 aufrechtzuerhalten ist.
 
 (8) Die Durchlieferung darf nur bewilligt werden, wenn das
@@ -1185,14 +1100,13 @@ Oberlandesgericht den Durchlieferungshaftbefehl aufrechterhalten hat.
 ## Vierter Teil - Rechtshilfe durch Vollstreckung ausländischer Erkenntnisse
 
 
-
 ### § 48 Grundsatz
 
 Rechtshilfe kann für ein Verfahren in einer strafrechtlichen
 Angelegenheit durch Vollstreckung einer im Ausland rechtskräftig
-verhängten Strafe oder sonstigen Sanktion geleistet werden. Der Vierte
-Teil dieses Gesetzes ist auch auf die Vollstreckung einer Anordnung
-der Einziehung anzuwenden, die ein nicht für strafrechtliche
+verhängten Strafe oder sonstigen Sanktion geleistet werden. Der
+Vierte Teil dieses Gesetzes ist auch auf die Vollstreckung einer
+Anordnung der Einziehung anzuwenden, die ein nicht für strafrechtliche
 Angelegenheiten zuständiges Gericht eines ausländischen Staates
 getroffen hat, sofern der Anordnung eine mit Strafe bedrohte Tat
 zugrunde liegt.
@@ -1205,13 +1119,11 @@ zugrunde liegt.
 1.  ein vollständiges rechtskräftiges und vollstreckbares Erkenntnis
     vorliegt,
 
-
-2.  das ausländische Erkenntnis in einem Verfahren ergangen ist, welches
-    mit der Europäischen Konvention vom 4. November 1950 zum Schutz der
-    Menschenrechte und Grundfreiheiten einschließlich ihrer
+2.  das ausländische Erkenntnis in einem Verfahren ergangen ist,
+    welches mit der Europäischen Konvention vom 4. November 1950 zum
+    Schutz der Menschenrechte und Grundfreiheiten einschließlich ihrer
     Zusatzprotokolle, soweit sie für die Bundesrepublik Deutschland in
     Kraft getreten sind, im Einklang steht,
-
 
 3.  auch nach deutschem Recht, ungeachtet etwaiger Verfahrenshindernisse
     und gegebenenfalls nach sinngemäßer Umstellung des Sachverhalts, wegen
@@ -1220,19 +1132,13 @@ zugrunde liegt.
     a)  eine Strafe, eine Maßregel der Besserung und Sicherung oder eine
         Geldbuße hätte verhängt werden können oder
 
-
     b)  in Fällen, in denen eine Anordnung der Einziehung vollstreckt werden
         soll, eine derartige Anordnung, hätte getroffen werden können,
 
-
-
-
-
-4.  keine Entscheidung der in § 9 Nummer 1 genannten Art ergangen ist, es
-    sei denn, in Fällen, in denen eine Anordnung der Einziehung
+4.  keine Entscheidung der in § 9 Nummer 1 genannten Art ergangen ist,
+    es sei denn, in Fällen, in denen eine Anordnung der Einziehung
     vollstreckt werden soll, könnte eine solche Anordnung entsprechend §
     76a des Strafgesetzbuchs selbständig angeordnet werden, und
-
 
 5.  die Vollstreckung nicht nach deutschem Recht verjährt ist oder bei
     sinngemäßer Umstellung des Sachverhalts verjährt wäre; ungeachtet
@@ -1242,40 +1148,33 @@ zugrunde liegt.
     a)  für die der Anordnung zugrunde liegende Tat deutsches Strafrecht nicht
         gilt oder
 
-
-    b)  eine solche Anordnung, gegebenenfalls bei sinngemäßer Umstellung des
-        Sachverhalts, nach § 76a Absatz 2 Nummer 1 des Strafgesetzbuchs
+    b)  eine solche Anordnung, gegebenenfalls bei sinngemäßer Umstellung
+        des Sachverhalts, nach § 76a Absatz 2 Nummer 1 des Strafgesetzbuchs
         erfolgen könnte.
 
-
-
-
-
-
-
 (2) Ist in einem ausländischen Staat eine freiheitsentziehende
-Sanktion verhängt worden und hält die verurteilte Person sich dort
-auf, so ist die Vollstreckung ferner nur zulässig, wenn sich die
-verurteilte Person nach Belehrung zu Protokoll eines Richters des
-ausländischen Staates oder eines zur Beurkundung von
+Sanktion verhängt worden und hält die verurteilte Person sich
+dort auf, so ist die Vollstreckung ferner nur zulässig, wenn
+sich die verurteilte Person nach Belehrung zu Protokoll eines
+Richters des ausländischen Staates oder eines zur Beurkundung von
 Willenserklärungen ermächtigten deutschen Berufskonsularbeamten damit
 einverstanden erklärt hat. Das Einverständnis kann nicht widerrufen
 werden.
 
 (3) Die Vollstreckung einer freiheitsentziehenden Sanktion, die gegen
 eine Person mit deutscher Staatsangehörigkeit in einem ausländischen
-Staat verhängt worden ist, kann abweichend von Absatz 1 Nummer 2 bis 5
-unter Beachtung der Interessen der verurteilten Person ausnahmsweise
+Staat verhängt worden ist, kann abweichend von Absatz 1 Nummer 2 bis
+5 unter Beachtung der Interessen der verurteilten Person ausnahmsweise
 für zulässig erklärt werden, wenn die verurteilte Person dies
-beantragt hat. Der Antrag der verurteilten Person nach Satz 1 ist zu
-Protokoll eines Richters oder, wenn die verurteilte Person im Ausland
-festgehalten wird, zu Protokoll eines zur Beurkundung von
+beantragt hat. Der Antrag der verurteilten Person nach Satz 1 ist
+zu Protokoll eines Richters oder, wenn die verurteilte Person im
+Ausland festgehalten wird, zu Protokoll eines zur Beurkundung von
 Willenserklärungen ermächtigten deutschen Berufskonsularbeamten zu
 erklären. Der Antrag kann nicht zurückgenommen werden. Die verurteilte
 Person ist zuvor über die Rechtsfolgen ihres Antrags und darüber zu
-belehren, dass dieser nicht zurückgenommen werden kann. Liegen die in
-Absatz 1 Nummer 3 genannten Voraussetzungen nicht vor, so beträgt das
-Höchstmaß bei der Umwandlung der Sanktion nach § 54 Absatz 1 zwei
+belehren, dass dieser nicht zurückgenommen werden kann. Liegen die
+in Absatz 1 Nummer 3 genannten Voraussetzungen nicht vor, so beträgt
+das Höchstmaß bei der Umwandlung der Sanktion nach § 54 Absatz 1 zwei
 Jahre Freiheitsentzug.
 
 (4) Sieht das im Geltungsbereich dieses Gesetzes geltende Recht
@@ -1290,18 +1189,13 @@ diese bindend, es sei denn,
 a)  dem Dritten wurde keine ausreichende Gelegenheit gegeben, seine Rechte
     geltend zu machen, oder
 
-
 b)  die Entscheidung ist unvereinbar mit einer im Geltungsbereich dieses
     Gesetzes getroffenen zivilrechtlichen Entscheidung in derselben Sache,
     oder
 
-
 c)  die Entscheidung bezieht sich auf Rechte Dritter an einem im
     Bundesgebiet belegenen Grundstück oder Grundstücksrecht; zu den
     Rechten Dritter gehören auch Vormerkungen.
-
-
-
 
 (6) Der Entzug oder die Aussetzung eines Rechts, ein Verbot sowie der
 Verlust einer Fähigkeit werden auf den Geltungsbereich dieses Gesetzes
@@ -1326,16 +1220,16 @@ dem Wohnsitz der verurteilten Person.
 dieses Gesetzes, so richtet sich die Zuständigkeit nach ihrem
 gewöhnlichen Aufenthalt, oder, wenn ein solcher nicht bekannt ist,
 nach ihrem letzten Wohnsitz, sonst nach dem Ort, wo sie ergriffen
-oder, falls eine Ergreifung nicht erfolgt, zuerst ermittelt wird. Für
-den Fall der ausschließlichen Vollstreckung einer Anordnung der
+oder, falls eine Ergreifung nicht erfolgt, zuerst ermittelt wird.
+Für den Fall der ausschließlichen Vollstreckung einer Anordnung der
 Einziehung oder einer Geldstrafe oder einer Geldbuße ist das Gericht
-zuständig, in dessen Bezirk der Gegenstand belegen ist, auf den sich
-die Einziehung bezieht, oder, wenn sich die Einziehung nicht auf einen
-bestimmten Gegenstand bezieht und bei der Vollstreckung von
-Geldstrafen und Geldbußen, das Gericht, in dessen Bezirk sich Vermögen
-der verurteilten Person befindet. Befindet sich Vermögen der
-verurteilten Person in den Bezirken verschiedener Landgerichte, so
-richtet sich die Zuständigkeit danach, welches Landgericht oder,
+zuständig, in dessen Bezirk der Gegenstand belegen ist, auf den
+sich die Einziehung bezieht, oder, wenn sich die Einziehung nicht
+auf einen bestimmten Gegenstand bezieht und bei der Vollstreckung
+von Geldstrafen und Geldbußen, das Gericht, in dessen Bezirk sich
+Vermögen der verurteilten Person befindet. Befindet sich Vermögen
+der verurteilten Person in den Bezirken verschiedener Landgerichte,
+so richtet sich die Zuständigkeit danach, welches Landgericht oder,
 solange noch kein Landgericht befaßt ist, welche Staatsanwaltschaft
 bei dem Landgericht zuerst mit der Sache befaßt wurde.
 
@@ -1350,8 +1244,8 @@ Zulässigkeit der Vollstreckung nicht aus, so entscheidet das Gericht
 erst, wenn dem ausländischen Staat Gelegenheit gegeben worden ist,
 ergänzende Unterlagen beizubringen.
 
-(2) § 30 Abs. 1 Satz 2, Abs. 2 Satz 2 und 4, Abs. 3, § 31 Abs. 1 und 4
-gelten entsprechend. Befindet sich die verurteilte Person im
+(2) § 30 Abs. 1 Satz 2, Abs. 2 Satz 2 und 4, Abs. 3, § 31 Abs. 1
+und 4 gelten entsprechend. Befindet sich die verurteilte Person im
 Geltungsbereich dieses Gesetzes, so gelten auch § 30 Abs. 2 Satz 1, §
 31 Abs. 2 und 3 entsprechend.
 
@@ -1365,9 +1259,9 @@ könnten, müssen vor der Entscheidung Gelegenheit erhalten, sich zu
 ### § 53 Rechtsbeistand
 
 (1) Die verurteilte Person kann sich in jeder Lage des Verfahrens
-eines Rechtsbeistands bedienen. Dies gilt auch für Dritte, die im Fall
-der Vollstreckung von ausländischen Anordnungen der Einziehung den
-Umständen des Falles nach Rechte an dem Gegenstand geltend machen
+eines Rechtsbeistands bedienen. Dies gilt auch für Dritte, die im
+Fall der Vollstreckung von ausländischen Anordnungen der Einziehung
+den Umständen des Falles nach Rechte an dem Gegenstand geltend machen
 könnten.
 
 (2) Ein Fall der notwendigen Rechtsbeistandschaft liegt vor, wenn
@@ -1375,23 +1269,18 @@ könnten.
 1.  wegen der Schwierigkeit der Sach- oder Rechtslage die Mitwirkung eines
     Rechtsbeistands geboten erscheint,
 
-
 2.  ersichtlich ist, dass die verurteilte Person ihre Rechte nicht selbst
     hinreichend wahrnehmen kann, oder
-
 
 3.  die verurteilte Person sich außerhalb des Geltungsbereichs dieses
     Gesetzes in Haft befindet und Zweifel bestehen, ob sie ihre Rechte
     selbst hinreichend wahrnehmen kann.
 
-
-
-
-(3) Liegt ein Fall der notwendigen Rechtsbeistandschaft vor und hat
-die verurteilte Person noch keinen Rechtsbeistand, so ist ihr auf
-Antrag oder von Amts wegen ein Rechtsbeistand zu bestellen. Sie ist
-bei Bekanntgabe der Einleitung des Verfahrens zur Vollstreckung des
-ausländischen Erkenntnisses darauf hinzuweisen, dass sie die
+(3) Liegt ein Fall der notwendigen Rechtsbeistandschaft vor und
+hat die verurteilte Person noch keinen Rechtsbeistand, so ist ihr
+auf Antrag oder von Amts wegen ein Rechtsbeistand zu bestellen. Sie
+ist bei Bekanntgabe der Einleitung des Verfahrens zur Vollstreckung
+des ausländischen Erkenntnisses darauf hinzuweisen, dass sie die
 Bestellung eines Rechtsbeistands beantragen kann.
 
 (4) Über die Bestellung entscheidet das Gericht, das für die
@@ -1409,9 +1298,9 @@ sowie § 144 gelten entsprechend.
 
 ### § 54 Umwandlung der ausländischen Sanktion
 
-(1) Soweit die Vollstreckung des ausländischen Erkenntnisses zulässig
-ist, wird es für vollstreckbar erklärt. Zugleich ist die insoweit
-verhängte Sanktion in die ihr im deutschen Recht am meisten
+(1) Soweit die Vollstreckung des ausländischen Erkenntnisses
+zulässig ist, wird es für vollstreckbar erklärt. Zugleich ist die
+insoweit verhängte Sanktion in die ihr im deutschen Recht am meisten
 entsprechende Sanktion umzuwandeln. Für die Höhe der festzusetzenden
 Sanktion ist das ausländische Erkenntnis maßgebend; sie darf jedoch
 das Höchstmaß der im Geltungsbereich dieses Gesetzes für die Tat
@@ -1421,13 +1310,9 @@ die Tat im Geltungsbereich dieses Gesetzes
 
 1.  im Höchstmaß mit Freiheitsstrafe bis zu zwei Jahren bedroht ist oder
 
-
 2.  als Ordnungswidrigkeit mit Geldbuße bedroht ist, die ausländische
     Sanktion jedoch nach Satz 2 in eine freiheitsentziehende Sanktion
     umzuwandeln ist.
-
-
-
 
 (2) Bei der Umwandlung einer Geldstrafe oder einer Geldbuße wird der
 in ausländischer Währung berechnete Geldbetrag nach dem im Zeitpunkt
@@ -1443,11 +1328,8 @@ wenn
 
 1.  der ausländische Staat darum ersucht hat und
 
-
 2.  die Voraussetzungen des § 76 des Strafgesetzbuchs in entsprechender
     Anwendung vorliegen.
-
-
 
 Ist die Anordnung der Einziehung dem Wert nach bestimmt, ist Absatz 2
 entsprechend anzuwenden.
@@ -1456,10 +1338,10 @@ entsprechend anzuwenden.
 Heranwachsenden verhängten Sanktion gelten die Vorschriften des
 Jugendgerichtsgesetzes entsprechend.
 
-(4) Auf die festzusetzende Sanktion sind der Teil der Sanktion, der in
-einem ausländischen Staat gegen die verurteilte Person wegen der Tat
-bereits vollstreckt worden ist, sowie nach § 58 erlittene Haft
-anzurechnen. Ist die Anrechnung bei der Entscheidung über die
+(4) Auf die festzusetzende Sanktion sind der Teil der Sanktion,
+der in einem ausländischen Staat gegen die verurteilte Person wegen
+der Tat bereits vollstreckt worden ist, sowie nach § 58 erlittene
+Haft anzurechnen. Ist die Anrechnung bei der Entscheidung über die
 Vollstreckbarkeit unterblieben oder treten danach die Voraussetzungen
 für die Anrechnung ein, so ist die Entscheidung zu ergänzen.
 
@@ -1472,33 +1354,29 @@ freiheitsentziehende Sanktion noch für einen bestimmten Zeitraum in
 der Bundesrepublik Deutschland vollstreckt wird, kann das Gericht
 unter Beachtung der Interessen der verurteilten Person ausnahmsweise
 
-1.  abweichend von § 54 Absatz 1 Satz 3 auch eine Sanktion festsetzen, die
-    das Höchstmaß der im Geltungsbereich dieses Gesetzes für die Tat
+1.  abweichend von § 54 Absatz 1 Satz 3 auch eine Sanktion festsetzen,
+    die das Höchstmaß der im Geltungsbereich dieses Gesetzes für die Tat
     angedrohten Sanktion überschreitet, und
-
 
 2.  die Vollstreckung des Restes der in der Bundesrepublik Deutschland
     vollstreckbaren Freiheitsstrafe gemäß § 57 Absatz 2 nur nach
     Zustimmung des Urteilsstaates zur Bewährung aussetzen.
 
-
-
-
 (2) Eine Entscheidung des Gerichts nach Absatz 1 kann nur ergehen,
 wenn die verurteilte Person dies beantragt hat. Der Antrag der
-verurteilten Person nach Satz 1 ist zu Protokoll eines Richters oder,
-wenn die verurteilte Person im Ausland festgehalten wird, zu Protokoll
-eines zur Beurkundung von Willenserklärungen ermächtigten deutschen
-Berufskonsularbeamten zu erklären. Der Antrag kann nicht
+verurteilten Person nach Satz 1 ist zu Protokoll eines Richters
+oder, wenn die verurteilte Person im Ausland festgehalten wird, zu
+Protokoll eines zur Beurkundung von Willenserklärungen ermächtigten
+deutschen Berufskonsularbeamten zu erklären. Der Antrag kann nicht
 zurückgenommen werden. Die verurteilte Person ist zuvor über die
 Rechtsfolgen ihres Antrags und darüber zu belehren, dass dieser nicht
 zurückgenommen werden kann.
 
-(3) Hat der Urteilsstaat nach einer Entscheidung des Gerichts gemäß §
-54 Absatz 1 oder § 54a Absatz 1 die Bedingung gestellt, dass ab der
-Überstellung die freiheitsentziehende Sanktion noch für einen
-bestimmten Zeitraum in der Bundesrepublik Deutschland vollstreckt
-wird, so trifft das Gericht von Amts wegen, auf Antrag der
+(3) Hat der Urteilsstaat nach einer Entscheidung des Gerichts
+gemäß § 54 Absatz 1 oder § 54a Absatz 1 die Bedingung gestellt,
+dass ab der Überstellung die freiheitsentziehende Sanktion noch
+für einen bestimmten Zeitraum in der Bundesrepublik Deutschland
+vollstreckt wird, so trifft das Gericht von Amts wegen, auf Antrag der
 Staatsanwaltschaft oder auf Antrag der verurteilten Person erneut eine
 Entscheidung gemäß Absatz 1.
 
@@ -1558,19 +1436,14 @@ entschädigt, wenn
     erlassen hat oder sich diese durch einen Vollstreckungstitel gegenüber
     der verletzten Person zur Zahlung verpflichtet hat,
 
-
 2.  der Titel im Inland vollstreckbar ist,
 
-
-3.  die verletzte Person glaubhaft macht, dass der Vollstreckungstitel den
-    Schadenersatz aus der der Anordnung der Einziehung von Taterträgen
+3.  die verletzte Person glaubhaft macht, dass der Vollstreckungstitel
+    den Schadenersatz aus der der Anordnung der Einziehung von Taterträgen
     zugrunde liegenden Straftat umfasst und
-
 
 4.  die verletzte Person glaubhaft macht, dass sie durch die Vollstreckung
     aus dem Titel ihre Befriedigung nicht vollständig erlangen könne.
-
-
 
 Die Entschädigung ist gegen Abtretung des Anspruchs auf Schadenersatz
 in entsprechender Höhe zu leisten.
@@ -1588,9 +1461,9 @@ Gehen mehrere Anträge am gleichen Tag ein und reicht der Erlös nicht
 zur Entschädigung dieser Personen aus, sind sie anteilig nach der Höhe
 ihrer Schadenersatzansprüche zu entschädigen.
 
-(4) Der Antrag ist an die zuständige Vollstreckungsbehörde zu richten.
-Er kann abgelehnt werden, wenn sechs Monate nach Beendigung der
-Vollstreckung in den Vermögenswert, aus dem die Entschädigung
+(4) Der Antrag ist an die zuständige Vollstreckungsbehörde zu
+richten. Er kann abgelehnt werden, wenn sechs Monate nach Beendigung
+der Vollstreckung in den Vermögenswert, aus dem die Entschädigung
 geleistet werden könnte, vergangen sind. Die Vollstreckungsbehörde
 kann angemessene Fristen setzen, binnen deren die verletzte Person
 erforderliche Unterlagen beizubringen hat.
@@ -1602,9 +1475,9 @@ zu den Zivilgerichten eröffnet.
 ### § 56b Vereinbarung über die Verwertung, Herausgabe und Aufteilung des abgeschöpften Vermögens
 
 (1) Die für die Bewilligung zuständige Behörde kann mit der
-zuständigen Behörde des ausländischen Staates für den Einzelfall eine
-Vereinbarung über die Verwertung, Herausgabe und Aufteilung der aus
-der Vollstreckung einer Anordnung der Einziehung stammenden
+zuständigen Behörde des ausländischen Staates für den Einzelfall
+eine Vereinbarung über die Verwertung, Herausgabe und Aufteilung
+der aus der Vollstreckung einer Anordnung der Einziehung stammenden
 Vermögenswerte treffen, soweit die Gegenseitigkeit zugesichert ist.
 
 (2) Vereinbarungen, die sich auf nationales Kulturgut nach § 6 Absatz
@@ -1615,20 +1488,20 @@ zuständigen obersten Bundesbehörde.
 
 ### § 57 Vollstreckung
 
-(1) Nach Bewilligung der Rechtshilfe führt die nach § 50 Satz 2
-zuständige Staatsanwaltschaft als Vollstreckungsbehörde die
-Vollstreckung durch, soweit der ausländische Staat mit der
-Vollstreckung einverstanden ist. Die Zuständigkeit für die
-Vollstreckung einer Sanktion, die in eine nach dem
+(1) Nach Bewilligung der Rechtshilfe führt die nach § 50 Satz
+2 zuständige Staatsanwaltschaft als Vollstreckungsbehörde
+die Vollstreckung durch, soweit der ausländische Staat
+mit der Vollstreckung einverstanden ist. Die Zuständigkeit
+für die Vollstreckung einer Sanktion, die in eine nach dem
 Jugendgerichtsgesetz zulässige Sanktion umgewandelt worden ist,
 richtet sich nach den Bestimmungen des Jugendgerichtsgesetzes.
 
-(2) Die Vollstreckung des Restes einer freiheitsentziehenden Sanktion
-kann zur Bewährung ausgesetzt werden. Die Vorschriften des
-Strafgesetzbuches gelten entsprechend. Würde bei zeitiger
-Freiheitsstrafe der Zeitraum, nach dem zwei Drittel der Strafe verbüßt
-sind, mehr als 15 Jahre betragen, findet zusätzlich § 57a des
-Strafgesetzbuchs mit Ausnahme von Absatz 1 Satz 1 Nummer 2
+(2) Die Vollstreckung des Restes einer freiheitsentziehenden
+Sanktion kann zur Bewährung ausgesetzt werden. Die Vorschriften
+des Strafgesetzbuches gelten entsprechend. Würde bei zeitiger
+Freiheitsstrafe der Zeitraum, nach dem zwei Drittel der Strafe
+verbüßt sind, mehr als 15 Jahre betragen, findet zusätzlich § 57a
+des Strafgesetzbuchs mit Ausnahme von Absatz 1 Satz 1 Nummer 2
 entsprechend Anwendung.
 
 (3) Die Entscheidung nach Absatz 2 und die nachträglichen
@@ -1638,8 +1511,8 @@ Strafprozeßordnung zuständige Gericht oder, falls eine Zuständigkeit
 nach dieser Vorschrift nicht begründet ist, das für die Entscheidung
 nach § 50 zuständige Gericht.
 
-(4) Die Vollstreckung der umgewandelten Sanktion richtet sich nach den
-Vorschriften, die auf eine entsprechende in der Bundesrepublik
+(4) Die Vollstreckung der umgewandelten Sanktion richtet sich nach
+den Vorschriften, die auf eine entsprechende in der Bundesrepublik
 Deutschland verhängte Sanktion anwendbar wären.
 
 (5) Die Vollstreckung eines Geldbetrages ist einzustellen oder zu
@@ -1664,8 +1537,8 @@ Absatz 4 Satz 2 genannte Frist verstrichen ist.
 
 ### § 57a Kosten der Vollstreckung
 
-Die verurteilte Person trägt die Kosten der Vollstreckung. Sie trägt
-auch die notwendigen Kosten ihrer Überstellung, sofern die
+Die verurteilte Person trägt die Kosten der Vollstreckung. Sie
+trägt auch die notwendigen Kosten ihrer Überstellung, sofern die
 Überstellung nur mit ihrem Einverständnis erfolgen kann. Von der
 Auferlegung der Kosten ist abzusehen, wenn dies im Hinblick auf die
 persönlichen wirtschaftlichen Verhältnisse der verurteilten Person und
@@ -1680,38 +1553,34 @@ Erkenntnis im Sinne des § 49 Absatz 1 Nummer 1 vor oder hat eine
 zuständige Stelle des ausländischen Staates unter Angabe der
 Zuwiderhandlung, die zu der Verurteilung geführt hat, Zeit und Ort
 ihrer Begehung und möglichst genauer Beschreibung der verurteilten
-Person vor dessen Eingang darum ersucht, so kann zur Sicherung der
-Vollstreckung einer freiheitsentziehenden Sanktion gegen die
+Person vor dessen Eingang darum ersucht, so kann zur Sicherung
+der Vollstreckung einer freiheitsentziehenden Sanktion gegen die
 verurteilte Person die Haft angeordnet werden, wenn auf Grund
 bestimmter Tatsachen
 
 1.  der Verdacht begründet ist, dass sie sich dem Verfahren über die
     Vollstreckbarkeit oder der Vollstreckung entziehen werde, oder
 
-
 2.  der dringende Verdacht begründet ist, dass sie in dem Verfahren über
     die Vollstreckbarkeit in unlauterer Weise die Ermittlung der Wahrheit
     erschweren werde.
 
-
-
-
 (2) Die Haftentscheidung trifft das für die Entscheidung nach § 50
 zuständige Gericht. Die §§ 17, 18, 20, 23 bis 27 gelten entsprechend.
-An die Stelle des Oberlandesgerichts tritt das Landgericht, an die
-Stelle der Staatsanwaltschaft bei dem Oberlandesgericht die
+An die Stelle des Oberlandesgerichts tritt das Landgericht, an
+die Stelle der Staatsanwaltschaft bei dem Oberlandesgericht die
 Staatsanwaltschaft bei dem Landgericht. Gegen die Entscheidungen des
 Landgerichts ist die Beschwerde zulässig.
 
-(3) Für den Fall der Vollstreckung einer Geldstrafe, einer Geldbuße
-oder einer Anordnung der Einziehung oder für den Fall, dass eine
-zuständige Stelle des ausländischen Staates unter Angabe der
-verdächtigen Person, der Zuwiderhandlung, wegen derer das
+(3) Für den Fall der Vollstreckung einer Geldstrafe, einer
+Geldbuße oder einer Anordnung der Einziehung oder für den Fall,
+dass eine zuständige Stelle des ausländischen Staates unter Angabe
+der verdächtigen Person, der Zuwiderhandlung, wegen derer das
 Strafverfahren geführt wird, und der Zeit und des Ortes ihrer Begehung
 in einem solchen Fall vor Eingang des vollständigen rechtskräftigen
-und vollstreckbaren Erkenntnisses um eine Sicherstellungsmaßnahme nach
-den §§ 111b bis 111h der Strafprozessordnung ersucht, findet § 67
-Absatz 1 entsprechend Anwendung. Zur Vorbereitung einer
+und vollstreckbaren Erkenntnisses um eine Sicherstellungsmaßnahme
+nach den §§ 111b bis 111h der Strafprozessordnung ersucht, findet
+§ 67 Absatz 1 entsprechend Anwendung. Zur Vorbereitung einer
 Einziehungsentscheidung im ausländischen Staat, die sich auch auf den
 Wertersatz beziehen kann, können unter den Voraussetzungen des § 66
 Abs. 2 Nr. 1 und 2 Sicherstellungsmaßnahmen nach den §§ 111b bis 111h
@@ -1724,15 +1593,14 @@ vornherein unzulässig erscheint.
 ## Fünfter Teil - Sonstige Rechtshilfe
 
 
-
 ### § 59 Zulässigkeit der Rechtshilfe
 
 (1) Auf Ersuchen einer zuständigen Stelle eines ausländischen Staates
 kann sonstige Rechtshilfe in einer strafrechtlichen Angelegenheit
 geleistet werden.
 
-(2) Rechtshilfe im Sinne des Absatzes 1 ist jede Unterstützung, die
-für ein ausländisches Verfahren in einer strafrechtlichen
+(2) Rechtshilfe im Sinne des Absatzes 1 ist jede Unterstützung,
+die für ein ausländisches Verfahren in einer strafrechtlichen
 Angelegenheit gewährt wird, unabhängig davon, ob das ausländische
 Verfahren von einem Gericht oder von einer Behörde betrieben wird und
 ob die Rechtshilfehandlung von einem Gericht oder von einer Behörde
@@ -1746,8 +1614,8 @@ einander in entsprechenden Fällen Rechtshilfe leisten könnten.
 ### § 60 Leistung der Rechtshilfe
 
 Hält die für die Bewilligung der Rechtshilfe zuständige Behörde die
-Voraussetzungen für die Leistung der Rechtshilfe für gegeben, so ist
-die für die Leistung der Rechtshilfe zuständige Behörde hieran
+Voraussetzungen für die Leistung der Rechtshilfe für gegeben, so
+ist die für die Leistung der Rechtshilfe zuständige Behörde hieran
 gebunden. § 61 bleibt unberührt.
 
 
@@ -1757,13 +1625,13 @@ gebunden. § 61 bleibt unberührt.
 ist, die Voraussetzungen für die Leistung der Rechtshilfe für nicht
 gegeben, so begründet es seine Auffassung und holt die Entscheidung
 des Oberlandesgerichts ein. Das Oberlandesgericht entscheidet ferner
-auf Antrag der Staatsanwaltschaft bei dem Oberlandesgericht oder im
-Fall des § 66 auf Antrag desjenigen, der geltend macht, er würde durch
-die Herausgabe in seinen Rechten verletzt werden, darüber, ob die
-Voraussetzungen für die Leistung der Rechtshilfe gegeben sind. Für das
-Verfahren vor dem Oberlandesgericht gelten die §§ 30, 31 Abs. 1, 3 und
-4, §§ 32, 33 Abs. 1, 2 und 4, § 38 Abs. 4 Satz 2, § 40 Abs. 1 sowie
-die Vorschriften des 11. Abschnittes des I. Buches der
+auf Antrag der Staatsanwaltschaft bei dem Oberlandesgericht oder
+im Fall des § 66 auf Antrag desjenigen, der geltend macht, er würde
+durch die Herausgabe in seinen Rechten verletzt werden, darüber, ob
+die Voraussetzungen für die Leistung der Rechtshilfe gegeben sind.
+Für das Verfahren vor dem Oberlandesgericht gelten die §§ 30, 31
+Abs. 1, 3 und 4, §§ 32, 33 Abs. 1, 2 und 4, § 38 Abs. 4 Satz 2, § 40
+Abs. 1 sowie die Vorschriften des 11. Abschnittes des I. Buches der
 Strafprozeßordnung mit Ausnahme der §§ 140 bis 143 entsprechend. Für
 das weitere Verfahren gilt § 42 entsprechend.
 
@@ -1771,13 +1639,13 @@ das weitere Verfahren gilt § 42 entsprechend.
 Staatsanwaltschaft bei dem Oberlandesgericht, in deren Bezirk die
 Rechtshilfe geleistet werden soll oder geleistet worden ist. Sind
 Rechtshilfehandlungen in den Bezirken verschiedener Oberlandesgerichte
-vorzunehmen oder vorgenommen worden, so richtet sich die Zuständigkeit
-danach, welches Oberlandesgericht oder, solange noch kein
-Oberlandesgericht befaßt ist, welche Staatsanwaltschaft bei dem
+vorzunehmen oder vorgenommen worden, so richtet sich die
+Zuständigkeit danach, welches Oberlandesgericht oder, solange noch
+kein Oberlandesgericht befaßt ist, welche Staatsanwaltschaft bei dem
 Oberlandesgericht zuerst mit der Sache befaßt wurde.
 
-(3) Die Entscheidung des Oberlandesgerichts ist für die Gerichte und
-Behörden, die für die Leistung der Rechtshilfe zuständig sind,
+(3) Die Entscheidung des Oberlandesgerichts ist für die Gerichte
+und Behörden, die für die Leistung der Rechtshilfe zuständig sind,
 bindend.
 
 (4) Die Rechtshilfe darf nicht bewilligt werden, wenn das
@@ -1795,17 +1663,15 @@ Stellen übermitteln, soweit
 1.  eine Übermittlung ohne Ersuchen an ein deutsches Gericht oder eine
     deutsche Staatsanwaltschaft zulässig wäre,
 
-
 2.  Tatsachen die Annahme rechtfertigen, dass die Übermittlung
     erforderlich ist, um
 
     a)  ein Ersuchen des Empfängerstaates um Rechtshilfe in einem Verfahren
         zur Strafverfolgung oder zur Strafvollstreckung wegen einer im
-        Geltungsbereich dieses Gesetzes im Höchstmaß mit Freiheitsstrafe von
-        mehr als fünf Jahren bedrohten Straftat vorzubereiten und die
+        Geltungsbereich dieses Gesetzes im Höchstmaß mit Freiheitsstrafe
+        von mehr als fünf Jahren bedrohten Straftat vorzubereiten und die
         Voraussetzungen zur Leistung von Rechtshilfe auf Ersuchen vorlägen,
         wenn ein solches gestellt würde, oder
-
 
     b)  eine im Einzelfall bestehende Gefahr für den Bestand oder die
         Sicherheit des Staates oder für Leib, Leben oder Freiheit einer Person
@@ -1813,14 +1679,8 @@ Stellen übermitteln, soweit
         Interesse geboten ist, abzuwehren oder eine Straftat der in Buchstabe
         a genannten Art zu verhindern, und
 
-
-
-
-
 3.  die Stelle, an die die Daten übermittelt werden, für die zu treffende
     Maßnahme nach Nummer 2 zuständig ist.
-
-
 
 Ist im Empfängerstaat ein angemessenes Datenschutzniveau
 gewährleistet, so ist Satz 1 Nr. 2 Buchstabe a mit der Maßgabe
@@ -1833,48 +1693,43 @@ Jahren bedroht ist, eine Straftat von erheblicher Bedeutung tritt.
 a)  nach dem deutschen Recht geltende Löschungs- oder Löschungsprüffristen
     einzuhalten sind,
 
-
 b)  die übermittelten Daten nur zu dem Zweck verwendet werden dürfen, zu
     dem sie übermittelt worden sind, und
-
 
 c)  die übermittelten Daten im Falle einer Unterrichtung nach Absatz 4
     unverzüglich zu löschen oder zu berichtigen sind.
 
-
-
-
-(3) Die Übermittlung unterbleibt, soweit für das Gericht oder die
-Staatsanwaltschaft offensichtlich ist, dass - auch unter
+(3) Die Übermittlung unterbleibt, soweit für das Gericht oder
+die Staatsanwaltschaft offensichtlich ist, dass - auch unter
 Berücksichtigung des besonderen öffentlichen Interesses an der
 Datenübermittlung - im Einzelfall schutzwürdige Interessen des
-Betroffenen an dem Ausschluss der Übermittlung überwiegen; zu den
-schutzwürdigen Interessen des Betroffenen gehört auch das
+Betroffenen an dem Ausschluss der Übermittlung überwiegen; zu
+den schutzwürdigen Interessen des Betroffenen gehört auch das
 Vorhandensein eines angemessenen Datenschutzniveaus im Empfängerstaat.
 
-(4) Stellt sich heraus, dass personenbezogene Daten, die nicht hätten
-übermittelt werden dürfen, oder unrichtige personenbezogene Daten
-übermittelt worden sind, ist der Empfänger unverzüglich zu
+(4) Stellt sich heraus, dass personenbezogene Daten, die nicht
+hätten übermittelt werden dürfen, oder unrichtige personenbezogene
+Daten übermittelt worden sind, ist der Empfänger unverzüglich zu
 unterrichten.
 
 
 ### § 61b Gemeinsame Ermittlungsgruppen
 
-(1) Wenn eine völkerrechtliche Vereinbarung dies vorsieht, kann eine
-gemeinsame Ermittlungsgruppe gebildet werden. Einem von einem anderen
-Staat in eine gemeinsame Ermittlungsgruppe entsandten Mitglied kann
-unter der Leitung des zuständigen deutschen Mitglieds die Durchführung
-von Ermittlungsmaßnahmen übertragen werden, sofern dies vom
-entsendenden Staat gebilligt worden ist.
+(1) Wenn eine völkerrechtliche Vereinbarung dies vorsieht, kann
+eine gemeinsame Ermittlungsgruppe gebildet werden. Einem von einem
+anderen Staat in eine gemeinsame Ermittlungsgruppe entsandten Mitglied
+kann unter der Leitung des zuständigen deutschen Mitglieds die
+Durchführung von Ermittlungsmaßnahmen übertragen werden, sofern dies
+vom entsendenden Staat gebilligt worden ist.
 
 (2) Anderen Personen kann die Teilnahme an einer gemeinsamen
 Ermittlungsgruppe nach Maßgabe der Rechtsvorschriften der
 teilnehmenden Staaten oder einer zwischen ihnen anwendbaren
 Übereinkunft gestattet werden.
 
-(3) Die an der gemeinsamen Ermittlungsgruppe beteiligten Beamten und
-Beamtinnen dürfen den von anderen Staaten entsandten Mitgliedern oder
-anderen teilnehmenden Personen dienstlich erlangte Informationen
+(3) Die an der gemeinsamen Ermittlungsgruppe beteiligten Beamten
+und Beamtinnen dürfen den von anderen Staaten entsandten Mitgliedern
+oder anderen teilnehmenden Personen dienstlich erlangte Informationen
 einschließlich personenbezogener Daten unmittelbar übermitteln, soweit
 dies für die Tätigkeit der gemeinsamen Ermittlungsgruppe erforderlich
 ist.
@@ -1895,8 +1750,8 @@ Videokonferenz keine Folge leistet, unterbleibt.
 
 ### § 62 Vorübergehende Überstellung in das Ausland für ein ausländisches Verfahren
 
-(1) Wer sich im Geltungsbereich dieses Gesetzes in Untersuchungs- oder
-Strafhaft befindet oder auf Grund der Anordnung einer
+(1) Wer sich im Geltungsbereich dieses Gesetzes in Untersuchungs-
+oder Strafhaft befindet oder auf Grund der Anordnung einer
 freiheitsentziehenden Maßregel der Besserung und Sicherung
 untergebracht ist, kann an einen ausländischen Staat auf Ersuchen
 einer zuständigen Stelle dieses Staates für ein dort anhängiges
@@ -1906,11 +1761,9 @@ Einnahme eines Augenscheins vorübergehend überstellt werden, wenn
 1.  er sich nach Belehrung zu Protokoll eines Richters damit einverstanden
     erklärt hat,
 
-
 2.  nicht zu erwarten ist, daß infolge der Überstellung die
     Freiheitsentziehung verlängert oder der Zweck des Strafverfahrens
     beeinträchtigt werden wird,
-
 
 3.  gewährleistet ist, daß der Betroffene während der Zeit seiner
     Überstellung nicht bestraft, einer sonstigen Sanktion unterworfen oder
@@ -1918,12 +1771,9 @@ Einnahme eines Augenscheins vorübergehend überstellt werden, wenn
     können, verfolgt werden wird und daß er im Fall seiner Freilassung den
     ersuchenden Staat verlassen darf, und
 
-
 4.  gewährleistet ist, daß der Betroffene unverzüglich nach der
     Beweiserhebung zurücküberstellt werden wird, es sei denn, daß darauf
     verzichtet worden ist.
-
-
 
 Das Einverständnis (Satz 1 Nr. 1) kann nicht widerrufen werden.
 
@@ -1932,19 +1782,19 @@ Das Einverständnis (Satz 1 Nr. 1) kann nicht widerrufen werden.
 Staatsanwaltschaft bei dem Oberlandesgericht, in dessen Bezirk die
 Freiheitsentziehung vollzogen wird.
 
-(3) Die in dem ersuchenden Staat erlittene Freiheitsentziehung wird
-auf die im Geltungsbereich dieses Gesetzes zu vollziehende
+(3) Die in dem ersuchenden Staat erlittene Freiheitsentziehung
+wird auf die im Geltungsbereich dieses Gesetzes zu vollziehende
 Freiheitsentziehung angerechnet. § 37 Abs. 4 gilt entsprechend.
 
 
 ### § 63 Vorübergehende Überstellung aus dem Ausland für ein ausländisches Verfahren
 
-(1) Wer sich in einem ausländischen Staat in Untersuchungs- oder
-Strafhaft befindet oder auf Grund der Anordnung einer
-freiheitsentziehenden Maßregel untergebracht ist, kann für ein dort
-anhängiges Verfahren auf Ersuchen einer zuständigen Stelle dieses
-Staates zu einer Beweiserhebung vorübergehend in den Geltungsbereich
-dieses Gesetzes übernommen und nach der Beweiserhebung
+(1) Wer sich in einem ausländischen Staat in Untersuchungs-
+oder Strafhaft befindet oder auf Grund der Anordnung einer
+freiheitsentziehenden Maßregel untergebracht ist, kann für ein
+dort anhängiges Verfahren auf Ersuchen einer zuständigen Stelle
+dieses Staates zu einer Beweiserhebung vorübergehend in den
+Geltungsbereich dieses Gesetzes übernommen und nach der Beweiserhebung
 zurücküberstellt werden. Zur Sicherung seiner Rücküberstellung wird
 der Betroffene in Haft gehalten.
 
@@ -1953,14 +1803,9 @@ Haftbefehl sind anzuführen
 
 1.  der Betroffene,
 
-
 2.  das Ersuchen um Beweiserhebung in Anwesenheit des Betroffenen sowie
 
-
 3.  der Haftgrund.
-
-
-
 
 (3) Die Haftentscheidung trifft der Richter, der die
 Rechtshilfehandlung vornehmen soll, oder der Richter bei dem
@@ -2004,48 +1849,37 @@ können Gegenstände herausgegeben werden,
 
 1.  die als Beweismittel für ein ausländisches Verfahren dienen können,
 
-
 2.  die der Betroffene oder ein Beteiligter für die dem Ersuchen zu Grunde
     liegende Tat oder durch sie erlangt hat,
 
-
-3.  die der Betroffene oder ein Beteiligter durch die Veräußerung eines
-    erlangten Gegenstandes oder als Ersatz für dessen Zerstörung,
+3.  die der Betroffene oder ein Beteiligter durch die Veräußerung
+    eines erlangten Gegenstandes oder als Ersatz für dessen Zerstörung,
     Beschädigung oder Entziehung oder aufgrund eines erlangten Rechtes
     erhalten oder als Nutzungen gezogen hat oder
-
 
 4.  die durch die dem Ersuchen zu Grunde liegende Tat hervorgebracht oder
     zu ihrer Begehung oder Vorbereitung gebraucht worden oder bestimmt
     gewesen sind.
 
-
-
-
 (2) Die Herausgabe ist nur zulässig, wenn
 
-1.  die dem Ersuchen zugrunde liegende Tat auch nach deutschem Recht eine
-    rechtswidrige Tat ist, die den Tatbestand eines Strafgesetzes oder
-    eines Gesetzes verwirklicht, das die Ahndung mit einer Geldbuße
+1.  die dem Ersuchen zugrunde liegende Tat auch nach deutschem Recht
+    eine rechtswidrige Tat ist, die den Tatbestand eines Strafgesetzes
+    oder eines Gesetzes verwirklicht, das die Ahndung mit einer Geldbuße
     zuläßt, oder wenn sie bei sinngemäßer Umstellung des Sachverhalts auch
     nach deutschem Recht eine solche Tat wäre,
-
 
 2.  eine Beschlagnahmeanordnung einer zuständigen Stelle des ersuchenden
     Staates vorgelegt wird oder aus einer Erklärung einer solchen Stelle
     hervorgeht, daß die Voraussetzungen der Beschlagnahme vorlägen, wenn
     die Gegenstände sich im ersuchenden Staat befänden, und
 
-
 3.  gewährleistet ist, daß Rechte Dritter unberührt bleiben und unter
     Vorbehalt herausgegebene Gegenstände auf Verlangen unverzüglich
     zurückgegeben werden.
 
-
-
-
-(3) Die Herausgabe nach Absatz 1 Nr. 2 bis 4 ist nur zulässig, solange
-hinsichtlich der Gegenstände noch kein rechtskräftiges und
+(3) Die Herausgabe nach Absatz 1 Nr. 2 bis 4 ist nur zulässig,
+solange hinsichtlich der Gegenstände noch kein rechtskräftiges und
 vollstreckbares ausländisches Erkenntnis vorliegt.
 
 (4) Die Staatsanwaltschaft bei dem Landgericht bereitet die
@@ -2089,14 +1923,13 @@ abschließende Regelung treffen.
 ## Sechster Teil - Ausgehende Ersuchen
 
 
-
 ### § 68 Rücklieferung
 
 (1) Ein Verfolgter, der für ein im Geltungsbereich dieses Gesetzes
 gegen ihn geführtes Strafverfahren auf Ersuchen unter der Bedingung
-späterer Rücklieferung vorübergehend ausgeliefert worden ist, wird zum
-vereinbarten Zeitpunkt an den ersuchten Staat zurückgeliefert, sofern
-dieser nicht darauf verzichtet. Zuständig für die Anordnung und
+späterer Rücklieferung vorübergehend ausgeliefert worden ist, wird
+zum vereinbarten Zeitpunkt an den ersuchten Staat zurückgeliefert,
+sofern dieser nicht darauf verzichtet. Zuständig für die Anordnung und
 Durchführung der Rücklieferung ist die Staatsanwaltschaft, die an dem
 in Satz 1 bezeichneten Strafverfahren beteiligt ist.
 
@@ -2106,18 +1939,13 @@ wäre. In dem Haftbefehl sind anzuführen
 
 1.  der Verfolgte,
 
-
 2.  der Staat, an den die Rücklieferung erfolgen soll, sowie
-
 
 3.  die Gründe, welche die Haftanordnung rechtfertigen.
 
-
-
-
-(3) Die Haftentscheidung trifft das Gericht, das in dem in Absatz 1
-Satz 1 bezeichneten Strafverfahren für die Anordnung von
-freiheitsentziehenden Maßnahmen jeweils zuständig ist. Die
+(3) Die Haftentscheidung trifft das Gericht, das in dem in
+Absatz 1 Satz 1 bezeichneten Strafverfahren für die Anordnung
+von freiheitsentziehenden Maßnahmen jeweils zuständig ist. Die
 Entscheidung ist unanfechtbar.
 
 (4) Die §§ 18, 19, 24, 25, 27 und 45 Abs. 4 gelten entsprechend.
@@ -2127,10 +1955,10 @@ Entscheidung ist unanfechtbar.
 
 (1) Eine in einem ausländischen Staat in Untersuchungs- oder Strafhaft
 befindliche oder auf Grund der Anordnung einer freiheitsentziehenden
-Maßregel untergebrachte Person, die einem deutschen Gericht oder einer
-deutschen Behörde auf Ersuchen als Zeuge zur Vernehmung, zur
-Gegenüberstellung oder zur Einnahme eines Augenscheins vorübergehend
-überstellt worden ist, wird während ihres Aufenthalts im
+Maßregel untergebrachte Person, die einem deutschen Gericht oder
+einer deutschen Behörde auf Ersuchen als Zeuge zur Vernehmung,
+zur Gegenüberstellung oder zur Einnahme eines Augenscheins
+vorübergehend überstellt worden ist, wird während ihres Aufenthalts im
 Geltungsbereich dieses Gesetzes zur Sicherung ihrer Rücküberstellung
 in Haft gehalten.
 
@@ -2145,8 +1973,8 @@ Satz 1, § 63 Abs. 2 gelten entsprechend.
 
 ### § 70 Vorübergehende Überstellung in das Ausland für ein deutsches Verfahren
 
-Wer sich im Geltungsbereich dieses Gesetzes in Untersuchungs- oder
-Strafhaft befindet oder auf Grund der Anordnung einer
+Wer sich im Geltungsbereich dieses Gesetzes in Untersuchungs-
+oder Strafhaft befindet oder auf Grund der Anordnung einer
 freiheitsentziehenden Maßregel der Besserung und Sicherung
 untergebracht ist, kann zu einer Beweiserhebung für ein im
 Geltungsbereich dieses Gesetzes geführtes Strafverfahren an einen
@@ -2161,24 +1989,21 @@ und 3 gilt entsprechend.
 eine ausländische Person verhängten Strafe oder sonstigen Sanktion
 kann auf einen ausländischen Staat übertragen werden, wenn
 
-1.  die verurteilte Person in dem ausländischen Staat ihren Wohnsitz oder
-    gewöhnlichen Aufenthalt hat oder sich dort aufhält und nicht
+1.  die verurteilte Person in dem ausländischen Staat ihren Wohnsitz
+    oder gewöhnlichen Aufenthalt hat oder sich dort aufhält und nicht
     ausgeliefert wird, weil ein Auslieferungsersuchen nicht gestellt oder
     abgelehnt wird oder die Auslieferung nicht ausführbar ist, oder
 
-
 2.  die Vollstreckung in dem ausländischen Staat im Interesse der
     verurteilten Person oder im öffentlichen Interesse liegt.
-
-
 
 Die Überstellung der verurteilten Person darf nur zur Vollstreckung
 einer freiheitsentziehenden Sanktion erfolgen; § 6 Absatz 2, § 11
 gelten entsprechend.
 
-(2) Die Vollstreckung einer im Geltungsbereich dieses Gesetzes gegen
-eine Person mit deutscher Staatsangehörigkeit verhängten nicht
-freiheitsentziehenden Strafe oder Sanktion kann auf einen
+(2) Die Vollstreckung einer im Geltungsbereich dieses Gesetzes
+gegen eine Person mit deutscher Staatsangehörigkeit verhängten
+nicht freiheitsentziehenden Strafe oder Sanktion kann auf einen
 ausländischen Staat übertragen werden, wenn dies im öffentlichen
 Interesse liegt. Ferner kann die Vollstreckung einer im
 Geltungsbereich dieses Gesetzes gegen eine Person mit deutscher
@@ -2189,23 +2014,19 @@ wenn
 1.  die verurteilte Person in dem ausländischen Staat ihren Wohnsitz oder
     gewöhnlichen Aufenthalt hat oder sich dort aufhält,
 
-
 2.  die verurteilte Person nicht ausgeliefert wird, weil ein
     Auslieferungsersuchen nicht gestellt oder abgelehnt wird oder die
     Auslieferung nicht ausführbar ist, und
-
 
 3.  der verurteilten Person durch die Vollstreckung in dem ausländischen
     Staat keine erheblichen, außerhalb des Strafzwecks liegenden Nachteile
     erwachsen.
 
-
-
-Hält sich die verurteilte Person nicht in dem ausländischen Staat auf,
-so darf die Vollstreckung einer freiheitsentziehenden Sanktion ferner
-nur übertragen werden, wenn sich die verurteilte Person nach Belehrung
-zu Protokoll eines Richters oder eines zur Beurkundung von
-Willenserklärungen ermächtigten Berufskonsularbeamten damit
+Hält sich die verurteilte Person nicht in dem ausländischen Staat
+auf, so darf die Vollstreckung einer freiheitsentziehenden Sanktion
+ferner nur übertragen werden, wenn sich die verurteilte Person nach
+Belehrung zu Protokoll eines Richters oder eines zur Beurkundung
+von Willenserklärungen ermächtigten Berufskonsularbeamten damit
 einverstanden erklärt hat. Das Einverständnis kann nicht widerrufen
 werden.
 
@@ -2213,17 +2034,17 @@ werden.
 ist, dass der ausländische Staat eine Rücknahme oder eine Beschränkung
 der Übertragung beachten wird.
 
-(4) Die Vollstreckung einer freiheitsentziehenden Sanktion darf nur
-übertragen werden, wenn das Gericht die Vollstreckung in dem
+(4) Die Vollstreckung einer freiheitsentziehenden Sanktion darf
+nur übertragen werden, wenn das Gericht die Vollstreckung in dem
 ausländischen Staat für zulässig erklärt hat. Über die Zulässigkeit
 entscheidet das Oberlandesgericht durch Beschluss. Die örtliche
 Zuständigkeit richtet sich nach dem Sitz des Gerichts, das die zu
 vollstreckende Strafe oder sonstige Sanktion verhängt hat, oder, wenn
 gegen die verurteilte Person im Geltungsbereich dieses Gesetzes eine
 Freiheitsstrafe vollstreckt wird, nach § 462a Absatz 1 Satz 1 und 2
-der Strafprozessordnung. § 13 Absatz 1 Satz 2, Absatz 2, § 30 Absatz 2
-Satz 2 und 4, Absatz 3, § 31 Absatz 1 und 4, die §§ 33, 52 Absatz 3, §
-53 gelten entsprechend. Befindet sich die verurteilte Person im
+der Strafprozessordnung. § 13 Absatz 1 Satz 2, Absatz 2, § 30 Absatz
+2 Satz 2 und 4, Absatz 3, § 31 Absatz 1 und 4, die §§ 33, 52 Absatz
+3, § 53 gelten entsprechend. Befindet sich die verurteilte Person im
 Geltungsbereich dieses Gesetzes, so gelten auch § 30 Absatz 2 Satz 1,
 § 31 Absatz 2 und 3 entsprechend.
 
@@ -2248,9 +2069,7 @@ hat, sind zu beachten.
 ## Siebenter Teil - Gemeinsame Vorschriften
 
 
-
 ### Abschnitt 1 - Allgemeine Regelungen
-
 
 
 #### § 73 Grenze der Rechtshilfe
@@ -2265,15 +2084,15 @@ die Europäische Union enthaltenen Grundsätzen im Widerspruch stünde.
 
 #### § 74 Zuständigkeit des Bundes
 
-(1) Über ausländische Rechtshilfeersuchen und über die Stellung von
-Rechtshilfeersuchen an ausländische Staaten entscheidet das
+(1) Über ausländische Rechtshilfeersuchen und über die Stellung
+von Rechtshilfeersuchen an ausländische Staaten entscheidet das
 Bundesministerium der Justiz und für Verbraucherschutz im Einvernehmen
 mit dem Auswärtigen Amt und mit anderen Bundesministerien, deren
-Geschäftsbereich von der Rechtshilfe betroffen wird. Ist für die
-Leistung der Rechtshilfe eine Behörde zuständig, die dem
-Geschäftsbereich eines anderen Bundesministeriums angehört, so tritt
-dieses an die Stelle des Bundesministeriums der Justiz und für
-Verbraucherschutz. Die nach den Sätzen 1 und 2 zuständigen
+Geschäftsbereich von der Rechtshilfe betroffen wird. Ist für
+die Leistung der Rechtshilfe eine Behörde zuständig, die dem
+Geschäftsbereich eines anderen Bundesministeriums angehört, so
+tritt dieses an die Stelle des Bundesministeriums der Justiz und
+für Verbraucherschutz. Die nach den Sätzen 1 und 2 zuständigen
 Bundesministerien können die Ausübung ihrer Befugnisse auf
 nachgeordnete Bundesbehörden übertragen. Über Ersuchen nach den
 Unterabschnitten 2 und 3 von Abschnitt 2 des Neunten Teils dieses
@@ -2281,8 +2100,8 @@ Gesetzes entscheidet das Bundesamt für Justiz.
 
 (2) Die Bundesregierung kann die Ausübung der Befugnis, über
 ausländische Rechtshilfeersuchen zu entscheiden und an ausländische
-Staaten Rechtshilfeersuchen zu stellen, im Wege einer Vereinbarung auf
-die Landesregierungen übertragen. Die Landesregierungen haben das
+Staaten Rechtshilfeersuchen zu stellen, im Wege einer Vereinbarung
+auf die Landesregierungen übertragen. Die Landesregierungen haben das
 Recht zur weiteren Übertragung.
 
 (3) Die Befugnisse des Bundeskriminalamtes zur Datenübermittlung,
@@ -2291,7 +2110,7 @@ richten sich nach § 27 Absatz 1 Satz 1 Nummer 2 und § 33 Absatz 1 bis
 4 des Bundeskriminalamtgesetzes.
 
 (4) Als Ersuchen im Sinne der Absätze 1 und 2 gelten auch
-Datenübermittlungen nach den §§ 61a und 92c. Datenübermittlungen nach
+Datenübermittlungen nach den §§ 61a und 92i. Datenübermittlungen nach
 § 61a sind, soweit sie nicht in völkerrechtlichen Vereinbarungen nach
 § 1 Abs. 3 vorgesehen sind, von der Möglichkeit einer Übertragung nach
 Absatz 2 ausgeschlossen.
@@ -2323,8 +2142,8 @@ gilt entsprechend.
 #### § 77 Anwendung anderer Verfahrensvorschriften
 
 (1) Soweit dieses Gesetz keine besonderen Verfahrensvorschriften
-enthält, gelten die Vorschriften des Gerichtsverfassungsgesetzes und
-seines Einführungsgesetzes, der Strafprozeßordnung, des
+enthält, gelten die Vorschriften des Gerichtsverfassungsgesetzes
+und seines Einführungsgesetzes, der Strafprozeßordnung, des
 Jugendgerichtsgesetzes, der Abgabenordnung und des Gesetzes über
 Ordnungswidrigkeiten sinngemäß.
 
@@ -2340,20 +2159,20 @@ Bußgeldverfahren gelten.
 (1) Ist nach diesem Gesetz für die Leistung von Rechtshilfe die
 Einreichung schriftlicher Unterlagen einschließlich von Originalen
 oder beglaubigten Abschriften notwendig, können auch elektronische
-Dokumente vorgelegt werden, soweit dies durch Rechtsverordnung nach §
-77b zugelassen ist. Die elektronischen Dokumente sind mit einer
-qualifizierten elektronischen Signatur zu versehen und müssen für die
-Bearbeitung durch eine Behörde oder ein Gericht geeignet sein. Das
-Gleiche gilt für Erklärungen, Anträge oder Begründungen, die nach
-diesem Gesetz ausdrücklich schriftlich abzufassen oder zu
+Dokumente vorgelegt werden, soweit dies durch Rechtsverordnung nach
+§ 77b zugelassen ist. Die elektronischen Dokumente sind mit einer
+qualifizierten elektronischen Signatur zu versehen und müssen für
+die Bearbeitung durch eine Behörde oder ein Gericht geeignet sein.
+Das Gleiche gilt für Erklärungen, Anträge oder Begründungen, die
+nach diesem Gesetz ausdrücklich schriftlich abzufassen oder zu
 unterzeichnen sind.
 
 (2) Die qualifizierte elektronische Signatur kann durch ein anderes
 sicheres Verfahren ersetzt werden, das die Authentizität und die
 Integrität des übermittelten elektronischen Dokuments sicherstellt.
 
-(3) Ein elektronisches Dokument ist eingegangen, sobald die für den
-Empfang bestimmte Einrichtung der Behörde oder des Gerichts es
+(3) Ein elektronisches Dokument ist eingegangen, sobald die für
+den Empfang bestimmte Einrichtung der Behörde oder des Gerichts es
 aufgezeichnet hat. Ist ein übermitteltes elektronisches Dokument zur
 Bearbeitung nicht geeignet, ist dies dem Absender unter Angabe der
 geltenden technischen Rahmenbedingungen unverzüglich mitzuteilen.
@@ -2366,8 +2185,8 @@ dies durch Rechtsverordnung nach § 77b zugelassen ist. Schriftstücke
 und Gegenstände des Augenscheins (Urschriften), die zu den
 elektronisch geführten Akten eingereicht und für eine Übertragung
 geeignet sind, sind zur Ersetzung der Urschrift in ein elektronisches
-Dokument zu übertragen, soweit die Rechtsverordnung nach § 77b nichts
-anderes bestimmt. Das elektronische Dokument muss den Vermerk
+Dokument zu übertragen, soweit die Rechtsverordnung nach § 77b
+nichts anderes bestimmt. Das elektronische Dokument muss den Vermerk
 enthalten, wann und durch wen die Urschrift übertragen worden ist. Die
 Urschriften sind bis zum Abschluss des Verfahrens so aufzubewahren,
 dass sie auf Anforderung innerhalb von einer Woche vorgelegt werden
@@ -2384,11 +2203,8 @@ qualifizierten elektronischen Signatur versehenen Vermerk darüber,
 1.  dass die Wiedergabe auf dem Bildschirm mit der Urschrift inhaltlich
     und bildlich übereinstimmt sowie
 
-
 2.  ob die Urschrift bei der Übertragung als Original oder in Abschrift
     vorgelegen hat,
-
-
 
 kann die Urschrift bereits vor Abschluss des Verfahrens vernichtet
 werden. Verfahrensinterne Erklärungen des Betroffenen und Dritter
@@ -2396,57 +2212,72 @@ sowie ihnen beigefügte einfache Abschriften können unter den
 Voraussetzungen von Satz 1 vernichtet werden.
 
 (7) Im Übrigen gelten für die elektronische Kommunikation und die
-elektronische Aktenführung § 32 Absatz 1 Satz 3 zweiter Halbsatz und
-Absatz 2, § 32a Absatz 4 Satz 1 Nummer 1 bis 5, Absatz 5 Satz 2 und
-Absatz 6 Satz 2, § 32b Absatz 1 bis 4, § 32c Satz 1 bis 4, § 32d Satz
-1, § 32e Absatz 2 bis 4, die §§ 32f sowie 497 der Strafprozessordnung
-sinngemäß. Abweichend von § 32b Absatz 1 Satz 2 der
-Strafprozessordnung ist bei der automatisierten Herstellung eines zu
-signierenden elektronischen Dokuments statt seiner die begleitende
-Verfügung zu signieren. § 32c Satz 1 gilt mit der Maßgabe, dass die
-Zustimmung des Bundesrates nicht erforderlich ist.
+elektronische Aktenführung § 32 Absatz 2, § 32a Absatz 3 und 4 Satz
+1 Nummer 1 bis 5, Absatz 5 Satz 2 und Absatz 6 Satz 2, § 32b Absatz
+1 bis 4, § 32c Satz 1 bis 4, § 32d Satz 1, § 32e Absatz 2 bis 4,
+die §§ 32f und 497 der Strafprozessordnung sowie § 15 Absatz 1 des
+Einführungsgesetzes zur Strafprozessordnung sinngemäß. Abweichend
+von § 32b Absatz 1 Satz 2 der Strafprozessordnung ist bei der
+automatisierten Herstellung eines zu signierenden elektronischen
+Dokuments statt seiner die begleitende Verfügung zu signieren. § 32c
+Satz 1 gilt mit der Maßgabe, dass die Zustimmung des Bundesrates nicht
+erforderlich ist.
 
 
 #### § 77b Verordnungsermächtigung
 
-Das Bundesministerium der Justiz und für Verbraucherschutz und die
+(1) Das Bundesministerium der Justiz und für Verbraucherschutz und die
 Landesregierungen bestimmen für ihren Bereich durch Rechtsverordnung,
 
 1.  den Zeitpunkt, von dem an elektronische Dokumente nach § 77a Absatz 1
     eingereicht werden können,
 
-
-2.  die für die Übersendung der elektronischen Dokumente nach § 77a Absatz
-    2 notwendigen Signaturanforderungen und die für die Bearbeitung
+2.  die für die Übersendung der elektronischen Dokumente nach § 77a
+    Absatz 2 notwendigen Signaturanforderungen und die für die Bearbeitung
     notwendige Form,
-
 
 3.  den Zeitpunkt, von dem an Akten nach § 77a Absatz 4 elektronisch
     geführt werden oder geführt werden können,
 
-
-4.  die organisatorisch-technischen Rahmenbedingungen für die Bildung,
-    Führung und Aufbewahrung der elektronisch geführten Akten
+4.  die organisatorisch-technischen Rahmenbedingungen für die
+    Bildung, Führung und Aufbewahrung der elektronisch geführten Akten
     einschließlich der Ausnahmen von der Ersetzung der Urschrift nach §
     77a Absatz 4,
-
 
 5.  die Urschriften, die abweichend von § 77a Absatz 6 weiterhin
     aufzubewahren sind.
 
+(2) Das Bundesministerium der Justiz und für Verbraucherschutz
+und die Landesregierungen können jeweils für ihren Bereich durch
+Rechtsverordnung bestimmen,
 
+1.  dass Akten, die vor dem in Absatz 1 Nummer 3 bezeichneten Zeitpunkt in
+    Papierform angelegt wurden, ab einem bestimmten Stichtag oder Ereignis
+    in elektronischer Form weitergeführt werden und
 
-Die Landesregierungen können die Ermächtigung durch Rechtsverordnung
-auf die Landesjustizverwaltungen übertragen. Die Zulassung der
-elektronischen Übermittlung nach § 77a Absatz 1 kann auf einzelne
-Gerichte und Behörden sowie auf einzelne Verfahren beschränkt werden.
-Die elektronische Aktenführung nach § 77a Absatz 4 kann auf das
-Verfahren bei einzelnen Behörden oder auf Verfahrensabschnitte
-beschränkt werden.
+2.  dass Akten, die elektronisch angelegt wurden, ab einem bestimmten
+    Ereignis in Papierform weitergeführt werden.
+
+(3) Die Rechtsverordnung des Bundesministeriums der Justiz und für
+Verbraucherschutz bedarf nicht der Zustimmung des Bundesrates. Die
+Landesregierungen können die Ermächtigung durch Rechtsverordnung
+auf die Landesjustizverwaltungen übertragen. Die Zulassung
+der elektronischen Übermittlung nach § 77a Absatz 1 kann auf
+einzelne Gerichte und Behörden sowie auf einzelne Verfahren oder
+Verfahrensabschnitte beschränkt werden. Die elektronische Aktenführung
+nach § 77a Absatz 4 sowie die Zulassung der Weiterführung in
+elektronischer beziehungsweise Papierform können jeweils auf einzelne
+Gerichte oder Behörden oder auf allgemein bestimmte Verfahren oder
+Verfahrensabschnitte beschränkt werden; wird von dieser Möglichkeit
+Gebrauch gemacht, kann in der Rechtsverordnung bestimmt werden,
+dass durch Verwaltungsvorschrift, die öffentlich bekanntzumachen
+ist, geregelt wird, in welchen Verfahren oder Verfahrensabschnitten
+die Akten elektronisch geführt werden oder geführt werden können
+und in welchen Verfahren oder Verfahrensabschnitten die Akten in
+elektronischer beziehungsweise Papierform weitergeführt werden.
 
 
 ### Abschnitt 2 - Schutz personenbezogener Daten im Rechtshilfeverkehr
-
 
 
 #### § 77c Anwendungsbereich
@@ -2459,8 +2290,8 @@ werden.
 #### § 77d Übermittlung personenbezogener Daten
 
 (1) Personenbezogene Daten dürfen, soweit dies gesetzlich vorgesehen
-ist und vorbehaltlich der Regelungen in den §§ 97a und 97b, an
-öffentliche Stellen anderer Staaten sowie an zwischen- oder
+ist und vorbehaltlich der Regelungen in den §§ 97a und 97b,
+an öffentliche Stellen anderer Staaten sowie an zwischen- oder
 überstaatliche Einrichtungen übermittelt werden, wenn
 
 1.  dies für die Verhütung oder Verfolgung von Straftaten oder von
@@ -2468,10 +2299,8 @@ ist und vorbehaltlich der Regelungen in den §§ 97a und 97b, an
     strafrechtlichen Sanktionen oder zur Abwehr von Gefahren erforderlich
     ist,
 
-
 2.  die empfangende Stelle für eine der in Nummer 1 genannten Aufgaben
     zuständig ist,
-
 
 3.  in Fällen, in denen die personenbezogenen Daten aus einem anderen
     Mitgliedstaat der Europäischen Union oder aus einem Schengen-
@@ -2479,58 +2308,49 @@ ist und vorbehaltlich der Regelungen in den §§ 97a und 97b, an
     zuvor zugestimmt oder auf das Zustimmungserfordernis ausdrücklich
     verzichtet hat,
 
-
 4.  die Europäische Kommission nach Artikel 36 Absatz 3 der Richtlinie
-    (EU) 2016/680 des Europäischen Parlaments und des Rates vom 27. April
-    2016 zum Schutz natürlicher Personen bei der Verarbeitung
-    personenbezogener Daten durch die zuständigen Behörden zum Zwecke der
-    Verhütung, Ermittlung, Aufdeckung oder Verfolgung von Straftaten oder
-    der Strafvollstreckung sowie zum freien Datenverkehr und zur Aufhebung
-    des Rahmenbeschlusses 2008/977/JI des Rates (ABl. L 119 vom 4.5.2016,
-    S. 89; L 127 vom 23.5.2018, S. 9) einen Beschluss zum angemessenen
-    Datenschutzniveau des Empfängerstaats oder der empfangenden zwischen-
-    oder überstaatlichen Einrichtung gefasst hat
+    (EU) 2016/680 des Europäischen Parlaments und des Rates vom 27.
+    April 2016 zum Schutz natürlicher Personen bei der Verarbeitung
+    personenbezogener Daten durch die zuständigen Behörden zum Zwecke
+    der Verhütung, Ermittlung, Aufdeckung oder Verfolgung von Straftaten
+    oder der Strafvollstreckung sowie zum freien Datenverkehr und zur
+    Aufhebung des Rahmenbeschlusses 2008/977/JI des Rates (ABl. L 119
+    vom 4.5.2016, S. 89; L 127 vom 23.5.2018, S. 9) einen Beschluss
+    zum angemessenen Datenschutzniveau des Empfängerstaats oder der
+    empfangenden zwischen- oder überstaatlichen Einrichtung gefasst hat
     (Angemessenheitsbeschluss) oder die Voraussetzungen von § 77f erfüllt
     sind und
-
 
 5.  die personenbezogenen Daten in Fällen, in denen sie zu einem anderen
     als dem der Übermittlung zugrunde liegenden Zweck erhoben wurden, mit
     vergleichbaren Mitteln auch für den Übermittlungszweck erhoben werden
     dürften.
 
-
-
-
-(2) Die Übermittlung personenbezogener Daten unterbleibt, auch unter
-Berücksichtigung eines besonderen öffentlichen Interesses an der
-Datenübermittlung, wenn im Einzelfall ein datenschutzrechtlich
-angemessener und die elementaren Menschenrechte wahrender Umgang mit
-den personenbezogenen Daten im Empfängerstaat oder bei der
+(2) Die Übermittlung personenbezogener Daten unterbleibt, auch
+unter Berücksichtigung eines besonderen öffentlichen Interesses an
+der Datenübermittlung, wenn im Einzelfall ein datenschutzrechtlich
+angemessener und die elementaren Menschenrechte wahrender Umgang
+mit den personenbezogenen Daten im Empfängerstaat oder bei der
 empfangenden zwischen- oder überstaatlichen Einrichtung nicht
 hinreichend gesichert ist oder sonst schutzwürdige Interessen der
 betroffenen Person entgegenstehen.
 
-(3) Die Übermittlung von personenbezogenen Daten an andere als die in
-Absatz 1 Nummer 2 genannten zuständigen Stellen oder an nicht-
+(3) Die Übermittlung von personenbezogenen Daten an andere als die
+in Absatz 1 Nummer 2 genannten zuständigen Stellen oder an nicht-
 öffentliche Stellen ist unter Einhaltung der übrigen Voraussetzungen
 des Absatzes 1 zulässig, wenn
 
 1.  dies für die Erfüllung einer der übermittelnden Stelle zugewiesenen
     Aufgabe unbedingt erforderlich ist,
 
-
 2.  die Übermittlung an die zuständige Stelle wirkungslos oder ungeeignet
     wäre, insbesondere, weil die Übermittlung nicht rechtzeitig
     durchgeführt werden könnte, und
-
 
 3.  die empfangende Stelle auf den Zweck der Datenübermittlung sowie
     darauf hingewiesen wird, dass die personenbezogenen Daten nur
     verwendet werden dürfen, soweit dies zur Zweckerreichung erforderlich
     ist.
-
-
 
 Die zuständige Stelle ist über die Übermittlung unverzüglich zu
 unterrichten, es sei denn, die Unterrichtung wäre wirkungslos oder
@@ -2545,18 +2365,15 @@ einer gegenwärtigen und erheblichen Gefahr
 
 1.  für die öffentliche Sicherheit eines Staates oder
 
-
 2.  für wesentliche Interessen eines Mitgliedstaates der Europäischen
     Union oder eines Schengen-assoziierten Staates.
-
-
 
 Die für die Erteilung der Zustimmung zuständige Stelle des betroffenen
 Mitgliedstaates der Europäischen Union oder des Schengen-assoziierten
 Staates ist unverzüglich zu unterrichten.
 
-(5) Die Verantwortung für die Zulässigkeit der Übermittlung von
-personenbezogenen Daten trägt die übermittelnde Stelle. Die
+(5) Die Verantwortung für die Zulässigkeit der Übermittlung
+von personenbezogenen Daten trägt die übermittelnde Stelle. Die
 Möglichkeit, die Übermittlung personenbezogener Daten mit Bedingungen
 zu versehen, bleibt unberührt.
 
@@ -2572,46 +2389,36 @@ assoziierte Staaten sind solche gemäß § 91 Absatz 3.
 1.  soll personenbezogene Daten vor deren Übermittlung auf Richtigkeit,
     Vollständigkeit und Aktualität überprüfen,
 
-
 2.  fügt bei der Übermittlung personenbezogener Daten nach Möglichkeit
     Informationen bei, die es der empfangenden Stelle gestatten,
     Richtigkeit, Vollständigkeit, Aktualität und Zuverlässigkeit der Daten
     zu beurteilen,
 
-
 3.  weist die empfangende Stelle bei der Übermittlung ausdrücklich darauf
     hin, dass die übermittelten personenbezogenen Daten nur zu dem Zweck
     verwendet werden dürfen, zu dem sie übermittelt wurden,
-
 
 4.  weist die empfangende Stelle ausdrücklich darauf hin, dass eine
     Weiterleitung an andere Staaten oder zwischen- oder überstaatliche
     Einrichtungen der vorherigen Zustimmung der übermittelnden Stelle
     bedarf,
 
-
-5.  weist die empfangende Stelle bei der Übermittlung auf Bedingungen hin,
-    die nach deutschem Recht für die Verarbeitung der übermittelten
+5.  weist die empfangende Stelle bei der Übermittlung auf Bedingungen
+    hin, die nach deutschem Recht für die Verarbeitung der übermittelten
     personenbezogenen Daten gelten und einzuhalten sind,
-
 
 6.  unterrichtet die empfangende Stelle unverzüglich, wenn sich
     herausstellt, dass Daten nicht hätten übermittelt werden dürfen oder
     dass unrichtige Daten übermittelt wurden,
 
-
 7.  unterrichtet die zuständige datenschutzrechtliche Aufsichtsbehörde
     über Datenübermittlungen nach § 77d Absatz 3 und
-
 
 8.  dokumentiert jede Übermittlung von personenbezogenen Daten nach
     Maßgabe der innerstaatlichen Vorschriften.
 
-
-
-
-(2) Absatz 1 Nummer 5 gilt entsprechend, wenn die übermittelnde Stelle
-die Daten von einem anderen Staat oder von einer zwischen- oder
+(2) Absatz 1 Nummer 5 gilt entsprechend, wenn die übermittelnde
+Stelle die Daten von einem anderen Staat oder von einer zwischen- oder
 überstaatlichen Einrichtung unter Bedingungen erhalten hat, die auch
 von der empfangenden Stelle einzuhalten sind.
 
@@ -2623,16 +2430,12 @@ personenbezogene Daten übermittelt werden, wenn
 
 1.  in einem für den Empfängerstaat oder für die empfangende zwischen-
     oder überstaatliche Einrichtung rechtsverbindlichen Instrument
-    geeignete Garantien zum Schutz personenbezogener Daten vorgesehen sind
-    oder
+    geeignete Garantien zum Schutz personenbezogener Daten vorgesehen
+    sind oder
 
-
-2.  die übermittelnde Stelle nach Bewertung aller relevanten Umstände zu
-    der Auffassung gelangt, dass geeignete Garantien zum Schutz der
+2.  die übermittelnde Stelle nach Bewertung aller relevanten Umstände
+    zu der Auffassung gelangt, dass geeignete Garantien zum Schutz der
     personenbezogenen Daten bestehen.
-
-
-
 
 (2) Liegt kein Angemessenheitsbeschluss vor und bestehen keine
 geeigneten Garantien gemäß Absatz 1, so dürfen personenbezogene Daten
@@ -2641,24 +2444,17 @@ im Einzelfall nur übermittelt werden, wenn dies erforderlich ist
 1.  zum Schutz lebenswichtiger Interessen der betroffenen Person oder
     einer anderen Person,
 
-
 2.  zur Wahrung schutzwürdiger Interessen der betroffenen Person,
-
 
 3.  zur Abwehr einer gegenwärtigen und erheblichen Gefahr für die
     öffentliche Sicherheit eines Staates,
-
 
 4.  zur Verhütung oder Verfolgung von Straftaten oder von
     Ordnungswidrigkeiten oder für die Vollstreckung oder den Vollzug von
     strafrechtlichen Sanktionen oder
 
-
 5.  zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen im
     Zusammenhang mit den in Nummer 4 genannten Zwecken.
-
-
-
 
 (3) Die übermittelnde Stelle unterrichtet die zuständige
 datenschutzrechtliche Aufsichtsbehörde über Fallgruppen von
@@ -2668,8 +2464,8 @@ datenschutzrechtliche Aufsichtsbehörde über Fallgruppen von
 #### § 77g Zustimmung zur Weiterleitung personenbezogener Daten
 
 Wird die übermittelnde Stelle von der empfangenden Stelle um eine
-Zustimmung zur Weiterleitung der übermittelten personenbezogenen Daten
-an andere Staaten oder andere zwischen- oder überstaatliche
+Zustimmung zur Weiterleitung der übermittelten personenbezogenen
+Daten an andere Staaten oder andere zwischen- oder überstaatliche
 Einrichtungen gebeten, so kann die Zustimmung erteilt werden, wenn
 eine entsprechende unmittelbare Datenübermittlung gemäß § 77d zulässig
 wäre.
@@ -2679,8 +2475,8 @@ wäre.
 
 (1) Personenbezogene Daten, die von öffentlichen Stellen anderer
 Staaten oder von zwischen- oder überstaatlichen Einrichtungen
-übermittelt wurden, dürfen, soweit dies gesetzlich vorgesehen ist, für
-andere Zwecke als diejenigen, für die sie übermittelt wurden, nur
+übermittelt wurden, dürfen, soweit dies gesetzlich vorgesehen ist,
+für andere Zwecke als diejenigen, für die sie übermittelt wurden, nur
 verwendet werden, wenn die übermittelnde Stelle zuvor zugestimmt hat.
 § 77d Absatz 4 gilt entsprechend.
 
@@ -2695,15 +2491,13 @@ sie übermittelt wurden, benötigt werden.
 ## Achter Teil - Auslieferungs- und Durchlieferungsverkehr mit Mitgliedstaaten der Europäischen Union
 
 
-
 ### Abschnitt 1 - Allgemeine Regelungen
-
 
 
 #### § 78 Vorrang des Achten Teils
 
-(1) Soweit dieser Teil keine besonderen Regelungen enthält, finden die
-übrigen Bestimmungen dieses Gesetzes auf den Auslieferungs- und
+(1) Soweit dieser Teil keine besonderen Regelungen enthält, finden
+die übrigen Bestimmungen dieses Gesetzes auf den Auslieferungs- und
 Durchlieferungsverkehr mit den Mitgliedstaaten der Europäischen Union
 Anwendung.
 
@@ -2714,30 +2508,29 @@ Vereinbarungen vor, soweit er abschließende Regelungen enthält.
 #### § 79 Grundsätzliche Pflicht zur Bewilligung; Vorabentscheidung
 
 (1) Zulässige Ersuchen eines Mitgliedstaates um Auslieferung oder
-Durchlieferung können nur abgelehnt werden, soweit dies in diesem Teil
-vorgesehen ist. Die ablehnende Bewilligungsentscheidung ist zu
+Durchlieferung können nur abgelehnt werden, soweit dies in diesem
+Teil vorgesehen ist. Die ablehnende Bewilligungsentscheidung ist zu
 begründen.
 
 (2) Vor der Zulässigkeitsentscheidung des Oberlandesgerichts
 entscheidet die für die Bewilligung zuständige Stelle, ob sie
-beabsichtigt, Bewilligungshindernisse nach § 83b geltend zu machen.
-Die Entscheidung, keine Bewilligungshindernisse geltend zu machen, ist
-zu begründen. Sie unterliegt der Überprüfung durch das
+beabsichtigt, Bewilligungshindernisse nach § 83b geltend zu
+machen. Die Entscheidung, keine Bewilligungshindernisse geltend zu
+machen, ist zu begründen. Sie unterliegt der Überprüfung durch das
 Oberlandesgericht im Verfahren nach § 29; die Beteiligten sind zu
 hören. Bei der Belehrung nach § 41 Abs. 4 ist der Verfolgte auch
 darauf hinzuweisen, dass im Falle der vereinfachten Auslieferung eine
 gerichtliche Überprüfung nach Satz 3 nicht stattfindet.
 
-(3) Führen nach der Entscheidung nach Absatz 2 Satz 1 eingetretene
-oder bekannt gewordene Umstände, die geeignet sind,
-Bewilligungshindernisse geltend zu machen, nicht zu einer Ablehnung
-der Bewilligung, so unterliegt die Entscheidung, keine
+(3) Führen nach der Entscheidung nach Absatz 2 Satz 1
+eingetretene oder bekannt gewordene Umstände, die geeignet
+sind, Bewilligungshindernisse geltend zu machen, nicht zu einer
+Ablehnung der Bewilligung, so unterliegt die Entscheidung, keine
 Bewilligungshindernisse geltend zu machen, der Überprüfung im
 Verfahren nach § 33.
 
 
-### Abschnitt 2 - Auslieferung an einen Mitgliedstaat der  Europäischen Union
-
+### Abschnitt 2 - Auslieferung an einen Mitgliedstaat der Europäischen Union
 
 
 #### § 80 Auslieferung deutscher Staatsangehöriger
@@ -2745,16 +2538,13 @@ Verfahren nach § 33.
 (1) Die Auslieferung eines Deutschen zum Zwecke der Strafverfolgung
 ist nur zulässig, wenn
 
-1.  gesichert ist, dass der ersuchende Mitgliedstaat nach Verhängung einer
-    rechtskräftigen Freiheitsstrafe oder sonstigen Sanktion anbieten wird,
-    den Verfolgten auf seinen Wunsch zur Vollstreckung in den
+1.  gesichert ist, dass der ersuchende Mitgliedstaat nach Verhängung
+    einer rechtskräftigen Freiheitsstrafe oder sonstigen Sanktion anbieten
+    wird, den Verfolgten auf seinen Wunsch zur Vollstreckung in den
     Geltungsbereich dieses Gesetzes zurückzuüberstellen, und
-
 
 2.  die Tat einen maßgeblichen Bezug zum ersuchenden Mitgliedstaat
     aufweist.
-
-
 
 Ein maßgeblicher Bezug der Tat zum ersuchenden Mitgliedstaat liegt in
 der Regel vor, wenn die Tathandlung vollständig oder in wesentlichen
@@ -2770,32 +2560,28 @@ nur zulässig, wenn
 
 1.  die Voraussetzungen des Absatzes 1 Satz 1 Nr. 1 vorliegen und die Tat
 
-
 2.  keinen maßgeblichen Bezug zum Inland aufweist und
-
 
 3.  auch nach deutschem Recht eine rechtswidrige Tat ist, die den
     Tatbestand eines Strafgesetzes verwirklicht oder bei sinngemäßer
-    Umstellung des Sachverhalts auch nach deutschem Recht eine solche Tat
-    wäre, und bei konkreter Abwägung der widerstreitenden Interessen das
-    schutzwürdige Vertrauen des Verfolgten in seine Nichtauslieferung
+    Umstellung des Sachverhalts auch nach deutschem Recht eine solche
+    Tat wäre, und bei konkreter Abwägung der widerstreitenden Interessen
+    das schutzwürdige Vertrauen des Verfolgten in seine Nichtauslieferung
     nicht überwiegt.
 
-
-
-Ein maßgeblicher Bezug der Tat zum Inland liegt in der Regel vor, wenn
-die Tathandlung vollständig oder in wesentlichen Teilen im
+Ein maßgeblicher Bezug der Tat zum Inland liegt in der Regel vor,
+wenn die Tathandlung vollständig oder in wesentlichen Teilen im
 Geltungsbereich dieses Gesetzes begangen wurde und der Erfolg
-zumindest in wesentlichen Teilen dort eingetreten ist. Bei der
-Abwägung sind insbesondere der Tatvorwurf, die praktischen
-Erfordernisse und Möglichkeiten einer effektiven Strafverfolgung und
-die grundrechtlich geschützten Interessen des Verfolgten unter
+zumindest in wesentlichen Teilen dort eingetreten ist. Bei
+der Abwägung sind insbesondere der Tatvorwurf, die praktischen
+Erfordernisse und Möglichkeiten einer effektiven Strafverfolgung
+und die grundrechtlich geschützten Interessen des Verfolgten unter
 Berücksichtigung der mit der Schaffung eines Europäischen Rechtsraums
 verbundenen Ziele zu gewichten und zueinander ins Verhältnis zu
 setzen. Liegt wegen der Tat, die Gegenstand des Auslieferungsersuchens
 ist, eine Entscheidung einer Staatsanwaltschaft oder eines Gerichts
-vor, ein deutsches strafrechtliches Verfahren einzustellen oder nicht
-einzuleiten, so sind diese Entscheidung und ihre Gründe in die
+vor, ein deutsches strafrechtliches Verfahren einzustellen oder
+nicht einzuleiten, so sind diese Entscheidung und ihre Gründe in die
 Abwägung mit einzubeziehen; Entsprechendes gilt, wenn ein Gericht das
 Hauptverfahren eröffnet oder einen Strafbefehl erlassen hat.
 
@@ -2815,33 +2601,27 @@ Protokoll zustimmt. § 41 Abs. 3 und 4 gilt entsprechend.
     oder sonstigen Sanktion im Höchstmaß von mindestens zwölf Monaten
     bedroht ist,
 
-
 2.  die Auslieferung zur Vollstreckung nur zulässig ist, wenn nach dem
     Recht des ersuchenden Mitgliedstaates eine freiheitsentziehende
     Sanktion zu vollstrecken ist, deren Maß mindestens vier Monate
     beträgt,
 
-
-3.  die Auslieferung in Steuer-, Zoll- und Währungsangelegenheiten auch
-    zulässig ist, wenn das deutsche Recht keine gleichartigen Steuern
-    vorschreibt oder keine gleichartigen Steuer-, Zoll- und
-    Währungsbestimmungen enthält wie das Recht des ersuchenden
+3.  die Auslieferung in Steuer-, Zoll- und Währungsangelegenheiten
+    auch zulässig ist, wenn das deutsche Recht keine gleichartigen
+    Steuern vorschreibt oder keine gleichartigen Steuer-, Zoll-
+    und Währungsbestimmungen enthält wie das Recht des ersuchenden
     Mitgliedstaates,
 
-
 4.  die beiderseitige Strafbarkeit nicht zu prüfen ist, wenn die dem
-    Ersuchen zugrunde liegende Tat nach dem Recht des ersuchenden Staates
-    mit einer freiheitsentziehenden Sanktion im Höchstmaß von mindestens
-    drei Jahren bedroht ist und den in Artikel 2 Absatz 2 des
-    Rahmenbeschlusses 2002/584/JI des Rates vom 13. Juni 2002 über den
-    Europäischen Haftbefehl und die Übergabeverfahren zwischen den
+    Ersuchen zugrunde liegende Tat nach dem Recht des ersuchenden
+    Staates mit einer freiheitsentziehenden Sanktion im Höchstmaß von
+    mindestens drei Jahren bedroht ist und den in Artikel 2 Absatz 2
+    des Rahmenbeschlusses 2002/584/JI des Rates vom 13. Juni 2002 über
+    den Europäischen Haftbefehl und die Übergabeverfahren zwischen den
     Mitgliedstaaten (ABl. L 190 vom 18. 7. 2002, S. 1), der durch den
     Rahmenbeschluss 2009/299/JI (ABl. L 81 vom 27.3.2009, S. 24) geändert
     worden ist, (Rahmenbeschluss Europäischer Haftbefehl) aufgeführten
     Deliktsgruppen zugehörig ist.
-
-
-
 
 
 #### § 82 Nichtanwendung von Vorschriften
@@ -2860,15 +2640,12 @@ vorliegt, § 11 finden keine Anwendung.
     bereits vollstreckt worden ist, gerade vollstreckt wird oder nach dem
     Recht des Urteilsstaates nicht mehr vollstreckt werden kann,
 
-
 2.  der Verfolgte zur Tatzeit nach § 19 des Strafgesetzbuchs schuldunfähig
     war oder
-
 
 3.  bei Ersuchen zum Zweck der Strafvollstreckung die verurteilte Person
     zu der dem Urteil zugrunde liegenden Verhandlung nicht persönlich
     erschienen ist oder
-
 
 4.  die dem Ersuchen zugrunde liegende Tat nach dem Recht des ersuchenden
     Mitgliedstaates mit lebenslanger Freiheitsstrafe oder einer sonstigen
@@ -2876,9 +2653,6 @@ vorliegt, § 11 finden keine Anwendung.
     Verfolgte zu einer solchen Strafe verurteilt worden war und eine
     Überprüfung der Vollstreckung der verhängten Strafe oder Sanktion auf
     Antrag oder von Amts wegen nicht spätestens nach 20 Jahren erfolgt.
-
-
-
 
 (2) Die Auslieferung ist abweichend von Absatz 1 Nummer 3 jedoch
 zulässig, wenn
@@ -2890,45 +2664,29 @@ zulässig, wenn
         aa) persönlich zu der Verhandlung, die zu dem Urteil geführt hat, geladen
             wurde oder
 
-
-        bb) auf andere Weise tatsächlich offiziell von dem vorgesehenen Termin und
-            Ort der Verhandlung, die zu dem Urteil geführt hat, in Kenntnis
+        bb) auf andere Weise tatsächlich offiziell von dem vorgesehenen Termin
+            und Ort der Verhandlung, die zu dem Urteil geführt hat, in Kenntnis
             gesetzt wurde, sodass zweifelsfrei nachgewiesen wurde, dass die
             verurteilte Person von der anberaumten Verhandlung Kenntnis hatte, und
 
-
-
-
-
     b)  dabei darauf hingewiesen wurde, dass ein Urteil auch in ihrer
         Abwesenheit ergehen kann,
-
-
-
-
 
 2.  die verurteilte Person in Kenntnis des gegen sie gerichteten
     Verfahrens, an dem ein Verteidiger beteiligt war, eine persönliche
     Ladung durch Flucht verhindert hat oder
 
-
 3.  die verurteilte Person in Kenntnis der anberaumten Verhandlung einen
     Verteidiger bevollmächtigt hat, sie in der Verhandlung zu verteidigen,
     und sie durch diesen in der Verhandlung tatsächlich verteidigt wurde.
-
-
-
 
 (3) Die Auslieferung ist abweichend von Absatz 1 Nummer 3 auch
 zulässig, wenn die verurteilte Person nach Zustellung des Urteils
 
 1.  ausdrücklich erklärt hat, das ergangene Urteil nicht anzufechten, oder
 
-
 2.  innerhalb geltender Fristen keine Wiederaufnahme des Verfahrens oder
     kein Berufungsverfahren beantragt hat.
-
-
 
 Die verurteilte Person muss zuvor ausdrücklich über ihr Recht auf
 Wiederaufnahme des Verfahrens oder auf ein Berufungsverfahren, an dem
@@ -2939,8 +2697,8 @@ werden kann, belehrt worden sein.
 (4) Die Auslieferung ist abweichend von Absatz 1 Nummer 3 ferner
 zulässig, wenn der verurteilten Person unverzüglich nach ihrer
 Übergabe an den ersuchenden Mitgliedstaat das Urteil persönlich
-zugestellt werden wird und die verurteilte Person über ihr in Absatz 3
-Satz 2 genanntes Recht auf Wiederaufnahme des Verfahrens oder ein
+zugestellt werden wird und die verurteilte Person über ihr in Absatz
+3 Satz 2 genanntes Recht auf Wiederaufnahme des Verfahrens oder ein
 Berufungsverfahren sowie über die hierfür geltenden Fristen belehrt
 werden wird.
 
@@ -2955,36 +2713,33 @@ die folgenden Angaben enthält:
     Haftbefehl näher beschrieben wird, und die Staatsangehörigkeit des
     Verfolgten,
 
-
 2.  die Bezeichnung und die Anschrift der ausstellenden Justizbehörde,
 
-
-3.  die Angabe, ob ein vollstreckbares Urteil, ein Haftbefehl oder eine
-    andere vollstreckbare justitielle Entscheidung mit gleicher
+3.  die Angabe, ob ein vollstreckbares Urteil, ein Haftbefehl oder
+    eine andere vollstreckbare justitielle Entscheidung mit gleicher
     Rechtswirkung vorliegt,
-
 
 4.  die Art und rechtliche Würdigung der Straftat, einschließlich der
     gesetzlichen Bestimmungen,
-
 
 5.  die Beschreibung der Umstände, unter denen die Straftat begangen
     wurde, einschließlich der Tatzeit, des Tatortes und der Tatbeteiligung
     der gesuchten Person, und
 
-
 6.  die für die betreffende Straftat im Ausstellungsmitgliedstaat
     gesetzlich vorgesehene Höchststrafe oder im Fall des Vorliegens eines
     rechtskräftigen Urteils die verhängte Strafe.
 
-
-
-
 (2) Die Ausschreibung zur Festnahme zwecks Überstellung oder
-Auslieferung nach dem Beschluss 2007/533/JI des Rates vom 12. Juni
-2007 über die Einrichtung, den Betrieb und die Nutzung des Schengener
-Informationssystems der zweiten Generation (SIS II) (ABl. L 205, S.
-63), die die unter Absatz 1 Nr. 1 bis 6 bezeichneten Angaben enthält
+Auslieferung nach der Verordnung (EU) 2018/1862 des Europäischen
+Parlaments und des Rates vom 28. November 2018 über die Einrichtung,
+den Betrieb und die Nutzung des Schengener Informationssystems (SIS)
+im Bereich der polizeilichen Zusammenarbeit und der justiziellen
+Zusammenarbeit in Strafsachen, zur Änderung und Aufhebung des
+Beschlusses 2007/533/JI des Rates und zur Aufhebung der Verordnung
+(EG) Nr. 1986/2006 des Europäischen Parlaments und des Rates und des
+Beschlusses 2010/261/EU der Kommission (ABl. L 312 vom 7.12.2018, S.
+56), die die unter Absatz 1 Nr. 1 bis 6 bezeichneten Angaben enthält
 oder der diese Angaben nachgereicht wurden, gilt als Europäischer
 Haftbefehl.
 
@@ -2997,23 +2752,17 @@ Haftbefehl.
     Auslieferungsersuchen zugrunde liegt, im Geltungsbereich dieses
     Gesetzes ein strafrechtliches Verfahren geführt wird,
 
-
 2.  die Einleitung eines strafrechtlichen Verfahrens wegen derselben Tat,
     die dem Auslieferungsersuchen zugrunde liegt, abgelehnt wurde oder ein
     bereits eingeleitetes Verfahren eingestellt wurde,
 
-
 3.  dem Auslieferungsersuchen eines dritten Staates Vorrang eingeräumt
     werden soll,
-
 
 4.  nicht aufgrund einer Pflicht zur Auslieferung nach dem Rahmenbeschluss
     Europäischer Haftbefehl, aufgrund einer vom ersuchenden Staat
     gegebenen Zusicherung oder aus sonstigen Gründen erwartet werden kann,
     dass dieser einem vergleichbaren deutschen Ersuchen entsprechen würde.
-
-
-
 
 (2) Die Bewilligung der Auslieferung eines Ausländers, der im Inland
 seinen gewöhnlichen Aufenthalt hat, kann ferner abgelehnt werden, wenn
@@ -3021,14 +2770,10 @@ seinen gewöhnlichen Aufenthalt hat, kann ferner abgelehnt werden, wenn
 1.  bei einer Auslieferung zum Zwecke der Strafverfolgung die Auslieferung
     eines Deutschen gemäß § 80 Abs. 1 und 2 nicht zulässig wäre,
 
-
 2.  bei einer Auslieferung zum Zwecke der Strafvollstreckung er dieser
-    nach Belehrung zu richterlichem Protokoll nicht zustimmt und sein
-    schutzwürdiges Interesse an der Strafvollstreckung im Inland
+    nach Belehrung zu richterlichem Protokoll nicht zustimmt und
+    sein schutzwürdiges Interesse an der Strafvollstreckung im Inland
     überwiegt; § 41 Abs. 3 und 4 gelten entsprechend.
-
-
-
 
 
 #### § 83c Verfahren und Fristen
@@ -3056,9 +2801,9 @@ oder Vollstreckung oder aus schwerwiegenden humanitären Gründen
 aufgeschoben werden.
 
 (5) Können bei Vorliegen außergewöhnlicher Umstände die in dieser
-Vorschrift enthaltenen Fristen nicht eingehalten werden, so setzt die
-Bundesregierung Eurojust von diesem Umstand und von den Gründen der
-Verzögerung in Kenntnis; personenbezogene Daten dürfen nicht
+Vorschrift enthaltenen Fristen nicht eingehalten werden, so setzt
+die Bundesregierung Eurojust von diesem Umstand und von den Gründen
+der Verzögerung in Kenntnis; personenbezogene Daten dürfen nicht
 übermittelt werden.
 
 (6) Über ein Ersuchen um Erweiterung der Auslieferungsbewilligung soll
@@ -3083,8 +2828,7 @@ Vernehmung des Verfolgten als Beschuldigter zu bewilligen.
 Mitgliedstaates die Anwesenheit zu gestatten.
 
 
-### Abschnitt 3 - Durchlieferung an einen Mitgliedstaat der  Europäischen Union
-
+### Abschnitt 3 - Durchlieferung an einen Mitgliedstaat der Europäischen Union
 
 
 #### § 83f Durchlieferung
@@ -3097,32 +2841,27 @@ sich aus den übermittelten Unterlagen
     Haftbefehl näher beschrieben wird, und die Staatsangehörigkeit des
     Verfolgten,
 
-
 2.  das Vorliegen eines Europäischen Haftbefehls oder einer in § 10
     bezeichneten Urkunde,
 
-
 3.  die Art und die rechtliche Würdigung der Straftat und
-
 
 4.  die Umstände, unter denen die Straftat begangen wurde, einschließlich
     der Tatzeit und des Tatortes,
 
-
-
 ergeben.
 
 (2) Auf die Durchlieferung aus einem Drittstaat an einen Mitgliedstaat
-findet Absatz 1 mit der Maßgabe Anwendung, dass an die Stelle der in
-Absatz 1 Nr. 2 genannten Information die Information, dass ein
+findet Absatz 1 mit der Maßgabe Anwendung, dass an die Stelle der
+in Absatz 1 Nr. 2 genannten Information die Information, dass ein
 Auslieferungsersuchen vorliegt, tritt.
 
-(3) Die Durchlieferung Deutscher zur Strafverfolgung ist nur zulässig,
-wenn der Mitgliedstaat, an den die Auslieferung erfolgt, zusichert,
-den Verfolgten auf deutsches Verlangen nach Verhängung einer
-rechtskräftigen Freiheitsstrafe oder sonstigen Sanktion zur
-Vollstreckung in den Geltungsbereich dieses Gesetzes
-zurückzuüberstellen. Die Durchlieferung Deutscher zur
+(3) Die Durchlieferung Deutscher zur Strafverfolgung ist nur
+zulässig, wenn der Mitgliedstaat, an den die Auslieferung
+erfolgt, zusichert, den Verfolgten auf deutsches Verlangen nach
+Verhängung einer rechtskräftigen Freiheitsstrafe oder sonstigen
+Sanktion zur Vollstreckung in den Geltungsbereich dieses
+Gesetzes zurückzuüberstellen. Die Durchlieferung Deutscher zur
 Strafvollstreckung ist nur zulässig, wenn der Betroffene zustimmt.
 
 (4) Über ein Ersuchen um Durchlieferung soll innerhalb von 30 Tagen
@@ -3139,7 +2878,6 @@ Gesetzes kommt.
 ### Abschnitt 4 - Ausgehende Ersuchen um Auslieferung an einen Mitgliedstaat der Europäischen Union
 
 
-
 #### § 83h Spezialität
 
 (1) Von einem Mitgliedstaat aufgrund eines Europäischen Haftbefehls
@@ -3149,12 +2887,8 @@ Gesetzes kommt.
     die der Übergabe zugrunde liegt, weder verfolgt noch verurteilt noch
     einer freiheitsentziehenden Maßnahme unterworfen werden und
 
-
 2.  nicht an einen dritten Staat weitergeliefert, überstellt oder in einen
     dritten Staat abgeschoben werden.
-
-
-
 
 (2) Absatz 1 findet keine Anwendung, wenn
 
@@ -3163,45 +2897,38 @@ Gesetzes kommt.
     verlassen hat, obwohl sie dazu die Möglichkeit hatte, oder nach
     Verlassen in ihn zurückgekehrt ist,
 
-
 2.  die Straftat nicht mit einer Freiheitsstrafe oder
     freiheitsentziehenden Maßregel der Besserung und Sicherung bedroht
     ist,
 
-
 3.  die Strafverfolgung nicht zur Anwendung einer die persönliche Freiheit
     beschränkenden Maßnahme führt,
-
 
 4.  die übergebene Person der Vollstreckung einer Strafe oder Maßregel der
     Besserung und Sicherung ohne Freiheitsentzug unterzogen wird, selbst
     wenn diese Strafe oder Maßnahme die persönliche Freiheit einschränken
     kann, oder
 
-
 5.  der ersuchte Mitgliedstaat oder die übergebene Person darauf
     verzichtet hat.
 
-
-
-
-(3) Der nach Übergabe erfolgte Verzicht der übergebenen Person ist zu
-Protokoll eines Richters oder Staatsanwalts zu erklären. Die
+(3) Der nach Übergabe erfolgte Verzicht der übergebenen Person ist
+zu Protokoll eines Richters oder Staatsanwalts zu erklären. Die
 Verzichtserklärung ist unwiderruflich. Die übergebene Person ist
 hierüber zu belehren.
 
 
 #### § 83i Unterrichtung über Fristverzögerungen
 
-Die Bundesregierung unterrichtet den Rat der Europäischen Union, wenn
-es wiederholt zu Verzögerungen bei der Auslieferung durch einen
-anderen Mitgliedstaat gekommen ist. Soweit es im Einzelfall zur
-Feststellung der Gründe für eine Überschreitung der Fristen
-erforderlich ist, dürfen dabei dem Rat pseudonymisierte Daten des
-Verfolgten übermittelt werden. Die Bundesregierung darf den
-Personenbezug nur gegenüber dem Staat wiederherstellen, an den das
-Auslieferungsersuchen gerichtet worden ist, und nur, sofern es zur
-Beurteilung der Umsetzung des Rahmenbeschlusses Europäischer
+Die Bundesregierung unterrichtet den Rat der Europäischen Union,
+wenn es wiederholt zu Verzögerungen bei der Auslieferung durch
+einen anderen Mitgliedstaat gekommen ist. Soweit es im Einzelfall
+zur Feststellung der Gründe für eine Überschreitung der Fristen
+erforderlich ist, dürfen dabei dem Rat pseudonymisierte Daten
+des Verfolgten übermittelt werden. Die Bundesregierung darf den
+Personenbezug nur gegenüber dem Staat wiederherstellen, an den
+das Auslieferungsersuchen gerichtet worden ist, und nur, sofern es
+zur Beurteilung der Umsetzung des Rahmenbeschlusses Europäischer
 Haftbefehl erforderlich ist.
 
 
@@ -3215,16 +2942,12 @@ notwendigen Rechtsbeistandschaft vor, wenn
     ersuchten Mitgliedstaat einen Rechtsbeistand im Geltungsbereich dieses
     Gesetzes bezeichnet und
 
-
 2.  die Bestellung des weiteren Rechtsbeistands erforderlich ist, um eine
     wirksame Rechtsverfolgung im ersuchten Staat zu gewährleisten.
 
-
-
-
-(2) Liegt ein Fall der notwendigen Rechtsbeistandschaft nach Absatz 1
-vor und hat die verfolgte Person noch keinen Rechtsbeistand im
-Geltungsbereich dieses Gesetzes zur Unterstützung ihres
+(2) Liegt ein Fall der notwendigen Rechtsbeistandschaft nach Absatz
+1 vor und hat die verfolgte Person noch keinen Rechtsbeistand
+im Geltungsbereich dieses Gesetzes zur Unterstützung ihres
 Rechtsbeistands im ersuchten Mitgliedstaat, so ist ihr auf Antrag oder
 von Amts wegen ein Rechtsbeistand zu bestellen.
 
@@ -3246,21 +2969,18 @@ sowie § 144 gelten entsprechend.
 ## Neunter Teil - Vollstreckungshilfeverkehr mit den Mitgliedstaaten der Europäischen Union
 
 
-
 ### Abschnitt 1 - Freiheitsentziehende Sanktionen
 
 
-
 #### Unterabschnitt 1 - Vollstreckung ausländischer Erkenntnisse in der Bundesrepublik Deutschland
-
 
 
 ##### § 84 Grundsatz
 
 (1) Nach diesem Unterabschnitt richtet sich die Vollstreckungshilfe
 für einen anderen Mitgliedstaat der Europäischen Union nach Maßgabe
-des Rahmenbeschlusses 2008/909/JI des Rates vom 27. November 2008 über
-die Anwendung des Grundsatzes der gegenseitigen Anerkennung auf
+des Rahmenbeschlusses 2008/909/JI des Rates vom 27. November 2008
+über die Anwendung des Grundsatzes der gegenseitigen Anerkennung auf
 Urteile in Strafsachen, durch die eine freiheitsentziehende Strafe
 oder Maßnahme verhängt wird, für die Zwecke ihrer Vollstreckung in der
 Europäischen Union (ABl. L 327 vom 5.12.2008, S. 27), der durch den
@@ -3273,12 +2993,8 @@ anzuwenden,
 
 1.  soweit dieser Unterabschnitt keine besonderen Regelungen enthält oder
 
-
 2.  wenn kein Ersuchen nach Maßgabe des Rahmenbeschlusses Freiheitsstrafen
     gestellt wurde.
-
-
-
 
 (3) Dieser Unterabschnitt geht den völkerrechtlichen Vereinbarungen
 nach § 1 Absatz 3 vor, soweit er abschließende Regelungen enthält.
@@ -3295,19 +3011,13 @@ zulässig, wenn
 
     a)  vollstreckbar ist und
 
-
     b)  in den Fällen des § 84g Absatz 5 in eine Sanktion umgewandelt werden
         kann, die ihr im deutschen Recht am meisten entspricht,
-
-
-
-
 
 2.  auch nach deutschem Recht, ungeachtet etwaiger Verfahrenshindernisse
     und gegebenenfalls bei sinngemäßer Umstellung des Sachverhalts, wegen
     der dem Erkenntnis zugrunde liegenden Tat eine Strafe, Maßregel der
     Besserung und Sicherung oder Geldbuße hätte verhängt werden können und
-
 
 3.  die verurteilte Person
 
@@ -3315,21 +3025,13 @@ zulässig, wenn
         Deutschland rechtmäßig auf Dauer ihren gewöhnlichen Aufenthalt hat und
         kein Verfahren zur Beendigung des Aufenthalts durchgeführt wird,
 
-
     b)  sich in der Bundesrepublik Deutschland oder in dem Mitgliedstaat
         aufhält, in dem gegen sie das Erkenntnis ergangen ist, und
 
-
-    c)  sofern sie sich in dem Mitgliedstaat aufhält, in dem gegen sie das
-        Erkenntnis ergangen ist, sich gemäß den Bestimmungen dieses
+    c)  sofern sie sich in dem Mitgliedstaat aufhält, in dem gegen sie
+        das Erkenntnis ergangen ist, sich gemäß den Bestimmungen dieses
         Mitgliedstaates mit der Vollstreckung in der Bundesrepublik
         Deutschland einverstanden erklärt hat.
-
-
-
-
-
-
 
 (2) Abweichend von Absatz 1 Nummer 2 ist die Vollstreckung in Steuer-,
 Zoll- und Währungsangelegenheiten auch zulässig, wenn das deutsche
@@ -3338,8 +3040,8 @@ enthält wie das Recht des anderen Mitgliedstaates.
 
 (3) Absatz 1 Nummer 2 findet keine Anwendung, wenn die verurteilte
 Person ihrer Auslieferung oder Durchlieferung zur Strafvollstreckung
-nach § 80 Absatz 3, § 83b Absatz 2 Nummer 2 oder § 83f Absatz 3 Satz 2
-nicht zugestimmt hat. Liegen die in Absatz 1 Nummer 2 genannten
+nach § 80 Absatz 3, § 83b Absatz 2 Nummer 2 oder § 83f Absatz 3 Satz
+2 nicht zugestimmt hat. Liegen die in Absatz 1 Nummer 2 genannten
 Voraussetzungen nicht vor, so beträgt das Höchstmaß bei der Umwandlung
 der Sanktion nach § 84g Absatz 4 und 5 zwei Jahre Freiheitsentzug.
 
@@ -3352,15 +3054,11 @@ Maßgabe des Rahmenbeschlusses Freiheitsstrafen ersucht hat und
 1.  die verurteilte Person die deutsche Staatsangehörigkeit besitzt und in
     der Bundesrepublik Deutschland ihren Lebensmittelpunkt hat oder
 
-
 2.  der ersuchende Mitgliedstaat durch eine zuständige Stelle
     rechtskräftig entschieden hat, dass die verurteilte Person kein
-    Aufenthaltsrecht in seinem Hoheitsbereich hat und sie deshalb nach der
-    Entlassung aus dem Strafvollzug in die Bundesrepublik Deutschland
+    Aufenthaltsrecht in seinem Hoheitsbereich hat und sie deshalb nach
+    der Entlassung aus dem Strafvollzug in die Bundesrepublik Deutschland
     ausgewiesen oder abgeschoben werden kann.
-
-
-
 
 
 ##### § 84b Ergänzende Zulässigkeitsvoraussetzungen
@@ -3371,10 +3069,8 @@ Maßgabe des Rahmenbeschlusses Freiheitsstrafen ersucht hat und
     des Strafgesetzbuchs oder strafrechtlich nicht verantwortlich nach § 3
     des Jugendgerichtsgesetzes war,
 
-
 2.  die verurteilte Person zu der Verhandlung, die dem Erkenntnis zugrunde
     liegt, nicht persönlich erschienen ist,
-
 
 3.  die verurteilte Person
 
@@ -3382,27 +3078,19 @@ Maßgabe des Rahmenbeschlusses Freiheitsstrafen ersucht hat und
         einem anderen Mitgliedstaat als dem, in dem gegen sie das Erkenntnis
         ergangen ist, rechtskräftig abgeurteilt worden ist und
 
-
     b)  zu einer Sanktion verurteilt worden ist und diese bereits vollstreckt
         worden ist, gerade vollstreckt wird oder nach dem Recht des
         Urteilsstaates nicht mehr vollstreckt werden kann oder
 
-
-
-
-
 4.  die Vollstreckung nach deutschem Recht verjährt ist oder bei
     sinngemäßer Umstellung des Sachverhalts verjährt wäre.
-
-
-
 
 (2) In Abweichung von Absatz 1 Nummer 4 und § 84a Absatz 1 Nummer 2
 kann die Vollstreckung eines in einem anderen Mitgliedstaat verhängten
 Erkenntnisses für zulässig erklärt werden, wenn die verurteilte Person
-dies beantragt hat. Der Antrag der verurteilten Person nach Satz 1 ist
-gemäß den Bestimmungen des Mitgliedstaates zu stellen, in dem das zu
-vollstreckende Erkenntnis gegen sie ergangen ist. Der Antrag der
+dies beantragt hat. Der Antrag der verurteilten Person nach Satz 1
+ist gemäß den Bestimmungen des Mitgliedstaates zu stellen, in dem das
+zu vollstreckende Erkenntnis gegen sie ergangen ist. Der Antrag der
 verurteilten Person nach Satz 1 ist zu Protokoll eines Richters oder,
 wenn die verurteilte Person in dem anderen Mitgliedstaat festgehalten
 wird, zu Protokoll eines zur Beurkundung von Willenserklärungen
@@ -3422,49 +3110,36 @@ zulässig, wenn
     a)  persönlich zu der Verhandlung, die zu dem Erkenntnis geführt hat,
         geladen wurde oder
 
-
     b)  auf andere Weise tatsächlich offiziell von dem vorgesehenen Termin und
         Ort der Verhandlung, die zu dem Erkenntnis geführt hat, in Kenntnis
         gesetzt wurde, sodass zweifelsfrei nachgewiesen wurde, dass die
         verurteilte Person von der anberaumten Verhandlung Kenntnis hatte, und
 
-
     c)  dabei darauf hingewiesen wurde, dass ein Erkenntnis auch in ihrer
         Abwesenheit ergehen kann,
-
-
-
-
 
 2.  die verurteilte Person in Kenntnis des gegen sie gerichteten
     Verfahrens, an dem ein Verteidiger beteiligt war, eine persönliche
     Ladung durch Flucht verhindert hat oder
 
-
 3.  die verurteilte Person in Kenntnis der anberaumten Verhandlung einen
     Verteidiger bevollmächtigt hat, sie in der Verhandlung zu verteidigen,
     und sie durch diesen in der Verhandlung tatsächlich verteidigt wurde.
 
-
-
-
-(4) In Abweichung von Absatz 1 Nummer 2 ist die Vollstreckung ferner
-zulässig, wenn die verurteilte Person nach Zustellung des
+(4) In Abweichung von Absatz 1 Nummer 2 ist die Vollstreckung
+ferner zulässig, wenn die verurteilte Person nach Zustellung des
 Erkenntnisses
 
 1.  ausdrücklich erklärt hat, das ergangene Erkenntnis nicht anzufechten,
     oder
 
-
 2.  innerhalb geltender Fristen keine Wiederaufnahme des Verfahrens oder
     kein Berufungsverfahren beantragt hat.
 
-
-
 Die verurteilte Person muss zuvor ausdrücklich über ihr Recht auf
-Wiederaufnahme des Verfahrens oder auf ein Berufungsverfahren, an dem
-sie teilnehmen kann und bei dem der Sachverhalt, einschließlich neuer
-Beweismittel, erneut geprüft und das ursprüngliche Erkenntnis
+Wiederaufnahme des Verfahrens oder auf ein Berufungsverfahren, an
+dem sie teilnehmen kann und bei dem der Sachverhalt, einschließlich
+neuer Beweismittel, erneut geprüft und das ursprüngliche Erkenntnis
 aufgehoben werden kann, belehrt worden sein.
 
 
@@ -3479,8 +3154,8 @@ Rahmenbeschlusses Freiheitsstrafen in der jeweils gültigen Fassung
 entspricht.
 
 (2) Liegt eine Bescheinigung nach Absatz 1 vor, ist diese jedoch
-unvollständig, so kann die zuständige Behörde auf die Vorlage einer
-vervollständigten Bescheinigung verzichten, wenn sich die
+unvollständig, so kann die zuständige Behörde auf die Vorlage
+einer vervollständigten Bescheinigung verzichten, wenn sich die
 erforderlichen Angaben aus dem zu vollstreckenden Erkenntnis oder aus
 anderen beigefügten Unterlagen ergeben.
 
@@ -3491,10 +3166,9 @@ Die Bewilligung einer nach den §§ 84a bis 84c zulässigen Vollstreckung
 kann nur abgelehnt werden, wenn
 
 1.  die Bescheinigung (§ 84c Absatz 1) unvollständig ist oder
-    offensichtlich nicht dem zu vollstreckenden Erkenntnis entspricht und
-    der andere Mitgliedstaat diese Angaben nicht vollständig oder
+    offensichtlich nicht dem zu vollstreckenden Erkenntnis entspricht
+    und der andere Mitgliedstaat diese Angaben nicht vollständig oder
     berichtigt nachgereicht hat,
-
 
 2.  das Erkenntnis gegen eine Person mit deutscher Staatsangehörigkeit
     vollstreckt werden soll und
@@ -3502,31 +3176,23 @@ kann nur abgelehnt werden, wenn
     a)  die Person weder ihren Lebensmittelpunkt in der Bundesrepublik
         Deutschland hat noch
 
-
     b)  der andere Mitgliedstaat durch eine zuständige Stelle rechtskräftig
         entschieden hat, dass die Person kein Aufenthaltsrecht in seinem
         Hoheitsbereich hat und sie deshalb nach der Entlassung aus dem
         Strafvollzug in die Bundesrepublik Deutschland ausreisepflichtig ist,
 
-
-
-
-
 3.  die Tat zu einem wesentlichen Teil in der Bundesrepublik Deutschland
     oder in einem der in § 4 des Strafgesetzbuchs genannten Verkehrsmittel
     begangen wurde,
 
-
 4.  bei Eingang des Erkenntnisses weniger als sechs Monate der Sanktion zu
     vollstrecken sind,
-
 
 5.  die Staatsanwaltschaft oder das Gericht festgestellt hat, dass das
     ausländische Erkenntnis nur teilweise vollstreckbar ist, und wenn mit
     der zuständigen Behörde des anderen Mitgliedstaates keine Einigung
     darüber erzielt werden konnte, inwieweit das Erkenntnis vollstreckt
     werden soll, oder
-
 
 6.  der andere Mitgliedstaat seine Zustimmung dazu versagt hat, dass die
     verurteilte Person nach ihrer Überstellung wegen einer anderen Tat,
@@ -3535,13 +3201,10 @@ kann nur abgelehnt werden, wenn
     Maßnahme unterworfen werden kann.
 
 
-
-
-
 ##### § 84e Vorläufige Bewilligungsentscheidung
 
-(1) Über die Bewilligung der Vollstreckung entscheidet die nach § 50
-Satz 2 und § 51 zuständige Staatsanwaltschaft. Sie gibt der
+(1) Über die Bewilligung der Vollstreckung entscheidet die nach
+§ 50 Satz 2 und § 51 zuständige Staatsanwaltschaft. Sie gibt der
 verurteilten Person Gelegenheit, sich zu äußern. Hiervon kann
 abgesehen werden, wenn die verurteilte Person bereits im anderen
 Mitgliedstaat angehört wurde.
@@ -3566,8 +3229,8 @@ den vorigen Stand gelten entsprechend.
 ##### § 84f Gerichtliches Verfahren
 
 (1) Das nach § 50 Satz 1 und § 51 zuständige Landgericht entscheidet
-auf Antrag der Staatsanwaltschaft nach § 84e Absatz 2 oder auf Antrag
-der verurteilten Person nach § 84e Absatz 3 Satz 3. Die
+auf Antrag der Staatsanwaltschaft nach § 84e Absatz 2 oder auf
+Antrag der verurteilten Person nach § 84e Absatz 3 Satz 3. Die
 Staatsanwaltschaft bereitet die Entscheidung vor.
 
 (2) Das Gericht übersendet der verurteilten Person eine Abschrift der
@@ -3582,8 +3245,8 @@ verurteilte Person wird aufgefordert, sich innerhalb einer vom Gericht
 zu bestimmenden Frist zu dem Antrag der Staatsanwaltschaft zu äußern.
 
 (4) Für die gerichtliche Vorbereitung der Entscheidung gilt § 52
-Absatz 1 mit der Maßgabe entsprechend, dass der zuständigen Behörde im
-anderen Mitgliedstaat auch Gelegenheit gegeben worden sein muss,
+Absatz 1 mit der Maßgabe entsprechend, dass der zuständigen Behörde
+im anderen Mitgliedstaat auch Gelegenheit gegeben worden sein muss,
 ergänzende Unterlagen beizubringen, wenn die übermittelten Unterlagen
 nicht ausreichen, um beurteilen zu können, ob die Staatsanwaltschaft
 ihr Ermessen fehlerfrei ausgeübt hat. Für die Beibringung der
@@ -3591,8 +3254,8 @@ Unterlagen kann eine Frist gesetzt werden.
 
 (5) § 30 Absatz 2 Satz 2 gilt entsprechend mit der Maßgabe, dass das
 Gericht auch Beweis darüber erheben kann, ob die Staatsanwaltschaft
-ihr Ermessen fehlerfrei ausgeübt hat. § 30 Absatz 2 Satz 4, Absatz 3
-sowie § 31 Absatz 1 und 4 gelten entsprechend. Befindet sich die
+ihr Ermessen fehlerfrei ausgeübt hat. § 30 Absatz 2 Satz 4, Absatz
+3 sowie § 31 Absatz 1 und 4 gelten entsprechend. Befindet sich die
 verurteilte Person im Geltungsbereich dieses Gesetzes, so gelten auch
 § 30 Absatz 2 Satz 1 sowie § 31 Absatz 2 und 3 entsprechend.
 
@@ -3603,36 +3266,33 @@ verurteilte Person im Geltungsbereich dieses Gesetzes, so gelten auch
 und 3 entscheidet das Landgericht durch Beschluss.
 
 (2) Sind die Vorschriften über den Antrag auf gerichtliche
-Entscheidung durch die verurteilte Person nach § 84e Absatz 3 Satz 3
-und 4 nicht beachtet, so verwirft das Gericht den Antrag als
+Entscheidung durch die verurteilte Person nach § 84e Absatz 3 Satz
+3 und 4 nicht beachtet, so verwirft das Gericht den Antrag als
 unzulässig. Der Beschluss ist unanfechtbar.
 
-(3) In Abweichung von § 54 Absatz 1 wird das ausländische Erkenntnis
-durch das Gericht gemäß § 50 Satz 1 und § 55 für vollstreckbar
-erklärt, soweit die Vollstreckung zulässig ist und die
+(3) In Abweichung von § 54 Absatz 1 wird das ausländische
+Erkenntnis durch das Gericht gemäß § 50 Satz 1 und § 55 für
+vollstreckbar erklärt, soweit die Vollstreckung zulässig ist und die
 Staatsanwaltschaft
 
 1.  ihr Ermessen, Bewilligungshindernisse nach § 84d Nummer 1 bis 6 nicht
     geltend zu machen, fehlerfrei ausgeübt hat oder
 
-
-2.  ihr Ermessen, Bewilligungshindernisse nach § 84d Nummer 1 bis 6
-    geltend zu machen, fehlerhaft ausgeübt hat und eine andere
+2.  ihr Ermessen, Bewilligungshindernisse nach § 84d Nummer 1 bis
+    6 geltend zu machen, fehlerhaft ausgeübt hat und eine andere
     Ermessensentscheidung nicht gerechtfertigt ist; kommt jedoch eine
     andere Ermessensentscheidung in Betracht, hebt das Gericht die
     Entscheidung der Staatsanwaltschaft auf und reicht ihr die Akten zur
     erneuten Ermessensausübung unter Beachtung der Rechtsauffassung des
     Gerichts zurück.
 
-
-
 § 54 Absatz 4 gilt entsprechend mit der Maßgabe, dass anstatt der nach
 § 58 erlittenen Haft die nach § 84j erlittene Haft anzurechnen ist. §
 55 Absatz 2 und 3 gilt entsprechend.
 
 (4) Überschreitet die durch das ausländische Erkenntnis verhängte
-Sanktion das Höchstmaß, das im Geltungsbereich dieses Gesetzes für die
-Tat angedroht ist, ermäßigt das Gericht die Sanktion auf dieses
+Sanktion das Höchstmaß, das im Geltungsbereich dieses Gesetzes für
+die Tat angedroht ist, ermäßigt das Gericht die Sanktion auf dieses
 Höchstmaß. § 54 Absatz 1 Satz 4 und § 54a Absatz 1 Nummer 1, Absatz 2
 und 3 gelten entsprechend.
 
@@ -3643,12 +3303,9 @@ meisten entsprechende Sanktion um, wenn
 1.  die verhängte Sanktion ihrer Art nach keiner Sanktion entspricht, die
     das im Geltungsbereich dieses Gesetzes geltende Recht vorsieht, oder
 
-
-2.  die verurteilte Person zur Zeit der Tat das 21. Lebensjahr noch nicht
-    vollendet hat; insoweit gelten die Vorschriften des
+2.  die verurteilte Person zur Zeit der Tat das 21. Lebensjahr
+    noch nicht vollendet hat; insoweit gelten die Vorschriften des
     Jugendgerichtsgesetzes entsprechend.
-
-
 
 Für die Höhe der umgewandelten Sanktion ist das ausländische
 Erkenntnis maßgebend; die im anderen Mitgliedstaat verhängte Sanktion
@@ -3675,9 +3332,9 @@ ist zu begründen.
 
 ##### § 84i Spezialität
 
-(1) Wurde eine verurteilte Person ohne ihr Einverständnis aus einem
-anderen Mitgliedstaat überstellt, darf sie wegen einer vor der
-Überstellung begangenen anderen Tat als derjenigen, die der
+(1) Wurde eine verurteilte Person ohne ihr Einverständnis aus
+einem anderen Mitgliedstaat überstellt, darf sie wegen einer vor
+der Überstellung begangenen anderen Tat als derjenigen, die der
 Überstellung zugrunde liegt, weder verfolgt noch verurteilt noch einer
 freiheitsentziehenden Maßnahme unterworfen werden.
 
@@ -3691,21 +3348,16 @@ unterworfen werden, wenn
     sie dazu die Möglichkeit hatte, oder nachdem sie ihn verlassen hat, in
     ihn zurückgekehrt ist,
 
-
 2.  die Strafverfolgung nicht zu einer Maßnahme führt, durch die die
     persönliche Freiheit beschränkt wird,
-
 
 3.  gegen sie wegen der anderen Straftat eine Strafe oder Maßregel der
     Besserung und Sicherung ohne Freiheitsentzug vollstreckt wird, selbst
     wenn diese Strafe oder Maßregel die persönliche Freiheit einschränken
     kann, oder
 
-
 4.  der andere Mitgliedstaat oder die überstellte Person auf die Anwendung
     von Absatz 1 verzichtet hat.
-
-
 
 Der Verzicht der überstellten Person nach Satz 1 Nummer 4 ist nach
 ihrer Überstellung zu Protokoll eines Richters oder Staatsanwalts zu
@@ -3722,25 +3374,19 @@ verurteilte Person angeordnet werden kann, wenn
 1.  sich die verurteilte Person im Geltungsbereich dieses Gesetzes
     aufhält,
 
-
 2.  ein ausländisches Erkenntnis gemäß § 84a Absatz 1 Nummer 1 ergangen
     ist,
 
-
 3.  der andere Mitgliedstaat um Inhaftnahme ersucht hat und
-
 
 4.  die Gefahr besteht, dass sich die verurteilte Person dem Verfahren
     über die Vollstreckbarkeit oder der Vollstreckung entzieht.
 
 
-
-
-
 ##### § 84k Ergänzende Regelungen zur Vollstreckung
 
-(1) Die Vollstreckung des Restes der freiheitsentziehenden Sanktion
-kann zur Bewährung ausgesetzt werden. Die Vorschriften des
+(1) Die Vollstreckung des Restes der freiheitsentziehenden
+Sanktion kann zur Bewährung ausgesetzt werden. Die Vorschriften des
 Strafgesetzbuchs gelten entsprechend. Die Entscheidung über eine
 Aussetzung zur Bewährung ist bereits zu dem Zeitpunkt zu treffen, zu
 dem die verurteilte Person bei einer fortwährenden Vollstreckung in
@@ -3749,8 +3395,8 @@ der Aussetzung zur Bewährung hätte.
 
 (2) In Abweichung von § 57 Absatz 6 ist nach Beginn der Vollstreckung
 in der Bundesrepublik Deutschland von der Vollstreckung nur abzusehen,
-wenn eine zuständige Stelle des anderen Mitgliedstaates mitteilt, dass
-die Voraussetzungen für die Vollstreckung auf Grund eines
+wenn eine zuständige Stelle des anderen Mitgliedstaates mitteilt,
+dass die Voraussetzungen für die Vollstreckung auf Grund eines
 Wiederaufnahmeverfahrens, einer Amnestie oder einer Gnadenentscheidung
 entfallen sind. Von der Vollstreckung kann ferner abgesehen werden,
 wenn die verurteilte Person aus der Haft in der Bundesrepublik
@@ -3799,10 +3445,10 @@ Geltungsbereich dieses Gesetzes kommt.
 unvorhergesehenen Zwischenlandung die Staatsanwaltschaft und die
 Beamten des Polizeidienstes zur vorläufigen Festnahme befugt.
 
-(3) § 47 Absatz 3, 4, 6 Satz 1 und Absatz 7 gilt entsprechend. § 47
-Absatz 5 gilt entsprechend für den Durchbeförderungshaftbefehl mit der
-Maßgabe, dass dieser schon vor Eingang der Unterlagen gemäß § 84l
-Absatz 2 erlassen werden kann. Eine Durchbeförderung ist zu
+(3) § 47 Absatz 3, 4, 6 Satz 1 und Absatz 7 gilt entsprechend. §
+47 Absatz 5 gilt entsprechend für den Durchbeförderungshaftbefehl
+mit der Maßgabe, dass dieser schon vor Eingang der Unterlagen gemäß
+§ 84l Absatz 2 erlassen werden kann. Eine Durchbeförderung ist zu
 bewilligen, wenn das Oberlandesgericht den Durchbeförderungshaftbefehl
 aufrechterhalten hat.
 
@@ -3810,15 +3456,14 @@ aufrechterhalten hat.
 #### Unterabschnitt 2 - Vollstreckung deutscher Erkenntnisse in einem anderen Mitgliedstaat der Europäischen Union
 
 
-
 ##### § 85 Vorläufige Bewilligungsentscheidung
 
 (1) In Abweichung von § 71 kann die Vollstreckungsbehörde die
 Vollstreckung einer im Geltungsbereich dieses Gesetzes verhängten
 freiheitsentziehenden Sanktion einem anderen Mitgliedstaat nach
-Maßgabe des Rahmenbeschlusses Freiheitsstrafen übertragen. Sie gibt
-der verurteilten Person Gelegenheit, sich zu äußern. Hiervon kann
-abgesehen werden, wenn die verurteilte Person einen Antrag auf
+Maßgabe des Rahmenbeschlusses Freiheitsstrafen übertragen. Sie
+gibt der verurteilten Person Gelegenheit, sich zu äußern. Hiervon
+kann abgesehen werden, wenn die verurteilte Person einen Antrag auf
 Übertragung der Vollstreckung an den anderen Mitgliedstaat gestellt
 hat.
 
@@ -3831,15 +3476,12 @@ bewilligen, wenn
     freiheitsentziehenden Sanktion in dem anderen Mitgliedstaat
     einverstanden erklärt hat oder
 
-
 2.  das Gericht die Vollstreckung der freiheitsentziehenden Sanktion in
     dem anderen Mitgliedstaat auf Antrag der Vollstreckungsbehörde gemäß §
     85c für zulässig erklärt hat.
 
-
-
-Das Einverständnis der verurteilten Person nach Satz 1 Nummer 1 ist zu
-Protokoll eines Richters zu erklären. Das Einverständnis kann nicht
+Das Einverständnis der verurteilten Person nach Satz 1 Nummer 1 ist
+zu Protokoll eines Richters zu erklären. Das Einverständnis kann nicht
 widerrufen werden. Die verurteilte Person ist über die Rechtsfolgen
 ihres Einverständnisses und dessen Unwiderruflichkeit zu belehren.
 
@@ -3847,10 +3489,10 @@ ihres Einverständnisses und dessen Unwiderruflichkeit zu belehren.
 Vollstreckung an einen anderen Mitgliedstaat zu stellen, so hat sie
 die verurteilte Person schriftlich davon zu unterrichten. Hält sich
 die verurteilte Person im Hoheitsbereich des anderen Mitgliedstaates
-auf, darf die Vollstreckungsbehörde dessen zuständige Behörde bitten,
-die Unterrichtung an die verurteilte Person weiterzuleiten. Dem
-Ersuchen um Vollstreckung sind die Stellungnahmen, die die verurteilte
-Person und ihr gesetzlicher Vertreter abgegeben haben, in
+auf, darf die Vollstreckungsbehörde dessen zuständige Behörde
+bitten, die Unterrichtung an die verurteilte Person weiterzuleiten.
+Dem Ersuchen um Vollstreckung sind die Stellungnahmen, die die
+verurteilte Person und ihr gesetzlicher Vertreter abgegeben haben, in
 schriftlicher Form beizufügen.
 
 (4) Die Vollstreckungsbehörde kann ein Ersuchen um Vollstreckung
@@ -3862,11 +3504,11 @@ freiheitsentziehende Sanktion in einem anderen Mitgliedstaat
 vollstreckt wird, oder nimmt sie ein Ersuchen gemäß Absatz 4 zurück,
 so begründet sie diese Entscheidung. Die Vollstreckungsbehörde stellt
 die Entscheidung der verurteilten Person zu, sofern die verurteilte
-Person die Vollstreckung in dem anderen Mitgliedstaat beantragt oder
-sie mit einer solchen Vollstreckung ihr Einverständnis erklärt hat.
-Die verurteilte Person kann binnen zwei Wochen nach Zustellung einen
-Antrag auf gerichtliche Entscheidung stellen. Die §§ 297 bis 300 und
-302 Absatz 1 Satz 1, Absatz 2 der Strafprozessordnung über
+Person die Vollstreckung in dem anderen Mitgliedstaat beantragt
+oder sie mit einer solchen Vollstreckung ihr Einverständnis erklärt
+hat. Die verurteilte Person kann binnen zwei Wochen nach Zustellung
+einen Antrag auf gerichtliche Entscheidung stellen. Die §§ 297 bis
+300 und 302 Absatz 1 Satz 1, Absatz 2 der Strafprozessordnung über
 Rechtsmittel und die §§ 42 bis 47 der Strafprozessordnung über Fristen
 und Wiedereinsetzung in den vorigen Stand gelten entsprechend.
 
@@ -3874,13 +3516,13 @@ und Wiedereinsetzung in den vorigen Stand gelten entsprechend.
 ##### § 85a Gerichtliches Verfahren
 
 (1) Das nach § 71 Absatz 4 Satz 2 und 3 zuständige Oberlandesgericht
-entscheidet auf Antrag der Vollstreckungsbehörde nach § 85 Absatz 2
-Satz 1 Nummer 2 oder auf Antrag der verurteilten Person nach § 85
+entscheidet auf Antrag der Vollstreckungsbehörde nach § 85 Absatz
+2 Satz 1 Nummer 2 oder auf Antrag der verurteilten Person nach § 85
 Absatz 5 Satz 3 durch Beschluss. Die Vollstreckungsbehörde bereitet
 die Entscheidung vor.
 
-(2) § 13 Absatz 1 Satz 2, § 30 Absatz 2 Satz 2 und 4, Absatz 3, § 31
-Absatz 1 und 4 sowie die §§ 33, 42 und 53 gelten entsprechend.
+(2) § 13 Absatz 1 Satz 2, § 30 Absatz 2 Satz 2 und 4, Absatz 3, §
+31 Absatz 1 und 4 sowie die §§ 33, 42 und 53 gelten entsprechend.
 Befindet sich die verurteilte Person im Geltungsbereich dieses
 Gesetzes, so gelten auch § 30 Absatz 2 Satz 1 sowie § 31 Absatz 2 und
 3 entsprechend.
@@ -3889,8 +3531,8 @@ Gesetzes, so gelten auch § 30 Absatz 2 Satz 1 sowie § 31 Absatz 2 und
 ##### § 85b Gerichtliche Entscheidung auf Antrag der verurteilten Person
 
 (1) Sind die Vorschriften über den Antrag auf gerichtliche
-Entscheidung durch die verurteilte Person nach § 85 Absatz 5 Satz 3
-und 4 nicht beachtet, so verwirft das Gericht den Antrag als
+Entscheidung durch die verurteilte Person nach § 85 Absatz 5 Satz
+3 und 4 nicht beachtet, so verwirft das Gericht den Antrag als
 unzulässig.
 
 (2) Der Antrag der verurteilten Person auf gerichtliche Entscheidung
@@ -3901,12 +3543,8 @@ wird durch Beschluss als unbegründet zurückgewiesen, wenn
     freiheitsentziehenden Sanktion an einen anderen Mitgliedstaat zu
     übertragen, oder
 
-
 2.  die Vollstreckungsbehörde ihr Ermessen nach § 85 Absatz 1 und 4
     fehlerfrei ausgeübt hat.
-
-
-
 
 (3) Soweit der Antrag der verurteilten Person auf gerichtliche
 Entscheidung zulässig und begründet ist, erklärt das Gericht die
@@ -3922,30 +3560,26 @@ zurück.
 ##### § 85c Gerichtliche Entscheidung auf Antrag der Vollstreckungsbehörde
 
 Auf Antrag der Vollstreckungsbehörde erklärt es das Gericht nach
-Maßgabe des Rahmenbeschlusses Freiheitsstrafen für zulässig, in einem
-anderen Mitgliedstaat eine freiheitsentziehende Sanktion gegen eine
-Person mit nichtdeutscher oder ohne Staatsangehörigkeit zu
+Maßgabe des Rahmenbeschlusses Freiheitsstrafen für zulässig, in
+einem anderen Mitgliedstaat eine freiheitsentziehende Sanktion gegen
+eine Person mit nichtdeutscher oder ohne Staatsangehörigkeit zu
 vollstrecken, wenn die verurteilte Person
 
 1.  die Staatsangehörigkeit dieses anderen Mitgliedstaates besitzt und
     dort ihren Lebensmittelpunkt hat oder
-
 
 2.  gemäß § 50 des Aufenthaltsgesetzes nach Feststellung der zuständigen
     Stelle zur Ausreise aus der Bundesrepublik Deutschland verpflichtet
     ist.
 
 
-
-
-
 ##### § 85d Bewilligung nach gerichtlicher Entscheidung
 
 Die Vollstreckungsbehörde darf die Vollstreckung der
-freiheitsentziehenden Sanktion nur bewilligen, wenn das Gericht die
-Vollstreckung in dem anderen Mitgliedstaat für zulässig erklärt hat.
-Die Vollstreckungsbehörde bewilligt die Vollstreckung nach Maßgabe der
-rechtskräftigen gerichtlichen Entscheidung. Die
+freiheitsentziehenden Sanktion nur bewilligen, wenn das Gericht
+die Vollstreckung in dem anderen Mitgliedstaat für zulässig
+erklärt hat. Die Vollstreckungsbehörde bewilligt die Vollstreckung
+nach Maßgabe der rechtskräftigen gerichtlichen Entscheidung. Die
 Bewilligungsentscheidung ist unanfechtbar.
 
 
@@ -3980,26 +3614,22 @@ Absatz 1 bei der Vollstreckungsbehörde eingegangen sind.
 ##### § 85f Sicherung der weiteren Vollstreckung
 
 (1) Wird die verurteilte Person im Geltungsbereich dieses Gesetzes
-angetroffen, bevor die Hälfte der Strafzeit abgelaufen ist, die sie
-auf Grund der verhängten oder der im anderen Mitgliedstaat
+angetroffen, bevor die Hälfte der Strafzeit abgelaufen ist, die
+sie auf Grund der verhängten oder der im anderen Mitgliedstaat
 umgewandelten Sanktion zu verbüßen hat, so kann angeordnet werden, die
 verurteilte Person festzuhalten, wenn
 
 1.  sie keinen Entlassungsschein oder kein Dokument gleichen Inhalts
     vorweisen kann oder
 
-
 2.  keine Mitteilung des anderen Mitgliedstaates vorliegt, dass die
     Vollstreckung abgeschlossen ist.
 
-
-
-
 (2) Bereits bevor die Vollstreckung auf den anderen Mitgliedstaat
-übertragen wird, kann das Gericht die Festhalteanordnung und zudem die
-Anordnung der Ausschreibung zur Festnahme und die Anordnung der
-erforderlichen Fahndungsmaßnahmen erlassen. Hält sich die verurteilte
-Person im Geltungsbereich dieses Gesetzes auf, ist sie zu
+übertragen wird, kann das Gericht die Festhalteanordnung und zudem
+die Anordnung der Ausschreibung zur Festnahme und die Anordnung
+der erforderlichen Fahndungsmaßnahmen erlassen. Hält sich die
+verurteilte Person im Geltungsbereich dieses Gesetzes auf, ist sie zu
 richterlichem Protokoll über die Anordnungen nach Satz 1 zu belehren.
 Befindet sie sich im Hoheitsgebiet des anderen Mitgliedstaates, stellt
 ihr das Gericht eine Belehrung zu.
@@ -4021,9 +3651,7 @@ geändert worden ist, gelten entsprechend.
 ### Abschnitt 2 - Geldsanktionen
 
 
-
 #### Unterabschnitt 1 - Allgemeine Regelungen
-
 
 
 ##### § 86 Vorrang
@@ -4041,17 +3669,16 @@ Regelungen enthält.
 #### Unterabschnitt 2 - Eingehende Ersuchen
 
 
-
 ##### § 87 Grundsatz
 
 (1) Die Vollstreckungshilfe für einen anderen Mitgliedstaat nach
 Maßgabe des Rahmenbeschlusses 2005/214/JI des Rates vom 24. Februar
 2005 über die Anwendung des Grundsatzes der gegenseitigen Anerkennung
 von Geldstrafen und Geldbußen (ABl. L 76 vom 22.3.2005, S. 16), der
-durch den Rahmenbeschluss 2009/299/JI (ABl. L 81 vom 27.3.2009, S. 24)
-geändert worden ist, (Rahmenbeschluss Geldsanktionen) richtet sich
-nach diesem Unterabschnitt. Die Bestimmungen des Vierten Teils dieses
-Gesetzes sind nur anzuwenden, soweit auf diese Vorschriften im
+durch den Rahmenbeschluss 2009/299/JI (ABl. L 81 vom 27.3.2009, S.
+24) geändert worden ist, (Rahmenbeschluss Geldsanktionen) richtet
+sich nach diesem Unterabschnitt. Die Bestimmungen des Vierten Teils
+dieses Gesetzes sind nur anzuwenden, soweit auf diese Vorschriften im
 Folgenden ausdrücklich Bezug genommen wird.
 
 (2) Vollstreckungshilfe kann durch Vollstreckung einer rechtskräftig
@@ -4061,24 +3688,18 @@ die Geldsanktion auf einer Entscheidung beruht, die
 1.  ein Gericht im ersuchenden Mitgliedstaat wegen einer nach dessen Recht
     strafbaren Tat getroffen hat,
 
-
 2.  eine nicht gerichtliche Stelle im ersuchenden Mitgliedstaat wegen
     einer nach dessen Recht strafbaren Tat getroffen hat, sofern gegen
     diese Entscheidung ein auch für Strafsachen zuständiges Gericht
     angerufen werden konnte,
-
 
 3.  eine nicht gerichtliche Stelle im ersuchenden Mitgliedstaat wegen
     einer Tat getroffen hat, die nach dessen Recht als Ordnungswidrigkeit
     geahndet worden ist, sofern gegen diese Entscheidung ein auch für
     Strafsachen zuständiges Gericht angerufen werden konnte, oder
 
-
 4.  ein auch für Strafsachen zuständiges Gericht im ersuchenden
     Mitgliedstaat über eine Entscheidung nach Nummer 3 getroffen hat.
-
-
-
 
 (3) Eine Geldsanktion im Sinne des Absatzes 2 ist die Verpflichtung
 zur Zahlung
@@ -4086,10 +3707,8 @@ zur Zahlung
 1.  eines Geldbetrages wegen einer strafbaren Handlung oder einer
     Ordnungswidrigkeit,
 
-
 2.  der neben einer Sanktion nach Nummer 1 auferlegten Kosten des
     Verfahrens,
-
 
 3.  einer neben einer Sanktion nach Nummer 1 festgesetzten Entschädigung
     an das Opfer, wenn das Opfer im Rahmen des Verfahrens im ersuchenden
@@ -4097,15 +3716,12 @@ zur Zahlung
     und ein Gericht in Ausübung seiner strafrechtlichen Zuständigkeit
     tätig wurde, oder
 
+4.  eines neben einer Sanktion nach Nummer 1 festgesetzten Geldbetrages
+    an eine öffentliche Kasse oder an eine Organisation zur Unterstützung
+    von Opfern.
 
-4.  eines neben einer Sanktion nach Nummer 1 festgesetzten Geldbetrages an
-    eine öffentliche Kasse oder an eine Organisation zur Unterstützung von
-    Opfern.
-
-
-
-Keine Geldsanktionen sind Anordnungen über die Einziehung sowie
-Anordnungen zivilrechtlicher Natur, die sich aus
+Keine Geldsanktionen sind Anordnungen über die Einziehung
+sowie Anordnungen zivilrechtlicher Natur, die sich aus
 Schadensersatzansprüchen und Klagen auf Wiederherstellung des früheren
 Zustands ergeben und gemäß der Verordnung (EU) Nr. 1215/2012 des
 Europäischen Parlaments und des Rates vom 12. Dezember 2012 über die
@@ -4122,23 +3738,19 @@ folgenden Unterlagen vorliegen:
 1.  das Original der zu vollstreckenden Entscheidung oder eine beglaubigte
     Abschrift hiervon,
 
-
 2.  die von der zuständigen Behörde des ersuchenden Staates ausgefüllte
-    und unterzeichnete Bescheinigung entsprechend dem Formblatt, das im
-    Anhang des Rahmenbeschlusses Geldsanktionen abgedruckt ist, im
+    und unterzeichnete Bescheinigung entsprechend dem Formblatt, das
+    im Anhang des Rahmenbeschlusses Geldsanktionen abgedruckt ist, im
     Original.
-
-
-
 
 
 ##### § 87b Zulässigkeitsvoraussetzungen
 
 (1) Die Vollstreckung der Geldsanktion ist nur zulässig, wenn auch
-nach deutschem Recht, ungeachtet etwaiger Verfahrenshindernisse und
-gegebenenfalls nach sinngemäßer Umstellung des Sachverhalts, für die
-Tat, wie sie der Entscheidung zugrunde liegt, eine Strafe oder
-Geldbuße hätte verhängt werden können. Die beiderseitige
+nach deutschem Recht, ungeachtet etwaiger Verfahrenshindernisse
+und gegebenenfalls nach sinngemäßer Umstellung des Sachverhalts,
+für die Tat, wie sie der Entscheidung zugrunde liegt, eine Strafe
+oder Geldbuße hätte verhängt werden können. Die beiderseitige
 Sanktionierbarkeit ist nicht zu prüfen, wenn die der Entscheidung
 zugrunde liegende Tat nach dem Recht des ersuchenden Mitgliedstaates
 eine der in Artikel 5 Absatz 1 des Rahmenbeschlusses Geldsanktionen
@@ -4152,11 +3764,9 @@ diese gezahlt oder beigetrieben worden ist.
 1.  die in § 87a Nummer 2 genannte Bescheinigung unvollständig ist oder
     der Entscheidung offensichtlich nicht entspricht,
 
-
 2.  die verhängte Geldsanktion den Betrag von 70 Euro oder dessen
     Gegenwert bei Umrechnung nach dem im Zeitpunkt der zu vollstreckenden
     Entscheidung maßgeblichen Kurswert nicht erreicht,
-
 
 3.  die zugrunde liegende Entscheidung in einem schriftlichen Verfahren
     ergangen ist und der Betroffene oder ein nach dem Recht des
@@ -4164,46 +3774,37 @@ diese gezahlt oder beigetrieben worden ist.
     zur Anfechtung und über die Fristen entsprechend den Vorschriften
     dieses Rechts belehrt worden ist,
 
-
 4.  die betroffene Person zu der der Entscheidung zugrunde liegenden
     Verhandlung nicht persönlich erschienen ist,
 
-
 5.  gegen den Betroffenen wegen derselben Tat, die der Entscheidung
-    zugrunde liegt, im Inland eine Entscheidung im Sinne des § 9 Nummer 1
-    ergangen ist und für die Tat auch die deutsche Gerichtsbarkeit
+    zugrunde liegt, im Inland eine Entscheidung im Sinne des § 9 Nummer
+    1 ergangen ist und für die Tat auch die deutsche Gerichtsbarkeit
     begründet ist oder wenn wegen derselben Tat, die der Entscheidung
     zugrunde liegt, in einem anderen Staat als dem ersuchenden
     Mitgliedstaat und nicht im Inland eine Entscheidung gegen den
     Betroffenen ergangen und vollstreckt worden ist,
 
-
 6.  für die der Entscheidung zugrunde liegende Tat auch die deutsche
     Gerichtsbarkeit begründet und die Vollstreckung nach deutschem Recht
     verjährt ist,
-
 
 7.  der Betroffene aufgrund seines Alters zur Zeit der Tat, die der
     Entscheidung zugrunde liegt, nach deutschem Recht schuldunfähig war
     oder strafrechtlich nicht verantwortlich im Sinne von § 3 Satz 1 des
     Jugendgerichtsgesetzes handelte,
 
-
-8.  die der Entscheidung zugrunde liegende Tat ganz oder zum Teil im
-    Inland oder auf einem Schiff oder in einem Luftfahrzeug begangen
-    wurde, das berechtigt ist, die Bundesflagge oder das
+8.  die der Entscheidung zugrunde liegende Tat ganz oder zum Teil
+    im Inland oder auf einem Schiff oder in einem Luftfahrzeug
+    begangen wurde, das berechtigt ist, die Bundesflagge oder das
     Staatszugehörigkeitszeichen der Bundesrepublik Deutschland zu führen,
     und die Tat nach deutschem Recht nicht als Straftat mit Strafe bedroht
     oder als Ordnungswidrigkeit mit Geldbuße bewehrt ist oder
 
-
 9.  die betroffene Person in dem ausländischen Verfahren keine Gelegenheit
-    hatte einzuwenden, für die der Entscheidung zugrunde liegende Handlung
-    nicht verantwortlich zu sein, und sie dies gegenüber der
+    hatte einzuwenden, für die der Entscheidung zugrunde liegende
+    Handlung nicht verantwortlich zu sein, und sie dies gegenüber der
     Bewilligungsbehörde geltend macht.
-
-
-
 
 (4) Die Vollstreckung der Geldsanktion ist abweichend von Absatz 3
 Nummer 4 jedoch zulässig, wenn
@@ -4215,76 +3816,56 @@ Nummer 4 jedoch zulässig, wenn
         aa) persönlich zu der Verhandlung, die zu der Entscheidung geführt hat,
             geladen wurde oder
 
-
-        bb) auf andere Weise tatsächlich offiziell von dem vorgesehenen Termin und
-            Ort der Verhandlung, die zur Entscheidung geführt hat, in Kenntnis
+        bb) auf andere Weise tatsächlich offiziell von dem vorgesehenen Termin
+            und Ort der Verhandlung, die zur Entscheidung geführt hat, in Kenntnis
             gesetzt wurde, sodass zweifelsfrei nachgewiesen wurde, dass die
             betroffene Person von der anberaumten Verhandlung Kenntnis hatte, und
 
-
-
-
-
     b)  dabei darauf hingewiesen wurde, dass eine Entscheidung auch in ihrer
         Abwesenheit ergehen kann,
-
-
-
-
 
 2.  die betroffene Person in Kenntnis des gegen sie gerichteten
     Verfahrens, an dem ein Verteidiger beteiligt war, eine persönliche
     Ladung durch Flucht verhindert hat oder
 
-
 3.  die betroffene Person in Kenntnis der anberaumten Verhandlung einen
     Verteidiger bevollmächtigt hat, sie in der Verhandlung zu verteidigen,
     und sie durch diesen in der Verhandlung tatsächlich verteidigt wurde.
 
-
-
-
 (5) Die Vollstreckung der Geldsanktion ist abweichend von Absatz 3
-Nummer 4 auch zulässig, wenn die betroffene Person nach Zustellung der
-Entscheidung
+Nummer 4 auch zulässig, wenn die betroffene Person nach Zustellung
+der Entscheidung
 
 1.  ausdrücklich erklärt hat, die ergangene Entscheidung nicht
     anzufechten, oder
 
-
 2.  innerhalb geltender Fristen keine Wiederaufnahme des Verfahrens oder
     kein Berufungsverfahren beantragt hat.
 
-
-
 Die betroffene Person muss zuvor ausdrücklich über ihr Recht auf
-Wiederaufnahme des Verfahrens oder auf ein Berufungsverfahren, an dem
-sie teilnehmen kann und bei dem der Sachverhalt, einschließlich neuer
-Beweismittel, erneut geprüft und die ursprüngliche Entscheidung
+Wiederaufnahme des Verfahrens oder auf ein Berufungsverfahren, an
+dem sie teilnehmen kann und bei dem der Sachverhalt, einschließlich
+neuer Beweismittel, erneut geprüft und die ursprüngliche Entscheidung
 aufgehoben werden kann, belehrt worden sein.
 
-(6) Die Vollstreckung der Geldsanktion ist abweichend von Absatz 3
-Nummer 4 ferner zulässig, wenn die betroffene Person nach
+(6) Die Vollstreckung der Geldsanktion ist abweichend von Absatz
+3 Nummer 4 ferner zulässig, wenn die betroffene Person nach
 ausdrücklicher Unterrichtung über das Verfahren und die Möglichkeit,
 bei der Verhandlung persönlich zu erscheinen,
 
 1.  ausdrücklich auf das Recht auf mündliche Anhörung verzichtet hat und
 
-
 2.  erklärt hat, die Entscheidung nicht anzufechten.
-
-
-
 
 
 ##### § 87c Vorbereitung der Entscheidung über die Bewilligung
 
 (1) Die Bewilligungsbehörde hat dem Betroffenen ein Anhörungsschreiben
-mit Abschriften der in § 87a bezeichneten Unterlagen zu übersenden. Er
-erhält Gelegenheit, sich binnen zwei Wochen nach Zugang zu äußern, und
-ist darüber zu belehren, dass die Bewilligungsbehörde nach Ablauf
-dieser Frist über die Bewilligung der Vollstreckung entscheiden oder
-unter den Voraussetzungen des § 87i Absatz 1 einen Antrag auf
+mit Abschriften der in § 87a bezeichneten Unterlagen zu übersenden.
+Er erhält Gelegenheit, sich binnen zwei Wochen nach Zugang zu äußern,
+und ist darüber zu belehren, dass die Bewilligungsbehörde nach Ablauf
+dieser Frist über die Bewilligung der Vollstreckung entscheiden
+oder unter den Voraussetzungen des § 87i Absatz 1 einen Antrag auf
 gerichtliche Entscheidung stellen wird.
 
 (1a) Das Anhörungsschreiben nach Absatz 1 Satz 1 kann vollständig
@@ -4295,15 +3876,10 @@ Bewilligungsbehörde
 
 1.  die Vollstreckung als unzulässig ablehnt,
 
-
 2.  ein Bewilligungshindernis nach § 87d geltend macht oder
-
 
 3.  von vornherein die Umwandlung einer Entscheidung durch das Gericht
     nach § 87i Absatz 1 beantragt.
-
-
-
 
 
 ##### § 87d Grundsätzliche Pflicht zur Bewilligung
@@ -4313,19 +3889,15 @@ Geldsanktion kann nur abgelehnt werden, wenn die der Entscheidung
 zugrunde liegende Tat
 
 1.  ganz oder zum Teil im Inland oder auf einem Schiff oder in einem
-    Luftfahrzeug begangen wurde, das berechtigt ist, die Bundesflagge oder
-    das Staatszugehörigkeitszeichen der Bundesrepublik Deutschland zu
+    Luftfahrzeug begangen wurde, das berechtigt ist, die Bundesflagge
+    oder das Staatszugehörigkeitszeichen der Bundesrepublik Deutschland zu
     führen, und nach deutschem Recht als Straftat mit Strafe bedroht oder
     als Ordnungswidrigkeit mit Geldbuße bewehrt ist oder
-
 
 2.  außerhalb des Hoheitsgebietes des ersuchenden Mitgliedstaates begangen
     wurde und wenn eine derartige, im Ausland begangene Tat nach deutschem
     Recht nicht als Straftat mit Strafe oder als Ordnungswidrigkeit mit
     Geldbuße bedroht ist.
-
-
-
 
 
 ##### § 87e Rechtsbeistand
@@ -4339,35 +3911,31 @@ Die Vorschrift des § 53 über den Rechtsbeistand gilt entsprechend.
 sie nicht einen Antrag auf gerichtliche Entscheidung nach § 87i Absatz
 1 stellt.
 
-(2) § 54 Absatz 2 und 4 ist entsprechend anzuwenden. Ist die Tat, die
-dem Ersuchen des anderen Mitgliedstaates zugrunde liegt, nicht auf
-dessen Hoheitsgebiet begangen worden und ist für diese Tat die
-deutsche Gerichtsbarkeit begründet, so ist die Höhe der Geldstrafe
-oder Geldbuße auf das für eine vergleichbare Handlung nach
-inländischem Recht zu verhängende Höchstmaß herabzusetzen, wenn die in
-dem anderen Mitgliedstaat verhängte Sanktion dieses Höchstmaß
+(2) § 54 Absatz 2 und 4 ist entsprechend anzuwenden. Ist die
+Tat, die dem Ersuchen des anderen Mitgliedstaates zugrunde liegt,
+nicht auf dessen Hoheitsgebiet begangen worden und ist für diese
+Tat die deutsche Gerichtsbarkeit begründet, so ist die Höhe der
+Geldstrafe oder Geldbuße auf das für eine vergleichbare Handlung
+nach inländischem Recht zu verhängende Höchstmaß herabzusetzen, wenn
+die in dem anderen Mitgliedstaat verhängte Sanktion dieses Höchstmaß
 überschreitet.
 
 (3) Soweit die Entscheidung des anderen Mitgliedstaates für
-vollstreckbar erklärt wird, sind die Entscheidung und die Höhe der zu
-vollstreckenden Geldsanktion anzugeben. Die Bewilligung ist mit
+vollstreckbar erklärt wird, sind die Entscheidung und die Höhe der
+zu vollstreckenden Geldsanktion anzugeben. Die Bewilligung ist mit
 Gründen zu versehen und dem Betroffenen zuzustellen. Die Bewilligung
 enthält
 
 1.  den Hinweis, dass die Bewilligung rechtskräftig und die Geldsanktion
     vollstreckbar wird, wenn kein Einspruch nach Absatz 4 eingelegt wird,
 
-
 2.  die Aufforderung an den Betroffenen, spätestens zwei Wochen nach
     Rechtskraft die Geldsanktion an die Bundeskasse zu zahlen.
 
-
-
-
 (4) Der Betroffene kann gegen die Bewilligung innerhalb von zwei
 Wochen nach Zustellung schriftlich oder zur Niederschrift bei der
-Bewilligungsbehörde Einspruch einlegen. Die §§ 297 bis 300 und 302 der
-Strafprozessordnung über Rechtsmittel und die §§ 42 bis 47 der
+Bewilligungsbehörde Einspruch einlegen. Die §§ 297 bis 300 und 302
+der Strafprozessordnung über Rechtsmittel und die §§ 42 bis 47 der
 Strafprozessordnung über Fristen und Wiedereinsetzung in den vorigen
 Stand gelten entsprechend.
 
@@ -4390,16 +3958,16 @@ Einspruch des Betroffenen abhilft.
 nach § 87f Absatz 5 Satz 1 ist der Rechtsweg zu den ordentlichen
 Gerichten eröffnet. Hilft die Bewilligungsbehörde dem Einspruch des
 Betroffenen nicht ab oder beantragt der Betroffene eine gerichtliche
-Entscheidung nach § 87f Absatz 5 Satz 2, so entscheidet das nach
-Absatz 2 zuständige Amtsgericht. Das zuständige Amtsgericht
-entscheidet ferner auf Antrag der Bewilligungsbehörde gemäß § 87i. §
-34 Absatz 1, § 107 des Jugendgerichtsgesetzes und § 68 Absatz 2 des
-Gesetzes über Ordnungswidrigkeiten gelten entsprechend. Die
+Entscheidung nach § 87f Absatz 5 Satz 2, so entscheidet das
+nach Absatz 2 zuständige Amtsgericht. Das zuständige Amtsgericht
+entscheidet ferner auf Antrag der Bewilligungsbehörde gemäß § 87i.
+§ 34 Absatz 1, § 107 des Jugendgerichtsgesetzes und § 68 Absatz
+2 des Gesetzes über Ordnungswidrigkeiten gelten entsprechend. Die
 Bewilligungsbehörde bereitet die Entscheidung vor.
 
-(2) Die örtliche Zuständigkeit richtet sich nach dem Wohnsitz des
-Betroffenen, wenn dieser eine natürliche Person ist. Hat der
-Betroffene keinen Wohnsitz im Inland, so richtet sich die
+(2) Die örtliche Zuständigkeit richtet sich nach dem Wohnsitz
+des Betroffenen, wenn dieser eine natürliche Person ist. Hat
+der Betroffene keinen Wohnsitz im Inland, so richtet sich die
 Zuständigkeit nach seinem gewöhnlichen Aufenthalt oder, wenn ein
 solcher nicht bekannt ist, nach seinem letzten Wohnsitz. Ist der
 Betroffene eine juristische Person, ist das Gericht zuständig, in
@@ -4430,11 +3998,11 @@ Unterlagen beizubringen, wenn die übermittelten Unterlagen nicht
 ausreichen, um beurteilen zu können, ob die Bewilligungsbehörde ihr
 Ermessen, kein Bewilligungshindernis geltend zu machen, fehlerfrei
 ausgeübt hat. Für die Beibringung der Unterlagen kann eine Frist
-gesetzt werden. Die Bewilligungsbehörde führt die nach den Sätzen 1
-und 2 ergangenen Beschlüsse des Gerichtes aus. Das Gericht kann
+gesetzt werden. Die Bewilligungsbehörde führt die nach den Sätzen
+1 und 2 ergangenen Beschlüsse des Gerichtes aus. Das Gericht kann
 sonstige Beweise über die in § 87h Absatz 3 Satz 1 Nummer 1, 2 und 3
-aufgeführten Tatbestände erheben. § 30 Absatz 2 Satz 4 und Absatz 3, §
-31 Absatz 4 gelten entsprechend. Befindet sich der Betroffene im
+aufgeführten Tatbestände erheben. § 30 Absatz 2 Satz 4 und Absatz 3,
+§ 31 Absatz 4 gelten entsprechend. Befindet sich der Betroffene im
 Inland, gelten § 30 Absatz 2 Satz 1 sowie § 31 Absatz 2 entsprechend.
 § 31 Absatz 1 Satz 1 gilt mit der Maßgabe entsprechend, dass die
 Bewilligungsbehörde an die Stelle der Staatsanwaltschaft tritt. Die
@@ -4458,22 +4026,18 @@ zurückgewiesen, soweit
 1.  die Vollstreckung der Entscheidung des anderen Mitgliedstaates
     zulässig ist,
 
-
 2.  die Bewilligungsbehörde ihr Ermessen, kein Bewilligungshindernis
     geltend zu machen, fehlerfrei ausgeübt hat und
 
-
 3.  die Geldsanktion nach § 87f Absatz 2 fehlerfrei angepasst wurde.
-
-
 
 Soweit der Einspruch wegen Unzulässigkeit der Vollstreckung oder wegen
 fehlerhafter Ermessensausübung begründet ist, wird die Entscheidung
 des anderen Mitgliedstaates für nicht vollstreckbar erklärt. Soweit
 eine Anpassung nach § 87f Absatz 2 fehlerhaft ist oder unterlassen
 wurde, obwohl sie erforderlich war, passt das Gericht die Geldsanktion
-an und erklärt die Entscheidung für vollstreckbar. Soweit von der
-Bewilligungsentscheidung abgewichen wird, ist die Höhe der zu
+an und erklärt die Entscheidung für vollstreckbar. Soweit von
+der Bewilligungsentscheidung abgewichen wird, ist die Höhe der zu
 vollstreckenden Geldsanktion in der Beschlussformel anzugeben.
 
 (4) § 77b des Gesetzes über Ordnungswidrigkeiten ist entsprechend
@@ -4481,8 +4045,8 @@ anzuwenden.
 
 (5) Über die Zulässigkeit und Begründetheit des Antrags nach § 87f
 Absatz 5 Satz 2 entscheidet das Amtsgericht durch Beschluss. Die §§
-297 bis 300, 302 und 306 Absatz 2, die §§ 307, 308 und 309 Absatz 1
-und § 311a der Strafprozessordnung über Rechtsmittel sowie die
+297 bis 300, 302 und 306 Absatz 2, die §§ 307, 308 und 309 Absatz
+1 und § 311a der Strafprozessordnung über Rechtsmittel sowie die
 Vorschriften der Strafprozessordnung über die Auferlegung der Kosten
 des Beschwerdeverfahrens gelten entsprechend. Die Entscheidung des
 Gerichts ist unanfechtbar.
@@ -4503,12 +4067,12 @@ zu machen, ist zu begründen.
 
 (3) Soweit die Vollstreckung der Entscheidung des anderen
 Mitgliedstaates zulässig ist und die Bewilligungsbehörde ihr Ermessen,
-kein Bewilligungshindernis geltend zu machen, fehlerfrei ausgeübt hat,
-wird die Entscheidung für vollstreckbar erklärt. Eine gegen einen
-Jugendlichen verhängte Geldsanktion nach § 87 Absatz 2 Nummer 1 und 2
-ist dabei zusätzlich in eine nach dem Jugendgerichtsgesetz zulässige
-Sanktion umzuwandeln. Satz 2 gilt für einen Heranwachsenden
-entsprechend, wenn nach § 105 Absatz 1 des Jugendgerichtsgesetzes das
+kein Bewilligungshindernis geltend zu machen, fehlerfrei ausgeübt
+hat, wird die Entscheidung für vollstreckbar erklärt. Eine gegen
+einen Jugendlichen verhängte Geldsanktion nach § 87 Absatz 2 Nummer
+1 und 2 ist dabei zusätzlich in eine nach dem Jugendgerichtsgesetz
+zulässige Sanktion umzuwandeln. Satz 2 gilt für einen Heranwachsenden
+entsprechend, wenn nach § 105 Absatz 1 des Jugendgerichtsgesetzes das
 Jugendstrafrecht zur Anwendung kommt. Für die Anpassung der Höhe der
 Geldsanktion gilt § 87f Absatz 2 entsprechend.
 
@@ -4518,37 +4082,33 @@ Mitgliedstaates gemäß Absatz 3 Satz 1 ausschließlich für vollstreckbar
 erklärt wird, ist in der Beschlussformel auch die Höhe der zu
 vollstreckenden Geldsanktion anzugeben.
 
-(5) Die Bewilligungsbehörde bewilligt die Vollstreckung nach Maßgabe
-der rechtskräftigen gerichtlichen Entscheidung. Die
+(5) Die Bewilligungsbehörde bewilligt die Vollstreckung nach
+Maßgabe der rechtskräftigen gerichtlichen Entscheidung. Die
 Bewilligungsentscheidung ist unanfechtbar. § 87f Absatz 3 Satz 1 und 2
 gilt entsprechend. Die Bewilligung enthält
 
 1.  den Hinweis, dass die Bewilligung rechtskräftig und die Geldsanktion
     vollstreckbar geworden ist, und
 
-
 2.  die Aufforderung an den Betroffenen, spätestens zwei Wochen nach
-    Zustellung entweder die Geldsanktion an die zuständige Kasse nach §
-    87n Absatz 5 Satz 3 zu zahlen oder der Sanktion nach dem
+    Zustellung entweder die Geldsanktion an die zuständige Kasse
+    nach § 87n Absatz 5 Satz 3 zu zahlen oder der Sanktion nach dem
     Jugendgerichtsgesetz nachzukommen, in die die Geldsanktion nach Absatz
     3 Satz 2 umgewandelt wurde.
 
 
-
-
-
 ##### § 87j Rechtsbeschwerde
 
-(1) Gegen den Beschluss des Amtsgerichts nach § 87h Absatz 3 und § 87i
-Absatz 4 ist die Rechtsbeschwerde zulässig, wenn sie zugelassen wird.
-Dieses Rechtsmittel steht sowohl dem Betroffenen als auch der
+(1) Gegen den Beschluss des Amtsgerichts nach § 87h Absatz 3 und §
+87i Absatz 4 ist die Rechtsbeschwerde zulässig, wenn sie zugelassen
+wird. Dieses Rechtsmittel steht sowohl dem Betroffenen als auch der
 Bewilligungsbehörde zu. Nachdem dem Beschwerdegegner Gelegenheit zur
 Stellungnahme gegeben worden ist, legt das Amtsgericht die Akten durch
 Vermittlung der Staatsanwaltschaft beim Beschwerdegericht diesem zur
 Entscheidung vor.
 
-(2) Für die Rechtsbeschwerde und das weitere Verfahren gelten, soweit
-dieses Gesetz nichts anderes bestimmt, die Vorschriften der
+(2) Für die Rechtsbeschwerde und das weitere Verfahren gelten,
+soweit dieses Gesetz nichts anderes bestimmt, die Vorschriften der
 Strafprozessordnung und des Gerichtsverfassungsgesetzes über die
 Revision entsprechend.
 
@@ -4558,8 +4118,8 @@ Zustellung des Beschlusses.
 (4) Das Beschwerdegericht entscheidet durch Beschluss.
 
 (5) Hebt das Beschwerdegericht die angefochtene Entscheidung auf, so
-kann es abweichend von § 354 Absatz 1 und 2 der Strafprozessordnung in
-der Sache selbst entscheiden oder sie an das Amtsgericht, dessen
+kann es abweichend von § 354 Absatz 1 und 2 der Strafprozessordnung
+in der Sache selbst entscheiden oder sie an das Amtsgericht, dessen
 Entscheidung aufgehoben wurde, oder an ein anderes Amtsgericht
 desselben Landes zurückverweisen.
 
@@ -4574,17 +4134,13 @@ Betroffenen oder der Bewilligungsbehörde zu, wenn es geboten ist,
 1.  die Nachprüfung des Beschlusses zur Fortbildung des Rechts oder zur
     Sicherung einer einheitlichen Rechtsprechung zu ermöglichen oder
 
-
 2.  den Beschluss wegen Versagung des rechtlichen Gehörs aufzuheben.
-
-
-
 
 (2) Für den Zulassungsantrag gelten die Vorschriften über die
 Einlegung der Rechtsbeschwerde entsprechend. Der Antrag gilt als
 vorsorglich eingelegte Rechtsbeschwerde. Die Vorschriften über die
-Anbringung der Beschwerdeanträge und deren Begründung (§§ 344, 345 der
-Strafprozessordnung) sind zu beachten. Bei der Begründung der
+Anbringung der Beschwerdeanträge und deren Begründung (§§ 344, 345
+der Strafprozessordnung) sind zu beachten. Bei der Begründung der
 Beschwerdeanträge soll der Antragsteller zugleich angeben, aus welchen
 Gründen die in Absatz 1 bezeichneten Voraussetzungen vorliegen. § 35a
 der Strafprozessordnung gilt entsprechend.
@@ -4615,43 +4171,33 @@ besetzt in Verfahren über Rechtsbeschwerden, wenn
 1.  es sich um die Vollstreckung einer Geldsanktion im Sinne von § 87
     Absatz 2 Nummer 1 oder Nummer 2 handelt,
 
-
 2.  ein Zulassungsgrund im Sinne von § 87k Absatz 1 Nummer 1 vorliegt,
-
 
 3.  besondere Schwierigkeiten bei der Sach- und Rechtslage dies geboten
     erscheinen lassen oder
 
-
 4.  von der Entscheidung eines Oberlandesgerichts abgewichen werden soll.
-
-
-
 
 
 ##### § 87m Verbot der Doppelverfolgung; Mitteilung an das Bundeszentralregister
 
-(1) Wird die Vollstreckung bewilligt, so darf dieselbe Tat, die der
-Entscheidung des anderen Mitgliedstaates zugrunde liegt, nach
+(1) Wird die Vollstreckung bewilligt, so darf dieselbe Tat, die
+der Entscheidung des anderen Mitgliedstaates zugrunde liegt, nach
 deutschem Recht nicht mehr als Straftat oder Ordnungswidrigkeit
 verfolgt werden.
 
 (2) Die Bewilligung, nach der eine Entscheidung eines anderen
-Mitgliedstaates gemäß § 87 Absatz 2 Nummer 1 oder Nummer 2 für
-vollstreckbar erklärt oder abgelehnt wurde, ist dem
+Mitgliedstaates gemäß § 87 Absatz 2 Nummer 1 oder Nummer
+2 für vollstreckbar erklärt oder abgelehnt wurde, ist dem
 Bundeszentralregister mitzuteilen. Dies gilt nicht, wenn
 
 1.  die Entscheidung des anderen Mitgliedstaates in das
     Bundeszentralregister nicht eingetragen werden kann oder
 
-
-2.  die Entscheidung gegen einen Deutschen ergangen ist und die Mitteilung
-    nicht erforderlich ist, weil der andere Mitgliedstaat das
+2.  die Entscheidung gegen einen Deutschen ergangen ist und die
+    Mitteilung nicht erforderlich ist, weil der andere Mitgliedstaat das
     Bundeszentralregister tatsächlich regelmäßig über strafrechtliche
     Verurteilungen gegen einen Deutschen unterrichtet.
-
-
-
 
 
 ##### § 87n Vollstreckung
@@ -4660,28 +4206,28 @@ Bundeszentralregister mitzuteilen. Dies gilt nicht, wenn
 Vollstreckung durch. Dies gilt nicht, wenn das Gericht nach Einspruch
 gemäß § 87h oder auf Antrag der Bewilligungsbehörde gemäß § 87i eine
 Entscheidung trifft. In Fällen nach Satz 2 erfolgt die Vollstreckung
-durch die Staatsanwaltschaft bei dem Landgericht, in dessen Bezirk das
-zuständige Amtsgericht seinen Sitz hat, als Vollstreckungsbehörde.
+durch die Staatsanwaltschaft bei dem Landgericht, in dessen Bezirk
+das zuständige Amtsgericht seinen Sitz hat, als Vollstreckungsbehörde.
 Soweit in den Fällen des Satzes 2 nach Umwandlung eine
 jugendstrafrechtliche Sanktion zu vollstrecken ist, erfolgt die
 Vollstreckung nach Maßgabe des § 82 des Jugendgerichtsgesetzes.
 
-(2) Für die Vollstreckung gelten die §§ 34, 93 bis 99 Absatz 1, die §§
-101, 102, 103 Absatz 1 Nummer 2, Absatz 2 sowie § 104 Absatz 2 und 3
-Satz 1 Nummer 1 und Satz 2 des Gesetzes über Ordnungswidrigkeiten
+(2) Für die Vollstreckung gelten die §§ 34, 93 bis 99 Absatz 1, die
+§§ 101, 102, 103 Absatz 1 Nummer 2, Absatz 2 sowie § 104 Absatz 2 und
+3 Satz 1 Nummer 1 und Satz 2 des Gesetzes über Ordnungswidrigkeiten
 sinngemäß. Die bei der Vollstreckung nach Satz 1 notwendigen
 gerichtlichen Entscheidungen werden vom Amtsgericht am Sitz der
 Vollstreckungsbehörde erlassen. In Verfahren gegen Jugendliche und
-Heranwachsende gelten auch § 82 Absatz 1, § 83 Absatz 2 sowie die §§
-84 und 85 Absatz 5 des Jugendgerichtsgesetzes sinngemäß. Die
+Heranwachsende gelten auch § 82 Absatz 1, § 83 Absatz 2 sowie die
+§§ 84 und 85 Absatz 5 des Jugendgerichtsgesetzes sinngemäß. Die
 Vorschriften des Justizbeitreibungsgesetzes sind anwendbar, soweit in
 diesem Gesetz nichts anderes bestimmt ist. Sofern eine Entscheidung
 gemäß § 87i Absatz 3 Satz 2 und 3 ergangen ist, sind die Sätze 1 bis 4
 nicht anwendbar.
 
-(3) Bei der Vollstreckung einer Entscheidung nach § 87i Absatz 3
-können freiheitsentziehende Maßnahmen nicht angeordnet werden. Das
-Gleiche gilt bei der Vollstreckung einer Entscheidung gegen
+(3) Bei der Vollstreckung einer Entscheidung nach § 87i Absatz
+3 können freiheitsentziehende Maßnahmen nicht angeordnet werden.
+Das Gleiche gilt bei der Vollstreckung einer Entscheidung gegen
 Jugendliche und Heranwachsende nach Absatz 2.
 
 (4) § 57 Absatz 6 gilt entsprechend.
@@ -4689,9 +4235,9 @@ Jugendliche und Heranwachsende nach Absatz 2.
 (5) Der Erlös aus der Vollstreckung fließt in die Bundeskasse. Dies
 gilt nicht, wenn das Gericht nach Einspruch gemäß § 87h oder auf
 Antrag der Bewilligungsbehörde gemäß § 87i eine Entscheidung trifft.
-In Fällen nach Satz 2 fließt der Erlös aus der Vollstreckung in die
-Kasse des Landes, in dem das zuständige Amtsgericht seinen Sitz hat.
-Abweichend von den Sätzen 1 bis 3 kann mit dem ersuchenden
+In Fällen nach Satz 2 fließt der Erlös aus der Vollstreckung in
+die Kasse des Landes, in dem das zuständige Amtsgericht seinen Sitz
+hat. Abweichend von den Sätzen 1 bis 3 kann mit dem ersuchenden
 Mitgliedstaat insbesondere bei der Vollstreckung einer Entscheidung,
 in die eine Entscheidung nach § 87 Absatz 3 Satz 1 Nummer 3
 umgewandelt worden ist, vereinbart werden, dass der Erlös aus der
@@ -4703,14 +4249,13 @@ Vollstreckung dem Opfer zufließt.
 ##### § 87o Übergangsvorschrift für Verfahren nach § 87f Absatz 5 und § 87i Absatz 3
 
 § 87f Absatz 5 und § 87i sind nicht anzuwenden auf Ersuchen, die vor
-dem 27. November 2020 beim Bundesamt für Justiz eingegangen sind. Für
-Ersuchen, die vor diesem Zeitpunkt beim Bundesamt für Justiz
+dem 27. November 2020 beim Bundesamt für Justiz eingegangen sind.
+Für Ersuchen, die vor diesem Zeitpunkt beim Bundesamt für Justiz
 eingegangen sind, gelten die §§ 86 bis 87p in ihrer bis zum Ablauf des
 26\. November 2020 geltenden Fassung.
 
 
 #### Unterabschnitt 3 - Ausgehende Ersuchen
-
 
 
 ##### § 87p Grundsatz
@@ -4726,18 +4271,12 @@ Vollstreckung einer Geldsanktion ersucht werden, wenn der Betroffene
 1.  eine natürliche Person ist, die ihren Wohnsitz im ersuchten
     Mitgliedstaat hat oder sich dort in der Regel aufhält,
 
-
 2.  eine juristische Person ist, die ihren Sitz im ersuchten Mitgliedstaat
     hat,
 
-
 3.  über Vermögen im ersuchten Mitgliedstaat verfügt oder
 
-
 4.  im ersuchten Mitgliedstaat Einkommen bezieht.
-
-
-
 
 
 ##### § 87q Inländisches Vollstreckungsverfahren; Ruhen der Verjährung
@@ -4747,19 +4286,16 @@ Vollstreckung im Inland erst wieder zulässig, soweit
 
 1.  das Ersuchen zurückgenommen worden ist oder
 
-
 2.  der ersuchte Mitgliedstaat die Vollstreckung verweigert hat.
 
-
-
 Die Vollstreckung im Inland ist unzulässig, wenn der ersuchte
-Mitgliedstaat die Versagung der Vollstreckung darauf gestützt hat,
-dass gegen den Betroffenen wegen derselben Tat im ersuchten
+Mitgliedstaat die Versagung der Vollstreckung darauf gestützt
+hat, dass gegen den Betroffenen wegen derselben Tat im ersuchten
 Mitgliedstaat eine Entscheidung ergangen ist oder in einem dritten
 Staat eine Entscheidung ergangen und vollstreckt worden ist.
 
-(2) § 79a Nummer 2 Buchstabe c des Strafgesetzbuchs und § 34 Absatz 4
-Nummer 3 des Gesetzes über Ordnungswidrigkeiten gelten mit der
+(2) § 79a Nummer 2 Buchstabe c des Strafgesetzbuchs und § 34 Absatz
+4 Nummer 3 des Gesetzes über Ordnungswidrigkeiten gelten mit der
 Maßgabe, dass die Vollstreckungsverjährung auch dann ruht, wenn die
 Zahlungserleichterung in einem anderen Mitgliedstaat der Europäischen
 Union bewilligt wurde.
@@ -4768,25 +4304,24 @@ Union bewilligt wurde.
 ### Abschnitt 3 - Einziehung
 
 
-
 #### § 88 Grundsatz
 
-Außerhalb des Anwendungsbereichs der Verordnung (EU) 2018/1805 des
-Europäischen Parlaments und des Rates vom 14. November 2018 über die
-gegenseitige Anerkennung von Sicherstellungs- und
-Einziehungsentscheidungen (ABl. L 303 vom 28.11.2018, S. 1)
-(Verordnung Sicherstellung und Einziehung) richtet sich die
+Außerhalb des Anwendungsbereichs der Verordnung (EU) 2018/1805
+des Europäischen Parlaments und des Rates vom 14. November
+2018 über die gegenseitige Anerkennung von Sicherstellungs-
+und Einziehungsentscheidungen (ABl. L 303 vom 28.11.2018, S.
+1) (Verordnung Sicherstellung und Einziehung) richtet sich die
 Vollstreckungshilfe für einen anderen Mitgliedstaat der Europäischen
-Union nach Maßgabe des Rahmenbeschlusses 2006/783/JI des Rates vom 6.
-Oktober 2006 über die Anwendung des Grundsatzes der gegenseitigen
+Union nach Maßgabe des Rahmenbeschlusses 2006/783/JI des Rates vom
+6\. Oktober 2006 über die Anwendung des Grundsatzes der gegenseitigen
 Anerkennung auf Einziehungsentscheidungen (ABl. L 328 vom 24.11.2006,
 S. 59), der durch den Rahmenbeschluss 2009/299/JI (ABl. L 81 vom
 27\.3.2009, S. 24) und die Verordnung (EU) 2018/1805 (ABl. L 303 vom
 28\.11.2018, S. 1) geändert worden ist, (Rahmenbeschluss Einziehung)
 nach den §§ 88a bis 88f. Soweit dieser Abschnitt keine besonderen
 Regelungen enthält oder das Ersuchen nicht nach Maßgabe des
-Rahmenbeschlusses Einziehung gestellt wurde, sind die Vorschriften des
-Vierten Teils sowie die allgemeinen Bestimmungen des Ersten und
+Rahmenbeschlusses Einziehung gestellt wurde, sind die Vorschriften
+des Vierten Teils sowie die allgemeinen Bestimmungen des Ersten und
 Siebenten Teils dieses Gesetzes anzuwenden.
 
 
@@ -4801,32 +4336,24 @@ Vermögensgegenstand gerichtet ist, nur zulässig, wenn
     Union unter Vorlage der in § 88b genannten Unterlagen darum ersucht
     hat und
 
-
 2.  auch nach deutschem Recht, ungeachtet etwaiger Verfahrenshindernisse
     und gegebenenfalls bei sinngemäßer Umstellung des Sachverhalts, wegen
     der Tat, die der ausländischen Anordnung der Einziehung zugrunde
     liegt, eine derartige Anordnung hätte getroffen werden können, wobei
 
-    a)  außer bei Ersuchen um Vollstreckung einer dem § 73a oder dem § 74a des
-        Strafgesetzbuchs entsprechenden Maßnahme die beiderseitige
+    a)  außer bei Ersuchen um Vollstreckung einer dem § 73a oder dem §
+        74a des Strafgesetzbuchs entsprechenden Maßnahme die beiderseitige
         Strafbarkeit nicht zu prüfen ist, wenn die dem Ersuchen zugrunde
-        liegende Tat nach dem Recht des ersuchenden Mitgliedstaates mit einer
-        Freiheitsstrafe im Höchstmaß von mindestens drei Jahren bedroht ist
-        und den in Artikel 6 Absatz 1 des Rahmenbeschlusses Einziehung
+        liegende Tat nach dem Recht des ersuchenden Mitgliedstaates mit
+        einer Freiheitsstrafe im Höchstmaß von mindestens drei Jahren bedroht
+        ist und den in Artikel 6 Absatz 1 des Rahmenbeschlusses Einziehung
         aufgeführten Deliktsgruppen zugehörig ist und
-
 
     b)  die Vollstreckung in Steuer-, Abgaben-, Zoll- oder
         Währungsangelegenheiten auch zulässig ist, wenn das deutsche Recht
         keine gleichartigen Steuern oder Abgaben vorschreibt oder keine
         gleichartigen Steuer-, Abgaben-, Zoll- oder Währungsbestimmungen
         enthält wie das Recht des ersuchenden Mitgliedstaates.
-
-
-
-
-
-
 
 (2) Die Vollstreckung einer nach Absatz 1 übersandten Anordnung der
 Einziehung ist unzulässig, wenn
@@ -4835,27 +4362,21 @@ Einziehung ist unzulässig, wenn
     genannten Verkehrsmittel begangen wurde und nach deutschem Recht nicht
     mit Strafe bedroht ist;
 
-
 2.  die betroffene Person zu der der Anordnung der Einziehung zugrunde
     liegenden Verhandlung nicht persönlich erschienen ist;
-
 
 3.  die betroffene Person wegen derselben Tat, die dem Ersuchen zugrunde
     liegt, bereits von einem anderen als dem ersuchenden Mitgliedstaat
     rechtskräftig abgeurteilt worden ist, vorausgesetzt, dass diese
-    Sanktion bereits vollstreckt worden ist, gerade vollstreckt wird oder
-    nach dem Recht des Urteilsstaates nicht mehr vollstreckt werden kann,
-    es sei denn, die Einziehung könnte entsprechend § 76a des
+    Sanktion bereits vollstreckt worden ist, gerade vollstreckt wird
+    oder nach dem Recht des Urteilsstaates nicht mehr vollstreckt werden
+    kann, es sei denn, die Einziehung könnte entsprechend § 76a des
     Strafgesetzbuchs selbständig angeordnet werden;
-
 
 4.  bei Straftaten, für die das deutsche Strafrecht gilt, die
     Vollstreckung nach deutschem Recht verjährt ist, es sei denn, eine
     Anordnung der Einziehung könnte entsprechend § 76a Absatz 2 des
     Strafgesetzbuchs erfolgen.
-
-
-
 
 (3) Die Vollstreckung einer nach Absatz 1 übersandten Anordnung der
 Einziehung ist in Abweichung von Absatz 2 Nummer 2 jedoch zulässig,
@@ -4868,34 +4389,21 @@ wenn
         aa) persönlich zu der Verhandlung, die zu der Entscheidung geführt hat,
             geladen wurde oder
 
-
-        bb) auf andere Weise tatsächlich offiziell von dem vorgesehenen Termin und
-            Ort der Verhandlung, die zur Entscheidung geführt hat, in Kenntnis
+        bb) auf andere Weise tatsächlich offiziell von dem vorgesehenen Termin
+            und Ort der Verhandlung, die zur Entscheidung geführt hat, in Kenntnis
             gesetzt wurde, sodass zweifelsfrei nachgewiesen wurde, dass die
             betroffene Person von der anberaumten Verhandlung Kenntnis hatte, und
 
-
-
-
-
     b)  dabei darauf hingewiesen wurde, dass eine Entscheidung auch in ihrer
         Abwesenheit ergehen kann,
-
-
-
-
 
 2.  die betroffene Person in Kenntnis des gegen sie gerichteten
     Verfahrens, an dem ein Verteidiger beteiligt war, eine persönliche
     Ladung durch Flucht verhindert hat oder
 
-
 3.  die betroffene Person in Kenntnis der anberaumten Verhandlung einen
     Verteidiger bevollmächtigt hat, sie in der Verhandlung zu verteidigen,
     und sie durch diesen in der Verhandlung tatsächlich verteidigt wurde.
-
-
-
 
 (4) Die Vollstreckung einer nach Absatz 1 übersandten Anordnung der
 Einziehung ist in Abweichung von Absatz 2 Nummer 2 auch zulässig, wenn
@@ -4904,16 +4412,13 @@ die betroffene Person nach Zustellung der Entscheidung
 1.  ausdrücklich erklärt hat, die ergangene Entscheidung nicht
     anzufechten, oder
 
-
 2.  innerhalb geltender Fristen keine Wiederaufnahme des Verfahrens oder
     kein Berufungsverfahren beantragt hat.
 
-
-
 Die betroffene Person muss zuvor ausdrücklich über ihr Recht auf
-Wiederaufnahme des Verfahrens oder auf ein Berufungsverfahren, an dem
-sie teilnehmen kann und bei dem der Sachverhalt, einschließlich neuer
-Beweismittel, erneut geprüft und die ursprüngliche Entscheidung
+Wiederaufnahme des Verfahrens oder auf ein Berufungsverfahren, an
+dem sie teilnehmen kann und bei dem der Sachverhalt, einschließlich
+neuer Beweismittel, erneut geprüft und die ursprüngliche Entscheidung
 aufgehoben werden kann, belehrt worden sein.
 
 
@@ -4927,37 +4432,27 @@ Einziehung vorzulegen, die die folgenden Angaben enthält:
 1.  die Bezeichnung und Anschrift des Gerichts, das die Einziehung
     angeordnet hat;
 
-
 2.  die Bezeichnungen und Anschriften der für das Ersuchen zuständigen
     Justizbehörden;
-
 
 3.  die möglichst genaue Bezeichnung der natürlichen oder juristischen
     Person, gegen die die Entscheidung vollstreckt werden soll;
 
-
 4.  die Nennung des Geldbetrages oder die Beschreibung eines anderen
     Vermögensgegenstandes, der Gegenstand der Vollstreckung sein soll;
 
-
 5.  die Darlegung der Gründe für die Anordnung;
-
 
 6.  die Beschreibung der Umstände, unter denen die Straftat begangen
     wurde, einschließlich der Tatzeit sowie des Tatortes;
-
 
 7.  die Art und rechtliche Würdigung der Straftat, einschließlich der
     gesetzlichen Bestimmungen, auf deren Grundlage die Entscheidung
     ergangen ist und
 
-
-8.  die Auskunft über das persönliche Erscheinen der betroffenen Person zu
-    der Verhandlung oder Angaben darüber, weshalb das Erscheinen nicht
+8.  die Auskunft über das persönliche Erscheinen der betroffenen Person
+    zu der Verhandlung oder Angaben darüber, weshalb das Erscheinen nicht
     erforderlich war.
-
-
-
 
 (2) Ist eine Bescheinigung nach Absatz 1 bei Stellung des Ersuchens
 nicht vorhanden oder unvollständig oder entspricht sie offensichtlich
@@ -4965,8 +4460,8 @@ nicht der zu vollstreckenden Entscheidung, kann die zuständige Behörde
 eine Frist für die Vorlage oder Vervollständigung oder Berichtigung
 setzen. Ist die Bescheinigung nach Absatz 1 unvollständig, ergeben
 sich die erforderlichen Angaben aber aus der zu vollstreckenden
-Entscheidung oder aus anderen beigefügten Unterlagen, so kann die
-zuständige Behörde auf die Vorlage einer vervollständigten
+Entscheidung oder aus anderen beigefügten Unterlagen, so kann
+die zuständige Behörde auf die Vorlage einer vervollständigten
 Bescheinigung verzichten.
 
 
@@ -4979,20 +4474,16 @@ Ein nach § 88a zulässiges Ersuchen kann nur abgelehnt werden, wenn
     entsprechend § 88b Absatz 2 Satz 1 vorgelegt, vervollständigt oder
     berichtigt wurde;
 
-
 2.  die Tat im Inland oder in einem der in § 4 des Strafgesetzbuchs
     genannten Verkehrsmittel begangen wurde;
-
 
 3.  die Tat weder im Inland noch im Hoheitsbereich des ersuchenden
     Mitgliedstaates begangen wurde und deutsches Strafrecht nicht gilt
     oder die Tat nach deutschem Recht nicht mit Strafe bedroht ist;
 
-
 4.  im Inland eine Anordnung der Einziehung ergangen ist, die sich auf
     dieselben Vermögenswerte bezieht, und aus öffentlichem Interesse der
     Vollstreckung dieser Anordnung Vorrang eingeräumt werden soll oder
-
 
 5.  ein Ersuchen um Vollstreckung einer Anordnung der Einziehung aus einem
     weiteren Staat eingegangen ist, das sich auf dieselben Vermögenswerte
@@ -5000,16 +4491,13 @@ Ein nach § 88a zulässiges Ersuchen kann nur abgelehnt werden, wenn
     Anordnung Vorrang eingeräumt werden soll.
 
 
-
-
-
 #### § 88d Verfahren
 
 (1) Erachtet die nach den §§ 50 und 51 zuständige Staatsanwaltschaft
 das Ersuchen für zulässig und beabsichtigt sie, keine Ablehnungsgründe
-nach § 88c geltend zu machen, leitet sie geeignete und erforderliche
-Maßnahmen zur einstweiligen Sicherstellung der zu vollstreckenden
-Vermögenswerte entsprechend den §§ 111b bis 111h der
+nach § 88c geltend zu machen, leitet sie geeignete und
+erforderliche Maßnahmen zur einstweiligen Sicherstellung der zu
+vollstreckenden Vermögenswerte entsprechend den §§ 111b bis 111h der
 Strafprozessordnung ein und gibt der betroffenen Person sowie Dritten,
 die den Umständen des Falles nach Rechte an dem zu vollstreckenden
 Gegenstand geltend machen könnten, Gelegenheit, sich zu äußern.
@@ -5023,19 +4511,15 @@ Vollstreckbarkeit.
 1.  solange anzunehmen ist, dass die Anordnung gleichzeitig in einem
     anderen Mitgliedstaat vollständig vollstreckt wird oder
 
-
 2.  solange das Verfahren zur Anerkennung und Vollstreckung der
     ausländischen Anordnung laufende Straf- und Vollstreckungsverfahren
     beeinträchtigen könnte.
 
-
-
-
 (3) In Abweichung von § 54 Absatz 1 wird die ausländische Anordnung
 durch das Gericht gemäß den §§ 50 und 55 für vollstreckbar erklärt,
-soweit deren Vollstreckung zulässig ist und die Staatsanwaltschaft ihr
-Ermessen, nicht von den Ablehnungsgründen nach § 88c Nummer 1 bis 3
-Gebrauch zu machen, fehlerfrei ausgeübt hat. In der Beschlussformel
+soweit deren Vollstreckung zulässig ist und die Staatsanwaltschaft
+ihr Ermessen, nicht von den Ablehnungsgründen nach § 88c Nummer 1 bis
+3 Gebrauch zu machen, fehlerfrei ausgeübt hat. In der Beschlussformel
 ist auch der zu vollstreckende Geldbetrag oder Vermögensgegenstand
 anzugeben. § 54 Absatz 2a und 4 gilt entsprechend. Die verhängte
 Sanktion ist in die ihr im deutschen Recht am meisten entsprechende
@@ -5046,10 +4530,10 @@ Anordnung nicht nach § 459g der Strafprozessordnung vollstreckbar ist.
 #### § 88e Vollstreckung
 
 (1) § 57 Absatz 1 gilt mit der Maßgabe, dass sich die Zuständigkeit
-für die Vollstreckung einer ausländischen Anordnung auch dann nach den
-Bestimmungen des Jugendgerichtsgesetzes richtet, wenn die Sanktion
-nicht gemäß § 88d Absatz 3 Satz 4 umgewandelt wurde und das Gericht
-bei der Entscheidung über die Vollstreckbarkeit das
+für die Vollstreckung einer ausländischen Anordnung auch dann
+nach den Bestimmungen des Jugendgerichtsgesetzes richtet, wenn die
+Sanktion nicht gemäß § 88d Absatz 3 Satz 4 umgewandelt wurde und
+das Gericht bei der Entscheidung über die Vollstreckbarkeit das
 Jugendgerichtsgesetz angewendet hat.
 
 (2) § 57 Absatz 4 gilt entsprechend mit der Maßgabe, dass die
@@ -5066,16 +4550,16 @@ erfolgen darf.
 
 Der Ertrag aus der Vollstreckung ist mit der zuständigen Behörde des
 ersuchenden Mitgliedstaates hälftig zu teilen, wenn er ohne Abzug von
-Kosten und Entschädigungsleistungen (§ 56a) über 10 000 Euro liegt und
-keine Vereinbarung nach § 56b Absatz 1 getroffen wurde. Dies gilt
+Kosten und Entschädigungsleistungen (§ 56a) über 10 000 Euro liegt
+und keine Vereinbarung nach § 56b Absatz 1 getroffen wurde. Dies gilt
 nicht, wenn die entsprechend § 56b Absatz 2 erforderliche Einwilligung
 verweigert wurde.
 
 
 #### § 89 Sicherstellungsmaßnahmen
 
-Auf Ersuchen eines Mitgliedstaates der Europäischen Union um eine
-Sicherstellungsmaßnahme nach den §§ 111b bis 111h der
+Auf Ersuchen eines Mitgliedstaates der Europäischen Union um
+eine Sicherstellungsmaßnahme nach den §§ 111b bis 111h der
 Strafprozessordnung zur Vorbereitung einer im ersuchenden
 Mitgliedstaat zu treffenden Einziehungsentscheidung finden die §§ 91
 und 94 bis 96 entsprechende Anwendung.
@@ -5094,13 +4578,9 @@ gerichtet werden, wenn
     Entscheidung umfasst sind, in verschiedenen Mitgliedstaaten befinden
     könnten oder
 
-
-2.  die Vollstreckung in einen bestimmten Vermögensgegenstand oder wegen
-    eines Geldbetrages es erfordert, das Ersuchen an mehrere
+2.  die Vollstreckung in einen bestimmten Vermögensgegenstand oder
+    wegen eines Geldbetrages es erfordert, das Ersuchen an mehrere
     Mitgliedstaaten zu richten.
-
-
-
 
 (2) Noch nicht erledigte Ersuchen sind zurückzunehmen, sobald die
 Voraussetzungen nach Absatz 1 nicht mehr vorliegen.
@@ -5117,21 +4597,19 @@ wenn eine Entscheidung nach § 76 des Strafgesetzbuchs erfolgt ist.
 ### Abschnitt 4 - Bewährungsmaßnahmen und alternative Sanktionen
 
 
-
 #### Unterabschnitt 1 - Überwachung von ausländischen Bewährungsmaßnahmen und alternativen Sanktionen in der Bundesrepublik Deutschland
-
 
 
 ##### § 90a Grundsatz
 
 (1) Nach diesem Unterabschnitt richtet sich die Vollstreckungshilfe
 für einen anderen Mitgliedstaat der Europäischen Union nach Maßgabe
-des Rahmenbeschlusses 2008/947/JI des Rates vom 27. November 2008 über
-die Anwendung des Grundsatzes der gegenseitigen Anerkennung auf
+des Rahmenbeschlusses 2008/947/JI des Rates vom 27. November 2008
+über die Anwendung des Grundsatzes der gegenseitigen Anerkennung auf
 Urteile und Bewährungsentscheidungen im Hinblick auf die Überwachung
 von Bewährungsmaßnahmen und alternativen Sanktionen (ABl. L 337 vom
-16\.12.2008, S. 102), der durch den Rahmenbeschluss 2009/299/JI (ABl. L
-81 vom 27.3.2009, S. 24) geändert worden ist (Rahmenbeschluss
+16\.12.2008, S. 102), der durch den Rahmenbeschluss 2009/299/JI (ABl.
+L 81 vom 27.3.2009, S. 24) geändert worden ist (Rahmenbeschluss
 Bewährungsüberwachung).
 
 (2) Die Vorschriften des Vierten Teils sowie die allgemeinen
@@ -5140,12 +4618,8 @@ anzuwenden,
 
 1.  soweit dieser Unterabschnitt keine besonderen Regelungen enthält oder
 
-
 2.  wenn ein Ersuchen nicht nach Maßgabe des Rahmenbeschlusses
     Bewährungsüberwachung gestellt wurde.
-
-
-
 
 (3) Dieser Unterabschnitt geht den völkerrechtlichen Vereinbarungen
 nach § 1 Absatz 3 vor, soweit er abschließende Regelungen enthält.
@@ -5153,44 +4627,35 @@ nach § 1 Absatz 3 vor, soweit er abschließende Regelungen enthält.
 
 ##### § 90b Voraussetzungen der Zulässigkeit
 
-(1) In Abweichung von § 49 sind die Vollstreckung eines ausländischen
-Erkenntnisses und die Überwachung der darauf beruhenden
+(1) In Abweichung von § 49 sind die Vollstreckung eines
+ausländischen Erkenntnisses und die Überwachung der darauf beruhenden
 Bewährungsmaßnahmen oder alternativen Sanktionen im Einklang mit dem
 Rahmenbeschluss Bewährungsüberwachung nur zulässig, wenn
 
 1.  ein Gericht eines anderen Mitgliedstaates ein rechtskräftiges und
     vollstreckbares Erkenntnis erlassen hat,
 
-
 2.  das Gericht
 
     a)  die Vollstreckung einer in dem Erkenntnis verhängten
         freiheitsentziehenden Sanktion zur Bewährung ausgesetzt hat,
 
-
     b)  die Vollstreckung des Restes einer in dem Erkenntnis verhängten
         freiheitsentziehenden Sanktion ausgesetzt hat oder
-
 
     c)  gegen die verurteilte Person eine der in Nummer 6 genannten
         alternativen Sanktionen verhängt hat und für den Fall des Verstoßes
         gegen die Sanktion eine freiheitsentziehende Sanktion bestimmt hat,
-
-
-
-
 
 3.  die durch das Gericht verhängte oder gemäß Nummer 2 Buchstabe c
     bestimmte freiheitsentziehende Sanktion in den Fällen des § 90h Absatz
     5 in eine Sanktion umgewandelt werden kann, die ihr im deutschen Recht
     am meisten entspricht,
 
-
 4.  auch nach deutschem Recht, ungeachtet etwaiger Verfahrenshindernisse
     und gegebenenfalls bei sinngemäßer Umstellung des Sachverhalts, wegen
     der dem Erkenntnis zugrunde liegenden Tat eine Strafe, Maßregel der
     Besserung und Sicherung oder Geldbuße hätte verhängt werden können,
-
 
 5.  die verurteilte Person
 
@@ -5198,12 +4663,7 @@ Rahmenbeschluss Bewährungsüberwachung nur zulässig, wenn
         Deutschland rechtmäßig ihren gewöhnlichen Aufenthalt hat und kein
         Verfahren zur Beendigung des Aufenthalts durchgeführt wird, und
 
-
     b)  sich in der Bundesrepublik Deutschland aufhält, und
-
-
-
-
 
 6.  der verurteilten Person eine der folgenden Bewährungsmaßnahmen
     auferlegt wurde oder gegen sie eine der folgenden alternativen
@@ -5212,52 +4672,40 @@ Rahmenbeschluss Bewährungsüberwachung nur zulässig, wenn
     a)  die Verpflichtung, einer bestimmten Behörde jeden Wohnsitzwechsel oder
         Arbeitsplatzwechsel mitzuteilen,
 
-
     b)  die Verpflichtung, bestimmte Orte, Plätze oder festgelegte Gebiete in
         dem anderen Mitgliedstaat oder in der Bundesrepublik Deutschland nicht
         zu betreten,
 
-
     c)  eine Verpflichtung, die Beschränkungen für das Verlassen des Gebietes
         der Bundesrepublik Deutschland beinhaltet,
 
-
-    d)  eine Verpflichtung, die das Verhalten, den Aufenthalt, die Ausbildung
-        und Schulung oder die Freizeitgestaltung betrifft oder die
-        Beschränkungen oder Modalitäten der Ausübung einer beruflichen
+    d)  eine Verpflichtung, die das Verhalten, den Aufenthalt, die
+        Ausbildung und Schulung oder die Freizeitgestaltung betrifft oder
+        die Beschränkungen oder Modalitäten der Ausübung einer beruflichen
         Tätigkeit beinhaltet,
-
 
     e)  die Verpflichtung, sich zu bestimmten Zeiten bei einer bestimmten
         Behörde zu melden,
 
-
     f)  die Verpflichtung, den Kontakt mit bestimmten Personen zu meiden,
-
 
     g)  die Verpflichtung, den Kontakt mit bestimmten Gegenständen zu meiden,
         die von der verurteilten Person für die Begehung einer Straftat
         verwendet wurden oder verwendet werden könnten,
 
-
     h)  die Verpflichtung, den durch die Tat verursachten Schaden finanziell
         wiedergutzumachen,
-
 
     i)  die Verpflichtung, einen Nachweis darüber zu erbringen, dass die
         Verpflichtung nach Buchstabe h eingehalten wurde,
 
-
     j)  die Verpflichtung, einen Nachweis darüber zu erbringen, dass der
         Schaden finanziell wiedergutgemacht wurde,
 
-
     k)  die Verpflichtung, eine gemeinnützige Leistung zu erbringen,
-
 
     l)  die Verpflichtung, mit einer Bewährungshelferin oder einem
         Bewährungshelfer zusammenzuarbeiten,
-
 
     m)  die Verpflichtung, sich einer Heilbehandlung, die mit einem
         körperlichen Eingriff verbunden ist, oder einer Entziehungskur zu
@@ -5265,20 +4713,16 @@ Rahmenbeschluss Bewährungsüberwachung nur zulässig, wenn
         Erziehungsberechtigter und ihr gesetzlicher Vertreter hierzu ihre
         Einwilligung erklärt haben,
 
-
     n)  die Verpflichtung, nach Kräften den durch die Tat verursachten Schaden
         wiedergutzumachen,
-
 
     o)  die Verpflichtung einer Person, die zur Tatzeit das 21. Lebensjahr
         noch nicht vollendet hatte, sich persönlich bei der verletzten Person
         zu entschuldigen,
 
-
     p)  die Verpflichtung, einen Geldbetrag zugunsten einer gemeinnützigen
         Einrichtung zu zahlen, wenn dies im Hinblick auf die Tat und die
         Persönlichkeit des Täters angebracht ist, oder
-
 
     q)  andere Verpflichtungen, die geeignet sind, der verurteilten Person zu
         helfen, keine Straftaten mehr zu begehen, oder die die Lebensführung
@@ -5286,22 +4730,16 @@ Rahmenbeschluss Bewährungsüberwachung nur zulässig, wenn
         Lebensjahr noch nicht vollendet hat, regeln und dadurch ihre Erziehung
         fördern und sichern sollen.
 
-
-
-
-
-
 Die Entscheidung nach Satz 1 Nummer 2 Buchstabe b kann anstatt durch
 ein Gericht auch durch eine andere zuständige Behörde des anderen
 Mitgliedstaates getroffen werden.
 
-(2) Abweichend von Absatz 1 Satz 1 Nummer 4 sind die Vollstreckung des
-Erkenntnisses und die Überwachung der darauf beruhenden
-Bewährungsmaßnahmen oder alternativen Sanktionen in
-Steuer-,              Zoll- und Währungsangelegenheiten auch zulässig,
-wenn das deutsche Recht keine gleichartigen Steuer-, Zoll- und
-Währungsbestimmungen enthält wie das Recht des anderen
-Mitgliedstaates.
+(2) Abweichend von Absatz 1 Satz 1 Nummer 4 sind die Vollstreckung
+des Erkenntnisses und die Überwachung der darauf beruhenden
+Bewährungsmaßnahmen oder alternativen Sanktionen in Steuer-, Zoll- und
+Währungsangelegenheiten auch zulässig, wenn das deutsche Recht keine
+gleichartigen Steuer-, Zoll- und Währungsbestimmungen enthält wie das
+Recht des anderen Mitgliedstaates.
 
 (3) Die Überwachung von Bewährungsmaßnahmen oder alternativen
 Sanktionen, nicht aber die Vollstreckung des ausländischen
@@ -5314,31 +4752,21 @@ Erkenntnisses ist auch zulässig, wenn
         Fall des Verstoßes gegen die Sanktion keine freiheitsentziehende
         Sanktion bestimmt hat,
 
-
     b)  die Straffestsetzung dadurch bedingt zurückgestellt hat, dass der
         verurteilten Person eine oder mehrere Bewährungsmaßnahmen auferlegt
         wurden, oder
 
-
     c)  der verurteilten Person eine oder mehrere Bewährungsmaßnahmen statt
         einer freiheitsentziehenden Sanktion auferlegt hat,
-
-
-
-
 
 2.  abweichend von Absatz 1 Satz 1 Nummer 3 die freiheitsentziehende
     Sanktion in den Fällen des § 90h Absatz 5 nicht in eine Sanktion
     umgewandelt werden kann, die ihr im deutschen Recht am meisten
     entspricht, oder
 
-
-3.  abweichend von Absatz 1 Satz 1 Nummer 4 nach deutschem Recht wegen der
-    Tat, die dem Erkenntnis zugrunde liegt, keine Strafe, Maßregel der
+3.  abweichend von Absatz 1 Satz 1 Nummer 4 nach deutschem Recht wegen
+    der Tat, die dem Erkenntnis zugrunde liegt, keine Strafe, Maßregel der
     Besserung und Sicherung oder Geldbuße verhängt werden könnte.
-
-
-
 
 
 ##### § 90c Ergänzende Zulässigkeitsvoraussetzungen
@@ -5351,10 +4779,8 @@ zulässig, wenn
     des Strafgesetzbuchs oder strafrechtlich nicht verantwortlich nach § 3
     des Jugendgerichtsgesetzes war,
 
-
 2.  die verurteilte Person zu der Verhandlung, die dem Erkenntnis zugrunde
     liegt, nicht persönlich erschienen ist,
-
 
 3.  die verurteilte Person
 
@@ -5362,38 +4788,30 @@ zulässig, wenn
         einem anderen Mitgliedstaat, als dem, in dem gegen sie das Erkenntnis
         ergangen ist, rechtskräftig abgeurteilt worden ist und
 
-
     b)  zu einer Sanktion verurteilt worden ist und diese bereits vollstreckt
         worden ist, gerade vollstreckt wird oder nach dem Recht des
         Urteilsstaates nicht mehr vollstreckt werden kann oder
-
-
-
-
 
 4.  für die Tat, die dem Erkenntnis zugrunde liegt, auch die deutsche
     Gerichtsbarkeit begründet ist und die Vollstreckung nach deutschem
     Recht verjährt ist oder bei sinngemäßer Umstellung des Sachverhalts
     verjährt wäre.
 
-
-
-
 (2) In Abweichung von Absatz 1 Nummer 4 und § 90b Absatz 1 Satz 1
 Nummer 4 können die Vollstreckung eines in einem anderen Mitgliedstaat
 verhängten Erkenntnisses und die Überwachung der darauf beruhenden
 Bewährungsmaßnahmen oder alternativen Sanktionen für zulässig erklärt
-werden, wenn die verurteilte Person dies beantragt hat. Der Antrag der
-verurteilten Person nach Satz 1 ist zu Protokoll eines Richters zu
+werden, wenn die verurteilte Person dies beantragt hat. Der Antrag
+der verurteilten Person nach Satz 1 ist zu Protokoll eines Richters zu
 erklären. Der Antrag kann nicht zurückgenommen werden. Die verurteilte
 Person ist zuvor über die Rechtsfolgen ihres Antrags und darüber zu
 belehren, dass dieser nicht zurückgenommen werden kann. Liegen die in
-§ 90b Absatz 1 Satz 1 Nummer 4 genannten Voraussetzungen nicht vor, so
-beträgt das Höchstmaß bei der Umwandlung der Sanktion nach § 90h
+§ 90b Absatz 1 Satz 1 Nummer 4 genannten Voraussetzungen nicht vor,
+so beträgt das Höchstmaß bei der Umwandlung der Sanktion nach § 90h
 Absatz 4 und 5 zwei Jahre Freiheitsentzug.
 
-(3) In Abweichung von Absatz 1 Nummer 2 sind die Vollstreckung des
-Erkenntnisses und die Überwachung der darauf beruhenden
+(3) In Abweichung von Absatz 1 Nummer 2 sind die Vollstreckung
+des Erkenntnisses und die Überwachung der darauf beruhenden
 Bewährungsmaßnahmen oder alternativen Sanktionen auch zulässig, wenn
 
 1.  die verurteilte Person
@@ -5403,60 +4821,44 @@ Bewährungsmaßnahmen oder alternativen Sanktionen auch zulässig, wenn
         aa) persönlich zu der Verhandlung, die zu dem Erkenntnis geführt hat,
             geladen wurde oder
 
-
         bb) auf andere Weise tatsächlich offiziell von dem vorgesehenen Termin und
             Ort der Verhandlung, die zu dem Erkenntnis geführt hat, in Kenntnis
             gesetzt wurde, so dass zweifelsfrei nachgewiesen wurde, dass die
             verurteilte Person von der anberaumten Verhandlung Kenntnis hatte, und
 
-
-
-
-
     b)  dabei darauf hingewiesen wurde, dass ein Erkenntnis auch in ihrer
         Abwesenheit ergehen kann,
-
-
-
-
 
 2.  die verurteilte Person in Kenntnis des gegen sie gerichteten
     Verfahrens, an dem ein Verteidiger beteiligt war, eine persönliche
     Ladung durch Flucht verhindert hat oder
 
-
 3.  die verurteilte Person in Kenntnis der anberaumten Verhandlung einen
     Verteidiger bevollmächtigt hat, sie in der Verhandlung zu verteidigen,
     und sie durch diesen in der Verhandlung tatsächlich verteidigt wurde.
 
-
-
-
-(4) In Abweichung von Absatz 1 Nummer 2 sind die Vollstreckung des
-Erkenntnisses und die Überwachung der darauf beruhenden
+(4) In Abweichung von Absatz 1 Nummer 2 sind die Vollstreckung
+des Erkenntnisses und die Überwachung der darauf beruhenden
 Bewährungsmaßnahmen oder alternativen Sanktionen auch zulässig, wenn
 die verurteilte Person nach Zustellung des Erkenntnisses
 
 1.  ausdrücklich erklärt hat, das ergangene Erkenntnis nicht anzufechten
     oder
 
-
 2.  innerhalb geltender Fristen keine Wiederaufnahme des Verfahrens oder
     kein Berufungsverfahren beantragt hat.
 
-
-
 Die verurteilte Person muss zuvor ausdrücklich über ihr Recht auf
-Wiederaufnahme des Verfahrens oder auf ein Berufungsverfahren, an dem
-sie teilnehmen kann und bei dem der Sachverhalt, einschließlich neuer
-Beweismittel, erneut geprüft und die ursprüngliche Entscheidung
+Wiederaufnahme des Verfahrens oder auf ein Berufungsverfahren, an
+dem sie teilnehmen kann und bei dem der Sachverhalt, einschließlich
+neuer Beweismittel, erneut geprüft und die ursprüngliche Entscheidung
 aufgehoben werden kann, belehrt worden sein.
 
 
 ##### § 90d Unterlagen
 
-(1) Die Vollstreckung eines ausländischen Erkenntnisses und die
-Überwachung der darauf beruhenden Bewährungsmaßnahmen oder
+(1) Die Vollstreckung eines ausländischen Erkenntnisses und
+die Überwachung der darauf beruhenden Bewährungsmaßnahmen oder
 alternativen Sanktionen nach Maßgabe des Rahmenbeschlusses
 Bewährungsüberwachung sind nur zulässig, wenn durch den anderen
 Mitgliedstaat das Original oder eine beglaubigte Abschrift des
@@ -5466,8 +4868,8 @@ dem Formblatt in Anhang I des Rahmenbeschlusses Bewährungsüberwachung
 in der jeweils gültigen Fassung entspricht.
 
 (2) Liegt eine Bescheinigung nach Absatz 1 vor, ist diese jedoch
-unvollständig, so kann die zuständige Behörde auf die Vorlage einer
-vervollständigten Bescheinigung verzichten, wenn sich die
+unvollständig, so kann die zuständige Behörde auf die Vorlage
+einer vervollständigten Bescheinigung verzichten, wenn sich die
 erforderlichen Angaben aus dem zu vollstreckenden Erkenntnis oder aus
 anderen beigefügten Unterlagen ergeben.
 
@@ -5487,37 +4889,27 @@ Bedingungen erfüllt sind:
         unvollständig oder entspricht offensichtlich nicht dem ausländischen
         Erkenntnis oder der Bewährungsentscheidung und
 
-
     b)  der andere Mitgliedstaat hat diese Angaben nicht vollständig oder
         berichtigt nachgereicht,
-
-
-
-
 
 2.  das Erkenntnis soll gegen eine Person mit deutscher
     Staatsangehörigkeit vollstreckt werden, die ihren gewöhnlichen
     Wohnsitz nicht in der Bundesrepublik Deutschland hat,
 
-
 3.  die Tat wurde zu einem wesentlichen Teil in der Bundesrepublik
     Deutschland oder in einem der in § 4 des Strafgesetzbuchs genannten
     Verkehrsmittel begangen oder
 
-
 4.  die Dauer der Bewährungsmaßnahme oder der alternativen Sanktion
     beträgt weniger als sechs Monate.
 
-
-
-
 (2) Die Bewilligung einer nach den §§ 90b bis 90d zulässigen
-Vollstreckung eines ausländischen Erkenntnisses, nicht aber die darauf
-beruhende Überwachung von Bewährungsmaßnahmen oder alternativen
+Vollstreckung eines ausländischen Erkenntnisses, nicht aber die
+darauf beruhende Überwachung von Bewährungsmaßnahmen oder alternativen
 Sanktionen, kann ferner abgelehnt werden, wenn die Staatsanwaltschaft
 oder das Gericht festgestellt hat, dass das ausländische Erkenntnis
-nur teilweise vollstreckbar ist und mit der zuständigen Behörde des
-anderen Mitgliedstaates keine Einigung darüber erzielen konnte,
+nur teilweise vollstreckbar ist und mit der zuständigen Behörde
+des anderen Mitgliedstaates keine Einigung darüber erzielen konnte,
 inwieweit das Erkenntnis vollstreckt werden soll.
 
 
@@ -5525,9 +4917,9 @@ inwieweit das Erkenntnis vollstreckt werden soll.
 
 (1) Über die Bewilligung der Vollstreckung des ausländischen
 Erkenntnisses und die Überwachung der darauf beruhenden
-Bewährungsmaßnahmen oder alternativen Sanktionen entscheidet die nach
-§ 50 Satz 2 und § 51 zuständige Staatsanwaltschaft. Sie gibt der
-verurteilten Person Gelegenheit, sich zu äußern. Hiervon kann
+Bewährungsmaßnahmen oder alternativen Sanktionen entscheidet die
+nach § 50 Satz 2 und § 51 zuständige Staatsanwaltschaft. Sie gibt
+der verurteilten Person Gelegenheit, sich zu äußern. Hiervon kann
 abgesehen werden, wenn bereits eine Stellungnahme der verurteilten
 Person vorliegt.
 
@@ -5538,12 +4930,12 @@ des ausländischen Erkenntnisses und die Zulässigkeit der Überwachung
 der Bewährungsmaßnahmen oder alternativen Sanktionen.
 
 (3) Bewilligt die Staatsanwaltschaft die Vollstreckung des
-ausländischen Erkenntnisses und die Überwachung der darauf beruhenden
-Bewährungsmaßnahmen oder alternativen Sanktionen in der Bundesrepublik
-Deutschland nicht, begründet sie diese Entscheidung. Die
-Staatsanwaltschaft stellt der verurteilten Person die Entscheidung zu,
-sofern sich die verurteilte Person mit der Vollstreckung des
-ausländischen Erkenntnisses und der Überwachung der
+ausländischen Erkenntnisses und die Überwachung der darauf
+beruhenden Bewährungsmaßnahmen oder alternativen Sanktionen
+in der Bundesrepublik Deutschland nicht, begründet sie diese
+Entscheidung. Die Staatsanwaltschaft stellt der verurteilten Person
+die Entscheidung zu, sofern sich die verurteilte Person mit der
+Vollstreckung des ausländischen Erkenntnisses und der Überwachung der
 Bewährungsmaßnahmen oder alternativen Sanktionen in der Bundesrepublik
 Deutschland einverstanden erklärt hat. Die verurteilte Person kann
 binnen zwei Wochen nach Zustellung einen Antrag auf gerichtliche
@@ -5552,13 +4944,13 @@ Absatz 2 der Strafprozessordnung über Rechtsmittel und die §§ 42 bis
 47 der Strafprozessordnung über Fristen und Wiedereinsetzung in den
 vorigen Stand gelten entsprechend.
 
-(4) Statt die Überwachung der Bewährungsmaßnahmen oder alternativen
-Sanktionen zusammen mit der Vollstreckung des ausländischen
-Erkenntnisses nach Absatz 3 nicht zu bewilligen, kann die
-Staatsanwaltschaft auch allein die Überwachung der Bewährungsmaßnahmen
-oder alternativen Sanktionen bewilligen. Die Staatsanwaltschaft
-begründet diese Entscheidung in dem Antrag auf gerichtliche
-Entscheidung über die Zulässigkeit der Überwachung von
+(4) Statt die Überwachung der Bewährungsmaßnahmen oder
+alternativen Sanktionen zusammen mit der Vollstreckung des
+ausländischen Erkenntnisses nach Absatz 3 nicht zu bewilligen,
+kann die Staatsanwaltschaft auch allein die Überwachung der
+Bewährungsmaßnahmen oder alternativen Sanktionen bewilligen. Die
+Staatsanwaltschaft begründet diese Entscheidung in dem Antrag auf
+gerichtliche Entscheidung über die Zulässigkeit der Überwachung von
 Bewährungsmaßnahmen oder alternativen Sanktionen.
 
 
@@ -5569,8 +4961,8 @@ auf Antrag der Staatsanwaltschaft nach § 90f Absatz 2 und 4 Satz 2
 oder auf Antrag der verurteilten Person nach § 90f Absatz 3 Satz 3.
 Die Staatsanwaltschaft bereitet die Entscheidung vor.
 
-(2) Das Gericht übersendet der verurteilten Person eine Abschrift der
-in § 90d aufgeführten Unterlagen, soweit dies zur Ausübung ihrer
+(2) Das Gericht übersendet der verurteilten Person eine Abschrift
+der in § 90d aufgeführten Unterlagen, soweit dies zur Ausübung ihrer
 Rechte erforderlich ist.
 
 (3) Bei einem Antrag der Staatsanwaltschaft auf gerichtliche
@@ -5583,8 +4975,8 @@ verurteilte Person wird aufgefordert, sich innerhalb einer vom Gericht
 zu bestimmenden Frist zu dem Antrag der Staatsanwaltschaft zu äußern.
 
 (4) Für die gerichtliche Vorbereitung der Entscheidung gilt § 52
-Absatz 1 mit der Maßgabe entsprechend, dass der zuständigen Behörde im
-anderen Mitgliedstaat auch Gelegenheit gegeben worden sein muss,
+Absatz 1 mit der Maßgabe entsprechend, dass der zuständigen Behörde
+im anderen Mitgliedstaat auch Gelegenheit gegeben worden sein muss,
 ergänzende Unterlagen beizubringen, wenn die übermittelten Unterlagen
 nicht ausreichen, um beurteilen zu können, ob die Staatsanwaltschaft
 ihr Ermessen fehlerfrei ausgeübt hat. Für die Beibringung der
@@ -5592,8 +4984,8 @@ Unterlagen kann eine Frist gesetzt werden.
 
 (5) § 30 Absatz 2 Satz 2 gilt entsprechend mit der Maßgabe, dass das
 Gericht auch Beweis darüber erheben kann, ob die Staatsanwaltschaft
-ihr Ermessen fehlerfrei ausgeübt hat. § 30 Absatz 2 Satz 4, Absatz 3
-sowie § 31 Absatz 1 und 4 gelten entsprechend. Befindet sich die
+ihr Ermessen fehlerfrei ausgeübt hat. § 30 Absatz 2 Satz 4, Absatz
+3 sowie § 31 Absatz 1 und 4 gelten entsprechend. Befindet sich die
 verurteilte Person im Geltungsbereich dieses Gesetzes, so gelten auch
 § 30 Absatz 2 Satz 1 sowie § 31 Absatz 2 und 3 entsprechend.
 
@@ -5604,15 +4996,15 @@ verurteilte Person im Geltungsbereich dieses Gesetzes, so gelten auch
 2, 3 und 4 entscheidet das Landgericht durch Beschluss.
 
 (2) Sind die Vorschriften über den Antrag auf gerichtliche
-Entscheidung durch die verurteilte Person nach § 90f Absatz 3 Satz 3
-und 4 nicht beachtet, so verwirft das Gericht den Antrag als
+Entscheidung durch die verurteilte Person nach § 90f Absatz 3 Satz
+3 und 4 nicht beachtet, so verwirft das Gericht den Antrag als
 unzulässig. Der Beschluss ist unanfechtbar.
 
 (3) In Abweichung von § 54 Absatz 1 erklärt das Gericht das
 ausländische Erkenntnis gemäß § 50 Satz 1 und § 55 unter dem
 Vorbehalt, dass die Strafaussetzung widerrufen oder gegen die
-verurteilte Person die zuvor bestimmte freiheitsentziehende Sanktion
-verhängt wird, für vollstreckbar und die Überwachung der
+verurteilte Person die zuvor bestimmte freiheitsentziehende
+Sanktion verhängt wird, für vollstreckbar und die Überwachung der
 Bewährungsmaßnahmen oder alternativen Sanktionen für zulässig, soweit
 die Vollstreckung des ausländischen Erkenntnisses und die Überwachung
 der Bewährungsmaßnahmen oder alternativen Sanktionen zulässig sind und
@@ -5621,16 +5013,12 @@ die Staatsanwaltschaft
 1.  ihr Ermessen, Bewilligungshindernisse nach § 90e nicht geltend zu
     machen, fehlerfrei ausgeübt hat oder
 
-
 2.  ihr Ermessen, Bewilligungshindernisse nach § 90e geltend zu machen,
     fehlerhaft ausgeübt hat und eine andere Ermessensentscheidung nicht
-    gerechtfertigt ist; kommt jedoch eine andere Ermessensentscheidung in
-    Betracht, hebt das Gericht die Entscheidung der Staatsanwaltschaft auf
-    und reicht ihr die Akten zur erneuten Ermessensausübung unter
+    gerechtfertigt ist; kommt jedoch eine andere Ermessensentscheidung
+    in Betracht, hebt das Gericht die Entscheidung der Staatsanwaltschaft
+    auf und reicht ihr die Akten zur erneuten Ermessensausübung unter
     Beachtung der Rechtsansicht des Gerichts zurück.
-
-
-
 
 (4) Überschreitet die freiheitsentziehende Sanktion, die durch das
 ausländische Erkenntnis verhängt worden ist, das Höchstmaß, das im
@@ -5647,15 +5035,12 @@ freiheitsentziehende Sanktion um, wenn
     Art nach keiner Sanktion entspricht, die das im Geltungsbereich dieses
     Gesetzes geltende Recht vorsieht oder
 
-
 2.  die verurteilte Person zur Zeit der Tat das 21. Lebensjahr noch nicht
     vollendet hat; § 54 Absatz 3 gilt entsprechend.
 
-
-
 Für die Höhe der umgewandelten Sanktion ist das ausländische
-Erkenntnis maßgebend; die umgewandelte Sanktion darf nach Art oder
-Dauer die im anderen Mitgliedstaat verhängte Sanktion nicht
+Erkenntnis maßgebend; die umgewandelte Sanktion darf nach Art
+oder Dauer die im anderen Mitgliedstaat verhängte Sanktion nicht
 verschärfen.
 
 (6) In Abweichung von Absatz 3 wird allein die Überwachung der
@@ -5668,56 +5053,43 @@ wenn
     a)  ihr Ermessen, Bewilligungshindernisse nach § 90e Absatz 1 nicht
         geltend zu machen, fehlerfrei ausgeübt hat oder
 
-
-    b)  ihr Ermessen, Bewilligungshindernisse nach § 90e Absatz 1 geltend zu
-        machen, fehlerhaft ausgeübt hat und eine andere Ermessensentscheidung
-        nicht gerechtfertigt ist; kommt jedoch eine andere
-        Ermessensentscheidung in Betracht, hebt das Gericht die Entscheidung
-        der Staatsanwaltschaft auf und reicht ihr die Akten zur erneuten
-        Ermessensausübung unter Beachtung der Rechtsauffassung des Gerichts
-        zurück oder
-
-
-
-
+    b)  ihr Ermessen, Bewilligungshindernisse nach § 90e Absatz 1
+        geltend zu machen, fehlerhaft ausgeübt hat und eine andere
+        Ermessensentscheidung nicht gerechtfertigt ist; kommt jedoch eine
+        andere Ermessensentscheidung in Betracht, hebt das Gericht die
+        Entscheidung der Staatsanwaltschaft auf und reicht ihr die Akten zur
+        erneuten Ermessensausübung unter Beachtung der Rechtsauffassung des
+        Gerichts zurück oder
 
 2.  die Staatsanwaltschaft ihr Ermessen, das Bewilligungshindernis nach §
     90e Absatz 2 geltend zu machen, fehlerfrei ausgeübt hat.
 
-
-
-
 (7) In seiner Entscheidung nach den Absätzen 3 und 6 wandelt das
 Gericht die der verurteilten Person auferlegten Bewährungsmaßnahmen
-oder die gegen sie verhängten alternativen Sanktionen in die ihnen im
-deutschen Recht am meisten entsprechenden Auflagen und Weisungen um,
-wenn
+oder die gegen sie verhängten alternativen Sanktionen in die ihnen
+im deutschen Recht am meisten entsprechenden Auflagen und Weisungen
+um, wenn
 
 1.  die auferlegten Bewährungsmaßnahmen oder die verhängten alternativen
     Sanktionen ihrer Art nach den Auflagen und Weisungen nicht
     entsprechen, die das im Geltungsbereich dieses Gesetzes geltende Recht
     vorsieht,
 
-
 2.  die Voraussetzungen für den Erlass der Auflagen und Weisungen nach dem
     im Geltungsbereich dieses Gesetzes geltenden Recht nicht erfüllt sind,
-
 
 3.  die auferlegten Bewährungsmaßnahmen oder die verhängten alternativen
     Sanktionen an die Lebensführung der verurteilten Person unzumutbare
     Anforderungen stellen oder
 
-
 4.  die auferlegten Bewährungsmaßnahmen oder die verhängten alternativen
     Sanktionen nicht hinreichend bestimmt sind.
-
-
 
 Sieht das ausländische Erkenntnis oder die Bewährungsentscheidung eine
 Bewährungszeit oder Führungsaufsicht von mehr als fünf Jahren vor, so
 senkt das Gericht die Dauer der Bewährungszeit oder Führungsaufsicht
-außer in den Fällen des § 68c Absatz 2 und 3 des Strafgesetzbuchs auf
-das Höchstmaß von fünf Jahren. Wäre nach deutschem Recht
+außer in den Fällen des § 68c Absatz 2 und 3 des Strafgesetzbuchs
+auf das Höchstmaß von fünf Jahren. Wäre nach deutschem Recht
 Jugendstrafrecht anzuwenden, gilt Satz 2 mit der Maßgabe, dass im Fall
 einer Bewährungszeit oder Führungsaufsicht von mehr als drei Jahren
 das Höchstmaß drei Jahre beträgt. § 55 Absatz 1 Satz 2 gilt mit der
@@ -5732,15 +5104,15 @@ die Dauer der Bewährungszeit anzugeben sind.
 Erkenntnisses und die Überwachung der Bewährungsmaßnahmen oder
 alternativen Sanktionen nur bewilligen, wenn das Gericht das
 ausländische Erkenntnis für vollstreckbar erklärt hat und die
-Überwachung der Bewährungsmaßnahmen oder alternativen Sanktionen für
-zulässig erklärt hat. Hat das Gericht allein die Überwachung für
+Überwachung der Bewährungsmaßnahmen oder alternativen Sanktionen
+für zulässig erklärt hat. Hat das Gericht allein die Überwachung für
 zulässig erklärt, so darf die Staatsanwaltschaft nur die Überwachung
 bewilligen.
 
-(2) Die Staatsanwaltschaft bewilligt die Vollstreckung und die
-Überwachung nach Maßgabe der rechtskräftigen gerichtlichen
-Entscheidung. Über die Bewilligung soll innerhalb von 60 Tagen nach
-Eingang der in § 90d bezeichneten Unterlagen bei der
+(2) Die Staatsanwaltschaft bewilligt die Vollstreckung und
+die Überwachung nach Maßgabe der rechtskräftigen gerichtlichen
+Entscheidung. Über die Bewilligung soll innerhalb von 60 Tagen
+nach Eingang der in § 90d bezeichneten Unterlagen bei der
 Staatsanwaltschaft entschieden werden. Eine endgültig ablehnende
 Bewilligungsentscheidung ist zu begründen.
 
@@ -5752,17 +5124,17 @@ Bewilligungsentscheidung ist zu begründen.
 (1) Nach der Bewilligung der Vollstreckung des ausländischen
 Erkenntnisses und der Überwachung der darauf beruhenden
 Bewährungsmaßnahmen überwacht das für die Entscheidung nach § 90h
-zuständige Gericht während der Bewährungszeit die Lebensführung der
-verurteilten Person, namentlich die Erfüllung von Auflagen und
-Weisungen sowie von Anerbieten und Zusagen. Das Gericht trifft alle
-nachträglichen Entscheidungen, die sich auf eine
+zuständige Gericht während der Bewährungszeit die Lebensführung
+der verurteilten Person, namentlich die Erfüllung von Auflagen
+und Weisungen sowie von Anerbieten und Zusagen. Das Gericht
+trifft alle nachträglichen Entscheidungen, die sich auf eine
 Vollstreckungsaussetzung zur Bewährung beziehen, soweit der andere
-Mitgliedstaat die Überwachung ausgesetzt hat. Wurde die verhängte oder
-zuvor bestimmte freiheitsentziehende Sanktion gemäß § 90h Absatz 5
-Satz 1 Nummer 2 in eine nach dem Jugendgerichtsgesetz zulässige
-Sanktion umgewandelt, so richtet sich die Zuständigkeit für die
-Überwachung der Lebensführung der verurteilten Person und für alle
-nachträglichen Entscheidungen, die sich auf eine
+Mitgliedstaat die Überwachung ausgesetzt hat. Wurde die verhängte
+oder zuvor bestimmte freiheitsentziehende Sanktion gemäß § 90h
+Absatz 5 Satz 1 Nummer 2 in eine nach dem Jugendgerichtsgesetz
+zulässige Sanktion umgewandelt, so richtet sich die Zuständigkeit
+für die Überwachung der Lebensführung der verurteilten Person
+und für alle nachträglichen Entscheidungen, die sich auf eine
 Vollstreckungsaussetzung zur Bewährung beziehen, nach den Bestimmungen
 des Jugendgerichtsgesetzes.
 
@@ -5770,9 +5142,9 @@ des Jugendgerichtsgesetzes.
 Person eine oder mehrere der in § 90b Absatz 1 Satz 1 Nummer 6
 genannten alternativen Sanktionen verhängt und für den Fall des
 Verstoßes gegen die alternativen Sanktionen eine freiheitsentziehende
-Sanktion bestimmt (§ 90b Absatz 1 Satz 1 Nummer 2 Buchstabe c), so
-gilt Absatz 1 mit der Maßgabe, dass das Gericht die Einhaltung der
-alternativen Sanktionen überwacht und gegebenenfalls gegen die
+Sanktion bestimmt (§ 90b Absatz 1 Satz 1 Nummer 2 Buchstabe c),
+so gilt Absatz 1 mit der Maßgabe, dass das Gericht die Einhaltung
+der alternativen Sanktionen überwacht und gegebenenfalls gegen die
 verurteilte Person die zuvor bestimmte freiheitsentziehende Sanktion
 verhängt, wenn es entsprechend den §§ 56f und 67g des Strafgesetzbuchs
 oder entsprechend § 26 des Jugendgerichtsgesetzes die Aussetzung der
@@ -5780,21 +5152,16 @@ Vollstreckung einer freiheitsentziehenden Sanktion widerrufen würde.
 
 (3) Das Gericht belehrt die verurteilte Person über
 
-1.  die Bedeutung der Aussetzung der Strafe oder Maßregel zur Bewährung,
-    über die Bedeutung der alternativen Sanktionen oder der
+1.  die Bedeutung der Aussetzung der Strafe oder Maßregel zur
+    Bewährung, über die Bedeutung der alternativen Sanktionen oder der
     Führungsaufsicht,
-
 
 2.  die Dauer der Bewährungszeit oder Führungsaufsicht,
 
-
 3.  die Bewährungsmaßnahmen und
-
 
 4.  die Möglichkeit, die Aussetzung zu widerrufen oder die zuvor bestimmte
     freiheitsentziehende Sanktion zu verhängen.
-
-
 
 Hat das Gericht Auflagen und Weisungen nach § 90h Absatz 7 in
 Weisungen nach § 68b Absatz 1 des Strafgesetzbuchs umgewandelt, so
@@ -5813,16 +5180,13 @@ und Überwachung nur abzusehen, wenn
     Wiederaufnahmeverfahrens, einer Amnestie oder einer Gnadenentscheidung
     entfallen sind oder
 
-
 2.  die verurteilte Person aus der Bundesrepublik Deutschland geflohen
     ist.
 
-
-
 Von der Vollstreckung und Überwachung kann ferner abgesehen werden,
 wenn die verurteilte Person keinen rechtmäßigen gewöhnlichen
-Aufenthalt in der Bundesrepublik Deutschland mehr hat oder der andere
-Mitgliedstaat ein Strafverfahren in anderer Sache gegen die
+Aufenthalt in der Bundesrepublik Deutschland mehr hat oder der
+andere Mitgliedstaat ein Strafverfahren in anderer Sache gegen die
 verurteilte Person führt und um ein Absehen von der Vollstreckung und
 Überwachung ersucht hat.
 
@@ -5848,17 +5212,13 @@ nachträglichen Entscheidungen:
 1.  die Verkürzung der Bewährungszeit oder Führungsaufsicht auf das
     Mindestmaß,
 
-
 2.  die Verlängerung der Bewährungszeit oder Führungsaufsicht auf das
     Höchstmaß und
 
-
 3.  die Erteilung, Änderung und Aufhebung von Auflagen und Weisungen,
-    einschließlich der Weisung, die verurteilte Person für die Dauer oder
-    für einen Teil der Bewährungszeit der Aufsicht und Leitung einer
+    einschließlich der Weisung, die verurteilte Person für die Dauer
+    oder für einen Teil der Bewährungszeit der Aufsicht und Leitung einer
     Bewährungshelferin oder eines Bewährungshelfers zu unterstellen.
-
-
 
 § 90j Absatz 1 Satz 3 gilt entsprechend.
 
@@ -5868,16 +5228,12 @@ alternativen Sanktionen wird von der Überwachung abgesehen, wenn
 1.  eine zuständige Stelle des anderen Mitgliedstaates mitteilt, dass die
     Voraussetzungen für die Überwachung entfallen sind,
 
-
-2.  die verurteilte Person aus der Bundesrepublik Deutschland geflohen ist
-    oder
-
+2.  die verurteilte Person aus der Bundesrepublik Deutschland geflohen
+    ist oder
 
 3.  das Gericht eine Aussetzung zur Bewährung widerrufen würde oder eine
     freiheitsentziehende Sanktion gegen die verurteilte Person verhängen
     würde.
-
-
 
 § 90j Absatz 4 Satz 2 gilt entsprechend.
 
@@ -5885,17 +5241,13 @@ alternativen Sanktionen wird von der Überwachung abgesehen, wenn
 Mitgliedstaates unverzüglich über
 
 1.  jeglichen Verstoß gegen eine Bewährungsmaßnahme oder alternative
-    Sanktion, wenn es gemäß Absatz 1 während der Bewährungszeit allein die
-    Lebensführung der verurteilten Person und die Einhaltung der
+    Sanktion, wenn es gemäß Absatz 1 während der Bewährungszeit allein
+    die Lebensführung der verurteilten Person und die Einhaltung der
     Bewährungsmaßnahmen und alternativen Sanktionen überwacht,
-
 
 2.  die nachträglichen Entscheidungen nach Absatz 2 und
 
-
 3.  das Absehen von der Überwachung nach Absatz 3.
-
-
 
 Für die Unterrichtung nach Satz 1 Nummer 1 und 2 und die Unterrichtung
 über das Absehen von der Überwachung nach Satz 1 Nummer 3 in
@@ -5904,35 +5256,31 @@ Rahmenbeschlusses Bewährungsüberwachung wiedergegebene Formblatt zu
 verwenden.
 
 (5) § 90j Absatz 3 gilt entsprechend mit der Maßgabe, dass das Gericht
-die verurteilte Person anstatt über die Möglichkeit, die Aussetzung zu
-widerrufen oder die zuvor bestimmte freiheitsentziehende Sanktion nach
-§ 90j Absatz 3 Satz 1 Nummer 4 zu verhängen, über die Möglichkeit
+die verurteilte Person anstatt über die Möglichkeit, die Aussetzung
+zu widerrufen oder die zuvor bestimmte freiheitsentziehende Sanktion
+nach § 90j Absatz 3 Satz 1 Nummer 4 zu verhängen, über die Möglichkeit
 belehrt, von der Überwachung nach Absatz 3 Satz 1 Nummer 3 abzusehen.
 
 
 #### Unterabschnitt 2 - Überwachung von deutschen Bewährungsmaßnahmen in einem anderen Mitgliedstaat der Europäischen Union
 
 
-
 ##### § 90l Bewilligung der Vollstreckung und Überwachung
 
-(1) In Abweichung von § 71 kann die Vollstreckungsbehörde nach Maßgabe
-des Rahmenbeschlusses Bewährungsüberwachung einem anderen
+(1) In Abweichung von § 71 kann die Vollstreckungsbehörde nach
+Maßgabe des Rahmenbeschlusses Bewährungsüberwachung einem anderen
 Mitgliedstaat Folgendes übertragen:
 
 1.  die Vollstreckung einer im Geltungsbereich dieses Gesetzes verhängten
     freiheitsentziehenden Sanktion, deren Vollstreckung oder weitere
     Vollstreckung zur Bewährung ausgesetzt wurde, und
 
-
 2.  die Überwachung der Auflagen und Weisungen, die der verurteilten
     Person für die Dauer oder für einen Teil der Bewährungszeit erteilt
     wurden.
 
-
-
-Die Vollstreckung nach Satz 1 Nummer 1 kann nur zusammen mit der
-Überwachung nach Satz 1 Nummer 2 übertragen werden. Die
+Die Vollstreckung nach Satz 1 Nummer 1 kann nur zusammen mit
+der Überwachung nach Satz 1 Nummer 2 übertragen werden. Die
 Vollstreckungsbehörde gibt der verurteilten Person Gelegenheit, sich
 zu äußern. Hiervon kann abgesehen werden, wenn die verurteilte Person
 einen Antrag auf Übertragung der Vollstreckung und Überwachung an den
@@ -5947,30 +5295,30 @@ werden. Die verurteilte Person ist über die Rechtsfolgen ihres
 Einverständnisses und dessen Unwiderruflichkeit zu belehren.
 
 (3) Die Vollstreckungsbehörde hat die verurteilte Person über die
-Entscheidung, ein Ersuchen um Vollstreckung und Überwachung an einen
-anderen Mitgliedstaat zu stellen, schriftlich zu unterrichten. Hält
-sich die verurteilte Person im Hoheitsbereich des anderen
+Entscheidung, ein Ersuchen um Vollstreckung und Überwachung an
+einen anderen Mitgliedstaat zu stellen, schriftlich zu unterrichten.
+Hält sich die verurteilte Person im Hoheitsbereich des anderen
 Mitgliedstaates auf, darf die Vollstreckungsbehörde dessen zuständige
 Behörde bitten, die Unterrichtung an die verurteilte Person
 weiterzuleiten. Dem Ersuchen um Vollstreckung sind alle abgegebenen
 Stellungnahmen der verurteilten Person und ihres gesetzlichen
 Vertreters in schriftlicher Form beizufügen.
 
-(4) Die Vollstreckungsbehörde kann ein Ersuchen um Vollstreckung und
-Überwachung zurücknehmen, wenn der andere Mitgliedstaat mit der
+(4) Die Vollstreckungsbehörde kann ein Ersuchen um Vollstreckung
+und Überwachung zurücknehmen, wenn der andere Mitgliedstaat mit der
 Überwachung noch nicht begonnen hat.
 
 (5) Bewilligt die Vollstreckungsbehörde nicht, dass die Vollstreckung
-einer freiheitsentziehenden Sanktion nach Absatz 1 Satz 1 Nummer 1 und
-die Überwachung der Auflagen und Weisungen nach Absatz 1 Satz 1 Nummer
-2 an einen anderen Mitgliedstaat übertragen werden, oder nimmt sie ein
-Ersuchen gemäß Absatz 4 zurück, so begründet sie diese Entscheidung.
-Die Vollstreckungsbehörde stellt die Entscheidung der verurteilten
-Person zu, sofern die verurteilte Person der Vollstreckung und
-Überwachung in dem anderen Mitgliedstaat zugestimmt hat. Die
-verurteilte Person kann binnen zwei Wochen nach Zustellung einen
-Antrag auf gerichtliche Entscheidung stellen. Die §§ 297 bis 300 und
-302 Absatz 1 Satz 1, Absatz 2 der Strafprozessordnung über
+einer freiheitsentziehenden Sanktion nach Absatz 1 Satz 1 Nummer 1
+und die Überwachung der Auflagen und Weisungen nach Absatz 1 Satz
+1 Nummer 2 an einen anderen Mitgliedstaat übertragen werden, oder
+nimmt sie ein Ersuchen gemäß Absatz 4 zurück, so begründet sie diese
+Entscheidung. Die Vollstreckungsbehörde stellt die Entscheidung
+der verurteilten Person zu, sofern die verurteilte Person der
+Vollstreckung und Überwachung in dem anderen Mitgliedstaat zugestimmt
+hat. Die verurteilte Person kann binnen zwei Wochen nach Zustellung
+einen Antrag auf gerichtliche Entscheidung stellen. Die §§ 297 bis
+300 und 302 Absatz 1 Satz 1, Absatz 2 der Strafprozessordnung über
 Rechtsmittel und die §§ 42 bis 47 der Strafprozessordnung über Fristen
 und Wiedereinsetzung in den vorigen Stand gelten entsprechend.
 
@@ -5978,76 +5326,72 @@ und Wiedereinsetzung in den vorigen Stand gelten entsprechend.
 ##### § 90m Gerichtliches Verfahren auf Antrag der verurteilten Person
 
 (1) Das nach § 71 Absatz 4 Satz 2 und 3 zuständige Oberlandesgericht
-entscheidet auf Antrag der verurteilten Person nach § 90l Absatz 5
-Satz 3 durch Beschluss. Die Vollstreckungsbehörde bereitet die
-Entscheidung vor. § 13 Absatz 1 Satz 2, § 30 Absatz 2 Satz 2 und 4,
-Absatz 3, § 31 Absatz 1 und 4 sowie die §§ 33, 42 und 53 gelten
+entscheidet auf Antrag der verurteilten Person nach § 90l Absatz
+5 Satz 3 durch Beschluss. Die Vollstreckungsbehörde bereitet die
+Entscheidung vor. § 13 Absatz 1 Satz 2, § 30 Absatz 2 Satz 2 und
+4, Absatz 3, § 31 Absatz 1 und 4 sowie die §§ 33, 42 und 53 gelten
 entsprechend. Befindet sich die verurteilte Person im Geltungsbereich
 dieses Gesetzes, so gelten auch § 30 Absatz 2 Satz 1 sowie § 31 Absatz
 2 und 3 entsprechend.
 
 (2) Sind die Vorschriften über den Antrag auf gerichtliche
-Entscheidung durch die verurteilte Person nach § 90l Absatz 5 Satz 3
-und 4 nicht beachtet, so verwirft das Gericht den Antrag als
+Entscheidung durch die verurteilte Person nach § 90l Absatz 5 Satz
+3 und 4 nicht beachtet, so verwirft das Gericht den Antrag als
 unzulässig.
 
 (3) Der Antrag der verurteilten Person auf gerichtliche Entscheidung
 wird durch Beschluss als unbegründet zurückgewiesen, wenn
 
-1.  es nach Maßgabe des Rahmenbeschlusses Bewährungsüberwachung und gemäß
-    § 90l Absatz 1 unzulässig ist, die Vollstreckung eines im
+1.  es nach Maßgabe des Rahmenbeschlusses Bewährungsüberwachung und
+    gemäß § 90l Absatz 1 unzulässig ist, die Vollstreckung eines im
     Geltungsbereich dieses Gesetzes ergangenen Erkenntnisses und die
     Überwachung der darauf beruhenden Auflagen und Weisungen an einen
     anderen Mitgliedstaat zu übertragen, oder
 
-
 2.  die Vollstreckungsbehörde ihr Ermessen nach § 90l Absatz 1 Satz 1 und
     Absatz 4 fehlerfrei ausgeübt hat.
 
-
-
-
 (4) Soweit der Antrag der verurteilten Person auf gerichtliche
-Entscheidung zulässig und begründet und eine andere als die von der
-Vollstreckungsbehörde getroffene Ermessensentscheidung nicht
+Entscheidung zulässig und begründet und eine andere als die von
+der Vollstreckungsbehörde getroffene Ermessensentscheidung nicht
 gerechtfertigt ist, erklärt das Gericht die Vollstreckung der
 freiheitsentziehenden Sanktion nach § 90l Absatz 1 Satz 1 Nummer 1 und
-die Überwachung der Auflagen und Weisungen nach § 90l Absatz 1 Satz 1
-Nummer 2 in dem anderen Mitgliedstaat für zulässig. Kommt jedoch eine
-andere Ermessensentscheidung in Betracht, hebt das Gericht die
+die Überwachung der Auflagen und Weisungen nach § 90l Absatz 1 Satz
+1 Nummer 2 in dem anderen Mitgliedstaat für zulässig. Kommt jedoch
+eine andere Ermessensentscheidung in Betracht, hebt das Gericht die
 Entscheidung der Vollstreckungsbehörde auf und reicht ihr die Akten
 zur erneuten Ermessensausübung unter Beachtung der Rechtsauffassung
 des Gerichts zurück.
 
-(5) Die Vollstreckungsbehörde bewilligt die Vollstreckung und die
-Überwachung in dem anderen Mitgliedstaat nach Maßgabe der
-rechtskräftigen gerichtlichen Entscheidung. Die
+(5) Die Vollstreckungsbehörde bewilligt die Vollstreckung
+und die Überwachung in dem anderen Mitgliedstaat nach
+Maßgabe der rechtskräftigen gerichtlichen Entscheidung. Die
 Bewilligungsentscheidung ist unanfechtbar.
 
 
 ##### § 90n Inländisches Vollstreckungsverfahren
 
-(1) Die deutsche Vollstreckungsbehörde sieht von der Vollstreckung und
-Überwachung ab, soweit der andere Mitgliedstaat sie übernommen und
-durchgeführt hat. Sie kann die Vollstreckung und Überwachung
+(1) Die deutsche Vollstreckungsbehörde sieht von der Vollstreckung
+und Überwachung ab, soweit der andere Mitgliedstaat sie übernommen
+und durchgeführt hat. Sie kann die Vollstreckung und Überwachung
 fortsetzen, sobald der andere Mitgliedstaat ihr mitgeteilt hat, dass
 er von der weiteren Vollstreckung und Überwachung absieht.
 
-(2) Hat der andere Mitgliedstaat die Auflagen und Weisungen, die der
-verurteilten Person für die Dauer oder für einen Teil der
-Bewährungszeit erteilt wurden, umgewandelt oder nachträglich geändert,
-so wandelt das zuständige Gericht die Auflagen und Weisungen
-entsprechend § 90h Absatz 7 Satz 1 um. Zuständig ist das Gericht, das
-für die nach § 453 der Strafprozessordnung oder nach § 58 des
+(2) Hat der andere Mitgliedstaat die Auflagen und Weisungen,
+die der verurteilten Person für die Dauer oder für einen Teil
+der Bewährungszeit erteilt wurden, umgewandelt oder nachträglich
+geändert, so wandelt das zuständige Gericht die Auflagen und Weisungen
+entsprechend § 90h Absatz 7 Satz 1 um. Zuständig ist das Gericht,
+das für die nach § 453 der Strafprozessordnung oder nach § 58 des
 Jugendgerichtsgesetzes zu treffenden Entscheidungen zuständig ist.
 
-(3) Hat der andere Mitgliedstaat die Bewährungszeit um mehr als die
-Hälfte der zunächst bestimmten Bewährungszeit verlängert, so senkt das
-Gericht die Dauer der Bewährungszeit auf dieses Höchstmaß, sofern die
-verlängerte Bewährungszeit fünf Jahre überschreitet. War nach
-deutschem Recht Jugendstrafrecht anzuwenden, gilt Satz 2 mit der
-Maßgabe, dass das Höchstmaß vier Jahre beträgt. Die Leistungen, die
-die verurteilte Person zur Erfüllung von Auflagen, Anerbieten,
+(3) Hat der andere Mitgliedstaat die Bewährungszeit um mehr als
+die Hälfte der zunächst bestimmten Bewährungszeit verlängert, so
+senkt das Gericht die Dauer der Bewährungszeit auf dieses Höchstmaß,
+sofern die verlängerte Bewährungszeit fünf Jahre überschreitet. War
+nach deutschem Recht Jugendstrafrecht anzuwenden, gilt Satz 2 mit
+der Maßgabe, dass das Höchstmaß vier Jahre beträgt. Die Leistungen,
+die die verurteilte Person zur Erfüllung von Auflagen, Anerbieten,
 Weisungen oder Zusagen im anderen Mitgliedstaat erbracht hat, werden
 angerechnet.
 
@@ -6055,15 +5399,14 @@ angerechnet.
 ### Abschnitt 5 - Überwachung von Maßnahmen zur Vermeidung von Untersuchungshaft
 
 
-
 #### § 90o Grundsatz
 
-(1) Nach diesem Abschnitt richtet sich die Vollstreckungshilfe für und
-die Vollstreckungsabgabe an einen anderen Mitgliedstaat der
-Europäischen Union nach Maßgabe des Rahmenbeschlusses 2009/829/JI des
-Rates vom 23. Oktober 2009 über die Anwendung – zwischen den
-Mitgliedstaaten der Europäischen Union – des Grundsatzes der
-gegenseitigen Anerkennung auf Entscheidungen über
+(1) Nach diesem Abschnitt richtet sich die Vollstreckungshilfe
+für und die Vollstreckungsabgabe an einen anderen Mitgliedstaat
+der Europäischen Union nach Maßgabe des Rahmenbeschlusses
+2009/829/JI des Rates vom 23. Oktober 2009 über die Anwendung
+– zwischen den Mitgliedstaaten der Europäischen Union – des
+Grundsatzes der gegenseitigen Anerkennung auf Entscheidungen über
 Überwachungsmaßnahmen als Alternative zur Untersuchungshaft (ABl. L
 294 vom 11.11.2009, S. 20) (Rahmenbeschluss Überwachungsanordnung).
 
@@ -6079,9 +5422,9 @@ Regelungen enthält.
 #### § 90p Voraussetzungen der Zulässigkeit
 
 (1) Auflagen und Weisungen, die ein anderer Mitgliedstaat der
-Europäischen Union nach Maßgabe seines innerstaatlichen Rechts und
-Verfahrens gegen eine natürliche Person zur Vermeidung der
-Untersuchungshaft verhängt hat (Maßnahmen), können in der
+Europäischen Union nach Maßgabe seines innerstaatlichen Rechts
+und Verfahrens gegen eine natürliche Person zur Vermeidung
+der Untersuchungshaft verhängt hat (Maßnahmen), können in der
 Bundesrepublik Deutschland überwacht werden. Die Überwachung ist nur
 zulässig, wenn
 
@@ -6090,25 +5433,18 @@ zulässig, wenn
     der der Entscheidung zugrunde liegenden Tat eine Strafe oder Maßregel
     der Besserung und Sicherung verhängt werden könnte,
 
-
 2.  die zu überwachende Person sich, nach Unterrichtung über die
     Maßnahmen, mit einer Rückkehr in die Bundesrepublik Deutschland oder
     einem Verbleib dort einverstanden erklärt,
-
 
 3.  die zu überwachende Person
 
     a)  die deutsche Staatsangehörigkeit besitzt oder in der Bundesrepublik
         Deutschland rechtmäßig ihren gewöhnlichen Aufenthalt hat oder
 
-
     b)  beabsichtigt, umgehend ihren gewöhnlichen Aufenthalt in der
         Bundesrepublik Deutschland zu begründen, und die Voraussetzungen für
         die Einreise in das Bundesgebiet und den Aufenthalt darin erfüllt und
-
-
-
-
 
 4.  eine oder mehrere der folgenden Maßnahmen überwacht werden soll
     beziehungsweise sollen:
@@ -6116,57 +5452,42 @@ zulässig, wenn
     a)  die Verpflichtung, einer bestimmten Behörde jeden Wohnsitzwechsel
         mitzuteilen,
 
-
-    b)  die Verpflichtung, bestimmte Orte, Plätze oder festgelegte Gebiete in
-        der Bundesrepublik Deutschland oder im anderen Mitgliedstaat nicht zu
-        betreten,
-
+    b)  die Verpflichtung, bestimmte Orte, Plätze oder festgelegte Gebiete
+        in der Bundesrepublik Deutschland oder im anderen Mitgliedstaat nicht
+        zu betreten,
 
     c)  die Verpflichtung, sich, gegebenenfalls zu einer bestimmten Zeit, an
         einem bestimmten Ort aufzuhalten,
 
-
     d)  eine Verpflichtung, mit der das Verlassen der Bundesrepublik
         Deutschland eingeschränkt wird,
-
 
     e)  die Verpflichtung, sich zu bestimmten Zeiten bei einer bestimmten
         Behörde zu melden,
 
-
     f)  die Verpflichtung, den Kontakt mit bestimmten Personen zu meiden,
-
 
     g)  die Verpflichtung, sich bestimmter Aktivitäten, die mit der zur Last
         gelegten Straftat im Zusammenhang stehen, zu enthalten,
-
 
     h)  die Verpflichtung, einen bestimmten angemessenen Geldbetrag zu
         hinterlegen oder eine andere Sicherheitsleistung zu erbringen,
         entweder in festgelegten Raten oder als Gesamtbetrag,
 
-
     i)  die Verpflichtung, den Kontakt mit bestimmten Gegenständen, die mit
         der zur Last gelegten Straftat im Zusammenhang stehen, zu meiden.
 
-
-
-
-
-
-
-(2) Abweichend von Absatz 1 Satz 2 Nummer 1 ist die Überwachung von
-Maßnahmen in Steuer-, Zoll- und Währungsangelegenheiten auch zulässig,
-wenn das deutsche Recht keine gleichartigen Steuer-, Zoll- und
-Währungsbestimmungen enthält wie das Recht des anderen
+(2) Abweichend von Absatz 1 Satz 2 Nummer 1 ist die Überwachung
+von Maßnahmen in Steuer-, Zoll- und Währungsangelegenheiten auch
+zulässig, wenn das deutsche Recht keine gleichartigen Steuer-,
+Zoll- und Währungsbestimmungen enthält wie das Recht des anderen
 Mitgliedstaates.
 
 (3) Die Überwachung einer Maßnahme ist unzulässig, wenn
 
-1.  die zu überwachende Person im Zeitpunkt der Tat nach § 19 des
-    Strafgesetzbuchs schuldunfähig oder nach § 3 des
+1.  die zu überwachende Person im Zeitpunkt der Tat nach §
+    19 des Strafgesetzbuchs schuldunfähig oder nach § 3 des
     Jugendgerichtsgesetzes strafrechtlich nicht verantwortlich war,
-
 
 2.  die zu überwachende Person
 
@@ -6174,20 +5495,12 @@ Mitgliedstaates.
         einem anderen Mitgliedstaat als dem, in dem gegen sie die Entscheidung
         ergangen ist, rechtskräftig abgeurteilt worden ist und
 
-
     b)  im Falle der Verurteilung zu einer Sanktion diese bereits vollstreckt
         worden ist, gerade vollstreckt wird oder nach dem Recht des
         Urteilsstaates nicht mehr vollstreckt werden kann oder
 
-
-
-
-
 3.  bei Straftaten, für die auch die deutsche Gerichtsbarkeit begründet
     ist, die Strafverfolgung nach deutschem Recht verjährt wäre.
-
-
-
 
 
 #### § 90q Unterlagen
@@ -6216,22 +5529,16 @@ der Maßnahmen kann nur abgelehnt werden, wenn
     Mitgliedstaat diese Angaben nicht vollständig oder berichtigt
     nachgereicht hat,
 
-
 2.  es im Falle eines Verstoßes gegen eine Maßnahme abgelehnt werden
     müsste, die zu überwachende Person auszuliefern,
-
 
 3.  im Falle einer Person, die ihren rechtmäßigen gewöhnlichen Aufenthalt
     in der Bundesrepublik Deutschland hat, ein Verfahren zur Beendigung
     des Aufenthaltes durchgeführt wird oder
 
-
 4.  im Falle des § 90p Absatz 1 Satz 2 Nummer 3 Buchstabe b die
     Überwachung der zu überwachenden Person im Einzelfall in einem anderen
     Mitgliedstaat besser gewährleistet werden kann.
-
-
-
 
 
 #### § 90s Vorläufige Bewilligungsentscheidung
@@ -6245,19 +5552,15 @@ vorliegt.
 
 (3) Entscheidet die Staatsanwaltschaft, die Bewilligungshindernisse
 nach § 90r nicht geltend zu machen, begründet sie diese Entscheidung
-in dem Antrag auf gerichtliche Entscheidung über die Zulässigkeit der
-Überwachungsübernahme. Die zuständige Behörde des anderen
+in dem Antrag auf gerichtliche Entscheidung über die Zulässigkeit
+der Überwachungsübernahme. Die zuständige Behörde des anderen
 Mitgliedstaates ist bereits vor Stellung des Antrags auf gerichtliche
 Entscheidung durch die Staatsanwaltschaft zu unterrichten über
 
 1.  die Gründe, warum es im Falle eines Verstoßes gegen eine Maßnahme
     abgelehnt werden müsste, die zu überwachende Person auszuliefern, und
 
-
 2.  die Nichtgeltendmachung des Bewilligungshindernisses.
-
-
-
 
 (4) Bewilligt die Staatsanwaltschaft die Übernahme der Überwachung
 nicht, begründet sie diese Entscheidung. Die Staatsanwaltschaft stellt
@@ -6278,8 +5581,8 @@ Stand gelten entsprechend.
 bereitet die Entscheidung vor.
 
 (2) Für die gerichtliche Vorbereitung der Entscheidung gilt § 52
-Absatz 1 mit der Maßgabe entsprechend, dass der zuständigen Behörde im
-anderen Mitgliedstaat auch Gelegenheit gegeben worden sein muss,
+Absatz 1 mit der Maßgabe entsprechend, dass der zuständigen Behörde
+im anderen Mitgliedstaat auch Gelegenheit gegeben worden sein muss,
 ergänzende Unterlagen beizubringen, wenn die übermittelten Unterlagen
 nicht ausreichen, um beurteilen zu können, ob die Staatsanwaltschaft
 ihr Ermessen fehlerfrei ausgeübt hat. Das Gericht kann für die
@@ -6287,22 +5590,22 @@ Beibringung der Unterlagen eine Frist setzen.
 
 (3) § 30 Absatz 2 Satz 2 gilt entsprechend mit der Maßgabe, dass das
 Gericht auch Beweis darüber erheben kann, ob die Staatsanwaltschaft
-ihr Ermessen fehlerfrei ausgeübt hat. § 30 Absatz 2 Satz 4, Absatz 3
-sowie § 31 Absatz 1 und 4 gelten entsprechend. Befindet sich die
+ihr Ermessen fehlerfrei ausgeübt hat. § 30 Absatz 2 Satz 4, Absatz
+3 sowie § 31 Absatz 1 und 4 gelten entsprechend. Befindet sich die
 verurteilte Person im Geltungsbereich dieses Gesetzes, so gelten auch
 § 30 Absatz 2 Satz 1 sowie § 31 Absatz 2 und 3 entsprechend.
 
 
 #### § 90u Gerichtliche Zulässigkeitsentscheidung
 
-(1) Über die Anträge auf gerichtliche Entscheidung nach § 90s Absatz 3
-Satz 1 und Absatz 4 Satz 3 entscheidet das Amtsgericht durch
+(1) Über die Anträge auf gerichtliche Entscheidung nach § 90s Absatz
+3 Satz 1 und Absatz 4 Satz 3 entscheidet das Amtsgericht durch
 Beschluss. In der Beschlussformel sind bei einer stattgebenden
 Entscheidung die zu überwachenden Maßnahmen genau zu bestimmen.
 
 (2) Sind die Vorschriften über den Antrag auf gerichtliche
-Entscheidung durch die zu überwachende Person nach § 90s Absatz 4 Satz
-3 nicht beachtet worden, so verwirft das Gericht den Antrag als
+Entscheidung durch die zu überwachende Person nach § 90s Absatz 4
+Satz 3 nicht beachtet worden, so verwirft das Gericht den Antrag als
 unzulässig. Der Beschluss ist unanfechtbar.
 
 (3) Das Gericht ordnet die Überwachung der Maßnahmen an, wenn diese
@@ -6311,17 +5614,13 @@ zulässig ist und
 1.  die Staatsanwaltschaft ihr Ermessen, Bewilligungshindernisse nach §
     90r nicht geltend zu machen, fehlerfrei ausgeübt hat oder
 
-
-2.  die Staatsanwaltschaft ihr Ermessen, Bewilligungshindernisse nach §
-    90r geltend zu machen, fehlerhaft ausgeübt hat und eine andere
+2.  die Staatsanwaltschaft ihr Ermessen, Bewilligungshindernisse nach
+    § 90r geltend zu machen, fehlerhaft ausgeübt hat und eine andere
     Ermessensentscheidung nicht gerechtfertigt ist; kommt jedoch eine
     andere Ermessensentscheidung in Betracht, hebt das Gericht die
     Entscheidung der Staatsanwaltschaft auf und reicht ihr die Akten zur
     erneuten Ermessensausübung unter Beachtung der Rechtsauffassung des
     Gerichts zurück.
-
-
-
 
 (4) Das Gericht wandelt die der zu überwachenden Person auferlegten
 Maßnahmen um, wenn
@@ -6329,10 +5628,7 @@ Maßnahmen um, wenn
 1.  die Voraussetzungen für die Maßnahmen nach dem im Geltungsbereich
     dieses Gesetzes geltenden Recht nicht erfüllt sind oder
 
-
 2.  die auferlegten Überwachungsmaßnahmen nicht hinreichend bestimmt sind.
-
-
 
 Die umgewandelten Maßnahmen müssen so weit wie möglich den vom
 Anordnungsstaat verhängten Maßnahmen entsprechen. Sie dürfen nicht
@@ -6347,10 +5643,10 @@ Satz 2 bleibt unberührt. § 42 ist entsprechend anwendbar.
 
 #### § 90v Bewilligung nach gerichtlicher Entscheidung
 
-(1) Die Staatsanwaltschaft darf die Übernahme der Überwachung nur
-bewilligen, wenn diese durch die gerichtliche Entscheidung für
-zulässig erklärt worden ist. Die Staatsanwaltschaft bewilligt die
-Überwachung nach Maßgabe der vollstreckbaren gerichtlichen
+(1) Die Staatsanwaltschaft darf die Übernahme der Überwachung
+nur bewilligen, wenn diese durch die gerichtliche Entscheidung
+für zulässig erklärt worden ist. Die Staatsanwaltschaft bewilligt
+die Überwachung nach Maßgabe der vollstreckbaren gerichtlichen
 Entscheidung. Diese Bewilligungsentscheidung ist unanfechtbar.
 
 (2) Über die Bewilligung soll innerhalb von 20 Werktagen nach Eingang
@@ -6361,8 +5657,8 @@ zur Bewilligung um weitere 20 Werktage.
 
 (3) Ist es der Staatsanwaltschaft aufgrund außergewöhnlicher Umstände
 nicht möglich, die Fristen nach Absatz 2 einzuhalten, so unterrichtet
-sie unverzüglich die zuständige Behörde des Anordnungsstaates und gibt
-dabei die Gründe für die Verzögerung und die Zeit an, die
+sie unverzüglich die zuständige Behörde des Anordnungsstaates und
+gibt dabei die Gründe für die Verzögerung und die Zeit an, die
 voraussichtlich für eine Entscheidung benötigt wird.
 
 
@@ -6371,26 +5667,24 @@ voraussichtlich für eine Entscheidung benötigt wird.
 (1) Das für die Entscheidung nach § 90u zuständige Gericht überwacht
 die Maßnahmen unverzüglich nach Bewilligung der Überwachungsübernahme
 während des Zeitraums, den die zuständige Behörde des anderen
-Mitgliedstaates angegeben hat. Das Gericht kann die Überwachung ganz
-oder zum Teil an das Gericht abgeben, in dessen Bezirk die zu
-überwachende Person ihren Wohnsitz oder in Ermangelung eines
+Mitgliedstaates angegeben hat. Das Gericht kann die Überwachung
+ganz oder zum Teil an das Gericht abgeben, in dessen Bezirk die
+zu überwachende Person ihren Wohnsitz oder in Ermangelung eines
 Wohnsitzes ihren gewöhnlichen Aufenthalt hat. Die Abgabe ist bindend.
 
 (2) Soweit das Gesetz die Anhörung oder Mitwirkung der
 Staatsanwaltschaft vorsieht, ist diejenige Staatsanwaltschaft
 zuständig, die die gerichtliche Zulässigkeitsentscheidung vorbereitet
-hat. Ihre Zuständigkeit bleibt von einer Abgabe nach Absatz 1 Satz 2
-unberührt.
+hat. Ihre Zuständigkeit bleibt von einer Abgabe nach Absatz 1 Satz
+2 unberührt.
 
 (3) Das Gericht unterrichtet die zuständige Behörde des anderen
 Mitgliedstaates unverzüglich über
 
 1.  jeden Wohnsitzwechsel der zu überwachenden Person,
 
-
 2.  die Tatsache, dass der Aufenthaltsort der zu überwachenden Person im
     Bundesgebiet nicht mehr zu ermitteln ist, und
-
 
 3.  jeden Verstoß gegen eine Maßnahme sowie über Erkenntnisse, die eine
     weitere Entscheidung im Zusammenhang mit einer Entscheidung über
@@ -6398,29 +5692,21 @@ Mitgliedstaates unverzüglich über
     Rahmenbeschlusses Überwachungsanordnung wiedergegebene Formblatt in
     der jeweils gültigen Fassung zu verwenden.
 
-
-
-
 (4) Das Gericht sieht von der Überwachung der Maßnahmen ab, wenn
 
 1.  die zuständige Behörde des anderen Mitgliedstaates die Bescheinigung
     zurücknimmt oder auf andere geeignete Weise mitteilt, dass die
     Überwachung der Maßnahmen zu beenden ist,
 
-
 2.  der Aufenthaltsort der zu überwachenden Person im Bundesgebiet nicht
     mehr zu ermitteln ist,
-
 
 3.  die zu überwachende Person nicht mehr über einen rechtmäßigen
     gewöhnlichen Aufenthalt im Inland verfügt oder
 
-
 4.  die zuständige Behörde des anderen Mitgliedstaates die Maßnahmen so
     geändert hat, dass nunmehr keine Maßnahme im Sinne des § 90p Absatz 1
     Satz 2 Nummer 4 vorliegt.
-
-
 
 Die Entscheidung nach Satz 1 ergeht durch Beschluss.
 
@@ -6432,11 +5718,8 @@ getroffen hat, obwohl das Gericht
 1.  mehrfach die zuständige Behörde des anderen Mitgliedstaates bezüglich
     derselben Person gemäß Absatz 3 Nummer 3 unterrichtet hat und
 
-
 2.  eine angemessene Frist zum Erlass einer weiteren Entscheidung im
     Zusammenhang mit einer Entscheidung über Maßnahmen gesetzt hat.
-
-
 
 Die Entscheidung nach Satz 1 ergeht durch Beschluss.
 
@@ -6449,11 +5732,11 @@ anderen Mitgliedstaates hiervon schriftlich mit Gründen.
 
 Die Vorschriften der §§ 90o bis 90w gelten auch für die Übernahme und
 Überwachung erneuerter oder geänderter Maßnahmen mit der Maßgabe, dass
-bei solchen Entscheidungen keine erneute Prüfung gemäß § 90p Absatz 1
-Satz 2 Nummer 2 und 3, Absatz 3 sowie den §§ 90r und 77 Absatz 2
-stattfindet. Bei Entscheidungen über erneuerte Maßnahmen findet
-zusätzlich keine erneute Prüfung gemäß § 90p Absatz 1 Satz 2 Nummer 4
-statt.
+bei solchen Entscheidungen keine erneute Prüfung gemäß § 90p Absatz
+1 Satz 2 Nummer 2 und 3, Absatz 3 sowie den §§ 90r und 77 Absatz
+2 stattfindet. Bei Entscheidungen über erneuerte Maßnahmen findet
+zusätzlich keine erneute Prüfung gemäß § 90p Absatz 1 Satz 2 Nummer
+4 statt.
 
 
 #### § 90y Abgabe der Überwachung
@@ -6465,24 +5748,20 @@ Rahmenbeschlusses Überwachungsanordnung an einen anderen Mitgliedstaat
 der Europäischen Union übertragen. Die Übertragung ist nur zulässig,
 wenn die zu überwachende Person
 
-1.  in diesem Mitgliedstaat ihren rechtmäßigen gewöhnlichen Aufenthalt hat
-    und
-
+1.  in diesem Mitgliedstaat ihren rechtmäßigen gewöhnlichen Aufenthalt
+    hat und
 
 2.  sich mit einer Rückkehr in diesen Mitgliedstaat einverstanden erklärt
     hat, nachdem sie über die betreffenden Maßnahmen unterrichtet wurde,
     oder
 
-
 3.  sich bereits in diesem Mitgliedstaat aufhält.
-
-
 
 Das Gericht gibt der Staatsanwaltschaft Gelegenheit zur Stellungnahme.
 
-(2) Abweichend von Absatz 1 Satz 2 Nummer 1 und 2 kann das Gericht die
-Überwachung von Maßnahmen an einen anderen Mitgliedstaat der
-Europäischen Union als denjenigen übertragen, in dem die zu
+(2) Abweichend von Absatz 1 Satz 2 Nummer 1 und 2 kann das Gericht
+die Überwachung von Maßnahmen an einen anderen Mitgliedstaat
+der Europäischen Union als denjenigen übertragen, in dem die zu
 überwachende Person ihren rechtmäßigen gewöhnlichen Aufenthalt hat,
 sofern die zu überwachende Person einen entsprechenden Antrag gestellt
 hat.
@@ -6493,11 +5772,7 @@ Mitgliedstaates unverzüglich über
 1.  jede weitere Entscheidung im Zusammenhang mit einer Entscheidung über
     Maßnahmen sowie
 
-
 2.  einen gegen eine Entscheidung über Maßnahmen eingelegten Rechtsbehelf.
-
-
-
 
 (4) Das Gericht kann die zuständige Behörde des anderen
 Mitgliedstaates um Verlängerung der Überwachung der Maßnahmen
@@ -6507,28 +5782,18 @@ ersuchen, wenn
     Zulässigkeit der Überwachung von Maßnahmen einen bestimmten Zeitraum
     angegeben hat,
 
-
 2.  der Zeitraum nach Nummer 1 abgelaufen ist und
 
-
 3.  es die Überwachung der Maßnahmen weiterhin für erforderlich hält.
-
-
-
 
 (5) In einem Ersuchen nach Absatz 4 sind anzugeben:
 
 1.  die Gründe für die Verlängerung,
 
-
 2.  die voraussichtlichen Folgen für die zu überwachende Person, sofern
     die Maßnahmen nicht verlängert werden würden, und
 
-
 3.  der voraussichtliche Zeitraum der Verlängerung.
-
-
-
 
 
 #### § 90z Rücknahme der Überwachungsabgabe
@@ -6541,17 +5806,13 @@ sind. Es kann die Bescheinigung zurücknehmen, wenn
     dass sie die Maßnahmen entsprechend dem dort geltenden Recht angepasst
     hat,
 
-
-2.  die zuständige Behörde des anderen Mitgliedstaates mitgeteilt hat,
-    dass sie die Maßnahmen nur während eines begrenzten Zeitraums
+2.  die zuständige Behörde des anderen Mitgliedstaates mitgeteilt
+    hat, dass sie die Maßnahmen nur während eines begrenzten Zeitraums
     überwachen kann, oder
-
 
 3.  die zuständige Behörde des anderen Mitgliedstaates mitgeteilt hat,
     dass sie es im Falle eines Verstoßes gegen die Maßnahmen ablehnen
     müsste, die zu überwachende Person auszuliefern.
-
-
 
 In den Fällen von Satz 2 hat die Rücknahme vor Beginn der Überwachung
 im anderen Mitgliedstaat und spätestens zehn Tage nach Eingang der
@@ -6565,44 +5826,36 @@ zuständig, wenn
     einen anderen Staat als den avisierten Vollstreckungsstaat verlegt
     hat,
 
-
 2.  das Gericht die Maßnahmen geändert und die zuständige Behörde des
-    anderen Mitgliedstaates es abgelehnt hat, die geänderten Maßnahmen zu
-    überwachen,
-
+    anderen Mitgliedstaates es abgelehnt hat, die geänderten Maßnahmen
+    zu überwachen,
 
 3.  der maximale Überwachungszeitraum, während dessen die Maßnahmen im
     anderen Mitgliedstaat überwacht werden dürfen, abgelaufen ist,
 
-
-4.  die zuständige Behörde des anderen Mitgliedstaates beschlossen hat,
-    die Überwachung der Maßnahmen nach Maßgabe des Artikels 23 des
+4.  die zuständige Behörde des anderen Mitgliedstaates beschlossen
+    hat, die Überwachung der Maßnahmen nach Maßgabe des Artikels 23 des
     Rahmenbeschlusses Überwachungsanordnung einzustellen, und das Gericht
     hiervon unterrichtet hat.
-
-
-
 
 
 ## Zehnter Teil - Sonstiger Rechtshilfeverkehr mit den Mitgliedstaaten der Europäischen Union
 
 
-
 ### Abschnitt 1 - Allgemeine Regelungen
-
 
 
 #### § 91 Vorrang des Zehnten Teils
 
-(1) Soweit dieser Teil keine besonderen Regelungen enthält, finden die
-übrigen Bestimmungen dieses Gesetzes auf den sonstigen
+(1) Soweit dieser Teil keine besonderen Regelungen enthält,
+finden die übrigen Bestimmungen dieses Gesetzes auf den sonstigen
 Rechtshilfeverkehr mit den Mitgliedstaaten der Europäischen Union
 Anwendung.
 
 (2) Dieser Teil geht den in § 1 Abs. 3 genannten völkerrechtlichen
 Vereinbarungen vor, soweit er abschließende Regelungen enthält.
 
-(3) Die §§ 92 bis 92b finden auch im Rahmen des Rechtshilfeverkehrs
+(3) Die §§ 92 bis 92h finden auch im Rahmen des Rechtshilfeverkehrs
 auf die Staaten Anwendung, welche die Bestimmungen des Schengen-
 Besitzstandes auf Grund eines Assoziierungsübereinkommens mit der
 Europäischen Union über die Umsetzung, Anwendung und Entwicklung des
@@ -6612,13 +5865,12 @@ Schengen-Besitzstandes anwenden (Schengenassoziierte Staaten).
 ### Abschnitt 2 - Europäische Ermittlungsanordnung
 
 
-
 #### § 91a Grundsatz
 
 (1) Nach diesem Abschnitt richtet sich die sonstige Rechtshilfe für
 einen anderen Mitgliedstaat der Europäischen Union nach Maßgabe der
-Richtlinie 2014/41/EU des Europäischen Parlaments und des Rates vom 3.
-April 2014 über die Europäische Ermittlungsanordnung in Strafsachen
+Richtlinie 2014/41/EU des Europäischen Parlaments und des Rates vom
+3\. April 2014 über die Europäische Ermittlungsanordnung in Strafsachen
 (ABl. L 130 vom 1.5.2014, S. 1, L 143 vom 9.6.2015, S. 16) (Richtlinie
 Europäische Ermittlungsanordnung).
 
@@ -6627,14 +5879,9 @@ Europäische Ermittlungsanordnung).
 1.  die Bildung von gemeinsamen Ermittlungsgruppen sowie auf die Erhebung
     von Beweismitteln innerhalb einer solchen Ermittlungsgruppe,
 
-
 2.  grenzüberschreitende Observationen und
 
-
 3.  Vernehmungen von Beschuldigten im Wege einer Telefonkonferenz.
-
-
-
 
 (3) Die Sicherstellung von Beweismitteln für oder durch einen anderen
 Mitgliedstaat der Europäischen Union richtet sich nach Absatz 1. Für
@@ -6648,12 +5895,8 @@ dieses Teils sind anzuwenden,
 
 1.  soweit dieser Abschnitt keine besonderen Regelungen enthält oder
 
-
 2.  wenn ein Ersuchen nicht nach Maßgabe der Richtlinie Europäische
     Ermittlungsanordnung gestellt wurde.
-
-
-
 
 
 #### § 91b Voraussetzungen der Zulässigkeit
@@ -6665,22 +5908,14 @@ dieses Teils sind anzuwenden,
     zugrunde liegende Tat diese Voraussetzung auch bei gegebenenfalls
     sinngemäßer Umstellung des Sachverhalts nicht erfüllt oder
 
-
 2.  soweit
 
     a)  Zeugnis- oder Auskunftsverweigerungsrechte, insbesondere nach den §§
         52, 53 oder 55 der Strafprozessordnung, oder hierauf Bezug nehmende
         Vorschriften entgegenstehen oder
 
-
     b)  eine der in § 77 Absatz 2 genannten Vorschriften oder die §§ 18 bis 20
         des Gerichtsverfassungsgesetzes eingreifen.
-
-
-
-
-
-
 
 (2) Ein Ersuchen in Steuer-, Abgaben-, Zoll- oder
 Währungsangelegenheiten ist auch zulässig, wenn das deutsche Recht
@@ -6688,8 +5923,8 @@ keine gleichartigen Steuer-, Abgaben-, Zoll- oder Währungsbestimmungen
 enthält wie das Recht des ersuchenden Mitgliedstaates.
 
 (3) § 73 Satz 2 gilt mit der Maßgabe, dass die Leistung der
-Rechtshilfe nicht zulässig ist, wenn berechtigte Gründe für die
-Annahme bestehen, dass die Erledigung des Ersuchens mit den
+Rechtshilfe nicht zulässig ist, wenn berechtigte Gründe für
+die Annahme bestehen, dass die Erledigung des Ersuchens mit den
 Verpflichtungen der Bundesrepublik Deutschland nach Artikel 6 des
 Vertrags über die Europäische Union und der Charta der Grundrechte der
 Europäischen Union unvereinbar wäre.
@@ -6698,9 +5933,9 @@ Europäischen Union unvereinbar wäre.
 Maßgabe, dass die beiderseitige Strafbarkeit nicht zu prüfen ist, wenn
 die dem Ersuchen zugrunde liegende Tat nach dem Recht des ersuchenden
 Mitgliedstaates einer der in Anhang D der Richtlinie Europäische
-Ermittlungsanordnung aufgeführten Deliktsgruppen zugehörig ist und mit
-einer Freiheitsstrafe oder einer freiheitsentziehenden Maßregel der
-Besserung und Sicherung im Höchstmaß von mindestens drei Jahren
+Ermittlungsanordnung aufgeführten Deliktsgruppen zugehörig ist und
+mit einer Freiheitsstrafe oder einer freiheitsentziehenden Maßregel
+der Besserung und Sicherung im Höchstmaß von mindestens drei Jahren
 bedroht ist.
 
 (5) Ist die Leistung der Rechtshilfe nicht zulässig, ist die
@@ -6723,50 +5958,35 @@ nach § 59 Absatz 3 Rechtshilfe leisten bei
 1.  Ersuchen, die in einem Verfahren nach § 1 Absatz 2 gestellt werden,
     oder
 
-
 2.  Ersuchen um
 
-    a)  Auskunft zu Konten, die bei einem Finanzinstitut im Sinne des Artikels
-        3 Nummer 2 der Richtlinie (EU) 2015/849 des Europäischen Parlaments
-        und des Rates vom 20. Mai 2015 zur Verhinderung der Nutzung des
-        Finanzsystems zum Zwecke der Geldwäsche und der
+    a)  Auskunft zu Konten, die bei einem Finanzinstitut im Sinne des
+        Artikels 3 Nummer 2 der Richtlinie (EU) 2015/849 des Europäischen
+        Parlaments und des Rates vom 20. Mai 2015 zur Verhinderung der
+        Nutzung des Finanzsystems zum Zwecke der Geldwäsche und der
         Terrorismusfinanzierung, zur Änderung der Verordnung (EU) Nr. 648/2012
         des Europäischen Parlaments und des Rates und zur Aufhebung der
         Richtlinie 2005/60/EG des Europäischen Parlaments und des Rates und
         der Richtlinie 2006/70/EG der Kommission (ABl. L 141 vom 5.6.2015, S.
         73) mit Sitz im Inland geführt werden,
 
-
     b)  Auskunft zu einzelnen Kontobewegungen oder zu sonstigen Geschäften,
         die im Zusammenhang mit einem Konto im Sinne von Buchstabe a getätigt
         werden oder
-
 
     c)  Ermittlungsmaßnahmen, die auf eine gewisse Dauer angelegt sind,
         insbesondere Ersuchen um
 
         aa) die Überwachung von einzelnen Kontobewegungen oder von sonstigen
-            Geschäften, die über ein Konto bei einem Kreditinstitut im Sinne von §
-            1 Absatz 1 des Kreditwesengesetzes oder bei einem Finanzinstitut im
+            Geschäften, die über ein Konto bei einem Kreditinstitut im Sinne von
+            § 1 Absatz 1 des Kreditwesengesetzes oder bei einem Finanzinstitut im
             Sinne von Buchstabe a getätigt werden,
-
 
         bb) die Durchführung von kontrollierten Lieferungen,
 
-
         cc) den Einsatz von verdeckten Ermittlern oder
 
-
         dd) die Überwachung der Telekommunikation.
-
-
-
-
-
-
-
-
-
 
 (3) § 62 Absatz 1 gilt mit der Maßgabe, dass die vorübergehende
 Überstellung auch zu anderen als den dort genannten
@@ -6793,24 +6013,20 @@ in der jeweils gültigen Fassung verwendet, das
     Ziffer i der Richtlinie Europäische Ermittlungsanordnung ausgestellt
     wurde oder
 
-
 2.  von einer anderen als in Nummer 1 genannten Stelle, die der ersuchende
     Mitgliedstaat hierfür als zuständig bezeichnet hat, ausgestellt und
     durch eine Stelle gemäß Nummer 1 in Abschnitt L des Formblatts aus
     Anhang A der Richtlinie Europäische Ermittlungsanordnung bestätigt
     wurde.
 
-
-
-
 (2) Der Empfang eines Ersuchens nach Absatz 1 ist unverzüglich,
 spätestens aber binnen einer Woche nach seinem Eingang bei der
-zuständigen Stelle durch eine Mitteilung zu bestätigen, die dem in
-Anhang B der Richtlinie Europäische Ermittlungsanordnung
+zuständigen Stelle durch eine Mitteilung zu bestätigen, die
+dem in Anhang B der Richtlinie Europäische Ermittlungsanordnung
 wiedergegebenen Formblatt in der jeweils gültigen Fassung entspricht.
 Ist ein Ersuchen bei einer nicht zuständigen Stelle eingegangen, ist
-es an die zuständige Stelle weiterzuleiten; die ersuchende Stelle ist
-über die Weiterleitung durch eine Mitteilung nach Satz 1 zu
+es an die zuständige Stelle weiterzuleiten; die ersuchende Stelle
+ist über die Weiterleitung durch eine Mitteilung nach Satz 1 zu
 unterrichten.
 
 (3) Ist ein Formblatt nach Absatz 1 unvollständig oder offensichtlich
@@ -6825,11 +6041,10 @@ erfolgen, die einen schriftlichen Nachweis ermöglicht.
 (1) Die Bewilligung der Rechtshilfe kann nur abgelehnt werden, wenn
 mindestens einer der folgenden Gründe vorliegt:
 
-1.  durch die Bewilligung würden wesentliche Sicherheitsinteressen des
-    Bundes oder der Länder beeinträchtigt, Informationsquellen gefährdet
-    oder eine Verwendung von Verschlusssachen über spezifische
+1.  durch die Bewilligung würden wesentliche Sicherheitsinteressen
+    des Bundes oder der Länder beeinträchtigt, Informationsquellen
+    gefährdet oder eine Verwendung von Verschlusssachen über spezifische
     nachrichtendienstliche Tätigkeit erforderlich,
-
 
 2.  die verfolgte Person wurde wegen derselben Tat, die dem Ersuchen
     zugrunde liegt, bereits von einem anderen als dem ersuchenden
@@ -6838,44 +6053,30 @@ mindestens einer der folgenden Gründe vorliegt:
     oder kann nach dem Recht des Urteilsstaates nicht mehr vollstreckt
     werden,
 
-
 3.  die dem Ersuchen zugrunde liegende Tat
 
-    a)  wurde außerhalb des Hoheitsgebiets des ersuchenden Mitgliedstaates und
-        ganz oder teilweise im Inland oder in einem der in § 4 des
+    a)  wurde außerhalb des Hoheitsgebiets des ersuchenden Mitgliedstaates
+        und ganz oder teilweise im Inland oder in einem der in § 4 des
         Strafgesetzbuchs genannten Verkehrsmittel begangen und
-
 
     b)  ist nach deutschem Recht weder als Straftat mit Strafe noch als
         Ordnungswidrigkeit mit Geldbuße bewehrt,
 
-
-
-
-
 4.  bei Ersuchen um eine vorübergehende Überstellung von Personen aus dem
     ersuchenden Mitgliedstaat für ein dort anhängiges Verfahren gemäß § 63
     stimmt die inhaftierte Person nicht zu,
-
 
 5.  bei Ersuchen um den Einsatz von verdeckten Ermittlern kann mit dem
     ersuchenden Mitgliedstaat keine Einigung über die Dauer des Einsatzes,
     dessen genaue Voraussetzungen oder die Rechtsstellung der Ermittler
     erzielt werden.
 
-
-
-
 (2) Die Bewilligung der Rechtshilfe kann aufgeschoben werden, soweit
 
 1.  sie laufende strafrechtliche Ermittlungen beeinträchtigen könnte oder
 
-
 2.  die Beweismittel, um die ersucht wird, bereits in einem anderen
     Verfahren verwendet werden.
-
-
-
 
 (3) Entscheidungen betreffend die Bewilligung oder den Aufschub der
 Bewilligung sind zu begründen.
@@ -6889,36 +6090,32 @@ werden. § 91b Absatz 5 Satz 2 gilt entsprechend.
 
 #### § 91f Rückgriff auf andere Ermittlungsmaßnahmen
 
-(1) Steht eine weniger einschneidende Ermittlungsmaßnahme als die in
-dem Ersuchen nach § 91d Absatz 1 angegebene zur Verfügung, ist auf
-erstere zurückzugreifen, wenn mit dieser das gleiche Ergebnis erzielt
-werden kann wie mit der in dem Ersuchen angegebenen
+(1) Steht eine weniger einschneidende Ermittlungsmaßnahme als die
+in dem Ersuchen nach § 91d Absatz 1 angegebene zur Verfügung, ist
+auf erstere zurückzugreifen, wenn mit dieser das gleiche Ergebnis
+erzielt werden kann wie mit der in dem Ersuchen angegebenen
 Ermittlungsmaßnahme.
 
-(2) Auf eine andere als die in dem Ersuchen nach § 91d Absatz 1
-angegebene Ermittlungsmaßnahme ist zurückzugreifen, wenn die
+(2) Auf eine andere als die in dem Ersuchen nach § 91d Absatz
+1 angegebene Ermittlungsmaßnahme ist zurückzugreifen, wenn die
 angegebene Ermittlungsmaßnahme
 
 1.  im deutschen Recht nicht vorgesehen ist oder
 
-
 2.  in einem vergleichbaren innerstaatlichen Fall nicht zur Verfügung
     stünde.
 
-
-
-
 (3) Entscheidungen nach den Absätzen 1 und 2 sind zu begründen.
 
-(4) Vor einem Rückgriff auf eine andere Ermittlungsmaßnahme nach den
-Absätzen 1 oder 2 ist die zuständige Stelle des ersuchenden
+(4) Vor einem Rückgriff auf eine andere Ermittlungsmaßnahme nach
+den Absätzen 1 oder 2 ist die zuständige Stelle des ersuchenden
 Mitgliedstaates unverzüglich zu unterrichten. § 91b Absatz 5 Satz 2
 gilt entsprechend.
 
-(5) Gibt es im Fall von Absatz 2 keine andere Ermittlungsmaßnahme, mit
-der das gleiche Ergebnis erzielt werden kann wie mit der im Ersuchen
-nach § 91d Absatz 1 angegebenen Ermittlungsmaßnahme, ist der
-zuständigen Stelle des ersuchenden Mitgliedstaates unverzüglich
+(5) Gibt es im Fall von Absatz 2 keine andere Ermittlungsmaßnahme,
+mit der das gleiche Ergebnis erzielt werden kann wie mit der im
+Ersuchen nach § 91d Absatz 1 angegebenen Ermittlungsmaßnahme, ist
+der zuständigen Stelle des ersuchenden Mitgliedstaates unverzüglich
 mitzuteilen, dass es nicht möglich war, die erbetene Unterstützung zu
 leisten. § 91b Absatz 5 Satz 2 gilt entsprechend.
 
@@ -6933,51 +6130,48 @@ innerhalb von 24 Stunden nach Eingang des Ersuchens entschieden
 werden.
 
 (2) Wenn kein Grund für einen Aufschub nach § 91e Absatz 2 vorliegt
-oder die Beweismittel, um die ersucht wird, sich nicht bereits im
-behördlichen Besitz befinden, soll die Ermittlungsmaßnahme
+oder die Beweismittel, um die ersucht wird, sich nicht bereits
+im behördlichen Besitz befinden, soll die Ermittlungsmaßnahme
 unverzüglich, spätestens aber 90 Tage nach Bewilligung durchgeführt
 werden.
 
 (3) Besonderen Wünschen der zuständigen Stelle des ersuchenden
-Mitgliedstaates, die darin bestehen, dass kürzere als die in Absatz 1
-oder Absatz 2 genannten Fristen einzuhalten oder dass die
+Mitgliedstaates, die darin bestehen, dass kürzere als die in
+Absatz 1 oder Absatz 2 genannten Fristen einzuhalten oder dass die
 Ermittlungsmaßnahmen zu einem bestimmten Zeitpunkt durchzuführen sind,
 ist möglichst weitgehend zu entsprechen.
 
 (4) Können die Frist nach Absatz 1 Satz 1 oder besondere Wünsche nach
 Absatz 3 aus praktischen Gründen nicht eingehalten werden, ist die
 zuständige Stelle des ersuchenden Mitgliedstaates unverzüglich zu
-unterrichten. Dabei sind die Gründe und die voraussichtliche Dauer der
-Verzögerung anzugeben. § 91d Absatz 3 Satz 2 gilt entsprechend. Die
-Frist nach Absatz 1 Satz 1 kann um höchstens 30 Tage verlängert
+unterrichten. Dabei sind die Gründe und die voraussichtliche Dauer
+der Verzögerung anzugeben. § 91d Absatz 3 Satz 2 gilt entsprechend.
+Die Frist nach Absatz 1 Satz 1 kann um höchstens 30 Tage verlängert
 werden.
 
 (5) Kann die Frist nach Absatz 2 aus praktischen Gründen nicht
 eingehalten werden, ist die zuständige Stelle des ersuchenden
-Mitgliedstaates unverzüglich zu unterrichten. Dabei sind die Gründe
-für die Verzögerung anzugeben. § 91d Absatz 3 Satz 2 gilt
-entsprechend. Mit der zuständigen Stelle des ersuchenden
+Mitgliedstaates unverzüglich zu unterrichten. Dabei sind die
+Gründe für die Verzögerung anzugeben. § 91d Absatz 3 Satz 2
+gilt entsprechend. Mit der zuständigen Stelle des ersuchenden
 Mitgliedstaates ist der geeignete Zeitpunkt für die Durchführung der
 Ermittlungshandlung abzustimmen.
 
-(6) Sind Ersuchen auf eine grenzüberschreitende Überwachung des
-Telekommunikationsverkehrs gerichtet, ohne dass für die Durchführung
-der Überwachung die technische Hilfe der Bundesrepublik Deutschland
-benötigt wird, und würde die Ermittlungsmaßnahme in einem
-vergleichbaren innerstaatlichen Fall nicht genehmigt, ist der
+(6) Sind Ersuchen auf eine grenzüberschreitende Überwachung
+des Telekommunikationsverkehrs gerichtet, ohne dass für die
+Durchführung der Überwachung die technische Hilfe der Bundesrepublik
+Deutschland benötigt wird, und würde die Ermittlungsmaßnahme in
+einem vergleichbaren innerstaatlichen Fall nicht genehmigt, ist der
 zuständigen Stelle des ersuchenden Mitgliedstaates unverzüglich,
 spätestens aber innerhalb von 96 Stunden nach Eingang des Ersuchens
 mitzuteilen, dass
 
 1.  die Überwachung nicht durchgeführt werden kann oder zu beenden ist und
 
-
 2.  Erkenntnisse, die bereits gesammelt wurden, während sich die
     überwachte Person im Hoheitsbereich der Bundesrepublik Deutschland
     befand, nicht oder nur unter Bedingungen verwendet werden dürfen; die
     Bedingungen und ihre Gründe sind mitzuteilen.
-
-
 
 § 91d Absatz 3 Satz 2 gilt entsprechend.
 
@@ -6990,36 +6184,33 @@ auszuführen, die gelten würden, wenn das Ersuchen von einer deutschen
 Stelle gestellt worden wäre; dies gilt auch für Zwangsmaßnahmen, die
 bei der Erledigung des Ersuchens notwendig werden.
 
-(2) Soweit die Richtlinie Europäische Ermittlungsanordnung nicht etwas
-anderes bestimmt und wesentliche Grundsätze der deutschen
+(2) Soweit die Richtlinie Europäische Ermittlungsanordnung nicht
+etwas anderes bestimmt und wesentliche Grundsätze der deutschen
 Rechtsordnung nicht entgegenstehen,
 
 1.  sind besondere Formvorschriften oder Verfahrensvorschriften, die in
     dem Ersuchen nach § 91d Absatz 1 angegeben wurden, einzuhalten und
 
-
 2.  ist Bitten um Teilnahme von Behörden des ersuchenden Mitgliedstaates
     an einer Amtshandlung zu entsprechen.
 
-
-
 Können besondere Formvorschriften oder Verfahrensvorschriften nach
-Satz 1 Nummer 1 nicht eingehalten werden oder kann Bitten nach Satz 1
-Nummer 2 nicht entsprochen werden, ist die zuständige Stelle des
+Satz 1 Nummer 1 nicht eingehalten werden oder kann Bitten nach Satz
+1 Nummer 2 nicht entsprochen werden, ist die zuständige Stelle des
 ersuchenden Mitgliedstaates unverzüglich zu unterrichten; § 91d Absatz
 3 Satz 2 gilt entsprechend.
 
-(3) Audiovisuelle Vernehmungen gemäß § 61c werden unter der Leitung
-der zuständigen Stelle und auf der Grundlage des Rechts des
-ersuchenden Mitgliedstaates durchgeführt. Die zuständige deutsche
-Stelle nimmt an der Vernehmung teil, stellt die Identität der zu
-vernehmenden Person fest und achtet auf die Einhaltung der
-wesentlichen Grundsätze der deutschen Rechtsordnung. Beschuldigte sind
-bei Beginn der Vernehmung über die Rechte zu belehren, die ihnen nach
-dem Recht des ersuchenden Mitgliedstaates und nach deutschem
+(3) Audiovisuelle Vernehmungen gemäß § 61c werden unter der
+Leitung der zuständigen Stelle und auf der Grundlage des Rechts
+des ersuchenden Mitgliedstaates durchgeführt. Die zuständige
+deutsche Stelle nimmt an der Vernehmung teil, stellt die Identität
+der zu vernehmenden Person fest und achtet auf die Einhaltung der
+wesentlichen Grundsätze der deutschen Rechtsordnung. Beschuldigte
+sind bei Beginn der Vernehmung über die Rechte zu belehren, die ihnen
+nach dem Recht des ersuchenden Mitgliedstaates und nach deutschem
 Verfahrensrecht zustehen. Zeugen und Sachverständige sind über die
-Zeugnis- oder Auskunftsverweigerungsrechte zu belehren, die ihnen nach
-dem Recht des ersuchenden Mitgliedstaates und nach deutschem
+Zeugnis- oder Auskunftsverweigerungsrechte zu belehren, die ihnen
+nach dem Recht des ersuchenden Mitgliedstaates und nach deutschem
 Verfahrensrecht zustehen.
 
 (4) Absatz 3 Satz 1, 2 und 4 gilt entsprechend für die telefonische
@@ -7028,14 +6219,14 @@ Vernehmung von Zeugen oder Sachverständigen.
 
 #### § 91i Rechtsbehelfe; Aufschub der Übermittlung von Beweismitteln
 
-(1) Erfolgt eine Vorlage nach § 61 Absatz 1 Satz 1 oder wird ein
-Antrag nach § 61 Absatz 1 Satz 2 gestellt, überprüft das
-Oberlandesgericht auf Antrag auch Entscheidungen nach § 91e Absatz 3
-und nach § 91f Absatz 1 und 2. Wenn Entscheidungen nach § 91e Absatz 3
-ermessensfehlerhaft sind, stellt das Gericht dies fest, hebt die
-Entscheidungen insoweit auf und reicht die Akten zur erneuten
-Entscheidung unter Beachtung der Rechtsauffassung des Gerichts zurück;
-andernfalls stellt das Gericht fest, dass die Entscheidungen
+(1) Erfolgt eine Vorlage nach § 61 Absatz 1 Satz 1 oder wird
+ein Antrag nach § 61 Absatz 1 Satz 2 gestellt, überprüft das
+Oberlandesgericht auf Antrag auch Entscheidungen nach § 91e Absatz
+3 und nach § 91f Absatz 1 und 2. Wenn Entscheidungen nach § 91e
+Absatz 3 ermessensfehlerhaft sind, stellt das Gericht dies fest, hebt
+die Entscheidungen insoweit auf und reicht die Akten zur erneuten
+Entscheidung unter Beachtung der Rechtsauffassung des Gerichts
+zurück; andernfalls stellt das Gericht fest, dass die Entscheidungen
 ermessensfehlerfrei sind.
 
 (2) Die Übermittlung von Beweismitteln an den ersuchenden
@@ -7045,11 +6236,7 @@ entschieden worden ist, der eingelegt wurde
 1.  in dem ersuchenden Mitgliedstaat gegen den Erlass der Europäischen
     Ermittlungsanordnung oder
 
-
 2.  im Geltungsbereich dieses Gesetzes.
-
-
-
 
 (3) Über Rechtsbehelfe gemäß Absatz 2 Nummer 2 ist die zuständige
 Stelle des ersuchenden Mitgliedstaates zu unterrichten; § 91d Absatz 3
@@ -7063,11 +6250,11 @@ Richtlinie Europäische Ermittlungsanordnung wiedergegebene Formblatt
 in der jeweils gültigen Fassung zu verwenden.
 
 (2) Wird ein Ersuchen in einem Verfahren nach § 1 Absatz 2 von einer
-Verwaltungsbehörde gestellt, ist das Ersuchen vor der Übermittlung an
-den ersuchten Mitgliedstaat der Staatsanwaltschaft zur Bestätigung
+Verwaltungsbehörde gestellt, ist das Ersuchen vor der Übermittlung
+an den ersuchten Mitgliedstaat der Staatsanwaltschaft zur Bestätigung
 unter Abschnitt L des Formblattes aus Anhang A der Richtlinie
-Europäische Ermittlungsanordnung vorzulegen. Örtlich zuständig ist die
-Staatsanwaltschaft bei dem Landgericht, in dessen Bezirk die
+Europäische Ermittlungsanordnung vorzulegen. Örtlich zuständig ist
+die Staatsanwaltschaft bei dem Landgericht, in dessen Bezirk die
 Verwaltungsbehörde ihren Sitz hat. Die Länder können die Zuständigkeit
 nach Satz 1 einem Gericht zuweisen oder die örtliche Zuständigkeit
 nach Satz 2 abweichend regeln.
@@ -7079,13 +6266,9 @@ Ersuchens vorliegen, insbesondere dass
 
 1.  das Ersuchen dem Grundsatz der Verhältnismäßigkeit entspricht und
 
-
 2.  die in dem Ersuchen angegebene Ermittlungsmaßnahme in einem
     vergleichbaren innerstaatlichen Fall unter denselben Bedingungen
     angeordnet werden könnte.
-
-
-
 
 (4) Ist in einem Verfahren nach § 1 Absatz 2 die Anordnung einer
 Maßnahme dem Richter vorbehalten, kann die Bestätigung nach den
@@ -7098,34 +6281,49 @@ kann. § 62 Absatz 1 Satz 1 Nummer 3 findet in Verbindung mit § 69
 Absatz 3 oder § 70 Satz 1 keine Anwendung, wenn die betroffene Person
 in den räumlichen Geltungsbereich dieses Gesetzes oder des ersuchten
 Mitgliedstaates überstellt wurde und diesen Geltungsbereich innerhalb
-von 15 aufeinander folgenden Tagen, nachdem ihre Anwesenheit von den
-dort jeweils zuständigen Stellen nicht mehr verlangt wird, nicht
+von 15 aufeinander folgenden Tagen, nachdem ihre Anwesenheit von
+den dort jeweils zuständigen Stellen nicht mehr verlangt wird, nicht
 verlassen hat, obwohl sie dazu die Möglichkeit hatte, oder nach
 Verlassen in ihn zurückgekehrt ist.
 
 
-### Abschnitt 3 - Besondere Formen der Rechtshilfe
+### Abschnitt 3 - Informationsübermittlung nach Maßgabe der Richtlinie (EU) 2023/977
 
 
+#### Unterabschnitt 1 - Übermittlung von Informationen an einen anderen Mitgliedstaat der Europäischen Union
 
-#### § 92 Übermittlung von Informationen einschließlich personenbezogener Daten an Mitgliedstaaten der Europäischen Union
+
+##### § 92 Übermittlung von Informationen einschließlich personenbezogener Daten auf Ersuchen an Mitgliedstaaten der Europäischen Union
 
 (1) Auf ein Ersuchen einer Strafverfolgungsbehörde eines
-Mitgliedstaates der Europäischen Union, das nach Maßgabe des
-Rahmenbeschlusses 2006/960/JI des Rates vom 18. Dezember 2006 über die
-Vereinfachung des Austauschs von Informationen und Erkenntnissen
-zwischen den Strafverfolgungsbehörden der Mitgliedstaaten der
-Europäischen Union (ABl. L 386 vom 29.12.2006, S. 89, L 75 vom
-15\.3.2007, S. 26) gestellt worden ist, können die zuständigen
-Polizeibehörden des Bundes und der Länder Informationen einschließlich
+Mitgliedstaates der Europäischen Union, das nach Maßgabe der
+Richtlinie (EU) 2023/977 gestellt worden ist, oder auf Ersuchen einer
+nach Artikel 14 der Richtlinie (EU) 2023/977 benannten zentralen
+Kontaktstelle eines anderen Mitgliedstaates der Europäischen Union
+dürfen die zuständigen Polizei-, Finanz- und Zollbehörden nach
+Maßgabe der folgenden Vorschriften dem ersuchenden Mitgliedstaat
+der Europäischen Union verfügbare Informationen einschließlich
 personenbezogener Daten zum Zweck der Verfolgung von Straftaten
-übermitteln. Die Übermittlung erfolgt unter den gleichen gesetzlichen
-Voraussetzungen wie an eine inländische Polizeibehörde. Die Regelungen
-des § 3 des Bundeskriminalamtgesetzes über den internationalen
-Dienstverkehr der Polizeien des Bundes und der Länder bleiben
-unberührt.
+übermitteln.
 
-(2) Bei der Übermittlung nach Absatz 1 ist mitzuteilen, dass die
+(2) Eine Information ist im Sinne des Absatzes 1 verfügbar,
+
+1.  wenn sie in einer Datenbank verfügbar ist, auf die die ersuchte
+    Polizei-, Finanz- oder Zollbehörde nach Maßgabe von Bundes- und
+    Landesrecht unmittelbar zugreifen kann, oder
+
+2.  wenn die ersuchte Polizei-, Finanz- oder Zollbehörde nach Maßgabe von
+    Bundes- und Landesrecht von anderen Behörden oder Privaten, die in
+    der Bundesrepublik Deutschland ansässig sind, diese Information ohne
+    Zwangsmaßnahmen einholen kann.
+
+(3) Die Übermittlung erfolgt unter den gleichen gesetzlichen
+Voraussetzungen wie an eine inländische Polizei-, Finanz- oder
+Zollbehörde. Die Regelungen des § 3 des Bundeskriminalamtgesetzes über
+den internationalen Dienstverkehr der Polizeien des Bundes und der
+Länder bleiben unberührt.
+
+(4) Bei der Übermittlung nach Absatz 1 ist mitzuteilen, dass die
 Verwendung als Beweismittel in einem Gerichtsverfahren unzulässig ist,
 es sei denn, die für Entscheidungen über Ersuchen nach dem Fünften
 Teil zuständige Bewilligungsbehörde hat ihre Zustimmung zur Verwendung
@@ -7133,136 +6331,310 @@ als Beweismittel erteilt. Entsprechend entscheidet die für Ersuchen
 nach dem Fünften Teil zuständige Behörde auch über ein Ersuchen um
 nachträgliche Genehmigung der Verwertbarkeit als Beweismittel.
 
-(3) Die Übermittlung von Informationen einschließlich
-personenbezogener Daten nach Absatz 1 ist unzulässig, wenn
-
-1.  hierdurch wesentliche Sicherheitsinteressen des Bundes oder der Länder
-    beeinträchtigt würden,
-
-
-2.  die zu übermittelnden Daten bei der ersuchten Behörde nicht vorhanden
-    sind und nur durch das Ergreifen von Zwangsmaßnahmen erlangt werden
-    können oder
-
-
-3.  die Übermittlung der Daten unverhältnismäßig wäre oder die Daten für
-    die Zwecke, für die sie übermittelt werden sollen, nicht erforderlich
-    sind.
+(5) Die ersuchten Informationen werden in der Sprache übermittelt,
+in der das Ersuchen übermittelt wurde, wenn es in einer der von
+der Bundesrepublik Deutschland nach Artikel 11 der Richtlinie (EU)
+2023/977 benannten Sprachen übermittelt wurde. Die Informationen
+können auch in einer der Sprachen übermittelt werden, die der
+ersuchende Mitgliedstaat der Europäischen Union nach Artikel 11 der
+Richtlinie (EU) 2023/977 benannt hat. Satz 1 gilt entsprechend für
+andere Mitteilungen, einschließlich der begründeten Ablehnung von
+Ersuchen, Bitten um ergänzende Informationen und Mitteilungen.
 
 
+##### § 92a Inhalt des Ersuchens
 
+Ein Ersuchen nach § 92 Absatz 1 soll Folgendes enthalten:
 
-(4) Die Bewilligung eines Ersuchens nach Absatz 1 kann verweigert
-werden, wenn
+1.  die Angabe, ob das Ersuchen dringend ist, und gegebenenfalls die
+    Angabe der Gründe für die Dringlichkeit,
 
-1.  die zu übermittelnden Daten bei der ersuchten Behörde nicht vorhanden
-    sind, jedoch ohne das Ergreifen von Zwangsmaßnahmen erlangt werden
-    können oder
+2.  eine Präzisierung der angeforderten Informationen, die so detailliert
+    ist, wie dies unter den gegebenen Umständen in angemessener Weise
+    möglich ist,
 
+3.  die Bezeichnung der Straftat, zu deren Verfolgung die Informationen
+    benötigt werden,
 
-2.  hierdurch der Erfolg laufender Ermittlungen oder Leib, Leben oder
-    Freiheit einer Person gefährdet würde oder
-
-
-3.  die Tat, zu deren Verfolgung die Daten übermittelt werden sollen, nach
-    deutschem Recht mit einer Freiheitsstrafe von im Höchstmaß einem Jahr
-    oder weniger bedroht ist.
-
-
-
-
-(5) Als Strafverfolgungsbehörde eines Mitgliedstaates der Europäischen
-Union im Sinne des Absatzes 1 gilt jede von diesem Staat gemäß Artikel
-2 Buchstabe a des Rahmenbeschlusses 2006/960/JI benannte Stelle.
-
-
-#### § 92a Inhalt des Ersuchens
-
-Die Bewilligung eines Ersuchens im Sinne des § 92 Absatz 1 Satz 1 ist
-nur zulässig, wenn das Ersuchen folgende Angaben enthält:
-
-1.  die Bezeichnung und die Anschrift der ersuchenden
-    Strafverfolgungsbehörde,
-
-
-2.  die Bezeichnung der Straftat, zu deren Verfolgung die Daten benötigt
-    werden,
-
-
-3.  die Beschreibung des Sachverhalts der dem Ersuchen zugrunde liegenden
+4.  die Beschreibung des Sachverhalts der dem Ersuchen zugrunde liegenden
     Straftat,
 
-
-4.  die Benennung des Zwecks, zu dem die Daten erbeten werden,
-
-
-5.  den Zusammenhang zwischen dem Zweck, zu dem die Informationen oder
-    Erkenntnisse erbeten werden, und der Person, auf die sich diese
-    Informationen beziehen,
-
+5.  die Benennung des Zwecks, zu dem die Informationen erbeten werden,
 
 6.  Einzelheiten zur Identität des Beschuldigten, sofern sich das
-    Ermittlungsverfahren gegen eine bekannte Person richtet, und
+    Ermittlungsverfahren gegen eine bekannte Person richtet,
+
+7.  soweit angemessen, eine Erläuterung des Zusammenhangs zwischen
+    dem Zweck, zu dem die Informationen angefordert werden, und allen
+    natürlichen oder juristischen Personen oder Organisationen, auf die
+    sich die Informationen beziehen,
+
+8.  etwaige Beschränkungen einer Verwendung der in dem Ersuchen
+    enthaltenen Informationen zu anderen Zwecken als denen, für die sie
+    übermittelt wurden.
 
 
-7.  Gründe für die Annahme, dass sachdienliche Informationen und
-    Erkenntnisse im Inland vorliegen.
+##### § 92b Ablehnungsgründe
+
+(1) Die Übermittlung von Informationen einschließlich
+personenbezogener Daten nach § 92 ist unzulässig, soweit
+
+1.  eine nach deutschem Recht erforderliche Genehmigung durch die
+    zuständige Staatsanwaltschaft oder das zuständige Gericht verweigert
+    wurde,
+
+2.  die angeforderten Informationen bei der ersuchten Polizei-, Finanz-
+    oder Zollbehörde nicht nach § 92 Absatz 2 verfügbar sind und nur durch
+    das Ergreifen von Zwangsmaßnahmen erlangt werden können,
+
+3.  die Übermittlung der Informationen unverhältnismäßig wäre oder die
+    Informationen für die Zwecke, für die sie übermittelt werden sollen,
+    nicht erforderlich sind,
+
+4.  es sich bei den angeforderten Informationen um andere personenbezogene
+    Daten handelt als jene, die unter die in Anhang II Abschnitt B zu der
+    Verordnung (EU) 2016/794 genannten Kategorien personenbezogener Daten
+    fallen,
+
+5.  die angeforderten Informationen sich als unrichtig, unvollständig oder
+    nicht mehr aktuell erwiesen haben,
+
+6.  objektive Anhaltspunkte dafür vorliegen, dass die Bereitstellung der
+    angeforderten Informationen
+
+    a)  den grundlegenden Sicherheitsinteressen des Bundes oder der Länder
+        zuwiderlaufen oder sie schädigen würde,
+
+    b)  den Erfolg laufender Ermittlungen zu einer Straftat oder die
+        Sicherheit einer Person gefährden würde,
+
+7.  die ersuchten Informationen ursprünglich von einem anderen
+    Mitgliedstaat der Europäischen Union oder einem Drittstaat erlangt
+    wurden und dieser Staat der Bereitstellung der Informationen nicht
+    zugestimmt hat.
+
+(2) Die Übermittlung von Informationen einschließlich
+personenbezogener Daten kann unterbleiben, soweit
+
+1.  die angeforderten Informationen bei der ersuchten Polizei-, Finanz-
+    oder Zollbehörde nicht nach § 92 Absatz 2 Nummer 1 verfügbar sind,
+    jedoch ohne das Ergreifen von Zwangsmaßnahmen nach § 92 Absatz 2
+    Nummer 2 eingeholt werden können,
+
+2.  das Ersuchen
+
+    a)  eine Straftat betrifft, die nach deutschem Recht mit einer
+        Freiheitsstrafe von höchstens einem Jahr oder weniger geahndet werden
+        kann, oder
+
+    b)  eine Angelegenheit betrifft, die nach deutschem Recht keine Straftat
+        darstellt,
+
+3.  das Ersuchen nicht den Anforderungen des § 92a entspricht.
+
+(3) Ein Ersuchen, das in einer anderen Sprache als den Sprachen, die
+von der Bundesrepublik Deutschland nach Artikel 11 der Richtlinie (EU)
+2023/977 benannt werden, abgefasst ist, kann abgelehnt werden.
+
+(4) Vor Ablehnung eines Ersuchens soll den ersuchenden Behörden
+die Möglichkeit gegeben werden, ergänzende Klarstellungen oder
+Präzisierungen beizubringen.
+
+(5) Soweit die Übermittlung von Informationen die Genehmigung der
+Staatsanwaltschaft oder eines Gerichtes voraussetzt, unternimmt die
+nach § 92 Absatz 1 zuständige Polizei-, Finanz- oder Zollbehörde
+unverzüglich alle erforderlichen Schritte, um diese Genehmigung so
+schnell wie möglich einzuholen.
 
 
+##### § 92c Zusammenarbeit mit zentralen Kontaktstellen
+
+(1) Nach § 92 übermittelte Informationen werden in Kopie auch der
+für die Bundesrepublik Deutschland benannten nationalen zentralen
+Kontaktstelle übermittelt. Wenn die nach § 92 ersuchten Informationen
+zur Beantwortung nicht der nach Artikel 14 der Richtlinie (EU)
+2023/977 benannten zentralen Kontaktstelle des ersuchenden
+Mitgliedstaates der Europäischen Union übermittelt wurden, wird
+auch dieser zentralen Kontaktstelle eine Kopie der Informationen
+übermittelt.
+
+(2) Die Übermittlung an die zentrale Kontaktstelle des ersuchenden
+Mitgliedstaates der Europäischen Union nach Absatz 1 Satz 2
+unterbleibt, wenn dadurch Folgendes gefährdet würde:
+
+1.  eine laufende hochsensible Ermittlung, bei der die Verarbeitung von
+    Informationen ein angemessenes Maß an Vertraulichkeit erfordert,
+
+2.  Ermittlungen zu Terrorismusfällen, bei denen es sich nicht um Not-
+    oder Krisenmanagementsituationen handelt, oder
+
+3.  die Sicherheit einer oder mehrerer Personen.
 
 
+##### § 92d Informationsübermittlung ohne Ersuchen
 
-#### § 92b Verwendung von nach dem Rahmenbeschluss 2006/960/JI übermittelten Informationen einschließlich personenbezogener Daten
+(1) Nach Maßgabe der Richtlinie (EU) 2023/977 dürfen Polizei-,
+Finanz- und Zollbehörden gemäß § 92 Absatz 2 verfügbare Informationen,
+einschließlich personenbezogener Daten, ohne Ersuchen an die
+zuständigen Strafverfolgungsbehörden anderer Mitgliedstaaten der
+Europäischen Union aus eigener Initiative übermitteln, wenn objektive
+Anhaltspunkte dafür vorliegen, dass die Informationen für den
+anderen Mitgliedstaat der Europäischen Union zum Zweck der Verfolgung
+von Straftaten relevant sein könnten. Satz 1 gilt auch für die
+Übermittlung an nach Artikel 14 der Richtlinie (EU) 2023/977 benannte
+zentrale Kontaktstellen anderer Mitgliedstaaten der Europäischen
+Union.
 
-Informationen einschließlich personenbezogener Daten, die nach dem
-Rahmenbeschluss 2006/960/JI an eine inländische Polizeibehörde
-übermittelt worden sind, dürfen nur für die Zwecke, für die sie
-übermittelt wurden, oder zur Abwehr einer gegenwärtigen und
+(2) Die Übermittlung nach Absatz 1 erfolgt unter den gleichen
+gesetzlichen Voraussetzungen, unter denen die Übermittlung auch
+ohne Ersuchen an deutsche Polizei-, Finanz- oder Zollbehörden, ein
+deutsches Gericht oder eine deutsche Staatsanwaltschaft zulässig wäre.
+§ 92b Absatz 1 und 2 ist entsprechend anzuwenden.
+
+(3) Die Regelungen des § 3 des Bundeskriminalamtgesetzes über den
+internationalen Dienstverkehr der Polizeien des Bundes und der Länder
+bleiben unberührt. Wenn die Übermittlung an die zentrale Kontaktstelle
+eines anderen Mitgliedstaates der Europäischen Union erfolgt, sind
+die Informationen in einer der Sprachen zu übermitteln, die von diesem
+Mitgliedstaat der Europäischen Union nach Artikel 11 der Richtlinie
+(EU) 2023/977 benannt wurden.
+
+(4) § 92c ist entsprechend anzuwenden.
+
+
+##### § 92e Verpflichtung zur Informationsübermittlung ohne Ersuchen
+
+(1) Nach Maßgabe der Richtlinie (EU) 2023/977 sind Polizei-, Finanz-
+und Zollbehörden verpflichtet, ohne Ersuchen von ihnen selbst erhobene
+Informationen einschließlich personenbezogener Daten an die zentrale
+Kontaktstelle nach Artikel 14 der Richtlinie (EU) 2023/977 oder
+den zuständigen Strafverfolgungsbehörden anderer Mitgliedstaaten
+der Europäischen Union aus eigener Initiative zu übermitteln, wenn
+objektive Anhaltspunkte dafür vorliegen, dass die Informationen
+für den anderen Mitgliedstaat der Europäischen Union zum Zweck der
+Verfolgung von schweren Straftaten im Sinne von Artikel 2 Absatz 3 der
+Richtlinie (EU) 2023/977 relevant sein könnten.
+
+(2) Die Übermittlung von Informationen nach Absatz 1 erfolgt unter den
+gleichen gesetzlichen Voraussetzungen, unter denen die Übermittlung
+auch ohne Ersuchen an deutsche Polizei-, Finanz- oder Zollbehörden,
+ein deutsches Gericht oder eine deutsche Staatsanwaltschaft zulässig
+wäre.
+
+(3) § 92b Absatz 1 und die §§ 92c und 92d Absatz 3 finden
+entsprechende Anwendung.
+
+
+#### Unterabschnitt 2 - Übermittlung von Informationen aus einem anderen Mitgliedstaat der Europäischen Union
+
+
+##### § 92f Ausgehende Ersuchen um Übermittlung von Informationen einschließlich personenbezogener Daten von benannten Strafverfolgungsbehörden an eine zentrale Kontaktstelle eines anderen Mitgliedstaates der Europäischen Union
+
+(1) Die nach Maßgabe von Artikel 4 Absatz 1 Unterabsatz 2 der
+Richtlinie (EU) 2023/977 benannten Strafverfolgungsbehörden
+dürfen Ersuchen um Übermittlung von Informationen einschließlich
+personenbezogener Daten an eine nach Artikel 14 der Richtlinie (EU)
+2023/977 benannte zentrale Kontaktstelle eines anderen Mitgliedstaates
+der Europäischen Union zum Zweck der Verfolgung von Straftaten
+richten.
+
+(2) Ein Ersuchen nach Absatz 1 setzt objektive Anhaltspunkte dafür
+voraus, dass
+
+1.  die Erhebung der Information zum Zweck der Verfolgung einer Straftat
+    erforderlich und verhältnismäßig ist und
+
+2.  die angeforderten Informationen dem anderen Mitgliedstaat der
+    Europäischen Union zur Verfügung stehen.
+
+(3) Bei einem Ersuchen nach Absatz 1 ist anzugeben, ob das Ersuchen
+dringend ist, und bei Dringlichkeit sind die Gründe für diese zu
+nennen. Ein Informationsersuchen gilt als dringend, wenn unter
+Berücksichtigung aller relevanten Tatsachen und Umstände des
+betreffenden Sachverhalts objektive Anhaltspunkte dafür vorliegen,
+dass
+
+1.  die angeforderten Informationen unerlässlich sind zur Abwehr einer
+    unmittelbaren und ernsthaften Gefahr für die öffentliche Sicherheit
+    eines Mitgliedstaates der Europäischen Union,
+
+2.  die angeforderten Informationen erforderlich sind, um eine
+    unmittelbare Gefahr für das Leben oder die körperliche Unversehrtheit
+    einer Person abzuwenden,
+
+3.  die angeforderten Informationen erforderlich sind für den Erlass eines
+    Beschlusses, der die Aufrechterhaltung restriktiver Maßnahmen bis hin
+    zu einem Freiheitsentzug umfassen könnte, oder
+
+4.  die unmittelbare Gefahr besteht, dass die Informationen an Relevanz
+    verlieren, wenn sie nicht umgehend zur Verfügung gestellt werden,
+    und die Informationen als wichtig für die Untersuchung von Straftaten
+    anzusehen sind.
+
+(4) Das Ersuchen nach Absatz 1 muss die in § 92a Nummer 2 bis 8
+genannten Angaben enthalten.
+
+(5) Die Regelungen des § 3 des Bundeskriminalamtgesetzes über den
+internationalen Dienstverkehr der Polizeien des Bundes und der Länder
+bleiben unberührt.
+
+(6) Ein Ersuchen nach Absatz 1 ist in einer der Sprachen zu
+übermitteln, die in der von diesem anderen Mitgliedstaat der
+Europäischen Union gemäß Artikel 11 erstellten Liste aufgeführt sind.
+
+(7) Eine Kopie eines Ersuchens nach Absatz 1 wird auch der für
+die Bundesrepublik Deutschland nach Artikel 14 der Richtlinie (EU)
+2023/977 benannten zentralen Kontaktstelle übermittelt.
+
+
+##### § 92g Ausgehende Ersuchen um Übermittlung von Informationen einschließlich personenbezogener Daten von Polizei-, Finanz- und Zollbehörden an Strafverfolgungsbehörden eines anderen Mitgliedstaates der Europäischen Union
+
+(1) Die zuständigen Polizei-, Finanz- und Zollbehörden dürfen Ersuchen
+um Übermittlung von Informationen, einschließlich personenbezogener
+Daten, an die Strafverfolgungsbehörden eines anderen Mitgliedstaates
+der Europäischen Union zum Zweck der Verfolgung von Straftaten
+richten. Die Regelungen des § 3 des Bundeskriminalamtgesetzes über
+den internationalen Dienstverkehr der Polizeien des Bundes und der
+Länder und des § 26a Absatz 6 des Bundeskriminalamtgesetzes über
+die Datenübermittlung an Mitgliedstaaten der Europäischen Union
+und Schengen-assoziierte Staaten gemäß der Richtlinie (EU) 2023/977
+bleiben unberührt.
+
+(2) Eine Kopie eines Ersuchens nach Absatz 1 wird der für die
+Bundesrepublik Deutschland nach Artikel 14 der Richtlinie (EU)
+2023/977 benannten zentrale Kontaktstelle sowie der nach Artikel
+14 der Richtlinie (EU) 2023/977 benannten zentralen Kontaktstelle
+des ersuchten Mitgliedstaates der Europäischen Union übermittelt.
+Für die Übermittlung an die zentrale Kontaktstelle des ersuchten
+Mitgliedstaates der Europäischen Union nach Satz 1 gilt § 92c Absatz
+2 entsprechend.
+
+(3) Bei Ersuchen nach Absatz 1 sollen die Anforderungen des § 92f
+Absatz 2 bis 4 eingehalten werden.
+
+
+##### § 92h Verwendung von nach der Richtlinie (EU) 2023/977 übermittelten Informationen
+
+Informationen einschließlich personenbezogener Daten, die nach der
+Richtlinie (EU) 2023/977 an eine inländische Polizei-, Finanz- oder
+Zollbehörde übermittelt worden sind, dürfen nur für die Zwecke, für
+die sie übermittelt wurden, oder zur Abwehr einer gegenwärtigen und
 erheblichen Gefahr für die öffentliche Sicherheit verwendet werden.
 Für einen anderen Zweck oder als Beweismittel in einem gerichtlichen
 Verfahren dürfen sie nur verwendet werden, wenn der übermittelnde
-Staat zugestimmt hat. Von dem übermittelnden Staat für die Verwendung
-der Daten gestellte Bedingungen sind zu beachten.
+Staat zugestimmt hat oder diese Verwendung auf Ersuchen nachträglich
+genehmigt. Von dem übermittelnden Staat für die Verwendung der
+Informationen gestellte Bedingungen sind zu beachten.
 
 
-#### § 92c Datenübermittlung ohne Ersuchen
-
-(1) Soweit eine völkerrechtliche Vereinbarung dies vorsieht oder nach
-Maßgabe des Rahmenbeschlusses 2006/960/JI, dürfen öffentliche Stellen
-ohne Ersuchen personenbezogene Daten, die den Verdacht einer Straftat
-begründen, an öffentliche Stellen eines anderen Mitgliedstaates der
-Europäischen Union oder eines Schengen-assoziierten Staates sowie
-Organe und Einrichtungen der Europäischen Union übermitteln, soweit
-
-1.  eine Übermittlung auch ohne Ersuchen an ein deutsches Gericht oder
-    eine deutsche Staatsanwaltschaft zulässig wäre und
+### Abschnitt 4 - Besondere Formen der Rechtshilfe
 
 
-2.  die Übermittlung geeignet ist,
-
-    a)  ein Strafverfahren in dem anderen Mitgliedstaat einzuleiten oder
-
-
-    b)  ein dort bereits eingeleitetes Strafverfahren zu fördern, und
-
-
-
-
-
-3.  die Stelle, an die die Daten übermittelt werden, für die zu treffenden
-    Maßnahmen nach Nummer 2 zuständig ist.
-
-
-
-
-(2) § 61a Abs. 2 bis 4 gilt entsprechend.
-
-
-#### § 92d Örtliche Zuständigkeit für Ersuchen um Überwachung des Telekommunikationsverkehrs ohne technische Hilfe; Verordnungsermächtigung
+#### § 92i Örtliche Zuständigkeit für Ersuchen um Überwachung des Telekommunikationsverkehrs ohne technische Hilfe; Verordnungsermächtigung
 
 (1) Örtlich zuständig für Ersuchen aus den Mitgliedstaaten der
-Europäischen Union, die auf eine grenzüberschreitende Überwachung des
-Telekommunikationsverkehrs gerichtet sind, ohne dass für die
+Europäischen Union, die auf eine grenzüberschreitende Überwachung
+des Telekommunikationsverkehrs gerichtet sind, ohne dass für die
 Durchführung der Überwachung die technische Hilfe der Bundesrepublik
 Deutschland benötigt wird, ist
 
@@ -7270,73 +6642,55 @@ Deutschland benötigt wird, ist
     und der Portugiesischen Republik das zuständige Gericht am Sitz der
     Landesregierung von Baden-Württemberg;
 
-
 2.  für Ersuchen aus der Italienischen Republik, der Republik Kroatien,
     der Republik Malta, der Republik Österreich und der Republik Slowenien
     das zuständige Gericht am Sitz der Landesregierung des Freistaats
     Bayern;
 
-
 3.  für Ersuchen aus der Republik Estland, der Republik Lettland und der
     Republik Litauen das zuständige Gericht am Sitz des Senats von Berlin;
-
 
 4.  für Ersuchen aus der Republik Polen das zuständige Gericht am Sitz der
     Landesregierung von Brandenburg;
 
-
 5.  für Ersuchen aus Irland das zuständige Gericht am Sitz des Senats der
     Freien Hansestadt Bremen;
-
 
 6.  für Ersuchen aus dem Königreich Schweden das zuständige Gericht am
     Sitz des Senats der Freien und Hansestadt Hamburg;
 
-
 7.  für Ersuchen aus der Republik Bulgarien und aus Rumänien das
     zuständige Gericht am Sitz der Landesregierung von Hessen;
 
-
 8.  für Ersuchen aus der Republik Finnland das zuständige Gericht am Sitz
     der Landesregierung von Mecklenburg-Vorpommern;
-
 
 9.  für Ersuchen aus dem Vereinigten Königreich Großbritannien und
     Nordirland das zuständige Gericht am Sitz der Landesregierung von
     Niedersachsen;
 
-
 10. für Ersuchen aus dem Königreich der Niederlande das zuständige Gericht
     am Sitz der Landesregierung von Nordrhein-Westfalen;
-
 
 11. für Ersuchen aus dem Königreich Belgien das zuständige Gericht am Sitz
     der Landesregierung von Rheinland-Pfalz;
 
-
 12. für Ersuchen aus dem Großherzogtum Luxemburg das zuständige Gericht am
     Sitz der Landesregierung des Saarlandes;
-
 
 13. für Ersuchen aus der Slowakischen Republik und der Tschechischen
     Republik das zuständige Gericht am Sitz der Landesregierung des
     Freistaats Sachsen;
 
-
 14. für Ersuchen aus Ungarn das zuständige Gericht am Sitz der
     Landesregierung von Sachsen-Anhalt;
-
 
 15. für Ersuchen aus dem Königreich Dänemark das zuständige Gericht am
     Sitz der Landesregierung von Schleswig-Holstein;
 
-
-16. für Ersuchen aus der Hellenischen Republik und der Republik Zypern das
-    zuständige Gericht am Sitz der Landesregierung des Freistaats
+16. für Ersuchen aus der Hellenischen Republik und der Republik Zypern
+    das zuständige Gericht am Sitz der Landesregierung des Freistaats
     Thüringen.
-
-
-
 
 (2) Die Landesregierungen können die örtliche Zuständigkeit durch
 Rechtsverordnung abweichend regeln. Die Landesregierungen können diese
@@ -7357,8 +6711,8 @@ Ermittlungsgruppe nach Maßgabe der Rechtsvorschriften der
 teilnehmenden Mitgliedstaaten oder einer zwischen ihnen anwendbaren
 Übereinkunft gestattet werden.
 
-(3) Die an der gemeinsamen Ermittlungsgruppe beteiligten Beamten und
-Beamtinnen dürfen den von anderen Mitgliedstaaten entsandten
+(3) Die an der gemeinsamen Ermittlungsgruppe beteiligten Beamten
+und Beamtinnen dürfen den von anderen Mitgliedstaaten entsandten
 Mitgliedern oder anderen teilnehmenden Personen dienstlich erlangte
 Informationen einschließlich personenbezogener Daten unmittelbar
 übermitteln, soweit dies für die Tätigkeit der gemeinsamen
@@ -7372,10 +6726,10 @@ Ersuchen bewilligt werden könnte.
 
 #### § 94 Ersuchen um Sicherstellung, Beschlagnahme und Durchsuchung
 
-(1) Außerhalb des Anwendungsbereichs der Verordnung Sicherstellung und
-Einziehung sind § 58 Absatz 3 und § 67 bei Ersuchen nach Maßgabe des
-Rahmenbeschlusses 2003/577/JI des Rates vom 22. Juli 2003 über die
-Vollstreckung von Entscheidungen über die Sicherstellung von
+(1) Außerhalb des Anwendungsbereichs der Verordnung Sicherstellung
+und Einziehung sind § 58 Absatz 3 und § 67 bei Ersuchen nach Maßgabe
+des Rahmenbeschlusses 2003/577/JI des Rates vom 22. Juli 2003 über
+die Vollstreckung von Entscheidungen über die Sicherstellung von
 Vermögensgegenständen oder Beweismitteln in der Europäischen Union
 (ABl. L 196 vom 2.8.2003, S. 45), der durch die Verordnung (EU)
 2018/1805 (ABl. L 303 vom 28.11.2018, S. 1) geändert worden ist,
@@ -7387,30 +6741,23 @@ Vermögensgegenständen oder Beweismitteln in der Europäischen Union
     bedroht ist und den in Artikel 3 Absatz 2 des Rahmenbeschlusses
     Sicherstellung aufgeführten Deliktsgruppen zugehörig ist,
 
-
 2.  ein Ersuchen in Steuer-, Abgaben-, Zoll- und Währungsangelegenheiten
-    auch zulässig ist, wenn das deutsche Recht keine gleichartigen Steuern
-    vorschreibt oder keine gleichartigen Steuer-, Abgaben-, Zoll- und
-    Währungsbestimmungen enthält wie das Recht des ersuchenden
+    auch zulässig ist, wenn das deutsche Recht keine gleichartigen
+    Steuern vorschreibt oder keine gleichartigen Steuer-, Abgaben-,
+    Zoll- und Währungsbestimmungen enthält wie das Recht des ersuchenden
     Mitgliedstaates.
-
-
-
 
 (2) Die Bewilligung von Ersuchen nach Absatz 1 ist unzulässig, wenn
 
 1.  ein Beschlagnahmeverbot nach § 77 Abs. 1 in Verbindung mit § 97 der
     Strafprozessordnung besteht oder
 
-
-2.  der Verfolgte wegen derselben Tat, die dem Ersuchen zu Grunde liegt,
-    bereits von einem anderen als dem ersuchenden Mitgliedstaat
-    rechtskräftig abgeurteilt worden ist, vorausgesetzt, dass im Fall der
-    Verurteilung die Sanktion bereits vollstreckt worden ist, gerade
+2.  der Verfolgte wegen derselben Tat, die dem Ersuchen zu Grunde
+    liegt, bereits von einem anderen als dem ersuchenden Mitgliedstaat
+    rechtskräftig abgeurteilt worden ist, vorausgesetzt, dass im Fall
+    der Verurteilung die Sanktion bereits vollstreckt worden ist, gerade
     vollstreckt wird oder nach dem Recht des Urteilsstaates nicht mehr
     vollstreckt werden kann.
-
-
 
 Dies gilt nicht, wenn das Ersuchen der Vorbereitung einer Anordnung
 der Einziehung dient und eine solche Maßnahme entsprechend § 76a des
@@ -7421,12 +6768,8 @@ Strafgesetzbuchs selbständig angeordnet werden könnte.
 
 1.  sie laufende strafrechtliche Ermittlungen beeinträchtigen könnte und
 
-
 2.  die das Ersuchen betreffenden Gegenstände für ein anderes
     Strafverfahren beschlagnahmt oder sonst sichergestellt sind.
-
-
-
 
 
 #### § 95 Sicherungsunterlagen
@@ -7438,36 +6781,28 @@ enthält:
 
 1.  die Bezeichnung und Anschrift der ausstellenden Justizbehörde,
 
-
 2.  die Beschreibung des Vermögensgegenstands oder Beweismittels, um
     dessen Sicherstellung ersucht wird,
-
 
 3.  die möglichst genaue Bezeichnung der natürlichen oder juristischen
     Person, die nach den Vorschriften des Rechts des ersuchenden Staates
     der Straftat verdächtig ist,
 
-
 4.  die Darlegung der Gründe für die Sicherstellungsentscheidung,
-
 
 5.  die Beschreibung der Umstände, unter denen die Straftat begangen
     wurde, einschließlich der Tatzeit, des Tatortes und
 
-
-6.  die Art und rechtliche Würdigung der Straftat, einschließlich der
-    gesetzlichen Bestimmungen, auf deren Grundlage die
+6.  die Art und rechtliche Würdigung der Straftat, einschließlich
+    der gesetzlichen Bestimmungen, auf deren Grundlage die
     Sicherstellungsentscheidung ergangen ist.
 
-
-
-
-(2) Ist eine Bescheinigung nach Absatz 1 bei Stellung des Ersuchens
-nicht vorhanden oder unvollständig oder entspricht sie offensichtlich
-nicht der Sicherstellungsentscheidung, kann die zuständige Behörde
-eine Frist für die Vorlage oder Vervollständigung oder Berichtigung
-setzen. Ist die Bescheinigung nach Absatz 1 unvollständig, ergeben
-sich die erforderlichen Angaben aber aus der
+(2) Ist eine Bescheinigung nach Absatz 1 bei Stellung des
+Ersuchens nicht vorhanden oder unvollständig oder entspricht sie
+offensichtlich nicht der Sicherstellungsentscheidung, kann die
+zuständige Behörde eine Frist für die Vorlage oder Vervollständigung
+oder Berichtigung setzen. Ist die Bescheinigung nach Absatz 1
+unvollständig, ergeben sich die erforderlichen Angaben aber aus der
 Sicherstellungsentscheidung, so kann die zuständige Behörde auf die
 Vorlage einer vervollständigten Bescheinigung verzichten.
 
@@ -7482,7 +6817,6 @@ ist die ablehnende Bewilligungsentscheidung zu begründen.
 ## Elfter Teil - Durchführungsvorschriften zur Verordnung (EU) 2018/1805 des Europäischen Parlaments und des Rates vom 14. November 2018 über die gegenseitige Anerkennung von Sicherstellungs- und Einziehungsentscheidungen
 
 
-
 ### § 96a Grundsatz
 
 Soweit dieser Teil keine besonderen Regelungen enthält, ist § 77
@@ -7493,8 +6827,8 @@ anzuwenden.
 
 (1) Über die Anerkennung und Vollstreckung eingehender
 Sicherstellungsentscheidungen entscheidet das nach § 67 Absatz 3
-zuständige Amtsgericht; § 51 Absatz 2 Satz 3 gilt entsprechend. Wird
-eine Sicherstellungsentscheidung gleichzeitig mit einer
+zuständige Amtsgericht; § 51 Absatz 2 Satz 3 gilt entsprechend.
+Wird eine Sicherstellungsentscheidung gleichzeitig mit einer
 Einziehungsentscheidung übermittelt, so entscheidet das nach § 50 Satz
 1 und § 51 zuständige Landgericht.
 
@@ -7539,8 +6873,8 @@ Jugendgerichtsgesetzes.
 ### § 96d Rechtsbehelf
 
 (1) Betroffene können nach Maßgabe des Artikels 33 der Verordnung
-Sicherstellung und Einziehung gegen die Entscheidung über die
-Anerkennung und Vollstreckung der Sicherstellungs- oder
+Sicherstellung und Einziehung gegen die Entscheidung über
+die Anerkennung und Vollstreckung der Sicherstellungs- oder
 Einziehungsentscheidung sofortige Beschwerde einlegen.
 
 (2) Richtet sich die sofortige Beschwerde gegen die Entscheidung eines
@@ -7556,16 +6890,16 @@ Dies gilt vorbehaltlich des Artikels 2 Absatz 8 Buchstabe a Ziffer ii
 Satz 3 der Verordnung Sicherstellung und Einziehung.
 
 (2) Wird von einer für die Verfolgung von Ordnungswidrigkeiten
-zuständigen Verwaltungsbehörde im Sinne des Artikels 2 Absatz 8
-Buchstabe a Ziffer ii der Verordnung Sicherstellung und Einziehung ein
-Ersuchen um Anerkennung und Vollstreckung einer
+zuständigen Verwaltungsbehörde im Sinne des Artikels 2 Absatz
+8 Buchstabe a Ziffer ii der Verordnung Sicherstellung und
+Einziehung ein Ersuchen um Anerkennung und Vollstreckung einer
 Sicherstellungsentscheidung aus einem Ordnungswidrigkeitenverfahren
 gestellt, so ist das Ersuchen vor der Übermittlung an den ersuchten
 Mitgliedstaat der zuständigen Staatsanwaltschaft zur Bestätigung
-vorzulegen. Hierfür ist die Bescheinigung gemäß Abschnitt N der
-Sicherstellungsbescheinigung aus Anhang I der Verordnung
-Sicherstellung und Einziehung zu verwenden. Örtlich zuständig ist die
-Staatsanwaltschaft bei dem Landgericht, in dessen Bezirk die
+vorzulegen. Hierfür ist die Bescheinigung gemäß Abschnitt N
+der Sicherstellungsbescheinigung aus Anhang I der Verordnung
+Sicherstellung und Einziehung zu verwenden. Örtlich zuständig ist
+die Staatsanwaltschaft bei dem Landgericht, in dessen Bezirk die
 Verwaltungsbehörde ihren Sitz hat. Die Länder können die Zuständigkeit
 der Staatsanwaltschaft nach Satz 1 einem Gericht zuweisen oder die
 örtliche Zuständigkeit der Staatsanwaltschaft nach Satz 3 abweichend
@@ -7578,13 +6912,9 @@ Ersuchens vorliegen, insbesondere, dass
 
 1.  das Ersuchen dem Grundsatz der Verhältnismäßigkeit entspricht und
 
-
 2.  die in dem Ersuchen angegebene Ermittlungsmaßnahme in einem
     vergleichbaren innerstaatlichen Fall unter denselben Bedingungen
     angeordnet werden könnte.
-
-
-
 
 (4) Ist die Anordnung einer Maßnahme dem Richter vorbehalten, so kann
 die Bestätigung nach den Absätzen 2 und 3 auch durch das insoweit
@@ -7596,9 +6926,7 @@ befasste Gericht erfolgen, wenn die Länder dies vorsehen.
 ### § 97 (weggefallen)
 
 
-
 ## Zwölfter Teil - Schutz personenbezogener Daten im Rechtshilfeverkehr innerhalb der Europäischen Union und mit den Schengen-assoziierten Staaten
-
 
 
 ### § 97a Anwendungsbereich
@@ -7625,15 +6953,10 @@ Maßgabe, dass keine Anwendung finden dessen
 1.  Absatz 1 Nummer 2, auch in Verbindung mit Absatz 3 und § 77e Absatz 1
     Nummer 7,
 
-
 2.  Absatz 1 Nummer 3, auch in Verbindung mit Absatz 4 und § 77e Absatz 1
     Nummer 4, und
 
-
 3.  Absatz 1 Nummer 4 in Verbindung mit § 77f.
-
-
-
 
 
 ### § 97c Prüf-, Informations- und Protokollierungspflichten der übermittelnden Stelle
@@ -7641,27 +6964,26 @@ Maßgabe, dass keine Anwendung finden dessen
 Zusätzlich zu den in § 77e genannten Pflichten gilt, dass der Stelle
 eines anderen Mitgliedstaates der Europäischen Union, von der oder an
 die personenbezogene Daten übermittelt wurden, bei einer Verletzung
-des Schutzes der personenbezogenen Daten unverzüglich die in § 65
-Absatz 3 des Bundesdatenschutzgesetzes genannten Informationen
+des Schutzes der personenbezogenen Daten unverzüglich die in §
+65 Absatz 3 des Bundesdatenschutzgesetzes genannten Informationen
 mitzuteilen sind.
 
 
 ## Dreizehnter Teil - Auslieferungs- und Durchlieferungsverkehr mit der Republik Island und dem Königreich Norwegen
 
 
-
 ### § 98 Vorrang des Dreizehnten Teils
 
 (1) Dieser Teil gilt für den Auslieferungs- und Durchlieferungsverkehr
 mit der Republik Island und dem Königreich Norwegen nach dem
-Übereinkommen vom 28. Juni 2006 zwischen der Europäischen Union und
-der Republik Island und dem Königreich Norwegen über das
+Übereinkommen vom 28. Juni 2006 zwischen der Europäischen Union
+und der Republik Island und dem Königreich Norwegen über das
 Übergabeverfahren zwischen den Mitgliedstaaten der Europäischen Union
 und Island und Norwegen (ABl. L 292 vom 21.10.2006, S. 2).
 
-(2) Soweit dieser Teil keine besonderen Regelungen enthält, finden die
-Bestimmungen des Achten Teils mit Ausnahme des § 79 Absatz 1 Satz 1,
-der §§ 80, 81 Nummer 4, § 83c Absatz 5, § 83f Absatz 3 und § 83i
+(2) Soweit dieser Teil keine besonderen Regelungen enthält, finden
+die Bestimmungen des Achten Teils mit Ausnahme des § 79 Absatz 1 Satz
+1, der §§ 80, 81 Nummer 4, § 83c Absatz 5, § 83f Absatz 3 und § 83i
 entsprechend sowie nach Maßgabe des § 78 die übrigen Bestimmungen
 dieses Gesetzes Anwendung.
 
@@ -7679,10 +7001,10 @@ Bestimmungen des Achten Teils neben den Mitgliedstaaten der
 Europäischen Union auch die Republik Island und das Königreich
 Norwegen; an die Stelle des Europäischen Haftbefehls tritt ein
 Auslieferungsersuchen auf Grundlage eines Haftbefehls im Sinne des
-Artikels 2 Absatz 5 des Übereinkommens vom 28. Juni 2006 zwischen der
-Europäischen Union und der Republik Island und dem Königreich Norwegen
-über das Übergabeverfahren zwischen den Mitgliedstaaten der
-Europäischen Union und Island und Norwegen. Ferner tritt dieses
+Artikels 2 Absatz 5 des Übereinkommens vom 28. Juni 2006 zwischen
+der Europäischen Union und der Republik Island und dem Königreich
+Norwegen über das Übergabeverfahren zwischen den Mitgliedstaaten
+der Europäischen Union und Island und Norwegen. Ferner tritt dieses
 Übereinkommen an die Stelle des Rahmenbeschlusses Europäischer
 Haftbefehl in den anwendbaren Vorschriften des Achten Teils.
 
@@ -7698,15 +7020,14 @@ Bestimmungen dieses Gesetzes vorgesehen ist.
 ## Vierzehnter Teil - Schlussvorschriften
 
 
-
 ### § 100 Anwendungsvorbehalt; Stichtagsregelung
 
 Die Vorschriften des Abschnitts 2 des Neunten Teils über die
 Vollstreckung von Geldsanktionen nach dem Rahmenbeschluss
-Geldsanktionen sind bei Geldsanktionen gemäß § 87 Absatz 2 Nummer 1
-und 4 nur anwendbar, wenn diese nach dem 27. Oktober 2010
-rechtskräftig geworden sind. Bei Geldsanktionen nach § 87 Absatz 2
-Nummer 2 und 3 sind die in Satz 1 genannten Vorschriften nur
+Geldsanktionen sind bei Geldsanktionen gemäß § 87 Absatz 2 Nummer
+1 und 4 nur anwendbar, wenn diese nach dem 27. Oktober 2010
+rechtskräftig geworden sind. Bei Geldsanktionen nach § 87 Absatz
+2 Nummer 2 und 3 sind die in Satz 1 genannten Vorschriften nur
 anwendbar, wenn die nicht gerichtliche Entscheidung über die
 Verhängung der Geldsanktion nach dem 27. Oktober 2010 ergangen ist.
 
@@ -7720,18 +7041,17 @@ ebenfalls in der Fassung vor dem 28. März 2011 zulässig, sofern der
 ersuchende Mitgliedstaat der Europäischen Union auf andere Art und
 Weise die zusätzlichen Angaben übermittelt, die gemäß den Artikeln 2
 bis 4 des Rahmenbeschlusses 2009/299/JI des Rates vom 26. Februar 2009
-zur Änderung der Rahmenbeschlüsse 2002/584/JI, 2005/214/JI,
-2006/783/JI, 2008/909/JI und 2008/947/JI, zur Stärkung der
-Verfahrensrechte von Personen und zur Förderung der Anwendung des
-Grundsatzes der gegenseitigen Anerkennung auf Entscheidungen, die im
-Anschluss an eine Verhandlung ergangen sind, zu der die betroffene
-Person nicht erschienen ist (ABl. L 81 vom 27.3.2009, S. 24),
-erforderlich sind. Diese Regelung wird nicht mehr angewendet, sobald
-der letzte Mitgliedstaat der Europäischen Union den Rahmenbeschluss
-2009/299/JI in sein nationales Recht umgesetzt hat. Das
-Bundesministerium der Justiz und für Verbraucherschutz gibt den Tag,
-ab dem Satz 1 gemäß Satz 2 nicht mehr angewendet wird, im
-Bundesanzeiger bekannt.
+zur Änderung der Rahmenbeschlüsse 2002/584/JI, 2005/214/JI, 2006/783/
+JI, 2008/909/JI und 2008/947/JI, zur Stärkung der Verfahrensrechte
+von Personen und zur Förderung der Anwendung des Grundsatzes der
+gegenseitigen Anerkennung auf Entscheidungen, die im Anschluss
+an eine Verhandlung ergangen sind, zu der die betroffene Person
+nicht erschienen ist (ABl. L 81 vom 27.3.2009, S. 24), erforderlich
+sind. Diese Regelung wird nicht mehr angewendet, sobald der letzte
+Mitgliedstaat der Europäischen Union den Rahmenbeschluss 2009/299/
+JI in sein nationales Recht umgesetzt hat. Das Bundesministerium der
+Justiz und für Verbraucherschutz gibt den Tag, ab dem Satz 1 gemäß
+Satz 2 nicht mehr angewendet wird, im Bundesanzeiger bekannt.
 
 
 ### § 102 Übergangsvorschrift für die Vollstreckung freiheitsentziehender Sanktionen
@@ -7775,18 +7095,18 @@ Ausgleich des Geleisteten verlangen.
 Mitgliedstaates der Europäischen Union bei Amtshandlungen nach
 Abschnitt 2 des Zehnten Teils in dem Hoheitsgebiet der Bundesrepublik
 Deutschland verursachen, werden von dem zuständigen Träger der
-deutschen öffentlichen Gewalt so ersetzt, wie sie nach deutschem Recht
-zu ersetzen wären, wenn deutsche Richter oder sonstige deutsche
+deutschen öffentlichen Gewalt so ersetzt, wie sie nach deutschem
+Recht zu ersetzen wären, wenn deutsche Richter oder sonstige deutsche
 Amtsträger die Schäden verursacht hätten.
 
 
 ### § 106 Einschränkung von Grundrechten
 
-Die Grundrechte der körperlichen Unversehrtheit (Artikel 2 Abs. 2 Satz
-1 des Grundgesetzes), der Freiheit der Person (Artikel 2 Abs. 2 Satz 2
-des Grundgesetzes), des Brief-, Post- und Fernmeldegeheimnisses
-(Artikel 10 Abs. 1 des Grundgesetzes), der Unverletzlichkeit der
-Wohnung (Artikel 13 des Grundgesetzes) und des Schutzes vor
+Die Grundrechte der körperlichen Unversehrtheit (Artikel 2 Abs. 2
+Satz 1 des Grundgesetzes), der Freiheit der Person (Artikel 2 Abs. 2
+Satz 2 des Grundgesetzes), des Brief-, Post- und Fernmeldegeheimnisses
+(Artikel 10 Abs. 1 des Grundgesetzes), der Unverletzlichkeit
+der Wohnung (Artikel 13 des Grundgesetzes) und des Schutzes vor
 Auslieferung (Artikel 16 Abs. 2 Satz 1 des Grundgesetzes) werden nach
 Maßgabe dieses Gesetzes eingeschränkt.
 

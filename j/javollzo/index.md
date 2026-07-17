@@ -25,9 +25,9 @@ Zuletzt geändert durch
 ## § 1 Vollzugseinrichtungen
 
 (1) Dauerarrest und Kurzarrest von mehr als zwei Tagen werden in
-Jugendarrestanstalten, Freizeitarrest und Kurzarrest bis zu zwei Tagen
-in Freizeitarresträumen vollzogen. Freizeitarrest und Kurzarrest bis
-zu zwei Tagen können auch in einer Jugendarrestanstalt vollzogen
+Jugendarrestanstalten, Freizeitarrest und Kurzarrest bis zu zwei
+Tagen in Freizeitarresträumen vollzogen. Freizeitarrest und Kurzarrest
+bis zu zwei Tagen können auch in einer Jugendarrestanstalt vollzogen
 werden.
 
 (2) Jugendarrestanstalten dürfen nicht, Freizeitarresträume dürfen
@@ -36,8 +36,8 @@ Erwachsenen dienen. Jugendarrestanstalten und Freizeitarresträume
 dürfen nicht in Straf- oder Untersuchungshaftanstalten, auch nicht im
 Verwaltungsteil dieser Anstalten, eingerichtet werden.
 
-(3) Männliche und weibliche Jugendliche werden getrennt. Hiervon darf
-abgesehen werden, um Jugendlichen die Teilnahme an religiösen
+(3) Männliche und weibliche Jugendliche werden getrennt. Hiervon
+darf abgesehen werden, um Jugendlichen die Teilnahme an religiösen
 Veranstaltungen und an erzieherischen Maßnahmen zu ermöglichen.
 
 (4) Jugendarrestanstalten sollen nicht weniger als 10 und nicht mehr
@@ -51,8 +51,8 @@ dort kein Jugendrichter oder sind mehrere tätig, so ist Vollzugsleiter
 der Jugendrichter, den die oberste Behörde der Landesjustizverwaltung
 dazu bestimmt.
 
-(2) Der Vollzugsleiter ist für den gesamten Vollzug verantwortlich. Er
-kann bestimmte Aufgaben einzelnen oder mehreren Mitarbeitern
+(2) Der Vollzugsleiter ist für den gesamten Vollzug verantwortlich.
+Er kann bestimmte Aufgaben einzelnen oder mehreren Mitarbeitern
 gemeinschaftlich übertragen.
 
 (3) Die Zusammenarbeit aller an der Erziehung Beteiligten soll durch
@@ -62,8 +62,8 @@ regelmäßige Besprechungen gefördert werden.
 ## § 3 Mitarbeiter
 
 (1) Die Mitarbeiter des Vollzugsleiters sollen erzieherisch befähigt
-und in der Jugenderziehung erfahren sein. Sie sollen so ausgewählt und
-angeleitet werden, daß sie mit dem Vollzugsleiter in einer
+und in der Jugenderziehung erfahren sein. Sie sollen so ausgewählt
+und angeleitet werden, daß sie mit dem Vollzugsleiter in einer
 erzieherischen Einheit vertrauensvoll zusammenarbeiten.
 
 (2) Männliche Jugendliche werden von Männern, weibliche Jugendliche
@@ -109,10 +109,10 @@ selbst nähren, dürfen nicht aufgenommen werden.
 untergebracht, sofern nicht sein körperlicher oder seelischer Zustand
 eine gemeinsame Unterbringung erfordert.
 
-(2) Während des Tages soll der Jugendliche bei der Arbeit und bei
-gemeinschaftlichen Veranstaltungen mit anderen Jugendlichen zusammen
-untergebracht werden, sofern Aufsicht gewährleistet ist und
-erzieherische Gründe nicht entgegenstehen. Im Freizeitarrest und
+(2) Während des Tages soll der Jugendliche bei der Arbeit und
+bei gemeinschaftlichen Veranstaltungen mit anderen Jugendlichen
+zusammen untergebracht werden, sofern Aufsicht gewährleistet ist
+und erzieherische Gründe nicht entgegenstehen. Im Freizeitarrest und
 Kurzarrest bis zu zwei Tagen kann er auch während des Tages allein
 untergebracht werden. Erfordert sein körperlicher oder seelischer
 Zustand eine gemeinsame Unterbringung, so ist er auch während des
@@ -121,10 +121,10 @@ Tages mit anderen Jugendlichen zusammen unterzubringen.
 
 ## § 7 Persönlichkeitserforschung
 
-Der Vollzugsleiter und die an der Erziehung beteiligten Mitarbeiter
-sollen alsbald ein Bild von dem Jugendlichen und seinen
-Lebensverhältnissen zu gewinnen versuchen, soweit dies für die
-Behandlung des Jugendlichen während des Arrestes und für eine
+Der Vollzugsleiter und die an der Erziehung beteiligten
+Mitarbeiter sollen alsbald ein Bild von dem Jugendlichen und
+seinen Lebensverhältnissen zu gewinnen versuchen, soweit dies für
+die Behandlung des Jugendlichen während des Arrestes und für eine
 Nachbetreuung notwendig ist.
 
 
@@ -147,8 +147,8 @@ Jugendlichen betreffen, unverzüglich dem Vollzugsleiter zu melden.
 Zusammenleben in der Anstalt beitragen. Er darf die Ordnung in der
 Anstalt nicht stören.
 
-(2) Die Anforderungen, die an das Verhalten des Jugendlichen gestellt
-werden, sind durch die Vollzugsbehörde in besonderen
+(2) Die Anforderungen, die an das Verhalten des Jugendlichen
+gestellt werden, sind durch die Vollzugsbehörde in besonderen
 Verhaltensvorschriften zusammenzufassen, die in jedem Arrestraum
 ausgehängt werden. Diese Verhaltensvorschriften sind so abzufassen,
 daß sie einem Jugendlichen verständlich sind. Der Sinn der
@@ -164,11 +164,11 @@ befolgen und die Verhaltensvorschriften zu beachten.
 (1) Der Vollzug soll so gestaltet werden, daß die körperliche,
 geistige und sittliche Entwicklung des Jugendlichen gefördert wird.
 
-(2) Die Erziehungsarbeit soll im Kurzarrest von mehr als zwei Tagen
-und im Dauerarrest neben Aussprachen mit dem Vollzugsleiter namentlich
-soziale Einzelhilfe, Gruppenarbeit und Unterricht umfassen. Beim
-Vollzug des Freizeitarrestes und des Kurzarrestes bis zu zwei Tagen
-soll eine Aussprache mit dem Vollzugsleiter nach Möglichkeit
+(2) Die Erziehungsarbeit soll im Kurzarrest von mehr als zwei
+Tagen und im Dauerarrest neben Aussprachen mit dem Vollzugsleiter
+namentlich soziale Einzelhilfe, Gruppenarbeit und Unterricht umfassen.
+Beim Vollzug des Freizeitarrestes und des Kurzarrestes bis zu zwei
+Tagen soll eine Aussprache mit dem Vollzugsleiter nach Möglichkeit
 stattfinden.
 
 
@@ -261,8 +261,8 @@ Unterbrechung der Vollstreckung an.
 ## § 18 Freizeit
 
 (1) Der Jugendliche erhält Gelegenheit, seine Freizeit sinnvoll zu
-verbringen. Er wird hierzu angeleitet. Aus erzieherischen Gründen kann
-seine Teilnahme an gemeinschaftlichen Veranstaltungen angeordnet
+verbringen. Er wird hierzu angeleitet. Aus erzieherischen Gründen
+kann seine Teilnahme an gemeinschaftlichen Veranstaltungen angeordnet
 werden.
 
 (2) Die Teilnahme an Veranstaltungen außerhalb der Jugendarrestanstalt
@@ -283,8 +283,8 @@ Geistlichen seines jetzigen oder früheren Bekenntnisses zu empfangen
 und an gemeinschaftlichen Gottesdiensten und anderen religiösen
 Veranstaltungen seines Bekenntnisses in der Anstalt teilzunehmen.
 
-(3) Wenn ein Geistlicher dieses Bekenntnisses nicht bestellt ist, so
-kann der Jugendliche durch einen Geistlichen seines Bekenntnisses
+(3) Wenn ein Geistlicher dieses Bekenntnisses nicht bestellt ist,
+so kann der Jugendliche durch einen Geistlichen seines Bekenntnisses
 besucht werden.
 
 
@@ -295,8 +295,8 @@ Im Kurzarrest von mehr als zwei Tagen und im Dauerarrest können
 Schriftwechsel und Besuche aus erzieherischen Gründen zugelassen
 werden.
 
-(2) Die Entscheidung über die Zulassung des Schriftwechsels und der
-Besuche ist dem Vollzugsleiter vorbehalten. Ist dieser nicht
+(2) Die Entscheidung über die Zulassung des Schriftwechsels und
+der Besuche ist dem Vollzugsleiter vorbehalten. Ist dieser nicht
 erreichbar, so trifft der dazu bestimmte Vollzugsbedienstete die
 Entscheidung.
 
@@ -324,18 +324,13 @@ aufrechterhalten werden, wie sie notwendig sind.
 1.  Entziehung von Gegenständen, die der Jugendliche zu Gewalttätigkeiten
     oder sonst mißbrauchen könnte;
 
-
 2.  Absonderung oder Zusammenlegung mit anderen Jugendlichen;
-
 
 3.  die Unterbringung in einem besonders gesicherten Arrestraum ohne
     gefährdende Gegenstände.
 
-
-
-
-(4) Die Sicherungsmaßnahmen ordnet der Vollzugsleiter an. Bei Gefahr
-im Verzug darf sie vorläufig auch der die Aufsicht führende
+(4) Die Sicherungsmaßnahmen ordnet der Vollzugsleiter an. Bei
+Gefahr im Verzug darf sie vorläufig auch der die Aufsicht führende
 Vollzugsbedienstete anordnen. Die Entscheidung des Vollzugsleiters ist
 unverzüglich einzuholen.
 
@@ -359,20 +354,13 @@ wird dem Jugendlichen mit kurzer Begründung eröffnet.
 
 1.  der Verweis,
 
-
 2.  die Beschränkung oder Entziehung des Lesestoffes auf bestimmte Dauer,
-
 
 3.  Verbot des Verkehrs mit der Außenwelt bis zu zwei Wochen,
 
-
 4.  Ausschluß von Gemeinschaftsveranstaltungen und
 
-
 5.  abgesonderte Unterbringung.
-
-
-
 
 (4) Ist eine Hausstrafe teilweise vollzogen, so kann der
 Vollzugsleiter von der weiteren Vollstreckung absehen, wenn der Zweck
@@ -399,11 +387,11 @@ entlassen, soweit das nach den Verkehrsverhältnissen oder zur
 alsbaldigen Wiederaufnahme der beruflichen Arbeit des Jugendlichen
 erforderlich ist.
 
-(3) Der Freizeitarrest beginnt am Sonnabend um 8.00 Uhr oder, wenn der
-Jugendliche an diesem Tag vormittags arbeitet oder die Schule besuchen
-muß, um 15.00 Uhr. Ausnahmen werden nur zugelassen, soweit die
-Verkehrsverhältnisse dazu zwingen. Der Freizeitarrest endet am Montag
-um 7.00 Uhr. Der Jugendliche kann vorzeitig, auch schon am
+(3) Der Freizeitarrest beginnt am Sonnabend um 8.00 Uhr oder, wenn
+der Jugendliche an diesem Tag vormittags arbeitet oder die Schule
+besuchen muß, um 15.00 Uhr. Ausnahmen werden nur zugelassen, soweit
+die Verkehrsverhältnisse dazu zwingen. Der Freizeitarrest endet am
+Montag um 7.00 Uhr. Der Jugendliche kann vorzeitig, auch schon am
 Sonntagabend entlassen werden, wenn er nur so seine Arbeitsstätte oder
 die Schule am Montag rechtzeitig erreichen kann.
 
@@ -418,8 +406,8 @@ Jugendlichen notwendig und nicht schon anderweitig veranlaßt worden
 sind, werden in Zusammenarbeit mit den Trägern der öffentlichen und
 freien Jugendhilfe vorbereitet.
 
-(2) Ist es den Umständen nach angemessen, daß der Jugendliche nach der
-Entlassung ein öffentliches Verkehrsmittel nach seinem Wohn- oder
+(2) Ist es den Umständen nach angemessen, daß der Jugendliche nach
+der Entlassung ein öffentliches Verkehrsmittel nach seinem Wohn- oder
 Arbeitsort benutzt, so wird ihm eine Fahrkarte aus Haushaltsmitteln
 beschafft, wenn die eigenen Mittel des Jugendlichen nicht ausreichen
 oder aus Billigkeitsgründen nicht in Anspruch genommen werden sollen.
@@ -432,10 +420,10 @@ auch im Fall des § 17 Abs. 4 zu veranlassen.
 
 (1) Bei Dauerarrest faßt der Vollzugsleiter über jeden Jugendlichen
 einen Schlußbericht ab, in dem er sich zu dessen Führung und, soweit
-dies möglich ist, auch zu dessen Persönlichkeit sowie zur Wirkung des
-Arrestvollzuges äußert. Der Bericht wird zu den Vollzugs- und den
-Strafakten gebracht. Eine Abschrift ist dem Jugendamt, bei unter
-Bewährungsaufsicht stehenden Jugendlichen auch dem zuständigen
+dies möglich ist, auch zu dessen Persönlichkeit sowie zur Wirkung
+des Arrestvollzuges äußert. Der Bericht wird zu den Vollzugs- und
+den Strafakten gebracht. Eine Abschrift ist dem Jugendamt, bei
+unter Bewährungsaufsicht stehenden Jugendlichen auch dem zuständigen
 Bewährungshelfer zuzuleiten.
 
 (2) Bei Freizeit- und Kurzarrest wird ein Schlußbericht nur bei
@@ -463,7 +451,6 @@ Die Vorschriften dieser Verordnung gelten auch für Heranwachsende.
 
 
 ## § 32 (weggefallen)
-
 
 
 ## § 33 Inkrafttreten

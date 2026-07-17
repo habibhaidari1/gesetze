@@ -1,6 +1,5 @@
 ---
-Title: Achter Erlass über die Genehmigung der Stiftung und Verleihung von Orden und
-  Ehrenzeichen
+Title: Achter Erlass über die Genehmigung der Stiftung und Verleihung von Orden und Ehrenzeichen
 jurabk: OrdenErl 8
 layout: default
 origslug: ordenerl_8
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 2002, 3748
-
 
 
 ## Eingangsformel

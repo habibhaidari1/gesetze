@@ -26,20 +26,16 @@ Mittelbare änderung durch
 
 Es verordnen
 
-–   das Bundesministerium der Finanzen auf Grund des § 18 Absatz 1 Nummer
+– das Bundesministerium der Finanzen auf Grund des § 18 Absatz 1 Nummer
     3 und 4 sowie Absatz 3 Satz 1 Nummer 1 bis 6 und 8,
 
-
-–   das Bundesministerium der Finanzen im Benehmen mit dem
+– das Bundesministerium der Finanzen im Benehmen mit dem
     Bundesministerium des Innern auf Grund des § 18 Absatz 3 Satz 1 Nummer
     7 sowie
 
-
-–   das Bundesministerium der Finanzen im Einvernehmen mit dem
+– das Bundesministerium der Finanzen im Einvernehmen mit dem
     Bundesministerium für Verkehr, Bau und Stadtentwicklung auf Grund des
     § 18 Absatz 2 Nummer 1
-
-
 
 des Luftverkehrsteuergesetzes vom 9. Dezember 2010 (BGBl. I S. 1885):
 
@@ -76,8 +72,8 @@ Abgabenordnung aufgezählten Nebenbestimmungen verbunden werden.
 
 ### § 3 Anzeichen für eine Gefährdung der Steuer
 
-Als Anzeichen für eine Gefährdung der Steuer nach § 9 des Gesetzes ist
-es insbesondere anzusehen, wenn eine oder mehrere der folgenden
+Als Anzeichen für eine Gefährdung der Steuer nach § 9 des Gesetzes
+ist es insbesondere anzusehen, wenn eine oder mehrere der folgenden
 Voraussetzungen erfüllt sind:
 
 1.  der Steuerschuldner
@@ -85,44 +81,33 @@ Voraussetzungen erfüllt sind:
     a)  verweigert unberechtigt Auskünfte über seine wirtschaftliche Lage
         einschließlich der Herkunft des Betriebskapitals,
 
-
     b)  lehnt die Prüfung seiner wirtschaftlichen Lage ab oder
-
 
     c)  legt die für die Prüfung erforderlichen Bilanzen, Inventare, Bücher
         und Aufzeichnungen nicht, nicht rechtzeitig oder nicht mit richtigem
         Inhalt vor;
 
-
-
-
-
-2.  weitere Angaben, die zur Sicherung des Steueraufkommens erforderlich
-    sind, werden nach § 7 Absatz 3 des Gesetzes durch ein
+2.  weitere Angaben, die zur Sicherung des Steueraufkommens
+    erforderlich sind, werden nach § 7 Absatz 3 des Gesetzes durch ein
     Luftverkehrsunternehmen oder nach § 8 Absatz 3 Satz 3 des Gesetzes
     durch einen Antragsteller unberechtigt nicht, nicht rechtzeitig oder
     nicht mit richtigem Inhalt gemacht;
-
 
 3.  der Steuerschuldner erfüllt rechtmäßige Auflagen, die mit der
     Erlaubnis als steuerlicher Beauftragter nach § 8 Absatz 2 des Gesetzes
     verbunden sind, nicht;
 
-
 4.  der Steuerschuldner legt zur Zahlung der fälligen Luftverkehrsteuer
     nicht oder nur teilweise gedeckte Schecks vor oder lässt sich diese
     vorlegen;
 
-
 5.  der Steuerschuldner zahlt die Luftverkehrsteuer mehrfach innerhalb der
     Frist nach § 240 Absatz 3 der Abgabenordnung oder nach deren Ablauf;
-
 
 6.  der Steuerschuldner lässt die Luftverkehrsteuer mehrmals durch einen
     Dritten entrichten, ohne dass er nachweisen kann, dass aus einem
     wirtschaftlich begründeten gegenseitigen Vertrag Ansprüche auf die
     Zahlung durch den Dritten bestehen;
-
 
 7.  der Steuerschuldner oder, soweit es sich um ein Unternehmen handelt,
     Personen, die in nicht unerheblichem Maße am Kapital des Unternehmens
@@ -133,49 +118,35 @@ Voraussetzungen erfüllt sind:
         Verkürzung von Luftverkehrsteuer oder wegen Teilnahme an einer solchen
         Tat verurteilt,
 
-
     b)  sind nach den im Einzelfall vorliegenden zureichenden tatsächlichen
         Anhaltspunkten Täter oder Teilnehmer einer Steuerstraftat oder
-
 
     c)  sind oder waren in einen Fall von Zahlungsunfähigkeit verwickelt, auf
         Grund derer die Luftverkehrsteuer nicht in voller Höhe vereinnahmt
         werden konnte;
 
-
-
-
-
 8.  der Steuerschuldner kommt den Aufzeichnungspflichten nach § 13 des
     Gesetzes nicht oder nur ungenügend nach und erschwert dadurch die
     Überprüfung oder Ermittlung der Luftverkehrsteuer nicht unerheblich;
 
-
 9.  der Steuerschuldner erklärt oder meldet die Luftverkehrsteuer
     wiederholt nicht oder nicht rechtzeitig an;
-
 
 10. der Steuerschuldner hat nicht unerhebliche Zahlungsrückstände bei
     anderen Abgaben oder anderen Abgabengläubigern;
 
-
-11. der Steuerschuldner erhebt Einwendungen gegen die Durchführung von
-    Außenprüfungen, insbesondere bei rechtmäßigen Prüfungen der
+11. der Steuerschuldner erhebt Einwendungen gegen die Durchführung
+    von Außenprüfungen, insbesondere bei rechtmäßigen Prüfungen der
     wirtschaftlichen Lage, oder
-
 
 12. der Steuerschuldner stellt einen Antrag auf Stundung nach § 222 der
     Abgabenordnung.
-
-
-
 
 
 ## Abschnitt 4 - Zu den §§ 12 und 18 Absatz 3 des Gesetzes
 
 
 ### (XXXX) §§ 4 bis 6 (weggefallen)
-
 
 
 ## Abschnitt 5 - Zu § 156 Absatz 1 der Abgabenordnung
@@ -188,8 +159,8 @@ Hauptzollamt nur abweichend festgesetzt, geändert oder berichtigt,
 wenn die Abweichung von der angemeldeten oder festgesetzten Steuer
 mindestens 25 Euro beträgt.
 
-(2) Soweit die Festsetzung durch automatisierte Verfahren unterstützt
-wird, gilt Absatz 1 erst, wenn die entsprechende Regelung
+(2) Soweit die Festsetzung durch automatisierte Verfahren
+unterstützt wird, gilt Absatz 1 erst, wenn die entsprechende Regelung
 programmtechnisch umgesetzt worden ist.
 
 

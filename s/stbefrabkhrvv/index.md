@@ -1,8 +1,5 @@
 ---
-Title: Verordnung zu dem Abkommen vom 9. Dezember 1996 zwischen der Regierung der
-  Bundesrepublik Deutschland und der Regierung der Republik Kroatien über die gegenseitige
-  Befreiung von Steuern und Straßengebühren für Straßenfahrzeuge im internationalen
-  Verkehr
+Title: Verordnung zu dem Abkommen vom 9. Dezember 1996 zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Republik Kroatien über die gegenseitige Befreiung von Steuern und Straßengebühren für Straßenfahrzeuge im internationalen Verkehr
 jurabk: StBefrAbkHRVV
 layout: default
 origslug: stbefrabkhrvv
@@ -19,11 +16,10 @@ Fundstelle
 :   BGBl II: 1998, 182
 
 
-
 ## Eingangsformel
 
-Auf Grund des § 15 Abs. 1 Nr. 7 des Kraftfahrzeugsteuergesetzes in der
-Fassung der Bekanntmachung vom 24. Mai 1994 (BGBl. I S. 1102)
+Auf Grund des § 15 Abs. 1 Nr. 7 des Kraftfahrzeugsteuergesetzes in
+der Fassung der Bekanntmachung vom 24. Mai 1994 (BGBl. I S. 1102)
 verordnet die Bundesregierung:
 
 

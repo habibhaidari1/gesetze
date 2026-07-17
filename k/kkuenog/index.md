@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zu Übergangsregelungen zur Neuorganisation der vertragsärztlichen Selbstverwaltung
-  und Organisation der Krankenkassen
+Title: Gesetz zu Übergangsregelungen zur Neuorganisation der vertragsärztlichen Selbstverwaltung und Organisation der Krankenkassen
 jurabk: KKÜNOG
 layout: default
 origslug: kk_nog
@@ -22,8 +21,8 @@ Geändert durch
 
 ## § 1 Durchführung von Organisationsänderungen bei einzelnen Kassenärztlichen Vereinigungen
 
-Die zu vereinigenden Kassenärztlichen Vereinigungen haben die nach §
-77 Abs. 1 und 2 des Fünften Buches Sozialgesetzbuch in der ab 1.
+Die zu vereinigenden Kassenärztlichen Vereinigungen haben die nach
+§ 77 Abs. 1 und 2 des Fünften Buches Sozialgesetzbuch in der ab 1.
 Januar 2005 geltenden Fassung erforderlichen Organisationsänderungen
 im Einvernehmen mit den für die Sozialversicherung zuständigen
 obersten Verwaltungsbehörden der Länder bis zum 30. Juni 2004
@@ -32,11 +31,11 @@ durchzuführen.
 
 ## § 2 Wahl der Vertreterversammlung der Kassenärztlichen Vereinigungen
 
-(1) Die Mitglieder der Kassenärztlichen Vereinigungen wählen bis zum
-30\. September 2004 aus ihrer Mitte die Mitglieder der
-Vertreterversammlung nach § 79 Abs. 1 des Fünften Buches
-Sozialgesetzbuch in der ab 1. Januar 2005 geltenden Fassung. Hierbei
-sind § 79 Abs. 2 und § 80 Abs. 1 und 1a des Fünften Buches
+(1) Die Mitglieder der Kassenärztlichen Vereinigungen wählen
+bis zum 30. September 2004 aus ihrer Mitte die Mitglieder
+der Vertreterversammlung nach § 79 Abs. 1 des Fünften Buches
+Sozialgesetzbuch in der ab 1. Januar 2005 geltenden Fassung.
+Hierbei sind § 79 Abs. 2 und § 80 Abs. 1 und 1a des Fünften Buches
 Sozialgesetzbuch in der ab dem 1. Januar 2005 geltenden Fassung
 anzuwenden.
 
@@ -46,16 +45,16 @@ oder den Vorsitzenden und deren Stellvertreter.
 
 ## § 3 Wahl des Vorstandes der Kassenärztlichen Vereinigungen
 
-Die Vertreterversammlung nach § 2 wählt bis zum 1. Dezember 2004 den
-Vorstand nach § 79 Abs. 1 des Fünften Buches Sozialgesetzbuch in der
-ab 1. Januar 2005 geltenden Fassung sowie aus seiner Mitte die
-Vorsitzende oder den Vorsitzenden des Vorstandes und deren
+Die Vertreterversammlung nach § 2 wählt bis zum 1. Dezember 2004
+den Vorstand nach § 79 Abs. 1 des Fünften Buches Sozialgesetzbuch
+in der ab 1. Januar 2005 geltenden Fassung sowie aus seiner Mitte
+die Vorsitzende oder den Vorsitzenden des Vorstandes und deren
 Stellvertreter. Hierbei sind § 79 Abs. 4 Satz 1 und 2 des Fünften
-Buches Sozialgesetzbuch in der ab dem 1. Januar 2005 geltenden Fassung
-anzuwenden. Sofern auf Grund der Regelungen nach § 77 Abs. 1 des
-Fünften Buches Sozialgesetzbuch neue Kassenärztliche Vereinigungen
-durch Zusammenlegung gebildet werden, kann die Anzahl der
-Vorstandsmitglieder durch Satzungsbeschluss für die Übergangszeit
+Buches Sozialgesetzbuch in der ab dem 1. Januar 2005 geltenden
+Fassung anzuwenden. Sofern auf Grund der Regelungen nach § 77
+Abs. 1 des Fünften Buches Sozialgesetzbuch neue Kassenärztliche
+Vereinigungen durch Zusammenlegung gebildet werden, kann die Anzahl
+der Vorstandsmitglieder durch Satzungsbeschluss für die Übergangszeit
 einer Wahlperiode auf bis zu fünf Mitglieder erweitert werden.
 
 
@@ -82,20 +81,20 @@ die Vorstandsaufgaben bis zur Wahl nach Satz 1 wahrnimmt.
 
 (1) Der Gemeinsame Bundesausschuss nach § 91 des Fünften Buches
 Sozialgesetzbuch wird zum 1. Januar 2004 errichtet. Der Gemeinsame
-Bundesausschuss tritt die Rechtsnachfolge der Ausschüsse nach den §§
-91, 137c und 137e des Fünften Buches Sozialgesetzbuch in der bis zum
-Inkrafttreten dieses Gesetzes geltenden Fassung an. Der Gemeinsame
-Bundesausschuss tritt in die Rechte und Pflichten der
-Arbeitsgemeinschaft Koordinierungsausschuss nach § 137e Abs. 1 des
-Fünften Buches Sozialgesetzbuch in der bis zum Inkrafttreten dieses
-Gesetzes geltenden Fassung ein, insbesondere in die Dienst- und
-Beschäftigungsverhältnisse der am 31. Dezember 2003 bei der
+Bundesausschuss tritt die Rechtsnachfolge der Ausschüsse nach den
+§§ 91, 137c und 137e des Fünften Buches Sozialgesetzbuch in der
+bis zum Inkrafttreten dieses Gesetzes geltenden Fassung an. Der
+Gemeinsame Bundesausschuss tritt in die Rechte und Pflichten der
+Arbeitsgemeinschaft Koordinierungsausschuss nach § 137e Abs. 1
+des Fünften Buches Sozialgesetzbuch in der bis zum Inkrafttreten
+dieses Gesetzes geltenden Fassung ein, insbesondere in die Dienst-
+und Beschäftigungsverhältnisse der am 31. Dezember 2003 bei der
 Arbeitsgemeinschaft Koordinierungsausschuss angestellten Bediensteten
 und Beschäftigten in der zu diesem Zeitpunkt gültigen vertraglichen
 Fassung.
 
-(2) Die Träger des Gemeinsamen Bundesausschusses bestellen bis zum 31.
-Januar 2004 die Mitglieder des Gemeinsamen Bundesausschusses
+(2) Die Träger des Gemeinsamen Bundesausschusses bestellen bis zum
+31\. Januar 2004 die Mitglieder des Gemeinsamen Bundesausschusses
 einschließlich des Vorsitzenden und der weiteren unparteiischen
 Mitglieder.
 
@@ -104,14 +103,14 @@ Bundesausschusses nimmt der Vorsitzende des Ausschusses nach § 137e
 des Fünften Buches Sozialgesetzbuch in der bis zum Inkrafttreten
 dieses Gesetzes geltenden Fassung die Aufgaben des Vorsitzenden des
 Gemeinsamen Bundesausschusses wahr. Außerdem fassen die Ausschüsse
-nach Absatz 1 Satz 2 bis zu diesem Zeitpunkt weiterhin Beschlüsse, die
-als Beschlüsse des Gemeinsamen Bundesausschusses gelten;
+nach Absatz 1 Satz 2 bis zu diesem Zeitpunkt weiterhin Beschlüsse,
+die als Beschlüsse des Gemeinsamen Bundesausschusses gelten;
 Entsprechendes gilt für Vereinbarungen der Selbstverwaltungspartner
 nach § 137 des Fünften Buches Sozialgesetzbuch.
 
-(4) Richtlinien und sonstige Beschlüsse der Ausschüsse nach den §§ 91,
-137c, 137e des Fünften Buches Sozialgesetzbuch und Vereinbarungen nach
-§ 137 Abs. 1 des Fünften Buches Sozialgesetzbuch in der bis zum
+(4) Richtlinien und sonstige Beschlüsse der Ausschüsse nach den §§
+91, 137c, 137e des Fünften Buches Sozialgesetzbuch und Vereinbarungen
+nach § 137 Abs. 1 des Fünften Buches Sozialgesetzbuch in der bis zum
 Inkrafttreten dieses Gesetzes geltenden Fassung bleiben bestehen; sie
 können vom Gemeinsamen Bundesausschuss geändert und aufgehoben werden.
 
@@ -120,9 +119,9 @@ können vom Gemeinsamen Bundesausschuss geändert und aufgehoben werden.
 
 Neu errichtete Betriebs- und Innungskrankenkassen, bei denen die
 Abstimmung nach § 148 Abs. 2 und § 158 Abs. 2 des Fünften Buches
-Sozialgesetzbuch am 9. September 2003 noch nicht durchgeführt worden
-ist, können bis zum 31. Dezember 2008 in ihren Satzungen keine
-Regelungen nach § 173 Abs. 2 Satz 1 Nr. 4 des Fünften Buches
+Sozialgesetzbuch am 9. September 2003 noch nicht durchgeführt
+worden ist, können bis zum 31. Dezember 2008 in ihren Satzungen
+keine Regelungen nach § 173 Abs. 2 Satz 1 Nr. 4 des Fünften Buches
 Sozialgesetzbuch vorsehen.
 
 

@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zu dem Übereinkommen vom 4. Juni 1974 zur Verhütung der Meeresverschmutzung
-  vom Lande aus
+Title: Gesetz zu dem Übereinkommen vom 4. Juni 1974 zur Verhütung der Meeresverschmutzung vom Lande aus
 jurabk: LMeerSchÜbkG
 layout: default
 origslug: lmeersch_bkg
@@ -28,10 +27,10 @@ beschlossen:
 
 ## Art 1
 
-Dem in Paris am 11. Juni 1974 von der Bundesrepublik Deutschland
+*Dem in Paris am 11. Juni 1974 von der Bundesrepublik Deutschland
 unterzeichneten Übereinkommen vom 4. Juni 1974 zur Verhütung der
 Meeresverschmutzung vom Lande aus wird zugestimmt. Das Übereinkommen
-wird nachstehend veröffentlicht.
+wird nachstehend veröffentlicht.*
 
 
 ## Art 2
@@ -47,8 +46,8 @@ des Übereinkommens halten, in Kraft zu setzen.
 
 ## Art 3
 
-Vor der Erteilung von Genehmigungen für die Errichtung und den Betrieb
-von Rohrleitungen, die vom Hoheitsgebiet der Bundesrepublik
+Vor der Erteilung von Genehmigungen für die Errichtung und den
+Betrieb von Rohrleitungen, die vom Hoheitsgebiet der Bundesrepublik
 Deutschland ausgehend Stoffe im Sinne des Übereinkommens in die Hohe
 See einleiten, sind das Deutsche Hydrographische Institut und die
 übrigen beteiligten Behörden des Bundes zu hören.

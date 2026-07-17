@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über das Befahren von Bundeswasserstraßen in bestimmten schleswig-holsteinischen
-  Naturschutzgebieten im Bereich der Ostsee
+Title: Verordnung über das Befahren von Bundeswasserstraßen in bestimmten schleswig-holsteinischen Naturschutzgebieten im Bereich der Ostsee
 jurabk: OstseeSHNSGBefV
 layout: default
 origslug: ostseeshnsgbefv
@@ -20,10 +19,10 @@ Fundstelle
 ## Eingangsformel
 
 Auf Grund des § 5 Satz 3 des Bundeswasserstraßengesetzes in der
-Fassung der Bekanntmachung vom 23. Mai 2007 (BGBl. I S. 962; 2008 I S.
-1980), der durch Artikel 522 Nummer 2 der Verordnung vom 31. August
-2015 (BGBl. I S. 1474) geändert worden ist, verordnet das
-Bundesministerium für Verkehr und digitale Infrastruktur im
+Fassung der Bekanntmachung vom 23. Mai 2007 (BGBl. I S. 962; 2008
+I S. 1980), der durch Artikel 522 Nummer 2 der Verordnung vom
+31\. August 2015 (BGBl. I S. 1474) geändert worden ist, verordnet
+das Bundesministerium für Verkehr und digitale Infrastruktur im
 Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz, Bau
 und Reaktorsicherheit:
 
@@ -46,18 +45,13 @@ untersagt,
 1.  die in Lageplan 4 gekennzeichnete Schutzzone 1 (Schleihaff) zu
     befahren;
 
-
 2.  die in Lageplan 4 gekennzeichnete Schutzzone 2 (Küstenstreifen) zu
     befahren;
 
-
 3.  die in Lageplan 4 gekennzeichnete Schutzzone 3 (Ostsee-
     Flachwassergebiet) in der Zeit vom 1. November bis zum 31. März mit
-    Motorbooten, Wassermotorrädern, Windsurfgeräten und Kitesurfgeräten zu
-    befahren.
-
-
-
+    Motorbooten, Wassermotorrädern, Windsurfgeräten und Kitesurfgeräten
+    zu befahren.
 
 (5) Im Bereich des Naturschutzgebietes „Schwansener See“ ist es
 untersagt, in der Zeit vom 1. April bis zum 30. September die in
@@ -66,16 +60,16 @@ Lageplan 5 gekennzeichnete Sperrzone zu befahren.
 (6) Im Bereich des Naturschutzgebietes „Bottsand“ ist es untersagt,
 die in Lageplan 6 gekennzeichnete Sperrzone zu befahren.
 
-(7) Im Bereich des Naturschutzgebietes „Sehlendorfer Binnensee und
-Umgebung“ ist es untersagt, die in Lageplan 7 gekennzeichnete
+(7) Im Bereich des Naturschutzgebietes „Sehlendorfer Binnensee
+und Umgebung“ ist es untersagt, die in Lageplan 7 gekennzeichnete
 Sperrzone zu befahren.
 
 (8) Im Bereich des Naturschutzgebietes „Graswarder/Heiligenhafen“ ist
 es untersagt, die in Lageplan 8 gekennzeichnete Sperrzone zu befahren.
 
-(9) Im Bereich des Naturschutzgebietes „Krummsteert-Sulsdorfer
-Wiek/Fehmarn“ ist es untersagt, die in Lageplan 9 gekennzeichnete
-Sperrzone zu befahren.
+(9) Im Bereich des Naturschutzgebietes „Krummsteert-Sulsdorfer Wiek/
+Fehmarn“ ist es untersagt, die in Lageplan 9 gekennzeichnete Sperrzone
+zu befahren.
 
 (10) Im Bereich des Naturschutzgebietes „Grüner Brink“ ist es
 untersagt, die in Lageplan 10 gekennzeichnete Sperrzone zu befahren.
@@ -98,16 +92,12 @@ eines Landes.
     und Tierwelt einhalten und den Verkehr vom und zum Hafen der Stadt
     Dassow nicht behindern, und
 
-
-2.  Wasserfahrzeuge der gewerblichen Personen- und Güterschifffahrt im
-    Verkehr vom und zum Hafen der Stadt Dassow sowie Sportfahrzeuge mit
-    ständigem Liegeplatz im Hafen der Stadt Dassow, soweit diese
+2.  Wasserfahrzeuge der gewerblichen Personen- und Güterschifffahrt
+    im Verkehr vom und zum Hafen der Stadt Dassow sowie Sportfahrzeuge
+    mit ständigem Liegeplatz im Hafen der Stadt Dassow, soweit diese
     Wasserfahrzeuge das vom und zum Hafen der Stadt Dassow führende
     Fahrwasser benutzen und dabei eine Höchstgeschwindigkeit von 8
     Kilometer je Stunde nicht überschreiten.
-
-
-
 
 (3) Die Verbote des § 1 Absatz 2 bis 10 gelten nicht für die
 Erwerbsfischerei und ausschließlich muskelbetriebene Wasserfahrzeuge.
@@ -123,15 +113,12 @@ oder auf Dauer Befreiungen gewähren, wenn
 1.  die Einhaltung der Verbote zu einer nicht beabsichtigten Härte führen
     würde oder
 
-
 2.  überwiegende Gründe des Wohls der Allgemeinheit die Befreiung
     erfordern.
 
-
-
-Befreiungen nach Satz 1 Nummer 1 müssen mit dem Schutzzweck dieser
-Verordnung vereinbar sein. Befreiungen sind zu gewähren, soweit sie
-erforderlich sind, um eine nach Maßgabe der jeweiligen
+Befreiungen nach Satz 1 Nummer 1 müssen mit dem Schutzzweck
+dieser Verordnung vereinbar sein. Befreiungen sind zu gewähren,
+soweit sie erforderlich sind, um eine nach Maßgabe der jeweiligen
 Schutzgebietsverordnung zulässige Tätigkeit in einem Naturschutzgebiet
 auszuüben.
 
@@ -160,13 +147,23 @@ I S. 1257) geändert worden ist, außer Kraft.
 
 (Fundstelle: BGBl. I 2016, 2182 - 2191)
 
+[Anlage: bgbl1_2016_j2180-1_0010.pdf](bgbl1_2016_j2180-1_0010.pdf)
 
+[Anlage: bgbl1_2016_j2180-1_0020.pdf](bgbl1_2016_j2180-1_0020.pdf)
 
+[Anlage: bgbl1_2016_j2180-1_0030.pdf](bgbl1_2016_j2180-1_0030.pdf)
 
+[Anlage: bgbl1_2016_j2180-1_0040.pdf](bgbl1_2016_j2180-1_0040.pdf)
 
+[Anlage: bgbl1_2016_j2180-1_0050.pdf](bgbl1_2016_j2180-1_0050.pdf)
 
+[Anlage: bgbl1_2016_j2180-1_0060.pdf](bgbl1_2016_j2180-1_0060.pdf)
 
+[Anlage: bgbl1_2016_j2180-1_0070.pdf](bgbl1_2016_j2180-1_0070.pdf)
 
+[Anlage: bgbl1_2016_j2180-1_0080.pdf](bgbl1_2016_j2180-1_0080.pdf)
 
+[Anlage: bgbl1_2016_j2180-1_0090.pdf](bgbl1_2016_j2180-1_0090.pdf)
 
+[Anlage: bgbl1_2016_j2180-1_0100.pdf](bgbl1_2016_j2180-1_0100.pdf)
 

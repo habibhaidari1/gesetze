@@ -1,7 +1,5 @@
 ---
-Title: Bekanntmachung über die Zuständigkeit für die Erteilung der Vollstreckungsklausel
-  zu Entscheidungen der Hohen Behörde und des Gerichtshofes der Europäischen Gemeinschaft
-  für Kohle und Stahl
+Title: Bekanntmachung über die Zuständigkeit für die Erteilung der Vollstreckungsklausel zu Entscheidungen der Hohen Behörde und des Gerichtshofes der Europäischen Gemeinschaft für Kohle und Stahl
 jurabk: VollstrKlZustEGKSBek
 layout: default
 origslug: vollstrklzustegksbek
@@ -16,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl II: 1954, 1030
-
 
 
 ## (XXXX)

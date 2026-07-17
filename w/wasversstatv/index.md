@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Statistik in der öffentlichen Wasserversorgung und im öffentlichen
-  Abwasserwesen
+Title: Verordnung über die Statistik in der öffentlichen Wasserversorgung und im öffentlichen Abwasserwesen
 jurabk: WasVersStatV
 layout: default
 origslug: wasversstatv
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 1969, 1437
-
 
 
 ## Eingangsformel
@@ -43,32 +41,18 @@ Kalenderjahr folgende Tatbestände:
     a)  die Gewinnung und den Bezug von Grundwasser, Quellwasser und
         Oberflächenwasser,
 
-
     b)  die Abgabe von Wasser,
 
-
     c)  die Zahl der versorgten Einwohner;
-
-
-
-
 
 2.  im öffentlichen Abwasserwesen
 
     a)  den Abwasseranfall,
 
-
     b)  die Fortleitung und Reinigung des Abwassers,
-
 
     c)  die Zahl der an die öffentliche Kanalisation angeschlossenen
         Einwohner.
-
-
-
-
-
-
 
 
 ## § 3
@@ -92,8 +76,8 @@ Gemeinden zu machen.
 
 ## § 4
 
-Die Weiterleitung von Einzelangaben nach § 12 Abs. 2 des Gesetzes an
-die für die Wasserversorgung und das Abwasserwesen zuständigen
+Die Weiterleitung von Einzelangaben nach § 12 Abs. 2 des Gesetzes
+an die für die Wasserversorgung und das Abwasserwesen zuständigen
 obersten Bundes- und Landesbehörden oder die von diesen bestimmten
 Stellen ist zugelassen.
 

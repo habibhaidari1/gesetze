@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zur Festsetzung der Beitragssätze in der gesetzlichen Rentenversicherung
-  für das Jahr 2014
+Title: Gesetz zur Festsetzung der Beitragssätze in der gesetzlichen Rentenversicherung für das Jahr 2014
 jurabk: BSG 2014
 layout: default
 origslug: bsg_2014

@@ -1,6 +1,5 @@
 ---
-Title: Anordnung des Bundespräsidenten über den Erlaß von Bestimmungen für die Dienstkleidung
-  der Justizwachtmeister im Bundesdienst
+Title: Anordnung des Bundespräsidenten über den Erlaß von Bestimmungen für die Dienstkleidung der Justizwachtmeister im Bundesdienst
 jurabk: BPräsKldgJWAnO
 layout: default
 origslug: bpr_skldgjwano
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 1967, 1153
-
 
 
 ## (XXXX)

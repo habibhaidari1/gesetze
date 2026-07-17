@@ -1,6 +1,5 @@
 ---
-Title: Verordnung zum Container-Sicherheits-Zulassungsschild und zur Änderung der
-  Kostenordnung
+Title: Verordnung zum Container-Sicherheits-Zulassungsschild und zur Änderung der Kostenordnung
 jurabk: CSCGKostOÄndV
 layout: default
 origslug: cscgkosto_ndv
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 1985, 2221
-
 
 
 ## Eingangsformel

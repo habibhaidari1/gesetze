@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl I: 1999, 1723
 
 
-
 ## (XXXX)
 
 Nachstehend mache ich den Organisationserlaß des Bundeskanzlers vom

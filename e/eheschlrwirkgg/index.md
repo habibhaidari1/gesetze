@@ -29,26 +29,20 @@ Rechtswirkungen erzeugt:
 
 1.  Die Frau hat den Familiennamen des Mannes erhalten.
 
-
-2.  Ihr stehen die Ansprüche nach dem Gesetz über die Versorgung der Opfer
-    des Krieges (Bundesversorgungsgesetz) vom
-    20\. Dezember 1950 (Bundesgesetzbl. S. 791)                    sowie
-    die öffentlich-rechtlichen Versicherungsansprüche und die Ansprüche
-    aus einer betrieblichen Alters- und Hinterbliebenenversorgung wie
-    einer Witwe zu. Hinsichtlich der Gewährung von Witwengeld aus einem
-    Beamtenverhältnis oder einem sonstigen öffentlich-rechtlichen
-    Dienstverhältnis des Verstorbenen wird sie wie die Witwe eines Beamten
-    behandelt, der die Ehe erst nach dem Eintritt in den Ruhestand
-    geschlossen hat. Weitergehende Ansprüche nach Landesrecht bleiben
-    unberührt.
-
+2.  Ihr stehen die Ansprüche nach dem Gesetz über die Versorgung der
+    Opfer des Krieges (Bundesversorgungsgesetz) vom *20. Dezember
+    1950 (Bundesgesetzbl. S. 791)* sowie die öffentlich-rechtlichen
+    Versicherungsansprüche und die Ansprüche aus einer betrieblichen
+    Alters- und Hinterbliebenenversorgung wie einer Witwe zu. Hinsichtlich
+    der Gewährung von Witwengeld aus einem Beamtenverhältnis oder einem
+    sonstigen öffentlich-rechtlichen Dienstverhältnis des Verstorbenen
+    wird sie wie die Witwe eines Beamten behandelt, der die Ehe erst nach
+    dem Eintritt in den Ruhestand geschlossen hat. Weitergehende Ansprüche
+    nach Landesrecht bleiben unberührt.
 
 3.  Ein von dem Manne stammendes Kind der Frau hat die Rechtsstellung
     eines ehelichen Kindes erlangt; § 1720 des Bürgerlichen Gesetzbuchs
     findet entsprechende Anwendung.
-
-
-
 
 (2) Die Rechtswirkungen gelten mit dem Tage als eingetreten, der in
 dem Ausspruch des Standesbeamten als Tag der Eheschließung bezeichnet
@@ -60,7 +54,6 @@ Verschollenheitsrechts gerichtlich festgestellt worden ist.
 
 
 ## § 2 (weggefallen)
-
 
 
 ## § 3
@@ -76,14 +69,14 @@ Ehe geschlossen hätte.
 berufen, solange er nicht durch gerichtliches Urteil für
 rechtsunwirksam erklärt ist.
 
-(2) Die Klage auf Feststellung der Rechtsunwirksamkeit des Ausspruchs
-kann von dem Vater und der Mutter des Mannes sowie von dem
-Staatsanwalt erhoben werden. Die Klage ist gegen die Frau und die
+(2) Die Klage auf Feststellung der Rechtsunwirksamkeit des
+Ausspruchs kann von dem Vater und der Mutter des Mannes sowie von
+dem Staatsanwalt erhoben werden. Die Klage ist gegen die Frau und die
 Kinder zu richten.
 
-(3) Für die Klage ist das Landgericht ausschließlich zuständig, in
-dessen Bezirk die nachträgliche Eheschließung beurkundet worden ist.
-Hat das hiernach zuständige Landgericht seinen Sitz nicht im
+(3) Für die Klage ist das Landgericht ausschließlich zuständig,
+in dessen Bezirk die nachträgliche Eheschließung beurkundet worden
+ist. Hat das hiernach zuständige Landgericht seinen Sitz nicht im
 Geltungsbereich dieses Gesetzes, so bestimmt sich die Zuständigkeit
 nach dem gewöhnlichen Aufenthalt der Frau oder, wenn diese im
 Geltungsbereich dieses Gesetzes keinen gewöhnlichen Aufenthalt hat,
@@ -115,8 +108,8 @@ Landes Rheinland-Pfalz ergangen sind, bleiben unberührt.
 
 ## § 6
 
-(1) Vermögensrechtliche Erklärungen, die von den Beteiligten im
-Zusammenhang mit dem Ausspruch abgegeben worden sind, sind
+(1) Vermögensrechtliche Erklärungen, die von den Beteiligten
+im Zusammenhang mit dem Ausspruch abgegeben worden sind, sind
 rechtswirksam, es sei denn, daß der Ausspruch des Standesbeamten für
 rechtsunwirksam erklärt wird.
 
@@ -135,13 +128,9 @@ die sich auf die vermögensrechtlichen Folgen des Ausspruchs beziehen.
     nachträglichen Eheschließung vom 13. August 1948 (Verordnungsbl. für
     die Britische Zone S. 237),
 
-
 2.  das rheinland-pfälzische Landesgesetz über die Rechtswirkungen des
     Ausspruchs einer nachträglichen Eheschließung vom 24. Februar 1949
     (Gesetz- und Verordnungsbl. S. 81).
-
-
-
 
 (3) Ansprüche, die auf Grund der aufgehobenen Bestimmungen erworben
 sind, bleiben unberührt.

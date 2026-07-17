@@ -21,22 +21,22 @@ Fundstelle
 
 ## Art 5 Evaluierung
 
-Die Anwendung der durch das Terrorismusbekämpfungsgesetz vom 9. Januar
-2002 (BGBl. I S. 361, 3142), das
+Die Anwendung der durch das Terrorismusbekämpfungsgesetz
+vom 9. Januar 2002 (BGBl. I S. 361, 3142), das
 Terrorismusbekämpfungsergänzungsgesetz vom 5. Januar 2007 (BGBl. I S.
-2), das Gesetz zur Änderung des Bundesverfassungsschutzgesetzes vom 7.
-Dezember 2011 (BGBl. I S. 2576) und dieses Gesetz geschaffenen und
+2), das Gesetz zur Änderung des Bundesverfassungsschutzgesetzes vom
+7\. Dezember 2011 (BGBl. I S. 2576) und dieses Gesetz geschaffenen und
 geänderten Vorschriften des Bundesverfassungsschutzgesetzes, des MAD-
-Gesetzes, des BND-Gesetzes und des Sicherheitsüberprüfungsgesetzes ist
-von der Bundesregierung vor dem 10. Januar 2021 unter Einbeziehung
-eines wissenschaftlichen Sachverständigen oder mehrerer
-wissenschaftlicher Sachverständiger zu evaluieren. Bei der
-Untersuchung sind auch die Häufigkeit und die Auswirkungen der mit den
-Eingriffsbefugnissen verbundenen Grundrechtseingriffe einzubeziehen
-und in Beziehung zu setzen zu der anhand von Tatsachen darzustellenden
-Wirksamkeit zum Zweck der Terrorismusbekämpfung. Die
-Sachverständigenauswahl muss dem Maßstab der Evaluierung gemäß Satz 2
-Rechnung tragen. Die Bestellung des oder der wissenschaftlichen
+Gesetzes, des BND-Gesetzes und des Sicherheitsüberprüfungsgesetzes
+ist von der Bundesregierung vor dem 10. Januar 2021 unter
+Einbeziehung eines wissenschaftlichen Sachverständigen oder
+mehrerer wissenschaftlicher Sachverständiger zu evaluieren. Bei
+der Untersuchung sind auch die Häufigkeit und die Auswirkungen
+der mit den Eingriffsbefugnissen verbundenen Grundrechtseingriffe
+einzubeziehen und in Beziehung zu setzen zu der anhand von Tatsachen
+darzustellenden Wirksamkeit zum Zweck der Terrorismusbekämpfung. Die
+Sachverständigenauswahl muss dem Maßstab der Evaluierung gemäß Satz
+2 Rechnung tragen. Die Bestellung des oder der wissenschaftlichen
 Sachverständigen hat im Einvernehmen mit dem Deutschen Bundestag zu
 erfolgen.
 

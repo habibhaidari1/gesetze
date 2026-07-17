@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zur Sicherung des Unterhalts von Kindern alleinstehender Mütter und
-  Väter durch Unterhaltsvorschüsse oder -ausfalleistungen
+Title: Gesetz zur Sicherung des Unterhalts von Kindern alleinstehender Mütter und Väter durch Unterhaltsvorschüsse oder -ausfallleistungen
 jurabk: UhVorschG
 layout: default
 origslug: uhvorschg
@@ -8,7 +7,7 @@ slug: uhvorschg
 
 ---
 
-# Gesetz zur Sicherung des Unterhalts von Kindern alleinstehender Mütter und Väter durch Unterhaltsvorschüsse oder -ausfalleistungen (UhVorschG)
+# Gesetz zur Sicherung des Unterhalts von Kindern alleinstehender Mütter und Väter durch Unterhaltsvorschüsse oder -ausfallleistungen (UhVorschG)
 
 Ausfertigungsdatum
 :   1979-07-23
@@ -20,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 17.7.2007 I 1446;
 
 Zuletzt geändert durch
-:   Art. 38 G v. 12.12.2019 I 2451
+:   Art. 44 G v. 2.12.2024 I Nr. 387
 
 
 ## § 1 Berechtigte
@@ -30,26 +29,17 @@ Gesetz (Unterhaltsleistung) hat, wer
 
 1.  das zwölfte Lebensjahr noch nicht vollendet hat,
 
-
 2.  im Geltungsbereich dieses Gesetzes bei einem seiner Elternteile lebt,
     der ledig, verwitwet oder geschieden ist oder von seinem Ehegatten
     oder Lebenspartner dauernd getrennt lebt, und
-
 
 3.  nicht oder nicht regelmäßig
 
     a)  Unterhalt von dem anderen Elternteil oder,
 
-
     b)  wenn dieser oder ein Stiefelternteil gestorben ist, Waisenbezüge
 
-
-
-
     mindestens in der in § 2 Abs. 1 und 2 bezeichneten Höhe erhält.
-
-
-
 
 (1a) Über Absatz 1 Nummer 1 hinaus besteht Anspruch auf
 Unterhaltsleistung bis zur Vollendung des 18. Lebensjahres des Kindes,
@@ -60,29 +50,26 @@ wenn
     Kindes nach § 9 des Zweiten Buches Sozialgesetzbuch vermieden werden
     kann oder
 
-
 2.  der Elternteil nach Absatz 1 Nummer 2 mit Ausnahme des Kindergeldes
-    über Einkommen im Sinne des § 11 Absatz 1 Satz 1 des Zweiten Buches
-    Sozialgesetzbuch in Höhe von mindestens 600 Euro verfügt, wobei
-    Beträge nach § 11b des Zweiten Buches Sozialgesetzbuch nicht
+    über Einkommen im Sinne des § 11 Absatz 1 Satz 1 des Zweiten
+    Buches Sozialgesetzbuch in Höhe von mindestens 600 Euro verfügt,
+    wobei Beträge nach § 11b des Zweiten Buches Sozialgesetzbuch nicht
     abzusetzen sind.
-
-
 
 Für die Feststellung der Vermeidung der Hilfebedürftigkeit und der
 Höhe des Einkommens nach Satz 1 ist der für den Monat der Vollendung
-des zwölften Lebensjahres, bei späterer Antragstellung der für diesen
-Monat und bei Überprüfung zu einem späteren Zeitpunkt der für diesen
-Monat zuletzt bekanntgegebene Bescheid des Jobcenters zugrunde zu
-legen. Die jeweilige Feststellung wirkt für die Zeit von dem
-jeweiligen Monat bis einschließlich des Monats der nächsten
+des zwölften Lebensjahres, bei späterer Antragstellung der für
+diesen Monat und bei Überprüfung zu einem späteren Zeitpunkt der
+für diesen Monat zuletzt bekanntgegebene Bescheid des Jobcenters
+zugrunde zu legen. Die jeweilige Feststellung wirkt für die Zeit
+von dem jeweiligen Monat bis einschließlich des Monats der nächsten
 Überprüfung.
 
-(2) Ein Elternteil, bei dem das Kind lebt, gilt als dauernd getrennt
-lebend im Sinne des Absatzes 1 Nr. 2, wenn im Verhältnis zum Ehegatten
-oder Lebenspartner ein Getrenntleben im Sinne des § 1567 des
-Bürgerlichen Gesetzbuchs vorliegt oder wenn sein Ehegatte oder
-Lebenspartner wegen Krankheit oder Behinderung oder auf Grund
+(2) Ein Elternteil, bei dem das Kind lebt, gilt als dauernd
+getrennt lebend im Sinne des Absatzes 1 Nr. 2, wenn im Verhältnis
+zum Ehegatten oder Lebenspartner ein Getrenntleben im Sinne des §
+1567 des Bürgerlichen Gesetzbuchs vorliegt oder wenn sein Ehegatte
+oder Lebenspartner wegen Krankheit oder Behinderung oder auf Grund
 gerichtlicher Anordnung für voraussichtlich wenigstens sechs Monate in
 einer Anstalt untergebracht ist.
 
@@ -93,54 +80,46 @@ Absatz 1 Nummer 2
 1.  eine Niederlassungserlaubnis oder eine Erlaubnis zum Daueraufenthalt-
     EU besitzt,
 
-
 2.  eine Blaue Karte EU, eine ICT-Karte, eine Mobiler-ICT-Karte oder eine
     Aufenthaltserlaubnis besitzt, die für einen Zeitraum von mindestens
-    sechs Monaten zur Ausübung einer Erwerbstätigkeit berechtigen oder
-    berechtigt haben oder diese erlauben, es sei denn, die
+    sechs Monaten zur Ausübung einer Erwerbstätigkeit berechtigen
+    oder berechtigt haben oder diese erlauben, es sei denn, die
     Aufenthaltserlaubnis wurde
 
-    a)  nach § 16e des Aufenthaltsgesetzes zu Ausbildungszwecken, nach § 19c
-        Absatz 1 des Aufenthaltsgesetzes zum Zweck der Beschäftigung als Au-
-        Pair oder zum Zweck der Saisonbeschäftigung, nach § 19e des
-        Aufenthaltsgesetzes zum Zweck der Teilnahme an einem Europäischen
-        Freiwilligendienst oder nach § 20 Absatz 1 und 2 des
-        Aufenthaltsgesetzes zur Arbeitsplatzsuche erteilt,
+    a)  nach § 16e des Aufenthaltsgesetzes zu Ausbildungszwecken, nach §
+        19c Absatz 1 des Aufenthaltsgesetzes zum Zweck der Beschäftigung
+        als Au-Pair oder zum Zweck der Saisonbeschäftigung, nach §
+        19e des Aufenthaltsgesetzes zum Zweck der Teilnahme an einem
+        Europäischen Freiwilligendienst oder nach § 20a Absatz 5 Satz 1 des
+        Aufenthaltsgesetzes zur Suche nach einer Erwerbstätigkeit oder nach
+        Maßnahmen zur Anerkennung ausländischer Berufsqualifikationen erteilt,
 
-
-    b)  nach § 16b des Aufenthaltsgesetzes zum Zweck eines Studiums, nach §
-        16d des Aufenthaltsgesetzes für Maßnahmen zur Anerkennung
-        ausländischer Berufsqualifikationen oder nach § 20 Absatz 3 des
-        Aufenthaltsgesetzes zur Arbeitsplatzsuche erteilt und er ist weder
-        erwerbstätig noch nimmt er Elternzeit nach § 15 des Bundeselterngeld-
-        und Elternzeitgesetzes oder laufende Geldleistungen nach dem Dritten
-        Buch Sozialgesetzbuch in Anspruch,
-
+    b)  nach § 16b des Aufenthaltsgesetzes zum Zweck eines Studiums,
+        nach § 16d des Aufenthaltsgesetzes für Maßnahmen zur Anerkennung
+        ausländischer Berufsqualifikationen, nach § 20 des Aufenthaltsgesetzes
+        zur Suche nach einer Erwerbstätigkeit oder nach § 20a Absatz 5 Satz
+        2 des Aufenthaltsgesetzes zur Suche nach einer Erwerbstätigkeit oder
+        nach Maßnahmen zur Anerkennung ausländischer Berufsqualifikationen
+        erteilt und er ist weder erwerbstätig noch nimmt er Elternzeit nach
+        § 15 des Bundeselterngeld- und Elternzeitgesetzes oder laufende
+        Geldleistungen nach dem Dritten Buch Sozialgesetzbuch in Anspruch,
 
     c)  nach § 23 Absatz 1 des Aufenthaltsgesetzes wegen eines Krieges in
-        seinem Heimatland oder nach den §§ 23a, 24 oder § 25 Absatz 3 bis 5
-        des Aufenthaltsgesetzes erteilt,
+        seinem Heimatland oder nach den § 23a oder § 25 Absatz 3 bis 5 des
+        Aufenthaltsgesetzes erteilt,
 
-
-
-
-
-3.  eine in Nummer 2 Buchstabe c genannte Aufenthaltserlaubnis besitzt und
-    im Bundesgebiet berechtigt erwerbstätig ist oder Elternzeit nach § 15
-    des Bundeselterngeld- und Elternzeitgesetzes oder laufende
+3.  eine in Nummer 2 Buchstabe c genannte Aufenthaltserlaubnis besitzt
+    und im Bundesgebiet berechtigt erwerbstätig ist oder Elternzeit
+    nach § 15 des Bundeselterngeld- und Elternzeitgesetzes oder laufende
     Geldleistungen nach dem Dritten Buch Sozialgesetzbuch in Anspruch
     nimmt,
-
 
 4.  eine in Nummer 2 Buchstabe c genannte Aufenthaltserlaubnis besitzt und
     sich seit mindestens 15 Monaten erlaubt, gestattet oder geduldet im
     Bundesgebiet aufhält oder
 
-
 5.  eine Beschäftigungsduldung gemäß § 60d in Verbindung mit § 60a Absatz
     2 Satz 3 des Aufenthaltsgesetzes besitzt.
-
-
 
 Abweichend von Satz 1 Nummer 3 erste Alternative ist ein
 minderjähriger nicht freizügigkeitsberechtigter Ausländer unabhängig
@@ -155,9 +134,9 @@ Elternteils mitzuwirken.
 
 (4) Anspruch auf Unterhaltsleistung nach diesem Gesetz besteht nicht
 für Monate, für die der andere Elternteil seine Unterhaltspflicht
-gegenüber dem Berechtigten durch Vorausleistung erfüllt hat. Soweit
-der Bedarf eines Kindes durch Leistungen nach dem Achten Buch
-Sozialgesetzbuch gedeckt ist, besteht kein Anspruch auf
+gegenüber dem Berechtigten durch Vorausleistung erfüllt hat.
+Soweit der Bedarf eines Kindes durch Leistungen nach dem Achten
+Buch Sozialgesetzbuch gedeckt ist, besteht kein Anspruch auf
 Unterhaltsleistung nach diesem Gesetz.
 
 
@@ -165,18 +144,18 @@ Unterhaltsleistung nach diesem Gesetz.
 
 (1) Die Unterhaltsleistung wird monatlich in Höhe des sich nach §
 1612a Absatz 1 Satz 3 Nummer 1, 2 oder 3 des Bürgerlichen Gesetzbuchs
-ergebenden monatlichen Mindestunterhalts gezahlt. § 1612a Abs. 2 Satz
-2 des Bürgerlichen Gesetzbuchs gilt entsprechend. Liegen die
+ergebenden monatlichen Mindestunterhalts gezahlt. § 1612a Abs. 2
+Satz 2 des Bürgerlichen Gesetzbuchs gilt entsprechend. Liegen die
 Voraussetzungen des § 1 nur für den Teil eines Monats vor, wird die
 Unterhaltsleistung anteilig gezahlt.
 
-(2) Wenn der Elternteil, bei dem der Berechtigte lebt, für den
-Berechtigten Anspruch auf volles Kindergeld nach dem
+(2) Wenn der Elternteil, bei dem der Berechtigte lebt, für
+den Berechtigten Anspruch auf volles Kindergeld nach dem
 Einkommensteuergesetz oder nach dem Bundeskindergeldgesetz in der
 jeweils geltenden Fassung oder auf eine der in § 65 Abs. 1 des
 Einkommensteuergesetzes oder § 4 Abs. 1 des Bundeskindergeldgesetzes
-bezeichneten Leistungen hat, mindert sich die Unterhaltsleistung um
-das für ein erstes Kind zu zahlende Kindergeld nach § 66 des
+bezeichneten Leistungen hat, mindert sich die Unterhaltsleistung
+um das für ein erstes Kind zu zahlende Kindergeld nach § 66 des
 Einkommensteuergesetzes oder § 6 des Bundeskindergeldgesetzes.
 Dasselbe gilt, wenn ein Dritter mit Ausnahme des anderen Elternteils
 diesen Anspruch hat.
@@ -188,41 +167,44 @@ Einkünfte des Berechtigten angerechnet:
 1.  Unterhaltszahlungen des Elternteils, bei dem der Berechtigte nicht
     lebt,
 
-
 2.  Waisenbezüge einschließlich entsprechender Schadenersatzleistungen,
     die wegen des Todes des in Nummer 1 bezeichneten Elternteils oder
     eines Stiefelternteils gezahlt werden.
 
-
-
-
-(4) Für Berechtigte, die keine allgemeinbildende Schule mehr besuchen,
-mindert sich die nach den Absätzen 1 bis 3 ergebende
+(4) Für Berechtigte, die keine allgemeinbildende Schule mehr
+besuchen, mindert sich die nach den Absätzen 1 bis 3 ergebende
 Unterhaltsleistung, soweit ihre in demselben Monat erzielten Einkünfte
 des Vermögens und der Ertrag ihrer zumutbaren Arbeit zum Unterhalt
-ausreichen. Als Ertrag der zumutbaren Arbeit des Berechtigten aus
-nichtselbstständiger Arbeit gelten die Einnahmen in Geld entsprechend
-der für die maßgeblichen Monate erstellten Lohn- und
-Gehaltsbescheinigungen des Arbeitgebers abzüglich eines Zwölftels des
-Arbeitnehmer-Pauschbetrags; bei Auszubildenden sind zusätzlich
+ausreichen. Als Ertrag der zumutbaren Arbeit des Berechtigten
+aus nichtselbstständiger Arbeit gelten die Einnahmen in Geld
+entsprechend der für die maßgeblichen Monate erstellten Lohn- und
+Gehaltsbescheinigungen des Arbeitgebers abzüglich eines Zwölftels
+des Arbeitnehmer-Pauschbetrags; bei Auszubildenden sind zusätzlich
 pauschal 100 Euro als ausbildungsbedingter Aufwand abzuziehen.
-Einkünfte und Erträge nach den Sätzen 1 und 2 sind nur zur Hälfte zu
-berücksichtigen.
+Einkünfte und Erträge nach den Sätzen 1 und 2 sind nur zur Hälfte
+zu berücksichtigen.
 
 
-## § 3 (weggefallen)
+## § 3 Dauer und Bewilligung der Unterhaltsleistung
+
+Die Unterhaltsleistung wird bis zum Entfallen des Anspruchs auf die
+Unterhaltsleistung erbracht und für diese Dauer bewilligt.
 
 
+## § 4 Beginn und beschränkte Rückwirkung der Unterhaltsleistung
 
-## § 4 Beschränkte Rückwirkung
+(1) Die Unterhaltsleistung wird erbracht, sobald ein wirksamer
+Antrag gestellt wurde und die Anspruchsvoraussetzungen für die
+Unterhaltsleistung vorliegen. Liegen alle Anspruchsvoraussetzungen
+für die Unterhaltsleistung am Beginn des Kalendermonats vor, in
+dem der Antrag gestellt wurde, so besteht der Anspruch auf die
+Unterhaltsleistung ab Beginn dieses Kalendermonats.
 
-Die Unterhaltsleistung wird rückwirkend längstens für den letzten
-Monat vor dem Monat gezahlt, in dem der Antrag hierauf bei der
-zuständigen Stelle oder bei einer der in § 16 Abs. 2 Satz 1 des Ersten
-Buches Sozialgesetzbuch bezeichneten Stellen eingegangen ist; dies
-gilt nicht, soweit es an zumutbaren Bemühungen des Berechtigten
-gefehlt hat, den in § 1 Abs. 1 Nr. 3 bezeichneten Elternteil zu
-Unterhaltszahlungen zu veranlassen.
+(2) Die Unterhaltsleistung wird rückwirkend längstens für den letzten
+Monat vor dem Monat der Antragstellung gezahlt, soweit es nicht
+an zumutbaren Bemühungen des Berechtigten gefehlt hat, den in § 1
+Absatz 1 Nummer 3 bezeichneten Elternteil zu Unterhaltszahlungen zu
+veranlassen.
 
 
 ## § 5 Ersatz- und Rückzahlungspflicht
@@ -233,25 +215,21 @@ durchgehend vorgelegen, so hat der Elternteil, bei dem der Berechtigte
 lebt, oder der gesetzliche Vertreter des Berechtigten den geleisteten
 Betrag insoweit zu ersetzen, als er
 
-1.  die Zahlung der Unterhaltsleistung dadurch herbeigeführt hat, dass er
-    vorsätzlich oder fahrlässig falsche oder unvollständige Angaben
+1.  die Zahlung der Unterhaltsleistung dadurch herbeigeführt hat, dass
+    er vorsätzlich oder fahrlässig falsche oder unvollständige Angaben
     gemacht oder eine Anzeige nach § 6 unterlassen hat, oder
-
 
 2.  gewusst oder infolge Fahrlässigkeit nicht gewusst hat, dass die
     Voraussetzungen für die Zahlung der Unterhaltsleistung nicht erfüllt
     waren.
 
-
-
-
 (2) Haben die Voraussetzungen für die Zahlung der Unterhaltsleistung
 in dem Kalendermonat, für den sie gezahlt worden ist, nicht
 vorgelegen, weil der Berechtigte nach Stellung des Antrages auf
 Unterhaltsleistungen Einkommen im Sinne des § 2 Absatz 3 oder
-Einkünfte und Erträge im Sinne des § 2 Absatz 4 erzielt hat, die bei
-der Bewilligung der Unterhaltsleistung nicht berücksichtigt worden
-sind, so hat der Berechtigte insoweit den geleisteten Betrag
+Einkünfte und Erträge im Sinne des § 2 Absatz 4 erzielt hat, die
+bei der Bewilligung der Unterhaltsleistung nicht berücksichtigt
+worden sind, so hat der Berechtigte insoweit den geleisteten Betrag
 zurückzuzahlen.
 
 
@@ -259,9 +237,9 @@ zurückzuzahlen.
 
 (1) Der Elternteil, bei dem der Berechtigte nicht lebt, ist
 verpflichtet, der zuständigen Stelle auf Verlangen die Auskünfte zu
-erteilen, die zur Durchführung dieses Gesetzes erforderlich sind. Der
-Elternteil muss insbesondere darlegen, dass er seiner aufgrund der
-Minderjährigkeit des Berechtigten erhöhten Leistungsverpflichtung
+erteilen, die zur Durchführung dieses Gesetzes erforderlich sind.
+Der Elternteil muss insbesondere darlegen, dass er seiner aufgrund
+der Minderjährigkeit des Berechtigten erhöhten Leistungsverpflichtung
 vollständig nachkommt.
 
 (2) Der Arbeitgeber des in Absatz 1 bezeichneten Elternteils ist
@@ -271,13 +249,13 @@ des in Absatz 1 bezeichneten Elternteils Auskunft zu geben, soweit die
 Durchführung dieses Gesetzes es erfordert. Versicherungsunternehmen
 sind auf Verlangen der zuständigen Stellen zu Auskünften über den
 Wohnort und über die Höhe von Einkünften des in Absatz 1 bezeichneten
-Elternteils verpflichtet, soweit die Durchführung dieses Gesetzes es
-erfordert.
+Elternteils verpflichtet, soweit die Durchführung dieses Gesetzes
+es erfordert.
 
 (3) Die nach den Absätzen 1 und 2 zur Erteilung einer Auskunft
-Verpflichteten können die Auskunft auf solche Fragen verweigern, deren
-Beantwortung sie selbst oder einen der in § 383 Abs. 1 Nr. 1 bis 3 der
-Zivilprozessordnung bezeichneten Angehörigen der Gefahr
+Verpflichteten können die Auskunft auf solche Fragen verweigern,
+deren Beantwortung sie selbst oder einen der in § 383 Abs. 1 Nr. 1
+bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr
 strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz
 über Ordnungswidrigkeiten aussetzen würde.
 
@@ -292,17 +270,19 @@ befugten Sozialleistungsträger und anderen Stellen sowie die
 Finanzämter sind verpflichtet, der zuständigen Stelle auf Verlangen
 Auskünfte über den Wohnort, den Arbeitgeber und die Höhe der Einkünfte
 des in Absatz 1 bezeichneten Elternteils zu erteilen, soweit die
-Durchführung dieses Gesetzes es erfordert.
+Durchführung dieses Gesetzes es erfordert. Zur Erfüllung der Aufgaben
+nach diesem Buch dürfen die zuständigen Stellen Auskunft aus dem
+Ausländerzentralregister einholen.
 
 (6) Die zuständigen Stellen dürfen das Bundeszentralamt für Steuern
 ersuchen, bei den Kreditinstituten die in § 93b Absatz 1 der
 Abgabenordnung bezeichneten Daten abzurufen, soweit die Durchführung
-des § 7 dies erfordert und ein vorheriges Auskunftsersuchen an den in
-Absatz 1 bezeichneten Elternteil nicht zum Ziel geführt hat oder
+des § 7 dies erfordert und ein vorheriges Auskunftsersuchen an den
+in Absatz 1 bezeichneten Elternteil nicht zum Ziel geführt hat oder
 keinen Erfolg verspricht (§ 93 Absatz 8 Satz 2 der Abgabenordnung).
 
-(7) Die zuständige Stelle ist auf Antrag des Elternteils, bei dem der
-Berechtigte lebt, nach Maßgabe des § 74 Absatz 1 Satz 1 Nummer 2
+(7) Die zuständige Stelle ist auf Antrag des Elternteils, bei dem
+der Berechtigte lebt, nach Maßgabe des § 74 Absatz 1 Satz 1 Nummer 2
 Buchstabe a des Zehnten Buches Sozialgesetzbuch verpflichtet, ihm die
 in den Absätzen 1, 2 und 6 genannten Auskünfte zu übermitteln.
 
@@ -325,30 +305,26 @@ nur von dem Zeitpunkt an in Anspruch genommen werden, in dem
 1.  die Voraussetzungen des § 1613 des Bürgerlichen Gesetzbuchs vorgelegen
     haben oder
 
-
 2.  der in Absatz 1 bezeichnete Elternteil von dem Antrag auf
     Unterhaltsleistung Kenntnis erhalten hat und er darüber belehrt worden
     ist, dass er für den geleisteten Unterhalt nach diesem Gesetz in
     Anspruch genommen werden kann.
 
-
-
-
 (3) Ansprüche nach Absatz 1 sind rechtzeitig und vollständig nach den
 Bestimmungen des Haushaltsrechts durchzusetzen. Der Übergang eines
 Unterhaltsanspruchs kann nicht zum Nachteil des Unterhaltsberechtigten
-geltend gemacht werden, soweit dieser für eine spätere Zeit, für die
-er keine Unterhaltsleistung nach diesem Gesetz erhalten hat oder
+geltend gemacht werden, soweit dieser für eine spätere Zeit, für
+die er keine Unterhaltsleistung nach diesem Gesetz erhalten hat oder
 erhält, Unterhalt von dem Unterhaltspflichtigen verlangt.
 
 (4) Wenn die Unterhaltsleistung voraussichtlich auf längere Zeit
-gewährt werden muss, kann das Land auch einen Unterhaltsanspruch für
-die Zukunft in Höhe der bewilligten Unterhaltsleistung gerichtlich
-geltend machen. Der Unterhalt kann als veränderlicher Mindestunterhalt
-entsprechend § 1612a Absatz 1 Satz 1 des Bürgerlichen Gesetzbuchs
-beantragt werden. Das Land kann den auf ihn übergegangenen
-Unterhaltsanspruch im Einvernehmen mit dem
-Unterhaltsleistungsempfänger auf diesen zur gerichtlichen
+gewährt werden muss, kann das Land auch einen Unterhaltsanspruch
+für die Zukunft in Höhe der bewilligten Unterhaltsleistung
+gerichtlich geltend machen. Der Unterhalt kann als veränderlicher
+Mindestunterhalt entsprechend § 1612a Absatz 1 Satz 1 des
+Bürgerlichen Gesetzbuchs beantragt werden. Das Land kann den
+auf ihn übergegangenen Unterhaltsanspruch im Einvernehmen mit
+dem Unterhaltsleistungsempfänger auf diesen zur gerichtlichen
 Geltendmachung rückübertragen und sich den geltend gemachten
 Unterhaltsanspruch abtreten lassen. Kosten, mit denen der
 Unterhaltsleistungsempfänger dadurch selbst belastet wird, sind zu
@@ -360,19 +336,10 @@ Vollstreckungsbescheid, ist zum Nachweis des nach Absatz 1
 Bescheid gemäß § 9 Absatz 2 beizufügen.
 
 
-## § 7a Übergegangene Ansprüche des Berechtigten bei Leistungsunfähigkeit
-
-Solange der Elternteil, bei dem der Berechtigte nicht lebt, Leistungen
-nach dem Zweiten Buch Sozialgesetzbuch bezieht und über kein eigenes
-Einkommen im Sinne von § 11 Absatz 1 Satz 1 des Zweiten Buches
-Sozialgesetzbuch verfügt, wird der nach § 7 übergegangene
-Unterhaltsanspruch nicht verfolgt.
-
-
 ## § 8 Aufbringung der Mittel
 
-(1) Geldleistungen, die nach dem Gesetz zu zahlen sind, werden zu 40
-Prozent vom Bund, im Übrigen von den Ländern getragen. Eine
+(1) Geldleistungen, die nach dem Gesetz zu zahlen sind, werden
+zu 40 Prozent vom Bund, im Übrigen von den Ländern getragen. Eine
 angemessene Aufteilung der nicht vom Bund zu zahlenden Geldleistungen
 auf Länder und Gemeinden liegt in der Befugnis der Länder.
 
@@ -384,8 +351,8 @@ an den Bund ab.
 
 (1) Über die Zahlung der Unterhaltsleistung wird auf schriftlichen
 Antrag des Elternteils, bei dem der Berechtigte lebt, oder des
-gesetzlichen Vertreters des Berechtigten entschieden. Der Antrag soll
-an die durch Landesrecht bestimmte Stelle, in deren Bezirk der
+gesetzlichen Vertreters des Berechtigten entschieden. Der Antrag
+soll an die durch Landesrecht bestimmte Stelle, in deren Bezirk der
 Berechtigte seinen Wohnsitz hat, gerichtet werden.
 
 (2) Die Entscheidung ist dem Antragsteller schriftlich oder
@@ -396,22 +363,39 @@ bis 4 angerechneten Beträge anzugeben.
 Auszuzahlende Beträge sind auf volle Euro aufzurunden. Beträge unter 5
 Euro werden nicht geleistet.
 
+(4) Die durch Landesrecht bestimmte Stelle kann die Zahlung einer
+laufenden Unterhaltsleistung ohne Erteilung eines Bescheides vorläufig
+einstellen, wenn sie Kenntnis von Tatsachen erhält, die kraft
+Gesetzes zum Ruhen oder zum Wegfall des Anspruchs führen, und wenn
+der Bescheid, aus dem sich der Anspruch ergibt, deshalb aufzuheben
+ist. Vor der vorläufigen Einstellung sind der Person, die den Antrag
+auf Zahlung der Unterhaltsleistung gestellt hat, die beabsichtigte
+vorläufige Einstellung der Zahlung sowie die dafür maßgeblichen
+Gründe mitzuteilen und es ist ihr Gelegenheit zu geben, sich innerhalb
+von 14 Tagen zu äußern. Die vorläufige Einstellung der Zahlung
+ist ihr unverzüglich in Textform mitzuteilen. Sofern innerhalb des
+Äußerungszeitraums eine Unterhaltsleistung zu zahlen ist, soll die
+durch Landesrecht bestimmte Stelle die Unterhaltsleistung nur für den
+Äußerungszeitraum gewähren.
+
+(5) Die durch Landesrecht bestimmte Stelle hat eine vorläufig
+eingestellte Zahlung einer laufenden Unterhaltsleistung unverzüglich
+nachzuholen, soweit der Bescheid, aus dem sich der Anspruch ergibt,
+zwei Monate nach der vorläufigen Einstellung der Zahlung nicht
+aufgehoben ist.
+
 
 ## § 10 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
-1.  entgegen § 6 Abs. 1 oder 2 auf Verlangen eine Auskunft nicht, nicht
-    richtig, nicht vollständig oder nicht innerhalb der von der
+1.  entgegen § 6 Abs. 1 oder 2 auf Verlangen eine Auskunft nicht,
+    nicht richtig, nicht vollständig oder nicht innerhalb der von der
     zuständigen Stelle gesetzten Frist erteilt oder
-
 
 2.  entgegen § 6 Abs. 4 eine Änderung in den dort bezeichneten
     Verhältnissen nicht richtig, nicht vollständig oder nicht unverzüglich
     mitteilt.
-
-
-
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße geahndet werden.
 
@@ -421,54 +405,36 @@ Euro werden nicht geleistet.
 
 ## § 11 Übergangsvorschriften
 
-(1) § 1 Abs. 2a in der am 19. Dezember 2006 geltenden Fassung ist in
-Fällen, in denen die Entscheidung über den Anspruch auf
-Unterhaltsvorschuss für Monate in dem Zeitraum zwischen dem 1. Januar
-1994 und dem 18. Dezember 2006 noch nicht bestandskräftig geworden
-ist, anzuwenden, wenn dies für den Antragsteller günstiger ist. In
-diesem Fall werden die Aufenthaltsgenehmigungen nach dem
+(1) § 1 Abs. 2a in der am 19. Dezember 2006 geltenden Fassung
+ist in Fällen, in denen die Entscheidung über den Anspruch auf
+Unterhaltsvorschuss für Monate in dem Zeitraum zwischen dem 1.
+Januar 1994 und dem 18. Dezember 2006 noch nicht bestandskräftig
+geworden ist, anzuwenden, wenn dies für den Antragsteller günstiger
+ist. In diesem Fall werden die Aufenthaltsgenehmigungen nach dem
 Ausländergesetz den Aufenthaltstiteln nach dem Aufenthaltsgesetz
 entsprechend den Fortgeltungsregelungen in § 101 des
 Aufenthaltsgesetzes gleichgestellt.
 
-(2) § 1 Absatz 2a Satz 1 Nummer 1 bis 4 in der Fassung des Artikels 38
-des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist für
+(2) § 1 Absatz 2a Satz 1 Nummer 1 bis 4 in der Fassung des Artikels
+38 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451) ist für
 Entscheidungen anzuwenden, die Zeiträume betreffen, die nach dem 29.
 Februar 2020 beginnen. § 1 Absatz 2a Satz 1 Nummer 5 in der Fassung
 des Artikels 38 des Gesetzes vom 12. Dezember 2019 (BGBl. I S. 2451)
-ist für Entscheidungen anzuwenden, die Zeiträume betreffen, die nach
-dem 31. Dezember 2019 beginnen.
-
-
-## § 11a Anwendungsvorschrift
-
-Im Sinne dieses Gesetzes beträgt für die Zeit vom 1. Januar 2015 bis
-zum 30. Juni 2015 die Unterhaltsleistung nach § 2 Absatz 1 Satz 1
-monatlich 317 Euro für ein Kind, das das sechste Lebensjahr noch nicht
-vollendet hat, und monatlich 364 Euro für ein Kind, das das zwölfte
-Lebensjahr noch nicht vollendet hat. Für die Zeit vom 1. Juli 2015 bis
-zum 31. Dezember 2015 beträgt die Unterhaltsleistung nach § 2 Absatz 1
-Satz 1 monatlich 328 Euro für ein Kind, das das sechste Lebensjahr
-noch nicht vollendet hat, und monatlich 376 Euro für ein Kind, das das
-zwölfte Lebensjahr noch nicht vollendet hat. Bis zum 31. Dezember 2015
-gilt als für ein erstes Kind zu zahlendes Kindergeld im Sinne von § 2
-Absatz 2 Satz 1 ein Betrag in Höhe von monatlich 184 Euro.
+ist für Entscheidungen anzuwenden, die Zeiträume betreffen, die
+nach dem 31. Dezember 2019 beginnen. § 1 Absatz 2a Satz 1 Nummer 2
+Buchstabe c in der Fassung des Artikels 13 Nummer 1 des Gesetzes vom
+23\. Mai 2022 (BGBl. I S. 760) ist für Entscheidungen anzuwenden, die
+Zeiträume betreffen, die nach dem 31. Mai 2022 beginnen. § 1 Absatz
+2a Satz 1 Nummer 2 Buchstabe a und b in der Fassung des Artikels
+44 des Gesetzes vom 2. Dezember 2024 (BGBl. 2024 I Nr. 387) ist für
+Entscheidungen anzuwenden, die Zeiträume betreffen, die nach dem 31.
+Mai 2024 beginnen.
 
 
 ## § 12 Bericht
 
-Die Bundesregierung legt dem Deutschen Bundestag bis zum 31. Juli 2018
-einen Bericht über die Wirkung der Reform, die am 1. Juli 2017 in
-Kraft getreten ist, vor. Der Bericht darf keine personenbezogenen
+Die Bundesregierung legt dem Deutschen Bundestag bis zum 31. Juli
+2018 einen Bericht über die Wirkung der Reform, die am 1. Juli 2017
+in Kraft getreten ist, vor. Der Bericht darf keine personenbezogenen
 Daten enthalten.
-
-
-## § 12a (Gegenstandslose Übergangsvorschrift)
-
--
-
-
-## § 13 (weggefallen)
-
--
 

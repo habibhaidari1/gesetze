@@ -1,6 +1,5 @@
 ---
-Title: Verordnung zur Neuordnung der Kassenaufsicht über die Bundeskassen Halle/Saale,
-  Kiel, Trier und Weiden
+Title: Verordnung zur Neuordnung der Kassenaufsicht über die Bundeskassen Halle/Saale, Kiel, Trier und Weiden
 jurabk: KassNeuOV
 layout: default
 origslug: kassneuov
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 2005, 2820
-
 
 
 ## Eingangsformel

@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen
-  Mark (Gedenkmünze Carl Reichsfreiherr vom und zum Stein)
+Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Gedenkmünze Carl Reichsfreiherr vom und zum Stein)
 jurabk: Münz5DMBek 1981-10
 layout: default
 origslug: m_nz5dmbek_1981-10
@@ -17,7 +16,6 @@ Fundstelle
 :   BGBl I: 1981, 1139
 
 
-
 ## (XXXX)
 
 (1) Auf Grund des § 6 des Gesetzes über die Ausprägung von
@@ -31,8 +29,8 @@ Karlsruhe.
 
 (2) Die Münze wird ab 24. November 1981 in der Verkehr gebracht.
 
-(3) Die Münze besteht überwiegend aus einer Kupfer-Nickel-Legierung
-(75 Prozent Kupfer und 25 Prozent Nickel) und hat einen
+(3) Die Münze besteht überwiegend aus einer Kupfer-Nickel-
+Legierung (75 Prozent Kupfer und 25 Prozent Nickel) und hat einen
 Reinnickelkern. Sie hat einen Durchmesser von 29 Millimetern und ein
 Gewicht von 10 Gramm.
 
@@ -42,21 +40,15 @@ schützenden glatten Randstab umgeben.
 (5) Die Bildseite zeigt das Porträt des Staatsmannes und die
 Umschrift:
 
-*   "CARL REICHSFREIHERR VOM STEIN
+-   "CARL REICHSFREIHERR VOM STEIN
 
     1757-1831".
 
-
-
-
 (6) Die Wertseite trägt einen Adler und die Umschrift:
 
-*   "BUNDESREPUBLIK DEUTSCHLAND
+-   "BUNDESREPUBLIK DEUTSCHLAND
 
     5 DEUTSCHE MARK 1981".
-
-
-
 
 (7) Die in "19" und "81" geteilte Jahreszahl ist beiderseits der
 Wertziffer 5 angebracht. Das Münzzeichen "G" der Staatlichen Münze
@@ -64,10 +56,7 @@ Karlsruhe befindet sich rechts hinter dem Wort "MARK".
 
 (8) Der glatte Münzrand enthält die vertiefte Inschrift:
 
-*   "ICH HABE NUR EIN VATERLAND - DEUTSCHLAND".
-
-
-
+-   "ICH HABE NUR EIN VATERLAND - DEUTSCHLAND".
 
 (9) Zwischen Ende und Anfang der Randschrift ist eine Arabeske
 eingeprägt.

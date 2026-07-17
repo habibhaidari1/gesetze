@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl I: 1993, 337
 
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
@@ -32,13 +31,9 @@ durchgeführt:
 1.  eine Gebäude- und Wohnungszählung flächendeckend in dem in Artikel 3
     des Einigungsvertrages genannten Gebiet;
 
-
 2.  eine Gebäude- und Wohnungsstichprobe im gesamten Bundesgebiet auf
-    repräsentativer Grundlage mit einem Auswahlsatz von 1 vom Hundert der
-    Wohnungen.
-
-
-
+    repräsentativer Grundlage mit einem Auswahlsatz von 1 vom Hundert
+    der Wohnungen.
 
 
 ## § 2 Erhebungseinheiten und Stichprobenauswahl
@@ -83,12 +78,11 @@ Erhebungsstichtag begonnen werden.
     nach Personen oder Personengemeinschaften, Gemeinschaft von
     Wohnungseigentümern, Wohnungsunternehmen und sonstige Eigentümer nach
     Eigentümergruppen; Rückübertragungsansprüche; Bauweise (traditionell,
-    Montagebauweise); Erhaltungszustand von Bauteilen des Gebäudes nach
-    Augenschein: Sockel des Gebäudes, Außenwände, Treppenanlage,
+    Montagebauweise); Erhaltungszustand von Bauteilen des Gebäudes
+    nach Augenschein: Sockel des Gebäudes, Außenwände, Treppenanlage,
     Dachkonstruktion, Dachdeckung und Entwässerung, Schornstein;
     Abwasserentsorgung; Art der Beheizung mit Energieart; Eigentumsform am
     2\. Oktober 1990 (volkseigen, genossenschaftlich, privat);
-
 
 2.  bei den Wohnungen:
 
@@ -101,58 +95,46 @@ Erhebungsstichtag begonnen werden.
     Wohnungsbaus; Leerstehen mit Grund und Dauer des Leerstehens der
     Wohnung.
 
-
-
-
 (2) Erhebungsmerkmale der Erhebung nach § 1 Nr. 2 sind
 
 1.  bei den Gebäuden:
 
-    a)  Gemeinde, Gemeindeteil; Art des Gebäudes (Wohngebäude, sonstiges
-        Gebäude mit Wohnraum, Wohnheim, bewohnte Unterkunft); Zugehörigkeit zu
-        einem haupt- oder nebenberuflich geführten landwirtschaftlichen
-        Betrieb; Baujahr; Zahl der Geschosse; Fläche für Wohn- und
-        Nichtwohnzwecke, bei Nichtwohnzwecken Art der Nutzung;
+    a)  Gemeinde, Gemeindeteil; Art des Gebäudes (Wohngebäude,
+        sonstiges Gebäude mit Wohnraum, Wohnheim, bewohnte Unterkunft);
+        Zugehörigkeit zu einem haupt- oder nebenberuflich geführten
+        landwirtschaftlichen Betrieb; Baujahr; Zahl der Geschosse; Fläche
+        für Wohn- und Nichtwohnzwecke, bei Nichtwohnzwecken Art der Nutzung;
         Belegungsbindung (nur in dem in Artikel 3 des Einigungsvertrages
         genannten Gebiet), Förderung mit Mitteln des sozialen Wohnungsbaus,
-        Ausstattung mit alters- und behindertengerechten Einrichtungen; Zahl
-        der Wohnungen mit Art der Nutzung; Zu- und Abnahme der Zahl der
+        Ausstattung mit alters- und behindertengerechten Einrichtungen;
+        Zahl der Wohnungen mit Art der Nutzung; Zu- und Abnahme der Zahl der
         Wohnungen im Gebäude seit 1987;
-
 
     b)  Eigentümer oder Erbbauberechtigte und Verfügungs- oder
         Nutzungsberechtigte nach Personen oder Personengemeinschaften,
         Gemeinschaft von Wohnungseigentümern, Wohnungsunternehmen und sonstige
         Eigentümer nach Eigentümergruppen, bei Einzelpersonen und Ehepaaren
-        auch Berufstätigkeit oder Art des überwiegenden Lebensunterhalts; Jahr
-        und Art des Erwerbs; bei nachträglicher Umwandlung nach dem
+        auch Berufstätigkeit oder Art des überwiegenden Lebensunterhalts;
+        Jahr und Art des Erwerbs; bei nachträglicher Umwandlung nach dem
         Wohnungseigentumsgesetz: Jahr der Eintragung in das Grundbuch;
 
-
     c)  Art der Beheizung mit Energieart; bei zentral beheizten Wohngebäuden
-        auch durchschnittlicher Jahresenergieverbrauch, Alter, Material, Lage
-        und Volumen der Öltanks, Baujahr des Heizkessels, zentrale
+        auch durchschnittlicher Jahresenergieverbrauch, Alter, Material,
+        Lage und Volumen der Öltanks, Baujahr des Heizkessels, zentrale
         außentemperaturabhängige automatische Regelung; zentrale
         Warmwasserversorgung mit Energieart;
-
 
     d)  bei Wohngebäuden: durchgeführte bau- oder wohntechnische Veränderungen
         innerhalb der letzten zehn Jahre am Gebäude und in den Wohnungen;
         notwendige Modernisierungs- und Instandsetzungsmaßnahmen;
 
-
     e)  Fläche des zugehörigen Grundstücks nach Nutzungsarten; im Grundbuch
         eingetragenes Erbbaurecht sowie (nur in dem in Artikel 3 des
         Einigungsvertrages genannten Gebiet) bestehende Nutzungsrechte;
 
-
     f)  bei Nutzung durch Angehörige ausländischer Streitkräfte,
         diplomatischer oder berufskonsularischer Vertretungen nur: Zahl der
         Wohnungen, Zahl der Räume mit sechs und mehr Quadratmetern;
-
-
-
-
 
 2.  bei den Wohnungen:
 
@@ -163,8 +145,8 @@ Erhebungsstichtag begonnen werden.
         Eigentümern und Hauptmietern: Fläche der Wohnung, Zahl der Räume mit
         sechs und mehr Quadratmetern und darunter Zahl der untervermieteten
         oder gewerblich genutzten Räume, Zahl und Fläche der als Kinderzimmer
-        genutzten Räume, Nutzung als Haupt-, Zweit- oder Ferienwohnung; bei
-        Haupt- oder Zweitwohnung: Ausstattung, Art der Beheizung und
+        genutzten Räume, Nutzung als Haupt-, Zweit- oder Ferienwohnung;
+        bei Haupt- oder Zweitwohnung: Ausstattung, Art der Beheizung und
         Warmwasserversorgung mit Energieart, Thermostatventile, Vorhandensein
         von Abstellräumen, Zahl der Personenkraftwagen-Abstellplätze mit Lage;
         Entfernung zu öffentlichen Verkehrsmitteln, Versorgungseinrichtungen,
@@ -172,37 +154,29 @@ Erhebungsstichtag begonnen werden.
         Fahrhäufigkeit der öffentlichen Verkehrsmittel; Belastung durch
         Luftverunreinigung und Lärm;
 
-
     b)  bei vermieteten Wohnungen:
 
-        Nutzung als Dienst-, Werks-, Berufs- oder Geschäftsmietwohnung; Höhe
-        der monatlichen Miete und anteiligen Betriebs- und Nebenkosten;
-        Ermäßigung der Miete; Mieterhöhung in den letzten drei Jahren mit
-        Grund; Belegungsbindung (nur in dem in Artikel 3 des
+        Nutzung als Dienst-, Werks-, Berufs- oder Geschäftsmietwohnung;
+        Höhe der monatlichen Miete und anteiligen Betriebs- und Nebenkosten;
+        Ermäßigung der Miete; Mieterhöhung in den letzten drei Jahren
+        mit Grund; Belegungsbindung (nur in dem in Artikel 3 des
         Einigungsvertrages genannten Gebiet); Förderung der Wohnung mit
         Mitteln des sozialen Wohnungsbaus; Wohnungsmodernisierungen mit
         Zustimmung des Vermieters in den letzten drei Jahren;
 
-
     c)  Leerstehen mit Grund und Dauer des Leerstehens der Wohnung;
-
-
-
-
 
 3.  bei den Haushalten:
 
     a)  für jedes Haushaltsmitglied Geburtsjahr, Geschlecht, Familienstand,
         Stellung im Beruf oder Art des überwiegenden Lebensunterhalts,
-        Zugehörigkeit zur Wohnung und zum Haushalt, Zugehörigkeit zur Familie
-        oder Wohngemeinschaft; Ehegatte, Art der Verwandtschaft der
+        Zugehörigkeit zur Wohnung und zum Haushalt, Zugehörigkeit zur
+        Familie oder Wohngemeinschaft; Ehegatte, Art der Verwandtschaft der
         Familienmitglieder; Staatsangehörigkeit;
-
 
     b)  für jedes Haushaltsmitglied Höhe des monatlichen Nettoeinkommens nach
         Einkommensklassen in einer Staffelung von mindestens 200 Deutsche
         Mark;
-
 
     c)  Zahl der Umzüge in den letzten zehn Jahren; Jahr und Anlaß des
         Einzugs; Wohnverhältnisse in der vorherigen Wohnung sowie Lage der
@@ -212,12 +186,6 @@ Erhebungsstichtag begonnen werden.
         dieses Gesetzes mit Art des Objekts.
 
 
-
-
-
-
-
-
 ## § 5 Hilfsmerkmale
 
 Hilfsmerkmale sind:
@@ -225,17 +193,11 @@ Hilfsmerkmale sind:
 1.  Name und Anschrift der Auskunftspflichtigen und der nicht
     auskunftspflichtigen Haushaltsmitglieder,
 
-
 2.  Straße und Hausnummer des Gebäudes,
-
 
 3.  Lage der Wohnung im Gebäude,
 
-
 4.  Telefonnummer der für Rückfragen zur Verfügung stehenden Personen.
-
-
-
 
 
 ## § 6 Erhebungsstellen
@@ -262,9 +224,9 @@ Erhebungsstellen auf die Gemeinden und Gemeindeverbände übertragen.
 Die Regelungen können durch Rechtsverordnung der Landesregierung
 getroffen werden.
 
-(4) Erhebungsstellen für die Erhebung nach § 1 Nr. 2 sind die
-statistischen Ämter der Länder. Sie dürfen zur Bildung von
-Auswahlbezirken für die Erhebung nach § 1 Nr. 2 aus dem
+(4) Erhebungsstellen für die Erhebung nach § 1 Nr. 2 sind
+die statistischen Ämter der Länder. Sie dürfen zur Bildung
+von Auswahlbezirken für die Erhebung nach § 1 Nr. 2 aus dem
 Bevölkerungsregister Statistik die Zahl der Haushalte und Personen,
 gegliedert nach Gemeinde, Straße und Hausnummer, verarbeiten und
 nutzen.
@@ -280,8 +242,8 @@ Die Erhebungsbeauftragten sind berechtigt, in die Erhebungsvordrucke
 die Angaben nach § 5, die Zahl und das Leerstehen der Wohnungen im
 Gebäude sowie die Nutzung durch Angehörige ausländischer Streitkräfte,
 diplomatischer oder berufskonsularischer Vertretungen selbst
-einzutragen. Sie sind außerdem berechtigt, bei der Erhebung nach § 1
-Nr. 2 die Zahl der Haushalte in der Wohnung und die Personen im
+einzutragen. Sie sind außerdem berechtigt, bei der Erhebung nach §
+1 Nr. 2 die Zahl der Haushalte in der Wohnung und die Personen im
 Haushalt selbst einzutragen. Dies gilt auch für weitere Eintragungen
 in die Erhebungsvordrucke, soweit die Auskunftspflichtigen
 einverstanden sind. § 14 des Bundesstatistikgesetzes bleibt unberührt.
@@ -313,9 +275,9 @@ gelten entsprechend.
 
 ## § 8 Datenübermittlung an die Erhebungsstellen
 
-(1) Die für die Grundsteuer zuständigen Stellen der Gemeinden oder die
-für die Gebäudebrandversicherung zuständigen juristischen Personen des
-öffentlichen Rechts sowie die für die Führung des Grundbuchs
+(1) Die für die Grundsteuer zuständigen Stellen der Gemeinden oder
+die für die Gebäudebrandversicherung zuständigen juristischen Personen
+des öffentlichen Rechts sowie die für die Führung des Grundbuchs
 zuständigen Stellen teilen den Erhebungsstellen auf Anforderung Vor-
 und Familiennamen oder Bezeichnung sowie Anschrift der Eigentümer,
 Erbbauberechtigten, Verwalter, Verfügungs- oder Nutzungsberechtigten
@@ -350,16 +312,14 @@ löschen.
     die Eigentümer und Verwalter oder Erbbauberechtigten, Verfügungs- oder
     Nutzungsberechtigten;
 
-
 2.  zu den Merkmalen nach § 4 Abs. 2 Nr. 2 Buchstabe a und b die
     Wohnungsinhaber, ersatzweise die nach Nummer 1 Auskunftspflichtigen;
-
 
 3.  zu den Merkmalen nach § 4 Abs. 2 Nr. 3 alle Volljährigen oder einen
     eigenen Haushalt führenden Minderjährigen, auch für minderjährige
     Haushaltsmitglieder. Für volljährige Haushaltsmitglieder, die wegen
-    einer Behinderung selbst nicht Auskunft geben können, ist jedes andere
-    auskunftspflichtige Haushaltsmitglied auskunftspflichtig. Die
+    einer Behinderung selbst nicht Auskunft geben können, ist jedes
+    andere auskunftspflichtige Haushaltsmitglied auskunftspflichtig. Die
     Auskunftspflicht für andere Haushaltsmitglieder erstreckt sich auf die
     Sachverhalte, die dem Auskunftspflichtigen bekannt sind. Sie entfällt,
     wenn die Auskünfte durch eine Vertrauensperson erteilt werden. Der
@@ -367,17 +327,13 @@ löschen.
     Fragen gemeinsam mit anderen Haushaltsmitgliedern oder für sich allein
     beantworten;
 
-
 4.  zu den Merkmalen nach § 5 die Auskunftspflichtigen nach Nummern 1 bis
     3\. Diese Angaben sind von den angetroffenen Auskunftspflichtigen nach
     Nummer 3 auch für andere Personen derselben Wohnung sowie für die
     Auskunftspflichtigen nach Nummer 1 mitzuteilen.
 
-
-
-
-(3) Die Angaben zu den Merkmalen nach § 4 Abs. 1, 2 Nr. 1 und 2
-Buchstabe c sowie nach § 5 Nr. 1, 2 und 4 können ersatzweise
+(3) Die Angaben zu den Merkmalen nach § 4 Abs. 1, 2 Nr. 1 und
+2 Buchstabe c sowie nach § 5 Nr. 1, 2 und 4 können ersatzweise
 freiwillig durch einen Mieter erteilt werden.
 
 (4) Die Angaben zu § 4 Abs. 2 Nr. 1 Buchstabe d, Nr. 3 Buchstabe c und
@@ -398,11 +354,8 @@ Erhebungsvordrucke
 1.  unverzüglich dem Erhebungsbeauftragten auszuhändigen oder in
     verschlossenem Umschlag zu übergeben oder
 
-
 2.  innerhalb einer Woche bei der Erhebungsstelle abzugeben oder dorthin
     zu übersenden.
-
-
 
 Bei Abgabe in verschlossenem Umschlag sind Name und Anschrift auf dem
 Umschlag anzugeben.
@@ -412,12 +365,12 @@ Umschlag anzugeben.
 
 (1) Für ausschließlich statistische Zwecke dürfen den zur Durchführung
 statistischer Aufgaben zuständigen Stellen der Gemeinden und
-Gemeindeverbände Einzelangaben aus der Erhebung nach § 1 Nr. 1 mit
-Ausnahme der Hilfsmerkmale nach § 5 Nr. 1, 3 und 4 für ihren
+Gemeindeverbände Einzelangaben aus der Erhebung nach § 1 Nr. 1
+mit Ausnahme der Hilfsmerkmale nach § 5 Nr. 1, 3 und 4 für ihren
 Zuständigkeitsbereich übermittelt werden, soweit die sonstigen
 Voraussetzungen nach § 16 Abs. 5 des Bundesstatistikgesetzes gegebenen
-sind. Die Übermittlung der Hilfsmerkmale nach § 5 Nr. 2 erfolgt zur
-Bildung kleinräumiger Gliederungssysteme (Blockseiten oder
+sind. Die Übermittlung der Hilfsmerkmale nach § 5 Nr. 2 erfolgt
+zur Bildung kleinräumiger Gliederungssysteme (Blockseiten oder
 vergleichbare Gebietseinheiten mit mindestens drei Gebäuden). Sie sind
 zum frühestmöglichen Zeitpunkt, spätestens jedoch vier Jahre nach dem
 in § 3 Abs. 1 genannten Zeitpunkt zu löschen.
@@ -427,11 +380,11 @@ die als Bundesstatistik durchgeführt werden, dürfen die statistischen
 Ämter des Bundes und der Länder die Art des Gebäudes, Zahl der
 Geschosse und Wohnungen, gegliedert nach Gemeinde, Straße, Hausnummer,
 zur Ermittlung von Auswahlbezirken im Geltungsbereich dieses Gesetzes
-nutzen. Der Gesamtumfang der nach mathematischem Zufallsverfahren zu
-ziehenden Stichproben wird auf 20 vom Hundert der Auswahlbezirke
+nutzen. Der Gesamtumfang der nach mathematischem Zufallsverfahren
+zu ziehenden Stichproben wird auf 20 vom Hundert der Auswahlbezirke
 begrenzt; die Merkmale der Stichproben sind gesondert aufzubewahren.
-Sie sind unverzüglich nach Zweckerfüllung zu löschen, spätestens zu
-dem Zeitpunkt, zu dem entsprechende Auswahlgrundlagen aus einer
+Sie sind unverzüglich nach Zweckerfüllung zu löschen, spätestens
+zu dem Zeitpunkt, zu dem entsprechende Auswahlgrundlagen aus einer
 künftigen Zählung zur Verfügung stehen. Die Merkmale für die nicht
 benötigten 80 vom Hundert der Auswahlbezirke sind unverzüglich nach
 Festlegung der Auswahlbezirke nach Satz 1, spätestens jedoch vier

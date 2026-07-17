@@ -25,7 +25,6 @@ Zuletzt geändert durch
 ## I. - Aufstellung von Geldspielgeräten
 
 
-
 ### § 1
 
 (1) Ein Spielgerät, bei dem der Gewinn in Geld besteht
@@ -35,28 +34,20 @@ Zuletzt geändert durch
     zubereitete Speisen zum Verzehr an Ort und Stelle verabreicht werden,
     oder in Beherbergungsbetrieben,
 
-
 2.  Spielhallen oder ähnlichen Unternehmen oder
-
 
 3.  Wettannahmestellen der konzessionierten Buchmacher nach § 2 des
     Rennwett- und Lotteriegesetzes, es sei denn, in der Wettannahmestelle
     werden Sportwetten vermittelt.
-
-
-
 
 (2) Ein Geldspielgerät darf nicht aufgestellt werden in
 
 1.  Betrieben auf Volksfesten, Schützenfesten oder ähnlichen
     Veranstaltungen, Jahrmärkten oder Spezialmärkten,
 
-
 2.  Trinkhallen, Speiseeiswirtschaften, Milchstuben, Betrieben, in denen
     die Verabreichung von Speisen oder Getränken nur eine untergeordnete
-    Rolle
-    spielt,
-
+    Rolle *spielt,*
 
 3.  Schank- oder Speisewirtschaften oder Beherbergungsbetrieben, die sich
     auf Sportplätzen, in Sporthallen, Tanzschulen, Badeanstalten, Sport-
@@ -65,14 +56,10 @@ Zuletzt geändert durch
     Art nach oder tatsächlich vorwiegend von Kindern oder Jugendlichen
     besucht werden oder
 
-
 4.  Betriebsformen, die unter Betriebe im Sinne von § 2 Absatz 2 des
     Gaststättengesetzes in der Fassung der Bekanntmachung vom 20. November
     1998 (BGBl. I S. 3418), das zuletzt durch Artikel 10 des Gesetzes vom
     7\. September 2007 (BGBl. I S. 2246) geändert worden ist, fallen.
-
-
-
 
 
 ### § 2
@@ -85,20 +72,14 @@ darf nur aufgestellt werden
     oder in Beherbergungsbetrieben mit Ausnahme der in § 1 Abs. 2 Nr. 2
     und 3 genannten Betriebe,
 
-
 2.  in Spielhallen oder ähnlichen Unternehmen,
-
 
 3.  in Wettannahmestellen der konzessionierten Buchmacher nach § 2 des
     Rennwett- und Lotteriegesetzes, es sei denn, in der Wettannahmestelle
     werden Sportwetten vermittelt, oder
 
-
 4.  auf Volksfesten, Schützenfesten oder ähnlichen Veranstaltungen,
     Jahrmärkten oder Spezialmärkten.
-
-
-
 
 
 ### § 3
@@ -106,13 +87,13 @@ darf nur aufgestellt werden
 (1) In Schankwirtschaften, Speisewirtschaften, Beherbergungsbetrieben,
 Wettannahmestellen der konzessionierten Buchmacher nach § 2 des
 Rennwett- und Lotteriegesetzes sowie in Spielhallen oder ähnlichen
-Unternehmen, in denen alkoholische Getränke zum Verzehr an Ort und
-Stelle verabreicht werden, dürfen höchstens zwei Geld- oder
+Unternehmen, in denen alkoholische Getränke zum Verzehr an Ort
+und Stelle verabreicht werden, dürfen höchstens zwei Geld- oder
 Warenspielgeräte aufgestellt werden. Bei Geld- oder Warenspielgeräten
 mit mehreren Spielstellen (Mehrplatzspielgeräte) gilt jede Spielstelle
-als Geld- oder Warenspielgerät nach Satz 1. Der Gewerbetreibende hat
-bei den aufgestellten Geräten durch ständige Aufsicht und durch
-zusätzliche technische Sicherungsmaßnahmen an den Geräten die
+als Geld- oder Warenspielgerät nach Satz 1. Der Gewerbetreibende
+hat bei den aufgestellten Geräten durch ständige Aufsicht und
+durch zusätzliche technische Sicherungsmaßnahmen an den Geräten die
 Einhaltung von § 6 Absatz 2 des Jugendschutzgesetzes sicherzustellen.
 Die Zahl der Warenspielgeräte, die auf Volksfesten, Schützenfesten
 oder ähnlichen Veranstaltungen, Jahrmärkten oder Spezialmärkten
@@ -143,42 +124,39 @@ im Hinblick auf diesen Betrieb erfüllt sind.
 ## II. - Veranstaltung anderer Spiele
 
 
-
 ### 1. - Erlaubnispflichtige Spiele
-
 
 
 #### § 4
 
-Die Erlaubnis für die Veranstaltung eines anderen Spieles im Sinne des
-§ 33d Abs. 1 Satz 1 der Gewerbeordnung (anderes Spiel), bei dem der
-Gewinn in Geld besteht, darf nur erteilt werden, wenn das Spiel in
-Spielhallen oder ähnlichen Unternehmen veranstaltet werden soll. In
-einer Spielhalle oder einem ähnlichen Unternehmen dürfen höchstens
+Die Erlaubnis für die Veranstaltung eines anderen Spieles im Sinne
+des § 33d Abs. 1 Satz 1 der Gewerbeordnung (anderes Spiel), bei dem
+der Gewinn in Geld besteht, darf nur erteilt werden, wenn das Spiel
+in Spielhallen oder ähnlichen Unternehmen veranstaltet werden soll.
+In einer Spielhalle oder einem ähnlichen Unternehmen dürfen höchstens
 drei andere Spiele veranstaltet werden.
 
 
 #### § 5
 
-Die Erlaubnis für die Veranstaltung eines anderen Spieles, bei dem der
-Gewinn in Waren besteht, darf nur erteilt werden, wenn das Spiel auf
-Volksfesten, Schützenfesten oder ähnlichen Veranstaltungen,
-Jahrmärkten oder Spezialmärkten oder in Schank- oder
-Speisewirtschaften oder Beherbergungsbetrieben mit Ausnahme der in § 1
-Abs. 2 Nr. 2 und 3 genannten Betriebe veranstaltet werden soll. Im
+Die Erlaubnis für die Veranstaltung eines anderen Spieles,
+bei dem der Gewinn in Waren besteht, darf nur erteilt werden,
+wenn das Spiel auf Volksfesten, Schützenfesten oder ähnlichen
+Veranstaltungen, Jahrmärkten oder Spezialmärkten oder in Schank- oder
+Speisewirtschaften oder Beherbergungsbetrieben mit Ausnahme der in §
+1 Abs. 2 Nr. 2 und 3 genannten Betriebe veranstaltet werden soll. Im
 Übrigen gilt § 3 Abs. 1 entsprechend.
 
 
 ### 2. - Erlaubnisfreie Spiele
 
 
-
 #### § 5a
 
-Für die Veranstaltung eines anderen Spieles ist die Erlaubnis nach §
-33d Abs. 1 Satz 1 oder § 60a Abs. 2 Satz 2 der Gewerbeordnung nicht
-erforderlich, wenn das Spiel die Anforderungen der Anlage erfüllt und
-der Gewinn in Waren besteht. In Zweifelsfällen stellt das
+Für die Veranstaltung eines anderen Spieles ist die Erlaubnis nach
+§ 33d Abs. 1 Satz 1 oder § 60a Abs. 2 Satz 2 der Gewerbeordnung
+nicht erforderlich, wenn das Spiel die Anforderungen der Anlage
+erfüllt und der Gewinn in Waren besteht. In Zweifelsfällen stellt das
 Bundeskriminalamt oder das zuständige Landeskriminalamt fest, ob diese
 Voraussetzungen vorliegen.
 
@@ -186,11 +164,10 @@ Voraussetzungen vorliegen.
 ## III. - Verpflichtungen bei der Ausübung des Gewerbes
 
 
-
 ### § 6
 
-(1) Der Aufsteller darf nur Geld- oder Warenspielgeräte aufstellen, an
-denen das Zulassungszeichen deutlich sichtbar angebracht ist. Der
+(1) Der Aufsteller darf nur Geld- oder Warenspielgeräte aufstellen,
+an denen das Zulassungszeichen deutlich sichtbar angebracht ist. Der
 Aufsteller ist verpflichtet, dafür zu sorgen, dass Spielregeln und
 Gewinnplan für Spieler leicht zugänglich sind.
 
@@ -217,8 +194,8 @@ sichtbar ausliegt.
 des § 13 Nummer 10 erfüllen, ist verpflichtet, dafür zu sorgen, dass
 jedem Spieler vor Aufnahme des Spielbetriebs an einem solchen Gerät
 und nach Prüfung seiner Spielberechtigung ein gerätegebundenes,
-personenungebundenes Identifikationsmittel ausgehändigt wird. Er hat
-dafür zu sorgen, dass jedem Spieler nicht mehr als ein
+personenungebundenes Identifikationsmittel ausgehändigt wird.
+Er hat dafür zu sorgen, dass jedem Spieler nicht mehr als ein
 Identifikationsmittel ausgehändigt wird. Er hat weiterhin dafür Sorge
 zu tragen, dass der Verlust wiederverwendbarer Identifikationsmittel
 vermieden wird, und dass der Spieler ein wiederverwendbares
@@ -235,12 +212,9 @@ haben oder die keiner Erlaubnis nach § 5a bedürfen, ist verboten,
 a)  wenn diese als Gewinn Berechtigungen zum Weiterspielen sowie sonstige
     Gewinnberechtigungen oder Chancenerhöhungen anbieten oder
 
-
 b)  wenn auf der Grundlage ihrer Spielergebnisse Gewinne ausgegeben,
     ausgezahlt, auf Konten, Geldkarten oder ähnliche zur Geldauszahlung
     benutzbare Speichermedien aufgebucht werden.
-
-
 
 Die Rückgewähr getätigter Einsätze ist unzulässig. Die Gewährung von
 Freispielen ist nur zulässig, wenn sie ausschließlich in unmittelbarem
@@ -257,14 +231,14 @@ und öffentlich bestellten Sachverständigen oder eine von der
 Physikalisch-Technischen Bundesanstalt zugelassene Stelle auf seine
 Kosten überprüfen zu lassen.
 
-(2) Wird die Übereinstimmung festgestellt, hat der Prüfer dies mit
-einer Prüfplakette, deren Form von der Physikalisch-Technischen
-Bundesanstalt festgelegt wird, am Gerät sowie mit einer
+(2) Wird die Übereinstimmung festgestellt, hat der Prüfer
+dies mit einer Prüfplakette, deren Form von der Physikalisch-
+Technischen Bundesanstalt festgelegt wird, am Gerät sowie mit einer
 Prüfbescheinigung, die dem Geräteinhaber ausgehändigt wird, zu
 bestätigen.
 
-(3) Der Aufsteller darf ein Geldspielgerät nur aufstellen, wenn der im
-Zulassungszeichen angegebene Beginn der Aufstellung oder die
+(3) Der Aufsteller darf ein Geldspielgerät nur aufstellen, wenn
+der im Zulassungszeichen angegebene Beginn der Aufstellung oder die
 Ausstellung einer nach Absatz 2 erteilten Prüfplakette nicht länger
 als 24 Monate zurückliegt.
 
@@ -273,30 +247,24 @@ dem Verkehr zu ziehen,
 
 1.  das in seiner ordnungsgemäßen Funktion gestört ist,
 
-
 2.  das nicht mehr der von der Physikalisch-Technischen Bundesanstalt
     veröffentlichten Bauartzulassung entspricht,
 
-
 3.  dessen Spiel- und Gewinnplan nicht leicht zugänglich ist oder
-
 
 4.  dessen Frist gemäß Absatz 3 oder dessen im Zulassungsbeleg oder
     Zulassungszeichen angegebene Aufstelldauer abgelaufen ist.
 
 
-
-
-
 ### § 8
 
-(1) Der Aufsteller eines Spielgerätes oder der Veranstalter eines
-anderen Spieles darf am Spiel nicht teilnehmen, andere Personen nicht
-beauftragen, an dem Spiel teilzunehmen, und nicht gestatten oder
-dulden, dass in seinem Unternehmen Beschäftigte an dem Spiel
-teilnehmen, soweit nicht im Zulassungsschein oder in der
-Unbedenklichkeitsbescheinigung Ausnahmen zugelassen sind. Insbesondere
-darf der jeweilige Zustand eines Gerätes, vor allem die
+(1) Der Aufsteller eines Spielgerätes oder der Veranstalter
+eines anderen Spieles darf am Spiel nicht teilnehmen, andere
+Personen nicht beauftragen, an dem Spiel teilzunehmen, und nicht
+gestatten oder dulden, dass in seinem Unternehmen Beschäftigte
+an dem Spiel teilnehmen, soweit nicht im Zulassungsschein oder
+in der Unbedenklichkeitsbescheinigung Ausnahmen zugelassen sind.
+Insbesondere darf der jeweilige Zustand eines Gerätes, vor allem die
 Gewinnaussicht, nicht durch vorherige Einsätze oder andere Maßnahmen
 vor dem Spiel verändert werden.
 
@@ -309,8 +277,8 @@ gewähren.
 ### § 9
 
 (1) Der Aufsteller eines Spielgerätes oder der Veranstalter eines
-anderen Spieles darf dem Spieler für weitere Spiele hinsichtlich der
-Höhe der Einsätze keine Vergünstigungen, insbesondere keine
+anderen Spieles darf dem Spieler für weitere Spiele hinsichtlich
+der Höhe der Einsätze keine Vergünstigungen, insbesondere keine
 unentgeltlichen Spiele, Nachlässe des Einsatzes oder auf den Einsatz
 oder darüber hinausgehende sonstige finanzielle Vergünstigungen
 gewähren. Er darf als Warengewinn nur Gegenstände anbieten, deren
@@ -345,20 +313,15 @@ dieser Aufgaben ermöglicht.
 (2) Dem Unterrichtungsverfahren haben sich zu unterziehen
 
 1.  Personen, die das Gewerbe nach § 33c Absatz 1 Satz 1 der
-    Gewerbeordnung als Selbständige ausüben wollen, oder, sofern es sich
-    bei diesen um eine juristische Person handelt, ihr gesetzlicher
+    Gewerbeordnung als Selbständige ausüben wollen, oder, sofern es
+    sich bei diesen um eine juristische Person handelt, ihr gesetzlicher
     Vertreter, soweit er mit der Aufstellung von Spielgeräten mit
     Gewinnmöglichkeit direkt befasst ist,
 
-
 2.  die mit der Leitung des Gewerbebetriebes beauftragten Personen,
-
 
 3.  die nach § 33c Absatz 3 Satz 4 der Gewerbeordnung mit der Aufstellung
     von Geldspielgeräten mit Gewinnmöglichkeit beschäftigten Personen.
-
-
-
 
 
 ### § 10b
@@ -366,8 +329,8 @@ dieser Aufgaben ermöglicht.
 (1) Die Unterrichtung erfolgt durch die Industrie- und Handelskammer.
 
 (2) Die Unterrichtung erfolgt mündlich. Die Unterrichtung umfasst
-mindestens sechs Unterrichtsstunden zu je 45 Minuten. Mehrere Personen
-können gleichzeitig unterrichtet werden, wobei die Zahl der
+mindestens sechs Unterrichtsstunden zu je 45 Minuten. Mehrere
+Personen können gleichzeitig unterrichtet werden, wobei die Zahl der
 Unterrichtsteilnehmer 20 nicht übersteigen soll.
 
 (3) Die Industrie- und Handelskammer stellt eine Bescheinigung aus,
@@ -383,14 +346,9 @@ Sachgebiete:
 
 1.  Gewerbeordnung und Spielverordnung,
 
-
 2.  Spielhallenrecht der Länder,
 
-
 3.  Jugendschutzrecht.
-
-
-
 
 
 ### § 10d
@@ -402,24 +360,19 @@ anerkannt:
     Rechtsverordnungen nach den §§ 4, 6 oder 53 des Berufsbildungsgesetzes
     erworben wurden,
 
-
 2.  für das Aufstellergewerbe einschlägige Abschlüsse, die auf Grund von
     Rechtsverordnungen der Industrie- und Handelskammern nach § 54 des
     Berufsbildungsgesetzes erworben wurden.
 
 
-
-
-
 ## IV. - Zulassung von Spielgeräten
-
 
 
 ### § 11
 
-(1) Über den Antrag auf Zulassung der Bauart eines Spielgerätes im
-Sinne des § 33c Abs. 1 Satz 1 der Gewerbeordnung entscheidet die
-Physikalisch-Technische Bundesanstalt im Benehmen mit dem
+(1) Über den Antrag auf Zulassung der Bauart eines Spielgerätes
+im Sinne des § 33c Abs. 1 Satz 1 der Gewerbeordnung entscheidet
+die Physikalisch-Technische Bundesanstalt im Benehmen mit dem
 Bundeskriminalamt.
 
 (2) Die Zulassung der Bauart eines Spielgerätes ist auf ein Jahr
@@ -446,30 +399,25 @@ darüber vorzulegen, dass bei dem zu prüfenden Geldspielgerät
     Betrachtung kein höherer Betrag als 20 Euro je Stunde als Kasseninhalt
     verbleibt,
 
-
 2.  die Gewinnaussichten zufällig sind, für jeden Spieler gleiche Chancen
     eröffnet werden und die am Gerät dargestellten Gewinnaussichten zu
     keinem Zeitpunkt einen festen Gegenwert von 300 Euro übersteigen,
 
-
-3.  bei Beginn einer gemäß § 13 Nummer 6 erzwungenen Spielpause alle auf
-    dem Geld- sowie Gewinnspeicher aufgebuchten Beträge automatisch
+3.  bei Beginn einer gemäß § 13 Nummer 6 erzwungenen Spielpause alle
+    auf dem Geld- sowie Gewinnspeicher aufgebuchten Beträge automatisch
     ausgezahlt werden und
-
 
 4.  die Möglichkeit besteht, sämtliche Einsätze, Gewinne und Kasseninhalte
     für steuerliche Erhebungen zu dokumentieren.
-
-
 
 Die Physikalisch-Technische Bundesanstalt ist berechtigt, weitere
 Untersuchungen zur Einhaltung der in den Nummern 1 bis 4 aufgeführten
 Angaben durchzuführen.
 
 (3) Der Antragsteller hat mit dem Antrag ein Gutachten einer vom
-Bundesamt für Sicherheit in der Informationstechnik anerkannten oder
-gleichwertigen Prüfstelle darüber vorzulegen, dass das von ihm zur
-Prüfung eingereichte Geldspielgerät gemäß § 13 Nummer 11 gegen
+Bundesamt für Sicherheit in der Informationstechnik anerkannten
+oder gleichwertigen Prüfstelle darüber vorzulegen, dass das von ihm
+zur Prüfung eingereichte Geldspielgerät gemäß § 13 Nummer 11 gegen
 Veränderungen gesichert gebaut ist. Die Physikalisch-Technische
 Bundesanstalt kann vom Antragsteller die Vorlage weiterer Gutachten
 fordern, wenn dies zur Erfüllung ihrer Aufgaben erforderlich und
@@ -480,19 +428,14 @@ Richtlinien herausgeben und anwenden
 
 1.  zur Sicherung der Prüfbarkeit der eingereichten Baumuster,
 
-
 2.  zur Durchführung der Bauartprüfung sowie
-
 
 3.  zu bauartabhängigen Voraussetzungen einer wirksamen Überprüfung
     aufgestellter Spielgeräte.
 
-
-
-
 (5) Die Zulassungsprüfung wird in der Regel in der Physikalisch-
-Technischen Bundesanstalt durchgeführt, sie kann in Ausnahmefällen am
-Herstellungs-, Lieferungs- und Aufstellungsort des Spielgerätes
+Technischen Bundesanstalt durchgeführt, sie kann in Ausnahmefällen
+am Herstellungs-, Lieferungs- und Aufstellungsort des Spielgerätes
 erfolgen.
 
 
@@ -503,14 +446,12 @@ Geldspielgerätes nur zulassen, wenn folgende Anforderungen erfüllt
 sind:
 
 1.  Der Spieleinsatz darf nur in Euro oder Cent erfolgen; ein Spiel
-    beginnt mit dem Einsatz des Geldes, setzt sich mit der Bekanntgabe des
-    Spielergebnisses fort und endet mit der Auszahlung des Gewinns
+    beginnt mit dem Einsatz des Geldes, setzt sich mit der Bekanntgabe
+    des Spielergebnisses fort und endet mit der Auszahlung des Gewinns
     beziehungsweise der Einstreichung des Einsatzes.
-
 
 2.  Die Mindestspieldauer beträgt fünf Sekunden; dabei darf der Einsatz
     0,20 Euro nicht übersteigen und der Gewinn höchstens 2 Euro betragen.
-
 
 3.  Bei einer Verlängerung des Abstandes zwischen zwei Einsatzleistungen
     über fünf Sekunden hinaus bis zu einer Obergrenze von 75 Sekunden darf
@@ -520,22 +461,18 @@ sind:
     Gewinn um höchstens 0,30 Euro je volle Sekunde erhöht werden. Darüber
     hinausgehende Erhöhungen von Einsatz und Gewinn sind ausgeschlossen.
 
-
 4.  Die Summe der Verluste (Einsätze abzüglich Gewinne) darf im Verlauf
     einer Stunde 60 Euro nicht übersteigen.
-
 
 5.  Die Summe der Gewinne abzüglich der Einsätze darf im Verlauf einer
     Stunde 400 Euro nicht übersteigen. Jackpots und andere Sonderzahlungen
     jeder Art sind ausgeschlossen.
 
-
-6.  Nach einer Stunde Spielbetrieb legt das Spielgerät eine Spielpause von
-    mindestens fünf Minuten ein, in der keine Einsätze angenommen und
-    Gewinne gewährt werden. In der Pause dürfen keine Spielvorgänge,
+6.  Nach einer Stunde Spielbetrieb legt das Spielgerät eine Spielpause
+    von mindestens fünf Minuten ein, in der keine Einsätze angenommen
+    und Gewinne gewährt werden. In der Pause dürfen keine Spielvorgänge,
     einsatz- und gewinnfreie Probe- oder Demonstrationsspiele oder
     sonstige Animationen angeboten werden.
-
 
 6a. Nach drei Stunden Spielbetrieb legt das Spielgerät eine Spielpause
     ein, in der es für mindestens fünf Minuten in den Ruhezustand versetzt
@@ -543,23 +480,20 @@ sind:
     und alle Anzeigeelemente auf die vordefinierten Anfangswerte zu
     setzen.
 
-
 7.  Die Speicherung von Geldbeträgen in Einsatz- und Gewinnspeichern ist
     bei Geldannahme vom Spieler in der Summe auf 10 Euro begrenzt. Höhere
     Beträge werden unmittelbar nach der Aufbuchung automatisch ausgezahlt.
     Eine Bedienvorrichtung für den Spieler, mit der er vorab einstellen
     kann, dass aufgebuchte Beträge unbeeinflusst zum Einsatz gelangen, ist
     unzulässig. Jeder Einsatz darf nur durch unmittelbar zuvor erfolgte
-    gesonderte physische Betätigung des Spielers ausgelöst werden. Es gibt
-    eine nicht sperrbare Bedienvorrichtung zur Auszahlung, mit der der
-    Spieler uneingeschränkt über die aufgebuchten Beträge, die in der
-    Summe größer oder gleich dem Höchsteinsatz gemäß Nummer 1 sind,
+    gesonderte physische Betätigung des Spielers ausgelöst werden. Es
+    gibt eine nicht sperrbare Bedienvorrichtung zur Auszahlung, mit der
+    der Spieler uneingeschränkt über die aufgebuchten Beträge, die in
+    der Summe größer oder gleich dem Höchsteinsatz gemäß Nummer 1 sind,
     verfügen kann.
-
 
 8.  Der Spielbetrieb darf nur mit auf Euro lautenden Münzen und Banknoten
     und nur unmittelbar am Spielgerät erfolgen.
-
 
 8a. Bei Mehrplatzspielgeräten müssen die einzelnen Spielstellen unabhängig
     voneinander benutzbar sein und jede Spielstelle hat die Anforderungen
@@ -567,16 +501,13 @@ sind:
     zulässig sind; aus der Bauartzulassung eines Mehrplatzspielgerätes
     folgt kein Anspruch auf die Aufstellung des Mehrplatzspielgerätes.
 
-
 8b. Mehrplatzspielgeräte dürfen über höchstens vier Spielstellen verfügen,
     einzelne Spielstellen dürfen nicht abstellbar sein.
-
 
 9.  Das Spielgerät beinhaltet eine Kontrolleinrichtung, die sämtliche
     Einsätze, Gewinne und den Kasseninhalt zeitgerecht, unmittelbar und
     auslesbar erfasst. Die Kontrolleinrichtung gewährleistet die in den
     Nummern 1 bis 5 Satz 1 und Nummer 6a aufgeführten Begrenzungen.
-
 
 9a. Das Spielgerät zeichnet nach dem Stand der Technik die von der
     Kontrolleinrichtung gemäß Nummer 8 erfassten Daten dauerhaft so auf,
@@ -584,22 +515,14 @@ sind:
 
     a)  sie jederzeit elektronisch verfügbar, lesbar und auswertbar sind,
 
-
     b)  sie auf das erzeugende Spielgerät zurückgeführt werden können,
-
 
     c)  die einzelnen Daten mit dem Zeitpunkt ihrer Entstehung verknüpft sind,
 
-
     d)  ihre Vollständigkeit erkennbar ist und
-
 
     e)  feststellbar ist, ob nachträglich Veränderungen vorgenommen worden
         sind.
-
-
-
-
 
 10. Der Spielbetrieb darf nur bei ständiger Verwendung eines gültigen
     gerätegebundenen, personenungebundenen Identifikationsmittels möglich
@@ -608,24 +531,15 @@ sind:
     a)  die Gültigkeit des verwendeten Identifikationsmittels durch das
         Spielgerät vor Aufnahme des Spielbetriebs geprüft werden muss und
 
-
     b)  während des Spielbetriebs keine Daten auf dem verwendeten
         Identifikationsmittel gespeichert werden dürfen.
-
-
-
-
 
 11. Das Spielgerät und seine Komponenten müssen der Funktion entsprechend
     nach Maßgabe des Standes der Technik zuverlässig und gegen
     Veränderungen gesichert gebaut sein.
 
-
 12. Das Spielgerät muss so gebaut sein, dass die Übereinstimmung der
     Nachbaugeräte mit der zugelassenen Bauart überprüft werden kann.
-
-
-
 
 
 ### § 14
@@ -636,19 +550,14 @@ sind:
 
 1.  Die Bauart muss den in § 13 Nr. 3, 6, 7, 8 und 9 bezeichneten
     Anforderungen entsprechen, wobei sich in § 13 Nr. 3 die Summe der
-    Verluste allein aus der Summe der Einsätze ergibt und nach § 13 Nr. 8
-    nur sämtliche Einsätze zeitgerecht, unmittelbar und auslesbar zu
+    Verluste allein aus der Summe der Einsätze ergibt und nach § 13 Nr.
+    8 nur sämtliche Einsätze zeitgerecht, unmittelbar und auslesbar zu
     erfassen sind.
-
 
 2.  In den Fällen des § 2 Nr. 1 bis 3 gilt § 13 Nr. 1 und 2 entsprechend.
 
-
 3.  Die Entscheidung über Gewinn oder Verlust darf nicht von der Teilnahme
     an weiteren Spielen abhängig sein.
-
-
-
 
 (2) § 12 Abs. 2 Nummer 2 gilt entsprechend.
 
@@ -674,34 +583,24 @@ widerrufen wurde.
 
 1.  Bezeichnung des Spielgerätes;
 
-
 2.  Namen und Wohnort des Inhabers der Zulassung;
-
 
 3.  Beschreibung des Spielgerätes und, soweit die Physikalisch-Technische
     Bundesanstalt dies für erforderlich hält, Übersichtszeichnungen und
     Abbildungen;
 
-
 4.  Identifikation der verwendeten Hard- und Softwaremodule;
-
 
 5.  (weggefallen)
 
-
 6.  Bezeichnung der Aufstellplätze bei Warenspielgeräten;
-
 
 7.  Aufstelldauer der Nachbaugeräte bei Geld- und Warenspielgeräten, die
     bei Geldspielgeräten vier Jahre beträgt;
 
-
-8.  mit der Zulassung verbundene Auflagen, insbesondere die Auflage, die
-    Nummer des Zulassungszeichens an dem zugehörigen Spielgerät
+8.  mit der Zulassung verbundene Auflagen, insbesondere die Auflage,
+    die Nummer des Zulassungszeichens an dem zugehörigen Spielgerät
     anzubringen.
-
-
-
 
 (2) Der Zulassungsbeleg enthält die Bezeichnung des Spielgerätes, den
 Namen und Wohnort des Inhabers der Zulassung, den Beginn und das Ende
@@ -726,7 +625,6 @@ ein Nachbaugerät dieselbe fortlaufende Nummer.
 ## V. - Erteilung von Unbedenklichkeitsbescheinigungen für gewerbsmäßig betriebene Ausspielungen
 
 
-
 ### § 18
 
 Das Bundeskriminalamt und die Landeskriminalämter dürfen die
@@ -740,7 +638,6 @@ Anlage zu § 5a genannte Höhe der Gestehungskosten eines Gewinns nicht
 ## VI. - Ordnungswidrigkeiten
 
 
-
 ### § 19
 
 (1) Ordnungswidrig im Sinne des § 144 Absatz 2 Nummer 1a der
@@ -750,88 +647,65 @@ eines stehenden Gewerbes
 1.  entgegen § 3 Absatz 1 Satz 1 oder Absatz 2 Satz 1 mehr als die dort
     genannte Zahl von Spielgeräten aufstellt,
 
-
 1a. entgegen § 3 Abs. 1 Satz 3 nicht sicherstellt, dass Kinder oder
     Jugendliche nicht an Spielgeräten spielen,
 
-
 1b. entgegen § 3 Abs. 2 Satz 3 Spielgeräte nicht richtig aufstellt,
-
 
 2.  entgegen § 3a die Aufstellung von Spielgeräten in seinem Betrieb
     zuläss,
 
-
 3.  entgegen § 6 Abs. 1 Satz 1 ein Spielgerät aufstellt,
-
 
 3a. entgegen § 6 Abs. 1 Satz 2 nicht dafür sorgt, dass die Spielregeln und
     der Gewinnplan leicht zugänglich sind,
-
 
 4.  entgegen § 6 Abs. 2 die Spielregeln oder den Gewinnplan nicht deutlich
     sichtbar anbringt oder die Unbedenklichkeitsbescheinigung, einen
     Abdruck der Unbedenklichkeitsbescheinigung oder den Erlaubnisbescheid
     am Veranstaltungsort nicht bereithält,
 
-
 5.  entgegen § 6 Abs. 3 Satz 1 Gegenstände so aufstellt, dass sie dem
     Spieler als Gewinne erscheinen können, oder entgegen § 6 Abs. 3 Satz 2
     lebende Tiere als Gewinn aussetzt,
-
 
 5a. entgegen § 6 Absatz 4 Satz 1 nicht sicherstellt, dass ein dort
     genannter Warnhinweis oder ein Hinweis auf Beratungsmöglichkeiten
     angebracht ist,
 
-
 5b. entgegen § 6 Absatz 4 Satz 2 nicht sicherstellt, dass dort genanntes
     Informationsmaterial sichtbar ausliegt,
-
 
 5c. entgegen § 6 Absatz 5 Satz 1 nicht dafür sorgt, dass jedem Spieler ein
     Identifikationsmittel ausgehändigt wird,
 
-
 5d. entgegen § 6 Absatz 5 Satz 2 nicht dafür sorgt, dass jedem Spieler
     nicht mehr als ein Identifikationsmittel ausgehändigt wird,
 
-
 5e. entgegen § 6a Satz 2 einen Einsatz zurückgewährt,
 
-
 5f. entgegen § 6a Satz 3 ein Freispiel gewährt,
-
 
 6.  entgegen § 7 Abs. 1 ein Geldspielgerät nicht, nicht richtig oder nicht
     rechtzeitig überprüfen lässt,
 
-
 6a. entgegen § 7 Abs. 3 ein Geldspielgerät aufstellt,
-
 
 6b. entgegen § 7 Abs. 4 ein Spielgerät nicht aus dem Verkehr zieht,
 
-
 7.  der Vorschrift des § 8 zuwiderhandelt,
-
 
 8.  entgegen § 9 Abs. 1 Vergünstigungen gewährt oder gewonnene Gegenstände
     zurückkauft oder gewonnene Gegenstände in einen Gewinn umtauscht,
     dessen Gestehungskosten den zulässigen Höchstgewinn überschreiten,
-
 
 8a. entgegen § 9 Abs. 2 neben der Ausgabe von Gewinnen über gemäß den §§
     33c und 33d der Gewerbeordnung zugelassene Spielgeräte oder andere
     Spiele sonstige Gewinnchancen in Aussicht stellt oder Zahlungen oder
     sonstige finanzielle Vergünstigungen gewährt,
 
-
 9.  der Vorschrift des § 10 über den Schutz von Kindern und Jugendlichen
     zuwiderhandelt.
-
-
-
 
 (2) Ordnungswidrig im Sinne des § 145 Abs. 2 Nr. 1 der Gewerbeordnung
 handelt, wer vorsätzlich oder fahrlässig in Ausübung eines
@@ -839,19 +713,13 @@ Reisegewerbes
 
 1.  entgegen § 6 Abs. 1 Satz 1 ein Spielgerät aufstellt,
 
-
 1a. entgegen § 6 Abs. 1 Satz 2 nicht dafür sorgt, dass die Spielregeln und
     der Gewinnplan leicht zugänglich sind oder
-
 
 2.  eine in Absatz 1 Nr. 4 bis 8 bezeichnete Handlung begeht.
 
 
-
-
-
 ## VII. - Schlussvorschriften
-
 
 
 ### § 20
@@ -869,9 +737,9 @@ zugelassen worden ist, entsprechend dem Inhalt des Zulassungsbelegs
 bis zum 10. November 2018 weiter betrieben werden.
 
 (3) Die Auswirkungen der Änderung der Spielverordnung auf das
-Entstehen von Glücksspielsucht und eine wirksame Suchtbekämpfung sind
-unter Mitwirkung der Länder und des Fachbeirats (§ 10 Absatz 1 Satz 2
-des Staatsvertrags zum Glücksspielwesen in Deutschland –
+Entstehen von Glücksspielsucht und eine wirksame Suchtbekämpfung
+sind unter Mitwirkung der Länder und des Fachbeirats (§ 10 Absatz
+1 Satz 2 des Staatsvertrags zum Glücksspielwesen in Deutschland –
 Glücksspielstaatsvertrag) zu evaluieren. Ein zusammenfassender Bericht
 ist bis zum 30. Juni 2017 vorzulegen.
 
@@ -880,35 +748,26 @@ ist bis zum 30. Juni 2017 vorzulegen.
 
 Fundstelle des Originaltextes: BGBl. I 2006, 286
 
-
 1.  Begünstigt nach § 5a sind
 
     a)  Preisspiele und Gewinnspiele, die in Schank- oder Speisewirtschaften,
         Beherbergungsbetrieben, auf Volksfesten, Schützenfesten oder ähnlichen
         Veranstaltungen, Jahrmärkten oder Spezialmärkten,
 
-
     b)  Ausspielungen, die auf Volksfesten, Schützenfesten oder ähnlichen
         Veranstaltungen, Jahrmärkten oder Spezialmärkten und
-
 
     c)  Jahrmarktspielgeräte für Spiele, die auf Volksfesten, Schützenfesten
         oder ähnlichen Veranstaltungen, Jahrmärkten oder Spezialmärkten
         veranstaltet werden.
 
-
-
-
-
 2.  Preisspiele sind unter Beteiligung von mehreren Spielern turniermäßig
     betriebene Geschicklichkeitsspiele, bei denen das Entgelt für die
     Teilnahme höchstens 15 Euro beträgt.
 
-
 3.  Gewinnspiele sind unter Beteiligung von einem oder mehreren Spielern
     betriebene, auf kurze Zeit angelegte Geschicklichkeitsspiele, bei
     denen die Gestehungskosten eines Gewinns höchstens 60 Euro betragen.
-
 
 4.  Ausspielungen sind auf den in Nummer 1 Buchstabe b genannten
     Veranstaltungen übliche Glücksspiele, bei denen die Gestehungskosten
@@ -917,14 +776,10 @@ Fundstelle des Originaltextes: BGBl. I 2006, 286
     mindestens 20 vom Hundert der Gewinnentscheide müssen zu Gewinnen
     führen.
 
-
 5.  Jahrmarktspielgeräte sind unter Steuerungseinfluss des Spielers
     betriebene Spielautomaten mit beobachtbarem Spielablauf, die so
     beschaffen sind, dass Gewinnmarken nicht als Einsatz verwendet werden
     können und ausgewiesene Gewinne nicht zum Weiterspielen angeboten
     werden. Die Gestehungskosten eines Gewinns betragen höchstens 60 Euro.
     Mindestens 50 vom Hundert der Einsätze fließen an den Spieler zurück.
-
-
-
 

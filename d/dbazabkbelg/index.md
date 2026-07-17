@@ -1,9 +1,5 @@
 ---
-Title: Gesetz zu dem Zusatzabkommen vom 5. November 2002 zum Abkommen vom 11. April
-  1967 zwischen der Bundesrepublik Deutschland und dem Königreich Belgien zur Vermeidung
-  der Doppelbesteuerungen und zur Regelung verschiedener anderer Fragen auf dem Gebiete
-  der Steuern vom Einkommen und vom Vermögen einschließlich der Gewerbesteuer und
-  der Grundsteuern
+Title: Gesetz zu dem Zusatzabkommen vom 5. November 2002 zum Abkommen vom 11. April 1967 zwischen der Bundesrepublik Deutschland und dem Königreich Belgien zur Vermeidung der Doppelbesteuerungen und zur Regelung verschiedener anderer Fragen auf dem Gebiete der Steuern vom Einkommen und vom Vermögen einschließlich der Gewerbesteuer und der Grundsteuern
 jurabk: DBAZAbkBELG
 layout: default
 origslug: dbazabkbelg
@@ -20,7 +16,6 @@ Fundstelle
 :   BGBl II: 2003, 1615
 
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
@@ -34,15 +29,15 @@ Abkommen vom 11. April 1967 zwischen der Bundesrepublik Deutschland
 und dem Königreich Belgien zur Vermeidung der Doppelbesteuerungen und
 zur Regelung verschiedener anderer Fragen auf dem Gebiete der Steuern
 vom Einkommen und vom Vermögen einschließlich der Gewerbesteuer und
-der Grundsteuern sowie zum dazugehörigen Schlussprotokoll (BGBl. 1969
-II S. 17) wird zugestimmt. Das Zusatzabkommen wird nachstehend
+der Grundsteuern sowie zum dazugehörigen Schlussprotokoll (BGBl.
+1969 II S. 17) wird zugestimmt. Das Zusatzabkommen wird nachstehend
 veröffentlicht.
 
 
 ## Art 2
 
-Den in Artikel 3 des Zusatzabkommens festgelegten Ausgleichsbetrag von
-18 Millionen Euro entrichtet der Bund am 30. Juni des jeweiligen
+Den in Artikel 3 des Zusatzabkommens festgelegten Ausgleichsbetrag
+von 18 Millionen Euro entrichtet der Bund am 30. Juni des jeweiligen
 Jahres aus dem Aufkommen der Lohnsteuer. Der auf diesen Betrag
 entsprechend der Beteiligung am Aufkommen der Lohnsteuer entfallende
 Gesamtanteil der Länder und Gemeinden wird von dem Land Nordrhein-

@@ -1,6 +1,5 @@
 ---
-Title: Gesetz über den Zugang von Polizei- und Strafverfolgungsbehörden sowie Nachrichtendiensten
-  zum Visa-Informationssystem
+Title: Gesetz über den Zugang von Polizei- und Strafverfolgungsbehörden sowie Nachrichtendiensten zum Visa-Informationssystem
 jurabk: VISZG
 layout: default
 origslug: viszg
@@ -17,9 +16,11 @@ Fundstelle
 :   BGBl I: 2009, 1034; 2013, 3212
 
 Zuletzt geändert durch
-:   Art. 34 V v. 19.6.2020 I 1328
+:   Art. 2 Abs. 1 G v. 20.3.2026 I Nr. 95
 
-Stand: Dieses G ist gem. § 6 iVm Bek. v. 8.8.2013 I 3212 mWv 1.9.2013 in Kraft getreten
+Stand
+:   Dieses G ist gem. § 6 iVm Bek. v. 8.8.2013 I 3212 mWv 1.9.2013 in Kraft getreten
+
 
 ## Eingangsformel
 
@@ -51,12 +52,12 @@ eingerichtet werden.
 (3) Das Bundesministerium des Innern, für Bau und Heimat erstellt in
 Abstimmung mit den Ländern eine Liste der zentralen Zugangsstellen,
 eine Liste der zugangsberechtigten Behörden sowie eine Liste der
-Organisationseinheiten, die innerhalb der zugangsberechtigten Behörden
-zum Zugang zum Visa-Informationssystem ermächtigt sind. Die Länder
-teilen die erforderlichen Angaben sowie jede nachträgliche Änderung
-dem Bundesministerium des Innern, für Bau und Heimat mit. Das
-Bundesministerium des Innern, für Bau und Heimat übermittelt die
-Listen der zugangsberechtigten Behörden und der zentralen
+Organisationseinheiten, die innerhalb der zugangsberechtigten
+Behörden zum Zugang zum Visa-Informationssystem ermächtigt sind. Die
+Länder teilen die erforderlichen Angaben sowie jede nachträgliche
+Änderung dem Bundesministerium des Innern, für Bau und Heimat mit.
+Das Bundesministerium des Innern, für Bau und Heimat übermittelt
+die Listen der zugangsberechtigten Behörden und der zentralen
 Zugangsstellen sowie jede nachträgliche Änderung an die Europäische
 Kommission und das Generalsekretariat des Rates der Europäischen
 Union.
@@ -69,36 +70,29 @@ der Verhütung, Aufdeckung oder Ermittlung
 
 1.  einer Straftat nach den §§ 129a und 129b des Strafgesetzbuches,
 
-
-2.  einer in § 129a Abs. 1 Nr. 1 und 2, Abs. 2 Nr. 1 bis 5 des
-    Strafgesetzbuches bezeichneten Straftat, wenn diese bestimmt ist, die
-    Bevölkerung auf erhebliche Weise einzuschüchtern, eine Behörde oder
-    eine internationale Organisation rechtswidrig mit Gewalt oder durch
-    Drohung mit Gewalt zu nötigen oder die politischen,
+2.  einer in § 129a Abs. 1 Nr. 1 und 2, Abs. 2 Nr. 1 bis 6 des
+    Strafgesetzbuches bezeichneten Straftat, wenn diese bestimmt ist,
+    die Bevölkerung auf erhebliche Weise einzuschüchtern, eine Behörde
+    oder eine internationale Organisation rechtswidrig mit Gewalt
+    oder durch Drohung mit Gewalt zu nötigen oder die politischen,
     verfassungsrechtlichen, wirtschaftlichen oder sozialen Grundstrukturen
     eines Staates oder einer internationalen Organisation zu beseitigen
     oder erheblich zu beeinträchtigen, und durch die Art ihrer Begehung
     oder ihre Auswirkungen einen Staat oder eine internationale
     Organisation erheblich schädigen kann,
 
-
 3.  einer Straftat, die darauf gerichtet ist, eine der in Nummer 2
     bezeichneten Straftaten anzudrohen,
 
-
 3a. einer Straftat nach den §§ 89a bis 89c und 91 des Strafgesetzbuches,
 
-
 4.  einer Straftat im Zusammenhang mit terroristischen Aktivitäten gemäß
-    Artikel 3 des Rahmenbeschlusses 2002/475/JI des Rates vom 13. Juni
-    2002 zur Terrorismusbekämpfung (ABl. EG Nr. L 164 S. 3), der zuletzt
-    durch Artikel 1 Nummer 1 des Rahmenbeschlusses 2008/919/JI (ABl. L 330
-    vom 9.12.2008, S. 21) geändert worden ist,
+    Artikel 12 der Richtlinie (EU) 2017/541 in der Fassung vom 15. März
+    2017,
 
-
-4a. einer Straftat nach § 94 Absatz 2, den §§ 95 bis 97a, 98 Absatz 1, §
-    99 Absatz 1 und 2, § 100 Absatz 2 und § 100a des Strafgesetzbuches,
-
+4a. einer Straftat nach den §§ 87a, 94 Absatz 2, den §§ 95 bis 97a,
+    98 Absatz 1, § 99 Absatz 1 und 2, § 100 Absatz 2 und § 100a des
+    Strafgesetzbuches,
 
 5.  einer Straftat, die mit einer Freiheitsstrafe im Höchstmaß von
     mindestens drei Jahren bedroht ist und zu einer der in Artikel 2 Abs.
@@ -108,16 +102,13 @@ der Verhütung, Aufdeckung oder Ermittlung
     gehört.
 
 
-
-
-
 ## § 4 Datenschutzkontrolle
 
-Die Kontrolle der Einhaltung der datenschutzrechtlichen Bestimmungen
-obliegt nach § 9 des Bundesdatenschutzgesetzes dem Bundesbeauftragten
-für den Datenschutz und die Informationsfreiheit. Die
-datenschutzrechtliche Kontrolle der Verarbeitung von Daten durch eine
-Landesbehörde richtet sich nach dem Datenschutzgesetz des Landes.
+Die Kontrolle der Einhaltung der datenschutzrechtlichen
+Bestimmungen obliegt nach § 9 des Bundesdatenschutzgesetzes dem
+Bundesbeauftragten für den Datenschutz und die Informationsfreiheit.
+Die datenschutzrechtliche Kontrolle der Verarbeitung von Daten durch
+eine Landesbehörde richtet sich nach dem Datenschutzgesetz des Landes.
 
 
 ## § 5 Protokollierung

@@ -16,11 +16,10 @@ Fundstelle
 :   BGBl I: 1969, 1513
 
 Zuletzt geändert durch
-:   Art. 2 G v. 21.12.2021 II 1282
+:   Art. 3 G v. 10.12.2025 I Nr. 320
 
 
-## Erster Abschnitt - Allgemeine Vorschriften
-
+## Abschnitt 1 - Allgemeine Vorschriften
 
 
 ### § 1 Geltungsbereich
@@ -28,10 +27,10 @@ Zuletzt geändert durch
 (1) Dieses Gesetz gilt für öffentliche Beurkundungen und Verwahrungen
 durch den Notar.
 
-(2) Soweit für öffentliche Beurkundungen neben dem Notar auch andere
-Urkundspersonen oder sonstige Stellen zuständig sind, gelten die
-Vorschriften dieses Gesetzes, ausgenommen § 5 Abs. 2 und des Fünften
-Abschnittes, entsprechend.
+(2) Soweit für öffentliche Beurkundungen neben dem Notar auch
+andere Urkundspersonen oder sonstige Stellen zuständig sind, gelten
+die Vorschriften dieses Gesetzes, ausgenommen § 5 Abs. 2 und des
+Abschnitts 5, entsprechend.
 
 
 ### § 2 Überschreiten des Amtsbezirks
@@ -49,31 +48,24 @@ handelt um
 1.  eigene Angelegenheiten, auch wenn der Notar nur mitberechtigt oder
     mitverpflichtet ist,
 
-
 2.  Angelegenheiten seines Ehegatten, früheren Ehegatten oder seines
     Verlobten,
 
-
 2a. Angelegenheiten seines Lebenspartners oder früheren Lebenspartners,
-
 
 3.  Angelegenheiten einer Person, die mit dem Notar in gerader Linie
     verwandt oder verschwägert oder in der Seitenlinie bis zum dritten
     Grade verwandt oder bis zum zweiten Grade verschwägert ist oder war,
 
-
 4.  Angelegenheiten einer Person, mit der sich der Notar zur gemeinsamen
     Berufsausübung verbunden oder mit der er gemeinsame Geschäftsräume
     hat,
 
-
 5.  Angelegenheiten einer Person, deren gesetzlicher Vertreter der Notar
     oder eine Person im Sinne der Nummer 4 ist,
 
-
 6.  Angelegenheiten einer Person, deren vertretungsberechtigtem Organ der
     Notar oder eine Person im Sinne der Nummer 4 angehört,
-
 
 7.  Angelegenheiten einer Person, für die der Notar, eine Person im Sinn
     der Nummer 4 oder eine mit dieser im Sinn der Nummer 4 oder in einem
@@ -82,21 +74,17 @@ handelt um
     war oder ist, es sei denn, diese Tätigkeit wurde im Auftrag aller
     Personen ausgeübt, die an der Beurkundung beteiligt sein sollen,
 
-
 8.  Angelegenheiten einer Person, die den Notar in derselben Angelegenheit
-    bevollmächtigt hat oder zu der der Notar oder eine Person im Sinne der
-    Nummer 4 in einem ständigen Dienst- oder ähnlichen ständigen
+    bevollmächtigt hat oder zu der der Notar oder eine Person im Sinne
+    der Nummer 4 in einem ständigen Dienst- oder ähnlichen ständigen
     Geschäftsverhältnis steht, oder
 
+9.  Angelegenheiten einer Gesellschaft, an der der Notar mit mehr als
+    fünf vom Hundert der Stimmrechte oder mit einem anteiligen Betrag des
+    Haftkapitals von mehr als 2 500 Euro beteiligt ist.
 
-9.  Angelegenheiten einer Gesellschaft, an der der Notar mit mehr als fünf
-    vom Hundert der Stimmrechte oder mit einem anteiligen Betrag des
-    Haftkapitals von mehr als 2 500 Euro beteiligt ist.
-
-
-
-Der Notar hat vor der Beurkundung nach einer Vorbefassung im Sinne des
-Satzes 1 Nummer 7 zu fragen und in der Urkunde die Antwort zu
+Der Notar hat vor der Beurkundung nach einer Vorbefassung im Sinne
+des Satzes 1 Nummer 7 zu fragen und in der Urkunde die Antwort zu
 vermerken.
 
 (2) Handelt es sich um eine Angelegenheit mehrerer Personen und ist
@@ -112,17 +100,13 @@ geschehen ist.
 1.  Angelegenheiten einer Person, deren nicht zur Vertretung berechtigtem
     Organ der Notar angehört,
 
-
 2.  Angelegenheiten einer Gemeinde oder eines Kreises, deren Organ der
     Notar angehört,
 
-
 3.  Angelegenheiten einer als Körperschaft des öffentlichen Rechts
-    anerkannten Religions- oder Weltanschauungsgemeinschaft oder einer als
-    Körperschaft des öffentlichen Rechts anerkannten Teilorganisation
+    anerkannten Religions- oder Weltanschauungsgemeinschaft oder einer
+    als Körperschaft des öffentlichen Rechts anerkannten Teilorganisation
     einer solchen Gemeinschaft, deren Organ der Notar angehört.
-
-
 
 In den Fällen des Satzes 1 Nummer 2 und 3 ist Absatz 1 Satz 1 Nummer 6
 nicht anwendbar.
@@ -145,12 +129,10 @@ Sprache errichten. Er soll dem Verlangen nur entsprechen, wenn er der
 fremden Sprache hinreichend kundig ist.
 
 
-## Zweiter Abschnitt - Beurkundung von Willenserklärungen
+## Abschnitt 2 - Beurkundung von Willenserklärungen
 
 
-
-### 1. - Ausschließung des Notars
-
+### Unterabschnitt 1 - Ausschließung des Notars
 
 
 #### § 6 Ausschließungsgründe
@@ -159,20 +141,14 @@ fremden Sprache hinreichend kundig ist.
 
 1.  der Notar selbst,
 
-
 2.  sein Ehegatte,
-
 
 2a. sein Lebenspartner,
 
-
 3.  eine Person, die mit ihm in gerader Linie verwandt ist oder war oder
-
 
 4.  ein Vertreter, der für eine der in den Nummern 1 bis 3 bezeichneten
     Personen handelt,
-
-
 
 an der Beurkundung beteiligt ist.
 
@@ -188,30 +164,29 @@ diese darauf gerichtet sind,
 
 1.  dem Notar,
 
-
 2.  seinem Ehegatten oder früheren Ehegatten,
 
-
 2a. seinem Lebenspartner oder früheren Lebenspartner oder
-
 
 3.  einer Person, die mit ihm in gerader Linie verwandt oder verschwägert
     oder in der Seitenlinie bis zum dritten Grade verwandt oder bis zum
     zweiten Grade verschwägert ist oder war,
 
-
-
 einen rechtlichen Vorteil zu verschaffen.
 
 
-### 2. - Niederschrift
-
+### Unterabschnitt 2 - Niederschrift
 
 
 #### § 8 Grundsatz
 
-Bei der Beurkundung von Willenserklärungen muß eine Niederschrift über
-die Verhandlung aufgenommen werden.
+(1) Bei der Beurkundung von Willenserklärungen muss eine Niederschrift
+über die Verhandlung aufgenommen werden.
+
+(2) Die Niederschrift kann als elektronisches Dokument aufgenommen
+werden. Für die elektronische Niederschrift gelten die Vorschriften
+über die Niederschrift entsprechend, soweit in diesem Unterabschnitt
+nichts anderes bestimmt ist.
 
 
 #### § 9 Inhalt der Niederschrift
@@ -220,10 +195,7 @@ die Verhandlung aufgenommen werden.
 
 1.  die Bezeichnung des Notars und der Beteiligten sowie
 
-
 2.  die Erklärungen der Beteiligten.
-
-
 
 Erklärungen in einem Schriftstück, auf das in der Niederschrift
 verwiesen und das dieser beigefügt wird, gelten als in der
@@ -264,27 +236,34 @@ Notar über die Geschäftsfähigkeit getroffen hat.
 
 #### § 12 Nachweise für die Vertretungsberechtigung
 
-Vorgelegte Vollmachten und Ausweise über die Berechtigung eines
-gesetzlichen Vertreters sollen der Niederschrift in Urschrift oder in
-beglaubigter Abschrift beigefügt werden. Ergibt sich die
+(1) Vorgelegte Vollmachten und Ausweise über die Berechtigung eines
+gesetzlichen Vertreters sollen der Niederschrift in Urschrift oder
+in beglaubigter Abschrift beigefügt werden. Einer elektronischen
+Niederschrift sollen vorgelegte Nachweise nach Satz 1 in
+elektronisch beglaubigter Abschrift beigefügt werden. Ergibt sich die
 Vertretungsberechtigung aus einer Eintragung im Handelsregister oder
 in einem ähnlichen Register, so genügt die Bescheinigung eines Notars
 nach § 21 der Bundesnotarordnung.
 
+(2) Wird eine Willenserklärung als von einem Bevollmächtigten
+abgegeben beurkundet, so gilt die Vorlage der Vollmachtsurkunde
+gegenüber dem Notar auch als Vorlage gegenüber demjenigen, gegenüber
+dem die beurkundete Willenserklärung abgegeben wird.
+
 
 #### § 13 Vorlesen, Genehmigen, Unterschreiben
 
-(1) Die Niederschrift muß in Gegenwart des Notars den Beteiligten
-vorgelesen, von ihnen genehmigt und eigenhändig unterschrieben werden;
-soweit die Niederschrift auf Karten, Zeichnungen oder Abbildungen
-verweist, müssen diese den Beteiligten anstelle des Vorlesens zur
-Durchsicht vorgelegt werden. In der Niederschrift soll festgestellt
-werden, daß dies geschehen ist. Haben die Beteiligten die
-Niederschrift eigenhändig unterschrieben, so wird vermutet, daß sie in
-Gegenwart des Notars vorgelesen oder, soweit nach Satz 1 erforderlich,
-zur Durchsicht vorgelegt und von den Beteiligten genehmigt ist. Die
-Niederschrift soll den Beteiligten auf Verlangen vor der Genehmigung
-auch zur Durchsicht vorgelegt werden.
+(1) Der Inhalt der Niederschrift muss in Gegenwart des Notars den
+Beteiligten vorgelesen, die Niederschrift von ihnen genehmigt und
+eigenhändig unterschrieben werden; soweit die Niederschrift auf
+Karten, Zeichnungen oder Abbildungen verweist, müssen diese den
+Beteiligten anstelle des Vorlesens zur Durchsicht vorgelegt werden.
+In der Niederschrift soll festgestellt werden, daß dies geschehen ist.
+Haben die Beteiligten die Niederschrift eigenhändig unterschrieben,
+so wird vermutet, daß sie in Gegenwart des Notars vorgelesen oder,
+soweit nach Satz 1 erforderlich, zur Durchsicht vorgelegt und von den
+Beteiligten genehmigt ist. Die Niederschrift soll den Beteiligten auf
+Verlangen vor der Genehmigung auch zur Durchsicht vorgelegt werden.
 
 (2) Werden mehrere Niederschriften aufgenommen, die ganz oder
 teilweise übereinstimmen, so genügt es, wenn der übereinstimmende
@@ -297,22 +276,71 @@ werden. Der Notar soll der Unterschrift seine Amtsbezeichnung
 beifügen.
 
 
-#### § 13a Eingeschränkte Beifügungs- und Vorlesungspflicht
+#### § 13a Signieren einer elektronischen Niederschrift
+
+(1) Die elektronische Niederschrift muss in Gegenwart des Notars von
+den Beteiligten
+
+1.  mit ihren qualifizierten elektronischen Signaturen versehen werden
+    oder
+
+2.  auf einem zur elektronischen Erfassung der Unterschrift geeigneten
+    Hilfsmittel eigenhändig unterschrieben werden.
+
+(2) Die elektronische Niederschrift muss von dem Notar mit seiner
+qualifizierten elektronischen Signatur versehen werden.
+
+(3) Elektronische Unterschriften müssen am Schluss der elektronischen
+Niederschrift bildlich wiedergegeben werden.
+
+(4) Qualifizierte elektronische Signaturen sollen auf einem
+qualifizierten Zertifikat beruhen, das auf Dauer prüfbar ist. Die
+signierenden Personen müssen die qualifizierten elektronischen
+Signaturen selbst erstellen. Am Schluss der elektronischen
+Niederschrift sollen die Namen der Personen angegeben werden, die
+diese mit ihren qualifizierten elektronischen Signaturen versehen. Dem
+Namen des Notars soll seine Amtsbezeichnung beigefügt werden.
+
+(5) An die Stelle der nach diesem Gesetz vorgesehenen Unterschriften
+anderer Personen treten deren elektronische Unterschriften oder
+qualifizierte elektronische Signaturen in entsprechender Anwendung der
+Absätze 1, 3 und 4 Satz 1 bis 3.
+
+
+#### § 13b Technische Rahmenbedingungen für elektronische Niederschriften
+
+(1) Elektronische Niederschriften sollen mittels eines Signatursystems
+signiert werden, das durch oder im Auftrag einer staatlichen Stelle
+oder einer juristischen Person des öffentlichen Rechts bereitgestellt
+wird.
+
+(2) Die in Absatz 1 genannte Stelle oder Person hat die
+Vertraulichkeit der durch das Signatursystem verarbeiteten
+elektronischen Niederschrift zu gewährleisten. Eine Übertragung
+der elektronischen Niederschrift an Dritte zur Anbringung einer
+qualifiziert elektronischen Signatur soll nicht erfolgen.
+
+(3) Bei der Aufnahme elektronischer Niederschriften sollen die
+Hilfsmittel, die zur elektronischen Erfassung der Unterschriften
+verwendet werden, die Unterschriften in Echtzeit wiedergeben.
+
+
+#### § 13c Eingeschränkte Beifügungs- und Vorlesungspflicht
 
 (1) Wird in der Niederschrift auf eine andere notarielle Niederschrift
 verwiesen, die nach den Vorschriften über die Beurkundung von
 Willenserklärungen errichtet worden ist, so braucht diese nicht
 vorgelesen zu werden, wenn die Beteiligten erklären, daß ihnen der
 Inhalt der anderen Niederschrift bekannt ist, und sie auf das Vorlesen
-verzichten. Dies soll in der Niederschrift festgestellt werden. Der
-Notar soll nur beurkunden, wenn den Beteiligten die andere
+verzichten. Dies soll in der Niederschrift festgestellt werden.
+Der Notar soll nur beurkunden, wenn für die Beteiligten die andere
 Niederschrift zumindest in beglaubigter Abschrift bei der Beurkundung
-vorliegt. Für die Vorlage zur Durchsicht anstelle des Vorlesens von
-Karten, Zeichnungen oder Abbildungen gelten die Sätze 1 bis 3
-entsprechend.
+einsehbar ist. Für die Vorlage zur Durchsicht anstelle des Vorlesens
+von Karten, Zeichnungen oder Abbildungen gelten die Sätze 1 bis
+3 entsprechend.
 
-(2) Die andere Niederschrift braucht der Niederschrift nicht beigefügt
-zu werden, wenn die Beteiligten darauf verzichten. In der
+(2) Die andere Niederschrift braucht der Niederschrift nicht
+beigefügt zu werden, wenn die Beteiligten darauf verzichten. In der
 Niederschrift soll festgestellt werden, daß die Beteiligten auf das
 Beifügen verzichtet haben.
 
@@ -329,7 +357,12 @@ die von einer öffentlichen Behörde innerhalb der Grenzen ihrer
 Amtsbefugnisse oder von einer mit öffentlichem Glauben versehenen
 Person innerhalb des ihr zugewiesenen Geschäftskreises mit
 Unterschrift und Siegel oder Stempel versehen worden sind, so gelten
-die Absätze 1 bis 3 entsprechend.
+die Absätze 1 bis 3 entsprechend. Wird auf Karten oder Zeichnungen
+in elektronischen Dokumenten verwiesen, so tritt an die Stelle
+der Unterschrift und des Siegels oder Stempels ein qualifiziertes
+elektronisches Siegel oder eine qualifizierte elektronische Signatur,
+wobei das der Signatur zugrunde liegende qualifizierte Zertifikat die
+Behörde erkennen lassen muss.
 
 
 #### § 14 Eingeschränkte Vorlesungspflicht
@@ -337,20 +370,20 @@ die Absätze 1 bis 3 entsprechend.
 (1) Werden Bilanzen, Inventare, Nachlaßverzeichnisse oder sonstige
 Bestandsverzeichnisse über Sachen, Rechte und Rechtsverhältnisse in
 ein Schriftstück aufgenommen, auf das in der Niederschrift verwiesen
-und das dieser beigefügt wird, so braucht es nicht vorgelesen zu
-werden, wenn die Beteiligten auf das Vorlesen verzichten. Das gleiche
-gilt für Erklärungen, die bei der Bestellung einer Hypothek,
-Grundschuld, Rentenschuld, Schiffshypothek oder eines
-Registerpfandrechts an Luftfahrzeugen aufgenommen werden und nicht im
-Grundbuch, Schiffsregister, Schiffsbauregister oder im Register für
-Pfandrechte an Luftfahrzeugen selbst angegeben zu werden brauchen.
-Eine Erklärung, sich der sofortigen Zwangsvollstreckung zu
+und das dieser beigefügt wird, so braucht es nicht vorgelesen
+zu werden, wenn die Beteiligten auf das Vorlesen verzichten.
+Das gleiche gilt für Erklärungen, die bei der Bestellung einer
+Hypothek, Grundschuld, Rentenschuld, Schiffshypothek oder eines
+Registerpfandrechts an Luftfahrzeugen aufgenommen werden und nicht
+im Grundbuch, Schiffsregister, Schiffsbauregister oder im Register
+für Pfandrechte an Luftfahrzeugen selbst angegeben zu werden
+brauchen. Eine Erklärung, sich der sofortigen Zwangsvollstreckung zu
 unterwerfen, muß in die Niederschrift selbst aufgenommen werden.
 
 (2) Wird nach Absatz 1 das beigefügte Schriftstück nicht vorgelesen,
-so soll es den Beteiligten zur Kenntnisnahme vorgelegt und von ihnen
-unterschrieben werden; besteht das Schriftstück aus mehreren Seiten,
-soll jede Seite von ihnen unterzeichnet werden. § 17 bleibt unberührt.
+so soll es den Beteiligten zur Kenntnisnahme vorgelegt werden.
+Unbeschadet des § 17 soll der Notar die Beteiligten auch über die
+Bedeutung des Verweisens auf das beigefügte Schriftstück belehren.
 
 (3) In der Niederschrift muß festgestellt werden, daß die Beteiligten
 auf das Vorlesen verzichtet haben; es soll festgestellt werden, daß
@@ -360,8 +393,8 @@ ist.
 
 #### § 15 Versteigerungen
 
-Bei der Beurkundung von Versteigerungen gelten nur solche Bieter als
-beteiligt, die an ihr Gebot gebunden bleiben. Entfernt sich ein
+Bei der Beurkundung von Versteigerungen gelten nur solche Bieter
+als beteiligt, die an ihr Gebot gebunden bleiben. Entfernt sich ein
 solcher Bieter vor dem Schluß der Verhandlung, so gilt § 13 Abs. 1
 insoweit nicht; in der Niederschrift muß festgestellt werden, daß sich
 der Bieter vor dem Schluß der Verhandlung entfernt hat.
@@ -370,9 +403,9 @@ der Bieter vor dem Schluß der Verhandlung entfernt hat.
 #### § 16 Übersetzung der Niederschrift
 
 (1) Ist ein Beteiligter nach seinen Angaben oder nach der Überzeugung
-des Notars der deutschen Sprache oder, wenn die Niederschrift in einer
-anderen als der deutschen Sprache aufgenommen wird, dieser Sprache
-nicht hinreichend kundig, so soll dies in der Niederschrift
+des Notars der deutschen Sprache oder, wenn die Niederschrift in
+einer anderen als der deutschen Sprache aufgenommen wird, dieser
+Sprache nicht hinreichend kundig, so soll dies in der Niederschrift
 festgestellt werden.
 
 (2) Eine Niederschrift, die eine derartige Feststellung enthält, muß
@@ -385,16 +418,110 @@ verlangen kann. Diese Tatsachen sollen in der Niederschrift
 festgestellt werden.
 
 (3) Für die Übersetzung muß, falls der Notar nicht selbst übersetzt,
-ein Dolmetscher zugezogen werden. Für den Dolmetscher gelten die §§ 6,
-7 entsprechend. Ist der Dolmetscher nicht allgemein vereidigt, so soll
-ihn der Notar vereidigen, es sei denn, daß alle Beteiligten darauf
-verzichten. Diese Tatsachen sollen in der Niederschrift festgestellt
-werden. Die Niederschrift soll auch von dem Dolmetscher unterschrieben
+ein Dolmetscher zugezogen werden. Für den Dolmetscher gelten die §§
+6, 7 entsprechend. Ist der Dolmetscher nicht allgemein im Sinne von §
+189 Absatz 2 des Gerichtsverfassungsgesetzes beeidigt, so soll ihn der
+Notar beeidigen, es sei denn, dass alle Beteiligten darauf verzichten.
+Diese Tatsachen sollen in der Niederschrift festgestellt werden. Die
+Niederschrift soll auch von dem Dolmetscher unterschrieben werden.
+
+
+### Unterabschnitt 3 - Beurkundung mittels Videokommunikation
+
+
+#### § 16a Zulässigkeit
+
+(1) Die Beurkundung von Willenserklärungen kann mittels des von
+der Bundesnotarkammer nach § 78p der Bundesnotarordnung betriebenen
+Videokommunikationssystems nach den folgenden Vorschriften erfolgen,
+soweit dies durch Gesetz zugelassen ist.
+
+(2) Der Notar soll die Beurkundung mittels Videokommunikation
+ablehnen, wenn er die Erfüllung seiner Amtspflichten auf diese
+Weise nicht gewährleisten kann, insbesondere wenn er sich auf diese
+Weise keine Gewissheit über die Person eines Beteiligten verschaffen
+kann oder er Zweifel an der erforderlichen Rechtsfähigkeit oder
+Geschäftsfähigkeit eines Beteiligten hat.
+
+
+#### § 16b Aufnahme einer elektronischen Niederschrift
+
+(1) Bei der Beurkundung von Willenserklärungen mittels
+Videokommunikation muss eine elektronische Niederschrift über die
+Verhandlung aufgenommen werden. Für die elektronische Niederschrift
+gelten die Vorschriften des Unterabschnitts 2, ausgenommen § 13b,
+entsprechend, soweit in diesem Unterabschnitt nichts anderes bestimmt
+ist.
+
+(2) Ort der Verhandlung ist der Ort, an dem die elektronische
+Niederschrift aufgenommen wird. In der elektronischen Niederschrift
+soll festgestellt werden, dass die Verhandlung mittels
+Videokommunikation durchgeführt worden ist.
+
+(3) Die elektronische Niederschrift ist mit qualifizierten
+elektronischen Signaturen zu versehen, die an die Stelle der nach
+diesem Gesetz vorgesehenen Unterschriften treten. Die Beteiligten
+sollen die qualifizierten elektronischen Signaturen selbst erstellen.
+
+
+#### § 16c Feststellung der Beteiligten mittels Videokommunikation
+
+Erfolgt die Beurkundung mittels Videokommunikation, soll sich
+der Notar Gewissheit über die Person der Beteiligten anhand eines
+ihm elektronisch übermittelten Lichtbildes sowie anhand eines der
+folgenden Nachweise oder Mittel verschaffen:
+
+1.  eines elektronischen Identitätsnachweises nach § 18 des
+    Personalausweisgesetzes, nach § 12 des eID-Karte-Gesetzes oder nach
+    § 78 Absatz 5 des Aufenthaltsgesetzes, der auf dem Vertrauensniveau
+    „hoch“ im Sinne des Artikels 8 Absatz 2 Buchstabe c der Verordnung
+    (EU) Nr. 910/2014 des Europäischen Parlaments und des Rates vom 23.
+    Juli 2014 über elektronische Identifizierung und Vertrauensdienste
+    für elektronische Transaktionen im Binnenmarkt und zur Aufhebung
+    der Richtlinie 1999/93/EG (ABl. L 257 vom 28.8.2014, S. 73; L 23 vom
+    29\.1.2015, S. 19; L 155 vom 14.6.2016, S. 44) notifiziert wurde, oder
+
+2.  eines elektronischen Identifizierungsmittels, das von einem anderen
+    Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat
+    des Abkommens über den Europäischen Wirtschaftsraum ausgestellt wurde
+    und das
+
+    a)  für die Zwecke der grenzüberschreitenden Authentifizierung nach
+        Artikel 6 der Verordnung (EU) Nr. 910/2014 anerkannt ist und
+
+    b)  auf dem Vertrauensniveau „hoch“ im Sinne des Artikels 8 Absatz 2
+        Buchstabe c der Verordnung (EU) Nr. 910/2014 notifiziert wurde.
+
+Das dem Notar zu übermittelnde Lichtbild ist mit Zustimmung des
+betreffenden Beteiligten nebst Vornamen, Familienname, Tag der Geburt,
+ausstellendem Staat, Dokumentenart, Gültigkeitsdauer sowie derjenigen
+Daten, die zur Überprüfung der Echtheit des Dokuments erforderlich
+sind, aus dem elektronischen Speicher- und Verarbeitungsmedium eines
+von der Bundesrepublik Deutschland ausgegebenen Personalausweises,
+Passes oder elektronischen Aufenthaltstitels oder eines amtlichen
+Ausweises oder Passes eines anderen Staates, mit dem die Pass-
+und Ausweispflicht im Inland erfüllt wird, auszulesen. Sofern ein
+Beteiligter dem Notar bekannt ist, ist die elektronische Übermittlung
+eines Lichtbildes nicht erforderlich.
+
+
+#### § 16d (weggefallen)
+
+
+#### § 16e Gemischte Beurkundung
+
+(1) Erfolgt die Beurkundung mit einem Teil der Beteiligten, die
+bei dem Notar körperlich anwesend sind, und mit dem anderen Teil
+der Beteiligten mittels Videokommunikation, so ist zusätzlich zu
+der elektronischen Niederschrift nach § 16b mit den bei dem Notar
+körperlich anwesenden Beteiligten eine inhaltsgleiche Niederschrift
+nach § 8 aufzunehmen. Dies soll in beiden Niederschriften vermerkt
 werden.
 
+(2) Beide Niederschriften sind zusammen zu verwahren.
 
-### 3. - Prüfungs- und Belehrungspflichten
 
+### Unterabschnitt 4 - Prüfungs- und Belehrungspflichten
 
 
 #### § 17 Grundsatz
@@ -421,25 +548,22 @@ ist. Bei Verbraucherverträgen soll der Notar darauf hinwirken, dass
     persönlich oder durch eine Vertrauensperson vor dem Notar abgegeben
     werden und
 
-
-2.  der Verbraucher ausreichend Gelegenheit erhält, sich vorab mit dem
-    Gegenstand der Beurkundung auseinanderzusetzen; bei
-    Verbraucherverträgen, die der Beurkundungspflicht nach § 311b Absatz 1
-    Satz 1 und Absatz 3 des Bürgerlichen Gesetzbuchs unterliegen, soll dem
-    Verbraucher der beabsichtigte Text des Rechtsgeschäfts vom
+2.  der Verbraucher ausreichend Gelegenheit erhält, sich vorab
+    mit dem Gegenstand der Beurkundung auseinanderzusetzen; bei
+    Verbraucherverträgen, die der Beurkundungspflicht nach § 311b Absatz
+    1 Satz 1 und Absatz 3 des Bürgerlichen Gesetzbuchs unterliegen,
+    soll dem Verbraucher der beabsichtigte Text des Rechtsgeschäfts vom
     beurkundenden Notar oder einem Notar, mit dem sich der beurkundende
     Notar zur gemeinsamen Berufsausübung verbunden hat, zur Verfügung
     gestellt werden. Dies soll im Regelfall zwei Wochen vor der
     Beurkundung erfolgen. Wird diese Frist unterschritten, sollen die
     Gründe hierfür in der Niederschrift angegeben werden.
 
-
-
 Weitere Amtspflichten des Notars bleiben unberührt.
 
 (3) Kommt ausländisches Recht zur Anwendung oder bestehen darüber
-Zweifel, so soll der Notar die Beteiligten darauf hinweisen und dies
-in der Niederschrift vermerken. Zur Belehrung über den Inhalt
+Zweifel, so soll der Notar die Beteiligten darauf hinweisen und
+dies in der Niederschrift vermerken. Zur Belehrung über den Inhalt
 ausländischer Rechtsordnungen ist er nicht verpflichtet.
 
 
@@ -452,9 +576,9 @@ die Beteiligten hinweisen und dies in der Niederschrift vermerken.
 
 #### § 19 Unbedenklichkeitsbescheinigung
 
-Darf nach dem Grunderwerbsteuerrecht eine Eintragung im Grundbuch erst
-vorgenommen werden, wenn die Unbedenklichkeitsbescheinigung des
-Finanzamts vorliegt, so soll der Notar die Beteiligten darauf
+Darf nach dem Grunderwerbsteuerrecht eine Eintragung im Grundbuch
+erst vorgenommen werden, wenn die Unbedenklichkeitsbescheinigung
+des Finanzamts vorliegt, so soll der Notar die Beteiligten darauf
 hinweisen und dies in der Niederschrift vermerken.
 
 
@@ -476,24 +600,23 @@ hinweisen.
 
 (1) Bei Geschäften, die im Grundbuch eingetragene oder einzutragende
 Rechte zum Gegenstand haben, soll sich der Notar über den
-Grundbuchinhalt unterrichten. Sonst soll er nur beurkunden, wenn die
-Beteiligten trotz Belehrung über die damit verbundenen Gefahren auf
-einer sofortigen Beurkundung bestehen; dies soll er in der
+Grundbuchinhalt unterrichten. Sonst soll er nur beurkunden, wenn
+die Beteiligten trotz Belehrung über die damit verbundenen Gefahren
+auf einer sofortigen Beurkundung bestehen; dies soll er in der
 Niederschrift vermerken.
 
 (2) Bei der Abtretung oder Belastung eines Briefpfandrechts soll der
 Notar in der Niederschrift vermerken, ob der Brief vorgelegen hat.
 
 
-### 4. - Beteiligung behinderter Personen
-
+### Unterabschnitt 5 - Beteiligung behinderter Personen
 
 
 #### § 22 Hörbehinderte, sprachbehinderte und sehbehinderte Beteiligte
 
 (1) Vermag ein Beteiligter nach seinen Angaben oder nach der
-Überzeugung des Notars nicht hinreichend zu hören, zu sprechen oder zu
-sehen, so soll zu der Beurkundung ein Zeuge oder ein zweiter Notar
+Überzeugung des Notars nicht hinreichend zu hören, zu sprechen oder
+zu sehen, so soll zu der Beurkundung ein Zeuge oder ein zweiter Notar
 zugezogen werden, es sei denn, daß alle Beteiligten darauf verzichten.
 Auf Verlangen eines hör- oder sprachbehinderten Beteiligten soll der
 Notar einen Gebärdensprachdolmetscher hinzuziehen. Diese Tatsachen
@@ -503,7 +626,7 @@ sollen in der Niederschrift festgestellt werden.
 unterschrieben werden.
 
 
-#### § 23 Besonderheiten für hörbehinderte Beteiligte
+#### § 23 Besonderheiten bei hörbehinderten Beteiligten
 
 Eine Niederschrift, in der nach § 22 Abs. 1 festgestellt ist, daß ein
 Beteiligter nicht hinreichend zu hören vermag, muß diesem Beteiligten
@@ -514,14 +637,14 @@ vermutet, daß sie ihm zur Durchsicht vorgelegt und von ihm genehmigt
 worden ist.
 
 
-#### § 24 Besonderheiten für hör- und sprachbehinderte Beteiligte, mit denen eine schriftliche Verständigung nicht möglich ist
+#### § 24 Besonderheiten bei hör- und sprachbehinderten Beteiligten, mit denen eine schriftliche Verständigung nicht möglich ist
 
 (1) Vermag ein Beteiligter nach seinen Angaben oder nach der
-Überzeugung des Notars nicht hinreichend zu hören oder zu sprechen und
-sich auch nicht schriftlich zu verständigen, so soll der Notar dies in
-der Niederschrift feststellen. Wird in der Niederschrift eine solche
-Feststellung getroffen, so muss zu der Beurkundung eine Person
-zugezogen werden, die sich mit dem behinderten Beteiligten zu
+Überzeugung des Notars nicht hinreichend zu hören oder zu sprechen
+und sich auch nicht schriftlich zu verständigen, so soll der Notar
+dies in der Niederschrift feststellen. Wird in der Niederschrift
+eine solche Feststellung getroffen, so muss zu der Beurkundung eine
+Person zugezogen werden, die sich mit dem behinderten Beteiligten zu
 verständigen vermag und mit deren Zuziehung er nach der Überzeugung
 des Notars einverstanden ist; in der Niederschrift soll festgestellt
 werden, dass dies geschehen ist. Zweifelt der Notar an der Möglichkeit
@@ -529,8 +652,8 @@ der Verständigung zwischen der zugezogenen Person und dem Beteiligten,
 so soll er dies in der Niederschrift feststellen. Die Niederschrift
 soll auch von der zugezogenen Person unterschrieben werden.
 
-(2) Die Beurkundung von Willenserklärungen ist insoweit unwirksam, als
-diese darauf gerichtet sind, der nach Absatz 1 zugezogenen Person
+(2) Die Beurkundung von Willenserklärungen ist insoweit unwirksam,
+als diese darauf gerichtet sind, der nach Absatz 1 zugezogenen Person
 einen rechtlichen Vorteil zu verschaffen.
 
 (3) Das Erfordernis, nach § 22 einen Zeugen oder zweiten Notar
@@ -541,8 +664,8 @@ zuzuziehen, bleibt unberührt.
 
 Vermag ein Beteiligter nach seinen Angaben oder nach der Überzeugung
 des Notars seinen Namen nicht zu schreiben, so muß bei dem Vorlesen
-und der Genehmigung ein Zeuge oder ein zweiter Notar zugezogen werden,
-wenn nicht bereits nach § 22 ein Zeuge oder ein zweiter Notar
+und der Genehmigung ein Zeuge oder ein zweiter Notar zugezogen
+werden, wenn nicht bereits nach § 22 ein Zeuge oder ein zweiter Notar
 zugezogen worden ist. Diese Tatsachen sollen in der Niederschrift
 festgestellt werden. Die Niederschrift muß von dem Zeugen oder dem
 zweiten Notar unterschrieben werden.
@@ -555,50 +678,34 @@ zugezogen werden, wer
 
 1.  selbst beteiligt ist oder durch einen Beteiligten vertreten wird,
 
-
 2.  aus einer zu beurkundenden Willenserklärung einen rechtlichen Vorteil
     erlangt,
 
-
 3.  mit dem Notar verheiratet ist,
-
 
 3a. mit ihm eine Lebenspartnerschaft führt oder
 
-
 4.  mit ihm in gerader Linie verwandt ist oder war.
-
-
-
 
 (2) Als Zeuge soll bei der Beurkundung ferner nicht zugezogen werden,
 wer
 
 1.  zu dem Notar in einem ständigen Dienstverhältnis steht,
 
-
 2.  minderjährig ist,
-
 
 3.  geisteskrank oder geistesschwach ist,
 
-
 4.  nicht hinreichend zu hören, zu sprechen oder zu sehen vermag,
-
 
 5.  nicht schreiben kann oder
 
-
-6.  der deutschen Sprache nicht hinreichend kundig ist; dies gilt nicht im
-    Falle des § 5 Abs. 2, wenn der Zeuge der Sprache der Niederschrift
+6.  der deutschen Sprache nicht hinreichend kundig ist; dies gilt nicht
+    im Falle des § 5 Abs. 2, wenn der Zeuge der Sprache der Niederschrift
     hinreichend kundig ist.
 
 
-
-
-
-### 5. - Besonderheiten für Verfügungen von Todes wegen
-
+### Unterabschnitt 6 - Besonderheiten für Verfügungen von Todes wegen
 
 
 #### § 27 Begünstigte Personen
@@ -616,9 +723,9 @@ Geschäftsfähigkeit des Erblassers in der Niederschrift vermerken.
 
 #### § 29 Zeugen, zweiter Notar
 
-Auf Verlangen der Beteiligten soll der Notar bei der Beurkundung bis
-zu zwei Zeugen oder einen zweiten Notar zuziehen und dies in der
-Niederschrift vermerken. Die Niederschrift soll auch von diesen
+Auf Verlangen der Beteiligten soll der Notar bei der Beurkundung
+bis zu zwei Zeugen oder einen zweiten Notar zuziehen und dies in
+der Niederschrift vermerken. Die Niederschrift soll auch von diesen
 Personen unterschrieben werden.
 
 
@@ -627,44 +734,46 @@ Personen unterschrieben werden.
 Wird eine Verfügung von Todes wegen durch Übergabe einer Schrift
 errichtet, so muß die Niederschrift auch die Feststellung enthalten,
 daß die Schrift übergeben worden ist. Die Schrift soll derart
-gekennzeichnet werden, daß eine Verwechslung ausgeschlossen ist. In
-der Niederschrift soll vermerkt werden, ob die Schrift offen oder
-verschlossen übergeben worden ist. Von dem Inhalt einer offen
+gekennzeichnet werden, daß eine Verwechslung ausgeschlossen ist.
+In der Niederschrift soll vermerkt werden, ob die Schrift offen
+oder verschlossen übergeben worden ist. Von dem Inhalt einer offen
 übergebenen Schrift soll der Notar Kenntnis nehmen, sofern er der
 Sprache, in der die Schrift verfaßt ist, hinreichend kundig ist; § 17
 ist anzuwenden. Die Schrift soll der Niederschrift beigefügt werden;
 einer Verlesung der Schrift bedarf es nicht.
 
 
-#### § 31 (weggefallen)
+#### § 31 Ausschluss der elektronischen Niederschrift
 
+Über die Errichtung einer Verfügung von Todes wegen soll keine
+elektronische Niederschrift aufgenommen werden.
 
 
 #### § 32 Sprachunkundige
 
 Ist ein Erblasser, der dem Notar seinen letzten Willen mündlich
 erklärt, der Sprache, in der die Niederschrift aufgenommen wird, nicht
-hinreichend kundig und ist dies in der Niederschrift festgestellt, so
-muß eine schriftliche Übersetzung angefertigt werden, die der
+hinreichend kundig und ist dies in der Niederschrift festgestellt,
+so muß eine schriftliche Übersetzung angefertigt werden, die der
 Niederschrift beigefügt werden soll. Der Erblasser kann hierauf
 verzichten; der Verzicht muß in der Niederschrift festgestellt werden.
 
 
 #### § 33 Besonderheiten beim Erbvertrag
 
-Bei einem Erbvertrag gelten die §§ 30 und 32 entsprechend auch für die
+Bei einem Erbvertrag gelten die §§ 30 bis 32 entsprechend auch für die
 Erklärung des anderen Vertragschließenden.
 
 
 #### § 34 Verschließung, Verwahrung
 
-(1) Die Niederschrift über die Errichtung eines Testaments soll der
-Notar in einen Umschlag nehmen und diesen mit dem Prägesiegel
-verschließen. In den Umschlag sollen auch die nach den §§ 30 und 32
-beigefügten Schriften genommen werden. Auf dem Umschlag soll der Notar
-den Erblasser seiner Person nach näher bezeichnen und angeben, wann
-das Testament errichtet worden ist; diese Aufschrift soll der Notar
-unterschreiben. Der Notar soll veranlassen, daß das Testament
+(1) Die Niederschrift über die Errichtung eines Testaments soll
+der Notar in einen Umschlag nehmen und diesen mit dem Prägesiegel
+verschließen. In den Umschlag sollen auch die nach den §§ 30 und
+32 beigefügten Schriften genommen werden. Auf dem Umschlag soll der
+Notar den Erblasser seiner Person nach näher bezeichnen und angeben,
+wann das Testament errichtet worden ist; diese Aufschrift soll der
+Notar unterschreiben. Der Notar soll veranlassen, daß das Testament
 unverzüglich in besondere amtliche Verwahrung gebracht wird.
 
 (2) Beim Abschluß eines Erbvertrages gilt Absatz 1 entsprechend,
@@ -673,8 +782,8 @@ ausschließen; dies ist im Zweifel anzunehmen, wenn der Erbvertrag mit
 einem anderen Vertrag in derselben Urkunde verbunden wird.
 
 (3) Haben die Beteiligten bei einem Erbvertrag die besondere amtliche
-Verwahrung ausgeschlossen, so bleibt die Urkunde in der Verwahrung des
-Notars.
+Verwahrung ausgeschlossen, so bleibt die Urkunde in der Verwahrung
+des Notars.
 
 (4) Die Urschrift einer Verfügung von Todes wegen darf nicht nach § 56
 in die elektronische Form übertragen werden.
@@ -683,22 +792,22 @@ in die elektronische Form übertragen werden.
 #### § 34a Mitteilungs- und Ablieferungspflichten
 
 (1) Der Notar übermittelt nach Errichtung einer erbfolgerelevanten
-Urkunde im Sinne von § 78d Absatz 2 Satz 1 der Bundesnotarordnung die
-Verwahrangaben im Sinne von § 78d Absatz 2 Satz 2 der
+Urkunde im Sinne von § 78d Absatz 2 Satz 1 der Bundesnotarordnung
+die Verwahrangaben im Sinne von § 78d Absatz 2 Satz 2 der
 Bundesnotarordnung unverzüglich elektronisch an die das Zentrale
 Testamentsregister führende Registerbehörde. Die Mitteilungspflicht
 nach Satz 1 besteht auch bei jeder Beurkundung von Änderungen
 erbfolgerelevanter Urkunden.
 
-(2) Wird ein in die notarielle Verwahrung genommener Erbvertrag gemäß
-§ 2300 Absatz 2, § 2256 Absatz 1 des Bürgerlichen Gesetzbuchs
+(2) Wird ein in die notarielle Verwahrung genommener Erbvertrag
+gemäß § 2300 Absatz 2, § 2256 Absatz 1 des Bürgerlichen Gesetzbuchs
 zurückgegeben, teilt der Notar dies der Registerbehörde mit.
 
 (3) Befindet sich ein Erbvertrag in der Verwahrung des Notars, liefert
 der Notar ihn nach Eintritt des Erbfalls an das Nachlassgericht ab, in
 dessen Verwahrung er danach verbleibt. Enthält eine sonstige Urkunde
-Erklärungen, nach deren Inhalt die Erbfolge geändert werden kann, so
-teilt der Notar diese Erklärungen dem Nachlassgericht nach dem
+Erklärungen, nach deren Inhalt die Erbfolge geändert werden kann,
+so teilt der Notar diese Erklärungen dem Nachlassgericht nach dem
 Eintritt des Erbfalls in beglaubigter Abschrift mit.
 
 
@@ -710,36 +819,43 @@ diesem Grunde nicht unwirksam, wenn er die Aufschrift auf dem
 verschlossenen Umschlag unterschrieben hat.
 
 
-## Dritter Abschnitt - Sonstige Beurkundungen
+## Abschnitt 3 - Sonstige Beurkundungen
 
 
-
-### 1. - Niederschriften
-
+### Unterabschnitt 1 - Niederschriften
 
 
 #### § 36 Grundsatz
 
-Bei der Beurkundung anderer Erklärungen als Willenserklärungen sowie
-sonstiger Tatsachen oder Vorgänge muß eine Niederschrift aufgenommen
-werden, soweit in § 39 nichts anderes bestimmt ist.
+(1) Bei der Beurkundung anderer Erklärungen als Willenserklärungen
+sowie sonstiger Tatsachen oder Vorgänge muss eine Niederschrift
+aufgenommen werden, soweit in § 39 nichts anderes bestimmt ist.
+
+(2) Die Niederschrift kann als elektronisches Dokument aufgenommen
+werden. Für die elektronische Niederschrift gelten die Vorschriften
+dieses Unterabschnitts über die Niederschrift entsprechend, soweit in
+diesem Unterabschnitt nichts anderes bestimmt ist.
 
 
 #### § 37 Inhalt der Niederschrift
 
 (1) Die Niederschrift muß enthalten
-1\. die Bezeichnung des Notars sowie
-2\. den Bericht über seine Wahrnehmungen.
+
+1.  die Bezeichnung des Notars sowie
+
+2.  den Bericht über seine Wahrnehmungen.
+
 Der Bericht des Notars in einem Schriftstück, auf das in der
-Niederschrift verwiesen und das dieser beigefügt wird, gilt als in der
-Niederschrift selbst enthalten. Satz 2 gilt entsprechend, wenn der
+Niederschrift verwiesen und das dieser beigefügt wird, gilt als in
+der Niederschrift selbst enthalten. Satz 2 gilt entsprechend, wenn der
 Notar unter Verwendung von Karten, Zeichnungen oder Abbildungen seinen
 Bericht erstellt.
 
 (2) In der Niederschrift sollen Ort und Tag der Wahrnehmungen des
 Notars sowie Ort und Tag der Errichtung der Urkunde angegeben werden.
 
-(3) § 13 Abs. 3 gilt entsprechend.
+(3) § 13 Absatz 3 gilt entsprechend. Bei Aufnahme einer elektronischen
+Niederschrift gilt § 13a Absatz 2 und 4 entsprechend.
 
 
 #### § 38 Eide, eidesstattliche Versicherungen
@@ -753,8 +869,7 @@ eidesstattlichen Versicherung belehren und dies in der Niederschrift
 vermerken.
 
 
-### 2. - Vermerke
-
+### Unterabschnitt 2 - Vermerke
 
 
 #### § 39 Einfache Zeugnisse
@@ -773,19 +888,32 @@ und Ort und Tag der Ausstellung angeben soll (Vermerk).
 #### § 39a Einfache elektronische Zeugnisse
 
 (1) Beglaubigungen und sonstige Zeugnisse im Sinne des § 39 können
-elektronisch errichtet werden. Das hierzu erstellte Dokument muss mit
-einer qualifizierten elektronischen Signatur versehen werden. Diese
-soll auf einem Zertifikat beruhen, das auf Dauer prüfbar ist. Der
-Notar muss die qualifizierte elektronische Signatur selbst erzeugen. §
-33 Absatz 3 der Bundesnotarordnung gilt entsprechend.
+elektronisch errichtet werden; Beglaubigungen qualifizierter
+elektronischer Signaturen, elektronischer Unterschriften und
+elektronischer Handzeichen sind elektronisch zu errichten. Das
+hierzu erstellte Zeugnis muss mit einer qualifizierten elektronischen
+Signatur versehen werden. § 13a Absatz 4 Satz 1 und 2 gilt
+entsprechend.
 
 (2) Mit dem Zeugnis muss eine Bestätigung der Notareigenschaft durch
 die zuständige Stelle verbunden werden. Das Zeugnis soll Ort und Tag
 der Ausstellung angeben.
 
-(3) Bei der Beglaubigung eines elektronischen Dokuments, das mit einer
-qualifizierten elektronischen Signatur versehen ist, soll das Ergebnis
-der Signaturprüfung dokumentiert werden.
+(3) Bei der Beglaubigung eines elektronischen Dokuments, das mit
+einer qualifizierten elektronischen Signatur versehen ist, soll
+das Ergebnis der Signaturprüfung dokumentiert werden. Ist das
+elektronische Dokument mit der qualifizierten elektronischen Signatur
+eines Notars versehen, so genügt die Dokumentation der Prüfung seiner
+qualifizierten elektronischen Signatur.
+
+(4) Bei der Beglaubigung einer qualifizierten elektronischen Signatur
+ist der Bezug zwischen dem Zeugnis und dem mit der zu beglaubigenden
+qualifizierten elektronischen Signatur versehenen elektronischen
+Dokument durch kryptografische Verfahren nach dem Stand der Technik
+herzustellen, wenn das Zeugnis nicht in dem mit der zu beglaubigenden
+qualifizierten elektronischen Signatur versehenen elektronischen
+Dokument enthalten ist. Dasselbe gilt für die Beglaubigung einer
+elektronischen Unterschrift oder eines elektronischen Handzeichens.
 
 
 #### § 40 Beglaubigung einer Unterschrift
@@ -804,8 +932,8 @@ anerkannt worden ist.
 (4) § 10 Absatz 1, 2 und 3 Satz 1 gilt entsprechend.
 
 (5) Unterschriften ohne zugehörigen Text soll der Notar nur
-beglaubigen, wenn dargelegt wird, daß die Beglaubigung vor der
-Festlegung des Urkundeninhalts benötigt wird. In dem
+beglaubigen, wenn dargelegt wird, daß die Beglaubigung vor
+der Festlegung des Urkundeninhalts benötigt wird. In dem
 Beglaubigungsvermerk soll angegeben werden, daß bei der Beglaubigung
 ein durch die Unterschrift gedeckter Text nicht vorhanden war.
 
@@ -813,7 +941,51 @@ ein durch die Unterschrift gedeckter Text nicht vorhanden war.
 entsprechend.
 
 
-#### § 41 Beglaubigung der Zeichnung einer Firma oder Namensunterschrift
+#### § 40a Beglaubigung einer qualifizierten elektronischen Signatur
+
+(1) Eine qualifizierte elektronische Signatur soll nur beglaubigt
+werden, wenn sie in Gegenwart des Notars oder mittels des von der
+Bundesnotarkammer nach § 78p der Bundesnotarordnung betriebenen
+Videokommunikationssystems anerkannt worden ist. Die Beglaubigung
+kann mittels Videokommunikation nur erfolgen, soweit dies durch Gesetz
+zugelassen ist.
+
+(2) Der Beglaubigungsvermerk muss die Person bezeichnen, welche die
+qualifizierte elektronische Signatur anerkannt hat. In dem Vermerk
+soll angegeben werden, ob die qualifizierte elektronische Signatur in
+Gegenwart des Notars oder mittels Videokommunikation anerkannt worden
+ist.
+
+(3) Bei der Beglaubigung einer qualifizierten elektronischen Signatur
+mittels Videokommunikation ist eine Signaturprüfung nach § 39a Absatz
+3 nicht erforderlich.
+
+(4) § 10 Absatz 1, 2 und 3 Satz 1 und § 40 Absatz 2 und 5 gelten
+entsprechend. Im Falle der Beglaubigung mittels Videokommunikation
+gilt § 16c entsprechend.
+
+(5) Der Notar soll die Beglaubigung einer mittels Videokommunikation
+anerkannten qualifizierten elektronischen Signatur ablehnen, wenn er
+die Erfüllung seiner Amtspflichten auf diese Weise nicht gewährleisten
+kann, insbesondere wenn er sich auf diese Weise keine Gewissheit über
+die Person verschaffen kann, welche die qualifizierte elektronische
+Signatur anerkannt hat.
+
+
+#### § 40b Beglaubigung einer elektronischen Unterschrift
+
+(1) Eine elektronische Unterschrift soll nur beglaubigt werden, wenn
+sie in Gegenwart des Notars auf einem zur elektronischen Erfassung
+der Unterschrift geeigneten Hilfsmittel vollzogen und in einem
+elektronischen Dokument bildlich wiedergegeben wird.
+
+(2) Die §§ 13b und 40 Absatz 2 bis 5 gelten entsprechend.
+
+(3) Die Absätze 1 und 2 gelten für die Beglaubigung von elektronischen
+Handzeichen entsprechend.
+
+
+#### § 41 Beglaubigung der Zeichnung einer Namensunterschrift
 
 Bei der Beglaubigung der Zeichnung einer Namensunterschrift, die zur
 Aufbewahrung beim Gericht bestimmt ist, muß die Zeichnung in Gegenwart
@@ -838,15 +1010,15 @@ daß der ursprüngliche Inhalt der Urkunde geändert worden ist, so soll
 dies in dem Beglaubigungsvermerk festgestellt werden, sofern es sich
 nicht schon aus der Abschrift ergibt.
 
-(3) Enthält die Abschrift nur den Auszug aus einer Urkunde, so soll in
-dem Beglaubigungsvermerk der Gegenstand des Auszugs angegeben und
+(3) Enthält die Abschrift nur den Auszug aus einer Urkunde, so soll
+in dem Beglaubigungsvermerk der Gegenstand des Auszugs angegeben und
 bezeugt werden, daß die Urkunde über diesen Gegenstand keine weiteren
 Bestimmungen enthält.
 
 (4) Bei der Beglaubigung eines Ausdrucks oder einer Abschrift eines
 elektronischen Dokuments, das mit einer qualifizierten elektronischen
 Signatur versehen ist, soll das Ergebnis der Signaturprüfung
-dokumentiert werden.
+dokumentiert werden. § 39a Absatz 3 Satz 2 gilt entsprechend.
 
 
 #### § 43 Feststellung des Zeitpunktes der Vorlegung einer privaten Urkunde
@@ -855,39 +1027,45 @@ Bei der Feststellung des Zeitpunktes, zu dem eine private Urkunde
 vorgelegt worden ist, gilt § 42 Abs. 2 entsprechend.
 
 
-## Vierter Abschnitt - Behandlung der Urkunden
-
+## Abschnitt 4 - Behandlung der Urkunden
 
 
 ### § 44 Verbindung mit Schnur und Prägesiegel
 
 Besteht eine Urkunde aus mehreren Blättern, so sollen diese mit Schnur
 und Prägesiegel verbunden werden. Das gleiche gilt für Schriftstücke
-sowie für Karten, Zeichnungen oder Abbildungen, die  nach § 9 Abs. 1
-Satz 2, 3, §§ 14, 37 Abs. 1 Satz 2, 3 der Niederschrift beigefügt
+sowie für Karten, Zeichnungen oder Abbildungen, die nach § 9 Abs.
+1 Satz 2, 3, §§ 14, 37 Abs. 1 Satz 2, 3 der Niederschrift beigefügt
 worden sind.
 
 
 ### § 44a Änderungen in den Urkunden
 
-(1) Zusätze und sonstige, nicht nur geringfügige Änderungen sollen am
-Schluß vor den Unterschriften oder am Rande vermerkt und im letzteren
-Falle von dem Notar besonders unterzeichnet werden. Ist der
-Niederschrift ein Schriftstück nach § 9 Abs. 1 Satz 2, den §§ 14, 37
-Abs. 1 Satz 2 beigefügt, so brauchen Änderungen in dem beigefügten
-Schriftstück nicht unterzeichnet zu werden, wenn aus der Niederschrift
-hervorgeht, daß sie genehmigt worden sind.
+(1) Zusätze und sonstige, nicht nur geringfügige Änderungen
+sollen am Schluss vor den Unterschriften oder in der Niederschrift
+vermerkt und im letzteren Fall von dem Notar am Rand besonders
+unterzeichnet werden, es sei denn, er versieht das Dokument mit
+seiner qualifizierten elektronischen Signatur. Ist der Niederschrift
+ein Schriftstück nach § 9 Abs. 1 Satz 2, den §§ 14, 37 Abs. 1 Satz
+2 beigefügt, so brauchen Änderungen in dem beigefügten Schriftstück
+nicht unterzeichnet zu werden, wenn aus der Niederschrift hervorgeht,
+daß sie genehmigt worden sind.
 
-(2) Offensichtliche Unrichtigkeiten kann der Notar auch nach Abschluß
-der Niederschrift durch einen von ihm zu unterschreibenden
+(2) Offensichtliche Unrichtigkeiten kann der Notar auch nach
+Abschluß der Niederschrift durch einen von ihm zu unterschreibenden
 Nachtragsvermerk richtigstellen. Der Nachtragsvermerk ist mit dem
 Datum der Richtigstellung zu versehen. Der Nachtragsvermerk ist am
 Schluß nach den Unterschriften oder auf einem besonderen, mit der
 Urkunde zu verbindenden Blatt niederzulegen. Wird die elektronische
 Fassung der Urschrift zum Zeitpunkt der Richtigstellung bereits in der
 elektronischen Urkundensammlung verwahrt, darf der Nachtragsvermerk
-nur noch auf einem gesonderten, mit der Urkunde zu verbindenden Blatt
-niedergelegt werden.
+nur noch auf einem gesonderten, mit der Urkunde zu verbindenden
+Blatt niedergelegt werden. Bei elektronischen Niederschriften ist
+der Nachtragsvermerk in einem gesonderten elektronischen Dokument
+niederzulegen, das vom Notar mit einer qualifizierten elektronischen
+Signatur zu versehen und zusammen mit der elektronischen Urschrift in
+der elektronischen Urkundensammlung zu verwahren ist; § 13a Absatz 4
+Satz 1 und 2 und § 39a Absatz 2 Satz 1 gelten entsprechend.
 
 (3) Ergibt sich im übrigen nach Abschluß der Niederschrift die
 Notwendigkeit einer Änderung oder Berichtigung, so hat der Notar
@@ -900,7 +1078,7 @@ hierüber eine besondere Niederschrift aufzunehmen.
 berichtigt, geändert, ergänzt oder aufgehoben, soll der Notar durch
 einen mit dem Datum zu versehenden und von ihm zu unterschreibenden
 Nachtragsvermerk auf die andere Niederschrift verweisen. § 44a Absatz
-2 Satz 3 und 4 gilt entsprechend. Anstelle eines Nachtragsvermerks
+2 Satz 3 bis 5 gilt entsprechend. Anstelle eines Nachtragsvermerks
 kann der Notar die andere Niederschrift zusammen mit der Niederschrift
 verwahren.
 
@@ -919,7 +1097,10 @@ elektronisches Dokument übertragen und in der elektronischen
 Urkundensammlung verwahrt, steht die elektronische Fassung der
 Urschrift derjenigen in Papierform gleich.
 
-(3) (weggefallen)
+(3) Das nach § 8 Absatz 2, den §§ 16b, 36 Absatz 2 oder § 39a
+erstellte elektronische Dokument (elektronische Urkunde), das in der
+elektronischen Urkundensammlung verwahrt wird, gilt als Urschrift
+(elektronische Urschrift).
 
 
 ### § 45a Aushändigung der Urschrift
@@ -937,32 +1118,54 @@ verfasst ist, ist auszuhändigen, wenn nicht die Verwahrung verlangt
 wird.
 
 
+### § 45b Verwahrung und Aushändigung elektronischer Urkunden
+
+(1) Die nach § 8 Absatz 2, den §§ 16b und 36 Absatz 2 erstellten
+elektronischen Dokumente bleiben in der Verwahrung des Notars.
+Elektronische Vervielfältigungen dieses elektronischen Dokuments
+sollen nicht ausgehändigt werden.
+
+(2) Das nach § 39a erstellte elektronische Dokument bleibt nur
+dann in der Verwahrung des Notars, wenn die Verwahrung verlangt
+wird. Die Verwahrung kann nur verlangt werden, wenn das Dokument
+den nach § 35 Absatz 4 der Verordnung über die Führung notarieller
+Akten und Verzeichnisse zu beachtenden Vorgaben für die Einstellung
+elektronischer Dokumente in die elektronische Urkundensammlung
+entspricht. Elektronische Vervielfältigungen dieses elektronischen
+Dokuments können ausgehändigt werden. Wird die Verwahrung nicht
+verlangt, ist das nach § 39a erstellte elektronische Dokument
+auszuhändigen.
+
+
 ### § 46 Ersetzung der Urschrift
 
 (1) Ist die Urschrift einer Niederschrift ganz oder teilweise zerstört
-worden oder abhanden gekommen und besteht Anlaß, sie zu ersetzen, so
-kann auf einer Ausfertigung oder beglaubigten Abschrift oder einer
-davon gefertigten beglaubigten Abschrift vermerkt werden, daß sie an
-die Stelle der Urschrift tritt. Der Vermerk kann mit dem
-Beglaubigungsvermerk verbunden werden. Er soll Ort und Tag der
+worden oder abhanden gekommen und besteht Anlaß, sie zu ersetzen,
+so kann auf einer Ausfertigung oder beglaubigten Abschrift oder
+einer davon gefertigten beglaubigten Abschrift vermerkt werden,
+daß sie an die Stelle der Urschrift tritt. Der Vermerk kann mit
+dem Beglaubigungsvermerk verbunden werden. Er soll Ort und Tag der
 Ausstellung angeben und muß unterschrieben werden.
 
-(2) Ist die elektronische Fassung der Urschrift ganz oder teilweise
-zerstört worden, soll die Urschrift erneut nach § 56 in die
-elektronische Form übertragen und in der elektronischen
+(2) Ist die elektronische Fassung der Urschrift ganz oder
+teilweise zerstört worden, soll die Urschrift erneut nach § 56
+in die elektronische Form übertragen und in der elektronischen
 Urkundensammlung verwahrt werden. Ist die Urschrift nicht mehr
 vorhanden, gilt Absatz 1 entsprechend oder die Wiederherstellung
 erfolgt aus einer im Elektronischen Urkundenarchiv gespeicherten
 früheren elektronischen Fassung der Urschrift. Für die
-Wiederherstellung aus einer früheren elektronischen Fassung gilt § 56
-Absatz 1 entsprechend; in dem Vermerk soll zusätzlich die Tatsache der
-sicheren Speicherung im Elektronischen Urkundenarchiv angegeben
+Wiederherstellung aus einer früheren elektronischen Fassung gilt §
+56 Absatz 1 entsprechend; in dem Vermerk soll zusätzlich die Tatsache
+der sicheren Speicherung im Elektronischen Urkundenarchiv angegeben
 werden.
 
-(3) Die Ersetzung erfolgt durch die Stelle, die für die Erteilung
+(3) Ist die elektronische Urschrift ganz oder teilweise zerstört
+worden, so gilt Absatz 2 Satz 2 und 3 entsprechend.
+
+(4) Die Ersetzung erfolgt durch die Stelle, die für die Erteilung
 einer Ausfertigung zuständig ist.
 
-(4) Vor der Ersetzung der Urschrift soll der Schuldner gehört werden,
+(5) Vor der Ersetzung der Urschrift soll der Schuldner gehört werden,
 wenn er sich in der Urkunde der sofortigen Zwangsvollstreckung
 unterworfen hat. Von der Ersetzung der Urschrift sollen die Personen,
 die eine Ausfertigung verlangen können, verständigt werden, soweit sie
@@ -988,29 +1191,27 @@ der Geschäftsstelle die Ausfertigung.
 (1) Die Ausfertigung besteht, jeweils mit einem Ausfertigungsvermerk
 versehen, in
 
-1.  einer Abschrift der Urschrift oder der elektronischen Fassung der
-    Urschrift oder
+1.  einer Abschrift der Urschrift, der elektronischen Urschrift oder der
+    elektronischen Fassung der Urschrift oder
 
-
-2.  einem Ausdruck der elektronischen Fassung der Urschrift.
-
-
-
+2.  einem Ausdruck der elektronischen Urschrift oder der elektronischen
+    Fassung der Urschrift.
 
 (2) Der Ausfertigungsvermerk soll den Tag und den Ort der Erteilung
-angeben, die Person bezeichnen, der die Ausfertigung erteilt wird, und
-die Übereinstimmung der Ausfertigung mit der Urschrift oder der
-elektronischen Fassung der Urschrift bestätigen. Er muß unterschrieben
-und mit dem Siegel der erteilenden Stelle versehen sein. Besteht die
-Ausfertigung in einer Abschrift oder einem Ausdruck der elektronischen
+angeben, die Person bezeichnen, der die Ausfertigung erteilt wird,
+und die Übereinstimmung der Ausfertigung mit der Urschrift, der
+elektronischen Urschrift oder der elektronischen Fassung der Urschrift
+bestätigen. Er muß unterschrieben und mit dem Siegel der erteilenden
+Stelle versehen sein. Besteht die Ausfertigung in einer Abschrift oder
+einem Ausdruck der elektronischen Urschrift oder der elektronischen
 Fassung der Urschrift, soll das Ergebnis der Signaturprüfung
-dokumentiert werden.
+dokumentiert werden. § 39a Absatz 3 Satz 2 gilt entsprechend.
 
 (3) Werden Abschriften von Urkunden mit der Ausfertigung durch Schnur
 und Prägesiegel verbunden oder befinden sie sich mit dieser auf
-demselben Blatt, so genügt für die Beglaubigung dieser Abschriften der
-Ausfertigungsvermerk; dabei soll entsprechend § 42 Abs. 3 und, wenn
-die Urkunden, von denen die Abschriften hergestellt sind, nicht
+demselben Blatt, so genügt für die Beglaubigung dieser Abschriften
+der Ausfertigungsvermerk; dabei soll entsprechend § 42 Abs. 3 und,
+wenn die Urkunden, von denen die Abschriften hergestellt sind, nicht
 zusammen mit der Urschrift der ausgefertigten Urkunde verwahrt werden,
 auch entsprechend § 42 Abs. 1, 2 verfahren werden.
 
@@ -1024,8 +1225,8 @@ Tage eine Ausfertigung erteilt worden ist.
 ### § 50 Übersetzungen
 
 (1) Ein Notar kann die deutsche Übersetzung einer Urkunde mit der
-Bescheinigung der Richtigkeit und Vollständigkeit versehen, wenn er
-die Urkunde selbst in fremder Sprache errichtet hat oder für die
+Bescheinigung der Richtigkeit und Vollständigkeit versehen, wenn
+er die Urkunde selbst in fremder Sprache errichtet hat oder für die
 Erteilung einer Ausfertigung der Niederschrift zuständig ist. Für die
 Bescheinigung gilt § 39 entsprechend. Der Notar soll die Bescheinigung
 nur erteilen, wenn er der fremden Sprache hinreichend kundig ist.
@@ -1047,11 +1248,8 @@ zusammen mit der Urschrift verwahrt werden.
     im eigenen Namen abgegeben hat oder in dessen Namen eine Erklärung
     abgegeben worden ist,
 
-
 2.  bei anderen Niederschriften jeder, der die Aufnahme der Urkunde
     beantragt hat,
-
-
 
 sowie die Rechtsnachfolger dieser Personen.
 
@@ -1059,13 +1257,13 @@ sowie die Rechtsnachfolger dieser Personen.
 Niederschrift oder durch besondere Erklärung gegenüber der zuständigen
 Stelle etwas anderes bestimmen.
 
-(3) Wer Ausfertigungen verlangen kann, ist auch berechtigt, einfache
-oder beglaubigte Abschriften zu verlangen und die Urschrift
+(3) Wer Ausfertigungen verlangen kann, ist auch berechtigt,
+einfache oder beglaubigte Abschriften zu verlangen und die Urschrift
 einzusehen.
 
 (4) Mitteilungspflichten, die auf Grund von Rechtsvorschriften
-gegenüber Gerichten oder Behörden bestehen, sowie das Recht auf Zugang
-zu Forschungszwecken nach § 18a der Bundesnotarordnung bleiben
+gegenüber Gerichten oder Behörden bestehen, sowie das Recht auf
+Zugang zu Forschungszwecken nach § 18a der Bundesnotarordnung bleiben
 unberührt.
 
 
@@ -1086,8 +1284,8 @@ Verzögerung verbundenen Gefahren soll der Notar hinweisen.
 
 ### § 54 Rechtsmittel
 
-(1) Gegen die Ablehnung der Erteilung der Vollstreckungsklausel oder
-einer Amtshandlung nach den §§ 45a, 46 und 51 sowie gegen die
+(1) Gegen die Ablehnung der Erteilung der Vollstreckungsklausel
+oder einer Amtshandlung nach den §§ 45a, 46 und 51 sowie gegen die
 Ersetzung einer Urschrift ist die Beschwerde gegeben.
 
 (2) Für das Beschwerdeverfahren gelten die Vorschriften des Gesetzes
@@ -1097,8 +1295,7 @@ Zivilkammer des Landgerichts, in dessen Bezirk die Stelle, gegen die
 sich die Beschwerde richtet, ihren Sitz hat.
 
 
-## Fünfter Abschnitt - Verwahrung der Urkunden
-
+## Abschnitt 5 - Verwahrung der Urkunden
 
 
 ### § 55 Verzeichnis und Verwahrung der Urkunden
@@ -1118,8 +1315,8 @@ und einer Erbvertragssammlung.
 ### § 56 Übertragung der Papierdokumente in die elektronische Form; Einstellung der elektronischen Dokumente in die elektronische Urkundensammlung
 
 (1) Bei der Übertragung der in Papierform vorliegenden Schriftstücke
-in die elektronische Form soll durch geeignete Vorkehrungen nach dem
-Stand der Technik sichergestellt werden, dass die elektronischen
+in die elektronische Form soll durch geeignete Vorkehrungen nach
+dem Stand der Technik sichergestellt werden, dass die elektronischen
 Dokumente mit den in Papierform vorhandenen Schriftstücken inhaltlich
 und bildlich übereinstimmen. Diese Übereinstimmung ist vom Notar in
 einem Vermerk unter Angabe des Ortes und des Tages seiner Ausstellung
@@ -1128,25 +1325,28 @@ Radierungen oder andere Mängel des Schriftstücks sollen im Vermerk
 angegeben werden, soweit sie nicht aus dem elektronischen Dokument
 eindeutig ersichtlich sind. Das elektronische Dokument und der Vermerk
 müssen mit einer qualifizierten elektronischen Signatur versehen
-werden. § 39a Absatz 1 Satz 3 bis 5, Absatz 2 Satz 1 gilt
+werden. § 13a Absatz 4 Satz 1 und 2 und § 39a Absatz 2 Satz 1 gelten
 entsprechend.
 
 (2) Werden nach der Einstellung der elektronischen Fassung einer in
 der Urkundensammlung zu verwahrenden Urschrift oder Abschrift in die
 elektronische Urkundensammlung Nachtragsvermerke, weitere Unterlagen
-oder andere Urschriften der Urschrift oder Abschrift beigefügt, sind
-die Nachtragsvermerke, die weiteren Unterlagen und die anderen
+oder andere Urschriften der Urschrift oder Abschrift beigefügt,
+sind die Nachtragsvermerke, die weiteren Unterlagen und die anderen
 Urschriften nach Absatz 1 in elektronische Dokumente zu übertragen und
 zusammen mit der elektronischen Fassung der Urschrift oder Abschrift
 in der elektronischen Urkundensammlung zu verwahren.
 
-(3) Die von dem Notar in der elektronischen Urkundensammlung
+(3) Werden der elektronischen Urschrift Unterlagen oder andere
+Urschriften beigefügt, so gelten die Absätze 1 und 2 entsprechend. §
+44a Absatz 2 Satz 5 und § 44b Absatz 1 Satz 2 bleiben unberührt.
+
+(4) Die von dem Notar in der elektronischen Urkundensammlung
 verwahrten elektronischen Dokumente stehen den Dokumenten gleich, aus
-denen sie nach den Absätzen 1 und 2 übertragen worden sind.
+denen sie nach den Absätzen 1 bis 3 übertragen worden sind.
 
 
-## Sechster Abschnitt - Verwahrung
-
+## Abschnitt 6 - Verwahrung
 
 
 ### § 57 Antrag auf Verwahrung
@@ -1159,21 +1359,16 @@ Dritte nicht entgegennehmen.
 1.  hierfür ein berechtigtes Sicherungsinteresse der am
     Verwahrungsgeschäft beteiligten Personen besteht,
 
-
-2.  ihm ein Antrag auf Verwahrung verbunden mit einer Verwahrungsanweisung
-    vorliegt, in der hinsichtlich der Masse und ihrer Erträge der
-    Anweisende, der Empfangsberechtigte sowie die zeitlichen und
-    sachlichen Bedingungen der Verwahrung und die
+2.  ihm ein Antrag auf Verwahrung verbunden mit einer
+    Verwahrungsanweisung vorliegt, in der hinsichtlich der Masse
+    und ihrer Erträge der Anweisende, der Empfangsberechtigte sowie
+    die zeitlichen und sachlichen Bedingungen der Verwahrung und die
     Auszahlungsvoraussetzungen bestimmt sind,
-
 
 3.  er den Verwahrungsantrag und die Verwahrungsanweisung angenommen hat.
 
-
-
-
-(3) Der Notar darf den Verwahrungsantrag nur annehmen, wenn die
-Verwahrungsanweisung den Bedürfnissen einer ordnungsgemäßen
+(3) Der Notar darf den Verwahrungsantrag nur annehmen, wenn
+die Verwahrungsanweisung den Bedürfnissen einer ordnungsgemäßen
 Geschäftsabwicklung und eines ordnungsgemäßen Vollzugs der Verwahrung
 sowie dem Sicherungsinteresse aller am Verwahrungsgeschäft beteiligten
 Personen genügt.
@@ -1186,8 +1381,8 @@ und Unterschrift zu vermerken, sofern die Verwahrungsanweisung nicht
 Gegenstand einer Niederschrift (§§ 8, 36) ist, die er selbst oder
 seine Notarvertretung aufgenommen hat.
 
-(6) Die Absätze 3 bis 5 gelten entsprechend für Treuhandaufträge, die
-dem Notar im Zusammenhang mit dem Vollzug des der Verwahrung
+(6) Die Absätze 3 bis 5 gelten entsprechend für Treuhandaufträge,
+die dem Notar im Zusammenhang mit dem Vollzug des der Verwahrung
 zugrundeliegenden Geschäfts von Personen erteilt werden, die an diesem
 nicht beteiligt sind.
 
@@ -1205,34 +1400,34 @@ Dritten geführt werden.
 befugten Kreditinstitut oder der Deutschen Bundesbank eingerichtet
 sein. Die Anderkonten sollen bei Kreditinstituten in dem Amtsbereich
 des Notars oder den unmittelbar angrenzenden Amtsgerichtsbezirken
-desselben Oberlandesgerichtsbezirks eingerichtet werden, sofern in der
-Anweisung nicht ausdrücklich etwas anderes vorgesehen wird oder eine
-andere Handhabung sachlich geboten ist. Für jede Verwahrungsmasse muß
-ein gesondertes Anderkonto geführt werden, Sammelanderkonten sind
+desselben Oberlandesgerichtsbezirks eingerichtet werden, sofern in
+der Anweisung nicht ausdrücklich etwas anderes vorgesehen wird oder
+eine andere Handhabung sachlich geboten ist. Für jede Verwahrungsmasse
+muß ein gesondertes Anderkonto geführt werden, Sammelanderkonten sind
 nicht zulässig.
 
 (3) Über das Notaranderkonto dürfen nur der Notar persönlich, die
-Notarvertretung, der Notariatsverwalter oder der nach § 51 Absatz 1
-Satz 2 der Bundesnotarordnung mit der Aktenverwahrung betraute Notar
-verfügen. Die Landesregierungen oder die von ihnen bestimmten Stellen
-werden ermächtigt, durch Rechtsverordnung zu bestimmen, daß
+Notarvertretung, der Notariatsverwalter oder der nach § 51 Absatz
+1 Satz 2 der Bundesnotarordnung mit der Aktenverwahrung betraute
+Notar verfügen. Die Landesregierungen oder die von ihnen bestimmten
+Stellen werden ermächtigt, durch Rechtsverordnung zu bestimmen, daß
 Verfügungen auch durch einen entsprechend bevollmächtigten anderen
 Notar oder im Land Baden-Württemberg durch Notariatsabwickler erfolgen
-dürfen. Verfügungen sollen nur erfolgen, um Beträge unverzüglich dem
-Empfangsberechtigten oder einem von diesem schriftlich benannten
-Dritten zuzuführen. Sie sind grundsätzlich im bargeldlosen
+dürfen. Verfügungen sollen nur erfolgen, um Beträge unverzüglich
+dem Empfangsberechtigten oder einem von diesem schriftlich
+benannten Dritten zuzuführen. Sie sind grundsätzlich im bargeldlosen
 Zahlungsverkehr durchzuführen, sofern nicht besondere berechtigte
 Interessen der Beteiligten die Auszahlung in bar oder mittels Bar-
 oder Verrechnungsscheck gebieten. Die Gründe für eine Bar- oder
 Scheckauszahlung sind von dem Notar zu vermerken. Die Bar- oder
-Scheckauszahlung ist durch den berechtigten Empfänger oder einen von
-ihm schriftlich Beauftragten nach Feststellung der Person zu
-quittieren. Verfügungen zugunsten von Privat- oder Geschäftskonten des
-Notars sind lediglich zur Bezahlung von Kostenforderungen aus dem
-zugrundeliegenden Amtsgeschäft unter Angabe des Verwendungszwecks und
-nur dann zulässig, wenn hierfür eine notarielle Kostenrechnung erteilt
-und dem Kostenschuldner zugegangen ist und Auszahlungsreife des
-verwahrten Betrages zugunsten des Kostenschuldners gegeben ist.
+Scheckauszahlung ist durch den berechtigten Empfänger oder einen
+von ihm schriftlich Beauftragten nach Feststellung der Person zu
+quittieren. Verfügungen zugunsten von Privat- oder Geschäftskonten
+des Notars sind lediglich zur Bezahlung von Kostenforderungen aus
+dem zugrundeliegenden Amtsgeschäft unter Angabe des Verwendungszwecks
+und nur dann zulässig, wenn hierfür eine notarielle Kostenrechnung
+erteilt und dem Kostenschuldner zugegangen ist und Auszahlungsreife
+des verwahrten Betrages zugunsten des Kostenschuldners gegeben ist.
 
 (4) Eine Verwahrung soll nur dann über mehrere Anderkonten
 durchgeführt werden, wenn dies sachlich geboten ist und in der
@@ -1245,8 +1440,8 @@ ist nach den Absätzen 2 und 3 zu behandeln.
 
 ### § 59 Verordnungsermächtigung
 
-Das Bundesministerium der Justiz und für Verbraucherschutz hat durch
-Rechtsverordnung mit Zustimmung des Bundesrates die näheren
+Das Bundesministerium der Justiz und für Verbraucherschutz hat
+durch Rechtsverordnung mit Zustimmung des Bundesrates die näheren
 Bestimmungen zu treffen über den Inhalt, den Aufbau und die Führung
 des Verwahrungsverzeichnisses einschließlich der Verweismöglichkeiten
 auf die im Urkundenverzeichnis zu der Urkunde gespeicherten Daten
@@ -1264,8 +1459,8 @@ entsprechen.
 Verwahrungsmassen, die er nach § 23 der Bundesnotarordnung und nach
 den §§ 57 und 62 entgegennimmt (Verwahrungsverzeichnis).
 
-(2) Das Verwahrungsverzeichnis ist im Elektronischen Urkundenarchiv (§
-78h der Bundesnotarordnung) zu führen. Erfolgt die Verwahrung in
+(2) Das Verwahrungsverzeichnis ist im Elektronischen Urkundenarchiv
+(§ 78h der Bundesnotarordnung) zu führen. Erfolgt die Verwahrung in
 Vollzug eines vom Notar in das Urkundenverzeichnis einzutragenden
 Amtsgeschäfts, soll der Notar im Verwahrungsverzeichnis auf die im
 Urkundenverzeichnis zu der Urkunde gespeicherten Daten verweisen,
@@ -1282,28 +1477,23 @@ nicht verletzt.
 ist der Widerruf darüber hinaus nur zu beachten, wenn er durch alle
 Anweisenden erfolgt.
 
-(3) Erfolgt der Widerruf nach Absatz 2 nicht durch alle Anweisenden
-und wird er darauf gegründet, daß das mit der Verwahrung
-durchzuführende Rechtsverhältnis aufgehoben, unwirksam oder
-rückabzuwickeln sei, soll sich der Notar jeder Verfügung über das
-Verwahrungsgut enthalten. Der Notar soll alle an dem
+(3) Erfolgt der Widerruf nach Absatz 2 nicht durch alle
+Anweisenden und wird er darauf gegründet, daß das mit der
+Verwahrung durchzuführende Rechtsverhältnis aufgehoben, unwirksam
+oder rückabzuwickeln sei, soll sich der Notar jeder Verfügung
+über das Verwahrungsgut enthalten. Der Notar soll alle an dem
 Verwahrungsgeschäft beteiligten Personen im Sinne des § 57 hiervon
 unterrichten. Der Widerruf wird jedoch unbeachtlich, wenn
 
 1.  eine spätere übereinstimmende Anweisung vorliegt oder
-
 
 2.  der Widerrufende nicht innerhalb einer von dem Notar festzusetzenden
     angemessenen Frist dem Notar nachweist, daß ein gerichtliches
     Verfahren zur Herbeiführung einer übereinstimmenden Anweisung
     rechtshängig ist, oder
 
-
 3.  dem Notar nachgewiesen wird, daß die Rechtshängigkeit der nach Nummer
     2 eingeleiteten Verfahren entfallen ist.
-
-
-
 
 (4) Die Verwahrungsanweisung kann von den Absätzen 2 und 3 abweichende
 oder ergänzende Regelungen enthalten.
@@ -1317,16 +1507,12 @@ Der Notar hat von der Auszahlung abzusehen und alle an dem
 Verwahrungsgeschäft beteiligten Personen im Sinne des § 57 hiervon zu
 unterrichten, wenn
 
-1.  hinreichende Anhaltspunkte dafür vorliegen, daß er bei Befolgung der
-    unwiderruflichen Weisung an der Erreichung unerlaubter oder
+1.  hinreichende Anhaltspunkte dafür vorliegen, daß er bei Befolgung
+    der unwiderruflichen Weisung an der Erreichung unerlaubter oder
     unredlicher Zwecke mitwirken würde, oder
-
 
 2.  einem Auftraggeber im Sinne des § 57 durch die Auszahlung des
     verwahrten Geldes ein unwiederbringlicher Schaden erkennbar droht.
-
-
-
 
 
 ### § 62 Verwahrung von Wertpapieren und Kostbarkeiten
@@ -1340,19 +1526,13 @@ verpflichtet, von ihm verwahrte Wertpapiere zu verwalten, soweit in
 der Verwahrungsanweisung nichts anderes bestimmt ist.
 
 
-## Siebter Abschnitt - Schlußvorschriften
+## Abschnitt 7 - Schlussvorschriften
 
 
-
-### 1. - Verhältnis zu anderen Gesetzen
-
+### Unterabschnitt 1 - Verhältnis zu anderen Gesetzen
 
 
-#### a) - Bundesrecht
-
-
-
-##### § 63 Beseitigung von Doppelzuständigkeiten
+#### § 63 Beseitigung von Doppelzuständigkeiten
 
 (1) u. (2) (Änderungsvorschriften)
 
@@ -1364,23 +1544,19 @@ Erklärung vor einem Gericht oder Notar vorsehen, ist nur der Notar
 zuständig.
 
 
-##### § 64 Beurkundungen nach dem Personenstandsgesetz
+#### § 64 Beurkundungen nach dem Personenstandsgesetz
 
 Dieses Gesetz gilt nicht für Beurkundungen nach dem
 Personenstandsgesetz.
 
 
-##### § 65 Unberührt bleibendes Bundesrecht
+#### § 65 Unberührt bleibendes Bundesrecht
 
 Soweit in diesem Gesetz nichts anderes bestimmt ist, bleiben
 bundesrechtliche Vorschriften über Beurkundungen unberührt.
 
 
-#### b) - Landesrecht
-
-
-
-##### § 66 Unberührt bleibendes Landesrecht
+#### § 66 Unberührt bleibendes Landesrecht
 
 (1) Unbeschadet der Zuständigkeit des Notars bleiben folgende
 landesrechtliche Vorschriften unberührt:
@@ -1389,28 +1565,23 @@ landesrechtliche Vorschriften unberührt:
     dies gilt nicht für die freiwillige Versteigerung von Grundstücken und
     grundstücksgleichen Rechten;
 
-
 2.  Vorschriften über die Zuständigkeit zur Aufnahme von Inventaren,
     Bestandsverzeichnissen, Nachlaßverzeichnissen und anderen
     Vermögensverzeichnissen sowie zur Mitwirkung bei der Aufnahme solcher
     Vermögensverzeichnisse;
 
-
 3.  Vorschriften, nach denen die Gerichtsvollzieher zuständig sind,
     Wechsel- und Scheckproteste aufzunehmen sowie das tatsächliche Angebot
     einer Leistung zu beurkunden;
 
-
 4.  Vorschriften, nach denen die Amtsgerichte zuständig sind, außerhalb
-    eines anhängigen Verfahrens die Aussagen von Zeugen und die Gutachten
-    von Sachverständigen, die Vereidigung sowie eidesstattliche
+    eines anhängigen Verfahrens die Aussagen von Zeugen und die
+    Gutachten von Sachverständigen, die Vereidigung sowie eidesstattliche
     Versicherungen dieser Personen zu beurkunden;
-
 
 5.  Vorschriften, nach denen Beurkundungen in Fideikommißsachen, für die
     ein Kollegialgericht zuständig ist, durch einen beauftragten oder
     ersuchten Richter erfolgen können;
-
 
 6.  Vorschriften, nach denen die Vorstände der Vermessungsbehörden, die
     das amtliche Verzeichnis im Sinne des § 2 Abs. 2 der Grundbuchordnung
@@ -1418,33 +1589,24 @@ landesrechtliche Vorschriften unberührt:
     Behörden zuständig sind, Anträge der Eigentümer auf Vereinigung oder
     Teilung von Grundstücken zu beurkunden oder zu beglaubigen;
 
-
 7.  Vorschriften über die Beurkundung der Errichtung fester Grenzzeichen
     (Abmarkung);
-
 
 8.  Vorschriften über die Beurkundung von Tatbeständen, die am Grund und
     Boden durch vermessungstechnische Ermittlungen festgestellt werden,
     durch Behörden, öffentlich bestellte Vermessungsingenieure oder
     Markscheider;
 
-
-9.  Vorschriften über Beurkundungen in Gemeinheitsteilungs- und
-    agrarrechtlichen Ablösungsverfahren einschließlich der
+9.  Vorschriften über Beurkundungen in Gemeinheitsteilungs-
+    und agrarrechtlichen Ablösungsverfahren einschließlich der
     Rentenübernahme- und Rentengutsverfahren;
 
-
 10. Vorschriften über Beurkundungen im Rückerstattungsverfahren;
-
 
 11. Vorschriften über die Beglaubigung amtlicher Unterschriften zum Zwecke
     der Legalisation;
 
-
 12. Vorschriften über Beurkundungen in Kirchenaustrittssachen.
-
-
-
 
 (2) Auf Grund dieser Vorbehalte können den Gerichten
 Beurkundungszuständigkeiten nicht neu übertragen werden.
@@ -1454,36 +1616,26 @@ Beurkundungszuständigkeiten nicht neu übertragen werden.
 1.  die Zuständigkeit der Notare für öffentliche Beurkundungen (§ 20 der
     Bundesnotarordnung) nicht eingeschränkt werden,
 
-
 2.  nicht bestimmt werden, daß für öffentliche Beurkundungen neben dem
     Notar andere Urkundspersonen oder sonstige Stellen zuständig sind, und
 
-
-3.  keine Regelung getroffen werden, die den Vorschriften des Ersten bis
-    Vierten Abschnitts dieses Gesetzes entgegensteht.
-
-
-
+3.  keine Regelung getroffen werden, die den Vorschriften der Abschnitte 1
+    bis 4 dieses Gesetzes entgegensteht.
 
 (4) (weggefallen)
 
 
-##### § 67 Zuständigkeit der Amtsgerichte, Zustellung
+#### § 67 Zuständigkeit der Amtsgerichte; Zustellung
 
 (1) Unbeschadet der Zuständigkeit sonstiger Stellen sind die
 Amtsgerichte zuständig für die Beurkundung von
 
 1.  Erklärungen über die Anerkennung der Vaterschaft,
 
-
 2.  Verpflichtungen zur Erfüllung von Unterhaltsansprüchen eines Kindes,
-
 
 3.  Verpflichtungen zur Erfüllung von Unterhaltsansprüchen nach § 1615l
     des Bürgerlichen Gesetzbuchs.
-
-
-
 
 (2) Die Zustellung von Urkunden, die eine Verpflichtung nach Absatz 1
 Nr. 2 oder 3 zum Gegenstand haben, kann auch dadurch vollzogen werden,
@@ -1491,63 +1643,46 @@ daß der Schuldner eine beglaubigte Abschrift der Urkunde ausgehändigt
 erhält; § 174 Satz 2 und 3 der Zivilprozeßordnung gilt entsprechend.
 
 
-##### § 68
+#### § 68 Übertragung auf andere Stellen
 
 Die Länder sind befugt, durch Gesetz die Zuständigkeit für die
 öffentliche Beglaubigung von Abschriften oder Unterschriften anderen
 Personen oder Stellen zu übertragen.
 
 
-##### § 69 (weggefallen)
+#### § 69 (weggefallen)
 
 
-
-#### c) - Amtliche Beglaubigungen
-
-
-
-##### § 70
+#### § 70 Amtliche Beglaubigungen
 
 Dieses Gesetz gilt nicht für amtliche Beglaubigungen, mit denen eine
 Verwaltungsbehörde zum Zwecke der Verwendung in Verwaltungsverfahren
-oder für sonstige Zwecke, für die eine öffentliche Beglaubigung nicht
-vorgeschrieben ist, die Echtheit einer Unterschrift oder eines
-Handzeichens oder die Richtigkeit der Abschrift einer Urkunde bezeugt,
-die nicht von einer Verwaltungsbehörde ausgestellt ist. Die
-Beweiskraft dieser amtlichen Beglaubigungen beschränkt sich auf den in
-dem Beglaubigungsvermerk genannten Verwendungszweck. Die Befugnis der
-Verwaltungsbehörden, Abschriften ihrer eigenen Urkunden oder von
+oder für sonstige Zwecke, für die eine öffentliche Beglaubigung
+nicht vorgeschrieben ist, die Echtheit einer Unterschrift oder
+eines Handzeichens oder die Richtigkeit der Abschrift einer Urkunde
+bezeugt, die nicht von einer Verwaltungsbehörde ausgestellt ist. Die
+Beweiskraft dieser amtlichen Beglaubigungen beschränkt sich auf den
+in dem Beglaubigungsvermerk genannten Verwendungszweck. Die Befugnis
+der Verwaltungsbehörden, Abschriften ihrer eigenen Urkunden oder von
 Urkunden anderer Verwaltungsbehörden in der dafür vorgeschriebenen
 Form mit uneingeschränkter Beweiskraft zu beglaubigen, bleibt
 unberührt.
 
 
-#### d) - Eidesstattliche Versicherungen in Verwaltungsverfahren
-
-
-
-##### § 71
+#### § 71 Eidesstattliche Versicherungen in Verwaltungsverfahren
 
 Dieses Gesetz gilt nicht für die Aufnahme eidesstattlicher
 Versicherungen in Verwaltungsverfahren.
 
 
-#### e) - Erklärungen juristischer Personen des öffentlichen Rechts
-
-
-
-##### § 72
+#### § 72 Erklärungen juristischer Personen des öffentlichen Rechts
 
 Die bundes- oder landesrechtlich vorgeschriebene Beidrückung des
 Dienstsiegels bei Erklärungen juristischer Personen des öffentlichen
 Rechts wird durch die öffentliche Beurkundung ersetzt.
 
 
-#### f) - Bereits errichtete Urkunden
-
-
-
-##### § 73
+#### § 73 Bereits errichtete Urkunden
 
 (1) §§ 45 bis 49, 51, 52, 54 dieses Gesetzes gelten auch für Urkunden,
 die vor dem Inkrafttreten dieses Gesetzes errichtet worden sind. Dies
@@ -1562,29 +1697,17 @@ Testamente, die vor dem Inkrafttreten dieses Gesetzes vor einem
 Richter errichtet worden sind.
 
 
-#### g) - Verweisungen
-
-
-
-##### § 74
+#### § 74 Verweisungen
 
 Soweit in Gesetzen oder Verordnungen auf die durch dieses Gesetz
 aufgehobenen oder abgeänderten Vorschriften verwiesen ist, treten die
 entsprechenden Vorschriften dieses Gesetzes an ihre Stelle.
 
 
-### 2. - Geltung in Berlin
+### Unterabschnitt 2 - Übergangsvorschrift
 
 
-
-#### § 75 (weggefallen)
-
-
-### 3. - Übergangsvorschrift
-
-
-
-#### § 76 Übergangsvorschrift zur Einführung des Elektronischen Urkundenarchivs
+#### § 75 Übergangsvorschrift zur Einführung des Elektronischen Urkundenarchivs
 
 (1) Für Beurkundungen und sonstige Amtshandlungen, die vor dem 1.
 Januar 2022 vorgenommen worden sind, sind die §§ 55 und 56 nicht
@@ -1593,22 +1716,22 @@ vermerken, wem und an welchem Tag eine Ausfertigung erteilt worden
 ist. Zusätze und Änderungen sind nach den vor dem 1. Januar 2022
 geltenden Bestimmungen vorzunehmen.
 
-(2) Die Urkundensammlung und die Erbvertragssammlung für Urkunden, die
-vor dem 1. Januar 2022 errichtet wurden, werden von dem Notar nach
+(2) Die Urkundensammlung und die Erbvertragssammlung für Urkunden,
+die vor dem 1. Januar 2022 errichtet wurden, werden von dem Notar nach
 Maßgabe der vor dem 1. Januar 2022 geltenden Vorschriften geführt und
 verwahrt. Zusätze und Änderungen sind nach den vor dem 1. Januar 2022
 geltenden Bestimmungen vorzunehmen.
 
-(3) Für Verwahrungsmassen, die der Notar vor dem 1. Januar 2022
-entgegengenommen hat, ist § 59a vorbehaltlich der Sätze 3 bis 5 nicht
-anzuwenden. Für diese Verwahrungsmassen werden die Verwahrungsbücher,
-die Massenbücher, die Namensverzeichnisse zum Massenbuch und die
-Anderkontenlisten nach den vor dem 1. Januar 2022 geltenden
-Bestimmungen geführt und verwahrt. Der Notar kann jedoch zum Schluss
-eines Kalenderjahres alle Verwahrungsmassen im Sinne des Satzes 1 in
-das Verwahrungsverzeichnis übernehmen und insoweit die
-Verzeichnisführung nach den vor dem 1. Januar 2022 geltenden
-Bestimmungen abschließen. Dazu sind für die zu übernehmenden
+(3) Für Verwahrungsmassen, die der Notar vor dem 1. Januar
+2022 entgegengenommen hat, ist § 59a vorbehaltlich der Sätze 3
+bis 5 nicht anzuwenden. Für diese Verwahrungsmassen werden die
+Verwahrungsbücher, die Massenbücher, die Namensverzeichnisse zum
+Massenbuch und die Anderkontenlisten nach den vor dem 1. Januar
+2022 geltenden Bestimmungen geführt und verwahrt. Der Notar kann
+jedoch zum Schluss eines Kalenderjahres alle Verwahrungsmassen im
+Sinne des Satzes 1 in das Verwahrungsverzeichnis übernehmen und
+insoweit die Verzeichnisführung nach den vor dem 1. Januar 2022
+geltenden Bestimmungen abschließen. Dazu sind für die zu übernehmenden
 Verwahrungsmassen die nach den Vorschriften des Abschnitts 3 der
 Verordnung über die Führung notarieller Akten und Verzeichnisse
 erforderlichen Angaben in das Verwahrungsverzeichnis einzutragen.
@@ -1622,9 +1745,9 @@ vor dem 1. Januar 2022 geltenden Vorschriften geführt und verwahrt.
 
 (5) Für Beurkundungen und sonstige Amtshandlungen, die vom 1. Januar
 bis zum 30. Juni 2022 vorgenommen werden, gilt § 55 Absatz 2 nur im
-Hinblick auf das Urkundenverzeichnis und sind § 55 Absatz 3 sowie § 56
-nicht anzuwenden. Im Übrigen gelten für die vom 1. Januar bis zum 30.
-Juni 2022 vorgenommenen Beurkundungen und sonstigen Amtshandlungen
+Hinblick auf das Urkundenverzeichnis und sind § 55 Absatz 3 sowie §
+56 nicht anzuwenden. Im Übrigen gelten für die vom 1. Januar bis zum
+30\. Juni 2022 vorgenommenen Beurkundungen und sonstigen Amtshandlungen
 Absatz 1 Satz 3 und Absatz 2 entsprechend.
 
 

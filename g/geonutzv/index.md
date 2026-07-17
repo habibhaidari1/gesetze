@@ -1,6 +1,5 @@
 ---
-Title: Verordnung zur Festlegung der Nutzungsbestimmungen für die Bereitstellung von
-  Geodaten des Bundes
+Title: Verordnung zur Festlegung der Nutzungsbestimmungen für die Bereitstellung von Geodaten des Bundes
 jurabk: GeoNutzV
 layout: default
 origslug: geonutzv
@@ -28,8 +27,8 @@ die Bundesregierung:
 
 ## § 1 Ziel und Anwendungsbereich
 
-Diese Verordnung regelt die Voraussetzungen, unter denen Geodaten und
-Geodatendienste, einschließlich zugehöriger Metadaten, nach § 11
+Diese Verordnung regelt die Voraussetzungen, unter denen Geodaten
+und Geodatendienste, einschließlich zugehöriger Metadaten, nach § 11
 Absatz 1 und 2 des Geodatenzugangsgesetzes von den geodatenhaltenden
 Stellen nach § 2 Absatz 1 in Verbindung mit § 3 Absatz 8 des
 Geodatenzugangsgesetzes zur Verfügung gestellt werden.
@@ -49,29 +48,20 @@ gesetzliche Rechte Dritter dem nicht entgegenstehen.
 1.  vervielfältigt, ausgedruckt, präsentiert, verändert, bearbeitet sowie
     an Dritte übermittelt werden;
 
-
 2.  mit eigenen Daten und Daten Anderer zusammengeführt und zu
     selbständigen neuen Datensätzen verbunden werden;
 
-
-3.  in interne und externe Geschäftsprozesse, Produkte und Anwendungen in
-    öffentlichen und nicht öffentlichen elektronischen Netzwerken
+3.  in interne und externe Geschäftsprozesse, Produkte und Anwendungen
+    in öffentlichen und nicht öffentlichen elektronischen Netzwerken
     eingebunden werden.
-
-
-
 
 (3) Die bereitgestellten Geodatendienste dürfen insbesondere
 
 1.  mit eigenen Diensten und Diensten Anderer zusammengeführt werden;
 
-
-2.  in interne und externe Geschäftsprozesse, Produkte und Anwendungen in
-    öffentlichen und nicht öffentlichen elektronischen Netzwerken
+2.  in interne und externe Geschäftsprozesse, Produkte und Anwendungen
+    in öffentlichen und nicht öffentlichen elektronischen Netzwerken
     eingebunden werden.
-
-
-
 
 
 ## § 3 Quellenvermerke
@@ -82,24 +72,20 @@ Die Nutzer haben sicherzustellen, dass
     Quellenvermerke und sonstigen rechtlichen Hinweise erkennbar und in
     optischem Zusammenhang eingebunden werden;
 
-
 2.  Veränderungen, Bearbeitungen, neue Gestaltungen oder sonstige
     Abwandlungen mit einem Veränderungshinweis im beigegebenen
     Quellenvermerk versehen werden oder, sofern die geodatenhaltende
     Stelle dies verlangt, der beigegebene Quellenvermerk gelöscht wird.
 
 
-
-
-
 ## § 4 Haftungsbeschränkung
 
 Verletzt die geodatenhaltende Stelle eine ihr gegenüber dem Nutzer
-obliegende öffentlich-rechtliche Pflicht, so haftet ihr Träger dem
-Nutzer für den daraus entstehenden Schaden nicht, wenn der
-geodatenhaltenden Stelle lediglich Fahrlässigkeit zur Last fällt. Dies
-gilt nicht im Falle einer Verletzung des Lebens, des Körpers und der
-Gesundheit.
+obliegende öffentlich-rechtliche Pflicht, so haftet ihr Träger
+dem Nutzer für den daraus entstehenden Schaden nicht, wenn der
+geodatenhaltenden Stelle lediglich Fahrlässigkeit zur Last fällt.
+Dies gilt nicht im Falle einer Verletzung des Lebens, des Körpers und
+der Gesundheit.
 
 
 ## § 5 Inkrafttreten

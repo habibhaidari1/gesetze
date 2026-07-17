@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen
-  Mark (Gedenkmünze 200. Geburtstag von Heinrich Heine)
+Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen Mark (Gedenkmünze 200. Geburtstag von Heinrich Heine)
 jurabk: Münz10DMBek 1997-10
 layout: default
 origslug: m_nz10dmbek_1997-10
@@ -17,15 +16,14 @@ Fundstelle
 :   BGBl I: 1997, 2609
 
 
-
 ## (XXXX)
 
 Auf Grund des § 6 des Gesetzes über die Ausprägung von Scheidemünzen
-in der im Bundesgesetzblatt Teil III, Gliederungsnummer 690-1,
-veröffentlichten bereinigten Fassung hat die Bundesregierung
+in der im Bundesgesetzblatt Teil III, Gliederungsnummer 690-
+1, veröffentlichten bereinigten Fassung hat die Bundesregierung
 beschlossen, zum "200. Geburtstag von Heinrich Heine" eine Bundesmünze
 (Gedenkmünze) im Nennwert von 10 Deutschen Mark prägen zu lassen.
-Die Auflage der Münze beträgt 3,75 Millionen Stück, darunter 750 000
+Die Auflage der Münze beträgt 3,75 Millionen Stück, darunter 750 000
 Stück in Spiegelglanz. Die Prägung in Normalausführung (Stempelglanz)
 erfolgt im Bayerischen Hauptmünzamt in München. Die Herstellung in
 Spiegelglanz wird von allen fünf deutschen Münzämtern zu gleichen
@@ -38,43 +36,16 @@ erhaben und wird von einem schützenden glatten Randstab umgeben.
 Die Bildseite zeigt Heinrich Heine nach einer Vorlage von Wilhelm
 Hensel aus dem Jahre 1829. Die Umschrift lautet:
 
-*
-    *
-        *
-            *   "HEINRICH HEINE
+-   -   -   -   "HEINRICH HEINE
 
                 * 1797 + 1856".
-
-
-
-
-
-
-
-
-
-
-
 
 Die Wertseite trägt einen Adler, die Jahreszahl "1997", das
 Münzzeichen "D" des Bayerischen Hauptmünzamtes und die Umschrift:
 
-*
-    *
-        *   "BUNDESREPUBLIK DEUTSCHLAND
+-   -   -   "BUNDESREPUBLIK DEUTSCHLAND
 
-            *   10 DEUTSCHE MARK".
-
-
-
-
-
-
-
-
-
-
-
+            -   10 DEUTSCHE MARK".
 
 Bei den Münzen in der Qualität Spiegelglanz erscheinen die Münzzeichen
 "A", "D", "F", "G" und "J".
@@ -86,4 +57,6 @@ Der Entwurf der Münze stammt von Reinhart Heinsdorff, Friedberg.
 ## (XXXX)
 
 (Fundstelle: BGBl. I 1997, 2609)
+
 ![bgbl1_1997_j2609_0010.jpg](bgbl1_1997_j2609_0010.jpg)
+

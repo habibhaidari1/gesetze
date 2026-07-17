@@ -1,7 +1,5 @@
 ---
-Title: Anordnung zur Übertragung von Zuständigkeiten in Besoldungs-, Beihilfe- und
-  Unfallfürsorgeangelegenheiten der Beamtinnen und Beamten des Bundesamts für kerntechnische
-  Entsorgung
+Title: Anordnung zur Übertragung von Zuständigkeiten in Besoldungs-, Beihilfe- und Unfallfürsorgeangelegenheiten der Beamtinnen und Beamten des Bundesamts für kerntechnische Entsorgung
 jurabk: BfEZustAnO
 layout: default
 origslug: bfezustano
@@ -22,33 +20,27 @@ Fundstelle
 
 Nach § 108 Absatz 5 Satz 1, § 126 Absatz 3 Satz 2 und § 127 Absatz 3
 Satz 1 des Bundesbeamtengesetzes vom 5. Februar 2009 (BGBl. I S. 160),
-von denen § 108 Absatz 5 Satz 1 durch Artikel 1 Nummer 21 Buchstabe d
-des Gesetzes vom 6. März 2015 (BGBl. I S. 250) geändert worden ist,
-ordnet das Bundesministerium für Umwelt, Naturschutz, Bau und
+von denen § 108 Absatz 5 Satz 1 durch Artikel 1 Nummer 21 Buchstabe
+d des Gesetzes vom 6. März 2015 (BGBl. I S. 250) geändert worden
+ist, ordnet das Bundesministerium für Umwelt, Naturschutz, Bau und
 Reaktorsicherheit im Einvernehmen mit dem Bundesministerium des Innern
 an:
 
 
 ## § 1 Verwaltungsverfahren
 
-Die Bearbeitung folgender Angelegenheiten der Beamtinnen und Beamten
-des Bundesamts für kerntechnische Entsorgung wird dem
+Die Bearbeitung folgender Angelegenheiten der Beamtinnen und
+Beamten des Bundesamts für kerntechnische Entsorgung wird dem
 Bundesverwaltungsamt übertragen:
 
 1.  Besoldungsangelegenheiten,
 
-
 2.  Beihilfe,
-
 
 3.  Unfallfürsorge nach dem Beamtenversorgungsgesetz,
 
-
 4.  Geltendmachung von Schadenersatzansprüchen nach § 76 Satz 1 des
     Bundesbeamtengesetzes.
-
-
-
 
 
 ## § 2 Entscheidung über Widersprüche
@@ -63,8 +55,8 @@ behält sich vor, im Einzelfall selbst zu entscheiden.
 
 ## § 3 Vertretung bei Klagen
 
-Die Vertretung des Dienstherrn bei Klagen der Beamtinnen und Beamten
-des Bundesamts für kerntechnische Entsorgung in den nach § 1
+Die Vertretung des Dienstherrn bei Klagen der Beamtinnen und
+Beamten des Bundesamts für kerntechnische Entsorgung in den nach § 1
 übertragenen Angelegenheiten wird der Präsidentin oder dem Präsidenten
 des Bundesverwaltungsamts übertragen, soweit das Bundesverwaltungsamt
 nach dieser Anordnung für den Erlass des Widerspruchsbescheids

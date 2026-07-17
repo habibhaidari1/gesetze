@@ -1,7 +1,5 @@
 ---
-Title: Verordnung über die Wahrnehmung von Aufgaben der Träger der Rentenversicherung
-  und anderer Sozialversicherungsträger durch den Renten Service der Deutschen Post
-  AG
+Title: Verordnung über die Wahrnehmung von Aufgaben der Träger der Rentenversicherung und anderer Sozialversicherungsträger durch den Renten Service der Deutschen Post AG
 jurabk: PostRDV
 layout: default
 origslug: postrdv
@@ -18,7 +16,7 @@ Fundstelle
 :   BGBl I: 1994, 1867
 
 Zuletzt geändert durch
-:   Art. 20 G v. 12.6.2020 I 1248
+:   Art. 21 G v. 22.12.2025 I Nr. 355
 
 
 ## Eingangsformel
@@ -29,16 +27,12 @@ Auf Grund
     Bundesgesetzblatt Teil III, Gliederungsnummer 820-1, veröffentlichten
     bereinigten Fassung
 
-
-
 verordnet die Bundesregierung, auf Grund
 
 -   des § 120 des Sechsten Buches Sozialgesetzbuch
 
     - Gesetzliche Rentenversicherung - (Artikel 1 des Gesetzes vom 18.
     Dezember 1989, BGBl. I S. 2261)
-
-
 
 verordnet das Bundesministerium für Arbeit und Sozialordnung im
 Einvernehmen mit dem Bundesministerium für Post und Telekommunikation
@@ -49,13 +43,10 @@ und dem Bundesministerium der Finanzen und auf Grund
     - Gesetzliche Rentenversicherung - (Artikel 1 des Gesetzes vom 18.
     Dezember 1989, BGBl. I S. 2261)
 
-
-
 verordnet das Bundesministerium für Arbeit und Sozialordnung:
 
 
 ## Erstes Kapitel - Allgemeine Vorschriften
-
 
 
 ### § 1 Anwendungsbereich
@@ -70,17 +61,14 @@ Rentenversicherung wahrnimmt (Pflichtaufgaben).
 1.  nach § 119 Abs. 1 Satz 2 des Sechsten Buches Sozialgesetzbuch auf
     Verlangen der Träger der Rentenversicherung und
 
-
 2.  nach § 99 des Siebten Buches Sozialgesetzbuch auf Verlangen der Träger
     der Unfallversicherung
 
-
-
-wahrzunehmen hat (Pflichtaufgaben auf Antrag), gelten die Vorschriften
-dieser Verordnung, soweit sie nicht unmittelbar anzuwenden sind, mit
-der Maßgabe entsprechend, dass im Bereich der Unfallversicherung die
-Träger der Unfallversicherung und die Deutsche Gesetzliche
-Unfallversicherung e. V. und die Sozialversicherung für
+wahrzunehmen hat (Pflichtaufgaben auf Antrag), gelten die
+Vorschriften dieser Verordnung, soweit sie nicht unmittelbar
+anzuwenden sind, mit der Maßgabe entsprechend, dass im Bereich der
+Unfallversicherung die Träger der Unfallversicherung und die Deutsche
+Gesetzliche Unfallversicherung e. V. und die Sozialversicherung für
 Landwirtschaft, Forsten und Gartenbau an die Stelle der Träger der
 Rentenversicherung und der Deutschen Rentenversicherung Bund treten.
 
@@ -95,10 +83,10 @@ Stellen abweichen.
 (1) Die Deutsche Post AG erfüllt ihre Aufgaben im Rahmen dieser
 Verordnung durch den Renten Service.
 
-(2) Die Träger der Rentenversicherung nehmen gemeinsame Aufgaben im
-Rahmen dieser Verordnung gegenüber dem Renten Service durch die
-Deutsche Rentenversicherung Bund wahr. Der Renten Service kann jedoch
-Angelegenheiten, die in erster Linie einzelne Träger der
+(2) Die Träger der Rentenversicherung nehmen gemeinsame Aufgaben
+im Rahmen dieser Verordnung gegenüber dem Renten Service durch
+die Deutsche Rentenversicherung Bund wahr. Der Renten Service kann
+jedoch Angelegenheiten, die in erster Linie einzelne Träger der
 Rentenversicherung betreffen, unmittelbar mit diesen vorklären.
 
 
@@ -108,19 +96,16 @@ Rentenversicherung betreffen, unmittelbar mit diesen vorklären.
 
 1.  bei Pflichtaufgaben im Rahmen eines gesetzlichen Auftrags und
 
-
 2.  bei Pflichtaufgaben auf Antrag im Rahmen eines durch öffentlich-
     rechtlichen Vertrag begründeten Auftrags
-
-
 
 tätig. Rechte und Pflichten des Renten Service und der Träger der
 Rentenversicherung richten sich bei der Erfüllung von Pflichtaufgaben
 und Pflichtaufgaben auf Antrag nach dem Recht des Sozialgesetzbuchs
 einschließlich dieser Verordnung und nach den gesetzlichen
-Vorschriften, die auf das Recht des Sozialgesetzbuchs verweisen oder
-darauf Bezug nehmen. Soweit dort keine Regelungen getroffen sind,
-gelten die Vorschriften des Bürgerlichen Gesetzbuchs über die
+Vorschriften, die auf das Recht des Sozialgesetzbuchs verweisen
+oder darauf Bezug nehmen. Soweit dort keine Regelungen getroffen
+sind, gelten die Vorschriften des Bürgerlichen Gesetzbuchs über die
 entgeltliche Geschäftsbesorgung entsprechend.
 
 (2) Der Renten Service hat in bezug auf
@@ -128,20 +113,16 @@ entgeltliche Geschäftsbesorgung entsprechend.
 1.  die ihm zur Verfügung gestellten Vorschüsse zur Auszahlung von
     Geldleistungen,
 
-
 2.  zurückgeflossene Auszahlungsbeträge und
-
 
 3.  sonstige Mittel, die wirtschaftlich den Trägern der Rentenversicherung
     zustehen,
 
-
-
-soweit ihm nicht lediglich eine Verfügungsvollmacht eingeräumt ist,
-die Stellung eines Treuhänders. Treuhandvermögen im Sinne des Satzes 1
-ist vom Renten Service auf Treuhandkonten zu verbuchen und
-wirtschaftlich zu nutzen, solange es ihm zur Verfügung steht. Die Art
-der wirtschaftlichen Nutzung ist im Benehmen mit den Trägern der
+soweit ihm nicht lediglich eine Verfügungsvollmacht eingeräumt
+ist, die Stellung eines Treuhänders. Treuhandvermögen im Sinne des
+Satzes 1 ist vom Renten Service auf Treuhandkonten zu verbuchen und
+wirtschaftlich zu nutzen, solange es ihm zur Verfügung steht. Die
+Art der wirtschaftlichen Nutzung ist im Benehmen mit den Trägern der
 Rentenversicherung festzulegen. Sie soll für den Renten Service nicht
 mit einem zu hohen Aufwand verbunden sein. Die Nutzungsvorteile sind
 den Trägern der Rentenversicherung im Rahmen der Jahresabrechnung der
@@ -153,18 +134,18 @@ Zahlungen steht.
 
 (3) Pflichtaufgaben und Pflichtaufgaben auf Antrag sind nach den
 Grundsätzen der Wirtschaftlichkeit und Sparsamkeit, bezogen auf den
-Auftraggeber, zu erfüllen. Der Renten Service hat sicherzustellen, daß
-die Einnahmen und Ausgaben für die Erfüllung von Pflichtaufgaben und
-Pflichtaufgaben auf Antrag einschließlich der Verwaltungskosten und
-Verwaltungsauslagen regelmäßig ermittelt und regelmäßig unter
+Auftraggeber, zu erfüllen. Der Renten Service hat sicherzustellen,
+daß die Einnahmen und Ausgaben für die Erfüllung von Pflichtaufgaben
+und Pflichtaufgaben auf Antrag einschließlich der Verwaltungskosten
+und Verwaltungsauslagen regelmäßig ermittelt und regelmäßig unter
 Berücksichtigung der Verpflichtung nach Satz 1 geprüft werden. Die
 Ergebnisse dieser Prüfungen sind der Deutschen Rentenversicherung Bund
 sowie dem Bundesministerium für Arbeit und Soziales und dem Bundesamt
 für Soziale Sicherung auf Verlangen zur Verfügung zu stellen.
 
 (4) Die Träger der Rentenversicherung sollen dem Renten Service
-Aufträge in maschineller Form und so rechtzeitig erteilen, daß sie im
-Rahmen der vorzuhaltenden Organisation ohne Mehraufwand ausgeführt
+Aufträge in maschineller Form und so rechtzeitig erteilen, daß sie
+im Rahmen der vorzuhaltenden Organisation ohne Mehraufwand ausgeführt
 werden können. Dies gilt für Auftragsänderungen entsprechend. Die
 Träger der Rentenversicherung und der Renten Service können für
 besondere Fallgruppen andere Verfahren vereinbaren.
@@ -174,8 +155,8 @@ im Rahmen des § 151 Abs. 2 des Sechsten Buches Sozialgesetzbuch über
 alle Vorgänge, die ihm im Rahmen des Auftragsverhältnisses bekannt
 werden und die zur Erfüllung der gesetzlichen Aufgaben der Träger der
 Rentenversicherung erforderlich sind. Für Vorgänge, die gemeinsame
-Aufgaben der Träger der Rentenversicherung betreffen, gilt § 2 Abs. 2
-entsprechend.
+Aufgaben der Träger der Rentenversicherung betreffen, gilt § 2 Abs.
+2 entsprechend.
 
 (6) Der Renten Service hat im Benehmen mit der Deutschen
 Rentenversicherung Bund Vorsorgemaßnahmen zu treffen, um die Erfüllung
@@ -187,8 +168,8 @@ Spannungs- und Verteidigungsfall zu gewährleisten.
 ### § 4 Verantwortungsbereiche
 
 (1) Die Träger der Rentenversicherung und der Renten Service sind im
-Verhältnis zueinander für die ordnungsgemäße Wahrnehmung der ihnen im
-Rahmen des gesetzlichen Auftragsverhältnisses obliegenden Aufgaben
+Verhältnis zueinander für die ordnungsgemäße Wahrnehmung der ihnen
+im Rahmen des gesetzlichen Auftragsverhältnisses obliegenden Aufgaben
 verantwortlich.
 
 (2) Im Verhältnis zu den Leistungsberechtigten verbleibt es bei der
@@ -205,21 +186,14 @@ ergänzende Regelungen durch Vereinbarung, soweit dies
 
 1.  in dieser Verordnung vorgeschrieben oder zugelassen ist oder
 
-
 2.  aus sonstigen Gründen erforderlich oder zweckmäßig ist.
-
-
-
 
 (2) Vereinbarungen, die
 
 1.  sich auf Rechte oder Pflichten der Berechtigten, Zahlungsempfänger
     oder sonstiger Dritter auswirken oder
 
-
 2.  die Vergütung des Renten Service betreffen,
-
-
 
 bedürfen der Zustimmung des Bundesamtes für Soziale Sicherung.
 
@@ -235,27 +209,26 @@ kann von dem Dritten eine Erstattung seiner Auslagen verlangen.
 ## Zweites Kapitel - Auszahlung von Geldleistungen
 
 
-
 ### § 6 Zahlungsauftrag
 
-(1) Die Auszahlung von Geldleistungen durch den Renten Service setzt
-einen entsprechenden Auftrag des zuständigen Trägers der
+(1) Die Auszahlung von Geldleistungen durch den Renten Service
+setzt einen entsprechenden Auftrag des zuständigen Trägers der
 Rentenversicherung voraus (Zahlungsauftrag).
 
 (2) Der Zahlungsauftrag hat alle für die Auszahlung und die Erfüllung
-der damit im Zusammenhang stehenden Aufgaben erforderlichen Angaben zu
-enthalten.
+der damit im Zusammenhang stehenden Aufgaben erforderlichen Angaben
+zu enthalten.
 
 (3) Ein Zahlungsauftrag für die Auszahlung laufender Geldleistungen
-hat auch die für die Anpassung erforderlichen Angaben zu enthalten. Er
-kann jeweils nur für laufende kalendermonatliche,
-kalendervierteljährliche oder kalenderhalbjährliche Auszahlungen oder
-für laufende Auszahlungen erteilt werden, die sich auf den
+hat auch die für die Anpassung erforderlichen Angaben zu
+enthalten. Er kann jeweils nur für laufende kalendermonatliche,
+kalendervierteljährliche oder kalenderhalbjährliche Auszahlungen
+oder für laufende Auszahlungen erteilt werden, die sich auf den
 Gesamtzeitraum zwischen mehreren Rentenanpassungen beziehen.
 
 (4) Zahlungsaufträge, die den Anforderungen des Absatzes 2 oder 3
-nicht entsprechen, gibt der Renten Service dem zuständigen Träger der
-Rentenversicherung zurück, soweit zwischen der Deutschen
+nicht entsprechen, gibt der Renten Service dem zuständigen Träger
+der Rentenversicherung zurück, soweit zwischen der Deutschen
 Rentenversicherung Bund und dem Renten Service nichts anderes
 vereinbart ist.
 
@@ -263,10 +236,10 @@ vereinbart ist.
 ### § 7 Zahlung ohne Zahlungsauftrag
 
 (1) Der Renten Service soll an Witwen oder Witwer oder an überlebende
-Lebenspartner verstorbener Berechtigter eine Rente wegen Alters oder
-einer Rente wegen verminderter Erwerbsfähigkeit im Inland auch ohne
-einen Auftrag des zuständigen Trägers der Rentenversicherung einen
-Vorschuß für die ersten drei Kalendermonate nach dem Tod des
+Lebenspartner verstorbener Berechtigter eine Rente wegen Alters
+oder einer Rente wegen verminderter Erwerbsfähigkeit im Inland auch
+ohne einen Auftrag des zuständigen Trägers der Rentenversicherung
+einen Vorschuß für die ersten drei Kalendermonate nach dem Tod des
 Berechtigten (Sterbequartalsvorschuß) zahlen, wenn der Vorschuß
 innerhalb eines Monats nach dem Tod des Berechtigten schriftlich unter
 Vorlage eines amtlichen Sterbenachweises beantragt wird. Anträge, die
@@ -296,15 +269,11 @@ Berechtigten als Zahlungsempfänger benannt wurden oder auf Grund
 1.  der gesetzlichen Vorschriften über die Vormundschaft oder die
     Betreuung,
 
-
 2.  der §§ 48 bis 50 und der §§ 52 bis 54 des Ersten Buches
     Sozialgesetzbuch oder
 
-
 3.  der §§ 102 bis 105 in Verbindung mit § 107 des Zehnten Buches
     Sozialgesetzbuch
-
-
 
 einen Anspruch auf die Auszahlung haben.
 
@@ -314,35 +283,27 @@ einen Anspruch auf die Auszahlung haben.
 (1) Zahlungen an Zahlungsempfänger mit gewöhnlichem Aufenthalt im
 Inland (Inlandszahlungen) sollen auf ein Konto der Zahlungsempfänger
 bei einem Geldinstitut innerhalb des Geltungsbereiches der Verordnung
-(EU) Nr. 260/2012 des Europäischen Parlaments und des Rates vom 14.
-März 2012 zur Festlegung der technischen Vorschriften und der
-Geschäftsanforderungen für Überweisungen und Lastschriften in Euro und
-zur Änderung der Verordnung (EG) Nr. 924/2009 (ABl. L 94 vom
-30\.3.2012, S. 22) erfolgen. Die Träger der Rentenversicherung und der
-Renten Service sollen darauf hinwirken, daß die Zahlungsempfänger ein
-solches Konto benennen. Soweit Zahlungen nicht auf ein Konto erfolgen,
-sollen sie in einer für die Träger der Rentenversicherung möglichst
-wirtschaftlichen Form ausgeführt werden.
+(EU) Nr. 260/2012 erfolgen.
 
 (2) Zahlungen an Zahlungsempfänger mit gewöhnlichem Aufenthalt im
 Ausland (Auslandszahlungen) sollen bei Aufenthalt innerhalb des
-Geltungsbereiches der in Absatz 1 genannten Verordnung auf ein Konto
-der Zahlungsempfänger bei einem Geldinstitut innerhalb des
+Geltungsbereiches der in Absatz 1 genannten Verordnung auf ein
+Konto der Zahlungsempfänger bei einem Geldinstitut innerhalb des
 Geltungsbereiches dieser Verordnung erfolgen. Bei Aufenthalt der
 Zahlungsempfänger außerhalb des Geltungsbereiches der Verordnung
 sollen die Zahlungen in einer für die Träger der Rentenversicherung
 möglichst wirtschaftlichen Form ausgeführt werden.
 
 (3) Berechtigten Interessen der Zahlungsempfänger ist Rechnung zu
-tragen, soweit hierdurch keine Mehraufwendungen entstehen oder die
-Mehraufwendungen im Hinblick auf die Umstände des Einzelfalls
-gerechtfertigt erscheinen.
+tragen, soweit dies zahlungstechnisch möglich ist und hierdurch keine
+Mehraufwendungen entstehen oder die Mehraufwendungen im Hinblick auf
+die Umstände des Einzelfalls gerechtfertigt erscheinen.
 
 (4) Die Zahlung laufender Geldleistungen ist so rechtzeitig zu
 bewirken, dass die Leistungen den Zahlungsempfängern nach dem
-gewöhnlichen Verfahrensablauf am Auszahlungstag im Sinne von § 118
-Abs. 1 und § 272a Abs. 1 des Sechsten Buches Sozialgesetzbuch zur
-Verfügung stehen. Die Zahlung sonstiger Geldleistungen ist
+gewöhnlichen Verfahrensablauf am Auszahlungstag im Sinne von §
+118 Abs. 1 und § 272a Abs. 1 des Sechsten Buches Sozialgesetzbuch
+zur Verfügung stehen. Die Zahlung sonstiger Geldleistungen ist
 unverzüglich nach der Erteilung des Zahlungsauftrages zu bewirken.
 
 (5) Der Renten Service übernimmt für die Träger der Rentenversicherung
@@ -358,22 +319,19 @@ Deutsche Bundesbank.
     Zahlungsempfänger oder aus sonstigen Gründen nicht bewirkt werden
     können oder
 
-
 2.  auf Grund einer gesteigerten Übermittlungsgefahr nur mit erhöhtem
     Verlustrisiko für die Träger der Rentenversicherung bewirkt werden
     können,
 
-
-
-gelten als nicht ausführbar (unanbringliche Zahlungen). Der Renten
-Service hält unanbringliche Zahlungen zur Verfügung der
+gelten als nicht ausführbar (unanbringliche Zahlungen). Der
+Renten Service hält unanbringliche Zahlungen zur Verfügung der
 Zahlungsempfänger, wenn Aussicht besteht, die Zahlung noch ausführen
 zu können. Andernfalls, spätestens jedoch nach Ablauf von sechs
-Monaten, hat er den Zahlungsauftrag an den zuständigen Träger der
-Rentenversicherung zurückzugeben. Der Zeitraum von sechs Monaten kann
-für bestimmte Fälle durch Vereinbarung zwischen der Deutschen
-Rentenversicherung Bund und dem Renten Service auf bis zu zwei Jahre
-verlängert werden, soweit dies der Vereinfachung des
+Monaten, hat er den Zahlungsauftrag an den zuständigen Träger
+der Rentenversicherung zurückzugeben. Der Zeitraum von sechs
+Monaten kann für bestimmte Fälle durch Vereinbarung zwischen der
+Deutschen Rentenversicherung Bund und dem Renten Service auf bis
+zu zwei Jahre verlängert werden, soweit dies der Vereinfachung des
 Zahlungsverfahrens dient. Nach Rückgabe des Zahlungsauftrags sind die
 für die Auszahlung zur Verfügung gestellten Beträge in die nächste
 Monatsübersicht aufzunehmen.
@@ -416,8 +374,8 @@ bewirkt werden, daß keine Zahlungsunterbrechung eintritt. § 6 Abs. 2
 bis 4 gilt entsprechend.
 
 (2) Die Träger der Rentenversicherung dürfen bei laufenden
-Geldleistungen eine Einstellung der Zahlung oder eine Herabsetzung des
-Zahlbetrages nur im Zusammenhang mit einer entsprechenden
+Geldleistungen eine Einstellung der Zahlung oder eine Herabsetzung
+des Zahlbetrages nur im Zusammenhang mit einer entsprechenden
 Unterrichtung der Betroffenen veranlassen. Dies gilt nicht, wenn
 
 1.  eine lediglich aus technischen Gründen veranlaßte Einstellung der
@@ -425,12 +383,8 @@ Unterrichtung der Betroffenen veranlassen. Dies gilt nicht, wenn
     für den Zahlungsempfänger voraussichtlich nicht mit einer
     Zahlungsunterbrechung verbunden ist oder
 
-
 2.  die Einstellung der Zahlung einer Zeitrente für die Zeit nach dem
     Ablauf des Bewilligungszeitraums veranlaßt wird.
-
-
-
 
 
 ### § 13 Änderungen von Zahlungsdaten oder der Zahlweise durch die Berechtigten oder Zahlungsempfänger
@@ -440,13 +394,10 @@ Die Berechtigten oder Zahlungsempfänger sollen
 1.  Änderungen in den tatsächlichen oder rechtlichen Verhältnissen, die
     für die Auszahlung von Bedeutung sind, und
 
-
 2.  eine gewünschte Änderung der Zahlungsweise
 
-
-
-unmittelbar dem Renten Service mitteilen. Die Berücksichtigung von
-Namensänderungen setzt voraus, daß diese dem Renten Service
+unmittelbar dem Renten Service mitteilen. Die Berücksichtigung
+von Namensänderungen setzt voraus, daß diese dem Renten Service
 nachgewiesen werden.
 
 
@@ -461,8 +412,8 @@ informiert wird.
 (2) Vormünder und Betreuer der Berechtigten können unter Nachweis
 ihrer Rechtsstellung und im Fall der Betreuung auch ihres
 Aufgabenkreises unmittelbar beim Renten Service beantragen, bei
-laufenden Inlandszahlungen als Zahlungsempfänger eingesetzt zu werden.
-Wird die Beendigung einer Vormundschaft oder einer Betreuung
+laufenden Inlandszahlungen als Zahlungsempfänger eingesetzt zu
+werden. Wird die Beendigung einer Vormundschaft oder einer Betreuung
 mitgeteilt, wird die Auszahlung auf die Berechtigten umgestellt; eine
 Berücksichtigung von Mitteilungen der Berechtigten setzt voraus, daß
 der Inhalt der Mitteilung dem Renten Service nachgewiesen wird.
@@ -490,12 +441,9 @@ wenn
 1.  der Zahlungsempfänger die Annahme der Zahlung verweigert oder erklärt,
     zum Empfang der Zahlung nicht mehr berechtigt zu sein, oder
 
-
-2.  dem Renten Service bekannt wird, daß der Zahlungsempfänger gestorben
-    ist und er diese Kenntnis im Rahmen eines angemessenen
+2.  dem Renten Service bekannt wird, daß der Zahlungsempfänger
+    gestorben ist und er diese Kenntnis im Rahmen eines angemessenen
     Verwaltungsaufwands einem Zahlfall zuordnen kann.
-
-
 
 Zurückgeflossene Beträge sind in die nächste Monatsübersicht
 aufzunehmen.
@@ -506,25 +454,22 @@ wenn ihm bekannt wird, daß
 
 1.  Berechtigte gestorben sind oder
 
-
 2.  Berechtigte einer Witwenrente, einer Witwerrente oder einer
     Erziehungsrente wieder geheiratet oder eine Eingetragene
     Lebenspartnerschaft begründet haben,
 
-
-
 und er diese Kenntnis im Rahmen eines angemessenen Verwaltungsaufwands
 einem Zahlfall zuordnen kann.
 
-(3) Die Deutsche Rentenversicherung Bund und der Renten Service können
-vereinbaren, daß der Renten Service die Zahlung laufender
+(3) Die Deutsche Rentenversicherung Bund und der Renten Service
+können vereinbaren, daß der Renten Service die Zahlung laufender
 Geldleistungen auch in anderen als den in Absatz 1 oder 2 genannten
 Fällen ohne Auftrag des zuständigen Trägers der Rentenversicherung
 einstellt, wenn andere als die in Absatz 1 genannten
 Auszahlungshindernisse vorliegen oder der der Zahlung zugrundeliegende
 Leistungsbescheid aus anderen als den in Absatz 2 genannten Gründen
-unwirksam geworden ist. In der Vereinbarung ist sicherzustellen, daß
-die Betroffenen über die Zahlungseinstellung und deren Gründe
+unwirksam geworden ist. In der Vereinbarung ist sicherzustellen,
+daß die Betroffenen über die Zahlungseinstellung und deren Gründe
 unverzüglich unterrichtet werden.
 
 
@@ -538,23 +483,15 @@ erbracht zurück. Dies gilt nicht, wenn
 1.  der Renten Service Grund zur Annahme hat, daß mit einer Rente wegen
     Todes aufgerechnet werden kann, oder
 
-
 2.  der Rückforderungsbetrag
 
     a)  bei Auszahlungen im Inland weniger als die Hälfte des aktuellen
         Rentenwertes oder
 
-
     b)  bei Auszahlungen im Ausland weniger als das Eineinhalbfache des
         aktuellen Rentenwertes
 
-
-
-
     beträgt.
-
-
-
 
 (2) Zurückgeflossene Beträge sind in die nächste Monatsübersicht
 aufzunehmen.
@@ -563,11 +500,10 @@ aufzunehmen.
 ## Drittes Kapitel - Durchführung der Anpassung von Geldleistungen
 
 
-
 ### § 17 Anpassungsauftrag
 
-(1) Die Durchführung der Anpassung von Geldleistungen durch den Renten
-Service setzt einen entsprechenden Auftrag der Träger der
+(1) Die Durchführung der Anpassung von Geldleistungen durch den
+Renten Service setzt einen entsprechenden Auftrag der Träger der
 Rentenversicherung voraus (Anpassungsauftrag).
 
 (2) Der Anpassungsauftrag hat die Anpassungsprogramme und alle
@@ -583,11 +519,11 @@ berechnet, erstellt er die Anpassungsmitteilungen im Namen des
 zuständigen Trägers der Rentenversicherung, versendet sie an die
 Zahlungsempfänger und weist die neuen Zahlbeträge an. Abweichend von
 Satz 1 übersendet der Renten Service die Anpassungsmitteilung dem
-Berechtigten, wenn der Zahlungsempfänger vom Berechtigten abweicht und
-der Zahlungsempfänger die Übersendung an den Berechtigten beim Renten
-Service veranlasst. Zahlungsempfänger, die ihre Rechtsstellung aus
-einer Übertragung, Verpfändung oder Pfändung herleiten oder eine
-vergleichbare Rechtsstellung haben, erhalten keine
+Berechtigten, wenn der Zahlungsempfänger vom Berechtigten abweicht
+und der Zahlungsempfänger die Übersendung an den Berechtigten
+beim Renten Service veranlasst. Zahlungsempfänger, die ihre
+Rechtsstellung aus einer Übertragung, Verpfändung oder Pfändung
+herleiten oder eine vergleichbare Rechtsstellung haben, erhalten keine
 Anpassungsmitteilung; die Anpassungsmitteilung ist in diesen Fällen
 den Berechtigten zu übersenden.
 
@@ -600,8 +536,8 @@ Rentenversicherung erfolgt, und daß die neuen Zahlbeträge erst auf
 deren Veranlassung angewiesen werden können. Absatz 1 Satz 2 und 3
 gilt entsprechend.
 
-(3) Die Anpassungsmitteilung enthält in kurzer und verständlicher Form
-die Angaben, die erforderlich sind, damit der Empfänger die
+(3) Die Anpassungsmitteilung enthält in kurzer und verständlicher
+Form die Angaben, die erforderlich sind, damit der Empfänger die
 ordnungsgemäße Durchführung der Anpassung auf der Grundlage des
 Rentenbescheides nachvollziehen kann. Allgemeine Angaben können in
 einem der Anpassungsmitteilung beigefügten Merkblatt erfolgen.
@@ -628,7 +564,6 @@ neuen Beträge.
 ## Viertes Kapitel - Mit der Auszahlung und der Durchführung der Anpassung von Geldleistungen zusammenhängende Aufgaben
 
 
-
 ### § 20 Aufgaben im Rahmen der sozialen Sicherung der Rentner
 
 (1) Der Renten Service übernimmt für die Träger der Rentenversicherung
@@ -638,19 +573,14 @@ auf Verlangen
     sozialversicherungspflichtige Rentner aus den auszuzahlenden
     Geldleistungen,
 
-
 2.  die Erstellung von Abrechnungsunterlagen in Fällen, in denen
     Sozialversicherungsbeiträge im Sinne der Nummer 1 mit Forderungen der
     Träger der Rentenversicherung gegen die Zahlungsempfänger aufgerechnet
     werden, und
 
-
 3.  die Erfüllung gesetzlicher Auskunfts- und Mitteilungspflichten der
     Träger der Rentenversicherung im Rahmen der sozialen Sicherung der
     Rentner.
-
-
-
 
 (2) Die Deutsche Rentenversicherung Bund und der Renten Service regeln
 das Nähere durch Vereinbarung.
@@ -667,13 +597,9 @@ folgenden personenbezogenen Daten verbinden:
 
 1.  Familienname und Vornamen einschließlich des Geburtsnamens,
 
-
 2.  Geburtsdatum,
 
-
 3.  Versicherungsnummer.
-
-
 
 Er darf nicht zum Abruf personenbezogener Daten in einem
 automatisierten Abrufverfahren verwendet werden.
@@ -687,8 +613,8 @@ der Anpassungsmitteilung verbunden werden.
 ### § 22 Erteilung von Auskünften für die Träger der Rentenversicherung
 
 (1) Der Renten Service erteilt für die Träger der Rentenversicherung
-Auskünfte über die Höhe der ausgezahlten Geldleistungen und andere ihm
-zur Verfügung stehende Sozialdaten (Rentenauskunftsverfahren). Die
+Auskünfte über die Höhe der ausgezahlten Geldleistungen und andere
+ihm zur Verfügung stehende Sozialdaten (Rentenauskunftsverfahren). Die
 Deutsche Rentenversicherung Bund bestimmt im Rahmen des § 151 Abs. 1
 des Sechsten Buches Sozialgesetzbuch den Kreis der Empfänger und den
 erforderlichen Umfang der Auskünfte.
@@ -703,14 +629,14 @@ zentrale Vermittlungsstellen erteilt, die von den Ländern eingerichtet
 werden und deren Zuständigkeitsbereich zumindest das Gebiet eines
 Bundeslandes umfaßt (Kopfstellen).
 
-(4) Soweit die Träger der Rentenversicherung berechtigt sind, für die
-Erteilung der Auskünfte von den Empfängern eine Erstattung von
-Verwaltungsgebühren oder Auslagen zu verlangen, sollen die Deutsche
-Rentenversicherung Bund und der Renten Service vereinbaren, daß der
-Renten Service Auskünfte nur gegen eine entsprechende Kostenerstattung
-erteilt. Die erstatteten Beträge sind den Trägern der
-Rentenversicherung im Rahmen der Vergütungsabrechnung (§ 35 Abs. 3)
-gutzubringen.
+(4) Soweit die Träger der Rentenversicherung berechtigt sind, für
+die Erteilung der Auskünfte von den Empfängern eine Erstattung
+von Verwaltungsgebühren oder Auslagen zu verlangen, sollen die
+Deutsche Rentenversicherung Bund und der Renten Service vereinbaren,
+daß der Renten Service Auskünfte nur gegen eine entsprechende
+Kostenerstattung erteilt. Die erstatteten Beträge sind den Trägern
+der Rentenversicherung im Rahmen der Vergütungsabrechnung (§ 35 Abs.
+3) gutzubringen.
 
 
 ### § 23 Einholung von Auskünften für die Träger der Rentenversicherung
@@ -729,13 +655,13 @@ von Auskünften tritt die Einholung von Auskünften.
 ### § 24 Überwachung der Zahlungsvoraussetzungen bei Inlandszahlungen
 
 (1) Der Renten Service wertet die ihm nach § 101a des Zehnten Buches
-Sozialgesetzbuch übermittelten Daten im Rahmen der Zweckbestimmung der
-Übermittlung aus, um bei Tod oder Wiederheirat des Berechtigten bei
-laufenden Inlandszahlungen Überzahlungen zu Lasten der Träger der
-Rentenversicherung zu vermeiden und um Anschriften- und
-Namensänderungen zu berücksichtigen (Abgleich der Mitteilungen nach §
-101a des Zehnten Buches Sozialgesetzbuch). Er übernimmt auch die
-Einholung von Lebensbescheinigungen der Berechtigten bei den
+Sozialgesetzbuch übermittelten Daten im Rahmen der Zweckbestimmung
+der Übermittlung aus, um bei Tod oder Wiederheirat des Berechtigten
+bei laufenden Inlandszahlungen Überzahlungen zu Lasten der Träger
+der Rentenversicherung zu vermeiden und um Anschriften- und
+Namensänderungen zu berücksichtigen (Abgleich der Mitteilungen
+nach § 101a des Zehnten Buches Sozialgesetzbuch). Er übernimmt auch
+die Einholung von Lebensbescheinigungen der Berechtigten bei den
 Zahlungsempfängern, soweit dies zur Ergänzung des Verfahrens nach Satz
 1 erforderlich ist.
 
@@ -747,8 +673,8 @@ Satz 2 bis 5 gilt entsprechend.
 
 ### § 25 Überwachung der Zahlungsvoraussetzungen bei Auslandszahlungen
 
-(1) Der Renten Service übernimmt bei laufenden Auslandszahlungen die
-Einholung von Lebensbescheinigungen der Berechtigten bei den
+(1) Der Renten Service übernimmt bei laufenden Auslandszahlungen
+die Einholung von Lebensbescheinigungen der Berechtigten bei den
 Zahlungsempfängern, um bei Tod oder Wiederheirat des Berechtigten
 Überzahlungen zu Lasten der Träger der Rentenversicherung zu
 vermeiden. Die Deutsche Rentenversicherung Bund und der Renten Service
@@ -760,10 +686,10 @@ anderer, mindestens ebenso zuverlässiger Weise überwacht werden.
 
 ### § 26 Aufgaben im Rahmen der Statistik
 
-Der Renten Service erstellt aus den bei ihm anfallenden Daten der
-Träger der Rentenversicherung auf Anforderung statistisches Material
-im Sinne des § 79 des Vierten Buches Sozialgesetzbuch für das
-Bundesministerium für Arbeit und Soziales und die Deutsche
+Der Renten Service erstellt aus den bei ihm anfallenden Daten
+der Träger der Rentenversicherung auf Anforderung statistisches
+Material im Sinne des § 79 des Vierten Buches Sozialgesetzbuch
+für das Bundesministerium für Arbeit und Soziales und die Deutsche
 Rentenversicherung Bund.
 
 
@@ -788,12 +714,11 @@ Anpassung von Geldleistungen im Zusammenhang stehen.
 ## Fünftes Kapitel - Vorschüsse zur Auszahlung von Geldleistungen und Abrechnung
 
 
-
 ### § 28 Pflicht zur Zahlung monatlicher Vorschüsse
 
-Der Renten Service erhält von den Trägern der Rentenversicherung zur
-Auszahlung der Geldleistungen rechtzeitig monatliche Vorschüsse. Er
-hat das Bundesministerium für Arbeit und Soziales, die Deutsche
+Der Renten Service erhält von den Trägern der Rentenversicherung
+zur Auszahlung der Geldleistungen rechtzeitig monatliche Vorschüsse.
+Er hat das Bundesministerium für Arbeit und Soziales, die Deutsche
 Rentenversicherung Bund und das Bundesamt für Soziale Sicherung
 unverzüglich in Textform zu benachrichtigen, wenn der Bedarf für die
 Auszahlung von Geldleistungen durch die Vorschüsse nicht gedeckt ist.
@@ -815,22 +740,18 @@ Deutsche Rentenversicherung Bund festgesetzt.
 
 (1) Der Renten Service erhält die Vorschüsse
 
-1.  für Zahlungen im Inland am Auszahlungstag (§ 118 Abs. 1 Satz 1 zweiter
-    Halbsatz, § 272a Abs. 1 Satz 1 zweiter Halbsatz Sechstes Buch
+1.  für Zahlungen im Inland am Auszahlungstag (§ 118 Abs. 1 Satz 1
+    zweiter Halbsatz, § 272a Abs. 1 Satz 1 zweiter Halbsatz Sechstes Buch
     Sozialgesetzbuch; § 96 Abs. 1 Satz 1 zweiter Halbsatz, § 218c Abs. 1
     zweiter Halbsatz Siebtes Buch Sozialgesetzbuch),
-
 
 2.  für Barzahlungen im Inland einen Bankarbeitstag vor dem
     Auszahlungstag, soweit das Treuhandvermögen keine ausreichende Deckung
     ausweist,
 
-
 3.  für Zahlungen in das Ausland frühestens sechs Bankarbeitstage, jedoch
     nicht mehr als neun Kalendertage vor dem Auszahlungstag der laufenden
     Geldleistungen.
-
-
 
 Durch die Optimierung des grenzüberschreitenden Zahlungsverkehrs,
 insbesondere innerhalb der Europäischen Union, können weitere
@@ -856,9 +777,9 @@ fest und gibt die Fälligkeitstermine rechtzeitig im Voraus bekannt.
 
 (4a) Zahlungen an Zahlungsempfänger mit gewöhnlichem Aufenthalt im
 Ausland, die auf eine inländische Bankverbindung geleistet werden,
-sind den Zahlungen nach Absatz 1 Satz 1 Nr. 1 gleichgestellt. Die
-Deutsche Post AG stellt für die allgemeine Rentenversicherung den
-Anteil dieser Zahlungen am Gesamtvolumen aller Zahlungen an
+sind den Zahlungen nach Absatz 1 Satz 1 Nr. 1 gleichgestellt.
+Die Deutsche Post AG stellt für die allgemeine Rentenversicherung
+den Anteil dieser Zahlungen am Gesamtvolumen aller Zahlungen an
 Zahlungsempfänger mit gewöhnlichem Aufenthalt im Ausland fest. Der
 anteilige Betrag der Zahlungen an Zahlungsempfänger mit gewöhnlichem
 Aufenthalt im Ausland, die auf eine inländische Bankverbindung
@@ -878,22 +799,19 @@ erforderlichen Daten
 
 1.  nach Ablauf eines Kalendermonats in einer Monatsübersicht und
 
-
 2.  nach Ablauf eines Kalenderjahres in einer Jahresabrechnung
 
-
-
-zusammen. Zu den sonstigen Daten im Sinne des Satzes 1 gehören auch
-Angaben über Beträge aus Zahlungen, die sich als nicht ausführbar
-erwiesen haben einschließlich der nicht ausgezahlten oder
-zurückgeflossenen Beträge aus nicht eingelösten Schecks oder
-vergleichbaren Zahlungsmitteln (§ 10 Abs. 1 und 2, § 15 Abs. 1 Satz 2
-und § 16 Abs. 2). In die Jahresabrechnung sind auch die
-Nutzungsvorteile aus der wirtschaftlichen Nutzung des
-Treuhandvermögens (§ 3 Abs. 2 Satz 2 bis 5) einzustellen. Die
-Monatsübersicht und die Jahresabrechnung sind den Trägern der
-Rentenversicherung und der Deutschen Rentenversicherung Bund
-zuzuleiten, die Jahresabrechnung darüber hinaus auch dem
+zusammen. Zu den sonstigen Daten im Sinne des Satzes 1 gehören
+auch Angaben über Beträge aus Zahlungen, die sich als nicht
+ausführbar erwiesen haben einschließlich der nicht ausgezahlten
+oder zurückgeflossenen Beträge aus nicht eingelösten Schecks
+oder vergleichbaren Zahlungsmitteln (§ 10 Abs. 1 und 2, § 15
+Abs. 1 Satz 2 und § 16 Abs. 2). In die Jahresabrechnung sind
+auch die Nutzungsvorteile aus der wirtschaftlichen Nutzung
+des Treuhandvermögens (§ 3 Abs. 2 Satz 2 bis 5) einzustellen.
+Die Monatsübersicht und die Jahresabrechnung sind den Trägern
+der Rentenversicherung und der Deutschen Rentenversicherung
+Bund zuzuleiten, die Jahresabrechnung darüber hinaus auch dem
 Bundesministerium für Arbeit und Soziales und dem Bundesamt für
 Soziale Sicherung. Der Renten Service hat die Angaben in den
 Übersichten auf Verlangen eines Trägers der Rentenversicherung
@@ -912,7 +830,6 @@ Vorschüsse verrechnet werden.
 ## Sechstes Kapitel - Vergütung
 
 
-
 ### § 32 Anspruch auf angemessene Vergütung
 
 (1) Der Renten Service hat Anspruch auf eine angemessene Vergütung.
@@ -923,11 +840,8 @@ anfallenden
 
 1.  Kosten für die Dienstleistung des Renten Service und
 
-
 2.  Auslagen des Renten Service für die Inanspruchnahme von
     Dienstleistungen Dritter
-
-
 
 abdeckt und die Erwirtschaftung eines angemessenen
 Selbstfinanzierungsbeitrags des Renten Service im Bereich der
@@ -938,24 +852,20 @@ Deutschen Post AG ermöglicht.
 1.  bei der Wahrnehmung von Pflichtaufgaben gegen die Träger der
     Rentenversicherung,
 
-
 2.  bei der Wahrnehmung von Pflichtaufgaben auf Antrag gegen die Träger,
     die von dem Renten Service die Wahrnehmung der Aufgaben verlangt
     haben.
 
 
-
-
-
 ### § 33 Entgelt für die Dienstleistung des Renten Service
 
-(1) Das Entgelt für die Dienstleistung des Renten Service für jede
-Zahlung wird durch Vereinbarung zwischen der Deutschen
+(1) Das Entgelt für die Dienstleistung des Renten Service für
+jede Zahlung wird durch Vereinbarung zwischen der Deutschen
 Rentenversicherung Bund und der Deutschen Post AG geregelt. Die
-Vereinbarung gilt auch für die Auszahlung von Geldleistungen der
-gesetzlichen Unfallversicherung durch die Deutsche Post AG nach
-Maßgabe des § 99 des Siebten Buches Sozialgesetzbuch. Kommt eine
-Vereinbarung nicht zustande, finden die §§ 317 bis 319 des
+Vereinbarung gilt auch für die Auszahlung von Geldleistungen
+der gesetzlichen Unfallversicherung durch die Deutsche Post AG
+nach Maßgabe des § 99 des Siebten Buches Sozialgesetzbuch. Kommt
+eine Vereinbarung nicht zustande, finden die §§ 317 bis 319 des
 Bürgerlichen Gesetzbuches Anwendung, wobei Dritter im Sinne von § 317
 des Bürgerlichen Gesetzbuches das Bundesamt für Soziale Sicherung ist.
 
@@ -964,39 +874,35 @@ des Bürgerlichen Gesetzbuches das Bundesamt für Soziale Sicherung ist.
 1.  von 0,05 Euro, soweit Aufträge nicht in maschineller Form erteilt
     sind,
 
-
 2.  von 0,03 Euro, wenn für einen Sozialleistungsträger monatlich weniger
-    als 50 000 laufende Zahlungen ausgeführt werden.
-
-
-
+    als 50 000 laufende Zahlungen ausgeführt werden.
 
 (3) (weggefallen)
 
 (4) Mit dem Entgelt nach den Absätzen 1 und 2 ist die gesamte
 Tätigkeit des Renten Service für die Auszahlung der Geldleistungen,
-eine einmalige jährliche Anpassung der Geldleistungen und die
-Wahrnehmung der damit in Zusammenhang stehenden Aufgaben
+eine einmalige jährliche Anpassung der Geldleistungen und
+die Wahrnehmung der damit in Zusammenhang stehenden Aufgaben
 einschließlich der für die Tätigkeit erforderlichen Auslagen, soweit
 diese nicht nach § 34 gesondert zu erstatten sind, abgegolten. Für
-weitere Anpassungen (§§ 17 bis 19), eine wesentliche Ausweitung der
-bisherigen Aufgaben des Renten Service im Rahmen der sozialen
+weitere Anpassungen (§§ 17 bis 19), eine wesentliche Ausweitung
+der bisherigen Aufgaben des Renten Service im Rahmen der sozialen
 Sicherung der Rentner (§ 20), die Einholung von Auskünften (§ 23) und
 die Wahrnehmung sonstiger Aufgaben (§ 27) kann der Renten Service ein
 angemessenes zusätzliches Entgelt verlangen; Leistungseinschränkungen
-auf anderen Gebieten sind zu verrechnen. Das zusätzliche Entgelt wird
-für den Bereich der Rentenversicherung durch Vereinbarung zwischen der
-Deutschen Rentenversicherung Bund und dem Renten Service auf der
-Grundlage des § 32 Abs. 2 festgesetzt. Für den Bereich der
-Unfallversicherung gilt Satz 3 entsprechend; an die Stelle der
-Deutschen Rentenversicherung Bund treten die Deutsche Gesetzliche
-Unfallversicherung e. V. und die Sozialversicherung für
+auf anderen Gebieten sind zu verrechnen. Das zusätzliche Entgelt
+wird für den Bereich der Rentenversicherung durch Vereinbarung
+zwischen der Deutschen Rentenversicherung Bund und dem Renten
+Service auf der Grundlage des § 32 Abs. 2 festgesetzt. Für den
+Bereich der Unfallversicherung gilt Satz 3 entsprechend; an die
+Stelle der Deutschen Rentenversicherung Bund treten die Deutsche
+Gesetzliche Unfallversicherung e. V. und die Sozialversicherung für
 Landwirtschaft, Forsten und Gartenbau.
 
 (5) Beschränkt sich die Dienstleistung des Renten Service auf den
-Abgleich der Sterbefallmitteilungen (§ 24 Abs. 1 Satz 1), beträgt das
-Entgelt für jede abzugleichende Rente 0,013 Euro je Bestandsfall und
-Monat.
+Abgleich der Sterbefallmitteilungen (§ 24 Abs. 1 Satz 1), beträgt
+das Entgelt für jede abzugleichende Rente 0,013 Euro je Bestandsfall
+und Monat.
 
 
 ### § 34 Erstattung von Auslagen für die Inanspruchnahme von Dienstleistungen Dritter
@@ -1008,34 +914,26 @@ Rahmen des Erforderlichen
 1.  Entgelte an Geldinstitute und sonstige Dritte für die Auszahlung von
     Geldleistungen,
 
-
 2.  Entgelte an andere Geschäftsbereiche der Deutschen Post AG für die
     Versendung von
 
     a)  Anpassungsmitteilungen und
 
-
     b)  Vordrucken für Lebensbescheinigungen, die nicht im Zusammenhang mit
         einer Anpassung eingeholt werden können und
-
-
-
-
 
 3.  Entgelte an andere Geschäftsbereiche der Deutschen Post AG für die
     Produktion und die Versendung von
 
     a)  Informationen an Rentenbezieher nach § 26a Satz 2 und
 
-
     b)  Ausweisen zum Nachweis der Rentenberechtigung, soweit diese Entgelte
         zusätzlich entstehen.
 
-
-
-
-
-
+Dies gilt auch für die Entgelte in den Fällen, in denen die physische
+Versendung durch digitale Verfahren ersetzt wird, die die Deutsche
+Post AG selbst betreibt oder für die sie Dienstleistungen Dritter in
+Anspruch nimmt.
 
 (2) Der Renten Service hat dafür Sorge zu tragen, daß die Auslagen für
 die Inanspruchnahme von Dienstleistungen Dritter so gering wie möglich
@@ -1047,9 +945,9 @@ gehalten werden.
 (1) Der Anspruch auf Vergütung wird zum Ende eines jeden
 Kalenderjahres fällig.
 
-(2) Auf die Vergütung sind monatlich angemessene Vorschüsse zu zahlen
-(Vergütungsvorschüsse). Die Höhe der Vergütungsvorschüsse wird im
-Benehmen mit dem Renten Service rechtzeitig im Voraus für die
+(2) Auf die Vergütung sind monatlich angemessene Vorschüsse zu
+zahlen (Vergütungsvorschüsse). Die Höhe der Vergütungsvorschüsse
+wird im Benehmen mit dem Renten Service rechtzeitig im Voraus für die
 allgemeine Rentenversicherung von der Deutschen Rentenversicherung
 Bund festgesetzt. Die Vergütungsvorschüsse sind zusammen mit den
 Vorschüssen zur Auszahlung der Geldleistungen fällig.
@@ -1063,7 +961,6 @@ Vorschüssen zur Auszahlung der Geldleistungen fällig.
 
 
 ## Siebtes Kapitel - Schlußvorschriften
-
 
 
 ### § 37

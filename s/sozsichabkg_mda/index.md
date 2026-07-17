@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zu dem Abkommen vom 12. Januar 2017 zwischen der Bundesrepublik Deutschland
-  und der Republik Moldau über Soziale Sicherheit
+Title: Gesetz zu dem Abkommen vom 12. Januar 2017 zwischen der Bundesrepublik Deutschland und der Republik Moldau über Soziale Sicherheit
 jurabk: SozSichAbkG MDA
 layout: default
 origslug: sozsichabkg_mda
@@ -25,9 +24,9 @@ beschlossen:
 
 ## Art 1
 
-Dem in Chișinău am 12. Januar 2017 unterzeichneten Abkommen zwischen
-der Bundesrepublik Deutschland und der Republik Moldau über Soziale
-Sicherheit wird zugestimmt. Das Abkommen wird nachstehend
+Dem in Chișinău am 12. Januar 2017 unterzeichneten Abkommen
+zwischen der Bundesrepublik Deutschland und der Republik Moldau über
+Soziale Sicherheit wird zugestimmt. Das Abkommen wird nachstehend
 veröffentlicht.
 
 
@@ -44,27 +43,17 @@ folgende Gegenstände Regelungen getroffen werden:
     Abkommens befassten Stellen sowie zwischen diesen und den betroffenen
     Personen,
 
-
 2.  das Ausstellen, die Vorlage und die Übermittlung von Bescheinigungen
     sowie die Verwendung von Vordrucken,
-
 
 3.  die Zuständigkeit der Versicherungsträger oder anderer im Abkommen
     genannter Stellen und Behörden.
 
 
-
-
-
 ## Art 3
 
+-   (1) Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 
-*   (1) Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
-
-
-*   (2) Der Tag, an dem das Abkommen nach seinem Artikel 26 Absatz 2 in
+-   (2) Der Tag, an dem das Abkommen nach seinem Artikel 26 Absatz 2 in
     Kraft tritt, ist im Bundesgesetzblatt bekannt zu geben.
-
-
-
 

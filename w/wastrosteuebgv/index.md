@@ -1,6 +1,5 @@
 ---
-Title: Verordnung zum Übergang einer Teilstrecke der Bundeswasserstraße Oste auf das
-  Land Niedersachsen
+Title: Verordnung zum Übergang einer Teilstrecke der Bundeswasserstraße Oste auf das Land Niedersachsen
 jurabk: WaStrOsteÜbgV
 layout: default
 origslug: wastroste_bgv
@@ -20,9 +19,9 @@ Fundstelle
 ## Eingangsformel
 
 Auf Grund des § 2 Absatz 1 Satz 2 in Verbindung mit Absatz 2 des
-Bundeswasserstraßengesetzes in der Fassung der Bekanntmachung vom 23.
-Mai 2007 (BGBl. I S. 962; 2008 I S. 1980) verordnet das
-Bundesministerium für Verkehr, Bau und Stadtentwicklung im
+Bundeswasserstraßengesetzes in der Fassung der Bekanntmachung
+vom 23. Mai 2007 (BGBl. I S. 962; 2008 I S. 1980) verordnet
+das Bundesministerium für Verkehr, Bau und Stadtentwicklung im
 Einvernehmen mit dem Bundesministerium der Finanzen:
 
 
@@ -35,7 +34,6 @@ des Bundes und geht auf das Land Niedersachsen über.
 
 
 ## § 2
-
 
 
 ## § 3

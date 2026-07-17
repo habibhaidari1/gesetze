@@ -1,6 +1,5 @@
 ---
-Title: Zweite Verordnung über die Erhöhung der Zinsen für Darlehen aus Wohnungsfürsorgemitteln
-  des Bundes
+Title: Zweite Verordnung über die Erhöhung der Zinsen für Darlehen aus Wohnungsfürsorgemitteln des Bundes
 jurabk: WoZErhV 2
 layout: default
 origslug: wozerhv_2
@@ -17,13 +16,12 @@ Fundstelle
 :   BGBl I: 1989, 74
 
 
-
 ## Eingangsformel
 
-Auf Grund des § 87a Abs. 5 Satz 3 des Zweiten Wohnungsbaugesetzes in
-der Fassung der Bekanntmachung vom 11. Juli 1985 (BGBl. I S. 1284),
-zuletzt geändert durch Artikel 12 des Haushaltsbegleitgesetzes 1989
-vom 20. Dezember 1988 (BGBl. I S. 2262), verordnet die
+Auf Grund des § 87a Abs. 5 Satz 3 des Zweiten Wohnungsbaugesetzes
+in der Fassung der Bekanntmachung vom 11. Juli 1985 (BGBl. I S.
+1284), zuletzt geändert durch Artikel 12 des Haushaltsbegleitgesetzes
+1989 vom 20. Dezember 1988 (BGBl. I S. 2262), verordnet die
 Bundesregierung:
 
 
@@ -47,8 +45,8 @@ Hundert ermäßigter Zinssatz vertraglich vereinbart worden ist.
 (1) Die Darlehen sind vorbehaltlich des § 3 mit einem Zinssatz von 4,5
 vom Hundert jährlich zu verzinsen.
 
-(2) Die höhere Verzinsung beginnt mit dem auf das Inkrafttreten dieser
-Verordnung folgenden Zahlungsabschnitt (§ 18b Abs. 4 des
+(2) Die höhere Verzinsung beginnt mit dem auf das Inkrafttreten
+dieser Verordnung folgenden Zahlungsabschnitt (§ 18b Abs. 4 des
 Wohnungsbindungsgesetzes).
 
 
@@ -60,10 +58,10 @@ Mehrbelastung 100 Deutsche Mark je Wohnung nicht übersteigt.
 
 ## § 4 Ausschlußfrist
 
-Einwendungen gegen die Auswirkungen der Zinserhöhung nach dieser
-Verordnung können vom Darlehnsschuldner nur innerhalb von sechs
-Monaten seit Zugang der Mitteilung über die Zinserhöhung geltend
-gemacht werden. Die darlehnsverwaltende Stelle hat den
+Einwendungen gegen die Auswirkungen der Zinserhöhung nach
+dieser Verordnung können vom Darlehnsschuldner nur innerhalb von
+sechs Monaten seit Zugang der Mitteilung über die Zinserhöhung
+geltend gemacht werden. Die darlehnsverwaltende Stelle hat den
 Darlehnsschuldner in der Mitteilung über die Höherverzinsung auf die
 Ausschlußfrist hinzuweisen.
 

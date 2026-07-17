@@ -1,7 +1,5 @@
 ---
-Title: Gesetz zu dem Abkommen vom 5. Dezember 2014 zwischen der Bundesrepublik Deutschland
-  und der Republik Polen zum Export besonderer Leistungen für berechtigte Personen,
-  die im Hoheitsgebiet der Republik Polen wohnhaft sind
+Title: Gesetz zu dem Abkommen vom 5. Dezember 2014 zwischen der Bundesrepublik Deutschland und der Republik Polen zum Export besonderer Leistungen für berechtigte Personen, die im Hoheitsgebiet der Republik Polen wohnhaft sind
 jurabk: LEBPAbkG POL
 layout: default
 origslug: lebpabkg_pol
@@ -24,7 +22,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
-## Artikel 1
+## Art 1
 
 Dem in Warschau am 5. Dezember 2014 unterzeichneten Abkommen zwischen
 der Bundesrepublik Deutschland und der Republik Polen zum Export
@@ -33,7 +31,7 @@ der Republik Polen wohnhaft sind, wird zugestimmt. Das Abkommen wird
 nachstehend veröffentlicht.
 
 
-## Artikel 2
+## Art 2
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates die zur Durchführung des Abkommens
@@ -46,19 +44,14 @@ getroffen werden über
     Abkommens befassten Stellen sowie zwischen diesen und den betroffenen
     Personen,
 
-
 2.  das Ausstellen, die Vorlage und Übermittlung von Bescheinigungen sowie
     die Verwendung von Vordrucken,
-
 
 3.  die Zuständigkeit der Versicherungsträger oder anderer im Abkommen
     genannter Stellen und Behörden.
 
 
-
-
-
-## Artikel 3
+## Art 3
 
 (1) Dieses Gesetz tritt am Tag nach der Verkündung in Kraft.
 

@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen
-  Mark (Gedenkmünze Deutsches Archäologisches Institut)
+Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Gedenkmünze Deutsches Archäologisches Institut)
 jurabk: Münz5DMBek 1979-02
 layout: default
 origslug: m_nz5dmbek_1979-02
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 1979, 226
-
 
 
 ## (XXXX)
@@ -42,19 +40,9 @@ schützenden glatten Randstab umgeben.
 klassizistische Darstellung eines Greifen, der die Pranke auf ein
 Gefäß antiker Form setzt, und die Aufschrift:
 
-*
-    *   "150 JAHRE DEUTSCHES ARCHÄOLOGISCHES
+-   -   "150 JAHRE DEUTSCHES ARCHÄOLOGISCHES
 
         ^   INSTITUT 1829 - 1979".
-
-
-
-
-
-
-
-
-
 
 (6) Die Angabe "150 JAHRE" befindet sich über, der andere Teil der
 Aufschrift unter der Greifendarstellung.
@@ -62,19 +50,9 @@ Aufschrift unter der Greifendarstellung.
 (7) Die Wertseite trägt im oberen Teil einen Adler, darunter die
 Aufschrift:
 
-*
-    *   "BUNDESREPUBLIK DEUTSCHLAND
+-   -   "BUNDESREPUBLIK DEUTSCHLAND
 
-        *   5 DEUTSCHE MARK 1979".
-
-
-
-
-
-
-
-
-
+        -   5 DEUTSCHE MARK 1979".
 
 (8) Die in "19" und "79" geteilte Jahreszahl ist beiderseits der
 Wertziffer 5 angebracht. Das Münzzeichen "J" der Hamburgischen Münze
@@ -82,19 +60,13 @@ befindet sich im Bogen der Wertziffer 5.
 
 (9) Der glatte Münzrand enthält die vertiefte Inschrift:
 
-*
-    *   "MONUMENTIS AC LITTERIS".
-
-
-
-
-
-
+-   -   "MONUMENTIS AC LITTERIS".
 
 (10) Zwischen Ende und Anfang der Randschrift ist ein doppelblättriges
 Eichenblattornament mit zwei Eicheln eingeprägt.
 
 (11) Dies wird namens der Bundesregierung bekanntgemacht.
+
 Der Bundesminister der Finanzen
 
 

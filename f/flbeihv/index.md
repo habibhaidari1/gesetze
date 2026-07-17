@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Gewährung von Beihilfen für die private Lagerhaltung von
-  Fleisch und Fleischerzeugnissen von Schweinen, Rindern und Schafen
+Title: Verordnung über die Gewährung von Beihilfen für die private Lagerhaltung von Fleisch und Fleischerzeugnissen von Schweinen, Rindern und Schafen
 jurabk: FlBeihV
 layout: default
 origslug: flbeihv
@@ -23,11 +22,11 @@ Zuletzt geändert durch
 ## Eingangsformel
 
 Auf Grund des § 6 Abs. 1 Nr. 11 und der §§ 9 und 11 Abs. 2 des
-Gesetzes zur Durchführung der gemeinsamen Marktorganisationen vom 31.
-August 1972 (BGBl. I S. 1617), die durch Artikel 38 Nr. 1 des Gesetzes
-vom 18. März 1975 (BGBl. I S. 705) geändert worden sind, sowie auf
-Grund des § 10 Abs. 1 und der §§ 12 und 26 Abs. 2 Nr. 2 des Gesetzes
-zur Durchführung der gemeinsamen Marktorganisationen wird im
+Gesetzes zur Durchführung der gemeinsamen Marktorganisationen vom
+31\. August 1972 (BGBl. I S. 1617), die durch Artikel 38 Nr. 1 des
+Gesetzes vom 18. März 1975 (BGBl. I S. 705) geändert worden sind,
+sowie auf Grund des § 10 Abs. 1 und der §§ 12 und 26 Abs. 2 Nr. 2 des
+Gesetzes zur Durchführung der gemeinsamen Marktorganisationen wird im
 Einvernehmen mit den Bundesministern der Finanzen und für Wirtschaft
 verordnet:
 
@@ -73,8 +72,8 @@ Aufzeichnungen über die eingelagerten Erzeugnisse zu machen.
 
 (2) Der Antragsteller ist verpflichtet, die in Absatz 1 genannten
 Unterlagen und die sich darauf beziehenden geschäftlichen Belege
-aufzubewahren. Die Aufbewahrungspflicht dauert bis zum Ablauf des
-vierten Jahres, das dem Kalenderjahr der Gewährung folgt.
+aufzubewahren. Die Aufbewahrungspflicht dauert bis zum Ablauf
+des vierten Jahres, das dem Kalenderjahr der Gewährung folgt.
 Vorschriften, nach denen eine längere Aufbewahrungspflicht besteht,
 bleiben unberührt.
 
@@ -82,9 +81,9 @@ bleiben unberührt.
 ## § 6 Duldungs- und Mitwirkungspflichten
 
 Der Antragsteller hat während der Geschäfts- und Betriebszeit den
-Beauftragten der Bundesanstalt das Betreten der Lagerräume sowie die
-Aufnahme der Bestände an Fleisch und Fleischerzeugnissen, für deren
-Einlagerung eine Beihilfe gewährt wird, zu gestatten und die
+Beauftragten der Bundesanstalt das Betreten der Lagerräume sowie
+die Aufnahme der Bestände an Fleisch und Fleischerzeugnissen, für
+deren Einlagerung eine Beihilfe gewährt wird, zu gestatten und die
 erforderliche Unterstützung zu gewähren sowie bei automatischer
 Buchführung auf seine Kosten Listen mit den erforderlichen Angaben
 auszudrucken, soweit dies die Beauftragten der Bundesanstalt

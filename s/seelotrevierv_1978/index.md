@@ -22,8 +22,8 @@ Zuletzt geändert durch
 ## Eingangsformel
 
 Auf Grund des § 50 Abs. 2, der §§ 53 und 58 Abs. 1 Nr. 1 und 3 des
-Gesetzes über das Seelotswesen in der im Bundesgesetzblatt Teil III,
-Gliederungsnummer 9515-1, veröffentlichten bereinigten Fassung,
+Gesetzes über das Seelotswesen in der im Bundesgesetzblatt Teil
+III, Gliederungsnummer 9515-1, veröffentlichten bereinigten Fassung,
 zuletzt geändert durch Artikel 2 des Gesetzes vom 10. Mai 1978 (BGBl.
 I S. 613), wird verordnet:
 
@@ -33,8 +33,8 @@ I S. 613), wird verordnet:
 (1) Bewerber um eine Erlaubnis zur gewerbsmäßigen Ausübung der
 Tätigkeit eines Seelotsen über See (Überseelotse) oder auf einer
 Seeschiffahrtstraße, die nicht zu den Revieren gehört, müssen die
-Voraussetzungen des §
-12 Abs. 2              des Gesetzes über das Seelotswesen erfüllen.
+Voraussetzungen des § *12 Abs. 2* des Gesetzes über das Seelotswesen
+erfüllen.
 
 (2) Für die nachstehend aufgeführten Fahrtgebiete reichen folgende
 Anforderungen an den Grad des Befähigungszeugnisses aus:
@@ -44,15 +44,11 @@ Anforderungen an den Grad des Befähigungszeugnisses aus:
     Ostfriesischen Inseln mit Ausnahme von Borkum und zu den Häfen der
     ostfriesischen Küste das Befähigungszeugnis AKü oder BKü;
 
-
 2.  für die Fahrt auf der Lesum, Hunte, Oste, Schwinge, Este, Lühe, Stör,
     Krückau, Pinnau, Hever, Eider, zwischen der schleswig-holsteinischen
-    Westküste und Helgoland, auf der Schlei, dem Fehmarnsund sowie auf den
-    Zufahrten zu den Häfen Heiligenhafen, Orth/Fehmarn,
-    Burgstaaken/Fehmarn und Neustadt das Befähigungszeugnis AK oder BK.
-
-
-
+    Westküste und Helgoland, auf der Schlei, dem Fehmarnsund sowie auf
+    den Zufahrten zu den Häfen Heiligenhafen, Orth/Fehmarn, Burgstaaken/
+    Fehmarn und Neustadt das Befähigungszeugnis AK oder BK.
 
 (3) In besonderen Fällen kann die Aufsichtsbehörde zeitlich begrenzte
 Ausnahmen von den Bestimmungen der Absätze 1 und 2 zulassen.
@@ -66,8 +62,8 @@ mündlichen Prüfung vor der Aufsichtsbehörde nachweisen. Die Prüfung
 wird von einem Prüfungsausschuß abgenommen, der aus drei Mitgliedern
 besteht.
 
-(2) Die Bewerber haben dem Prüfungsausschuß nachzuweisen, daß sie
-sowohl die erforderlichen theoretischen Kenntnisse als auch
+(2) Die Bewerber haben dem Prüfungsausschuß nachzuweisen, daß
+sie sowohl die erforderlichen theoretischen Kenntnisse als auch
 ausreichende praktische Erfahrungen auf den Fahrtstrecken oder in den
 Seegebieten besitzen, auf denen sie ihr Gewerbe ausüben wollen.
 
@@ -79,64 +75,46 @@ Fahrtstrecke oder das jeweilige Seegebiet in Betracht kommen:
     Lotsenversetzpositionen, Grenzen der nationalen Seelotsreviere und
     Nachrichtenverbindungen der Seelotsen;
 
-
 2.  verkehrs- und schiffahrtsrechtliche Vorschriften;
-
 
 3.  Schiffahrtswege und Verkehrstrennungsgebiete;
 
-
 4.  Betonnung und Befeuerung einschließlich Schall- und Funksignale;
-
 
 5.  Kurse und Distanzen;
 
-
-6.  örtliche Wassertiefen, Besonderheiten wie Hindernisse, Ankerplätze und
-    Küstengestalt;
-
+6.  örtliche Wassertiefen, Besonderheiten wie Hindernisse, Ankerplätze
+    und Küstengestalt;
 
 7.  Stromverhältnisse und Gezeiten;
 
-
 8.  meteorologische Verhältnisse einschließlich Wind- und Sturmwarndienst;
 
-
 9.  nautische Nachrichten- und Warndienste;
-
 
 10. funktechnische Hilfsmittel für Navigation und Nachrichtenübermittlung,
     insbesondere Radar und Sprechfunk;
 
-
 11. Such- und Rettungswesen;
 
-
 12. Gesundheitsvorschriften.
-
-
-
 
 (4) Bewerber um eine Erlaubnis als Überseelotse haben zum Nachweis
 ihrer Kenntnisse in der Prüfung außerdem ein Brückenbuch sowie eine
 Teilnahmebescheinigung an einem Schiffsführungs- und Radarsimulator-
-Lehrgang vorzulegen. Das Brückenbuch ist ein nautisches Merkbuch, das
-als Loseblattsammlung im Format DIN A 4 zu führen ist. Es soll neben
-Angaben zu den Prüfungsgegenständen insbesondere folgende
+Lehrgang vorzulegen. Das Brückenbuch ist ein nautisches Merkbuch,
+das als Loseblattsammlung im Format DIN A 4 zu führen ist. Es soll
+neben Angaben zu den Prüfungsgegenständen insbesondere folgende
 Informationen enthalten:
 
 1.  wichtige Seekartenausschnitte;
 
-
 2.  wichtige Nachrichten für Seefahrer;
 
+3.  *IMCO*-Seefahrt-Standardvokabular.
 
-3.  IMCO                   -Seefahrt-Standardvokabular.
-
-
-
-Die Teilnahme an einem Schiffsführungs- und Radarsimulator-Lehrgang
-soll nicht länger als 12 Monate zurückliegen; sie ist nicht
+Die Teilnahme an einem Schiffsführungs- und Radarsimulator-
+Lehrgang soll nicht länger als 12 Monate zurückliegen; sie ist nicht
 erforderlich, wenn der Bewerber gleichwertige Berufserfahrungen
 nachweist.
 
@@ -145,8 +123,8 @@ nachweist.
 
 (1) Das Ergebnis der Prüfung ist mit "bestanden" oder "nicht
 bestanden" zu bewerten. Es ist dem Bewerber im Anschluß an die
-Beratung bekanntzugeben. Über jede Prüfung ist eine Niederschrift zu
-fertigen.
+Beratung bekanntzugeben. Über jede Prüfung ist eine Niederschrift
+zu fertigen.
 
 (2) Besteht ein Bewerber die Prüfung nicht, so kann diese einmal
 wiederholt werden, und zwar frühestens nach Ablauf eines Monats.
@@ -155,10 +133,10 @@ wiederholt werden, und zwar frühestens nach Ablauf eines Monats.
 ## § 4
 
 (1) Nach bestandener Prüfung ist dem Bewerber eine Erlaubnis zu
-erteilen. Die Erlaubnis kann mit Auflagen verbunden werden, durch die
-sichergestellt wird, daß der Seelotse die Voraussetzungen für die
-Erteilung einer Erlaubnis einhält, insbesondere dafür sorgt, daß er
-seine für die Lotstätigkeit erforderlichen Kenntnisse auf dem
+erteilen. Die Erlaubnis kann mit Auflagen verbunden werden, durch
+die sichergestellt wird, daß der Seelotse die Voraussetzungen für
+die Erteilung einer Erlaubnis einhält, insbesondere dafür sorgt,
+daß er seine für die Lotstätigkeit erforderlichen Kenntnisse auf dem
 laufenden hält. Außerdem ist ihm ein Lotsenausweis nach dem Muster der
 Anlage 1 oder 2 auszuhändigen.
 
@@ -194,8 +172,7 @@ gültig. Ein Umtausch der Ausweise ist möglich.
 ## § 8
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
-Verbindung mit §
-61              des Gesetzes über das Seelotswesen auch im Land
+Verbindung mit § *61* des Gesetzes über das Seelotswesen auch im Land
 Berlin.
 
 
@@ -208,15 +185,17 @@ Diese Verordnung tritt am 1. September 1978 in Kraft.
 
 Der Bundesminister für Verkehr
 
-(zu § 4 Abs. 1)
 
-## Anlage 1 Ausweis für Überseelotsen
+## Anlage 1 (zu § 4 Abs. 1)Ausweis für Überseelotsen
 
 (Fundstelle: BGBl. I 1978, 1517)
-![bgbl1_1978_j1517_0010.jpg](bgbl1_1978_j1517_0010.jpg)
-(zu § 4 Abs. 1)
 
-## Anlage 2 Ausweis für Seelotsen auf Seeschiffahrtstraßen außerhalb der Reviere
+![bgbl1_1978_j1517_0010.jpg](bgbl1_1978_j1517_0010.jpg)
+
+
+## Anlage 2 (zu § 4 Abs. 1)Ausweis für Seelotsen auf Seeschiffahrtstraßen außerhalb der Reviere
 
 (Fundstelle: BGBl. I 1978, 1518)
+
 ![bgbl1_1978_j1518_0010.jpg](bgbl1_1978_j1518_0010.jpg)
+

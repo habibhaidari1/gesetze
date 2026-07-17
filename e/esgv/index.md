@@ -31,8 +31,8 @@ Einvernehmen mit dem Bundesministerium der Finanzen:
 
 ## § 1 Einzelfallbezogene Bemessung des Einstiegsgeldes
 
-(1) Bei der einzelfallbezogenen Bemessung des Einstiegsgeldes ist ein
-monatlicher Grundbetrag zu bestimmen, dem Ergänzungsbeträge
+(1) Bei der einzelfallbezogenen Bemessung des Einstiegsgeldes ist
+ein monatlicher Grundbetrag zu bestimmen, dem Ergänzungsbeträge
 hinzugefügt werden sollen. Der monatliche Grundbetrag berücksichtigt
 den für erwerbsfähige Leistungsberechtigte jeweils maßgebenden
 Regelbedarf. Die Ergänzungsbeträge berücksichtigen die vorherige Dauer
@@ -46,9 +46,9 @@ Bemessung kann festgelegt werden, dass sich die Höhe des Grundbetrages
 innerhalb des Förderzeitraums in Abhängigkeit von der Förderdauer
 verändert.
 
-(3) Bei erwerbsfähigen Leistungsberechtigten, die vor Aufnahme der mit
-Einstiegsgeld geförderten sozialversicherungspflichtigen oder
-selbständigen Erwerbstätigkeit bereits zwei Jahre oder länger
+(3) Bei erwerbsfähigen Leistungsberechtigten, die vor Aufnahme
+der mit Einstiegsgeld geförderten sozialversicherungspflichtigen
+oder selbständigen Erwerbstätigkeit bereits zwei Jahre oder länger
 arbeitslos waren, soll ein Ergänzungsbetrag gezahlt werden. Der
 Ergänzungsbetrag entspricht 20 vom Hundert des Regelbedarfs zur
 Sicherung des Lebensunterhalts nach § 20 Absatz 2 Satz 1 des Zweiten
@@ -61,8 +61,8 @@ Absatz 2 des Dritten Buches Sozialgesetzbuch gilt für Satz 1 und Satz
 
 (4) Bei erwerbsfähigen Leistungsberechtigten, die mit weiteren
 Personen in einer Bedarfsgemeinschaft leben, soll je weiterer
-leistungsberechtigter Person ein Ergänzungsbetrag gezahlt werden. Der
-Ergänzungsbetrag entspricht 10 vom Hundert des Regelbedarfs zur
+leistungsberechtigter Person ein Ergänzungsbetrag gezahlt werden.
+Der Ergänzungsbetrag entspricht 10 vom Hundert des Regelbedarfs zur
 Sicherung des Lebensunterhalts nach § 20 Absatz 2 Satz 1 des Zweiten
 Buches Sozialgesetzbuch.
 
@@ -77,8 +77,8 @@ entspricht.
 
 (1) Das Einstiegsgeld kann abweichend von § 1 pauschal bemessen
 werden, wenn dies zur Eingliederung von besonders zu fördernden
-Personengruppen in den allgemeinen Arbeitsmarkt erforderlich ist. Bei
-der Bemessung kann festgelegt werden, dass sich die Höhe des
+Personengruppen in den allgemeinen Arbeitsmarkt erforderlich ist.
+Bei der Bemessung kann festgelegt werden, dass sich die Höhe des
 Einstiegsgeldes innerhalb des Förderzeitraums in Abhängigkeit von der
 Förderdauer verändert.
 

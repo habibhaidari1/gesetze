@@ -1,7 +1,5 @@
 ---
-Title: Verordnung über den Sachverständigenausschuss bei der Bundesanstalt für Landwirtschaft
-  und Ernährung zur Bewertung beabsichtigter Informationen über die Auswirkungen des
-  Weinkonsums auf die Gesundheit und das Verhalten
+Title: Verordnung über den Sachverständigenausschuss bei der Bundesanstalt für Landwirtschaft und Ernährung zur Bewertung beabsichtigter Informationen über die Auswirkungen des Weinkonsums auf die Gesundheit und das Verhalten
 jurabk: WeinASachV
 layout: default
 origslug: weinasachv
@@ -20,9 +18,9 @@ Fundstelle
 
 ## Eingangsformel
 
-Auf Grund des § 3c Absatz 2 Satz 1 des Weingesetzes in der Fassung der
-Bekanntmachung vom 18. Januar 2011 (BGBl. I S. 66), der durch Artikel
-1 Nummer 6 des Gesetzes vom 2. Oktober 2014 (BGBl. I S. 1586)
+Auf Grund des § 3c Absatz 2 Satz 1 des Weingesetzes in der Fassung
+der Bekanntmachung vom 18. Januar 2011 (BGBl. I S. 66), der durch
+Artikel 1 Nummer 6 des Gesetzes vom 2. Oktober 2014 (BGBl. I S. 1586)
 eingefügt worden ist, verordnet das Bundesministerium für Ernährung
 und Landwirtschaft im Einvernehmen mit dem Bundesministerium für
 Gesundheit:
@@ -38,13 +36,13 @@ für Gesundheit für vier Jahre. Die Wiederberufung ist zulässig.
 (2) Für jedes Mitglied ist ein Ersatzmitglied nach dem Verfahren des
 Absatzes 1 zu bestellen. Scheidet ein Mitglied vorzeitig aus, tritt
 das Ersatzmitglied an die Stelle des ausgeschiedenen Mitglieds. Die
-Mitgliedschaft des Ersatzmitglieds endet zu dem Zeitpunkt, an dem die
-Mitgliedschaft des ausgeschiedenen Mitglieds nach Absatz 1 Satz 1
+Mitgliedschaft des Ersatzmitglieds endet zu dem Zeitpunkt, an dem
+die Mitgliedschaft des ausgeschiedenen Mitglieds nach Absatz 1 Satz 1
 ordnungsgemäß geendet hätte.
 
-(3) Ein Mitglied kann sich für die Dauer einer Abwesenheit bei einer
-Sitzung des Sachverständigenausschusses durch das für ihn benannte
-Ersatzmitglied vertreten lassen. Der Vertretungsfall ist der
+(3) Ein Mitglied kann sich für die Dauer einer Abwesenheit bei
+einer Sitzung des Sachverständigenausschusses durch das für ihn
+benannte Ersatzmitglied vertreten lassen. Der Vertretungsfall ist der
 Bundesanstalt vor der Sitzung bekannt zu geben.
 
 
@@ -59,14 +57,14 @@ und das Verhalten im Hinblick darauf, ob sie auf allgemein anerkannten
 wissenschaftlichen Daten beruhen (Informationen), befassen kann.
 
 (2) Zur Vorbereitung der Sitzungen werden die der Bundesanstalt zur
-Genehmigung vorliegenden Informationen den Mitgliedern mindestens eine
-Woche vor der Sitzung übersandt. Im Vertretungsfalle können die
-Informationen auch noch später, spätestens unmittelbar nach
+Genehmigung vorliegenden Informationen den Mitgliedern mindestens
+eine Woche vor der Sitzung übersandt. Im Vertretungsfalle können
+die Informationen auch noch später, spätestens unmittelbar nach
 Bekanntgabe des Vertretungsfalles, dem Ersatzmitglied übersandt
 werden.
 
-(3) Der Sachverständigenausschuss gibt in der Regel sein Votum zu den
-Informationen in der Sitzung ab, für die den Mitgliedern die
+(3) Der Sachverständigenausschuss gibt in der Regel sein Votum zu
+den Informationen in der Sitzung ab, für die den Mitgliedern die
 Informationen vorgelegt worden sind. Ausnahmsweise, insbesondere bei
 schwierigen Fragestellungen oder besonders umfangreichen Unterlagen,
 kann das Votum auch in einer späteren Sitzung abgegeben werden. Die
@@ -75,10 +73,10 @@ erstmaliger Befassung durchgeführt werden.
 
 (4) Die Bundesanstalt fertigt über jede Sitzung eine Niederschrift,
 die den Mitgliedern spätestens zwei Wochen nach der Sitzung
-übermittelt wird. Jedes Mitglied oder Ersatzmitglied, das jeweils an
-der Sitzung teilgenommen hat, hat das Recht, den Inhalt der
-Niederschrift innerhalb einer Woche nach Eingang zu beanstanden. Über
-die Beanstandung wird in der nächsten Sitzung des
+übermittelt wird. Jedes Mitglied oder Ersatzmitglied, das
+jeweils an der Sitzung teilgenommen hat, hat das Recht, den
+Inhalt der Niederschrift innerhalb einer Woche nach Eingang zu
+beanstanden. Über die Beanstandung wird in der nächsten Sitzung des
 Sachverständigenausschusses befunden.
 
 

@@ -16,41 +16,14 @@ Fundstelle
 :   BGBl I: 1995, 1164
 
 
-
 ## (XXXX)
 
 Gemäß § 81 Abs. 1 des Bundesbeamtengesetzes setze ich folgende
 Amtsbezeichnung fest:
 
-*
-    *
-        *
-            *
-                *
-                    *
-                        *   "Kurator
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+-   -   -   -   -   -   -   "Kurator
 
     der Museumsstiftung Post und Telekommunikation".
-
-
 
 Der Bundespräsident
 

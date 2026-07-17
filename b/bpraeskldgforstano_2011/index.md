@@ -1,6 +1,5 @@
 ---
-Title: Anordnung des Bundespräsidenten über den Erlass von Bestimmungen über die Dienstkleidung
-  der Beamtinnen und Beamten der Sparte Bundesforst der Bundesanstalt für Immobilienaufgaben
+Title: Anordnung des Bundespräsidenten über den Erlass von Bestimmungen über die Dienstkleidung der Beamtinnen und Beamten der Sparte Bundesforst der Bundesanstalt für Immobilienaufgaben
 jurabk: BPräsKldgForstAnO 2011
 layout: default
 origslug: bpr_skldgforstano_2011
@@ -22,8 +21,8 @@ Fundstelle
 Nach § 74 des Bundesbeamtengesetzes übertrage ich der Sprecherin oder
 dem Sprecher des Vorstands der Bundesanstalt für Immobilienaufgaben
 die Befugnis, im Einvernehmen mit dem Bundesministerium der Finanzen
-Bestimmungen über die Dienstkleidung der Beamtinnen und Beamten der
-Sparte Bundesforst der Bundesanstalt für Immobilienaufgaben zu
+Bestimmungen über die Dienstkleidung der Beamtinnen und Beamten
+der Sparte Bundesforst der Bundesanstalt für Immobilienaufgaben zu
 erlassen.
 
 

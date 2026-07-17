@@ -16,16 +16,12 @@ Fundstelle
 :   BGBl I: 1974, 749
 
 
-
 ## (XXXX)
 
 Gemäß § 81 Abs. 1 des Bundesbeamtengesetzes setze ich folgende
 Amtsbezeichnung fest:
 
-*   Direktor des Bundesinstituts
+-   Direktor des Bundesinstituts
 
     für Bevölkerungsforschung.
-
-
-
 

@@ -27,12 +27,11 @@ Zuletzt geändert durch
 ## § 2 (weggefallen)
 
 
-
 ## § 3 Durchleiten von Wasser
 
 Über das Durchleiten von Wasser für wasserwirtschaftliche und
-landeskulturelle Zwecke durch die Wasserstraßen nach § 1 Abs. 1 Nr. 1
-und 2 und die damit zusammenhängenden Fragen werden Bund und Bayern
+landeskulturelle Zwecke durch die Wasserstraßen nach § 1 Abs. 1 Nr.
+1 und 2 und die damit zusammenhängenden Fragen werden Bund und Bayern
 eine gesonderte Vereinbarung treffen.
 
 

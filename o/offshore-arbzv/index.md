@@ -33,19 +33,15 @@ und Stadtentwicklung:
 ### § 1 Geltungsbereich
 
 Diese Verordnung gilt im Küstenmeer sowie in der ausschließlichen
-Wirtschaftszone der Bundesrepublik Deutschland sowie auf Schiffen, von
-denen aus Offshore-Tätigkeiten im Sinne des § 15 Absatz 2a des
-Arbeitszeitgesetzes oder des § 55 Satz 1 Nummer 3 des
+Wirtschaftszone der Bundesrepublik Deutschland sowie auf Schiffen,
+von denen aus Offshore-Tätigkeiten im Sinne des § 15 Absatz
+2a des Arbeitszeitgesetzes oder des § 55 Satz 1 Nummer 3 des
 Seearbeitsgesetzes durchgeführt werden für
 
 1.  Arbeitnehmerinnen und Arbeitnehmer, die Offshore-Tätigkeiten im Sinne
     des § 15 Absatz 2a des Arbeitszeitgesetzes durchführen,
 
-
 2.  Besatzungsmitglieder im Sinne des § 3 Absatz 1 des Seearbeitsgesetzes.
-
-
-
 
 
 ## Abschnitt 2 - Vorschriften für Arbeitnehmerinnen und Arbeitnehmer, die Offshore-Tätigkeiten durchführen
@@ -53,15 +49,15 @@ Seearbeitsgesetzes durchgeführt werden für
 
 ### § 2 Anwendung des Arbeitszeitgesetzes
 
-Für die Beschäftigung von Arbeitnehmerinnen und Arbeitnehmern im Sinne
-von § 1 Nummer 1 ist das Arbeitszeitgesetz anzuwenden, soweit im
+Für die Beschäftigung von Arbeitnehmerinnen und Arbeitnehmern im
+Sinne von § 1 Nummer 1 ist das Arbeitszeitgesetz anzuwenden, soweit im
 Folgenden nichts anderes geregelt ist.
 
 
 ### § 3 Arbeitszeit
 
-(1) Die tägliche Arbeitszeit darf abweichend von den §§ 3, 6 Absatz 2
-und § 11 Absatz 2 des Arbeitszeitgesetzes auf bis zu zwölf Stunden
+(1) Die tägliche Arbeitszeit darf abweichend von den §§ 3, 6 Absatz
+2 und § 11 Absatz 2 des Arbeitszeitgesetzes auf bis zu zwölf Stunden
 verlängert werden.
 
 (2) Unterfallen die an einem Tag geleisteten Tätigkeiten nicht
@@ -87,11 +83,11 @@ und Arbeitnehmer an Sonntagen und Feiertagen beschäftigt werden.
 
 (1) Arbeitgeber haben dafür zu sorgen, dass Arbeitnehmerinnen und
 Arbeitnehmer nicht mehr als 21 unmittelbar aufeinander folgende Tage
-auf See verbringen. Dabei dürfen Arbeitnehmerinnen und Arbeitnehmer an
-nicht mehr als an sieben Tagen, davon jeweils höchstens zwei
+auf See verbringen. Dabei dürfen Arbeitnehmerinnen und Arbeitnehmer
+an nicht mehr als an sieben Tagen, davon jeweils höchstens zwei
 unmittelbar aufeinander folgende Tage, mit einer verlängerten
-täglichen Arbeitszeit nach § 3 Absatz 1 über zehn Stunden hinaus mit
-Offshore-Tätigkeiten beschäftigt werden. Arbeitgeber haben
+täglichen Arbeitszeit nach § 3 Absatz 1 über zehn Stunden hinaus
+mit Offshore-Tätigkeiten beschäftigt werden. Arbeitgeber haben
 sicherzustellen, dass die tägliche Arbeitszeit im Zeitraum nach Satz 1
 im Durchschnitt zehn Stunden nicht überschreitet.
 
@@ -104,15 +100,15 @@ Tätigkeiten beschäftigt werden.
 
 ### § 7 Ausgleich von Mehrarbeit und für Sonntags- und Feiertagsbeschäftigung
 
-(1) Jede Arbeitszeitverlängerung bei Offshore-Tätigkeiten über acht
-Stunden täglich hinaus (Mehrarbeit) ist durch freie Tage
+(1) Jede Arbeitszeitverlängerung bei Offshore-Tätigkeiten über
+acht Stunden täglich hinaus (Mehrarbeit) ist durch freie Tage
 auszugleichen. Für jeweils volle acht Stunden Mehrarbeit ist ein
 freier Tag zu gewähren.
 
-(2) Wird die Arbeitszeit nach § 3 Absatz 1 an mehr als zwei Tagen über
-zehn Stunden hinaus verlängert, ist den Arbeitnehmerinnen und
-Arbeitnehmern unmittelbar im Anschluss an die Zeiträume nach § 6 eine
-ununterbrochene Freistellungsphase zu gewähren. In der
+(2) Wird die Arbeitszeit nach § 3 Absatz 1 an mehr als zwei Tagen
+über zehn Stunden hinaus verlängert, ist den Arbeitnehmerinnen
+und Arbeitnehmern unmittelbar im Anschluss an die Zeiträume nach
+§ 6 eine ununterbrochene Freistellungsphase zu gewähren. In der
 Freistellungsphase sind die Ersatzruhetage für Sonntagsbeschäftigung
 in den Zeiträumen nach § 6 zu gewähren sowie mindestens die über zehn
 Stunden täglich hinausgehende Mehrarbeit als freie Tage auszugleichen.
@@ -126,12 +122,12 @@ Offshore-Tätigkeit stehen.
 Sonntag abweichend von § 11 Absatz 3 des Arbeitszeitgesetzes innerhalb
 von drei Wochen nach dem Beschäftigungstag zu gewähren.
 
-(5) Freie Tage zum Ausgleich von Mehrarbeit oder Ersatzruhetage für
-die Beschäftigung an Sonntagen und Feiertagen sind an Land zu
+(5) Freie Tage zum Ausgleich von Mehrarbeit oder Ersatzruhetage
+für die Beschäftigung an Sonntagen und Feiertagen sind an Land zu
 gewähren.
 
-(6) Insgesamt darf die Arbeitszeit abweichend von §§ 3, 6 Absatz 2 und
-§ 11 Absatz 2 des Arbeitszeitgesetzes wöchentlich 48 Stunden im
+(6) Insgesamt darf die Arbeitszeit abweichend von §§ 3, 6 Absatz 2
+und § 11 Absatz 2 des Arbeitszeitgesetzes wöchentlich 48 Stunden im
 Durchschnitt von zwölf Kalendermonaten nicht überschreiten.
 
 
@@ -157,8 +153,8 @@ entsprechend anzuwenden.
 (2) Arbeitgeber haben sicherzustellen, dass an einem Tag mit
 Transportzeit die Arbeitszeit und die Transportzeit zusammen 14
 Stunden nicht überschreiten. Dieser Zeitraum darf nur überschritten
-werden, wenn sich die planmäßige Transportzeit bei der Rückfahrt zum
-Land auf Grund außergewöhnlicher, nicht vom Arbeitgeber zu
+werden, wenn sich die planmäßige Transportzeit bei der Rückfahrt
+zum Land auf Grund außergewöhnlicher, nicht vom Arbeitgeber zu
 vertretender Umstände verlängert. An Tagen nach Satz 1 darf die
 tägliche Ruhezeit abweichend von § 5 Absatz 1 des Arbeitszeitgesetzes
 um die Dauer der Transportzeit, aber höchstens um zwei Stunden
@@ -166,23 +162,23 @@ verkürzt werden. Fallen an einzelnen Tagen nur Transportzeiten an, so
 können die Zeiträume nach § 6 um diese Tage verlängert werden.
 
 (3) Die Absätze 1 und 2 sind nicht anzuwenden, wenn die
-ununterbrochene Transportzeit mindestens sechs Stunden beträgt und den
-Arbeitnehmerinnen oder Arbeitnehmern während der an Bord eines
+ununterbrochene Transportzeit mindestens sechs Stunden beträgt und
+den Arbeitnehmerinnen oder Arbeitnehmern während der an Bord eines
 Schiffes verbrachten Transportzeit geeignete Schlafplätze in einer
 Schlafkabine zur Verfügung stehen.
 
 
 ### § 10 Weitere Arbeitsschutzmaßnahmen
 
-(1) Arbeitnehmerinnen und Arbeitnehmer, die an mindestens 48 Tagen im
-Kalenderjahr mit Offshore-Tätigkeiten beschäftigt werden, sind
-berechtigt, sich vor Beginn der Beschäftigung und danach in
-regelmäßigen Zeitabständen von nicht weniger als drei Jahren
+(1) Arbeitnehmerinnen und Arbeitnehmer, die an mindestens 48
+Tagen im Kalenderjahr mit Offshore-Tätigkeiten beschäftigt werden,
+sind berechtigt, sich vor Beginn der Beschäftigung und danach
+in regelmäßigen Zeitabständen von nicht weniger als drei Jahren
 arbeitsmedizinisch untersuchen zu lassen. Nach Vollendung des 50.
-Lebensjahres steht ihnen dieses Recht in Zeitabständen von einem Jahr
-zu. Die Kosten der Untersuchungen hat der Arbeitgeber zu tragen,
-sofern er die Untersuchungen nicht kostenlos durch eine Betriebsärztin
-oder einen Betriebsarzt oder einen überbetrieblichen
+Lebensjahres steht ihnen dieses Recht in Zeitabständen von einem
+Jahr zu. Die Kosten der Untersuchungen hat der Arbeitgeber zu
+tragen, sofern er die Untersuchungen nicht kostenlos durch eine
+Betriebsärztin oder einen Betriebsarzt oder einen überbetrieblichen
 betriebsärztlichen Dienst anbietet.
 
 (2) Der Arbeitgeber hat eine Arbeitnehmerin oder einen Arbeitnehmer
@@ -250,10 +246,10 @@ Seearbeitsgesetzes anzuwenden.
 ### § 15 Weitere Arbeitsschutzmaßnahmen
 
 Diese Verordnung lässt sonstige Arbeitsschutzvorschriften unberührt.
-Bei der Gefährdungsbeurteilung nach § 114 des Seearbeitsgesetzes in
-Verbindung mit § 5 des Arbeitsschutzgesetzes hat der Reeder
-insbesondere die Belastungen durch eine Arbeitszeitverlängerung unter
-Einbeziehung der erschwerten Arbeitsbedingungen bei Offshore-
+Bei der Gefährdungsbeurteilung nach § 114 des Seearbeitsgesetzes
+in Verbindung mit § 5 des Arbeitsschutzgesetzes hat der Reeder
+insbesondere die Belastungen durch eine Arbeitszeitverlängerung
+unter Einbeziehung der erschwerten Arbeitsbedingungen bei Offshore-
 Tätigkeiten zu berücksichtigen.
 
 
@@ -270,8 +266,8 @@ Gesundheit der Beschäftigten erforderlichen Maßnahmen bestimmen.
 
 ### § 17 Evaluierung
 
-Diese Verordnung wird nach Ablauf von drei Jahren evaluiert, um zu
-prüfen, ob die Ausgleichsmaßnahmen für die vorgenommenen
+Diese Verordnung wird nach Ablauf von drei Jahren evaluiert,
+um zu prüfen, ob die Ausgleichsmaßnahmen für die vorgenommenen
 Ausnahmeregelungen nach Art und Umfang angemessen sind und ob das
 Niveau des allgemeinen Arbeits- und Gesundheitsschutzes, den das
 Arbeitszeitgesetz garantieren soll, auch tatsächlich eingehalten wird.
@@ -287,33 +283,25 @@ fahrlässig
     Arbeitnehmerin oder ein Arbeitnehmer nicht mehr als 21 unmittelbar
     aufeinander folgende Tage auf See verbringt,
 
-
 2.  entgegen § 6 Absatz 1 Satz 2 oder Absatz 2, jeweils auch in Verbindung
     mit § 9 Absatz 1 Satz 4, eine Arbeitnehmerin oder einen Arbeitnehmer
     beschäftigt,
 
-
-3.  entgegen § 6 Absatz 1 Satz 3, auch in Verbindung mit § 9 Absatz 1 Satz
-    4, nicht sicherstellt, dass die tägliche Arbeitszeit zehn Stunden
+3.  entgegen § 6 Absatz 1 Satz 3, auch in Verbindung mit § 9 Absatz 1
+    Satz 4, nicht sicherstellt, dass die tägliche Arbeitszeit zehn Stunden
     nicht überschreitet,
-
 
 4.  entgegen § 7 Absatz 1 Satz 2, Absatz 2, 4 oder Absatz 5, jeweils auch
     in Verbindung mit § 9 Absatz 1 Satz 4, einer Arbeitnehmerin oder einem
     Arbeitnehmer den vorgeschriebenen Ausgleich nicht, nicht richtig,
     nicht vollständig oder nicht rechtzeitig gewährt,
 
-
 5.  entgegen § 8, auch in Verbindung mit § 9 Absatz 1 Satz 4, eine
     Aufzeichnung nicht, nicht richtig oder nicht rechtszeitig erstellt
     oder
 
-
 6.  entgegen § 9 Absatz 2 Satz 1 nicht sicherstellt, dass der dort
     genannte Zeitraum nicht überschritten wird.
-
-
-
 
 
 ### § 19 Hinweis auf Straf- und Bußgeldvorschriften des Seearbeitsgesetzes
@@ -332,5 +320,4 @@ Diese Verordnung tritt am 1. August 2013 in Kraft.
 ### Schlussformel
 
 Der Bundesrat hat zugestimmt.
-
 

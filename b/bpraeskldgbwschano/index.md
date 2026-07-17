@@ -1,6 +1,5 @@
 ---
-Title: Anordnung des Bundespräsidenten über den Erlaß von Bestimmungen für die Dienstkleidung
-  der beamteten Besatzungsangehörigen auf Hilfsschiffen der Bundeswehr
+Title: Anordnung des Bundespräsidenten über den Erlaß von Bestimmungen für die Dienstkleidung der beamteten Besatzungsangehörigen auf Hilfsschiffen der Bundeswehr
 jurabk: BPräsKldgBWSchAnO
 layout: default
 origslug: bpr_skldgbwschano
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 1970, 672
-
 
 
 ## (XXXX)

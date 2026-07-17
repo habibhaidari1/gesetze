@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zu dem Haager Übereinkommen vom 5. Oktober 1961 zur Befreiung ausländischer
-  öffentlicher Urkunden von der Legalisation
+Title: Gesetz zu dem Haager Übereinkommen vom 5. Oktober 1961 zur Befreiung ausländischer öffentlicher Urkunden von der Legalisation
 jurabk: UrkBefrÜbkG Haag
 layout: default
 origslug: urkbefr_bkg_haag
@@ -45,14 +44,14 @@ werden.
 
 (2) Die Bundesregierung oder die von ihr ermächtigte oberste
 Bundesbehörde kann zur Deckung der Verwaltungskosten durch
-Rechtsverordnung die für die Ausstellung der Apostille und für die
-Prüfung nach Artikel 7 Absatz 2 des Übereinkommens von den
+Rechtsverordnung die für die Ausstellung der Apostille und für
+die Prüfung nach Artikel 7 Absatz 2 des Übereinkommens von den
 Antragstellern zu erhebenden Kosten festsetzen, soweit die Kosten
 nicht auf Grund anderer Rechtsvorschriften erhoben werden können.
 
 (3) Rechtsverordnungen der Bundesregierung oder der von ihr
-ermächtigten obersten Bundesbehörden bedürfen nicht der Zustimmung des
-Bundesrates.
+ermächtigten obersten Bundesbehörden bedürfen nicht der Zustimmung
+des Bundesrates.
 
 (4) Das Übereinkommen ist auch auf Urkunden der Verwaltungsbehörden,
 die sich unmittelbar auf den Handelsverkehr oder das Zollverfahren
@@ -72,7 +71,7 @@ S. 1).
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 
-(2) Der Tag, an dem das Übereinkommen nach seinem Artikel 11 Abs. 2
-für die Bundesrepublik Deutschland in Kraft tritt, ist im
+(2) Der Tag, an dem das Übereinkommen nach seinem Artikel 11
+Abs. 2 für die Bundesrepublik Deutschland in Kraft tritt, ist im
 Bundesgesetzblatt bekanntzugeben.
 

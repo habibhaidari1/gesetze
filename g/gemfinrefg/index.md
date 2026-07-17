@@ -19,17 +19,17 @@ Neugefasst durch
 :   Bek. v. 10.3.2009 I 502;
 
 Zuletzt geändert durch
-:   Art. 5 G v. 9.12.2019 I 2051
+:   Art. 1 G v. 26.4.2024 I Nr. 140
 
 
 ## § 1 Gemeindeanteil an der Einkommensteuer
 
-Die Gemeinden erhalten 15 Prozent des Aufkommens an Lohnsteuer und an
-veranlagter Einkommensteuer sowie 12 Prozent des Aufkommens an
-Kapitalertragsteuer nach § 43 Absatz 1 Satz 1 Nummer 5 bis 7 und 8 bis
-12 sowie Satz 2 des Einkommensteuergesetzes (Gemeindeanteil an der
-Einkommensteuer). Der Gemeindeanteil an der Einkommensteuer wird für
-jedes Land nach den Steuerbeträgen bemessen, die von den
+Die Gemeinden erhalten 15 Prozent des Aufkommens an Lohnsteuer und
+an veranlagter Einkommensteuer sowie 12 Prozent des Aufkommens an
+Kapitalertragsteuer nach § 43 Absatz 1 Satz 1 Nummer 5 bis 7 und
+8 bis 12 sowie Satz 2 des Einkommensteuergesetzes (Gemeindeanteil
+an der Einkommensteuer). Der Gemeindeanteil an der Einkommensteuer
+wird für jedes Land nach den Steuerbeträgen bemessen, die von den
 Finanzbehörden im Gebiet des Landes unter Berücksichtigung der
 Zerlegung nach Artikel 107 Absatz 1 des Grundgesetzes vereinnahmt
 werden.
@@ -38,8 +38,8 @@ werden.
 ## § 2 Aufteilung des Gemeindeanteils an der Einkommensteuer
 
 Der Gemeindeanteil an der Einkommensteuer wird nach einem Schlüssel
-auf die Gemeinden aufgeteilt, der von den Ländern auf Grund der
-Bundesstatistiken über die Lohnsteuer und die veranlagte
+auf die Gemeinden aufgeteilt, der von den Ländern auf Grund
+der Bundesstatistiken über die Lohnsteuer und die veranlagte
 Einkommensteuer nach § 1 des Gesetzes über Steuerstatistiken ermittelt
 und durch Rechtsverordnung der Landesregierung festgesetzt wird.
 
@@ -47,20 +47,20 @@ und durch Rechtsverordnung der Landesregierung festgesetzt wird.
 ## § 3 Verteilungsschlüssel für den Gemeindeanteil
 
 (1) Der Schlüssel für die Aufteilung des Gemeindeanteils an der
-Einkommensteuer wird wie folgt ermittelt. Für jede Gemeinde wird eine
-Schlüsselzahl festgestellt. Sie ist der in einer Dezimalzahl
+Einkommensteuer wird wie folgt ermittelt. Für jede Gemeinde wird
+eine Schlüsselzahl festgestellt. Sie ist der in einer Dezimalzahl
 ausgedrückte Anteil der Gemeinde an dem nach § 1 auf die Gemeinden
-eines Landes entfallenden Steueraufkommen. Die Schlüsselzahl ergibt
-sich aus dem Anteil der Gemeinde an der Summe der durch die
-Bundesstatistiken über die veranlagte Einkommensteuer und über die
-Lohnsteuer ermittelten Einkommensteuerbeträge, die auf die zu
-versteuernden Einkommensbeträge bis zu 35 000 Euro jährlich, in den
-Fällen des § 32a Absatz 5 oder des § 32a Absatz 6 des
-Einkommensteuergesetzes in der jeweils am letzten Tag des für die
-Bundesstatistik maßgebenden Veranlagungszeitraumes geltenden Fassung
-auf die zu versteuernden Einkommensbeträge bis zu 70 000 Euro jährlich
-entfallen. Für die Zurechnung der Steuerbeträge an die Gemeinden ist
-der in der Bundesstatistik zugrunde gelegte Wohnsitz der
+eines Landes entfallenden Steueraufkommen. Die Schlüsselzahl
+ergibt sich aus dem Anteil der Gemeinde an der Summe der durch
+die Bundesstatistiken über die veranlagte Einkommensteuer und über
+die Lohnsteuer ermittelten Einkommensteuerbeträge, die auf die
+zu versteuernden Einkommensbeträge bis zu 40 000 Euro jährlich,
+in den Fällen des § 32a Absatz 5 oder des § 32a Absatz 6 des
+Einkommensteuergesetzes in der jeweils am letzten Tag des für
+die Bundesstatistik maßgebenden Veranlagungszeitraumes geltenden
+Fassung auf die zu versteuernden Einkommensbeträge bis zu 80 000
+Euro jährlich entfallen. Für die Zurechnung der Steuerbeträge an die
+Gemeinden ist der in der Bundesstatistik zugrunde gelegte Wohnsitz der
 Steuerpflichtigen maßgebend.
 
 (2) (weggefallen)
@@ -76,11 +76,11 @@ des Schlüssels jeweils maßgebend sind.
 ## § 4 Berichtigung von Fehlern
 
 (1) Werden innerhalb von sechs Monaten nach der Festsetzung des
-Schlüssels Fehler bei der Ermittlung der Schlüsselzahl einer Gemeinde
-festgestellt, so ist für die Zeit bis zur Neufestsetzung des
-Schlüssels ein Ausgleich für diese Gemeinde vorzunehmen. Die hierzu
-erforderlichen Ausgleichsbeträge sind aus dem Gesamtbetrag des
-Gemeindeanteils des Landes vor der Aufteilung zu entnehmen,
+Schlüssels Fehler bei der Ermittlung der Schlüsselzahl einer
+Gemeinde festgestellt, so ist für die Zeit bis zur Neufestsetzung
+des Schlüssels ein Ausgleich für diese Gemeinde vorzunehmen. Die
+hierzu erforderlichen Ausgleichsbeträge sind aus dem Gesamtbetrag
+des Gemeindeanteils des Landes vor der Aufteilung zu entnehmen,
 zurückzuzahlende Beträge diesem Gesamtbetrag zuzuführen.
 
 (2) Die Landesregierungen können zur Verwaltungsvereinfachung durch
@@ -90,20 +90,20 @@ Ausgleichsbetrag einen bestimmten Betrag nicht überschreitet.
 
 ## § 5 Überweisung des Gemeindeanteils an der Einkommensteuer
 
-Die Landesregierungen regeln durch Rechtsverordnung die Termine und
-das Verfahren für die Überweisung des Gemeindeanteils an der
+Die Landesregierungen regeln durch Rechtsverordnung die Termine
+und das Verfahren für die Überweisung des Gemeindeanteils an der
 Einkommensteuer.
 
 
 ## § 5a Verteilungsschlüssel für den Gemeindeanteil an der Umsatzsteuer
 
-(1) Der Gemeindeanteil an der Umsatzsteuer nach § 1 Satz 3 des
+(1) Der Gemeindeanteil an der Umsatzsteuer nach § 1 Absatz 1 und 2 des
 Finanzausgleichsgesetzes wird auf die einzelnen Länder nach Schlüsseln
 verteilt. Die Schlüssel bemessen sich nach der Summe der nach Absatz 2
 Satz 2 und 3 ermittelten Gemeindeschlüssel je Land.
 
-(2) Der Anteil an der Umsatzsteuer nach Absatz 1 Satz 1 wird auf die
-einzelnen Gemeinden verteilt, indem eine in einer Dezimalzahl
+(2) Der Anteil an der Umsatzsteuer nach Absatz 1 Satz 1 wird auf
+die einzelnen Gemeinden verteilt, indem eine in einer Dezimalzahl
 ausgedrückte Schlüsselzahl festgesetzt wird. Die Schlüsselzahl setzt
 sich zusammen
 
@@ -112,14 +112,12 @@ sich zusammen
     Grundlage des Realsteuervergleichs nach § 4 Nummer 2 des Finanz- und
     Personalstatistikgesetzes ermittelt wurde;
 
-
-2.  zu 50 Prozent aus dem Anteil der einzelnen Gemeinde an der Anzahl der
-    sozialversicherungspflichtig Beschäftigten am Arbeitsort ohne
+2.  zu 50 Prozent aus dem Anteil der einzelnen Gemeinde an der Anzahl
+    der sozialversicherungspflichtig Beschäftigten am Arbeitsort ohne
     Beschäftigte von Gebietskörperschaften und Sozialversicherungen sowie
     deren Einrichtungen, die als Summe für die Jahre 2013 bis 2015 der
     Beschäftigten- und Entgeltstatistik mit Stand 30. Juni des jeweiligen
     Jahres ermittelt wurde;
-
 
 3.  zu 25 Prozent aus dem Anteil der einzelnen Gemeinde an der Summe der
     sozialversicherungspflichtigen Entgelte am Arbeitsort ohne Entgelte
@@ -127,13 +125,11 @@ sich zusammen
     sowie deren Einrichtungen, die als Summe für die Jahre 2012 bis 2014
     der Beschäftigten- und Entgeltstatistik ermittelt wurde.
 
-
-
 Die Merkmale nach Satz 2 Nummer 2 und 3 werden mit dem gewogenen
 durchschnittlichen örtlichen Gewerbesteuer-Hebesatz der jeweiligen
 Erfassungszeiträume gewichtet. Nach erfolgter erstmaliger Festsetzung
-des Verteilungsschlüssels wird der Schlüssel unter Beibehaltung der in
-Satz 2 Nummer 1, 2 und 3 festgelegten Anzahl von Jahren alle drei
+des Verteilungsschlüssels wird der Schlüssel unter Beibehaltung der
+in Satz 2 Nummer 1, 2 und 3 festgelegten Anzahl von Jahren alle drei
 Jahre, erstmals zum 1. Januar 2021, aktualisiert. Die Aktualisierung
 erfolgt auf der Grundlage der Datenbasis, die beim Statistischen
 Bundesamt zum 1. April des dem Jahr der Aktualisierung vorangehenden
@@ -155,16 +151,16 @@ durch die Länder auf Eins normiert werden.
 
 ## § 5b Übermittlung statistischer Ergebnisse
 
-Zur Festsetzung der Verteilungsschlüssel nach § 5a, jedoch nicht für
-die Regelung von Einzelfällen, dürfen das Statistische Bundesamt und
-die statistischen Ämter der Länder den Gemeinden und ihren
+Zur Festsetzung der Verteilungsschlüssel nach § 5a, jedoch nicht
+für die Regelung von Einzelfällen, dürfen das Statistische Bundesamt
+und die statistischen Ämter der Länder den Gemeinden und ihren
 Spitzenverbänden auf Landes- und Bundesebene auf Ersuchen die dafür
 erforderlichen Tabellen mit Ergebnissen der hierzu vom Statistischen
 Bundesamt und den statistischen Ämtern der Länder durchgeführten
 Berechnungen übermitteln, auch soweit Tabellenfelder nur einen
-einzigen Fall ausweisen. Die Tabellen dürfen nur für die Zwecke, für
-die sie übermittelt worden sind, nur durch Amtsträger, für den
-öffentlichen Dienst besonders Verpflichtete oder Personen, die
+einzigen Fall ausweisen. Die Tabellen dürfen nur für die Zwecke,
+für die sie übermittelt worden sind, nur durch Amtsträger, für
+den öffentlichen Dienst besonders Verpflichtete oder Personen, die
 entsprechend § 1 Absatz 2, 3 und 4 Nummer 2 des Verpflichtungsgesetzes
 auf die gewissenhafte Erfüllung ihrer Geheimhaltungspflicht förmlich
 verpflichtet worden sind, und nur räumlich, organisatorisch und
@@ -188,8 +184,8 @@ Rechtsverordnung mit Zustimmung des Bundesrates zu treffen.
 
 ## § 5d Überweisung des Gemeindeanteils an der Umsatzsteuer
 
-(1) Die Verteilung des Gemeindeanteils an der Umsatzsteuer auf die
-Länder wird nach § 17 des Finanzausgleichsgesetzes vom
+(1) Die Verteilung des Gemeindeanteils an der Umsatzsteuer
+auf die Länder wird nach § 17 des Finanzausgleichsgesetzes vom
 Bundesministerium der Finanzen vorgenommen. Die Weiterverteilung auf
 die Gemeinden obliegt den Ländern.
 
@@ -207,15 +203,15 @@ an das für sie zuständige Finanzamt ab. Die Umlage ist entsprechend
 dem Verhältnis von Bundes- und Landesvervielfältiger auf den Bund und
 das Land aufzuteilen.
 
-(2) Die Umlage wird in der Weise ermittelt, dass das Istaufkommen der
-Gewerbesteuer im Erhebungsjahr durch den von der Gemeinde für dieses
-Jahr festgesetzten Hebesatz der Steuer geteilt und mit dem
+(2) Die Umlage wird in der Weise ermittelt, dass das Istaufkommen
+der Gewerbesteuer im Erhebungsjahr durch den von der Gemeinde für
+dieses Jahr festgesetzten Hebesatz der Steuer geteilt und mit dem
 Vervielfältiger nach Absatz 3 multipliziert wird. Das Istaufkommen
 entspricht den Isteinnahmen nach der Jahresrechnung gemäß § 3 Absatz 2
 Nummer 1 des Finanz- und Personalstatistikgesetzes.
 
-(3) Der Vervielfältiger ist die Summe eines Bundes- und
-Landesvervielfältigers für das jeweilige Land. Der
+(3) Der Vervielfältiger ist die Summe eines Bundes-
+und Landesvervielfältigers für das jeweilige Land. Der
 Bundesvervielfältiger beträgt 14,5 Prozent. Der Landesvervielfältiger
 beträgt 20,5 Prozent. Die Feinabstimmung der Finanzierungsbeteiligung
 der Gemeinden bis zur Höhe ihres jeweiligen Anteils an den
@@ -227,34 +223,36 @@ vorbehalten.
 
 (5) (weggefallen)
 
-(6) Übersteigen in einer Gemeinde die Erstattungen an Gewerbesteuer in
-einem Jahr die Einnahmen aus dieser Steuer, so erstattet das Finanzamt
-der Gemeinde einen Betrag, der sich durch Anwendung der
+(6) Übersteigen in einer Gemeinde die Erstattungen an Gewerbesteuer
+in einem Jahr die Einnahmen aus dieser Steuer, so erstattet das
+Finanzamt der Gemeinde einen Betrag, der sich durch Anwendung der
 Bemessungsgrundlagen des Absatzes 2 auf den Unterschiedsbetrag ergibt.
 Ist für das Erhebungsjahr der Hebesatz gegenüber dem Vorjahr um mehr
-als 10 Prozent abgesenkt, ist abweichend von Absatz 2 der Hebesatz des
-Vorjahres anzusetzen; mindestens ist aber der Durchschnitt der
+als 10 Prozent abgesenkt, ist abweichend von Absatz 2 der Hebesatz
+des Vorjahres anzusetzen; mindestens ist aber der Durchschnitt der
 Hebesätze für die letzten drei vorangegangenen Jahre zugrunde zu
 legen, in denen die Erstattungen an Gewerbesteuer die Einnahmen aus
 dieser Steuer nicht überstiegen haben.
 
 (7) Die Umlage ist jährlich bis zum 1. Februar des auf das
-Erhebungsjahr folgenden Jahres an das Finanzamt abzuführen. Bis zum 1.
-Mai, 1. August und 1. November des Erhebungsjahres sind
-Abschlagszahlungen für das vorhergehende Kalendervierteljahr nach dem
-Istaufkommen in dem Vierteljahr zu leisten. Absatz 6 gilt für die
+Erhebungsjahr folgenden Jahres an das Finanzamt abzuführen. Bis
+zum 1. Mai, 1. August und 1. November des Erhebungsjahres sind
+Abschlagszahlungen für das vorhergehende Kalendervierteljahr nach
+dem Istaufkommen in dem Vierteljahr zu leisten. Absatz 6 gilt für die
 Abschlagszahlungen entsprechend.
 
-(8) Die Landesregierungen können nähere Bestimmungen über die
-Festsetzung und Abführung der Umlage durch Rechtsverordnung treffen.
+(8) Die Landesregierungen können durch Rechtsverordnung nähere
+Bestimmungen über die Festsetzung und Abführung der Umlage
+einschließlich der Festlegung des zuständigen Finanzamts oder
+sonstiger zuständiger Landesbehörden treffen.
 
 
 ## § 7 Sondervorschriften für Berlin und Hamburg
 
 In Berlin und Hamburg stehen der Gemeindeanteil an der Einkommensteuer
 und der Gemeindeanteil an der Umsatzsteuer dem Land zu. Die Länder
-Berlin und Hamburg führen den Bundesanteil an der Umlage nach § 6 an
-den Bund ab. Im Übrigen finden die §§ 2 bis 5 und 6 in Berlin und
+Berlin und Hamburg führen den Bundesanteil an der Umlage nach § 6
+an den Bund ab. Im Übrigen finden die §§ 2 bis 5 und 6 in Berlin und
 Hamburg keine Anwendung.
 
 

@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung einer Bundesmünze im Nennwert von 10 Deutschen
-  Mark (4. Motiv der Olympiamünze)
+Title: Bekanntmachung über die Ausprägung einer Bundesmünze im Nennwert von 10 Deutschen Mark (4. Motiv der Olympiamünze)
 jurabk: OlympiaMünz4Bek
 layout: default
 origslug: olympiam_nz4bek
@@ -17,7 +16,6 @@ Fundstelle
 :   BGBl I: 1972, 607
 
 
-
 ## (XXXX)
 
 (1) Auf Grund des Gesetzes über die Ausprägung einer Olympiamünze vom
@@ -29,8 +27,8 @@ Deutschen Mark (Olympiamünze) geprägt.
 Münzämtern zu gleichen Teilen geprägt. Die Auflage beträgt 20
 Millionen Stück; die Ausgabe beginnt am 9. Mai 1972.
 
-(3) Die Legierung besteht aus 625 Tausendteilen Feinsilber und aus 375
-Tausendteilen Kupfer. Der Durchmesser beträgt 32,5 mm, das Gewicht
+(3) Die Legierung besteht aus 625 Tausendteilen Feinsilber und aus
+375 Tausendteilen Kupfer. Der Durchmesser beträgt 32,5 mm, das Gewicht
 15,5 Gramm.
 
 (4) Der Entwurf für das 4. Motiv stammt von Frau Doris Waschk-Balz,
@@ -40,28 +38,21 @@ Hamburg.
 Sportstätten und der zeltartigen Überdachung des Olympischen Geländes
 in München. Die blockartig angeordnete Aufschrift lautet:
 
-*   OLYMPISCHE SPIELE MÜNCHEN 26.8.-10.9.1972.
-
-
-
+-   OLYMPISCHE SPIELE MÜNCHEN 26.8.-10.9.1972.
 
 (6) Auf der Wertseite ist der Adler - im Einklang mit der Gestaltung
 der Bildseite - in leicht asymmetrischer Form dargestellt. In dem Feld
 unterhalb des Adlers sind die schräg gestaffelte Aufschrift
 
-*   BUNDESREPUBLIK DEUTSCHLAND
+-   BUNDESREPUBLIK DEUTSCHLAND
 
     10 DEUTSCHE MARK
-
-
 
 und das jeweilige Münzzeichen untergebracht.
 
 (7) Der glatte Münzrand ist mit der vertieften Inschrift
 
-*   CITIUS ALTIUS FORTIUS
-
-
+-   CITIUS ALTIUS FORTIUS
 
 und mit Ornamenten zwischen den Worten versehen.
 

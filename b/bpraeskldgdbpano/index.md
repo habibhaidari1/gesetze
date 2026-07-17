@@ -1,6 +1,5 @@
 ---
-Title: Anordnung des Bundespräsidenten über den Erlaß von Bestimmungen für die Dienstkleidung
-  von Beamten der Deutschen Bundespost
+Title: Anordnung des Bundespräsidenten über den Erlaß von Bestimmungen für die Dienstkleidung von Beamten der Deutschen Bundespost
 jurabk: BPräsKldgDBPAnO
 layout: default
 origslug: bpr_skldgdbpano
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 1957, 366
-
 
 
 ## (XXXX)

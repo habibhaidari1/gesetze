@@ -1,7 +1,5 @@
 ---
-Title: Verordnung über die Höhe und das Verfahren zur Erhebung einer Vollstreckungspauschale
-  bei Inanspruchnahme von Behörden der Bundesfinanzverwaltung zur Vollstreckung öffentlich-rechtlicher
-  Geldforderungen
+Title: Verordnung über die Höhe und das Verfahren zur Erhebung einer Vollstreckungspauschale bei Inanspruchnahme von Behörden der Bundesfinanzverwaltung zur Vollstreckung öffentlich-rechtlicher Geldforderungen
 jurabk: VollstrPV
 layout: default
 origslug: vollstrpv
@@ -34,9 +32,9 @@ Vollstreckungsgesetzes beträgt 9 Euro.
 
 (2) Für die erstmalige Überprüfung der Höhe der
 Vollstreckungspauschale wird als Berechnungszeitraum die Zeitspanne
-zwischen dem 1. Juli 2014 und dem 31. Dezember 2016 bestimmt. Für jede
-weitere Überprüfung werden als Berechnungszeitraum im Sinne des § 19a
-Absatz 2 des Verwaltungs-Vollstreckungsgesetzes die letzten drei
+zwischen dem 1. Juli 2014 und dem 31. Dezember 2016 bestimmt. Für
+jede weitere Überprüfung werden als Berechnungszeitraum im Sinne des
+§ 19a Absatz 2 des Verwaltungs-Vollstreckungsgesetzes die letzten drei
 vorhergehenden Kalenderjahre zu Grunde gelegt.
 
 
@@ -65,9 +63,9 @@ Vollstreckungsgesetz multipliziert mit der im Abrechnungszeitraum
 gültigen Vollstreckungspauschale. Die Rechnungsstellung erfolgt
 schriftlich oder elektronisch. Sie enthält insbesondere die
 Anordnungsbehörde als Rechnungsempfänger, den zu zahlenden
-Rechnungsbetrag, die Anzahl der während des Abrechnungszeitraums von
-der Anordnungsbehörde übermittelten Vollstreckungsanordnungen, die
-gültige Vollstreckungspauschale und einen Hinweis auf die
+Rechnungsbetrag, die Anzahl der während des Abrechnungszeitraums
+von der Anordnungsbehörde übermittelten Vollstreckungsanordnungen,
+die gültige Vollstreckungspauschale und einen Hinweis auf die
 Rechtsgrundlagen zur Erhebung der Vollstreckungspauschale.
 
 (4) Die Rechnungen werden bis zum 31. März des dem Abrechnungszeitraum
@@ -76,8 +74,8 @@ folgenden Jahres an die Anordnungsbehörden versandt.
 
 ## § 4 Fälligkeit
 
-Der Rechnungsbetrag wird einen Monat nach Ablauf des Monats fällig, in
-dem der Anordnungsbehörde die in § 3 Absatz 4 bezeichnete Rechnung
+Der Rechnungsbetrag wird einen Monat nach Ablauf des Monats fällig,
+in dem der Anordnungsbehörde die in § 3 Absatz 4 bezeichnete Rechnung
 zugegangen ist.
 
 

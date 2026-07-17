@@ -1,6 +1,5 @@
 ---
-Title: Verordnung zur Einführung von Vordrucken für das Mahnverfahren bei Gerichten,
-  die das Verfahren maschinell bearbeiten
+Title: Verordnung zur Einführung von Vordrucken für das Mahnverfahren bei Gerichten, die das Verfahren maschinell bearbeiten
 jurabk: MaschMahnVordrV
 layout: default
 origslug: maschmahnvordrv
@@ -23,9 +22,9 @@ Zuletzt geändert durch
 ## Eingangsformel
 
 Auf Grund des durch Artikel 1 Nr. 95 des Gesetzes zur Vereinfachung
-und Beschleunigung gerichtlicher Verfahren (Vereinfachungsnovelle) vom
-3\. Dezember 1976 (BGBl. I S. 3281) eingefügten § 703c Abs. 1 Satz 1
-und 2 Nr. 1 der Zivilprozeßordnung in der im Bundesgesetzblatt Teil
+und Beschleunigung gerichtlicher Verfahren (Vereinfachungsnovelle)
+vom 3. Dezember 1976 (BGBl. I S. 3281) eingefügten § 703c Abs. 1 Satz
+1 und 2 Nr. 1 der Zivilprozeßordnung in der im Bundesgesetzblatt Teil
 III, Gliederungsnummer 310-4, veröffentlichten bereinigten Fassung
 wird mit Zustimmung des Bundesrates verordnet:
 
@@ -38,34 +37,25 @@ bearbeiten, werden eingeführt
 1.  der in Anlage 1 bestimmte Vordruck für den Antrag auf Erlaß des
     Mahnbescheids und das in dieser Anlage bestimmte Hinweisblatt,
 
-
 2.  der in Anlage 2 bestimmte Vordruck für die Ausfertigung des
     Mahnbescheids,
 
-
 3.  der in Anlage 3 bestimmte Vordruck für den Widerspruch,
-
 
 4.  die in Anlage 4 bestimmten Vordrucke für die Nachricht über die
     Zustellung des Mahnbescheids und für den Antrag auf Erlaß des
     Vollstreckungsbescheids,
 
-
 5.  der in Anlage 5 bestimmte Vordruck für die Ausfertigung des
     Vollstreckungsbescheids,
-
 
 6.  die in Anlage 6 bestimmten Vordrucke für die Nachricht über die
     Nichtzustellung des Mahnbescheids und für den Antrag auf Neuzustellung
     des Mahnbescheids,
 
-
 7.  die in Anlage 7 bestimmten Vordrucke für die Nachricht über die
     Nichtzustellung des Vollstreckungsbescheids und für den Antrag auf
     Neuzustellung des Vollstreckungsbescheids.
-
-
-
 
 (2) Absatz 1 gilt nicht für Mahnverfahren, in denen der Mahnbescheid
 im Ausland oder nach Artikel 32 des Zusatzabkommens zum NATO-
@@ -76,8 +66,8 @@ zuzustellen ist.
 ## § 2 Zweitschriften, Ausfertigungen
 
 (1) Die in den Anlagen 3, 4, 6 und 7 bestimmten Vordrucke für den
-Widerspruch, den Antrag auf Erlaß eines Vollstreckungsbescheids und
-die Anträge auf Neuzustellung des Mahn- und des
+Widerspruch, den Antrag auf Erlaß eines Vollstreckungsbescheids
+und die Anträge auf Neuzustellung des Mahn- und des
 Vollstreckungsbescheids sind mit einer Zweitschrift für die Unterlagen
 der Partei zu versehen.
 
@@ -95,25 +85,20 @@ Vordrucken sind zulässig:
 
 1.  Berichtigungen, die auf einer Änderung von Rechtsvorschriften beruhen;
 
-
-2.  Anpassungen, Änderungen oder Ergänzungen, die es, ohne den Inhalt der
-    Vordrucke zu verändern oder deren Verständnis zu erschweren,
+2.  Anpassungen, Änderungen oder Ergänzungen, die es, ohne den Inhalt
+    der Vordrucke zu verändern oder deren Verständnis zu erschweren,
     ermöglichen, für die maschinelle Bearbeitung technische Entwicklungen
     nutzbar zu machen oder vorhandene technische Einrichtungen weiter
     einzusetzen;
 
-
 3.  Ausführung in einer Fassung, in die für regelmäßig in größerer Zahl
-    wiederkehrende Fälle gleicher Art die Auswahlfelder, Auswahltexte und
-    Felder für Mehrfachangaben nur in dem für diese Fälle notwendigen
+    wiederkehrende Fälle gleicher Art die Auswahlfelder, Auswahltexte
+    und Felder für Mehrfachangaben nur in dem für diese Fälle notwendigen
     Umfang aufgenommen werden. Dies gilt nicht für den in Anlage 3
     bestimmten Vordruck für den Widerspruch.
 
-
-
-
-(2) Maßgebend für die Gestaltung der Abweichungen nach Absatz 1 ist
-die durch Verwaltungsabkommen der Länder eingerichtete
+(2) Maßgebend für die Gestaltung der Abweichungen nach Absatz
+1 ist die durch Verwaltungsabkommen der Länder eingerichtete
 Koordinierungsstelle für Pflege und Weiterentwicklung des
 automatisierten gerichtlichen Mahnverfahrens.
 
@@ -127,10 +112,10 @@ eingeht, werden die in Anlage 1 und 3 sowie die für Anträge in Anlage
 Felder für die Angabe eines Geldbetrages mit der Bezeichnung "Betrag"
 überschrieben sind und ein diesen Feldern allgemein zugeordnetes Feld
 für die Bezeichnung der Beträge mit der Währungsbezeichnung Euro oder
-Deutsche Mark vorgesehen ist. In dem Hinweisblatt zu Anlage 1 kann die
-Wertgrenze für die Zuständigkeit des Amtsgerichts in Deutscher Mark
-und in Euro bezeichnet werden. Der Vordruck für den Antrag auf Erlaß
-eines Mahnbescheids kann in der in Anlage 1 bisher eingeführten
+Deutsche Mark vorgesehen ist. In dem Hinweisblatt zu Anlage 1 kann
+die Wertgrenze für die Zuständigkeit des Amtsgerichts in Deutscher
+Mark und in Euro bezeichnet werden. Der Vordruck für den Antrag auf
+Erlaß eines Mahnbescheids kann in der in Anlage 1 bisher eingeführten
 Fassung bis zum 31. Dezember 2001 weiterverwendet werden; Angaben in
 der dritten Spalte der Zeilen 40 bis 42 bezeichnen in diesen Fällen
 einen Zinssatz über dem jeweiligen Basiszinssatz.
@@ -140,8 +125,8 @@ die Zahlung einer bestimmten Geldsumme in Euro zum Gegenstand haben,
 die in Absatz 1 bezeichneten Vordrucke in einer Fassung eingeführt, in
 der alle Felder für die Angabe eines Geldbetrages mit der Bezeichnung
 "Euro" oder "EUR" überschrieben sind und in dem Hinweisblatt zu Anlage
-1 die Wertgrenze für die Zuständigkeit des Amtsgerichts allein in Euro
-bezeichnet ist. Der Vordruck für den Antrag auf Erlass eines
+1 die Wertgrenze für die Zuständigkeit des Amtsgerichts allein in
+Euro bezeichnet ist. Der Vordruck für den Antrag auf Erlass eines
 Mahnbescheids in der in Absatz 1 eingeführten Form kann bis zum 31.
 Dezember 2002 weiterverwendet werden.
 
@@ -158,16 +143,12 @@ Vordruck verwendet werden.
     Katalog-Nr. 31 der Zusatz "(1/3 %) in DM" und in dem Text zu Katalog-
     Nr. 32 der Zusatz "in DM",
 
-
 2.  in den in Anlage 2 und 5 bestimmten Vordrucken für den Mahn- und den
     Vollstreckungsbescheid in dem Abschnitt "Kosten" der Vordruck der
     Währungseinheit.
 
-
-
-
-(5) Die Vordrucke können mit zusätzlichen Hinweisen versehen werden,
-die ihre Handhabung und ihr Verständnis in bezug auf die
+(5) Die Vordrucke können mit zusätzlichen Hinweisen versehen
+werden, die ihre Handhabung und ihr Verständnis in bezug auf die
 Währungseinheit und den vom Rat der Europäischen Union gemäß Artikel
 109l Abs. 4 Satz 1 des EG-Vertrages unwiderruflich festgelegten
 Umrechnungskurs für die Parteien erleichtern.

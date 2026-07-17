@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zur Aufhebung des Gesetzes über den Abbau von Salzen im Grenzgebiet
-  an der Werra
+Title: Gesetz zur Aufhebung des Gesetzes über den Abbau von Salzen im Grenzgebiet an der Werra
 jurabk: WerraSalzGAufhG
 layout: default
 origslug: werrasalzgaufhg
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 1996, 38
-
 
 
 ## Art 1

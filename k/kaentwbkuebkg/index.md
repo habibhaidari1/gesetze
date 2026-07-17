@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zu dem Übereinkommen vom 18. Oktober 1969 zur Errichtung der Karibischen
-  Entwicklungsbank
+Title: Gesetz zu dem Übereinkommen vom 18. Oktober 1969 zur Errichtung der Karibischen Entwicklungsbank
 jurabk: KaEntwBkÜbkG
 layout: default
 origslug: kaentwbk_bkg
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl II: 1989, 298
-
 
 
 ## Eingangsformel
@@ -36,15 +34,15 @@ mit einer amtlichen deutschen Übersetzung veröffentlicht.
 
 Zur Erfüllung der Verbindlichkeiten, die der Bundesrepublik
 Deutschland aus dem Beitritt zur Karibischen Entwicklungsbank
-erwachsen, wird die Bundesregierung ermächtigt, vom Grundkapital 4.160
-(in Worten: Viertausendeinhundertsechzig) Anteile im Wert von
-31\.200.000,- US-$ (in Worten: Einunddreißig Millionen
-zweihunderttausend US-Dollar) zum Gewicht und Feingehalt vom 1. Januar
-1969, davon 24.075.000,- US-$ (in Worten: Vierundzwanzig Millionen
-fünfundsiebzigtausend US-Dollar) zum Gewicht und Feingehalt vom 1.
-Januar 1969 als abrufbares Haftungskapital zu erwerben und zum
-Sonderfonds einen Beitrag im Wert von 47.448.844,- DM (in Worten
-Siebenundvierzig Millionen vierhundertachtundvierzigtausend
+erwachsen, wird die Bundesregierung ermächtigt, vom Grundkapital
+4\.160 (in Worten: Viertausendeinhundertsechzig) Anteile im
+Wert von 31.200.000,- US-$ (in Worten: Einunddreißig Millionen
+zweihunderttausend US-Dollar) zum Gewicht und Feingehalt vom 1.
+Januar 1969, davon 24.075.000,- US-$ (in Worten: Vierundzwanzig
+Millionen fünfundsiebzigtausend US-Dollar) zum Gewicht und Feingehalt
+vom 1. Januar 1969 als abrufbares Haftungskapital zu erwerben
+und zum Sonderfonds einen Beitrag im Wert von 47.448.844,- DM (in
+Worten Siebenundvierzig Millionen vierhundertachtundvierzigtausend
 achthundertvierundvierzig Deutsche Mark) zu leisten.
 
 

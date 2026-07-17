@@ -1,6 +1,5 @@
 ---
-Title: Verordnung zur Übertragung der Zuständigkeit für das Steuerabzugs- und Veranlagungsverfahren
-  auf das Bundeszentralamt für Steuern und zur Regelung verschiedener Anwendungszeitpunkte
+Title: Verordnung zur Übertragung der Zuständigkeit für das Steuerabzugs- und Veranlagungsverfahren auf das Bundeszentralamt für Steuern und zur Regelung verschiedener Anwendungszeitpunkte
 jurabk: StAbzVeranlZÜV
 layout: default
 origslug: stabzveranlz_v
@@ -25,15 +24,11 @@ Das Bundeszentralamt für Steuern ist zuständig für
     Einkommensteuergesetzes einschließlich des Erlasses von Haftungs- und
     Nachforderungsbescheiden und deren Vollstreckung,
 
-
 2.  die Durchführung der Veranlagung nach § 50 Absatz 2 Satz 2 Nummer 5
     des Einkommensteuergesetzes,
 
-
 3.  die Durchführung der Veranlagung nach § 32 Absatz 2 Nummer 2 des
     Körperschaftsteuergesetzes,
-
-
 
 soweit die zugrundeliegenden Vergütungen nach dem 31. Dezember 2013
 zufließen.

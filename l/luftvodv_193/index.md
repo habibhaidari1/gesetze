@@ -1,7 +1,5 @@
 ---
-Title: Hundertdreiundneunzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung
-  von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Verkehrslandesplatz
-  Mannheim)
+Title: Hundertdreiundneunzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Verkehrslandesplatz Mannheim)
 jurabk: LuftVODV 193
 layout: default
 origslug: luftvodv_193
@@ -16,4 +14,7 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BAnz: 1999, Nr 128, 11361
+
+Fundstelle
+:   BAnz: 1999, 11361
 

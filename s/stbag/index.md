@@ -33,17 +33,11 @@ Länder auch
 1.  die Eingangsvoraussetzungen für die Laufbahnbewerber des einfachen,
     des mittleren, des gehobenen und des höheren Dienstes,
 
-
 2.  der Aufstieg in höhere Laufbahnen,
-
 
 3.  die Einführung der Beamten in die Aufgaben ihrer Laufbahnen und
 
-
 4.  die Fortbildung der Beamten.
-
-
-
 
 (3) Auch wenn die Länder die in Absatz 2 Nummer 1 bezeichneten
 Laufbahngruppen durch landesrechtliche Regelungen zusammenfassen oder
@@ -60,8 +54,8 @@ entsprechend.
 kann eingestellt werden, wer eine Hauptschule mit Erfolg besucht hat
 oder einen als gleichwertig anerkannten Bildungsstand nachweist.
 
-(2) Der Vorbereitungsdienst dauert sechs Monate; in dieser Zeit werden
-die Anwärter praktisch ausgebildet. Er kann im Einzelfall aus
+(2) Der Vorbereitungsdienst dauert sechs Monate; in dieser Zeit
+werden die Anwärter praktisch ausgebildet. Er kann im Einzelfall aus
 besonderem Grund verlängert werden.
 
 (3) Dienstzeiten im öffentlichen Dienst können auf den
@@ -74,30 +68,27 @@ Vorbereitungsdienst angerechnet werden.
 
 (1) In den Vorbereitungsdienst der Laufbahn des mittleren Dienstes
 kann eingestellt werden, wer eine Realschule mit Erfolg besucht hat
-oder einen als gleichwertig anerkannten Bildungsstand nachweist. In
-den Vorbereitungsdienst der Laufbahn des mittleren Dienstes kann
+oder einen als gleichwertig anerkannten Bildungsstand nachweist.
+In den Vorbereitungsdienst der Laufbahn des mittleren Dienstes kann
 ebenfalls eingestellt werden, wer
 
 1.  einen mit mindestens gutem Erfolg erreichten Hauptschulabschluss oder
     einen als gleichwertig anerkannten Bildungsstand und
 
-
 2.  eine förderliche abgeschlossene Berufsausbildung oder eine
     abgeschlossene Ausbildung in einem öffentlich-rechtlichen
     Ausbildungsverhältnis
 
-
-
 nachweist.
 
-(2) Der Vorbereitungsdienst dauert zwei Jahre; § 2 Absatz 2 Satz 2
-gilt entsprechend. Der Vorbereitungsdienst umfasst eine achtmonatige
-fachtheoretische Ausbildung an einer Bildungsstätte für Steuerbeamte
-und eine 16-monatige berufspraktische Ausbildung. Während der
-berufspraktischen Ausbildung kann die regelmäßige Arbeitszeit nach
-Maßgabe landesrechtlicher Vorschriften um bis zu 50 Prozent verkürzt
-werden; erfolgt eine solche Verkürzung, so kann der
-Vorbereitungsdienst angemessen verlängert werden. Der
+(2) Der Vorbereitungsdienst dauert zwei Jahre; § 2 Absatz 2
+Satz 2 gilt entsprechend. Der Vorbereitungsdienst umfasst eine
+achtmonatige fachtheoretische Ausbildung an einer Bildungsstätte
+für Steuerbeamte und eine 16-monatige berufspraktische Ausbildung.
+Während der berufspraktischen Ausbildung kann die regelmäßige
+Arbeitszeit nach Maßgabe landesrechtlicher Vorschriften um bis
+zu 50 Prozent verkürzt werden; erfolgt eine solche Verkürzung,
+so kann der Vorbereitungsdienst angemessen verlängert werden. Der
 Vorbereitungsdienst schließt mit der Laufbahnprüfung ab. Wer die
 Laufbahnprüfung nicht besteht, kann sie einmal wiederholen. Die
 Laufbahnbefähigung berechtigt dazu, die Berufsbezeichnung Finanzwirtin
@@ -110,12 +101,9 @@ werden
     mindestens fünf Jahre in der Steuerverwaltung mit Aufgaben beschäftigt
     waren, die denen von Beamten des mittleren Dienstes entsprechen,
 
-
 2.  Zeiten einer anderen fünf Jahre übersteigenden beruflichen Tätigkeit,
     bei der für die Ausbildung förderliche praktische und theoretische
     Kenntnisse erworben worden sind.
-
-
 
 Eine Anrechnung auf die fachtheoretische Ausbildung ist
 ausgeschlossen.
@@ -148,8 +136,8 @@ ab. Wer eine Prüfung nicht besteht, kann sie einmal wiederholen.
 
 (3) Auf den Vorbereitungsdienst können Zeiten eines förderlichen
 Studiums an einer Hochschule, das geeignet ist, die für die Laufbahn
-erforderlichen Kenntnisse und Fähigkeiten zu vermitteln, bis zu zwölf
-Monaten angerechnet werden. In den Fällen des Satzes 1 ist die
+erforderlichen Kenntnisse und Fähigkeiten zu vermitteln, bis zu
+zwölf Monaten angerechnet werden. In den Fällen des Satzes 1 ist die
 Zwischenprüfung nicht abzulegen, wenn der Beamte das Studium mit einer
 ersten Staatsprüfung oder, soweit üblich, mit einer Hochschulprüfung
 erfolgreich abgeschlossen hat.
@@ -164,14 +152,10 @@ werden, wer
     Studium der Rechtswissenschaft oder der Wirtschafts-, Finanz- und
     Sozialwissenschaften an einer Hochschule,
 
-
 2.  einen Vorbereitungsdienst von mindestens zwei Jahren und
-
 
 3.  die Ablegung einer die Befähigung für die Laufbahn vermittelnden
     zweiten Prüfung
-
-
 
 nachweist. Abweichend von Satz 1 kann die Befähigung für die Laufbahn
 des höheren Dienstes auch durch einen erfolgreich abgeschlossenen
@@ -181,22 +165,22 @@ des § 5c des Deutschen Richtergesetzes eine erfolgreich abgeschlossene
 Ausbildung für den gehobenen Justizdienst oder für den gehobenen
 nichttechnischen Verwaltungsdienst angerechnet werden.
 
-(2) Die Beamten sind in die Aufgaben des höheren Dienstes der
-Steuerverwaltung einzuführen. Die Einführungszeit beträgt zwölf
-Monate. Sie besteht aus ergänzenden Studien an der
-Bundesfinanzakademie von insgesamt dreimonatiger Dauer und einer
-praktischen Einweisung. Bei Nachweis von zusätzlichen, die
-Einstellungsvoraussetzungen nach Absatz 1 ergänzenden,
-steuerfachlichen Qualifikationen kann die praktische Einweisung im
-Einvernehmen mit dem Bundesministerium der Finanzen angemessen
+(2) Die Beamten sind in die Aufgaben des höheren Dienstes
+der Steuerverwaltung einzuführen. Die Einführungszeit beträgt
+zwölf Monate. Sie besteht aus ergänzenden Studien an der
+Bundesfinanzakademie von insgesamt dreimonatiger Dauer und
+einer praktischen Einweisung. Bei Nachweis von zusätzlichen,
+die Einstellungsvoraussetzungen nach Absatz 1 ergänzenden,
+steuerfachlichen Qualifikationen kann die praktische Einweisung
+im Einvernehmen mit dem Bundesministerium der Finanzen angemessen
 verkürzt werden. Eine Verkürzung der ergänzenden Studien an der
-Bundesfinanzakademie kann bei Vorliegen der Voraussetzung nach Satz 4
-mit Zustimmung des Bundesministeriums der Finanzen vorgenommen werden.
-Während der praktischen Einweisung kann die regelmäßige Arbeitszeit
-nach Maßgabe landesrechtlicher Vorschriften um bis zu 50 Prozent
-verkürzt werden; erfolgt eine solche Verkürzung, so kann die
-praktische Einweisungszeit angemessen verlängert werden. Die oberste
-Landesbehörde oder die von ihr bestimmte Stelle stellt den
+Bundesfinanzakademie kann bei Vorliegen der Voraussetzung nach Satz
+4 mit Zustimmung des Bundesministeriums der Finanzen vorgenommen
+werden. Während der praktischen Einweisung kann die regelmäßige
+Arbeitszeit nach Maßgabe landesrechtlicher Vorschriften um bis zu
+50 Prozent verkürzt werden; erfolgt eine solche Verkürzung, so kann
+die praktische Einweisungszeit angemessen verlängert werden. Die
+oberste Landesbehörde oder die von ihr bestimmte Stelle stellt den
 erfolgreichen Abschluß der Einführung fest.
 
 (3) In Fortführung der ergänzenden Studien nehmen die Beamten des
@@ -239,9 +223,9 @@ den Beamten in einem Studiengang einer Fachhochschule oder in einem
 gleichstehenden Studiengang die wissenschaftlichen Erkenntnisse und
 Methoden sowie die berufspraktischen Fähigkeiten und Kenntnisse, die
 zur Erfüllung der Aufgaben in der Laufbahn des gehobenen Dienstes
-erforderlich sind. § 4 Abs. 2 Satz 3 bis 5 gilt entsprechend. Nach
-mindestens vier, höchstens sechs Monaten Fachstudien ist eine
-Zwischenprüfung abzulegen, die Einführung schließt mit der
+erforderlich sind. § 4 Abs. 2 Satz 3 bis 5 gilt entsprechend.
+Nach mindestens vier, höchstens sechs Monaten Fachstudien ist
+eine Zwischenprüfung abzulegen, die Einführung schließt mit der
 Laufbahnprüfung ab; § 4 Abs. 2 Satz 8 gilt entsprechend.
 
 (4) Landesrechtliche Vorschriften über andere Arten des Aufstiegs von
@@ -272,25 +256,19 @@ darin sind auch Bestimmungen zu treffen über
 
 1.  Gliederung des Vorbereitungsdienstes und der Einführungszeit,
 
-
 2.  Gestaltung der praktischen Ausbildung und der
     Ausbildungsarbeitsgemeinschaften sowie der Einführung und der
     Einweisung,
 
-
 3.  Gestaltung und Inhalte der in diesem Gesetz vorgesehenen
     fachtheoretischen Ausbildung und Studien,
-
 
 4.  die Verlängerung des Vorbereitungsdienstes und der Einführungszeit (§
     6) aus besonderem Grund,
 
-
 5.  die Prüfungsanforderungen und Prüfungsverfahren,
 
-
 6.  die berufspädagogische Förderung der Lehrenden,
-
 
 7.  die Bildung, die Aufgaben und das Verfahren eines aus einem Vertreter
     des Bundesfinanzministeriums als Vorsitzendem und je einem Vertreter
@@ -298,106 +276,11 @@ darin sind auch Bestimmungen zu treffen über
     Durchführung der Ausbildung, der Fortbildung und der Prüfungen
     einschließlich der Zwischenprüfungen,
 
-
 8.  Tagungen für die Ausbildungsreferenten und die Leiter der
     Bildungsstätten für Steuerbeamte.
 
 
-
-
-
-## § 9 Ausnahmen wegen der COVID-19-Pandemie
-
-(1) Die für die Finanzverwaltung zuständigen obersten Landesbehörden
-oder die von ihnen bestimmten Stellen dürfen von den Vorschriften
-dieses Gesetzes, der Steuerbeamtenausbildungs- und -prüfungsordnung in
-der am 10. März 2020 geltenden Fassung sowie den vom Ausschuss nach §
-8 Nummer 7 zur Konkretisierung dieser Verordnung erlassenen
-Richtlinien nach Maßgabe der Absätze 2 bis 6 abweichen. Von der
-Abweichungsbefugnis kann Gebrauch gemacht werden, wenn eine Abweichung
-von den Vorschriften über die Vorbereitungsdienste, über den Aufstieg
-und über die Einführung der Steuerbeamten in die Aufgaben des höheren
-Dienstes wegen der zur Bewältigung der COVID-19-Pandemie getroffenen
-Maßnahmen geboten ist. Die abweichenden Regelungen sollen die Ziele
-der Bestimmungen, von denen abgewichen wird, so weit wie möglich
-erfüllen und sind im Interesse einer sachgerechten und einheitlichen
-Ausbildung der Steuerbeamten auf das erforderliche Maß zu beschränken.
-
-(2) Abweichend von § 3 Absatz 2 Satz 2, von § 4 Absatz 2 Satz 2 sowie
-von § 6 Absatz 2 Satz 1 und Absatz 3 Satz 3 ist in der Ausbildung des
-mittleren Dienstes und des gehobenen Dienstes sowie beim Aufstieg in
-diese Laufbahnen die Vermittlung der Ausbildungsinhalte durch mobiles
-Arbeiten, E-Learning, in angeleitetem Selbststudium sowie durch die
-angeleitete Beschäftigung mit für die Berufspraxis relevanten Themen
-außerhalb der Dienststelle zulässig. Darüber hinaus können abweichend
-von den §§ 14 bis 24 und 31 der Steuerbeamtenausbildungs- und
--prüfungsordnung in der am 10. März 2020 geltenden Fassung
-
-1.  die Ausbildungsinhalte, die Struktur oder die Dauer der Abschnitte der
-    Ausbildung oder die Ausbildungsabläufe verändert werden,
-
-
-2.  einzelne Ausbildungsinhalte entfallen,
-
-
-3.  Leistungsfeststellungen in abweichender Reihenfolge oder elektronisch
-    erfolgen oder aus zwingenden Gründen entfallen.
-
-
-
-
-(3) Abweichend von § 5 Absatz 2 Satz 3 sind während der praktischen
-Einweisung in die Aufgaben des höheren Dienstes mobiles Arbeiten,
-E-Learning, angeleitetes Selbststudium sowie die angeleitete
-Beschäftigung mit für die Berufspraxis relevanten Themen außerhalb der
-Dienststelle zulässig. Darüber hinaus können abweichend von den §§ 26
-und 29 der Steuerbeamtenausbildungs- und -prüfungsordnung in der am
-10\. März 2020 geltenden Fassung die Ausbildungsinhalte, der
-Einführungsablauf und die Dauer einzelner Abschnitte der praktischen
-Einweisung verändert werden.
-
-(4) Abweichend von den §§ 38, 39 und 44 der Steuerbeamtenausbildungs-
-und -prüfungsordnung in der am 10. März 2020 geltenden Fassung können
-der Prüfungsstoff, der Prüfungsablauf und das Prüfungsverfahren
-verändert werden. Abweichend von § 4 Absatz 2 Satz 6 kann die
-Zwischenprüfung auch nach mehr als sechs Monaten Fachstudien angesetzt
-werden. Die Regeldauer des Vorbereitungsdienstes und der
-Einführungszeit kann verlängert werden. Auf die Zwischenprüfung und
-auf die mündliche Laufbahnprüfung kann verzichtet werden, wenn dies
-zwingend erforderlich ist. Soweit auf die Zwischenprüfung verzichtet
-wird, ist den Prüflingen der Ausbildungsstand in anderer geeigneter
-Weise mitzuteilen. Ein unzureichender Ausbildungsstand ist mit den
-Beamten zu erörtern.
-
-(5) Wird nach Absatz 4 auf die mündliche Laufbahnprüfung verzichtet,
-wird die Endpunktzahl der Laufbahnprüfung abweichend von § 45 Absatz 2
-der Steuerbeamtenausbildungs- und -prüfungsordnung in der am 10. März
-2020 geltenden Fassung nach folgenden Formeln ermittelt:
-
-1.  im mittleren Dienst nach der Formel
-
-    ![bgbl1_2021_j2442-1_0010.jpg](bgbl1_2021_j2442-1_0010.jpg)
-
-2.  im gehobenen Dienst nach der Formel
-
-    ![bgbl1_2021_j2442-1_0020.jpg](bgbl1_2021_j2442-1_0020.jpg)
-
-
-
-(6) Eine Verwendung der Beamten bei der Bewältigung der
-COVID-19-Pandemie ist im Umfang von bis zu sechs Monaten auf die
-Zeiten der fachtheoretischen und berufspraktischen Ausbildung im
-mittleren Dienst, auf die Fachstudien und berufspraktischen
-Studienzeiten im gehobenen Dienst, beim Aufstieg sowie auf die Zeit
-der praktischen Einweisung in die Aufgaben des höheren Dienstes
-anzurechnen. Dies gilt nur für Verwendungen, die von der für die
-Finanzverwaltung zuständigen obersten Landesbehörde oder der von ihr
-bestimmten Stelle aus zwingenden Gründen angeordnet wurden.
-
-(7) Über die ergriffenen Maßnahmen ist dem Ausschuss nach § 8 Nummer 7
-zu berichten. Der Ausschuss kann Empfehlungen aussprechen.
-
-(8) Dieser Paragraf tritt am 31. Dezember 2024 außer Kraft.
+## § 9 (weggefallen)
 
 
 ## § 10 Übergangsvorschrift zu § 9

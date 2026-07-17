@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Zuschläge zu dem Bedarf nach dem Bundesausbildungsförderungsgesetz
-  bei einer Ausbildung im Ausland
+Title: Verordnung über die Zuschläge zu dem Bedarf nach dem Bundesausbildungsförderungsgesetz bei einer Ausbildung im Ausland
 jurabk: BAföGZuschlagsV
 layout: default
 origslug: baf_gzuschlagsv
@@ -17,13 +16,13 @@ Fundstelle
 :   BGBl I: 1986, 935
 
 Zuletzt geändert durch
-:   Art. 4 G v. 8.7.2019 I 1048
+:   Art. 1 V v. 15.7.2022 I 1162
 
 
 ## Eingangsformel
 
-Auf Grund des § 13 Abs. 4 des Bundesausbildungsförderungsgesetzes in
-der Fassung der Bekanntmachung vom 6. Juni 1983 (BGBl. I S. 645)
+Auf Grund des § 13 Abs. 4 des Bundesausbildungsförderungsgesetzes
+in der Fassung der Bekanntmachung vom 6. Juni 1983 (BGBl. I S. 645)
 verordnet die Bundesregierung mit Zustimmung des Bundesrates:
 
 
@@ -39,19 +38,14 @@ dem Bedarf geleistet:
     Leistungen am ausländischen Ausbildungsort unter deren Kaufkraft im
     Inland liegt (§ 2),
 
-
 2.  die nachweisbar notwendigen Studiengebühren (§ 3),
-
 
 3.  Aufwendungen für Reisen zum Ort der Ausbildung (§ 4),
 
-
 4.  Aufwendungen für die Krankenversicherung (§ 5).
 
-
-
-Satz 1 Nr. 3 und 4 gilt entsprechend für Praktika nach § 5 Abs. 5 des
-Gesetzes.
+Satz 1 Nr. 3 und 4 gilt entsprechend für Praktika nach § 5 Abs. 5
+des Gesetzes.
 
 (2) Zuschläge nach dieser Verordnung werden nicht geleistet, soweit §
 12 Abs. 4 des Gesetzes gilt.
@@ -59,13 +53,13 @@ Gesetzes.
 
 ## § 2 Höhe des Auslandszuschlags
 
-(1) Der Auslandszuschlag bemisst sich nach dem Prozentsatz, den das
-Auswärtige Amt zum Kaufkraftausgleich nach § 55 des
+(1) Der Auslandszuschlag bemisst sich nach dem Prozentsatz,
+den das Auswärtige Amt zum Kaufkraftausgleich nach § 55 des
 Bundesbesoldungsgesetzes festsetzt. Bezugsgröße ist der Bedarf nach §
 13 Absatz 1 Nummer 2 und Absatz 2 Nummer 2 des Gesetzes.
 
-(2) Für Bewilligungszeiträume, die im ersten Halbjahr eines Jahres
-beginnen, ist der zum 1. Oktober des Vorjahres festgesetzte
+(2) Für Bewilligungszeiträume, die im ersten Halbjahr eines
+Jahres beginnen, ist der zum 1. Oktober des Vorjahres festgesetzte
 Prozentsatz maßgeblich, für Bewilligungszeiträume, die im zweiten
 Halbjahr eines Jahres beginnen, der zum 1. April desselben Jahres
 festgesetzte Prozentsatz. Der Prozentsatz gilt jeweils für den
@@ -75,7 +69,7 @@ gesamten Bewilligungszeitraum.
 ## § 3 Studiengebühren
 
 (1) Nachweisbar notwendige Studiengebühren werden längstens für die
-Dauer eines Jahres bis zur Höhe von 4.600 Euro geleistet.
+Dauer eines Jahres bis zur Höhe von 5 600 Euro geleistet.
 
 (2) Über den in Absatz 1 genannten Betrag hinaus können
 Studiengebühren nur geleistet werden, wenn
@@ -83,16 +77,12 @@ Studiengebühren nur geleistet werden, wenn
 1.  die Ausbildung nur an der gewählten Hochschule durchgeführt werden
     kann oder
 
-
 2.  im Einzelfall ein besonderes Studienvorhaben des Auszubildenden nur an
     der gewählten Hochschule durchgeführt werden kann und dies im Hinblick
     auf die Leistungen des Auszubildenden besonders förderungswürdig ist.
     Hierüber sind gutachtliche Stellungnahmen von zwei im Inland tätigen
     Hochschullehrern vorzulegen. Das Amt für Ausbildungsförderung kann in
     Zweifelsfällen weitere gutachtliche Stellungnahmen einholen.
-
-
-
 
 (3) Der Auszubildende hat nachzuweisen, mit welchem Ergebnis er sich
 um Erlaß oder Ermäßigung der Studiengebühren bemüht hat.
@@ -102,8 +92,8 @@ um Erlaß oder Ermäßigung der Studiengebühren bemüht hat.
 
 (1) Für die Hinreise zum Ausbildungsort sowie für eine Rückreise wird
 ein Reisekostenzuschlag geleistet. Der Reisekostenzuschlag beträgt
-jeweils 250 Euro bei einer Reise innerhalb Europas, sonst jeweils 500
-Euro.
+jeweils 250 Euro bei einer Reise innerhalb Europas, sonst jeweils
+500 Euro.
 
 (2) In besonderen Härtefällen können die notwendigen Aufwendungen für
 eine weitere Hin- und Rückreise geleistet werden.
@@ -112,8 +102,8 @@ eine weitere Hin- und Rückreise geleistet werden.
 ## § 5 Aufwendungen für die Krankenversicherung
 
 Zu den Aufwendungen der Krankenversicherung des Auszubildenden wird
-monatlich ein Zuschlag in Höhe des Betrages nach § 13a Absatz 1 Satz 1
-des Gesetzes geleistet, wenn der Auszubildende das Bestehen eines
+monatlich ein Zuschlag in Höhe des Betrages nach § 13a Absatz 1 Satz
+1 des Gesetzes geleistet, wenn der Auszubildende das Bestehen eines
 Krankenversicherungsschutzes nachweist.
 
 
@@ -123,9 +113,9 @@ Zur Abgeltung eines besonderen Bedarfs bei einer Ausbildung im Ausland
 nach § 5 Abs. 2 und 5 des Gesetzes wird Ausbildungsförderung nur nach
 dieser Verordnung geleistet. Die Verordnung über Zusatzleistungen in
 Härtefällen nach dem Bundesausbildungsförderungsgesetz vom 15. Juli
-1974 (BGBl. I S. 1449), die zuletzt durch Artikel 2 des Gesetzes vom
-24\. Juli 1995 (BGBl. I S. 976) geändert worden ist, findet insoweit
-keine Anwendung.
+1974 (BGBl. I S. 1449), die zuletzt durch Artikel 2 der Verordnung vom
+15\. Juli 2022 (BGBl. I S. 1162) geändert worden ist, in der jeweils
+geltenden Fassung findet insoweit keine Anwendung.
 
 
 ## § 7 Anwendungsbestimmungen aus Anlass der Änderungen durch das Zweiundzwanzigste Gesetz zur Änderung des Bundesausbildungsförderungsgesetzes
@@ -140,9 +130,9 @@ weiter anzuwenden, § 2 jedoch nicht in den Fällen einer Förderung nach
 
 Für Bewilligungszeiträume, die vor dem 28. Oktober 2010 begonnen
 haben, ist § 2 bis zum 30. September 2010 in der bis zum 28. Oktober
-2010 geltenden Fassung anzuwenden. Für Bewilligungszeiträume, die vor
-dem 1. Januar 2011 begonnen haben, gilt der Prozentsatz, den das
-Auswärtige Amt zum Kaufkraftausgleich nach den §§ 7 und 54 des
+2010 geltenden Fassung anzuwenden. Für Bewilligungszeiträume, die
+vor dem 1. Januar 2011 begonnen haben, gilt der Prozentsatz, den
+das Auswärtige Amt zum Kaufkraftausgleich nach den §§ 7 und 54 des
 Bundesbesoldungsgesetzes in der Fassung vom 19. Juni 2009 zum 1. April
 2010 festgesetzt hat.
 

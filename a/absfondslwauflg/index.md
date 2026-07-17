@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zur Auflösung und Abwicklung der Anstalt Absatzförderungsfonds der deutschen
-  Land- und Ernährungswirtschaft
+Title: Gesetz zur Auflösung und Abwicklung der Anstalt Absatzförderungsfonds der deutschen Land- und Ernährungswirtschaft
 jurabk: AbsFondsLwAuflG
 layout: default
 origslug: absfondslwauflg
@@ -29,17 +28,12 @@ Abwicklung der Anstalt ist beendet, sobald
 
 1.  ihre laufenden Geschäfte beendigt,
 
-
 2.  ihre Verbindlichkeiten erfüllt,
-
 
 3.  ihre Forderungen eingezogen und
 
-
 4.  ihr Vermögen in Geld umgesetzt und dieses nach Maßgabe des § 2 Absatz
     2 übergegangen ist.
-
-
 
 Neue Verbindlichkeiten können nur eingegangen werden, soweit sie dem
 Zweck der Abwicklung dienen.
@@ -69,14 +63,10 @@ bei der Landwirtschaftlichen Rentenbank zu verwenden.
 1.  das Absatzfondsgesetz in der Fassung der Bekanntmachung vom 4. Oktober
     2007 (BGBl. I S. 2342),
 
-
 2.  die Verordnung über die Beiträge nach dem Absatzfondsgesetz in der
     Fassung der Bekanntmachung vom 4. Juli 1994 (BGBl. I S. 1456), die
     zuletzt durch Artikel 7 des Gesetzes vom 25. Juni 2001 (BGBl. I S.
     1215) geändert worden ist.
-
-
-
 
 (2) Bis zum Ablauf des Tages, an dem die Abwicklung der Anstalt
 Absatzförderungsfonds der deutschen Land- und Ernährungswirtschaft

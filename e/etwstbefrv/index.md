@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Gewährung von Steuerbefreiungen für die European Transsonic
-  Windtunnel GmbH
+Title: Verordnung über die Gewährung von Steuerbefreiungen für die European Transsonic Windtunnel GmbH
 jurabk: ETWStBefrV
 layout: default
 origslug: etwstbefrv
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl II: 1989, 738
-
 
 
 ## Eingangsformel
@@ -35,12 +33,12 @@ Bundesregierung:
 Die auf Grund der Vereinbarung vom 27. April 1988 zwischen den
 Regierungen der Bundesrepublik Deutschland, der Französischen
 Republik, des Königreichs der Niederlande und des Vereinigten
-Königreichs Großbritannien und Nordirland über den gemeinsamen Bau und
-den gemeinsamen Betrieb des Europäischen Transschall-Windkanals
-gegründete European Transsonic Windtunnel Gesellschaft mit
-beschränkter Haftung wird hinsichtlich ihrer satzungsmäßigen Tätigkeit
-und des dieser Tätigkeit dienenden Betriebsvermögens von der
-Körperschaftsteuer, der Gewerbesteuer, der Vermögensteuer, der
+Königreichs Großbritannien und Nordirland über den gemeinsamen
+Bau und den gemeinsamen Betrieb des Europäischen Transschall-
+Windkanals gegründete European Transsonic Windtunnel Gesellschaft
+mit beschränkter Haftung wird hinsichtlich ihrer satzungsmäßigen
+Tätigkeit und des dieser Tätigkeit dienenden Betriebsvermögens von
+der Körperschaftsteuer, der Gewerbesteuer, der Vermögensteuer, der
 Grundsteuer, der Grunderwerbsteuer, der Kraftfahrzeugsteuer, der
 Versicherungsteuer und der Feuerschutzsteuer befreit.
 

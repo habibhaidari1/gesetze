@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung einer Bundesmünze im Nennwert von 10 Deutschen
-  Mark (3. Motiv der Olympia-Münze - Ausgabe 1971)
+Title: Bekanntmachung über die Ausprägung einer Bundesmünze im Nennwert von 10 Deutschen Mark (3. Motiv der Olympia-Münze - Ausgabe 1971)
 jurabk: OlympiaMünz3Bek
 layout: default
 origslug: olympiam_nz3bek
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 1971, 1806
-
 
 
 ## (XXXX)
@@ -36,12 +34,9 @@ Gewicht 15,5 Gramm.
 (4) Der Entwurf für das 3. Motiv stammt von dem Bildhauer Siegmund
 Schütz, Berlin.
 
-
 (5) Die Wertseite mit der Umschrift: BUNDESREPUBLIK DEUTSCHLAND
 
-    10 DEUTSCHE MARK
-
-
+                                     10 DEUTSCHE MARK
 
 ist mit dem Bundesadler ausgefüllt. Das jeweilige Münzzeichen ist in
 dem Winkel untergebracht, der von der linken Schwinge des Adlers und
@@ -51,16 +46,11 @@ dem unteren Teil des Rumpfes gebildet wird.
 komponierten Sportlergruppe, die von einem knienden Jüngling und einem
 knienden Mädchen gebildet wird. Die Umschrift lautet:
 
-*   SPIELE DER XX. OLYMPIADE 1972 IN MÜNCHEN.
-
-
-
+-   SPIELE DER XX. OLYMPIADE 1972 IN MÜNCHEN.
 
 (7) Der glatte Münzrand ist mit der vertieften Inschrift:
 
-*   CITIUS ALTIUS FORTIUS
-
-
+-   CITIUS ALTIUS FORTIUS
 
 und mit Ornamenten zwischen den Worten versehen.
 

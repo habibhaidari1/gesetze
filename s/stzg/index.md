@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zur Sicherstellung des Embryonenschutzes im Zusammenhang mit Einfuhr
-  und Verwendung menschlicher embryonaler Stammzellen
+Title: Gesetz zur Sicherstellung des Embryonenschutzes im Zusammenhang mit Einfuhr und Verwendung menschlicher embryonaler Stammzellen
 jurabk: StZG
 layout: default
 origslug: stzg
@@ -29,24 +28,19 @@ zu schützen und die Freiheit der Forschung zu gewährleisten,
 1.  die Einfuhr und die Verwendung embryonaler Stammzellen grundsätzlich
     zu verbieten,
 
-
 2.  zu vermeiden, dass von Deutschland aus eine Gewinnung embryonaler
     Stammzellen oder eine Erzeugung von Embryonen zur Gewinnung
     embryonaler Stammzellen veranlasst wird, und
-
 
 3.  die Voraussetzungen zu bestimmen, unter denen die Einfuhr und die
     Verwendung embryonaler Stammzellen ausnahmsweise zu Forschungszwecken
     zugelassen sind.
 
 
-
-
-
 ## § 2 Anwendungsbereich
 
-Dieses Gesetz gilt für die Einfuhr von embryonalen Stammzellen und für
-die Verwendung von embryonalen Stammzellen, die sich im Inland
+Dieses Gesetz gilt für die Einfuhr von embryonalen Stammzellen und
+für die Verwendung von embryonalen Stammzellen, die sich im Inland
 befinden.
 
 
@@ -60,28 +54,21 @@ Im Sinne dieses Gesetzes
     Bedingungen zu Zellen unterschiedlicher Spezialisierung, jedoch nicht
     zu einem Individuum zu entwickeln vermögen (pluripotente Stammzellen),
 
-
 2.  sind embryonale Stammzellen alle aus Embryonen, die extrakorporal
     erzeugt und nicht zur Herbeiführung einer Schwangerschaft verwendet
     worden sind oder einer Frau vor Abschluss ihrer Einnistung in der
     Gebärmutter entnommen wurden, gewonnenen pluripotenten Stammzellen,
 
-
-3.  sind embryonale Stammzell-Linien alle embryonalen Stammzellen, die in
-    Kultur gehalten werden oder im Anschluss daran kryokonserviert
+3.  sind embryonale Stammzell-Linien alle embryonalen Stammzellen, die
+    in Kultur gehalten werden oder im Anschluss daran kryokonserviert
     gelagert werden,
-
 
 4.  ist Embryo bereits jede menschliche totipotente Zelle, die sich bei
     Vorliegen der dafür erforderlichen weiteren Voraussetzungen zu teilen
     und zu einem Individuum zu entwickeln vermag,
 
-
 5.  ist Einfuhr das Verbringen embryonaler Stammzellen in den
     Geltungsbereich dieses Gesetzes.
-
-
-
 
 
 ## § 4 Einfuhr und Verwendung embryonaler Stammzellen
@@ -100,7 +87,6 @@ genannten Voraussetzungen zulässig, wenn
         gehalten werden oder im Anschluss daran kryokonserviert gelagert
         werden (embryonale Stammzell-Linie),
 
-
     b)  die Embryonen, aus denen sie gewonnen wurden, im Wege der medizinisch
         unterstützten extrakorporalen Befruchtung zum Zwecke der Herbeiführung
         einer Schwangerschaft erzeugt worden sind, sie endgültig nicht mehr
@@ -108,20 +94,12 @@ genannten Voraussetzungen zulässig, wenn
         vorliegen, dass dies aus Gründen erfolgte, die an den Embryonen selbst
         liegen,
 
-
     c)  für die Überlassung der Embryonen zur Stammzellgewinnung kein Entgelt
         oder sonstiger geldwerter Vorteil gewährt oder versprochen wurde und
 
-
-
-
-
-2.  der Einfuhr oder Verwendung der embryonalen Stammzellen sonstige
-    gesetzliche Vorschriften, insbesondere solche des
+2.  der Einfuhr oder Verwendung der embryonalen Stammzellen
+    sonstige gesetzliche Vorschriften, insbesondere solche des
     Embryonenschutzgesetzes, nicht entgegenstehen.
-
-
-
 
 (3) Die Genehmigung ist zu versagen, wenn die Gewinnung der
 embryonalen Stammzellen offensichtlich im Widerspruch zu tragenden
@@ -136,11 +114,10 @@ Forschungsarbeiten an embryonalen Stammzellen dürfen nur durchgeführt
 werden, wenn wissenschaftlich begründet dargelegt ist, dass
 
 1.  sie hochrangigen Forschungszielen für den wissenschaftlichen
-    Erkenntnisgewinn im Rahmen der Grundlagenforschung oder für die
-    Erweiterung medizinischer Kenntnisse bei der Entwicklung
+    Erkenntnisgewinn im Rahmen der Grundlagenforschung oder für
+    die Erweiterung medizinischer Kenntnisse bei der Entwicklung
     diagnostischer, präventiver oder therapeutischer Verfahren zur
     Anwendung bei Menschen dienen und
-
 
 2.  nach dem anerkannten Stand von Wissenschaft und Technik
 
@@ -148,16 +125,9 @@ werden, wenn wissenschaftlich begründet dargelegt ist, dass
         möglich bereits in In-vitro-Modellen mit tierischen Zellen oder in
         Tierversuchen vorgeklärt worden sind und
 
-
     b)  der mit dem Forschungsvorhaben angestrebte wissenschaftliche
         Erkenntnisgewinn sich voraussichtlich nur mit embryonalen Stammzellen
         erreichen lässt.
-
-
-
-
-
-
 
 
 ## § 6 Genehmigung
@@ -172,15 +142,13 @@ Angaben zu machen:
 1.  den Namen und die berufliche Anschrift der für das Forschungsvorhaben
     verantwortlichen Person,
 
-
 2.  eine Beschreibung des Forschungsvorhabens einschließlich einer
     wissenschaftlich begründeten Darlegung, dass das Forschungsvorhaben
     den Anforderungen nach § 5 entspricht,
 
-
 3.  eine Dokumentation der für die Einfuhr oder Verwendung vorgesehenen
-    embryonalen Stammzellen darüber, dass die Voraussetzungen nach § 4
-    Abs. 2 Nr. 1 erfüllt sind; der Dokumentation steht ein Nachweis
+    embryonalen Stammzellen darüber, dass die Voraussetzungen nach §
+    4 Abs. 2 Nr. 1 erfüllt sind; der Dokumentation steht ein Nachweis
     gleich, der belegt, dass
 
     a)  die vorgesehenen embryonalen Stammzellen mit denjenigen identisch
@@ -188,15 +156,8 @@ Angaben zu machen:
         zugänglichen und durch staatliche oder staatlich autorisierte Stellen
         geführten Register eingetragen sind, und
 
-
     b)  durch diese Eintragung die Voraussetzungen nach § 4 Abs. 2 Nr. 1
         erfüllt sind.
-
-
-
-
-
-
 
 (3) Die zuständige Behörde hat dem Antragsteller den Eingang des
 Antrags und der beigefügten Unterlagen unverzüglich schriftlich oder
@@ -210,17 +171,12 @@ Stammzellenforschung mit.
 
 1.  die Voraussetzungen nach § 4 Abs. 2 erfüllt sind,
 
-
 2.  die Voraussetzungen nach § 5 erfüllt sind und das Forschungsvorhaben
     in diesem Sinne ethisch vertretbar ist und
-
 
 3.  eine Stellungnahme der Zentralen Ethik-Kommission für
     Stammzellenforschung nach Beteiligung durch die zuständige Behörde
     vorliegt.
-
-
-
 
 (5) Liegen die vollständigen Antragsunterlagen sowie eine
 Stellungnahme der Zentralen Ethik-Kommission für Stammzellenforschung
@@ -232,15 +188,15 @@ Entscheidung von der Stellungnahme der Zentralen Ethik-Kommission für
 Stammzellenforschung ab, so hat sie die Gründe hierfür schriftlich
 darzulegen.
 
-(6) Die Genehmigung kann unter Auflagen und Bedingungen erteilt und
-befristet werden, soweit dies zur Erfüllung oder fortlaufenden
-Einhaltung der Genehmigungsvoraussetzungen nach Absatz 4 erforderlich
-ist. Treten nach Erteilung der Genehmigung Tatsachen ein, die der
-Genehmigung entgegenstehen, kann die Genehmigung mit Wirkung für die
-Zukunft ganz oder teilweise widerrufen oder von der Erfüllung von
-Auflagen abhängig gemacht oder befristet werden, soweit dies zur
-Erfüllung oder fortlaufenden Einhaltung der
-Genehmigungsvoraussetzungen nach Absatz 4 erforderlich ist.
+(6) Die Genehmigung kann unter Auflagen und Bedingungen erteilt
+und befristet werden, soweit dies zur Erfüllung oder fortlaufenden
+Einhaltung der Genehmigungsvoraussetzungen nach Absatz 4
+erforderlich ist. Treten nach Erteilung der Genehmigung Tatsachen
+ein, die der Genehmigung entgegenstehen, kann die Genehmigung
+mit Wirkung für die Zukunft ganz oder teilweise widerrufen oder
+von der Erfüllung von Auflagen abhängig gemacht oder befristet
+werden, soweit dies zur Erfüllung oder fortlaufenden Einhaltung
+der Genehmigungsvoraussetzungen nach Absatz 4 erforderlich ist.
 Widerspruch und Anfechtungsklage gegen die Rücknahme oder den Widerruf
 der Genehmigung haben keine aufschiebende Wirkung.
 
@@ -270,17 +226,17 @@ Biologie und Medizin berufen. Die Kommission wählt aus ihrer Mitte
 Vorsitz und Stellvertretung.
 
 (2) Die Mitglieder der Zentralen Ethik-Kommission für
-Stammzellenforschung werden von der Bundesregierung für die Dauer von
-drei Jahren berufen. Die Wiederberufung ist zulässig. Für jedes
+Stammzellenforschung werden von der Bundesregierung für die Dauer
+von drei Jahren berufen. Die Wiederberufung ist zulässig. Für jedes
 Mitglied wird in der Regel ein stellvertretendes Mitglied bestellt.
 
-(3) Die Mitglieder und die stellvertretenden Mitglieder sind
-unabhängig und an Weisungen nicht gebunden. Sie sind zur
-Verschwiegenheit verpflichtet. Die §§ 20 und 21 des
+(3) Die Mitglieder und die stellvertretenden Mitglieder
+sind unabhängig und an Weisungen nicht gebunden. Sie sind
+zur Verschwiegenheit verpflichtet. Die §§ 20 und 21 des
 Verwaltungsverfahrensgesetzes gelten entsprechend.
 
-(4) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung das
-Nähere über die Berufung und das Verfahren der Zentralen Ethik-
+(4) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung
+das Nähere über die Berufung und das Verfahren der Zentralen Ethik-
 Kommission für Stammzellenforschung, die Heranziehung externer
 Sachverständiger sowie die Zusammenarbeit mit der zuständigen Behörde
 einschließlich der Fristen zu regeln.
@@ -303,19 +259,14 @@ nach § 11 verwendet werden
 
 1.  die Angaben über die embryonalen Stammzellen nach § 4 Abs. 2 Nr. 1,
 
-
 2.  der Name und die berufliche Anschrift der für das Forschungsvorhaben
     verantwortlichen Person,
 
-
 3.  die Grunddaten des Forschungsvorhabens, insbesondere eine
     zusammenfassende Darstellung der geplanten Forschungsarbeiten
-    einschließlich der maßgeblichen Gründe für ihre Hochrangigkeit, die
-    Institution, in der sie durchgeführt werden sollen, und ihre
+    einschließlich der maßgeblichen Gründe für ihre Hochrangigkeit,
+    die Institution, in der sie durchgeführt werden sollen, und ihre
     voraussichtliche Dauer.
-
-
-
 
 (3) Wird der Antrag vor der Entscheidung über die Genehmigung
 zurückgezogen, hat die zuständige Behörde die über die
@@ -333,8 +284,8 @@ einem öffentlich zugänglichen Register geführt.
 ## § 12 Anzeigepflicht
 
 Die für das Forschungsvorhaben verantwortliche Person hat wesentliche
-nachträglich eingetretene Änderungen, die die Zulässigkeit der Einfuhr
-oder der Verwendung der embryonalen Stammzellen betreffen,
+nachträglich eingetretene Änderungen, die die Zulässigkeit der
+Einfuhr oder der Verwendung der embryonalen Stammzellen betreffen,
 unverzüglich der zuständigen Behörde anzuzeigen. § 6 bleibt unberührt.
 
 
@@ -345,10 +296,7 @@ bestraft, wer ohne Genehmigung nach § 6 Abs. 1
 
 1.  embryonale Stammzellen einführt oder
 
-
 2.  embryonale Stammzellen, die sich im Inland befinden, verwendet.
-
-
 
 Ohne Genehmigung im Sinne des Satzes 1 handelt auch, wer auf Grund
 einer durch vorsätzlich falsche Angaben erschlichenen Genehmigung
@@ -366,12 +314,8 @@ bestraft, wer einer vollziehbaren Auflage nach § 6 Abs. 6 Satz 1 oder
 1.  entgegen § 6 Abs. 2 Satz 2 eine dort genannte Angabe nicht richtig
     oder nicht vollständig macht oder
 
-
 2.  entgegen § 12 Satz 1 eine Anzeige nicht, nicht richtig, nicht
     vollständig oder nicht rechtzeitig erstattet.
-
-
-
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
 fünfzigtausend Euro geahndet werden.
@@ -379,10 +323,10 @@ fünfzigtausend Euro geahndet werden.
 
 ## § 15 Bericht
 
-Die Bundesregierung übermittelt dem Deutschen Bundestag im Abstand von
-zwei Jahren, erstmals zum Ablauf des Jahres 2003, einen
-Erfahrungsbericht über die Durchführung des Gesetzes. Der Bericht
-stellt auch die Ergebnisse der Forschung an anderen Formen
+Die Bundesregierung übermittelt dem Deutschen Bundestag im
+Abstand von zwei Jahren, erstmals zum Ablauf des Jahres 2003,
+einen Erfahrungsbericht über die Durchführung des Gesetzes. Der
+Bericht stellt auch die Ergebnisse der Forschung an anderen Formen
 menschlicher Stammzellen dar.
 
 

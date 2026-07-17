@@ -1,7 +1,5 @@
 ---
-Title: Hundertfünfundsechzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung
-  von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrslandeplatz
-  Mönchengladbach)
+Title: Hundertfünfundsechzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrslandeplatz Mönchengladbach)
 jurabk: LuftVODV 165
 layout: default
 origslug: luftvodv_165
@@ -16,4 +14,7 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BAnz: 1996, Nr 48, 2513
+
+Fundstelle
+:   BAnz: 1996, 2513
 

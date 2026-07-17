@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zur Festsetzung der Beitragssätze in der gesetzlichen Rentenversicherung
-  für das Jahr 2013
+Title: Gesetz zur Festsetzung der Beitragssätze in der gesetzlichen Rentenversicherung für das Jahr 2013
 jurabk: BSG 2013
 layout: default
 origslug: bsg_2013

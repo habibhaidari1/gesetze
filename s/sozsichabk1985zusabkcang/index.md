@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zu dem Zusatzabkommen vom 27. August 2002 zum Abkommen vom 14. November
-  1985 zwischen der Bundesrepublik Deutschland und Kanada über Soziale Sicherheit
+Title: Gesetz zu dem Zusatzabkommen vom 27. August 2002 zum Abkommen vom 14. November 1985 zwischen der Bundesrepublik Deutschland und Kanada über Soziale Sicherheit
 jurabk: SozSichAbk1985ZusAbkCANG
 layout: default
 origslug: sozsichabk1985zusabkcang
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl II: 2003, 666
-
 
 
 ## Eingangsformel

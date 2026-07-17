@@ -1,7 +1,5 @@
 ---
-Title: Hundertneunundfünfzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung
-  von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Flughafen
-  Saarbrücken)
+Title: Hundertneunundfünfzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Flughafen Saarbrücken)
 jurabk: LuftVODV 159
 layout: default
 origslug: luftvodv_159
@@ -16,4 +14,7 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BAnz: 1996, Nr 3, 61
+
+Fundstelle
+:   BAnz: 1996, 61
 

@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl I: 1977, 1337
 
 
-
 ## Eingangsformel
 
 Auf Grund des § 368c Abs. 1 der Reichsversicherungsordnung in der im
@@ -34,18 +33,18 @@ des Bundesrates verordnet:
 
 ## Art 2
 
-(1) Für die Beteiligungen, die nach § 30 der Zulassungsordnung in der
-bis zum Inkrafttreten dieser Verordnung geltenden Fassung
-ausgesprochen worden sind, gilt diese Vorschrift fort. Die nach dieser
-Vorschrift bei Inkrafttreten dieser Verordnung bei dem
+(1) Für die Beteiligungen, die nach § 30 der Zulassungsordnung
+in der bis zum Inkrafttreten dieser Verordnung geltenden Fassung
+ausgesprochen worden sind, gilt diese Vorschrift fort. Die nach
+dieser Vorschrift bei Inkrafttreten dieser Verordnung bei dem
 Zulassungsausschuß gestellten Anträge auf Beteiligung gelten als
 Anträge auf Ermächtigung zur Teilnahme an der kassenzahnärztlichen
 Versorgung; die Anträge sind der zuständigen Kassenzahnärztlichen
 Vereinigung zuzuleiten.
 
 (2) Ermächtigungen zur Teilnahme an der kassenzahnärztlichen
-Versorgung, die bis zum Inkrafttreten dieser Verordnung auf Grund der
-Vorschriften des Bundesmantelvertrags zwischen der
+Versorgung, die bis zum Inkrafttreten dieser Verordnung auf
+Grund der Vorschriften des Bundesmantelvertrags zwischen der
 Kassenzahnärztlichen Bundesvereinigung und den Bundesverbänden der
 Krankenkassen erteilt worden sind, gelten als Ermächtigungen nach § 31
 der Zulassungsordnung.
@@ -57,8 +56,8 @@ Zeitpunkt geltenden Fassung fort.
 
 ## Art 3
 
-Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
-Verbindung mit Artikel 5 § 2 des Dritten Rentenversicherungs-
+Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes
+in Verbindung mit Artikel 5 § 2 des Dritten Rentenversicherungs-
 Änderungsgesetzes vom 28. Juni 1969 (BGBl. I S. 956) auch im Land
 Berlin.
 

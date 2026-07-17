@@ -16,11 +16,10 @@ Fundstelle
 :   BGBl I: 1994, 2911
 
 Zuletzt geändert durch
-:   Art. 36 G v. 10.8.2021 I 3436
+:   Art. 37 G v. 12.7.2024 I Nr. 234
 
 
 ## Erster Teil - Neufassung des Anfechtungsgesetzes
-
 
 
 ## Art 1
@@ -29,7 +28,6 @@ Zuletzt geändert durch
 
 
 ## Zweiter Teil - Aufhebung und Änderung von Gesetzen
-
 
 
 ## Art 2 Aufhebung von Gesetzen
@@ -41,18 +39,11 @@ Es werden aufgehoben:
 4\.
 5\.
 6\.
-
-7.  die Gesamtvollstreckungsordnung in der Fassung der Bekanntmachung vom
-    23\. Mai 1991 (BGBl. I S. 1185), geändert durch Artikel 5 des Gesetzes
-    vom 24. Juni 1994 (BGBl. I S. 1374);
-
-
-8.  das Gesamtvollstreckungs-Unterbrechungsgesetz in der Fassung der
-    Bekanntmachung vom 23. Mai 1991 (BGBl. I S. 1191);
-
-
-
-9\.
+7\. *die Gesamtvollstreckungsordnung in der Fassung der Bekanntmachung
+vom 23. Mai 1991 (BGBl. I S. 1185), geändert durch Artikel 5 des
+Gesetzes vom 24. Juni 1994 (BGBl. I S. 1374);*
+8\. *das Gesamtvollstreckungs-Unterbrechungsgesetz in der Fassung der
+Bekanntmachung vom 23. Mai 1991 (BGBl. I S. 1191);*9.
 
 
 ## (XXXX) Art 3 bis 20
@@ -64,33 +55,30 @@ Es werden aufgehoben:
 
 (1)
 
-(2) Die Maßgabe zur Seerechtlichen Verteilungsordnung in Anlage I
-Kapitel III Sachgebiet D Abschnitt III Nr. 3 Buchstabe b des
-Einigungsvertrages vom 31. August 1990 in Verbindung mit Artikel 1 des
-Gesetzes vom 23. September 1990 (BGBl. II S. 885, 960) ist nicht mehr
-anzuwenden.
+(2) Die Maßgabe zur Seerechtlichen Verteilungsordnung in Anlage
+I Kapitel III Sachgebiet D Abschnitt III Nr. 3 Buchstabe b des
+Einigungsvertrages vom 31. August 1990 in Verbindung mit Artikel 1
+des Gesetzes vom 23. September 1990 (BGBl. II S. 885, 960) ist nicht
+mehr anzuwenden.
 
 
 ## (XXXX) Art 22 bis 101
 
 -
 
-Internationales Insolvenzrecht.
 
-## Dritter Teil - Übergangs- und Schlußvorschriften
-
+## Dritter Teil - Internationales Insolvenzrecht. Übergangs- und Schlußvorschriften
 
 
 ## Art 102 - Durchführung der Verordnung (EG) Nr. 1346/2000 über Insolvenzverfahren
 
 
+### § 1 Örtliche Zuständigkeit
 
-## § 1 Örtliche Zuständigkeit
-
-(1) Kommt in einem Insolvenzverfahren den deutschen Gerichten nach
-Artikel 3 Abs. 1 der Verordnung (EG) Nr. 1346/2000 des Rates vom 29.
-Mai 2000 über Insolvenzverfahren (ABl. EG Nr. L 160 S. 1) die
-internationale Zuständigkeit zu, ohne dass nach § 3 der
+(1) Kommt in einem Insolvenzverfahren den deutschen Gerichten
+nach Artikel 3 Abs. 1 der Verordnung (EG) Nr. 1346/2000 des Rates
+vom 29. Mai 2000 über Insolvenzverfahren (ABl. EG Nr. L 160 S.
+1) die internationale Zuständigkeit zu, ohne dass nach § 3 der
 Insolvenzordnung ein inländischer Gerichtsstand begründet wäre, so ist
 das Insolvenzgericht ausschließlich zuständig, in dessen Bezirk der
 Schuldner den Mittelpunkt seiner hauptsächlichen Interessen hat.
@@ -100,33 +88,33 @@ Abs. 2 der Verordnung (EG) Nr. 1346/2000, so ist ausschließlich das
 Insolvenzgericht zuständig, in dessen Bezirk die Niederlassung des
 Schuldners liegt. § 3 Abs. 2 der Insolvenzordnung gilt entsprechend.
 
-(3) Unbeschadet der Zuständigkeit nach den Absätzen 1 und 2 ist für
-Entscheidungen oder sonstige Maßnahmen nach der Verordnung (EG) Nr.
-1346/2000 jedes inländische Insolvenzgericht zuständig, in dessen
-Bezirk Vermögen des Schuldners belegen ist. Die Landesregierungen
-werden ermächtigt, zur sachdienlichen Förderung oder schnelleren
-Erledigung der Verfahren durch Rechtsverordnung die Entscheidungen
-oder Maßnahmen nach der Verordnung (EG) Nr. 1346/2000 für die Bezirke
-mehrerer Insolvenzgerichte einem von diesen zuzuweisen. Die
-Landesregierungen können die Ermächtigung auf die
+(3) Unbeschadet der Zuständigkeit nach den Absätzen 1 und 2 ist
+für Entscheidungen oder sonstige Maßnahmen nach der Verordnung
+(EG) Nr. 1346/2000 jedes inländische Insolvenzgericht zuständig,
+in dessen Bezirk Vermögen des Schuldners belegen ist. Die
+Landesregierungen werden ermächtigt, zur sachdienlichen Förderung
+oder schnelleren Erledigung der Verfahren durch Rechtsverordnung
+die Entscheidungen oder Maßnahmen nach der Verordnung (EG) Nr.
+1346/2000 für die Bezirke mehrerer Insolvenzgerichte einem von diesen
+zuzuweisen. Die Landesregierungen können die Ermächtigung auf die
 Landesjustizverwaltungen übertragen.
 
 
-## § 2 Begründung des Eröffnungsbeschlusses
+### § 2 Begründung des Eröffnungsbeschlusses
 
-Ist anzunehmen, dass sich Vermögen des Schuldners in einem anderen
-Mitgliedstaat der Europäischen Union befindet, sollen im
+Ist anzunehmen, dass sich Vermögen des Schuldners in einem
+anderen Mitgliedstaat der Europäischen Union befindet, sollen im
 Eröffnungsbeschluss die tatsächlichen Feststellungen und rechtlichen
 Erwägungen kurz dargestellt werden, aus denen sich eine Zuständigkeit
 nach Artikel 3 der Verordnung (EG) Nr. 1346/2000 für die deutschen
 Gerichte ergibt.
 
 
-## § 3 Vermeidung von Kompetenzkonflikten
+### § 3 Vermeidung von Kompetenzkonflikten
 
 (1) Hat das Gericht eines anderen Mitgliedstaats der Europäischen
-Union ein Hauptinsolvenzverfahren eröffnet, so ist, solange dieses
-Insolvenzverfahren anhängig ist, ein bei einem inländischen
+Union ein Hauptinsolvenzverfahren eröffnet, so ist, solange
+dieses Insolvenzverfahren anhängig ist, ein bei einem inländischen
 Insolvenzgericht gestellter Antrag auf Eröffnung eines solchen
 Verfahrens über das zur Insolvenzmasse gehörende Vermögen unzulässig.
 Ein entgegen Satz 1 eröffnetes Verfahren darf nicht fortgesetzt
@@ -141,11 +129,11 @@ Insolvenzverfahrens nicht ablehnen, weil die Gerichte des anderen
 Mitgliedstaats zuständig seien.
 
 
-## § 4 Einstellung des Insolvenzverfahrens zugunsten der Gerichte eines anderen Mitgliedstaats
+### § 4 Einstellung des Insolvenzverfahrens zugunsten der Gerichte eines anderen Mitgliedstaats
 
 (1) Darf das Insolvenzgericht ein bereits eröffnetes
-Insolvenzverfahren nach § 3 Abs. 1 nicht fortsetzen, so stellt es von
-Amts wegen das Verfahren zugunsten der Gerichte des anderen
+Insolvenzverfahren nach § 3 Abs. 1 nicht fortsetzen, so stellt es
+von Amts wegen das Verfahren zugunsten der Gerichte des anderen
 Mitgliedstaats der Europäischen Union ein. Das Insolvenzgericht soll
 vor der Einstellung den Insolvenzverwalter, den Gläubigerausschuss,
 wenn ein solcher bestellt ist, und den Schuldner hören. Wird das
@@ -156,42 +144,42 @@ beschwerdebefugt.
 bereits eingetreten und nicht auf die Dauer dieses Verfahrens
 beschränkt sind, bleiben auch dann bestehen, wenn sie Wirkungen eines
 in einem anderen Mitgliedstaat der Europäischen Union eröffneten
-Insolvenzverfahrens widersprechen, die sich nach der Verordnung (EG)
-Nr. 1346/2000 auf das Inland erstrecken. Dies gilt auch für
+Insolvenzverfahrens widersprechen, die sich nach der Verordnung
+(EG) Nr. 1346/2000 auf das Inland erstrecken. Dies gilt auch für
 Rechtshandlungen, die während des eingestellten Verfahrens vom
 Insolvenzverwalter oder ihm gegenüber in Ausübung seines Amtes
 vorgenommen worden sind.
 
-(3) Vor der Einstellung nach Absatz 1 hat das Insolvenzgericht das
-Gericht des anderen Mitgliedstaats der Europäischen Union, bei dem das
-Verfahren anhängig ist, über die bevorstehende Einstellung zu
-unterrichten; dabei soll angegeben werden, wie die Eröffnung des
-einzustellenden Verfahrens bekannt gemacht wurde, in welchen
-öffentlichen Büchern und Registern die Eröffnung eingetragen und wer
-Insolvenzverwalter ist. In dem Einstellungsbeschluss ist das Gericht
-des anderen Mitgliedstaats zu bezeichnen, zu dessen Gunsten das
-Verfahren eingestellt wird. Diesem Gericht ist eine Ausfertigung des
-Einstellungsbeschlusses zu übersenden. § 215 Abs. 2 der
+(3) Vor der Einstellung nach Absatz 1 hat das Insolvenzgericht
+das Gericht des anderen Mitgliedstaats der Europäischen Union, bei
+dem das Verfahren anhängig ist, über die bevorstehende Einstellung
+zu unterrichten; dabei soll angegeben werden, wie die Eröffnung
+des einzustellenden Verfahrens bekannt gemacht wurde, in welchen
+öffentlichen Büchern und Registern die Eröffnung eingetragen und
+wer Insolvenzverwalter ist. In dem Einstellungsbeschluss ist das
+Gericht des anderen Mitgliedstaats zu bezeichnen, zu dessen Gunsten
+das Verfahren eingestellt wird. Diesem Gericht ist eine Ausfertigung
+des Einstellungsbeschlusses zu übersenden. § 215 Abs. 2 der
 Insolvenzordnung ist nicht anzuwenden.
 
 
-## § 5 Öffentliche Bekanntmachung
+### § 5 Öffentliche Bekanntmachung
 
 (1) Der Antrag auf öffentliche Bekanntmachung des wesentlichen Inhalts
 der Entscheidungen nach Artikel 21 Abs. 1 der Verordnung (EG) Nr.
 1346/2000 ist an das nach § 1 zuständige Gericht zu richten. Das
-Gericht kann eine Übersetzung verlangen, die von einer hierzu in einem
-der Mitgliedstaaten der Europäischen Union befugten Person zu
+Gericht kann eine Übersetzung verlangen, die von einer hierzu in
+einem der Mitgliedstaaten der Europäischen Union befugten Person zu
 beglaubigen ist. § 9 Abs. 1 und 2 und § 30 Abs. 1 der Insolvenzordnung
 gelten entsprechend.
 
-(2) Besitzt der Schuldner im Inland eine Niederlassung, so erfolgt die
-öffentliche Bekanntmachung nach Absatz 1 von Amts wegen. Ist die
+(2) Besitzt der Schuldner im Inland eine Niederlassung, so erfolgt
+die öffentliche Bekanntmachung nach Absatz 1 von Amts wegen. Ist die
 Eröffnung des Insolvenzverfahrens bekannt gemacht worden, so ist die
 Beendigung in gleicher Weise bekannt zu machen.
 
 
-## § 6 Eintragung in öffentliche Bücher und Register
+### § 6 Eintragung in öffentliche Bücher und Register
 
 (1) Der Antrag auf Eintragung nach Artikel 22 der Verordnung (EG) Nr.
 1346/2000 ist an das nach § 1 zuständige Gericht zu richten. Dieses
@@ -200,40 +188,40 @@ Recht des Staats, in dem das Hauptinsolvenzverfahren eröffnet wurde,
 die Verfahrenseröffnung ebenfalls eingetragen wird. § 32 Abs. 2 Satz 2
 der Insolvenzordnung findet keine Anwendung.
 
-(2) Die Form und der Inhalt der Eintragung richten sich nach deutschem
-Recht. Kennt das Recht des Staats der Verfahrenseröffnung
+(2) Die Form und der Inhalt der Eintragung richten sich nach
+deutschem Recht. Kennt das Recht des Staats der Verfahrenseröffnung
 Eintragungen, die dem deutschen Recht unbekannt sind, so hat das
 Insolvenzgericht eine Eintragung zu wählen, die der des Staats der
 Verfahrenseröffnung am nächsten kommt.
 
 (3) Geht der Antrag nach Absatz 1 oder nach § 5 Abs. 1 bei einem
-unzuständigen Gericht ein, so leitet dieses den Antrag unverzüglich an
-das zuständige Gericht weiter und unterrichtet hierüber den
+unzuständigen Gericht ein, so leitet dieses den Antrag unverzüglich
+an das zuständige Gericht weiter und unterrichtet hierüber den
 Antragsteller.
 
 
-## § 7 Rechtsmittel
+### § 7 Rechtsmittel
 
-Gegen die Entscheidung des Insolvenzgerichts nach § 5 oder § 6 findet
-die sofortige Beschwerde statt. Die §§ 574 bis 577 der
+Gegen die Entscheidung des Insolvenzgerichts nach § 5 oder § 6
+findet die sofortige Beschwerde statt. Die §§ 574 bis 577 der
 Zivilprozessordnung gelten entsprechend.
 
 
-## § 8 Vollstreckung aus der Eröffnungsentscheidung
+### § 8 Vollstreckung aus der Eröffnungsentscheidung
 
 (1) Ist der Verwalter eines Hauptinsolvenzverfahrens nach dem Recht
 des Staats der Verfahrenseröffnung befugt, auf Grund der Entscheidung
 über die Verfahrenseröffnung die Herausgabe der Sachen, die sich im
 Gewahrsam des Schuldners befinden, im Wege der Zwangsvollstreckung
 durchzusetzen, so gilt für die Vollstreckbarerklärung im Inland
-Artikel 25 Abs. 1 Unterabs. 1 der Verordnung (EG) Nr. 1346/2000. Für
-die Verwertung von Gegenständen der Insolvenzmasse im Wege der
+Artikel 25 Abs. 1 Unterabs. 1 der Verordnung (EG) Nr. 1346/2000.
+Für die Verwertung von Gegenständen der Insolvenzmasse im Wege der
 Zwangsvollstreckung gilt Satz 1 entsprechend.
 
 (2) § 6 Abs. 3 findet entsprechend Anwendung.
 
 
-## § 9 Insolvenzplan
+### § 9 Insolvenzplan
 
 Sieht ein Insolvenzplan eine Stundung, einen Erlass oder sonstige
 Einschränkungen der Rechte der Gläubiger vor, so darf er vom
@@ -241,7 +229,7 @@ Insolvenzgericht nur bestätigt werden, wenn alle betroffenen Gläubiger
 dem Plan zugestimmt haben.
 
 
-## § 10 Aussetzung der Verwertung
+### § 10 Aussetzung der Verwertung
 
 Wird auf Antrag des Verwalters des Hauptinsolvenzverfahrens nach
 Artikel 33 der Verordnung (EG) Nr. 1346/ 2000 in einem inländischen
@@ -251,7 +239,7 @@ Gläubiger laufend die geschuldeten Zinsen aus der Insolvenzmasse zu
 zahlen.
 
 
-## § 11 Unterrichtung der Gläubiger
+### § 11 Unterrichtung der Gläubiger
 
 Neben dem Eröffnungsbeschluss ist den Gläubigern, die in einem anderen
 Mitgliedstaat der Europäischen Union ihren gewöhnlichen Aufenthalt,
@@ -263,51 +251,45 @@ entsprechend.
 
 ### Art 102a Insolvenzverwalter aus anderen Mitgliedstaaten der Europäischen Union
 
-Angehörige eines anderen Mitgliedstaates der Europäischen Union oder
-Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum
-und Personen, die in einem dieser Staaten ihre berufliche
-Niederlassung haben, können das Verfahren zur Aufnahme in eine von dem
-Insolvenzgericht geführte Vorauswahlliste für Insolvenzverwalter über
-eine einheitliche Stelle nach den Vorschriften des
-Verwaltungsverfahrensgesetzes abwickeln. Über Anträge auf Aufnahme in
-eine Vorauswahlliste ist in diesen Fällen innerhalb einer Frist von
-drei Monaten zu entscheiden. § 42a Absatz 2 Satz 2 bis 4 des
+Angehörige eines anderen Mitgliedstaates der Europäischen
+Union oder Vertragsstaates des Abkommens über den Europäischen
+Wirtschaftsraum und Personen, die in einem dieser Staaten ihre
+berufliche Niederlassung haben, können das Verfahren zur Aufnahme
+in eine von dem Insolvenzgericht geführte Vorauswahlliste für
+Insolvenzverwalter über eine einheitliche Stelle nach den Vorschriften
+des Verwaltungsverfahrensgesetzes abwickeln. Über Anträge auf Aufnahme
+in eine Vorauswahlliste ist in diesen Fällen innerhalb einer Frist
+von drei Monaten zu entscheiden. § 42a Absatz 2 Satz 2 bis 4 des
 Verwaltungsverfahrensgesetzes gilt entsprechend.
 
 
 ### Art 102b - Durchführung der Verordnung (EU) Nr. 648/2012
 
 
-
-### § 1 Ausfallbestimmungen von zentralen Gegenparteien
+#### § 1 Ausfallbestimmungen von zentralen Gegenparteien
 
 (1) Die Eröffnung des Insolvenzverfahrens hindert nicht
 
-1.  die Durchführung der nach Artikel 48 Absatz 2, 4, 5 Satz 3 und Absatz
-    6 Satz 3 der Verordnung (EU) Nr. 648/2012 des Europäischen Parlaments
-    und des Rates vom 4. Juli 2012 über OTC-Derivate, zentrale
+1.  die Durchführung der nach Artikel 48 Absatz 2, 4, 5 Satz 3 und
+    Absatz 6 Satz 3 der Verordnung (EU) Nr. 648/2012 des Europäischen
+    Parlaments und des Rates vom 4. Juli 2012 über OTC-Derivate, zentrale
     Gegenparteien und Transaktionsregister (ABl. L 201 vom 27.7.2012, S.
     1) gebotenen Maßnahmen zur Verwaltung, Glattstellung und sonstigen
     Abwicklung von Kundenpositionen und Eigenhandelspositionen des
     Clearingmitglieds,
 
-
 2.  die Durchführung der nach Artikel 48 Absatz 4 bis 6 der Verordnung
     (EU) Nr. 648/2012 gebotenen Maßnahmen der Übertragung von
     Kundenpositionen sowie
 
-
 3.  die nach Artikel 48 Absatz 7 der Verordnung (EU) Nr. 648/2012 gebotene
     Verwendung und Rückgewähr von Kundensicherheiten.
-
-
-
 
 (2) Absatz 1 gilt entsprechend für die Anordnung von
 Sicherungsmaßnahmen nach § 21 der Insolvenzordnung.
 
 
-### § 2 Unanfechtbarkeit
+#### § 2 Unanfechtbarkeit
 
 Die nach § 1 zulässigen Maßnahmen unterliegen nicht der
 Insolvenzanfechtung.
@@ -316,26 +298,24 @@ Insolvenzanfechtung.
 ### Art 102c - Durchführung der Verordnung (EU) 2015/848 über Insolvenzverfahren
 
 
-
 #### Teil 1 - Allgemeine Bestimmungen
 
 
-
-#### § 1 Örtliche Zuständigkeit; Verordnungsermächtigung
+##### § 1 Örtliche Zuständigkeit; Verordnungsermächtigung
 
 (1) Kommt in einem Insolvenzverfahren den deutschen Gerichten nach
 Artikel 3 Absatz 1 der Verordnung (EU) 2015/848 des Europäischen
 Parlaments und des Rates vom 20. Mai 2015 über Insolvenzverfahren
 (ABl. L 141 vom 5.6.2015, S. 19; L 349 vom 21.12.2016, S. 6), die
-zuletzt durch die Verordnung (EU) 2017/353 (ABl. L 57 vom 3.3.2017, S.
-19) geändert worden ist, die internationale Zuständigkeit zu, ohne
-dass nach § 3 der Insolvenzordnung ein Gerichtsstand begründet wäre,
-so ist das Insolvenzgericht ausschließlich örtlich zuständig, in
-dessen Bezirk der Schuldner den Mittelpunkt seiner hauptsächlichen
+zuletzt durch die Verordnung (EU) 2017/353 (ABl. L 57 vom 3.3.2017,
+S. 19) geändert worden ist, die internationale Zuständigkeit zu,
+ohne dass nach § 3 der Insolvenzordnung ein Gerichtsstand begründet
+wäre, so ist das Insolvenzgericht ausschließlich örtlich zuständig,
+in dessen Bezirk der Schuldner den Mittelpunkt seiner hauptsächlichen
 Interessen hat.
 
-(2) Besteht eine Zuständigkeit der deutschen Gerichte nach Artikel 3
-Absatz 2 der Verordnung (EU) 2015/848, so ist das Insolvenzgericht
+(2) Besteht eine Zuständigkeit der deutschen Gerichte nach Artikel
+3 Absatz 2 der Verordnung (EU) 2015/848, so ist das Insolvenzgericht
 ausschließlich örtlich zuständig, in dessen Bezirk die Niederlassung
 des Schuldners liegt. § 3 Absatz 2 der Insolvenzordnung gilt
 entsprechend.
@@ -351,11 +331,11 @@ einem von diesen zuzuweisen. Die Landesregierungen können die
 Ermächtigung auf die Landesjustizverwaltungen übertragen.
 
 
-#### § 2 Vermeidung von Kompetenzkonflikten
+##### § 2 Vermeidung von Kompetenzkonflikten
 
 (1) Hat das Gericht eines anderen Mitgliedstaats der Europäischen
-Union ein Hauptinsolvenzverfahren eröffnet, so ist, solange dieses
-Insolvenzverfahren anhängig ist, ein bei einem deutschen
+Union ein Hauptinsolvenzverfahren eröffnet, so ist, solange
+dieses Insolvenzverfahren anhängig ist, ein bei einem deutschen
 Insolvenzgericht gestellter Antrag auf Eröffnung eines solchen
 Verfahrens über das zur Insolvenzmasse gehörende Vermögen unzulässig.
 Ein entgegen Satz 1 eröffnetes Verfahren ist nach Maßgabe der Artikel
@@ -364,15 +344,15 @@ fortzuführen, wenn eine Zuständigkeit der deutschen Gerichte nach
 Artikel 3 Absatz 2 der Verordnung (EU) 2015/848 besteht; liegen die
 Voraussetzungen für eine Fortführung nicht vor, ist es einzustellen.
 
-(2) Hat das Gericht eines Mitgliedstaats der Europäischen Union die
-Eröffnung des Insolvenzverfahrens abgelehnt, weil nach Artikel 3
-Absatz 1 der Verordnung (EU) 2015/848 die deutschen Gerichte zuständig
-seien, so darf ein deutsches Insolvenzgericht die Eröffnung des
-Insolvenzverfahrens nicht mit der Begründung ablehnen, dass die
+(2) Hat das Gericht eines Mitgliedstaats der Europäischen Union
+die Eröffnung des Insolvenzverfahrens abgelehnt, weil nach Artikel
+3 Absatz 1 der Verordnung (EU) 2015/848 die deutschen Gerichte
+zuständig seien, so darf ein deutsches Insolvenzgericht die Eröffnung
+des Insolvenzverfahrens nicht mit der Begründung ablehnen, dass die
 Gerichte des anderen Mitgliedstaats zuständig seien.
 
 
-#### § 3 Einstellung des Insolvenzverfahrens zugunsten eines anderen Mitgliedstaats
+##### § 3 Einstellung des Insolvenzverfahrens zugunsten eines anderen Mitgliedstaats
 
 (1) Vor der Einstellung eines bereits eröffneten Insolvenzverfahrens
 nach § 2 Absatz 1 Satz 2 soll das Insolvenzgericht den
@@ -385,9 +365,9 @@ bereits eingetreten und nicht auf die Dauer dieses Verfahrens
 beschränkt sind, bleiben auch dann bestehen, wenn sie Wirkungen eines
 in einem anderen Mitgliedstaat der Europäischen Union eröffneten
 Insolvenzverfahrens widersprechen, die sich nach der Verordnung (EU)
-2015/848 auf die Bundesrepublik Deutschland erstrecken. Dies gilt auch
-für Rechtshandlungen, die während des eingestellten Verfahrens vom
-Insolvenzverwalter oder ihm gegenüber in Ausübung seines Amtes
+2015/848 auf die Bundesrepublik Deutschland erstrecken. Dies gilt
+auch für Rechtshandlungen, die während des eingestellten Verfahrens
+vom Insolvenzverwalter oder ihm gegenüber in Ausübung seines Amtes
 vorgenommen worden sind.
 
 (3) Vor der Einstellung nach § 2 Absatz 1 Satz 2 hat das
@@ -397,64 +377,59 @@ Insolvenzverwalter, der in dem anderen Mitgliedstaat bestellt wurde,
 über die bevorstehende Einstellung zu unterrichten. Dabei soll
 angegeben werden, wie die Eröffnung des einzustellenden Verfahrens
 bekannt gemacht wurde, in welchen öffentlichen Büchern und Registern
-die Eröffnung eingetragen wurde und wer Insolvenzverwalter ist. In dem
-Einstellungsbeschluss ist das Gericht des anderen Mitgliedstaats zu
-bezeichnen, zu dessen Gunsten das Verfahren eingestellt wird. Diesem
-Gericht ist eine Ausfertigung des Einstellungsbeschlusses zu
+die Eröffnung eingetragen wurde und wer Insolvenzverwalter ist. In
+dem Einstellungsbeschluss ist das Gericht des anderen Mitgliedstaats
+zu bezeichnen, zu dessen Gunsten das Verfahren eingestellt wird.
+Diesem Gericht ist eine Ausfertigung des Einstellungsbeschlusses zu
 übersenden. § 215 Absatz 2 der Insolvenzordnung ist nicht anzuwenden.
 
 
-#### § 4 Rechtsmittel nach Artikel 5 der Verordnung (EU) 2015/848
+##### § 4 Rechtsmittel nach Artikel 5 der Verordnung (EU) 2015/848
 
 Unbeschadet des § 21 Absatz 1 Satz 2 und des § 34 der Insolvenzordnung
-steht dem Schuldner und jedem Gläubiger gegen die Entscheidung über
-die Eröffnung des Hauptinsolvenzverfahrens nach Artikel 3 Absatz 1 der
-Verordnung (EU) 2015/848 die sofortige Beschwerde zu, wenn nach
-Artikel 5 Absatz 1 der Verordnung (EU) 2015/848 das Fehlen der
-internationalen Zuständigkeit für die Eröffnung eines
-Hauptinsolvenzverfahrens gerügt werden soll. Die §§ 574 bis 577 der
-Zivilprozessordnung gelten entsprechend, wobei die Entscheidung über
-die Beschwerde gemäß § 6 Absatz 3 der Insolvenzordnung erst mit
+steht dem Schuldner und jedem Gläubiger gegen die Entscheidung
+über die Eröffnung des Hauptinsolvenzverfahrens nach Artikel 3
+Absatz 1 der Verordnung (EU) 2015/848 die sofortige Beschwerde
+zu, wenn nach Artikel 5 Absatz 1 der Verordnung (EU) 2015/848 das
+Fehlen der internationalen Zuständigkeit für die Eröffnung eines
+Hauptinsolvenzverfahrens gerügt werden soll. Die §§ 574 bis 577
+der Zivilprozessordnung gelten entsprechend, wobei die Entscheidung
+über die Beschwerde gemäß § 6 Absatz 3 der Insolvenzordnung erst mit
 Rechtskraft wirksam wird.
 
 
-#### § 5 Zusätzliche Angaben im Eröffnungsantrag des Schuldners
+##### § 5 Zusätzliche Angaben im Eröffnungsantrag des Schuldners
 
 Bestehen Anhaltspunkte dafür, dass auch die internationale
 Zuständigkeit eines anderen Mitgliedstaats der Europäischen Union für
-die Eröffnung eines Hauptinsolvenzverfahrens nach Artikel 3 Absatz 1
-der Verordnung (EU) 2015/848 begründet sein könnte, so soll der
+die Eröffnung eines Hauptinsolvenzverfahrens nach Artikel 3 Absatz
+1 der Verordnung (EU) 2015/848 begründet sein könnte, so soll der
 Eröffnungsantrag des Schuldners auch folgende Angaben enthalten:
 
 1.  seit wann der Sitz, die Hauptniederlassung oder der gewöhnliche
     Aufenthalt an dem im Antrag genannten Ort besteht,
 
-
-2.  Tatsachen, aus denen sich ergibt, dass der Schuldner gewöhnlich der
-    Verwaltung seiner Interessen in der Bundesrepublik Deutschland
+2.  Tatsachen, aus denen sich ergibt, dass der Schuldner gewöhnlich
+    der Verwaltung seiner Interessen in der Bundesrepublik Deutschland
     nachgeht,
-
 
 3.  in welchen anderen Mitgliedstaaten sich Gläubiger oder wesentliche
     Teile des Vermögens befinden oder wesentliche Teile der Tätigkeit
     ausgeübt werden und
 
-
 4.  ob bereits in einem anderen Mitgliedstaat ein Eröffnungsantrag
     gestellt oder ein Hauptinsolvenzverfahren eröffnet wurde.
-
-
 
 Satz 1 findet keine Anwendung auf die im Verbraucherinsolvenzverfahren
 nach § 305 Absatz 1 der Insolvenzordnung zu stellenden Anträge.
 
 
-#### § 6 Örtliche Zuständigkeit für Annexklagen
+##### § 6 Örtliche Zuständigkeit für Annexklagen
 
 (1) Kommt den deutschen Gerichten infolge der Eröffnung eines
-Insolvenzverfahrens die Zuständigkeit für Klagen nach Artikel 6 Absatz
-1 der Verordnung (EU) 2015/848 zu, ohne dass sich aus anderen
-Vorschriften eine örtliche Zuständigkeit ergibt, so wird der
+Insolvenzverfahrens die Zuständigkeit für Klagen nach Artikel
+6 Absatz 1 der Verordnung (EU) 2015/848 zu, ohne dass sich aus
+anderen Vorschriften eine örtliche Zuständigkeit ergibt, so wird der
 Gerichtsstand durch den Sitz des Insolvenzgerichts bestimmt.
 
 (2) Für Klagen nach Artikel 6 Absatz 1 der Verordnung (EU) 2015/848,
@@ -464,21 +439,21 @@ stehen, ist auch das Gericht örtlich zuständig, das für die andere
 zivil-oder handelsrechtliche Klage zuständig ist.
 
 
-#### § 7 Öffentliche Bekanntmachung
+##### § 7 Öffentliche Bekanntmachung
 
-(1) Der Antrag auf öffentliche Bekanntmachung nach Artikel 28 Absatz 1
-der Verordnung (EU) 2015/848 ist an das nach § 1 Absatz 2 zuständige
+(1) Der Antrag auf öffentliche Bekanntmachung nach Artikel 28 Absatz
+1 der Verordnung (EU) 2015/848 ist an das nach § 1 Absatz 2 zuständige
 Gericht zu richten.
 
-(2) Der Antrag auf öffentliche Bekanntmachung nach Artikel 28 Absatz 2
-der Verordnung (EU) 2015/848 ist an das Insolvenzgericht zu richten,
-in dessen Bezirk sich der wesentliche Teil des Vermögens des
-Schuldners befindet. Hat der Schuldner in der Bundesrepublik
-Deutschland kein Vermögen, so kann der Antrag bei jedem
+(2) Der Antrag auf öffentliche Bekanntmachung nach Artikel 28
+Absatz 2 der Verordnung (EU) 2015/848 ist an das Insolvenzgericht
+zu richten, in dessen Bezirk sich der wesentliche Teil des
+Vermögens des Schuldners befindet. Hat der Schuldner in der
+Bundesrepublik Deutschland kein Vermögen, so kann der Antrag bei jedem
 Insolvenzgericht gestellt werden.
 
-(3) Das Gericht kann eine Übersetzung des Antrags verlangen, die von
-einer hierzu in einem der Mitgliedstaaten der Europäischen Union
+(3) Das Gericht kann eine Übersetzung des Antrags verlangen, die
+von einer hierzu in einem der Mitgliedstaaten der Europäischen Union
 befugten Person zu beglaubigen ist. § 9 Absatz 1 und 2 und § 30 Absatz
 1 der Insolvenzordnung gelten entsprechend. Ist die Eröffnung des
 Insolvenzverfahrens bekannt gemacht worden, so ist dessen Beendigung
@@ -489,46 +464,46 @@ so leitet dieses den Antrag unverzüglich an das zuständige Gericht
 weiter und unterrichtet den Antragsteller hierüber.
 
 
-#### § 8 Eintragung in öffentliche Bücher und Register
+##### § 8 Eintragung in öffentliche Bücher und Register
 
 (1) Der Antrag auf Eintragung nach Artikel 29 Absatz 1 der Verordnung
-(EU) 2015/848 ist an das nach § 1 Absatz 2 zuständige Gericht zu
-richten. Er soll mit dem Antrag nach Artikel 28 Absatz 1 der
+(EU) 2015/848 ist an das nach § 1 Absatz 2 zuständige Gericht
+zu richten. Er soll mit dem Antrag nach Artikel 28 Absatz 1 der
 Verordnung (EU) 2015/848 verbunden werden. Das Gericht ersucht die
 registerführende Stelle um Eintragung. § 32 Absatz 2 Satz 2 der
 Insolvenzordnung findet keine Anwendung.
 
 (2) Der Antrag auf Eintragung nach Artikel 29 Absatz 2 der Verordnung
-(EU) 2015/848 ist an das nach § 7 Absatz 2 zuständige Gericht zu
-richten. Er soll mit dem Antrag nach Artikel 28 Absatz 2 der
+(EU) 2015/848 ist an das nach § 7 Absatz 2 zuständige Gericht
+zu richten. Er soll mit dem Antrag nach Artikel 28 Absatz 2 der
 Verordnung (EU) 2015/848 verbunden werden.
 
 (3) Die Form und der Inhalt der Eintragung richten sich nach deutschem
-Recht. Kennt das Recht des Mitgliedstaats der Europäischen Union, in
-dem das Insolvenzverfahren eröffnet worden ist, Eintragungen, die dem
-deutschen Recht unbekannt sind, so hat das Insolvenzgericht eine
-Eintragung zu wählen, die der des Mitgliedstaats der
+Recht. Kennt das Recht des Mitgliedstaats der Europäischen Union,
+in dem das Insolvenzverfahren eröffnet worden ist, Eintragungen,
+die dem deutschen Recht unbekannt sind, so hat das Insolvenzgericht
+eine Eintragung zu wählen, die der des Mitgliedstaats der
 Verfahrenseröffnung am nächsten kommt.
 
 (4) § 7 Absatz 4 gilt entsprechend.
 
 
-#### § 9 Rechtsmittel gegen eine Entscheidung nach § 7 oder § 8
+##### § 9 Rechtsmittel gegen eine Entscheidung nach § 7 oder § 8
 
-Gegen die Entscheidung des Insolvenzgerichts nach § 7 oder § 8 findet
-die sofortige Beschwerde statt. Die §§ 574 bis 577 der
-Zivilprozessordnung gelten entsprechend, wobei die Entscheidung über
-die Beschwerde gemäß § 6 Absatz 3 der Insolvenzordnung erst mit
+Gegen die Entscheidung des Insolvenzgerichts nach § 7 oder § 8
+findet die sofortige Beschwerde statt. Die §§ 574 bis 577 der
+Zivilprozessordnung gelten entsprechend, wobei die Entscheidung
+über die Beschwerde gemäß § 6 Absatz 3 der Insolvenzordnung erst mit
 Rechtskraft wirksam wird.
 
 
-#### § 10 Vollstreckung aus der Eröffnungsentscheidung
+##### § 10 Vollstreckung aus der Eröffnungsentscheidung
 
 Ist der Verwalter eines Hauptinsolvenzverfahrens nach dem Recht des
 Mitgliedstaats der Europäischen Union, in dem das Insolvenzverfahren
-eröffnet worden ist, befugt, auf Grund der Entscheidung über die
-Verfahrenseröffnung die Herausgabe der Sachen, die sich im Gewahrsam
-des Schuldners befinden, im Wege der Zwangsvollstreckung
+eröffnet worden ist, befugt, auf Grund der Entscheidung über
+die Verfahrenseröffnung die Herausgabe der Sachen, die sich im
+Gewahrsam des Schuldners befinden, im Wege der Zwangsvollstreckung
 durchzusetzen, so gilt für die Vollstreckung in der Bundesrepublik
 Deutschland Artikel 32 Absatz 1 Unterabsatz 1 der Verordnung (EU)
 2015/848. Für die Verwertung von Gegenständen der Insolvenzmasse im
@@ -538,17 +513,15 @@ Wege der Zwangsvollstreckung gilt Satz 1 entsprechend.
 #### Teil 2 - Sekundärinsolvenzverfahren
 
 
-
 ##### Abschnitt 1 - Hauptinsolvenzverfahren in der Bundesrepublik Deutschland
 
 
-
-##### § 11 Voraussetzungen für die Abgabe der Zusicherung
+###### § 11 Voraussetzungen für die Abgabe der Zusicherung
 
 (1) Soll in einem in der Bundesrepublik Deutschland anhängigen
 Insolvenzverfahren eine Zusicherung nach Artikel 36 der Verordnung
-(EU) 2015/848 abgegeben werden, hat der Insolvenzverwalter zuvor die
-Zustimmung des Gläubigerausschusses oder des vorläufigen
+(EU) 2015/848 abgegeben werden, hat der Insolvenzverwalter zuvor
+die Zustimmung des Gläubigerausschusses oder des vorläufigen
 Gläubigerausschusses nach § 21 Absatz 2 Satz 1 Nummer 1a der
 Insolvenzordnung einzuholen, sofern ein solcher bestellt ist.
 
@@ -556,22 +529,22 @@ Insolvenzordnung einzuholen, sofern ein solcher bestellt ist.
 Absatz 1 entsprechend.
 
 
-##### § 12 Öffentliche Bekanntmachung der Zusicherung
+###### § 12 Öffentliche Bekanntmachung der Zusicherung
 
 Der Insolvenzverwalter hat die öffentliche Bekanntmachung der
-Zusicherung sowie den Termin und das Verfahren zu deren Billigung zu
-veranlassen. Den bekannten lokalen Gläubigern ist die Zusicherung
+Zusicherung sowie den Termin und das Verfahren zu deren Billigung
+zu veranlassen. Den bekannten lokalen Gläubigern ist die Zusicherung
 durch den Insolvenzverwalter besonders zuzustellen; § 8 Absatz 3 Satz
 2 und 3 der Insolvenzordnung gilt entsprechend.
 
 
-##### § 13 Benachrichtigung über die beabsichtigte Verteilung
+###### § 13 Benachrichtigung über die beabsichtigte Verteilung
 
 Für die Benachrichtigung nach Artikel 36 Absatz 7 Satz 1 der
 Verordnung (EU) 2015/848 gilt § 12 Satz 2 entsprechend.
 
 
-##### § 14 Haftung des Insolvenzverwalters bei einer Zusicherung
+###### § 14 Haftung des Insolvenzverwalters bei einer Zusicherung
 
 Für die Haftung des Insolvenzverwalters nach Artikel 36 Absatz 10 der
 Verordnung (EU) 2015/848 in einem in der Bundesrepublik Deutschland
@@ -582,18 +555,17 @@ entsprechend.
 ##### Abschnitt 2 - Hauptinsolvenzverfahren in einem anderen Mitgliedstaat der Europäischen Union
 
 
-
-##### § 15 Insolvenzplan
+###### § 15 Insolvenzplan
 
 Sieht ein Insolvenzplan in einem in der Bundesrepublik Deutschland
-eröffneten Sekundärinsolvenzverfahren eine Stundung, einen Erlass oder
-sonstige Einschränkungen der Rechte der Gläubiger vor, so darf er vom
-Insolvenzgericht nur bestätigt werden, wenn alle betroffenen Gläubiger
-dem Insolvenzplan zugestimmt haben. Satz 1 gilt nicht für
+eröffneten Sekundärinsolvenzverfahren eine Stundung, einen Erlass
+oder sonstige Einschränkungen der Rechte der Gläubiger vor, so darf
+er vom Insolvenzgericht nur bestätigt werden, wenn alle betroffenen
+Gläubiger dem Insolvenzplan zugestimmt haben. Satz 1 gilt nicht für
 Planregelungen, mit denen in Absonderungsrechte eingegriffen wird.
 
 
-##### § 16 Aussetzung der Verwertung
+###### § 16 Aussetzung der Verwertung
 
 Wird auf Antrag des Verwalters des Hauptinsolvenzverfahrens nach
 Artikel 46 der Verordnung (EU) 2015/848 in einem in der Bundesrepublik
@@ -603,16 +575,16 @@ dem Gläubiger laufend die geschuldeten Zinsen aus der Insolvenzmasse
 zu zahlen.
 
 
-##### § 17 Abstimmung über die Zusicherung
+###### § 17 Abstimmung über die Zusicherung
 
 (1) Der Verwalter des Hauptinsolvenzverfahrens führt die Abstimmung
 über die Zusicherung nach Artikel 36 der Verordnung (EU) 2015/848
 durch. Die §§ 222, 243, 244 Absatz 1 und 2 sowie die §§ 245 und 246
 der Insolvenzordnung gelten entsprechend.
 
-(2) Im Rahmen der Unterrichtung nach Artikel 36 Absatz 5 Satz 4 der
-Verordnung (EU) 2015/848 informiert der Verwalter des
-Hauptinsolvenzverfahrens die lokalen Gläubiger, welche
+(2) Im Rahmen der Unterrichtung nach Artikel 36 Absatz 5
+Satz 4 der Verordnung (EU) 2015/848 informiert der Verwalter
+des Hauptinsolvenzverfahrens die lokalen Gläubiger, welche
 Fernkommunikationsmittel bei der Abstimmung zulässig sind und welche
 Gruppen für die Abstimmung gebildet wurden. Er hat ferner darauf
 hinzuweisen, dass diese Gläubiger bei der Anmeldung ihrer Forderungen
@@ -621,21 +593,21 @@ Gläubiger im Sinne von Artikel 2 Nummer 11 der Verordnung (EU)
 2015/848 sind.
 
 
-##### § 18 Stimmrecht bei der Abstimmung über die Zusicherung
+###### § 18 Stimmrecht bei der Abstimmung über die Zusicherung
 
-(1) Der Inhaber einer zur Teilnahme an der Abstimmung über die
-Zusicherung angemeldeten Forderung gilt vorbehaltlich des Satzes 2
-auch dann als stimmberechtigt, wenn der Verwalter des
+(1) Der Inhaber einer zur Teilnahme an der Abstimmung über
+die Zusicherung angemeldeten Forderung gilt vorbehaltlich des
+Satzes 2 auch dann als stimmberechtigt, wenn der Verwalter des
 Hauptinsolvenzverfahrens oder ein anderer lokaler Gläubiger
-bestreitet, dass die Forderung besteht oder dass es sich um die
-Forderung eines lokalen Gläubigers handelt. Hängt das
+bestreitet, dass die Forderung besteht oder dass es sich um
+die Forderung eines lokalen Gläubigers handelt. Hängt das
 Abstimmungsergebnis von Stimmen ab, die auf bestrittene Forderungen
 entfallen, kann der Verwalter oder der bestreitende lokale Gläubiger
-bei dem nach § 1 Absatz 2 zuständigen Gericht eine Entscheidung über
-das Stimmrecht erwirken, das durch die bestrittenen Forderungen oder
-eines Teils davon gewährt wird; § 77 Absatz 2 Satz 2 der
-Insolvenzordnung gilt entsprechend. Die Sätze 1 und 2 gelten auch für
-aufschiebend bedingte Forderungen. § 237 Absatz 1 Satz 2 der
+bei dem nach § 1 Absatz 2 zuständigen Gericht eine Entscheidung
+über das Stimmrecht erwirken, das durch die bestrittenen Forderungen
+oder eines Teils davon gewährt wird; § 77 Absatz 2 Satz 2 der
+Insolvenzordnung gilt entsprechend. Die Sätze 1 und 2 gelten auch
+für aufschiebend bedingte Forderungen. § 237 Absatz 1 Satz 2 der
 Insolvenzordnung gilt entsprechend.
 
 (2) Im Rahmen des Verfahrens über eine Zusicherung gilt die
@@ -643,13 +615,13 @@ Bundesagentur für Arbeit als lokaler Gläubiger nach Artikel 36 Absatz
 11 der Verordnung (EU) 2015/848.
 
 
-##### § 19 Unterrichtung über das Ergebnis der Abstimmung
+###### § 19 Unterrichtung über das Ergebnis der Abstimmung
 
 Für die Unterrichtung nach Artikel 36 Absatz 5 Satz 4 der Verordnung
 (EU) 2015/848 gilt § 12 Satz 2 entsprechend.
 
 
-##### § 20 Rechtsbehelfe gegen Entscheidungen über die Eröffnung eines Sekundärinsolvenzverfahrens
+###### § 20 Rechtsbehelfe gegen Entscheidungen über die Eröffnung eines Sekundärinsolvenzverfahrens
 
 (1) Wird unter Hinweis auf die Zusicherung die Eröffnung eines
 Sekundärinsolvenzverfahrens nach Artikel 38 Absatz 2 der Verordnung
@@ -661,16 +633,15 @@ Absatz 3 der Insolvenzordnung erst mit Rechtskraft wirksam wird.
 (2) Wird in der Bundesrepublik Deutschland ein
 Sekundärinsolvenzverfahren eröffnet, ist der Rechtsbehelf nach Artikel
 39 der Verordnung (EU) 2015/848 als sofortige Beschwerde zu behandeln.
-Die §§ 574 bis 577 der Zivilprozessordnung gelten entsprechend, wobei
-die Entscheidung über die Beschwerde gemäß § 6 Absatz 3 der
+Die §§ 574 bis 577 der Zivilprozessordnung gelten entsprechend,
+wobei die Entscheidung über die Beschwerde gemäß § 6 Absatz 3 der
 Insolvenzordnung erst mit Rechtskraft wirksam wird.
 
 
 ##### Abschnitt 3 - Maßnahmen zur Einhaltung einer Zusicherung
 
 
-
-##### § 21 Rechtsbehelfe und Anträge nach Artikel 36 der Verordnung (EU) 2015/848
+###### § 21 Rechtsbehelfe und Anträge nach Artikel 36 der Verordnung (EU) 2015/848
 
 (1) Für Entscheidungen über Anträge nach Artikel 36 Absatz 7 Satz 2
 oder Absatz 8 der Verordnung (EU) 2015/848 ist das Insolvenzgericht
@@ -690,8 +661,7 @@ entscheidet das Gericht durch unanfechtbaren Beschluss.
 #### Teil 3 - Insolvenzverfahren über das Vermögen von Mitgliedern einer Unternehmensgruppe
 
 
-
-#### § 22 Eingeschränkte Anwendbarkeit des § 56b und der §§ 269a bis 269i der Insolvenzordnung
+##### § 22 Eingeschränkte Anwendbarkeit des § 56b und der §§ 269a bis 269i der Insolvenzordnung
 
 (1) Gehören Unternehmen einer Unternehmensgruppe im Sinne von § 3e der
 Insolvenzordnung auch einer Unternehmensgruppe im Sinne von Artikel 2
@@ -700,29 +670,25 @@ Nummer 13 der Verordnung (EU) 2015/848 an,
 1.  findet § 269a der Insolvenzordnung keine Anwendung, soweit Artikel 56
     der Verordnung (EU) 2015/848 anzuwenden ist,
 
-
 2.  finden § 56b Absatz 1 und § 269b der Insolvenzordnung keine Anwendung,
     soweit Artikel 57 der Verordnung (EU) 2015/848 anzuwenden ist.
 
-
-
-
 (2) Gehören Unternehmen einer Unternehmensgruppe im Sinne von § 3e der
-Insolvenzordnung auch einer Unternehmensgruppe im Sinne von Artikel 2
-Nummer 13 der Verordnung (EU) 2015/848 an, ist die Einleitung eines
+Insolvenzordnung auch einer Unternehmensgruppe im Sinne von Artikel
+2 Nummer 13 der Verordnung (EU) 2015/848 an, ist die Einleitung eines
 Koordinationsverfahrens nach den §§ 269d bis 269i der Insolvenzordnung
 ausgeschlossen, wenn die Durchführung des Koordinationsverfahrens die
 Wirksamkeit eines Gruppen-Koordinationsverfahrens nach den Artikeln 61
 bis 77 der Verordnung (EU) 2015/848 beeinträchtigen würde.
 
 
-#### § 23 Beteiligung der Gläubiger
+##### § 23 Beteiligung der Gläubiger
 
 (1) Beabsichtigt der Verwalter, die Einleitung eines Gruppen-
-Koordinationsverfahrens nach Artikel 61 Absatz 1 der Verordnung (EU)
-2015/848 zu beantragen und ist die Durchführung eines solchen
-Verfahrens von besonderer Bedeutung für das Insolvenzverfahren, hat er
-die Zustimmung nach den §§ 160 und 161 der Insolvenzordnung
+Koordinationsverfahrens nach Artikel 61 Absatz 1 der Verordnung
+(EU) 2015/848 zu beantragen und ist die Durchführung eines solchen
+Verfahrens von besonderer Bedeutung für das Insolvenzverfahren,
+hat er die Zustimmung nach den §§ 160 und 161 der Insolvenzordnung
 einzuholen. Dem Gläubigerausschuss sind die in Artikel 61 Absatz 3 der
 Verordnung (EU) 2015/848 genannten Unterlagen vorzulegen.
 
@@ -732,11 +698,9 @@ Verordnung (EU) 2015/848 genannten Unterlagen vorzulegen.
     der Verordnung (EU) 2015/848 gegen die Einbeziehung des Verfahrens in
     das Gruppen-Koordinationsverfahren,
 
-
 2.  für den Antrag auf Einbeziehung des Verfahrens in ein bereits
     eröffnetes Gruppen-Koordinationsverfahren nach Artikel 69 Absatz 1 der
     Verordnung (EU) 2015/848 sowie
-
 
 3.  für die Zustimmungserklärung zu einem entsprechenden Antrag eines
     Verwalters, der in einem Verfahren über das Vermögen eines anderen
@@ -744,10 +708,7 @@ Verordnung (EU) 2015/848 genannten Unterlagen vorzulegen.
     Buchstabe b der Verordnung (EU) 2015/848).
 
 
-
-
-
-#### § 24 Aussetzung der Verwertung
+##### § 24 Aussetzung der Verwertung
 
 § 16 gilt entsprechend bei der Aussetzung
 
@@ -755,22 +716,18 @@ Verordnung (EU) 2015/848 genannten Unterlagen vorzulegen.
     gruppenangehörigen Unternehmens nach Artikel 60 Absatz 1 Buchstabe b
     der Verordnung (EU) 2015/848 und
 
-
 2.  des Verfahrens auf Antrag des Koordinators nach Artikel 72 Absatz 2
     Buchstabe e der Verordnung (EU) 2015/848.
 
 
+##### § 25 Rechtsbehelf gegen die Entscheidung nach Artikel 69 Absatz 2 der Verordnung (EU) 2015/848
 
-
-
-#### § 25 Rechtsbehelf gegen die Entscheidung nach Artikel 69 Absatz 2 der Verordnung (EU) 2015/848
-
-Gegen die Entscheidung des Koordinators nach Artikel 69 Absatz 2 der
-Verordnung (EU) 2015/848 ist die Erinnerung statthaft. § 573 der
+Gegen die Entscheidung des Koordinators nach Artikel 69 Absatz 2
+der Verordnung (EU) 2015/848 ist die Erinnerung statthaft. § 573 der
 Zivilprozessordnung gilt entsprechend.
 
 
-#### § 26 Rechtsmittel gegen die Kostenentscheidung nach Artikel 77 Absatz 4 der Verordnung (EU) 2015/848
+##### § 26 Rechtsmittel gegen die Kostenentscheidung nach Artikel 77 Absatz 4 der Verordnung (EU) 2015/848
 
 Gegen die Entscheidung über die Kosten des Gruppen-
 Koordinationsverfahrens nach Artikel 77 Absatz 4 der Verordnung (EU)
@@ -806,37 +763,37 @@ anzuwenden.
 
 ### Art 103c Überleitungsvorschrift zum Gesetz zur Vereinfachung des Insolvenzverfahrens
 
-(1) Auf Insolvenzverfahren, die vor dem Inkrafttreten des Gesetzes zur
-Vereinfachung des Insolvenzverfahrens vom 13. April 2007 (BGBl. I S.
-509) am 1. Juli 2007 eröffnet worden sind, sind mit Ausnahme der §§ 8
-und 9 der Insolvenzordnung und der Verordnung zu öffentlichen
-Bekanntmachungen in Insolvenzverfahren im Internet die bis dahin
-geltenden gesetzlichen Vorschriften weiter anzuwenden. In solchen
-Insolvenzverfahren erfolgen alle durch das Gericht vorzunehmenden
-öffentlichen Bekanntmachungen unbeschadet von Absatz 2 nur nach
-Maßgabe des § 9 der Insolvenzordnung. § 188 Satz 3 der
-Insolvenzordnung ist auch auf Insolvenzverfahren anzuwenden, die vor
-dem Inkrafttreten des Gesetzes zur Neuregelung des
+(1) Auf Insolvenzverfahren, die vor dem Inkrafttreten des Gesetzes
+zur Vereinfachung des Insolvenzverfahrens vom 13. April 2007
+(BGBl. I S. 509) am 1. Juli 2007 eröffnet worden sind, sind mit
+Ausnahme der §§ 8 und 9 der Insolvenzordnung und der Verordnung zu
+öffentlichen Bekanntmachungen in Insolvenzverfahren im Internet die
+bis dahin geltenden gesetzlichen Vorschriften weiter anzuwenden.
+In solchen Insolvenzverfahren erfolgen alle durch das Gericht
+vorzunehmenden öffentlichen Bekanntmachungen unbeschadet von Absatz
+2 nur nach Maßgabe des § 9 der Insolvenzordnung. § 188 Satz 3
+der Insolvenzordnung ist auch auf Insolvenzverfahren anzuwenden,
+die vor dem Inkrafttreten des Gesetzes zur Neuregelung des
 Rechtsberatungsrechts vom 12. Dezember 2007 (BGBl. I S. 2840) am 18.
 Dezember 2007 eröffnet worden sind.
 
 (2) Die öffentliche Bekanntmachung kann bis zum 31. Dezember 2008
-zusätzlich zu der elektronischen Bekanntmachung nach § 9 Abs. 1 Satz 1
-der Insolvenzordnung in einem am Wohnort oder Sitz des Schuldners
-periodisch erscheinenden Blatt erfolgen; die Veröffentlichung kann
-auszugsweise geschehen. Für den Eintritt der Wirkungen der
+zusätzlich zu der elektronischen Bekanntmachung nach § 9 Abs. 1 Satz
+1 der Insolvenzordnung in einem am Wohnort oder Sitz des Schuldners
+periodisch erscheinenden Blatt erfolgen; die Veröffentlichung
+kann auszugsweise geschehen. Für den Eintritt der Wirkungen der
 Bekanntmachung ist ausschließlich die Bekanntmachung im Internet nach
 § 9 Abs. 1 Satz 1 der Insolvenzordnung maßgebend.
 
 
 ### Art 103d Überleitungsvorschrift zum Gesetz zur Modernisierung des GmbH-Rechts und zur Bekämpfung von Missbräuchen
 
-Auf Insolvenzverfahren, die vor dem Inkrafttreten des Gesetzes vom 23.
-Oktober 2008 (BGBl. I S. 2026) am 1. November 2008 eröffnet worden
-sind, sind die bis dahin geltenden gesetzlichen Vorschriften weiter
-anzuwenden. Im Rahmen von nach dem 1. November 2008 eröffneten
-Insolvenzverfahren sind auf vor dem 1. November 2008 vorgenommene
-Rechtshandlungen die bis dahin geltenden Vorschriften der
+Auf Insolvenzverfahren, die vor dem Inkrafttreten des Gesetzes vom
+23\. Oktober 2008 (BGBl. I S. 2026) am 1. November 2008 eröffnet
+worden sind, sind die bis dahin geltenden gesetzlichen Vorschriften
+weiter anzuwenden. Im Rahmen von nach dem 1. November 2008
+eröffneten Insolvenzverfahren sind auf vor dem 1. November 2008
+vorgenommene Rechtshandlungen die bis dahin geltenden Vorschriften der
 Insolvenzordnung über die Anfechtung von Rechtshandlungen anzuwenden,
 soweit die Rechtshandlungen nach dem bisherigen Recht der Anfechtung
 entzogen oder in geringerem Umfang unterworfen sind.
@@ -850,12 +807,12 @@ sind, sind die bis dahin geltenden Vorschriften weiter anzuwenden.
 
 ### Art 103f Überleitungsvorschrift zum Gesetz zur Änderung des § 522 der Zivilprozessordnung
 
-Für Entscheidungen über die sofortige Beschwerde nach § 6 der
-Insolvenzordnung, bei denen die Frist des § 575 der
-Zivilprozessordnung am 27. Oktober 2011 noch nicht abgelaufen ist, ist
-die Insolvenzordnung in der bis zum 27. Oktober 2011 geltenden Fassung
-weiter anzuwenden. Für Entscheidungen über die sofortige Beschwerde
-nach Artikel 102 § 7 Satz 1 des Einführungsgesetzes zur
+Für Entscheidungen über die sofortige Beschwerde nach §
+6 der Insolvenzordnung, bei denen die Frist des § 575 der
+Zivilprozessordnung am 27. Oktober 2011 noch nicht abgelaufen ist,
+ist die Insolvenzordnung in der bis zum 27. Oktober 2011 geltenden
+Fassung weiter anzuwenden. Für Entscheidungen über die sofortige
+Beschwerde nach Artikel 102 § 7 Satz 1 des Einführungsgesetzes zur
 Insolvenzordnung gilt Satz 1 entsprechend.
 
 
@@ -896,10 +853,10 @@ sind, sind vorbehaltlich des Absatzes 2 die bis dahin geltenden
 Vorschriften weiter anzuwenden.
 
 (2) Im Rahmen einer Insolvenzanfechtung entstandene Ansprüche auf
-Zinsen oder die Herausgabe von Nutzungen unterliegen vor dem 5. April
-2017 den bis dahin geltenden Vorschriften. Für die Zeit ab dem 5.
-April 2017 ist auf diese Ansprüche § 143 Absatz 1 Satz 3 der
-Insolvenzordnung in der ab dem 5. April 2017 geltenden Fassung
+Zinsen oder die Herausgabe von Nutzungen unterliegen vor dem 5.
+April 2017 den bis dahin geltenden Vorschriften. Für die Zeit ab
+dem 5. April 2017 ist auf diese Ansprüche § 143 Absatz 1 Satz 3
+der Insolvenzordnung in der ab dem 5. April 2017 geltenden Fassung
 anzuwenden.
 
 
@@ -916,97 +873,24 @@ für jeden vollen Monat, der seit dem 16. Juli 2019 bis zur Stellung
 des Insolvenzantrages vergangen ist, um denselben Zeitraum. Demgemäß
 beträgt die Abtretungsfrist:
 
-*    *   Datum der Stellung
-        des Insolvenzantrages:
-
-    *   Abtretungsfrist:
-
-
-*    *   zwischen dem
-        17\. Dezember 2019
-        und 16. Januar 2020
-
-    *   fünf Jahre
-        und sieben Monate
-
-
-*    *   zwischen dem
-        17\. Januar 2020
-        und 16. Februar 2020
-
-    *   fünf Jahre
-        und sechs Monate
-
-
-*    *   zwischen dem
-        17\. Februar 2020
-        und 16. März 2020
-
-    *   fünf Jahre
-        und fünf Monate
-
-
-*    *   zwischen dem
-        17\. März 2020
-        und 16. April 2020
-
-    *   fünf Jahre
-        und vier Monate
-
-
-*    *   zwischen dem
-        17\. April 2020
-        und 16. Mai 2020
-
-    *   fünf Jahre
-        und drei Monate
-
-
-*    *   zwischen dem
-        17\. Mai 2020
-        und 16. Juni 2020
-
-    *   fünf Jahre
-        und zwei Monate
-
-
-*    *   zwischen dem
-        17\. Juni 2020
-        und 16. Juli 2020
-
-    *   fünf Jahre
-        und ein Monat
-
-
-*    *   zwischen dem
-        17\. Juli 2020
-        und 16. August 2020
-
-    *   fünf Jahre
-
-
-*    *   zwischen dem
-        17\. August 2020
-        und 16. September 2020
-
-    *   vier Jahre
-        und elf Monate
-
-
-*    *   zwischen dem
-        17\. September 2020
-        und 30. September 2020
-
-    *   vier Jahre
-        und zehn Monate
-
-
+| Datum der Stellung des Insolvenzantrages: | Abtretungsfrist: |
+| --- | --- |
+| zwischen dem 17. Dezember 2019 und 16. Januar 2020 | fünf Jahre und sieben Monate |
+| zwischen dem 17. Januar 2020 und 16. Februar 2020 | fünf Jahre und sechs Monate |
+| zwischen dem 17. Februar 2020 und 16. März 2020 | fünf Jahre und fünf Monate |
+| zwischen dem 17. März 2020 und 16. April 2020 | fünf Jahre und vier Monate |
+| zwischen dem 17. April 2020 und 16. Mai 2020 | fünf Jahre und drei Monate |
+| zwischen dem 17. Mai 2020 und 16. Juni 2020 | fünf Jahre und zwei Monate |
+| zwischen dem 17. Juni 2020 und 16. Juli 2020 | fünf Jahre und ein Monat |
+| zwischen dem 17. Juli 2020 und 16. August 2020 | fünf Jahre |
+| zwischen dem 17. August 2020 und 16. September 2020 | vier Jahre und elf Monate |
+| zwischen dem 17. September 2020 und 30. September 2020 | vier Jahre und zehn Monate |
 
 In Verfahren nach Satz 1 ist eine in der Abtretungserklärung erklärte,
 anderslautende Abtretungsfrist insoweit unbeachtlich.
 
-(3) Wurde dem Schuldner letztmalig nach den bis einschließlich 30.
-September 2020 geltenden Vorschriften eine Restschuldbefreiung
+(3) Wurde dem Schuldner letztmalig nach den bis einschließlich
+30\. September 2020 geltenden Vorschriften eine Restschuldbefreiung
 erteilt, so ist § 287a Absatz 2 Satz 1 Nummer 1 der Insolvenzordnung
 in der bis einschließlich 30. September 2020 geltenden Fassung weiter
 anzuwenden.
@@ -1030,13 +914,26 @@ sind, sind die bis dahin geltenden Vorschriften weiter anzuwenden.
 ### Art 103m Überleitungsvorschrift zum Sanierungs- und Insolvenzrechtsfortentwicklungsgesetz
 
 Auf Insolvenzverfahren, die vor dem 1. Januar 2021 beantragt worden
-sind, sind die bis dahin geltenden Vorschriften weiter anzuwenden. §
-15b der Insolvenzordnung in der Fassung des Sanierungs- und
-Insolvenzrechtsfortentwicklungsgesetzes vom 22. Dezember 2020 (BGBl. I
-S. 3256) ist erstmals auf Zahlungen anzuwenden, die nach dem 31.
+sind, sind die bis dahin geltenden Vorschriften weiter anzuwenden.
+§ 15b der Insolvenzordnung in der Fassung des Sanierungs- und
+Insolvenzrechtsfortentwicklungsgesetzes vom 22. Dezember 2020 (BGBl.
+I S. 3256) ist erstmals auf Zahlungen anzuwenden, die nach dem 31.
 Dezember 2020 vorgenommen worden sind. Auf Zahlungen, die vor dem 1.
 Januar 2021 vorgenommen worden sind, sind die bis zum 31. Dezember
 2020 geltenden gesetzlichen Vorschriften weiterhin anzuwenden.
+
+
+### Art 103n Überleitungsvorschrift zum Gesetz zur weiteren Digitalisierung der Justiz
+
+(1) Auf Insolvenzverfahren, die vor dem 17. Juli 2024 eröffnet worden
+sind, sind § 5 Absatz 5 und § 8 Absatz 3 der Insolvenzordnung in
+der bis dahin geltenden Fassung weiter anzuwenden. § 5 Absatz 6 und
+§ 28 Absatz 4 der Insolvenzordnung sind auf diese Verfahren nicht
+anzuwenden.
+
+(2) § 174 Absatz 4 Satz 1 und 2 der Insolvenzordnung in der ab dem
+17\. Juli 2024 geltenden Fassung ist auch auf solche Insolvenzverfahren
+anzuwenden, die vor dem 17. Juli 2024 eröffnet worden sind.
 
 
 ## Art 104 Anwendung des neuen Rechts
@@ -1050,35 +947,29 @@ worden sind.
 ## Art 105 Finanztermingeschäfte
 
 (1) War für Finanzleistungen, die einen Markt- oder Börsenpreis haben,
-eine bestimmte Zeit oder eine bestimmte Frist vereinbart und tritt die
-Zeit oder der Ablauf der Frist erst nach der Eröffnung eines
+eine bestimmte Zeit oder eine bestimmte Frist vereinbart und tritt
+die Zeit oder der Ablauf der Frist erst nach der Eröffnung eines
 Konkursverfahrens ein, so kann nicht die Erfüllung verlangt, sondern
 nur eine Forderung wegen der Nichterfüllung geltend gemacht werden.
 Als Finanzleistungen gelten insbesondere
 
 1.  die Lieferung von Edelmetallen,
 
-
-2.  die Lieferung von Wertpapieren oder vergleichbaren Rechten, soweit
-    nicht der Erwerb einer Beteiligung an einem Unternehmen zur
-    Herstellung einer dauernden Verbindung zu diesem Unternehmen
+2.  die Lieferung von Wertpapieren oder vergleichbaren Rechten,
+    soweit nicht der Erwerb einer Beteiligung an einem Unternehmen
+    zur Herstellung einer dauernden Verbindung zu diesem Unternehmen
     beabsichtigt ist,
-
 
 3.  Geldleistungen, die in ausländischer Währung oder in einer
     Rechnungseinheit zu erbringen sind,
-
 
 4.  Geldleistungen, deren Höhe unmittelbar oder mittelbar durch den Kurs
     einer ausländischen Währung oder einer Rechnungseinheit, durch den
     Zinssatz von Forderungen oder durch den Preis anderer Güter oder
     Leistungen bestimmt wird,
 
-
 5.  Optionen und andere Rechte auf Lieferungen oder Geldleistungen im
     Sinne der Nummern 1 bis 4.
-
-
 
 Sind Geschäfte über Finanzleistungen in einem Rahmenvertrag
 zusammengefaßt, für den vereinbart ist, daß er bei
@@ -1092,16 +983,16 @@ am Erfüllungsort für einen Vertrag mit der vereinbarten Erfüllungszeit
 maßgeblich ist. Der andere Teil kann eine solche Forderung nur als
 Konkursgläubiger geltend machen.
 
-(3) Die in den Absätzen 1 und 2 für den Fall der Eröffnung eines
-Konkursverfahrens getroffenen Regelungen gelten entsprechend für den
-Fall der Eröffnung eines Vergleichs- oder
+(3) Die in den Absätzen 1 und 2 für den Fall der Eröffnung
+eines Konkursverfahrens getroffenen Regelungen gelten
+entsprechend für den Fall der Eröffnung eines Vergleichs- oder
 Gesamtvollstreckungsverfahrens.
 
 
 ### Art 105a Überleitungsvorschrift zum Gesetz zur Änderung der Insolvenzordnung und zur Änderung des Gesetzes, betreffend die Einführung der Zivilprozessordnung
 
-(1) Auf Insolvenzverfahren, die vor dem 10. Juni 2016 beantragt worden
-sind, ist § 104 der Insolvenzordnung in der bis dahin geltenden
+(1) Auf Insolvenzverfahren, die vor dem 10. Juni 2016 beantragt
+worden sind, ist § 104 der Insolvenzordnung in der bis dahin geltenden
 Fassung anzuwenden.
 
 (2) Auf Insolvenzverfahren, die vor dem 29. Dezember 2016 beantragt
@@ -1120,10 +1011,10 @@ unterworfen sind.
 
 ## Art 107 Evaluierungsvorschrift zum Gesetz zur Verkürzung des Restschuldbefreiungsverfahrens und zur Stärkung der Gläubigerrechte
 
-(1) Die Bundesregierung berichtet dem Deutschen Bundestag bis zum 30.
-Juni 2018, in wie vielen Fällen bereits nach drei Jahren eine
-Restschuldbefreiung erteilt werden konnte. Der Bericht hat auch
-Angaben über die Höhe der im Insolvenz- und
+(1) Die Bundesregierung berichtet dem Deutschen Bundestag
+bis zum 30. Juni 2018, in wie vielen Fällen bereits nach drei
+Jahren eine Restschuldbefreiung erteilt werden konnte. Der
+Bericht hat auch Angaben über die Höhe der im Insolvenz- und
 Restschuldbefreiungsverfahren erzielten Befriedigungsquoten zu
 enthalten.
 
@@ -1136,8 +1027,8 @@ Maßnahmen ergibt, soll die Bundesregierung diese vorschlagen.
 (1) Die Bundesregierung berichtet dem Deutschen Bundestag bis zum 30.
 Juni 2024, wie sich die Verkürzung des Restschuldbefreiungsverfahrens
 auf das Antrags-, Zahlungs- und Wirtschaftsverhalten von
-Verbraucherinnen und Verbrauchern ausgewirkt hat. Der Bericht geht
-auch auf etwaige Hindernisse ein, die von den bestehenden
+Verbraucherinnen und Verbrauchern ausgewirkt hat. Der Bericht
+geht auch auf etwaige Hindernisse ein, die von den bestehenden
 Möglichkeiten der Speicherung insolvenzbezogener Informationen durch
 Auskunfteien für einen wirtschaftlichen Neustart nach Erteilung der
 Restschuldbefreiung ausgehen.
@@ -1164,9 +1055,9 @@ Forderungen zu berichtigen.
 
 Soweit den Inhabern von Schuldverschreibungen, die vor dem 1. Januar
 1963 von anderen Kreditinstituten als Hypothekenbanken ausgegeben
-worden sind, nach Vorschriften des Landesrechts in Verbindung mit § 17
-Abs. 1 des Einführungsgesetzes zur Konkursordnung ein Vorrecht bei der
-Befriedigung aus Hypotheken, Reallasten oder Darlehen des
+worden sind, nach Vorschriften des Landesrechts in Verbindung mit
+§ 17 Abs. 1 des Einführungsgesetzes zur Konkursordnung ein Vorrecht
+bei der Befriedigung aus Hypotheken, Reallasten oder Darlehen des
 Kreditinstituts zusteht, ist dieses Vorrecht auch in künftigen
 Insolvenzverfahren zu beachten.
 
@@ -1183,11 +1074,11 @@ der Insolvenzordnung und für § 21 Abs. 2 Nr. 1, § 73 Abs. 2, § 274
 Abs. 1, § 293 Abs. 2 und § 313 der Insolvenzordnung, soweit sie § 65
 der Insolvenzordnung für entsprechend anwendbar erklären.
 
-(3) Artikel 2 Nr. 9 dieses Gesetzes, soweit darin die Aufhebung von §
-2 Abs. 1 Satz 2 des Gesetzes über die Auflösung und Löschung von
+(3) Artikel 2 Nr. 9 dieses Gesetzes, soweit darin die Aufhebung von
+§ 2 Abs. 1 Satz 2 des Gesetzes über die Auflösung und Löschung von
 Gesellschaften und Genossenschaften angeordnet wird, Artikel 22,
-Artikel 24 Nr. 2, Artikel 32 Nr. 3, Artikel 48 Nr. 4, Artikel 54 Nr. 4
-und Artikel 85 Nr. 1 und 2 Buchstabe e, Artikel 87 Nr. 8 Buchstabe d
-und Artikel 105 dieses Gesetzes treten am Tage nach der Verkündung in
-Kraft.
+Artikel 24 Nr. 2, Artikel 32 Nr. 3, Artikel 48 Nr. 4, Artikel 54 Nr.
+4 und Artikel 85 Nr. 1 und 2 Buchstabe e, Artikel 87 Nr. 8 Buchstabe
+d und Artikel 105 dieses Gesetzes treten am Tage nach der Verkündung
+in Kraft.
 

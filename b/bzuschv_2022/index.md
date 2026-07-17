@@ -1,6 +1,5 @@
 ---
-Title: Verordnung zur Festsetzung des ergänzenden Bundeszuschusses nach § 221a Absatz
-  3 Satz 3 des Fünften Buches Sozialgesetzbuch für das Jahr 2022
+Title: Verordnung zur Festsetzung des ergänzenden Bundeszuschusses nach § 221a Absatz 3 Satz 3 des Fünften Buches Sozialgesetzbuch für das Jahr 2022
 jurabk: BZuschV 2022
 layout: default
 origslug: bzuschv_2022
@@ -30,8 +29,8 @@ des Bundestages vom 18. November 2021:
 ## § 1 Ergänzender Bundeszuschuss 2022
 
 Abweichend von § 221a Absatz 3 Satz 1 des Fünften Buches
-Sozialgesetzbuch wird ein ergänzender Bundeszuschuss für das Jahr 2022
-in Höhe von 14 Milliarden Euro festgesetzt. Abweichend von § 221a
+Sozialgesetzbuch wird ein ergänzender Bundeszuschuss für das Jahr
+2022 in Höhe von 14 Milliarden Euro festgesetzt. Abweichend von § 221a
 Absatz 3 Satz 2 des Fünften Buches Sozialgesetzbuch wird der von dem
 Gesundheitsfonds an die landwirtschaftliche Krankenversicherung zu
 überweisende Betrag auf 84 Millionen Euro festgesetzt.

@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl: 1950, 26
 
 
-
 ## Eingangsformel
 
 Auf Vorschlag der Bundesregierung bestimme ich folgendes:
@@ -34,9 +33,9 @@ die siegelführende Behörde bezeichnenden Umschrift.
 
 ## § 2
 
-(1) Das große Bundessiegel wird von dem Bundespräsidenten, dem
-Bundeskanzler, den Bundesministern und dem Rechnungshof der
-Bundesrepublik Deutschland sowie von dem Präsidenten, dem
+(1) Das große Bundessiegel wird von dem Bundespräsidenten,
+dem Bundeskanzler, den Bundesministern und dem Rechnungshof
+der Bundesrepublik Deutschland sowie von dem Präsidenten, dem
 Zentralbankrat und dem Direktorium der Deutschen Bundesbank geführt;
 es wird bei feierlichen Beurkundungen, besonders bei Ausfertigung von
 Gesetzen und Verordnungen, sowie bei Bestallungen angewendet.
@@ -44,8 +43,8 @@ Gesetzen und Verordnungen, sowie bei Bestallungen angewendet.
 (2) Des großen Bundessiegels können sich auch der Präsident des
 Bundestages und der Präsident des Bundesrates bedienen.
 
-(3) Das Bundesverfassungsgericht, das Oberste Bundesgericht sowie die
-oberen Bundesgerichte verwenden das große Bundessiegel zur
+(3) Das Bundesverfassungsgericht, das Oberste Bundesgericht sowie
+die oberen Bundesgerichte verwenden das große Bundessiegel zur
 Ausfertigung von Urteilen und Beschlüssen.
 
 
@@ -62,8 +61,8 @@ Anlaß vorliegt.
 
 ## § 4
 
-Die Bundesbehörden dürfen Dienstsiegel von abweichender Größe oder
-Form nur zu besonderen Zwecken und nur mit Genehmigung des
+Die Bundesbehörden dürfen Dienstsiegel von abweichender Größe
+oder Form nur zu besonderen Zwecken und nur mit Genehmigung des
 vorgesetzten Bundesministers gebrauchen.
 
 

@@ -37,8 +37,8 @@ der Umschrift „Stiftung Forum Recht“.
 ## § 2 Stiftungszweck
 
 (1) Zweck der Stiftung ist, in einem auf Bürgerbeteiligung angelegten
-Kommunikations-, Informations- und Dokumentationsforum aktuelle Fragen
-von Recht und Rechtsstaat in der Bundesrepublik Deutschland als
+Kommunikations-, Informations- und Dokumentationsforum aktuelle
+Fragen von Recht und Rechtsstaat in der Bundesrepublik Deutschland als
 Grundvoraussetzung einer funktionsfähigen und lebendigen Demokratie
 aufzugreifen und diese für alle gesellschaftlichen Gruppen in
 Ausstellungen und Aktivitäten vor Ort und im virtuellen Raum erfahrbar
@@ -51,27 +51,19 @@ internationalen Bezüge angemessen zu berücksichtigen.
     einem Forum Recht für die Auseinandersetzung mit Fragen des Rechts und
     des Rechtsstaats,
 
-
 2.  Entwicklung und Bereitstellung kommunikativer Formate für
     Kooperationspartner in Bund und Ländern,
-
 
 3.  Durchführung von Veranstaltungen, von auf Internet und virtueller
     Realität basierenden Medienangeboten sowie von Schulungen für
     pädagogische Angebote,
 
-
 4.  Forschung, Dokumentation und Veröffentlichungen,
-
 
 5.  Öffentlichkeitsarbeit,
 
-
 6.  Kooperation mit nationalen, europäischen und internationalen
     Organisationen und Einrichtungen.
-
-
-
 
 (3) Die Stiftung verfolgt ausschließlich und unmittelbar gemeinnützige
 Zwecke im Sinne des Abschnitts „Steuerbegünstigte Zwecke“ der
@@ -101,8 +93,8 @@ verbunden sind, die die Erfüllung des Stiftungszwecks beeinträchtigen.
 (4) Erträgnisse des Stiftungsvermögens und sonstige Einnahmen sind nur
 für den Stiftungszweck zu verwenden.
 
-(5) Das Forum Recht (§ 2 Absatz 2 Nummer 1) wird in unmittelbarer Nähe
-zu den Gebäuden des Bundesgerichtshofs in Karlsruhe auf dem
+(5) Das Forum Recht (§ 2 Absatz 2 Nummer 1) wird in unmittelbarer
+Nähe zu den Gebäuden des Bundesgerichtshofs in Karlsruhe auf dem
 Grundstückskomplex zwischen Karlstraße, Kriegsstraße, Herrenstraße,
 Ritterstraße und Blumenstraße errichtet. Die Durchführung des
 Bauvorhabens in Karlsruhe und der Unterbringung in Leipzig erfolgt im
@@ -121,14 +113,9 @@ Organe der Stiftung sind
 
 1.  das Kuratorium,
 
-
 2.  das Direktorium,
 
-
 3.  der Stiftungsbeirat.
-
-
-
 
 
 ## § 7 Kuratorium
@@ -138,36 +125,27 @@ eine wiederholte Entsendung zulässig ist:
 
 1.  vom Deutschen Bundestag elf Mitglieder,
 
-
 2.  vom Bundesministerium der Justiz und für Verbraucherschutz und vom
     Bundesministerium des Innern, für Bau und Heimat je ein Mitglied,
 
-
 3.  von der Stadt Karlsruhe und der Stadt Leipzig je ein Mitglied,
 
-
 4.  vom Bundesverfassungsgericht ein Mitglied,
-
 
 5.  vom Bundesgerichtshof und vom Bundesverwaltungsgericht je ein
     Mitglied,
 
-
 6.  vom Generalbundesanwalt beim Bundesgerichtshof ein Mitglied,
-
 
 7.  von der Bundesrechtsanwaltskammer ein Mitglied,
 
-
 8.  von den Landesjustizverwaltungen insgesamt ein Mitglied.
-
-
 
 Mitglied des Kuratoriums kraft Amtes ist der oder die Vorsitzende des
 Stiftungsbeirats. Für jedes Mitglied ist für den Fall der Verhinderung
-ein stellvertretendes Mitglied zu bestimmen. Die Bestimmung trifft die
-entsendungsberechtigte Stelle. Ist das stellvertretende Mitglied auch
-verhindert, kann das Stimmrecht von einem anderen Mitglied oder
+ein stellvertretendes Mitglied zu bestimmen. Die Bestimmung trifft
+die entsendungsberechtigte Stelle. Ist das stellvertretende Mitglied
+auch verhindert, kann das Stimmrecht von einem anderen Mitglied oder
 stellvertretenden Mitglied des Kuratoriums ausgeübt werden; in diesem
 Fall bevollmächtigt das Mitglied das andere Mitglied oder das andere
 stellvertretende Mitglied durch Erklärung gegenüber dem oder der
@@ -177,15 +155,15 @@ in gleicher Anzahl vertreten sein.
 (2) Die vom Deutschen Bundestag zu entsendenden Mitglieder (Absatz 1
 Satz 1 Nummer 1) werden von den Fraktionen nach dem Verhältnis ihrer
 Stärke entsandt. Bei der Bestimmung der auf jede Fraktion entfallenden
-Mitglieder ist das Verfahren nach Sainte-Laguë/
-Schepers              anzuwenden. Die vom Deutschen Bundestag
-entsandten Mitglieder müssen während der gesamten Zeit der Entsendung
-Mitglieder des Deutschen Bundestages sein.
+Mitglieder ist das Verfahren nach Sainte-Laguë/Schepers anzuwenden.
+Die vom Deutschen Bundestag entsandten Mitglieder müssen während der
+gesamten Zeit der Entsendung Mitglieder des Deutschen Bundestages
+sein.
 
 (3) Die entsendungsberechtigten Stellen können jedes von ihnen
-entsandte Mitglied jederzeit abberufen. Scheidet ein Mitglied oder ein
-stellvertretendes Mitglied aus, so ist für die bis zum Ablauf der fünf
-Jahre verbleibende Zeit ein neues Mitglied oder ein neues
+entsandte Mitglied jederzeit abberufen. Scheidet ein Mitglied oder
+ein stellvertretendes Mitglied aus, so ist für die bis zum Ablauf
+der fünf Jahre verbleibende Zeit ein neues Mitglied oder ein neues
 stellvertretendes Mitglied zu entsenden.
 
 (4) Das Kuratorium ist beschlussfähig, wenn mehr als die Hälfte der
@@ -198,27 +176,27 @@ Kuratorium ist handlungsfähig, sobald zehn Mitglieder entsandt worden
 sind.
 
 (6) Das Kuratorium wählt aus seiner Mitte den Vorsitzenden oder die
-Vorsitzende und einen Stellvertreter oder eine Stellvertreterin. Der
-oder die Vorsitzende beruft das Kuratorium ein und leitet dessen
+Vorsitzende und einen Stellvertreter oder eine Stellvertreterin.
+Der oder die Vorsitzende beruft das Kuratorium ein und leitet dessen
 Sitzungen. Der oder die Vorsitzende führt die Geschäfte der Stiftung
 und vertritt die Stiftung gerichtlich und außergerichtlich, solange
 weder ein Direktor oder eine Direktorin noch ein stellvertretender
 Direktor oder eine stellvertretende Direktorin bestellt sind.
 
-(7) Das Kuratorium bestellt den Direktor oder die Direktorin sowie den
-stellvertretenden Direktor oder die stellvertretende Direktorin nach
-Anhörung des Stiftungsbeirats für die Dauer von fünf Jahren. Eine
+(7) Das Kuratorium bestellt den Direktor oder die Direktorin sowie
+den stellvertretenden Direktor oder die stellvertretende Direktorin
+nach Anhörung des Stiftungsbeirats für die Dauer von fünf Jahren. Eine
 wiederholte Bestellung ist möglich. Der Direktor oder die Direktorin
 sowie der stellvertretende Direktor oder die stellvertretende
 Direktorin können aus wichtigem Grund durch Beschluss des Kuratoriums
 nach Anhörung des Stiftungsbeirats abberufen werden.
 
-(8) Das Kuratorium beschließt über alle grundsätzlichen Fragen der
-Stiftung, insbesondere über die Satzung, die Grundzüge der
+(8) Das Kuratorium beschließt über alle grundsätzlichen Fragen
+der Stiftung, insbesondere über die Satzung, die Grundzüge der
 Programmgestaltung, den Haushaltsplan und die Bestellung der
 Abschlussprüfer oder -prüferinnen. Das Direktorium hat hierzu
-entsprechend § 90 Absatz 1 Satz 1 des Aktiengesetzes dem Kuratorium zu
-berichten.
+entsprechend § 90 Absatz 1 Satz 1 des Aktiengesetzes dem Kuratorium
+zu berichten.
 
 (9) Beschlüsse über die Satzung und deren Änderung bedürfen einer
 Mehrheit von zwei Dritteln der Stimmen der Mitglieder des Kuratoriums.
@@ -245,19 +223,19 @@ einzuberufen.
 sowie einem stellvertretenden Direktor oder einer stellvertretenden
 Direktorin.
 
-(2) Der Direktor oder die Direktorin führt die Geschäfte der Stiftung.
-Er oder sie vollzieht die Beschlüsse des Kuratoriums und entscheidet
-in allen Angelegenheiten der Stiftung, soweit dafür nicht das
-Kuratorium zuständig ist. Er oder sie vertritt die Stiftung
-gerichtlich und außergerichtlich. Ist ein Direktor oder eine
+(2) Der Direktor oder die Direktorin führt die Geschäfte der
+Stiftung. Er oder sie vollzieht die Beschlüsse des Kuratoriums
+und entscheidet in allen Angelegenheiten der Stiftung, soweit
+dafür nicht das Kuratorium zuständig ist. Er oder sie vertritt die
+Stiftung gerichtlich und außergerichtlich. Ist ein Direktor oder eine
 Direktorin nicht bestellt oder ist er oder sie verhindert, übt der
 stellvertretende Direktor oder die stellvertretende Direktorin die
 genannten Befugnisse aus.
 
-(3) Der Direktor oder die Direktorin benötigt zu Rechtsgeschäften und
-Handlungen von erheblicher Bedeutung die Zustimmung des oder der
+(3) Der Direktor oder die Direktorin benötigt zu Rechtsgeschäften
+und Handlungen von erheblicher Bedeutung die Zustimmung des oder der
 Vorsitzenden des Kuratoriums. Dies sind insbesondere Entscheidungen
-über Gründungen, Beteiligungen und Investitionen von über 50 000 Euro.
+über Gründungen, Beteiligungen und Investitionen von über 50 000 Euro.
 
 (4) Das Nähere regelt die Satzung.
 
@@ -278,8 +256,8 @@ V. je ein Mitglied.
 Diese sollen insbesondere den Kreis der zivilgesellschaftlichen
 Initiativen sowie Institutionen aus dem Bereich der
 Rechtswissenschaft, der Geschichts-, Geistes-, Sozial- und
-Gesellschaftswissenschaften, der Kunstgeschichte, der Kultur-, Bild-
-und Medienwissenschaften sowie Museen und Kultureinrichtungen
+Gesellschaftswissenschaften, der Kunstgeschichte, der Kultur-,
+Bild- und Medienwissenschaften sowie Museen und Kultureinrichtungen
 repräsentieren. Die Wahl erfolgt auf der Grundlage von Vorschlägen der
 jeweiligen Initiativen, Institutionen und Einrichtungen.
 
@@ -311,8 +289,8 @@ der Justiz und für Verbraucherschutz.
 (2) Für das Haushalts-, Kassen- und Rechnungswesen sowie für die
 Rechnungslegung der Stiftung gelten die für die bundesunmittelbare
 Bundesverwaltung geltenden Bestimmungen. Die Haushalts- und
-Wirtschaftsführung der Stiftung unterliegen der Prüfung durch den
-Bundesrechnungshof. Das Bundesministerium der Justiz und für
+Wirtschaftsführung der Stiftung unterliegen der Prüfung durch
+den Bundesrechnungshof. Das Bundesministerium der Justiz und für
 Verbraucherschutz prüft die Rechnung.
 
 

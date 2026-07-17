@@ -19,26 +19,13 @@ Neugefasst durch
 :   Bek. v. 16.12.1980; 1981 I 1;
 
 Zuletzt geändert durch
-:   Art. 4 G v. 8.10.2017 I 3546
+:   Art. 13 G v. 20.5.2026 I Nr. 152
 
-Änderung durch
-:   Art. 22 G v. 23.6.2021 I 1858 (Nr. 35) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 23 G v. 7.7.2021 I 2363 (Nr. 41) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 1 G v. 10.8.2021 I 3490 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 2 G v. 20.8.2021 I 3914 (Nr. 59) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 1 G v. 30.8.2021 I 4074 (Nr. 62) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Stand
+:   Bek. v. 27.6.2023 I Nr. 175 ist berücksichtigt
 
 
 ## Erster Abschnitt - Das Patent
-
 
 
 ### § 1
@@ -62,19 +49,13 @@ angesehen:
 1.  Entdeckungen sowie wissenschaftliche Theorien und mathematische
     Methoden;
 
-
 2.  ästhetische Formschöpfungen;
 
-
-3.  Pläne, Regeln und Verfahren für gedankliche Tätigkeiten, für Spiele
-    oder für geschäftliche Tätigkeiten sowie Programme für
+3.  Pläne, Regeln und Verfahren für gedankliche Tätigkeiten, für
+    Spiele oder für geschäftliche Tätigkeiten sowie Programme für
     Datenverarbeitungsanlagen;
 
-
 4.  die Wiedergabe von Informationen.
-
-
-
 
 (4) Absatz 3 steht der Patentfähigkeit nur insoweit entgegen, als für
 die genannten Gegenstände oder Tätigkeiten als solche Schutz begehrt
@@ -90,8 +71,8 @@ Teilsequenz eines Gens, können keine patentierbaren Erfindungen sein.
 
 (2) Ein isolierter Bestandteil des menschlichen Körpers oder ein auf
 andere Weise durch ein technisches Verfahren gewonnener Bestandteil,
-einschließlich der Sequenz oder Teilsequenz eines Gens, kann eine
-patentierbare Erfindung sein, selbst wenn der Aufbau dieses
+einschließlich der Sequenz oder Teilsequenz eines Gens, kann
+eine patentierbare Erfindung sein, selbst wenn der Aufbau dieses
 Bestandteils mit dem Aufbau eines natürlichen Bestandteils identisch
 ist.
 
@@ -118,21 +99,16 @@ Verwaltungsvorschrift verboten ist.
 
 1.  Verfahren zum Klonen von menschlichen Lebewesen;
 
-
 2.  Verfahren zur Veränderung der genetischen Identität der Keimbahn des
     menschlichen Lebewesens;
 
-
 3.  die Verwendung von menschlichen Embryonen zu industriellen oder
     kommerziellen Zwecken;
-
 
 4.  Verfahren zur Veränderung der genetischen Identität von Tieren, die
     geeignet sind, Leiden dieser Tiere ohne wesentlichen medizinischen
     Nutzen für den Menschen oder das Tier zu verursachen, sowie die mit
     Hilfe solcher Verfahren erzeugten Tiere.
-
-
 
 Bei der Anwendung der Nummern 1 bis 3 sind die entsprechenden
 Vorschriften des Embryonenschutzgesetzes maßgeblich.
@@ -146,15 +122,11 @@ Vorschriften des Embryonenschutzgesetzes maßgeblich.
     Verfahren zur Züchtung von Pflanzen und Tieren und die ausschließlich
     durch solche Verfahren gewonnenen Pflanzen und Tiere;
 
-
 2.  Verfahren zur chirurgischen oder therapeutischen Behandlung des
     menschlichen oder tierischen Körpers und Diagnostizierverfahren, die
     am menschlichen oder tierischen Körper vorgenommen werden. Dies gilt
     nicht für Erzeugnisse, insbesondere Stoffe oder Stoffgemische, zur
     Anwendung in einem der vorstehend genannten Verfahren.
-
-
-
 
 (2) Patente können erteilt werden für Erfindungen,
 
@@ -162,13 +134,10 @@ Vorschriften des Embryonenschutzgesetzes maßgeblich.
     Erfindung technisch nicht auf eine bestimmte Pflanzensorte oder
     Tierrasse beschränkt ist;
 
-
 2.  die ein mikrobiologisches oder ein sonstiges technisches Verfahren
     oder ein durch ein solches Verfahren gewonnenes Erzeugnis zum
     Gegenstand haben, sofern es sich dabei nicht um eine Pflanzensorte
     oder Tierrasse handelt.
-
-
 
 § 1a Abs. 3 gilt entsprechend.
 
@@ -178,24 +147,18 @@ Vorschriften des Embryonenschutzgesetzes maßgeblich.
     enthält und sich selbst reproduzieren oder in einem biologischen
     System reproduziert werden kann;
 
-
 2.  "mikrobiologisches Verfahren" ein Verfahren, bei dem mikrobiologisches
     Material verwendet, ein Eingriff in mikrobiologisches Material
     durchgeführt oder mikrobiologisches Material hervorgebracht wird;
-
 
 3.  "im Wesentlichen biologisches Verfahren" ein Verfahren zur Züchtung
     von Pflanzen oder Tieren, das vollständig auf natürlichen Phänomenen
     wie Kreuzung oder Selektion beruht;
 
-
 4.  "Pflanzensorte" eine Sorte im Sinne der Definition der Verordnung (EG)
     Nr. 2100/94 des Rates vom 27. Juli 1994 über den gemeinschaftlichen
     Sortenschutz (ABl. EG Nr. L 227 S. 1) in der jeweils geltenden
     Fassung.
-
-
-
 
 
 ### § 3
@@ -207,17 +170,16 @@ mündliche Beschreibung, durch Benutzung oder in sonstiger Weise der
 Öffentlichkeit zugänglich gemacht worden sind.
 
 (2) Als Stand der Technik gilt auch der Inhalt folgender
-Patentanmeldungen mit älterem Zeitrang, die erst an oder nach dem für
-den Zeitrang der jüngeren Anmeldung maßgeblichen Tag der
+Patentanmeldungen mit älterem Zeitrang, die erst an oder nach
+dem für den Zeitrang der jüngeren Anmeldung maßgeblichen Tag der
 Öffentlichkeit zugänglich gemacht worden sind:
 
 1.  der nationalen Anmeldungen in der beim Deutschen Patent- und Markenamt
     ursprünglich eingereichten Fassung;
 
-
 2.  der europäischen Anmeldungen in der bei der zuständigen Behörde
-    ursprünglich eingereichten Fassung, wenn mit der Anmeldung für die
-    Bundesrepublik Deutschland Schutz begehrt wird und die
+    ursprünglich eingereichten Fassung, wenn mit der Anmeldung
+    für die Bundesrepublik Deutschland Schutz begehrt wird und die
     Benennungsgebühr für die Bundesrepublik Deutschland nach Artikel 79
     Abs. 2 des Europäischen Patentübereinkommens gezahlt ist und, wenn es
     sich um eine Euro-PCT-Anmeldung (Artikel 153 Abs. 2 des Europäischen
@@ -225,18 +187,15 @@ den Zeitrang der jüngeren Anmeldung maßgeblichen Tag der
     Europäischen Patentübereinkommens genannten Voraussetzungen erfüllt
     sind;
 
-
 3.  der internationalen Anmeldungen nach dem Patentzusammenarbeitsvertrag
     in der beim Anmeldeamt ursprünglich eingereichten Fassung, wenn für
     die Anmeldung das Deutsche Patent- und Markenamt Bestimmungsamt ist.
 
-
-
 Beruht der ältere Zeitrang einer Anmeldung auf der Inanspruchnahme der
 Priorität einer Voranmeldung, so ist Satz 1 nur insoweit anzuwenden,
 als die danach maßgebliche Fassung nicht über die Fassung der
-Voranmeldung hinausgeht. Patentanmeldungen nach Satz 1 Nr. 1, für die
-eine Anordnung nach § 50 Abs. 1 oder Abs. 4 erlassen worden ist,
+Voranmeldung hinausgeht. Patentanmeldungen nach Satz 1 Nr. 1, für
+die eine Anordnung nach § 50 Abs. 1 oder Abs. 4 erlassen worden ist,
 gelten vom Ablauf des achtzehnten Monats nach ihrer Einreichung an als
 der Öffentlichkeit zugänglich gemacht.
 
@@ -247,9 +206,9 @@ Verfahren bestimmt sind und ihre Anwendung zu einem dieser Verfahren
 nicht zum Stand der Technik gehört.
 
 (4) Ebenso wenig wird die Patentfähigkeit der in Absatz 3 genannten
-Stoffe oder Stoffgemische zur spezifischen Anwendung in einem der in §
-2a Abs. 1 Nr. 2 genannten Verfahren durch die Absätze 1 und 2
-ausgeschlossen, wenn diese Anwendung nicht zum Stand der Technik
+Stoffe oder Stoffgemische zur spezifischen Anwendung in einem der
+in § 2a Abs. 1 Nr. 2 genannten Verfahren durch die Absätze 1 und
+2 ausgeschlossen, wenn diese Anwendung nicht zum Stand der Technik
 gehört.
 
 (5) Für die Anwendung der Absätze 1 und 2 bleibt eine Offenbarung der
@@ -260,35 +219,32 @@ zurückgeht
 1.  auf einen offensichtlichen Mißbrauch zum Nachteil des Anmelders oder
     seines Rechtsvorgängers oder
 
-
 2.  auf die Tatsache, daß der Anmelder oder sein Rechtsvorgänger die
     Erfindung auf amtlichen oder amtlich anerkannten Ausstellungen im
     Sinne des am 22. November 1928 in Paris unterzeichneten Abkommens über
     internationale Ausstellungen zur Schau gestellt hat.
 
-
-
-Satz 1 Nr. 2 ist nur anzuwenden, wenn der Anmelder bei Einreichung der
-Anmeldung angibt, daß die Erfindung tatsächlich zur Schau gestellt
-worden ist und er innerhalb von vier Monaten nach der Einreichung
-hierüber eine Bescheinigung einreicht. Die in Satz 1 Nr. 2
-bezeichneten Ausstellungen werden vom Bundesminister der Justiz und
+Satz 1 Nr. 2 ist nur anzuwenden, wenn der Anmelder bei Einreichung
+der Anmeldung angibt, daß die Erfindung tatsächlich zur Schau
+gestellt worden ist und er innerhalb von vier Monaten nach der
+Einreichung hierüber eine Bescheinigung einreicht. Die in Satz 1 Nr.
+2 bezeichneten Ausstellungen werden vom Bundesminister der Justiz und
 für Verbraucherschutz im Bundesanzeiger bekanntgemacht.
 
 
 ### § 4
 
 Eine Erfindung gilt als auf einer erfinderischen Tätigkeit beruhend,
-wenn sie sich für den Fachmann nicht in naheliegender Weise aus dem
-Stand der Technik ergibt. Gehören zum Stand der Technik auch
-Unterlagen im Sinne des § 3 Abs. 2, so werden diese bei der
+wenn sie sich für den Fachmann nicht in naheliegender Weise
+aus dem Stand der Technik ergibt. Gehören zum Stand der Technik
+auch Unterlagen im Sinne des § 3 Abs. 2, so werden diese bei der
 Beurteilung der erfinderischen Tätigkeit nicht in Betracht gezogen.
 
 
 ### § 5
 
-Eine Erfindung gilt als gewerblich anwendbar, wenn ihr Gegenstand auf
-irgendeinem gewerblichen Gebiet einschließlich der Landwirtschaft
+Eine Erfindung gilt als gewerblich anwendbar, wenn ihr Gegenstand
+auf irgendeinem gewerblichen Gebiet einschließlich der Landwirtschaft
 hergestellt oder benutzt werden kann.
 
 
@@ -305,11 +261,11 @@ Erfindung zuerst beim Deutschen Patent- und Markenamt angemeldet hat.
 
 (1) Damit die sachliche Prüfung der Patentanmeldung durch die
 Feststellung des Erfinders nicht verzögert wird, gilt im Verfahren vor
-dem Patentamt der Anmelder als berechtigt, die Erteilung des Deutschen
-Patent- und Markenamts zu verlangen.
+dem Deutschen Patent- und Markenamt der Anmelder als berechtigt, die
+Erteilung des Patents zu verlangen.
 
-(2) Wird ein Patent auf Grund eines auf widerrechtliche Entnahme (§ 21
-Abs. 1 Nr. 3) gestützten Einspruchs widerrufen oder führt der
+(2) Wird ein Patent auf Grund eines auf widerrechtliche Entnahme
+(§ 21 Abs. 1 Nr. 3) gestützten Einspruchs widerrufen oder führt der
 Einspruch zum Verzicht auf das Patent, so kann der Einsprechende
 innerhalb eines Monats nach der amtlichen Mitteilung hierüber die
 Erfindung selbst anmelden und die Priorität des früheren Patents in
@@ -328,8 +284,8 @@ Frist von zwei Jahren nach der Veröffentlichung der Erteilung des
 Patents (§ 58 Abs. 1) durch Klage geltend gemacht werden. Hat der
 Verletzte Einspruch wegen widerrechtlicher Entnahme (§ 21 Abs. 1 Nr.
 3) erhoben, so kann er die Klage noch innerhalb eines Jahres nach
-rechtskräftigem Abschluß des Einspruchsverfahrens erheben. Die Sätze 3
-und 4 sind nicht anzuwenden, wenn der Patentinhaber beim Erwerb des
+rechtskräftigem Abschluß des Einspruchsverfahrens erheben. Die Sätze
+3 und 4 sind nicht anzuwenden, wenn der Patentinhaber beim Erwerb des
 Patents nicht in gutem Glauben war.
 
 
@@ -343,36 +299,31 @@ Jedem Dritten ist es verboten, ohne seine Zustimmung
     anzubieten, in Verkehr zu bringen oder zu gebrauchen oder zu den
     genannten Zwecken entweder einzuführen oder zu besitzen;
 
-
 2.  ein Verfahren, das Gegenstand des Patents ist, anzuwenden oder, wenn
-    der Dritte weiß oder es auf Grund der Umstände offensichtlich ist, daß
-    die Anwendung des Verfahrens ohne Zustimmung des Patentinhabers
+    der Dritte weiß oder es auf Grund der Umstände offensichtlich ist,
+    daß die Anwendung des Verfahrens ohne Zustimmung des Patentinhabers
     verboten ist, zur Anwendung im Geltungsbereich dieses Gesetzes
     anzubieten;
 
-
 3.  das durch ein Verfahren, das Gegenstand des Patents ist, unmittelbar
     hergestellte Erzeugnis anzubieten, in Verkehr zu bringen oder zu
-    gebrauchen oder zu den genannten Zwecken entweder einzuführen oder zu
-    besitzen.
-
-
-
+    gebrauchen oder zu den genannten Zwecken entweder einzuführen oder
+    zu besitzen.
 
 
 ### § 9a
 
 (1) Betrifft das Patent biologisches Material, das auf Grund einer
 Erfindung mit bestimmten Eigenschaften ausgestattet ist, so erstrecken
-sich die Wirkungen von § 9 auf jedes biologische Material, das aus
-diesem biologischen Material durch generative oder vegetative
+sich die Wirkungen von § 9 auf jedes biologische Material, das
+aus diesem biologischen Material durch generative oder vegetative
 Vermehrung in gleicher oder abweichender Form gewonnen wird und mit
 denselben Eigenschaften ausgestattet ist.
 
 (2) Betrifft das Patent ein Verfahren, das es ermöglicht, biologisches
 Material zu gewinnen, das auf Grund einer Erfindung mit bestimmten
-Eigenschaften ausgestattet ist, so erstrecken sich die Wirkungen von §
-9 auf das mit diesem Verfahren unmittelbar gewonnene biologische
+Eigenschaften ausgestattet ist, so erstrecken sich die Wirkungen von
+§ 9 auf das mit diesem Verfahren unmittelbar gewonnene biologische
 Material und jedes andere mit denselben Eigenschaften ausgestattete
 biologische Material, das durch generative oder vegetative Vermehrung
 in gleicher oder abweichender Form aus dem unmittelbar gewonnenen
@@ -390,8 +341,8 @@ enthalten ist und ihre Funktion erfüllt. § 1a Abs. 1 bleibt unberührt.
 Bringt der Patentinhaber oder mit seiner Zustimmung ein Dritter
 biologisches Material, das auf Grund der Erfindung mit bestimmten
 Eigenschaften ausgestattet ist, im Hoheitsgebiet eines Mitgliedstaates
-der Europäischen Union oder in einem Vertragsstaat des Abkommens über
-den Europäischen Wirtschaftsraum in Verkehr und wird aus diesem
+der Europäischen Union oder in einem Vertragsstaat des Abkommens
+über den Europäischen Wirtschaftsraum in Verkehr und wird aus diesem
 biologischen Material durch generative oder vegetative Vermehrung
 weiteres biologisches Material gewonnen, so treten die Wirkungen von §
 9 nicht ein, wenn die Vermehrung des biologischen Materials der Zweck
@@ -416,13 +367,13 @@ sind diese entsprechend den auf Grund Artikel 14 Abs. 3 der Verordnung
 machen.
 
 (2) Werden landwirtschaftliche Nutztiere oder tierisches
-Vermehrungsmaterial durch den Patentinhaber oder mit dessen Zustimmung
-durch einen Dritten an einen Landwirt in Verkehr gebracht, so darf der
-Landwirt die landwirtschaftlichen Nutztiere oder das tierische
-Vermehrungsmaterial entgegen den §§ 9, 9a und 9b Satz 2 zu
-landwirtschaftlichen Zwecken verwenden. Diese Befugnis erstreckt sich
-auch auf die Überlassung der landwirtschaftlichen Nutztiere oder
-anderen tierischen Vermehrungsmaterials zur Fortführung seiner
+Vermehrungsmaterial durch den Patentinhaber oder mit dessen
+Zustimmung durch einen Dritten an einen Landwirt in Verkehr gebracht,
+so darf der Landwirt die landwirtschaftlichen Nutztiere oder das
+tierische Vermehrungsmaterial entgegen den §§ 9, 9a und 9b Satz 2
+zu landwirtschaftlichen Zwecken verwenden. Diese Befugnis erstreckt
+sich auch auf die Überlassung der landwirtschaftlichen Nutztiere
+oder anderen tierischen Vermehrungsmaterials zur Fortführung seiner
 landwirtschaftlichen Tätigkeit, jedoch nicht auf den Verkauf mit dem
 Ziel oder im Rahmen einer Vermehrung zu Erwerbszwecken.
 
@@ -462,14 +413,11 @@ Die Wirkung des Patents erstreckt sich nicht auf
 1.  Handlungen, die im privaten Bereich zu nichtgewerblichen Zwecken
     vorgenommen werden;
 
-
 2.  Handlungen zu Versuchszwecken, die sich auf den Gegenstand der
     patentierten Erfindung beziehen;
 
-
 2a. die Nutzung biologischen Materials zum Zweck der Züchtung, Entdeckung
     und Entwicklung einer neuen Pflanzensorte;
-
 
 2b. Studien und Versuche und die sich daraus ergebenden praktischen
     Anforderungen, die für die Erlangung einer arzneimittelrechtlichen
@@ -477,37 +425,30 @@ Die Wirkung des Patents erstreckt sich nicht auf
     einer arzneimittelrechtlichen Zulassung in den Mitgliedstaaten der
     Europäischen Union oder in Drittstaaten erforderlich sind;
 
-
 3.  die unmittelbare Einzelzubereitung von Arzneimitteln in Apotheken auf
     Grund ärztlicher Verordnung sowie auf Handlungen, welche die auf diese
     Weise zubereiteten Arzneimittel betreffen;
 
-
-4.  den an Bord von Schiffen eines anderen Mitgliedstaates der Pariser
-    Verbandsübereinkunft zum Schutz des gewerblichen Eigentums
-    stattfindenden Gebrauch des Gegenstands der patentierten Erfindung im
-    Schiffskörper, in den Maschinen, im Takelwerk, an den Geräten und
+4.  den an Bord von Schiffen eines anderen Mitgliedstaates der
+    Pariser Verbandsübereinkunft zum Schutz des gewerblichen Eigentums
+    stattfindenden Gebrauch des Gegenstands der patentierten Erfindung
+    im Schiffskörper, in den Maschinen, im Takelwerk, an den Geräten und
     sonstigem Zubehör, wenn die Schiffe vorübergehend oder zufällig in die
     Gewässer gelangen, auf die sich der Geltungsbereich dieses Gesetzes
     erstreckt, vorausgesetzt, daß dieser Gegenstand dort ausschließlich
     für die Bedürfnisse des Schiffes verwendet wird;
 
-
 5.  den Gebrauch des Gegenstands der patentierten Erfindung in der
     Bauausführung oder für den Betrieb der Luft- oder Landfahrzeuge eines
     anderen Mitgliedstaates der Pariser Verbandsübereinkunft zum Schutz
-    des gewerblichen Eigentums oder des Zubehörs solcher Fahrzeuge, wenn
-    diese vorübergehend oder zufällig in den Geltungsbereich dieses
+    des gewerblichen Eigentums oder des Zubehörs solcher Fahrzeuge,
+    wenn diese vorübergehend oder zufällig in den Geltungsbereich dieses
     Gesetzes gelangen;
-
 
 6.  die in Artikel 27 des Abkommens vom 7. Dezember 1944 über die
     Internationale Zivilluftfahrt (BGBl. 1956 II S. 411) vorgesehenen
     Handlungen, wenn diese Handlungen ein Luftfahrzeug eines anderen
     Staates betreffen, auf den dieser Artikel anzuwenden ist.
-
-
-
 
 
 ### § 12
@@ -516,17 +457,17 @@ Die Wirkung des Patents erstreckt sich nicht auf
 der Anmeldung bereits im Inland die Erfindung in Benutzung genommen
 oder die dazu erforderlichen Veranstaltungen getroffen hatte. Dieser
 ist befugt, die Erfindung für die Bedürfnisse seines eigenen Betriebs
-in eigenen oder fremden Werkstätten auszunutzen. Die Befugnis kann nur
-zusammen mit dem Betrieb vererbt oder veräußert werden. Hat der
+in eigenen oder fremden Werkstätten auszunutzen. Die Befugnis kann
+nur zusammen mit dem Betrieb vererbt oder veräußert werden. Hat der
 Anmelder oder sein Rechtsvorgänger die Erfindung vor der Anmeldung
 anderen mitgeteilt und sich dabei seine Rechte für den Fall der
 Patenterteilung vorbehalten, so kann sich der, welcher die Erfindung
-infolge der Mitteilung erfahren hat, nicht auf Maßnahmen nach Satz 1
-berufen, die er innerhalb von sechs Monaten nach der Mitteilung
+infolge der Mitteilung erfahren hat, nicht auf Maßnahmen nach Satz
+1 berufen, die er innerhalb von sechs Monaten nach der Mitteilung
 getroffen hat.
 
-(2) Steht dem Patentinhaber ein Prioritätsrecht zu, so ist an Stelle
-der in Absatz 1 bezeichneten Anmeldung die frühere Anmeldung
+(2) Steht dem Patentinhaber ein Prioritätsrecht zu, so ist an
+Stelle der in Absatz 1 bezeichneten Anmeldung die frühere Anmeldung
 maßgebend. Dies gilt jedoch nicht für Angehörige eines ausländischen
 Staates, der hierin keine Gegenseitigkeit verbürgt, soweit sie die
 Priorität einer ausländischen Anmeldung in Anspruch nehmen.
@@ -536,8 +477,8 @@ Priorität einer ausländischen Anmeldung in Anspruch nehmen.
 
 (1) Die Wirkung des Patents tritt insoweit nicht ein, als die
 Bundesregierung anordnet, daß die Erfindung im Interesse der
-öffentlichen Wohlfahrt benutzt werden soll. Sie erstreckt sich ferner
-nicht auf eine Benutzung der Erfindung, die im Interesse der
+öffentlichen Wohlfahrt benutzt werden soll. Sie erstreckt sich
+ferner nicht auf eine Benutzung der Erfindung, die im Interesse der
 Sicherheit des Bundes von der zuständigen obersten Bundesbehörde oder
 in deren Auftrag von einer nachgeordneten Stelle angeordnet wird.
 
@@ -545,8 +486,8 @@ in deren Auftrag von einer nachgeordneten Stelle angeordnet wird.
 Bundesverwaltungsgericht zuständig, wenn sie von der Bundesregierung
 oder der zuständigen obersten Bundesbehörde getroffen ist.
 
-(3) Der Patentinhaber hat in den Fällen des Absatzes 1 gegen den Bund
-Anspruch auf angemessene Vergütung. Wegen deren Höhe steht im
+(3) Der Patentinhaber hat in den Fällen des Absatzes 1 gegen den
+Bund Anspruch auf angemessene Vergütung. Wegen deren Höhe steht im
 Streitfall der Rechtsweg vor den ordentlichen Gerichten offen. Eine
 Anordnung der Bundesregierung nach Absatz 1 Satz 1 ist dem im Register
 (§ 30 Abs. 1) als Patentinhaber Eingetragenen vor Benutzung der
@@ -569,8 +510,8 @@ jedoch zur Auslegung der Patentansprüche heranzuziehen.
 und das Recht aus dem Patent gehen auf die Erben über. Sie können
 beschränkt oder unbeschränkt auf andere übertragen werden.
 
-(2) Die Rechte nach Absatz 1 können ganz oder teilweise Gegenstand von
-ausschließlichen oder nicht ausschließlichen Lizenzen für den
+(2) Die Rechte nach Absatz 1 können ganz oder teilweise Gegenstand
+von ausschließlichen oder nicht ausschließlichen Lizenzen für den
 Geltungsbereich dieses Gesetzes oder einen Teil desselben sein. Soweit
 ein Lizenznehmer gegen eine Beschränkung seiner Lizenz nach Satz 1
 verstößt, kann das Recht aus dem Patent gegen ihn geltend gemacht
@@ -595,23 +536,23 @@ beantragt werden, der sich an den Ablauf des Patents nach § 16
 unmittelbar anschließt. Für den ergänzenden Schutz sind Jahresgebühren
 zu zahlen.
 
-(2) Soweit das Recht der Europäischen Gemeinschaften nichts anderes
-bestimmt, gelten die Vorschriften dieses Gesetzes über die
+(2) Soweit das Recht der Europäischen Gemeinschaften nichts
+anderes bestimmt, gelten die Vorschriften dieses Gesetzes über die
 Berechtigung des Anmelders (§§ 6 bis 8), über die Wirkung des Patents
 und die Ausnahmen davon (§§ 9 bis 12), über die Benutzungsanordnung
-und die Zwangslizenz (§§ 13, 24), über den Schutzbereich (§ 14), über
-Lizenzen und deren Eintragung (§§ 15, 30), über das Erlöschen des
-Patents (§ 20), über die Nichtigkeit (§ 22), über die
+und die Zwangslizenz (§§ 13, 24), über den Schutzbereich (§
+14), über Lizenzen und deren Eintragung (§§ 15, 30), über das
+Erlöschen des Patents (§ 20), über die Nichtigkeit (§ 22), über die
 Lizenzbereitschaft (§ 23), über den Inlandsvertreter (§ 25), über den
 Widerruf (§ 64 Absatz 1 erste Alternative, Absatz 2 und 3 Satz 1 bis
 3), über das Patentgericht und das Verfahren vor dem Patentgericht (§§
 65 bis 99), über das Verfahren vor dem Bundesgerichtshof (§§ 100 bis
-122a), über die Wiedereinsetzung (§ 123), über die Weiterbehandlung (§
-123a), über die Wahrheitspflicht (§ 124), über das elektronische
+122a), über die Wiedereinsetzung (§ 123), über die Weiterbehandlung
+(§ 123a), über die Wahrheitspflicht (§ 124), über das elektronische
 Dokument (§ 125a), über die Amtssprache, die Zustellungen und die
-Rechtshilfe (§§ 126 bis 128), über die Rechtsverletzungen (§§ 139 bis
-141a, 142a und 142b), über die Klagenkonzentration und über die
-Patentberühmung (§§ 145 und 146) für den ergänzenden Schutz
+Rechtshilfe (§§ 126 bis 128), über die Rechtsverletzungen (§§ 139
+bis 141a, 142a und 142b), über die Klagenkonzentration und über
+die Patentberühmung (§§ 145 und 146) für den ergänzenden Schutz
 entsprechend.
 
 (3) Lizenzen und Erklärungen nach § 23, die für ein Patent wirksam
@@ -628,7 +569,6 @@ entrichten.
 ### (XXXX) §§ 18 und 19 (weggefallen)
 
 
-
 ### § 20
 
 (1) Das Patent erlischt, wenn
@@ -636,13 +576,9 @@ entrichten.
 1.  der Patentinhaber darauf durch schriftliche Erklärung an das Deutsche
     Patent- und Markenamt verzichtet oder
 
-
 2.  die Jahresgebühr oder der Unterschiedsbetrag nicht rechtzeitig (§ 7
     Abs. 1, § 13 Absatz 4 oder § 14 Abs. 2 und 5 des Patentkostengesetzes,
     § 23 Abs. 7 Satz 4 dieses Gesetzes) gezahlt wird.
-
-
-
 
 (2) Über die Rechtzeitigkeit der Zahlung entscheidet nur das Deutsche
 Patent- und Markenamt; die §§ 73 und 100 bleiben unberührt.
@@ -654,31 +590,25 @@ Patent- und Markenamt; die §§ 73 und 100 bleiben unberührt.
 
 1.  der Gegenstand des Patents nach den §§ 1 bis 5 nicht patentfähig ist,
 
-
 2.  das Patent die Erfindung nicht so deutlich und vollständig offenbart,
     daß ein Fachmann sie ausführen kann,
-
 
 3.  der wesentliche Inhalt des Patents den Beschreibungen, Zeichnungen,
     Modellen, Gerätschaften oder Einrichtungen eines anderen oder einem
     von diesem angewendeten Verfahren ohne dessen Einwilligung entnommen
     worden ist (widerrechtliche Entnahme),
 
-
 4.  der Gegenstand des Patents über den Inhalt der Anmeldung in der
     Fassung hinausgeht, in der sie bei der für die Einreichung der
     Anmeldung zuständigen Behörde ursprünglich eingereicht worden ist; das
     gleiche gilt, wenn das Patent auf einer Teilanmeldung oder einer nach
-    § 7 Abs. 2 eingereichten neuen Anmeldung beruht und der Gegenstand des
-    Patents über den Inhalt der früheren Anmeldung in der Fassung
+    § 7 Abs. 2 eingereichten neuen Anmeldung beruht und der Gegenstand
+    des Patents über den Inhalt der früheren Anmeldung in der Fassung
     hinausgeht, in der sie bei der für die Einreichung der früheren
     Anmeldung zuständigen Behörde ursprünglich eingereicht worden ist.
 
-
-
-
-(2) Betreffen die Widerrufsgründe nur einen Teil des Patents, so wird
-es mit einer entsprechenden Beschränkung aufrechterhalten. Die
+(2) Betreffen die Widerrufsgründe nur einen Teil des Patents, so
+wird es mit einer entsprechenden Beschränkung aufrechterhalten. Die
 Beschränkung kann in Form einer Änderung der Patentansprüche, der
 Beschreibung oder der Zeichnungen vorgenommen werden.
 
@@ -698,21 +628,21 @@ der Schutzbereich des Patents erweitert worden ist.
 
 ### § 23
 
-(1) Erklärt sich der Patentanmelder oder der im Register (§ 30 Abs. 1)
-als Patentinhaber Eingetragene dem Deutschen Patent- und Markenamt
-gegenüber schriftlich bereit, jedermann die Benutzung der Erfindung
-gegen angemessene Vergütung zu gestatten, so ermäßigen sich die für
-das Patent nach Eingang der Erklärung fällig werdenden Jahresgebühren
-auf die Hälfte. Die Erklärung ist im Register einzutragen und im
-Patentblatt zu veröffentlichen.
+(1) Erklärt sich der Patentanmelder oder der im Register (§ 30 Abs.
+1) als Patentinhaber Eingetragene dem Deutschen Patent- und Markenamt
+gegenüber schriftlich im Sinne des § 125a bereit, jedermann die
+Benutzung der Erfindung gegen angemessene Vergütung zu gestatten, so
+ermäßigen sich die für das Patent nach Eingang der Erklärung fällig
+werdenden Jahresgebühren auf die Hälfte. Die Erklärung ist im Register
+einzutragen und im Patentblatt zu veröffentlichen.
 
-(2) Die Erklärung ist unzulässig, solange im Register ein Vermerk über
-die Einräumung einer ausschließlichen Lizenz (§ 30 Abs. 4) eingetragen
-ist oder ein Antrag auf Eintragung eines solchen Vermerks dem
-Deutschen Patent- und Markenamt vorliegt.
+(2) Die Erklärung ist unzulässig, solange im Register ein Vermerk
+über die Einräumung einer ausschließlichen Lizenz (§ 30 Abs. 4)
+eingetragen ist oder ein Antrag auf Eintragung eines solchen Vermerks
+dem Deutschen Patent- und Markenamt vorliegt.
 
-(3) Wer nach Eintragung der Erklärung die Erfindung benutzen will, hat
-seine Absicht dem Patentinhaber anzuzeigen. Die Anzeige gilt als
+(3) Wer nach Eintragung der Erklärung die Erfindung benutzen will,
+hat seine Absicht dem Patentinhaber anzuzeigen. Die Anzeige gilt als
 bewirkt, wenn sie durch Aufgabe eines eingeschriebenen Briefes an den
 im Register als Patentinhaber Eingetragenen oder seinen eingetragenen
 Vertreter oder Zustellungsbevollmächtigten (§ 25) abgesandt worden
@@ -729,9 +659,9 @@ untersagen.
 (4) Die Vergütung wird auf schriftlichen Antrag eines Beteiligten
 durch die Patentabteilung festgesetzt. Für das Verfahren sind die §§
 46, 47 und 62 entsprechend anzuwenden. Der Antrag kann gegen mehrere
-Beteiligte gerichtet werden. Das Deutsche Patent- und Markenamt kann
-bei der Festsetzung der Vergütung anordnen, dass die Kosten des
-Festsetzungsverfahrens ganz oder teilweise vom Antragsgegner zu
+Beteiligte gerichtet werden. Das Deutsche Patent- und Markenamt
+kann bei der Festsetzung der Vergütung anordnen, dass die Kosten
+des Festsetzungsverfahrens ganz oder teilweise vom Antragsgegner zu
 erstatten sind.
 
 (5) Nach Ablauf eines Jahres seit der letzten Festsetzung kann jeder
@@ -743,15 +673,15 @@ Absatz 4 entsprechend.
 (6) Wird die Erklärung für eine Anmeldung abgegeben, so sind die
 Bestimmungen der Absätze 1 bis 5 entsprechend anzuwenden.
 
-(7) Die Erklärung kann jederzeit gegenüber dem Deutschen Patent- und
-Markenamt schriftlich zurückgenommen werden, solange dem Patentinhaber
-noch nicht die Absicht angezeigt worden ist, die Erfindung zu
-benutzen. Die Zurücknahme wird mit ihrer Einreichung wirksam. Der
-Betrag, um den sich die Jahresgebühren ermäßigt haben, ist innerhalb
-eines Monats nach der Zurücknahme der Erklärung zu entrichten. Wird
-der Unterschiedsbetrag nicht innerhalb der Frist des Satzes 3 gezahlt,
-so kann er mit dem Verspätungszuschlag noch bis zum Ablauf einer Frist
-von weiteren vier Monaten gezahlt werden.
+(7) Die Erklärung kann jederzeit gegenüber dem Deutschen Patent-
+und Markenamt schriftlich im Sinne des § 125a zurückgenommen werden,
+solange dem Patentinhaber noch nicht die Absicht angezeigt worden ist,
+die Erfindung zu benutzen. Die Zurücknahme wird mit ihrer Einreichung
+wirksam. Der Betrag, um den sich die Jahresgebühren ermäßigt haben,
+ist innerhalb eines Monats nach der Zurücknahme der Erklärung zu
+entrichten. Wird der Unterschiedsbetrag nicht innerhalb der Frist des
+Satzes 3 gezahlt, so kann er mit dem Verspätungszuschlag noch bis zum
+Ablauf einer Frist von weiteren vier Monaten gezahlt werden.
 
 
 ### § 24
@@ -765,26 +695,19 @@ Maßgabe der nachfolgenden Vorschriften erteilt (Zwangslizenz), sofern
     die Erfindung zu angemessenen geschäftsüblichen Bedingungen zu
     benutzen, und
 
-
 2.  das öffentliche Interesse die Erteilung einer Zwangslizenz gebietet.
-
-
-
 
 (2) Kann der Lizenzsucher eine ihm durch Patent mit jüngerem Zeitrang
 geschützte Erfindung nicht verwerten, ohne das Patent mit älterem
-Zeitrang zu verletzen, so hat er gegenüber dem Inhaber des Patents mit
-dem älteren Zeitrang Anspruch auf Einräumung einer Zwangslizenz,
+Zeitrang zu verletzen, so hat er gegenüber dem Inhaber des Patents
+mit dem älteren Zeitrang Anspruch auf Einräumung einer Zwangslizenz,
 sofern
 
 1.  die Voraussetzung des Absatzes 1 Nr. 1 erfüllt ist und
 
-
-2.  seine eigene Erfindung im Vergleich mit derjenigen des Patents mit dem
-    älteren Zeitrang einen wichtigen technischen Fortschritt von
+2.  seine eigene Erfindung im Vergleich mit derjenigen des Patents mit
+    dem älteren Zeitrang einen wichtigen technischen Fortschritt von
     erheblicher wirtschaftlicher Bedeutung aufweist.
-
-
 
 Der Patentinhaber kann verlangen, dass ihm der Lizenzsucher eine
 Gegenlizenz zu angemessenen Bedingungen für die Benutzung der
@@ -795,29 +718,29 @@ Sortenschutzrecht nicht erhalten oder verwerten kann, ohne ein
 früheres Patent zu verletzen.
 
 (4) Für eine patentierte Erfindung auf dem Gebiet der
-Halbleitertechnologie darf eine Zwangslizenz im Rahmen des Absatzes 1
-nur erteilt werden, wenn dies zur Behebung einer in einem Gerichts-
+Halbleitertechnologie darf eine Zwangslizenz im Rahmen des Absatzes
+1 nur erteilt werden, wenn dies zur Behebung einer in einem Gerichts-
 oder Verwaltungsverfahren festgestellten wettbewerbswidrigen Praxis
 des Patentinhabers erforderlich ist.
 
-(5) Übt der Patentinhaber die patentierte Erfindung nicht oder nicht
-überwiegend im Inland aus, so können Zwangslizenzen im Rahmen des
-Absatzes 1 erteilt werden, um eine ausreichende Versorgung des
+(5) Übt der Patentinhaber die patentierte Erfindung nicht oder
+nicht überwiegend im Inland aus, so können Zwangslizenzen im Rahmen
+des Absatzes 1 erteilt werden, um eine ausreichende Versorgung des
 Inlandsmarktes mit dem patentierten Erzeugnis sicherzustellen. Die
 Einfuhr steht insoweit der Ausübung des Patents im Inland gleich.
 
 (6) Die Erteilung einer Zwangslizenz an einem Patent ist erst nach
 dessen Erteilung zulässig. Sie kann eingeschränkt erteilt und von
 Bedingungen abhängig gemacht werden. Umfang und Dauer der Benutzung
-sind auf den Zweck zu begrenzen, für den sie gestattet worden ist. Der
-Patentinhaber hat gegen den Inhaber der Zwangslizenz Anspruch auf eine
-Vergütung, die nach den Umständen des Falles angemessen ist und den
-wirtschaftlichen Wert der Zwangslizenz in Betracht zieht. Tritt bei
-den künftig fällig werdenden wiederkehrenden Vergütungsleistungen eine
-wesentliche Veränderung derjenigen Verhältnisse ein, die für die
-Bestimmung der Höhe der Vergütung maßgebend waren, so ist jeder
-Beteiligte berechtigt, eine entsprechende Anpassung zu verlangen. Sind
-die Umstände, die der Erteilung der Zwangslizenz zugrunde lagen,
+sind auf den Zweck zu begrenzen, für den sie gestattet worden ist.
+Der Patentinhaber hat gegen den Inhaber der Zwangslizenz Anspruch auf
+eine Vergütung, die nach den Umständen des Falles angemessen ist und
+den wirtschaftlichen Wert der Zwangslizenz in Betracht zieht. Tritt
+bei den künftig fällig werdenden wiederkehrenden Vergütungsleistungen
+eine wesentliche Veränderung derjenigen Verhältnisse ein, die für
+die Bestimmung der Höhe der Vergütung maßgebend waren, so ist jeder
+Beteiligte berechtigt, eine entsprechende Anpassung zu verlangen.
+Sind die Umstände, die der Erteilung der Zwangslizenz zugrunde lagen,
 entfallen und ist ihr Wiedereintritt unwahrscheinlich, so kann der
 Patentinhaber die Rücknahme der Zwangslizenz verlangen.
 
@@ -830,30 +753,29 @@ Zeitrang übertragen werden.
 
 ### § 25
 
-(1) Wer im Inland weder Wohnsitz, Sitz noch Niederlassung hat, kann an
-einem in diesem Gesetz geregelten Verfahren vor dem Deutschen Patent-
-und Markenamt oder dem Patentgericht nur teilnehmen und die Rechte aus
-einem Patent nur geltend machen, wenn er einen Rechtsanwalt oder
-Patentanwalt als Vertreter bestellt hat, der zur Vertretung im
+(1) Wer im Inland weder Wohnsitz, Sitz noch Niederlassung hat, kann
+an einem in diesem Gesetz geregelten Verfahren vor dem Deutschen
+Patent- und Markenamt oder dem Patentgericht nur teilnehmen und die
+Rechte aus einem Patent nur geltend machen, wenn er einen Rechtsanwalt
+oder Patentanwalt als Vertreter bestellt hat, der zur Vertretung im
 Verfahren vor dem Deutschen Patent- und Markenamt, dem Patentgericht
 und in bürgerlichen Rechtsstreitigkeiten, die das Patent betreffen,
 sowie zur Stellung von Strafanträgen befugt und bevollmächtigt ist.
 
 (2) Der Ort, an dem ein nach Absatz 1 bestellter Vertreter seinen
-Geschäftsraum hat, gilt im Sinne des § 23 der Zivilprozessordnung als
-der Ort, an dem sich der Vermögensgegenstand befindet; fehlt ein
+Geschäftsraum hat, gilt im Sinne des § 23 der Zivilprozessordnung
+als der Ort, an dem sich der Vermögensgegenstand befindet; fehlt ein
 solcher Geschäftsraum, so ist der Ort maßgebend, an dem der Vertreter
 im Inland seinen Wohnsitz, und in Ermangelung eines solchen der Ort,
 an dem das Deutsche Patent- und Markenamt seinen Sitz hat.
 
 (3) Die rechtsgeschäftliche Beendigung der Bestellung eines Vertreters
-nach Absatz 1 wird erst wirksam, wenn sowohl diese Beendigung als auch
-die Bestellung eines anderen Vertreters gegenüber dem Deutschen
+nach Absatz 1 wird erst wirksam, wenn sowohl diese Beendigung als
+auch die Bestellung eines anderen Vertreters gegenüber dem Deutschen
 Patent- und Markenamt oder dem Patentgericht angezeigt wird.
 
 
 ## Zweiter Abschnitt - Deutsches Patent- und Markenamt
-
 
 
 ### § 26
@@ -868,13 +790,13 @@ nach dem Deutschen Richtergesetz besitzen (rechtskundige Mitglieder)
 oder in einem Zweig der Technik sachverständig sein (technische
 Mitglieder). Die Mitglieder werden auf Lebenszeit berufen.
 
-(3) Als technisches Mitglied soll in der Regel nur angestellt werden,
-wer im Inland an einer Universität, einer technischen oder
+(3) Als technisches Mitglied soll in der Regel nur angestellt
+werden, wer im Inland an einer Universität, einer technischen oder
 landwirtschaftlichen Hochschule oder einer Bergakademie in einem
 technischen oder naturwissenschaftlichen Fach eine staatliche oder
 akademische Abschlußprüfung bestanden hat, danach mindestens fünf
-Jahre im Bereich der Naturwissenschaften oder Technik beruflich tätig
-war und im Besitz der erforderlichen Rechtskenntnisse ist.
+Jahre im Bereich der Naturwissenschaften oder Technik beruflich
+tätig war und im Besitz der erforderlichen Rechtskenntnisse ist.
 Abschlußprüfungen in einem anderen Mitgliedstaat der Europäischen
 Union oder in einem anderen Vertragsstaat des Abkommens über den
 Europäischen Wirtschaftsraum stehen der inländischen Abschlußprüfung
@@ -885,24 +807,24 @@ kann der Präsident des Deutschen Patent- und Markenamts Personen,
 welche die für die Mitglieder geforderte Vorbildung haben (Absatz 2
 und 3), mit den Verrichtungen eines Mitglieds des Deutschen Patent-
 und Markenamts beauftragen (Hilfsmitglieder). Der Auftrag kann auf
-eine bestimmte Zeit oder für die Dauer des Bedürfnisses erteilt werden
-und ist so lange nicht widerruflich. Im übrigen gelten die
+eine bestimmte Zeit oder für die Dauer des Bedürfnisses erteilt
+werden und ist so lange nicht widerruflich. Im übrigen gelten die
 Vorschriften über Mitglieder auch für die Hilfsmitglieder.
 
 
 ### § 26a
 
 (1) Das Deutsche Patent- und Markenamt hat die Aufgabe, die
-Öffentlichkeit, insbesondere auch kleine und mittlere Unternehmen, in
-allgemeiner Form über Rechte des geistigen Eigentums und deren
-Schranken sowie über die Wahrnehmung und Durchsetzung dieser Rechte zu
-informieren.
+Öffentlichkeit, insbesondere auch kleine und mittlere Unternehmen,
+in allgemeiner Form über Rechte des geistigen Eigentums und deren
+Schranken sowie über die Wahrnehmung und Durchsetzung dieser Rechte
+zu informieren.
 
 (2) Das Deutsche Patent- und Markenamt arbeitet bei der Erfüllung
-seiner Aufgaben mit Ämtern für geistiges Eigentum anderer Länder und
-Regionen, der Europäischen Patentorganisation, dem Amt der
-Europäischen Union für geistiges Eigentum und der Weltorganisation für
-geistiges Eigentum zusammen. Die Zusammenarbeit umfasst auch
+seiner Aufgaben mit Ämtern für geistiges Eigentum anderer Länder
+und Regionen, der Europäischen Patentorganisation, dem Amt der
+Europäischen Union für geistiges Eigentum und der Weltorganisation
+für geistiges Eigentum zusammen. Die Zusammenarbeit umfasst auch
 urheberrechtliche Belange. § 65a des Markengesetzes bleibt unberührt.
 
 
@@ -913,16 +835,12 @@ urheberrechtliche Belange. § 65a des Markengesetzes bleibt unberührt.
 1.  Prüfungsstellen für die Bearbeitung der Patentanmeldungen und für die
     Erteilung von Auskünften zum Stand der Technik (§ 29 Abs. 3);
 
-
 2.  Patentabteilungen für alle Angelegenheiten, die die erteilten Patente
     betreffen, für die Festsetzung der Vergütung (§ 23 Abs. 4 und 6) und
     für die Bewilligung der Verfahrenskostenhilfe im Verfahren vor dem
     Deutschen Patent- und Markenamt. Innerhalb ihres Geschäftskreises
     obliegt jeder Patentabteilung auch die Abgabe von Gutachten (§ 29 Abs.
     1 und 2).
-
-
-
 
 (2) Die Obliegenheiten der Prüfungsstelle nimmt ein technisches
 Mitglied der Patentabteilung (Prüfer) wahr.
@@ -931,27 +849,27 @@ Mitglied der Patentabteilung (Prüfer) wahr.
 Mitgliedern beschlußfähig, unter denen sich, soweit die Abteilung im
 Einspruchsverfahren tätig wird, zwei technische Mitglieder befinden
 müssen. Bietet die Sache besondere rechtliche Schwierigkeiten und
-gehört keiner der Mitwirkenden zu den rechtskundigen Mitgliedern, so
-soll bei der Beschlußfassung ein der Patentabteilung angehörendes
+gehört keiner der Mitwirkenden zu den rechtskundigen Mitgliedern,
+so soll bei der Beschlußfassung ein der Patentabteilung angehörendes
 rechtskundiges Mitglied hinzutreten. Ein Beschluß, durch den ein
 Antrag auf Zuziehung eines rechtskundigen Mitglieds abgelehnt wird,
 ist selbständig nicht anfechtbar.
 
-(4) Der Vorsitzende der Patentabteilung kann alle Angelegenheiten der
-Patentabteilung mit Ausnahme der Beschlußfassung über die
+(4) Der Vorsitzende der Patentabteilung kann alle Angelegenheiten
+der Patentabteilung mit Ausnahme der Beschlußfassung über die
 Aufrechterhaltung, den Widerruf oder die Beschränkung des Patents
 sowie über die Festsetzung der Vergütung (§ 23 Abs. 4) allein
 bearbeiten oder diese Aufgaben einem technischen Mitglied der
 Abteilung übertragen; dies gilt nicht für eine Anhörung.
 
-(5) Das Bundesministerium der Justiz und für Verbraucherschutz wird
-ermächtigt, durch Rechtsverordnung Beamte des gehobenen und des
-mittleren Dienstes sowie vergleichbare Angestellte mit der Wahrnehmung
-von Geschäften zu betrauen, die den Prüfungsstellen oder
+(5) Das Bundesministerium der Justiz und für Verbraucherschutz
+wird ermächtigt, durch Rechtsverordnung Beamte des gehobenen und
+des mittleren Dienstes sowie vergleichbare Angestellte mit der
+Wahrnehmung von Geschäften zu betrauen, die den Prüfungsstellen oder
 Patentabteilungen obliegen und die ihrer Art nach keine besonderen
 technischen oder rechtlichen Schwierigkeiten bieten; ausgeschlossen
-davon sind jedoch die Erteilung des Patents und die Zurückweisung der
-Anmeldung aus Gründen, denen der Anmelder widersprochen hat. Das
+davon sind jedoch die Erteilung des Patents und die Zurückweisung
+der Anmeldung aus Gründen, denen der Anmelder widersprochen hat. Das
 Bundesministerium der Justiz und für Verbraucherschutz kann diese
 Ermächtigung durch Rechtsverordnung auf das Deutsche Patent- und
 Markenamt übertragen.
@@ -981,13 +899,9 @@ Bundesrates bedarf,
     Markenamts sowie die Form des Verfahrens in Patentangelegenheiten zu
     regeln, soweit nicht durch Gesetz Bestimmungen darüber getroffen sind,
 
-
-2.  für Fristen in Patentangelegenheiten eine für alle Dienststellen des
-    Deutschen Patent- und Markenamts geltende Regelung über die zu
+2.  für Fristen in Patentangelegenheiten eine für alle Dienststellen
+    des Deutschen Patent- und Markenamts geltende Regelung über die zu
     berücksichtigenden gesetzlichen Feiertage zu treffen.
-
-
-
 
 (2) Das Bundesministerium der Justiz und für Verbraucherschutz kann
 die Ermächtigung nach Absatz 1 durch Rechtsverordnung ohne Zustimmung
@@ -1002,18 +916,18 @@ der Gerichte oder der Staatsanwaltschaften über Fragen, die Patente
 betreffen, Gutachten abzugeben, wenn in dem Verfahren voneinander
 abweichende Gutachten mehrerer Sachverständiger vorliegen.
 
-(2) Im übrigen ist das Deutsche Patent- und Markenamt nicht befugt,
-ohne Genehmigung des Bundesministers der Justiz und für
+(2) Im übrigen ist das Deutsche Patent- und Markenamt nicht
+befugt, ohne Genehmigung des Bundesministers der Justiz und für
 Verbraucherschutz außerhalb seines gesetzlichen Geschäftskreises
 Beschlüsse zu fassen oder Gutachten abzugeben.
 
 (3) Das Bundesministerium der Justiz und für Verbraucherschutz wird
 ermächtigt, zur Nutzbarmachung der Dokumentation des Deutschen Patent-
 und Markenamts für die Öffentlichkeit durch Rechtsverordnung ohne
-Zustimmung des Bundesrates zu bestimmen, dass das Deutsche Patent- und
-Markenamt ohne Gewähr für Vollständigkeit Auskünfte zum Stand der
-Technik erteilt. Dabei kann es insbesondere die Voraussetzungen, die
-Art und den Umfang der Auskunftserteilung sowie die Gebiete der
+Zustimmung des Bundesrates zu bestimmen, dass das Deutsche Patent-
+und Markenamt ohne Gewähr für Vollständigkeit Auskünfte zum Stand
+der Technik erteilt. Dabei kann es insbesondere die Voraussetzungen,
+die Art und den Umfang der Auskunftserteilung sowie die Gebiete der
 Technik bestimmen, für die eine Auskunft erteilt werden kann. Das
 Bundesministerium der Justiz und für Verbraucherschutz kann diese
 Ermächtigung durch Rechtsverordnung ohne Zustimmung des Bundesrates
@@ -1022,12 +936,12 @@ auf das Deutsche Patent- und Markenamt übertragen.
 
 ### § 29a
 
-(1) Das Deutsche Patent- und Markenamt darf Werke oder andere nach dem
-Urheberrechtsgesetz geschützte Schutzgegenstände für seine
-Beschäftigten vervielfältigen und öffentlich zugänglich machen, soweit
-dies dazu dient, den darin dokumentierten Stand der Technik in
-Verfahren vor dem Deutschen Patent- und Markenamt berücksichtigen zu
-können.
+(1) Das Deutsche Patent- und Markenamt darf Werke oder andere nach
+dem Urheberrechtsgesetz geschützte Schutzgegenstände für seine
+Beschäftigten vervielfältigen und öffentlich zugänglich machen,
+soweit dies dazu dient, den darin dokumentierten Stand der Technik
+in Verfahren vor dem Deutschen Patent- und Markenamt berücksichtigen
+zu können.
 
 (2) § 60g Absatz 1 und § 95b des Urheberrechtsgesetzes sind
 entsprechend anzuwenden.
@@ -1040,37 +954,51 @@ Absatz 3 bis 5 des Urheberrechtsgesetzes ist entsprechend anzuwenden.
 
 ### § 30
 
-(1) Das Deutsche Patent- und Markenamt führt ein Register, das die
-Bezeichnung der Patentanmeldungen, in deren Akten jedermann Einsicht
-gewährt wird, und der erteilten Patente und ergänzender
-Schutzzertifikate (§ 16a) sowie Namen und Wohnort der Anmelder oder
-Patentinhaber und ihrer etwa nach § 25 bestellten Vertreter oder
-Zustellungsbevollmächtigten angibt, wobei die Eintragung eines
-Vertreters oder Zustellungsbevollmächtigten genügt. Auch sind darin
-Anfang, Ablauf, Erlöschen, Anordnung der Beschränkung, Widerruf,
-Erklärung der Nichtigkeit der Patente und ergänzender
+(1) Das Deutsche Patent- und Markenamt führt ein Register, das
+die Bezeichnung der Patentanmeldungen, in deren Akten jedermann
+Einsicht gewährt wird, und der erteilten Patente und ergänzender
+Schutzzertifikate (§ 16a) sowie Namen und Wohnort der Anmelder
+oder Patentinhaber und ihrer etwa nach § 25 bestellten Vertreter
+oder Zustellungsbevollmächtigten angibt, wobei die Eintragung
+eines Vertreters oder Zustellungsbevollmächtigten genügt. Auch
+sind darin Anfang, Ablauf, Erlöschen, Anordnung der Beschränkung,
+Widerruf, Erklärung der Nichtigkeit der Patente und ergänzender
 Schutzzertifikate (§ 16a) sowie die Erhebung eines Einspruchs und
-einer Nichtigkeitsklage zu vermerken.
+einer Nichtigkeitsklage zu vermerken. In dem Register sind ferner
+der vom Europäischen Patentamt mitgeteilte Tag der Eintragung
+der einheitlichen Wirkung des europäischen Patents sowie der
+mitgeteilte Tag des Eintritts der Wirkung des europäischen Patents
+mit einheitlicher Wirkung nach Maßgabe des Artikels 4 Absatz 1
+der Verordnung (EU) Nr. 1257/2012 des Europäischen Parlaments und
+des Rates vom 17. Dezember 2012 über die Umsetzung der Verstärkten
+Zusammenarbeit im Bereich der Schaffung eines einheitlichen
+Patentschutzes (ABl. L 361 vom 31.12.2012, S. 1; L 307 vom 28.10.2014,
+S. 83) zu vermerken.
 
 (2) Der Präsident des Deutschen Patent- und Markenamts kann bestimmen,
 daß weitere Angaben in das Register eingetragen werden.
 
-(3) Das Deutsche Patent- und Markenamt vermerkt im Register eine
-Änderung in der Person, im Namen oder im Wohnort des Anmelders oder
-Patentinhabers und seines Vertreters sowie
+(3) Das Deutsche Patent- und Markenamt vermerkt im Register
+eine Änderung in der Person, im Namen oder im Wohnort des
+Anmelders oder Patentinhabers und seines Vertreters sowie
 Zustellungsbevollmächtigten, wenn sie ihm nachgewiesen wird. Solange
 die Änderung nicht eingetragen ist, bleibt der frühere Anmelder,
-Patentinhaber, Vertreter oder Zustellungsbevollmächtigte nach Maßgabe
-dieses Gesetzes berechtigt und verpflichtet.
+Patentinhaber, Vertreter oder Zustellungsbevollmächtigte nach
+Maßgabe dieses Gesetzes berechtigt und verpflichtet. Übernimmt der
+neu im Register als Anmelder oder als Patentinhaber Eingetragene
+ein Einspruchsverfahren vor dem Deutschen Patent- und Markenamt, ein
+Einspruchs- oder Beschwerdeverfahren vor dem Bundespatentgericht oder
+ein Rechtsbeschwerdeverfahren vor dem Bundesgerichtshof, so ist dafür
+die Zustimmung der übrigen Verfahrensbeteiligten nicht erforderlich.
 
 (4) Das Deutsche Patent- und Markenamt trägt auf Antrag des
 Patentinhabers oder des Lizenznehmers die Erteilung einer
 ausschließlichen Lizenz in das Register ein, wenn ihm die Zustimmung
 des anderen Teils nachgewiesen wird. Der Antrag nach Satz 1 ist
-unzulässig, solange eine Lizenzbereitschaft (§ 23 Abs. 1) erklärt ist.
-Die Eintragung wird auf Antrag des Patentinhabers oder des
-Lizenznehmers gelöscht. Der Löschungsantrag des Patentinhabers bedarf
-des Nachweises der Zustimmung des bei der Eintragung benannten
+unzulässig, solange eine Lizenzbereitschaft (§ 23 Abs. 1) erklärt
+ist. Die Eintragung wird auf Antrag des Patentinhabers oder des
+Lizenznehmers gelöscht. Der Löschungsantrag des Patentinhabers
+bedarf des Nachweises der Zustimmung des bei der Eintragung benannten
 Lizenznehmers oder seines Rechtsnachfolgers.
 
 (5) (weggefallen)
@@ -1079,10 +1007,10 @@ Lizenznehmers oder seines Rechtsnachfolgers.
 ### § 31
 
 (1) Das Deutsche Patent- und Markenamt gewährt jedermann auf Antrag
-Einsicht in die Akten sowie in die zu den Akten gehörenden Modelle und
-Probestücke, wenn und soweit ein berechtigtes Interesse glaubhaft
-gemacht wird. Jedoch steht die Einsicht in das Register und die Akten
-von Patenten einschließlich der Akten von Beschränkungs- oder
+Einsicht in die Akten sowie in die zu den Akten gehörenden Modelle
+und Probestücke, wenn und soweit ein berechtigtes Interesse glaubhaft
+gemacht wird. Jedoch steht die Einsicht in das Register und die
+Akten von Patenten einschließlich der Akten von Beschränkungs- oder
 Widerrufsverfahren (§ 64) jedermann frei.
 
 (2) In die Akten von Patentanmeldungen steht die Einsicht jedermann
@@ -1092,12 +1020,9 @@ frei,
     mit der Akteneinsicht einverstanden erklärt und den Erfinder benannt
     hat oder
 
-
 2.  wenn seit dem Anmeldetag (§ 35) oder, sofern für die Anmeldung ein
     früherer Zeitpunkt als maßgebend in Anspruch genommen wird, seit
     diesem Zeitpunkt achtzehn Monate verstrichen sind
-
-
 
 und ein Hinweis nach § 32 Abs. 5 veröffentlicht worden ist. Bei
 Anmeldungen, die nicht oder teilweise nicht in deutscher Sprache
@@ -1116,23 +1041,18 @@ soweit
 
 1.  ihr eine Rechtsvorschrift entgegensteht,
 
-
 2.  das schutzwürdige Interesse der betroffenen Person im Sinne des
     Artikels 4 Nummer 1 der Verordnung (EU) 679/2016 des Europäischen
     Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher
     Personen bei der Verarbeitung personenbezogener Daten, zum freien
     Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-
-    Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016,
-    S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung
+    Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016,
+    S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung
     offensichtlich überwiegt oder
-
 
 3.  in den Akten Angaben oder Zeichnungen enthalten sind, die
     offensichtlich gegen die öffentliche Ordnung oder die guten Sitten
     verstoßen.
-
-
-
 
 (4) In die Benennung des Erfinders (§ 37 Abs. 1) wird, wenn der vom
 Anmelder angegebene Erfinder es beantragt, Einsicht nur nach Absatz 1
@@ -1145,9 +1065,9 @@ Einsicht gewähren, wenn und soweit ein besonderes schutzwürdiges
 Interesse des Antragstellers die Gewährung der Einsicht geboten
 erscheinen läßt und hierdurch die Gefahr eines schweren Nachteils für
 die äußere Sicherheit der Bundesrepublik Deutschland nicht zu erwarten
-ist. Wird in einem Verfahren eine Patentanmeldung oder ein Patent nach
-§ 3 Abs. 2 Satz 3 als Stand der Technik entgegengehalten, so ist auf
-den diese Entgegenhaltung betreffenden Teil der Akten Satz 1
+ist. Wird in einem Verfahren eine Patentanmeldung oder ein Patent
+nach § 3 Abs. 2 Satz 3 als Stand der Technik entgegengehalten, so
+ist auf den diese Entgegenhaltung betreffenden Teil der Akten Satz 1
 entsprechend anzuwenden.
 
 
@@ -1160,15 +1080,11 @@ und Markenamtes enthalten sind, bestehen nicht
 1.  das Recht auf Auskunft gemäß Artikel 15 Absatz 1 Buchstabe c der
     Verordnung (EU) 2016/679,
 
-
 2.  die Mitteilungspflicht gemäß Artikel 19 Satz 2 der Verordnung (EU)
     2016/679 und
 
-
 3.  das Recht auf Widerspruch gemäß Artikel 21 Absatz 1 der Verordnung
     (EU) 2016/679.
-
-
 
 Das Recht auf Erhalt einer Kopie nach Artikel 15 Absatz 3 der
 Verordnung (EU) 2016/679 wird dadurch erfüllt, dass die betroffene
@@ -1183,13 +1099,9 @@ Markenamtes nehmen kann.
 
 1.  die Offenlegungsschriften,
 
-
 2.  die Patentschriften und
 
-
 3.  das Patentblatt.
-
-
 
 Die Veröffentlichung kann in elektronischer Form erfolgen. Zur
 weiteren Verarbeitung oder Nutzung zu Zwecken der Patentinformation
@@ -1198,28 +1110,28 @@ genannten Dokumenten an Dritte in elektronischer Form übermitteln. Die
 Übermittlung erfolgt nicht, soweit die Einsicht ausgeschlossen ist (§
 31 Absatz 3b).
 
-(2) Die Offenlegungsschrift enthält die nach § 31 Abs. 2 jedermann zur
-Einsicht freistehenden Unterlagen der Anmeldung und die
+(2) Die Offenlegungsschrift enthält die nach § 31 Abs. 2 jedermann
+zur Einsicht freistehenden Unterlagen der Anmeldung und die
 Zusammenfassung (§ 36) in der ursprünglich eingereichten oder vom
 Deutschen Patent- und Markenamt zur Veröffentlichung zugelassenen
 geänderten Form. Die Offenlegungsschrift wird nicht veröffentlicht,
-wenn die Patentschrift bereits veröffentlicht worden ist. Das Deutsche
-Patent- und Markenamt kann von einer Veröffentlichung der
-Offenlegungsschrift absehen, soweit die Anmeldung Angaben oder
+wenn die Patentschrift bereits veröffentlicht worden ist. Das
+Deutsche Patent- und Markenamt kann von einer Veröffentlichung
+der Offenlegungsschrift absehen, soweit die Anmeldung Angaben oder
 Zeichnungen enthält, die offensichtlich gegen die öffentliche Ordnung
 oder die guten Sitten verstoßen.
 
 (3) Die Patentschrift enthält die Patentansprüche, die Beschreibung
 und die Zeichnungen, auf Grund deren das Patent erteilt worden ist.
-Außerdem ist in der Patentschrift der Stand der Technik anzugeben, den
-das Deutsche Patent- und Markenamt für die Beurteilung der
+Außerdem ist in der Patentschrift der Stand der Technik anzugeben,
+den das Deutsche Patent- und Markenamt für die Beurteilung der
 Patentfähigkeit der angemeldeten Erfindung in Betracht gezogen hat (§
 43 Absatz 1). Ist die Zusammenfassung (§ 36) noch nicht veröffentlicht
 worden, so ist sie in die Patentschrift aufzunehmen.
 
 (4) Die Offenlegungs- oder Patentschrift wird unter den
-Voraussetzungen des § 31 Abs. 2 auch dann veröffentlicht, wenn die
-Anmeldung zurückgenommen oder zurückgewiesen wird oder als
+Voraussetzungen des § 31 Abs. 2 auch dann veröffentlicht, wenn
+die Anmeldung zurückgenommen oder zurückgewiesen wird oder als
 zurückgenommen gilt oder das Patent erlischt, nachdem die technischen
 Vorbereitungen für die Veröffentlichung abgeschlossen waren.
 
@@ -1243,15 +1155,14 @@ ausgeschlossen.
 offensichtlich nicht patentfähig ist.
 
 (3) Auf die Verjährung finden die Vorschriften des Abschnitts 5 des
-Buches 1 des Bürgerlichen Gesetzbuchs entsprechende Anwendung mit der
-Maßgabe, dass die Verjährung frühestens ein Jahr nach Erteilung des
-Patents eintritt. Hat der Verpflichtete durch die Verletzung auf
+Buches 1 des Bürgerlichen Gesetzbuchs entsprechende Anwendung mit
+der Maßgabe, dass die Verjährung frühestens ein Jahr nach Erteilung
+des Patents eintritt. Hat der Verpflichtete durch die Verletzung auf
 Kosten des Berechtigten etwas erlangt, findet § 852 des Bürgerlichen
 Gesetzbuchs entsprechende Anwendung.
 
 
 ## Dritter Abschnitt - Verfahren vor dem Deutschen Patent- und Markenamt
-
 
 
 ### § 34
@@ -1260,34 +1171,27 @@ Gesetzbuchs entsprechende Anwendung.
 Patent- und Markenamt anzumelden.
 
 (2) Die Anmeldung kann auch über ein Patentinformationszentrum
-eingereicht werden, wenn diese Stelle durch Bekanntmachung des
-Bundesministeriums der Justiz und für Verbraucherschutz im
-Bundesgesetzblatt dazu bestimmt ist, Patentanmeldungen
-entgegenzunehmen. Eine Anmeldung, die ein Staatsgeheimnis (§ 93
-Strafgesetzbuch) enthalten kann, darf bei einem
+eingereicht werden, wenn diese Stelle durch Bekanntmachung
+des Bundesministeriums der Justiz und für Verbraucherschutz
+im Bundesgesetzblatt dazu bestimmt ist, Patentanmeldungen
+entgegenzunehmen. Eine Anmeldung, die ein Staatsgeheimnis
+(§ 93 Strafgesetzbuch) enthalten kann, darf bei einem
 Patentinformationszentrum nicht eingereicht werden.
 
 (3) Die Anmeldung muß enthalten:
 
 1.  den Namen des Anmelders;
 
-
 2.  einen Antrag auf Erteilung des Patents, in dem die Erfindung kurz und
     genau bezeichnet ist;
-
 
 3.  einen oder mehrere Patentansprüche, in denen angegeben ist, was als
     patentfähig unter Schutz gestellt werden soll;
 
-
 4.  eine Beschreibung der Erfindung;
-
 
 5.  die Zeichnungen, auf die sich die Patentansprüche oder die
     Beschreibung beziehen.
-
-
-
 
 (4) Die Erfindung ist in der Anmeldung so deutlich und vollständig zu
 offenbaren, daß ein Fachmann sie ausführen kann.
@@ -1297,8 +1201,8 @@ Gruppe von Erfindungen, die untereinander in der Weise verbunden sind,
 daß sie eine einzige allgemeine erfinderische Idee verwirklichen.
 
 (6) Das Bundesministerium der Justiz und für Verbraucherschutz wird
-ermächtigt, durch Rechtsverordnung Bestimmungen über die Form und die
-sonstigen Erfordernisse der Anmeldung zu erlassen. Es kann diese
+ermächtigt, durch Rechtsverordnung Bestimmungen über die Form und
+die sonstigen Erfordernisse der Anmeldung zu erlassen. Es kann diese
 Ermächtigung durch Rechtsverordnung auf das Deutsche Patent- und
 Markenamt übertragen.
 
@@ -1328,8 +1232,8 @@ Herkunftsort dieses Materials umfassen, soweit dieser bekannt ist. Die
 Prüfung der Anmeldungen und die Gültigkeit der Rechte auf Grund der
 erteilten Patente bleiben hiervon unberührt.
 
-(2) Enthält die Anmeldung Angaben zum geographischen Herkunftsort nach
-Absatz 1 Satz 1, teilt das Deutsche Patent- und Markenamt diese
+(2) Enthält die Anmeldung Angaben zum geographischen Herkunftsort
+nach Absatz 1 Satz 1, teilt das Deutsche Patent- und Markenamt diese
 Anmeldung dem Bundesamt für Naturschutz als zuständige Behörde im
 Sinne von § 6 Absatz 1 des Gesetzes zur Umsetzung der Verpflichtungen
 nach dem Nagoya-Protokoll und zur Durchführung der Verordnung (EU) Nr.
@@ -1346,18 +1250,15 @@ sind, nach § 34 Abs. 3 Nr. 4
 
 1.  beim Deutschen Patent- und Markenamt
 
-
 2.  oder, wenn diese Stelle durch Bekanntmachung des Bundesministeriums
     der Justiz und für Verbraucherschutz im Bundesgesetzblatt dazu
     bestimmt ist, bei einem Patentinformationszentrum
 
-
-
 eingegangen sind.
 
-(2) Wenn die Anmeldung eine Bezugnahme auf Zeichnungen enthält und der
-Anmeldung keine Zeichnungen beigefügt sind oder wenn mindestens ein
-Teil einer Zeichnung fehlt, so fordert das Deutsche Patent- und
+(2) Wenn die Anmeldung eine Bezugnahme auf Zeichnungen enthält und
+der Anmeldung keine Zeichnungen beigefügt sind oder wenn mindestens
+ein Teil einer Zeichnung fehlt, so fordert das Deutsche Patent- und
 Markenamt den Anmelder auf, innerhalb einer Frist von einem Monat nach
 Zustellung der Aufforderung entweder die Zeichnungen nachzureichen
 oder zu erklären, dass die Bezugnahme als nicht erfolgt gelten soll.
@@ -1372,9 +1273,9 @@ Zeichnungen als nicht erfolgt.
 
 ### § 35a
 
-(1) Ist die Anmeldung nicht oder teilweise nicht in deutscher Sprache
-abgefasst, so hat der Anmelder eine deutsche Übersetzung innerhalb
-einer Frist von drei Monaten nach Einreichung der Anmeldung
+(1) Ist die Anmeldung nicht oder teilweise nicht in deutscher
+Sprache abgefasst, so hat der Anmelder eine deutsche Übersetzung
+innerhalb einer Frist von drei Monaten nach Einreichung der Anmeldung
 nachzureichen. Wird die deutsche Übersetzung nicht innerhalb der Frist
 eingereicht, so gilt die Anmeldung als zurückgenommen.
 
@@ -1401,8 +1302,8 @@ Markenamt als erteilt.
 ### § 36
 
 (1) Der Anmeldung ist eine Zusammenfassung beizufügen, die noch bis
-zum Ablauf von fünfzehn Monaten nach dem Anmeldetag oder, sofern für
-die Anmeldung ein früherer Zeitpunkt als maßgebend in Anspruch
+zum Ablauf von fünfzehn Monaten nach dem Anmeldetag oder, sofern
+für die Anmeldung ein früherer Zeitpunkt als maßgebend in Anspruch
 genommen wird, bis zum Ablauf von fünfzehn Monaten nach diesem
 Zeitpunkt nachgereicht werden kann.
 
@@ -1411,19 +1312,19 @@ Unterrichtung. Sie muß enthalten:
 
 1.  die Bezeichnung der Erfindung;
 
-
 2.  eine Kurzfassung der in der Anmeldung enthaltenen Offenbarung, die das
     technische Gebiet der Erfindung angeben und so gefaßt sein soll, daß
     sie ein klares Verständnis des technischen Problems, seiner Lösung und
     der hauptsächlichen Verwendungsmöglichkeit der Erfindung erlaubt;
 
-
 3.  eine in der Kurzfassung erwähnte Zeichnung; sind mehrere Zeichnungen
     erwähnt, so ist die Zeichnung beizufügen, die die Erfindung nach
     Auffassung des Anmelders am deutlichsten kennzeichnet.
 
-
-
+Sind in der Kurzfassung mehrere Zeichnungen erwähnt und ist nicht
+eindeutig, welche Zeichnung die Erfindung nach Auffassung des
+Anmelders am deutlichsten kennzeichnet, so bestimmt die Prüfungsstelle
+diejenige Zeichnung, die die Erfindung am deutlichsten kennzeichnet.
 
 
 ### § 37
@@ -1448,10 +1349,10 @@ verlängert werden.
 
 ### § 38
 
-Bis zum Beschluß über die Erteilung des Patents sind Änderungen der in
-der Anmeldung enthaltenen Angaben, die den Gegenstand der Anmeldung
-nicht erweitern, zulässig, bis zum Eingang des Prüfungsantrags (§ 44)
-jedoch nur, soweit es sich um die Berichtigung offensichtlicher
+Bis zum Beschluß über die Erteilung des Patents sind Änderungen der
+in der Anmeldung enthaltenen Angaben, die den Gegenstand der Anmeldung
+nicht erweitern, zulässig, bis zum Eingang des Prüfungsantrags (§
+44) jedoch nur, soweit es sich um die Berichtigung offensichtlicher
 Unrichtigkeiten, um die Beseitigung der von der Prüfungsstelle
 bezeichneten Mängel oder um Änderungen des Patentanspruchs handelt.
 Aus Änderungen, die den Gegenstand der Anmeldung erweitern, können
@@ -1460,8 +1361,8 @@ Rechte nicht hergeleitet werden.
 
 ### § 39
 
-(1) Der Anmelder kann die Anmeldung jederzeit teilen. Die Teilung ist
-schriftlich zu erklären. Wird die Teilung nach Stellung des
+(1) Der Anmelder kann die Anmeldung jederzeit teilen. Die Teilung
+ist schriftlich zu erklären. Wird die Teilung nach Stellung des
 Prüfungsantrags (§ 44) erklärt, so gilt der abgetrennte Teil als
 Anmeldung, für die ein Prüfungsantrag gestellt worden ist. Für jede
 Teilanmeldung bleiben der Zeitpunkt der ursprünglichen Anmeldung und
@@ -1469,10 +1370,10 @@ eine dafür in Anspruch genommene Priorität erhalten.
 
 (2) Für die abgetrennte Anmeldung sind für die Zeit bis zur Teilung
 die gleichen Gebühren zu entrichten, die für die ursprüngliche
-Anmeldung zu entrichten waren. Dies gilt nicht für die Gebühr nach dem
-Patentkostengesetz für die Recherche nach § 43, wenn die Teilung vor
-der Stellung des Prüfungsantrags (§ 44) erklärt worden ist, es sei
-denn, daß auch für die abgetrennte Anmeldung ein Antrag nach § 43
+Anmeldung zu entrichten waren. Dies gilt nicht für die Gebühr nach
+dem Patentkostengesetz für die Recherche nach § 43, wenn die Teilung
+vor der Stellung des Prüfungsantrags (§ 44) erklärt worden ist, es
+sei denn, daß auch für die abgetrennte Anmeldung ein Antrag nach § 43
 gestellt wird.
 
 (3) Werden für die abgetrennte Anmeldung die nach den §§ 34, 35, 35a
@@ -1484,19 +1385,19 @@ entrichtet, so gilt die Teilungserklärung als nicht abgegeben.
 
 ### § 40
 
-(1) Dem Anmelder steht innerhalb einer Frist von zwölf Monaten nach
-dem Anmeldetag einer beim Deutschen Patent- und Markenamt
+(1) Dem Anmelder steht innerhalb einer Frist von zwölf Monaten
+nach dem Anmeldetag einer beim Deutschen Patent- und Markenamt
 eingereichten früheren Patent- oder Gebrauchsmusteranmeldung für die
 Anmeldung derselben Erfindung zum Patent ein Prioritätsrecht zu, es
 sei denn, daß für die frühere Anmeldung schon eine inländische oder
 ausländische Priorität in Anspruch genommen worden ist.
 
-(2) Für die Anmeldung kann die Priorität mehrerer beim Deutschen
-Patent- und Markenamt eingereichter Patent- oder
+(2) Für die Anmeldung kann die Priorität mehrerer beim
+Deutschen Patent- und Markenamt eingereichter Patent- oder
 Gebrauchsmusteranmeldungen in Anspruch genommen werden.
 
-(3) Die Priorität kann nur für solche Merkmale der Anmeldung in
-Anspruch genommen werden, die in der Gesamtheit der
+(3) Die Priorität kann nur für solche Merkmale der Anmeldung
+in Anspruch genommen werden, die in der Gesamtheit der
 Anmeldungsunterlagen der früheren Anmeldung deutlich offenbart sind.
 
 (4) Die Priorität kann nur innerhalb von zwei Monaten nach dem
@@ -1509,8 +1410,8 @@ Markenamt anhängig, so gilt sie mit der Abgabe der Prioritätserklärung
 nach Absatz 4 als zurückgenommen. Dies gilt nicht, wenn die frühere
 Anmeldung ein Gebrauchsmuster betrifft.
 
-(6) Wird die Einsicht in die Akte einer späteren Anmeldung beantragt
-(§ 31), die die Priorität einer früheren Patent- und
+(6) Wird die Einsicht in die Akte einer späteren Anmeldung
+beantragt (§ 31), die die Priorität einer früheren Patent- und
 Gebrauchsmusteranmeldung in Anspruch nimmt, so nimmt das Deutsche
 Patent- und Markenamt eine Abschrift der früheren Patent- oder
 Gebrauchsmusteranmeldung zu den Akten der späteren Anmeldung.
@@ -1519,8 +1420,8 @@ Gebrauchsmusteranmeldung zu den Akten der späteren Anmeldung.
 ### § 41
 
 (1) Wer nach einem Staatsvertrag die Priorität einer früheren
-ausländischen Anmeldung derselben Erfindung in Anspruch nimmt, hat vor
-Ablauf des 16. Monats nach dem Prioritätstag Zeit, Land und
+ausländischen Anmeldung derselben Erfindung in Anspruch nimmt, hat
+vor Ablauf des 16. Monats nach dem Prioritätstag Zeit, Land und
 Aktenzeichen der früheren Anmeldung anzugeben und eine Abschrift der
 früheren Anmeldung einzureichen, soweit dies nicht bereits geschehen
 ist. Innerhalb der Frist können die Angaben geändert werden. Werden
@@ -1553,14 +1454,10 @@ Beanstandung dieser Mängel absehen.
 
 1.  seinem Wesen nach keine Erfindung ist,
 
-
 2.  nicht gewerblich anwendbar ist oder
-
 
 3.  nach § 1a Absatz 1, § 2 oder § 2a Absatz 1 von der Patenterteilung
     ausgeschlossen ist,
-
-
 
 so benachrichtigt die Prüfungsstelle den Anmelder hiervon unter Angabe
 der Gründe und fordert ihn auf, sich innerhalb einer bestimmten Frist
@@ -1577,12 +1474,12 @@ dazu innerhalb einer bestimmten Frist zu äußern.
 
 ### § 43
 
-(1) Das Deutsche Patent- und Markenamt ermittelt auf Antrag den Stand
-der Technik, der für die Beurteilung der Patentfähigkeit der
+(1) Das Deutsche Patent- und Markenamt ermittelt auf Antrag den
+Stand der Technik, der für die Beurteilung der Patentfähigkeit der
 angemeldeten Erfindung in Betracht zu ziehen ist, und beurteilt
-vorläufig die Schutzfähigkeit der angemeldeten Erfindung nach den §§ 1
-bis 5 und ob die Anmeldung den Anforderungen des § 34 Absatz 3 bis 5
-genügt (Recherche). Soweit die Ermittlung des Standes der Technik
+vorläufig die Schutzfähigkeit der angemeldeten Erfindung nach den §§
+1 bis 5 und ob die Anmeldung den Anforderungen des § 34 Absatz 3 bis
+5 genügt (Recherche). Soweit die Ermittlung des Standes der Technik
 einer zwischenstaatlichen Einrichtung vollständig oder für bestimmte
 Sachgebiete der Technik ganz oder teilweise übertragen worden ist
 (Absatz 8 Nummer 1), kann beantragt werden, die Ermittlungen in der
@@ -1612,8 +1509,8 @@ anzuwenden.
 Recherche fest, dass die Anmeldung die Anforderung des § 34 Absatz 5
 nicht erfüllt, so führt es die Recherche für den Teil der Anmeldung
 durch, der sich auf die in den Patentansprüchen als erste beschriebene
-Erfindung oder Gruppe von Erfindungen bezieht, die untereinander in
-der Weise verbunden sind, dass sie eine einzige allgemeine
+Erfindung oder Gruppe von Erfindungen bezieht, die untereinander
+in der Weise verbunden sind, dass sie eine einzige allgemeine
 erfinderische Idee verwirklichen.
 
 (7) Das Deutsche Patent- und Markenamt teilt dem Anmelder das Ergebnis
@@ -1625,35 +1522,30 @@ Technik von einer zwischenstaatlichen Einrichtung ermittelt worden und
 hat der Anmelder einen Antrag im Sinne von Absatz 1 Satz 2 gestellt,
 so wird dies in der Mitteilung angegeben.
 
-(8) Das Bundesministerium der Justiz und für Verbraucherschutz wird
-ermächtigt, zur beschleunigten Erledigung der
+(8) Das Bundesministerium der Justiz und für Verbraucherschutz
+wird ermächtigt, zur beschleunigten Erledigung der
 Patenterteilungsverfahren durch Rechtsverordnung zu bestimmen, dass
 
-1.  die Ermittlung des in Absatz 1 bezeichneten Standes der Technik einer
-    anderen Stelle des Deutschen Patent- und Markenamts als der
-    Prüfungsstelle (§ 27 Absatz 1), einer anderen staatlichen oder einer
-    zwischenstaatlichen Einrichtung vollständig oder für bestimmte
-    Sachgebiete der Technik oder für bestimmte Sprachen übertragen wird,
-    soweit diese Einrichtung für die Ermittlung des in Betracht zu
+1.  die Ermittlung des in Absatz 1 bezeichneten Standes der Technik
+    einer anderen Stelle des Deutschen Patent- und Markenamts als der
+    Prüfungsstelle (§ 27 Absatz 1), einer anderen staatlichen oder
+    einer zwischenstaatlichen Einrichtung vollständig oder für bestimmte
+    Sachgebiete der Technik oder für bestimmte Sprachen übertragen
+    wird, soweit diese Einrichtung für die Ermittlung des in Betracht zu
     ziehenden Standes der Technik geeignet erscheint;
-
 
 2.  das Deutsche Patent- und Markenamt ausländischen oder
     zwischenstaatlichen Behörden Auskünfte aus Akten von Patentanmeldungen
     zur gegenseitigen Unterrichtung über das Ergebnis von
     Prüfungsverfahren und von Ermittlungen zum Stand der Technik erteilt,
-    soweit es sich um Anmeldungen von Erfindungen handelt, für die auch
-    bei diesen ausländischen oder zwischenstaatlichen Behörden die
+    soweit es sich um Anmeldungen von Erfindungen handelt, für die
+    auch bei diesen ausländischen oder zwischenstaatlichen Behörden die
     Erteilung eines Patents beantragt worden ist;
-
 
 3.  die Prüfung der Patentanmeldungen nach § 42 sowie die Kontrolle der
     Gebühren und Fristen ganz oder teilweise anderen Stellen des Deutschen
     Patent- und Markenamts als den Prüfungsstellen oder Patentabteilungen
     (§ 27 Absatz 1) übertragen werden.
-
-
-
 
 
 ### § 44
@@ -1662,12 +1554,12 @@ Patenterteilungsverfahren durch Rechtsverordnung zu bestimmen, dass
 Anmeldung den Anforderungen der §§ 34, 37 und 38 genügt und ob der
 Gegenstand der Anmeldung nach den §§ 1 bis 5 patentfähig ist.
 
-(2) Der Antrag kann von dem Anmelder und jedem Dritten, der jedoch
-hierdurch nicht an dem Prüfungsverfahren beteiligt wird, bis zum
-Ablauf von sieben Jahren nach Einreichung der Anmeldung gestellt
-werden. Die Zahlungsfrist für die Prüfungsgebühr nach dem
-Patentkostengesetz beträgt drei Monate ab Fälligkeit (§ 3 Absatz 1 des
-Patentkostengesetzes). Diese Frist endet spätestens mit Ablauf von
+(2) Der Antrag kann von dem Anmelder und jedem Dritten, der
+jedoch hierdurch nicht an dem Prüfungsverfahren beteiligt wird,
+bis zum Ablauf von sieben Jahren nach Einreichung der Anmeldung
+gestellt werden. Die Zahlungsfrist für die Prüfungsgebühr nach dem
+Patentkostengesetz beträgt drei Monate ab Fälligkeit (§ 3 Absatz 1
+des Patentkostengesetzes). Diese Frist endet spätestens mit Ablauf von
 sieben Jahren nach Einreichung der Anmeldung.
 
 (3) Ist bereits ein Antrag nach § 43 gestellt worden, so beginnt das
@@ -1677,9 +1569,9 @@ Antrags dem Anmelder mitgeteilt. Im Übrigen ist § 43 Absatz 2 Satz 2
 und 3, Absatz 3 und 5 entsprechend anzuwenden.
 
 (4) Erweist sich ein von einem Dritten gestellter Antrag nach der
-Mitteilung an den Anmelder (Absatz 3 Satz 2) als unwirksam, so teilt
-das Deutsche Patent- und Markenamt dies außer dem Dritten auch dem
-Anmelder mit. Im Fall der Unwirksamkeit des von einem Dritten
+Mitteilung an den Anmelder (Absatz 3 Satz 2) als unwirksam, so
+teilt das Deutsche Patent- und Markenamt dies außer dem Dritten auch
+dem Anmelder mit. Im Fall der Unwirksamkeit des von einem Dritten
 gestellten Antrags kann der Anmelder noch bis zum Ablauf von drei
 Monaten nach der Zustellung der Mitteilung, sofern diese Frist später
 als die in Absatz 2 bezeichnete Frist abläuft, selbst einen Antrag
@@ -1696,8 +1588,8 @@ des vom Anmelder gestellten Antrags auf Prüfung befindet.
 ### § 45
 
 (1) Genügt die Anmeldung den Anforderungen der §§ 34, 37 und 38 nicht
-oder sind die Anforderungen des § 36 offensichtlich nicht erfüllt, so
-fordert die Prüfungsstelle den Anmelder auf, die Mängel innerhalb
+oder sind die Anforderungen des § 36 offensichtlich nicht erfüllt,
+so fordert die Prüfungsstelle den Anmelder auf, die Mängel innerhalb
 einer bestimmten Frist zu beseitigen. Satz 1 gilt nicht für Mängel,
 die sich auf die Zusammenfassung beziehen, wenn die Zusammenfassung
 bereits veröffentlicht worden ist.
@@ -1713,16 +1605,18 @@ innerhalb einer bestimmten Frist zu äußern.
 (1) Die Prüfungsstelle kann jederzeit die Beteiligten laden und
 anhören, Zeugen, Sachverständige und Beteiligte eidlich oder uneidlich
 vernehmen sowie andere zur Aufklärung der Sache erforderliche
-Ermittlungen anstellen. Bis zum Beschluß über die Erteilung ist der
-Anmelder auf Antrag zu hören. Der Antrag ist schriftlich einzureichen.
-Wird der Antrag nicht in der vorgeschriebenen Form eingereicht, so
-weist sie den Antrag zurück. Der Beschluß, durch den der Antrag
-zurückgewiesen wird, ist selbständig nicht anfechtbar.
+Ermittlungen anstellen. Die §§ 128a und 284 Absatz 2 und 3 der
+Zivilprozessordnung sind entsprechend anzuwenden. Bis zum Beschluß
+über die Erteilung ist der Anmelder auf Antrag zu hören. Der
+Antrag ist schriftlich einzureichen. Wird der Antrag nicht in der
+vorgeschriebenen Form eingereicht, so weist sie den Antrag zurück. Der
+Beschluß, durch den der Antrag zurückgewiesen wird, ist selbständig
+nicht anfechtbar.
 
 (2) Über die Anhörungen und Vernehmungen ist eine Niederschrift zu
 fertigen, die den wesentlichen Gang der Verhandlung wiedergeben und
-die rechtserheblichen Erklärungen der Beteiligten enthalten soll. Die
-§§ 160a, 162 und 163 der Zivilprozeßordnung sind entsprechend
+die rechtserheblichen Erklärungen der Beteiligten enthalten soll.
+Die §§ 160a, 162 und 163 der Zivilprozeßordnung sind entsprechend
 anzuwenden. Die Beteiligten erhalten eine Abschrift der Niederschrift.
 
 
@@ -1730,19 +1624,19 @@ anzuwenden. Die Beteiligten erhalten eine Abschrift der Niederschrift.
 
 (1) Die Beschlüsse der Prüfungsstelle sind zu begründen und den
 Beteiligten von Amts wegen in Abschrift zuzustellen; eine Beglaubigung
-der Abschrift ist nicht erforderlich. Ausfertigungen werden nur auf
-Antrag eines Beteiligten und nur in Papierform erteilt. Am Ende einer
-Anhörung können die Beschlüsse auch verkündet werden; die Sätze 1 und
-2 bleiben unberührt. Einer Begründung bedarf es nicht, wenn am
-Verfahren nur der Anmelder beteiligt ist und seinem Antrag
+der Abschrift ist nicht erforderlich. Ausfertigungen werden nur
+auf Antrag eines Beteiligten und nur in Papierform erteilt. Am Ende
+einer Anhörung können die Beschlüsse auch verkündet werden; die
+Sätze 1 und 2 bleiben unberührt. Einer Begründung bedarf es nicht,
+wenn am Verfahren nur der Anmelder beteiligt ist und seinem Antrag
 stattgegeben wird.
 
 (2) Mit Zustellung des Beschlusses sind die Beteiligten über die
-Beschwerde, die gegen den Beschluss gegeben ist, über die Stelle, bei
-der die Beschwerde einzulegen ist, über die Beschwerdefrist und über
-die Beschwerdegebühr zu belehren. Die Frist für die Beschwerde (§ 73
-Abs. 2) beginnt nur zu laufen, wenn die Beteiligten nach Satz 1
-belehrt worden sind. Ist die Belehrung unterblieben oder unrichtig
+Beschwerde, die gegen den Beschluss gegeben ist, über die Stelle,
+bei der die Beschwerde einzulegen ist, über die Beschwerdefrist und
+über die Beschwerdegebühr zu belehren. Die Frist für die Beschwerde
+(§ 73 Abs. 2) beginnt nur zu laufen, wenn die Beteiligten nach Satz
+1 belehrt worden sind. Ist die Belehrung unterblieben oder unrichtig
 erteilt, so ist die Einlegung der Beschwerde nur innerhalb eines
 Jahres seit Zustellung des Beschlusses zulässig, außer wenn eine
 schriftliche Belehrung dahin erfolgt ist, daß eine Beschwerde nicht
@@ -1760,8 +1654,8 @@ daß eine nach den §§ 1 bis 5 patentfähige Erfindung nicht vorliegt. §
 ### § 49
 
 (1) Genügt die Anmeldung den Anforderungen der §§ 34, 37 und 38, sind
-nach § 45 Abs. 1 gerügte Mängel der Zusammenfassung beseitigt und ist
-der Gegenstand der Anmeldung nach den §§ 1 bis 5 patentfähig, so
+nach § 45 Abs. 1 gerügte Mängel der Zusammenfassung beseitigt und
+ist der Gegenstand der Anmeldung nach den §§ 1 bis 5 patentfähig, so
 beschließt die Prüfungsstelle die Erteilung des Patents.
 
 (2) Der Erteilungsbeschluß wird auf Antrag des Anmelders bis zum
@@ -1792,16 +1686,12 @@ vorsieht, gelten die Absätze 1 und 2 entsprechend.
 (4) Die Patentabteilung entscheidet durch Beschluss über die in
 Verordnungen der Europäischen Gemeinschaften vorgesehenen Anträge,
 
-1.  die Laufzeit eines ergänzenden Schutzzertifikats zu berichtigen, wenn
-    der in der Zertifikatsanmeldung enthaltene Zeitpunkt der ersten
+1.  die Laufzeit eines ergänzenden Schutzzertifikats zu berichtigen,
+    wenn der in der Zertifikatsanmeldung enthaltene Zeitpunkt der ersten
     Genehmigung für das Inverkehrbringen unrichtig ist;
 
-
-2.  die Verlängerung der Laufzeit eines ergänzenden Schutzzertifikats zu
-    widerrufen.
-
-
-
+2.  die Verlängerung der Laufzeit eines ergänzenden Schutzzertifikats
+    zu widerrufen.
 
 (5) § 34 Abs. 6 ist anwendbar. Die §§ 46 und 47 sind auf das Verfahren
 vor der Patentabteilung anzuwenden.
@@ -1810,13 +1700,13 @@ vor der Patentabteilung anzuwenden.
 ### § 50
 
 (1) Wird ein Patent für eine Erfindung nachgesucht, die ein
-Staatsgeheimnis (§ 93 des Strafgesetzbuches) ist, so ordnet die
-Prüfungsstelle von Amts wegen an, daß jede Veröffentlichung
+Staatsgeheimnis (§ 93 des Strafgesetzbuches) ist, so ordnet
+die Prüfungsstelle von Amts wegen an, daß jede Veröffentlichung
 unterbleibt. Die zuständige oberste Bundesbehörde ist vor der
 Anordnung zu hören. Sie kann den Erlaß einer Anordnung beantragen.
 
-(2) Die Prüfungsstelle hebt von Amts wegen oder auf Antrag der
-zuständigen obersten Bundesbehörde, des Anmelders oder des
+(2) Die Prüfungsstelle hebt von Amts wegen oder auf Antrag
+der zuständigen obersten Bundesbehörde, des Anmelders oder des
 Patentinhabers eine Anordnung nach Absatz 1 auf, wenn deren
 Voraussetzungen entfallen sind. Die Prüfungsstelle prüft in jährlichen
 Abständen, ob die Voraussetzungen der Anordnung nach Absatz 1
@@ -1846,8 +1736,8 @@ Anordnung aufzuheben ist, Einsicht in die Akten zu gewähren.
 ### § 52
 
 (1) Eine Patentanmeldung, die ein Staatsgeheimnis (§ 93 des
-Strafgesetzbuches) enthält, darf außerhalb des Geltungsbereichs dieses
-Gesetzes nur eingereicht werden, wenn die zuständige oberste
+Strafgesetzbuches) enthält, darf außerhalb des Geltungsbereichs
+dieses Gesetzes nur eingereicht werden, wenn die zuständige oberste
 Bundesbehörde hierzu die schriftliche Genehmigung erteilt. Die
 Genehmigung kann unter Auflagen erteilt werden.
 
@@ -1856,11 +1746,7 @@ bestraft, wer
 
 1.  entgegen Absatz 1 Satz 1 eine Patentanmeldung einreicht oder
 
-
 2.  einer Auflage nach Absatz 1 Satz 2 zuwiderhandelt.
-
-
-
 
 
 ### § 53
@@ -1869,15 +1755,15 @@ bestraft, wer
 der Erfindung beim Deutschen Patent- und Markenamt keine Anordnung
 nach § 50 Abs. 1 zugestellt, so können der Anmelder und jeder andere,
 der von der Erfindung Kenntnis hat, sofern sie im Zweifel darüber
-sind, ob die Geheimhaltung der Erfindung erforderlich ist (§ 93 des
-Strafgesetzbuches), davon ausgehen, daß die Erfindung nicht der
+sind, ob die Geheimhaltung der Erfindung erforderlich ist (§ 93
+des Strafgesetzbuches), davon ausgehen, daß die Erfindung nicht der
 Geheimhaltung bedarf.
 
 (2) Kann die Prüfung, ob jede Veröffentlichung gemäß § 50 Abs. 1 zu
 unterbleiben hat, nicht innerhalb der in Absatz 1 genannten Frist
-abgeschlossen werden, so kann das Deutsche Patent- und Markenamt diese
-Frist durch eine Mitteilung, die dem Anmelder innerhalb der in Absatz
-1 genannten Frist zuzustellen ist, um höchstens zwei Monate
+abgeschlossen werden, so kann das Deutsche Patent- und Markenamt
+diese Frist durch eine Mitteilung, die dem Anmelder innerhalb der in
+Absatz 1 genannten Frist zuzustellen ist, um höchstens zwei Monate
 verlängern.
 
 
@@ -1895,16 +1781,16 @@ Register ist § 31 Abs. 5 Satz 1 entsprechend anzuwenden.
 Verwertung einer nach den §§ 1 bis 5 patentfähigen Erfindung für
 friedliche Zwecke mit Rücksicht auf eine Anordnung nach § 50 Abs. 1
 unterläßt, hat wegen des ihm hierdurch entstehenden Vermögensschadens
-einen Anspruch auf Entschädigung gegen den Bund, wenn und soweit ihm
-nicht zugemutet werden kann, den Schaden selbst zu tragen. Bei
+einen Anspruch auf Entschädigung gegen den Bund, wenn und soweit
+ihm nicht zugemutet werden kann, den Schaden selbst zu tragen. Bei
 Beurteilung der Zumutbarkeit sind insbesondere die wirtschaftliche
-Lage des Geschädigten, die Höhe seiner für die Erfindung oder für den
-Erwerb der Rechte an der Erfindung gemachten Aufwendungen, der bei
-Entstehung der Aufwendungen für ihn erkennbare Grad der
+Lage des Geschädigten, die Höhe seiner für die Erfindung oder für
+den Erwerb der Rechte an der Erfindung gemachten Aufwendungen,
+der bei Entstehung der Aufwendungen für ihn erkennbare Grad der
 Wahrscheinlichkeit einer Geheimhaltungsbedürftigkeit der Erfindung
 sowie der Nutzen zu berücksichtigen, der dem Geschädigten aus einer
-sonstigen Verwertung der Erfindung zufließt. Der Anspruch kann erst
-nach der Erteilung des Patents geltend gemacht werden. Die
+sonstigen Verwertung der Erfindung zufließt. Der Anspruch kann
+erst nach der Erteilung des Patents geltend gemacht werden. Die
 Entschädigung kann nur jeweils nachträglich und für Zeitabschnitte,
 die nicht kürzer als ein Jahr sind, verlangt werden.
 
@@ -1912,10 +1798,10 @@ die nicht kürzer als ein Jahr sind, verlangt werden.
 geltend zu machen. Der Rechtsweg vor den ordentlichen Gerichten steht
 offen.
 
-(3) Eine Entschädigung gemäß Absatz 1 wird nur gewährt, wenn die erste
-Anmeldung der Erfindung beim Deutschen Patent- und Markenamt
-eingereicht und die Erfindung nicht schon vor dem Erlaß einer
-Anordnung nach § 50 Abs. 1 von einem fremden Staat aus
+(3) Eine Entschädigung gemäß Absatz 1 wird nur gewährt, wenn
+die erste Anmeldung der Erfindung beim Deutschen Patent- und
+Markenamt eingereicht und die Erfindung nicht schon vor dem Erlaß
+einer Anordnung nach § 50 Abs. 1 von einem fremden Staat aus
 Verteidigungsgründen geheimgehalten worden ist.
 
 
@@ -1938,8 +1824,8 @@ Gleichzeitig wird die Patentschrift veröffentlicht. Mit der
 Veröffentlichung im Patentblatt treten die gesetzlichen Wirkungen des
 Patents ein.
 
-(2) Wird die Anmeldung nach der Veröffentlichung des Hinweises auf die
-Möglichkeit der Einsicht in die Akten (§ 32 Abs. 5) zurückgenommen
+(2) Wird die Anmeldung nach der Veröffentlichung des Hinweises auf
+die Möglichkeit der Einsicht in die Akten (§ 32 Abs. 5) zurückgenommen
 oder zurückgewiesen oder gilt sie als zurückgenommen, so gilt die
 Wirkung nach § 33 Abs. 1 als nicht eingetreten.
 
@@ -1955,8 +1841,8 @@ Patentkostengesetzes), so gilt die Anmeldung als zurückgenommen.
 kann jeder, im Falle der widerrechtlichen Entnahme nur der Verletzte,
 gegen das Patent Einspruch erheben. Der Einspruch ist schriftlich zu
 erklären und zu begründen. Er kann nur auf die Behauptung gestützt
-werden, daß einer der in § 21 genannten Widerrufsgründe vorliege. Die
-Tatsachen, die den Einspruch rechtfertigen, sind im einzelnen
+werden, daß einer der in § 21 genannten Widerrufsgründe vorliege.
+Die Tatsachen, die den Einspruch rechtfertigen, sind im einzelnen
 anzugeben. Die Angaben müssen, soweit sie nicht schon in der
 Einspruchsschrift enthalten sind, bis zum Ablauf der Einspruchsfrist
 schriftlich nachgereicht werden.
@@ -1964,10 +1850,10 @@ schriftlich nachgereicht werden.
 (2) Ist gegen ein Patent Einspruch erhoben worden, so kann jeder
 Dritte, der nachweist, daß gegen ihn Klage wegen Verletzung des
 Patents erhoben worden ist, nach Ablauf der Einspruchsfrist dem
-Einspruchsverfahren als Einsprechender beitreten, wenn er den Beitritt
-innerhalb von drei Monaten nach dem Tag erklärt, an dem die
-Verletzungsklage erhoben worden ist. Das gleiche gilt für jeden
-Dritten, der nachweist, daß er nach einer Aufforderung des
+Einspruchsverfahren als Einsprechender beitreten, wenn er den
+Beitritt innerhalb von drei Monaten nach dem Tag erklärt, an dem
+die Verletzungsklage erhoben worden ist. Das gleiche gilt für
+jeden Dritten, der nachweist, daß er nach einer Aufforderung des
 Patentinhabers, eine angebliche Patentverletzung zu unterlassen, gegen
 diesen Klage auf Feststellung erhoben hat, daß er das Patent nicht
 verletze. Der Beitritt ist schriftlich zu erklären und bis zum Ablauf
@@ -1976,11 +1862,11 @@ entsprechend anzuwenden.
 
 (3) Eine Anhörung findet im Einspruchsverfahren statt, wenn ein
 Beteiligter dies beantragt oder die Patentabteilung dies für
-sachdienlich erachtet. Mit der Ladung soll die Patentabteilung auf die
-Punkte hinweisen, die sie für die zu treffende Entscheidung als
-erörterungsbedürftig ansieht. Die Anhörung einschließlich der
-Verkündung der Entscheidung ist öffentlich. § 169 Absatz 1 Satz 2
-sowie die §§ 171b bis 175 des Gerichtsverfassungsgesetzes sind
+sachdienlich erachtet. Mit der Ladung soll die Patentabteilung auf
+die Punkte hinweisen, die sie für die zu treffende Entscheidung
+als erörterungsbedürftig ansieht. Die Anhörung einschließlich der
+Verkündung der Entscheidung ist öffentlich. § 169 Absatz 1 Satz
+2 sowie die §§ 171b bis 175 des Gerichtsverfassungsgesetzes sind
 entsprechend anzuwenden mit der Maßgabe, dass die Öffentlichkeit von
 der Anhörung auf Antrag eines Beteiligten auch dann ausgeschlossen
 werden kann, wenn sie eine Gefährdung schutzwürdiger Interessen des
@@ -2001,10 +1887,16 @@ Einspruchsverfahren entsprechend anzuwenden.
 
 ### § 61
 
-(1) Die Patentabteilung entscheidet durch Beschluß, ob und in welchem
-Umfang das Patent aufrechterhalten oder widerrufen wird. Das Verfahren
-wird von Amts wegen ohne den Einsprechenden fortgesetzt, wenn der
-Einspruch zurückgenommen wird.
+(1) Die Patentabteilung entscheidet durch Beschluss. Auf einen
+zulässigen Einspruch hin entscheidet die Patentabteilung, ob und in
+welchem Umfang das Patent aufrechterhalten oder widerrufen wird. Nimmt
+der Einsprechende den Einspruch zurück, so wird das Verfahren von
+Amts wegen ohne den Einsprechenden fortgesetzt. Abweichend von Satz
+3 ist das Verfahren beendet, wenn sich der zurückgenommene Einspruch
+ausschließlich auf den Widerrufsgrund der widerrechtlichen Entnahme
+nach § 21 Absatz 1 Nummer 3 gestützt hat. In diesem Fall oder wenn
+das Verfahren in der Hauptsache erledigt ist, wird die Beendigung des
+Verfahrens durch Beschluss festgestellt.
 
 (2) Abweichend von Absatz 1 entscheidet der Beschwerdesenat des
 Bundespatentgerichts,
@@ -2013,12 +1905,9 @@ Bundespatentgerichts,
     innerhalb von zwei Monaten nach Zustellung des Antrags widerspricht,
     oder
 
-
 2.  auf Antrag nur eines Beteiligten, wenn mindestens 15 Monate seit
     Ablauf der Einspruchsfrist, im Fall des Antrags eines Beigetretenen
     seit Erklärung des Beitritts, vergangen sind.
-
-
 
 Dies gilt nicht, wenn die Patentabteilung eine Ladung zur Anhörung
 oder die Entscheidung über den Einspruch innerhalb von drei Monaten
@@ -2045,14 +1934,14 @@ wird. Die Patentabteilung kann anordnen, dass die Einspruchsgebühr
 nach dem Patentkostengesetz ganz oder teilweise zurückgezahlt wird,
 wenn es der Billigkeit entspricht.
 
-(2) Zu den Kosten gehören außer den Auslagen des Deutschen Patent- und
-Markenamts auch die den Beteiligten erwachsenen Kosten, soweit sie zur
-zweckentsprechenden Wahrung der Ansprüche und Rechte notwendig waren.
-Der Betrag der zu erstattenden Kosten wird auf Antrag durch das
-Deutsche Patent- und Markenamt festgesetzt. Die Vorschriften der
+(2) Zu den Kosten gehören außer den Auslagen des Deutschen Patent-
+und Markenamts auch die den Beteiligten erwachsenen Kosten, soweit
+sie zur zweckentsprechenden Wahrung der Ansprüche und Rechte notwendig
+waren. Der Betrag der zu erstattenden Kosten wird auf Antrag durch
+das Deutsche Patent- und Markenamt festgesetzt. Die Vorschriften der
 Zivilprozessordnung über das Kostenfestsetzungsverfahren (§§ 103 bis
-107) und die Zwangsvollstreckung aus Kostenfestsetzungsbeschlüssen (§§
-724 bis 802) sind entsprechend anzuwenden. An die Stelle der
+107) und die Zwangsvollstreckung aus Kostenfestsetzungsbeschlüssen
+(§§ 724 bis 802) sind entsprechend anzuwenden. An die Stelle der
 Erinnerung tritt die Beschwerde gegen den Kostenfestsetzungsbeschluß;
 § 73 ist mit der Maßgabe anzuwenden, daß die Beschwerde innerhalb von
 zwei Wochen einzulegen ist. Die vollstreckbare Ausfertigung wird vom
@@ -2062,19 +1951,21 @@ Urkundsbeamten der Geschäftsstelle des Patentgerichts erteilt.
 ### § 63
 
 (1) Auf der Offenlegungsschrift (§ 32 Abs. 2), auf der Patentschrift
-(§ 32 Abs. 3) sowie in der Veröffentlichung der Erteilung des Patents
-(§ 58 Abs. 1) ist der Erfinder zu nennen, sofern er bereits benannt
-worden ist. Die Nennung ist im Register (§ 30 Abs. 1) zu vermerken.
-Sie unterbleibt, wenn der vom Anmelder angegebene Erfinder es
-beantragt. Der Antrag kann jederzeit widerrufen werden; im Falle des
-Widerrufs wird die Nennung nachträglich vorgenommen. Ein Verzicht des
-Erfinders auf Nennung ist ohne rechtliche Wirksamkeit.
+(§ 32 Abs. 3) sowie in der Veröffentlichung der Erteilung des
+Patents (§ 58 Abs. 1) ist der Erfinder mit Namen und Ortsangabe
+zu nennen, sofern er bereits benannt worden ist. Die Nennung ist
+mit Namen und Ortsangabe im Register (§ 30 Abs. 1) zu vermerken.
+Sie unterbleibt vollständig oder hinsichtlich der Ortsangabe, wenn
+der vom Anmelder angegebene Erfinder es beantragt. Der Antrag kann
+jederzeit widerrufen werden; im Falle des Widerrufs wird die Nennung
+nachträglich vorgenommen. Ein Verzicht des Erfinders auf Nennung ist
+ohne rechtliche Wirksamkeit.
 
 (2) Ist die Person des Erfinders unrichtig oder im Falle des Absatzes
 1 Satz 3 überhaupt nicht angegeben, so sind der Patentsucher oder
 Patentinhaber sowie der zu Unrecht Benannte dem Erfinder verpflichtet,
-dem Deutschen Patent- und Markenamt gegenüber die Zustimmung dazu zu
-erklären, daß die in Absatz 1 Satz 1 und 2 vorgesehene Nennung
+dem Deutschen Patent- und Markenamt gegenüber die Zustimmung dazu
+zu erklären, daß die in Absatz 1 Satz 1 und 2 vorgesehene Nennung
 berichtigt oder nachgeholt wird. Die Zustimmung ist unwiderruflich.
 Durch die Erhebung einer Klage auf Erklärung der Zustimmung wird das
 Verfahren zur Erteilung des Patents nicht aufgehalten.
@@ -2098,8 +1989,8 @@ werden.
 
 (2) Der Antrag ist schriftlich einzureichen und zu begründen.
 
-(3) Über den Antrag entscheidet die Patentabteilung. § 44 Abs. 1 und
-die §§ 45 bis 48 sind entsprechend anzuwenden. Wird das Patent
+(3) Über den Antrag entscheidet die Patentabteilung. § 44 Abs. 1
+und die §§ 45 bis 48 sind entsprechend anzuwenden. Wird das Patent
 widerrufen, so wird dies im Patentblatt veröffentlicht. Wird das
 Patent beschränkt, ist in dem Beschluss, durch den dem Antrag
 stattgegeben wird, die Patentschrift der Beschränkung anzupassen; die
@@ -2109,14 +2000,13 @@ stattgegeben wird, die Patentschrift der Beschränkung anzupassen; die
 ## Vierter Abschnitt - Patentgericht
 
 
-
 ### § 65
 
 (1) Für die Entscheidungen über Beschwerden gegen Beschlüsse der
 Prüfungsstellen oder Patentabteilungen des Deutschen Patent- und
 Markenamts sowie über Klagen auf Erklärung der Nichtigkeit von
-Patenten und in Zwangslizenzverfahren (§§ 81, 85 und 85a) wird das
-Patentgericht als selbständiges und unabhängiges Bundesgericht
+Patenten und in Zwangslizenzverfahren (§§ 81, 85 und 85a) wird
+das Patentgericht als selbständiges und unabhängiges Bundesgericht
 errichtet. Es hat seinen Sitz am Sitz des Deutschen Patent- und
 Markenamts. Es führt die Bezeichnung "Bundespatentgericht".
 
@@ -2124,8 +2014,8 @@ Markenamts. Es führt die Bezeichnung "Bundespatentgericht".
 Richtern und weiteren Richtern. Sie müssen die Befähigung zum
 Richteramt nach dem Deutschen Richtergesetz besitzen (rechtskundige
 Mitglieder) oder in einem Zweig der Technik sachverständig sein
-(technische Mitglieder). Für die technischen Mitglieder gilt § 26 Abs.
-3 entsprechend mit der Maßgabe, daß sie eine staatliche oder
+(technische Mitglieder). Für die technischen Mitglieder gilt § 26
+Abs. 3 entsprechend mit der Maßgabe, daß sie eine staatliche oder
 akademische Abschlußprüfung bestanden haben müssen.
 
 (3) Die Richter werden vom Bundespräsidenten auf Lebenszeit ernannt,
@@ -2141,12 +2031,8 @@ Richter, Beamten, Angestellten und Arbeiter aus.
 
 1.  Senate für die Entscheidung über Beschwerden (Beschwerdesenate);
 
-
 2.  Senate für die Entscheidung über Klagen auf Erklärung der Nichtigkeit
     von Patenten und in Zwangslizenzverfahren (Nichtigkeitssenate).
-
-
-
 
 (2) Die Zahl der Senate bestimmt der Bundesminister der Justiz und für
 Verbraucherschutz.
@@ -2159,41 +2045,28 @@ Verbraucherschutz.
 1.  einem rechtskundigen Mitglied als Vorsitzendem und zwei technischen
     Mitgliedern in den Fällen des § 23 Abs. 4 und des § 50 Abs. 1 und 2;
 
-
 2.  einem technischen Mitglied als Vorsitzendem, zwei weiteren technischen
     Mitgliedern sowie einem rechtskundigen Mitglied in den Fällen,
 
     a)  in denen die Anmeldung zurückgewiesen wurde,
 
-
     b)  in denen der Einspruch als unzulässig verworfen wurde,
-
 
     c)  des § 61 Absatz 1 und des § 64 Abs. 1,
 
-
     d)  des § 61 Abs. 2 sowie
 
-
     e)  der §§ 130, 131 und 133;
-
-
-
-
 
 3.  einem rechtskundigen Mitglied als Vorsitzendem, einem weiteren
     rechtskundigen Mitglied und einem technischen Mitglied in den Fällen
     des § 31 Abs. 5;
 
-
 4.  drei rechtskundigen Mitgliedern in allen übrigen Fällen.
 
-
-
-
-(2) Der Nichtigkeitssenat entscheidet in den Fällen der §§ 84 und 85
-Abs. 3 in der Besetzung mit einem rechtskundigen Mitglied als
-Vorsitzendem, einem weiteren rechtskundigen Mitglied und drei
+(2) Der Nichtigkeitssenat entscheidet in den Fällen der §§ 84
+und 85 Abs. 3 in der Besetzung mit einem rechtskundigen Mitglied
+als Vorsitzendem, einem weiteren rechtskundigen Mitglied und drei
 technischen Mitgliedern, im übrigen in der Besetzung mit drei
 Richtern, unter denen sich ein rechtskundiges Mitglied befinden muß.
 
@@ -2204,43 +2077,34 @@ Für das Patentgericht gelten die Vorschriften des Zweiten Titels des
 Gerichtsverfassungsgesetzes nach folgender Maßgabe entsprechend:
 
 1.  In den Fällen, in denen auf Grund des Wahlergebnisses ein
-    rechtskundiger Richter dem Präsidium nicht angehören würde, gilt der
-    rechtskundige Richter als gewählt, der von den rechtskundigen
+    rechtskundiger Richter dem Präsidium nicht angehören würde, gilt
+    der rechtskundige Richter als gewählt, der von den rechtskundigen
     Mitgliedern die höchste Stimmenzahl erreicht hat.
-
 
 2.  Über die Wahlanfechtung (§ 21b Abs. 6 des Gerichtsverfassungsgesetzes)
     entscheidet ein Senat des Patentgerichts in der Besetzung mit drei
     rechtskundigen Richtern.
 
-
 3.  Den ständigen Vertreter des Präsidenten ernennt der Bundesminister der
     Justiz und für Verbraucherschutz.
-
-
-
 
 
 ### § 69
 
 (1) Die Verhandlung vor den Beschwerdesenaten ist öffentlich, sofern
 ein Hinweis auf die Möglichkeit der Akteneinsicht nach § 32 Abs. 5
-oder die Patentschrift nach § 58 Abs. 1 veröffentlicht worden ist. Die
-§§ 171b bis 175 des Gerichtsverfassungsgesetzes sind entsprechend
+oder die Patentschrift nach § 58 Abs. 1 veröffentlicht worden ist.
+Die §§ 171b bis 175 des Gerichtsverfassungsgesetzes sind entsprechend
 anzuwenden mit der Maßgabe, daß
 
 1.  die Öffentlichkeit für die Verhandlung auf Antrag eines Beteiligten
     auch dann ausgeschlossen werden kann, wenn sie eine Gefährdung
     schutzwürdiger Interessen des Antragstellers besorgen läßt,
 
-
 2.  die Öffentlichkeit für die Verkündung der Beschlüsse bis zur
     Veröffentlichung eines Hinweises auf die Möglichkeit der Akteneinsicht
     nach § 32 Abs. 5 oder bis zur Veröffentlichung der Patentschrift nach
     § 58 Abs. 1 ausgeschlossen ist.
-
-
-
 
 (2) Die Verhandlung vor den Nichtigkeitssenaten einschließlich der
 Verkündung der Entscheidungen ist öffentlich. Absatz 1 Satz 2 Nr. 1
@@ -2254,9 +2118,9 @@ entsprechend.
 
 ### § 70
 
-(1) Für die Beschlußfassung in den Senaten bedarf es der Beratung und
-Abstimmung. Hierbei darf nur die gesetzlich bestimmte Anzahl der
-Mitglieder der Senate mitwirken. Bei der Beratung und Abstimmung
+(1) Für die Beschlußfassung in den Senaten bedarf es der Beratung
+und Abstimmung. Hierbei darf nur die gesetzlich bestimmte Anzahl
+der Mitglieder der Senate mitwirken. Bei der Beratung und Abstimmung
 dürfen außer den zur Entscheidung berufenen Mitgliedern der Senate nur
 die beim Patentgericht zur Ausbildung beschäftigten Personen zugegen
 sein, soweit der Vorsitzende deren Anwesenheit gestattet.
@@ -2290,9 +2154,7 @@ Verbraucherschutz.
 ## Fünfter Abschnitt - Verfahren vor dem Patentgericht
 
 
-
 ### 1. - Beschwerdeverfahren
-
 
 
 #### § 73
@@ -2304,21 +2166,21 @@ findet die Beschwerde statt.
 schriftlich beim Deutschen Patent- und Markenamt einzulegen. Der
 Beschwerde und allen Schriftsätzen sollen Abschriften für die übrigen
 Beteiligten beigefügt werden. Die Beschwerde und alle Schriftsätze,
-die Sachanträge oder die Erklärung der Zurücknahme der Beschwerde oder
-eines Antrags enthalten, sind den übrigen Beteiligten von Amts wegen
-zuzustellen; andere Schriftsätze sind ihnen formlos mitzuteilen,
+die Sachanträge oder die Erklärung der Zurücknahme der Beschwerde
+oder eines Antrags enthalten, sind den übrigen Beteiligten von Amts
+wegen zuzustellen; andere Schriftsätze sind ihnen formlos mitzuteilen,
 sofern nicht die Zustellung angeordnet wird.
 
 (3) Erachtet die Stelle, deren Beschluß angefochten wird, die
 Beschwerde für begründet, so hat sie ihr abzuhelfen. Sie kann
 anordnen, daß die Beschwerdegebühr nach dem Patentkostengesetz
-zurückgezahlt wird. Wird der Beschwerde nicht abgeholfen, so ist sie
-vor Ablauf von einem Monat ohne sachliche Stellungnahme dem
+zurückgezahlt wird. Wird der Beschwerde nicht abgeholfen, so ist
+sie vor Ablauf von einem Monat ohne sachliche Stellungnahme dem
 Patentgericht vorzulegen.
 
 (4) Steht dem Beschwerdeführer ein anderer an dem Verfahren
-Beteiligter gegenüber, so gilt die Vorschrift des Absatzes 3 Satz 1
-nicht.
+Beteiligter gegenüber, so gilt die Vorschrift des Absatzes 3 Satz
+1 nicht.
 
 
 #### § 74
@@ -2341,9 +2203,9 @@ Anordnung nach § 50 Abs. 1 erlassen worden ist.
 
 #### § 76
 
-Der Präsident des Deutschen Patent- und Markenamts kann, wenn er dies
-zur Wahrung des öffentlichen Interesses als angemessen erachtet, im
-Beschwerdeverfahren dem Patentgericht gegenüber schriftliche
+Der Präsident des Deutschen Patent- und Markenamts kann, wenn er
+dies zur Wahrung des öffentlichen Interesses als angemessen erachtet,
+im Beschwerdeverfahren dem Patentgericht gegenüber schriftliche
 Erklärungen abgeben, den Terminen beiwohnen und in ihnen Ausführungen
 machen. Schriftliche Erklärungen des Präsidenten des Patentamts sind
 den Beteiligten von dem Patentgericht mitzuteilen.
@@ -2364,14 +2226,9 @@ Eine mündliche Verhandlung findet statt, wenn
 
 1.  einer der Beteiligten sie beantragt,
 
-
 2.  vor dem Patentgericht Beweis erhoben wird (§ 88 Abs. 1) oder
 
-
 3.  das Patentgericht sie für sachdienlich erachtet.
-
-
-
 
 
 #### § 79
@@ -2388,25 +2245,21 @@ ohne in der Sache selbst zu entscheiden, wenn
 1.  das Deutsche Patent- und Markenamt noch nicht in der Sache selbst
     entschieden hat,
 
-
 2.  das Verfahren vor dem Deutschen Patent- und Markenamt an einem
     wesentlichen Mangel leidet,
-
 
 3.  neue Tatsachen oder Beweismittel bekannt werden, die für die
     Entscheidung wesentlich sind.
 
-
-
-Das Deutsche Patent- und Markenamt hat die rechtliche Beurteilung, die
-der Aufhebung zugrunde liegt, auch seiner Entscheidung zugrunde zu
-legen.
+Das Deutsche Patent- und Markenamt hat die rechtliche Beurteilung,
+die der Aufhebung zugrunde liegt, auch seiner Entscheidung zugrunde
+zu legen.
 
 
 #### § 80
 
-(1) Sind an dem Verfahren mehrere Personen beteiligt, so kann das
-Patentgericht bestimmen, daß die Kosten des Verfahrens einem
+(1) Sind an dem Verfahren mehrere Personen beteiligt, so kann
+das Patentgericht bestimmen, daß die Kosten des Verfahrens einem
 Beteiligten ganz oder teilweise zur Last fallen, wenn dies der
 Billigkeit entspricht. Es kann insbesondere auch bestimmen, daß die
 den Beteiligten erwachsenen Kosten, soweit sie zur zweckentsprechenden
@@ -2424,14 +2277,13 @@ Patentkostengesetz zurückgezahlt wird.
 die Beschwerde, die Anmeldung oder der Einspruch zurückgenommen oder
 auf das Patent verzichtet wird.
 
-(5) Im Übrigen sind die Vorschriften der Zivilprozessordnung über das
-Kostenfestsetzungsverfahren (§§ 103 bis 107) und die
+(5) Im Übrigen sind die Vorschriften der Zivilprozessordnung
+über das Kostenfestsetzungsverfahren (§§ 103 bis 107) und die
 Zwangsvollstreckung aus Kostenfestsetzungsbeschlüssen (§§ 724 bis 802)
 entsprechend anzuwenden.
 
 
 ### 2. - Nichtigkeits- und Zwangslizenzverfahren
-
 
 
 #### § 81
@@ -2440,9 +2292,9 @@ entsprechend anzuwenden.
 ergänzenden Schutzzertifikats oder wegen Erteilung oder Rücknahme der
 Zwangslizenz oder wegen der Anpassung der durch Urteil festgesetzten
 Vergütung für eine Zwangslizenz wird durch Klage eingeleitet. Die
-Klage ist gegen den im Register als Patentinhaber Eingetragenen oder
-gegen den Inhaber der Zwangslizenz zu richten. Die Klage gegen das
-ergänzende Schutzzertifikat kann mit der Klage gegen das
+Klage ist gegen den im Register als Patentinhaber Eingetragenen
+oder gegen den Inhaber der Zwangslizenz zu richten. Die Klage
+gegen das ergänzende Schutzzertifikat kann mit der Klage gegen das
 zugrundeliegende Patent verbunden werden und auch darauf gestützt
 werden, daß ein Nichtigkeitsgrund (§ 22) gegen das zugrundeliegende
 Patent vorliegt.
@@ -2457,16 +2309,16 @@ Entscheidung über diese Anträge anhängig sind.
 (3) Im Falle der widerrechtlichen Entnahme ist nur der Verletzte zur
 Erhebung der Klage berechtigt.
 
-(4) Die Klage ist beim Patentgericht schriftlich zu erheben. Der Klage
-und allen Schriftsätzen sollen Abschriften für die Gegenpartei
+(4) Die Klage ist beim Patentgericht schriftlich zu erheben. Der
+Klage und allen Schriftsätzen sollen Abschriften für die Gegenpartei
 beigefügt werden. Die Klage und alle Schriftsätze sind der Gegenpartei
 von Amts wegen zuzustellen.
 
 (5) Die Klage muß den Kläger, den Beklagten und den Streitgegenstand
 bezeichnen und soll einen bestimmten Antrag enthalten. Die zur
 Begründung dienenden Tatsachen und Beweismittel sind anzugeben.
-Entspricht die Klage diesen Anforderungen nicht in vollem Umfang, so
-hat der Vorsitzende den Kläger zu der erforderlichen Ergänzung
+Entspricht die Klage diesen Anforderungen nicht in vollem Umfang,
+so hat der Vorsitzende den Kläger zu der erforderlichen Ergänzung
 innerhalb einer bestimmten Frist aufzufordern. Das gerichtliche
 Aktenzeichen eines das Streitpatent betreffenden Patentstreits und
 dessen Streitwert sollen angegeben werden.
@@ -2492,8 +2344,8 @@ vom Kläger behauptete Tatsache für erwiesen angenommen werden.
 
 (3) Widerspricht der Beklagte rechtzeitig, so teilt das Patentgericht
 dem Kläger den Widerspruch mit. Der Beklagte kann den Widerspruch
-innerhalb von zwei Monaten nach Zustellung der Klage begründen. Der
-Vorsitzende kann auf Antrag die Frist um bis zu einem Monat
+innerhalb von zwei Monaten nach Zustellung der Klage begründen.
+Der Vorsitzende kann auf Antrag die Frist um bis zu einem Monat
 verlängern, wenn der Beklagte hierfür erhebliche Gründe darlegt. Diese
 sind glaubhaft zu machen. § 81 Absatz 5 Satz 3 gilt entsprechend,
 soweit sich die betreffenden Informationen nicht schon aus der
@@ -2506,15 +2358,24 @@ mündlichen Verhandlung abgesehen werden. Absatz 2 bleibt unberührt.
 
 #### § 83
 
-(1) In dem Verfahren wegen Erklärung der Nichtigkeit des Patents oder
-des ergänzenden Schutzzertifikats weist das Patentgericht die Parteien
-so früh wie möglich auf Gesichtspunkte hin, die für die Entscheidung
-voraussichtlich von besonderer Bedeutung sein werden oder der
-Konzentration der Verhandlung auf die für die Entscheidung
-wesentlichen Fragen dienlich sind. Eines solchen Hinweises bedarf es
-nicht, wenn die zu erörternden Gesichtspunkte nach dem Vorbringen der
-Parteien offensichtlich erscheinen. § 139 der Zivilprozessordnung ist
-ergänzend anzuwenden.
+(1) In dem Verfahren wegen Erklärung der Nichtigkeit des Patents
+oder des ergänzenden Schutzzertifikats weist das Patentgericht die
+Parteien so früh wie möglich auf Gesichtspunkte hin, die für die
+Entscheidung voraussichtlich von besonderer Bedeutung sein werden
+oder der Konzentration der Verhandlung auf die für die Entscheidung
+wesentlichen Fragen dienlich sind. Dieser Hinweis soll innerhalb
+von sechs Monaten nach Zustellung der Klage erfolgen. Ist eine
+Patentstreitsache anhängig, soll der Hinweis auch dem anderen
+Gericht von Amts wegen übermittelt werden. Das Patentgericht kann
+den Parteien zur Vorbereitung des Hinweises nach Satz 1 eine Frist
+für eine abschließende schriftliche Stellungnahme setzen. Setzt das
+Patentgericht keine Frist, darf der Hinweis nicht vor Ablauf der
+Frist nach § 82 Absatz 3 Satz 2 und 3 erfolgen. Stellungnahmen der
+Parteien, die nach Fristablauf eingehen, muss das Patentgericht für
+den Hinweis nicht berücksichtigen. Eines Hinweises nach Satz 1 bedarf
+es nicht, wenn die zu erörternden Gesichtspunkte nach dem Vorbringen
+der Parteien offensichtlich erscheinen. § 139 der Zivilprozessordnung
+ist ergänzend anzuwenden.
 
 (2) Das Patentgericht kann den Parteien eine Frist setzen, binnen
 welcher sie zu dem Hinweis nach Absatz 1 durch sachdienliche Anträge
@@ -2537,14 +2398,10 @@ und ohne weitere Ermittlungen entscheiden, wenn
     anberaumten Termins zur mündlichen Verhandlung erforderlich machen
     würde und
 
-
 2.  die betroffene Partei die Verspätung nicht genügend entschuldigt und
-
 
 3.  die betroffene Partei über die Folgen einer Fristversäumung belehrt
     worden ist.
-
-
 
 Der Entschuldigungsgrund ist glaubhaft zu machen.
 
@@ -2557,10 +2414,10 @@ werden.
 
 (2) In dem Urteil ist auch über die Kosten des Verfahrens zu
 entscheiden. Die Vorschriften der Zivilprozeßordnung über die
-Prozeßkosten sind entsprechend anzuwenden, soweit nicht die Billigkeit
-eine andere Entscheidung erfordert; die Vorschriften der
-Zivilprozeßordnung über das Kostenfestsetzungsverfahren und die
-Zwangsvollstreckung aus Kostenfestsetzungsbeschlüssen sind
+Prozeßkosten sind entsprechend anzuwenden, soweit nicht die
+Billigkeit eine andere Entscheidung erfordert; die Vorschriften
+der Zivilprozeßordnung über das Kostenfestsetzungsverfahren und
+die Zwangsvollstreckung aus Kostenfestsetzungsbeschlüssen sind
 entsprechend anzuwenden. § 99 Abs. 2 bleibt unberührt.
 
 
@@ -2594,17 +2451,17 @@ der einstweiligen Verfügung entstanden ist.
 
 (6) Das Urteil, durch das die Zwangslizenz zugesprochen wird, kann auf
 Antrag gegen oder ohne Sicherheitsleistung für vorläufig vollstreckbar
-erklärt werden, wenn dies im öffentlichen Interesse liegt. Wird das
-Urteil aufgehoben oder geändert, so ist der Antragsteller zum Ersatz
-des Schadens verpflichtet, der dem Antragsgegner durch die
+erklärt werden, wenn dies im öffentlichen Interesse liegt. Wird
+das Urteil aufgehoben oder geändert, so ist der Antragsteller zum
+Ersatz des Schadens verpflichtet, der dem Antragsgegner durch die
 Vollstreckung entstanden ist.
 
 
 #### § 85a
 
-(1) Die Verfahren nach Artikel 5 Buchstabe c, Artikel 6, 10 Abs. 8 und
-Artikel 16 Abs. 1 und 4 der Verordnung (EG) Nr. 816/2006 des
-Europäischen Parlaments und des Rates vom 17. Mai 2006 über
+(1) Die Verfahren nach Artikel 5 Buchstabe c, Artikel 6, 10 Abs.
+8 und Artikel 16 Abs. 1 und 4 der Verordnung (EG) Nr. 816/2006
+des Europäischen Parlaments und des Rates vom 17. Mai 2006 über
 Zwangslizenzen für Patente an der Herstellung von pharmazeutischen
 Erzeugnissen für die Ausfuhr in Länder mit Problemen im Bereich der
 öffentlichen Gesundheit (ABl. EU Nr. L 157 S. 1) werden durch Klage
@@ -2617,7 +2474,6 @@ Verfahren nicht durch die Verordnung (EG) Nr. 816/2006 bestimmt sind.
 ### 3. - Gemeinsame Verfahrensvorschriften
 
 
-
 #### § 86
 
 (1) Für die Ausschließung und Ablehnung der Gerichtspersonen gelten
@@ -2628,18 +2484,14 @@ die §§ 41 bis 44, 47 bis 49 der Zivilprozeßordnung entsprechend.
 1.  im Beschwerdeverfahren, wer bei dem vorausgegangenen Verfahren vor dem
     Deutschen Patent- und Markenamt mitgewirkt hat;
 
-
-2.  im Verfahren über die Erklärung der Nichtigkeit des Patents, wer bei
-    dem Verfahren vor dem Deutschen Patent- und Markenamt oder dem
+2.  im Verfahren über die Erklärung der Nichtigkeit des Patents, wer
+    bei dem Verfahren vor dem Deutschen Patent- und Markenamt oder dem
     Patentgericht über die Erteilung des Patents oder den Einspruch
     mitgewirkt hat.
 
-
-
-
-(3) Über die Ablehnung eines Richters entscheidet der Senat, dem der
-Abgelehnte angehört. Wird der Senat durch das Ausscheiden des
-abgelehnten Mitglieds beschlußunfähig, so entscheidet ein
+(3) Über die Ablehnung eines Richters entscheidet der Senat, dem
+der Abgelehnte angehört. Wird der Senat durch das Ausscheiden
+des abgelehnten Mitglieds beschlußunfähig, so entscheidet ein
 Beschwerdesenat des Patentgerichts in der Besetzung mit drei
 rechtskundigen Mitgliedern.
 
@@ -2649,8 +2501,8 @@ dessen Geschäftsbereich die Sache fällt.
 
 #### § 87
 
-(1) Das Patentgericht erforscht den Sachverhalt von Amts wegen. Es ist
-an das Vorbringen und die Beweisanträge der Beteiligten nicht
+(1) Das Patentgericht erforscht den Sachverhalt von Amts wegen. Es
+ist an das Vorbringen und die Beweisanträge der Beteiligten nicht
 gebunden.
 
 (2) Der Vorsitzende oder ein von ihm zu bestimmendes Mitglied hat
@@ -2673,9 +2525,9 @@ mündlichen Verhandlung durch eines seiner Mitglieder als beauftragten
 Richter Beweis erheben lassen oder unter Bezeichnung der einzelnen
 Beweisfragen ein anderes Gericht um die Beweisaufnahme ersuchen.
 
-(3) Die Beteiligten werden von allen Beweisterminen benachrichtigt und
-können der Beweisaufnahme beiwohnen. Sie können an Zeugen und
-Sachverständige sachdienliche Fragen richten. Wird eine Frage
+(3) Die Beteiligten werden von allen Beweisterminen benachrichtigt
+und können der Beweisaufnahme beiwohnen. Sie können an Zeugen
+und Sachverständige sachdienliche Fragen richten. Wird eine Frage
 beanstandet, so entscheidet das Patentgericht.
 
 
@@ -2705,8 +2557,8 @@ stellen und zu begründen.
 (1) Der Vorsitzende hat die Sache mit den Beteiligten tatsächlich und
 rechtlich zu erörtern.
 
-(2) Der Vorsitzende hat jedem Mitglied des Senats auf Verlangen zu
-gestatten, Fragen zu stellen. Wird eine Frage beanstandet, so
+(2) Der Vorsitzende hat jedem Mitglied des Senats auf Verlangen
+zu gestatten, Fragen zu stellen. Wird eine Frage beanstandet, so
 entscheidet der Senat.
 
 (3) Nach Erörterung der Sache erklärt der Vorsitzende die mündliche
@@ -2744,11 +2596,11 @@ bei der Beschlußfassung nur mitwirken, wenn die Beteiligten zustimmen.
 #### § 94
 
 (1) Die Endentscheidungen des Patentgerichts werden, wenn eine
-mündliche Verhandlung stattgefunden hat, in dem Termin, in dem die
-mündliche Verhandlung geschlossen wird, oder in einem sofort
+mündliche Verhandlung stattgefunden hat, in dem Termin, in dem
+die mündliche Verhandlung geschlossen wird, oder in einem sofort
 anzuberaumenden Termin verkündet. Dieser soll nur dann über drei
-Wochen hinaus angesetzt werden, wenn wichtige Gründe, insbesondere der
-Umfang oder die Schwierigkeit der Sache, dies erfordern. Die
+Wochen hinaus angesetzt werden, wenn wichtige Gründe, insbesondere
+der Umfang oder die Schwierigkeit der Sache, dies erfordern. Die
 Endentscheidungen sind den Beteiligten von Amts wegen zuzustellen.
 Statt der Verkündung ist die Zustellung der Endentscheidung zulässig.
 Entscheidet das Patentgericht ohne mündliche Verhandlung, so wird die
@@ -2775,9 +2627,9 @@ Entscheidung und den Ausfertigungen vermerkt.
 oder Unklarheiten, so kann die Berichtigung innerhalb von zwei Wochen
 nach Zustellung der Entscheidung beantragt werden.
 
-(2) Das Patentgericht entscheidet ohne Beweisaufnahme durch Beschluß.
-Hierbei wirken nur die Richter mit, die bei der Entscheidung, deren
-Berichtigung beantragt ist, mitgewirkt haben. Der
+(2) Das Patentgericht entscheidet ohne Beweisaufnahme durch
+Beschluß. Hierbei wirken nur die Richter mit, die bei der
+Entscheidung, deren Berichtigung beantragt ist, mitgewirkt haben. Der
 Berichtigungsbeschluß wird auf der Entscheidung und den Ausfertigungen
 vermerkt.
 
@@ -2800,20 +2652,17 @@ sind als Bevollmächtigte vor dem Patentgericht vertretungsbefugt nur
     Erfüllung ihrer öffentlichen Aufgaben gebildeten Zusammenschlüsse
     vertreten lassen,
 
-
 2.  volljährige Familienangehörige (§ 15 der Abgabenordnung, § 11 des
     Lebenspartnerschaftsgesetzes), Personen mit Befähigung zum Richteramt
     und Streitgenossen, wenn die Vertretung nicht im Zusammenhang mit
     einer entgeltlichen Tätigkeit steht.
 
-
-
 Bevollmächtigte, die keine natürlichen Personen sind, handeln durch
 ihre Organe und mit der Prozessvertretung beauftragten Vertreter.
 
-(3) Das Gericht weist Bevollmächtigte, die nicht nach Maßgabe des
-Absatzes 2 vertretungsbefugt sind, durch unanfechtbaren Beschluss
-zurück. Prozesshandlungen eines nicht vertretungsbefugten
+(3) Das Gericht weist Bevollmächtigte, die nicht nach Maßgabe
+des Absatzes 2 vertretungsbefugt sind, durch unanfechtbaren
+Beschluss zurück. Prozesshandlungen eines nicht vertretungsbefugten
 Bevollmächtigten und Zustellungen oder Mitteilungen an diesen
 Bevollmächtigten sind bis zu seiner Zurückweisung wirksam. Das Gericht
 kann den in Absatz 2 Satz 2 bezeichneten Bevollmächtigten durch
@@ -2841,16 +2690,16 @@ Rechtsanwalt oder ein Patentanwalt auftritt.
 
 #### § 99
 
-(1) Soweit dieses Gesetz keine Bestimmungen über das Verfahren vor dem
-Patentgericht enthält, sind das Gerichtsverfassungsgesetz und die
+(1) Soweit dieses Gesetz keine Bestimmungen über das Verfahren vor
+dem Patentgericht enthält, sind das Gerichtsverfassungsgesetz und die
 Zivilprozeßordnung entsprechend anzuwenden, wenn die Besonderheiten
 des Verfahrens vor dem Patentgericht dies nicht ausschließen.
 
 (2) Eine Anfechtung der Entscheidungen des Patentgerichts findet nur
 statt, soweit dieses Gesetz sie zuläßt.
 
-(3) Für die Gewährung der Akteneinsicht an dritte Personen ist § 31
-entsprechend anzuwenden. Über den Antrag entscheidet das
+(3) Für die Gewährung der Akteneinsicht an dritte Personen ist
+§ 31 entsprechend anzuwenden. Über den Antrag entscheidet das
 Patentgericht. Die Einsicht in die Akten von Verfahren wegen Erklärung
 der Nichtigkeit des Patents wird nicht gewährt, wenn und soweit der
 Patentinhaber ein entgegenstehendes schutzwürdiges Interesse dartut.
@@ -2861,9 +2710,7 @@ Patentinhaber ein entgegenstehendes schutzwürdiges Interesse dartut.
 ## Sechster Abschnitt - Verfahren vor dem Bundesgerichtshof
 
 
-
 ### 1. - Rechtsbeschwerdeverfahren
-
 
 
 #### § 100
@@ -2879,12 +2726,8 @@ zugelassen hat.
 
 1.  eine Rechtsfrage von grundsätzlicher Bedeutung zu entscheiden ist oder
 
-
 2.  die Fortbildung des Rechts oder die Sicherung einer einheitlichen
     Rechtsprechung eine Entscheidung des Bundesgerichtshofs erfordert.
-
-
-
 
 (3) Einer Zulassung zur Einlegung der Rechtsbeschwerde gegen
 Beschlüsse der Beschwerdesenate des Patentgerichts bedarf es nicht,
@@ -2893,29 +2736,21 @@ wird:
 
 1.  wenn das beschließende Gericht nicht vorschriftsmäßig besetzt war,
 
-
 2.  wenn bei dem Beschluß ein Richter mitgewirkt hat, der von der Ausübung
     des Richteramtes kraft Gesetzes ausgeschlossen oder wegen Besorgnis
     der Befangenheit mit Erfolg abgelehnt war,
 
-
 3.  wenn einem Beteiligten das rechtliche Gehör versagt war,
-
 
 4.  wenn ein Beteiligter im Verfahren nicht nach Vorschrift des Gesetzes
     vertreten war, sofern er nicht der Führung des Verfahrens ausdrücklich
     oder stillschweigend zugestimmt hat,
 
-
-5.  wenn der Beschluß auf Grund einer mündlichen Verhandlung ergangen ist,
-    bei der die Vorschriften über die Öffentlichkeit des Verfahrens
+5.  wenn der Beschluß auf Grund einer mündlichen Verhandlung ergangen
+    ist, bei der die Vorschriften über die Öffentlichkeit des Verfahrens
     verletzt worden sind, oder
 
-
 6.  wenn der Beschluß nicht mit Gründen versehen ist.
-
-
-
 
 
 #### § 101
@@ -2933,8 +2768,8 @@ der Zivilprozessordnung gelten entsprechend.
 (1) Die Rechtsbeschwerde ist innerhalb eines Monats nach Zustellung
 des Beschlusses beim Bundesgerichtshof schriftlich einzulegen.
 
-(2) In dem Rechtsbeschwerdeverfahren vor dem Bundesgerichtshof gelten
-die Bestimmungen des § 144 über die Streitwertfestsetzung
+(2) In dem Rechtsbeschwerdeverfahren vor dem Bundesgerichtshof
+gelten die Bestimmungen des § 144 über die Streitwertfestsetzung
 entsprechend.
 
 (3) Die Rechtsbeschwerde ist zu begründen. Die Frist für die
@@ -2947,16 +2782,11 @@ werden.
 1.  die Erklärung, inwieweit der Beschluß angefochten und seine Abänderung
     oder Aufhebung beantragt wird;
 
-
 2.  die Bezeichnung der verletzten Rechtsnorm;
-
 
 3.  insoweit die Rechtsbeschwerde darauf gestützt wird, daß das Gesetz in
     bezug auf das Verfahren verletzt sei, die Bezeichnung der Tatsachen,
     die den Mangel ergeben.
-
-
-
 
 (5) Vor dem Bundesgerichtshof müssen sich die Beteiligten durch einen
 beim Bundesgerichtshof zugelassenen Rechtsanwalt als Bevollmächtigten
@@ -2973,38 +2803,38 @@ entsprechend.
 #### § 104
 
 Der Bundesgerichtshof hat von Amts wegen zu prüfen, ob die
-Rechtsbeschwerde an sich statthaft und ob sie in der gesetzlichen Form
-und Frist eingelegt und begründet ist. Mangelt es an einem dieser
-Erfordernisse, so ist die Rechtsbeschwerde als unzulässig zu
+Rechtsbeschwerde an sich statthaft und ob sie in der gesetzlichen
+Form und Frist eingelegt und begründet ist. Mangelt es an einem
+dieser Erfordernisse, so ist die Rechtsbeschwerde als unzulässig zu
 verwerfen.
 
 
 #### § 105
 
-(1) Sind an dem Verfahren über die Rechtsbeschwerde mehrere Personen
-beteiligt, so sind die Beschwerdeschrift und die Beschwerdebegründung
-den anderen Beteiligten mit der Aufforderung zuzustellen, etwaige
-Erklärungen innerhalb einer bestimmten Frist nach Zustellung beim
-Bundesgerichtshof schriftlich einzureichen. Mit der Zustellung der
-Beschwerdeschrift ist der Zeitpunkt mitzuteilen, in dem die
-Rechtsbeschwerde eingelegt ist. Die erforderliche Zahl von
-beglaubigten Abschriften soll der Beschwerdeführer mit der
+(1) Sind an dem Verfahren über die Rechtsbeschwerde mehrere
+Personen beteiligt, so sind die Beschwerdeschrift und die
+Beschwerdebegründung den anderen Beteiligten mit der Aufforderung
+zuzustellen, etwaige Erklärungen innerhalb einer bestimmten Frist
+nach Zustellung beim Bundesgerichtshof schriftlich einzureichen. Mit
+der Zustellung der Beschwerdeschrift ist der Zeitpunkt mitzuteilen,
+in dem die Rechtsbeschwerde eingelegt ist. Die erforderliche Zahl
+von beglaubigten Abschriften soll der Beschwerdeführer mit der
 Beschwerdeschrift oder der Beschwerdebegründung einreichen.
 
-(2) Ist der Präsident des Deutschen Patent- und Markenamts nicht am
-Verfahren über die Rechtsbeschwerde beteiligt, so ist § 76
+(2) Ist der Präsident des Deutschen Patent- und Markenamts nicht
+am Verfahren über die Rechtsbeschwerde beteiligt, so ist § 76
 entsprechend anzuwenden.
 
 
 #### § 106
 
-(1) Im Verfahren über die Rechtsbeschwerde gelten die Vorschriften der
-Zivilprozeßordnung über Ausschließung und Ablehnung der
+(1) Im Verfahren über die Rechtsbeschwerde gelten die Vorschriften
+der Zivilprozeßordnung über Ausschließung und Ablehnung der
 Gerichtspersonen, über Prozeßbevollmächtigte und Beistände, über
 Zustellungen von Amts wegen, über Ladungen, Termine und Fristen und
-über Wiedereinsetzung in den vorigen Stand entsprechend. Im Falle der
-Wiedereinsetzung in den vorigen Stand gilt § 123 Abs. 5 bis 7
-entsprechend.
+über Wiedereinsetzung in den vorigen Stand entsprechend. Im Falle
+der Wiedereinsetzung in den vorigen Stand gilt § 123 Abs. 5 bis
+7 entsprechend.
 
 (2) Für die Öffentlichkeit des Verfahrens gilt § 69 Abs. 1
 entsprechend.
@@ -3015,8 +2845,8 @@ entsprechend.
 (1) Die Entscheidung über die Rechtsbeschwerde ergeht durch Beschluß;
 sie kann ohne mündliche Verhandlung getroffen werden.
 
-(2) Der Bundesgerichtshof ist bei seiner Entscheidung an die in dem
-angefochtenen Beschluß getroffenen tatsächlichen Feststellungen
+(2) Der Bundesgerichtshof ist bei seiner Entscheidung an die in
+dem angefochtenen Beschluß getroffenen tatsächlichen Feststellungen
 gebunden, außer wenn in bezug auf diese Feststellungen zulässige und
 begründete Rechtsbeschwerdegründe vorgebracht sind.
 
@@ -3051,13 +2881,12 @@ ihm diese aufzuerlegen.
 nur auferlegt werden, wenn er die Rechtsbeschwerde eingelegt oder in
 dem Verfahren Anträge gestellt hat.
 
-(3) Im übrigen gelten die Vorschriften der Zivilprozeßordnung über das
-Kostenfestsetzungsverfahren und die Zwangsvollstreckung aus
+(3) Im übrigen gelten die Vorschriften der Zivilprozeßordnung über
+das Kostenfestsetzungsverfahren und die Zwangsvollstreckung aus
 Kostenfestsetzungsbeschlüssen entsprechend.
 
 
 ### 2. - Berufungsverfahren
-
 
 
 #### § 110
@@ -3076,11 +2905,7 @@ aber mit dem Ablauf von fünf Monaten nach der Verkündung.
 
 1.  die Bezeichnung des Urteils, gegen das die Berufung gerichtet wird;
 
-
 2.  die Erklärung, daß gegen dieses Urteil Berufung eingelegt werde.
-
-
-
 
 (5) Die allgemeinen Vorschriften der Zivilprozessordnung über die
 vorbereitenden Schriftsätze sind auch auf die Berufungsschrift
@@ -3112,46 +2937,38 @@ beruhend anzusehen,
 
 1.  wenn das Patentgericht nicht vorschriftsmäßig besetzt war;
 
-
 2.  wenn bei der Entscheidung ein Richter mitgewirkt hat, der von der
     Ausübung des Richteramts kraft Gesetzes ausgeschlossen war, sofern
     nicht dieses Hindernis mittels eines Ablehnungsgesuchs ohne Erfolg
     geltend gemacht ist;
 
-
 3.  wenn bei der Entscheidung ein Richter mitgewirkt hat, obgleich er
     wegen Besorgnis der Befangenheit abgelehnt und das Ablehnungsgesuch
     für begründet erklärt war;
-
 
 4.  wenn eine Partei in dem Verfahren nicht nach Vorschrift der Gesetze
     vertreten war, sofern sie nicht die Prozessführung ausdrücklich oder
     stillschweigend genehmigt hat;
 
-
 5.  wenn die Entscheidung auf Grund einer mündlichen Verhandlung ergangen
     ist, bei der die Vorschriften über die Öffentlichkeit des Verfahrens
     verletzt sind;
 
-
 6.  wenn die Entscheidung entgegen den Bestimmungen des Gesetzes nicht mit
     Gründen versehen ist.
-
-
-
 
 
 #### § 112
 
 (1) Der Berufungskläger muss die Berufung begründen.
 
-(2) Die Berufungsbegründung ist, sofern sie nicht bereits in der
-Berufungsschrift enthalten ist, in einem Schriftsatz beim
+(2) Die Berufungsbegründung ist, sofern sie nicht bereits in
+der Berufungsschrift enthalten ist, in einem Schriftsatz beim
 Bundesgerichtshof einzureichen. Die Frist für die Berufungsbegründung
 beträgt drei Monate. Sie beginnt mit der Zustellung des in
-vollständiger Form abgefassten Urteils, spätestens aber mit Ablauf von
-fünf Monaten nach der Verkündung. Die Frist kann auf Antrag von dem
-Vorsitzenden verlängert werden, wenn der Gegner einwilligt. Ohne
+vollständiger Form abgefassten Urteils, spätestens aber mit Ablauf
+von fünf Monaten nach der Verkündung. Die Frist kann auf Antrag von
+dem Vorsitzenden verlängert werden, wenn der Gegner einwilligt. Ohne
 Einwilligung kann die Frist um bis zu einen Monat verlängert werden,
 wenn nach freier Überzeugung des Vorsitzenden der Rechtsstreit durch
 die Verlängerung nicht verzögert wird oder wenn der Berufungskläger
@@ -3165,27 +2982,18 @@ bis zu zwei Monate nach Übersendung der Prozessakten verlängern.
 1.  die Erklärung, inwieweit das Urteil angefochten und dessen Aufhebung
     beantragt wird (Berufungsanträge);
 
-
 2.  die Angabe der Berufungsgründe, und zwar:
 
     a)  die Bezeichnung der Umstände, aus denen sich die Rechtsverletzung
         ergibt;
 
-
-    b)  soweit die Berufung darauf gestützt wird, dass das Gesetz in Bezug auf
-        das Verfahren verletzt sei, die Bezeichnung der Tatsachen, die den
+    b)  soweit die Berufung darauf gestützt wird, dass das Gesetz in Bezug
+        auf das Verfahren verletzt sei, die Bezeichnung der Tatsachen, die den
         Mangel ergeben;
-
 
     c)  die Bezeichnung neuer Angriffs- und Verteidigungsmittel sowie der
         Tatsachen, aufgrund deren die neuen Angriffs- und Verteidigungsmittel
         nach § 117 zuzulassen sind.
-
-
-
-
-
-
 
 (4) § 110 Abs. 5 ist auf die Berufungsbegründung entsprechend
 anzuwenden.
@@ -3224,8 +3032,8 @@ Berufung verzichtet hat oder die Berufungsfrist verstrichen ist.
 
 (2) Die Anschließung erfolgt durch Einreichung der
 Berufungsanschlussschrift bei dem Bundesgerichtshof und ist bis zum
-Ablauf von zwei Monaten nach der Zustellung der Berufungsbegründung zu
-erklären. Ist dem Berufungsbeklagten eine Frist zur
+Ablauf von zwei Monaten nach der Zustellung der Berufungsbegründung
+zu erklären. Ist dem Berufungsbeklagten eine Frist zur
 Berufungserwiderung gesetzt, ist die Anschließung bis zum Ablauf
 dieser Frist zulässig.
 
@@ -3242,27 +3050,23 @@ zurückgenommen oder verworfen wird.
 Parteien gestellten Anträge.
 
 (2) Eine Klageänderung und in dem Verfahren wegen Erklärung der
-Nichtigkeit des Patents oder des ergänzenden Schutzzertifikats eine
-Verteidigung mit einer geänderten Fassung des Patents sind nur
+Nichtigkeit des Patents oder des ergänzenden Schutzzertifikats
+eine Verteidigung mit einer geänderten Fassung des Patents sind nur
 zulässig, wenn
 
 1.  der Gegner einwilligt oder der Bundesgerichtshof die Antragsänderung
     für sachdienlich hält und
 
-
-2.  die geänderten Anträge auf Tatsachen gestützt werden können, die der
-    Bundesgerichtshof seiner Verhandlung und Entscheidung über die
+2.  die geänderten Anträge auf Tatsachen gestützt werden können, die
+    der Bundesgerichtshof seiner Verhandlung und Entscheidung über die
     Berufung nach § 117 zugrunde zu legen hat.
-
-
-
 
 
 #### § 117
 
 Auf den Prüfungsumfang des Berufungsgerichts, die verspätet
-vorgebrachten, die zurückgewiesenen und die neuen Angriffs- und
-Verteidigungsmittel sind die §§ 529, 530 und 531 der
+vorgebrachten, die zurückgewiesenen und die neuen Angriffs-
+und Verteidigungsmittel sind die §§ 529, 530 und 531 der
 Zivilprozessordnung entsprechend anzuwenden. Dabei tritt an die Stelle
 des § 520 der Zivilprozessordnung der § 112.
 
@@ -3278,11 +3082,7 @@ Verhandlung. § 69 Abs. 2 gilt entsprechend.
 
 1.  die Parteien zustimmen oder
 
-
 2.  nur über die Kosten entschieden werden soll.
-
-
-
 
 (4) Erscheint eine Partei im Termin nicht, so kann ohne sie verhandelt
 und durch streitiges Urteil entschieden werden. Erscheint keine der
@@ -3327,10 +3127,10 @@ des § 144 über die Streitwertfestsetzung entsprechend.
 
 (2) In dem Urteil ist auch über die Kosten des Verfahrens zu
 entscheiden. Die Vorschriften der Zivilprozeßordnung über die
-Prozeßkosten (§§ 91 bis 101) sind entsprechend anzuwenden, soweit
-nicht die Billigkeit eine andere Entscheidung erfordert; die
-Vorschriften der Zivilprozeßordnung über das
-Kostenfestsetzungsverfahren (§§ 103 bis 107) und die
+Prozeßkosten (§§ 91 bis 101) sind entsprechend anzuwenden,
+soweit nicht die Billigkeit eine andere Entscheidung
+erfordert; die Vorschriften der Zivilprozeßordnung über
+das Kostenfestsetzungsverfahren (§§ 103 bis 107) und die
 Zwangsvollstreckung aus Kostenfestsetzungsbeschlüssen (§§ 724 bis 802)
 sind entsprechend anzuwenden.
 
@@ -3338,12 +3138,11 @@ sind entsprechend anzuwenden.
 ### 3. - Beschwerdeverfahren
 
 
-
 #### § 122
 
 (1) Gegen die Urteile der Nichtigkeitssenate des Patentgerichts über
-den Erlaß einstweiliger Verfügungen im Verfahren wegen Erteilung einer
-Zwangslizenz (§§ 85 und 85a) findet die Beschwerde an den
+den Erlaß einstweiliger Verfügungen im Verfahren wegen Erteilung
+einer Zwangslizenz (§§ 85 und 85a) findet die Beschwerde an den
 Bundesgerichtshof statt. § 110 Abs. 7 gilt entsprechend.
 
 (2) Die Beschwerde ist innerhalb eines Monats schriftlich beim
@@ -3360,7 +3159,6 @@ von fünf Monaten nach der Verkündung.
 ### 4. - Gemeinsame Verfahrensvorschriften
 
 
-
 #### § 122a
 
 Auf die Rüge der durch die Entscheidung beschwerten Partei ist das
@@ -3374,29 +3172,23 @@ entsprechend anzuwenden.
 ## Siebenter Abschnitt - Gemeinsame Vorschriften
 
 
-
 ### § 123
 
 (1) Wer ohne Verschulden verhindert war, dem Deutschen Patent- und
 Markenamt oder dem Patentgericht gegenüber eine Frist einzuhalten,
-deren Versäumung nach gesetzlicher Vorschrift einen Rechtsnachteil zur
-Folge hat, ist auf Antrag wieder in den vorigen Stand einzusetzen.
+deren Versäumung nach gesetzlicher Vorschrift einen Rechtsnachteil
+zur Folge hat, ist auf Antrag wieder in den vorigen Stand einzusetzen.
 Dies gilt nicht für die Frist
 
 1.  zur Erhebung des Einspruchs (§ 59 Abs. 1) und zur Zahlung der
     Einspruchsgebühr (§ 6 Abs. 1 Satz 1 des Patentkostengesetzes),
 
-
 2.  für den Einsprechenden zur Einlegung der Beschwerde gegen die
     Aufrechterhaltung des Patents (§ 73 Abs. 2) und zur Zahlung der
     Beschwerdegebühr (§ 6 Abs. 1 Satz 1 des Patentkostengesetzes) und
 
-
 3.  zur Einreichung von Anmeldungen, für die eine Priorität nach § 7 Abs.
     2 und § 40 in Anspruch genommen werden kann.
-
-
-
 
 (2) Die Wiedereinsetzung muß innerhalb von zwei Monaten nach Wegfall
 des Hindernisses schriftlich beantragt werden. Der Antrag muß die
@@ -3413,10 +3205,10 @@ Handlung zu beschließen hat.
 
 (4) Die Wiedereinsetzung ist unanfechtbar.
 
-(5) Wer im Inland in gutem Glauben den Gegenstand eines Patents, das
-infolge der Wiedereinsetzung wieder in Kraft tritt, in der Zeit
-zwischen dem Erlöschen und dem Wiederinkrafttreten des Patents in
-Benutzung genommen oder in dieser Zeit die dazu erforderlichen
+(5) Wer im Inland in gutem Glauben den Gegenstand eines Patents,
+das infolge der Wiedereinsetzung wieder in Kraft tritt, in der
+Zeit zwischen dem Erlöschen und dem Wiederinkrafttreten des Patents
+in Benutzung genommen oder in dieser Zeit die dazu erforderlichen
 Veranstaltungen getroffen hat, ist befugt, den Gegenstand des Patents
 für die Bedürfnisse seines eigenen Betriebs in eigenen oder fremden
 Werkstätten weiterzubenutzen. Diese Befugnis kann nur zusammen mit dem
@@ -3425,20 +3217,20 @@ Betrieb vererbt oder veräußert werden.
 (6) Absatz 5 ist entsprechend anzuwenden, wenn die Wirkung nach § 33
 Abs. 1 infolge der Wiedereinsetzung wieder in Kraft tritt.
 
-(7) Ein Recht nach Absatz 5 steht auch demjenigen zu, der im Inland in
-gutem Glauben den Gegenstand einer Anmeldung, die infolge der
+(7) Ein Recht nach Absatz 5 steht auch demjenigen zu, der im Inland
+in gutem Glauben den Gegenstand einer Anmeldung, die infolge der
 Wiedereinsetzung die Priorität einer früheren ausländischen Anmeldung
 in Anspruch nimmt (§ 41), in der Zeit zwischen dem Ablauf der Frist
-von zwölf Monaten und dem Wiederinkrafttreten des Prioritätsrechts in
-Benutzung genommen oder in dieser Zeit die dazu erforderlichen
+von zwölf Monaten und dem Wiederinkrafttreten des Prioritätsrechts
+in Benutzung genommen oder in dieser Zeit die dazu erforderlichen
 Veranstaltungen getroffen hat.
 
 
 ### § 123a
 
 (1) Ist nach Versäumung einer vom Deutschen Patent- und Markenamt
-bestimmten Frist die Patentanmeldung zurückgewiesen worden, so wird
-der Beschluss wirkungslos, ohne dass es seiner ausdrücklichen
+bestimmten Frist die Patentanmeldung zurückgewiesen worden, so
+wird der Beschluss wirkungslos, ohne dass es seiner ausdrücklichen
 Aufhebung bedarf, wenn der Anmelder die Weiterbehandlung der Anmeldung
 beantragt und die versäumte Handlung nachholt.
 
@@ -3447,8 +3239,8 @@ Zustellung der Entscheidung über die Zurückweisung der Patentanmeldung
 einzureichen. Die versäumte Handlung ist innerhalb dieser Frist
 nachzuholen.
 
-(3) Gegen die Versäumung der Frist nach Absatz 2 und der Frist zur
-Zahlung der Weiterbehandlungsgebühr nach § 6 Abs. 1 Satz 1 des
+(3) Gegen die Versäumung der Frist nach Absatz 2 und der Frist
+zur Zahlung der Weiterbehandlungsgebühr nach § 6 Abs. 1 Satz 1 des
 Patentkostengesetzes ist eine Wiedereinsetzung nicht gegeben.
 
 (4) Über den Antrag beschließt die Stelle, die über die nachgeholte
@@ -3482,8 +3274,8 @@ beglaubigte Übersetzungen beizubringen.
 
 ### § 125a
 
-(1) Soweit in Verfahren vor dem Deutschen Patent- und Markenamt für
-Anmeldungen, Anträge oder sonstige Handlungen die Schriftform
+(1) Soweit in Verfahren vor dem Deutschen Patent- und Markenamt
+für Anmeldungen, Anträge oder sonstige Handlungen die Schriftform
 vorgesehen ist, gelten die Regelungen des § 130a Absatz 1, 2 Satz 1,
 Absatz 5 und 6 der Zivilprozessordnung entsprechend.
 
@@ -3497,19 +3289,15 @@ entsprechend, soweit sich aus diesem Gesetz nichts anderes ergibt.
 bestimmt durch Rechtsverordnung ohne Zustimmung des Bundesrates
 
 1.  den Zeitpunkt, von dem an elektronische Dokumente bei dem Deutschen
-    Patent- und Markenamt und den Gerichten eingereicht werden können, die
-    für die Bearbeitung der Dokumente geeignete Form, ob eine
+    Patent- und Markenamt und den Gerichten eingereicht werden können,
+    die für die Bearbeitung der Dokumente geeignete Form, ob eine
     elektronische Signatur zu verwenden ist und wie diese Signatur
     beschaffen ist;
-
 
 2.  den Zeitpunkt, von dem an die Prozessakten nach Absatz 2 elektronisch
     geführt werden können, sowie die hierfür geltenden organisatorisch-
     technischen Rahmenbedingungen für die Bildung, Führung und
     Aufbewahrung der elektronischen Prozessakten.
-
-
-
 
 
 ### § 126
@@ -3530,41 +3318,34 @@ mit folgenden Maßgaben:
     gesetzlichen Grund verweigert, so gilt die Zustellung gleichwohl als
     bewirkt.
 
-
 2.  An Empfänger, die sich im Ausland aufhalten und die entgegen dem
-    Erfordernis des § 25 keinen Inlandsvertreter bestellt haben, kann mit
-    eingeschriebenem Brief durch Aufgabe zur Post zugestellt werden.
+    Erfordernis des § 25 keinen Inlandsvertreter bestellt haben, kann
+    mit eingeschriebenem Brief durch Aufgabe zur Post zugestellt werden.
     Gleiches gilt für Empfänger, die selbst Inlandsvertreter im Sinne des
     § 25 Abs. 2 sind. § 184 Abs. 2 Satz 1 und 4 der Zivilprozessordnung
     gilt entsprechend.
 
-
-3.  Für Zustellungen an Erlaubnisscheininhaber (§ 177 der
-    Patentanwaltsordnung) ist § 5 Abs. 4 des
+3.  Für Zustellungen an Erlaubnisscheininhaber (§
+    177 der Patentanwaltsordnung) ist § 5 Abs. 4 des
     Verwaltungszustellungsgesetzes entsprechend anzuwenden.
 
-
 4.  An Empfänger, denen beim Deutschen Patent- und Markenamt ein Abholfach
-    eingerichtet worden ist, kann auch dadurch zugestellt werden, daß das
-    Schriftstück im Abholfach des Empfängers niedergelegt wird. Über die
-    Niederlegung ist eine Mitteilung zu den Akten zu geben. Auf dem
+    eingerichtet worden ist, kann auch dadurch zugestellt werden, daß
+    das Schriftstück im Abholfach des Empfängers niedergelegt wird. Über
+    die Niederlegung ist eine Mitteilung zu den Akten zu geben. Auf dem
     Schriftstück ist zu vermerken, wann es niedergelegt worden ist. Die
     Zustellung gilt als am dritten Tag nach der Niederlegung im Abholfach
     bewirkt.
 
-
 5.  Für die Zustellung von elektronischen Dokumenten ist ein
     Übermittlungsweg zu verwenden, bei dem die Authentizität und
     Integrität der Daten gewährleistet ist und der bei Nutzung allgemein
-    zugänglicher Netze die Vertraulichkeit der zu übermittelnden Daten
-    durch ein Verschlüsselungsverfahren sicherstellt. Das
+    zugänglicher Netze die Vertraulichkeit der zu übermittelnden
+    Daten durch ein Verschlüsselungsverfahren sicherstellt. Das
     Bundesministerium der Justiz und für Verbraucherschutz erlässt durch
     Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
     nähere Bestimmungen über die nach Satz 1 geeigneten Übermittlungswege
     sowie die Form und den Nachweis der elektronischen Zustellung.
-
-
-
 
 (2) Für Zustellungen im Verfahren vor dem Bundespatentgericht gelten
 die Vorschriften der Zivilprozessordnung.
@@ -3575,8 +3356,8 @@ die Vorschriften der Zivilprozessordnung.
 (1) Die Gerichte sind verpflichtet, dem Deutschen Patent- und
 Markenamt und dem Patentgericht Rechtshilfe zu leisten.
 
-(2) Im Verfahren vor dem Deutschen Patent- und Markenamt setzt das
-Patentgericht Ordnungs- oder Zwangsmittel gegen Zeugen oder
+(2) Im Verfahren vor dem Deutschen Patent- und Markenamt setzt
+das Patentgericht Ordnungs- oder Zwangsmittel gegen Zeugen oder
 Sachverständige, die nicht erscheinen oder ihre Aussage oder deren
 Beeidigung verweigern, auf Ersuchen des Deutschen Patent- und
 Markenamts fest. Ebenso ist die Vorführung eines nicht erschienenen
@@ -3603,7 +3384,6 @@ und dem Bundesgerichtshof entsprechend anzuwenden.
 ## Achter Abschnitt - Verfahrenskostenhilfe
 
 
-
 ### § 129
 
 Im Verfahren vor dem Deutschen Patent- und Markenamt, dem
@@ -3614,8 +3394,8 @@ Verfahrenskostenhilfe nach Maßgabe der Vorschriften der §§ 130 bis
 
 ### § 130
 
-(1) Im Verfahren zur Erteilung des Patents erhält der Anmelder auf
-Antrag unter entsprechender Anwendung der §§ 114 bis 116 der
+(1) Im Verfahren zur Erteilung des Patents erhält der Anmelder
+auf Antrag unter entsprechender Anwendung der §§ 114 bis 116 der
 Zivilprozeßordnung Verfahrenskostenhilfe, wenn hinreichende Aussicht
 auf Erteilung des Patents besteht. Auf Antrag des Anmelders oder des
 Patentinhabers kann Verfahrenskostenhilfe auch für die Jahresgebühren
@@ -3623,9 +3403,9 @@ gemäß § 17 gewährt werden. Die Zahlungen sind an die Bundeskasse zu
 leisten.
 
 (2) Die Bewilligung der Verfahrenskostenhilfe bewirkt, daß bei den
-Gebühren, die Gegenstand der Verfahrenskostenhilfe sind, die für den
-Fall der Nichtzahlung vorgesehenen Rechtsfolgen nicht eintreten. Im
-übrigen ist § 122 Abs. 1 der Zivilprozeßordnung entsprechend
+Gebühren, die Gegenstand der Verfahrenskostenhilfe sind, die für
+den Fall der Nichtzahlung vorgesehenen Rechtsfolgen nicht eintreten.
+Im übrigen ist § 122 Abs. 1 der Zivilprozeßordnung entsprechend
 anzuwenden.
 
 (3) Beantragen mehrere gemeinsam das Patent, so erhalten sie die
@@ -3641,8 +3421,8 @@ Verfahrenskostenhilfe einbezogen werden, wie erforderlich ist, um die
 einer Bewilligung der Verfahrenskostenhilfe nach § 115 Absatz 4 der
 Zivilprozessordnung entgegenstehende Beschränkung auszuschließen. Die
 gezahlten Raten sind erst dann auf die Jahresgebühren zu verrechnen,
-wenn die Kosten des Patenterteilungsverfahrens einschließlich etwa
-entstandener Kosten für einen beigeordneten Vertreter durch die
+wenn die Kosten des Patenterteilungsverfahrens einschließlich
+etwa entstandener Kosten einer beigeordneten Vertretung durch die
 Ratenzahlungen gedeckt sind. Soweit die Jahresgebühren durch die
 gezahlten Raten als entrichtet angesehen werden können, ist § 5 Abs. 2
 des Patentkostengesetzes entsprechend anzuwenden.
@@ -3654,17 +3434,17 @@ schutzwürdiges Interesse glaubhaft macht.
 
 ### § 131
 
-Im Verfahren zur Beschränkung oder zum Widerruf des Patents (§ 64)
-sind die Bestimmungen des § 130 Abs. 1, 2 und 5 entsprechend
+Im Verfahren zur Beschränkung oder zum Widerruf des Patents (§
+64) sind die Bestimmungen des § 130 Abs. 1, 2 und 5 entsprechend
 anzuwenden.
 
 
 ### § 132
 
-(1) Im Einspruchsverfahren (§§ 59 bis 62) erhält der Patentinhaber auf
-Antrag unter entsprechender Anwendung der §§ 114 bis 116 der
-Zivilprozeßordnung und des § 130 Abs. 1 Satz 2 und Abs. 2, 4 und 5
-Verfahrenskostenhilfe. Hierbei ist nicht zu prüfen, ob die
+(1) Im Einspruchsverfahren (§§ 59 bis 62) erhält der Patentinhaber
+auf Antrag unter entsprechender Anwendung der §§ 114 bis 116
+der Zivilprozeßordnung und des § 130 Abs. 1 Satz 2 und Abs. 2, 4
+und 5 Verfahrenskostenhilfe. Hierbei ist nicht zu prüfen, ob die
 Rechtsverteidigung hinreichende Aussicht auf Erfolg bietet.
 
 (2) Absatz 1 Satz 1 ist auf den Einsprechenden und den gemäß § 59 Abs.
@@ -3676,13 +3456,13 @@ ein eigenes schutzwürdiges Interesse glaubhaft macht.
 
 ### § 133
 
-Einem Beteiligten, dem die Verfahrenskostenhilfe nach den Vorschriften
-der §§ 130 bis 132 bewilligt worden ist, wird auf Antrag ein zur
-Übernahme der Vertretung bereiter Patentanwalt oder Rechtsanwalt
-seiner Wahl oder auf ausdrückliches Verlangen ein
-Erlaubnisscheininhaber beigeordnet, wenn die Vertretung zur
-sachdienlichen Erledigung des Verfahrens erforderlich erscheint oder
-ein Beteiligter mit entgegengesetzten Interessen durch einen
+Einem Beteiligten, dem die Verfahrenskostenhilfe nach den
+Vorschriften der §§ 130 bis 132 bewilligt worden ist, wird auf
+Antrag ein zur Übernahme der Vertretung bereiter Patentanwalt
+oder Rechtsanwalt seiner Wahl oder auf ausdrückliches Verlangen
+ein Erlaubnisscheininhaber beigeordnet, wenn die Vertretung zur
+sachdienlichen Erledigung des Verfahrens erforderlich erscheint
+oder ein Beteiligter mit entgegengesetzten Interessen durch einen
 Patentanwalt, einen Rechtsanwalt oder einen Erlaubnisscheininhaber
 vertreten ist. § 121 Abs. 4 und 5 der Zivilprozeßordnung ist
 entsprechend anzuwenden.
@@ -3690,10 +3470,10 @@ entsprechend anzuwenden.
 
 ### § 134
 
-Wird das Gesuch um Bewilligung der Verfahrenskostenhilfe nach den §§
-130 bis 132 vor Ablauf einer für die Zahlung einer Gebühr
-vorgeschriebenen Frist eingereicht, so wird der Lauf dieser Frist bis
-zum Ablauf von einem Monat nach Zustellung des auf das Gesuch
+Wird das Gesuch um Bewilligung der Verfahrenskostenhilfe nach
+den §§ 130 bis 132 vor Ablauf einer für die Zahlung einer Gebühr
+vorgeschriebenen Frist eingereicht, so wird der Lauf dieser Frist
+bis zum Ablauf von einem Monat nach Zustellung des auf das Gesuch
 ergehenden Beschlusses gehemmt.
 
 
@@ -3701,9 +3481,9 @@ ergehenden Beschlusses gehemmt.
 
 (1) Das Gesuch um Bewilligung der Verfahrenskostenhilfe ist
 schriftlich beim Deutschen Patent- und Markenamt, beim Patentgericht
-oder beim Bundesgerichtshof einzureichen. In Verfahren nach den §§ 110
-und 122 kann das Gesuch auch vor der Geschäftsstelle des
-Bundesgerichtshof zu Protokoll erklärt werden. § 125a gilt
+oder beim Bundesgerichtshof einzureichen. In Verfahren nach
+den §§ 110 und 122 kann das Gesuch auch vor der Geschäftsstelle
+des Bundesgerichtshof zu Protokoll erklärt werden. § 125a gilt
 entsprechend.
 
 (2) Über das Gesuch beschließt die Stelle, die für das Verfahren
@@ -3712,34 +3492,34 @@ zuständig ist, für welches die Verfahrenskostenhilfe nachgesucht wird.
 (3) Die nach den §§ 130 bis 133 ergehenden Beschlüsse sind
 unanfechtbar, soweit es sich nicht um einen Beschluß der
 Patentabteilung handelt, durch den die Patentabteilung die
-Verfahrenskostenhilfe oder die Beiordnung eines Vertreters nach § 133
-verweigert; die Rechtsbeschwerde ist ausgeschlossen. § 127 Abs. 3 der
-Zivilprozeßordnung ist auf das Verfahren vor dem Patentgericht
+Verfahrenskostenhilfe oder die Beiordnung einer Vertretung nach §
+133 verweigert; die Rechtsbeschwerde ist ausgeschlossen. § 127 Abs.
+3 der Zivilprozeßordnung ist auf das Verfahren vor dem Patentgericht
 entsprechend anzuwenden.
 
 
 ### § 136
 
-Die Vorschriften des § 117 Abs. 2 bis 4, des § 118 Abs. 2 und 3, der
-§§ 119 und 120 Absatz 1 und 3, des § 120a Absatz 1, 2 und 4 sowie der
-§§ 124 und 127 Abs. 1 und 2 der Zivilprozeßordnung sind entsprechend
-anzuwenden, § 127 Abs. 2 der Zivilprozessordnung mit der Maßgabe, dass
-die Beschwerde unabhängig von dem Verfahrenswert stattfindet. Im
-Einspruchsverfahren sowie in den Verfahren wegen Erklärung der
-Nichtigkeit des Patents oder in Zwangslizenzverfahren (§§ 81, 85 und
-85a) gilt dies auch für § 117 Abs. 1 Satz 2, § 118 Abs. 1, § 122 Abs.
-2 sowie die §§ 123, 125 und 126 der Zivilprozeßordnung.
+Die Vorschriften des § 117 Absatz 2 bis 4 Satz 1, des § 118 Abs. 2
+und 3, der §§ 119 und 120 Absatz 1 und 3, des § 120a Absatz 1, 2 und
+4 sowie der §§ 124 und 127 Abs. 1 und 2 der Zivilprozeßordnung sind
+entsprechend anzuwenden, § 127 Abs. 2 der Zivilprozessordnung mit
+der Maßgabe, dass die Beschwerde unabhängig von dem Verfahrenswert
+stattfindet. Im Einspruchsverfahren sowie in den Verfahren wegen
+Erklärung der Nichtigkeit des Patents oder in Zwangslizenzverfahren
+(§§ 81, 85 und 85a) gilt dies auch für § 117 Abs. 1 Satz 2, § 118 Abs.
+1, § 122 Abs. 2 sowie die §§ 123, 125 und 126 der Zivilprozeßordnung.
 
 
 ### § 137
 
-Die Verfahrenskostenhilfe kann aufgehoben werden, wenn die angemeldete
-oder durch ein Patent geschützte Erfindung, hinsichtlich deren
-Verfahrenskostenhilfe gewährt worden ist, durch Veräußerung,
+Die Verfahrenskostenhilfe kann aufgehoben werden, wenn die
+angemeldete oder durch ein Patent geschützte Erfindung, hinsichtlich
+deren Verfahrenskostenhilfe gewährt worden ist, durch Veräußerung,
 Benutzung, Lizenzvergabe oder auf sonstige Weise wirtschaftlich
 verwertet wird und die hieraus fließenden Einkünfte die für die
-Bewilligung der Verfahrenskostenhilfe maßgeblichen Verhältnisse so
-verändern, daß dem betroffenen Beteiligten die Zahlung der
+Bewilligung der Verfahrenskostenhilfe maßgeblichen Verhältnisse
+so verändern, daß dem betroffenen Beteiligten die Zahlung der
 Verfahrenskosten zugemutet werden kann; dies gilt auch nach Ablauf der
 Frist des § 124 Absatz 1 Nr. 3 der Zivilprozeßordnung. Der Beteiligte,
 dem Verfahrenskostenhilfe gewährt worden ist, hat jede wirtschaftliche
@@ -3754,8 +3534,8 @@ Beteiligten auf Antrag unter entsprechender Anwendung der §§ 114 bis
 116 der Zivilprozeßordnung Verfahrenskostenhilfe zu bewilligen.
 
 (2) Das Gesuch um die Bewilligung von Verfahrenskostenhilfe ist
-schriftlich beim Bundesgerichtshof einzureichen; es kann auch vor der
-Geschäftsstelle zu Protokoll erklärt werden. Über das Gesuch
+schriftlich beim Bundesgerichtshof einzureichen; es kann auch vor
+der Geschäftsstelle zu Protokoll erklärt werden. Über das Gesuch
 beschließt der Bundesgerichtshof.
 
 (3) Im übrigen sind die Bestimmungen des § 130 Abs. 2, 3, 5 und 6
@@ -3768,19 +3548,18 @@ beigeordnet werden kann.
 ## Neunter Abschnitt - Rechtsverletzungen
 
 
-
 ### § 139
 
-(1) Wer entgegen den §§ 9 bis 13 eine patentierte Erfindung benutzt,
-kann von dem Verletzten bei Wiederholungsgefahr auf Unterlassung in
-Anspruch genommen werden. Der Anspruch besteht auch dann, wenn eine
-Zuwiderhandlung erstmalig droht. Der Anspruch ist ausgeschlossen,
-soweit die Inanspruchnahme aufgrund der besonderen Umstände des
-Einzelfalls und der Gebote von Treu und Glauben für den Verletzer oder
-Dritte zu einer unverhältnismäßigen, durch das
-Ausschließlichkeitsrecht nicht gerechtfertigten Härte führen würde. In
-diesem Fall ist dem Verletzten ein angemessener Ausgleich in Geld zu
-gewähren. Der Schadensersatzanspruch nach Absatz 2 bleibt hiervon
+(1) Wer entgegen den §§ 9 bis 13 eine patentierte Erfindung
+benutzt, kann von dem Verletzten bei Wiederholungsgefahr auf
+Unterlassung in Anspruch genommen werden. Der Anspruch besteht auch
+dann, wenn eine Zuwiderhandlung erstmalig droht. Der Anspruch ist
+ausgeschlossen, soweit die Inanspruchnahme aufgrund der besonderen
+Umstände des Einzelfalls und der Gebote von Treu und Glauben für
+den Verletzer oder Dritte zu einer unverhältnismäßigen, durch das
+Ausschließlichkeitsrecht nicht gerechtfertigten Härte führen würde.
+In diesem Fall ist dem Verletzten ein angemessener Ausgleich in Geld
+zu gewähren. Der Schadensersatzanspruch nach Absatz 2 bleibt hiervon
 unberührt.
 
 (2) Wer die Handlung vorsätzlich oder fahrlässig vornimmt, ist dem
@@ -3793,18 +3572,18 @@ hätte entrichten müssen, wenn er die Erlaubnis zur Benutzung der
 Erfindung eingeholt hätte.
 
 (3) Ist Gegenstand des Patents ein Verfahren zur Herstellung eines
-neuen Erzeugnisses, so gilt bis zum Beweis des Gegenteils das gleiche
-Erzeugnis, das von einem anderen hergestellt worden ist, als nach dem
-patentierten Verfahren hergestellt. Bei der Erhebung des Beweises des
-Gegenteils sind die berechtigten Interessen des Beklagten an der
-Wahrung seiner Herstellungs- und Betriebsgeheimnisse zu
-berücksichtigen.
+neuen Erzeugnisses, so gilt bis zum Beweis des Gegenteils das
+gleiche Erzeugnis, das von einem anderen hergestellt worden ist,
+als nach dem patentierten Verfahren hergestellt. Bei der Erhebung
+des Beweises des Gegenteils sind die berechtigten Interessen des
+Beklagten an der Wahrung seiner Herstellungs- und Betriebsgeheimnisse
+zu berücksichtigen.
 
 
 ### § 140
 
-Werden vor der Erteilung des Patents Rechte aus einer Anmeldung, in
-deren Akten die Einsicht jedermann freisteht (§ 31 Abs. 1 Satz 2
+Werden vor der Erteilung des Patents Rechte aus einer Anmeldung,
+in deren Akten die Einsicht jedermann freisteht (§ 31 Abs. 1 Satz 2
 Halbsatz 2 und Abs. 2), gerichtlich geltend gemacht und kommt es für
 die Entscheidung des Rechtsstreits darauf an, daß ein Anspruch nach §
 33 Abs. 1 besteht, so kann das Gericht anordnen, daß die Verhandlung
@@ -3830,16 +3609,16 @@ des Patents ist, unmittelbar hergestellt worden sind.
 stehenden Materialien und Geräte anzuwenden, die vorwiegend zur
 Herstellung dieser Erzeugnisse gedient haben.
 
-(3) Wer entgegen den §§ 9 bis 13 eine patentierte Erfindung benutzt,
-kann von dem Verletzten auf Rückruf der Erzeugnisse, die Gegenstand
-des Patents sind, oder auf deren endgültiges Entfernen aus den
-Vertriebswegen in Anspruch genommen werden. Satz 1 ist auch
-anzuwenden, wenn es sich um Erzeugnisse handelt, die durch ein
+(3) Wer entgegen den §§ 9 bis 13 eine patentierte Erfindung
+benutzt, kann von dem Verletzten auf Rückruf der Erzeugnisse, die
+Gegenstand des Patents sind, oder auf deren endgültiges Entfernen
+aus den Vertriebswegen in Anspruch genommen werden. Satz 1 ist
+auch anzuwenden, wenn es sich um Erzeugnisse handelt, die durch ein
 Verfahren, das Gegenstand des Patents ist, unmittelbar hergestellt
 worden sind.
 
-(4) Die Ansprüche nach den Absätzen 1 bis 3 sind ausgeschlossen, wenn
-die Inanspruchnahme im Einzelfall unverhältnismäßig ist. Bei der
+(4) Die Ansprüche nach den Absätzen 1 bis 3 sind ausgeschlossen,
+wenn die Inanspruchnahme im Einzelfall unverhältnismäßig ist. Bei der
 Prüfung der Verhältnismäßigkeit sind auch die berechtigten Interessen
 Dritter zu berücksichtigen.
 
@@ -3852,25 +3631,20 @@ und den Vertriebsweg der benutzten Erzeugnisse in Anspruch genommen
 werden.
 
 (2) In Fällen offensichtlicher Rechtsverletzung oder in Fällen, in
-denen der Verletzte gegen den Verletzer Klage erhoben hat, besteht der
-Anspruch unbeschadet von Absatz 1 auch gegen eine Person, die in
+denen der Verletzte gegen den Verletzer Klage erhoben hat, besteht
+der Anspruch unbeschadet von Absatz 1 auch gegen eine Person, die in
 gewerblichem Ausmaß
 
 1.  rechtsverletzende Erzeugnisse in ihrem Besitz hatte,
 
-
 2.  rechtsverletzende Dienstleistungen in Anspruch nahm,
-
 
 3.  für rechtsverletzende Tätigkeiten genutzte Dienstleistungen erbrachte
     oder
 
-
 4.  nach den Angaben einer in Nummer 1, 2 oder Nummer 3 genannten Person
     an der Herstellung, Erzeugung oder am Vertrieb solcher Erzeugnisse
     oder an der Erbringung solcher Dienstleistungen beteiligt war,
-
-
 
 es sei denn, die Person wäre nach den §§ 383 bis 385 der
 Zivilprozessordnung im Prozess gegen den Verletzer zur
@@ -3888,13 +3662,9 @@ für die Auskunftserteilung erforderlichen Aufwendungen verlangen.
     der gewerblichen Abnehmer und Verkaufsstellen, für die sie bestimmt
     waren, und
 
-
 2.  die Menge der hergestellten, ausgelieferten, erhaltenen oder
     bestellten Erzeugnisse sowie über die Preise, die für die betreffenden
     Erzeugnisse oder Dienstleistungen bezahlt wurden.
-
-
-
 
 (4) Die Ansprüche nach den Absätzen 1 und 2 sind ausgeschlossen, wenn
 die Inanspruchnahme im Einzelfall unverhältnismäßig ist.
@@ -3920,14 +3690,14 @@ Angehörigen nur mit Zustimmung des Verpflichteten verwertet werden.
 (9) Kann die Auskunft nur unter Verwendung von Verkehrsdaten (§ 3
 Nummer 70 des Telekommunikationsgesetzes) erteilt werden, ist für ihre
 Erteilung eine vorherige richterliche Anordnung über die Zulässigkeit
-der Verwendung der Verkehrsdaten erforderlich, die von dem Verletzten
-zu beantragen ist. Für den Erlass dieser Anordnung ist das
+der Verwendung der Verkehrsdaten erforderlich, die von dem
+Verletzten zu beantragen ist. Für den Erlass dieser Anordnung ist das
 Landgericht, in dessen Bezirk der zur Auskunft Verpflichtete seinen
 Wohnsitz, seinen Sitz oder eine Niederlassung hat, ohne Rücksicht auf
 den Streitwert ausschließlich zuständig. Die Entscheidung trifft die
 Zivilkammer. Für das Verfahren gelten die Vorschriften des Gesetzes
-über das Verfahren in Familiensachen und in den Angelegenheiten der
-freiwilligen Gerichtsbarkeit entsprechend. Die Kosten der
+über das Verfahren in Familiensachen und in den Angelegenheiten
+der freiwilligen Gerichtsbarkeit entsprechend. Die Kosten der
 richterlichen Anordnung trägt der Verletzte. Gegen die Entscheidung
 des Landgerichts ist die Beschwerde statthaft. Die Beschwerde ist
 binnen einer Frist von zwei Wochen einzulegen. Die Vorschriften zum
@@ -3956,9 +3726,9 @@ Maßnahmen, um den im Einzelfall gebotenen Schutz zu gewährleisten.
 Inanspruchnahme im Einzelfall unverhältnismäßig ist.
 
 (3) Die Verpflichtung zur Vorlage einer Urkunde oder zur Duldung der
-Besichtigung einer Sache kann im Wege der einstweiligen Verfügung nach
-den §§ 935 bis 945 der Zivilprozessordnung angeordnet werden. Das
-Gericht trifft die erforderlichen Maßnahmen, um den Schutz
+Besichtigung einer Sache kann im Wege der einstweiligen Verfügung
+nach den §§ 935 bis 945 der Zivilprozessordnung angeordnet werden.
+Das Gericht trifft die erforderlichen Maßnahmen, um den Schutz
 vertraulicher Informationen zu gewährleisten. Dies gilt insbesondere
 in den Fällen, in denen die einstweilige Verfügung ohne vorherige
 Anhörung des Gegners erlassen wird.
@@ -3967,16 +3737,16 @@ Anhörung des Gegners erlassen wird.
 entsprechend.
 
 (5) Wenn keine Verletzung vorlag oder drohte, kann der vermeintliche
-Verletzer von demjenigen, der die Vorlage oder Besichtigung nach
-Absatz 1 begehrt hat, den Ersatz des ihm durch das Begehren
+Verletzer von demjenigen, der die Vorlage oder Besichtigung
+nach Absatz 1 begehrt hat, den Ersatz des ihm durch das Begehren
 entstandenen Schadens verlangen.
 
 
 ### § 140d
 
 (1) Der Verletzte kann den Verletzer bei einer in gewerblichem Ausmaß
-begangenen Rechtsverletzung in den Fällen des § 139 Abs. 2 auch auf
-Vorlage von Bank-, Finanz- oder Handelsunterlagen oder einen
+begangenen Rechtsverletzung in den Fällen des § 139 Abs. 2 auch
+auf Vorlage von Bank-, Finanz- oder Handelsunterlagen oder einen
 geeigneten Zugang zu den entsprechenden Unterlagen in Anspruch nehmen,
 die sich in der Verfügungsgewalt des Verletzers befinden und die für
 die Durchsetzung des Schadensersatzanspruchs erforderlich sind, wenn
@@ -3989,11 +3759,11 @@ Maßnahmen, um den im Einzelfall gebotenen Schutz zu gewährleisten.
 Inanspruchnahme im Einzelfall unverhältnismäßig ist.
 
 (3) Die Verpflichtung zur Vorlage der in Absatz 1 bezeichneten
-Urkunden kann im Wege der einstweiligen Verfügung nach den §§ 935 bis
-945 der Zivilprozessordnung angeordnet werden, wenn der
+Urkunden kann im Wege der einstweiligen Verfügung nach den §§
+935 bis 945 der Zivilprozessordnung angeordnet werden, wenn der
 Schadensersatzanspruch offensichtlich besteht. Das Gericht trifft die
-erforderlichen Maßnahmen, um den Schutz vertraulicher Informationen zu
-gewährleisten. Dies gilt insbesondere in den Fällen, in denen die
+erforderlichen Maßnahmen, um den Schutz vertraulicher Informationen
+zu gewährleisten. Dies gilt insbesondere in den Fällen, in denen die
 einstweilige Verfügung ohne vorherige Anhörung des Gegners erlassen
 wird.
 
@@ -4038,12 +3808,9 @@ oder des Inhabers eines ergänzenden Schutzzertifikats (§§ 16a, 49a)
     Verkehr bringt, gebraucht oder zu einem der genannten Zwecke entweder
     einführt oder besitzt oder
 
-
 2.  ein Verfahren, das Gegenstand des Patents oder des entsprechenden
     Schutzzertifikats ist (§ 9 Satz 2 Nr. 2), anwendet oder zur Anwendung
     im Geltungsbereich dieses Gesetzes anbietet.
-
-
 
 Satz 1 Nr. 1 ist auch anzuwenden, wenn es sich um ein Erzeugnis
 handelt, das durch ein Verfahren, das Gegenstand des Patents oder des
@@ -4076,8 +3843,8 @@ Bekanntmachung ist im Urteil zu bestimmen.
 ausgeschlossen ist, wird der Verletzer nicht nach den Absätzen 1, 2
 oder 3 bestraft.
 
-(8) Das Strafverfahren ist nach § 262 Absatz 2 der Strafprozessordnung
-auszusetzen, wenn ein Einspruchsverfahren oder ein
+(8) Das Strafverfahren ist nach § 262 Absatz 2 der
+Strafprozessordnung auszusetzen, wenn ein Einspruchsverfahren oder ein
 Nichtigkeitsverfahren gegen das streitgegenständliche Patent anhängig
 ist.
 
@@ -4086,9 +3853,9 @@ ist.
 
 (1) Ein Erzeugnis, das ein nach diesem Gesetz geschütztes Patent
 verletzt, unterliegt auf Antrag und gegen Sicherheitsleistung des
-Rechtsinhabers bei seiner Einfuhr oder Ausfuhr der Beschlagnahme durch
-die Zollbehörde, soweit die Rechtsverletzung offensichtlich ist und
-soweit nicht die Verordnung (EU) Nr. 608/2013 des Europäischen
+Rechtsinhabers bei seiner Einfuhr oder Ausfuhr der Beschlagnahme
+durch die Zollbehörde, soweit die Rechtsverletzung offensichtlich ist
+und soweit nicht die Verordnung (EU) Nr. 608/2013 des Europäischen
 Parlaments und des Rates vom 12. Juni 2013 zur Durchsetzung der Rechte
 geistigen Eigentums durch die Zollbehörden und zur Aufhebung der
 Verordnung (EG) Nr. 1383/2003 des Rates (ABl. L 181 vom 29.6.2013, S.
@@ -4098,18 +3865,18 @@ mit den anderen Vertragsstaaten des Abkommens über den Europäischen
 Wirtschaftsraum nur, soweit Kontrollen durch die Zollbehörden
 stattfinden.
 
-(2) Ordnet die Zollbehörde die Beschlagnahme an, so unterrichtet sie
-unverzüglich den Verfügungsberechtigten sowie den Antragsteller. Dem
-Antragsteller sind Herkunft, Menge und Lagerort des Erzeugnisses sowie
-Name und Anschrift des Verfügungsberechtigten mitzuteilen; das Brief-
-und Postgeheimnis (Artikel 10 des Grundgesetzes) wird insoweit
+(2) Ordnet die Zollbehörde die Beschlagnahme an, so unterrichtet
+sie unverzüglich den Verfügungsberechtigten sowie den Antragsteller.
+Dem Antragsteller sind Herkunft, Menge und Lagerort des Erzeugnisses
+sowie Name und Anschrift des Verfügungsberechtigten mitzuteilen; das
+Brief- und Postgeheimnis (Artikel 10 des Grundgesetzes) wird insoweit
 eingeschränkt. Dem Antragsteller wird Gelegenheit gegeben, das
 Erzeugnis zu besichtigen, soweit hierdurch nicht in Geschäfts- oder
 Betriebsgeheimnisse eingegriffen wird.
 
-(3) Wird der Beschlagnahme nicht spätestens nach Ablauf von zwei
-Wochen nach Zustellung der Mitteilung nach Absatz 2 Satz 1
-widersprochen, so ordnet die Zollbehörde die Einziehung des
+(3) Wird der Beschlagnahme nicht spätestens nach Ablauf von
+zwei Wochen nach Zustellung der Mitteilung nach Absatz 2 Satz
+1 widersprochen, so ordnet die Zollbehörde die Einziehung des
 beschlagnahmten Erzeugnisses an.
 
 (4) Widerspricht der Verfügungsberechtigte der Beschlagnahme, so
@@ -4121,17 +3888,14 @@ aufrechterhält.
 1.  Nimmt der Antragsteller den Antrag zurück, hebt die Zollbehörde die
     Beschlagnahme unverzüglich auf.
 
-
 2.  Hält der Antragsteller den Antrag aufrecht und legt er eine
-    vollziehbare gerichtliche Entscheidung vor, die die Verwahrung des
-    beschlagnahmten Erzeugnisses oder eine Verfügungsbeschränkung
+    vollziehbare gerichtliche Entscheidung vor, die die Verwahrung
+    des beschlagnahmten Erzeugnisses oder eine Verfügungsbeschränkung
     anordnet, trifft die Zollbehörde die erforderlichen Maßnahmen.
 
-
-
 Liegen die Fälle der Nummern 1 oder 2 nicht vor, hebt die Zollbehörde
-die Beschlagnahme nach Ablauf von zwei Wochen nach Zustellung der
-Mitteilung an den Antragsteller nach Satz 1 auf; weist der
+die Beschlagnahme nach Ablauf von zwei Wochen nach Zustellung
+der Mitteilung an den Antragsteller nach Satz 1 auf; weist der
 Antragsteller nach, daß die gerichtliche Entscheidung nach Nummer 2
 beantragt, ihm aber noch nicht zugegangen ist, wird die Beschlagnahme
 für längstens zwei weitere Wochen aufrechterhalten.
@@ -4140,11 +3904,11 @@ für längstens zwei weitere Wochen aufrechterhalten.
 und hat der Antragsteller den Antrag nach Absatz 1 in bezug auf das
 beschlagnahmte Erzeugnis aufrechterhalten oder sich nicht unverzüglich
 erklärt (Absatz 4 Satz 2), so ist er verpflichtet, den dem
-Verfügungsberechtigten durch die Beschlagnahme entstandenen Schaden zu
-ersetzen.
+Verfügungsberechtigten durch die Beschlagnahme entstandenen Schaden
+zu ersetzen.
 
-(6) Der Antrag nach Absatz 1 ist bei der Generalzolldirektion zu
-stellen und hat Wirkung für ein Jahr, sofern keine kürzere
+(6) Der Antrag nach Absatz 1 ist bei der Generalzolldirektion
+zu stellen und hat Wirkung für ein Jahr, sofern keine kürzere
 Geltungsdauer beantragt wird; er kann wiederholt werden. Für die mit
 dem Antrag verbundenen Amtshandlungen werden vom Antragsteller Kosten
 nach Maßgabe des § 178 der Abgabenordnung erhoben.
@@ -4152,8 +3916,8 @@ nach Maßgabe des § 178 der Abgabenordnung erhoben.
 (7) Die Beschlagnahme und die Einziehung können mit den Rechtsmitteln
 angefochten werden, die im Bußgeldverfahren nach dem Gesetz über
 Ordnungswidrigkeiten gegen die Beschlagnahme und Einziehung zulässig
-sind. Im Rechtsmittelverfahren ist der Antragsteller zu hören. Gegen
-die Entscheidung des Amtsgerichts ist die sofortige Beschwerde
+sind. Im Rechtsmittelverfahren ist der Antragsteller zu hören.
+Gegen die Entscheidung des Amtsgerichts ist die sofortige Beschwerde
 zulässig; über sie entscheidet das Oberlandesgericht.
 
 
@@ -4167,11 +3931,10 @@ enthält, die dem entgegenstehen.
 ## Zehnter Abschnitt - Verfahren in Patentstreitsachen
 
 
-
 ### § 143
 
-(1) Für alle Klagen, durch die ein Anspruch aus einem der in diesem
-Gesetz geregelten Rechtsverhältnisse geltend gemacht wird
+(1) Für alle Klagen, durch die ein Anspruch aus einem der in
+diesem Gesetz geregelten Rechtsverhältnisse geltend gemacht wird
 (Patentstreitsachen), sind die Zivilkammern der Landgerichte ohne
 Rücksicht auf den Streitwert ausschließlich zuständig.
 
@@ -4183,16 +3946,16 @@ außerdem durch Vereinbarung den Gerichten eines Landes obliegende
 Aufgaben insgesamt oder teilweise dem zuständigen Gericht eines
 anderen Landes übertragen.
 
-(3) Von den Kosten, die durch die Mitwirkung eines Patentanwalts in
-dem Rechtsstreit entstehen, sind die Gebühren nach § 13 des
+(3) Von den Kosten, die durch die Mitwirkung eines Patentanwalts
+in dem Rechtsstreit entstehen, sind die Gebühren nach § 13 des
 Rechtsanwaltsvergütungsgesetzes und außerdem die notwendigen Auslagen
 des Patentanwalts zu erstatten.
 
 
 ### § 144
 
-(1) Macht in einer Patentstreitsache eine Partei glaubhaft, daß die
-Belastung mit den Prozeßkosten nach dem vollen Streitwert ihre
+(1) Macht in einer Patentstreitsache eine Partei glaubhaft, daß
+die Belastung mit den Prozeßkosten nach dem vollen Streitwert ihre
 wirtschaftliche Lage erheblich gefährden würde, so kann das Gericht
 auf ihren Antrag anordnen, daß die Verpflichtung dieser Partei zur
 Zahlung von Gerichtskosten sich nach einem ihrer Wirtschaftslage
@@ -4207,9 +3970,9 @@ Gegner auferlegt oder von ihm übernommen werden, kann der Rechtsanwalt
 der begünstigten Partei seine Gebühren von dem Gegner nach dem für
 diesen geltenden Streitwert beitreiben.
 
-(2) Der Antrag nach Absatz 1 kann vor der Geschäftsstelle des Gerichts
-zur Niederschrift erklärt werden. Er ist vor der Verhandlung zur
-Hauptsache anzubringen. Danach ist er nur zulässig, wenn der
+(2) Der Antrag nach Absatz 1 kann vor der Geschäftsstelle des
+Gerichts zur Niederschrift erklärt werden. Er ist vor der Verhandlung
+zur Hauptsache anzubringen. Danach ist er nur zulässig, wenn der
 angenommene oder festgesetzte Streitwert später durch das Gericht
 heraufgesetzt wird. Vor der Entscheidung über den Antrag ist der
 Gegner zu hören.
@@ -4217,9 +3980,9 @@ Gegner zu hören.
 
 ### § 145
 
-Wer eine Klage nach § 139 erhoben hat, kann gegen den Beklagten wegen
-derselben oder einer gleichartigen Handlung auf Grund eines anderen
-Patents nur dann eine weitere Klage erheben, wenn er ohne sein
+Wer eine Klage nach § 139 erhoben hat, kann gegen den Beklagten
+wegen derselben oder einer gleichartigen Handlung auf Grund eines
+anderen Patents nur dann eine weitere Klage erheben, wenn er ohne sein
 Verschulden nicht in der Lage war, auch dieses Patent in dem früheren
 Rechtsstreit geltend zu machen.
 
@@ -4227,16 +3990,15 @@ Rechtsstreit geltend zu machen.
 ### § 145a
 
 In Patentstreitsachen mit Ausnahme von selbstständigen Beweisverfahren
-sowie in Zwangslizenzverfahren gemäß § 81 Absatz 1 Satz 1 sind die §§
-16 bis 20 des Gesetzes zum Schutz von Geschäftsgeheimnissen vom 18.
-April 2019 (BGBl. I S. 466) entsprechend anzuwenden. Als
+sowie in Zwangslizenzverfahren gemäß § 81 Absatz 1 Satz 1 sind
+die §§ 16 bis 20 des Gesetzes zum Schutz von Geschäftsgeheimnissen
+vom 18. April 2019 (BGBl. I S. 466) entsprechend anzuwenden. Als
 streitgegenständliche Informationen im Sinne des § 16 Absatz 1 des
 Gesetzes zum Schutz von Geschäftsgeheimnissen gelten sämtliche von
 Kläger und Beklagtem in das Verfahren eingeführten Informationen.
 
 
 ## Elfter Abschnitt - Patentberühmung
-
 
 
 ### § 146
@@ -4255,7 +4017,6 @@ sich die Verwendung der Bezeichnung stützt.
 ## Zwölfter Abschnitt - Übergangsvorschriften
 
 
-
 ### § 147
 
 (1) Artikel 229 § 6 des Einführungsgesetzes zum Bürgerlichen
@@ -4264,19 +4025,19 @@ Abs. 3 und § 141 in der bis zum 1. Januar 2002 geltenden Fassung den
 Vorschriften des Bürgerlichen Gesetzbuchs über die Verjährung in der
 bis zum 1. Januar 2002 geltenden Fassung gleichgestellt sind.
 
-(2) Für Verfahren wegen Erklärung der Nichtigkeit des Patents oder des
-ergänzenden Schutzzertifikats oder wegen Erteilung oder Rücknahme der
-Zwangslizenz oder wegen der Anpassung der durch Urteil festgesetzten
-Vergütung für eine Zwangslizenz, die vor dem 18. August 2021 durch
-Klage beim Bundespatentgericht eingeleitet wurden, sind die
+(2) Für Verfahren wegen Erklärung der Nichtigkeit des Patents
+oder des ergänzenden Schutzzertifikats oder wegen Erteilung oder
+Rücknahme der Zwangslizenz oder wegen der Anpassung der durch Urteil
+festgesetzten Vergütung für eine Zwangslizenz, die vor dem 18. August
+2021 durch Klage beim Bundespatentgericht eingeleitet wurden, sind die
 Vorschriften dieses Gesetzes in der bis zum 17. August 2021 geltenden
 Fassung weiter anzuwenden.
 
 (3) Für Verfahren, in denen ein Antrag auf ein Zusatzpatent gestellt
 worden ist oder nach § 16 Absatz 1 Satz 2 dieses Gesetzes in der vor
-dem 1. April 2014 geltenden Fassung noch gestellt werden kann oder ein
-Zusatzpatent in Kraft ist, sind § 16 Absatz 1 Satz 2, Absatz 2, § 17
-Absatz 2, § 23 Absatz 1, § 42 Absatz 2 Satz 1 Nummer 4, Satz 2 und
+dem 1. April 2014 geltenden Fassung noch gestellt werden kann oder
+ein Zusatzpatent in Kraft ist, sind § 16 Absatz 1 Satz 2, Absatz 2, §
+17 Absatz 2, § 23 Absatz 1, § 42 Absatz 2 Satz 1 Nummer 4, Satz 2 und
 Absatz 3 Satz 1 sowie § 43 Absatz 2 Satz 4 dieses Gesetzes in ihrer
 bis zum 1. April 2014 geltenden Fassung weiter anzuwenden.
 

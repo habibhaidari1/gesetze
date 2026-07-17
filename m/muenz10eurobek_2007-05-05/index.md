@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im  Nennwert
-  von 10 Euro (Gedenkmünze "175. Geburtstag von Wilhelm Busch")
+Title: "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze \"175. Geburtstag von Wilhelm Busch\")"
 jurabk: Münz10EuroBek 2007-05-05
 layout: default
 origslug: m_nz10eurobek_2007-05-05
@@ -8,14 +7,13 @@ slug: muenz10eurobek_2007-05-05
 
 ---
 
-# Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im  Nennwert von 10 Euro (Gedenkmünze "175. Geburtstag von Wilhelm Busch") (Münz10EuroBek 2007-05-05)
+# Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze "175. Geburtstag von Wilhelm Busch") (Münz10EuroBek 2007-05-05)
 
 Ausfertigungsdatum
 :   2007-05-05
 
 Fundstelle
 :   BGBl I: 2007, 743
-
 
 
 ## (XXXX)
@@ -43,9 +41,7 @@ DEUTSCHLAND", die Wertziffer und Wertbezeichnung, die Jahreszahl 2007
 sowie das Prägezeichen "D" des Bayerischen Hauptmünzamtes, München.
 Der glatte Münzrand enthält in vertiefter Prägung die Inschrift:
 
-*   "WER RUDERT, SIEHT DEN GRUND NICHT.".
-
-
+-   "WER RUDERT, SIEHT DEN GRUND NICHT.".
 
 Der Entwurf der Münze stammt von Herrn Othmar Kukula aus Neuhausen.
 
@@ -58,4 +54,6 @@ Der Bundesminister der Finanzen
 ## (XXXX)
 
 (Fundstelle: BGBl. I 2007, 743)
+
 ![bgbl1_2007_j0743_0010.jpg](bgbl1_2007_j0743_0010.jpg)
+

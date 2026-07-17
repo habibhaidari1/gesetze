@@ -1,6 +1,5 @@
 ---
-Title: Zweite Verordnung zur Anpassung der Renten und zu den maßgeblichen Rechengrößen
-  in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
+Title: Zweite Verordnung zur Anpassung der Renten und zu den maßgeblichen Rechengrößen in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
 jurabk: RAV 2
 layout: default
 origslug: rav_2
@@ -29,14 +28,11 @@ Auf Grund der
     Artikel 1 des Gesetzes vom 23. September 1990 (BGBl. 1990 II S. 885,
     1046) und der
 
-
 -   Anlage II Kapitel VIII Sachgebiet F Abschnitt III Nr. 1 des
-    Einigungsvertrages vom 31. August 1990 in Verbindung mit Artikel 1 des
-    Gesetzes vom 23. September 1990 (BGBl. 1990 II S. 885, 1213) und § 42
-    Abs. 2 des Gesetzes über die Sozialversicherung vom 28. Juni 1990
+    Einigungsvertrages vom 31. August 1990 in Verbindung mit Artikel 1
+    des Gesetzes vom 23. September 1990 (BGBl. 1990 II S. 885, 1213) und
+    § 42 Abs. 2 des Gesetzes über die Sozialversicherung vom 28. Juni 1990
     (GBl. I Nr. 38 S. 486)
-
-
 
 verordnet der Bundesminister für Arbeit und Sozialordnung und auf
 Grund der
@@ -47,12 +43,9 @@ Grund der
     19 des Rentenangleichungsgesetzes vom 28. Juni 1990 (GBl. I Nr. 38 S.
     495) und der
 
-
 -   Anlage II Kapitel VIII Sachgebiet H Abschnitt III Nr. 9 Buchstabe f
     des Einigungsvertrages vom 31. August 1990 in Verbindung mit Artikel 1
     des Gesetzes vom 23. September 1990 (BGBl. 1990 II S. 885, 1216)
-
-
 
 verordnet die Bundesregierung:
 
@@ -101,11 +94,11 @@ Dies gilt nicht für Kinderzuschläge zu Unfallrenten.
 
 ## § 6 Kriegsbeschädigtenrenten
 
-Kriegsbeschädigtenrenten werden dadurch angepaßt, daß der sich für den
-Monat Juli 1991 ergebende anpassungsfähige Betrag um 15 vom Hundert
-erhöht wird. Abweichend von Satz 1 ist die Regelung über die
-Anrechnung von Einkommen auf die Kriegsbeschädigtenrente (§ 7 Abs. 2
-Satz 1 des Rentenangleichungsgesetzes) auf die angepaßte Rente
+Kriegsbeschädigtenrenten werden dadurch angepaßt, daß der sich für
+den Monat Juli 1991 ergebende anpassungsfähige Betrag um 15 vom
+Hundert erhöht wird. Abweichend von Satz 1 ist die Regelung über die
+Anrechnung von Einkommen auf die Kriegsbeschädigtenrente (§ 7 Abs.
+2 Satz 1 des Rentenangleichungsgesetzes) auf die angepaßte Rente
 anzuwenden.
 
 
@@ -118,42 +111,18 @@ den Sozialzuschlag nicht angerechnet.
 ## § 8 Renten mit Zusatzversorgung
 
 (1) Anpassungsbeträge nach den §§ 4 und 5 werden auf gleichartige
-zusätzliche Versorgungen in Höhe des Betrages angerechnet, um den sie
-zusammen mit den bisherigen Zahlbeträgen der Rente und der
+zusätzliche Versorgungen in Höhe des Betrages angerechnet, um den
+sie zusammen mit den bisherigen Zahlbeträgen der Rente und der
 gleichartigen zusätzlichen Versorgung den nach Absatz 2 maßgebenden
 Grenzwert überschreiten.
 
 (2) Die Grenzwerte betragen für
 
-*    *   1.
-
-    *   Versicherte
-
-    *   1.500 DM,
-
-
-*    *   2.
-
-    *   Witwen oder Witwer
-
-    *   900 DM,
-
-
-*    *   3.
-
-    *   Vollwaisen
-
-    *   600 DM,
-
-
-*    *   4.
-
-    *   Halbwaisen
-
-    *   450 DM.
-
-
-
+| 1. | Versicherte | 1.500 DM, |
+| --- | --- | --- |
+| 2. | Witwen oder Witwer | 900 DM, |
+| 3. | Vollwaisen | 600 DM, |
+| 4. | Halbwaisen | 450 DM. |
 
 
 ## § 9 Renten mit Sonderversorgung
@@ -175,86 +144,26 @@ haben.
 In der Zeit vom 1. Juli 1991 bis 31. Dezember 1991 entstehende
 Rentenansprüche sind nach den sonst maßgebenden Vorschriften zu
 ermitteln und nach der 1. Rentenanpassungsverordnung sowie dieser
-Verordnung anzupassen. Für sie gelten anstelle der in der Anlage zum
-Rentenangleichungsgesetz enthaltenen Prozentsätze folgende
+Verordnung anzupassen. Für sie gelten anstelle der in der Anlage
+zum Rentenangleichungsgesetz enthaltenen Prozentsätze folgende
 Prozentsätze:
 
-*    *   Arbeitsjahre
-
-    *   Prozentsatz
-
-
-*    *   51 und mehr
-
-    *   14,18
-
-
-*    *   50
-
-    *   13,13
-
-
-*    *   49
-
-    *   11,89
-
-
-*    *   48
-
-    *   10,79
-
-
-*    *   47
-
-    *   9,50
-
-
-*    *   46
-
-    *   8,35
-
-
-*    *   45
-
-    *   7,01
-
-
-*    *   44
-
-    *   5,81
-
-
-*    *   43
-
-    *   4,41
-
-
-*    *   42
-
-    *   3,16
-
-
-*    *   41
-
-    *   1,71
-
-
-*    *   40
-
-    *   0,39
-
-
-*    *   39
-
-    *   0,59
-
-
-*    *   unter 39
-
-    *   0,00
-
-
-
+| Arbeitsjahre | Prozentsatz |
+| --- | --- |
+| 51 und mehr | 14,18 |
+| 50 | 13,13 |
+| 49 | 11,89 |
+| 48 | 10,79 |
+| 47 | 9,50 |
+| 46 | 8,35 |
+| 45 | 7,01 |
+| 44 | 5,81 |
+| 43 | 4,41 |
+| 42 | 3,16 |
+| 41 | 1,71 |
+| 40 | 0,39 |
+| 39 | 0,59 |
+| unter 39 | 0,00 |
 
 
 ## § 11 Inkrafttreten

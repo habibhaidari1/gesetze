@@ -33,11 +33,10 @@ beschlossen:
 ## (XXXX) Art 2 bis 43
 
 
-
 ## Art 44 Rückkehr zum einheitlichen Verordnungsrang
 
-Die auf den Artikeln 17, 18, 20, 21, 30, 33, 34, 35, 36, 37, 38, 39
-und 42 beruhenden Teile der dort geänderten Verordnungen können
+Die auf den Artikeln 17, 18, 20, 21, 30, 33, 34, 35, 36, 37, 38,
+39 und 42 beruhenden Teile der dort geänderten Verordnungen können
 aufgrund der jeweils einschlägigen Ermächtigung in Verbindung mit
 diesem Artikel durch Rechtsverordnung geändert oder aufgehoben werden.
 
@@ -47,8 +46,8 @@ diesem Artikel durch Rechtsverordnung geändert oder aufgehoben werden.
 Das Bundesministerium für Arbeit und Sozialordnung kann den Wortlaut
 des Gesetzes zur Förderung der Einstellung der landwirtschaftlichen
 Erwerbstätigkeit in der vom Inkrafttreten dieses Gesetzes an geltenden
-Fassung im Bundesgesetzblatt bekanntmachen. Das Bundesministerium für
-Gesundheit kann den Wortlaut des Zweiten Gesetzes über die
+Fassung im Bundesgesetzblatt bekanntmachen. Das Bundesministerium
+für Gesundheit kann den Wortlaut des Zweiten Gesetzes über die
 Krankenversicherung der Landwirte in der vom Inkrafttreten dieses
 Gesetzes an geltenden Fassung im Bundesgesetzblatt bekanntmachen.
 
@@ -65,11 +64,7 @@ Gebiet in Kraft
     geändert durch Artikel 12 des Gesetzes vom 29. Juli 1994 (BGBl. I S.
     1890), und
 
-
 2.  die Stillegungsverordnung vom 14. Juni 1989 (BGBl. I S. 1095).
-
-
-
 
 
 ## Art 47 Aufhebung von Vorschriften

@@ -30,16 +30,11 @@ dieser Verordnung angemessen gestaltet werden.
 
 1.  für Entgelte, die sich nach dem Bundeskleingartengesetz richten,
 
-
 2.  für vor dem 3. Oktober 1990 abgeschlossene unentgeltliche
     Nutzungsverhältnisse nach § 312 des Zivilgesetzbuchs der Deutschen
     Demokratischen Republik und
 
-
 3.  für Überlassungsverträge.
-
-
-
 
 
 ## § 2 Abweichende Entgeltvereinbarungen
@@ -51,10 +46,7 @@ vor, die vor dem 3. Oktober 1990 getroffen worden sind.
 
 1.  über Nutzungsentgelte oder
 
-
 2.  über den Ausschluss der Erhöhung des Nutzungsentgelts
-
-
 
 bleiben unberührt. Solche Vereinbarungen sind auch weiterhin zulässig.
 
@@ -76,27 +68,20 @@ die Erhöhung in folgenden Schritten vorgenommen werden:
     baulich genutzten Grundstücken auf 0,30 Deutsche Mark je Quadratmeter
     Bodenfläche im Jahr,
 
-
 2.  ab dem 1. November 1994 auf das Doppelte der sich nach Nummer 1
     ergebenden Entgelte,
-
 
 3.  ab dem 1. November 1995 auf das Doppelte der sich nach Nummer 2
     ergebenden Entgelte,
 
-
 4.  ab dem 1. November 1997 höchstens um die Hälfte der sich nach Nummer 3
     ergebenden Entgelte.
-
 
 5.  ab dem 1. November 1998 jährlich höchstens um ein Drittel der sich
     nach Nummer 3 ergebenden Entgelte.
 
-
-
-
-(2) Ortsüblich sind die Entgelte, die nach dem 2. Oktober 1990 in der
-Gemeinde oder in vergleichbaren Gemeinden für Grundstücke
+(2) Ortsüblich sind die Entgelte, die nach dem 2. Oktober 1990
+in der Gemeinde oder in vergleichbaren Gemeinden für Grundstücke
 vergleichbarer Art, Größe, Beschaffenheit und Lage vereinbart worden
 sind. Für die Vergleichbarkeit ist die tatsächliche Nutzung unter
 Berücksichtigung der Art und des Umfangs der Bebauung der Grundstücke
@@ -111,15 +96,15 @@ tatsächlichen Nutzung des Grundstücks zu ermitteln.
 
 ## § 4 Entgelterhöhung bei vertragwidriger Nutzung
 
-(1) Im Falle einer vertragwidrigen Nutzung des Grundstücks dürfen die
-Entgelte ohne die Beschränkung des § 3 Abs. 1 bis zur Höhe der
+(1) Im Falle einer vertragwidrigen Nutzung des Grundstücks dürfen
+die Entgelte ohne die Beschränkung des § 3 Abs. 1 bis zur Höhe der
 ortsüblichen Entgelte erhöht werden.
 
 (2) Vertragwidrig ist eine Nutzung, die nach §§ 312 und 313 des
-Zivilgesetzbuchs der Deutschen Demokratischen Republik nicht zulässig
-ist. Hat der Eigentümer die Nutzung genehmigt oder wurde die Nutzung
-von staatlichen Stellen der Deutschen Demokratischen Republik
-genehmigt oder gebilligt, so gilt die Nutzung nicht als
+Zivilgesetzbuchs der Deutschen Demokratischen Republik nicht
+zulässig ist. Hat der Eigentümer die Nutzung genehmigt oder wurde
+die Nutzung von staatlichen Stellen der Deutschen Demokratischen
+Republik genehmigt oder gebilligt, so gilt die Nutzung nicht als
 vertragswidrig.
 
 
@@ -139,8 +124,8 @@ Einstellen von Kraftfahrzeugen ist.
 ## § 6 Erklärung über die Entgelterhöhung
 
 (1) Will der Überlassende das Nutzungsentgelt nach dieser Verordnung
-erhöhen, so hat er dem Nutzer das Erhöhungsverlangen in Textform zu
-erklären und zu begründen. Dabei ist anzugeben, dass mit dem
+erhöhen, so hat er dem Nutzer das Erhöhungsverlangen in Textform
+zu erklären und zu begründen. Dabei ist anzugeben, dass mit dem
 Erhöhungsverlangen die ortsüblichen Entgelte nicht überschritten
 werden. Zur Begründung kann der Überlassende insbesondere Bezug nehmen
 auf
@@ -150,20 +135,15 @@ auf
     oder eine Auskunft des Gutachterausschusses über die in seinem
     Geschäftsbereich vereinbarten Entgelte nach § 7,
 
-
 2.  ein Gutachten eines öffentlich bestellten und vereidigten
     Sachverständigen über die ortsüblichen Nutzungsentgelte für
     vergleichbar genutzte Grundstücke,
 
-
 3.  entsprechende Entgelte für die Nutzung einzelner vergleichbarer
     Grundstücke; hierbei genügt die Benennung von drei Grundstücken.
 
-
-
-
-(2) Die Erklärung hat die Wirkung, dass von dem Beginn des dritten auf
-die Erklärung folgenden Monats das erhöhte Nutzungsentgelt an die
+(2) Die Erklärung hat die Wirkung, dass von dem Beginn des dritten
+auf die Erklärung folgenden Monats das erhöhte Nutzungsentgelt an die
 Stelle des bisher entrichteten Entgelts tritt. Vom Nutzer im voraus
 entrichtete Zahlungen sind anzurechnen.
 

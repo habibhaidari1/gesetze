@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über den Vorbereitungsdienst für den gehobenen nichttechnischen
-  Verwaltungsdienst in der Bundeswehrverwaltung
+Title: Verordnung über den Vorbereitungsdienst für den gehobenen nichttechnischen Verwaltungsdienst in der Bundeswehrverwaltung
 jurabk: GntDBwVVDV
 layout: default
 origslug: gntdbwvvdv
@@ -16,7 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2019, 205
 
-Stand: Ersetzt V 2030-7-12-3 v. 14.3.2005 I 779 (LAP-gntDBWVV 2005)
+Zuletzt geändert durch
+:   Art. 2 Abs. 24 V v. 11.3.2026 I Nr. 67
+
+Stand
+:   Ersetzt V 2030-7-12-3 v. 14.3.2005 I 779 (LAP-gntDBWVV 2005)
+
 
 ## Eingangsformel
 
@@ -37,16 +41,16 @@ das Bundesministerium der Verteidigung:
 
 ### § 1 Studium
 
-Das Studium „Bachelor of Public Administration“ an der Hochschule des
-Bundes für öffentliche Verwaltung (Hochschule) ist der
+Das Studium „Bachelor of Public Administration“ an der Hochschule
+des Bundes für öffentliche Verwaltung (Hochschule) ist der
 Vorbereitungsdienst für die Laufbahn des gehobenen nichttechnischen
 Verwaltungsdienstes in der Bundeswehrverwaltung.
 
 
 ### § 2 Ziele des Studiums
 
-Das Studium vermittelt in enger Verbindung von Wissenschaft und Praxis
-die wissenschaftlichen Methoden und Kenntnisse sowie die
+Das Studium vermittelt in enger Verbindung von Wissenschaft und
+Praxis die wissenschaftlichen Methoden und Kenntnisse sowie die
 berufspraktischen Fähigkeiten, die erforderlich sind, um die Aufgaben
 des gehobenen nichttechnischen Dienstes in der Bundeswehrverwaltung
 erfüllen zu können.
@@ -57,8 +61,8 @@ erfüllen zu können.
 (1) Einstellungsbehörde ist das Bundesamt für das Personalmanagement
 der Bundeswehr.
 
-(2) Die Einstellungsbehörde entscheidet über eine Verkürzung oder
-Verlängerung des Vorbereitungsdienstes. Sie ist die
+(2) Die Einstellungsbehörde entscheidet über eine Verkürzung
+oder Verlängerung des Vorbereitungsdienstes. Sie ist die
 personalbearbeitende Dienststelle der Studierenden.
 
 (3) Die Einstellungsbehörde kann einzelne Aufgaben auf eine
@@ -74,12 +78,8 @@ Einstellungsbehörde.
 
 1.  während der Fachmodule der Dienstaufsicht der Hochschulleitung,
 
-
 2.  während der Praxismodule der Dienstaufsicht der Leitung der jeweiligen
     Ausbildungsbehörde.
-
-
-
 
 
 ### § 5 Nachteilsausgleich
@@ -98,15 +98,10 @@ herabgesetzt werden.
 
 1.  im Auswahlverfahren die Einstellungsbehörde,
 
-
 2.  bei den Prüfungen im Studium das Prüfungsamt der Hochschule und
 
-
-3.  bei den Prüfungen in den Praxismodulen die Ausbildungsstelle im
-    Einvernehmen mit dem Prüfungsamt der Hochschule.
-
-
-
+3.  bei den Prüfungen in den Praxismodulen das Prüfungsamt der Hochschule
+    im Benehmen mit der Ausbildungsstelle.
 
 
 ### § 6 Erholungsurlaub
@@ -115,12 +110,8 @@ Die Zeiten des Erholungsurlaubs bestimmt
 
 1.  während der Fachmodule die Hochschule und
 
-
 2.  während der Praxismodule die Einstellungsbehörde im Benehmen mit der
     Hochschule.
-
-
-
 
 
 ### § 7 Elektronisches Informations- und Kommunikationssystem
@@ -135,16 +126,12 @@ dass jede Studierende und jeder Studierende
 
 1.  einen passwortgeschützten persönlichen Zugang erhält und
 
-
 2.  ein eigenes Datenprofil anlegen kann.
-
-
-
 
 (3) Soweit die Hochschule den Studierenden die für die Organisation
 und die Durchführung des Studiums einschließlich Prüfungsverfahren
-notwendigen Informationen über ein elektronisches Informations- und
-Kommunikationssystem zur Verfügung stellt, obliegt es den
+notwendigen Informationen über ein elektronisches Informations-
+und Kommunikationssystem zur Verfügung stellt, obliegt es den
 Studierenden, diese Informationen aus dem elektronischen Informations-
 und Kommunikationssystem abzurufen.
 
@@ -153,15 +140,10 @@ und Kommunikationssystem abzurufen.
 1.  für den sorgfältigen Umgang mit ihrem oder seinem Passwort für den
     Zugang zum elektronischen Informations- und Kommunikationssystem,
 
-
 2.  für den Umgang mit den Daten, die sie oder er aus dem Informations-
     und Kommunikationssystem abruft, sowie
 
-
 3.  für die Pflege des eigenen Datenprofils.
-
-
-
 
 
 ## Abschnitt 2 - Auswahlverfahren und Einstellung
@@ -176,8 +158,8 @@ ihrer Kenntnisse, Fähigkeiten und persönlichen Eigenschaften für den
 Vorbereitungsdienst geeignet und befähigt sind. Die Hochschule ist an
 der Ausgestaltung des Auswahlverfahrens zu beteiligen.
 
-(2) Wird die Zahl der am Auswahlverfahren Teilnehmenden nach § 10a
-Absatz 3 der Bundeslaufbahnverordnung beschränkt, so werden
+(2) Wird die Zahl der am Auswahlverfahren Teilnehmenden nach §
+11 Absatz 4 der Bundeslaufbahnverordnung beschränkt, so werden
 schwerbehinderte Menschen und gleichgestellte behinderte Menschen
 sowie ehemalige Soldatinnen auf Zeit und Soldaten auf Zeit mit
 Eingliederungs- oder Zulassungsschein zusätzlich und ohne Beschränkung
@@ -203,20 +185,13 @@ und Bewerber die Anforderungen an ihre Eignung und Befähigung
 
 1.  Selbstkompetenz,
 
-
 2.  Methodenkompetenz,
-
 
 3.  Fachkompetenz,
 
-
 4.  Sozialkompetenz sowie
 
-
 5.  Führungs- und Managementkompetenz.
-
-
-
 
 (3) Die Feststellung erfolgt mit Hilfe von Auswahlinstrumenten. Der
 Einsatz der Auswahlinstrumente kann durch Informationstechnologie
@@ -234,9 +209,9 @@ Auswahlmaßstab anlegen.
 (2) Eine Auswahlkommission besteht aus einer oder einem Vorsitzenden
 und weiteren Mitgliedern.
 
-(3) Die Mitglieder der Auswahlkommission sind hauptamtlich tätig oder
-werden für fünf Jahre bestellt. Wiederbestellung ist zulässig. Die
-Einstellungsbehörde bestellt eine hinreichende Zahl von
+(3) Die Mitglieder der Auswahlkommission sind hauptamtlich tätig
+oder werden für fünf Jahre bestellt. Wiederbestellung ist zulässig.
+Die Einstellungsbehörde bestellt eine hinreichende Zahl von
 Ersatzmitgliedern. Eine Angehörige oder ein Angehöriger der Hochschule
 kann an den Auswahlverfahren als stimmberechtigtes Mitglied der
 Auswahlkommission teilnehmen.
@@ -259,28 +234,19 @@ nicht stimmberechtigt.
 
 1.  die Eignungsmerkmale und ihre Definition,
 
-
 2.  die Zuordnung der Eignungsmerkmale zu den Kompetenzbereichen,
-
 
 3.  die Auswahlinstrumente, die im Auswahlverfahren eingesetzt werden,
 
-
 4.  die Zuordnung der Auswahlinstrumente zu den Eignungsmerkmalen,
-
 
 5.  die Einzelheiten der Besetzung der Auswahlkommission,
 
-
 6.  die Bewertungs- und Gewichtungssystematik sowie
 
-
-7.  das Mindestergebnis für das Bestehen des Auswahlverfahrens und zudem,
-    für welche Eignungsmerkmale oder für welche Gruppen von
+7.  das Mindestergebnis für das Bestehen des Auswahlverfahrens und
+    zudem, für welche Eignungsmerkmale oder für welche Gruppen von
     Eignungsmerkmalen Mindestergebnisse verlangt werden.
-
-
-
 
 (2) Jedes Eignungsmerkmal soll mindestens durch zwei
 Auswahlinstrumente erfasst werden.
@@ -302,20 +268,13 @@ der folgenden Auswahlinstrumente eingesetzt werden:
 
 1.  Leistungstest,
 
-
 2.  Persönlichkeitstest,
-
 
 3.  biographischer Fragebogen,
 
-
 4.  Simulationsaufgabe und
 
-
 5.  Aufsatz.
-
-
-
 
 (2) Der schriftliche Teil des Auswahlverfahrens dauert in der Regel
 einen Arbeitstag.
@@ -323,8 +282,8 @@ einen Arbeitstag.
 
 ### § 14 Zulassung zum mündlichen Teil des Auswahlverfahrens
 
-(1) Zum mündlichen Teil des Auswahlverfahrens wird zugelassen, wer bei
-den Eignungsmerkmalen, die ausschließlich im schriftlichen Teil
+(1) Zum mündlichen Teil des Auswahlverfahrens wird zugelassen, wer
+bei den Eignungsmerkmalen, die ausschließlich im schriftlichen Teil
 bewertet werden, das festgelegte Mindestergebnis erreicht hat.
 
 (2) Schwerbehinderte Bewerberinnen und Bewerber und gleichgestellte
@@ -340,20 +299,13 @@ folgenden Auswahlinstrumente eingesetzt werden:
 
 1.  halbstrukturiertes Interview,
 
-
 2.  Gruppenaufgaben,
-
 
 3.  Präsentation,
 
-
 4.  Gruppendiskussion und
 
-
 5.  Referat.
-
-
-
 
 (2) Der mündliche Teil des Auswahlverfahrens dauert in der Regel
 eineinhalb Arbeitstage.
@@ -362,8 +314,8 @@ eineinhalb Arbeitstage.
 Personalrats teilnehmen.
 
 (4) Sofern schwerbehinderte Bewerberinnen und Bewerber oder
-gleichgestellte behinderte Bewerberinnen und Bewerber teilnehmen, ist
-der zuständigen Schwerbehindertenvertretung die Teilnahme am
+gleichgestellte behinderte Bewerberinnen und Bewerber teilnehmen,
+ist der zuständigen Schwerbehindertenvertretung die Teilnahme am
 mündlichen Teil des Auswahlverfahrens und an den sich gegebenenfalls
 anschließenden Beratungen zu ermöglichen. Dies gilt nicht, wenn die
 schwerbehinderten Bewerberinnen und Bewerber oder die gleichgestellten
@@ -373,13 +325,13 @@ Schwerbehindertenvertretung ausdrücklich ablehnen.
 
 ### § 16 Bewertung der Eignungsmerkmale
 
-(1) Die Auswahlkommission bewertet für jedes Eignungsmerkmal die mit
-den verschiedenen Auswahlinstrumenten erfassten Leistungen und fasst
-die Leistungen zu einem Gesamtergebnis für das Eignungsmerkmal
+(1) Die Auswahlkommission bewertet für jedes Eignungsmerkmal die
+mit den verschiedenen Auswahlinstrumenten erfassten Leistungen und
+fasst die Leistungen zu einem Gesamtergebnis für das Eignungsmerkmal
 zusammen.
 
-(2) Bei der Bewertung von Leistungen im schriftlichen Teil des
-Auswahlverfahrens kann sich die Auswahlkommission durch
+(2) Bei der Bewertung von Leistungen im schriftlichen Teil
+des Auswahlverfahrens kann sich die Auswahlkommission durch
 Informationstechnologie und durch dafür ausgebildete Beschäftigte
 unterstützen lassen. Die Bewertungsentscheidungen dürfen nicht
 ausschließlich auf eine automatisierte Auswertung gestützt werden.
@@ -387,10 +339,10 @@ ausschließlich auf eine automatisierte Auswertung gestützt werden.
 
 ### § 17 Gesamtergebnis und Rangfolge
 
-(1) Für die Bewerberinnen und Bewerber, die an beiden Teilen des
-Auswahlverfahrens teilgenommen haben, ermittelt die Auswahlkommission
-das Gesamtergebnis des Auswahlverfahrens gemäß der von der
-Einstellungsbehörde festgelegten Bewertungs- und
+(1) Für die Bewerberinnen und Bewerber, die an beiden Teilen
+des Auswahlverfahrens teilgenommen haben, ermittelt die
+Auswahlkommission das Gesamtergebnis des Auswahlverfahrens gemäß
+der von der Einstellungsbehörde festgelegten Bewertungs- und
 Gewichtungssystematik.
 
 (2) Sofern die Einstellungsbehörde in ihrer Gewichtungssystematik
@@ -399,16 +351,16 @@ Eignungsmerkmale festgelegt hat, gehen die Gesamtergebnisse der
 einzelnen Eignungsmerkmale mit gleichem Gewicht in das Gesamtergebnis
 des Auswahlverfahrens ein.
 
-(3) Das Auswahlverfahren hat bestanden, wer die Mindestergebnisse für
-einzelne Eignungsmerkmale, die Mindestergebnisse für Gruppen von
-Eignungsmerkmalen und das Mindestergebnis für das Bestehen des
+(3) Das Auswahlverfahren hat bestanden, wer die Mindestergebnisse
+für einzelne Eignungsmerkmale, die Mindestergebnisse für Gruppen
+von Eignungsmerkmalen und das Mindestergebnis für das Bestehen des
 Auswahlverfahrens erreicht hat.
 
 (4) Die Auswahlkommission legt anhand der ermittelten Gesamtergebnisse
 eine Rangfolge der Bewerberinnen und Bewerber fest, die das
 Auswahlverfahren bestanden haben. Sind mehrere Auswahlkommissionen
-eingerichtet worden, so wird eine Rangfolge aller Bewerberinnen und
-Bewerber festgelegt, die das Auswahlverfahren bestanden haben.
+eingerichtet worden, so wird eine Rangfolge aller Bewerberinnen
+und Bewerber festgelegt, die das Auswahlverfahren bestanden haben.
 Schwerbehinderte Bewerberinnen und Bewerber und gleichgestellte
 Bewerberinnen und Bewerber werden bei gleichem Gesamtergebnis in der
 Rangfolge vor den anderen Bewerberinnen und Bewerbern geführt.
@@ -423,16 +375,11 @@ wer
 1.  über eine Hochschulzugangsberechtigung verfügt, die in Baden-
     Württemberg zum Studium berechtigt,
 
-
 2.  erfolgreich am Auswahlverfahren teilgenommen hat und
 
-
-3.  nach amtsärztlichem Gutachten die gesundheitlichen Anforderungen des
-    gehobenen nichttechnischen Verwaltungsdienstes in der
+3.  nach amtsärztlichem Gutachten die gesundheitlichen Anforderungen
+    des gehobenen nichttechnischen Verwaltungsdienstes in der
     Bundeswehrverwaltung erfüllt.
-
-
-
 
 (2) Die Kosten des amtsärztlichen Gutachtens trägt die
 Bundeswehrverwaltung. Sie kann die Einstellungsuntersuchung auch
@@ -459,8 +406,8 @@ entsprechend.
 
 ### § 20 ECTS-Leistungspunkte
 
-(1) Je Semester erwerben die Studierenden 30 Leistungspunkte nach dem
-Europäischen System zur Übertragung und Akkumulierung von
+(1) Je Semester erwerben die Studierenden 30 Leistungspunkte nach
+dem Europäischen System zur Übertragung und Akkumulierung von
 Studienleistungen (ECTS-Leistungspunkte).
 
 (2) Ein ECTS-Leistungspunkt entspricht einem Arbeitsaufwand von 30
@@ -479,305 +426,45 @@ interdisziplinär ausgestaltet werden. Sie enthalten ein Studienfach
 oder mehrere Studienfächer.
 
 (3) Die Module unterteilen sich in 20 Fachmodule und vier
-Praxismodule. Die Fachmodule sind unterteilt in Pflichtmodule und
-Wahlpflichtmodule. In den Wahlpflichtmodulen können die Studierenden
-zwischen verschiedenen Studienfächern oder Studienfachkombinationen
-wählen.
+Praxismodule. Die Fachmodule und die Praxismodule sind jeweils
+unterteilt in Pflichtmodule und Wahlpflichtmodule. In den
+Wahlpflichtmodulen können die Studierenden zwischen verschiedenen
+Studienfächern oder Studienfachkombinationen wählen.
 
 
 ### § 22 Verteilung und Inhalt der Module
 
 (1) Die Module verteilen sich wie folgt auf die Semester:
 
-*    *
-    *   Semester
-
-    *   Modulnummer
-
-    *   Modulart
-
-    *   Modulname
-
-
-*    *
-    *   1
-
-    *   2
-
-    *   3
-
-    *   4
-
-
-*    *   1
-
-    *   1. Semester
-
-    *   Modul 1
-
-    *   Fachmodul:
-        Pflichtmodul
-
-    *   Einführung in das duale Studium
-
-
-*    *   2
-
-    *   Modul 2
-        Teilmodul 2.1
-        Teilmodul 2.2
-        (erster Teil)
-
-    *   Fachmodul:
-        Pflichtmodul
-
-    *   Rechtliche Grundlagen des Verwaltungshandelns I
-
-
-*    *   3
-
-    *   Modul 3
-
-    *   Fachmodul:
-        Pflichtmodul
-
-    *   Rechtliche Grundlagen des Verwaltungshandelns II
-
-
-*    *   4
-
-    *   Modul 4
-
-    *   Fachmodul:
-        Pflichtmodul
-
-    *   Ökonomische Grundlagen des Verwaltungshandelns I
-
-
-*    *   5
-
-    *   Modul 5
-
-    *   Fachmodul:
-        Pflichtmodul
-
-    *   Betriebswirtschaftliche Grundlagen des Verwaltungshandelns und
-        Informationsmanagement I
-
-
-*    *   6
-
-    *   Modul 6
-
-    *   Fachmodul:
-        Pflichtmodul
-
-    *   Psychologische und soziologische Grundlagen des Verwaltungshandelns
-
-
-*    *   7
-
-    *   2. Semester
-
-    *   Modul 2
-        Teilmodul 2.2 (zweiter Teil)
-
-    *   Fachmodul:
-        Pflichtmodul
-
-    *   Rechtliche Grundlagen des Verwaltungshandelns I
-
-
-*    *   8
-
-    *   Modul 7
-
-    *   Fachmodul:
-        Pflichtmodul
-
-    *   Staatsrecht und Zivilrecht
-
-
-*    *   9
-
-    *   Modul 8
-
-    *   Fachmodul:
-        Pflichtmodul
-
-    *   Personalführung I: rechtliche, psychologische und soziologische
-        Grundlagen
-
-
-*    *   10
-
-    *   Modul 9
-
-    *   Fachmodul:
-        Pflichtmodul
-
-    *   Infrastruktur und Dienstleistungen I
-
-
-*    *   11
-
-    *   Modul 10
-
-    *   Fachmodul:
-        Pflichtmodul
-
-    *   Wissenschaftliches Arbeiten
-
-
-*    *   12
-
-    *   3. Semester
-
-    *   Praxismodul I
-
-    *   Praxismodul
-
-    *   Infrastruktur, Umweltschutz und Dienstleistung
-
-
-*    *   13
-
-    *   Praxismodul II
-
-    *   Praxismodul
-
-    *   Personal
-
-
-*    *   14
-
-    *   4. Semester
-
-    *   Modul 11
-
-    *   Fachmodul:
-        Pflichtmodul
-
-    *   Ökonomische Grundlagen des Verwaltungshandelns und
-        Informationsmanagement II
-
-
-*    *   15
-
-    *   Modul 12
-
-    *   Fachmodul:
-        Pflichtmodul
-
-    *   Infrastruktur und Dienstleistungen II
-
-
-*    *   16
-
-    *   Modul 13
-
-    *   Fachmodul:
-        Pflichtmodul
-
-    *   Verwaltungsprozessrecht und Beamtenrecht
-
-
-*    *   17
-
-    *   Modul 14
-
-    *   Fachmodul:
-        Pflichtmodul
-
-    *   Personalführung II: Arbeits-, Tarif- und Sozialversicherungsrecht
-
-
-*    *   18
-
-    *   Modul 15
-
-    *   Fachmodul:
-        Wahlpflichtmodul
-
-    *   Recht I: Berufsförderung oder Soziales Entschädigungsrecht
-
-
-*    *   19
-
-    *   5. Semester
-
-    *   Praxismodul III
-
-    *   Praxismodul
-
-    *   Bundesoberbehörden
-
-
-*    *   20
-
-    *   Praxismodul IV
-
-    *   Praxismodul
-
-    *   Englisch in der Bundeswehr
-
-
-*    *   21
-
-    *   Modul 20
-        (erster Teil)
-
-    *   Fachmodul:
-        Pflichtmodul
-
-    *   Abschlussarbeit
-
-
-*    *   22
-
-    *   6. Semester
-
-    *   Modul 16
-
-    *   Fachmodul:
-        Wahlpflichtmodul
-
-    *   Recht II: Zivil- und Vergaberecht oder Besoldungs- und
-        Versorgungsrecht
-
-
-*    *   23
-
-    *   Modul 17
-
-    *   Fachmodul:
-        Wahlpflichtmodul
-
-    *   Recht III: Straf- und Staatsrecht oder Umweltschutz- und
-        Verwaltungsrecht
-
-
-*    *   24
-
-    *   Modul 18
-
-    *   Fachmodul:
-        Wahlpflichtmodul
-
-    *   Personal, Infrastruktur, Wirtschaft und Dienstleistung
-
-
-*    *   25
-
-    *   Modul 19
-
-    *   Fachmodul:
-        Wahlpflichtmodul
-
-    *   Die Bundeswehr als internationaler Partner
-
-
-
+|  | Semester | Modulnummer | Modulart | Modulname |
+| --- | --- | --- | --- | --- |
+|  | 1 | 2 | 3 | 4 |
+| 1 | 1. Semester | Modul 1 | Fachmodul: Pflichtmodul | Einführung in das duale Studium |
+| 2 | Modul 2 Teilmodul 2.1 Teilmodul 2.2 (erster Teil) | Fachmodul: Pflichtmodul | Rechtliche Grundlagen des Verwaltungshandelns I |  |
+| 3 | Modul 3 | Fachmodul: Pflichtmodul | Rechtliche Grundlagen des Verwaltungshandelns II |  |
+| 4 | Modul 4 | Fachmodul: Pflichtmodul | Ökonomische Grundlagen des Verwaltungshandelns I |  |
+| 5 | Modul 5 | Fachmodul: Pflichtmodul | Betriebswirtschaftliche Grundlagen des Verwaltungshandelns und Informationsmanagement I |  |
+| 6 | Modul 6 | Fachmodul: Pflichtmodul | Psychologische und soziologische Grundlagen des Verwaltungshandelns |  |
+| 7 | 2. Semester | Modul 2 Teilmodul 2.2 (zweiter Teil) | Fachmodul: Pflichtmodul | Rechtliche Grundlagen des Verwaltungshandelns I |
+| 8 | Modul 7 | Fachmodul: Pflichtmodul | Staatsrecht und Zivilrecht |  |
+| 9 | Modul 8 | Fachmodul: Pflichtmodul | Personalführung I: rechtliche, psychologische und soziologische Grundlagen |  |
+| 10 | Modul 9 | Fachmodul: Pflichtmodul | Infrastruktur und Dienstleistungen I |  |
+| 11 | Modul 10 | Fachmodul: Pflichtmodul | Wissenschaftliches Arbeiten |  |
+| 12 | 3. Semester | Praxismodul I | Praxismodul Pflichtmodul | Infrastruktur, Umweltschutz und Dienstleistung |
+| 13 | Praxismodul II | Praxismodul Pflichtmodul | Personal |  |
+| 14 | 4. Semester | Modul 11 | Fachmodul: Pflichtmodul | Ökonomische Grundlagen des Verwaltungshandelns und Informationsmanagement II |
+| 15 | Modul 12 | Fachmodul: Pflichtmodul | Infrastruktur und Dienstleistungen II |  |
+| 16 | Modul 13 | Fachmodul: Pflichtmodul | Verwaltungsprozessrecht und Beamtenrecht |  |
+| 17 | Modul 14 | Fachmodul: Pflichtmodul | Personalführung II: Arbeits-, Tarif- und Sozialversicherungsrecht |  |
+| 18 | Modul 15 | Fachmodul: Wahlpflichtmodul | Recht I: Berufsförderung oder Soziales Entschädigungsrecht |  |
+| 19 | 5. Semester | Praxismodul III | Praxismodul Wahlpflichtmodul | Bundesoberbehörden |
+| 20 | Praxismodul IV | Praxismodul Wahlpflichtmodul | Englisch in der Bundeswehr |  |
+| 21 | Modul 20 (erster Teil) | Fachmodul: Pflichtmodul | Abschlussarbeit |  |
+| 22 | 6. Semester | Modul 16 | Fachmodul: Wahlpflichtmodul | Recht II: Zivil- und Vergaberecht oder Besoldungs- und Versorgungsrecht |
+| 23 | Modul 17 | Fachmodul: Wahlpflichtmodul | Recht III: Straf- und Staatsrecht oder Umweltschutz- und Verwaltungsrecht oder Steuerrecht und Steuerlehre |  |
+| 24 | Modul 18 | Fachmodul: Wahlpflichtmodul | Personal, Infrastruktur, Wirtschaft und Dienstleistung |  |
+| 25 | Modul 19 | Fachmodul: Wahlpflichtmodul | Die Bundeswehr als internationaler Partner |  |
+| 26 | Modul 20 (zweiter Teil) | Fachmodul: Pflichtmodul | Abschlussarbeit |  |
 
 (2) Die Hochschule legt die Studieninhalte der Module und den
 Studienablauf in einem Modulhandbuch fest. Die Module 1 bis 8
@@ -807,10 +494,10 @@ Teamarbeit, erlangen.
 
 ### § 25 Durchführungsort der Praxismodule
 
-(1) Die Praxismodule I bis III finden in einer Oberbehörde oder einer
-Unterbehörde der Bundeswehrverwaltung statt. Sie werden von der
-Einstellungsbehörde im Einvernehmen mit der Hochschule organisiert und
-durchgeführt.
+(1) Die Praxismodule I bis III finden in einer Oberbehörde oder
+einer Unterbehörde der Bundeswehrverwaltung statt. Sie werden von der
+Einstellungsbehörde im Einvernehmen mit der Hochschule organisiert
+und durchgeführt.
 
 (2) Das Praxismodul IV wird vom Bundessprachenamt an der Hochschule
 durchgeführt.
@@ -818,8 +505,8 @@ durchgeführt.
 
 ### § 26 Ausbildungsbeauftragte und Praxisbeauftragte für die Praxismodule
 
-(1) Für die Praxismodule bestimmt die Einstellungsbehörde im Benehmen
-mit der Hochschule Ausbildungsbeauftragte in den
+(1) Für die Praxismodule bestimmt die Einstellungsbehörde
+im Benehmen mit der Hochschule Ausbildungsbeauftragte in den
 Ausbildungsdienststellen. Die Ausbildungsbeauftragten sollen über
 einen Hochschulabschluss verfügen.
 
@@ -846,11 +533,7 @@ und für die Einstellungsbehörde.
 
 1.  den Modulprüfungen sowie aus
 
-
 2.  der Abschlussarbeit.
-
-
-
 
 
 #### § 28 Prüfungsamt
@@ -869,170 +552,25 @@ nicht weisungsgebunden.
 
 (1) Die Prüfungsleistungen werden wie folgt bewertet:
 
-*    *
-    *   Prozentualer Anteil
-        der erreichten Punktzahl an der erreichbaren Punktzahl
-
-    *   Rangpunkte/
-        Rangpunktzahl
-
-    *   Note
-
-    *   Notendefinition
-
-
-*    *
-    *   1
-
-    *   2
-
-    *   3
-
-    *   4
-
-
-*    *   1
-
-    *   100,00 bis 93,70
-
-    *   15
-
-    *   sehr gut
-
-    *   eine Leistung, die den Anforderungen in besonderem Maß entspricht
-
-
-*    *   2
-
-    *   93,69 bis 87,50
-
-    *   14
-
-
-*    *   3
-
-    *   87,49 bis 83,40
-
-    *   13
-
-    *   gut
-
-    *   eine Leistung, die den Anforderungen voll entspricht
-
-
-*    *   4
-
-    *   83,39 bis 79,20
-
-    *   12
-
-
-*    *   5
-
-    *   79,19 bis 75,00
-
-    *   11
-
-
-*    *   6
-
-    *   74,99 bis 70,90
-
-    *   10
-
-    *   befriedigend
-
-    *   eine Leistung, die im Allgemeinen den Anforderungen entspricht
-
-
-*    *   7
-
-    *   70,89 bis 66,70
-
-    *   9
-
-
-*    *   8
-
-    *   66,69 bis 62,50
-
-    *   8
-
-
-*    *   9
-
-    *   62,49 bis 58,40
-
-    *   7
-
-    *   ausreichend
-
-    *   eine Leistung, die zwar Mängel aufweist, aber im Ganzen den
-        Anforderungen noch entspricht
-
-
-*    *   10
-
-    *   58,39 bis 54,20
-
-    *   6
-
-
-*    *   11
-
-    *   54,19 bis 50,00
-
-    *   5
-
-
-*    *   12
-
-    *   49,99 bis 41,70
-
-    *   4
-
-    *   mangelhaft
-
-    *   eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen
-        lässt, dass die notwendigen Grundkenntnisse vorhanden sind und die
-        Mängel in absehbarer Zeit behoben werden können
-
-
-*    *   13
-
-    *   41,69 bis 33,40
-
-    *   3
-
-
-*    *   14
-
-    *   33,39 bis 25,00
-
-    *   2
-
-
-*    *   15
-
-    *   24,99 bis 12,50
-
-    *   1
-
-    *   ungenügend
-
-    *   eine Leistung, die den Anforderungen nicht entspricht und bei der
-        selbst die Grundkenntnisse so lückenhaft sind, dass die Mängel in
-        absehbarer Zeit nicht behoben werden können
-
-
-*    *   16
-
-    *   12,49 bis  0,00
-
-    *   0
-
-
-
+|  | Prozentualer Anteil der erreichten Punktzahl an der erreichbaren Punktzahl | Rangpunkte/ Rangpunktzahl | Note | Notendefinition |
+| --- | --- | --- | --- | --- |
+|  | 1 | 2 | 3 | 4 |
+| 1 | 100,00 bis 93,70 | 15 | sehr gut | eine Leistung, die den Anforderungen in besonderem Maß entspricht |
+| 2 | 93,69 bis 87,50 | 14 |  |  |
+| 3 | 87,49 bis 83,40 | 13 | gut | eine Leistung, die den Anforderungen voll entspricht |
+| 4 | 83,39 bis 79,20 | 12 |  |  |
+| 5 | 79,19 bis 75,00 | 11 |  |  |
+| 6 | 74,99 bis 70,90 | 10 | befriedigend | eine Leistung, die im Allgemeinen den Anforderungen entspricht |
+| 7 | 70,89 bis 66,70 | 9 |  |  |
+| 8 | 66,69 bis 62,50 | 8 |  |  |
+| 9 | 62,49 bis 58,40 | 7 | ausreichend | eine Leistung, die zwar Mängel aufweist, aber im Ganzen den Anforderungen noch entspricht |
+| 10 | 58,39 bis 54,20 | 6 |  |  |
+| 11 | 54,19 bis 50,00 | 5 |  |  |
+| 12 | 49,99 bis 41,70 | 4 | mangelhaft | eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen lässt, dass die notwendigen Grundkenntnisse vorhanden sind und die Mängel in absehbarer Zeit behoben werden können |
+| 13 | 41,69 bis 33,40 | 3 |  |  |
+| 14 | 33,39 bis 25,00 | 2 |  |  |
+| 15 | 24,99 bis 12,50 | 1 | ungenügend | eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Grundkenntnisse so lückenhaft sind, dass die Mängel in absehbarer Zeit nicht behoben werden können |
+| 16 | 12,49 bis 0,00 | 0 |  |  |
 
 (2) Prüfungsleistungen, die nicht fristgemäß erbracht werden, gelten
 als mit null Rangpunkten bewertet.
@@ -1042,8 +580,9 @@ wenn die Bewertungen mehrerer Prüfungsleistungen zu einer Bewertung
 zusammengefasst werden, wird als Bewertung eine Rangpunktzahl
 berechnet.
 
-(4) Bei zwei Prüfenden ist die Rangpunktzahl das arithmetische Mittel
-aus den beiden Bewertungen.
+(4) Bei zwei Prüfenden ist die Rangpunktzahl das arithmetische
+Mittel aus den beiden Bewertungen. Die berechnete Rangpunktzahl wird
+kaufmännisch auf eine ganze Zahl gerundet.
 
 
 ### Unterabschnitt 2 - Modulprüfungen
@@ -1078,21 +617,21 @@ Verteidigung der Bachelorthesis abgeschlossen sein.
 
 #### § 32 Prüfende
 
-(1) Für die Bewertung der Modulprüfungen in den Fachmodulen werden die
-Prüfenden durch das Prüfungsamt bestellt. Sie sollen haupt- oder
+(1) Für die Bewertung der Modulprüfungen in den Fachmodulen werden
+die Prüfenden durch das Prüfungsamt bestellt. Sie sollen haupt- oder
 nebenamtlich Lehrende der Hochschule sein.
 
-(2) Für die Bewertung der Modulprüfungen in den Praxismodulen und für
-die Praxisbeurteilung werden die Prüfenden durch die
-Ausbildungsbehörde im Benehmen mit der Hochschule bestimmt. Sie sollen
-mindestens dem gehobenen Dienst angehören und über einen
+(2) Für die Bewertung der Modulprüfungen in den Praxismodulen
+und für die Praxisbeurteilung werden die Prüfenden durch die
+Ausbildungsbehörde im Benehmen mit der Hochschule bestimmt. Sie
+sollen mindestens dem gehobenen Dienst angehören und über einen
 Hochschulabschluss verfügen.
 
 (3) Für jede Modulprüfung wird eine Prüfende oder ein Prüfender
 bestellt.
 
-(4) Sind schriftliche Prüfungsleistungen in den Modulprüfungen mit
-weniger als fünf Rangpunkten bewertet worden, so wird eine
+(4) Sind schriftliche Prüfungsleistungen in den Modulprüfungen
+mit weniger als fünf Rangpunkten bewertet worden, so wird eine
 Zweitprüfende oder ein Zweitprüfender bestellt.
 
 (5) Bewerten zwei Prüfende, so bewertet die oder der Zweitprüfende
@@ -1109,25 +648,17 @@ nicht weisungsgebunden.
 
 1.  Klausur,
 
-
 2.  Hausarbeit,
-
 
 3.  Referat,
 
-
 4.  Präsentation,
-
 
 5.  mündliche Prüfung,
 
-
 6.  aktive Mitarbeit oder
 
-
 7.  praktische Übung.
-
-
 
 Die Prüfungsformen für die einzelnen Fachmodule sind im Modulhandbuch
 zu regeln. Lässt das Modulhandbuch mehrere Prüfungsformen zu, so teilt
@@ -1140,27 +671,15 @@ Lehrveranstaltung die vorgesehene Prüfungsform mit.
 
     a)  je eine Klausur und
 
-
     b)  je eine mündliche Prüfung,
-
-
-
-
 
 2.  im Praxismodul III:
 
     a)  ein Praxisbericht und
 
-
     b)  eine mündliche Prüfung sowie
 
-
-
-
-
 3.  im Praxismodul IV eine Sprachprüfung.
-
-
 
 In den Praxismodulen I bis III wird zudem jeweils eine
 Praxisbeurteilung erstellt, die in die Modulnote mit einfließt. Die
@@ -1171,30 +690,30 @@ Ausbildungsdienststelle.
 
 #### § 34 Grundsätze zu den einzelnen Prüfungsformen
 
-(1) In einer Klausur bearbeitet die oder der Studierende eine Aufgabe
-oder mehrere Aufgaben oder einen Fall oder mehrere Fälle aus den
-Modulinhalten. Die Bearbeitung erfolgt unter Aufsicht. Die
+(1) In einer Klausur bearbeitet die oder der Studierende eine
+Aufgabe oder mehrere Aufgaben oder einen Fall oder mehrere Fälle
+aus den Modulinhalten. Die Bearbeitung erfolgt unter Aufsicht. Die
 Bearbeitungszeit ist im Modulhandbuch festzulegen.
 
-(2) In einer mündlichen Prüfung beträgt die Prüfungszeit für jede
-Studierende und jeden Studierenden mindestens 15 Minuten je
-Studienfach. Thematisch zusammenhängende Studienfächer können in einer
-mündlichen Prüfung zusammengefasst werden. Die mündliche Prüfung kann
-als Gruppenprüfung durchgeführt werden. Eine Prüfgruppe soll aus
+(2) In einer mündlichen Prüfung beträgt die Prüfungszeit für
+jede Studierende und jeden Studierenden mindestens 15 Minuten je
+Studienfach. Thematisch zusammenhängende Studienfächer können in
+einer mündlichen Prüfung zusammengefasst werden. Die mündliche Prüfung
+kann als Gruppenprüfung durchgeführt werden. Eine Prüfgruppe soll aus
 höchstens fünf Studierenden bestehen. Die mündliche Prüfung erfolgt
 durch die Fachdozentin oder den Fachdozenten. Über den Ablauf der
 mündlichen Prüfung wird ein Protokoll geschrieben, das von der oder
 dem Prüfenden zu unterschreiben ist.
 
-(3) Hausarbeiten sollen zur Vorbereitung auf die Bachelorthesis (§ 39
-Nummer 1) und zur Übung wissenschaftlichen Arbeitens dienen. Die
-Bearbeitungszeit beträgt in der Regel einen Monat. Die formalen
+(3) Hausarbeiten sollen zur Vorbereitung auf die Bachelorthesis
+(§ 39 Nummer 1) und zur Übung wissenschaftlichen Arbeitens dienen.
+Die Bearbeitungszeit beträgt in der Regel einen Monat. Die formalen
 Anforderungen legt die Hochschule in einer Ordnung fest.
 
-(4) In Referaten oder Präsentationen setzen sich die Studierenden mit
-einer Fragestellung aus den Modulinhalten auseinander und tragen ihre
-Ergebnisse mündlich vor. Die Vortragszeit beträgt in der Regel 15
-Minuten. In den Präsentationen sollen moderne Präsentationsmedien
+(4) In Referaten oder Präsentationen setzen sich die Studierenden
+mit einer Fragestellung aus den Modulinhalten auseinander und tragen
+ihre Ergebnisse mündlich vor. Die Vortragszeit beträgt in der Regel
+15 Minuten. In den Präsentationen sollen moderne Präsentationsmedien
 eingesetzt werden.
 
 (5) Aktive Mitarbeit oder praktische Übungen umfassen zum Beispiel
@@ -1217,28 +736,18 @@ folgender Gewichtung in die Gesamtbewertung der Module ein:
 
 1.  die Bewertung der Klausur mit 50 Prozent,
 
-
 2.  die Bewertung der mündlichen Prüfung mit 25 Prozent und
 
-
 3.  die Praxisbeurteilung mit 25 Prozent.
-
-
-
 
 (4) Im Praxismodul III gehen die Bewertungen mit folgender Gewichtung
 in die Gesamtbewertung des Moduls ein:
 
 1.  die Bewertung des Praxisberichts mit 70 Prozent,
 
-
 2.  die Bewertung der mündlichen Prüfung mit 15 Prozent und
 
-
 3.  die Praxisbeurteilung mit 15 Prozent.
-
-
-
 
 (5) Einzelheiten zur Bewertung der Praxismodule regelt die Hochschule
 in einer Ordnung.
@@ -1250,20 +759,14 @@ in einer Ordnung.
 
 1.  Hören,
 
-
 2.  Sprechen,
-
 
 3.  Lesen und
 
-
 4.  Schreiben.
 
-
-
-
 (2) Abgenommen und bewertet wird die Sprachprüfung durch
-Sprachlehrerinnen  oder Sprachlehrer des Bundessprachenamts.
+Sprachlehrerinnen oder Sprachlehrer des Bundessprachenamts.
 
 (3) Bewertet wird die Leistung in jeder Fertigkeit. Die Bewertung
 erfolgt mit den Leistungsstufen 0 bis 4. Die Definition der
@@ -1272,54 +775,14 @@ Verwaltungsvorschrift fest.
 
 (4) Der Leistungsstufe werden wie folgt Rangpunkte zugeordnet:
 
-*    *
-    *   Leistungsstufe
-
-    *   Rangpunkte
-
-
-*    *
-    *   1
-
-    *   2
-
-
-*    *   1
-
-    *   0
-
-    *   0
-
-
-*    *   2
-
-    *   1
-
-    *   3
-
-
-*    *   3
-
-    *   2
-
-    *   6
-
-
-*    *   4
-
-    *   3
-
-    *   12
-
-
-*    *   5
-
-    *   4
-
-    *   15
-
-
-
+|  | Leistungsstufe | Rangpunkte |
+| --- | --- | --- |
+|  | 1 | 2 |
+| 1 | 0 | 0 |
+| 2 | 1 | 3 |
+| 3 | 2 | 6 |
+| 4 | 3 | 12 |
+| 5 | 4 | 15 |
 
 (5) Nach Abschluss der Sprachprüfung wird als Gesamtbewertung eine
 Rangpunktzahl ermittelt. Die Rangpunktzahl ist das arithmetische
@@ -1360,17 +823,13 @@ Die Abschlussarbeit besteht aus
 
 1.  der Bachelorthesis und
 
-
 2.  der Verteidigung der Bachelorthesis.
-
-
-
 
 
 #### § 40 Ziel der Bachelorthesis
 
-Durch die Bachelorthesis sollen die Studierenden nachweisen, dass sie
-fähig sind, innerhalb einer vorgegebenen Frist eine für die
+Durch die Bachelorthesis sollen die Studierenden nachweisen, dass
+sie fähig sind, innerhalb einer vorgegebenen Frist eine für die
 Studienziele relevante Problemstellung mit wissenschaftlichen Methoden
 selbständig zu bearbeiten.
 
@@ -1408,21 +867,15 @@ der Bachelorthesis.
 
 1.  hauptamtlich Lehrende der Hochschule,
 
-
 2.  Beamtinnen und Beamte des höheren Dienstes,
 
-
 3.  Beamtinnen und Beamte des gehobenen Dienstes mit Hochschulabschluss,
-
 
 4.  nebenamtlich Lehrende, die schwerpunktmäßig an der Hochschule tätig
     sind, sowie
 
-
 5.  Arbeitnehmerinnen und Arbeitnehmer, die über eine entsprechende
     Qualifikation verfügen.
-
-
 
 Mindestens eine Prüfende oder ein Prüfender soll hauptamtlich Lehrende
 oder hauptamtlich Lehrender der Hochschule sein und dem höheren Dienst
@@ -1443,8 +896,8 @@ nicht weisungsgebunden.
 (1) Zur Anfertigung der Bachelorthesis werden die Studierenden für die
 letzten vier Wochen des fünften Semesters von der Anwesenheitspflicht
 und vom Dienst freigestellt. Die weitere Anfertigung der
-Bachelorthesis erfolgt studienbegleitend in den ersten acht Wochen des
-sechsten Semesters.
+Bachelorthesis erfolgt studienbegleitend zu Beginn des sechsten
+Semesters.
 
 (2) Während der Anfertigung der Bachelorthesis wird die oder der
 Studierende von der oder dem Erstprüfenden betreut.
@@ -1458,14 +911,10 @@ Prüfungsamt abzugeben.
 (2) Bei der Abgabe muss die oder der Studierende schriftlich
 versichern, dass sie oder er
 
-1.  die Bachelorthesis selbständig und ohne fremde Mitwirkung verfasst hat
-    und
-
+1.  die Bachelorthesis selbständig und ohne fremde Mitwirkung verfasst
+    hat und
 
 2.  nur die angegebenen Quellen und Hilfsmittel verwendet hat.
-
-
-
 
 (3) Die Abgabe ist durch das Prüfungsamt zu dokumentieren.
 
@@ -1510,11 +959,7 @@ beträgt drei Monate. Sie beginnt mit der Ausgabe des Themas.
 1.  die Modulprüfungen in den Modulen 2 bis 19 und in allen Praxismodulen
     bestanden hat und
 
-
 2.  die Bachelorthesis bestanden hat.
-
-
-
 
 (2) Den Termin für die Verteidigung der Bachelorthesis legt das
 Prüfungsamt fest.
@@ -1526,26 +971,18 @@ Prüfungsamt fest.
 
 1.  einer Präsentation der Bachelorthesis,
 
-
 2.  einem wissenschaftlichen Gespräch über den Inhalt der Bachelorthesis
     und
 
-
 3.  einer fachbezogenen mündlichen Prüfung.
-
-
-
 
 (2) In der Präsentation der Bachelorthesis soll die oder der
 Studierende nachweisen, dass sie oder er
 
 1.  sicheres Wissen zu dem bearbeiteten Thema besitzt und
 
-
 2.  fähig ist, die angewandten Methoden und erzielten Ergebnisse
     darzustellen und zu erläutern.
-
-
 
 Die Präsentation dauert in der Regel 10 Minuten.
 
@@ -1555,19 +992,16 @@ Bachelorthesis soll die oder der Studierende
 1.  die Bedeutung des bearbeiteten Themas und wesentliche Aussagen der
     Bachelorthesis vertreten sowie
 
-
 2.  Fragen der Prüfenden zum Thema und zum Vorgehen beantworten und
     diskutieren.
-
-
 
 Das wissenschaftliche Gespräch dauert in der Regel 20 Minuten.
 
 (4) Gegenstand der fachbezogenen mündlichen Prüfung ist das
 Studienfach, aus dem das Thema der Bachelorthesis stammt. In der
-fachbezogenen mündlichen Prüfung soll die oder der Studierende zeigen,
-dass sie oder er wissenschaftliche und berufspraktische Fragen und
-Problemstellungen aus diesem Studienfach erläutern kann. Die
+fachbezogenen mündlichen Prüfung soll die oder der Studierende
+zeigen, dass sie oder er wissenschaftliche und berufspraktische Fragen
+und Problemstellungen aus diesem Studienfach erläutern kann. Die
 fachbezogene mündliche Prüfung dauert in der Regel 15 Minuten.
 
 (5) Über den Ablauf der Verteidigung der Bachelorthesis wird ein
@@ -1582,12 +1016,8 @@ gesondert bewertet:
 
 1.  die Präsentation der Bachelorthesis und
 
-
 2.  das wissenschaftliche Gespräch zusammen mit der fachbezogenen
     mündlichen Prüfung.
-
-
-
 
 (2) Im Anschluss wird die Rangpunktzahl der Verteidigung der
 Bachelorthesis berechnet. In die Rangpunktzahl gehen die Bewertungen
@@ -1595,12 +1025,8 @@ mit folgender Gewichtung ein:
 
 1.  die Bewertung der Präsentation mit 30 Prozent und
 
-
 2.  die Bewertung des wissenschaftlichen Gespräches und der fachbezogenen
     mündlichen Prüfung mit 70 Prozent.
-
-
-
 
 (3) Die Verteidigung der Bachelorthesis ist bestanden, wenn die
 Rangpunktzahl der Verteidigung der Bachelorthesis mindestens 5,00
@@ -1639,10 +1065,7 @@ mit folgender Gewichtung ein:
 
 1.  die Rangpunkte der Bachelorthesis mit 70 Prozent und
 
-
 2.  die Rangpunktzahl der Verteidigung der Bachelorthesis mit 30 Prozent.
-
-
 
 Die Rangpunktzahl der Abschlussarbeit wird kaufmännisch auf eine ganze
 Zahl gerundet.
@@ -1661,14 +1084,9 @@ der Abschlussarbeit zugeordnet.
 1.  die Modulprüfungen in den Modulen 2 bis 19 und in allen Praxismodulen
     bestanden hat,
 
-
 2.  die Bachelorthesis bestanden hat und
 
-
 3.  die Verteidigung der Bachelorthesis bestanden hat.
-
-
-
 
 (2) Ist die Bachelorprüfung bestanden, verleiht die Hochschule den
 akademischen Grad „Bachelor of Laws (LL. B.)“.
@@ -1685,16 +1103,11 @@ Prüfungsleistungen wie folgt zu gewichten:
 
 1.  die Rangpunktzahl der Fachmodule mit 65 Prozent,
 
-
 2.  die Rangpunktzahl der Praxismodule mit 20 Prozent,
-
 
 3.  die Rangpunkte der Bachelorthesis mit 10 Prozent,
 
-
 4.  die Rangpunktzahl der Verteidigung der Bachelorthesis mit 5 Prozent.
-
-
 
 Die berechnete Rangpunktzahl der Bachelorprüfung wird kaufmännisch auf
 eine ganze Zahl gerundet.
@@ -1703,15 +1116,15 @@ eine ganze Zahl gerundet.
 Gesamtbewertungen der Module 2 bis 19 berechnet. In diese
 Rangpunktzahl geht die Gesamtbewertung eines Moduls mit der Gewichtung
 ein, die den in diesem Modul vergebenen ECTS-Leistungspunkten
-entspricht. Die berechnete Rangpunktzahl wird kaufmännisch auf eine
-ganze Zahl gerundet.
+entspricht. Die berechnete Rangpunktzahl wird kaufmännisch auf die
+zweite Stelle nach dem Komma gerundet.
 
 (4) Die Rangpunktzahl der Praxismodule wird aus den einzelnen
 Gesamtbewertungen der Praxismodule berechnet. In diese Rangpunktzahl
-geht die Gesamtbewertung eines Praxismoduls mit der Gewichtung ein,
-die den in diesem Praxismodul vergebenen ECTS-Leistungspunkten
-entspricht. Die berechnete Rangpunktzahl wird kaufmännisch auf eine
-ganze Zahl gerundet.
+geht die Gesamtbewertung eines Praxismoduls mit der Gewichtung
+ein, die den in diesem Praxismodul vergebenen ECTS-Leistungspunkten
+entspricht. Die berechnete Rangpunktzahl wird kaufmännisch auf die
+zweite Stelle nach dem Komma gerundet.
 
 (5) Der gerundeten Rangpunktzahl der Bachelorprüfung wird die
 entsprechende Note als Abschlussnote zugeordnet.
@@ -1723,14 +1136,9 @@ entsprechende Note als Abschlussnote zugeordnet.
 
 1.  ein Abschlusszeugnis,
 
-
 2.  eine Bachelorurkunde und
 
-
 3.  ein Diploma Supplement.
-
-
-
 
 (2) Das Abschlusszeugnis enthält
 
@@ -1738,47 +1146,32 @@ entsprechende Note als Abschlussnote zugeordnet.
     bestanden hat und die Befähigung für den gehobenen nichttechnischen
     Verwaltungsdienst des Bundes erlangt hat,
 
-
 2.  die Rangpunktzahl der Bachelorprüfung und die Abschlussnote,
-
 
 3.  das Thema der Bachelorthesis sowie die Bewertung der Abschlussarbeit
     in Rangpunkten und als Note sowie
 
-
 4.  die erworbenen ECTS-Leistungspunkte.
-
-
-
 
 (3) Die Bachelorurkunde enthält
 
 1.  die Angabe des Studiengangs „Bachelor of Public Administration“ und
 
-
 2.  den verliehenen akademischen Grad „Bachelor of Laws (LL. B.)“.
-
-
-
 
 (4) Das Diploma Supplement enthält
 
 1.  die Angabe des Studiengangs „Bachelor of Public Administration“,
 
-
 2.  den verliehenen akademischen Grad „Bachelor of Laws (LL. B.)“,
-
 
 3.  für Modul 1 den Modulnamen und die ECTS-Leistungspunkte und für die
     weiteren Module den Modulnamen, die Gesamtbewertung in Rangpunkten und
     die ECTS-Leistungspunkte sowie
 
-
 4.  die Notenverteilung des Studienjahrgangs in Form einer Notenübersicht,
     bezogen auf die absoluten Noten der oder des einzelnen Studierenden im
     Vergleich zu allen Studierenden des Studienjahrgangs.
-
-
 
 Das Diploma Supplement wird in deutscher und in englischer Sprache
 ausgestellt.
@@ -1792,22 +1185,14 @@ Prüfungsamt
 1.  einen schriftlichen Bescheid über die nichtbestandene Bachelorprüfung
     und
 
-
 2.  eine Bescheinigung über die erbrachten Studienleistungen.
-
-
-
 
 (2) Die Bescheinigung über die erbrachten Studienleistungen enthält
 
 1.  die absolvierten Module und die Gesamtbewertung für jedes dieser
     Module sowie
 
-
 2.  die erworbenen ECTS-Leistungspunkte.
-
-
-
 
 
 #### § 57 Verhinderung
@@ -1826,15 +1211,14 @@ amtsärztliches Attest vorzulegen.
 vorbehaltlich des Absatzes 4 als nicht begonnen. Das Prüfungsamt
 bestimmt, zu welchem Zeitpunkt die Prüfungsleistung nachgeholt wird.
 
-(4) Wird die Verhinderung bei der Anfertigung der Bearbeitung der
-Bachelorthesis oder einer anderen Prüfungsleistung, für die eine
-Bearbeitungszeit von mindestens zwei Tagen vorgesehen ist, genehmigt,
-so verlängert das Prüfungsamt die Bearbeitungszeit um die Dauer der
-Verhinderung. Die Verlängerung darf jedoch die Hälfte der vorgesehenen
-Bearbeitungszeit nicht überschreiten. Überschreitet die Verhinderung
-die Hälfte der Bearbeitungszeit, so gilt die Prüfungsleistung als
-nicht begonnen. Es wird ein anderes Thema für die jeweilige
-Prüfungsleistung festgelegt.
+(4) Wird die Verhinderung bei der Anfertigung der Bachelorthesis oder
+einer anderen Prüfungsleistung, für die eine Bearbeitungszeit von
+mindestens zwei Tagen vorgesehen ist, genehmigt, so verlängert das
+Prüfungsamt die Bearbeitungszeit um die Dauer der Verhinderung. Die
+Verlängerung darf jedoch die Hälfte der vorgesehenen Bearbeitungszeit
+nicht überschreiten. Überschreitet die Verhinderung die Hälfte der
+Bearbeitungszeit, so gilt die Prüfungsleistung als nicht begonnen. Es
+wird ein anderes Thema für die jeweilige Prüfungsleistung festgelegt.
 
 (5) Wird die Verhinderung nicht genehmigt, so gilt die Zeit der
 Verhinderung als Bearbeitungszeit. Wird in diesem Fall gar keine
@@ -1859,11 +1243,7 @@ nach der Schwere der Verfehlung
 
 1.  die Wiederholung einer einzelnen oder mehrerer Prüfungen anordnen oder
 
-
 2.  die Prüfungsleistung mit null Rangpunkten bewerten.
-
-
-
 
 (3) Wird eine Täuschung oder ein Mitwirken daran erst nach Beendigung
 einer Prüfung oder eines Prüfungsteils festgestellt, so ist Absatz 2
@@ -1872,14 +1252,14 @@ entsprechend anzuwenden.
 (4) Wird eine Täuschung oder ein Mitwirken daran erst nach Abschluss
 der Bachelorprüfung bekannt oder kann eine Täuschung oder ein
 Mitwirken daran erst nach Abschluss der Bachelorprüfung nachgewiesen
-werden, so kann das Prüfungsamt die Prüfung innerhalb einer Frist von
-fünf Jahren nach dem Tag der Verteidigung der Bachelorthesis für nicht
-bestanden erklären. In diesem Fall sind das Abschlusszeugnis und die
-Bachelorurkunde zurückzugeben. Der Bescheid ist mit einer
+werden, so kann das Prüfungsamt die Prüfung innerhalb einer Frist
+von fünf Jahren nach dem Tag der Verteidigung der Bachelorthesis für
+nicht bestanden erklären. In diesem Fall sind das Abschlusszeugnis
+und die Bachelorurkunde zurückzugeben. Der Bescheid ist mit einer
 Rechtsbehelfsbelehrung zu versehen.
 
-(5) Betroffene sind vor einer Entscheidung nach den Absätzen 2 bis 4
-anzuhören.
+(5) Betroffene sind vor einer Entscheidung nach den Absätzen 2 bis
+4 anzuhören.
 
 
 #### § 59 Prüfungsakten und Einsichtnahme
@@ -1888,35 +1268,26 @@ anzuhören.
 
 1.  die schriftlichen Prüfungsleistungen,
 
-
 2.  die Protokolle der mündlichen Prüfungsleistungen,
-
 
 3.  die Prüfungsleistungen und die Praxisbeurteilungen in den
     Praxismodulen I bis III,
 
-
 4.  das Sprachprüfungszeugnis für das Praxismodul IV,
-
 
 5.  die Bachelorthesis,
 
-
 6.  die Gutachten zur Bewertung der Bachelorthesis sowie
-
 
 7.  eine Ausfertigung des Abschlusszeugnisses oder eine Kopie des
     Bescheids über die nichtbestandene Bachelorprüfung.
-
-
-
 
 (2) Die Prüfungsakten sind nach Beendigung des Studiums mindestens
 fünf und höchstens zehn Jahre aufzubewahren.
 
 (3) Nach Abschluss jeder Modulprüfung können die Betroffenen nach
 Antrag Einsicht in ihre Prüfungsakte nehmen. Die Gutachten zur
-Bachelorthesis dürfen erst nach der Verteidigung der Bachelorthesis
+Bachelorthesis dürfen vor der Verteidigung der Bachelorthesis
 eingesehen werden. Die Einsichtnahme ist in der Akte zu vermerken.
 
 
@@ -1925,27 +1296,12 @@ eingesehen werden. Die Einsichtnahme ist in der Akte zu vermerken.
 
 ### § 60 Anerkennung von Studien- und Prüfungsleistungen
 
-(1) Auf Antrag werden folgende Leistungen anerkannt:
-
-1.  Studien- und Prüfungsleistungen aus anderen Studiengängen sowie
-
-
-2.  Prüfungsleistungen, die erfolgreich abgelegt worden sind
-
-    a)  vor einer öffentlichen oder staatlich anerkannten Bildungseinrichtung
-        oder
-
-
-    b)  vor einem staatlichen Prüfungsausschuss.
-
-
-
-
-
-
-Voraussetzung für die Anerkennung ist, dass die Leistungen
-gleichwertig sind mit den Leistungen, die im Studiengang „Bachelor of
-Public Administration“ zu erbringen sind.
+(1) Auf Antrag werden Studien- und Prüfungsleistungen, die an
+anderen staatlichen oder staatlich anerkannten Hochschulen oder
+Berufsakademien erbracht worden sind, anerkannt, wenn hinsichtlich der
+erworbenen Kompetenzen kein wesentlicher Unterschied zu den Studien-
+und Prüfungsleistungen besteht, die im Studiengang „Bachelor of Public
+Administration“ ersetzt werden.
 
 (2) Über die Anerkennung entscheidet das Prüfungsamt der Hochschule.
 
@@ -1955,8 +1311,8 @@ Unterlagen vorzulegen.
 
 ### § 61 Anrechnung von nicht an einer Hochschule erworbenen Kenntnissen und Fähigkeiten
 
-(1) Kenntnisse und Fähigkeiten, die nicht an einer Hochschule erworben
-worden sind, können höchstens bis zu 50 Prozent der
+(1) Kenntnisse und Fähigkeiten, die nicht an einer Hochschule
+erworben worden sind, können höchstens bis zu 50 Prozent der
 Gesamtstudienleistung angerechnet werden, wenn sie nach Inhalt und
 Niveau gleichwertig mit dem Teil des Studiums sind, der ersetzt werden
 soll.
@@ -1994,16 +1350,16 @@ Für Studierende, die vor dem 1. April 2019 mit dem Vorbereitungsdienst
 begonnen haben, ist die Verordnung über die Laufbahn, Ausbildung und
 Prüfung für den gehobenen nichttechnischen Verwaltungsdienst in der
 Bundeswehrverwaltung vom 14. März 2005 (BGBl. I S. 779), die zuletzt
-durch Artikel 3 Absatz 20 der Verordnung vom 12. Februar 2009 (BGBl. I
-S. 320) geändert worden ist, in der bis zum 31. März 2019 geltenden
+durch Artikel 3 Absatz 20 der Verordnung vom 12. Februar 2009 (BGBl.
+I S. 320) geändert worden ist, in der bis zum 31. März 2019 geltenden
 Fassung weiter anzuwenden.
 
 
 ### § 65 Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am 1. April 2019 in Kraft. Gleichzeitig tritt
-die Verordnung über die Laufbahn, Ausbildung und Prüfung für den
-gehobenen nichttechnischen Verwaltungsdienst in der
+Diese Verordnung tritt am 1. April 2019 in Kraft. Gleichzeitig
+tritt die Verordnung über die Laufbahn, Ausbildung und Prüfung
+für den gehobenen nichttechnischen Verwaltungsdienst in der
 Bundeswehrverwaltung vom 14. März 2005 (BGBl. I S. 779), die zuletzt
 durch Artikel 3 Absatz 20 der Verordnung vom 12. Februar 2009 (BGBl. I
 S. 320) geändert worden ist, außer Kraft.

@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert
-  von 20 Euro (Goldmünze „Nachtigall“ der Serie „Heimische Vögel“)
+Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Goldmünze „Nachtigall“ der Serie „Heimische Vögel“)
 jurabk: Münz20EuroBek 2016-07-11
 layout: default
 origslug: m_nz20eurobek_2016-07-11
@@ -20,21 +19,20 @@ Fundstelle
 ## (XXXX)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
-I S. 2402) hat die Bundesregierung beschlossen, in den Jahren 2016 bis
-2021 eine Serie von Goldmünzen im Nennwert von 20 Euro zum Thema
+I S. 2402) hat die Bundesregierung beschlossen, in den Jahren 2016
+bis 2021 eine Serie von Goldmünzen im Nennwert von 20 Euro zum Thema
 „Heimische Vögel“ prägen zu lassen. Die Serie beginnt mit der Münze
 „Nachtigall“, die ab dem 23. Juni 2016 in den Verkehr gebracht wird.
 
 Die limitierte Auflage der 20-Euro-Goldmünze „Nachtigall“ beträgt
-maximal 200 000 Stück. Die Münze wird zu gleichen Teilen in den
+maximal 200 000 Stück. Die Münze wird zu gleichen Teilen in den
 Münzstätten Berlin (Münzzeichen „A“), München (Münzzeichen „D“),
 Stuttgart (Münzzeichen „F“), Karlsruhe (Münzzeichen „G“) und Hamburg
 (Münzzeichen „J“) in Stempelglanzausführung geprägt.
 
-Sie besteht aus Gold mit einem Feingehalt von
-999,9 Tausendteilen              (Feingold), hat einen Durchmesser von
-17,5 Millimetern und eine Masse von 3,89 Gramm. Der Münzrand ist
-geriffelt.
+Sie besteht aus Gold mit einem Feingehalt von 999,9 Tausendteilen
+(Feingold), hat einen Durchmesser von 17,5 Millimetern und eine Masse
+von 3,89 Gramm. Der Münzrand ist geriffelt.
 
 Der Entwurf der Bildseite stammt von dem Künstler Bodo Broschat aus
 Berlin. Die Wertseite wurde von der Künstlerin Adelheid Fuss aus
@@ -56,9 +54,4 @@ Der Bundesminister der Finanzen
 ## (XXXX)
 
 (Fundstelle: BGBl. I 2016, 1583)
-
-
-*    *        ![bgbl1_2016_j1583-1_0010.jpg](bgbl1_2016_j1583-1_0010.jpg)
-    *        ![bgbl1_2016_j1583-1_0020.jpg](bgbl1_2016_j1583-1_0020.jpg)
-
 

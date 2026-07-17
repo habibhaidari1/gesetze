@@ -1,8 +1,5 @@
 ---
-Title: Gesetz zur Ausführung des Abkommens zwischen der Regierung der Bundesrepublik
-  Deutschland und der Regierung der Vereinigten Staaten von Amerika vom 1. Oktober
-  2008 über die Vertiefung der Zusammenarbeit bei der Verhinderung und Bekämpfung
-  schwerwiegender Kriminalität
+Title: Gesetz zur Ausführung des Abkommens zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Vereinigten Staaten von Amerika vom 1. Oktober 2008 über die Vertiefung der Zusammenarbeit bei der Verhinderung und Bekämpfung schwerwiegender Kriminalität
 jurabk: KrimBekAbkUSAAG
 layout: default
 origslug: krimbekabkusaag
@@ -24,8 +21,8 @@ Geändert durch
 
 ## § 1 Bestimmung der nationalen Kontaktstelle
 
-Nationale Kontaktstelle nach Artikel 6 Abs. 1, Artikel 9 Abs. 1 und
-Artikel 10 Abs. 7 des Abkommens zwischen der Regierung der
+Nationale Kontaktstelle nach Artikel 6 Abs. 1, Artikel 9 Abs. 1
+und Artikel 10 Abs. 7 des Abkommens zwischen der Regierung der
 Bundesrepublik Deutschland und der Regierung der Vereinigten Staaten
 von Amerika vom 1. Oktober 2008 über die Vertiefung der Zusammenarbeit
 bei der Verhinderung und Bekämpfung schwerwiegender Kriminalität
@@ -34,10 +31,10 @@ bei der Verhinderung und Bekämpfung schwerwiegender Kriminalität
 
 ## § 2 Datenschutzrechtliche Verantwortung für den automatisierten Datenabruf
 
-Die Verantwortung für die Zulässigkeit eines vom Bundeskriminalamt als
-nationaler Kontaktstelle durchgeführten automatisierten Abrufs nach
-Artikel 4 oder Artikel 7 des Abkommens vom 1. Oktober 2008 trägt
-innerstaatlich die Stelle, die das Bundeskriminalamt um die
+Die Verantwortung für die Zulässigkeit eines vom Bundeskriminalamt
+als nationaler Kontaktstelle durchgeführten automatisierten Abrufs
+nach Artikel 4 oder Artikel 7 des Abkommens vom 1. Oktober 2008
+trägt innerstaatlich die Stelle, die das Bundeskriminalamt um die
 Durchführung des Abrufs ersucht hat.
 
 
@@ -47,8 +44,8 @@ Durchführung des Abrufs ersucht hat.
 d und Abs. 2 des Abkommens vom 1. Oktober 2008 entscheidet das
 Bundeskriminalamt.
 
-(2) Die Zustimmung nach Artikel 13 Abs. 1 Buchstabe d und Abs. 2 des
-Abkommens vom 1. Oktober 2008 kann nur unter den Voraussetzungen
+(2) Die Zustimmung nach Artikel 13 Abs. 1 Buchstabe d und Abs. 2
+des Abkommens vom 1. Oktober 2008 kann nur unter den Voraussetzungen
 erteilt werden, die für die Übermittlung von Daten durch das
 Bundeskriminalamt nach § 27 Abs. 1 des Bundeskriminalamtgesetzes
 gelten. Handelt es sich um Daten, die dem Bundeskriminalamt von einer
@@ -69,8 +66,8 @@ nach Artikel 7 des Abkommens vom 1. Oktober 2008 verwendet werden.
 (1) Auf Antrag des Betroffenen und bei Nachweis seiner Identität macht
 die Bundesrepublik Deutschland, vertreten durch das Bundeskriminalamt,
 bei der zuständigen nationalen Kontaktstelle der Vereinigten Staaten
-von Amerika ihre Rechte auf Auskunftserteilung nach Artikel 18 des
-Abkommens vom 1. Oktober 2008 in Bezug auf die zur Person des
+von Amerika ihre Rechte auf Auskunftserteilung nach Artikel 18
+des Abkommens vom 1. Oktober 2008 in Bezug auf die zur Person des
 Betroffenen übermittelten Daten geltend.
 
 (2) Das Bundeskriminalamt unterrichtet den Betroffenen unverzüglich
@@ -80,14 +77,10 @@ Auskunft über
 
 1.  die zu der Person des Betroffenen gespeicherten Daten,
 
-
 2.  die Empfänger oder Kategorien von Empfängern, an die die Daten
     weitergegeben worden sind, und
 
-
 3.  über den Zweck der Speicherung.
-
-
 
 Die Unterrichtung über den Inhalt der Auskunft unterbleibt, soweit
 
@@ -95,18 +88,14 @@ Die Unterrichtung über den Inhalt der Auskunft unterbleibt, soweit
     Zuständigkeit des Bundeskriminalamtes liegenden Aufgaben gefährden
     würde,
 
-
 2.  die Unterrichtung die öffentliche Sicherheit oder Ordnung gefährden
     oder sonst dem Wohle des Bundes oder eines Landes Nachteile bereiten
     würde oder
-
 
 3.  die Daten oder die Tatsache ihrer Speicherung nach einer
     Rechtsvorschrift oder ihrem Wesen nach, insbesondere wegen der
     überwiegenden berechtigten Interessen eines Dritten, geheim gehalten
     werden müssen
-
-
 
 und deswegen das Interesse des Betroffenen an der Auskunftserteilung
 zurücktreten muss.
@@ -119,8 +108,8 @@ diesem Fall ist der Betroffene darauf hinzuweisen, dass er sich an den
 Bundesbeauftragten für den Datenschutz und die Informationsfreiheit
 wenden kann.
 
-(4) Unterbleibt die Unterrichtung des Betroffenen nach Absatz 2, so
-ist auf Verlangen des Betroffenen der Bundesbeauftragte für den
+(4) Unterbleibt die Unterrichtung des Betroffenen nach Absatz 2,
+so ist auf Verlangen des Betroffenen der Bundesbeauftragte für den
 Datenschutz und die Informationsfreiheit zu unterrichten, soweit nicht
 die jeweils zuständige oberste Bundesbehörde im Einzelfall feststellt,
 dass dadurch die Sicherheit des Bundes oder eines Landes gefährdet
@@ -130,10 +119,10 @@ zulassen, sofern diese nicht einer weitergehenden Auskunft zustimmt.
 
 (5) Auf Antrag des Betroffenen hat die Bundesrepublik Deutschland,
 vertreten durch das Bundeskriminalamt, bei der zuständigen nationalen
-Kontaktstelle der Vereinigten Staaten von Amerika nach Artikel 14 Abs.
-1 des Abkommens vom 1. Oktober 2008 die Berichtigung, Sperrung oder
-Löschung der zu der Person des Betroffenen übermittelten Daten zu
-verlangen, wenn diese Daten unrichtig oder unvollständig sind oder
+Kontaktstelle der Vereinigten Staaten von Amerika nach Artikel 14
+Abs. 1 des Abkommens vom 1. Oktober 2008 die Berichtigung, Sperrung
+oder Löschung der zu der Person des Betroffenen übermittelten Daten
+zu verlangen, wenn diese Daten unrichtig oder unvollständig sind oder
 ihre Erhebung oder Weiterverarbeitung in Widerspruch zu dem Abkommen
 oder zu anderen gesetzlichen Vorschriften steht.
 

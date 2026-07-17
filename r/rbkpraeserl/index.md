@@ -1,6 +1,5 @@
 ---
-Title: Erlaß über die Ermächtigung des Präsidenten der Deutschen Reichsbank zur Bestellung
-  von ständigen Vertretern
+Title: Erlaß über die Ermächtigung des Präsidenten der Deutschen Reichsbank zur Bestellung von ständigen Vertretern
 jurabk: RBkPräsErl
 layout: default
 origslug: rbkpr_serl

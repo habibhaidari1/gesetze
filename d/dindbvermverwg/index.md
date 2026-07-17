@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl I: 1974, 1037
 
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
@@ -27,9 +26,9 @@ beschlossen:
 
 (1) Das Vermögen der Deutschen Industriebank darf im Wege der
 Verschmelzung auf die Industriekreditbank Aktiengesellschaft
-übertragen werden. Auf die Verschmelzung finden die Vorschriften des
-Aktiengesetzes und § 25 der Dritten Durchführungsverordnung zum
-Aktiengesetz vom 21. Dezember 1938 (Reichsgesetzbl. I S. 1839)
+übertragen werden. Auf die Verschmelzung finden die Vorschriften
+des Aktiengesetzes und § 25 der Dritten Durchführungsverordnung
+zum Aktiengesetz vom 21. Dezember 1938 (Reichsgesetzbl. I S. 1839)
 Anwendung.
 
 (2) Die Verschmelzung darf in das Handelsregister des Sitzes der
@@ -44,22 +43,16 @@ Satzung sicherstellt, daß
 1.  die Stiftung ausschließlich der Förderung der gewerblichen Wirtschaft
     dient,
 
-
 2.  die Stiftung ein Organ erhält, das die Geschäftsführung des Vorstandes
     zu überwachen hat,
-
 
 3.  die Bundesrepublik Deutschland sowie die Länder Nordrhein-Westfalen
     und Berlin in dem in Nummer 2 genannten Organ vertreten sind,
 
-
 4.  die Veräußerung von Aktien der Industriekreditbank Aktiengesellschaft
-    aus dem Stiftungsvermögen sowie eine Änderung der Satzung gegen die
-    Mehrheit der Stimmen der Vertreter der in Nummer 3 genannten
+    aus dem Stiftungsvermögen sowie eine Änderung der Satzung gegen
+    die Mehrheit der Stimmen der Vertreter der in Nummer 3 genannten
     Körperschaften nicht erfolgen kann.
-
-
-
 
 
 ## § 2

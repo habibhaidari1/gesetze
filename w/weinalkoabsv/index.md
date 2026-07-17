@@ -24,10 +24,10 @@ Zuletzt geändert durch
 
 ## § 1 Anwendungsbereich
 
-Die Vorschriften dieser Verordnung gelten für die Durchführung der
-Rechtsakte des Rates und der Kommission der Europäischen
-Gemeinschaften über den Absatz von Alkohol aus Destillationen im
-Rahmen der gemeinsamen Marktorganisation für Wein sowie seine
+Die Vorschriften dieser Verordnung gelten für die Durchführung
+der Rechtsakte des Rates und der Kommission der Europäischen
+Gemeinschaften über den Absatz von Alkohol aus Destillationen
+im Rahmen der gemeinsamen Marktorganisation für Wein sowie seine
 Verwendung, Verarbeitung oder Ausfuhr. Die Vorschriften des
 Alkoholsteuergesetzes und der zu seiner Ausführung erlassenen
 Rechtsverordnungen bleiben unberührt.
@@ -44,8 +44,8 @@ die Bundesfinanzverwaltung zuständig ist.
 ## § 3 Überwachung
 
 (1) Der Alkohol wird vom Zeitpunkt der Abgabe aus dem
-Interventionslager bis zu seiner Verwendung, Verarbeitung oder Ausfuhr
-aus Marktordnungsgründen der amtlichen Überwachung durch die
+Interventionslager bis zu seiner Verwendung, Verarbeitung oder
+Ausfuhr aus Marktordnungsgründen der amtlichen Überwachung durch die
 Bundesfinanzverwaltung nach Maßgabe dieser Verordnung unterstellt.
 
 (2) Überwachende Zollstelle ist die Zollstelle, in deren Bezirk der
@@ -69,18 +69,14 @@ der überwachenden Stelle nach § 3 Abs. 2 mitzuteilen
 1.  die Betriebsstätte, in der die Verwendung oder Verarbeitung erfolgen
     soll (Verwendungs- oder Verarbeitungsbetrieb),
 
-
 2.  Beginn und Ende der Beförderung des erworbenen Alkohols vom
-    Interventionslager zum Verwendungs- oder Verarbeitungsbetrieb, die
-    nach den Vorschriften des Alkoholsteuergesetzes und den dazu
+    Interventionslager zum Verwendungs- oder Verarbeitungsbetrieb,
+    die nach den Vorschriften des Alkoholsteuergesetzes und den dazu
     ergangenen Ausführungsbestimmungen im Steueraussetzungsverfahren zu
     erfolgen hat,
 
-
 3.  Beginn und Ende des Zeitraums, in der die Verwendung oder Verarbeitung
     stattfinden soll.
-
-
 
 Der Mitteilung ist der von der Bundesanstalt ausgestellte Abholschein
 beizufügen.
@@ -90,13 +86,13 @@ Verarbeitungsbetrieb darf erst erfolgen, nachdem die überwachende
 Stelle nach § 3 Abs. 2 vor Ort eine materielle Überprüfung der
 transportierten Alkoholmenge durchgeführt hat. Der Verwender oder
 Verarbeiter hat den erworbenen Alkohol unverzüglich nach der Übernahme
-in einen in dem Verwendungs- oder Verarbeitungsbetrieb gelegenen oder
-von der überwachenden Stelle nach § 3 Abs. 2 zugelassenen Lagerraum zu
-verbringen und bis zur Verwendung oder Verarbeitung in den
-ursprünglichen Behältnissen zu belassen. In Tankwagen bezogener
-Alkohol ist in von der überwachenden Stelle nach § 3 Abs. 2
-zugelassene Lagerbehältnisse zu verbringen. Soweit es sich um ein nach
-§ 2a zugelassenes Unternehmen handelt, sind die in der Zulassung
+in einen in dem Verwendungs- oder Verarbeitungsbetrieb gelegenen
+oder von der überwachenden Stelle nach § 3 Abs. 2 zugelassenen
+Lagerraum zu verbringen und bis zur Verwendung oder Verarbeitung
+in den ursprünglichen Behältnissen zu belassen. In Tankwagen
+bezogener Alkohol ist in von der überwachenden Stelle nach § 3 Abs.
+2 zugelassene Lagerbehältnisse zu verbringen. Soweit es sich um ein
+nach § 2a zugelassenes Unternehmen handelt, sind die in der Zulassung
 aufgeführten Lagermöglichkeiten in Anspruch zu nehmen.
 
 (3) Auf Verlangen der überwachenden Stelle nach § 3 Abs. 2 hat der
@@ -105,12 +101,9 @@ Verwender oder Verarbeiter
 1.  einen Orts- und Lageplan der Betriebsräume, in denen der Alkohol
     gelagert und verwendet oder verarbeitet werden soll, und
 
-
 2.  eine Beschreibung der vorgesehenen Verwendung oder Verarbeitung, im
     Falle der Verarbeitung unter Angabe von Art und Menge der Zutaten
     sowie der voraussichtlichen Ausbeute,
-
-
 
 vorzulegen, sofern dies nicht bereits nach dem Alkoholsteuergesetz
 sowie aus den zu seiner Ausführung erlassenen Rechtsverordnungen
@@ -129,37 +122,26 @@ Verwender oder Verarbeiter verpflichtet,
 
 1.  ordnungsgemäß kaufmännische Bücher zu führen,
 
-
 2.  gesonderte Aufzeichnungen zu fertigen über
 
-    a)  den Zugang und Abgang oder den sonstigen Verbleib sowie den Bestand an
-        Alkohol,
-
+    a)  den Zugang und Abgang oder den sonstigen Verbleib sowie den Bestand
+        an Alkohol,
 
     b)  die bestimmungsgemäß verwendeten Mengen an Alkohol und die
         hergestellten Mengen an Verarbeitungserzeugnissen, Nebenerzeugnissen
         und Abfällen,
 
-
     c)  die in den Verarbeitungserzeugnissen enthaltenen Mengen an Alkohol,
-
 
     d)  Art und Menge der dem Alkohol oder den Verarbeitungserzeugnissen
         beigegebenen Stoffe,
 
-
-
-
-
 3.  der überwachenden Stelle nach § 3 Abs. 2 jede Veränderung der nach § 4
     Abs. 3 gemachten Angaben unverzüglich anzuzeigen.
 
-
-
-
 (2) Wer an einer in § 1 genannten Maßnahme als Verwender oder
-Verarbeiter teilnimmt, hat sämtliche Unterlagen, Aufzeichnungen und
-Belege, die sich auf diese Maßnahme beziehen, sechs Jahre lang
+Verarbeiter teilnimmt, hat sämtliche Unterlagen, Aufzeichnungen
+und Belege, die sich auf diese Maßnahme beziehen, sechs Jahre lang
 aufzubewahren, soweit nicht längere Aufbewahrungsfristen nach anderen
 Vorschriften bestehen. Die Aufbewahrungsfrist beginnt mit dem Schluss
 des Kalenderjahres, in dem die Unterlage, die Aufzeichnung oder der
@@ -173,29 +155,20 @@ Branntweinsteuerverordnung sinngemäß.
 
 ## § 6 Anzeigepflichten
 
-Der Verwender oder Verarbeiter hat der überwachenden Stelle nach § 3
-Abs. 2 das Ende der Verwendung oder Verarbeitung unverzüglich
-schriftlich in dreifacher Ausfertigung anzuzeigen. In der Anzeige sind
-anzugeben
+Der Verwender oder Verarbeiter hat der überwachenden Stelle nach
+§ 3 Abs. 2 das Ende der Verwendung oder Verarbeitung unverzüglich
+schriftlich in dreifacher Ausfertigung anzuzeigen. In der Anzeige
+sind anzugeben
 
 1.  die verwendete oder verarbeitete Alkoholmenge,
-
 
 2.  die Nummer des Abholscheins (§ 4 Abs. 1 Satz 2), auf den sich die
     Anzeige bezieht, und
 
-
-3.
-    a)  im Falle der Verwendung die Art der Verwendung oder
-
+3.  a)  im Falle der Verwendung die Art der Verwendung oder
 
     b)  im Falle der Verarbeitung Art, Menge und Alkoholgehalt der
         Verarbeitungserzeugnisse, etwaiger Nebenerzeugnisse und Abfälle.
-
-
-
-
-
 
 Die überwachende Stelle nach § 3 Abs. 2 kann, soweit im Einzelfall
 erforderlich, weitere Angaben fordern.
@@ -206,8 +179,8 @@ erforderlich, weitere Angaben fordern.
 Zum Zwecke der Überwachung hat der Beteiligte den überwachenden
 Stellen nach § 3 Abs. 2 das Betreten der Geschäftsräume und
 Betriebsstätten und die Aufnahme der Bestände an Alkohol und
-Verarbeitungserzeugnissen während der Geschäfts- und Betriebszeit zu
-gestatten, auf Verlangen die in Betracht kommenden kaufmännischen
+Verarbeitungserzeugnissen während der Geschäfts- und Betriebszeit
+zu gestatten, auf Verlangen die in Betracht kommenden kaufmännischen
 Bücher, besonderen Aufzeichnungen, Belege und sonstigen Schriftstücke
 zur Einsicht vorzulegen, Auskunft zu erteilen und die erforderliche
 Unterstützung zu gewähren. Bei elektronischer Buchführung hat der
@@ -242,8 +215,8 @@ Bestimmung von Erzeugnissen aus den Beständen der Interventionsstellen
 (ABl. EG Nr. L 301 S. 17, 1993 Nr. L 289 S. 40) in der jeweils
 geltenden Fassung im Abgangsmitgliedstaat erteilten Kontrollexemplar
 T5 anzumelden. § 3 Abs. 3 und die §§ 4 bis 8 finden mit der Maßgabe
-Anwendung, dass an die Stelle des in § 4 Abs. 1 Satz 2 und des in § 6
-Nr. 2 genannten Abholscheins der Antrag auf amtliche Überwachung
+Anwendung, dass an die Stelle des in § 4 Abs. 1 Satz 2 und des in §
+6 Nr. 2 genannten Abholscheins der Antrag auf amtliche Überwachung
 tritt.
 
 
@@ -256,20 +229,20 @@ jeweils eine Durchschrift des Abholscheins an die Zollstelle, in deren
 Bezirk der Alkohol ausgelagert wird. Der Abnehmer hat den Alkohol
 unverzüglich nach der Übernahme der in Satz 1 genannten Zollstelle zu
 gestellen und ein Kontrollexemplar T5 in der jeweils geltenden Fassung
-in zwei Stücken unter Angabe der übernommenen Menge des Alkohols, der
-Nummer des Abholscheins sowie mit den nach den in § 1 genannten
+in zwei Stücken unter Angabe der übernommenen Menge des Alkohols,
+der Nummer des Abholscheins sowie mit den nach den in § 1 genannten
 Rechtsakten vorgeschriebenen Eintragungen vorzulegen.
 
 
 ## § 11 Ausfuhr
 
-(1) Soll Alkohol aus einem Interventionslager in unverändertem Zustand
-ausgeführt werden, übersendet die Bundesanstalt jeweils eine
-Durchschrift des Abholscheins an die Zollstelle, in deren Bezirk der
-Alkohol ausgelagert wird. Der Abnehmer hat den Alkohol unverzüglich
-der in Satz 1 genannten Zollstelle nach § 12 der
-Außenwirtschaftsverordnung zu übermitteln und anzumelden und dabei ein
-Kontrollexemplar T5 in zwei Stücken unter Angabe der übernommenen
+(1) Soll Alkohol aus einem Interventionslager in unverändertem
+Zustand ausgeführt werden, übersendet die Bundesanstalt jeweils
+eine Durchschrift des Abholscheins an die Zollstelle, in deren
+Bezirk der Alkohol ausgelagert wird. Der Abnehmer hat den Alkohol
+unverzüglich der in Satz 1 genannten Zollstelle nach § 12 der
+Außenwirtschaftsverordnung zu übermitteln und anzumelden und dabei
+ein Kontrollexemplar T5 in zwei Stücken unter Angabe der übernommenen
 Menge des Alkohols, der Nummer des Abholscheins sowie mit den nach den
 in § 1 genannten Rechtsakten vorgeschriebenen Eintragungen vorzulegen.
 
@@ -279,18 +252,14 @@ dem Kontrollexemplar T5 anzugeben
 
 1.  die für das Verarbeitungserzeugnis verwendete Alkoholmenge und
 
-
 2.  die Nummer des Abholscheins oder im Falle des § 9 Nummer und Datum des
     Antrags auf amtliche Überwachung.
 
 
-
-
-
 ## § 12 Muster, Vordrucke
 
-Für die Mitteilung nach § 4 Abs. 1, die Anzeige nach § 6 Abs. 1 sowie
-den Antrag und die Anmeldung nach § 9 Abs. 2 kann das
+Für die Mitteilung nach § 4 Abs. 1, die Anzeige nach § 6 Abs.
+1 sowie den Antrag und die Anmeldung nach § 9 Abs. 2 kann das
 Bundesministerium der Finanzen Muster in der "Vorschriftensammlung
 Bundesfinanzverwaltung" bekannt geben oder Vordrucke bei den
 überwachenden Stellen nach § 3 Abs. 2 bereithalten . Soweit Muster

@@ -1,9 +1,5 @@
 ---
-Title: Bekanntmachung über die Voraussetzungen für die Auszahlung der von Israel für
-  das deutsche weltliche Vermögen in Israel geleisteten Entschädigung durch die Regierung
-  der Bundesrepublik Deutschland oder die Regierung des Australischen Bundes und über
-  die Entschädigungsbeträge, die für die einzelnen Gruppen von Vermögensschäden für
-  die Verteilung durch die Bundesrepublik Deutschland zur Verfügung stehen
+Title: Bekanntmachung über die Voraussetzungen für die Auszahlung der von Israel für das deutsche weltliche Vermögen in Israel geleisteten Entschädigung durch die Regierung der Bundesrepublik Deutschland oder die Regierung des Australischen Bundes und über die Entschädigungsbeträge, die für die einzelnen Gruppen von Vermögensschäden für die Verteilung durch die Bundesrepublik Deutschland zur Verfügung stehen
 jurabk: VermRglISRBek
 layout: default
 origslug: vermrglisrbek
@@ -18,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 1965, 1728
-
 
 
 ## (XXXX)
@@ -44,11 +39,10 @@ vom 1. Juni 1962 gezahlten Entschädigung (Bundesgesetzbl. 1965 I S.
         weiterer Erbe eines unmittelbar Geschädigten in Betracht kommt, wenn
         der unmittelbar Geschädigte am 1. Juni 1962 seinen Wohnsitz oder
         ständigen Aufenthalt nicht in Australien hatte. Ist der unmittelbar
-        Geschädigte vor dem 1. Juni 1962 verstorben, so werden seine Erben
-        oder weiteren Erben, wenn sie ihren Wohnsitz oder ständigen Aufenthalt
-        am 1. Juni 1962 nicht in Australien hatten, aus dem auf die
+        Geschädigte vor dem 1. Juni 1962 verstorben, so werden seine
+        Erben oder weiteren Erben, wenn sie ihren Wohnsitz oder ständigen
+        Aufenthalt am 1. Juni 1962 nicht in Australien hatten, aus dem auf die
         Bundesrepublik Deutschland entfallenden Anteil entschädigt.
-
 
     b)  Aus dem auf den Australischen Bund entfallenden Anteil werden Personen
         entschädigt, die von der Regierung des Australischen Bundes als
@@ -57,56 +51,40 @@ vom 1. Juni 1962 gezahlten Entschädigung (Bundesgesetzbl. 1965 I S.
         dies nicht der Fall ist, an Stelle einer solchen Person Entschädigung
         beanspruchen.
 
-
-
-
-
-2.  Von dem auf die Bundesrepublik Deutschland entfallenden Anteil an der
-    Gesamtentschädigung stehen für die in § 1 Buchstaben a und b des
-    Gesetzes vom 29. März 1965 bezeichneten Verluste folgende Beträge zur
-    Verfügung:
+2.  Von dem auf die Bundesrepublik Deutschland entfallenden Anteil an
+    der Gesamtentschädigung stehen für die in § 1 Buchstaben a und b des
+    Gesetzes vom 29. März 1965 bezeichneten Verluste folgende Beträge
+    zur Verfügung:
 
     a)  Nach Artikel 5 Abs. 2 Buchstabe a des deutsch-australischen Vertrages
-        vom 21. April 1965 der Betrag von 17 460 000 DM für den unter das
+        vom 21. April 1965 der Betrag von 17 460 000 DM für den unter das
         deutsch-israelische Abkommen vom 1. Juni 1962 fallenden Verlust des in
         Israel belegenen Grundbesitzes.
 
-
     b)  Nach Artikel 5 Abs. 2 Buchstabe b des deutsch-australischen Vertrages
-        vom 21. April 1965 der Betrag von 747 088 DM für den Verlust von
+        vom 21. April 1965 der Betrag von 747 088 DM für den Verlust von
         Vermögenswerten, über die vor Errichtung des Staates Israel verfügt
         worden und deren Gegenwert in dem im Briefwechsel Nr. 1 zum deutsch-
-        israelischen Abkommen vom 1. Juni 1962 bezeichneten Betrage von
-        1 793 000
-        Pfund enthalten ist.
-
-
-
-
+        israelischen Abkommen vom 1. Juni 1962 bezeichneten Betrage von 1 793
+        000 Pfund enthalten ist.
 
 3.  Die Entschädigungsbeträge
 
-    a)  für den Verlust von Vermögenswerten, über die vor Errichtung des
-        Staates Israel verfügt worden und deren Gegenwert in dem im
-        Briefwechsel Nr. 1 zum deutsch-israelischen Abkommen vom 1. Juni 1962
-        bezeichneten Betrag von 346 000
-        Pfund enthalten ist, in Höhe von insgesamt 1 098 336 DM,
-
+    a)  für den Verlust von Vermögenswerten, über die vor Errichtung
+        des Staates Israel verfügt worden und deren Gegenwert in dem im
+        Briefwechsel Nr. 1 zum deutsch-israelischen Abkommen vom 1. Juni
+        1962 bezeichneten Betrag von 346 000 Pfund enthalten ist, in Höhe von
+        insgesamt 1 098 336 DM,
 
     b)  für den Verlust von in Israel belegenem Betriebsvermögen, mit Ausnahme
         von Betriebsgrundstücken, für das Israel nach dem deutsch-israelischen
         Abkommen vom 1. Juni 1962 Entschädigung geleistet hat, in Höhe von
-        insgesamt 1 940 000 DM
+        insgesamt 1 940 000 DM
 
-
-
-
-    sind zwischen Deutschland und Australien noch nicht aufgeteilt worden.
-    Es wird insoweit auf die die spätere Aufteilung regelnden Artikel 7
-    und 8 des deutsch-australischen Vertrages vom 21. April 1965
-    verwiesen.
-
-
+    sind zwischen Deutschland und Australien noch nicht aufgeteilt
+    worden. Es wird insoweit auf die die spätere Aufteilung regelnden
+    Artikel 7 und 8 des deutsch-australischen Vertrages vom 21. April
+    1965 verwiesen.
 
 Der Bundesminister der Finanzen
 

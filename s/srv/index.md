@@ -15,16 +15,16 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2015, 2135
 
-Geändert durch
-:   Art. 14 G v. 7.7.2021 I 2363
+Zuletzt geändert durch
+:   Art. 5 G v. 22.12.2025 I Nr. 349
 
 
 ## Eingangsformel
 
-Auf Grund des § 945b der Zivilprozessordnung, der durch Artikel 1
-Nummer 27 des Gesetzes vom 10. Oktober 2013 (BGBl. I S. 3786)
-eingefügt worden ist, in Verbindung mit § 62 Absatz 2 Satz 3 und § 85
-Absatz 2 Satz 3 des Arbeitsgerichtsgesetzes, die durch Artikel 3
+Auf Grund des § 945b der Zivilprozessordnung, der durch Artikel
+1 Nummer 27 des Gesetzes vom 10. Oktober 2013 (BGBl. I S. 3786)
+eingefügt worden ist, in Verbindung mit § 62 Absatz 2 Satz 3 und §
+85 Absatz 2 Satz 3 des Arbeitsgerichtsgesetzes, die durch Artikel 3
 Nummer 6 und 7 des Gesetzes vom 10. Oktober 2013 (BGBl. I S. 3786)
 eingefügt worden sind, sowie in Verbindung mit § 1 Absatz 2 des
 Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165)
@@ -42,14 +42,9 @@ Angaben zu enthalten:
 
 1.  die Bezeichnung der Parteien,
 
-
 2.  die bestimmte Angabe des Gegenstands,
 
-
 3.  das Datum und die Uhrzeit der Einstellung der Schutzschrift.
-
-
-
 
 (3) Das Register enthält eine Suchfunktion, die es dem Gericht
 ermöglicht, nach der Bezeichnung der Parteien zu suchen. Auf Grundlage
@@ -66,9 +61,9 @@ toleriert werden.
 
 (1) Zur Einreichung einer Schutzschrift bei dem Register ist jeder
 berechtigt, der eine Schutzschrift gemäß § 945a Absatz 1 Satz 2 der
-Zivilprozessordnung bei Gericht einreichen kann. Der Schutzschrift ist
-ein einheitlich strukturierter Datensatz beizufügen, der mindestens
-die Angaben nach § 1 Absatz 2 Nummer 1 und 2 enthält. Der
+Zivilprozessordnung bei Gericht einreichen kann. Der Schutzschrift
+ist ein einheitlich strukturierter Datensatz beizufügen, der
+mindestens die Angaben nach § 1 Absatz 2 Nummer 1 und 2 enthält. Der
 Schutzschrift können Anlagen beigefügt werden.
 
 (2) Die Schutzschrift, ihre Anlagen und der strukturierte Datensatz
@@ -77,10 +72,10 @@ bei dem Register einzureichen.
 
 (3) Das elektronische Dokument muss für die Bearbeitung durch das
 Register geeignet sein. Der Betreiber des Registers bestimmt die
-technischen Rahmenbedingungen der Einreichung. Die Bestimmungen müssen
-in angemessener Weise den Zugang zum Register sicherstellen und
-regelmäßig an den jeweiligen Stand der Technik angepasst werden. Sie
-sind vom Betreiber des Registers auf seiner Internetseite zu
+technischen Rahmenbedingungen der Einreichung. Die Bestimmungen
+müssen in angemessener Weise den Zugang zum Register sicherstellen
+und regelmäßig an den jeweiligen Stand der Technik angepasst werden.
+Sie sind vom Betreiber des Registers auf seiner Internetseite zu
 veröffentlichen.
 
 (4) Das elektronische Dokument, das die Schutzschrift enthält, muss
@@ -89,27 +84,33 @@ Person versehen sein. Wird das elektronische Dokument auf einem
 sicheren Übermittlungsweg eingereicht, genügt es, wenn die
 Schutzschrift durch die verantwortende Person signiert wird.
 
-(5) Sichere Übermittlungswege sind
+(5) Sichere Übermittlungswege sind:
 
-1.  der Postfach- und Versanddienst eines De-Mail-Kontos, wenn der
-    Absender bei Versand der Nachricht sicher im Sinne des § 4 Absatz 1
-    Satz 2 des
-    De-Mail-Gesetzes                    angemeldet ist und er sich die
-    sichere Anmeldung gemäß § 5 Absatz 5 des
-    De-Mail-Gesetzes                    bestätigen lässt,
+1.  der Übermittlungsweg zwischen den besonderen elektronischen
+    Anwaltspostfächern nach den §§ 31a und 31b der
+    Bundesrechtsanwaltsordnung und dem Register,
 
-
-2.  der Übermittlungsweg zwischen dem besonderen elektronischen
-    Anwaltspostfach nach § 31a der Bundesrechtsanwaltsordnung und dem
-    Register,
-
-
-3.  der Übermittlungsweg zwischen einem auf gesetzlicher Grundlage
+2.  der Übermittlungsweg zwischen einem auf gesetzlicher Grundlage
     errichteten elektronischen Postfach, das dem Anwaltspostfach nach
-    Nummer 2 entspricht, und dem Register.
+    Nummer 1 entspricht, und dem Register,
 
+3.  der Übermittlungsweg zwischen einem nach Durchführung eines
+    Identifizierungsverfahrens eingerichteten Postfach einer Behörde oder
+    einer juristischen Person des öffentlichen Rechts und dem Register,
 
+4.  der Übermittlungsweg zwischen einem nach Durchführung eines
+    Identifizierungsverfahrens eingerichteten elektronischen Postfach
+    einer natürlichen oder juristischen Person oder einer sonstigen
+    Vereinigung und dem Register,
 
+5.  der Übermittlungsweg zwischen einem nach Durchführung eines
+    Identifizierungsverfahrens genutzten Postfach- und Versanddienst eines
+    Nutzerkontos im Sinne des § 2 Absatz 5 des Onlinezugangsgesetzes und
+    dem Register,
+
+6.  sonstige bundeseinheitliche Übermittlungswege, die durch
+    Rechtsverordnung nach § 130a Absatz 4 Satz 1 Nummer 5 der
+    Zivilprozessordnung festgelegt werden.
 
 (6) Ist ein elektronisches Dokument für das Register zur Bearbeitung
 nicht geeignet, hat der Betreiber des Registers dies dem Absender
@@ -157,9 +158,9 @@ Gericht unverzüglich mitgeteilt.
 ## § 5 Protokollierungs- und Mitteilungspflichten
 
 (1) Jeder Abruf ist unter Angabe des Gerichts, des gerichtlichen
-Aktenzeichens, sofern ein solches bereits vergeben wurde, der
-Suchbegriffe, des Zeitpunkts des Abrufes, des Ergebnisses der
-Suchanfrage und der übermittelten Daten elektronisch zu
+Aktenzeichens, sofern ein solches bereits vergeben wurde,
+der Suchbegriffe, des Zeitpunkts des Abrufes, des Ergebnisses
+der Suchanfrage und der übermittelten Daten elektronisch zu
 protokollieren. Das Protokoll wird elektronisch an das abrufende
 Gericht übersandt; eine Einstellung des Protokolls in das Register
 erfolgt nicht.
@@ -214,8 +215,8 @@ unverzüglich Kenntnis erlangt. Störungen sind unverzüglich zu beheben.
 
 Der Betreiber des Registers hat durch organisatorische und technische
 Vorkehrungen sicherzustellen, dass für blinde und sehbehinderte
-Personen ein barrierefreier Zugang zum Register gewährleistet ist. Für
-die Gestaltung des Registers ist die Barrierefreie-
+Personen ein barrierefreier Zugang zum Register gewährleistet
+ist. Für die Gestaltung des Registers ist die Barrierefreie-
 Informationstechnik-Verordnung vom 12. September 2011 (BGBl. I S.
 1843) in der jeweils geltenden Fassung entsprechend anzuwenden.
 
@@ -225,8 +226,8 @@ Informationstechnik-Verordnung vom 12. September 2011 (BGBl. I S.
 (1) § 2 Absatz 4 Satz 2, Absatz 5 Nummer 2 und 3 dieser Verordnung
 tritt am 1. Januar 2017 in Kraft.
 
-(2) § 2 Absatz 5 Nummer 1 dieser Verordnung tritt am 1. Januar 2018 in
-Kraft.
+(2) § 2 Absatz 5 Nummer 1 dieser Verordnung tritt am 1. Januar 2018
+in Kraft.
 
 (3) Im Übrigen tritt diese Verordnung am 1. Januar 2016 in Kraft.
 

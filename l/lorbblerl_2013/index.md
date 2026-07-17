@@ -28,8 +28,8 @@ vom 23. Juni 1950.
 
 ## Art II
 
-(1) Das Silberne Lorbeerblatt ist ein Ehrenzeichen. Es wird als
-Auszeichnung für herausragende sportliche Leistungen auf
+(1) Das Silberne Lorbeerblatt ist ein Ehrenzeichen. Es wird
+als Auszeichnung für herausragende sportliche Leistungen auf
 internationaler Ebene verliehen.
 
 (2) Bei der Wertung der Leistung wird ein strenger internationaler
@@ -45,8 +45,8 @@ und eine Verleihungsurkunde.
 
 ## Art III
 
-Wurde das Silberne Lorbeerblatt bereits verliehen, erfolgt bei
-wiederholten sportlichen Spitzenleistungen, die erneut die
+Wurde das Silberne Lorbeerblatt bereits verliehen, erfolgt
+bei wiederholten sportlichen Spitzenleistungen, die erneut die
 Voraussetzungen für die Verleihung des Silbernen Lorbeerblattes
 erfüllen, die Ehrung durch Überreichung einer Anerkennungsurkunde.
 
@@ -57,8 +57,8 @@ erfüllen, die Ehrung durch Überreichung einer Anerkennungsurkunde.
 vorbildliche menschliche und charakterliche Haltung der oder des
 Auszuzeichnenden voraus.
 
-(2) Ein mit einer Sperre sanktionierter Verstoß gegen Anti-Doping-
-Bestimmungen durch Sportlerinnen und Sportler schließt eine
+(2) Ein mit einer Sperre sanktionierter Verstoß gegen Anti-
+Doping-Bestimmungen durch Sportlerinnen und Sportler schließt eine
 Auszeichnung grundsätzlich aus. Davon abweichende Vorschläge können
 frühestens nach Ablauf von zwei Jahren nach dem Ende der verhängten
 sportrechtlichen Sperre geprüft werden.
@@ -113,5 +113,6 @@ November 1980 (BGBl. I S. 2217), außer Kraft.
 ## Schlussformel
 
 Der Bundespräsident
+
 Der Bundesminister des Innern
 

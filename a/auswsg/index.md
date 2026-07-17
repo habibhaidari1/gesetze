@@ -25,8 +25,8 @@ Neufassung durch
 und über die Lebensverhältnisse im Einwanderungsland, insbesondere
 über die Arbeits- und Niederlassungsverhältnisse im Ausland oder in
 diesen Angelegenheiten Rat erteilen will, bedarf der Erlaubnis der
-zuständigen Behörde. Die Erlaubnis ist zu versagen, wenn Tatsachen die
-Annahme rechtfertigen, dass die antragstellende Person die für die
+zuständigen Behörde. Die Erlaubnis ist zu versagen, wenn Tatsachen
+die Annahme rechtfertigen, dass die antragstellende Person die für die
 Beratung erforderliche Zuverlässigkeit nicht besitzt, oder wenn die
 antragstellende Person die für die Beratung erforderliche Sachkunde
 nicht nachweist. Der Nachweis der Sachkunde gilt als erbracht, wenn
@@ -48,19 +48,19 @@ Erlaubnis Auswanderer beraten, erlischt die Erlaubnis mit Ablauf des
 31\. Dezember 2013.
 
 (3) Werden die in § 1 Absatz 1 Satz 1 Genannten von einer
-Niederlassung in einem anderen Mitgliedstaat der Europäischen Union
-oder einem anderen Vertragsstaat des Abkommens über den Europäischen
-Wirtschaftsraum aus in dem Geltungsbereich dieses Gesetzes
-vorübergehend selbständig tätig, bedürfen sie insoweit keiner
+Niederlassung in einem anderen Mitgliedstaat der Europäischen
+Union oder einem anderen Vertragsstaat des Abkommens über den
+Europäischen Wirtschaftsraum aus in dem Geltungsbereich dieses
+Gesetzes vorübergehend selbständig tätig, bedürfen sie insoweit keiner
 Erlaubnis.
 
 (4) Die zuständige Behörde kann die nach Absatz 1 erteilte Erlaubnis
-zurücknehmen, wenn nachträglich bekannt wird, dass bei ihrer Erteilung
-Tatsachen vorgelegen haben, aus denen sich der Mangel der
+zurücknehmen, wenn nachträglich bekannt wird, dass bei ihrer
+Erteilung Tatsachen vorgelegen haben, aus denen sich der Mangel der
 erforderlichen Zuverlässigkeit ergibt. Die Behörde kann die Erlaubnis
 widerrufen oder die Tätigkeit der in Absatz 2 bezeichneten Stellen
-verbieten, wenn nachträglich Tatsachen eintreten, aus denen sich der
-Mangel der erforderlichen Zuverlässigkeit ergibt, oder wenn eine
+verbieten, wenn nachträglich Tatsachen eintreten, aus denen sich
+der Mangel der erforderlichen Zuverlässigkeit ergibt, oder wenn eine
 Gewähr für eine sachkundige Beratung nicht gegeben ist.
 
 (5) Das Bundesministerium für Familie, Senioren, Frauen und Jugend
@@ -70,33 +70,28 @@ Bundesrates bedarf,
 1.  Ausnahmen von Absatz 1 Satz 1 zuzulassen, soweit dies zur Durchsetzung
     zwischenstaatlicher Vereinbarungen erforderlich ist,
 
-
 2.  näher zu bestimmen, welche Voraussetzungen geeignet sind, die
     Zuverlässigkeit und Sachkunde nach Absatz 1 Satz 2 zu begründen,
 
-
 3.  die Verwendung von Vordrucken zur Beantragung der Erlaubnis
-    anzuordnen, die Gestaltung der Vordrucke durch Muster festzulegen und
-    Vorgaben zu treffen, wie und in welcher Anzahl die Vordrucke
+    anzuordnen, die Gestaltung der Vordrucke durch Muster festzulegen
+    und Vorgaben zu treffen, wie und in welcher Anzahl die Vordrucke
     auszufüllen sind.
-
-
-
 
 
 ## § 2 Werbungsverbot
 
 (1) Es ist verboten, geschäftsmäßig für die Auswanderung zu werben.
 
-(2) Das Bundesministerium für Familie, Senioren, Frauen und Jugend
-kann durch Rechtsverordnung ohne Zustimmung des Bundesrates Ausnahmen
-von Absatz 1 zulassen, soweit dies zur Durchsetzung
+(2) Das Bundesministerium für Familie, Senioren, Frauen und
+Jugend kann durch Rechtsverordnung ohne Zustimmung des Bundesrates
+Ausnahmen von Absatz 1 zulassen, soweit dies zur Durchsetzung
 zwischenstaatlicher Vereinbarungen erforderlich ist. Das
 Bundesministerium für Familie, Senioren, Frauen und Jugend kann
-Ausnahmen von Absatz 1 aus besonderen Gründen zulassen, wenn dieses im
-öffentlichen Interesse liegt oder aus Gründen humanitärer oder
-sozialer Art angezeigt ist, insbesondere bei der Rückwanderung von
-Ausländern in ihre Heimat oder bei der Weiterwanderung dieser
+Ausnahmen von Absatz 1 aus besonderen Gründen zulassen, wenn dieses
+im öffentlichen Interesse liegt oder aus Gründen humanitärer oder
+sozialer Art angezeigt ist, insbesondere bei der Rückwanderung
+von Ausländern in ihre Heimat oder bei der Weiterwanderung dieser
 Personen.
 
 
@@ -109,13 +104,13 @@ zuständig.
 (2) Die Genehmigung wird nur auf schriftlichen oder elektronischen
 Antrag erteilt. Dem Antrag sind die zur Prüfung der persönlichen
 Zuverlässigkeit und Sachkunde erforderlichen Unterlagen beizufügen.
-Zur Beurteilung der erforderlichen Zuverlässigkeit ist mit dem Antrag
-auf Zulassung ein Führungszeugnis zur Vorlage bei der für die
+Zur Beurteilung der erforderlichen Zuverlässigkeit ist mit dem
+Antrag auf Zulassung ein Führungszeugnis zur Vorlage bei der für die
 Anerkennung zuständigen Behörde zu beantragen.
 
-(3) Bei der Prüfung eines Antrags auf Erlaubnis stehen den in Absatz 2
-bezeichneten Unterlagen entsprechende Nachweise aus einem anderen
-Mitgliedstaat der Europäischen Union oder aus einem anderen
+(3) Bei der Prüfung eines Antrags auf Erlaubnis stehen den in
+Absatz 2 bezeichneten Unterlagen entsprechende Nachweise aus einem
+anderen Mitgliedstaat der Europäischen Union oder aus einem anderen
 Mitgliedstaat des Abkommens über den Europäischen Wirtschaftsraum
 gleich, wenn aus ihnen hervorgeht, dass die antragstellende Person die
 Anforderungen nach Absatz 2 oder die im Wesentlichen vergleichbaren
@@ -137,12 +132,12 @@ abgewickelt werden.
 dieses Gesetzes erlassenen Rechtsverordnungen sind zur Deckung des
 Verwaltungsaufwandes Gebühren und Auslagen zu erheben.
 
-(2) Das Bundesministerium für Familie, Senioren, Frauen und Jugend
-wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des
+(2) Das Bundesministerium für Familie, Senioren, Frauen und
+Jugend wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des
 Bundesrates die gebührenpflichtigen Tatbestände und die Gebührenhöhe
 näher zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen.
-In der Rechtsverordnung nach Satz 1 kann die Erstattung von Auslagen
-abweichend vom Verwaltungskostengesetz geregelt und können
+In der Rechtsverordnung nach Satz 1 kann die Erstattung von
+Auslagen abweichend vom Verwaltungskostengesetz geregelt und können
 Ermäßigungen und Befreiungen von Gebühren und Auslagen zugelassen
 werden.
 
@@ -177,14 +172,9 @@ dürfen nur für Zwecke des Absatzes 1 verarbeitet werden.
     oder Rat erteilt oder einer vollziehbaren Auflage nach § 1 Absatz 1
     Satz 4 zuwiderhandelt,
 
-
 2.  einem vollziehbaren Verbot nach § 1 Absatz 3 zuwiderhandelt,
 
-
 3.  entgegen § 2 Absatz 1 geschäftsmäßig für die Auswanderung wirbt.
-
-
-
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
 zwanzigtausend Euro geahndet werden.
@@ -194,5 +184,4 @@ Gesetzes über Ordnungswidrigkeiten ist das Bundesverwaltungsamt.
 
 
 ## § 6 (Inkrafttreten)
-
 

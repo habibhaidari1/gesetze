@@ -16,7 +16,6 @@ Fundstelle
 :   BAnz: 1949, Nr 33
 
 
-
 ## (XXXX)
 
 (1) Auf Grund des § 1 Abs. 1 des Zweiten Gesetzes zur Neuordnung des

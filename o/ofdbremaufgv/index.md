@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl I: 1977, 1893
 
 
-
 ## Eingangsformel
 
 Auf Grund des § 8 Abs. 3 des Finanzverwaltungsgesetzes in der Fassung
@@ -34,8 +33,8 @@ hierdurch nicht.
 
 ## § 2
 
-Diese Verordnung gilt nach Maßgabe des § 14 des Dritten
-Überleitungsgesetzes in Verbindung mit § 23 des
+Diese Verordnung gilt nach Maßgabe des § 14 des
+Dritten Überleitungsgesetzes in Verbindung mit § 23 des
 Finanzverwaltungsgesetzes auch im Land Berlin.
 
 

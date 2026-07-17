@@ -1,7 +1,5 @@
 ---
-Title: Einhundertdreizehnte Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung
-  von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Flughafen
-  Dresden)
+Title: Einhundertdreizehnte Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Flughafen Dresden)
 jurabk: LuftVODV 113
 layout: default
 origslug: luftvodv_113
@@ -16,4 +14,7 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BAnz: 1992, Nr 35, 1157
+
+Fundstelle
+:   BAnz: 1992, 1157
 

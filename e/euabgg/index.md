@@ -1,6 +1,5 @@
 ---
-Title: Gesetz über die Rechtsverhältnisse der Mitglieder des Europäischen Parlaments
-  aus der Bundesrepublik Deutschland
+Title: Gesetz über die Rechtsverhältnisse der Mitglieder des Europäischen Parlaments aus der Bundesrepublik Deutschland
 jurabk: EuAbgG
 layout: default
 origslug: euabgg
@@ -29,7 +28,6 @@ beschlossen:
 ## Erster Abschnitt - Mandatsbewerbung und Mandatsausübung
 
 
-
 ### § 1 Anwendungsbereich
 
 Dieses Gesetz gilt für Bewerber um ein Mandat für das Europäische
@@ -55,19 +53,19 @@ Bewerbung um ein Mandat sowie dem Erwerb, der Annahme und Ausübung
 eines Mandats sind unzulässig.
 
 (3) Eine Kündigung oder Entlassung wegen des Erwerbs, der Annahme oder
-Ausübung des Mandats ist unzulässig. Im übrigen ist eine Kündigung nur
-aus wichtigem Grund zulässig. Der Kündigungsschutz beginnt mit der
-Aufstellung des Bewerbers durch das dafür zuständige Organ des
+Ausübung des Mandats ist unzulässig. Im übrigen ist eine Kündigung
+nur aus wichtigem Grund zulässig. Der Kündigungsschutz beginnt mit
+der Aufstellung des Bewerbers durch das dafür zuständige Organ des
 Wahlvorschlagsberechtigten. Er gilt ein Jahr nach Beendigung des
 Mandats fort.
 
 
 ### § 4 Wahlvorbereitungsurlaub, Berufs- und Betriebszeiten
 
-(1) Einem Bewerber um ein Mandat im Europäischen Parlament ist zur
-Vorbereitung seiner Wahl innerhalb der letzten zwei Monate vor dem
-Wahltag auf Antrag Urlaub von bis zu zwei Monaten zu gewähren. Ein
-Anspruch auf Fortzahlung der Bezüge besteht für die Dauer der
+(1) Einem Bewerber um ein Mandat im Europäischen Parlament ist
+zur Vorbereitung seiner Wahl innerhalb der letzten zwei Monate vor
+dem Wahltag auf Antrag Urlaub von bis zu zwei Monaten zu gewähren.
+Ein Anspruch auf Fortzahlung der Bezüge besteht für die Dauer der
 Beurlaubung nicht.
 
 (2) § 4 des Abgeordnetengesetzes gilt entsprechend.
@@ -87,15 +85,14 @@ Indemnität nach den Bestimmungen des Grundgesetzes.
 ### § 6 Zeugnisverweigerungsrecht
 
 Die Mitglieder des Europäischen Parlaments sind berechtigt, über
-Personen, die ihnen in ihrer Eigenschaft als Mitglieder oder denen sie
-in dieser Eigenschaft Tatsachen anvertraut haben, sowie über diese
-Tatsachen selbst das Zeugnis zu verweigern. Soweit dieses
-Zeugnisverweigerungsrecht reicht, ist die Beschlagnahme von
+Personen, die ihnen in ihrer Eigenschaft als Mitglieder oder
+denen sie in dieser Eigenschaft Tatsachen anvertraut haben, sowie
+über diese Tatsachen selbst das Zeugnis zu verweigern. Soweit
+dieses Zeugnisverweigerungsrecht reicht, ist die Beschlagnahme von
 Schriftstücken unzulässig.
 
 
 ## Zweiter Abschnitt - Unvereinbarkeiten, Angehörige des öffentlichen Dienstes
-
 
 
 ### § 7 Unvereinbarkeit von Ämtern, Funktionen und Mandaten mit der Mitgliedschaft im Europäischen Parlament
@@ -103,10 +100,10 @@ Schriftstücken unzulässig.
 Die in § 22 Abs. 2 Nr. 7 bis 15 des Europawahlgesetzes aufgeführten
 Ämter, Funktionen und Mandate sind mit der Mitgliedschaft im
 Europäischen Parlament unvereinbar. Ihr Inhaber erwirbt die
-Mitgliedschaft im Europäischen Parlament nach seiner Wahl nur, wenn er
-spätestens bis zur Eröffnung der ersten Sitzung des Europäischen
-Parlaments nach der Wahl oder in den Fällen des § 21 Abs. 2 des
-Europawahlgesetzes bis zur Annahmeerklärung gegenüber dem
+Mitgliedschaft im Europäischen Parlament nach seiner Wahl nur,
+wenn er spätestens bis zur Eröffnung der ersten Sitzung des
+Europäischen Parlaments nach der Wahl oder in den Fällen des § 21
+Abs. 2 des Europawahlgesetzes bis zur Annahmeerklärung gegenüber dem
 Bundeswahlleiter aus diesem Amt, dieser Funktion oder diesem Mandat
 ausscheidet.
 
@@ -115,19 +112,19 @@ ausscheidet.
 
 (1) Die Absätze 2 und 3 gelten für die Angehörigen des öffentlichen
 Dienstes des Bundes, der Länder, der Gemeinden und anderer
-Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts und
-ihrer Verbände mit Ausnahme der öffentlich-rechtlichen
+Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts
+und ihrer Verbände mit Ausnahme der öffentlich-rechtlichen
 Religionsgesellschaften und ihrer Verbände.
 
-(2) Stimmt ein Beamter, Richter, Berufssoldat, Soldat auf Zeit oder
-Arbeitnehmer seiner Aufstellung als Bewerber für die Wahl zum
-Europäischen Parlament zu, ist ihm auf Antrag innerhalb der letzten
-zwei Monate vor dem Wahltag der zur Vorbereitung seiner Wahl
-erforderliche Urlaub unter Wegfall der Besoldung oder des
+(2) Stimmt ein Beamter, Richter, Berufssoldat, Soldat auf Zeit
+oder Arbeitnehmer seiner Aufstellung als Bewerber für die Wahl
+zum Europäischen Parlament zu, ist ihm auf Antrag innerhalb der
+letzten zwei Monate vor dem Wahltag der zur Vorbereitung seiner
+Wahl erforderliche Urlaub unter Wegfall der Besoldung oder des
 Arbeitsentgelts zu gewähren.
 
-(3) Die §§ 5 bis 9 und 36 Abs. 1 und 2 des Abgeordnetengesetzes, § 36
-Abs. 2 des Deutschen Richtergesetzes, § 25 des Soldatengesetzes,
+(3) Die §§ 5 bis 9 und 36 Abs. 1 und 2 des Abgeordnetengesetzes, §
+36 Abs. 2 des Deutschen Richtergesetzes, § 25 des Soldatengesetzes,
 soweit er die Wahl zum Deutschen Bundestag betrifft, und die auf Grund
 des § 10 des Abgeordnetengesetzes erlassenen Gesetze sind entsprechend
 anzuwenden.
@@ -136,20 +133,19 @@ anzuwenden.
 ## Dritter Abschnitt - Leistungen an die Mitglieder des Europäischen Parlaments, an ehemalige Mitglieder und ihre Hinterbliebenen
 
 
-
 ### § 9 Entschädigung
 
-Ein Mitglied des Europäischen Parlaments, das sich nach Artikel 25
-Abs. 1 des Abgeordnetenstatuts des Europäischen Parlaments für die
-Anwendung dieses Gesetzes entscheidet, erhält eine monatliche
+Ein Mitglied des Europäischen Parlaments, das sich nach Artikel
+25 Abs. 1 des Abgeordnetenstatuts des Europäischen Parlaments für
+die Anwendung dieses Gesetzes entscheidet, erhält eine monatliche
 Entschädigung gemäß § 11 Abs. 1, 3 und 4 des Abgeordnetengesetzes.
 
 
 ### § 10 Freifahrtberechtigung und Erstattung von Fahrkosten
 
 Ein Mitglied des Europäischen Parlaments hat das Recht auf freie
-Benutzung aller Verkehrsmittel der Deutschen Bahn AG. Benutzt es in
-Ausübung des Mandats innerhalb des Bundesgebietes Flugzeuge,
+Benutzung aller Verkehrsmittel der Deutschen Bahn AG. Benutzt es
+in Ausübung des Mandats innerhalb des Bundesgebietes Flugzeuge,
 Schlafwagen oder sonstige schienengebundene Beförderungsmittel
 außerhalb des öffentlichen Personennahverkehrs, so werden die Kosten
 gegen Nachweis erstattet. Dies gilt nicht, soweit ein Anspruch auf
@@ -170,9 +166,9 @@ Ausführungsbestimmungen des Ältestenrates.
 
 ### § 10b Leistungen an ehemalige Mitglieder des Europäischen Parlaments und ihre Hinterbliebenen
 
-Die Vorschriften des Fünften Abschnitts und § 32 Abs. 4 bis 8, §§ 35,
-35a, 35b, 35c, 37 und 38 Abs. 1 des Abgeordnetengesetzes finden auf
-vor dem Inkrafttreten des Abgeordnetenstatuts des Europäischen
+Die Vorschriften des Fünften Abschnitts und § 32 Abs. 4 bis 8, §§
+35, 35a, 35b, 35c, 37 und 38 Abs. 1 des Abgeordnetengesetzes finden
+auf vor dem Inkrafttreten des Abgeordnetenstatuts des Europäischen
 Parlaments ausgeschiedene Mitglieder des Europäischen Parlaments sowie
 auf Mitglieder des Europäischen Parlaments, die sich nach Artikel 25
 Abs. 1 des Abgeordnetenstatuts des Europäischen Parlaments für die
@@ -184,16 +180,12 @@ den Maßgaben Anwendung, daß
     Versorgungsanspruch nach diesem Gesetz bis zur Höhe der
     Versicherungsleistung ruht,
 
-
-2.  die Versorgung solange ruht, bis die Versicherungsleistung aus der
-    Lebensversicherung oder sonstige vergleichbare Leistungen des
+2.  die Versorgung solange ruht, bis die Versicherungsleistung aus
+    der Lebensversicherung oder sonstige vergleichbare Leistungen des
     Europäischen Parlaments erreicht sind,
-
 
 3.  § 22 Abs. 2 Nr. 3 des Europawahlgesetzes an die Stelle des § 15 Abs. 2
     Nr. 2 des Bundeswahlgesetzes tritt.
-
-
 
 Zeiten der Mitgliedschaft im Europäischen Parlament gelten als Zeiten
 der Mitgliedschaft im Bundestag. Versorgungsansprüche nach diesem
@@ -213,8 +205,8 @@ auf Mitglieder des Europäischen Parlaments entsprechende Anwendung.
 
 ### § 12 Beginn und Ende der Ansprüche, Zahlungsvorschriften
 
-(1) Die in den §§ 9 bis 11 geregelten Ansprüche entstehen mit dem Tag
-der Feststellung des Bundeswahlausschusses (§ 18 Abs. 4 des
+(1) Die in den §§ 9 bis 11 geregelten Ansprüche entstehen mit dem
+Tag der Feststellung des Bundeswahlausschusses (§ 18 Abs. 4 des
 Europawahlgesetzes) oder der Annahme des Mandats.
 
 (2) Die Entschädigung nach § 9 wird monatlich im voraus gezahlt. Ist
@@ -232,7 +224,6 @@ Anwendung auf Leistungen nach diesem Gesetz.
 ## Vierter Abschnitt - Anrechnung beim Zusammentreffen mehrerer Bezüge aus öffentlichen Kassen
 
 
-
 ### § 13 Anrechnung
 
 (1) Die Entschädigung nach diesem Gesetz ruht, sofern das
@@ -242,17 +233,12 @@ Regelung getroffen hat,
 1.  neben einer Abgeordnetenentschädigung, die nach dem Abgeordnetengesetz
     eines Landes gewährt wird, bis zur Höhe dieser Entschädigung,
 
-
 2.  neben einer Versorgung, die nach dem Abgeordnetengesetz des Bundes
     oder eines Landes gewährt wird, bis zur Höhe dieser Versorgung,
-
 
 3.  neben einer Versorgung als Abgeordneter, die nach den einschlägigen
     Gesetzen der übrigen Mitgliedstaaten der Europäischen Union gewährt
     wird, bis zur Höhe dieser Versorgung.
-
-
-
 
 (2) § 29 Abs. 1, 2, 6, 7 und 9 des Abgeordnetengesetzes gilt
 entsprechend mit der Maßgabe, daß als Bezüge beziehungsweise
@@ -267,9 +253,9 @@ für Hinterbliebene nach dem Abgeordnetenstatut des Europäischen
 Parlaments mit auf Bundesrecht beruhenden anderen Bezügen aus
 öffentlichen Kassen zusammen, so gelten die Anrechnungs- und
 Ruhensbestimmungen des Abgeordnetengesetzes (§ 29) sinngemäß. Dabei
-tritt an die Stelle des Ruhens oder der Kürzung der Bezüge nach dem
-Abgeordnetenstatut des Europäischen Parlaments ein Ruhen oder eine
-Kürzung der Bezüge aus anderen öffentlichen Kassen in jeweils
+tritt an die Stelle des Ruhens oder der Kürzung der Bezüge nach
+dem Abgeordnetenstatut des Europäischen Parlaments ein Ruhen oder
+eine Kürzung der Bezüge aus anderen öffentlichen Kassen in jeweils
 entsprechender Höhe. Ferner ruhen Bezüge nach diesem Gesetz neben
 Bezügen nach dem Abgeordnetenstatut des Europäischen Parlaments in
 Höhe des Betrages, um den diese Bezüge die Höchstversorgungsbezüge
@@ -279,9 +265,7 @@ nach dem Abgeordnetengesetz übersteigen.
 ## Fünfter Abschnitt - (weggefallen)
 
 
-
 ### § 14 (weggefallen)
-
 
 
 ### Schlußformel

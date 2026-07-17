@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung betreffend den Markenschutz im Verhältnis zwischen dem Deutschen
-  Reiche und Griechenland
+Title: Bekanntmachung betreffend den Markenschutz im Verhältnis zwischen dem Deutschen Reiche und Griechenland
 jurabk: WZGRCBek
 layout: default
 origslug: wzgrcbek
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   RGBl II: 1924, 92
-
 
 
 ## (XXXX)
@@ -38,5 +36,6 @@ Dies wird mit Bezug auf § 23 Abs. 1 des Gesetzes zum Schutz der
 Warenbezeichnungen vom 12. Mai 1894 (Reichsgesetzbl. S. 441) und auf
 die Bekanntmachung vom 22. September 1894 (Reichsgesetzbl. S. 521)
 bekanntgemacht.
+
 Der Reichsminister des Auswärtigen
 

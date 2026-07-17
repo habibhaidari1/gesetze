@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen
-  Mark (Umweltkonferenz-Gedenkmünze)
+Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Umweltkonferenz-Gedenkmünze)
 jurabk: Münz5DMBek 1982-07
 layout: default
 origslug: m_nz5dmbek_1982-07
@@ -16,7 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1982, 1060
 
-Stand: Bek. v. 31. 8.1982 I 1304
+Stand
+:   Bek. v. 31. 8.1982 I 1304
+
 
 ## (XXXX)
 
@@ -30,8 +31,8 @@ Prägung erfolgt in der Staatlichen Münze Stuttgart.
 
 (2) Die Münze wird ab 11. November 1982 in den Verkehr gebracht.
 
-(3) Die Münze besteht überwiegend aus einer Kupfer-Nickel-Legierung
-(75 Prozent Kupfer und 25 Prozent Nickel) und hat einen
+(3) Die Münze besteht überwiegend aus einer Kupfer-Nickel-
+Legierung (75 Prozent Kupfer und 25 Prozent Nickel) und hat einen
 Reinnickelkern. Sie hat einen Durchmesser von 29 Millimetern und ein
 Gewicht von 10 Gramm.
 
@@ -43,27 +44,21 @@ wirbelförmig gegeneinander wirkenden Kreissegmenten.
 
 (6) Sie trägt die Umschrift:
 
-*    *   "UMWELTKONFERENZ . DER . VEREINTEN . NATIONEN . 1972".
-
-
-
+| "UMWELTKONFERENZ . DER . VEREINTEN . NATIONEN . 1972". |
+| --- |
 
 (7) Die Wertseite trägt einen Adler und die Umschrift:
 
-*    *   "BUNDESREPUBLIK . DEUTSCHLAND . 5 DEUTSCHE . MARK . 1982".
-
-
-
+| "BUNDESREPUBLIK . DEUTSCHLAND . 5 DEUTSCHE . MARK . 1982". |
+| --- |
 
 (8) Das Münzzeichen "F" der Staatlichen Münze Stuttgart befindet sich
 rechts neben der Wertziffer 5.
 
 (9) Der glatte Münzrand enthält die vertiefte Inschrift:
 
-*    *   "DIE EINE ERDE SCHUETZEN".
-
-
-
+| "DIE EINE ERDE SCHUETZEN". |
+| --- |
 
 (10) Zwischen Ende und Anfang der Randschrift ist das Internationale
 Umweltemblem dreifach eingeprägt.

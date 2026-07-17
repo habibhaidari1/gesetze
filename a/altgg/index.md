@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2013, 3386
 
 Zuletzt geändert durch
-:   Art. 71 G v. 20.8.2021 I 3932
+:   Art. 3 G v. 19.7.2024 I Nr. 247
 
 
 ## § 1 Geltungsbereich
@@ -26,21 +26,17 @@ Zuletzt geändert durch
 1.  Beamten auf Lebenszeit, die nach § 33 des Bundesbeamtengesetzes
     entlassen worden sind,
 
-
 2.  Richtern auf Lebenszeit, die nach § 21 Absatz 2 Nummer 4 des Deutschen
     Richtergesetzes entlassen worden sind, und
-
 
 3.  Berufssoldaten, die nach § 46 Absatz 3 des Soldatengesetzes entlassen
     worden sind,
 
-
-
 wenn zum Zeitpunkt der Entlassung dringende dienstliche Gründe nicht
 entgegenstehen, nach § 8 Absatz 2 des Sechsten Buches Sozialgesetzbuch
-eine Nachversicherung vorzunehmen wäre und sie vor Beendigung des
-Dienstverhältnisses eine Erklärung gegenüber dem Dienstherrn abgegeben
-haben, anstelle der Nachversicherung in der gesetzlichen
+eine Nachversicherung vorzunehmen wäre und sie vor Beendigung
+des Dienstverhältnisses eine Erklärung gegenüber dem Dienstherrn
+abgegeben haben, anstelle der Nachversicherung in der gesetzlichen
 Rentenversicherung das Altersgeld in Anspruch nehmen zu wollen.
 
 (2) Das Altersgeld wird auf der Grundlage der altersgeldfähigen
@@ -62,8 +58,8 @@ Gesetz geregelt.
 (2) § 3 Absatz 2 des Beamtenversorgungsgesetzes gilt entsprechend.
 
 (3) Soweit in diesem Gesetz auf Vorschriften des
-Beamtenversorgungsgesetzes verwiesen wird, sind bei Soldaten die
-entsprechenden Vorschriften des Soldatenversorgungsgesetzes
+Beamtenversorgungsgesetzes verwiesen wird, sind bei Soldaten
+die entsprechenden Vorschriften des Soldatenversorgungsgesetzes
 anzuwenden. Verweisen anzuwendende Vorschriften des
 Beamtenversorgungsgesetzes auf den Unterschiedsbetrag nach § 50 Absatz
 1, ist dieser Verweis insoweit unbeachtlich.
@@ -76,9 +72,9 @@ ganz oder teilweise zu erstatten sind, bleiben unberührt.
 ## § 3 Anspruch
 
 (1) Ein Anspruch auf Altersgeld und auf Hinterbliebenenaltersgeld
-besteht nur, wenn eine altersgeldfähige Dienstzeit nach § 6 Absatz 1
-bis 4 von mindestens fünf Jahren, davon mindestens vier Jahre im
-Bundesdienst, abgeleistet worden ist. Die Dienstzeit wird nur
+besteht nur, wenn eine altersgeldfähige Dienstzeit nach § 6 Absatz
+1 bis 4 von mindestens fünf Jahren, davon mindestens vier Jahre
+im Bundesdienst, abgeleistet worden ist. Die Dienstzeit wird nur
 berücksichtigt, sofern sie altersgeldfähig ist; § 6 Absatz 1 Satz 4
 ist insoweit nicht anzuwenden. Nicht zu berücksichtigen sind für die
 Erfüllung der nach Satz 1 erforderlichen
@@ -87,29 +83,17 @@ Erfüllung der nach Satz 1 erforderlichen
 
     a)  Zeiten einer Ausbildung oder eines Studiums,
 
-
     b)  Zeiten in einem Beamtenverhältnis auf Widerruf,
-
-
-
-
 
 2.  vier Jahre Dienstzeit im Bundesdienst
 
     a)  Zeiten nach Nummer 1,
 
-
     b)  Zeiten einer Abordnung zu einem Dienstherrn nach § 2 des
         Beamtenstatusgesetzes,
 
-
     c)  Zeiten einer Beurlaubung ohne Dienstbezüge, wenn diese Zeiten nach
         beamtenversorgungsrechtlichen Bestimmungen nicht ruhegehaltfähig sind.
-
-
-
-
-
 
 Bei Versetzung einer Beamtin oder eines Beamten von einem anderen
 Dienstherrn in den Dienst des Bundes beginnt die nach Satz 1
@@ -119,9 +103,9 @@ der Versetzung.
 (2) Der Anspruch auf Altersgeld entsteht mit Ablauf des Tages, an dem
 das Dienstverhältnis endet.
 
-(3) Der Anspruch auf Altersgeld ruht bis zum Ablauf des Monats, in dem
-der Altersgeldberechtigte die Regelaltersgrenze nach § 35 Satz 2 oder
-§ 235 Absatz 2 des Sechsten Buches Sozialgesetzbuch erreicht.
+(3) Der Anspruch auf Altersgeld ruht bis zum Ablauf des Monats, in
+dem der Altersgeldberechtigte die Regelaltersgrenze nach § 35 Satz
+2 oder § 235 Absatz 2 des Sechsten Buches Sozialgesetzbuch erreicht.
 Abweichend hiervon endet das Ruhen des Anspruchs mit dem Ablauf des
 Monats, der dem Monat vorausgeht, in dem der Altersgeldberechtigte
 
@@ -130,28 +114,19 @@ Monats, der dem Monat vorausgeht, in dem der Altersgeldberechtigte
 
     a)  das 62. Lebensjahr vollendet hat oder
 
-
     b)  vor dem 1. Januar 1964 geboren ist und die nach § 236a Absatz 2 des
-        Sechsten Buches Sozialgesetzbuch jeweils geltende Altersgrenze für die
-        vorzeitige Inanspruchnahme der Altersrente für schwerbehinderte
+        Sechsten Buches Sozialgesetzbuch jeweils geltende Altersgrenze für
+        die vorzeitige Inanspruchnahme der Altersrente für schwerbehinderte
         Menschen erreicht hat,
-
-
-
-
 
 2.  voll erwerbsgemindert nach § 43 Absatz 2 Satz 2 und 3 des Sechsten
     Buches Sozialgesetzbuch ist,
 
-
 3.  teilweise erwerbsgemindert nach § 43 Absatz 1 Satz 2 des Sechsten
     Buches Sozialgesetzbuch ist oder
 
-
 4.  vor dem 2. Januar 1961 geboren und berufsunfähig nach § 240 Absatz 2
     des Sechsten Buches Sozialgesetzbuch ist.
-
-
 
 Die §§ 103 und 104 Absatz 1 Satz 1 und 2 des Sechsten Buches
 Sozialgesetzbuch gelten entsprechend.
@@ -160,25 +135,21 @@ Sozialgesetzbuch gelten entsprechend.
 Absatz 3 Satz 2 Nummer 2 oder Nummer 3 oder eine Berufsunfähigkeit
 nach Absatz 3 Satz 2 Nummer 4 vorliegt, nicht durch den Träger der
 gesetzlichen Rentenversicherung getroffen wird, entscheidet hierüber
-ein Amtsarzt. § 102 Absatz 2 des Sechsten Buches Sozialgesetzbuch gilt
-entsprechend.
+ein Amtsarzt. § 102 Absatz 2 des Sechsten Buches Sozialgesetzbuch
+gilt entsprechend.
 
 (5) Wird
 
 1.  der Beamte nach § 46 oder § 57 des Bundesbeamtengesetzes erneut in ein
     Beamtenverhältnis,
 
-
-2.  der Richter nach § 46 des Deutschen Richtergesetzes in Verbindung mit
-    § 46 oder § 57 des Bundesbeamtengesetzes erneut in ein
+2.  der Richter nach § 46 des Deutschen Richtergesetzes in Verbindung
+    mit § 46 oder § 57 des Bundesbeamtengesetzes erneut in ein
     Dienstverhältnis als Richter oder
 
-
-3.  der Berufssoldat nach § 57 des Bundesbeamtengesetzes in Verbindung mit
-    § 50 Absatz 2 des Soldatengesetzes oder nach § 51 Absatz 4 des
+3.  der Berufssoldat nach § 57 des Bundesbeamtengesetzes in Verbindung
+    mit § 50 Absatz 2 des Soldatengesetzes oder nach § 51 Absatz 4 des
     Soldatengesetzes erneut in ein Dienstverhältnis als Berufssoldat
-
-
 
 berufen, entsteht ein Anspruch auf Altersgeld frühestens bei einer
 Entlassung nach Ablauf von fünf Jahren ab der erneuten Berufung.
@@ -194,8 +165,8 @@ oder der §§ 5 und 53 Absatz 1 des Soldatengesetzes erlischt der
 Anspruch auf Altersgeld.
 
 (2) Wird in einem Disziplinarverfahren auf eine Kürzung des
-Altersgelds erkannt, beginnt die Kürzung mit dem Kalendermonat, der
-auf den Eintritt der Unanfechtbarkeit der Entscheidung folgt,
+Altersgelds erkannt, beginnt die Kürzung mit dem Kalendermonat,
+der auf den Eintritt der Unanfechtbarkeit der Entscheidung folgt,
 frühestens mit dem Beginn der Zahlung des Altersgelds.
 
 (3) Ist bei einer Entlassung aus dem Beamten- oder Richterverhältnis
@@ -210,15 +181,11 @@ Bundesdisziplinargesetzes ist nicht anzuwenden.
 
 1.  das Grundgehalt,
 
-
 2.  sonstige Dienstbezüge, die im Besoldungsrecht als ruhegehaltfähig
     bezeichnet sind,
 
-
 3.  Leistungsbezüge nach § 33 Absatz 1 des Bundesbesoldungsgesetzes,
     soweit sie ruhegehaltfähig sind.
-
-
 
 Bei den Dienstbezügen nach Satz 1 Nummer 1 und 2 sind die Dienstbezüge
 maßgebend, die dem Altersgeldberechtigten zuletzt zugestanden haben;
@@ -238,14 +205,14 @@ entsprechend.
 
 (1) Altersgeldfähig ist die Dienstzeit, die der Beamte von der ersten
 Berufung in das Beamtenverhältnis an im Dienst eines öffentlich-
-rechtlichen Dienstherrn im Beamtenverhältnis zurückgelegt hat. Bei
-Berufssoldaten ist die Wehrdienstzeit nach § 2 Absatz 1 Satz 1 des
-Soldatenversorgungsgesetzes altersgeldfähig. § 6 Absatz 1 Satz 2 und
-Absatz 2 des Beamtenversorgungsgesetzes gilt entsprechend; § 6a des
-Beamtenversorgungsgesetzes ist mit der Maßgabe anzuwenden, dass der
-Antrag nach § 6a Absatz 4 Satz 2 des Beamtenversorgungsgesetzes nur
-innerhalb von zwölf Monaten nach der Leistungsgewährung im Sinne des §
-10 Absatz 2 und 3 gestellt werden kann. Zeiten einer
+rechtlichen Dienstherrn im Beamtenverhältnis zurückgelegt hat.
+Bei Berufssoldaten ist die Wehrdienstzeit nach § 3 Satz 1 des
+Soldatenversorgungsgesetzes altersgeldfähig. § 6 Absatz 1 Satz 2
+und Absatz 2 des Beamtenversorgungsgesetzes gilt entsprechend; § 6a
+des Beamtenversorgungsgesetzes ist mit der Maßgabe anzuwenden, dass
+der Antrag nach § 6a Absatz 4 Satz 2 des Beamtenversorgungsgesetzes
+nur innerhalb von zwölf Monaten nach der Leistungsgewährung im
+Sinne des § 10 Absatz 2 und 3 gestellt werden kann. Zeiten einer
 Teilzeitbeschäftigung sind nur zu dem Teil altersgeldfähig, der dem
 Verhältnis der ermäßigten zur regelmäßigen Arbeitszeit entspricht;
 dies gilt auch für Zeiten einer eingeschränkten Verwendung wegen
@@ -262,12 +229,8 @@ des Soldatengesetzes gleich.
     nichtberufsmäßigen Wehrdienst zurückgelegten Zeiten in entsprechender
     Anwendung der §§ 8 und 9 des Beamtenversorgungsgesetzes,
 
-
-2.  gilt bei Berufssoldaten auch die Zeit nach § 64 Absatz 1 Satz 1 Nummer
+2.  gilt bei Berufssoldaten auch die Zeit nach § 92 Absatz 1 Satz 1 Nummer
     1 und 4 des Soldatenversorgungsgesetzes.
-
-
-
 
 (4) Die Absätze 1 bis 3 gelten nicht für Zeiten, für die bereits
 Ansprüche auf Altersgeld oder altersgeldähnliche Ansprüche erworben
@@ -293,8 +256,8 @@ gilt entsprechend.
 (2) In den Fällen des § 3 Absatz 3 Satz 2 wird die Höhe des
 Altersgelds nach Absatz 1 um 3,6 Prozent für jedes Jahr vermindert,
 für das Altersgeld vor Ablauf des Monats gezahlt wird, in dem der
-Altersgeldberechtigte die Regelaltersgrenze nach § 35 Satz 2 oder §
-235 Absatz 2 des Sechsten Buches Sozialgesetzbuch erreicht; die
+Altersgeldberechtigte die Regelaltersgrenze nach § 35 Satz 2 oder
+§ 235 Absatz 2 des Sechsten Buches Sozialgesetzbuch erreicht; die
 Minderung darf 10,8 Prozent nicht übersteigen. § 14 Absatz 1 Satz 2
 bis 4 des Beamtenversorgungsgesetzes gilt entsprechend.
 
@@ -303,19 +266,18 @@ Satz 2 Nummer 3 oder Nummer 4, wird die Höhe des Altersgelds bis zum
 Erreichen der maßgeblichen Regelaltersgrenze mit 0,5 multipliziert.
 
 (4) Werden die Versorgungsbezüge nach § 70 des
-Beamtenversorgungsgesetzes allgemein erhöht oder vermindert, erhöhen
-oder vermindern sich die der Berechnung des Altersgelds zugrunde
-liegenden altersgeldfähigen Dienstbezüge nach § 5 Absatz 1
+Beamtenversorgungsgesetzes allgemein erhöht oder vermindert,
+erhöhen oder vermindern sich die der Berechnung des Altersgelds
+zugrunde liegenden altersgeldfähigen Dienstbezüge nach § 5 Absatz 1
 entsprechend. Einmalzahlungen bleiben unberücksichtigt.
 
-(5) Die Höhe des Altersgelds und des Hinterbliebenenaltersgelds darf
-nicht geringer sein als die Höhe des Rentenanspruchs, der sich ergeben
-hätte, wenn der Altersgeldberechtigte für die Zeit der
-versicherungsfreien Beschäftigung in der gesetzlichen
-Rentenversicherung nachversichert worden wäre. Die
+(5) Die Höhe des Altersgelds und des Hinterbliebenenaltersgelds
+darf nicht geringer sein als die Höhe des Rentenanspruchs,
+der sich ergeben hätte, wenn der Altersgeldberechtigte
+für die Zeit der versicherungsfreien Beschäftigung in der
+gesetzlichen Rentenversicherung nachversichert worden wäre. Die
 Vergleichsberechnung hat die Stelle vorzunehmen, die das Altersgeld
-oder
-das Hinterbliebenenaltersgeld              auszahlt. Die erforderliche
+oder das Hinterbliebenenaltersgeld auszahlt. Die erforderliche
 Auskunft holt sie sich beim zuständigen Rentenversicherungsträger der
 gesetzlichen Rentenversicherung ein.
 
@@ -325,9 +287,9 @@ gesetzlichen Rentenversicherung ein.
 Die §§ 50a, 50b, 50c Absatz 1 Satz 1 und Absatz 2 bis 4 sowie § 50d
 des Beamtenversorgungsgesetzes gelten entsprechend. An die Stelle des
 Ruhegehalts tritt das Altersgeld, an die Stelle der ruhegehaltfähigen
-Dienstbezüge treten die altersgeldfähigen Dienstbezüge, an die Stelle
-der ruhegehaltfähigen Dienstzeit tritt die altersgeldfähige Dienstzeit
-und an die Stelle des Witwengelds nach § 20 Absatz 1 des
+Dienstbezüge treten die altersgeldfähigen Dienstbezüge, an die
+Stelle der ruhegehaltfähigen Dienstzeit tritt die altersgeldfähige
+Dienstzeit und an die Stelle des Witwengelds nach § 20 Absatz 1 des
 Beamtenversorgungsgesetzes tritt das Witwenaltersgeld nach § 9 Absatz
 3\.
 
@@ -338,25 +300,19 @@ Beamtenversorgungsgesetzes tritt das Witwenaltersgeld nach § 9 Absatz
 
 1.  Altersgeld für den Sterbemonat (Absatz 2),
 
-
 2.  Witwenaltersgeld (Absatz 3),
-
 
 3.  Witwenabfindung (Absatz 4),
 
-
 4.  Waisenaltersgeld (Absatz 5).
-
-
-
 
 (2) Verstirbt der Altersgeldberechtigte, verbleibt das im Sterbemonat
 zu zahlende Altersgeld in voller Höhe seinen Erben. § 17 Absatz 2 des
 Beamtenversorgungsgesetzes gilt entsprechend.
 
 (3) Die Witwe eines Altersgeldberechtigten erhält Witwenaltersgeld.
-Das Witwenaltersgeld beträgt 55 Prozent des Altersgelds. § 19 Absatz 1
-Satz 2 und § 20 Absatz 2 Satz 1 und 2 sowie Absatz 3 des
+Das Witwenaltersgeld beträgt 55 Prozent des Altersgelds. § 19
+Absatz 1 Satz 2 und § 20 Absatz 2 Satz 1 und 2 sowie Absatz 3 des
 Beamtenversorgungsgesetzes gelten entsprechend mit der Maßgabe, dass
 in § 19 Absatz 1 Satz 2 Nummer 2 an die Stelle des Eintritts des
 Beamten in den Ruhestand der Zeitpunkt der erstmaligen Zahlung von
@@ -369,10 +325,10 @@ zahlenden Witwenaltersgelds.
 
 (5) Die Kinder eines verstorbenen Altersgeldberechtigten erhalten
 Waisenaltersgeld. Das Waisenaltersgeld beträgt für Halbwaisen 12
-Prozent und für Vollwaisen 20 Prozent des Altersgelds. § 23 Absatz 2
-Satz 1 und § 24 Absatz 2 und 3 des Beamtenversorgungsgesetzes gelten
-entsprechend mit der Maßgabe, dass Kindern kein Waisengeld gewährt
-wird, deren Kindschaftsverhältnis zum verstorbenen
+Prozent und für Vollwaisen 20 Prozent des Altersgelds. § 23 Absatz
+2 Satz 1 und § 24 Absatz 2 und 3 des Beamtenversorgungsgesetzes
+gelten entsprechend mit der Maßgabe, dass Kindern kein Waisengeld
+gewährt wird, deren Kindschaftsverhältnis zum verstorbenen
 Altersgeldberechtigten durch Annahme als Kind nach erstmaliger Zahlung
 von Altersgeld nach diesem Gesetz begründet worden ist.
 
@@ -393,29 +349,29 @@ Rechtsänderungen.
 (2) Die Leistungsgewährung, mit Ausnahme der Leistung nach § 9 Absatz
 2, erfolgt auf schriftlichen oder elektronischen Antrag.
 
-(3) Alters- und Hinterbliebenenaltersgeld wird ab dem Monat gewährt,
-in dem der Antrag bei der zuständigen Behörde eingegangen ist.
-Anträge, die innerhalb von drei Monaten nach Eintritt der
+(3) Alters- und Hinterbliebenenaltersgeld wird ab dem Monat
+gewährt, in dem der Antrag bei der zuständigen Behörde eingegangen
+ist. Anträge, die innerhalb von drei Monaten nach Eintritt der
 Voraussetzungen nach § 3 Absatz 3 Satz 1 oder Satz 2 gestellt werden,
 gelten als am Ersten des Monats gestellt, in dem diese Voraussetzungen
 vorlagen. Im Falle des § 3 Absatz 4 Satz 2 ist die Zahlung des
 Altersgelds nach Ablauf der jeweiligen Frist erneut zu beantragen.
 
 (4) Das Alters- und das Hinterbliebenenaltersgeld sind für die
-gleichen Zeiträume zu zahlen wie die Dienstbezüge der Beamten des
-Bundes. Sie sind am Ende des Monats fällig, in dem die
+gleichen Zeiträume zu zahlen wie die Dienstbezüge der Beamten
+des Bundes. Sie sind am Ende des Monats fällig, in dem die
 Anspruchsvoraussetzungen erfüllt sind, und werden am letzten
 Bankarbeitstag dieses Monats gezahlt. Altersgeld, Witwenaltersgeld und
 Waisenaltersgeld werden längstens bis zum Ende des Monats gezahlt, in
 dem der Berechtigte verstirbt.
 
-(5) Für die Durchführung dieses Gesetzes gelten § 49 Absatz 1, 3 und 5
-bis 9 sowie die §§ 52 und 62 des Beamtenversorgungsgesetzes
+(5) Für die Durchführung dieses Gesetzes gelten § 49 Absatz 1, 3
+und 5 bis 9 sowie die §§ 52 und 62 des Beamtenversorgungsgesetzes
 entsprechend.
 
-(6) § 62a Absatz 2 des Beamtenversorgungsgesetzes gilt mit der Maßgabe
-entsprechend, dass die Daten zu übermitteln sind, die für die
-Darstellung der Entwicklung des Altersgeldes im Bericht der
+(6) § 62a Absatz 2 des Beamtenversorgungsgesetzes gilt mit der
+Maßgabe entsprechend, dass die Daten zu übermitteln sind, die für
+die Darstellung der Entwicklung des Altersgeldes im Bericht der
 Bundesregierung nach § 62a Absatz 1 des Beamtenversorgungsgesetzes
 erforderlich sind.
 
@@ -428,11 +384,11 @@ Eingang des Antrags bei der zuständigen Behörde erteilt werden.
 
 ## § 11 Zusammentreffen von Altersgeld und Witwenaltersgeld mit Erwerbseinkommen
 
-(1) Bezieht ein Altersgeldberechtigter oder ein Berechtigter nach § 9
-Absatz 3 Erwerbs- oder Erwerbsersatzeinkommen (§ 53 Absatz 7 des
-Beamtenversorgungsgesetzes), erhält er daneben Altersgeld oder
-Hinterbliebenenaltersgeld nur bis zum Erreichen der Höchstgrenze nach
-Absatz 2. Dies gilt nur bis zum Ablauf des Monats, in dem der
+(1) Bezieht ein Altersgeldberechtigter oder ein Berechtigter nach
+§ 9 Absatz 3 Erwerbs- oder Erwerbsersatzeinkommen (§ 53 Absatz 7
+des Beamtenversorgungsgesetzes), erhält er daneben Altersgeld oder
+Hinterbliebenenaltersgeld nur bis zum Erreichen der Höchstgrenze
+nach Absatz 2. Dies gilt nur bis zum Ablauf des Monats, in dem der
 Altersgeldberechtigte die Regelaltersgrenze nach § 35 Satz 2 oder §
 235 Absatz 2 des Sechsten Buches Sozialgesetzbuch erreicht.
 
@@ -441,16 +397,12 @@ Altersgeldberechtigte die Regelaltersgrenze nach § 35 Satz 2 oder §
 1.  für Witwen die der Berechnung des Witwenaltersgelds zugrunde liegenden
     altersgeldfähigen Dienstbezüge,
 
-
 2.  (weggefallen)
 
-
 3.  für Altersgeldberechtigte nach § 3 Absatz 3 Satz 2 71,75 Prozent der
-    altersgeldfähigen Dienstbezüge zuzüglich eines Betrages von monatlich
-    525 Euro.
-
-
-
+    altersgeldfähigen Dienstbezüge zuzüglich eines Betrages in Höhe von
+    vierzehn Zwölfteln der Geringfügigkeitsgrenze im Sinne des § 8 Absatz
+    1a des Vierten Buches Sozialgesetzbuch.
 
 
 ## § 12 Zusammentreffen von Altersgeld mit Mindestruhegehalt
@@ -470,40 +422,31 @@ entsprechend mit der Maßgabe, dass
     bleiben, in dem sie nach Entstehen des Anspruchs auf Altersgeld nach
     diesem Gesetz erworben worden sind;
 
-
 2.  in Absatz 2 Satz 1 Nummer 1 Buchstabe a an die Stelle der
     ruhegehaltfähigen Dienstbezüge aus der Endstufe der Besoldungsgruppe,
     aus der sich das Ruhegehalt bestimmt, die altersgeldfähigen
     Dienstbezüge treten;
 
-
-3.  an die Stelle der nach Absatz 2 Satz 1 Nummer 1 Buchstabe b zu
-    ermittelnden Zeit die Zeit zwischen der Vollendung des 17. Lebensjahrs
-    und der Beendigung des den Anspruch auf Altersgeld begründenden
-    Dienstverhältnisses abzüglich der Zeiten nach § 12a des
+3.  an die Stelle der nach Absatz 2 Satz 1 Nummer 1 Buchstabe b
+    zu ermittelnden Zeit die Zeit zwischen der Vollendung des 17.
+    Lebensjahrs und der Beendigung des den Anspruch auf Altersgeld
+    begründenden Dienstverhältnisses abzüglich der Zeiten nach § 12a des
     Beamtenversorgungsgesetzes, zuzüglich altersgeldfähiger Dienstzeiten
     vor Vollendung des 17. Lebensjahres, tritt;
 
-
-4.  in Absatz 2 Satz 1 Nummer 2 an die Stelle des Witwengelds das
-    Witwenaltersgeld und an die Stelle des Waisengelds das
+4.  in Absatz 2 Satz 1 Nummer 2 an die Stelle des Witwengelds
+    das Witwenaltersgeld und an die Stelle des Waisengelds das
     Waisenaltersgeld nach diesem Gesetz treten;
 
-
-5.  in Absatz 2 Satz 2 an die Stelle der Minderung nach § 14 Absatz 3 des
-    Beamtenversorgungsgesetzes die Minderung nach § 7 Absatz 2 dieses
+5.  in Absatz 2 Satz 2 an die Stelle der Minderung nach § 14 Absatz 3
+    des Beamtenversorgungsgesetzes die Minderung nach § 7 Absatz 2 dieses
     Gesetzes tritt;
-
 
 6.  die Höchstgrenze unter Anwendung des § 7 Absatz 3 festzusetzen ist,
     wenn das an der Ruhensregelung beteiligte Altersgeld in entsprechender
     Anwendung dieser Vorschrift ermittelt worden ist;
 
-
 7.  in Absatz 5 an die Stelle des § 53 der § 11 dieses Gesetzes tritt.
-
-
-
 
 (2) Absatz 1 ist nicht anzuwenden, wenn der Altersgeldberechtigte
 Anspruch auf Versorgung nach dem Beamtenversorgungsgesetz hat.
@@ -521,8 +464,8 @@ Beamtenversorgungsgesetzes altersgeldfähig, so ruht das Alters-und
 Hinterbliebenenaltersgeld in entsprechender Anwendung des § 56 Absatz
 2 bis 4 des Beamtenversorgungsgesetzes mit der Maßgabe, dass die aus
 der Verwendung erworbene Versorgung in dem Umfang unberücksichtigt
-bleibt, in dem sie nach Entstehen des Anspruchs auf Altersgeld nach
-diesem Gesetz erworben worden ist. Satz 1 gilt nicht, wenn der
+bleibt, in dem sie nach Entstehen des Anspruchs auf Altersgeld
+nach diesem Gesetz erworben worden ist. Satz 1 gilt nicht, wenn der
 Altersgeldberechtigte erneut in ein Beamtenverhältnis berufen wurde
 und einen Anspruch auf Versorgung nach dem Beamtenversorgungsgesetz
 hat.
@@ -539,11 +482,8 @@ Anwendung der §§ 11 bis 13 verbleibenden Altersgeld abzuziehen.
     Absatz 2 des Bürgerlichen Gesetzbuchs in der bis zum 31. August 2009
     geltenden Fassung oder
 
-
 2.  Anrechte nach dem Gesetz über den Versorgungsausgleich vom 3. April
     2009 (BGBl. I S. 700)
-
-
 
 übertragen oder begründet worden, werden nach Wirksamkeit dieser
 Entscheidung das Altersgeld der ausgleichspflichtigen Person und das
@@ -572,22 +512,17 @@ dem Bundesrecht unterliegen, entsprechend mit der Maßgabe, dass
 1.  das Altersgeld als regelmäßig wiederkehrende Leistung nach § 107b
     Absatz 2 Satz 1 des Beamtenversorgungsgesetzes gilt,
 
-
 2.  an die Stelle des Eintritts des Versorgungsfalls der Zeitpunkt der
     Gewährung von Altersgeld tritt,
-
 
 3.  an die Stelle der ruhegehaltfähigen Dienstzeiten die als
     altersgeldfähig zu berücksichtigenden Dienstzeiten treten.
 
 
-
-
-
 ## § 17 Übergangsregelungen aus Anlass des Besoldungsstrukturenmodernisierungsgesetzes
 
-(1) Ruht am 1. Juli 2020 der Anspruch auf Altersgeld nach § 3 Absatz 3
-und hat der Altersgeldberechtigte auf Grund einer Verwendung im
+(1) Ruht am 1. Juli 2020 der Anspruch auf Altersgeld nach § 3 Absatz
+3 und hat der Altersgeldberechtigte auf Grund einer Verwendung im
 öffentlichen Dienst einer zwischenstaatlichen oder überstaatlichen
 Einrichtung einen Anspruch auf eine Alterssicherungsleistung, so gilt
 § 6a des Beamtenversorgungsgesetzes mit den Maßgaben, dass
@@ -597,50 +532,41 @@ Einrichtung einen Anspruch auf eine Alterssicherungsleistung, so gilt
     zum Ablauf des zwölften Monats nach Beginn der Zahlung des Altersgelds
     nach § 10 Absatz 3 gestellt werden kann,
 
-
 2.  bei Anspruch auf eine Alterssicherungsleistung in Form eines
     Kapitalbetrages (§ 6a Absatz 2 des Beamtenversorgungsgesetzes)
 
     a)  ein Antrag nach § 6a Absatz 4 Satz 1 des Beamtenversorgungsgesetzes
         bis zum 31. Januar 2022 gestellt werden kann,
 
-
     b)  der Kapitalbetrag in Höhe des auf die Dauer der Verwendung nach
         Entstehen des Anspruchs auf Altersgeld nach diesem Gesetz entfallenden
         Anteils unberücksichtigt bleibt und
 
-
     c)  der Kapitalbetrag vom Beginn des auf die Beendigung der Verwendung
         folgenden Monats bis zum 30. Juni 2020 zu verzinsen ist.
 
-
-
-
-
-
-
 (2) Für am 1. Juli 2020 vorhandene Altersgeldempfänger sind
-vorbehaltlich von Satz 2 § 6 Absatz 2 und § 14 in der bis zum 30. Juni
-2020 geltenden Fassung in Verbindung mit § 6 Absatz 3 Nummer 4, § 55
-Absatz 1 Satz 8 und 9 und § 56 des Beamtenversorgungsgesetzes in der
-bis zum 30. Juni 2020 geltenden Fassung weiter anzuwenden.
-Altersgeldempfänger nach Satz 1, deren Ruhensbetrag mittels
-Höchstgrenzenberechnung nach § 56 Absatz 1 Satz 1 in Verbindung mit
-Absatz 2 des Beamtenversorgungsgesetzes ermittelt wird, können
-einmalig für die Zukunft beantragen, dass ihr Altersgeld in Höhe von
-1,5246875 Prozent, sofern bei der Ermittlung des Altersgelds eine
-altersgeldfähige Dienstzeit von weniger als zwölf Jahren
-berücksichtigt wird, ansonsten 1,7040625 Prozent, der
-altersgeldfähigen Dienstbezüge für jedes Jahr einer Verwendung im
-öffentlichen Dienst einer zwischenstaatlichen oder überstaatlichen
-Einrichtung ruht. Dienstzeiten, die über volle Jahre hinausgehen, sind
-einzubeziehen; § 14 Absatz 1 Satz 2 und 3 des
+vorbehaltlich von Satz 2 § 6 Absatz 2 und § 14 in der bis
+zum 30. Juni 2020 geltenden Fassung in Verbindung mit § 6
+Absatz 3 Nummer 4, § 55 Absatz 1 Satz 8 und 9 und § 56 des
+Beamtenversorgungsgesetzes in der bis zum 30. Juni 2020 geltenden
+Fassung weiter anzuwenden. Altersgeldempfänger nach Satz 1, deren
+Ruhensbetrag mittels Höchstgrenzenberechnung nach § 56 Absatz 1
+Satz 1 in Verbindung mit Absatz 2 des Beamtenversorgungsgesetzes
+ermittelt wird, können einmalig für die Zukunft beantragen, dass
+ihr Altersgeld in Höhe von 1,5246875 Prozent, sofern bei der
+Ermittlung des Altersgelds eine altersgeldfähige Dienstzeit von
+weniger als zwölf Jahren berücksichtigt wird, ansonsten 1,7040625
+Prozent, der altersgeldfähigen Dienstbezüge für jedes Jahr einer
+Verwendung im öffentlichen Dienst einer zwischenstaatlichen oder
+überstaatlichen Einrichtung ruht. Dienstzeiten, die über volle Jahre
+hinausgehen, sind einzubeziehen; § 14 Absatz 1 Satz 2 und 3 des
 Beamtenversorgungsgesetzes gilt entsprechend. Die zuständige Behörde
 hat dem Altersgeldempfänger nach Satz 1 auf schriftlichen oder
 elektronischen Antrag eine Auskunft zur Höhe des Ruhensbetrages nach
 Satz 2 zum nach Satz 5 oder 6 maßgeblichen Zeitpunkt zu erteilen.
-Anträge, die bis zum 31. Juli 2021 gestellt werden, gelten als zum 1.
-Juli 2020 gestellt. Wird der Antrag später gestellt, tritt die
+Anträge, die bis zum 31. Juli 2021 gestellt werden, gelten als zum
+1\. Juli 2020 gestellt. Wird der Antrag später gestellt, tritt die
 Änderung mit Beginn des Antragsmonats ein. Vor dem Änderungszeitpunkt
 entstandene Ruhensbeträge bleiben unberührt. Die Sätze 1 bis 7 gelten
 entsprechend für künftige Hinterbliebene eines vor dem 1. Juli 2020

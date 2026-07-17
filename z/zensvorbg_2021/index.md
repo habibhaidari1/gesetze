@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zur Vorbereitung eines registergestützten Zensus einschließlich einer
-  Gebäude- und Wohnungszählung 2022
+Title: Gesetz zur Vorbereitung eines registergestützten Zensus einschließlich einer Gebäude- und Wohnungszählung 2022
 jurabk: ZensVorbG 2021
 layout: default
 origslug: zensvorbg_2021
@@ -41,12 +40,12 @@ eine einheitliche und termingerechte Durchführung und sichert die
 Einhaltung einheitlicher Qualitätsstandards in Zusammenarbeit mit den
 statistischen Ämtern der Länder.
 
-(2) Das Statistische Bundesamt ist für die Entwicklung der für den
-Zensus benötigten technischen Anwendungen verantwortlich. Die
-besonderen Erfahrungen der statistischen Ämter der Länder in der
-Vorbereitung und Durchführung primärstatistischer Erhebungen sollen
-dabei genutzt werden, insbesondere bei der Entwicklung der für die
-Durchführung der primärstatistischen Erhebungen benötigten
+(2) Das Statistische Bundesamt ist für die Entwicklung der für
+den Zensus benötigten technischen Anwendungen verantwortlich.
+Die besonderen Erfahrungen der statistischen Ämter der Länder in
+der Vorbereitung und Durchführung primärstatistischer Erhebungen
+sollen dabei genutzt werden, insbesondere bei der Entwicklung der
+für die Durchführung der primärstatistischen Erhebungen benötigten
 Anwendungen. Das Statistische Bundesamt hält die für die Aufbereitung
 und Datenhaltung notwendige IT-Infrastruktur in Zusammenarbeit mit dem
 Informationstechnikzentrum Bund vor. Die Einrichtung und der Betrieb
@@ -70,18 +69,13 @@ des Zensus.
 
 1.  dem Anschriftenbestand nach § 4,
 
-
 2.  dem Bestand an Steuerungs- und Klassifizierungsmerkmalen nach § 5,
-
 
 3.  dem Bestand an Angaben zur Ermittlung der Auskunftspflichtigen für die
     Erhebung an Anschriften mit Sonderbereichen nach § 6 und
 
-
 4.  dem Bestand an Angaben zu den Auskunftspflichtigen für die Gebäude-
     und Wohnungszählung nach § 7.
-
-
 
 Die Bestände des Steuerungsregisters sind über Ordnungsnummern
 miteinander verknüpft.
@@ -91,31 +85,23 @@ miteinander verknüpft.
 1.  als Grundgesamtheit der für die Gebäude- und Wohnungszählung
     relevanten Anschriften,
 
-
 2.  zur Vorbereitung und als Auswahlgrundlage für die beim Zensus
     vorgesehenen Stichprobenerhebungen,
-
 
 3.  der Steuerung und Kontrolle des Ablaufs aller primärstatistischen
     Erhebungen des Zensus,
 
-
-4.  der Koordinierung der Erhebungen des Zensus, der Zusammenführung der
-    im Rahmen der Durchführung des Zensus aus verschiedenen Quellen
+4.  der Koordinierung der Erhebungen des Zensus, der Zusammenführung
+    der im Rahmen der Durchführung des Zensus aus verschiedenen Quellen
     stammenden Daten und der Prüfung auf Vollzähligkeit der in den Zensus
     einzubeziehenden Gebäude, Wohnungen und Personen,
-
 
 5.  der Abbildung eines Systems der raumbezogenen Analysen und
     Darstellungen von statistischen Ergebnissen und der Schaffung einer
     Grundlage für eine kleinräumige Auswertung des Zensus sowie
 
-
 6.  der Bewertung der Qualität der Erhebungen und der Evaluierung des
     Zensus.
-
-
-
 
 
 ### § 4 Anschriftenbestand
@@ -125,32 +111,21 @@ Merkmalen gespeichert:
 
 1.  Postleitzahl,
 
-
 2.  Gemeindename und -schlüsselnummer,
-
 
 3.  Name und Schlüsselnummer des Orts- oder Gemeindeteils und des Bezirks,
 
-
 4.  Straßenname und -schlüsselnummer,
-
 
 5.  Hausnummer,
 
-
 6.  geografische Koordinaten einschließlich Qualitätskennzeichen,
-
 
 7.  Zuordnung der Anschrift zu kleinräumigen Gliederungen,
 
-
 8.  Wohnraumeigenschaft und
 
-
 9.  Gemeindegrößenklasse.
-
-
-
 
 
 ### § 5 Bestand an Steuerungs- und Klassifizierungsmerkmalen
@@ -160,29 +135,19 @@ jede Anschrift Angaben zu folgenden Merkmalen gespeichert:
 
 1.  Stichprobenkennzeichen,
 
-
 2.  Kennzeichnung der Erhebungsstelle,
-
 
 3.  Sonderbereichskennzeichen,
 
-
 4.  gebäude- und wohnungsbezogene Angaben,
-
 
 5.  Personenzahl Hauptwohnung,
 
-
 6.  Personenzahl Nebenwohnung,
-
 
 7.  Anzahl der Wohnungen,
 
-
 8.  Anzahl der bewohnten Wohnungen.
-
-
-
 
 
 ### § 6 Bestand an Angaben zur Ermittlung der Auskunftspflichtigen für die Erhebung an Anschriften mit Sonderbereichen
@@ -194,35 +159,26 @@ gekennzeichnet sind, Angaben zu folgenden Merkmalen gespeichert:
 
 1.  Art und Name der Einrichtung sowie Anzahl der Einrichtungsplätze,
 
-
 2.  Bezeichnung oder Familienname und Vornamen sowie Anschrift des
     Trägers, des Eigentümers oder des Verwalters der Einrichtung und
 
-
 3.  Kontaktdaten des Trägers, des Eigentümers oder des Verwalters der
     Einrichtung.
-
-
-
 
 
 ### § 7 Bestand an Angaben zu den Auskunftspflichtigen für die Gebäude- und Wohnungszählung
 
 Im Datenbestand zu den Auskunftspflichtigen für die Gebäude- und
 Wohnungszählung dürfen für die Wohnanschriften des Anschriftenbestands
-nach § 4 Angaben zu folgenden Merkmalen des Eigentümers, des
-Erbbauberechtigten, des Verwalters oder des sonstigen
+nach § 4 Angaben zu folgenden Merkmalen des Eigentümers,
+des Erbbauberechtigten, des Verwalters oder des sonstigen
 Verfügungsberechtigten der Gebäude und Wohnungen Angaben zu folgenden
 Merkmalen gespeichert werden:
 
 1.  Bezeichnung oder Familienname, Vornamen und soweit vorhanden
     Geburtsdatum sowie
 
-
 2.  Anschrift.
-
-
-
 
 
 ### § 7a Bestand an Angaben zur Überprüfung der Daten zu den Auskunftspflichtigen für die Gebäude- und Wohnungszählung
@@ -234,14 +190,11 @@ werden:
 
 1.  Familienname, Geburtsname, Vornamen sowie
 
-
 2.  Geburtsdatum.
 
-
-
-Die hierzu nach § 9 Absatz 1 Nummer 4 übermittelten Daten werden zum
-frühestmöglichen Zeitpunkt nach Abschluss der Überprüfung der zur
-Ermittlung der Auskunftspflichtigen für die Gebäude- und
+Die hierzu nach § 9 Absatz 1 Nummer 4 übermittelten Daten werden
+zum frühestmöglichen Zeitpunkt nach Abschluss der Überprüfung
+der zur Ermittlung der Auskunftspflichtigen für die Gebäude- und
 Wohnungszählung übermittelten Daten, spätestens jedoch zum 31.
 Dezember 2020 gelöscht.
 
@@ -249,9 +202,9 @@ Dezember 2020 gelöscht.
 ### § 8 Übermittlung von Daten durch die Vermessungsbehörden
 
 (1) Das Bundesamt für Kartographie und Geodäsie übermittelt dem
-Statistischen Bundesamt für den Aufbau und die Aktualisierung des
-Steuerungsregisters in den Jahren 2017 bis 2023 jeweils zum 1.
-November den jeweils aktuellen Datenbestand „Georeferenzierte
+Statistischen Bundesamt für den Aufbau und die Aktualisierung
+des Steuerungsregisters in den Jahren 2017 bis 2023 jeweils zum
+1\. November den jeweils aktuellen Datenbestand „Georeferenzierte
 Adressdaten“.
 
 (2) Die nach Landesrecht für die Geobasisdaten zuständigen Stellen
@@ -263,14 +216,9 @@ elektronisch Daten zu:
 
 1.  Lagebezeichnungen,
 
-
 2.  Gebäuden und
 
-
 3.  Flurstücken.
-
-
-
 
 (3) In den Jahren 2018, 2020 und 2021 übermitteln die Stellen nach
 Absatz 2 zu den in Absatz 2 genannten Stichtagen zusätzlich zu jedem
@@ -279,11 +227,7 @@ Flurstück für die jeweiligen Eigentümer Daten zu folgenden Merkmalen:
 1.  Bezeichnung oder Familienname, Vornamen und soweit verfügbar
     Geburtsdatum,
 
-
 2.  Anschrift, soweit verfügbar.
-
-
-
 
 (4) Die statistischen Ämter der Länder überprüfen die Daten nach den
 Absätzen 2 und 3 auf Vollzähligkeit und übermitteln die vollzähligen
@@ -294,8 +238,8 @@ Datenübermittlung an das Statistische Bundesamt.
 ### § 9 Übermittlung von Daten der Meldebehörden
 
 (1) Die nach Landesrecht für das Meldewesen zuständigen Stellen
-übermitteln den statistischen Ämtern der Länder für den Aufbau des
-Steuerungsregisters und für die Überprüfung der Daten zu den
+übermitteln den statistischen Ämtern der Länder für den Aufbau
+des Steuerungsregisters und für die Überprüfung der Daten zu den
 Auskunftspflichtigen für die Gebäude- und Wohnungszählung mit Stichtag
 12\. November 2017 innerhalb der auf den Stichtag folgenden vier Wochen
 für alle im Melderegister gemeldeten Einwohnerinnen und Einwohner
@@ -307,29 +251,22 @@ Daten zu folgenden Merkmalen:
 1.  gegenwärtige Anschrift einschließlich des amtlichen
     Gemeindeschlüssels,
 
-
 2.  Status der Wohnung, unterteilt nach alleiniger Wohnung, nach Haupt-
     und nach Nebenwohnung,
 
-
 3.  Ordnungsmerkmal der Meldebehörde,
-
 
 4.  soweit statistische Ämter der Länder diese Daten anfordern, zusätzlich
     Daten zu Familienname, Geburtsname, Vornamen und Geburtsdatum.
 
-
-
-
 (2) Die statistischen Ämter der Länder überprüfen die Daten nach
-Absatz 1 auf Vollständigkeit und Vollzähligkeit und übermitteln dem
-Statistischen Bundesamt die vollständigen und vollzähligen Angaben
-spätestens acht Wochen nach dem jeweiligen Stichtag der
+Absatz 1 auf Vollständigkeit und Vollzähligkeit und übermitteln
+dem Statistischen Bundesamt die vollständigen und vollzähligen
+Angaben spätestens acht Wochen nach dem jeweiligen Stichtag der
 Datenübermittlungen.
 
-Datenübermittlung,
 
-### § 9a Qualitätsprüfung und Programmentwicklung
+### § 9a Datenübermittlung, Qualitätsprüfung und Programmentwicklung
 
 (1) Zur Prüfung der Übermittlungswege und der Qualität der zum Zensus
 2022 zu übermittelnden Daten aus den Melderegistern sowie zum Test und
@@ -341,126 +278,87 @@ Stichtag folgenden vier Wochen. Umfasst sind die Daten
 
 1.  aller zum Stichtag gemeldeten Personen,
 
-
 2.  derjenigen abgemeldeten Personen, die vor oder am 13. Oktober 2018
     verstorben oder weggezogen sind und deren Abmeldung am 13. Oktober
     2018 nicht im Melderegister eingetragen war, sowie
 
-
 3.  derjenigen abgemeldeten Personen, die vor oder am 13. Oktober 2018
     geboren oder zugezogen sind und deren Anmeldung am 13. Oktober 2018
     nicht im Melderegister eingetragen war.
-
-
-
 
 (2) Zu übermitteln sind für jede gemeldete und abgemeldete Person nach
 Absatz 1 Daten zu folgenden Merkmalen:
 
 1.  Ordnungsmerkmal im Melderegister,
 
-
 2.  Familienname, frühere Namen, Vornamen und Vornamen vor Änderung,
     Doktorgrad,
-
 
 3.  Straße, Straßenschlüssel, Hausnummer und Anschriftenzusätze, Vorname
     und Name des Wohnungsinhabers,
 
-
 4.  Wohnort, Postleitzahl und amtlicher Gemeindeschlüssel,
-
 
 5.  Geburtsdatum,
 
-
 6.  Geburtsort einschließlich erläuternder Zugehörigkeitsbezeichnungen,
-
 
 7.  bei im Ausland Geborenen: Geburtsstaat,
 
-
 8.  Geschlecht,
-
 
 9.  Staatsangehörigkeiten,
 
-
 10. Familienstand,
-
 
 11. Wohnungsstatus (alleinige Wohnung, Haupt- oder Nebenwohnung),
 
-
 12. Datum des Beziehens der Wohnung,
-
 
 13. Datum des Zuzugs in die Gemeinde,
 
-
 14. Datum der Anmeldung,
 
-
 15. Datum des Wohnungsstatuswechsels,
-
 
 16. Datum der letzten Eheschließung oder Begründung der letzten
     Lebenspartnerschaft,
 
-
 17. Datum der Auflösung der letzten Ehe oder der letzten
     Lebenspartnerschaft,
 
-
 18. Information über freiwillige Anmeldung im Melderegister,
-
 
 19. Datum des Zuzugs aus dem Ausland,
 
-
 20. rechtliche Zugehörigkeit zu einer öffentlich-rechtlichen
     Religionsgesellschaft.
-
-
-
 
 (3) Zu übermitteln sind für jede gemeldete Person zusätzlich Daten zu
 folgenden Merkmalen:
 
 1.  Anschrift in der Gemeinde, aus der die Person zugezogen ist,
 
-
 2.  Herkunftsstaat bei Zuzug aus dem Ausland,
-
 
 3.  Familienname, Vornamen, Geburtsdatum, Geschlecht und Ordnungsmerkmal
     des Ehegatten oder des Lebenspartners,
 
-
 4.  Familienname, Vornamen, Geburtsdatum, Geschlecht und Ordnungsmerkmal
     der minderjährigen Kinder sowie
-
 
 5.  Familienname, Vornamen, Geburtsdatum und Ordnungsmerkmal der
     gesetzlichen Vertreter.
 
-
-
-
-(4) Zu übermitteln sind für jede innerhalb des Zeitraums vom 13. Juli
-2018 bis 13. Januar 2019 abgemeldete Person zusätzlich Daten zu
+(4) Zu übermitteln sind für jede innerhalb des Zeitraums vom 13.
+Juli 2018 bis 13. Januar 2019 abgemeldete Person zusätzlich Daten zu
 folgenden Merkmalen:
 
 1.  Sterbedatum,
 
-
 2.  Datum des Auszugs aus der Wohnung,
 
-
 3.  Datum der Abmeldung.
-
-
-
 
 (5) Die statistischen Ämter der Länder überprüfen die Daten auf
 Vollzähligkeit. Das Statistische Bundesamt darf unmittelbar nach
@@ -478,26 +376,26 @@ erforderlich sind, spätestens jedoch drei Jahre nach dem Stichtag.
 Statistischen Bundesamt zusammengeführt und bilden den Grundbestand
 des Steuerungsregisters nach § 3.
 
-(2) Die statistischen Ämter der Länder haben auf den Datenbestand nach
-Absatz 1 Zugriff für ihren jeweiligen Zuständigkeitsbereich. Sie
+(2) Die statistischen Ämter der Länder haben auf den Datenbestand
+nach Absatz 1 Zugriff für ihren jeweiligen Zuständigkeitsbereich. Sie
 überprüfen den zusammengeführten Datenbestand für ihren jeweiligen
 Zuständigkeitsbereich unter Verwendung der nach § 11 Absatz 2 sowie
 nach § 12 Absatz 2 und 3 übermittelten und nach § 13 verwendbaren
 Angaben, und zwar insbesondere auf Korrektheit der Anschriften, auf
 Vorhandensein von Wohnraum und auf Schlüssigkeit der zusammengeführten
-Daten. Zu diesem Zweck dürfen die statistischen Ämter der Länder den
-in den §§ 9, 11 und 12 genannten Stellen Anschriftenbereiche
+Daten. Zu diesem Zweck dürfen die statistischen Ämter der Länder
+den in den §§ 9, 11 und 12 genannten Stellen Anschriftenbereiche
 übermitteln, zu denen Anhaltspunkte für unvollständige oder
 fehlerhafte Daten vorliegen. Die in den §§ 9, 11 und 12 genannten
 Stellen klären anhand der dort vorhandenen Daten, ob die ursprünglich
 übermittelten Daten vollzählig und vollständig waren. Sofern dies
 nicht der Fall ist, übermitteln sie den statistischen Ämtern der
-Länder nochmals Daten für die betreffenden Anschriftenbereiche. Soweit
-die Prüfungen nach den Sätzen 3 und 4 zu keinem Ergebnis führen,
-können die statistischen Ämter der Länder zur Klärung der
-verbleibenden Anschriften Begehungen durchführen. Eine Begehung im
-Sinne des Satzes 6 ist die Inaugenscheinnahme der Liegenschaft vom
-öffentlichen Straßenraum oder vom öffentlich zugänglichen
+Länder nochmals Daten für die betreffenden Anschriftenbereiche.
+Soweit die Prüfungen nach den Sätzen 3 und 4 zu keinem Ergebnis
+führen, können die statistischen Ämter der Länder zur Klärung der
+verbleibenden Anschriften Begehungen durchführen. Eine Begehung
+im Sinne des Satzes 6 ist die Inaugenscheinnahme der Liegenschaft
+vom öffentlichen Straßenraum oder vom öffentlich zugänglichen
 Grundstücksteil. Das Ergebnis der Überprüfung wird von den
 statistischen Ämtern der Länder in das Steuerungsregister eingepflegt.
 
@@ -505,22 +403,17 @@ statistischen Ämtern der Länder in das Steuerungsregister eingepflegt.
 ### § 11 Erhebung des Bestandes an Angaben zur Ermittlung der Auskunftspflichtigen an Anschriften mit Sonderbereichen
 
 (1) Zur Vorbereitung der Erhebung von Angaben zu Personen an
-Anschriften mit Sonderbereichen pflegen die statistischen Ämter der
-Länder in das Steuerungsregister nach den §§ 5 und 6 Angaben zu
+Anschriften mit Sonderbereichen pflegen die statistischen Ämter
+der Länder in das Steuerungsregister nach den §§ 5 und 6 Angaben zu
 folgenden Merkmalen ein:
 
 1.  Art und Name der Einrichtung sowie Anzahl der Einrichtungsplätze,
 
-
 2.  Bezeichnung oder Familienname und Vornamen sowie Anschrift des
     Trägers, des Eigentümers oder des Verwalters der Einrichtung,
 
-
 3.  Kontaktdaten des Trägers, des Eigentümers oder des Verwalters der
     Einrichtung.
-
-
-
 
 (2) Die statistischen Ämter der Länder stellen die Vollzähligkeit der
 in den Zensus einzubeziehenden Sonderbereiche und die Qualität der
@@ -539,37 +432,32 @@ nach § 5 zu kennzeichnen.
 
 ### § 12 Ermittlung der Auskunftspflichtigen für die Gebäude- und Wohnungszählung
 
-(1) Für die Durchführung der Gebäude- und Wohnungszählung pflegen die
-statistischen Ämter der Länder zu den Anschriften des
+(1) Für die Durchführung der Gebäude- und Wohnungszählung
+pflegen die statistischen Ämter der Länder zu den Anschriften des
 Steuerungsregisters nach den §§ 5 und 7 die Angaben zu folgenden
 Merkmalen ein:
 
-1.  Bezeichnung oder Familienname und Vornamen des Eigentümers, des
-    Erbbauberechtigten, des Verwalters oder des sonstigen
+1.  Bezeichnung oder Familienname und Vornamen des Eigentümers,
+    des Erbbauberechtigten, des Verwalters oder des sonstigen
     Verfügungsberechtigten des Gebäudes oder der Wohnung,
-
 
 2.  Anschrift des Eigentümers, des Erbbauberechtigten, des Verwalters oder
     des sonstigen Verfügungsberechtigten des Gebäudes oder der Wohnung und
 
-
 3.  Gebäudeart, Eigentumsverhältnis und Art des Eigentümers des Gebäudes
     oder der Wohnung.
-
-
-
 
 (2) Stellen, die Aufgaben öffentlicher Verwaltung wahrnehmen, infolge
 derer sie über Angaben zu Eigentümern von Gebäuden mit Wohnraum oder
 Wohnungen verfügen, übermitteln den statistischen Ämtern der Länder
-auf Anforderung die Daten nach Absatz 1 mit Stichtag 1. Oktober 2018
-innerhalb einer Frist von vier Wochen ab dem Stichtag. Das
+auf Anforderung die Daten nach Absatz 1 mit Stichtag 1. Oktober
+2018 innerhalb einer Frist von vier Wochen ab dem Stichtag. Das
 Steuergeheimnis nach § 30 der Abgabenordnung steht der Auskunft nicht
 entgegen.
 
 (3) Zum Zweck der Aktualisierung des Bestandes der
-Auskunftspflichtigen und deren Anschriften übermitteln die in Absatz 2
-genannten Stellen den statistischen Ämtern der Länder im Jahr 2020
+Auskunftspflichtigen und deren Anschriften übermitteln die in Absatz
+2 genannten Stellen den statistischen Ämtern der Länder im Jahr 2020
 innerhalb von vier Wochen nach Aufforderung sowie zum 1. Februar 2021
 innerhalb von vier Wochen die Daten zu den Merkmalen nach Absatz 1
 Nummer 1 und 2 auf Anforderung.
@@ -608,20 +496,17 @@ jeweiligen Zuständigkeitsbereich bereitgestellt:
 1.  die Angaben aus dem Anschriftenbestand nach § 4 mit Ausnahme der
     Angaben zu den Nummern 4 bis 6 sowie
 
-
 2.  die Angaben aus dem Bestand an Steuerungs- und
     Klassifizierungsmerkmalen nach § 5 mit Ausnahme der zu § 12 Absatz 1
     Nummer 3 übermittelten Angaben.
 
-
-
 Soweit es für methodische Untersuchungen, Analysen oder Auswertungen
-notwendig ist, ist den statistischen Ämtern der Länder bei Zustimmung
-der beteiligten Länder ein Zugriff über den jeweiligen
+notwendig ist, ist den statistischen Ämtern der Länder bei
+Zustimmung der beteiligten Länder ein Zugriff über den jeweiligen
 Zuständigkeitsbereich hinaus zu gewähren.
 
-(2) Der Anschriftenbestand nach § 4 darf verwendet werden, um das
-dauerhafte Anschriftenregister nach § 13 Absatz 2 des
+(2) Der Anschriftenbestand nach § 4 darf verwendet werden,
+um das dauerhafte Anschriftenregister nach § 13 Absatz 2 des
 Bundesstatistikgesetzes zu aktualisieren.
 
 
@@ -629,8 +514,8 @@ Bundesstatistikgesetzes zu aktualisieren.
 
 (1) Der Anschriftenbestand nach § 4 sowie der Datenbestand Steuerungs-
 und Klassifizierungsmerkmale nach § 5 sollen sechs Jahre nach dem
-Zensusstichtag gelöscht werden. Die weitere Verwendung der Angaben in
-dem in § 15 genannten Umfang in einer Auswertungsdatenbank bleibt
+Zensusstichtag gelöscht werden. Die weitere Verwendung der Angaben
+in dem in § 15 genannten Umfang in einer Auswertungsdatenbank bleibt
 davon unberührt.
 
 (2) Der Datenbestand zu den Auskunftspflichtigen nach § 6 ist zum
@@ -638,14 +523,14 @@ frühestmöglichen Zeitpunkt nach Abschluss der Erhebung an Anschriften
 mit Sonderbereichen zu löschen. Spätestens soll der Datenbestand vier
 Jahre nach dem Zensusstichtag gelöscht werden.
 
-(3) Der Datenbestand zu den Auskunftspflichtigen nach § 7 ist zum
-frühestmöglichen Zeitpunkt nach Abschluss der Gebäude- und
+(3) Der Datenbestand zu den Auskunftspflichtigen nach § 7 ist
+zum frühestmöglichen Zeitpunkt nach Abschluss der Gebäude- und
 Wohnungszählung zu löschen. Spätestens soll der Datenbestand vier
 Jahre nach dem Zensusstichtag gelöscht werden.
 
 (4) Die nach den §§ 8, 9, 11, 12 und 13 übermittelten Daten sind zum
-frühestmöglichen Zeitpunkt nach der Verarbeitung und dem Einpflegen in
-das Steuerungsregister nach § 3 zu löschen. Spätestens sollen die
+frühestmöglichen Zeitpunkt nach der Verarbeitung und dem Einpflegen
+in das Steuerungsregister nach § 3 zu löschen. Spätestens sollen die
 Daten vier Jahre nach dem Zensusstichtag in den statistischen Ämtern
 des Bundes und der Länder gelöscht werden.
 
@@ -657,16 +542,11 @@ Zustimmung des Bundesrates
 
 1.  eine zusätzliche Übermittlung nach § 8 Absatz 1 anzuordnen,
 
-
 2.  eine zusätzliche Übermittlung nach § 8 Absatz 2 anzuordnen,
-
 
 3.  eine zusätzliche Übermittlung nach § 8 Absatz 3 anzuordnen,
 
-
 4.  eine zusätzliche Übermittlung nach § 12 Absatz 3 anzuordnen,
-
-
 
 soweit dies erforderlich ist, um in Abhängigkeit von einer
 Verschiebung des Zensusstichtags durch Rechtsverordnung nach § 36a

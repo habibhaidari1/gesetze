@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Gewährung von Beihilfen für die private Lagerhaltung bestimmter
-  Fischereierzeugnisse
+Title: Verordnung über die Gewährung von Beihilfen für die private Lagerhaltung bestimmter Fischereierzeugnisse
 jurabk: FischBeihV
 layout: default
 origslug: fischbeihv
@@ -22,19 +21,19 @@ Geändert durch
 
 ## Eingangsformel
 
-Auf Grund des § 6 Abs. 1 Nr. 11, der §§ 9 und 10 Abs. 1 und der §§ 12
-und 26 Abs. 2 Nr. 2 des Gesetzes zur Durchführung der gemeinsamen
+Auf Grund des § 6 Abs. 1 Nr. 11, der §§ 9 und 10 Abs. 1 und der §§
+12 und 26 Abs. 2 Nr. 2 des Gesetzes zur Durchführung der gemeinsamen
 Marktorganisationen vom 31. August 1972 (Bundesgesetzbl. I S. 1617),
 zuletzt geändert durch Artikel 38 des Zuständigkeitsanpassungs-
-Gesetzes vom 18. März 1975 (Bundesgesetzbl. I S. 705) wird im
-Einvernehmen mit dem Bundesminister der Finanzen und dem
+Gesetzes vom 18. März 1975 (Bundesgesetzbl. I S. 705) wird
+im Einvernehmen mit dem Bundesminister der Finanzen und dem
 Bundesminister für Wirtschaft verordnet:
 
 
 ## § 1 Anwendungsbereich
 
-Die Vorschriften dieser Verordnung gelten für die Durchführung der
-Rechtsakte des Rates und der Kommission der Europäischen
+Die Vorschriften dieser Verordnung gelten für die Durchführung
+der Rechtsakte des Rates und der Kommission der Europäischen
 Gemeinschaften über die Gewährung von Beihilfen für die private
 Lagerhaltung bestimmter Fischereierzeugnisse.
 
@@ -57,8 +56,8 @@ sein.
 
 ## § 4 Gewährung der Lagerbeihilfe
 
-Die Beihilfe ist vom Einlagerer bei der Bundesanstalt schriftlich zu
-beantragen. Der Beihilfebetrag wird durch Bescheid festgesetzt,
+Die Beihilfe ist vom Einlagerer bei der Bundesanstalt schriftlich
+zu beantragen. Der Beihilfebetrag wird durch Bescheid festgesetzt,
 Beihilfeforderungen sind unverzinslich.
 
 
@@ -75,8 +74,8 @@ Nachweise sind durch Vorlage von in übersichtlicher Form geführten
 Aufzeichnungen über die Geschäftsvorgänge, insbesondere über
 Einzelheiten des Erwerbs und der Einlagerung der Fischereierzeugnisse
 sowie über die Angaben des in § 3 genannten Vertrages zu erbringen.
-Ferner ist über die Bestandsentwicklung eine laufende Aufzeichnung zu
-führen, aus der sämtliche Mengenveränderungen bis zum Ablauf der
+Ferner ist über die Bestandsentwicklung eine laufende Aufzeichnung
+zu führen, aus der sämtliche Mengenveränderungen bis zum Ablauf der
 jeweiligen Lagerzeit hervorgehen. Bei automatischer Buchführung hat
 der Beteiligte auf seine Kosten Listen mit den erforderlichen Angaben
 auszudrucken, soweit es die Bundesanstalt verlangt.

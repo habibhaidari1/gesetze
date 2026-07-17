@@ -21,14 +21,14 @@ Zuletzt geändert durch
 
 ## § 1
 
-Auf den Inhaber lautende Schuldverschreibungen, in welchen allen
-Gläubigern oder einem Teil derselben außer der Zahlung der
+Auf den Inhaber lautende Schuldverschreibungen, in welchen
+allen Gläubigern oder einem Teil derselben außer der Zahlung der
 verschriebenen Geldsumme eine Prämie dergestalt zugesichert wird, daß
 durch Auslosung oder durch eine andere auf den Zufall gestellte Art
 der Ermittlung die zu prämierenden Schuldverschreibungen und die Höhe
 der ihnen zufallenden Prämie bestimmt werden sollen (Inhaberpapiere
-mit Prämien), dürfen im Inland nur auf Grund eines Bundesgesetzes und
-nur zum Zweck der Anleihe des Bundes oder eines Landes ausgegeben
+mit Prämien), dürfen im Inland nur auf Grund eines Bundesgesetzes
+und nur zum Zweck der Anleihe des Bundes oder eines Landes ausgegeben
 werden.
 
 

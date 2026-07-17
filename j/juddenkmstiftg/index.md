@@ -1,5 +1,5 @@
 ---
-Title: Gesetz zur Errichtung einer "Stiftung Denkmal für die ermordeten Juden Europas"
+Title: "Gesetz zur Errichtung einer \"Stiftung Denkmal für die ermordeten Juden Europas\""
 jurabk: JudDenkmStiftG
 layout: default
 origslug: juddenkmstiftg
@@ -17,7 +17,6 @@ Fundstelle
 
 Zuletzt geändert durch
 :   Art. 75 G v. 29.3.2017 I 626
-
 
 
 ## § 1 Errichtung und Rechtsform
@@ -40,18 +39,12 @@ und ihre Würdigung in geeigneter Weise sicherzustellen.
 1.  das Denkmal für die ermordeten Juden Europas (Stelenfeld und Ort der
     Information) unterhält und betreibt,
 
-
 2.  eine ständige Ausstellung im Ort der Information unterhält,
-
 
 3.  wechselnde Sonderausstellungen, Vortrags- und Seminarveranstaltungen
     durchführt und
 
-
 4.  im notwendigen Umfang begleitende Publikationen erstellt.
-
-
-
 
 (3) Die Stiftung betreut auch das Denkmal für die im
 Nationalsozialismus ermordeten Sinti und Roma und das Denkmal für die
@@ -61,8 +54,8 @@ im Nationalsozialismus verfolgten Homosexuellen.
 ## § 3 Stiftungsvermögen, Gemeinnützigkeit
 
 (1) Mit dem Inkrafttreten dieses Gesetzes gehen die von der
-Bundesrepublik Deutschland für die unselbständige Stiftung Denkmal für
-die ermordeten Juden Europas" bereit gestellten und erworbenen
+Bundesrepublik Deutschland für die unselbständige Stiftung Denkmal
+für die ermordeten Juden Europas" bereit gestellten und erworbenen
 beweglichen und unbeweglichen Vermögensgegenstände in das Eigentum der
 Stiftung über.
 
@@ -77,8 +70,8 @@ verwenden.
 
 (5) Die Stiftung verfolgt unmittelbar und ausschließlich gemeinnützige
 Zwecke im Sinne des Abschnitts "Steuerbegünstigte Zwecke" der
-Abgabenordnung. Es darf keine Person durch Ausgaben, die dem Zweck der
-Stiftung fremd sind, oder durch unverhältnismäßig hohe Vergütungen
+Abgabenordnung. Es darf keine Person durch Ausgaben, die dem Zweck
+der Stiftung fremd sind, oder durch unverhältnismäßig hohe Vergütungen
 begünstigt werden.
 
 
@@ -88,14 +81,9 @@ Organe der Stiftung sind:
 
 1.  das Kuratorium,
 
-
 2.  der Direktor oder die Direktorin und
 
-
 3.  der Beirat.
-
-
-
 
 
 ## § 5 Kuratorium
@@ -106,40 +94,26 @@ Organe der Stiftung sind:
 
     a)  den Präsidenten oder die Präsidentin des Deutschen Bundestages und
 
-
     b)  aus den im Deutschen Bundestag vertretenen Fraktionen pro angefangene
         100 Mitglieder je ein Mitglied,
 
-
-
-
-
 2.  die Bundesregierung zwei Mitglieder,
 
-
 3.  der Senat des Landes Berlin zwei Mitglieder,
-
 
 4.  der Förderkreis zur Errichtung eines Denkmals für die ermordeten Juden
     Europas e. V. drei Mitglieder,
 
-
 5.  der Zentralrat der Juden in Deutschland zwei Mitglieder,
-
 
 6.  die Jüdische Gemeinde Berlin ein Mitglied,
 
-
 7.  das jüdische Museum Berlin ein Mitglied,
-
 
 8.  die Stiftung Topographie des Terrors ein Mitglied,
 
-
 9.  die Arbeitsgemeinschaft der KZ-Gedenkstätten in Deutschland ein
     Mitglied.
-
-
 
 Die Mitglieder können ihre Stimme auf ein anderes Mitglied des
 Kuratoriums übertragen oder sich durch schriftliche oder elektronische
@@ -151,14 +125,10 @@ zum Aufgabenbereich der Stiftung gehören, insbesondere
 
 1.  die Bestellung des Direktors oder der Direktorin,
 
-
 2.  den vom Direktor oder von der Direktorin aufzustellenden
     Haushaltsplan,
 
-
 3.  die Bestellung der Mitglieder des Beirats.
-
-
 
 Das Kuratorium überwacht die Tätigkeit des Direktors oder der
 Direktorin.
@@ -169,8 +139,8 @@ Stellvertreter/die Stellvertreterin wird vom Kuratorium aus seiner
 Mitte bestellt.
 
 (4) Die Sitzungen werden im Auftrag des/der Vorsitzenden des
-Kuratoriums durch den Direktor oder die Direktorin einberufen. Das
-Kuratorium ist beschlussfähig, wenn mehr als die Hälfte seiner
+Kuratoriums durch den Direktor oder die Direktorin einberufen.
+Das Kuratorium ist beschlussfähig, wenn mehr als die Hälfte seiner
 Mitglieder anwesend oder vertreten ist. Das Kuratorium trifft seine
 Entscheidungen mit einfacher Mehrheit. Bei Stimmengleichheit gibt die
 Stimme des/der Vorsitzenden den Ausschlag.
@@ -215,8 +185,8 @@ jeweils geltenden Tarifverträge und sonstigen Bestimmungen anzuwenden.
 
 ## § 10 Haushalt, Rechnungsprüfung, Rechtsaufsicht
 
-(1) Für das Haushalts-, Kassen- und Rechnungswesen sowie für die
-Rechnungslegung der Stiftung gelten die Bestimmungen für die
+(1) Für das Haushalts-, Kassen- und Rechnungswesen sowie für
+die Rechnungslegung der Stiftung gelten die Bestimmungen für die
 Bundesverwaltung. Die Haushalts- und Wirtschaftsführung der Stiftung
 unterliegt der Prüfung durch den Bundesrechnungshof.
 

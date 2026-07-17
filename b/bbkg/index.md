@@ -19,7 +19,6 @@ Zuletzt geändert durch
 :   Art. 146 V v. 19.6.2020 I 1328
 
 
-
 ## § 1 Errichtung des Bundesamtes
 
 Der Bund errichtet das Bundesamt für Bevölkerungsschutz und
@@ -30,8 +29,8 @@ Bundesministerium des Innern, für Bau und Heimat.
 ## § 2 Aufgaben des Bundesamtes
 
 (1) Das Bundesamt nimmt Aufgaben des Bundes auf den Gebieten des
-Bevölkerungsschutzes und der Katastrophenhilfe wahr, die ihm durch das
-Zivilschutz- und Katastrophenhilfegesetz oder andere Bundesgesetze
+Bevölkerungsschutzes und der Katastrophenhilfe wahr, die ihm durch
+das Zivilschutz- und Katastrophenhilfegesetz oder andere Bundesgesetze
 oder auf Grund dieser Gesetze übertragen werden oder mit deren
 Durchführung es vom Bundesministerium des Innern, für Bau und Heimat
 oder mit dessen Zustimmung von anderen fachlich zuständigen obersten

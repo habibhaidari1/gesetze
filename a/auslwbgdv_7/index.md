@@ -1,6 +1,5 @@
 ---
-Title: Siebente Durchführungsverordnung (Stichtag) zum Bereinigungsgesetz für deutsche
-  Auslandsbonds
+Title: Siebente Durchführungsverordnung (Stichtag) zum Bereinigungsgesetz für deutsche Auslandsbonds
 jurabk: AuslWBGDV 7
 layout: default
 origslug: auslwbgdv_7
@@ -17,7 +16,6 @@ Fundstelle
 :   BGBl I: 1953, 1522
 
 
-
 ## Eingangsformel
 
 Auf Grund des § 19 Abs. 2 Nr. 2 des Bereinigungsgesetzes für deutsche
@@ -27,11 +25,11 @@ die Bundesregierung mit Zustimmung des Bundesrates:
 
 ## § 1 Festsetzung eines späteren Stichtags
 
-Der Stichtag für die im Verzeichnis der Auslandsbonds (Anlage zu § 1
-Abs. 1 des Gesetzes,
-ergänzt durch § 1 der Ersten Durchführungsverordnung vom 21. Februar
-1953 - Bundesgesetzbl. I S. 31 -)              aufgeführten Arten von
-Auslandsbonds wird auf den 1. September 1953 festgesetzt.
+Der Stichtag für die im Verzeichnis der Auslandsbonds (Anlage
+zu § 1 Abs. 1 des Gesetzes, *ergänzt durch § 1 der Ersten
+Durchführungsverordnung vom 21. Februar 1953 - Bundesgesetzbl. I S.
+31 -)* aufgeführten Arten von Auslandsbonds wird auf den 1. September
+1953 festgesetzt.
 
 
 ## § 2 Land Berlin

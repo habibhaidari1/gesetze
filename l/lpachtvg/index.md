@@ -30,8 +30,8 @@ Den Vorschriften dieses Gesetzes unterliegen Landpachtverträge nach §
 (1) Der Verpächter hat unbeschadet der Vorschriften des § 3 den
 Abschluß eines Landpachtvertrags durch Vorlage oder im Falle eines
 mündlichen Vertragsabschlusses durch inhaltliche Mitteilung des
-Landpachtvertrags der zuständigen Behörde anzuzeigen. Das gleiche gilt
-für vereinbarte Änderungen der in einem anzeigepflichtigen
+Landpachtvertrags der zuständigen Behörde anzuzeigen. Das gleiche
+gilt für vereinbarte Änderungen der in einem anzeigepflichtigen
 Landpachtvertrag enthaltenen Bestimmungen über die Pachtsache, die
 Pachtdauer und die Vertragsleistungen, sofern die Änderung nicht im
 Wege des Vergleichs vor einem Gericht oder vor einer berufsständischen
@@ -49,13 +49,9 @@ binnen eines Monats nach ihrer Vereinbarung anzuzeigen.
 1.  Landpachtverträge, die im Rahmen eines behördlich geleiteten
     Verfahrens abgeschlossen werden und
 
-
 2.  Landpachtverträge zwischen Ehegatten oder Personen, die in gerader
     Linie verwandt oder bis zum dritten Grad in der Seitenlinie verwandt
     oder bis zum zweiten Grad verschwägert sind.
-
-
-
 
 (2) Die Landesregierungen können durch Rechtsverordnung zur
 erleichterten Durchführung des Gesetzes Landpachtverträge über
@@ -73,38 +69,29 @@ oder eine anzuzeigende Vertragsänderung beanstanden, wenn
     insbesondere eine ungesunde Anhäufung von land- und
     forstwirtschaftlichen Nutzflächen, bedeutet,
 
-
 2.  durch die Verpachtung ein Grundstück oder eine Mehrheit von
     Grundstücken, die räumlich oder wirtschaftlich zusammenhängen,
     unwirtschaftlich in der Nutzung aufgeteilt wird oder
 
-
 3.  die Pacht nicht in einem angemessenen Verhältnis zu dem Ertrag steht,
     der bei ordnungsmäßiger Bewirtschaftung nachhaltig zu erzielen ist.
 
-
-
-
-(2) Eine ungesunde Verteilung der Bodennutzung im Sinne des Absatzes 1
-Nr. 1 liegt in der Regel vor, wenn die Verpachtung Maßnahmen zur
+(2) Eine ungesunde Verteilung der Bodennutzung im Sinne des Absatzes
+1 Nr. 1 liegt in der Regel vor, wenn die Verpachtung Maßnahmen zur
 Verbesserung der Agrarstruktur widerspricht.
 
 (3) Wird ein landwirtschaftlicher Betrieb oder ein
 landwirtschaftliches Grundstück an einen Nebenerwerbslandwirt
-verpachtet, steht dieser bei der Beurteilung der Frage, ob eine
-ungesunde Verteilung der Bodennutzung vorliegt, einem
+verpachtet, steht dieser bei der Beurteilung der Frage, ob
+eine ungesunde Verteilung der Bodennutzung vorliegt, einem
 Haupterwerbslandwirt gleich, wenn
 
 1.  er Landwirt im Sinne des § 1 Abs. 2 des Gesetzes über die
     Alterssicherung der Landwirte ist und
 
-
 2.  durch die Bewirtschaftung des gepachteten Betriebs oder Grundstücks
     die Existenzgrundlage des Nebenerwerbslandwirts und der zu seinem
     Haushalt gehörenden Familienangehörigen wesentlich verbessert wird.
-
-
-
 
 (4) Die Landesregierungen können zur erleichterten Durchführung des
 Gesetzes unter besonderer Berücksichtigung der agrarstrukturellen
@@ -120,17 +107,14 @@ Grundstücken,
 1.  die in einem mit öffentlichen Mitteln geförderten Verfahren
     zusammengelegt wurden oder
 
-
 2.  deren Erwerb öffentlich gefördert wurde,
-
-
 
 dem Verfahrens- oder Förderungszweck zuwider verändert wird.
 
 (6) Die Länder können bestimmen, dass in bestimmten Teilen des
-Landesgebietes ein anzuzeigender Landpachtvertrag über die in Absatz 1
-genannten Gründe hinaus beanstandet werden kann, soweit dies in dem
-betroffenen Teil des Landesgebietes zur Abwehr einer erheblichen
+Landesgebietes ein anzuzeigender Landpachtvertrag über die in Absatz
+1 genannten Gründe hinaus beanstandet werden kann, soweit dies in
+dem betroffenen Teil des Landesgebietes zur Abwehr einer erheblichen
 Gefahr für die Agrarstruktur zwingend erforderlich ist.
 
 
@@ -157,8 +141,8 @@ Vertragsabschlusses oder der Vertragsänderung durch schriftlichen
 Bescheid zu treffen. Dauert die Prüfung des Landpachtvertrags
 voraussichtlich länger, ist vor Ablauf der Frist den Vertragsteilen
 ein Zwischenbescheid zu erteilen, durch den sich die Frist auf zwei
-Monate verlängert. Der Landpachtvertrag oder die Vertragsänderung gilt
-als nicht beanstandet, wenn die Frist abläuft, ohne daß den
+Monate verlängert. Der Landpachtvertrag oder die Vertragsänderung
+gilt als nicht beanstandet, wenn die Frist abläuft, ohne daß den
 Vertragsteilen ein Beanstandungsbescheid bekanntgegeben worden ist.
 
 (2) In dem Beanstandungsbescheid sind die Vertragsteile aufzufordern,
@@ -166,8 +150,8 @@ den Landpachtvertrag oder die Vertragsänderung bis zu einem bestimmten
 Zeitpunkt, der mindestens einen Monat nach Bekanntgabe des Bescheids
 liegen soll, aufzuheben oder in bestimmter Weise zu ändern. Kommen die
 Vertragsteile der Aufforderung nicht nach, gilt der Landpachtvertrag
-oder die Vertragsänderung mit Ablauf der Frist als aufgehoben, sofern
-nicht vorher ein Vertragsteil einen Antrag auf gerichtliche
+oder die Vertragsänderung mit Ablauf der Frist als aufgehoben,
+sofern nicht vorher ein Vertragsteil einen Antrag auf gerichtliche
 Entscheidung gestellt hat.
 
 (3) Die Vertragsteile sind in dem Beanstandungsbescheid über die
@@ -181,16 +165,16 @@ die einzuhaltende Frist zu belehren.
 (1) Stellt ein Vertragsteil den Antrag auf gerichtliche Entscheidung,
 kann das Landwirtschaftsgericht entweder feststellen, daß der
 Landpachtvertrag nicht zu beanstanden ist, oder den Landpachtvertrag
-aufheben; das gleiche gilt für die Vertragsänderung. Erachtet das
-Landwirtschaftsgericht eine auf § 4 Abs. 1 Nr. 3 gestützte
+aufheben; das gleiche gilt für die Vertragsänderung. Erachtet
+das Landwirtschaftsgericht eine auf § 4 Abs. 1 Nr. 3 gestützte
 Beanstandung für begründet, kann es den Vertrag insoweit ändern, statt
 ihn aufzuheben.
 
 (2) Auf Antrag eines Vertragsteils kann das Landwirtschaftsgericht
 Anordnungen über die Abwicklung eines aufgehobenen Landpachtvertrags
 treffen. Der Inhalt von Anordnungen des Landwirtschaftsgerichts gilt
-unter den Vertragsteilen als Vertragsinhalt. Über Streitigkeiten, die
-diesen Vertragsinhalt betreffen, entscheidet auf Antrag das
+unter den Vertragsteilen als Vertragsinhalt. Über Streitigkeiten,
+die diesen Vertragsinhalt betreffen, entscheidet auf Antrag das
 Landwirtschaftsgericht.
 
 
@@ -208,8 +192,8 @@ Vertragsänderung nicht fristgemäß angezeigt worden, kann die
 zuständige Behörde die Anzeige verlangen.
 
 (2) Ist ein Landpachtvertrag nach den §§ 7 und 8 aufgehoben worden,
-kann die zuständige Behörde von den Vertragsteilen verlangen, daß eine
-bereits vorgenommene Übertragung des Besitzes an der Pachtsache
+kann die zuständige Behörde von den Vertragsteilen verlangen, daß
+eine bereits vorgenommene Übertragung des Besitzes an der Pachtsache
 innerhalb einer angemessenen Frist rückgängig gemacht wird.
 
 (3) Über die Rechtmäßigkeit von Maßnahmen nach den Absätzen 1 und 2
@@ -218,8 +202,8 @@ entscheidet auf Antrag das Landwirtschaftsgericht.
 
 ## § 11 Fischereipacht
 
-Für Verträge, durch die Betriebe oder Grundstücke überwiegend zur
-Fischerei verpachtet werden, gilt dieses Gesetz, soweit nicht
+Für Verträge, durch die Betriebe oder Grundstücke überwiegend
+zur Fischerei verpachtet werden, gilt dieses Gesetz, soweit nicht
 Rechtsvorschriften der Länder inhaltsgleiche oder entgegenstehende
 Bestimmungen enthalten.
 
@@ -228,16 +212,16 @@ Bestimmungen enthalten.
 
 (1) Bei anhängigen Anzeige- und Beanstandungsverfahren sowie in
 Verfahren über Anträge auf gerichtliche Entscheidung, die vor
-Inkrafttreten dieses Gesetzes anhängig geworden sind, richten sich die
-Entscheidung sowie das weitere Verfahren nach den bisher geltenden
-Vorschriften; dies gilt nicht für Landpachtverträge und
+Inkrafttreten dieses Gesetzes anhängig geworden sind, richten
+sich die Entscheidung sowie das weitere Verfahren nach den bisher
+geltenden Vorschriften; dies gilt nicht für Landpachtverträge und
 Vertragsänderungen, die nach diesem Gesetz keiner Anzeigepflicht
 unterliegen.
 
 (2) Die Vorschriften des Bayerischen Almgesetzes vom 28. April 1932
 (Bereinigte Sammlung des Bayerischen Landesrechts IV S. 359) zuletzt
-geändert durch § 59 des Zweiten Bayerischen Gesetzes zur Anpassung des
-Landesrechts an den Euro vom 24. April 2001 (GVBl. S. 140) bleiben
+geändert durch § 59 des Zweiten Bayerischen Gesetzes zur Anpassung
+des Landesrechts an den Euro vom 24. April 2001 (GVBl. S. 140) bleiben
 unberührt. Danach genehmigte Landpachtverträge gelten als angezeigt im
 Sinne dieses Gesetzes.
 

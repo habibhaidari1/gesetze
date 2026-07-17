@@ -1,6 +1,5 @@
 ---
-Title: Anordnung über die Aufhebung von Rechtsvorschriften auf dem Gebiet der freiwilligen
-  Sach- und Haftpflichtversicherungen der Bürger
+Title: Anordnung über die Aufhebung von Rechtsvorschriften auf dem Gebiet der freiwilligen Sach- und Haftpflichtversicherungen der Bürger
 jurabk: SHVAufhAnO
 layout: default
 origslug: shvaufhano
@@ -16,6 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   GBl DDR I: 1990, 1270
 
+Fundstelle
+:   GBl DDR I: 1990, Nr 56, 1270
 
 
 ## § 1
@@ -31,11 +32,11 @@ bisherigen Versicherungsbedingungen und Tarife mit den in den Absätzen
 2 und 3 getroffenen Festlegungen weitergeführt.
 
 (2) Die Versicherungen erstrecken sich ohne Rücksicht auf mitwirkende
-Ursachen nicht auf Schäden und nicht auf versicherte Kosten, die durch
-Kriegsereignisse jeder Art, innere Unruhen, Erdbeben oder Kernenergie
-verursacht werden. Haftpflichtversicherungen erstrecken sich nicht auf
-die Haftpflicht als Inhaber von Anlagen zur Lagerung von
-gewässerschädlichen Stoffen und aus der Verwendung dieser Stoffe.
+Ursachen nicht auf Schäden und nicht auf versicherte Kosten, die
+durch Kriegsereignisse jeder Art, innere Unruhen, Erdbeben oder
+Kernenergie verursacht werden. Haftpflichtversicherungen erstrecken
+sich nicht auf die Haftpflicht als Inhaber von Anlagen zur Lagerung
+von gewässerschädlichen Stoffen und aus der Verwendung dieser Stoffe.
 
 (3) Für Haftpflichtversicherungen ist die Versicherungsleistung je
 versichertes Ereignis begrenzt auf 2 Millionen Deutsche Mark für
@@ -43,8 +44,8 @@ Personenschäden und auf 500.000 Deutsche Mark für Sachschäden. Diese
 Versicherungssummen können durch vertragliche Vereinbarung erhöht
 werden.
 
-(4) Für Tierversicherungen werden die Bewertungsnormen für die Tiere
-als Grundlage für die Beitragsbemessung und die
+(4) Für Tierversicherungen werden die Bewertungsnormen für
+die Tiere als Grundlage für die Beitragsbemessung und die
 Versicherungsleistungen aufgehoben. An deren Stelle tritt der
 tatsächliche Wert der Tiere.
 
@@ -53,9 +54,9 @@ tatsächliche Wert der Tiere.
 
 Der Versicherungsnehmer und der Versicherer können den
 Versicherungsvertrag zum Ende des Beitragszeitraumes schriftlich
-kündigen. Die Kündigungsfrist beträgt drei Monate. Bis zum Ende des
-bei Inkrafttreten dieser Anordnung laufenden Beitragszeitraumes ist
-die Kündigung durch den Versicherungsnehmer zum Ende des
+kündigen. Die Kündigungsfrist beträgt drei Monate. Bis zum Ende
+des bei Inkrafttreten dieser Anordnung laufenden Beitragszeitraumes
+ist die Kündigung durch den Versicherungsnehmer zum Ende des
 Beitragszeitraumes ohne Einhaltung einer Kündigungsfrist möglich.
 
 

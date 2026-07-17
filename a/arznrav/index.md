@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Aussetzung der Rechnungsabschläge bei Arzneimitteln nach
-  § 311a des Fünften Buches Sozialgesetzbuch
+Title: Verordnung über die Aussetzung der Rechnungsabschläge bei Arzneimitteln nach § 311a des Fünften Buches Sozialgesetzbuch
 jurabk: ArznRAV
 layout: default
 origslug: arznrav
@@ -17,7 +16,6 @@ Fundstelle
 :   BGBl I: 1993, 1469
 
 
-
 ## Eingangsformel
 
 Auf Grund des § 311a Abs. 4 des Fünften Buches Sozialgesetzbuch, der
@@ -31,8 +29,8 @@ Bundesministerium für Gesundheit:
 ## § 1
 
 Die Rechnungsabschläge nach § 311a Abs. 1 und 2 des Fünften Buches
-Sozialgesetzbuch werden für Arzneimittel, die vom 1. Juli 1993 bis zum
-31\. Oktober 1993 zu Lasten der Krankenkassen abgegeben werden,
+Sozialgesetzbuch werden für Arzneimittel, die vom 1. Juli 1993 bis
+zum 31. Oktober 1993 zu Lasten der Krankenkassen abgegeben werden,
 ausgesetzt.
 
 

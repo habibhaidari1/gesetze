@@ -1,7 +1,5 @@
 ---
-Title: Gesetz zu dem Abkommen vom 13. September 1971 zwischen der Bundesrepublik Deutschland
-  und der Französischen Republik über die Befreiung öffentlicher Urkunden von der
-  Legalisation
+Title: Gesetz zu dem Abkommen vom 13. September 1971 zwischen der Bundesrepublik Deutschland und der Französischen Republik über die Befreiung öffentlicher Urkunden von der Legalisation
 jurabk: UrkBefrFRAG
 layout: default
 origslug: urkbefrfrag
@@ -16,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl II: 1974, 1074 (1100)
-
 
 
 ## Eingangsformel
@@ -46,13 +43,13 @@ Stelle. Die Person, Stelle oder Behörde ist verpflichtet, eine
 ## Art 3
 
 Wird dem Bundesverwaltungsamt ein Ersuchen nach Artikel 7 des
-Abkommmens aus der Französischen Republik zugeleitet, so führt es eine
-Äußerung der Person, Stelle oder Behörde herbei, welche die Urkunde
-errichtet hat. Läßt diese Äußerung Zweifel an der Eigenschaft der
-Urkunde als öffentliche Urkunde bestehen, so holt das
-Bundesverwaltungsamt gegebenenfalls eine Äußerung der Behörde oder
-Stelle ein, von der die Person, Stelle oder Behörde, welche die
-Urkunde errichtet hat, ihre Befugnis zur Errichtung von Urkunden
+Abkommmens aus der Französischen Republik zugeleitet, so führt
+es eine Äußerung der Person, Stelle oder Behörde herbei, welche
+die Urkunde errichtet hat. Läßt diese Äußerung Zweifel an der
+Eigenschaft der Urkunde als öffentliche Urkunde bestehen, so holt
+das Bundesverwaltungsamt gegebenenfalls eine Äußerung der Behörde
+oder Stelle ein, von der die Person, Stelle oder Behörde, welche
+die Urkunde errichtet hat, ihre Befugnis zur Errichtung von Urkunden
 ableitet oder deren Weisungen sie unterliegt. Artikel 2 Satz 2 findet
 Anwendung. Das Bundesverwaltungsamt übermittelt die Auskunft der
 ersuchenden Stelle.
@@ -62,10 +59,10 @@ ersuchenden Stelle.
 
 (1) Ersuchen, mit denen außerhalb eines gerichtlichen oder
 behördlichen Verfahrens eine Nachprüfung nach Artikel 6 oder Auskunft
-nach Artikel 7 des Abkommens verlangt wird, werden dem Ministerium der
-Justiz der Französischen Republik durch den Präsidenten des
-Landgerichts übermittelt, in dessen Bezirk der Gesuchsteller seinen
-allgemeinen Gerichtsstand hat. Hat der Gesuchsteller keinen
+nach Artikel 7 des Abkommens verlangt wird, werden dem Ministerium
+der Justiz der Französischen Republik durch den Präsidenten des
+Landgerichts übermittelt, in dessen Bezirk der Gesuchsteller
+seinen allgemeinen Gerichtsstand hat. Hat der Gesuchsteller keinen
 allgemeinen Gerichtsstand im Geltungsbereich dieses Gesetzes, ist das
 Ersuchen durch den Präsidenten des Landgerichts Berlin zu übermitteln.
 

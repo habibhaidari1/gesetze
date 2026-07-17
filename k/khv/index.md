@@ -1,6 +1,5 @@
 ---
-Title: Verordnung zur Verwendung von Gebärdensprache und anderen Kommunikationshilfen
-  im Verwaltungsverfahren nach dem Behindertengleichstellungsgesetz
+Title: Verordnung zur Verwendung von Gebärdensprache und anderen Kommunikationshilfen im Verwaltungsverfahren nach dem Behindertengleichstellungsgesetz
 jurabk: KHV
 layout: default
 origslug: khv
@@ -23,24 +22,24 @@ Zuletzt geändert durch
 ## Eingangsformel
 
 Auf Grund des § 9 Abs. 2 des Behindertengleichstellungsgesetzes vom
-27\. April 2002 (BGBl. I S. 1467) verordnet das Bundesministerium des
-Innern im Einvernehmen mit dem Bundesministerium für Arbeit und
+27\. April 2002 (BGBl. I S. 1467) verordnet das Bundesministerium
+des Innern im Einvernehmen mit dem Bundesministerium für Arbeit und
 Sozialordnung:
 
 
 ## § 1 Anwendungsbereich und Anlass
 
-(1) Die Verordnung gilt für alle Menschen mit Hör- oder
-Sprachbehinderungen nach Maßgabe des § 3 des
+(1) Die Verordnung gilt für alle Menschen mit Hör-
+oder Sprachbehinderungen nach Maßgabe des § 3 des
 Behindertengleichstellungsgesetzes, die als Beteiligte eines
-Verwaltungsverfahrens zur Wahrnehmung eigener Rechte für die mündliche
-Kommunikation im Verwaltungsverfahren einen Anspruch auf
-Bereitstellung einer geeigneten Kommunikationshilfe haben
+Verwaltungsverfahrens zur Wahrnehmung eigener Rechte für die
+mündliche Kommunikation im Verwaltungsverfahren einen Anspruch
+auf Bereitstellung einer geeigneten Kommunikationshilfe haben
 (Berechtigte).
 
-(2) Die Berechtigten können ihren Anspruch nach § 9 Absatz 1 des
-Behindertengleichstellungsgesetzes gegenüber jedem Träger öffentlicher
-Gewalt im Sinne des § 1 Absatz 2 Satz 1 des
+(2) Die Berechtigten können ihren Anspruch nach § 9 Absatz 1
+des Behindertengleichstellungsgesetzes gegenüber jedem Träger
+öffentlicher Gewalt im Sinne des § 1 Absatz 2 Satz 1 des
 Behindertengleichstellungsgesetzes geltend machen.
 
 
@@ -63,9 +62,9 @@ oder Sprachbehinderung sowie die Wahlentscheidung nach Satz 1 sind
 aktenkundig zu machen und im weiteren Verwaltungsverfahren von Amts
 wegen zu berücksichtigen.
 
-(3) Erhält der Träger öffentlicher Gewalt Kenntnis von der Hör- oder
-Sprachbehinderung von Berechtigten im Verwaltungsverfahren, hat er
-diese auf ihr Recht auf barrierefreie Kommunikation und auf ihr
+(3) Erhält der Träger öffentlicher Gewalt Kenntnis von der Hör-
+oder Sprachbehinderung von Berechtigten im Verwaltungsverfahren, hat
+er diese auf ihr Recht auf barrierefreie Kommunikation und auf ihr
 Wahlrecht nach Absatz 2 hinzuweisen.
 
 (4) Zur Abwehr von unmittelbar bevorstehenden Gefahren für bedeutsame
@@ -76,62 +75,44 @@ Kommunikationshilfe abgesehen werden.
 
 ## § 3 Kommunikationshilfen
 
-(1) Eine Kommunikationshilfe ist als geeignet anzusehen, wenn sie im
-konkreten Fall eine für die Wahrnehmung eigener Rechte im
+(1) Eine Kommunikationshilfe ist als geeignet anzusehen, wenn
+sie im konkreten Fall eine für die Wahrnehmung eigener Rechte im
 Verwaltungsverfahren erforderliche Verständigung sicherstellt.
 
 (2) Als Kommunikationshilfen kommen in Betracht:
 
 1.  Gebärdensprachdolmetscherinnen und Gebärdensprachdolmetscher,
 
-
 2.  Kommunikationshelferinnen und Kommunikationshelfer,
-
 
 3.  Kommunikationsmethoden sowie
 
-
 4.  Kommunikationsmittel.
-
-
 
 Kommunikationshelferinnen und Kommunikationshelfer nach Satz 1 Nummer
 2 sind insbesondere
 
 1.  Schriftdolmetscherinnen und Schriftdolmetscher,
 
-
 2.  Simultanschriftdolmetscherinnen und Simultanschriftdolmetscher,
-
 
 3.  Oraldolmetscherinnen und Oraldolmetscher,
 
-
 4.  Kommunikationsassistentinnen und Kommunikationsassistenten oder
 
-
 5.  sonstige Personen des Vertrauens der Berechtigten.
-
-
 
 Kommunikationsmethoden nach Satz 1 Nummer 3 sind insbesondere
 
 1.  Lormen und taktil wahrnehmbare Gebärden oder
 
-
 2.  gestützte Kommunikation für Menschen mit autistischer Störung.
-
-
 
 Kommunikationsmittel nach Satz 1 Nummer 4 sind insbesondere
 
 1.  akustisch-technische Hilfen oder
 
-
 2.  grafische Symbol-Systeme.
-
-
-
 
 
 ## § 4 Art und Weise der Bereitstellung von geeigneten Kommunikationshilfen
@@ -167,12 +148,12 @@ Kommunikationshelfer nach § 3 Absatz 2 Satz 1 Nummer 2, Satz 2 Nummer
 1 bis 4 mit nachgewiesener abgeschlossener Qualifizierung für das
 ausgeübte Tätigkeitsfeld.
 
-(4) Eine pauschale Abgeltung in Höhe von 25 Prozent der Vergütung nach
-Absatz 2, mindestens aber eine Abgeltung für die entstandenen
-Aufwendungen erhalten Gebärdensprachdolmetscherinnen und
-Gebärdensprachdolmetscher nach § 3 Absatz 2 Satz 1 Nummer 1 sowie
-Kommunikationshelferinnen und Kommunikationshelfer nach § 3 Absatz 2
-Satz 1 Nummer 2, Satz 2 Nummer 1 bis 5 ohne nachgewiesene
+(4) Eine pauschale Abgeltung in Höhe von 25 Prozent der
+Vergütung nach Absatz 2, mindestens aber eine Abgeltung für die
+entstandenen Aufwendungen erhalten Gebärdensprachdolmetscherinnen
+und Gebärdensprachdolmetscher nach § 3 Absatz 2 Satz 1 Nummer 1
+sowie Kommunikationshelferinnen und Kommunikationshelfer nach § 3
+Absatz 2 Satz 1 Nummer 2, Satz 2 Nummer 1 bis 5 ohne nachgewiesene
 abgeschlossene Berufsausbildung oder Qualifizierung für das ausgeübte
 Tätigkeitsfeld.
 
@@ -181,8 +162,8 @@ Tätigkeitsfeld.
 
 (6) Die Träger öffentlicher Gewalt können mit
 Gebärdensprachdolmetscherinnen und Gebärdensprachdolmetschern sowie
-Kommunikationshelferinnen und Kommunikationshelfern hinsichtlich der
-Vergütung und Abgeltung von den Absätzen 1 bis 4 abweichende
+Kommunikationshelferinnen und Kommunikationshelfern hinsichtlich
+der Vergütung und Abgeltung von den Absätzen 1 bis 4 abweichende
 Rahmenvereinbarungen treffen.
 
 (7) Der Träger öffentlicher Gewalt vergütet die Leistungen unmittelbar

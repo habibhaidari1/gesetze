@@ -1,6 +1,5 @@
 ---
-Title: Gesetz über die Anpassung von Dienst- und Versorgungsbezügen in Bund und Ländern
-  1998
+Title: Gesetz über die Anpassung von Dienst- und Versorgungsbezügen in Bund und Ländern 1998
 jurabk: BBVAnpG 98
 layout: default
 origslug: bbvanpg_98
@@ -29,7 +28,6 @@ beschlossen:
 ## Teil 1 - Anpassung von Dienst- und Versorgungsbezügen
 
 
-
 ### Art 1 (weggefallen)
 
 -
@@ -48,8 +46,8 @@ Bundesbesoldungs- und -versorgungsanpassungsgesetzes 1991 vom 21.
 Februar 1992 (BGBl. I S. 266) und der Zuschlag zum Grundgehalt
 (Erhöhungszuschlag) nach Artikel 5 § 1 Abs. 1 oder Artikel 6 § 1 Abs.
 1 des Siebenten Gesetzes zur Änderung des Besoldungsgesetzes vom 15.
-April 1970 (BGBl. I S. 339) oder entsprechendem Landesrecht nehmen mit
-Wirkung vom 31. Dezember 1997 an allgemeinen Erhöhungen der Bezüge
+April 1970 (BGBl. I S. 339) oder entsprechendem Landesrecht nehmen
+mit Wirkung vom 31. Dezember 1997 an allgemeinen Erhöhungen der Bezüge
 nicht mehr teil.
 
 
@@ -60,10 +58,10 @@ nicht mehr teil.
 
 ### Art 4 Berechnungs- und Anpassungsvorschriften
 
-(1) Bei der Berechnung der Erhöhungen nach den Artikeln 1 und 2 sowie
-den Berechnungen nach Artikel 3 sind sich ergebende Bruchteile eines
-Pfennigs unter 0,5 abzurunden und Bruchteile von 0,5 und mehr
-aufzurunden; abweichend davon sind die Beträge der Stufe 1 des
+(1) Bei der Berechnung der Erhöhungen nach den Artikeln 1 und 2
+sowie den Berechnungen nach Artikel 3 sind sich ergebende Bruchteile
+eines Pfennigs unter 0,5 abzurunden und Bruchteile von 0,5 und
+mehr aufzurunden; abweichend davon sind die Beträge der Stufe 1 des
 Familienzuschlages oder der diesem Bezügebestandteil entsprechende
 Betrag auf den nächsten Pfennig zu erhöhen, soweit der ermittelte
 Betrag nicht durch zwei teilbar ist. Abweichend von Satz 1 sind bei
@@ -79,7 +77,6 @@ Bundesbesoldungsgesetzes im Bundesgesetzblatt bekannt.
 ## Teil 2 - Änderung sonstiger Vorschriften
 
 
-
 ### (XXXX) Art 5 bis Art 11 (weggefallen)
 
 -
@@ -88,11 +85,10 @@ Bundesbesoldungsgesetzes im Bundesgesetzblatt bekannt.
 ## Teil 3 - Übergangs- und Schlußvorschriften
 
 
-
 ### Art 12 Neubekanntmachungserlaubnisse
 
-Das Bundesministerium des Innern kann den Wortlaut des
-Bundesbesoldungsgesetzes sowie den Wortlaut der
+Das Bundesministerium des Innern kann den Wortlaut
+des Bundesbesoldungsgesetzes sowie den Wortlaut der
 Erschwerniszulagenverordnung und der Verordnung über die Gewährung von
 Mehrarbeitsvergütung für Beamte in der Fassung, die am ersten Tage des
 auf die Verkündung dieses Gesetzes folgenden Kalendermonats gilt, im

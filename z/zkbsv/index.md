@@ -34,22 +34,19 @@ Fragen der Gentechnik.
 zuständigen Behörde Stellungnahmen nach den Vorschriften dieser
 Verordnung ab, insbesondere
 
-1.  zur Sicherheitseinstufung der vorgesehenen gentechnischen Arbeiten und
-    zu den erforderlichen Sicherheitsmaßnahmen gemäß § 7 des
+1.  zur Sicherheitseinstufung der vorgesehenen gentechnischen Arbeiten
+    und zu den erforderlichen Sicherheitsmaßnahmen gemäß § 7 des
     Gentechnikgesetzes und
-
 
 2.  zu den möglichen Gefahren für die in § 1 Nr. 1 des Gentechnikgesetzes
     genannten Rechtsgüter durch eine Freisetzung oder das Inverkehrbringen
     gentechnisch veränderter Organismen.
 
-
-
 Die Kommission veröffentlicht allgemeine Stellungnahmen zu häufig
 durchgeführten gentechnischen Arbeiten mit den jeweils zugrunde
-liegenden Kriterien der Vergleichbarkeit im Bundesanzeiger und gibt
-nach § 7 Absatz 5 Satz 1 der Gentechnik-Sicherheitsverordnung neu
-anerkannte biologische Sicherheitsmaßnahmen regelmäßig im
+liegenden Kriterien der Vergleichbarkeit im Bundesanzeiger und
+gibt nach § 7 Absatz 5 Satz 1 der Gentechnik-Sicherheitsverordnung
+neu anerkannte biologische Sicherheitsmaßnahmen regelmäßig im
 Bundesanzeiger bekannt.
 
 (3) Die Kommission wird angehört
@@ -58,14 +55,10 @@ Bundesanzeiger bekannt.
     Landwirtschaft nach § 6 der Gentechnik-Sicherheitsverordnung im
     Bundesanzeiger veröffentlichten Organismenlisten und
 
-
 2.  zu den vom Bundesministerium für Arbeit und Soziales im Gemeinsamen
     Ministerialblatt nach § 20 der Gentechnik-Sicherheitsverordnung zu
     veröffentlichenden Regeln und Erkenntnissen zur arbeitsmedizinischen
     Vorsorge bei gentechnischen Arbeiten.
-
-
-
 
 
 ## § 2 Berufung der Mitglieder
@@ -78,16 +71,16 @@ sind Vorschläge des Wissenschaftsrates, bei Berufungen nach § 4 Abs. 1
 Satz 2 Nr. 2 des Gentechnikgesetzes Vorschläge aus den dort genannten
 Bereichen einzuholen.
 
-(2) Das Bundesministerium für Ernährung und Landwirtschaft macht die
-Namen der Mitglieder und der stellvertretenden Mitglieder im
+(2) Das Bundesministerium für Ernährung und Landwirtschaft macht
+die Namen der Mitglieder und der stellvertretenden Mitglieder im
 Bundesanzeiger bekannt.
 
 
 ## § 3 Mitglieder und stellvertretende Mitglieder
 
-(1) Die Tätigkeit in der Kommission wird ehrenamtlich ausgeübt. Die
-Mitglieder und die stellvertretenden Mitglieder erhalten Ersatz ihrer
-Reisekosten nach dem Bundesreisekostenrecht sowie eine
+(1) Die Tätigkeit in der Kommission wird ehrenamtlich ausgeübt.
+Die Mitglieder und die stellvertretenden Mitglieder erhalten
+Ersatz ihrer Reisekosten nach dem Bundesreisekostenrecht sowie eine
 Sitzungsentschädigung.
 
 (2) Die Mitglieder und die stellvertretenden Mitglieder können durch
@@ -110,19 +103,19 @@ zugelassen.
 
 ## § 5 Vorsitzender und Stellvertreter
 
-Die Mitglieder oder bei deren Abwesenheit ihre Stellvertreter wählen
-aus dem Kreis der Mitglieder nach § 4 Abs. 1 Satz 2 Nr. 1 des
+Die Mitglieder oder bei deren Abwesenheit ihre Stellvertreter
+wählen aus dem Kreis der Mitglieder nach § 4 Abs. 1 Satz 2 Nr. 1 des
 Gentechnikgesetzes einen Vorsitzenden und zwei Stellvertreter für die
 Dauer von drei Jahren. Wiederwahl ist möglich.
 
 
 ## § 6 Berichterstatter
 
-(1) Anforderungen von Stellungnahmen der Kommission werden auf je zwei
-Berichterstatter aus dem Kreis der Mitglieder und deren Stellvertreter
-verteilt. Die Berichterstatter fertigen eine Zusammenfassung der
-Unterlagen und nehmen eine Sicherheitseinstufung unter
-Berücksichtigung der vorgesehenen Sicherheitsmaßnahmen vor; sie
+(1) Anforderungen von Stellungnahmen der Kommission werden auf
+je zwei Berichterstatter aus dem Kreis der Mitglieder und deren
+Stellvertreter verteilt. Die Berichterstatter fertigen eine
+Zusammenfassung der Unterlagen und nehmen eine Sicherheitseinstufung
+unter Berücksichtigung der vorgesehenen Sicherheitsmaßnahmen vor; sie
 erarbeiten sonstige Stellungnahmen. Sie berichten der Kommission.
 
 (2) Die Berichterstatter können der Kommission Vorschläge für die
@@ -164,12 +157,12 @@ Fristen mitgeteilt werden können.
 Sitzung auf Vorschlag der Geschäftsstelle eine Tagesordnung auf.
 
 (3) Die Einladung, die Tagesordnung und die Sitzungsunterlagen sollen
-den Mitgliedern und den stellvertretenden Mitgliedern spätestens eine
-Woche vor der Sitzung zugehen. Auf die Einhaltung der Frist kann
-verzichtet werden, wenn mindestens zwei Drittel der Mitglieder
+den Mitgliedern und den stellvertretenden Mitgliedern spätestens
+eine Woche vor der Sitzung zugehen. Auf die Einhaltung der Frist
+kann verzichtet werden, wenn mindestens zwei Drittel der Mitglieder
 einverstanden sind. Die in § 4 Abs. 2 des Gentechnikgesetzes genannten
-Bundesministerien und die zuständigen obersten Landesbehörden erhalten
-die Einladung, die Tagesordnung und auf Anforderung die
+Bundesministerien und die zuständigen obersten Landesbehörden
+erhalten die Einladung, die Tagesordnung und auf Anforderung die
 Sitzungsunterlagen nachrichtlich.
 
 (4) Ist ein Mitglied an der Teilnahme verhindert, unterrichtet es
@@ -187,8 +180,8 @@ Mitglieder sollen an den Sitzungen teilnehmen.
 (2) Der Vorsitzende eröffnet, leitet und schließt die Sitzungen; er
 ist für die Ordnung verantwortlich.
 
-(3) Zu Beginn der Sitzung wird über die Tagesordnung entschieden. Auf
-Beschluß von zwei Dritteln der Mitglieder kann die Tagesordnung
+(3) Zu Beginn der Sitzung wird über die Tagesordnung entschieden.
+Auf Beschluß von zwei Dritteln der Mitglieder kann die Tagesordnung
 ergänzt werden.
 
 (4) Stimmberechtigt sind die Mitglieder, im Falle ihrer Verhinderung
@@ -200,26 +193,23 @@ Verschwiegenheit zu wahren.
 
 ## § 11 Beschlußfassung
 
-(1) Die Kommission ist beschlußfähig, wenn alle Mitglieder geladen und
-mindestens zehn stimmberechtigte Mitglieder, davon mindestens sechs
-stimmberechtigte Mitglieder nach § 4 Abs. 1 Satz 2 Nr. 1 des
+(1) Die Kommission ist beschlußfähig, wenn alle Mitglieder geladen
+und mindestens zehn stimmberechtigte Mitglieder, davon mindestens
+sechs stimmberechtigte Mitglieder nach § 4 Abs. 1 Satz 2 Nr. 1 des
 Gentechnikgesetzes, anwesend sind.
 
 (2) Die Kommission kann auf der Grundlage übereinstimmender
 Stellungnahmen der Berichterstatter oder der Mitglieder eines
 Arbeitskreises
 
-1.  Stellungnahmen zur Sicherheitseinstufung einer gentechnischen Arbeit
-    der Sicherheitsstufe 2 oder einer gentechnischen Arbeit der
+1.  Stellungnahmen zur Sicherheitseinstufung einer gentechnischen
+    Arbeit der Sicherheitsstufe 2 oder einer gentechnischen Arbeit der
     Sicherheitsstufe 3, die einer bereits von der Kommission eingestuften
     gentechnischen Arbeit vergleichbar ist, oder
-
 
 2.  Empfehlungen zu einem Antrag auf Freisetzung oder Inverkehrbringen,
     der einem bereits von der Kommission beurteilten Antrag vergleichbar
     ist,
-
-
 
 im schriftlichen Verfahren beschließen. Satz 1 gilt auch für die
 abschließende Beschlußfassung einer bereits von der Kommission
@@ -246,8 +236,8 @@ Beratungsgegenstände, deren Ergebnisse und ihre Begründung sowie die
 Stimmenverhältnisse ausweist. Minderheitsvoten werden protokolliert.
 Dem Sitzungsprotokoll ist eine Anwesenheitsliste beizufügen.
 
-(2) Zur Erleichterung der Erstellung des Sitzungsprotokolls kann die
-Geschäftsstelle den Sitzungsverlauf auf Tonträger aufzeichnen.
+(2) Zur Erleichterung der Erstellung des Sitzungsprotokolls kann
+die Geschäftsstelle den Sitzungsverlauf auf Tonträger aufzeichnen.
 Unmittelbar nach Verabschiedung Sitzungsprotokolls sind die
 Aufzeichnungen zu löschen.
 
@@ -287,11 +277,11 @@ Anwendung.
 (1) Die Kommission gibt spätestens sechs Wochen, bei Anmeldung
 weiterer gentechnischer Arbeiten spätestens vier Wochen, nach Eingang
 der Unterlagen gegenüber der nach dem Gentechnikgesetz zuständigen
-Behörde eine Stellungnahme nach § 1 Abs. 2 ab. Die Frist nach Satz 1
-verlängert sich, wenn eine Ergänzung der Unterlagen erforderlich ist
-und nach § 11 Abs. 5 Satz 3 oder Abs. 6 Satz 3, § 12 Abs. 5 Satz 3
-oder § 16 Abs. 3 Satz 3 des Gentechnikgesetzes die Frist ruht. Die
-Stellungnahme ist zu begründen. Sie soll die tragenden
+Behörde eine Stellungnahme nach § 1 Abs. 2 ab. Die Frist nach Satz
+1 verlängert sich, wenn eine Ergänzung der Unterlagen erforderlich
+ist und nach § 11 Abs. 5 Satz 3 oder Abs. 6 Satz 3, § 12 Abs. 5
+Satz 3 oder § 16 Abs. 3 Satz 3 des Gentechnikgesetzes die Frist
+ruht. Die Stellungnahme ist zu begründen. Sie soll die tragenden
 Erwägungsgründe, das Abstimmungsergebnis und die Minderheitsvoten
 enthalten.
 

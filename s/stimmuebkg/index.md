@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl II: 1990, 34
 
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
@@ -32,12 +31,12 @@ zugestimmt. Das Übereinkommen wird nachstehend veröffentlicht.
 
 ## Art 2
 
-(1) Zur Feststellung, ob die Bundesrepublik Deutschland oder ein
-Bundesland die Entscheidung eines Gerichts eines anderen
+(1) Zur Feststellung, ob die Bundesrepublik Deutschland oder
+ein Bundesland die Entscheidung eines Gerichts eines anderen
 Vertragsstaates gemäß Artikel 20 oder Artikel 25 oder einen Vergleich
 gemäß Artikel 22 des Übereinkommens zu erfüllen hat, ist das
-Landgericht zuständig, in dessen Bezirk die Bundesregierung ihren Sitz
-hat.
+Landgericht zuständig, in dessen Bezirk die Bundesregierung ihren
+Sitz hat.
 
 (2) Die Feststellung ist aufgrund einer Klage im streitigen Verfahren
 zu treffen.
@@ -59,7 +58,7 @@ Anwendung dieses Gesetzes feststellt.
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 
-(2) Der Tag, an dem das Übereinkommen nach seinem Artikel 36 Abs. 3
-für die Bundesrepublik Deutschland in Kraft tritt, ist im
+(2) Der Tag, an dem das Übereinkommen nach seinem Artikel 36
+Abs. 3 für die Bundesrepublik Deutschland in Kraft tritt, ist im
 Bundesgesetzblatt bekanntzugeben.
 

@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 7.7.2009 I 1774, 3975
 
 Zuletzt geändert durch
-:   Art. 13 G v. 12.12.2019 I 2510
+:   Art. 26 G v. 2.3.2023 I Nr. 56
 
 
 ## § 1 Geltungsbereich
@@ -36,43 +36,33 @@ Es findet keine Anwendung auf die Beförderung
     verarbeitet, aufgearbeitet, gelagert, verwendet oder entsorgt werden,
     soweit sie auf einem abgeschlossenen Gelände stattfindet,
 
-
 2.  (weggefallen)
 
-
 3.  im grenzüberschreitenden Verkehr, wenn und soweit auf den betreffenden
-    Beförderungsvorgang Vorschriften der Europäischen Gemeinschaften oder
-    zwischenstaatliche Vereinbarungen oder auf solchen Vorschriften oder
-    Vereinbarungen beruhende innerstaatliche Rechtsvorschriften
+    Beförderungsvorgang Vorschriften der Europäischen Gemeinschaften
+    oder zwischenstaatliche Vereinbarungen oder auf solchen Vorschriften
+    oder Vereinbarungen beruhende innerstaatliche Rechtsvorschriften
     unmittelbar anwendbar sind, es sei denn, diese Vereinbarungen nehmen
     auf innerstaatliche Rechtsvorschriften Bezug,
 
-
 4.  mit Bergbahnen.
-
-
-
 
 (2) Dieses Gesetz berührt nicht
 
-1.  Rechtsvorschriften über gefährliche Güter, die aus anderen Gründen als
-    aus solchen der Sicherheit im Zusammenhang mit der Beförderung
+1.  Rechtsvorschriften über gefährliche Güter, die aus anderen Gründen
+    als aus solchen der Sicherheit im Zusammenhang mit der Beförderung
     erlassen sind,
-
 
 2.  auf örtlichen Besonderheiten beruhende Sicherheitsvorschriften des
     Bundes, der Länder oder der Gemeinden.
 
 
-
-
-
 ## § 2 Begriffsbestimmungen
 
 (1) Gefährliche Güter im Sinne dieses Gesetzes sind Stoffe und
-Gegenstände, von denen auf Grund ihrer Natur, ihrer Eigenschaften oder
-ihres Zustandes im Zusammenhang mit der Beförderung Gefahren für die
-öffentliche Sicherheit oder Ordnung, insbesondere für die
+Gegenstände, von denen auf Grund ihrer Natur, ihrer Eigenschaften
+oder ihres Zustandes im Zusammenhang mit der Beförderung Gefahren
+für die öffentliche Sicherheit oder Ordnung, insbesondere für die
 Allgemeinheit, für wichtige Gemeingüter, für Leben und Gesundheit von
 Menschen sowie für Tiere und Sachen ausgehen können.
 
@@ -83,13 +73,13 @@ Beförderung, Vorbereitungs- und Abschlusshandlungen (Verpacken und
 Auspacken der Güter, Be- und Entladen), Herstellen, Einführen und
 Inverkehrbringen von Verpackungen, Beförderungsmitteln und Fahrzeugen
 für die Beförderung gefährlicher Güter, auch wenn diese Handlungen
-nicht vom Beförderer ausgeführt werden. Ein zeitweiliger Aufenthalt im
-Verlauf der Beförderung liegt vor, wenn dabei gefährliche Güter für
-den Wechsel der Beförderungsart oder des Beförderungsmittels
+nicht vom Beförderer ausgeführt werden. Ein zeitweiliger Aufenthalt
+im Verlauf der Beförderung liegt vor, wenn dabei gefährliche Güter
+für den Wechsel der Beförderungsart oder des Beförderungsmittels
 (Umschlag) oder aus sonstigen transportbedingten Gründen zeitweilig
 abgestellt werden. Auf Verlangen sind Beförderungsdokumente
-vorzulegen, aus denen Versand- und Empfangsort feststellbar sind. Wird
-die Sendung nicht nach der Anlieferung entladen, gilt das
+vorzulegen, aus denen Versand- und Empfangsort feststellbar sind.
+Wird die Sendung nicht nach der Anlieferung entladen, gilt das
 Bereitstellen der Ladung beim Empfänger zur Entladung als Ende der
 Beförderung. Versandstücke, Tankcontainer, Tanks und Kesselwagen
 dürfen während des zeitweiligen Aufenthaltes nicht geöffnet werden.
@@ -104,88 +94,61 @@ Güter zu erlassen, insbesondere über
 
 1.  die Zulassung der Güter zur Beförderung,
 
-
 2.  das Zusammenpacken, Zusammenladen und die Verpackung, einschließlich
     deren
 
     a)  Zulassung einschließlich Konformitätsbewertung,
 
-
     b)  Herstellen, Einführen und Inverkehrbringen,
-
 
     c)  Betreiben und Verwenden,
 
-
-
-
-
 3.  die Kennzeichnung von Versandstücken,
-
 
 4.  die Beförderungsbehältnisse und die Fahrzeuge, einschließlich deren
 
     a)  Bau, Beschaffenheit, Ausrüstung, Prüfung und Kennzeichnung,
 
-
     b)  Zulassung einschließlich Konformitätsbewertung,
-
 
     c)  Herstellen, Einführen und Inverkehrbringen,
 
-
     d)  Betreiben und Verwenden,
-
-
-
-
 
 5.  das Verhalten während der Beförderung,
 
-
 6.  die Beförderungsgenehmigungen, die Beförderungs- und Begleitpapiere,
-
 
 7.  die Auskunfts-, Aufzeichnungs- und Anzeigepflichten,
 
-
 8.  die Besetzung und Begleitung der Fahrzeuge,
 
-
-9.  die Befähigungsnachweise, auch in den Fällen des § 5 Abs. 2 Satz 3 Nr.
-    2,
-
+9.  die Befähigungsnachweise, auch in den Fällen des § 5 Abs. 2 Satz 3
+    Nr. 2,
 
 10. die Mess- und Prüfverfahren,
 
-
 11. die Schutzmaßnahmen für das Beförderungspersonal,
-
 
 12. das Verhalten und die Schutz- und Hilfsmaßnahmen nach Unfällen mit
     gefährlichen Gütern,
-
 
 13. bei der Beförderung beteiligte Personen, einschließlich ihrer
     ärztlichen Überwachung und Untersuchung, des Erfordernisses von
     Ausbildung, Prüfung und Fortbildung sowie zur Festlegung qualitativer
     Anforderungen an Lehrgangsveranstalter und Lehrkräfte,
 
-
 14. Beauftragte in Unternehmen und Betrieben, einschließlich des
     Erfordernisses von Ausbildung, Prüfung und Fortbildung sowie zur
     Festlegung qualitativer Anforderungen an Lehrgangsveranstalter und
     Lehrkräfte,
 
-
 15. Bescheinigungen und Meldepflichten für Abfälle, die gefährliche Güter
     sind,
-
 
 16. die Stellen für Prüfung und Zulassung einschließlich
     Konformitätsbewertung der Verpackung nach Nummer 2 sowie der
     Beförderungsbehältnisse und Fahrzeuge nach Nummer 4,
-
 
 17. die Geltung von Bescheiden über Zulassung und Prüfung der Verpackung
     nach Nummer 2 sowie der Beförderungsbehältnisse und Fahrzeuge nach
@@ -193,17 +156,14 @@ Güter zu erlassen, insbesondere über
     oder des Abkommens über den Europäischen Wirtschaftsraum oder in
     Drittstaaten ausgestellt sind,
 
-
 18. die Zusammenarbeit und den Erfahrungsaustausch der mit Aufgaben der
     Zulassung einschließlich Konformitätsbewertung und Prüfung betrauten
     Behörden und Stellen,
 
-
-
 soweit dies zum Schutz gegen die von der Beförderung gefährlicher
 Güter ausgehenden Gefahren und erheblichen Belästigungen erforderlich
-ist. Die Rechtsverordnungen nach Satz 1 haben den Stand der Technik zu
-berücksichtigen. Das Grundrecht auf körperliche Unversehrtheit
+ist. Die Rechtsverordnungen nach Satz 1 haben den Stand der Technik
+zu berücksichtigen. Das Grundrecht auf körperliche Unversehrtheit
 (Artikel 2 Abs. 2 Satz 1 des Grundgesetzes) wird nach Maßgabe des
 Satzes 1 Nr. 13 eingeschränkt. In den Rechtsverordnungen nach Satz 1
 kann auch geregelt werden, dass bei der Beförderung gefährlicher Güter
@@ -214,22 +174,22 @@ nachzuweisen ist.
 Absatz 1 können auch zur Durchführung oder Umsetzung von Rechtsakten
 der Europäischen Gemeinschaften und zur Erfüllung von Verpflichtungen
 aus zwischenstaatlichen Vereinbarungen erlassen werden.
-Rechtsverordnungen nach Absatz 1 Satz 1, die der Verwirklichung neuer
-Erkenntnisse hinsichtlich der internationalen Beförderung gefährlicher
-Güter auf dem Gebiet der See- und Binnenschiffahrt dienen sowie
-Rechtsverordnungen zur Inkraftsetzung von Abkommen nach Artikel 5 § 2
-des Anhanges B des Übereinkommens über den internationalen
-Eisenbahnverkehr vom 9. Mai 1980 (COTIF-Übereinkommen, BGBl. 1985 II
-S. 132), erlässt das Bundesministerium für Verkehr und digitale
-Infrastruktur ohne Zustimmung des Bundesrates; diese
+Rechtsverordnungen nach Absatz 1 Satz 1, die der Verwirklichung
+neuer Erkenntnisse hinsichtlich der internationalen Beförderung
+gefährlicher Güter auf dem Gebiet der See- und Binnenschiffahrt
+dienen sowie Rechtsverordnungen zur Inkraftsetzung von Abkommen
+nach Artikel 5 § 2 des Anhanges B des Übereinkommens über den
+internationalen Eisenbahnverkehr vom 9. Mai 1980 (COTIF-Übereinkommen,
+BGBl. 1985 II S. 132), erlässt das Bundesministerium für Verkehr
+und digitale Infrastruktur ohne Zustimmung des Bundesrates; diese
 Rechtsverordnungen bedürfen jedoch der Zustimmung des Bundesrates,
 wenn sie die Einrichtung der Landesbehörden oder die Regelung ihres
 Verwaltungsverfahrens betreffen.
 
 (3) (weggefallen)
 
-(4) Soweit Sicherheitsgründe und die Eigenart des Verkehrsmittels es
-zulassen, soll die Beförderung gefährlicher Güter mit allen
+(4) Soweit Sicherheitsgründe und die Eigenart des Verkehrsmittels
+es zulassen, soll die Beförderung gefährlicher Güter mit allen
 Verkehrsmitteln einheitlich geregelt werden.
 
 (5) In den Rechtsverordnungen nach Absatz 1 sind Ausnahmen für die
@@ -237,8 +197,8 @@ Bundeswehr, in ihrem Auftrag hoheitlich tätige zivile Unternehmen,
 ausländische Streitkräfte, die Bundespolizei und die Polizeien, die
 Feuerwehren, die Einheiten und Einrichtungen des Katastrophenschutzes
 sowie die Kampfmittelräumdienste der Länder oder Kommunen zuzulassen,
-soweit dies Gründe der Verteidigung, polizeiliche Aufgaben oder die
-Aufgaben der Feuerwehren, des Katastrophenschutzes oder der
+soweit dies Gründe der Verteidigung, polizeiliche Aufgaben oder
+die Aufgaben der Feuerwehren, des Katastrophenschutzes oder der
 Kampfmittelräumung erfordern. Ausnahmen nach Satz 1 sind für den
 Bundesnachrichtendienst zuzulassen, soweit er im Rahmen seiner
 Aufgaben für das Bundesministerium der Verteidigung tätig wird und
@@ -248,46 +208,44 @@ soweit sicherheitspolitische Interessen dies erfordern.
 ## § 4 (weggefallen)
 
 
-
 ## § 5 Zuständigkeiten
 
 (1) Im Bereich der Eisenbahnen des Bundes, Magnetschwebebahnen, im
 Luftverkehr sowie auf dem Gebiet der See- und Binnenschiffahrt auf
-Bundeswasserstraßen einschließlich der bundeseigenen Häfen obliegt die
-Wahrnehmung der Aufgaben nach diesem Gesetz und nach den auf ihm
+Bundeswasserstraßen einschließlich der bundeseigenen Häfen obliegt
+die Wahrnehmung der Aufgaben nach diesem Gesetz und nach den auf ihm
 beruhenden Rechtsvorschriften dem Bund in bundeseigener Verwaltung.
 Unberührt bleiben die Zuständigkeiten für die Hafenaufsicht
 (Hafenpolizei) in den nicht vom Bund betriebenen Stromhäfen an
 Bundeswasserstraßen.
 
 (2) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
-ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die
-für die Ausführung dieses Gesetzes und der auf ihm beruhenden
+ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
+die für die Ausführung dieses Gesetzes und der auf ihm beruhenden
 Rechtsvorschriften zuständigen Behörden und Stellen zu bestimmen,
 soweit es sich um den Bereich der bundeseigenen Verwaltung handelt.
 Wenn und soweit der Zweck des Gesetzes durch das Verwaltungshandeln
-der Länder nicht erreicht werden kann, kann das Bundesministerium für
-Verkehr und digitale Infrastruktur durch Rechtsverordnung mit
-Zustimmung des Bundesrates das Bundesamt für Güterverkehr, das
-Bundesamt für die Sicherheit der nuklearen Entsorgung, das Bundesamt
-für Verbraucherschutz und Lebensmittelsicherheit, die Bundesanstalt
-für Materialforschung und -prüfung, das Bundesinstitut für
-Risikobewertung, das Eisenbahn-Bundesamt, das Kraftfahrt-Bundesamt,
-die Physikalisch-Technische Bundesanstalt, das Robert-Koch-Institut,
-das Umweltbundesamt und das Wehrwissenschaftliche Institut für Werk-,
-Explosiv- und Betriebsstoffe auch für den Bereich für zuständig
-erklären, in dem die Länder dieses Gesetz und die auf ihm beruhenden
-Rechtsvorschriften auszuführen hätten. Das Bundesministerium für
-Verkehr und digitale Infrastruktur kann ferner durch Rechtsverordnung
-mit Zustimmung des Bundesrates bestimmen, dass
+der Länder nicht erreicht werden kann, kann das Bundesministerium
+für Verkehr und digitale Infrastruktur durch Rechtsverordnung mit
+Zustimmung des Bundesrates das Bundesamt für Logistik und Mobilität,
+das Bundesamt für die Sicherheit der nuklearen Entsorgung, das
+Bundesamt für Verbraucherschutz und Lebensmittelsicherheit, die
+Bundesanstalt für Materialforschung und -prüfung, das Bundesinstitut
+für Risikobewertung, das Eisenbahn-Bundesamt, das Kraftfahrt-
+Bundesamt, die Physikalisch-Technische Bundesanstalt, das Robert-
+Koch-Institut, das Umweltbundesamt und das Wehrwissenschaftliche
+Institut für Werk-, Explosiv- und Betriebsstoffe auch für den
+Bereich für zuständig erklären, in dem die Länder dieses Gesetz und
+die auf ihm beruhenden Rechtsvorschriften auszuführen hätten. Das
+Bundesministerium für Verkehr und digitale Infrastruktur kann ferner
+durch Rechtsverordnung mit Zustimmung des Bundesrates bestimmen, dass
 
 1.  die Industrie- und Handelskammern für die Durchführung, Überwachung
-    und Anerkennung der Ausbildung, Prüfung und Fortbildung von am
-    Gefahrguttransport beteiligten Personen, für die Erteilung von
-    Bescheinigungen sowie für die Anerkennung von Lehrgängen,
+    und Anerkennung der Ausbildung, Prüfung und Fortbildung von
+    am Gefahrguttransport beteiligten Personen, für die Erteilung
+    von Bescheinigungen sowie für die Anerkennung von Lehrgängen,
     Lehrgangsveranstaltern und Lehrkräften zuständig sind und insoweit
     Einzelheiten durch Satzungen regeln sowie
-
 
 2.  Sachverständige und sachkundige Personen für Prüfungen, Überwachungen
     und Bescheinigungen hinsichtlich der Beförderung gefährlicher Güter
@@ -297,21 +255,18 @@ mit Zustimmung des Bundesrates bestimmen, dass
     bestimmten oder der nach Landesrecht zuständigen Stelle entsprechend
     ermächtigt worden sind.
 
-
-
-
-(3) Soweit zwischenstaatliche Vereinbarungen oder Rechtsakte der
-Europäischen Gemeinschaften auf die zuständigen Behörden der
+(3) Soweit zwischenstaatliche Vereinbarungen oder Rechtsakte
+der Europäischen Gemeinschaften auf die zuständigen Behörden der
 Vertragsstaaten Bezug nehmen, gilt für die Bestimmung dieser Behörden
 durch Rechtsverordnung Absatz 2 entsprechend.
 
 (4) (weggefallen)
 
 (5) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
-ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zu
-bestimmen, dass der Vollzug dieses Gesetzes und der auf dieses Gesetz
-gestützten Rechtsverordnungen in Fällen, in denen gefährliche Güter
-durch die Bundeswehr, in ihrem Auftrag hoheitlich tätige zivile
+ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
+zu bestimmen, dass der Vollzug dieses Gesetzes und der auf dieses
+Gesetz gestützten Rechtsverordnungen in Fällen, in denen gefährliche
+Güter durch die Bundeswehr, in ihrem Auftrag hoheitlich tätige zivile
 Unternehmen, ausländische Streitkräfte, den Bundesnachrichtendienst
 oder die Bundespolizei befördert werden, Bundesbehörden obliegt,
 soweit dies Gründe der Verteidigung, sicherheitspolitische Interessen
@@ -320,8 +275,8 @@ oder die Aufgaben der Bundespolizei erfordern.
 
 ## § 6 Allgemeine Ausnahmen
 
-Das Bundesministerium für Verkehr und digitale Infrastruktur kann
-allgemeine Ausnahmen von den auf diesem Gesetz beruhenden
+Das Bundesministerium für Verkehr und digitale Infrastruktur
+kann allgemeine Ausnahmen von den auf diesem Gesetz beruhenden
 Rechtsverordnungen durch Rechtsverordnung mit Zustimmung des
 Bundesrates zulassen für die Beförderung gefährlicher Güter mit
 
@@ -332,31 +287,25 @@ Bundesrates zulassen für die Beförderung gefährlicher Güter mit
     Rates vom 21. November 1994 zur Angleichung der Rechtsvorschriften der
     Mitgliedstaaten für den Gefahrguttransport auf der Straße,
 
-
 2.  Fahrzeugen, die nach Artikel 1 Abs. 2 Buchstabe a der Richtlinie
     94/55/EG in den Geltungsbereich des Gesetzes einbezogen werden,
 
-
 3.  Wasserfahrzeugen,
-
 
 4.  Luftfahrzeugen.
 
 
-
-
-
 ## § 7 Sofortmaßnahmen
 
-(1) Das Bundesministerium für Verkehr und digitale Infrastruktur kann
-die Beförderung bestimmter gefährlicher Güter mit Wasser- und
+(1) Das Bundesministerium für Verkehr und digitale Infrastruktur
+kann die Beförderung bestimmter gefährlicher Güter mit Wasser- und
 Luftfahrzeugen untersagen oder nur unter Bedingungen und Auflagen
 gestatten, wenn sich die geltenden Sicherheitsvorschriften als
 unzureichend zur Einschränkung der von der Beförderung ausgehenden
-Gefahren herausstellen und eine Änderung der Rechtsvorschriften in dem
-nach § 3 vorgesehenen Verfahren nicht abgewartet werden kann.
-Allgemeine Anordnungen dieser Art trifft das Bundesministerium für
-Verkehr und digitale Infrastruktur durch Rechtsverordnung ohne
+Gefahren herausstellen und eine Änderung der Rechtsvorschriften in
+dem nach § 3 vorgesehenen Verfahren nicht abgewartet werden kann.
+Allgemeine Anordnungen dieser Art trifft das Bundesministerium
+für Verkehr und digitale Infrastruktur durch Rechtsverordnung ohne
 Zustimmung des Bundesrates.
 
 (2) Absatz 1 gilt sinngemäß für den Fall, dass sich bei der
@@ -367,11 +316,11 @@ Sinne von § 2 Abs. 1 herausstellt.
 (3) Auf Grund von Absatz 1 und 2 getroffene Anordnungen gelten ein
 Jahr, sofern sie nicht vorher zurückgenommen werden.
 
-(4) Das Bundesministerium für Verkehr und digitale Infrastruktur kann
-nach vorheriger Genehmigung der Kommission der Europäischen
-Gemeinschaften die Beförderung bestimmter gefährlicher Güter mit
-Eisenbahn- und Straßenfahrzeugen untersagen oder nur unter Bedingungen
-oder Auflagen gestatten, wenn sich die geltenden
+(4) Das Bundesministerium für Verkehr und digitale Infrastruktur
+kann nach vorheriger Genehmigung der Kommission der Europäischen
+Gemeinschaften die Beförderung bestimmter gefährlicher Güter
+mit Eisenbahn- und Straßenfahrzeugen untersagen oder nur unter
+Bedingungen oder Auflagen gestatten, wenn sich die geltenden
 Sicherheitsvorschriften bei einem Unfall oder Zwischenfall als
 unzureichend herausgestellt haben und dringender Handlungsbedarf
 besteht. Satz 1 gilt sinngemäß für den Fall, dass sich bei der
@@ -390,30 +339,20 @@ insbesondere
 
 1.  das Bundesamt für die Sicherheit der nuklearen Entsorgung,
 
-
 2.  die Bundesanstalt für Materialforschung und -prüfung,
-
 
 3.  das Bundesinstitut für Risikobewertung,
 
-
 4.  die Physikalisch-Technische Bundesanstalt,
-
 
 5.  das Robert-Koch-Institut,
 
-
 6.  das Umweltbundesamt,
-
 
 7.  das Wehrwissenschaftliche Institut für Werk-, Explosiv- und
     Betriebsstoffe und
 
-
 8.  das Eisenbahn-Bundesamt.
-
-
-
 
 (2) Verbände und Sachverständige der beteiligten Wirtschaft
 einschließlich der Verkehrswirtschaft sollen vor dem Erlass der
@@ -427,29 +366,23 @@ der Anhörung und die anzuhörenden Verbände und Sachverständigen.
 (1) Beim Bundesministerium für Verkehr und digitale Infrastruktur wird
 ein Gefahrgut-Verkehrs-Beirat (Beirat) eingesetzt.
 
-(2) Der Beirat hat die Aufgabe, das Bundesministerium für Verkehr und
-digitale Infrastruktur hinsichtlich der sicheren Beförderung
-gefährlicher Güter, insbesondere der Durchführung dieses Gesetzes, zu
-beraten.
+(2) Der Beirat hat die Aufgabe, das Bundesministerium für Verkehr
+und digitale Infrastruktur hinsichtlich der sicheren Beförderung
+gefährlicher Güter, insbesondere der Durchführung dieses Gesetzes,
+zu beraten.
 
 (3) Dem Beirat sollen insbesondere sachverständige Personen aus dem
 Kreis der
 
 1.  Sicherheitsbehörden und -organisationen im Sinne von § 7a Abs. 1,
 
-
 2.  Länder,
-
 
 3.  Verbände der Wirtschaft, einschließlich der Verkehrswirtschaft,
 
-
 4.  Gewerkschaften und
 
-
 5.  Wissenschaft
-
-
 
 angehören. Das Bundesministerium für Verkehr und digitale
 Infrastruktur die Zahl der Beiratsmitglieder und benennt die dem
@@ -474,12 +407,10 @@ sind. Sie kann insbesondere
     und die Fortsetzung der Fahrt untersagen, bis die Voraussetzungen zur
     Weiterfahrt erfüllt sind,
 
-
 2.  die Fortsetzung der Fahrt untersagen, soweit eine nach § 46 Abs. 1 des
     Gesetzes über Ordnungswidrigkeiten in Verbindung mit § 132 Abs. 1 Nr.
     1 der Strafprozessordnung angeordnete Sicherheitsleistung nicht oder
     nicht vollständig erbracht wird,
-
 
 3.  im grenzüberschreitenden Verkehr Fahrzeuge, die nicht in einem
     Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat
@@ -487,9 +418,6 @@ sind. Sie kann insbesondere
     und in das Hoheitsgebiet der Bundesrepublik Deutschland einfahren
     wollen, in Fällen der Nummer 1 an den Außengrenzen der Mitgliedstaaten
     der Europäischen Union zurückweisen.
-
-
-
 
 (2) Absatz 1 gilt für die Ladung entsprechend.
 
@@ -507,9 +435,9 @@ mit der Überwachung beauftragten Personen sind befugt, Grundstücke,
 Betriebsanlagen, Geschäftsräume, Fahrzeuge und zur Verhütung
 dringender Gefahren für die öffentliche Sicherheit oder Ordnung,
 insbesondere für die Allgemeinheit, für wichtige Gemeingüter, für
-Leben und Gesundheit von Menschen sowie für Tiere und Sachen auch die
-Wohnräume des Auskunftspflichtigen zu betreten, dort Prüfungen und
-Besichtigungen vorzunehmen und die geschäftlichen Unterlagen des
+Leben und Gesundheit von Menschen sowie für Tiere und Sachen auch
+die Wohnräume des Auskunftspflichtigen zu betreten, dort Prüfungen
+und Besichtigungen vorzunehmen und die geschäftlichen Unterlagen des
 Auskunftspflichtigen einzusehen. Der Auskunftspflichtige hat diese
 Maßnahmen zu dulden. Er hat den mit der Überwachung beauftragten
 Personen auf Verlangen Proben und Muster von gefährlichen Stoffen und
@@ -524,12 +452,12 @@ leisten.
 (2a) Überwachungsmaßnahmen können sich auch auf Brief- und andere
 Postsendungen beziehen. Die von der zuständigen Behörde mit der
 Überwachung beauftragten Personen sind nur dann befugt, verschlossene
-Brief- und andere Postsendungen zu öffnen oder sich auf sonstige Weise
-von ihrem Inhalt Kenntnis zu verschaffen, wenn Tatsachen die Annahme
-begründen, dass sich darin gefährliche Güter im Sinne des § 2 Abs. 1
-befinden und von diesen eine Gefahr ausgeht. Das Grundrecht des Brief-
-und Postgeheimnisses (Artikel 10 des Grundgesetzes) wird insoweit
-eingeschränkt. Absatz 2 gilt für die Durchführung von
+Brief- und andere Postsendungen zu öffnen oder sich auf sonstige
+Weise von ihrem Inhalt Kenntnis zu verschaffen, wenn Tatsachen die
+Annahme begründen, dass sich darin gefährliche Güter im Sinne des §
+2 Abs. 1 befinden und von diesen eine Gefahr ausgeht. Das Grundrecht
+des Brief- und Postgeheimnisses (Artikel 10 des Grundgesetzes)
+wird insoweit eingeschränkt. Absatz 2 gilt für die Durchführung von
 Überwachungsmaßnahmen entsprechend.
 
 (3) Die Absätze 1 und 2 gelten auch für die Überwachung von
@@ -537,44 +465,44 @@ Fertigungen von Verpackungen, Behältern (Containern) und Fahrzeugen,
 die nach Baumustern hergestellt werden, welche in den Vorschriften für
 die Beförderung gefährlicher Güter festgelegt sind.
 
-(3a) Überwachungsmaßnahmen nach den Absätzen 1 und 2 können sich auch
-auf die Überprüfung der Konformität der in Verkehr befindlichen und
-verwendeten Verpackungen, Beförderungsbehältnisse und Fahrzeuge
+(3a) Überwachungsmaßnahmen nach den Absätzen 1 und 2 können sich
+auch auf die Überprüfung der Konformität der in Verkehr befindlichen
+und verwendeten Verpackungen, Beförderungsbehältnisse und Fahrzeuge
 beziehen.
 
-(3b) Überwachungsmaßnahmen nach den Absätzen 1 und 2 können sich auch
-auf die Überprüfung der Hersteller, Einführer, Eigentümer, Betreiber
-und Verwender von Verpackungen, Beförderungsbehältnissen und
-Fahrzeugen durch Stellen nach § 3 Abs. 1 Nr. 16 insoweit beziehen, wie
-die Verpackungen, Beförderungsbehältnisse und Fahrzeuge von diesen
+(3b) Überwachungsmaßnahmen nach den Absätzen 1 und 2 können sich
+auch auf die Überprüfung der Hersteller, Einführer, Eigentümer,
+Betreiber und Verwender von Verpackungen, Beförderungsbehältnissen
+und Fahrzeugen durch Stellen nach § 3 Abs. 1 Nr. 16 insoweit beziehen,
+wie die Verpackungen, Beförderungsbehältnisse und Fahrzeuge von diesen
 Stellen konformitätsbewertet, erstmalig oder wiederkehrend geprüft
 worden sind, soweit dies in Rechtsverordnungen nach § 3 gestattet ist.
 
-(3c) Überwachungsmaßnahmen nach den Absätzen 1 und 2 können sich auch
-auf die Überprüfung der Herstellung und der Prüfungen durch die
-Stellen nach § 3 Abs. 1 Nr. 16 beziehen, wenn diese Stellen die
-Konformitätsbewertung der Verpackung, der Beförderungsbehältnisse oder
-der Fahrzeuge vorgenommen, das Qualitätssicherungsprogramm oder
+(3c) Überwachungsmaßnahmen nach den Absätzen 1 und 2 können sich
+auch auf die Überprüfung der Herstellung und der Prüfungen durch
+die Stellen nach § 3 Abs. 1 Nr. 16 beziehen, wenn diese Stellen die
+Konformitätsbewertung der Verpackung, der Beförderungsbehältnisse
+oder der Fahrzeuge vorgenommen, das Qualitätssicherungsprogramm oder
 Prüfstellen des Herstellers oder Betreibers anerkannt haben, soweit
 dies in Rechtsverordnungen nach § 3 gestattet ist.
 
-(3d) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
-ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die
-Maßnahmen nach Absatz 1 bis 3c näher zu bestimmen, Vorgaben für die
-Zusammenarbeit der zuständigen Behörden und Stellen zu treffen und die
-im Zusammenhang mit Meldepflichten und Schutzklauselverfahren nach
-Vorgaben von Rechtsakten und zwischenstaatlichen Vereinbarungen
+(3d) Das Bundesministerium für Verkehr und digitale Infrastruktur
+wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
+die Maßnahmen nach Absatz 1 bis 3c näher zu bestimmen, Vorgaben für
+die Zusammenarbeit der zuständigen Behörden und Stellen zu treffen
+und die im Zusammenhang mit Meldepflichten und Schutzklauselverfahren
+nach Vorgaben von Rechtsakten und zwischenstaatlichen Vereinbarungen
 stehenden Maßnahmen nach § 3 Abs. 2 festzulegen.
 
-(4) Der zur Erteilung der Auskunft Verpflichtete kann die Auskunft auf
-solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der
-in § 383 Abs. 1 Nr. 1 bis 3 der Zivilprozessordnung bezeichneten
+(4) Der zur Erteilung der Auskunft Verpflichtete kann die Auskunft
+auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen
+der in § 383 Abs. 1 Nr. 1 bis 3 der Zivilprozessordnung bezeichneten
 Angehörigen der Gefahr strafrechtlicher Verfolgung oder eines
 Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
-(5) Verantwortlicher für die Beförderung ist, wer als Unternehmer oder
-als Inhaber eines Betriebes gefährliche Güter verpackt, verlädt,
-versendet, befördert, entlädt, empfängt oder auspackt. Als
+(5) Verantwortlicher für die Beförderung ist, wer als Unternehmer
+oder als Inhaber eines Betriebes gefährliche Güter verpackt,
+verlädt, versendet, befördert, entlädt, empfängt oder auspackt. Als
 Verantwortlicher gilt auch, wer als Unternehmer oder als Inhaber eines
 Betriebes Verpackungen, Beförderungsbehältnisse oder Fahrzeuge zur
 Beförderung gefährlicher Güter gemäß Absatz 3 herstellt, einführt oder
@@ -593,18 +521,18 @@ die Beförderung gefährlicher Güter erforderlich ist.
 
 (2) Schwerwiegende oder wiederholte Verstöße eines Unternehmens mit
 Sitz in einem Mitgliedstaat der Europäischen Union oder einem anderen
-Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum sind
-den dort zuständigen Behörden im Rahmen ihrer Zuständigkeit
+Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
+sind den dort zuständigen Behörden im Rahmen ihrer Zuständigkeit
 mitzuteilen. Zugleich können die genannten Behörden ersucht werden,
 gegenüber dem betreffenden Unternehmen angemessene Maßnahmen zu
-ergreifen. Sofern diese Behörden im Rahmen ihrer Zuständigkeit bei
-schwerwiegenden oder wiederholten Verstößen eines Unternehmens mit
-Sitz im Inland die zuständige deutsche Behörde ersuchen, angemessene
-Maßnahmen zu ergreifen, hat diese den ersuchenden Behörden
+ergreifen. Sofern diese Behörden im Rahmen ihrer Zuständigkeit
+bei schwerwiegenden oder wiederholten Verstößen eines Unternehmens
+mit Sitz im Inland die zuständige deutsche Behörde ersuchen,
+angemessene Maßnahmen zu ergreifen, hat diese den ersuchenden Behörden
 mitzuteilen, ob und welche Maßnahmen ergriffen wurden.
 
-(3) Schwerwiegende oder wiederholte Verstöße mit einem Fahrzeug, das
-in einem Mitgliedstaat der Europäischen Union oder einem anderen
+(3) Schwerwiegende oder wiederholte Verstöße mit einem Fahrzeug,
+das in einem Mitgliedstaat der Europäischen Union oder einem anderen
 Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
 zugelassen ist, sind den dort zuständigen Behörden im Rahmen ihrer
 Zuständigkeit mitzuteilen. Zugleich können die genannten Behörden
@@ -625,15 +553,15 @@ wird den zuständigen Behörden der betreffenden Mitgliedstaaten der
 Europäischen Union und der anderen Vertragsstaaten des Abkommens über
 den Europäischen Wirtschaftsraum dieser Sachverhalt mitgeteilt. Führt
 eine zuständige deutsche Behörde auf eine entsprechende Mitteilung
-einer zuständigen Behörde eines Mitgliedstaates der Europäischen Union
-oder eines anderen Vertragsstaates des Abkommens über den Europäischen
-Wirtschaftsraum eine Kontrolle in einem inländischen Unternehmen
-durch, so werden die Ergebnisse dem anderen betroffenen Staat
-mitgeteilt.
+einer zuständigen Behörde eines Mitgliedstaates der Europäischen
+Union oder eines anderen Vertragsstaates des Abkommens über den
+Europäischen Wirtschaftsraum eine Kontrolle in einem inländischen
+Unternehmen durch, so werden die Ergebnisse dem anderen betroffenen
+Staat mitgeteilt.
 
 (5) Mitteilungen und Ersuchen nach den Absätzen 2 bis 4 sind im
-Straßenverkehr über das Bundesamt für Güterverkehr, im
-Eisenbahnverkehr über das Eisenbahn-Bundesamt und im
+Straßenverkehr über das Bundesamt für Logistik und Mobilität,
+im Eisenbahnverkehr über das Eisenbahn-Bundesamt und im
 Binnenschiffsverkehr über das Bundesministerium für Verkehr und
 digitale Infrastruktur zu leiten.
 
@@ -648,34 +576,28 @@ und verändern:
 1.  Name, Anschrift und Geburtsdatum der Betroffenen sowie Name und
     Anschrift des Unternehmens,
 
-
 2.  Zeit und Ort der Begehung der Ordnungswidrigkeit,
-
 
 3.  die gesetzlichen Merkmale der Ordnungswidrigkeit,
 
-
-4.  Bußgeldbescheide mit dem Datum ihres Erlasses und dem Datum des
-    Eintritts ihrer Rechtskraft, gerichtliche Entscheidungen in
+4.  Bußgeldbescheide mit dem Datum ihres Erlasses und dem Datum
+    des Eintritts ihrer Rechtskraft, gerichtliche Entscheidungen in
     Bußgeldsachen mit dem Datum des Eintritts ihrer Rechtskraft und
 
-
 5.  die Höhe der Geldbuße.
-
-
 
 Die in Absatz 5 bestimmten Stellen dürfen diese Daten verwenden,
 soweit es für den in Satz 1 genannten Zweck erforderlich ist. Zur
 Feststellung der Wiederholungsfälle haben sie die Zuwiderhandlungen
-der Angehörigen desselben Unternehmens zusammenzuführen. Die nach Satz
-1 gespeicherten Daten sind zwei Jahre nach dem Eintritt der
+der Angehörigen desselben Unternehmens zusammenzuführen. Die nach
+Satz 1 gespeicherten Daten sind zwei Jahre nach dem Eintritt der
 Rechtskraft des Bußgeldbescheides oder der gerichtlichen Entscheidung
 zu löschen, wenn in dieser Zeit keine weiteren Eintragungen im Sinne
 von Satz 1 Nr. 4 hinzugekommen sind. Sie sind spätestens fünf Jahre
 nach ihrer Speicherung zu löschen.
 
-(7) Die zuständigen Verwaltungsbehörden im Sinne des § 36 Abs. 1 Nr. 1
-des Gesetzes über Ordnungswidrigkeiten übermitteln den in Absatz 5
+(7) Die zuständigen Verwaltungsbehörden im Sinne des § 36 Abs. 1 Nr.
+1 des Gesetzes über Ordnungswidrigkeiten übermitteln den in Absatz 5
 bestimmten Stellen nach Eintritt der Rechtskraft des Bußgeldbescheides
 oder nach dem Eintritt der Rechtskraft der gerichtlichen Entscheidung
 die in Absatz 6 Satz 1 genannten Daten.
@@ -685,16 +607,16 @@ hinzuweisen, dass die übermittelten Daten nur zu dem Zweck verwendet
 werden dürfen, zu dessen Erfüllung sie ihm übermittelt werden.
 
 (9) Die Übermittlung von Daten unterbleibt, wenn durch sie
-schutzwürdige Interessen der betroffenen Person beeinträchtigt würden,
-insbesondere wenn im Empfängerland ein angemessener
+schutzwürdige Interessen der betroffenen Person beeinträchtigt
+würden, insbesondere wenn im Empfängerland ein angemessener
 Datenschutzstandard nicht gewährleistet ist. Daten über schwerwiegende
 Verstöße gegen anwendbare Vorschriften über die Beförderung
 gefährlicher Güter dürfen auch übermittelt werden, wenn im
 Empfängerland kein angemessener Datenschutzstandard gewährleistet ist.
 
-(10) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
-ermächtigt, mit Zustimmung des Bundesrates Rechtsverordnungen und
-allgemeine Verwaltungsvorschriften über das Verfahren bei der
+(10) Das Bundesministerium für Verkehr und digitale Infrastruktur
+wird ermächtigt, mit Zustimmung des Bundesrates Rechtsverordnungen
+und allgemeine Verwaltungsvorschriften über das Verfahren bei der
 Erhebung, Speicherung und Übermittlung der Daten nach Absatz 2 bis 9
 zu erlassen.
 
@@ -708,46 +630,35 @@ zu erlassen.
     a)  § 3 Abs. 1 Satz 1 Nr. 2 Buchstabe b und c oder Nr. 4 Buchstabe c und
         d,
 
-
     b)  § 3 Abs. 1 Satz 1 Nr. 1, 2 Buchstabe a, Nr. 3, 4 Buchstabe a und b,
         Nr. 5 bis 16 oder Nr. 17
-
-
 
     oder einer vollziehbaren Anordnung auf Grund einer solchen
     Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen
     bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
 
-
 1a. einer Rechtsverordnung nach § 6, § 7 Abs. 1 Satz 2 oder § 7 Abs. 2 in
     Verbindung mit § 7 Abs. 1 Satz 2 zuwiderhandelt, soweit sie für einen
     bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
-
 
 2.  einer vollziehbaren Anordnung oder Auflage nach § 7 Abs. 1 Satz 1,
     auch in Verbindung mit § 7 Abs. 2, oder nach § 8 Abs. 1 Satz 2, auch
     in Verbindung mit § 8 Abs. 2, zuwiderhandelt,
 
-
 3.  entgegen § 9 Abs. 2 Satz 1 oder § 9 Abs. 3 in Verbindung mit § 9 Abs.
     2 Satz 1 eine Auskunft nicht, nicht richtig, nicht vollständig oder
     nicht rechtzeitig erteilt,
-
 
 4.  einer Duldungspflicht nach § 9 Abs. 2 Satz 3 oder einer
     Übergabepflicht nach § 9 Abs. 2 Satz 4, jeweils auch in Verbindung mit
     § 9 Abs. 3, zuwiderhandelt oder
 
-
 5.  entgegen § 9 Abs. 2 Satz 6 die erforderlichen Hilfsmittel nicht stellt
     oder die nötige Mithilfe nicht leistet.
 
-
-
-
 (2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nr. 1,
-Nr. 1a und Nr. 2 mit einer Geldbuße bis zu fünfzigtausend Euro, in den
-übrigen Fällen mit einer Geldbuße bis zu eintausend Euro geahndet
+Nr. 1a und Nr. 2 mit einer Geldbuße bis zu fünfzigtausend Euro, in
+den übrigen Fällen mit einer Geldbuße bis zu eintausend Euro geahndet
 werden.
 
 (3) Wird eine Zuwiderhandlung nach Absatz 1 bei der Beförderung
@@ -755,8 +666,8 @@ gefährlicher Güter auf der Straße, mit der Eisenbahn oder mit
 Binnenschiffen in einem Unternehmen begangen, das im Geltungsbereich
 des Gesetzes weder seinen Sitz noch eine geschäftliche Niederlassung
 hat, und hat auch die betroffene Person im Geltungsbereich des
-Gesetzes keinen Wohnsitz, so sind Verwaltungsbehörden im Sinne des §
-36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten die in § 9a
+Gesetzes keinen Wohnsitz, so sind Verwaltungsbehörden im Sinne des
+§ 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten die in § 9a
 Abs. 5 genannten Stellen.
 
 (4) § 7 Abs. 4 Satz 2 des Binnenschifffahrtsaufgabengesetzes in der
@@ -789,14 +700,14 @@ Zeitaufwand, Rahmensätze oder Gebühren nach dem Wert des Gegenstandes
 der Amtshandlung vor. Die Gebühr beträgt mindestens fünf Euro. Mit
 Ausnahme der Gebühr für die Bauartprüfung, Zulassung oder Anerkennung
 der Muster der Versandstücke der Klasse 7 mit einer Gesamtbruttomasse
-von mehr als 1 000 Kilogramm darf sie im Einzelfall 25 000 Euro nicht
+von mehr als 1 000 Kilogramm darf sie im Einzelfall 25 000 Euro nicht
 übersteigen.
 
-(3) In den Rechtsverordnungen nach Absatz 2 kann bestimmt werden, dass
-die für die Prüfung, Untersuchung oder Überwachung zulässige Gebühr
-auch erhoben werden darf, wenn die Prüfung, Untersuchung oder
-Überwachung ohne Verschulden der prüfenden oder untersuchenden Stelle
-und ohne ausreichende Entschuldigung des Antragstellers am
+(3) In den Rechtsverordnungen nach Absatz 2 kann bestimmt werden,
+dass die für die Prüfung, Untersuchung oder Überwachung zulässige
+Gebühr auch erhoben werden darf, wenn die Prüfung, Untersuchung
+oder Überwachung ohne Verschulden der prüfenden oder untersuchenden
+Stelle und ohne ausreichende Entschuldigung des Antragstellers am
 festgesetzten Termin nicht stattfinden konnte oder abgebrochen werden
 musste.
 
@@ -807,11 +718,8 @@ bedürfen nicht der Zustimmung des Bundesrates.
 ## § 13 (Änderungen anderer Gesetze)
 
 
-
 ## § 14 (weggefallen)
 
 
-
 ## § 15 (Inkrafttreten)
-
 

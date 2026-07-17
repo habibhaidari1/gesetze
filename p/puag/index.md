@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2001, 1142
 
 Zuletzt geändert durch
-:   Art. 12 Abs. 1 G v. 21.12.2020 I 3229
+:   Art. 2 G v. 20.12.2024 I Nr. 440
 
 
 ## § 1 Einsetzung
@@ -43,9 +43,9 @@ Antragstellenden stimmen der Änderung zu.
 (3) Hält der Bundestag den Einsetzungsantrag für teilweise
 verfassungswidrig, so ist der Untersuchungsausschuss mit der Maßgabe
 einzusetzen, dass dessen Untersuchungen auf diejenigen Teile des
-Untersuchungsgegenstandes zu beschränken sind, die der Bundestag für
-nicht verfassungswidrig hält. Das Recht der Antragstellenden, wegen
-der teilweisen Ablehnung des Einsetzungsantrages das
+Untersuchungsgegenstandes zu beschränken sind, die der Bundestag
+für nicht verfassungswidrig hält. Das Recht der Antragstellenden,
+wegen der teilweisen Ablehnung des Einsetzungsantrages das
 Bundesverfassungsgericht anzurufen, bleibt unberührt.
 
 
@@ -61,8 +61,8 @@ Abs. 2 ist entsprechend anzuwenden.
 
 Der Bundestag bestimmt bei der Einsetzung die Zahl der ordentlichen
 und die gleich große Zahl der stellvertretenden Mitglieder des
-Untersuchungsausschusses. Die Bemessung der Zahl hat einerseits die
-Mehrheitsverhältnisse widerzuspiegeln und andererseits die
+Untersuchungsausschusses. Die Bemessung der Zahl hat einerseits
+die Mehrheitsverhältnisse widerzuspiegeln und andererseits die
 Aufgabenstellung und die Arbeitsfähigkeit des Untersuchungsausschusses
 zu berücksichtigen. Jede Fraktion muss vertreten sein. Die
 Berücksichtigung von Gruppen richtet sich nach den allgemeinen
@@ -84,8 +84,8 @@ Verhältnis ihrer Stärke zu berücksichtigen. Der Untersuchungsausschuss
 bestimmt das Mitglied, das den Vorsitz führt, aus seiner Mitte nach
 den Vereinbarungen im Ältestenrat.
 
-(2) Der oder die Vorsitzende leitet das Untersuchungsverfahren und ist
-dabei an den Einsetzungsbeschluss des Bundestages und an die
+(2) Der oder die Vorsitzende leitet das Untersuchungsverfahren und
+ist dabei an den Einsetzungsbeschluss des Bundestages und an die
 Beschlüsse des Untersuchungsausschusses gebunden.
 
 
@@ -113,8 +113,8 @@ Tagesordnung verlangt wird.
 (3) Zur Einberufung einer Sitzung außerhalb des Zeitplanes oder
 außerhalb des ständigen Sitzungsortes des Bundestages ist der oder die
 Vorsitzende nur berechtigt, wenn ein entsprechendes Verlangen eines
-Viertels der Mitglieder des Untersuchungsausschusses unter Angabe der
-Tagesordnung vorliegt und der Präsident oder die Präsidentin des
+Viertels der Mitglieder des Untersuchungsausschusses unter Angabe
+der Tagesordnung vorliegt und der Präsident oder die Präsidentin des
 Bundestages hierzu die Genehmigung erteilt hat.
 
 
@@ -124,11 +124,11 @@ Bundestages hierzu die Genehmigung erteilt hat.
 seiner Mitglieder anwesend ist. Er gilt solange als beschlussfähig,
 wie nicht auf Antrag die Beschlussunfähigkeit festgestellt wird.
 
-(2) Ist die Beschlussunfähigkeit festgestellt, so unterbricht der oder
-die Vorsitzende sofort die Sitzung auf bestimmte Zeit. Ist der
-Untersuchungsausschuss auch nach Ablauf dieser Zeit noch nicht
-beschlussfähig, so ist unverzüglich eine neue Sitzung anzuberaumen. In
-dieser Sitzung ist der Untersuchungsausschuss beschlussfähig, auch
+(2) Ist die Beschlussunfähigkeit festgestellt, so unterbricht der
+oder die Vorsitzende sofort die Sitzung auf bestimmte Zeit. Ist
+der Untersuchungsausschuss auch nach Ablauf dieser Zeit noch nicht
+beschlussfähig, so ist unverzüglich eine neue Sitzung anzuberaumen.
+In dieser Sitzung ist der Untersuchungsausschuss beschlussfähig, auch
 wenn nicht die Mehrheit seiner Mitglieder anwesend ist; hierauf ist in
 der Einladung hinzuweisen.
 
@@ -157,21 +157,21 @@ Fraktionen im Untersuchungsausschuss innerhalb weiterer drei Wochen
 die Person des oder der Ermittlungsbeauftragten.
 
 (3) Ermittlungsbeauftragte bereiten in der Regel die Untersuchung
-durch den Untersuchungsausschuss vor. Sie beschaffen und sichten die
-erforderlichen sächlichen Beweismittel. Sie haben entsprechend § 18
-das Recht auf Vorlage von Beweismitteln sowie entsprechend § 19 das
-Recht der Augenscheineinnahme. Sie können Herausgabeansprüche
-entsprechend § 30 geltend machen. Werden ihnen die Rechte gemäß Satz 3
-oder 4 nicht freiwillig gewährt, bedarf es eines Beweisbeschlusses
-gemäß § 17 Abs. 1. Ermittlungsbeauftragte können Personen
-informatorisch anhören. Sie sind dem gesamten Untersuchungsausschuss
-verantwortlich. Die Ergebnisse ihrer Tätigkeit stehen allen
-Mitgliedern des Untersuchungsausschusses zur Verfügung. Nach Abschluss
-ihrer Untersuchung erstatten Ermittlungsbeauftragte dem
-Untersuchungsausschuss über das Ergebnis einen schriftlichen und
+durch den Untersuchungsausschuss vor. Sie beschaffen und
+sichten die erforderlichen sächlichen Beweismittel. Sie haben
+entsprechend § 18 das Recht auf Vorlage von Beweismitteln sowie
+entsprechend § 19 das Recht der Augenscheineinnahme. Sie können
+Herausgabeansprüche entsprechend § 30 geltend machen. Werden ihnen
+die Rechte gemäß Satz 3 oder 4 nicht freiwillig gewährt, bedarf es
+eines Beweisbeschlusses gemäß § 17 Abs. 1. Ermittlungsbeauftragte
+können Personen informatorisch anhören. Sie sind dem gesamten
+Untersuchungsausschuss verantwortlich. Die Ergebnisse ihrer Tätigkeit
+stehen allen Mitgliedern des Untersuchungsausschusses zur Verfügung.
+Nach Abschluss ihrer Untersuchung erstatten Ermittlungsbeauftragte
+dem Untersuchungsausschuss über das Ergebnis einen schriftlichen und
 mündlichen Bericht. Darin unterbreiten sie dem Untersuchungsausschuss
-einen Vorschlag über die weitere Vorgehensweise. Im Verkehr nach außen
-haben sie die gebührende Zurückhaltung zu wahren; öffentliche
+einen Vorschlag über die weitere Vorgehensweise. Im Verkehr nach
+außen haben sie die gebührende Zurückhaltung zu wahren; öffentliche
 Erklärungen geben sie nicht ab.
 
 (4) Ermittlungsbeauftragte sind im Rahmen ihres Auftrages unabhängig.
@@ -227,23 +227,17 @@ Anwendung.
     zur Sprache kommen, deren öffentliche Erörterung überwiegende
     schutzwürdige Interessen verletzen würde;
 
-
 2.  eine Gefährdung des Lebens, des Leibes oder der Freiheit von einzelnen
     Zeugen oder einer anderen Person zu besorgen ist;
-
 
 3.  ein Geschäfts-, Betriebs-, Erfindungs- oder Steuergeheimnis zur
     Sprache kommt, durch dessen öffentliche Erörterung überwiegende
     schutzwürdige Interessen verletzt würden;
 
-
 4.  besondere Gründe des Wohls des Bundes oder eines Landes
     entgegenstehen, insbesondere wenn Nachteile für die Sicherheit der
     Bundesrepublik Deutschland oder ihrer Beziehungen zu anderen Staaten
     zu besorgen sind.
-
-
-
 
 (2) Der Untersuchungsausschuss kann einzelnen Personen zu nicht
 öffentlichen Beweisaufnahmen den Zutritt gestatten; § 12 Abs. 2 gilt
@@ -254,14 +248,9 @@ entsprechend.
 
 1.  anwesende Mitglieder des Untersuchungsausschusses,
 
-
 2.  Mitglieder des Bundesrates, der Bundesregierung und ihre Beauftragten,
 
-
 3.  Zeugen, Sachverständige und sonstige Auskunftspersonen.
-
-
-
 
 (4) Über den Ausschluss oder die Beschränkung der Öffentlichkeit
 entscheidet der Untersuchungsausschuss. Der oder die Vorsitzende
@@ -280,9 +269,9 @@ vorläufige Einstufung vornehmen.
 Geheimschutzordnung des Bundestages. § 14 Abs. 3 ist entsprechend
 anzuwenden.
 
-(3) Soweit dieses Gesetz nichts Abweichendes bestimmt, gilt für die
-Behandlung der Verschlusssachen sowie für streng geheime, geheime und
-vertrauliche Sitzungen und deren Protokollierung die
+(3) Soweit dieses Gesetz nichts Abweichendes bestimmt, gilt für
+die Behandlung der Verschlusssachen sowie für streng geheime,
+geheime und vertrauliche Sitzungen und deren Protokollierung die
 Geheimschutzordnung des Bundestages.
 
 
@@ -293,8 +282,8 @@ höher, die der Untersuchungsausschuss eingestuft oder von einer
 anderen herausgebenden Stelle erhalten hat, dürfen nur den Mitgliedern
 des Untersuchungsausschusses, den Mitgliedern des Bundesrates und der
 Bundesregierung sowie ihren Beauftragten zugänglich gemacht werden.
-Ermittlungsbeauftragten, den von ihnen eingesetzten Hilfskräften sowie
-den Mitarbeitern und Mitarbeiterinnen der Mitglieder des
+Ermittlungsbeauftragten, den von ihnen eingesetzten Hilfskräften
+sowie den Mitarbeitern und Mitarbeiterinnen der Mitglieder des
 Untersuchungsausschusses, des Sekretariats und der Fraktionen im
 Untersuchungsausschuss dürfen sie zugänglich gemacht werden, soweit
 diese zum Umgang mit Verschlusssachen ermächtigt und zur Geheimhaltung
@@ -310,9 +299,9 @@ dürfen sie weder vor Gericht noch außergerichtlich aussagen. § 44c
 Abs. 2 Satz 2 und Abs. 3 des Abgeordnetengesetzes gilt entsprechend.
 
 (3) Wird einem Mitglied des Ausschusses ein fremdes Geheimnis,
-namentlich ein zum persönlichen Lebensbereich gehörendes Geheimnis
-oder ein Betriebs- oder Geschäftsgeheimnis im Rahmen der
-Untersuchungshandlung bekannt, darf es dieses Geheimnis nur
+namentlich ein zum persönlichen Lebensbereich gehörendes
+Geheimnis oder ein Betriebs- oder Geschäftsgeheimnis im Rahmen
+der Untersuchungshandlung bekannt, darf es dieses Geheimnis nur
 offenbaren, wenn es dazu von der berechtigten Person ermächtigt worden
 ist. Dies gilt nicht, wenn die Offenlegung des Geheimnisses gesetzlich
 geboten ist.
@@ -335,8 +324,8 @@ Untersuchungsausschusses gelten die Vorschriften der Geschäftsordnung
 des Bundestages zur Reihenfolge der Reden entsprechend.
 
 (4) Lehnt der Untersuchungsausschuss die Erhebung bestimmter Beweise
-oder die Anwendung beantragter Zwangsmittel nach den § 21 Abs. 1, § 27
-Abs. 1, § 28 Abs. 6 und § 29 Abs. 2 Satz 1 ab, so entscheidet auf
+oder die Anwendung beantragter Zwangsmittel nach den § 21 Abs. 1, §
+27 Abs. 1, § 28 Abs. 6 und § 29 Abs. 2 Satz 1 ab, so entscheidet auf
 Antrag eines Viertels der Mitglieder der Ermittlungsrichter oder die
 Ermittlungsrichterin des Bundesgerichtshofes über die Erhebung der
 Beweise oder über die Anordnung des Zwangsmittels.
@@ -352,16 +341,16 @@ Beweismittel, insbesondere die Akten, die den Untersuchungsgegenstand
 betreffen, vorzulegen.
 
 (2) Die Entscheidung über das Ersuchen nach Absatz 1 trifft der
-zuständige Bundesminister oder die zuständige Bundesministerin, soweit
-sie nicht durch Gesetz der Bundesregierung vorbehalten ist. Wird das
-Ersuchen abgelehnt oder werden sächliche Beweismittel als
+zuständige Bundesminister oder die zuständige Bundesministerin,
+soweit sie nicht durch Gesetz der Bundesregierung vorbehalten ist.
+Wird das Ersuchen abgelehnt oder werden sächliche Beweismittel als
 Verschlusssache eingestuft vorgelegt, ist der Untersuchungsausschuss
-über die Gründe der Ablehnung oder der Einstufung schriftlich zu
-unterrichten. Die Vorlage ist mit einer Erklärung über die
+über die Gründe der Ablehnung oder der Einstufung schriftlich
+zu unterrichten. Die Vorlage ist mit einer Erklärung über die
 Vollständigkeit zu verbinden.
 
-(3) Auf Antrag des Untersuchungsausschusses oder eines Viertels seiner
-Mitglieder entscheidet das Bundesverfassungsgericht über die
+(3) Auf Antrag des Untersuchungsausschusses oder eines Viertels
+seiner Mitglieder entscheidet das Bundesverfassungsgericht über die
 Rechtmäßigkeit der Ablehnung eines Ersuchens, der Ermittlungsrichter
 oder die Ermittlungsrichterin des Bundesgerichtshofes über die
 Rechtmäßigkeit einer Einstufung.
@@ -412,9 +401,9 @@ der Verspätung kein Verschulden trifft.
 entsprechend.
 
 (2) Zeugen können die Auskunft auf Fragen verweigern, deren
-Beantwortung ihnen oder Personen, die im Sinne des § 52 Abs. 1 der
-Strafprozessordnung ihre Angehörigen sind, die Gefahr zuziehen würde,
-einer Untersuchung nach einem gesetzlich geordneten Verfahren
+Beantwortung ihnen oder Personen, die im Sinne des § 52 Abs. 1
+der Strafprozessordnung ihre Angehörigen sind, die Gefahr zuziehen
+würde, einer Untersuchung nach einem gesetzlich geordneten Verfahren
 ausgesetzt zu werden.
 
 (3) Über die in den Absätzen 1 und 2 bestimmten Rechte sind Zeugen bei
@@ -456,8 +445,8 @@ Erforschung des Grundes, auf dem das Wissen der Zeugen beruht, kann
 zunächst der oder die Vorsitzende weitere Fragen stellen. Anschließend
 erhalten die übrigen Mitglieder das Wort zu Fragen. Für die Festlegung
 der Reihenfolge und der Dauer der Ausübung des Fragerechts der
-einzelnen Fraktionen sind die Vorschriften der Geschäftsordnung und
-die Praxis des Bundestages zur Reihenfolge der Reden und zur
+einzelnen Fraktionen sind die Vorschriften der Geschäftsordnung
+und die Praxis des Bundestages zur Reihenfolge der Reden und zur
 Gestaltung von Aussprachen entsprechend anzuwenden, sofern der
 Untersuchungsausschuss nicht einstimmig Abweichendes beschließt.
 
@@ -467,9 +456,9 @@ Untersuchungsausschuss nicht einstimmig Abweichendes beschließt.
 ## § 25 Zulässigkeit von Fragen an Zeugen
 
 (1) Der oder die Vorsitzende hat ungeeignete oder nicht zur Sache
-gehörende Fragen zurückzuweisen. Zeugen können den Vorsitzenden oder
-die Vorsitzende auffordern, Fragen zurückzuweisen. Bei Zweifeln über
-die Zulässigkeit von Fragen sowie über die Rechtmäßigkeit ihrer
+gehörende Fragen zurückzuweisen. Zeugen können den Vorsitzenden
+oder die Vorsitzende auffordern, Fragen zurückzuweisen. Bei Zweifeln
+über die Zulässigkeit von Fragen sowie über die Rechtmäßigkeit ihrer
 Zurückweisung entscheidet der Untersuchungsausschuss auf Antrag seiner
 Mitglieder; die Zurückweisung einer Frage bedarf einer Mehrheit von
 zwei Dritteln der anwesenden Mitglieder.
@@ -487,8 +476,8 @@ zuzustellen.
 
 (2) Der Untersuchungsausschuss stellt durch Beschluss fest, dass die
 Vernehmung der jeweiligen Zeugen abgeschlossen ist. Die Entscheidung
-darf erst ergehen, wenn nach Zustellung des Vernehmungsprotokolls zwei
-Wochen verstrichen sind oder auf die Einhaltung dieser Frist
+darf erst ergehen, wenn nach Zustellung des Vernehmungsprotokolls
+zwei Wochen verstrichen sind oder auf die Einhaltung dieser Frist
 verzichtet worden ist.
 
 (3) Zeugen sind von dem oder der Vorsitzenden des
@@ -503,11 +492,11 @@ Untersuchungsausschuss Zeugen die durch ihre Weigerung verursachten
 Kosten auferlegen und gegen sie ein Ordnungsgeld bis zu 10.000 Euro
 festsetzen.
 
-(2) Unter der in Absatz 1 bestimmten Voraussetzung kann der
-Ermittlungsrichter oder die Ermittlungsrichterin des
-Bundesgerichtshofes auf Antrag des Untersuchungsausschusses oder eines
-Viertels seiner Mitglieder zur Erzwingung des Zeugnisses die Haft
-anordnen, jedoch nicht über die Zeit der Beendigung des
+(2) Unter der in Absatz 1 bestimmten Voraussetzung kann
+der Ermittlungsrichter oder die Ermittlungsrichterin des
+Bundesgerichtshofes auf Antrag des Untersuchungsausschusses oder
+eines Viertels seiner Mitglieder zur Erzwingung des Zeugnisses
+die Haft anordnen, jedoch nicht über die Zeit der Beendigung des
 Untersuchungsverfahrens, auch nicht über die Zeit von sechs Monaten
 hinaus.
 
@@ -516,8 +505,8 @@ hinaus.
 
 ## § 28 Sachverständige
 
-(1) Auf Sachverständige sind die Vorschriften der §§ 20, 22 bis 26
-entsprechend anzuwenden, soweit nicht nachfolgend abweichende
+(1) Auf Sachverständige sind die Vorschriften der §§ 20, 22 bis
+26 entsprechend anzuwenden, soweit nicht nachfolgend abweichende
 Regelungen getroffen sind.
 
 (2) Die Auswahl der zuzuziehenden Sachverständigen erfolgt durch den
@@ -537,12 +526,12 @@ zu erstellen und mündlich näher zu erläutern.
 Gutachtensverweigerungsrecht sind entsprechend anzuwenden.
 
 (6) Weigern sich die zur Erstattung des Gutachtens verpflichteten
-Sachverständigen, nach Absatz 3 eine angemessene Frist abzusprechen,
-oder versäumen sie die abgesprochene Frist, so kann der
-Untersuchungsausschuss gegen sie ein Ordnungsgeld bis zu 10.000 Euro
-festsetzen. Dasselbe gilt, wenn die ordnungsgemäß geladenen
-Sachverständigen nicht erscheinen oder sich weigern, ihr Gutachten zu
-erstatten oder zu erläutern; in diesen Fällen kann der
+Sachverständigen, nach Absatz 3 eine angemessene Frist
+abzusprechen, oder versäumen sie die abgesprochene Frist, so
+kann der Untersuchungsausschuss gegen sie ein Ordnungsgeld bis
+zu 10.000 Euro festsetzen. Dasselbe gilt, wenn die ordnungsgemäß
+geladenen Sachverständigen nicht erscheinen oder sich weigern, ihr
+Gutachten zu erstatten oder zu erläutern; in diesen Fällen kann der
 Untersuchungsausschuss zugleich den Sachverständigen die durch ihre
 Säumnis oder Weigerung verursachten Kosten auferlegen. § 21 Abs. 2
 gilt entsprechend.
@@ -567,17 +556,17 @@ Absatz bestimmten Ordnungs- und Zwangsmittel dürfen gegen Personen,
 die nach § 22 Abs. 1 und 2 zur Verweigerung des Zeugnisses oder der
 Auskunft berechtigt sind, nicht verhängt werden.
 
-(3) Werden Gegenstände nach Absatz 1 nicht freiwillig vorgelegt, so
-entscheidet auf Antrag des Untersuchungsausschusses oder eines
-Viertels seiner Mitglieder der Ermittlungsrichter oder die
+(3) Werden Gegenstände nach Absatz 1 nicht freiwillig vorgelegt,
+so entscheidet auf Antrag des Untersuchungsausschusses oder
+eines Viertels seiner Mitglieder der Ermittlungsrichter oder die
 Ermittlungsrichterin des Bundesgerichtshofes über die Beschlagnahme
 und die Herausgabe an den Untersuchungsausschuss; § 97 der
-Strafprozessordnung gilt entsprechend. Zur Beschlagnahme der in Absatz
-1 bezeichneten Gegenstände kann der Ermittlungsrichter oder die
-Ermittlungsrichterin des Bundesgerichtshofes auch die Durchsuchung
-anordnen, wenn Tatsachen vorliegen, aus denen zu schließen ist, dass
-der gesuchte Gegenstand sich in den zu durchsuchenden Räumen befindet.
-Die §§ 104, 105 Abs. 2 und 3, §§ 106, 107 und 109 der
+Strafprozessordnung gilt entsprechend. Zur Beschlagnahme der in
+Absatz 1 bezeichneten Gegenstände kann der Ermittlungsrichter oder
+die Ermittlungsrichterin des Bundesgerichtshofes auch die Durchsuchung
+anordnen, wenn Tatsachen vorliegen, aus denen zu schließen ist,
+dass der gesuchte Gegenstand sich in den zu durchsuchenden Räumen
+befindet. Die §§ 104, 105 Abs. 2 und 3, §§ 106, 107 und 109 der
 Strafprozessordnung sind entsprechend anzuwenden.
 
 
@@ -593,27 +582,27 @@ ihres streng vertraulichen Charakters für die Betroffenen unzumutbar
 ist, und der Untersuchungsausschuss für dieses Beweismittel den
 Geheimhaltungsgrad GEHEIM beschlossen hat.
 
-(2) Die Durchsicht und die Prüfung der Beweiserheblichkeit der
-vorgelegten Beweismittel steht dem Untersuchungsausschuss zu.
-Beweismittel, die sich nach einmütiger Auffassung des
+(2) Die Durchsicht und die Prüfung der Beweiserheblichkeit
+der vorgelegten Beweismittel steht dem Untersuchungsausschuss
+zu. Beweismittel, die sich nach einmütiger Auffassung des
 Untersuchungsausschusses für die Untersuchung als unerheblich
 erweisen, sind der Person, die den Gewahrsam hatte, unverzüglich
 zurückzugeben.
 
 (3) Nach Durchsicht und Prüfung der in Absatz 1 bezeichneten
 Beweismittel kann der Untersuchungsausschuss die Aufhebung der
-Einstufung in den Geheimhaltungsgrad GEHEIM beschließen, soweit die
-Beweismittel für die Untersuchung erheblich sind. Betreffen sie ein in
-§ 14 Abs. 1 Nr. 1 bis 4 bezeichnetes Geheimnis, so darf der
+Einstufung in den Geheimhaltungsgrad GEHEIM beschließen, soweit
+die Beweismittel für die Untersuchung erheblich sind. Betreffen sie
+ein in § 14 Abs. 1 Nr. 1 bis 4 bezeichnetes Geheimnis, so darf der
 Untersuchungsausschuss den Beschluss nach Satz 1 nur dann fassen, wenn
 ihre öffentliche Verwendung zur Erfüllung des Untersuchungsauftrages
 unerlässlich und nicht unverhältnismäßig ist.
 
-(4) Vor der Beschlussfassung nach Absatz 3 Satz 1 ist die Person, die
-über das Beweismittel verfügungsberechtigt ist, zu hören. Widerspricht
-sie der Aufhebung des Geheimhaltungsgrades GEHEIM, so hat die
-Aufhebung zu unterbleiben, wenn nicht der Ermittlungsrichter oder die
-Ermittlungsrichterin des Bundesgerichtshofes auf Antrag des
+(4) Vor der Beschlussfassung nach Absatz 3 Satz 1 ist die Person,
+die über das Beweismittel verfügungsberechtigt ist, zu hören.
+Widerspricht sie der Aufhebung des Geheimhaltungsgrades GEHEIM, so
+hat die Aufhebung zu unterbleiben, wenn nicht der Ermittlungsrichter
+oder die Ermittlungsrichterin des Bundesgerichtshofes auf Antrag des
 Untersuchungsausschusses oder eines Viertels seiner Mitglieder sie für
 zulässig erklärt.
 
@@ -637,8 +626,8 @@ nicht statt, wenn die Voraussetzungen des § 14 Abs. 1 vorliegen.
 
 ## § 32 Rechtliches Gehör
 
-(1) Personen, die durch die Veröffentlichung des Abschlussberichtes in
-ihren Rechten erheblich beeinträchtigt werden können, ist vor
+(1) Personen, die durch die Veröffentlichung des Abschlussberichtes
+in ihren Rechten erheblich beeinträchtigt werden können, ist vor
 Abschluss des Untersuchungsverfahrens Gelegenheit zu geben, zu den sie
 betreffenden Ausführungen im Entwurf des Abschlussberichtes innerhalb
 von zwei Wochen Stellung zu nehmen, soweit diese Ausführungen nicht
@@ -670,8 +659,8 @@ Bundestag einen Zwischenbericht vorzulegen.
 
 ## § 34 Rechte des Verteidigungsausschusses als Untersuchungsausschuss
 
-(1) Beschließt der Verteidigungsausschuss, eine Angelegenheit zum
-Gegenstand seiner Untersuchung zu machen, hat er bei seinen
+(1) Beschließt der Verteidigungsausschuss, eine Angelegenheit
+zum Gegenstand seiner Untersuchung zu machen, hat er bei seinen
 Untersuchungen die Rechte eines Untersuchungsausschusses. Der
 Verteidigungsausschuss hat sich auf Verlangen von einem Viertel seiner
 Mitglieder als Untersuchungsausschuss zu konstituieren. Die §§ 1 bis 3
@@ -680,8 +669,8 @@ gelten entsprechend.
 (2) Den Vorsitz führt der oder die Vorsitzende des
 Verteidigungsausschusses.
 
-(3) Macht der Verteidigungsausschuss eine Angelegenheit zum Gegenstand
-seiner Untersuchung, kann er zu deren Durchführung einen
+(3) Macht der Verteidigungsausschuss eine Angelegenheit zum
+Gegenstand seiner Untersuchung, kann er zu deren Durchführung einen
 Unterausschuss einsetzen, in den auch stellvertretende Mitglieder des
 Verteidigungsausschusses entsandt werden können.
 
@@ -696,12 +685,12 @@ auf den veröffentlichten Bericht beziehen.
 
 (1) Die Kosten des Untersuchungsverfahrens trägt der Bund.
 
-(2) Zeugen, Sachverständige und Ermittlungsbeauftragte erhalten eine
-Entschädigung oder Vergütung nach dem Justizvergütungs- und
+(2) Zeugen, Sachverständige und Ermittlungsbeauftragte erhalten
+eine Entschädigung oder Vergütung nach dem Justizvergütungs- und
 -entschädigungsgesetz. Der Untersuchungsausschuss kann auf Antrag
 beschließen, dass Gebühren des rechtlichen Beistandes den Zeugen
-erstattet werden. Ermittlungsbeauftragte erhalten eine Vergütung auf
-der Grundlage des höchsten Stundensatzes nach der Anlage 1 zum
+erstattet werden. Ermittlungsbeauftragte erhalten eine Vergütung
+auf der Grundlage des höchsten Stundensatzes nach der Anlage 1 zum
 Justizvergütungs- und -entschädigungsgesetz.
 
 (3) Die Entschädigung, die Vergütung und die Erstattung der Auslagen
@@ -711,15 +700,15 @@ setzt der Präsident oder die Präsidentin des Bundestages fest.
 ## § 36 Gerichtliche Zuständigkeiten
 
 (1) Zuständiges Gericht für Streitigkeiten nach diesem Gesetz ist der
-Bundesgerichtshof, soweit Artikel 93 des Grundgesetzes sowie § 13 des
+Bundesgerichtshof, soweit Artikel 94 des Grundgesetzes sowie § 13 des
 Bundesverfassungsgerichtsgesetzes und die Vorschriften dieses Gesetzes
 nichts Abweichendes bestimmen.
 
-(2) Hält der Bundesgerichtshof den Einsetzungsbeschluss für
-verfassungswidrig und kommt es für die Entscheidung auf dessen
-Gültigkeit an, so ist das Verfahren auszusetzen und die Entscheidung
-des Bundesverfassungsgerichtes einzuholen. Satz 1 gilt für den
-Ermittlungsrichter oder die Ermittlungsrichterin des
+(2) Hält der Bundesgerichtshof den Einsetzungsbeschluss
+für verfassungswidrig und kommt es für die Entscheidung auf
+dessen Gültigkeit an, so ist das Verfahren auszusetzen und die
+Entscheidung des Bundesverfassungsgerichtes einzuholen. Satz 1
+gilt für den Ermittlungsrichter oder die Ermittlungsrichterin des
 Bundesgerichtshofes entsprechend.
 
 (3) Gegen Entscheidungen des Ermittlungsrichters oder der

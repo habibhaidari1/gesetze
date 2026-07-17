@@ -21,8 +21,8 @@ Geändert durch
 
 ## Eingangsformel
 
-Auf Grund des § 23b Satz 1 des Treuhandgesetzes, der durch Artikel 1
-Nr. 9 des Gesetzes vom 9. August 1994 (BGBl. I S. 2062) eingefügt
+Auf Grund des § 23b Satz 1 des Treuhandgesetzes, der durch Artikel
+1 Nr. 9 des Gesetzes vom 9. August 1994 (BGBl. I S. 2062) eingefügt
 worden ist, verordnet die Bundesregierung und auf Grund des Artikels
 14 Abs. 5 Satz 6 Nr. 3 des Zweiten Vermögensrechtsänderungsgesetzes,
 der durch Artikel 12 des Investitionserleichterungs- und
@@ -41,24 +41,24 @@ Sonderaufgaben umbenannt.
 
 ## § 2
 
-(1) Die Bundesanstalt für vereinigungsbedingte Sonderaufgaben ist auch
-für die Erteilung des Investitionsvorrangbescheides nach den
-Vorschriften des Investitionsvorranggesetzes zuständig bei
+(1) Die Bundesanstalt für vereinigungsbedingte Sonderaufgaben
+ist auch für die Erteilung des Investitionsvorrangbescheides nach
+den Vorschriften des Investitionsvorranggesetzes zuständig bei
 Vermögenswerten, die im Eigentum einer Kapitalgesellschaft stehen,
 deren sämtliche Geschäftsanteile oder Aktien sich unmittelbar oder
 mittelbar in der Hand der Bundesanstalt für vereinigungsbedingte
-Sonderaufgaben befinden. Diese Zuständigkeit besteht auch für den
-Fall, daß Beteiligungen an in Satz 1 bezeichneten
-Kapitalgesellschaften auf den Bund, Einrichtungen des Bundes oder eine
-Kapitalgesellschaft übertragen werden, deren sämtliche
+Sonderaufgaben befinden. Diese Zuständigkeit besteht auch
+für den Fall, daß Beteiligungen an in Satz 1 bezeichneten
+Kapitalgesellschaften auf den Bund, Einrichtungen des Bundes
+oder eine Kapitalgesellschaft übertragen werden, deren sämtliche
 Geschäftsanteile oder Aktien sich unmittelbar oder mittelbar in der
 Hand des Bundes befinden.
 
 (2) Die Bundesanstalt für vereinigungsbedingte Sonderaufgaben ist auch
 zuständig, wenn Vermögenswerte von in Absatz 1 Satz 1 bezeichneten
 Kapitalgesellschaften oder der Bundesanstalt für vereinigungsbedingte
-Sonderaufgaben auf den Bund, Einrichtungen des Bundes oder eine
-Kapitalgesellschaft übertragen werden, deren sämtliche
+Sonderaufgaben auf den Bund, Einrichtungen des Bundes oder
+eine Kapitalgesellschaft übertragen werden, deren sämtliche
 Geschäftsanteile oder Aktien sich unmittelbar oder mittelbar in der
 Hand des Bundes befinden.
 
@@ -82,10 +82,10 @@ bei Stellen, die nach dieser Verordnung nicht mehr zuständig sind,
 beantragt oder eingeleitet worden sind, werden sie von diesen zu Ende
 geführt. Verfahren nach dem Investitionsvorranggesetz können aber an
 die Bundesanstalt für vereinigungsbedingte Sonderaufgaben abgegeben
-werden, wenn das Schreiben zur Übersendung des Vorhabenplans an den
-Anmelder nach § 5 Abs. 1 Satz 2 des Investitionsvorranggesetzes noch
-nicht abgesandt worden ist. Die Vorgänge müssen bis zum Ablauf des 31.
-März 1995 bei der Bundesanstalt für vereinigungsbedingte
+werden, wenn das Schreiben zur Übersendung des Vorhabenplans an
+den Anmelder nach § 5 Abs. 1 Satz 2 des Investitionsvorranggesetzes
+noch nicht abgesandt worden ist. Die Vorgänge müssen bis zum Ablauf
+des 31. März 1995 bei der Bundesanstalt für vereinigungsbedingte
 Sonderaufgaben eingegangen sein.
 
 

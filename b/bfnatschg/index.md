@@ -19,7 +19,6 @@ Zuletzt geändert durch
 :   Art. 289 V v. 19.6.2020 I 1328
 
 
-
 ## § 1 Errichtung und Sitz
 
 (1) Im Geschäftsbereich des Bundesministeriums für Umwelt, Naturschutz
@@ -46,8 +45,8 @@ Aufgaben wissenschaftliche Forschung auf den Gebieten des
 Naturschutzes und der Landschaftspflege.
 
 (4) Das Bundesamt für Naturschutz erledigt, soweit keine andere
-Zuständigkeit gesetzlich festgelegt ist, Aufgaben des Bundes auf den
-Gebieten des Naturschutzes und der Landschaftspflege, mit deren
+Zuständigkeit gesetzlich festgelegt ist, Aufgaben des Bundes auf
+den Gebieten des Naturschutzes und der Landschaftspflege, mit deren
 Durchführung es vom Bundesministerium für Umwelt, Naturschutz und
 nukleare Sicherheit oder mit seiner Zustimmung von der sachlich
 zuständigen Bundesbehörde beauftragt wird.

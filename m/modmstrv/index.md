@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen
-  und im fachtheoretischen Teil der Meisterprüfung für das Modisten-Handwerk
+Title: Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Modisten-Handwerk
 jurabk: ModMstrV
 layout: default
 origslug: modmstrv
@@ -20,19 +19,17 @@ Geändert durch
 :   Art. 2 Abs. 17 V v. 18.1.2022 I 39
 
 
-
 ## Eingangsformel
 
 Auf Grund des § 45 der Handwerksordnung in der Fassung der
 Bekanntmachung vom 28. Dezember 1965 (BGBl. 1966 I S. 1), der zuletzt
-durch Artikel 1 Nr. 63 des Gesetzes vom 20. Dezember 1993 (BGBl. I S.
-2256) geändert worden ist, verordnet das Bundesministerium für
+durch Artikel 1 Nr. 63 des Gesetzes vom 20. Dezember 1993 (BGBl. I
+S. 2256) geändert worden ist, verordnet das Bundesministerium für
 Wirtschaft im Einvernehmen mit dem Bundesministerium für Bildung und
 Wissenschaft:
 
 
 ## 1. Abschnitt - Berufsbild
-
 
 
 ### § 1 Berufsbild
@@ -46,78 +43,54 @@ zuzurechnen:
 
 1.  Kenntnisse der Kopfbedeckungen,
 
-
 2.  Kenntnisse der berufsbezogenen Farblehre, insbesondere der
     Farbenzusammenstellung,
 
-
 3.  Kenntnisse über Oberbekleidung, insbesondere Kostüme und Trachten,
-
 
 4.  Kenntnisse der berufsbezogenen Werk- und Hilfsstoffe,
 
-
 5.  Kenntnisse der Fertigungs- und Betriebskunde,
 
-
-6.  Kenntnisse der berufsbezogenen Vorschriften der Arbeitssicherheit und
-    des Arbeitsschutzes, des Umweltschutzes und der rationellen
+6.  Kenntnisse der berufsbezogenen Vorschriften der Arbeitssicherheit
+    und des Arbeitsschutzes, des Umweltschutzes und der rationellen
     Energieverwendung,
-
 
 7.  Entwerfen und Zeichnen von Modellen,
 
-
 8.  Maßnehmen,
 
-
 9.  Konstruieren von Schnitten, Zuschneiden,
-
 
 10. Herstellen von Hilfsformen, insbesondere aus Sparterie, Pappe und
     Draht,
 
-
 11. Herstellen von Unterformen aus weichen und steifen Hutformstoffen,
-
 
 12. Dämpfen von Stroh, Filz, Samt, Seide, Velours und anderen Materialien,
 
-
 13. Ziehen und Formen von Stumpen und Kaplinen,
-
 
 14. Appretieren und Bügeln,
 
-
 15. Nähen und Steppen von Zweck- und Ziernähten,
 
-
 16. Einfassen von Kanten,
-
 
 17. Kleben und Aufbügeln von Hutstoffen und Garniturteilen auf
     Unterformen,
 
-
 18. Anfertigen und Anbringen von Garnituren,
-
 
 19. Reinigen und Auffrischen von Kopfbedeckungen,
 
-
 20. Prüfen der Werk- und Hilfsstoffe,
-
 
 21. Pflegen und Instandhalten der berufsbezogenen Werkzeuge, Geräte und
     Maschinen.
 
 
-
-
-
 ## 2. Abschnitt - Prüfungsanforderungen in den Teilen I und II der Meisterprüfung
-
 
 
 ### § 2 Gliederung, Dauer und Bestehen der praktischen Prüfung (Teil I)
@@ -143,31 +116,25 @@ anzufertigen:
 
 1.  ein Hut nach vorgegebenem Modell,
 
-
 2.  ein Hut nach Bildvorlage,
-
 
 3.  ein Hut nach eigenem Entwurf,
 
-
 4.  ein Hutschnitt nach eigenem Schnittmuster.
-
-
-
 
 (2) Der Prüfling hat vor Anfertigung der Meisterprüfungsarbeit dem
 Meisterprüfungsausschuß zu der Arbeit nach Absatz 1 Nr. 1 eine Skizze
-mit Maßangaben, zu der Arbeit nach Absatz 1 Nr. 2 die Bildvorlage und
-die Vorkalkulation sowie zu der Arbeit nach Absatz 1 Nr. 3 die
+mit Maßangaben, zu der Arbeit nach Absatz 1 Nr. 2 die Bildvorlage
+und die Vorkalkulation sowie zu der Arbeit nach Absatz 1 Nr. 3 die
 Entwurfsskizze und die Vorkalkulation zur Genehmigung vorzulegen. Bei
-der Arbeit nach Absatz 1 Nr. 1 soll Material verwendet werden, das dem
-des Modells zumindest ähnlich ist; farbliche Abweichungen sind
+der Arbeit nach Absatz 1 Nr. 1 soll Material verwendet werden, das
+dem des Modells zumindest ähnlich ist; farbliche Abweichungen sind
 gestattet.
 
 (3) Die Skizze mit Maßangaben zu der Arbeit nach Absatz 1 Nr. 1, das
 Schnittmuster zu der Arbeit nach Absatz 1 Nr. 3 sowie die Vor- und
-Nachkalkulationen sind bei der Bewertung der Meisterprüfungsarbeit zu
-berücksichtigen.
+Nachkalkulationen sind bei der Bewertung der Meisterprüfungsarbeit
+zu berücksichtigen.
 
 
 ### § 4 Arbeitsprobe
@@ -190,50 +157,32 @@ nachzuweisen:
     a)  Anfertigen von Skizzen, Schnittmustern, Schnitt- und
         Entwurfszeichnungen für Modelle,
 
-
     b)  Berechnen von Material, Mustern und Schnittanlagen;
-
-
-
-
 
 2.  Fachtechnologie:
 
     a)  Kopfbedeckungen,
 
-
     b)  berufsbezogene Farblehre, insbesondere Farbenzusammenstellung,
 
-
     c)  Oberbekleidung, insbesondere Kostüme und Trachten,
-
 
     d)  berufsbezogene Vorschriften der Arbeitssicherheit und des
         Arbeitsschutzes,
 
-
     e)  Fertigungs- und Betriebskunde,
 
-
     f)  Werkzeug-, Geräte- und Maschinenkunde;
-
-
-
-
 
 3.  Werkstoffkunde:
 
     Arten, Eigenschaften, Herstellung, Lagerung, Verwendung und
     Verarbeitung der Werk- und Hilfsstoffe;
 
-
 4.  Kalkulation:
 
     Kostenermittlung unter Einbeziehung aller für die Preisbildung
     wesentlichen Faktoren.
-
-
-
 
 (2) Die Prüfung ist schriftlich und mündlich durchzuführen.
 
@@ -251,7 +200,6 @@ ausreichende Leistungen in dem Prüfungsfach nach Absatz 1 Nr. 2.
 
 
 ## 3. Abschnitt - Übergangs- und Schlußvorschriften
-
 
 
 ### § 6 Übergangsvorschrift

@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen
-  Mark (Neumann-Gedenkmünze)
+Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Neumann-Gedenkmünze)
 jurabk: Münz5DMBek 1978-06
 layout: default
 origslug: m_nz5dmbek_1978-06
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 1978, 1030
-
 
 
 ## (XXXX)
@@ -41,19 +39,13 @@ schützenden glatten Randstab umgeben.
 (5) Die Bildseite zeigt einen Blick in die Gewölbezone der "Großen
 Vierung" der Wallfahrtskirche zu Vierzehnheiligen und die Umschrift
 
-*   "BALTHASAR NEUMANN 1687-1753".
-
-
-
+-   "BALTHASAR NEUMANN 1687-1753".
 
 (6) Die Wertseite trägt einen Adler und die Umschrift
 
-*   ". BUNDESREPUBLIK DEUTSCHLAND .
+-   ". BUNDESREPUBLIK DEUTSCHLAND .
 
     5 DEUTSCHE MARK 1978".
-
-
-
 
 (7) Die Wertziffer 5 befindet sich unterhalb des Adlerschwanzes, das
 Münzzeichen "F" der Staatlichen Münze Stuttgart oben rechts im Feld
@@ -61,10 +53,7 @@ zwischen Rumpf und Schwinge des Adlers.
 
 (8) Der glatte Münzrand enthält die vertiefte Inschrift
 
-*   "WALLFAHRTSKIRCHE VIERZEHNHEILIGEN 1743-1772".
-
-
-
+-   "WALLFAHRTSKIRCHE VIERZEHNHEILIGEN 1743-1772".
 
 (9) Dies wird namens der Bundesregierung bekanntgemacht.
 

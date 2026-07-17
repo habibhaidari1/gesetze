@@ -1,7 +1,5 @@
 ---
-Title: Verordnung über die Erstreckung von Recht der Verwaltung des Vereinigten Wirtschaftsgebiets
-  auf dem Gebiet der Wertpapierbereinigung und des Kapitalverkehrs auf die Länder
-  Baden, Rheinland-Pfalz, Württemberg-Hohenzollern und den bayerischen Kreis Lindau
+Title: Verordnung über die Erstreckung von Recht der Verwaltung des Vereinigten Wirtschaftsgebiets auf dem Gebiet der Wertpapierbereinigung und des Kapitalverkehrs auf die Länder Baden, Rheinland-Pfalz, Württemberg-Hohenzollern und den bayerischen Kreis Lindau
 jurabk: WPapBerErstrV
 layout: default
 origslug: wpapbererstrv
@@ -16,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl: 1950, 180
-
 
 
 ## Eingangsformel
@@ -36,22 +33,18 @@ Pfalz und Württemberg-Hohenzollern sowie im bayerischen Kreis Lindau
 mit der Maßgabe in Kraft gesetzt, daß auch Wertpapiere in Kraft
 bleiben, für die eine Lieferbarkeitsbescheinigung nach
 
-a)  der Landesverordnung des Landes Baden über die Lieferbarkeit von
-    Wertpapieren vom 17. Dezember 1949 (Badisches Gesetz- und
+a)  der Landesverordnung des Landes Baden über die Lieferbarkeit
+    von Wertpapieren vom 17. Dezember 1949 (Badisches Gesetz- und
     Verordnungsblatt, Regierungsblatt der Landesregierung Baden, S. 513),
-
 
 b)  der Landesverordnung des Landes Rheinland-Pfalz über die Lieferbarkeit
     von Wertpapieren vom 2. September 1949 (Gesetz- und Verordnungsblatt
     der Landesregierung Rheinland-Pfalz, Teil I, S. 418) oder
 
-
 c)  der Verordnung des Finanzministeriums des Landes Württemberg-
     Hohenzollern über die Lieferbarkeit von Wertpapieren vom 1. Juni 1949
     (Regierungsblatt für das Land Württemberg-Hohenzollern, Teil B, S.
     341, 342)
-
-
 
 bis zum 1. Oktober 1949 ausgestellt worden ist oder auf Grund eines
 bis zum 31. Januar 1950 gestellten Antrags bis zum 30. September 1950

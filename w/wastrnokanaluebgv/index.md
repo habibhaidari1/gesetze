@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über den Übergang von der zur Bundeswasserstraße Nord-Ostsee-Kanal
-  gehörenden Nebenstrecke Obereidersee mit Enge auf die Städte Rendsburg und Büdelsdorf
+Title: Verordnung über den Übergang von der zur Bundeswasserstraße Nord-Ostsee-Kanal gehörenden Nebenstrecke Obereidersee mit Enge auf die Städte Rendsburg und Büdelsdorf
 jurabk: WaStrNOKanalÜbgV
 layout: default
 origslug: wastrnokanal_bgv
@@ -22,8 +21,8 @@ Fundstelle
 Auf Grund des § 2 Abs. 1 Satz 2 in Verbindung mit Abs. 2 des
 Bundeswasserstraßengesetzes in der Fassung der Bekanntmachung vom 23.
 Mai 2007 (BGBl. I S. 962) verordnet das Bundesministerium für Verkehr,
-Bau und Stadtentwicklung im Einvernehmen mit dem Bundesministerium der
-Finanzen:
+Bau und Stadtentwicklung im Einvernehmen mit dem Bundesministerium
+der Finanzen:
 
 
 ## § 1

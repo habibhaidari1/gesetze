@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl: 1950, 365
 
 
-
 ## § 1
 
 (1) Reichsmarkverbindlichkeiten zwischen Ländern, Gemeinden und
@@ -33,31 +32,24 @@ Fälligkeit.
 (1) Folgende Reichsmarkverbindlichkeiten zwischen
 Gebietskörperschaften erlöschen nicht:
 
-a)  Verbindlichkeiten aus Darlehen mit einer Laufzeit von mindestens einem
-    Jahr, Anleihen und Wertpapieren, sowie alle sonstigen
+a)  Verbindlichkeiten aus Darlehen mit einer Laufzeit von mindestens
+    einem Jahr, Anleihen und Wertpapieren, sowie alle sonstigen
     Verbindlichkeiten, wenn die Forderung der Gläubigerin durch Hypothek,
     Grund- oder Rentenschuld gesichert ist,
 
-
-b)  Verbindlichkeiten, die mit einer von der Gläubigerin nach dem 20. Juni
-    1948 Dritten gegenüber in Deutscher Mark zu erfüllenden
+b)  Verbindlichkeiten, die mit einer von der Gläubigerin nach dem
+    20\. Juni 1948 Dritten gegenüber in Deutscher Mark zu erfüllenden
     Verbindlichkeit in unmittelbarem wirtschaftlichem Zusammenhang stehen,
-
 
 c)  Verbindlichkeiten, die mit einer der Schuldnerin gegen Dritte
     zustehenden nach dem 20. Juni 1948 zu erfüllenden Forderung in
     unmittelbarem wirtschaftlichem Zusammenhang stehen,
 
-
 d)  Verbindlichkeiten, die nach § 18 Abs. 1 des Umstellungsgesetzes
     umgestellt werden,
 
-
 e)  Verbindlichkeiten zwischen Ländern, die sich aus der Auflösung des
     Haushalts der britischen Zone ergeben.
-
-
-
 
 (2) Absatz 1 Buchstab a gilt nicht für Zinsen, Tilgungsraten und
 andere regelmäßig wiederkehrende Leistungen, die vor dem 21. Juni 1948
@@ -75,8 +67,8 @@ Vorsitzenden und zwei Beisitzern.
 
 (3) Sind mehrere Länder oder verschiedenen Ländern angehörige
 Gemeinden (Gemeindeverbände) beteiligt, so führt ein vom Präsidenten
-des Bundesrechnungshofes zu bestimmendes Mitglied dieser Behörde den
-Vorsitz der Schiedsstelle. In den übrigen Fällen bestimmt der
+des Bundesrechnungshofes zu bestimmendes Mitglied dieser Behörde
+den Vorsitz der Schiedsstelle. In den übrigen Fällen bestimmt der
 Präsident des Landesrechnungshofes ein Mitglied zum Vorsitzenden.
 
 (4) Gemeinden (Gemeindeverbände) haben den Antrag auf Bestimmung eines

@@ -1,7 +1,5 @@
 ---
-Title: Zweihundertachtundfünfzigste Durchführungsverordnung zur Luftverkehrs-Ordnung
-  (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum
-  und vom Verkehrslandeplatz Strausberg)
+Title: Zweihundertachtundfünfzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrslandeplatz Strausberg)
 jurabk: LuftVODV 258
 layout: default
 origslug: luftvodv_258

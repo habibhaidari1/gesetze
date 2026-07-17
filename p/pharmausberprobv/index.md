@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Erprobung einer neuen Ausbildungsform für die Berufsausbildung
-  zum Pharmakanten/zur Pharmakantin
+Title: Verordnung über die Erprobung einer neuen Ausbildungsform für die Berufsausbildung zum Pharmakanten/zur Pharmakantin
 jurabk: PharmAusbErprobV
 layout: default
 origslug: pharmausberprobv
@@ -18,9 +17,6 @@ Fundstelle
 
 Geändert durch
 :   Art. 8 V v. 17.7.2007 I 1402
-
-Die V tritt gem. § 6 idF d. Art. 8 Nr. 4 V v. 17.7.2007 I 1402 mit
-Ausnahme des § 5 am 31.7.2009 außer Kraft.
 
 
 ## § 5 Übergangsregelung

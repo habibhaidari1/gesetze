@@ -26,28 +26,25 @@ Zuletzt geändert durch
 
 1.  Ansprüche auf Dienstbeschädigungsvoll- oder -teilrenten
     (Dienstbeschädigungsrenten) aus einem Sonderversorgungssystem nach
-    Anlage 2 des Anspruchs- und Anwartschaftsüberführungsgesetzes nach dem
-    ab dem 1. August 1991 geltenden Recht hatten oder auf Grund der
+    Anlage 2 des Anspruchs- und Anwartschaftsüberführungsgesetzes nach
+    dem ab dem 1. August 1991 geltenden Recht hatten oder auf Grund der
     Regelungen für die Sonderversorgungssysteme oder nach dem Anspruchs-
     und Anwartschaftsüberführungsgesetz wegen des Zusammentreffens mit
     anderen Leistungen oder wegen der Überführung in die gesetzliche
     Rentenversicherung nicht mehr hatten,
-
 
 2.  Ansprüche im Sinne der Nummer 1 nach dem ab dem 1. August 1991
     geltenden Recht nicht mehr hatten, weil sie vor dem 19. Mai 1990 ihren
     gewöhnlichen Aufenthalt in das Gebiet der Bundesrepublik Deutschland
     ohne das Beitrittsgebiet verlegt haben.
 
-
-
 Wurde am 28. Februar 2002 eine Dienstbeschädigungsrente nicht gezahlt,
 wird der Dienstbeschädigungsausgleich auf Antrag gezahlt.
 
-(2) Personen, die einem Sonderversorgungssystem angehört und einen vor
-dessen Schließung verursachten Körper- oder Gesundheitsschaden
-erlitten haben, haben Anspruch auf Dienstbeschädigungsausgleich, wenn
-der anspruchsbegründende Zustand nach Schließung des
+(2) Personen, die einem Sonderversorgungssystem angehört und einen
+vor dessen Schließung verursachten Körper- oder Gesundheitsschaden
+erlitten haben, haben Anspruch auf Dienstbeschädigungsausgleich,
+wenn der anspruchsbegründende Zustand nach Schließung des
 Sonderversorgungssystems eingetreten ist.
 
 
@@ -78,22 +75,24 @@ für Nationale Sicherheit der DDR ergeben.
 
 ## § 2 Höhe
 
-(1) Der Dienstbeschädigungsausgleich wird bei einem Körper- oder
-Gesundheitsschaden, der nach den Regelungen der
-Sonderversorgungssysteme zu einem Anspruch auf eine
-Dienstbeschädigungsrente geführt hat oder führen würde, in Höhe der
-Grundrente nach § 31 des Bundesversorgungsgesetzes geleistet. Dabei
-gilt der Grad des Körper- oder Gesundheitsschadens als Grad der
-Schädigungsfolgen; bei einem Grad der Schädigungsfolgen von 20 sind
-zwei Drittel der Mindestgrundrente zugrunde zu legen. Für den
+(1) Der Dienstbeschädigungsausgleich wird bei einem
+Körper- oder Gesundheitsschaden, der nach den Regelungen
+der Sonderversorgungssysteme zu einem Anspruch auf eine
+Dienstbeschädigungsrente geführt hat oder führen würde, in Höhe
+der monatlichen Entschädigungszahlung nach § 83 des Vierzehnten
+Buches Sozialgesetzbuch geleistet. Dabei gilt der Grad des Körper-
+oder Gesundheitsschadens als Grad der Schädigungsfolgen; bei
+einem Grad der Schädigungsfolgen von 20 sind zwei Drittel der
+monatlichen Entschädigungszahlung nach § 83 Absatz 1 Nummer 1 des
+Vierzehnten Buches Sozialgesetzbuch zugrunde zu legen. Für den
 Dienstbeschädigungsausgleich, der wegen einer in die gesetzliche
-Rentenversicherung überführten Dienstbeschädigungsvollrente zu leisten
-ist, wird der Grad des Körper- oder Gesundheitsschadens neu
+Rentenversicherung überführten Dienstbeschädigungsvollrente zu
+leisten ist, wird der Grad des Körper- oder Gesundheitsschadens neu
 festgestellt; bis zu dieser Feststellung können die Versorgungsträger
 auf Antrag einen Dienstbeschädigungsausgleich auf der Grundlage eines
 Grades des Körper- oder Gesundheitsschadens von 70 vom Hundert unter
-dem Vorbehalt einer rückwirkenden Neufeststellung leisten. Wurde die
-Dienstbeschädigungsteilrente wegen § 11 Abs. 5 Satz 2 oder 4 des
+dem Vorbehalt einer rückwirkenden Neufeststellung leisten. Wurde
+die Dienstbeschädigungsteilrente wegen § 11 Abs. 5 Satz 2 oder 4 des
 Anspruchs- und Anwartschaftsüberführungsgesetzes nicht gezahlt, kann
 von dem zuletzt festgestellten Grad Körper- oder Gesundheitsschadens
 ausgegangen werden.
@@ -101,34 +100,33 @@ ausgegangen werden.
 (1a) Ist nach dem 2. August 2001 der Grad des Körper- oder
 Gesundheitsschadens erstmals oder neu festzustellen, gelten die
 Grundsätze, die für die Feststellung des Grades der Schädigungsfolgen
-nach § 30 des Bundesversorgungsgesetzes anzuwenden sind. Vorbehaltlich
-einer Anwendung des § 45 des Zehnten Buches Sozialgesetzbuch verbleibt
-es bei dem nach Absatz 1 festgestellten Grad der Schädigungsfolgen,
-wenn die Anwendung der Grundsätze des § 30 des
-Bundesversorgungsgesetzes keinen höheren Grad der Schädigungsfolgen
-ergibt. Ergibt sich infolge einer wesentlichen Änderung in den
-tatsächlichen Verhältnissen ein niedrigerer Grad der
-Schädigungsfolgen, ist bei der Neufeststellung von dem Grad der
+nach § 5 des Vierzehnten Buches Sozialgesetzbuch anzuwenden
+sind. Vorbehaltlich einer Anwendung des § 45 des Zehnten Buches
+Sozialgesetzbuch verbleibt es bei dem nach Absatz 1 festgestellten
+Grad der Schädigungsfolgen, wenn die Anwendung der Grundsätze des
+§ 5 des Vierzehnten Buches Sozialgesetzbuch keinen höheren Grad der
+Schädigungsfolgen ergibt. Ergibt sich infolge einer wesentlichen
+Änderung in den tatsächlichen Verhältnissen ein niedrigerer Grad
+der Schädigungsfolgen, ist bei der Neufeststellung von dem Grad der
 Schädigungsfolgen auszugehen, der sich ursprünglich aus Absatz 1
 ergeben hatte. Ergibt sich infolge einer wesentlichen Änderung in den
 tatsächlichen Verhältnissen ein höherer Grad der Schädigungsfolgen,
-darf der neu festzusetzende Grad nicht höher festgesetzt werden, als
-der Grad, der sich bei Anwendung der Grundsätze des § 30 des
-Bundesversorgungsgesetzes ergeben hätte.
+darf der neu festzusetzende Grad nicht höher festgesetzt werden,
+als der Grad, der sich bei Anwendung der Grundsätze des § 5 des
+Vierzehnten Buches Sozialgesetzbuch ergeben hätte.
 
-(2) Bestand für den Monat vor Beginn des Anspruchs auf
-Dienstbeschädigungsausgleich ein Anspruch auf
+(2) Bestand für den Monat vor Beginn des Anspruchs
+auf Dienstbeschädigungsausgleich ein Anspruch auf
 Dienstbeschädigungsteilrente, wird der Dienstbeschädigungsausgleich
-bis zum Bezug einer Rente wegen Alters, längstens jedoch bis zum
-Erreichen der Regelaltersgrenze nach dem Sechsten Buch
+bis zum Bezug einer Rente wegen Alters, längstens jedoch bis
+zum Erreichen der Regelaltersgrenze nach dem Sechsten Buch
 Sozialgesetzbuch, abweichend von Absatz 1 mindestens in der Höhe
 erbracht, in der ein Anspruch auf Dienstbeschädigungsteilrente nach
 dem Anspruchs- und Anwartschaftsüberführungsgesetz bestanden hätte;
-dem Bezug einer Rente wegen Alters steht der Bezug einer ähnlichen
-Leistung öffentlich-rechtlicher Art gleich.              Dies gilt
-nicht für die Dauer des Bezugs einer Rente wegen Minderung der
-Erwerbsfähigkeit oder einer ähnlichen Leistung öffentlich-rechtlicher
-Art.
+*dem Bezug einer Rente wegen Alters steht der Bezug einer ähnlichen
+Leistung öffentlich-rechtlicher Art gleich.* Dies gilt nicht für die
+Dauer des Bezugs einer Rente wegen Minderung der Erwerbsfähigkeit oder
+einer ähnlichen Leistung öffentlich-rechtlicher Art.
 
 (3) Ein Dienstbeschädigungsausgleich nach diesem Gesetz bleibt als
 Einkommen unberücksichtigt, wenn bei Sozialleistungen aufgrund von
@@ -139,8 +137,8 @@ anderen Einkommen abhängt.
 ## § 3 Verfahren, Erstattung, Rechtsweg
 
 Für die Feststellung der Anspruchsvoraussetzungen, das
-Verwaltungsverfahren, die Auszahlung, die Erstattung und den Rechtsweg
-gelten die bis zum 31. Dezember 1996 für die
+Verwaltungsverfahren, die Auszahlung, die Erstattung und
+den Rechtsweg gelten die bis zum 31. Dezember 1996 für die
 Dienstbeschädigungsteilrenten geltenden Regelungen des Anspruchs- und
 Anwartschaftsüberführungsgesetzes und der AAÜG-Erstattungsverordnung
 entsprechend. Die Vorschriften des Ersten und Zehnten Buches

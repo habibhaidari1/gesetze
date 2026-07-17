@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zur Durchführung von Richtlinien der Europäischen Wirtschaftsgemeinschaft
-  über die Niederlassungsfreiheit und den freien Dienstleistungsverkehr
+Title: Gesetz zur Durchführung von Richtlinien der Europäischen Wirtschaftsgemeinschaft über die Niederlassungsfreiheit und den freien Dienstleistungsverkehr
 jurabk: NiederlFrhEWGDG 1
 layout: default
 origslug: niederlfrhewgdg_1
@@ -56,9 +55,9 @@ dieser Bescheinigungen zuständigen Behörden oder Stellen zu bestimmen.
 ## Art V
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
-Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
-im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes
-erlassen werden, gelten im Land Berlin nach § 14 des Dritten
+Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S.
+1) auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses
+Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
 
 

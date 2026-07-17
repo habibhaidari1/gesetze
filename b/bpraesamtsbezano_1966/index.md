@@ -16,14 +16,10 @@ Fundstelle
 :   BGBl I: 1966, 324
 
 
-
 ## (XXXX)
 
 Gemäß § 81 Abs. 1 des Bundesbeamtengesetzes setze ich folgende
 Amtsbezeichnung fest:
 
-*   Direktor und Professor des Deutschen Historischen Institutes in Paris.
-
-
-
+-   Direktor und Professor des Deutschen Historischen Institutes in Paris.
 

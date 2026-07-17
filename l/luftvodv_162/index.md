@@ -1,7 +1,5 @@
 ---
-Title: Hundertzweiundsechzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung
-  von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrslandeplatz
-  Hof-Plauen)
+Title: Hundertzweiundsechzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrslandeplatz Hof-Plauen)
 jurabk: LuftVODV 162
 layout: default
 origslug: luftvodv_162
@@ -16,4 +14,7 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BAnz: 1996, Nr 12, 494
+
+Fundstelle
+:   BAnz: 1996, 494
 

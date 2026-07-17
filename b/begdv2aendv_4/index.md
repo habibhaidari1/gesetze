@@ -1,6 +1,5 @@
 ---
-Title: Vierte Verordnung zur Änderung der Zweiten Verordnung zur Durchführung des
-  Bundesentschädigungsgesetzes
+Title: Vierte Verordnung zur Änderung der Zweiten Verordnung zur Durchführung des Bundesentschädigungsgesetzes
 jurabk: BEGDV2ÄndV 4
 layout: default
 origslug: begdv2_ndv_4
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 1961, 1860
-
 
 
 ## Eingangsformel

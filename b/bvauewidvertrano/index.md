@@ -1,8 +1,5 @@
 ---
-Title: Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden
-  und die Vertretung bei Klagen von Beschäftigten des Bundesverwaltungsgerichts und
-  Bundespatentgerichts in Angelegenheiten der Besoldung, des Umzugskosten- und Trennungsgeldrechts
-  sowie von Beschäftigten des Bundesfinanzhofs in Angelegenheiten des Umzugskostenrechts
+Title: Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung bei Klagen von Beschäftigten des Bundesverwaltungsgerichts und Bundespatentgerichts in Angelegenheiten der Besoldung, des Umzugskosten- und Trennungsgeldrechts sowie von Beschäftigten des Bundesfinanzhofs in Angelegenheiten des Umzugskostenrechts
 jurabk: BVAÜWidVertrAnO
 layout: default
 origslug: bva_widvertrano
@@ -30,14 +27,14 @@ Verbraucherschutz an:
 
 ## § 1 Entscheidung über Widersprüche
 
-(1) Dem Bundesverwaltungsamt wird die Befugnis übertragen, in
-Angelegenheiten der Besoldung, des Umzugskosten- und
-Trennungsgeldrechts über Widersprüche von Beschäftigten des
-Bundesverwaltungsgerichts zu entscheiden, soweit das
+(1) Dem Bundesverwaltungsamt wird die Befugnis übertragen,
+in Angelegenheiten der Besoldung, des Umzugskosten- und
+Trennungsgeldrechts über Widersprüche von Beschäftigten
+des Bundesverwaltungsgerichts zu entscheiden, soweit das
 Bundesverwaltungsamt die Maßnahme getroffen hat.
 
-(2) Dem Bundesverwaltungsamt wird die Befugnis übertragen, in
-Angelegenheiten der Besoldung, des Umzugskosten- und
+(2) Dem Bundesverwaltungsamt wird die Befugnis übertragen,
+in Angelegenheiten der Besoldung, des Umzugskosten- und
 Trennungsgeldrechts über Widersprüche von Beschäftigten des
 Bundespatentgerichts zu entscheiden, soweit das Bundesverwaltungsamt
 die Maßnahme getroffen hat.
@@ -53,12 +50,12 @@ sich vor, im Einzelfall selbst zu entscheiden.
 
 ## § 2 Vertretung bei Klagen
 
-Der Präsidentin oder dem Präsidenten des Bundesverwaltungsamts wird
-die Vertretung der Bundesrepublik Deutschland bei Klagen von
-Beschäftigten des Bundesverwaltungsgerichts bis einschließlich A 13g,
+Der Präsidentin oder dem Präsidenten des Bundesverwaltungsamts
+wird die Vertretung der Bundesrepublik Deutschland bei Klagen von
+Beschäftigten des Bundesverwaltungsgerichts bis einschließlich A 13g,
 des Bundespatentgerichts und des Bundesfinanzhofs übertragen, soweit
-das Bundesverwaltungsamt nach § 1 Absatz 1 bis 3 zur Entscheidung über
-den Widerspruch befugt ist. Die Bundesministerin oder der
+das Bundesverwaltungsamt nach § 1 Absatz 1 bis 3 zur Entscheidung
+über den Widerspruch befugt ist. Die Bundesministerin oder der
 Bundesminister der Justiz und für Verbraucherschutz kann im Einzelfall
 die Vertretung abweichend regeln oder selbst übernehmen.
 
@@ -69,8 +66,8 @@ die Vertretung abweichend regeln oder selbst übernehmen.
 Bundesamt für zentrale Dienste und offene Vermögensfragen vor dem 1.
 Juni 2017 getroffen hat.
 
-(2) § 2 ist auch anzuwenden, wenn der Widerspruchsbescheid vor dem 1.
-Juni 2017 vom Bundesamt für zentrale Dienste und offene
+(2) § 2 ist auch anzuwenden, wenn der Widerspruchsbescheid vor
+dem 1. Juni 2017 vom Bundesamt für zentrale Dienste und offene
 Vermögensfragen erlassen worden ist.
 
 
@@ -85,19 +82,14 @@ Gleichzeitig treten außer Kraft:
     Besoldung, des Umzugskosten- und Trennungsgeldrechts vom 5. März 2015
     (BGBl. I S. 315),
 
-
 2.  die Anordnung zur Übertragung von Zuständigkeiten für den Erlass von
     Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen
     von Beschäftigten des Bundespatentgerichts in Angelegenheiten der
     Besoldung, des Umzugskosten- und Trennungsgeldrechts vom 5. März 2015
     (BGBl. I S. 316) sowie
 
-
-3.  die Anordnung zur Übertragung von Zuständigkeiten für den Erlass von
-    Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen
-    von Beschäftigten des Bundesfinanzhofs in Angelegenheiten des
+3.  die Anordnung zur Übertragung von Zuständigkeiten für den Erlass
+    von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei
+    Klagen von Beschäftigten des Bundesfinanzhofs in Angelegenheiten des
     Umzugskostenrechts vom 5. März 2015 (BGBl. I S. 319).
-
-
-
 

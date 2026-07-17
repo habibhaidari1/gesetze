@@ -1,7 +1,5 @@
 ---
-Title: Zweihundertzwölfte Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung
-  von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Flughafen
-  Frankfurt am Main)
+Title: Zweihundertzwölfte Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Flughafen Frankfurt am Main)
 jurabk: LuftVODV 212
 layout: default
 origslug: luftvodv_212
@@ -16,4 +14,7 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BAnz: 2002, Nr 221, 25489
+
+Fundstelle
+:   BAnz: 2002, 25489
 

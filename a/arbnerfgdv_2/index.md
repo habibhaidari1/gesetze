@@ -39,19 +39,13 @@ zu bestellen, die das fünfundzwanzigste Lebensjahr vollendet haben.
     Ämter nicht besitzt oder wegen einer vorsätzlichen Tat zu einer
     Freiheitsstrafe von mehr als sechs Monaten verurteilt worden ist;
 
-
 2.  wer wegen einer Tat angeklagt ist, die den Verlust der Fähigkeit zur
     Bekleidung öffentlicher Ämter zur Folge haben kann;
-
 
 3.  wer durch gerichtliche Anordnung in der Verfügung über sein Vermögen
     beschränkt ist;
 
-
 4.  wer das Wahlrecht zum Deutschen Bundestag nicht besitzt.
-
-
-
 
 (3) Beamte und Angestellte des Patentamts dürfen nicht als Beisitzer
 bestellt werden.
@@ -74,7 +68,6 @@ werden
     allein oder als Mitglieder des Vertretungsorgans zur Vertretung der
     juristischen Person oder der Personengesamtheit berufen sind;
 
-
 2.  leitende Angestellte, wenn sie zur selbständigen Einstellung und
     Entlassung von im Betrieb oder in der Betriebsabteilung beschäftigten
     Arbeitnehmern berechtigt sind oder wenn ihnen Generalvollmacht oder
@@ -84,20 +77,15 @@ werden
     bestimmten Personen im Hinblick auf deren besondere Erfahrungen und
     Kenntnisse übertragen werden;
 
-
 3.  bei dem Bund, den Ländern, den Gemeinden, den Gemeindeverbänden und
     anderen Körperschaften, Anstalten und Stiftungen des öffentlichen
     Rechts Beamte und Angestellte nach näherer Anordnung der zuständigen
     obersten Bundes- oder Landesbehörde;
 
-
 4.  Mitglieder und Angestellte von Vereinigungen von Arbeitgebern sowie
     Vorstandsmitglieder und Angestellte von Zusammenschlüssen solcher
     Vereinigungen, wenn diese Personen kraft Satzung oder Vollmacht zur
     Vertretung befugt sind.
-
-
-
 
 
 ## § 3 Beisitzer aus Kreisen der Arbeitnehmer
@@ -123,17 +111,11 @@ Beisitzer vorgeschlagenen Personen enthalten:
 
 1.  Name,
 
-
 2.  Geburtstag,
-
 
 3.  Beruf,
 
-
 4.  Wohnort.
-
-
-
 
 (3) Den Vorschlagslisten ist eine Erklärung der als Beisitzer
 vorgeschlagenen Personen darüber beizufügen, daß die Voraussetzungen
@@ -153,18 +135,18 @@ Patentamts in der Vorschlagsliste vermerkt.
 (1) Das Amt des Beisitzers ist ein Ehrenamt.
 
 (2) Der Vorsitzende der Schiedsstelle hat die Beisitzer vor ihrer
-ersten Dienstleistung auf die Erfüllung der Obliegenheiten ihres Amtes
-zu verpflichten. Er soll die Beisitzer auf § 24 des Gesetzes über
-Arbeitnehmererfindungen hinweisen. Über die Verpflichtung soll eine
-Niederschrift aufgenommen werden, die der Verpflichtete mit zu
+ersten Dienstleistung auf die Erfüllung der Obliegenheiten ihres
+Amtes zu verpflichten. Er soll die Beisitzer auf § 24 des Gesetzes
+über Arbeitnehmererfindungen hinweisen. Über die Verpflichtung soll
+eine Niederschrift aufgenommen werden, die der Verpflichtete mit zu
 unterzeichnen hat.
 
 
 ## § 6 Zurückziehung eines Beisitzers
 
 (1) Vorschläge für die Bestellung als Beisitzer können von der
-Organisation, die sie eingereicht hat, zurückgezogen werden. Die
-Zurückziehung ist dem Präsidenten des Patentamts schriftlich
+Organisation, die sie eingereicht hat, zurückgezogen werden.
+Die Zurückziehung ist dem Präsidenten des Patentamts schriftlich
 mitzuteilen.
 
 (2) Der Präsident des Patentamts hat nach Eingang der Mitteilung über
@@ -179,10 +161,10 @@ vorgeschlagenen Beisitzer unverzüglich schriftlich mitzuteilen.
 
 ## § 7 Abberufung eines Beisitzers
 
-(1) Der Präsident des Patentamts darf einen vorgeschlagenen Beisitzer
-nicht bestellen und hat einen bereits bestellten Beisitzer
-unverzüglich abzuberufen, wenn das Fehlen einer Voraussetzung für die
-Bestellung (§§ 1 bis 3) nachträglich bekannt wird oder eine
+(1) Der Präsident des Patentamts darf einen vorgeschlagenen
+Beisitzer nicht bestellen und hat einen bereits bestellten Beisitzer
+unverzüglich abzuberufen, wenn das Fehlen einer Voraussetzung für
+die Bestellung (§§ 1 bis 3) nachträglich bekannt wird oder eine
 Voraussetzung nachträglich fortfällt. Er hat hiervon die Organisation,
 die den Beisitzer vorgeschlagen hat, und den Beisitzer unverzüglich
 schriftlich zu unterrichten.
@@ -197,10 +179,10 @@ verletzt.
 
 Die Beisitzer erhalten eine Entschädigung nach Maßgabe der §§ 2, 3, 5
 bis 7 und 16 bis 18 des Justizvergütungs- und -entschädigungsgesetzes;
-§ 4 dieses Gesetzes gilt entsprechend. Die Entschädigung wird von dem
-Vorsitzenden der Schiedsstelle festgesetzt. Für die gerichtliche
-Festsetzung ist das Verwaltungsgericht zuständig, in dessen Bezirk die
-Schiedsstelle ihren Sitz hat. Die Festsetzung kann von dem
+§ 4 dieses Gesetzes gilt entsprechend. Die Entschädigung wird von
+dem Vorsitzenden der Schiedsstelle festgesetzt. Für die gerichtliche
+Festsetzung ist das Verwaltungsgericht zuständig, in dessen Bezirk
+die Schiedsstelle ihren Sitz hat. Die Festsetzung kann von dem
 Vorsitzenden der Schiedsstelle auf das Patentamt übertragen werden.
 
 

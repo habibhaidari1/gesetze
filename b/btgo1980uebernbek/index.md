@@ -18,8 +18,8 @@ Fundstelle
 
 ## (XXXX)
 
-Der Deutsche Bundestag hat in seiner konstituierenden Sitzung am 27.
-Oktober 2009 beschlossen, die Geschäftsordnung des Deutschen
+Der Deutsche Bundestag hat in seiner konstituierenden Sitzung am
+27\. Oktober 2009 beschlossen, die Geschäftsordnung des Deutschen
 Bundestages einschließlich ihrer Anlagen, soweit sie vom Deutschen
 Bundestag zu beschließen sind, in der Fassung der Bekanntmachung vom
 2\. Juli 1980 (BGBl. I S. 1237), zuletzt geändert laut Bekanntmachung

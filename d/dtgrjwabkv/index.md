@@ -1,7 +1,5 @@
 ---
-Title: Verordnung zu dem Abkommen vom 4. Juli 2019 zwischen der Regierung der Bundesrepublik
-  Deutschland und der Regierung der Hellenischen Republik über das Deutsch-Griechische
-  Jugendwerk
+Title: Verordnung zu dem Abkommen vom 4. Juli 2019 zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Hellenischen Republik über das Deutsch-Griechische Jugendwerk
 jurabk: DtGrJWAbkV
 layout: default
 origslug: dtgrjwabkv
@@ -17,8 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 2019, 1046 (2021 II 318)
 
-Stand: Die V tritt gem. Art. 2 Abs. 2 an dem Tag außer Kraft, an dem das Abkommen nach seinem Artikel 14 für die Bundesrepublik Deutschland außer Kraft tritt
-Stand: V gem. Art. 2 Abs. 1 iVm Bek. v. 1.4.2021 II 318 am 12.1.2021 in Kraft getreten
+Stand
+:   Die V tritt gem. Art. 2 Abs. 2 an dem Tag außer Kraft, an dem das Abkommen nach seinem Artikel 14 für die Bundesrepublik Deutschland außer Kraft tritt
+
+Stand
+:   V gem. Art. 2 Abs. 1 iVm Bek. v. 1.4.2021 II 318 am 12.1.2021 in Kraft getreten
+
 
 ## Eingangsformel
 
@@ -27,17 +29,17 @@ Beitritt der Bundesrepublik Deutschland zum Abkommen über die
 Vorrechte und Befreiungen der Sonderorganisationen der Vereinten
 Nationen vom 21. November 1947 und über die Gewährung von Vorrechten
 und Befreiungen an andere zwischenstaatliche Organisationen (BGBl.
-1954 II S. 639), der durch Artikel 4 des Gesetzes vom 16. August 1980
-(BGBl. 1980 II S. 941) neu gefasst worden ist, verordnet die
+1954 II S. 639), der durch Artikel 4 des Gesetzes vom 16. August
+1980 (BGBl. 1980 II S. 941) neu gefasst worden ist, verordnet die
 Bundesregierung:
 
 
 ## Art 1
 
-Dem Deutsch-Griechischen Jugendwerk werden die in Artikel 1 Absatz 2
-und Artikel 11 Absatz 1 des Abkommens vom 4. Juli 2019 zwischen der
-Regierung der Bundesrepublik Deutschland und der Regierung der
-Hellenischen Republik über das Deutsch-Griechische Jugendwerk
+Dem Deutsch-Griechischen Jugendwerk werden die in Artikel 1 Absatz
+2 und Artikel 11 Absatz 1 des Abkommens vom 4. Juli 2019 zwischen
+der Regierung der Bundesrepublik Deutschland und der Regierung
+der Hellenischen Republik über das Deutsch-Griechische Jugendwerk
 niedergelegten Vorrechte gewährt. Das Abkommen wird nachstehend
 veröffentlicht.
 

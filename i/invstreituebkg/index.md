@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zu dem Übereinkommen vom 18. März 1965 zur Beilegung von Investitionsstreitigkeiten
-  zwischen Staaten und Angehörigen anderer Staaten
+Title: Gesetz zu dem Übereinkommen vom 18. März 1965 zur Beilegung von Investitionsstreitigkeiten zwischen Staaten und Angehörigen anderer Staaten
 jurabk: InvStreitÜbkG
 layout: default
 origslug: invstreit_bkg
@@ -38,10 +37,10 @@ nachstehend veröffentlicht.
 ## Art 2
 
 (1) Die auf Grund des Übereinkommens ergangenen Schiedssprüche
-(Artikel 53 Abs. 2 des Übereinkommens) sind vollstreckbar, wenn die
-Zulässigkeit der Zwangsvollstreckung aus dem Schiedsspruch gerichtlich
-festgestellt worden ist. Hat ein Verfahren nach Artikel 50 des
-Übereinkommens stattgefunden, so ist festzustellen, daß die
+(Artikel 53 Abs. 2 des Übereinkommens) sind vollstreckbar, wenn
+die Zulässigkeit der Zwangsvollstreckung aus dem Schiedsspruch
+gerichtlich festgestellt worden ist. Hat ein Verfahren nach Artikel
+50 des Übereinkommens stattgefunden, so ist festzustellen, daß die
 Zwangsvollstreckung aus dem Schiedsspruch in Verbindung mit der
 Entscheidung über die Auslegung des Schiedsspruches zulässig ist.
 
@@ -67,13 +66,13 @@ aufgehoben worden ist.
 
 ## Art 3
 
-Wird die Zwangsvollstreckung des Schiedsspruches ausgesetzt (Artikel
-50 Abs. 2 Satz 3, Artikel 51 Abs. 4, Artikel 52 Abs. 5 des
-Übereinkommens), so ist auf Antrag des Schuldners das Verfahren, in
-dem die Zulässigkeit der Zwangsvollstreckung festgestellt wird,
+Wird die Zwangsvollstreckung des Schiedsspruches ausgesetzt
+(Artikel 50 Abs. 2 Satz 3, Artikel 51 Abs. 4, Artikel 52 Abs. 5 des
+Übereinkommens), so ist auf Antrag des Schuldners das Verfahren,
+in dem die Zulässigkeit der Zwangsvollstreckung festgestellt wird,
 auszusetzen oder die Zwangsvollstreckung einstweilen einzustellen.
-Endet die Aussetzung der Vollstreckung des Schiedsspruches, so wird
-das Verfahren, in dem die Zulässigkeit der Zwangsvollstreckung
+Endet die Aussetzung der Vollstreckung des Schiedsspruches, so
+wird das Verfahren, in dem die Zulässigkeit der Zwangsvollstreckung
 festgestellt wird, auf Antrag fortgesetzt; das Vollstreckungsgericht
 entscheidet auf Antrag des Gläubigers über die Fortsetzung des
 Zwangsvollstreckungsverfahrens.
@@ -89,7 +88,7 @@ Anwendung dieses Gesetzes feststellt.
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 
-(2) Der Tag, an dem das Übereinkommen nach seinem Artikel 68 Abs. 2
-für die Bundesrepublik Deutschland in Kraft tritt, ist im
+(2) Der Tag, an dem das Übereinkommen nach seinem Artikel 68
+Abs. 2 für die Bundesrepublik Deutschland in Kraft tritt, ist im
 Bundesgesetzblatt bekanntzugeben.
 

@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Anwendung von Vorschriften des Bundesberggesetzes auf die
-  Bergbau-Versuchsstrecke
+Title: Verordnung über die Anwendung von Vorschriften des Bundesberggesetzes auf die Bergbau-Versuchsstrecke
 jurabk: BergbVersStrV
 layout: default
 origslug: bergbversstrv
@@ -17,7 +16,7 @@ Fundstelle
 :   BGBl I: 1982, 1553, 1560
 
 Geändert durch
-:   Art. 3 V v. 10. 8.2005 I 2452
+:   Art. 3 V v. 10.8.2005 I 2452
 
 
 ## § 1 Anwendung von Vorschriften des Bundesberggesetzes
@@ -31,12 +30,12 @@ Nr. 6, 9, 14 bis 16 und 18 des Bundesberggesetzes entsprechend.
 (1) Die nach § 51 des Bundesberggesetzes für die Errichtung oder
 Führung des Betriebes erforderlichen Betriebspläne sind innerhalb
 eines Monats nach Inkrafttreten dieser Verordnung der zuständigen
-Behörde einzureichen. Ist der Betriebsplan fristgemäß eingereicht, so
-bedarf es für die Errichtung oder Fortführung des Betriebes bis zur
-Unanfechtbarkeit der Entscheidung über die Zulassung keines
-zugelassenen Betriebsplanes. Betriebspläne, die nach dem bis zum 1.
-Januar 1982 geltenden Allgemeinen Berggesetz zugelassen worden sind
-und eine Laufzeit über den Zeitpunkt des Inkrafttretens dieser
+Behörde einzureichen. Ist der Betriebsplan fristgemäß eingereicht,
+so bedarf es für die Errichtung oder Fortführung des Betriebes bis
+zur Unanfechtbarkeit der Entscheidung über die Zulassung keines
+zugelassenen Betriebsplanes. Betriebspläne, die nach dem bis zum
+1\. Januar 1982 geltenden Allgemeinen Berggesetz zugelassen worden
+sind und eine Laufzeit über den Zeitpunkt des Inkrafttretens dieser
 Verordnung hinaus haben, gelten für die restliche Dauer ihrer Laufzeit
 als im Sinne des Bundesberggesetzes zugelassen.
 
@@ -53,10 +52,10 @@ weiter beschäftigt sind, nach Maßgabe der ihnen übertragenen Aufgaben
 und Befugnisse als verantwortliche Personen. Satz 2 gilt von dem
 Zeitpunkt ab nicht, von dem ab nach einer auf Grund des § 129 Abs. 2
 in Verbindung mit § 66 Satz 1 Nr. 9 des Bundesberggesetzes erlassenen
-Bergverordnung die Fachkunde der in Satz 2 genannten Personen für die
-ihnen übertragenen Geschäftskreise oder Aufgaben und Befugnisse wegen
-der in der Bergverordnung gestellten Anforderungen nicht ausreicht
-oder der Unternehmer ihre Bestellung im Sinne des § 59 des
+Bergverordnung die Fachkunde der in Satz 2 genannten Personen für
+die ihnen übertragenen Geschäftskreise oder Aufgaben und Befugnisse
+wegen der in der Bergverordnung gestellten Anforderungen nicht
+ausreicht oder der Unternehmer ihre Bestellung im Sinne des § 59 des
 Bundesberggesetzes ändert.
 
 

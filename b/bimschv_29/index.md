@@ -21,9 +21,9 @@ Zuletzt geändert durch
 
 ## Eingangsformel
 
-Auf Grund des § 33 Abs. 1 Nr. 4 des Bundes-Immissionsschutzgesetzes in
-der Fassung der Bekanntmachung vom 14. Mai 1990 (BGBl. I S. 880), der
-zuletzt durch Artikel 8 Nr. 9 Buchstabe a Doppelbuchstabe bb des
+Auf Grund des § 33 Abs. 1 Nr. 4 des Bundes-Immissionsschutzgesetzes
+in der Fassung der Bekanntmachung vom 14. Mai 1990 (BGBl. I S. 880),
+der zuletzt durch Artikel 8 Nr. 9 Buchstabe a Doppelbuchstabe bb des
 Gesetzes vom 22. April 1993 (BGBl. I S. 466) geändert worden ist, in
 Verbindung mit dem 2. Abschnitt des Verwaltungskostengesetzes vom 23.
 Juni 1970 (BGBl. I S. 821) verordnet die Bundesregierung nach Anhörung
@@ -34,8 +34,8 @@ der beteiligten Kreise:
 
 Für Amtshandlungen nach der Verordnung über Emissionsgrenzwerte für
 Verbrennungsmotoren werden Gebühren nach dieser Verordnung erhoben.
-Die gebührenpflichtigen Tatbestände und die Gebührensätze ergeben sich
-aus dem Gebührentarif für Maßnahmen bei Typprüfungen von
+Die gebührenpflichtigen Tatbestände und die Gebührensätze ergeben
+sich aus dem Gebührentarif für Maßnahmen bei Typprüfungen von
 Verbrennungsmotoren (Anlage).
 
 
@@ -47,7 +47,6 @@ Verbrennungsmotoren (Anlage).
 
 1.  Entgelte im Zustell-, insbesondere Einschreibverfahren,
 
-
 2.  die bei Geschäften außerhalb der Dienststelle den Bediensteten auf
     Grund gesetzlicher oder tarifvertraglicher Regelungen gewährten
     Vergütungen (Reisekostenvergütung, Auslagenersatz) und die Kosten für
@@ -55,17 +54,12 @@ Verbrennungsmotoren (Anlage).
     Landesbedienstete sind, gelten die Vorschriften über die Vergütung der
     Reisekosten der Bundesbeamten entsprechend,
 
-
 3.  die Aufwendungen für den Einsatz von Dienstwagen bei Dienstgeschäften
     außerhalb der Dienststelle,
-
 
 4.  die Kosten für Überprüfungen der Konformität der Produktion nach
     international vereinbartem Recht, wenn ein Verstoß gegen diese
     Vorschriften nachgewiesen wird.
-
-
-
 
 (3) Soweit die Auslagen insgesamt 2,50 Euro übersteigen, kann die
 Erstattung auch verlangt werden, wenn der Kostenschuldner seinerseits
@@ -90,8 +84,8 @@ der Widerspruchsgebühr.
 ## § 4 Widerruf, Rücknahme, Ablehnung und Zurücknahme von Anträgen
 
 Für den Widerruf oder die Rücknahme einer Amtshandlung, die Ablehnung
-eines Antrags auf Vornahme einer Amtshandlung sowie in den Fällen der
-Zurücknahme eines Antrags auf Vornahme einer Amtshandlung werden
+eines Antrags auf Vornahme einer Amtshandlung sowie in den Fällen
+der Zurücknahme eines Antrags auf Vornahme einer Amtshandlung werden
 Gebühren nach Maßgabe des § 15 des Verwaltungskostengesetzes erhoben.
 
 
@@ -107,115 +101,21 @@ Der Bundesrat hat zugestimmt.
 
 ## Anlage (zu § 1)
 
-
-*    *   (Fundstelle des Originaltextes: BGBl. I 2000, 736;
-        bzgl. der einzelnen Änderungen vgl. Fußnote)
-
-
-*    *
-
-*    *   Gebührentarif für Maßnahmen bei Typprüfungen von Verbrennungsmotoren
-
-
-*    *   Gebühren-Nr.
-
-    *   Gegenstand
-
-    *   Gebühr Euro
-
-
-*    *   1
-
-    *   Erteilung einer Typgenehmigung
-
-    *   655
-
-
-*    *   2
-
-    *   Änderung einer Genehmigung
-
-    *
-
-*    *   2.1
-
-    *   ohne Gutachten
-
-    *   165
-
-
-*    *   2.2
-
-    *   mit Gutachten
-
-    *   327
-
-
-*    *   2.3
-
-    *   Änderungen ohne Gutachten für mehrere Genehmigungen gleichzeitig auf
-        Grund desselben Sachverhalts
-
-    *   Gebühr nach Gebührennummer 2.1 (einmalig) zzgl. 19,- Euro pro weiterer
-        Änderung
-
-
-*    *   3
-
-    *   Erteilung einer Ausnahmegenehmigung
-
-    *   129
-
-
-*    *   4
-
-    *   Überprüfung der Übereinstimmung der Produktion mit der erteilen
-        Typgenehmigung bei
-
-    *
-
-*    *   4.1
-
-    *   Feststellung eines Verstoßes gegen Mitteilungspflichten
-
-    *   138
-
-
-*    *   4.2
-
-    *   Abweichung vom genehmigten Typ oder der genehmigten Motorenfamilie
-
-    *   353
-
-
-*    *   5
-
-    *   Anfangsbewertung von Fertigungsstätten
-
-    *
-
-*    *   5.1
-
-    *   Herstellerbericht für Unternehmen mit einer Fertigungsstätte
-
-    *   700
-
-
-*    *   5.2
-
-    *   Herstellerbericht je weitere Fertigungsstätte
-
-    *   550
-
-
-*    *   6
-
-    *   Sonstige Maßnahmen im Zusammenhang mit Genehmigungen von
-        Verbrennungsmotoren nach Personal- und Sachaufwand je Stunde und
-        Person
-
-    *   40 bis 90
-
-
-
+| (Fundstelle des Originaltextes: BGBl. I 2000, 736;  bzgl. der einzelnen Änderungen vgl. Fußnote) |  |  |
+| --- | --- | --- |
+| Gebührentarif für Maßnahmen bei Typprüfungen von Verbrennungsmotoren |  |  |
+| Gebühren-Nr. | Gegenstand | Gebühr Euro |
+| 1 | Erteilung einer Typgenehmigung | 655 |
+| 2 | Änderung einer Genehmigung |  |
+| 2.1 | ohne Gutachten | 165 |
+| 2.2 | mit Gutachten | 327 |
+| 2.3 | Änderungen ohne Gutachten für mehrere Genehmigungen gleichzeitig auf Grund desselben Sachverhalts | Gebühr nach Gebührennummer 2.1 (einmalig) zzgl. 19,- Euro pro weiterer Änderung |
+| 3 | Erteilung einer Ausnahmegenehmigung | 129 |
+| 4 | Überprüfung der Übereinstimmung der Produktion mit der erteilen Typgenehmigung bei |  |
+| 4.1 | Feststellung eines Verstoßes gegen Mitteilungspflichten | 138 |
+| 4.2 | Abweichung vom genehmigten Typ oder der genehmigten Motorenfamilie | 353 |
+| 5 | Anfangsbewertung von Fertigungsstätten |  |
+| 5.1 | Herstellerbericht für Unternehmen mit einer Fertigungsstätte | 700 |
+| 5.2 | Herstellerbericht je weitere Fertigungsstätte | 550 |
+| 6 | Sonstige Maßnahmen im Zusammenhang mit Genehmigungen von Verbrennungsmotoren nach Personal- und Sachaufwand je Stunde und Person | 40 bis 90 |
 

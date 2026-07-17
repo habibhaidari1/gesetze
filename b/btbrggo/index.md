@@ -1,6 +1,5 @@
 ---
-Title: Gemeinsame Geschäftsordnung des Bundestages und des Bundesrates für den Ausschuß
-  nach Artikel 77 des Grundgesetzes (Vermittlungsausschuß)
+Title: Gemeinsame Geschäftsordnung des Bundestages und des Bundesrates für den Ausschuß nach Artikel 77 des Grundgesetzes (Vermittlungsausschuß)
 jurabk: BTBRGGO
 layout: default
 origslug: btbrggo
@@ -107,10 +106,10 @@ anderer Antrag zur Sache ist nicht zulässig.
 Gesetzesbeschlusses vor, so ist in ihm zu bestimmen, ob und inwieweit
 im Bundestag über Änderungen gemeinsam abzustimmen ist. Enthält der
 Einigungsvorschlag Änderungen des Grundgesetzes, ist jede Abweichung
-des Einigungsvorschlages vom Wortlaut des vom Bundestag gemäß Artikel
-79 Abs. 2 des Grundgesetzes beschlossenen Gesetzes einzeln
-abzustimmen. Erfolgt eine Einzelabstimmung über mehrere Änderungen, so
-ist eine Schlußabstimmung über den Einigungsvorschlag im ganzen
+des Einigungsvorschlages vom Wortlaut des vom Bundestag gemäß
+Artikel 79 Abs. 2 des Grundgesetzes beschlossenen Gesetzes einzeln
+abzustimmen. Erfolgt eine Einzelabstimmung über mehrere Änderungen,
+so ist eine Schlußabstimmung über den Einigungsvorschlag im ganzen
 erforderlich.
 
 
@@ -135,8 +134,8 @@ sich keine Mehrheit für einen Einigungsvorschlag findet.
 (3) Auf andere Weise kann das Verfahren ohne Einigungsvorschlag nicht
 abgeschlossen werden.
 
-(4) Der Vorsitzende hat den Abschluß des Verfahrens festzustellen und
-unverzüglich dem Präsidenten des Bundestages und des Bundesrates
+(4) Der Vorsitzende hat den Abschluß des Verfahrens festzustellen
+und unverzüglich dem Präsidenten des Bundestages und des Bundesrates
 mitzuteilen.
 
 

@@ -16,17 +16,17 @@ Fundstelle
 :   BGBl I: 1977, 3138
 
 Neugefasst durch
-:   Bek. v. 18.1.1995 I 46;
+:   Bek. v. 18.1.1995 I 46
 
 Zuletzt geändert durch
-:   Art. 7 V v. 4.1.2019 I 2
+:   Art. 1 V v. 21.5.2026 I Nr. 168
 
 
 ## § 1 Anwendungsbereich
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der
-Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union
-über Vermarktungsnormen für Eier.
+Rechtsakte der Europäischen Union über Vermarktungsnormen für Eier
+(Vermarktungsnormen).
 
 
 ## § 1a Ausnahmen
@@ -48,6 +48,30 @@ Sortierung nach Güte- und Gewichtsklassen vorgenommen worden ist.
 Umkreis von nicht mehr als 100 km vom Ort der Produktionsstätte
 gelegen ist.
 
+(3) Abweichend von Anhang VII Teil VI Abschnitt III Nummer 2 der
+Verordnung (EU) Nr. 1308/2013 können Eier mit dem Erzeugercode
+gekennzeichnet werden
+
+1.  in der Packstelle der zugehörigen Produktionsstätte für den Fall, dass
+    sich Packstelle und Produktionsstätte auf demselben Betriebsgelände
+    befinden,
+
+2.  in der ersten Packstelle, an die die Eier geliefert werden, sofern die
+    Produktionsstätte nicht über eine automatisierte Eiersammlung verfügt
+    oder
+
+3.  in der ersten Packstelle, an die die Eier geliefert werden, sofern
+    eine Kennzeichnung aus technischen Gründen vorübergehend nicht möglich
+    ist.
+
+Eine Kennzeichnung nach Satz 1 hat unverzüglich nach der Anlieferung
+in der Packstelle zu erfolgen. Eine Kennzeichnung nach Satz 1 ist der
+zuständigen Behörde vorab anzuzeigen, im Fall des Satzes 1 Nummer 1
+und 2 jedoch nur vor der erstmaligen Kennzeichnung in der jeweiligen
+Packstelle. Die zuständige Behörde kann für Anzeigen nach Satz 3
+Muster im Bundesanzeiger bekannt geben; sofern Muster bekannt gegeben
+sind, sind diese zu verwenden.
+
 
 ## § 1b Verbot des Inverkehrbringens
 
@@ -57,318 +81,321 @@ Anhang VII Teil VI Abschnitt I Nummer 1 der Verordnung (EU) Nr.
 2013 über eine gemeinsame Marktorganisation für landwirtschaftliche
 Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG)
 Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom
-20\.12.2013, S. 671) in Verbindung mit
+20\.12.2013, S. 671; L 189 vom 27.6.2014, S. 261; L 130 vom 19.5.2016,
+S. 18; L 34 vom 9.2.2017, S. 41; L 106 vom 6.4.2020, S. 12), die
+zuletzt durch die Verordnung (EU) 2021/2117 (ABl. L 435 vom 6.12.2021,
+S. 262) geändert worden ist, in Verbindung mit
 
 1.  Anhang VII Teil VI Abschnitt II Nummer 1 oder Nummer 2 Satz 1 der
-    Verordnung (EU) Nr. 1308/2013 in Verbindung mit Artikel 2 Absatz 1, 2,
-    3 Satz 1 oder Absatz 4 Satz 1 oder Artikel 4 Absatz 1 der Verordnung
-    (EG) Nr. 589/2008 der Kommission vom 23. Juni 2008 mit
-    Durchführungsbestimmungen zur Verordnung (EG) Nr. 1234/2007 des Rates
-    hinsichtlich der Vermarktungsnormen für Eier (ABl. L 163 vom
-    24\.6.2008, S. 6), die zuletzt durch die Verordnung (EU) Nr. 519/2013
-    (ABl. L 158 vom 10.6.2013, S. 74) geändert worden ist, Eier zum
-    Verkauf vorrätig zu halten, anzubieten, feilzuhalten, zu liefern, zu
-    verkaufen oder sonst in den Verkehr zu bringen, die nicht oder nicht
-    richtig nach den vorgeschriebenen Güteklassen eingeteilt oder nicht
-    oder nicht richtig nach Gewichtsklassen sortiert sind,
+    Verordnung (EU) Nr. 1308/2013 in Verbindung mit Artikel 3 Absatz 1
+    oder Absatz 2, Artikel 4 Absatz 1, Absatz 2 Satz 1 oder Artikel 5
+    Absatz 1 der Delegierten Verordnung (EU) 2023/2465 Eier zum Verkauf
+    vorrätig zu halten, anzubieten, feilzuhalten, zu liefern, zu verkaufen
+    oder sonst in den Verkehr zu bringen, die nicht oder nicht richtig
+    nach den vorgeschriebenen Güteklassen eingeteilt oder nicht oder nicht
+    richtig nach Gewichtsklassen sortiert sind,
 
+2.  Anhang VII Teil VI Abschnitt II Nummer 3 der Verordnung (EU)
+    Nr. 1308/2013 Eier der Klasse B an andere als die dort genannten
+    Einrichtungen zu liefern,
 
-2.  Anhang VII Teil VI Abschnitt II Nummer 3 Eier der Klasse B an andere
-    als die dort genannten Einrichtungen zu liefern,
+3.  Anhang VII Teil VI Abschnitt III Nummer 1 Unterabsatz 1 oder
+    Unterabsatz 2, Nummer 2 oder Nummer 3 Unterabsatz 1 der Verordnung
+    (EU) Nr. 1308/2013 Eier zum Verkauf vorrätig zu halten, anzubieten,
+    feilzuhalten, zu liefern, zu verkaufen oder sonst in den Verkehr
+    zu bringen, die den dort genannten Anforderungen an Angaben oder
+    Kennzeichnung nicht entsprechen, oder
 
-
-3.  Anhang VII Teil VI Abschnitt III Nummer 1 Unterabsatz 1 oder 2, Nummer
-    2 oder 3 Unterabsatz 1 Eier zum Verkauf vorrätig zu halten,
-    anzubieten, feilzuhalten, zu liefern, zu verkaufen oder sonst in den
-    Verkehr zu bringen, die den dort genannten Anforderungen an Angaben
-    oder Kennzeichnung nicht entsprechen.
-
-
-
+4.  Anhang VII Teil VI Abschnitt III Nummer 2a der Verordnung (EU) Nr.
+    1308/2013 Eier an einem anderen Ort als der Produktionsstätte zu
+    kennzeichnen, ohne dass die Voraussetzungen des § 1a Absatz 3 erfüllt
+    sind.
 
 (2) Es ist verboten,
 
 1.  Eier zum Verkauf vorrätig zu halten, anzubieten, feilzuhalten, zu
-    liefern, zu verkaufen oder sonst in den Verkehr zu bringen, die den in
-    Artikel 4 Absatz 2 Satz 1 erster Halbsatz oder Absatz 3, Artikel 6,
-    Artikel 7 Absatz 1 Satz 1 oder Absatz 3, Artikel 8 Absatz 1 oder
-    Absatz 5, Artikel 9 Absatz 1, Artikel 12 Absatz 1 oder 2 Unterabsatz
-    1, 2 oder Unterabsatz 3 oder Absatz 4, Artikel 13, Artikel 14 oder
-    Artikel 15 der Verordnung (EG) Nr. 589/2008 genannten Anforderungen an
-    die Kennzeichnung, Etikettierung, Stempelung, Angabe, Erklärung oder
-    einem dort genannten Hinweis nicht entsprechen,
-
+    liefern, zu verkaufen oder sonst in den Verkehr zu bringen, die
+    den in Artikel 5 Absatz 2 erster Halbsatz oder Absatz 3, Artikel 6,
+    Artikel 7 Absatz 1 Satz 1, Absatz 2 Unterabsatz 1 Satz 1 oder Absatz
+    3, Artikel 8 Absatz 1 oder Absatz 5, Artikel 9, Artikel 11 Absatz 1,
+    Absatz 2 oder Absatz 4, Artikel 12, Artikel 13 oder Artikel 14 der
+    Delegierten Verordnung (EU) 2023/2465 oder in Artikel 4 Unterabsatz
+    1 der Durchführungsverordnung (EU) 2023/2466 der Kommission vom 17.
+    August 2023 mit Durchführungsbestimmungen zur Verordnung (EU) Nr.
+    1308/2013 des Europäischen Parlaments und des Rates hinsichtlich der
+    Vermarktungsnormen für Eier (ABl. L, 2023/2466, 8.11.2023) genannten
+    Anforderungen an die Kennzeichnung, Etikettierung, Stempelung, Angabe,
+    Erklärung oder einem dort genannten Hinweis nicht entsprechen,
 
 2.  Eier zum Verkauf vorrätig zu halten, anzubieten, feilzuhalten, zu
-    liefern, zu verkaufen oder sonst in den Verkehr zu bringen, die nicht
-    in einer nach Artikel 5 Absatz 1 der Verordnung (EG) Nr. 589/2008
-    zugelassenen Packstelle sortiert, verpackt und gekennzeichnet worden
-    sind,
-
+    liefern, zu verkaufen oder sonst in den Verkehr zu bringen, die
+    nicht in einer nach Artikel 3 Absatz 1 der Durchführungsverordnung
+    (EU) 2023/2466 zugelassenen Packstelle sortiert, verpackt und
+    gekennzeichnet worden sind,
 
 3.  Eier zum Verkauf vorrätig zu halten, anzubieten, feilzuhalten, zu
     liefern, zu verkaufen oder sonst in den Verkehr zu bringen, die nicht
     in einer Packstelle sortiert, verpackt und gekennzeichnet worden sind,
-    die den in Artikel 5 Absatz 3 Satz 1 der Verordnung (EG) Nr. 589/2008
-    genannten technischen Anforderungen entspricht,
-
+    die den in Artikel 3 Absatz 3 Satz 1 der Durchführungsverordnung (EU)
+    2023/2466 genannten technischen Anforderungen entspricht,
 
 4.  Eier zum Verkauf vorrätig zu halten, anzubieten, feilzuhalten, zu
-    liefern, zu verkaufen oder sonst in den Verkehr zu bringen, die den in
-    Artikel 6 der Verordnung (EG) Nr. 589/2008 genannten Anforderungen an
-    die Sortierung und Verpackung nicht entsprechen,
-
+    liefern, zu verkaufen oder sonst in den Verkehr zu bringen, die den
+    in Artikel 6 der Delegierten Verordnung (EU) 2023/2465 genannten
+    Anforderungen an die Sortierung und Verpackung nicht entsprechen,
 
 5.  Eier zum Verkauf vorrätig zu halten, anzubieten, feilzuhalten, zu
-    liefern, zu verkaufen oder sonst in den Verkehr zu bringen, die den in
-    Artikel 17 der Verordnung (EG) Nr. 589/2008 genannten Anforderungen an
-    die Verpackungen nicht entsprechen,
-
+    liefern, zu verkaufen oder sonst in den Verkehr zu bringen, die den
+    in Artikel 15 der Delegierten Verordnung (EU) 2023/2465 genannten
+    Anforderungen an die Verpackungen nicht entsprechen,
 
 6.  Eier zum Verkauf vorrätig zu halten, anzubieten, feilzuhalten, zu
-    liefern, zu verkaufen oder sonst in den Verkehr zu bringen, die den in
-    Artikel 18 der Verordnung (EG) Nr. 589/2008 enthaltenen Anforderungen
-    an eine Angabe, eine Banderole oder ein Etikett nicht entsprechen,
+    liefern, zu verkaufen oder sonst in den Verkehr zu bringen, die den
+    in Artikel 16 der Delegierten Verordnung (EU) 2023/2465 enthaltenen
+    Anforderungen an eine Angabe, eine Banderole oder ein Etikett nicht
+    entsprechen,
 
+7.  umgepackte Eier zum Verkauf vorrätig zu halten, anzubieten,
+    feilzuhalten, zu liefern, zu verkaufen oder sonst in den Verkehr zu
+    bringen, die nicht durch eine Packstelle entsprechend Artikel 17 Satz
+    1 der Delegierten Verordnung (EU) 2023/2465 umgepackt wurden,
 
-7.  Eier zum Verkauf vorrätig zu halten, anzubieten, feilzuhalten, zu
-    liefern, zu verkaufen oder sonst in den Verkehr zu bringen, die den in
-    Artikel 30 Absatz 2 oder Absatz 3 der Verordnung (EG) Nr. 589/2008
-    genannten Anforderungen an Angaben oder Kennzeichnungen nicht
-    entsprechen.
+8.  umgepackte Eier zum Verkauf vorrätig zu halten, anzubieten,
+    feilzuhalten, zu liefern, zu verkaufen oder sonst in den Verkehr zu
+    bringen, die nicht partieweise entsprechend Artikel 17 Satz 2 der
+    Delegierten Verordnung (EU) 2023/2465 umgepackt wurden,
 
-
-
+9.  Eier zum Verkauf vorrätig zu halten, anzubieten, feilzuhalten, zu
+    liefern, zu verkaufen oder sonst in den Verkehr zu bringen, die
+    den in Artikel 22 Absatz 3 oder 4 der Delegierten Verordnung (EU)
+    2023/2465 genannten Anforderungen an Angaben oder Kennzeichnungen
+    nicht entsprechen.
 
 
 ## § 2 Rechnungen, Lieferscheine und sonstige Transportbegleitpapiere
 
-In Rechnungen, Lieferscheinen und sonstigen Transportbegleitpapieren,
-ausgenommen in Papieren der genannten Art des Einzelhandels, sind die
-Güte- und Gewichtsklassen anzugeben, unter denen die Eier jeweils
-geliefert, verkauft oder sonst in den Verkehr gebracht worden sind.
+Wer Eier liefert, verkauft oder sonst in den Verkehr bringt, die
+nach Güte- oder Gewichtsklassen sortiert sind, hat auf jeder Stufe
+der Lieferkette mit Ausnahme des Einzelhandels in Rechnungen,
+Lieferscheinen und sonstigen Transportbegleitpapieren die Güte- oder
+Gewichtsklassen anzugeben, unter denen die Eier jeweils geliefert,
+verkauft oder sonst in den Verkehr gebracht worden sind.
 
 
-## § 3 (weggefallen)
+## § 3 Antrag auf Zulassung einer Packstelle
 
+(1) Die Zulassung einer Packstelle nach Artikel 3 Absatz 2 der
+Durchführungsverordnung (EU) 2023/2466 erfolgt auf Antrag des
+Betreibers bei der zuständigen Landesbehörde. Der Antrag muss
+mindestens den Namen, die Anschrift und die Telekommunikationsdaten
+des Betriebes sowie des Betriebsinhabers enthalten.
 
-
-## § 3a
-
-(weggefallen)
+(2) Eine Änderung der Räumlichkeiten der Packstelle oder der
+technischen Anlagen sind der zuständigen Behörde unverzüglich
+anzuzeigen.
 
 
 ## § 4 Marktnotierungen
 
-Börsen, Verwaltungen öffentlicher Märkte und sonstige Stellen, die
-amtliche oder für gesetzlich vorgesehene Zwecke bestimmte
+Börsen, Verwaltungen öffentlicher Märkte und sonstige Stellen,
+die amtliche oder für gesetzlich vorgesehene Zwecke bestimmte
 Preisnotierungen oder Preisfeststellungen für Eier vornehmen, sind
 verpflichtet, ihren Notierungen oder Feststellungen die Güte- und
-Gewichtsklassen zugrundezulegen.
+Gewichtsklassen zugrunde zu legen.
 
 
-## § 5 Verfahren bei Direktlieferungen ungekennzeichneter Eier
+## § 5 Verfahren bei Direktlieferung ungekennzeichneter Eier
 
-(1) Der Antrag einer in Deutschland ansässigen Produktionsstätte nach
-Artikel 11 der Verordnung (EG) Nr. 589/2008 der Kommission vom 23.
-Juni 2008 mit Durchführungsbestimmungen zur Verordnung (EG) Nr.
-1234/2007 des Rates hinsichtlich der Vermarktungsnormen für Eier (ABl.
-L 163 vom 24.6.2008, S. 6) in der jeweils geltenden Fassung zur
-Lieferung ungekennzeichneter Eier an einen in Deutschland gelegenen
-Betrieb der Nahrungsmittelindustrie ist bei der zuständigen Behörde
-des Landes, in dem die Produktionsstätte ihren Sitz hat, zu stellen.
-Diese informiert unverzüglich die zuständige Behörde des Landes, in
-dem der Betrieb der Nahrungsmittelindustrie ansässig ist, wenn sie dem
-Antrag stattgibt.
+(1) Der Antrag des Betreibers einer in Deutschland ansässigen
+Produktionsstätte nach Artikel 10 der Delegierten Verordnung
+(EU) 2023/2465 zur Lieferung ungekennzeichneter Eier an einen in
+Deutschland gelegenen Betrieb der Nahrungsmittelindustrie ist bei
+der zuständigen Behörde des Landes, in dem die Produktionsstätte
+ihren Sitz hat, zu stellen. Diese Behörde unterrichtet unverzüglich
+die zuständige Behörde des Landes, in dem der Betrieb der
+Nahrungsmittelindustrie ansässig ist, wenn sie dem Antrag stattgibt.
 
-(2) Der Antrag einer in Deutschland ansässigen Produktionsstätte nach
-Artikel 11 der Verordnung (EG) Nr. 589/2008 zur Lieferung
-ungekennzeichneter Eier an einen in einem anderen Mitgliedstaat der
-Europäischen Union oder in einem Drittstaat gelegenen Betrieb der
-Nahrungsmittelindustrie ist bei der zuständigen Behörde des Landes, in
-dem die Produktionsstätte ihren Sitz hat, zu stellen.
+(2) Der Antrag des Betreibers einer in Deutschland ansässigen
+Produktionsstätte nach Artikel 10 der Delegierten Verordnung (EU)
+2023/2465 zur Lieferung ungekennzeichneter Eier an einen in einem
+anderen Mitgliedstaat der Europäischen Union oder in einem Drittstaat
+gelegenen Betrieb der Nahrungsmittelindustrie ist bei der zuständigen
+Behörde des Landes, in dem die Produktionsstätte ihren Sitz hat, zu
+stellen.
 
-(3) Wenn eine in einem Drittland ansässige Produktionsstätte
-ungekennzeichnete Eier nach Artikel 11 Absatz 2 Buchstabe b der
-Verordnung (EG) Nr. 589/2008 an einen in Deutschland ansässigen
-Betrieb der Nahrungsmittelindustrie liefern möchte, so hat sie dies
-bei der zuständigen Behörde des Landes, in dem der Betrieb der
-Nahrungsmittelindustrie ansässig ist, zu beantragen.
+(3) Wenn der Betreiber einer in einem Drittland ansässigen
+Produktionsstätte ungekennzeichnete Eier nach Artikel 10 Absatz 3
+der Delegierten Verordnung (EU) 2023/2465 an einen in Deutschland
+ansässigen Betrieb der Nahrungsmittelindustrie liefern möchte, so hat
+der Betreiber dies bei der zuständigen Behörde des Landes, in dem der
+Betrieb der Nahrungsmittelindustrie ansässig ist, zu beantragen.
 
 (4) Anträge nach den Absätzen 1 bis 3 müssen mindestens folgende
 Angaben enthalten:
 
 1.  Name, Anschrift und Telekommunikationsdaten des Antragstellers,
 
-
 2.  Name und Anschrift der Produktionsstätte,
 
-
-3.  Anzahl der in der Produktionsstätte registrierten Legehennenplätze,
-
+3.  Anzahl der für die Produktionsstätte registrierten Legehennenplätze,
 
 4.  Name, Anschrift und Telekommunikationsdaten des Betreibers der
     Produktionsstätte, wenn dieser vom Antragsteller abweicht,
 
-
 5.  Anzahl der Eier, die je Woche geliefert werden sollen,
 
+6.  Geltungsdauer der Ausnahme von der Pflicht zur Kennzeichnung gemäß
+    Anhang VII Teil VI Abschnitt III Nummer 1 der Verordnung (EU) Nr.
+    1308/2013,
 
-6.  Geltungsdauer der Ausnahme und Lieferdatum,
+7.  Name und Anschrift des Betriebes der Nahrungsmittelindustrie,
 
+8.  Erklärung des Unternehmens der Nahrungsmittelindustrie nach Artikel 10
+    Absatz 1 Satz 2 der Delegierten Verordnung (EU) 2023/2465.
 
-7.  Name und Anschrift des Unternehmens der Nahrungsmittelindustrie,
-
-
-8.  Erklärung des Unternehmens der Nahrungsmittelindustrie nach Artikel 11
-    Absatz 2 Buchstabe c der Verordnung (EG) Nr. 589/2008.
-
-
-
-Die zuständige Landesbehörde kann für Anträge nach den Absätzen 1 bis
-3 Muster im Bundesanzeiger bekannt geben; soweit Muster bekannt
+Die zuständige Landesbehörde kann für Anträge nach den Absätzen 1
+bis 3 Muster im Bundesanzeiger bekannt geben; sofern Muster bekannt
 gegeben sind, sind diese zu verwenden.
 
 
-## § 6 Überwachung durch die Bundesanstalt für Landwirtschaft und Ernährung, Ein- und Ausfuhr von Eiern
+## § 6 Überwachung durch die Bundesanstalt für Landwirtschaft und Ernährung, Ein- und Ausfuhr von Eiern, Zuständigkeit für Kommunikation
 
 (1) Die Bundesanstalt für Landwirtschaft und Ernährung (Bundesanstalt)
 ist zuständig für die Überwachung der Einhaltung der Vorschriften der
 in § 1 genannten Rechtsakte und dieser Verordnung
 
-1.  bei der Einfuhr von Eiern aus Drittländern, solange die Eier Zollgut
-    sind, und
-
+1.  bei der Einfuhr von Eiern aus Drittländern und
 
 2.  bei der Ausfuhr von Eiern in diese Länder.
 
-
-
+Die Zollbehörde darf Anmeldungen zur Überführung in den
+zollrechtlich freien Verkehr nur annehmen, wenn die Bundesanstalt
+der Zollbehörde mitgeteilt hat, dass für die betreffenden Partien die
+Vermarktungsnormen für Eier eingehalten werden, oder die betreffenden
+Partien aufgrund der Risikobewertung nicht kontrolliert werden müssen.
 
 (2) Wenn bei der Ausfuhr von Eiern in ein Drittland von der
-Möglichkeit des Artikels 29 der Verordnung (EG) Nr. 589/2008 Gebrauch
-gemacht werden soll, ist dies der Bundesanstalt spätestens drei
-Werktage vor Versendung der Eier nach Maßgabe des Satzes 2 schriftlich
-oder elektronisch anzuzeigen. Die Anzeige muss folgende Angaben
-enthalten:
+Möglichkeit des Artikels 21 der Delegierten Verordnung (EU) 2023/2465
+Gebrauch gemacht werden soll, ist dies der Bundesanstalt spätestens
+drei Werktage vor Versendung der Eier nach Maßgabe des Satzes 2
+schriftlich oder elektronisch anzuzeigen. Die Anzeige muss folgende
+Angaben enthalten:
 
 1.  Name, Anschrift und Telekommunikationsdaten des Antragstellers,
 
-
 2.  Name und Anschrift des ausführenden Unternehmens,
-
 
 3.  Name, Anschrift und Telekommunikationsdaten des Empfängers,
 
-
 4.  Anzahl der auszuführenden Eier,
-
 
 5.  Benennung der Bestimmungen der in § 1 genannten Vorschriften, von
     denen abgewichen werden soll,
 
-
 6.  Zeitpunkt und Ort der Verladung der Partie und
-
 
 7.  einen Nachweis über die rechtlichen Anforderungen des Empfängerlandes,
     die die Abweichung von den Anforderungen des Anhangs VII Teil VI der
-    Verordnung (EU) Nr. 1308/2013 und der Verordnung (EG) Nr. 589/2008
-    erforderlich machen.
-
-
-
+    Verordnung (EU) Nr. 1308/2013 und der Delegierten Verordnung (EU)
+    2023/2465 erforderlich machen.
 
 (3) Die Bundesanstalt leitet eine Durchschrift der Anzeige
 unverzüglich an die zuständigen Behörden der Länder weiter.
 
-(4) Zum Zwecke der Kontrolle gemäß Absatz 1 verarbeitet die
-Bundesanstalt für Ernährung und Landwirtschaft die in Abschnitt III
-der Anlage des Marktorganisationsgesetzes genannten Angaben und
-übermittelt diese an die zuständigen Behörden der Länder.
+(4) Die Bundesanstalt ist zuständig für die Erfüllung der folgenden
+Aufgaben:
+
+1.  die Unterrichtung der nach Landesrecht zuständigen Behörde über eine
+    Ausnahme nach Artikel 10 Absatz 1 Satz 1 der Delegierten Verordnung
+    (EU) 2023/2465, die durch einen anderen Mitgliedstaat der Europäischen
+    Union gewährt worden ist,
+
+2.  die Unterrichtung der zuständigen Behörde eines anderen
+    Mitgliedstaates der Europäischen Union über eine Ausnahme nach Artikel
+    10 Absatz 1 Satz 1 der Delegierten Verordnung (EU) 2023/2465, die
+    durch eine Behörde eines Landes gewährt worden ist,
+
+3.  die Richtung eines Amtshilfeersuchens nach Artikel 104 Absatz 1 Satz
+    1 der Verordnung (EU) 2017/625 an die zuständige Behörde eines anderen
+    Mitgliedstaates der Europäischen Union auf Verlangen einer nach
+    Landesrecht zuständigen Behörde,
+
+4.  die Kenntnisgabe eines Amtshilfeersuchens nach Artikel 104 Absatz
+    1 Satz 1 der Verordnung (EU) 2017/625 einer Behörde eines anderen
+    Mitgliedstaates an die nach Landesrecht zuständige Behörde,
+
+5.  die Meldung von durch die zuständigen Behörden der Länder gemeldeten
+    Verstößen und hinreichenden Verdachtsfällen nach Artikel 11 der
+    Durchführungsverordnung (EU) 2023/2466 an die Europäische Kommission.
+
+(5) Die Länder haben der Bundesanstalt, soweit diese gemäß Absatz 4
+zuständig ist, Folgendes mitzuteilen:
+
+1.  die Kontrolldienste nach Artikel 9 Absatz 1 der
+    Durchführungsverordnung (EU) 2023/2466,
+
+2.  die Gewährung einer Ausnahme nach Artikel 10 Absatz 1 Satz 1 der
+    Delegierten Verordnung (EU) 2023/2465 vor Beginn der ersten Lieferung,
+
+3.  Verstöße und hinreichende Verdachtsfälle im Sinne des Artikels 11
+    Satz 1 der Durchführungsverordnung (EU) 2023/2466; die Mitteilung hat
+    unverzüglich zu erfolgen.
 
 
-## § 6a (weggefallen)
+## § 6a Anordnungen der zuständigen Behörden
 
+(1) Die zuständige Behörde kann im Fall von Verstößen gegen
+Vermarktungsnormen die notwendigen Anordnungen zu deren Beseitigung
+und zur Verhütung künftiger Verstöße treffen. Sie kann dabei anordnen,
+dass die betreffende Partie bis zum Nachweis der Verkehrsfähigkeit
+nicht vermarktet werden darf.
+
+(2) Sofern die Verkehrsfähigkeit der betroffenen Partie nicht
+nachgewiesen wird, ist der Verbleib der Ware nachzuweisen.
+
+
+## § 6b Datenverarbeitung und Datenübermittlung
+
+Zum Zweck der Durchführung und Überwachung der Einhaltung der
+Vermarktungsnormen verarbeitet die zuständige Behörde Daten
+nach der Anlage des Marktorganisationsgesetzes. Die nach Satz 1
+verarbeiteten Daten werden durch die zuständigen Behörden der Länder
+an die Bundesanstalt übermittelt, soweit dies für die Erfüllung
+der gesetzlichen Aufgaben dieser Stellen erforderlich ist. Die
+Bundesanstalt übermittelt die nach Satz 1 verarbeiteten Daten an die
+zuständigen Behörden der Länder und anderer Mitgliedstaaten sowie
+an die Europäische Kommission, soweit dies für die Erfüllung der
+gesetzlichen Aufgaben dieser Stellen erforderlich ist.
 
 
 ## § 7 Ordnungswidrigkeiten
 
-(1) Ordnungswidrig handelt, wer gegen die Verordnung (EG) Nr. 589/2008
-der Kommission vom 23. Juni 2008 mit Durchführungsbestimmungen zur
-Verordnung (EG) Nr. 1234/2007 des Rates hinsichtlich der
-Vermarktungsnormen für Eier (ABl. L 163 vom 24.6.2008, S. 6), die
-zuletzt durch die Verordnung (EU) Nr. 557/2010 (ABl. L 159 vom
-25\.6.2010, S. 13) geändert worden ist, verstößt, indem er vorsätzlich
-oder fahrlässig
-
-1.  entgegen Artikel 7 Absatz 2 Satz 1 Informationen nicht auf den
-    Begleitpapieren vermerkt,
-
-
-2.  entgegen Artikel 16 eine Angabe nicht, nicht richtig oder nicht
-    vollständig macht,
-
-
-3.  entgegen Artikel 19 Satz 1 verpackte Eier der Klasse A umpackt,
-
-
-4.  entgegen Artikel 20 Absatz 1 oder Absatz 2, jeweils auch in Verbindung
-    mit Absatz 3, oder Artikel 22 Absatz 2 nicht, nicht richtig oder nicht
-    vollständig Buch führt,
-
-
-5.  entgegen Artikel 21 Absatz 1 oder Artikel 22 Absatz 1 Satz 1 eine
-    Aufzeichnung nicht, nicht richtig, nicht vollständig oder nicht
-    rechtzeitig fertigt,
-
-
-6.  entgegen Artikel 22 Absatz 1 Satz 2 die Bestandsbuchführung nicht,
-    nicht richtig, nicht vollständig oder nicht rechtzeitig aktualisiert,
-
-
-7.  entgegen Artikel 23 Aufzeichnungen oder Unterlagen nicht aufbewahrt
-    oder
-
-
-8.  entgegen Artikel 24 Absatz 5 Satz 2 eine Aufzeichnung nicht oder nicht
-    rechtzeitig zur Verfügung stellt.
-
-
-
-
-(2) Die Ordnungswidrigkeit kann nach § 1 Abs. 3 Satz 1 Nr. 2 des
-Handelsklassengesetzes mit einer Geldbuße bis zu zehntausend Euro
-geahndet werden.
-
-(3) Ordnungswidrig im Sinne des § 7 Abs. 1 Nr. 3 des
-Handelsklassengesetzes handelt ferner, wer
+(1) Ordnungswidrig im Sinne des § 36 Absatz 3 Nummer 3 Buchstabe c des
+Marktorganisationsgesetzes handelt, wer vorsätzlich oder leichtfertig
 
 1.  entgegen § 1b Eier zum Verkauf vorrätig hält, anbietet, feilhält,
     liefert, verkauft oder sonst in den Verkehr bringt,
 
+2.  entgegen § 2 eine Angabe nicht, nicht richtig, nicht vollständig oder
+    nicht rechtzeitig macht,
 
-2.  entgegen § 2 in Rechnungen, Lieferscheinen oder sonstigen
-    Transportbegleitpapieren nicht die jeweilige Güte- und Gewichtsklasse
-    angibt,
+3.  entgegen § 6 Absatz 2 Satz 1 eine Anzeige nicht, nicht richtig, nicht
+    vollständig oder nicht rechtzeitig macht oder
 
+4.  einer vollziehbaren Anordnung nach § 6a Absatz 1 Satz 2
+    zuwiderhandelt.
 
-3.  entgegen § 3 für Eier ohne Angabe der jeweiligen Güte- und
-    Gewichtsklasse wirbt,
+(2) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
+Gesetzes über Ordnungswidrigkeiten und
 
+1.  im Sinne des § 38 Absatz 3 Satz 3 Nummer 2 des
+    Marktorganisationsgesetzes ist in den Fällen des Absatzes 1 Nummer 3
+    die Bundesanstalt für Landwirtschaft und Ernährung, soweit sie nach §
+    6 Absatz 1 Satz 1 für die Überwachung zuständig ist,
 
-3a. (weggefallen)
-
-
-4.  entgegen § 4 Preisnotierungen oder Preisfeststellungen für Eier nicht
-    die vorgeschriebene Güte- und Gewichtsklasse zugrunde legt oder
-
-
-5.  entgegen § 6 Absatz 2 Satz 1 eine Anzeige nicht, nicht vollständig
-    oder nicht rechtzeitig macht.
-
-
-
+2.  im Sinne des § 38 Absatz 3 Satz 3 Nummer 1 des
+    Marktorganisationsgesetzes ist in den übrigen Fällen des Absatzes 1
+    die zuständige oberste Landesbehörde.
 
 
 ## § 7a Überwachung, Duldungs- und Auskunftspflichten
@@ -376,45 +403,34 @@ Handelsklassengesetzes handelt ferner, wer
 (1) Soweit es zur Überwachung der Einhaltung der nach dieser
 Verordnung geltenden Vorschriften erforderlich ist, können die
 Beauftragten der zuständigen Stellen bei Betrieben, die Eier zum
-Verkauf vorrätig halten, anbieten, feilhalten, liefern, verkaufen oder
-sonst in den Verkehr bringen oder in den Geltungsbereich oder aus dem
-Geltungsbereich dieser Verordnung verbringen, während der
+Verkauf vorrätig halten, anbieten, feilhalten, liefern, verkaufen
+oder sonst in den Verkehr bringen oder in den Geltungsbereich oder
+aus dem Geltungsbereich dieser Verordnung verbringen, während der
 Geschäftszeit
 
 1.  Geschäftsräume und Grundstücke, Verkaufseinrichtungen und
     Transportmittel betreten und dort Besichtigungen vornehmen,
 
-
 2.  Geschäftsunterlagen einsehen und prüfen,
-
 
 3.  Auskunft verlangen.
 
-
-
 Diese Befugnisse erstrecken sich auch auf Erzeugnisse, die an
-öffentlichen Orten, insbesondere auf Märkten, Plätzen, Straßen oder im
-Umherziehen zum Verkauf vorrätig gehalten, angeboten, feilgehalten,
+öffentlichen Orten, insbesondere auf Märkten, Plätzen, Straßen oder
+im Umherziehen zum Verkauf vorrätig gehalten, angeboten, feilgehalten,
 geliefert, verkauft oder sonst in den Verkehr gebracht werden.
 
-(2) Inhaber oder Leiter der Betriebe sind verpflichtet, das Betreten
-der Geschäftsräume und Grundstücke, Verkaufseinrichtungen und
-Transportmittel sowie die dort vorzunehmenden Besichtigungen zu
-gestatten, die zu besichtigenden Erzeugnisse selbst oder durch andere
-so darzulegen, dass die Besichtigung ordnungsgemäß vorgenommen werden
-kann, selbst oder durch andere die erforderliche Hilfe bei der
+(2) Inhaber oder Leiter der Betriebe sind verpflichtet, das
+Betreten der Geschäftsräume und Grundstücke, Verkaufseinrichtungen
+und Transportmittel sowie die dort vorzunehmenden Besichtigungen
+zu gestatten, die zu besichtigenden Erzeugnisse selbst oder durch
+andere so darzulegen, dass die Besichtigung ordnungsgemäß vorgenommen
+werden kann, selbst oder durch andere die erforderliche Hilfe bei der
 Besichtigung zu leisten, die geschäftlichen Unterlagen vorzulegen,
 prüfen zu lassen und Auskünfte zu erteilen.
 
 
-## § 8 Verwaltungsbehörde im Sinne des § 36 des Gesetzes über Ordnungswidrigkeiten
-
-Bei Ordnungswidrigkeiten nach § 7 Abs. 1 Nr. 4 des
-Handelsklassengesetzes und nach § 7 Absatz 3 Nummer 1 in Verbindung
-mit § 1b Absatz 2 Nummer 3 oder nach § 7 Absatz 3 Nummer 5 dieser
-Verordnung ist die Bundesanstalt Verwaltungsbehörde im Sinne des
-Gesetzes über Ordnungswidrigkeiten, soweit sie nach § 6 Absatz 1 für
-die Überwachung zuständig ist.
+## § 8 (weggefallen)
 
 
 ## § 9

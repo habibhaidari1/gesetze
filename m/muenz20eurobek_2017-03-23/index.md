@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert
-  von 20 Euro (Gedenkmünze „500 Jahre Reformation“)
+Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze „500 Jahre Reformation“)
 jurabk: Münz20EuroBek 2017-03-23
 layout: default
 origslug: m_nz20eurobek_2017-03-23
@@ -40,15 +39,15 @@ wird von einem schützenden, glatten Randstab umgeben.
 Die Bildseite zeigt das Antlitz Luthers, das aus dem Gemälde Lucas
 Cranachs d. Ä. von 1529 übernommen ist, zugleich aber in einer
 zeitgenössischen Interpretation erscheint. Das Porträt des Reformators
-und der fragmentarische Text treten gleichwertig in Erscheinung. Die
-lineare Darstellung des Luther-Antlitzes unterstreicht in ihrer
+und der fragmentarische Text treten gleichwertig in Erscheinung.
+Die lineare Darstellung des Luther-Antlitzes unterstreicht in ihrer
 Modernität die Relevanz des Ereignisses für unsere Gegenwart; die als
 Textur erscheinenden Fragmente aus den 95 Thesen betonen die epochale
 Bedeutung der Reformation.
 
 Die Wertseite zeigt einen Adler, den Schriftzug „BUNDESREPUBLIK
-DEUTSCHLAND“, Wertziffer und Wertbezeichnung, das Prägezeichen „A“ der
-Staatlichen Münze Berlin, die Jahreszahl 2017 sowie die zwölf
+DEUTSCHLAND“, Wertziffer und Wertbezeichnung, das Prägezeichen „A“
+der Staatlichen Münze Berlin, die Jahreszahl 2017 sowie die zwölf
 Europasterne. Zusätzlich ist die Angabe „SILBER 925“ aufgeprägt.
 
 Der glatte Münzrand enthält in vertiefter Prägung die Inschrift:
@@ -66,12 +65,4 @@ Der Bundesminister der Finanzen
 ## (XXXX)
 
 (Fundstelle: BGBl. I 2017, 676)
-
-
-*    *        ![bgbl1_2017_j0676-1_0010.jpg](bgbl1_2017_j0676-1_0010.jpg)
-    *        ![bgbl1_2017_j0676-1_0020.jpg](bgbl1_2017_j0676-1_0020.jpg)
-
-*    *
-    *
-
 

@@ -1,7 +1,5 @@
 ---
-Title: Hundertsiebenundachtzigste Durchführungsverordnung zur Luftverkehrs-Ordnung
-  (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom
-  Flughafen Stuttgart)
+Title: Hundertsiebenundachtzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Flughafen Stuttgart)
 jurabk: LuftVODV 187
 layout: default
 origslug: luftvodv_187
@@ -16,4 +14,7 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BAnz: 1998, Nr 42, 2713
+
+Fundstelle
+:   BAnz: 1998, 2713
 

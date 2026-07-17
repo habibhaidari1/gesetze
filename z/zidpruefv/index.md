@@ -1,7 +1,5 @@
 ---
-Title: Verordnung über die Bestimmung von Dokumenten, die zur Überprüfung der Identität
-  einer nach dem Geldwäschegesetz zu identifizierenden Person zum Zwecke des Abschlusses
-  eines Zahlungskontovertrags zugelassen werden
+Title: Verordnung über die Bestimmung von Dokumenten, die zur Überprüfung der Identität einer nach dem Geldwäschegesetz zu identifizierenden Person zum Zwecke des Abschlusses eines Zahlungskontovertrags zugelassen werden
 jurabk: ZIdPrüfV
 layout: default
 origslug: zidpr_fv
@@ -41,15 +39,11 @@ identifizierenden Person auch zugelassen:
     Überprüfung der Identität des gesetzlichen Vertreters anhand eines
     Dokuments nach § 12 Absatz 1 Satz 1 Nummer 1 des Geldwäschegesetzes,
 
-
-2.  bei einem Betreuten die Bestellungsurkunde des Betreuers nach § 290
-    des Gesetzes über das Verfahren in Familiensachen und in den
+2.  bei einem Betreuten die Bestellungsurkunde des Betreuers nach §
+    290 des Gesetzes über das Verfahren in Familiensachen und in den
     Angelegenheiten der freiwilligen Gerichtspraxis in Verbindung mit der
     Überprüfung der Identität des Betreuers anhand eines Dokuments nach §
     12 Absatz 1 Satz 1 Nummer 1 des Geldwäschegesetzes.
-
-
-
 
 (2) Zum Zwecke des Abschlusses eines Basiskontovertrags im Sinne der
 §§ 31, 38 des Zahlungskontengesetzes ist zur Überprüfung der Identität
@@ -62,13 +56,9 @@ zugelassen:
     des Aufenthaltsgesetzes gemäß Anlage D2b in Verbindung mit Anlage D2a
     der Aufenthaltsverordnung,
 
-
 2.  bei einem Asylsuchenden, der nicht im Besitz eines der in § 12 Absatz
     1 Satz 1 Nummer 1 des Geldwäschegesetzes genannten Dokumente ist, ein
     Ankunftsnachweis nach § 63a des Asylgesetzes.
-
-
-
 
 
 ## § 2 Inkrafttreten

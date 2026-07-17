@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über den Vorbereitungsdienst für den mittleren Dienst im Bundesnachrichtendienst
-  und den mittleren Dienst im Verfassungsschutz des Bundes
+Title: Verordnung über den Vorbereitungsdienst für den mittleren Dienst im Bundesnachrichtendienst und den mittleren Dienst im Verfassungsschutz des Bundes
 jurabk: MDBNDVerfSchVDV
 layout: default
 origslug: mdbndverfschvdv
@@ -17,33 +16,28 @@ Fundstelle
 :   BGBl I: 2019, 1221
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 2 V v. 16.8.2021 I 3582
+:   Art. 2 Abs. 25 V v. 11.3.2026 I Nr. 67
 
-Stand: Ersetzt V 2030-7-9-2 v. 22.6.2004 I 1303 (LAP-mDBNDV) und V 2030-7-4-1 v. 15.10.2001 I 2652 (LAP-mDVerfSchV)
+Stand
+:   Ersetzt V 2030-7-9-2 v. 22.6.2004 I 1303 (LAP-mDBNDV) und V 2030-7-4-1 v. 15.10.2001 I 2652 (LAP-mDVerfSchV)
+
 
 ## Teil 1 - Allgemeine Vorschriften
 
 
 ### § 1 Vorbereitungsdienst
 
-Die Ausbildung und Prüfung nach dieser Verordnung sind der
-Vorbereitungsdienst für den mittleren Dienst im
+Die Ausbildung und Prüfung nach dieser Verordnung sind
+der Vorbereitungsdienst für den mittleren Dienst im
 Bundesnachrichtendienst und für den mittleren Dienst im
 Verfassungsschutz des Bundes.
-
-
-### § 1a Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie
-
-Von den bis zum 31. Dezember 2022 befristeten Sonderregelungen dieser
-Verordnung darf nur Gebrauch gemacht werden, wenn dies wegen der zur
-Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
 
 
 ### § 2 Ausbildungsziele
 
 (1) Die Ausbildung vermittelt die fachtheoretischen Kenntnisse und
-Methoden sowie die berufspraktischen Kenntnisse und Fähigkeiten, die
-für die Erfüllung der Aufgaben im mittleren Dienst im
+Methoden sowie die berufspraktischen Kenntnisse und Fähigkeiten,
+die für die Erfüllung der Aufgaben im mittleren Dienst im
 Bundesnachrichtendienst und im mittleren Dienst im Verfassungsschutz
 des Bundes erforderlich sind.
 
@@ -72,12 +66,8 @@ Kompetenz sind zu fördern.
 1.  für die Anwärterinnen und Anwärter der Fachrichtung
     „Bundesnachrichtendienst“ der Bundesnachrichtendienst und
 
-
 2.  für die Anwärterinnen und Anwärter der Fachrichtung
     „Verfassungsschutz“ das Bundesamt für Verfassungsschutz.
-
-
-
 
 (2) Die Dienstbehörde ist für alle beamtenrechtlichen Entscheidungen
 zuständig, soweit diese Entscheidungen durch diese Verordnung nicht
@@ -90,12 +80,8 @@ Ausbildungsbehörden sind
 
 1.  die Dienstbehörde und
 
-
 2.  andere Bundesbehörden oder Landesbehörden, die von der Dienstbehörde
     als Ausbildungsbehörde bestimmt worden sind.
-
-
-
 
 
 ### § 5 Dienstaufsicht
@@ -110,13 +96,9 @@ Anwärter ist die Leiterin oder der Leiter der Dienstbehörde.
     Dienstaufsicht der Leiterin oder des Leiters der jeweiligen
     Ausbildungsbehörde und
 
-
 2.  während der fachtheoretischen Ausbildung der Dienstaufsicht der
     Leiterin oder des Leiters des Zentrums für Nachrichtendienstliche Aus-
     und Fortbildung.
-
-
-
 
 
 ### § 6 Erholungsurlaub
@@ -136,17 +118,13 @@ Erleichterungen gewährt.
 
 1.  im Auswahlverfahren die Dienstbehörde und
 
-
 2.  im Übrigen das Prüfungsamt (§ 39).
-
-
-
 
 (3) Art und Umfang der Erleichterungen sind mit den Betroffenen
 rechtzeitig zu erörtern. Bei schwerbehinderten Menschen und bei
 gleichgestellten behinderten Menschen erfolgt zudem eine Erörterung
-mit der Schwerbehindertenvertretung, sofern die betroffene Person dem
-nicht widerspricht. Bei Bedarf kann ein ärztliches oder ein
+mit der Schwerbehindertenvertretung, sofern die betroffene Person
+dem nicht widerspricht. Bei Bedarf kann ein ärztliches oder ein
 amtsärztliches Gutachten gefordert werden. Die Kosten für das
 Gutachten trägt die Dienstbehörde.
 
@@ -156,176 +134,29 @@ Gutachten trägt die Dienstbehörde.
 (1) Die Leistungen der Anwärterinnen und Anwärter in der Ausbildung
 und in den Prüfungen werden wie folgt bewertet:
 
-*    *
-    *   Prozentualer Anteil der
-        erreichten Punktzahl
-        an der erreichbaren
-        Punktzahl
-
-    *   Rangpunkte/
-        Rangpunktzahl
-
-    *   Note
-
-    *   Notendefinition
-
-
-*    *
-    *   1
-
-    *   2
-
-    *   3
-
-    *   4
-
-
-*    *   1
-
-    *   100,00 bis 93,70
-
-    *   15
-
-    *   sehr gut (1)
-
-    *   eine Leistung, die den Anforderungen in besonderem Maß entspricht
-
-
-*    *   2
-
-    *   93,69 bis 87,50
-
-    *   14
-
-
-*    *   3
-
-    *   87,49 bis 83,40
-
-    *   13
-
-    *   gut (2)
-
-    *   eine Leistung, die den Anforderungen voll entspricht
-
-
-*    *   4
-
-    *   83,39 bis 79,20
-
-    *   12
-
-
-*    *   5
-
-    *   79,19 bis 75,00
-
-    *   11
-
-
-*    *   6
-
-    *   74,99 bis 70,90
-
-    *   10
-
-    *   befriedigend (3)
-
-    *   eine Leistung, die im Allgemeinen den Anforderungen entspricht
-
-
-*    *   7
-
-    *   70,89 bis 66,70
-
-    *   9
-
-
-*    *   8
-
-    *   66,69 bis 62,50
-
-    *   8
-
-
-*    *   9
-
-    *   62,49 bis 58,40
-
-    *   7
-
-    *   ausreichend (4)
-
-    *   eine Leistung, die zwar Mängel aufweist, aber im Ganzen den
-        Anforderungen noch entspricht
-
-
-*    *   10
-
-    *   58,39 bis 54,20
-
-    *   6
-
-
-*    *   11
-
-    *   54,19 bis 50,00
-
-    *   5
-
-
-*    *   12
-
-    *   49,99 bis 41,70
-
-    *   4
-
-    *   mangelhaft (5)
-
-    *   eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen
-        lässt, dass die notwendigen Grundkenntnisse vorhanden sind und die
-        Mängel in absehbarer Zeit behoben werden können
-
-
-*    *   13
-
-    *   41,69 bis 33,40
-
-    *   3
-
-
-*    *   14
-
-    *   33,39 bis 25,00
-
-    *   2
-
-
-*    *   15
-
-    *   24,99 bis 12,50
-
-    *   1
-
-    *   ungenügend (6)
-
-    *   eine Leistung, die den Anforderungen nicht entspricht und bei der
-        selbst die Grundkenntnisse so lückenhaft sind, dass die Mängel in
-        absehbarer Zeit nicht behoben werden können
-
-
-*    *   16
-
-    *   12,49 bis  0,00
-
-    *   0
-
-
-
+|  | Prozentualer Anteil der erreichten Punktzahl an der erreichbaren Punktzahl | Rangpunkte/ Rangpunktzahl | Note | Notendefinition |
+| --- | --- | --- | --- | --- |
+|  | 1 | 2 | 3 | 4 |
+| 1 | 100,00 bis 93,70 | 15 | sehr gut (1) | eine Leistung, die den Anforderungen in besonderem Maß entspricht |
+| 2 | 93,69 bis 87,50 | 14 |  |  |
+| 3 | 87,49 bis 83,40 | 13 | gut (2) | eine Leistung, die den Anforderungen voll entspricht |
+| 4 | 83,39 bis 79,20 | 12 |  |  |
+| 5 | 79,19 bis 75,00 | 11 |  |  |
+| 6 | 74,99 bis 70,90 | 10 | befriedigend (3) | eine Leistung, die im Allgemeinen den Anforderungen entspricht |
+| 7 | 70,89 bis 66,70 | 9 |  |  |
+| 8 | 66,69 bis 62,50 | 8 |  |  |
+| 9 | 62,49 bis 58,40 | 7 | ausreichend (4) | eine Leistung, die zwar Mängel aufweist, aber im Ganzen den Anforderungen noch entspricht |
+| 10 | 58,39 bis 54,20 | 6 |  |  |
+| 11 | 54,19 bis 50,00 | 5 |  |  |
+| 12 | 49,99 bis 41,70 | 4 | mangelhaft (5) | eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen lässt, dass die notwendigen Grundkenntnisse vorhanden sind und die Mängel in absehbarer Zeit behoben werden können |
+| 13 | 41,69 bis 33,40 | 3 |  |  |
+| 14 | 33,39 bis 25,00 | 2 |  |  |
+| 15 | 24,99 bis 12,50 | 1 | ungenügend (6) | eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Grundkenntnisse so lückenhaft sind, dass die Mängel in absehbarer Zeit nicht behoben werden können |
+| 16 | 12,49 bis 0,00 | 0 |  |  |
 
 (2) Für die Bewertung schriftlicher Leistungen werden den für die
-Leistung maßgebenden Anforderungen Punkte zugeordnet. Dabei sind der
-Schwierigkeitsgrad der Anforderungen und die erforderliche
+Leistung maßgebenden Anforderungen Punkte zugeordnet. Dabei sind
+der Schwierigkeitsgrad der Anforderungen und die erforderliche
 Bearbeitungszeit zu berücksichtigen. Die erreichbare Punktzahl bei
 schriftlichen Leistungen beträgt in der Regel 100 Punkte.
 
@@ -334,8 +165,8 @@ Gliederung und Klarheit der Darstellung sowie das Ausdrucksvermögen
 berücksichtigt.
 
 (4) Wenn eine Leistung von mehr als einer oder einem Prüfenden
-bewertet wird oder wenn die Bewertungen mehrerer Leistungen zu einer
-Bewertung zusammengefasst werden, wird als Bewertung eine
+bewertet wird oder wenn die Bewertungen mehrerer Leistungen zu
+einer Bewertung zusammengefasst werden, wird als Bewertung eine
 Rangpunktzahl berechnet. Rangpunktzahlen sind, soweit in dieser
 Verordnung nicht etwas anderes bestimmt ist, auf zwei Nachkommastellen
 ohne Rundung zu berechnen.
@@ -344,8 +175,8 @@ ohne Rundung zu berechnen.
 ### § 9 Prüfende
 
 (1) Die Prüfenden müssen mindestens die Befähigung für die Laufbahn
-des gehobenen nichttechnischen Verwaltungsdienstes des Bundes oder
-einen Bachelorabschluss oder eine gleichwertige Qualifikation
+des gehobenen nichttechnischen Verwaltungsdienstes des Bundes
+oder einen Bachelorabschluss oder eine gleichwertige Qualifikation
 besitzen.
 
 (2) Sind für die Bewertung einer Leistung zwei Prüfende
@@ -368,8 +199,8 @@ Rangpunkte voneinander abweichen, so wird eine Rangpunktzahl
 ermittelt, die das arithmetische Mittel der beiden Einzelbewertungen
 ist.
 
-(3) Bleibt auch nach dem Einigungsversuch eine Abweichung von mehr als
-drei Rangpunkten bestehen, so wird eine Drittprüfende oder ein
+(3) Bleibt auch nach dem Einigungsversuch eine Abweichung von mehr
+als drei Rangpunkten bestehen, so wird eine Drittprüfende oder ein
 Drittprüfender bestellt. Die oder der Drittprüfende darf Kenntnis von
 den Bewertungen der Erst- und Zweitprüfenden haben. Bei drei Prüfenden
 wird eine Rangpunktzahl ermittelt, die das arithmetische Mittel ist
@@ -378,15 +209,10 @@ aus
 1.  der vor dem Einigungsversuch abgegebenen Bewertung der oder des
     Erstprüfenden,
 
-
 2.  der vor dem Einigungsversuch abgegebenen Bewertung der oder des
     Zweitprüfenden und
 
-
 3.  der Bewertung der oder des Drittprüfenden.
-
-
-
 
 
 ## Teil 2 - Auswahlverfahren
@@ -407,19 +233,15 @@ die erforderliche Leistungsmotivation verfügen.
     „Bundesnachrichtendienst“ angeboten werden, vom
     Bundesnachrichtendienst und
 
-
 2.  für die Ausbildungsplätze, die in der Fachrichtung „Verfassungsschutz“
     angeboten werden, vom Bundesamt für Verfassungsschutz.
-
-
-
 
 (3) Zum Auswahlverfahren wird zugelassen, wer nach den eingereichten
 Unterlagen die in der Ausschreibung bestimmten Voraussetzungen
 erfüllt. Übersteigt die Zahl der geeigneten Bewerberinnen und Bewerber
-das Dreifache der Zahl der angebotenen Ausbildungsplätze, so kann die
-Zahl der am Auswahlverfahren Teilnehmenden beschränkt werden. Es sind
-jedoch mindestens dreimal so viele Bewerberinnen und Bewerber
+das Dreifache der Zahl der angebotenen Ausbildungsplätze, so kann
+die Zahl der am Auswahlverfahren Teilnehmenden beschränkt werden. Es
+sind jedoch mindestens dreimal so viele Bewerberinnen und Bewerber
 zuzulassen, wie Ausbildungsplätze angeboten werden. In diesem Fall
 wird zugelassen, wer nach den eingereichten Unterlagen am besten
 geeignet ist.
@@ -427,8 +249,8 @@ geeignet ist.
 (4) Schwerbehinderte Bewerberinnen und Bewerber und gleichgestellte
 behinderte Bewerberinnen und Bewerber sind zum Auswahlverfahren
 zuzulassen, es sei denn, sie sind offensichtlich fachlich ungeeignet.
-Vor dem Ausschluss schwerbehinderter Bewerberinnen und Bewerber und
-gleichgestellter behinderter Bewerberinnen und Bewerber ist die
+Vor dem Ausschluss schwerbehinderter Bewerberinnen und Bewerber
+und gleichgestellter behinderter Bewerberinnen und Bewerber ist die
 Schwerbehindertenvertretung anzuhören.
 
 (5) Wer nicht zum Auswahlverfahren zugelassen wird, erhält eine
@@ -451,48 +273,41 @@ Bewertungsmaßstab anlegen.
 1.  einer Beamtin oder einem Beamten des höheren nichttechnischen
     Verwaltungsdienstes des Bundes als Vorsitzender oder Vorsitzendem,
 
-
 2.  einer Beamtin oder einem Beamten des gehobenen oder höheren
     nichttechnischen Verwaltungsdienstes des Bundes und
 
-
 3.  einer Beamtin oder einem Beamten des mittleren oder gehobenen
     nichttechnischen Verwaltungsdienstes des Bundes.
-
-
 
 In begründeten Fällen können zwei Mitglieder der Auswahlkommission
 Tarifbeschäftigte oder Soldatinnen oder Soldaten sein, wenn sie über
 die erforderliche Qualifikation verfügen.
 
-(2a) Bis zum 31. Dezember 2022 kann eine Auswahlkommission nur aus
-folgenden Mitgliedern bestehen:
+(3) Die Dienstbehörde kann festlegen, dass eine Auswahlkommission
+abweichend von Absatz 2 Satz 1 nur aus folgenden Mitgliedern besteht:
 
 1.  einer Beamtin oder einem Beamten des gehobenen oder höheren
     nichttechnischen Verwaltungsdienstes des Bundes als Vorsitzender oder
     Vorsitzendem und
 
-
 2.  einer Beamtin oder einem Beamten des gehobenen oder mittleren
     nichttechnischen Verwaltungsdienstes des Bundes.
-
-
 
 Eines der Mitglieder kann Arbeitnehmerin oder Arbeitnehmer oder
 Soldatin oder Soldat sein, wenn sie oder er über die erforderliche
 Qualifikation verfügt.
 
-(3) Die Dienstbehörde bestellt die Mitglieder der Auswahlkommission
+(4) Die Dienstbehörde bestellt die Mitglieder der Auswahlkommission
 und eine ausreichende Anzahl von Ersatzmitgliedern für die Dauer von
 fünf Jahren. Wiederbestellung ist zulässig.
 
-(4) Die Mitglieder der Auswahlkommission bewerten die im
+(5) Die Mitglieder der Auswahlkommission bewerten die im
 Auswahlverfahren gezeigten Leistungen unabhängig voneinander.
 
-(5) Die Mitglieder der Auswahlkommission sind bei ihren Entscheidungen
+(6) Die Mitglieder der Auswahlkommission sind bei ihren Entscheidungen
 unabhängig und nicht weisungsgebunden.
 
-(6) Die Auswahlkommission entscheidet mit Stimmenmehrheit.
+(7) Die Auswahlkommission entscheidet mit Stimmenmehrheit.
 Stimmenthaltung ist nicht zulässig. Bei Stimmengleichheit gibt die
 Stimme der oder des Vorsitzenden den Ausschlag.
 
@@ -509,22 +324,15 @@ mündlichen Teil.
 
 1.  die zu bearbeitenden Aufgaben,
 
-
 2.  ob im mündlichen Teil neben dem halbstrukturierten Interview weitere
     Aufgaben gestellt werden,
-
 
 3.  den Ablauf des Auswahlverfahrens und die Dauer der Teile des
     Auswahlverfahrens,
 
-
 4.  die Bewertungs- und Gewichtungssystematik sowie
 
-
 5.  die für das Bestehen erforderlichen Mindestpunktzahlen.
-
-
-
 
 (2) Die Festlegung erfolgt vor dem Beginn des Auswahlverfahrens oder
 vor jedem Teil des Auswahlverfahrens.
@@ -555,10 +363,10 @@ schriftlichen Teil bestanden hat.
 
 (2) Übersteigt die Zahl der Bewerberinnen und Bewerber, die den
 schriftlichen Teil bestanden haben, die Zahl der angebotenen
-Ausbildungsplätze um mehr als das Doppelte, so kann die Zahl der am
-mündlichen Teil Teilnehmenden beschränkt werden. Es sind jedoch
-mindestens doppelt so viele Bewerberinnen und Bewerber zuzulassen, wie
-Ausbildungsplätze zur Verfügung stehen. In diesem Fall wird
+Ausbildungsplätze um mehr als das Doppelte, so kann die Zahl der
+am mündlichen Teil Teilnehmenden beschränkt werden. Es sind jedoch
+mindestens doppelt so viele Bewerberinnen und Bewerber zuzulassen,
+wie Ausbildungsplätze zur Verfügung stehen. In diesem Fall wird
 zugelassen, wer nach der Rangfolge, die anhand der im schriftlichen
 Teil erzielten Ergebnisse festgelegt worden ist, am besten geeignet
 ist.
@@ -570,9 +378,9 @@ Teil teilgenommen, so werden sie immer zum mündlichen Teil zugelassen.
 
 ### § 18 Mündlicher Teil
 
-(1) Der mündliche Teil des Auswahlverfahrens dient insbesondere der
-Feststellung der Eignung der Bewerberinnen und Bewerber hinsichtlich
-der Motivation, der sozialen Kompetenz und des
+(1) Der mündliche Teil des Auswahlverfahrens dient insbesondere
+der Feststellung der Eignung der Bewerberinnen und Bewerber
+hinsichtlich der Motivation, der sozialen Kompetenz und des
 Kommunikationsverhaltens.
 
 (2) Der mündliche Teil besteht aus einem halbstrukturierten Interview.
@@ -582,20 +390,13 @@ Zusätzlich können höchstens zwei weitere Aufgaben gestellt werden.
 
 1.  ein Referat,
 
-
 2.  eine Präsentation,
-
 
 3.  eine Simulationsaufgabe,
 
-
 4.  eine Gruppenaufgabe oder
 
-
 5.  eine Gruppendiskussion.
-
-
-
 
 (4) Zur Vorbereitung des halbstrukturierten Interviews kann ein
 Persönlichkeitstest zur Selbsteinschätzung durchgeführt werden. Die
@@ -626,17 +427,17 @@ ein.
 und Bewerber festgelegt. Die festgelegte Rangfolge ist für die
 Einstellung maßgeblich.
 
-(4) Wer erfolglos am Auswahlverfahren teilgenommen hat, erhält eine
-Mitteilung über die Ablehnung. Die Bewerbungsunterlagen sind auf
-Wunsch zurückzusenden, ansonsten zu vernichten. Elektronisch
+(4) Wer erfolglos am Auswahlverfahren teilgenommen hat, erhält
+eine Mitteilung über die Ablehnung. Die Bewerbungsunterlagen sind
+auf Wunsch zurückzusenden, ansonsten zu vernichten. Elektronisch
 eingereichte Bewerbungsunterlagen sind nach Abschluss des
 Auswahlverfahrens endgültig zu löschen.
 
 
 ### § 21 Täuschung
 
-(1) Wer im Auswahlverfahren täuscht, eine Täuschung versucht oder bei
-einer Täuschung oder einem Täuschungsversuch mitwirkt, wird vom
+(1) Wer im Auswahlverfahren täuscht, eine Täuschung versucht oder
+bei einer Täuschung oder einem Täuschungsversuch mitwirkt, wird vom
 Auswahlverfahren ausgeschlossen.
 
 (2) Die Betroffenen sind vor einer Entscheidung anzuhören.
@@ -651,18 +452,14 @@ Auswahlverfahren ausgeschlossen.
 #### § 22 Dauer und Gliederung der Ausbildung
 
 (1) Die Ausbildung dauert in der Regel zwei Jahre. Eine Entscheidung
-über die Verlängerung oder Verkürzung nach den §§ 15 und 16 der
+über die Verlängerung oder Verkürzung nach den §§ 18 und 19 der
 Bundeslaufbahnverordnung trifft die Dienstbehörde im Benehmen mit der
 Leiterin oder dem Leiter des Zentrums für Nachrichtendienstliche Aus-
 und Fortbildung.
 
-(2) Die Ausbildung umfasst eine fachtheoretische Ausbildung am Zentrum
-für Nachrichtendienstliche Aus- und Fortbildung und eine
+(2) Die Ausbildung umfasst eine fachtheoretische Ausbildung am
+Zentrum für Nachrichtendienstliche Aus- und Fortbildung und eine
 berufspraktische Ausbildung.
-
-(2a) Bis zum 31. Dezember 2022 können für einzelne oder alle
-Lehrveranstaltungen, die keine als Verschlusssachen eingestuften
-Inhalte enthalten, digitale Lehrformate genutzt werden.
 
 (3) Die fachtheoretische Ausbildung unterteilt sich in drei
 Abschnitte. Die berufspraktische Ausbildung unterteilt sich in zwei
@@ -671,81 +468,21 @@ Abschnitte.
 (4) Die Abfolge und die Dauer der einzelnen Abschnitte sind wie folgt
 festgesetzt:
 
-*    *
-    *   Abschnitt
-
-    *   Dauer
-
-
-*    *
-    *   1
-
-    *   2
-
-
-*    *   1
-
-    *   fachtheoretische Ausbildung:
-        Grundlehrgang
-
-    *   drei Monate
-
-
-*    *   2
-
-    *   berufspraktische Ausbildung:
-        Praktikum I
-
-    *   vier Monate
-
-
-*    *   3
-
-    *   fachtheoretische Ausbildung:
-        Aufbaulehrgang
-
-    *   drei Monate
-
-
-*    *   4
-
-    *   berufspraktische Ausbildung:
-        Praktikum II
-
-    *   zehn Monate
-
-
-*    *   5
-
-    *   fachtheoretische Ausbildung:
-        Abschlusslehrgang
-
-    *   vier Monate
-
-
-
-
-(4a) Die Dienstbehörden können einvernehmlich festlegen, dass bis zum
-31\. Dezember 2022 die Abschnitte der fachtheoretischen und der
-berufspraktischen Ausbildung – abweichend von den Absätzen 3 und 4 –
-
-1.  anders unterteilt werden,
-
-
-2.  in einer anderen Abfolge durchgeführt werden,
-
-
-3.  eine andere Dauer haben.
-
-
-
+|  | Abschnitt | Dauer |
+| --- | --- | --- |
+|  | 1 | 2 |
+| 1 | fachtheoretische Ausbildung: Grundlehrgang | drei Monate |
+| 2 | berufspraktische Ausbildung: Praktikum I | vier Monate |
+| 3 | fachtheoretische Ausbildung: Aufbaulehrgang | drei Monate |
+| 4 | berufspraktische Ausbildung: Praktikum II | zehn Monate |
+| 5 | fachtheoretische Ausbildung: Abschlusslehrgang | vier Monate |
 
 (5) Die Dauer der fachtheoretischen Ausbildung beträgt insgesamt
 mindestens 900 Lehrstunden.
 
-(6) Die Dienstbehörden können einvernehmlich festlegen, dass bis zum
-31\. Dezember 2022 die Zahl der Lehrstunden um bis zu 10 Prozent
-verringert wird.
+(6) Für die Lehrveranstaltungen können digitale Lehrformate
+genutzt werden, wenn die Vorgaben zum Umgang mit Verschlusssachen
+berücksichtigt werden.
 
 
 #### § 23 Lehrplan
@@ -758,42 +495,26 @@ Bundesamt für Verfassungsschutz einen Lehrplan für die Ausbildung.
 
 1.  die Fächer und Inhalte der Lehrgänge der fachtheoretischen Ausbildung,
 
-
 2.  die Verteilung der Fächer und Inhalte der fachtheoretischen Ausbildung
     auf die beiden Fachrichtungen, und zwar welche Fächer und Inhalte
 
     a)  in beiden Fachrichtungen vermittelt werden,
 
-
     b)  nur in der Fachrichtung „Bundesnachrichtendienst“ vermittelt werden
         und
 
-
     c)  nur in der Fachrichtung „Verfassungsschutz“ vermittelt werden,
-
-
-
-
 
 3.  die Absolvierung von Leistungstests während der fachtheoretischen
     Ausbildung, und zwar insbesondere
 
     a)  wie viele Leistungstests zu absolvieren sind,
 
-
     b)  in welchen Fächern die Leistungstests zu absolvieren sind und
-
 
     c)  in welcher Form die Leistungstests zu absolvieren sind, sowie
 
-
-
-
-
 4.  die Fächer und Inhalte der praxisbezogenen Lehrveranstaltungen.
-
-
-
 
 
 #### § 24 Leistungstests
@@ -802,28 +523,20 @@ Bundesamt für Verfassungsschutz einen Lehrplan für die Ausbildung.
 
 1.  einer Klausur,
 
-
 2.  einer schriftlichen Ausarbeitung,
-
 
 3.  eines Referats,
 
-
 4.  einer Projektarbeit,
-
 
 5.  eines schriftlichen Tests oder
 
-
 6.  eines mündlichen Tests.
-
-
-
 
 (2) Leistungstests werden mindestens eine Woche im Voraus angekündigt.
 
-(3) Leistungstests werden durch eine Lehrkraft der Stelle bewertet,
-die für die Organisation und Durchführung des jeweiligen
+(3) Leistungstests werden durch eine Lehrkraft der Stelle
+bewertet, die für die Organisation und Durchführung des jeweiligen
 Leistungstests zuständig ist.
 
 
@@ -844,8 +557,8 @@ ist.
 vorliegt. Bei Erkrankung soll die Genehmigung nur erteilt werden, wenn
 unverzüglich ein ärztliches Attest vorgelegt wird. Auf Verlangen der
 Stelle, die für die Organisation und Durchführung des Leistungstests
-zuständig ist, ist entweder ein amtsärztliches Attest oder ein Attest
-einer Ärztin oder eines Arztes, die oder der vom Zentrum für
+zuständig ist, ist entweder ein amtsärztliches Attest oder ein
+Attest einer Ärztin oder eines Arztes, die oder der vom Zentrum für
 Nachrichtendienstliche Aus- und Fortbildung beauftragt worden ist,
 vorzulegen.
 
@@ -857,8 +570,8 @@ Zeitpunkt ein Leistungstest nachgeholt wird.
 
 #### § 26 Täuschung und Ordnungsverstoß bei Leistungstests
 
-(1) Anwärterinnen und Anwärtern, die bei einem Leistungstest täuschen,
-eine Täuschung versuchen, an einer Täuschung oder einem
+(1) Anwärterinnen und Anwärtern, die bei einem Leistungstest
+täuschen, eine Täuschung versuchen, an einer Täuschung oder einem
 Täuschungsversuch mitwirken oder sonst gegen die Ordnung verstoßen,
 soll die Fortsetzung des Leistungstests unter dem Vorbehalt einer
 abweichenden Entscheidung der Stelle, die für die Organisation und
@@ -874,17 +587,13 @@ Leistungstests zuständig ist. Sie kann je nach Schwere des Verstoßes
 
 1.  die Wiederholung des Leistungstests anordnen oder
 
-
 2.  den Leistungstest mit null Rangpunkten bewerten.
-
-
-
 
 (3) Bei einer Täuschung, die erst nach Beendigung eines Leistungstests
 festgestellt wird, gilt Absatz 2 entsprechend.
 
-(4) Die Betroffenen sind vor einer Entscheidung nach Absatz 2 oder 3
-anzuhören.
+(4) Die Betroffenen sind vor einer Entscheidung nach Absatz 2 oder
+3 anzuhören.
 
 
 ### Abschnitt 2 - Fachtheoretische Ausbildung
@@ -892,39 +601,26 @@ anzuhören.
 
 #### § 27 Lehrgebiete
 
-(1) Die Lehrgebiete der fachtheoretischen Ausbildung sind:
+Die Lehrgebiete der fachtheoretischen Ausbildung sind:
 
 1.  operative Beschaffung und Observation,
 
-
 2.  nachrichtendienstliche Informationsauswertung,
-
 
 3.  Staatsrecht, Verwaltungsrecht, Strafrecht, Gesetze über die
     Nachrichtendienste und weitere Gesetze mit nachrichtendienstlichem
     Bezug,
 
-
 4.  internationale Politik und Formen des politischen Extremismus,
-
 
 5.  Sicherheitsfelder mit nachrichtendienstlichem Bezug, insbesondere
     Eigensicherung, Geheimschutz und Spionageabwehr,
 
-
 6.  Nachrichtendienstpsychologie,
-
 
 7.  fremdsprachliche Ausbildung sowie
 
-
 8.  Haushalts-, Kassen- und Rechnungswesen.
-
-
-
-
-(2) Die Dienstbehörden können einvernehmlich festlegen, dass bis zum
-31\. Dezember 2022 eine Reduzierung der Lehrgebiete vorgenommen wird.
 
 
 #### § 28 Organisation und Durchführung
@@ -939,22 +635,11 @@ zuständig, soweit in diesem Abschnitt nichts anderes bestimmt ist.
 (1) In der fachtheoretischen Ausbildung sind mindestens zwölf
 Leistungstests zu absolvieren. Sechs Leistungstests sind Klausuren.
 
-(1a) Die Dienstbehörden können einvernehmlich festlegen, dass bis zum
-31\. Dezember 2022 in der fachtheoretischen Ausbildung
+(2) Die Dienstbehörden können einvernehmlich festlegen, dass in der
+fachtheoretischen Ausbildung mehr als sechs Leistungstests in einer
+anderen Prüfungsform als der Klausur absolviert werden können.
 
-1.  mehr als sechs Leistungstests in einer anderen Prüfungsform als der
-    Klausur absolviert werden können,
-
-
-2.  die Zahl der Leistungstests auf weniger als zwölf reduziert wird und
-
-
-3.  vollständig auf die Leistungstests verzichtet wird.
-
-
-
-
-(2) Die Leistungstests im Abschlusslehrgang müssen mindestens zwei
+(3) Die Leistungstests im Abschlusslehrgang müssen mindestens zwei
 Wochen vor Beginn der Laufbahnprüfung abgeschlossen sein.
 
 
@@ -979,11 +664,7 @@ Leistungstests.
 
 1.  Praktika und
 
-
 2.  praxisbezogenen Lehrveranstaltungen.
-
-
-
 
 (2) Die Dienstbehörde bestimmt und überwacht die Gestaltung und
 Organisation der berufspraktischen Ausbildung.
@@ -1008,11 +689,7 @@ Ausbildung.
 1.  die Anwärterinnen und Anwärter während der berufspraktischen
     Ausbildung und
 
-
 2.  die Ausbildenden.
-
-
-
 
 
 #### § 33 Ausbildende
@@ -1038,29 +715,18 @@ Dienstbehörde eine Praktikumsordnung.
 
 1.  den Ablauf der berufspraktischen Ausbildung,
 
-
 2.  die Dauer der Praktika,
 
-
 3.  die inhaltlichen Anforderungen an die Praktika sowie
-
 
 4.  die Absolvierung von Leistungstests während der praxisbezogenen
     Lehrveranstaltungen, insbesondere
 
     a)  wie viele Leistungstests zu absolvieren sind,
 
-
     b)  in welchen Fächern die Leistungstests zu absolvieren sind und
 
-
     c)  in welcher Form die Leistungstests zu absolvieren sind.
-
-
-
-
-
-
 
 
 #### § 35 Ausbildungsplan für die Praktika
@@ -1073,6 +739,11 @@ zu bestimmen.
 
 (3) Der Ausbildungsplan wird der Anwärterin oder dem Anwärter bekannt
 gegeben.
+
+(4) Ein bereits bekannt gegebener Ausbildungsplan kann von
+der Ausbildungsbehörde geändert werden. Die Änderung ist der
+Dienstbehörde, wenn Ausbildungsbehörde und Dienstbehörde nicht
+identisch sind, und der Anwärterin oder dem Anwärter mitzuteilen.
 
 
 #### § 36 Bewertung der Praktika
@@ -1091,26 +762,16 @@ besprechen.
 (1) In den praxisbezogenen Lehrveranstaltungen sind mindestens zwei
 Leistungstests zu absolvieren. Zwei Leistungstests sind Klausuren.
 
-(2) Die Dienstbehörden können einvernehmlich festlegen, dass bis zum
-31\. Dezember 2022 in den praxisbezogenen Lehrveranstaltungen
-
-1.  die Leistungstests in einer anderen Form als der Klausur absolviert
-    werden können oder
-
-
-2.  die Zahl der zu absolvierenden Leistungstests auf einen reduziert wird
-    und dieser Leistungstest in einer anderen Form als der Klausur
-    absolviert werden kann.
-
-
-
+(2) Die Dienstbehörden können einvernehmlich festlegen, dass in
+den praxisbezogenen Lehrveranstaltungen die Leistungstests in einer
+anderen Form als der Klausur absolviert werden können.
 
 
 #### § 38 Zeugnis über die Praktika und über die Leistungstests, Rangpunktzahl der Praktika und der Leistungstests
 
 (1) Die Anwärterin oder der Anwärter erhält vom Zentrum für
-Nachrichtendienstliche Aus- und Fortbildung ein Zeugnis über die
-Praktika und über die Leistungstests in den praxisbezogenen
+Nachrichtendienstliche Aus- und Fortbildung ein Zeugnis über
+die Praktika und über die Leistungstests in den praxisbezogenen
 Lehrveranstaltungen.
 
 (2) In dem Zeugnis sind anzugeben
@@ -1119,26 +780,14 @@ Lehrveranstaltungen.
 
     a)  die Rangpunkte jeder bewerteten Ausbildungsstation und
 
-
     b)  die Rangpunktzahl der Praktika und
-
-
-
-
 
 2.  für die praxisbezogenen Lehrveranstaltungen
 
     a)  die Rangpunkte jedes Leistungstests und
 
-
     b)  die Rangpunktzahl der Leistungstests in den praxisbezogenen
         Lehrveranstaltungen.
-
-
-
-
-
-
 
 (3) Die Rangpunktzahl der Praktika ist das arithmetische Mittel der
 Einzelbewertungen der bewerteten Ausbildungsstationen.
@@ -1170,12 +819,8 @@ fünf Jahren. Wiederbestellung ist zulässig.
 1.  für die Fachrichtung „Bundesnachrichtendienst“ überwiegend Angehörige
     des Bundesnachrichtendienstes und
 
-
 2.  für die Fachrichtung „Verfassungsschutz“ überwiegend Angehörige des
     Bundesamtes für Verfassungsschutz.
-
-
-
 
 
 ### Abschnitt 2 - Zwischenprüfung
@@ -1194,22 +839,14 @@ der eine erfolgreiche weitere Ausbildung erwarten lässt.
 
 (1) Die Zwischenprüfung besteht aus drei Klausuren.
 
-(2) Je eine Klausur wird einem der Lehrgebiete nach § 27 entnommen. Es
-können jedoch auch zwei Klausuren demselben Lehrgebiet entnommen
+(2) Je eine Klausur wird einem der Lehrgebiete nach § 27 entnommen.
+Es können jedoch auch zwei Klausuren demselben Lehrgebiet entnommen
 werden.
-
-(2a) Die Dienstbehörden können einvernehmlich festlegen, dass bis zum
-31\. Dezember 2022 der Inhalt der Klausur mehr als einem Lehrgebiet
-entnommen wird.
 
 (3) Die Bearbeitungszeit für jede Klausur beträgt 180 Minuten.
 
 (4) Die Klausuren werden an drei aufeinanderfolgenden Arbeitstagen
 geschrieben.
-
-(4a) Die Dienstbehörden können einvernehmlich festlegen, dass bis zum
-31\. Dezember 2022 die Klausuren nicht an aufeinanderfolgenden
-Arbeitstagen geschrieben werden.
 
 (5) Die Klausuren werden unter Aufsicht geschrieben.
 
@@ -1225,20 +862,17 @@ Prüfende.
     gehobenen oder des höheren nichttechnischen Verwaltungsdienstes des
     Bundes und
 
-
 2.  als Zweitprüfende oder Zweitprüfender eine Beamtin oder ein Beamter
     des gehobenen oder des höheren nichttechnischen Verwaltungsdienstes
     des Bundes.
-
-
 
 Eine oder einer der beiden Prüfenden kann auch Tarifbeschäftigte oder
 Tarifbeschäftigter oder Soldatin oder Soldat sein.
 
 (3) Im Einvernehmen mit der Dienstbehörde kann das Prüfungsamt
-festlegen, dass nur eine Prüfende oder ein Prüfender bestellt wird. In
-diesem Fall kann die oder der Prüfende auch Tarifbeschäftigte oder
-Tarifbeschäftigter oder Soldatin oder Soldat sein. Die oder der
+festlegen, dass nur eine Prüfende oder ein Prüfender bestellt wird.
+In diesem Fall kann die oder der Prüfende auch Tarifbeschäftigte
+oder Tarifbeschäftigter oder Soldatin oder Soldat sein. Die oder der
 Prüfende wird vom Prüfungsamt bestellt.
 
 
@@ -1256,11 +890,7 @@ Die Zwischenprüfung hat bestanden,
 1.  wer in mindestens zwei Klausuren jeweils eine Rangpunktzahl von
     mindestens 5,00 erreicht hat und
 
-
 2.  bei wem die Rangpunktzahl der Zwischenprüfung mindestens 5,00 beträgt.
-
-
-
 
 
 #### § 46 Zwischenprüfungszeugnis
@@ -1270,11 +900,7 @@ Zwischenprüfungszeugnis mit Angabe
 
 1.  der Rangpunkte und Noten der Klausuren sowie
 
-
 2.  der Rangpunktzahl der Zwischenprüfung.
-
-
-
 
 
 #### § 47 Bescheid über die nichtbestandene Zwischenprüfung
@@ -1286,7 +912,7 @@ Bescheinigung über die erbrachten Leistungen.
 
 #### § 48 Wiederholung der Zwischenprüfung
 
-(1) Wird die Zwischenprüfung wiederholt (§ 17 Absatz 3 Nummer 2 und
+(1) Wird die Zwischenprüfung wiederholt (§ 20 Absatz 3 Nummer 2 und
 Absatz 5 Satz 1 Nummer 2 der Bundeslaufbahnverordnung), so ist sie
 vollständig zu wiederholen.
 
@@ -1323,47 +949,16 @@ mündlichen Abschlussprüfung.
 
 1.  aus dem Lehrgebiet nach § 27 Nummer 3 zwei Klausuren,
 
-
 2.  aus dem Lehrgebiet nach § 27 Nummer 6 eine Klausur und
-
 
 3.  aus zwei der Lehrgebiete nach § 27 Nummer 1, 2, 4 und 5 jeweils eine
     Klausur.
-
-
-
-
-(2a) Die Dienstbehörden können einvernehmlich festlegen, dass bis zum
-31\. Dezember 2022
-
-1.  der Gegenstand der Klausuren den Lehrgebieten nach § 27 Absatz 1
-    Nummer 1 bis 6 auch anders zugeordnet wird und
-
-
-2.  der Gegenstand der jeweiligen Klausur aus mehr als einem der genannten
-    Lehrgebiete entnommen wird.
-
-
-
 
 (3) Die Bearbeitungszeit beträgt für jede Klausur 180 Minuten.
 
 (4) Die Klausuren werden an aufeinanderfolgenden Arbeitstagen
 geschrieben. An einem Tag wird nur eine Klausur geschrieben. Nach zwei
 Prüfungstagen ist ein freier Tag vorzusehen.
-
-(4a) Die Dienstbehörden können einvernehmlich festlegen, dass bis zum
-31\. Dezember 2022
-
-1.  die Klausuren – abweichend von Absatz 4 Satz 1 – nicht an
-    aufeinanderfolgenden Arbeitstagen geschrieben werden oder
-
-
-2.  nach zwei aufeinanderfolgenden Prüfungstagen – abweichend von Absatz 4
-    Satz 3 – mehr als ein freier Tag vorzusehen ist.
-
-
-
 
 (5) Die Klausuren werden unter Aufsicht geschrieben.
 
@@ -1378,12 +973,9 @@ schriftlichen Abschlussprüfung zwei Prüfende bestellt.
 1.  als Erstprüfende oder Erstprüfender eine Dozentin oder ein Dozent des
     Zentrums für Nachrichtendienstliche Aus- und Fortbildung und
 
-
 2.  als Zweitprüfende oder Zweitprüfender eine Beamtin oder ein Beamter
     des gehobenen oder des höheren nichttechnischen Verwaltungsdienstes
     des Bundes.
-
-
 
 Die oder der Zweitprüfende kann jedoch auch Tarifbeschäftigte oder
 Tarifbeschäftigter oder Soldatin oder Soldat sein.
@@ -1403,12 +995,8 @@ Die schriftliche Abschlussprüfung hat bestanden,
 1.  wer in mindestens drei Klausuren jeweils eine Rangpunktzahl von
     mindestens 5,00 erreicht hat und
 
-
 2.  bei wem die Rangpunktzahl der schriftlichen Abschlussprüfung
     mindestens 5,00 beträgt.
-
-
-
 
 
 #### Unterabschnitt 3 - Mündliche Abschlussprüfung
@@ -1445,23 +1033,19 @@ Prüfungskommissionen den gleichen Bewertungsmaßstab anlegen.
 1.  einer Beamtin oder einem Beamten des höheren nichttechnischen
     Verwaltungsdienstes des Bundes als Vorsitzender oder Vorsitzendem,
 
-
 2.  einer Beamtin oder einem Beamten des gehobenen oder höheren Dienstes
     als Beisitzender oder Beisitzendem und
-
 
 3.  einer Beamtin oder einem Beamten des gehobenen Dienstes als
     Beisitzender oder Beisitzendem.
 
-
-
 Eine oder einer der beiden Beisitzenden kann auch Tarifbeschäftigte
-oder Tarifbeschäftigter oder Soldatin oder Soldat sein. Mindestens ein
-Mitglied einer Prüfungskommission soll Dozentin oder Dozent des
+oder Tarifbeschäftigter oder Soldatin oder Soldat sein. Mindestens
+ein Mitglied einer Prüfungskommission soll Dozentin oder Dozent des
 Zentrums für Nachrichtendienstliche Aus- und Fortbildung sein.
 
-(3) Die Mitglieder der Prüfungskommission müssen mindestens die
-Befähigung für die Laufbahn des gehobenen nichttechnischen
+(3) Die Mitglieder der Prüfungskommission müssen mindestens
+die Befähigung für die Laufbahn des gehobenen nichttechnischen
 Verwaltungsdienstes des Bundes, einen Bachelorabschluss oder eine
 gleichwertige Qualifikation besitzen.
 
@@ -1470,15 +1054,11 @@ gleichwertige Qualifikation besitzen.
 1.  für die Fachrichtung Bundesnachrichtendienst überwiegend Angehörige
     des Bundesnachrichtendienstes und
 
-
 2.  für die Fachrichtung Verfassungsschutz überwiegend Angehörige des
     Bundesamtes für Verfassungsschutz.
 
-
-
-
-(5) Das Prüfungsamt bestellt die Mitglieder der Prüfungskommission in
-der Regel für die Dauer von fünf Jahren. Wiederbestellung ist
+(5) Das Prüfungsamt bestellt die Mitglieder der Prüfungskommission
+in der Regel für die Dauer von fünf Jahren. Wiederbestellung ist
 zulässig.
 
 (6) Die Mitglieder der Prüfungskommission sind bei ihren
@@ -1491,8 +1071,8 @@ Stimme der oder des Vorsitzenden den Ausschlag.
 
 ##### § 57 Gegenstand und Durchführung der mündlichen Abschlussprüfung
 
-(1) Die Prüfungsfächer der mündlichen Abschlussprüfung stammen aus den
-Lehrgebieten nach § 27. Ausgewählt werden sie von der
+(1) Die Prüfungsfächer der mündlichen Abschlussprüfung stammen
+aus den Lehrgebieten nach § 27. Ausgewählt werden sie von der
 Prüfungskommission.
 
 (2) Für jedes ausgewählte Prüfungsfach bestimmt die Prüfungskommission
@@ -1505,12 +1085,8 @@ derselben Fachrichtung geprüft werden.
 (4) In einer Gruppe dürfen höchstens fünf Anwärterinnen und Anwärter
 geprüft werden.
 
-(4a) Die Dienstbehörden können einvernehmlich festlegen, dass bis zum
-31\. Dezember 2022 die mündliche Abschlussprüfung als Einzelprüfung
-durchgeführt wird.
-
-(5) Die Dauer der mündlichen Abschlussprüfung darf je Anwärterin oder
-Anwärter 30 Minuten nicht unterschreiten und soll 40 Minuten je
+(5) Die Dauer der mündlichen Abschlussprüfung darf je Anwärterin
+oder Anwärter 30 Minuten nicht unterschreiten und soll 40 Minuten je
 Anwärterin oder Anwärter nicht überschreiten.
 
 
@@ -1525,19 +1101,13 @@ gestatten:
 
 1.  Vertreterinnen und Vertretern des Bundeskanzleramtes,
 
-
-2.  Vertreterinnen und Vertretern des Bundesministeriums des Innern, für
-    Bau und Heimat,
-
+2.  Vertreterinnen und Vertretern des Bundesministeriums des Innern und
+    für Heimat,
 
 3.  den Leiterinnen oder den Leitern des Bundesnachrichtendienstes und des
     Bundesamtes für Verfassungsschutz sowie
 
-
 4.  in Ausnahmefällen auch anderen mit der Ausbildung befassten Personen.
-
-
-
 
 (3) Die Zuhörerinnen und Zuhörer dürfen während der mündlichen
 Abschlussprüfung keine Aufzeichnungen machen.
@@ -1560,8 +1130,8 @@ Mittel der Bewertungen der in den einzelnen Prüfungsfächern erbrachten
 Leistungen.
 
 (4) Im Anschluss an die mündliche Abschlussprüfung teilt die oder der
-Vorsitzende der Prüfungskommission den Anwärterinnen und Anwärtern die
-Ergebnisse der mündlichen Abschlussprüfung mit und erläutert die
+Vorsitzende der Prüfungskommission den Anwärterinnen und Anwärtern
+die Ergebnisse der mündlichen Abschlussprüfung mit und erläutert die
 Bewertungen auf Wunsch kurz mündlich.
 
 
@@ -1582,10 +1152,8 @@ Prüfungskommission zu bestätigen.
 Die mündliche Abschlussprüfung hat bestanden, wer in der mündlichen
 Abschlussprüfung mindestens eine Rangpunktzahl von 5,00 erreicht hat.
 
-Bestehen der Laufbahnprüfung,
-Wiederholung der Laufbahnprüfung, Abschlusszeugnis,
 
-#### Unterabschnitt 4 - Bescheid über die nichtbestandene Laufbahnprüfung
+#### Unterabschnitt 4 - Bestehen der Laufbahnprüfung, Wiederholung der Laufbahnprüfung, Abschlusszeugnis, Bescheid über die nichtbestandene Laufbahnprüfung
 
 
 ##### § 62 Bestehen der Laufbahnprüfung und Abschlussnote
@@ -1599,53 +1167,35 @@ Bewertungen mit der genannten Gewichtung ein:
 
 1.  die Rangpunktzahl der Zwischenprüfung mit 10 Prozent,
 
-
 2.  die Rangpunktzahl der Leistungstests der fachtheoretischen Ausbildung
     mit 30 Prozent,
 
-
 3.  die Rangpunktzahl der Praktika mit 12,5 Prozent,
-
 
 4.  die Rangpunktzahl der Leistungstests in den praxisbezogenen
     Lehrveranstaltungen mit 2,5 Prozent,
 
-
 5.  die Rangpunktzahl der schriftlichen Abschlussprüfung mit 30 Prozent
     und
 
-
 6.  die Rangpunktzahl der mündlichen Abschlussprüfung mit 15 Prozent.
-
-
-
-
-(2a) Ist festgelegt worden, dass in der fachtheoretischen Ausbildung
-vollständig auf die Leistungstests verzichtet wird, so legen die
-Dienstbehörden einvernehmlich fest, durch welche anderen Bewertungen
-die Rangpunktzahl der Leistungstests der fachtheoretischen Ausbildung
-ersetzt wird bei der Berechnung der Rangpunktzahl der Laufbahnprüfung.
 
 (3) Die Laufbahnprüfung hat bestanden,
 
-1.  wer die schriftliche und die mündliche Abschlussprüfung bestanden hat
-    und
-
+1.  wer die schriftliche und die mündliche Abschlussprüfung bestanden
+    hat und
 
 2.  bei wem die Rangpunktzahl der Laufbahnprüfung mindestens 5,00 beträgt.
 
-
-
-
-(4) Ist die Laufbahnprüfung bestanden, so wird die Rangpunktzahl der
-Laufbahnprüfung kaufmännisch auf eine ganze Zahl gerundet. Der
+(4) Ist die Laufbahnprüfung bestanden, so wird die Rangpunktzahl
+der Laufbahnprüfung kaufmännisch auf eine ganze Zahl gerundet. Der
 gerundeten Rangpunktzahl wird die entsprechende Note zugeordnet und
 als Abschlussnote festgesetzt.
 
 
 ##### § 63 Wiederholung der Laufbahnprüfung
 
-(1) Wird die Laufbahnprüfung wiederholt (§ 17 Absatz 3 Nummer 1 und
+(1) Wird die Laufbahnprüfung wiederholt (§ 20 Absatz 3 Nummer 1 und
 Absatz 5 Satz 1 Nummer 1 der Bundeslaufbahnverordnung), so ist sie
 vollständig zu wiederholen.
 
@@ -1653,11 +1203,7 @@ vollständig zu wiederholen.
 
 1.  welche Teile der Ausbildung zu wiederholen sind und
 
-
 2.  welche Leistungstests zu absolvieren sind.
-
-
-
 
 (3) Bei der Wiederholung von Teilen der Ausbildung sind auch die
 entsprechenden Leistungstests zu wiederholen.
@@ -1673,8 +1219,8 @@ der Laufbahnprüfung erreicht werden, ersetzen die zuvor erreichten.
 
 ##### § 64 Abschlusszeugnis
 
-(1) Wer die Laufbahnprüfung bestanden hat, erhält vom Prüfungsamt ein
-Abschlusszeugnis.
+(1) Wer die Laufbahnprüfung bestanden hat, erhält vom Prüfungsamt
+ein Abschlusszeugnis.
 
 (2) Das Abschlusszeugnis enthält
 
@@ -1682,11 +1228,7 @@ Abschlusszeugnis.
     Laufbahnprüfung bestanden hat und die Befähigung für den mittleren
     nichttechnischen Verwaltungsdienst des Bundes erworben hat, und
 
-
 2.  die Rangpunktzahl der Laufbahnprüfung und die Abschlussnote.
-
-
-
 
 
 ##### § 65 Bescheid über die nichtbestandene Laufbahnprüfung
@@ -1695,11 +1237,7 @@ Wer die Laufbahnprüfung nicht bestanden hat, erhält vom Prüfungsamt
 
 1.  einen Bescheid über die nichtbestandene Laufbahnprüfung und
 
-
 2.  eine Bescheinigung über die erbrachten Ausbildungsleistungen.
-
-
-
 
 
 ### Abschnitt 4 - Weitere Prüfungsvorschriften
@@ -1748,15 +1286,10 @@ Prüfungsamt kann abhängig von der Schwere des Verstoßes
 
 1.  die Wiederholung der Prüfung oder des Prüfungsteils anordnen,
 
-
 2.  die Prüfung oder den Prüfungsteil mit null Rangpunkten bewerten oder
-
 
 3.  die Zwischenprüfung oder die Laufbahnprüfung für endgültig nicht
     bestanden erklären.
-
-
-
 
 (3) Bei einer Täuschung, die nach Beendigung einer Prüfung oder eines
 Prüfungsteils festgestellt wird, gilt Absatz 2 entsprechend.
@@ -1779,30 +1312,21 @@ geführt.
 
 1.  die Klausuren der Zwischenprüfung,
 
-
 2.  eine Ausfertigung des Zwischenprüfungszeugnisses,
-
 
 3.  eine Ausfertigung des Zeugnisses über die Leistungstests der
     fachtheoretischen Ausbildung,
 
-
 4.  eine Ausfertigung des Zeugnisses über die Praktika und über die
     Leistungstests der praxisbezogenen Lehrveranstaltungen,
 
-
 5.  die Klausuren der schriftlichen Abschlussprüfung,
-
 
 6.  eine Ausfertigung des Protokolls über die mündliche Abschlussprüfung
     sowie
 
-
 7.  eine Ausfertigung des Abschlusszeugnisses oder des Bescheids über die
     nichtbestandene Laufbahnprüfung.
-
-
-
 
 (3) Die Prüfungsakte wird beim Prüfungsamt nach Beendigung des
 Vorbereitungsdienstes mindestens fünf Jahre und höchstens zehn Jahre
@@ -1824,15 +1348,15 @@ dieser Verordnung getroffen worden sind, entscheidet das Prüfungsamt.
 
 ### § 70 Übergangsvorschriften
 
-(1) Für Anwärterinnen und Anwärter, die bis zum 28. Februar 2019 mit
-dem Vorbereitungsdienst des mittleren Dienstes im
-Bundesnachrichtendienst begonnen haben, ist weiter die Verordnung über
-die Laufbahn, Ausbildung und Prüfung für den mittleren Dienst im
-Bundesnachrichtendienst vom 22. Juni 2004 (BGBl. I S. 1303), die
+(1) Für Anwärterinnen und Anwärter, die bis zum 28. Februar
+2019 mit dem Vorbereitungsdienst des mittleren Dienstes im
+Bundesnachrichtendienst begonnen haben, ist weiter die Verordnung
+über die Laufbahn, Ausbildung und Prüfung für den mittleren Dienst
+im Bundesnachrichtendienst vom 22. Juni 2004 (BGBl. I S. 1303), die
 zuletzt durch Artikel 3 Absatz 14 der Verordnung vom 12. Februar 2009
-(BGBl. I S. 320) geändert worden ist, anzuwenden mit der Maßgabe, dass
-an die Stelle des § 28 Absatz 6 Satz 2 der Verordnung über die
-Laufbahn, Ausbildung und Prüfung für den mittleren Dienst im
+(BGBl. I S. 320) geändert worden ist, anzuwenden mit der Maßgabe,
+dass an die Stelle des § 28 Absatz 6 Satz 2 der Verordnung über
+die Laufbahn, Ausbildung und Prüfung für den mittleren Dienst im
 Bundesnachrichtendienst § 10 dieser Verordnung tritt.
 
 (2) Für Anwärterinnen und Anwärter, die bis zum 28. Februar 2019 mit

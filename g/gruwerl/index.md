@@ -33,50 +33,35 @@ Grubenwehr-Ehrenzeichen in Gold verliehen.
 
 ## § 3
 
-
 a)  Mit dem Grubenwehr-Ehrenzeichen in Silber können ausgezeichnet werden:
 
     1.  Mitglieder einer Grubenwehr, die wenigstens 15 Jahre in einer
         Grubenwehr in vorbildlicher Weise Dienst getan haben,
 
-
     2.  Mitglieder einer Grubenwehr mit kürzerer Dienstzeit, wenn sie in der
         Grubenwehr in vorbildlicher Weise Dienst getan haben und wegen eines
         Unfalles im Dienst der Grubenwehr ausscheiden müssen,
 
-
-    3.  Mitglieder einer Grubenwehr oder andere Bergleute für mutiges und
-        entschlossenes Verhalten beim Einsatz der Grubenwehr oder bei
+    3.  Mitglieder einer Grubenwehr oder andere Bergleute für mutiges
+        und entschlossenes Verhalten beim Einsatz der Grubenwehr oder bei
         Rettungsarbeiten.
-
-
-
-
 
 b)  Mit dem Grubenwehr-Ehrenzeichen in Gold können ausgezeichnet werden:
 
     1.  Mitglieder einer Grubenwehr, die wenigstens 20 Jahre in der Grubenwehr
         in vorbildlicher Weise Dienst getan haben,
 
-
     2.  Mitglieder einer Grubenwehr mit kürzerer, jedoch wenigstens
         fünfzehnjähriger Dienstzeit, wenn sie in der Grubenwehr in
         vorbildlicher Weise Dienst getan haben und wegen eines Unfalles im
         Dienst der Grubenwehr ausscheiden müssen,
 
-
-    3.  Mitglieder einer Grubenwehr oder andere Bergleute, die bereits mit dem
-        Grubenwehr-Ehrenzeichen in Silber ausgezeichnet sind, für wiederholtes
-        mutiges und entschlossenes Verhalten beim Einsatz der Grubenwehr oder
-        bei Rettungsarbeiten, sofern nicht die besondere Bedeutung der
-        Rettungstat eine Auszeichnung mit dem Verdienstorden der
+    3.  Mitglieder einer Grubenwehr oder andere Bergleute, die bereits
+        mit dem Grubenwehr-Ehrenzeichen in Silber ausgezeichnet sind, für
+        wiederholtes mutiges und entschlossenes Verhalten beim Einsatz der
+        Grubenwehr oder bei Rettungsarbeiten, sofern nicht die besondere
+        Bedeutung der Rettungstat eine Auszeichnung mit dem Verdienstorden der
         Bundesrepublik Deutschland rechtfertigt.
-
-
-
-
-
-
 
 
 ## § 4
@@ -87,12 +72,9 @@ gekreuztem Schlägel und Eisen das Kreuz der Grubenwehr und auf diesem
 den Bundesadler. Das Kreuz ist von einem Eichenblattkranz umgeben. Die
 Rückseite der Medaille trägt die Inschrift:
 
-*   "Für besondere Verdienste
+-   "Für besondere Verdienste
 
     im Grubenrettungswesen".
-
-
-
 
 (2) Die Medaille wird an einem orangefarbenen Band an der oberen
 linken Brustseite getragen. Das Band ist von schwarzen Streifen
@@ -116,8 +98,8 @@ Bundespräsidenten.
 
 ## § 6
 
-Einzelheiten über die Einreichung und Behandlung der Vorschläge für
-das Grubenwehr-Ehrenzeichen werden in besonderen
+Einzelheiten über die Einreichung und Behandlung der
+Vorschläge für das Grubenwehr-Ehrenzeichen werden in besonderen
 Durchführungsbestimmungen geregelt.
 
 

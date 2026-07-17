@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zur Einführung der Selbstverwaltung auf dem Gebiet der Sozialversicherung
-  und Angleichung des Rechts der Krankenversicherung im Land Berlin
+Title: Gesetz zur Einführung der Selbstverwaltung auf dem Gebiet der Sozialversicherung und Angleichung des Rechts der Krankenversicherung im Land Berlin
 jurabk: SKAGEG
 layout: default
 origslug: skageg
@@ -17,11 +16,10 @@ Fundstelle
 :   BGBl I: 1957, 1883
 
 Zuletzt geändert durch
-:   Art. 15 G v. 29. 4.1997 I 968
+:   Art. 15 G v. 29.4.1997 I 968
 
 
 ## Erster Abschnitt - Einführung der Selbstverwaltung
-
 
 
 ### § 1
@@ -37,12 +35,11 @@ Zuletzt geändert durch
 ## Zweiter Abschnitt - Rechtsangleichung
 
 
-
 ### § 3
 
 Die Vorschriften des Ersten und des Zweiten Buchs der
-Reichsversicherungsordnung in der Fassung der Ersten Verordnung zur
-Vereinfachung des Leistungs- und Beitragsrechts in der
+Reichsversicherungsordnung in der Fassung der Ersten Verordnung
+zur Vereinfachung des Leistungs- und Beitragsrechts in der
 Sozialversicherung vom 17. März 1945 (Reichsgesetzbl. I S. 41) gelten
 im Land Berlin, soweit dieses Gesetz nichts anderes bestimmt.
 
@@ -64,11 +61,10 @@ Landes Berlin über.
 ## Dritter Abschnitt - Übergangsvorschriften
 
 
-
 ### § 6
 
-Die Krankenversicherungsanstalt Berlin ist eine Ortskrankenkasse im
-Sinne des § 225 der Reichsversicherungsordnung. Sie erhält die
+Die Krankenversicherungsanstalt Berlin ist eine Ortskrankenkasse
+im Sinne des § 225 der Reichsversicherungsordnung. Sie erhält die
 Bezeichnung "Allgemeine Ortskrankenkasse Berlin".
 
 
@@ -85,34 +81,34 @@ aufnehmen, wenn dies die Mehrheit der für die stillgelegte
 Betriebskrankenkasse in Betracht kommenden abstimmenden Arbeitgeber
 und die Mehrheit der in Betracht kommenden abstimmenden volljährigen
 Arbeitnehmer, bei einer stillgelegten Innungskrankenkasse die
-beteiligten Innungen mit Zustimmung des Gesellenausschusses, bis zum
-Schluß des auf die Verkündung des Gesetzes folgenden Kalendermonats
-bei der für die Sozialversicherung zuständigen obersten
+beteiligten Innungen mit Zustimmung des Gesellenausschusses,
+bis zum Schluß des auf die Verkündung des Gesetzes folgenden
+Kalendermonats bei der für die Sozialversicherung zuständigen obersten
 Verwaltungsbehörde des Landes Berlin beantragen und diese feststellt,
 daß die finanzielle Leistungsfähigkeit der Krankenkasse hinreichend
 gesichert ist.
 
-(3) Wird für eine stillgelegte Betriebs- oder Innungskrankenkasse ein
-Antrag auf Wiederaufnahme ihrer Tätigkeit nicht gestellt, so ist die
-Krankenkasse mit dem Ablauf der Antragsfrist aufgelöst. Wird der
-Antrag abgelehnt, so ist die Krankenkasse aufgelöst, sobald die
-Ablehnung unanfechtbar geworden ist. Wird dem Antrag entsprochen, so
-hat die entscheidende Stelle den Tag festzusetzen, mit dem die
+(3) Wird für eine stillgelegte Betriebs- oder Innungskrankenkasse
+ein Antrag auf Wiederaufnahme ihrer Tätigkeit nicht gestellt, so
+ist die Krankenkasse mit dem Ablauf der Antragsfrist aufgelöst. Wird
+der Antrag abgelehnt, so ist die Krankenkasse aufgelöst, sobald die
+Ablehnung unanfechtbar geworden ist. Wird dem Antrag entsprochen,
+so hat die entscheidende Stelle den Tag festzusetzen, mit dem die
 Krankenkasse ihre Tätigkeit wieder aufnimmt.
 
 (4) Die für die Sozialversicherung zuständige oberste
-Verwaltungsbehörde des Landes Berlin trifft auf Vorschlag des für die
-Krankenkassenart zuständigen Bundesverbands im Einzelfall die
+Verwaltungsbehörde des Landes Berlin trifft auf Vorschlag des für
+die Krankenkassenart zuständigen Bundesverbands im Einzelfall die
 erforderliche vorläufige Regelung für die Bildung der Organe der
 Krankenkassen, die ihre Tätigkeit wieder aufnehmen.
 
 
 ### § 8
 
-Die Bundespostbetriebskrankenkasse kann ihren Bereich auf das Land
-Berlin erstrecken, wenn die Mehrheit der für die
-Bundespostbetriebskrankenkasse in Betracht kommenden Arbeitnehmer im
-Land Berlin und die Landespostdirektion Berlin zustimmen. Als
+Die Bundespostbetriebskrankenkasse kann ihren Bereich auf
+das Land Berlin erstrecken, wenn die Mehrheit der für die
+Bundespostbetriebskrankenkasse in Betracht kommenden Arbeitnehmer
+im Land Berlin und die Landespostdirektion Berlin zustimmen. Als
 Arbeitgeber im Sinne der §§ 245 und 246 der Reichsversicherungsordnung
 gilt insoweit die Bundesrepublik Deutschland.
 
@@ -135,8 +131,8 @@ mit dem Tag der Auflösung auf die Allgemeine Ortskrankenkasse Berlin
 oder nur auf Grund besonderer Vereinbarungen für übertragbar erklärt
 sind.
 
-(3) Verfügungen, die vor dem Inkrafttreten dieses Gesetzes über die in
-den Absätzen 1 und 2 genannten Gegenständen getroffen sind, bleiben
+(3) Verfügungen, die vor dem Inkrafttreten dieses Gesetzes über die
+in den Absätzen 1 und 2 genannten Gegenständen getroffen sind, bleiben
 wirksam.
 
 (4) Dingliche Rechte an Grundstücken und sonstigen Sachen und Rechten
@@ -164,8 +160,8 @@ des Bürgerlichen Gesetzbuchs findet keine Anwendung.
 ### § 12
 
 Das im Land Berlin belegene Vermögen (§ 10 Abs. 1) und die
-Verbindlichkeiten der Lichterfelder Ersatzkasse gehen mit dem Tag des
-Inkrafttretens dieses Gesetzes im Land Berlin auf die Deutsche
+Verbindlichkeiten der Lichterfelder Ersatzkasse gehen mit dem Tag
+des Inkrafttretens dieses Gesetzes im Land Berlin auf die Deutsche
 Angestellten-Krankenkasse über. § 10 Abs. 2 bis 4 und § 11 Abs. 2
 gelten entsprechend.
 
@@ -194,8 +190,8 @@ des Verbandes Berliner Ortskrankenkassen erlischt mit dem Tag der
 Auflösung.
 
 (2) Die Treuhandschaft des Bundes und des Landes Berlin an dem
-Vermögen der nach dem 8. Mai 1945 stillgelegten Krankenkassen, die
-ihre Tätigkeit nach den Vorschriften dieses Gesetzes wieder
+Vermögen der nach dem 8. Mai 1945 stillgelegten Krankenkassen,
+die ihre Tätigkeit nach den Vorschriften dieses Gesetzes wieder
 aufgenommen haben, erlischt mit dem Tag der Wiederaufnahme ihrer
 Tätigkeit.
 
@@ -206,10 +202,10 @@ dem Tag des Inkrafttretens dieses Gesetzes im Land Berlin.
 
 ### § 16
 
-(1) Innungskrankenkassen mit Sitz im Land Berlin, die Versicherte von
-der Allgemeinen Ortskrankenkasse Berlin übernehmen, und Ersatzkassen,
-zu denen Berliner Versicherte übertreten, haben durch die Abgabe der
-Versicherten freiwerdende Arbeitnehmer der Allgemeinen
+(1) Innungskrankenkassen mit Sitz im Land Berlin, die Versicherte
+von der Allgemeinen Ortskrankenkasse Berlin übernehmen, und
+Ersatzkassen, zu denen Berliner Versicherte übertreten, haben durch
+die Abgabe der Versicherten freiwerdende Arbeitnehmer der Allgemeinen
 Ortskrankenkasse Berlin zu übernehmen. Freiwerdende Arbeitnehmer sind
 in der Regel in einer Zahl zu übernehmen, die mit 400 vervielfacht
 zumindest die Zahl der übernommenen Versicherten erreichen muß. Für
@@ -246,13 +242,10 @@ Berlin erstreckt wird.
 ## Vierter Abschnitt
 
 
-
 ### (XXXX) §§ 19 u. 20
 
 
-
 ## Fünfter Abschnitt - Schlußvorschriften
-
 
 
 ### § 21

@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Zulassung von Anbietern mautdienstbezogener Leistungen
-  für das EETS-Gebiet Bundesfernstraßenmautgesetz
+Title: Verordnung über die Zulassung von Anbietern mautdienstbezogener Leistungen für das EETS-Gebiet Bundesfernstraßenmautgesetz
 jurabk: EEMD-ZV
 layout: default
 origslug: eemd-zv
@@ -17,7 +16,7 @@ Fundstelle
 :   BAnz: AT 27.03.2018 V2
 
 Zuletzt geändert durch
-:   Art. 1 V v. 1.7.2020 BAnz AT 31.08.2020 V2
+:   Art. 2 V v. 20.10.2025 I Nr. 244
 
 
 ## Eingangsformel
@@ -51,7 +50,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (Text siehe: EEMD-ZVAnl I)
 
 
-## Anlage II Vertrag über Die Durchführung des Europäischen elektronischen Mautdienstes auf Bundesfernstraßen im Geltungsbereich des Bundesfernstraßenmautgesetzes (EETS-Zulassungsvertrag)
+## Anlage II Vertrag über die Durchführung des europäischen elektronischen Mautdienstes auf Bundesstraßen im Geltungsbereich des Bundesfernstraßenmautgesetzes (EETS-Zulassungsvertrag)
 
 (Text siehe: EEMD-ZVAnl II)
 

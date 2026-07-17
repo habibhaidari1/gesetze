@@ -1,7 +1,5 @@
 ---
-Title: Gesetz zu dem Vertrag vom 10. September 1984 zwischen der Bundesrepublik Deutschland
-  und dem Königreich der Niederlande über die Zusammenarbeit im Bereich von Ems und
-  Dollart sowie in den angrenzenden Gebieten (Kooperationsvertrag Ems-Dollart)
+Title: Gesetz zu dem Vertrag vom 10. September 1984 zwischen der Bundesrepublik Deutschland und dem Königreich der Niederlande über die Zusammenarbeit im Bereich von Ems und Dollart sowie in den angrenzenden Gebieten (Kooperationsvertrag Ems-Dollart)
 jurabk: EmsDolKoopVtrNLDG
 layout: default
 origslug: emsdolkoopvtrnldg
@@ -18,7 +16,6 @@ Fundstelle
 :   BGBl II: 1986, 509
 
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
@@ -33,10 +30,10 @@ Niederlande über die Zusammenarbeit im Bereich von Ems und Dollart
 sowie in den angrenzenden Gebieten (Kooperationsvertrag Ems-Dollart)
 wird zugestimmt.
 
-(2) Der Vertrag wird nachstehend veröffentlicht. Die in den Artikeln 2
-und 11 des Vertrages genannte Karte B und die in Artikel 23 genannte
-Karte A liegen beim Auswärtigen Amt (politisches Archiv), beim
-Niedersächsischen Minister des Innern in Hannover, bei der
+(2) Der Vertrag wird nachstehend veröffentlicht. Die in den Artikeln
+2 und 11 des Vertrages genannte Karte B und die in Artikel 23
+genannte Karte A liegen beim Auswärtigen Amt (politisches Archiv),
+beim Niedersächsischen Minister des Innern in Hannover, bei der
 Bezirksregierung Weser-Ems in Oldenburg sowie beim zuständigen
 Katasteramt zur Einsicht bereit.
 

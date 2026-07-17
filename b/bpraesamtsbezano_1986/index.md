@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl I: 1986, 386
 
 
-
 ## (XXXX)
 
 Gemäß § 81 Abs. 1 des Bundesbeamtengesetzes setze ich folgende

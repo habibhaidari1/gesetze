@@ -15,12 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2003, 2346, 2347
 
-Geändert durch
-:   Art. 4 G v. 3.5.2012 I 958
-
-Änderung durch
-:   Art. 15 G v. 23.6.2021 I 1858 (Nr. 35) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
+Zuletzt geändert durch
+:   Art. 4 G v. 16.10.2023 I Nr. 280
 
 
 ## § 1 Betriebskosten
@@ -30,8 +26,8 @@ Erbbauberechtigten durch das Eigentum oder Erbbaurecht am Grundstück
 oder durch den bestimmungsmäßigen Gebrauch des Gebäudes, der
 Nebengebäude, Anlagen, Einrichtungen und des Grundstücks laufend
 entstehen. Sach- und Arbeitsleistungen des Eigentümers oder
-Erbbauberechtigten dürfen mit dem Betrag angesetzt werden, der für
-eine gleichwertige Leistung eines Dritten, insbesondere eines
+Erbbauberechtigten dürfen mit dem Betrag angesetzt werden, der
+für eine gleichwertige Leistung eines Dritten, insbesondere eines
 Unternehmers, angesetzt werden könnte; die Umsatzsteuer des Dritten
 darf nicht angesetzt werden.
 
@@ -43,15 +39,11 @@ darf nicht angesetzt werden.
     die gesetzlichen oder freiwilligen Prüfungen des Jahresabschlusses und
     die Kosten für die Geschäftsführung (Verwaltungskosten),
 
-
 2.  die Kosten, die während der Nutzungsdauer zur Erhaltung des
     bestimmungsmäßigen Gebrauchs aufgewendet werden müssen, um die durch
     Abnutzung, Alterung und Witterungseinwirkung entstehenden baulichen
     oder sonstigen Mängel ordnungsgemäß zu beseitigen (Instandhaltungs-
     und Instandsetzungskosten).
-
-
-
 
 
 ## § 2 Aufstellung der Betriebskosten
@@ -62,17 +54,15 @@ Betriebskosten im Sinne von § 1 sind:
 
     hierzu gehört namentlich die Grundsteuer;
 
-
 2.  die Kosten der Wasserversorgung,
 
-    hierzu gehören die Kosten des Wasserverbrauchs, die Grundgebühren, die
-    Kosten der Anmietung oder anderer Arten der Gebrauchsüberlassung von
-    Wasserzählern sowie die Kosten ihrer Verwendung einschließlich der
-    Kosten der Eichung sowie der Kosten der Berechnung und Aufteilung, die
-    Kosten der Wartung von Wassermengenreglern, die Kosten des Betriebs
-    einer hauseigenen Wasserversorgungsanlage und einer
+    hierzu gehören die Kosten des Wasserverbrauchs, die Grundgebühren,
+    die Kosten der Anmietung oder anderer Arten der Gebrauchsüberlassung
+    von Wasserzählern sowie die Kosten ihrer Verwendung einschließlich
+    der Kosten der Eichung sowie der Kosten der Berechnung und Aufteilung,
+    die Kosten der Wartung von Wassermengenreglern, die Kosten des
+    Betriebs einer hauseigenen Wasserversorgungsanlage und einer
     Wasseraufbereitungsanlage einschließlich der Aufbereitungsstoffe;
-
 
 3.  die Kosten der Entwässerung,
 
@@ -80,26 +70,22 @@ Betriebskosten im Sinne von § 1 sind:
     die Kosten des Betriebs einer entsprechenden nicht öffentlichen Anlage
     und die Kosten des Betriebs einer Entwässerungspumpe;
 
-
 4.  die Kosten
 
     a)  des Betriebs der zentralen Heizungsanlage einschließlich der
         Abgasanlage,
 
-        hierzu gehören die Kosten der verbrauchten Brennstoffe und ihrer
-        Lieferung, die Kosten des Betriebsstroms, die Kosten der Bedienung,
-        Überwachung und Pflege der Anlage, der regelmäßigen Prüfung ihrer
-        Betriebsbereitschaft und Betriebssicherheit einschließlich der
-        Einstellung durch eine Fachkraft, der Reinigung der Anlage und des
-        Betriebsraums, die Kosten der Messungen nach dem Bundes-
-        Immissionsschutzgesetz, die Kosten der Anmietung oder anderer Arten
-        der Gebrauchsüberlassung einer Ausstattung zur Verbrauchserfassung
-        sowie die Kosten der Verwendung einer Ausstattung zur
-        Verbrauchserfassung einschließlich der Kosten der Eichung sowie der
-        Kosten der Berechnung und Aufteilung
-
-
-
+        hierzu gehören die Kosten des zur Wärmeerzeugung verbrauchten Stroms
+        und der verbrauchten Brennstoffe und ihrer Lieferung, die Kosten
+        des Betriebsstroms, die Kosten der Bedienung, Überwachung und Pflege
+        der Anlage, der regelmäßigen Prüfung ihrer Betriebsbereitschaft
+        und Betriebssicherheit einschließlich der Einstellung durch eine
+        Fachkraft, der Reinigung der Anlage und des Betriebsraums, die Kosten
+        der Messungen nach dem Bundes-Immissionsschutzgesetz, die Kosten
+        der Anmietung oder anderer Arten der Gebrauchsüberlassung einer
+        Ausstattung zur Verbrauchserfassung sowie die Kosten der Verwendung
+        einer Ausstattung zur Verbrauchserfassung einschließlich der Kosten
+        der Eichung sowie der Kosten der Berechnung und Aufteilung
 
     oder
 
@@ -110,9 +96,6 @@ Betriebskosten im Sinne von § 1 sind:
         Überwachung sowie die Kosten der Reinigung der Anlage und des
         Betriebsraums
 
-
-
-
     oder
 
     c)  der eigenständig gewerblichen Lieferung von Wärme, auch aus Anlagen im
@@ -120,9 +103,6 @@ Betriebskosten im Sinne von § 1 sind:
 
         hierzu gehören das Entgelt für die Wärmelieferung und die Kosten des
         Betriebs der zugehörigen Hausanlagen entsprechend Buchstabe a
-
-
-
 
     oder
 
@@ -135,10 +115,6 @@ Betriebskosten im Sinne von § 1 sind:
         zusammenhängenden Einstellung durch eine Fachkraft sowie die Kosten
         der Messungen nach dem Bundes-Immissionsschutzgesetz;
 
-
-
-
-
 5.  die Kosten
 
     a)  des Betriebs der zentralen Warmwasserversorgungsanlage,
@@ -146,9 +122,6 @@ Betriebskosten im Sinne von § 1 sind:
         hierzu gehören die Kosten der Wasserversorgung entsprechend Nummer 2,
         soweit sie nicht dort bereits berücksichtigt sind, und die Kosten der
         Wassererwärmung entsprechend Nummer 4 Buchstabe a
-
-
-
 
     oder
 
@@ -159,9 +132,6 @@ Betriebskosten im Sinne von § 1 sind:
         Kosten des Betriebs der zugehörigen Hausanlagen entsprechend Nummer 4
         Buchstabe a
 
-
-
-
     oder
 
     c)  der Reinigung und Wartung von Warmwassergeräten,
@@ -171,18 +141,11 @@ Betriebskosten im Sinne von § 1 sind:
         regelmäßigen Prüfung der Betriebsbereitschaft und Betriebssicherheit
         und der damit zusammenhängenden Einstellung durch eine Fachkraft;
 
-
-
-
-
 6.  die Kosten verbundener Heizungs- und Warmwasserversorgungsanlagen
 
     a)  bei zentralen Heizungsanlagen entsprechend Nummer 4 Buchstabe a und
         entsprechend Nummer 2, soweit sie nicht dort bereits berücksichtigt
         sind,
-
-
-
 
     oder
 
@@ -190,18 +153,11 @@ Betriebskosten im Sinne von § 1 sind:
         Nummer 4 Buchstabe c und entsprechend Nummer 2, soweit sie nicht dort
         bereits berücksichtigt sind,
 
-
-
-
     oder
 
     c)  bei verbundenen Etagenheizungen und Warmwasserversorgungsanlagen
         entsprechend Nummer 4 Buchstabe d und entsprechend Nummer 2, soweit
         sie nicht dort bereits berücksichtigt sind;
-
-
-
-
 
 7.  die Kosten des Betriebs des Personen- oder Lastenaufzugs,
 
@@ -210,7 +166,6 @@ Betriebskosten im Sinne von § 1 sind:
     regelmäßigen Prüfung ihrer Betriebsbereitschaft und Betriebssicherheit
     einschließlich der Einstellung durch eine Fachkraft sowie die Kosten
     der Reinigung der Anlage;
-
 
 8.  die Kosten der Straßenreinigung und Müllbeseitigung,
 
@@ -224,23 +179,20 @@ Betriebskosten im Sinne von § 1 sind:
     Müllmengenerfassungsanlagen einschließlich der Kosten der Berechnung
     und Aufteilung;
 
-
 9.  die Kosten der Gebäudereinigung und Ungezieferbekämpfung,
 
     zu den Kosten der Gebäudereinigung gehören die Kosten für die
     Säuberung der von den Bewohnern gemeinsam genutzten Gebäudeteile, wie
-    Zugänge, Flure, Treppen, Keller, Bodenräume, Waschküchen, Fahrkorb des
-    Aufzugs;
-
+    Zugänge, Flure, Treppen, Keller, Bodenräume, Waschküchen, Fahrkorb
+    des Aufzugs;
 
 10. die Kosten der Gartenpflege,
 
     hierzu gehören die Kosten der Pflege gärtnerisch angelegter Flächen
     einschließlich der Erneuerung von Pflanzen und Gehölzen, der Pflege
-    von Spielplätzen einschließlich der Erneuerung von Sand und der Pflege
-    von Plätzen, Zugängen und Zufahrten, die dem nicht öffentlichen
+    von Spielplätzen einschließlich der Erneuerung von Sand und der
+    Pflege von Plätzen, Zugängen und Zufahrten, die dem nicht öffentlichen
     Verkehr dienen;
-
 
 11. die Kosten der Beleuchtung,
 
@@ -248,13 +200,11 @@ Betriebskosten im Sinne von § 1 sind:
     Beleuchtung der von den Bewohnern gemeinsam genutzten Gebäudeteile,
     wie Zugänge, Flure, Treppen, Keller, Bodenräume, Waschküchen;
 
-
 12. die Kosten der Schornsteinreinigung,
 
     hierzu gehören die Kehrgebühren nach der maßgebenden Gebührenordnung,
     soweit sie nicht bereits als Kosten nach Nummer 4 Buchstabe a
     berücksichtigt sind;
-
 
 13. die Kosten der Sach- und Haftpflichtversicherung,
 
@@ -263,17 +213,15 @@ Betriebskosten im Sinne von § 1 sind:
     Glasversicherung, der Haftpflichtversicherung für das Gebäude, den
     Öltank und den Aufzug;
 
-
 14. die Kosten für den Hauswart,
 
     hierzu gehören die Vergütung, die Sozialbeiträge und alle geldwerten
-    Leistungen, die der Eigentümer oder Erbbauberechtigte dem Hauswart für
-    seine Arbeit gewährt, soweit diese nicht die Instandhaltung,
+    Leistungen, die der Eigentümer oder Erbbauberechtigte dem Hauswart
+    für seine Arbeit gewährt, soweit diese nicht die Instandhaltung,
     Instandsetzung, Erneuerung, Schönheitsreparaturen oder die
     Hausverwaltung betrifft; soweit Arbeiten vom Hauswart ausgeführt
     werden, dürfen Kosten für Arbeitsleistungen nach den Nummern 2 bis 10
     und 16 nicht angesetzt werden;
-
 
 15. die Kosten
 
@@ -287,8 +235,6 @@ Betriebskosten im Sinne von § 1 sind:
         dem Gebäude gehörende Antennenanlage sowie die Gebühren, die nach dem
         Urheberrechtsgesetz für die Kabelweitersendung entstehen,
 
-
-
     oder
 
     b)  des Betriebs der mit einem Breitbandnetz verbundenen privaten
@@ -300,8 +246,6 @@ Betriebskosten im Sinne von § 1 sind:
         Buchstabe a, sowie die laufenden monatlichen Grundgebühren für
         Breitbandanschlüsse,
 
-
-
     oder
 
     c)  des Betriebs einer gebäudeinternen Verteilanlage, die vollständig
@@ -310,13 +254,9 @@ Betriebskosten im Sinne von § 1 sind:
         ist, wenn der Mieter seinen Anbieter von öffentlich zugänglichen
         Telekommunikationsdiensten über seinen Anschluss frei wählen kann,
 
-        hierzu gehören die Kosten des Betriebsstroms sowie ein
-        Bereitstellungsentgelt gemäß § 72 Absatz 1 des
+        hierzu gehören die Kosten des Betriebsstroms sowie
+        ein Bereitstellungsentgelt gemäß § 72 Absatz 1 des
         Telekommunikationsgesetzes;
-
-
-
-
 
 16. die Kosten des Betriebs der Einrichtungen für die Wäschepflege,
 
@@ -326,13 +266,10 @@ Betriebskosten im Sinne von § 1 sind:
     Kosten der Wasserversorgung entsprechend Nummer 2, soweit sie nicht
     dort bereits berücksichtigt sind;
 
-
 17. sonstige Betriebskosten,
 
     hierzu gehören Betriebskosten im Sinne des § 1, die von den Nummern 1
     bis 16 nicht erfasst sind.
-
-
 
 Für Anlagen, die ab dem 1. Dezember 2021 errichtet worden sind, ist
 Satz 1 Nummer 15 Buchstabe a und b nicht anzuwenden.

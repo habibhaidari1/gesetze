@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert
-  von 20 Euro (Gedenkmünze „200. Geburtstag Ernst Litfaß“)
+Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze „200. Geburtstag Ernst Litfaß“)
 jurabk: Münz20EuroBek 2016-12-01
 layout: default
 origslug: m_nz20eurobek_2016-12-01
@@ -42,13 +41,12 @@ Informationsquelle nutzt.
 Die Wertseite zeigt einen Adler, den Schriftzug „BUNDESREPUBLIK
 DEUTSCHLAND“, Wertziffer und Wertbezeichnung, das Prägezeichen „D“ des
 Bayerischen Hauptmünzamtes, München, die Jahreszahl 2016, die zwölf
-Europasterne sowie die Angabe
-„SILBER 925“             .
+Europasterne sowie die Angabe „SILBER 925“.
 
 Der glatte Münzrand enthält in vertiefter Prägung die Inschrift:
 
 „RUNDUM INFORMIERT RUNDUM
-INFORMIERT*             “.
+INFORMIERT ◊“.
 
 Der Entwurf stammt von der Künstlerin Susanne Jünger aus Berlin.
 
@@ -61,9 +59,4 @@ Der Bundesminister der Finanzen
 ## (XXXX)
 
 (Fundstelle: BGBl. I 2016, 2855)
-
-
-*    *        ![bgbl1_2016_j2855-1_0010.jpg](bgbl1_2016_j2855-1_0010.jpg)
-    *        ![bgbl1_2016_j2855-1_0020.jpg](bgbl1_2016_j2855-1_0020.jpg)
-
 

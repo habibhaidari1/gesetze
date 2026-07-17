@@ -46,34 +46,23 @@ verpflichtet,
 1.  vom Blauschimmelpilz befallene oder des Befalls mit dem
     Blauschimmelpilz verdächtige Tabaksämlinge unverzüglich zu vernichten,
 
-
 2.  auf Anordnung der zuständigen Behörde
 
     a)  vom Blauschimmelpilz befallene oder des Befalls mit dem
         Blauschimmelpilz verdächtige Tabakpflanzen zu vernichten,
 
-
     b)  die nach dem Abernten von Tabakpflanzen verbleibenden Reste zu
         vernichten,
 
-
     c)  die Blauschimmelkrankheit zu bekämpfen,
-
-
-
-
 
 3.  den Boden und die Räume, die zur Anzucht von Tabakpflanzen bestimmt
     sind, zu entseuchen, es sei denn, daß sie frei vom Blauschimmelpilz
     sind,
 
-
-4.  Grundstücke, auf denen der Blauschimmelpilz aufgetreten ist, bis zum
-    Ablauf der folgenden Vegetationsperiode von Tabakpflanzen
+4.  Grundstücke, auf denen der Blauschimmelpilz aufgetreten ist, bis
+    zum Ablauf der folgenden Vegetationsperiode von Tabakpflanzen
     freizuhalten.
-
-
-
 
 
 ## § 3
@@ -88,11 +77,8 @@ Die zuständige Behörde kann im Einzelfall Ausnahmen von
 
 1.  § 2 Nr. 4 für nichtbefallene Teile von Grundstücken,
 
-
 2.  § 3 für wissenschaftliche Untersuchungen und Versuche und für
     Züchtungsvorhaben
-
-
 
 genehmigen, soweit hierdurch die Bekämpfung des Blauschimmelpilzes
 nicht beeinträchtigt wird und keine Gefahr einer Ausbreitung dieses
@@ -107,28 +93,19 @@ Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 1.  entgegen § 1 die Meldung nicht, nicht unverzüglich, nicht richtig oder
     nicht vollständig erstattet,
 
-
 2.  entgegen § 2 Nr. 1 Tabaksämlinge nicht unverzüglich vernichtet,
-
 
 2a. einer vollziehbaren Anordnung nach § 2 Nummer 2 zuwiderhandelt,
 
-
 3.  entgegen § 2 Nr. 3 den Boden oder einen Raum nicht entseucht,
 
-
 4.  entgegen § 2 Nr. 4 ein Grundstück nicht von Tabakpflanzen freihält,
-
 
 5.  entgegen § 3 den Blauschimmelpilz züchtet oder hält oder mit ihm
     arbeitet oder
 
-
 6.  einer mit einer Genehmigung nach § 4 verbundenen vollziehbaren Auflage
     zuwiderhandelt.
-
-
-
 
 
 ## § 6

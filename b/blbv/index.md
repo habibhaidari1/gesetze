@@ -28,8 +28,8 @@ Juni 2009 (BGBl. I S. 1434) verordnet die Bundesregierung:
 
 ## § 1 Geltungsbereich
 
-Diese Verordnung gilt für Besoldungsempfängerinnen und
-Besoldungsempfänger in den Besoldungsgruppen der
+Diese Verordnung gilt für Besoldungsempfängerinnen
+und Besoldungsempfänger in den Besoldungsgruppen der
 Bundesbesoldungsordnung A sowie in den Besoldungsgruppen R 1 und R 2.
 
 
@@ -43,14 +43,9 @@ Verordnung sind:
 
 1.  Beamtinnen und Beamte, Soldatinnen und Soldaten,
 
-
 2.  Richterinnen und Richter, die ihr Amt nicht ausüben,
 
-
 3.  Staatsanwältinnen und Staatsanwälte.
-
-
-
 
 
 ## § 3 Leistungsstufe
@@ -104,22 +99,22 @@ vergebenen Leistungsstufen darf 15 Prozent der Zahl der bei dem
 Dienstherrn am 1. Januar vorhandenen Besoldungsempfängerinnen und
 Besoldungsempfänger in Besoldungsgruppen der Bundesbesoldungsordnung
 A, die das Endgrundgehalt noch nicht erreicht haben, nicht
-übersteigen. Bei Anstalten, Stiftungen und Körperschaften mit weniger
-als sieben Besoldungsempfängerinnen und Besoldungsempfängern in
-Besoldungsgruppen der Bundesbesoldungsordnung A, die das
+übersteigen. Bei Anstalten, Stiftungen und Körperschaften mit
+weniger als sieben Besoldungsempfängerinnen und Besoldungsempfängern
+in Besoldungsgruppen der Bundesbesoldungsordnung A, die das
 Endgrundgehalt noch nicht erreicht haben, kann in jedem Kalenderjahr
 einer Besoldungsempfängerin oder einem Besoldungsempfänger eine
 Leistungsstufe gewährt werden.
 
 (2) Die Gesamtzahl der in einem Kalenderjahr bei einem Dienstherrn
-vergebenen Leistungsprämien und Leistungszulagen darf 15 Prozent der
-Zahl der bei dem Dienstherrn am 1. Januar vorhandenen
+vergebenen Leistungsprämien und Leistungszulagen darf 15 Prozent
+der Zahl der bei dem Dienstherrn am 1. Januar vorhandenen
 Besoldungsempfängerinnen und Besoldungsempfänger nicht übersteigen.
-Eine Überschreitung des Prozentsatzes nach Satz 1 ist jedoch in dem
-Umfang zulässig, in dem von der Möglichkeit der Vergabe von
+Eine Überschreitung des Prozentsatzes nach Satz 1 ist jedoch in
+dem Umfang zulässig, in dem von der Möglichkeit der Vergabe von
 Leistungsstufen kein Gebrauch gemacht wird. Bei Anstalten, Stiftungen
-und Körperschaften mit weniger als sieben Besoldungsempfängerinnen und
-Besoldungsempfängern kann in jedem Kalenderjahr einer
+und Körperschaften mit weniger als sieben Besoldungsempfängerinnen
+und Besoldungsempfängern kann in jedem Kalenderjahr einer
 Besoldungsempfängerin oder einem Besoldungsempfänger eine
 Leistungsprämie oder Leistungszulage gewährt werden.
 
@@ -143,19 +138,19 @@ Absatz 2 Satz 2 entsprechend.
 
 ## § 8 Ausschluss- und Konkurrenzregelungen
 
-(1) Leistungsbezogene Besoldungsinstrumente dürfen nicht neben einer
-Zulage nach § 45 des Bundesbesoldungsgesetzes gewährt werden, soweit
-sie auf Grund desselben Sachverhalts gewährt werden. Neben einer
-Zulage für die Tätigkeit bei obersten Bundesbehörden sowie bei
-obersten Gerichtshöfen des Bundes können leistungsbezogene
+(1) Leistungsbezogene Besoldungsinstrumente dürfen nicht neben
+einer Zulage nach § 45 des Bundesbesoldungsgesetzes gewährt werden,
+soweit sie auf Grund desselben Sachverhalts gewährt werden. Neben
+einer Zulage für die Tätigkeit bei obersten Bundesbehörden sowie
+bei obersten Gerichtshöfen des Bundes können leistungsbezogene
 Besoldungsinstrumente nur insoweit gewährt werden, als die Gesamtheit
 aller Instrumente 15 Prozent der Zahl der dort am 1. Januar jeweils
 vorhandenen Besoldungsempfängerinnen und Besoldungsempfänger nicht
 übersteigt.
 
 (2) Eine Leistungsstufe darf nicht gewährt werden vor Ablauf eines
-Jahres seit der Berufung in ein Beamtenverhältnis auf Probe. Sie soll
-nicht gewährt werden innerhalb eines Jahres nach der letzten
+Jahres seit der Berufung in ein Beamtenverhältnis auf Probe. Sie
+soll nicht gewährt werden innerhalb eines Jahres nach der letzten
 Verleihung eines Amtes mit höherem Endgrundgehalt.
 
 (3) Leistungsprämien und Leistungszulagen dürfen nicht gewährt werden
@@ -164,28 +159,23 @@ in Bereichen, in denen folgende Leistungselemente gewährt werden:
 1.  Zuwendungen für besondere Leistungen nach § 31 Absatz 4 des Gesetzes
     über die Deutsche Bundesbank,
 
-
-2.  Zulagen nach der Postleistungszulagenverordnung, Leistungsentgelt nach
-    der Postleistungsentgeltverordnung oder der
+2.  Zulagen nach der Postleistungszulagenverordnung,
+    Leistungsentgelt nach der Postleistungsentgeltverordnung oder der
     Postbankleistungsentgeltverordnung oder
-
 
 3.  Zulagen der Deutsche Bahn Aktiengesellschaft oder der ausgegliederten
     Gesellschaften nach § 2 Absatz 1 oder § 3 Absatz 3 des Deutsche Bahn
     Gründungsgesetzes.
 
 
-
-
-
 ## § 9 Entscheidungsberechtigte und Verfahren
 
-(1) In den obersten Bundesbehörden entscheidet die Leitung der
-Abteilung über die Gewährung der leistungsbezogenen
-Besoldungsinstrumente. Für Bereiche in obersten Bundesbehörden, die
-nicht der Leitung einer Abteilung unterstehen, legt die Leitung der
-obersten Bundesbehörde die Entscheidungsberechtigten fest. In den
-übrigen Bundesbehörden bestimmt deren Leitung die
+(1) In den obersten Bundesbehörden entscheidet die Leitung
+der Abteilung über die Gewährung der leistungsbezogenen
+Besoldungsinstrumente. Für Bereiche in obersten Bundesbehörden,
+die nicht der Leitung einer Abteilung unterstehen, legt die
+Leitung der obersten Bundesbehörde die Entscheidungsberechtigten
+fest. In den übrigen Bundesbehörden bestimmt deren Leitung die
 Entscheidungsberechtigten; dabei ist der Grundsatz der dezentralen
 Vergabe zu berücksichtigen. Die Leitung der obersten Bundesbehörde
 kann abweichende Regelungen treffen; dabei ist der Grundsatz der
@@ -204,10 +194,10 @@ dem Umfang überschreiten, in dem sie von der Möglichkeit der Vergabe
 von Leistungsstufen keinen Gebrauch machen.
 
 (3) Die Entscheidungsberechtigten haben die jeweilige herausragende
-Leistung zu dokumentieren. Sie sollen alle Laufbahngruppen und das
-zahlenmäßige Verhältnis von Besoldungsempfängerinnen und
-Besoldungsempfängern berücksichtigen. Vor der Entscheidung sollen die
-übrigen Vorgesetzten der Besoldungsempfängerin oder des
+Leistung zu dokumentieren. Sie sollen alle Laufbahngruppen und
+das zahlenmäßige Verhältnis von Besoldungsempfängerinnen und
+Besoldungsempfängern berücksichtigen. Vor der Entscheidung sollen
+die übrigen Vorgesetzten der Besoldungsempfängerin oder des
 Besoldungsempfängers gehört werden.
 
 (4) Die Leitung der obersten Bundesbehörde kann bis zu einem Fünftel
@@ -224,10 +214,10 @@ einer Vertretung übertragen.
 ## § 10 Vorschriften für besondere Teile des öffentlichen Dienstes
 
 (1) Bei der Bundesanstalt für Immobilienaufgaben, der Bundesagentur
-für Arbeit und den bundesunmittelbaren Sozialversicherungsträgern, die
-das Recht besitzen, Beamtinnen und Beamte zu haben, bestimmt der
-Vorstand die Entscheidungsberechtigten; dabei ist der Grundsatz der
-dezentralen Vergabe zu berücksichtigen. Die Vorstände der
+für Arbeit und den bundesunmittelbaren Sozialversicherungsträgern,
+die das Recht besitzen, Beamtinnen und Beamte zu haben, bestimmt
+der Vorstand die Entscheidungsberechtigten; dabei ist der Grundsatz
+der dezentralen Vergabe zu berücksichtigen. Die Vorstände der
 bundesunmittelbaren Sozialversicherungsträger können ihre Befugnisse
 auf die Geschäftsführung übertragen.
 

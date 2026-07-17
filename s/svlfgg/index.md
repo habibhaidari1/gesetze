@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zur Errichtung der Sozialversicherung für Landwirtschaft, Forsten und
-  Gartenbau
+Title: Gesetz zur Errichtung der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau
 jurabk: SVLFGG
 layout: default
 origslug: svlfgg
@@ -17,7 +16,7 @@ Fundstelle
 :   BGBl I: 2012, 579
 
 Zuletzt geändert durch
-:   Art. 15 G v. 12.6.2020 I 1248
+:   Art. 16 G v. 20.12.2022 I 2759
 
 
 ## § 1 Errichtung
@@ -30,8 +29,8 @@ Namen „Sozialversicherung für Landwirtschaft, Forsten und Gartenbau“.
 
 ## § 2 Zuständigkeit
 
-Die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau ist
-zuständig für die Durchführung der landwirtschaftlichen
+Die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau
+ist zuständig für die Durchführung der landwirtschaftlichen
 Unfallversicherung, der Alterssicherung der Landwirte, der
 landwirtschaftlichen Krankenversicherung und der landwirtschaftlichen
 Pflegeversicherung.
@@ -66,25 +65,41 @@ landwirtschaftlichen Sozialversicherung werden Geschäftsstellen. Bei
 der Aufgabenverteilung ist eine fachlich umfängliche Betreuung der
 Versicherten sicherzustellen.
 
-(2) Die Satzung der Sozialversicherung für Landwirtschaft, Forsten und
-Gartenbau bedarf der Genehmigung des Bundesamtes für Soziale
+(2) Die Satzung der Sozialversicherung für Landwirtschaft, Forsten
+und Gartenbau bedarf der Genehmigung des Bundesamtes für Soziale
 Sicherung.
 
 
 ## § 5 Dienstherrnfähigkeit, Dienstrecht
 
-Die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau hat
-das Recht, Beamtinnen und Beamte zu haben. Für die
-Dienstordnungsangestellten der Sozialversicherung für Landwirtschaft,
-Forsten und Gartenbau gelten § 144 Satz 1 sowie die §§ 145 bis 147 des
+(1) Die Sozialversicherung für Landwirtschaft, Forsten und
+Gartenbau besitzt Dienstherrnfähigkeit im Sinne des § 2
+des Bundesbeamtengesetzes. Die Beamtinnen und Beamten sind
+Bundesbeamtinnen und Bundesbeamte.
+
+(2) Das Bundesministerium für Arbeit und Soziales ernennt und
+entlässt auf Vorschlag des Vorstandes der Sozialversicherung für
+Landwirtschaft, Forsten und Gartenbau die Beamtinnen und Beamten.
+Es kann seine Befugnis auf den Vorstand übertragen mit dem Recht,
+diese Befugnis ganz oder teilweise auf die Geschäftsführung weiter
+zu übertragen.
+
+(3) Oberste Dienstbehörde für die Geschäftsführung und ihre
+Stellvertretung ist das Bundesministerium für Arbeit und Soziales, für
+die übrigen Beamtinnen und Beamten der Vorstand der Sozialversicherung
+für Landwirtschaft, Forsten und Gartenbau, der seine Befugnisse ganz
+oder teilweise auf die Geschäftsführung übertragen kann.
+
+(4) Für die Dienstordnungsangestellten der Sozialversicherung für
+Landwirtschaft, Forsten und Gartenbau gelten die §§ 144 bis 147 des
 Siebten Buches Sozialgesetzbuch entsprechend.
 
 
 ## § 6 Kosten bei Errichtung
 
 (1) Für Rechts- und Amtshandlungen, die aus Anlass der Errichtung der
-Sozialversicherung für Landwirtschaft, Forsten und Gartenbau sowie der
-Eingliederung der bisherigen Träger der landwirtschaftlichen
+Sozialversicherung für Landwirtschaft, Forsten und Gartenbau sowie
+der Eingliederung der bisherigen Träger der landwirtschaftlichen
 Sozialversicherung und des Spitzenverbandes der landwirtschaftlichen
 Sozialversicherung erforderlich sind, werden Abgaben und
 Gerichtskosten nach dem Gerichts- und Notarkostengesetz nicht erhoben.
@@ -109,55 +124,45 @@ wenn die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau
 gegenüber ihren Tarifbeschäftigten Leistungen der betrieblichen
 Altersversorgung unmittelbar zugesagt hat.
 
-(1a) Für die Anlage der Mittel zur Finanzierung des Deckungskapitals
-für Altersrückstellungen gelten die Vorschriften des Vierten Titels
-des Vierten Abschnitts des Vierten Buches Sozialgesetzbuch mit der
-Maßgabe, dass eine Anlage auch in Euro-denominierten Aktien im Rahmen
-eines passiven, indexorientierten Managements zulässig ist. Die
-Anlageentscheidungen sind jeweils so zu treffen, dass der Anteil an
-Aktien maximal 20 Prozent des Deckungskapitals beträgt. Änderungen des
-Aktienkurses können vorübergehend zu einem höheren Anteil an Aktien am
-Deckungskapital führen. Die Sätze 1 bis 3 gelten auch für das
-Deckungskapital für Altersrückstellungen nach § 12 der
-Sozialversicherungs-Rechnungsverordnung.
+(1a) (weggefallen)
 
 (2) Das Bundesministerium für Arbeit und Soziales bestimmt durch
-Rechtsverordnung ohne Zustimmung des Bundesrates im Einvernehmen mit
-dem Bundesministerium für Ernährung und Landwirtschaft die Höhe der
-für die Altersrückstellungen erforderlichen Zuweisungssätze, das
-Zahlverfahren der Zuweisungen, die Überprüfung der Höhe der
-Zuweisungssätze sowie die Anlage des Deckungskapitals. Das
-Bundesministerium für Arbeit und Soziales kann die Ermächtigung nach
-Satz 1 nach Anhörung der Sozialversicherung für Landwirtschaft,
+Rechtsverordnung ohne Zustimmung des Bundesrates im Einvernehmen
+mit dem Bundesministerium für Ernährung und Landwirtschaft die Höhe
+der für die Altersrückstellungen erforderlichen Zuweisungssätze,
+das Zahlverfahren der Zuweisungen, die Überprüfung der Höhe
+der Zuweisungssätze sowie die Anlage des Deckungskapitals. Das
+Bundesministerium für Arbeit und Soziales kann die Ermächtigung
+nach Satz 1 nach Anhörung der Sozialversicherung für Landwirtschaft,
 Forsten und Gartenbau im Einvernehmen mit dem Bundesministerium für
 Ernährung und Landwirtschaft durch Rechtsverordnung auf das Bundesamt
 für Soziale Sicherung übertragen.
 
-(3) Die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau
-erstellt jeweils ein Konzept zur Einführung von Altersrückstellungen
-in der landwirtschaftlichen Krankenversicherung und in der
-Alterssicherung der Landwirte. Die Konzepte enthalten die Ergebnisse
-der umfassenden Prüfung zur Höhe der Zuweisungssätze sowie zur
-Ausgestaltung des Verfahrens. Die Sozialversicherung für
-Landwirtschaft, Forsten und Gartenbau legt diese Konzepte dem
+(3) Die Sozialversicherung für Landwirtschaft, Forsten und
+Gartenbau erstellt jeweils ein Konzept zur Einführung von
+Altersrückstellungen in der landwirtschaftlichen Krankenversicherung
+und in der Alterssicherung der Landwirte. Die Konzepte enthalten
+die Ergebnisse der umfassenden Prüfung zur Höhe der Zuweisungssätze
+sowie zur Ausgestaltung des Verfahrens. Die Sozialversicherung
+für Landwirtschaft, Forsten und Gartenbau legt diese Konzepte dem
 Bundesministerium für Ernährung und Landwirtschaft bis zum 31.
 Dezember 2016 vor. Das Konzept zur Einführung von Altersrückstellungen
 in der Alterssicherung der Landwirte ist zusätzlich dem
 Bundesministerium für Arbeit und Soziales vorzulegen.
 
-(4) Soweit für die in Absatz 1 genannten Beschäftigten vor dem 31.
-Dezember 2017 eine Mitgliedschaft bei einer öffentlich-rechtlichen
-Versorgungseinrichtung bestand, werden die zu erwartenden
+(4) Soweit für die in Absatz 1 genannten Beschäftigten vor dem
+31\. Dezember 2017 eine Mitgliedschaft bei einer öffentlich-
+rechtlichen Versorgungseinrichtung bestand, werden die zu erwartenden
 Versorgungsleistungen im Rahmen der Verpflichtungen nach Absatz 1
-berücksichtigt. Wurde für die in Absatz 1 genannten Beschäftigten vor
-dem 31. Dezember 2017 Deckungskapital bei aufsichtspflichtigen
+berücksichtigt. Wurde für die in Absatz 1 genannten Beschäftigten
+vor dem 31. Dezember 2017 Deckungskapital bei aufsichtspflichtigen
 Unternehmen im Sinne des § 1 Absatz 1 Nummer 1 und 4 des
 Versicherungsaufsichtsgesetzes gebildet, wird dies im Rahmen der
 Verpflichtungen nach Absatz 1 berücksichtigt.
 
 (5) Für die ehemaligen Beschäftigten des Spitzenverbandes der
-landwirtschaftlichen Sozialversicherung sind Altersrückstellungen nach
-den §§ 172c und 219a Absatz 2 bis 4 des Siebten Buches
+landwirtschaftlichen Sozialversicherung sind Altersrückstellungen
+nach den §§ 172c und 219a Absatz 2 bis 4 des Siebten Buches
 Sozialgesetzbuch zu bilden.
 
 (6) Versorgungsausgaben für die in Absatz 1 genannten Personenkreise,
@@ -169,20 +174,20 @@ kann eine frühere oder spätere Entnahme genehmigen.
 
 ## § 8 Zusammenarbeit mit Dritten
 
-(1) Mit der regelmäßigen Wahrnehmung laufender Verwaltungsaufgaben in
-der landwirtschaftlichen Sozialversicherung kann die
+(1) Mit der regelmäßigen Wahrnehmung laufender Verwaltungsaufgaben
+in der landwirtschaftlichen Sozialversicherung kann die
 Sozialversicherung für Landwirtschaft, Forsten und Gartenbau Dritte
-beauftragen, soweit dies einer wirtschaftlichen Aufgabenerfüllung und
-einer sachgerechten Betreuung der Versicherten dient und diese nicht
-durch eine Zusammenarbeit mit den Versicherungsämtern gewährleistet
-werden kann. § 88 Absatz 3 und § 90 Satz 1 des Zehnten Buches
-Sozialgesetzbuch gelten entsprechend. Die Wahrnehmung von
+beauftragen, soweit dies einer wirtschaftlichen Aufgabenerfüllung
+und einer sachgerechten Betreuung der Versicherten dient und
+diese nicht durch eine Zusammenarbeit mit den Versicherungsämtern
+gewährleistet werden kann. § 88 Absatz 3 und § 90 Satz 1 des Zehnten
+Buches Sozialgesetzbuch gelten entsprechend. Die Wahrnehmung von
 Verwaltungsaufgaben durch Dritte bedarf der Genehmigung durch die
 Aufsichtsbehörde. Die Sozialversicherung für Landwirtschaft, Forsten
-und Gartenbau hat mit dem Dritten einen Vertrag abzuschließen, in dem
-Art, Inhalt und Umfang der vom Dritten zu erbringenden Leistungen
-sowie die ihm zu gewährende Vergütung für die einzelnen Leistungen
-geregelt sind; in dem Vertrag ist ferner eine regelmäßige
+und Gartenbau hat mit dem Dritten einen Vertrag abzuschließen,
+in dem Art, Inhalt und Umfang der vom Dritten zu erbringenden
+Leistungen sowie die ihm zu gewährende Vergütung für die einzelnen
+Leistungen geregelt sind; in dem Vertrag ist ferner eine regelmäßige
 Wirtschaftlichkeitsprüfung vorzusehen.
 
 (2) Die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau

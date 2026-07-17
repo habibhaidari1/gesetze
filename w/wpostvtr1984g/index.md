@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl II: 1986, 201
 
 
-
 ## Art 1
 
 -
@@ -33,10 +32,10 @@ internationale Währungsfonds für seine Operationen und Transaktionen
 anwendet.
 
 (2) Für die in den Verträgen aufgeführten Gebühren, Wertangabebeträge
-und Ersatzbeträge wird der in Sonderziehungsrechten ausgedrückte Wert
-der Deutschen Mark auf der Grundlage der Berechnungsmethode nach
-Absatz 1 zum 1. Januar jeden Jahres jeweils für ein Jahr im voraus als
-Durchschnittswert festgesetzt. Der Durchschnittswert wird aus den
+und Ersatzbeträge wird der in Sonderziehungsrechten ausgedrückte
+Wert der Deutschen Mark auf der Grundlage der Berechnungsmethode nach
+Absatz 1 zum 1. Januar jeden Jahres jeweils für ein Jahr im voraus
+als Durchschnittswert festgesetzt. Der Durchschnittswert wird aus den
 Tageskursen des Sonderziehungsrechts der zwölf Monate berechnet, die
 am 30. September vor der jeweiligen Festsetzung enden. Der jeweils
 festgesetzte Durchschnittswert ist im Bundesanzeiger bekanntzugeben.

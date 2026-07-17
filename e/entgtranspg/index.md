@@ -42,8 +42,8 @@ Schutz oder der Förderung bestimmter Personengruppen dienen.
 
 ### § 3 Verbot der unmittelbaren und mittelbaren Entgeltbenachteiligung wegen des Geschlechts
 
-(1) Bei gleicher oder gleichwertiger Arbeit ist eine unmittelbare oder
-mittelbare Benachteiligung wegen des Geschlechts im Hinblick auf
+(1) Bei gleicher oder gleichwertiger Arbeit ist eine unmittelbare
+oder mittelbare Benachteiligung wegen des Geschlechts im Hinblick auf
 sämtliche Entgeltbestandteile und Entgeltbedingungen verboten.
 
 (2) Eine unmittelbare Entgeltbenachteiligung liegt vor, wenn eine
@@ -72,8 +72,8 @@ unberührt.
 
 ### § 4 Feststellung von gleicher oder gleichwertiger Arbeit, benachteiligungsfreie Entgeltsysteme
 
-(1) Weibliche und männliche Beschäftigte üben eine gleiche Arbeit aus,
-wenn sie an verschiedenen Arbeitsplätzen oder nacheinander an
+(1) Weibliche und männliche Beschäftigte üben eine gleiche Arbeit
+aus, wenn sie an verschiedenen Arbeitsplätzen oder nacheinander an
 demselben Arbeitsplatz eine identische oder gleichartige Tätigkeit
 ausführen.
 
@@ -95,31 +95,25 @@ angesehen werden.
 (4) Verwendet der Arbeitgeber für das Entgelt, das den Beschäftigten
 zusteht, ein Entgeltsystem, müssen dieses Entgeltsystem als Ganzes und
 auch die einzelnen Entgeltbestandteile so ausgestaltet sein, dass eine
-Benachteiligung wegen des Geschlechts ausgeschlossen ist. Dazu muss es
-insbesondere
+Benachteiligung wegen des Geschlechts ausgeschlossen ist. Dazu muss
+es insbesondere
 
 1.  die Art der zu verrichtenden Tätigkeit objektiv berücksichtigen,
-
 
 2.  auf für weibliche und männliche Beschäftigte gemeinsamen Kriterien
     beruhen,
 
-
 3.  die einzelnen Differenzierungskriterien diskriminierungsfrei gewichten
     sowie
 
-
 4.  insgesamt durchschaubar sein.
 
-
-
-
 (5) Für tarifvertragliche Entgeltregelungen sowie für
-Entgeltregelungen, die auf einer bindenden Festsetzung nach § 19
-Absatz 3 des Heimarbeitsgesetzes beruhen, gilt eine
+Entgeltregelungen, die auf einer bindenden Festsetzung nach
+§ 19 Absatz 3 des Heimarbeitsgesetzes beruhen, gilt eine
 Angemessenheitsvermutung. Tätigkeiten, die aufgrund dieser Regelungen
-unterschiedlichen Entgeltgruppen zugewiesen werden, werden als nicht
-gleichwertig angesehen, sofern die Regelungen nicht gegen
+unterschiedlichen Entgeltgruppen zugewiesen werden, werden als
+nicht gleichwertig angesehen, sofern die Regelungen nicht gegen
 höherrangiges Recht verstoßen.
 
 (6) Absatz 5 ist sinngemäß auch auf gesetzliche Entgeltregelungen
@@ -137,39 +131,31 @@ eines Beschäftigungsverhältnisses gewährt werden.
 
 1.  Arbeitnehmerinnen und Arbeitnehmer,
 
-
 2.  Beamtinnen und Beamte des Bundes sowie der sonstigen der Aufsicht des
     Bundes unterstehenden Körperschaften, Anstalten und Stiftungen des
     öffentlichen Rechts,
 
-
 3.  Richterinnen und Richter des Bundes,
-
 
 4.  Soldatinnen und Soldaten,
 
-
 5.  die zu ihrer Berufsbildung Beschäftigten sowie
-
 
 6.  die in Heimarbeit Beschäftigten sowie die ihnen Gleichgestellten.
 
-
-
-
 (3) Arbeitgeber im Sinne dieses Gesetzes sind natürliche und
-juristische Personen sowie rechtsfähige Personengesellschaften, die
-Personen nach Absatz 2 beschäftigen, soweit durch dieses Gesetz nichts
-anderes bestimmt wird. Für die in Heimarbeit Beschäftigten und die
-ihnen Gleichgestellten tritt an die Stelle des Arbeitgebers der
+juristische Personen sowie rechtsfähige Personengesellschaften,
+die Personen nach Absatz 2 beschäftigen, soweit durch dieses Gesetz
+nichts anderes bestimmt wird. Für die in Heimarbeit Beschäftigten und
+die ihnen Gleichgestellten tritt an die Stelle des Arbeitgebers der
 Auftraggeber oder Zwischenmeister.
 
-(4) Tarifgebundene Arbeitgeber im Sinne dieses Gesetzes sind
-Arbeitgeber, die einen Entgelttarifvertrag oder
+(4) Tarifgebundene Arbeitgeber im Sinne dieses Gesetzes
+sind Arbeitgeber, die einen Entgelttarifvertrag oder
 Entgeltrahmentarifvertrag aufgrund von § 3 Absatz 1 des
-Tarifvertragsgesetzes anwenden. Von Satz 1 erfasst werden auch
-Arbeitgeber, die einen Entgelttarifvertrag aufgrund der Tarifgeltung
-einer Allgemeinverbindlichkeitserklärung nach § 5 des
+Tarifvertragsgesetzes anwenden. Von Satz 1 erfasst werden
+auch Arbeitgeber, die einen Entgelttarifvertrag aufgrund der
+Tarifgeltung einer Allgemeinverbindlichkeitserklärung nach § 5 des
 Tarifvertragsgesetzes oder Entgeltregelungen aufgrund einer bindenden
 Festsetzung nach § 19 Absatz 3 des Heimarbeitsgesetzes anwenden.
 
@@ -185,15 +171,15 @@ angewendet werden.
 ### § 6 Aufgaben von Arbeitgebern, Tarifvertragsparteien und betrieblichen Interessenvertretungen
 
 (1) Arbeitgeber, Tarifvertragsparteien und die betrieblichen
-Interessenvertretungen sind aufgefordert, im Rahmen ihrer Aufgaben und
-Handlungsmöglichkeiten an der Verwirklichung der Entgeltgleichheit
+Interessenvertretungen sind aufgefordert, im Rahmen ihrer Aufgaben
+und Handlungsmöglichkeiten an der Verwirklichung der Entgeltgleichheit
 zwischen Frauen und Männern mitzuwirken. Die zuständigen
 Tarifvertragsparteien benennen Vertreterinnen und Vertreter zur
 Einhaltung des Entgeltgleichheitsgebots im Sinne dieses Gesetzes und
 zur Wahrnehmung der Aufgaben nach § 14 Absatz 3.
 
-(2) Arbeitgeber sind verpflichtet, die erforderlichen Maßnahmen zu
-treffen, um die Beschäftigten vor Benachteiligungen wegen des
+(2) Arbeitgeber sind verpflichtet, die erforderlichen Maßnahmen
+zu treffen, um die Beschäftigten vor Benachteiligungen wegen des
 Geschlechts in Bezug auf das Entgelt zu schützen. Dieser Schutz
 umfasst auch vorbeugende Maßnahmen.
 
@@ -212,8 +198,8 @@ als bei einer oder einem Beschäftigten des anderen Geschlechts.
 sind unwirksam.
 
 (2) Die Nutzung der in einem Auskunftsverlangen erlangten
-Informationen ist auf die Geltendmachung von Rechten im Sinne dieses
-Gesetzes beschränkt. Die Veröffentlichung personenbezogener
+Informationen ist auf die Geltendmachung von Rechten im Sinne
+dieses Gesetzes beschränkt. Die Veröffentlichung personenbezogener
 Gehaltsangaben und die Weitergabe an Dritte sind von dem Nutzungsrecht
 nicht umfasst.
 
@@ -240,8 +226,8 @@ zu benennen. Sie können Auskunft zu dem durchschnittlichen monatlichen
 Bruttoentgelt nach § 5 Absatz 1 und zu bis zu zwei einzelnen
 Entgeltbestandteilen verlangen.
 
-(2) Das Auskunftsverlangen hat in Textform zu erfolgen. Vor Ablauf von
-zwei Jahren nach Einreichen des letzten Auskunftsverlangens können
+(2) Das Auskunftsverlangen hat in Textform zu erfolgen. Vor Ablauf
+von zwei Jahren nach Einreichen des letzten Auskunftsverlangens können
 Beschäftigte nur dann erneut Auskunft verlangen, wenn sie darlegen,
 dass sich die Voraussetzungen wesentlich verändert haben.
 
@@ -269,26 +255,22 @@ ausreichend.
 
 (3) Die Auskunftsverpflichtung in Bezug auf das Vergleichsentgelt
 erstreckt sich auf die Angabe des Entgelts für die Vergleichstätigkeit
-(Vergleichsentgelt). Das Vergleichsentgelt ist anzugeben als auf
-Vollzeitäquivalente hochgerechneter statistischer Median des
+(Vergleichsentgelt). Das Vergleichsentgelt ist anzugeben als
+auf Vollzeitäquivalente hochgerechneter statistischer Median des
 durchschnittlichen monatlichen Bruttoentgelts sowie der benannten
 Entgeltbestandteile, jeweils bezogen auf ein Kalenderjahr, nach
 folgenden Vorgaben:
 
 1.  in den Fällen des § 14 sowie in den Fällen einer gesetzlichen
-    Entgeltregelung ist das Vergleichsentgelt der Beschäftigten des
-    jeweils anderen Geschlechts anzugeben, die in die gleiche Entgelt-
-    oder Besoldungsgruppe eingruppiert sind wie der oder die
+    Entgeltregelung ist das Vergleichsentgelt der Beschäftigten
+    des jeweils anderen Geschlechts anzugeben, die in die gleiche
+    Entgelt- oder Besoldungsgruppe eingruppiert sind wie der oder die
     auskunftverlangende Beschäftigte;
-
 
 2.  in den Fällen des § 15 ist das Vergleichsentgelt aller Beschäftigten
     des jeweils anderen Geschlechts anzugeben, die die erfragte
     Vergleichstätigkeit oder die nach § 15 Absatz 4 ermittelte
     Vergleichstätigkeit ausüben.
-
-
-
 
 (4) Auf kollektiv-rechtliche Entgeltregelungen der Kirchen oder der
 öffentlich-rechtlichen Religionsgesellschaften ist Absatz 2 Satz 2 und
@@ -306,16 +288,11 @@ Arbeitgeber.
 1.  nur Entgeltregelungen, die in demselben Betrieb und bei demselben
     Arbeitgeber angewendet werden,
 
-
 2.  keine regional unterschiedlichen Entgeltregelungen bei demselben
     Arbeitgeber und
 
-
 3.  keinen Vergleich der Beschäftigtengruppen nach § 5 Absatz 2
     untereinander.
-
-
-
 
 (3) Bei der Beantwortung eines Auskunftsverlangens ist der Schutz
 personenbezogener Daten der auskunftverlangenden Beschäftigten sowie
@@ -332,33 +309,33 @@ notwendigen Daten erlangen.
 (1) Im Rahmen seiner Aufgabe nach § 80 Absatz 1 Nummer 2a des
 Betriebsverfassungsgesetzes fördert der Betriebsrat die Durchsetzung
 der Entgeltgleichheit von Frauen und Männern im Betrieb. Dabei nimmt
-der Betriebsrat insbesondere die Aufgaben nach § 14 Absatz 1 und § 15
-Absatz 2 wahr. Betriebsverfassungsrechtliche, tarifrechtliche oder
+der Betriebsrat insbesondere die Aufgaben nach § 14 Absatz 1 und §
+15 Absatz 2 wahr. Betriebsverfassungsrechtliche, tarifrechtliche oder
 betrieblich geregelte Verfahren bleiben unberührt.
 
 (2) Der Betriebsausschuss nach § 27 des Betriebsverfassungsgesetzes
 oder ein nach § 28 Absatz 1 Satz 3 des Betriebsverfassungsgesetzes
 beauftragter Ausschuss hat für die Erfüllung seiner Aufgaben nach
-Absatz 1 das Recht, die Listen über die Bruttolöhne und -gehälter im
-Sinne des § 80 Absatz 2 Satz 2 des Betriebsverfassungsgesetzes
+Absatz 1 das Recht, die Listen über die Bruttolöhne und -gehälter
+im Sinne des § 80 Absatz 2 Satz 2 des Betriebsverfassungsgesetzes
 einzusehen und auszuwerten. Er kann mehrere Auskunftsverlangen bündeln
 und gemeinsam behandeln.
 
-(3) Der Arbeitgeber hat dem Betriebsausschuss Einblick in die Listen
-über die Bruttolöhne und -gehälter der Beschäftigten zu gewähren und
-diese aufzuschlüsseln. Die Entgeltlisten müssen nach Geschlecht
-aufgeschlüsselt alle Entgeltbestandteile enthalten einschließlich
-übertariflicher Zulagen und solcher Zahlungen, die individuell
-ausgehandelt und gezahlt werden. Die Entgeltlisten sind so
-aufzubereiten, dass der Betriebsausschuss im Rahmen seines
+(3) Der Arbeitgeber hat dem Betriebsausschuss Einblick in die
+Listen über die Bruttolöhne und -gehälter der Beschäftigten zu
+gewähren und diese aufzuschlüsseln. Die Entgeltlisten müssen nach
+Geschlecht aufgeschlüsselt alle Entgeltbestandteile enthalten
+einschließlich übertariflicher Zulagen und solcher Zahlungen, die
+individuell ausgehandelt und gezahlt werden. Die Entgeltlisten
+sind so aufzubereiten, dass der Betriebsausschuss im Rahmen seines
 Einblicksrechts die Auskunft ordnungsgemäß erfüllen kann.
 
 (4) Leitende Angestellte wenden sich für ihr Auskunftsverlangen nach §
 10, abweichend von den §§ 14 und 15, an den Arbeitgeber.
 
 (5) Der Arbeitgeber erklärt schriftlich oder in Textform gegenüber dem
-Betriebsrat für dessen Beantwortung des Auskunftsverlangens, ob eine §
-5 Absatz 5 entsprechende Anwendung der tariflichen Regelungen zum
+Betriebsrat für dessen Beantwortung des Auskunftsverlangens, ob eine
+§ 5 Absatz 5 entsprechende Anwendung der tariflichen Regelungen zum
 Entgelt erfolgt. Der Betriebsrat bestätigt gegenüber den Beschäftigten
 schriftlich oder in Textform die Abgabe dieser Erklärung. Die Sätze 1
 und 2 gelten in den Fällen des § 14 Absatz 3 Satz 3 entsprechend.
@@ -377,34 +354,34 @@ Arbeitgeber über eingehende Auskunftsverlangen in anonymisierter Form
 umfassend zu informieren. Abweichend von Satz 1 kann der Betriebsrat
 verlangen, dass der Arbeitgeber die Auskunftsverpflichtung übernimmt.
 
-(2) Abweichend von Absatz 1 Satz 1 kann der Arbeitgeber die Erfüllung
-der Auskunftsverpflichtung generell oder in bestimmten Fällen
-übernehmen, wenn er dies zuvor gegenüber dem Betriebsrat erläutert
-hat. Die Übernahme kann jeweils längstens für die Dauer der Amtszeit
-des jeweils amtierenden Betriebsrates erfolgen. Übernimmt der
-Arbeitgeber die Erfüllung der Auskunftsverpflichtung, hat er den
-Betriebsrat umfassend und rechtzeitig über eingehende
+(2) Abweichend von Absatz 1 Satz 1 kann der Arbeitgeber die
+Erfüllung der Auskunftsverpflichtung generell oder in bestimmten
+Fällen übernehmen, wenn er dies zuvor gegenüber dem Betriebsrat
+erläutert hat. Die Übernahme kann jeweils längstens für die Dauer
+der Amtszeit des jeweils amtierenden Betriebsrates erfolgen.
+Übernimmt der Arbeitgeber die Erfüllung der Auskunftsverpflichtung,
+hat er den Betriebsrat umfassend und rechtzeitig über eingehende
 Auskunftsverlangen sowie über seine Antwort zu informieren. Die
 Beschäftigten sind jeweils darüber zu informieren, wer die Auskunft
 erteilt.
 
-(3) Besteht kein Betriebsrat, wenden sich die Beschäftigten an den
-Arbeitgeber. Der Arbeitgeber informiert die Vertreterinnen und
-Vertreter der zuständigen Tarifvertragsparteien nach § 6 Absatz 1 Satz
-2 über seine Antwort zu eingegangenen Auskunftsverlangen. Der
+(3) Besteht kein Betriebsrat, wenden sich die Beschäftigten an
+den Arbeitgeber. Der Arbeitgeber informiert die Vertreterinnen und
+Vertreter der zuständigen Tarifvertragsparteien nach § 6 Absatz 1
+Satz 2 über seine Antwort zu eingegangenen Auskunftsverlangen. Der
 Arbeitgeber sowie die Vertreterinnen und Vertreter der zuständigen
-Tarifvertragsparteien können vereinbaren, dass die Vertreterinnen und
-Vertreter der zuständigen Tarifvertragsparteien die Beantwortung von
-Auskunftsverlangen übernehmen. In diesem Fall informiert der
-Arbeitgeber diese umfassend und rechtzeitig über eingehende
+Tarifvertragsparteien können vereinbaren, dass die Vertreterinnen
+und Vertreter der zuständigen Tarifvertragsparteien die Beantwortung
+von Auskunftsverlangen übernehmen. In diesem Fall informiert
+der Arbeitgeber diese umfassend und rechtzeitig über eingehende
 Auskunftsverlangen. Die Beschäftigten sind jeweils darüber zu
 informieren, wer die Auskunft erteilt.
 
 (4) Soweit die Vertreterinnen und Vertreter der zuständigen
 Tarifvertragsparteien nach Absatz 3 Satz 3 das Auskunftsverlangen
-beantworten, hat der Arbeitgeber diesen auf Verlangen die zur
-Erfüllung ihrer Aufgaben erforderlichen Informationen bereitzustellen.
-Diese unterliegen im Rahmen ihrer Aufgaben der
+beantworten, hat der Arbeitgeber diesen auf Verlangen die
+zur Erfüllung ihrer Aufgaben erforderlichen Informationen
+bereitzustellen. Diese unterliegen im Rahmen ihrer Aufgaben der
 Verschwiegenheitspflicht.
 
 
@@ -416,23 +393,23 @@ Arbeitgeber.
 
 (2) Besteht ein Betriebsrat, gilt § 14 Absatz 1 und 2 entsprechend.
 
-(3) Der Arbeitgeber oder der Betriebsrat ist verpflichtet, die nach §
-10 verlangten Auskünfte innerhalb von drei Monaten nach Zugang des
+(3) Der Arbeitgeber oder der Betriebsrat ist verpflichtet, die nach
+§ 10 verlangten Auskünfte innerhalb von drei Monaten nach Zugang des
 Auskunftsverlangens in Textform zu erteilen. Droht Fristversäumnis,
 hat der Arbeitgeber oder der Betriebsrat die auskunftverlangende
 Beschäftigte oder den auskunftverlangenden Beschäftigten darüber zu
 informieren und die Antwort ohne weiteres Verzögern zu erteilen.
 
 (4) Der Arbeitgeber oder der Betriebsrat gibt an, inwiefern die
-benannte Vergleichstätigkeit überwiegend von Beschäftigten des jeweils
-anderen Geschlechts ausgeübt wird. Hält der Arbeitgeber oder der
-Betriebsrat die erfragte Vergleichstätigkeit nach den im Betrieb
-angewendeten Maßstäben für nicht gleich oder nicht gleichwertig, hat
-er dies anhand dieser Maßstäbe nachvollziehbar zu begründen. Dabei
-sind die in § 4 genannten Kriterien zu berücksichtigen. Der
-Arbeitgeber oder der Betriebsrat hat in diesem Fall seine Auskunft auf
-eine seines Erachtens nach gleiche oder gleichwertige Tätigkeit zu
-beziehen. Soweit der Betriebsrat für die Beantwortung des
+benannte Vergleichstätigkeit überwiegend von Beschäftigten des
+jeweils anderen Geschlechts ausgeübt wird. Hält der Arbeitgeber oder
+der Betriebsrat die erfragte Vergleichstätigkeit nach den im Betrieb
+angewendeten Maßstäben für nicht gleich oder nicht gleichwertig,
+hat er dies anhand dieser Maßstäbe nachvollziehbar zu begründen.
+Dabei sind die in § 4 genannten Kriterien zu berücksichtigen. Der
+Arbeitgeber oder der Betriebsrat hat in diesem Fall seine Auskunft
+auf eine seines Erachtens nach gleiche oder gleichwertige Tätigkeit
+zu beziehen. Soweit der Betriebsrat für die Beantwortung des
 Auskunftsverlangens zuständig ist, hat der Arbeitgeber dem Betriebsrat
 auf Verlangen die zur Erfüllung seiner Aufgaben erforderlichen
 Informationen bereitzustellen.
@@ -447,8 +424,8 @@ vertreten hat, die Auskunft nicht erteilen konnte.
 ### § 16 Öffentlicher Dienst
 
 Der Anspruch nach § 10 besteht auch für Beschäftigte des öffentlichen
-Dienstes nach § 5 Absatz 2 Nummer 1 bis 5 in Dienststellen mit in der
-Regel mehr als 200 Beschäftigten. Die §§ 11 bis 14 sind sinngemäß
+Dienstes nach § 5 Absatz 2 Nummer 1 bis 5 in Dienststellen mit in
+der Regel mehr als 200 Beschäftigten. Die §§ 11 bis 14 sind sinngemäß
 anzuwenden.
 
 
@@ -461,16 +438,16 @@ anzuwenden.
 sind aufgefordert, mithilfe betrieblicher Prüfverfahren ihre
 Entgeltregelungen und die verschiedenen gezahlten Entgeltbestandteile
 sowie deren Anwendung regelmäßig auf die Einhaltung des
-Entgeltgleichheitsgebots im Sinne dieses Gesetzes zu überprüfen. Nimmt
-in einem Konzern das herrschende Unternehmen auf die
+Entgeltgleichheitsgebots im Sinne dieses Gesetzes zu überprüfen.
+Nimmt in einem Konzern das herrschende Unternehmen auf die
 Entgeltbedingungen mindestens eines Konzernunternehmens entscheidenden
 Einfluss, kann das herrschende Unternehmen das betriebliche
 Prüfverfahren nach Satz 1 für alle Konzernunternehmen durchführen.
 
 (2) Wird ein betriebliches Prüfverfahren durchgeführt, hat dies in
-eigener Verantwortung der Arbeitgeber mithilfe der Verfahren nach § 18
-und unter Beteiligung der betrieblichen Interessenvertretungen zu
-erfolgen.
+eigener Verantwortung der Arbeitgeber mithilfe der Verfahren nach
+§ 18 und unter Beteiligung der betrieblichen Interessenvertretungen
+zu erfolgen.
 
 
 ### § 18 Durchführung betrieblicher Prüfverfahren
@@ -480,10 +457,10 @@ einzubeziehen, die demselben Entgeltsystem unterliegen, unabhängig
 davon, welche individualrechtlichen, tarifvertraglichen und
 betrieblichen Rechtsgrundlagen zusammenwirken.
 
-(2) Betriebliche Prüfverfahren haben aus Bestandsaufnahme, Analyse und
-Ergebnisbericht zu bestehen. Der Arbeitgeber ist unter
-Berücksichtigung betrieblicher Mitwirkungsrechte frei in der Wahl von
-Analysemethoden und Arbeitsbewertungsverfahren. Es sind valide
+(2) Betriebliche Prüfverfahren haben aus Bestandsaufnahme,
+Analyse und Ergebnisbericht zu bestehen. Der Arbeitgeber ist unter
+Berücksichtigung betrieblicher Mitwirkungsrechte frei in der Wahl
+von Analysemethoden und Arbeitsbewertungsverfahren. Es sind valide
 statistische Methoden zu verwenden. Die Daten sind nach Geschlecht
 aufzuschlüsseln. Dabei ist der Schutz personenbezogener Daten zu
 wahren.
@@ -508,8 +485,8 @@ zusammengefasst und können betriebsintern veröffentlicht werden.
 ### § 19 Beseitigung von Entgeltbenachteiligungen
 
 Ergeben sich aus einem betrieblichen Prüfverfahren Benachteiligungen
-wegen des Geschlechts in Bezug auf das Entgelt, ergreift der
-Arbeitgeber die geeigneten Maßnahmen zur Beseitigung der
+wegen des Geschlechts in Bezug auf das Entgelt, ergreift
+der Arbeitgeber die geeigneten Maßnahmen zur Beseitigung der
 Benachteiligung.
 
 
@@ -529,19 +506,16 @@ Betriebsverfassungsgesetzes sind zu beachten.
 
 ### § 21 Bericht zur Gleichstellung und Entgeltgleichheit
 
-(1) Arbeitgeber mit in der Regel mehr als 500 Beschäftigten, die zur
-Erstellung eines Lageberichts nach den §§ 264 und 289 des
+(1) Arbeitgeber mit in der Regel mehr als 500 Beschäftigten, die
+zur Erstellung eines Lageberichts nach den §§ 264 und 289 des
 Handelsgesetzbuches verpflichtet sind, erstellen einen Bericht zur
 Gleichstellung und Entgeltgleichheit, in dem sie Folgendes darstellen:
 
 1.  ihre Maßnahmen zur Förderung der Gleichstellung von Frauen und Männern
     und deren Wirkungen sowie
 
-
 2.  ihre Maßnahmen zur Herstellung von Entgeltgleichheit für Frauen und
     Männer.
-
-
 
 Arbeitgeber, die keine Maßnahmen im Sinne des Satzes 1 Nummer 1 oder 2
 durchführen, haben dies in ihrem Bericht zu begründen.
@@ -551,20 +525,16 @@ Angaben
 
 1.  zu der durchschnittlichen Gesamtzahl der Beschäftigten sowie
 
-
 2.  zu der durchschnittlichen Zahl der Vollzeit- und
     Teilzeitbeschäftigten.
-
-
-
 
 
 ### § 22 Berichtszeitraum und Veröffentlichung
 
 (1) Arbeitgeber nach § 21 Absatz 1, die tarifgebunden nach § 5 Absatz
-4 sind oder die tarifanwendend nach § 5 Absatz 5 sind und die gemäß §
-13 Absatz 5 erklärt haben, tarifliche Regelungen zum Entgelt nach § 5
-Absatz 5 anzuwenden, erstellen den Bericht alle fünf Jahre. Der
+4 sind oder die tarifanwendend nach § 5 Absatz 5 sind und die gemäß
+§ 13 Absatz 5 erklärt haben, tarifliche Regelungen zum Entgelt nach
+§ 5 Absatz 5 anzuwenden, erstellen den Bericht alle fünf Jahre. Der
 Berichtszeitraum umfasst die vergangenen fünf Jahre.
 
 (2) Alle anderen Arbeitgeber nach § 21 Absatz 1 erstellen den Bericht
@@ -578,7 +548,7 @@ Bericht anzugeben.
 
 (4) Der Bericht nach § 21 ist dem nächsten Lagebericht nach § 289 des
 Handelsgesetzbuches, der dem jeweiligen Berichtszeitraum folgt, als
-Anlage beizufügen und im Bundesanzeiger zu veröffentlichen.
+Anlage beizufügen und im Unternehmensregister offenzulegen.
 
 
 ## Abschnitt 5 - Evaluation, Aufgabe der Gleichstellungsbeauftragten, Übergangsbestimmungen
@@ -610,8 +580,8 @@ miteinzubeziehen.
 Die Gleichstellungsbeauftragten in der Bundesverwaltung und in den
 Unternehmen und den Gerichten des Bundes sowie die Beauftragten, die
 in Unternehmen für die Gleichstellung von Frauen und Männern zuständig
-sind, haben die Aufgabe, den Vollzug dieses Gesetzes in Bezug auf die
-Durchsetzung des Gebots des gleichen Entgelts bei gleicher oder
+sind, haben die Aufgabe, den Vollzug dieses Gesetzes in Bezug auf
+die Durchsetzung des Gebots des gleichen Entgelts bei gleicher oder
 gleichwertiger Arbeit für Frauen und Männer zu fördern.
 
 
@@ -620,14 +590,20 @@ gleichwertiger Arbeit für Frauen und Männer zu fördern.
 (1) Der Auskunftsanspruch nach § 10 kann erstmals sechs Kalendermonate
 nach dem 6. Juli 2017 geltend gemacht werden. Soweit der
 Auskunftsanspruch nach Satz 1 dann innerhalb von drei Kalenderjahren
-erstmals geltend gemacht wird, können Beschäftigte abweichend von § 10
-Absatz 2 Satz 2 erst nach Ablauf von drei Kalenderjahren erneut
+erstmals geltend gemacht wird, können Beschäftigte abweichend von §
+10 Absatz 2 Satz 2 erst nach Ablauf von drei Kalenderjahren erneut
 Auskunft verlangen. Satz 2 gilt nicht, soweit die Beschäftigten
 darlegen, dass sich die Voraussetzungen wesentlich verändert haben.
 
 (2) Der Bericht nach § 21 ist erstmals im Jahr 2018 zu erstellen.
 
-(3) Abweichend von § 22 Absatz 1 Satz 2 und Absatz 2 Satz 2 umfasst
-der Berichtszeitraum für den ersten Bericht nur das letzte
+(3) Abweichend von § 22 Absatz 1 Satz 2 und Absatz 2 Satz 2
+umfasst der Berichtszeitraum für den ersten Bericht nur das letzte
 abgeschlossene Kalenderjahr, das dem Jahr 2017 vorausgeht.
+
+(4) § 22 Absatz 4 in der ab dem 1. August 2022 geltenden Fassung
+ist erstmals anzuwenden auf Berichte zur Gleichstellung und
+Entgeltgleichheit, die Lageberichten beizufügen sind, welche für
+das nach dem 31. Dezember 2021 beginnende Geschäftsjahr aufgestellt
+werden.
 

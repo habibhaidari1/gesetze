@@ -34,17 +34,12 @@ seinem Sinne
 1.  einen Beitrag zum Verständnis der Zeitgeschichte und der weiteren
     Entwicklung der Bundesrepublik Deutschland sowie
 
-
 2.  zur Erforschung, Stärkung und Weiterentwicklung des europäischen
     Integrationsprozesses im globalen Umfeld zu leisten;
-
 
 3.  Kenntnisse zu den heutigen und zukünftigen politischen,
     wirtschaftlichen und gesellschaftlichen Herausforderungen in
     Deutschland, Europa und der Welt zu vertiefen und zu erweitern.
-
-
-
 
 (2) Der Erfüllung dieses Zwecks dienen insbesondere folgende
 Maßnahmen:
@@ -55,22 +50,16 @@ Maßnahmen:
     und pflegt, Sonderausstellungen und Veranstaltungen durchführt sowie
     wissenschaftliche Arbeitsmöglichkeiten bietet;
 
-
 2.  regelmäßiges Wirken wie die Organisation und Durchführung von
-    Veranstaltungen in der Hauptstadt Berlin und an anderen Orten als dem
-    Stiftungssitz;
-
+    Veranstaltungen in der Hauptstadt Berlin und an anderen Orten als
+    dem Stiftungssitz;
 
 3.  Forschung und Förderung wissenschaftlicher Arbeiten sowie
     Veröffentlichungen im Sinne des Stiftungszwecks, insbesondere unter
     Berücksichtigung von zukunftsgerichteten Fragestellungen;
 
-
 4.  Förderung der Zusammenarbeit mit anderen nationalen und
     internationalen Einrichtungen, soweit sie dem Stiftungszweck dient.
-
-
-
 
 
 ## § 3 Stiftungsvermögen
@@ -94,8 +83,8 @@ im Sinne des Stiftungszwecks zu verwenden.
 ## § 4 Satzung
 
 Die Stiftung gibt sich eine Satzung, die vom Kuratorium mit einer
-Mehrheit von vier Fünfteln seiner Mitglieder beschlossen wird und der
-Genehmigung der für Kultur und Medien zuständigen obersten
+Mehrheit von vier Fünfteln seiner Mitglieder beschlossen wird und
+der Genehmigung der für Kultur und Medien zuständigen obersten
 Bundesbehörde bedarf. Das gleiche gilt für die Änderung der Satzung.
 
 
@@ -105,11 +94,7 @@ Organe der Stiftung sind
 
 1.  das Kuratorium,
 
-
 2.  der Vorstand.
-
-
-
 
 
 ## § 6 Kuratorium
@@ -118,16 +103,16 @@ Organe der Stiftung sind
 Bundespräsidentin oder vom Bundespräsidenten für die Dauer von fünf
 Jahren bestellt werden.
 
-(2) Ein bindendes Vorschlagsrecht für ein Mitglied des Kuratoriums hat
-die Bundespräsidentin oder der Bundespräsident. Die für Kultur und
-Medien zuständige oberste Bundesbehörde und die Konrad-Adenauer-
-Stiftung e. V. verfügen über bindende Vorschlagsrechte für je zwei
-Mitglieder des Kuratoriums. Für jedes der Mitglieder ist eine
+(2) Ein bindendes Vorschlagsrecht für ein Mitglied des Kuratoriums
+hat die Bundespräsidentin oder der Bundespräsident. Die für Kultur
+und Medien zuständige oberste Bundesbehörde und die Konrad-Adenauer-
+Stiftung e. V. verfügen über bindende Vorschlagsrechte für je
+zwei Mitglieder des Kuratoriums. Für jedes der Mitglieder ist eine
 Vertreterin oder ein Vertreter zu bestellen. Wiederholte Bestellung
 ist zulässig.
 
-(3) Scheidet ein Kuratoriumsmitglied oder seine Stellvertreterin oder
-sein Stellvertreter vorzeitig aus, so kann eine Bestellung der
+(3) Scheidet ein Kuratoriumsmitglied oder seine Stellvertreterin
+oder sein Stellvertreter vorzeitig aus, so kann eine Bestellung der
 Nachfolgerin oder des Nachfolgers nur für den Rest der Zeit, für die
 das Mitglied oder die Vertreterin oder der Vertreter bestellt war,
 erfolgen.
@@ -153,8 +138,8 @@ Vorstands.
 (3) Zwei Mitglieder des Vorstands sind ehrenamtlich tätig, das dritte
 Mitglied ist die Geschäftsführerin oder der Geschäftsführer. Die
 Geschäftsführerin oder der Geschäftsführer ist nebenamtlich tätig.
-Bindende Vorschlagsrechte für je ein ehrenamtliches Mitglied haben die
-für Kultur und Medien zuständige oberste Bundesbehörde sowie die
+Bindende Vorschlagsrechte für je ein ehrenamtliches Mitglied haben
+die für Kultur und Medien zuständige oberste Bundesbehörde sowie die
 Konrad-Adenauer-Stiftung e. V.
 
 (4) Scheidet ein ehrenamtliches Mitglied des Vorstands aus, verbleibt
@@ -193,8 +178,8 @@ nicht nebenamtlich tätig sind, ehrenamtlich tätig.
 
 ## § 10 Unterstützung durch und Kooperation mit Einrichtungen des Bundes, Aufsicht, Haushalt, Rechtsprüfung
 
-(1) Bei der Erfüllung ihres Stiftungszwecks wird die Stiftung durch
-Einrichtungen des Bundes unterstützt. Die Stiftung kooperiert
+(1) Bei der Erfüllung ihres Stiftungszwecks wird die Stiftung
+durch Einrichtungen des Bundes unterstützt. Die Stiftung kooperiert
 insbesondere mit dem Bundesarchiv, der Stiftung Haus der Geschichte
 der Bundesrepublik Deutschland und der Stiftung Deutsches Historisches
 Museum.
@@ -222,8 +207,8 @@ haben, verliehen werden.
 
 ## § 12 Gebühren
 
-Die Stiftung kann zur Deckung des Verwaltungsaufwands nach näherer
-Bestimmung der Satzung Gebühren für die Benutzung von
+Die Stiftung kann zur Deckung des Verwaltungsaufwands nach
+näherer Bestimmung der Satzung Gebühren für die Benutzung von
 Stiftungseinrichtungen erheben.
 
 

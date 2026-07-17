@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen
-  Mark (Fichte-Gedenkmünze)
+Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Fichte-Gedenkmünze)
 jurabk: Münz5DMBek 1966
 layout: default
 origslug: m_nz5dmbek_1966
@@ -17,17 +16,15 @@ Fundstelle
 :   BGBl I: 1966, 143
 
 
-
 ## (XXXX)
 
-(1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen vom
-8\. Juli 1950 (Bundesgesetzbl. S. 323) und des Änderungsgesetzes vom
-18\. Januar 1963 (Bundesgesetzbl. I S. 55) werden zur Erinnerung an den
-deutschen Philosophen Johann Gottlieb Fichte
-(geb. 1762 Rammenau/Oberlausitz
-gest. 1814 Berlin) und sein Werk 500 000 Stück Bundesmünzen im
-Nennwert von je 5 Deutschen Mark geprägt und demnächst in den Verkehr
-gebracht.
+(1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen
+vom 8. Juli 1950 (Bundesgesetzbl. S. 323) und des Änderungsgesetzes
+vom 18. Januar 1963 (Bundesgesetzbl. I S. 55) werden zur Erinnerung
+an den deutschen Philosophen Johann Gottlieb Fichte (geb. 1762
+Rammenau/Oberlausitz gest. 1814 Berlin) und sein Werk 500 000 Stück
+Bundesmünzen im Nennwert von je 5 Deutschen Mark geprägt und demnächst
+in den Verkehr gebracht.
 
 (2) Die Münzen bestehen aus einer Legierung von 625 Tausendteilen
 Feinsilber und 375 Tausendteilen Kupfer. Sie haben einen Durchmesser
@@ -40,14 +37,11 @@ erhabenen glatten Rand umrahmt.
 Außen neben den Fängen des Adlers steht die in zwei Hälften geteilte
 Jahreszahl 1964 und schräg links unter der Teilzahl 64 der große
 Buchstabe J, das Münzzeichen der Hamburgischen Münze. Die Umschrift
-lautet: "BUNDESREPUBLIK
-- DEUTSCHLAND
-- 5 DEUTSCHE MARK".
+lautet: "BUNDESREPUBLIK - DEUTSCHLAND - 5 DEUTSCHE MARK".
 
 (5) Die andere Seite (Bildseite) zeigt das Kopfbild des Philosophen,
-das von der Umschrift "JOHANN GOTTLIEB FICHTE
-- 1762-1814
--" umschlossen wird.
+das von der Umschrift "JOHANN GOTTLIEB FICHTE - 1762-1814 -"
+umschlossen wird.
 
 (6) Der glatte, durch die Dicke der Münzen gebildete Rand ist mit der
 vertieften Inschrift "NUR DAS MACHT GLÜCKSELIG WAS GUT IST" versehen.

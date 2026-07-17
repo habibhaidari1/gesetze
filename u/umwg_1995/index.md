@@ -16,48 +16,10 @@ Fundstelle
 :   BGBl I: 1994, 3210 (1995 I 428)
 
 Zuletzt geändert durch
-:   Art. 1 G v. 19.12.2018 I 2694
-
-Änderung durch
-:   Art. 14 G v. 3.6.2021 I 1534 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 17 G v. 5.7.2021 I 3338 (Nr. 52) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 60 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Dieses Gesetz dient, soweit es Regelungen über Umwandlungen unter
-Beteiligung von Aktiengesellschaften enthält, der Umsetzung folgender
-Richtlinien der Europäischen Gemeinschaft:
-
-1.  Artikel 13 der Zweiten Richtlinie (77/91/EWG) des Rates vom 13.
-    Dezember 1976 zur Koordinierung der Schutzbestimmungen, die in den
-    Mitgliedstaaten den Gesellschaften im Sinne des Artikels 58 Abs. 2 des
-    Vertrages im Interesse der Gesellschafter sowie Dritter für die
-    Gründung der Aktiengesellschaft sowie für die Erhaltung und Änderung
-    ihres Kapitals vorgeschrieben sind, um diese Bestimmungen gleichwertig
-    zu gestalten (ABl. EG Nr. L 26 S. 1 vom 31. Januar 1977);
-
-
-2.  Dritte Richtlinie (78/855/EWG) des Rates vom 9. Oktober 1978 gemäß
-    Artikel 54 Abs. 3 Buchstabe g des Vertrages betreffend die
-    Verschmelzung von Aktiengesellschaften (ABl. EG Nr. L 295 S. 36 vom
-    20\. Oktober 1978);
-
-
-3.  Sechste Richtlinie (82/891/EWG) des Rates vom 17. Dezember 1982 gemäß
-    Artikel 54 Abs. 3 Buchstabe g des Vertrages betreffend die Spaltung
-    von Aktiengesellschaften (ABl. EG Nr. L 378 S. 47 vom 31. Dezember
-    1982).
-
-
-
-
+:   Art. 17 G v. 23.10.2024 I Nr. 323
 
 
 ## Erstes Buch - Möglichkeiten von Umwandlungen
-
 
 
 ### § 1 Arten der Umwandlung; gesetzliche Beschränkungen
@@ -66,17 +28,11 @@ Richtlinien der Europäischen Gemeinschaft:
 
 1.  durch Verschmelzung;
 
-
 2.  durch Spaltung (Aufspaltung, Abspaltung, Ausgliederung);
-
 
 3.  durch Vermögensübertragung;
 
-
 4.  durch Formwechsel.
-
-
-
 
 (2) Eine Umwandlung im Sinne des Absatzes 1 ist außer in den in diesem
 Gesetz geregelten Fällen nur möglich, wenn sie durch ein anderes
@@ -91,13 +47,10 @@ denn, daß dieses Gesetz eine abschließende Regelung enthält.
 ## Zweites Buch - Verschmelzung
 
 
-
 ### Erster Teil - Allgemeine Vorschriften
 
 
-
 #### Erster Abschnitt - Möglichkeit der Verschmelzung
-
 
 
 ##### § 2 Arten der Verschmelzung
@@ -110,12 +63,9 @@ werden
     als Ganzes auf einen anderen bestehenden Rechtsträger (übernehmender
     Rechtsträger) oder
 
-
 2.  im Wege der Neugründung durch Übertragung der Vermögen zweier oder
     mehrerer Rechtsträger (übertragende Rechtsträger) jeweils als Ganzes
     auf einen neuen, von ihnen dadurch gegründeten Rechtsträger
-
-
 
 gegen Gewährung von Anteilen oder Mitgliedschaften des übernehmenden
 oder neuen Rechtsträgers an die Anteilsinhaber (Gesellschafter,
@@ -127,52 +77,40 @@ Partner, Aktionäre oder Mitglieder) der übertragenden Rechtsträger.
 (1) An Verschmelzungen können als übertragende, übernehmende oder neue
 Rechtsträger beteiligt sein:
 
-1.  Personenhandelsgesellschaften (offene Handelsgesellschaften,
+1.  eingetragene Gesellschaften bürgerlichen Rechts,
+    Personenhandelsgesellschaften (offene Handelsgesellschaften,
     Kommanditgesellschaften) und Partnerschaftsgesellschaften;
-
 
 2.  Kapitalgesellschaften (Gesellschaften mit beschränkter Haftung,
     Aktiengesellschaften, Kommanditgesellschaften auf Aktien);
 
-
 3.  eingetragene Genossenschaften;
-
 
 4.  eingetragene Vereine (§ 21 des Bürgerlichen Gesetzbuchs);
 
-
 5.  genossenschaftliche Prüfungsverbände;
 
-
 6.  Versicherungsvereine auf Gegenseitigkeit.
-
-
-
 
 (2) An einer Verschmelzung können ferner beteiligt sein:
 
 1.  wirtschaftliche Vereine (§ 22 des Bürgerlichen Gesetzbuchs), soweit
     sie übertragender Rechtsträger sind;
 
-
 2.  natürliche Personen, die als Alleingesellschafter einer
     Kapitalgesellschaft deren Vermögen übernehmen.
-
-
-
 
 (3) An der Verschmelzung können als übertragende Rechtsträger auch
 aufgelöste Rechtsträger beteiligt sein, wenn die Fortsetzung dieser
 Rechtsträger beschlossen werden könnte.
 
-(4) Die Verschmelzung kann sowohl unter gleichzeitiger Beteiligung von
-Rechtsträgern derselben Rechtsform als auch von Rechtsträgern
+(4) Die Verschmelzung kann sowohl unter gleichzeitiger Beteiligung
+von Rechtsträgern derselben Rechtsform als auch von Rechtsträgern
 unterschiedlicher Rechtsform erfolgen, soweit nicht etwas anderes
 bestimmt ist.
 
 
 #### Zweiter Abschnitt - Verschmelzung durch Aufnahme
-
 
 
 ##### § 4 Verschmelzungsvertrag
@@ -194,58 +132,47 @@ enthalten:
 1.  den Namen oder die Firma und den Sitz der an der Verschmelzung
     beteiligten Rechtsträger;
 
-
 2.  die Vereinbarung über die Übertragung des Vermögens jedes
     übertragenden Rechtsträgers als Ganzes gegen Gewährung von Anteilen
     oder Mitgliedschaften an dem übernehmenden Rechtsträger;
 
-
-3.  das Umtauschverhältnis der Anteile und gegebenenfalls die Höhe der
-    baren Zuzahlung oder Angaben über die Mitgliedschaft bei dem
+3.  das Umtauschverhältnis der Anteile und gegebenenfalls die Höhe
+    der baren Zuzahlung oder Angaben über die Mitgliedschaft bei dem
     übernehmenden Rechtsträger;
-
 
 4.  die Einzelheiten für die Übertragung der Anteile des übernehmenden
     Rechtsträgers oder über den Erwerb der Mitgliedschaft bei dem
     übernehmenden Rechtsträger;
 
-
 5.  den Zeitpunkt, von dem an diese Anteile oder die Mitgliedschaften
     einen Anspruch auf einen Anteil am Bilanzgewinn gewähren, sowie alle
     Besonderheiten in bezug auf diesen Anspruch;
-
 
 6.  den Zeitpunkt, von dem an die Handlungen der übertragenden
     Rechtsträger als für Rechnung des übernehmenden Rechtsträgers
     vorgenommen gelten (Verschmelzungsstichtag);
 
-
 7.  die Rechte, die der übernehmende Rechtsträger einzelnen
-    Anteilsinhabern sowie den Inhabern besonderer Rechte wie Anteile ohne
-    Stimmrecht, Vorzugsaktien, Mehrstimmrechtsaktien,
+    Anteilsinhabern sowie den Inhabern besonderer Rechte wie
+    Anteile ohne Stimmrecht, Vorzugsaktien, Mehrstimmrechtsaktien,
     Schuldverschreibungen und Genußrechte gewährt, oder die für diese
     Personen vorgesehenen Maßnahmen;
-
 
 8.  jeden besonderen Vorteil, der einem Mitglied eines Vertretungsorgans
     oder eines Aufsichtsorgans der an der Verschmelzung beteiligten
     Rechtsträger, einem geschäftsführenden Gesellschafter, einem Partner,
     einem Abschlußprüfer oder einem Verschmelzungsprüfer gewährt wird;
 
-
 9.  die Folgen der Verschmelzung für die Arbeitnehmer und ihre
     Vertretungen sowie die insoweit vorgesehenen Maßnahmen.
-
-
-
 
 (2) Befinden sich alle Anteile eines übertragenden Rechtsträgers in
 der Hand des übernehmenden Rechtsträgers, so entfallen die Angaben
 über den Umtausch der Anteile (Absatz 1 Nr. 2 bis 5), soweit sie die
 Aufnahme dieses Rechtsträgers betreffen.
 
-(3) Der Vertrag oder sein Entwurf ist spätestens einen Monat vor dem
-Tage der Versammlung der Anteilsinhaber jedes beteiligten
+(3) Der Vertrag oder sein Entwurf ist spätestens einen Monat vor
+dem Tage der Versammlung der Anteilsinhaber jedes beteiligten
 Rechtsträgers, die gemäß § 13 Abs. 1 über die Zustimmung zum
 Verschmelzungsvertrag beschließen soll, dem zuständigen Betriebsrat
 dieses Rechtsträgers zuzuleiten.
@@ -258,10 +185,10 @@ Der Verschmelzungsvertrag muß notariell beurkundet werden.
 
 ##### § 7 Kündigung des Verschmelzungsvertrags
 
-Ist der Verschmelzungsvertrag unter einer Bedingung geschlossen worden
-und ist diese binnen fünf Jahren nach Abschluß des Vertrags nicht
-eingetreten, so kann jeder Teil den Vertrag nach fünf Jahren mit
-halbjähriger Frist kündigen; im Verschmelzungsvertrag kann eine
+Ist der Verschmelzungsvertrag unter einer Bedingung geschlossen
+worden und ist diese binnen fünf Jahren nach Abschluß des Vertrags
+nicht eingetreten, so kann jeder Teil den Vertrag nach fünf Jahren
+mit halbjähriger Frist kündigen; im Verschmelzungsvertrag kann eine
 kürzere Zeit als fünf Jahre vereinbart werden. Die Kündigung kann
 stets nur für den Schluß des Geschäftsjahres des Rechtsträgers, dem
 gegenüber sie erklärt wird, ausgesprochen werden.
@@ -270,14 +197,23 @@ gegenüber sie erklärt wird, ausgesprochen werden.
 ##### § 8 Verschmelzungsbericht
 
 (1) Die Vertretungsorgane jedes der an der Verschmelzung beteiligten
-Rechtsträger haben einen ausführlichen schriftlichen Bericht zu
-erstatten, in dem die Verschmelzung, der Verschmelzungsvertrag oder
-sein Entwurf im einzelnen und insbesondere das Umtauschverhältnis der
-Anteile oder die Angaben über die Mitgliedschaft bei dem übernehmenden
-Rechtsträger sowie die Höhe einer anzubietenden Barabfindung rechtlich
-und wirtschaftlich erläutert und begründet werden
-(Verschmelzungsbericht); der Bericht kann von den Vertretungsorganen
-auch gemeinsam erstattet werden. Auf besondere Schwierigkeiten bei der
+Rechtsträger haben einen ausführlichen schriftlichen Bericht
+(Verschmelzungsbericht) zu erstatten, in dem Folgendes rechtlich und
+wirtschaftlich erläutert und begründet wird:
+
+1.  die Verschmelzung,
+
+2.  der Verschmelzungsvertrag oder sein Entwurf im Einzelnen, insbesondere
+
+    a)  das Umtauschverhältnis der Anteile einschließlich der zu seiner
+        Ermittlung gewählten Bewertungsmethoden oder die Angaben über die
+        Mitgliedschaft bei dem übernehmenden Rechtsträger sowie
+
+    b)  die Höhe einer anzubietenden Barabfindung einschließlich der zu ihrer
+        Ermittlung gewählten Bewertungsmethoden.
+
+Der Verschmelzungsbericht kann von den Vertretungsorganen auch
+gemeinsam erstattet werden. Auf besondere Schwierigkeiten bei der
 Bewertung der Rechtsträger sowie auf die Folgen für die Beteiligung
 der Anteilsinhaber ist hinzuweisen. Ist ein an der Verschmelzung
 beteiligter Rechtsträger ein verbundenes Unternehmen im Sinne des § 15
@@ -292,11 +228,21 @@ oder einem verbundenen Unternehmen einen nicht unerheblichen Nachteil
 zuzufügen. In diesem Falle sind in dem Bericht die Gründe, aus denen
 die Tatsachen nicht aufgenommen worden sind, darzulegen.
 
-(3) Der Bericht ist nicht erforderlich, wenn alle Anteilsinhaber aller
-beteiligten Rechtsträger auf seine Erstattung verzichten oder sich
-alle Anteile des übertragenden Rechtsträgers in der Hand des
-übernehmenden Rechtsträgers befinden. Die Verzichtserklärungen sind
-notariell zu beurkunden.
+(3) Der Bericht ist nicht erforderlich, wenn alle Anteilsinhaber
+des beteiligten Rechtsträgers auf seine Erstattung verzichten. Die
+Verzichtserklärungen sind notariell zu beurkunden. Der Bericht ist
+ferner nicht erforderlich
+
+1.  für den übertragenden und den übernehmenden Rechtsträger, wenn
+
+    a)  sich alle Anteile des übertragenden Rechtsträgers in der Hand des
+        übernehmenden Rechtsträgers befinden oder
+
+    b)  sich alle Anteile des übertragenden und des übernehmenden
+        Rechtsträgers in der Hand desselben Rechtsträgers befinden, sowie
+
+2.  für denjenigen an der Verschmelzung beteiligten Rechtsträger, der nur
+    einen Anteilsinhaber hat.
 
 
 ##### § 9 Prüfung der Verschmelzung
@@ -305,12 +251,7 @@ notariell zu beurkunden.
 Verschmelzungsvertrag oder sein Entwurf durch einen oder mehrere
 sachverständige Prüfer (Verschmelzungsprüfer) zu prüfen.
 
-(2) Befinden sich alle Anteile eines übertragenden Rechtsträgers in
-der Hand des übernehmenden Rechtsträgers, so ist eine
-Verschmelzungsprüfung nach Absatz 1 nicht erforderlich, soweit sie die
-Aufnahme dieses Rechtsträgers betrifft.
-
-(3) § 8 Abs. 3 ist entsprechend anzuwenden.
+(2) § 8 Abs. 3 ist entsprechend anzuwenden.
 
 
 ##### § 10 Bestellung der Verschmelzungsprüfer
@@ -332,8 +273,8 @@ Familiensachen und in den Angelegenheiten der freiwilligen
 Gerichtsbarkeit anzuwenden, soweit in den folgenden Absätzen nicht
 anderes bestimmt ist.
 
-(4) Gegen die Entscheidung findet die Beschwerde statt. Sie kann nur
-durch Einreichung einer von einem Rechtsanwalt unterzeichneten
+(4) Gegen die Entscheidung findet die Beschwerde statt. Sie kann
+nur durch Einreichung einer von einem Rechtsanwalt unterzeichneten
 Beschwerdeschrift eingelegt werden.
 
 (5) Die Landesregierung kann die Entscheidung über die Beschwerde
@@ -347,26 +288,26 @@ Landesjustizverwaltung übertragen.
 ##### § 11 Stellung und Verantwortlichkeit der Verschmelzungsprüfer
 
 (1) Für die Auswahl und das Auskunftsrecht der Verschmelzungsprüfer
-gelten § 319 Abs. 1 bis 4, § 319b Abs. 1, § 320 Abs. 1 Satz 2 und Abs.
-2 Satz 1 und 2 des Handelsgesetzbuchs entsprechend. Soweit
+gelten § 319 Abs. 1 bis 4, § 319b Abs. 1, § 320 Abs. 1 Satz 2 und
+Abs. 2 Satz 1 und 2 des Handelsgesetzbuchs entsprechend. Soweit
 Rechtsträger betroffen sind, die Unternehmen von öffentlichem
-Interesse nach § 316a Satz 2 des Handelsgesetzbuchs sind, gilt für die
-Auswahl der Verschmelzungsprüfer neben Satz 1 auch Artikel 5 Absatz 1
-der Verordnung (EU) Nr. 537/2014 des Europäischen Parlaments und des
-Rates vom 16. April 2014 über spezifische Anforderungen an die
-Abschlussprüfung bei Unternehmen von öffentlichem Interesse und zur
-Aufhebung des Beschlusses 2005/909/EG der Kommission (ABl. L 158 vom
-27\.5.2014, S. 77; L 170 vom 11.6.2014, S. 66) entsprechend mit der
-Maßgabe, dass an die Stelle der in Artikel 5 Absatz 1 Unterabsatz 1
-Buchstabe a und b der Verordnung (EU) Nr. 537/2014 genannten Zeiträume
-der Zeitraum zwischen dem Beginn des Geschäftsjahres, welches dem
-Geschäftsjahr vorausgeht, in dem der Verschmelzungsvertrag geschlossen
-wurde, und dem Zeitpunkt, in dem der Verschmelzungsprüfer den
-Prüfungsbericht nach § 12 erstattet hat, tritt. Soweit Rechtsträger
-betroffen sind, für die keine Pflicht zur Prüfung des
-Jahresabschlusses besteht, gilt Satz 1 entsprechend. Dabei findet §
-267 Abs. 1 bis 3 des Handelsgesetzbuchs für die Umschreibung der
-Größenklassen entsprechende Anwendung. Das Auskunftsrecht besteht
+Interesse nach § 316a Satz 2 des Handelsgesetzbuchs sind, gilt für
+die Auswahl der Verschmelzungsprüfer neben Satz 1 auch Artikel 5
+Absatz 1 der Verordnung (EU) Nr. 537/2014 des Europäischen Parlaments
+und des Rates vom 16. April 2014 über spezifische Anforderungen
+an die Abschlussprüfung bei Unternehmen von öffentlichem Interesse
+und zur Aufhebung des Beschlusses 2005/909/EG der Kommission
+(ABl. L 158 vom 27.5.2014, S. 77; L 170 vom 11.6.2014, S. 66)
+entsprechend mit der Maßgabe, dass an die Stelle der in Artikel 5
+Absatz 1 Unterabsatz 1 Buchstabe a und b der Verordnung (EU) Nr.
+537/2014 genannten Zeiträume der Zeitraum zwischen dem Beginn des
+Geschäftsjahres, welches dem Geschäftsjahr vorausgeht, in dem der
+Verschmelzungsvertrag geschlossen wurde, und dem Zeitpunkt, in dem
+der Verschmelzungsprüfer den Prüfungsbericht nach § 12 erstattet hat,
+tritt. Soweit Rechtsträger betroffen sind, für die keine Pflicht zur
+Prüfung des Jahresabschlusses besteht, gilt Satz 1 entsprechend. Dabei
+findet § 267 Abs. 1 bis 3 des Handelsgesetzbuchs für die Umschreibung
+der Größenklassen entsprechende Anwendung. Das Auskunftsrecht besteht
 gegenüber allen an der Verschmelzung beteiligten Rechtsträgern und
 gegenüber einem Konzernunternehmen sowie einem abhängigen und einem
 herrschenden Unternehmen.
@@ -393,20 +334,20 @@ anzugeben,
 1.  nach welchen Methoden das vorgeschlagene Umtauschverhältnis ermittelt
     worden ist;
 
-
 2.  aus welchen Gründen die Anwendung dieser Methoden angemessen ist;
-
 
 3.  welches Umtauschverhältnis oder welcher Gegenwert sich bei der
     Anwendung verschiedener Methoden, sofern mehrere angewandt worden
     sind, jeweils ergeben würde; zugleich ist darzulegen, welches Gewicht
     den verschiedenen Methoden bei der Bestimmung des vorgeschlagenen
     Umtauschverhältnisses oder des Gegenwerts und der ihnen
-    zugrundeliegenden Werte beigemessen worden ist und welche besonderen
-    Schwierigkeiten bei der Bewertung der Rechtsträger aufgetreten sind.
+    zugrundeliegenden Werte beigemessen worden ist und, falls in den an
+    der Verschmelzung beteiligten Rechtsträgern unterschiedliche Methoden
+    verwendet worden sind, ob die Verwendung unterschiedlicher Methoden
+    gerechtfertigt war;
 
-
-
+4.  welche besonderen Schwierigkeiten bei der Bewertung der Rechtsträger
+    aufgetreten sind.
 
 (3) § 8 Abs. 2 und 3 ist entsprechend anzuwenden.
 
@@ -419,8 +360,8 @@ Anteilsinhaber der beteiligten Rechtsträger ihm durch Beschluß
 Versammlung der Anteilsinhaber gefaßt werden.
 
 (2) Ist die Abtretung der Anteile eines übertragenden Rechtsträgers
-von der Genehmigung bestimmter einzelner Anteilsinhaber abhängig, so
-bedarf der Verschmelzungsbeschluß dieses Rechtsträgers zu seiner
+von der Genehmigung bestimmter einzelner Anteilsinhaber abhängig,
+so bedarf der Verschmelzungsbeschluß dieses Rechtsträgers zu seiner
 Wirksamkeit ihrer Zustimmung.
 
 (3) Der Verschmelzungsbeschluß und die nach diesem Gesetz
@@ -439,27 +380,25 @@ Niederschrift des Beschlusses zu erteilen.
 muß binnen eines Monats nach der Beschlußfassung erhoben werden.
 
 (2) Eine Klage gegen die Wirksamkeit des Verschmelzungsbeschlusses
-eines übertragenden Rechtsträgers kann nicht darauf gestützt werden,
-daß das Umtauschverhältnis der Anteile zu niedrig bemessen ist oder
-daß die Mitgliedschaft bei dem übernehmenden Rechtsträger kein
-ausreichender Gegenwert für die Anteile oder die Mitgliedschaft bei
-dem übertragenden Rechtsträger ist.
+kann nicht darauf gestützt werden, dass das Umtauschverhältnis der
+Anteile nicht angemessen ist oder dass die Mitgliedschaft bei dem
+übernehmenden Rechtsträger kein angemessener Gegenwert für die Anteile
+oder die Mitgliedschaft bei dem übertragenden Rechtsträger ist.
 
 
 ##### § 15 Verbesserung des Umtauschverhältnisses
 
-(1) Ist das Umtauschverhältnis der Anteile zu niedrig bemessen oder
+(1) Ist das Umtauschverhältnis der Anteile nicht angemessen oder
 ist die Mitgliedschaft bei dem übernehmenden Rechtsträger kein
-ausreichender Gegenwert für den Anteil oder die Mitgliedschaft bei
-einem übertragenden Rechtsträger, so kann jeder Anteilsinhaber dieses
-übertragenden Rechtsträgers, dessen Recht, gegen die Wirksamkeit des
-Verschmelzungsbeschlusses Klage zu erheben, nach § 14 Abs. 2
-ausgeschlossen ist, von dem übernehmenden Rechtsträger einen Ausgleich
-durch bare Zuzahlung verlangen; die Zuzahlungen können den zehnten
-Teil des auf die gewährten Anteile entfallenden Betrags des Grund-
-oder Stammkapitals übersteigen. Die angemessene Zuzahlung wird auf
-Antrag durch das Gericht nach den Vorschriften des
-Spruchverfahrensgesetzes bestimmt.
+angemessener Gegenwert für den Anteil oder für die Mitgliedschaft bei
+einem übertragenden Rechtsträger, so kann jeder Anteilsinhaber, dessen
+Recht, gegen die Wirksamkeit des Verschmelzungsbeschlusses Klage zu
+erheben, nach § 14 Absatz 2 ausgeschlossen ist, von dem übernehmenden
+Rechtsträger einen Ausgleich durch bare Zuzahlung verlangen; die
+Zuzahlungen können den zehnten Teil des auf die gewährten Anteile
+entfallenden Betrags des Grund- oder Stammkapitals übersteigen. Die
+angemessene Zuzahlung wird auf Antrag durch das Gericht nach den
+Vorschriften des Spruchverfahrensgesetzes bestimmt.
 
 (2) Die bare Zuzahlung ist nach Ablauf des Tages, an dem die
 Eintragung der Verschmelzung in das Register des Sitzes des
@@ -473,25 +412,26 @@ Geltendmachung eines weiteren Schadens ist nicht ausgeschlossen.
 
 (1) Die Vertretungsorgane jedes der an der Verschmelzung beteiligten
 Rechtsträger haben die Verschmelzung zur Eintragung in das Register
-(Handelsregister, Partnerschaftsregister, Genossenschaftsregister oder
-Vereinsregister) des Sitzes ihres Rechtsträgers anzumelden. Das
-Vertretungsorgan des übernehmenden Rechtsträgers ist berechtigt, die
-Verschmelzung auch zur Eintragung in das Register des Sitzes jedes der
-übertragenden Rechtsträger anzumelden.
+(Handelsregister, Genossenschaftsregister, Gesellschaftsregister,
+Partnerschaftsregister oder Vereinsregister) des Sitzes ihres
+Rechtsträgers anzumelden. Das Vertretungsorgan des übernehmenden
+Rechtsträgers ist berechtigt, die Verschmelzung auch zur Eintragung
+in das Register des Sitzes jedes der übertragenden Rechtsträger
+anzumelden.
 
 (2) Bei der Anmeldung haben die Vertretungsorgane zu erklären, daß
-eine Klage gegen die Wirksamkeit eines Verschmelzungsbeschlusses nicht
-oder nicht fristgemäß erhoben oder eine solche Klage rechtskräftig
-abgewiesen oder zurückgenommen worden ist; hierüber haben die
-Vertretungsorgane dem Registergericht auch nach der Anmeldung
-Mitteilung zu machen. Liegt die Erklärung nicht vor, so darf die
-Verschmelzung nicht eingetragen werden, es sei denn, daß die
-klageberechtigten Anteilsinhaber durch notariell beurkundete
+eine Klage gegen die Wirksamkeit eines Verschmelzungsbeschlusses
+nicht oder nicht fristgemäß erhoben oder eine solche Klage
+rechtskräftig abgewiesen oder zurückgenommen worden ist; hierüber
+haben die Vertretungsorgane dem Registergericht auch nach der
+Anmeldung Mitteilung zu machen. Liegt die Erklärung nicht vor, so
+darf die Verschmelzung nicht eingetragen werden, es sei denn, daß
+die klageberechtigten Anteilsinhaber durch notariell beurkundete
 Verzichtserklärung auf die Klage gegen die Wirksamkeit des
 Verschmelzungsbeschlusses verzichten.
 
-(3) Der Erklärung nach Absatz 2 Satz 1 steht es gleich, wenn nach
-Erhebung einer Klage gegen die Wirksamkeit eines
+(3) Der Erklärung nach Absatz 2 Satz 1 steht es gleich,
+wenn nach Erhebung einer Klage gegen die Wirksamkeit eines
 Verschmelzungsbeschlusses das Gericht auf Antrag des Rechtsträgers,
 gegen dessen Verschmelzungsbeschluß sich die Klage richtet, durch
 Beschluß festgestellt hat, daß die Erhebung der Klage der Eintragung
@@ -504,11 +444,9 @@ wenn
 
 1.  die Klage unzulässig oder offensichtlich unbegründet ist oder
 
-
 2.  der Kläger nicht binnen einer Woche nach Zustellung des Antrags durch
     Urkunden nachgewiesen hat, dass er seit Bekanntmachung der Einberufung
-    einen anteiligen Betrag von mindestens 1 000 Euro hält oder
-
+    einen anteiligen Betrag von mindestens 1 000 Euro hält oder
 
 3.  das alsbaldige Wirksamwerden der Verschmelzung vorrangig erscheint,
     weil die vom Antragsteller dargelegten wesentlichen Nachteile für die
@@ -517,20 +455,18 @@ wenn
     Antragsgegner überwiegen, es sei denn, es liegt eine besondere Schwere
     des Rechtsverstoßes vor.
 
-
-
 Der Beschluß kann in dringenden Fällen ohne mündliche Verhandlung
 ergehen. Der Beschluss soll spätestens drei Monate nach Antragstellung
 ergehen; Verzögerungen der Entscheidung sind durch unanfechtbaren
 Beschluss zu begründen. Die vorgebrachten Tatsachen, auf Grund derer
-der Beschluß nach Satz 3 ergehen kann, sind glaubhaft zu machen. Über
-den Antrag entscheidet ein Senat des Oberlandesgerichts, in dessen
-Bezirk die Gesellschaft ihren Sitz hat. Eine Übertragung auf den
-Einzelrichter ist ausgeschlossen; einer Güteverhandlung bedarf es
-nicht. Der Beschluss ist unanfechtbar. Erweist sich die Klage als
+der Beschluß nach Satz 3 ergehen kann, sind glaubhaft zu machen.
+Über den Antrag entscheidet ein Senat des Oberlandesgerichts, in
+dessen Bezirk die Gesellschaft ihren Sitz hat. Eine Übertragung auf
+den Einzelrichter ist ausgeschlossen; einer Güteverhandlung bedarf
+es nicht. Der Beschluss ist unanfechtbar. Erweist sich die Klage als
 begründet, so ist der Rechtsträger, der den Beschluß erwirkt hat,
-verpflichtet, dem Antragsgegner den Schaden zu ersetzen, der ihm aus
-einer auf dem Beschluß beruhenden Eintragung der Verschmelzung
+verpflichtet, dem Antragsgegner den Schaden zu ersetzen, der ihm
+aus einer auf dem Beschluß beruhenden Eintragung der Verschmelzung
 entstanden ist; als Ersatz des Schadens kann nicht die Beseitigung der
 Wirkungen der Eintragung der Verschmelzung im Register des Sitzes des
 übernehmenden Rechtsträgers verlangt werden.
@@ -539,15 +475,15 @@ Wirkungen der Eintragung der Verschmelzung im Register des Sitzes des
 ##### § 17 Anlagen der Anmeldung
 
 (1) Der Anmeldung sind in Ausfertigung oder öffentlich beglaubigter
-Abschrift oder, soweit sie nicht notariell zu beurkunden sind, in
-Urschrift oder Abschrift der Verschmelzungsvertrag, die
+Abschrift oder, soweit sie nicht notariell zu beurkunden sind,
+in Urschrift oder Abschrift der Verschmelzungsvertrag, die
 Niederschriften der Verschmelzungsbeschlüsse, die nach diesem Gesetz
 erforderlichen Zustimmungserklärungen einzelner Anteilsinhaber
 einschließlich der Zustimmungserklärungen nicht erschienener
 Anteilsinhaber, der Verschmelzungsbericht, der Prüfungsbericht oder
-die Verzichtserklärungen nach § 8 Abs. 3, § 9 Abs. 3, § 12 Abs. 3, §
-54 Abs. 1 Satz 3 oder § 68 Abs. 1 Satz 3, ein Nachweis über die
-rechtzeitige Zuleitung des Verschmelzungsvertrages oder seines
+die Verzichtserklärungen nach § 8 Abs. 3, § 9 Absatz 2, § 12 Abs.
+3, § 54 Abs. 1 Satz 3 oder § 68 Abs. 1 Satz 3, ein Nachweis über
+die rechtzeitige Zuleitung des Verschmelzungsvertrages oder seines
 Entwurfs an den zuständigen Betriebsrat beizufügen.
 
 (2) Der Anmeldung zum Register des Sitzes jedes der übertragenden
@@ -562,8 +498,8 @@ Anmeldung liegenden Stichtag aufgestellt worden ist.
 ##### § 18 Firma oder Name des übernehmenden Rechtsträgers
 
 (1) Der übernehmende Rechtsträger darf die Firma eines der
-übertragenden Rechtsträger, dessen Handelsgeschäft er durch die
-Verschmelzung erwirbt, mit oder ohne Beifügung eines das
+übertragenden Rechtsträger, dessen Handelsgeschäft er durch
+die Verschmelzung erwirbt, mit oder ohne Beifügung eines das
 Nachfolgeverhältnis andeutenden Zusatzes fortführen.
 
 (2) Ist an einem der übertragenden Rechtsträger eine natürliche Person
@@ -574,8 +510,8 @@ Firma verwenden, wenn der betroffene Anteilsinhaber oder dessen Erben
 ausdrücklich in die Verwendung einwilligen.
 
 (3) Ist eine Partnerschaftsgesellschaft an der Verschmelzung
-beteiligt, gelten für die Fortführung der Firma oder des Namens die
-Absätze 1 und 2 entsprechend. Eine Firma darf als Name einer
+beteiligt, gelten für die Fortführung der Firma oder des Namens
+die Absätze 1 und 2 entsprechend. Eine Firma darf als Name einer
 Partnerschaftsgesellschaft nur unter den Voraussetzungen des § 2 Abs.
 1 des Partnerschaftsgesellschaftsgesetzes fortgeführt werden. § 1 Abs.
 3 und § 11 des Partnerschaftsgesellschaftsgesetzes sind entsprechend
@@ -585,29 +521,29 @@ anzuwenden.
 ##### § 19 Eintragung und Bekanntmachung der Verschmelzung
 
 (1) Die Verschmelzung darf in das Register des Sitzes des
-übernehmenden Rechtsträgers erst eingetragen werden, nachdem sie im
-Register des Sitzes jedes der übertragenden Rechtsträger eingetragen
-worden ist. Die Eintragung im Register des Sitzes jedes der
-übertragenden Rechtsträger ist mit dem Vermerk zu versehen, daß die
-Verschmelzung erst mit der Eintragung im Register des Sitzes des
-übernehmenden Rechtsträgers wirksam wird, sofern die Eintragungen in
-den Registern aller beteiligten Rechtsträger nicht am selben Tag
+übernehmenden Rechtsträgers erst eingetragen werden, nachdem
+sie im Register des Sitzes jedes der übertragenden Rechtsträger
+eingetragen worden ist. Die Eintragung im Register des Sitzes jedes
+der übertragenden Rechtsträger ist mit dem Vermerk zu versehen, daß
+die Verschmelzung erst mit der Eintragung im Register des Sitzes des
+übernehmenden Rechtsträgers wirksam wird, sofern die Eintragungen
+in den Registern aller beteiligten Rechtsträger nicht am selben Tag
 erfolgen.
 
 (2) Das Gericht des Sitzes des übernehmenden Rechtsträgers hat von
 Amts wegen dem Gericht des Sitzes jedes der übertragenden Rechtsträger
-den Tag der Eintragung der Verschmelzung mitzuteilen. Nach Eingang der
-Mitteilung hat das Gericht des Sitzes jedes der übertragenden
+den Tag der Eintragung der Verschmelzung mitzuteilen. Nach Eingang
+der Mitteilung hat das Gericht des Sitzes jedes der übertragenden
 Rechtsträger von Amts wegen den Tag der Eintragung der Verschmelzung
-im Register des Sitzes des übernehmenden Rechtsträgers im Register des
-Sitzes des übertragenden Rechtsträgers zu vermerken und die bei ihm
-aufbewahrten Dokumente dem Gericht des Sitzes des übernehmenden
+im Register des Sitzes des übernehmenden Rechtsträgers im Register
+des Sitzes des übertragenden Rechtsträgers zu vermerken und die bei
+ihm aufbewahrten Dokumente dem Gericht des Sitzes des übernehmenden
 Rechtsträgers zur Aufbewahrung zu übermitteln.
 
 (3) Das Gericht des Sitzes jedes der an der Verschmelzung beteiligten
 Rechtsträger hat jeweils die von ihm vorgenommene Eintragung der
-Verschmelzung von Amts wegen nach § 10 des Handelsgesetzbuchs ihrem
-ganzen Inhalt nach bekanntzumachen.
+Verschmelzung von Amts wegen nach § 10 des Handelsgesetzbuchs
+bekanntzumachen.
 
 
 ##### § 20 Wirkungen der Eintragung
@@ -618,15 +554,13 @@ ganzen Inhalt nach bekanntzumachen.
 1.  Das Vermögen der übertragenden Rechtsträger geht einschließlich der
     Verbindlichkeiten auf den übernehmenden Rechtsträger über.
 
-
 2.  Die übertragenden Rechtsträger erlöschen. Einer besonderen Löschung
     bedarf es nicht.
 
-
 3.  Die Anteilsinhaber der übertragenden Rechtsträger werden
     Anteilsinhaber des übernehmenden Rechtsträgers; dies gilt nicht,
-    soweit der übernehmende Rechtsträger oder ein Dritter, der im eigenen
-    Namen, jedoch für Rechnung dieses Rechtsträgers handelt,
+    soweit der übernehmende Rechtsträger oder ein Dritter, der im
+    eigenen Namen, jedoch für Rechnung dieses Rechtsträgers handelt,
     Anteilsinhaber des übertragenden Rechtsträgers ist oder der
     übertragende Rechtsträger eigene Anteile innehat oder ein Dritter, der
     im eigenen Namen, jedoch für Rechnung dieses Rechtsträgers handelt,
@@ -635,13 +569,9 @@ ganzen Inhalt nach bekanntzumachen.
     ihre Stelle tretenden Anteilen oder Mitgliedschaften des übernehmenden
     Rechtsträgers weiter.
 
-
 4.  Der Mangel der notariellen Beurkundung des Verschmelzungsvertrags und
     gegebenenfalls erforderlicher Zustimmungs- oder Verzichtserklärungen
     einzelner Anteilsinhaber wird geheilt.
-
-
-
 
 (2) Mängel der Verschmelzung lassen die Wirkungen der Eintragung nach
 Absatz 1 unberührt.
@@ -664,11 +594,11 @@ Würdigung der vertraglichen Rechte aller Beteiligten.
 ist, wenn sie binnen sechs Monaten nach dem Tag, an dem die Eintragung
 der Verschmelzung in das Register des Sitzes desjenigen Rechtsträgers,
 dessen Gläubiger sie sind, nach § 19 Abs. 3 bekannt gemacht worden
-ist, ihren Anspruch nach Grund und Höhe schriftlich anmelden,
+ist, ihren Anspruch nach Grund und Höhe in Textform anmelden,
 Sicherheit zu leisten, soweit sie nicht Befriedigung verlangen können.
 Dieses Recht steht den Gläubigern jedoch nur zu, wenn sie glaubhaft
 machen, daß durch die Verschmelzung die Erfüllung ihrer Forderung
-gefährdet wird. Die Gläubiger sind in der Bekanntmachung der
+gefährdet wird. Die Gläubiger sind in einer Bekanntmachung zu der
 jeweiligen Eintragung auf dieses Recht hinzuweisen.
 
 (2) Das Recht, Sicherheitsleistung zu verlangen, steht Gläubigern
@@ -679,9 +609,9 @@ Vorschrift zu ihrem Schutz errichtet und staatlich überwacht ist.
 
 ##### § 23 Schutz der Inhaber von Sonderrechten
 
-Den Inhabern von Rechten in einem übertragenden Rechtsträger, die kein
-Stimmrecht gewähren, insbesondere den Inhabern von Anteilen ohne
-Stimmrecht, von Wandelschuldverschreibungen, von
+Den Inhabern von Rechten in einem übertragenden Rechtsträger,
+die kein Stimmrecht gewähren, insbesondere den Inhabern von
+Anteilen ohne Stimmrecht, von Wandelschuldverschreibungen, von
 Gewinnschuldverschreibungen und von Genußrechten, sind gleichwertige
 Rechte in dem übernehmenden Rechtsträger zu gewähren.
 
@@ -698,10 +628,10 @@ angesetzten Werte angesetzt werden.
 
 (1) Die Mitglieder des Vertretungsorgans und, wenn ein Aufsichtsorgan
 vorhanden ist, des Aufsichtsorgans eines übertragenden Rechtsträgers
-sind als Gesamtschuldner zum Ersatz des Schadens verpflichtet, den
-dieser Rechtsträger, seine Anteilsinhaber oder seine Gläubiger durch
-die Verschmelzung erleiden. Mitglieder der Organe, die bei der Prüfung
-der Vermögenslage der Rechtsträger und beim Abschluß des
+sind als Gesamtschuldner zum Ersatz des Schadens verpflichtet,
+den dieser Rechtsträger, seine Anteilsinhaber oder seine Gläubiger
+durch die Verschmelzung erleiden. Mitglieder der Organe, die bei
+der Prüfung der Vermögenslage der Rechtsträger und beim Abschluß des
 Verschmelzungsvertrags ihre Sorgfaltspflicht beobachtet haben, sind
 von der Ersatzpflicht befreit.
 
@@ -721,8 +651,8 @@ ist.
 
 (1) Die Ansprüche nach § 25 Abs. 1 und 2 können nur durch einen
 besonderen Vertreter geltend gemacht werden. Das Gericht des Sitzes
-eines übertragenden Rechtsträgers hat einen solchen Vertreter auf
-Antrag eines Anteilsinhabers oder eines Gläubigers dieses
+eines übertragenden Rechtsträgers hat einen solchen Vertreter
+auf Antrag eines Anteilsinhabers oder eines Gläubigers dieses
 Rechtsträgers zu bestellen. Gläubiger sind nur antragsberechtigt, wenn
 sie von dem übernehmenden Rechtsträger keine Befriedigung erlangen
 können. Gegen die Entscheidung findet die Beschwerde statt.
@@ -731,8 +661,8 @@ können. Gegen die Entscheidung findet die Beschwerde statt.
 die Anteilsinhaber und Gläubiger des betroffenen übertragenden
 Rechtsträgers aufzufordern, die Ansprüche nach § 25 Abs. 1 und 2
 binnen einer angemessenen Frist, die mindestens einen Monat betragen
-soll, anzumelden. Die Aufforderung ist im Bundesanzeiger und, wenn der
-Gesellschaftsvertrag, der Partnerschaftsvertrag oder die Satzung
+soll, anzumelden. Die Aufforderung ist im Bundesanzeiger und, wenn
+der Gesellschaftsvertrag, der Partnerschaftsvertrag oder die Satzung
 andere Blätter für die öffentlichen Bekanntmachungen des übertragenden
 Rechtsträgers bestimmt hatte, auch in diesen Blättern bekanntzumachen.
 
@@ -746,12 +676,12 @@ in der Rechtsform des übertragenden Rechtsträgers anzuwenden sind,
 entsprechend. Gläubiger und Anteilsinhaber, die sich nicht fristgemäß
 gemeldet haben, werden bei der Verteilung nicht berücksichtigt.
 
-(4) Der Vertreter hat Anspruch auf Ersatz angemessener barer Auslagen
-und auf Vergütung für seine Tätigkeit. Die Auslagen und die Vergütung
-setzt das Gericht fest. Es bestimmt nach den gesamten Verhältnissen
-des einzelnen Falles nach freiem Ermessen, in welchem Umfange die
-Auslagen und die Vergütung von beteiligten Anteilsinhabern und
-Gläubigern zu tragen sind. Gegen die Entscheidung findet die
+(4) Der Vertreter hat Anspruch auf Ersatz angemessener barer
+Auslagen und auf Vergütung für seine Tätigkeit. Die Auslagen und
+die Vergütung setzt das Gericht fest. Es bestimmt nach den gesamten
+Verhältnissen des einzelnen Falles nach freiem Ermessen, in welchem
+Umfange die Auslagen und die Vergütung von beteiligten Anteilsinhabern
+und Gläubigern zu tragen sind. Gegen die Entscheidung findet die
 Beschwerde statt; die Rechtsbeschwerde ist ausgeschlossen. Aus der
 rechtskräftigen Entscheidung findet die Zwangsvollstreckung nach der
 Zivilprozeßordnung statt.
@@ -777,24 +707,24 @@ Verschmelzungsbeschlusses eines übertragenden Rechtsträgers gegen den
 
 ##### § 29 Abfindungsangebot im Verschmelzungsvertrag
 
-(1) Bei der Verschmelzung eines Rechtsträgers im Wege der Aufnahme
-durch einen Rechtsträger anderer Rechtsform oder bei der Verschmelzung
-einer börsennotierten Aktiengesellschaft auf eine nicht börsennotierte
-Aktiengesellschaft hat der übernehmende Rechtsträger im
-Verschmelzungsvertrag oder in seinem Entwurf jedem Anteilsinhaber, der
-gegen den Verschmelzungsbeschluß des übertragenden Rechtsträgers
+(1) Bei der Verschmelzung eines Rechtsträgers im Wege der
+Aufnahme durch einen Rechtsträger anderer Rechtsform oder bei der
+Verschmelzung einer börsennotierten Aktiengesellschaft auf eine nicht
+börsennotierte Aktiengesellschaft hat der übertragende Rechtsträger
+im Verschmelzungsvertrag oder in seinem Entwurf jedem Anteilsinhaber,
+der gegen den Verschmelzungsbeschluß des übertragenden Rechtsträgers
 Widerspruch zur Niederschrift erklärt, den Erwerb seiner Anteile oder
-Mitgliedschaften gegen eine angemessene Barabfindung anzubieten; § 71
-Abs. 4 Satz 2 des Aktiengesetzes und § 33 Abs. 2 Satz 3 zweiter
+Mitgliedschaften gegen eine angemessene Barabfindung anzubieten; §
+71 Abs. 4 Satz 2 des Aktiengesetzes und § 33 Abs. 2 Satz 3 zweiter
 Halbsatz erste Alternative des Gesetzes betreffend die Gesellschaften
 mit beschränkter Haftung sind insoweit nicht anzuwenden. Das gleiche
 gilt, wenn bei einer Verschmelzung von Rechtsträgern derselben
 Rechtsform die Anteile oder Mitgliedschaften an dem übernehmenden
 Rechtsträger Verfügungsbeschränkungen unterworfen sind. Kann der
 übernehmende Rechtsträger auf Grund seiner Rechtsform eigene Anteile
-oder Mitgliedschaften nicht erwerben, so ist die Barabfindung für den
-Fall anzubieten, daß der Anteilsinhaber sein Ausscheiden aus dem
-Rechtsträger erklärt. Eine erforderliche Bekanntmachung des
+oder Mitgliedschaften nicht erwerben, so ist die Barabfindung für
+den Fall anzubieten, daß der Anteilsinhaber sein Ausscheiden aus
+dem Rechtsträger erklärt. Eine erforderliche Bekanntmachung des
 Verschmelzungsvertrags oder seines Entwurfs als Gegenstand der
 Beschlußfassung muß den Wortlaut dieses Angebots enthalten. Der
 übernehmende Rechtsträger hat die Kosten für eine Übertragung zu
@@ -814,10 +744,10 @@ Rechtsträgers im Zeitpunkt der Beschlußfassung über die Verschmelzung
 berücksichtigen. § 15 Abs. 2 ist auf die Barabfindung entsprechend
 anzuwenden.
 
-(2) Die Angemessenheit einer anzubietenden Barabfindung ist stets
-durch Verschmelzungsprüfer zu prüfen. Die §§ 10 bis 12 sind
-entsprechend anzuwenden. Die Berechtigten können auf die Prüfung oder
-den Prüfungsbericht verzichten; die Verzichtserklärungen sind
+(2) Die Angemessenheit einer anzubietenden Barabfindung ist
+stets durch Verschmelzungsprüfer zu prüfen. Die §§ 10 bis 12 sind
+entsprechend anzuwenden. Die Berechtigten können auf die Prüfung
+oder den Prüfungsbericht verzichten; die Verzichtserklärungen sind
 notariell zu beurkunden.
 
 
@@ -836,25 +766,26 @@ die Entscheidung im Bundesanzeiger bekanntgemacht worden ist.
 
 Eine Klage gegen die Wirksamkeit des Verschmelzungsbeschlusses eines
 übertragenden Rechtsträgers kann nicht darauf gestützt werden, daß das
-Angebot nach § 29 zu niedrig bemessen oder daß die Barabfindung im
+Angebot nach § 29 nicht angemessen ist oder daß die Barabfindung im
 Verschmelzungsvertrag nicht oder nicht ordnungsgemäß angeboten worden
 ist.
 
 
 ##### § 33 Anderweitige Veräußerung
 
-Einer anderweitigen Veräußerung des Anteils durch den Anteilsinhaber
-stehen nach Fassung des Verschmelzungsbeschlusses bis zum Ablauf der
-in § 31 bestimmten Frist Verfügungsbeschränkungen bei den beteiligten
-Rechtsträgern nicht entgegen.
+Einer anderweitigen Veräußerung des Anteils durch einen
+Anteilsinhaber, der nach § 29 Adressat des Abfindungsangebots ist,
+stehen nach Fassung des Verschmelzungsbeschlusses bis zum Ablauf
+der in § 31 Satz 1 bestimmten Frist Verfügungsbeschränkungen bei den
+beteiligten Rechtsträgern nicht entgegen.
 
 
 ##### § 34 Gerichtliche Nachprüfung der Abfindung
 
 Macht ein Anteilsinhaber geltend, daß eine im Verschmelzungsvertrag
 oder in seinem Entwurf bestimmte Barabfindung, die ihm nach § 29
-anzubieten war, zu niedrig bemessen sei, so hat auf seinen Antrag das
-Gericht nach den Vorschriften des Spruchverfahrensgesetzes die
+anzubieten war, nicht angemessen sei, so hat auf seinen Antrag
+das Gericht nach den Vorschriften des Spruchverfahrensgesetzes die
 angemessene Barabfindung zu bestimmen. Das gleiche gilt, wenn die
 Barabfindung nicht oder nicht ordnungsgemäß angeboten worden ist.
 
@@ -863,28 +794,40 @@ Barabfindung nicht oder nicht ordnungsgemäß angeboten worden ist.
 
 Unbekannte Aktionäre einer übertragenden Aktiengesellschaft oder
 Kommanditgesellschaft auf Aktien sind im Verschmelzungsvertrag, bei
-Anmeldungen zur Eintragung in ein Register oder bei der Eintragung in
-eine Liste von Anteilsinhabern durch die Angabe des insgesamt auf sie
-entfallenden Teils des Grundkapitals der Gesellschaft und der auf sie
-nach der Verschmelzung entfallenden Anteile zu bezeichnen, soweit eine
-Benennung der Anteilsinhaber für den übernehmenden Rechtsträger
-gesetzlich vorgeschrieben ist; eine Bezeichnung in dieser Form ist nur
-zulässig für Anteilsinhaber, deren Anteile zusammen den zwanzigsten
-Teil des Grundkapitals der übertragenden Gesellschaft nicht
-überschreiten. Werden solche Anteilsinhaber später bekannt, so sind
-Register oder Listen von Amts wegen zu berichtigen. Bis zu diesem
+Anmeldungen zur Eintragung in ein Register oder bei der Eintragung
+in eine Liste von Anteilsinhabern durch die Angabe des insgesamt auf
+sie entfallenden Teils des Grundkapitals der Gesellschaft und der
+auf sie nach der Verschmelzung entfallenden Anteile zu bezeichnen,
+soweit eine Benennung der Anteilsinhaber für den übernehmenden
+Rechtsträger gesetzlich vorgeschrieben ist; eine Bezeichnung in dieser
+Form ist nur zulässig für Anteilsinhaber, deren Anteile zusammen den
+zwanzigsten Teil des Grundkapitals der übertragenden Gesellschaft
+nicht überschreiten. Werden solche Anteilsinhaber später bekannt, so
+sind Register oder Listen von Amts wegen zu berichtigen. Bis zu diesem
 Zeitpunkt kann das Stimmrecht aus den betreffenden Anteilen in dem
 übernehmenden Rechtsträger nicht ausgeübt werden.
+
+
+##### § 35a Interessenausgleich und Betriebsübergang
+
+(1) Kommt ein Interessenausgleich nach § 112 des
+Betriebsverfassungsgesetzes zustande, in dem diejenigen Arbeitnehmer
+namentlich bezeichnet werden, die nach der Verschmelzung einem
+bestimmten Betrieb oder Betriebsteil zugeordnet werden, so kann die
+Zuordnung der Arbeitnehmer durch das Arbeitsgericht nur auf grobe
+Fehlerhaftigkeit überprüft werden.
+
+(2) § 613a Absatz 1 und 4 bis 6 des Bürgerlichen Gesetzbuchs bleibt
+durch die Wirkungen der Eintragung einer Verschmelzung unberührt.
 
 
 #### Dritter Abschnitt - Verschmelzung durch Neugründung
 
 
-
 ##### § 36 Anzuwendende Vorschriften
 
-(1) Auf die Verschmelzung durch Neugründung sind die Vorschriften des
-Zweiten Abschnitts mit Ausnahme des § 16 Abs. 1 und des § 27
+(1) Auf die Verschmelzung durch Neugründung sind die Vorschriften
+des Zweiten Abschnitts mit Ausnahme des § 16 Abs. 1 und des § 27
 entsprechend anzuwenden. An die Stelle des übernehmenden Rechtsträgers
 tritt der neue Rechtsträger, an die Stelle der Eintragung der
 Verschmelzung in das Register des Sitzes des übernehmenden
@@ -892,8 +835,8 @@ Rechtsträgers tritt die Eintragung des neuen Rechtsträgers in das
 Register.
 
 (2) Auf die Gründung des neuen Rechtsträgers sind die für dessen
-Rechtsform geltenden Gründungsvorschriften anzuwenden, soweit sich aus
-diesem Buch nichts anderes ergibt. Den Gründern stehen die
+Rechtsform geltenden Gründungsvorschriften anzuwenden, soweit sich
+aus diesem Buch nichts anderes ergibt. Den Gründern stehen die
 übertragenden Rechtsträger gleich. Vorschriften, die für die Gründung
 eine Mindestzahl der Gründer vorschreiben, sind nicht anzuwenden.
 
@@ -919,22 +862,94 @@ haben soll, zur Eintragung in das Register anzumelden.
 ### Zweiter Teil - Besondere Vorschriften
 
 
-
 #### Erster Abschnitt - Verschmelzung unter Beteiligung von Personengesellschaften
 
 
-
-##### Erster Unterabschnitt - Verschmelzung unter Beteiligung von Personenhandelsgesellschaften
-
+##### Erster Unterabschnitt - Verschmelzung unter Beteiligung von Gesellschaften bürgerlichen Rechts
 
 
-###### § 39 Ausschluß der Verschmelzung
+###### § 39 Ausschluss der Verschmelzung
 
-Eine aufgelöste Personenhandelsgesellschaft kann sich nicht als
-übertragender Rechtsträger an einer Verschmelzung beteiligen, wenn die
-Gesellschafter nach § 145 des Handelsgesetzbuchs eine andere Art der
-Auseinandersetzung als die Abwicklung oder als die Verschmelzung
-vereinbart haben.
+Eine aufgelöste Gesellschaft bürgerlichen Rechts kann sich nicht als
+übertragender Rechtsträger an einer Verschmelzung beteiligen, wenn
+die Gesellschafter eine andere Art der Auseinandersetzung als die
+Abwicklung durch Liquidation oder als die Verschmelzung vereinbart
+haben.
+
+
+###### § 39a Verschmelzungsbericht
+
+Ein Verschmelzungsbericht ist für eine an der Verschmelzung beteiligte
+Gesellschaft bürgerlichen Rechts nicht erforderlich, wenn alle
+Gesellschafter dieser Gesellschaft zur Geschäftsführung berechtigt
+sind.
+
+
+###### § 39b Unterrichtung der Gesellschafter
+
+Der Verschmelzungsvertrag oder sein Entwurf und der
+Verschmelzungsbericht sind den Gesellschaftern, die von der Befugnis
+zur Geschäftsführung ausgeschlossen sind, spätestens zusammen mit
+der Einberufung der Gesellschafterversammlung, die gemäß § 13 Absatz
+1 über die Zustimmung zum Verschmelzungsvertrag beschließen soll,
+zu übersenden.
+
+
+###### § 39c Beschluss der Gesellschafterversammlung
+
+(1) Der Verschmelzungsbeschluss der Gesellschafterversammlung bedarf
+der Zustimmung aller anwesenden Gesellschafter; ihm müssen auch die
+nicht erschienenen Gesellschafter zustimmen.
+
+(2) Der Gesellschaftsvertrag kann eine Mehrheitsentscheidung der
+Gesellschafter vorsehen. Die Mehrheit muss mindestens drei Viertel der
+abgegebenen Stimmen betragen.
+
+
+###### § 39d Widerspruch gegen den Beschluss der Gesellschafterversammlung
+
+Widerspricht ein Gesellschafter einer übernehmenden Gesellschaft
+bürgerlichen Rechts der Verschmelzung, hat sie zu unterbleiben.
+Das Gleiche gilt, wenn der Anteilsinhaber eines übertragenden
+Rechtsträgers der Verschmelzung auf eine Gesellschaft bürgerlichen
+Rechts widerspricht.
+
+
+###### § 39e Prüfung der Verschmelzung
+
+Im Fall des § 39c Absatz 2 ist der Verschmelzungsvertrag oder sein
+Entwurf für eine Gesellschaft bürgerlichen Rechts nach den §§ 9 bis 12
+zu prüfen, wenn dies einer ihrer Gesellschafter innerhalb einer Frist
+von einer Woche verlangt, nachdem er die in § 39b genannten Unterlagen
+erhalten hat. Die Kosten der Prüfung trägt die Gesellschaft.
+
+
+###### § 39f Zeitliche Begrenzung der Haftung persönlich haftender Gesellschafter
+
+(1) Überträgt eine Gesellschaft bürgerlichen Rechts ihr Vermögen
+durch Verschmelzung auf einen Rechtsträger anderer Rechtsform, dessen
+Anteilsinhaber für die Verbindlichkeiten dieses Rechtsträgers nicht
+unbeschränkt haften, haftet ein Gesellschafter der Gesellschaft
+bürgerlichen Rechts für deren Verbindlichkeiten, wenn sie vor Ablauf
+von fünf Jahren nach der Verschmelzung fällig und daraus Ansprüche
+gegen ihn in einer in § 197 Absatz 1 Nummer 3 bis 5 des Bürgerlichen
+Gesetzbuchs bezeichneten Art festgestellt sind oder eine gerichtliche
+oder behördliche Vollstreckungshandlung vorgenommen oder beantragt
+wird; bei öffentlich-rechtlichen Verbindlichkeiten genügt der Erlass
+eines Verwaltungsakts.
+
+(2) Die Frist beginnt mit dem Tag, an dem die Eintragung der
+Verschmelzung in das Register des Sitzes des übernehmenden
+Rechtsträgers nach § 19 Absatz 3 bekannt gemacht worden ist. Die §§
+204, 206, 210, 211 und 212 Absatz 2 und 3 des Bürgerlichen Gesetzbuchs
+sind entsprechend anzuwenden.
+
+(3) Einer Feststellung in einer in § 197 Absatz 1 Nummer 3 bis 5 des
+Bürgerlichen Gesetzbuchs bezeichneten Art bedarf es nicht, soweit der
+Gesellschafter den Anspruch schriftlich anerkannt hat.
+
+(4) Die Absätze 1 bis 3 sind auch anzuwenden, wenn der Gesellschafter
+in dem Rechtsträger anderer Rechtsform geschäftsführend tätig wird.
 
 
 ###### § 40 Inhalt des Verschmelzungsvertrags
@@ -953,90 +968,42 @@ Bestimmungen sind nur wirksam, wenn die betroffenen Anteilsinhaber dem
 Verschmelzungsbeschluß des übertragenden Rechtsträgers zustimmen.
 
 
-###### § 41 Verschmelzungsbericht
+###### § 41 Widerspruch gegen den Beschluss der Gesellschafterversammlung
 
-Ein Verschmelzungsbericht ist für eine an der Verschmelzung beteiligte
-Personenhandelsgesellschaft nicht erforderlich, wenn alle
-Gesellschafter dieser Gesellschaft zur Geschäftsführung berechtigt
-sind.
-
-
-###### § 42 Unterrichtung der Gesellschafter
-
-Der Verschmelzungsvertrag oder sein Entwurf und der
-Verschmelzungsbericht sind den Gesellschaftern, die von der
-Geschäftsführung ausgeschlossen sind, spätestens zusammen mit der
-Einberufung der Gesellschafterversammlung, die gemäß § 13 Abs. 1 über
-die Zustimmung zum Verschmelzungsvertrag beschließen soll, zu
-übersenden.
+Widerspricht ein Anteilsinhaber eines übertragenden Rechtsträgers,
+der für dessen Verbindlichkeiten persönlich unbeschränkt haftet,
+der Verschmelzung, ist ihm in der übernehmenden oder der neuen
+Personenhandelsgesellschaft die Stellung eines Kommanditisten zu
+gewähren; das Gleiche gilt für einen Anteilsinhaber der übernehmenden
+Personenhandelsgesellschaft, der für deren Verbindlichkeiten
+persönlich unbeschränkt haftet, wenn er der Verschmelzung
+widerspricht.
 
 
-###### § 43 Beschluß der Gesellschafterversammlung
+###### § 42 Entsprechend anzuwendende Vorschriften
 
-(1) Der Verschmelzungsbeschluß der Gesellschafterversammlung bedarf
-der Zustimmung aller anwesenden Gesellschafter; ihm müssen auch die
-nicht erschienenen Gesellschafter zustimmen.
-
-(2) Der Gesellschaftsvertrag kann eine Mehrheitsentscheidung der
-Gesellschafter vorsehen. Die Mehrheit muß mindestens drei Viertel der
-abgegebenen Stimmen betragen. Widerspricht ein Anteilsinhaber eines
-übertragenden Rechtsträgers, der für dessen Verbindlichkeiten
-persönlich unbeschränkt haftet, der Verschmelzung, so ist ihm in der
-übernehmenden oder der neuen Personenhandelsgesellschaft die Stellung
-eines Kommanditisten zu gewähren; das gleiche gilt für einen
-Anteilsinhaber der übernehmenden Personenhandelsgesellschaft, der für
-deren Verbindlichkeiten persönlich unbeschränkt haftet, wenn er der
-Verschmelzung widerspricht.
+Die §§ 39, 39a, 39b, 39c, 39e und 39f sind entsprechend anzuwenden.
 
 
-###### § 44 Prüfung der Verschmelzung
-
-Im Fall des § 43 Abs. 2 ist der Verschmelzungsvertrag oder sein
-Entwurf für eine Personenhandelsgesellschaft nach den §§ 9 bis 12 zu
-prüfen, wenn dies einer ihrer Gesellschafter innerhalb einer Frist von
-einer Woche verlangt, nachdem er die in § 42 genannten Unterlagen
-erhalten hat. Die Kosten der Prüfung trägt die Gesellschaft.
+###### § 43 (weggefallen)
 
 
-###### § 45 Zeitliche Begrenzung der Haftung persönlich haftender Gesellschafter
-
-(1) Überträgt eine Personenhandelsgesellschaft ihr Vermögen durch
-Verschmelzung auf einen Rechtsträger anderer Rechtsform, dessen
-Anteilsinhaber für die Verbindlichkeiten dieses Rechtsträgers nicht
-unbeschränkt haften, so haftet ein Gesellschafter der
-Personenhandelsgesellschaft für ihre Verbindlichkeiten, wenn sie vor
-Ablauf von fünf Jahren nach der Verschmelzung fällig und daraus
-Ansprüche gegen ihn in einer in § 197 Abs. 1 Nr. 3 bis 5 des
-Bürgerlichen Gesetzbuchs bezeichneten Art festgestellt sind oder eine
-gerichtliche oder behördliche Vollstreckungshandlung vorgenommen oder
-beantragt wird; bei öffentlich-rechtlichen Verbindlichkeiten genügt
-der Erlass eines Verwaltungsakts.
-
-(2) Die Frist beginnt mit dem Tage, an dem die Eintragung der
-Verschmelzung in das Register des Sitzes des übernehmenden
-Rechtsträgers nach § 19 Abs. 3 bekannt gemacht worden ist. Die für die
-Verjährung geltenden §§ 204, 206, 210, 211 und 212 Abs. 2 und 3 des
-Bürgerlichen Gesetzbuchs sind entsprechend anzuwenden.
-
-(3) Einer Feststellung in einer in § 197 Abs. 1 Nr. 3 bis 5 des
-Bürgerlichen Gesetzbuchs bezeichneten Art bedarf es nicht, soweit der
-Gesellschafter den Anspruch schriftlich anerkannt hat.
-
-(4) Die Absätze 1 bis 3 sind auch anzuwenden, wenn der Gesellschafter
-in dem Rechtsträger anderer Rechtsform geschäftsführend tätig wird.
+###### § 44 (weggefallen)
 
 
-##### Zweiter Unterabschnitt - Verschmelzung unter Beteiligung von Partnerschaftsgesellschaften
+###### § 45 (weggefallen)
 
+
+##### Dritter Unterabschnitt - Verschmelzung unter Beteiligung von Partnerschaftsgesellschaften
 
 
 ###### § 45a Möglichkeit der Verschmelzung
 
-Eine Verschmelzung auf eine Partnerschaftsgesellschaft ist nur
-möglich, wenn im Zeitpunkt ihres Wirksamwerdens alle Anteilsinhaber
-übertragender Rechtsträger natürliche Personen sind, die einen Freien
-Beruf ausüben (§ 1 Abs. 1 und 2 des
-Partnerschaftsgesellschaftsgesetzes). § 1 Abs. 3 des
+Eine Verschmelzung auf eine Partnerschaftsgesellschaft ist
+nur möglich, wenn im Zeitpunkt ihres Wirksamwerdens alle
+Anteilsinhaber übertragender Rechtsträger natürliche Personen
+sind, die einen Freien Beruf ausüben (§ 1 Abs. 1 und 2
+des Partnerschaftsgesellschaftsgesetzes). § 1 Abs. 3 des
 Partnerschaftsgesellschaftsgesetzes bleibt unberührt.
 
 
@@ -1052,11 +1019,11 @@ ausgeübten Beruf und den Wohnort jedes Partners zu enthalten.
 
 ###### § 45c Verschmelzungsbericht und Unterrichtung der Partner
 
-Ein Verschmelzungsbericht ist für eine an der Verschmelzung beteiligte
-Partnerschaftsgesellschaft nur erforderlich, wenn ein Partner gemäß §
-6 Abs. 2 des Partnerschaftsgesellschaftsgesetzes von der
-Geschäftsführung ausgeschlossen ist. Von der Geschäftsführung
-ausgeschlossene Partner sind entsprechend § 42 zu unterrichten.
+Ein Verschmelzungsbericht ist für eine an der Verschmelzung
+beteiligte Partnerschaftsgesellschaft nur erforderlich, wenn ein
+Partner gemäß § 6 Abs. 2 des Partnerschaftsgesellschaftsgesetzes von
+der Geschäftsführung ausgeschlossen ist. Von der Geschäftsführung
+ausgeschlossene Partner sind entsprechend § 39b zu unterrichten.
 
 
 ###### § 45d Beschluß der Gesellschafterversammlung
@@ -1072,16 +1039,14 @@ abgegebenen Stimmen betragen.
 
 ###### § 45e Anzuwendende Vorschriften
 
-Die §§ 39 und 45 sind entsprechend anzuwenden. In den Fällen des § 45d
-Abs. 2 ist auch § 44 entsprechend anzuwenden.
+Die §§ 39 und 39f sind entsprechend anzuwenden. In den Fällen des §
+45d Abs. 2 ist auch § 39e entsprechend anzuwenden.
 
 
 #### Zweiter Abschnitt - Verschmelzung unter Beteiligung von Gesellschaften mit beschränkter Haftung
 
 
-
 ##### Erster Unterabschnitt - Verschmelzung durch Aufnahme
-
 
 
 ###### § 46 Inhalt des Verschmelzungsvertrags
@@ -1096,9 +1061,9 @@ als anteiliger Betrag ihres Grundkapitals entfällt. Er muss auf volle
 Euro lauten.
 
 (2) Sollen die zu gewährenden Geschäftsanteile im Wege der
-Kapitalerhöhung geschaffen und mit anderen Rechten und Pflichten als
-sonstige Geschäftsanteile der übernehmenden Gesellschaft mit
-beschränkter Haftung ausgestattet werden, so sind auch die
+Kapitalerhöhung geschaffen und mit anderen Rechten und Pflichten
+als sonstige Geschäftsanteile der übernehmenden Gesellschaft
+mit beschränkter Haftung ausgestattet werden, so sind auch die
 Abweichungen im Verschmelzungsvertrag oder in seinem Entwurf
 festzusetzen.
 
@@ -1122,8 +1087,11 @@ der Einberufung der Gesellschafterversammlung, die gemäß § 13 Abs. 1
 Der Verschmelzungsvertrag oder sein Entwurf ist für eine Gesellschaft
 mit beschränkter Haftung nach den §§ 9 bis 12 zu prüfen, wenn dies
 einer ihrer Gesellschafter innerhalb einer Frist von einer Woche
-verlangt, nachdem er die in § 47 genannten Unterlagen erhalten hat.
-Die Kosten der Prüfung trägt die Gesellschaft.
+verlangt, nachdem er die in § 47 genannten Unterlagen erhalten
+hat. Liegt ein fristgerechtes Verlangen nach Satz 1 vor, so ist der
+Prüfungsbericht den Gesellschaftern innerhalb der zur Einberufung der
+Gesellschafterversammlung geltenden Frist zu übersenden. Die Kosten
+der Prüfung trägt die Gesellschaft.
 
 
 ###### § 49 Vorbereitung der Gesellschafterversammlung
@@ -1154,8 +1122,8 @@ Erfordernisse bestimmen.
 beruhende Minderheitsrechte eines einzelnen Gesellschafters einer
 übertragenden Gesellschaft oder die einzelnen Gesellschaftern einer
 solchen Gesellschaft nach dem Gesellschaftsvertrag zustehenden
-besonderen Rechte in der Geschäftsführung der Gesellschaft, bei der
-Bestellung der Geschäftsführer oder hinsichtlich eines
+besonderen Rechte in der Geschäftsführung der Gesellschaft,
+bei der Bestellung der Geschäftsführer oder hinsichtlich eines
 Vorschlagsrechts für die Geschäftsführung beeinträchtigt, so bedarf
 der Verschmelzungsbeschluß dieser übertragenden Gesellschaft der
 Zustimmung dieser Gesellschafter.
@@ -1164,19 +1132,19 @@ Zustimmung dieser Gesellschafter.
 ###### § 51 Zustimmungserfordernisse in Sonderfällen
 
 (1) Ist an der Verschmelzung eine Gesellschaft mit beschränkter
-Haftung, auf deren Geschäftsanteile nicht alle zu leistenden Einlagen
-in voller Höhe bewirkt sind, als übernehmender Rechtsträger beteiligt,
-so bedarf der Verschmelzungsbeschluß eines übertragenden Rechtsträgers
-der Zustimmung aller bei der Beschlußfassung anwesenden Anteilsinhaber
-dieses Rechtsträgers. Ist der übertragende Rechtsträger eine
-Personenhandelsgesellschaft, eine Partnerschaftsgesellschaft oder eine
-Gesellschaft mit beschränkter Haftung, so bedarf der
-Verschmelzungsbeschluß auch der Zustimmung der nicht erschienenen
-Gesellschafter. Wird eine Gesellschaft mit beschränkter Haftung, auf
-deren Geschäftsanteile nicht alle zu leistenden Einlagen in voller
-Höhe bewirkt sind, von einer Gesellschaft mit beschränkter Haftung
-durch Verschmelzung aufgenommen, bedarf der Verschmelzungsbeschluss
-der Zustimmung aller Gesellschafter der übernehmenden Gesellschaft.
+Haftung, auf deren Geschäftsanteile nicht alle zu leistenden
+Einlagen in voller Höhe bewirkt sind, als übernehmender Rechtsträger
+beteiligt, so bedarf der Verschmelzungsbeschluß eines übertragenden
+Rechtsträgers der Zustimmung aller bei der Beschlußfassung anwesenden
+Anteilsinhaber dieses Rechtsträgers. Ist der übertragende Rechtsträger
+eine rechtsfähige Personengesellschaft oder eine Gesellschaft mit
+beschränkter Haftung, so bedarf der Verschmelzungsbeschluß auch
+der Zustimmung der nicht erschienenen Gesellschafter. Wird eine
+Gesellschaft mit beschränkter Haftung, auf deren Geschäftsanteile
+nicht alle zu leistenden Einlagen in voller Höhe bewirkt sind, von
+einer Gesellschaft mit beschränkter Haftung durch Verschmelzung
+aufgenommen, bedarf der Verschmelzungsbeschluss der Zustimmung aller
+Gesellschafter der übernehmenden Gesellschaft.
 
 (2) Wird der Nennbetrag der Geschäftsanteile nach § 46 Abs. 1 Satz 2
 abweichend vom Betrag der Aktien festgesetzt, so muss der Festsetzung
@@ -1191,15 +1159,15 @@ haben die Vertretungsorgane der an der Verschmelzung beteiligten
 Rechtsträger im Falle des § 51 Abs. 1 auch zu erklären, daß dem
 Verschmelzungsbeschluß jedes der übertragenden Rechtsträger alle bei
 der Beschlußfassung anwesenden Anteilsinhaber dieses Rechtsträgers
-und, sofern der übertragende Rechtsträger eine
-Personenhandelsgesellschaft, eine Partnerschaftsgesellschaft oder eine
-Gesellschaft mit beschränkter Haftung ist, auch die nicht erschienenen
-Gesellschafter dieser Gesellschaft zugestimmt haben. Wird eine
-Gesellschaft mit beschränkter Haftung, auf deren Geschäftsanteile
-nicht alle zu leistenden Einlagen in voller Höhe bewirkt sind, von
-einer Gesellschaft mit beschränkter Haftung durch Verschmelzung
-aufgenommen, so ist auch zu erklären, dass alle Gesellschafter dieser
-Gesellschaft dem Verschmelzungsbeschluss zugestimmt haben.
+und, sofern der übertragende Rechtsträger eine rechtsfähige
+Personengesellschaft oder eine Gesellschaft mit beschränkter Haftung
+ist, auch die nicht erschienenen Gesellschafter dieser Gesellschaft
+zugestimmt haben. Wird eine Gesellschaft mit beschränkter Haftung,
+auf deren Geschäftsanteile nicht alle zu leistenden Einlagen in
+voller Höhe bewirkt sind, von einer Gesellschaft mit beschränkter
+Haftung durch Verschmelzung aufgenommen, so ist auch zu erklären, dass
+alle Gesellschafter dieser Gesellschaft dem Verschmelzungsbeschluss
+zugestimmt haben.
 
 
 ###### § 53 Eintragung bei Erhöhung des Stammkapitals
@@ -1217,29 +1185,22 @@ Verschmelzung ihr Stammkapital nicht erhöhen, soweit
 
 1.  sie Anteile eines übertragenden Rechtsträgers innehat;
 
-
 2.  ein übertragender Rechtsträger eigene Anteile innehat oder
-
 
 3.  ein übertragender Rechtsträger Geschäftsanteile dieser Gesellschaft
     innehat, auf welche die Einlagen nicht in voller Höhe bewirkt sind.
-
-
 
 Die übernehmende Gesellschaft braucht ihr Stammkapital nicht zu
 erhöhen, soweit
 
 1.  sie eigene Geschäftsanteile innehat oder
 
-
 2.  ein übertragender Rechtsträger Geschäftsanteile dieser Gesellschaft
     innehat, auf welche die Einlagen bereits in voller Höhe bewirkt sind.
 
-
-
-Die übernehmende Gesellschaft darf von der Gewährung von
-Geschäftsanteilen absehen, wenn alle Anteilsinhaber eines
-übertragenden Rechtsträgers darauf verzichten; die
+Die übernehmende Gesellschaft darf von der Gewährung
+von Geschäftsanteilen absehen, wenn alle Anteilsinhaber
+eines übertragenden Rechtsträgers darauf verzichten; die
 Verzichtserklärungen sind notariell zu beurkunden.
 
 (2) Absatz 1 gilt entsprechend, wenn Inhaber der dort bezeichneten
@@ -1261,28 +1222,30 @@ wenn Inhaber der Geschäftsanteile ein Dritter ist, der im eigenen
 Namen, jedoch für Rechnung der übernehmenden Gesellschaft oder eines
 übertragenden Rechtsträgers handelt.
 
-(4) Im Verschmelzungsvertrag festgesetzte bare Zuzahlungen dürfen
-nicht den zehnten Teil des Gesamtnennbetrags der gewährten
+(4) Im Verschmelzungsvertrag festgesetzte bare Zuzahlungen
+dürfen nicht den zehnten Teil des Gesamtnennbetrags der gewährten
 Geschäftsanteile der übernehmenden Gesellschaft übersteigen.
 
 
 ###### § 55 Verschmelzung mit Kapitalerhöhung
 
 (1) Erhöht die übernehmende Gesellschaft zur Durchführung der
-Verschmelzung ihr Stammkapital, so sind § 55 Abs. 1, §§ 56a, 57 Abs.
-2, Abs. 3 Nr. 1 des Gesetzes betreffend die Gesellschaften mit
+Verschmelzung ihr Stammkapital, so sind § 55 Abs. 1, §§ 56a, 57
+Abs. 2, Abs. 3 Nr. 1 des Gesetzes betreffend die Gesellschaften mit
 beschränkter Haftung nicht anzuwenden.
 
-(2) Der Anmeldung der Kapitalerhöhung zum Register sind außer den in §
-57 Abs. 3 Nr. 2 und 3 des Gesetzes betreffend die Gesellschaften mit
-beschränkter Haftung bezeichneten Schriftstücken der
-Verschmelzungsvertrag und die Niederschriften der
+(2) Der Anmeldung der Kapitalerhöhung zum Register sind außer
+den in § 57 Abs. 3 Nr. 2 und 3 des Gesetzes betreffend die
+Gesellschaften mit beschränkter Haftung bezeichneten Schriftstücken
+der Verschmelzungsvertrag und die Niederschriften der
 Verschmelzungsbeschlüsse in Ausfertigung oder öffentlich beglaubigter
 Abschrift beizufügen.
 
+(3) Für den Beschluss über die Kapitalerhöhung nach Absatz 1 gilt § 14
+Absatz 2 entsprechend.
+
 
 ##### Zweiter Unterabschnitt - Verschmelzung durch Neugründung
-
 
 
 ###### § 56 Anzuwendende Vorschriften
@@ -1307,16 +1270,16 @@ die Gesellschaften mit beschränkter Haftung) sind auch der
 Geschäftsverlauf und die Lage der übertragenden Rechtsträger
 darzulegen.
 
-(2) Ein Sachgründungsbericht ist nicht erforderlich, soweit eine
-Kapitalgesellschaft oder eine eingetragene Genossenschaft
+(2) Ein Sachgründungsbericht ist nicht erforderlich, soweit
+eine Kapitalgesellschaft oder eine eingetragene Genossenschaft
 übertragender Rechtsträger ist.
 
 
 ###### § 59 Verschmelzungsbeschlüsse
 
-Der Gesellschaftsvertrag der neuen Gesellschaft wird nur wirksam, wenn
-ihm die Anteilsinhaber jedes der übertragenden Rechtsträger durch
-Verschmelzungsbeschluß zustimmen. Dies gilt entsprechend für die
+Der Gesellschaftsvertrag der neuen Gesellschaft wird nur wirksam,
+wenn ihm die Anteilsinhaber jedes der übertragenden Rechtsträger
+durch Verschmelzungsbeschluß zustimmen. Dies gilt entsprechend für die
 Bestellung der Geschäftsführer und der Mitglieder des Aufsichtsrats
 der neuen Gesellschaft, soweit sie von den Anteilsinhabern der
 übertragenden Rechtsträger zu wählen sind.
@@ -1325,32 +1288,35 @@ der neuen Gesellschaft, soweit sie von den Anteilsinhabern der
 #### Dritter Abschnitt - Verschmelzung unter Beteiligung von Aktiengesellschaften
 
 
-
 ##### Erster Unterabschnitt - Verschmelzung durch Aufnahme
-
 
 
 ###### § 60 Prüfung der Verschmelzung, Bestellung der Verschmelzungsprüfer
 
 Der Verschmelzungsvertrag oder sein Entwurf ist für jede
-Aktiengesellschaft nach den §§ 9 bis 12 zu prüfen.
+Aktiengesellschaft nach den §§ 9 bis 12 zu prüfen. § 9 Absatz 2 und
+§ 12 Absatz 3 in Verbindung mit § 8 Absatz 3 Satz 1 und 2 gelten mit
+der Maßgabe, dass der Verzicht aller Anteilsinhaber aller beteiligten
+Rechtsträger erforderlich ist.
 
 
 ###### § 61 Bekanntmachung des Verschmelzungsvertrags
 
-Der Verschmelzungsvertrag oder sein Entwurf ist vor der Einberufung
-der Hauptversammlung, die gemäß § 13 Abs. 1 über die Zustimmung
-beschließen soll, zum Register einzureichen. Das Gericht hat in der
-Bekanntmachung nach § 10 des Handelsgesetzbuchs einen Hinweis darauf
-bekanntzumachen, daß der Vertrag oder sein Entwurf beim
-Handelsregister eingereicht worden ist.
+Der Verschmelzungsvertrag oder sein Entwurf ist vor der
+Hauptversammlung, die gemäß § 13 Abs. 1 über die Zustimmung
+beschließen soll, zum Register einzureichen. Das Gericht hat in
+der Bekanntmachung nach § 10 des Handelsgesetzbuchs einen Hinweis
+darauf bekanntzumachen, daß der Vertrag oder sein Entwurf beim
+Handelsregister eingereicht worden ist. Die Hauptversammlung darf
+erst einen Monat nach der Bekanntmachung über die Zustimmung zum
+Verschmelzungsvertrag gemäß § 13 beschließen.
 
 
 ###### § 62 Konzernverschmelzungen
 
-(1) Befinden sich mindestens neun Zehntel des Stammkapitals oder des
-Grundkapitals einer übertragenden Kapitalgesellschaft in der Hand
-einer übernehmenden Aktiengesellschaft, so ist ein
+(1) Befinden sich mindestens neun Zehntel des Stammkapitals
+oder des Grundkapitals einer übertragenden Kapitalgesellschaft
+in der Hand einer übernehmenden Aktiengesellschaft, so ist ein
 Verschmelzungsbeschluß der übernehmenden Aktiengesellschaft zur
 Aufnahme dieser übertragenden Gesellschaft nicht erforderlich. Eigene
 Anteile der übertragenden Gesellschaft und Anteile, die einem anderen
@@ -1366,13 +1332,13 @@ Einberufung der Hauptversammlung zu verlangen, an den Besitz eines
 geringeren Teils am Grundkapital der übernehmenden Gesellschaft
 knüpfen.
 
-(3) Einen Monat vor dem Tage der Gesellschafterversammlung oder der
-Hauptversammlung der übertragenden Gesellschaft, die gemäß § 13 Abs. 1
-über die Zustimmung zum Verschmelzungsvertrag beschließen soll, sind
-in dem Geschäftsraum der übernehmenden Gesellschaft zur Einsicht der
-Aktionäre die in § 63 Abs. 1 bezeichneten Unterlagen auszulegen.
-Gleichzeitig hat der Vorstand der übernehmenden Gesellschaft einen
-Hinweis auf die bevorstehende Verschmelzung in den
+(3) Einen Monat vor dem Tage der Gesellschafterversammlung oder
+der Hauptversammlung der übertragenden Gesellschaft, die gemäß §
+13 Abs. 1 über die Zustimmung zum Verschmelzungsvertrag beschließen
+soll, sind in dem Geschäftsraum der übernehmenden Gesellschaft zur
+Einsicht der Aktionäre die in § 63 Abs. 1 bezeichneten Unterlagen
+auszulegen. Gleichzeitig hat der Vorstand der übernehmenden
+Gesellschaft einen Hinweis auf die bevorstehende Verschmelzung in den
 Gesellschaftsblättern der übernehmenden Gesellschaft bekanntzumachen
 und den Verschmelzungsvertrag oder seinen Entwurf zum Register der
 übernehmenden Gesellschaft einzureichen; § 61 Satz 2 ist entsprechend
@@ -1388,18 +1354,22 @@ Einwilligung auf dem Wege elektronischer Kommunikation übermittelt
 werden. Die Verpflichtungen nach den Sätzen 1 und 6 entfallen, wenn
 die in Satz 1 bezeichneten Unterlagen für denselben Zeitraum über die
 Internetseite der Gesellschaft zugänglich sind.
+
 (4) Befindet sich das gesamte Stamm- oder Grundkapital einer
 übertragenden Kapitalgesellschaft in der Hand einer übernehmenden
 Aktiengesellschaft, so ist ein Verschmelzungsbeschluss des
 Anteilsinhabers der übertragenden Kapitalgesellschaft nicht
-erforderlich. Ein solcher Beschluss ist auch nicht erforderlich in
-Fällen, in denen nach Absatz 5 Satz 1 ein Übertragungsbeschluss
+erforderlich. Ein solcher Beschluss ist auch nicht erforderlich
+in Fällen, in denen nach Absatz 5 Satz 1 ein Übertragungsbeschluss
 gefasst und mit einem Vermerk nach Absatz 5 Satz 7 in das
-Handelsregister eingetragen wurde. Absatz 3 gilt mit der Maßgabe, dass
-die dort genannten Verpflichtungen nach Abschluss des
-Verschmelzungsvertrages für die Dauer eines Monats zu erfüllen sind.
-Spätestens bei Beginn dieser Frist ist die in § 5 Absatz 3 genannte
-Zuleitungsverpflichtung zu erfüllen.
+Handelsregister eingetragen wurde. Die §§ 47, 49, 61 und 63 Absatz
+1 Nummer 1 bis 3 sind auf die übertragende Kapitalgesellschaft nicht
+anzuwenden. Absatz 3 gilt mit der Maßgabe, dass die dort genannten
+Verpflichtungen spätestens einen Monat vor dem Tag der Eintragung
+der Verschmelzung in das Register des übernehmenden Rechtsträgers zu
+erfüllen sind. Spätestens bis zu diesem Zeitpunkt ist auch die in § 5
+Absatz 3 genannte Zuleitungsverpflichtung zu erfüllen.
+
 (5) In Fällen des Absatzes 1 kann die Hauptversammlung einer
 übertragenden Aktiengesellschaft innerhalb von drei Monaten nach
 Abschluss des Verschmelzungsvertrages einen Beschluss nach § 327a
@@ -1412,31 +1382,30 @@ erfolgen soll. Absatz 3 gilt mit der Maßgabe, dass die dort genannten
 Verpflichtungen nach Abschluss des Verschmelzungsvertrages für die
 Dauer eines Monats zu erfüllen sind. Spätestens bei Beginn dieser
 Frist ist die in § 5 Absatz 3 genannte Zuleitungsverpflichtung zu
-erfüllen. Der Verschmelzungsvertrag oder sein Entwurf ist gemäß § 327c
-Absatz 3 des Aktiengesetzes zur Einsicht der Aktionäre auszulegen. Der
-Anmeldung des Übertragungsbeschlusses (§ 327e Absatz 1 des
-Aktiengesetzes) ist der Verschmelzungsvertrag in Ausfertigung oder
-öffentlich beglaubigter Abschrift oder sein Entwurf beizufügen. Die
-Eintragung des Übertragungsbeschlusses ist mit dem Vermerk zu
-versehen, dass er erst gleichzeitig mit der Eintragung der
-Verschmelzung im Register des Sitzes der übernehmenden
+erfüllen. Der Verschmelzungsvertrag oder sein Entwurf ist gemäß
+§ 327c Absatz 3 des Aktiengesetzes zur Einsicht der Aktionäre
+auszulegen. Der Anmeldung des Übertragungsbeschlusses (§ 327e
+Absatz 1 des Aktiengesetzes) ist der Verschmelzungsvertrag in
+Ausfertigung oder öffentlich beglaubigter Abschrift oder sein
+Entwurf beizufügen. Die Eintragung des Übertragungsbeschlusses
+ist mit dem Vermerk zu versehen, dass er erst gleichzeitig mit der
+Eintragung der Verschmelzung im Register des Sitzes der übernehmenden
 Aktiengesellschaft wirksam wird. Im Übrigen bleiben die §§ 327a bis
 327f des Aktiengesetzes unberührt.
 
 
 ###### § 63 Vorbereitung der Hauptversammlung
 
-(1) Von der Einberufung der Hauptversammlung an, die gemäß § 13 Abs. 1
-über die Zustimmung zum Verschmelzungsvertrag beschließen soll, sind
-in dem Geschäftsraum der Gesellschaft zur Einsicht der Aktionäre
+(1) Von der Einberufung der Hauptversammlung an, die gemäß § 13 Abs.
+1 über die Zustimmung zum Verschmelzungsvertrag beschließen soll,
+spätestens aber ab einem Monat vor dem Tag der Hauptversammlung,
+sind in dem Geschäftsraum der Gesellschaft zur Einsicht der Aktionäre
 auszulegen
 
 1.  der Verschmelzungsvertrag oder sein Entwurf;
 
-
 2.  die Jahresabschlüsse und die Lageberichte der an der Verschmelzung
     beteiligten Rechtsträger für die letzten drei Geschäftsjahre;
-
 
 3.  falls sich der letzte Jahresabschluß auf ein Geschäftsjahr bezieht,
     das mehr als sechs Monate vor dem Abschluß des Verschmelzungsvertrags
@@ -1444,30 +1413,24 @@ auszulegen
     einen Stichtag, der nicht vor dem ersten Tag des dritten Monats liegt,
     der dem Abschluß oder der Aufstellung vorausgeht (Zwischenbilanz);
 
-
 4.  die nach § 8 erstatteten Verschmelzungsberichte;
-
 
 5.  die nach § 60 in Verbindung mit § 12 erstatteten Prüfungsberichte.
 
-
-
-
 (2) Die Zwischenbilanz (Absatz 1 Nr. 3) ist nach den Vorschriften
 aufzustellen, die auf die letzte Jahresbilanz des Rechtsträgers
-angewendet worden sind. Eine körperliche Bestandsaufnahme ist nicht
-erforderlich. Die Wertansätze der letzten Jahresbilanz dürfen
-übernommen werden. Dabei sind jedoch Abschreibungen,
+angewendet worden sind. Eine körperliche Bestandsaufnahme ist
+nicht erforderlich. Die Wertansätze der letzten Jahresbilanz
+dürfen übernommen werden. Dabei sind jedoch Abschreibungen,
 Wertberichtigungen und Rückstellungen sowie wesentliche, aus den
-Büchern nicht ersichtliche Veränderungen der wirklichen Werte von
-Vermögensgegenständen bis zum Stichtag der Zwischenbilanz zu
-berücksichtigen. § 8 Absatz 3 Satz 1 erste Alternative und Satz 2 ist
-entsprechend anzuwenden. Die Zwischenbilanz muss auch dann nicht
-aufgestellt werden, wenn die Gesellschaft seit dem letzten
-Jahresabschluss einen Halbjahresfinanzbericht gemäß § 115 des
-Wertpapierhandelsgesetzes veröffentlicht hat. Der
-Halbjahresfinanzbericht tritt zum Zwecke der Vorbereitung der
-Hauptversammlung an die Stelle der Zwischenbilanz.
+Büchern nicht ersichtliche Veränderungen der wirklichen Werte
+von Vermögensgegenständen bis zum Stichtag der Zwischenbilanz zu
+berücksichtigen. § 8 Absatz 3 Satz 1 und Satz 2 ist entsprechend
+anzuwenden. Die Zwischenbilanz muss auch dann nicht aufgestellt
+werden, wenn die Gesellschaft seit dem letzten Jahresabschluss einen
+Halbjahresfinanzbericht gemäß § 115 des Wertpapierhandelsgesetzes
+veröffentlicht hat. Der Halbjahresfinanzbericht tritt zum Zwecke der
+Vorbereitung der Hauptversammlung an die Stelle der Zwischenbilanz.
 
 (3) Auf Verlangen ist jedem Aktionär unverzüglich und kostenlos eine
 Abschrift der in Absatz 1 bezeichneten Unterlagen zu erteilen. Die
@@ -1481,18 +1444,17 @@ Internetseite der Gesellschaft zugänglich sind.
 
 ###### § 64 Durchführung der Hauptversammlung
 
-(1) In der Hauptversammlung sind die in § 63 Absatz 1 bezeichneten
-Unterlagen zugänglich zu machen. Der Vorstand hat den
+(1) In der Hauptversammlung sind die in § 63 Absatz 1
+bezeichneten Unterlagen zugänglich zu machen. Der Vorstand hat den
 Verschmelzungsvertrag oder seinen Entwurf zu Beginn der Verhandlung
 mündlich zu erläutern und über jede wesentliche Veränderung des
-Vermögens der Gesellschaft zu unterrichten, die seit dem Abschluss des
-Verschmelzungsvertrages oder der Aufstellung des Entwurfs eingetreten
-ist. Der Vorstand hat über solche Veränderungen auch die
-Vertretungsorgane der anderen beteiligten Rechtsträger zu
+Vermögens der Gesellschaft zu unterrichten, die seit dem Abschluss
+des Verschmelzungsvertrages oder der Aufstellung des Entwurfs
+eingetreten ist. Der Vorstand hat über solche Veränderungen auch
+die Vertretungsorgane der anderen beteiligten Rechtsträger zu
 unterrichten; diese haben ihrerseits die Anteilsinhaber des von ihnen
 vertretenen Rechtsträgers vor der Beschlussfassung zu unterrichten. §
-8 Absatz 3 Satz 1 erste Alternative und Satz 2 ist entsprechend
-anzuwenden.
+8 Absatz 3 Satz 1 und Satz 2 ist entsprechend anzuwenden.
 
 (2) Jedem Aktionär ist auf Verlangen in der Hauptversammlung Auskunft
 auch über alle für die Verschmelzung wesentlichen Angelegenheiten der
@@ -1524,15 +1486,15 @@ Grundkapitals im Register eingetragen worden ist.
 ###### § 67 Anwendung der Vorschriften über die Nachgründung
 
 Wird der Verschmelzungsvertrag in den ersten zwei Jahren seit
-Eintragung der übernehmenden Gesellschaft in das Register geschlossen,
-so ist § 52 Abs. 3, 4, 6 bis 9 des Aktiengesetzes über die
-Nachgründung entsprechend anzuwenden. Dies gilt nicht, wenn auf die zu
-gewährenden Aktien nicht mehr als der zehnte Teil des Grundkapitals
-dieser Gesellschaft entfällt oder wenn diese Gesellschaft ihre
-Rechtsform durch Formwechsel einer Gesellschaft mit beschränkter
-Haftung erlangt hat, die zuvor bereits seit mindestens zwei Jahren im
-Handelsregister eingetragen war. Wird zur Durchführung der
-Verschmelzung das Grundkapital erhöht, so ist der Berechnung das
+Eintragung der übernehmenden Gesellschaft in das Register
+geschlossen, so ist § 52 Abs. 3, 4, 6 bis 9 des Aktiengesetzes
+über die Nachgründung entsprechend anzuwenden. Dies gilt nicht,
+wenn auf die zu gewährenden Aktien nicht mehr als der zehnte Teil
+des Grundkapitals dieser Gesellschaft entfällt oder wenn diese
+Gesellschaft ihre Rechtsform durch Formwechsel einer Gesellschaft mit
+beschränkter Haftung erlangt hat, die zuvor bereits seit mindestens
+zwei Jahren im Handelsregister eingetragen war. Wird zur Durchführung
+der Verschmelzung das Grundkapital erhöht, so ist der Berechnung das
 erhöhte Grundkapital zugrunde zu legen.
 
 
@@ -1543,25 +1505,18 @@ Verschmelzung ihr Grundkapital nicht erhöhen, soweit
 
 1.  sie Anteile eines übertragenden Rechtsträgers innehat;
 
-
 2.  ein übertragender Rechtsträger eigene Anteile innehat oder
-
 
 3.  ein übertragender Rechtsträger Aktien dieser Gesellschaft besitzt, auf
     die der Ausgabebetrag nicht voll geleistet ist.
-
-
 
 Die übernehmende Gesellschaft braucht ihr Grundkapital nicht zu
 erhöhen, soweit
 
 1.  sie eigene Aktien besitzt oder
 
-
 2.  ein übertragender Rechtsträger Aktien dieser Gesellschaft besitzt, auf
     die der Ausgabebetrag bereits voll geleistet ist.
-
-
 
 Die übernehmende Gesellschaft darf von der Gewährung von Aktien
 absehen, wenn alle Anteilsinhaber eines übertragenden Rechtsträgers
@@ -1584,35 +1539,37 @@ Gesellschaft entfallenden anteiligen Betrags ihres Grundkapitals
 ###### § 69 Verschmelzung mit Kapitalerhöhung
 
 (1) Erhöht die übernehmende Gesellschaft zur Durchführung der
-Verschmelzung ihr Grundkapital, so sind § 182 Abs. 4, § 184 Abs. 1
-Satz 2, §§ 185, 186, 187 Abs. 1, § 188 Abs. 2 und 3 Nr. 1 des
+Verschmelzung ihr Grundkapital, so sind § 182 Abs. 4, § 184 Abs.
+1 Satz 2, §§ 185, 186, 187 Abs. 1, § 188 Abs. 2 und 3 Nr. 1 des
 Aktiengesetzes nicht anzuwenden; eine Prüfung der Sacheinlage nach §
 183 Abs. 3 des Aktiengesetzes findet nur statt, soweit übertragende
-Rechtsträger die Rechtsform einer Personenhandelsgesellschaft, einer
-Partnerschaftsgesellschaft oder eines rechtsfähigen Vereins haben,
-wenn Vermögensgegenstände in der Schlußbilanz eines übertragenden
-Rechtsträgers höher bewertet worden sind als in dessen letzter
-Jahresbilanz, wenn die in einer Schlußbilanz angesetzten Werte nicht
-als Anschaffungskosten in den Jahresbilanzen der übernehmenden
-Gesellschaft angesetzt werden oder wenn das Gericht Zweifel hat, ob
-der Wert der Sacheinlage den geringsten Ausgabebetrag der dafür zu
-gewährenden Aktien erreicht. Dies gilt auch dann, wenn das
-Grundkapital durch Ausgabe neuer Aktien auf Grund der Ermächtigung
-nach § 202 des Aktiengesetzes erhöht wird. In diesem Fall ist außerdem
-§ 203 Abs. 3 des Aktiengesetzes nicht anzuwenden. Zum Prüfer kann der
-Verschmelzungsprüfer bestellt werden.
+Rechtsträger die Rechtsform einer rechtsfähigen Personengesellschaft
+oder eines rechtsfähigen Vereins haben, wenn Vermögensgegenstände
+in der Schlußbilanz eines übertragenden Rechtsträgers höher bewertet
+worden sind als in dessen letzter Jahresbilanz, wenn die in einer
+Schlußbilanz angesetzten Werte nicht als Anschaffungskosten in
+den Jahresbilanzen der übernehmenden Gesellschaft angesetzt werden
+oder wenn das Gericht Zweifel hat, ob der Wert der Sacheinlage den
+geringsten Ausgabebetrag der dafür zu gewährenden Aktien erreicht.
+Dies gilt auch dann, wenn das Grundkapital durch Ausgabe neuer Aktien
+auf Grund der Ermächtigung nach § 202 des Aktiengesetzes erhöht wird.
+In diesem Fall ist außerdem § 203 Abs. 3 des Aktiengesetzes nicht
+anzuwenden. Zum Prüfer kann der Verschmelzungsprüfer bestellt werden.
 
-(2) Der Anmeldung der Kapitalerhöhung zum Register sind außer den in §
-188 Abs. 3 Nr. 2 und 3 des Aktiengesetzes bezeichneten Schriftstücken
-der Verschmelzungsvertrag und die Niederschriften der
+(2) Der Anmeldung der Kapitalerhöhung zum Register sind außer
+den in § 188 Abs. 3 Nr. 2 und 3 des Aktiengesetzes bezeichneten
+Schriftstücken der Verschmelzungsvertrag und die Niederschriften der
 Verschmelzungsbeschlüsse in Ausfertigung oder öffentlich beglaubigter
 Abschrift beizufügen.
+
+(3) Für den Beschluss über die Kapitalerhöhung nach Absatz 1 gilt § 14
+Absatz 2 entsprechend.
 
 
 ###### § 70 Geltendmachung eines Schadenersatzanspruchs
 
-Die Bestellung eines besonderen Vertreters nach § 26 Abs. 1 Satz 2
-können nur solche Aktionäre einer übertragenden Gesellschaft
+Die Bestellung eines besonderen Vertreters nach § 26 Abs. 1 Satz
+2 können nur solche Aktionäre einer übertragenden Gesellschaft
 beantragen, die ihre Aktien bereits gegen Anteile des übernehmenden
 Rechtsträgers umgetauscht haben.
 
@@ -1642,15 +1599,154 @@ sowie bei Zusammenlegung von Aktien § 73 Abs. 4 und § 226 Abs. 3 des
 Aktiengesetzes entsprechend.
 
 
-##### Zweiter Unterabschnitt - Verschmelzung durch Neugründung
+###### § 72a Gewährung zusätzlicher Aktien
 
+(1) Im Verschmelzungsvertrag können die beteiligten Rechtsträger
+erklären, dass anstelle einer baren Zuzahlung (§ 15) zusätzliche
+Aktien der übernehmenden Gesellschaft gewährt werden. Der Anspruch auf
+Gewährung zusätzlicher Aktien wird nicht dadurch ausgeschlossen, dass
+die übernehmende Gesellschaft nach Eintragung der Verschmelzung
+
+1.  ihr Vermögen oder Teile hiervon im Wege der Verschmelzung oder
+    Spaltung ganz oder teilweise auf eine Aktiengesellschaft oder auf eine
+    Kommanditgesellschaft auf Aktien übertragen hat oder
+
+2.  im Wege eines Formwechsels die Rechtsform einer Kommanditgesellschaft
+    auf Aktien erhalten hat.
+
+(2) Neue Aktien, die nach Eintragung der Verschmelzung im Rahmen
+einer Kapitalerhöhung aus Gesellschaftsmitteln auf Grund eines
+unangemessenen Umtauschverhältnisses nicht gewährt wurden, und nach
+Eintragung der Verschmelzung erfolgte Kapitalherabsetzungen ohne
+Rückzahlung von Teilen des Grundkapitals sind bei dem Anspruch auf
+Gewährung zusätzlicher Aktien zu berücksichtigen. Bezugsrechte, die
+den anspruchsberechtigten Aktionären bei einer nach Eintragung der
+Verschmelzung erfolgten Kapitalerhöhung gegen Einlagen auf Grund
+eines unangemessenen Umtauschverhältnisses nicht zustanden, sind ihnen
+nachträglich einzuräumen. Die anspruchsberechtigten Aktionäre müssen
+ihr Bezugsrecht nach Satz 2 gegenüber der Gesellschaft binnen eines
+Monats nach Eintritt der Rechtskraft der Entscheidung des Gerichts (§
+11 Absatz 1 des Spruchverfahrensgesetzes) ausüben.
+
+(3) Anstelle zusätzlicher Aktien ist den anspruchsberechtigten
+Aktionären Ausgleich durch eine bare Zuzahlung gemäß § 15 Absatz 1
+Satz 1 zu gewähren,
+
+1.  soweit das angemessene Umtauschverhältnis trotz Gewährung zusätzlicher
+    Aktien nicht hergestellt werden kann oder
+
+2.  wenn die Gewährung zusätzlicher Aktien unmöglich geworden ist.
+
+(4) Anstelle zusätzlicher Aktien ist denjenigen Aktionären, die
+anlässlich einer nach Eintragung der Verschmelzung erfolgten
+strukturverändernden Maßnahme aus der Gesellschaft ausgeschieden
+sind, eine Entschädigung in Geld unter Berücksichtigung der von der
+Gesellschaft zu gewährenden Abfindung zu leisten.
+
+(5) Zusätzlich zur Gewährung zusätzlicher Aktien ist den
+anspruchsberechtigten Aktionären eine Entschädigung in Geld zu
+leisten für Gewinne oder einen angemessenen Ausgleich gemäß § 304
+des Aktiengesetzes, soweit diese auf Grund eines unangemessenen
+Umtauschverhältnisses nicht ausgeschüttet oder geleistet worden sind.
+
+(6) Die folgenden Ansprüche der anspruchsberechtigten Aktionäre sind
+mit jährlich 5 Prozentpunkten über dem Basiszinssatz gemäß § 247 des
+Bürgerlichen Gesetzbuchs zu verzinsen:
+
+1.  der Anspruch auf Gewährung zusätzlicher Aktien nach den Absätzen
+    1 und 2 unter Zugrundelegung des bei einer baren Zuzahlung gemäß
+    § 15 Absatz 1 und 2 Satz 1 geschuldeten Betrags nach Ablauf von
+    drei Monaten nach Entscheidung des Gerichts (§ 11 Absatz 1 des
+    Spruchverfahrensgesetzes),
+
+2.  der Anspruch auf Gewährung einer baren Zuzahlung gemäß Absatz 3 ab der
+    Eintragung der Verschmelzung,
+
+3.  die Ansprüche auf eine Entschädigung in Geld gemäß den Absätzen 4
+    und 5 ab dem Zeitpunkt, zu dem die Abfindung oder der Anspruch auf
+    Gewinnausschüttung oder die wiederkehrende Leistung fällig geworden
+    wäre.
+
+In den Fällen des § 72b endet der Zinslauf, sobald der Treuhänder
+gemäß § 72b Absatz 3 die Aktien, die bare Zuzahlung oder die
+Entschädigung in Geld empfangen hat.
+
+(7) Die Absätze 1 bis 6 schließen die Geltendmachung eines weiteren
+Schadens nicht aus. Das Risiko der Beschaffung der zusätzlich zu
+gewährenden Aktien trägt die Gesellschaft.
+
+
+###### § 72b Kapitalerhöhung zur Gewährung zusätzlicher Aktien
+
+(1) Die gemäß § 72a Absatz 1 Satz 1 und Absatz 2 Satz 1 zusätzlich zu
+gewährenden Aktien können nach Maßgabe der Absätze 1 bis 4 durch eine
+Kapitalerhöhung gegen Sacheinlage geschaffen werden. Gegenstand der
+Sacheinlage ist der Anspruch der anspruchsberechtigten Aktionäre auf
+Gewährung zusätzlicher Aktien, der durch gerichtliche Entscheidung (§
+11 Absatz 1 des Spruchverfahrensgesetzes) oder gerichtlichen Vergleich
+(§ 11 Absatz 2 bis 4 des Spruchverfahrensgesetzes) festgestellt
+wurde; der Anspruch erlischt mit Eintragung der Durchführung der
+Kapitalerhöhung (§ 189 des Aktiengesetzes). Wird der Anspruch durch
+gerichtliche Entscheidung (§ 11 Absatz 1 des Spruchverfahrensgesetzes)
+festgestellt, kann die Sacheinlage nicht geleistet werden, bevor die
+Rechtskraft eingetreten ist.
+
+(2) Anstelle der Festsetzungen nach § 183 Absatz 1 Satz 1 und § 205
+Absatz 2 Satz 1 des Aktiengesetzes genügt
+
+1.  die Bestimmung, dass die auf Grund der zu bezeichnenden gerichtlichen
+    Entscheidung oder des zu bezeichnenden gerichtlich protokollierten
+    Vergleichs festgestellten Ansprüche der anspruchsberechtigten
+    Aktionäre auf Gewährung zusätzlicher Aktien eingebracht werden, sowie
+
+2.  die Angabe des auf Grund der gerichtlichen Entscheidung oder des
+    Vergleichs zu gewährenden Nennbetrags, bei Stückaktien die Zahl der zu
+    gewährenden Aktien.
+
+§ 182 Absatz 4 sowie die §§ 186, 187 und 203 Absatz 3 des
+Aktiengesetzes sind nicht anzuwenden.
+
+(3) Die übernehmende Gesellschaft hat einen Treuhänder zu bestellen.
+Dieser ist ermächtigt, im eigenen Namen
+
+1.  die Ansprüche auf Gewährung zusätzlicher Aktien an die übernehmende
+    Gesellschaft abzutreten,
+
+2.  die zusätzlich zu gewährenden Aktien zu zeichnen,
+
+3.  die gemäß § 72a zusätzlich zu gewährenden Aktien, baren Zuzahlungen
+    und Entschädigungen in Geld in Empfang zu nehmen sowie
+
+4.  alle von den anspruchsberechtigten Aktionären abzugebenden Erklärungen
+    abzugeben, soweit diese für den Erwerb der Aktien erforderlich sind.
+
+§ 26 Absatz 4 ist entsprechend anzuwenden.
+
+(4) Den Anmeldungen nach den §§ 184 und 188 des Aktiengesetzes ist in
+Ausfertigung oder öffentlich beglaubigter Abschrift die gerichtliche
+Entscheidung oder der gerichtlich protokollierte Vergleich, aus
+der oder dem sich der zusätzlich zu gewährende Nennbetrag oder bei
+Stückaktien die Zahl der zusätzlich zu gewährenden Aktien ergibt,
+beizufügen. § 188 Absatz 3 Nummer 2 des Aktiengesetzes ist nicht
+anzuwenden.
+
+(5) § 182 Absatz 4 sowie die §§ 186, 187 und 203 Absatz 3 des
+Aktiengesetzes sind nicht anzuwenden auf Kapitalerhöhungen, die
+durchgeführt werden, um zusätzliche Aktien auf Grund gemäß § 72a
+Absatz 2 Satz 3 ausgeübter Bezugsrechte zu gewähren.
+
+(6) Für den Beschluss über die Kapitalerhöhung nach Absatz 1 gilt § 14
+Absatz 2 entsprechend.
+
+
+##### Zweiter Unterabschnitt - Verschmelzung durch Neugründung
 
 
 ###### § 73 Anzuwendende Vorschriften
 
 Auf die Verschmelzung durch Neugründung sind die Vorschriften des
-Ersten Unterabschnitts mit Ausnahme der §§ 66, 67, 68 Abs. 1 und 2 und
-des § 69 entsprechend anzuwenden.
+Ersten Unterabschnitts mit Ausnahme der §§ 66, 68 Abs. 1 und 2 und des
+§ 69 entsprechend anzuwenden.
 
 
 ###### § 74 Inhalt der Satzung
@@ -1664,8 +1760,8 @@ und 5 des Aktiengesetzes bleibt unberührt.
 
 ###### § 75 Gründungsbericht und Gründungsprüfung
 
-(1) In dem Gründungsbericht (§ 32 des Aktiengesetzes) sind auch der
-Geschäftsverlauf und die Lage der übertragenden Rechtsträger
+(1) In dem Gründungsbericht (§ 32 des Aktiengesetzes) sind auch
+der Geschäftsverlauf und die Lage der übertragenden Rechtsträger
 darzustellen. Zum Gründungsprüfer (§ 33 Absatz 2 des Aktiengesetzes)
 kann der Verschmelzungsprüfer bestellt werden.
 
@@ -1676,12 +1772,8 @@ Genossenschaft übertragender Rechtsträger ist.
 
 ###### § 76 Verschmelzungsbeschlüsse
 
-(1) Eine übertragende Aktiengesellschaft darf die Verschmelzung erst
-beschließen, wenn sie und jede andere übertragende Aktiengesellschaft
-bereits zwei Jahre im Register eingetragen sind.
-
-(2) Die Satzung der neuen Gesellschaft wird nur wirksam, wenn ihr die
-Anteilsinhaber jedes der übertragenden Rechtsträger durch
+Die Satzung der neuen Gesellschaft wird nur wirksam, wenn ihr
+die Anteilsinhaber jedes der übertragenden Rechtsträger durch
 Verschmelzungsbeschluß zustimmen. Dies gilt entsprechend für die
 Bestellung der Mitglieder des Aufsichtsrats der neuen Gesellschaft,
 soweit diese nach § 31 des Aktiengesetzes zu wählen sind. Auf eine
@@ -1697,18 +1789,17 @@ und 3 des Aktiengesetzes entsprechend anzuwenden.
 #### Vierter Abschnitt - Verschmelzung unter Beteiligung von Kommanditgesellschaften auf Aktien
 
 
-
 ##### § 78 Anzuwendende Vorschriften
 
-Auf Verschmelzungen unter Beteiligung von Kommanditgesellschaften auf
-Aktien sind die Vorschriften des Dritten Abschnitts entsprechend
+Auf Verschmelzungen unter Beteiligung von Kommanditgesellschaften
+auf Aktien sind die Vorschriften des Dritten Abschnitts entsprechend
 anzuwenden. An die Stelle der Aktiengesellschaft und ihres Vorstands
 treten die Kommanditgesellschaft auf Aktien und die zu ihrer
 Vertretung ermächtigten persönlich haftenden Gesellschafter. Der
 Verschmelzungsbeschluß bedarf auch der Zustimmung der persönlich
-haftenden Gesellschafter; die Satzung der Kommanditgesellschaft auf
-Aktien kann eine Mehrheitsentscheidung dieser Gesellschafter vorsehen.
-Im Verhältnis zueinander gelten Aktiengesellschaften und
+haftenden Gesellschafter; die Satzung der Kommanditgesellschaft
+auf Aktien kann eine Mehrheitsentscheidung dieser Gesellschafter
+vorsehen. Im Verhältnis zueinander gelten Aktiengesellschaften und
 Kommanditgesellschaften auf Aktien nicht als Rechtsträger anderer
 Rechtsform im Sinne der §§ 29 und 34.
 
@@ -1716,9 +1807,7 @@ Rechtsform im Sinne der §§ 29 und 34.
 #### Fünfter Abschnitt - Verschmelzung unter Beteiligung eingetragener Genossenschaften
 
 
-
 ##### Erster Unterabschnitt - Verschmelzung durch Aufnahme
-
 
 
 ###### § 79 Möglichkeit der Verschmelzung
@@ -1741,7 +1830,6 @@ Anteile (§ 5 Abs. 1 Nr. 3) die Angabe zu enthalten,
     sofern die Satzung dieser Genossenschaft die Beteiligung mit mehr als
     einem Geschäftsanteil nicht zuläßt, oder
 
-
 2.  daß jedes Mitglied einer übertragenden Genossenschaft mit mindestens
     einem und im übrigen mit so vielen Geschäftsanteilen bei der
     übernehmenden Genossenschaft beteiligt wird, wie durch Anrechnung
@@ -1753,12 +1841,10 @@ Anteile (§ 5 Abs. 1 Nr. 3) die Angabe zu enthalten,
     Entwurf kann eine andere Berechnung der Zahl der zu gewährenden
     Geschäftsanteile vorsehen.
 
-
-
-Bei Verschmelzungen im Wege der Aufnahme eines Rechtsträgers anderer
-Rechtsform durch eine eingetragene Genossenschaft hat der
-Verschmelzungsvertrag oder sein Entwurf zusätzlich für jeden
-Anteilsinhaber eines solchen Rechtsträgers den Betrag des
+Bei Verschmelzungen im Wege der Aufnahme eines Rechtsträgers
+anderer Rechtsform durch eine eingetragene Genossenschaft hat
+der Verschmelzungsvertrag oder sein Entwurf zusätzlich für
+jeden Anteilsinhaber eines solchen Rechtsträgers den Betrag des
 Geschäftsanteils und die Zahl der Geschäftsanteile anzugeben, mit
 denen er bei der Genossenschaft beteiligt wird.
 
@@ -1768,9 +1854,9 @@ denen er bei der Genossenschaft beteiligt wird.
 
 ###### § 81 Gutachten des Prüfungsverbandes
 
-(1) Vor der Einberufung der Generalversammlung, die gemäß § 13 Abs. 1
-über die Zustimmung zum Verschmelzungsvertrag beschließen soll, ist
-für jede beteiligte Genossenschaft eine gutachtliche Äußerung des
+(1) Vor der Einberufung der Generalversammlung, die gemäß § 13 Abs.
+1 über die Zustimmung zum Verschmelzungsvertrag beschließen soll,
+ist für jede beteiligte Genossenschaft eine gutachtliche Äußerung des
 Prüfungsverbandes einzuholen, ob die Verschmelzung mit den Belangen
 der Mitglieder und der Gläubiger der Genossenschaft vereinbar ist
 (Prüfungsgutachten). Das Prüfungsgutachten kann für mehrere beteiligte
@@ -1778,18 +1864,18 @@ Genossenschaften auch gemeinsam erstattet werden.
 
 (2) Liegen die Voraussetzungen des Artikels 25 Abs. 1 des
 Einführungsgesetzes zum Handelsgesetzbuche in der Fassung des Artikels
-21 § 5 Abs. 2 des Gesetzes vom 25. Juli 1988 (BGBl. I S. 1093) vor, so
-kann die Prüfung der Verschmelzung (§§ 9 bis 12) für die dort
+21 § 5 Abs. 2 des Gesetzes vom 25. Juli 1988 (BGBl. I S. 1093) vor,
+so kann die Prüfung der Verschmelzung (§§ 9 bis 12) für die dort
 bezeichneten Rechtsträger auch von dem zuständigen Prüfungsverband
 durchgeführt werden.
 
 
 ###### § 82 Vorbereitung der Generalversammlung
 
-(1) Von der Einberufung der Generalversammlung an, die gemäß § 13 Abs.
-1 über die Zustimmung zum Verschmelzungsvertrag beschließen soll, sind
-auch in dem Geschäftsraum jeder beteiligten Genossenschaft die in § 63
-Abs. 1 Nr. 1 bis 4 bezeichneten Unterlagen sowie die nach § 81
+(1) Von der Einberufung der Generalversammlung an, die gemäß § 13
+Abs. 1 über die Zustimmung zum Verschmelzungsvertrag beschließen soll,
+sind auch in dem Geschäftsraum jeder beteiligten Genossenschaft die
+in § 63 Abs. 1 Nr. 1 bis 4 bezeichneten Unterlagen sowie die nach § 81
 erstatteten Prüfungsgutachten zur Einsicht der Mitglieder auszulegen.
 Dazu erforderliche Zwischenbilanzen sind gemäß § 63 Absatz 2 Satz 1
 bis 4 aufzustellen.
@@ -1804,9 +1890,9 @@ Zeitraum über die Internetseite der Genossenschaft zugänglich sind.
 
 ###### § 83 Durchführung der Generalversammlung
 
-(1) In der Generalversammlung sind die in § 63 Abs. 1 Nr. 1 bis 4
-bezeichneten Unterlagen sowie die nach § 81 erstatteten
-Prüfungsgutachten auszulegen. Der Vorstand hat den
+(1) In der Generalversammlung sind die in § 63 Abs. 1
+Nr. 1 bis 4 bezeichneten Unterlagen sowie die nach § 81
+erstatteten Prüfungsgutachten auszulegen. Der Vorstand hat den
 Verschmelzungsvertrag oder seinen Entwurf zu Beginn der Verhandlung
 mündlich zu erläutern. § 64 Abs. 2 ist entsprechend anzuwenden.
 
@@ -1825,12 +1911,15 @@ eine größere Mehrheit und weitere Erfordernisse bestimmen.
 
 ###### § 85 Verbesserung des Umtauschverhältnisses
 
-(1) Bei der Verschmelzung von Genossenschaften miteinander ist § 15
-nur anzuwenden, wenn und soweit das Geschäftsguthaben eines Mitglieds
-in der übernehmenden Genossenschaft niedriger als das
+(1) § 14 Absatz 2 und § 15 sind nicht anzuwenden auf Mitglieder einer
+übernehmenden Genossenschaft.
+
+(2) Bei der Verschmelzung von Genossenschaften miteinander ist
+§ 15 nur anzuwenden, wenn und soweit das Geschäftsguthaben eines
+Mitglieds in der übernehmenden Genossenschaft niedriger als das
 Geschäftsguthaben in der übertragenden Genossenschaft ist.
 
-(2) Der Anspruch nach § 15 kann auch durch Zuschreibung auf das
+(3) Der Anspruch nach § 15 kann auch durch Zuschreibung auf das
 Geschäftsguthaben erfüllt werden, soweit nicht der Gesamtbetrag der
 Geschäftsanteile des Mitglieds bei der übernehmenden Genossenschaft
 überschritten wird.
@@ -1855,30 +1944,30 @@ oder in öffentlich beglaubigter Abschrift beizufügen.
 Genossenschaft entsprechend dem Verschmelzungsvertrag an dem
 übernehmenden Rechtsträger beteiligt. Eine Verpflichtung, bei einer
 übernehmenden Genossenschaft weitere Geschäftsanteile zu übernehmen,
-bleibt unberührt. Rechte Dritter an den Geschäftsguthaben bei einer
-übertragenden Genossenschaft bestehen an den Anteilen oder
+bleibt unberührt. Rechte Dritter an den Geschäftsguthaben bei
+einer übertragenden Genossenschaft bestehen an den Anteilen oder
 Mitgliedschaften des übernehmenden Rechtsträgers anderer Rechtsform
 weiter, die an die Stelle der Geschäftsanteile der übertragenden
 Genossenschaft treten. Rechte Dritter an den Anteilen oder
 Mitgliedschaften des übertragenden Rechtsträgers bestehen an den bei
 der übernehmenden Genossenschaft erlangten Geschäftsguthaben weiter.
 
-(2) Übersteigt das Geschäftsguthaben, das das Mitglied bei einer
-übertragenden Genossenschaft hatte, den Gesamtbetrag der
+(2) Übersteigt das Geschäftsguthaben, das das Mitglied bei
+einer übertragenden Genossenschaft hatte, den Gesamtbetrag der
 Geschäftsanteile, mit denen es nach Absatz 1 bei einer übernehmenden
-Genossenschaft beteiligt ist, so ist der übersteigende Betrag nach
-Ablauf von sechs Monaten seit dem Tage, an dem die Eintragung der
-Verschmelzung in das Register des Sitzes der übernehmenden
+Genossenschaft beteiligt ist, so ist der übersteigende Betrag
+nach Ablauf von sechs Monaten seit dem Tage, an dem die Eintragung
+der Verschmelzung in das Register des Sitzes der übernehmenden
 Genossenschaft nach § 19 Abs. 3 bekannt gemacht worden ist, an das
-Mitglied auszuzahlen; die Auszahlung darf jedoch nicht erfolgen, bevor
-die Gläubiger, die sich nach § 22 gemeldet haben, befriedigt oder
-sichergestellt sind. Im Verschmelzungsvertrag festgesetzte bare
-Zuzahlungen dürfen nicht den zehnten Teil des Gesamtnennbetrags der
-gewährten Geschäftsanteile der übernehmenden Genossenschaft
+Mitglied auszuzahlen; die Auszahlung darf jedoch nicht erfolgen,
+bevor die Gläubiger, die sich nach § 22 gemeldet haben, befriedigt
+oder sichergestellt sind. Im Verschmelzungsvertrag festgesetzte
+bare Zuzahlungen dürfen nicht den zehnten Teil des Gesamtnennbetrags
+der gewährten Geschäftsanteile der übernehmenden Genossenschaft
 übersteigen.
 
-(3) Für die Berechnung des Geschäftsguthabens, das dem Mitglied bei
-einer übertragenden Genossenschaft zugestanden hat, ist deren
+(3) Für die Berechnung des Geschäftsguthabens, das dem Mitglied
+bei einer übertragenden Genossenschaft zugestanden hat, ist deren
 Schlußbilanz maßgebend.
 
 
@@ -1889,13 +1978,13 @@ Schlußbilanz maßgebend.
 dieser Gesellschaft als Geschäftsguthaben bei der übernehmenden
 Genossenschaft der Wert der Geschäftsanteile oder der Aktien
 gutzuschreiben, mit denen er an der übertragenden Gesellschaft
-beteiligt war. Für die Feststellung des Wertes dieser Beteiligung ist
-die Schlußbilanz der übertragenden Gesellschaft maßgebend. Übersteigt
-das durch die Verschmelzung erlangte Geschäftsguthaben eines Mitglieds
-den Gesamtbetrag der Geschäftsanteile, mit denen es bei der
-übernehmenden Genossenschaft beteiligt ist, so ist der übersteigende
-Betrag nach Ablauf von sechs Monaten seit dem Tage, an dem die
-Eintragung der Verschmelzung in das Register des Sitzes der
+beteiligt war. Für die Feststellung des Wertes dieser Beteiligung
+ist die Schlußbilanz der übertragenden Gesellschaft maßgebend.
+Übersteigt das durch die Verschmelzung erlangte Geschäftsguthaben
+eines Mitglieds den Gesamtbetrag der Geschäftsanteile, mit denen
+es bei der übernehmenden Genossenschaft beteiligt ist, so ist der
+übersteigende Betrag nach Ablauf von sechs Monaten seit dem Tage, an
+dem die Eintragung der Verschmelzung in das Register des Sitzes der
 übernehmenden Genossenschaft nach § 19 Abs. 3 bekannt gemacht worden
 ist, an das Mitglied auszuzahlen; die Auszahlung darf jedoch nicht
 erfolgen, bevor die Gläubiger, die sich nach § 22 gemeldet haben,
@@ -1910,8 +1999,8 @@ mit denen es an der übernehmenden Genossenschaft beteiligt ist.
 
 ###### § 89 Eintragung der Genossen in die Mitgliederliste; Benachrichtigung
 
-(1) Die übernehmende Genossenschaft hat jedes neue Mitglied nach der
-Eintragung der Verschmelzung in das Register des Sitzes der
+(1) Die übernehmende Genossenschaft hat jedes neue Mitglied nach
+der Eintragung der Verschmelzung in das Register des Sitzes der
 übernehmenden Genossenschaft unverzüglich in die Mitgliederliste
 einzutragen und hiervon unverzüglich zu benachrichtigen. Sie hat
 ferner die Zahl der Geschäftsanteile des Mitglieds einzutragen, sofern
@@ -1924,24 +2013,17 @@ der übertragenden Gesellschaft, unverzüglich in Textform mitzuteilen:
 1.  den Betrag des Geschäftsguthabens bei der übernehmenden
     Genossenschaft;
 
-
 2.  den Betrag des Geschäftsanteils bei der übernehmenden Genossenschaft;
-
 
 3.  die Zahl der Geschäftsanteile, mit denen der Anteilsinhaber bei der
     übernehmenden Genossenschaft beteiligt ist;
-
 
 4.  den Betrag der von dem Mitglied nach Anrechnung seines
     Geschäftsguthabens noch zu leistenden Einzahlung oder den Betrag, der
     ihm nach § 87 Abs. 2 oder nach § 88 Abs. 1 auszuzahlen ist, sowie
 
-
 5.  den Betrag der Haftsumme der übernehmenden Genossenschaft, sofern
     deren Mitglieder Nachschüsse bis zu einer Haftsumme zu leisten haben.
-
-
-
 
 
 ###### § 90 Ausschlagung durch einzelne Anteilsinhaber
@@ -1961,13 +2043,10 @@ zum Verschmelzungsvertrag beschließen soll,
 1.  erscheint und gegen den Verschmelzungsbeschluß Widerspruch zur
     Niederschrift erklärt oder
 
-
 2.  nicht erscheint, sofern es zu der Versammlung zu Unrecht nicht
     zugelassen worden ist oder die Versammlung nicht ordnungsgemäß
     einberufen oder der Gegenstand der Beschlußfassung nicht ordnungsgemäß
     bekanntgemacht worden ist.
-
-
 
 Wird der Verschmelzungsbeschluß einer übertragenden Genossenschaft von
 einer Vertreterversammlung gefaßt, so steht das Recht zur Ausschlagung
@@ -2006,8 +2085,8 @@ Ausschlagungserklärung dem übernehmenden Rechtsträger zugeht.
 hat der übernehmende Rechtsträger sich auseinanderzusetzen. Maßgebend
 ist die Schlußbilanz der übertragenden Genossenschaft.
 
-(2) Dieses Mitglied kann die Auszahlung des Geschäftsguthabens, das es
-bei der übertragenden Genossenschaft hatte, verlangen; an den
+(2) Dieses Mitglied kann die Auszahlung des Geschäftsguthabens, das
+es bei der übertragenden Genossenschaft hatte, verlangen; an den
 Rücklagen und dem sonstigen Vermögen der übertragenden Genossenschaft
 hat es vorbehaltlich des § 73 Abs. 3 des Genossenschaftsgesetzes
 keinen Anteil, auch wenn sie bei der Verschmelzung den
@@ -2015,9 +2094,9 @@ Geschäftsguthaben anderer Mitglieder, die von dem Recht zur
 Ausschlagung keinen Gebrauch machen, zugerechnet werden.
 
 (3) Reichen die Geschäftsguthaben und die in der Schlußbilanz einer
-übertragenden Genossenschaft ausgewiesenen Rücklagen zur Deckung eines
-in dieser Bilanz ausgewiesenen Verlustes nicht aus, so kann der
-übernehmende Rechtsträger von dem früheren Mitglied, dessen
+übertragenden Genossenschaft ausgewiesenen Rücklagen zur Deckung
+eines in dieser Bilanz ausgewiesenen Verlustes nicht aus, so kann
+der übernehmende Rechtsträger von dem früheren Mitglied, dessen
 Beteiligung als nicht erworben gilt, die Zahlung des anteiligen
 Fehlbetrags verlangen, wenn und soweit dieses Mitglied im Falle der
 Insolvenz Nachschüsse an die übertragende Genossenschaft zu leisten
@@ -2030,8 +2109,8 @@ ihrer Mitglieder berechnet.
 
 ###### § 94 Auszahlung des Auseinandersetzungsguthabens
 
-Ansprüche auf Auszahlung des Geschäftsguthabens nach § 93 Abs. 2 sind
-binnen sechs Monaten seit der Ausschlagung zu befriedigen; die
+Ansprüche auf Auszahlung des Geschäftsguthabens nach § 93 Abs. 2
+sind binnen sechs Monaten seit der Ausschlagung zu befriedigen; die
 Auszahlung darf jedoch nicht erfolgen, bevor die Gläubiger, die sich
 nach § 22 gemeldet haben, befriedigt oder sichergestellt sind, und
 nicht vor Ablauf von sechs Monaten seit dem Tag, an dem die Eintragung
@@ -2041,28 +2120,27 @@ Rechtsträgers nach § 19 Abs. 3 bekannt gemacht worden ist.
 
 ###### § 95 Fortdauer der Nachschußpflicht
 
-(1) Ist die Haftsumme bei einer übernehmenden Genossenschaft geringer,
-als sie bei einer übertragenden Genossenschaft war, oder haften den
-Gläubigern eines übernehmenden Rechtsträgers nicht alle Anteilsinhaber
-dieses Rechtsträgers unbeschränkt, so haben zur Befriedigung der
-Gläubiger der übertragenden Genossenschaft diejenigen Anteilsinhaber,
-die Mitglieder der übertragenden Genossenschaft waren, weitere
-Nachschüsse bis zur Höhe der Haftsumme bei der übertragenden
+(1) Ist die Haftsumme bei einer übernehmenden Genossenschaft
+geringer, als sie bei einer übertragenden Genossenschaft war, oder
+haften den Gläubigern eines übernehmenden Rechtsträgers nicht alle
+Anteilsinhaber dieses Rechtsträgers unbeschränkt, so haben zur
+Befriedigung der Gläubiger der übertragenden Genossenschaft diejenigen
+Anteilsinhaber, die Mitglieder der übertragenden Genossenschaft waren,
+weitere Nachschüsse bis zur Höhe der Haftsumme bei der übertragenden
 Genossenschaft zu leisten, sofern die Gläubiger, die sich nach § 22
 gemeldet haben, wegen ihrer Forderung Befriedigung oder Sicherstellung
 auch nicht aus den von den Mitgliedern eingezogenen Nachschüssen
 erlangen können. Für die Einziehung der Nachschüsse gelten die §§ 105
 bis 115a des Genossenschaftsgesetzes entsprechend.
 
-(2) Absatz 1 ist nur anzuwenden, wenn das Insolvenzverfahren über das
-Vermögen des übernehmenden Rechtsträgers binnen zwei Jahren nach dem
-Tage eröffnet wird, an dem die Eintragung der Verschmelzung in das
-Register des Sitzes dieses Rechtsträgers nach § 19 Abs. 3 bekannt
+(2) Absatz 1 ist nur anzuwenden, wenn das Insolvenzverfahren über
+das Vermögen des übernehmenden Rechtsträgers binnen zwei Jahren nach
+dem Tage eröffnet wird, an dem die Eintragung der Verschmelzung in
+das Register des Sitzes dieses Rechtsträgers nach § 19 Abs. 3 bekannt
 gemacht worden ist.
 
 
 ##### Zweiter Unterabschnitt - Verschmelzung durch Neugründung
-
 
 
 ###### § 96 Anzuwendende Vorschriften
@@ -2077,27 +2155,26 @@ Ersten Unterabschnitts entsprechend anzuwenden.
 Mitglieder des Vertretungsorgans jedes der übertragenden Rechtsträger
 aufzustellen und zu unterzeichnen.
 
-(2) Die Vertretungsorgane aller übertragenden Rechtsträger haben den
-ersten Aufsichtsrat der neuen Genossenschaft zu bestellen. Das gleiche
-gilt für die Bestellung des ersten Vorstands, sofern nicht durch die
-Satzung der neuen Genossenschaft anstelle der Wahl durch die
-Generalversammlung eine andere Art der Bestellung des Vorstands
+(2) Die Vertretungsorgane aller übertragenden Rechtsträger haben
+den ersten Aufsichtsrat der neuen Genossenschaft zu bestellen. Das
+gleiche gilt für die Bestellung des ersten Vorstands, sofern nicht
+durch die Satzung der neuen Genossenschaft anstelle der Wahl durch
+die Generalversammlung eine andere Art der Bestellung des Vorstands
 festgesetzt ist.
 
 
 ###### § 98 Verschmelzungsbeschlüsse
 
-Die Satzung der neuen Genossenschaft wird nur wirksam, wenn ihm die
-Anteilsinhaber jedes der übertragenden Rechtsträger durch
+Die Satzung der neuen Genossenschaft wird nur wirksam, wenn ihm
+die Anteilsinhaber jedes der übertragenden Rechtsträger durch
 Verschmelzungsbeschluß zustimmen. Dies gilt entsprechend für die
-Bestellung der Mitglieder des Vorstands und des Aufsichtsrats der
-neuen Genossenschaft, für die Bestellung des Vorstands jedoch nur,
-wenn dieser von den Vertretungsorganen aller übertragenden
+Bestellung der Mitglieder des Vorstands und des Aufsichtsrats
+der neuen Genossenschaft, für die Bestellung des Vorstands jedoch
+nur, wenn dieser von den Vertretungsorganen aller übertragenden
 Rechtsträger bestellt worden ist.
 
 
 #### Sechster Abschnitt - Verschmelzung unter Beteiligung rechtsfähiger Vereine
-
 
 
 ##### § 99 Möglichkeit der Verschmelzung
@@ -2116,18 +2193,18 @@ Verschmelzung solcher Rechtsträger nicht gegründet werden.
 Der Verschmelzungsvertrag oder sein Entwurf ist für einen
 wirtschaftlichen Verein nach den §§ 9 bis 12 zu prüfen. Bei einem
 eingetragenen Verein ist diese Prüfung nur erforderlich, wenn
-mindestens zehn vom Hundert der Mitglieder sie schriftlich verlangen.
+mindestens zehn vom Hundert der Mitglieder sie in Textform verlangen.
 
 
 ##### § 101 Vorbereitung der Mitgliederversammlung
 
-(1) Von der Einberufung der Mitgliederversammlung an, die gemäß § 13
-Abs. 1 über die Zustimmung zum Verschmelzungsvertrag beschließen soll,
-sind in dem Geschäftsraum des Vereins die in § 63 Abs. 1 Nr. 1 bis 4
-bezeichneten Unterlagen sowie ein nach § 100 erforderlicher
+(1) Von der Einberufung der Mitgliederversammlung an, die gemäß §
+13 Abs. 1 über die Zustimmung zum Verschmelzungsvertrag beschließen
+soll, sind in dem Geschäftsraum des Vereins die in § 63 Abs. 1 Nr.
+1 bis 4 bezeichneten Unterlagen sowie ein nach § 100 erforderlicher
 Prüfungsbericht zur Einsicht der Mitglieder auszulegen. Dazu
-erforderliche Zwischenbilanzen sind gemäß § 63 Absatz 2 Satz 1 bis 4
-aufzustellen.
+erforderliche Zwischenbilanzen sind gemäß § 63 Absatz 2 Satz 1 bis
+4 aufzustellen.
 
 (2) Auf Verlangen ist jedem Mitglied unverzüglich und kostenlos eine
 Abschrift der in Absatz 1 bezeichneten Unterlagen zu erteilen.
@@ -2135,8 +2212,8 @@ Abschrift der in Absatz 1 bezeichneten Unterlagen zu erteilen.
 
 ##### § 102 Durchführung der Mitgliederversammlung
 
-In der Mitgliederversammlung sind die in § 63 Abs. 1 Nr. 1 bis 4
-bezeichneten Unterlagen sowie ein nach § 100 erforderlicher
+In der Mitgliederversammlung sind die in § 63 Abs. 1 Nr. 1 bis
+4 bezeichneten Unterlagen sowie ein nach § 100 erforderlicher
 Prüfungsbericht auszulegen. § 64 Abs. 1 Satz 2 und Abs. 2 ist
 entsprechend anzuwenden.
 
@@ -2175,14 +2252,13 @@ der Körperschaftsteuer befreit ist, nicht anzuwenden.
 #### Siebenter Abschnitt - Verschmelzung genossenschaftlicher Prüfungsverbände
 
 
-
 ##### § 105 Möglichkeit der Verschmelzung
 
 Genossenschaftliche Prüfungsverbände können nur miteinander
-verschmolzen werden. Ein genossenschaftlicher Prüfungsverband kann
-ferner als übernehmender Verband einen rechtsfähigen Verein aufnehmen,
-wenn bei diesem die Voraussetzungen des § 63b Absatz 2 des
-Genossenschaftsgesetzes bestehen und die in § 107 Abs. 2 genannte
+verschmolzen werden. Ein genossenschaftlicher Prüfungsverband
+kann ferner als übernehmender Verband einen rechtsfähigen Verein
+aufnehmen, wenn bei diesem die Voraussetzungen des § 63b Absatz 2
+des Genossenschaftsgesetzes bestehen und die in § 107 Abs. 2 genannte
 Behörde dem Verschmelzungsvertrag zugestimmt hat.
 
 
@@ -2196,8 +2272,8 @@ Mitgliederversammlung sind die §§ 101 bis 103 entsprechend anzuwenden.
 
 (1) Die Vorstände beider Verbände haben die Verschmelzung
 gemeinschaftlich unverzüglich zur Eintragung in die Register des
-Sitzes jedes Verbandes anzumelden, soweit der Verband eingetragen ist.
-Ist der übertragende Verband nicht eingetragen, so ist § 104
+Sitzes jedes Verbandes anzumelden, soweit der Verband eingetragen
+ist. Ist der übertragende Verband nicht eingetragen, so ist § 104
 entsprechend anzuwenden.
 
 (2) Die Vorstände haben ferner gemeinschaftlich den für die Verleihung
@@ -2212,17 +2288,15 @@ unverzüglich von der Eintragung zu benachrichtigen.
 
 Tritt ein ehemaliges Mitglied des übertragenden Verbandes gemäß § 39
 des Bürgerlichen Gesetzbuchs aus dem übernehmenden Verband aus, so
-sind Bestimmungen der Satzung des übernehmenden Verbandes, die gemäß §
-39 Abs. 2 des Bürgerlichen Gesetzbuchs eine längere Kündigungsfrist
+sind Bestimmungen der Satzung des übernehmenden Verbandes, die gemäß
+§ 39 Abs. 2 des Bürgerlichen Gesetzbuchs eine längere Kündigungsfrist
 als zum Schlusse des Geschäftsjahres vorsehen, nicht anzuwenden.
 
 
 #### Achter Abschnitt - Verschmelzung von Versicherungsvereinen auf Gegenseitigkeit
 
 
-
 ##### Erster Unterabschnitt - Möglichkeit der Verschmelzung
-
 
 
 ###### § 109 Verschmelzungsfähige Rechtsträger
@@ -2237,7 +2311,6 @@ werden.
 ##### Zweiter Unterabschnitt - Verschmelzung durch Aufnahme
 
 
-
 ###### § 110 Inhalt des Verschmelzungsvertrags
 
 Sind nur Versicherungsvereine auf Gegenseitigkeit an der Verschmelzung
@@ -2248,9 +2321,9 @@ Angaben nach § 5 Abs. 1 Nr. 3 bis 5 und 7 nicht zu enthalten.
 ###### § 111 Bekanntmachung des Verschmelzungsvertrags
 
 Der Verschmelzungsvertrag oder sein Entwurf ist vor der Einberufung
-der obersten Vertretung, die gemäß § 13 Abs. 1 über die Zustimmung zum
-Verschmelzungsvertrag beschließen soll, zum Register einzureichen. Das
-Gericht hat in der Bekanntmachung nach § 10 des Handelsgesetzbuchs
+der obersten Vertretung, die gemäß § 13 Abs. 1 über die Zustimmung
+zum Verschmelzungsvertrag beschließen soll, zum Register einzureichen.
+Das Gericht hat in der Bekanntmachung nach § 10 des Handelsgesetzbuchs
 einen Hinweis darauf bekanntzumachen, daß der Vertrag oder sein
 Entwurf beim Handelsregister eingereicht worden ist.
 
@@ -2275,13 +2348,12 @@ eine größere Mehrheit und weitere Erfordernisse bestimmen.
 
 ###### § 113 Keine gerichtliche Nachprüfung
 
-Sind nur Versicherungsvereine auf Gegenseitigkeit an der Verschmelzung
-beteiligt, findet eine gerichtliche Nachprüfung des
+Sind nur Versicherungsvereine auf Gegenseitigkeit an der
+Verschmelzung beteiligt, findet eine gerichtliche Nachprüfung des
 Umtauschverhältnisses der Mitgliedschaften nicht statt.
 
 
 ##### Dritter Unterabschnitt - Verschmelzung durch Neugründung
-
 
 
 ###### § 114 Anzuwendende Vorschriften
@@ -2294,8 +2366,8 @@ folgenden Vorschriften nichts anderes ergibt.
 ###### § 115 Bestellung der Vereinsorgane
 
 Die Vorstände der übertragenden Vereine haben den ersten Aufsichtsrat
-des neuen Rechtsträgers und den Abschlußprüfer für das erste Voll-
-oder Rumpfgeschäftsjahr zu bestellen. Die Bestellung bedarf
+des neuen Rechtsträgers und den Abschlußprüfer für das erste
+Voll- oder Rumpfgeschäftsjahr zu bestellen. Die Bestellung bedarf
 notarieller Beurkundung. Der Aufsichtsrat bestellt den ersten
 Vorstand.
 
@@ -2304,17 +2376,17 @@ Vorstand.
 
 (1) Die Satzung des neuen Rechtsträgers und die Bestellung seiner
 Aufsichtsratsmitglieder bedürfen der Zustimmung der übertragenden
-Vereine durch Verschmelzungsbeschlüsse. § 76 Abs. 2 und § 112 Abs. 3
+Vereine durch Verschmelzungsbeschlüsse. Die §§ 76 und 112 Absatz 3
 sind entsprechend anzuwenden.
 
 (2) In der Bekanntmachung der Tagesordnung eines Vereins ist der
-wesentliche Inhalt des Verschmelzungsvertrags bekanntzumachen. In der
-Bekanntmachung haben der Vorstand und der Aufsichtsrat, zur Wahl von
-Aufsichtsratsmitgliedern und Prüfern nur der Aufsichtsrat, Vorschläge
-zur Beschlußfassung zu machen. Hat der Aufsichtsrat auch aus
-Aufsichtsratsmitgliedern der Arbeitnehmer zu bestehen, so bedürfen
-Beschlüsse des Aufsichtsrats über Vorschläge zur Wahl von
-Aufsichtsratsmitgliedern nur der Mehrheit der Stimmen der
+wesentliche Inhalt des Verschmelzungsvertrags bekanntzumachen. In
+der Bekanntmachung haben der Vorstand und der Aufsichtsrat, zur
+Wahl von Aufsichtsratsmitgliedern und Prüfern nur der Aufsichtsrat,
+Vorschläge zur Beschlußfassung zu machen. Hat der Aufsichtsrat
+auch aus Aufsichtsratsmitgliedern der Arbeitnehmer zu bestehen,
+so bedürfen Beschlüsse des Aufsichtsrats über Vorschläge zur Wahl
+von Aufsichtsratsmitgliedern nur der Mehrheit der Stimmen der
 Aufsichtsratsmitglieder der Mitglieder des Vereins.
 
 
@@ -2327,7 +2399,6 @@ Gesamtschuldner.
 
 
 ##### Vierter Unterabschnitt - Verschmelzung kleinerer Vereine
-
 
 
 ###### § 118 Anzuwendende Vorschriften
@@ -2344,15 +2415,14 @@ Bekanntmachung im Bundesanzeiger nach § 119.
 ###### § 119 Bekanntmachung der Verschmelzung
 
 Sobald die Verschmelzung von allen beteiligten Aufsichtsbehörden
-genehmigt worden ist, macht die für den übernehmenden kleineren Verein
-zuständige Aufsichtsbehörde, bei einer Verschmelzung durch Neugründung
-eines kleineren Vereins die für den neuen Verein zuständige
-Aufsichtsbehörde die Verschmelzung und ihre Genehmigung im
+genehmigt worden ist, macht die für den übernehmenden kleineren
+Verein zuständige Aufsichtsbehörde, bei einer Verschmelzung durch
+Neugründung eines kleineren Vereins die für den neuen Verein
+zuständige Aufsichtsbehörde die Verschmelzung und ihre Genehmigung im
 Bundesanzeiger bekannt.
 
 
 #### Neunter Abschnitt - Verschmelzung von Kapitalgesellschaften mit dem Vermögen eines Alleingesellschafters
-
 
 
 ##### § 120 Möglichkeit der Verschmelzung
@@ -2378,8 +2448,8 @@ Vorschriften des Ersten und Zweiten Teils anzuwenden.
 ##### § 122 Eintragung in das Handelsregister
 
 (1) Ein noch nicht in das Handelsregister eingetragener
-Alleingesellschafter oder Alleinaktionär ist nach den Vorschriften des
-Handelsgesetzbuchs in das Handelsregister einzutragen; § 18 Abs. 1
+Alleingesellschafter oder Alleinaktionär ist nach den Vorschriften
+des Handelsgesetzbuchs in das Handelsregister einzutragen; § 18 Abs. 1
 bleibt unberührt.
 
 (2) Kommt eine Eintragung nicht in Betracht, treten die in § 20
@@ -2387,402 +2457,13 @@ genannten Wirkungen durch die Eintragung der Verschmelzung in das
 Register des Sitzes der übertragenden Kapitalgesellschaft ein.
 
 
-#### Zehnter Abschnitt - Grenzüberschreitende Verschmelzung
-
-
-
-##### § 122a Grenzüberschreitende Verschmelzung
-
-(1) Eine grenzüberschreitende Verschmelzung ist eine Verschmelzung,
-bei der mindestens eine der beteiligten Gesellschaften dem Recht eines
-anderen Mitgliedstaats der Europäischen Union oder eines anderen
-Vertragsstaats des Abkommens über den Europäischen Wirtschaftsraum
-unterliegt.
-
-(2) Auf die Beteiligung einer Kapitalgesellschaft (§ 3 Abs. 1 Nr. 2)
-an einer grenzüberschreitenden Verschmelzung sind die Vorschriften des
-Ersten Teils und des Zweiten, Dritten und Vierten Abschnitts des
-Zweiten Teils entsprechend anzuwenden, soweit sich aus diesem
-Abschnitt nichts anderes ergibt. Auf die Beteiligung einer
-Personenhandelsgesellschaft (§ 3 Absatz 1 Nummer 1) an einer
-grenzüberschreitenden Verschmelzung sind die Vorschriften des Ersten
-Teils und des Ersten Unterabschnitts des Ersten Abschnitts des Zweiten
-Teils entsprechend anzuwenden, soweit sich aus diesem Abschnitt nichts
-anderes ergibt.
-
-
-##### § 122b Verschmelzungsfähige Gesellschaften
-
-(1) An einer grenzüberschreitenden Verschmelzung können beteiligt sein
-
-1.  als übertragende, übernehmende oder neue Gesellschaften
-    Kapitalgesellschaften im Sinne des Artikels 119 Nummer 1 der
-    Richtlinie (EU) 2017/1132 des Europäischen Parlaments und des Rates
-    vom 14. Juni 2017 über bestimmte Aspekte des Gesellschaftsrechts (ABl.
-    L 169 vom 30.6.2017, S. 46), die nach dem Recht eines Mitgliedstaats
-    der Europäischen Union oder eines anderen Vertragsstaats des Abkommens
-    über den Europäischen Wirtschaftsraum gegründet worden sind und ihren
-    satzungsmäßigen Sitz, ihre Hauptverwaltung oder ihre
-    Hauptniederlassung in einem Mitgliedstaat der Europäischen Union oder
-    einem anderen Vertragsstaat des Abkommens über den Europäischen
-    Wirtschaftsraum haben,
-
-
-2.  als übernehmende oder neue Gesellschaften
-    Personenhandelsgesellschaften im Sinne des § 3 Absatz 1 Nummer 1 mit
-    in der Regel nicht mehr als 500 Arbeitnehmern.
-
-
-
-
-(2) An einer grenzüberschreitenden Verschmelzung können nicht
-beteiligt sein:
-
-1.  Genossenschaften, selbst wenn sie nach dem Recht eines anderen
-    Mitgliedstaats der Europäischen Union oder eines anderen
-    Vertragsstaats des Abkommens über den Europäischen Wirtschaftsraum
-    unter die Definition des Artikels 2 Nr. 1 der Richtlinie fallen;
-
-
-2.  Gesellschaften, deren Zweck es ist, die vom Publikum bei ihnen
-    eingelegten Gelder nach dem Grundsatz der Risikostreuung gemeinsam
-    anzulegen und deren Anteile auf Verlangen der Anteilsinhaber
-    unmittelbar oder mittelbar zulasten des Vermögens dieser Gesellschaft
-    zurückgenommen oder ausgezahlt werden. Diesen Rücknahmen oder
-    Auszahlungen gleichgestellt sind Handlungen, mit denen eine solche
-    Gesellschaft sicherstellen will, dass der Börsenwert ihrer Anteile
-    nicht erheblich von deren Nettoinventarwert abweicht.
-
-
-
-
-
-##### § 122c Verschmelzungsplan
-
-(1) Das Vertretungsorgan einer beteiligten Gesellschaft stellt
-zusammen mit den Vertretungsorganen der übrigen beteiligten
-Gesellschaften einen gemeinsamen Verschmelzungsplan auf.
-
-(2) Der Verschmelzungsplan oder sein Entwurf muss mindestens folgende
-Angaben enthalten:
-
-1.  Rechtsform, Firma und Sitz der übertragenden und übernehmenden oder
-    neuen Gesellschaft,
-
-
-2.  das Umtauschverhältnis der Gesellschaftsanteile und gegebenenfalls die
-    Höhe der baren Zuzahlungen,
-
-
-3.  die Einzelheiten hinsichtlich der Übertragung der Gesellschaftsanteile
-    der übernehmenden oder neuen Gesellschaft,
-
-
-4.  die voraussichtlichen Auswirkungen der Verschmelzung auf die
-    Beschäftigung,
-
-
-5.  den Zeitpunkt, von dem an die Gesellschaftsanteile deren Inhabern das
-    Recht auf Beteiligung am Gewinn gewähren, sowie alle Besonderheiten,
-    die eine Auswirkung auf dieses Recht haben,
-
-
-6.  den Zeitpunkt, von dem an die Handlungen der übertragenden
-    Gesellschaften unter dem Gesichtspunkt der Rechnungslegung als für
-    Rechnung der übernehmenden oder neuen Gesellschaft vorgenommen gelten
-    (Verschmelzungsstichtag),
-
-
-7.  die Rechte, die die übernehmende oder neue Gesellschaft den mit
-    Sonderrechten ausgestatteten Gesellschaftern und den Inhabern von
-    anderen Wertpapieren als Gesellschaftsanteilen gewährt, oder die für
-    diese Personen vorgeschlagenen Maßnahmen,
-
-
-8.  etwaige besondere Vorteile, die den Sachverständigen, die den
-    Verschmelzungsplan prüfen, oder den Mitgliedern der Verwaltungs-,
-    Leitungs-, Aufsichts- oder Kontrollorgane der an der Verschmelzung
-    beteiligten Gesellschaften gewährt werden,
-
-
-9.  die Satzung oder den Gesellschaftsvertrag der übernehmenden oder neuen
-    Gesellschaft,
-
-
-10. gegebenenfalls Angaben zu dem Verfahren, nach dem die Einzelheiten
-    über die Beteiligung der Arbeitnehmer an der Festlegung ihrer
-    Mitbestimmungsrechte in der aus der grenzüberschreitenden
-    Verschmelzung hervorgehenden Gesellschaft geregelt werden,
-
-
-11. Angaben zur Bewertung des Aktiv- und Passivvermögens, das auf die
-    übernehmende oder neue Gesellschaft übertragen wird,
-
-
-12. den Stichtag der Bilanzen der an der Verschmelzung beteiligten
-    Gesellschaften, die zur Festlegung der Bedingungen der Verschmelzung
-    verwendet werden,
-
-
-13. im Fall der Verschmelzung auf eine Personenhandelsgesellschaft gemäß §
-    122b Absatz 1 Nummer 2
-
-    a)  für jeden Anteilsinhaber eines übertragenden Rechtsträgers die
-        Bestimmung, ob ihm in der übernehmenden oder der neuen
-        Personenhandelsgesellschaft die Stellung eines persönlich haftenden
-        Gesellschafters oder eines Kommanditisten gewährt wird,
-
-
-    b)  der festgesetzte Betrag der Einlage jedes Gesellschafters.
-
-
-
-
-
-
-
-(3) Befinden sich alle Anteile einer übertragenden Gesellschaft in der
-Hand der übernehmenden Gesellschaft, so entfallen die Angaben über den
-Umtausch der Anteile (Absatz 2 Nr. 2, 3 und 5), soweit sie die
-Aufnahme dieser Gesellschaft betreffen.
-
-(4) Der Verschmelzungsplan muss notariell beurkundet werden.
-
-
-##### § 122d Bekanntmachung des Verschmelzungsplans
-
-Der Verschmelzungsplan oder sein Entwurf ist spätestens einen Monat
-vor der Versammlung der Anteilsinhaber, die nach § 13 über die
-Zustimmung zum Verschmelzungsplan beschließen soll, zum Register
-einzureichen. Das Gericht hat in der Bekanntmachung nach § 10 des
-Handelsgesetzbuchs unverzüglich die folgenden Angaben bekannt zu
-machen:
-
-1.  einen Hinweis darauf, dass der Verschmelzungsplan oder sein Entwurf
-    beim Handelsregister eingereicht worden ist,
-
-
-2.  Rechtsform, Firma und Sitz der an der grenzüberschreitenden
-    Verschmelzung beteiligten Gesellschaften,
-
-
-3.  die Register, bei denen die an der grenzüberschreitenden Verschmelzung
-    beteiligten Gesellschaften eingetragen sind, sowie die jeweilige
-    Nummer der Eintragung,
-
-
-4.  einen Hinweis auf die Modalitäten für die Ausübung der Rechte der
-    Gläubiger und der Minderheitsgesellschafter der an der
-    grenzüberschreitenden Verschmelzung beteiligten Gesellschaften sowie
-    die Anschrift, unter der vollständige Auskünfte über diese Modalitäten
-    kostenlos eingeholt werden können.
-
-
-
-Die bekannt zu machenden Angaben sind dem Register bei Einreichung des
-Verschmelzungsplans oder seines Entwurfs mitzuteilen.
-
-
-##### § 122e Verschmelzungsbericht
-
-Im Verschmelzungsbericht nach § 8 sind auch die Auswirkungen der
-grenzüberschreitenden Verschmelzung auf die Gläubiger und Arbeitnehmer
-der an der Verschmelzung beteiligten Gesellschaft zu erläutern. Der
-Verschmelzungsbericht ist den Anteilsinhabern sowie dem zuständigen
-Betriebsrat oder, falls es keinen Betriebsrat gibt, den Arbeitnehmern
-der an der grenzüberschreitenden Verschmelzung beteiligten
-Gesellschaft spätestens einen Monat vor der Versammlung der
-Anteilsinhaber, die nach § 13 über die Zustimmung zum
-Verschmelzungsplan beschließen soll, nach § 63 Abs. 1 Nr. 4 zugänglich
-zumachen. § 8 Abs. 3 ist nicht anzuwenden, es sei denn, an der
-Verschmelzung ist als übernehmende oder neue Gesellschaft eine
-Personenhandelsgesellschaft gemäß § 122b Absatz 1 Nummer 2 beteiligt.
-
-
-##### § 122f Verschmelzungsprüfung
-
-Der Verschmelzungsplan oder sein Entwurf ist nach den §§ 9 bis 12 zu
-prüfen; die §§ 44 und 48 sind nicht anzuwenden. Der Prüfungsbericht
-muss spätestens einen Monat vor der Versammlung der Anteilsinhaber,
-die nach § 13 über die Zustimmung zum Verschmelzungsplan beschließen
-soll, vorliegen.
-
-
-##### § 122g Zustimmung der Anteilsinhaber
-
-(1) Die Anteilsinhaber können ihre Zustimmung nach § 13 davon abhängig
-machen, dass die Art und Weise der Mitbestimmung der Arbeitnehmer der
-übernehmenden oder neuen Gesellschaft ausdrücklich von ihnen bestätigt
-wird.
-
-(2) Befinden sich alle Anteile einer übertragenden Gesellschaft in der
-Hand der übernehmenden Gesellschaft, so ist ein
-Verschmelzungsbeschluss der Anteilsinhaber der übertragenden
-Gesellschaft nicht erforderlich.
-
-
-##### § 122h Verbesserung des Umtauschverhältnisses
-
-(1) § 14 Abs. 2 und § 15 gelten für die Anteilsinhaber einer
-übertragenden Gesellschaft nur, sofern die Anteilsinhaber der an der
-grenzüberschreitenden Verschmelzung beteiligten Gesellschaften, die
-dem Recht eines anderen Mitgliedstaats der Europäischen Union oder
-eines anderen Vertragsstaats des Abkommens über den Europäischen
-Wirtschaftsraum unterliegen, dessen Rechtsvorschriften ein Verfahren
-zur Kontrolle und Änderung des Umtauschverhältnisses der Anteile nicht
-vorsehen, im Verschmelzungsbeschluss ausdrücklich zustimmen.
-
-(2) § 15 gilt auch für Anteilsinhaber einer übertragenden
-Gesellschaft, die dem Recht eines anderen Mitgliedstaats der
-Europäischen Union oder eines anderen Vertragsstaats des Abkommens
-über den Europäischen Wirtschaftsraum unterliegt, wenn nach dem Recht
-dieses Staates ein Verfahren zur Kontrolle und Änderung des
-Umtauschverhältnisses der Anteile vorgesehen ist und deutsche Gerichte
-für die Durchführung eines solchen Verfahrens international zuständig
-sind.
-
-
-##### § 122i Abfindungsangebot im Verschmelzungsplan
-
-(1) Unterliegt die übernehmende oder neue Gesellschaft nicht dem
-deutschen Recht, hat die übertragende Gesellschaft im
-Verschmelzungsplan oder in seinem Entwurf jedem Anteilsinhaber, der
-gegen den Verschmelzungsbeschluss der Gesellschaft Widerspruch zur
-Niederschrift erklärt, den Erwerb seiner Anteile gegen eine
-angemessene Barabfindung anzubieten. Die Vorschriften des
-Aktiengesetzes über den Erwerb eigener Aktien sowie des Gesetzes
-betreffend die Gesellschaften mit beschränkter Haftung über den Erwerb
-eigener Geschäftsanteile gelten entsprechend, jedoch sind § 71 Abs. 4
-Satz 2 des Aktiengesetzes und § 33 Abs. 2 Satz 3 zweiter Halbsatz
-erste Alternative des Gesetzes betreffend die Gesellschaften mit
-beschränkter Haftung insoweit nicht anzuwenden. § 29 Abs. 1 Satz 4 und
-5 sowie Abs. 2 und die §§ 30, 31 und 33 gelten entsprechend.
-
-(2) Die §§ 32 und 34 gelten für die Anteilsinhaber einer übertragenden
-Gesellschaft nur, sofern die Anteilsinhaber der an der
-grenzüberschreitenden Verschmelzung beteiligten Gesellschaften, die
-dem Recht eines anderen Mitgliedstaats der Europäischen Union oder
-eines anderen Vertragsstaats des Abkommens über den Europäischen
-Wirtschaftsraum unterliegen, dessen Rechtsvorschriften ein Verfahren
-zur Abfindung von Minderheitsgesellschaftern nicht vorsehen, im
-Verschmelzungsbeschluss ausdrücklich zustimmen. § 34 gilt auch für
-Anteilsinhaber einer übertragenden Gesellschaft, die dem Recht eines
-anderen Mitgliedstaats der Europäischen Union oder eines anderen
-Vertragsstaats des Abkommens über den Europäischen Wirtschaftsraum
-unterliegt, wenn nach dem Recht dieses Staates ein Verfahren zur
-Abfindung von Minderheitsgesellschaftern vorgesehen ist und deutsche
-Gerichte für die Durchführung eines solchen Verfahrens international
-zuständig sind.
-
-
-##### § 122j Schutz der Gläubiger der übertragenden Gesellschaft
-
-(1) Unterliegt die übernehmende oder neue Gesellschaft nicht dem
-deutschen Recht, ist den Gläubigern einer übertragenden Gesellschaft
-Sicherheit zu leisten, soweit sie nicht Befriedigung verlangen können.
-Dieses Recht steht den Gläubigern jedoch nur zu, wenn sie binnen zwei
-Monaten nach dem Tag, an dem der Verschmelzungsplan oder sein Entwurf
-bekannt gemacht worden ist, ihren Anspruch nach Grund und Höhe
-schriftlich anmelden und glaubhaft machen, dass durch die
-Verschmelzung die Erfüllung ihrer Forderung gefährdet wird.
-
-(2) Das Recht auf Sicherheitsleistung nach Absatz 1 steht Gläubigern
-nur im Hinblick auf solche Forderungen zu, die vor oder bis zu 15 Tage
-nach Bekanntmachung des Verschmelzungsplans oder seines Entwurfs
-entstanden sind.
-
-
-##### § 122k Verschmelzungsbescheinigung
-
-(1) Das Vertretungsorgan einer übertragenden Gesellschaft hat das
-Vorliegen der sie betreffenden Voraussetzungen für die
-grenzüberschreitende Verschmelzung zur Eintragung bei dem Register des
-Sitzes der Gesellschaft anzumelden. § 16 Abs. 2 und 3 und § 17 gelten
-entsprechend. Die Mitglieder des Vertretungsorgans haben eine
-Versicherung abzugeben, dass allen Gläubigern, die nach § 122j einen
-Anspruch auf Sicherheitsleistung haben, eine angemessene Sicherheit
-geleistet wurde.
-
-(2) Das Gericht prüft, ob für die Gesellschaft die Voraussetzungen für
-die grenzüberschreitende Verschmelzung vorliegen, und stellt hierüber
-unverzüglich eine Bescheinigung (Verschmelzungsbescheinigung) aus. Als
-Verschmelzungsbescheinigung gilt die Nachricht über die Eintragung der
-Verschmelzung im Register. Die Eintragung ist mit dem Vermerk zu
-versehen, dass die grenzüberschreitende Verschmelzung unter den
-Voraussetzungen des Rechts des Staates, dem die übernehmende oder neue
-Gesellschaft unterliegt, wirksam wird. Die Verschmelzungsbescheinigung
-darf nur ausgestellt werden, wenn eine Versicherung nach Absatz 1 Satz
-3 vorliegt. Ist ein Spruchverfahren anhängig, ist dies in der
-Verschmelzungsbescheinigung anzugeben.
-
-(3) Das Vertretungsorgan der Gesellschaft hat die
-Verschmelzungsbescheinigung innerhalb von sechs Monaten nach ihrer
-Ausstellung zusammen mit dem Verschmelzungsplan der zuständigen Stelle
-des Staates vorzulegen, dessen Recht die übernehmende oder neue
-Gesellschaft unterliegt.
-
-(4) Nach Eingang einer Mitteilung des Registers, in dem die
-übernehmende oder neue Gesellschaft eingetragen ist, über das
-Wirksamwerden der Verschmelzung hat das Gericht des Sitzes der
-übertragenden Gesellschaft den Tag des Wirksamwerdens zu vermerken und
-die bei ihm aufbewahrten elektronischen Dokumente diesem Register zu
-übermitteln.
-
-
-##### § 122l Eintragung der grenzüberschreitenden Verschmelzung
-
-(1) Bei einer Verschmelzung durch Aufnahme hat das Vertretungsorgan
-der übernehmenden Gesellschaft die Verschmelzung und bei einer
-Verschmelzung durch Neugründung haben die Vertretungsorgane der
-übertragenden Gesellschaften die neue Gesellschaft zur Eintragung in
-das Register des Sitzes der Gesellschaft anzumelden. Der Anmeldung
-sind die Verschmelzungsbescheinigungen aller übertragenden
-Gesellschaften, der gemeinsame Verschmelzungsplan und gegebenenfalls
-die Vereinbarung über die Beteiligung der Arbeitnehmer beizufügen. Die
-Verschmelzungsbescheinigungen dürfen nicht älter als sechs Monate
-sein; § 16 Abs. 2 und 3 und § 17 finden auf die übertragenden
-Gesellschaften keine Anwendung.
-
-(2) Die Prüfung der Eintragungsvoraussetzungen erstreckt sich
-insbesondere darauf, ob die Anteilsinhaber aller an der
-grenzüberschreitenden Verschmelzung beteiligten Gesellschaften einem
-gemeinsamen, gleichlautenden Verschmelzungsplan zugestimmt haben und
-ob gegebenenfalls eine Vereinbarung über die Beteiligung der
-Arbeitnehmer geschlossen worden ist.
-
-(3) Das Gericht des Sitzes der übernehmenden oder neuen Gesellschaft
-hat den Tag der Eintragung der Verschmelzung von Amts wegen jedem
-Register mitzuteilen, bei dem eine der übertragenden Gesellschaften
-ihre Unterlagen zu hinterlegen hatte.
-
-
-##### § 122m Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union
-
-Unterliegt die übernehmende oder die neue Gesellschaft dem deutschen
-Recht, gilt als grenzüberschreitende Verschmelzung im Sinne dieses
-Abschnitts auch eine solche, an der eine übertragende Gesellschaft
-beteiligt ist, die dem Recht des Vereinigten Königreichs
-Großbritannien und Nordirland (Vereinigtes Königreich) unterliegt,
-sofern der Verschmelzungsplan nach § 122c Absatz 4 vor dem Ausscheiden
-des Vereinigten Königreichs aus der Europäischen Union oder vor dem
-Ablauf eines Übergangszeitraums, innerhalb dessen das Vereinigte
-Königreich in der Bundesrepublik Deutschland weiterhin als
-Mitgliedstaat der Europäischen Union gilt, notariell beurkundet worden
-ist, und die Verschmelzung unverzüglich, spätestens aber zwei Jahre
-nach diesem Zeitpunkt mit den erforderlichen Unterlagen zur
-Registereintragung angemeldet wird.
-
-
 ## Drittes Buch - Spaltung
-
 
 
 ### Erster Teil - Allgemeine Vorschriften
 
 
-
 #### Erster Abschnitt - Möglichkeit der Spaltung
-
 
 
 ##### § 123 Arten der Spaltung
@@ -2794,12 +2475,9 @@ ohne Abwicklung sein Vermögen aufspalten
     jeweils als Gesamtheit auf andere bestehende Rechtsträger
     (übernehmende Rechtsträger) oder
 
-
 2.  zur Neugründung durch gleichzeitige Übertragung der Vermögensteile
     jeweils als Gesamtheit auf andere, von ihm dadurch gegründete neue
     Rechtsträger
-
-
 
 gegen Gewährung von Anteilen oder Mitgliedschaften dieser Rechtsträger
 an die Anteilsinhaber des übertragenden Rechtsträgers (Aufspaltung).
@@ -2807,16 +2485,13 @@ an die Anteilsinhaber des übertragenden Rechtsträgers (Aufspaltung).
 (2) Ein Rechtsträger (übertragender Rechtsträger) kann von seinem
 Vermögen einen Teil oder mehrere Teile abspalten
 
-1.  zur Aufnahme durch Übertragung dieses Teils oder dieser Teile jeweils
-    als Gesamtheit auf einen bestehenden oder mehrere bestehende
+1.  zur Aufnahme durch Übertragung dieses Teils oder dieser Teile
+    jeweils als Gesamtheit auf einen bestehenden oder mehrere bestehende
     Rechtsträger (übernehmende Rechtsträger) oder
-
 
 2.  zur Neugründung durch Übertragung dieses Teils oder dieser Teile
     jeweils als Gesamtheit auf einen oder mehrere, von ihm dadurch
     gegründeten neuen oder gegründete neue Rechtsträger
-
-
 
 gegen Gewährung von Anteilen oder Mitgliedschaften dieses
 Rechtsträgers oder dieser Rechtsträger an die Anteilsinhaber des
@@ -2825,16 +2500,13 @@ Rechtsträgers oder dieser Rechtsträger an die Anteilsinhaber des
 (3) Ein Rechtsträger (übertragender Rechtsträger) kann aus seinem
 Vermögen einen Teil oder mehrere Teile ausgliedern
 
-1.  zur Aufnahme durch Übertragung dieses Teils oder dieser Teile jeweils
-    als Gesamtheit auf einen bestehenden oder mehrere bestehende
+1.  zur Aufnahme durch Übertragung dieses Teils oder dieser Teile
+    jeweils als Gesamtheit auf einen bestehenden oder mehrere bestehende
     Rechtsträger (übernehmende Rechtsträger) oder
-
 
 2.  zur Neugründung durch Übertragung dieses Teils oder dieser Teile
     jeweils als Gesamtheit auf einen oder mehrere, von ihm dadurch
     gegründeten neuen oder gegründete neue Rechtsträger
-
-
 
 gegen Gewährung von Anteilen oder Mitgliedschaften dieses
 Rechtsträgers oder dieser Rechtsträger an den übertragenden
@@ -2847,11 +2519,11 @@ bestehende und neue Rechtsträger erfolgen.
 ##### § 124 Spaltungsfähige Rechtsträger
 
 (1) An einer Aufspaltung oder einer Abspaltung können als
-übertragende, übernehmende oder neue Rechtsträger die in § 3 Abs. 1
-genannten Rechtsträger sowie als übertragende Rechtsträger
+übertragende, übernehmende oder neue Rechtsträger die in § 3
+Abs. 1 genannten Rechtsträger sowie als übertragende Rechtsträger
 wirtschaftliche Vereine, an einer Ausgliederung können als
-übertragende, übernehmende oder neue Rechtsträger die in § 3 Abs. 1
-genannten Rechtsträger sowie als übertragende Rechtsträger
+übertragende, übernehmende oder neue Rechtsträger die in § 3
+Abs. 1 genannten Rechtsträger sowie als übertragende Rechtsträger
 wirtschaftliche Vereine, Einzelkaufleute, Stiftungen sowie
 Gebietskörperschaften oder Zusammenschlüsse von Gebietskörperschaften,
 die nicht Gebietskörperschaften sind, beteiligt sein.
@@ -2861,21 +2533,33 @@ die nicht Gebietskörperschaften sind, beteiligt sein.
 
 ##### § 125 Anzuwendende Vorschriften
 
-Auf die Spaltung sind die Vorschriften des Ersten Teils und des Ersten
-bis Neunten Abschnitts des Zweiten Teils des Zweiten Buches mit
-Ausnahme des § 9 Absatz 2 und des § 62 Absatz 5, bei Abspaltung und
-Ausgliederung mit Ausnahme des § 18 sowie bei Ausgliederung mit
-Ausnahme des § 14 Abs. 2 und der §§ 15, 29 bis 34, 54, 68 und 71
-entsprechend anzuwenden, soweit sich aus diesem Buch nichts anderes
-ergibt. Eine Prüfung im Sinne der §§ 9 bis 12 findet bei Ausgliederung
-nicht statt. An die Stelle der übertragenden Rechtsträger tritt der
+(1) Soweit sich aus diesem Buch nichts anderes ergibt, sind die
+Vorschriften des Zweiten Buches auf die Spaltung mit folgenden
+Ausnahmen entsprechend anzuwenden:
+
+1.  mit Ausnahme des § 62 Absatz 5,
+
+2.  bei Aufspaltung mit Ausnahme der § 9 Absatz 2 und § 12 Absatz 3
+    jeweils in Verbindung mit § 8 Absatz 3 Satz 3 Nummer 1 Buchstabe a,
+
+3.  bei Abspaltung und Ausgliederung mit Ausnahme des § 18,
+
+4.  bei Ausgliederung mit Ausnahme der §§ 29 bis 34, des § 54 Absatz
+    1 Satz 1, des § 68 Absatz 1 Satz 1 und des § 71 und für die
+    Anteilsinhaber des übertragenden Rechtsträgers mit Ausnahme des § 14
+    Absatz 2 und des § 15.
+
+Eine Prüfung im Sinne der §§ 9 bis 12 findet bei Ausgliederung nicht
+statt. Bei Abspaltung ist § 133 für die Verbindlichkeit nach § 29
+anzuwenden.
+
+(2) An die Stelle der übertragenden Rechtsträger tritt der
 übertragende Rechtsträger, an die Stelle des übernehmenden oder neuen
 Rechtsträgers treten gegebenenfalls die übernehmenden oder neuen
 Rechtsträger.
 
 
 #### Zweiter Abschnitt - Spaltung zur Aufnahme
-
 
 
 ##### § 126 Inhalt des Spaltungs- und Übernahmevertrags
@@ -2886,75 +2570,62 @@ mindestens folgende Angaben enthalten:
 1.  den Namen oder die Firma und den Sitz der an der Spaltung beteiligten
     Rechtsträger;
 
-
 2.  die Vereinbarung über die Übertragung der Teile des Vermögens des
     übertragenden Rechtsträgers jeweils als Gesamtheit gegen Gewährung von
     Anteilen oder Mitgliedschaften an den übernehmenden Rechtsträgern;
 
-
-3.  bei Aufspaltung und Abspaltung das Umtauschverhältnis der Anteile und
-    gegebenenfalls die Höhe der baren Zuzahlung oder Angaben über die
+3.  bei Aufspaltung und Abspaltung das Umtauschverhältnis der Anteile
+    und gegebenenfalls die Höhe der baren Zuzahlung oder Angaben über die
     Mitgliedschaft bei den übernehmenden Rechtsträgern;
-
 
 4.  bei Aufspaltung und Abspaltung die Einzelheiten für die Übertragung
     der Anteile der übernehmenden Rechtsträger oder über den Erwerb der
     Mitgliedschaft bei den übernehmenden Rechtsträgern;
 
-
-5.  den Zeitpunkt, von dem an diese Anteile oder die Mitgliedschaft einen
-    Anspruch auf einen Anteil am Bilanzgewinn gewähren, sowie alle
+5.  den Zeitpunkt, von dem an diese Anteile oder die Mitgliedschaft
+    einen Anspruch auf einen Anteil am Bilanzgewinn gewähren, sowie alle
     Besonderheiten in bezug auf diesen Anspruch;
-
 
 6.  den Zeitpunkt, von dem an die Handlungen des übertragenden
     Rechtsträgers als für Rechnung jedes der übernehmenden Rechtsträger
     vorgenommen gelten (Spaltungsstichtag);
 
-
 7.  die Rechte, welche die übernehmenden Rechtsträger einzelnen
-    Anteilsinhabern sowie den Inhabern besonderer Rechte wie Anteile ohne
-    Stimmrecht, Vorzugsaktien, Mehrstimmrechtsaktien,
+    Anteilsinhabern sowie den Inhabern besonderer Rechte wie
+    Anteile ohne Stimmrecht, Vorzugsaktien, Mehrstimmrechtsaktien,
     Schuldverschreibungen und Genußrechte gewähren, oder die für diese
     Personen vorgesehenen Maßnahmen;
-
 
 8.  jeden besonderen Vorteil, der einem Mitglied eines Vertretungsorgans
     oder eines Aufsichtsorgans der an der Spaltung beteiligten
     Rechtsträger, einem geschäftsführenden Gesellschafter, einem Partner,
     einem Abschlußprüfer oder einem Spaltungsprüfer gewährt wird;
 
-
-9.  die genaue Bezeichnung und Aufteilung der Gegenstände des Aktiv- und
-    Passivvermögens, die an jeden der übernehmenden Rechtsträger
+9.  die genaue Bezeichnung und Aufteilung der Gegenstände des Aktiv-
+    und Passivvermögens, die an jeden der übernehmenden Rechtsträger
     übertragen werden, sowie der übergehenden Betriebe und Betriebsteile
     unter Zuordnung zu den übernehmenden Rechtsträgern;
-
 
 10. bei Aufspaltung und Abspaltung die Aufteilung der Anteile oder
     Mitgliedschaften jedes der beteiligten Rechtsträger auf die
     Anteilsinhaber des übertragenden Rechtsträgers sowie den Maßstab für
     die Aufteilung;
 
-
 11. die Folgen der Spaltung für die Arbeitnehmer und ihre Vertretungen
     sowie die insoweit vorgesehenen Maßnahmen.
-
-
-
 
 (2) Soweit für die Übertragung von Gegenständen im Falle der
 Einzelrechtsnachfolge in den allgemeinen Vorschriften eine besondere
 Art der Bezeichnung bestimmt ist, sind diese Regelungen auch für die
-Bezeichnung der Gegenstände des Aktiv- und Passivvermögens (Absatz 1
-Nr. 9) anzuwenden. § 28 der Grundbuchordnung ist zu beachten. Im
+Bezeichnung der Gegenstände des Aktiv- und Passivvermögens (Absatz
+1 Nr. 9) anzuwenden. § 28 der Grundbuchordnung ist zu beachten. Im
 übrigen kann auf Urkunden wie Bilanzen und Inventare Bezug genommen
 werden, deren Inhalt eine Zuweisung des einzelnen Gegenstandes
 ermöglicht; die Urkunden sind dem Spaltungs- und Übernahmevertrag als
 Anlagen beizufügen.
 
-(3) Der Vertrag oder sein Entwurf ist spätestens einen Monat vor dem
-Tag der Versammlung der Anteilsinhaber jedes beteiligten
+(3) Der Vertrag oder sein Entwurf ist spätestens einen Monat
+vor dem Tag der Versammlung der Anteilsinhaber jedes beteiligten
 Rechtsträgers, die gemäß § 125 in Verbindung mit § 13 Abs. 1 über die
 Zustimmung zum Spaltungs- und Übernahmevertrag beschließen soll, dem
 zuständigen Betriebsrat dieses Rechtsträgers zuzuleiten.
@@ -2964,24 +2635,26 @@ zuständigen Betriebsrat dieses Rechtsträgers zuzuleiten.
 
 Die Vertretungsorgane jedes der an der Spaltung beteiligten
 Rechtsträger haben einen ausführlichen schriftlichen Bericht zu
-erstatten, in dem die Spaltung, der Vertrag oder sein Entwurf im
-einzelnen und bei Aufspaltung und Abspaltung insbesondere das
-Umtauschverhältnis der Anteile oder die Angaben über die
-Mitgliedschaften bei den übernehmenden Rechtsträgern, der Maßstab für
-ihre Aufteilung sowie die Höhe einer anzubietenden Barabfindung
-rechtlich und wirtschaftlich erläutert und begründet werden
-(Spaltungsbericht); der Bericht kann von den Vertretungsorganen auch
-gemeinsam erstattet werden. § 8 Abs. 1 Satz 2 bis 4, Abs. 2 und 3 ist
-entsprechend anzuwenden.
+erstatten, in dem die Spaltung, der Vertrag oder sein Entwurf
+im einzelnen und bei Aufspaltung und Abspaltung insbesondere das
+Umtauschverhältnis der Anteile und die bei seiner Ermittlung gewählten
+Bewertungsmethoden oder die Angaben über die Mitgliedschaften bei den
+übernehmenden Rechtsträgern, der Maßstab für ihre Aufteilung sowie
+die Höhe einer anzubietenden Barabfindung und die zu ihrer Ermittlung
+gewählten Bewertungsmethoden rechtlich und wirtschaftlich erläutert
+und begründet werden (Spaltungsbericht); der Bericht kann von den
+Vertretungsorganen auch gemeinsam erstattet werden. § 8 Absatz 1 Satz
+3 bis 5, Absatz 2 und 3 ist entsprechend anzuwenden; bei Aufspaltung
+ist § 8 Absatz 3 Satz 3 Nummer 1 Buchstabe a nicht anzuwenden.
 
 
 ##### § 128 Zustimmung zur Spaltung in Sonderfällen
 
 Werden bei Aufspaltung oder Abspaltung die Anteile oder
 Mitgliedschaften der übernehmenden Rechtsträger den Anteilsinhabern
-des übertragenden Rechtsträgers nicht in dem Verhältnis zugeteilt, das
-ihrer Beteiligung an dem übertragenden Rechtsträger entspricht, so
-wird der Spaltungs- und Übernahmevertrag nur wirksam, wenn ihm alle
+des übertragenden Rechtsträgers nicht in dem Verhältnis zugeteilt,
+das ihrer Beteiligung an dem übertragenden Rechtsträger entspricht,
+so wird der Spaltungs- und Übernahmevertrag nur wirksam, wenn ihm alle
 Anteilsinhaber des übertragenden Rechtsträgers zustimmen. Bei einer
 Spaltung zur Aufnahme ist der Berechnung des Beteiligungsverhältnisses
 der jeweils zu übertragende Teil des Vermögens zugrunde zu legen.
@@ -2996,11 +2669,11 @@ Zur Anmeldung der Spaltung ist auch das Vertretungsorgan jedes der
 ##### § 130 Eintragung der Spaltung
 
 (1) Die Spaltung darf in das Register des Sitzes des übertragenden
-Rechtsträgers erst eingetragen werden, nachdem sie im Register des
-Sitzes jedes der übernehmenden Rechtsträger eingetragen worden ist.
-Die Eintragung im Register des Sitzes jedes der übernehmenden
-Rechtsträger ist mit dem Vermerk zu versehen, daß die Spaltung erst
-mit der Eintragung im Register des Sitzes des übertragenden
+Rechtsträgers erst eingetragen werden, nachdem sie im Register
+des Sitzes jedes der übernehmenden Rechtsträger eingetragen worden
+ist. Die Eintragung im Register des Sitzes jedes der übernehmenden
+Rechtsträger ist mit dem Vermerk zu versehen, daß die Spaltung
+erst mit der Eintragung im Register des Sitzes des übertragenden
 Rechtsträgers wirksam wird, sofern die Eintragungen in den Registern
 aller beteiligten Rechtsträger nicht am selben Tag erfolgen.
 
@@ -3027,40 +2700,34 @@ des übertragenden Rechtsträgers zu vermerken.
     Übernahmevertrag vorgesehenen Aufteilung jeweils als Gesamtheit auf
     die übernehmenden Rechtsträger über.
 
-
 2.  Bei der Aufspaltung erlischt der übertragende Rechtsträger. Einer
     besonderen Löschung bedarf es nicht.
-
 
 3.  Bei Aufspaltung und Abspaltung werden die Anteilsinhaber des
     übertragenden Rechtsträgers entsprechend der im Spaltungs- und
     Übernahmevertrag vorgesehenen Aufteilung Anteilsinhaber der
     beteiligten Rechtsträger; dies gilt nicht, soweit der übernehmende
-    Rechtsträger oder ein Dritter, der im eigenen Namen, jedoch für
-    Rechnung dieses Rechtsträgers handelt, Anteilsinhaber des
+    Rechtsträger oder ein Dritter, der im eigenen Namen, jedoch
+    für Rechnung dieses Rechtsträgers handelt, Anteilsinhaber des
     übertragenden Rechtsträgers ist oder der übertragende Rechtsträger
     eigene Anteile innehat oder ein Dritter, der im eigenen Namen, jedoch
     für Rechnung dieses Rechtsträgers handelt, dessen Anteilsinhaber ist.
     Rechte Dritter an den Anteilen oder Mitgliedschaften des übertragenden
-    Rechtsträgers bestehen an den an ihre Stelle tretenden Anteilen oder
-    Mitgliedschaften der übernehmenden Rechtsträger weiter. Bei
+    Rechtsträgers bestehen an den an ihre Stelle tretenden Anteilen
+    oder Mitgliedschaften der übernehmenden Rechtsträger weiter. Bei
     Ausgliederung wird der übertragende Rechtsträger entsprechend dem
     Ausgliederungs- und Übernahmevertrag Anteilsinhaber der übernehmenden
     Rechtsträger.
-
 
 4.  Der Mangel der notariellen Beurkundung des Spaltungs- und
     Übernahmevertrags und gegebenenfalls erforderlicher Zustimmungs- oder
     Verzichtserklärungen einzelner Anteilsinhaber wird geheilt.
 
-
-
-
 (2) Mängel der Spaltung lassen die Wirkungen der Eintragung nach
 Absatz 1 unberührt.
 
-(3) Ist bei einer Aufspaltung ein Gegenstand im Vertrag keinem der
-übernehmenden Rechtsträger zugeteilt worden und läßt sich die
+(3) Ist bei einer Aufspaltung ein Gegenstand im Vertrag keinem
+der übernehmenden Rechtsträger zugeteilt worden und läßt sich die
 Zuteilung auch nicht durch Auslegung des Vertrags ermitteln, so geht
 der Gegenstand auf alle übernehmenden Rechtsträger in dem Verhältnis
 über, das sich aus dem Vertrag für die Aufteilung des Überschusses der
@@ -3069,9 +2736,37 @@ Zuteilung des Gegenstandes an mehrere Rechtsträger nicht möglich, so
 ist sein Gegenwert in dem bezeichneten Verhältnis zu verteilen.
 
 
-##### § 132 (weggefallen)
+##### § 132 Kündigungsschutzrecht
 
--
+(1) Führen an einer Spaltung beteiligte Rechtsträger nach dem
+Wirksamwerden der Spaltung einen Betrieb gemeinsam, so gilt dieser als
+Betrieb im Sinne des Kündigungsschutzrechts.
+
+(2) Die kündigungsrechtliche Stellung eines Arbeitnehmers, der vor
+dem Wirksamwerden einer Spaltung zu dem übertragenden Rechtsträger
+in einem Arbeitsverhältnis steht, verschlechtert sich auf Grund
+der Spaltung für die Dauer von zwei Jahren ab dem Zeitpunkt ihres
+Wirksamwerdens nicht.
+
+
+##### § 132a Mitbestimmungsbeibehaltung
+
+(1) Entfallen durch Abspaltung oder Ausgliederung bei einem
+übertragenden Rechtsträger die gesetzlichen Voraussetzungen für die
+Beteiligung der Arbeitnehmer im Aufsichtsrat, so sind die vor der
+Spaltung geltenden Vorschriften noch für einen Zeitraum von fünf
+Jahren nach dem Wirksamwerden der Abspaltung oder Ausgliederung
+anzuwenden. Dies gilt nicht, wenn die betreffenden Vorschriften eine
+Mindestzahl von Arbeitnehmern voraussetzen und die danach berechnete
+Zahl der Arbeitnehmer des übertragenden Rechtsträgers auf weniger als
+in der Regel ein Viertel dieser Mindestzahl sinkt.
+
+(2) Hat die Spaltung eines Rechtsträgers die Spaltung eines Betriebes
+zur Folge und entfallen für die aus der Spaltung hervorgegangenen
+Betriebe Rechte oder Beteiligungsrechte des Betriebsrats, so kann
+durch Betriebsvereinbarung oder Tarifvertrag die Fortgeltung dieser
+Rechte oder Beteiligungsrechte vereinbart werden. Die §§ 9 und 27 des
+Betriebsverfassungsgesetzes bleiben unberührt.
 
 
 ##### § 133 Schutz der Gläubiger und der Inhaber von Sonderrechten
@@ -3084,23 +2779,26 @@ bleiben unberührt; zur Sicherheitsleistung ist nur der an der Spaltung
 beteiligte Rechtsträger verpflichtet, gegen den sich der Anspruch
 richtet.
 
-(2) Für die Erfüllung der Verpflichtung nach § 125 in Verbindung mit §
-23 haften die an der Spaltung beteiligten Rechtsträger als
-Gesamtschuldner. Bei Abspaltung und Ausgliederung können die
+(2) Für die Erfüllung der Verpflichtung nach § 125 in Verbindung
+mit § 23 haften die an der Spaltung beteiligten Rechtsträger
+als Gesamtschuldner. Bei Abspaltung und Ausgliederung können die
 gleichwertigen Rechte im Sinne des § 125 in Verbindung mit § 23 auch
 in dem übertragenden Rechtsträger gewährt werden.
 
-(3) Diejenigen Rechtsträger, denen die Verbindlichkeiten nach Absatz 1
-Satz 1 im Spaltungs- und Übernahmevertrag nicht zugewiesen worden
-sind, haften für diese Verbindlichkeiten, wenn sie vor Ablauf von fünf
-Jahren nach der Spaltung fällig und daraus Ansprüche gegen sie in
-einer in § 197 Abs. 1 Nr. 3 bis 5 des Bürgerlichen Gesetzbuchs
+(3) Diejenigen Rechtsträger, denen die Verbindlichkeiten nach Absatz
+1 Satz 1 im Spaltungs- und Übernahmevertrag nicht zugewiesen worden
+sind, haften für diese Verbindlichkeiten, wenn sie vor Ablauf von
+fünf Jahren nach der Spaltung fällig und daraus Ansprüche gegen sie
+in einer in § 197 Abs. 1 Nr. 3 bis 5 des Bürgerlichen Gesetzbuchs
 bezeichneten Art festgestellt sind oder eine gerichtliche oder
 behördliche Vollstreckungshandlung vorgenommen oder beantragt wird;
 bei öffentlich-rechtlichen Verbindlichkeiten genügt der Erlass eines
-Verwaltungsakts. Für vor dem Wirksamwerden der Spaltung begründete
-Versorgungsverpflichtungen auf Grund des Betriebsrentengesetzes
-beträgt die in Satz 1 genannte Frist zehn Jahre.
+Verwaltungsakts. Die Haftung der in Satz 1 bezeichneten Rechtsträger
+ist beschränkt auf den Wert des ihnen am Tag des Wirksamwerdens
+zugeteilten Nettoaktivvermögens. Für vor dem Wirksamwerden der
+Spaltung begründete Versorgungsverpflichtungen auf Grund des
+Betriebsrentengesetzes beträgt die in Satz 1 genannte Frist zehn
+Jahre.
 
 (4) Die Frist beginnt mit dem Tage, an dem die Eintragung der Spaltung
 in das Register des Sitzes des übertragenden Rechtsträgers nach § 125
@@ -3109,8 +2807,8 @@ Verjährung geltenden §§ 204, 206, 210, 211 und 212 Abs. 2 und 3 des
 Bürgerlichen Gesetzbuchs sind entsprechend anzuwenden.
 
 (5) Einer Feststellung in einer in § 197 Abs. 1 Nr. 3 bis 5 des
-Bürgerlichen Gesetzbuchs bezeichneten Art bedarf es nicht, soweit die
-in Absatz 3 bezeichneten Rechtsträger den Anspruch schriftlich
+Bürgerlichen Gesetzbuchs bezeichneten Art bedarf es nicht, soweit
+die in Absatz 3 bezeichneten Rechtsträger den Anspruch schriftlich
 anerkannt haben.
 
 (6) Die Ansprüche nach Absatz 2 verjähren in fünf Jahren. Für den
@@ -3120,18 +2818,18 @@ Beginn der Verjährung gilt Absatz 4 Satz 1 entsprechend.
 ##### § 134 Schutz der Gläubiger in besonderen Fällen
 
 (1) Spaltet ein Rechtsträger sein Vermögen in der Weise, daß die zur
-Führung eines Betriebes notwendigen Vermögensteile im wesentlichen auf
-einen übernehmenden oder mehrere übernehmende oder auf einen neuen
+Führung eines Betriebes notwendigen Vermögensteile im wesentlichen
+auf einen übernehmenden oder mehrere übernehmende oder auf einen neuen
 oder mehrere neue Rechtsträger übertragen werden und die Tätigkeit
 dieses Rechtsträgers oder dieser Rechtsträger sich im wesentlichen auf
 die Verwaltung dieser Vermögensteile beschränkt (Anlagegesellschaft),
-während dem übertragenden Rechtsträger diese Vermögensteile bei der
-Führung seines Betriebes zur Nutzung überlassen werden
+während dem übertragenden Rechtsträger diese Vermögensteile
+bei der Führung seines Betriebes zur Nutzung überlassen werden
 (Betriebsgesellschaft), und sind an den an der Spaltung beteiligten
 Rechtsträgern im wesentlichen dieselben Personen beteiligt, so haftet
-die Anlagegesellschaft auch für die Forderungen der Arbeitnehmer der
-Betriebsgesellschaft als Gesamtschuldner, die binnen fünf Jahren nach
-dem Wirksamwerden der Spaltung auf Grund der §§ 111 bis 113 des
+die Anlagegesellschaft auch für die Forderungen der Arbeitnehmer
+der Betriebsgesellschaft als Gesamtschuldner, die binnen fünf Jahren
+nach dem Wirksamwerden der Spaltung auf Grund der §§ 111 bis 113 des
 Betriebsverfassungsgesetzes begründet werden. Dies gilt auch dann,
 wenn die Vermögensteile bei dem übertragenden Rechtsträger verbleiben
 und dem übernehmenden oder neuen Rechtsträger oder den übernehmenden
@@ -3141,8 +2839,8 @@ oder neuen Rechtsträgern zur Nutzung überlassen werden.
 dem Wirksamwerden der Spaltung begründete Versorgungsverpflichtungen
 auf Grund des Betriebsrentengesetzes.
 
-(3) Für die Ansprüche gegen die Anlagegesellschaft nach den Absätzen 1
-und 2 gilt § 133 Abs. 3 Satz 1, Abs. 4 und 5 entsprechend mit der
+(3) Für die Ansprüche gegen die Anlagegesellschaft nach den Absätzen
+1 und 2 gilt § 133 Abs. 3 Satz 1, Abs. 4 und 5 entsprechend mit der
 Maßgabe, daß die Frist fünf Jahre nach dem in § 133 Abs. 4 Satz 1
 bezeichneten Tage beginnt.
 
@@ -3150,12 +2848,11 @@ bezeichneten Tage beginnt.
 #### Dritter Abschnitt - Spaltung zur Neugründung
 
 
-
 ##### § 135 Anzuwendende Vorschriften
 
-(1) Auf die Spaltung eines Rechtsträgers zur Neugründung sind die
-Vorschriften des Zweiten Abschnitts entsprechend anzuwenden, jedoch
-mit Ausnahme der §§ 129 und 130 Abs. 2 sowie der nach § 125
+(1) Auf die Spaltung eines Rechtsträgers zur Neugründung sind
+die Vorschriften des Zweiten Abschnitts entsprechend anzuwenden,
+jedoch mit Ausnahme der §§ 129 und 130 Abs. 2 sowie der nach § 125
 entsprechend anzuwendenden §§ 4, 7 und 16 Abs. 1 und des § 27. An die
 Stelle der übernehmenden Rechtsträger treten die neuen Rechtsträger,
 an die Stelle der Eintragung der Spaltung im Register des Sitzes jeder
@@ -3165,9 +2862,12 @@ Rechtsträger in das Register.
 (2) Auf die Gründung der neuen Rechtsträger sind die für die jeweilige
 Rechtsform des neuen Rechtsträgers geltenden Gründungsvorschriften
 anzuwenden, soweit sich aus diesem Buch nichts anderes ergibt. Den
-Gründern steht der übertragende Rechtsträger gleich. Vorschriften, die
-für die Gründung eine Mindestzahl der Gründer vorschreiben, sind nicht
-anzuwenden.
+Gründern steht der übertragende Rechtsträger gleich. Vorschriften,
+die für die Gründung eine Mindestzahl der Gründer vorschreiben, sind
+nicht anzuwenden.
+
+(3) Bei einer Ausgliederung zur Neugründung ist ein Spaltungsbericht
+nicht erforderlich.
 
 
 ##### § 136 Spaltungsplan
@@ -3198,16 +2898,13 @@ und den Gesellschaftsvertrag, den Partnerschaftsvertrag oder die
 Satzung des übertragenden Rechtsträgers in Abschrift, als Ausdruck
 oder elektronisch zu übermitteln. Der Zeitpunkt der Eintragung der
 Spaltung ist in den Registern des Sitzes jedes der neuen Rechtsträger
-von Amts wegen einzutragen; gesetzlich vorgesehene Bekanntmachungen
-über die Eintragung der neuen Rechtsträger sind erst danach zulässig.
+von Amts wegen einzutragen.
 
 
 ### Zweiter Teil - Besondere Vorschriften
 
 
-
 #### Erster Abschnitt - Spaltung unter Beteiligung von Gesellschaften mit beschränkter Haftung
-
 
 
 ##### § 138 Sachgründungsbericht
@@ -3240,7 +2937,6 @@ vorliegen.
 #### Zweiter Abschnitt - Spaltung unter Beteiligung von Aktiengesellschaften und Kommanditgesellschaften auf Aktien
 
 
-
 ##### § 141 Ausschluss der Spaltung
 
 Eine Aktiengesellschaft oder eine Kommanditgesellschaft auf Aktien,
@@ -3252,21 +2948,33 @@ durch Ausgliederung zur Neugründung nicht gespalten werden.
 
 (1) § 69 ist mit der Maßgabe anzuwenden, daß eine Prüfung der
 Sacheinlage nach § 183 Abs. 3 des Aktiengesetzes stets stattzufinden
-hat.
+hat; § 183a des Aktiengesetzes ist anzuwenden.
 
-(2) In dem Spaltungsbericht ist gegebenenfalls auf den Bericht über
-die Prüfung von Sacheinlagen bei einer übernehmenden
+(2) In dem Spaltungsbericht ist gegebenenfalls auf den Bericht
+über die Prüfung von Sacheinlagen bei einer übernehmenden
 Aktiengesellschaft nach § 183 Abs. 3 des Aktiengesetzes sowie auf das
 Register, bei dem dieser Bericht zu hinterlegen ist, hinzuweisen.
+
+
+##### § 142a Verpflichtungen nach § 72a
+
+Verpflichtungen des übertragenden Rechtsträgers zur Gewährung
+zusätzlicher Aktien gemäß § 72a Absatz 1 Satz 1 und Absatz 2 Satz 1
+gehen ungeachtet ihrer Zuweisung im Spaltungs- und Übernahmevertrag
+oder im Spaltungsplan entsprechend der Aufteilung der Anteile der
+anspruchsberechtigten Aktionäre gemäß § 126 Absatz 1 Nummer 10,
+auch in Verbindung mit § 135 Absatz 1 und § 136 Satz 2, ganz oder
+teilweise auf die übernehmende oder neue Aktiengesellschaft oder
+Kommanditgesellschaft auf Aktien über.
 
 
 ##### § 143 Verhältniswahrende Spaltung zur Neugründung
 
 Erfolgt die Gewährung von Aktien an der neu gegründeten
-Aktiengesellschaft oder an den neu gegründeten Aktiengesellschaften (§
-123 Absatz 1 Nummer 2, Absatz 2 Nummer 2) im Verhältnis zur
-Beteiligung der Aktionäre an der übertragenden Aktiengesellschaft, so
-sind die §§ 8 bis 12 sowie 63 Absatz 1 Nummer 3 bis 5 nicht
+Aktiengesellschaft oder an den neu gegründeten Aktiengesellschaften
+(§ 123 Absatz 1 Nummer 2, Absatz 2 Nummer 2) im Verhältnis zur
+Beteiligung der Aktionäre an der übertragenden Aktiengesellschaft,
+so sind die §§ 8 bis 12 sowie 63 Absatz 1 Nummer 3 bis 5 nicht
 anzuwenden.
 
 
@@ -3281,8 +2989,8 @@ erforderlich.
 
 Ist zur Durchführung der Abspaltung oder der Ausgliederung eine
 Herabsetzung des Grundkapitals einer übertragenden Aktiengesellschaft
-oder Kommanditgesellschaft auf Aktien erforderlich, so kann diese auch
-in vereinfachter Form vorgenommen werden. Wird das Grundkapital
+oder Kommanditgesellschaft auf Aktien erforderlich, so kann diese
+auch in vereinfachter Form vorgenommen werden. Wird das Grundkapital
 herabgesetzt, so darf die Abspaltung oder die Ausgliederung erst
 eingetragen werden, nachdem die Durchführung der Herabsetzung des
 Grundkapitals im Register eingetragen worden ist.
@@ -3290,12 +2998,12 @@ Grundkapitals im Register eingetragen worden ist.
 
 ##### § 146 Anmeldung der Abspaltung oder der Ausgliederung
 
-(1) Bei der Anmeldung der Abspaltung oder der Ausgliederung zur
-Eintragung in das Register des Sitzes einer übertragenden
+(1) Bei der Anmeldung der Abspaltung oder der Ausgliederung
+zur Eintragung in das Register des Sitzes einer übertragenden
 Aktiengesellschaft hat deren Vorstand oder einer Kommanditgesellschaft
 auf Aktien haben deren zu ihrer Vertretung ermächtigte persönlich
-haftende Gesellschafter auch zu erklären, daß die durch Gesetz und
-Satzung vorgesehenen Voraussetzungen für die Gründung dieser
+haftende Gesellschafter auch zu erklären, daß die durch Gesetz
+und Satzung vorgesehenen Voraussetzungen für die Gründung dieser
 Gesellschaft unter Berücksichtigung der Abspaltung oder der
 Ausgliederung im Zeitpunkt der Anmeldung vorliegen.
 
@@ -3304,30 +3012,25 @@ sonst erforderlichen Unterlagen auch beizufügen:
 
 1.  der Spaltungsbericht nach § 127;
 
-
 2.  bei Abspaltung der Prüfungsbericht nach § 125 in Verbindung mit § 12.
-
-
-
 
 
 #### Dritter Abschnitt - Spaltung unter Beteiligung eingetragener Genossenschaften
 
 
-
 ##### § 147 Möglichkeit der Spaltung
 
-Die Spaltung eines Rechtsträgers anderer Rechtsform zur Aufnahme von
-Teilen seines Vermögens durch eine eingetragene Genossenschaft kann
-nur erfolgen, wenn eine erforderliche Änderung der Satzung der
+Die Spaltung eines Rechtsträgers anderer Rechtsform zur Aufnahme
+von Teilen seines Vermögens durch eine eingetragene Genossenschaft
+kann nur erfolgen, wenn eine erforderliche Änderung der Satzung der
 übernehmenden Genossenschaft gleichzeitig mit der Spaltung beschlossen
 wird.
 
 
 ##### § 148 Anmeldung der Abspaltung oder der Ausgliederung
 
-(1) Bei der Anmeldung der Abspaltung oder der Ausgliederung zur
-Eintragung in das Register des Sitzes einer übertragenden
+(1) Bei der Anmeldung der Abspaltung oder der Ausgliederung
+zur Eintragung in das Register des Sitzes einer übertragenden
 Genossenschaft hat deren Vorstand auch zu erklären, daß die durch
 Gesetz und Satzung vorgesehenen Voraussetzungen für die Gründung
 dieser Genossenschaft unter Berücksichtigung der Abspaltung oder der
@@ -3338,15 +3041,10 @@ sonst erforderlichen Unterlagen auch beizufügen:
 
 1.  der Spaltungsbericht nach § 127;
 
-
 2.  das Prüfungsgutachten nach § 125 in Verbindung mit § 81.
 
 
-
-
-
 #### Vierter Abschnitt - Spaltung unter Beteiligung rechtsfähiger Vereine
-
 
 
 ##### § 149 Möglichkeit der Spaltung
@@ -3363,7 +3061,6 @@ ihnen einen eingetragenen Verein gründen.
 #### Fünfter Abschnitt - Spaltung unter Beteiligung genossenschaftlicher Prüfungsverbände
 
 
-
 ##### § 150 Möglichkeit der Spaltung
 
 Die Aufspaltung genossenschaftlicher Prüfungsverbände oder die
@@ -3377,16 +3074,15 @@ Neugründung einer Kapitalgesellschaft erfolgen.
 #### Sechster Abschnitt - Spaltung unter Beteiligung von Versicherungsvereinen auf Gegenseitigkeit
 
 
-
 ##### § 151 Möglichkeit der Spaltung
 
 Die Spaltung unter Beteiligung von Versicherungsvereinen auf
-Gegenseitigkeit kann nur durch Aufspaltung oder Abspaltung und nur in
-der Weise erfolgen, daß die Teile eines übertragenden Vereins auf
-andere bestehende oder neue Versicherungsvereine auf Gegenseitigkeit
-oder auf Versicherungs-Aktiengesellschaften übergehen. Ein
-Versicherungsverein auf Gegenseitigkeit kann ferner im Wege der
-Ausgliederung einen Vermögensteil auf eine bestehende oder neue
+Gegenseitigkeit kann nur durch Aufspaltung oder Abspaltung und
+nur in der Weise erfolgen, daß die Teile eines übertragenden
+Vereins auf andere bestehende oder neue Versicherungsvereine auf
+Gegenseitigkeit oder auf Versicherungs-Aktiengesellschaften übergehen.
+Ein Versicherungsverein auf Gegenseitigkeit kann ferner im Wege
+der Ausgliederung einen Vermögensteil auf eine bestehende oder neue
 Gesellschaft mit beschränkter Haftung oder eine bestehende oder neue
 Aktiengesellschaft übertragen, sofern damit keine Übertragung von
 Versicherungsverträgen verbunden ist.
@@ -3395,9 +3091,7 @@ Versicherungsverträgen verbunden ist.
 #### Siebenter Abschnitt - Ausgliederung aus dem Vermögen eines Einzelkaufmanns
 
 
-
 ##### Erster Unterabschnitt - Möglichkeit der Ausgliederung
-
 
 
 ###### § 152 Übernehmende oder neue Rechtsträger
@@ -3413,7 +3107,6 @@ Einzelkaufmanns sein Vermögen übersteigen.
 
 
 ##### Zweiter Unterabschnitt - Ausgliederung zur Aufnahme
-
 
 
 ###### § 153 Ausgliederungsbericht
@@ -3439,8 +3132,8 @@ ist von Amts wegen in das Register einzutragen.
 
 ###### § 156 Haftung des Einzelkaufmanns
 
-Durch den Übergang der Verbindlichkeiten auf übernehmende oder neue
-Gesellschaften wird der Einzelkaufmann von der Haftung für die
+Durch den Übergang der Verbindlichkeiten auf übernehmende oder
+neue Gesellschaften wird der Einzelkaufmann von der Haftung für die
 Verbindlichkeiten nicht befreit. § 418 des Bürgerlichen Gesetzbuchs
 ist nicht anzuwenden.
 
@@ -3453,9 +3146,9 @@ von fünf Jahren nach der Ausgliederung fällig und daraus Ansprüche
 gegen ihn in einer in § 197 Abs. 1 Nr. 3 bis 5 des Bürgerlichen
 Gesetzbuchs bezeichneten Art festgestellt sind oder eine gerichtliche
 oder behördliche Vollstreckungshandlung vorgenommen oder beantragt
-wird; bei öffentlich-rechtlichen Verbindlichkeiten genügt der Erlass
-eines Verwaltungsakts. Eine Haftung des Einzelkaufmanns als
-Gesellschafter des aufnehmenden Rechtsträgers nach § 128 des
+wird; bei öffentlich-rechtlichen Verbindlichkeiten genügt der
+Erlass eines Verwaltungsakts. Eine Haftung des Einzelkaufmanns
+als Gesellschafter des aufnehmenden Rechtsträgers nach § 126 des
 Handelsgesetzbuchs bleibt unberührt.
 
 (2) Die Frist beginnt mit dem Tage, an dem die Eintragung der
@@ -3473,7 +3166,6 @@ in dem Rechtsträger anderer Rechtsform geschäftsführend tätig wird.
 
 
 ##### Dritter Unterabschnitt - Ausgliederung zur Neugründung
-
 
 
 ###### § 158 Anzuwendende Vorschriften
@@ -3497,12 +3189,12 @@ Aktiengesetzes) sowie die Prüfung durch einen oder mehrere Prüfer (§
 33 Abs. 2 des Aktiengesetzes) sich auch darauf zu erstrecken, ob die
 Verbindlichkeiten des Einzelkaufmanns sein Vermögen übersteigen.
 
-(3) Zur Prüfung, ob die Verbindlichkeiten des Einzelkaufmanns sein
-Vermögen übersteigen, hat der Einzelkaufmann den Prüfern eine
+(3) Zur Prüfung, ob die Verbindlichkeiten des Einzelkaufmanns
+sein Vermögen übersteigen, hat der Einzelkaufmann den Prüfern eine
 Aufstellung vorzulegen, in der sein Vermögen seinen Verbindlichkeiten
-gegenübergestellt ist. Die Aufstellung ist zu gliedern, soweit das für
-die Prüfung notwendig ist. § 320 Abs. 1 Satz 2 und Abs. 2 Satz 1 des
-Handelsgesetzbuchs gilt entsprechend, wenn Anlaß für die Annahme
+gegenübergestellt ist. Die Aufstellung ist zu gliedern, soweit das
+für die Prüfung notwendig ist. § 320 Abs. 1 Satz 2 und Abs. 2 Satz 1
+des Handelsgesetzbuchs gilt entsprechend, wenn Anlaß für die Annahme
 besteht, daß in der Aufstellung aufgeführte Vermögensgegenstände
 überbewertet oder Verbindlichkeiten nicht oder nicht vollständig
 aufgeführt worden sind.
@@ -3510,8 +3202,8 @@ aufgeführt worden sind.
 
 ###### § 160 Anmeldung und Eintragung
 
-(1) Die Anmeldung nach § 137 Abs. 1 ist von dem Einzelkaufmann und den
-Geschäftsführern oder den Mitgliedern des Vorstands und des
+(1) Die Anmeldung nach § 137 Abs. 1 ist von dem Einzelkaufmann und
+den Geschäftsführern oder den Mitgliedern des Vorstands und des
 Aufsichtsrats einer neuen Gesellschaft vorzunehmen.
 
 (2) Die Eintragung der Gesellschaft ist abzulehnen, wenn die
@@ -3519,7 +3211,6 @@ Verbindlichkeiten des Einzelkaufmanns sein Vermögen übersteigen.
 
 
 #### Achter Abschnitt - Ausgliederung aus dem Vermögen rechtsfähiger Stiftungen
-
 
 
 ##### § 161 Möglichkeit der Ausgliederung
@@ -3582,8 +3273,8 @@ anzuwenden.
 
 ##### § 166 Haftung der Stiftung
 
-Durch den Übergang der Verbindlichkeiten auf übernehmende oder neue
-Gesellschaften wird die Stiftung von der Haftung für die
+Durch den Übergang der Verbindlichkeiten auf übernehmende oder
+neue Gesellschaften wird die Stiftung von der Haftung für die
 Verbindlichkeiten nicht befreit. § 418 des Bürgerlichen Gesetzbuchs
 ist nicht anzuwenden.
 
@@ -3598,16 +3289,15 @@ ist § 157 entsprechend anzuwenden.
 #### Neunter Abschnitt - Ausgliederung aus dem Vermögen von Gebietskörperschaften oder Zusammenschlüssen von Gebietskörperschaften
 
 
-
 ##### § 168 Möglichkeit der Ausgliederung
 
 Die Ausgliederung eines Unternehmens, das von einer
 Gebietskörperschaft oder von einem Zusammenschluß von
-Gebietskörperschaften, der nicht Gebietskörperschaft ist, betrieben
-wird, aus dem Vermögen dieser Körperschaft oder dieses
-Zusammenschlusses kann nur zur Aufnahme dieses Unternehmens durch eine
-Personenhandelsgesellschaft, eine Kapitalgesellschaft oder eine
-eingetragene Genossenschaft oder zur Neugründung einer
+Gebietskörperschaften, der nicht Gebietskörperschaft ist,
+betrieben wird, aus dem Vermögen dieser Körperschaft oder dieses
+Zusammenschlusses kann nur zur Aufnahme dieses Unternehmens
+durch eine Personenhandelsgesellschaft, eine Kapitalgesellschaft
+oder eine eingetragene Genossenschaft oder zur Neugründung einer
 Kapitalgesellschaft oder einer eingetragenen Genossenschaft sowie nur
 dann erfolgen, wenn das für die Körperschaft oder den Zusammenschluß
 maßgebende Bundes- oder Landesrecht einer Ausgliederung nicht
@@ -3640,8 +3330,8 @@ der Eintragung des neuen Rechtsträgers ein.
 ##### § 172 Haftung der Körperschaft oder des Zusammenschlusses
 
 Durch den Übergang der Verbindlichkeiten auf den übernehmenden oder
-neuen Rechtsträger wird die Körperschaft oder der Zusammenschluß von
-der Haftung für die Verbindlichkeiten nicht befreit. § 418 des
+neuen Rechtsträger wird die Körperschaft oder der Zusammenschluß
+von der Haftung für die Verbindlichkeiten nicht befreit. § 418 des
 Bürgerlichen Gesetzbuchs ist nicht anzuwenden.
 
 
@@ -3655,9 +3345,7 @@ entsprechend anzuwenden.
 ## Viertes Buch - Vermögensübertragung
 
 
-
 ### Erster Teil - Möglichkeit der Vermögensübertragung
-
 
 
 #### § 174 Arten der Vermögensübertragung
@@ -3675,17 +3363,13 @@ die nicht in Anteilen oder Mitgliedschaften besteht, übertragen
     gleichzeitige Übertragung der Vermögensteile jeweils als Gesamtheit
     auf andere bestehende Rechtsträger,
 
-
 2.  von seinem Vermögen einen Teil oder mehrere Teile abspalten durch
     Übertragung dieses Teils oder dieser Teile jeweils als Gesamtheit auf
     einen oder mehrere bestehende Rechtsträger oder
 
-
 3.  aus seinem Vermögen einen Teil oder mehrere Teile ausgliedern durch
     Übertragung dieses Teils oder dieser Teile jeweils als Gesamtheit auf
     einen oder mehrere bestehende Rechtsträger
-
-
 
 gegen Gewährung der in Absatz 1 bezeichneten Gegenleistung in den
 Fällen der Nummer 1 oder 2 an die Anteilsinhaber des übertragenden
@@ -3698,39 +3382,27 @@ Rechtsträgers, im Falle der Nummer 3 an den übertragenden Rechtsträger
 Eine Vollübertragung ist oder Teilübertragungen sind jeweils nur
 möglich
 
-1.  von einer Kapitalgesellschaft auf den Bund, ein Land, eine
-    Gebietskörperschaft oder einen Zusammenschluß von
+1.  von einer Kapitalgesellschaft auf den Bund, ein Land,
+    eine Gebietskörperschaft oder einen Zusammenschluß von
     Gebietskörperschaften;
 
-
-2.
-    a)  von einer Versicherungs-Aktiengesellschaft auf Versicherungsvereine
+2.  a)  von einer Versicherungs-Aktiengesellschaft auf Versicherungsvereine
         auf Gegenseitigkeit oder auf öffentlich-rechtliche
         Versicherungsunternehmen;
 
-
-    b)  von einem Versicherungsverein auf Gegenseitigkeit auf Versicherungs-
-        Aktiengesellschaften oder auf öffentlich-rechtliche
+    b)  von einem Versicherungsverein auf Gegenseitigkeit auf
+        Versicherungs-Aktiengesellschaften oder auf öffentlich-rechtliche
         Versicherungsunternehmen;
-
 
     c)  von einem öffentlich-rechtlichen Versicherungsunternehmen auf
         Versicherungs-Aktiengesellschaften oder auf Versicherungsvereine auf
         Gegenseitigkeit.
 
 
-
-
-
-
-
-
 ### Zweiter Teil - Übertragung des Vermögens oder von Vermögensteilen einer Kapitalgesellschaft auf die öffentliche Hand
 
 
-
 #### Erster Abschnitt - Vollübertragung
-
 
 
 ##### § 176 Anwendung der Verschmelzungsvorschriften
@@ -3741,8 +3413,8 @@ Aufnahme einer solchen übertragenden Gesellschaft jeweils geltenden
 Vorschriften des Zweiten Buches entsprechend anzuwenden, soweit sich
 aus den folgenden Vorschriften nichts anderes ergibt.
 
-(2) Die Angaben im Übertragungsvertrag nach § 5 Abs. 1 Nr. 4, 5 und 7
-entfallen. An die Stelle des Registers des Sitzes des übernehmenden
+(2) Die Angaben im Übertragungsvertrag nach § 5 Abs. 1 Nr. 4, 5 und
+7 entfallen. An die Stelle des Registers des Sitzes des übernehmenden
 Rechtsträgers tritt das Register des Sitzes der übertragenden
 Gesellschaft. An die Stelle des Umtauschverhältnisses der Anteile
 treten Art und Höhe der Gegenleistung. An die Stelle des Anspruchs
@@ -3763,7 +3435,6 @@ Vorschriften.
 #### Zweiter Abschnitt - Teilübertragung
 
 
-
 ##### § 177 Anwendung der Spaltungsvorschriften
 
 (1) Bei einer Teilübertragung nach § 175 Nr. 1 sind auf die
@@ -3781,20 +3452,17 @@ aus den folgenden Vorschriften nichts anderes ergibt.
 ### Dritter Teil - Vermögensübertragung unter Versicherungsunternehmen
 
 
-
 #### Erster Abschnitt - Übertragung des Vermögens einer Aktiengesellschaft auf Versicherungsvereine auf Gegenseitigkeit oder öffentlich-rechtliche Versicherungsunternehmen
-
 
 
 ##### Erster Unterabschnitt - Vollübertragung
 
 
-
 ###### § 178 Anwendung der Verschmelzungsvorschriften
 
-(1) Bei einer Vollübertragung nach § 175 Nr. 2 Buchstabe a sind auf
-die beteiligten Rechtsträger die für die Verschmelzung durch Aufnahme
-einer Aktiengesellschaft und die für einen übernehmenden
+(1) Bei einer Vollübertragung nach § 175 Nr. 2 Buchstabe a sind
+auf die beteiligten Rechtsträger die für die Verschmelzung durch
+Aufnahme einer Aktiengesellschaft und die für einen übernehmenden
 Versicherungsverein im Falle der Verschmelzung jeweils geltenden
 Vorschriften des Zweiten Buches entsprechend anzuwenden, soweit sich
 aus den folgenden Vorschriften nichts anderes ergibt.
@@ -3812,14 +3480,13 @@ anderen Stelle und welcher Erfordernisse die Zustimmung bedarf.
 ##### Zweiter Unterabschnitt - Teilübertragung
 
 
-
 ###### § 179 Anwendung der Spaltungsvorschriften
 
 (1) Bei einer Teilübertragung nach § 175 Nr. 2 Buchstabe a sind auf
 die beteiligten Rechtsträger die für die Aufspaltung, Abspaltung oder
-Ausgliederung zur Aufnahme von Teilen einer Aktiengesellschaft und die
-für übernehmende Versicherungsvereine auf Gegenseitigkeit im Falle der
-Aufspaltung, Abspaltung oder Ausgliederung von Vermögensteilen
+Ausgliederung zur Aufnahme von Teilen einer Aktiengesellschaft und
+die für übernehmende Versicherungsvereine auf Gegenseitigkeit im Falle
+der Aufspaltung, Abspaltung oder Ausgliederung von Vermögensteilen
 geltenden Vorschriften des Dritten Buches und die dort für
 entsprechend anwendbar erklärten Vorschriften des Zweiten Buches auf
 den vergleichbaren Vorgang entsprechend anzuwenden, soweit sich aus
@@ -3832,16 +3499,14 @@ anzuwenden.
 #### Zweiter Abschnitt - Übertragung des Vermögens eines Versicherungsvereins auf Gegenseitigkeit auf Aktiengesellschaften oder öffentlich-rechtliche Versicherungsunternehmen
 
 
-
 ##### Erster Unterabschnitt - Vollübertragung
-
 
 
 ###### § 180 Anwendung der Verschmelzungsvorschriften
 
-(1) Bei einer Vollübertragung nach § 175 Nr. 2 Buchstabe b sind auf
-die beteiligten Rechtsträger die für die Verschmelzung durch Aufnahme
-eines Versicherungsvereins und die für eine übernehmende
+(1) Bei einer Vollübertragung nach § 175 Nr. 2 Buchstabe b sind
+auf die beteiligten Rechtsträger die für die Verschmelzung durch
+Aufnahme eines Versicherungsvereins und die für eine übernehmende
 Aktiengesellschaft im Falle der Verschmelzung jeweils geltenden
 Vorschriften des Zweiten Buches entsprechend anzuwenden, soweit sich
 aus den folgenden Vorschriften nichts anderes ergibt.
@@ -3849,10 +3514,10 @@ aus den folgenden Vorschriften nichts anderes ergibt.
 (2) § 176 Abs. 2 bis 4 sowie § 178 Abs. 3 sind entsprechend
 anzuwenden.
 
-(3) Hat ein Mitglied oder ein Dritter nach der Satzung des Vereins ein
-unentziehbares Recht auf den Abwicklungsüberschuß oder einen Teil
-davon, so bedarf der Beschluß über die Vermögensübertragung der
-Zustimmung des Mitglieds oder des Dritten; die Zustimmung muß
+(3) Hat ein Mitglied oder ein Dritter nach der Satzung des Vereins
+ein unentziehbares Recht auf den Abwicklungsüberschuß oder einen
+Teil davon, so bedarf der Beschluß über die Vermögensübertragung
+der Zustimmung des Mitglieds oder des Dritten; die Zustimmung muß
 notariell beurkundet werden.
 
 
@@ -3876,25 +3541,17 @@ folgenden Maßstäbe festgesetzt werden:
 
 1.  die Höhe der Versicherungssumme,
 
-
 2.  die Höhe der Beiträge,
 
-
 3.  die Höhe der Deckungsrückstellung in der Lebensversicherung,
-
 
 4.  der in der Satzung des Vereins bestimmte Maßstab für die Verteilung
     des Überschusses,
 
-
 5.  der in der Satzung des Vereins bestimmte Maßstab für die Verteilung
     des Vermögens,
 
-
 6.  die Dauer der Mitgliedschaft.
-
-
-
 
 (4) Ist eine Gegenleistung entgegen Absatz 1 nicht vereinbart worden,
 so ist sie auf Antrag vom Gericht zu bestimmen; § 30 Abs. 1 und § 34
@@ -3906,9 +3563,9 @@ sind entsprechend anzuwenden.
 Sobald die Vermögensübertragung wirksam geworden ist, hat das
 Vertretungsorgan des übernehmenden Rechtsträgers allen Mitgliedern,
 die dem Verein seit mindestens drei Monaten vor dem Beschluß der
-obersten Vertretung über die Vermögensübertragung angehört haben, den
-Wortlaut des Vertrags in Textform mitzuteilen. In der Mitteilung ist
-auf die Möglichkeit hinzuweisen, die gerichtliche Bestimmung der
+obersten Vertretung über die Vermögensübertragung angehört haben,
+den Wortlaut des Vertrags in Textform mitzuteilen. In der Mitteilung
+ist auf die Möglichkeit hinzuweisen, die gerichtliche Bestimmung der
 angemessenen Gegenleistung zu verlangen.
 
 
@@ -3921,15 +3578,14 @@ werden, wenn der Treuhänder dem Gericht angezeigt hat, daß er im
 Besitz der Gegenleistung ist.
 
 (2) Bestimmt das Gericht nach § 181 Abs. 4 die Gegenleistung, so hat
-es von Amts wegen einen Treuhänder für deren Empfang zu bestellen. Die
-Gegenleistung steht zu gleichen Teilen den Mitgliedern zu, die dem
-Verein seit mindestens drei Monaten vor dem Beschluß der obersten
+es von Amts wegen einen Treuhänder für deren Empfang zu bestellen.
+Die Gegenleistung steht zu gleichen Teilen den Mitgliedern zu, die
+dem Verein seit mindestens drei Monaten vor dem Beschluß der obersten
 Vertretung über die Vermögensübertragung angehört haben. § 26 Abs. 4
 ist entsprechend anzuwenden.
 
 
 ##### Zweiter Unterabschnitt - Teilübertragung
-
 
 
 ###### § 184 Anwendung der Spaltungsvorschriften
@@ -3949,7 +3605,6 @@ anzuwenden.
 
 
 #### Dritter Abschnitt - Übertragung des Vermögens eines kleineren Versicherungsvereins auf Gegenseitigkeit auf eine Aktiengesellschaft oder auf ein öffentlich-rechtliches Versicherungsunternehmen
-
 
 
 ##### § 185 Möglichkeit der Vermögensübertragung
@@ -3983,15 +3638,13 @@ Genehmigung im Bundesanzeiger bekannt.
 #### Vierter Abschnitt - Übertragung des Vermögens eines öffentlich-rechtlichen Versicherungsunternehmens auf Aktiengesellschaften oder Versicherungsvereine auf Gegenseitigkeit
 
 
-
 ##### Erster Unterabschnitt - Vollübertragung
-
 
 
 ###### § 188 Anwendung der Verschmelzungsvorschriften
 
-(1) Bei einer Vollübertragung nach § 175 Nr. 2 Buchstabe c sind auf
-die übernehmenden Rechtsträger die für die Verschmelzung durch
+(1) Bei einer Vollübertragung nach § 175 Nr. 2 Buchstabe c sind
+auf die übernehmenden Rechtsträger die für die Verschmelzung durch
 Aufnahme geltenden Vorschriften des Zweiten Buches sowie auf das
 übertragende Versicherungsunternehmen § 176 Abs. 3 entsprechend
 anzuwenden, soweit sich aus den folgenden Vorschriften nichts anderes
@@ -4013,7 +3666,6 @@ und ihre Genehmigung im Bundesanzeiger bekannt.
 ##### Zweiter Unterabschnitt - Teilübertragung
 
 
-
 ###### § 189 Anwendung der Spaltungsvorschriften
 
 (1) Bei einer Teilübertragung nach § 175 Nr. 2 Buchstabe c sind auf
@@ -4032,9 +3684,7 @@ entsprechend anzuwenden.
 ## Fünftes Buch - Formwechsel
 
 
-
 ### Erster Teil - Allgemeine Vorschriften
-
 
 
 #### § 190 Allgemeiner Anwendungsbereich
@@ -4051,104 +3701,89 @@ die in anderen Gesetzen vorgesehen oder zugelassen sind.
 
 (1) Formwechselnde Rechtsträger können sein:
 
-1.  Personenhandelsgesellschaften (§ 3 Abs. 1 Nr. 1) und
-    Partnerschaftsgesellschaften;
-
+1.  eingetragene Gesellschaften bürgerlichen Rechts,
+    Personenhandelsgesellschaften (offene Handelsgesellschaft,
+    Kommanditgesellschaft) und Partnerschaftsgesellschaften;
 
 2.  Kapitalgesellschaften (§ 3 Abs. 1 Nr. 2);
 
-
 3.  eingetragene Genossenschaften;
-
 
 4.  rechtsfähige Vereine;
 
-
 5.  Versicherungsvereine auf Gegenseitigkeit;
-
 
 6.  Körperschaften und Anstalten des öffentlichen Rechts.
 
-
-
-
 (2) Rechtsträger neuer Rechtsform können sein:
 
-1.  Gesellschaften des bürgerlichen Rechts;
+1.  eingetragene Gesellschaften bürgerlichen Rechts,
+    Personenhandelsgesellschaften (offene Handelsgesellschaft,
+    Kommanditgesellschaft) und Partnerschaftsgesellschaften;
 
+2.  Kapitalgesellschaften;
 
-2.  Personenhandelsgesellschaften und Partnerschaftsgesellschaften;
-
-
-3.  Kapitalgesellschaften;
-
-
-4.  eingetragene Genossenschaften.
-
-
-
+3.  eingetragene Genossenschaften.
 
 (3) Der Formwechsel ist auch bei aufgelösten Rechtsträgern möglich,
 wenn ihre Fortsetzung in der bisherigen Rechtsform beschlossen werden
 könnte.
 
 
-#### § 192 Umwandlungsbericht
+#### § 192 Formwechselbericht
 
-(1) Das Vertretungsorgan des formwechselnden Rechtsträgers hat einen
-ausführlichen schriftlichen Bericht zu erstatten, in dem der
-Formwechsel und insbesondere die künftige Beteiligung der
-Anteilsinhaber an dem Rechtsträger rechtlich und wirtschaftlich
-erläutert und begründet werden (Umwandlungsbericht). § 8 Abs. 1 Satz 2
-bis 4 und Abs. 2 ist entsprechend anzuwenden. Der Umwandlungsbericht
-muß einen Entwurf des Umwandlungsbeschlusses enthalten.
+(1) Das Vertretungsorgan des formwechselnden Rechtsträgers hat
+einen ausführlichen schriftlichen Bericht zu erstatten, in dem
+der Formwechsel und insbesondere die künftige Beteiligung der
+Anteilsinhaber an dem Rechtsträger sowie die Höhe einer anzubietenden
+Barabfindung und die zu ihrer Ermittlung gewählten Bewertungsmethoden
+rechtlich und wirtschaftlich erläutert und begründet werden
+(Formwechselbericht). § 8 Absatz 1 Satz 3 bis 5 und Abs. 2 ist
+entsprechend anzuwenden. Der Formwechselbericht muß einen Entwurf des
+Formwechselbeschlusses enthalten.
 
-(2) Ein Umwandlungsbericht ist nicht erforderlich, wenn an dem
-formwechselnden Rechtsträger nur ein Anteilsinhaber beteiligt ist oder
-wenn alle Anteilsinhaber auf seine Erstattung verzichten. Die
+(2) Ein Formwechselbericht ist nicht erforderlich, wenn an dem
+formwechselnden Rechtsträger nur ein Anteilsinhaber beteiligt ist
+oder wenn alle Anteilsinhaber auf seine Erstattung verzichten. Die
 Verzichtserklärungen sind notariell zu beurkunden.
 
 
-#### § 193 Umwandlungsbeschluß
+#### § 193 Formwechselbeschluss
 
 (1) Für den Formwechsel ist ein Beschluß der Anteilsinhaber des
-formwechselnden Rechtsträgers (Umwandlungsbeschluß) erforderlich. Der
-Beschluß kann nur in einer Versammlung der Anteilsinhaber gefaßt
+formwechselnden Rechtsträgers (Formwechselbeschluss) erforderlich.
+Der Beschluß kann nur in einer Versammlung der Anteilsinhaber gefaßt
 werden.
 
 (2) Ist die Abtretung der Anteile des formwechselnden Rechtsträgers
 von der Genehmigung einzelner Anteilsinhaber abhängig, so bedarf der
-Umwandlungsbeschluß zu seiner Wirksamkeit ihrer Zustimmung.
+Formwechselbeschluss zu seiner Wirksamkeit ihrer Zustimmung.
 
-(3) Der Umwandlungsbeschluß und die nach diesem Gesetz erforderlichen
-Zustimmungserklärungen einzelner Anteilsinhaber einschließlich der
-erforderlichen Zustimmungserklärungen nicht erschienener
+(3) Der Formwechselbeschluss und die nach diesem Gesetz erforderlichen
+Zustimmungserklärungen einzelner Anteilsinhaber einschließlich
+der erforderlichen Zustimmungserklärungen nicht erschienener
 Anteilsinhaber müssen notariell beurkundet werden. Auf Verlangen ist
 jedem Anteilsinhaber auf seine Kosten unverzüglich eine Abschrift der
 Niederschrift des Beschlusses zu erteilen.
 
 
-#### § 194 Inhalt des Umwandlungsbeschlusses
+#### § 194 Inhalt des Formwechselbeschlusses
 
-(1) In dem Umwandlungsbeschluß müssen mindestens bestimmt werden:
+(1) In dem Formwechselbeschluss müssen mindestens bestimmt werden:
 
 1.  die Rechtsform, die der Rechtsträger durch den Formwechsel erlangen
     soll;
 
-
 2.  der Name oder die Firma des Rechtsträgers neuer Rechtsform;
-
 
 3.  eine Beteiligung der bisherigen Anteilsinhaber an dem Rechtsträger
     nach den für die neue Rechtsform geltenden Vorschriften, soweit ihre
     Beteiligung nicht nach diesem Buch entfällt;
 
-
 4.  Zahl, Art und Umfang der Anteile oder der Mitgliedschaften, welche die
     Anteilsinhaber durch den Formwechsel erlangen sollen oder die einem
     beitretenden persönlich haftenden Gesellschafter eingeräumt werden
     sollen;
-
 
 5.  die Rechte, die einzelnen Anteilsinhabern sowie den Inhabern
     besonderer Rechte wie Anteile ohne Stimmrecht, Vorzugsaktien,
@@ -4156,33 +3791,28 @@ Niederschrift des Beschlusses zu erteilen.
     Rechtsträger gewährt werden sollen, oder die Maßnahmen, die für diese
     Personen vorgesehen sind;
 
-
-6.  ein Abfindungsangebot nach § 207, sofern nicht der Umwandlungsbeschluß
-    zu seiner Wirksamkeit der Zustimmung aller Anteilsinhaber bedarf oder
-    an dem formwechselnden Rechtsträger nur ein Anteilsinhaber beteiligt
-    ist;
-
+6.  ein Abfindungsangebot nach § 207, sofern nicht der
+    Formwechselbeschluss zu seiner Wirksamkeit der Zustimmung aller
+    Anteilsinhaber bedarf oder an dem formwechselnden Rechtsträger nur ein
+    Anteilsinhaber beteiligt ist;
 
 7.  die Folgen des Formwechsels für die Arbeitnehmer und ihre Vertretungen
     sowie die insoweit vorgesehenen Maßnahmen.
 
-
-
-
-(2) Der Entwurf des Umwandlungsbeschlusses ist spätestens einen Monat
+(2) Der Entwurf des Formwechselbeschlusses ist spätestens einen Monat
 vor dem Tage der Versammlung der Anteilsinhaber, die den Formwechsel
 beschließen soll, dem zuständigen Betriebsrat des formwechselnden
 Rechtsträgers zuzuleiten.
 
 
-#### § 195 Befristung und Ausschluß von Klagen gegen den Umwandlungsbeschluß
+#### § 195 Befristung und Ausschluß von Klagen gegen den Formwechselbeschluss
 
-(1) Eine Klage gegen die Wirksamkeit des Umwandlungsbeschlusses muß
+(1) Eine Klage gegen die Wirksamkeit des Formwechselbeschlusses muß
 binnen eines Monats nach der Beschlußfassung erhoben werden.
 
-(2) Eine Klage gegen die Wirksamkeit des Umwandlungsbeschlusses kann
+(2) Eine Klage gegen die Wirksamkeit des Formwechselbeschlusses kann
 nicht darauf gestützt werden, daß die in dem Beschluß bestimmten
-Anteile an dem Rechtsträger neuer Rechtsform zu niedrig bemessen sind
+Anteile an dem Rechtsträger neuer Rechtsform nicht angemessen sind
 oder daß die Mitgliedschaft kein ausreichender Gegenwert für die
 Anteile oder die Mitgliedschaft bei dem formwechselnden Rechtsträger
 ist.
@@ -4190,15 +3820,15 @@ ist.
 
 #### § 196 Verbesserung des Beteiligungsverhältnisses
 
-Sind die in dem Umwandlungsbeschluß bestimmten Anteile an dem
-Rechtsträger neuer Rechtsform zu niedrig bemessen oder ist die
-Mitgliedschaft bei diesem kein ausreichender Gegenwert für die Anteile
-oder die Mitgliedschaft bei dem formwechselnden Rechtsträger, so kann
-jeder Anteilsinhaber, dessen Recht, gegen die Wirksamkeit des
-Umwandlungsbeschlusses Klage zu erheben, nach § 195 Abs. 2
-ausgeschlossen ist, von dem Rechtsträger einen Ausgleich durch bare
-Zuzahlung verlangen. Die angemessene Zuzahlung wird auf Antrag durch
-das Gericht nach den Vorschriften des Spruchverfahrensgesetzes
+Sind die in dem Formwechselbeschluss bestimmten Anteile an dem
+Rechtsträger neuer Rechtsform nicht angemessen oder ist die
+Mitgliedschaft bei diesem kein ausreichender Gegenwert für die
+Anteile oder die Mitgliedschaft bei dem formwechselnden Rechtsträger,
+so kann jeder Anteilsinhaber, dessen Recht, gegen die Wirksamkeit
+des Formwechselbeschlusses Klage zu erheben, nach § 195 Abs. 2
+ausgeschlossen ist, von dem Rechtsträger einen Ausgleich durch
+bare Zuzahlung verlangen. Die angemessene Zuzahlung wird auf Antrag
+durch das Gericht nach den Vorschriften des Spruchverfahrensgesetzes
 bestimmt. § 15 Abs. 2 ist entsprechend anzuwenden.
 
 
@@ -4225,11 +3855,11 @@ zuständigen Gericht zur Eintragung in das für die neue Rechtsform
 maßgebende Register anzumelden. Das gleiche gilt, wenn sich durch den
 Formwechsel die Art des für den Rechtsträger maßgebenden Registers
 ändert oder durch eine mit dem Formwechsel verbundene Sitzverlegung
-die Zuständigkeit eines anderen Registergerichts begründet wird. Im
-Falle des Satzes 2 ist die Umwandlung auch zur Eintragung in das
-Register anzumelden, in dem der formwechselnde Rechtsträger
-eingetragen ist. Diese Eintragung ist mit dem Vermerk zu versehen, daß
-die Umwandlung erst mit der Eintragung des Rechtsträgers neuer
+die Zuständigkeit eines anderen Registergerichts begründet wird.
+Im Falle des Satzes 2 ist die Umwandlung auch zur Eintragung in
+das Register anzumelden, in dem der formwechselnde Rechtsträger
+eingetragen ist. Diese Eintragung ist mit dem Vermerk zu versehen,
+daß die Umwandlung erst mit der Eintragung des Rechtsträgers neuer
 Rechtsform in das für diese maßgebende Register wirksam wird, sofern
 die Eintragungen in den Registern aller beteiligten Rechtsträger nicht
 am selben Tag erfolgen. Der Rechtsträger neuer Rechtsform darf erst
@@ -4243,27 +3873,27 @@ eingetragen worden ist.
 
 Der Anmeldung der neuen Rechtsform oder des Rechtsträgers neuer
 Rechtsform sind in Ausfertigung oder öffentlich beglaubigter Abschrift
-oder, soweit sie nicht notariell zu beurkunden sind, in Urschrift oder
-Abschrift außer den sonst erforderlichen Unterlagen auch die
-Niederschrift des Umwandlungsbeschlusses, die nach diesem Gesetz
+oder, soweit sie nicht notariell zu beurkunden sind, in Urschrift
+oder Abschrift außer den sonst erforderlichen Unterlagen auch die
+Niederschrift des Formwechselbeschlusses, die nach diesem Gesetz
 erforderlichen Zustimmungserklärungen einzelner Anteilsinhaber
 einschließlich der Zustimmungserklärungen nicht erschienener
-Anteilsinhaber, der Umwandlungsbericht oder die Erklärungen über den
+Anteilsinhaber, der Formwechselbericht oder die Erklärungen über den
 Verzicht auf seine Erstellung, ein Nachweis über die Zuleitung nach §
 194 Abs. 2 beizufügen.
 
 
 #### § 200 Firma oder Name des Rechtsträgers
 
-(1) Der Rechtsträger neuer Rechtsform darf seine bisher geführte Firma
-beibehalten, soweit sich aus diesem Buch nichts anderes ergibt.
+(1) Der Rechtsträger neuer Rechtsform darf seine bisher geführte
+Firma beibehalten, soweit sich aus diesem Buch nichts anderes ergibt.
 Zusätzliche Bezeichnungen, die auf die Rechtsform der formwechselnden
 Gesellschaft hinweisen, dürfen auch dann nicht verwendet werden, wenn
 der Rechtsträger die bisher geführte Firma beibehält.
 
 (2) Auf eine nach dem Formwechsel beibehaltene Firma ist § 19 des
-Handelsgesetzbuchs, § 4 des Gesetzes betreffend die Gesellschaften mit
-beschränkter Haftung, §§ 4, 279 des Aktiengesetzes oder § 3 des
+Handelsgesetzbuchs, § 4 des Gesetzes betreffend die Gesellschaften
+mit beschränkter Haftung, §§ 4, 279 des Aktiengesetzes oder § 3 des
 Genossenschaftsgesetzes entsprechend anzuwenden.
 
 (3) War an dem formwechselnden Rechtsträger eine natürliche Person
@@ -4275,8 +3905,8 @@ ausdrücklich in die Verwendung des Namens einwilligen.
 
 (4) Ist formwechselnder Rechtsträger oder Rechtsträger neuer
 Rechtsform eine Partnerschaftsgesellschaft, gelten für die
-Beibehaltung oder Bildung der Firma oder des Namens die Absätze 1 und
-3 entsprechend. Eine Firma darf als Name einer
+Beibehaltung oder Bildung der Firma oder des Namens die
+Absätze 1 und 3 entsprechend. Eine Firma darf als Name einer
 Partnerschaftsgesellschaft nur unter den Voraussetzungen des § 2 Abs.
 1 des Partnerschaftsgesellschaftsgesetzes beibehalten werden. § 1 Abs.
 3 und § 11 des Partnerschaftsgesellschaftsgesetzes sind entsprechend
@@ -4291,7 +3921,7 @@ erlischt die Firma der formwechselnden Gesellschaft.
 Das für die Anmeldung der neuen Rechtsform oder des Rechtsträgers
 neuer Rechtsform zuständige Gericht hat die Eintragung der neuen
 Rechtsform oder des Rechtsträgers neuer Rechtsform nach § 10 des
-Handelsgesetzbuchs ihrem ganzen Inhalt nach bekanntzumachen.
+Handelsgesetzbuchs bekanntzumachen.
 
 
 #### § 202 Wirkungen der Eintragung
@@ -4300,43 +3930,38 @@ Handelsgesetzbuchs ihrem ganzen Inhalt nach bekanntzumachen.
 Wirkungen:
 
 1.  Der formwechselnde Rechtsträger besteht in der in dem
-    Umwandlungsbeschluß bestimmten Rechtsform weiter.
-
+    Formwechselbeschluss bestimmten Rechtsform weiter.
 
 2.  Die Anteilsinhaber des formwechselnden Rechtsträgers sind an dem
     Rechtsträger nach den für die neue Rechtsform geltenden Vorschriften
-    beteiligt, soweit ihre Beteiligung nicht nach diesem Buch entfällt.
-    Rechte Dritter an den Anteilen oder Mitgliedschaften des
+    beteiligt, soweit ihre Beteiligung nicht nach diesem Buch
+    entfällt. Rechte Dritter an den Anteilen oder Mitgliedschaften des
     formwechselnden Rechtsträgers bestehen an den an ihre Stelle tretenden
     Anteilen oder Mitgliedschaften des Rechtsträgers neuer Rechtsform
     weiter.
 
-
-3.  Der Mangel der notariellen Beurkundung des Umwandlungsbeschlusses und
+3.  Der Mangel der notariellen Beurkundung des Formwechselbeschlusses und
     gegebenenfalls erforderlicher Zustimmungs- oder Verzichtserklärungen
     einzelner Anteilsinhaber wird geheilt.
-
-
-
 
 (2) Die in Absatz 1 bestimmten Wirkungen treten in den Fällen des §
 198 Abs. 2 mit der Eintragung des Rechtsträgers neuer Rechtsform in
 das Register ein.
 
-(3) Mängel des Formwechsels lassen die Wirkungen der Eintragung der
-neuen Rechtsform oder des Rechtsträgers neuer Rechtsform in das
+(3) Mängel des Formwechsels lassen die Wirkungen der Eintragung
+der neuen Rechtsform oder des Rechtsträgers neuer Rechtsform in das
 Register unberührt.
 
 
 #### § 203 Amtsdauer von Aufsichtsratsmitgliedern
 
-Wird bei einem Formwechsel bei dem Rechtsträger neuer Rechtsform in
-gleicher Weise wie bei dem formwechselnden Rechtsträger ein
+Wird bei einem Formwechsel bei dem Rechtsträger neuer Rechtsform
+in gleicher Weise wie bei dem formwechselnden Rechtsträger ein
 Aufsichtsrat gebildet und zusammengesetzt, so bleiben die Mitglieder
-des Aufsichtsrats für den Rest ihrer Wahlzeit als Mitglieder des
-Aufsichtsrats des Rechtsträgers neuer Rechtsform im Amt. Die
-Anteilsinhaber des formwechselnden Rechtsträgers können im
-Umwandlungsbeschluß für ihre Aufsichtsratsmitglieder die Beendigung
+des Aufsichtsrats für den Rest ihrer Wahlzeit als Mitglieder
+des Aufsichtsrats des Rechtsträgers neuer Rechtsform im Amt.
+Die Anteilsinhaber des formwechselnden Rechtsträgers können im
+Formwechselbeschluss für ihre Aufsichtsratsmitglieder die Beendigung
 des Amtes bestimmen.
 
 
@@ -4350,8 +3975,8 @@ Sonderrechten § 23 entsprechend anzuwenden.
 
 (1) Die Mitglieder des Vertretungsorgans und, wenn ein Aufsichtsorgan
 vorhanden ist, des Aufsichtsorgans des formwechselnden Rechtsträgers
-sind als Gesamtschuldner zum Ersatz des Schadens verpflichtet, den der
-Rechtsträger, seine Anteilsinhaber oder seine Gläubiger durch den
+sind als Gesamtschuldner zum Ersatz des Schadens verpflichtet, den
+der Rechtsträger, seine Anteilsinhaber oder seine Gläubiger durch den
 Formwechsel erleiden. § 25 Abs. 1 Satz 2 ist entsprechend anzuwenden.
 
 (2) Die Ansprüche nach Absatz 1 verjähren in fünf Jahren seit dem
@@ -4366,9 +3991,9 @@ Die Ansprüche nach § 205 Abs. 1 können nur durch einen besonderen
 Vertreter geltend gemacht werden. Das Gericht des Sitzes des
 Rechtsträgers neuer Rechtsform hat einen solchen Vertreter auf Antrag
 eines Anteilsinhabers oder eines Gläubigers des formwechselnden
-Rechtsträgers zu bestellen. § 26 Abs. 1 Satz 3 und 4, Abs. 2, Abs. 3
-Satz 2 und 3 und Abs. 4 ist entsprechend anzuwenden; an die Stelle der
-Blätter für die öffentlichen Bekanntmachungen des übertragenden
+Rechtsträgers zu bestellen. § 26 Abs. 1 Satz 3 und 4, Abs. 2, Abs.
+3 Satz 2 und 3 und Abs. 4 ist entsprechend anzuwenden; an die Stelle
+der Blätter für die öffentlichen Bekanntmachungen des übertragenden
 Rechtsträgers treten die entsprechenden Blätter des Rechtsträgers
 neuer Rechtsform.
 
@@ -4376,13 +4001,16 @@ neuer Rechtsform.
 #### § 207 Angebot der Barabfindung
 
 (1) Der formwechselnde Rechtsträger hat jedem Anteilsinhaber, der
-gegen den Umwandlungsbeschluß Widerspruch zur Niederschrift erklärt,
+gegen den Formwechselbeschluss Widerspruch zur Niederschrift erklärt,
 den Erwerb seiner umgewandelten Anteile oder Mitgliedschaften gegen
 eine angemessene Barabfindung anzubieten; § 71 Abs. 4 Satz 2 des
-Aktiengesetzes ist insoweit nicht anzuwenden. Kann der Rechtsträger
-auf Grund seiner neuen Rechtsform eigene Anteile oder Mitgliedschaften
-nicht erwerben, so ist die Barabfindung für den Fall anzubieten, daß
-der Anteilsinhaber sein Ausscheiden aus dem Rechtsträger erklärt. Der
+Aktiengesetzes und die Anordnung der Nichtigkeit des schuldrechtlichen
+Geschäfts über einen verbotswidrigen Erwerb nach § 33 Absatz 2 Satz
+3 des Gesetzes betreffend die Gesellschaften mit beschränkter Haftung
+sind insoweit nicht anzuwenden. Kann der Rechtsträger auf Grund
+seiner neuen Rechtsform eigene Anteile oder Mitgliedschaften nicht
+erwerben, so ist die Barabfindung für den Fall anzubieten, daß der
+Anteilsinhaber sein Ausscheiden aus dem Rechtsträger erklärt. Der
 Rechtsträger hat die Kosten für eine Übertragung zu tragen.
 
 (2) § 29 Abs. 2 ist entsprechend anzuwenden.
@@ -4396,34 +4024,35 @@ Auf den Anspruch auf Barabfindung ist § 30 entsprechend anzuwenden.
 #### § 209 Annahme des Angebots
 
 Das Angebot nach § 207 kann nur binnen zwei Monaten nach dem Tage
-angenommen werden, an dem die Eintragung der neuen Rechtsform oder des
-Rechtsträgers neuer Rechtsform in das Register bekannt gemacht worden
-ist. Ist nach § 212 ein Antrag auf Bestimmung der Barabfindung durch
-das Gericht gestellt worden, so kann das Angebot binnen zwei Monaten
-nach dem Tage angenommen werden, an dem die Entscheidung im
+angenommen werden, an dem die Eintragung der neuen Rechtsform oder
+des Rechtsträgers neuer Rechtsform in das Register bekannt gemacht
+worden ist. Ist nach § 212 ein Antrag auf Bestimmung der Barabfindung
+durch das Gericht gestellt worden, so kann das Angebot binnen zwei
+Monaten nach dem Tage angenommen werden, an dem die Entscheidung im
 Bundesanzeiger bekanntgemacht worden ist.
 
 
-#### § 210 Ausschluß von Klagen gegen den Umwandlungsbeschluß
+#### § 210 Ausschluß von Klagen gegen den Formwechselbeschluss
 
-Eine Klage gegen die Wirksamkeit des Umwandlungsbeschlusses kann nicht
-darauf gestützt werden, daß das Angebot nach § 207 zu niedrig bemessen
-oder daß die Barabfindung im Umwandlungsbeschluß nicht oder nicht
+Eine Klage gegen die Wirksamkeit des Formwechselbeschlusses kann nicht
+darauf gestützt werden, daß das Angebot nach § 207 nicht angemessen
+oder daß die Barabfindung im Formwechselbeschluss nicht oder nicht
 ordnungsgemäß angeboten worden ist.
 
 
 #### § 211 Anderweitige Veräußerung
 
-Einer anderweitigen Veräußerung des Anteils durch den Anteilsinhaber
-stehen nach Fassung des Umwandlungsbeschlusses bis zum Ablauf der in §
-209 bestimmten Frist Verfügungsbeschränkungen nicht entgegen.
+Einer anderweitigen Veräußerung des Anteils durch einen
+Anteilsinhaber, der nach § 207 Adressat des Abfindungsangebots ist,
+stehen nach Fassung des Formwechselbeschlusses bis zum Ablauf der in §
+209 Satz 1 bestimmten Frist Verfügungsbeschränkungen nicht entgegen.
 
 
 #### § 212 Gerichtliche Nachprüfung der Abfindung
 
-Macht ein Anteilsinhaber geltend, daß eine im Umwandlungsbeschluß
-bestimmte Barabfindung, die ihm nach § 207 Abs. 1 anzubieten war, zu
-niedrig bemessen sei, so hat auf seinen Antrag das Gericht nach den
+Macht ein Anteilsinhaber geltend, daß eine im Formwechselbeschluss
+bestimmte Barabfindung, die ihm nach § 207 Abs. 1 anzubieten war,
+nicht angemessen sei, so hat auf seinen Antrag das Gericht nach den
 Vorschriften des Spruchverfahrensgesetzes die angemessene Barabfindung
 zu bestimmen. Das gleiche gilt, wenn die Barabfindung nicht oder nicht
 ordnungsgemäß angeboten worden ist.
@@ -4437,30 +4066,29 @@ Auf unbekannte Aktionäre ist § 35 entsprechend anzuwenden.
 ### Zweiter Teil - Besondere Vorschriften
 
 
-
 #### Erster Abschnitt - Formwechsel von Personengesellschaften
 
 
-
-##### Erster Unterabschnitt - Formwechsel von Personenhandelsgesellschaften
-
+##### Erster Unterabschnitt - Formwechsel von Gesellschaften bürgerlichen Rechts und Personenhandelsgesellschaften
 
 
 ###### § 214 Möglichkeit des Formwechsels
 
-(1) Eine Personenhandelsgesellschaft kann auf Grund eines
-Umwandlungsbeschlusses nach diesem Gesetz nur die Rechtsform einer
-Kapitalgesellschaft oder einer eingetragenen Genossenschaft erlangen.
+(1) Eine Gesellschaft bürgerlichen Rechts oder eine
+Personenhandelsgesellschaft kann aufgrund eines Formwechselbeschlusses
+nach diesem Gesetz nur die Rechtsform einer Kapitalgesellschaft oder
+einer eingetragenen Genossenschaft erlangen.
 
-(2) Eine aufgelöste Personenhandelsgesellschaft kann die Rechtsform
-nicht wechseln, wenn die Gesellschafter nach § 145 des
-Handelsgesetzbuchs eine andere Art der Auseinandersetzung als die
-Abwicklung oder als den Formwechsel vereinbart haben.
+(2) Eine aufgelöste Gesellschaft bürgerlichen Rechts und eine
+aufgelöste Personenhandelsgesellschaft können die Rechtsform
+nicht wechseln, wenn die Gesellschafter eine andere Art der
+Auseinandersetzung als die Abwicklung durch Liquidation oder als den
+Formwechsel vereinbart haben.
 
 
-###### § 215 Umwandlungsbericht
+###### § 215 Formwechselbericht
 
-Ein Umwandlungsbericht ist nicht erforderlich, wenn alle
+Ein Formwechselbericht ist nicht erforderlich, wenn alle
 Gesellschafter der formwechselnden Gesellschaft zur Geschäftsführung
 berechtigt sind.
 
@@ -4472,44 +4100,44 @@ der Geschäftsführung ausgeschlossenen Gesellschaftern spätestens
 zusammen mit der Einberufung der Gesellschafterversammlung, die den
 Formwechsel beschließen soll, diesen Formwechsel als Gegenstand der
 Beschlußfassung in Textform anzukündigen und einen nach diesem Buch
-erforderlichen Umwandlungsbericht sowie ein Abfindungsangebot nach §
+erforderlichen Formwechselbericht sowie ein Abfindungsangebot nach §
 207 zu übersenden.
 
 
 ###### § 217 Beschluß der Gesellschafterversammlung
 
-(1) Der Umwandlungsbeschluß der Gesellschafterversammlung bedarf der
-Zustimmung aller anwesenden Gesellschafter; ihm müssen auch die nicht
-erschienenen Gesellschafter zustimmen. Der Gesellschaftsvertrag der
-formwechselnden Gesellschaft kann eine Mehrheitsentscheidung der
+(1) Der Formwechselbeschluss der Gesellschafterversammlung bedarf
+der Zustimmung aller anwesenden Gesellschafter; ihm müssen auch die
+nicht erschienenen Gesellschafter zustimmen. Der Gesellschaftsvertrag
+der formwechselnden Gesellschaft kann eine Mehrheitsentscheidung der
 Gesellschafter vorsehen. Die Mehrheit muß mindestens drei Viertel der
 abgegebenen Stimmen betragen.
 
 (2) Die Gesellschafter, die im Falle einer Mehrheitsentscheidung für
 den Formwechsel gestimmt haben, sind in der Niederschrift über den
-Umwandlungsbeschluß namentlich aufzuführen.
+Formwechselbeschluss namentlich aufzuführen.
 
 (3) Dem Formwechsel in eine Kommanditgesellschaft auf Aktien müssen
 alle Gesellschafter zustimmen, die in dieser Gesellschaft die Stellung
 eines persönlich haftenden Gesellschafters haben sollen.
 
 
-###### § 218 Inhalt des Umwandlungsbeschlusses
+###### § 218 Inhalt des Formwechselbeschlusses
 
-(1) In dem Umwandlungsbeschluß muß auch der Gesellschaftsvertrag der
-Gesellschaft mit beschränkter Haftung oder die Satzung der
+(1) In dem Formwechselbeschluss muß auch der Gesellschaftsvertrag
+der Gesellschaft mit beschränkter Haftung oder die Satzung der
 Genossenschaft enthalten sein oder die Satzung der Aktiengesellschaft
-oder der Kommanditgesellschaft auf Aktien festgestellt werden. Eine
-Unterzeichnung der Satzung durch die Mitglieder ist nicht
+oder der Kommanditgesellschaft auf Aktien festgestellt werden.
+Eine Unterzeichnung der Satzung durch die Mitglieder ist nicht
 erforderlich.
 
-(2) Der Beschluß zur Umwandlung in eine Kommanditgesellschaft auf
-Aktien muß vorsehen, daß sich an dieser Gesellschaft mindestens ein
-Gesellschafter der formwechselnden Gesellschaft als persönlich
+(2) Der Beschluss zum Formwechsel in eine Kommanditgesellschaft
+auf Aktien muß vorsehen, daß sich an dieser Gesellschaft mindestens
+ein Gesellschafter der formwechselnden Gesellschaft als persönlich
 haftender Gesellschafter beteiligt oder daß der Gesellschaft
 mindestens ein persönlich haftender Gesellschafter beitritt.
 
-(3) Der Beschluß zur Umwandlung in eine Genossenschaft muß die
+(3) Der Beschluss zum Formwechsel in eine Genossenschaft muß die
 Beteiligung jedes Mitglieds mit mindestens einem Geschäftsanteil
 vorsehen. In dem Beschluß kann auch bestimmt werden, daß jedes
 Mitglied bei der Genossenschaft mit mindestens einem und im übrigen
@@ -4521,8 +4149,8 @@ anzusehen sind, beteiligt wird.
 ###### § 219 Rechtsstellung als Gründer
 
 Bei der Anwendung der Gründungsvorschriften stehen den Gründern die
-Gesellschafter der formwechselnden Gesellschaft gleich. Im Falle einer
-Mehrheitsentscheidung treten an die Stelle der Gründer die
+Gesellschafter der formwechselnden Gesellschaft gleich. Im Falle
+einer Mehrheitsentscheidung treten an die Stelle der Gründer die
 Gesellschafter, die für den Formwechsel gestimmt haben, sowie beim
 Formwechsel in eine Kommanditgesellschaft auf Aktien auch beitretende
 persönlich haftende Gesellschafter.
@@ -4543,18 +4171,18 @@ Aktien sind auch der bisherige Geschäftsverlauf und die Lage der
 formwechselnden Gesellschaft darzulegen.
 
 (3) Beim Formwechsel in eine Aktiengesellschaft oder in eine
-Kommanditgesellschaft auf Aktien hat die Gründungsprüfung durch einen
-oder mehrere Prüfer (§ 33 Abs. 2 des Aktiengesetzes) in jedem Fall
-stattzufinden. Die für Nachgründungen in § 52 Abs. 1 des
-Aktiengesetzes bestimmte Frist von zwei Jahren beginnt mit dem
+Kommanditgesellschaft auf Aktien hat die Gründungsprüfung durch
+einen oder mehrere Prüfer (§ 33 Abs. 2 des Aktiengesetzes) in
+jedem Fall stattzufinden. Die für Nachgründungen in § 52 Abs. 1
+des Aktiengesetzes bestimmte Frist von zwei Jahren beginnt mit dem
 Wirksamwerden des Formwechsels.
 
 
 ###### § 221 Beitritt persönlich haftender Gesellschafter
 
-Der in einem Beschluß zur Umwandlung in eine Kommanditgesellschaft auf
-Aktien vorgesehene Beitritt eines Gesellschafters, welcher der
-formwechselnden Gesellschaft nicht angehört hat, muß notariell
+Der in einem Beschluss zum Formwechsel in eine Kommanditgesellschaft
+auf Aktien vorgesehene Beitritt eines Gesellschafters, welcher
+der formwechselnden Gesellschaft nicht angehört hat, muß notariell
 beurkundet werden. Die Satzung der Kommanditgesellschaft auf Aktien
 ist von jedem beitretenden persönlich haftenden Gesellschafter zu
 genehmigen.
@@ -4562,17 +4190,17 @@ genehmigen.
 
 ###### § 222 Anmeldung des Formwechsels
 
-(1) Die Anmeldung nach § 198 einschließlich der Anmeldung der Satzung
-der Genossenschaft ist durch alle Mitglieder des künftigen
+(1) Die Anmeldung nach § 198 einschließlich der Anmeldung der
+Satzung der Genossenschaft ist durch alle Mitglieder des künftigen
 Vertretungsorgans sowie, wenn der Rechtsträger nach den für die neue
 Rechtsform geltenden Vorschriften einen Aufsichtsrat haben muß, auch
 durch alle Mitglieder dieses Aufsichtsrats vorzunehmen. Zugleich mit
 der Genossenschaft sind die Mitglieder ihres Vorstandes zur Eintragung
 in das Register anzumelden.
 
-(2) Ist der Rechtsträger neuer Rechtsform eine Aktiengesellschaft oder
-eine Kommanditgesellschaft auf Aktien, so haben die Anmeldung nach
-Absatz 1 auch alle Gesellschafter vorzunehmen, die nach § 219 den
+(2) Ist der Rechtsträger neuer Rechtsform eine Aktiengesellschaft
+oder eine Kommanditgesellschaft auf Aktien, so haben die Anmeldung
+nach Absatz 1 auch alle Gesellschafter vorzunehmen, die nach § 219 den
 Gründern dieser Gesellschaft gleichstehen.
 
 (3) Die Anmeldung der Umwandlung zur Eintragung in das Register nach §
@@ -4583,9 +4211,9 @@ Gesellschaft ermächtigten Gesellschaftern vorgenommen werden.
 ###### § 223 Anlagen der Anmeldung
 
 Der Anmeldung der neuen Rechtsform oder des Rechtsträgers neuer
-Rechtsform sind beim Formwechsel in eine Kommanditgesellschaft auf
-Aktien außer den sonst erforderlichen Unterlagen auch die Urkunden
-über den Beitritt aller beitretenden persönlich haftenden
+Rechtsform sind beim Formwechsel in eine Kommanditgesellschaft
+auf Aktien außer den sonst erforderlichen Unterlagen auch die
+Urkunden über den Beitritt aller beitretenden persönlich haftenden
 Gesellschafter in Ausfertigung oder öffentlich beglaubigter Abschrift
 beizufügen.
 
@@ -4595,11 +4223,12 @@ beizufügen.
 (1) Der Formwechsel berührt nicht die Ansprüche der Gläubiger der
 Gesellschaft gegen einen ihrer Gesellschafter aus Verbindlichkeiten
 der formwechselnden Gesellschaft, für die dieser im Zeitpunkt des
-Formwechsels nach § 128 des Handelsgesetzbuchs persönlich haftet.
+Formwechsels nach § 721 des Bürgerlichen Gesetzbuchs oder nach § 126
+des Handelsgesetzbuchs persönlich haftet.
 
-(2) Der Gesellschafter haftet für diese Verbindlichkeiten, wenn sie
-vor Ablauf von fünf Jahren nach dem Formwechsel fällig und daraus
-Ansprüche gegen ihn in einer in § 197 Abs. 1 Nr. 3 bis 5 des
+(2) Der Gesellschafter haftet für diese Verbindlichkeiten, wenn
+sie vor Ablauf von fünf Jahren nach dem Formwechsel fällig und
+daraus Ansprüche gegen ihn in einer in § 197 Abs. 1 Nr. 3 bis 5 des
 Bürgerlichen Gesetzbuchs bezeichneten Art festgestellt sind oder eine
 gerichtliche oder behördliche Vollstreckungshandlung vorgenommen oder
 beantragt wird; bei öffentlich-rechtlichen Verbindlichkeiten genügt
@@ -4622,26 +4251,25 @@ in dem Rechtsträger anderer Rechtsform geschäftsführend tätig wird.
 ###### § 225 Prüfung des Abfindungsangebots
 
 Im Falle des § 217 Abs. 1 Satz 2 ist die Angemessenheit der
-angebotenen Barabfindung nach § 208 in Verbindung mit § 30 Abs. 2 nur
-auf Verlangen eines Gesellschafters zu prüfen. Die Kosten trägt die
-Gesellschaft.
+angebotenen Barabfindung nach § 208 in Verbindung mit § 30 Abs. 2
+nur auf Verlangen eines Gesellschafters zu prüfen. Die Kosten trägt
+die Gesellschaft.
 
 
 ##### Zweiter Unterabschnitt - Formwechsel von Partnerschaftsgesellschaften
 
 
-
 ###### § 225a Möglichkeit des Formwechsels
 
 Eine Partnerschaftsgesellschaft kann auf Grund eines
-Umwandlungsbeschlusses nach diesem Gesetz nur die Rechtsform einer
+Formwechselbeschlusses nach diesem Gesetz nur die Rechtsform einer
 Kapitalgesellschaft oder einer eingetragenen Genossenschaft erlangen.
 
 
-###### § 225b Umwandlungsbericht und Unterrichtung der Partner
+###### § 225b Formwechselbericht und Unterrichtung der Partner
 
-Ein Umwandlungsbericht ist nur erforderlich, wenn ein Partner der
-formwechselnden Partnerschaft gemäß § 6 Abs. 2 des
+Ein Formwechselbericht ist nur erforderlich, wenn ein Partner
+der formwechselnden Partnerschaft gemäß § 6 Abs. 2 des
 Partnerschaftsgesellschaftsgesetzes von der Geschäftsführung
 ausgeschlossen ist. Von der Geschäftsführung ausgeschlossene Partner
 sind entsprechend § 216 zu unterrichten.
@@ -4656,14 +4284,12 @@ und die §§ 217 bis 225 entsprechend anzuwenden.
 #### Zweiter Abschnitt - Formwechsel von Kapitalgesellschaften
 
 
-
 ##### Erster Unterabschnitt - Allgemeine Vorschriften
-
 
 
 ###### § 226 Möglichkeit des Formwechsels
 
-Eine Kapitalgesellschaft kann auf Grund eines Umwandlungsbeschlusses
+Eine Kapitalgesellschaft kann auf Grund eines Formwechselbeschlusses
 nach diesem Gesetz nur die Rechtsform einer Gesellschaft des
 bürgerlichen Rechts, einer Personenhandelsgesellschaft, einer
 Partnerschaftsgesellschaft, einer anderen Kapitalgesellschaft oder
@@ -4680,22 +4306,25 @@ anzuwenden.
 ##### Zweiter Unterabschnitt - Formwechsel in eine Personengesellschaft
 
 
-
 ###### § 228 Möglichkeit des Formwechsels
 
-(1) Durch den Formwechsel kann eine Kapitalgesellschaft die Rechtsform
-einer Personenhandelsgesellschaft nur erlangen, wenn der
-Unternehmensgegenstand im Zeitpunkt des Wirksamwerdens des
+(1) Durch den Formwechsel kann eine Kapitalgesellschaft die
+Rechtsform einer Personenhandelsgesellschaft nur erlangen, wenn
+der Unternehmensgegenstand im Zeitpunkt des Wirksamwerdens des
 Formwechsels den Vorschriften über die Gründung einer offenen
-Handelsgesellschaft (§ 105 Abs. 1 und 2 des Handelsgesetzbuchs)
-genügt.
+Handelsgesellschaft (§ 105 Absatz 1 und § 107 Absatz 1 des
+Handelsgesetzbuchs) genügt.
 
-(2) Ein Formwechsel in eine Partnerschaftsgesellschaft ist nur
-möglich, wenn im Zeitpunkt seines Wirksamwerdens alle Anteilsinhaber
-des formwechselnden Rechtsträgers natürliche Personen sind, die einen
-Freien Beruf ausüben (§ 1 Abs. 1 und 2 des
-Partnerschaftsgesellschaftsgesetzes). § 1 Abs. 3 des
+(2) Ein Formwechsel in eine Partnerschaftsgesellschaft ist
+nur möglich, wenn im Zeitpunkt seines Wirksamwerdens alle
+Anteilsinhaber des formwechselnden Rechtsträgers natürliche
+Personen sind, die einen Freien Beruf ausüben (§ 1 Abs. 1 und
+2 des Partnerschaftsgesellschaftsgesetzes). § 1 Abs. 3 des
 Partnerschaftsgesellschaftsgesetzes bleibt unberührt.
+
+(3) Ein Formwechsel in eine Gesellschaft bürgerlichen Rechts ist nur
+möglich, wenn die Gesellschaft kein Handelsgewerbe gemäß § 1 Absatz 2
+des Handelsgesetzbuchs betreibt.
 
 
 ###### § 229 (weggefallen)
@@ -4706,24 +4335,24 @@ Partnerschaftsgesellschaftsgesetzes bleibt unberührt.
 ###### § 230 Vorbereitung der Versammlung der Anteilsinhaber
 
 (1) Die Geschäftsführer einer formwechselnden Gesellschaft mit
-beschränkter Haftung haben allen Gesellschaftern spätestens zusammen
-mit der Einberufung der Gesellschafterversammlung, die den Formwechsel
-beschließen soll, diesen Formwechsel als Gegenstand der
-Beschlußfassung in Textform anzukündigen und den Umwandlungsbericht zu
-übersenden.
+beschränkter Haftung haben allen Gesellschaftern spätestens
+zusammen mit der Einberufung der Gesellschafterversammlung, die den
+Formwechsel beschließen soll, diesen Formwechsel als Gegenstand der
+Beschlußfassung in Textform anzukündigen und den Formwechselbericht
+zu übersenden.
 
-(2) Der Umwandlungsbericht einer Aktiengesellschaft oder einer
+(2) Der Formwechselbericht einer Aktiengesellschaft oder einer
 Kommanditgesellschaft auf Aktien ist von der Einberufung der
 Hauptversammlung an, die den Formwechsel beschließen soll, in dem
 Geschäftsraum der Gesellschaft zur Einsicht der Aktionäre auszulegen.
 Auf Verlangen ist jedem Aktionär und jedem von der Geschäftsführung
-ausgeschlossenen persönlich haftenden Gesellschafter unverzüglich und
-kostenlos eine Abschrift des Umwandlungsberichts zu erteilen. Der
-Umwandlungsbericht kann dem Aktionär und dem von der Geschäftsführung
+ausgeschlossenen persönlich haftenden Gesellschafter unverzüglich
+und kostenlos eine Abschrift des Formwechselberichts zu erteilen. Der
+Formwechselbericht kann dem Aktionär und dem von der Geschäftsführung
 ausgeschlossenen persönlich haftenden Gesellschafter mit seiner
 Einwilligung auf dem Wege elektronischer Kommunikation übermittelt
 werden. Die Verpflichtungen nach den Sätzen 1 und 2 entfallen, wenn
-der Umwandlungsbericht für denselben Zeitraum über die Internetseite
+der Formwechselbericht für denselben Zeitraum über die Internetseite
 der Gesellschaft zugänglich ist.
 
 
@@ -4732,27 +4361,27 @@ der Gesellschaft zugänglich ist.
 Das Vertretungsorgan der formwechselnden Gesellschaft hat den
 Gesellschaftern oder Aktionären spätestens zusammen mit der
 Einberufung der Gesellschafterversammlung oder der Hauptversammlung,
-die den Formwechsel beschließen soll, das Abfindungsangebot nach § 207
-zu übersenden. Der Übersendung steht es gleich, wenn das
+die den Formwechsel beschließen soll, das Abfindungsangebot nach
+§ 207 zu übersenden. Der Übersendung steht es gleich, wenn das
 Abfindungsangebot im Bundesanzeiger und den sonst bestimmten
 Gesellschaftsblättern bekanntgemacht wird.
 
 
 ###### § 232 Durchführung der Versammlung der Anteilsinhaber
 
-(1) In der Gesellschafterversammlung oder in der Hauptversammlung, die
-den Formwechsel beschließen soll, ist der Umwandlungsbericht
-auszulegen. In der Hauptversammlung kann der Umwandlungsbericht auch
+(1) In der Gesellschafterversammlung oder in der Hauptversammlung,
+die den Formwechsel beschließen soll, ist der Formwechselbericht
+auszulegen. In der Hauptversammlung kann der Formwechselbericht auch
 auf andere Weise zugänglich gemacht werden.
 
-(2) Der Entwurf des Umwandlungsbeschlusses einer Aktiengesellschaft
+(2) Der Entwurf des Formwechselbeschlusses einer Aktiengesellschaft
 oder einer Kommanditgesellschaft auf Aktien ist von deren
 Vertretungsorgan zu Beginn der Verhandlung mündlich zu erläutern.
 
 
 ###### § 233 Beschluß der Versammlung der Anteilsinhaber
 
-(1) Der Umwandlungsbeschluß der Gesellschafterversammlung oder der
+(1) Der Formwechselbeschluss der Gesellschafterversammlung oder der
 Hauptversammlung bedarf, wenn die formwechselnde Gesellschaft die
 Rechtsform einer Gesellschaft des bürgerlichen Rechts, einer offenen
 Handelsgesellschaft oder einer Partnerschaftsgesellschaft erlangen
@@ -4760,12 +4389,12 @@ soll, der Zustimmung aller anwesenden Gesellschafter oder Aktionäre;
 ihm müssen auch die nicht erschienenen Anteilsinhaber zustimmen.
 
 (2) Soll die formwechselnde Gesellschaft in eine Kommanditgesellschaft
-umgewandelt werden, so bedarf der Umwandlungsbeschluß einer Mehrheit
+umgewandelt werden, so bedarf der Formwechselbeschluss einer Mehrheit
 von mindestens drei Vierteln der bei der Gesellschafterversammlung
-einer Gesellschaft mit beschränkter Haftung abgegebenen Stimmen oder
-des bei der Beschlußfassung einer Aktiengesellschaft oder einer
-Kommanditgesellschaft auf Aktien vertretenen Grundkapitals; § 50 Abs.
-2 und § 65 Abs. 2 sind entsprechend anzuwenden. Der
+einer Gesellschaft mit beschränkter Haftung abgegebenen Stimmen
+oder des bei der Beschlußfassung einer Aktiengesellschaft oder
+einer Kommanditgesellschaft auf Aktien vertretenen Grundkapitals;
+§ 50 Abs. 2 und § 65 Abs. 2 sind entsprechend anzuwenden. Der
 Gesellschaftsvertrag oder die Satzung der formwechselnden Gesellschaft
 kann eine größere Mehrheit und weitere Erfordernisse bestimmen. Dem
 Formwechsel müssen alle Gesellschafter oder Aktionäre zustimmen, die
@@ -4774,47 +4403,35 @@ Gesellschafters haben sollen.
 
 (3) Dem Formwechsel einer Kommanditgesellschaft auf Aktien müssen
 ferner deren persönlich haftende Gesellschafter zustimmen. Die Satzung
-der formwechselnden Gesellschaft kann für den Fall des Formwechsels in
-eine Kommanditgesellschaft eine Mehrheitsentscheidung dieser
+der formwechselnden Gesellschaft kann für den Fall des Formwechsels
+in eine Kommanditgesellschaft eine Mehrheitsentscheidung dieser
 Gesellschafter vorsehen. Jeder dieser Gesellschafter kann sein
 Ausscheiden aus dem Rechtsträger für den Zeitpunkt erklären, in dem
 der Formwechsel wirksam wird.
 
 
-###### § 234 Inhalt des Umwandlungsbeschlusses
+###### § 234 Inhalt des Formwechselbeschlusses
 
-In dem Umwandlungsbeschluß müssen auch enthalten sein:
+In dem Formwechselbeschluss müssen auch enthalten sein:
 
 1.  die Bestimmung des Sitzes der Personengesellschaft;
-
 
 2.  beim Formwechsel in eine Kommanditgesellschaft die Angabe der
     Kommanditisten sowie des Betrages der Einlage eines jeden von ihnen;
 
-
-3.  der Gesellschaftsvertrag der Personengesellschaft. Beim Formwechsel in
-    eine Partnerschaftsgesellschaft ist § 213 auf den
-    Partnerschaftsvertrag nicht anzuwenden.
-
-
-
+3.  der Gesellschaftsvertrag der Personengesellschaft.
 
 
 ###### § 235 Anmeldung des Formwechsels
 
-(1) Beim Formwechsel in eine Gesellschaft des bürgerlichen Rechts ist
-statt der neuen Rechtsform die Umwandlung der Gesellschaft zur
-Eintragung in das Register, in dem die formwechselnde Gesellschaft
-eingetragen ist, anzumelden. § 198 Abs. 2 ist nicht anzuwenden.
-
-(2) Die Anmeldung nach Absatz 1 oder nach § 198 ist durch das
-Vertretungsorgan der formwechselnden Gesellschaft vorzunehmen.
+Die Anmeldung nach § 198 ist durch das Vertretungsorgan der
+formwechselnden Gesellschaft vorzunehmen.
 
 
 ###### § 236 Wirkungen des Formwechsels
 
-Mit dem Wirksamwerden des Formwechsels einer Kommanditgesellschaft auf
-Aktien scheiden persönlich haftende Gesellschafter, die nach § 233
+Mit dem Wirksamwerden des Formwechsels einer Kommanditgesellschaft
+auf Aktien scheiden persönlich haftende Gesellschafter, die nach § 233
 Abs. 3 Satz 3 ihr Ausscheiden aus dem Rechtsträger erklärt haben, aus
 der Gesellschaft aus.
 
@@ -4832,7 +4449,6 @@ anzuwenden.
 ##### Dritter Unterabschnitt - Formwechsel in eine Kapitalgesellschaft anderer Rechtsform
 
 
-
 ###### § 238 Vorbereitung der Versammlung der Anteilsinhaber
 
 Auf die Vorbereitung der Gesellschafterversammlung oder der
@@ -4842,26 +4458,26 @@ Hauptversammlung, die den Formwechsel beschließen soll, sind die §§
 
 ###### § 239 Durchführung der Versammlung der Anteilsinhaber
 
-(1) In der Gesellschafterversammlung oder in der Hauptversammlung, die
-den Formwechsel beschließen soll, ist der Umwandlungsbericht
-auszulegen. In der Hauptversammlung kann der Umwandlungsbericht auch
+(1) In der Gesellschafterversammlung oder in der Hauptversammlung,
+die den Formwechsel beschließen soll, ist der Formwechselbericht
+auszulegen. In der Hauptversammlung kann der Formwechselbericht auch
 auf andere Weise zugänglich gemacht werden.
 
-(2) Der Entwurf des Umwandlungsbeschlusses einer Aktiengesellschaft
+(2) Der Entwurf des Formwechselbeschlusses einer Aktiengesellschaft
 oder einer Kommanditgesellschaft auf Aktien ist von deren
 Vertretungsorgan zu Beginn der Verhandlung mündlich zu erläutern.
 
 
 ###### § 240 Beschluß der Versammlung der Anteilsinhaber
 
-(1) Der Umwandlungsbeschluß bedarf einer Mehrheit von mindestens drei
-Vierteln der bei der Gesellschafterversammlung einer Gesellschaft mit
-beschränkter Haftung abgegebenen Stimmen oder des bei der
-Beschlußfassung einer Aktiengesellschaft oder einer
-Kommanditgesellschaft auf Aktien vertretenen Grundkapitals; § 65 Abs.
-2 ist entsprechend anzuwenden. Der Gesellschaftsvertrag oder die
-Satzung der formwechselnden Gesellschaft kann eine größere Mehrheit
-und weitere Erfordernisse, beim Formwechsel einer
+(1) Der Formwechselbeschluss bedarf einer Mehrheit von mindestens
+drei Vierteln der bei der Gesellschafterversammlung einer
+Gesellschaft mit beschränkter Haftung abgegebenen Stimmen oder
+des bei der Beschlußfassung einer Aktiengesellschaft oder einer
+Kommanditgesellschaft auf Aktien vertretenen Grundkapitals; §
+65 Abs. 2 ist entsprechend anzuwenden. Der Gesellschaftsvertrag
+oder die Satzung der formwechselnden Gesellschaft kann eine
+größere Mehrheit und weitere Erfordernisse, beim Formwechsel einer
 Kommanditgesellschaft auf Aktien in eine Aktiengesellschaft auch eine
 geringere Mehrheit bestimmen.
 
@@ -4880,10 +4496,10 @@ dieser Gesellschafter vorsehen.
 
 ###### § 241 Zustimmungserfordernisse beim Formwechsel einer Gesellschaft mit beschränkter Haftung
 
-(1) Werden durch den Umwandlungsbeschluß einer formwechselnden
-Gesellschaft mit beschränkter Haftung die Aktien in der Satzung der
-Aktiengesellschaft oder der Kommanditgesellschaft auf Aktien auf einen
-höheren als den Mindestbetrag nach § 8 Abs. 2 oder 3 des
+(1) Werden durch den Formwechselbeschluss einer formwechselnden
+Gesellschaft mit beschränkter Haftung die Aktien in der Satzung
+der Aktiengesellschaft oder der Kommanditgesellschaft auf Aktien
+auf einen höheren als den Mindestbetrag nach § 8 Abs. 2 oder 3 des
 Aktiengesetzes und abweichend vom Nennbetrag der Geschäftsanteile der
 formwechselnden Gesellschaft gestellt, so muß dem jeder Gesellschafter
 zustimmen, der sich nicht dem Gesamtnennbetrag seiner Geschäftsanteile
@@ -4894,15 +4510,15 @@ ferner § 50 Abs. 2 entsprechend anzuwenden.
 
 (3) Sind einzelnen Gesellschaftern außer der Leistung von
 Kapitaleinlagen noch andere Verpflichtungen gegenüber der Gesellschaft
-auferlegt und können diese wegen der einschränkenden Bestimmung des §
-55 des Aktiengesetzes bei dem Formwechsel nicht aufrechterhalten
+auferlegt und können diese wegen der einschränkenden Bestimmung des
+§ 55 des Aktiengesetzes bei dem Formwechsel nicht aufrechterhalten
 werden, so bedarf der Formwechsel auch der Zustimmung dieser
 Gesellschafter.
 
 
 ###### § 242 Zustimmungserfordernis beim Formwechsel einer Aktiengesellschaft oder einer Kommanditgesellschaft auf Aktien
 
-Wird durch den Umwandlungsbeschluß einer formwechselnden
+Wird durch den Formwechselbeschluss einer formwechselnden
 Aktiengesellschaft oder Kommanditgesellschaft auf Aktien der
 Nennbetrag der Geschäftsanteile in dem Gesellschaftsvertrag der
 Gesellschaft mit beschränkter Haftung abweichend vom Betrag der Aktien
@@ -4910,13 +4526,13 @@ festgesetzt, so muß der Festsetzung jeder Aktionär zustimmen, der sich
 nicht mit seinem gesamten Anteil beteiligen kann.
 
 
-###### § 243 Inhalt des Umwandlungsbeschlusses
+###### § 243 Inhalt des Formwechselbeschlusses
 
-(1) Auf den Umwandlungsbeschluß ist § 218 entsprechend anzuwenden.
-Festsetzungen über Sondervorteile, Gründungsaufwand, Sacheinlagen und
-Sachübernahmen, die in dem Gesellschaftsvertrag oder in der Satzung
-der formwechselnden Gesellschaft enthalten sind, sind in den
-Gesellschaftsvertrag oder in die Satzung der Gesellschaft neuer
+(1) Auf den Formwechselbeschluss ist § 218 entsprechend anzuwenden.
+Festsetzungen über Sondervorteile, Gründungsaufwand, Sacheinlagen
+und Sachübernahmen, die in dem Gesellschaftsvertrag oder in der
+Satzung der formwechselnden Gesellschaft enthalten sind, sind in
+den Gesellschaftsvertrag oder in die Satzung der Gesellschaft neuer
 Rechtsform zu übernehmen. § 26 Abs. 4 und 5 des Aktiengesetzes bleibt
 unberührt.
 
@@ -4924,15 +4540,15 @@ unberührt.
 oder des Grundkapitals bleiben unberührt.
 
 (3) In dem Gesellschaftsvertrag oder in der Satzung der Gesellschaft
-neuer Rechtsform kann der auf die Anteile entfallende Betrag des
-Stamm- oder Grundkapitals abweichend vom Betrag der Anteile der
-formwechselnden Gesellschaft festgesetzt werden. Bei einer
+neuer Rechtsform kann der auf die Anteile entfallende Betrag
+des Stamm- oder Grundkapitals abweichend vom Betrag der Anteile
+der formwechselnden Gesellschaft festgesetzt werden. Bei einer
 Gesellschaft mit beschränkter Haftung muss er auf volle Euro lauten.
 
 
-###### § 244 Niederschrift über den Umwandlungsbeschluß, Gesellschaftsvertrag
+###### § 244 Niederschrift über den Formwechselbeschluss, Gesellschaftsvertrag
 
-(1) In der Niederschrift über den Umwandlungsbeschluß sind die
+(1) In der Niederschrift über den Formwechselbeschluss sind die
 Personen, die nach § 245 Abs. 1 bis 3 den Gründern der Gesellschaft
 gleichstehen, namentlich aufzuführen.
 
@@ -4944,14 +4560,14 @@ unterzeichnet zu werden.
 
 ###### § 245 Rechtsstellung als Gründer; Kapitalschutz
 
-(1) Bei einem Formwechsel einer Gesellschaft mit beschränkter Haftung
-in eine Aktiengesellschaft oder in eine Kommanditgesellschaft auf
-Aktien treten bei der Anwendung der Gründungsvorschriften des
-Aktiengesetzes an die Stelle der Gründer die Gesellschafter, die für
-den Formwechsel gestimmt haben, sowie beim Formwechsel einer
+(1) Bei einem Formwechsel einer Gesellschaft mit beschränkter
+Haftung in eine Aktiengesellschaft oder in eine Kommanditgesellschaft
+auf Aktien treten bei der Anwendung der Gründungsvorschriften des
+Aktiengesetzes an die Stelle der Gründer die Gesellschafter, die
+für den Formwechsel gestimmt haben, sowie beim Formwechsel einer
 Gesellschaft mit beschränkter Haftung in eine Kommanditgesellschaft
-auf Aktien auch beitretende persönlich haftende Gesellschafter. § 220
-ist entsprechend anzuwenden. § 52 des Aktiengesetzes ist nicht
+auf Aktien auch beitretende persönlich haftende Gesellschafter. §
+220 ist entsprechend anzuwenden. § 52 des Aktiengesetzes ist nicht
 anzuwenden, wenn die Gesellschaft mit beschränkter Haftung vor dem
 Wirksamwerden des Formwechsels bereits länger als zwei Jahre in das
 Register eingetragen war.
@@ -4965,8 +4581,8 @@ anzuwenden.
 
 (3) Beim Formwechsel einer Kommanditgesellschaft auf Aktien in eine
 Aktiengesellschaft treten bei der Anwendung der Gründungsvorschriften
-des Aktiengesetzes an die Stelle der Gründer die persönlich haftenden
-Gesellschafter der formwechselnden Gesellschaft. § 220 ist
+des Aktiengesetzes an die Stelle der Gründer die persönlich
+haftenden Gesellschafter der formwechselnden Gesellschaft. § 220 ist
 entsprechend anzuwenden. § 52 des Aktiengesetzes ist nicht anzuwenden.
 
 (4) Beim Formwechsel einer Aktiengesellschaft oder einer
@@ -5021,6 +4637,14 @@ entsprechend anzuwenden.
 (3) Einer Genehmigung des Gerichts bedarf es nicht.
 
 
+###### § 248a Gewährung zusätzlicher Aktien
+
+Die §§ 72a und 72b gelten für einen Formwechsel in eine
+Aktiengesellschaft oder eine Kommanditgesellschaft auf Aktien
+entsprechend. Der Formwechselbeschluss hat die Erklärung gemäß § 72a
+Absatz 1 Satz 1 zu enthalten.
+
+
 ###### § 249 Gläubigerschutz
 
 Auf den Formwechsel einer Kommanditgesellschaft auf Aktien in eine
@@ -5039,7 +4663,6 @@ anzuwenden.
 ##### Vierter Unterabschnitt - Formwechsel in eine eingetragene Genossenschaft
 
 
-
 ###### § 251 Vorbereitung und Durchführung der Versammlung der Anteilsinhaber
 
 (1) Auf die Vorbereitung der Gesellschafterversammlung oder der
@@ -5054,19 +4677,19 @@ anzuwenden.
 
 ###### § 252 Beschluß der Versammlung der Anteilsinhaber
 
-(1) Der Umwandlungsbeschluß der Gesellschafterversammlung oder der
+(1) Der Formwechselbeschluss der Gesellschafterversammlung oder der
 Hauptversammlung bedarf, wenn die Satzung der Genossenschaft eine
 Verpflichtung der Mitglieder zur Leistung von Nachschüssen vorsieht,
 der Zustimmung aller anwesenden Gesellschafter oder Aktionäre; ihm
 müssen auch die nicht erschienenen Anteilsinhaber zustimmen.
 
 (2) Sollen die Mitglieder nicht zur Leistung von Nachschüssen
-verpflichtet werden, so bedarf der Umwandlungsbeschluß einer Mehrheit
+verpflichtet werden, so bedarf der Formwechselbeschluss einer Mehrheit
 von mindestens drei Vierteln der bei der Gesellschafterversammlung
-einer Gesellschaft mit beschränkter Haftung abgegebenen Stimmen oder
-des bei der Beschlußfassung einer Aktiengesellschaft oder einer
-Kommanditgesellschaft auf Aktien vertretenen Grundkapitals; § 50 Abs.
-2 und § 65 Abs. 2 sind entsprechend anzuwenden. Der
+einer Gesellschaft mit beschränkter Haftung abgegebenen Stimmen
+oder des bei der Beschlußfassung einer Aktiengesellschaft oder
+einer Kommanditgesellschaft auf Aktien vertretenen Grundkapitals;
+§ 50 Abs. 2 und § 65 Abs. 2 sind entsprechend anzuwenden. Der
 Gesellschaftsvertrag oder die Satzung der formwechselnden Gesellschaft
 kann eine größere Mehrheit und weitere Erfordernisse bestimmen.
 
@@ -5074,17 +4697,17 @@ kann eine größere Mehrheit und weitere Erfordernisse bestimmen.
 240 Abs. 3 entsprechend anzuwenden.
 
 
-###### § 253 Inhalt des Umwandlungsbeschlusses
+###### § 253 Inhalt des Formwechselbeschlusses
 
-(1) In dem Umwandlungsbeschluß muß auch die Satzung der Genossenschaft
-enthalten sein. Eine Unterzeichnung der Satzung durch die Mitglieder
-ist nicht erforderlich.
+(1) In dem Formwechselbeschluss muß auch die Satzung der
+Genossenschaft enthalten sein. Eine Unterzeichnung der Satzung durch
+die Mitglieder ist nicht erforderlich.
 
-(2) Der Umwandlungsbeschluß muß die Beteiligung jedes Mitglieds mit
-mindestens einem Geschäftsanteil vorsehen. In dem Beschluß kann auch
-bestimmt werden, daß jedes Mitglied bei der Genossenschaft mit
-mindestens einem und im übrigen mit so vielen Geschäftsanteilen, wie
-sie durch Anrechnung seines Geschäftsguthabens bei dieser
+(2) Der Formwechselbeschluss muß die Beteiligung jedes Mitglieds
+mit mindestens einem Geschäftsanteil vorsehen. In dem Beschluß kann
+auch bestimmt werden, daß jedes Mitglied bei der Genossenschaft mit
+mindestens einem und im übrigen mit so vielen Geschäftsanteilen,
+wie sie durch Anrechnung seines Geschäftsguthabens bei dieser
 Genossenschaft als voll eingezahlt anzusehen sind, beteiligt wird.
 
 
@@ -5100,11 +4723,11 @@ Vorstandes zur Eintragung in das Register anzumelden.
 
 ###### § 255 Wirkungen des Formwechsels
 
-(1) Jeder Anteilsinhaber, der die Rechtsstellung eines Mitglieds
-erlangt, ist bei der Genossenschaft nach Maßgabe des
-Umwandlungsbeschlusses beteiligt. Eine Verpflichtung zur Übernahme
-weiterer Geschäftsanteile bleibt unberührt. § 202 Abs. 1 Nr. 2 Satz 2
-ist mit der Maßgabe anzuwenden, daß die an den bisherigen Anteilen
+(1) Jeder Anteilsinhaber, der die Rechtsstellung eines
+Mitglieds erlangt, ist bei der Genossenschaft nach Maßgabe des
+Formwechselbeschlusses beteiligt. Eine Verpflichtung zur Übernahme
+weiterer Geschäftsanteile bleibt unberührt. § 202 Abs. 1 Nr. 2 Satz
+2 ist mit der Maßgabe anzuwenden, daß die an den bisherigen Anteilen
 bestehenden Rechte Dritter an den durch den Formwechsel erlangten
 Geschäftsguthaben weiterbestehen.
 
@@ -5126,8 +4749,8 @@ formwechselnden Gesellschaft beteiligt war.
 (2) Übersteigt das durch den Formwechsel erlangte Geschäftsguthaben
 eines Mitglieds den Gesamtbetrag der Geschäftsanteile, mit denen es
 bei der Genossenschaft beteiligt ist, so ist der übersteigende Betrag
-nach Ablauf von sechs Monaten seit dem Tage, an dem die Eintragung der
-Genossenschaft in das Register bekannt gemacht worden ist, an das
+nach Ablauf von sechs Monaten seit dem Tage, an dem die Eintragung
+der Genossenschaft in das Register bekannt gemacht worden ist, an das
 Mitglied auszuzahlen. Die Auszahlung darf jedoch nicht erfolgen, bevor
 die Gläubiger, die sich nach § 204 in Verbindung mit § 22 gemeldet
 haben, befriedigt oder sichergestellt sind.
@@ -5138,21 +4761,15 @@ Textform mitzuteilen:
 
 1.  den Betrag seines Geschäftsguthabens;
 
-
 2.  den Betrag und die Zahl der Geschäftsanteile, mit denen es bei der
     Genossenschaft beteiligt ist;
-
 
 3.  den Betrag der von dem Mitglied nach Anrechnung seines
     Geschäftsguthabens noch zu leistenden Einzahlung oder den Betrag, der
     nach Absatz 2 an das Mitglied auszuzahlen ist;
 
-
 4.  den Betrag der Haftsumme der Genossenschaft, sofern die Mitglieder
     Nachschüsse bis zu einer Haftsumme zu leisten haben.
-
-
-
 
 
 ###### § 257 Gläubigerschutz
@@ -5164,15 +4781,14 @@ Auf den Formwechsel einer Kommanditgesellschaft auf Aktien ist auch §
 #### Dritter Abschnitt - Formwechsel eingetragener Genossenschaften
 
 
-
 ##### § 258 Möglichkeit des Formwechsels
 
 (1) Eine eingetragene Genossenschaft kann auf Grund eines
-Umwandlungsbeschlusses nach diesem Gesetz nur die Rechtsform einer
+Formwechselbeschlusses nach diesem Gesetz nur die Rechtsform einer
 Kapitalgesellschaft erlangen.
 
-(2) Der Formwechsel ist nur möglich, wenn auf jedes Mitglied, das an
-der Gesellschaft neuer Rechtsform beteiligt wird, als beschränkt
+(2) Der Formwechsel ist nur möglich, wenn auf jedes Mitglied, das
+an der Gesellschaft neuer Rechtsform beteiligt wird, als beschränkt
 haftender Gesellschafter ein Geschäftsanteil, dessen Nennbetrag auf
 volle Euro lautet, oder als Aktionär mindestens eine volle Aktie
 entfällt.
@@ -5190,8 +4806,8 @@ Festsetzung des Stammkapitals oder des Grundkapitals § 263 Abs. 2 Satz
 
 ##### § 260 Vorbereitung der Generalversammlung
 
-(1) Der Vorstand der formwechselnden Genossenschaft hat allen
-Mitgliedern spätestens zusammen mit der Einberufung der
+(1) Der Vorstand der formwechselnden Genossenschaft hat
+allen Mitgliedern spätestens zusammen mit der Einberufung der
 Generalversammlung, die den Formwechsel beschließen soll, diesen
 Formwechsel als Gegenstand der Beschlußfassung in Textform
 anzukündigen. In der Ankündigung ist auf die für die Beschlußfassung
@@ -5199,17 +4815,17 @@ nach § 262 Abs. 1 erforderlichen Mehrheiten sowie auf die Möglichkeit
 der Erhebung eines Widerspruchs und die sich daraus ergebenden Rechte
 hinzuweisen.
 
-(2) Auf die Vorbereitung der Generalversammlung sind § 230 Absatz 2
-und § 231 Satz 1 entsprechend anzuwenden. § 192 Abs. 2 bleibt
+(2) Auf die Vorbereitung der Generalversammlung sind § 230 Absatz
+2 und § 231 Satz 1 entsprechend anzuwenden. § 192 Abs. 2 bleibt
 unberührt.
 
-(3) In dem Geschäftsraum der formwechselnden Genossenschaft ist von
-der Einberufung der Generalversammlung an, die den Formwechsel
+(3) In dem Geschäftsraum der formwechselnden Genossenschaft ist
+von der Einberufung der Generalversammlung an, die den Formwechsel
 beschließen soll, außer den sonst erforderlichen Unterlagen auch das
 nach § 259 erstattete Prüfungsgutachten zur Einsicht der Mitglieder
 auszulegen. Auf Verlangen ist jedem Mitglied unverzüglich und
-kostenlos eine Abschrift dieses Prüfungsgutachtens zu erteilen. Die
-Verpflichtungen nach den Sätzen 1 und 2 entfallen, wenn das
+kostenlos eine Abschrift dieses Prüfungsgutachtens zu erteilen.
+Die Verpflichtungen nach den Sätzen 1 und 2 entfallen, wenn das
 Prüfungsgutachten für denselben Zeitraum über die Internetseite der
 Genossenschaft zugänglich ist.
 
@@ -5217,9 +4833,9 @@ Genossenschaft zugänglich ist.
 ##### § 261 Durchführung der Generalversammlung
 
 (1) In der Generalversammlung, die den Formwechsel beschließen soll,
-ist der Umwandlungsbericht, sofern er nach diesem Buch erforderlich
-ist, und das nach § 259 erstattete Prüfungsgutachten auszulegen. Der
-Vorstand hat den Umwandlungsbeschluß zu Beginn der Verhandlung
+ist der Formwechselbericht, sofern er nach diesem Buch erforderlich
+ist, und das nach § 259 erstattete Prüfungsgutachten auszulegen.
+Der Vorstand hat den Formwechselbeschluss zu Beginn der Verhandlung
 mündlich zu erläutern.
 
 (2) Das Prüfungsgutachten ist in der Generalversammlung zu verlesen.
@@ -5229,11 +4845,11 @@ teilzunehmen.
 
 ##### § 262 Beschluß der Generalversammlung
 
-(1) Der Umwandlungsbeschluß der Generalversammlung bedarf einer
+(1) Der Formwechselbeschluss der Generalversammlung bedarf einer
 Mehrheit von mindestens drei Vierteln der abgegebenen Stimmen. Er
 bedarf einer Mehrheit von neun Zehnteln der abgegebenen Stimmen, wenn
 spätestens bis zum Ablauf des dritten Tages vor der Generalversammlung
-mindestens 100 Mitglieder, bei Genossenschaften mit weniger als 1.000
+mindestens 100 Mitglieder, bei Genossenschaften mit weniger als 1 000
 Mitgliedern ein Zehntel der Mitglieder, durch eingeschriebenen Brief
 Widerspruch gegen den Formwechsel erhoben haben. Die Satzung kann
 größere Mehrheiten und weitere Erfordernisse bestimmen.
@@ -5242,18 +4858,18 @@ größere Mehrheiten und weitere Erfordernisse bestimmen.
 240 Abs. 2 entsprechend anzuwenden.
 
 
-##### § 263 Inhalt des Umwandlungsbeschlusses
+##### § 263 Inhalt des Formwechselbeschlusses
 
-(1) Auf den Umwandlungsbeschluß sind auch die §§ 218, 243 Abs. 3 und §
-244 Abs. 2 entsprechend anzuwenden.
+(1) Auf den Formwechselbeschluss sind auch die §§ 218, 243 Abs. 3 und
+§ 244 Abs. 2 entsprechend anzuwenden.
 
-(2) In dem Beschluß ist bei der Festlegung von Zahl, Art und Umfang
-der Anteile (§ 194 Abs. 1 Nr. 4) zu bestimmen, daß an dem Stammkapital
-oder an dem Grundkapital der Gesellschaft neuer Rechtsform jedes
-Mitglied, das die Rechtsstellung eines beschränkt haftenden
-Gesellschafters oder eines Aktionärs erlangt, in dem Verhältnis
-beteiligt wird, in dem am Ende des letzten vor der Beschlußfassung
-über den Formwechsel abgelaufenen Geschäftsjahres sein
+(2) In dem Beschluß ist bei der Festlegung von Zahl, Art und
+Umfang der Anteile (§ 194 Abs. 1 Nr. 4) zu bestimmen, daß an
+dem Stammkapital oder an dem Grundkapital der Gesellschaft neuer
+Rechtsform jedes Mitglied, das die Rechtsstellung eines beschränkt
+haftenden Gesellschafters oder eines Aktionärs erlangt, in dem
+Verhältnis beteiligt wird, in dem am Ende des letzten vor der
+Beschlußfassung über den Formwechsel abgelaufenen Geschäftsjahres sein
 Geschäftsguthaben zur Summe der Geschäftsguthaben aller Mitglieder
 gestanden hat, die durch den Formwechsel Gesellschafter oder Aktionäre
 geworden sind. Der Nennbetrag des Grundkapitals ist so zu bemessen,
@@ -5263,13 +4879,13 @@ daß auf jedes Mitglied möglichst volle Aktien entfallen.
 sollen auf einen höheren Nennbetrag als hundert Euro nur gestellt
 werden, soweit auf die Mitglieder der formwechselnden Genossenschaft
 volle Geschäftsanteile mit dem höheren Nennbetrag entfallen. Aktien
-können auf einen höheren Betrag als den Mindestbetrag nach § 8 Abs. 2
-und 3 des Aktiengesetzes nur gestellt werden, soweit volle Aktien mit
-dem höheren Betrag auf die Mitglieder entfallen. Wird das
+können auf einen höheren Betrag als den Mindestbetrag nach § 8
+Abs. 2 und 3 des Aktiengesetzes nur gestellt werden, soweit volle
+Aktien mit dem höheren Betrag auf die Mitglieder entfallen. Wird das
 Vertretungsorgan der Aktiengesellschaft oder der Kommanditgesellschaft
 auf Aktien in der Satzung ermächtigt, das Grundkapital bis zu einem
-bestimmten Nennbetrag durch Ausgabe neuer Aktien gegen Einlagen zu
-erhöhen, so darf die Ermächtigung nicht vorsehen, daß das
+bestimmten Nennbetrag durch Ausgabe neuer Aktien gegen Einlagen
+zu erhöhen, so darf die Ermächtigung nicht vorsehen, daß das
 Vertretungsorgan über den Ausschluß des Bezugsrechts entscheidet.
 
 
@@ -5286,12 +4902,12 @@ sind die Mitglieder der formwechselnden Genossenschaft nicht
 verpflichtet, einen Sachgründungsbericht zu erstatten.
 
 (3) Beim Formwechsel in eine Aktiengesellschaft oder in eine
-Kommanditgesellschaft auf Aktien hat die Gründungsprüfung durch einen
-oder mehrere Prüfer (§ 33 Abs. 2 des Aktiengesetzes) in jedem Fall
-stattzufinden. Jedoch sind die Mitglieder der formwechselnden
+Kommanditgesellschaft auf Aktien hat die Gründungsprüfung durch
+einen oder mehrere Prüfer (§ 33 Abs. 2 des Aktiengesetzes) in jedem
+Fall stattzufinden. Jedoch sind die Mitglieder der formwechselnden
 Genossenschaft nicht verpflichtet, einen Gründungsbericht zu
-erstatten; die §§ 32, 35 Abs. 1 und 2 und § 46 des Aktiengesetzes sind
-nicht anzuwenden. Die für Nachgründungen in § 52 Abs. 1 des
+erstatten; die §§ 32, 35 Abs. 1 und 2 und § 46 des Aktiengesetzes
+sind nicht anzuwenden. Die für Nachgründungen in § 52 Abs. 1 des
 Aktiengesetzes bestimmte Frist von zwei Jahren beginnt mit dem
 Wirksamwerden des Formwechsels.
 
@@ -5327,9 +4943,9 @@ Teilrechten zu vollen Aktien vermitteln.
 ##### § 267 Benachrichtigung der Anteilsinhaber
 
 (1) Das Vertretungsorgan der Gesellschaft neuer Rechtsform hat jedem
-Anteilsinhaber unverzüglich nach der Bekanntmachung der Eintragung der
-Gesellschaft in das Register deren Inhalt sowie die Zahl und, mit
-Ausnahme von Stückaktien, den Nennbetrag der Anteile und des
+Anteilsinhaber unverzüglich nach der Bekanntmachung der Eintragung
+der Gesellschaft in das Register deren Inhalt sowie die Zahl und,
+mit Ausnahme von Stückaktien, den Nennbetrag der Anteile und des
 Teilrechts, die auf ihn entfallen sind, in Textform mitzuteilen. Dabei
 soll auf die Vorschriften über Teilrechte in § 266 hingewiesen werden.
 
@@ -5341,12 +4957,12 @@ Gesellschaftsblättern bekanntzumachen. Der Hinweis nach Absatz 1 Satz
 ##### § 268 Aufforderung an die Aktionäre; Veräußerung von Aktien
 
 (1) In der Mitteilung nach § 267 sind Aktionäre aufzufordern, die
-ihnen zustehenden Aktien abzuholen. Dabei ist darauf hinzuweisen, daß
-die Gesellschaft berechtigt ist, Aktien, die nicht binnen sechs
-Monaten seit der Bekanntmachung der Aufforderung in den
+ihnen zustehenden Aktien abzuholen. Dabei ist darauf hinzuweisen,
+daß die Gesellschaft berechtigt ist, Aktien, die nicht binnen
+sechs Monaten seit der Bekanntmachung der Aufforderung in den
 Gesellschaftsblättern abgeholt werden, nach dreimaliger Androhung für
-Rechnung der Beteiligten zu veräußern. Dieser Hinweis braucht nicht in
-die Bekanntmachung der Aufforderung in den Gesellschaftsblättern
+Rechnung der Beteiligten zu veräußern. Dieser Hinweis braucht nicht
+in die Bekanntmachung der Aufforderung in den Gesellschaftsblättern
 aufgenommen zu werden.
 
 (2) Nach Ablauf von sechs Monaten seit der Bekanntmachung der
@@ -5357,8 +4973,8 @@ Gesellschaftsblättern bekanntzumachen. Die letzte Bekanntmachung muß
 vor dem Ablauf von einem Jahr seit der Bekanntmachung der Aufforderung
 ergehen.
 
-(3) Nach Ablauf von sechs Monaten seit der letzten Bekanntmachung der
-Androhung hat die Gesellschaft die nicht abgeholten Aktien für
+(3) Nach Ablauf von sechs Monaten seit der letzten Bekanntmachung
+der Androhung hat die Gesellschaft die nicht abgeholten Aktien für
 Rechnung der Beteiligten zum amtlichen Börsenpreis durch Vermittlung
 eines Kursmaklers und beim Fehlen eines Börsenpreises durch
 öffentliche Versteigerung zu veräußern. § 226 Abs. 3 Satz 2 bis 6 des
@@ -5368,8 +4984,8 @@ Aktiengesetzes ist entsprechend anzuwenden.
 ##### § 269 Hauptversammlungsbeschlüsse, genehmigtes Kapital
 
 Solange beim Formwechsel in eine Aktiengesellschaft oder in eine
-Kommanditgesellschaft auf Aktien die abgeholten oder nach § 268 Abs. 3
-veräußerten Aktien nicht insgesamt mindestens sechs Zehntel des
+Kommanditgesellschaft auf Aktien die abgeholten oder nach § 268 Abs.
+3 veräußerten Aktien nicht insgesamt mindestens sechs Zehntel des
 Grundkapitals erreichen, kann die Hauptversammlung der Gesellschaft
 neuer Rechtsform keine Beschlüsse fassen, die nach Gesetz oder Satzung
 einer Kapitalmehrheit bedürfen. Das Vertretungsorgan der Gesellschaft
@@ -5380,8 +4996,8 @@ des Grundkapitals keinen Gebrauch machen.
 ##### § 270 Abfindungsangebot
 
 (1) Das Abfindungsangebot nach § 207 Abs. 1 Satz 1 gilt auch für jedes
-Mitglied, das dem Formwechsel bis zum Ablauf des dritten Tages vor dem
-Tage, an dem der Umwandlungsbeschluß gefaßt worden ist, durch
+Mitglied, das dem Formwechsel bis zum Ablauf des dritten Tages vor
+dem Tage, an dem der Formwechselbeschluss gefaßt worden ist, durch
 eingeschriebenen Brief widersprochen hat.
 
 (2) Zu dem Abfindungsangebot ist eine gutachtliche Äußerung des
@@ -5391,10 +5007,10 @@ anzuwenden.
 
 ##### § 271 Fortdauer der Nachschußpflicht
 
-Wird über das Vermögen der Gesellschaft neuer Rechtsform binnen zwei
-Jahren nach dem Tage, an dem ihre Eintragung in das Register bekannt
-gemacht worden ist, das Insolvenzverfahren eröffnet, so ist jedes
-Mitglied, das durch den Formwechsel die Rechtsstellung eines
+Wird über das Vermögen der Gesellschaft neuer Rechtsform binnen
+zwei Jahren nach dem Tage, an dem ihre Eintragung in das Register
+bekannt gemacht worden ist, das Insolvenzverfahren eröffnet, so ist
+jedes Mitglied, das durch den Formwechsel die Rechtsstellung eines
 beschränkt haftenden Gesellschafters oder eines Aktionärs erlangt hat,
 im Rahmen der Satzung der formwechselnden Genossenschaft (§ 6 Nr. 3
 des Genossenschaftsgesetzes) zu Nachschüssen verpflichtet, auch wenn
@@ -5408,15 +5024,13 @@ begründet waren.
 #### Vierter Abschnitt - Formwechsel rechtsfähiger Vereine
 
 
-
 ##### Erster Unterabschnitt - Allgemeine Vorschriften
-
 
 
 ###### § 272 Möglichkeit des Formwechsels
 
 (1) Ein rechtsfähiger Verein kann auf Grund eines
-Umwandlungsbeschlusses nur die Rechtsform einer Kapitalgesellschaft
+Formwechselbeschlusses nur die Rechtsform einer Kapitalgesellschaft
 oder einer eingetragenen Genossenschaft erlangen.
 
 (2) Ein Verein kann die Rechtsform nur wechseln, wenn seine Satzung
@@ -5424,7 +5038,6 @@ oder Vorschriften des Landesrechts nicht entgegenstehen.
 
 
 ##### Zweiter Unterabschnitt - Formwechsel in eine Kapitalgesellschaft
-
 
 
 ###### § 273 Möglichkeit des Formwechsels
@@ -5448,17 +5061,18 @@ soll, ist § 239 Abs. 1 Satz 1 und Abs. 2 entsprechend anzuwenden.
 
 ###### § 275 Beschluß der Mitgliederversammlung
 
-(1) Der Umwandlungsbeschluß der Mitgliederversammlung bedarf, wenn der
-Zweck des Rechtsträgers geändert werden soll (§ 33 Abs. 1 Satz 2 des
-Bürgerlichen Gesetzbuchs), der Zustimmung aller anwesenden Mitglieder;
-ihm müssen auch die nicht erschienenen Mitglieder zustimmen.
+(1) Der Formwechselbeschluss der Mitgliederversammlung bedarf, wenn
+der Zweck des Rechtsträgers geändert werden soll (§ 33 Abs. 1 Satz
+2 des Bürgerlichen Gesetzbuchs), der Zustimmung aller anwesenden
+Mitglieder; ihm müssen auch die nicht erschienenen Mitglieder
+zustimmen.
 
-(2) In anderen Fällen bedarf der Umwandlungsbeschluß einer Mehrheit
-von mindestens drei Vierteln der abgegebenen Stimmen. Er bedarf einer
-Mehrheit von mindestens neun Zehnteln der abgegebenen Stimmen, wenn
-spätestens bis zum Ablauf des dritten Tages vor der
-Mitgliederversammlung wenigstens hundert Mitglieder, bei Vereinen mit
-weniger als tausend Mitgliedern ein Zehntel der Mitglieder, durch
+(2) In anderen Fällen bedarf der Formwechselbeschluss einer
+Mehrheit von mindestens drei Vierteln der abgegebenen Stimmen. Er
+bedarf einer Mehrheit von mindestens neun Zehnteln der abgegebenen
+Stimmen, wenn spätestens bis zum Ablauf des dritten Tages vor der
+Mitgliederversammlung wenigstens hundert Mitglieder, bei Vereinen
+mit weniger als tausend Mitgliedern ein Zehntel der Mitglieder, durch
 eingeschriebenen Brief Widerspruch gegen den Formwechsel erhoben
 haben. Die Satzung kann größere Mehrheiten und weitere Erfordernisse
 bestimmen.
@@ -5467,9 +5081,9 @@ bestimmen.
 240 Abs. 2 entsprechend anzuwenden.
 
 
-###### § 276 Inhalt des Umwandlungsbeschlusses
+###### § 276 Inhalt des Formwechselbeschlusses
 
-(1) Auf den Umwandlungsbeschluß sind auch die §§ 218, 243 Abs. 3, §
+(1) Auf den Formwechselbeschluss sind auch die §§ 218, 243 Abs. 3, §
 244 Abs. 2 und § 263 Abs. 2 Satz 2, Abs. 3 entsprechend anzuwenden.
 
 (2) Die Beteiligung der Mitglieder am Stammkapital oder am
@@ -5480,29 +5094,21 @@ oder mehreren der folgenden Maßstäbe festgesetzt werden:
 1.  bei Vereinen, deren Vermögen in übertragbare Anteile zerlegt ist, der
     Nennbetrag oder der Wert dieser Anteile;
 
-
 2.  die Höhe der Beiträge;
-
 
 3.  bei Vereinen, die zu ihren Mitgliedern oder einem Teil der Mitglieder
     in vertraglichen Geschäftsbeziehungen stehen, der Umfang der
     Inanspruchnahme von Leistungen des Vereins durch die Mitglieder oder
-    der Umfang der Inanspruchnahme von Leistungen der Mitglieder durch den
-    Verein;
-
+    der Umfang der Inanspruchnahme von Leistungen der Mitglieder durch
+    den Verein;
 
 4.  ein in der Satzung bestimmter Maßstab für die Verteilung des
     Überschusses;
 
-
 5.  ein in der Satzung bestimmter Maßstab für die Verteilung des
     Vermögens;
 
-
 6.  die Dauer der Mitgliedschaft.
-
-
-
 
 
 ###### § 277 Kapitalschutz
@@ -5521,9 +5127,9 @@ eingetragen, so hat sein Vorstand den bevorstehenden Formwechsel durch
 das in der Vereinssatzung für Veröffentlichungen bestimmte Blatt, in
 Ermangelung eines solchen durch dasjenige Blatt bekanntzumachen, das
 für Bekanntmachungen des Amtsgerichts bestimmt ist, in dessen Bezirk
-der formwechselnde Verein seinen Sitz hat. Die Bekanntmachung tritt an
-die Stelle der Eintragung der Umwandlung in das Register nach § 198
-Abs. 2 Satz 3. § 50 Abs. 1 Satz 4 des Bürgerlichen Gesetzbuchs ist
+der formwechselnde Verein seinen Sitz hat. Die Bekanntmachung tritt
+an die Stelle der Eintragung der Umwandlung in das Register nach §
+198 Abs. 2 Satz 3. § 50 Abs. 1 Satz 4 des Bürgerlichen Gesetzbuchs ist
 entsprechend anzuwenden.
 
 
@@ -5556,14 +5162,13 @@ Erhöhung des Grundkapitals ist § 269 entsprechend anzuwenden.
 (1) Auf das Abfindungsangebot nach § 207 Abs. 1 Satz 1 ist § 270 Abs.
 1 entsprechend anzuwenden.
 
-(2) Absatz 1 und die §§ 207 bis 212 sind auf den Formwechsel eines
-eingetragenen Vereins, der nach § 5 Abs. 1 Nr. 9 des
+(2) Absatz 1 und die §§ 207 bis 212 sind auf den Formwechsel
+eines eingetragenen Vereins, der nach § 5 Abs. 1 Nr. 9 des
 Körperschaftsteuergesetzes von der Körperschaftsteuer befreit ist,
 nicht anzuwenden.
 
 
 ##### Dritter Unterabschnitt - Formwechsel in eine eingetragene Genossenschaft
-
 
 
 ###### § 283 Vorbereitung und Durchführung der Mitgliederversammlung
@@ -5579,7 +5184,7 @@ soll, ist § 239 Abs. 1 Satz 1 und Abs. 2 entsprechend anzuwenden.
 
 ###### § 284 Beschluß der Mitgliederversammlung
 
-Der Umwandlungsbeschluß der Mitgliederversammlung bedarf, wenn der
+Der Formwechselbeschluss der Mitgliederversammlung bedarf, wenn der
 Zweck des Rechtsträgers geändert werden soll (§ 33 Abs. 1 Satz 2 des
 Bürgerlichen Gesetzbuchs) oder wenn die Satzung der Genossenschaft
 eine Verpflichtung der Mitglieder der Genossenschaft zur Leistung von
@@ -5588,9 +5193,9 @@ müssen auch die nicht erschienenen Mitglieder zustimmen. Im übrigen
 ist § 275 Abs. 2 entsprechend anzuwenden.
 
 
-###### § 285 Inhalt des Umwandlungsbeschlusses
+###### § 285 Inhalt des Formwechselbeschlusses
 
-(1) Auf den Umwandlungsbeschluß ist auch § 253 Abs. 1 und Abs. 2 Satz
+(1) Auf den Formwechselbeschluss ist auch § 253 Abs. 1 und Abs. 2 Satz
 1 entsprechend anzuwenden.
 
 (2) Sollen bei der Genossenschaft nicht alle Mitglieder mit der
@@ -5614,7 +5219,7 @@ entsprechend anzuwenden.
 
 (1) Jedes Mitglied, das die Rechtsstellung eines Mitglieds der
 Genossenschaft erlangt, ist bei der Genossenschaft nach Maßgabe des
-Umwandlungsbeschlusses beteiligt. Eine Verpflichtung zur Übernahme
+Formwechselbeschlusses beteiligt. Eine Verpflichtung zur Übernahme
 weiterer Geschäftsanteile bleibt unberührt. § 255 Abs. 1 Satz 3 ist
 entsprechend anzuwenden.
 
@@ -5642,12 +5247,11 @@ sowie § 282 Abs. 2 entsprechend anzuwenden.
 #### Fünfter Abschnitt - Formwechsel von Versicherungsvereinen auf Gegenseitigkeit
 
 
-
 ##### § 291 Möglichkeit des Formwechsels
 
 (1) Ein Versicherungsverein auf Gegenseitigkeit, der kein kleinerer
-Verein im Sinne des § 210 des Versicherungsaufsichtsgesetzes ist, kann
-auf Grund eines Umwandlungsbeschlusses nur die Rechtsform einer
+Verein im Sinne des § 210 des Versicherungsaufsichtsgesetzes ist,
+kann auf Grund eines Formwechselbeschlusses nur die Rechtsform einer
 Aktiengesellschaft erlangen.
 
 (2) Der Formwechsel ist nur möglich, wenn auf jedes Mitglied des
@@ -5668,29 +5272,29 @@ entsprechend anzuwenden.
 
 ##### § 293 Beschluß der obersten Vertretung
 
-Der Umwandlungsbeschluß der obersten Vertretung bedarf einer Mehrheit
-von mindestens drei Vierteln der abgegebenen Stimmen. Er bedarf einer
-Mehrheit von neun Zehnteln der abgegebenen Stimmen, wenn spätestens
-bis zum Ablauf des dritten Tages vor der Versammlung der obersten
-Vertretung wenigstens hundert Mitglieder des Vereins durch
+Der Formwechselbeschluss der obersten Vertretung bedarf einer
+Mehrheit von mindestens drei Vierteln der abgegebenen Stimmen. Er
+bedarf einer Mehrheit von neun Zehnteln der abgegebenen Stimmen, wenn
+spätestens bis zum Ablauf des dritten Tages vor der Versammlung der
+obersten Vertretung wenigstens hundert Mitglieder des Vereins durch
 eingeschriebenen Brief Widerspruch gegen den Formwechsel erhoben
 haben. Die Satzung kann größere Mehrheiten und weitere Erfordernisse
 bestimmen.
 
 
-##### § 294 Inhalt des Umwandlungsbeschlusses
+##### § 294 Inhalt des Formwechselbeschlusses
 
-(1) Auf den Umwandlungsbeschluß sind auch § 218 Abs. 1 und § 263 Abs.
-3 Satz 2 und 3 entsprechend anzuwenden. In dem Umwandlungsbeschluß
-kann bestimmt werden, daß Mitglieder, die dem formwechselnden Verein
-weniger als drei Jahre vor der Beschlußfassung über den Formwechsel
-angehören, von der Beteiligung an der Aktiengesellschaft
+(1) Auf den Formwechselbeschluss sind auch § 218 Abs. 1 und § 263 Abs.
+3 Satz 2 und 3 entsprechend anzuwenden. In dem Formwechselbeschluss
+kann bestimmt werden, daß Mitglieder, die dem formwechselnden
+Verein weniger als drei Jahre vor der Beschlußfassung über den
+Formwechsel angehören, von der Beteiligung an der Aktiengesellschaft
 ausgeschlossen sind.
 
-(2) Das Grundkapital der Aktiengesellschaft ist in der Höhe des
-Grundkapitals vergleichbarer Versicherungsunternehmen in der
-Rechtsform der Aktiengesellschaft festzusetzen. Würde die
-Aufsichtsbehörde einer neu zu gründenden Versicherungs-
+(2) Das Grundkapital der Aktiengesellschaft ist in der Höhe
+des Grundkapitals vergleichbarer Versicherungsunternehmen
+in der Rechtsform der Aktiengesellschaft festzusetzen. Würde
+die Aufsichtsbehörde einer neu zu gründenden Versicherungs-
 Aktiengesellschaft die Erlaubnis zum Geschäftsbetrieb nur bei
 Festsetzung eines höheren Grundkapitals erteilen, so ist das
 Grundkapital auf diesen Betrag festzusetzen, soweit dies nach den
@@ -5707,25 +5311,17 @@ Maßstäbe festgesetzt werden:
 
 1.  die Höhe der Versicherungssumme;
 
-
 2.  die Höhe der Beiträge;
 
-
 3.  die Höhe der Deckungsrückstellung in der Lebensversicherung;
-
 
 4.  der in der Satzung bestimmte Maßstab für die Verteilung des
     Überschusses;
 
-
 5.  ein in der Satzung bestimmter Maßstab für die Verteilung des
     Vermögens;
 
-
 6.  die Dauer der Mitgliedschaft.
-
-
-
 
 
 ##### § 295 Kapitalschutz
@@ -5762,8 +5358,8 @@ anzuwenden.
 (2) Auf Beschlüsse der Hauptversammlung der Aktiengesellschaft sowie
 auf eine Ermächtigung des Vorstandes zur Erhöhung des Grundkapitals
 ist § 269 entsprechend anzuwenden. Die Aufsichtsbehörde kann Ausnahmen
-von der entsprechenden Anwendung des § 269 Satz 1 zulassen, wenn dies
-erforderlich ist, um zu verhindern, daß der Aktiengesellschaft
+von der entsprechenden Anwendung des § 269 Satz 1 zulassen, wenn
+dies erforderlich ist, um zu verhindern, daß der Aktiengesellschaft
 erhebliche Nachteile entstehen.
 
 
@@ -5774,7 +5370,6 @@ entsprechend anzuwenden.
 
 
 #### Sechster Abschnitt - Formwechsel von Körperschaften und Anstalten des öffentlichen Rechts
-
 
 
 ##### § 301 Möglichkeit des Formwechsels
@@ -5794,8 +5389,8 @@ Die Vorschriften des Ersten Teils sind auf den Formwechsel nur
 anzuwenden, soweit sich aus dem für die formwechselnde Körperschaft
 oder Anstalt maßgebenden Bundes- oder Landesrecht nichts anderes
 ergibt. Nach diesem Recht richtet es sich insbesondere, auf welche
-Weise der Gesellschaftsvertrag oder die Satzung der Gesellschaft neuer
-Rechtsform abgeschlossen oder festgestellt wird, wer an dieser
+Weise der Gesellschaftsvertrag oder die Satzung der Gesellschaft
+neuer Rechtsform abgeschlossen oder festgestellt wird, wer an dieser
 Gesellschaft als Anteilsinhaber beteiligt wird und welche Person oder
 welche Personen den Gründern der Gesellschaft gleichstehen; die §§ 28
 und 29 des Aktiengesetzes sind nicht anzuwenden.
@@ -5808,8 +5403,8 @@ Gründungsvorschriften ist auch § 220 entsprechend anzuwenden.
 
 (2) Ein Formwechsel in eine Kommanditgesellschaft auf Aktien bedarf
 der Zustimmung aller Anteilsinhaber, die in dieser Gesellschaft die
-Stellung eines persönlich haftenden Gesellschafters haben sollen. Auf
-den Beitritt persönlich haftender Gesellschafter ist § 221
+Stellung eines persönlich haftenden Gesellschafters haben sollen.
+Auf den Beitritt persönlich haftender Gesellschafter ist § 221
 entsprechend anzuwenden.
 
 
@@ -5820,18 +5415,1365 @@ Handelsregister wirksam. Mängel des Formwechsels lassen die Wirkungen
 der Eintragung unberührt.
 
 
-##### (XXXX) §§ 305 bis 312 (weggefallen)
+## Sechstes Buch - Grenzüberschreitende Umwandlung
 
 
-
-## Sechstes Buch - Strafvorschriften und Zwangsgelder
-
+### Erster Teil - Grenzüberschreitende Verschmelzung
 
 
-### § 313 Unrichtige Darstellung
+#### § 305 Grenzüberschreitende Verschmelzung
 
-(1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
-bestraft, wer als Mitglied eines Vertretungsorgans, als
+(1) Eine grenzüberschreitende Verschmelzung ist eine Verschmelzung,
+bei der mindestens eine der beteiligten Gesellschaften dem Recht
+eines anderen Mitgliedstaats der Europäischen Union oder eines anderen
+Vertragsstaats des Abkommens über den Europäischen Wirtschaftsraum
+unterliegt.
+
+(2) Auf die Beteiligung einer Kapitalgesellschaft (§ 3 Absatz 1 Nummer
+2) an einer grenzüberschreitenden Verschmelzung sind die Vorschriften
+des Ersten Teils und des Zweiten, Dritten und Vierten Abschnitts
+des Zweiten Teils des Zweiten Buches entsprechend anzuwenden, soweit
+sich aus diesem Teil nichts anderes ergibt. Auf die Beteiligung
+einer Personenhandelsgesellschaft (§ 3 Absatz 1 Nummer 1) an einer
+grenzüberschreitenden Verschmelzung sind die Vorschriften des Ersten
+Teils und des Zweiten Unterabschnitts des Ersten Abschnitts des
+Zweiten Teils des Zweiten Buches entsprechend anzuwenden, soweit sich
+aus diesem Teil nichts anderes ergibt.
+
+
+#### § 306 Verschmelzungsfähige Gesellschaften
+
+(1) An einer grenzüberschreitenden Verschmelzung können beteiligt
+sein:
+
+1.  als übertragende, übernehmende oder neue Gesellschaften
+    Kapitalgesellschaften im Sinne des Artikels 119 Nummer 1 der
+    Richtlinie (EU) 2017/1132 des Europäischen Parlaments und des Rates
+    vom 14. Juni 2017 über bestimmte Aspekte des Gesellschaftsrechts (ABl.
+    L 169 vom 30.6.2017, S. 46), die zuletzt durch die Verordnung (EU)
+    2021/23 (ABl. L 22 vom 22.1.2021, S. 1) geändert worden ist, die
+
+    a)  nach dem Recht eines Mitgliedstaats der Europäischen Union oder
+        eines anderen Vertragsstaats des Abkommens über den Europäischen
+        Wirtschaftsraum gegründet worden sind und
+
+    b)  ihren satzungsmäßigen Sitz, ihre Hauptverwaltung oder ihre
+        Hauptniederlassung in einem Mitgliedstaat der Europäischen Union
+        oder einem anderen Vertragsstaat des Abkommens über den Europäischen
+        Wirtschaftsraum haben, sowie
+
+2.  als übernehmende oder neue Gesellschaften
+    Personenhandelsgesellschaften im Sinne des § 3 Absatz 1 Nummer 1 mit
+    in der Regel nicht mehr als 500 Arbeitnehmern.
+
+(2) An einer grenzüberschreitenden Verschmelzung können nicht
+beteiligt sein:
+
+1.  Genossenschaften, selbst wenn sie nach dem Recht eines anderen
+    Mitgliedstaats der Europäischen Union oder eines anderen
+    Vertragsstaats des Abkommens über den Europäischen Wirtschaftsraum
+    unter die Definition des Artikels 2 Nummer 1 der Richtlinie fallen,
+    sowie
+
+2.  Gesellschaften,
+
+    a)  deren Zweck es ist, die vom Publikum bei ihnen eingelegten Gelder nach
+        dem Grundsatz der Risikostreuung gemeinsam anzulegen, und
+
+    b)  deren Anteile auf Verlangen der Anteilsinhaber unmittelbar oder
+        mittelbar zulasten des Vermögens der Gesellschaft zurückgenommen oder
+        ausgezahlt werden.
+
+Den Rücknahmen oder Auszahlungen im Sinne des Satzes 1 Nummer 2
+Buchstabe b gleichgestellt sind Handlungen, mit denen eine solche
+Gesellschaft sicherstellen will, dass der Börsenwert ihrer Anteile
+nicht erheblich von deren Nettoinventarwert abweicht.
+
+
+#### § 307 Verschmelzungsplan
+
+(1) Das Vertretungsorgan einer beteiligten Gesellschaft stellt
+zusammen mit den Vertretungsorganen der übrigen beteiligten
+Gesellschaften einen gemeinsamen Verschmelzungsplan auf.
+
+(2) Der Verschmelzungsplan oder sein Entwurf muss mindestens folgende
+Angaben enthalten:
+
+1.  Rechtsform, Firma und Sitz der übertragenden und übernehmenden oder
+    neuen Gesellschaft,
+
+2.  das Umtauschverhältnis der Gesellschaftsanteile und gegebenenfalls die
+    Höhe der baren Zuzahlungen,
+
+3.  die Einzelheiten hinsichtlich der Übertragung der Gesellschaftsanteile
+    der übernehmenden oder neuen Gesellschaft,
+
+4.  die voraussichtlichen Auswirkungen der Verschmelzung auf die
+    Beschäftigung,
+
+5.  den Zeitpunkt, von dem an die Gesellschaftsanteile deren Inhabern das
+    Recht auf Beteiligung am Gewinn gewähren, sowie alle Besonderheiten,
+    die eine Auswirkung auf dieses Recht haben,
+
+6.  den Zeitpunkt, von dem an die Handlungen der übertragenden
+    Gesellschaften unter dem Gesichtspunkt der Rechnungslegung als für
+    Rechnung der übernehmenden oder neuen Gesellschaft vorgenommen gelten
+    (Verschmelzungsstichtag),
+
+7.  die Rechte, die die übernehmende oder neue Gesellschaft den mit
+    Sonderrechten ausgestatteten Gesellschaftern und den Inhabern von
+    anderen Wertpapieren als Gesellschaftsanteilen gewährt, oder die für
+    diese Personen vorgeschlagenen Maßnahmen,
+
+8.  etwaige besondere Vorteile, die den Mitgliedern der Verwaltungs-,
+    Leitungs-, Aufsichts- oder Kontrollorgane der an der Verschmelzung
+    beteiligten Gesellschaften gewährt werden,
+
+9.  sofern einschlägig den Errichtungsakt der aus der
+    grenzüberschreitenden Verschmelzung hervorgehenden Gesellschaft und,
+    falls sie Gegenstand eines gesonderten Aktes ist, die Satzung,
+
+10. gegebenenfalls Angaben zu dem Verfahren, nach dem die Einzelheiten
+    über die Beteiligung der Arbeitnehmer an der Festlegung ihrer
+    Mitbestimmungsrechte in der aus der grenzüberschreitenden
+    Verschmelzung hervorgehenden Gesellschaft geregelt werden,
+
+11. Angaben zur Bewertung des Aktiv- und Passivvermögens, das auf die
+    übernehmende oder neue Gesellschaft übertragen wird,
+
+12. den Stichtag derjenigen Bilanzen der an der Verschmelzung beteiligten
+    Gesellschaften, die zur Festlegung der Bedingungen der Verschmelzung
+    verwendet werden,
+
+13. die Einzelheiten zum Angebot einer Barabfindung gemäß § 313,
+
+14. Angaben über Sicherheiten, die den Gläubigern angeboten werden,
+
+15. im Fall der Verschmelzung auf eine Personenhandelsgesellschaft gemäß §
+    306 Absatz 1 Nummer 2
+
+    a)  für jeden Anteilsinhaber eines übertragenden Rechtsträgers
+        die Bestimmung, ob ihm in der übernehmenden oder der neuen
+        Personenhandelsgesellschaft die Stellung eines persönlich haftenden
+        Gesellschafters oder eines Kommanditisten gewährt wird,
+
+    b)  der festgesetzte Betrag der Einlage jedes Gesellschafters,
+
+16. Informationen über die Auswirkungen der grenzüberschreitenden
+    Verschmelzung auf Betriebsrenten und Betriebsrentenanwartschaften.
+
+(3) Die Angaben über den Umtausch der Anteile (Absatz 2 Nummer 2, 3
+und 5) und die Einzelheiten zum Angebot einer Barabfindung (Absatz 2
+Nummer 13) entfallen, wenn
+
+1.  sich alle Anteile der übertragenden Gesellschaft in der Hand der
+    übernehmenden Gesellschaft befinden oder
+
+2.  den Anteilsinhabern der übertragenden Gesellschaft keine Anteile
+    gewährt werden und dieselbe Person
+
+    a)  alle Anteile der übertragenden und der übernehmenden Gesellschaft
+        besitzt,
+
+    b)  alle Anteile an solchen Gesellschaften besitzt, die gemeinsam alle
+        Anteile an der übertragenden oder an der übernehmenden Gesellschaft
+        besitzen, oder
+
+    c)  alle Anteile an solchen Gesellschaften besitzt, bei denen sich
+        die Inhaberschaft an Anteilen bis zu der übertragenden oder der
+        übernehmenden Gesellschaft fortsetzt.
+
+(4) Der Verschmelzungsplan muss notariell beurkundet werden.
+
+
+#### § 308 Bekanntmachung des Verschmelzungsplans
+
+(1) Der Verschmelzungsplan oder sein Entwurf ist zum Register
+einzureichen. Das Gericht hat in der Bekanntmachung nach § 10 des
+Handelsgesetzbuchs unverzüglich die folgenden Angaben bekannt zu
+machen:
+
+1.  einen Hinweis darauf, dass der Verschmelzungsplan oder sein Entwurf
+    beim Handelsregister eingereicht worden ist,
+
+2.  Rechtsform, Firma und Sitz der an der grenzüberschreitenden
+    Verschmelzung beteiligten Gesellschaften,
+
+3.  die Register, bei denen die an der grenzüberschreitenden Verschmelzung
+    beteiligten Gesellschaften eingetragen sind, sowie die jeweilige
+    Registernummer,
+
+4.  einen Hinweis an folgende Personen, dass sie der jeweiligen
+    Gesellschaft spätestens fünf Arbeitstage vor dem Tag der
+    Gesellschafterversammlung Bemerkungen zum Verschmelzungsplan
+    übermitteln können:
+
+    a)  an die Anteilsinhaber und Gläubiger der an der grenzüberschreitenden
+        Verschmelzung beteiligten Gesellschaften sowie
+
+    b)  an die zuständigen Betriebsräte der an der grenzüberschreitenden
+        Verschmelzung beteiligten Gesellschaften oder, soweit es keinen
+        Betriebsrat gibt, an die Arbeitnehmer der an der grenzüberschreitenden
+        Verschmelzung beteiligten Gesellschaften.
+
+Die bekannt zu machenden Angaben sind dem Register bei Einreichung des
+Verschmelzungsplans oder seines Entwurfs mitzuteilen. Die Versammlung
+der Anteilsinhaber darf erst einen Monat nach der Bekanntmachung über
+die Zustimmung zu dem Verschmelzungsplan gemäß § 13 beschließen.
+
+(2) Ist ein Verschmelzungsbeschluss der Anteilsinhaber der
+übertragenden Gesellschaft gemäß § 312 Absatz 2 in Verbindung mit §
+307 Absatz 3 nicht erforderlich, so hat die übertragende Gesellschaft
+den Verschmelzungsplan spätestens einen Monat vor dem Tag, an dem der
+Verschmelzungsplan beurkundet wird, zum Register einzureichen.
+
+(3) Ist ein Verschmelzungsbeschluss der Anteilsinhaber der
+übertragenden Gesellschaft erforderlich, ein Verschmelzungsbeschluss
+der Anteilsinhaber der übernehmenden Gesellschaft hingegen gemäß § 62
+Absatz 1 nicht erforderlich, so hat die übernehmende Gesellschaft den
+Verschmelzungsplan einen Monat vor der Versammlung der Anteilsinhaber
+der übertragenden Gesellschaft, die gemäß § 13 über die Zustimmung
+beschließen soll, zum Register einzureichen.
+
+(4) Ist gemäß § 312 Absatz 2 und § 62 Absatz 1 weder ein
+Verschmelzungsbeschluss der Anteilsinhaber der übertragenden
+Gesellschaft noch ein Verschmelzungsbeschluss der Anteilsinhaber
+der übernehmenden Gesellschaft erforderlich, so hat die übernehmende
+Gesellschaft den Verschmelzungsplan spätestens einen Monat vor dem
+Tag, an dem der Verschmelzungsplan beurkundet wird, zum Register
+einzureichen.
+
+
+#### § 309 Verschmelzungsbericht
+
+(1) Die Vertretungsorgane der beteiligten Gesellschaften erstellen
+einen Verschmelzungsbericht. In diesem sind für die Anteilsinhaber
+und Arbeitnehmer der an der Verschmelzung beteiligten Gesellschaft
+die rechtlichen und wirtschaftlichen Aspekte der grenzüberschreitenden
+Verschmelzung und die Auswirkungen der grenzüberschreitenden
+Verschmelzung auf die Arbeitnehmer zu erläutern und zu begründen.
+
+(2) In einem allgemeinen Abschnitt werden mindestens die
+Auswirkungen der grenzüberschreitenden Verschmelzung auf die
+künftige Geschäftstätigkeit der Gesellschaft und ihrer etwaigen
+Tochtergesellschaften erläutert und begründet. Daneben enthält der
+Bericht einen anteilsinhaberspezifischen Abschnitt nach Absatz 4 und
+einen arbeitnehmerspezifischen Abschnitt nach Absatz 5.
+
+(3) Die Gesellschaft kann entscheiden, ob sie anstelle eines
+einheitlichen Berichts gesonderte Berichte für Anteilsinhaber und
+Arbeitnehmer erstellt. Der Bericht für Anteilsinhaber besteht aus dem
+allgemeinen Abschnitt und dem anteilsinhaberspezifischen Abschnitt.
+Der Bericht für Arbeitnehmer besteht aus dem allgemeinen Abschnitt und
+dem arbeitnehmerspezifischen Abschnitt.
+
+(4) In dem anteilsinhaberspezifischen Abschnitt wird über die in
+§ 8 Absatz 1 genannten Berichtsinhalte hinaus mindestens Folgendes
+erläutert und begründet:
+
+1.  die Auswirkungen der grenzüberschreitenden Verschmelzung auf die
+    Anteilsinhaber sowie
+
+2.  die Rechte und Rechtsbehelfe für Anteilsinhaber gemäß § 305 Absatz 2
+    in Verbindung mit § 15 und gegebenenfalls mit § 72a, sowie gemäß § 313
+    dieses Gesetzes und § 1 Nummer 4 des Spruchverfahrensgesetzes.
+
+(5) In dem arbeitnehmerspezifischen Abschnitt wird mindestens
+Folgendes erläutert und begründet:
+
+1.  die Auswirkungen der grenzüberschreitenden Verschmelzung auf die
+    Arbeitsverhältnisse sowie gegebenenfalls die Maßnahmen, um diese
+    Arbeitsverhältnisse zu sichern,
+
+2.  wesentliche Änderungen der anwendbaren Beschäftigungsbedingungen oder
+    der Standorte der Niederlassungen der Gesellschaft sowie
+
+3.  die Auswirkungen der unter den Nummern 1 und 2 genannten Faktoren
+    auf etwaige Tochtergesellschaften der an der grenzüberschreitenden
+    Verschmelzung beteiligten Gesellschaft.
+
+(6) Der Bericht für die Anteilsinhaber ist in den Fällen des § 8
+Absatz 3 nicht erforderlich. Der Bericht für die Anteilsinhaber der
+übertragenden Gesellschaft ist ferner nicht erforderlich in den Fällen
+des § 307 Absatz 3 Nummer 2 Buchstabe b und c. Der Bericht für die
+Arbeitnehmer ist nicht erforderlich, wenn die an der Verschmelzung
+beteiligte Gesellschaft und ihre etwaigen Tochtergesellschaften keine
+anderen Arbeitnehmer haben als diejenigen, die dem Vertretungsorgan
+angehören. Ein Verschmelzungsbericht ist insgesamt nicht erforderlich,
+wenn die Voraussetzungen der Sätze 1 oder 2 und des Satzes 3
+vorliegen.
+
+
+#### § 310 Zugänglichmachung des Verschmelzungsberichts
+
+(1) Der einheitliche Bericht ist den Anteilsinhabern und den
+zuständigen Betriebsräten der an der grenzüberschreitenden
+Verschmelzung beteiligten Gesellschaften oder, sofern es in der
+jeweiligen Gesellschaft keinen Betriebsrat gibt, den Arbeitnehmern
+spätestens sechs Wochen vor der Versammlung der Anteilsinhaber,
+die nach § 13 über die Zustimmung zum Verschmelzungsplan
+beschließen soll, elektronisch zugänglich zu machen. Erstellt die
+Gesellschaft gesonderte Berichte, ist innerhalb der genannten Frist
+den Anteilsinhabern der Bericht für die Anteilsinhaber und dem
+Betriebsrat oder, sofern es in der jeweiligen Gesellschaft keinen
+Betriebsrat gibt, den Arbeitnehmern der Bericht für die Arbeitnehmer
+zugänglich zu machen. Falls zu dem in Satz 1 bestimmten Zeitpunkt
+der Verschmelzungsplan oder sein Entwurf bereits vorliegt, ist dieser
+gemeinsam mit dem Verschmelzungsbericht zugänglich zu machen.
+
+(2) Ist ein Verschmelzungsbeschluss der übernehmenden Gesellschaft
+gemäß § 62 Absatz 1 nicht erforderlich, so muss der Bericht spätestens
+sechs Wochen vor dem Tag der Versammlung der Anteilsinhaber der
+übertragenden Gesellschaft zugänglich gemacht werden. Ist in den
+Fällen des § 308 Absatz 2 und 4 der gesonderte Bericht für die
+Arbeitnehmer erforderlich, so ist dieser zu den in § 308 Absatz 2 und
+4 bestimmten Zeitpunkten elektronisch zugänglich zu machen.
+
+(3) Erhält das Vertretungsorgan der an der grenzüberschreitenden
+Verschmelzung beteiligten Gesellschaft spätestens eine Woche vor der
+Versammlung der Anteilsinhaber, die nach § 13 über die Zustimmung zum
+Verschmelzungsplan beschließen soll, in Textform eine Stellungnahme
+des zuständigen Betriebsrats oder, sofern es in der Gesellschaft
+keinen Betriebsrat gibt, der Arbeitnehmer, so unterrichtet die
+Gesellschaft ihre Anteilsinhaber hiervon unverzüglich nach Fristablauf
+durch elektronische Zugänglichmachung des einheitlichen Berichts oder
+des Berichts für die Arbeitnehmer jeweils unter Beifügung einer Kopie
+der Stellungnahme.
+
+
+#### § 311 Verschmelzungsprüfung
+
+(1) Der Verschmelzungsplan oder sein Entwurf ist nach den §§ 9
+bis 12 zu prüfen; die §§ 39e und 48 sind nicht anzuwenden. Der
+Prüfungsbericht muss den Anteilsinhabern spätestens einen Monat vor
+dem Tag der Versammlung der Anteilsinhaber, die nach § 13 über die
+Zustimmung zum Verschmelzungsplan beschließen soll, zugänglich gemacht
+werden.
+
+(2) § 9 Absatz 2 und § 12 Absatz 3, jeweils in Verbindung mit
+§ 8 Absatz 3, gelten mit der Maßgabe, dass ein Verzicht aller
+Anteilsinhaber aller beteiligten Rechtsträger erforderlich ist.
+Verschmelzungsprüfung und Prüfungsbericht sind ferner nicht
+erforderlich in den Fällen des § 307 Absatz 3 Nummer 2 Buchstabe b
+und c.
+
+
+#### § 312 Zustimmung der Anteilsinhaber
+
+(1) Die Anteilsinhaber können ihre Zustimmung nach § 13 davon abhängig
+machen, dass die Art und Weise der Mitbestimmung der Arbeitnehmer der
+übernehmenden oder neuen Gesellschaft ausdrücklich von ihnen bestätigt
+wird.
+
+(2) In den Fällen des § 307 Absatz 3 ist ein Verschmelzungsbeschluss
+der Anteilsinhaber der übertragenden Gesellschaft nicht erforderlich.
+
+(3) Die Versammlung der Anteilsinhaber nimmt den
+Verschmelzungsbericht, den Prüfungsbericht und etwaige Stellungnahmen
+nach § 308 Absatz 1 Satz 2 Nummer 4 zur Kenntnis, bevor sie die
+Zustimmung zum Verschmelzungsplan beschließt.
+
+
+#### § 313 Barabfindung
+
+(1) Unterliegt die übernehmende oder neue Gesellschaft nicht
+dem deutschen Recht, so hat die übertragende Gesellschaft im
+Verschmelzungsplan oder in seinem Entwurf jedem Anteilsinhaber,
+der gegen den Verschmelzungsbeschluss der Gesellschaft Widerspruch
+zur Niederschrift erklärt, den Erwerb seiner Anteile gegen eine
+angemessene Barabfindung anzubieten; nicht anzuwenden sind insoweit
+§ 71 Absatz 4 Satz 2 des Aktiengesetzes sowie die Anordnung der
+Nichtigkeit des schuldrechtlichen Geschäfts über einen verbotswidrigen
+Erwerb nach § 33 Absatz 2 Satz 3 des Gesetzes betreffend die
+Gesellschaften mit beschränkter Haftung. Das Abfindungsangebot
+steht unter der aufschiebenden Bedingung des Wirksamwerdens der
+grenzüberschreitenden Verschmelzung. Im Verschmelzungsplan oder
+seinem Entwurf sind eine Postanschrift und eine elektronische
+Adresse anzugeben, an welche die Mitteilung nach Absatz 2 und die
+Annahmeerklärung nach Absatz 3 Satz 1 übermittelt werden können. § 29
+Absatz 1 Satz 4 und 5 sowie Absatz 2, § 30 Absatz 1 und die §§ 32 bis
+34 gelten entsprechend.
+
+(2) Ein Anteilsinhaber, der die Annahme des Abfindungsangebots nach
+Absatz 1 Satz 1 beabsichtigt, hat der Gesellschaft seine Absicht
+spätestens einen Monat nach dem Tag, an dem die Versammlung der
+Anteilsinhaber der übertragenden Gesellschaft die Zustimmung zum
+Verschmelzungsplan beschlossen hat, mitzuteilen.
+
+(3) Das Angebot kann bis spätestens zwei Monate nach dem Tag, an dem
+die Versammlung der Anteilsinhaber der übertragenden Gesellschaft die
+Zustimmung zum Verschmelzungsplan beschlossen hat, angenommen werden.
+Die Annahme ist ausgeschlossen, wenn die Mitteilung nach Absatz 2
+nicht rechtzeitig erfolgt ist. Erfolgt die Annahme vor Ablauf der
+Mitteilungsfrist gemäß Absatz 2, so ist die Mitteilung nicht mehr
+erforderlich. § 15 Absatz 4 des Gesetzes betreffend die Gesellschaften
+mit beschränkter Haftung bleibt unberührt.
+
+(4) Anteilsinhaber, die das Angebot nach Maßgabe des Absatzes 3
+angenommen haben, werden abweichend von § 20 Absatz 1 Nummer 3
+Satz 1 mit Wirksamwerden der Verschmelzung nicht Anteilsinhaber der
+übernehmenden oder neuen Gesellschaft.
+
+(5) Die übernehmende oder neue Gesellschaft hat die Barabfindung
+spätestens zwei Wochen, nachdem die Verschmelzung wirksam geworden
+ist, an die Anteilsinhaber, die das Angebot nach Maßgabe des Absatzes
+3 angenommen haben, zu zahlen. § 314 ist auf den Abfindungsanspruch
+dieser Anteilsinhaber entsprechend anzuwenden.
+
+(6) Die Angemessenheit einer nach Absatz 1 anzubietenden Barabfindung
+ist stets zu prüfen. § 311 ist entsprechend anzuwenden.
+
+
+#### § 314 Schutz der Gläubiger der übertragenden Gesellschaft
+
+(1) Der Gläubiger einer übertragenden Gesellschaft kann verlangen,
+dass ihm Sicherheit geleistet wird für eine Forderung, die
+
+1.  vor der Bekanntmachung des Verschmelzungsplans oder seines Entwurfs
+    entstanden, aber im Zeitpunkt der Bekanntmachung noch nicht fällig
+    geworden ist, und
+
+2.  deren Erfüllung durch die Verschmelzung gefährdet wird.
+
+(2) Die Voraussetzungen des Anspruchs nach Absatz 1 sind gegenüber dem
+zuständigen Gericht glaubhaft zu machen.
+
+(3) Der Anspruch auf Sicherheitsleistung erlischt, wenn er nicht
+innerhalb von drei Monaten ab Bekanntmachung des Verschmelzungsplans
+gerichtlich geltend gemacht wurde.
+
+(4) Geleistete Sicherheiten sind freizugeben, wenn das
+Verschmelzungsverfahren gescheitert ist. Das ist insbesondere dann der
+Fall, wenn
+
+1.  die Entscheidung des Gerichts über die Ablehnung der Eintragung gemäß
+    § 316 Absatz 1 rechtskräftig ist,
+
+2.  die Ablehnung der Entscheidung über die Eintragung der Verschmelzung
+    im Register der übernehmenden oder neuen Gesellschaft nicht mehr
+    angefochten werden kann oder
+
+3.  das Verfahren auf Eintragung gemäß § 316 Absatz 1 oder nach dieser
+    Eintragung das Verfahren auf Eintragung der Verschmelzung im Register
+    der übernehmenden oder neuen Gesellschaft auf andere Weise endgültig
+    beendet worden ist.
+
+(5) Ausschließlich zuständig für Streitigkeiten über den Anspruch
+auf Sicherheitsleistung nach Absatz 1 sowie über die Freigabe nach
+Absatz 4 ist das Gericht, dessen Bezirk das für die Erteilung der
+Vorabbescheinigung zuständige Registergericht angehört.
+
+
+#### § 315 Anmeldung der Verschmelzung
+
+(1) Das Vertretungsorgan einer übertragenden Gesellschaft hat
+das Vorliegen der sie betreffenden Voraussetzungen für die
+grenzüberschreitende Verschmelzung zur Eintragung bei dem Register des
+Sitzes der Gesellschaft anzumelden.
+
+(2) § 16 Absatz 2 und 3 und § 17 gelten entsprechend mit der Maßgabe,
+dass in Abschrift zusätzlich Folgendes beizufügen ist:
+
+1.  der Anmeldung etwaige Bemerkungen nach § 308 Absatz 1 Satz 2 Nummer
+    4 und
+
+2.  dem einheitlichen Bericht oder dem Bericht für die Arbeitnehmer eine
+    etwaige Stellungnahme gemäß § 310 Absatz 3.
+
+(3) Die Mitglieder des Vertretungsorgans haben zu versichern, dass
+
+1.  allen Gläubigern die gemäß § 307 Absatz 2 Nummer 14 angebotene
+    Sicherheit geleistet wurde,
+
+2.  die Rechte der Arbeitnehmer gemäß § 308 Absatz 1 Satz 2 Nummer 4
+    Buchstabe b sowie gemäß § 310 Absatz 1 und 3 eingehalten wurden,
+
+3.  ein zur Verhandlung über die künftige Mitbestimmung durchzuführendes
+    Verfahren nach den Umsetzungsvorschriften zu Artikel 133 Absatz 3
+    und 4 der Richtlinie (EU) 2017/1132 bereits begonnen hat oder dass
+    die Leitungen der beteiligten Gesellschaften entschieden haben, die
+    Auffangregelung dieser Richtlinie ohne vorhergehende Verhandlung
+    unmittelbar anzuwenden, und
+
+4.  sich die übertragende Gesellschaft nicht im Zustand der
+    Zahlungsunfähigkeit, der drohenden Zahlungsunfähigkeit oder der
+    Überschuldung gemäß § 17 Absatz 2, § 18 Absatz 2 oder § 19 Absatz 2
+    der Insolvenzordnung befindet.
+
+Kann die Versicherung nach Satz 1 Nummer 4 nicht abgegeben werden,
+hat das Vertretungsorgan mitzuteilen, welche der dort genannten
+Tatbestände erfüllt sind und ob ein Insolvenzverfahren beantragt
+oder eröffnet wurde. Nach Eröffnung des Insolvenzverfahrens
+trifft diese Pflicht den Insolvenzverwalter; wurde ein vorläufiger
+Insolvenzverwalter bestellt und dem Schuldner ein allgemeines
+Verfügungsverbot auferlegt, so trifft die Pflicht den vorläufigen
+Insolvenzverwalter.
+
+(4) Das Vertretungsorgan teilt dem Registergericht Folgendes mit:
+
+1.  die Zahl der Arbeitnehmer zum Zeitpunkt des Abschlusses des
+    Verschmelzungsplans,
+
+2.  die Zahl der Tochtergesellschaften und ihre jeweiligen geografischen
+    Standorte sowie
+
+3.  das Bestehen von Verbindlichkeiten gegenüber der öffentlichen Hand.
+
+(5) Das nach § 314 Absatz 5 zuständige Gericht teilt dem
+Registergericht auf Anforderung mit, ob innerhalb der Frist des § 314
+Absatz 3 eine Sicherheitsleistung gerichtlich geltend gemacht wurde.
+
+
+#### § 316 Verschmelzungsbescheinigung
+
+(1) Das Gericht prüft innerhalb von drei Monaten nach der Anmeldung
+gemäß § 315 Absatz 1 und 2, ob für die übertragende Gesellschaft die
+Voraussetzungen für die grenzüberschreitende Verschmelzung vorliegen.
+Die Eintragung enthält die Bezeichnung des Verschmelzungsverfahrens
+und der an ihm beteiligten Gesellschaften sowie die Feststellung, dass
+alle einschlägigen Voraussetzungen erfüllt und alle erforderlichen
+Verfahren und Formalitäten erledigt sind. Die Eintragung ist mit
+dem Vermerk zu versehen, dass die grenzüberschreitende Verschmelzung
+unter den Voraussetzungen des Rechts desjenigen Staates wirksam
+wird, dem die übernehmende oder neue Gesellschaft unterliegt.
+Über die Eintragung stellt das Gericht von Amts wegen eine
+Verschmelzungsbescheinigung aus.
+
+(2) Die Eintragung gemäß Absatz 1 darf nicht vor Ablauf der Fristen
+gemäß § 313 Absatz 3 Satz 1 und § 314 Absatz 3 vorgenommen werden.
+Haben alle Anteilsinhaber der übertragenden Gesellschaft der
+Verschmelzung zugestimmt, darf die Eintragung bereits vor Ablauf
+der Frist des § 313 Absatz 3 Satz 1 erfolgen. Wurde ein Anspruch auf
+Sicherheitsleistung nach § 314 Absatz 1 gerichtlich geltend gemacht,
+so darf die Eintragung gemäß Absatz 1 nicht vorgenommen werden,
+
+1.  bevor die den Antrag ablehnende Entscheidung rechtskräftig ist,
+
+2.  die in der Entscheidung festgelegte Sicherheit geleistet wurde oder
+
+3.  die den Antrag teilweise ablehnende Entscheidung rechtskräftig ist und
+    die in der Entscheidung festgelegte Sicherheit geleistet wurde.
+
+Die Leistung der Sicherheit ist dem Gericht in geeigneter Form
+nachzuweisen. Auf Verlangen des Gerichts haben die Mitglieder
+des Vertretungsorgans zu versichern, dass die in der Entscheidung
+festgelegte Sicherheit geleistet wurde.
+
+(3) In dem Verfahren nach Absatz 1 muss das Gericht bei Vorliegen
+von Anhaltspunkten prüfen, ob die grenzüberschreitende Verschmelzung
+zu missbräuchlichen oder betrügerischen Zwecken, die dazu führen
+oder führen sollen, sich Unionsrecht oder nationalem Recht zu
+entziehen oder es zu umgehen, oder zu kriminellen Zwecken vorgenommen
+werden soll. Liegen solche Zwecke vor, so lehnt es die Eintragung
+gemäß Absatz 1 ab. Ist es für die Prüfung notwendig, zusätzliche
+Informationen zu berücksichtigen oder zusätzliche Ermittlungen
+durchzuführen, so kann die in Absatz 1 Satz 1 vorgesehene Frist um
+höchstens drei Monate verlängert werden. Anhaltspunkte im Sinne von
+Satz 1 liegen insbesondere vor, wenn
+
+1.  ein gemäß Artikel 133 Absatz 2 bis 4 der Richtlinie (EU) 2017/1132
+    durchzuführendes Verhandlungsverfahren erst auf Aufforderung des
+    Gerichts eingeleitet worden ist;
+
+2.  die Zahl der Arbeitnehmer mindestens vier Fünftel des für die
+    Unternehmensmitbestimmung maßgeblichen Schwellenwerts beträgt, im
+    Zielland keine Wertschöpfung erbracht wird und der Verwaltungssitz in
+    Deutschland verbleibt;
+
+3.  eine ausländische Gesellschaft durch die grenzüberschreitende
+    Verschmelzung Schuldnerin von Betriebsrenten oder -anwartschaften wird
+    und diese Gesellschaft kein anderweitiges operatives Geschäft hat.
+
+(4) Ist es wegen der Komplexität des Verfahrens ausnahmsweise nicht
+möglich, die Prüfung innerhalb der in Absatz 1 Satz 1 oder Absatz
+3 Satz 3 vorgesehenen Fristen vorzunehmen, so hat das Gericht den
+Anmelder vor Ende der Frist über die Gründe für eine Verzögerung zu
+unterrichten.
+
+(5) Nach Eingang einer Mitteilung des Registers, in dem die
+übernehmende oder neue Gesellschaft eingetragen ist, über das
+Wirksamwerden der Verschmelzung hat das Gericht des Sitzes der
+übertragenden Gesellschaft den Tag des Wirksamwerdens zu vermerken
+und die bei ihm aufbewahrten elektronischen Dokumente diesem Register
+zu übermitteln.
+
+
+#### § 317 Informationen des Registergerichts
+
+Soweit dies für die Prüfung gemäß § 316 erforderlich ist, kann das
+Gericht
+
+1.  von der Gesellschaft Informationen und Unterlagen verlangen,
+
+2.  von öffentlichen inländischen Stellen Informationen und Unterlagen
+    verlangen und von öffentlichen Stellen eines anderen Mitgliedstaats
+    der Europäischen Union oder eines anderen Vertragsstaats des Abkommens
+    über den Europäischen Wirtschaftsraum mit Zuständigkeiten in den von
+    der grenzüberschreitenden Verschmelzung betroffenen Bereichen die
+    notwendigen Informationen und Unterlagen erbitten,
+
+3.  von einem eingesetzten besonderen Verhandlungsgremium Informationen
+    und Unterlagen verlangen,
+
+4.  einen unabhängigen Sachverständigen zuziehen sowie
+
+5.  im Rahmen der Prüfung des § 316 Absatz 3 eine in dem sich
+    verschmelzenden Unternehmen vertretene Gewerkschaft anhören.
+
+Ist eine inländische öffentliche Stelle in einem von einer
+grenzüberschreitenden Verschmelzung betroffenen Bereich zuständig,
+kann sie der für die Ausstellung einer Verschmelzungsbescheinigung
+zuständigen Stelle eines anderen Mitgliedstaats der Europäischen Union
+oder eines anderen Vertragsstaats des Abkommens über den Europäischen
+Wirtschaftsraum auf deren Ersuchen die notwendigen Informationen und
+Unterlagen übermitteln.
+
+
+#### § 318 Eintragung der grenzüberschreitenden Hereinverschmelzung
+
+(1) Bei einer Verschmelzung durch Aufnahme hat das Vertretungsorgan
+der übernehmenden Gesellschaft die Verschmelzung zur Eintragung
+in das Register der übernehmenden Gesellschaft und bei einer
+Verschmelzung durch Neugründung haben die Vertretungsorgane der
+übertragenden Gesellschaften die neue Gesellschaft zur Eintragung
+in das Register des Sitzes der übernehmenden oder neuen Gesellschaft
+anzumelden. Der Anmeldung sind in der Form des § 17 Absatz 1 der
+gemeinsame Verschmelzungsplan und gegebenenfalls die Vereinbarung
+über die Beteiligung der Arbeitnehmer beizufügen. Auf die
+übernehmende Gesellschaft und die Prüfung der sie betreffenden
+Eintragungsvoraussetzungen sind § 315 Absatz 2, 3 Satz 1 Nummer 2 und
+3 sowie Absatz 4, § 316 Absatz 1 Satz 1, Absatz 3 und 4 und § 317 Satz
+1 entsprechend anzuwenden. § 16 Absatz 2 und 3 und § 17 sind auf die
+übertragenden Gesellschaften nicht anzuwenden.
+
+(2) Die über das Europäische System der Registervernetzung
+übermittelte Verschmelzungsbescheinigung wird als Nachweis
+der ordnungsgemäßen Erledigung der vorangehenden Verfahren und
+Formalitäten nach dem Recht desjenigen Staates, dem die übertragende
+Gesellschaft unterliegt, anerkannt. Ist an der Verschmelzung eine
+Personenhandelsgesellschaft gemäß § 306 Absatz 1 Nummer 2 beteiligt,
+ist ergänzend zu den Unterlagen gemäß Absatz 1 ein Nachweis über
+die Eintragung der Verschmelzung im Register der übertragenden
+Gesellschaft vorzulegen. Ohne diese Verschmelzungsbescheinigung
+darf die grenzüberschreitende Verschmelzung nicht in das Register
+eingetragen werden.
+
+(3) Das Registergericht prüft insbesondere, ob
+
+1.  die Eintragungsvoraussetzungen, die die übernehmende Gesellschaft
+    betreffen, vorliegen,
+
+2.  die an der grenzüberschreitenden Verschmelzung beteiligten
+    Gesellschaften einem gemeinsamen, gleichlautenden Verschmelzungsplan
+    zugestimmt haben,
+
+3.  gegebenenfalls eine Vereinbarung über die Beteiligung der Arbeitnehmer
+    geschlossen worden ist sowie
+
+4.  bei einer Verschmelzung durch Neugründung, ob die Vorschriften zur
+    Gründung der neuen Gesellschaft eingehalten worden sind.
+
+(4) Das Gericht des Sitzes der übernehmenden oder neuen Gesellschaft
+hat den Tag des Wirksamwerdens der Verschmelzung von Amts wegen
+jedem Register über das Europäische System der Registervernetzung
+mitzuteilen, bei dem eine der übertragenden Gesellschaften ihre
+Unterlagen zu hinterlegen hatte. Ist an der Verschmelzung eine
+Personenhandelsgesellschaft gemäß § 306 Absatz 1 Nummer 2 beteiligt,
+hat das Gericht des Sitzes der übernehmenden Gesellschaft den Tag des
+Wirksamwerdens der Verschmelzung von Amts wegen jedem Register gemäß
+Satz 1 auf andere Weise mitzuteilen.
+
+
+#### § 319 Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union
+
+Unterliegt die übernehmende oder neue Gesellschaft dem deutschen
+Recht, so gilt als grenzüberschreitende Verschmelzung im Sinne
+dieses Teils auch eine solche, an der eine übertragende Gesellschaft
+beteiligt ist, die dem Recht des Vereinigten Königreichs
+Großbritannien und Nordirland unterliegt, sofern
+
+1.  der Verschmelzungsplan nach § 307 Absatz 4 vor dem Ausscheiden
+    des Vereinigten Königreichs Großbritannien und Nordirland aus der
+    Europäischen Union oder vor dem Ablauf eines Übergangszeitraums,
+    innerhalb dessen das Vereinigte Königreich Großbritannien und
+    Nordirland in der Bundesrepublik Deutschland weiterhin als
+    Mitgliedstaat der Europäischen Union gilt, notariell beurkundet worden
+    ist und
+
+2.  die Verschmelzung unverzüglich, spätestens aber zwei Jahre nach diesem
+    Zeitpunkt mit den erforderlichen Unterlagen zur Registereintragung
+    angemeldet wird.
+
+
+### Zweiter Teil - Grenzüberschreitende Spaltung
+
+
+#### § 320 Grenzüberschreitende Spaltung
+
+(1) Spaltungen, bei denen mindestens eine der beteiligten
+Gesellschaften dem Recht eines anderen Mitgliedstaats der Europäischen
+Union oder eines anderen Vertragsstaats des Abkommens über den
+Europäischen Wirtschaftsraum unterliegt (grenzüberschreitende
+Spaltungen), im Sinne dieses Gesetzes sind ausschließlich
+
+1.  Spaltungen zur Neugründung im Sinne des § 123 Absatz 1 Nummer 2,
+    Absatz 2 Nummer 2 oder Absatz 3 Nummer 2 sowie
+
+2.  nach Maßgabe des § 332 Spaltungen zur Aufnahme im Sinne des § 123
+    Absatz 1 Nummer 1, Absatz 2 Nummer 1 oder Absatz 3 Nummer 1.
+
+(2) Auf die Beteiligung einer Kapitalgesellschaft (§ 3 Absatz 1 Nummer
+2) an einer grenzüberschreitenden Spaltung sind die Vorschriften
+des Ersten Teils des Dritten Buches sowie des Ersten und Zweiten
+Abschnitts des Zweiten Teils des Dritten Buches entsprechend
+anzuwenden, soweit sich aus diesem Teil nichts anderes ergibt.
+
+(3) § 143 ist auf grenzüberschreitende Spaltungen nicht anzuwenden.
+
+
+#### § 321 Spaltungsfähige Gesellschaften
+
+An einer grenzüberschreitenden Spaltung können als übertragende
+oder neue Gesellschaften Kapitalgesellschaften nach Anhang II zur
+Richtlinie (EU) 2017/1132 beteiligt sein, wenn sie
+
+1.  nach dem Recht eines Mitgliedstaats der Europäischen Union oder
+    eines anderen Vertragsstaats des Abkommens über den Europäischen
+    Wirtschaftsraum gegründet worden sind und
+
+2.  ihren satzungsmäßigen Sitz, ihre Hauptverwaltung oder ihre
+    Hauptniederlassung in einem Mitgliedstaat der Europäischen Union
+    oder einem anderen Vertragsstaat des Abkommens über den Europäischen
+    Wirtschaftsraum haben.
+
+§ 306 Absatz 2 Satz 1 Nummer 2 gilt entsprechend.
+
+
+#### § 322 Spaltungsplan
+
+(1) Das Vertretungsorgan der übertragenden Gesellschaft stellt einen
+Spaltungsplan auf.
+
+(2) Der Spaltungsplan oder sein Entwurf enthalten mindestens neben
+den in § 307 Absatz 2 Nummer 1 bis 14 und 16 genannten Angaben die
+folgenden Angaben:
+
+1.  den vorgesehenen indikativen Zeitplan für die Spaltung,
+
+2.  bei Abspaltung und Ausgliederung etwaige Satzungsänderungen der
+    übertragenden Gesellschaft,
+
+3.  eine genaue Beschreibung der Gegenstände des Aktiv- und
+    Passivvermögens der übertragenden Gesellschaft sowie eine Erklärung,
+    wie diese Gegenstände des Aktiv- und Passivvermögens den neuen
+    Gesellschaften zugeteilt werden sollen oder ob sie im Fall einer
+    Abspaltung oder Ausgliederung bei der übertragenden Gesellschaft
+    verbleiben sollen, einschließlich Vorschriften über die Behandlung
+    von Gegenständen des Aktiv- und Passivvermögens, die im Spaltungsplan
+    nicht ausdrücklich zugeteilt werden, wie etwa Gegenstände des Aktiv-
+    oder Passivvermögens, die zum Zeitpunkt der Erstellung des Plans nicht
+    bekannt sind,
+
+4.  Angaben zur Bewertung des bei der übertragenden Gesellschaft
+    verbleibenden Aktiv- und Passivvermögens sowie
+
+5.  bei Aufspaltung oder Abspaltung die Aufteilung der Anteile der
+    übertragenden Gesellschaft und der neuen Gesellschaften auf die
+    Anteilsinhaber der übertragenden Gesellschaft sowie den Maßstab für
+    die Aufteilung.
+
+(3) Bei einer Ausgliederung sind die Angaben gemäß § 307 Absatz 2
+Nummer 2, 3, 5, 7 und 13 nicht erforderlich.
+
+(4) Der Spaltungsplan muss notariell beurkundet werden.
+
+
+#### § 323 Bekanntmachung des Spaltungsplans
+
+§ 308 Absatz 1 gilt für die Bekanntmachung des Spaltungsplans oder
+seines Entwurfs entsprechend.
+
+
+#### § 324 Spaltungsbericht
+
+(1) Das Vertretungsorgan der übertragenden Gesellschaft erstellt einen
+Spaltungsbericht. § 309 Absatz 1 bis 5 und § 310 Absatz 1 und 3 gelten
+für den Spaltungsbericht entsprechend.
+
+(2) In den Fällen des § 8 Absatz 3 Satz 1, 2 und 3 Nummer 2
+und des § 135 Absatz 3 ist der Bericht für die Anteilsinhaber
+nicht erforderlich. Der Bericht für die Arbeitnehmer ist nicht
+erforderlich, wenn die übertragende Gesellschaft und ihre etwaigen
+Tochtergesellschaften keine anderen Arbeitnehmer haben als diejenigen,
+die dem Vertretungsorgan angehören. Der Spaltungsbericht ist insgesamt
+entbehrlich, wenn die Voraussetzungen der Sätze 1 und 2 vorliegen.
+
+
+#### § 325 Spaltungsprüfung
+
+Der Spaltungsplan oder sein Entwurf sind nach den §§ 9 bis 12 zu
+prüfen; § 48 ist nicht anzuwenden. Der Prüfungsbericht muss den
+Anteilsinhabern spätestens einen Monat vor dem Tag der Versammlung der
+Anteilsinhaber, die nach § 13 über die Zustimmung zum Spaltungsplan
+beschließen soll, zugänglich gemacht werden.
+
+
+#### § 326 Zustimmung der Anteilsinhaber
+
+(1) Die Anteilsinhaber können ihre Zustimmung nach § 13 davon abhängig
+machen, dass die Art und Weise der Mitbestimmung der Arbeitnehmer der
+neuen Gesellschaft ausdrücklich von ihnen bestätigt wird.
+
+(2) Die Versammlung der Anteilsinhaber nimmt den Spaltungsbericht, den
+Prüfungsbericht und etwaige Stellungnahmen nach § 323 in Verbindung
+mit § 308 Absatz 1 Satz 2 Nummer 4 zur Kenntnis, bevor sie die
+Zustimmung zum Spaltungsplan beschließt.
+
+(3) Werden bei einer Aufspaltung oder Abspaltung die Anteile der
+neuen Gesellschaft den Anteilsinhabern der übertragenden Gesellschaft
+nicht in dem Verhältnis zugeteilt, das ihrer Beteiligung an der
+übertragenden Gesellschaft entspricht, so wird der Spaltungsplan nur
+dann wirksam, wenn ihm diejenigen Anteilsinhaber zustimmen, für die
+die Zuteilung nachteilig ist.
+
+
+#### § 327 Barabfindung
+
+§ 313 gilt für die übertragende Gesellschaft entsprechend. Bei einer
+Ausgliederung ist ein Abfindungsangebot nicht erforderlich.
+
+
+#### § 328 Schutz der Gläubiger der übertragenden Gesellschaft
+
+§ 314 gilt für die übertragende Gesellschaft und ihre Gläubiger
+entsprechend.
+
+
+#### § 329 Anmeldung und Spaltungsbescheinigung
+
+Die §§ 315 bis 317 sind mit Ausnahme des § 315 Absatz 3 Satz 1
+Nummer 3 zweite Alternative sowie des § 316 Absatz 1 Satz 2, 3 und
+4 entsprechend anzuwenden. Die Eintragung ist mit dem Vermerk zu
+versehen, dass die grenzüberschreitende Spaltung erst mit ihrer
+Eintragung gemäß § 330 wirksam wird. Über die Eintragung stellt das
+Gericht von Amts wegen eine Spaltungsbescheinigung aus.
+
+
+#### § 330 Eintragung der grenzüberschreitenden Hinausspaltung
+
+(1) Die Anmeldung zur Eintragung gemäß § 329 in Verbindung mit § 315
+gilt als Anmeldung zur Eintragung der grenzüberschreitenden Spaltung
+gemäß § 137 Absatz 2. Die grenzüberschreitende Spaltung darf in das
+Register des Sitzes der übertragenden Gesellschaft erst eingetragen
+werden, nachdem jede der neuen Gesellschaften in das für sie
+zuständige Register eingetragen worden ist.
+
+(2) Das Gericht des Sitzes der übertragenden Gesellschaft hat dem
+Register des Sitzes jeder der neuen Gesellschaften das Wirksamwerden
+der grenzüberschreitenden Spaltung über das Europäische System der
+Registervernetzung mitzuteilen.
+
+
+#### § 331 Eintragung der neuen Gesellschaft
+
+(1) Das Vertretungsorgan der übertragenden Gesellschaft hat die neue
+Gesellschaft zur Eintragung in das Register des Sitzes der neuen
+Gesellschaft anzumelden. Der Anmeldung sind in der Form des § 17
+Absatz 1 der Spaltungsplan und gegebenenfalls die Vereinbarung über
+die Beteiligung der Arbeitnehmer beizufügen. § 16 Absatz 2 und 3 sowie
+§ 17 sind auf die übertragende Gesellschaft nicht anzuwenden.
+
+(2) Die über das Europäische System der Registervernetzung
+übermittelte Spaltungsbescheinigung wird als Nachweis der
+ordnungsgemäßen Erledigung der vorangehenden Verfahren und
+Formalitäten nach dem Recht desjenigen Staates, dem die übertragende
+Gesellschaft unterliegt, anerkannt. Ohne diese Spaltungsbescheinigung
+kann die grenzüberschreitende Spaltung nicht in das Register
+eingetragen werden.
+
+(3) Die Prüfung der Eintragungsvoraussetzungen erstreckt sich
+insbesondere darauf, ob gegebenenfalls eine Vereinbarung über die
+Beteiligung der Arbeitnehmer geschlossen worden ist und ob die
+Vorschriften zur Gründung der neuen Gesellschaft eingehalten worden
+sind.
+
+(4) Die Eintragung der neuen Gesellschaft ist mit dem Vermerk zu
+versehen, dass sie unter den Voraussetzungen wirksam wird, unter denen
+die grenzüberschreitende Spaltung nach dem Recht des Staates, dem
+die übertragende Gesellschaft unterliegt, wirksam wird. Das Gericht
+des Sitzes der neuen Gesellschaft hat von Amts wegen dem Gericht
+des Sitzes der übertragenden Gesellschaft mitzuteilen, dass die neue
+Gesellschaft eingetragen wurde.
+
+(5) Nach Eingang der Mitteilung des Registers, in dem die
+übertragende Gesellschaft eingetragen ist, über das Wirksamwerden
+der grenzüberschreitenden Spaltung ist in dem Register des Sitzes
+der neuen Gesellschaft der Tag des Wirksamwerdens der Spaltung
+einzutragen.
+
+
+#### § 332 Spaltung zur Aufnahme
+
+Die Bestimmungen dieses Teils sind auf eine grenzüberschreitende
+Spaltung zur Aufnahme im Sinne des § 320 Absatz 1 Nummer 2
+entsprechend anzuwenden, wenn in der übertragenden Gesellschaft und
+den übernehmenden Gesellschaften
+
+1.  im Fall der Spaltung einer inländischen Gesellschaft jeweils in den
+    sechs Monaten vor Bekanntmachung des Spaltungsplans durchschnittlich
+    weniger als 400 Arbeitnehmer,
+
+2.  im Fall der Aufnahme durch eine inländische Gesellschaft jeweils in
+    den sechs Monaten vor Offenlegung des Spaltungsplans durchschnittlich
+    weniger als vier Fünftel der Zahl der Arbeitnehmer, die für eine
+    Mitbestimmung nach dem Recht des Staates maßgeblich sind, dem die
+    übertragende Gesellschaft unterliegt,
+
+beschäftigt sind. Ergeben sich Besonderheiten aus dem Umstand,
+dass mehrere Gesellschaften beteiligt sind, so sind ergänzend
+die Bestimmungen des Ersten Teils über die grenzüberschreitende
+Verschmelzung entsprechend anzuwenden.
+
+
+### Dritter Teil - Grenzüberschreitender Formwechsel
+
+
+#### § 333 Grenzüberschreitender Formwechsel
+
+(1) Ein grenzüberschreitender Formwechsel ist der Wechsel einer nach
+dem Recht eines Mitgliedstaats der Europäischen Union oder eines
+Vertragsstaats des Abkommens über den Europäischen Wirtschaftsraum
+gegründeten Gesellschaft in eine Rechtsform nach dem Recht eines
+anderen Mitgliedstaats der Europäischen Union oder Vertragsstaats des
+Abkommens über den Europäischen Wirtschaftsraums unter Verlegung des
+satzungsmäßigen Sitzes in diesen Staat.
+
+(2) Auf den grenzüberschreitenden Formwechsel einer
+Kapitalgesellschaft (§ 3 Absatz 1 Nummer 2) sind vorbehaltlich
+der Absätze 3 und 4 die folgenden Vorschriften des Fünften Buches
+entsprechend anzuwenden, soweit sich aus diesem Teil nichts anderes
+ergibt:
+
+1.  die Vorschriften des Ersten Teils sowie
+
+2.  die Vorschriften des Ersten und Dritten Unterabschnitts des Zweiten
+    Abschnitts des Zweiten Teils.
+
+(3) § 245 Absatz 1 Satz 3, Absatz 2 Satz 3 und Absatz 3 Satz 3 ist
+nicht anzuwenden. § 245 Absatz 4 ist nur dann anzuwenden, wenn die
+formwechselnde Gesellschaft eine im Anhang I zur Richtlinie (EU)
+2017/1132 über bestimmte Aspekte des Gesellschaftsrechts genannte
+Rechtsform hat. Im Fall des Satzes 2 ist § 52 des Aktiengesetzes
+mit der Maßgabe anzuwenden, dass an die Stelle des Zeitpunkts der
+Eintragung der Gesellschaft neuer Rechtsform der Zeitpunkt der
+Eintragung der formwechselnden Gesellschaft in das für sie zuständige
+Register tritt.
+
+(4) § 195 Absatz 2 und § 196 sind nicht anzuwenden.
+
+
+#### § 334 Formwechselfähige Gesellschaften
+
+Im Rahmen eines grenzüberschreitenden Formwechsels können
+formwechselnde Gesellschaften und Gesellschaften neuer Rechtsform
+Kapitalgesellschaften mit einer in Anhang II zur Richtlinie (EU)
+2017/1132 genannten Rechtsform sein, wenn sie
+
+1.  nach dem Recht eines Mitgliedstaats der Europäischen Union oder
+    eines anderen Vertragsstaats des Abkommens über den Europäischen
+    Wirtschaftsraum gegründet worden sind und
+
+2.  ihren satzungsmäßigen Sitz, ihre Hauptverwaltung oder ihre
+    Hauptniederlassung in einem Mitgliedstaat der Europäischen Union
+    oder einem anderen Vertragsstaat des Abkommens über den Europäischen
+    Wirtschaftsraum haben.
+
+§ 306 Absatz 2 Satz 1 Nummer 2 gilt entsprechend.
+
+
+#### § 335 Formwechselplan
+
+(1) Das Vertretungsorgan der grenzüberschreitend formwechselnden
+Gesellschaft stellt einen Formwechselplan auf.
+
+(2) Der Formwechselplan oder sein Entwurf muss mindestens folgende
+Angaben enthalten:
+
+1.  Rechtsform, Firma und Sitz der formwechselnden Gesellschaft,
+
+2.  die Rechtsform, die die Gesellschaft durch den Formwechsel erlangen
+    soll,
+
+3.  die Firma und den Sitz der Gesellschaft neuer Rechtsform,
+
+4.  sofern einschlägig den Errichtungsakt der Gesellschaft neuer
+    Rechtsform und, falls sie Gegenstand eines gesonderten Aktes ist,
+    die Satzung,
+
+5.  den vorgesehenen indikativen Zeitplan für den grenzüberschreitenden
+    Formwechsel,
+
+6.  die Beteiligung der bisherigen Anteilsinhaber an dem Rechtsträger nach
+    den für die neue Rechtsform geltenden Vorschriften sowie Zahl, Art und
+    Umfang der Anteile, welche die Anteilsinhaber durch den Formwechsel
+    erlangen sollen,
+
+7.  die Rechte, die die Gesellschaft neuer Rechtsform den mit
+    Sonderrechten ausgestatteten Anteilsinhabern und den Inhabern von
+    anderen Wertpapieren als Gesellschaftsanteilen gewährt, oder die für
+    diese Personen vorgeschlagenen Maßnahmen,
+
+8.  die Sicherheiten, die den Gläubigern angeboten werden,
+
+9.  die etwaigen besonderen Vorteile, die den Mitgliedern der
+    Verwaltungs-, Leitungs-, Aufsichts- oder Kontrollorgane der
+    Gesellschaft gewährt werden,
+
+10. eine Darstellung der Förderungen oder Beihilfen, die die Gesellschaft
+    in den letzten fünf Jahren erhalten hat,
+
+11. die Einzelheiten zum Angebot einer Barabfindung gemäß § 340,
+
+12. die voraussichtlichen Auswirkungen des grenzüberschreitenden
+    Formwechsels auf die Beschäftigung der Arbeitnehmer,
+
+13. gegebenenfalls Angaben zu dem Verfahren, nach dem die Einzelheiten
+    der Beteiligung der Arbeitnehmer an der Festlegung ihrer
+    Mitbestimmungsrechte in der Gesellschaft neuer Rechtsform geregelt
+    werden, sowie
+
+14. die Auswirkungen des grenzüberschreitenden Formwechsels auf
+    Betriebsrenten und Betriebsrentenanwartschaften.
+
+(3) Der Formwechselplan muss notariell beurkundet werden.
+
+
+#### § 336 Bekanntmachung des Formwechselplans
+
+§ 308 Absatz 1 gilt für die Bekanntmachung des Formwechselplans und
+seines Entwurfs entsprechend.
+
+
+#### § 337 Formwechselbericht
+
+(1) § 309 Absatz 1, 2, 3 und 5 sowie § 310 Absatz 1, 2 und 3 gelten
+für den Formwechselbericht entsprechend.
+
+(2) In dem anteilsinhaberspezifischen Abschnitt wird über die in §
+192 Absatz 1 genannten Berichtsinhalte hinaus mindestens Folgendes
+erläutert und begründet:
+
+1.  die Auswirkungen des grenzüberschreitenden Formwechsels auf die
+    Anteilsinhaber sowie
+
+2.  die Rechte und Rechtsbehelfe der Anteilsinhaber gemäß § 340 dieses
+    Gesetzes und gemäß § 1 Nummer 4 des Spruchverfahrensgesetzes.
+
+(3) Der Bericht für die Anteilsinhaber ist in den Fällen des §
+192 Absatz 2 nicht erforderlich. Der Bericht für die Arbeitnehmer
+ist nicht erforderlich, wenn die Gesellschaft und ihre etwaigen
+Tochtergesellschaften keine anderen Arbeitnehmer haben als diejenigen,
+die dem Vertretungsorgan angehören. Der Formwechselbericht ist
+insgesamt nicht erforderlich, wenn die Voraussetzungen der Sätze 1 und
+2 vorliegen.
+
+
+#### § 338 Formwechselprüfung
+
+(1) Der Formwechselplan oder sein Entwurf ist nach den §§ 9 bis
+11 und 12 Absatz 1 zu prüfen. § 48 ist nicht anzuwenden. Der
+Prüfungsbericht muss den Anteilsinhabern spätestens einen Monat vor
+dem Tag der Versammlung der Anteilsinhaber, die über die Zustimmung
+zum Formwechselplan beschließen soll, zugänglich gemacht werden.
+
+(2) § 9 Absatz 2 und § 12 Absatz 3 jeweils in Verbindung mit § 8
+Absatz 3 Satz 1, 2 und 3 Nummer 2 sind entsprechend anzuwenden.
+
+
+#### § 339 Zustimmung der Anteilsinhaber
+
+(1) Die Anteilsinhaber können ihre Zustimmung zum Formwechselplan
+nach § 193 Absatz 1 davon abhängig machen, dass die Art und Weise
+der Mitbestimmung der Arbeitnehmer der Gesellschaft neuer Rechtsform
+ausdrücklich von ihnen bestätigt wird.
+
+(2) Die Versammlung der Anteilsinhaber nimmt den Formwechselbericht,
+den Prüfungsbericht und etwaige Stellungnahmen nach § 336 in
+Verbindung mit § 308 Absatz 1 Satz 2 Nummer 4 zur Kenntnis, bevor sie
+die Zustimmung zum Formwechselplan beschließt.
+
+
+#### § 340 Barabfindung
+
+(1) Die formwechselnde Gesellschaft hat im Formwechselplan oder seinem
+Entwurf jedem Anteilsinhaber, der gegen den Zustimmungsbeschluss
+der Anteilsinhaber Widerspruch zur Niederschrift erklärt, den
+Erwerb seiner Anteile oder Mitgliedschaften gegen eine angemessene
+Barabfindung anzubieten; nicht anzuwenden sind insoweit § 71 Absatz
+4 Satz 2 des Aktiengesetzes und die Anordnung der Nichtigkeit des
+schuldrechtlichen Geschäfts über einen verbotswidrigen Erwerb nach
+§ 33 Absatz 2 Satz 3 des Gesetzes betreffend die Gesellschaften
+mit beschränkter Haftung. Das Abfindungsangebot steht unter der
+aufschiebenden Bedingung des Wirksamwerdens des grenzüberschreitenden
+Formwechsels. Im Formwechselplan oder seinem Entwurf sind eine
+Postanschrift sowie eine elektronische Adresse anzugeben, an welche
+die Mitteilung nach Absatz 2 Satz 1 und die Annahmeerklärung nach
+Absatz 3 Satz 1 übermittelt werden können. § 207 Absatz 1 Satz 2 und
+3, Absatz 2 sowie § 208 in Verbindung mit § 30 Absatz 1 und den §§ 210
+bis 212 gelten entsprechend.
+
+(2) Ein Anteilsinhaber, der die Annahme des Abfindungsangebots nach
+Absatz 1 Satz 1 beabsichtigt, hat der Gesellschaft seine Absicht
+spätestens einen Monat nach dem Tag, an dem die Versammlung der
+Anteilsinhaber die Zustimmung zum Formwechselplan beschlossen hat,
+mitzuteilen.
+
+(3) Das Abfindungsangebot kann bis spätestens zwei Monate nach dem
+Tag, an dem die Versammlung der Anteilsinhaber der formwechselnden
+Gesellschaft die Zustimmung zum Formwechselplan beschlossen hat,
+angenommen werden. Die Annahme ist ausgeschlossen, wenn die Mitteilung
+nach Absatz 2 nicht rechtzeitig erfolgt ist. Erfolgt die Annahme
+vor Ablauf der Mitteilungsfrist nach Absatz 2, so ist die Mitteilung
+nicht mehr erforderlich. § 15 Absatz 4 des Gesetzes betreffend die
+Gesellschaften mit beschränkter Haftung bleibt unberührt.
+
+(4) Anteilsinhaber, die das Abfindungsangebot nach Maßgabe des
+Absatzes 3 angenommen haben, werden abweichend von § 202 Absatz 1
+Nummer 2 mit Wirksamwerden des Formwechsels nicht Anteilsinhaber der
+Gesellschaft neuer Rechtsform.
+
+(5) Die Gesellschaft neuer Rechtsform hat die Barabfindung spätestens
+zwei Wochen nachdem der Formwechsel wirksam geworden ist an die
+Anteilsinhaber, die das Angebot nach Maßgabe des Absatzes 3 angenommen
+haben, zu zahlen. § 341 ist auf den Abfindungsanspruch dieser
+Anteilsinhaber entsprechend anzuwenden.
+
+(6) Die Angemessenheit einer nach Absatz 1 anzubietenden Barabfindung
+ist stets zu prüfen. § 12 Absatz 2 und § 338 sind entsprechend
+anzuwenden.
+
+
+#### § 341 Gläubigerschutz
+
+(1) § 314 gilt für die formwechselnde Gesellschaft und ihre Gläubiger
+entsprechend.
+
+(2) Für Klagen von Gläubigern wegen einer Forderung gegen die
+formwechselnde Gesellschaft sind unbeschadet unionsrechtlicher
+Vorschriften auch die deutschen Gerichte international zuständig,
+sofern die Forderung vor der Bekanntmachung des Formwechselplans oder
+seines Entwurfs entstanden ist und die Klage innerhalb von zwei Jahren
+nach Wirksamwerden des grenzüberschreitenden Formwechsels erhoben
+wird. Der Gerichtsstand im Inland bestimmt sich nach dem letzten Sitz
+des formwechselnden Rechtsträgers.
+
+
+#### § 342 Anmeldung des Formwechsels
+
+(1) Das Vertretungsorgan der Gesellschaft hat das Vorliegen der
+Voraussetzungen für den grenzüberschreitenden Formwechsel zur
+Eintragung in das Register, in dem der formwechselnde Rechtsträger
+eingetragen ist, anzumelden.
+
+(2) § 198 Absatz 3 in Verbindung mit § 16 Absatz 2 und 3 sowie § 199
+gelten entsprechend mit der Maßgabe, dass zusätzlich
+
+1.  der Anmeldung
+
+    a)  der Formwechselplan in Ausfertigung oder öffentlich beglaubigter
+        Abschrift sowie
+
+    b)  etwaige Bemerkungen nach § 336 in Verbindung mit § 308 Absatz 1 Satz 2
+        Nummer 4 in Abschrift und
+
+2.  dem einheitlichen Bericht oder dem Bericht für die Arbeitnehmer eine
+    etwaige Stellungnahme gemäß § 337 Absatz 1 in Verbindung mit § 310
+    Absatz 3 in Abschrift
+
+beizufügen sind.
+
+(3) Die Mitglieder des Vertretungsorgans haben zu versichern, dass
+
+1.  allen Gläubigern die gemäß § 335 Absatz 2 Nummer 8 angebotene
+    Sicherheit geleistet wurde,
+
+2.  die Rechte der Arbeitnehmer gemäß § 336 in Verbindung mit § 308 Absatz
+    1 Satz 2 Nummer 4 Buchstabe b sowie gemäß § 337 Absatz 1 in Verbindung
+    mit § 310 Absatz 1 und 3 eingehalten wurden,
+
+3.  ein zur Verhandlung über die künftige Mitbestimmung durchzuführendes
+    Verfahren nach den Umsetzungsvorschriften zu Artikel 86l Absatz 3 und
+    4 der Richtlinie (EU) 2017/1132 begonnen hat und
+
+4.  sich die Gesellschaft nicht im Zustand der Zahlungsunfähigkeit, der
+    drohenden Zahlungsunfähigkeit oder der Überschuldung gemäß § 17 Absatz
+    2, § 18 Absatz 2 oder § 19 Absatz 2 der Insolvenzordnung befindet.
+
+Kann die Versicherung nach Satz 1 Nummer 4 nicht abgegeben werden,
+hat das Vertretungsorgan mitzuteilen, welcher der dort genannten
+Tatbestände erfüllt ist und ob ein Insolvenzverfahren beantragt
+oder eröffnet wurde. Nach Eröffnung des Insolvenzverfahrens
+trifft diese Pflicht den Insolvenzverwalter; wurde ein vorläufiger
+Insolvenzverwalter bestellt und dem Schuldner ein allgemeines
+Verfügungsverbot auferlegt, so trifft die Pflicht den vorläufigen
+Insolvenzverwalter.
+
+(4) Das Vertretungsorgan teilt dem Registergericht Folgendes mit:
+
+1.  die Zahl der Arbeitnehmer zum Zeitpunkt der Aufstellung des
+    Formwechselplans,
+
+2.  die Zahl der Tochtergesellschaften und ihre jeweiligen geografischen
+    Standorte sowie
+
+3.  das Bestehen von Verbindlichkeiten gegenüber der öffentlichen Hand.
+
+(5) Das nach § 341 Absatz 1 in Verbindung mit § 314 Absatz 5
+zuständige Gericht teilt dem Registergericht auf Anforderung mit, ob
+innerhalb der Frist des § 341 Absatz 1 in Verbindung mit § 314 Absatz
+3 eine Sicherheitsleistung gerichtlich geltend gemacht wurde.
+
+
+#### § 343 Formwechselbescheinigung
+
+(1) Das Gericht prüft innerhalb von drei Monaten nach der
+Anmeldung gemäß § 342 Absatz 1 und 2, ob für die Gesellschaft die
+Voraussetzungen für den grenzüberschreitenden Formwechsel vorliegen.
+Die Eintragung enthält die Bezeichnung des Formwechselverfahrens
+und der formwechselnden Gesellschaft sowie die Feststellung, dass
+alle einschlägigen Voraussetzungen erfüllt und alle Verfahren und
+Formalitäten erledigt wurden. Die Eintragung ist mit dem Vermerk
+zu versehen, dass der grenzüberschreitende Formwechsel unter den
+Voraussetzungen des Rechts desjenigen Staates wirksam wird, in den
+die Gesellschaft ihren Sitz verlegt. Über die Eintragung stellt das
+Gericht von Amts wegen eine Formwechselbescheinigung aus.
+
+(2) Die Eintragung gemäß Absatz 1 darf nicht vor Ablauf der Fristen
+gemäß § 340 Absatz 3 Satz 1 und gemäß § 341 Absatz 1 in Verbindung
+mit § 314 Absatz 3 vorgenommen werden. Haben alle Anteilsinhaber
+dem Formwechsel zugestimmt, darf die Eintragung bereits vor Ablauf
+der Frist des § 340 Absatz 3 Satz 1 erfolgen. Wurde ein Anspruch
+auf Sicherheitsleistung gemäß § 341 Absatz 1 in Verbindung mit § 314
+Absatz 3 gerichtlich geltend gemacht, so darf die Eintragung gemäß
+Absatz 1 nicht vorgenommen werden,
+
+1.  bevor die den Antrag ablehnende Entscheidung rechtskräftig ist,
+
+2.  die in der Entscheidung festgelegte Sicherheit geleistet wurde oder
+
+3.  die den Antrag teilweise ablehnende Entscheidung rechtskräftig ist und
+    die in der Entscheidung festgelegte Sicherheit geleistet wurde.
+
+Die Leistung der Sicherheit ist dem Gericht in geeigneter Form
+nachzuweisen. Auf Verlangen des Gerichts haben die Mitglieder
+des Vertretungsorgans zu versichern, dass die in der Entscheidung
+festgelegte Sicherheit geleistet wurde.
+
+(3) In dem Verfahren nach Absatz 1 muss das Gericht bei Vorliegen
+von Anhaltspunkten prüfen, ob der grenzüberschreitende Formwechsel
+zu missbräuchlichen oder betrügerischen Zwecken, die dazu führen oder
+führen sollen, sich dem Recht der Europäischen Union oder nationalem
+Recht zu entziehen oder es zu umgehen, oder zu kriminellen Zwecken
+vorgenommen werden soll. Liegen solche Zwecke vor, so lehnt es die
+Eintragung gemäß Absatz 1 ab. Ist es für die Prüfung notwendig,
+zusätzliche Informationen zu berücksichtigen oder zusätzliche
+Ermittlungen durchzuführen, so kann die in Absatz 1 Satz 1 vorgesehene
+Frist um höchstens drei Monate verlängert werden. Anhaltspunkte im
+Sinne von Satz 1 liegen insbesondere vor, wenn
+
+1.  ein gemäß Artikel 86l Absatz 2 bis 4 der Richtlinie (EU) 2017/1132
+    durchzuführendes Verhandlungsverfahren erst auf Aufforderung des
+    Gerichts eingeleitet worden ist;
+
+2.  die Zahl der Arbeitnehmer mindestens vier Fünftel des für die
+    Unternehmensmitbestimmung maßgeblichen Schwellenwerts beträgt, im
+    Zielland keine Wertschöpfung erbracht wird und der Verwaltungssitz in
+    Deutschland verbleibt;
+
+3.  die Gesellschaft nach dem grenzüberschreitenden Formwechsel
+    Schuldnerin von Betriebsrenten oder -anwartschaften ist und kein
+    anderweitiges operatives Geschäft hat.
+
+(4) Ist es wegen der Komplexität des Verfahrens ausnahmsweise nicht
+möglich, die Prüfung innerhalb der in Absatz 1 Satz 1 oder Absatz
+3 Satz 3 vorgesehenen Fristen vorzunehmen, so hat das Gericht den
+Anmeldenden vor Ende des Zeitraums über die Gründe für die Verzögerung
+zu unterrichten.
+
+(5) Nach Eingang der Mitteilung des Registers, in das die Gesellschaft
+neuer Rechtsform eingetragen ist, über das Wirksamwerden des
+grenzüberschreitenden Formwechsels hat das Gericht des Sitzes der
+formwechselnden Gesellschaft den Tag des Wirksamwerdens zu vermerken.
+
+
+#### § 344 Informationen des Registergerichts
+
+Soweit dies für die Prüfung gemäß § 343 erforderlich ist, kann das
+Gericht
+
+1.  von der Gesellschaft Informationen und Unterlagen verlangen,
+
+2.  von öffentlichen inländischen Stellen Informationen und Unterlagen
+    verlangen und von öffentlichen Stellen eines anderen Mitgliedstaats
+    der Europäischen Union oder eines anderen Vertragsstaats des Abkommens
+    über den Europäischen Wirtschaftsraum mit Zuständigkeiten in den
+    verschiedenen vom grenzüberschreitenden Formwechsel betroffenen
+    Bereichen die notwendigen Informationen und Unterlagen erbitten,
+
+3.  von einem eingesetzten besonderen Verhandlungsgremium Informationen
+    und Unterlagen verlangen,
+
+4.  einen unabhängigen Sachverständigen zuziehen sowie
+
+5.  im Rahmen der Prüfung des § 343 Absatz 3 eine in dem formwechselnden
+    Unternehmen vertretene Gewerkschaft anhören.
+
+Ist eine inländische öffentliche Stelle in einem von dem
+grenzüberschreitenden Formwechsel betroffenen Bereich zuständig,
+so kann sie der für die Ausstellung einer Formwechselbescheinigung
+zuständigen Stelle eines anderen Mitgliedstaats der Europäischen Union
+oder eines anderen Vertragsstaats des Abkommens über den Europäischen
+Wirtschaftsraum auf deren Ersuchen die notwendigen Informationen und
+Unterlagen übermitteln.
+
+
+#### § 345 Eintragung des grenzüberschreitenden Hereinformwechsels
+
+(1) Das Vertretungsorgan der formwechselnden Gesellschaft hat
+die Gesellschaft neuer Rechtsform bei dem zuständigen Gericht zur
+Eintragung in das für die Rechtsform maßgebende Register anzumelden.
+Der Anmeldung sind in der Form des § 17 Absatz 1 der Formwechselplan
+und gegebenenfalls die Vereinbarung über die Beteiligung der
+Arbeitnehmer beizufügen. § 198 Absatz 3 und § 199 sind auf die
+formwechselnde Gesellschaft nicht anzuwenden.
+
+(2) Die über das Europäische System der Registervernetzung
+übermittelte Formwechselbescheinigung wird als Nachweis der
+ordnungsgemäßen Erledigung der vorangehenden Verfahren und
+Formalitäten nach dem Recht desjenigen Staates, dem die formwechselnde
+Gesellschaft unterliegt, anerkannt. Ohne die Formwechselbescheinigung
+kann der grenzüberschreitende Formwechsel nicht in das Register
+eingetragen werden.
+
+(3) Die Prüfung der Eintragungsvoraussetzungen erstreckt sich
+insbesondere darauf, ob gegebenenfalls eine Vereinbarung über
+die Beteiligung der Arbeitnehmer geschlossen worden ist und ob
+die Vorschriften zur Gründung der Gesellschaft neuer Rechtsform
+eingehalten worden sind.
+
+(4) Das Gericht des Sitzes der Gesellschaft neuer Rechtsform hat das
+Wirksamwerden des grenzüberschreitenden Formwechsels dem Register
+mitzuteilen, in dem die formwechselnde Gesellschaft ihre Unterlagen zu
+hinterlegen hatte.
+
+
+## Siebentes Buch - Strafvorschriften und Zwangsgelder
+
+
+### § 346 Unrichtige Darstellung
+
+(1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe
+wird bestraft, wer als Mitglied eines Vertretungsorgans, als
 vertretungsberechtigter Gesellschafter oder Partner, als Mitglied
 eines Aufsichtsrats oder als Abwickler eines an einer Umwandlung
 beteiligten Rechtsträgers bei dieser Umwandlung
@@ -5839,34 +6781,30 @@ beteiligten Rechtsträgers bei dieser Umwandlung
 1.  die Verhältnisse des Rechtsträgers einschließlich seiner Beziehungen
     zu verbundenen Unternehmen in einem in diesem Gesetz vorgesehenen
     Bericht (Verschmelzungsbericht, Spaltungsbericht, Übertragungsbericht,
-    Umwandlungsbericht), in Darstellungen oder Übersichten über den
+    Formwechselbericht), in Darstellungen oder Übersichten über den
     Vermögensstand, in Vorträgen oder Auskünften in der Versammlung der
     Anteilsinhaber unrichtig wiedergibt oder verschleiert, wenn die Tat
     nicht in § 331 Nr. 1 oder Nr. 1a des Handelsgesetzbuchs mit Strafe
     bedroht ist, oder
 
-
 2.  in Aufklärungen und Nachweisen, die nach den Vorschriften dieses
-    Gesetzes einem Verschmelzungs-, Spaltungs- oder Übertragungsprüfer zu
-    geben sind, unrichtige Angaben macht oder die Verhältnisse des
+    Gesetzes einem Verschmelzungs-, Spaltungs- oder Übertragungsprüfer
+    zu geben sind, unrichtige Angaben macht oder die Verhältnisse des
     Rechtsträgers einschließlich seiner Beziehungen zu verbundenen
     Unternehmen unrichtig wiedergibt oder verschleiert.
-
-
-
 
 (2) Ebenso wird bestraft, wer als Geschäftsführer einer Gesellschaft
 mit beschränkter Haftung, als Mitglied des Vorstands einer
 Aktiengesellschaft, als zur Vertretung ermächtigter persönlich
 haftender Gesellschafter einer Kommanditgesellschaft auf Aktien oder
-als Abwickler einer solchen Gesellschaft in einer Erklärung nach § 52
-über die Zustimmung der Anteilsinhaber dieses Rechtsträgers oder in
-einer Erklärung nach § 140 oder § 146 Abs. 1 über die Deckung des
-Stammkapitals oder Grundkapitals der übertragenden Gesellschaft
+als Abwickler einer solchen Gesellschaft in einer Erklärung nach §
+52 über die Zustimmung der Anteilsinhaber dieses Rechtsträgers oder
+in einer Erklärung nach § 140 oder § 146 Abs. 1 über die Deckung
+des Stammkapitals oder Grundkapitals der übertragenden Gesellschaft
 unrichtige Angaben macht oder seiner Erklärung zugrunde legt.
 
 
-### § 314 Verletzung der Berichtspflicht
+### § 347 Verletzung der Berichtspflicht
 
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
 bestraft, wer als Verschmelzungs-, Spaltungs- oder Übertragungsprüfer
@@ -5879,14 +6817,22 @@ einen anderen zu bereichern oder einen anderen zu schädigen, so ist
 die Strafe Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe.
 
 
-### § 314a Falsche Angaben
+### § 348 Falsche Angaben
 
 Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
-bestraft, wer entgegen § 122k Abs. 1 Satz 3 eine Versicherung nicht
-richtig abgibt.
+bestraft, wer
+
+1.  entgegen § 315 Absatz 3 Satz 1 Nummer 1 oder 4 oder § 316 Absatz
+    2 Satz 5, jeweils auch in Verbindung mit § 329 Satz 1, entgegen §
+    342 Absatz 3 Satz 1 Nummer 1 oder 4 oder § 343 Absatz 2 Satz 5 eine
+    Versicherung nicht richtig abgibt oder
+
+2.  entgegen § 315 Absatz 3 Satz 2, auch in Verbindung mit § 329 Satz
+    1, oder entgegen § 342 Absatz 3 Satz 2 eine Mitteilung nicht richtig
+    macht.
 
 
-### § 315 Verletzung der Geheimhaltungspflicht
+### § 349 Verletzung der Geheimhaltungspflicht
 
 (1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
 bestraft, wer ein Geheimnis eines an einer Umwandlung beteiligten
@@ -5897,30 +6843,27 @@ ihm in seiner Eigenschaft als
     oder Partner, Mitglied eines Aufsichtsrats oder Abwickler dieses oder
     eines anderen an der Umwandlung beteiligten Rechtsträgers,
 
-
 2.  Verschmelzungs-, Spaltungs- oder Übertragungsprüfer oder Gehilfe eines
     solchen Prüfers
 
-
-
 bekannt geworden ist, unbefugt offenbart, wenn die Tat im Falle der
-Nummer 1 nicht in § 85 des Gesetzes betreffend die Gesellschaften mit
-beschränkter Haftung, § 404 des Aktiengesetzes oder § 151 des
+Nummer 1 nicht in § 85 des Gesetzes betreffend die Gesellschaften
+mit beschränkter Haftung, § 404 des Aktiengesetzes oder § 151 des
 Genossenschaftsgesetzes, im Falle der Nummer 2 nicht in § 333 des
 Handelsgesetzbuchs mit Strafe bedroht ist.
 
 (2) Handelt der Täter gegen Entgelt oder in der Absicht, sich oder
-einen anderen zu bereichern oder einen anderen zu schädigen, so ist
-die Strafe Freiheitsstrafe bis zu zwei Jahren oder Geldstrafe. Ebenso
-wird bestraft, wer ein Geheimnis der in Absatz 1 bezeichneten Art,
-namentlich ein Betriebs- oder Geschäftsgeheimnis, das ihm unter den
-Voraussetzungen des Absatzes 1 bekannt geworden ist, unbefugt
+einen anderen zu bereichern oder einen anderen zu schädigen, so
+ist die Strafe Freiheitsstrafe bis zu zwei Jahren oder Geldstrafe.
+Ebenso wird bestraft, wer ein Geheimnis der in Absatz 1 bezeichneten
+Art, namentlich ein Betriebs- oder Geschäftsgeheimnis, das ihm unter
+den Voraussetzungen des Absatzes 1 bekannt geworden ist, unbefugt
 verwertet.
 
 (3) Die Tat wird nur auf Antrag eines der an der Umwandlung
 beteiligten Rechtsträger verfolgt. Hat ein Mitglied eines
-Vertretungsorgans, ein vertretungsberechtigter Gesellschafter oder
-Partner oder ein Abwickler die Tat begangen, so sind auch ein
+Vertretungsorgans, ein vertretungsberechtigter Gesellschafter
+oder Partner oder ein Abwickler die Tat begangen, so sind auch ein
 Aufsichtsrat oder ein nicht vertretungsberechtigter Gesellschafter
 oder Partner antragsberechtigt. Hat ein Mitglied eines Aufsichtsrats
 die Tat begangen, sind auch die Mitglieder des Vorstands, die
@@ -5928,41 +6871,42 @@ vertretungsberechtigten Gesellschafter oder Partner oder die Abwickler
 antragsberechtigt.
 
 
-### § 316 Zwangsgelder
+### § 350 Zwangsgelder
 
 (1) Mitglieder eines Vertretungsorgans, vertretungsberechtigte
-Gesellschafter, vertretungsberechtigte Partner oder Abwickler, die §
-13 Abs. 3 Satz 3 sowie § 125 Satz 1, § 176 Abs. 1, § 177 Abs. 1, § 178
-Abs. 1, § 179 Abs. 1, § 180 Abs. 1, § 184 Abs. 1, § 186 Satz 1, § 188
-Abs. 1 und § 189 Abs. 1, jeweils in Verbindung mit § 13 Abs. 3 Satz 3,
-sowie § 193 Abs. 3 Satz 2 nicht befolgen, sind hierzu von dem
-zuständigen Registergericht durch Festsetzung von Zwangsgeld
+Gesellschafter, vertretungsberechtigte Partner oder Abwickler, die
+§ 13 Abs. 3 Satz 3 sowie § 125 Satz 1, § 176 Abs. 1, § 177 Abs. 1, §
+178 Abs. 1, § 179 Abs. 1, § 180 Abs. 1, § 184 Abs. 1, § 186 Satz 1,
+§ 188 Abs. 1 und § 189 Abs. 1, jeweils in Verbindung mit § 13 Abs.
+3 Satz 3, sowie § 193 Abs. 3 Satz 2 nicht befolgen, sind hierzu von
+dem zuständigen Registergericht durch Festsetzung von Zwangsgeld
 anzuhalten; § 14 des Handelsgesetzbuchs bleibt unberührt. Das einzelne
 Zwangsgeld darf den Betrag von fünftausend Euro nicht übersteigen.
 
 (2) Die Anmeldungen einer Umwandlung zu dem zuständigen Register nach
-§ 16 Abs. 1, den §§ 38, 122k Abs. 1, § 122l Abs. 1, §§ 129 und 137
-Abs. 1 und 2, § 176 Abs. 1, § 177 Abs. 1, § 178 Abs. 1, § 179 Abs. 1,
-§ 180 Abs. 1, § 184 Abs. 1, §§ 186, 188 Abs. 1, § 189 Abs. 1, §§ 198,
-222, 235, 246, 254, 265, 278 Abs. 1, §§ 286 und 296 werden durch
-Festsetzung von Zwangsgeld nicht erzwungen.
+§ 16 Absatz 1, den §§ 38, 129 und 137 Absatz 1 und 2, § 176 Absatz
+1, § 177 Absatz 1, § 178 Absatz 1, § 179 Absatz 1, § 180 Absatz 1,
+§ 184 Absatz 1, den §§ 186 und 188 Absatz 1, § 189 Absatz 1, den §§
+198, 222, 235, 246, 254, 265 und 278 Absatz 1, den §§ 286, 296 und
+§ 315, auch in Verbindung mit § 329 Satz 1, § 318 Absatz 1, auch in
+Verbindung mit § 329 Satz 1, § 331 Absatz 1, den §§ 342 sowie § 345
+Absatz 1 werden durch Festsetzung von Zwangsgeld nicht erzwungen.
 
 
-## Siebentes Buch - Übergangs- und Schlußvorschriften
+## Achtes Buch - Übergangs- und Schlußvorschriften
 
 
-
-### § 317 Umwandlung alter juristischer Personen
+### § 351 Umwandlung alter juristischer Personen
 
 Eine juristische Person im Sinne des Artikels 163 des
-Einführungsgesetzes zum Bürgerlichen Gesetzbuche kann nach den für
-wirtschaftliche Vereine geltenden Vorschriften dieses Gesetzes
+Einführungsgesetzes zum Bürgerlichen Gesetzbuche kann nach den
+für wirtschaftliche Vereine geltenden Vorschriften dieses Gesetzes
 umgewandelt werden. Hat eine solche juristische Person keine
 Mitglieder, so kann sie nach den für Stiftungen geltenden Vorschriften
 dieses Gesetzes umgewandelt werden.
 
 
-### § 318 Eingeleitete Umwandlungen. Umstellung auf den Euro
+### § 352 Eingeleitete Umwandlungen. Umstellung auf den Euro
 
 (1) Die Vorschriften dieses Gesetzes sind nicht auf solche
 Umwandlungen anzuwenden, zu deren Vorbereitung bereits vor dem 1.
@@ -5972,9 +6916,9 @@ ist. Für diese Umwandlungen bleibt es bei der Anwendung der bis zu
 diesem Tage geltenden Vorschriften.
 
 (2) Wird eine Umwandlung nach dem 31. Dezember 1998 in das
-Handelsregister eingetragen, so erfolgt eine Neufestsetzung der
-Nennbeträge von Anteilen einer Kapitalgesellschaft als übernehmendem
-Rechtsträger, deren Anteile noch der bis dahin gültigen
+Handelsregister eingetragen, so erfolgt eine Neufestsetzung
+der Nennbeträge von Anteilen einer Kapitalgesellschaft als
+übernehmendem Rechtsträger, deren Anteile noch der bis dahin gültigen
 Nennbetragseinteilung entsprechen, nach den bis zu diesem Zeitpunkt
 geltenden Vorschriften. Wo dieses Gesetz für einen neuen Rechtsträger
 oder einen Rechtsträger neuer Rechtsform auf die jeweils geltenden
@@ -5990,7 +6934,7 @@ Handelsregister angemeldet worden, bleibt es bei der Anwendung der bis
 zu diesem Tage geltenden Gründungsvorschriften.
 
 
-### § 319 Enthaftung bei Altverbindlichkeiten
+### § 353 Enthaftung bei Altverbindlichkeiten
 
 Die §§ 45, 133 Abs. 1, 3 bis 5, §§ 157, 167, 173, 224, 237, 249 und
 257 sind auch auf vor dem 1. Januar 1995 entstandene Verbindlichkeiten
@@ -5998,34 +6942,26 @@ anzuwenden, wenn
 
 1.  die Umwandlung danach in das Register eingetragen wird und
 
-
 2.  die Verbindlichkeiten nicht später als vier Jahre nach dem Zeitpunkt,
     an dem die Eintragung der Umwandlung in das Register bekannt gemacht
     worden ist, fällig werden oder nach Inkrafttreten des Gesetzes zur
     zeitlichen Begrenzung der Nachhaftung von Gesellschaftern vom 18. März
     1994 (BGBl. I S. 560) begründet worden sind.
 
-
-
 Auf später fällig werdende und vor Inkrafttreten des Gesetzes zur
-zeitlichen Begrenzung der Nachhaftung von Gesellschaftern vom 18. März
-1994 (BGBl. I S. 560) entstandene Verbindlichkeiten sind die §§ 45, 49
-Abs. 4, §§ 56, 56f Abs. 2, § 57 Abs. 2 und § 58 Abs. 2 des
-Umwandlungsgesetzes in der durch Artikel 10 Abs. 8 des Gesetzes vom
-19\. Dezember 1985 (BGBl. I S. 2355) geänderten Fassung der
+zeitlichen Begrenzung der Nachhaftung von Gesellschaftern vom 18.
+März 1994 (BGBl. I S. 560) entstandene Verbindlichkeiten sind die
+§§ 45, 49 Abs. 4, §§ 56, 56f Abs. 2, § 57 Abs. 2 und § 58 Abs. 2
+des Umwandlungsgesetzes in der durch Artikel 10 Abs. 8 des Gesetzes
+vom 19. Dezember 1985 (BGBl. I S. 2355) geänderten Fassung der
 Bekanntmachung vom 6. November 1969 (BGBl. I S. 2081) mit der Maßgabe
 anwendbar, daß die Verjährungsfrist ein Jahr beträgt. In den Fällen,
-in denen das bisher geltende Recht eine Umwandlungsmöglichkeit nicht
-vorsah, verjähren die in Satz 2 genannten Verbindlichkeiten
+in denen das bisher geltende Recht eine Umwandlungsmöglichkeit
+nicht vorsah, verjähren die in Satz 2 genannten Verbindlichkeiten
 entsprechend den dort genannten Vorschriften.
 
 
-### § 320 Aufhebung des Umwandlungsgesetzes 1969
-
--
-
-
-### § 321 Übergangsvorschrift zum Gesetz zur Umsetzung der Aktionärsrechterichtlinie, zum Dritten Gesetz zur Änderung des Umwandlungsgesetzes und zum Finanzmarktintegritätsstärkungsgesetz
+### § 354 Übergangsvorschrift zum Gesetz zur Umsetzung der Aktionärsrechterichtlinie, zum Dritten Gesetz zur Änderung des Umwandlungsgesetzes und zum Finanzmarktintegritätsstärkungsgesetz
 
 (1) Im Fall des § 15 Abs. 2 Satz 1 bleibt es für die Zeit vor dem 1.
 September 2009 bei dem bis dahin geltenden Zinssatz.
@@ -6035,8 +6971,8 @@ der Aktionärsrechterichtlinie vom 30. Juli 2009 (BGBl. I S. 2479) ist
 nicht auf Freigabeverfahren und Beschwerdeverfahren anzuwenden, die
 vor dem 1. September 2009 anhängig waren.
 
-(3) § 62 Absatz 4 und 5, § 63 Absatz 2 Satz 5 bis 7, § 64 Absatz 1
-sowie § 143 in der Fassung des Dritten Gesetzes zur Änderung des
+(3) § 62 Absatz 4 und 5, § 63 Absatz 2 Satz 5 bis 7, § 64 Absatz
+1 sowie § 143 in der Fassung des Dritten Gesetzes zur Änderung des
 Umwandlungsgesetzes vom 11. Juli 2011 (BGBl. I S. 1338) sind erstmals
 auf Umwandlungen anzuwenden, bei denen der Verschmelzungs- oder
 Spaltungsvertrag nach dem 14. Juli 2011 geschlossen worden ist.
@@ -6049,56 +6985,27 @@ Prüfung von Verschmelzungen anzuwenden, deren Verschmelzungsvertrag
 vor dem 1. Januar 2022 geschlossen wurde.
 
 
-### § 322 Gemeinsamer Betrieb
+### § 355 Übergangsvorschrift zum Gesetz zur Umsetzung der Umwandlungsrichtlinie und zur Änderung weiterer Gesetze
 
-Führen an einer Spaltung oder an einer Teilübertragung nach dem
-Dritten oder Vierten Buch beteiligte Rechtsträger nach dem
-Wirksamwerden der Spaltung oder der Teilübertragung einen Betrieb
-gemeinsam, gilt dieser als Betrieb im Sinne des
-Kündigungsschutzrechts.
+(1) Eine Verschmelzung, eine Spaltung oder ein Formwechsel kann von
+den beteiligten Rechtsträgern in Übereinstimmung mit den Bestimmungen
+des Zweiten, Dritten und Fünften Buches in deren jeweils vor dem 1.
+März 2023 geltenden Fassung durchgeführt werden, wenn
 
+1.  der Verschmelzungsvertrag oder der Spaltungs- und Übernahmevertrag vor
+    dem 1. März 2023 geschlossen, der Verschmelzungs- oder Spaltungsplan
+    vor dem 1. März 2023 aufgestellt oder der Formwechselbeschluss als
+    Umwandlungsbeschluss vor dem 1. März 2023 gefasst wurde und
 
-### § 323 Kündigungsrechtliche Stellung
+2.  die Umwandlung bis zum 31. Dezember 2023 zur Eintragung angemeldet
+    wurde.
 
-(1) Die kündigungsrechtliche Stellung eines Arbeitnehmers, der vor dem
-Wirksamwerden einer Spaltung oder Teilübertragung nach dem Dritten
-oder Vierten Buch zu dem übertragenden Rechtsträger in einem
-Arbeitsverhältnis steht, verschlechtert sich auf Grund der Spaltung
-oder Teilübertragung für die Dauer von zwei Jahren ab dem Zeitpunkt
-ihres Wirksamwerdens nicht.
-
-(2) Kommt bei einer Verschmelzung, Spaltung oder Vermögensübertragung
-ein Interessenausgleich zustande, in dem diejenigen Arbeitnehmer
-namentlich bezeichnet werden, die nach der Umwandlung einem bestimmten
-Betrieb oder Betriebsteil zugeordnet werden, so kann die Zuordnung der
-Arbeitnehmer durch das Arbeitsgericht nur auf grobe Fehlerhaftigkeit
-überprüft werden.
-
-
-### § 324 Rechte und Pflichten bei Betriebsübergang
-
-§ 613a Abs. 1, 4 bis 6 des Bürgerlichen Gesetzbuchs bleibt durch die
-Wirkungen der Eintragung einer Verschmelzung, Spaltung oder
-Vermögensübertragung unberührt.
-
-
-### § 325 Mitbestimmungsbeibehaltung
-
-(1) Entfallen durch Abspaltung oder Ausgliederung im Sinne des § 123
-Abs. 2 und 3 bei einem übertragenden Rechtsträger die gesetzlichen
-Voraussetzungen für die Beteiligung der Arbeitnehmer im Aufsichtsrat,
-so finden die vor der Spaltung geltenden Vorschriften noch für einen
-Zeitraum von fünf Jahren nach dem Wirksamwerden der Abspaltung oder
-Ausgliederung Anwendung. Dies gilt nicht, wenn die betreffenden
-Vorschriften eine Mindestzahl von Arbeitnehmern voraussetzen und die
-danach berechnete Zahl der Arbeitnehmer des übertragenden
-Rechtsträgers auf weniger als in der Regel ein Viertel dieser
-Mindestzahl sinkt.
-
-(2) Hat die Spaltung oder Teilübertragung eines Rechtsträgers die
-Spaltung eines Betriebes zur Folge und entfallen für die aus der
-Spaltung hervorgegangenen Betriebe Rechte oder Beteiligungsrechte des
-Betriebsrats, so kann durch Betriebsvereinbarung oder Tarifvertrag die
-Fortgeltung dieser Rechte und Beteiligungsrechte vereinbart werden.
-Die §§ 9 und 27 des Betriebsverfassungsgesetzes bleiben unberührt.
+(2) § 14 Absatz 2, § 15 Absatz 1 und § 312 in der ab dem 1. März
+2023 geltenden Fassung sind erstmals auf Umwandlungen anzuwenden, für
+die der Zustimmungsbeschluss der Anteilsinhaber nach dem 28. Februar
+2023 gefasst worden ist. § 307 Absatz 2 Nummer 14, die §§ 314 und 316
+Absatz 2 in der ab dem 1. März 2023 geltenden Fassung sind erstmals
+auf grenzüberschreitende Verschmelzungen anzuwenden, für die der
+Verschmelzungsplan nach dem 28. Februar 2023 bekannt gemacht worden
+ist.
 

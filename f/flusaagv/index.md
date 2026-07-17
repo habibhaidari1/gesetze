@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Erhebung von Kosten für die Inanspruchnahme von Diensten
-  und Einrichtungen der Flugsicherung beim An- und Abflug
+Title: Verordnung über die Erhebung von Kosten für die Inanspruchnahme von Diensten und Einrichtungen der Flugsicherung beim An- und Abflug
 jurabk: FlusAAGV
 layout: default
 origslug: flusaagv
@@ -17,21 +16,15 @@ Fundstelle
 :   BGBl I: 1989, 1809
 
 Zuletzt geändert durch
-:   Art. 1 V v. 17.12.2020 I 3015
-
-Änderung durch
-:   Art. 1 V v. 9.8.2021 I 3568 (Nr. 54) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 1 V v. 21.12.2021 I 5254 (Nr. 86) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 V v. 19.12.2025 I Nr. 378
 
 
 ## Eingangsformel
 
 Auf Grund des § 32 Abs. 1 Satz 1 Nr. 14 und Satz 4 des
-Luftverkehrsgesetzes in der Fassung der Bekanntmachung vom 14. Januar
-1981 (BGBl. I S. 61), geändert durch Artikel 4 des Gesetzes vom 2.
-Februar 1984 (BGBl. II S. 69), wird im Einvernehmen mit dem
+Luftverkehrsgesetzes in der Fassung der Bekanntmachung vom 14.
+Januar 1981 (BGBl. I S. 61), geändert durch Artikel 4 des Gesetzes
+vom 2. Februar 1984 (BGBl. II S. 69), wird im Einvernehmen mit dem
 Bundesminister für Wirtschaft verordnet:
 
 
@@ -46,18 +39,19 @@ Münster/Osnabrück, Nürnberg, Saarbrücken und Stuttgart werden Kosten
 
 (1a) Ferner werden für die Inanspruchnahme von Diensten und
 Einrichtungen der Flugsicherung durch Luftfahrzeuge beim An- und
-Abflug an den Flugplätzen Allendorf-Eder, Augsburg, Bautzen, Bayreuth,
-Braunschweig-Wolfsburg, Coburg-Brandensteinsebene, Donaueschingen-
-Villingen, Donauwörth HEL, Dortmund, Eggenfelden, Emden, Frankfurt-
-Hahn, Friedrichshafen, Giebelstadt, Hamburg-Finkenwerder, Hassfurt-
-Schweinfurt, Heringsdorf, Hof-Plauen, Karlsruhe/ Baden-Baden, Kassel-
-Calden, Kiel-Holtenau, Lahr, Leipzig-Altenburg Airport, Lübeck-
-Blankensee, Magdeburg/City, Mannheim City, Memmingen, Mengen-
-Hohentengen, Mönchengladbach, Neubrandenburg, Niederrhein,
-Oberpfaffenhofen, Paderborn/Lippstadt, Schönhagen, Schwäbisch Hall,
-Siegerland, Straubing, Strausberg, Sylt, Wilhelmshaven Jadeweser
-Airport und Zweibrücken Kosten (Gebühren und Auslagen) erhoben
-(Gebührenbereich 2).
+Abflug an den Flugplätzen Allendorf-Eder, Augsburg, Bamberg-Breitenau,
+Bautzen, Bayreuth, Braunschweig-Wolfsburg, Coburg-Brandensteinsebene,
+Donaueschingen-Villingen, Donauwörth HEL, Dortmund, Eggenfelden,
+Emden, Frankfurt-Egelsbach, Frankfurt-Hahn, Friedrichshafen,
+Giebelstadt, Hamburg-Finkenwerder, Hassfurt-Schweinfurt, Heringsdorf,
+Hof-Plauen, Karlsruhe/ Baden-Baden, Kassel-Calden, Kiel-Holtenau,
+Lahr, Leipzig-Altenburg Airport, Lübeck-Blankensee, Magdeburg/City,
+Magdeburg/Cochstedt, Mannheim City, Memmingen, Mengen-Hohentengen,
+Mönchengladbach, Neubrandenburg, Niederrhein, Oberpfaffenhofen,
+Paderborn/Lippstadt, Schönhagen, Schwäbisch Hall, Siegerland, Speyer,
+Straubing, Strausberg, Sylt, Wilhelmshaven Jadeweser Airport und
+Zweibrücken Kosten (Gebühren und Auslagen) erhoben (Gebührenbereich
+2).
 
 (1b) Die Art des notwendigen Flugsicherungsdienstes bestimmt sich nach
 der Anlage.
@@ -75,9 +69,9 @@ Abflug. Zähleinheit des Gebührenbereichs 2 ist die Landung.
 ## § 2
 
 (1) Der Gebührensatz für eine Inanspruchnahme durch ein Luftfahrzeug
-im Gebührenbereich 1 beträgt ab 1. Januar 2022 218,05 Euro. Die
-Berechnung des Gebührensatzes für die Flughäfen des Gebührenbereichs 1
-sowie der daraus resultierenden Gebühr richtet sich nach der
+im Gebührenbereich 1 beträgt ab 1. Januar 2026 365,18 Euro. Die
+Berechnung des Gebührensatzes für die Flughäfen des Gebührenbereichs
+1 sowie der daraus resultierenden Gebühr richtet sich nach der
 Durchführungsverordnung (EU) 2019/317 der Kommission vom 11. Februar
 2019 zur Festlegung eines Leistungssystems und einer Gebührenregelung
 für den einheitlichen europäischen Luftraum und zur Aufhebung der
@@ -85,19 +79,19 @@ Durchführungsverordnungen (EU) Nr. 390/2013 und (EU) Nr. 391/2013
 (ABl. L 56 vom 25.2.2019, S. 1).
 
 (2) Der Gebührensatz für eine Inanspruchnahme durch ein Luftfahrzeug
-im Gebührenbereich 2 beträgt ab 1. Januar 2022 218,05 Euro. Zur
-Ermittlung des Gebührensatzes wird die algebraische Differenz aus den
-durch das Bundesaufsichtsamt für Flugsicherung anerkannten geplanten
-Kosten für die Flugsicherung an den Flugplätzen des Gebührenbereichs 2
-für das betreffende Kalenderjahr einerseits und den finanziellen
-Leistungen des Bundes zur Unterstützung der Erbringung von
-gebührenfinanzierten Flugsicherungsleistungen an den Flugplätzen des
-Gebührenbereichs 2 für das betreffende Kalenderjahr andererseits durch
-die gemäß Anhang VIII Nummer 2 der Durchführungsverordnung (EU)
-2019/317 berechnete voraussichtliche Gesamtzahl der An- und
+im Gebührenbereich 2 beträgt ab 1. Januar 2026 365,18 Euro. Zur
+Ermittlung des Gebührensatzes wird die algebraische Differenz aus
+den durch das Bundesaufsichtsamt für Flugsicherung anerkannten
+geplanten Kosten für die Flugsicherung an den Flugplätzen des
+Gebührenbereichs 2 für das betreffende Kalenderjahr einerseits und den
+finanziellen Leistungen des Bundes zur Unterstützung der Erbringung
+von gebührenfinanzierten Flugsicherungsleistungen an den Flugplätzen
+des Gebührenbereichs 2 für das betreffende Kalenderjahr andererseits
+durch die gemäß Anhang VIII Nummer 2 der Durchführungsverordnung
+(EU) 2019/317 berechnete voraussichtliche Gesamtzahl der An- und
 Abflugdiensteinheiten für das betreffende Kalenderjahr geteilt. Die
-Gebühr für die einzelne Inanspruchnahme entspricht dem Produkt aus dem
-Gebührensatz nach Satz 1 und der An- und Abflugdiensteinheit gemäß
+Gebühr für die einzelne Inanspruchnahme entspricht dem Produkt aus
+dem Gebührensatz nach Satz 1 und der An- und Abflugdiensteinheit gemäß
 Anhang VIII Nummer 2 der Durchführungsverordnung (EU) 2019/317 für
 diese Inanspruchnahme.
 
@@ -114,14 +108,10 @@ Für folgende Inanspruchnahmen werden keine Kosten erhoben:
 
 1.  durch militärische Luftfahrzeuge der NATO-Mitgliedstaaten;
 
-
 2.  durch militärische Luftfahrzeuge anderer als NATO-Mitgliedstaaten,
     wenn auch von dem betreffenden Staat für Flüge militärischer
     Luftfahrzeuge der Bundesrepublik Deutschland eine entsprechende
     Kostenbefreiung gewährt wird.
-
-
-
 
 
 ## § 5
@@ -137,13 +127,14 @@ Diese Verordnung tritt am 1. Juli 1990 in Kraft.
 ## Schlußformel
 
 Der Bundesrat hat zugestimmt.
+
 Der Bundesminister für Verkehr
 
 
 ## Anlage (zu § 1 Absatz 1b)
 
-(Fundstelle: BGBl. I 2021, S. 3569)
-
+(Fundstelle: BGBl. I 2021, S. 3569;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 1.  **Flugplätze, an denen Flugverkehrskontrolldienst notwendig ist:**
 
@@ -215,10 +206,12 @@ Der Bundesminister für Verkehr
 
     Sylt
 
-
-2.  **Flugplätze, an denen Flugplatzinformationsdienst notwendig ist:**
+2.  **Flugplätze, an denen Flugplatz-Fluginformationsdienst notwendig
+    ist:**
 
     Allendorf/Eder
+
+    Bamberg-Breitenau
 
     Bautzen
 
@@ -234,6 +227,8 @@ Der Bundesminister für Verkehr
 
     Emden
 
+    Frankfurt-Egelsbach
+
     Giebelstadt
 
     Hassfurt-Schweinfurt
@@ -243,6 +238,8 @@ Der Bundesminister für Verkehr
     Leipzig-Altenburg Airport
 
     Magdeburg/City
+
+    Magdeburg/Cochstedt
 
     Mengen-Hohentengen
 
@@ -254,6 +251,8 @@ Der Bundesminister für Verkehr
 
     Siegerland
 
+    Speyer
+
     Straubing
 
     Strausberg
@@ -263,26 +262,15 @@ Der Bundesminister für Verkehr
     Zweibrücken
 
 
-
-
-Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet C Abschnitt III
-
-## Anhang EV (BGBl. II 1990, 889, 1106)
+## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet C Abschnitt III (BGBl. II 1990, 889, 1106)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:
 1\. bis 3. ...
-
-4.  Verordnung über die Erhebung von Gebühren für die Inanspruchnahme von
-    Diensten und Einrichtungen der Flugsicherung beim An- und Abflug vom
-    28\. September 1989 (BGBl. I S. 1809)
-
-    jeweils mit folgender Maßgabe:
-
-    Bei den unter Nummern 3 und 4 genannten Rechtsvorschriften sind Flüge
-    militärischer Luftfahrzeuge der Warschauer Vertragsstaaten denen der
-    NATO-Mitgliedstaaten gebührenrechtlich gleichgestellt.
-
-
-
+4\. Verordnung über die Erhebung von Gebühren für die Inanspruchnahme
+von Diensten und Einrichtungen der Flugsicherung beim An- und
+Abflug vom 28. September 1989 (BGBl. I S. 1809)jeweils mit folgender
+Maßgabe:Bei den unter Nummern 3 und 4 genannten Rechtsvorschriften
+sind Flüge militärischer Luftfahrzeuge der Warschauer Vertragsstaaten
+denen der NATO-Mitgliedstaaten gebührenrechtlich gleichgestellt.
 

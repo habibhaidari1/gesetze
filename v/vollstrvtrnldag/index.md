@@ -1,8 +1,5 @@
 ---
-Title: Gesetz zur Ausführung des Vertrages vom 30. August 1962 zwischen der Bundesrepublik
-  Deutschland und dem Königreich der Niederlande über die gegenseitige Anerkennung
-  und Vollstreckung gerichtlicher Entscheidungen und anderer Schuldtitel in Zivil-
-  und Handelssachen
+Title: Gesetz zur Ausführung des Vertrages vom 30. August 1962 zwischen der Bundesrepublik Deutschland und dem Königreich der Niederlande über die gegenseitige Anerkennung und Vollstreckung gerichtlicher Entscheidungen und anderer Schuldtitel in Zivil- und Handelssachen
 jurabk: VollstrVtrNLDAG
 layout: default
 origslug: vollstrvtrnldag
@@ -23,7 +20,6 @@ Zuletzt geändert durch
 
 
 ## Erster Abschnitt - Erteilung der Vollstreckungsklausel zu gerichtlichen Entscheidungen und zu anderen Schuldtiteln
-
 
 
 ### § 1
@@ -57,13 +53,13 @@ Verhandlung. Einer Anhörung des Schuldners bedarf es nicht.
 Hängt die Vollstreckung nach dem Inhalt des Schuldtitels (§ 1 Abs. 1)
 von einer dem Gläubiger obliegenden Sicherheitsleistung, dem Ablauf
 einer Frist oder dem Eintritt einer anderen Tatsache ab oder wird die
-Erteilung der Vollstreckungsklausel zugunsten eines anderen als des in
-dem Schuldtitel bezeichneten Gläubigers oder gegen einen anderen als
-den darin bezeichneten Schuldner beantragt, so ist die Frage,
+Erteilung der Vollstreckungsklausel zugunsten eines anderen als des
+in dem Schuldtitel bezeichneten Gläubigers oder gegen einen anderen
+als den darin bezeichneten Schuldner beantragt, so ist die Frage,
 inwieweit die Erteilung der Vollstreckungsklausel von dem Nachweis
 besonderer Voraussetzungen abhängig oder ob der Schuldtitel für oder
-gegen den anderen vollstreckbar ist, nach niederländischem Recht zu
-entscheiden. Der Nachweis ist durch öffentliche oder öffentlich
+gegen den anderen vollstreckbar ist, nach niederländischem Recht
+zu entscheiden. Der Nachweis ist durch öffentliche oder öffentlich
 beglaubigte Urkunden zu führen, sofern nicht die Tatsachen bei dem
 Gericht offenkundig sind. Soll der Nachweis mit anderen Beweismitteln
 geführt werden, so ist der Schuldner zu hören; in diesem Fall kann
@@ -81,8 +77,8 @@ Vollstreckungsklausel an.
 (1) Ist der Antrag nicht begründet, so lehnt ihn der Vorsitzende durch
 Beschluß ab. Der Beschluß ist mit Gründen zu versehen.
 
-(2) Der Beschluss unterliegt der Beschwerde nach den §§ 567 bis 577
-der Zivilprozessordnung; § 1065 der Zivilprozessordnung gilt
+(2) Der Beschluss unterliegt der Beschwerde nach den §§ 567 bis
+577 der Zivilprozessordnung; § 1065 der Zivilprozessordnung gilt
 entsprechend.
 
 
@@ -92,13 +88,10 @@ entsprechend.
 Vollstreckungsklausel von dem Urkundsbeamten der Geschäftsstelle in
 folgender Form erteilt:
 
-*   "Gemäß der Anordnung des usw. (Bezeichnung des Vorsitzenden, des
+-   "Gemäß der Anordnung des usw. (Bezeichnung des Vorsitzenden, des
     Gerichts und der Anordnung) ist die Zwangsvollstreckung aus usw.
     (Bezeichnung des Schuldtitels - § 1 Abs. 1 -) zugunsten des usw.
     (Bezeichnung des Gläubigers) zulässig."
-
-
-
 
 (2) Die Vollstreckungsklausel ist von dem Urkundsbeamten der
 Geschäftsstelle zu unterschreiben und mit dem Gerichtssiegel zu
@@ -154,8 +147,8 @@ zulässig.
 
 ### § 11
 
-Der Beschluss, durch den über den Widerspruch entschieden wird,
-unterliegt der Beschwerde nach den §§ 567 bis 577 der
+Der Beschluss, durch den über den Widerspruch entschieden
+wird, unterliegt der Beschwerde nach den §§ 567 bis 577 der
 Zivilprozessordnung; § 1065 der Zivilprozessordnung gilt entsprechend.
 § 9 Abs. 3 Satz 1 gilt entsprechend.
 
@@ -177,14 +170,10 @@ machen, wenn die Gründe, auf denen sie beruhen, erst
 1.  nach Ablauf der Frist, innerhalb deren er Widerspruch (§ 9) hätte
     einlegen können, oder
 
-
 2.  nach Beendigung des Widerspruchsverfahrens oder,
-
 
 3.  falls Beschwerde (§ 6 Abs. 2, § 11) eingelegt worden ist, nach
     Beendigung des Beschwerdeverfahrens
-
-
 
 entstanden sind.
 
@@ -206,13 +195,12 @@ einschließlich solcher, die auf eine Sicherung gerichtet sind.
 ## Zweiter Abschnitt - Aufhebung oder Änderung der Vollstreckungsklausel
 
 
-
 ### § 15
 
 (1) Wird ein Schuldtitel (§ 1 Abs. 1) nach der Erteilung der
-Vollstreckungsklausel in den Niederlanden aufgehoben oder geändert und
-kann der Schuldner diese Tatsache in dem Verfahren zur Erteilung der
-Vollstreckungsklausel nicht mehr geltend machen, so kann er die
+Vollstreckungsklausel in den Niederlanden aufgehoben oder geändert
+und kann der Schuldner diese Tatsache in dem Verfahren zur Erteilung
+der Vollstreckungsklausel nicht mehr geltend machen, so kann er die
 Aufhebung oder Änderung der Vollstreckungsklausel in einem besonderen
 Verfahren beantragen.
 
@@ -226,17 +214,17 @@ zuzustellen ist. Der Beschluss unterliegt der Beschwerde nach den §§
 567 bis 577 der Zivilprozessordnung.
 
 (3) Für die Einstellung der Zwangsvollstreckung und die Aufhebung
-bereits getroffener Vollstreckungsmaßregeln gelten §§ 769, 770 der
-Zivilprozeßordnung entsprechend. Die Aufhebung einer
+bereits getroffener Vollstreckungsmaßregeln gelten §§ 769,
+770 der Zivilprozeßordnung entsprechend. Die Aufhebung einer
 Vollstreckungsmaßregel ist auch ohne Sicherheitsleistung zulässig.
 
 
 ### § 16
 
-(1) Wird die Vollstreckungsklausel zu einem Schuldtitel (§ 1 Abs. 1)
-auf den Widerspruch oder die sofortige Beschwerde aufgehoben oder
-abgeändert, so ist der Gläubiger zum Ersatz des Schadens verpflichtet,
-der dem Schuldner durch die Vollstreckung des mit der
+(1) Wird die Vollstreckungsklausel zu einem Schuldtitel (§ 1 Abs.
+1) auf den Widerspruch oder die sofortige Beschwerde aufgehoben
+oder abgeändert, so ist der Gläubiger zum Ersatz des Schadens
+verpflichtet, der dem Schuldner durch die Vollstreckung des mit der
 Vollstreckungsklausel versehenen Schuldtitels oder durch eine zur
 Abwendung der Vollstreckung gemachte Leistung entstanden ist. Das
 gleiche gilt, wenn die Vollstreckungsklausel zu einer gerichtlichen
@@ -252,7 +240,6 @@ Vollstreckungsklausel entschieden hat.
 ## Dritter Abschnitt - Besondere Vorschriften für deutsche gerichtliche Entscheidungen
 
 
-
 ### § 17
 
 Ist zu erwarten, daß ein Versäumnis- oder Anerkenntnisurteil in den
@@ -264,14 +251,14 @@ abgekürzter Form (§ 313b der Zivilprozeßordnung) hergestellt werden.
 
 (1) Will eine Partei ein Versäumnis- oder Anerkenntnisurteil, das nach
 § 313b der Zivilprozeßordnung in abgekürzter Form hergestellt ist, in
-den Niederlanden geltend machen, so ist das Urteil auf ihren Antrag zu
-vervollständigen. Über den Antrag wird ohne mündliche Verhandlung
+den Niederlanden geltend machen, so ist das Urteil auf ihren Antrag
+zu vervollständigen. Über den Antrag wird ohne mündliche Verhandlung
 entschieden. § 12 gilt entsprechend.
 
 (2) Zur Vervollständigung des Urteils sind der Tatbestand und die
 Entscheidungsgründe nachträglich anzufertigen, von den Richtern
-besonders zu unterschreiben und der Geschäftsstelle zu übergeben; der
-Tatbestand und die Entscheidungsgründe können auch von Richtern
+besonders zu unterschreiben und der Geschäftsstelle zu übergeben;
+der Tatbestand und die Entscheidungsgründe können auch von Richtern
 unterschrieben werden, die bei dem Urteil nicht mitgewirkt haben.
 
 (3) Für die Berichtigung des nachträglich angefertigten Tatbestandes
@@ -286,9 +273,9 @@ nicht erhoben.
 
 ### § 19
 
-Arrestbefehlen, einstweiligen Anordnungen oder Verfügungen (Artikel 1
-Abs. 2 des Vertrages), die in den Niederlanden geltend gemacht werden
-sollen, ist eine Begründung beizufügen. § 18 ist entsprechend
+Arrestbefehlen, einstweiligen Anordnungen oder Verfügungen (Artikel
+1 Abs. 2 des Vertrages), die in den Niederlanden geltend gemacht
+werden sollen, ist eine Begründung beizufügen. § 18 ist entsprechend
 anzuwenden.
 
 
@@ -296,8 +283,8 @@ anzuwenden.
 
 Vollstreckungsbescheide, Arrestbefehle und einstweilige Verfügungen
 (Artikel 1 Abs. 2 des Vertrages), auf Grund deren ein Gläubiger die
-Zwangsvollstreckung in den Niederlanden betreiben will, sind auch dann
-mit der Vollstreckungsklausel zu versehen, wenn dies für eine
+Zwangsvollstreckung in den Niederlanden betreiben will, sind auch
+dann mit der Vollstreckungsklausel zu versehen, wenn dies für eine
 Zwangsvollstreckung im Inland nach § 796 Abs. 1, § 929 Abs. 1, § 936
 der Zivilprozeßordnung nicht erforderlich wäre.
 
@@ -305,16 +292,15 @@ der Zivilprozeßordnung nicht erforderlich wäre.
 ## Vierter Abschnitt - Schlußbestimmungen
 
 
-
 ### § 21
 
-Die Landesregierungen werden ermächtigt, die Entscheidung über Anträge
-auf Erteilung der Vollstreckungsklausel zu ausländischen Schuldtiteln
-in Zivil- und Handelssachen und über Anträge auf Aufhebung oder
-Abänderung der Vollstreckungsklausel für die Bezirke mehrerer
-Landgerichte einem von ihnen zuzuweisen, sofern dadurch der
-zwischenstaatliche Rechtsverkehr erleichtert oder beschleunigt wird.
-Die Landesregierungen können die Ermächtigung auf die
+Die Landesregierungen werden ermächtigt, die Entscheidung über
+Anträge auf Erteilung der Vollstreckungsklausel zu ausländischen
+Schuldtiteln in Zivil- und Handelssachen und über Anträge auf
+Aufhebung oder Abänderung der Vollstreckungsklausel für die Bezirke
+mehrerer Landgerichte einem von ihnen zuzuweisen, sofern dadurch
+der zwischenstaatliche Rechtsverkehr erleichtert oder beschleunigt
+wird. Die Landesregierungen können die Ermächtigung auf die
 Landesjustizverwaltungen übertragen.
 
 
@@ -333,8 +319,8 @@ im Land Berlin.
 ### § 24
 
 (1) Dieses Gesetz tritt gleichzeitig mit dem Vertrag vom 30. August
-1962 zwischen der Bundesrepublik Deutschland und dem Königreich der
-Niederlande über die gegenseitige Anerkennung und Vollstreckung
+1962 zwischen der Bundesrepublik Deutschland und dem Königreich
+der Niederlande über die gegenseitige Anerkennung und Vollstreckung
 gerichtlicher Entscheidungen und anderer Schuldtitel in Zivil- und
 Handelssachen in Kraft.
 

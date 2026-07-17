@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert
-  von 10 Euro (Gedenkmünze „20 Jahre Deutsche Einheit“)
+Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze „20 Jahre Deutsche Einheit“)
 jurabk: Münz10EuroBek 2010-08
 layout: default
 origslug: m_nz10eurobek_2010-08
@@ -24,12 +23,12 @@ I S. 2402) hat die Bundesregierung beschlossen, zum Thema „20 Jahre
 Deutsche Einheit“ eine deutsche Euro-Gedenkmünze im Nennwert von 10
 Euro prägen zu lassen.
 
-Die Auflage der Münze beträgt maximal 2 100 000 Stück in Normalprägung
-und maximal 200 000 Stück in Spiegelglanzausführung. Die Prägung
+Die Auflage der Münze beträgt maximal 2 100 000 Stück in Normalprägung
+und maximal 200 000 Stück in Spiegelglanzausführung. Die Prägung
 erfolgt durch die Staatliche Münze Berlin.
 
-Die Münze wird ab dem 2. September 2010 in den Verkehr gebracht. Sie
-besteht aus einer Legierung von 925 Tausendteilen Silber und 75
+Die Münze wird ab dem 2. September 2010 in den Verkehr gebracht.
+Sie besteht aus einer Legierung von 925 Tausendteilen Silber und 75
 Tausendteilen Kupfer, hat einen Durchmesser von 32,5 Millimetern und
 eine Masse von 18 Gramm. Das Geprägte auf beiden Seiten ist erhaben
 und wird von einem schützenden, glatten Randstab umgeben.
@@ -55,9 +54,4 @@ Der Bundesminister der Finanzen
 
 
 ## (XXXX)
-
-
-*    *        ![bgbl1_2010_j1196-1_0010.jpg](bgbl1_2010_j1196-1_0010.jpg)
-    *        ![bgbl1_2010_j1196-1_0020.jpg](bgbl1_2010_j1196-1_0020.jpg)
-
 

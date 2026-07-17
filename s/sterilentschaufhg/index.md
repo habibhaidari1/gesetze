@@ -1,7 +1,5 @@
 ---
 Title: Gesetz zur Aufhebung von Sterilisationsentscheidungen der ehemaligen Erbgesundheitsgerichte
-  (Artikel 2 des Gesetzes zur Aufhebung nationalsozialistischer Unrechtsurteile in
-  der Strafrechtspflege und von Sterilisationsentscheidungen der ehemaligen Erbgesundheitsgerichte)
 jurabk: SterilEntschAufhG
 layout: default
 origslug: sterilentschaufhg
@@ -9,14 +7,13 @@ slug: sterilentschaufhg
 
 ---
 
-# Gesetz zur Aufhebung von Sterilisationsentscheidungen der ehemaligen Erbgesundheitsgerichte (Artikel 2 des Gesetzes zur Aufhebung nationalsozialistischer Unrechtsurteile in der Strafrechtspflege und von Sterilisationsentscheidungen der ehemaligen Erbgesundheitsgerichte) (SterilEntschAufhG)
+# Gesetz zur Aufhebung von Sterilisationsentscheidungen der ehemaligen Erbgesundheitsgerichte (SterilEntschAufhG)
 
 Ausfertigungsdatum
 :   1998-08-25
 
 Fundstelle
 :   BGBl I: 1998, 2501
-
 
 
 ## § 1

@@ -27,9 +27,9 @@ Geändert durch
 (1) Für einen Rechtszug, für den am Tag vor dem Inkrafttreten dieses
 Gesetzes die Gebühr fällig geworden ist oder Kosten gemäß § 192 des
 Sozialgerichtsgesetzes auferlegt worden sind, gelten die §§ 184 bis
-187 und 192 des Sozialgerichtsgesetzes und die Rechtsverordnung nach §
-184 Abs. 2 des Sozialgerichtsgesetzes in der bisherigen Fassung. Für
-Verfahren nach § 197a des Sozialgerichtsgesetzes, die vor dem
+187 und 192 des Sozialgerichtsgesetzes und die Rechtsverordnung nach
+§ 184 Abs. 2 des Sozialgerichtsgesetzes in der bisherigen Fassung.
+Für Verfahren nach § 197a des Sozialgerichtsgesetzes, die vor dem
 Inkrafttreten dieses Gesetzes rechtshängig waren, gilt § 183 des
 Sozialgerichtsgesetzes in der bisherigen Fassung.
 

@@ -1,7 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert
-  von 10 Euro (Gedenkmünze "FIFA Fußball-Weltmeisterschaft Deutschland 2006" - 2.
-  Ausgabe 2004 -)
+Title: "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze \"FIFA Fußball-Weltmeisterschaft Deutschland 2006\" - 2. Ausgabe 2004 -)"
 jurabk: Münz10EuroBek 2004
 layout: default
 origslug: m_nz10eurobek_2004
@@ -18,7 +16,6 @@ Fundstelle
 :   BGBl I: 2004, 70
 
 
-
 ## (XXXX)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
@@ -27,10 +24,10 @@ Fußball-Weltmeisterschaft Deutschland 2006" eine Serie von vier
 deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro prägen zu lassen
 und jährlich eine Münze in den Jahren 2003 bis 2006 auszugeben.
 Die Auflage der Münze des Jahres 2004 (2. Ausgabe 2004) beträgt
-4\.400.000 Stück, darunter 400.000 Stück in Spiegelglanzausführung. Die
-Prägung erfolgt durch die fünf staatlichen deutschen Münzstätten in
-Berlin, München, Stuttgart, Karlsruhe und Hamburg. Die Münze wird ab
-dem 5. Februar 2004 in den Verkehr gebracht. Sie besteht aus einer
+4\.400.000 Stück, darunter 400.000 Stück in Spiegelglanzausführung.
+Die Prägung erfolgt durch die fünf staatlichen deutschen Münzstätten
+in Berlin, München, Stuttgart, Karlsruhe und Hamburg. Die Münze wird
+ab dem 5. Februar 2004 in den Verkehr gebracht. Sie besteht aus einer
 Legierung von 925 Tausendteilen Silber und 75 Tausendteilen Kupfer,
 hat einen Durchmesser von 32,5 Millimetern und eine Masse von 18
 Gramm. Das Gepräge auf beiden Seiten ist erhaben und wird von einem
@@ -43,20 +40,10 @@ Die Wertseite trägt einen Adler, zwölf Sterne, den Nennwert "10 EURO",
 die Umschrift "BUNDESREPUBLIK DEUTSCHLAND" und die Jahreszahl 2004.
 Der glatte Münzrand enthält in vertiefter Prägung die Inschrift:
 
-*
-    *
-        *   "DIE WELT ZU GAST BEI FREUNDEN"
+-   -   -   "DIE WELT ZU GAST BEI FREUNDEN"
 
-
-
-
-
-
-
-
-
-und die Münzzeichen
-"A . D . F . G . J" der fünf deutschen Prägestätten.
+und die Münzzeichen "A . D . F . G . J" der fünf deutschen
+Prägestätten.
 Der Entwurf der Münze stammt von Lucia Maria Hardegen, Bonn
 (Bildseite) und Erich Ott, München (Wertseite).
 
@@ -69,4 +56,6 @@ Der Bundesminister der Finanzen
 ## (XXXX)
 
 (Fundstelle: BGBl. I 2004, 70)
+
 ![bgbl1_2004_j0070_0010.jpg](bgbl1_2004_j0070_0010.jpg)
+

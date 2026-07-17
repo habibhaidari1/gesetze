@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zur Ausführung der EWG-Verordnung über die Europäische wirtschaftliche
-  Interessenvereinigung
+Title: Gesetz zur Ausführung der EWG-Verordnung über die Europäische wirtschaftliche Interessenvereinigung
 jurabk: EWIVAG
 layout: default
 origslug: ewivag
@@ -22,8 +21,8 @@ Zuletzt geändert durch
 
 ## § 1 Anzuwendende Vorschriften
 
-Soweit nicht die Verordnung (EWG) Nr. 2137/85 des Rates vom 25. Juli
-1985 über die Schaffung einer Europäischen wirtschaftlichen
+Soweit nicht die Verordnung (EWG) Nr. 2137/85 des Rates vom 25.
+Juli 1985 über die Schaffung einer Europäischen wirtschaftlichen
 Interessenvereinigung (EWIV) - ABl. EG Nr. L 199 S. 1 - (Verordnung)
 gilt, sind auf eine Europäische wirtschaftliche Interessenvereinigung
 (EWIV) mit Sitz im Geltungsbereich dieses Gesetzes (Vereinigung) die
@@ -34,8 +33,8 @@ gilt als Handelsgesellschaft im Sinne des Handelsgesetzbuchs.
 
 ## § 2 Anmeldung zum Handelsregister
 
-(1) Die Vereinigung ist bei dem Gericht, in dessen Bezirk sie ihren im
-Gründungsvertrag genannten Sitz hat, zur Eintragung in das
+(1) Die Vereinigung ist bei dem Gericht, in dessen Bezirk sie
+ihren im Gründungsvertrag genannten Sitz hat, zur Eintragung in das
 Handelsregister anzumelden.
 
 (2) Die Anmeldung zur Eintragung der Vereinigung in das
@@ -46,55 +45,38 @@ Handelsregister hat zu enthalten:
     "EWIV", es sei denn, daß diese Worte oder die Abkürzung bereits in der
     Firma enthalten sind;
 
-
 2.  den Sitz der Vereinigung;
 
-
 3.  den Unternehmensgegenstand;
-
 
 4.  den Namen, das Geburtsdatum, die Firma, die Rechtsform, den Wohnsitz
     oder den Sitz sowie gegebenenfalls die Nummer und den Ort der
     Registereintragung eines jeden Mitglieds der Vereinigung;
 
-
 5.  die Geschäftsführer mit Namen, Geburtsdatum und Wohnsitz sowie mit der
     Angabe, welche Vertretungsbefugnis sie haben;
 
-
 6.  die Dauer der Vereinigung, sofern die Dauer nicht unbestimmt ist.
-
-
-
 
 (3) Zur Eintragung in das Handelsregister sind ferner anzumelden:
 
 1.  Änderungen der Angaben nach Absatz 2;
 
-
 2.  die Nichtigkeit der Vereinigung;
-
 
 3.  die Errichtung und die Aufhebung jeder Zweigniederlassung der
     Vereinigung;
 
-
 4.  die Auflösung der Vereinigung;
-
 
 5.  die Abwickler mit den in Absatz 2 Nr. 5 genannten Angaben sowie
     Änderungen der Personen der Abwickler und der Angaben;
 
-
 6.  der Schluß der Abwicklung der Vereinigung;
-
 
 7.  eine Klausel, die ein neues Mitglied gemäß Artikel 26 Abs. 2 der
     Verordnung von der Haftung für Verbindlichkeiten befreit, die vor
     seinem Beitritt entstanden sind.
-
-
-
 
 (4) Die Verpflichtung zur Anmeldung weiterer Tatsachen auf Grund des §
 1 bleibt unberührt.
@@ -200,9 +182,9 @@ Verordnung, auf die Anmeldung zur Eintragung in das Handelsregister §
 
 ## § 11 Eröffnung des Insolvenzverfahrens
 
-Den Antrag auf Eröffnung des Insolvenzverfahrens können auch die
-Geschäftsführer stellen. Im Fall des § 15a Abs. 1 Satz 2 der
-Insolvenzordnung sind die Geschäftsführer und die Abwickler
+Den Antrag auf Eröffnung des Insolvenzverfahrens können auch
+die Geschäftsführer stellen. Im Fall des § 15a Abs. 1 Satz 2
+der Insolvenzordnung sind die Geschäftsführer und die Abwickler
 verpflichtet, diesen Antrag zu stellen.
 
 
@@ -218,26 +200,26 @@ Das einzelne Zwangsgeld darf den Betrag von fünftausend Euro nicht
 ## § 13 Falsche Angaben
 
 Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
-bestraft, wer als Geschäftsführer in der nach § 3 Abs. 3 Satz 1, auch
-in Verbindung mit Absatz 5, abzugebenden Versicherung oder als
+bestraft, wer als Geschäftsführer in der nach § 3 Abs. 3 Satz 1,
+auch in Verbindung mit Absatz 5, abzugebenden Versicherung oder als
 Abwickler in der nach § 3 Abs. 3 Satz 1 in Verbindung mit § 10 Abs. 2
 zweiter Halbsatz abzugebenden Versicherung falsche Angaben macht.
 
 
 ## § 14 Verletzung der Geheimhaltungspflicht
 
-(1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
-bestraft, wer ein Geheimnis der Vereinigung, namentlich ein Betriebs-
-oder Geschäftsgeheimnis, das ihm in seiner Eigenschaft als
-Geschäftsführer oder Abwickler bekanntgeworden ist, unbefugt
+(1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe
+wird bestraft, wer ein Geheimnis der Vereinigung, namentlich ein
+Betriebs- oder Geschäftsgeheimnis, das ihm in seiner Eigenschaft
+als Geschäftsführer oder Abwickler bekanntgeworden ist, unbefugt
 offenbart.
 
 (2) Handelt der Täter gegen Entgelt oder in der Absicht, sich oder
-einen anderen zu bereichern oder einen anderen zu schädigen, so ist
-die Strafe Freiheitsstrafe bis zu zwei Jahren oder Geldstrafe. Ebenso
-wird bestraft, wer ein Geheimnis der in Absatz 1 bezeichneten Art,
-namentlich ein Betriebs- oder Geschäftsgeheimnis, das ihm unter den
-Voraussetzungen des Absatzes 1 bekanntgeworden ist, unbefugt
+einen anderen zu bereichern oder einen anderen zu schädigen, so
+ist die Strafe Freiheitsstrafe bis zu zwei Jahren oder Geldstrafe.
+Ebenso wird bestraft, wer ein Geheimnis der in Absatz 1 bezeichneten
+Art, namentlich ein Betriebs- oder Geschäftsgeheimnis, das ihm unter
+den Voraussetzungen des Absatzes 1 bekanntgeworden ist, unbefugt
 verwertet.
 
 (3) Die Tat wird nur auf Antrag der Vereinigung verfolgt.

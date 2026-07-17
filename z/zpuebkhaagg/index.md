@@ -24,12 +24,12 @@ Zuletzt geändert durch
 
 ### § 1
 
-Für die Entgegennahme von Zustellungsanträgen (Artikel 1 Abs. 1 des
-Übereinkommens) oder von Rechtshilfeersuchen (Artikel 8, Artikel 9
-Abs. 1), die von einem ausländischen Konsul innerhalb der
-Bundesrepublik Deutschland übermittelt werden, ist der Präsident des
-Landgerichts zuständig, in dessen Bezirk die Zustellung bewirkt oder
-das Rechtshilfeersuchen erledigt werden soll. An die Stelle des
+Für die Entgegennahme von Zustellungsanträgen (Artikel 1 Abs.
+1 des Übereinkommens) oder von Rechtshilfeersuchen (Artikel 8,
+Artikel 9 Abs. 1), die von einem ausländischen Konsul innerhalb der
+Bundesrepublik Deutschland übermittelt werden, ist der Präsident
+des Landgerichts zuständig, in dessen Bezirk die Zustellung bewirkt
+oder das Rechtshilfeersuchen erledigt werden soll. An die Stelle des
 Präsidenten des Landgerichts tritt der Präsident des Amtsgerichts,
 wenn der Zustellungsantrag oder das Rechtshilfeersuchen in dem Bezirk
 des Amtsgerichts erledigt werden soll, das seiner Dienstaufsicht
@@ -53,7 +53,6 @@ Artikel 5 des Übereinkommens) zu erteilen.
 
 
 ## Vollstreckbarerklärung von Kostenentscheidungen - (Art 18 und 19 des Übereinkommens)
-
 
 
 ### § 4
@@ -91,9 +90,9 @@ vollstreckbar erklärt wird, steht dem Kostenschuldner die Beschwerde
 nach den §§ 567 bis 577 der Zivilprozessordnung zu.
 
 (2) Der Beschluß, durch den der Antrag auf Vollstreckbarerklärung
-abgelehnt wird, unterliegt der Beschwerde nach den §§ 567 bis 577 der
-Zivilprozeßordnung. Die Beschwerde steht, sofern der Antrag auf
-diplomatischem Wege gestellt ist, dem Staatsanwalt zu. Hat der
+abgelehnt wird, unterliegt der Beschwerde nach den §§ 567 bis 577
+der Zivilprozeßordnung. Die Beschwerde steht, sofern der Antrag
+auf diplomatischem Wege gestellt ist, dem Staatsanwalt zu. Hat der
 Kostengläubiger selbst den Antrag bei dem Amtsgericht unmittelbar
 gestellt, so ist er berechtigt, die Beschwerde einzulegen.
 
@@ -125,7 +124,6 @@ Rechtsanwalts eingelegt werden.
 ## Armenrecht - (Art 20 bis 24 des Übereinkommens)
 
 
-
 ### § 9
 
 Für die Entgegennahme von Anträgen auf Bewilligung des Armenrechts,
@@ -137,8 +135,8 @@ ist der Präsident des Landgerichts oder des Amtsgerichts zuständig. §
 
 ### § 10
 
-(1) Ein Angehöriger eines Vertragsstaates, der im Ausland das
-Armenrecht für eine Klage vor einem Gericht eines anderen
+(1) Ein Angehöriger eines Vertragsstaates, der im Ausland
+das Armenrecht für eine Klage vor einem Gericht eines anderen
 Vertragsstaates auf dem in Artikel 23 des Übereinkommens vorgesehenen
 Weg nachsuchen will, kann seinen Antrag auf Bewilligung des
 Armenrechts zusammen mit den erforderlichen Unterlagen bei dem
@@ -146,13 +144,12 @@ Amtsgericht einreichen, in dessen Bezirk er seinen gewöhnlichen
 Aufenthalt hat. Er kann das Gesuch bei diesem Gericht auch zu
 Protokoll der Geschäftsstelle erklären.
 
-(2) Für die Übermittlung eines Antrags auf Bewilligung des Armenrechts
-durch den diplomatischen oder konsularischen Vertreter der
+(2) Für die Übermittlung eines Antrags auf Bewilligung des
+Armenrechts durch den diplomatischen oder konsularischen Vertreter der
 Bundesrepublik Deutschland werden Gebühren und Auslagen nicht erhoben.
 
 
 ## Schlußbestimmungen
-
 
 
 ### § 11

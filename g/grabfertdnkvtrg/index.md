@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zu dem Vertrag vom 30. März 1967 zwischen der Bundesrepublik Deutschland
-  und dem Königreich Dänemark über Zollerleichterungen im kleinen Grenzverkehr
+Title: Gesetz zu dem Vertrag vom 30. März 1967 zwischen der Bundesrepublik Deutschland und dem Königreich Dänemark über Zollerleichterungen im kleinen Grenzverkehr
 jurabk: GrAbfertDNKVtrG
 layout: default
 origslug: grabfertdnkvtrg
@@ -17,7 +16,6 @@ Fundstelle
 :   BGBl II: 1969, 937
 
 
-
 ## Art 1
 
 Dem in Kopenhagen am 30. März 1967 unterzeichneten Vertrag zwischen
@@ -30,23 +28,22 @@ veröffentlicht.
 
 ## Art 2
 
-Der Bundesminister der Finanzen wird ermächtigt, Änderungen der Anlage
-des Vertrages auf Grund seines Artikels 2 Satz 2 durch
+Der Bundesminister der Finanzen wird ermächtigt, Änderungen der
+Anlage des Vertrages auf Grund seines Artikels 2 Satz 2 durch
 Rechtsverordnung ohne Zustimmung des Bundesrates in Kraft zu setzen.
 
 
 ## Art 3
 
-(1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer der
-in Artikel 6 Abs. 1 des Vertrages bezeichneten Beschränkungen
+(1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer
+der in Artikel 6 Abs. 1 des Vertrages bezeichneten Beschränkungen
 zuwiderhandelt.
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu zehntausend
 Deutsche Mark geahndet werden.
 
-(3) Für das Bußgeldverfahren gelten die
-§§ 446, 447 und 449 der Reichsabgabenordnung
-entsprechend.
+(3) Für das Bußgeldverfahren gelten die *§§ 446, 447 und 449 der
+Reichsabgabenordnung* entsprechend.
 
 
 ## Art 4
@@ -62,7 +59,7 @@ S. 1).
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 
-(2) Der Tag, an dem der Vertrag nach seinem Artikel 24 Abs. 2 sowie
-das Protokoll und das Zusatzprotokoll in Kraft treten, ist im
+(2) Der Tag, an dem der Vertrag nach seinem Artikel 24 Abs. 2
+sowie das Protokoll und das Zusatzprotokoll in Kraft treten, ist im
 Bundesgesetzblatt bekanntzugeben.
 

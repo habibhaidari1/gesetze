@@ -1,5 +1,5 @@
 ---
-Title: Statut des "Verdienstordens der Bundesrepublik Deutschland"
+Title: "Statut des \"Verdienstordens der Bundesrepublik Deutschland\""
 jurabk: VerdOrdenStat
 layout: default
 origslug: verdordenstat
@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1955, 749
 
 Geändert durch
-:   Art. 6 Erlass v. 29. 1.1979 I 142
+:   Art. 6 Erlass v. 29.1.1979 I 142
 
 
 ## Art 1
@@ -30,14 +30,11 @@ Anerkennung in Form eines Ordenszeichens getragen werden.
 
 (1) Der Verdienstorden der Bundesrepublik wird verliehen als
 
-*   Großkreuz,
+-   Großkreuz,
 
     Großes Verdienstkreuz und
 
     Verdienstkreuz.
-
-
-
 
 (2) Das Großkreuz wird auch in einer Sonderstufe verliehen. Der
 Bundespräsident behält sich ferner vor, das Großkreuz in einzelnen
@@ -69,7 +66,6 @@ einem runden Schild aufgesetzt.
     Brustseite getragen. Als Sonderstufe wird das Großkreuz mit einem
     achtspitzigen Stern getragen.
 
-
 2.  Das Große Verdienstkreuz ist etwas kleiner als das Großkreuz.
 
     Es wird
@@ -80,14 +76,9 @@ einem runden Schild aufgesetzt.
         vierspitziger Stern, auf dem das Ordenszeichen aufgesetzt ist. Dieser
         wird auf der linken Brustseite getragen.
 
-
     b)  als Großes Verdienstkreuz mit Stern und als Großes Verdienstkreuz an
         einem Band um den Hals getragen. Für Form und Trageweise des Sterns
         gilt Nummer 2 Buchstabe a.
-
-
-
-
 
 3.  Das Verdienstkreuz ist etwas kleiner als das Große Verdienstkreuz.
 
@@ -95,13 +86,8 @@ einem runden Schild aufgesetzt.
 
     a)  als Verdienstkreuz 1. Klasse an der linken Brustseite angesteckt.
 
-
     b)  als Verdienstkreuz am Bande an einem schmalen Band an der linken
         oberen Brustseite getragen.
-
-
-
-
 
 4.  Die Verdienstmedaille ist rund und von goldener Farbe. Sie trägt auf
     der Vorderseite das Ordenskreuz, das von einem Lorbeerkranz umgeben
@@ -110,8 +96,6 @@ einem runden Schild aufgesetzt.
     umgeben ist. Die Verdienstmedaille wird an dem gleichen Band wie das
     Verdienstkreuz am Bande an der linken oberen Brustseite getragen. Das
     Band hat jedoch einen etwas schmaleren Saum.
-
-
 
 Form und Ausmaß der Ordenszeichen und der Bänder werden auf
 Mustertafeln festgelegt.
@@ -126,37 +110,25 @@ getragen.
 
 (1) Vorschlagsberechtigt für die Verleihung des Verdienstordens sind
 
-*   die Leiter der obersten Bundesbehörden sowie
+-   die Leiter der obersten Bundesbehörden sowie
 
     der Präsident des Deutschen Bundestages und
 
     der Präsident des Deutschen Bundesrates
 
-    *   für die im Dienste des Bundes stehenden Personen ihres
+    -   für die im Dienste des Bundes stehenden Personen ihres
         Geschäftsbereichs,
-
-
-
 
     der Bundesminister des Auswärtigen
 
-    *   für deutsche Staatsangehörige mit dem Wohnsitz im Ausland und für
+    -   für deutsche Staatsangehörige mit dem Wohnsitz im Ausland und für
         ausländische Staatsangehörige,
-
-
-
 
     die Ministerpräsidenten der Länder, der Regierende Bürgermeister von
     Berlin, der Präsident des Senats der Freien Hansestadt Bremen und der
     Präsident des Senats der Freien und Hansestadt Hamburg
 
-    *   für den Bereich ihrer Länder.
-
-
-
-
-
-
+    -   für den Bereich ihrer Länder.
 
 (2) Die Vorschläge sind dem Chef des Bundespräsidialamtes zuzuleiten,
 der sie dem Bundespräsidenten zur Entscheidung vorlegt.
@@ -164,18 +136,18 @@ der sie dem Bundespräsidenten zur Entscheidung vorlegt.
 
 ## Art 6
 
-(1) Das Großkreuz, das Große Verdienstkreuz mit Stern und Schulterband
-und das Große Verdienstkreuz mit Stern werden jeweils durch einen
-besonderen Erlaß des Bundespräsidenten verliehen. Dieser wird vom
-Bundeskanzler oder, je nachdem es sich um einen deutschen oder um
-einen ausländischen Staatsangehörigen oder einen deutschen
-Staatsangehörigen mit dem Wohnsitz im Ausland handelt, von dem
-Bundesminister des Innern oder dem Bundesminister des Auswärtigen
-gegengezeichnet und von dem Chef des Bundespräsidialamtes
+(1) Das Großkreuz, das Große Verdienstkreuz mit Stern und
+Schulterband und das Große Verdienstkreuz mit Stern werden jeweils
+durch einen besonderen Erlaß des Bundespräsidenten verliehen.
+Dieser wird vom Bundeskanzler oder, je nachdem es sich um einen
+deutschen oder um einen ausländischen Staatsangehörigen oder einen
+deutschen Staatsangehörigen mit dem Wohnsitz im Ausland handelt,
+von dem Bundesminister des Innern oder dem Bundesminister des
+Auswärtigen gegengezeichnet und von dem Chef des Bundespräsidialamtes
 mitgezeichnet.
 
-(2) Verleihungen des Großen Verdienstkreuzes, der Verdienstkreuze und
-der Verdienstmedaille werden listenmäßig durch Erlaß des
+(2) Verleihungen des Großen Verdienstkreuzes, der Verdienstkreuze
+und der Verdienstmedaille werden listenmäßig durch Erlaß des
 Bundespräsidenten unter Gegenzeichnung durch den Bundeskanzler oder
 den Bundesminister des Innern oder den Bundesminister des Auswärtigen
 und unter Mitzeichnung durch den Chef des Bundespräsidialamtes

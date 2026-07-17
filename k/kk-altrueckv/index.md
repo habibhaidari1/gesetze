@@ -1,6 +1,5 @@
 ---
-Title: Verordnung zur Bildung von Altersrückstellungen durch die gesetzlichen Krankenkassen
-  und ihre Verbände
+Title: Verordnung zur Bildung von Altersrückstellungen durch die gesetzlichen Krankenkassen und ihre Verbände
 jurabk: KK-AltRückV
 layout: default
 origslug: kk-altr_ckv
@@ -35,18 +34,18 @@ worden sind, verordnet das Bundesamt für Soziale Sicherung:
 
 ## § 1 Anwendungsbereich
 
-Die Vorschriften dieser Verordnung sind auf die Krankenkassen und die
-Verbände der Krankenkassen mit Ausnahme der landwirtschaftlichen
+Die Vorschriften dieser Verordnung sind auf die Krankenkassen und
+die Verbände der Krankenkassen mit Ausnahme der landwirtschaftlichen
 Krankenkasse anzuwenden.
 
 
 ## § 2 Abgrenzung der Altersversorgungsverpflichtungen
 
 Altersrückstellungen und Deckungskapital für
-Altersversorgungsverpflichtungen nach § 170 Absatz 1 Satz 1 und 2 des
-Fünften Buches Sozialgesetzbuch sind für unmittelbare Zusagen auf eine
-betriebliche Altersversorgung (Direktzusagen), für Zusagen auf eine
-betriebliche Altersversorgung, die von einer Unterstützungskasse
+Altersversorgungsverpflichtungen nach § 170 Absatz 1 Satz 1 und 2
+des Fünften Buches Sozialgesetzbuch sind für unmittelbare Zusagen auf
+eine betriebliche Altersversorgung (Direktzusagen), für Zusagen auf
+eine betriebliche Altersversorgung, die von einer Unterstützungskasse
 durchgeführt wird, sowie für Beihilfeverpflichtungen zu bilden.
 
 
@@ -61,15 +60,10 @@ legen:
 
 1.  Rechnungszins in Höhe von 4,25 Prozent,
 
-
 2.  bei gehaltsabhängigen Versorgungszusagen ein jährlicher Anstieg der
     ruhegehaltsfähigen Dienstbezüge und Vergütungen um 1,5 Prozent,
 
-
 3.  jährlicher Anstieg der Versorgungsbezüge und Renten um 1 Prozent.
-
-
-
 
 (3) Die Renten und Anwartschaften zum 31. Dezember 2049 werden für
 diejenigen Versorgungsanwärter und Versorgungsanwärterinnen sowie
@@ -86,49 +80,32 @@ altersabhängigen Kostenentwicklung gesondert zu berechnen.
 gleichbleibender Höhe zum Aufbau des benötigten Deckungskapitals
 führt.
 
-(2) Der Zuweisungsbetrag nach Absatz 1 wird ermittelt, indem das bis
-zum 31. Dezember 2049 zu bildende Deckungskapital mit einem Quotienten
-multipliziert wird, der im Dividend den nach § 3 Absatz 2 Nummer 1 zu
-verwendenden Rechnungszins enthält und dessen Divisor dem
-Aufzinsungsfaktor, verringert um 1, entspricht. Bereits gebildetes
-Deckungskapital wird berücksichtigt, indem das gebildete
-Deckungskapital mit dem Rechnungszins nach § 3 Absatz 2 Nummer 1 über
-die Restlaufzeit aufgezinst und von dem insgesamt zu bildenden
+(2) Der Zuweisungsbetrag nach Absatz 1 wird ermittelt, indem
+das bis zum 31. Dezember 2049 zu bildende Deckungskapital mit
+einem Quotienten multipliziert wird, der im Dividend den nach § 3
+Absatz 2 Nummer 1 zu verwendenden Rechnungszins enthält und dessen
+Divisor dem Aufzinsungsfaktor, verringert um 1, entspricht. Bereits
+gebildetes Deckungskapital wird berücksichtigt, indem das gebildete
+Deckungskapital mit dem Rechnungszins nach § 3 Absatz 2 Nummer 1
+über die Restlaufzeit aufgezinst und von dem insgesamt zu bildenden
 Deckungskapital subtrahiert wird. Es ergibt sich für die Berechnung
 des Zuweisungsbetrages nach Absatz 1 somit folgende Formel:
 
-*    *        ![bgbl1_2011_j1396-1_0010.jpg](bgbl1_2011_j1396-1_0010.jpg)   ,
+| , |
+| --- |
 
-
-
-
-mit
- z
-    =   jährlich dem Deckungskapital in gleicher Höhe zuzuführender
+mit z=  jährlich dem Deckungskapital in gleicher Höhe zuzuführender
         Zuweisungsbetrag,
 
-
-        D
-    =   bis zum 31. Dezember 2049 zu bildendes Deckungskapital für
+    D=  bis zum 31. Dezember 2049 zu bildendes Deckungskapital für
         Versorgungszusagen gemäß § 170 Absatz 1 Satz 1 des Fünften Buches
         Sozialgesetzbuch,
 
+    B=  bereits gebildetes Deckungskapital,
 
-        B
-    =   bereits gebildetes Deckungskapital,
+    t=  Restlaufzeit bis zum 31. Dezember 2049 in Jahren,
 
-
-        t
-    =   Restlaufzeit bis zum 31. Dezember 2049 in Jahren,
-
-
-        i
-    =   Rechnungszins gemäß § 3 Absatz 2 Nummer 1.
-
-
-
-
-
+    i=  Rechnungszins gemäß § 3 Absatz 2 Nummer 1.
 
 Solange der jährliche Zuweisungsbetrag (z) kleiner oder gleich Null
 ist, sind keine Zuführungen zum Deckungskapital zu leisten.

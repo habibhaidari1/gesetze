@@ -1,6 +1,5 @@
 ---
-Title: Anordnung des Bundespräsidenten über die Dienstflagge der Seestreitkräfte der
-  Bundeswehr
+Title: Anordnung des Bundespräsidenten über die Dienstflagge der Seestreitkräfte der Bundeswehr
 jurabk: BPräsFlaggenAnO
 layout: default
 origslug: bpr_sflaggenano
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 1956, 447
-
 
 
 ## (XXXX)

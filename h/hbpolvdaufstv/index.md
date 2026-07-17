@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Ausbildung und Prüfung für den verkürzten Aufstieg in den
-  höheren Polizeivollzugsdienst in der Bundespolizei
+Title: Verordnung über die Ausbildung und Prüfung für den verkürzten Aufstieg in den höheren Polizeivollzugsdienst in der Bundespolizei
 jurabk: HBPolVDAufstV
 layout: default
 origslug: hbpolvdaufstv
@@ -16,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 727
 
+Geändert durch
+:   Art. 2 Abs. 9 V v. 11.3.2026 I Nr. 67
+
 
 ## Abschnitt 1 - Allgemeines
 
@@ -23,9 +25,9 @@ Fundstelle
 ### § 1 Geltungsbereich
 
 Diese Verordnung gilt für Polizeivollzugsbeamtinnen und
-Polizeivollzugsbeamte des gehobenen Polizeivollzugsdienstes, die sich
-für den verkürzten Aufstieg in den höheren Polizeivollzugsdienst in
-der Bundespolizei nach § 17 der Bundespolizei-Laufbahnverordnung
+Polizeivollzugsbeamte des gehobenen Polizeivollzugsdienstes, die
+sich für den verkürzten Aufstieg in den höheren Polizeivollzugsdienst
+in der Bundespolizei nach § 17 der Bundespolizei-Laufbahnverordnung
 beworben haben.
 
 
@@ -35,19 +37,14 @@ Die Ausbildung hat folgende Ziele:
 
 1.  den Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten das Fach- und
     Methodenwissen zu vermitteln, das sie befähigt, Aufgaben des höheren
-    Polizeivollzugsdienstes bis zur Besoldungsgruppe A 14 wahrzunehmen,
-
+    Polizeivollzugsdienstes bis zur Besoldungsgruppe A 14 wahrzunehmen,
 
 2.  die berufsbezogenen Kenntnisse und Fertigkeiten der
     Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten zu ergänzen und
     zu vertiefen und
 
-
 3.  die persönliche und soziale Kompetenz der Polizeivollzugsbeamtinnen
     und Polizeivollzugsbeamten auszubauen.
-
-
-
 
 
 ### § 3 Bewertung der Leistungen in der Ausbildung und in der Abschlussprüfung
@@ -56,179 +53,32 @@ Die Ausbildung hat folgende Ziele:
 Polizeivollzugsbeamten in der Ausbildung und in der Abschlussprüfung
 werden wie folgt bewertet:
 
-*    *
-    *   Prozentualer Anteil der
-        erreichten Punktzahl
-        an der erreichbaren
-        Punktzahl
-
-    *   Rangpunkte oder
-        Rangpunktzahl
-
-    *   Note
-
-    *   Notendefinition
-
-
-*    *
-    *   1
-
-    *   2
-
-    *   3
-
-    *   4
-
-
-*    *   1
-
-    *   100,00 bis 93,70
-
-    *   15
-
-    *   sehr gut
-
-    *   eine Leistung, die den Anforderungen in besonderem Maß entspricht
-
-
-*    *   2
-
-    *   93,69 bis 87,50
-
-    *   14
-
-
-*    *   3
-
-    *   87,49 bis 83,40
-
-    *   13
-
-    *   gut
-
-    *   eine Leistung, die den Anforderungen voll entspricht
-
-
-*    *   4
-
-    *   83,39 bis 79,20
-
-    *   12
-
-
-*    *   5
-
-    *   79,19 bis 75,00
-
-    *   11
-
-
-*    *   6
-
-    *   74,99 bis 70,90
-
-    *   10
-
-    *   befriedigend
-
-    *   eine Leistung, die im Allgemeinen den Anforderungen entspricht
-
-
-*    *   7
-
-    *   70,89 bis 66,70
-
-    *   9
-
-
-*    *   8
-
-    *   66,69 bis 62,50
-
-    *   8
-
-
-*    *   9
-
-    *   62,49 bis 58,40
-
-    *   7
-
-    *   ausreichend
-
-    *   eine Leistung, die zwar Mängel aufweist, aber im Ganzen den
-        Anforderungen noch entspricht
-
-
-*    *   10
-
-    *   58,39 bis 54,20
-
-    *   6
-
-
-*    *   11
-
-    *   54,19 bis 50,00
-
-    *   5
-
-
-*    *   12
-
-    *   49,99 bis 41,70
-
-    *   4
-
-    *   mangelhaft
-
-    *   eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen
-        lässt, dass die notwendigen Grundkenntnisse vorhanden sind und die
-        Mängel in absehbarer Zeit behoben werden können
-
-
-*    *   13
-
-    *   41,69 bis 33,40
-
-    *   3
-
-
-*    *   14
-
-    *   33,39 bis 25,00
-
-    *   2
-
-
-*    *   15
-
-    *   24,99 bis 12,50
-
-    *   1
-
-    *   ungenügend
-
-    *   eine Leistung, die den Anforderungen nicht entspricht und bei der
-        selbst die Grundkenntnisse so lückenhaft sind, dass die Mängel in
-        absehbarer Zeit nicht behoben werden können
-
-
-*    *   16
-
-    *   12,49 bis  0,00
-
-    *   0
-
-
-
+|  | Prozentualer Anteil der  erreichten Punktzahl  an der erreichbaren  Punktzahl | Rangpunkte oder  Rangpunktzahl | Note | Notendefinition |
+| --- | --- | --- | --- | --- |
+|  | 1 | 2 | 3 | 4 |
+| 1 | 100,00 bis 93,70 | 15 | sehr gut | eine Leistung, die den Anforderungen in besonderem Maß entspricht |
+| 2 | 93,69 bis 87,50 | 14 |  |  |
+| 3 | 87,49 bis 83,40 | 13 | gut | eine Leistung, die den Anforderungen voll entspricht |
+| 4 | 83,39 bis 79,20 | 12 |  |  |
+| 5 | 79,19 bis 75,00 | 11 |  |  |
+| 6 | 74,99 bis 70,90 | 10 | befriedigend | eine Leistung, die im Allgemeinen den Anforderungen entspricht |
+| 7 | 70,89 bis 66,70 | 9 |  |  |
+| 8 | 66,69 bis 62,50 | 8 |  |  |
+| 9 | 62,49 bis 58,40 | 7 | ausreichend | eine Leistung, die zwar Mängel aufweist, aber im Ganzen den Anforderungen noch entspricht |
+| 10 | 58,39 bis 54,20 | 6 |  |  |
+| 11 | 54,19 bis 50,00 | 5 |  |  |
+| 12 | 49,99 bis 41,70 | 4 | mangelhaft | eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen lässt, dass die notwendigen Grundkenntnisse vorhanden sind und die Mängel in absehbarer Zeit behoben werden können |
+| 13 | 41,69 bis 33,40 | 3 |  |  |
+| 14 | 33,39 bis 25,00 | 2 |  |  |
+| 15 | 24,99 bis 12,50 | 1 | ungenügend | eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Grundkenntnisse so lückenhaft sind, dass die Mängel in absehbarer Zeit nicht behoben werden können |
+| 16 | 12,49 bis 0,00 | 0 |  |  |
 
 (2) Bei der Bewertung sind neben der fachlichen Leistung auch die
 Gliederung und Klarheit der Darstellung zu berücksichtigen.
 
 (3) Wenn eine Leistung von mehr als einer oder einem Prüfenden
-bewertet wird oder wenn die Bewertungen mehrerer Leistungen zu einer
-Bewertung zusammengefasst werden, wird als Bewertung eine
+bewertet wird oder wenn die Bewertungen mehrerer Leistungen zu
+einer Bewertung zusammengefasst werden, wird als Bewertung eine
 Rangpunktzahl berechnet.
 
 (4) Rangpunktzahlen werden auf zwei Nachkommastellen ohne Rundung
@@ -263,9 +113,9 @@ Bewerber für die Aufstiegsausbildung geeignet und befähigt sind.
 in der Ausschreibung bestimmten Voraussetzungen erfüllt.
 
 (2) Übersteigt die Zahl der geeigneten Bewerberinnen und Bewerber das
-Dreifache der Zahl der angebotenen Aufstiegsmöglichkeiten, so kann die
-Zahl der am Auswahlverfahren Teilnehmenden beschränkt werden. Es sind
-jedoch mindestens dreimal so viele Bewerberinnen und Bewerber
+Dreifache der Zahl der angebotenen Aufstiegsmöglichkeiten, so kann
+die Zahl der am Auswahlverfahren Teilnehmenden beschränkt werden. Es
+sind jedoch mindestens dreimal so viele Bewerberinnen und Bewerber
 zuzulassen, wie Aufstiegsmöglichkeiten angeboten werden. In diesem
 Fall erfolgt die Zulassung auf Grundlage der letzten dienstlichen
 Beurteilung.
@@ -276,30 +126,26 @@ schriftlichen oder elektronischen Bescheid.
 
 ### § 8 Auswahlkommission
 
-(1) Für die Durchführung des Auswahlverfahrens richtet abweichend von
-§ 36 Absatz 3 Satz 1 der Bundeslaufbahnverordnung das
-Bundespolizeipräsidium eine Auswahlkommission bei der
-Bundespolizeiakademie ein. Bei Bedarf können mehrere
+(1) Für die Durchführung des Auswahlverfahrens richtet
+abweichend von § 44 Absatz 3 Satz 1 der Bundeslaufbahnverordnung
+das Bundespolizeipräsidium eine Auswahlkommission bei
+der Bundespolizeiakademie ein. Bei Bedarf können mehrere
 Auswahlkommissionen eingerichtet werden. In diesem Fall ist
 sicherzustellen, dass alle Auswahlkommissionen den gleichen
 Bewertungsmaßstab anlegen.
 
 (2) Die Auswahlkommission besteht aus
 
-1.  einer Beamtin oder einem Beamten des höheren Dienstes, die oder der
-    ein Amt der Besoldungsgruppe B innehat, als Vorsitzender oder
+1.  einer Beamtin oder einem Beamten des höheren Dienstes, die oder
+    der ein Amt der Besoldungsgruppe B innehat, als Vorsitzender oder
     Vorsitzendem,
 
-
 2.  zwei Beamtinnen oder Beamten des höheren Dienstes, die mindestens ein
-    Amt der Besoldungsgruppe A 15 innehaben und denen laufbahnrechtlich
-    ein Amt der Besoldungsgruppe A 16 verliehen werden kann, sowie
-
+    Amt der Besoldungsgruppe A 15 innehaben und denen laufbahnrechtlich
+    ein Amt der Besoldungsgruppe A 16 verliehen werden kann, sowie
 
 3.  einer Beamtin oder einem Beamten des höheren Dienstes der
     Bundespolizei.
-
-
 
 Mindestens zwei Mitglieder sollen dem Polizeivollzugsdienst in der
 Bundespolizei angehören.
@@ -310,8 +156,8 @@ vier Jahre bestellt.
 
 (4) Die Auswahlkommission ist beschlussfähig, wenn die oder der
 Vorsitzende und mindestens zwei weitere Mitglieder anwesend sind. Die
-Auswahlkommission entscheidet mit Stimmenmehrheit. Stimmenthaltung ist
-nicht zulässig. Bei Stimmengleichheit gibt die Stimme der oder des
+Auswahlkommission entscheidet mit Stimmenmehrheit. Stimmenthaltung
+ist nicht zulässig. Bei Stimmengleichheit gibt die Stimme der oder des
 Vorsitzenden den Ausschlag.
 
 
@@ -321,11 +167,7 @@ Das Auswahlverfahren besteht aus
 
 1.  einem schriftlichen Teil und
 
-
 2.  einem mündlichen Teil.
-
-
-
 
 
 ### § 10 Verwaltungsvorschriften zum Auswahlverfahren
@@ -334,20 +176,13 @@ Das Bundespolizeipräsidium regelt durch Verwaltungsvorschrift:
 
 1.  den Ablauf des Auswahlverfahrens,
 
-
 2.  die Dauer der Teile des Auswahlverfahrens,
-
 
 3.  die im jeweiligen Teil zu bearbeitenden Aufgaben,
 
-
 4.  die Bewertungs- und Gewichtungssystematik sowie
 
-
 5.  die Mindestpunktzahl, die für das Bestehen erforderlich ist.
-
-
-
 
 
 ### § 11 Bestehen des Auswahlverfahrens
@@ -363,8 +198,8 @@ Mindestpunktzahl ist die Hälfte der insgesamt vergebenen Punkte.
 Auswahlverfahren teilgenommen hat, ermittelt die Auswahlkommission das
 Gesamtergebnis des Auswahlverfahrens.
 
-(2) Nach § 36 Absatz 4 Satz 6 der Bundeslaufbahnverordnung legt die
-Auswahlkommission anhand der ermittelten Gesamtergebnisse eine
+(2) Nach § 44 Absatz 4 Satz 6 der Bundeslaufbahnverordnung legt
+die Auswahlkommission anhand der ermittelten Gesamtergebnisse eine
 Rangfolge der erfolgreichen Bewerberinnen und Bewerber fest. Sind
 mehrere Auswahlkommissionen eingerichtet worden, wird eine Rangfolge
 aller erfolgreichen Bewerberinnen und Bewerber festgelegt.
@@ -381,8 +216,8 @@ schriftlichen oder elektronischen Bescheid.
 
 ### § 13 Dienstaufsicht
 
-Während der Ausbildung führt die Bundespolizeiakademie die
-Dienstaufsicht über die Polizeivollzugsbeamtinnen und
+Während der Ausbildung führt die Bundespolizeiakademie
+die Dienstaufsicht über die Polizeivollzugsbeamtinnen und
 Polizeivollzugsbeamten, die an der Ausbildung teilnehmen.
 
 
@@ -392,17 +227,11 @@ Die Ausbildung gliedert sich in
 
 1.  den ersten Teil der theoretischen Ausbildung,
 
-
 2.  die Anfertigung einer Seminararbeit,
-
 
 3.  die praktische Ausbildung und
 
-
 4.  den zweiten Teil der theoretischen Ausbildung (Repetitorium).
-
-
-
 
 
 ### § 15 Ausbildungsplan
@@ -414,17 +243,11 @@ Einvernehmen mit dem Bundespolizeipräsidium einen Ausbildungsplan.
 
 1.  zu den Inhalten der Ausbildung,
 
-
 2.  zur Organisation und Durchführung der Ausbildung,
-
 
 3.  zu den Klausuren und ihrer Bewertung sowie
 
-
 4.  zur Seminararbeit und zu ihrer Bewertung.
-
-
-
 
 
 ### § 16 Fächer der theoretischen Ausbildung
@@ -433,20 +256,13 @@ Einvernehmen mit dem Bundespolizeipräsidium einen Ausbildungsplan.
 
 1.  Einsatzlehre und Kriminalistik,
 
-
 2.  Einsatzrecht,
-
 
 3.  Führungslehre,
 
-
 4.  Recht des öffentlichen Dienstes sowie
 
-
 5.  Staats- und Verfassungsrecht.
-
-
-
 
 (2) Die theoretische Ausbildung erfolgt an der Bundespolizeiakademie.
 
@@ -459,11 +275,7 @@ und zwar je eine
 
 1.  im Fach Einsatzlehre und Kriminalistik und
 
-
 2.  im Fach Einsatzrecht.
-
-
-
 
 (2) Bewertet werden die Klausuren von Angehörigen der
 Bundespolizeiakademie. Die Bundespolizeiakademie kann mit der
@@ -567,16 +379,13 @@ gleichen Bewertungsmaßstab anlegen.
 (2) Eine Prüfungskommission besteht aus
 
 1.  einer Beamtin oder einem Beamten des höheren Dienstes, die oder der
-    mindestens ein Amt der Besoldungsgruppe B 3 innehat, als Vorsitzender
+    mindestens ein Amt der Besoldungsgruppe B 3 innehat, als Vorsitzender
     oder Vorsitzendem und
 
-
 2.  zwei Beamtinnen oder Beamten des höheren Dienstes, die mindestens ein
-    Amt der Besoldungsgruppe A 15 innehaben und denen laufbahnrechtlich
-    ein Amt der Besoldungsgruppe A 16 verliehen werden kann, als weiteren
+    Amt der Besoldungsgruppe A 15 innehaben und denen laufbahnrechtlich
+    ein Amt der Besoldungsgruppe A 16 verliehen werden kann, als weiteren
     Mitgliedern.
-
-
 
 Als Mitglieder der Prüfungskommission können auch vergleichbare
 Angestellte bestellt werden. Mindestens ein Mitglied der
@@ -602,11 +411,7 @@ Zur Abschlussprüfung wird zugelassen, wer
 1.  jede der beiden Klausuren der theoretischen Ausbildung bestanden hat
     und
 
-
 2.  die Seminararbeit bestanden hat.
-
-
-
 
 
 ### § 27 Zeitpunkt der Abschlussprüfung
@@ -622,12 +427,8 @@ statt.
 1.  ob der Prüfling in der Lage ist, die Inhalte der Ausbildung zueinander
     in Beziehung zu setzen, und
 
-
 2.  ob seine Kenntnisse und Fähigkeiten den Anforderungen an den höheren
     Polizeivollzugsdienst mit begrenzter Ämterreichweite genügen.
-
-
-
 
 (2) Gegenstand der Prüfung sind die fünf Fächer der theoretischen
 Ausbildung.
@@ -650,7 +451,7 @@ durchgeführt. Eine Gruppe darf aus höchstens vier Prüflingen bestehen.
 werden als Ganzes bewertet.
 
 (2) Die Mitglieder der Prüfungskommission bewerten die im
-Prüfungsgespräch erbrachte Gesamtleistung gemäß § 25 Absatz 5 Satz 2.
+Prüfungsgespräch erbrachte Gesamtleistung gemäß § 25 Absatz 5 Satz 2.
 
 (3) Nach Abschluss der Beratung über das Ergebnis der Abschlussprüfung
 teilt die oder der Vorsitzende dem Prüfling die erreichten Rangpunkte
@@ -680,17 +481,11 @@ Prüfungskommission zu unterschreiben.
 1.  eine Vertreterin oder ein Vertreter des Bundesministeriums des Innern,
     für Bau und Heimat,
 
-
 2.  eine Vertreterin oder ein Vertreter des Bundespolizeipräsidiums,
-
 
 3.  die Leiterin oder der Leiter der Bundespolizeiakademie,
 
-
 4.  Angehörige des Prüfungsamts.
-
-
-
 
 (3) Weiteren Personen kann das Prüfungsamt die Anwesenheit bei der
 Abschlussprüfung allgemein oder im Einzelfall gestatten. Sie dürfen
@@ -736,13 +531,9 @@ das Prüfungsamt die Rangpunktzahl der Ausbildung.
 1.  die Rangpunkte jeder der beiden Klausuren der theoretischen Ausbildung
     mit je 10 Prozent,
 
-
 2.  die Rangpunkte der Seminararbeit mit 20 Prozent und
 
-
 3.  die Rangpunkte der Abschlussprüfung mit 60 Prozent.
-
-
 
 Die berechnete Rangpunktzahl wird kaufmännisch auf eine ganze Zahl
 gerundet. Die gerundete Rangpunktzahl ist die Rangpunktzahl der
@@ -761,17 +552,13 @@ Prüfungsamt ein Abschlusszeugnis aus.
 
 1.  die Rangpunktzahl der Ausbildung und
 
-
 2.  die Gesamtnote.
-
-
-
 
 (3) Sind auf dem Abschlusszeugnis Schreibfehler, Rechenfehler oder
 ähnliche Unrichtigkeiten enthalten, so werden sie vom Prüfungsamt
 berichtigt. Anschließend stellt das Prüfungsamt ein neues
-Abschlusszeugnis aus. Das fehlerhaft ausgestellte Abschlusszeugnis ist
-zurückzugeben.
+Abschlusszeugnis aus. Das fehlerhaft ausgestellte Abschlusszeugnis
+ist zurückzugeben.
 
 (4) Wird die Abschlussprüfung nachträglich für nicht bestanden
 erklärt, so ist das Abschlusszeugnis zurückzugeben.
@@ -802,9 +589,9 @@ unverzüglich ein ärztliches Attest vorgelegt wird.
 ### § 39 Ordnungsverstoß
 
 (1) Wenn ein Prüfling bei der Abschlussprüfung täuscht, eine Täuschung
-versucht oder an einer Täuschung oder einem Täuschungsversuch mitwirkt
-oder einen anderen Ordnungsverstoß begeht, soll ihm zunächst die
-Fortsetzung der Abschlussprüfung gestattet werden. Ist der
+versucht oder an einer Täuschung oder einem Täuschungsversuch
+mitwirkt oder einen anderen Ordnungsverstoß begeht, soll ihm zunächst
+die Fortsetzung der Abschlussprüfung gestattet werden. Ist der
 Ordnungsverstoß erheblich, so kann er jedoch sofort von der weiteren
 Teilnahme an der Abschlussprüfung ausgeschlossen werden.
 
@@ -815,11 +602,7 @@ entscheidet das Prüfungsamt auf Vorschlag der Prüfungskommission.
 
 1.  die Wiederholung der Abschlussprüfung anordnen oder
 
-
 2.  die Abschlussprüfung für endgültig nicht bestanden erklären.
-
-
-
 
 (4) Wird eine Täuschung erst nach Abschluss der Abschlussprüfung
 bekannt oder kann sie erst dann nachgewiesen werden und sind ab dem
@@ -827,8 +610,8 @@ Tag der Abschlussprüfung noch nicht fünf Jahre vergangen, so gilt
 Absatz 3 entsprechend. Die Entscheidung bedarf der Zustimmung des
 Bundespolizeipräsidiums.
 
-(5) Die oder der Betroffene ist vor einer Entscheidung nach Absatz 3
-anzuhören.
+(5) Die oder der Betroffene ist vor einer Entscheidung nach Absatz
+3 anzuhören.
 
 
 ### § 40 Prüfungsakten und Einsichtnahme
@@ -840,20 +623,14 @@ Prüfungsakte.
 
 1.  die Klausuren der theoretischen Ausbildung,
 
-
 2.  die Seminararbeit,
 
-
 3.  das Prüfungsprotokoll und
-
 
 4.  eine Ausfertigung des Abschlusszeugnisses, eine Ausfertigung des
     Bescheides über die nicht bestandene Abschlussprüfung oder eine
     Ausfertigung des Bescheides über die endgültig nicht bestandene
     Abschlussprüfung.
-
-
-
 
 (3) Die Prüfungsakten werden bei der Bundespolizeiakademie mindestens
 fünf und höchstens zehn Jahre aufbewahrt. Sie können elektronisch

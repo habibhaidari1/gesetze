@@ -16,7 +16,6 @@ Fundstelle
 :   RGBl I: 1938, 955
 
 
-
 ## Eingangsformel
 
 Auf Grund des § 3 des Gesetzes über die Zulassung öffentlicher
@@ -27,23 +26,20 @@ Einvernehmen mit dem Reichsminister der Finanzen folgendes verordnet:
 ## (XXXX) §§ 1 bis 5
 
 
-
 ## § 6
 
 (1) Der Spielbankunternehmer ist für den Betrieb der Spielbank von den
-laufenden Steuern des
-Reichs,              die vom Einkommen, vom Vermögen und vom Umsatz
-erhoben werden, sowie von der Lotteriesteuer und von der
+laufenden Steuern des *Reichs,* die vom Einkommen, vom Vermögen und
+vom Umsatz erhoben werden, sowie von der Lotteriesteuer und von der
 Gesellschaftssteuer befreit.
 
 (2) Inwieweit der Spielbankunternehmer für den Betrieb der Spielbank
 auch von Landes- und Gemeindesteuern zu befreien ist, bestimmt der
-Reichsminister der Finanzen              im Einvernehmen mit dem
-Reichsminister des Innern.
+*Reichsminister der Finanzen* im Einvernehmen mit dem *Reichsminister
+des Innern.*
 
 
 ## (XXXX) §§ 7 bis 10
-
 
 
 ## § 11

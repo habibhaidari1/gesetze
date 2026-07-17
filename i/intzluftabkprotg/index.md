@@ -1,7 +1,5 @@
 ---
-Title: Gesetz zu dem Protokoll vom 10. Mai 1984 zur Änderung des Abkommens vom 7.
-  Dezember 1944 über die Internationale Zivilluftfahrt (9. Änderung des Abkommens
-  über die Internationale Zivilluftfahrt)
+Title: Gesetz zu dem Protokoll vom 10. Mai 1984 zur Änderung des Abkommens vom 7. Dezember 1944 über die Internationale Zivilluftfahrt (9. Änderung des Abkommens über die Internationale Zivilluftfahrt)
 jurabk: IntZLuftAbkProtG
 layout: default
 origslug: intzluftabkprotg
@@ -18,7 +16,6 @@ Fundstelle
 :   BGBl II: 1996, 210
 
 
-
 ## Art 1
 
 Dem in Montreal am 10. Mai 1984 von der Bundesrepublik Deutschland
@@ -33,8 +30,8 @@ amtlichen deutschen Übersetzung veröffentlicht.
 
 (1) Der Führer eines zivilen Luftfahrzeugs hat Anweisungen einer
 ausländischen Stelle zu befolgen, die diese ihm in Wahrnehmung ihrer
-Lufthoheit nach Artikel
-3bis des Abkommens über die Internationale Zivilluftfahrt erteilt.
+Lufthoheit nach Artikel 3bis des Abkommens über die Internationale
+Zivilluftfahrt erteilt.
 
 (2) Ordnungswidrig handelt, wer entgegen Absatz 1 eine Anweisung
 nicht, nicht richtig oder nicht rechtzeitig befolgt. Die

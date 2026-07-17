@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl I: 1981, 660
 
 
-
 ## Eingangsformel
 
 Auf Grund des § 4 der Bundesärzteordnung in der Fassung der

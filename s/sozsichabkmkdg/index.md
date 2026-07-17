@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zu dem Abkommen vom 8. Juli 2003 zwischen der Regierung der Bundesrepublik
-  Deutschland und der mazedonischen Regierung über Soziale Sicherheit
+Title: Gesetz zu dem Abkommen vom 8. Juli 2003 zwischen der Regierung der Bundesrepublik Deutschland und der mazedonischen Regierung über Soziale Sicherheit
 jurabk: SozSichAbkMKDG
 layout: default
 origslug: sozsichabkmkdg
@@ -17,7 +16,6 @@ Fundstelle
 :   BGBl II: 2004, 1066
 
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
@@ -32,12 +30,9 @@ zwischenstaatlichen Übereinkünften wird zugestimmt:
 1.  dem Abkommen zwischen der Regierung der Bundesrepublik Deutschland und
     der mazedonischen Regierung über Soziale Sicherheit,
 
-
 2.  der Vereinbarung zur Durchführung des Abkommens vom 8. Juli 2003
     zwischen der Regierung der Bundesrepublik Deutschland und der
     mazedonischen Regierung über Soziale Sicherheit.
-
-
 
 Das Abkommen und die Durchführungsvereinbarung werden nachstehend
 veröffentlicht.
@@ -45,9 +40,9 @@ veröffentlicht.
 
 ## Art 2
 
-Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates Vereinbarungen zur Durchführung des
-Abkommens sowie Änderungen der in Artikel 1 Nr. 2 genannten
+Die Bundesregierung wird ermächtigt, durch Rechtsverordnung
+mit Zustimmung des Bundesrates Vereinbarungen zur Durchführung
+des Abkommens sowie Änderungen der in Artikel 1 Nr. 2 genannten
 Durchführungsvereinbarung in Kraft zu setzen. Im Übrigen wird die
 Bundesregierung ermächtigt, die zur Durchführung des Abkommens
 erforderlichen innerstaatlichen Regelungen zu treffen. Dabei können
@@ -59,23 +54,16 @@ folgende Gegenstände Regelungen getroffen werden:
     Abkommens genannten Stellen sowie zwischen diesen und den betroffenen
     Personen,
 
-
 2.  das Ausstellen, die Vorlage und Übermittlung von Bescheinigungen sowie
     die Verwendung von Vordrucken,
 
-
 3.  das Verfahren beim Erbringen von Geldleistungen,
-
 
 4.  die Zuständigkeit der Versicherungsträger oder anderer in Artikel 28
     Abs. 1 des Abkommens genannten Stellen,
 
-
 5.  die gegenseitige Umrechnung von Versicherungszeiten nach den
     Rechtsvorschriften beider Vertragsstaaten.
-
-
-
 
 
 ## Art 3

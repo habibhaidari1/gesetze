@@ -46,8 +46,8 @@ deren Stellvertreter. Benennungen nach den Sätzen 1 bis 3 sind der
 Geschäftsstelle nach § 5 mitzuteilen.
 
 (3) Der unparteiische Vorsitzende, die zwei weiteren unparteiischen
-Mitglieder und ihre Stellvertreter sind benannt, sobald sie sich den
-beteiligten Verbänden gegenüber zur Amtsübernahme bereit erklärt
+Mitglieder und ihre Stellvertreter sind benannt, sobald sie sich
+den beteiligten Verbänden gegenüber zur Amtsübernahme bereit erklärt
 haben.
 
 (4) Die Mitglieder sind bestellt, sobald die beteiligten Verbände oder
@@ -62,8 +62,8 @@ Gesundheit die Mitglieder.
 
 ## § 2 Amtsperiode
 
-(1) Die Amtsdauer der Mitglieder beträgt vier Jahre. Die Amtsdauer der
-während einer Amtsperiode neu bestellten Mitglieder endet mit dem
+(1) Die Amtsdauer der Mitglieder beträgt vier Jahre. Die Amtsdauer
+der während einer Amtsperiode neu bestellten Mitglieder endet mit dem
 Ablauf dieser Amtsperiode.
 
 (2) Abweichend von Absatz 1 endet die Amtsdauer der nach § 1 Absatz 2
@@ -76,14 +76,14 @@ Satz 2 benannten Mitglieder mit Wirksamwerden des Schiedsspruchs.
 Stellvertreter auf Antrag einer Vertragspartei aus wichtigem Grunde
 abberufen. Die beteiligten Verbände sind vorher zu hören.
 
-(2) Die Mitglieder haben die Niederlegung des Amtes den für die
-Benennung zuständigen Verbänden oder Vertragsparteien, dem
+(2) Die Mitglieder haben die Niederlegung des Amtes den für
+die Benennung zuständigen Verbänden oder Vertragsparteien, dem
 Vorsitzenden der Schiedsstelle sowie dem Bundesministerium für
 Gesundheit zu erklären.
 
 (3) Für die Bestellung von Mitgliedern und ihren Stellvertretern in
-der Nachfolge von während einer Amtsperiode Ausgeschiedenen gilt § 1
-entsprechend.
+der Nachfolge von während einer Amtsperiode Ausgeschiedenen gilt §
+1 entsprechend.
 
 
 ## § 4 Teilnahme an Sitzungen
@@ -101,14 +101,14 @@ Krankenkassen geführt. Sie ist an Weisungen des Vorsitzenden gebunden.
 
 ## § 6 Einleitung des Schiedsverfahrens, Fristen
 
-(1) Kommt ein Vertrag nach § 129 Absatz 2, § 130b Absatz 1, § 131
-Absatz 3 Satz 1 oder § 300 Absatz 3 des Fünften Buches
+(1) Kommt ein Vertrag nach § 129 Absatz 2, § 130b Absatz 1,
+§ 131 Absatz 3 Satz 1 oder § 300 Absatz 3 des Fünften Buches
 Sozialgesetzbuch ganz oder teilweise nicht zustande, beginnt das
 Schiedsverfahren mit dem bei der Schiedsstelle von einer beteiligten
-Vertragspartei gestellten Antrag, eine Einigung über den Inhalt eines
-Vertrages herbeizuführen. Der Antrag ist schriftlich an den
-Vorsitzenden der Schiedsstelle zu richten. Der Antrag hat den
-Sachverhalt zu erläutern, ein zusammenfassendes Ergebnis der
+Vertragspartei gestellten Antrag, eine Einigung über den Inhalt
+eines Vertrages herbeizuführen. Der Antrag ist schriftlich an
+den Vorsitzenden der Schiedsstelle zu richten. Der Antrag hat
+den Sachverhalt zu erläutern, ein zusammenfassendes Ergebnis der
 vorangegangenen Verhandlungen darzulegen sowie die Teile des Vertrages
 aufzuführen, über die eine Einigung nicht zustandegekommen ist.
 
@@ -125,12 +125,12 @@ Sozialgesetzbuch gesetzten Frist nicht zustande, so beginnt das
 Schiedsverfahren mit dem auf den Ablauf der Frist folgenden Tag. Die
 Vertragsparteien haben der Schiedsstelle schriftlich den Fristablauf
 unter Darstellung des Sachverhalts anzuzeigen. Bei Ablauf der Frist
-nach § 129 Absatz 4 Satz 2 des Fünften Buches Sozialgesetzbuch beginnt
-das Schiedsverfahren mit dem darauf folgenden Tag; Satz 2 gilt
-entsprechend.
+nach § 129 Absatz 4 Satz 2 des Fünften Buches Sozialgesetzbuch
+beginnt das Schiedsverfahren mit dem darauf folgenden Tag; Satz 2
+gilt entsprechend.
 
-(4) Der Vorsitzende lädt die weiteren Mitglieder schriftlich mit einer
-Frist von mindestens zwei Wochen ein. Der Einladung sind
+(4) Der Vorsitzende lädt die weiteren Mitglieder schriftlich mit
+einer Frist von mindestens zwei Wochen ein. Der Einladung sind
 Sitzungsunterlagen beizufügen, die Gegenstand der Beratung sind.
 
 
@@ -150,33 +150,29 @@ oder deren Stellvertreter anwesend sind:
 1.  nach § 129 Absatz 7 oder § 300 Absatz 4 des Fünften Buches
     Sozialgesetzbuch fünf weitere Mitglieder,
 
-
 2.  nach § 130b Absatz 4 des Fünften Buches Sozialgesetzbuch zwei weitere
     Mitglieder,
 
-
 3.  nach § 131 Absatz 3 des Fünften Buches Sozialgesetzbuch sechs weitere
     Mitglieder.
-
-
 
 Sie entscheidet mit einfacher Stimmenmehrheit der anwesenden
 Mitglieder. Stimmenthaltung ist nicht zulässig. Ergibt sich keine
 Mehrheit, gibt die Stimme des Vorsitzenden den Ausschlag.
 
-(2) Die Schiedsstelle entscheidet auf Grund mündlicher Verhandlung, zu
-der die Vertragsparteien und das Bundesministerium für Gesundheit zu
-laden sind. Sie kann auch in Abwesenheit der Geladenen verhandeln.
+(2) Die Schiedsstelle entscheidet auf Grund mündlicher Verhandlung,
+zu der die Vertragsparteien und das Bundesministerium für Gesundheit
+zu laden sind. Sie kann auch in Abwesenheit der Geladenen verhandeln.
 Über den Inhalt der Verhandlung fertigt der Vorsitzende eine
 Niederschrift.
 
 (3) Die Beratung und Beschlußfassung der Schiedsstelle erfolgt in
 Abwesenheit der Geladenen.
 
-(4) Die Schiedsstelle nach § 129 Absatz 7 oder § 300 Absatz 4 des
-Fünften Buches Sozialgesetzbuch entscheidet innerhalb von einem Monat,
-die Schiedsstelle nach § 130b Absatz 4 des Fünften Buches
-Sozialgesetzbuch innerhalb von drei Monaten nach Beginn des
+(4) Die Schiedsstelle nach § 129 Absatz 7 oder § 300 Absatz 4
+des Fünften Buches Sozialgesetzbuch entscheidet innerhalb von
+einem Monat, die Schiedsstelle nach § 130b Absatz 4 des Fünften
+Buches Sozialgesetzbuch innerhalb von drei Monaten nach Beginn des
 Schiedsverfahrens.
 
 (5) Die Entscheidung der Schiedsstelle ist vom Vorsitzenden
@@ -195,16 +191,16 @@ Schiedsstelle und die Entscheidung nach § 8 Abs. 2.
 oder ihre Stellvertreter erhalten Reisekosten nach den Vorschriften
 über die Reisekostenvergütung der Bundesbeamten nach der
 Reisekostenstufe C. Der Anspruch richtet sich gegen den Spitzenverband
-Bund der Krankenkassen. Sie erhalten für sonstige Barauslagen und für
-den Zeitaufwand einen Pauschalbetrag, dessen Höhe die beteiligten
+Bund der Krankenkassen. Sie erhalten für sonstige Barauslagen und
+für den Zeitaufwand einen Pauschalbetrag, dessen Höhe die beteiligten
 Verbände im Benehmen mit ihnen festsetzen. Die Festsetzung bedarf der
 Zustimmung des Bundesministeriums für Gesundheit.
 
 (2) Die Mitglieder der Schiedsstelle oder ihre Stellvertreter haben
-Anspruch auf Erstattung ihrer baren Auslagen und auf Entschädigung für
-den Zeitaufwand nach den für Beschäftigte der benennenden Verbände
-oder Vertragsparteien geltenden Grundsätzen. Die Verbände und
-Vertragsparteien tragen die Kosten für die von ihnen benannten
+Anspruch auf Erstattung ihrer baren Auslagen und auf Entschädigung
+für den Zeitaufwand nach den für Beschäftigte der benennenden
+Verbände oder Vertragsparteien geltenden Grundsätzen. Die Verbände
+und Vertragsparteien tragen die Kosten für die von ihnen benannten
 Mitglieder oder deren Vertreter selbst.
 
 (3) Die sächlichen und personellen Kosten der Geschäftsführung und die

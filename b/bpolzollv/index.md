@@ -16,8 +16,7 @@ Fundstelle
 :   BGBl I: 2005, 1867
 
 Zuletzt geändert durch
-:   Art. 27 V v. 19.6.2020 I 1328
-
+:   Art. 1 V v. 21.10.2024 I Nr. 319
 
 
 ## Eingangsformel
@@ -35,18 +34,14 @@ die Aufgaben
 1.  der polizeilichen Überwachung der Grenzen (§ 2 Abs. 2 Nr. 1 des
     Bundespolizeigesetzes),
 
-
-2.  der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs (§ 2
-    Abs. 2 Nr. 2 des Bundespolizeigesetzes) an den in der Anlage
-    aufgeführten Grenzübergangsstellen sowie außerhalb dieser
+2.  der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs
+    (§ 2 Abs. 2 Nr. 2 des Bundespolizeigesetzes) an den in der
+    Anlage aufgeführten Grenzübergangsstellen sowie außerhalb dieser
     Grenzübergangsstellen und
 
-
-3.  der Beseitigung von Störungen und der Abwehr von Gefahren, die die
-    Sicherheit der Grenzen beeinträchtigen (§ 2 Abs. 2 Nr. 3 des
+3.  der Beseitigung von Störungen und der Abwehr von Gefahren, die
+    die Sicherheit der Grenzen beeinträchtigen (§ 2 Abs. 2 Nr. 3 des
     Bundespolizeigesetzes)
-
-
 
 zur Ausübung übertragen.
 
@@ -61,15 +56,11 @@ die Aufgaben
     und in andere Staaten, nach § 71 Abs. 3 Nr. 2 bis 6 und nach § 71 Abs.
     4 des Aufenthaltsgesetzes in der jeweils geltenden Fassung,
 
-
 2.  nach den §§ 10 und 19 Abs. 1 Satz 2 des Passgesetzes vom 19. April
     1986 (BGBl. I S. 537) in der jeweils geltenden Fassung und
 
-
 3.  nach § 8 Nr. 1 Buchstabe b und Nr. 3 des Freizügigkeitsgesetzes/EU vom
     30\. Juli 2004 (BGBl. I S. 1950, 1986) in der jeweils geltenden Fassung
-
-
 
 zur Ausübung übertragen, soweit sie im Zusammenhang mit der
 Wahrnehmung der Aufgaben nach § 1 anfallen.
@@ -98,10 +89,10 @@ bleiben unberührt.
 Zollverwaltung gelten dieselben Rechts- und Verwaltungsvorschriften,
 die für die Ausübung der Aufgaben durch die Bundespolizei maßgebend
 sind. Insbesondere hat die Zollverwaltung die Befugnisse der
-Bundespolizei, die sich aus dem Zweiten Abschnitt (§§ 14 bis 50) des
-Bundespolizeigesetzes und aus dem Gesetz über den unmittelbaren Zwang
-bei Ausübung öffentlicher Gewalt durch Vollzugsbeamte des Bundes in
-der im Bundesgesetzblatt Teil III, Gliederungsnummer 201-5,
+Bundespolizei, die sich aus dem Zweiten Abschnitt (§§ 14 bis 50)
+des Bundespolizeigesetzes und aus dem Gesetz über den unmittelbaren
+Zwang bei Ausübung öffentlicher Gewalt durch Vollzugsbeamte des
+Bundes in der im Bundesgesetzblatt Teil III, Gliederungsnummer 201-5,
 veröffentlichten bereinigten Fassung, zuletzt geändert durch Artikel
 23 der Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785), in der
 jeweils geltenden Fassung ergeben.
@@ -116,8 +107,8 @@ Satz 3 des Bundespolizeigesetzes) erteilten Weisungen.
 Das Bundesministerium des Innern, für Bau und Heimat benennt dem
 Bundesministerium der Finanzen die Bundespolizeibehörden, die es mit
 der Ausübung der Fachaufsicht beauftragt hat. Das Bundesministerium
-des Innern, für Bau und Heimat und das Bundesministerium der Finanzen
-regeln einvernehmlich die Fachaufsicht durch die
+des Innern, für Bau und Heimat und das Bundesministerium der
+Finanzen regeln einvernehmlich die Fachaufsicht durch die
 Bundespolizeibehörden.
 
 
@@ -128,651 +119,167 @@ Diese Verordnung tritt am 1. Juli 2005 in Kraft.
 
 ## Anlage (zu § 1)
 
-Fundstelle des Originaltextes: BGBl. I 2005, 1868 - 1869
-
-*    *   **1.**
-
-    *   **Schleswig-Holstein**
-
-
-*    *
-    *   Niendorf
-
-
-*    *
-    *   Neustadt
-
-
-*    *
-    *   Grömitz
-
-
-*    *
-    *   Heiligenhafen
-
-
-*    *
-    *   Burgstaaken
-
-
-*    *
-    *   Orth
-
-
-*    *
-    *   Laboe
-
-
-*    *
-    *   Möltenort/Heikendorf
-
-
-*    *
-    *   Schilksee
-
-
-*    *
-    *   Strande
-
-
-*    *
-    *   Rendsburg
-
-
-*    *
-    *   Eckernförde
-
-
-*    *
-    *   Ostseebad Damp
-
-
-*    *
-    *   Schleswig
-
-
-*    *
-    *   Kappeln
-
-
-*    *
-    *   Schleimünde
-
-
-*    *
-    *   Maasholm
-
-
-*    *
-    *   Gelting
-
-
-*    *
-    *   Quern-Neukirchen
-
-
-*    *
-    *   Langballigau
-
-
-*    *
-    *   Glücksburg
-
-
-*    *
-    *   Westerland/Sylt (Flugplatz)
-
-
-*    *
-    *   List/Sylt
-
-
-*    *
-    *   Hörnum/Sylt
-
-
-*    *
-    *   Dagebüll
-
-
-*    *
-    *   Wyk/Föhr
-
-
-*    *
-    *   Wittdün/Amrum
-
-
-*    *
-    *   Pellworm
-
-
-*    *
-    *   Strucklahnungshörn/Nordstrand
-
-
-*    *
-    *   Süderhafen/Nordstrand
-
-
-*    *
-    *   Husum
-
-
-*    *
-    *   Friedrichstadt
-
-
-*    *
-    *   Tönning
-
-
-*    *
-    *   Büsum
-
-
-*    *
-    *   Meldorfer Hafen
-
-
-*    *
-    *   Friedrichskoog
-
-
-*    *
-    *   Helgoland
-
-
-*    *
-    *   Helgoland-Düne (Flugplatz)
-
-
-*    *
-    *   Itzehoe
-
-
-*    *
-    *   Wewelsfleth
-
-
-*    *
-    *   Glückstadt
-
-
-*    *
-    *   Elmshorn
-
-
-*    *
-    *   Uetersen
-
-
-*    *
-    *   Wedel
-
-
-*    *   **2.**
-
-    *   **Hamburg**
-
-
-*    *
-    *   Hamburg-Neuenfelde
-
-
-*    *   **3.**
-
-    *   **Niedersachsen**
-
-
-*    *
-    *   Buxtehude
-
-
-*    *
-    *   Stade
-
-
-*    *
-    *   Stadersand
-
-
-*    *
-    *   Bützflether Sand
-
-
-*    *
-    *   Otterndorf
-
-
-*    *
-    *   Lemwerder (Hafen)
-
-
-*    *
-    *   Elsfleth
-
-
-*    *
-    *   Brake
-
-
-*    *
-    *   Großensiel
-
-
-*    *
-    *   Nordenham
-
-
-*    *
-    *   Fedderwardersiel
-
-
-*    *
-    *   Eckwarderhörne
-
-
-*    *
-    *   Varel
-
-
-*    *
-    *   Wilhelmshaven
-
-
-*    *
-    *   Hooksiel
-
-
-*    *
-    *   Horumersiel
-
-
-*    *
-    *   Carolinensiel (Harlesiel)
-
-
-*    *
-    *   Neuharlingersiel
-
-
-*    *
-    *   Bensersiel
-
-
-*    *
-    *   Westeraccumersiel
-
-
-*    *
-    *   Norddeich
-
-
-*    *
-    *   Greetsiel
-
-
-*    *
-    *   Wangerooge (Hafen)
-
-
-*    *
-    *   Spiekeroog
-
-
-*    *
-    *   Langeoog (Hafen)
-
-
-*    *
-    *   Baltrum (Hafen)
-
-
-*    *
-    *   Norderney (Hafen)
-
-
-*    *
-    *   Juist (Hafen)
-
-
-*    *
-    *   Borkum (Hafen)
-
-
-*    *
-    *   Leer
-
-
-*    *
-    *   Weener
-
-
-*    *
-    *   Papenburg
-
-
-*    *
-    *   Herbrum
-
-
-*    *   **4.**
-
-    *   **Baden-Württemberg**
-
-
-*    *
-    *   Weil-Rheinhafen
-
-
-*    *
-    *   Weil-Schiffsanlegestelle
-
-
-*    *
-    *   Weil-Friedlingen
-
-
-*    *
-    *   Basel Bad. Rangierbahnhof in Weil am Rhein
-
-
-*    *
-    *   Weil-Ost
-
-
-*    *
-    *   Lörrach-Wiesenuferweg
-
-
-*    *
-    *   Lörrach-Wiesentalbahn
-
-
-*    *
-    *   Inzlingen
-
-
-*    *
-    *   Grenzacherhorn
-
-
-*    *
-    *   Grenzach (Fa. Hoffmann La Roche AG)
-
-
-*    *
-    *   Grenzach (Fa. Geigy)
-
-
-*    *
-    *   Wyhlen (Wyhlen GmbH)
-
-
-*    *
-    *   Rheinfelden-Rheinhafen
-
-
-*    *
-    *   Rheinfelden
-
-
-*    *
-    *   Bad Säckingen (Alte Rheinbrücke)
-
-
-*    *
-    *   Laufenburg
-
-
-*    *
-    *   Laufenburg-Stadt
-
-
-*    *
-    *   Albbruck
-
-
-*    *
-    *   Dogern
-
-
-*    *
-    *   Waldshut-Rheinfähre
-
-
-*    *
-    *   Waldshut Bahnhof
-
-
-*    *
-    *   Rheinheim
-
-
-*    *
-    *   Reckingen
-
-
-*    *
-    *   Rötteln
-
-
-*    *
-    *   Herdern
-
-
-*    *
-    *   Günzgen
-
-
-*    *
-    *   Bühl
-
-
-*    *
-    *   Dettighofen
-
-
-*    *
-    *   Baltersweil
-
-
-*    *
-    *   Lottstetten Bahnhof
-
-
-*    *
-    *   Lottstetten-Dorf
-
-
-*    *
-    *   Lottstetten
-
-
-*    *
-    *   Nack
-
-
-*    *
-    *   Altenburg-Rheinbrücke
-
-
-*    *
-    *   Altenburg-Nohl
-
-
-*    *
-    *   Altenburg-Rheinau Bahnhof
-
-
-*    *
-    *   Jestetten-Hardt
-
-
-*    *
-    *   Jestetten Bahnhof
-
-
-*    *
-    *   Jestetten-Wangental
-
-
-*    *
-    *   Weisweil
-
-
-*    *
-    *   Erzingen
-
-
-*    *
-    *   Erzingen Bahnhof
-
-
-*    *
-    *   Eggingen
-
-
-*    *
-    *   Eberfingen
-
-
-*    *
-    *   Stühlingen
-
-
-*    *
-    *   Fützen
-
-
-*    *
-    *   Wiechs-Schlauch
-
-
-*    *
-    *   Wiechs-Dorf
-
-
-*    *
-    *   Büßlingen
-
-
-*    *
-    *   Schlatt am Randen
-
-
-*    *
-    *   Ebringen
-
-
-*    *
-    *   Thayngen Bahnhof
-
-
-*    *
-    *   Randegg
-
-
-*    *
-    *   Gailingen-West
-
-
-*    *
-    *   Gailingen-Brücke
-
-
-*    *
-    *   Gailingen-Ost
-
-
-*    *
-    *   Murbach
-
-
-*    *
-    *   Gottmadingen
-
-
-*    *
-    *   Gasthof "Spießhof" an der B 34
-
-
-*    *
-    *   Rielasingen
-
-
-*    *
-    *   Öhningen
-
-
-*    *
-    *   Öhningen-Oberstaad
-
-
-*    *
-    *   Wangen
-
-
-*    *
-    *   Hemmenhofen
-
-
-*    *
-    *   Gaienhofen
-
-
-*    *
-    *   Radolfzell
-
-
-*    *
-    *   Insel Reichenau
-
-
-*    *
-    *   Konstanz-Paradieser Tor
-
-
-*    *
-    *   Konstanz-Wiesenstraße
-
-
-*    *
-    *   Konstanz-Klein Venedig
-
-
-*    *
-    *   Konstanz-Schweizer Personen Bahnhof
-
-
-*    *
-    *   Konstanz-Hafen
-
-
-*    *
-    *   Mainau
-
-
-*    *
-    *   Überlingen
-
-
-*    *
-    *   Meersburg
-
-
-*    *
-    *   Friedrichshafen-Hafen
-
-
-*    *
-    *   Friedrichshafen-Löwenthal (Flughafen)
-
-
-*    *
-    *   Langenargen
-
-
-
+(Fundstelle des Originaltextes: BGBl. I 2005, 1868 - 1869;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
+
+| **1.** | **Schleswig-Holstein** |
+| --- | --- |
+|  | Niendorf |
+|  | Neustadt |
+|  | Grömitz |
+|  | Heiligenhafen |
+|  | Burgstaaken |
+|  | Orth |
+|  | Laboe |
+|  | Möltenort/Heikendorf |
+|  | Schilksee |
+|  | Strande |
+|  | Rendsburg |
+|  | Eckernförde |
+|  | Ostseebad Damp |
+|  | Schleswig |
+|  | Kappeln |
+|  | Schleimünde |
+|  | Maasholm |
+|  | Gelting |
+|  | Quern-Neukirchen |
+|  | Langballigau |
+|  | Glücksburg |
+|  | Westerland/Sylt (Flugplatz) |
+|  | List/Sylt |
+|  | Hörnum/Sylt |
+|  | Dagebüll |
+|  | Wyk/Föhr |
+|  | Wittdün/Amrum |
+|  | Pellworm |
+|  | Strucklahnungshörn/Nordstrand |
+|  | Süderhafen/Nordstrand |
+|  | Husum |
+|  | Friedrichstadt |
+|  | Tönning |
+|  | Büsum |
+|  | Meldorfer Hafen |
+|  | Friedrichskoog |
+|  | Helgoland |
+|  | Helgoland-Düne (Flugplatz) |
+|  | Itzehoe |
+|  | Wewelsfleth |
+|  | Glückstadt |
+|  | Elmshorn |
+|  | Uetersen |
+|  | Wedel |
+| **2.** | **Hamburg** |
+|  | Hamburg-Neuenfelde |
+| **3.** | **Niedersachsen** |
+|  | Buxtehude |
+|  | Stade |
+|  | Stadersand |
+|  | Bützflether Sand |
+|  | Otterndorf |
+|  | Lemwerder (Hafen) |
+|  | Elsfleth |
+|  | Brake |
+|  | Großensiel |
+|  | Nordenham |
+|  | Fedderwardersiel |
+|  | Eckwarderhörne |
+|  | Varel |
+|  | Wilhelmshaven |
+|  | Hooksiel |
+|  | Horumersiel |
+|  | Carolinensiel (Harlesiel) |
+|  | Neuharlingersiel |
+|  | Bensersiel |
+|  | Westeraccumersiel |
+|  | Norddeich |
+|  | Greetsiel |
+|  | Wangerooge (Hafen) |
+|  | Spiekeroog |
+|  | Langeoog (Hafen) |
+|  | Baltrum (Hafen) |
+|  | Norderney (Hafen) |
+|  | Juist (Hafen) |
+|  | Borkum (Hafen) |
+|  | Leer |
+|  | Weener |
+|  | Papenburg |
+|  | Herbrum |
+| **4.** | **Baden-Württemberg** |
+|  | Weil-Rheinhafen |
+|  | Weil-Schiffsanlegestelle |
+|  | Weil-Friedlingen |
+|  | Basel Bad. Rangierbahnhof in Weil am Rhein |
+|  | Weil-Ost |
+|  | Lörrach-Wiesenuferweg |
+|  | Lörrach-Wiesentalbahn |
+|  | Inzlingen |
+|  | Grenzacherhorn |
+|  | Grenzach (Fa. Hoffmann La Roche AG) |
+|  | Grenzach (Fa. Geigy) |
+|  | Wyhlen (Wyhlen GmbH) |
+|  | Rheinfelden-Rheinhafen |
+|  | Rheinfelden |
+|  | Bad Säckingen (Alte Rheinbrücke) |
+|  | Laufenburg |
+|  | Laufenburg-Stadt |
+|  | Albbruck |
+|  | Dogern |
+|  | Waldshut-Rheinfähre |
+|  | Waldshut Bahnhof |
+|  | Rheinheim |
+|  | Reckingen |
+|  | Rötteln |
+|  | Herdern |
+|  | Günzgen |
+|  | Bühl |
+|  | Dettighofen |
+|  | Baltersweil |
+|  | Lottstetten Bahnhof |
+|  | Lottstetten-Dorf |
+|  | Lottstetten |
+|  | Nack |
+|  | Altenburg-Rheinbrücke |
+|  | Altenburg-Nohl |
+|  | Altenburg-Rheinau Bahnhof |
+|  | Jestetten-Hardt |
+|  | Jestetten Bahnhof |
+|  | Jestetten-Wangental |
+|  | Weisweil |
+|  | Erzingen |
+|  | Erzingen Bahnhof |
+|  | Eggingen |
+|  | Eberfingen |
+|  | Stühlingen |
+|  | Fützen |
+|  | Wiechs-Schlauch |
+|  | Wiechs-Dorf |
+|  | Büßlingen |
+|  | Schlatt am Randen |
+|  | Ebringen |
+|  | Thayngen Bahnhof |
+|  | Randegg |
+|  | Gailingen-West |
+|  | Gailingen-Brücke |
+|  | Gailingen-Ost |
+|  | Murbach |
+|  | Gottmadingen |
+|  | Gasthof "Spießhof" an der B 34 |
+|  | Rielasingen |
+|  | Öhningen |
+|  | Öhningen-Oberstaad |
+|  | Wangen |
+|  | Hemmenhofen |
+|  | Gaienhofen |
+|  | Radolfzell |
+|  | Insel Reichenau |
+|  | Konstanz-Paradieser Tor |
+|  | Konstanz-Wiesenstraße |
+|  | Konstanz-Klein Venedig |
+|  | Konstanz-Schweizer Personen Bahnhof |
+|  | Konstanz-Hafen |
+|  | Mainau |
+|  | Überlingen |
+|  | Meersburg |
+|  | Friedrichshafen-Hafen |
+|  | Langenargen |
 

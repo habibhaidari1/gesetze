@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1974, 2317
 
 Zuletzt geändert durch
-:   Art. 20b G v. 28.3.2021 I 591
+:   Art. 11 G v. 10.12.2025 I Nr. 320
 
 
 ## Eingangsformel
@@ -28,18 +28,18 @@ beschlossen:
 ## 1. Abschnitt - Allgemeine Vorschriften
 
 
-
 ### § 1 Die konsularischen Aufgaben im allgemeinen
 
 Die Konsularbeamten (Berufskonsularbeamte oder Honorarkonsularbeamte)
 sind berufen,
--   bei der Zusammenarbeit zwischen der Bundesrepublik
-Deutschland und dem Empfangsstaat, namentlich auf den
-Gebieten außenwirtschaftlicher und entwicklungspolitischer
-Beziehungen, des Verkehrs, der Kultur und der Rechtspflege
-mitzuwirken,
--   Deutschen sowie inländischen juristischen Personen nach
-pflichtgemäßem Ermessen Rat und Beistand zu gewähren.
+
+-   bei der Zusammenarbeit zwischen der Bundesrepublik Deutschland und dem
+    Empfangsstaat, namentlich auf den Gebieten außenwirtschaftlicher und
+    entwicklungspolitischer Beziehungen, des Verkehrs, der Kultur und der
+    Rechtspflege mitzuwirken,
+
+-   Deutschen sowie inländischen juristischen Personen nach pflichtgemäßem
+    Ermessen Rat und Beistand zu gewähren.
 
 
 ### § 2 Übertragene konsularische Aufgaben
@@ -49,54 +49,16 @@ wahrzunehmen, die ihnen durch dieses Gesetz oder andere Rechts- und
 Verwaltungsvorschriften übertragen werden, insbesondere auf folgenden
 Gebieten,
 
-*    *   -
-
-    *   Staatsangehörigkeitsangelegenheiten,
-
-
-*    *   -
-
-    *   Paß- und Sichtvermerksangelegenheiten,
-
-
-*    *   -
-
-    *   Personenstandsangelegenheiten,
-
-
-*    *   -
-
-    *   Mitwirkung bei der Erledigung von Familiensachen, Angelegenheiten der
-        freiwilligen Gerichtsbarkeit und bei Nachlaßangelegenheiten,
-
-
-*    *   -
-
-    *   Beurkundungen, Legalisation ausländischer und Echtheitsbestätigung
-        inländischer öffentlicher Urkunden,
-
-
-*    *   -
-
-    *   Schiffahrtssachen und Seemannsangelegenheiten,
-
-
-*    *   -
-
-    *   Erledigung oder Übermittlung von Rechtshilfeersuchen,
-
-
-*    *   -
-
-    *   Zustellungen,
-
-
-*    *   -
-
-    *   Überwachung der Einhaltung von Verträgen.
-
-
-
+| - | Staatsangehörigkeitsangelegenheiten, |
+| --- | --- |
+| - | Paß- und Sichtvermerksangelegenheiten, |
+| - | Personenstandsangelegenheiten, |
+| - | Mitwirkung bei der Erledigung von Familiensachen, Angelegenheiten der freiwilligen Gerichtsbarkeit und bei Nachlaßangelegenheiten, |
+| - | Beurkundungen, Legalisation ausländischer und Echtheitsbestätigung inländischer öffentlicher Urkunden, |
+| - | Schiffahrtssachen und Seemannsangelegenheiten, |
+| - | Erledigung oder Übermittlung von Rechtshilfeersuchen, |
+| - | Zustellungen, |
+| - | Überwachung der Einhaltung von Verträgen. |
 
 
 ### § 3 Wahrnehmung konsularischer Aufgaben
@@ -119,14 +81,13 @@ bedienen.
 
 Bei ihrer Amtstätigkeit haben die Konsularbeamten die Schranken zu
 berücksichtigen, die sich aus dem in ihrem Konsularbezirk geltenden
-Recht ergeben. Sie haben insbesondere das Wiener Übereinkommen vom 24.
-April 1963 über konsularische Beziehungen (Bundesgesetzbl. II 1969 S.
-1585) und sonstige Verträge zu beachten, soweit diese zwischen der
+Recht ergeben. Sie haben insbesondere das Wiener Übereinkommen vom
+24\. April 1963 über konsularische Beziehungen (Bundesgesetzbl. II 1969
+S. 1585) und sonstige Verträge zu beachten, soweit diese zwischen der
 Bundesrepublik Deutschland und dem Empfangsstaat in Kraft sind.
 
 
 ## 2. Abschnitt - Einzelne Konsularische Aufgaben und Befugnisse
-
 
 
 ### § 5 Hilfeleistung an einzelne
@@ -162,9 +123,9 @@ Ersatz geht auf die Erben über. Die Haftung der Erben beschränkt sich
 auf den Nachlaß.
 
 (6) Dauert die Notlage eines Hilfeempfängers, der seinen gewöhnlichen
-Aufenthalt im Ausland hat oder der im Ausland in Untersuchungshaft ist
-oder eine Freiheitsstrafe verbüßt, länger als zwei Monate, so ist vom
-Eintritt der Hilfsbedürftigkeit an Hilfe nach dem Zwölften Buch
+Aufenthalt im Ausland hat oder der im Ausland in Untersuchungshaft
+ist oder eine Freiheitsstrafe verbüßt, länger als zwei Monate, so ist
+vom Eintritt der Hilfsbedürftigkeit an Hilfe nach dem Zwölften Buch
 Sozialgesetzbuch oder in entsprechender Anwendung dieses Gesetzes zu
 gewähren. Absatz 4 bleibt unberührt.
 
@@ -180,20 +141,20 @@ Gesundheit erleiden würde.
 revolutionäre Verwicklungen oder vergleichbare Ereignisse, die der
 Bevölkerung oder Teilen von ihnen Schaden zufügen, eintreten oder
 einzutreten drohen, sollen die Konsularbeamten die erforderlichen
-Maßnahmen treffen, um den Geschädigten oder den Bedrohten, soweit sie
-Deutsche sind, Hilfe und Schutz zu gewähren. Dies gilt auch für
-Abkömmlinge von Deutschen und für nichtdeutsche Familienangehörige von
-Deutschen, wenn sie mit diesen in Haushaltsgemeinschaft leben oder
+Maßnahmen treffen, um den Geschädigten oder den Bedrohten, soweit
+sie Deutsche sind, Hilfe und Schutz zu gewähren. Dies gilt auch für
+Abkömmlinge von Deutschen und für nichtdeutsche Familienangehörige
+von Deutschen, wenn sie mit diesen in Haushaltsgemeinschaft leben oder
 längere Zeit gelebt haben.
 
-(2) § 5 Abs. 5 gilt entsprechend. Soweit die Entwicklung der Lage im
-Konsularbezirk, die persönlichen Verhältnisse des Hilfs- oder
+(2) § 5 Abs. 5 gilt entsprechend. Soweit die Entwicklung der Lage
+im Konsularbezirk, die persönlichen Verhältnisse des Hilfs- oder
 Schutzbedürftigen oder sonstige besondere Umstände es erfordern, kann
 von der Geltendmachung der Ansprüche auf Auslagenersatz abgesehen
 werden.
 
-(3) Um in den in Absatz 1 genannten Fällen sofort wirksam helfen zu
-können, sollen die Konsularbeamten eine Liste der in ihrem
+(3) Um in den in Absatz 1 genannten Fällen sofort wirksam helfen
+zu können, sollen die Konsularbeamten eine Liste der in ihrem
 Konsularbezirk ansässigen Deutschen und anderer Schutzbefohlener sowie
 ihrer Familienangehörigen erstellen und auf dem laufenden halten.
 Dabei ist auch die Verarbeitung der Identifikationsnummer nach dem
@@ -226,19 +187,19 @@ verstorbenen Deutschen benachrichtigen und bei einer verlangten
 Überführung der Verstorbenen mitwirken.
 
 (2) Die Konsularbeamten sind berufen, sich der in ihrem Konsularbezirk
-befindlichen Nachlässe von Deutschen anzunehmen, wenn die Erben
-unbekannt oder abwesend sind oder aus anderen Gründen ein Bedürfnis
-für ein amtliches Einschreiten besteht. Sie können dabei insbesondere
-Siegel anlegen, ein Nachlaßverzeichnis aufnehmen und bewegliche
-Nachlaßgegenstände, soweit die Umstände es erfordern, in Verwahrung
-nehmen oder veräußern. Sie können ferner Zahlungen von
-Nachlaßschuldnern entgegennehmen und Mittel aus dem Nachlaß zur
-Regelung feststehender Nachlaßverbindlichkeiten sowie von
+befindlichen Nachlässe von Deutschen anzunehmen, wenn die
+Erben unbekannt oder abwesend sind oder aus anderen Gründen ein
+Bedürfnis für ein amtliches Einschreiten besteht. Sie können dabei
+insbesondere Siegel anlegen, ein Nachlaßverzeichnis aufnehmen und
+bewegliche Nachlaßgegenstände, soweit die Umstände es erfordern,
+in Verwahrung nehmen oder veräußern. Sie können ferner Zahlungen
+von Nachlaßschuldnern entgegennehmen und Mittel aus dem Nachlaß
+zur Regelung feststehender Nachlaßverbindlichkeiten sowie von
 Verpflichtungen verwenden, die bei der Fürsorge für den Nachlaß
 entstanden sind.
 
-(3) Können Erben oder sonstige Berechtigte nicht ermittelt werden, so
-können Nachlaßgegenstände oder Erlös aus deren Veräußerung an das
+(3) Können Erben oder sonstige Berechtigte nicht ermittelt werden,
+so können Nachlaßgegenstände oder Erlös aus deren Veräußerung an das
 Gericht des letzten gewöhnlichen Aufenthalts des Erblassers im Inland
 oder - wenn sich ein solcher gewöhnlicher Aufenthalt nicht feststellen
 läßt - an das Amtsgericht Schöneberg in Berlin als Nachlaßgericht
@@ -247,18 +208,18 @@ läßt - an das Amtsgericht Schöneberg in Berlin als Nachlaßgericht
 
 ### § 9a ...
 
-(1) Die §§ 5 bis 7 und 9, mit Ausnahme des § 6 Absatz 3 und des § 9
-Absatz 2 und 3, sind entsprechend auf Unionsbürgerinnen und
+(1) Die §§ 5 bis 7 und 9, mit Ausnahme des § 6 Absatz 3 und des
+§ 9 Absatz 2 und 3, sind entsprechend auf Unionsbürgerinnen und
 Unionsbürger anzuwenden, die im Drittland nicht vertreten sind.
 
 (2) Abweichend von § 5 Absatz 5 und § 6 Absatz 2 kann die
-Bundesrepublik Deutschland als hilfeleistender Mitgliedstaat der
-Europäischen Union (Mitgliedstaat) den Mitgliedstaat, dessen
+Bundesrepublik Deutschland als hilfeleistender Mitgliedstaat
+der Europäischen Union (Mitgliedstaat) den Mitgliedstaat, dessen
 Staatsangehörigkeit die nicht vertretenen Unionsbürgerinnen und
 Unionsbürger besitzen, für die Auslagen in Anspruch nehmen.
 
-(3) Die Bundesrepublik Deutschland erstattet einem Mitgliedstaat, der
-einem Deutschen Hilfe leistet, die Auslagen, sofern dieser
+(3) Die Bundesrepublik Deutschland erstattet einem Mitgliedstaat,
+der einem Deutschen Hilfe leistet, die Auslagen, sofern dieser
 Mitgliedstaat die Bundesrepublik Deutschland für die Auslagen in
 Anspruch nimmt. Der deutsche Hilfeempfänger ist der Bundesrepublik
 Deutschland zum Ersatz dieser Auslagen verpflichtet.
@@ -273,48 +234,55 @@ Vermerke aufzunehmen, insbesondere
 1.  vor ihnen abgegebene Willenserklärungen und Versicherungen an Eides
     statt zu beurkunden,
 
-
 2.  Unterschriften, Handzeichen sowie Abschriften zu beglaubigen oder
     sonstige einfache Zeugnisse (z.B. Lebensbescheinigungen) auszustellen.
-
-
-
 
 (2) Die von einem Konsularbeamten aufgenommenen Urkunden stehen den
 von einem inländischen Notar aufgenommenen gleich.
 
 (3) Für das Verfahren bei der Beurkundung gelten die Vorschriften des
-Beurkundungsgesetzes vom 28. August 1969 (Bundesgesetzbl. I S. 1513)
-mit folgenden Abweichungen:
+Beurkundungsgesetzes mit folgenden Abweichungen:
 
 1.  Urkunden können auf Verlangen auch in einer anderen als der deutschen
     Sprache errichtet werden.
 
-
 2.  Dolmetscher brauchen nicht vereidigt zu werden.
-
 
 3.  Die Abschrift einer nicht beglaubigten Abschrift soll nicht beglaubigt
     werden.
 
-
 4.  Die Urschrift einer Niederschrift soll den Beteiligten ausgehändigt
-    werden, wenn nicht einer von ihnen amtliche Verwahrung verlangt. In
-    diesem Fall soll die Urschrift dem Amtsgericht Schöneberg in Berlin
-    zur amtlichen Verwahrung übersandt werden. Hat sich einer der
-    Beteiligten der Zwangsvollstreckung unterworfen, so soll die Urschrift
-    der Niederschrift dem Gläubiger ausgehändigt werden, wenn die
-    Beteiligten keine anderweitige Bestimmung getroffen haben und auch
+    werden, wenn nicht einer von ihnen amtliche Verwahrung verlangt.
+    In diesem Fall soll die Urschrift dem Amtsgericht Schöneberg in
+    Berlin zur amtlichen Verwahrung übersandt werden. Hat sich einer
+    der Beteiligten der Zwangsvollstreckung unterworfen, so soll die
+    Urschrift der Niederschrift dem Gläubiger ausgehändigt werden, wenn
+    die Beteiligten keine anderweitige Bestimmung getroffen haben und auch
     keiner von ihnen amtliche Verwahrung verlangt hat.
-
 
 5.  Solange die Urschrift nicht ausgehändigt oder an das Amtsgericht
     abgesandt ist, sind die Konsularbeamten befugt, Ausfertigungen zu
-    erteilen. Vollstreckbare Ausfertigungen können nur von dem Amtsgericht
-    erteilt werden, das die Urschrift verwahrt.
+    erteilen. Wem und an welchem Tag eine Ausfertigung erteilt worden ist,
+    soll auf der Urschrift vermerkt werden. Vollstreckbare Ausfertigungen
+    können nur von dem Amtsgericht erteilt werden, das die Urschrift
+    verwahrt.
 
+6.  Mit elektronischen Niederschriften (§ 8 Absatz 2 und § 36 Absatz
+    2 des Beurkundungsgesetzes) und elektronischen Vermerken im Sinne
+    des § 39a des Beurkundungsgesetzes muss eine Bestätigung der
+    Konsularbeamteneigenschaft durch die zuständige Stelle verbunden
+    werden.
 
-
+7.  Ein nach § 8 Absatz 2 oder § 36 Absatz 2 des Beurkundungsgesetzes
+    erstelltes elektronisches Dokument soll den Beteiligten überlassen
+    werden. Verlangt einer der Beteiligten eine amtliche Verwahrung, so
+    soll das elektronische Dokument dem Amtsgericht Schöneberg in Berlin
+    zur amtlichen Verwahrung übermittelt werden. Das vom Amtsgericht
+    Schöneberg in Berlin verwahrte elektronische Dokument gilt als
+    Urschrift. Ergibt sich aus einer Rechtsvorschrift die Pflicht, auf der
+    amtlich verwahrten Urschrift etwas zu vermerken, so ist der Vermerk in
+    einem gesonderten elektronischen Dokument niederzulegen, das zusammen
+    mit dem amtlich verwahrten elektronischen Dokument zu verwahren ist.
 
 
 ### § 11 Besonderheiten für Verfügungen von Todes wegen
@@ -324,8 +292,8 @@ beurkunden, wenn die Erblasser Deutsche sind. Die §§ 2232, 2233 und
 2276 des Bürgerlichen Gesetzbuchs sind entsprechend anzuwenden.
 
 (2) Für die besondere amtliche Verwahrung (§§ 34, 34a des
-Beurkundungsgesetzes, § 342 Abs. 1 Nr. 1 des Gesetzes über das
-Verfahren in Familiensachen und in den Angelegenheiten der
+Beurkundungsgesetzes, § 342 Abs. 1 Nr. 1 des Gesetzes über
+das Verfahren in Familiensachen und in den Angelegenheiten der
 freiwilligen Gerichtsbarkeit) ist das Amtsgericht Schöneberg in Berlin
 zuständig. Der Erblasser kann jederzeit die Verwahrung bei einem
 anderen Amtsgericht verlangen.
@@ -345,20 +313,15 @@ Die Konsularbeamten sind befugt,
 
 1.  Auflassungen entgegenzunehmen,
 
-
-2.  Versicherungen an Eides statt abzunehmen, die zur Erlangung eines
-    Erbscheins, eines Europäischen Nachlasszeugnisses, eines
+2.  Versicherungen an Eides statt abzunehmen, die zur Erlangung
+    eines Erbscheins, eines Europäischen Nachlasszeugnisses, eines
     Testamentsvollstreckerzeugnisses oder eines Zeugnisses über die
     Fortsetzung der Gütergemeinschaft abgegeben werden,
-
 
 3.  einem Deutschen auf dessen Antrag den Eid abzunehmen, wenn der Eid
     nach dem Recht eines ausländischen Staates oder nach den Bestimmungen
     einer ausländischen Behörde oder sonst zur Wahrnehmung von Rechten im
     Ausland erforderlich ist.
-
-
-
 
 
 ### § 13 Legalisation ausländischer öffentlicher Urkunden
@@ -373,17 +336,42 @@ versehen ist (Legalisation im engeren Sinn).
 
 (3) Die Legalisation wird durch einen auf die Urkunde zu setzenden
 Vermerk vollzogen. Der Vermerk soll den Namen und die Amts- oder
-Dienstbezeichnung des Unterzeichners der Urkunde enthalten. Er soll
-den Ort und den Tag seiner Ausstellung angeben und ist mit
+Dienstbezeichnung des Unterzeichners der Urkunde enthalten. Er
+soll den Ort und den Tag seiner Ausstellung angeben und ist mit
 Unterschrift und Präge- oder Farbdrucksiegel zu versehen.
 
 (4) Auf Antrag kann, sofern über die Rechtslage kein Zweifel besteht,
 in dem Vermerk auch bestätigt werden, daß der Aussteller zur Aufnahme
-der Urkunde zuständig war und daß die Urkunde in der den Gesetzen des
-Ausstellungsorts entsprechenden Form aufgenommen worden ist
+der Urkunde zuständig war und daß die Urkunde in der den Gesetzen
+des Ausstellungsorts entsprechenden Form aufgenommen worden ist
 (Legalisation im weiteren Sinn).
 
-(5) Urkunden, die gemäß zwei- oder mehrseitiger völkerrechtlicher
+(5) Eine ausländische elektronische Urkunde kann zur Legalisation mit
+einem elektronischen Vermerk versehen werden, wenn sie zur Überzeugung
+des Konsularbeamten aufgrund eines der folgenden elektronischen
+Sicherheitsmerkmale als echt anzusehen ist:
+
+1.  einer Signatur, die die Anforderungen an fortgeschrittene
+    elektronische Signaturen nach Artikel 3 Nummer 11 der Verordnung
+    (EU) 910/2014 erfüllt, oder eines Siegels, das die Anforderungen an
+    fortgeschrittene elektronische Siegel nach Artikel 3 Nummer 26 der
+    Verordnung (EU) 910/2014 erfüllt, oder
+
+2.  einer anderen Methode, die nach Einschätzung des Konsularbeamten ein
+    gleichwertiges Sicherheitsniveau gewährleistet.
+
+Der elektronische Vermerk soll Ort und Tag seiner Ausstellung nennen
+und das Ergebnis der Prüfung der elektronischen Sicherheitsmerkmale
+dokumentieren. Der elektronische Vermerk ist mit einer qualifizierten
+elektronischen Signatur, aus der die Amtsträgereigenschaft des
+Konsularbeamten hervorgeht, zu versehen. Bei der Legalisierung ist der
+Bezug zwischen dem elektronischen Vermerk und der zu legalisierenden
+ausländischen elektronischen Urkunde durch kryptografische Verfahren
+nach dem Stand der Technik herzustellen. Die elektronischen
+Sicherheitsmerkmale der ausländischen elektronischen Urkunde sollen
+dabei erhalten bleiben.
+
+(6) Urkunden, die gemäß zwei- oder mehrseitiger völkerrechtlicher
 Übereinkunft von der Legalisation befreit sind, sollen nicht
 legalisiert werden.
 
@@ -395,8 +383,8 @@ Konsularbezirk die Echtheit im Inland ausgestellter öffentlicher
 Urkunden zu bestätigen.
 
 (2) Die Bestätigung soll nur erteilt werden, wenn der Konsularbeamte
-keinen Zweifel an der Echtheit hat. Von der Echtheit kann er in der
-Regel ausgehen, wenn die Urkunde ihm von der Stelle, die sie
+keinen Zweifel an der Echtheit hat. Von der Echtheit kann er in
+der Regel ausgehen, wenn die Urkunde ihm von der Stelle, die sie
 aufgenommen hat, zugeleitet worden ist.
 
 
@@ -428,11 +416,11 @@ entsprechend.
 
 ### § 16 Zustellungen
 
-Die Konsularbeamten sind berufen, auf Ersuchen deutscher Gerichte und
-Behörden Personen, die sich in ihrem Konsularbezirk aufhalten,
-Schriftstücke jeder Art zuzustellen. Über die erfolgte Zustellung ist
-ein schriftliches Zeugnis auszustellen und der ersuchenden Stelle zu
-übersenden.
+Die Konsularbeamten sind berufen, auf Ersuchen deutscher Gerichte
+und Behörden Personen, die sich in ihrem Konsularbezirk aufhalten,
+Schriftstücke jeder Art zuzustellen. Über die erfolgte Zustellung
+ist ein schriftliches Zeugnis auszustellen und der ersuchenden Stelle
+zu übersenden.
 
 
 ### § 17 Aufnahme von Verklarungen
@@ -443,12 +431,11 @@ Die Konsularbeamten sind befugt, Verklarungen aufzunehmen.
 ## 3. Abschnitt - Die Berufskonsularbeamten
 
 
-
 ### § 18 Kreis der Berufskonsularbeamten
 
-(1) Berufskonsularbeamte im Sinne dieses Gesetzes sind die bei den
-diplomatischen oder berufskonsularischen Vertretungen der
-Bundesrepublik Deutschland im Ausland mit der Wahrnehmung
+(1) Berufskonsularbeamte im Sinne dieses Gesetzes sind die
+bei den diplomatischen oder berufskonsularischen Vertretungen
+der Bundesrepublik Deutschland im Ausland mit der Wahrnehmung
 konsularischer Aufgaben im Sinne der §§ 1 und 2 beauftragten Personen.
 
 (2) Voraussetzung für die Erteilung des Auftrags ist, daß der zu
@@ -458,8 +445,8 @@ Ausbildung und seiner beruflichen Erfahrungen die erforderlichen
 Fähigkeiten für die sachgemäße Erledigung der ihm anzuvertrauenden
 Amtsgeschäfte besitzt.
 
-(3) Berufskonsularbeamte sind auch Bedienstete im Sinne der Absätze 1
-und 2, die, ohne Honorarkonsularbeamte zu sein, vom Auswärtigen Amt
+(3) Berufskonsularbeamte sind auch Bedienstete im Sinne der Absätze
+1 und 2, die, ohne Honorarkonsularbeamte zu sein, vom Auswärtigen Amt
 zur Wahrnehmung konsularischer Aufgaben einem Honorarkonsularbeamten
 zugeteilt werden.
 
@@ -474,13 +461,9 @@ befugt.
 
 1.  Willenserklärungen und eidesstattliche Versicherungen beurkunden,
 
-
 2.  Auflassungen entgegennehmen und
 
-
 3.  Versicherungen an Eides statt abnehmen,
-
-
 
 wenn sie hierzu vom Auswärtigen Amt besonders ermächtigt sind. Sie
 können nur dann
@@ -488,21 +471,17 @@ können nur dann
 1.  Vernehmungen und Anhörungen, durch die eine richterliche Vernehmung
     ersetzt werden soll, vornehmen,
 
-
 2.  Verklarungen aufnehmen und
 
-
 3.  Eide abnehmen,
-
-
 
 wenn sie hierzu vom Auswärtigen Amt besonders ermächtigt sind.
 
 (3) Die Ermächtigung nach Absatz 2 Satz 2 kann nur
 Berufskonsularbeamten des höheren Auswärtigen Dienstes erteilt werden.
-Sie setzt ebenso wie die Ermächtigung nach Absatz 2 Satz 1 voraus, daß
-der betreffende Berufskonsularbeamte auf Grund seiner Ausbildung und
-beruflichen Erfahrung die erforderlichen Fähigkeiten für eine
+Sie setzt ebenso wie die Ermächtigung nach Absatz 2 Satz 1 voraus,
+daß der betreffende Berufskonsularbeamte auf Grund seiner Ausbildung
+und beruflichen Erfahrung die erforderlichen Fähigkeiten für eine
 sachgemäße Erledigung der ihm anzuvertrauenden Amtsgeschäfte besitzt.
 
 (4) Die Ermächtigung kann auf die Wahrnehmung einzelner der in Absatz
@@ -510,7 +489,6 @@ sachgemäße Erledigung der ihm anzuvertrauenden Amtsgeschäfte besitzt.
 
 
 ## 4. Abschnitt - Die Honorarkonsularbeamten
-
 
 
 ### § 20 Kreis der Honorarkonsularbeamten
@@ -526,17 +504,14 @@ ernannt werden.
 
 (2) Vor der Ernennung zum Honorarkonsularbeamten ist insbesondere zu
 prüfen, ob der Bewerber nach seiner Persönlichkeit, seiner beruflichen
-Erfahrung, seiner Stellung im Empfangsstaat, seiner Vertrautheit mit
-den Verhältnissen in dem für ihn vorgesehenen Konsularbezirk und
+Erfahrung, seiner Stellung im Empfangsstaat, seiner Vertrautheit
+mit den Verhältnissen in dem für ihn vorgesehenen Konsularbezirk und
 seinen Sprachkenntnissen für das Amt geeignet erscheint.
 Wird ein Ausländer ernannt, so hat er folgendes Gelöbnis zu leisten:
 
-*   "Ich gelobe, meine Amtspflichten als Honorarkonsularbeamter der
+-   "Ich gelobe, meine Amtspflichten als Honorarkonsularbeamter der
     Bundesrepublik Deutschland nach den für mein Amt maßgebenden Gesetzen
     und Weisungen treu und gewissenhaft zu erfüllen."
-
-
-
 
 
 ### § 22 Besondere Pflichten
@@ -577,7 +552,6 @@ unterwerfen.
 ## 5. Abschnitt - Gebühren, Auslagen und Kostenerstattung
 
 
-
 ### § 25 Gebühren und Auslagen
 
 (1) Das Auswärtige Amt, die Vertretungen des Bundes im Ausland sowie
@@ -586,8 +560,8 @@ Bundesgebührengesetz, soweit in diesem Abschnitt nichts anderes
 bestimmt ist.
 
 (2) Die Gebührenschuld entsteht, sofern für die individuell
-zurechenbare Leistung ein Antrag notwendig ist, mit dessen Eingang bei
-der Auslandsvertretung oder mit dessen Eingang beim
+zurechenbare Leistung ein Antrag notwendig ist, mit dessen
+Eingang bei der Auslandsvertretung oder mit dessen Eingang beim
 Honorarkonsularbeamten. Im Übrigen entsteht die Gebühr mit der
 Beendigung der individuell zurechenbaren öffentlichen Leistung. Die
 Verpflichtung zur Erstattung von Auslagen entsteht mit der Aufwendung
@@ -598,8 +572,8 @@ des zu erstattenden Betrags.
 
 (1) Wird die individuell zurechenbare öffentliche Leistung von einem
 Honorarkonsularbeamten vorgenommen, so ist dieser Gebührengläubiger.
-Bei der auf Antrag erfolgenden Erfassung der Daten einschließlich der
-biometrischen Identifikatoren, Entgegennahme, Durchsicht und
+Bei der auf Antrag erfolgenden Erfassung der Daten einschließlich
+der biometrischen Identifikatoren, Entgegennahme, Durchsicht und
 Weiterleitung von Anträgen im Pass- und Personalausweisverfahren
 handelt es sich um eine individuell zurechenbare öffentliche Leistung
 der Honorarkonsularbeamten.
@@ -617,9 +591,9 @@ Aufwendungen, so kann er deren Erstattung beanspruchen.
 ### § 25b Gebührenbemessung
 
 (1) Für die Gebührenerhebung nach § 25, insbesondere für die
-notariellen Tätigkeiten der Vertretungen des Bundes im Ausland sowie
-der Honorarkonsularbeamten, können auch der Wert und die Bedeutung der
-individuell zurechenbaren öffentlichen Leistung für den
+notariellen Tätigkeiten der Vertretungen des Bundes im Ausland
+sowie der Honorarkonsularbeamten, können auch der Wert und die
+Bedeutung der individuell zurechenbaren öffentlichen Leistung für den
 Gebührenschuldner bei der Gebührenbemessung berücksichtigt werden. Für
 die Bemessung der Gebühr gelten die Vorschriften der Kapitel 1 und 3,
 Anlage 1 Teil 2 und 3, Anlage 2 des Gerichts- und Notarkostengesetzes
@@ -628,16 +602,16 @@ entsprechend, soweit nach Absatz 2 nichts anderes bestimmt ist.
 (2) Durch Besondere Gebührenverordnung des Auswärtigen Amts nach § 22
 Absatz 4 des Bundesgebührengesetzes können auch andere Bezugsgrößen
 oder Maßstäbe zur Bestimmung des Wertes oder der Bedeutung der
-individuell zurechenbaren öffentlichen Leistung nach Absatz 1 Satz 1
-bestimmt werden. Danach kann insbesondere angeordnet werden, dass die
-Gebühr nach der Seiten- und Zeilenzahl sowie nach Sprachgruppen
+individuell zurechenbaren öffentlichen Leistung nach Absatz 1 Satz
+1 bestimmt werden. Danach kann insbesondere angeordnet werden, dass
+die Gebühr nach der Seiten- und Zeilenzahl sowie nach Sprachgruppen
 bestimmt wird.
 
 
 ### § 25c Wertgebühren
 
-(1) Durch Besondere Gebührenverordnung des Auswärtigen Amts nach § 22
-Absatz 4 des Bundesgebührengesetzes kann eine Gebühr auch nach dem
+(1) Durch Besondere Gebührenverordnung des Auswärtigen Amts nach §
+22 Absatz 4 des Bundesgebührengesetzes kann eine Gebühr auch nach dem
 Wert des Gegenstandes (Wertgebühr) bestimmt werden.
 
 (2) Der Antragsteller ist verpflichtet, die zur Feststellung des
@@ -647,10 +621,10 @@ Wertes erforderlichen Angaben zu machen.
 ### § 25d Zuschläge
 
 Durch Besondere Gebührenverordnung des Auswärtigen Amts nach § 22
-Absatz 4 des Bundesgebührengesetzes kann bestimmt werden, dass von den
-Auslandsvertretungen und den Honorarkonsularbeamten zum Ausgleich von
-Kaufkraftunterschieden oder zur Anpassung an höhere Gebührensätze für
-vergleichbare individuell zurechenbare öffentliche Leistungen im
+Absatz 4 des Bundesgebührengesetzes kann bestimmt werden, dass von
+den Auslandsvertretungen und den Honorarkonsularbeamten zum Ausgleich
+von Kaufkraftunterschieden oder zur Anpassung an höhere Gebührensätze
+für vergleichbare individuell zurechenbare öffentliche Leistungen im
 Gastland ein Zuschlag erhoben werden kann. Der Zuschlag kann bis zu
 200 Prozent der Gebühren betragen.
 
@@ -665,8 +639,8 @@ ist.
 ### § 26 Erstattungsansprüche bei Amtshilfe
 
 (1) Im Falle der Amtshilfe hat die ersuchende Behörde keine
-Verwaltungsgebühr zu entrichten. Auslagen hat sie auf Anforderung zu
-erstatten, wenn sie im Einzelfall 25 Euro übersteigen. Wird die
+Verwaltungsgebühr zu entrichten. Auslagen hat sie auf Anforderung
+zu erstatten, wenn sie im Einzelfall 70 Euro übersteigen. Wird die
 Amtshilfe für eine Bundesbehörde geleistet, so werden die Auslagen
 nicht erstattet.
 
@@ -677,7 +651,6 @@ Dritten hierfür geschuldeten Gebühren und Auslagen zu.
 
 
 ## 6. Abschnitt - Übergangs- und Schlußvorschriften
-
 
 
 ### § 27 Begriffsbestimmung

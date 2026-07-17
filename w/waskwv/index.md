@@ -34,10 +34,10 @@ werden nach Maßgabe dieser Verordnung steuerlich begünstigt.
 
 ## § 2 Steuerbegünstigte Anlagen
 
-(1) Die steuerliche Begünstigung erstreckt sich nur auf die Anlagen
-zur Erzeugung elektrischer Arbeit durch Wasserkräfte
-(Wasserkraftwerke). Zu den Wasserkraftwerken gehören auch die Anlagen
-zur Fortleitung der erzeugten elektrischen Arbeit bis zu den
+(1) Die steuerliche Begünstigung erstreckt sich nur auf die
+Anlagen zur Erzeugung elektrischer Arbeit durch Wasserkräfte
+(Wasserkraftwerke). Zu den Wasserkraftwerken gehören auch die
+Anlagen zur Fortleitung der erzeugten elektrischen Arbeit bis zu den
 Abspannketten der Fernleitungen.
 
 (2) Die steuerliche Begünstigung kann auf Antrag auch für die Anlagen
@@ -68,8 +68,7 @@ unterhält.
 
 ## § 5 Vermögensteuer und Aufbringungsumlage
 
-Die Vermögensteuer
-und die Aufbringungsumlage,              die auf die
+Die Vermögensteuer *und die Aufbringungsumlage,* die auf die
 steuerbegünstigten Anlagen entfallen, sind während der Bauzeit nicht
 zu entrichten. Sie ermäßigen sich ab dem Betriebsbeginn für die Dauer
 von zwanzig Jahren auf die Hälfte der gesetzlichen Beträge.
@@ -95,9 +94,9 @@ vom Hundert der Anschaffungs- oder Herstellungskosten betragen.
 
 (2) Die Bundesregierung wird ermächtigt, mit Zustimmung des
 Bundesrates durch Rechtsverordnung zu bestimmen, wie der Gesamtbetrag
-der Absetzung für Abnutzung auf die einzelnen Jahre zu verteilen ist.
-Bleibt die Summe der Absetzungen für Abnutzung eines Jahres hinter dem
-danach maßgebenden Betrag zurück, so tritt die steuerliche
+der Absetzung für Abnutzung auf die einzelnen Jahre zu verteilen
+ist. Bleibt die Summe der Absetzungen für Abnutzung eines Jahres
+hinter dem danach maßgebenden Betrag zurück, so tritt die steuerliche
 Begünstigung für dieses Jahr nicht ein.
 
 
@@ -118,16 +117,11 @@ Begünstigung für dieses Jahr nicht ein.
 a)  bei der Veranlagung zur Einkommensteuer und zur Körperschaftsteuer für
     das Kalenderjahr 1943;
 
-
 b)  bei der Veranlagung zur Vermögensteuer und zur Aufbringungsumlage für
     das Rechnungsjahr 1943;
 
-
 c)  bei der Festsetzung der einheitlichen Gewerbesteuermeßbeträge für das
     Kalenderjahr 1943.
-
-
-
 
 (2) ...
 

@@ -1,5 +1,5 @@
 ---
-Title: Anordnung über die Errichtung der "Stiftung Demokratische Jugend"
+Title: "Anordnung über die Errichtung der \"Stiftung Demokratische Jugend\""
 jurabk: DJStiftAnO
 layout: default
 origslug: djstiftano
@@ -15,6 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   GBl DDR I: 1990, 1473
 
+Fundstelle
+:   GBl DDR I: 1990, Nr 60, 1473
 
 
 ## § 1
@@ -22,18 +24,7 @@ Fundstelle
 Der Minister für Jugend und Sport errichtet aus Mitteln des ehemaligen
 zentralen "Kontos Junger Sozialisten" in Höhe von 20 Millionen DM die
 
-*
-    *
-        *   "Stiftung Demokratische Jugend".
-
-
-
-
-
-
-
-
-
+-   -   -   "Stiftung Demokratische Jugend".
 
 
 ## § 2

@@ -1,7 +1,5 @@
 ---
-Title: Gesetz zu dem Abkommen vom 4. Dezember 1973 zwischen der Bundesrepublik Deutschland
-  und dem Spanischen Staat über Soziale Sicherheit und dem Ergänzungsabkommen vom
-  17. Dezember 1975
+Title: Gesetz zu dem Abkommen vom 4. Dezember 1973 zwischen der Bundesrepublik Deutschland und dem Spanischen Staat über Soziale Sicherheit und dem Ergänzungsabkommen vom 17. Dezember 1975
 jurabk: SozSichAbk2ErgAbkESPG
 layout: default
 origslug: sozsichabk2ergabkespg
@@ -70,10 +68,7 @@ durch Rechtsverordnung mit Zustimmung des Bundesrates Vereinbarungen
 
 1.  nach Artikel 45 Abs. 1 des Abkommens vom 4. Dezember 1973,
 
-
 2.  nach Artikel 10 Abs. 2 oder Artikel 11 Abs. 2 der Zusatzvereinbarung
-
-
 
 in Kraft zu setzen.
 
@@ -84,11 +79,8 @@ erfolgt die Bestimmung
     Aufenthaltsortes gemäß Artikel 1 Nr. 8 des Abkommens vom 4. Dezember
     1973 und
 
-
 2.  anderer Verbindungsstellen sowie anderer zuständiger Träger gemäß
     Artikel 4 der Zusatzvereinbarung
-
-
 
 durch Rechtsverordnung des Bundesministers für Arbeit und
 Sozialordnung mit Zustimmung des Bundesrates.

@@ -1,6 +1,5 @@
 ---
-Title: Anordnung über die Übertragung von Befugnissen auf dem Gebiet des  Disziplinarrechts
-  im Bereich der Deutschen Rentenversicherung Bund
+Title: Anordnung über die Übertragung von Befugnissen auf dem Gebiet des Disziplinarrechts im Bereich der Deutschen Rentenversicherung Bund
 jurabk: RVBundDiszRAnO
 layout: default
 origslug: rvbunddiszrano
@@ -8,14 +7,13 @@ slug: rvbunddiszrano
 
 ---
 
-# Anordnung über die Übertragung von Befugnissen auf dem Gebiet des  Disziplinarrechts im Bereich der Deutschen Rentenversicherung Bund (RVBundDiszRAnO)
+# Anordnung über die Übertragung von Befugnissen auf dem Gebiet des Disziplinarrechts im Bereich der Deutschen Rentenversicherung Bund (RVBundDiszRAnO)
 
 Ausfertigungsdatum
 :   2006-10-19
 
 Fundstelle
 :   BGBl I: 2006, 2500
-
 
 
 ## (XXXX)
@@ -30,26 +28,20 @@ Deutschen Rentenversicherung Bund die Befugnis übertragen,
     Bundesdisziplinargesetzes die Kürzung der Dienstbezüge bis zum
     Höchstmaß für die Beamtinnen und Beamten festzusetzen,
 
-
 2.  nach § 34 Abs. 1 in Verbindung mit § 34 Abs. 2 Satz 1 des
     Bundesdisziplinargesetzes Disziplinarklage gegen die Beamtinnen und
     Beamten zu erheben,
-
 
 3.  nach § 42 Abs. 1 des Bundesdisziplinargesetzes über den Widerspruch
     von Beamtinnen und Beamten zu entscheiden, auch soweit das Direktorium
     für die Disziplinarverfügung zuständig ist,
 
-
 4.  nach § 84 Satz 1 des Bundesdisziplinargesetzes gegenüber
     Ruhestandsbeamtinnen und Ruhestandsbeamten die Disziplinarbefugnisse
     auszuüben,
 
-
 5.  den Dienstherrn bei Klagen, die ihren Ursprung im
     Bundesdisziplinargesetz haben, zu vertreten.
-
-
 
 Diese Anordnung tritt rückwirkend am 1. Oktober 2005 in Kraft.
 

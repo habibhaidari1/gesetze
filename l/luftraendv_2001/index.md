@@ -1,6 +1,5 @@
 ---
-Title: Verordnung zur Änderung luftrechtlicher Vorschriften über den Transport gefährlicher
-  Güter und die Zulassung von Luftsportgeräten und Flugmodellen
+Title: Verordnung zur Änderung luftrechtlicher Vorschriften über den Transport gefährlicher Güter und die Zulassung von Luftsportgeräten und Flugmodellen
 jurabk: LuftRÄndV 2001
 layout: default
 origslug: luftr_ndv_2001
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 2001, 1221
-
 
 
 ## Eingangsformel
@@ -38,9 +36,9 @@ und Wohnungswesen:
 
 (2)
 
-(3) Für Hängegleiter, Gleitsegel und Sprungfallschirme, bei denen die
-Stückprüfung nach § 10 Abs. 3, 4 und 7 der Verordnung zur Prüfung von
-Luftfahrtgerät in der vor dem 1. Juli 2001 geltenden Fassung
+(3) Für Hängegleiter, Gleitsegel und Sprungfallschirme, bei denen
+die Stückprüfung nach § 10 Abs. 3, 4 und 7 der Verordnung zur Prüfung
+von Luftfahrtgerät in der vor dem 1. Juli 2001 geltenden Fassung
 bescheinigt ist, gelten die Muster- und Stückprüfung nach § 10a der
 Verordnung zur Prüfung von Luftfahrtgerät als erbracht, wenn der
 Hersteller die für die Nachprüfung und Mängelbehebung erforderlichen

@@ -1,6 +1,5 @@
 ---
-Title: Gesetz über die Umwandlung der Deutschen Siedlungs- und Landesrentenbank in
-  eine Aktiengesellschaft
+Title: Gesetz über die Umwandlung der Deutschen Siedlungs- und Landesrentenbank in eine Aktiengesellschaft
 jurabk: DSLBUmwG
 layout: default
 origslug: dslbumwg
@@ -17,14 +16,14 @@ Fundstelle
 :   BGBl I: 1999, 2441
 
 Zuletzt geändert durch
-:   Art. 11 G v. 10.7.2018 I 1102
+:   Art. 15 G v. 22.12.2023 I Nr. 411
 
 
 ## § 1 Errichtung durch Umwandlung
 
 (1) Die Deutsche Siedlungs- und Landesrentenbank, bundesunmittelbare
-Anstalt des öffentlichen Rechts, ist mit Ablauf des 31. Dezember 1999
-in eine Aktiengesellschaft umgewandelt. Die Vorschriften des
+Anstalt des öffentlichen Rechts, ist mit Ablauf des 31. Dezember
+1999 in eine Aktiengesellschaft umgewandelt. Die Vorschriften des
 Umwandlungsgesetzes sind nicht anzuwenden.
 
 (2) Die Aktiengesellschaft führt die Firma "DSL Bank
@@ -39,8 +38,8 @@ Urkunden über die Bestellung des Vorstands in beglaubigter Abschrift
 beizufügen. Die Vorstandsmitglieder haben ihre Namensunterschrift zur
 Aufbewahrung beim Gericht zu zeichnen.
 
-(4) Die Aktiengesellschaft ist unter Bezugnahme auf dieses Gesetz in
-das Handelsregister einzutragen. § 39 des Aktiengesetzes ist
+(4) Die Aktiengesellschaft ist unter Bezugnahme auf dieses Gesetz
+in das Handelsregister einzutragen. § 39 des Aktiengesetzes ist
 anzuwenden.
 
 
@@ -53,13 +52,9 @@ ist. Den Anteilsinhabern steht die folgende Zahl von Aktien zu:
 
 1.  Bundesrepublik Deutschland: 56.340.575
 
-
 2.  Land Berlin: 356.283
 
-
 3.  Freistaat Bayern: 178.141.
-
-
 
 Ferner steht der Bundesrepublik Deutschland und dem Freistaat Bayern
 eine Aktie in Bruchteilsgemeinschaft jeweils zur Hälfte zu.
@@ -97,8 +92,8 @@ finden auf den ersten Aufsichtsrat keine Anwendung.
 
 ## § 6 Erste Hauptversammlung
 
-Der Vorstand beruft die erste Hauptversammlung spätestens bis zum 31.
-März 2000 ein. Diese Hauptversammlung wählt zehn Mitglieder des
+Der Vorstand beruft die erste Hauptversammlung spätestens bis zum
+31\. März 2000 ein. Diese Hauptversammlung wählt zehn Mitglieder des
 Aufsichtsrats. Zehn weitere Aufsichtsratsmitglieder werden nach den
 Vorschriften des Mitbestimmungsgesetzes von den Arbeitnehmern gewählt.
 
@@ -111,33 +106,31 @@ folgenden Absätze ausgeben.
 
 (2) Der Gesamtbetrag der von der Aktiengesellschaft ausgegebenen und
 im Umlauf befindlichen gedeckten Schuldverschreibungen muss in Höhe
-des Nennwertes und der Zinsen jederzeit gedeckt sein. Als Deckung sind
-zulässig ordentliche Deckungswerte nach dem Pfandbriefgesetz,
-Darlehensforderungen, für die sichere Grundpfandrechte bestehen, sowie
-Hypothekenpfandbriefe und Öffentliche Pfandbriefe nach dem
+des Nennwertes und der Zinsen jederzeit gedeckt sein. Als Deckung
+sind zulässig ordentliche Deckungswerte nach dem Pfandbriefgesetz,
+Darlehensforderungen, für die sichere Grundpfandrechte bestehen,
+sowie Hypothekenpfandbriefe und Öffentliche Pfandbriefe nach dem
 Pfandbriefgesetz.
 
-(3) Die in Absatz 2 vorgeschriebene ordentliche Deckung kann durch
-Guthaben bei der Deutschen Bundesbank und bei geeigneten
+(3) Die in Absatz 2 vorgeschriebene ordentliche Deckung kann
+durch Guthaben bei der Deutschen Bundesbank und bei geeigneten
 Kreditinstituten ersetzt werden (Ersatzdeckung). Die Ersatzdeckung
 darf zehn vom Hundert des gesamten Umlaufs an gedeckten
 Schuldverschreibungen der Aktiengesellschaft nicht übersteigen.
 
 (4) Die zur Deckung der Schuldverschreibungen bestimmten
 Vermögenswerte einschließlich der Ersatzdeckung sind von der
-Aktiengesellschaft einzeln in ein Register einzutragen. § 5 Abs. 1 und
-2 des Pfandbriefgesetzes gilt entsprechend.
+Aktiengesellschaft einzeln in ein Register einzutragen. § 5 Absatz
+1 Satz 1, 3 bis 5, Absatz 1a Satz 1, 4 und 5, Absatz 1b und 2
+des Pfandbriefgesetzes sowie eine aufgrund des § 5 Absatz 3 des
+Pfandbriefgesetzes erlassene Rechtsverordnung gelten entsprechend.
 
-(5) Das Bundesaufsichtsamt für das Kreditwesen bestellt bis spätestens
-31\. März 2000 einen Treuhänder und einen Stellvertreter. Der
-Treuhänder hat darauf zu achten, dass die Ausgabe, Verwaltung und
-Deckung der Schuldverschreibungen den gesetzlichen und satzungsmäßigen
-Bestimmungen und den Anleihebedingungen entsprechen. § 7 Abs. 3 und 4
-und die §§ 8 bis 11 des Pfandbriefgesetzes gelten entsprechend. Der
-Treuhänder der Deutschen Siedlungs- und Landesrentenbank nimmt bis zum
-Amtsantritt des neuen Treuhänders dessen Aufgaben wahr. § 22 der
-Satzung der Deutschen Siedlungs- und Landesrentenbank in der vor der
-Umwandlung geltenden Fassung ist insoweit weiterhin anzuwenden.
+(5) Die Bundesanstalt für Finanzdienstleistungsaufsicht bestellt
+einen Treuhänder und einen Stellvertreter. Der Treuhänder hat
+darauf zu achten, dass die Ausgabe, Verwaltung und Deckung
+der Schuldverschreibungen den gesetzlichen und satzungsmäßigen
+Bestimmungen und den Anleihebedingungen entsprechen. § 7 Absatz 3 bis
+5 und die §§ 8 bis 11 des Pfandbriefgesetzes gelten entsprechend.
 
 (6) § 248 Abs. 2 Satz 2 des Bürgerlichen Gesetzbuchs findet auch
 Anwendung, wenn andere Kreditinstitute Darlehen aus dem ihnen zur
@@ -172,8 +165,8 @@ nach dem Pfandbriefgesetz bilden können.
 
 (1) Die von der Deutschen Siedlungs- und Landesrentenbank begebenen
 Pfandbriefe, Kommunalobligationen, Genussscheine, nachrangigen
-Verbindlichkeiten und sonstigen Schuldverschreibungen gelten nach der
-Umwandlung als von der Aktiengesellschaft begeben. Die
+Verbindlichkeiten und sonstigen Schuldverschreibungen gelten
+nach der Umwandlung als von der Aktiengesellschaft begeben. Die
 Aktiengesellschaft unterliegt hinsichtlich der von der Deutschen
 Siedlungs- und Landesrentenbank abgeschlossenen Geschäfte auch nach
 der Umwandlung den für öffentlich-rechtliche Kreditanstalten geltenden
@@ -184,8 +177,8 @@ Darlehen sowie die von ihr übernommenen Gewährleistungen gelten auch
 nach der Umwandlung als Darlehen an eine inländische Anstalt des
 öffentlichen Rechts und als Gewährleistungen einer solchen Anstalt.
 
-(3) Die bisherigen Deckungsregister der Deutschen Siedlungs- und
-Landesrentenbank bleiben nach der Umwandlung als getrennte
+(3) Die bisherigen Deckungsregister der Deutschen Siedlungs-
+und Landesrentenbank bleiben nach der Umwandlung als getrennte
 Deckungsregister neben dem Deckungsregister nach § 7 Abs. 4 bestehen.
 Die Aufgaben des Treuhänders nach § 7 Abs. 5 Satz 5 erstrecken sich
 auf diese Deckungsregister.
@@ -199,8 +192,8 @@ Deckungswerte können weiterhin ohne Anrechnung auf die Obergrenze nach
 
 Der Bund haftet für die Erfüllung der Verbindlichkeiten der Deutschen
 Siedlungs- und Landesrentenbank, soweit diese vor Eintragung der
-Aktiengesellschaft in das Handelsregister begründet worden sind. Die
-Gläubiger der Aktiengesellschaft können den Bund nur in Anspruch
+Aktiengesellschaft in das Handelsregister begründet worden sind.
+Die Gläubiger der Aktiengesellschaft können den Bund nur in Anspruch
 nehmen, soweit sie aus dem Vermögen der Aktiengesellschaft nicht
 befriedigt werden können.
 
@@ -209,9 +202,9 @@ befriedigt werden können.
 
 (1) Die Aufgaben des Betriebsrates in den Betrieben und Betriebsteilen
 der Aktiengesellschaft nimmt der bisherige Personalrat übergangsweise
-wahr. Das Übergangsmandat endet, sobald ein Betriebsrat gewählt und
-das Wahlergebnis bekannt gegeben ist, spätestens jedoch am 30. Juni
-2000\. Die vorstehenden Sätze gelten für die Jugend- und
+wahr. Das Übergangsmandat endet, sobald ein Betriebsrat gewählt
+und das Wahlergebnis bekannt gegeben ist, spätestens jedoch am
+30\. Juni 2000. Die vorstehenden Sätze gelten für die Jugend- und
 Auszubildendenvertretungen und die Schwerbehindertenvertretung der
 Deutschen Siedlungs- und Landesrentenbank entsprechend.
 
@@ -219,9 +212,9 @@ Deutschen Siedlungs- und Landesrentenbank entsprechend.
 Landesrentenbank eingeleiteten Beteiligungsverfahren finden bis zu
 ihrem Abschluss die Bestimmungen des Bundespersonalvertretungsgesetzes
 entsprechende Anwendung. Dies gilt auch für Verfahren vor der
-Einigungsstelle und den Verwaltungsgerichten. In den Fällen der Sätze
-1 und 2 tritt in diesem Verfahren an die Stelle der Personalvertretung
-die nach dem Betriebsverfassungsgesetz zuständige
+Einigungsstelle und den Verwaltungsgerichten. In den Fällen
+der Sätze 1 und 2 tritt in diesem Verfahren an die Stelle der
+Personalvertretung die nach dem Betriebsverfassungsgesetz zuständige
 Arbeitnehmervertretung.
 
 (3) Die in der Deutschen Siedlungs- und Landesrentenbank zum Zeitpunkt
@@ -246,11 +239,11 @@ der ländlichen Siedlung zur Verbesserung der Infrastruktur und des
 Umweltschutzes sowie zur Eingliederung der aus der Landwirtschaft
 stammenden Vertriebenen, Flüchtlinge und Spätaussiedler zu fördern.
 
-(2) Die Aktiengesellschaft hat ferner das bei der Deutschen Siedlungs-
-und Landesrentenbank bestehende Sondervermögen des Bundes, das
-aufgrund des § 3 des Dritten Abschnitts der Verordnung des
-Reichspräsidenten zur Behebung finanzieller, wirtschaftlicher und
-sozialer Notstände vom 26. Juli 1930 sowie aufgrund des § 5 des
+(2) Die Aktiengesellschaft hat ferner das bei der Deutschen
+Siedlungs- und Landesrentenbank bestehende Sondervermögen des
+Bundes, das aufgrund des § 3 des Dritten Abschnitts der Verordnung
+des Reichspräsidenten zur Behebung finanzieller, wirtschaftlicher
+und sozialer Notstände vom 26. Juli 1930 sowie aufgrund des § 5 des
 Vierten Teils Kapitel II der Dritten Verordnung des Reichspräsidenten
 zur Sicherung von Wirtschaft und Finanzen und zur Bekämpfung
 politischer Ausschreitungen vom 6. Oktober 1931, des § 4 des Gesetzes
@@ -260,8 +253,8 @@ nach § 44 Abs. 2 der Bundeshaushaltsordnung als Zweckvermögen zu
 verwalten und nach Maßgabe der vorgenannten Gesetze und Verordnungen
 zu verwenden.
 
-(3) Das Bundesministerium für Ernährung und Landwirtschaft kann im
-Einvernehmen mit dem Bundesministerium der Finanzen durch
+(3) Das Bundesministerium für Ernährung und Landwirtschaft kann
+im Einvernehmen mit dem Bundesministerium der Finanzen durch
 Rechtsverordnung der Landwirtschaftlichen Rentenbank Aufgaben nach
 Absatz 1 oder 2 übertragen, soweit es sich um Aufgaben des Bundes
 handelt.
@@ -269,9 +262,9 @@ handelt.
 
 ## § 14 Verschmelzung der Aktiengesellschaft
 
-(1) Für den Fall der Verschmelzung der Aktiengesellschaft gilt für die
-Anwendung des § 67 des Umwandlungsgesetzes die Aktiengesellschaft als
-seit dem 14. September 1989 in das Register eingetragener
+(1) Für den Fall der Verschmelzung der Aktiengesellschaft gilt für
+die Anwendung des § 67 des Umwandlungsgesetzes die Aktiengesellschaft
+als seit dem 14. September 1989 in das Register eingetragener
 Rechtsträger.
 
 (2) Ist die Aktiengesellschaft im Fall der Verschmelzung nicht
@@ -279,8 +272,8 @@ Rechtsträger.
 die Ausgabe gedeckter Schuldverschreibungen sowie die §§ 10 und 13 auf
 den übernehmenden Rechtsträger entsprechend anzuwenden. Im Fall jeder
 weiteren Verschmelzung eines Rechtsnachfolgers der Aktiengesellschaft
-sind die Vorschriften des § 7 Absatz 2 bis 6 und der §§ 8 bis 10 und
-13 auf den jeweiligen übernehmenden Rechtsträger entsprechend
+sind die Vorschriften des § 7 Absatz 2 bis 6 und der §§ 8 bis 10
+und 13 auf den jeweiligen übernehmenden Rechtsträger entsprechend
 anzuwenden.
 
 

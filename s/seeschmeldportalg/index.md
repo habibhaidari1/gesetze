@@ -1,6 +1,5 @@
 ---
-Title: Gesetz über das Verfahren für die elektronische Abgabe von Meldungen für Schiffe
-  im Seeverkehr über das Zentrale Meldeportal des Bundes
+Title: Gesetz über das Verfahren für die elektronische Abgabe von Meldungen für Schiffe im Seeverkehr über das Zentrale Meldeportal des Bundes
 jurabk: SeeSchMeldPortalG
 layout: default
 origslug: seeschmeldportalg
@@ -31,11 +30,10 @@ Im Sinne dieses Gesetzes ist
 
 1.  elektronische Abgabe
 
-    die Übertragung einer zu meldenden Information durch die Eingabe in
-    ein Erfassungsmodul des Zentralen Meldeportals oder durch
+    die Übertragung einer zu meldenden Information durch die Eingabe
+    in ein Erfassungsmodul des Zentralen Meldeportals oder durch
     Datenfernübertragung in einem Format, das die direkte Verarbeitung der
     Daten im Zentralen Meldeportal erlaubt;
-
 
 2.  Meldung
 
@@ -44,21 +42,15 @@ Im Sinne dieses Gesetzes ist
 
     a)  bundesrechtlicher Vorschriften oder
 
-
     b)  unmittelbar geltender Vorschriften der Europäischen Union, die einen
         Sachbereich betreffen, für den der Bund eine Befugnis zur Gesetzgebung
         hat oder in Anspruch nehmen kann,
 
-
-
-
     (Meldevorschriften) über das Zentrale Meldeportal mitgeteilt wird;
-
 
 3.  Schiff
 
     jedes seegehende Fahrzeug;
-
 
 4.  Zentrales Meldeportal des Bundes
 
@@ -66,18 +58,15 @@ Im Sinne dieses Gesetzes ist
     von elektronisch abgegebenen Meldungen in der Seeschifffahrt
     eingerichtete und betriebene technische System (Meldeportal);
 
-
 5.  Hafenbesuch
 
     der Anlauf und das Verlassen eines Hafens durch ein Schiff sowie der
     Aufenthalt eines Schiffes in einem Hafen;
 
-
 6.  Empfangende Stelle
 
     die Behörde, die den Inhalt einer Meldung nach Maßgabe einer
     Meldevorschrift zur weiteren Verwendung erhält;
-
 
 7.  Anlaufreferenznummer
 
@@ -86,21 +75,16 @@ Im Sinne dieses Gesetzes ist
     innerhalb der oder durch die Hoheitsgewässer der Bundesrepublik
     Deutschland dient;
 
-
 8.  Meldender
 
     diejenige natürliche oder juristische Person, die aufgrund einer
     Meldevorschrift die Meldung abgibt;
-
 
 9.  Nachrichteneingang
 
     eine von der empfangenden Stelle eingerichtete und betriebene
     elektronische Eingangsstelle für Meldungen, die über das Zentrale
     Meldeportal eingehen.
-
-
-
 
 
 ## § 3 Zweck des Meldeportals
@@ -167,12 +151,9 @@ nach Maßgabe
 
 1.  landesrechtlicher Vorschriften oder
 
-
-2.  unmittelbar geltender Vorschriften der Europäischen Union, die einen
-    Sachbereich betreffen, für den den Ländern die ausschließliche
+2.  unmittelbar geltender Vorschriften der Europäischen Union, die
+    einen Sachbereich betreffen, für den den Ländern die ausschließliche
     Befugnis zur Gesetzgebung zusteht,
-
-
 
 mitzuteilen sind.
 

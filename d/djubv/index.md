@@ -22,8 +22,8 @@ Geändert durch
 ## Eingangsformel
 
 Auf Grund des § 84 des Bundesbeamtengesetzes vom 5. Februar 2009
-(BGBl. I S. 160) und des § 30 Absatz 4 in Verbindung mit § 93 Absatz 1
-Nummer 5 des Soldatengesetzes in der Fassung der Bekanntmachung vom
+(BGBl. I S. 160) und des § 30 Absatz 4 in Verbindung mit § 93 Absatz
+1 Nummer 5 des Soldatengesetzes in der Fassung der Bekanntmachung vom
 30\. Mai 2005 (BGBl. I S. 1482) verordnet die Bundesregierung:
 
 
@@ -33,10 +33,7 @@ Diese Verordnung gilt
 
 1.  für die Beamtinnen und Beamten des Bundes,
 
-
 2.  für die Soldatinnen und Soldaten.
-
-
 
 Für die Richterinnen und Richter im Bundesdienst gelten die für
 Beamtinnen und Beamte geltenden Vorschriften dieser Verordnung nach §
@@ -45,22 +42,17 @@ Beamtinnen und Beamte geltenden Vorschriften dieser Verordnung nach §
 
 ## § 2 Dienstjubiläen, Dankurkunden und Dienstjubiläumszuwendungen
 
-(1) Anlässlich des 25-jährigen, 40-jährigen und
-50-jährigen              Dienstjubiläums wird eine Dankurkunde
-ausgehändigt und wird eine Dienstjubiläumszuwendung gewährt.
+(1) Anlässlich des 25-jährigen, 40-jährigen und 50-jährigen
+Dienstjubiläums wird eine Dankurkunde ausgehändigt und wird eine
+Dienstjubiläumszuwendung gewährt.
 
 (2) Die Zuwendung beträgt nach einer Dienstzeit von
 
 1.  25 Jahren 350 Euro,
 
-
 2.  40 Jahren 500 Euro,
 
-
 3.  50 Jahren 600 Euro.
-
-
-
 
 (3) Die Absätze 1 und 2 gelten nicht für Personen, denen aus demselben
 Anlass bereits eine Zuwendung aus öffentlichen Mitteln gewährt worden
@@ -78,53 +70,35 @@ unberührt.
 
     a)  einer hauptberuflichen Tätigkeit,
 
-
     b)  einer Ausbildung,
 
-
     c)  einer Tätigkeit als Ehrenbeamtin oder Ehrenbeamter
-
-
 
     bei einem öffentlich-rechtlichen Dienstherrn (§ 29 Absatz 1 des
     Bundesbesoldungsgesetzes),
 
-
 2.  Zeiten einer Tätigkeit in einem öffentlich-rechtlichen Amtsverhältnis,
-
 
 3.  Zeiten einer Tätigkeit
 
     a)  als Mitglied des Europäischen Parlaments, des Deutschen Bundestages
         oder der gesetzgebenden Körperschaft eines Landes,
 
-
     b)  als Mitarbeiterin oder Mitarbeiter einer Fraktion
 
         aa) des Europäischen Parlaments,
 
-
         bb) des Deutschen Bundestages oder
-
 
         cc) der gesetzgebenden Körperschaft eines Landes,
 
-
-
-
-
-
-
-
 4.  Zeiten geleisteter Dienste nach § 28 Absatz 1 Satz 1 Nummer 3 des
     Bundesbesoldungsgesetzes,
-
 
 5.  Zeiten eines Urlaubs ohne Besoldung, soweit die oberste Dienstbehörde
     oder die von ihr bestimmte Stelle spätestens bei Beendigung des
     Urlaubs schriftlich oder elektronisch anerkannt hat, dass der Urlaub
     dienstlichen Interessen oder öffentlichen Belangen dient,
-
 
 6.  Zeiten einer Kinderbetreuung oder einer Pflege der Ehegattin oder des
     Ehegatten, der Lebenspartnerin oder des Lebenspartners, von Eltern,
@@ -134,21 +108,16 @@ unberührt.
     1 bis 5 nach dem für das zugrunde liegende Dienstverhältnis geltenden
     Recht unterbrochen ist.
 
-
-
-
 (2) Auf Antrag der Dienstjubilarin oder des Dienstjubilars werden
 berücksichtigt:
 
 1.  Zeiten, die durch eine nachträgliche Rechtsänderung
     berücksichtigungsfähig geworden sind,
 
-
-2.  Zeiten eines nach freiheitlich-demokratischer Auffassung nicht selbst
-    zu vertretenden Gewahrsams, der insgesamt länger als drei Monate
-    gedauert hat und infolge dessen die Leistungen nach dem
+2.  Zeiten eines nach freiheitlich-demokratischer Auffassung nicht
+    selbst zu vertretenden Gewahrsams, der insgesamt länger als drei
+    Monate gedauert hat und infolge dessen die Leistungen nach dem
     Häftlingshilfegesetz gewährt werden,
-
 
 3.  Zeiten einer Freiheitsentziehung, die insgesamt länger als drei Monate
     gedauert hat, soweit die Freiheitsentziehung auf einer Entscheidung
@@ -157,21 +126,14 @@ berücksichtigt:
 
     a)  nach dem Strafrechtlichen Rehabilitierungsgesetz,
 
-
     b)  nach dem Rehabilitierungsgesetz der Deutschen Demokratischen Republik
         vom 6. September 1990 (GBl. I Nr. 60 S. 1459) oder
 
-
     c)  nach den Vorschriften über Kassation (§§ 311 bis 327) der
         Strafprozessordnung der Deutschen Demokratischen Republik in der
-        Fassung der Bekanntmachung vom 19. Dezember 1974 (GBl. I Nr. 4 S. 62),
-        die zuletzt durch Artikel 4 Nummer 2 der Vereinbarung vom 18.
+        Fassung der Bekanntmachung vom 19. Dezember 1974 (GBl. I Nr. 4 S.
+        62), die zuletzt durch Artikel 4 Nummer 2 der Vereinbarung vom 18.
         September 1990 (BGBl. 1990 II S. 885, 1243) geändert worden ist.
-
-
-
-
-
 
 Zeiten nach Satz 1 Nummer 3 Buchstabe a werden nur berücksichtigt,
 wenn keine Ausschlussgründe für die Gewährung sozialer
@@ -209,27 +171,19 @@ Dankurkunde und die Gewährung der Zuwendung hinausgeschoben
 1.  bei Beamtinnen und Beamten bis zum Ablauf der Frist für ein
     Verwertungsverbot nach § 16 des Bundesdisziplinargesetzes,
 
-
 2.  bei Soldatinnen und Soldaten bis zum Ablauf einer Frist
 
     a)  von fünf Jahren nach Verhängung einer Kürzung der Dienstbezüge,
 
-
     b)  von sieben Jahren nach Verhängung eines Beförderungsverbots,
-
 
     c)  von acht Jahren nach Verhängung einer Herabsetzung in der
         Besoldungsgruppe oder einer Dienstgradherabsetzung.
 
-
-
-
-
-
 Satz 1 gilt entsprechend, wenn eine Disziplinarmaßnahme nur im
-Hinblick auf § 14 Absatz 1 des Bundesdisziplinargesetzes oder auf § 16
-der Wehrdisziplinarordnung nicht verhängt worden ist; in diesem Fall
-beginnt die Frist mit dem Tag, an dem die Entscheidung über die
+Hinblick auf § 14 Absatz 1 des Bundesdisziplinargesetzes oder auf §
+16 der Wehrdisziplinarordnung nicht verhängt worden ist; in diesem
+Fall beginnt die Frist mit dem Tag, an dem die Entscheidung über die
 Einstellung des Disziplinarverfahrens wirksam geworden ist.
 
 
@@ -251,9 +205,5 @@ Gleichzeitig treten außer Kraft:
     Gesetzes vom 5. Februar 2009 (BGBl. I S. 160) geändert worden ist,
     sowie
 
-
 2.  die Soldatenjubiläumsverordnung vom 24. Juli 2002 (BGBl. I S. 2806).
-
-
-
 

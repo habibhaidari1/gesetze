@@ -25,16 +25,16 @@ Neugefasst durch
 (Weingeist) und alkoholhaltige Flüssigkeiten, die zum Genuß oder zur
 Herstellung von Getränken geeignet sind. Alkoholische Waren sind auch
 Weine, weinähnliche und weinhaltige Getränke, Arzneiweine, Schaumweine
-und schaumweinähnliche Getränke, wenn ihr Alkoholgehalt 180 g in einem
-Liter oder 22 Raumhundertteile überschreitet. Bier und ähnliche
+und schaumweinähnliche Getränke, wenn ihr Alkoholgehalt 180 g in
+einem Liter oder 22 Raumhundertteile überschreitet. Bier und ähnliche
 Getränke mit einem Alkoholgehalt von weniger als 12 Raumhundertteilen,
 auch wirksam (vollständig) vergällter Spiritus und Lacke gelten nicht
 als alkoholische Waren.
 
 (2) Die Vorschriften dieses Gesetzes sind nicht anwendbar auf
 alkoholische Waren, die einen Teil des Mund- und Schiffsvorrats des
-sie befördernden Schiffes bilden oder Fahrgästen oder Mitgliedern der
-Schiffsbesatzung gehören, wenn diese Waren die für die Reise
+sie befördernden Schiffes bilden oder Fahrgästen oder Mitgliedern
+der Schiffsbesatzung gehören, wenn diese Waren die für die Reise
 erforderliche Menge nicht überschreiten und bei der Einreise in einen
 der in § 3 genannten Staaten nach dessen Zollvorschriften angemeldet
 werden.
@@ -52,8 +52,8 @@ regelmäßiger Linienfahrt und für die Beförderung auf Binnengewässern.
 
 ## § 3
 
-Schiffe von geringerem als 500 Registertonnen Nettoraumgehalt, die
-einem Staat angehören, der dem Abkommen zur Bekämpfung des
+Schiffe von geringerem als 500 Registertonnen Nettoraumgehalt,
+die einem Staat angehören, der dem Abkommen zur Bekämpfung des
 Alkoholschmuggels vom 19. August 1925 beigetreten ist, dürfen
 alkoholische Waren nur ausführen oder sonst aus dem Geltungsbereich
 dieses Gesetzes verbringen, wenn sie im Besitz einer schriftlichen
@@ -70,8 +70,8 @@ die Ehrenhaftigkeit und Vertrauenswürdigkeit des Reeders durch das
 Zeugnis einer in Sachen des Handels und der Schiffahrt zuständigen
 öffentlichen oder privaten Stelle erwiesen wird.
 
-(3) Die Genehmigung wird für die Dauer von 3 Jahren von dem Tage der
-Ausstellung ab erteilt; sie erlischt, wenn das Schiff den Reeder
+(3) Die Genehmigung wird für die Dauer von 3 Jahren von dem Tage
+der Ausstellung ab erteilt; sie erlischt, wenn das Schiff den Reeder
 wechselt.
 
 
@@ -82,20 +82,15 @@ dieses Gesetzes darf nur erfolgen,
 
 1.  wenn offensichtlich kein Schmuggelhandel vorliegt,
 
-
 2.  wenn der Kapitän des Schiffes, der Stellvertreter des Kapitäns oder
-    der Ablader der alkoholischen Waren schriftlich erklärt hat, daß die
-    an Bord des Schiffes verladenen alkoholischen Waren rechtmäßig
+    der Ablader der alkoholischen Waren schriftlich erklärt hat, daß
+    die an Bord des Schiffes verladenen alkoholischen Waren rechtmäßig
     ausgeführt oder sonst aus dem Geltungsbereich dieses Gesetzes
     verbracht und tatsächlich am Bestimmungsort nach den dort gültigen
     Bestimmungen eingeführt werden sollen und
 
-
 3.  wenn die in § 6 vorgeschriebenen Nachweise über die frühere Ausfuhr
     von alkoholischen Waren geführt sind.
-
-
-
 
 
 ## § 6
@@ -138,14 +133,10 @@ Kapitäns
 1.  entgegen § 2 alkoholische Waren befördert, ausführt oder sonst aus dem
     Geltungsbereich dieses Gesetzes verbringt oder
 
-
 2.  entgegen § 3 ohne schriftliche Genehmigung der zuständigen Behörde
     oder entgegen § 5 Nr. 2 ohne schriftliche Erklärung einer dort
     bezeichneten Person alkoholische Waren ausführt oder sonst aus dem
     Geltungsbereich dieses Gesetzes verbringt.
-
-
-
 
 (2) Die Ordnungswidrigkeit und der Versuch einer Ordnungswidrigkeit
 können in den Fällen des Absatzes 1 Nr. 1 mit einer Geldbuße bis zu

@@ -1,6 +1,5 @@
 ---
-Title: Gesetz über den unmittelbaren Zwang bei Ausübung öffentlicher Gewalt durch
-  Vollzugsbeamte des Bundes
+Title: Gesetz über den unmittelbaren Zwang bei Ausübung öffentlicher Gewalt durch Vollzugsbeamte des Bundes
 jurabk: UZwG
 layout: default
 origslug: uzwg
@@ -17,11 +16,10 @@ Fundstelle
 :   BGBl I: 1961, 165
 
 Zuletzt geändert durch
-:   Art. 43 V v. 19.6.2020 I 1328
+:   Art. 1 G v. 25.11.2025 I Nr. 281
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften über den unmittelbaren Zwang
-
 
 
 ### § 1 Rechtliche Grundlagen
@@ -47,23 +45,23 @@ Wasserwerfer, technische Sperren, Diensthunde, Dienstpferde und
 Dienstfahrzeuge.
 
 (4) Waffen sind die dienstlich zugelassenen Hieb- und Schußwaffen,
-Reizstoffe und Explosivmittel.
+Distanz-Elektroimpulsgeräte, Reizstoffe und Explosivmittel.
 
 
 ### § 3 Einschränkung von Grundrechten
 
-Soweit rechtmäßig unmittelbarer Zwang bei Ausübung öffentlicher Gewalt
-angewendet wird, werden die in Artikel 2 Abs. 2 Satz 1 und 2, Artikel
-13 Abs. 1 des Grundgesetzes für die Bundesrepublik Deutschland
+Soweit rechtmäßig unmittelbarer Zwang bei Ausübung öffentlicher
+Gewalt angewendet wird, werden die in Artikel 2 Abs. 2 Satz 1 und 2,
+Artikel 13 Abs. 1 des Grundgesetzes für die Bundesrepublik Deutschland
 geschützten Grundrechte auf Leben, körperliche Unversehrtheit,
 Freiheit der Person und Unverletzlichkeit der Wohnung eingeschränkt.
 
 
 ### § 4 Grundsatz der Verhältnismäßigkeit
 
-(1) Die Vollzugsbeamten haben bei der Anwendung unmittelbaren Zwanges
-unter mehreren möglichen und geeigneten Maßnahmen diejenigen zu
-treffen, die den einzelnen und die Allgemeinheit am wenigsten
+(1) Die Vollzugsbeamten haben bei der Anwendung unmittelbaren
+Zwanges unter mehreren möglichen und geeigneten Maßnahmen diejenigen
+zu treffen, die den einzelnen und die Allgemeinheit am wenigsten
 beeinträchtigen.
 
 (2) Ein durch eine Maßnahme des unmittelbaren Zwanges zu erwartender
@@ -74,8 +72,8 @@ Erfolg stehen.
 ### § 5 Hilfeleistung für Verletzte
 
 Wird unmittelbarer Zwang angewendet, ist Verletzten, soweit es nötig
-ist und die Lage es zuläßt, Beistand zu leisten und ärztliche Hilfe zu
-verschaffen.
+ist und die Lage es zuläßt, Beistand zu leisten und ärztliche Hilfe
+zu verschaffen.
 
 
 ### § 6 Vollzugsbeamte des Bundes
@@ -83,49 +81,38 @@ verschaffen.
 Vollzugsbeamte des Bundes nach diesem Gesetz sind
 
 1.  die Polizeivollzugsbeamten des Bundes (§ 1 des
-    Bundespolizeibeamtengesetzes vom 19. Juli 1960 - Bundesgesetzbl. I S.
-    569);
-
+    Bundespolizeibeamtengesetzes vom 19. Juli 1960 - Bundesgesetzbl. I
+    S. 569);
 
 2.  die Beamten des Zollgrenzdienstes (Grenzaufsichtsdienst und
-    Grenzabfertigungsdienst), des Zollfahndungsdienstes, des Bewachungs-
-    und Begleitungsdienstes und die übrigen Beamten der
+    Grenzabfertigungsdienst), des Zollfahndungsdienstes, des
+    Bewachungs- und Begleitungsdienstes und die übrigen Beamten der
     Bundesfinanzbehörden, die mit Vollzugsaufgaben betraut sind;
 
-
 3.  (weggefallen)
-
 
 4.  die Beamten der Wasserstraßen- und Schifffahrtsverwaltung des Bundes
     mit strom- und schifffahrtspolizeilichen Befugnissen;
 
-
 5.  (weggefallen)
 
-
-6.  die Beauftragten des Bundesamtes für Güterverkehr, soweit sie mit
-    Überwachungsaufgaben nach den §§ 11 bis 13 des
+6.  die Beauftragten des Bundesamtes für Logistik und Mobilität,
+    soweit sie mit Überwachungsaufgaben nach den §§ 11 bis 13 des
     Güterkraftverkehrsgesetzes betraut sind;
-
 
 7.  die Beamten der Bundesgerichte und der Behörden der
     Bundesjustizverwaltung, die mit Vollzugs- und Sicherungsaufgaben
     betraut sind;
 
-
 8.  andere Personen, die durch die zuständigen Bundesbehörden mit Aufgaben
     betraut sind, die den unter den Nummern 1 bis 7 aufgeführten Beamten
     obliegen;
 
-
-9.  die der Dienstgewalt von Bundesbehörden unterstehenden Personen, die
-    mit Aufgaben der Strafverfolgung oder der Verfolgung von
+9.  die der Dienstgewalt von Bundesbehörden unterstehenden Personen,
+    die mit Aufgaben der Strafverfolgung oder der Verfolgung von
     Ordnungswidrigkeiten im Sinne des Gesetzes über Ordnungswidrigkeiten
     betraut sind, wenn sie sich in Ausübung dieser Tätigkeit im
     Vollzugsdienst befinden.
-
-
-
 
 
 ### § 7 Handeln auf Anordnung
@@ -154,7 +141,6 @@ anzuwenden.
 ## Zweiter Abschnitt - Besondere Vorschriften für Fesselung und den Gebrauch von Schußwaffen und Explosivmitteln
 
 
-
 ### § 8 Fesselung von Personen
 
 Wer im Gewahrsam von Vollzugsbeamten ist, darf gefesselt werden, wenn
@@ -162,17 +148,12 @@ Wer im Gewahrsam von Vollzugsbeamten ist, darf gefesselt werden, wenn
 1.  die Gefahr besteht, daß er die Vollzugsbeamten oder Dritte angreift,
     oder wenn er Widerstand leistet;
 
-
 2.  er zu fliehen versucht oder wenn bei Würdigung aller Tatsachen,
-    besonders der persönlichen Verhältnisse und der Umstände, die einer
-    Flucht entgegenstehen, zu befürchten ist, daß er sich aus dem
+    besonders der persönlichen Verhältnisse und der Umstände, die
+    einer Flucht entgegenstehen, zu befürchten ist, daß er sich aus dem
     Gewahrsam befreien wird;
 
-
 3.  Selbstmordgefahr besteht.
-
-
-
 
 
 ### § 9 Zum Gebrauch von Schußwaffen Berechtigte
@@ -181,42 +162,32 @@ Bei Anwendung unmittelbaren Zwanges ist der Gebrauch von Schußwaffen
 nur gestattet
 
 1.  den Polizeivollzugsbeamten des Bundes (§ 1 des
-    Bundespolizeibeamtengesetzes vom 19. Juli 1960 - Bundesgesetzbl. I S.
-    569);
-
+    Bundespolizeibeamtengesetzes vom 19. Juli 1960 - Bundesgesetzbl. I
+    S. 569);
 
 2.  den Beamten des Grenzaufsichtsdienstes und denen des
     Grenzabfertigungsdienstes, wenn sie Grenzaufsichtsdienst verrichten,
     des Zollfahndungsdienstes und des Bewachungs- und Begleitungsdienstes;
 
-
 3.  (weggefallen)
 
-
-4.  den Beamten der Wasserstraßen- und Schifffahrtsverwaltung des Bundes
-    mit strom- und schifffahrtspolizeilichen Befugnissen nach näherer
-    Anweisung des Bundesministeriums für Verkehr und digitale
+4.  den Beamten der Wasserstraßen- und Schifffahrtsverwaltung des
+    Bundes mit strom- und schifffahrtspolizeilichen Befugnissen nach
+    näherer Anweisung des Bundesministeriums für Verkehr und digitale
     Infrastruktur;
-
 
 5.  (weggefallen)
 
-
 6.  den mit Vollzugs- und Sicherungsaufgaben betrauten Beamten der
     Bundesgerichte und der Behörden der Bundesjustizverwaltung;
-
 
 7.  anderen Personen, die durch die zuständigen Bundesbehörden mit
     Aufgaben betraut sind, die den unter den Nummern 1 bis 6 aufgeführten
     Beamten obliegen;
 
-
-8.  den der Dienstgewalt von Bundesbehörden unterstehenden Personen, die
-    mit Aufgaben der Strafverfolgung betraut sind, wenn sie sich in
+8.  den der Dienstgewalt von Bundesbehörden unterstehenden Personen,
+    die mit Aufgaben der Strafverfolgung betraut sind, wenn sie sich in
     Ausübung dieser Tätigkeit im Vollzugsdienst befinden.
-
-
-
 
 
 ### § 10 Schußwaffengebrauch gegen Personen
@@ -230,15 +201,10 @@ nur gestattet
 
         oder
 
-
     b)  als ein Vergehen, das unter Anwendung oder Mitführung von Schußwaffen
         oder Sprengstoffen begangen werden soll oder ausgeführt wird,
 
-
-
-
     darstellt;
-
 
 2.  um eine Person, die sich der Festnahme oder der Feststellung ihrer
     Person durch die Flucht zu entziehen versucht, anzuhalten, wenn sie
@@ -248,17 +214,11 @@ nur gestattet
         das unter Anwendung oder Mitführung von Schußwaffen oder Sprengstoffen
         begangen wird,
 
-
     b)  eines Verbrechens dringend verdächtig ist oder
-
 
     c)  eines Vergehens dringend verdächtig ist und Anhaltspunkte befürchten
         lassen, daß sie von einer Schußwaffe oder einem Sprengstoff Gebrauch
         machen werde;
-
-
-
-
 
 3.  zur Vereitlung der Flucht oder zur Wiederergreifung einer Person, die
     sich in amtlichem Gewahrsam befindet oder befand
@@ -266,44 +226,28 @@ nur gestattet
     a)  zur Verbüßung einer Freiheitsstrafe wegen einer Straftat mit Ausnahme
         des Strafarrestes,
 
-
     b)  zum Vollzug der Unterbringung in der Sicherungsverwahrung,
-
 
     c)  wegen des dringenden Verdachts eines Verbrechens,
 
-
     d)  auf Grund richterlichen Haftbefehls oder
-
 
     e)  sonst wegen des dringenden Verdachts eines Vergehens, wenn zu
         befürchten ist, daß sie von einer Schußwaffe oder einem Sprengstoff
         Gebrauch machen werde;
-
-
-
-
 
 4.  gegen eine Person, die mit Gewalt einen Gefangenen oder jemanden,
     dessen Unterbringung in
 
     a)  der Sicherungsverwahrung (§ 66 des Strafgesetzbuches),
 
-
     b)  einem psychiatrischen Krankenhaus (§ 63 des Strafgesetzbuches, § 126a
         der Strafprozeßordnung) oder
-
 
     c)  einer Entziehungsanstalt (§ 64 des Strafgesetzbuches, § 126a der
         Strafprozeßordnung)
 
-
-
-
     angeordnet ist, aus dem amtlichen Gewahrsam zu befreien versucht.
-
-
-
 
 (2) Schußwaffen dürfen gegen eine Menschenmenge nur dann gebraucht
 werden, wenn von ihr oder aus ihr heraus Gewalttaten begangen werden
@@ -318,10 +262,10 @@ gesetzlicher Vorschriften bleibt unberührt.
 
 (1) Die in § 9 Nr. 1, 2, 7 und 8 genannten Vollzugsbeamten können im
 Grenzdienst Schußwaffen auch gegen Personen gebrauchen, die sich der
-wiederholten Weisung, zu halten oder die Überprüfung ihrer Person oder
-der etwa mitgeführten Beförderungsmittel und Gegenstände zu dulden,
-durch die Flucht zu entziehen versuchen. Ist anzunehmen, daß die
-mündliche Weisung nicht verstanden wird, so kann sie durch einen
+wiederholten Weisung, zu halten oder die Überprüfung ihrer Person
+oder der etwa mitgeführten Beförderungsmittel und Gegenstände zu
+dulden, durch die Flucht zu entziehen versuchen. Ist anzunehmen, daß
+die mündliche Weisung nicht verstanden wird, so kann sie durch einen
 Warnschuß ersetzt werden.
 
 (2) Als Grenzdienst gilt auch die Durchführung von Bundes- und
@@ -339,8 +283,8 @@ erreicht wird.
 
 (2) Der Zweck des Schußwaffengebrauchs darf nur sein, angriffs- oder
 fluchtunfähig zu machen. Es ist verboten, zu schießen, wenn durch den
-Schußwaffengebrauch für die Vollzugsbeamten erkennbar Unbeteiligte mit
-hoher Wahrscheinlichkeit gefährdet werden, außer wenn es sich beim
+Schußwaffengebrauch für die Vollzugsbeamten erkennbar Unbeteiligte
+mit hoher Wahrscheinlichkeit gefährdet werden, außer wenn es sich beim
 Einschreiten gegen eine Menschenmenge (§ 10 Abs. 2) nicht vermeiden
 läßt.
 
@@ -365,7 +309,6 @@ von Explosivmitteln.
 
 
 ## Dritter Abschnitt - Schlußvorschriften
-
 
 
 ### § 15 Notstandsfall
@@ -395,10 +338,10 @@ vom 26. April 1957 (Bundesgesetzbl. I S. 397) fallen.
 
 ### § 18 Verwaltungsvorschriften
 
-Die allgemeinen Verwaltungsvorschriften zu diesem Gesetz erläßt das
-Bundesministerium des Innern, für Bau und Heimat für seinen
-Geschäftsbereich; die anderen Bundesministerien erlassen sie für ihre
-Geschäftsbereiche im Einvernehmen mit dem Bundesministerium des
+Die allgemeinen Verwaltungsvorschriften zu diesem Gesetz erläßt
+das Bundesministerium des Innern, für Bau und Heimat für seinen
+Geschäftsbereich; die anderen Bundesministerien erlassen sie für
+ihre Geschäftsbereiche im Einvernehmen mit dem Bundesministerium des
 Innern, für Bau und Heimat.
 
 

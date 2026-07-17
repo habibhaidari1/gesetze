@@ -19,7 +19,6 @@ Geändert durch
 :   Art. 246 V v. 31.8.2015 I 1474
 
 
-
 ## § 1 Verwalter des Sondervermögens
 
 Das Bundesministerium für Wirtschaft und Energie verwaltet die in
@@ -33,8 +32,8 @@ Sondervermögen".
 
 ## § 2 Zweckbestimmung
 
-Das Sondervermögen dient der Förderung der deutschen Wirtschaft nach
-Maßgabe der Bestimmungen des Abkommens über Wirtschaftliche
+Das Sondervermögen dient der Förderung der deutschen Wirtschaft
+nach Maßgabe der Bestimmungen des Abkommens über Wirtschaftliche
 Zusammenarbeit zwischen den Vereinigten Staaten von Amerika und der
 Bundesrepublik Deutschland vom 15. Dezember 1949 (BGBl. 1950 S. 10).
 
@@ -63,10 +62,10 @@ nach wirtschaftlichen Grundsätzen zu verwalten.
 
 ## § 6 Kapitalanlagen in der Kreditanstalt für Wiederaufbau
 
-(1) Teile des Sondervermögens werden als Eigenkapital in Form einer
-Kapitalrücklage (Förderrücklage) in die Kreditanstalt für Wiederaufbau
-eingebracht. Weitere Teile des Sondervermögens können der
-Kreditanstalt für Wiederaufbau als befristetes Nachrangdarlehen
+(1) Teile des Sondervermögens werden als Eigenkapital in Form
+einer Kapitalrücklage (Förderrücklage) in die Kreditanstalt für
+Wiederaufbau eingebracht. Weitere Teile des Sondervermögens können
+der Kreditanstalt für Wiederaufbau als befristetes Nachrangdarlehen
 gewährt werden. Der Bestimmungszweck des Sondervermögens bleibt auch
 in Form der Förderrücklage und eines Nachrangdarlehens und der hierauf
 entfallenden Erträge erhalten; hierüber legt die Kreditanstalt für
@@ -82,28 +81,20 @@ a)  Vergütung durch die Kreditanstalt für Wiederaufbau in einer Höhe, die
     es erlaubt, gemeinsam mit den übrigen Erträgen des Sondervermögens
     Substanz und Förderung in vollem Umfang sicher zu stellen;
 
-
 b)  Verpflichtung zu jährlichem Bericht über die Verwendung des in die
     Kreditanstalt für Wiederaufbau eingebrachten Eigenkapitals, des
     gewährten Nachrangdarlehens und der Erträge;
 
-
 c)  Wert der Vermögensgegenstände zum Zeitpunkt des Vermögensübergangs;
-
 
 d)  Sicherung der Verwendung der Erträge entsprechend den Rahmenvorgaben
     des Sondervermögens;
 
-
 e)  Regelung zu den Förderlasten einschließlich der Bearbeitungskosten;
-
 
 f)  Verzicht der Kreditanstalt für Wiederaufbau auf Eigenkapitalkosten,
     soweit das einzusetzende Unterlegungskapital durch das eingebrachte
     haftende Eigenkapital und das gewährte Nachrangdarlehen abgedeckt ist.
-
-
-
 
 (3) Der Vertrag nach Absatz 2 sowie seine Änderungen und Ergänzungen
 stehen unter dem Vorbehalt der Zustimmung des Deutschen Bundestages.
@@ -128,16 +119,16 @@ Sondervermögen nicht aufnehmen.
 
 ## § 8 Wirtschaftsplan
 
-(1) Über die für das jeweils folgende Rechnungsjahr (1. Januar bis 31.
-Dezember eines Jahres) geplante Wirtschaftsförderung des
+(1) Über die für das jeweils folgende Rechnungsjahr (1. Januar
+bis 31. Dezember eines Jahres) geplante Wirtschaftsförderung des
 Sondervermögens stellt das Bundesministerium für Wirtschaft und
 Energie im Einvernehmen mit dem Bundesministerium der Finanzen einen
 Wirtschaftsplan auf. Dieser enthält die für die Wirtschaftsförderung
-des Sondervermögens vorgesehenen Fördermaßnahmen und Programme sowie
-die dafür einzusetzenden Mittel. Darüber hinaus werden die
-voraussichtlichen zukünftigen Risiken und Belastungen ausgewiesen. Der
-Wirtschaftsplan ist in Einnahmen und Ausgaben auszugleichen. In den
-Wirtschaftsplan ist außerdem der Bericht der Kreditanstalt für
+des Sondervermögens vorgesehenen Fördermaßnahmen und Programme
+sowie die dafür einzusetzenden Mittel. Darüber hinaus werden die
+voraussichtlichen zukünftigen Risiken und Belastungen ausgewiesen.
+Der Wirtschaftsplan ist in Einnahmen und Ausgaben auszugleichen. In
+den Wirtschaftsplan ist außerdem der Bericht der Kreditanstalt für
 Wiederaufbau über die Verwendung des eingebrachten Eigenkapitals und
 des gewährten Nachrangdarlehens aufzunehmen.
 
@@ -163,16 +154,16 @@ aufgekommenen Einnahmen nicht verwendet sind.
 Wirtschaft und Energie und die Kreditanstalt für Wiederaufbau nach den
 Regelungen des nach § 6 Abs. 2 geschlossenen Vertrages umgesetzt.
 
-(2) Über Vertragsaufhebungen und -änderungen sowie über Stundungen,
-Niederschlagungen und Erlasse von Ansprüchen werden das
+(2) Über Vertragsaufhebungen und -änderungen sowie über
+Stundungen, Niederschlagungen und Erlasse von Ansprüchen werden das
 Bundesministerium für Wirtschaft und Energie und das Bundesministerium
 der Finanzen die erforderliche Rahmenvereinbarung treffen.
 
-(3) Verträge, durch die die Verpflichtung übernommen werden soll, über
-ein Rechnungsjahr hinaus Leistungen aus dem Sondervermögen zu
-erbringen, dürfen endgültig erst abgeschlossen werden, nachdem
-erstmals Ausgabemittel hierfür im Wirtschaftsplan vorgesehen sind oder
-die Einwilligung durch das Bundesministerium der Finanzen erteilt
+(3) Verträge, durch die die Verpflichtung übernommen werden soll,
+über ein Rechnungsjahr hinaus Leistungen aus dem Sondervermögen
+zu erbringen, dürfen endgültig erst abgeschlossen werden, nachdem
+erstmals Ausgabemittel hierfür im Wirtschaftsplan vorgesehen sind
+oder die Einwilligung durch das Bundesministerium der Finanzen erteilt
 worden ist.
 
 (4) Das Bundesministerium für Wirtschaft und Energie wird dem
@@ -202,12 +193,12 @@ jährlichen Gesetzes über den Wirtschaftsplan zu veröffentlichen.
 
 ## § 12 Prüfungsrechte des Sondervermögens
 
-(1) Das Sondervermögen kann unmittelbar oder durch Beauftragte von
-allen natürlichen oder juristischen Personen, die durch die
-Wirtschaftsförderung des Sondervermögens finanziell begünstigt worden
-sind, Auskünfte oder Einsicht in die Geschäftsbücher und
-Geschäftspapiere verlangen. Das Gleiche gilt gegenüber den
-Begünstigten in den Fällen, in denen im Rahmen der
+(1) Das Sondervermögen kann unmittelbar oder durch Beauftragte
+von allen natürlichen oder juristischen Personen, die durch die
+Wirtschaftsförderung des Sondervermögens finanziell begünstigt
+worden sind, Auskünfte oder Einsicht in die Geschäftsbücher
+und Geschäftspapiere verlangen. Das Gleiche gilt gegenüber
+den Begünstigten in den Fällen, in denen im Rahmen der
 Wirtschaftsförderung Sicherheiten bestellt, Bürgschaften oder
 Gewährleistungen übernommen oder Beteiligungen erworben worden sind.
 

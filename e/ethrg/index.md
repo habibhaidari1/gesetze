@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl I: 2007, 1385
 
 
-
 ## § 1 Bildung des Deutschen Ethikrats
 
 Es wird ein unabhängiger Sachverständigenrat gebildet, der die
@@ -36,16 +35,11 @@ Menschen ergeben. Zu seinen Aufgaben gehören insbesondere:
     Gesellschaft unter Einbeziehung der verschiedenen gesellschaftlichen
     Gruppen;
 
-
 2.  Erarbeitung von Stellungnahmen sowie von Empfehlungen für politisches
     und gesetzgeberisches Handeln;
 
-
 3.  Zusammenarbeit mit nationalen Ethikräten und vergleichbaren
     Einrichtungen anderer Staaten und internationaler Organisationen.
-
-
-
 
 (2) Der Deutsche Ethikrat führt jedes Jahr mindestens eine öffentliche
 Veranstaltung zu ethischen Fragen insbesondere im Bereich der
@@ -74,11 +68,11 @@ des Deutschen Ethikrats üben ihr Amt persönlich und unabhängig aus.
 
 (1) Der Deutsche Ethikrat besteht aus 26 Mitgliedern, die
 naturwissenschaftliche, medizinische, theologische, philosophische,
-ethische, soziale, ökonomische und rechtliche Belange in besonderer
-Weise repräsentieren. Zu seinen Mitgliedern gehören
+ethische, soziale, ökonomische und rechtliche Belange in
+besonderer Weise repräsentieren. Zu seinen Mitgliedern gehören
 Wissenschaftlerinnen und Wissenschaftler aus den genannten
-Wissenschaftsgebieten; darüber hinaus gehören ihm anerkannte Personen
-an, die in besonderer Weise mit ethischen Fragen der
+Wissenschaftsgebieten; darüber hinaus gehören ihm anerkannte
+Personen an, die in besonderer Weise mit ethischen Fragen der
 Lebenswissenschaften vertraut sind.
 
 (2) Im Deutschen Ethikrat sollen unterschiedliche ethische Ansätze und
@@ -91,8 +85,8 @@ Bundesregierung oder einer Landesregierung angehören.
 
 ## § 5 Berufung und Amtszeit der Mitglieder
 
-(1) Der Präsident des Deutschen Bundestags beruft die Mitglieder des
-Deutschen Ethikrats je zur Hälfte auf Vorschlag des Deutschen
+(1) Der Präsident des Deutschen Bundestags beruft die Mitglieder
+des Deutschen Ethikrats je zur Hälfte auf Vorschlag des Deutschen
 Bundestags und der Bundesregierung.
 
 (2) Die Mitglieder werden für die Dauer von vier Jahren berufen. Eine
@@ -135,8 +129,8 @@ oder dem Bericht zum Ausdruck bringen.
 
 ## § 8 Geschäftsstelle
 
-Der Deutsche Ethikrat wird bei der Durchführung seiner Aufgaben von
-einer Geschäftsstelle unterstützt. Die Geschäftsstelle wird vom
+Der Deutsche Ethikrat wird bei der Durchführung seiner Aufgaben
+von einer Geschäftsstelle unterstützt. Die Geschäftsstelle wird vom
 Präsidenten des Deutschen Bundestags eingerichtet. Sie untersteht
 fachlich der oder dem Vorsitzenden des Deutschen Ethikrats.
 

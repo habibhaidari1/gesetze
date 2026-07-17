@@ -19,7 +19,6 @@ Geändert durch
 :   Art. 78 G v. 29.3.2017 I 626
 
 
-
 ## § 1 Name, Sitz, Rechtsform
 
 Unter dem Namen "Akademie der Künste" wird mit Sitz in Berlin eine
@@ -32,19 +31,19 @@ errichtet. Die Akademie der Künste verwaltet sich selbst.
 (1) Die Akademie der Künste dient der Repräsentation des Gesamtstaates
 auf dem Gebiet der Kunst und Kultur; sie hat die Aufgabe, die Künste
 zu fördern und die Sache der Kunst in der Gesellschaft zu vertreten.
-Die Akademie der Künste spricht aus selbständiger Verantwortung. Sie
-soll von der Hauptstadt Berlin ausgehend internationale Wirkung
-entfalten und sich als national bedeutsame Einrichtung der kulturellen
-Entwicklung sowie der Pflege des kulturellen Erbes widmen. Die
-Akademie der Künste berät und unterstützt die Bundesrepublik
+Die Akademie der Künste spricht aus selbständiger Verantwortung.
+Sie soll von der Hauptstadt Berlin ausgehend internationale
+Wirkung entfalten und sich als national bedeutsame Einrichtung der
+kulturellen Entwicklung sowie der Pflege des kulturellen Erbes widmen.
+Die Akademie der Künste berät und unterstützt die Bundesrepublik
 Deutschland in Angelegenheiten der Kunst und Kultur. Sie verfolgt
 ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des
 Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung.
 
 (2) Die Akademie der Künste setzt die Tradition der 1696 in Preußen
 gegründeten Akademie der Künste fort. Sie ist eine internationale
-Gemeinschaft von Künstlern, die zur Kunst ihrer Zeit beigetragen haben
-und deren Werk durch ihre Berufung in die Akademie der Künste
+Gemeinschaft von Künstlern, die zur Kunst ihrer Zeit beigetragen
+haben und deren Werk durch ihre Berufung in die Akademie der Künste
 gewürdigt wird. In die Akademie können auch Personen berufen werden,
 die sich um die Künste verdient gemacht haben.
 
@@ -64,19 +63,13 @@ vorzusehen. Diesem gehören an:
 
 a)  der Bund als Zuschussgeber mit der Mehrheit der Stimmen,
 
-
 b)  ein Vertreter des Landes Brandenburg,
-
 
 c)  ein Vertreter des Landes Berlin,
 
-
 d)  der Präsident oder die Präsidentin,
 
-
 e)  die Geschäftsführung.
-
-
 
 Der Verwaltungsbeirat ist mit den Wirtschafts- und
 Personalangelegenheiten der Akademie der Künste zu befassen.
@@ -112,8 +105,8 @@ Präsidentin berufen.
 
 ## § 6 Mitgliederversammlung
 
-(1) Der Mitgliederversammlung der Akademie der Künste gehören alle
-Mitglieder an, die Ehrenmitglieder mit beratender Stimme. Die
+(1) Der Mitgliederversammlung der Akademie der Künste gehören
+alle Mitglieder an, die Ehrenmitglieder mit beratender Stimme. Die
 Mitgliederversammlung wird vom Präsidenten oder von der Präsidentin
 einberufen.
 
@@ -130,11 +123,11 @@ von zwei Dritteln der anwesenden Mitglieder.
 
 (1) Der Senat besteht aus dem Präsidenten oder der Präsidentin, dem
 Vizepräsidenten oder der Vizepräsidentin, den Direktoren oder den
-Direktorinnen der Sektionen sowie bis zu vier weiteren Mitgliedern der
-Akademie, die für die Dauer einer Amtszeit von drei Jahren von der
-Mitgliederversammlung gewählt werden. Ihre Wiederwahl ist möglich. Der
-Senat beschließt über alle wichtigen Fragen und Vorhaben der Akademie,
-insbesondere über den Wirtschaftsplan sowie die Auswahl der
+Direktorinnen der Sektionen sowie bis zu vier weiteren Mitgliedern
+der Akademie, die für die Dauer einer Amtszeit von drei Jahren von
+der Mitgliederversammlung gewählt werden. Ihre Wiederwahl ist möglich.
+Der Senat beschließt über alle wichtigen Fragen und Vorhaben der
+Akademie, insbesondere über den Wirtschaftsplan sowie die Auswahl der
 Geschäftsführung und Sekretäre oder Sekretärinnen. Hiervon ausgenommen
 sind die bestandsbezogenen Veranstaltungen des Archivs.
 
@@ -143,17 +136,17 @@ sind die bestandsbezogenen Veranstaltungen des Archivs.
 
 ## § 8 Präsident oder Präsidentin
 
-(1) Der Präsident oder die Präsidentin vertritt die Akademie der
-Künste nach innen und außen. Er oder sie leitet die
-Mitgliederversammlung und die Sitzungen des Senats. Bei der
-Wahrnehmung dieser Aufgaben wird er oder sie von einem
+(1) Der Präsident oder die Präsidentin vertritt die Akademie
+der Künste nach innen und außen. Er oder sie leitet die
+Mitgliederversammlung und die Sitzungen des Senats. Bei
+der Wahrnehmung dieser Aufgaben wird er oder sie von einem
 Präsidialsekretär oder einer Präsidialsekretärin unterstützt.
 
 (2) Der Präsident oder die Präsidentin wird nach Maßgabe der Satzung
 durch den Vizepräsidenten oder die Vizepräsidentin vertreten.
 
-(3) Der Präsident oder die Präsidentin und der Vizepräsident oder die
-Vizepräsidentin werden von der Mitgliederversammlung in geheimer
+(3) Der Präsident oder die Präsidentin und der Vizepräsident oder
+die Vizepräsidentin werden von der Mitgliederversammlung in geheimer
 Abstimmung aus dem Kreis der Mitglieder gewählt. Die Amtszeit beträgt
 jeweils drei Jahre. Ihre Wiederwahl ist möglich.
 
@@ -168,9 +161,9 @@ Literatur
 Darstellende Kunst
 Film- und Medienkunst.
 
-(2) Jede Sektion hat höchstens 75 Mitglieder. Die Sektionen werden von
-einem Sektionsdirektor oder einer Sektionsdirektorin geleitet und im
-Senat vertreten. Die Sektionsdirektoren oder Sektionsdirektorinnen
+(2) Jede Sektion hat höchstens 75 Mitglieder. Die Sektionen werden
+von einem Sektionsdirektor oder einer Sektionsdirektorin geleitet und
+im Senat vertreten. Die Sektionsdirektoren oder Sektionsdirektorinnen
 werden aus der Mitte der jeweiligen Sektion vorgeschlagen und von der
 Mitgliederversammlung für eine Amtszeit von drei Jahren gewählt. Ihre
 Wiederwahl ist möglich.
@@ -184,16 +177,16 @@ abweichende Regelung über die Sektionen enthalten.
 
 ## § 10 Archiv
 
-(1) Die Akademie der Künste hat ein Archiv, für das im Rahmen der
-Geschäftsführung der Direktor oder die Direktorin des Archivs
+(1) Die Akademie der Künste hat ein Archiv, für das im Rahmen
+der Geschäftsführung der Direktor oder die Direktorin des Archivs
 zuständig ist.
 
 (2) Die Sammlungsgebiete des Archivs umfassen die Geschichte der
 Akademien der Künste in Berlin seit der Gründung der späteren
 Preußischen Akademie der Künste sowie sämtliche Kunstsparten.
 
-(3) In der Satzung sind Einrichtung und Aufgaben eines Archiv-Rates zu
-regeln.
+(3) In der Satzung sind Einrichtung und Aufgaben eines Archiv-Rates
+zu regeln.
 
 
 ## § 11 Geschäftsführung
@@ -206,8 +199,8 @@ Verwaltung wahrgenommen.
 
 ## § 12 Beschäftigte
 
-(1) Die Akademie beschäftigt Arbeitnehmerinnen und Arbeitnehmer. Auf
-diese sind die für Arbeitnehmerinnen und Arbeitnehmer des Bundes
+(1) Die Akademie beschäftigt Arbeitnehmerinnen und Arbeitnehmer.
+Auf diese sind die für Arbeitnehmerinnen und Arbeitnehmer des Bundes
 jeweils geltenden Tarifverträge und sonstigen Bestimmungen anzuwenden.
 
 (2) Die Satzung soll die Befristung der Funktionen der Mitglieder der
@@ -221,9 +214,9 @@ landesunmittelbaren Körperschaft Akademie der Künste.
 
 ## § 13 Haushalt, Aufsicht, Rechnungsprüfung
 
-(1) Zur Erfüllung ihrer Aufgaben erhält die Akademie der Künste einen
-Bundeszuschuss nach Maßgabe des Bundeshaushalts. Die Akademie der
-Künste kann im Rahmen ihrer Zweckbestimmung Zuwendungen Dritter
+(1) Zur Erfüllung ihrer Aufgaben erhält die Akademie der Künste
+einen Bundeszuschuss nach Maßgabe des Bundeshaushalts. Die Akademie
+der Künste kann im Rahmen ihrer Zweckbestimmung Zuwendungen Dritter
 annehmen.
 
 (2) Die auf Bundesebene für Kultur und Medien zuständige oberste
@@ -265,9 +258,9 @@ begründet worden sind.
 
 ## § 16 Inkrafttreten
 
-Dieses Gesetz tritt an dem Tag in Kraft, an dem der Staatsvertrag über
-die Auflösung der von den Ländern Berlin und Brandenburg getragenen
-Akademie der Künste in Kraft tritt. Die Beauftragte der
+Dieses Gesetz tritt an dem Tag in Kraft, an dem der Staatsvertrag
+über die Auflösung der von den Ländern Berlin und Brandenburg
+getragenen Akademie der Künste in Kraft tritt. Die Beauftragte der
 Bundesregierung für Kultur und Medien gibt den Tag des Inkrafttretens
 im Bundesgesetzblatt bekannt.
 

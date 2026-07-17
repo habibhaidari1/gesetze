@@ -28,9 +28,9 @@ Pflege- oder Betreuungsleistungen verpflichtet, die der Bewältigung
 eines durch Alter, Pflegebedürftigkeit oder Behinderung bedingten
 Hilfebedarfs dienen. Unerheblich ist, ob die Pflege- oder
 Betreuungsleistungen nach den vertraglichen Vereinbarungen vom
-Unternehmer zur Verfügung gestellt oder vorgehalten werden. Das Gesetz
-ist nicht anzuwenden, wenn der Vertrag neben der Überlassung von
-Wohnraum ausschließlich die Erbringung von allgemeinen
+Unternehmer zur Verfügung gestellt oder vorgehalten werden. Das
+Gesetz ist nicht anzuwenden, wenn der Vertrag neben der Überlassung
+von Wohnraum ausschließlich die Erbringung von allgemeinen
 Unterstützungsleistungen wie die Vermittlung von Pflege- oder
 Betreuungsleistungen, Leistungen der hauswirtschaftlichen Versorgung
 oder Notrufdienste zum Gegenstand hat.
@@ -39,22 +39,18 @@ oder Notrufdienste zum Gegenstand hat.
 Unternehmer geschuldeten Leistungen Gegenstand verschiedener Verträge
 sind und
 
-1.  der Bestand des Vertrags über die Überlassung von Wohnraum von dem
-    Bestand des Vertrags über die Erbringung von Pflege- oder
+1.  der Bestand des Vertrags über die Überlassung von Wohnraum von
+    dem Bestand des Vertrags über die Erbringung von Pflege- oder
     Betreuungsleistungen abhängig ist,
 
-
 2.  der Verbraucher an dem Vertrag über die Überlassung von Wohnraum nach
-    den vertraglichen Vereinbarungen nicht unabhängig von dem Vertrag über
-    die Erbringung von Pflege- oder Betreuungsleistungen festhalten kann
-    oder
+    den vertraglichen Vereinbarungen nicht unabhängig von dem Vertrag
+    über die Erbringung von Pflege- oder Betreuungsleistungen festhalten
+    kann oder
 
-
-3.  der Unternehmer den Abschluss des Vertrags über die Überlassung von
-    Wohnraum von dem Abschluss des Vertrags über die Erbringung von
+3.  der Unternehmer den Abschluss des Vertrags über die Überlassung
+    von Wohnraum von dem Abschluss des Vertrags über die Erbringung von
     Pflege- oder Betreuungsleistungen tatsächlich abhängig macht.
-
-
 
 Dies gilt auch, wenn in den Fällen des Satzes 1 die Leistungen von
 verschiedenen Unternehmern geschuldet werden, es sei denn, diese sind
@@ -69,19 +65,13 @@ Dieses Gesetz ist nicht anzuwenden auf Verträge über
     Rehabilitationseinrichtungen im Sinne des § 107 des Fünften Buches
     Sozialgesetzbuch,
 
-
 2.  Leistungen der Internate der Berufsbildungs- und
     Berufsförderungswerke,
 
-
 3.  Leistungen im Sinne des § 41 des Achten Buches Sozialgesetzbuch,
-
 
 4.  Leistungen, die im Rahmen von Kur- oder Erholungsaufenthalten erbracht
     werden.
-
-
-
 
 
 ## § 3 Informationspflichten vor Vertragsschluss
@@ -96,20 +86,15 @@ Leistungen zu informieren.
 Leistungsangebot gehört die Darstellung
 
 1.  der Ausstattung und Lage des Gebäudes, in dem sich der Wohnraum
-    befindet, sowie der dem gemeinschaftlichen Gebrauch dienenden Anlagen
-    und Einrichtungen, zu denen der Verbraucher Zugang hat, und
+    befindet, sowie der dem gemeinschaftlichen Gebrauch dienenden
+    Anlagen und Einrichtungen, zu denen der Verbraucher Zugang hat, und
     gegebenenfalls ihrer Nutzungsbedingungen,
 
-
 2.  der darin enthaltenen Leistungen nach Art, Inhalt und Umfang,
-
 
 3.  der Ergebnisse der Qualitätsprüfungen, soweit sie nach § 115 Absatz 1a
     Satz 1 des Elften Buches Sozialgesetzbuch oder nach landesrechtlichen
     Vorschriften zu veröffentlichen sind.
-
-
-
 
 (3) Zur Information über die für den Verbraucher in Betracht kommenden
 Leistungen gehört die Darstellung
@@ -118,24 +103,18 @@ Leistungen gehört die Darstellung
     der Verpflegung als Teil der Betreuungsleistungen sowie der einzelnen
     weiteren Leistungen nach Art, Inhalt und Umfang,
 
-
 2.  des den Pflege- oder Betreuungsleistungen zugrunde liegenden
     Leistungskonzepts,
 
-
 3.  der für die in Nummer 1 benannten Leistungen jeweils zu zahlenden
     Entgelte, der nach § 82 Absatz 3 und 4 des Elften Buches
-    Sozialgesetzbuch gesondert berechenbaren Investitionskosten sowie des
-    Gesamtentgelts,
-
+    Sozialgesetzbuch gesondert berechenbaren Investitionskosten sowie
+    des Gesamtentgelts,
 
 4.  der Voraussetzungen für mögliche Leistungs- und Entgeltveränderungen,
 
-
 5.  des Umfangs und der Folgen eines Ausschlusses der Angebotspflicht nach
     § 8 Absatz 4, wenn ein solcher Ausschluss vereinbart werden soll.
-
-
 
 Die Darstellung nach Satz 1 Nummer 5 muss in hervorgehobener Form
 erfolgen.
@@ -183,11 +162,11 @@ Unternehmers.
 
 ## § 5 Wechsel der Vertragsparteien
 
-(1) Mit Personen, die mit dem Verbraucher einen auf Dauer angelegten
-gemeinsamen Haushalt führen und nicht Vertragspartner des Unternehmers
-hinsichtlich der Überlassung des Wohnraums sind, wird das
-Vertragsverhältnis beim Tod des Verbrauchers hinsichtlich der
-Überlassung des Wohnraums gegen Zahlung der darauf entfallenden
+(1) Mit Personen, die mit dem Verbraucher einen auf Dauer
+angelegten gemeinsamen Haushalt führen und nicht Vertragspartner
+des Unternehmers hinsichtlich der Überlassung des Wohnraums sind,
+wird das Vertragsverhältnis beim Tod des Verbrauchers hinsichtlich
+der Überlassung des Wohnraums gegen Zahlung der darauf entfallenden
 Entgeltbestandteile bis zum Ablauf des dritten Kalendermonats nach dem
 Sterbetag des Verbrauchers fortgesetzt. Erklären Personen, mit denen
 das Vertragsverhältnis fortgesetzt wurde, innerhalb von vier Wochen
@@ -199,8 +178,8 @@ für sich abgeben.
 
 (2) Wird der überlassene Wohnraum nach Beginn des
 Vertragsverhältnisses von dem Unternehmer an einen Dritten veräußert,
-gelten für die Rechte und Pflichten des Erwerbers hinsichtlich der
-Überlassung des Wohnraums die §§ 566 bis 567b des Bürgerlichen
+gelten für die Rechte und Pflichten des Erwerbers hinsichtlich
+der Überlassung des Wohnraums die §§ 566 bis 567b des Bürgerlichen
 Gesetzbuchs entsprechend.
 
 
@@ -210,13 +189,13 @@ Gesetzbuchs entsprechend.
 Vertrags in elektronischer Form ist ausgeschlossen. Der Unternehmer
 hat dem Verbraucher eine Ausfertigung des Vertrags auszuhändigen.
 
-(2) Wird der Vertrag nicht in schriftlicher Form geschlossen, sind zu
-Lasten des Verbrauchers von den gesetzlichen Regelungen abweichende
-Vereinbarungen unwirksam, auch wenn sie durch andere Vorschriften
-dieses Gesetzes zugelassen werden; im Übrigen bleibt der Vertrag
-wirksam. Der Verbraucher kann den Vertrag jederzeit ohne Einhaltung
-einer Frist kündigen. Ist der schriftliche Vertragsschluss im
-Interesse des Verbrauchers unterblieben, insbesondere weil zum
+(2) Wird der Vertrag nicht in schriftlicher Form geschlossen,
+sind zu Lasten des Verbrauchers von den gesetzlichen Regelungen
+abweichende Vereinbarungen unwirksam, auch wenn sie durch andere
+Vorschriften dieses Gesetzes zugelassen werden; im Übrigen bleibt
+der Vertrag wirksam. Der Verbraucher kann den Vertrag jederzeit ohne
+Einhaltung einer Frist kündigen. Ist der schriftliche Vertragsschluss
+im Interesse des Verbrauchers unterblieben, insbesondere weil zum
 Zeitpunkt des Vertragsschlusses beim Verbraucher Gründe vorlagen, die
 ihn an der schriftlichen Abgabe seiner Vertragserklärung hinderten,
 muss der schriftliche Vertragsschluss unverzüglich nachgeholt werden.
@@ -226,75 +205,69 @@ muss der schriftliche Vertragsschluss unverzüglich nachgeholt werden.
 1.  die Leistungen des Unternehmers nach Art, Inhalt und Umfang einzeln
     beschreiben,
 
-
-2.  die für diese Leistungen jeweils zu zahlenden Entgelte, getrennt nach
-    Überlassung des Wohnraums, Pflege- oder Betreuungsleistungen,
+2.  die für diese Leistungen jeweils zu zahlenden Entgelte, getrennt
+    nach Überlassung des Wohnraums, Pflege- oder Betreuungsleistungen,
     gegebenenfalls Verpflegung als Teil der Betreuungsleistungen sowie den
     einzelnen weiteren Leistungen, die nach § 82 Absatz 3 und 4 des Elften
     Buches Sozialgesetzbuch gesondert berechenbaren Investitionskosten und
     das Gesamtentgelt angeben,
 
-
 3.  die Informationen des Unternehmers nach § 3 als Vertragsgrundlage
     benennen und mögliche Abweichungen von den vorvertraglichen
     Informationen gesondert kenntlich machen,
 
-
 4.  die Informationen nach § 36 Absatz 1 des
-    Verbraucherstreitbeilegungsgesetzes vom 19. Februar 2016 (BGBl. I S.
-    254) geben; dies gilt auch, wenn der Unternehmer keine Webseite
+    Verbraucherstreitbeilegungsgesetzes vom 19. Februar 2016 (BGBl. I
+    S. 254) geben; dies gilt auch, wenn der Unternehmer keine Webseite
     unterhält oder keine Allgemeinen Geschäftsbedingungen verwendet.
-
-
-
 
 
 ## § 7 Leistungspflichten
 
-(1) Der Unternehmer ist verpflichtet, dem Verbraucher den Wohnraum in
-einem zum vertragsgemäßen Gebrauch geeigneten Zustand zu überlassen
-und während der vereinbarten Vertragsdauer in diesem Zustand zu
-erhalten sowie die vertraglich vereinbarten Pflege- oder
+(1) Der Unternehmer ist verpflichtet, dem Verbraucher den Wohnraum
+in einem zum vertragsgemäßen Gebrauch geeigneten Zustand zu
+überlassen und während der vereinbarten Vertragsdauer in diesem
+Zustand zu erhalten sowie die vertraglich vereinbarten Pflege- oder
 Betreuungsleistungen nach dem allgemein anerkannten Stand fachlicher
 Erkenntnisse zu erbringen.
 
 (2) Der Verbraucher hat das vereinbarte Entgelt zu zahlen, soweit
-dieses insgesamt und nach seinen Bestandteilen im Verhältnis zu den
-Leistungen angemessen ist. In Verträgen mit Verbrauchern, die
+dieses insgesamt und nach seinen Bestandteilen im Verhältnis zu
+den Leistungen angemessen ist. In Verträgen mit Verbrauchern, die
 Leistungen nach dem Elften Buch Sozialgesetzbuch in Anspruch nehmen,
-gilt die aufgrund der Bestimmungen des Siebten und Achten Kapitels des
-Elften Buches Sozialgesetzbuch festgelegte Höhe des Entgelts als
+gilt die aufgrund der Bestimmungen des Siebten und Achten Kapitels
+des Elften Buches Sozialgesetzbuch festgelegte Höhe des Entgelts als
 vereinbart und angemessen. In Verträgen mit Verbrauchern, denen Hilfe
-in Einrichtungen nach dem Zwölften Buch Sozialgesetzbuch gewährt wird,
-gilt die aufgrund des Zehnten Kapitels des Zwölften Buches
+in Einrichtungen nach dem Zwölften Buch Sozialgesetzbuch gewährt
+wird, gilt die aufgrund des Zehnten Kapitels des Zwölften Buches
 Sozialgesetzbuch festgelegte Höhe des Entgelts als vereinbart und
-angemessen. In Verträgen mit Verbrauchern, die Leistungen nach Teil 2
-des Neunten Buches Sozialgesetzbuch in Anspruch nehmen, gilt die
+angemessen. In Verträgen mit Verbrauchern, die Leistungen nach Teil
+2 des Neunten Buches Sozialgesetzbuch in Anspruch nehmen, gilt die
 aufgrund der Bestimmungen des Teils 2 Kapitel 8 des Neunten Buches
 Sozialgesetzbuch festgelegte Höhe des Entgelts für diese Leistungen
 als vereinbart und angemessen.
 
-(3) Der Unternehmer hat das Entgelt sowie die Entgeltbestandteile für
-die Verbraucher nach einheitlichen Grundsätzen zu bemessen. Eine
-Differenzierung ist zulässig, soweit eine öffentliche Förderung von
-betriebsnotwendigen Investitionsaufwendungen nur für einen Teil der
-Einrichtung erfolgt ist. Sie ist auch insofern zulässig, als
+(3) Der Unternehmer hat das Entgelt sowie die Entgeltbestandteile
+für die Verbraucher nach einheitlichen Grundsätzen zu bemessen.
+Eine Differenzierung ist zulässig, soweit eine öffentliche Förderung
+von betriebsnotwendigen Investitionsaufwendungen nur für einen Teil
+der Einrichtung erfolgt ist. Sie ist auch insofern zulässig, als
 Vergütungsvereinbarungen nach dem Zehnten Kapitel des Zwölften Buches
 Sozialgesetzbuch über Investitionsbeträge oder gesondert berechenbare
 Investitionskosten getroffen worden sind.
 
 (4) Werden Leistungen unmittelbar zu Lasten eines
-Sozialleistungsträgers erbracht, ist der Unternehmer verpflichtet, den
-Verbraucher unverzüglich schriftlich unter Mitteilung des
+Sozialleistungsträgers erbracht, ist der Unternehmer verpflichtet,
+den Verbraucher unverzüglich schriftlich unter Mitteilung des
 Kostenanteils hierauf hinzuweisen.
 
 (5) Soweit der Verbraucher länger als drei Tage abwesend ist, muss
-sich der Unternehmer den Wert der dadurch ersparten Aufwendungen auf
-seinen Entgeltanspruch anrechnen lassen. Im Vertrag kann eine
+sich der Unternehmer den Wert der dadurch ersparten Aufwendungen
+auf seinen Entgeltanspruch anrechnen lassen. Im Vertrag kann eine
 Pauschalierung des Anrechnungsbetrags vereinbart werden. In Verträgen
 mit Verbrauchern, die Leistungen nach dem Elften Buch Sozialgesetzbuch
-in Anspruch nehmen, ergibt sich die Höhe des Anrechnungsbetrags aus
-den in § 87a Absatz 1 Satz 7 des Elften Buches Sozialgesetzbuch
+in Anspruch nehmen, ergibt sich die Höhe des Anrechnungsbetrags
+aus den in § 87a Absatz 1 Satz 7 des Elften Buches Sozialgesetzbuch
 genannten Vereinbarungen.
 
 
@@ -307,10 +280,10 @@ Die Leistungspflicht des Unternehmers und das vom Verbraucher zu
 zahlende angemessene Entgelt erhöhen oder verringern sich in dem
 Umfang, in dem der Verbraucher das Angebot angenommen hat.
 
-(2) In Verträgen mit Verbrauchern, die Leistungen nach dem Elften Buch
-Sozialgesetzbuch in Anspruch nehmen oder denen Hilfe in Einrichtungen
-nach dem Zwölften Buch Sozialgesetzbuch gewährt wird, ist der
-Unternehmer berechtigt, bei einer Änderung des Pflege- oder
+(2) In Verträgen mit Verbrauchern, die Leistungen nach dem Elften
+Buch Sozialgesetzbuch in Anspruch nehmen oder denen Hilfe in
+Einrichtungen nach dem Zwölften Buch Sozialgesetzbuch gewährt wird,
+ist der Unternehmer berechtigt, bei einer Änderung des Pflege- oder
 Betreuungsbedarfs des Verbrauchers den Vertrag nach Maßgabe des
 Absatzes 1 Satz 3 durch einseitige Erklärung anzupassen. Absatz 3 ist
 entsprechend anzuwenden.
@@ -320,10 +293,10 @@ Verbraucher durch Gegenüberstellung der bisherigen und der angebotenen
 Leistungen sowie der dafür jeweils zu entrichtenden Entgelte
 schriftlich darzustellen und zu begründen.
 
-(4) Der Unternehmer kann die Pflicht, eine Anpassung anzubieten, durch
-gesonderte Vereinbarung mit dem Verbraucher bei Vertragsschluss ganz
-oder teilweise ausschließen. Der Ausschluss ist nur wirksam, soweit
-der Unternehmer unter Berücksichtigung des dem Vertrag zugrunde
+(4) Der Unternehmer kann die Pflicht, eine Anpassung anzubieten,
+durch gesonderte Vereinbarung mit dem Verbraucher bei Vertragsschluss
+ganz oder teilweise ausschließen. Der Ausschluss ist nur wirksam,
+soweit der Unternehmer unter Berücksichtigung des dem Vertrag zugrunde
 gelegten Leistungskonzepts daran ein berechtigtes Interesse hat und
 dieses in der Vereinbarung begründet. Die Belange von Menschen mit
 Behinderungen sind besonders zu berücksichtigen. Die Vereinbarung
@@ -333,21 +306,21 @@ ist ausgeschlossen.
 
 ## § 9 Entgelterhöhung bei Änderung der Berechnungsgrundlage
 
-(1) Der Unternehmer kann eine Erhöhung des Entgelts verlangen, wenn
-sich die bisherige Berechnungsgrundlage verändert. Neben dem erhöhten
-Entgelt muss auch die Erhöhung selbst angemessen sein. Satz 2 gilt
-nicht für die in § 7 Absatz 2 Satz 2 bis 4 genannten Fälle.
+(1) Der Unternehmer kann eine Erhöhung des Entgelts verlangen,
+wenn sich die bisherige Berechnungsgrundlage verändert. Neben dem
+erhöhten Entgelt muss auch die Erhöhung selbst angemessen sein. Satz
+2 gilt nicht für die in § 7 Absatz 2 Satz 2 bis 4 genannten Fälle.
 Entgelterhöhungen aufgrund von Investitionsaufwendungen sind nur
 zulässig, soweit sie nach der Art des Betriebs notwendig sind und
 nicht durch öffentliche Förderung gedeckt werden.
 
-(2) Der Unternehmer hat dem Verbraucher die beabsichtigte Erhöhung des
-Entgelts schriftlich mitzuteilen und zu begründen. Aus der Mitteilung
-muss der Zeitpunkt hervorgehen, zu dem der Unternehmer die Erhöhung
-des Entgelts verlangt. In der Begründung muss er unter Angabe des
-Umlagemaßstabs die Positionen benennen, für die sich durch die
-veränderte Berechnungsgrundlage Kostensteigerungen ergeben, und die
-bisherigen Entgeltbestandteile den vorgesehenen neuen
+(2) Der Unternehmer hat dem Verbraucher die beabsichtigte Erhöhung
+des Entgelts schriftlich mitzuteilen und zu begründen. Aus der
+Mitteilung muss der Zeitpunkt hervorgehen, zu dem der Unternehmer
+die Erhöhung des Entgelts verlangt. In der Begründung muss er unter
+Angabe des Umlagemaßstabs die Positionen benennen, für die sich
+durch die veränderte Berechnungsgrundlage Kostensteigerungen ergeben,
+und die bisherigen Entgeltbestandteile den vorgesehenen neuen
 Entgeltbestandteilen gegenüberstellen. Der Verbraucher schuldet das
 erhöhte Entgelt frühestens vier Wochen nach Zugang des hinreichend
 begründeten Erhöhungsverlangens. Der Verbraucher muss rechtzeitig
@@ -357,19 +330,19 @@ in die Kalkulationsunterlagen zu überprüfen.
 
 ## § 10 Nichtleistung oder Schlechtleistung
 
-(1) Erbringt der Unternehmer die vertraglichen Leistungen ganz oder
-teilweise nicht oder weisen sie nicht unerhebliche Mängel auf, kann
-der Verbraucher unbeschadet weitergehender zivilrechtlicher Ansprüche
-bis zu sechs Monate rückwirkend eine angemessene Kürzung des
+(1) Erbringt der Unternehmer die vertraglichen Leistungen ganz
+oder teilweise nicht oder weisen sie nicht unerhebliche Mängel auf,
+kann der Verbraucher unbeschadet weitergehender zivilrechtlicher
+Ansprüche bis zu sechs Monate rückwirkend eine angemessene Kürzung des
 vereinbarten Entgelts verlangen.
 
-(2) Zeigt sich während der Vertragsdauer ein Mangel des Wohnraums oder
-wird eine Maßnahme zum Schutz des Wohnraums gegen eine nicht
+(2) Zeigt sich während der Vertragsdauer ein Mangel des Wohnraums
+oder wird eine Maßnahme zum Schutz des Wohnraums gegen eine nicht
 vorhergesehene Gefahr erforderlich, so hat der Verbraucher dies dem
 Unternehmer unverzüglich anzuzeigen.
 
-(3) Soweit der Unternehmer infolge einer schuldhaften Unterlassung der
-Anzeige nach Absatz 2 nicht Abhilfe schaffen konnte, ist der
+(3) Soweit der Unternehmer infolge einer schuldhaften Unterlassung
+der Anzeige nach Absatz 2 nicht Abhilfe schaffen konnte, ist der
 Verbraucher nicht berechtigt, sein Kürzungsrecht nach Absatz 1 geltend
 zu machen.
 
@@ -381,11 +354,11 @@ Kürzungsbetrag vereinbart oder festgesetzt worden ist.
 Buch Sozialgesetzbuch gewährt wird, steht der Kürzungsbetrag nach
 Absatz 1 bis zur Höhe der erbrachten Leistungen vorrangig dem Träger
 der Sozialhilfe zu. Verbrauchern, die Leistungen nach dem Elften Buch
-Sozialgesetzbuch in Anspruch nehmen, steht der Kürzungsbetrag bis zur
-Höhe ihres Eigenanteils selbst zu; ein überschießender Betrag ist an
-die Pflegekasse auszuzahlen. Bei Verbrauchern, die Leistungen nach
-Teil 2 des Neunten Buches Sozialgesetzbuch in Anspruch nehmen, steht
-der Kürzungsbetrag nach Absatz 1 bis zur Höhe der erbrachten
+Sozialgesetzbuch in Anspruch nehmen, steht der Kürzungsbetrag bis
+zur Höhe ihres Eigenanteils selbst zu; ein überschießender Betrag
+ist an die Pflegekasse auszuzahlen. Bei Verbrauchern, die Leistungen
+nach Teil 2 des Neunten Buches Sozialgesetzbuch in Anspruch nehmen,
+steht der Kürzungsbetrag nach Absatz 1 bis zur Höhe der erbrachten
 Leistungen vorrangig dem Träger der Eingliederungshilfe zu.
 
 
@@ -412,11 +385,11 @@ Fortsetzung des Vertrags bis zum Ablauf der Kündigungsfrist nicht
 zuzumuten ist.
 
 (4) Die Absätze 2 und 3 sind in den Fällen des § 1 Absatz 2 auf jeden
-der Verträge gesondert anzuwenden. Kann der Verbraucher hiernach einen
-Vertrag kündigen, ist er auch zur Kündigung der anderen Verträge
+der Verträge gesondert anzuwenden. Kann der Verbraucher hiernach
+einen Vertrag kündigen, ist er auch zur Kündigung der anderen Verträge
 berechtigt. Er hat dann die Kündigung einheitlich für alle Verträge
-und zu demselben Zeitpunkt zu erklären. Bei Verträgen im Sinne des § 1
-Absatz 2 Satz 2 hat der Verbraucher die Kündigung gegenüber allen
+und zu demselben Zeitpunkt zu erklären. Bei Verträgen im Sinne des §
+1 Absatz 2 Satz 2 hat der Verbraucher die Kündigung gegenüber allen
 Unternehmern zu erklären.
 
 (5) Kündigt der Unternehmer in den Fällen des § 1 Absatz 2 einen
@@ -432,10 +405,9 @@ ist entsprechend anzuwenden.
 Die Kündigung bedarf der Schriftform und ist zu begründen. Ein
 wichtiger Grund liegt insbesondere vor, wenn
 
-1.  der Unternehmer den Betrieb einstellt, wesentlich einschränkt oder in
-    seiner Art verändert und die Fortsetzung des Vertrags für den
+1.  der Unternehmer den Betrieb einstellt, wesentlich einschränkt oder
+    in seiner Art verändert und die Fortsetzung des Vertrags für den
     Unternehmer eine unzumutbare Härte bedeuten würde,
-
 
 2.  der Unternehmer eine fachgerechte Pflege- oder Betreuungsleistung
     nicht erbringen kann, weil
@@ -443,21 +415,15 @@ wichtiger Grund liegt insbesondere vor, wenn
     a)  der Verbraucher eine vom Unternehmer angebotene Anpassung der
         Leistungen nach § 8 Absatz 1 nicht annimmt oder
 
-
     b)  der Unternehmer eine Anpassung der Leistungen aufgrund eines
         Ausschlusses nach § 8 Absatz 4 nicht anbietet
-
-
-
 
     und dem Unternehmer deshalb ein Festhalten an dem Vertrag nicht
     zumutbar ist,
 
-
 3.  der Verbraucher seine vertraglichen Pflichten schuldhaft so gröblich
     verletzt, dass dem Unternehmer die Fortsetzung des Vertrags nicht mehr
     zugemutet werden kann, oder
-
 
 4.  der Verbraucher
 
@@ -465,41 +431,35 @@ wichtiger Grund liegt insbesondere vor, wenn
         oder eines Teils des Entgelts, der das Entgelt für einen Monat
         übersteigt, im Verzug ist oder
 
-
     b)  in einem Zeitraum, der sich über mehr als zwei Termine erstreckt, mit
         der Entrichtung des Entgelts in Höhe eines Betrags in Verzug gekommen
         ist, der das Entgelt für zwei Monate erreicht.
 
-
-
-
-
-
 Eine Kündigung des Vertrags zum Zwecke der Erhöhung des Entgelts ist
 ausgeschlossen.
 
-(2) Der Unternehmer kann aus dem Grund des Absatzes 1 Satz 3 Nummer 2
-Buchstabe a nur kündigen, wenn er zuvor dem Verbraucher gegenüber sein
-Angebot nach § 8 Absatz 1 Satz 1 unter Bestimmung einer angemessenen
-Annahmefrist und unter Hinweis auf die beabsichtigte Kündigung
-erneuert hat und der Kündigungsgrund durch eine Annahme des
+(2) Der Unternehmer kann aus dem Grund des Absatzes 1 Satz 3 Nummer
+2 Buchstabe a nur kündigen, wenn er zuvor dem Verbraucher gegenüber
+sein Angebot nach § 8 Absatz 1 Satz 1 unter Bestimmung einer
+angemessenen Annahmefrist und unter Hinweis auf die beabsichtigte
+Kündigung erneuert hat und der Kündigungsgrund durch eine Annahme des
 Verbrauchers im Sinne des § 8 Absatz 1 Satz 2 nicht entfallen ist.
 
-(3) Der Unternehmer kann aus dem Grund des Absatzes 1 Satz 3 Nummer 4
-nur kündigen, wenn er zuvor dem Verbraucher unter Hinweis auf die
+(3) Der Unternehmer kann aus dem Grund des Absatzes 1 Satz 3 Nummer
+4 nur kündigen, wenn er zuvor dem Verbraucher unter Hinweis auf die
 beabsichtigte Kündigung erfolglos eine angemessene Zahlungsfrist
-gesetzt hat. Ist der Verbraucher in den Fällen des Absatzes 1 Satz 3
-Nummer 4 mit der Entrichtung des Entgelts für die Überlassung von
+gesetzt hat. Ist der Verbraucher in den Fällen des Absatzes 1 Satz
+3 Nummer 4 mit der Entrichtung des Entgelts für die Überlassung von
 Wohnraum in Rückstand geraten, ist die Kündigung ausgeschlossen, wenn
 der Unternehmer vorher befriedigt wird. Die Kündigung wird unwirksam,
-wenn der Unternehmer bis zum Ablauf von zwei Monaten nach Eintritt der
-Rechtshängigkeit des Räumungsanspruchs hinsichtlich des fälligen
+wenn der Unternehmer bis zum Ablauf von zwei Monaten nach Eintritt
+der Rechtshängigkeit des Räumungsanspruchs hinsichtlich des fälligen
 Entgelts befriedigt wird oder eine öffentliche Stelle sich zur
 Befriedigung verpflichtet.
 
 (4) In den Fällen des Absatzes 1 Satz 3 Nummer 2 bis 4 kann der
-Unternehmer den Vertrag ohne Einhaltung einer Frist kündigen. Im
-Übrigen ist eine Kündigung bis zum dritten Werktag eines
+Unternehmer den Vertrag ohne Einhaltung einer Frist kündigen.
+Im Übrigen ist eine Kündigung bis zum dritten Werktag eines
 Kalendermonats zum Ablauf des nächsten Monats zulässig.
 
 (5) Die Absätze 1 bis 4 sind in den Fällen des § 1 Absatz 2 auf jeden
@@ -515,16 +475,16 @@ einen anderen Unternehmer oder durch den Verbraucher erfolgt ist.
 
 ## § 13 Nachweis von Leistungsersatz und Übernahme von Umzugskosten
 
-(1) Hat der Verbraucher nach § 11 Absatz 3 Satz 1 aufgrund eines vom
-Unternehmer zu vertretenden Kündigungsgrundes gekündigt, ist der
+(1) Hat der Verbraucher nach § 11 Absatz 3 Satz 1 aufgrund eines
+vom Unternehmer zu vertretenden Kündigungsgrundes gekündigt, ist der
 Unternehmer dem Verbraucher auf dessen Verlangen zum Nachweis eines
 angemessenen Leistungsersatzes zu zumutbaren Bedingungen und zur
 Übernahme der Umzugskosten in angemessenem Umfang verpflichtet. § 115
 Absatz 4 des Elften Buches Sozialgesetzbuch bleibt unberührt.
 
-(2) Hat der Unternehmer nach § 12 Absatz 1 Satz 1 aus den Gründen des
-§ 12 Absatz 1 Satz 3 Nummer 1 oder nach § 12 Absatz 5 gekündigt, so
-hat er dem Verbraucher auf dessen Verlangen einen angemessenen
+(2) Hat der Unternehmer nach § 12 Absatz 1 Satz 1 aus den Gründen
+des § 12 Absatz 1 Satz 3 Nummer 1 oder nach § 12 Absatz 5 gekündigt,
+so hat er dem Verbraucher auf dessen Verlangen einen angemessenen
 Leistungsersatz zu zumutbaren Bedingungen nachzuweisen. In den Fällen
 des § 12 Absatz 1 Satz 3 Nummer 1 hat der Unternehmer auch die Kosten
 des Umzugs in angemessenem Umfang zu tragen.
@@ -533,14 +493,14 @@ des Umzugs in angemessenem Umfang zu tragen.
 Leistungsersatzes zu zumutbaren Bedingungen nach Absatz 1 auch dann
 verlangen, wenn er noch nicht gekündigt hat.
 
-(4) Wird in den Fällen des § 1 Absatz 2 ein Vertrag gekündigt, gelten
-die Absätze 1 bis 3 entsprechend. Der Unternehmer hat die Kosten des
-Umzugs in angemessenem Umfang nur zu tragen, wenn ein Vertrag über die
-Überlassung von Wohnraum gekündigt wird. Werden mehrere Verträge
-gekündigt, kann der Verbraucher den Nachweis eines angemessenen
-Leistungsersatzes zu zumutbaren Bedingungen und unter der
-Voraussetzung des Satzes 2 auch die Übernahme der Umzugskosten von
-jedem Unternehmer fordern, dessen Vertrag gekündigt ist. Die
+(4) Wird in den Fällen des § 1 Absatz 2 ein Vertrag gekündigt,
+gelten die Absätze 1 bis 3 entsprechend. Der Unternehmer hat die
+Kosten des Umzugs in angemessenem Umfang nur zu tragen, wenn ein
+Vertrag über die Überlassung von Wohnraum gekündigt wird. Werden
+mehrere Verträge gekündigt, kann der Verbraucher den Nachweis eines
+angemessenen Leistungsersatzes zu zumutbaren Bedingungen und unter
+der Voraussetzung des Satzes 2 auch die Übernahme der Umzugskosten
+von jedem Unternehmer fordern, dessen Vertrag gekündigt ist. Die
 Unternehmer haften als Gesamtschuldner.
 
 
@@ -561,8 +521,8 @@ aus dem Vertrag nur Sicherheiten verlangen kann, soweit der Vertrag
 die Überlassung von Wohnraum betrifft.
 
 (3) Ist als Sicherheit eine Geldsumme bereitzustellen, so kann diese
-in drei gleichen monatlichen Teilleistungen erbracht werden. Die erste
-Teilleistung ist zu Beginn des Vertragsverhältnisses fällig. Der
+in drei gleichen monatlichen Teilleistungen erbracht werden. Die
+erste Teilleistung ist zu Beginn des Vertragsverhältnisses fällig. Der
 Unternehmer hat die Geldsumme von seinem Vermögen getrennt für jeden
 Verbraucher einzeln bei einem Kreditinstitut zu dem für Spareinlagen
 mit dreimonatiger Kündigungsfrist marktüblichen Zinssatz anzulegen.
@@ -578,19 +538,19 @@ des Zwölften Buches Sozialgesetzbuch erhalten und in einer besonderen
 Wohnform nach § 42a Absatz 2 Satz 1 Nummer 2 und Satz 3 des Zwölften
 Buches Sozialgesetzbuch leben, kann der Unternehmer keine Sicherheiten
 nach Absatz 1 verlangen, wenn das für die Überlassung von Wohnraum
-geschuldete Entgelt durch Direktzahlung des Sozialhilfeträgers an den
-Unternehmer geleistet wird. Von Verbrauchern, die Leistungen im Sinne
-des § 36 Absatz 1 Satz 1 des Elften Buches Sozialgesetzbuch in
-Anspruch nehmen, kann der Unternehmer nur für die Erfüllung der die
-Überlassung von Wohnraum betreffenden Pflichten aus dem Vertrag
+geschuldete Entgelt durch Direktzahlung des Sozialhilfeträgers an
+den Unternehmer geleistet wird. Von Verbrauchern, die Leistungen im
+Sinne des § 36 Absatz 1 Satz 1 des Elften Buches Sozialgesetzbuch
+in Anspruch nehmen, kann der Unternehmer nur für die Erfüllung der
+die Überlassung von Wohnraum betreffenden Pflichten aus dem Vertrag
 Sicherheiten verlangen.
 
 
 ## § 15 Besondere Bestimmungen bei Bezug von Sozialleistungen
 
-(1) In Verträgen mit Verbrauchern, die Leistungen nach dem Elften Buch
-Sozialgesetzbuch in Anspruch nehmen, müssen die Vereinbarungen den
-Regelungen des Siebten und Achten Kapitels des Elften Buches
+(1) In Verträgen mit Verbrauchern, die Leistungen nach dem Elften
+Buch Sozialgesetzbuch in Anspruch nehmen, müssen die Vereinbarungen
+den Regelungen des Siebten und Achten Kapitels des Elften Buches
 Sozialgesetzbuch sowie den aufgrund des Siebten und Achten Kapitels
 des Elften Buches Sozialgesetzbuch getroffenen Regelungen entsprechen.
 Vereinbarungen, die diesen Regelungen nicht entsprechen, sind
@@ -619,9 +579,9 @@ abweichende Vereinbarungen sind unwirksam.
 
 (1) Auf Heimverträge im Sinne des § 5 Absatz 1 Satz 1 des
 Heimgesetzes, die vor dem 1. Oktober 2009 geschlossenen worden sind,
-sind bis zum 30. April 2010 die §§ 5 bis 9 und 14 Absatz 2 Nummer 4,
-Absatz 4, 7 und 8 des Heimgesetzes in ihrer bis zum 30. September 2009
-geltenden Fassung anzuwenden. Ab dem 1. Mai 2010 richten sich die
+sind bis zum 30. April 2010 die §§ 5 bis 9 und 14 Absatz 2 Nummer
+4, Absatz 4, 7 und 8 des Heimgesetzes in ihrer bis zum 30. September
+2009 geltenden Fassung anzuwenden. Ab dem 1. Mai 2010 richten sich die
 Rechte und Pflichten aus den in Satz 1 genannten Verträgen nach diesem
 Gesetz. Der Unternehmer hat den Verbraucher vor der erforderlichen
 schriftlichen Anpassung eines Vertrags in entsprechender Anwendung des

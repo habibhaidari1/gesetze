@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über den Zeitpunkt der Einführung der elektronischen Aktenführung
-  in Bußgeldverfahren im Geschäftsbereich des Bundes
+Title: Verordnung über den Zeitpunkt der Einführung der elektronischen Aktenführung in Bußgeldverfahren im Geschäftsbereich des Bundes
 jurabk: BEBußAktEV
 layout: default
 origslug: bebu_aktev
@@ -32,29 +31,24 @@ Diese Verordnung gilt für die Führung elektronischer Bußgeldakten bei
 1.  den Verwaltungsbehörden des Bundes, die als Bußgeldbehörden tätig
     sind,
 
-
 2.  dem Generalbundesanwalt beim Bundesgerichtshof und
 
-
 3.  dem Bundesgerichtshof.
-
-
-
 
 
 ## § 2 Einführung der elektronischen Akte
 
 (1) Die Akten können ab dem 25. März 2021 elektronisch geführt werden.
 
-(2) Die Präsidentin oder der Präsident des Bundesgerichtshofs, der
-Generalbundesanwalt beim Bundesgerichtshof sowie vorbehaltlich des
-Satzes 2 die jeweilige Leiterin oder der jeweilige Leiter der
+(2) Die Präsidentin oder der Präsident des Bundesgerichtshofs,
+der Generalbundesanwalt beim Bundesgerichtshof sowie vorbehaltlich
+des Satzes 2 die jeweilige Leiterin oder der jeweilige Leiter der
 Verwaltungsbehörden des Bundes, die als Bußgeldbehörden tätig sind,
 bestimmen jeweils für ihren Bereich durch Verwaltungsanordnung die
-Verfahren, in denen die Bußgeldakten elektronisch geführt werden. Für
-die Hauptzollämter bestimmt die Präsidentin oder der Präsident der
-Generalzolldirektion diese Verfahren. Die Verwaltungsanordnungen sind
-im Bundesanzeiger bekannt zu machen und auf der Internetseite
+Verfahren, in denen die Bußgeldakten elektronisch geführt werden.
+Für die Hauptzollämter bestimmt die Präsidentin oder der Präsident
+der Generalzolldirektion diese Verfahren. Die Verwaltungsanordnungen
+sind im Bundesanzeiger bekannt zu machen und auf der Internetseite
 desjenigen zu veröffentlichen, der sie erlassen hat.
 
 

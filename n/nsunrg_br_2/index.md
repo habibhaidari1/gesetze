@@ -1,6 +1,5 @@
 ---
-Title: Zweites Gesetz zur Wiedergutmachung nationalsozialistischen Unrechts in der
-  Strafrechtspflege
+Title: Zweites Gesetz zur Wiedergutmachung nationalsozialistischen Unrechts in der Strafrechtspflege
 jurabk: NSUnrG BR 2
 layout: default
 origslug: nsunrg_br_2

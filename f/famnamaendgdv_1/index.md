@@ -1,6 +1,5 @@
 ---
-Title: Erste Verordnung zur Durchführung des Gesetzes über die Änderung von Familiennamen
-  und Vornamen
+Title: Erste Verordnung zur Durchführung des Gesetzes über die Änderung von Familiennamen und Vornamen
 jurabk: FamNamÄndGDV 1
 layout: default
 origslug: famnam_ndgdv_1
@@ -33,7 +32,6 @@ folgendes verordnet:
 ## Art I
 
 
-
 ### § 1
 
 -
@@ -44,8 +42,8 @@ folgendes verordnet:
 (1) Die höhere Verwaltungsbehörde kann den Antrag auf Änderung oder
 Feststellung des Familiennamens unter Bestimmung einer Frist zur
 Geltendmachung von Einwendungen in einer von ihr zu bestimmenden
-Tageszeitung auf Kosten des Antragstellers veröffentlichen, soweit es
-zur Verhütung der Beeinträchtigung von Rechten anderer Personen
+Tageszeitung auf Kosten des Antragstellers veröffentlichen, soweit
+es zur Verhütung der Beeinträchtigung von Rechten anderer Personen
 erforderlich erscheint.
 
 (2) Wird ein Familienname geändert oder festgestellt ..., so kann die
@@ -62,8 +60,7 @@ bestimmen. Sie können diese Ermächtigung auf oberste Landesbehörden
 ### § 3 (weggefallen)
 
 
-## Art II - 
-
+## Art II
 
 
 ### Schlußformel

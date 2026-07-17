@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl II: 1961, 1391
 
 
-
 ## Art 1
 
 -

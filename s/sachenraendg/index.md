@@ -16,40 +16,31 @@ Fundstelle
 :   BGBl I: 1977, 998
 
 
-
-## Art 1 - 
-
+## Art 1
 
 
-## Art 2 - 
+## Art 2
 
 
-
-## Art 3 - 
-
+## Art 3
 
 
-## Art 4 - 
+## Art 4
 
 
-
-## Art 5 - 
-
+## Art 5
 
 
-## Art 6 - 
+## Art 6
 
 
-
-## Art 7 - 
-
+## Art 7
 
 
 ## Art 8 - Übergangs- und Schlußbestimmungen
 
 
-
-## § 1
+### § 1
 
 (1) Ein Anspruch nach § 1179a oder § 1179b des Bürgerlichen
 Gesetzbuchs in der Fassung von Artikel 1 dieses Gesetzes besteht nicht
@@ -67,40 +58,40 @@ dem eingetragenen Gläubiger des Rechts ein Anspruch nach § 1179a oder
 im Grundbuch einzutragen.
 
 (3) Auf eine Löschungsvormerkung, die vor dem Inkrafttreten dieses
-Gesetzes in das Grundbuch eingetragen oder deren Eintragung vor diesem
-Zeitpunkt beantragt worden ist, ist § 1179 des Bürgerlichen
+Gesetzes in das Grundbuch eingetragen oder deren Eintragung vor
+diesem Zeitpunkt beantragt worden ist, ist § 1179 des Bürgerlichen
 Gesetzbuchs in der bisherigen Fassung anzuwenden. Wird die Eintragung
 einer Löschungsvormerkung zugunsten eines im Range gleich- oder
 nachstehenden Berechtigten oder des eingetragenen Gläubigers des
-betroffenen Rechts nach Inkrafttreten dieses Gesetzes beantragt, so
-gilt das gleiche, wenn dem Berechtigten wegen Absatz 1 oder 2 ein
-Löschungsanspruch nach den §§ 1179a und 1179b des Bürgerlichen
+betroffenen Rechts nach Inkrafttreten dieses Gesetzes beantragt,
+so gilt das gleiche, wenn dem Berechtigten wegen Absatz 1 oder 2
+ein Löschungsanspruch nach den §§ 1179a und 1179b des Bürgerlichen
 Gesetzbuchs nicht zusteht.
 
 
-## § 2
+### § 2
 
 Auf die Ergänzung des über eine Hypothek, Grundschuld oder
-Rentenschuld vor Inkrafttreten dieses Gesetzes erteilten Briefes ist §
-57 der Grundbuchordnung in der bisherigen Fassung anzuwenden. Jedoch
-soll eine nach Inkrafttreten dieses Gesetzes bei dem Recht
+Rentenschuld vor Inkrafttreten dieses Gesetzes erteilten Briefes
+ist § 57 der Grundbuchordnung in der bisherigen Fassung anzuwenden.
+Jedoch soll eine nach Inkrafttreten dieses Gesetzes bei dem Recht
 eingetragene Löschungsvormerkung nach § 1179 des Bürgerlichen
 Gesetzbuchs auch auf Antrag nicht auf dem Brief vermerkt werden.
 
 
-## § 3
+### § 3
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes auch im Land Berlin.
 
 
-## § 4
+### § 4
 
 (1) Dieses Gesetz tritt mit Ausnahme der Artikel 6 und 7 am 1. Januar
 1978 in Kraft.
 
-(2) Die Artikel 6 und 7 treten am Tage nach der Verkündung in Kraft;
-sie gelten auch für Ansprüche, die durch eine vor diesem Zeitpunkt
-eingetragene Vormerkung gesichert sind, soweit nicht eine
-rechtskräftige gerichtliche Entscheidung  entgegensteht.
+(2) Die Artikel 6 und 7 treten am Tage nach der Verkündung in
+Kraft; sie gelten auch für Ansprüche, die durch eine vor diesem
+Zeitpunkt eingetragene Vormerkung gesichert sind, soweit nicht eine
+rechtskräftige gerichtliche Entscheidung entgegensteht.
 

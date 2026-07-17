@@ -1,6 +1,5 @@
 ---
-Title: Verordnung zur Absenkung der Steuersätze im Jahr 2022 nach § 11 Absatz 2 des
-  Luftverkehrsteuergesetzes
+Title: Verordnung zur Absenkung der Steuersätze im Jahr 2022 nach § 11 Absatz 2 des Luftverkehrsteuergesetzes
 jurabk: LuftVStAbsenkV 2022
 layout: default
 origslug: luftvstabsenkv_2022
@@ -20,9 +19,9 @@ Fundstelle
 ## Eingangsformel
 
 Auf Grund des § 11 Absatz 2 des Luftverkehrsteuergesetzes, der zuletzt
-durch Artikel 198 Nummer 1 der Verordnung vom 19. Juni 2020 (BGBl. I
-S. 1328) geändert worden ist, verordnet das Bundesministerium der
-Finanzen im Einvernehmen mit dem Bundesministerium für Umwelt,
+durch Artikel 198 Nummer 1 der Verordnung vom 19. Juni 2020 (BGBl.
+I S. 1328) geändert worden ist, verordnet das Bundesministerium
+der Finanzen im Einvernehmen mit dem Bundesministerium für Umwelt,
 Naturschutz und nukleare Sicherheit, dem Bundesministerium für Verkehr
 und digitale Infrastruktur und dem Bundesministerium für Wirtschaft
 und Energie:
@@ -35,34 +34,14 @@ Treibhausgasemissionszertifikaten werden die Steuersätze des § 11
 Absatz 1 Nummer 1 bis 3 des Gesetzes für das Jahr 2022 abgesenkt. Die
 Steuer beträgt je Fluggast für Flüge mit einem Zielort
 
-1.
-    *        *   in einem Land der Anlage 1 zu dem Gesetz:
+1.  | in einem Land der Anlage 1 zu dem Gesetz: | 12,77 Euro, |
+    | --- | --- |
 
-        *   12,77 Euro,
+2.  | in einem Land der Anlage 2 zu dem Gesetz: | 32,35 Euro, |
+    | --- | --- |
 
-
-
-
-
-2.
-    *        *   in einem Land der Anlage 2 zu dem Gesetz:
-
-        *   32,35 Euro,
-
-
-
-
-
-3.
-    *        *   in anderen Ländern:
-
-        *   58,23 Euro.
-
-
-
-
-
-
+3.  | in anderen Ländern: | 58,23 Euro. |
+    | --- | --- |
 
 
 ## § 2 Inkrafttreten

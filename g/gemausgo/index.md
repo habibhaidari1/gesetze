@@ -29,7 +29,6 @@ folgende Geschäftsordnung beschlossen:
 ## I. Abschnitt - Zusammensetzung und Einberufung
 
 
-
 ### § 1 Zusammensetzung
 
 (1) Der Gemeinsame Ausschuß besteht aus 32 vom Bundestag aus seiner
@@ -62,8 +61,8 @@ anzurechnen.
 
 ### § 3 Ausscheiden von Abgeordneten
 
-Ein dem Gemeinsamen Ausschuß angehörender Abgeordneter scheidet aus
-diesem zu dem Zeitpunkt aus, zu dem er den Verzicht auf seine
+Ein dem Gemeinsamen Ausschuß angehörender Abgeordneter scheidet
+aus diesem zu dem Zeitpunkt aus, zu dem er den Verzicht auf seine
 Mitgliedschaft im Gemeinsamen Ausschuß dem Präsidenten des Bundestages
 gegenüber erklärt, die Mitgliedschaft im Bundestag verliert oder aus
 der Fraktion ausscheidet, die ihn vorgeschlagen hat.
@@ -132,21 +131,20 @@ Bundesregierung unverzüglich über die Einberufung.
 
 ### § 9 Feststellung nach Artikel 115a Abs. 2 und 115e Abs. 1 des Grundgesetzes
 
-Der Gemeinsame Ausschuß soll eine Feststellung nach Artikel 115a Abs.
-2 oder Artikel 115e Abs. 1 des Grundgesetzes erst treffen, nachdem der
-amtierende Präsident des Bundestages mitgeteilt hat, daß einem
-rechtzeitigen Zusammentritt des Bundestages unüberwindliche
+Der Gemeinsame Ausschuß soll eine Feststellung nach Artikel 115a
+Abs. 2 oder Artikel 115e Abs. 1 des Grundgesetzes erst treffen,
+nachdem der amtierende Präsident des Bundestages mitgeteilt hat, daß
+einem rechtzeitigen Zusammentritt des Bundestages unüberwindliche
 Hindernisse entgegenstehen oder daß dieser nicht beschlußfähig ist.
 
 
 ## II. Abschnitt - Verfahrensbestimmungen
 
 
-
 ### § 10 Nichtöffentlichkeit
 
-Die Beratungen des Gemeinsamen Ausschusses sind nicht öffentlich. § 69
-Abs. 2 Satz 1 und Abs. 7 der Geschäftsordnung des Bundestages, die
+Die Beratungen des Gemeinsamen Ausschusses sind nicht öffentlich. §
+69 Abs. 2 Satz 1 und Abs. 7 der Geschäftsordnung des Bundestages, die
 Geheimschutzordnung des Bundestages und die Ausführungsbestimmungen
 dazu finden entsprechende Anwendung.
 
@@ -178,8 +176,8 @@ der Mitglieder oder der Stellvertreter anwesend ist.
 
 ### § 13 Beschlußmehrheiten
 
-(1) Der Gemeinsame Ausschuß faßt seine Beschlüsse mit der Mehrheit der
-abgegebenen Stimmen, soweit nicht das Grundgesetz etwas anderes
+(1) Der Gemeinsame Ausschuß faßt seine Beschlüsse mit der Mehrheit
+der abgegebenen Stimmen, soweit nicht das Grundgesetz etwas anderes
 bestimmt.
 
 (2) Bei Schlußabstimmungen über Gesetze ist das Ergebnis der
@@ -203,8 +201,8 @@ Wahlen werden mit verdeckten Stimmzetteln durchgeführt.
 
 ### § 16 Anträge nach Artikel 115h Abs. 2 des Grundgesetzes (Mißtrauensvotum)
 
-Ein Antrag nach Artikel 115h Abs. 2 Satz 2 des Grundgesetzes muß von
-mindestens neun Mitgliedern des Gemeinsamen Ausschusses gestellt
+Ein Antrag nach Artikel 115h Abs. 2 Satz 2 des Grundgesetzes muß
+von mindestens neun Mitgliedern des Gemeinsamen Ausschusses gestellt
 werden.
 
 
@@ -238,7 +236,7 @@ Gemeinsamen Ausschuß von zwei Mitgliedern ausgeübt werden.
 ### § 19 Änderung der Geschäftsordnung und Abweichungen von der Geschäftsordnung
 
 Ist die Feststellung nach Artikel 115e Abs. 1 des Grundgesetzes
-getroffen, kann der Gemeinsame Ausschuß diese Geschäftsordnung ändern
-und im Einzelfall mit einer Mehrheit von zwei Dritteln seiner
+getroffen, kann der Gemeinsame Ausschuß diese Geschäftsordnung
+ändern und im Einzelfall mit einer Mehrheit von zwei Dritteln seiner
 Mitglieder von den Bestimmungen dieser Geschäftsordnung abweichen.
 

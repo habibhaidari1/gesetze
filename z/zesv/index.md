@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Zentrale Ethik-Kommission für Stammzellenforschung und
-  über die zuständige Behörde nach dem Stammzellgesetz
+Title: Verordnung über die Zentrale Ethik-Kommission für Stammzellenforschung und über die zuständige Behörde nach dem Stammzellgesetz
 jurabk: ZESV
 layout: default
 origslug: zesv
@@ -23,8 +22,8 @@ Zuletzt geändert durch
 ## Eingangsformel
 
 Auf Grund des § 8 Abs. 4 des Stammzellgesetzes vom 28. Juni 2002
-(BGBl. I S. 2277) verordnet die Bundesregierung und auf Grund des § 7
-Abs. 1 Satz 1 des Stammzellgesetzes verordnet das Bundesministerium
+(BGBl. I S. 2277) verordnet die Bundesregierung und auf Grund des §
+7 Abs. 1 Satz 1 des Stammzellgesetzes verordnet das Bundesministerium
 für Gesundheit:
 
 
@@ -35,17 +34,17 @@ ist das Robert Koch-Institut.
 
 (2) Die Zuständigkeit für die Verfolgung und Ahndung von
 Ordnungswidrigkeiten nach § 14 Absatz 1 des Stammzellgesetzes wird auf
-das Robert Koch-Institut übertragen.
+das Robert Koch-Institut übertragen.
 
 
 ## § 2 Aufgaben der Zentralen Ethik-Kommission für Stammzellenforschung
 
-Die Zentrale Ethik-Kommission für Stammzellenforschung nach § 8 Abs. 1
-und 2 des Stammzellgesetzes (Kommission) prüft und bewertet nach § 9
-des Stammzellgesetzes auf Anforderung der zuständigen Behörde, ob
-Forschungsvorhaben, die Gegenstand eines Antrags auf Genehmigung nach
-§ 6 des Stammzellgesetzes sind, die Voraussetzungen nach § 5 des
-Stammzellgesetzes erfüllen und in diesem Sinne ethisch vertretbar
+Die Zentrale Ethik-Kommission für Stammzellenforschung nach § 8 Abs.
+1 und 2 des Stammzellgesetzes (Kommission) prüft und bewertet nach
+§ 9 des Stammzellgesetzes auf Anforderung der zuständigen Behörde,
+ob Forschungsvorhaben, die Gegenstand eines Antrags auf Genehmigung
+nach § 6 des Stammzellgesetzes sind, die Voraussetzungen nach § 5
+des Stammzellgesetzes erfüllen und in diesem Sinne ethisch vertretbar
 sind, und gibt dazu gegenüber der zuständigen Behörde schriftliche
 Stellungnahmen nach den Vorschriften dieser Verordnung ab.
 
@@ -84,11 +83,11 @@ ihre Mitgliedschaft jederzeit beenden.
 ## § 5 Vorsitz und Stellvertretung
 
 Die Mitglieder oder die stimmberechtigten stellvertretenden Mitglieder
-(§ 10 Abs. 4) wählen aus dem Kreis der Mitglieder eine Person für den
-Vorsitz (vorsitzendes Mitglied) und zwei Personen für die
+(§ 10 Abs. 4) wählen aus dem Kreis der Mitglieder eine Person
+für den Vorsitz (vorsitzendes Mitglied) und zwei Personen für die
 Stellvertretung. Die Wahl erfolgt für die Dauer von drei Jahren,
-längstens jedoch für die Dauer der Mitgliedschaft. Die Wiederwahl ist
-zulässig.
+längstens jedoch für die Dauer der Mitgliedschaft. Die Wiederwahl
+ist zulässig.
 
 
 ## § 6 Berichterstatter
@@ -97,14 +96,14 @@ zulässig.
 zuständige Behörde werden von dem vorsitzenden Mitglied auf je zwei
 berichterstattende Personen (Berichterstatter) aus dem Kreis der
 Mitglieder und der stellvertretenden Mitglieder verteilt. Ein Mitglied
-und das diese Person vertretende stellvertretende Mitglied werden aus
-den Fachrichtungen Ethik oder Theologie, ein Mitglied und das diese
-Person vertretende stellvertretende Mitglied werden aus den
+und das diese Person vertretende stellvertretende Mitglied werden
+aus den Fachrichtungen Ethik oder Theologie, ein Mitglied und das
+diese Person vertretende stellvertretende Mitglied werden aus den
 Fachrichtungen Biologie oder Medizin als Berichterstatter benannt. Das
 Nähere regelt die Kommission in ihrer Geschäftsordnung (§ 15).
 
-(2) Die Berichterstatter nehmen eine Prüfung und Bewertung nach § 9
-des Stammzellgesetzes vor und geben dazu schriftliche oder
+(2) Die Berichterstatter nehmen eine Prüfung und Bewertung nach
+§ 9 des Stammzellgesetzes vor und geben dazu schriftliche oder
 elektronische Voten für die Stellungnahmen der Kommission ab. Sie
 berichten der Kommission.
 
@@ -122,10 +121,10 @@ bestimmter Aufgaben betrauen.
 
 (2) Die Kommission kann mit der Mehrheit ihrer Mitglieder oder
 stimmberechtigten stellvertretenden Mitglieder beschließen, die
-antragstellende Person nach § 6 Abs. 2 des Stammzellgesetzes oder die
-für das Forschungsvorhaben verantwortliche Person (§ 6 Abs. 2 Satz 2
-Nr. 1 des Stammzellgesetzes) anzuhören und zu ihren Sitzungen zu
-laden.
+antragstellende Person nach § 6 Abs. 2 des Stammzellgesetzes oder
+die für das Forschungsvorhaben verantwortliche Person (§ 6 Abs. 2
+Satz 2 Nr. 1 des Stammzellgesetzes) anzuhören und zu ihren Sitzungen
+zu laden.
 
 
 ## § 8 Geschäftsstelle
@@ -142,8 +141,8 @@ der Wahrnehmung ihrer Aufgaben.
 (3) Die Geschäftsstelle nimmt die an die Kommission gerichteten
 Anforderungen der zuständigen Behörde auf Abgabe von Stellungnahmen
 entgegen, unterrichtet die zuständige Behörde bei Unvollständigkeit
-oder sonstigen offensichtlichen Mängeln der Antragsunterlagen nach § 6
-Abs. 2 des Stammzellgesetzes unverzüglich und sorgt für die
+oder sonstigen offensichtlichen Mängeln der Antragsunterlagen nach
+§ 6 Abs. 2 des Stammzellgesetzes unverzüglich und sorgt für die
 fristgerechte Abgabe der Stellungnahmen durch die Kommission.
 
 
@@ -159,15 +158,15 @@ anzuberaumen.
 jede Sitzung auf Vorschlag der Geschäftsstelle eine Tagesordnung auf.
 
 (3) Die Einladung, die Tagesordnung und die Sitzungsunterlagen sollen
-den Mitgliedern und den stellvertretenden Mitgliedern spätestens eine
-Woche vor der Sitzung zugehen. Auf die Einhaltung der Frist kann
-verzichtet werden, wenn mindestens zwei Drittel der Mitglieder
+den Mitgliedern und den stellvertretenden Mitgliedern spätestens
+eine Woche vor der Sitzung zugehen. Auf die Einhaltung der Frist
+kann verzichtet werden, wenn mindestens zwei Drittel der Mitglieder
 einverstanden sind. Die zuständige Behörde erhält die Einladung, die
 Tagesordnung und auf Anforderung die Sitzungsunterlagen nachrichtlich.
 
 (4) Mitglieder, die an der Teilnahme verhindert sind, unterrichten
-unverzüglich die sie vertretenden stellvertretenden Mitglieder und die
-Geschäftsstelle.
+unverzüglich die sie vertretenden stellvertretenden Mitglieder und
+die Geschäftsstelle.
 
 (5) Auf Antrag der Mehrheit der Mitglieder der Kommission ist zu einer
 außerordentlichen Sitzung einzuladen.
@@ -181,8 +180,8 @@ stellvertretenden Mitglieder sollen an den Sitzungen teilnehmen.
 (2) Das vorsitzende Mitglied eröffnet, leitet und schließt die
 Sitzungen; es ist für die Ordnung verantwortlich.
 
-(3) Zu Beginn der Sitzung wird über die Tagesordnung entschieden. Auf
-Beschluss von zwei Dritteln der Mitglieder oder stimmberechtigten
+(3) Zu Beginn der Sitzung wird über die Tagesordnung entschieden.
+Auf Beschluss von zwei Dritteln der Mitglieder oder stimmberechtigten
 stellvertretenden Mitglieder kann die Tagesordnung ergänzt werden.
 
 (4) Stimmberechtigt sind die Mitglieder, im Fall ihrer Verhinderung
@@ -204,8 +203,8 @@ stimmberechtigten stellvertretenden Mitglieder.
 
 (3) Jedes überstimmte Mitglied oder stimmberechtigte stellvertretende
 Mitglied kann verlangen, dass der Stellungnahme der Kommission ein
-schriftliches Minderheitsvotum angefügt wird. Das Minderheitsvotum ist
-zu begründen. Aus der Begründung muss sich ergeben, auf welchen
+schriftliches Minderheitsvotum angefügt wird. Das Minderheitsvotum
+ist zu begründen. Aus der Begründung muss sich ergeben, auf welchen
 Einzelerwägungen die Ablehnung der Stellungnahme beruht.
 
 (4) Die Kommission kann im schriftlichen Verfahren entscheiden, wenn
@@ -221,13 +220,13 @@ Beratungsgegenstände, deren Ergebnisse und ihre Begründung sowie die
 Stimmenverhältnisse ausweist. Minderheitsvoten werden protokolliert.
 Dem Sitzungsprotokoll ist eine Anwesenheitsliste beizufügen.
 
-(2) Zur Erleichterung der Erstellung des Sitzungsprotokolls kann die
-Geschäftsstelle den Sitzungsverlauf auf Tonträger aufzeichnen.
+(2) Zur Erleichterung der Erstellung des Sitzungsprotokolls kann
+die Geschäftsstelle den Sitzungsverlauf auf Tonträger aufzeichnen.
 Unmittelbar nach Genehmigung des Sitzungsprotokolls durch die
 Kommission sind die Aufzeichnungen zu löschen.
 
-(3) Das Sitzungsprotokoll ist vom vorsitzenden Mitglied der Kommission
-und von einer beauftragten Person der Geschäftsstelle zu
+(3) Das Sitzungsprotokoll ist vom vorsitzenden Mitglied der
+Kommission und von einer beauftragten Person der Geschäftsstelle zu
 unterzeichnen, wobei die elektronische Namenswiedergabe genügt.
 
 (4) Die Geschäftsstelle übersendet das Sitzungsprotokoll an die
@@ -237,8 +236,8 @@ Behörde. Das Sitzungsprotokoll ist vertraulich zu behandeln.
 
 ## § 13 Zusammenarbeit mit der zuständigen Behörde
 
-(1) Die Kommission soll spätestens sechs Wochen, nachdem ihr die
-Anforderung der zuständigen Behörde und die vollständigen
+(1) Die Kommission soll spätestens sechs Wochen, nachdem ihr
+die Anforderung der zuständigen Behörde und die vollständigen
 Antragsunterlagen nach § 6 Abs. 2 des Stammzellgesetzes vorliegen,
 ihre Stellungnahme der zuständigen Behörde übermitteln. Die zuständige
 Behörde kann die Frist auf Antrag um höchstens vier Wochen verlängern.

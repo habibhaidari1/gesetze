@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zur Reduzierung und zur Beendigung der Kohleverstromung und zur Änderung
-  weiterer Gesetze
+Title: Gesetz zur Reduzierung und zur Beendigung der Kohleverstromung und zur Änderung weiterer Gesetze
 jurabk: KohleAusG
 layout: default
 origslug: kohleausg
@@ -16,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2020, 1818
 
-Geändert durch
-:   Art. 3b G v. 3.12.2020 I 2682
+Zuletzt geändert durch
+:   Art. 3 G v. 25.11.2025 I Nr. 283
 
 
 ## Eingangsformel
@@ -28,29 +27,27 @@ Der Bundestag hat das folgende Gesetz beschlossen:
 ## Art 1 Gesetz zur Reduzierung und zur Beendigung der Kohleverstromung (Kohleverstromungsbeendigungsgesetz - KVBG)
 
 
-
 ## (XXXX) Art 2 bis 9 Änderungsvorschriften
-
 
 
 ## Art 10 Beihilferechtlicher Vorbehalt
 
-Die Regelungen zur Zuschlagserteilung und Entstehung des Anspruchs auf
-den Steinkohlezuschlag in der Steinkohleausschreibung nach Artikel 1 §
-18 Absatz 8, § 20 Absatz 1, §§ 21 und 23, die Regelungen zur
-Entschädigung für die Stilllegung von Braunkohleanlagen nach Artikel 1
-§§ 44 und 45 und die Änderungen des Kraft-Wärme-Kopplungsgesetzes
-durch Artikel 7 dürfen erst angewendet werden, wenn und soweit eine
-beihilferechtliche Genehmigung durch die Europäische Kommission
-vorliegt oder wenn und soweit die Europäische Kommission mitgeteilt
-hat, dass die beihilferechtliche Prüfung auf andere Weise zum
-Abschluss gebracht werden kann. Im Fall einer Genehmigung nach Satz 1
-dürfen die in Satz 1 genannten Regelungen nur nach Maßgabe und für die
-Dauer der jeweiligen Genehmigung angewendet werden. Das
-Bundesministerium für Wirtschaft und Energie macht den Tag der
-Bekanntgabe der beihilferechtlichen Genehmigung jeweils im
+Die Regelungen zur Entschädigung für die Stilllegung
+von Braunkohleanlagen nach den §§ 44 und 45 des
+Kohleverstromungsbeendigungsgesetzes vom 8. August 2020 (BGBl. I S.
+1818), das zuletzt durch Artikel 2 des Gesetzes vom 25. November 2025
+(BGBl. 2025 I Nr. 283) geändert worden ist, sowie die Regelungen zur
+Vergütung der Zeitlich gestreckten Stilllegung nach § 50 Absatz 1
+Satz 2 des Kohleverstromungsbeendigungsgesetzes dürfen erst angewendet
+werden, wenn und soweit eine beihilferechtliche Genehmigung durch die
+Europäische Kommission vorliegt oder wenn und soweit die Europäische
+Kommission mitgeteilt hat, dass die beihilferechtliche Prüfung
+auf andere Weise zum Abschluss gebracht werden kann. Im Fall einer
+Genehmigung nach Satz 1 dürfen die in Satz 1 genannten Regelungen nur
+nach Maßgabe und für die Dauer der jeweiligen Genehmigung angewendet
+werden. Das Bundesministerium für Wirtschaft und Energie macht den
+Tag der Bekanntgabe der beihilferechtlichen Genehmigung jeweils im
 Bundesanzeiger bekannt.
-
 
 
 ## Art 11 Inkrafttreten

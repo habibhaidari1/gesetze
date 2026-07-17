@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl I: 1990, 758
 
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz

@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Höhe der Regelbedarfe nach § 20 Absatz 5 des Zweiten
-  Buches Sozialgesetzbuch für die Zeit ab 1. Januar 2016
+Title: Bekanntmachung über die Höhe der Regelbedarfe nach § 20 Absatz 5 des Zweiten Buches Sozialgesetzbuch für die Zeit ab 1. Januar 2016
 jurabk: RBBek 2016
 layout: default
 origslug: rbbek_2016
@@ -32,11 +31,9 @@ die Zeit ab 1. Januar 2016 anerkannt:
     Partnerin oder Partner minderjährig ist, monatlich 404 Euro (§ 20
     Absatz 2 Satz 1 SGB II);
 
-
 2.  für sonstige erwerbsfähige Angehörige der Bedarfsgemeinschaft, sofern
     sie das 18. Lebensjahr noch nicht vollendet haben, monatlich 306 Euro
     (§ 20 Absatz 2 Satz 2 Nummer 1 SGB II);
-
 
 3.  für sonstige erwerbsfähige Angehörige der Bedarfsgemeinschaft, sofern
     sie das 18. Lebensjahr vollendet haben, sowie für Personen, die das
@@ -45,26 +42,19 @@ die Zeit ab 1. Januar 2016 anerkannt:
     zur Vollendung des 25. Lebensjahres, monatlich 324 Euro (§ 20 Absatz 2
     Satz 2 Nummer 2 SGB II und § 20 Absatz 3 SGB II);
 
-
 4.  für zwei Partner der Bedarfsgemeinschaft, die das 18. Lebensjahr
     vollendet haben, für jede dieser Personen ein Betrag in Höhe von
     monatlich 364 Euro (§ 20 Absatz 4 SGB II);
 
-
 5.  für eine Person bis zur Vollendung des sechsten Lebensjahres monatlich
     237 Euro (§ 23 Nummer 1 erste Alternative SGB II);
 
-
 6.  für eine Person vom Beginn des siebten bis zur Vollendung des 14.
-    Lebensjahres monatlich 270 Euro (§ 23 Nummer 1 zweite Alternative SGB
-    II);
-
+    Lebensjahres monatlich 270 Euro (§ 23 Nummer 1 zweite Alternative
+    SGB II);
 
 7.  für Leistungsberechtigte im 15. Lebensjahr monatlich 306 Euro (§ 23
     Nummer 1 dritte Alternative SGB II).
-
-
-
 
 
 ## Schlussformel

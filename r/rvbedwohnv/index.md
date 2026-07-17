@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Zulässigkeit und den Umfang der Wohnungsfürsorge für Bedienstete
-  der Träger der Rentenversicherung
+Title: Verordnung über die Zulässigkeit und den Umfang der Wohnungsfürsorge für Bedienstete der Träger der Rentenversicherung
 jurabk: RVBedWohnV
 layout: default
 origslug: rvbedwohnv
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 2005, 1098
-
 
 
 ## Eingangsformel
@@ -55,9 +53,9 @@ Voraussetzungen nach Absatz 1 zulässig.
 (1) Wohnungsfürsorge ist auf angemessenen Wohnraum zu beschränken.
 
 (2) Die angemessene Wohnungsgröße richtet sich für bundesunmittelbare
-Rentenversicherungsträger nach den baufachlichen Bestimmungen für
-bundeseigene oder mit Bundesmitteln geförderte Wohnungen. Für
-landesunmittelbare Rentenversicherungsträger richtet sich die
+Rentenversicherungsträger nach den baufachlichen Bestimmungen
+für bundeseigene oder mit Bundesmitteln geförderte Wohnungen.
+Für landesunmittelbare Rentenversicherungsträger richtet sich die
 angemessene Wohnungsgröße nach den entsprechenden landesrechtlichen
 Bestimmungen. Soweit solche nicht vorhanden sind, finden die
 Bestimmungen für bundeseigene oder mit Bundesmitteln geförderte
@@ -75,9 +73,9 @@ zuständigen Aufsichtsbehörde vorzunehmen.
 
 ## § 4 Befristung
 
-Maßnahmen der Wohnungsfürsorge sind nur zulässig, wenn sie bis zum 31.
-Dezember 2008 eingeleitet werden. Dies gilt nicht für die Errichtung,
-den Umbau und die Modernisierung von funktionsbezogenen
+Maßnahmen der Wohnungsfürsorge sind nur zulässig, wenn sie bis
+zum 31. Dezember 2008 eingeleitet werden. Dies gilt nicht für die
+Errichtung, den Umbau und die Modernisierung von funktionsbezogenen
 Dienstwohnungen sowie von Dienstwohnungen für Klinikpersonal in
 Rehabilitationseinrichtungen.
 

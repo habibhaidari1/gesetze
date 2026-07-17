@@ -33,10 +33,10 @@ medizinisch anerkannten Störungen der Sexualpräferenz.
 
 (3) Eine Konversionsbehandlung liegt nicht vor bei operativen
 medizinischen Eingriffen oder Hormonbehandlungen, die darauf gerichtet
-sind, die selbstempfundene geschlechtliche Identität einer Person zum
-Ausdruck zu bringen oder dem Wunsch einer Person nach einem eher
-männlichen oder eher weiblichen körperlichen Erscheinungsbild zu
-entsprechen.
+sind, die selbstempfundene geschlechtliche Identität einer Person
+zum Ausdruck zu bringen oder dem Wunsch einer Person nach einem
+eher männlichen oder eher weiblichen körperlichen Erscheinungsbild
+zu entsprechen.
 
 
 ## § 2 Verbot der Durchführung von Konversionsbehandlungen
@@ -45,8 +45,8 @@ entsprechen.
 durchzuführen, die unter 18 Jahre alt ist.
 
 (2) Bei Personen, die zwar das 18. Lebensjahr vollendet haben, deren
-Einwilligung zur Durchführung der Konversionsbehandlung aber auf einem
-Willensmangel beruht, ist eine Konversionsbehandlung ebenfalls
+Einwilligung zur Durchführung der Konversionsbehandlung aber auf
+einem Willensmangel beruht, ist eine Konversionsbehandlung ebenfalls
 untersagt.
 
 
@@ -64,13 +64,9 @@ Telefon- und Online-Beratungsdienst ein. Die Beratung richtet sich an
 1.  alle Personen, die von Konversionsbehandlungen betroffen sind oder
     sein können und an ihre Angehörigen sowie
 
-
-2.  alle Personen, die sich aus beruflichen oder privaten Gründen mit
-    sexueller Orientierung und selbstempfundener geschlechtlicher
+2.  alle Personen, die sich aus beruflichen oder privaten Gründen
+    mit sexueller Orientierung und selbstempfundener geschlechtlicher
     Identität befassen oder dazu beraten.
-
-
-
 
 (2) Die Beratung wird mehrsprachig und anonym angeboten.
 

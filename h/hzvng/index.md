@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zur Einführung einer kapitalgedeckten Hüttenknappschaftlichen Zusatzversicherung
-  und zur Änderung anderer Gesetze
+Title: Gesetz zur Einführung einer kapitalgedeckten Hüttenknappschaftlichen Zusatzversicherung und zur Änderung anderer Gesetze
 jurabk: HZvNG
 layout: default
 origslug: hzvng
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 2002, 2167
-
 
 
 ## Eingangsformel
@@ -40,7 +38,6 @@ bekannt.
 
 
 ## (XXXX) Art 3 bis 23
-
 
 
 ## Art 24 Neubekanntmachung des Vierten Buches Sozialgesetzbuch

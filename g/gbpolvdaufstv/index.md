@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Ausbildung und Prüfung für den verkürzten Aufstieg in den
-  gehobenen Polizeivollzugsdienst in der Bundespolizei
+Title: Verordnung über die Ausbildung und Prüfung für den verkürzten Aufstieg in den gehobenen Polizeivollzugsdienst in der Bundespolizei
 jurabk: GBPolVDAufstV
 layout: default
 origslug: gbpolvdaufstv
@@ -33,19 +32,19 @@ Bundesministerium des Innern:
 
 ### § 1 Gegenstand
 
-Diese Verordnung regelt die Auswahl, die Ausbildung und das
-Prüfungsgespräch für den verkürzten Aufstieg von
+Diese Verordnung regelt die Auswahl, die Ausbildung und
+das Prüfungsgespräch für den verkürzten Aufstieg von
 Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten des mittleren
-Polizeivollzugsdienstes in den gehobenen Polizeivollzugsdienst in der
-Bundespolizei nach den §§ 16 und 16a der Bundespolizei-
+Polizeivollzugsdienstes in den gehobenen Polizeivollzugsdienst
+in der Bundespolizei nach den §§ 16 und 16a der Bundespolizei-
 Laufbahnverordnung.
 
 
 ### § 2 Ziele der Ausbildung
 
 (1) Die Ausbildung vermittelt den Polizeivollzugsbeamtinnen und
-Polizeivollzugsbeamten das erforderliche Fach- und Methodenwissen, das
-sie befähigt, Aufgaben im Schnittstellenbereich der Laufbahn des
+Polizeivollzugsbeamten das erforderliche Fach- und Methodenwissen,
+das sie befähigt, Aufgaben im Schnittstellenbereich der Laufbahn des
 mittleren und der des gehobenen Polizeivollzugsdienstes wahrzunehmen.
 Aufgaben im Schnittstellenbereich sind Aufgaben, die in der Regel
 keine Führungs- und Fortbilderbefähigung erfordern. Zu ihnen gehören
@@ -54,8 +53,8 @@ und Streifenbeamter, als Ermittlungsbeamtin oder Ermittlungsbeamter
 oder als Sachbearbeiterin oder Sachbearbeiter.
 
 (2) Aufbauend auf den Fähigkeiten des mittleren
-Polizeivollzugsdienstes und auf vorhandenem Laufbahnwissen werden die
-berufsbezogenen Kenntnisse und Fertigkeiten in den Schwerpunkten
+Polizeivollzugsdienstes und auf vorhandenem Laufbahnwissen werden
+die berufsbezogenen Kenntnisse und Fertigkeiten in den Schwerpunkten
 analytische Fähigkeiten, ganzheitliches Planen und verantwortliches
 Handeln sowie selbstständiges Lernen vertieft. Die persönliche und
 soziale Kompetenz wird ausgebaut.
@@ -63,9 +62,9 @@ soziale Kompetenz wird ausgebaut.
 
 ### § 3 Auswahlverfahren
 
-(1) Über die Zulassung zum verkürzten Aufstieg entscheidet das
-Bundespolizeipräsidium auf Grundlage der Ergebnisse eines
-Auswahlverfahrens. Das Auswahlverfahren wird von der
+(1) Über die Zulassung zum verkürzten Aufstieg entscheidet
+das Bundespolizeipräsidium auf Grundlage der Ergebnisse
+eines Auswahlverfahrens. Das Auswahlverfahren wird von der
 Bundespolizeiakademie durchgeführt.
 
 (2) In dem Auswahlverfahren wird festgestellt, ob die Bewerberinnen
@@ -87,14 +86,11 @@ Auswahlkommission gebildet. Sie besteht aus
 1.  einer Beamtin oder einem Beamten des höheren Dienstes als Vorsitzender
     oder Vorsitzendem sowie
 
-
-2.  zwei Beamtinnen oder Beamten des gehobenen Polizeivollzugsdienstes in
-    der Bundespolizei, denen laufbahnrechtlich ein Amt der
-    Besoldungsgruppe A 13 (gehobener Dienst) verliehen werden kann und die
-    über eine mehrjährige Erfahrung als Mitglied in einer
+2.  zwei Beamtinnen oder Beamten des gehobenen Polizeivollzugsdienstes
+    in der Bundespolizei, denen laufbahnrechtlich ein Amt der
+    Besoldungsgruppe A 13 (gehobener Dienst) verliehen werden kann
+    und die über eine mehrjährige Erfahrung als Mitglied in einer
     Auswahlkommission verfügen.
-
-
 
 Die Mitglieder der Auswahlkommission werden vom Bundespolizeipräsidium
 auf Vorschlag der Bundespolizeiakademie für vier Jahre bestellt.
@@ -131,43 +127,29 @@ vermittelt.
 
 1.  Einsatzlehre,
 
-
 2.  Kriminalistik und
 
-
 3.  Polizeidienstkunde.
-
-
-
 
 (3) Das Ausbildungsgebiet 2 besteht aus den Fächern
 
 1.  Einsatzrecht und
 
-
 2.  Recht des öffentlichen Dienstes.
-
-
-
 
 (4) Das Ausbildungsgebiet 3 besteht aus den Fächern
 
 1.  Staats- und Verfassungsrecht,
 
-
 2.  politische Bildung und
-
 
 3.  Psychologie.
 
 
-
-
-
 ### § 6 Dienstaufsicht und Durchführung
 
-(1) Die Bundespolizeiakademie führt die Dienstaufsicht über die an der
-Ausbildung teilnehmenden Polizeivollzugsbeamtinnen und
+(1) Die Bundespolizeiakademie führt die Dienstaufsicht über die
+an der Ausbildung teilnehmenden Polizeivollzugsbeamtinnen und
 Polizeivollzugsbeamten während der Ausbildung.
 
 (2) Die theoretische Ausbildung findet in der Regel in der
@@ -184,11 +166,7 @@ In einem Ausbildungsplan regelt die Bundespolizeiakademie
 
 1.  Einzelheiten zu den Inhalten der Ausbildung sowie
 
-
 2.  Einzelheiten zur Organisation und Durchführung der Ausbildung.
-
-
-
 
 
 ## Abschnitt 3 - Prüfungsgespräch
@@ -203,9 +181,9 @@ Prüfungsamt der Bundespolizeiakademie zuständig.
 ### § 9 Prüfungskommission
 
 (1) Das Prüfungsamt der Bundespolizeiakademie richtet für die
-Durchführung des Prüfungsgespräches eine Prüfungskommission ein. Bei
-Bedarf können mehrere Prüfungskommissionen eingerichtet werden. In
-diesem Fall stellt das Prüfungsamt sicher, dass alle
+Durchführung des Prüfungsgespräches eine Prüfungskommission
+ein. Bei Bedarf können mehrere Prüfungskommissionen eingerichtet
+werden. In diesem Fall stellt das Prüfungsamt sicher, dass alle
 Prüfungskommissionen gleiche Bewertungsmaßstäbe anlegen.
 
 (2) Die Prüfungskommission besteht aus
@@ -213,16 +191,13 @@ Prüfungskommissionen gleiche Bewertungsmaßstäbe anlegen.
 1.  einer Beamtin oder einem Beamten des höheren Dienstes als Vorsitzender
     oder Vorsitzendem und
 
-
 2.  zwei Beamtinnen oder Beamten des gehobenen Dienstes, denen
     laufbahnrechtlich ein Amt der Besoldungsgruppe A 13 (gehobener Dienst)
     verliehen werden kann und die mindestens ein Amt der Besoldungsgruppe
     A 11 innehaben.
 
-
-
-Mindestens ein Mitglied der Prüfungskommission soll Lehrende oder
-Lehrender an der Bundespolizeiakademie sein. Mindestens zwei
+Mindestens ein Mitglied der Prüfungskommission soll Lehrende
+oder Lehrender an der Bundespolizeiakademie sein. Mindestens zwei
 Mitglieder sollen dem Polizeivollzugsdienst in der Bundespolizei
 angehören. Mitglieder der Prüfungskommission können auch vergleichbare
 Angestellte sein.
@@ -230,8 +205,8 @@ Angestellte sein.
 (3) Die Mitglieder der Prüfungskommission sind in dieser Funktion
 unabhängig und nicht weisungsgebunden.
 
-(4) Die Prüfungskommission ist beschlussfähig, wenn alle Mitglieder
-anwesend sind. Sie entscheidet mit Stimmenmehrheit. Eine
+(4) Die Prüfungskommission ist beschlussfähig, wenn alle
+Mitglieder anwesend sind. Sie entscheidet mit Stimmenmehrheit. Eine
 Stimmenthaltung ist nicht zulässig.
 
 
@@ -239,8 +214,8 @@ Stimmenthaltung ist nicht zulässig.
 
 (1) Gegenstand des Prüfungsgespräches sind die in § 5 aufgeführten
 Ausbildungsgebiete. Die Prüfungsteilnehmerinnen und Prüfungsteilnehmer
-sollen nachweisen, dass sie die Inhalte der Ausbildung beherrschen und
-zueinander in Beziehung setzen können und ihre Kenntnisse und
+sollen nachweisen, dass sie die Inhalte der Ausbildung beherrschen
+und zueinander in Beziehung setzen können und ihre Kenntnisse und
 Fähigkeiten den Anforderungen des gehobenen Polizeivollzugsdienstes
 mit begrenzter Ämterreichweite genügen.
 
@@ -272,127 +247,24 @@ Protokollführerin oder der Protokollführer anwesend sein.
 
 (1) Die Leistungen im Prüfungsgespräch werden wie folgt bewertet:
 
-*    *   Prozentualer Anteil
-        der erreichten Punktzahl
-        an der erreichbaren Punktzahl
-
-    *   Rang-
-        punkte
-
-    *   Note
-
-    *   Notendefinition
-
-
-*    *   93,70 bis 100,00
-
-    *   15
-
-    *   sehr gut
-
-    *   eine Leistung, die den Anforderungen in besonderem Maß entspricht
-
-
-*    *   87,50 bis  93,69
-
-    *   14
-
-
-*    *   83,40 bis  87,49
-
-    *   13
-
-    *   gut
-
-    *   eine Leistung, die den Anforderungen voll entspricht
-
-
-*    *   79,20 bis  83,39
-
-    *   12
-
-
-*    *   75,00 bis  79,19
-
-    *   11
-
-
-*    *   70,90 bis  74,99
-
-    *   10
-
-    *   befriedigend
-
-    *   eine Leistung, die im Allgemeinen den Anforderungen entspricht
-
-
-*    *   66,70 bis  70,89
-
-    *   9
-
-
-*    *   62,50 bis  66,69
-
-    *   8
-
-
-*    *   58,40 bis  62,49
-
-    *   7
-
-    *   ausreichend
-
-    *   eine Leistung, die zwar Mängel aufweist, aber im Ganzen den
-        Anforderungen noch entspricht
-
-
-*    *   54,20 bis  58,39
-
-    *   6
-
-
-*    *   50,00 bis  54,19
-
-    *   5
-
-
-*    *   41,70 bis  49,99
-
-    *   4
-
-    *   mangelhaft
-
-    *   eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen
-        lässt, dass die notwendigen Grundkenntnisse vorhanden sind und die
-        Mängel in absehbarer Zeit behoben werden können
-
-
-*    *   33,40 bis  41,69
-
-    *   3
-
-
-*    *   25,00 bis  33,39
-
-    *   2
-
-
-*    *   12,50 bis  24,99
-
-    *   1
-
-    *   ungenügend
-
-    *   eine Leistung, die den Anforderungen nicht entspricht und bei der
-        selbst die Grundkenntnisse so lückenhaft sind, dass die Mängel in
-        absehbarer Zeit nicht behoben werden können
-
-
-*    *   0,00 bis  12,49
-
-    *   0
-
-
+| Prozentualer Anteil der erreichten Punktzahl an der erreichbaren Punktzahl | Rang- punkte | Note | Notendefinition |
+| --- | --- | --- | --- |
+| 93,70 bis 100,00 | 15 | sehr gut | eine Leistung, die den Anforderungen in besonderem Maß entspricht |
+| 87,50 bis 93,69 | 14 |  |  |
+| 83,40 bis 87,49 | 13 | gut | eine Leistung, die den Anforderungen voll entspricht |
+| 79,20 bis 83,39 | 12 |  |  |
+| 75,00 bis 79,19 | 11 |  |  |
+| 70,90 bis 74,99 | 10 | befriedigend | eine Leistung, die im Allgemeinen den Anforderungen entspricht |
+| 66,70 bis 70,89 | 9 |  |  |
+| 62,50 bis 66,69 | 8 |  |  |
+| 58,40 bis 62,49 | 7 | ausreichend | eine Leistung, die zwar Mängel aufweist, aber im Ganzen den Anforderungen noch entspricht |
+| 54,20 bis 58,39 | 6 |  |  |
+| 50,00 bis 54,19 | 5 |  |  |
+| 41,70 bis 49,99 | 4 | mangelhaft | eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen lässt, dass die notwendigen Grundkenntnisse vorhanden sind und die Mängel in absehbarer Zeit behoben werden können |
+| 33,40 bis 41,69 | 3 |  |  |
+| 25,00 bis 33,39 | 2 |  |  |
+| 12,50 bis 24,99 | 1 | ungenügend | eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Grundkenntnisse so lückenhaft sind, dass die Mängel in absehbarer Zeit nicht behoben werden können |
+| 0,00 bis 12,49 | 0 |  |  |
 
 Bei der Bewertung werden neben der fachlichen Leistung auch die
 Klarheit der Darstellung und die Ausdrucksfähigkeit angemessen
@@ -428,8 +300,8 @@ Genehmigung in der Regel nur erteilt werden, wenn unverzüglich ein
 (1) Prüfungsteilnehmerinnen oder Prüfungsteilnehmern, die beim
 Prüfungsgespräch täuschen, eine Täuschung versuchen oder daran
 mitwirken oder sonst gegen die Ordnung verstoßen, soll die Fortsetzung
-des Prüfungsgespräches gestattet werden. Bei einem erheblichen Verstoß
-können sie von der weiteren Teilnahme am Prüfungsgespräch
+des Prüfungsgespräches gestattet werden. Bei einem erheblichen
+Verstoß können sie von der weiteren Teilnahme am Prüfungsgespräch
 ausgeschlossen werden.
 
 (2) Über das Vorliegen und die Folgen einer Täuschung, eines
@@ -440,11 +312,7 @@ sonstigen Ordnungsverstoßes entscheidet die Prüfungskommission.
 
 1.  die Wiederholung des Prüfungsgespräches anordnen oder
 
-
 2.  das gesamte Prüfungsgespräch für nicht bestanden erklären.
-
-
-
 
 (4) Wird eine Täuschung erst nach Abschluss des Prüfungsgespräches
 bekannt oder kann sie erst dann nachgewiesen werden, so kann das
@@ -486,8 +354,8 @@ Rangpunktzahl des Prüfungsgespräches und die Note.
 
 (2) Wer das Prüfungsgespräch nicht bestanden hat, erhält vom
 Prüfungsamt einen Bescheid über die erbrachten Leistungen und das
-Nichtbestehen. Wer das Prüfungsgespräch endgültig nicht bestanden hat,
-erhält vom Prüfungsamt einen Bescheid über das endgültige
+Nichtbestehen. Wer das Prüfungsgespräch endgültig nicht bestanden
+hat, erhält vom Prüfungsamt einen Bescheid über das endgültige
 Nichtbestehen.
 
 (3) Fehler und offensichtliche Unrichtigkeiten bei der Ermittlung oder
@@ -507,15 +375,11 @@ das Prüfungsamt eine Prüfungsakte.
 
 1.  das Protokoll des Prüfungsgespräches sowie
 
-
 2.  eine Ausfertigung des Abschlusszeugnisses oder des Bescheides über das
     nicht bestandene oder endgültig nicht bestandene Prüfungsgespräch.
 
-
-
-
-(3) Die Prüfungsakten werden beim Prüfungsamt mindestens fünf Jahre
-und höchstens zehn Jahre aufbewahrt. Sie können elektronisch
+(3) Die Prüfungsakten werden beim Prüfungsamt mindestens fünf
+Jahre und höchstens zehn Jahre aufbewahrt. Sie können elektronisch
 aufbewahrt werden.
 
 (4) Auf Antrag können die Prüfungsteilnehmerinnen und

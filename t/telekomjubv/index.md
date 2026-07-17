@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Gewährung von Jubiläumszuwendungen an Beamtinnen und Beamte
-  bei der Deutschen Telekom AG
+Title: Verordnung über die Gewährung von Jubiläumszuwendungen an Beamtinnen und Beamte bei der Deutschen Telekom AG
 jurabk: TelekomJubV
 layout: default
 origslug: telekomjubv
@@ -20,23 +19,22 @@ Geändert durch
 :   Art. 2 V v. 12.10.2015 I 1685
 
 
-
 ## Eingangsformel
 
 Auf Grund des § 3 Abs. 5 des Postpersonalrechtsgesetzes vom 14.
-September 1994 (BGBl. I S. 2325, 2353), der durch Artikel 1 Nr. 3 des
-Gesetzes vom 9. November 2004 (BGBl. I S. 2774) eingefügt worden ist,
-verordnet das Bundesministerium der Finanzen auf Vorschlag des
+September 1994 (BGBl. I S. 2325, 2353), der durch Artikel 1 Nr. 3
+des Gesetzes vom 9. November 2004 (BGBl. I S. 2774) eingefügt worden
+ist, verordnet das Bundesministerium der Finanzen auf Vorschlag des
 Vorstands der Deutschen Telekom AG:
 
 
 ## § 1 Geltungsbereich
 
-Ergänzend zu den Vorschriften der Dienstjubiläumsverordnung vom 18.
-Dezember 2014 (BGBl. I S. 2267) gelten für die Beamtinnen und Beamten,
-die bei der Deutschen Telekom AG beschäftigt sind, die Vorschriften
-des § 2. Gleiches gilt auch für die Beamtinnen und Beamten bei der
-Deutschen Telekom AG, denen nach § 4 Abs. 4 des
+Ergänzend zu den Vorschriften der Dienstjubiläumsverordnung vom
+18\. Dezember 2014 (BGBl. I S. 2267) gelten für die Beamtinnen und
+Beamten, die bei der Deutschen Telekom AG beschäftigt sind, die
+Vorschriften des § 2. Gleiches gilt auch für die Beamtinnen und
+Beamten bei der Deutschen Telekom AG, denen nach § 4 Abs. 4 des
 Postpersonalrechtsgesetzes Tätigkeiten bei Unternehmen zugewiesen
 sind.
 

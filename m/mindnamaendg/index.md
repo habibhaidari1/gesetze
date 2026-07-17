@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zur Ausführung des Artikels 11 Abs. 1 des Rahmenübereinkommens des Europarats
-  vom 1. Februar 1995 zum Schutz nationaler Minderheiten
+Title: Gesetz zur Ausführung des Artikels 11 Abs. 1 des Rahmenübereinkommens des Europarats vom 1. Februar 1995 zum Schutz nationaler Minderheiten
 jurabk: MindNamÄndG
 layout: default
 origslug: mindnam_ndg
@@ -17,7 +16,7 @@ Fundstelle
 :   BGBl II: 1997, 1406
 
 Zuletzt geändert durch
-:   Art. 32 V v. 19.6.2020 I 1328
+:   Art. 3 G v. 11.6.2024 I Nr. 185
 
 
 ## § 1
@@ -30,11 +29,9 @@ finden, kann durch Erklärung gegenüber dem Standesamt
     übersetzte Form ihres Namens annehmen, wenn ihr Name einer solchen
     Übersetzung zugänglich ist (begriffliche Übertragung),
 
-
-2.  einen durch Veränderung der Schreibweise ihres Namens an eine der
-    Sprache der Minderheit oder Volksgruppe entsprechende Lautung
+2.  einen durch Veränderung der Schreibweise ihres Namens an eine
+    der Sprache der Minderheit oder Volksgruppe entsprechende Lautung
     angeglichenen Namen annehmen (phonetische Übertragung) oder
-
 
 3.  einen früher in der Sprache der nationalen Minderheit oder Volksgruppe
     geführten Namen annehmen, wenn dieser Name in eine deutsche Form
@@ -42,14 +39,13 @@ finden, kann durch Erklärung gegenüber dem Standesamt
     reicht es aus, daß der oder die Erklärende die frühere Namensführung
     glaubhaft macht.
 
-
-
 Das Standesamt, in dessen Bezirk der oder die Erklärende den Wohnsitz
 oder gewöhnlichen Aufenthalt hat, ist für die Entgegennahme der
 Erklärung zuständig. Die Landesregierungen werden ermächtigt, durch
 Rechtsverordnung die Zuständigkeit einem anderen Standesamt zu
 übertragen. Ergibt sich danach keine Zuständigkeit, ist das Standesamt
-I in Berlin zuständig.
+I in Berlin zuständig. Der Vorname eines Kindes kann sogleich in der
+Sprache der nationalen Minderheit oder Volksgruppe bestimmt werden.
 
 (2) Name im Sinne dieses Gesetzes ist der Geburts- oder Vorname, den
 eine Person nach den Vorschriften des Bürgerlichen Gesetzbuchs sowie
@@ -63,14 +59,18 @@ beurkundet werden, wenn sie nicht bei der Eheschließung gegenüber
 einem deutschen Standesamt abgegeben werden. Sie können auch von den
 Standesbeamten beglaubigt oder beurkundet werden.
 
+(5) Die Erklärungen nach Absatz 1 können gegenüber dem Standesamt
+widerrufen werden. Absatz 4 gilt entsprechend. Im Fall des Widerrufs
+ist eine erneute Erklärung nach Absatz 1 nicht zulässig.
+
 
 ## § 2
 
 Eine Änderung des Geburtsnamens erstreckt sich auf den Ehenamen oder
-Lebenspartnerschaftsnamen des oder der Erklärenden nur dann, wenn sich
-der Ehegatte oder Lebenspartner durch Erklärung gegenüber dem
-Standesamt der Namensänderung anschließt; § 1 Abs. 1 Satz 2 bis 4 und
-Abs. 4 gilt entsprechend. Auf Kinder oder deren Ehegatten oder
+Lebenspartnerschaftsnamen des oder der Erklärenden nur dann, wenn
+sich der Ehegatte oder Lebenspartner durch Erklärung gegenüber dem
+Standesamt der Namensänderung anschließt; § 1 Abs. 1 Satz 2 bis 4
+und Abs. 4 gilt entsprechend. Auf Kinder oder deren Ehegatten oder
 Lebenspartner erstreckt sich eine Namensänderung nur nach Maßgabe der
 Vorschriften des Bürgerlichen Gesetzbuchs.
 
@@ -79,12 +79,4 @@ Vorschriften des Bürgerlichen Gesetzbuchs.
 
 Für die Entgegennahme der Erklärungen und ihre Beglaubigung oder
 Beurkundung werden Gebühren nicht erhoben.
-
-
-## § 4
-
-Das Bundesministerium des Innern, für Bau und Heimat wird ermächtigt,
-im Benehmen mit dem Bundesministerium der Justiz und für
-Verbraucherschutz und mit Zustimmung des Bundesrates zur Durchführung
-dieses Gesetzes Verwaltungsvorschriften zu erlassen.
 

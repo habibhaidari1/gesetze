@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zur Förderung der agrarstrukturellen und agrarsozialen Anpassung der
-  Landwirtschaft der DDR an die soziale Marktwirtschaft - Fördergesetz -
+Title: Gesetz zur Förderung der agrarstrukturellen und agrarsozialen Anpassung der Landwirtschaft der DDR an die soziale Marktwirtschaft
 jurabk: ASLwApFG
 layout: default
 origslug: aslwapfg
@@ -8,13 +7,16 @@ slug: aslwapfg
 
 ---
 
-# Gesetz zur Förderung der agrarstrukturellen und agrarsozialen Anpassung der Landwirtschaft der DDR an die soziale Marktwirtschaft - Fördergesetz - (ASLwApFG)
+# Gesetz zur Förderung der agrarstrukturellen und agrarsozialen Anpassung der Landwirtschaft der DDR an die soziale Marktwirtschaft (ASLwApFG)
 
 Ausfertigungsdatum
 :   1990-07-06
 
 Fundstelle
 :   GBl DDR I: 1990, 633
+
+Fundstelle
+:   GBl DDR I: 1990, Nr 42, 633
 
 Geändert durch
 :   Art. 2 G v. 16.10.1992 I 1758
@@ -43,28 +45,19 @@ gefördert werden:
 1.  Maßnahmen zur Entflechtung und Neuordnung der Betriebsstruktur land-,
     forst- und fischwirtschaftlicher Betriebe,
 
-
 2.  Maßnahmen zur Neugründung von bäuerlichen Familienbetrieben,
-
 
 3.  Maßnahmen zur Verbesserung der Produktions- und Marktstruktur in der
     Land-, Forst- und Fischwirtschaft,
-
-
 
 4\.
 
 5.  Maßnahmen zur Verbesserung der Infrastruktur des ländlichen Raumes,
 
-
 6.  Maßnahmen zur Vermeidung sozialer Härten bei der Freisetzung von
     Beschäftigten,
 
-
 7.  Anpassungs- und Überbrückungshilfen.
-
-
-
 
 (2) Der Minister für Ernährung, Land- und Forstwirtschaft wird
 beauftragt, einvernehmlich mit dem Minister der Finanzen die
@@ -92,19 +85,19 @@ oder mit ihnen verbundene Auflagen nicht erfüllt, kann die Bewilligung
 zurückgenommen oder widerrufen werden. Die Förderungsmittel sind dann
 grundsätzlich ganz oder teilweise zurückzufordern.
 
-(2) Der Rückforderungsanspruch ist mit seiner Entstehung fällig und
-von diesem Zeitpunkt an mit 6 vom Hundert für das Jahr zu verzinsen.
-Von der Zinsforderung kann abgesehen werden, wenn der Empfänger der
-Förderungsmittel die Umstände, die zum Entstehen des
+(2) Der Rückforderungsanspruch ist mit seiner Entstehung fällig
+und von diesem Zeitpunkt an mit 6 vom Hundert für das Jahr zu
+verzinsen. Von der Zinsforderung kann abgesehen werden, wenn der
+Empfänger der Förderungsmittel die Umstände, die zum Entstehen des
 Rückforderungsanspruchs geführt haben, nicht zu vertreten hat und die
 Förderungsmittel innerhalb der ihm gesetzten Frist zurückzahlt.
 
 
 ## § 4 Prüfungsrecht
 
-Der Minister für Ernährung, Land- und Forstwirtschaft hat das Recht,
-die Verwendung der Förderungsmittel durch Besichtigung an Ort und
-Stelle und durch Einsichtnahme in Bücher, Belege und sonstige
+Der Minister für Ernährung, Land- und Forstwirtschaft hat das
+Recht, die Verwendung der Förderungsmittel durch Besichtigung an Ort
+und Stelle und durch Einsichtnahme in Bücher, Belege und sonstige
 Unterlagen zu prüfen bzw. durch Beauftragte prüfen zu lassen und
 Auskünfte einzuholen. Das Prüfungs- und Auskunftsrecht ist gegenüber
 allen weiteren Empfängern bis zu den Letztempfängern vorzubehalten.
@@ -126,30 +119,23 @@ Der Geltungsbereich wird in den einzelnen Anordnungen geregelt.
 
 (1) Dieses Gesetz tritt am 6. Juli 1990 in Kraft.
 
-(2)
-Gleichzeitig treten außer Kraft:
+(2) *Gleichzeitig treten außer Kraft:*
 
--   Anordnung über Förderungsmittel für LPG, GPG, VEG und deren
+-   *Anordnung über Förderungsmittel für LPG, GPG, VEG und deren
     kooperative Einrichtungen vom 10. Mai 1985 (P-Sonderdruck Nr. 1111/6
-    des Gesetzblattes),
+    des Gesetzblattes),*
 
-
--   Anordnung Nr. 2 über Förderungsmittel für LPG, GPG, VEG und deren
+-   *Anordnung Nr. 2 über Förderungsmittel für LPG, GPG, VEG und deren
     kooperative Einrichtungen vom 27. August 1987 (P-Sonderdruck Nr. 1303
-    des Gesetzblattes),
+    des Gesetzblattes),*
 
-
--   Anordnung Nr. 3 über Förderungsmittel für LPG, GPG, VEG und deren
+-   *Anordnung Nr. 3 über Förderungsmittel für LPG, GPG, VEG und deren
     kooperative Einrichtungen vom 15. August 1988 (P-Sonderdruck Nr.
-    1111/8 des Gesetzblattes),
+    1111/8 des Gesetzblattes),*
 
-
--   Anordnung Nr. 4 über Förderungsmittel für LPG, GPG, VEG und deren
+-   *Anordnung Nr. 4 über Förderungsmittel für LPG, GPG, VEG und deren
     kooperative Einrichtungen vom 9. Januar 1989 (P-Sonderdruck Nr. 1111/9
-    des Gesetzblattes).
-
-
-
+    des Gesetzblattes).*
 
 
 ## Schlußformel
@@ -157,35 +143,20 @@ Gleichzeitig treten außer Kraft:
 **Die Präsidentin der Volkskammer der Deutschen Demokratischen
 Republik**
 
-Auszug aus EinigVtr Anlage II Kapitel VI Sachgebiet A Abschnitt III
 
-## Anhang EV (BGBl. II 1990, 885, 1204)
+## Anhang EV Auszug aus EinigVtr Anlage II Kapitel VI Sachgebiet A Abschnitt III(BGBl. II 1990, 885, 1204)
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
-
-1.  Gesetz zur Förderung der agrarstrukturellen und agrarsozialen
-    Anpassung der Landwirtschaft der DDR an die soziale Marktwirtschaft -
-    Fördergesetz - vom 6. Juli 1990 (GBl. I Nr. 42 S. 633) sowie die
-    darauf gestützten Anordnungen
-
-    mit folgenden Maßgaben:
-
-    a)  Das Gesetz und die darauf gestützten Anordnungen finden nur Anwendung,
-        soweit nicht das Gesetz über die Gemeinschaftsaufgabe "Verbesserung
-        der Agrarstruktur und des Küstenschutzes" in der Fassung der
-        Bekanntmachung vom 21. Juli 1988 (BGBl. I S. 1055) anzuwenden ist.
-
-
-    b)  § 1 Abs. 1 Nr. 4 und die darauf gestützten Anordnungen treten mit
-        Ablauf des 31. Dezember 1990 außer Kraft.
-
-
-
-
-
-2.  ...
-
-
-
+1\. Gesetz zur Förderung der agrarstrukturellen und agrarsozialen
+Anpassung der Landwirtschaft der DDR an die soziale Marktwirtschaft
+- Fördergesetz - vom 6. Juli 1990 (GBl. I Nr. 42 S. 633) sowie die
+darauf gestützten Anordnungenmit folgenden Maßgaben:
+a) Das Gesetz und die darauf gestützten Anordnungen finden nur
+Anwendung, soweit nicht das Gesetz über die Gemeinschaftsaufgabe
+"Verbesserung der Agrarstruktur und des Küstenschutzes" in der Fassung
+der Bekanntmachung vom 21. Juli 1988 (BGBl. I S. 1055) anzuwenden ist.
+b) § 1 Abs. 1 Nr. 4 und die darauf gestützten Anordnungen treten mit
+Ablauf des 31. Dezember 1990 außer Kraft.
+2\. ...
 

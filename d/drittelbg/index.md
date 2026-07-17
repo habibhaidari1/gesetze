@@ -16,14 +16,10 @@ Fundstelle
 :   BGBl I: 2004, 974
 
 Zuletzt geändert durch
-:   Art. 8 G v. 24.4.2015 I 642
-
-Änderung durch
-:   Art. 21 G v. 7.8.2021 I 3311 (Nr. 51) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 21 G v. 7.8.2021 I 3311
 
 
 ## Teil 1 - Geltungsbereich
-
 
 
 ### § 1 Erfasste Unternehmen
@@ -33,38 +29,31 @@ nach Maßgabe dieses Gesetzes in
 
 1.  einer Aktiengesellschaft mit in der Regel mehr als 500 Arbeitnehmern.
     Ein Mitbestimmungsrecht im Aufsichtsrat besteht auch in einer
-    Aktiengesellschaft mit in der Regel weniger als 500 Arbeitnehmern, die
-    vor dem 10. August 1994 eingetragen worden ist und keine
+    Aktiengesellschaft mit in der Regel weniger als 500 Arbeitnehmern,
+    die vor dem 10. August 1994 eingetragen worden ist und keine
     Familiengesellschaft ist. Als Familiengesellschaften gelten solche
     Aktiengesellschaften, deren Aktionär eine einzelne natürliche Person
     ist oder deren Aktionäre untereinander im Sinne von § 15 Abs. 1 Nr. 2
     bis 8, Abs. 2 der Abgabenordnung verwandt oder verschwägert sind;
 
-
 2.  einer Kommanditgesellschaft auf Aktien mit in der Regel mehr als 500
     Arbeitnehmern. Nummer 1 Satz 2 und 3 gilt entsprechend;
-
 
 3.  einer Gesellschaft mit beschränkter Haftung mit in der Regel mehr als
     500 Arbeitnehmern. Die Gesellschaft hat einen Aufsichtsrat zu bilden;
     seine Zusammensetzung sowie seine Rechte und Pflichten bestimmen sich
-    nach § 90 Abs. 3, 4, 5 Satz 1 und 2, nach den §§ 95 bis 114, 116, 118
-    Abs. 3, § 125 Abs. 3 und 4 und nach den §§ 170, 171, 268 Abs. 2 des
-    Aktiengesetzes;
-
+    nach § 90 Abs. 3, 4, 5 Satz 1 und 2, nach den §§ 95 bis 114, 116,
+    118 Abs. 3, § 125 Abs. 3 und 4 und nach den §§ 170, 171, 268 Abs. 2
+    des Aktiengesetzes;
 
 4.  einem Versicherungsverein auf Gegenseitigkeit mit in der Regel mehr
     als 500 Arbeitnehmern, wenn dort ein Aufsichtsrat besteht;
 
-
-5.  einer Genossenschaft mit in der Regel mehr als 500 Arbeitnehmern. § 96
-    Absatz 4 und die §§ 97 bis 99 des Aktiengesetzes sind entsprechend
+5.  einer Genossenschaft mit in der Regel mehr als 500 Arbeitnehmern. §
+    96 Absatz 4 und die §§ 97 bis 99 des Aktiengesetzes sind entsprechend
     anzuwenden. Die Satzung kann nur eine durch drei teilbare Zahl von
     Aufsichtsratsmitgliedern festsetzen. Der Aufsichtsrat muss zwei
     Sitzungen im Kalenderhalbjahr abhalten.
-
-
-
 
 (2) Dieses Gesetz findet keine Anwendung auf
 
@@ -72,21 +61,14 @@ nach Maßgabe dieses Gesetzes in
     Mitbestimmungsgesetzes und die in den §§ 1 und 3 Abs. 1 des Montan-
     Mitbestimmungsergänzungsgesetzes bezeichneten Unternehmen;
 
-
 2.  Unternehmen, die unmittelbar und überwiegend
 
     a)  politischen, koalitionspolitischen, konfessionellen, karitativen,
         erzieherischen, wissenschaftlichen oder künstlerischen Bestimmungen
         oder
 
-
     b)  Zwecken der Berichterstattung oder Meinungsäußerung, auf die Artikel 5
         Abs. 1 Satz 2 des Grundgesetzes anzuwenden ist,
-
-
-
-
-
 
 dienen.
 Dieses Gesetz ist nicht anzuwenden auf Religionsgemeinschaften und
@@ -101,14 +83,14 @@ den Vorschriften dieses Gesetzes widersprechen.
 
 ### § 2 Konzern
 
-(1) An der Wahl der Aufsichtsratsmitglieder der Arbeitnehmer des
-herrschenden Unternehmens eines Konzerns (§ 18 Abs. 1 des
-Aktiengesetzes) nehmen auch die Arbeitnehmer der übrigen
+(1) An der Wahl der Aufsichtsratsmitglieder der Arbeitnehmer
+des herrschenden Unternehmens eines Konzerns (§ 18 Abs. 1
+des Aktiengesetzes) nehmen auch die Arbeitnehmer der übrigen
 Konzernunternehmen teil.
 
 (2) Soweit nach § 1 die Beteiligung der Arbeitnehmer im Aufsichtsrat
-eines herrschenden Unternehmens von dem Vorhandensein oder der Zahl
-von Arbeitnehmern abhängt, gelten die Arbeitnehmer eines
+eines herrschenden Unternehmens von dem Vorhandensein oder der
+Zahl von Arbeitnehmern abhängt, gelten die Arbeitnehmer eines
 Konzernunternehmens als solche des herrschenden Unternehmens, wenn
 zwischen den Unternehmen ein Beherrschungsvertrag besteht oder das
 abhängige Unternehmen in das herrschende Unternehmen eingegliedert
@@ -118,12 +100,12 @@ ist.
 ### § 3 Arbeitnehmer, Betrieb
 
 (1) Arbeitnehmer im Sinne dieses Gesetzes sind die in § 5 Abs. 1 des
-Betriebsverfassungsgesetzes bezeichneten Personen mit Ausnahme der in
-§ 5 Abs. 3 des Betriebsverfassungsgesetzes bezeichneten leitenden
+Betriebsverfassungsgesetzes bezeichneten Personen mit Ausnahme der
+in § 5 Abs. 3 des Betriebsverfassungsgesetzes bezeichneten leitenden
 Angestellten.
 
-(2) Betriebe im Sinne dieses Gesetzes sind solche des
-Betriebsverfassungsgesetzes. § 4 Abs. 2 des
+(2) Betriebe im Sinne dieses Gesetzes sind solche
+des Betriebsverfassungsgesetzes. § 4 Abs. 2 des
 Betriebsverfassungsgesetzes ist anzuwenden.
 
 (3) Die Gesamtheit der Schiffe eines Unternehmens gilt für die
@@ -137,25 +119,24 @@ Teil dieses Landbetriebs.
 ## Teil 2 - Aufsichtsrat
 
 
-
 ### § 4 Zusammensetzung
 
 (1) Der Aufsichtsrat eines in § 1 Abs. 1 bezeichneten Unternehmens
 muss zu einem Drittel aus Arbeitnehmervertretern bestehen.
 
 (2) Ist ein Aufsichtsratsmitglied der Arbeitnehmer oder sind zwei
-Aufsichtsratsmitglieder der Arbeitnehmer zu wählen, so müssen diese
-als Arbeitnehmer im Unternehmen beschäftigt sein. Sind mehr als zwei
 Aufsichtsratsmitglieder der Arbeitnehmer zu wählen, so müssen
-mindestens zwei Aufsichtsratsmitglieder als Arbeitnehmer im
+diese als Arbeitnehmer im Unternehmen beschäftigt sein. Sind mehr
+als zwei Aufsichtsratsmitglieder der Arbeitnehmer zu wählen, so
+müssen mindestens zwei Aufsichtsratsmitglieder als Arbeitnehmer im
 Unternehmen beschäftigt sein.
 
-(3) Die Aufsichtsratsmitglieder der Arbeitnehmer, die Arbeitnehmer des
-Unternehmens sind, müssen das 18. Lebensjahr vollendet haben und ein
-Jahr dem Unternehmen angehören. Auf die einjährige
+(3) Die Aufsichtsratsmitglieder der Arbeitnehmer, die Arbeitnehmer
+des Unternehmens sind, müssen das 18. Lebensjahr vollendet
+haben und ein Jahr dem Unternehmen angehören. Auf die einjährige
 Unternehmensangehörigkeit werden Zeiten der Angehörigkeit zu einem
-anderen Unternehmen, dessen Arbeitnehmer nach diesem Gesetz an der
-Wahl von Aufsichtsratsmitgliedern des Unternehmens teilnehmen,
+anderen Unternehmen, dessen Arbeitnehmer nach diesem Gesetz an
+der Wahl von Aufsichtsratsmitgliedern des Unternehmens teilnehmen,
 angerechnet. Diese Zeiten müssen unmittelbar vor dem Zeitpunkt liegen,
 ab dem die Arbeitnehmer zur Wahl von Aufsichtsratsmitgliedern des
 Unternehmens berechtigt sind. Die weiteren Wählbarkeitsvoraussetzungen
@@ -165,11 +146,11 @@ des § 8 Abs. 1 des Betriebsverfassungsgesetzes müssen erfüllt sein.
 und Männer entsprechend ihrem zahlenmäßigen Verhältnis im Unternehmen
 vertreten sein.
 
-(5) Unter den Aufsichtsratsmitgliedern der Arbeitnehmer eines in § 1
-Absatz 1 Nummer 1 und 3 bezeichneten Unternehmens mit
+(5) Unter den Aufsichtsratsmitgliedern der Arbeitnehmer eines
+in § 1 Absatz 1 Nummer 1 und 3 bezeichneten Unternehmens mit
 Mehrheitsbeteiligung des Bundes im Sinne des § 393a Absatz 1 des
-Aktiengesetzes oder des § 77a Absatz 1 des Gesetzes betreffend die
-Gesellschaften mit beschränkter Haftung müssen im Fall der
+Aktiengesetzes oder des § 77a Absatz 1 des Gesetzes betreffend
+die Gesellschaften mit beschränkter Haftung müssen im Fall der
 Getrennterfüllung entsprechend § 96 Absatz 2 Satz 3 des Aktiengesetzes
 Frauen und Männer jeweils mit einem Anteil von mindestens 30 Prozent
 vertreten sein.
@@ -178,9 +159,9 @@ vertreten sein.
 ### § 5 Wahl der Aufsichtsratsmitglieder der Arbeitnehmer
 
 (1) Die Aufsichtsratsmitglieder der Arbeitnehmer werden nach den
-Grundsätzen der Mehrheitswahl in allgemeiner, geheimer, gleicher und
-unmittelbarer Wahl für die Zeit gewählt, die im Gesetz oder in der
-Satzung für die von der Hauptversammlung zu wählenden
+Grundsätzen der Mehrheitswahl in allgemeiner, geheimer, gleicher
+und unmittelbarer Wahl für die Zeit gewählt, die im Gesetz oder
+in der Satzung für die von der Hauptversammlung zu wählenden
 Aufsichtsratsmitglieder bestimmt ist.
 
 (2) Wahlberechtigt sind die Arbeitnehmer des Unternehmens, die das 18.
@@ -198,15 +179,15 @@ Wahlberechtigten unterzeichnet sein.
 
 ### § 7 Ersatzmitglieder
 
-(1) In jedem Wahlvorschlag kann zusammen mit jedem Bewerber für diesen
-ein Ersatzmitglied des Aufsichtsrats vorgeschlagen werden. Ein
+(1) In jedem Wahlvorschlag kann zusammen mit jedem Bewerber für
+diesen ein Ersatzmitglied des Aufsichtsrats vorgeschlagen werden. Ein
 Bewerber kann nicht zugleich als Ersatzmitglied vorgeschlagen werden.
 
 (2) Wird ein Bewerber als Aufsichtsratsmitglied gewählt, so ist auch
 das zusammen mit ihm vorgeschlagene Ersatzmitglied gewählt.
 
-(3) Im Fall des § 4 Absatz 5 in Verbindung mit § 96 Absatz 2 Satz 3
-des Aktiengesetzes ist das Nachrücken eines Ersatzmitglieds
+(3) Im Fall des § 4 Absatz 5 in Verbindung mit § 96 Absatz 2 Satz
+3 des Aktiengesetzes ist das Nachrücken eines Ersatzmitglieds
 ausgeschlossen, wenn dadurch der Anteil von Frauen und Männern unter
 den Aufsichtsratsmitgliedern der Arbeitnehmer nicht mehr den Vorgaben
 des § 4 Absatz 5 entspricht; § 7a Absatz 2 Satz 2 gilt entsprechend.
@@ -214,29 +195,25 @@ des § 4 Absatz 5 entspricht; § 7a Absatz 2 Satz 2 gilt entsprechend.
 
 ### § 7a Nichterreichen des Geschlechteranteils
 
-(1) Ergibt im Fall des § 4 Absatz 5 in Verbindung mit § 96 Absatz 2
-Satz 3 des Aktiengesetzes die Auszählung der Stimmen und ihre
-Verteilung auf die Bewerber, dass die Vorgaben des § 4 Absatz 5 nicht
-erfüllt wurden, ist folgendes Geschlechterverhältnis für die
+(1) Ergibt im Fall des § 4 Absatz 5 in Verbindung mit § 96 Absatz
+2 Satz 3 des Aktiengesetzes die Auszählung der Stimmen und ihre
+Verteilung auf die Bewerber, dass die Vorgaben des § 4 Absatz 5
+nicht erfüllt wurden, ist folgendes Geschlechterverhältnis für die
 Aufsichtsratssitze der Arbeitnehmer herzustellen:
 
 1.  in Aufsichtsräten mit einer Größe von sechs, neun oder zwölf
     Mitgliedern müssen unter den Aufsichtsratsmitgliedern der Arbeitnehmer
     jeweils mindestens eine Frau und mindestens ein Mann vertreten sein;
 
-
 2.  in Aufsichtsräten mit einer Größe von 15, 18 und 21 Mitgliedern müssen
     unter den Aufsichtsratsmitgliedern der Arbeitnehmer jeweils mindestens
     zwei Frauen und mindestens zwei Männer vertreten sein.
 
-
-
-
-(2) Um die Verteilung der Geschlechter nach Absatz 1 zu erreichen, ist
-die Wahl derjenigen Bewerber um einen Aufsichtsratssitz der
+(2) Um die Verteilung der Geschlechter nach Absatz 1 zu erreichen,
+ist die Wahl derjenigen Bewerber um einen Aufsichtsratssitz der
 Arbeitnehmer unwirksam, deren Geschlecht nach der Verteilung der
-Stimmen auf die Bewerber mehrheitlich vertreten ist und die nach der
-Reihenfolge der auf die Bewerber entfallenden Stimmenzahlen die
+Stimmen auf die Bewerber mehrheitlich vertreten ist und die nach
+der Reihenfolge der auf die Bewerber entfallenden Stimmenzahlen die
 niedrigsten Stimmenzahlen erhalten haben. Die durch unwirksame Wahl
 nach Satz 1 nicht besetzten Aufsichtsratssitze werden im Wege der
 gerichtlichen Ersatzbestellung nach § 104 des Aktiengesetzes oder der
@@ -245,11 +222,11 @@ Nachwahl besetzt; § 4 Absatz 2 Satz 2 ist zu beachten.
 
 ### § 8 Bekanntmachung der Mitglieder des Aufsichtsrats
 
-Das zur gesetzlichen Vertretung des Unternehmens befugte Organ hat die
-Namen der Mitglieder und der Ersatzmitglieder des Aufsichtsrats
+Das zur gesetzlichen Vertretung des Unternehmens befugte Organ hat
+die Namen der Mitglieder und der Ersatzmitglieder des Aufsichtsrats
 unverzüglich nach ihrer Bestellung in den Betrieben des Unternehmens
-bekannt zu machen und im Bundesanzeiger zu veröffentlichen. Nehmen an
-der Wahl der Aufsichtsratsmitglieder des Unternehmens auch die
+bekannt zu machen und im Bundesanzeiger zu veröffentlichen. Nehmen
+an der Wahl der Aufsichtsratsmitglieder des Unternehmens auch die
 Arbeitnehmer eines anderen Unternehmens teil, so ist daneben das zur
 gesetzlichen Vertretung des anderen Unternehmens befugte Organ zur
 Bekanntmachung in seinen Betrieben verpflichtet.
@@ -292,13 +269,9 @@ nicht geändert oder beeinflusst werden konnte.
 
 1.  mindestens drei Wahlberechtigte,
 
-
 2.  die Betriebsräte,
 
-
 3.  das zur gesetzlichen Vertretung des Unternehmens befugte Organ.
-
-
 
 Die Anfechtung ist nur binnen einer Frist von zwei Wochen, vom Tag der
 Veröffentlichung im Bundesanzeiger an gerechnet, zulässig.
@@ -321,7 +294,6 @@ anzuwenden.
 ## Teil 3 - Übergangs- und Schlussvorschriften
 
 
-
 ### § 13 Ermächtigung zum Erlass von Rechtsverordnungen
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung
@@ -333,38 +305,26 @@ Aufsichtsratsmitgliedern der Arbeitnehmer zu erlassen, insbesondere
     Wählerlisten und die Errechnung der Zahl der Aufsichtsratsmitglieder
     der Arbeitnehmer;
 
-
 2.  die Frist für die Einsichtnahme in die Wählerlisten und die Erhebung
     von Einsprüchen gegen sie;
 
-
 3.  die Wahlvorschläge und die Frist für ihre Einreichung;
-
 
 3a. das Verfahren zur Berücksichtigung der Geschlechter;
 
-
 4.  das Wahlausschreiben und die Frist für seine Bekanntmachung;
-
 
 5.  die Teilnahme von Arbeitnehmern eines in § 3 Abs. 3 bezeichneten
     Betriebs an der Wahl;
 
-
 6.  die Stimmabgabe;
-
 
 7.  die Feststellung des Wahlergebnisses und die Fristen für seine
     Bekanntmachung;
 
-
 8.  die Anfechtung der Wahl;
 
-
 9.  die Aufbewahrung der Wahlakten.
-
-
-
 
 
 ### § 14 Verweisungen
@@ -381,8 +341,8 @@ ihre Stelle die entsprechenden Vorschriften dieses Gesetzes.
 einschließlich 31. März 2022 abgeschlossen sind, ist dieses Gesetz in
 der bis zum 11. August 2021 geltenden Fassung anzuwenden.
 
-(2) Eine Wahl von Aufsichtsratsmitgliedern der Arbeitnehmer gilt als
-abgeschlossen, wenn die Bekanntmachung der Mitglieder des
+(2) Eine Wahl von Aufsichtsratsmitgliedern der Arbeitnehmer gilt
+als abgeschlossen, wenn die Bekanntmachung der Mitglieder des
 Aufsichtsrats nach § 8 Satz 1 durch das zur gesetzlichen Vertretung
 des Unternehmens befugte Organ erfolgt ist.
 

@@ -1,5 +1,5 @@
 ---
-Title: Gesetz zur Errichtung einer "Bundesstiftung Baukultur"
+Title: "Gesetz zur Errichtung einer \"Bundesstiftung Baukultur\""
 jurabk: BauStiftG
 layout: default
 origslug: baustiftg
@@ -19,7 +19,6 @@ Zuletzt geändert durch
 :   Art. 157 V v. 19.6.2020 I 1328
 
 
-
 ## § 1 Name, Rechtsform und Sitz der Stiftung
 
 Unter dem Namen "Bundesstiftung Baukultur" wird eine rechtsfähige
@@ -29,14 +28,14 @@ Stiftung des öffentlichen Rechts mit Sitz in Potsdam errichtet.
 ## § 2 Stiftungszweck
 
 Zweck der Stiftung ist es, die Qualität, Nachhaltigkeit und
-Leistungsfähigkeit des Planungs- und Bauwesens in Deutschland national
-wie international herauszustellen und das Bewusstsein für gutes
-Planen, Bauen und Baukultur sowie den Wert der gebauten Umwelt bei
-Bauschaffenden und bei der Bevölkerung zu stärken. Dazu soll die
-Stiftung insbesondere als Kommunikationsplattform für die bundesweite
-Diskussion städtebaulicher, planerischer, bau- und
-wohnungswirtschaftlicher Qualitätsmaßstäbe dienen. Die Stiftung wird
-sich dabei auf Instrumente mit bundesweiter und internationaler
+Leistungsfähigkeit des Planungs- und Bauwesens in Deutschland
+national wie international herauszustellen und das Bewusstsein
+für gutes Planen, Bauen und Baukultur sowie den Wert der gebauten
+Umwelt bei Bauschaffenden und bei der Bevölkerung zu stärken. Dazu
+soll die Stiftung insbesondere als Kommunikationsplattform für
+die bundesweite Diskussion städtebaulicher, planerischer, bau- und
+wohnungswirtschaftlicher Qualitätsmaßstäbe dienen. Die Stiftung
+wird sich dabei auf Instrumente mit bundesweiter und internationaler
 Ausstrahlung konzentrieren. Maßnahmen der Länder und Gemeinden bleiben
 hiervon unberührt.
 
@@ -92,14 +91,9 @@ Organe der Stiftung sind
 
 1.  der Vorstand,
 
-
 2.  der Stiftungsrat,
 
-
 3.  der Beirat.
-
-
-
 
 
 ## § 6 Vorstand
@@ -125,17 +119,12 @@ und vertritt die Stiftung gerichtlich und außergerichtlich.
 
 1.  fünf Mitglieder entsendet der Deutsche Bundestag aus seiner Mitte,
 
-
-2.  je ein Mitglied entsenden das Bundesministerium des Innern, für Bau
-    und Heimat, das Bundesministerium der Finanzen sowie die für
-    Angelegenheiten der Kultur und der Medien zuständige oberste
+2.  je ein Mitglied entsenden das Bundesministerium des Innern, für
+    Bau und Heimat, das Bundesministerium der Finanzen sowie die
+    für Angelegenheiten der Kultur und der Medien zuständige oberste
     Bundesbehörde,
 
-
 3.  fünf Mitglieder entsendet der Konvent der Baukultur.
-
-
-
 
 (2) Die Entsendung der Mitglieder des Stiftungsrats erfolgt für vier
 Jahre. Die wiederholte Entsendung ist zulässig. Scheidet ein Mitglied
@@ -160,8 +149,8 @@ seiner Mitglieder anwesend ist. Er fasst seine Beschlüsse mit
 einfacher Mehrheit. Bei Stimmengleichheit entscheidet die Stimme der
 Vorsitzenden oder des Vorsitzenden.
 
-(7) Die Mitglieder des Stiftungsrats sind ehrenamtlich tätig und haben
-Anspruch auf eine Reisekostenentschädigung nach Maßgabe des
+(7) Die Mitglieder des Stiftungsrats sind ehrenamtlich tätig und
+haben Anspruch auf eine Reisekostenentschädigung nach Maßgabe des
 Bundesreisekostengesetzes.
 
 (8) Das Nähere regelt die Satzung.
@@ -177,8 +166,8 @@ Viertel der Mitglieder ernennt der Stiftungsrat auf Vorschlag des
 Konvents der Baukultur.
 
 (2) Die Ernennung der Mitglieder des Beirats erfolgt für vier Jahre.
-Die erneute Ernennung der Mitglieder ist einmal zulässig. Scheidet ein
-Mitglied vorzeitig aus, kann der Stiftungsrat für den Rest der
+Die erneute Ernennung der Mitglieder ist einmal zulässig. Scheidet
+ein Mitglied vorzeitig aus, kann der Stiftungsrat für den Rest der
 Amtszeit einen Nachfolger benennen.
 
 (3) Mit der Mehrheit seiner Mitglieder wählt der Beirat aus seiner
@@ -214,8 +203,8 @@ des Innern, für Bau und Heimat.
 
 (2) Für das Haushalts-, Kassen- und Rechnungswesen sowie für die
 Rechnungslegung der Stiftung finden die für die Bundesverwaltung
-geltenden Bestimmungen entsprechende Anwendung. Die Stiftung hat
-rechtzeitig vor Beginn eines jeden Geschäftsjahres einen
+geltenden Bestimmungen entsprechende Anwendung. Die Stiftung
+hat rechtzeitig vor Beginn eines jeden Geschäftsjahres einen
 Wirtschaftsplan aufzustellen, der der Genehmigung des Stiftungsrats
 bedarf.
 
@@ -237,11 +226,11 @@ anzuwenden.
 ## § 12 Übergangsregelung
 
 Um die Stiftung in die Lage zu versetzen, den ersten Konvent der
-Baukultur nach § 3 vorzubereiten und durchzuführen, konstituiert sich
-der Stiftungsrat zunächst ohne die vom Konvent der Baukultur zu
-benennenden Mitglieder. Dieser Stiftungsrat ist berechtigt und
-verpflichtet, alle im Zusammenhang mit der Vorbereitung und
-Durchführung des Konvents erforderlichen sowie unabweisbare
+Baukultur nach § 3 vorzubereiten und durchzuführen, konstituiert
+sich der Stiftungsrat zunächst ohne die vom Konvent der Baukultur
+zu benennenden Mitglieder. Dieser Stiftungsrat ist berechtigt
+und verpflichtet, alle im Zusammenhang mit der Vorbereitung
+und Durchführung des Konvents erforderlichen sowie unabweisbare
 Entscheidungen zu treffen. Dies umfasst auch die Bestellung eines
 vorläufigen Vorstands sowie die Verabschiedung einer vorläufigen
 Satzung. Die §§ 7 und 9 gelten entsprechend.

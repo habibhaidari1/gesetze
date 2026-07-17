@@ -21,9 +21,9 @@ Zuletzt geändert durch
 
 ## Eingangsformel
 
-Auf Grund des § 7 des Düngemittelgesetzes vom 15. November 1977 (BGBl.
-I S. 2134), der durch Artikel 4 Nr. 4 des Gesetzes vom 27. September
-1994 (BGBl. I S. 2705) geändert worden ist, verordnet das
+Auf Grund des § 7 des Düngemittelgesetzes vom 15. November 1977
+(BGBl. I S. 2134), der durch Artikel 4 Nr. 4 des Gesetzes vom 27.
+September 1994 (BGBl. I S. 2705) geändert worden ist, verordnet das
 Bundesministerium für Verbraucherschutz, Ernährung und Landwirtschaft:
 
 
@@ -47,27 +47,18 @@ sind:
     der Julius Kühn-Institut, Bundesforschungsinstitut für Kulturpflanzen,
     angehört,
 
-
 2.  zwei Mitglieder auf dem Fachgebiet Pflanzenbau oder Bodenkunde,
-
 
 3.  ein Mitglied auf dem Fachgebiet Ökologischer Landbau,
 
-
 4.  ein Mitglied auf dem Fachgebiet Düngemittelanalytik,
-
 
 5.  ein Mitglied auf dem Fachgebiet Toxikologie, das dem Bundesinstitut
     für Risikobewertung angehört,
 
-
 6.  ein Mitglied auf dem Fachgebiet Ökotoxikologie,
 
-
 7.  ein Mitglied auf dem Fachgebiet Umwelt- und Tierhygiene.
-
-
-
 
 (2) Die Mitglieder des Beirats werden vom Bundesministerium für fünf
 Jahre berufen.
@@ -76,16 +67,12 @@ Jahre berufen.
 
 1.  ein Mitglied als Hochschullehrer entpflichtet wird,
 
-
 2.  ein für die Berufung in den Beirat maßgebendes Beamten- oder
     Angestelltenverhältnis eines Mitglieds endet,
-
 
 3.  ein Mitglied im Rahmen eines bestehenden Beamten- oder
     Angestelltenverhältnisses mit Aufgaben betraut wird, die nicht für die
     Berufung maßgebend waren.
-
-
 
 Die Mitglieder können ihr Ausscheiden aus dem Beirat gegenüber dem
 Bundesministerium jederzeit schriftlich erklären.
@@ -93,8 +80,8 @@ Bundesministerium jederzeit schriftlich erklären.
 (4) Scheidet ein Mitglied vorzeitig aus, beruft das Bundesministerium
 für die verbleibende Berufungsdauer ein Ersatzmitglied.
 
-(5) Die Mitglieder üben ihre Tätigkeit ehrenamtlich aus. Notwendige
-Reisekosten werden auf Antrag nach den Richtlinien des
+(5) Die Mitglieder üben ihre Tätigkeit ehrenamtlich aus.
+Notwendige Reisekosten werden auf Antrag nach den Richtlinien des
 Bundesministeriums der Finanzen über die Abfindung der Mitglieder von
 Beiräten, Ausschüssen, Kommissionen und ähnlichen Einrichtungen im
 Bereich des Bundes vom 9. November 1981 (GMBl. S. 515) in der jeweils

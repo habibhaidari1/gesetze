@@ -16,52 +16,6 @@ Fundstelle
 :   BGBl I: 2013, 2579
 
 
-## Inhaltsverzeichnis
-
-Inhaltsübersicht
-
-*    *   § 1
-
-    *   Mitglieder
-
-
-*    *   § 2
-
-    *   Vorsitz
-
-
-*    *   § 3
-
-    *   Leitung der Sitzungen
-
-
-*    *   § 4
-
-    *   Geschäftsführung
-
-
-*    *   § 5
-
-    *   Sitzungen
-
-
-*    *   § 6
-
-    *   Beschlüsse
-
-
-*    *   § 7
-
-    *   Ausschussangelegenheiten, Ergebnisniederschriften
-
-
-*    *   § 8
-
-    *   Unterausschüsse
-
-
-
-
 ## § 1 Mitglieder
 
 (1) Der Ausschuss für medizinische Ausstattung in der Seeschifffahrt
@@ -70,10 +24,7 @@ Verbindung mit Absatz 5 des Seearbeitsgesetzes berufenen
 
 1.  ständigen Mitgliedern mit Stimmrecht und
 
-
 2.  ständigen beratenden Mitgliedern ohne Stimmrecht.
-
-
 
 Ferner nehmen Personen an den Sitzungen des Ausschusses teil, die nach
 § 108 Absatz 5 Satz 5 des Seearbeitsgesetzes vom Bundesministerium für
@@ -85,9 +36,9 @@ ihre Stellvertreter durch eine Urkunde, die der betroffenen Person
 übersandt oder ausgehändigt wird. Der Empfang der Urkunde ist zu
 bestätigen.
 
-(3) An den Sitzungen des Ausschusses nehmen jeweils nur die Mitglieder
-teil. Ein Mitglied, das an der Teilnahme an einer Sitzung des
-Ausschusses verhindert ist, wird durch seinen jeweiligen
+(3) An den Sitzungen des Ausschusses nehmen jeweils nur die
+Mitglieder teil. Ein Mitglied, das an der Teilnahme an einer
+Sitzung des Ausschusses verhindert ist, wird durch seinen jeweiligen
 Stellvertreter vertreten; in diesem Fall nimmt der Stellvertreter die
 Rechte und Pflichten des vertretenen Mitgliedes wahr.
 
@@ -103,8 +54,8 @@ fachlichen Meinung unabhängig und weisungsfrei.
 
 ## § 2 Vorsitz
 
-Den Vorsitz führt ein Vertreter des Bundesministeriums, der kein
-Stimmrecht hat. Der Vorsitzende kann an den Sitzungen aller
+Den Vorsitz führt ein Vertreter des Bundesministeriums, der
+kein Stimmrecht hat. Der Vorsitzende kann an den Sitzungen aller
 Unterausschüsse nach § 8 teilnehmen.
 
 
@@ -124,10 +75,10 @@ Berufsgenossenschaft (Geschäftsführer). Der Geschäftsführer untersteht
 den Weisungen des Vorsitzes. Der Geschäftsführer hat die Wahrnehmung
 der Aufgaben fachlich geeigneten Personen zu übertragen.
 
-(2) Der Geschäftsführer hat den Vorsitz des Ausschusses, den Ausschuss
-und die Unterausschüsse administrativ zu unterstützen. Er koordiniert
-die administrativen Angelegenheiten des Ausschusses und der
-Unterausschüsse. Insbesondere stellt der Geschäftsführer
+(2) Der Geschäftsführer hat den Vorsitz des Ausschusses, den
+Ausschuss und die Unterausschüsse administrativ zu unterstützen.
+Er koordiniert die administrativen Angelegenheiten des Ausschusses
+und der Unterausschüsse. Insbesondere stellt der Geschäftsführer
 Beratungsunterlagen, Beschlussvorlagen sowie Beratungsergebnisse
 zusammen und erstellt die Ergebnisniederschriften der Sitzungen des
 Ausschusses und der Unterausschüsse.
@@ -192,8 +143,8 @@ einstimmig gefasst werden. Ergeben sich für einen zu fassenden
 Beschluss bei zwei Abstimmungen hintereinander keine einstimmigen
 Ergebnisse, wird der Beschluss mit der Mehrheit von zwei Dritteln der
 anwesenden stimmberechtigten Mitglieder gefasst. Entscheidungen, die
-Beschlüsse vorbereiten, insbesondere zu Verfahrensanträgen, werden mit
-einfacher Mehrheit der anwesenden stimmberechtigten Mitglieder
+Beschlüsse vorbereiten, insbesondere zu Verfahrensanträgen, werden
+mit einfacher Mehrheit der anwesenden stimmberechtigten Mitglieder
 getroffen.
 
 (3) Außerhalb von Sitzungen können Beschlüsse im schriftlichen
@@ -219,10 +170,10 @@ Ausschusses ist von dem Geschäftsführer eine Ergebnisniederschrift
 anzufertigen, welche die Beratungs- und Abstimmungsergebnisse sowie
 den Wortlaut der Beschlüsse und die Teilnehmerliste enthält. Das
 Führen des Protokolls während der Sitzung obliegt dem Geschäftsführer.
-Eine Ausfertigung der Ergebnisniederschrift für die Akten ist vom
-Vorsitzenden und vom Protokollführer zu unterzeichnen. Die
-Ergebnisniederschriften werden dem Vorsitzenden sowie den Mitgliedern
-übersandt und nicht veröffentlicht. Die nach § 5 Absatz 7
+Eine Ausfertigung der Ergebnisniederschrift für die Akten ist
+vom Vorsitzenden und vom Protokollführer zu unterzeichnen.
+Die Ergebnisniederschriften werden dem Vorsitzenden sowie den
+Mitgliedern übersandt und nicht veröffentlicht. Die nach § 5 Absatz 7
 hinzugezogenen Sachverständigen können die Ergebnisniederschrift oder
 Auszüge daraus erhalten, soweit deren Fachfragen betroffen sind.
 
@@ -235,10 +186,10 @@ werden in dieser Sitzung behandelt.
 Ergebnisniederschriften des Ausschusses sind vertraulich zu behandeln.
 Die Vertraulichkeit der Sitzungen und der Ergebnisniederschriften
 lässt die Behandlung von Arbeitsthemen in der Organisation der
-Ausschussmitglieder zur Einholung von weiterem Sachverstand zu. Jede
-öffentliche Verlautbarung im Namen des Ausschusses oder seiner
-Untergremien zu deren Belangen oder zu Belangen von Mitgliedern des
-Ausschusses oder seiner Untergremien bedarf der Zustimmung des
+Ausschussmitglieder zur Einholung von weiterem Sachverstand zu.
+Jede öffentliche Verlautbarung im Namen des Ausschusses oder seiner
+Untergremien zu deren Belangen oder zu Belangen von Mitgliedern
+des Ausschusses oder seiner Untergremien bedarf der Zustimmung des
 Vorsitzenden.
 
 (4) Das Bundesministerium hat den vom Ausschuss festgestellten Stand

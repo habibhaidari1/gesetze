@@ -22,9 +22,7 @@ Zuletzt geändert durch
 ## Abschnitt I u. II
 
 
-
 ## Abschnitt III - Inanspruchnahme von Berliner Altbanken und verlagerten Geldinstituten durch Gläubiger aus dem Saarland
-
 
 
 ### § 22
@@ -35,16 +33,14 @@ Zuletzt geändert durch
 ### (XXXX) §§ 23 und 24 (weggefallen)
 
 
-
 ## Abschnitt IV - Schlußvorschriften
-
 
 
 ### § 25
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates Vorschriften über das bei der Anmeldung von
-Ostberliner Altgeldguthaben und bei der Anerkennung der
+Zustimmung des Bundesrates Vorschriften über das bei der Anmeldung
+von Ostberliner Altgeldguthaben und bei der Anerkennung der
 Umwandlungsfähigkeit dieser Guthaben zu beachtende Verfahren zu
 erlassen.
 

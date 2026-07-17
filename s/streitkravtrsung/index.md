@@ -1,8 +1,5 @@
 ---
-Title: Gesetz zu dem Vertrag vom 12. Oktober 1990 zwischen der Bundesrepublik Deutschland
-  und der Union der Sozialistischen Sowjetrepubliken über die Bedingungen des befristeten
-  Aufenthalts und die Modalitäten des planmäßigen Abzugs der sowjetischen Truppen
-  aus dem Gebiet der Bundesrepublik Deutschland
+Title: Gesetz zu dem Vertrag vom 12. Oktober 1990 zwischen der Bundesrepublik Deutschland und der Union der Sozialistischen Sowjetrepubliken über die Bedingungen des befristeten Aufenthalts und die Modalitäten des planmäßigen Abzugs der sowjetischen Truppen aus dem Gebiet der Bundesrepublik Deutschland
 jurabk: StreitkrAVtrSUNG
 layout: default
 origslug: streitkravtrsung
@@ -21,17 +18,14 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 G v. 9.12.2004 I 3235
 
-
-## -
-
 Der Bundestag hat mit Zustimmung des Bundesrats das folgende Gesetz
 beschlossen:
 
 
 ## Art 1
 
-Dem in Bonn am 12. Oktober 1990 unterzeichneten Vertrag zwischen der
-Bundesrepublik Deutschland und der Union der Sozialistischen
+Dem in Bonn am 12. Oktober 1990 unterzeichneten Vertrag zwischen
+der Bundesrepublik Deutschland und der Union der Sozialistischen
 Sowjetrepubliken über die Bedingungen des befristeten Aufenthalts und
 die Modalitäten des planmäßigen Abzugs der sowjetischen Truppen aus
 dem Gebiet der Bundesrepublik Deutschland wird zugestimmt. Der Vertrag
@@ -45,22 +39,22 @@ stehenden Grundstücke gelten als rechtlich in Anspruch genommen,
 soweit sie für die in dem Vertrag genannten Zwecke weiterhin benötigt
 werden.
 
-(2) Die fortdauernde Inanspruchnahme gilt mit Wirkung vom 3. Oktober
-1990 als vorzeitige Besitzeinweisung im Sinne des § 38 des
-Landbeschaffungsgesetzes vom 23. Februar 1957 (BGBl. I S. 134),
-zuletzt geändert durch das Vierte Änderungsgesetz zum
+(2) Die fortdauernde Inanspruchnahme gilt mit Wirkung vom 3.
+Oktober 1990 als vorzeitige Besitzeinweisung im Sinne des §
+38 des Landbeschaffungsgesetzes vom 23. Februar 1957 (BGBl. I
+S. 134), zuletzt geändert durch das Vierte Änderungsgesetz zum
 Landbeschaffungsgesetz vom 29. November 1966 (BGBl. I S. 653). Die
 Vorschriften des Landbeschaffungsgesetzes mit Ausnahme des § 42 gelten
 entsprechend.
 
-(3) Soweit Liegenschaften, die nicht mehr nach dem Vertrag in Anspruch
-genommen werden, gemäß Artikel 21 des Einigungsvertrages
-Bundesvermögen sind, kann gemäß einer Einigung zwischen dem Bund und
-einem Land in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
-auf Antrag des Landes das Eigentum an den Liegenschaften dem Land, in
-dem sie liegen, durch Zuordnungsbescheid übertragen werden. Für die
-Durchführung der Zuordnung ist das Vermögenszuordnungsgesetz mit der
-Maßgabe anzuwenden, daß in jedem Fall der Oberfinanzpräsident
+(3) Soweit Liegenschaften, die nicht mehr nach dem Vertrag in
+Anspruch genommen werden, gemäß Artikel 21 des Einigungsvertrages
+Bundesvermögen sind, kann gemäß einer Einigung zwischen dem Bund
+und einem Land in dem in Artikel 3 des Einigungsvertrages genannten
+Gebiet auf Antrag des Landes das Eigentum an den Liegenschaften dem
+Land, in dem sie liegen, durch Zuordnungsbescheid übertragen werden.
+Für die Durchführung der Zuordnung ist das Vermögenszuordnungsgesetz
+mit der Maßgabe anzuwenden, daß in jedem Fall der Oberfinanzpräsident
 zuständig ist. Ansprüche nach dem Vermögensgesetz bleiben unberührt.
 
 
@@ -75,8 +69,8 @@ Abs. 3 des Vertrags, für den Empfang und die Abgabe von Mitteilungen,
 insbesondere nach Nummer XII der Anlage 4 zu dem Vertrag, sowie für
 Ersuchen um Rechtshilfe in Strafsachen nach Artikel 19 des Vertrags.
 
-(2) Für die sachliche und örtliche Zuständigkeit gelten die
-Vorschriften des Gerichtsverfassungsgesetzes und der
+(2) Für die sachliche und örtliche Zuständigkeit gelten
+die Vorschriften des Gerichtsverfassungsgesetzes und der
 Strafprozeßordnung entsprechend.
 
 
@@ -86,18 +80,18 @@ Artikel 24 des Vertrags ist nach den folgenden besonderen Bestimmungen
 auszuführen:
 
 
-## § 1
+### § 1
 
 (1) Ansprüche der in Artikel 24 Abs. 1 des Vertrags genannten Art sind
 zur Vermeidung des Ausschlusses bei der zuständigen deutschen Behörde
-innerhalb einer Frist von drei Monaten von dem Zeitpunkt an geltend zu
-machen, in dem der Geschädigte von dem Schaden und von Umständen
+innerhalb einer Frist von drei Monaten von dem Zeitpunkt an geltend
+zu machen, in dem der Geschädigte von dem Schaden und von Umständen
 Kenntnis erlangt hat, aus denen sich ergibt, daß sowjetische Truppen
 für den Schaden rechtlich verantwortlich sind.
 
-(2) Die Frist gilt auch dann als gewahrt, wenn der Anspruch innerhalb
-der Frist bei einer Dienststelle der sowjetischen Truppen geltend
-gemacht worden ist, die allgemein für die Behandlung von
+(2) Die Frist gilt auch dann als gewahrt, wenn der Anspruch
+innerhalb der Frist bei einer Dienststelle der sowjetischen Truppen
+geltend gemacht worden ist, die allgemein für die Behandlung von
 Entschädigungsansprüchen zuständig ist oder der an dem Schadensfall
 beteiligte Mitglieder oder Bedienstete der sowjetischen Truppen
 unterstehen.
@@ -106,14 +100,14 @@ unterstehen.
 Notfristen entsprechend anzuwenden.
 
 (4) Nach Ablauf von zwei Jahren seit dem Zeitpunkt des schädigenden
-Ereignisses kann der Anspruch nicht mehr geltend gemacht werden. War
-der Schaden vor Ablauf dieser Frist nicht erkennbar, so beginnt der
-Lauf der Frist mit dem Zeitpunkt, in dem der Geschädigte von dem
+Ereignisses kann der Anspruch nicht mehr geltend gemacht werden.
+War der Schaden vor Ablauf dieser Frist nicht erkennbar, so beginnt
+der Lauf der Frist mit dem Zeitpunkt, in dem der Geschädigte von dem
 Schaden hätte Kenntnis erlangen müssen; § 852 Abs. 1 Halbsatz 2 des
 Bürgerlichen Gesetzbuches bleibt unberührt.
 
 
-## § 2
+### § 2
 
 (1) Zuständige deutsche Behörde ist die Bundesanstalt für
 Immobilienaufgaben.
@@ -121,7 +115,7 @@ Immobilienaufgaben.
 (2) (weggefallen)
 
 
-## § 3
+### § 3
 
 (1) Die Ansprüche sind durch Einreichung eines Antrags auf
 Entschädigung geltend zu machen.
@@ -140,16 +134,16 @@ Antrag anzugeben.
 Eingangstags schriftlich zu bestätigen.
 
 
-## § 4
+### § 4
 
 (1) Die Behörde hat dem Antragsteller ihre Entschließung darüber
-mitzuteilen, ob und inwieweit sie einen geltend gemachten Anspruch als
-begründet anerkennt. Wird der Anspruch nicht oder nicht in vollem
+mitzuteilen, ob und inwieweit sie einen geltend gemachten Anspruch
+als begründet anerkennt. Wird der Anspruch nicht oder nicht in vollem
 Umfang als begründet anerkannt, so sind dem Antragsteller die Gründe
 mitzuteilen, auf denen die Entschließung der Behörde beruht.
 
-(2) Die Mitteilung über die Entschließung ist mit einem Hinweis auf
-die Klagemöglichkeit (§ 5) zu versehen und dem Antragsteller
+(2) Die Mitteilung über die Entschließung ist mit einem Hinweis
+auf die Klagemöglichkeit (§ 5) zu versehen und dem Antragsteller
 zuzustellen.
 
 (3) Einer Mitteilung nach Absatz 1 bedarf es nicht, wenn und soweit
@@ -157,7 +151,7 @@ zwischen der Behörde und dem Antragsteller eine Vereinbarung über die
 zu gewährende Entschädigung abgeschlossen wird.
 
 
-## § 5
+### § 5
 
 (1) Hat die Behörde einen geltend gemachten Anspruch nicht oder nicht
 in vollem Umfang anerkannt, so kann der Antragsteller Klage vor den
@@ -167,8 +161,8 @@ ordentlichen Gerichten gegen die Bundesrepublik Deutschland erheben.
 Namen für die Union der Sozialistischen Sowjetrepubliken.
 
 (3) Die Klage ist innerhalb einer Frist von zwei Monaten nach
-Zustellung der Mitteilung über die Entschließung der Behörde zu
-erheben. Auf die Klagefrist sind die Vorschriften der
+Zustellung der Mitteilung über die Entschließung der Behörde
+zu erheben. Auf die Klagefrist sind die Vorschriften der
 Zivilprozeßordnung über Notfristen entsprechend anzuwenden.
 
 (4) Die Klage ist auch dann zulässig, wenn die zuständige Behörde dem
@@ -179,7 +173,7 @@ Aufforderung an die Behörde vorauszugehen, dem Antragsteller innerhalb
 eines Monats ihre Entschließung mitzuteilen.
 
 
-## § 6
+### § 6
 
 (1) Hat die Behörde einen geltend gemachten Anspruch in vollem Umfang
 oder zum Teil anerkannt, so sind die danach zahlbaren und fälligen
@@ -195,12 +189,12 @@ Umfang gewährt werden, wenn der Anspruch dem Grunde nach
 gerechtfertigt ist.
 
 
-## § 7
+### § 7
 
-Bei Schäden an Liegenschaften oder bei Verlust oder Beschädigung von
-beweglichen Sachen, die den sowjetischen Truppen zur Verfügung
-gestellt worden sind, gilt der Anspruch auf Entschädigung als mit der
-Freigabe entstanden. Der Lauf der in § 1 Abs. 1 genannten Frist
+Bei Schäden an Liegenschaften oder bei Verlust oder Beschädigung
+von beweglichen Sachen, die den sowjetischen Truppen zur Verfügung
+gestellt worden sind, gilt der Anspruch auf Entschädigung als mit
+der Freigabe entstanden. Der Lauf der in § 1 Abs. 1 genannten Frist
 beginnt in diesen Schadensfällen mit dem Zeitpunkt, in dem der
 Geschädigte von der Freigabe Kenntnis erlangt hat. Der Lauf der in § 1
 Abs. 4 Satz 1 genannten Frist beginnt mit der Freigabe der Sache; § 1
@@ -209,10 +203,10 @@ Abs. 4 Satz 2 gilt entsprechend.
 
 ## Art 5
 
-Die Beeinträchtigung des Eigentums oder eines sonstigen Rechts an
-einem Grundstück durch das Vorhandensein, die Nutzung oder die
-Instandhaltung von Fernmeldelinien nach Nummer VI der Anlage 2 zu dem
-Vertrag ist von dem Berechtigten im bisherigen Umfang
+Die Beeinträchtigung des Eigentums oder eines sonstigen Rechts
+an einem Grundstück durch das Vorhandensein, die Nutzung oder
+die Instandhaltung von Fernmeldelinien nach Nummer VI der Anlage
+2 zu dem Vertrag ist von dem Berechtigten im bisherigen Umfang
 entschädigungslos zu dulden.
 
 

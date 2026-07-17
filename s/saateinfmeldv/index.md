@@ -31,20 +31,16 @@ Bundesminister der Finanzen mit Zustimmung des Bundesrates verordnet:
 
 (1) Unter das Saatgutverkehrsgesetz fallendes Saatgut darf nur
 eingeführt werden, wenn der Einführer die Absicht der Einfuhr der
-Bundesanstalt für Landwirtschaft und Ernährung (Bundesanstalt) durch
-Abgabe einer Einfuhranzeige gemeldet und die Bundesanstalt die
-Einfuhranzeige mit einem numerierten Bestätigungsvermerk versehen hat,
-aus dem hervorgeht, ob die Voraussetzungen des § 23 des
+Bundesanstalt für Landwirtschaft und Ernährung (Bundesanstalt)
+durch Abgabe einer Einfuhranzeige gemeldet und die Bundesanstalt die
+Einfuhranzeige mit einem numerierten Bestätigungsvermerk versehen
+hat, aus dem hervorgeht, ob die Voraussetzungen des § 23 des
 Saatgutverkehrsgesetzes erfüllt sind. Dies gilt nicht für
 
 1.  Saatgut aus Vertragsstaaten,
 
-
 2.  Saatgut außer Kartoffelpflanzgut, wenn die einzuführende Saatgutmenge
     2 kg nicht übersteigt.
-
-
-
 
 (2) Die Einfuhranzeige muß dem von der Bundesanstalt im Bundesanzeiger
 bekanntgemachten Muster entsprechen.
@@ -52,8 +48,8 @@ bekanntgemachten Muster entsprechen.
 
 ## § 2 Verfahren
 
-(1) Die Einfuhranzeige ist in dreifacher Ausfertigung einzureichen.
-Die Bundesanstalt versieht eine Ausfertigung mit dem
+(1) Die Einfuhranzeige ist in dreifacher Ausfertigung
+einzureichen. Die Bundesanstalt versieht eine Ausfertigung mit dem
 Bestätigungsvermerk und leitet sie mit einer weiteren Ausfertigung an
 den Einführer zurück. Die Gültigkeitsdauer des Bestätigungsvermerks
 ist auf sechs Monate oder, wenn die Einfuhr des Saatguts auf Grund

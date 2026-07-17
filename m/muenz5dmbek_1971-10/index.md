@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen
-  Mark (Reichsgründungsmünze)
+Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Reichsgründungsmünze)
 jurabk: Münz5DMBek 1971-10
 layout: default
 origslug: m_nz5dmbek_1971-10
@@ -17,14 +16,13 @@ Fundstelle
 :   BGBl I: 1971, 1691
 
 
-
 ## (XXXX)
 
-(1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen vom
-8\. Juli 1950 (Bundesgesetzbl. S. 323) ist aus Anlaß der 100.
+(1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen
+vom 8. Juli 1950 (Bundesgesetzbl. S. 323) ist aus Anlaß der 100.
 Wiederkehr des Jahres der Reichsgründung 1871 eine Bundesmünze
-(Gedenkmünze) im Nennwert von 5 Deutschen Mark geprägt worden, die ab
-24\. November 1971 in den Verkehr gebracht wird. Die Auflagenhöhe
+(Gedenkmünze) im Nennwert von 5 Deutschen Mark geprägt worden, die
+ab 24. November 1971 in den Verkehr gebracht wird. Die Auflagenhöhe
 beträgt 5 Millionen Stück.
 
 (2) Der Entwurf der Münze stammt von Professor Robert Lippl, München.
@@ -37,20 +35,15 @@ Feinsilber und 375 Tausendteilen Kupfer. Sie hat einen Durchmesser von
 schützenden glatten Rand umgeben.
 
 (5) Die Wertseite zeigt in der oberen Hälfte den Bundesadler mit der
-geteilten Jahreszahl 1971, die unterhalb der Schwingen des Adlers und
-beiderseits des Rumpfes angebracht ist. Die untere Hälfte der
+geteilten Jahreszahl 1971, die unterhalb der Schwingen des Adlers
+und beiderseits des Rumpfes angebracht ist. Die untere Hälfte der
 Wertseite ist ausgefüllt mit der Aufschrift
 
-*   BUNDESREPUBLIK DEUTSCHLAND
-
-
+-   BUNDESREPUBLIK DEUTSCHLAND
 
 der darunterliegenden Wertziffer 5 und der Wertbezeichnung
 
-*   DEUTSCHE MARK.
-
-
-
+-   DEUTSCHE MARK.
 
 (6) Das Münzzeichen G der Staatlichen Münze Karlsruhe befindet sich am
 äußeren Rand des Bogens der Wertziffer.
@@ -59,9 +52,7 @@ der darunterliegenden Wertziffer 5 und der Wertbezeichnung
 ursprünglichen Ausführung des Architekten Wallot, darunter die
 Aufschrift
 
-*   DEM DEUTSCHEN VOLKE,
-
-
+-   DEM DEUTSCHEN VOLKE,
 
 die Jahreszahlen 1871 und 1971 sowie einen Stern mit sechs Zacken.
 
@@ -71,9 +62,7 @@ entworfen hat.
 
 (9) Der glatte Münzrand ist mit der vertieften Inschrift versehen:
 
-*   EINIGKEIT UND RECHT UND FREIHEIT.
-
-
+-   EINIGKEIT UND RECHT UND FREIHEIT.
 
 Zwischen den einzelnen Worten sind Ornamente eingeprägt.
 

@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen
-  und im fachtheoretischen Teil der Meisterprüfung für das Vergolder-Handwerk
+Title: Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Vergolder-Handwerk
 jurabk: VergMstrV
 layout: default
 origslug: vergmstrv
@@ -20,7 +19,6 @@ Geändert durch
 :   Art. 2 Abs. 9 V v. 18.1.2022 I 39
 
 
-
 ## Eingangsformel
 
 Auf Grund des § 45 der Handwerksordnung in der Fassung der
@@ -33,24 +31,18 @@ Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft:
 ## 1. Abschnitt - Berufsbild
 
 
-
 ### § 1 Berufsbild
 
 (1) Dem Vergolder-Handwerk sind folgende Tätigkeiten zuzurechnen:
 
 1.  Vergoldung, Versilberung, Farb- und Weißfassung von Figuren, Altären,
-    Rahmen, Möbeln, Inneneinrichtungen, architekturbezogenen Objekten und
-    Bauteilen,
-
+    Rahmen, Möbeln, Inneneinrichtungen, architekturbezogenen Objekten
+    und Bauteilen,
 
 2.  Restaurierung von Vergoldungen, Versilberungen sowie von Farb- und
     Weißfassungen,
 
-
 3.  Gestaltung und Herstellung von Bilderrahmen und Einrahmungen.
-
-
-
 
 (2) Dem Vergolder-Handwerk sind folgende Kenntnisse und Fertigkeiten
 zuzurechnen:
@@ -58,128 +50,88 @@ zuzurechnen:
 1.  Kenntnisse der berufsbezogenen Handwerks- und Kunstgeschichte,
     insbesondere über Stilarten,
 
-
 2.  Kenntnisse der berufsbezogenen Restaurierungstechniken,
-
 
 3.  Kenntnisse über Farben- und Formenlehre,
 
-
 4.  Kenntnisse der Vergolder- und Faßmalertechniken,
-
 
 5.  Kenntnisse der Arten, Eigenschaften, der Herstellung, Lagerung,
     Verwendung und Verarbeitung der Werk- und Hilfsstoffe,
 
-
 6.  Kenntnisse des Aufbaus, der Arten und Eigenschaften der Untergründe,
-
 
 7.  Kenntnisse der berufsbezogenen Werkzeuge, Maschinen und Geräte,
 
-
 8.  Kenntnisse der berufsbezogenen Vorschriften der Arbeitssicherheit und
     des Arbeitsschutzes,
-
 
 9.  Kenntnisse der Verdingungsordnung für Bauleistungen, der
     berufsbezogenen Normen, des Brandschutzes sowie der berufsbezogenen
     Vorschriften des Umwelt-, insbesondere des Immissionsschutzes und der
     Abfallbeseitigung,
 
-
 10. Entwerfen, Zeichnen, Skizzieren,
-
 
 11. Erstellen von Befunden und Dokumentationen,
 
-
 12. Freilegen und Retuschieren,
-
 
 13. Anfertigen von Rahmen,
 
-
 14. Ausführen von Holzschutzarbeiten,
-
 
 15. Ausführen von Grundierungen für Vergoldung, Versilberung sowie Farb-
     und Weißfassungen,
 
-
 16. Isolieren und Absperren,
-
 
 17. Herstellen von Verzierformen, Verzieren und Kitten,
 
-
 18. Spachteln und Schleifen,
-
 
 19. Vergolden und Versilbern in Poliment-, Puder-, Mordent-, Leim- und
     Ölvergoldungstechnik mit Blattmetallen und Metallpulvern,
 
-
 20. Ausführen von Lüstertechniken,
-
 
 21. Ausführen von Farb- und Weißfassungen,
 
-
 22. Marmorieren,
-
 
 23. Ausführen von Brokat- und Graumalerei,
 
-
 24. Ausführen von Stuckfassungen,
-
 
 25. Gravieren und Punzieren,
 
-
 26. Zeichnen und Schneiden von Schablonen sowie Schablonieren,
-
 
 27. Auftragen von Ornamenten mit Kreidegrund,
 
-
 28. Radieren auf Gold und Silber,
-
 
 29. Ausführen von Pinselschriften,
 
-
 30. Lasieren, Maserieren und Malen von Intarsien,
-
 
 31. Patinieren und Tönen von Silber und Gold,
 
-
 32. Mattieren, Lackieren, Beizen und Polieren,
-
 
 33. Aufspannen und Einrahmen von Bildern sowie Aufziehen auf Pappe, Holz
     und Kunststoff,
 
-
 34. Kaschieren von Pappe, Holz und Kunststoffen,
-
 
 35. Anfertigen von Passepartouts und Linienpassepartouts,
 
-
 36. Zuschneiden von Glas für Bilder,
-
 
 37. Pflegen und Instandhalten der berufsbezogenen Werkzeuge.
 
 
-
-
-
 ## 2. Abschnitt - Prüfungsanforderungen in den Teilen I und II der Meisterprüfung
-
 
 
 ### § 2 Gliederung, Dauer und Bestehen der praktischen Prüfung (Teil I)
@@ -189,9 +141,9 @@ Arbeitsprobe auszuführen. Bei der Bestimmung der Meisterprüfungsarbeit
 sollen die Vorschläge des Prüflings nach Möglichkeit berücksichtigt
 werden.
 
-(2) Die Anfertigung der Meisterprüfungsarbeit soll nicht länger als 20
-Arbeitstage, die Ausführung der Arbeitsprobe nicht länger als 28
-Stunden dauern. Die jeweilige Trocknungszeit wird nicht auf die
+(2) Die Anfertigung der Meisterprüfungsarbeit soll nicht länger als
+20 Arbeitstage, die Ausführung der Arbeitsprobe nicht länger als
+28 Stunden dauern. Die jeweilige Trocknungszeit wird nicht auf die
 Prüfungsdauer angerechnet.
 
 (3) Mindestvoraussetzung für das Bestehen des Teils I sind jeweils
@@ -208,15 +160,11 @@ Arbeiten anzufertigen:
     Kreidegrund, Teilvergoldung oder -versilberung in Glanz und Matt,
     farbige Fassung,
 
-
 2.  Anfertigen eines Stilrahmens, mit einer Rahmenseite von mindestens 40
     cm Innenmaß, Druck- oder Gußmasseverzierung, Glanz- und Mattgold,
 
-
 3.  Fassen eines Möbels, Bearbeitung mit Kreidegrund, Teilvergoldung oder
     -versilberung in Glanz und Matt, Fassung oder Bemalung.
-
-
 
 An der Meisterprüfungsarbeit sind zwei Schmucktechniken nachzuweisen.
 Farbe, Form und Technik müssen der dargestellten Stilrichtung
@@ -239,35 +187,23 @@ auszuführen:
 
 1.  Gravieren nach vorgegebener Zeichnung,
 
-
 2.  Auftragen von Ornamenten,
-
 
 3.  Punzieren nach vorgegebener Zeichnung,
 
-
 4.  Radieren auf Gold und Silber,
-
 
 5.  Lasieren,
 
-
 6.  Ausführen einer Brokatmalerei,
-
 
 7.  Marmorieren,
 
-
 8.  Ausführen von Pinselschriften,
-
 
 9.  Ölvergolden,
 
-
 10. Ausführen einer Goldgrundmalerei.
-
-
-
 
 (2) In der Arbeitsprobe sind die wichtigsten Fertigkeiten und
 Kenntnisse zu prüfen, die in der Meisterprüfungsarbeit nicht oder nur
@@ -283,65 +219,43 @@ nachzuweisen:
 
     Anfertigen von Stilzeichnungen;
 
-
 2.  Werkstoffkunde:
 
     Eigenschaften, Verwendung und Verarbeitung von Werk- und Hilfsstoffen;
-
 
 3.  Fachtechnologie:
 
     a)  berufsbezogene Werkzeuge, Geräte und Maschinen,
 
-
     b)  Vergolder- und Faßmalertechniken,
-
 
     c)  Aufbau, Arten und Eigenschaften der Untergründe,
 
-
     d)  berufsbezogene Restaurierungstechniken,
-
 
     e)  Rahmenanfertigung,
 
-
     f)  berufsbezogene Vorschriften der Arbeitssicherheit und des
         Arbeitsschutzes,
-
 
     g)  Verdingungsordnung für Bauleistungen, berufsbezogene Normen,
         Brandschutz sowie berufsbezogene Vorschriften des Umwelt-,
         insbesondere des Immissionsschutzes und der Abfallbeseitigung;
 
-
-
-
-
 4.  Stilkunde:
 
     a)  Stilepochen der Architektur, der Skulptur und der Malerei,
 
-
     b)  charakteristische Merkmale der verschiedenen Stilarten,
-
 
     c)  berufsbezogene Handwerks- und Kunstgeschichte,
 
-
     d)  Farben- und Formenlehre;
-
-
-
-
 
 5.  Kalkulation:
 
     Kostenermittlung unter Einbeziehung aller für die Preisbildung
     wesentlichen Faktoren.
-
-
-
 
 (2) Die Prüfung ist schriftlich und mündlich durchzuführen.
 
@@ -361,7 +275,6 @@ ausreichende Leistungen in dem Prüfungsfach nach Absatz 1 Nr. 3.
 ## 3. Abschnitt - Übergangs- und Schlußvorschriften
 
 
-
 ### § 6 Übergangsvorschrift
 
 Die bei Inkrafttreten dieser Verordnung laufenden Prüfungsverfahren
@@ -378,7 +291,6 @@ sich nach der Allgemeinen Meisterprüfungsverordnung.
 
 
 ### § 8 (weggefallen)
-
 
 
 ### § 9 Inkrafttreten

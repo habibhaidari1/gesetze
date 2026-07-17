@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im  Nennwert
-  von 10 Euro (Gedenkmünze "50 Jahre Römische Verträge")
+Title: "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze \"50 Jahre Römische Verträge\")"
 jurabk: Münz10EuroBek 2007-01-24
 layout: default
 origslug: m_nz10eurobek_2007-01-24
@@ -8,14 +7,13 @@ slug: muenz10eurobek_2007-01-24
 
 ---
 
-# Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im  Nennwert von 10 Euro (Gedenkmünze "50 Jahre Römische Verträge") (Münz10EuroBek 2007-01-24)
+# Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze "50 Jahre Römische Verträge") (Münz10EuroBek 2007-01-24)
 
 Ausfertigungsdatum
 :   2007-01-24
 
 Fundstelle
 :   BGBl I: 2007, 65
-
 
 
 ## (XXXX)
@@ -36,8 +34,8 @@ Die Bildseite zeigt in ihrem Zentrum die Umrisse der sechs
 Gründerstaaten der Europäischen Gemeinschaften. Dieser Kern des
 europäischen Einigungswerkes strahlt auf das übrige - stilisiert
 dargestellte - Europa aus und symbolisiert damit die Offenheit des
-Integrationsprozesses sowie die Bedeutung des geeinten Europas in der
-Welt.
+Integrationsprozesses sowie die Bedeutung des geeinten Europas in
+der Welt.
 Die Wertseite harmoniert in künstlerisch überzeugender Weise mit der
 Bildseite. Sie zeigt den Bundesadler, den Schriftzug "BUNDESREPUBLIK
 DEUTSCHLAND", die Wertziffer und Wertbezeichnung, die Jahreszahl 2007
@@ -56,4 +54,6 @@ Der Bundesminister der Finanzen
 ## (XXXX)
 
 (Fundstelle: BGBl. I 2007, 65)
+
 ![bgbl1_2007_j0065_0010.jpg](bgbl1_2007_j0065_0010.jpg)
+

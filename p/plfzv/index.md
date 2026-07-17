@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Zuweisung der Planfeststellung für länderübergreifende
-  und grenzüberschreitende Höchstspannungsleitungen auf die Bundesnetzagentur
+Title: Verordnung über die Zuweisung der Planfeststellung für länderübergreifende und grenzüberschreitende Höchstspannungsleitungen auf die Bundesnetzagentur
 jurabk: PlfZV
 layout: default
 origslug: plfzv
@@ -37,13 +36,9 @@ des Netzausbaubeschleunigungsgesetzes Übertragungsnetz durch für
     Anlage zu diesem Gesetz mit „A1“ gekennzeichneten länderübergreifenden
     Höchstspannungsleitungen und
 
-
-2.  die gemäß § 2 Absatz 1 Satz 2 des Bundesbedarfsplangesetzes in der
-    Anlage zu diesem Gesetz mit „A2“ gekennzeichneten
+2.  die gemäß § 2 Absatz 1 Satz 2 des Bundesbedarfsplangesetzes
+    in der Anlage zu diesem Gesetz mit „A2“ gekennzeichneten
     grenzüberschreitenden Höchstspannungsleitungen.
-
-
-
 
 
 ## § 2 Inkrafttreten

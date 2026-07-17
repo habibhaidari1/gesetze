@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 3448
 
 Zuletzt geändert durch
-:   Art. 8 G v. 26.11.2020 I 2568
+:   Art. 23 G v. 8.10.2023 I Nr. 272
 
 
 ## § 1 Zweck des Gesetzes
@@ -34,9 +34,7 @@ die Existenz einer großen Zahl von Verkaufsstellen fördert.
 
 1.  Musiknoten,
 
-
 2.  kartographische Produkte,
-
 
 3.  Produkte, die Bücher, Musiknoten oder kartographische Produkte
     reproduzieren oder substituieren, wie zum Beispiel zum dauerhaften
@@ -44,12 +42,8 @@ die Existenz einer großen Zahl von Verkaufsstellen fördert.
     Gesamtumstände als überwiegend verlags- oder buchhandelstypisch
     anzusehen sind sowie
 
-
 4.  kombinierte Objekte, bei denen eines der genannten Erzeugnisse die
     Hauptsache bildet.
-
-
-
 
 (2) Fremdsprachige Bücher fallen nur dann unter dieses Gesetz, wenn
 sie überwiegend für den Absatz in Deutschland bestimmt sind.
@@ -68,26 +62,25 @@ Dies gilt nicht für den Verkauf gebrauchter Bücher.
 ## § 4 (weggefallen)
 
 
-
 ## § 5 Preisfestsetzung
 
-(1) Wer Bücher für den Verkauf an Letztabnehmer in Deutschland verlegt
-oder importiert, ist verpflichtet, einen Preis einschließlich
+(1) Wer Bücher für den Verkauf an Letztabnehmer in Deutschland
+verlegt oder importiert, ist verpflichtet, einen Preis einschließlich
 Umsatzsteuer (Endpreis) für die Ausgabe eines Buches für den Verkauf
 an Letztabnehmer in Deutschland festzusetzen und in geeigneter Weise
 zu veröffentlichen. Entsprechendes gilt für Änderungen des Endpreises.
 
-(2) Wer Bücher importiert, darf zur Festsetzung des Endpreises den vom
-Verleger des Verlagsstaates für Deutschland empfohlenen
+(2) Wer Bücher importiert, darf zur Festsetzung des Endpreises
+den vom Verleger des Verlagsstaates für Deutschland empfohlenen
 Letztabnehmerpreis einschließlich der in Deutschland jeweils geltenden
-Mehrwertsteuer nicht unterschreiten. Hat der Verleger keinen Preis für
-Deutschland empfohlen, so darf der Importeur zur Festsetzung des
+Mehrwertsteuer nicht unterschreiten. Hat der Verleger keinen Preis
+für Deutschland empfohlen, so darf der Importeur zur Festsetzung des
 Endpreises den für den Verlagsstaat festgesetzten oder empfohlenen
 Nettopreis des Verlegers für Endabnehmer zuzüglich der in Deutschland
 jeweils geltenden Mehrwertsteuer nicht unterschreiten.
 
-(3) Wer als Importeur Bücher in einem Vertragsstaat des Abkommens über
-den Europäischen Wirtschaftsraum zu einem von den üblichen
+(3) Wer als Importeur Bücher in einem Vertragsstaat des Abkommens
+über den Europäischen Wirtschaftsraum zu einem von den üblichen
 Einkaufspreisen im Einkaufsstaat abweichenden niedrigeren
 Einkaufspreis kauft, kann den gemäß Absatz 2 festzulegenden Endpreis
 in dem Verhältnis herabsetzen, wie es dem Verhältnis des erzielten
@@ -100,27 +93,19 @@ Einkaufspreise.
 
 1.  Serienpreise,
 
-
 2.  Mengenpreise,
 
-
 3.  Subskriptionspreise,
-
 
 4.  Sonderpreise für Institutionen, die bei der Herausgabe einzelner
     bestimmter Verlagswerke vertraglich in einer für das Zustandekommen
     des Werkes ausschlaggebenden Weise mitgewirkt haben,
 
-
 5.  Sonderpreise für Abonnenten einer Zeitschrift beim Bezug eines Buches,
     das die Redaktion dieser Zeitschrift verfasst oder herausgegeben hat,
     und
 
-
 6.  Teilzahlungszuschläge.
-
-
-
 
 (5) Die Festsetzung unterschiedlicher Endpreise für einen bestimmten
 Titel durch einen Verleger oder Importeur oder deren Lizenznehmer ist
@@ -131,8 +116,8 @@ zulässig, wenn dies sachlich gerechtfertigt ist.
 
 (1) Verlage müssen bei der Festsetzung ihrer Verkaufspreise und
 sonstigen Verkaufskonditionen gegenüber Händlern den von kleineren
-Buchhandlungen erbrachten Beitrag zur flächendeckenden Versorgung mit
-Büchern sowie ihren buchhändlerischen Service angemessen
+Buchhandlungen erbrachten Beitrag zur flächendeckenden Versorgung
+mit Büchern sowie ihren buchhändlerischen Service angemessen
 berücksichtigen. Sie dürfen ihre Rabatte nicht allein an dem mit einem
 Händler erzielten Umsatz ausrichten.
 
@@ -151,26 +136,19 @@ direkt beliefern.
 1.  an Verleger oder Importeure von Büchern, Buchhändler oder deren
     Angestellte und feste Mitarbeiter für deren Eigenbedarf,
 
-
 2.  an Autoren selbständiger Publikationen eines Verlages für deren
     Eigenbedarf,
 
-
 3.  an Lehrer zum Zwecke der Prüfung einer Verwendung im Unterricht,
-
 
 4.  die auf Grund einer Beschädigung oder eines sonstigen Fehlers als
     Mängelexemplare gekennzeichnet sind,
-
 
 5.  im Rahmen eines auf einen Zeitraum von 30 Tagen begrenzten
     Räumungsverkaufs anlässlich der endgültigen Schließung einer
     Buchhandlung, sofern die Bücher aus den gewöhnlichen Beständen des
     schließenden Unternehmens stammen und den Lieferanten zuvor mit
     angemessener Frist zur Rücknahme angeboten wurden.
-
-
-
 
 (2) Beim Verkauf von Büchern können wissenschaftlichen Bibliotheken,
 die jedem auf ihrem Gebiet wissenschaftlich Arbeitenden zugänglich
@@ -179,64 +157,22 @@ Landesbüchereien und Schülerbüchereien sowie konfessionellen
 Büchereien und Truppenbüchereien der Bundeswehr und der Bundespolizei
 bis zu 10 Prozent Nachlass gewährt werden.
 
-(3) Bei Sammelbestellungen von Büchern für den Schulunterricht, die zu
-Eigentum der öffentlichen Hand, eines Beliehenen oder allgemein
+(3) Bei Sammelbestellungen von Büchern für den Schulunterricht, die
+zu Eigentum der öffentlichen Hand, eines Beliehenen oder allgemein
 bildender Privatschulen, die den Status staatlicher Ersatzschulen
 besitzen, angeschafft werden, gewähren die Verkäufer folgende
 Nachlässe:
 
-*    *   1.
-
-    *   bei einem Auftrag im Gesamtwert bis zu 25.000 Euro für Titel mit
-
-
-*    *
-    *   mehr als 10 Stück
-
-    *   8 Prozent Nachlass,
-
-
-*    *
-    *   mehr als 25 Stück
-
-    *   10 Prozent Nachlass,
-
-
-*    *
-    *   mehr als 100 Stück
-
-    *   12 Prozent Nachlass,
-
-
-*    *
-    *   mehr als 500 Stück
-
-    *   13 Prozent Nachlass,
-
-
-*    *   2.
-
-    *   bei einem Auftrag im Gesamtwert von mehr als
-
-
-*    *
-    *   25.000 Euro
-
-    *   13 Prozent Nachlass,
-
-
-*    *
-    *   38.000 Euro
-
-    *   14 Prozent Nachlass,
-
-
-*    *
-    *   50.000 Euro
-
-    *   15 Prozent Nachlass.
-
-
+| 1. | bei einem Auftrag im Gesamtwert bis zu 25.000 Euro für Titel mit |  |
+| --- | --- | --- |
+|  | mehr als 10 Stück | 8 Prozent Nachlass, |
+|  | mehr als 25 Stück | 10 Prozent Nachlass, |
+|  | mehr als 100 Stück | 12 Prozent Nachlass, |
+|  | mehr als 500 Stück | 13 Prozent Nachlass, |
+| 2. | bei einem Auftrag im Gesamtwert von mehr als |  |
+|  | 25.000 Euro | 13 Prozent Nachlass, |
+|  | 38.000 Euro | 14 Prozent Nachlass, |
+|  | 50.000 Euro | 15 Prozent Nachlass. |
 
 Soweit Schulbücher von den Schulen im Rahmen eigener Budgets
 angeschafft werden, ist stattdessen ein genereller Nachlass von 12
@@ -248,18 +184,12 @@ anlässlich des Verkaufs eines Buches
 1.  Waren von geringem Wert oder Waren, die im Hinblick auf den Wert des
     gekauften Buches wirtschaftlich nicht ins Gewicht fallen, abgibt,
 
-
 2.  geringwertige Kosten der Letztabnehmer für den Besuch der
     Verkaufsstelle übernimmt,
 
-
 3.  Versand- oder besondere Beschaffungskosten übernimmt oder
 
-
 4.  andere handelsübliche Nebenleistungen erbringt.
-
-
-
 
 
 ## § 8 Dauer der Preisbindung
@@ -287,33 +217,22 @@ entstandenen Schadens verpflichtet.
 
 1.  von Gewerbetreibenden, die Bücher vertreiben,
 
-
 2.  von rechtsfähigen Verbänden zur Förderung gewerblicher oder
     selbstständiger beruflicher Interessen, die in der Liste der
     qualifizierten Wirtschaftsverbände nach § 8b des Gesetzes gegen den
     unlauteren Wettbewerb eingetragen sind,
-
 
 3.  von einem Rechtsanwalt, der von Verlegern, Importeuren oder
     Unternehmen, die Verkäufe an Letztabnehmer tätigen, gemeinsam als
     Treuhänder damit beauftragt worden ist, ihre Preisbindung zu betreuen
     (Preisbindungstreuhänder),
 
+4.  von Stellen nach § 3 Absatz 1 Satz 1 Nummer 1 des
+    Unterlassungsklagengesetzes.
 
-4.  von qualifizierten Einrichtungen, die nachweisen, dass sie in die
-    Liste qualifizierter Einrichtungen nach § 4 des
-    Unterlassungsklagengesetzes oder in dem Verzeichnis der Kommission der
-    Europäischen Gemeinschaften nach Artikel 4 der Richtlinie 98/27/EG des
-    Europäischen Parlaments und des Rates vom 19. Mai 1998 über
-    Unterlassungsklagen zum Schutz der Verbraucherinteressen (ABl. EG Nr.
-    L 166 S. 51) in der jeweils geltenden Fassung eingetragen sind.
-
-
-
-Die Einrichtungen nach Satz 1 Nr. 4 können den Anspruch auf
-Unterlassung nur geltend machen, soweit der Anspruch eine Handlung
-betrifft, durch die wesentliche Belange der Letztabnehmer berührt
-werden.
+Die Stellen nach Satz 1 Nr. 4 können den Anspruch auf Unterlassung nur
+geltend machen, soweit der Anspruch eine Handlung betrifft, durch die
+wesentliche Belange der Letztabnehmer berührt werden.
 
 (3) Für das Verfahren gelten bei den Anspruchsberechtigten nach Absatz
 2 Nr. 1 bis 3 die Vorschriften des Gesetzes gegen den unlauteren
@@ -325,11 +244,11 @@ des Unterlassungsklagegesetzes.
 
 (1) Sofern der begründete Verdacht vorliegt, dass ein Unternehmen
 gegen § 3 verstoßen hat, kann ein Gewerbetreibender, der ebenfalls
-Bücher vertreibt, verlangen, dass dieses Unternehmen einem von Berufs
-wegen zur Verschwiegenheit verpflichteten Angehörigen der wirtschafts-
-oder steuerberatenden Berufe Einblick in seine Bücher und
-Geschäftsunterlagen gewährt. Der Bericht des Buchprüfers darf sich
-ausschließlich auf die ihm bekannt gewordenen Verstöße gegen die
+Bücher vertreibt, verlangen, dass dieses Unternehmen einem von
+Berufs wegen zur Verschwiegenheit verpflichteten Angehörigen der
+wirtschafts- oder steuerberatenden Berufe Einblick in seine Bücher
+und Geschäftsunterlagen gewährt. Der Bericht des Buchprüfers darf
+sich ausschließlich auf die ihm bekannt gewordenen Verstöße gegen die
 Vorschriften dieses Gesetzes beziehen.
 
 (2) Liegt eine Zuwiderhandlung vor, kann der Gewerbetreibende von dem

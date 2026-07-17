@@ -18,11 +18,6 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 30.6.2015 I 1095
 
-Diese Verordnung dient der Umsetzung der Richtlinie 2000/75/EG des
-Rates vom 20. November 2000 mit besonderen Bestimmungen für Maßnahmen
-zur Bekämpfung und Tilgung der Blauzungenkrankheit (ABl. EG Nr. L 327
-S. 74).
-
 
 ## § 1 Begriffsbestimmungen
 
@@ -32,22 +27,15 @@ S. 74).
 
     a)  virologische Untersuchung (Virus- oder Genomnachweis) oder
 
-
     b)  serologische Untersuchung in Verbindung mit klinischen oder
         epizootiologischen Befunden
 
-
-
     festgestellt ist;
-
 
 2.  Verdacht auf Blauzungenkrankheit, wenn das Ergebnis der klinischen
     Untersuchung in Verbindung mit epizootiologischen Anhaltspunkten,
     insbesondere dem Auftreten des Vektors, den Ausbruch der
     Blauzungenkrankheit befürchten lässt.
-
-
-
 
 (2) Im Sinne dieser Verordnung sind:
 
@@ -55,11 +43,9 @@ S. 74).
 
     Wiederkäuer,
 
-
 2.  Vektor:
 
     Insekten der Gattung Culicoida,
-
 
 3.  Epizootiologische Nachforschungen:
 
@@ -68,28 +54,18 @@ S. 74).
     a)  der mutmaßlichen Zeitspanne seit Einschleppung des Erregers der
         Blauzungenkrankheit in einen Betrieb,
 
-
     b)  der Ansteckungsquelle im betroffenen Betrieb sowie weiterer Betriebe,
         deren empfängliche Tiere sich aus dieser Quelle angesteckt haben
         können,
 
-
     c)  von Vorkommen und Verteilung des Vektors und
-
 
     d)  der aus einem oder in einen betroffenen Betrieb verbrachten
         empfänglichen Tiere sowie der aus einem solchen Betrieb verbrachten
         verendeten empfänglichen Tiere.
 
 
-
-
-
-
-
-
 ## § 2 (weggefallen)
-
 
 
 ## § 3 Maßnahmen im Falle des Seuchenverdachts
@@ -101,26 +77,17 @@ ordnet die zuständige Behörde in Bezug auf den betroffenen Betrieb
 
     a)  die behördliche Beobachtung,
 
-
     b)  die regelmäßige klinische Untersuchung der lebenden und die
-        pathologisch-anatomische Untersuchung der verendeten Tiere durch den
-        beamteten Tierarzt sowie die virologische oder serologische
+        pathologisch-anatomische Untersuchung der verendeten Tiere durch
+        den beamteten Tierarzt sowie die virologische oder serologische
         Untersuchung der seuchenverdächtigen Tiere,
-
 
     c)  Aufzeichnungen über den Bestand der Tiere und deren tägliche Anpassung
         an Bestandsveränderungen durch Verenden oder Geburt,
 
-
     d)  die unschädliche Beseitigung der verendeten Tiere sowie
 
-
-
-
-
 2.  epizootiologische Nachforschungen
-
-
 
 an.
 
@@ -158,9 +125,9 @@ an, als dies erforderlich ist, um eine Ausbreitung der Seuche zu
 verhindern.
 
 (3) Die zuständige Behörde ordnet, vorbehaltlich des Satzes 2, bei
-allen empfängliche Tiere haltenden Betrieben, die in dem Gebiet um den
-betroffenen Betrieb mit einem Radius von 20 Kilometern liegen, die
-Maßnahmen nach § 3 Absatz 1 an. Die zuständige Behörde kann unter
+allen empfängliche Tiere haltenden Betrieben, die in dem Gebiet um
+den betroffenen Betrieb mit einem Radius von 20 Kilometern liegen,
+die Maßnahmen nach § 3 Absatz 1 an. Die zuständige Behörde kann unter
 Berücksichtigung epidemiologischer, geographischer, ökologischer oder
 meteorologischer Gesichtspunkte
 
@@ -168,40 +135,31 @@ meteorologischer Gesichtspunkte
 
     a)  ein größeres oder
 
-
     b)  ein kleineres
-
-
 
     Gebiet als das in Satz 1 genannte erlassen oder
 
-
 2.  von einer solchen Anordnung absehen,
-
-
 
 soweit Belange der Tierseuchenbekämpfung dies erfordern oder, in den
 Fällen der Nummer 1 Buchstabe b oder der Nummer 2, solche Belange
 nicht entgegenstehen.
 
-(4) Die zuständige Behörde legt ferner unter Berücksichtigung der
-geographischen, verwaltungstechnischen, ökologischen und
+(4) Die zuständige Behörde legt ferner unter Berücksichtigung
+der geographischen, verwaltungstechnischen, ökologischen und
 epizootiologischen Bedingungen sowie vorbehaltlich des Satzes 2
 
 1.  das Gebiet um den betroffenen Betrieb mit einem Radius von mindestens
     100 Kilometern als Sperrgebiet sowie
 
-
 2.  das Gebiet um das Sperrgebiet in einer Tiefe von 50 Kilometern als
     Beobachtungsgebiet
-
-
 
 fest. Bei der Festsetzung eines Sperrgebietes oder eines
 Beobachtungsgebietes sind die Bestimmungen eines nicht unmittelbar
 geltenden Rechtsaktes der Europäischen Gemeinschaft oder der
-Europäischen Union zu beachten, der auf Grund des Artikels 8 Absatz 2
-Buchstabe d oder Absatz 3 der Richtlinie 2000/75/EG in der jeweils
+Europäischen Union zu beachten, der auf Grund des Artikels 8 Absatz
+2 Buchstabe d oder Absatz 3 der Richtlinie 2000/75/EG in der jeweils
 geltenden Fassung erlassen und vom Bundesministerium im Bundesanzeiger
 bekannt gemacht worden ist.
 
@@ -231,10 +189,10 @@ gelten entsprechend.
 
 ## § 7 Aufhebung angeordneter Maßnahmen
 
-(1) Die zuständige Behörde hebt die wegen einer amtlichen Feststellung
-der Blauzungenkrankheit angeordneten Maßnahmen auf, wenn die
-Informationen nach Artikel 6 Absatz 2 der Verordnung (EG) Nr.
-1266/2007 der Kommission vom 26. Oktober 2007 mit
+(1) Die zuständige Behörde hebt die wegen einer amtlichen
+Feststellung der Blauzungenkrankheit angeordneten Maßnahmen auf,
+wenn die Informationen nach Artikel 6 Absatz 2 der Verordnung
+(EG) Nr. 1266/2007 der Kommission vom 26. Oktober 2007 mit
 Durchführungsvorschriften zur Richtlinie 2000/75/EG des Rates
 hinsichtlich der Bekämpfung, Überwachung und Beobachtung der
 Blauzungenkrankheit sowie der Beschränkungen, die für Verbringungen
@@ -247,11 +205,8 @@ angeordnete Maßnahmen auf, wenn
 
 1.  die Untersuchungen nach § 3 Absatz 1 Nummer 1 Buchstabe b und
 
-
 2.  die Ergebnisse der epizootiologischen Nachforschungen nach § 3 Absatz
     1 Nummer 2
-
-
 
 den Seuchenverdacht nicht bestätigt haben.
 
@@ -264,18 +219,12 @@ Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 1.  einer vollziehbaren Anordnung nach § 3 Absatz 1, 1a oder Absatz 2 oder
     § 5 Absatz 2 oder Absatz 3 Satz 1 oder Satz 2 Nummer 1 zuwiderhandelt,
 
-
 2.  entgegen § 3 Absatz 3 nicht sicherstellt, dass ein Tier nicht
     verbracht wird,
-
 
 3.  entgegen § 6 eine Anzeige nicht, nicht richtig, nicht vollständig oder
     nicht rechtzeitig erstattet.
 
 
-
-
-
 ## § 9 (Inkrafttreten)
-
 

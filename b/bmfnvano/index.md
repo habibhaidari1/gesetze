@@ -1,6 +1,5 @@
 ---
-Title: Anordnung über die Übertragung der Befugnis zur Genehmigung von Nebentätigkeiten
-  im Geschäftsbereich des Bundesministers der Finanzen
+Title: Anordnung über die Übertragung der Befugnis zur Genehmigung von Nebentätigkeiten im Geschäftsbereich des Bundesministers der Finanzen
 jurabk: BMFNVAnO
 layout: default
 origslug: bmfnvano
@@ -17,12 +16,11 @@ Fundstelle
 :   BAnz: 1965, Nr 206
 
 
-
 ## I.
 
 Auf Grund des § 65 Abs. 3 Satz 2 BBG übertrage ich hiermit
 
-*   dem Bundesfinanzhof
+-   dem Bundesfinanzhof
 
     der Bundesschuldenverwaltung
 
@@ -30,10 +28,8 @@ Auf Grund des § 65 Abs. 3 Satz 2 BBG übertrage ich hiermit
 
     der Bundesmonopolverwaltung für Branntwein
 
-
-
-die Befugnis, den zu ihrem Geschäftsbereich gehörenden Beamten die
-Ausübung der in § 65 Abs. 1 Nr. 1 u. 2 BBG aufgeführten
+die Befugnis, den zu ihrem Geschäftsbereich gehörenden Beamten
+die Ausübung der in § 65 Abs. 1 Nr. 1 u. 2 BBG aufgeführten
 Nebentätigkeiten zu genehmigen.
 
 Die der Oberfinanzdirektion Köln übertragene Befugnis gilt zugleich

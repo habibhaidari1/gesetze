@@ -1,7 +1,5 @@
 ---
-Title: Verordnung zur Durchführung des Bundesdisziplinargesetzes bei der Bundesanstalt
-  für Post und Telekommunikation Deutsche Bundespost und der Museumsstiftung Post
-  und Telekommunikation
+Title: Verordnung zur Durchführung des Bundesdisziplinargesetzes bei der Bundesanstalt für Post und Telekommunikation Deutsche Bundespost und der Museumsstiftung Post und Telekommunikation
 jurabk: BDGPNEDV
 layout: default
 origslug: bdgpnedv
@@ -38,28 +36,20 @@ Finanzen als oberste Dienstbehörde
     Präsidenten der Bundesanstalt für Post und Telekommunikation Deutsche
     Bundespost und
 
-
 2.  der Beamtinnen und Beamten der Museumsstiftung Post und Telekom auf
     das Kuratorium der Museumsstiftung Post und Telekommunikation.
-
-
-
 
 (2) Absatz 1 gilt nicht
 
 1.  für die Beamtinnen und Beamten der Bundesanstalt für Post und
     Telekommunikation Deutsche Bundespost in Ämtern oberhalb der
-    Besoldungsgruppe A 16 sowie für die Präsidentin oder den Präsidenten
+    Besoldungsgruppe A 16 sowie für die Präsidentin oder den Präsidenten
     der Bundesanstalt für Post und Telekommunikation Deutsche Bundespost
     und
 
-
 2.  für die Beamtinnen und Beamten der Museumsstiftung Post und Telekom in
-    Ämtern oberhalb der Besoldungsgruppe A 13 sowie für die Kuratorin oder
+    Ämtern oberhalb der Besoldungsgruppe A 13 sowie für die Kuratorin oder
     den Kurator der Museumsstiftung Post und Telekommunikation.
-
-
-
 
 (3) Das Bundesministerium der Finanzen behält sich vor, die Befugnisse
 im Einzelfall selbst wahrzunehmen.

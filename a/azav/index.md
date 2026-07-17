@@ -1,7 +1,5 @@
 ---
-Title: Verordnung über die Voraussetzungen und das Verfahren zur Akkreditierung von
-  fachkundigen Stellen und zur Zulassung von Trägern und Maßnahmen der Arbeitsförderung
-  nach dem Dritten Buch Sozialgesetzbuch
+Title: Verordnung über die Voraussetzungen und das Verfahren zur Akkreditierung von fachkundigen Stellen und zur Zulassung von Trägern und Maßnahmen der Arbeitsförderung nach dem Dritten Buch Sozialgesetzbuch
 jurabk: AZAV
 layout: default
 origslug: azav
@@ -24,15 +22,15 @@ Zuletzt geändert durch
 ## Eingangsformel
 
 Auf Grund des § 184 des Dritten Buches Sozialgesetzbuch –
-Arbeitsförderung –, der durch Artikel 2 Nummer 18 des Gesetzes vom 20.
-Dezember 2011 (BGBl. I S. 2854) geändert worden ist, verordnet das
+Arbeitsförderung –, der durch Artikel 2 Nummer 18 des Gesetzes vom
+20\. Dezember 2011 (BGBl. I S. 2854) geändert worden ist, verordnet das
 Bundesministerium für Arbeit und Soziales:
 
 
 ## § 1 Akkreditierungsverfahren
 
-Bei der Prüfung nach § 177 Absatz 2 Satz 1 Nummer 2 des Dritten Buches
-Sozialgesetzbuch berücksichtigt die Akkreditierungsstelle
+Bei der Prüfung nach § 177 Absatz 2 Satz 1 Nummer 2 des Dritten
+Buches Sozialgesetzbuch berücksichtigt die Akkreditierungsstelle
 insbesondere, ob die bei der Zertifizierungsstelle mit der Zulassung
 von Trägern und Maßnahmen beauftragten Personen umfassende Kenntnisse
 der Fachbereiche nach § 5 Absatz 1 Satz 3 sowie hinsichtlich Inhalt
@@ -54,46 +52,37 @@ Nachweise:
 1.  eine Erklärung, ob über sein Vermögen ein Insolvenzverfahren eröffnet,
     beantragt oder die Eröffnung mangels Masse abgelehnt wurde,
 
-
-2.  eine Darstellung seiner Organisations- und Personalstruktur sowie der
-    Eignung dieser Strukturen für die Durchführung von Maßnahmen der
+2.  eine Darstellung seiner Organisations- und Personalstruktur sowie
+    der Eignung dieser Strukturen für die Durchführung von Maßnahmen der
     Arbeitsförderung,
-
 
 3.  eine Darstellung der Eignung seiner von den Teilnehmenden zu nutzenden
     Räumlichkeiten und
 
-
 4.  eine Übersicht über sein aktuelles Angebot an Maßnahmen.
-
-
 
 Damit die fachkundige Stelle die Zuverlässigkeit des Trägers
 beurteilen kann, erhält sie von dem Träger grundsätzlich folgende
 Angaben und Nachweise:
 
 1.  bei natürlichen Personen Name, Geburtsdatum, Geburtsort,
-    zustellungsfähige Anschrift, Anschrift des Geschäftssitzes und der
-    Zweigstellen, von denen aus die Maßnahmen der Arbeitsförderung
+    zustellungsfähige Anschrift, Anschrift des Geschäftssitzes und
+    der Zweigstellen, von denen aus die Maßnahmen der Arbeitsförderung
     angeboten werden sollen, sowie bei juristischen Personen und
-    Personengesellschaften Name, Geburtsdatum und Geburtsort der
-    Vertreterinnen oder der Vertreter nach Gesetz, Satzung oder
-    Gesellschaftsvertrag, Anschrift des Geschäftssitzes und der
-    Zweigstellen, von denen die Maßnahmen der Arbeitsförderung angeboten
-    werden sollen und soweit der Träger in das Vereins- oder
+    rechtsfähigen Personengesellschaften Name, Geburtsdatum und
+    Geburtsort der Vertreterinnen oder der Vertreter nach Gesetz,
+    Satzung oder Gesellschaftsvertrag, Anschrift des Geschäftssitzes
+    und der Zweigstellen, von denen die Maßnahmen der Arbeitsförderung
+    angeboten werden sollen und soweit der Träger in das Vereins- oder
     Handelsregister eingetragen ist, einen entsprechenden Auszug,
 
-
-2.  eine Erklärung des Trägers, der gesetzlichen Vertreterin oder des
-    gesetzlichen Vertreters oder bei juristischen Personen oder nicht
-    rechtsfähigen Personenvereinigungen der nach Gesetz, Satzung oder
+2.  eine Erklärung des Trägers, der gesetzlichen Vertreterin oder
+    des gesetzlichen Vertreters oder bei juristischen Personen oder
+    sonstigen Personenvereinigungen der nach Gesetz, Satzung oder
     Gesellschaftsvertrag zur Vertretung oder Geschäftsführung Berechtigten
     über Vorstrafen, anhängige Strafverfahren, staatsanwaltschaftliche
     Ermittlungsverfahren und Gewerbeuntersagungen innerhalb der letzten
     fünf Jahre.
-
-
-
 
 (2) Die Fähigkeit des Trägers, die Eingliederung der Teilnehmenden
 nach § 178 Nummer 2 des Dritten Buches Sozialgesetzbuch zu
@@ -106,20 +95,14 @@ folgende Angaben und Nachweise:
 1.  eine Darstellung von Art und Umfang der Zusammenarbeit mit Akteuren
     des Ausbildungs- und Arbeitsmarktes vor Ort,
 
-
 2.  eine Darstellung der Methoden, mit denen der Träger aktuelle
     arbeitsmarktrelevante Entwicklungen berücksichtigt,
 
-
-3.  eine Übersicht der im jeweiligen Fachbereich nach § 5 Absatz 1 Satz 3
-    bereits durchgeführten Maßnahmen und deren arbeitsmarktliche
+3.  eine Übersicht der im jeweiligen Fachbereich nach § 5 Absatz 1
+    Satz 3 bereits durchgeführten Maßnahmen und deren arbeitsmarktliche
     Ergebnisse und
 
-
 4.  Bewertungen des Trägers durch Teilnehmende und Betriebe.
-
-
-
 
 (3) Damit die fachkundige Stelle beurteilen kann, ob die Aus- und
 Fortbildung sowie Berufserfahrung der Leitung sowie der Lehr- und
@@ -131,15 +114,10 @@ sie von dem Träger grundsätzlich folgende Angaben und Nachweise:
     Lehr- und Fachkräfte, einschließlich ihres beruflichen Werdegangs und
     ihrer praktischen Berufserfahrung im Fachbereich,
 
-
 2.  zur pädagogischen Eignung der Lehr- und Fachkräfte, einschließlich
     ihrer methodisch-didaktischen Kompetenz, und
 
-
 3.  Bewertungen der Lehr- und Fachkräfte durch Teilnehmende.
-
-
-
 
 (4) Ein System zur Sicherung der Qualität nach § 178 Nummer 4 des
 Dritten Buches Sozialgesetzbuch liegt vor, wenn durch zielgerichtete
@@ -151,42 +129,31 @@ erhält sie von dem Träger eine Dokumentation grundsätzlich
 1.  zu einem kundenorientierten und auf Eingliederung in den Ausbildungs-
     und Arbeitsmarkt gerichteten Leitbild,
 
-
 2.  zur Unternehmensorganisation und -führung, einschließlich der
     Festlegung von Unternehmenszielen und der Durchführung eigener
     Prüfungen zur Funktionsweise des Unternehmens,
 
-
 3.  zu einem zielorientierten Konzept zur Qualifizierung und Fortbildung
     der Leitung und der Lehr- und Fachkräfte,
-
 
 4.  zu Zielvereinbarungen, einschließlich der Messung der Zielerreichung
     und der Steuerung fortlaufender Optimierungsprozesse auf Grundlage
     erhobener Kennzahlen und Indikatoren,
 
-
 5.  zur Berücksichtigung arbeitsmarktlicher Entwicklungen bei Konzeption
     und Durchführung von Maßnahmen der Arbeitsförderung,
-
 
 6.  zu den Methoden zur Förderung der individuellen Entwicklungs-,
     Eingliederungs- und Lernprozesse der Teilnehmenden,
 
-
 7.  zu den Methoden der Bewertung der durchgeführten Maßnahmen sowie ihrer
     arbeitsmarktlichen Ergebnisse,
-
 
 8.  zur Art und Weise der kontinuierlichen Zusammenarbeit mit Dritten und
     der ständigen Weiterentwicklung dieser Zusammenarbeit und
 
-
 9.  zu einem systematischen Beschwerdemanagement, einschließlich der
     Berücksichtigung regelmäßiger Befragungen der Teilnehmenden.
-
-
-
 
 (5) Die vertraglichen Vereinbarungen nach § 178 Nummer 5 des Dritten
 Buches Sozialgesetzbuch sollen vorsehen, dass den Teilnehmenden nach
@@ -212,58 +179,49 @@ Buches Sozialgesetzbuch eine erfolgreiche Teilnahme erwarten, wenn
 1.  Ziele, Dauer und Inhalte der Maßnahme jeweils auf die Voraussetzungen
     der Zielgruppe und das Maßnahmeziel hin konzipiert sind und
 
-
 2.  sie aktuelle Entwicklungen des Ausbildungs- und Arbeitsmarktes
     berücksichtigt.
 
-
-
-
-(2) Die Bundesagentur für Arbeit veröffentlicht zweijährlich, erstmals
-im Jahr 2022, die durchschnittlichen Kostensätze nach § 179 Absatz 2
-des Dritten Buches Sozialgesetzbuch. Grundlage sind die der
-Bundesagentur für Arbeit gemeldeten Kostensätze der zugelassenen
+(2) Die Bundesagentur für Arbeit veröffentlicht zweijährlich,
+erstmals im Jahr 2022, die durchschnittlichen Kostensätze nach §
+179 Absatz 2 des Dritten Buches Sozialgesetzbuch. Grundlage sind die
+der Bundesagentur für Arbeit gemeldeten Kostensätze der zugelassenen
 Maßnahmen der vorangegangenen zwei Kalenderjahre.
 
-(3) Bei der Prüfung nach § 179 Absatz 1 Nummer 3 des Dritten Buches
-Sozialgesetzbuch, ob die Kosten einer Maßnahme angemessen sind,
-berücksichtigt die fachkundige Stelle insbesondere die
-Maßnahmekonzeption einschließlich ihrer Kalkulation. Der
+(3) Bei der Prüfung nach § 179 Absatz 1 Nummer 3 des Dritten
+Buches Sozialgesetzbuch, ob die Kosten einer Maßnahme angemessen
+sind, berücksichtigt die fachkundige Stelle insbesondere
+die Maßnahmekonzeption einschließlich ihrer Kalkulation. Der
 Kostenkalkulation für eine Gruppenmaßnahme ist grundsätzlich eine
 Gruppengröße von zwölf Teilnehmenden zu Grunde zu legen.
 
-(4) Als besondere Aufwendungen im Sinne des § 179 Absatz 2 Satz 1 des
-Dritten Buches Sozialgesetzbuch können insbesondere solche
+(4) Als besondere Aufwendungen im Sinne des § 179 Absatz 2 Satz
+1 des Dritten Buches Sozialgesetzbuch können insbesondere solche
 Aufwendungen anerkannt werden, die begründet sind durch
 
 1.  einen notwendigen überdurchschnittlichen Einsatz von Personal,
 
-
 2.  eine besondere räumliche Ausstattung,
-
 
 3.  eine besondere technische Ausstattung oder
 
-
 4.  eine besondere inhaltliche Ausgestaltung.
 
-
-
-Als besondere Aufwendungen können auch Kosten anerkannt werden, die
-auf eine barrierefreie Ausgestaltung der Maßnahme oder auf eine
+Als besondere Aufwendungen können auch Kosten anerkannt werden,
+die auf eine barrierefreie Ausgestaltung der Maßnahme oder auf eine
 begründete geringere Teilnehmerzahl zurückzuführen sind.
 
 (5) Die Bundesagentur für Arbeit kann bei der Ermittlung der
-durchschnittlichen Kostensätze neben den ihr nach § 181 Absatz 8 des
-Dritten Buches Sozialgesetzbuch vorliegenden Daten auch die allgemeine
-Preisentwicklung oder die Lohnentwicklung im Bereich der beruflichen
-Erwachsenenbildung berücksichtigen, sofern der Anstieg bei den
-durchschnittlichen Kostensätzen die allgemeine Preis- und
+durchschnittlichen Kostensätze neben den ihr nach § 181 Absatz 8
+des Dritten Buches Sozialgesetzbuch vorliegenden Daten auch die
+allgemeine Preisentwicklung oder die Lohnentwicklung im Bereich der
+beruflichen Erwachsenenbildung berücksichtigen, sofern der Anstieg
+bei den durchschnittlichen Kostensätzen die allgemeine Preis- und
 Lohnentwicklung nicht übersteigt.
 
-(6) Auf der Grundlage der Prüfung der fachkundigen Stelle soll die
-Bundesagentur für Arbeit ihre Zustimmung nach § 179 Absatz 2 Satz 2
-des Dritten Buches Sozialgesetzbuch von einem besonderen
+(6) Auf der Grundlage der Prüfung der fachkundigen Stelle soll
+die Bundesagentur für Arbeit ihre Zustimmung nach § 179 Absatz 2
+Satz 2 des Dritten Buches Sozialgesetzbuch von einem besonderen
 arbeitsmarktpolitischen Interesse an der Maßnahme und dem Nachweis
 notwendiger überdurchschnittlicher technischer, organisatorischer oder
 personeller Aufwendungen für die Durchführung der Maßnahme abhängig
@@ -276,8 +234,8 @@ fachkundigen Stelle vorzulegen.
 (8) Die fachkundige Stelle kann Maßnahmebausteine zulassen. Die
 Zulassung gilt auch für eine aus zugelassenen Maßnahmebausteinen
 bestehende Maßnahme, wenn der Träger gewährleistet, dass diese
-Maßnahme individuell auf die Bedürfnisse der Teilnehmenden und des
-Ausbildungs- und Arbeitsmarktes abgestimmt ist, und sie die
+Maßnahme individuell auf die Bedürfnisse der Teilnehmenden und
+des Ausbildungs- und Arbeitsmarktes abgestimmt ist, und sie die
 Voraussetzungen des § 45 oder der §§ 81 und 82 des Dritten Buches
 Sozialgesetzbuch erfüllt.
 
@@ -304,30 +262,22 @@ sind:
 1.  Maßnahmen zur Aktivierung und beruflichen Eingliederung nach § 45
     Absatz 1 Satz 1 Nummer 1 bis 5 des Dritten Buches Sozialgesetzbuch,
 
-
 2.  ausschließlich erfolgsbezogen vergütete Arbeitsvermittlung in
     versicherungspflichtige Beschäftigung nach § 45 Absatz 4 Satz 3 Nummer
     2 des Dritten Buches Sozialgesetzbuch,
 
-
 3.  Maßnahmen der Berufswahl und Berufsausbildung nach dem Dritten
     Abschnitt des Dritten Kapitels des Dritten Buches Sozialgesetzbuch,
-
 
 4.  Maßnahmen der beruflichen Weiterbildung nach dem Vierten Abschnitt des
     Dritten Kapitels des Dritten Buches Sozialgesetzbuch,
 
-
 5.  Transferleistungen nach den §§ 110 und 111 des Dritten Buches
     Sozialgesetzbuch,
 
-
-6.  Maßnahmen zur Teilhabe behinderter Menschen am Arbeitsleben nach dem
-    Siebten Abschnitt des Dritten Kapitels des Dritten Buches
+6.  Maßnahmen zur Teilhabe behinderter Menschen am Arbeitsleben nach
+    dem Siebten Abschnitt des Dritten Kapitels des Dritten Buches
     Sozialgesetzbuch.
-
-
-
 
 (2) Im Rahmen der Maßnahmezulassung prüft die fachkundige Stelle das
 Vorliegen der Anforderungen der §§ 3 und 4 ortsbezogen. Absatz 1 Satz
@@ -335,16 +285,16 @@ Vorliegen der Anforderungen der §§ 3 und 4 ortsbezogen. Absatz 1 Satz
 
 (3) Die Referenzauswahl nach § 181 Absatz 3 des Dritten Buches
 Sozialgesetzbuch beruht auf einer unabhängigen, repräsentativen
-Stichprobenauswahl der fachkundigen Stelle. Die Referenzauswahl kann
-durchgeführt werden für die Prüfung von Maßnahmen, deren Kosten die
-Durchschnittskostensätze nach § 179 Absatz 2 des Dritten Buches
+Stichprobenauswahl der fachkundigen Stelle. Die Referenzauswahl
+kann durchgeführt werden für die Prüfung von Maßnahmen, deren Kosten
+die Durchschnittskostensätze nach § 179 Absatz 2 des Dritten Buches
 Sozialgesetzbuch nicht übersteigen.
 
 (4) Die Dauer der Zulassung von Maßnahmen richtet sich nach den
-voraussichtlichen Entwicklungen am Ausbildungs- und Arbeitsmarkt. Sie
-soll auf längstens drei Jahre befristet werden. Sie kann auf längstens
-fünf Jahre befristet werden, sofern die Entwicklung auf dem
-Ausbildungs- und Arbeitsmarkt voraussichtlich keine wesentlichen
+voraussichtlichen Entwicklungen am Ausbildungs- und Arbeitsmarkt.
+Sie soll auf längstens drei Jahre befristet werden. Sie kann auf
+längstens fünf Jahre befristet werden, sofern die Entwicklung auf
+dem Ausbildungs- und Arbeitsmarkt voraussichtlich keine wesentlichen
 Auswirkungen auf die Maßnahme hat.
 
 (5) Änderungen, die der Träger der fachkundigen Stelle nach § 181
@@ -362,16 +312,16 @@ und 3 des Dritten Buches Sozialgesetzbuch.
 
 (7) § 181 Absatz 7 des Dritten Buches Sozialgesetzbuch gilt für eine
 aus zugelassenen Maßnahmebausteinen bestehende Maßnahme entsprechend.
-Die von der fachkundigen Stelle nach § 181 Absatz 7 des Dritten Buches
-Sozialgesetzbuch zu setzende Frist ist so zu wählen, wie es
-erforderlich ist, um die rechtlichen Anforderungen schnellstmöglich zu
-erfüllen und die erneute Durchführung nicht rechtmäßiger Maßnahmen zu
-verhindern.
+Die von der fachkundigen Stelle nach § 181 Absatz 7 des Dritten
+Buches Sozialgesetzbuch zu setzende Frist ist so zu wählen, wie es
+erforderlich ist, um die rechtlichen Anforderungen schnellstmöglich
+zu erfüllen und die erneute Durchführung nicht rechtmäßiger Maßnahmen
+zu verhindern.
 
-(8) Die Prüfung der Durchführung von Maßnahmen und die Beobachtung des
-Erfolgs dieser Maßnahmen obliegen nach § 183 des Dritten Buches
-Sozialgesetzbuch allein der Agentur für Arbeit. Die fachkundige Stelle
-prüft im Rahmen des § 181 Absatz 7 des Dritten Buches
+(8) Die Prüfung der Durchführung von Maßnahmen und die Beobachtung
+des Erfolgs dieser Maßnahmen obliegen nach § 183 des Dritten Buches
+Sozialgesetzbuch allein der Agentur für Arbeit. Die fachkundige
+Stelle prüft im Rahmen des § 181 Absatz 7 des Dritten Buches
 Sozialgesetzbuch, ob die ihr gemäß § 183 Absatz 4 des Dritten Buches
 Sozialgesetzbuch mitgeteilten Erkenntnisse Auswirkungen auf die
 Zulassung haben.
@@ -392,11 +342,11 @@ des Dritten Buches Sozialgesetzbuch zu beachten.
 ## § 7 Sonderregelung
 
 Für das Jahr 2020 werden die durchschnittlichen Kostensätze für
-Maßnahmen nach § 45 Absatz 4 Satz 3 Nummer 1 und nach den §§ 81 und 82
-des Dritten Buches Sozialgesetzbuch auf der Basis der im Jahr 2019 von
-den fachkundigen Stellen vorgelegten Kostensätze ermittelt. Zum 1.
-Juli 2020 werden die durchschnittlichen Kostensätze für Maßnahmen der
-beruflichen Weiterbildung nach den §§ 81 und 82 um 20 Prozent
+Maßnahmen nach § 45 Absatz 4 Satz 3 Nummer 1 und nach den §§ 81 und
+82 des Dritten Buches Sozialgesetzbuch auf der Basis der im Jahr 2019
+von den fachkundigen Stellen vorgelegten Kostensätze ermittelt. Zum
+1\. Juli 2020 werden die durchschnittlichen Kostensätze für Maßnahmen
+der beruflichen Weiterbildung nach den §§ 81 und 82 um 20 Prozent
 angehoben.
 
 

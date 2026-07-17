@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Gewährung von Vorrechten und Immunitäten an die Internationale
-  Naturkautschukorganisation
+Title: Verordnung über die Gewährung von Vorrechten und Immunitäten an die Internationale Naturkautschukorganisation
 jurabk: NatKautschOrgVorRV 1989
 layout: default
 origslug: natkautschorgvorrv_1989
@@ -16,7 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1989, 106
 
-Stand: V in Kraft gem. Bek. v. 16.3.1993 II 742 mWv 30.10.1992
+Stand
+:   V in Kraft gem. Bek. v. 16.3.1993 II 742 mWv 30.10.1992
 
 
 ## Eingangsformel
@@ -32,9 +32,9 @@ und Befreiungen an andere zwischenstaatliche Organisationen (BGBl.
 
 ## § 1
 
-Die Bestimmungen des Artikels II des Abkommens über die Vorrechte und
-Befreiungen der Sonderorganisationen der Vereinten Nationen vom 21.
-November 1947 (BGBl. 1954 II S. 639) finden sinngemäß auf die
+Die Bestimmungen des Artikels II des Abkommens über die Vorrechte
+und Befreiungen der Sonderorganisationen der Vereinten Nationen vom
+21\. November 1947 (BGBl. 1954 II S. 639) finden sinngemäß auf die
 Internationale Naturkautschukorganisation nach Maßgabe des Artikels 20
 Abs. 1 des Internationalen Naturkautschuk-Übereinkommens vom 20. März
 1987 Anwendung. Das Übereinkommen wird nachstehend mit einer amtlichen

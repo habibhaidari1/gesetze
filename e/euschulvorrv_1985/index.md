@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Gewährung von Vorrechten und Befreiungen an die Europäischen
-  Schulen in Karlsruhe und München
+Title: Verordnung über die Gewährung von Vorrechten und Befreiungen an die Europäischen Schulen in Karlsruhe und München
 jurabk: EuSchulVorRV 1985
 layout: default
 origslug: euschulvorrv_1985
@@ -36,9 +35,9 @@ Bundesregierung mit Zustimmung des Bundesrates:
 
 Die in Anwendung des Protokolls vom 13. April 1962 über die Gründung
 Europäischer Schulen (BGBl. 1969 II S. 1301) gegründete Europäische
-Schule in Karlsruhe und die in Anwendung des Zusatzprotokolls vom 15.
-Dezember 1975 zum vorbezeichneten Protokoll (BGBl. 1978 II S. 993)
-gegründete Europäische Schule in München werden auf steuerlichem
+Schule in Karlsruhe und die in Anwendung des Zusatzprotokolls vom
+15\. Dezember 1975 zum vorbezeichneten Protokoll (BGBl. 1978 II S.
+993) gegründete Europäische Schule in München werden auf steuerlichem
 Gebiet vorbehaltlich der nachfolgenden Abweichungen den öffentlichen
 Unterrichtsanstalten in der Bundesrepublik Deutschland gleichgestellt.
 
@@ -48,8 +47,8 @@ Unterrichtsanstalten in der Bundesrepublik Deutschland gleichgestellt.
 (1) Haben die Europäischen Schulen Gegenstände erworben oder sonstige
 Leistungen in Anspruch genommen, die ausschließlich für ihren
 satzungsgemäßen Bedarf bestimmt sind, so vergütet das Bundeszentralamt
-für Steuern die ihnen hierfür von dem Unternehmer nach § 14 Abs. 1 des
-Umsatzsteuergesetzes in Rechnung gestellte und von ihnen bezahlte
+für Steuern die ihnen hierfür von dem Unternehmer nach § 14 Abs. 1
+des Umsatzsteuergesetzes in Rechnung gestellte und von ihnen bezahlte
 Umsatzsteuer auf Antrag aus dem Aufkommen der Umsatzsteuer, wenn der
 Steuerbetrag im Einzelfall 50 Deutsche Mark übersteigt. Satz 1 gilt
 nicht für den Erwerb von Lebensmitteln und Tabakerzeugnissen.
@@ -68,9 +67,9 @@ schriftlicher Bescheid zu erteilen, wenn dem Antrag nicht entsprochen
 wird.
 
 (4) Mindert sich der Steuerbetrag, hat der Antragsteller das
-Bundeszentralamt für Steuern unverzüglich zu unterrichten. Der zuviel
-erhaltene Vergütungsbetrag ist innerhalb eines Monats nach
-Bekanntwerden der Minderung zurückzuzahlen. Er kann mit den
+Bundeszentralamt für Steuern unverzüglich zu unterrichten. Der
+zuviel erhaltene Vergütungsbetrag ist innerhalb eines Monats
+nach Bekanntwerden der Minderung zurückzuzahlen. Er kann mit den
 Vergütungsansprüchen auf Grund eines in diesem Zeitraum abgegebenen
 Antrags verrechnet werden.
 
@@ -78,20 +77,20 @@ Antrags verrechnet werden.
 ## § 3
 
 Die Einfuhr von Gegenständen, die ausschließlich für den
-satzungsgemäßen Bedarf der Europäischen Schulen bestimmt sind, ist
-einfuhrumsatzsteuerfrei. Dies gilt nicht für die Einfuhr von
+satzungsgemäßen Bedarf der Europäischen Schulen bestimmt sind,
+ist einfuhrumsatzsteuerfrei. Dies gilt nicht für die Einfuhr von
 Lebensmitteln und Tabakerzeugnissen. § 2 Abs. 2 gilt entsprechend.
 
 
 ## § 4
 
-Wird ein Gegenstand veräußert, den die Europäischen Schulen für den
-satzungsgemäßen Bedarf erworben oder eingeführt haben und für dessen
-Erwerb oder Einfuhr ihnen eine Entlastung von der Umsatzsteuer oder
-Einfuhrumsatzsteuer nach § 2 Abs. 1 oder § 3 gewährt worden ist, so
-ist der Teil der Umsatzsteuer oder Einfuhrumsatzsteuer, der dem
-Veräußerungspreis entspricht, an das Bundeszentralamt für Steuern
-abzuführen. Der abzuführende Steuerbetrag kann aus
+Wird ein Gegenstand veräußert, den die Europäischen Schulen für
+den satzungsgemäßen Bedarf erworben oder eingeführt haben und für
+dessen Erwerb oder Einfuhr ihnen eine Entlastung von der Umsatzsteuer
+oder Einfuhrumsatzsteuer nach § 2 Abs. 1 oder § 3 gewährt worden
+ist, so ist der Teil der Umsatzsteuer oder Einfuhrumsatzsteuer,
+der dem Veräußerungspreis entspricht, an das Bundeszentralamt
+für Steuern abzuführen. Der abzuführende Steuerbetrag kann aus
 Vereinfachungsgründen durch Anwendung des im Zeitpunkt der Veräußerung
 für die Lieferung des Gegenstands geltenden Steuersatzes (§ 12 des
 Umsatzsteuergesetzes) ermittelt werden. § 2 Abs. 4 gilt entsprechend.
@@ -125,8 +124,8 @@ des Direktors für ihre Tätigkeit an dieser Schule zahlt.
 
 Die ausländischen Bediensteten der Europäischen Schulen in Karlsruhe
 und München sowie die zu ihrem Haushalt gehörenden und von ihnen
-unterhaltenen Familienmitglieder unterliegen nicht dem Erfordernis der
-Aufenthaltserlaubnis. Die Bestimmungen über die allgemeine
+unterhaltenen Familienmitglieder unterliegen nicht dem Erfordernis
+der Aufenthaltserlaubnis. Die Bestimmungen über die allgemeine
 Meldepflicht nach den Meldegesetzen der Länder bleiben unberührt.
 
 

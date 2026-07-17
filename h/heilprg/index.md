@@ -35,34 +35,33 @@ oder gewerbsmäßig vorgenommene Tätigkeit zur Feststellung, Heilung
 oder Linderung von Krankheiten, Leiden oder Körperschäden bei
 Menschen, auch wenn sie im Dienste von anderen ausgeübt wird.
 
-(3) Wer die Heilkunde bisher berufsmäßig ausgeübt hat und weiterhin
-ausüben will, erhält die Erlaubnis nach Maßgabe der
-Durchführungsbestimmungen; er führt die Berufsbezeichnung
+(3) Wer die Heilkunde bisher berufsmäßig ausgeübt hat und
+weiterhin ausüben will, erhält die Erlaubnis nach Maßgabe
+der Durchführungsbestimmungen; er führt die Berufsbezeichnung
 "Heilpraktiker".
 
 
 ## § 2
 
 (1) Wer die Heilkunde, ohne als Arzt bestallt zu sein, bisher
-berufsmäßig nicht ausgeübt hat, kann eine Erlaubnis nach § 1 in
-Zukunft nach Maßgabe der gemäß § 7 erlassenen Rechts- und
+berufsmäßig nicht ausgeübt hat, kann eine Erlaubnis nach § 1
+in Zukunft nach Maßgabe der gemäß § 7 erlassenen Rechts- und
 Verwaltungsvorschriften erhalten, die insbesondere Vorgaben
 hinsichtlich Kenntnissen und Fähigkeiten als Bestandteil der
 Entscheidung über die Erteilung der Erlaubnis enthalten sollen.
 
-(2) Wer durch besondere Leistungen seine Fähigkeit zur Ausübung der
-Heilkunde glaubhaft macht, wird auf Antrag des
-Reichsministers des Innern              durch den
-Reichsminister für Wissenschaft, Erziehung und Volksbildung
-unter erleichterten Bedingungen zum Studium der Medizin zugelassen,
-sofern er seine Eignung für die Durchführung des Medizinstudiums
-nachweist.
+(2) Wer durch besondere Leistungen seine Fähigkeit zur Ausübung
+der Heilkunde glaubhaft macht, wird auf Antrag des *Reichsministers
+des Innern* durch den *Reichsminister für Wissenschaft, Erziehung
+und Volksbildung* unter erleichterten Bedingungen zum Studium der
+Medizin zugelassen, sofern er seine Eignung für die Durchführung des
+Medizinstudiums nachweist.
 
 
 ## § 3
 
-Die Erlaubnis nach § 1 berechtigt nicht zur Ausübung der Heilkunde im
-Umherziehen.
+Die Erlaubnis nach § 1 berechtigt nicht zur Ausübung der Heilkunde
+im Umherziehen.
 
 
 ## § 4
@@ -96,10 +95,8 @@ dieses Gesetzes.
 
 ## § 7
 
-Der
-Reichsminister des Innern              erläßt ... die zur Durchführung
-... dieses Gesetzes erforderlichen Rechts- und
-Verwaltungsvorschriften.
+Der *Reichsminister des Innern* erläßt ... die zur Durchführung ...
+dieses Gesetzes erforderlichen Rechts- und Verwaltungsvorschriften.
 
 
 ## § 8

@@ -1,7 +1,5 @@
 ---
-Title: Gesetz zu dem Notenwechsel vom 29. April 1998 über die Rechtsstellung der dänischen,
-  griechischen, italienischen, luxemburgischen, norwegischen, portugiesischen, spanischen
-  und türkischen Streitkräfte in der Bundesrepublik Deutschland
+Title: Gesetz zu dem Notenwechsel vom 29. April 1998 über die Rechtsstellung der dänischen, griechischen, italienischen, luxemburgischen, norwegischen, portugiesischen, spanischen und türkischen Streitkräfte in der Bundesrepublik Deutschland
 jurabk: AuslStreitkrNotWG
 layout: default
 origslug: auslstreitkrnotwg
@@ -45,11 +43,11 @@ Vereinbarte Niederschrift werden nachstehend veröffentlicht.
 
 ## Art 2 Schadensabwicklung
 
-(1) Für die Abgeltung von Schäden finden die Artikel 6, 8 bis 14 und
-25 des Gesetzes zu dem Abkommen zwischen den Parteien des
-Nordatlantikvertrags vom 19. Juni 1951 über die Rechtsstellung ihrer
-Truppen und zu den Zusatzvereinbarungen vom 3. August 1959 zu diesem
-Abkommen (Gesetz zum NATO-Truppenstatut und zu den
+(1) Für die Abgeltung von Schäden finden die Artikel 6, 8 bis
+14 und 25 des Gesetzes zu dem Abkommen zwischen den Parteien des
+Nordatlantikvertrags vom 19. Juni 1951 über die Rechtsstellung
+ihrer Truppen und zu den Zusatzvereinbarungen vom 3. August 1959
+zu diesem Abkommen (Gesetz zum NATO-Truppenstatut und zu den
 Zusatzvereinbarungen) vom 18. August 1961 (BGBl. 1961 II S. 1183),
 zuletzt geändert durch das Gesetz vom 28. September 1994 (BGBl. 1994
 II S. 2594), in der jeweils geltenden Fassung Anwendung.
@@ -63,8 +61,8 @@ mit § 16 Abs. 5 des Streitkräfteaufenthaltsgesetzes vom 20. Juli 1995
 
 ## Art 3 Gerichtsbarkeit
 
-Der Verzicht auf die Ausübung der deutschen Gerichtsbarkeit wird von
-der Staatsanwaltschaft erklärt. Im übrigen gilt Artikel 4a des
+Der Verzicht auf die Ausübung der deutschen Gerichtsbarkeit wird
+von der Staatsanwaltschaft erklärt. Im übrigen gilt Artikel 4a des
 Gesetzes zum NATO-Truppenstatut und zu den Zusatzvereinbarungen in der
 jeweils geltenden Fassung.
 

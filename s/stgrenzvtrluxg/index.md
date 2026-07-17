@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zu dem Vertrag vom 19. Dezember 1984 zwischen der Bundesrepublik Deutschland
-  und dem Großherzogtum Luxemburg über den Verlauf der gemeinsamen Staatsgrenze
+Title: Gesetz zu dem Vertrag vom 19. Dezember 1984 zwischen der Bundesrepublik Deutschland und dem Großherzogtum Luxemburg über den Verlauf der gemeinsamen Staatsgrenze
 jurabk: StGrenzVtrLUXG
 layout: default
 origslug: stgrenzvtrluxg
@@ -17,18 +16,17 @@ Fundstelle
 :   BGBl II: 1988, 414
 
 
-
 ## Art 1
 
 Dem in Luxemburg am 19. Dezember 1984 unterzeichneten Vertrag zwischen
-der Bundesrepublik Deutschland und dem Großherzogtum Luxemburg über
-den Verlauf der gemeinsamen Staatsgrenze wird zugestimmt. Der Vertrag
-wird nachstehend veröffentlicht. Das in Artikel 4 des Vertrags
-genannte Grenzurkundenwerk sowie die in Artikel 2 Abs. 2 genannten
-Anlagen 1 bis 4 zu diesem Vertrag liegen beim Auswärtigen Amt
-(Politisches Archiv), beim Rheinland-Pfälzischen Minister des Innern
-und für Sport in Mainz, beim Saarländischen Minister des Innern in
-Saarbrücken, bei der Bezirksregierung Trier in Trier sowie beim
+der Bundesrepublik Deutschland und dem Großherzogtum Luxemburg
+über den Verlauf der gemeinsamen Staatsgrenze wird zugestimmt.
+Der Vertrag wird nachstehend veröffentlicht. Das in Artikel 4 des
+Vertrags genannte Grenzurkundenwerk sowie die in Artikel 2 Abs. 2
+genannten Anlagen 1 bis 4 zu diesem Vertrag liegen beim Auswärtigen
+Amt (Politisches Archiv), beim Rheinland-Pfälzischen Minister des
+Innern und für Sport in Mainz, beim Saarländischen Minister des Innern
+in Saarbrücken, bei der Bezirksregierung Trier in Trier sowie beim
 Katasteramt Trier zur Einsicht bereit.
 
 
@@ -52,17 +50,12 @@ Rechtsverordnungen Vorschriften zu treffen
     luxemburgischem Recht bestimmt, in das Grundbuch eingetragen und in
     der Zwangsvollstreckung behandelt werden;
 
-
 2.  über die Ausscheidung von Grundstücken, die in dem im Vertrag
     bezeichneten gemeinschaftlichen Hoheitsgebiet liegen, aus dem
     Grundbuch;
 
-
 3.  über die Grundbuchbezirke für die im gemeinschaftlichen Hoheitsgebiet
     liegenden Grundstücke.
-
-
-
 
 (2) Die Regierungen des Landes Rheinland-Pfalz und des Saarlandes
 können die Ermächtigung auf die Landesjustizverwaltung übertragen.

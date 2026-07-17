@@ -24,21 +24,16 @@ Zuletzt geändert durch
 (1) Das Bundesverwaltungsamt führt eine Visa-Warndatei zur Vermeidung
 des Missbrauchs von Visa. Sie dient der Unterstützung
 
-1.  der für die Erteilung von Visa zuständigen öffentlichen Stellen bei
-    Entscheidungen im Visumverfahren, um Fehlentscheidungen im
+1.  der für die Erteilung von Visa zuständigen öffentlichen Stellen
+    bei Entscheidungen im Visumverfahren, um Fehlentscheidungen im
     Zusammenhang mit Täuschungen oder Täuschungsversuchen zu vermeiden,
-
 
 2.  der Ausländerbehörden bei der Prüfung von Verpflichtungserklärungen
     oder bei der Entscheidung über die Verlängerung eines Visums,
 
-
-3.  der mit der Kontrolle des grenzüberschreitenden Verkehrs beauftragten
-    Behörden bei Entscheidungen über die Zurückweisung oder
+3.  der mit der Kontrolle des grenzüberschreitenden Verkehrs
+    beauftragten Behörden bei Entscheidungen über die Zurückweisung oder
     Zurückschiebung eines Visuminhabers.
-
-
-
 
 (2) Das Bundesverwaltungsamt darf die ihm nach diesem Gesetz
 übermittelten personenbezogenen Daten nur nach Maßgabe dieses Gesetzes
@@ -54,21 +49,15 @@ zu den in Absatz 1 genannten Zwecken verwenden.
     a)  § 95 Absatz 1 Nummer 2 oder Nummer 3, Absatz 1a, § 96 oder § 97 des
         Aufenthaltsgesetzes,
 
-
     b)  § 10 oder § 11 des Schwarzarbeitsbekämpfungsgesetzes,
-
 
     c)  den §§ 232 bis 233 oder § 236 Absatz 2 Satz 3 des Strafgesetzbuchs
         oder
 
-
     d)  § 30a Absatz 1 oder Absatz 2 des Betäubungsmittelgesetzes wegen der
         Ein- oder Ausfuhr von Betäubungsmitteln
 
-
-
     rechtskräftig zu Geld- oder Freiheitsstrafe verurteilt worden sind,
-
 
 2.  die als Visumantragsteller im Visumverfahren ge- oder verfälschte
     Dokumente vorgelegt, beschafft oder hergestellt oder authentische
@@ -76,45 +65,38 @@ zu den in Absatz 1 genannten Zwecken verwenden.
     gemacht haben oder durch Verschweigen erheblicher Tatsachen, zu deren
     Angabe sie verpflichtet waren, ein Visum erschlichen haben,
 
-
 3.  die im eigenen Namen oder für eine Organisation
 
     a)  eine Einladung des Antragstellers in das Bundesgebiet zur Verwendung
         im Visumverfahren ausgesprochen haben (Einlader),
 
-
     b)  sich nach § 68 Absatz 1 des Aufenthaltsgesetzes oder durch Abgabe
-        einer Erklärung zur Verwendung im Visumverfahren in anderer Weise
-        verpflichtet haben, die Kosten für den Lebensunterhalt des
+        einer Erklärung zur Verwendung im Visumverfahren in anderer
+        Weise verpflichtet haben, die Kosten für den Lebensunterhalt des
         Antragstellers während des Aufenthalts im Bundesgebiet zu tragen oder
         nach § 66 Absatz 2 des Aufenthaltsgesetzes für die Ausreisekosten des
         Ausländers aufzukommen (Verpflichtungsgeber),
 
-
     c)  den vom Antragsteller angegebenen Zweck des Aufenthalts im
         Bundesgebiet zur Verwendung im Visumverfahren bestätigt haben
         (sonstige Referenzperson)
-
-
 
     und dabei falsche Angaben gemacht haben oder die Verpflichtung, für
     die Kosten für den Lebensunterhalt eines Ausländers oder für die
     Kosten der Abschiebung aufzukommen, bei Inanspruchnahme nicht erfüllt
     haben.
 
-
-
-Wurden die falschen Angaben im Rahmen einer nach Satz 1 Nummer 3 für
-eine Organisation abgegebenen Erklärung gemacht, erfolgt die
+Wurden die falschen Angaben im Rahmen einer nach Satz 1 Nummer 3
+für eine Organisation abgegebenen Erklärung gemacht, erfolgt die
 Eintragung von Warndaten auch für die Organisation.
 
 (2) Die Speicherung von Warndaten einer Person erfolgt ferner mit
-deren Einwilligung, wenn unter ihrem Namen unbefugt Erklärungen nach
-Absatz 1 Satz 1 Nummer 3 abgegeben worden sind oder sie dies
+deren Einwilligung, wenn unter ihrem Namen unbefugt Erklärungen
+nach Absatz 1 Satz 1 Nummer 3 abgegeben worden sind oder sie dies
 befürchtet oder sie eine im Visumverfahren nach Absatz 1 Satz 1 Nummer
 3 abgegebene Erklärung widerrufen hat. Die Daten sind unverzüglich zu
-löschen, wenn die Person die Einwilligung widerruft. Die Sätze 1 und 2
-gelten entsprechend für die Speicherung und Löschung von Warndaten
+löschen, wenn die Person die Einwilligung widerruft. Die Sätze 1 und
+2 gelten entsprechend für die Speicherung und Löschung von Warndaten
 einer Organisation.
 
 
@@ -127,70 +109,48 @@ gespeichert:
 
     a)  Vornamen,
 
-
     b)  Familienname,
-
 
     c)  abweichende Namensschreibweisen,
 
-
     d)  andere Namen und frühere Namen,
-
 
     e)  Geschlecht,
 
-
     f)  Geburtsdatum,
-
 
     g)  Geburtsort,
 
-
     h)  Staatsangehörigkeit;
-
-
-
-
 
 2.  sofern die Eintragung von Warndaten für eine Organisation erfolgt:
 
     a)  Bezeichnung der Organisation,
 
-
     b)  Anschrift der Organisation,
-
 
     c)  Sitz der Organisation,
 
-
     d)  Aufgabenstellung oder Wirkungsbereich der Organisation,
-
 
     e)  Bezeichnung und der Ort des Registers, in das die Organisation
         eingetragen ist, sowie die Registernummer der Organisation;
 
-
-
-
-
 3.  die Visa-Warndateinummer des Bundesverwaltungsamtes und
 
-
 4.  die Anlässe nach § 2.
-
-
 
 Die Daten nach Satz 1 Nummer 1 Buchstabe a, b, e, f, g und h und
 Nummer 2 Buchstabe a und b sowie den Nummern 3 und 4 sind in jedem
 Fall, die übrigen Daten soweit vorhanden zu speichern.
 
 (2) Im Fall des § 2 Absatz 2 werden zusätzlich Angaben zur
-Einwilligung der Person oder Organisation zur Speicherung der
-Warndaten und Angaben zum Widerruf einer Einladung,
+Einwilligung der Person oder Organisation zur Speicherung
+der Warndaten und Angaben zum Widerruf einer Einladung,
 Verpflichtungserklärung oder Bestätigung gespeichert.
 
-(3) Zu den nach den Absätzen 1 und 2 gespeicherten Daten werden die
-Bezeichnung der Stelle, die die Daten übermittelt hat, deren
+(3) Zu den nach den Absätzen 1 und 2 gespeicherten Daten werden
+die Bezeichnung der Stelle, die die Daten übermittelt hat, deren
 Geschäftszeichen und das Datum der Datenübermittlung gespeichert.
 
 (4) In den Fällen des § 2 Absatz 1 Satz 1 Nummer 1 werden zu den nach
@@ -199,11 +159,8 @@ gespeichert:
 
 1.  das Datum des ersten Urteils,
 
-
 2.  die Angabe, ob auf Freiheitsstrafe bis zu drei Monate oder Geldstrafe
     bis zu 90 Tagessätzen oder Jugendstrafe erkannt wurde.
-
-
 
 Eine Übermittlung dieser Daten ist nur an die Stelle zulässig, die die
 Daten übermittelt hat.
@@ -220,35 +177,29 @@ an das Bundesverwaltungsamt verpflichtet:
     soweit sie als Visumbehörden tätig werden, in den Fällen des § 2
     Absatz 1 Satz 1 Nummer 2 und 3 Buchstabe a und c,
 
-
 2.  die Ausländerbehörden in den Fällen des § 2 Absatz 1 Satz 1 Nummer 3
     Buchstabe b,
 
-
 3.  die mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs
     betrauten Stellen in den Fällen des § 2 Absatz 1 Satz 1 Nummer 2,
-
 
 4.  die Staatsanwaltschaften in den Fällen des § 2 Absatz 1 Satz 1 Nummer
     1\.
 
 
-
-
-
 ## § 5 Verantwortung für die Übermittlung und die Datenrichtigkeit
 
 (1) Die in § 4 bezeichneten Stellen sind gegenüber dem
-Bundesverwaltungsamt für die Zulässigkeit der Übermittlung sowie für
-die Richtigkeit und die Aktualität der von ihnen übermittelten Daten
-verantwortlich. Sie haben dem jeweiligen Stand der Technik
+Bundesverwaltungsamt für die Zulässigkeit der Übermittlung sowie
+für die Richtigkeit und die Aktualität der von ihnen übermittelten
+Daten verantwortlich. Sie haben dem jeweiligen Stand der Technik
 entsprechende Maßnahmen zur Sicherstellung von Datenschutz und
 Datensicherheit nach den Artikeln 24, 25 und 32 der Verordnung (EU)
 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016
 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener
-Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie
-95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1;
-L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils
+Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/
+EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L
+314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils
 geltenden Fassung zu treffen, die insbesondere die Vertraulichkeit und
 die Unversehrtheit der von ihnen übermittelten Daten gewährleisten.
 Sie haben das Bundesverwaltungsamt unverzüglich zu unterrichten, wenn
@@ -257,9 +208,9 @@ Unrichtigkeit nachträglich herausstellt und eine Berichtigung oder
 Aktualisierung nicht im Wege der Direkteingabe nach § 9 erfolgen kann.
 
 (2) Die in § 4 bezeichneten Stellen sind berechtigt und verpflichtet,
-die von ihnen übermittelten Daten auf Richtigkeit und Aktualität zu
-prüfen, soweit dazu Anlass besteht. Zu diesem Zweck übermittelt das
-Bundesverwaltungsamt die zu überprüfenden Daten an die dazu
+die von ihnen übermittelten Daten auf Richtigkeit und Aktualität
+zu prüfen, soweit dazu Anlass besteht. Zu diesem Zweck übermittelt
+das Bundesverwaltungsamt die zu überprüfenden Daten an die dazu
 berechtigte oder verpflichtete Stelle.
 
 (3) Die in § 6 Absatz 1 und § 7 Satz 1 bezeichneten Behörden haben das
@@ -268,8 +219,8 @@ Anhaltspunkte dafür vorliegen, dass die ihnen übermittelten Daten
 unrichtig oder unvollständig sind.
 
 (4) In den Fällen des § 2 Absatz 1 Satz 1 Nummer 1 teilt das Bundesamt
-für Justiz dem Bundesverwaltungsamt mit, dass die Nichtaufnahme nach §
-39 des Bundeszentralregistergesetzes oder die Tilgung in besonderen
+für Justiz dem Bundesverwaltungsamt mit, dass die Nichtaufnahme nach
+§ 39 des Bundeszentralregistergesetzes oder die Tilgung in besonderen
 Fällen nach § 49 des Bundeszentralregistergesetzes angeordnet ist. Die
 Absätze 1 und 2 gelten entsprechend.
 
@@ -283,11 +234,11 @@ die in § 21 des Ausländerzentralregistergesetzes genannte Stelle an
 die ersuchende Stelle übermittelt.
 
 (2) Die Übermittlung von nach § 2 Absatz 1 Satz 1 Nummer 1
-gespeicherten Daten erfolgt nur, soweit sie der ersuchenden Stelle zur
-Erfüllung ihrer jeweiligen Aufgabe aus dem Bundeszentralregister
-übermittelt werden dürften. Ungeachtet abweichender Regelungen werden
-Daten zu Verurteilungen mit einem Strafmaß bis zu drei Monate
-Freiheitsstrafe oder Geldstrafe bis zu 90 Tagessätzen oder
+gespeicherten Daten erfolgt nur, soweit sie der ersuchenden Stelle
+zur Erfüllung ihrer jeweiligen Aufgabe aus dem Bundeszentralregister
+übermittelt werden dürften. Ungeachtet abweichender Regelungen
+werden Daten zu Verurteilungen mit einem Strafmaß bis zu drei
+Monate Freiheitsstrafe oder Geldstrafe bis zu 90 Tagessätzen oder
 Jugendstrafe nur an ersuchende Stellen nach Absatz 1 übermittelt,
 soweit diese ein Recht auf unbeschränkte Auskunft im Sinne des § 41
 des Bundeszentralregistergesetzes besitzen.
@@ -304,12 +255,7 @@ bezeichneten Daten auf Ersuchen an
     a)  eines Antrages auf Erteilung eines Visums nach § 14 Absatz 2 des
         Aufenthaltsgesetzes,
 
-
     b)  der Zurückweisung oder Zurückschiebung eines Visuminhabers,
-
-
-
-
 
 2.  die Ausländerbehörden, wenn die Daten erforderlich sind
 
@@ -318,14 +264,8 @@ bezeichneten Daten auf Ersuchen an
         soweit die Daten auf Grund von § 2 Absatz 1 Satz 1 Nummer 3
         gespeichert wurden,
 
-
     b)  zur Entscheidung über die Verlängerung eines Visums nach § 6 Absatz 3
         des Aufenthaltsgesetzes.
-
-
-
-
-
 
 Im Fall der Übermittlung von nach § 2 Absatz 1 Satz 1 Nummer 1
 gespeicherten Daten gilt § 6 Absatz 2 entsprechend.
@@ -333,10 +273,10 @@ gespeicherten Daten gilt § 6 Absatz 2 entsprechend.
 
 ## § 8 Voraussetzungen für die Datenübermittlung
 
-(1) Die Übermittlung von Daten an eine der in § 6 Absatz 1 und § 7
-Satz 1 bezeichneten Stellen setzt ein Ersuchen unter Angabe des Zwecks
-voraus und ist nur zulässig, wenn die Kenntnis der Daten zur Erfüllung
-ihrer in § 6 Absatz 1 und § 7 Satz 1 bezeichneten Aufgaben
+(1) Die Übermittlung von Daten an eine der in § 6 Absatz 1 und §
+7 Satz 1 bezeichneten Stellen setzt ein Ersuchen unter Angabe des
+Zwecks voraus und ist nur zulässig, wenn die Kenntnis der Daten zur
+Erfüllung ihrer in § 6 Absatz 1 und § 7 Satz 1 bezeichneten Aufgaben
 erforderlich ist. Die ersuchende Stelle trägt dafür die Verantwortung.
 Das Bundesverwaltungsamt hat die Übermittlung zu versagen, wenn
 Anhaltspunkte dafür bestehen, dass die in Satz 1 bezeichneten
@@ -348,8 +288,8 @@ schriftlich oder im Wege der Datenübertragung.
 (3) Das Übermittlungsersuchen muss, soweit vorhanden, die Visa-
 Warndateinummer, andernfalls alle verfügbaren Grundpersonalien der
 betroffenen Person oder alle verfügbaren Angaben zur betroffenen
-Organisation enthalten. Stimmen die im Ersuchen enthaltenen Daten mit
-den zur betroffenen Person oder zur betroffenen Organisation
+Organisation enthalten. Stimmen die im Ersuchen enthaltenen Daten
+mit den zur betroffenen Person oder zur betroffenen Organisation
 gespeicherten Daten nicht überein, ist die Datenübermittlung
 unzulässig, es sei denn, es bestehen keine Zweifel an der Identität.
 
@@ -368,17 +308,17 @@ Warndatei genutzt werden.
 
 (6) Das Bundesverwaltungsamt hat dem jeweiligen Stand der Technik
 entsprechende technische und organisatorische Maßnahmen zur Sicherung
-von Datenschutz und Datensicherheit nach den Artikeln 24, 25 und 32
-der Verordnung (EU) 2016/679 zu treffen, die insbesondere die
-Vertraulichkeit und Unversehrtheit der in der Visa-Warndatei
+von Datenschutz und Datensicherheit nach den Artikeln 24, 25
+und 32 der Verordnung (EU) 2016/679 zu treffen, die insbesondere
+die Vertraulichkeit und Unversehrtheit der in der Visa-Warndatei
 gespeicherten und an die ersuchende Stelle übermittelten Daten
 gewährleisten.
 
 
 ## § 9 Übermittlung und Veränderung von Daten durch Direkteingabe; Datenabruf im automatisierten Verfahren
 
-(1) Die in § 6 Absatz 1 und § 7 Satz 1 bezeichneten Stellen können auf
-Antrag zur Übermittlung von Daten durch Eingabe mit unmittelbarer
+(1) Die in § 6 Absatz 1 und § 7 Satz 1 bezeichneten Stellen können
+auf Antrag zur Übermittlung von Daten durch Eingabe mit unmittelbarer
 Wirkung für den Datenbestand (Direkteingabe) und zum Datenabruf nach
 diesen Vorschriften im automatisierten Verfahren zugelassen werden.
 Das Bundesverwaltungsamt erteilt die Zulassung, wenn die beantragende
@@ -391,8 +331,8 @@ wenn es wegen der Vielzahl der Übermittlungsersuchen oder der
 besonderen Eilbedürftigkeit unter Berücksichtigung der schutzwürdigen
 Interessen der betroffenen Personen angemessen ist.
 
-(3) Das Bundesverwaltungsamt unterrichtet die Bundesbeauftragte oder
-den Bundesbeauftragten für den Datenschutz und die
+(3) Das Bundesverwaltungsamt unterrichtet die Bundesbeauftragte
+oder den Bundesbeauftragten für den Datenschutz und die
 Informationsfreiheit von der Zulassung unter Angabe der technischen
 und organisatorischen Maßnahmen, die nach Mitteilung der zugelassenen
 Stelle getroffen wurden.
@@ -402,8 +342,8 @@ Abruf im automatisierten Verfahren festzustellen, ob zur betroffenen
 Person oder zur betroffenen Organisation bereits ein Datensatz
 besteht. Die zu übermittelnden Daten sind einem bereits bestehenden
 Datensatz zuzuordnen. Zuvor sind Zweifel an der Identität der Person
-oder Organisation, deren Daten in der Datei gespeichert sind, mit der
-Person oder Organisation, deren Daten zugeordnet werden sollen,
+oder Organisation, deren Daten in der Datei gespeichert sind, mit
+der Person oder Organisation, deren Daten zugeordnet werden sollen,
 auszuräumen. Hierzu sind vom Bundesverwaltungsamt Daten ähnlicher
 Personen zur Identitätsprüfung und Identitätsfeststellung an die
 dateneingebende Stelle zu übermitteln. Übermittelte Daten, die
@@ -417,8 +357,8 @@ die zu speichernden Daten zuvor auf ihre Schlüssigkeit geprüft und
 gespeicherte Daten durch die Verarbeitung nicht ungewollt gelöscht
 oder unrichtig werden.
 
-(6) Die Verantwortung für die Zulässigkeit der Direkteingabe trägt die
-eingebende Stelle. Die Verantwortung für die Zulässigkeit des
+(6) Die Verantwortung für die Zulässigkeit der Direkteingabe trägt
+die eingebende Stelle. Die Verantwortung für die Zulässigkeit des
 einzelnen Abrufs trägt die abrufende Stelle. Das Bundesverwaltungsamt
 überprüft die Zulässigkeit der Abrufe nur, wenn dazu Veranlassung
 besteht. Abrufe von Daten aus der Datei im automatisierten Verfahren
@@ -428,8 +368,8 @@ Behörde hierzu besonders ermächtigt sind.
 
 ## § 10 Zweckbindung und weitere Verarbeitung der Daten
 
-Die ersuchende Behörde darf die übermittelten Daten nur zu dem Zweck
-verarbeiten, zu dem sie ihr übermittelt worden sind. Eine
+Die ersuchende Behörde darf die übermittelten Daten nur zu dem
+Zweck verarbeiten, zu dem sie ihr übermittelt worden sind. Eine
 Weiterübermittlung ist nicht zulässig.
 
 
@@ -440,41 +380,27 @@ Datenschutzkontrolle bei jedem Zugriff auf die Datei
 
 1.  den Zeitpunkt des Zugriffs,
 
-
 2.  die Angaben, die die Feststellung der aufgerufenen Datensätze
     ermöglichen,
 
-
 3.  die Datenveränderung,
-
 
 4.  die für den Zugriff verantwortliche Dienststelle,
 
-
 5.  die für den Zugriff verantwortliche Person sowie
 
-
 6.  den Zweck des Zugriffs.
-
-
-
 
 (2) Im Fall der Übermittlung nach § 4 oder nach den §§ 6 bis 9 umfasst
 die Protokollierung auch
 
 1.  die übermittelten Daten,
 
-
 2.  den Zweck der Übermittlung,
-
 
 3.  die übermittelnde Stelle und
 
-
 4.  die Stelle, an die übermittelt wird.
-
-
-
 
 (3) Die Auswertung der Protokolldaten ist nach dem Stand der Technik
 zu gewährleisten. Die protokollierten Daten dürfen nur verwendet
@@ -482,14 +408,10 @@ werden
 
 1.  für Zwecke der Datenschutzkontrolle und der Datensicherung,
 
-
 2.  zur Sicherstellung eines ordnungsgemäßen Betriebes der
     Datenverarbeitungsanlage oder
 
-
 3.  zur Erfüllung des Auskunftsanspruchs nach § 12.
-
-
 
 Sie sind durch geeignete Maßnahmen gegen unberechtigten Zugriff zu
 sichern.
@@ -509,17 +431,13 @@ Verordnung (EU) 2016/679 besteht dann nicht, soweit
 1.  die Auskunft die ordnungsgemäße Erfüllung der Aufgaben der Stelle
     gefährden würde, die die jeweiligen Daten nach § 4 übermittelt hat,
 
-
 2.  die Auskunft die öffentliche Sicherheit gefährden oder sonst dem Wohl
     des Bundes oder eines Landes Nachteile bereiten würde oder
-
 
 3.  die Daten oder die Tatsache ihrer Speicherung nach einer
     Rechtsvorschrift oder ihrem Wesen nach, insbesondere wegen der
     überwiegenden berechtigten Interessen eines Dritten, geheim gehalten
     werden müssen
-
-
 
 und deswegen das Interesse der betroffenen Person an der
 Auskunftserteilung zurücktreten muss. Die Entscheidung trifft das
@@ -528,11 +446,11 @@ nach § 4 übermittelt hat.
 
 (3) Die Ablehnung der Auskunftserteilung bedarf keiner Begründung
 gegenüber der betroffenen Person, wenn durch eine Begründung der mit
-der Ablehnung verfolgte Zweck gefährdet würde. Die Begründung ist in
-diesem Fall für eine datenschutzrechtliche Kontrolle schriftlich oder
-elektronisch niederzulegen und fünf Jahre aufzubewahren. Sie ist durch
-geeignete Maßnahmen gegen unberechtigten Zugriff zu sichern. Die
-betroffene Person ist darauf hinzuweisen, dass sie sich die
+der Ablehnung verfolgte Zweck gefährdet würde. Die Begründung ist
+in diesem Fall für eine datenschutzrechtliche Kontrolle schriftlich
+oder elektronisch niederzulegen und fünf Jahre aufzubewahren. Sie ist
+durch geeignete Maßnahmen gegen unberechtigten Zugriff zu sichern.
+Die betroffene Person ist darauf hinzuweisen, dass sie sich die
 Beauftragte oder an den Bundesbeauftragten für den Datenschutz und die
 Informationsfreiheit wenden kann.
 
@@ -558,24 +476,21 @@ unzulässig ist, der Speicheranlass nach § 2 nicht mehr besteht oder
 sie für die Erfüllung der Aufgaben der in § 6 Absatz 1 und § 7 Satz 1
 bezeichneten Stellen nicht mehr erforderlich sind.
 
-(3) Warndaten, die aus Anlass einer rechtskräftigen Verurteilung nach
-§ 2 Absatz 1 Satz 1 Nummer 1 gespeichert worden sind, und die hierzu
-nach § 3 Absatz 3 und 4 gespeicherten Daten sind nach folgenden
+(3) Warndaten, die aus Anlass einer rechtskräftigen Verurteilung
+nach § 2 Absatz 1 Satz 1 Nummer 1 gespeichert worden sind, und die
+hierzu nach § 3 Absatz 3 und 4 gespeicherten Daten sind nach folgenden
 Zeiträumen zu löschen:
 
 1.  bei einem Strafmaß bis zu drei Monate Freiheitsstrafe oder Geldstrafe
     bis zu 90 Tagessätzen oder Jugendstrafe spätestens fünf Jahre nach dem
     Tag des ersten Urteils,
 
-
 2.  in den übrigen Fällen spätestens zehn Jahre nach dem Tag des ersten
     Urteils.
 
-
-
 Ohne Rücksicht auf den Lauf der Frist nach Satz 1 werden diese Daten
-gelöscht, wenn eine frühere Tilgung im Bundeszentralregister nach § 49
-des Bundeszentralregistergesetzes angeordnet wird. § 36 des
+gelöscht, wenn eine frühere Tilgung im Bundeszentralregister nach
+§ 49 des Bundeszentralregistergesetzes angeordnet wird. § 36 des
 Bundeszentralregistergesetzes gilt entsprechend.
 
 (4) Warndaten nach § 3 Absatz 1 und die hierzu nach § 3 Absatz 2, 3
@@ -585,10 +500,10 @@ ihrer Speicherung zu löschen.
 
 ## § 14 Einschränkung der Verarbeitung
 
-(1) Ergänzend zu Artikel 18 der Verordnung (EU) 2016/679 tritt an die
-Stelle der Löschung die Einschränkung der Verarbeitung, wenn Grund zu
-der Annahme besteht, dass durch die Löschung schutzwürdige Interessen
-der betroffenen Person oder einer betroffenen Organisation
+(1) Ergänzend zu Artikel 18 der Verordnung (EU) 2016/679 tritt an
+die Stelle der Löschung die Einschränkung der Verarbeitung, wenn
+Grund zu der Annahme besteht, dass durch die Löschung schutzwürdige
+Interessen der betroffenen Person oder einer betroffenen Organisation
 beeinträchtigt würden. Das Bundesverwaltungsamt unterrichtet die
 betroffene Person über die Einschränkung der Verarbeitung, es sei
 denn, die Unterrichtung erweist sich als unmöglich oder würde einen
@@ -609,31 +524,22 @@ bestimmen
 1.  zu den Daten, die nach § 3 gespeichert werden, und zu den Daten, die
     nach den §§ 6 und 7 übermittelt werden,
 
-
-2.  zu den Voraussetzungen und dem Verfahren zur Übermittlung von Daten an
-    das Bundesverwaltungsamt durch die in den §§ 4 und 5 Absatz 4
+2.  zu den Voraussetzungen und dem Verfahren zur Übermittlung von Daten
+    an das Bundesverwaltungsamt durch die in den §§ 4 und 5 Absatz 4
     bezeichneten öffentlichen Stellen,
-
 
 3.  zu den Voraussetzungen und zum Verfahren der Übermittlung von Daten
     nach den §§ 6 und 7 durch das Bundesverwaltungsamt,
 
-
 4.  zum Verfahren nach § 6 Absatz 2,
-
 
 5.  zu den Voraussetzungen und zum Verfahren der Datenübermittlung nach
     den §§ 8 und 9,
 
-
 6.  zu den Voraussetzungen und dem Verfahren der Auskunft nach § 12 und
     der Löschung nach § 13,
 
-
 7.  zum Verfahren der Einschränkung der Verarbeitung nach § 14.
-
-
-
 
 
 ## § 16 Bestimmungen zum Verwaltungsverfahren

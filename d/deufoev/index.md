@@ -16,7 +16,7 @@ Fundstelle
 :   BAnz: AT 04.05.2016 V1
 
 Zuletzt geändert durch
-:   Art. 27 G v. 10.8.2021 I 3436
+:   Art. 1 V v. 27.4.2026 I Nr. 118
 
 
 ## Eingangsformel
@@ -33,9 +33,9 @@ Soziales im Einvernehmen mit dem Bundesministerium des Innern:
 ### § 1 Durchführung der berufsbezogenen Deutschsprachförderung
 
 (1) Die Durchführung der berufsbezogenen Deutschsprachförderung ist
-Aufgabe des Bundesamtes für Migration und Flüchtlinge (Bundesamt). Zur
-Durchführung der berufsbezogenen Deutschsprachförderung lässt das
-Bundesamt private und öffentliche Träger zu. Das Bundesamt
+Aufgabe des Bundesamtes für Migration und Flüchtlinge (Bundesamt).
+Zur Durchführung der berufsbezogenen Deutschsprachförderung lässt
+das Bundesamt private und öffentliche Träger zu. Das Bundesamt
 berücksichtigt die von der Bundesagentur für Arbeit und von den für
 die Durchführung der Grundsicherung für Arbeitsuchende zuständigen
 Stellen ermittelten Bedarfe an berufsbezogener Deutschsprachförderung.
@@ -47,13 +47,13 @@ Barrierefreiheit besonders berücksichtigt werden.
 
 ### § 2 Persönlicher Anwendungsbereich der Verordnung
 
-(1) Die Verordnung ist anwendbar auf Ausländerinnen und Ausländer im
-Sinne von § 2 Absatz 1 des Aufenthaltsgesetzes und auf Ausländerinnen
-und Ausländer, deren Rechtsstellung sich nach dem
+(1) Die Verordnung ist anwendbar auf Ausländerinnen und Ausländer
+im Sinne von § 2 Absatz 1 des Aufenthaltsgesetzes und auf
+Ausländerinnen und Ausländer, deren Rechtsstellung sich nach dem
 Freizügigkeitsgesetz/EU bestimmt.
 
-(2) Die Verordnung ist entsprechend auf deutsche Staatsangehörige mit
-Migrationshintergrund anwendbar.
+(2) Die Verordnung ist entsprechend auf deutsche Staatsangehörige
+anwendbar, deren Erstsprache nicht Deutsch ist.
 
 
 ### § 3 Ziel der berufsbezogenen Deutschsprachförderung
@@ -67,44 +67,34 @@ die Chancen auf dem Arbeits- und Ausbildungsmarkt zu verbessern.
 
 ### § 4 Teilnahme an der berufsbezogenen Deutschsprachförderung
 
-(1) Personen nach § 2 können eine Teilnahmeberechtigung für die
-berufsbezogene Deutschsprachförderung erhalten, wenn die
+(1) Personen nach § 2 können eine Teilnahmeberechtigung für
+die berufsbezogene Deutschsprachförderung erhalten, wenn die
 berufsbezogene Deutschsprachförderung notwendig ist,
 
 1.  um ihre Chancen auf dem Arbeits- oder Ausbildungsmarkt zu verbessern
     und sie zum Zeitpunkt der Erteilung der Teilnahmeberechtigung
 
-    a)  bei der Agentur für Arbeit ausbildungsuchend, arbeitsuchend oder
-        arbeitslos gemeldet sind oder in Maßnahmen nach dem Zweiten
+    a)  bei der Agentur für Arbeit ausbildungsuchend, arbeitsuchend
+        oder arbeitslos gemeldet sind oder in Maßnahmen nach dem Zweiten
         Unterabschnitt des Dritten Abschnitts des Dritten Kapitels oder § 74
         Absatz 1 Satz 2 des Dritten Buches Sozialgesetzbuch gefördert werden,
 
-
     b)  Leistungen nach dem Zweiten Buch Sozialgesetzbuch beziehen oder
 
-
-    c)  beschäftigt sind, ohne zum Personenkreis nach den Buchstaben a oder b
-        zu gehören,
-
-
-
-
+    c)  beschäftigt sind oder bereits einen Arbeitsvertrag geschlossen haben,
+        ohne zum Personenkreis nach den Buchstaben a oder b zu gehören,
 
 2.  weil sie begleitend zur Anerkennung ausländischer Berufsabschlüsse
     oder für den Zugang zum Beruf ein bestimmtes Sprachniveau erreichen
     müssen,
 
-
-3.  um sie als Auszubildende während einer Berufsausbildung im Sinne von §
-    57 Absatz 1 des Dritten Buches Sozialgesetzbuch bei der Durchführung
+3.  um sie als Auszubildende während einer Berufsausbildung im Sinne von
+    § 57 Absatz 1 des Dritten Buches Sozialgesetzbuch bei der Durchführung
     und dem erfolgreichen Ausbildungsabschluss zu unterstützen oder
-
 
 4.  um sie bei der Vorbereitung auf eine Berufsausbildung im Sinne von §
     57 Absatz 1 des Dritten Buches Sozialgesetzbuch zu unterstützen und
     sie einen Ausbildungsvertrag abgeschlossen haben.
-
-
 
 Geduldete können eine Teilnahmeberechtigung für die berufsbezogene
 Deutschsprachförderung nur erhalten, wenn
@@ -112,78 +102,77 @@ Deutschsprachförderung nur erhalten, wenn
 1.  die Duldung nach § 60a Absatz 2 Satz 3 des Aufenthaltsgesetzes erteilt
     worden ist oder
 
-
-2.  die Voraussetzungen nach Absatz 1 Satz 1 Nummer 1 Buchstabe a oder c
-    oder Nummer 3 vorliegen und sie sich seit mindestens sechs Monaten
+2.  die Voraussetzungen nach Absatz 1 Satz 1 Nummer 1 Buchstabe a oder
+    c oder Nummer 3 vorliegen und sie sich seit mindestens sechs Monaten
     geduldet im Bundesgebiet aufhalten.
 
-
-
-Für Personen, die eine Aufenthaltsgestattung nach dem Asylgesetz
-besitzen, ist § 45a Absatz 2 Satz 3 und 4 des Aufenthaltsgesetzes zu
-beachten. Personen, deren Wohnsitz oder gewöhnlicher Aufenthalt in
+(1a) Personen, deren Wohnsitz oder gewöhnlicher Aufenthalt in
 Grenzgebieten zur Bundesrepublik Deutschland liegt, können eine
 Teilnahmeberechtigung für die berufsbezogene Deutschsprachförderung
-erhalten, wenn die Voraussetzungen nach Satz 1 Nummer 1 Buchstabe a
-vorliegen. Satz 4 gilt nur, wenn die Teilnahmeberechtigung im Rahmen
-eines gemeinsamen Projekts der Bundesagentur für Arbeit mit dem
-Nachbarstaat, in dem der Wohnsitz oder gewöhnliche Aufenthalt der
+erhalten, wenn die Voraussetzungen nach Absatz 1 Satz 1 Nummer 1
+Buchstabe a vorliegen. Satz 1 gilt nur, wenn die Teilnahmeberechtigung
+im Rahmen eines gemeinsamen Projekts der Bundesagentur für Arbeit mit
+dem Nachbarstaat, in dem der Wohnsitz oder gewöhnliche Aufenthalt der
 Person liegt, erteilt wird, bei dem der Nachbarstaat auch für Personen
 mit Wohnsitz oder gewöhnlichem Aufenthalt in der Bundesrepublik
-Deutschland vergleichbare Sprachfördermaßnahmen anbietet. Personen,
-deren Wohnsitz oder gewöhnlicher Aufenthalt nicht in der
+Deutschland vergleichbare Sprachfördermaßnahmen anbietet.
+Personen, deren Wohnsitz oder gewöhnlicher Aufenthalt nicht in der
 Bundesrepublik Deutschland liegt, können eine Teilnahmeberechtigung
 für die berufsbezogene Deutschsprachförderung erhalten, wenn die
-Voraussetzungen nach Satz 1 Nummer 4 vorliegen und der
-Ausbildungsvertrag in das Verzeichnis der
-Berufsausbildungsverhältnisse bei der zuständigen Stelle eingetragen
-wurde oder, soweit eine solche Eintragung nicht erforderlich ist, der
-Ausbildungsvertrag mit einer staatlichen oder staatlich anerkannten
-Ausbildungseinrichtung geschlossen wurde oder die Zustimmung einer
-staatlichen oder staatlich anerkannten Ausbildungseinrichtung zu dem
-Ausbildungsvertrag vorliegt. Bei Drittstaatsangehörigen ist zudem
-erforderlich, dass die Bundesagentur für Arbeit die Zustimmung nach §
-39 des Aufenthaltsgesetzes zur Erteilung eines Aufenthaltstitels nach
-§ 16a des Aufenthaltsgesetzes erteilt hat, soweit diese erforderlich
-ist.
+Voraussetzungen nach
 
-(2) Personen nach § 2, die in einer Eingliederungsvereinbarung nach
-dem Zweiten Buch Sozialgesetzbuch oder aufgrund eines diese
-ersetzenden Verwaltungsaktes zur Teilnahme an der berufsbezogenen
-Deutschsprachförderung verpflichtet sind, sind nach § 8 Absatz 3
-vorrangig zu berücksichtigen. In gleicher Weise vorrangig zu
-berücksichtigen sind Personen, die eine Aufenthaltsgestattung nach dem
-Asylgesetz besitzen und bei denen ein rechtmäßiger und dauerhafter
-Aufenthalt zu erwarten ist.
+1.  Absatz 1 Satz 1 Nummer 1 Buchstabe c vorliegen und eine für mindestens
+    ein Jahr angelegte inländische Beschäftigung vorgesehen ist,
 
-(3) Die Teilnahme an der berufsbezogenen Deutschsprachförderung setzt
-ausreichende deutsche Sprachkenntnisse entsprechend dem Niveau B 1 des
-Gemeinsamen Europäischen Referenzrahmens für Sprachen voraus (§ 2
-Absatz 11 des Aufenthaltsgesetzes). Dies gilt nicht für die Teilnahme
-an Spezialberufssprachkursen nach § 13 Absatz 1 Satz 1 Nummer 3 und 4.
+2.  Absatz 1 Satz 1 Nummer 2 vorliegen oder
+
+3.  Absatz 1 Satz 1 Nummer 4 vorliegen und
+
+    a)  der Ausbildungsvertrag in das Verzeichnis der
+        Berufsausbildungsverhältnisse bei der zuständigen Stelle eingetragen
+        wurde oder,
+
+    b)  falls eine solche Eintragung nicht erforderlich ist, der
+        Ausbildungsvertrag mit einer staatlichen oder staatlich anerkannten
+        Ausbildungseinrichtung geschlossen wurde oder
+
+    c)  die Zustimmung einer staatlichen oder staatlich anerkannten
+        Ausbildungseinrichtung zu dem Ausbildungsvertrag vorliegt.
+
+(2) Personen nach § 2, die aufgrund einer Verpflichtung nach § 15a
+Absatz 1 Satz 1 Nummer 3 des Zweiten Buches Sozialgesetzbuch zur
+Teilnahme an der berufsbezogenen Deutschsprachförderung verpflichtet
+sind, sind nach § 8 Absatz 3 vorrangig zu berücksichtigen.
+
+(3) Die Teilnahme an der berufsbezogenen Deutschsprachförderung
+setzt, vorbehaltlich des § 13 Absatz 2 und des § 18a, ausreichende
+deutsche Sprachkenntnisse entsprechend dem Niveau B 1 des Gemeinsamen
+Europäischen Referenzrahmens für Sprachen (§ 2 Absatz 11 des
+Aufenthaltsgesetzes), voraus.
 
 (4) Für die Teilnahme an der berufsbezogenen Deutschsprachförderung
 haben beschäftigte Teilnehmende einen Kostenbeitrag an das Bundesamt
-zu leisten. Dies gilt nicht für
+zu leisten. Dies gilt, außer in den Fällen des Absatzes 1a Satz 3
+Nummer 1, nicht für
 
 1.  Beschäftigte, die neben der Beschäftigung Leistungen nach dem
     Asylbewerberleistungsgesetz, dem Zweiten Buch Sozialgesetzbuch oder
     Hilfen zum Lebensunterhalt nach dem Zwölften Buch Sozialgesetzbuch
     beziehen oder einen Anspruch auf Arbeitslosengeld haben,
 
-
 2.  Auszubildende, die eine Berufsausbildung im Sinne des § 57 Absatz 1
     des Dritten Buches Sozialgesetzbuch oder eine Einstiegsqualifizierung
     im Sinne des § 54a des Dritten Buches Sozialgesetzbuch absolvieren,
 
-
-3.  Beschäftigte, deren zu versteuerndes Jahreseinkommen den Betrag von
-    20 000 Euro oder bei gemeinsam Veranlagten 40 000 Euro nicht
+3.  Beschäftigte, deren Bruttoentgelt 33 Prozent der jährlichen
+    Beitragsbemessungsgrenze in der allgemeinen Rentenversicherung nicht
     übersteigt.
 
-
-
-Personen nach Satz 2 Nummer 3, die die Teilnahme an einem
+Bei Personen nach Satz 2 Nummer 3 erhöht sich der Betrag um 10
+Prozent der jährlichen Beitragsbemessungsgrenze in der allgemeinen
+Rentenversicherung bei einem, um 20 Prozent bei zwei oder mehr
+nach § 32 des Einkommensteuergesetzes berücksichtigungsfähigen
+Kindern. Personen nach Satz 2 Nummer 3, die die Teilnahme an einem
 Berufssprachkurs abbrechen, haben einen Kostenbeitrag an das Bundesamt
 zu leisten, es sei denn, sie haben den Abbruch nicht zu vertreten.
 
@@ -207,66 +196,67 @@ auf Antrag 50 Prozent des Kostenbeitrags nach Absatz 5.
 (1) Über die Teilnahmeberechtigung von Personen nach § 4 Absatz 1 Satz
 1 Nummer 1 Buchstabe a entscheiden die Agenturen für Arbeit.
 
-(2) Über die Teilnahmeberechtigung von Personen nach § 4 Absatz 1 Satz
-1 Nummer 1 Buchstabe b entscheiden die für die Durchführung der
+(2) Über die Teilnahmeberechtigung von Personen nach § 4 Absatz 1
+Satz 1 Nummer 1 Buchstabe b entscheiden die für die Durchführung der
 Grundsicherung für Arbeitsuchende zuständigen Stellen.
 
-(3) Über die Teilnahmeberechtigung von Personen nach § 4 Absatz 1 Satz
-1 Nummer 1 Buchstabe c entscheiden auf Antrag bei Teilnehmerinnen und
-Teilnehmern an Maßnahmen des Dritten Buches Sozialgesetzbuch die
+(3) Über die Teilnahmeberechtigung von Personen nach § 4 Absatz 1
+Satz 1 Nummer 1 Buchstabe c entscheiden auf Antrag bei Teilnehmerinnen
+und Teilnehmern an Maßnahmen des Dritten Buches Sozialgesetzbuch die
 Agenturen für Arbeit, ansonsten das Bundesamt.
 
-(4) Über die Teilnahmeberechtigung von Personen nach § 4 Absatz 1 Satz
-1 Nummer 2 entscheidet das Bundesamt auf Antrag, wenn die
+(4) Über die Teilnahmeberechtigung von Personen nach § 4 Absatz
+1 Satz 1 Nummer 2 entscheidet das Bundesamt auf Antrag, wenn die
 Voraussetzungen nach § 4 Absatz 1 Satz 1 Nummer 1 nicht erfüllt sind.
 
 (5) Über die Teilnahmeberechtigung von Personen nach § 4 Absatz 1 Satz
 1 Nummer 3 entscheidet das Bundesamt auf Antrag.
 
-(6) Über die Teilnahmeberechtigung von Personen nach § 4 Absatz 1 Satz
-4 und 5 entscheiden die Agenturen für Arbeit.
+(6) Über die Teilnahmeberechtigung von Personen nach § 4 Absatz 1a
+Satz 1 und 2 entscheiden die Agenturen für Arbeit.
 
 (7) Über die Teilnahmeberechtigung von Personen nach § 4 Absatz 1 Satz
 1 Nummer 4 entscheidet das Bundesamt auf Antrag.
 
-(8) Über die Teilnahmeberechtigung von Personen nach § 4 Absatz 1 Satz
-6 entscheidet das Bundesamt auf Antrag.
+(8) Über die Teilnahmeberechtigung von Personen nach § 4 Absatz 1a
+Satz 3 entscheidet das Bundesamt auf Antrag.
 
 
 ### § 6 Erteilung, Form und Inhalt der Teilnahmeberechtigung
 
 (1) Die Teilnahmeberechtigung wird von der nach § 5 zuständigen Stelle
-in schriftlicher Form unter Angabe der ausstellenden Stelle und des
-Ausstellungsdatums erteilt. Sie berechtigt zur Anmeldung für die
-Teilnahme an einem Berufssprachkurs bei einem zur Durchführung der
-berufsbezogenen Deutschsprachförderung nach dieser Verordnung
-zugelassenen Träger (Kursträger).
+unter Angabe der ausstellenden Stelle und des Ausstellungsdatums
+erteilt. Sie berechtigt zur Anmeldung für die Teilnahme an einem
+Berufssprachkurs bei einem zur Durchführung der berufsbezogenen
+Deutschsprachförderung nach dieser Verordnung zugelassenen Träger
+(Kursträger).
 
-(2) In die Teilnahmeberechtigung sind folgende Angaben aufzunehmen:
-Namen, Vornamen, Geburtsdatum, Geschlecht, Anschrift,
-Staatsangehörigkeiten, Kundennummer der Jobcenter nach § 51a des
-Zweiten Buches Sozialgesetzbuch oder der Bundesagentur für Arbeit,
-Aufenthaltsstatus und Vorliegen einer Beschäftigung. Bei Beschäftigten
-sind Angaben dazu aufzunehmen, ob die Voraussetzungen nach § 4 Absatz
-4 Satz 2 vorliegen. In der Teilnahmeberechtigung wird darauf
-hingewiesen, dass die Erteilung der Teilnahmeberechtigung und die
-Teilnahme an einem Berufssprachkurs bei Personen nach § 4 Absatz 1
-Satz 2 das Ermessen der Ausländerbehörde bei der Erteilung einer
-Erlaubnis zur Beschäftigung und die Vollziehbarkeit der
-Ausreisepflicht unberührt lassen. Bei Personen nach § 4 Absatz 2 Satz
-1 ist die Erklärung in die Teilnahmeberechtigung aufzunehmen, dass die
-Teilnahme aufgrund einer Eingliederungsvereinbarung oder aufgrund
-eines diese ersetzenden Verwaltungsaktes verpflichtend ist.
+(2) In die Teilnahmeberechtigung sind folgende Angaben
+aufzunehmen: Namen, Vornamen, Geburtsdatum, Geschlecht, Anschrift,
+Staatsangehörigkeiten, Kundennummer der Jobcenter nach § 51a
+des Zweiten Buches Sozialgesetzbuch oder der Bundesagentur für
+Arbeit, Aufenthaltsstatus und Vorliegen einer Beschäftigung. Bei
+Beschäftigten sind Angaben dazu aufzunehmen, ob die Voraussetzungen
+nach § 4 Absatz 4 Satz 2 vorliegen. In der Teilnahmeberechtigung
+wird darauf hingewiesen, dass die Erteilung der Teilnahmeberechtigung
+und die Teilnahme an einem Berufssprachkurs bei Personen nach § 4
+Absatz 1 Satz 2 das Ermessen der Ausländerbehörde bei der Erteilung
+einer Erlaubnis zur Beschäftigung und die Vollziehbarkeit der
+Ausreisepflicht unberührt lassen. Bei Personen nach § 4 Absatz 2
+ist die Erklärung in die Teilnahmeberechtigung aufzunehmen, dass
+die Teilnahme aufgrund einer Verpflichtung nach § 15a Absatz 1 Satz
+1 Nummer 3 des Zweiten Buches Sozialgesetzbuch verpflichtend ist.
 Telefonnummer und E-Mail-Adresse sind aufzunehmen, wenn die oder der
 Teilnahmeberechtigte zugestimmt hat. Im Übrigen sollen Angaben zum
 Bildungsstand und zum geeigneten Berufssprachkurs aufgenommen werden.
 
 (3) Die Teilnahmeberechtigung erlischt drei Monate ab dem
 Ausstellungsdatum, wenn der oder die Teilnehmende sich nicht bei einem
-Kursträger angemeldet hat. Bei Personen nach § 4 Absatz 2 Satz 1
-erlischt sie mit Ablauf der in der Teilnahmeberechtigung bestimmten
-Frist, wenn diese kürzer ist als die Frist nach Satz 1. Die
-Teilnahmeberechtigung kann regional beschränkt werden.
+Kursträger angemeldet hat. Bei Personen nach § 4 Absatz 1a Satz 3
+beträgt die Frist neun Monate ab dem Ausstellungsdatum. Bei Personen
+nach § 4 Absatz 2 erlischt die Teilnahmeberechtigung mit Ablauf der in
+ihr bestimmten Frist, wenn diese kürzer ist als die Frist nach Satz 1.
+Die Teilnahmeberechtigung kann regional beschränkt werden.
 
 (4) Der Teilnahmeberechtigung ist ein Merkblatt beizufügen, das über
 das Angebot an Berufssprachkursen, über das Anmeldeverfahren und die
@@ -277,7 +267,7 @@ Verfügung gestellt werden.
 (5) Das Bundesamt legt einen einheitlichen Vordruck für die
 Teilnahmeberechtigung und das Merkblatt nach Absatz 4 fest.
 
-(6) Die die Teilnahmeberechtigung erteilende Stelle nach § 5 Absatz 1
+(6) Die die Teilnahmeberechtigung erteilende Stelle nach § 5 Absatz 1
 und 2 übermittelt eine Kopie der Teilnahmeberechtigung oder die in der
 Teilnahmeberechtigung enthaltenen Daten an das Bundesamt.
 
@@ -285,18 +275,17 @@ Teilnahmeberechtigung enthaltenen Daten an das Bundesamt.
 ### § 7 Anmeldung zur berufsbezogenen Deutschsprachförderung
 
 (1) Teilnahmeberechtigte melden sich innerhalb des sich aus § 6 Absatz
-3 Satz 1 und 2 ergebenden Zeitraums bei einem Kursträger an. Bei der
-Anmeldung ist die schriftliche Teilnahmeberechtigung vorzulegen.
+3 Satz 1 bis 3 ergebenden Zeitraums bei einem Kursträger an. Bei der
+Anmeldung ist die Teilnahmeberechtigung vorzulegen.
 
 (2) Der Kursträger erfasst die Anmeldung und die in der
-Teilnahmeberechtigung aufgeführten Daten und bestätigt schriftlich den
+Teilnahmeberechtigung aufgeführten Daten und bestätigt den
 voraussichtlichen Zeitpunkt des Beginns des Berufssprachkurses
-(Anmeldebestätigung). Das Original der Teilnahmeberechtigung verbleibt
-bei dem Kursträger.
+(Anmeldebestätigung).
 
-(3) Nach der Anmeldung von Personen nach § 4 Absatz 2 Satz 1
-übermittelt der Kursträger unverzüglich die Anmeldebestätigung an die
-die Teilnahmeberechtigung erteilende Stelle.
+(3) Nach der Anmeldung von Personen nach § 4 Absatz 2 übermittelt
+der Kursträger unverzüglich die Anmeldebestätigung an die die
+Teilnahmeberechtigung erteilende Stelle.
 
 
 ### § 8 Allgemeine Pflichten des Kursträgers
@@ -304,10 +293,12 @@ die Teilnahmeberechtigung erteilende Stelle.
 (1) Der Kursträger nimmt Teilnahmeberechtigte entsprechend ihrem
 Sprachstand in den geeigneten Berufssprachkurs auf. Der Sprachstand
 ist so zu ermitteln, dass eine Zuordnung zum Berufssprachkurs
-ermöglicht wird (Einstufungstest). Vorhandene Zertifikate nach dem
-Gemeinsamen Europäischen Referenzrahmen für Sprachen sowie
-Teilnahmebescheinigungen nach § 15 Absatz 4 Satz 1 werden dabei
-berücksichtigt, soweit sie nicht älter als sechs Monate sind.
+ermöglicht wird (Einstufungstest). Vorhandene Zertifikate und
+Ergebnismitteilungen nach dem Gemeinsamen Europäischen Referenzrahmen
+für Sprachen, die vom Bundesamt anerkannt sind, Ergebnismitteilungen
+nach § 15 Absatz 2 Satz 4 und Bescheinigungen nach § 17 Absatz 4 Satz
+4 der Integrationskursverordnung werden dabei berücksichtigt, soweit
+sie nicht älter als sechs Monate sind.
 
 (2) Mit Anmeldung von 15 Teilnahmeberechtigten für einen
 Berufssprachkurs soll dieser Berufssprachkurs durchgeführt werden.
@@ -325,9 +316,9 @@ verfügbaren Kursplätze nach den Vorgaben des Bundesamts.
 
 ### § 9 Meldepflichten des Kursträgers; Nichtzustandekommen des Berufssprachkurses
 
-(1) Der Kursträger meldet dem Bundesamt vierzehntägig die Zahl der
-Anmeldungen für die einzelnen Berufssprachkurse und deren
-voraussichtlichen Beginn sowie den Sprachstand der
+(1) Der Kursträger meldet dem Bundesamt unverzüglich die
+Zahl der Anmeldungen für die einzelnen Berufssprachkurse
+und deren voraussichtlichen Beginn sowie den Sprachstand der
 Teilnahmeberechtigten.
 
 (2) Der Kursträger meldet der oder dem Teilnahmeberechtigten und der
@@ -339,16 +330,20 @@ nicht zustande, so ist der Kursträger verpflichtet, den betroffenen
 angemeldeten Teilnahmeberechtigten, das Bundesamt und die die
 Teilnahmeberechtigung erteilende Stelle unverzüglich zu informieren.
 
-(4) In den Fällen des Absatzes 3 vermittelt das Bundesamt die oder den
-Teilnahmeberechtigten an einen anderen Kursträger.
+(4) In den Fällen des Absatzes 3 vermittelt der Kursträger die oder
+den Teilnahmeberechtigten an einen anderen Kursträger. Ist eine
+Vermittlung innerhalb von zwei Wochen nicht möglich, informiert
+der Kursträger den betroffenen Teilnahmeberechtigten, die die
+Teilnahmeberechtigung erteilende Stelle und das Bundesamt hierüber
+unverzüglich.
 
-(5) Abbrüche von Berufssprachkursen von Teilnehmenden meldet der
-Kursträger unverzüglich dem Bundesamt und der die
-Teilnahmeberechtigung erteilenden Stelle. Darüber hinaus hat der
-Kursträger die für die Durchführung der Grundsicherung für
-Arbeitsuchende zuständige Stelle unverzüglich zu informieren, wenn bei
-Personen nach § 4 Absatz 2 Satz 1 aufgrund unregelmäßiger Teilnahme
-der erfolgreiche Abschluss des Berufssprachkurses gefährdet ist.
+(5) Abbrüche von Berufssprachkursen von Teilnehmenden
+meldet der Kursträger unverzüglich dem Bundesamt und der die
+Teilnahmeberechtigung erteilenden Stelle. Darüber hinaus hat
+der Kursträger die die Teilnahmeberechtigung erteilende Stelle
+unverzüglich zu informieren, wenn bei Personen nach § 4 Absatz 1 Satz
+1 Nummer 1 Buchstabe a oder b aufgrund unregelmäßiger Teilnahme der
+erfolgreiche Abschluss des Berufssprachkurses gefährdet ist.
 
 
 ### § 10 Fahrkostenerstattung und Kinderbetreuung
@@ -358,19 +353,20 @@ Sozialgesetzbuch, nach dem Zwölften Buch Sozialgesetzbuch, nach dem
 Asylbewerberleistungsgesetz, nach § 56 oder § 136 Absatz 1 Nummer 1
 des Dritten Buches Sozialgesetzbuch beziehen, erhalten vom Bundesamt
 bei Bedarf auf Antrag einen pauschalen Zuschuss zu den notwendigen
-Fahrkosten. Dies gilt auch für Teilnahmeberechtigte, die nur deshalb
-keine Leistungen nach dem Asylbewerberleistungsgesetz beziehen, weil
-sie Leistungen nach dem Achten Buch Sozialgesetzbuch beziehen. Besteht
-am Kursort kein öffentliches Nahverkehrssystem, kann das Bundesamt den
-Kursträgern die erforderlichen Fahrkosten erstatten, die diesen im
-Einzelfall für die Sicherstellung der Teilnahme an der berufsbezogenen
-Deutschsprachförderung entstehen.
+Fahrkosten. Der Antrag auf Fahrkostenzuschuss ist bis zum Ende des
+Kurses zu stellen. Dies gilt auch für Teilnahmeberechtigte, die
+nur deshalb keine Leistungen nach dem Asylbewerberleistungsgesetz
+beziehen, weil sie Leistungen nach dem Achten Buch Sozialgesetzbuch
+beziehen. Besteht am Kursort kein öffentliches Nahverkehrssystem, kann
+das Bundesamt den Kursträgern die erforderlichen Fahrkosten erstatten,
+die diesen im Einzelfall für die Sicherstellung der Teilnahme an der
+berufsbezogenen Deutschsprachförderung entstehen.
 
 (2) Das Bundesamt soll die Teilnahme an der berufsbezogenen
 Deutschsprachförderung durch ein Kinderbetreuungsangebot unterstützen,
 soweit in der Regel für mindestens drei betreuungsbedürftige Kinder
-der Teilnehmenden kein örtliches Betreuungsangebot verfügbar ist. Für
-Teilnahmeberechtigte, die Kinder zu erziehen haben, sollen die
+der Teilnehmenden kein örtliches Betreuungsangebot verfügbar ist.
+Für Teilnahmeberechtigte, die Kinder zu erziehen haben, sollen die
 Berufssprachkurse nach § 12 und § 13 in der Regel als Elternkurse
 angeboten werden. Die Elternkurse sollen auch Informationen zur
 Vereinbarkeit von Familie und Beruf beinhalten.
@@ -389,20 +385,20 @@ Berufssprachkursen nach § 12 und nach § 13 angeboten.
 ist eine Lehrveranstaltung von 45 Minuten Dauer.
 
 (3) Die Zahl der Teilnehmenden an einem Berufssprachkurs darf 25 nicht
-überschreiten. Das Bundesamt kann in Einzelfällen Ausnahmen von Satz 1
-zulassen.
+überschreiten. Das Bundesamt kann in Einzelfällen Ausnahmen von Satz
+1 zulassen.
 
 (4) Die Berufssprachkurse können in Vollzeit oder in Teilzeit
-durchgeführt werden. Die Durchführung ist bei Bedarf auch online oder
-in virtuellen Klassenzimmern möglich. Die zeitliche und mediale
+durchgeführt werden. Die Durchführung ist bei Bedarf auch online
+oder in virtuellen Klassenzimmern möglich. Die zeitliche und mediale
 Ausgestaltung soll gewährleisten, dass bei Bedarf der Spracherwerb
 berufs- oder ausbildungsbegleitend sowie eine Kombination mit
 Maßnahmen der aktiven Arbeitsmarktpolitik nach § 16 möglich ist. Ein
 Berufssprachkurs in Vollzeit umfasst in der Regel nicht mehr als 25
 Unterrichtseinheiten in der Woche.
 
-(5) Das Bundesamt legt die Rahmenbedingungen für die Durchführung von
-Online-Berufssprachkursen oder Berufssprachkursen in virtuellen
+(5) Das Bundesamt legt die Rahmenbedingungen für die Durchführung
+von Online-Berufssprachkursen oder Berufssprachkursen in virtuellen
 Klassenzimmern fest. Es kann für diese Angebote Abweichungen von der
 Regelung in Absatz 3 Satz 1 zulassen.
 
@@ -412,25 +408,15 @@ werden.
 
 ### § 12 Basisberufssprachkurse
 
-(1) Die Basisberufssprachkurse dienen der Erreichung
+Die Basisberufssprachkurse dienen der Erreichung
 
 1.  des Sprachniveaus B 2, ausgehend vom Niveau B 1 oder
 
-
 2.  des Sprachniveaus C 1, ausgehend vom Niveau B 2 oder
-
 
 3.  des Sprachniveaus C 2, ausgehend vom Niveau C 1
 
-
-
 des Gemeinsamen Europäischen Referenzrahmens für Sprachen.
-
-(2) Ein Basisberufssprachkurs umfasst in der Regel 400
-Unterrichtseinheiten. Für Personen, bei denen nicht davon auszugehen
-ist, dass sie ohne besondere Vorbereitung die Zertifikatsprüfung gemäß
-§ 15 Absatz 1 Satz 1 bestehen, umfassen Basisberufssprachkurse nach
-Absatz 1 Nummer 1 in der Regel 500 Unterrichtseinheiten.
 
 
 ### § 13 Spezialberufssprachkurse
@@ -440,72 +426,72 @@ Absatz 1 Nummer 1 in der Regel 500 Unterrichtseinheiten.
 1.  einzelne Berufsgruppen im Zusammenhang mit Verfahren zur
     Berufsanerkennung oder zum Berufszugang,
 
-
 2.  fachspezifischen Unterricht,
-
 
 3.  die Erreichung des Sprachniveaus B 1, ausgehend vom Niveau A 2 des
     Gemeinsamen Europäischen Referenzrahmens für Sprachen oder
-
 
 4.  die Erreichung des Sprachniveaus A 2, ausgehend von darunter liegenden
     Sprachniveaus des Gemeinsamen Europäischen Referenzrahmens für
     Sprachen
 
+ausgerichtet sind.
 
-
-ausgerichtet sind. Spezialberufssprachkurse nach Satz 1 Nummer 1 haben
-sich an den Vorgaben der für die berufliche Anerkennung zuständigen
-Stellen zu orientieren und sollen in der Regel je 600
-Unterrichtseinheiten nicht überschreiten. Der Stundenumfang der
-Spezialberufssprachkurse nach Satz 1 Nummer 2 beträgt in der Regel je
-300 Unterrichtseinheiten. Der Stundenumfang der
-Spezialberufssprachkurse nach Satz 1 Nummer 3 und 4 beträgt in der
-Regel je 400 Unterrichtseinheiten.
-
-(2) Die Spezialberufssprachkurse nach Absatz 1 Satz 1 Nummer 3 und 4
-richten sich nur an
+(2) Das Bundesamt kann für die Spezialberufssprachkurse nach Absatz
+1 Nummer 2 bis 4 in dem pädagogischen Rahmenkonzept nach § 14 Absatz
+1 Abweichungen vom Grundsatz des § 4 Absatz 3 vorsehen. Dies gilt
+insbesondere für
 
 1.  Teilnahmeberechtigte, die trotz der ordnungsgemäßen Teilnahme an einem
     Integrationskurs nach § 43 des Aufenthaltsgesetzes das Sprachniveau B
-    1 nicht erreicht haben und
-
+    1 nicht erreicht haben,
 
 2.  Geduldete nach § 4 Absatz 1 Satz 2 Nummer 2, die keinen Zugang zum
-    Integrationskurs nach § 43 des Aufenthaltsgesetzes haben.
+    Integrationskurs nach § 43 des Aufenthaltsgesetzes haben und
+
+3.  Teilnahmeberechtigte, die beschäftigt sind oder bei denen der
+    Spezialberufssprachkurs der Vorbereitung auf eine konkrete
+    Beschäftigung dient.
 
 
+### § 14 Lerninhalte und Lernziele; Umfang der Kurse
 
-
-
-### § 14 Lerninhalte und Lernziele
-
-Das Bundesamt legt die Lerninhalte und Lernziele für die
+(1) Das Bundesamt legt die Lerninhalte und Lernziele für die
 Basisberufssprachkurse nach § 12 und die Spezialberufssprachkurse nach
 § 13 fest. Dies erfolgt entsprechend den berufsspezifischen Bedarfen
 und unter Berücksichtigung der methodisch-didaktischen Erkenntnisse
 sowie Erfahrungen bei der Vermittlung von Deutsch als Zweitsprache in
 einem pädagogischen Rahmenkonzept.
 
+(2) Die Basisberufssprachkurse nach § 12 Nummer 1 und 2 und die
+Spezialberufssprachkurse nach § 13 Absatz 1 Nummer 3 und 4 umfassen in
+der Regel je 400 Unterrichtseinheiten, die Basisberufssprachkurse nach
+§ 12 Nummer 3 in der Regel 500 Unterrichtseinheiten. Das Bundesamt
+kann in dem pädagogischen Rahmenkonzept nach Absatz 1 jeweils
+allgemein oder in bestimmten Fällen Abweichungen vorsehen. Der Umfang
+der Spezialberufssprachkurse nach § 13 Absatz 1 Nummer 1 und 2 richtet
+sich nach dem jeweiligen pädagogischen Rahmenkonzept nach Absatz 1,
+soll aber in der Regel 600 Unterrichtseinheiten nicht überschreiten.
 
-### § 15 Zertifikatsprüfungen nach dem Gemeinsamen Europäischen Referenzrahmen für Sprachen
 
-(1) Die Basisberufssprachkurse nach § 12 und die
-Spezialberufssprachkurse nach § 13 Absatz 1 Satz 1 Nummer 3 und 4
-enden mit der entsprechenden Zertifikatsprüfung nach dem Gemeinsamen
-Europäischen Referenzrahmen für Sprachen. Die Spezialberufssprachkurse
-nach § 13 Absatz 1 Satz 1 Nummer 1 enden mit den für die
-Berufsanerkennung oder den Berufszugang vorgeschriebenen
-Zertifikatsprüfungen.
+### § 15 Zertifikatsprüfungen
+
+(1) Die Basisberufssprachkurse nach § 12 Nummer 1 und 2 und die
+Spezialberufssprachkurse nach § 13 Absatz 1 Nummer 3 und 4 enden mit
+dem Deutsch-Test für den Beruf des entsprechenden Zielsprachniveaus.
+Der Basisberufssprachkurs nach § 12 Nummer 3 endet mit der
+entsprechenden Zertifikatsprüfung nach dem Gemeinsamen Europäischen
+Referenzrahmen für Sprachen. Die Spezialberufssprachkurse nach § 13
+Absatz 1 Nummer 1 enden mit den für die Berufsanerkennung oder den
+Berufszugang vorgeschriebenen Sprachprüfungen.
 
 (2) Der Kursträger ermöglicht den Teilnehmenden das Ablegen der
-Zertifikatsprüfung nach dem Gemeinsamen Europäischen Referenzrahmen
-für Sprachen. Bei Nichtbestehen kann die jeweilige Zertifikatsprüfung
-einmal wiederholt werden. Der Berufssprachkurs kann auf Antrag der
-oder des Teilnehmenden bei der die Teilnahmeberechtigung erteilenden
-Stelle einmal wiederholt werden, wenn ohne die erneute Teilnahme das
-Bestehen der Prüfung nicht zu erwarten ist. Die Ergebnisse der
-Zertifikatsprüfung sind dem Bundesamt und der die
+Zertifikatsprüfung nach Absatz 1. Bei Nichtbestehen kann die
+jeweilige Zertifikatsprüfung einmal wiederholt werden. Der oder
+die Teilnehmende kann auf Antrag bei der die Teilnahmeberechtigung
+erteilenden Stelle einmal erneut an einem Kurs teilnehmen, wenn ohne
+die Teilnahme das Bestehen der Prüfung nicht zu erwarten ist. Die
+Ergebnisse der Zertifikatsprüfung sind dem Bundesamt und der die
 Teilnahmeberechtigung erteilenden Stelle mitzuteilen.
 
 (3) Die Kosten für die Durchführung und Auswertung der
@@ -524,8 +510,8 @@ Teilnahmebescheinigung.
 
 Berufssprachkurse können mit Maßnahmen nach dem Zweiten Abschnitt, dem
 Zweiten und Vierten Unterabschnitt des Dritten Abschnitts, dem Vierten
-Abschnitt oder dem Siebten Abschnitt des Dritten Kapitels oder mit den
-Maßnahmen zur Eingliederung nach dem Zweiten Buch Sozialgesetzbuch
+Abschnitt oder dem Siebten Abschnitt des Dritten Kapitels oder mit
+den Maßnahmen zur Eingliederung nach dem Zweiten Buch Sozialgesetzbuch
 oder mit arbeitsmarktpolitischen Bundes- und Landesprogrammen
 kombiniert werden. Bei Durchführung dieser kombinierten Maßnahmen
 arbeitet der Kursträger mit den beteiligten Leistungs- und
@@ -537,61 +523,80 @@ Grundsicherung für Arbeitsuchende zuständigen Stelle eine Vereinbarung
 
 ### § 17 Lehr- und Lernmittel
 
-(1) Die Lehr- und Lernmittel für Basisberufssprachkurse nach § 12 und
-für Spezialberufssprachkurse nach § 13 Absatz 1 Satz 1 Nummer 3 und 4
-müssen die Inhalte der Zertifikatsprüfungen nach dem Gemeinsamen
-Europäischen Referenzrahmen für Sprachen abbilden. Für
-Spezialberufssprachkurse nach § 13 Absatz 1 Satz 1 Nummer 1 müssen sie
-die für die berufsbezogene Sprachprüfung jeweils vorgegebenen Inhalte
-abbilden. Für Spezialberufssprachkurse nach § 13 Absatz 1 Satz 1
-Nummer 2 müssen die Lehr- und Lernmittel geeignet sein, die
-Zielerreichung dieser Berufssprachkurse zu fördern.
+(1) Die Lehr- und Lernmittel für Basisberufssprachkurse nach § 12
+und für Spezialberufssprachkurse nach § 13 Absatz 1 Nummer 3 und 4
+müssen die Inhalte des Deutsch-Tests für den Beruf des entsprechenden
+Zielsprachniveaus abbilden. Für Spezialberufssprachkurse nach § 13
+Absatz 1 Nummer 1 müssen sie die für die berufsbezogene Sprachprüfung
+jeweils vorgegebenen Inhalte abbilden. Für Spezialberufssprachkurse
+nach § 13 Absatz 1 Nummer 2 müssen die Lehr- und Lernmittel geeignet
+sein, die Zielerreichung dieser Berufssprachkurse zu fördern.
 
 (2) Die Lehr- und Lernmittel werden von dem Kursträger unentgeltlich
 zur Verfügung gestellt.
 
 (3) Das Nähere zur Verwendung der Lehr- und Lernmittel kann das
-Bundesamt in der Abrechnungsrichtlinie nach § 25 Absatz 1 Satz 2 und
-in dem pädagogischen Rahmenkonzept nach § 14 festlegen.
+Bundesamt in der Abrechnungsrichtlinie nach § 25 Absatz 1 Satz 2 und
+in dem pädagogischen Rahmenkonzept nach § 14 festlegen.
 
 
-### § 18 Lehrkräfte
+### § 18 Lehrkräfte und Prüfende
 
-(1) Lehrkräfte der berufsbezogenen Deutschsprachförderung müssen ein
-abgeschlossenes Hochschulstudium, das Sprachniveau C 1 nach dem
-Gemeinsamen Europäischen Referenzrahmen für Sprachen und die
+(1) Lehrkräfte der berufsbezogenen Deutschsprachförderung müssen
+ein abgeschlossenes Hochschulstudium, das Sprachniveau C 1 nach
+dem Gemeinsamen Europäischen Referenzrahmen für Sprachen und die
 erforderliche Eignung vorweisen. Das Bundesamt legt fest, unter
 welchen Voraussetzungen Lehrkräfte zusätzlich eine Zusatzqualifikation
 Deutsch als Fremdsprache oder Deutsch als Zweitsprache oder eine
 gleichwertige Qualifikation vorweisen müssen.
 
-(2) Die Zulassung zur Lehrtätigkeit nach § 15 Absatz 1 und 2 der
+(2) Die Zulassung zur Lehrtätigkeit nach § 15 Absatz 1 der
 Integrationskursverordnung gilt als Nachweis einer ausreichenden
 fachlichen Qualifikation und Eignung nach Absatz 1.
 
-(3) Das Bundesamt kann in dem pädagogischen Rahmenkonzept nach § 14
-festlegen, dass die Lehrkräfte ein höheres Sprachniveau als das
-Sprachniveau C 1 nach dem Gemeinsamen Europäischen Referenzrahmen für
-Sprachen vorweisen müssen.
+(3) Das Bundesamt kann in dem pädagogischen Rahmenkonzept nach § 14
+Absatz 1 festlegen, dass die Lehrkräfte ein höheres Sprachniveau als
+das Sprachniveau C 1 nach dem Gemeinsamen Europäischen Referenzrahmen
+für Sprachen vorweisen müssen.
 
-(4) Das Bundesamt kann in dem pädagogischen Rahmenkonzept nach § 14
-festlegen, dass die Lehrkräfte in den Spezialberufssprachkursen nach
-§ 13 Absatz 1 Satz 1 Nummer 1 und 2 Kenntnisse in der Vermittlung von
-Sprachkenntnissen in den jeweiligen Berufsfeldern vorweisen müssen.
+(4) Das Bundesamt kann in dem pädagogischen Rahmenkonzept
+nach § 14 Absatz 1 festlegen, dass die Lehrkräfte in den
+Spezialberufssprachkursen nach § 13 Absatz 1 Nummer 1 und 2
+Kenntnisse in der Vermittlung von Sprachkenntnissen in den jeweiligen
+Berufsfeldern vorweisen müssen.
 
 (5) Ab dem 1. Januar 2022 müssen Lehrkräfte eine Qualifikation zur
 Vermittlung berufsbezogener deutscher Sprachkenntnisse vorweisen. Das
 Nähere bestimmt das Bundesamt in dem pädagogischen Rahmenkonzept nach
-§ 14.
+§ 14 Absatz 1.
 
-(6) Das Bundesamt kann in der Abrechnungsrichtlinie nach § 25 Absatz 1
-Satz 2 und in dem pädagogischen Rahmenkonzept nach § 14 festlegen,
-unter welchen Voraussetzungen Sozialpädagoginnen und Sozialpädagogen
-und andere entsprechend geeignete Fachkräfte sowie Fachdozentinnen und
-Fachdozenten die Lehrkräfte nach Absatz 1 unterstützen dürfen.
+(6) Das Bundesamt kann in der Abrechnungsrichtlinie nach § 25 Absatz
+1 Satz 2 und in dem pädagogischen Rahmenkonzept nach § 14 Absatz
+1 festlegen, unter welchen Voraussetzungen Sozialpädagoginnen und
+Sozialpädagogen und andere entsprechend geeignete Fachkräfte sowie
+Fachdozentinnen und Fachdozenten die Lehrkräfte nach Absatz 1
+unterstützen dürfen.
 
 (7) Das Bundesamt kann die methodisch-didaktische Fortbildung von
 Lehrkräften fördern.
+
+(8) Prüfende, die Prüfungen nach § 15 Absatz 1 Satz 1 abnehmen,
+müssen Kenntnisse zur Bewertung von Sprachkompetenzen und
+Unterrichtserfahrung mit der Zielgruppe nachweisen. Es wird vermutet,
+dass ein Prüfender über diese Qualifikationen verfügt, wenn er im
+Besitz einer gültigen Prüfendenlizenz „Deutsch-Test für den Beruf“
+des vom Bundesamt nach § 23 Satz 1 beauftragten Testinstituts ist.
+Voraussetzung für den Einsatz als Prüfender ist die Zulassung als
+Lehrkraft nach Absatz 5.
+
+
+### § 18a Experimentierklausel
+
+Das Bundesamt kann zum Zweck der Erprobung neuer pädagogischer
+Rahmenkonzepte nach § 14 Absatz 1 von den §§ 12, 13 Absatz 1, den §§
+14, 15, 17 und 18 abweichende Regelungen treffen. Diese sind auf einen
+Zeitraum von zunächst bis zu zwei Jahren zu begrenzen und können auf
+einen Zeitraum von insgesamt bis zu vier Jahren verlängert werden.
 
 
 ## Teil 4 - Zulassung der Kursträger; Beauftragung von Prüfstellen
@@ -605,29 +610,22 @@ privaten oder öffentlichen Kursträgern die Zulassung, wenn sie
 
 1.  zuverlässig und gesetzestreu sind,
 
-
 2.  in der Lage sind, berufsbezogene Deutschsprachförderung ordnungsgemäß
     durchzuführen (Leistungsfähigkeit) und insbesondere die Kontinuität
     des Lehrpersonals gewährleisten,
 
-
 3.  die notwendige Fachkunde besitzen,
 
-
 4.  ein Verfahren zur Qualitätssicherung und -entwicklung anwenden und
-
 
 5.  sich bereit erklären, Kooperationsvereinbarungen mit dem Bundesamt,
     mit anderen zugelassenen Kursträgern und anderen für die erfolgreiche
     Durchführung der berufsbezogenen Deutschsprachförderung erforderlichen
     Akteuren abzuschließen.
 
-
-
-
-(2) Im Antrag ist anzugeben, ob eine Zulassung für einen Standort oder
-für mehrere Standorte beantragt wird. Die Angaben nach § 20 sind für
-jeden Standort zu machen. Die Zulassung als Träger für
+(2) Im Antrag ist anzugeben, ob eine Zulassung für einen Standort
+oder für mehrere Standorte beantragt wird. Die Angaben nach § 20
+sind für jeden Standort zu machen. Die Zulassung als Träger für
 Berufssprachkurse in der Form des § 11 Absatz 5 Satz 1 ist gesondert
 zu beantragen.
 
@@ -642,18 +640,15 @@ Verordnung beauftragt werden, wenn
 1.  dies zur Sicherstellung eines bedarfsgerechten Angebots an
     Kombinationsmaßnahmen nach § 16 erforderlich ist oder
 
-
 2.  durch die nach dieser Verordnung zugelassenen Maßnahmeträger ein
     ausreichendes Kursangebot in einzelnen Regionen nicht gewährleistet
     ist und ein bedarfsgerechtes Angebot anders nicht sichergestellt
     werden kann.
 
-
-
 Das Bundesamt kann das Vergabeverfahren durch eine andere Behörde
 durchführen lassen. Die Regelungen über die Leistungen zur
-Eingliederung in Arbeit nach dem Zweiten Buch Sozialgesetzbuch und der
-aktiven Arbeitsförderung nach dem Dritten Buch Sozialgesetzbuch
+Eingliederung in Arbeit nach dem Zweiten Buch Sozialgesetzbuch und
+der aktiven Arbeitsförderung nach dem Dritten Buch Sozialgesetzbuch
 bleiben unberührt.
 
 
@@ -669,91 +664,77 @@ Unterlagen Folgendes enthalten:
     Geschäftssitzes und der Zweigstellen, von denen aus die
     Berufssprachkurse angeboten werden sollen,
 
+2.  bei juristischen Personen und rechtsfähigen Personengesellschaften
+    Angaben zu Namen, Vornamen, Geburtsdatum, Geburtsort der Vertreter
+    nach Gesetz, Satzung oder Gesellschaftsvertrag, Anschrift
+    des Geschäftssitzes und der Zweigstellen, von denen aus die
+    Berufssprachkurse angeboten werden sollen; soweit eine Eintragung in
+    das Gesellschafts-, Vereins- oder Handelsregister erfolgt ist, ist ein
+    entsprechender Auszug vorzulegen,
 
-2.  bei juristischen Personen und Personengesellschaften Angaben zu Namen,
-    Vornamen, Geburtsdatum, Geburtsort der Vertreter nach Gesetz, Satzung
-    oder Gesellschaftsvertrag, Anschrift des Geschäftssitzes und der
-    Zweigstellen, von denen aus die Berufssprachkurse angeboten werden
-    sollen; soweit eine Eintragung in das Vereins- oder Handelsregister
-    erfolgt ist, ist ein entsprechender Auszug vorzulegen,
-
-
-3.  eine Erklärung der antragstellenden Person oder ihrer gesetzlichen
-    Vertretung oder, bei juristischen Personen oder nicht rechtsfähigen
-    Personenvereinigungen, der nach Gesetz, Satzung oder
+3.  eine Erklärung der antragstellenden Person oder ihres
+    gesetzlichen Vertreters oder, bei juristischen Personen oder
+    sonstigen Personenvereinigungen, der nach Gesetz, Satzung oder
     Gesellschaftsvertrag zur Vertretung oder Geschäftsführung Berechtigten
 
-    a)  über Insolvenzverfahren, Vorstrafen, anhängige Strafverfahren,
-        staatsanwaltschaftliche Ermittlungsverfahren und Gewerbeuntersagungen
-        innerhalb der letzten fünf Jahre oder
+    a)  über Insolvenzverfahren, Vorstrafen, anhängige Strafverfahren und
+        staatsanwaltschaftliche Ermittlungsverfahren innerhalb der letzten
+        fünf Jahre oder
 
-
-    b)  zu entsprechenden ausländischen Verfahren und Strafen, wenn sie ihren
-        Wohnsitz oder gewöhnlichen Aufenthalt während dieser Zeit überwiegend
-        im Ausland hatten,
-
-
-
-
+    b)  zu entsprechenden ausländischen Verfahren und Strafen,
 
 4.  eine Übersicht über bislang durchgeführte oder laufende
     Förderprogramme oder vergleichbare Maßnahmen,
 
-
 5.  eine Erklärung dazu, ob innerhalb der letzten drei Jahre ein
     Zulassungsantrag der antragstellenden Person oder ihrer gesetzlichen
     Vertretung oder der zur Vertretung oder Geschäftsführung Berechtigten
-    abgelehnt oder die Zulassung widerrufen wurde.
+    abgelehnt oder die Zulassung widerrufen wurde,
 
+6.  einen Auszug aus dem Gewerbezentralregister, der in der Regel nicht
+    älter als drei Monate sein darf.
 
-
+Das Bundesamt kann darüber hinaus einen Nachweis über die
+Gewerbeanzeige nach der Gewerbeordnung verlangen. Dies gilt nicht im
+Fall einer Eintragung in das Vereins- oder Handelsregister, die durch
+Vorlage eines Registerauszugs nachzuweisen ist.
 
 (2) Zur Beurteilung der Leistungsfähigkeit der antragstellenden Person
 muss der Antrag unter Beifügung der erforderlichen Unterlagen Angaben
 zu Folgendem enthalten:
 
-1.  der praktischen Erfahrung im Bereich der Organisation und Durchführung
-    von Sprachvermittlungskursen, insbesondere mit berufsbezogenen
-    Maßnahmen der Sprachförderung sowie zu Ergebnissen, Erfolgen und
-    Referenzen,
-
+1.  der mindestens zweijährigen praktischen Erfahrung im Bereich
+    der Organisation und Durchführung von Sprachvermittlungskursen,
+    insbesondere mit berufsbezogenen Maßnahmen der Sprachförderung sowie
+    zu Ergebnissen, Erfolgen und Referenzen,
 
 2.  der bereits für den Antragsteller für vergleichbare Maßnahmen
     erteilten Zulassungen als Kursträger von staatlichen oder
     zertifizierten Stellen,
 
-
 3.  der Erfahrung mit Kompetenzfeststellungsverfahren in der
     berufsbezogenen Sprachförderung Deutsch als Zweitsprache,
 
-
 4.  der Qualitätssicherung der Lehrorganisation,
-
 
 5.  der Erfolgsbeurteilung der berufsbezogenen Deutschsprachförderung,
 
-
 6.  der Verwaltungsstruktur bezogen auf die Standorte,
-
 
 7.  der Einrichtung und Gestaltung der Unterrichtsräume, der
     Sachausstattung sowie der technischen Ausstattung und dem System der
     Datenübermittlung,
 
-
 8.  dem Einsatz neuer Medien bei der Vermittlung von Lerninhalten,
 
-
-9.  der personellen Ausstattung, einschließlich der Qualifikation der
-    Lehrkräfte nach § 18 Absatz 1 bis 5 sowie der Fachkräfte und
-    Fachdozentinnen und Fachdozenten nach § 18 Absatz 6, der Höhe der
+9.  der personellen Ausstattung, einschließlich der Qualifikation
+    der Lehrkräfte nach § 18 Absatz 1 bis 5 sowie der Fachkräfte und
+    Fachdozentinnen und Fachdozenten nach § 18 Absatz 6, der Höhe der
     Vergütung der eingesetzten Honorarkräfte und der Kontinuität des
     vorhandenen Lehrpersonals,
 
-
 10. zu den Kenntnissen über den örtlichen Arbeitsmarkt und dem Bedarf an
     Maßnahmen zur berufsbezogenen Deutschsprachförderung,
-
 
 11. der Zusammenarbeit vor Ort mit Betrieben, anderen Trägern,
     insbesondere mit den Agenturen für Arbeit, den für die Durchführung
@@ -762,24 +743,19 @@ zu Folgendem enthalten:
     zur Bereitschaft, Kooperationsvereinbarungen nach § 19 Absatz 1 Nummer
     5 abzuschließen, und
 
-
 12. der Zusammenarbeit mit anderen Sprachkursträgern, insbesondere Angaben
     zur organisatorischen Fähigkeit, gemeinsam Sprachkurse in der Region
     durchzuführen.
 
-
-
-
-(3) Zur Beurteilung der vom Antragsteller eingesetzten Instrumente zur
-Qualitätssicherung und -entwicklung muss der Antrag eine Dokumentation
-zu den Maßnahmen in den Bereichen Führung, Personal,
+(3) Zur Beurteilung der vom Antragsteller eingesetzten Instrumente
+zur Qualitätssicherung und -entwicklung muss der Antrag eine
+Dokumentation zu den Maßnahmen in den Bereichen Führung, Personal,
 Kundenkommunikation, Unterrichtsorganisation und -durchführung,
 Evaluation und Controlling enthalten.
 
 (4) Die Zulassung als Kursträger der Spezialberufssprachkurse nach §
-13 Absatz 1 Satz 1 Nummer 1 und 2 erfordert Angaben über die Erfüllung
-besonderer vom Bundesamt vorgegebener Qualitätsmerkmale und
-Rahmenbedingungen.
+13 Absatz 1 Nummer 1 erfordert Angaben über die Erfüllung besonderer
+vom Bundesamt vorgegebener Qualitätsmerkmale und Rahmenbedingungen.
 
 (5) Für den Antrag ist das vom Bundesamt festgelegte Antragsformular
 zu verwenden.
@@ -790,19 +766,18 @@ zu verwenden.
 (1) Das Bundesamt entscheidet über den Zulassungsantrag nach Prüfung
 der eingereichten Unterlagen und im Regelfall nach örtlicher Prüfung
 durch Bescheid. Bei der Entscheidung über die Erteilung der Zulassung
-und ihre Dauer sind neben den Angaben nach § 20 die Erfahrungen mit
-der bisherigen Kooperation des Kursträgers mit dem Bundesamt zu
-berücksichtigen.
+und ihre Dauer sind neben den Angaben nach § 20 die Erfahrungen
+mit der bisherigen Kooperation des Kursträgers mit dem Bundesamt
+einschließlich bereits erfolgter Verkürzungen der Zulassungsdauer nach
+Absatz 2 Satz 4 zu berücksichtigen.
 
-(2) Die Zulassung wird durch ein Zertifikat „Zugelassener Träger zur
-Durchführung von berufsbezogener Deutschsprachförderung nach dem
-Aufenthaltsgesetz“ bescheinigt. Aus dem Zertifikat muss hervorgehen,
-für welche Berufssprachkurse der Träger zugelassen ist. Es wird für
-längstens fünf Jahre erteilt. Die Dauer der Zulassung wird anhand
-eines Punktesystems festgesetzt, das das Erreichen von Standards bei
-den in Absatz 1 genannten Kriterien abbildet. Zudem kann das Bundesamt
-die Dauer der Zulassung verkürzen, wenn eine vom Bundesamt
-festzulegende Vergütungsgrenze für die Lehrkräfte unterschritten wird.
+(2) Die Zulassung wird für längstens fünf Jahre erteilt. Aus
+dem Bescheid muss hervorgehen, für welche Berufssprachkurse der
+Träger zugelassen ist. Die Dauer der Zulassung wird anhand eines
+Punktesystems festgesetzt, das das Erreichen von Standards bei den in
+Absatz 1 genannten Kriterien abbildet. Zudem kann das Bundesamt die
+Dauer der Zulassung verkürzen, wenn eine vom Bundesamt festzulegende
+Vergütungsgrenze für die Lehrkräfte unterschritten wird.
 
 (3) Bei Wiederholungsanträgen kann das Bundesamt ein vereinfachtes
 Verfahren vorsehen.
@@ -817,38 +792,30 @@ unverzüglich anzuzeigen.
 
 ### § 22 Widerruf und Erlöschen der Zulassung
 
-(1) Die Zulassung der Kursträger nach § 21 soll mit Wirkung für die
-Zukunft widerrufen werden, wenn ihre Voraussetzungen nicht mehr
+(1) Die Zulassung der Kursträger nach § 21 soll mit Wirkung für
+die Zukunft widerrufen werden, wenn ihre Voraussetzungen nicht mehr
 vorliegen, insbesondere wenn
 
 1.  der Kursträger seine Mitwirkungspflichten bei der Feststellung der
     ordnungsgemäßen Kursteilnahme Teilnahmeverpflichteter wiederholt
     verletzt,
 
-
 2.  das Insolvenzverfahren über das Vermögen des Kursträgers eröffnet
     worden ist oder unmittelbar droht oder der Antrag auf Eröffnung des
     Insolvenzverfahrens mangels Masse abgewiesen worden ist,
-
 
 3.  der Kursträger wiederholt und trotz vorheriger Abmahnung gegen
     Auflagen und Nebenbestimmungen, die Bestandteil des Bescheids über den
     Zulassungsantrag sind, verstößt,
 
-
 4.  der Kursträger die Rechte seiner Mitarbeiterinnen und Mitarbeiter
     verletzt,
-
 
 5.  im Einstufungsverfahren wiederholt eine falsche Zuordnung zu einem
     Berufssprachkurs erfolgte oder
 
-
 6.  bei der Durchführung der Zertifikatsprüfungen nach § 15 das
     vorgeschriebene Verfahren wiederholt nicht eingehalten wurde.
-
-
-
 
 (2) Die Zulassung erlischt, wenn der Kursträger die Tätigkeit auf
 Dauer einstellt oder über einen Zeitraum von mehr als einem Jahr
@@ -857,8 +824,8 @@ sei denn, das Nichtzustandekommen von Berufssprachkursen beruht auf
 der Vermittlung von zunächst nur bei dem Kursträger angemeldeten
 Teilnehmenden nach § 9 Absatz 4 an einen anderen Kursträger.
 
-(3) Im Übrigen gelten die §§ 48 und 49 des
-Verwaltungsverfahrensgesetzes.
+(3) Die §§ 48 und 49 des Verwaltungsverfahrensgesetzes bleiben
+unberührt.
 
 
 ### § 23 Beauftragung von Prüfungsstellen
@@ -869,6 +836,36 @@ Zertifikatsprüfung nach dem Gemeinsamen Europäischen Referenzrahmen
 für Sprachen und der Einstufungstests beauftragen. Das Bundesamt
 stellt sicher, dass die Zertifikatsprüfung bundesweit einheitlich
 durch anerkannte Institutionen durchgeführt wird.
+
+
+### § 23a Zulassung von Prüfungsstellen
+
+(1) Für die Durchführung des Deutsch-Tests für den Beruf nach §
+15 Absatz 1 Satz 1 ist eine gesonderte Zulassung erforderlich.
+Das Bundesamt kann die nach den §§ 19 bis 21 zur Durchführung von
+Berufssprachkursen zugelassenen Kursträger als Prüfungsstellen zur
+Abnahme des Deutsch-Tests für den Beruf zulassen, wenn sie zuverlässig
+und leistungsfähig sind und die Prüfungssicherheit gewährleisten. Das
+Bundesamt kann Antragstellern, die über keine Zulassung nach den §§
+19 bis 21 verfügen, eine Zulassung erteilen, wenn örtlicher Bedarf
+besteht.
+
+(2) Der Zulassungsantrag muss unter Beifügung der erforderlichen
+Unterlagen folgende Angaben enthalten:
+
+1.  zur Einhaltung der Bestimmungen zu räumlichen Kapazitäten sowie zum
+    sicheren Empfang und zur sicheren Aufbewahrung von Prüfungsunterlagen,
+
+2.  zur Einhaltung der vom Bundesamt vorgegebenen Prüfungs- und
+    Nachweismodalitäten,
+
+3.  zur einschlägigen, mindestens zweijährigen Prüfungserfahrung des
+    Antragsstellers und
+
+4.  zum Einsatz von Prüfungspersonal.
+
+(3) Die Zulassung wird längstens für fünf Jahre erteilt. § 21 Absatz 4
+und § 25 Absatz 1 gelten entsprechend.
 
 
 ## Teil 5 - Expertengremium; Kostenerstattung
@@ -889,8 +886,8 @@ Preisentwicklung angemessene, den Grundsätzen der Wirtschaftlichkeit
 und Sparsamkeit genügende Kostenerstattungssätze fest. Die
 Einzelheiten regelt das Bundesamt in einer Abrechnungsrichtlinie.
 
-(2) Der Bund erstattet die Verwaltungskosten, die dem Bundesamt im
-Zusammenhang mit der Organisation und der Durchführung der
+(2) Der Bund erstattet die Verwaltungskosten, die dem Bundesamt
+im Zusammenhang mit der Organisation und der Durchführung der
 berufsbezogenen Deutschsprachförderung entstehen, in angemessener
 Höhe. Die Einzelheiten werden in einer Verwaltungsvereinbarung
 zwischen dem Bundesministerium für Arbeit und Soziales und dem
@@ -908,39 +905,27 @@ Daten:
 
 1.  Namen, Vornamen,
 
-
 2.  Geburtsdatum,
-
 
 3.  Anschrift, Telefonnummer, E-Mail-Adresse,
 
-
 4.  Staatsangehörigkeiten,
-
 
 5.  Kundennummer der Jobcenter nach § 51a des Zweiten Buches
     Sozialgesetzbuch oder der Bundesagentur für Arbeit,
 
-
 6.  Aufenthaltsstatus,
 
-
 7.  Geschlecht,
-
 
 8.  Angaben zum Bildungsstand, zur beruflichen Qualifikation, zum
     Vorliegen einer Beschäftigung und Angaben dazu, ob die Voraussetzungen
     nach § 4 Absatz 4 Satz 2 und Absatz 6 vorliegen,
 
-
 9.  Angaben zum Sprachstand nach dem Gemeinsamen Europäischen
     Referenzrahmen für Sprachen und
 
-
 10. die die Teilnahmeberechtigung erteilende Stelle.
-
-
-
 
 (2) Die Kursträger übermitteln dem Bundesamt die in Absatz 1 genannten
 Daten nach dessen Vorgaben.
@@ -959,6 +944,16 @@ berufsbezogenen Deutschsprachförderung notwendig sind.
 
 
 ## Teil 7 - Übergangsregelungen; Inkrafttreten
+
+
+### § 27a
+
+Auf Personen, die nach § 15 Absatz 5 Satz 2 oder Absatz 6 des Zweiten
+Buches Sozialgesetzbuch in der bis einschließlich 30. Juni 2026
+geltenden Fassung zur Teilnahme an einer Maßnahme der berufsbezogenen
+Deutschsprachförderung aufgefordert wurden, sind § 4 Absatz 2 Satz
+1 und § 6 Absatz 2 Satz 4 in der bis einschließlich 30. Juni 2026
+geltenden Fassung weiter anzuwenden.
 
 
 ### § 28 Inkrafttreten

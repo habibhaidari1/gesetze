@@ -16,11 +16,10 @@ Fundstelle
 :   BGBl I: 1951, 269
 
 Zuletzt geändert durch
-:   Art. 7 G v. 30. 7.2004 I 1950
+:   Art. 7 G v. 30.7.2004 I 1950
 
 
 ## Kapitel I - Allgemeine Vorschriften
-
 
 
 ### § 1
@@ -32,17 +31,12 @@ a)  nachweist, daß er der Obhut der Internationalen Organisation
     untersteht, die von den Vereinten Nationen mit der Betreuung
     verschleppter Personen und Flüchtlinge beauftragt ist, und
 
-
 b)  nicht Deutscher nach Artikel 116 des Grundgesetzes ist und
-
 
 c)  am 30. Juni 1950 seinen Aufenthalt im Geltungsbereich des
     Grundgesetzes oder in Berlin (West) hatte oder die Rechtsstellung
-    eines heimatlosen Ausländers auf Grund der Bestimmungen des § 2 Abs. 3
-    erwirbt.
-
-
-
+    eines heimatlosen Ausländers auf Grund der Bestimmungen des § 2 Abs.
+    3 erwirbt.
 
 (2) Wer seine Staatsangehörigkeit von einem heimatlosen Ausländer
 ableitet und am 1. Januar 1991 rechtmäßig seinen gewöhnlichen
@@ -52,8 +46,8 @@ heimatlosen Ausländer im Sinne dieses Gesetzes gleich.
 
 ### § 2
 
-(1) Ein heimatloser Ausländer verliert diese Rechtsstellung, wenn er
-nach dem 30. Juni 1950 eine neue Staatsangehörigkeit erwirbt oder
+(1) Ein heimatloser Ausländer verliert diese Rechtsstellung, wenn
+er nach dem 30. Juni 1950 eine neue Staatsangehörigkeit erwirbt oder
 seinen gewöhnlichen Aufenthalt außerhalb des Geltungsbereichs des
 Grundgesetzes oder von Berlin (West) nimmt.
 
@@ -70,9 +64,9 @@ Ausländers.
 Bestimmungen des § 1 Abs. 1a und b erfüllt, nach dem 1. Juli 1948
 seinen gewöhnlichen Aufenthalt im Geltungsbereich des Grundgesetzes
 oder in Berlin (West) hatte und ihn danach außerhalb des
-Geltungsbereichs des Grundgesetzes oder von Berlin (West) verlegt hat,
-erlangt die Rechtsstellung eines heimatlosen Ausländers, wenn er
-innerhalb von 2 Jahren seit dem Zeitpunkt seiner Ausreise aus dem
+Geltungsbereichs des Grundgesetzes oder von Berlin (West) verlegt
+hat, erlangt die Rechtsstellung eines heimatlosen Ausländers, wenn
+er innerhalb von 2 Jahren seit dem Zeitpunkt seiner Ausreise aus dem
 Geltungsbereich des Grundgesetzes oder aus Berlin (West) rechtmäßig
 seinen Wohnsitz oder dauernden Aufenthalt in den Geltungsbereich des
 Grundgesetzes oder nach Berlin (West) zurückverlegt.
@@ -99,9 +93,9 @@ ergriffenen Maßnahmen unterworfen.
 
 ### § 5
 
-Rechte und Vergünstigungen, die allgemein Angehörigen fremder Staaten
-nur unter der Bedingung der Gegenseitigkeit gewährt werden, sind
-heimatlosen Ausländern auch dann nicht zu versagen, wenn die
+Rechte und Vergünstigungen, die allgemein Angehörigen fremder
+Staaten nur unter der Bedingung der Gegenseitigkeit gewährt werden,
+sind heimatlosen Ausländern auch dann nicht zu versagen, wenn die
 Gegenseitigkeit nicht verbürgt ist.
 
 
@@ -124,12 +118,11 @@ bis zum 8. Mai 1945 anzurechnen.
 ## Kapitel II - Bürgerliches Recht
 
 
-
 ### § 8
 
 Hat ein heimatloser Ausländer vor Inkrafttreten dieses Gesetzes nach
-anderen als den deutschen Vorschriften Rechte erworben, so behält er
-diese, sofern die Gesetze des Ortes beobachtet sind, an dem das
+anderen als den deutschen Vorschriften Rechte erworben, so behält
+er diese, sofern die Gesetze des Ortes beobachtet sind, an dem das
 Rechtsgeschäft vorgenommen ist. Dies gilt insbesondere für eine vor
 Inkrafttreten dieses Gesetzes geschlossene Ehe.
 
@@ -149,22 +142,21 @@ und beweglichen Sachen erwerben.
 ### § 11
 
 Im Verfahren vor allen deutschen Gerichten sind heimatlose Ausländer
-den deutschen Staatsangehörigen gleichgestellt. Sie genießen unter den
-gleichen Bedingungen wie deutsche Staatsangehörige die
-Prozeßkostenhilfe und sind von den besonderen Pflichten der
-Angehörigen fremder Staaten und der Staatenlosen zur
+den deutschen Staatsangehörigen gleichgestellt. Sie genießen
+unter den gleichen Bedingungen wie deutsche Staatsangehörige
+die Prozeßkostenhilfe und sind von den besonderen Pflichten
+der Angehörigen fremder Staaten und der Staatenlosen zur
 Sicherheitsleistung befreit.
 
 
 ## Kapitel III - Öffentliches Recht
 
 
-
 ### § 12
 
-Heimatlose Ausländer sind in der Wahl ihres Aufenthaltsortes und in
-der Freizügigkeit innerhalb des Bundesgebietes den deutschen
-Staatsangehörigen gleichgestellt. Sie bedürfen keines
+Heimatlose Ausländer sind in der Wahl ihres Aufenthaltsortes
+und in der Freizügigkeit innerhalb des Bundesgebietes den
+deutschen Staatsangehörigen gleichgestellt. Sie bedürfen keines
 Aufenthaltstitels. Ausländischen Familienangehörigen heimatloser
 Ausländer wird nach den für ausländische Familienangehörige Deutscher
 geltenden Vorschriften eine Aufenthaltserlaubnis erteilt.
@@ -173,22 +165,22 @@ geltenden Vorschriften eine Aufenthaltserlaubnis erteilt.
 ### § 13
 
 (1) Heimatlose Ausländer sind hinsichtlich des Rechts, sich in
-Vereinigungen für kulturelle, soziale, Wohlfahrts-, Selbsthilfe- und
-ähnliche Zwecke zusammenzuschließen, deutschen Staatsangehörigen
+Vereinigungen für kulturelle, soziale, Wohlfahrts-, Selbsthilfe-
+und ähnliche Zwecke zusammenzuschließen, deutschen Staatsangehörigen
 gleichgestellt. Diese Gleichstellung gilt nicht für die Bildung von
 Vereinigungen mit politischen Zwecken.
 
 (2) Heimatlose Ausländer haben das Recht, sich in Gewerkschaften
-zusammenzuschließen oder ihre Aufnahme in deutsche Gewerkschaften zu
-beantragen.
+zusammenzuschließen oder ihre Aufnahme in deutsche Gewerkschaften
+zu beantragen.
 
 
 ### § 14
 
 (1) Heimatlose Ausländer haben zu allen öffentlichen Volksschulen,
 mittleren und höheren Lehranstalten sowie wissenschaftlichen
-Hochschulen und Kunsthochschulen unter den gleichen Bedingungen Zugang
-wie deutsche Staatsangehörige. Sie werden nach Maßgabe des
+Hochschulen und Kunsthochschulen unter den gleichen Bedingungen
+Zugang wie deutsche Staatsangehörige. Sie werden nach Maßgabe des
 Landesrechts an Gebührenerlaß und an den Mitteln zur Förderung
 Begabter beteiligt.
 
@@ -224,13 +216,13 @@ Bedingungen zuzulassen wie deutsche Staatsangehörige.
 (1) Heimatlose Ausländer sind in der Ausübung nichtselbständiger
 Arbeit deutschen Staatsangehörigen gleichgestellt.
 
-(2) Hinsichtlich des Rechts, sich in der Landwirtschaft, Industrie, im
-Handwerk und im Handel selbständig zu betätigen, sowie Handels- und
-Industrieunternehmungen, auch in der Form von Gesellschaften, zu
+(2) Hinsichtlich des Rechts, sich in der Landwirtschaft, Industrie,
+im Handwerk und im Handel selbständig zu betätigen, sowie Handels-
+und Industrieunternehmungen, auch in der Form von Gesellschaften, zu
 gründen, sind heimatlose Ausländer den deutschen Staatsangehörigen
 gleichgestellt. Das gilt nicht für das Wandergewerbe und den
-Straßenhandel. Für die Ausübung dieser Gewerbe verbleibt es für
-heimatlose Ausländer bei der in § 56d und § 42b Abs. 4 der
+Straßenhandel. Für die Ausübung dieser Gewerbe verbleibt es
+für heimatlose Ausländer bei der in § 56d und § 42b Abs. 4 der
 Gewerbeordnung für Ausländer getroffenen Regelung.
 
 
@@ -257,7 +249,6 @@ Vorschriften.
 ## Kapitel IV - Verwaltungsmaßnahmen
 
 
-
 ### § 21
 
 (1) Ein heimatloser Ausländer wird auf Antrag eingebürgert, wenn er
@@ -265,13 +256,10 @@ Vorschriften.
 1.  seit sieben Jahren rechtmäßig seinen gewöhnlichen Aufenthalt im
     Geltungsbereich dieses Gesetzes hat und
 
-
 2.  nicht wegen einer Straftat verurteilt worden ist; außer Betracht
     bleiben Verurteilungen zu Geldstrafe oder zu Jugend- oder
     Freiheitsstrafe bis zu einem Jahr, deren Vollstreckung zur Bewährung
     ausgesetzt wurde.
-
-
 
 Der Ehegatte und minderjährige ledige Kinder eines heimatlosen
 Ausländers werden nach Maßgabe des Satzes 1 mit ihm eingebürgert, auch
@@ -303,15 +291,14 @@ kann.
 (3) Ein heimatloser Ausländer darf weder an einen Staat ausgeliefert
 noch in einen Staat ausgewiesen, abgeschoben oder zurückgesandt
 werden, in dem sein Leben oder seine Freiheit wegen seiner Rasse,
-seiner Abstammung, seiner Herkunft, seines Glaubens, seiner religiösen
-oder politischen Anschauungen bedroht ist. § 60 Abs. 10 des
+seiner Abstammung, seiner Herkunft, seines Glaubens, seiner
+religiösen oder politischen Anschauungen bedroht ist. § 60 Abs. 10 des
 Aufenthaltsgesetzes findet entsprechende Anwendung.
 
 (4)
 
 
 ## Kapitel V - Rechtsschutz
-
 
 
 ### § 24
@@ -323,25 +310,20 @@ a)  um heimatlosen Ausländern den Schutz und Beistand zu gewähren, der
     fremden Staatsangehörigen sonst durch die Auslandsvertretungen ihrer
     Heimatstaaten geleistet wird, und
 
-
 b)  um die Ausstellung von Urkunden zu regeln, die fremden
     Staatsangehörigen sonst von ihren Heimatbehörden erteilt werden.
 
-
-
-
-(2) Die so ausgestellten Urkunden haben die gleiche Gültigkeit, wie
-sie entsprechenden, den fremden Staatsangehörigen von ihren
+(2) Die so ausgestellten Urkunden haben die gleiche Gültigkeit,
+wie sie entsprechenden, den fremden Staatsangehörigen von ihren
 Heimatbehörden erteilten Urkunden zukommt.
 
-(3) Für die Ausstellung solcher Urkunden dürfen, vorbehaltlich einer
-günstigeren Behandlung für minderbemittelte heimatlose Ausländer,
-keine höheren Gebühren erhoben werden als von deutschen
+(3) Für die Ausstellung solcher Urkunden dürfen, vorbehaltlich
+einer günstigeren Behandlung für minderbemittelte heimatlose
+Ausländer, keine höheren Gebühren erhoben werden als von deutschen
 Staatsangehörigen.
 
 
 ## Kapitel VI - Schluß- und Übergangsvorschriften
-
 
 
 ### § 25

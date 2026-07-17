@@ -1,6 +1,5 @@
 ---
-Title: Gesetz Nr. 21 zur Wiedergutmachung nationalsozialistischen Unrechts in der
-  Strafrechtspflege
+Title: Gesetz Nr. 21 zur Wiedergutmachung nationalsozialistischen Unrechts in der Strafrechtspflege
 jurabk: G21 BY
 layout: default
 origslug: g21_by
@@ -15,4 +14,7 @@ Ausfertigungsdatum
 
 Fundstelle
 :   GVBl BY: 1946, 180
+
+Fundstelle
+:   BayBS III: 150
 

@@ -1,6 +1,5 @@
 ---
-Title: Satzung der "Stiftung Demokratische Jugend" (Anlage zur Anordnung über die
-  Errichtung der "Stiftung Demokratische Jugend"
+Title: "Satzung der \"Stiftung Demokratische Jugend\" (Anlage zur Anordnung über die Errichtung der \"Stiftung Demokratische Jugend\""
 jurabk: DJStiftSa
 layout: default
 origslug: djstiftsa
@@ -16,13 +15,15 @@ Ausfertigungsdatum
 Fundstelle
 :   GBl DDR I: 1990, 1473
 
+Fundstelle
+:   GBl DDR I: 1990, Nr 60, 1473
 
 
 ## § 1 Name und Sitz
 
-Die Stiftung führt den Namen "Stiftung Demokratische Jugend". Sie ist
-eine selbständige Stiftung öffentlichen Rechts und hat ihren Sitz in
-Berlin.
+Die Stiftung führt den Namen "Stiftung Demokratische Jugend". Sie
+ist eine selbständige Stiftung öffentlichen Rechts und hat ihren Sitz
+in Berlin.
 
 
 ## § 2 Stiftungszweck
@@ -34,26 +35,18 @@ bzw. in den sich auf diesem Territorium bildenden Ländern.
 
 -   die politische Bildung und politische Mitverantwortung,
 
-
 -   die wirtschaftliche Initiative Jugendlicher sowie deren Mitwirkung in
     Gewerkschaften und Berufsorganisationen,
 
-
 -   die Interessenvertretung während der Ausbildung,
-
 
 -   das Engagement zum Schutz der Umwelt, der Gesundheit, des Friedens,
     der Menschenrechte u.a. gemeinnütziger Ziele,
 
-
 -   der kulturelle Nachwuchs und das Angebot nichtkommerzieller
     Kulturveranstaltungen,
 
-
 -   Jugendaustausch und internationale Begegnung.
-
-
-
 
 (3) Die Förderung erfolgt nach dem Grundsatz der Hilfe zur
 Selbsthilfe, soweit geeignete Träger zur Durchführung vorhanden sind.
@@ -64,22 +57,22 @@ Stiftung zu verwirklichen ist.
 ## § 3 Gemeinnützigkeit
 
 Die Stiftung ist selbstlos tätig; sie verfolgt ausschließlich und
-unmittelbar gemeinnützige Zwecke. Mittel der Stiftung dürfen nur für
-die unter § 2 genannten Zwecke verwendet werden. Es dürfen keine
+unmittelbar gemeinnützige Zwecke. Mittel der Stiftung dürfen nur
+für die unter § 2 genannten Zwecke verwendet werden. Es dürfen keine
 Begünstigungen erfolgen, die dem Stiftungszweck fremd sind.
 
 
 ## § 4 Stiftungsvermögen
 
-(1) Die Stiftung wird im Zeitpunkt ihrer Errichtung ausgestattet mit
-20 Millionen DM. Diesem Vermögen wachsen weitere freiwillige
+(1) Die Stiftung wird im Zeitpunkt ihrer Errichtung ausgestattet
+mit 20 Millionen DM. Diesem Vermögen wachsen weitere freiwillige
 Zuwendungen des Stifters zu, über deren Art und Höhe der Stifter nach
 seinem Ermessen entscheidet.
 
-(2) Die laufende Arbeit der Stiftung wird aus Erträgen und Zinsen aus
-diesem Vermögen sowie aus Spenden und sonstigen Zuwendungen
-finanziert. Investitionen im Sinne des Stiftungszwecks können aus dem
-Stiftungsvermögen finanziert werden, sofern dessen Umfang dadurch
+(2) Die laufende Arbeit der Stiftung wird aus Erträgen und Zinsen
+aus diesem Vermögen sowie aus Spenden und sonstigen Zuwendungen
+finanziert. Investitionen im Sinne des Stiftungszwecks können aus
+dem Stiftungsvermögen finanziert werden, sofern dessen Umfang dadurch
 nicht geschmälert wird.
 
 (3) Der Jahresabschluß der Stiftung erfolgt durch einen unabhängigen
@@ -98,8 +91,8 @@ Vorstand förderungswürdig erscheinen.
 Antragsrecht hat jedes Vorstandsmitglied. Gesuche um Unterstützung
 sind an den Vorstand oder an den von ihm Beauftragten zu richten.
 
-(3) Bei seiner Entscheidung handelt der Vorstand entsprechend dem
-Stiftungszweck nach pflichtgemäßem Ermessen. Im Rahmen dieses
+(3) Bei seiner Entscheidung handelt der Vorstand entsprechend
+dem Stiftungszweck nach pflichtgemäßem Ermessen. Im Rahmen dieses
 Ermessensspielraums sind seine Entscheidungen weder behördlich noch
 gerichtlich anfechtbar.
 
@@ -110,11 +103,11 @@ Leistungszusagen der Stiftung entstehen, nicht jedoch durch Berufung
 auf Gleichbehandlung oder aufgrund bereits mehrfach gewährter
 Leistungen.
 
-(5) Die Stiftung darf keine Person durch Verwaltungsausgaben, die dem
-Zweck der Stiftung fremd sind, oder durch unverhältnismäßig hohe
-Vergütungen begünstigen. Mitglieder des Vorstandes und des Kuratoriums
-erhalten über eine Aufwandsentschädigung und eine Erstattung ihrer
-Kosten hinaus keine Zuwendungen. Über die Höhe der
+(5) Die Stiftung darf keine Person durch Verwaltungsausgaben, die
+dem Zweck der Stiftung fremd sind, oder durch unverhältnismäßig
+hohe Vergütungen begünstigen. Mitglieder des Vorstandes und des
+Kuratoriums erhalten über eine Aufwandsentschädigung und eine
+Erstattung ihrer Kosten hinaus keine Zuwendungen. Über die Höhe der
 Aufwandsentschädigung entscheidet der Vorstand.
 
 
@@ -131,13 +124,13 @@ aus oder tritt es sein Amt nicht an, so hat der Vorstand innerhalb von
 vier Wochen einstimmig einen Nachfolger zu berufen.
 
 (3) Der Vorstand verwaltet die Stiftung nach Maßgabe des
-Stiftungszwecks und dieser Satzung. Darunter fällt insbesondere die
-Beschlußfassung über Vergabe und Entzug von Fördermitteln, die
-Verwaltung des Stiftungsvermögens, die Aufstellung des
+Stiftungszwecks und dieser Satzung. Darunter fällt insbesondere
+die Beschlußfassung über Vergabe und Entzug von Fördermitteln,
+die Verwaltung des Stiftungsvermögens, die Aufstellung des
 Wirtschaftsplanes und die Vorbereitung des Jahresabschlusses.
 
-(4) Die Stiftung wird von zwei Vorstandsmitgliedern, unter denen der
-Vorsitzende oder sein Stellvertreter sein muß, gerichtlich und
+(4) Die Stiftung wird von zwei Vorstandsmitgliedern, unter denen
+der Vorsitzende oder sein Stellvertreter sein muß, gerichtlich und
 außergerichtlich vertreten.
 
 (5) Der Vorstand gibt sich eine Geschäftsordnung. Er faßt Beschlüsse
@@ -146,8 +139,8 @@ mit einfacher Mehrheit.
 
 ## § 7 Kuratorium
 
-Das Kuratorium berät den Vorstand und überwacht die Einhaltung des
-Stiftungszwecks. Es besteht aus zehn Vertretern verschiedener
+Das Kuratorium berät den Vorstand und überwacht die Einhaltung
+des Stiftungszwecks. Es besteht aus zehn Vertretern verschiedener
 gesellschaftlicher Gruppierungen, die Jugendarbeit betreiben. Die
 Mitglieder des Kuratoriums werden vom Vorstand persönlich für drei
 Jahre berufen.

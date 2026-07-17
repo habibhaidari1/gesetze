@@ -24,8 +24,8 @@ Zuletzt geändert durch
 Auf Grund des § 19 Abs. 1 Nr. 1 und 2 Buchstabe b des Lebensmittel-
 und Bedarfsgegenständegesetzes vom 15. August 1974 (BGBl. I S. 1945,
 1946), der durch Artikel 1 Nr. 3 des Gesetzes vom 22. Januar 1991
-(BGBl. I S. 121) geändert worden ist, verordnet der Bundesminister für
-Gesundheit im Einvernehmen mit den Bundesministern für Ernährung,
+(BGBl. I S. 121) geändert worden ist, verordnet der Bundesminister
+für Gesundheit im Einvernehmen mit den Bundesministern für Ernährung,
 Landwirtschaft und Forsten und für Wirtschaft:
 
 
@@ -34,8 +34,8 @@ Landwirtschaft und Forsten und für Wirtschaft:
 (1) Lebensmittel dürfen nur in den Verkehr gebracht werden, wenn sie
 mit einer Angabe gekennzeichnet sind, aus der das Los zu ersehen ist,
 zu dem sie gehören. Die Angabe muß aus einer Buchstaben-Kombination,
-Ziffern-Kombination oder Buchstaben-/Ziffern-Kombination bestehen. Der
-Angabe ist der Buchstabe "L" voranzustellen, soweit sie sich nicht
+Ziffern-Kombination oder Buchstaben-/Ziffern-Kombination bestehen.
+Der Angabe ist der Buchstabe "L" voranzustellen, soweit sie sich nicht
 deutlich von den anderen Angaben der Kennzeichnung unterscheidet.
 
 (2) Ein Los ist die Gesamtheit von Verkaufseinheiten eines
@@ -55,55 +55,36 @@ des betreffenden Lebensmittels festgelegt.
     a)  an Lager-, Aufmachungs- oder Verpackungsstellen verkauft oder
         verbracht werden,
 
-
     b)  an Erzeugerorganisationen weitergeleitet werden,
-
 
     c)  zur sofortigen Verwendung in einem in Betrieb befindlichen
         Zubereitungs- oder Verarbeitungssystem gesammelt werden;
 
-
-
-
-
-2.  Lebensmittel, die erst in der Verkaufsstätte auf Anfrage des Käufers
-    oder im Hinblick auf ihre alsbaldige Abgabe an den Verbraucher, wobei
-    dem Verbraucher Gaststätten, Einrichtungen zur
-    Gemeinschaftsverpflegung sowie Gewerbetreibende, soweit sie
+2.  Lebensmittel, die erst in der Verkaufsstätte auf Anfrage des
+    Käufers oder im Hinblick auf ihre alsbaldige Abgabe an den
+    Verbraucher, wobei dem Verbraucher Gaststätten, Einrichtungen
+    zur Gemeinschaftsverpflegung sowie Gewerbetreibende, soweit sie
     Lebensmittel zum Verbrauch innerhalb ihrer Betriebsstätte beziehen,
     gleichstehen, verpackt und dort abgegeben werden;
 
-
 3.  Lebensmittel, die lose an den Verbraucher abgegeben werden;
 
-
 4.  Lebensmittel in Verpackungen oder Behältnissen, deren größte
-    Einzelfläche weniger als 10
-    qcm beträgt;
-
+    Einzelfläche weniger als 10 qcm beträgt;
 
 5.  Lebensmittel, bei denen das Mindesthaltbarkeitsdatum oder
     Verbrauchsdatum unverschlüsselt unter Angabe mindestens des Tages und
     des Monats in dieser Reihenfolge angegeben ist;
 
-
 6.  Lebensmittel, deren Kennzeichnung mit der Angabe des Loses
 
     a)  in Verordnungen der Europäischen Union,
 
-
     b)  in Rechtsverordnungen auf Grund des Weingesetzes
-
-
-
 
     geregelt ist;
 
-
 7.  Speiseeis-Einzelpackungen.
-
-
-
 
 
 ## § 3 Art der Kennzeichnung
@@ -111,24 +92,19 @@ des betreffenden Lebensmittels festgelegt.
 Die Angabe nach § 1 Abs. 1 muß gut sichtbar, deutlich lesbar und
 unverwischbar angebracht sein
 
-
 1.  bei Lebensmitteln in Fertigpackungen im Sinne des § 42 Absatz 1 des
     Mess- und Eichgesetzes, die dazu bestimmt sind, an den Verbraucher im
     Sinne des § 2 Nr. 2 abgegeben zu werden, auf der Fertigpackung oder
     einem mit ihr verbundenen Etikett,
 
-
 2.  bei anderen Lebensmitteln auf dem Behältnis oder der Verpackung oder
     in einem Begleitpapier.
 
 
-
-
-
 ## § 4 Unberührtheitsklausel
 
-Rechtsvorschriften, die für bestimmte Lebensmittel eine von den
-Vorschriften dieser Verordnung abweichende oder zusätzliche
+Rechtsvorschriften, die für bestimmte Lebensmittel eine von
+den Vorschriften dieser Verordnung abweichende oder zusätzliche
 Kennzeichnung vorschreiben, bleiben unberührt.
 
 

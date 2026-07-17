@@ -25,20 +25,15 @@ Zuletzt geändert durch
 ## Erster Abschnitt - Allgemeine Bestimmungen
 
 
-
 ### § 1 Anwendungsbereich
 
 (1) Diese Verordnung gilt für
 
 1.  die stoffliche Verwertung,
 
-
 2.  die energetische Verwertung und
 
-
 3.  die Beseitigung
-
-
 
 von Altöl.
 
@@ -46,14 +41,9 @@ von Altöl.
 
 1.  Erzeuger, Besitzer, Sammler und Beförderer von Altöl,
 
-
 2.  Betreiber von Altölentsorgungsanlagen und
 
-
 3.  öffentlich-rechtliche Entsorgungsträger.
-
-
-
 
 (3) Diese Verordnung gilt nicht für PCB/PCT-haltiges Altöl, das
 zugleich PCB nach § 1 Absatz 2 Nummer 2 der PCB/PCT-Abfallverordnung
@@ -74,62 +64,18 @@ und der Zusätze in diesen Ölen erfolgt.
 (3) Basisöle sind unlegierte Grundöle zur Herstellung der folgenden
 nach Sortengruppen spezifizierten Erzeugnisse:
 
-*    *   Sortengruppe 01
-
-    *   Motorenöle
-
-
-*    *   Sortengruppe 02
-
-    *   Getriebeöle
-
-
-*    *   Sortengruppe 03
-
-    *   Hydrauliköle
-
-
-*    *   Sortengruppe 04
-
-    *   Turbinenöle
-
-
-*    *   Sortengruppe 05
-
-    *   Elektroisolieröle
-
-
-*    *   Sortengruppe 06
-
-    *   Kompressorenöle
-
-
-*    *   Sortengruppe 07
-
-    *   Maschinenöle
-
-
-*    *   Sortengruppe 08
-
-    *   Andere Industrieöle, nicht für Schmierzwecke
-
-
-*    *   Sortengruppe 09
-
-    *   Prozessöle
-
-
-*    *   Sortengruppe 10
-
-    *   Metallbearbeitungsöle
-
-
-*    *   Sortengruppe 11
-
-    *   Schmierfette.
-
-
-
+| Sortengruppe 01 | Motorenöle |
+| --- | --- |
+| Sortengruppe 02 | Getriebeöle |
+| Sortengruppe 03 | Hydrauliköle |
+| Sortengruppe 04 | Turbinenöle |
+| Sortengruppe 05 | Elektroisolieröle |
+| Sortengruppe 06 | Kompressorenöle |
+| Sortengruppe 07 | Maschinenöle |
+| Sortengruppe 08 | Andere Industrieöle, nicht für Schmierzwecke |
+| Sortengruppe 09 | Prozessöle |
+| Sortengruppe 10 | Metallbearbeitungsöle |
+| Sortengruppe 11 | Schmierfette. |
 
 (4) PCB im Sinne dieser Verordnung sind die in § 1 Absatz 2 Nummer 1
 der PCB/PCT-Abfallverordnung bezeichneten Stoffe.
@@ -152,8 +98,8 @@ geeignet.
 
 Altöle dürfen nicht stofflich verwertet werden, wenn sie mehr als 20
 mg PCB/kg, ermittelt nach den in Anlage 2 Abschnitt 2 festgelegten
-Untersuchungsverfahren, oder mehr als 2 g Gesamthalogen/kg nach einem
-der in Anlage 2 Abschnitt 3 festgelegten Untersuchungsverfahren
+Untersuchungsverfahren, oder mehr als 2 g Gesamthalogen/kg nach
+einem der in Anlage 2 Abschnitt 3 festgelegten Untersuchungsverfahren
 enthalten. Dies gilt nicht, wenn diese Schadstoffe durch stoffliche
 Verwertung zerstört werden oder zumindest die Konzentration dieser
 Schadstoffe in den Produkten der stofflichen Verwertung unterhalb der
@@ -166,13 +112,13 @@ in Satz 1 genannten Grenzwerte liegt.
 Abfällen zu vermischen.
 
 (2) Öle auf der Basis von PCB, die insbesondere in Transformatoren,
-Kondensatoren und Hydraulikanlagen enthalten sein können, müssen von
-Besitzern, Sammlern und Beförderern getrennt gesammelt, getrennt
-befördert und getrennt einer Entsorgung zugeführt werden. Die
-zuständige Behörde kann Ausnahmen von Satz 1 zulassen, wenn eine
-Getrenntsammlung an der Anfallstelle aus betriebstechnischen Gründen
-nur mit einem unverhältnismäßig hohen Aufwand durchführbar ist und
-eine Entsorgung in einer dafür nach § 4 des Bundes-
+Kondensatoren und Hydraulikanlagen enthalten sein können, müssen
+von Besitzern, Sammlern und Beförderern getrennt gesammelt,
+getrennt befördert und getrennt einer Entsorgung zugeführt werden.
+Die zuständige Behörde kann Ausnahmen von Satz 1 zulassen, wenn
+eine Getrenntsammlung an der Anfallstelle aus betriebstechnischen
+Gründen nur mit einem unverhältnismäßig hohen Aufwand durchführbar
+ist und eine Entsorgung in einer dafür nach § 4 des Bundes-
 Immissionsschutzgesetzes zugelassenen Anlage vom Altölbesitzer
 nachgewiesen wird.
 
@@ -207,11 +153,11 @@ Absatz 3 Satz 2 der Nachweisverordnung für die Entsorgung gemischter
 Altöle, darf nur unter Beachtung der Absätze 1 und 2 sowie des
 Absatzes 2 Satz 2 und Absatz 4 erteilt werden.
 
-(6) Abweichend von Absatz 3 sind Altöle der Sammelkategorien 1 bis 4
-nach Anlage 1 von Erzeugern, Sammlern, Beförderern und Entsorgern nach
-Abfallschlüsseln getrennt zu sammeln, soweit dies in der Genehmigung
-nach § 4 Absatz 1 des Bundes-Immissionsschutzgesetzes für die
-Altölentsorgungsanlage oder in der Bestätigung des
+(6) Abweichend von Absatz 3 sind Altöle der Sammelkategorien 1 bis
+4 nach Anlage 1 von Erzeugern, Sammlern, Beförderern und Entsorgern
+nach Abfallschlüsseln getrennt zu sammeln, soweit dies in der
+Genehmigung nach § 4 Absatz 1 des Bundes-Immissionsschutzgesetzes
+für die Altölentsorgungsanlage oder in der Bestätigung des
 Entsorgungsnachweises nach § 5 Absatz 1 Satz 1 oder in der Bestätigung
 des Sammelentsorgungsnachweises nach § 9 Absatz 3 in Verbindung mit §
 5 Absatz 1 Satz 1 oder der Freistellung nach § 7 Absatz 1 Nummer 2 der
@@ -222,36 +168,36 @@ Nachweisverordnung angeordnet ist.
 
 ### § 5 Entnahme, Untersuchung und Aufbewahrung von Proben
 
-(1) Unternehmen der Altölsammlung haben bei der Übernahme von Altölen
-der Sammelkategorien 1 und 2 eine Probe zu entnehmen. Je eine
+(1) Unternehmen der Altölsammlung haben bei der Übernahme von
+Altölen der Sammelkategorien 1 und 2 eine Probe zu entnehmen. Je eine
 Teilmenge dieser Probe (Rückstellprobe) ist von der Anfallstelle und
-vom Unternehmen der Altölsammlung aufzubewahren, bis die nach Absatz 2
-vorgeschriebene Untersuchung durchgeführt worden ist und feststeht,
+vom Unternehmen der Altölsammlung aufzubewahren, bis die nach Absatz
+2 vorgeschriebene Untersuchung durchgeführt worden ist und feststeht,
 dass die Altöle ordnungsgemäß entsorgt werden können.
 
-(2) Wer Altöle stofflich oder energetisch verwertet, muss die Gehalte
-an PCB und Gesamthalogen in diesen Abfällen untersuchen oder
+(2) Wer Altöle stofflich oder energetisch verwertet, muss die
+Gehalte an PCB und Gesamthalogen in diesen Abfällen untersuchen oder
 untersuchen lassen. Nimmt der Betreiber einer Altölentsorgungsanlage
 die Untersuchung nicht selbst vor, ist sie von einer notifizierten
 Untersuchungsstelle durchzuführen. Grundlage für diese Notifizierung
-ist eine Akkreditierung nach DIN EN ISO 17025. Nimmt der Betreiber
-einer Altölentsorgungsanlage die Untersuchung selbst vor, ohne
-regelmäßig mit Erfolg an Ringversuchen teilzunehmen, kann die
-zuständige Behörde die Untersuchung durch eine bestimmte
+ist eine Akkreditierung nach DIN EN ISO 17025. Nimmt der
+Betreiber einer Altölentsorgungsanlage die Untersuchung selbst
+vor, ohne regelmäßig mit Erfolg an Ringversuchen teilzunehmen,
+kann die zuständige Behörde die Untersuchung durch eine bestimmte
 Untersuchungsstelle vorschreiben.
 
 (3) Aus den zu untersuchenden Altölen ist eine Probe zu entnehmen.
-Eine Teilmenge dieser Probe (Rückstellprobe) ist von dem nach Absatz 2
-Untersuchungspflichtigen drei Jahre aufzubewahren. Die Entnahme,
+Eine Teilmenge dieser Probe (Rückstellprobe) ist von dem nach Absatz
+2 Untersuchungspflichtigen drei Jahre aufzubewahren. Die Entnahme,
 Untersuchung und Aufbewahrung von Proben zur Überwachung der in § 3
 festgesetzten Grenzwerte erfolgt nach dem in Anlage 2 beschriebenen
 Verfahren.
 
-(4) Ergibt die Untersuchung nach Absatz 2, dass die Grenzwerte nach §
-3 Satz 1 überschritten sind, hat der nach Absatz 2 Satz 1
+(4) Ergibt die Untersuchung nach Absatz 2, dass die Grenzwerte
+nach § 3 Satz 1 überschritten sind, hat der nach Absatz 2 Satz 1
 Untersuchungspflichtige die für das Unternehmen des Altölsammlers
-zuständige Behörde unverzüglich zu unterrichten. Die nach Absatz 1
-Satz 2 und Absatz 3 Satz 2 zur Aufbewahrung von Rückstellproben
+zuständige Behörde unverzüglich zu unterrichten. Die nach Absatz
+1 Satz 2 und Absatz 3 Satz 2 zur Aufbewahrung von Rückstellproben
 Verpflichteten haben die Rückstellproben der zuständigen Behörde auf
 Verlangen zu überlassen.
 
@@ -263,19 +209,16 @@ Verlangen zu überlassen.
 1.  als Altölsammler zum Zwecke der stofflichen oder energetischen
     Verwertung abgibt oder
 
-
 2.  gewerbsmäßig, im Rahmen wirtschaftlicher Unternehmen oder als
     öffentliche Einrichtung an Unternehmen der Altölsammlung zum Zwecke
     der stofflichen oder energetischen Verwertung abgibt,
-
-
 
 hat gleichzeitig mit der Abgabe oder vor der Verbringung eine
 Erklärung nach dem in Anlage 3 enthaltenen Muster abzugeben. Die
 Vorschriften der Nachweisverordnung bleiben unberührt.
 
-(2) Wer Altöle nach § 5 Absatz 2 Satz 1 untersuchen muss, hat die
-ermittelten Gehalte an PCB und Gesamthalogen ergänzend in die
+(2) Wer Altöle nach § 5 Absatz 2 Satz 1 untersuchen muss, hat
+die ermittelten Gehalte an PCB und Gesamthalogen ergänzend in die
 Erklärung nach Anlage 3 einzutragen, auch soweit er nicht nach Absatz
 1 verpflichtet ist.
 
@@ -283,27 +226,26 @@ Erklärung nach Anlage 3 einzutragen, auch soweit er nicht nach Absatz
 1 Verpflichteten und dem Unternehmen, welches das Altöl übernimmt,
 drei Jahre aufzubewahren.
 
-(4) Der nach Absatz 1 Nummer 1 zur Erklärung Verpflichtete kann die
-Erklärung nach Absatz 1 statt in Anlage 3 im Formblatt
+(4) Der nach Absatz 1 Nummer 1 zur Erklärung Verpflichtete
+kann die Erklärung nach Absatz 1 statt in Anlage 3 im Formblatt
 Deklarationsanalyse des Entsorgungsnachweises eintragen. Der nach
 Absatz 1 Nummer 2 zur Erklärung Verpflichtete kann die Erklärung nach
 Absatz 1 statt in Anlage 3 in den Übernahmescheinen nach § 12 der
 Nachweisverordnung im Feld "Frei für Vermerke" eintragen.
 
 (5) Der nach Absatz 2 zur Untersuchung Verpflichtete kann die
-ermittelten Gehalte an PCB und Gesamthalogen statt in Anlage 3 auf den
-Begleitscheinen nach § 10 der Nachweisverordnung im Feld "Frei für
+ermittelten Gehalte an PCB und Gesamthalogen statt in Anlage 3 auf
+den Begleitscheinen nach § 10 der Nachweisverordnung im Feld "Frei für
 Vermerke" eintragen.
 
 (6) Für die Abgabe der ergänzenden Erklärungen zur Nachweisführung
-nach Absatz 4 Satz 1 und 2 und Absatz 5 finden die Bestimmungen der
-Nachweisverordnung zur elektronischen Führung von Nachweisen
-entsprechende Anwendung, einschließlich des § 30 der
+nach Absatz 4 Satz 1 und 2 und Absatz 5 finden die Bestimmungen
+der Nachweisverordnung zur elektronischen Führung von
+Nachweisen entsprechende Anwendung, einschließlich des § 30 der
 Nachweisverordnung.
 
 
 ## Zweiter Abschnitt - Anforderungen an die Abgabe von Verbrennungsmotoren- oder Getriebeölen
-
 
 
 ### § 7 Kennzeichnung der Gebinde
@@ -311,6 +253,7 @@ Nachweisverordnung.
 Verbrennungsmotoren- oder Getriebeöle dürfen in Gebinden nur in
 Verkehr gebracht werden, wenn sie durch Aufdruck oder Aufkleber
 folgendermaßen gekennzeichnet sind:
+
 "Dieses Öl gehört nach Gebrauch in eine Altölannahmestelle!
 Unsachgemäße Beseitigung von Altöl gefährdet die Umwelt! Jede
 Beimischung von Fremdstoffen wie Lösemitteln, Benzin, Brems- und
@@ -327,10 +270,10 @@ Abgabe an private Endverbraucher ist durch leicht erkennbare und
 lesbare Schrifttafeln am Ort des Verkaufs auf die Annahmestelle nach
 Absatz 2 hinzuweisen.
 
-(2) Die Annahmestelle muss gebrauchte Verbrennungsmotoren- oder
-Getriebeöle bis zur Menge der im Einzelfall abgegebenen
-Verbrennungsmotoren- und Getriebeöle kostenlos annehmen. Sie muss über
-eine Einrichtung verfügen, die es ermöglicht, den Ölwechsel
+(2) Die Annahmestelle muss gebrauchte Verbrennungsmotoren-
+oder Getriebeöle bis zur Menge der im Einzelfall abgegebenen
+Verbrennungsmotoren- und Getriebeöle kostenlos annehmen. Sie muss
+über eine Einrichtung verfügen, die es ermöglicht, den Ölwechsel
 fachgerecht durchzuführen.
 
 (3) Befindet sich die Annahmestelle nicht am Verkaufsort, so muss sie
@@ -347,8 +290,8 @@ Endverbraucher Fernkommunikationsmittel verwendet werden.
 
 ### § 9 Ausnahmen für gewerbliche Endverbraucher, Schiffahrt
 
-(1) Soweit gewerbliche oder sonstige wirtschaftliche Unternehmen oder
-öffentliche Einrichtungen Verbrennungsmotoren- oder Getriebeöle
+(1) Soweit gewerbliche oder sonstige wirtschaftliche Unternehmen
+oder öffentliche Einrichtungen Verbrennungsmotoren- oder Getriebeöle
 unmittelbar beim Hersteller oder Mineralölhandel erwerben, muss die
 Annahmestelle nicht am Verkaufsort oder in dessen Nähe eingerichtet
 oder nachgewiesen werden. Der Verkäufer kann sich zur Erfüllung seiner
@@ -364,7 +307,6 @@ durch den Schiffsbetrieb (MARPOL) in Anspruch nimmt.
 ## Dritter Abschnitt - Schlussbestimmungen
 
 
-
 ### § 10 Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 69 Absatz 1 Nummer 8 des
@@ -372,27 +314,19 @@ Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 1.  entgegen § 3 Satz 1 Altöle stofflich verwertet,
 
-
 2.  entgegen § 4 Absatz 1 Altöle mit anderen Abfällen vermischt,
-
 
 3.  entgegen § 4 Absatz 2 Satz 1 dort genannte Öle nicht getrennt sammelt,
     nicht getrennt befördert oder nicht getrennt einer Entsorgung zuführt,
 
-
 4.  entgegen § 4 Absatz 3 Altöle untereinander mischt,
-
 
 5.  entgegen § 4 Absatz 6 Satz 1 Altöle nicht getrennt sammelt oder
 
-
 6.  entgegen § 8 Absatz 1 eine Annahmestelle nicht oder nicht rechtzeitig
-    einrichtet und nicht, nicht richtig oder nicht rechtzeitig nachweist
-    oder einen Hinweis nicht, nicht richtig oder nicht in der
+    einrichtet und nicht, nicht richtig oder nicht rechtzeitig
+    nachweist oder einen Hinweis nicht, nicht richtig oder nicht in der
     vorgeschriebenen Weise gibt.
-
-
-
 
 (2) Ordnungswidrig im Sinne des § 69 Absatz 2 Nummer 15 des
 Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -401,16 +335,11 @@ Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
     rechtzeitig unterrichtet oder die Rückstellprobe nicht oder nicht
     rechtzeitig überlässt oder
 
-
 2.  entgegen § 7 Verbrennungsmotorenöle oder Getriebeöle in Gebinden in
     den Verkehr bringt.
 
 
-
-
-
 ### § 11 (weggefallen)
-
 
 
 ### (XXXX) §§ 12 und 13 (weggefallen)
@@ -422,183 +351,67 @@ Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 (Inkrafttreten)
 
-(zu § 2 Abs. 2 und § 4 Abs. 3 und 6)
 
-### Anlage 1 Zuordnung von Abfallschlüsseln zu einer Sammelkategorie
+### Anlage 1 (zu § 2 Abs. 2 und § 4 Abs. 3 und 6)Zuordnung von Abfallschlüsseln zu einer Sammelkategorie
 
 (Fundstelle des Originaltextes: BGBl. I 2002, 1372)
 
-*    *   Sammelkategorie 1:
-
-
-*    *   13 01 10\*
-
-    *   nichtchlorierte Hydrauliköle auf Mineralölbasis
-
-
-*    *   13 02 05\*
-
-    *   nichtchlorierte Maschinen-, Getriebe- und Schmieröle auf
-        Mineralölbasis
-
-
-*    *   13 02 06\*
-
-    *   synthetische Maschinen-, Getriebe- und Schmieröle
-
-
-*    *   13 02 08\*
-
-    *   andere Maschinen-, Getriebe- und Schmieröle
-
-
-*    *   13 03 07
-
-    *   nichtchlorierte Isolier- und Wärmeübertragungsöle auf Mineralölbasis
-
-
-*    *   Sammelkategorie 2:
-
-
-*    *   12 01 07\*
-
-    *   halogenfreie Bearbeitungsöle auf Mineralölbasis (außer Emulsionen und
-        Lösungen)
-
-
-*    *   12 01 10\*
-
-    *   synthetische Bearbeitungsöle
-
-
-*    *   13 01 11\*
-
-    *   synthetische Hydrauliköle
-
-
-*    *   13 01 13\*
-
-    *   andere Hydrauliköle
-
-
-*    *   Sammelkategorie 3:
-
-
-*    *   12 01 06\*
-
-    *   halogenhaltige Bearbeitungsöle auf Mineralölbasis (außer Emulsionen
-        und Lösungen)
-
-
-*    *   13 01 01\*
-
-    *[^BJNR209200020_01_BJNR023350987BJNE002303360]
-   Hydrauliköle, die PCB enthalten
-
-
-*    *   13 01 09\*
-
-    *   chlorierte Hydrauliköle auf Mineralölbasis
-
-
-*    *   13 02 04\*
-
-    *   chloriere Maschinen-, Getriebe- und Schmieröle auf Mineralölbasis
-
-
-*    *   13 03 01
-
-    *   Isolier- und Wärmeübertragungsöle, die PCB enthalten
-
-
-*    *   13 03 06
-
-    *   chlorierte Isolier- und Wärmeübertragungsöle auf Mineralölbasis mit
-        Ausnahme derjenigen, die unter 13 03 01 fallen
-
-
-*    *   Sammelkategorie 4:
-
-
-*    *   13 01 12\*
-
-    *   biologisch leicht abbaubare Hydrauliköle
-
-
-*    *   13 02 07\*
-
-    *   biologisch leicht abbaubare Maschinen-, Getriebe- und Schmieröle
-
-
-*    *   13 03 08\*
-
-    *   synthetische Isolier- und Wärmeübertragungsöle
-
-
-*    *   13 03 09\*
-
-    *   biologisch leicht abbaubare Isolier- und Wärmeübertragungsöle
-
-
-*    *   13 03 10
-
-    *   andere Isolier- und Wärmeübertragungsöle
-
-
-*    *   13 05 06
-
-    *   Öle aus Öl-/Wasserabscheidern
-
-
-*    *   13 07 01
-
-    *   Heizöl und Diesel
-
-
-
-
-[^BJNR209200020_01_BJNR023350987BJNE002303360]:     Mit einem PCB-Gehalt von nicht mehr als 50 mg/kg.
-
-(zu § 5 Abs. 3)
-
-### Anlage 2 Probenahme und Untersuchung von Altöl
+| Sammelkategorie 1: |  |
+| --- | --- |
+| 13 01 10* | nichtchlorierte Hydrauliköle auf Mineralölbasis |
+| 13 02 05* | nichtchlorierte Maschinen-, Getriebe- und Schmieröle auf Mineralölbasis |
+| 13 02 06* | synthetische Maschinen-, Getriebe- und Schmieröle |
+| 13 02 08* | andere Maschinen-, Getriebe- und Schmieröle |
+| 13 03 07 | nichtchlorierte Isolier- und Wärmeübertragungsöle auf Mineralölbasis |
+| Sammelkategorie 2: |  |
+| 12 01 07* | halogenfreie Bearbeitungsöle auf Mineralölbasis (außer Emulsionen und Lösungen) |
+| 12 01 10* | synthetische Bearbeitungsöle |
+| 13 01 11* | synthetische Hydrauliköle |
+| 13 01 13* | andere Hydrauliköle |
+| Sammelkategorie 3: |  |
+| 12 01 06* | halogenhaltige Bearbeitungsöle auf Mineralölbasis (außer Emulsionen und Lösungen) |
+| 13 01 01* | Hydrauliköle, die PCB enthalten |
+| 13 01 09* | chlorierte Hydrauliköle auf Mineralölbasis |
+| 13 02 04* | chloriere Maschinen-, Getriebe- und Schmieröle auf Mineralölbasis |
+| 13 03 01 | Isolier- und Wärmeübertragungsöle, die PCB enthalten |
+| 13 03 06 | chlorierte Isolier- und Wärmeübertragungsöle auf Mineralölbasis mit Ausnahme derjenigen, die unter 13 03 01 fallen |
+| Sammelkategorie 4: |  |
+| 13 01 12* | biologisch leicht abbaubare Hydrauliköle |
+| 13 02 07* | biologisch leicht abbaubare Maschinen-, Getriebe- und Schmieröle |
+| 13 03 08* | synthetische Isolier- und Wärmeübertragungsöle |
+| 13 03 09* | biologisch leicht abbaubare Isolier- und Wärmeübertragungsöle |
+| 13 03 10 | andere Isolier- und Wärmeübertragungsöle |
+| 13 05 06 | Öle aus Öl-/Wasserabscheidern |
+| 13 07 01 | Heizöl und Diesel |
+
+
+### Anlage 2 (zu § 5 Abs. 3)Probenahme und Untersuchung von Altöl
 
 (Fundstelle des Originaltextes: BGBl. I 2002, 1373 - 1374)
 
+-   1   Entnahme und Aufbewahrung der Proben
 
-*
-    1   Entnahme und Aufbewahrung der Proben
-
-        Die Probenahme für die Untersuchung eines Altöls auf die Gehalte an
-        Gesamthalogen und polychlorierten Biphenylen (PCB) wird nach DIN EN
-        ISO 3170, Ausgabe Juni 2004 (und DIN EN ISO 3170 Berichtigung 1,
+        Die Probenahme für die Untersuchung eines Altöls auf die Gehalte
+        an Gesamthalogen und polychlorierten Biphenylen (PCB) wird nach DIN
+        EN ISO 3170, Ausgabe Juni 2004 (und DIN EN ISO 3170 Berichtigung 1,
         Ausgabe Dezember 2007) und DIN EN ISO 3171, Ausgabe November 2000,
         durchgeführt. Ergänzend zu den Vorschriften der Norm DIN EN ISO 3170
         und DIN EN ISO 3171 wird auf Folgendes hingewiesen:
-
 
     1.1 Einsatz von Vakuum-Tankwagen
 
         Bei Einsatz von Vakuum-Tankwagen kann die Probenahme wie nachfolgend
         beschrieben (siehe Abbildung) erfolgen.
 
-
-
-
-
-
-
-
-*
-    *   **Probenahmevorrichtung an Vakuum-Tankwagen**
-        (Inhalt: nicht darstellbare Abbildung,
+-   -   **Probenahmevorrichtung an Vakuum-Tankwagen**(Inhalt: nicht
+        darstellbare Abbildung,
 
         Fundstelle: BGBl. I 2002, 1373)
 
         Der Saugschlauch wird an den Entnahmestutzen des Altöltanks
-        angeschlossen oder in andere Behälter eingehängt. Nachdem der Tank des
-        Fahrzeugs unter Vakuum gesetzt wurde, werden die Schieber 1 und 4 bei
-        geschlossenen Hähnen 2 und 3 geöffnet und der Übernahmevorgang
+        angeschlossen oder in andere Behälter eingehängt. Nachdem der Tank
+        des Fahrzeugs unter Vakuum gesetzt wurde, werden die Schieber 1 und
+        4 bei geschlossenen Hähnen 2 und 3 geöffnet und der Übernahmevorgang
         beginnt. Am Anfang und mehrfach wiederholt bis zum Ende, werden die
         Schieber 1 und 4 geschlossen, das dazwischenliegende Rohrstück mittels
         des Hahnes 2 belüftet und anschließend über den Hahn 3 der Inhalt
@@ -608,19 +421,16 @@ Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
         erfolgen, da sonst durch Verschleppungseffekte Probenverfälschungen
         eintreten können.
 
-
     1.2 Probenahmegefäße
 
         Zur Probenahme und zum Aufbewahren der Proben sind Glas- oder
-        Metallgefäße zu verwenden. Gefäße aus anderen Werkstoffen sind dann
-        zugelassen, wenn nachgewiesen ist, dass keine das Messergebnis
+        Metallgefäße zu verwenden. Gefäße aus anderen Werkstoffen sind
+        dann zugelassen, wenn nachgewiesen ist, dass keine das Messergebnis
         beeinflussende Aufnahme von PCB durch die Gefäßwandung erfolgt.
-
 
     1.3 Probemenge
 
         Die jeweilige Probenmenge beträgt mindestens 1 l.
-
 
     1.4 Probenahme an der Anfallstelle
 
@@ -628,18 +438,16 @@ Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
         verbleiben von der Probe 250 ml bei der Anfallstelle und 250 ml beim
         Altölsammler.
 
-
     1.5 Probenahme an der Aufarbeitungsstelle
 
-        Bei der Probenahme für Zwecke des § 5 Abs. 2 dieser Verordnung ist die
-        Probe in vier Teilproben zu unterteilen. Hiervon ist je eine Probe für
-        das Untersuchungslaboratorium, eine Probe für den Anlieferer, eine
+        Bei der Probenahme für Zwecke des § 5 Abs. 2 dieser Verordnung ist
+        die Probe in vier Teilproben zu unterteilen. Hiervon ist je eine Probe
+        für das Untersuchungslaboratorium, eine Probe für den Anlieferer, eine
         Probe für den Aufbereiter und eine Probe für etwaige Schiedsanalysen
         (Rückstellproben) bestimmt.
 
         Soweit im konkreten Fall mehrere Proben für ein und dieselbe Stelle
         bestimmt sind, reduziert sich die Zahl der Teilproben entsprechend.
-
 
     1.6 Beachtung von Sicherheitsvorschriften
 
@@ -647,17 +455,15 @@ Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
         einschlägigen Sicherheitsbestimmungen, insbesondere die des
         Brandschutzes, zu beachten.
 
-
     1.7 Probenahmeprotokoll
 
         Über die Probenahme ist ein Protokoll in Anlehnung an das Muster der
         Norm 51 750 Teil 1 zu fertigen.
 
-
     1.8 Aufbewahrung von Proben
 
-        Die Aufbewahrung von nach dieser Verordnung entnommenen Proben richtet
-        sich nach § 5 Abs. 1 und 3. Im Falle eines Straf- oder
+        Die Aufbewahrung von nach dieser Verordnung entnommenen Proben
+        richtet sich nach § 5 Abs. 1 und 3. Im Falle eines Straf- oder
         Bußgeldverfahrens sind die für die Schiedsprobe (Schiedsverfahren nach
         DIN EN ISO 4259-2, Ausgabe Februar 2020) vorgesehenen Probenbehälter
         bis zum Abschluss des Verfahrens aufzubewahren.
@@ -666,74 +472,41 @@ Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
         die Probemenge unverändert bleibt, sowie Ort und Zeit der Entnahme
         jederzeit nachgewiesen werden können.
 
-
     2   Bestimmung des Gehaltes an polychlorierten Biphenylen (PCB)
-
 
     2.1 Grundsatz
 
         Es werden die Einzelgehalte der folgenden 6 Congenere
 
+|  | 2,4,4'-Trichlorbiphenyl (PCB 28) |
+| --- | --- |
+|  | 2,2',5,5'-Tetrachlorbiphenyl (PCB 52) |
+|  | 2,2',4,5,5'-Pentachlorbiphenyl (PCB 101) |
+|  | 2,2',3,4',4',5'-Hexachlorbiphenyl (PCB 138) |
+|  | 2,2',4,4',5,5'-Hexachlorbiphenyl (PCB 153) |
+|  | 2,2',3,4,4',5,5'-Heptachlorbiphenyl (PCB 180) |
+| im Altöl bestimmt und hieraus der PCB-Gehalt berechnet. |  |
 
-
-
-
-
-
-*    *
-    *   2,4,4'-Trichlorbiphenyl (PCB 28)
-
-
-*    *
-    *   2,2',5,5'-Tetrachlorbiphenyl (PCB 52)
-
-
-*    *
-    *   2,2',4,5,5'-Pentachlorbiphenyl (PCB 101)
-
-
-*    *
-    *   2,2',3,4',4',5'-Hexachlorbiphenyl (PCB 138)
-
-
-*    *
-    *   2,2',4,4',5,5'-Hexachlorbiphenyl (PCB 153)
-
-
-*    *
-    *   2,2',3,4,4',5,5'-Heptachlorbiphenyl (PCB 180)
-
-
-*    *   im Altöl bestimmt und hieraus der PCB-Gehalt berechnet.
-
-
-
-
-*
-    2.2 Untersuchungsverfahren
+-   2.2 Untersuchungsverfahren
 
         Die Bestimmung der Einzelgehalte der in Abschnitt 2.1 genannten 6
         Congenere hat nach DIN EN 12 766 Teil 1, Ausgabe November 2000, zu
         erfolgen.
-
 
     2.3 Berechnungsverfahren
 
         Die Berechnung des PCB-Gehaltes hat nach DIN EN 12 766 Teil 2, Ausgabe
         Dezember 2001, Verfahren B, zu erfolgen.
 
-
     2.4 Überschreitung des Grenzwertes
 
-        Bei einem berechneten Gehalt von 28,5 mg PCB/kg Altöl gilt der nach §
-        3 einzuhaltende Grenzwert von 20 mg PCB/kg Altöl als überschritten.
+        Bei einem berechneten Gehalt von 28,5 mg PCB/kg Altöl gilt der nach
+        § 3 einzuhaltende Grenzwert von 20 mg PCB/kg Altöl als überschritten.
         Gemäß den Präzisionsangaben der DIN EN 12 766 Teil 2, Ausgabe Dezember
         2001, ist bei diesem Wert eine Überschreitung des Grenzwertes mit
         einer statistischen Sicherheit von 95% gegeben.
 
-
     3   Bestimmung des Gesamthalogengehaltes
-
 
     3.1 Grundsatz
 
@@ -746,11 +519,10 @@ Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
         Gleichwertige Methoden sind zugelassen.
 
-
     3.2 Probenvorbereitung
 
-        Die Probenvorbereitung ist derart durchzuführen, dass die ermittelten
-        Gehalte sich auf die wasserfreie Ölphase beziehen. Die zu
+        Die Probenvorbereitung ist derart durchzuführen, dass die
+        ermittelten Gehalte sich auf die wasserfreie Ölphase beziehen. Die zu
         untersuchende flüssige Probe wird auf etwa vorhandenes Absetzwasser
         hin geprüft. Falls eine Wasserphase erkennbar ist, wird diese mittels
         eines Scheidetrichters abgetrennt.
@@ -771,42 +543,34 @@ Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
         Verdampfungsverluste durch leichtflüchtige Bestandteile vermieden
         werden.
 
-
     3.3 Analysenverfahren
-
 
     3.3.1 Vortest mit energiedispersiver Röntgenfluoreszenz-Analyse
 
-        Bestimmung des Chlor- und Bromgehaltes mit energiedispersiver
-        Röntgenfluoreszenz-Analyse nach DIN 51 577 Teil 4, Ausgabe Februar
-        1994\.
-
+          Bestimmung des Chlor- und Bromgehaltes mit energiedispersiver
+          Röntgenfluoreszenz-Analyse nach DIN 51 577 Teil 4, Ausgabe Februar
+          1994\.
 
     3.3.2 Referenzverfahren
 
-        3.3.2.1 Verbrennung und Bestimmung des Halogenidgehaltes in der
-            Aufschlusslösung
+          3.3.2.1 Verbrennung und Bestimmung des Halogenidgehaltes in der
+                  Aufschlusslösung
 
-            Aufschluss der Probe in Anlehnung an das Verbrennungsverfahren zur
-            Bestimmung des Halogen- und Schwefelgehalts in Materialien durch
-            Verbrennung in einem geschlossenen, Sauerstoff enthaltenen System nach
-            DIN EN 14 582, Ausgabe Dezember 2016, oder durch ein anderes,
-            gleichwertiges Verfahren und nachfolgende Bestimmung des
-            Halogenidgehaltes (gemäß Abschnitt 3.1) in der Aufschlusslösung auf
-            Basis einer argentometrischen Titration z. B. nach DIN 51 408 Teil 1,
-            Ausgabe Juni 1983, oder nach DIN 38 405 Teil 1, Ausgabe Dezember 1985,
-            oder mittels Ionenchromatographie nach DIN EN ISO 10 304 Teil 1,
-            Ausgabe Juli 2009, oder durch ein anderes, gleichwertiges Verfahren.
-
-
-
-
+                  Aufschluss der Probe in Anlehnung an das Verbrennungsverfahren
+                  zur Bestimmung des Halogen- und Schwefelgehalts in Materialien
+                  durch Verbrennung in einem geschlossenen, Sauerstoff enthaltenen
+                  System nach DIN EN 14 582, Ausgabe Dezember 2016, oder durch ein
+                  anderes, gleichwertiges Verfahren und nachfolgende Bestimmung des
+                  Halogenidgehaltes (gemäß Abschnitt 3.1) in der Aufschlusslösung auf
+                  Basis einer argentometrischen Titration z. B. nach DIN 51 408 Teil
+                  1, Ausgabe Juni 1983, oder nach DIN 38 405 Teil 1, Ausgabe Dezember
+                  1985, oder mittels Ionenchromatographie nach DIN EN ISO 10 304 Teil 1,
+                  Ausgabe Juli 2009, oder durch ein anderes, gleichwertiges Verfahren.
 
     3.3.2.2 Wellenlängendispersive Röntgenfluoreszenz-Analyse
 
-        Bestimmung des Chlor- und Bromgehaltes mit wellenlängendispersiver
-        Röntgenfluoreszenz-Analyse nach DIN ISO 15 597, Ausgabe Januar 2006.
-
+            Bestimmung des Chlor- und Bromgehaltes mit wellenlängendispersiver
+            Röntgenfluoreszenz-Analyse nach DIN ISO 15 597, Ausgabe Januar 2006.
 
     3.4 Überschreitung des Grenzwertes
 
@@ -817,14 +581,12 @@ Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
         kann entfallen, wenn bei dem Vortest ein Gesamthalogengehalt von 1,4
         g/kg nicht überschritten wird.
 
-
     4   Qualitätssicherung und -kontrolle
 
         Die Untersuchungsstellen sind verpflichtet, die Verlässlichkeit der
         Analysenergebnisse durch geeignete Maßnahmen zur Qualitätssicherung
         und -kontrolle abzusichern. Dazu gehört unter anderem der Nachweis
         über die regelmäßige erfolgreiche Teilnahme an Ringversuchen.
-
 
     5.  G Bekanntmachung sachverständiger Stellen
 
@@ -834,14 +596,7 @@ Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
         Beuth-Verlag GmbH, Berlin und Köln erschienen.
 
 
-
-
-
-
-
-(zu § 6 Abs. 1 und 2)
-
-### Anlage 3 Erklärung über die Entsorgung von Altölen
+### Anlage 3 (zu § 6 Abs. 1 und 2)Erklärung über die Entsorgung von Altölen
 
 (Inhalt: nicht darstellbares Formblatt,
 Fundstelle: BGBl. I 2002, 1375;

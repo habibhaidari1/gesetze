@@ -24,11 +24,11 @@ Zuletzt geändert durch
 
 ## § 1
 
-Für die gemäß § 7 Abs. 1, § 8 Abs. 2 des Wohnungseigentumsgesetzes vom
-15\. März 1951 (Bundesgesetzbl. I S. 175) für jeden Miteigentumsanteil
-anzulegenden besonderen Grundbuchblätter (Wohnungs- und
-Teileigentumsgrundbücher) sowie für die gemäß § 30 Abs. 3 des
-Wohnungseigentumsgesetzes anzulegenden Wohnungs- und
+Für die gemäß § 7 Abs. 1, § 8 Abs. 2 des Wohnungseigentumsgesetzes
+vom 15. März 1951 (Bundesgesetzbl. I S. 175) für jeden
+Miteigentumsanteil anzulegenden besonderen Grundbuchblätter
+(Wohnungs- und Teileigentumsgrundbücher) sowie für die gemäß § 30
+Abs. 3 des Wohnungseigentumsgesetzes anzulegenden Wohnungs- und
 Teilerbbaugrundbücher gelten die Vorschriften der Grundbuchverfügung
 entsprechend, soweit sich nicht aus den §§ 2 bis 5, 8 und 9 etwas
 anderes ergibt.
@@ -38,8 +38,8 @@ anderes ergibt.
 
 In der Aufschrift ist unter die Blattnummer in Klammern das Wort
 "Wohnungsgrundbuch" oder "Teileigentumsgrundbuch" zu setzen, je
-nachdem, ob sich das Sondereigentum auf eine Wohnung oder auf nicht zu
-Wohnzwecken dienende Räume bezieht. Ist mit dem Miteigentumsanteil
+nachdem, ob sich das Sondereigentum auf eine Wohnung oder auf nicht
+zu Wohnzwecken dienende Räume bezieht. Ist mit dem Miteigentumsanteil
 Sondereigentum sowohl an einer Wohnung als auch an nicht zu
 Wohnzwecken dienenden Räumen verbunden und überwiegt nicht einer
 dieser Zwecke offensichtlich, so ist das Grundbuchblatt als "Wohnungs-
@@ -54,7 +54,6 @@ Raum einzutragen:
 a)  der in einem zahlenmäßigen Bruchteil ausgedrückte Miteigentumsanteil
     an dem Grundstück;
 
-
 b)  die Bezeichnung des Grundstücks nach den allgemeinen Vorschriften;
     besteht das Grundstück aus mehreren Teilen, die in dem maßgebenden
     amtlichen Verzeichnis (§ 2 Abs. 2 der Grundbuchordnung) als
@@ -62,26 +61,22 @@ b)  die Bezeichnung des Grundstücks nach den allgemeinen Vorschriften;
     Grundstücks in geeigneter Weise zum Ausdruck zu bringen, daß die Teile
     ein Grundstück bilden;
 
-
 c)  das mit dem Miteigentumsanteil verbundene Sondereigentum und die
     Beschränkung des Miteigentums durch die Einräumung der zu den anderen
     Miteigentumsanteilen gehörenden Sondereigentumsrechte; dabei sind die
     Grundbuchblätter der übrigen Miteigentumsanteile anzugeben.
 
-
-
-
-(2) Wegen des Gegenstandes und des Inhalts des Sondereigentums kann
-auf die Eintragungsbewilligung und einen Nachweis nach § 7 Absatz 2
-Satz 1 des Wohnungseigentumsgesetzes Bezug genommen werden (§ 7 Absatz
-3 Satz 1 des Wohnungseigentumsgesetzes); vereinbarte
+(2) Wegen des Gegenstandes und des Inhalts des Sondereigentums
+kann auf die Eintragungsbewilligung und einen Nachweis nach § 7
+Absatz 2 Satz 1 des Wohnungseigentumsgesetzes Bezug genommen werden
+(§ 7 Absatz 3 Satz 1 des Wohnungseigentumsgesetzes); vereinbarte
 Veräußerungsbeschränkungen (§ 12 des Wohnungseigentumsgesetzes) und
 Vereinbarungen über die Haftung von Sondernachfolgern für Geldschulden
 sind jedoch ausdrücklich einzutragen (§ 7 Absatz 3 Satz 2 des
 Wohnungseigentumsgesetzes).
 
-(3) In Spalte 1 ist die laufende Nummer der Eintragung einzutragen. In
-Spalte 2 ist die bisherige laufende Nummer des Miteigentumsanteils
+(3) In Spalte 1 ist die laufende Nummer der Eintragung einzutragen.
+In Spalte 2 ist die bisherige laufende Nummer des Miteigentumsanteils
 anzugeben, aus dem der Miteigentumsanteil durch Vereinigung oder
 Teilung entstanden ist.
 
@@ -96,14 +91,14 @@ einzutragen. Der Vermerk über die Übertragung des Miteigentumsanteils
 auf das Blatt kann jedoch statt in Spalte 6 auch in die Eintragung in
 Spalte 3 aufgenommen werden.
 
-(6) Verliert durch die Eintragung einer Veränderung nach ihrem aus dem
-Grundbuch ersichtlichen Inhalt eine frühere Eintragung ganz oder
+(6) Verliert durch die Eintragung einer Veränderung nach ihrem aus
+dem Grundbuch ersichtlichen Inhalt eine frühere Eintragung ganz oder
 teilweise ihre Bedeutung, so ist sie insoweit rot zu unterstreichen.
 
 (7) Vermerke über Rechte, die dem jeweiligen Eigentümer des
 Grundstücks zustehen, sind in den Spalten 1, 3 und 4 des
-Bestandsverzeichnisses sämtlicher für Miteigentumsanteile an dem
-herrschenden Grundstück angelegten Wohnungs- und
+Bestandsverzeichnisses sämtlicher für Miteigentumsanteile
+an dem herrschenden Grundstück angelegten Wohnungs- und
 Teileigentumsgrundbücher einzutragen. Hierauf ist in dem in Spalte 6
 einzutragenden Vermerk hinzuweisen.
 
@@ -135,8 +130,8 @@ Sind gemäß § 7 Abs. 1 oder § 8 Abs. 2 WEG des
 Wohnungseigentumsgesetzes für die Miteigentumsanteile besondere
 Grundbuchblätter anzulegen, so werden die Miteigentumsanteile in den
 Spalten 7 und 8 des Bestandsverzeichnisses des Grundbuchblattes des
-Grundstücks abgeschrieben. Die Schließung des Grundbuchblatts gemäß §
-7 Abs. 1 Satz 3 des Wohnungseigentumsgesetzes unterbleibt, wenn auf
+Grundstücks abgeschrieben. Die Schließung des Grundbuchblatts gemäß
+§ 7 Abs. 1 Satz 3 des Wohnungseigentumsgesetzes unterbleibt, wenn auf
 dem Grundbuchblatt von der Abschreibung nicht betroffene Grundstücke
 eingetragen sind.
 
@@ -155,10 +150,10 @@ Teilerbbaugrundbücher entsprechend.
 ## § 9
 
 Die nähere Einrichtung der Wohnungs- und Teileigentumsgrundbücher
-sowie der Wohnungs- und Teilerbbaugrundbücher ergibt sich aus den als
-Anlagen 1 und 3 beigefügten Mustern. Für den Inhalt eines
-Hypothekenbriefs bei der Aufteilung des Eigentums am belasteten
-Grundstück in Wohnungseigentumsrechte nach § 8 des
+sowie der Wohnungs- und Teilerbbaugrundbücher ergibt sich aus
+den als Anlagen 1 und 3 beigefügten Mustern. Für den Inhalt
+eines Hypothekenbriefs bei der Aufteilung des Eigentums am
+belasteten Grundstück in Wohnungseigentumsrechte nach § 8 des
 Wohnungseigentumsgesetzes dient die Anlage 4 als Muster. Die in den
 Anlagen befindlichen Probeeintragungen sind als Beispiele nicht Teil
 dieser Verfügung.
@@ -170,17 +165,17 @@ dieser Verfügung.
 landesrechtliche Besonderheiten ergänzende Vorschriften zu treffen,
 wird durch diese Verfügung nicht berührt.
 
-(2) Soweit auf die Vorschriften der Grundbuchverfügung verwiesen wird
-und deren Bestimmungen nach den für die Überleitung der
-Grundbuchverfügung bestimmten Maßgaben nicht anzuwenden sind, treten
-an die Stelle der in Bezug genommenen Vorschriften der
+(2) Soweit auf die Vorschriften der Grundbuchverfügung verwiesen
+wird und deren Bestimmungen nach den für die Überleitung der
+Grundbuchverfügung bestimmten Maßgaben nicht anzuwenden sind,
+treten an die Stelle der in Bezug genommenen Vorschriften der
 Grundbuchverfügung die entsprechenden anzuwendenden Regelungen über
 die Einrichtung und Führung der Grundbücher. Die in § 3 vorgesehenen
 Angaben sind in diesem Falle in die entsprechenden Spalten für den
 Bestand einzutragen.
 
-(3) Ist eine Aufschrift mit Blattnummer nicht vorhanden, ist die in §
-2 erwähnte Bezeichnung an vergleichbarer Stelle im Kopf der ersten
+(3) Ist eine Aufschrift mit Blattnummer nicht vorhanden, ist die in
+§ 2 erwähnte Bezeichnung an vergleichbarer Stelle im Kopf der ersten
 Seite des Grundbuchblatts anzubringen.
 
 (4) Wurde von der Anlegung besonderer Grundbuchblätter abgesehen,
@@ -193,9 +188,8 @@ angelegt werden.
 
 (Inkrafttreten)
 
-(zu § 9)
 
-## Anlage 1 (Wohnungs- und Teileigentumsgrundbuch)
+## Anlage 1 (zu § 9) (Wohnungs- und Teileigentumsgrundbuch)
 
 (Inhalt: nicht darstellbares Muster eines Wohnungs- und
 Teileigentumsgrundbuchs
@@ -206,17 +200,15 @@ Fundstelle: Anlageband zum BGBl. I 1995 Nr. 6, S. 70 - 76)
 
 -
 
-(zu § 9)
 
-## Anlage 3 (Aufschrift und Bestandsverzeichnis eines Wohnungserbbaugrundbuchs)
+## Anlage 3 (zu § 9) (Aufschrift und Bestandsverzeichnis eines Wohnungserbbaugrundbuchs)
 
 (Inhalt: nicht darstellbares Muster einer Aufschrift und
 Bestandsverzeichnis eines Wohnungserbbaugrundbuchs
 Fundstelle: Anlageband zum BGBl. I 1995 Nr. 6, S. 78 - 80)
 
-(zu § 9)
 
-## Anlage 4 (Probeeintragungen in einen Hypothekenbrief bei Aufteilung des Eigentums am belasteten Grundstück in Wohnungseigentumsrechte nach § 8 des Wohnungseigentumsgesetzes)
+## Anlage 4 (zu § 9) (Probeeintragungen in einen Hypothekenbrief bei Aufteilung des Eigentums am belasteten Grundstück in Wohnungseigentumsrechte nach § 8 des Wohnungseigentumsgesetzes)
 
 (Inhalt: nicht darstellbares Muster eines Hypothekenbriefes,
 Fundstelle: Anlageband zum BGBl. I 1995 Nr. 6, S. 81)

@@ -16,22 +16,7 @@ Fundstelle
 :   BGBl I: 2007, 3004
 
 Zuletzt geändert durch
-:   Art. 1 V v. 5.3.2020 I 484
-
-Änderung durch
-:   Art. 6 G v. 9.6.2021 I 1666 (Nr. 31) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-[^F769932.1_BJNR300400007]:     Die Verordnung dient der Umsetzung der Richtlinie 92/49/EWG des Rates
-    vom 18. Juni 1992 zur Koordinierung der Rechts- und
-    Verwaltungsvorschriften für die Direktversicherung (mit Ausnahme der
-    Lebensversicherung) sowie zur Änderung der Richtlinien 73/239/EWG
-    (ABl. EG Nr. L 228 S. 1), der Richtlinie 2002/65/EG des Europäischen
-    Parlaments und des Rates vom 23. September 2002 über den Fernabsatz
-    von Finanzdienstleistungen an Verbraucher und zur Änderung der
-    Richtlinie 90/619/EWG des Rates und der Richtlinien 97/7/EG und
-    98/27/EG (ABl. EG Nr. L 271 S. 16) sowie der Richtlinie 2002/83/EG des
-    Europäischen Parlaments und des Rates vom 5. November 2002 über
-    Lebensversicherungen (ABl. EG Nr. L 345 S. 1).
+:   Art. 13 G v. 26.5.2026 I Nr. 156
 
 
 ## Eingangsformel
@@ -45,15 +30,14 @@ und Verbraucherschutz:
 
 ## § 1 Informationspflichten bei allen Versicherungszweigen
 
-(1) Der Versicherer hat dem Versicherungsnehmer gemäß § 7 Abs. 1 Satz
-1 des Versicherungsvertragsgesetzes folgende Informationen zur
+(1) Der Versicherer hat dem Versicherungsnehmer gemäß § 7 Abs. 1
+Satz 1 des Versicherungsvertragsgesetzes folgende Informationen zur
 Verfügung zu stellen:
 
 1.  die Identität des Versicherers und der etwaigen Niederlassung, über
     die der Vertrag abgeschlossen werden soll; anzugeben ist auch das
     Handelsregister, bei dem der Rechtsträger eingetragen ist, und die
     zugehörige Registernummer;
-
 
 2.  die Identität eines Vertreters des Versicherers in dem Mitgliedstaat
     der Europäischen Union, in dem der Versicherungsnehmer seinen Wohnsitz
@@ -63,7 +47,6 @@ Verfügung zu stellen:
     Eigenschaft, in der diese Person gegenüber dem Versicherungsnehmer
     tätig wird;
 
-
 3.  die ladungsfähige Anschrift des Versicherers und jede andere
     Anschrift, die für die Geschäftsbeziehung zwischen dem Versicherer,
     seinem Vertreter oder einer anderen gewerblich tätigen Person gemäß
@@ -71,26 +54,17 @@ Verfügung zu stellen:
     Personen, Personenvereinigungen oder -gruppen auch den Namen eines
     Vertretungsberechtigten;
 
-
 4.  die Hauptgeschäftstätigkeit des Versicherers;
-
 
 5.  gegebenenfalls Angaben über das Bestehen eines Garantiefonds oder
     anderer Entschädigungsregelungen; Name und Anschrift des Garantiefonds
     sind anzugeben;
 
-
-6.
-    a)  die für das Versicherungsverhältnis geltenden Allgemeinen
+6.  a)  die für das Versicherungsverhältnis geltenden Allgemeinen
         Versicherungsbedingungen einschließlich der Tarifbestimmungen;
-
 
     b)  die wesentlichen Merkmale der Versicherungsleistung, insbesondere
         Angaben über Art, Umfang und Fälligkeit der Leistung des Versicherers;
-
-
-
-
 
 7.  den Gesamtpreis der Versicherung einschließlich aller Steuern und
     sonstigen Preisbestandteile, wobei die Prämien einzeln auszuweisen
@@ -100,7 +74,6 @@ Verfügung zu stellen:
     Berechnung, die dem Versicherungsnehmer eine Überprüfung des Preises
     ermöglichen;
 
-
 8.  gegebenenfalls zusätzlich anfallende Kosten unter Angabe des insgesamt
     zu zahlenden Betrages sowie mögliche weitere Steuern, Gebühren oder
     Kosten, die nicht über den Versicherer abgeführt oder von ihm in
@@ -109,15 +82,12 @@ Verfügung zu stellen:
     entstehen, wenn solche zusätzlichen Kosten in Rechnung gestellt
     werden;
 
-
 9.  Einzelheiten hinsichtlich der Zahlung und der Erfüllung, insbesondere
     zur Zahlungsweise der Prämien;
-
 
 10. gegebenenfalls die Befristung der Gültigkeitsdauer der zur Verfügung
     gestellten Informationen, beispielsweise die Gültigkeitsdauer
     befristeter Angebote, insbesondere hinsichtlich des Preises;
-
 
 11. gegebenenfalls den Hinweis, dass sich die Finanzdienstleistung auf
     Finanzinstrumente bezieht, die wegen ihrer spezifischen Merkmale oder
@@ -127,12 +97,10 @@ Verfügung zu stellen:
     erwirtschaftete Beträge kein Indikator für künftige Erträge sind; die
     jeweiligen Umstände und Risiken sind zu bezeichnen;
 
-
-12. Angaben darüber, wie der Vertrag zustande kommt, insbesondere über den
-    Beginn der Versicherung und des Versicherungsschutzes sowie die Dauer
-    der Frist, während der der Antragsteller an den Antrag gebunden sein
-    soll;
-
+12. Angaben darüber, wie der Vertrag zustande kommt, insbesondere über
+    den Beginn der Versicherung und des Versicherungsschutzes sowie die
+    Dauer der Frist, während der der Antragsteller an den Antrag gebunden
+    sein soll;
 
 13. das Bestehen oder Nichtbestehen eines Widerrufsrechts sowie die
     Bedingungen, Einzelheiten der Ausübung, insbesondere Namen und
@@ -141,32 +109,26 @@ Verfügung zu stellen:
     über den Betrag, den der Versicherungsnehmer im Falle des Widerrufs
     gegebenenfalls zu zahlen hat;
 
-
 14. Angaben zur Laufzeit und gegebenenfalls zur Mindestlaufzeit des
     Vertrages;
 
-
-15. Angaben zur Beendigung des Vertrages, gegebenenfalls insbesondere zu
-    den vertraglichen Kündigungsbedingungen einschließlich etwaiger
+15. Angaben zur Beendigung des Vertrages, gegebenenfalls insbesondere
+    zu den vertraglichen Kündigungsbedingungen einschließlich etwaiger
     Vertragsstrafen;
-
 
 16. die Mitgliedstaaten der Europäischen Union, deren Recht der
     Versicherer der Aufnahme von Beziehungen zum Versicherungsnehmer vor
     Abschluss des Versicherungsvertrages zugrunde legt;
 
-
 17. das auf den Vertrag anwendbare Recht, gegebenenfalls eine
     Vertragsklausel über das auf den Vertrag anwendbare Recht oder über
     das zuständige Gericht;
-
 
 18. die Sprachen, in welchen die Vertragsbedingungen und die in dieser
     Vorschrift genannten Vorabinformationen mitgeteilt werden, sowie die
     Sprachen, in welchen sich der Versicherer verpflichtet, mit Zustimmung
     des Versicherungsnehmers die Kommunikation während der Laufzeit dieses
     Vertrages zu führen;
-
 
 19. einen möglichen Zugang des Versicherungsnehmers zu einem
     außergerichtlichen Beschwerde- und Rechtsbehelfsverfahren und
@@ -175,12 +137,8 @@ Verfügung zu stellen:
     Versicherungsnehmer, den Rechtsweg zu beschreiten, hiervon unberührt
     bleibt;
 
-
 20. Name und Anschrift der zuständigen Aufsichtsbehörde sowie die
     Möglichkeit einer Beschwerde bei dieser Aufsichtsbehörde.
-
-
-
 
 (2) Soweit die Mitteilung durch Übermittlung der Vertragsbestimmungen
 einschließlich der Allgemeinen Versicherungsbedingungen erfolgt,
@@ -190,84 +148,68 @@ hervorgehobenen und deutlich gestalteten Form.
 
 ## § 2 Informationspflichten bei der Lebensversicherung, der Berufsunfähigkeitsversicherung und der Unfallversicherung mit Prämienrückgewähr
 
-(1) Bei der Lebensversicherung hat der Versicherer dem
-Versicherungsnehmer gemäß § 7 Abs. 1 Satz 1 des
+(1) Bei der Lebensversicherung hat der Versicherer
+dem Versicherungsnehmer gemäß § 7 Abs. 1 Satz 1 des
 Versicherungsvertragsgesetzes zusätzlich zu den in § 1 Abs. 1
-genannten Informationen die folgenden Informationen zur Verfügung zu
-stellen:
+genannten Informationen die folgenden Informationen zur Verfügung
+zu stellen:
 
 1.  Angaben zur Höhe der in die Prämie einkalkulierten Kosten; dabei sind
-    die einkalkulierten Abschlusskosten als einheitlicher Gesamtbetrag und
-    die übrigen einkalkulierten Kosten als Anteil der Jahresprämie unter
-    Angabe der jeweiligen Laufzeit auszuweisen; bei den übrigen
+    die einkalkulierten Abschlusskosten als einheitlicher Gesamtbetrag
+    und die übrigen einkalkulierten Kosten als Anteil der Jahresprämie
+    unter Angabe der jeweiligen Laufzeit auszuweisen; bei den übrigen
     einkalkulierten Kosten sind die einkalkulierten Verwaltungskosten
     zusätzlich gesondert als Anteil der Jahresprämie unter Angabe der
     jeweiligen Laufzeit auszuweisen;
 
-
 2.  Angaben zu möglichen sonstigen Kosten, insbesondere zu Kosten, die
     einmalig oder aus besonderem Anlass entstehen können;
-
 
 3.  Angaben über die für die Überschussermittlung und
     Überschussbeteiligung geltenden Berechnungsgrundsätze und Maßstäbe;
 
-
 4.  Angabe der in Betracht kommenden Rückkaufswerte;
 
-
-5.  Angaben über den Mindestversicherungsbetrag für eine Umwandlung in
-    eine prämienfreie oder eine prämienreduzierte Versicherung und über
-    die Leistungen aus einer prämienfreien oder prämienreduzierten
+5.  Angaben über den Mindestversicherungsbetrag für eine Umwandlung
+    in eine prämienfreie oder eine prämienreduzierte Versicherung und
+    über die Leistungen aus einer prämienfreien oder prämienreduzierten
     Versicherung;
-
 
 6.  das Ausmaß, in dem die Leistungen nach den Nummern 4 und 5 garantiert
     sind;
-
 
 7.  bei fondsgebundenen Versicherungen Angaben über die der Versicherung
     zugrunde liegenden Fonds und die Art der darin enthaltenen
     Vermögenswerte;
 
-
 8.  allgemeine Angaben über die für diese Versicherungsart geltende
     Steuerregelung;
-
 
 9.  bei Lebensversicherungsverträgen, die Versicherungsschutz für ein
     Risiko bieten, bei dem der Eintritt der Verpflichtung des Versicherers
     gewiss ist, die Minderung der Wertentwicklung durch Kosten in
     Prozentpunkten (Effektivkosten) bis zum Beginn der Auszahlungsphase.
 
-
-
-
 (2) Die Angaben nach Absatz 1 Nr. 1, 2, 4 und 5 haben in Euro zu
 erfolgen. Bei Absatz 1 Nr. 6 gilt Satz 1 mit der Maßgabe, dass das
 Ausmaß der Garantie in Euro anzugeben ist.
 
-(3) Die vom Versicherer zu übermittelnde Modellrechnung im Sinne von §
-154 Abs. 1 des Versicherungsvertragsgesetzes ist mit folgenden
+(3) Die vom Versicherer zu übermittelnde Modellrechnung im Sinne
+von § 154 Abs. 1 des Versicherungsvertragsgesetzes ist mit folgenden
 Zinssätzen darzustellen:
 
 1.  dem Höchstrechnungszinssatz, multipliziert mit 1,67,
 
-
 2.  dem Zinssatz nach Nummer 1 zuzüglich eines Prozentpunktes und
-
 
 3.  dem Zinssatz nach Nummer 1 abzüglich eines Prozentpunktes.
 
-
-
-
-(4) Auf die Berufsunfähigkeitsversicherung sind die Absätze 1 und 2
-entsprechend anzuwenden. Darüber hinaus ist darauf hinzuweisen, dass
-der in den Versicherungsbedingungen verwendete Begriff der
-Berufsunfähigkeit nicht mit dem Begriff der Berufsunfähigkeit oder der
-Erwerbsminderung im sozialrechtlichen Sinne oder dem Begriff der
-Berufsunfähigkeit im Sinne der Versicherungsbedingungen in der
+(4) Auf die Berufsunfähigkeitsversicherung sind die Absätze 1 und
+2 entsprechend anzuwenden. Darüber hinaus ist darauf hinzuweisen,
+dass der in den Versicherungsbedingungen verwendete Begriff der
+Berufsunfähigkeit nicht mit dem Begriff der Berufsunfähigkeit oder
+der Erwerbsminderung im sozialrechtlichen Sinne oder dem Begriff
+der Berufsunfähigkeit im Sinne der Versicherungsbedingungen in der
 Krankentagegeldversicherung übereinstimmt.
 
 (5) Auf die Unfallversicherung mit Prämienrückgewähr sind Absatz 1 Nr.
@@ -283,57 +225,51 @@ Regulierungsstandards in Bezug auf die Darstellung, den Inhalt, die
 Überprüfung und die Überarbeitung dieser Basisinformationsblätter
 sowie die Bedingungen für die Erfüllung der Verpflichtung zu ihrer
 Bereitstellung (ABl. L 100 vom 12.4.2017, S. 1; L 120 vom 11.5.2017,
-S. 31; L 186 vom 19.7.2017, S. 17; L 210 vom 15.8.2017, S. 16), die
-durch die Delegierte Verordnung (EU) 2019/1866 (ABl. L 289 vom
+S. 31; L 186 vom 19.7.2017, S. 17; L 210 vom 15.8.2017, S. 16),
+die durch die Delegierte Verordnung (EU) 2019/1866 (ABl. L 289 vom
 8\.11.2019, S. 4) geändert worden ist. Dabei sind die Parameter des
 angebotenen Vertrags einzusetzen; abweichend davon ist unabhängig von
 den Parametern des angebotenen Vertrags
 
-1.  stets die jährliche Wertentwicklung vor Kosten zugrunde zu legen, die
-    bei der Berechnung des Gesamtkostenindikators nach Anhang VI der
+1.  stets die jährliche Wertentwicklung vor Kosten zugrunde zu legen,
+    die bei der Berechnung des Gesamtkostenindikators nach Anhang VI der
     Delegierten Verordnung (EU) 2017/653 verwendet würde, und
-
 
 2.  die in diesem Gesamtkostenindikator enthaltene Kostenkomponente für
     das biometrische Risiko zu übernehmen, wenn das zugrunde liegende
     Produkt eine zumindest 90-prozentige Beteiligung an Risikoüberschüssen
     gewährleistet.
 
-
-
-Die jährliche Wertentwicklung vor Kosten kann durch einen angemessenen
-Schätzwert ersetzt werden, wenn der in Satz 2 genannte
+Die jährliche Wertentwicklung vor Kosten kann durch einen
+angemessenen Schätzwert ersetzt werden, wenn der in Satz 2 genannte
 Gesamtkostenindikator nicht zu berechnen ist. Die Sätze 1 bis 3 sind
-nicht anzuwenden auf Altersvorsorgeverträge und Basisrentenverträge im
-Sinne der §§ 1 und 2 des Altersvorsorgeverträge-
+nicht anzuwenden auf Altersvorsorgeverträge und Basisrentenverträge
+im Sinne der §§ 1 und 2 des Altersvorsorgeverträge-
 Zertifizierungsgesetzes.
 
 
 ## § 3 Informationspflichten bei der Krankenversicherung
 
-(1) Bei der substitutiven Krankenversicherung (§ 146 Absatz 1 des
-Versicherungsaufsichtsgesetzes) hat der Versicherer dem
-Versicherungsnehmer gemäß § 7 Abs. 1 Satz 1 des
+(1) Bei der substitutiven Krankenversicherung (§ 146 Absatz
+1 des Versicherungsaufsichtsgesetzes) hat der Versicherer
+dem Versicherungsnehmer gemäß § 7 Abs. 1 Satz 1 des
 Versicherungsvertragsgesetzes zusätzlich zu den in § 1 Abs. 1
 genannten Informationen folgende Informationen zur Verfügung zu
 stellen:
 
 1.  Angaben zur Höhe der in die Prämie einkalkulierten Kosten; dabei sind
-    die einkalkulierten Abschlusskosten als einheitlicher Gesamtbetrag und
-    die übrigen einkalkulierten Kosten als Anteil der Jahresprämie unter
-    Angabe der jeweiligen Laufzeit auszuweisen; bei den übrigen
+    die einkalkulierten Abschlusskosten als einheitlicher Gesamtbetrag
+    und die übrigen einkalkulierten Kosten als Anteil der Jahresprämie
+    unter Angabe der jeweiligen Laufzeit auszuweisen; bei den übrigen
     einkalkulierten Kosten sind die einkalkulierten Verwaltungskosten
     zusätzlich gesondert als Anteil der Jahresprämie unter Angabe der
     jeweiligen Laufzeit auszuweisen;
 
-
 2.  Angaben zu möglichen sonstigen Kosten, insbesondere zu Kosten, die
     einmalig oder aus besonderem Anlass entstehen können;
 
-
 3.  Angaben über die Auswirkungen steigender Krankheitskosten auf die
     zukünftige Beitragsentwicklung;
-
 
 4.  Hinweise auf die Möglichkeiten zur Beitragsbegrenzung im Alter,
     insbesondere auf die Möglichkeiten eines Wechsels in den Basistarif
@@ -342,17 +278,14 @@ stellen:
     Möglichkeit einer Prämienminderung gemäß § 152 Absatz 3 und 4 des
     Versicherungsaufsichtsgesetzes;
 
-
 5.  einen Hinweis, dass ein Wechsel von der privaten in die gesetzliche
     Krankenversicherung in fortgeschrittenem Alter in der Regel
     ausgeschlossen ist;
-
 
 6.  einen Hinweis, dass ein Wechsel innerhalb der privaten
     Krankenversicherung in fortgeschrittenem Alter mit höheren Beiträgen
     verbunden sein kann und gegebenenfalls auf einen Wechsel in den
     Basistarif beschränkt ist;
-
 
 7.  eine Übersicht über die Beitragsentwicklung im Zeitraum der dem
     Angebot vorangehenden zehn Jahre; anzugeben ist, welcher monatliche
@@ -367,9 +300,6 @@ stellen:
     ergänzend ist die Entwicklung eines vergleichbaren Tarifs, der bereits
     seit zehn Jahren besteht, darzustellen.
 
-
-
-
 (2) Die Angaben zu Absatz 1 Nr. 1, 2 und 7 haben in Euro zu erfolgen.
 
 
@@ -381,49 +311,49 @@ Verfügung zu stellen.
 
 (2) Das Informationsblatt zu Versicherungsprodukten ist nach der
 Durchführungsverordnung (EU) 2017/1469 der Kommission vom 11. August
-2017 zur Festlegung eines Standardformats für das Informationsblatt zu
-Versicherungsprodukten (ABl. L 209 vom 12.8.2017, S. 19) in ihrer
-jeweils geltenden Fassung zu erstellen; unter den Überschriften, die
-nach Artikel 4 Absatz 1 in Verbindung mit dem Anhang oder nach Absatz
-4 der Durchführungsverordnung zu verwenden sind, sind die
-entsprechenden Informationen zu geben. Zusätzlich sind bei
+2017 zur Festlegung eines Standardformats für das Informationsblatt
+zu Versicherungsprodukten (ABl. L 209 vom 12.8.2017, S. 19) in ihrer
+jeweils geltenden Fassung zu erstellen; unter den Überschriften,
+die nach Artikel 4 Absatz 1 in Verbindung mit dem Anhang oder
+nach Absatz 4 der Durchführungsverordnung zu verwenden sind, sind
+die entsprechenden Informationen zu geben. Zusätzlich sind bei
 Versicherungsprodukten, die kein Versicherungsprodukt im Sinne des
 Anhangs I der Richtlinie 2009/138/EG des Europäischen Parlaments und
 des Rates vom 25. November 2009 betreffend die Aufnahme und Ausübung
 der Versicherungs- und der Rückversicherungstätigkeit (Solvabilität
 II) (ABl. L 335 vom 17.12.2009, S. 1) sind, die Prämie, die Abschluss-
-und Vertriebskosten und die Verwaltungskosten (§ 2 Absatz 1 Nummer 1)
-sowie die sonstigen Kosten (§ 2 Absatz 1 Nummer 2) jeweils in Euro
-gesondert auszuweisen; die Information ist unter der Überschrift
+und Vertriebskosten und die Verwaltungskosten (§ 2 Absatz 1 Nummer
+1) sowie die sonstigen Kosten (§ 2 Absatz 1 Nummer 2) jeweils in
+Euro gesondert auszuweisen; die Information ist unter der Überschrift
 „Prämie; Kosten“ als letzte Information zu geben.
 
-(3) Diese Regelung gilt nicht für Versicherungsanlageprodukte im Sinne
-der Verordnung (EU) Nr. 1286/2014 des Europäischen Parlaments und des
-Rates vom 26. November 2014 über Basisinformationsblätter für
-verpackte Anlageprodukte für Kleinanleger und
-Versicherungsanlageprodukte (PRIIP) (ABl. L 352 vom 9.12.2014, S. 1; L
-358 vom 13.12.2014, S. 50), die zuletzt durch die Verordnung (EU)
-2019/1156 (ABl. L 188 vom 12.7.2019, S. 55) geändert worden ist, in
-der jeweils geltenden Fassung oder für Paneuropäische Private
-Pensionsprodukte im Sinne der Verordnung (EU) 2019/1238 des
-Europäischen Parlaments und des Rates vom 20. Juni 2019 über ein
-Paneuropäisches Privates Pensionsprodukt (PEPP) (ABl. L 198 vom
+(3) Diese Regelung gilt nicht für Versicherungsanlageprodukte im
+Sinne der Verordnung (EU) Nr. 1286/2014 des Europäischen Parlaments
+und des Rates vom 26. November 2014 über Basisinformationsblätter
+für verpackte Anlageprodukte für Kleinanleger und
+Versicherungsanlageprodukte (PRIIP) (ABl. L 352 vom 9.12.2014, S.
+1; L 358 vom 13.12.2014, S. 50), die zuletzt durch die Verordnung
+(EU) 2019/1156 (ABl. L 188 vom 12.7.2019, S. 55) geändert worden
+ist, in der jeweils geltenden Fassung oder für Paneuropäische
+Private Pensionsprodukte im Sinne der Verordnung (EU) 2019/1238
+des Europäischen Parlaments und des Rates vom 20. Juni 2019 über
+ein Paneuropäisches Privates Pensionsprodukt (PEPP) (ABl. L 198 vom
 25\.7.2019, S. 1) in der jeweils geltenden Fassung.
 
 
 ## § 5 Informationspflichten bei Telefongesprächen
 
 (1) Nimmt der Versicherer mit dem Versicherungsnehmer telefonischen
-Kontakt auf, muss er seine Identität und den geschäftlichen Zweck des
-Kontakts bereits zu Beginn eines jeden Gesprächs ausdrücklich
+Kontakt auf, muss er seine Identität und den geschäftlichen Zweck
+des Kontakts bereits zu Beginn eines jeden Gesprächs ausdrücklich
 offenlegen.
 
 (2) Bei Telefongesprächen hat der Versicherer dem Versicherungsnehmer
-aus diesem Anlass nur die Informationen nach § 1 Abs. 1 Nr. 1 bis 3, 6
-Buchstabe b, Nr. 7 bis 10 und 12 bis 14 mitzuteilen. Satz 1 gilt nur,
-wenn der Versicherer den Versicherungsnehmer darüber informiert hat,
-dass auf Wunsch weitere Informationen mitgeteilt werden können und
-welcher Art diese Informationen sind, und der Versicherungsnehmer
+aus diesem Anlass nur die Informationen nach § 1 Abs. 1 Nr. 1 bis 3,
+6 Buchstabe b, Nr. 7 bis 10 und 12 bis 14 mitzuteilen. Satz 1 gilt
+nur, wenn der Versicherer den Versicherungsnehmer darüber informiert
+hat, dass auf Wunsch weitere Informationen mitgeteilt werden können
+und welcher Art diese Informationen sind, und der Versicherungsnehmer
 ausdrücklich auf die Mitteilung der weiteren Informationen zu diesem
 Zeitpunkt verzichtet.
 
@@ -440,39 +370,34 @@ des Versicherungsvertrages folgende Informationen mitzuteilen:
     Versicherers und der etwaigen Niederlassung, über die der Vertrag
     abgeschlossen worden ist;
 
-
 2.  Änderungen bei den Angaben nach § 1 Abs. 1 Nr. 6 Buchstabe b, Nr. 7
     bis 9 und 14 sowie nach § 2 Abs. 1 Nr. 3 bis 7, sofern sie sich aus
     Änderungen von Rechtsvorschriften ergeben;
-
 
 3.  soweit nach dem Vertrag eine Überschussbeteiligung vorgesehen ist,
     alljährlich eine Information über den Stand der Überschussbeteiligung
     sowie Informationen darüber, inwieweit diese Überschussbeteiligung
     garantiert ist; dies gilt nicht für die Krankenversicherung.
 
-
-
-
-(2) Bei der substitutiven Krankenversicherung nach § 146 Absatz 1 des
-Versicherungsaufsichtsgesetzes hat der Versicherer bei jeder
+(2) Bei der substitutiven Krankenversicherung nach § 146 Absatz 1
+des Versicherungsaufsichtsgesetzes hat der Versicherer bei jeder
 Prämienerhöhung unter Beifügung des Textes der gesetzlichen Regelung
 auf die Möglichkeit des Tarifwechsels (Umstufung) gemäß § 204 des
-Versicherungsvertragsgesetzes hinzuweisen. Bei Versicherten, die das
-60\. Lebensjahr vollendet haben, ist der Versicherungsnehmer auf
+Versicherungsvertragsgesetzes hinzuweisen. Bei Versicherten, die
+das 60. Lebensjahr vollendet haben, ist der Versicherungsnehmer auf
 Tarife, die einen gleichartigen Versicherungsschutz wie die bisher
 vereinbarten Tarife bieten und bei denen eine Umstufung zu einer
 Prämienreduzierung führen würde, hinzuweisen. Der Hinweis muss solche
 Tarife enthalten, die bei verständiger Würdigung der Interessen des
 Versicherungsnehmers für eine Umstufung besonders in Betracht kommen.
-Zu den in Satz 2 genannten Tarifen zählen jedenfalls diejenigen Tarife
-mit Ausnahme des Basistarifs, die jeweils im abgelaufenen
+Zu den in Satz 2 genannten Tarifen zählen jedenfalls diejenigen
+Tarife mit Ausnahme des Basistarifs, die jeweils im abgelaufenen
 Geschäftsjahr den höchsten Neuzugang, gemessen an der Zahl der
 versicherten Personen, zu verzeichnen hatten. Insgesamt dürfen nicht
 mehr als zehn Tarife genannt werden. Dabei ist jeweils anzugeben,
 welche Prämien für die versicherten Personen im Falle eines Wechsels
-in den jeweiligen Tarif zu zahlen wären. Darüber hinaus ist auf die
-Möglichkeit eines Wechsels in den Standardtarif oder Basistarif
+in den jeweiligen Tarif zu zahlen wären. Darüber hinaus ist auf
+die Möglichkeit eines Wechsels in den Standardtarif oder Basistarif
 hinzuweisen. Dabei sind die Voraussetzungen des Wechsels in den
 Standardtarif oder Basistarif, die in diesem Falle zu entrichtende
 Prämie sowie die Möglichkeit einer Prämienminderung im Basistarif
@@ -485,9 +410,9 @@ dem 1. Januar 2013 ist der Übertragungswert jährlich mitzuteilen.
 ## § 7 Übergangsvorschrift
 
 Für Versicherungsprodukte, die weder Versicherungsanlageprodukt im
-Sinne der Verordnung (EU) Nr. 1286/2014 noch Versicherungsprodukt im
-Sinne des Anhangs I der Richtlinie 2009/138/EG sind, kann der
-Versicherer bis einschließlich 31. Dezember 2018 das
+Sinne der Verordnung (EU) Nr. 1286/2014 noch Versicherungsprodukt
+im Sinne des Anhangs I der Richtlinie 2009/138/EG sind, kann
+der Versicherer bis einschließlich 31. Dezember 2018 das
 Produktinformationsblatt nach § 4 in seiner bis 13. März 2018
 geltenden Fassung gestalten.
 

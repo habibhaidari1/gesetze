@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Festsetzung der Schleusenbetriebszeiten an den Bundeswasserstraßen
-  im Zuständigkeitsbereich der Wasser- und Schifffahrtsdirektion West
+Title: Verordnung über die Festsetzung der Schleusenbetriebszeiten an den Bundeswasserstraßen im Zuständigkeitsbereich der Wasser- und Schifffahrtsdirektion West
 jurabk: WaStrSchlBetrZV 2009
 layout: default
 origslug: wastrschlbetrzv_2009
@@ -45,21 +44,15 @@ sein. Der Antrag muss folgende Angaben enthalten:
 
 a)  den Namen des Antragstellers und des Schiffsführers,
 
-
 b)  den Namen oder die Bezeichnung des Fahrzeuges sowie bei Verbänden Ihre
     Art und Zusammenstellung,
 
-
 c)  die Angaben der Schleusen, die durchfahren werden sollen,
-
 
 d)  den Zeitpunkt des Eintreffens an den Schleusen.
 
-
-
-
-2\. Wird eine nach § 2 Abs. 1 erlaubte Fahrt nicht angetreten, ist das
-zuständige Wasser- und Schifffahrtsamt unverzüglich zu
+2\. Wird eine nach § 2 Abs. 1 erlaubte Fahrt nicht angetreten,
+ist das zuständige Wasser- und Schifffahrtsamt unverzüglich zu
 benachrichtigen. Wird eine nach § 2 Abs. 1 erlaubte Fahrt abgebrochen,
 ist die nächste noch nicht durchfahrende Schleuse unverzüglich zu
 benachrichtigen.

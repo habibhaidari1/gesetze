@@ -19,12 +19,11 @@ Geändert durch
 :   Art. 3 G v. 10.8.2021 I 3436
 
 
-
 ## Eingangsformel
 
-Auf Grund des § 9 Abs. 4 des Landwirtschafts-Altschuldengesetzes vom
-25\. Juni 2004 (BGBl. I S. 1383) verordnet das Bundesministerium der
-Finanzen im Einvernehmen mit dem Bundesministerium für
+Auf Grund des § 9 Abs. 4 des Landwirtschafts-Altschuldengesetzes
+vom 25. Juni 2004 (BGBl. I S. 1383) verordnet das Bundesministerium
+der Finanzen im Einvernehmen mit dem Bundesministerium für
 Verbraucherschutz, Ernährung und Landwirtschaft:
 
 
@@ -32,15 +31,15 @@ Verbraucherschutz, Ernährung und Landwirtschaft:
 
 (1) Die Angemessenheit der nach § 2 Abs. 5 des Landwirtschafts-
 Altschuldengesetzes absetzbaren Vergütungen, die ein Gesellschafter
-einer Personengesellschaft erhält, wird nach den Absätzen 2 bis 4
-bestimmt.
+einer *rechtsfähigen* Personengesellschaft erhält, wird nach den
+Absätzen 2 bis 4 bestimmt.
 
-(2) Vergütungen zugunsten eines Gesellschafters für seine Tätigkeit im
-Dienst der Gesellschaft gelten als angemessen, soweit sie dem
+(2) Vergütungen zugunsten eines Gesellschafters für seine Tätigkeit
+im Dienst der Gesellschaft gelten als angemessen, soweit sie dem
 tarifvertraglich festgelegten Lohn entsprechen. Vergütungen für nicht
-tarifvertraglich geregelte Tätigkeiten gelten als angemessen, wenn die
-Bruttojahresvergütung (einschließlich der Sonderzuwendungen, ohne
-Arbeitgeberanteile zur Sozialversicherung) 40.000 Euro nicht
+tarifvertraglich geregelte Tätigkeiten gelten als angemessen, wenn
+die Bruttojahresvergütung (einschließlich der Sonderzuwendungen,
+ohne Arbeitgeberanteile zur Sozialversicherung) 40.000 Euro nicht
 überschreitet. Höhere Vergütungen können als angemessen gelten, wenn
 die Gewinnsituation des Unternehmens dies rechtfertigt.
 
@@ -57,10 +56,10 @@ ortsübliche Pacht anzusetzen.
 ## § 2 Vorzulegende Unterlagen
 
 (1) Für den Antrag gemäß § 8 Abs. 1 des Landwirtschafts-
-Altschuldengesetzes einschließlich der nach dessen Absatz 2
-beizufügenden Unterlagen sind die im Anhang beigefügten Formulare zu
-verwenden. Der Antrag mit Anlagen und Bestätigung des
-Wirtschaftsprüfers (Wirtschaftsprüfer,
+Altschuldengesetzes einschließlich der nach dessen Absatz
+2 beizufügenden Unterlagen sind die im Anhang beigefügten
+Formulare zu verwenden. Der Antrag mit Anlagen und
+Bestätigung des Wirtschaftsprüfers (Wirtschaftsprüfer,
 Wirtschaftsprüfungsgesellschaft, gesetzlicher Prüfungsverband,
 vereidigter Buchprüfer, Buchprüfungsgesellschaft) ist in zweifacher
 Ausfertigung einzureichen. Sind mehrere Unternehmen gemeinsam
@@ -86,40 +85,40 @@ darüber getroffen werden, ob die Überleitung vom handelsrechtlichen
 Abschluss in die steuerrechtliche Ergänzungsrechnung auch unter
 Berücksichtigung der Ergebnisse der steuerlichen Betriebsprüfung
 plausibel ist. Soweit mehrere Unternehmen gemeinsam Kreditnehmer im
-Sinne von § 1 Abs. 2 des Landwirtschafts-Altschuldengesetzes sind und
-sie bisher für Zwecke der Rangrücktrittsvereinbarung geprüfte
+Sinne von § 1 Abs. 2 des Landwirtschafts-Altschuldengesetzes sind
+und sie bisher für Zwecke der Rangrücktrittsvereinbarung geprüfte
 konsolidierte Jahresabschlüsse vorgelegt haben, reicht dies abweichend
 von Absatz 1 Satz 3 für diese drei Geschäftsjahre aus.
 
-(3) Für das Geschäftsjahr, das im Jahr 2004 beginnt, und für die
-darauf folgenden vier Geschäftsjahre (Prognosezeitraum) ist die
-voraussichtliche Entwicklung des nach den einkommen- und
+(3) Für das Geschäftsjahr, das im Jahr 2004 beginnt, und für
+die darauf folgenden vier Geschäftsjahre (Prognosezeitraum) ist
+die voraussichtliche Entwicklung des nach den einkommen- und
 körperschaftsteuerrechtlichen Vorschriften ermittelten Gewinnes
-darzulegen. Der Antragsteller hat außerdem gemäß Anhang (Anlage 1) für
-jedes Geschäftsjahr des Prognosezeitraumes die Bemessungsgrundlage
+darzulegen. Der Antragsteller hat außerdem gemäß Anhang (Anlage 1)
+für jedes Geschäftsjahr des Prognosezeitraumes die Bemessungsgrundlage
 gemäß § 2 Abs. 1 bis 3 und 5 des Landwirtschafts-Altschuldengesetzes
-zu ermitteln. Die Vorschriften des § 2 Abs. 1 Satz 2 Nr. 1, 2, 4 und 5
-des Landwirtschafts-Altschuldengesetzes sind hierbei mit der Maßgabe
-anzuwenden, dass an die Stelle des 30. Juni 2004 der Beginn des
-Prognosezeitraumes tritt. Die Vorschriften des § 2 Abs. 1 Satz 2 Nr. 6
-bis 9 des Landwirtschafts-Altschuldengesetzes sind auch auf
+zu ermitteln. Die Vorschriften des § 2 Abs. 1 Satz 2 Nr. 1, 2, 4
+und 5 des Landwirtschafts-Altschuldengesetzes sind hierbei mit der
+Maßgabe anzuwenden, dass an die Stelle des 30. Juni 2004 der Beginn
+des Prognosezeitraumes tritt. Die Vorschriften des § 2 Abs. 1 Satz
+2 Nr. 6 bis 9 des Landwirtschafts-Altschuldengesetzes sind auch auf
 Wirtschaftsgüter des Anlagevermögens anzuwenden, die bereits vor dem
 Prognosezeitraum angeschafft oder eingelegt wurden. Ausgangswert für
 die in § 2 Abs. 1 des Landwirtschafts-Altschuldengesetzes vorgesehenen
 Absetzungen für Abnutzung in gleichen Jahresbeträgen ist der
 Restbuchwert zum Beginn des Prognosezeitraumes. Soweit sich aus der
 Absetzung für Abnutzung in gleichen Jahresbeträgen bei der Ermittlung
-der Bemessungsgrundlage in späteren Jahren des Prognosezeitraumes im
-Vergleich zur Bewertung nach einkommensteuerrechtlichen Regelungen
-eine Verminderung des Jahresüberschusses ergibt, kann diese
-berücksichtigt werden. Ist mit dem Kreditnehmer vereinbart,
+der Bemessungsgrundlage in späteren Jahren des Prognosezeitraumes
+im Vergleich zur Bewertung nach einkommensteuerrechtlichen
+Regelungen eine Verminderung des Jahresüberschusses ergibt, kann
+diese berücksichtigt werden. Ist mit dem Kreditnehmer vereinbart,
 pachtabhängige Zahlungen auf die Rangrücktrittsvereinbarung zu
-leisten, können für die Prognose gewinnabhängige Zahlungen gemäß der
-§§ 2 und 3 des Landwirtschafts-Altschuldengesetzes unterstellt werden;
-mindestens sind aber Abführungen in der Höhe anzusetzen, die sich nach
-der Vereinbarung ergeben hätten. Im Hinblick auf § 14 des
-Landwirtschafts-Altschuldengesetzes ist für das Geschäftsjahr, das im
-Jahr 2005 endet, zusätzlich auch die Bemessungsgrundlage nach den
+leisten, können für die Prognose gewinnabhängige Zahlungen gemäß
+der §§ 2 und 3 des Landwirtschafts-Altschuldengesetzes unterstellt
+werden; mindestens sind aber Abführungen in der Höhe anzusetzen, die
+sich nach der Vereinbarung ergeben hätten. Im Hinblick auf § 14 des
+Landwirtschafts-Altschuldengesetzes ist für das Geschäftsjahr, das
+im Jahr 2005 endet, zusätzlich auch die Bemessungsgrundlage nach den
 bisherigen Regelungen der Rangrücktrittsvereinbarung zu ermitteln.
 
 (4) Für den Prognosezeitraum und die letzten drei vor dem 1. Juli 2004
@@ -129,24 +128,24 @@ Anhang (Anlage 2) vorzulegen.
 (5) Die Finanz- und Liquiditätslage ist gemäß Anhang (Anlage 3)
 darzustellen.
 
-(6) Die vorzulegende Übersicht zu einzelnen Vermögenswerten nach § 8
-Abs. 2 Nr. 5 des Landwirtschafts-Altschuldengesetzes umfasst
-Grundstücke, grundstücksgleiche Rechte und Bauten einschließlich der
-Bauten auf fremden Grundstücken im Sinne des § 266 Abs. 2 Buchstabe A
-II. 1. des Handelsgesetzbuchs. Dabei sind sämtliche
+(6) Die vorzulegende Übersicht zu einzelnen Vermögenswerten nach
+§ 8 Abs. 2 Nr. 5 des Landwirtschafts-Altschuldengesetzes umfasst
+Grundstücke, grundstücksgleiche Rechte und Bauten einschließlich
+der Bauten auf fremden Grundstücken im Sinne des § 266 Abs. 2
+Buchstabe A II. 1. des Handelsgesetzbuchs. Dabei sind sämtliche
 Vermögensgegenstände, deren Verkehrswert zum Zeitpunkt der
 Antragstellung 10.000 Euro überschreitet, gemäß Anhang (Anlage 4.1)
-aufzulisten. Bei nicht betriebsnotwendigen Vermögensgegenständen ist
-der Verkehrswert zum Zeitpunkt der Antragstellung anzugeben. Nicht
-betriebsnotwendig sind Vermögenswerte, die am 1. Juli 2004 für den
-Unternehmenszweck nicht benötigt wurden, unabhängig davon, ob sie zum
-wirtschaftlichen Ergebnis beitragen. Als Verkehrswert ist der Wert
-anzusetzen, der im gewöhnlichen Geschäftsverkehr nach der
+aufzulisten. Bei nicht betriebsnotwendigen Vermögensgegenständen
+ist der Verkehrswert zum Zeitpunkt der Antragstellung anzugeben.
+Nicht betriebsnotwendig sind Vermögenswerte, die am 1. Juli 2004 für
+den Unternehmenszweck nicht benötigt wurden, unabhängig davon, ob
+sie zum wirtschaftlichen Ergebnis beitragen. Als Verkehrswert ist
+der Wert anzusetzen, der im gewöhnlichen Geschäftsverkehr nach der
 Beschaffenheit des Wirtschaftsgutes bei einer Veräußerung zu erzielen
 wäre.
 
-(7) Die seit dem Abschluss der Rangrücktrittsvereinbarung veräußerten
-Anlagegüter nach § 8 Abs. 2 Nr. 6 des Landwirtschafts-
+(7) Die seit dem Abschluss der Rangrücktrittsvereinbarung
+veräußerten Anlagegüter nach § 8 Abs. 2 Nr. 6 des Landwirtschafts-
 Altschuldengesetzes sind gemäß Anhang (Anlage 4.2) aufzulisten. Die
 Aufstellung beschränkt sich auf Grundstücke, grundstücksgleiche Rechte
 und Bauten einschließlich der Bauten auf fremden Grundstücken im Sinne
@@ -179,9 +178,9 @@ den Gesichtspunkt der Vollständigkeit einzugehen.
 ## § 3 Allgemeine Grundsätze zur Ermittlung des Ablösebetrages
 
 (1) Kreditnehmer haben für die Gesamtheit der in die
-Rangrücktrittsvereinbarung einbezogenen Unternehmen ein Ablöseangebot
-vorzulegen. Die in der Rangrücktrittsvereinbarung und in den
-gesonderten Verträgen, mit denen Unternehmen in die
+Rangrücktrittsvereinbarung einbezogenen Unternehmen ein
+Ablöseangebot vorzulegen. Die in der Rangrücktrittsvereinbarung
+und in den gesonderten Verträgen, mit denen Unternehmen in die
 Rangrücktrittsvereinbarung der Schuldner einbezogen wurden, hierzu
 getroffenen Regelungen zur Bedienung der Altschulden sind in
 entsprechender Weise auch auf die Ermittlung des Ablösebetrages
@@ -190,18 +189,18 @@ einbezogen sind, ist eine Ablösung nur möglich, wenn durch den
 Antragsteller nachgewiesen wird, dass der Gesamtablösebetrag nicht
 gemindert wird.
 
-(2) Der maßgebliche Zeitpunkt für die Berechnung des Barwertes der
-künftigen Zahlungen auf die Rangrücktrittsvereinbarung und des
-Mindestablösebetrages ist der 1. Januar 2005. Für die Berechnung des
-Zinssatzes nach § 7 Abs. 2 des Landwirtschafts-Altschuldengesetzes
-kann der Antragsteller davon ausgehen, dass der im Amtsblatt der
-Europäischen Union für Zwecke der gemeinschaftlichen Kontrolle
-staatlicher Beihilfen veröffentlichte Referenzzinssatz im Zeitraum
-zwischen Antragstellung und Ende der Antragsfrist gemäß § 8 Abs. 1
-Satz 1 des Landwirtschafts-Altschuldengesetzes unverändert bleibt.
-Nach Antragstellung sich ergebende Änderungen des
-Durchschnittszinssatzes und damit des Ablösebetrages werden bei
-Auflösung der Rangrücktrittsvereinbarung gemäß § 9 Abs. 3 des
+(2) Der maßgebliche Zeitpunkt für die Berechnung des Barwertes
+der künftigen Zahlungen auf die Rangrücktrittsvereinbarung
+und des Mindestablösebetrages ist der 1. Januar 2005. Für die
+Berechnung des Zinssatzes nach § 7 Abs. 2 des Landwirtschafts-
+Altschuldengesetzes kann der Antragsteller davon ausgehen, dass der
+im Amtsblatt der Europäischen Union für Zwecke der gemeinschaftlichen
+Kontrolle staatlicher Beihilfen veröffentlichte Referenzzinssatz
+im Zeitraum zwischen Antragstellung und Ende der Antragsfrist
+gemäß § 8 Abs. 1 Satz 1 des Landwirtschafts-Altschuldengesetzes
+unverändert bleibt. Nach Antragstellung sich ergebende Änderungen
+des Durchschnittszinssatzes und damit des Ablösebetrages werden
+bei Auflösung der Rangrücktrittsvereinbarung gemäß § 9 Abs. 3 des
 Landwirtschafts-Altschuldengesetzes entsprechend berücksichtigt. Eine
 Auflösung der Rangrücktrittsvereinbarung vor Ablauf der Antragsfrist
 setzt voraus, dass der Antragsteller auf eine entsprechende
@@ -219,22 +218,22 @@ zu verzinsen.
 (3) Der Barwert der zukünftigen Zahlungen auf die
 Rangrücktrittsvereinbarung setzt sich zusammen aus der Summe des
 Barwertes der Zahlungen aus Gewinn nach § 4, des Barwertes der
-Zahlungen aus der Veräußerung nicht betriebsnotwendigen Vermögens nach
-§ 5 und noch ausstehender Zahlungsverpflichtungen aus der
+Zahlungen aus der Veräußerung nicht betriebsnotwendigen Vermögens
+nach § 5 und noch ausstehender Zahlungsverpflichtungen aus der
 Rangrücktrittsvereinbarung gemäß § 6.
 
 
 ## § 4 Ermittlung des Barwertes der zukünftigen Zahlungen aus Gewinn
 
-(1) Für das Geschäftsjahr, das im Jahr 2005 endet, wird die bisherige
-Bemessungsgrundlage für die Zahlungen auf die
+(1) Für das Geschäftsjahr, das im Jahr 2005 endet, wird
+die bisherige Bemessungsgrundlage für die Zahlungen auf die
 Rangrücktrittsvereinbarung gemäß § 14 des Landwirtschafts-
 Altschuldengesetzes zugrunde gelegt.
 
 (2) Erstmalig für das Geschäftsjahr, das im Jahr 2006 endet, und für
-die Folgejahre wird als Bemessungsgrundlage für die Zahlungen auf die
-Rangrücktrittsvereinbarung der ungewichtete Durchschnitt der aus § 2
-des Landwirtschafts-Altschuldengesetzes jeweils resultierenden
+die Folgejahre wird als Bemessungsgrundlage für die Zahlungen auf
+die Rangrücktrittsvereinbarung der ungewichtete Durchschnitt der aus
+§ 2 des Landwirtschafts-Altschuldengesetzes jeweils resultierenden
 Bemessungsgrundlage des Prognosezeitraumes zugrunde gelegt. Eine
 Erhöhung der Bemessungsgrundlage nach § 2 Abs. 4 des Landwirtschafts-
 Altschuldengesetzes bleibt bei der Durchschnittsbildung
@@ -245,66 +244,41 @@ Abs. 2 des Landwirtschafts-Altschuldengesetzes und erzielen einzelne
 einbezogene Unternehmen im Durchschnitt des Prognosezeitraumes
 Verluste, ist davon auszugehen, dass der Kreditnehmer alle
 Anstrengungen unternimmt, um diese Verluste zukünftig zu reduzieren.
-In die Ermittlung der Bemessungsgrundlage fließen daher in diesen
-Fällen nur 25 vom Hundert des durchschnittlichen Verlustes dieser
-Unternehmen ein. Betreibt das Unternehmen im Wesentlichen
+In die Ermittlung der Bemessungsgrundlage fließen daher in
+diesen Fällen nur 25 vom Hundert des durchschnittlichen Verlustes
+dieser Unternehmen ein. Betreibt das Unternehmen im Wesentlichen
 Vermögensverwaltung, können die durchschnittlichen Verluste dieses
 Unternehmens zu 50 vom Hundert berücksichtigt werden.
 
 (4) Bei der Ermittlung des Ablösebetrages sind die für die
-Gewinnermittlung maßgeblichen neuen Rahmenbedingungen der Agrarreform
-in dem Prognosezeitraum zugrunde zu legen. Ergeben sich über den
-Prognosezeitraum hinaus aus der Umgestaltung der Beihilfegewährung bei
-einzelnen Unternehmen besonders gravierende Gewinnänderungen, kann
-dies berücksichtigt werden. Von einer besonders gravierenden
-Gewinnänderung ist auszugehen, wenn im Jahr 2013 der Wert der
-Zahlungsansprüche des Kreditnehmers nach § 6 Abs. 1 des
+Gewinnermittlung maßgeblichen neuen Rahmenbedingungen der
+Agrarreform in dem Prognosezeitraum zugrunde zu legen. Ergeben
+sich über den Prognosezeitraum hinaus aus der Umgestaltung der
+Beihilfegewährung bei einzelnen Unternehmen besonders gravierende
+Gewinnänderungen, kann dies berücksichtigt werden. Von einer besonders
+gravierenden Gewinnänderung ist auszugehen, wenn im Jahr 2013 der
+Wert der Zahlungsansprüche des Kreditnehmers nach § 6 Abs. 1 des
 Betriebsprämiendurchführungsgesetzes in der Fassung der Bekanntmachung
 vom 26. Juli 2004 (BGBl. I S. 1869) in der jeweils geltenden Fassung
 im Vergleich zu dem am 15. Mai 2006 zur Verfügung stehenden Wert der
 Zahlungsansprüche um mehr als 75 Euro pro Hektar abweichen, mindestens
-jedoch um 10 000 Euro pro Kreditnehmer. In diesen Fällen kann der nach
-den Absätzen 2 und 3 gebildete Durchschnitt um bis zu 50 vom Hundert
-der nach Satz 3 ermittelten Differenz korrigiert werden, jedoch
-höchstens bis zu 50 vom Hundert des nach den Absätzen 2 und 3
+jedoch um 10 000 Euro pro Kreditnehmer. In diesen Fällen kann der
+nach den Absätzen 2 und 3 gebildete Durchschnitt um bis zu 50 vom
+Hundert der nach Satz 3 ermittelten Differenz korrigiert werden,
+jedoch höchstens bis zu 50 vom Hundert des nach den Absätzen 2 und 3
 gebildeten Durchschnitts. Die insoweit korrigierte durchschnittliche
-Bemessungsgrundlage kann bei der Berechnung des Ablösebetrages ab dem
-Geschäftsjahr, das in 2012 endet, berücksichtigt werden. Für die
-Berechnung nach Satz 3 werden für das Jahr 2013 die folgenden
+Bemessungsgrundlage kann bei der Berechnung des Ablösebetrages ab
+dem Geschäftsjahr, das in 2012 endet, berücksichtigt werden. Für
+die Berechnung nach Satz 3 werden für das Jahr 2013 die folgenden
 kalkulatorischen Beträge zugrunde gelegt:
 
-*    *   Region
-
-    *   Kalkulatorischer Betrag für landwirtschaftliche Flächen in Euro je
-        Hektar
-
-
-*    *   Brandenburg und Berlin
-
-    *   293
-
-
-*    *   Mecklenburg-Vorpommern
-
-    *   322
-
-
-*    *   Sachsen
-
-    *   349
-
-
-*    *   Sachsen-Anhalt
-
-    *   341
-
-
-*    *   Thüringen
-
-    *   345
-
-
-
+| Region | Kalkulatorischer Betrag für landwirtschaftliche Flächen in Euro je Hektar |
+| --- | --- |
+| Brandenburg und Berlin | 293 |
+| Mecklenburg-Vorpommern | 322 |
+| Sachsen | 349 |
+| Sachsen-Anhalt | 341 |
+| Thüringen | 345 |
 
 (5) Auf die gemäß Absatz 1 bis 4 ermittelte Bemessungsgrundlage wird
 der jeweils geltende Abführungssatz (für das Geschäftsjahr, das im
@@ -315,16 +289,16 @@ vom Hundert vorgenommen.
 
 ## § 5 Ermittlung des Barwertes der zukünftigen Zahlungen aus der Veräußerung nicht betriebsnotwendigen Vermögens
 
-(1) Vermögenswerte werden zur Ermittlung des Ablösebetrages auf der
-Grundlage der entsprechenden Regelungen in der
+(1) Vermögenswerte werden zur Ermittlung des Ablösebetrages
+auf der Grundlage der entsprechenden Regelungen in der
 Rangrücktrittsvereinbarung und unter Berücksichtigung von § 4 des
 Landwirtschafts-Altschuldengesetzes herangezogen.
 
-(2) Für die Ermittlung des Barwertes der zukünftigen Zahlungen aus der
-Veräußerung nicht betriebsnotwendigen Vermögens wird bei Anlagegütern
-im Sinne des Anhangs (Anlage 4.3) unterstellt, dass der vom
-Kreditnehmer gemäß § 8 Abs. 2 Nr. 7 des Landwirtschafts-
-Altschuldengesetzes in Form eines unabhängigen
+(2) Für die Ermittlung des Barwertes der zukünftigen Zahlungen
+aus der Veräußerung nicht betriebsnotwendigen Vermögens wird
+bei Anlagegütern im Sinne des Anhangs (Anlage 4.3) unterstellt,
+dass der vom Kreditnehmer gemäß § 8 Abs. 2 Nr. 7 des
+Landwirtschafts-Altschuldengesetzes in Form eines unabhängigen
 Sachverständigengutachtens nachzuweisende aktuelle Verkehrswert im
 Jahr 2006 erlöst wird und die hierauf gemäß § 4 des Landwirtschafts-
 Altschuldengesetzes zu leistende Zahlung zum 31. Dezember 2006
@@ -366,8 +340,8 @@ Altschuldengesetzes, werden die Pauschalen für jedes Unternehmen
 berechnet.
 
 (3) Für die Barwertberechnung wird unterstellt, dass die Bankgebühren
-und Kosten der Abschlussprüfungen für den Zeitraum erspart werden, der
-erforderlich wäre, um bei entsprechenden Zahlungen nach der
+und Kosten der Abschlussprüfungen für den Zeitraum erspart werden,
+der erforderlich wäre, um bei entsprechenden Zahlungen nach der
 Rangrücktrittsvereinbarung die Altschulden abzutragen.
 
 (4) Zusätzlich zum Mindestablösebetrag sind die
@@ -376,67 +350,24 @@ Zahlungsverpflichtungen aus § 6 zu erfüllen.
 
 ## § 8 Barwertberechnung
 
-Der Barwert der zukünftigen Zahlungen entspricht der Summe der
-Barwerte der jährlichen Zahlungen für die Jahre 2005 bis
+Der Barwert der zukünftigen Zahlungen entspricht der Summe
+der Barwerte der jährlichen Zahlungen für die Jahre 2005 bis
 einschließlich zum Jahr der vollständigen Tilgung der Altschulden.
 Dabei wird unterstellt, dass die jährlichen Zahlungen auf die
-Rangrücktrittsvereinbarung am Ende des Kalenderjahres erfolgen, in dem
-das abzurechnende Geschäftsjahr endet. Der Barwert der einzelnen
+Rangrücktrittsvereinbarung am Ende des Kalenderjahres erfolgen, in
+dem das abzurechnende Geschäftsjahr endet. Der Barwert der einzelnen
 jährlichen Zahlung wird nach folgender Formel berechnet:
 
-*    *
-    *
-    *        ![bgbl1_2004_j2864_0010.jpg](bgbl1_2004_j2864_0010.jpg)
-    *
-
-*    *
-    *
-    *
-    *
-    *
-
-*    *   BW
-        L
-
-    *   =
-
-    *   Barwert der Zahlung im Kalenderjahr L
-
-    *
-
-*    *   B
-        L
-
-    *   =
-
-    *   Zahlung im Kalenderjahr L
-
-    *
-
-*    *   Z
-
-    *   =
-
-    *   EU-Referenzzinssatz in vom Hundert gemäß § 7 Abs. 2
-        des Landwirtschafts-Altschuldengesetzes in Verbindung
-        mit § 3 Abs. 2 Satz 2 und 3 dieser Verordnung
-
-    *
-
-*    *   L
-
-    *   =
-
-    *   Kalenderjahr
-
-    *
-
-
+| BWL | = | Barwert der Zahlung im Kalenderjahr L |  |
+| --- | --- | --- | --- |
+| BL | = | Zahlung im Kalenderjahr L |  |
+| Z | = | EU-Referenzzinssatz in vom Hundert gemäß § 7 Abs. 2 des Landwirtschafts-Altschuldengesetzes in Verbindung mit § 3 Abs. 2 Satz 2 und 3 dieser Verordnung |  |
+| L | = | Kalenderjahr |  |
 
 
 ## § 9 Verfahrensgrundsätze zur Bestimmung des Ablösebetrages
 
-   (1) Die Gläubigerbanken haben im Zusammenwirken mit der beauftragten
+(1) Die Gläubigerbanken haben im Zusammenwirken mit der beauftragten
 Stelle zu gewährleisten, dass die Prüfung der Angemessenheit des
 Ablöseangebotes des Kreditnehmers nach einheitlichen Kriterien
 erfolgt. Wesentlich zur Beurteilung der Angemessenheit des
@@ -445,9 +376,9 @@ Gegebenheiten des Kreditnehmers die dem Angebot zugrunde liegende
 Prognose der zukünftigen Ertragsentwicklung im Vergleich zur
 historischen Ertragsentwicklung und zur Entwicklung vergleichbarer
 Unternehmen der betreffenden Region realistisch ist. Hält der
-Kreditnehmer bei mehreren Banken Rangrücktrittsvereinbarungen, haben
-sich die jeweiligen Gläubigerbanken darüber zu verständigen, welche
-Bank die Antragsprüfung übernimmt und den Kreditnehmer vor
+Kreditnehmer bei mehreren Banken Rangrücktrittsvereinbarungen,
+haben sich die jeweiligen Gläubigerbanken darüber zu verständigen,
+welche Bank die Antragsprüfung übernimmt und den Kreditnehmer vor
 Antragstellung hierüber zu unterrichten. Es ist ausreichend, in diesen
 Fällen nur einen Antrag an die antragsprüfende Bank zu richten.
 
@@ -460,10 +391,10 @@ Stelle zu dem Ergebnis, dass das vorgelegte Angebot nicht angemessen
 ist, ist der Kreditnehmer unter Angabe von Gründen zur Nachbesserung
 aufzufordern.
 
-(4) Folgt der Kreditnehmer der Aufforderung nach Absatz 3 nicht oder
-ist auch das nachgebesserte Angebot nicht angemessen, bereitet die
-Gläubigerbank im Zusammenwirken mit der beauftragten Stelle ein
-Gegenangebot gemäß § 9 Abs. 2 Satz 1 des Landwirtschafts-
+(4) Folgt der Kreditnehmer der Aufforderung nach Absatz 3 nicht
+oder ist auch das nachgebesserte Angebot nicht angemessen, bereitet
+die Gläubigerbank im Zusammenwirken mit der beauftragten Stelle
+ein Gegenangebot gemäß § 9 Abs. 2 Satz 1 des Landwirtschafts-
 Altschuldengesetzes vor. Dieses Gegenangebot soll vor Zustellung
 zunächst mit dem Kreditnehmer erörtert werden.
 
@@ -488,6 +419,7 @@ Fundstelle: BGBl. I 2004, 2865 - 2869)
 
 (nicht darstellbare Vordrucke,
 Fundstelle: BGBl. I 2004, 2870 - 2876)
+
 "Seite 1 - Übersicht über Flächenausstattung und
 Hauptproduktionsrichtung, Seite 2 - Gewinnermittlung für den
 Prognosezeitraum,
@@ -536,8 +468,8 @@ Fundstelle: BGBl. I 2004, 2880)
 ## Anlage 4.3
 
 (... nicht darstellbarer Vordruck,
-"Noch nicht veräußerte Vermögenswerte aus Anlage 2 zur RRV gemäß § 8
-Abs. 2 Nr. 7 LwAltschG, sofern die Veräußerungspflicht nicht durch
+"Noch nicht veräußerte Vermögenswerte aus Anlage 2 zur RRV gemäß §
+8 Abs. 2 Nr. 7 LwAltschG, sofern die Veräußerungspflicht nicht durch
 vertragliche Vereinbarung mit der Bank erloschen ist"
 Fundstelle: BGBl. I 2004, 2881)
 
@@ -553,6 +485,7 @@ Fundstelle: BGBl. I 2004, 2882 - 2886)
 
 (... nicht darstellbare Vordrucke,
 Fundstelle: BGBl. I 2004, 2887 - 2893)
+
 "Seite 1 - Übersicht über Flächenausstattung und
 Hauptproduktionsrichtung,
 Seite 2 - Gewinnermittlung für den Prognosezeitraum,
@@ -601,8 +534,8 @@ Fundstelle: BGBl. I 2004, 2897)
 ## Anlage 4.3
 
 (... nicht darstellbarer Vordruck,
-"Noch nicht veräußerte Vermögenswerte aus Anlage 2 zur RRV gemäß § 8
-Abs. 2 Nr. 7 LwAltschG, sofern die Veräußerungspflicht nicht durch
+"Noch nicht veräußerte Vermögenswerte aus Anlage 2 zur RRV gemäß §
+8 Abs. 2 Nr. 7 LwAltschG, sofern die Veräußerungspflicht nicht durch
 vertragliche Vereinbarung mit der Bank erloschen ist"
 Fundstelle: BGBl. I 2004, 2898)
 

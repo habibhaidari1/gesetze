@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert
-  von 10 Euro (Gedenkmünze "100 Jahre Friedensnobelpreis - Bertha von Suttner")
+Title: "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze \"100 Jahre Friedensnobelpreis - Bertha von Suttner\")"
 jurabk: Münz10EuroBek 2005-09
 layout: default
 origslug: m_nz10eurobek_2005-09
@@ -17,18 +16,17 @@ Fundstelle
 :   BGBl I: 2005, 2973
 
 
-
 ## (XXXX)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
-I S. 2402) hat die Bundesregierung beschlossen, zur Würdigung des 100.
-Jahrestages der Verleihung des Friedensnobelpreises an Bertha von
+I S. 2402) hat die Bundesregierung beschlossen, zur Würdigung des
+100\. Jahrestages der Verleihung des Friedensnobelpreises an Bertha von
 Suttner eine deutsche Euro-Gedenkmünze im Nennwert von 10 Euro prägen
 zu lassen.
 Die Auflage der Münze beträgt 2.100.000 Stück, darunter 300.000 Stück
 in Spiegelglanzausführung. Die Prägung erfolgt durch die Staatlichen
-Münzen Baden-Württemberg, Prägestätte Stuttgart. Die Münze wird ab dem
-3\. November 2005 in den Verkehr gebracht. Sie besteht aus einer
+Münzen Baden-Württemberg, Prägestätte Stuttgart. Die Münze wird ab
+dem 3. November 2005 in den Verkehr gebracht. Sie besteht aus einer
 Legierung von 925 Tausendteilen Silber und 75 Tausendteilen Kupfer,
 hat einen Durchmesser von 32,5 Millimetern und eine Masse von 18
 Gramm. Das Gepräge auf beiden Seiten ist erhaben und wird von einem
@@ -57,4 +55,6 @@ Der Bundesminister der Finanzen
 ## (XXXX)
 
 (Fundstelle: BGBl. I 2005, 2973)
+
 ![bgbl1_2005_j2973_0010.jpg](bgbl1_2005_j2973_0010.jpg)
+

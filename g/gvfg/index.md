@@ -1,6 +1,5 @@
 ---
-Title: Gesetz über Finanzhilfen des Bundes zur Verbesserung der Verkehrsverhältnisse
-  der Gemeinden
+Title: Gesetz über Finanzhilfen des Bundes zur Verbesserung der Verkehrsverhältnisse der Gemeinden
 jurabk: GVFG
 layout: default
 origslug: gvfg
@@ -20,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 28.1.1988 I 100;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 6.3.2020 I 442
-
-Änderung durch
-:   Art. 323 V v. 19.6.2020 I 1328 (Nr. 29) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 323 V v. 19.6.2020 I 1328
 
 
 ## § 1 Finanzhilfen des Bundes
@@ -46,63 +42,45 @@ geführt werden:
     a)  Straßenbahnen, Hoch- und Untergrundbahnen sowie Bahnen besonderer
         Bauart,
 
-
     b)  nichtbundeseigenen Eisenbahnen,
-
 
     c)  Seilbahnsysteme, sofern die nach dem Beihilferecht der Europäischen
         Union zu beachtenden Voraussetzungen vorliegen,
 
-
-
-
-
-2.  Reaktivierung oder Elektrifizierung von Schienenstrecken; Tank- und
-    Ladeinfrastruktur für alternative Antriebe, sofern die nach dem
+2.  Reaktivierung oder Elektrifizierung von Schienenstrecken; Tank-
+    und Ladeinfrastruktur für alternative Antriebe, sofern die nach dem
     Beihilferecht der Europäischen Union zu beachtenden Voraussetzungen
     vorliegen, und
-
 
 3.  Investitionen in Schienenstrecken zur Kapazitätserhöhung der
     Verkehrsinfrastruktur.
 
-
-
-
-(2) Die Länder können zum Erreichen von Klimazielen befristet bis zum
-Jahr 2030 und nachrangig zu § 2 Absatz 1 folgende Vorhaben durch
+(2) Die Länder können zum Erreichen von Klimazielen befristet bis
+zum Jahr 2030 und nachrangig zu § 2 Absatz 1 folgende Vorhaben durch
 Zuwendungen aus den Finanzhilfen fördern, soweit sie dem öffentlichen
 Personennahverkehr dienen:
 
 1.  Bau und Ausbau von Bahnhöfen und Haltestellen des schienengebundenen
     öffentlichen Personennahverkehrs,
 
-
 2.  Bau und Ausbau von Umsteigeanlagen zum schienengebundenen öffentlichen
     Personennahverkehr in kommunaler Baulast (zum Beispiel Bau und Ausbau
     von zentralen Omnibusbahnhöfen), sofern sie Ladeinfrastrukturen für
     Kraftfahrzeuge mit alternativen Antrieben bereitstellen.
 
-
-
-
-(3) Die Länder können befristet bis zum Jahr 2030 und nachrangig zu §
-2 Absatz 1 folgende Vorhaben durch Zuwendungen aus den Finanzhilfen
+(3) Die Länder können befristet bis zum Jahr 2030 und nachrangig zu
+§ 2 Absatz 1 folgende Vorhaben durch Zuwendungen aus den Finanzhilfen
 fördern, soweit sie dem öffentlichen Personennahverkehr dienen,
 überwiegend auf besonderem Bahnkörper oder auf Streckenabschnitten,
 die eine Bevorrechtigung der Bahnen durch geeignete Bauformen
-beziehungsweise Fahrleitsysteme sicherstellen, geführt werden und die
-Länder nachweisen, dass die notwendigen Instandhaltungsmaßnahmen
+beziehungsweise Fahrleitsysteme sicherstellen, geführt werden und
+die Länder nachweisen, dass die notwendigen Instandhaltungsmaßnahmen
 vollumfänglich und ordnungsgemäß durchgeführt wurden:
 
 1.  Grunderneuerung von Verkehrswegen der Straßenbahnen, Hoch- und
     Untergrundbahnen sowie Bahnen besonderer Bauart, und
 
-
 2.  Grunderneuerung von Verkehrswegen der nichtbundeseigenen Eisenbahnen.
-
-
-
 
 
 ## § 3 Voraussetzungen der Förderung
@@ -115,37 +93,28 @@ Voraussetzung für die Förderung nach § 2 ist, daß
         erforderlich ist und die Ziele der Raumordnung und Landesplanung
         berücksichtigt,
 
-
     b)  in einem Nahverkehrsplan oder einem für die Beurteilung gleichwertigen
         Plan vorgesehen ist,
 
-
     c)  bau- und verkehrstechnisch einwandfrei und unter Beachtung des
-        Grundsatzes der Wirtschaftlichkeit und Sparsamkeit geplant ist; es
-        kann in besonderem Bundesinteresse liegen, bestimmte Kriterien im
-        Bewertungsverfahren vorhabenspezifisch stärker zu gewichten, zum
-        Beispiel Klima- und Umweltschutz, Verkehrsverlagerung oder Aspekte der
-        Daseinsvorsorge. Für Vorhaben nach § 2 Absatz 3 ist ein
+        Grundsatzes der Wirtschaftlichkeit und Sparsamkeit geplant ist;
+        es kann in besonderem Bundesinteresse liegen, bestimmte Kriterien
+        im Bewertungsverfahren vorhabenspezifisch stärker zu gewichten,
+        zum Beispiel Klima- und Umweltschutz, Verkehrsverlagerung oder
+        Aspekte der Daseinsvorsorge. Für Vorhaben nach § 2 Absatz 3 ist ein
         gesamtwirtschaftlicher Nachweis entbehrlich.
 
-
     d)  Belange behinderter und anderer Menschen mit
-        Mobilitätsbeeinträchtigung berücksichtigt und den Anforderungen der
-        Barrierefreiheit möglichst weitreichend entspricht. Bei der
+        Mobilitätsbeeinträchtigung berücksichtigt und den Anforderungen
+        der Barrierefreiheit möglichst weitreichend entspricht. Bei der
         Vorhabenplanung sind die zuständigen Behindertenbeauftragten oder
-        Behindertenbeiräte anzuhören. Verfügt eine Gebietskörperschaft nicht
-        über Behindertenbeauftragte oder Behindertenbeiräte sind stattdessen
-        die entsprechenden Verbände im Sinne des § 5 des
+        Behindertenbeiräte anzuhören. Verfügt eine Gebietskörperschaft
+        nicht über Behindertenbeauftragte oder Behindertenbeiräte sind
+        stattdessen die entsprechenden Verbände im Sinne des § 5 des
         Behindertengleichstellungsgesetzes anzuhören.
-
-
-
-
 
 2.  die übrige Finanzierung des Vorhabens oder eines Bauabschnittes des
     Vorhabens mit eigener Verkehrsbedeutung gewährleistet ist,
-
-
 
 3\. (weggefallen)
 
@@ -154,27 +123,22 @@ Voraussetzung für die Förderung nach § 2 ist, daß
 
 (1) Aus den Finanzhilfen des Bundes ist die Förderung zulässig für
 
-1.  Vorhaben nach § 2 Absatz 1 Nummer 1 und Nummer 3, nach § 11 Absatz 1
-    Satz 1 und nach § 11 Absatz 2 in Höhe von bis zu 75 Prozent der
+1.  Vorhaben nach § 2 Absatz 1 Nummer 1 und Nummer 3, nach § 11 Absatz
+    1 Satz 1 und nach § 11 Absatz 2 in Höhe von bis zu 75 Prozent der
     jeweils zuwendungsfähigen Kosten,
-
 
 2.  Vorhaben nach § 2 Absatz 1 Nummer 2 und nach § 11 Absatz 1 Satz 2 in
     Höhe von bis zu 90 Prozent der jeweils zuwendungsfähigen Kosten,
 
-
 3.  Vorhaben nach § 2 Absatz 2 in Höhe von bis zu 60 Prozent der jeweils
     zuwendungsfähigen Kosten und
-
 
 4.  Vorhaben nach § 2 Absatz 3 in Höhe von bis zu 50 Prozent der jeweils
     zuwendungsfähigen Kosten.
 
-
-
 In Fällen des § 3 Nummer 1 Buchstabe c zweiter Halbsatz ist die
-Förderung von Vorhaben nach § 2 Absatz 1 und nach § 11 Absatz 1 in
-Höhe von bis zu 60 Prozent der jeweils zuwendungsfähigen Kosten
+Förderung von Vorhaben nach § 2 Absatz 1 und nach § 11 Absatz 1
+in Höhe von bis zu 60 Prozent der jeweils zuwendungsfähigen Kosten
 zulässig.
 
 (2) Zuwendungsfähig sind die Kosten für das Vorhaben nach § 2. Beim
@@ -185,23 +149,14 @@ Grunderwerb sind nur die Gestehungskosten zuwendungsfähig.
 1.  Kosten, die ein anderer als der Träger des Vorhabens zu tragen
     verpflichtet ist,
 
-
 2.  Verwaltungskosten,
-
 
 3.  Kosten für den Erwerb solcher Grundstücke und Grundstücksteile, die
 
     a)  nicht unmittelbar oder nicht dauernd für das Vorhaben benötigt werden,
         es sei denn, daß sie nicht nutzbar sind,
 
-
     b)  vor dem 1. Januar 1961 erworben worden sind.
-
-
-
-
-
-
 
 (4) Abweichend von Absatz 3 Nummer 2 sind bei Vorhaben nach § 2 Absatz
 1 und nach § 11 Planungskosten zuwendungsfähig in Höhe von 10 Prozent
@@ -217,11 +172,11 @@ sind Programme für den Zeitraum der jeweiligen Finanzplanung
 aufzustellen sowie jährlich der Entwicklung anzupassen und
 fortzuführen.
 
-(2) In die Programme dürfen Vorhaben nur aufgenommen werden, wenn die
-Voraussetzungen des § 3 vorliegen oder voraussichtlich im Zeitpunkt
-der Förderung vorliegen werden. Für jedes Vorhaben sind die
-voraussichtlichen Gesamtkosten, die zuwendungsfähigen Kosten und die
-vorgesehenen Jahresraten der Zuwendungen aus den Finanzhilfen
+(2) In die Programme dürfen Vorhaben nur aufgenommen werden, wenn
+die Voraussetzungen des § 3 vorliegen oder voraussichtlich im
+Zeitpunkt der Förderung vorliegen werden. Für jedes Vorhaben sind
+die voraussichtlichen Gesamtkosten, die zuwendungsfähigen Kosten und
+die vorgesehenen Jahresraten der Zuwendungen aus den Finanzhilfen
 aufzunehmen.
 
 (3) Die Programme sind abzustellen auf die voraussichtlich zur
@@ -235,26 +190,22 @@ aufgenommen werden.
 stellt auf Grund von Vorschlägen der Länder und im Benehmen mit ihnen
 Programme auf für
 
-1.  Vorhaben nach § 2 Absatz 1 Nummer 1, deren zuwendungsfähige Kosten 30
-    Millionen Euro überschreiten, die Zusammenfassung gleichartiger
+1.  Vorhaben nach § 2 Absatz 1 Nummer 1, deren zuwendungsfähige Kosten
+    30 Millionen Euro überschreiten, die Zusammenfassung gleichartiger
     Fördertatbestände ist möglich,
 
-
-2.  Vorhaben nach § 2 Absatz 1 Nummer 2 und Nummer 3 sowie nach § 2 Absatz
-    2 und Absatz 3, deren zuwendungsfähige Kosten 10 Millionen Euro
-    überschreiten, die Zusammenfassung gleichartiger Fördertatbestände ist
-    möglich.
-
-
-
+2.  Vorhaben nach § 2 Absatz 1 Nummer 2 und Nummer 3 sowie nach § 2
+    Absatz 2 und Absatz 3, deren zuwendungsfähige Kosten 10 Millionen Euro
+    überschreiten, die Zusammenfassung gleichartiger Fördertatbestände
+    ist möglich.
 
 (2) Vorhaben, die in die Programme aufgenommen werden sollen, sind
 zuvor mit städtebaulichen Maßnahmen, die mit ihnen zusammenhängen,
 abzustimmen.
 
-(3) Die Länder übermitteln dem Bundesministerium für Verkehr und
-digitale Infrastruktur Planungsunterlagen, soweit dies für die
-Entscheidung über die Aufnahme der Vorhaben in die Programme
+(3) Die Länder übermitteln dem Bundesministerium für Verkehr
+und digitale Infrastruktur Planungsunterlagen, soweit dies für
+die Entscheidung über die Aufnahme der Vorhaben in die Programme
 erforderlich ist.
 
 (4) Die Absätze 1 bis 3 gelten auch für die Anpassung und Fortführung
@@ -273,7 +224,6 @@ Programme aufgenommen sind.
 ## § 8 (weggefallen)
 
 
-
 ## § 9 Vereinfachter Verwendungsnachweis
 
 (1) Die Länder weisen dem Bundesministerium für Verkehr und digitale
@@ -282,20 +232,14 @@ Verwendung der Finanzhilfen nach durch Mitteilung
 
 1.  der geförderten Vorhaben,
 
-
 2.  der Summe der für die geförderten Vorhaben jeweils angefallenen
     zuwendungsfähigen Kosten sowie
-
 
 3.  der Summe der aus den Finanzhilfen jeweils ausgezahlten Zuwendungen,
     und
 
-
 4.  der zweckentsprechenden Verwendung der ausgezahlten Zuwendungen und
     des Ergebnisses des jeweiligen Schlussverwendungsnachweises.
-
-
-
 
 (2) Ein weitergehender Verwendungsnachweis der Länder entfällt.
 
@@ -308,21 +252,17 @@ Verfügung:
 
 1.  im Jahr 2020 insgesamt 665,134 Millionen Euro,
 
+2.  in den Jahren 2021 bis 2024 jährlich 1 000 Millionen Euro und
 
-2.  in den Jahren 2021 bis 2024 jährlich 1 000 Millionen Euro und
-
-
-3.  im Jahr 2025 jährlich 2 000 Millionen Euro.
-
-
+3.  im Jahr 2025 jährlich 2 000 Millionen Euro.
 
 Der Betrag nach Nummer 3 steigt ab dem Jahr 2026 jährlich um 1,8
 Prozent.
 
 (2) Für Forschungszwecke steht dem Bundesministerium für Verkehr und
-digitale Infrastruktur neben den Mitteln nach Absatz 1 ein Betrag von
-jährlich 4,167 Millionen Euro zur Verfügung. Dieser Betrag kann, zu
-Lasten der Mittel nach Absatz 1, auf bis zu 8,334 Millionen Euro
+digitale Infrastruktur neben den Mitteln nach Absatz 1 ein Betrag
+von jährlich 4,167 Millionen Euro zur Verfügung. Dieser Betrag kann,
+zu Lasten der Mittel nach Absatz 1, auf bis zu 8,334 Millionen Euro
 jährlich erhöht werden.
 
 (3) (weggefallen)
@@ -343,15 +283,15 @@ Vorhaben der Grunderneuerung sind ausgeschlossen. Die §§ 2, 3, 4, 9
 und 10 Absatz 1 sowie die §§ 12 und 14 gelten sinngemäß. Für Anlagen
 vorhandener S-Bahnen gilt auch § 2 Abs. 3.
 
-(2) Bei Investitionen in Nahverkehrsvorhaben, die Bestandteil des
-Ausbauumfangs von Großknotenprojekten oder Maßnahmen für den
-Deutschlandtakt gemäß der Anlage zu § 1 des
+(2) Bei Investitionen in Nahverkehrsvorhaben, die Bestandteil
+des Ausbauumfangs von Großknotenprojekten oder Maßnahmen
+für den Deutschlandtakt gemäß der Anlage zu § 1 des
 Bundesschienenwegeausbaugesetzes sind und im Rahmen des
 Bundesverkehrswegeplans positiv bewertet worden sind, ist die
 Förderung von bis zu 75 Prozent der zuwendungsfähigen Kosten zulässig.
-Die §§ 3 und 4 Absatz 2 bis 4, die §§ 9 und 10 Absatz 1 sowie die §§
-12 und 14 gelten sinngemäß. Die Voraussetzungen gemäß § 3 Nummer 1
-Buchstabe b und gemäß § 3 Nummer 1 Buchstabe c bezüglich der
+Die §§ 3 und 4 Absatz 2 bis 4, die §§ 9 und 10 Absatz 1 sowie die
+§§ 12 und 14 gelten sinngemäß. Die Voraussetzungen gemäß § 3 Nummer
+1 Buchstabe b und gemäß § 3 Nummer 1 Buchstabe c bezüglich der
 Wirtschaftlichkeit und Sparsamkeit sowie die Voraussetzung gemäß § 3
 Nummer 2 gelten als erfüllt.
 
@@ -362,19 +302,19 @@ Zustimmung des beteiligten Landes.
 ## § 12 Öffentliche Schutzräume
 
 (1) Das Bundesministerium des Innern, für Bau und Heimat kann den
-Träger einer unterirdischen Verkehrsanlage, die in das Programm nach §
-6 Abs. 1 aufgenommen ist, auffordern, in der Verkehrsanlage
+Träger einer unterirdischen Verkehrsanlage, die in das Programm
+nach § 6 Abs. 1 aufgenommen ist, auffordern, in der Verkehrsanlage
 öffentliche Schutzräume einzurichten, wenn der Bund die entstehenden
 Mehrkosten trägt.
 
 (2) Die Aufforderung nach Absatz 1 muß innerhalb eines Jahres nach
 Mitteilung des Programms ausgesprochen werden, in dem das Vorhaben
-erstmals ausgewiesen ist. Die Frist verkürzt sich auf ein halbes Jahr,
-wenn mit dem Vorhaben innerhalb der nächsten zwei Jahre begonnen
+erstmals ausgewiesen ist. Die Frist verkürzt sich auf ein halbes
+Jahr, wenn mit dem Vorhaben innerhalb der nächsten zwei Jahre begonnen
 werden soll.
 
-(3) Falls die Aufforderung rechtzeitig ergeht, darf das Vorhaben mit
-Zuwendungen oder Investitionszuschüssen nach diesem Gesetz nur
+(3) Falls die Aufforderung rechtzeitig ergeht, darf das Vorhaben
+mit Zuwendungen oder Investitionszuschüssen nach diesem Gesetz nur
 gefördert werden, wenn der Träger des Vorhabens der Aufforderung
 nachkommt.
 
@@ -418,7 +358,6 @@ Regelungen anzuwenden.
 
 
 ## § 15 (weggefallen)
-
 
 
 ## § 16

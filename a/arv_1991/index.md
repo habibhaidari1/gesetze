@@ -34,9 +34,9 @@ ist, gelten die Vorschriften des Bundesreisekostengesetzes.
 
 (2) Auslandsdienstreisen der Bundesbeamten, in den Bundesdienst
 abgeordneten anderen Beamten sowie der Soldaten bedürfen der
-schriftlichen oder elektronischen Anordnung oder Genehmigung durch die
-oberste Dienstbehörde oder die von ihr ermächtigte Behörde, es sei
-denn, daß eine Anordnung oder Genehmigung nach dem Amt des
+schriftlichen oder elektronischen Anordnung oder Genehmigung durch
+die oberste Dienstbehörde oder die von ihr ermächtigte Behörde,
+es sei denn, daß eine Anordnung oder Genehmigung nach dem Amt des
 Auslandsdienstreisenden oder dem Wesen des Dienstgeschäfts nicht in
 Betracht kommt.
 
@@ -46,9 +46,9 @@ Betracht kommt.
 (1) Bei Bahnreisen werden die Kosten für das Benutzen der ersten
 Klasse erstattet. Abweichend von Satz 1 werden bei Reisen innerhalb
 der Europäischen Union, zwischen der Europäischen Union und der
-Schweiz, Liechtenstein, Norwegen und dem Vereinigten Königreich sowie
-innerhalb und zwischen den genannten Staaten Fahrtkosten für das
-Benutzen der ersten Klasse erst ab einer Fahrzeit von 2 Stunden
+Schweiz, Liechtenstein, Norwegen und dem Vereinigten Königreich
+sowie innerhalb und zwischen den genannten Staaten Fahrtkosten für
+das Benutzen der ersten Klasse erst ab einer Fahrzeit von 2 Stunden
 erstattet.
 
 (2) Die Kosten für das Benutzen der niedrigsten Beförderungsklasse
@@ -56,13 +56,10 @@ werden erstattet bei
 
 1.  Flugreisen innerhalb Europas (Anlage) oder
 
-
 2.  Flugreisen mit einer reinen Flugzeit von weniger als 4 Stunden.
 
-
-
-Ab einer reinen Flugzeit von 4 Stunden können die Kosten einer höheren
-Beförderungsklasse erstattet werden, sofern es sich nicht um
+Ab einer reinen Flugzeit von 4 Stunden können die Kosten einer
+höheren Beförderungsklasse erstattet werden, sofern es sich nicht um
 Flugreisen nach Satz 1 Nummer 1 handelt. Für besondere dienstliche und
 persönliche Ausnahmefälle kann die oberste Dienstbehörde oder die von
 ihr ermächtigte Behörde eine von Satz 1 abweichende Regelung treffen.
@@ -73,19 +70,19 @@ Benutzen einer Zwei-Bett-Kabine im Zwischen- oder Oberdeck erstattet.
 
 ## § 3 Auslandstagegeld, Auslandsübernachtungsgeld
 
-(1) Die Auslandstage- und Auslandsübernachtungsgelder werden für
-Auslandsdienstreisen mit einer Abwesenheit von 24 Stunden in Höhe der
-Beträge gezahlt, die auf Grund von Erhebungen durch allgemeine
-Verwaltungsvorschriften nach § 16 des Bundesreisekostengesetzes
-festgesetzt und im Gemeinsamen Ministerialblatt veröffentlicht werden.
-In den Fällen des § 9 Absatz 4a Satz 3 Nummer 2 und 3 des
-Einkommensteuergesetzes beträgt das Auslandstagegeld jeweils 80
-Prozent des Auslandstagegeldes nach Satz 1; bei mehreren
-Auslandsdienstreisen an einem Kalendertag werden die
-Abwesenheitszeiten an diesem Tag addiert. In begründeten
-Ausnahmefällen kann von Satz 1 hinsichtlich des
-Auslandsübernachtungsgeldes abgewichen werden, wenn die nachgewiesenen
-notwendigen Übernachtungskosten das jeweilige
+(1) Die Auslandstage- und Auslandsübernachtungsgelder werden
+für Auslandsdienstreisen mit einer Abwesenheit von 24 Stunden
+in Höhe der Beträge gezahlt, die auf Grund von Erhebungen
+durch allgemeine Verwaltungsvorschriften nach § 16 des
+Bundesreisekostengesetzes festgesetzt und im Gemeinsamen
+Ministerialblatt veröffentlicht werden. In den Fällen des § 9
+Absatz 4a Satz 3 Nummer 2 und 3 des Einkommensteuergesetzes beträgt
+das Auslandstagegeld jeweils 80 Prozent des Auslandstagegeldes
+nach Satz 1; bei mehreren Auslandsdienstreisen an einem
+Kalendertag werden die Abwesenheitszeiten an diesem Tag addiert.
+In begründeten Ausnahmefällen kann von Satz 1 hinsichtlich
+des Auslandsübernachtungsgeldes abgewichen werden, wenn die
+nachgewiesenen notwendigen Übernachtungskosten das jeweilige
 Auslandsübernachtungsgeld übersteigen.
 
 (2) Für die in den allgemeinen Verwaltungsvorschriften nach Absatz 1
@@ -129,19 +126,19 @@ besondere Auslandstage- und Auslandsübernachtungsgelder nach § 3 Abs.
 
 (1) Dauert der Aufenthalt an demselben ausländischen Geschäftsort ohne
 Hin- und Rückreisetage länger als 14 Tage, ist das Auslandstagegeld
-nach § 3 Abs. 1 und 2 vom 15. Tage an um 10 vom Hundert zu ermäßigen.
-Die oberste Dienstbehörde kann abweichend von Satz 1 in begründeten
-Ausnahmefällen von der Ermäßigung absehen. Reisebeihilfen für
-Heimfahrten werden in entsprechender Anwendung des § 13 der
+nach § 3 Abs. 1 und 2 vom 15. Tage an um 10 vom Hundert zu
+ermäßigen. Die oberste Dienstbehörde kann abweichend von Satz 1 in
+begründeten Ausnahmefällen von der Ermäßigung absehen. Reisebeihilfen
+für Heimfahrten werden in entsprechender Anwendung des § 13 der
 Auslandstrennungsgeldverordnung gezahlt; an die Stelle des Dienstortes
 tritt der Geschäftsort.
 
-(2) Bei Auslandsdienstreisen mit mehr als 5 Tagen Aufenthalt am
-ausländischen Geschäftsort in einer Klimazone mit einem vom
-mitteleuropäischen erheblich abweichenden Klima werden die Kosten für
-das Beschaffen klimagerechter Bekleidung bis zur Höhe von 12,6 Prozent
-des Endgrundgehaltes der Besoldungsgruppe A 13 nach Anlage IV des
-Bundesbesoldungsgesetzes erstattet. § 21 Absatz 3 und 4 der
+(2) Bei Auslandsdienstreisen mit mehr als 5 Tagen Aufenthalt
+am ausländischen Geschäftsort in einer Klimazone mit einem vom
+mitteleuropäischen erheblich abweichenden Klima werden die Kosten
+für das Beschaffen klimagerechter Bekleidung bis zur Höhe von 12,6
+Prozent des Endgrundgehaltes der Besoldungsgruppe A 13 nach Anlage
+IV des Bundesbesoldungsgesetzes erstattet. § 21 Absatz 3 und 4 der
 Auslandsumzugskostenverordnung ist entsprechend anzuwenden, es sei
 denn, dass aus jahreszeitlichen Gründen klimagerechte Bekleidung nicht
 beschafft zu werden braucht.
@@ -153,14 +150,14 @@ erstattet.
 
 ## § 6 Erkrankung während der Auslandsdienstreise
 
-Erkrankt ein Auslandsdienstreisender und kann er deswegen nicht an
-seinen Wohnort zurückkehren, wird Reisekostenvergütung weitergezahlt.
-Wird er in ein nicht am Wohnort oder in dessen Nähe gelegenes
-Krankenhaus aufgenommen, erhält er für jeden vollen Kalendertag des
-Krankenhausaufenthaltes nur Ersatz der notwendigen Auslagen für die
-Unterkunft am Geschäftsort; bei Aufnahme in ein ausländisches
-Krankenhaus erhält er darüber hinaus 10 vom Hundert des
-Auslandstagegeldes nach § 3 Abs. 1 und 2, bei Aufnahme in ein
+Erkrankt ein Auslandsdienstreisender und kann er deswegen
+nicht an seinen Wohnort zurückkehren, wird Reisekostenvergütung
+weitergezahlt. Wird er in ein nicht am Wohnort oder in dessen
+Nähe gelegenes Krankenhaus aufgenommen, erhält er für jeden vollen
+Kalendertag des Krankenhausaufenthaltes nur Ersatz der notwendigen
+Auslagen für die Unterkunft am Geschäftsort; bei Aufnahme in ein
+ausländisches Krankenhaus erhält er darüber hinaus 10 vom Hundert
+des Auslandstagegeldes nach § 3 Abs. 1 und 2, bei Aufnahme in ein
 inländisches Krankenhaus 10 vom Hundert des Tagegeldes nach § 6 Absatz
 1 Satz 1 und 2 des Bundesreisekostengesetzes in Verbindung mit § 9
 Absatz 4a Satz 2 und 3 Nummer 1 des Einkommensteuergesetzes.
@@ -169,174 +166,59 @@ Absatz 4a Satz 2 und 3 Nummer 1 des Einkommensteuergesetzes.
 ## (XXXX)§§ 7 und 8 (weggefallen)
 
 
-(zu § 2 Absatz 2 Satz 1 Nummer 1)
-
-## Anlage Liste der Staaten Europas
+## Anlage (zu § 2 Absatz 2 Satz 1 Nummer 1)Liste der Staaten Europas
 
 (Fundestelle: BGBl. I 2021, 661)
 
 Zu Europa im Sinne des § 2 Absatz 2 Satz 1 Nummer 1 gehören die
 folgenden Staaten:
 
+| Albanien |
+| --- |
+| Andorra |
+| Belgien |
+| Bosnien und Herzegowina |
+| Bulgarien |
+| Dänemark |
+| Deutschland |
+| Estland |
+| Finnland |
+| Frankreich |
+| Griechenland |
+| Irland |
+| Island |
+| Italien |
+| Kasachstan |
+| Kosovo |
+| Kroatien |
+| Lettland |
+| Liechtenstein |
+| Litauen |
+| Luxemburg |
+| Malta |
+| Republik Moldau |
+| Monaco |
+| Montenegro |
+| Niederlande |
+| Nordmazedonien |
+| Norwegen |
+| Österreich |
+| Polen |
+| Portugal |
+| Rumänien |
+| Russische Föderation |
+| San Marino |
+| Schweden |
+| Schweiz |
+| Serbien |
+| Slowakei |
+| Slowenien |
+| Spanien |
+| Tschechien |
+| Türkei |
+| Ukraine |
+| Ungarn |
+| Vatikanstadt |
+| Vereinigtes Königreich |
+| Weißrussland |
 
-*    *   Albanien
-
-
-*    *   Andorra
-
-
-*    *   Belgien
-
-
-*    *   Bosnien und Herzegowina
-
-
-*    *   Bulgarien
-
-
-*    *[^F815836_01_BJNR011400991BJNE008100360]
-   Dänemark
-
-
-*    *   Deutschland
-
-
-*    *   Estland
-
-
-*    *   Finnland
-
-
-*    *[^F815836_02_BJNR011400991BJNE008100360]
-   Frankreich
-
-
-*    *   Griechenland
-
-
-*    *   Irland
-
-
-*    *   Island
-
-
-*    *[^F815836_03_BJNR011400991BJNE008100360]
-   Italien
-
-
-*    *[^F815836_04_BJNR011400991BJNE008100360]
-   Kasachstan
-
-
-*    *   Kosovo
-
-
-*    *   Kroatien
-
-
-*    *   Lettland
-
-
-*    *   Liechtenstein
-
-
-*    *   Litauen
-
-
-*    *   Luxemburg
-
-
-*    *   Malta
-
-
-*    *   Republik Moldau
-
-
-*    *   Monaco
-
-
-*    *   Montenegro
-
-
-*    *   Niederlande
-
-
-*    *   Nordmazedonien
-
-
-*    *   Norwegen
-
-
-*    *   Österreich
-
-
-*    *   Polen
-
-
-*    *[^F815836_05_BJNR011400991BJNE008100360]
-   Portugal
-
-
-*    *   Rumänien
-
-
-*    *[^F815836_06_BJNR011400991BJNE008100360]
-   Russische Föderation
-
-
-*    *   San Marino
-
-
-*    *   Schweden
-
-
-*    *   Schweiz
-
-
-*    *   Serbien
-
-
-*    *   Slowakei
-
-
-*    *   Slowenien
-
-
-*    *[^F815836_07_BJNR011400991BJNE008100360]
-   Spanien
-
-
-*    *   Tschechien
-
-
-*    *   Türkei
-
-
-*    *   Ukraine
-
-
-*    *   Ungarn
-
-
-*    *   Vatikanstadt
-
-
-*    *   Vereinigtes Königreich
-
-
-*    *   Weißrussland
-
-
-
-
-    Ohne Grönland.
-[^F815836_01_BJNR011400991BJNE008100360]:     Ohne Überseegebiete.
-[^F815836_02_BJNR011400991BJNE008100360]:     Ohne Pelagische Inseln.
-[^F815836_03_BJNR011400991BJNE008100360]:     Staatsgebiet auf dem europäischen Kontinent.
-[^F815836_04_BJNR011400991BJNE008100360]:     Ohne Azoren und Madeira.
-[^F815836_05_BJNR011400991BJNE008100360]:     Staatsgebiet westlich der traditionellen Grenze, die entlang des
-    Urals, an der Grenze zu Kasachstan über das Kaspische Meer und von
-    dort entlang der Staatsgrenzen zu Aserbaidschan und Georgien sowie des
-    Nordkaukasus zum Schwarzen Meer verläuft.
-[^F815836_06_BJNR011400991BJNE008100360]:     Einschließlich Balearen, ohne Kanaren.
-[^F815836_07_BJNR011400991BJNE008100360]: 

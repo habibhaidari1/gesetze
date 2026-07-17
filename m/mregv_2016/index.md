@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2016, 1850
 
 Zuletzt geändert durch
-:   Art. 2 V v. 28.9.2021 I 4619
+:   Art. 35 G v. 2.3.2023 I Nr. 56
 
 
 ## § 1 Anwendungsbereich
@@ -27,18 +27,13 @@ Diese Verordnung regelt
     Registrierung von Anbietern mautdienstbezogener Leistungen nach § 5
     des Mautsystemgesetzes,
 
-
 2.  die regelmäßige Überprüfung der Registrierungsvoraussetzungen nach § 7
     Absatz 2 des Mautsystemgesetzes und
-
 
 3.  die Gebühren und Auslagen für individuell zurechenbare öffentliche
     Leistungen im Zusammenhang mit der Registrierung und der regelmäßigen
     Überprüfung der Voraussetzungen für die Registrierung nach § 8 des
     Mautsystemgesetzes.
-
-
-
 
 
 ## § 2 Unterlagen und Bescheinigungen
@@ -53,9 +48,9 @@ die deutsche Sprache vorzulegen.
 
 ## § 3 Sitz oder ständige Niederlassung
 
-Der Antragsteller hat das Erfüllen der Voraussetzung des § 5 Nummer 1
-des Mautsystemgesetzes durch einen gültigen Auszug aus dem
-Handelsregister nachzuweisen. Der Auszug darf zum Zeitpunkt der
+Der Antragsteller hat das Erfüllen der Voraussetzung des § 5
+Nummer 1 des Mautsystemgesetzes durch einen gültigen Auszug aus
+dem Handelsregister nachzuweisen. Der Auszug darf zum Zeitpunkt der
 Antragstellung nicht älter als drei Monate sein.
 
 
@@ -65,21 +60,17 @@ Antragstellung nicht älter als drei Monate sein.
 Nummer 2 des Mautsystemgesetzes durch ein Zertifikat einer nach dem
 Akkreditierungsstellengesetz akkreditierten Stelle nachzuweisen.
 
-[^F794827_01_BJNR185010016BJNE000400000]
 (2) Die Zertifizierung des Qualitätsmanagementsystems soll nach DIN EN
-ISO 9001, Ausgabe November 2015
-erfolgen. Erfolgt die Zertifizierung nicht nach der genannten Norm,
-hat der Antragsteller die Gleichwertigkeit der Zertifizierung durch
-eine von der akkreditierten Stelle ausgestellte Bestätigung
-nachzuweisen.
+ISO 9001, Ausgabe November 2015 erfolgen. Erfolgt die Zertifizierung
+nicht nach der genannten Norm, hat der Antragsteller die
+Gleichwertigkeit der Zertifizierung durch eine von der akkreditierten
+Stelle ausgestellte Bestätigung nachzuweisen.
 
 (3) Die Zertifizierung muss ab dem Zeitpunkt der Antragstellung noch
 mindestens 18 Monate gültig sein. Das Zertifikat oder die Bestätigung
 ist als Originaldokument oder als amtlich beglaubigte Kopie des
 Originaldokuments vorzulegen.
 
-    EN ISO 9001:2015-11- Beuth-Verlag.
-[^F794827_01_BJNR185010016BJNE000400000]: 
 
 ## § 5 Technische Ausrüstung und Konformität der Interoperabilitätskomponenten
 
@@ -90,32 +81,24 @@ Nummer 3 des Mautsystemgesetzes nachzuweisen durch
     mautdienstbezogener Leistungen geeignete technische Ausrüstung
     verfügt, und
 
-
 2.  für jede Interoperabilitätskomponente, die vom Antragsteller zur
     Erbringung der mautdienstbezogenen Leistungen eingesetzt werden soll,
     jeweils
 
     a)  die EG-Konformitätserklärung oder
 
-
-    b)  das Zertifikat einer nach § 27 des Mautsystemgesetzes notifizierten
-        Stelle zur Bescheinigung der Konformität der
-        Interoperabilitätskomponenten nach Anhang III der
+    b)  das Zertifikat einer nach § 27 des Mautsystemgesetzes
+        notifizierten Stelle zur Bescheinigung der Konformität
+        der Interoperabilitätskomponenten nach Anhang III der
         Durchführungsverordnung (EU) 2020/204 der Kommission vom 28. November
         2019 über detaillierte Pflichten der Anbieter des europäischen
-        elektronischen Mautdienstes, den Mindestinhalt der Vorgabe für das
-        EETS-Gebiet, elektronische Schnittstellen und Anforderungen an
+        elektronischen Mautdienstes, den Mindestinhalt der Vorgabe für
+        das EETS-Gebiet, elektronische Schnittstellen und Anforderungen an
         Interoperabilitätskomponenten sowie zur Aufhebung der Entscheidung
-        2009/750/EG (ABl. L 43 vom 17.2.2020, S. 49).
+        2009/750/EG (ABl. L 43 vom 17.2.2020, S. 49).
 
-
-
-
-
-
-
-(2) Die EG-Konformitätserklärung nach Absatz 1 Nummer 2 Buchstabe a
-ist vom Hersteller der Interoperabilitätskomponenten, dem
+(2) Die EG-Konformitätserklärung nach Absatz 1 Nummer 2 Buchstabe
+a ist vom Hersteller der Interoperabilitätskomponenten, dem
 Antragsteller oder einem Bevollmächtigten nach Maßgabe des Anhangs III
 der Durchführungsverordnung (EU) 2020/204 zu erstellen. Der Inhalt der
 EG-Konformitätserklärung muss die Vorgaben des Anhangs III Ziffer VI
@@ -142,15 +125,12 @@ Bereich,
 
 1.  in dem eine große Anzahl an Transaktionen zu verarbeiten und
 
-
 2.  angemessene Sicherheitsmaßnahmen gegen Verlust der Vertraulichkeit,
     Integrität und Verfügbarkeit der Daten sowie gegen Verletzungen der
     gesetzlichen Datenschutzvorschriften vorgesehen sind,
 
-
-
-erbracht hat. Zu einem vergleichbaren bedeutsamen Bereich sind zu
-zählen insbesondere Tätigkeiten von Banken, Versicherungen,
+erbracht hat. Zu einem vergleichbaren bedeutsamen Bereich sind
+zu zählen insbesondere Tätigkeiten von Banken, Versicherungen,
 Telekommunikationsbetreibern, Versorgungsunternehmen und der Betrieb
 umfangreicher Informations- oder Telematiksysteme.
 
@@ -163,8 +143,8 @@ der Hinzuziehung externen Sachverstandes Dritter.
 (3) Der Antragsteller hat das Erfüllen der Voraussetzung des § 5
 Nummer 4 des Mautsystemgesetzes durch mindestens eine Eigenerklärung
 nachzuweisen, aus der Inhalt und Zeitraum der ausgeübten Tätigkeit
-nach Absatz 1 hervorgehen. In den Fällen des Absatzes 2 ist in der
-Eigenerklärung auch darzulegen, in welcher Form und in welchen
+nach Absatz 1 hervorgehen. In den Fällen des Absatzes 2 ist in
+der Eigenerklärung auch darzulegen, in welcher Form und in welchen
 Bereichen die Erfahrung dem Antragsteller zur Verfügung gestellt wird.
 
 
@@ -174,21 +154,21 @@ Bereichen die Erfahrung dem Antragsteller zur Verfügung gestellt wird.
 erfüllt, wenn der Antragsteller über die nach seinem Geschäftsmodell
 erforderlichen finanziellen Mittel zur Aufnahme und ordnungsgemäßen
 Führung des Betriebes der mautdienstbezogenen Leistungen in den nach
-§ 12 Absatz 1 des Mautsystemgesetzes abzudeckenden mautpflichtigen
-Streckennetzen in den Mitgliedstaaten der Europäischen Union und den
-anderen Vertragsstaaten des Abkommens über den Europäischen
+§ 12 Absatz 1 des Mautsystemgesetzes abzudeckenden mautpflichtigen
+Streckennetzen in den Mitgliedstaaten der Europäischen Union und
+den anderen Vertragsstaaten des Abkommens über den Europäischen
 Wirtschaftsraum verfügt.
 
 (2) Der Antragsteller kann sich auf die finanzielle Leistungsfähigkeit
 verbundener Unternehmen berufen. In diesem Fall hat der Antragsteller
-nachzuweisen, dass ihm die nach Satz 1 erforderlichen Mittel dauerhaft
-und verbindlich zur Verfügung stehen. Dies kann unter anderem durch
-die Vorlage von Verträgen oder entsprechender
+nachzuweisen, dass ihm die nach Satz 1 erforderlichen Mittel
+dauerhaft und verbindlich zur Verfügung stehen. Dies kann unter
+anderem durch die Vorlage von Verträgen oder entsprechender
 Verpflichtungserklärungen des Unternehmens oder der anderen
 verbundenen Unternehmen erfolgen.
 
-(3) Der Antragsteller hat das Erfüllen der Voraussetzung des § 5
-Nummer 5 des Mautsystemgesetzes durch das Gutachten eines
+(3) Der Antragsteller hat das Erfüllen der Voraussetzung des
+§ 5 Nummer 5 des Mautsystemgesetzes durch das Gutachten eines
 Wirtschaftsprüfers oder einer Wirtschaftsprüfungsgesellschaft
 nachzuweisen. Das Gutachten muss auf der Grundlage des
 Geschäftsmodells des Antragstellers zumindest die folgenden Kriterien
@@ -197,32 +177,24 @@ als geprüft ausweisen:
 1.  verfügbare Finanzmittel einschließlich der Bankguthaben sowie
     möglicher Überziehungskredite und Darlehen,
 
-
 2.  als Sicherheit verfügbare Mittel und Vermögensgegenstände,
 
-
 3.  Eigenkapitalquote,
-
 
 4.  Anschaffungskosten für die Errichtung des Systems zum Erbringen
     mautdienstbezogener Leistungen,
 
-
 5.  Verbindlichkeiten,
-
 
 6.  Belastungen des Betriebsvermögens insbesondere mit Pfandrechten,
     Grundpfandrechten, Sicherungsrechten oder Eigentumsvorbehalten.
-
-
-
 
 (4) Das Gutachten nach Absatz 3 darf zum Zeitpunkt der Antragstellung
 nicht älter als drei Monate sein und ist als Originaldokument oder als
 amtlich beglaubigte Kopie des Originaldokuments vorzulegen.
 
-(5) Der Antragsteller hat auf Verlangen des Bundesamtes für
-Güterverkehr zusätzlich die dem Gutachten zugrunde liegenden
+(5) Der Antragsteller hat auf Verlangen des Bundesamtes für Logistik
+und Mobilität zusätzlich die dem Gutachten zugrunde liegenden
 Unterlagen, insbesondere über das Geschäftsmodell, vorzulegen.
 
 
@@ -232,45 +204,34 @@ Unterlagen, insbesondere über das Geschäftsmodell, vorzulegen.
 Nummer 6 des Mautsystemgesetzes durch einen Risikomanagementplan und
 das Ergebnis eines Audits dieses Risikomanagementplans nachzuweisen.
 
-(2) Der Risikomanagementplan nach Absatz 1 muss mindestens Angaben zu
-den folgenden Risiken und die zu ihrer Behebung erforderlichen
+(2) Der Risikomanagementplan nach Absatz 1 muss mindestens Angaben
+zu den folgenden Risiken und die zu ihrer Behebung erforderlichen
 Minderungsmaßnahmen enthalten:
 
 1.  Unterbrechung des Geschäftsbetriebs, insbesondere der
     Datenverarbeitung,
 
-
 2.  Kapitalfluss- und Liquiditätsrisiko,
-
 
 3.  gesamtwirtschaftlicher Abschwung,
 
-
 4.  zunehmender Wettbewerb auf dem Markt mautdienstbezogener Leistungen,
-
 
 5.  Anerkennungsverlust und dessen Folgen, zum Beispiel Verlust von
     Kunden,
 
-
-6.  Nichterreichen oder Nichtaufrechterhaltung der vollständigen Abdeckung
-    der nach § 12 Absatz 1 des Mautsystemgesetzes abzudeckenden
+6.  Nichterreichen oder Nichtaufrechterhaltung der vollständigen
+    Abdeckung der nach § 12 Absatz 1 des Mautsystemgesetzes abzudeckenden
     mautpflichtigen Streckennetze in den Mitgliedstaaten der Europäischen
     Union und den anderen Vertragsstaaten des Abkommens über den
     Europäischen Wirtschaftsraum,
 
-
 7.  Schwierigkeiten bei der Erreichung der vertraglich vereinbarten
     Qualitätsbedingungen,
 
-
 8.  Haftungspflichten gegenüber Dritten,
 
-
 9.  gesetzgeberische Änderungen.
-
-
-
 
 (3) Der Risikomanagementplan und das Audit sind als Originaldokument
 oder als amtlich beglaubigte Kopie des Originaldokuments vorzulegen.
@@ -289,33 +250,21 @@ insbesondere nicht erfüllt, wenn
 
         aa) im Insolvenzverfahren,
 
-
         bb) in Liquidation oder
-
 
         cc) in einem damit vergleichbaren Verfahren eines anderen Mitgliedstaates
             der Europäischen Union oder eines anderen Vertragsstaates des
             Abkommens über den Europäischen Wirtschaftsraum
 
-
-
         befindet,
 
-
     b)  die Geschäftstätigkeit eingestellt hat oder
-
 
     c)  Rückstände bei der Entrichtung von Steuern, Abgaben oder Beiträgen zur
         gesetzlichen Sozialversicherung bestehen oder
 
-
-
-
-
 2.  eine für die Führung der Geschäfte des Antragstellers bestellte Person
     nach Absatz 2 als nicht zuverlässig gilt.
-
-
 
 In den Fällen des § 6 Absatz 2 Satz 1 und § 7 Absatz 2 ist die
 Voraussetzung nach § 5 Nummer 7 des Mautsystemgesetzes zusätzlich von
@@ -336,23 +285,17 @@ Nummer 7 des Mautsystemgesetzes nachzuweisen durch
 
 1.  einen gültigen Auszug aus dem Handelsregister,
 
-
 2.  eine Bescheinigung in Steuersachen des Finanzamtes,
-
 
 3.  eine Unbedenklichkeitsbescheinigung der Krankenkassen, bei denen die
     Beschäftigten versichert sind, und der Berufsgenossenschaft,
 
-
 4.  den Antrag auf Vorlage eines Führungszeugnisses oder eines
-    Europäischen Führungszeugnisses beim Bundesamt für Güterverkehr und
-
+    Europäischen Führungszeugnisses beim Bundesamt für Logistik und
+    Mobilität und
 
 5.  einen Auszug aus dem Gewerbezentralregister zur Vorlage bei einer
     Behörde.
-
-
-
 
 (4) Die Unterlagen nach Absatz 3 dürfen zum Zeitpunkt der
 Antragstellung nicht älter als drei Monate sein und sind als
@@ -362,9 +305,9 @@ Originaldokumente vorzulegen.
 
 ## § 10 Regelmäßige Überprüfung der Registrierungsvoraussetzungen
 
-Für den Nachweis des weiteren Vorliegens der Voraussetzungen nach § 7
-Absatz 2 des Mautsystemgesetzes gelten die §§ 2, 4 und 7 bis 9
-entsprechend.
+Für den Nachweis des weiteren Vorliegens der Voraussetzungen nach
+§ 7 Absatz 2 des Mautsystemgesetzes gelten die §§ 2, 4 und 7 bis
+9 entsprechend.
 
 
 ## § 11 Gebühren und Auslagen
@@ -372,8 +315,8 @@ entsprechend.
 (1) Für die Registrierung nach den §§ 5 und 6 Absatz 1 des
 Mautsystemgesetzes sowie die regelmäßige Überprüfung der
 Registrierungsvoraussetzungen nach § 7 Absatz 2 Satz 1 des
-Mautsystemgesetzes werden vom Bundesamt für Güterverkehr Gebühren und
-Auslagen erhoben.
+Mautsystemgesetzes werden vom Bundesamt für Logistik und Mobilität
+Gebühren und Auslagen erhoben.
 
 (2) Die gebührenpflichtigen Tatbestände und die Höhe der Gebühren
 bestimmen sich nach der Anlage.
@@ -385,91 +328,15 @@ bestimmen sich nach der Anlage.
 
 (Fundstelle: BGBl. I 2016,1853)
 
-
-*    *   Lfd. Nr.
-
-    *   Gebührenpflichtige öffentliche Leistung
-
-    *   Gebühr in Euro
-
-
-*    *   1
-
-    *   Registrierung als Anbieter mautdienstbezogener Dienstleistungen nach
-        den §§ 5 und 6 Absatz 1 des Mautsystemgesetzes
-
-    *   1 400 bis 10 000
-
-
-*    *   2
-
-    *   Jährliche Überprüfung der Registrierungsvoraussetzungen nach § 7
-        Absatz 2 Satz 1 des Mautsystemgesetzes
-
-    *   770 bis 5 840
-
-
-*    *   3
-
-    *   Für unter den Nummern 1 und 2 nicht aufgeführte öffentliche Leistungen
-        können Gebühren erhoben werden in Höhe von
-
-    *   bis zu 500
-
-
-*    *   4
-
-    *   Ablehnung eines Antrags auf Registrierung als Anbieter
-        mautdienstbezogener Dienstleistungen aus anderen Gründen als wegen
-        Unzuständigkeit der Behörde
-
-    *   bis zu 75 Prozent der Gebühr für die Vornahme der öffentlichen
-        Leistung
-
-
-*    *   5
-
-    *   Rücknahme eines Antrags auf Registrierung als Anbieter
-        mautdienstbezogener Dienstleistungen nach Beginn der sachlichen
-        Bearbeitung, jedoch vor deren Beendigung
-
-    *   bis zu 75 Prozent der Gebühr für die Vornahme der öffentlichen
-        Leistung
-
-
-*    *   6
-
-    *   Widerruf oder Rücknahme der Registrierung als Anbieter
-        mautdienstbezogener Dienstleistungen, soweit der Betroffene dazu
-        Anlass gegeben hat
-
-    *   bis zur Höhe der für die öffentliche Leistung vorgesehenen Gebühr
-
-
-*    *   7
-
-    *   Teilweise oder vollständige Zurückweisung eines Widerspruchs, soweit
-        der Widerspruch nicht nur deshalb keinen Erfolg hat, weil die
-        Verletzung einer Verfahrens- oder Formvorschrift nach § 45 des
-        Verwaltungsverfahrensgesetzes unbeachtlich ist
-
-    *   bis zur Höhe der für die öffentliche Leistung vorgesehenen Gebühr
-
-
-*    *   8
-
-    *   Rücknahme eines Widerspruchs nach Beginn der sachlichen Bearbeitung,
-        jedoch vor deren Beendigung
-
-    *   bis zu 75 Prozent der Gebühr nach Nummer 7
-
-
-*    *   9
-
-    *   Erfolgloser Widerspruch, der sich ausschließlich gegen eine
-        Kostenentscheidung richtet
-
-    *   bis zu 30 Prozent des streitigen Betrages
-
-
+| Lfd. Nr. | Gebührenpflichtige öffentliche Leistung | Gebühr in Euro |
+| --- | --- | --- |
+| 1 | Registrierung als Anbieter mautdienstbezogener Dienstleistungen nach den §§ 5 und 6 Absatz 1 des Mautsystemgesetzes | 1 400 bis 10 000 |
+| 2 | Jährliche Überprüfung der Registrierungsvoraussetzungen nach § 7 Absatz 2 Satz 1 des Mautsystemgesetzes | 770 bis 5 840 |
+| 3 | Für unter den Nummern 1 und 2 nicht aufgeführte öffentliche Leistungen können Gebühren erhoben werden in Höhe von | bis zu 500 |
+| 4 | Ablehnung eines Antrags auf Registrierung als Anbieter mautdienstbezogener Dienstleistungen aus anderen Gründen als wegen Unzuständigkeit der Behörde | bis zu 75 Prozent der Gebühr für die Vornahme der öffentlichen Leistung |
+| 5 | Rücknahme eines Antrags auf Registrierung als Anbieter mautdienstbezogener Dienstleistungen nach Beginn der sachlichen Bearbeitung, jedoch vor deren Beendigung | bis zu 75 Prozent der Gebühr für die Vornahme der öffentlichen Leistung |
+| 6 | Widerruf oder Rücknahme der Registrierung als Anbieter mautdienstbezogener Dienstleistungen, soweit der Betroffene dazu Anlass gegeben hat | bis zur Höhe der für die öffentliche Leistung vorgesehenen Gebühr |
+| 7 | Teilweise oder vollständige Zurückweisung eines Widerspruchs, soweit der Widerspruch nicht nur deshalb keinen Erfolg hat, weil die Verletzung einer Verfahrens- oder Formvorschrift nach § 45 des Verwaltungsverfahrensgesetzes unbeachtlich ist | bis zur Höhe der für die öffentliche Leistung vorgesehenen Gebühr |
+| 8 | Rücknahme eines Widerspruchs nach Beginn der sachlichen Bearbeitung, jedoch vor deren Beendigung | bis zu 75 Prozent der Gebühr nach Nummer 7 |
+| 9 | Erfolgloser Widerspruch, der sich ausschließlich gegen eine Kostenentscheidung richtet | bis zu 30 Prozent des streitigen Betrages |
 

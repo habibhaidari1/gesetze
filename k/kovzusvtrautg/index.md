@@ -1,7 +1,5 @@
 ---
-Title: Gesetz zu dem Zusatzvertrag vom 7. Februar 1969 zur Durchführung und Ergänzung
-  des Vertrags vom 7. Mai 1963 zwischen der Bundesrepublik Deutschland und der Republik
-  Österreich über Kriegsopferversorgung und Beschäftigung Schwerbeschädigter
+Title: Gesetz zu dem Zusatzvertrag vom 7. Februar 1969 zur Durchführung und Ergänzung des Vertrags vom 7. Mai 1963 zwischen der Bundesrepublik Deutschland und der Republik Österreich über Kriegsopferversorgung und Beschäftigung Schwerbeschädigter
 jurabk: KOVZusVtrAUTG
 layout: default
 origslug: kovzusvtrautg
@@ -21,7 +19,6 @@ Zuletzt geändert durch
 :   Art. 22 G v. 20.8.2021 I 3932
 
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
@@ -31,20 +28,19 @@ beschlossen:
 ## Art 1
 
 Dem in Wien am 7. Februar 1969 unterzeichneten Zusatzvertrag zur
-Durchführung und Ergänzung des Vertrags vom 7. Mai 1963 zwischen der
-Bundesrepublik Deutschland und der Republik Österreich über
-Kriegsopferversorgung und Beschäftigung
-Schwerbeschädigter              (Bundesgesetzbl. 1964 II S. 220) wird
-zugestimmt. Der Zusatzvertrag wird nachstehend veröffentlicht.
+Durchführung und Ergänzung des Vertrags vom 7. Mai 1963 zwischen
+der Bundesrepublik Deutschland und der Republik Österreich über
+Kriegsopferversorgung und Beschäftigung *Schwerbeschädigter*
+(Bundesgesetzbl. 1964 II S. 220) wird zugestimmt. Der Zusatzvertrag
+wird nachstehend veröffentlicht.
 
 
 ## Art 2
 
-Als Stellen in der Bundesrepublik Deutschland, die nach Artikel 6 Abs.
-3 Satz 3 des Zusatzvertrags die Ausfertigung der Bescheide der
+Als Stellen in der Bundesrepublik Deutschland, die nach Artikel 6
+Abs. 3 Satz 3 des Zusatzvertrags die Ausfertigung der Bescheide der
 Verwaltungsbehörden mit der Bestätigung ihrer Vollstreckbarkeit zu
-versehen haben, werden die Landesversorgungsämter und in Fällen der
-Berufsförderung die Hauptfürsorgestellen bestimmt.
+versehen haben, werden die Träger der Sozialen Entschädigung bestimmt.
 
 
 ## Art 3
@@ -55,11 +51,13 @@ Berufsförderung die Hauptfürsorgestellen bestimmt.
 ## Art 4
 
 Personen, die einen Anspruch auf Versorgung nach dem
-Bundesversorgungsgesetz besitzen und ihren Wohnsitz oder gewöhnlichen
-Aufenthalt in den Gemeinden Jungholz (politischer Bezirk Reutte) und
-Mittelberg (politischer Bezirk Bregenz) der Republik Österreich haben,
-erhalten Versorgung wie Berechtigte mit Wohnsitz oder gewöhnlichem
-Aufenthalt im Gebiet der Bundesrepublik Deutschland.
+Bundesversorgungsgesetz in der am 31. Dezember 2023 geltenden
+Fassung, dem Vierzehnten Buch Sozialgesetzbuch oder dem
+Soldatenentschädigungsgesetz besitzen und ihren Wohnsitz oder
+gewöhnlichen Aufenthalt in den Gemeinden Jungholz (politischer Bezirk
+Reutte) und Mittelberg (politischer Bezirk Bregenz) der Republik
+Österreich haben, erhalten Versorgung wie Berechtigte mit Wohnsitz
+oder gewöhnlichem Aufenthalt im Gebiet der Bundesrepublik Deutschland.
 
 
 ## Art 5

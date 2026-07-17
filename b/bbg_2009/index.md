@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 160
 
 Zuletzt geändert durch
-:   Art. 1 G v. 28.6.2021 I 2250
+:   Art. 2 G v. 3.7.2026 I Nr. 199
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -69,13 +69,9 @@ Die Berufung in das Beamtenverhältnis ist nur zulässig zur Wahrnehmung
 
 1.  hoheitsrechtlicher Aufgaben oder
 
-
 2.  von Aufgaben, die zur Sicherung des Staates oder des öffentlichen
     Lebens nicht ausschließlich Personen übertragen werden dürfen, die in
     einem privatrechtlichen Arbeitsverhältnis stehen.
-
-
-
 
 
 ### § 6 Arten des Beamtenverhältnisses
@@ -84,8 +80,8 @@ Die Berufung in das Beamtenverhältnis ist nur zulässig zur Wahrnehmung
 Wahrnehmung von Aufgaben nach § 5. Es bildet die Regel.
 
 (2) Das Beamtenverhältnis auf Zeit ist in gesetzlich besonders
-bestimmten Fällen zulässig und dient der befristeten Wahrnehmung von
-Aufgaben nach § 5. Für das Beamtenverhältnis auf Zeit gelten die
+bestimmten Fällen zulässig und dient der befristeten Wahrnehmung
+von Aufgaben nach § 5. Für das Beamtenverhältnis auf Zeit gelten die
 Vorschriften über das Beamtenverhältnis auf Lebenszeit entsprechend,
 soweit nicht gesetzlich etwas anderes bestimmt ist.
 
@@ -94,25 +90,17 @@ Probezeit
 
 1.  zur späteren Verwendung auf Lebenszeit oder
 
-
 2.  zur Übertragung eines Amtes mit leitender Funktion.
-
-
-
 
 (4) Das Beamtenverhältnis auf Widerruf dient
 
 1.  der Ableistung eines Vorbereitungsdienstes oder
 
-
 2.  der vorübergehenden Wahrnehmung von Aufgaben nach § 5.
 
-
-
-
 (5) Das Ehrenbeamtenverhältnis dient der unentgeltlichen Wahrnehmung
-von Aufgaben nach § 5. Es kann nicht in ein Beamtenverhältnis anderer
-Art und ein solches kann nicht in ein Ehrenbeamtenverhältnis
+von Aufgaben nach § 5. Es kann nicht in ein Beamtenverhältnis
+anderer Art und ein solches kann nicht in ein Ehrenbeamtenverhältnis
 umgewandelt werden.
 
 
@@ -125,36 +113,23 @@ umgewandelt werden.
 
     a)  eines anderen Mitgliedstaates der Europäischen Union oder
 
-
     b)  eines anderen Vertragsstaates des Abkommens über den Europäischen
         Wirtschaftsraum oder
-
 
     c)  eines Drittstaates, dem die Bundesrepublik Deutschland und die
         Europäische Union vertraglich einen entsprechenden Anspruch auf
         Anerkennung der Berufsqualifikationen eingeräumt haben,
 
-
-
     besitzt,
-
 
 2.  die Gewähr dafür bietet, jederzeit für die freiheitliche demokratische
     Grundordnung im Sinne des Grundgesetzes einzutreten, und
 
-
-3.
-    a)  die für die entsprechende Laufbahn vorgeschriebene Vorbildung besitzt
+3.  a)  die für die entsprechende Laufbahn vorgeschriebene Vorbildung besitzt
         oder
-
 
     b)  die erforderliche Befähigung durch Lebens- und Berufserfahrung
         erworben hat.
-
-
-
-
-
 
 In das Beamtenverhältnis darf nicht berufen werden, wer
 unveränderliche Merkmale des Erscheinungsbilds aufweist, die mit der
@@ -164,17 +139,17 @@ Erfüllung der Pflichten nach § 61 Absatz 2 nicht vereinbar sind.
 Deutscher im Sinne des Artikels 116 Absatz 1 des Grundgesetzes in ein
 Beamtenverhältnis berufen werden.
 
-(3) Das Bundesministerium des Innern, für Bau und Heimat kann
-Ausnahmen von Absatz 1 Nr. 1 und Absatz 2 zulassen, wenn für die
-Berufung der Beamtin oder des Beamten ein dringendes dienstliches
-Bedürfnis besteht.
+(3) Das Bundesministerium des Innern und für Heimat kann Ausnahmen
+von Absatz 1 Nr. 1 und Absatz 2 zulassen, wenn für die Berufung
+der Beamtin oder des Beamten ein dringendes dienstliches Bedürfnis
+besteht.
 
 
 ### § 8 Stellenausschreibung
 
-(1) Zu besetzende Stellen sind auszuschreiben. Bei der Einstellung von
-Bewerberinnen und Bewerbern muss die Ausschreibung öffentlich sein.
-Ausnahmen von den Sätzen 1 und 2 kann die Bundesregierung durch
+(1) Zu besetzende Stellen sind auszuschreiben. Bei der Einstellung
+von Bewerberinnen und Bewerbern muss die Ausschreibung öffentlich
+sein. Ausnahmen von den Sätzen 1 und 2 kann die Bundesregierung durch
 Rechtsverordnung regeln.
 
 (2) Die Art der Ausschreibung regelt die oberste Dienstbehörde nach
@@ -200,19 +175,13 @@ schwerbehinderter Menschen nicht entgegen.
 
 1.  Begründung des Beamtenverhältnisses,
 
-
 2.  Umwandlung des Beamtenverhältnisses in ein solches anderer Art,
-
 
 3.  Verleihung eines anderen Amtes mit anderem Endgrundgehalt und anderer
     Amtsbezeichnung oder
 
-
 4.  Verleihung eines anderen Amtes mit anderer Amtsbezeichnung beim
     Wechsel der Laufbahngruppe.
-
-
-
 
 (2) Die Ernennung erfolgt durch Aushändigung einer Ernennungsurkunde.
 In der Urkunde müssen enthalten sein
@@ -223,15 +192,10 @@ In der Urkunde müssen enthalten sein
     „als Ehrenbeamtin“ oder „als Ehrenbeamter“ oder „auf Zeit“ mit der
     Angabe der Zeitdauer der Berufung,
 
-
 2.  bei der Umwandlung des Beamtenverhältnisses in ein solches anderer Art
     die diese Art bestimmenden Wörter nach Nummer 1 und
 
-
 3.  bei der Verleihung eines Amtes die Amtsbezeichnung.
-
-
-
 
 (3) Mit der Begründung eines Beamtenverhältnisses auf Probe, auf
 Lebenszeit und auf Zeit wird gleichzeitig ein Amt verliehen.
@@ -244,52 +208,44 @@ nur ernannt werden, wer
 
 1.  die in § 7 bezeichneten Voraussetzungen erfüllt und
 
-
 2.  sich in einer Probezeit in vollem Umfang bewährt hat.
 
-
-
-Für die Feststellung der Bewährung gilt ein strenger Maßstab. Die
-Probezeit dauert mindestens drei Jahre. Die Anrechnung einer
-gleichwertigen Tätigkeit kann bis zu einer Mindestprobezeit von einem
-Jahr vorgesehen werden. Die Bundesregierung regelt durch
+Für die Feststellung der Bewährung gilt ein strenger Maßstab.
+Die Probezeit dauert mindestens drei Jahre. Die Anrechnung einer
+gleichwertigen Tätigkeit kann bis zu einer Mindestprobezeit von
+einem Jahr vorgesehen werden. Die Bundesregierung regelt durch
 Rechtsverordnung die Einzelheiten, insbesondere regelt sie
 
 1.  die Kriterien und das Verfahren der Bewährungsfeststellung,
 
-
 2.  die Mindestprobezeit sowie Ausnahmen von der Mindestprobezeit,
-
 
 3.  die Verlängerung der Probezeit und die Anrechnung von Zeiten
     gleichwertiger Tätigkeiten auf die Probezeit.
 
-
-
-
-(2) Ein Beamtenverhältnis auf Probe ist spätestens nach fünf Jahren in
-ein solches auf Lebenszeit umzuwandeln, wenn die beamtenrechtlichen
-Voraussetzungen hierfür erfüllt sind. Die Frist verlängert sich um die
-Zeit, um die sich die Probezeit wegen Elternzeit oder einer
+(2) Ein Beamtenverhältnis auf Probe ist spätestens nach fünf Jahren
+in ein solches auf Lebenszeit umzuwandeln, wenn die beamtenrechtlichen
+Voraussetzungen hierfür erfüllt sind. Die Frist verlängert sich
+um die Zeit, um die sich die Probezeit wegen Elternzeit oder einer
 Beurlaubung unter Wegfall der Besoldung verlängert.
 
 
 ### § 11a Ableisten eines Vorbereitungsdienstes durch Beamtinnen auf Lebenszeit und Beamte auf Lebenszeit
 
-(1) Eine Beamtin auf Lebenszeit oder ein Beamter auf Lebenszeit kann
-zur Ableistung eines fachspezifischen Vorbereitungsdienstes des Bundes
-zur Erlangung der Befähigung für eine höhere Laufbahn oder für eine
-andere Laufbahn derselben oder einer höheren Laufbahngruppe zur
+(1) Eine Beamtin auf Lebenszeit oder ein Beamter auf Lebenszeit
+kann zur Ableistung eines fachspezifischen Vorbereitungsdienstes des
+Bundes zur Erlangung der Befähigung für eine höhere Laufbahn oder für
+eine andere Laufbahn derselben oder einer höheren Laufbahngruppe zur
 Beamtin auf Widerruf oder zum Beamten auf Widerruf ernannt werden,
 wenn die Dienstbehörde die Fortdauer des Beamtenverhältnisses auf
 Lebenszeit neben dem Beamtenverhältnis auf Widerruf anordnet.
 
 (2) Hat eine Beamtin auf Lebenszeit oder ein Beamter auf Lebenszeit
-den Vorbereitungsdienst nach Absatz 1 abgeschlossen, kann sie oder er
-zur Ableistung einer Probezeit für die neue Laufbahn zur Beamtin auf
-Probe oder zum Beamten auf Probe ernannt werden, wenn die bisherige
-Dienstbehörde im Einvernehmen mit der neuen Dienstbehörde die
-Fortdauer des Beamtenverhältnisses auf Lebenszeit neben dem
+den Vorbereitungsdienst nach Absatz 1 abgeschlossen, kann sie oder
+er zur Ableistung einer Probezeit für die neue Laufbahn zur Beamtin
+auf Probe oder zum Beamten auf Probe ernannt werden, wenn die
+bisherige Dienstbehörde im Einvernehmen mit der neuen Dienstbehörde
+die Fortdauer des Beamtenverhältnisses auf Lebenszeit neben dem
 Beamtenverhältnis auf Probe anordnet.
 
 (3) Für die Dauer des Vorbereitungsdienstes und der Probezeit ruhen
@@ -307,8 +263,8 @@ oder ihm bestimmte Stelle ernennt die Beamtinnen und Beamten, soweit
 gesetzlich nichts anderes bestimmt ist.
 
 (2) Die Ernennung wird mit dem Tag der Aushändigung der
-Ernennungsurkunde wirksam, wenn nicht in der Urkunde ausdrücklich ein
-späterer Zeitpunkt bestimmt ist. Eine Ernennung auf einen
+Ernennungsurkunde wirksam, wenn nicht in der Urkunde ausdrücklich
+ein späterer Zeitpunkt bestimmt ist. Eine Ernennung auf einen
 zurückliegenden Zeitpunkt ist unzulässig und insoweit unwirksam.
 
 (3) Mit der Ernennung erlischt ein privatrechtliches Arbeitsverhältnis
@@ -321,23 +277,14 @@ zum Dienstherrn.
 
 1.  sie nicht der in § 10 Abs. 2 vorgeschriebenen Form entspricht,
 
-
 2.  sie von einer sachlich unzuständigen Behörde ausgesprochen wurde oder
-
 
 3.  zum Zeitpunkt der Ernennung
 
     a)  nach § 7 Absatz 1 Satz 1 Nummer 1 keine Ernennung erfolgen durfte und
         keine Ausnahme nach § 7 Abs. 3 zugelassen war oder
 
-
     b)  die Fähigkeit zur Wahrnehmung öffentlicher Ämter nicht vorlag.
-
-
-
-
-
-
 
 (2) Die Ernennung ist von Anfang an als wirksam anzusehen, wenn
 
@@ -345,21 +292,16 @@ zum Dienstherrn.
     Akteninhalt eindeutig hervorgeht, dass die für die Ernennung
     zuständige Stelle ein bestimmtes Beamtenverhältnis begründen oder ein
     bestehendes Beamtenverhältnis in ein solches anderer Art umwandeln
-    wollte, für das die sonstigen Voraussetzungen vorliegen, und die oder
-    der Dienstvorgesetzte dies schriftlich festgestellt hat; das Gleiche
-    gilt, wenn die Angabe der Dauer fehlt, die Dauer aber durch
+    wollte, für das die sonstigen Voraussetzungen vorliegen, und die
+    oder der Dienstvorgesetzte dies schriftlich festgestellt hat; das
+    Gleiche gilt, wenn die Angabe der Dauer fehlt, die Dauer aber durch
     Rechtsvorschrift bestimmt ist,
-
 
 2.  im Fall des Absatzes 1 Nr. 2 die sachlich zuständige Behörde die
     Ernennung bestätigt oder
 
-
 3.  im Fall des Absatzes 1 Nr. 3 Buchstabe a eine Ausnahme nach § 7 Abs. 3
     nachträglich zugelassen wird.
-
-
-
 
 
 ### § 14 Rücknahme der Ernennung
@@ -370,32 +312,27 @@ zurückzunehmen, wenn
 1.  sie durch Zwang, arglistige Täuschung oder Bestechung herbeigeführt
     wurde,
 
-
-2.  dem Dienstherrn zum Zeitpunkt der Ernennung nicht bekannt war, dass
-    die ernannte Person vor ihrer Ernennung ein Verbrechen oder ein
-    Vergehen begangen hat, aufgrund dessen sie vor oder nach ihrer
+2.  dem Dienstherrn zum Zeitpunkt der Ernennung nicht bekannt war,
+    dass die ernannte Person vor ihrer Ernennung ein Verbrechen oder
+    ein Vergehen begangen hat, aufgrund dessen sie vor oder nach ihrer
     Ernennung rechtskräftig zu einer Strafe verurteilt worden ist und das
     sie für die Berufung in das Beamtenverhältnis als unwürdig erscheinen
     lässt, oder
 
-
-3.  die Ernennung nach § 7 Abs. 2 nicht erfolgen durfte und eine Ausnahme
-    nach § 7 Abs. 3 nicht zugelassen war und eine Ausnahme nicht
+3.  die Ernennung nach § 7 Abs. 2 nicht erfolgen durfte und eine
+    Ausnahme nach § 7 Abs. 3 nicht zugelassen war und eine Ausnahme nicht
     nachträglich zugelassen wird.
-
-
-
 
 (2) Die Ernennung soll zurückgenommen werden, wenn dem Dienstherrn
 nicht bekannt war, dass gegen die ernannte Person in einem
-Disziplinarverfahren auf Entfernung aus dem Beamtenverhältnis oder auf
-Aberkennung des Ruhegehalts erkannt worden war. Dies gilt auch, wenn
-die Entscheidung gegen eine Beamtin oder einen Beamten der
+Disziplinarverfahren auf Entfernung aus dem Beamtenverhältnis oder
+auf Aberkennung des Ruhegehalts erkannt worden war. Dies gilt auch,
+wenn die Entscheidung gegen eine Beamtin oder einen Beamten der
 Europäischen Union oder eines Staates nach § 7 Absatz 1 Satz 1 Nummer
 1 ergangen ist.
 
-(3) Die oberste Dienstbehörde nimmt die Ernennung innerhalb von sechs
-Monaten zurück, nachdem sie von ihr und dem Grund der Rücknahme
+(3) Die oberste Dienstbehörde nimmt die Ernennung innerhalb von
+sechs Monaten zurück, nachdem sie von ihr und dem Grund der Rücknahme
 Kenntnis erlangt hat. Der Rücknahmebescheid wird der Beamtin oder dem
 Beamten zugestellt. Die oberste Dienstbehörde kann die Aufgaben nach
 den Sätzen 1 und 2 auf unmittelbar nachgeordnete Behörden übertragen.
@@ -403,12 +340,12 @@ den Sätzen 1 und 2 auf unmittelbar nachgeordnete Behörden übertragen.
 
 ### § 15 Rechtsfolgen nichtiger oder zurückgenommener Ernennungen
 
-Ist die erstmalige Ernennung nichtig oder zurückgenommen worden, hat
-die oder der Dienstvorgesetzte jede weitere Wahrnehmung der
-Dienstgeschäfte zu verbieten. Bei Nichtigkeit ist das Verbot erst dann
-auszusprechen, wenn die sachlich zuständige Behörde es abgelehnt hat,
-die Ernennung zu bestätigen, oder die Ausnahme nach § 7 Abs. 3 nicht
-nachträglich zugelassen wird. Die bis zu dem Verbot oder bis zur
+Ist die erstmalige Ernennung nichtig oder zurückgenommen worden,
+hat die oder der Dienstvorgesetzte jede weitere Wahrnehmung der
+Dienstgeschäfte zu verbieten. Bei Nichtigkeit ist das Verbot erst
+dann auszusprechen, wenn die sachlich zuständige Behörde es abgelehnt
+hat, die Ernennung zu bestätigen, oder die Ausnahme nach § 7 Abs. 3
+nicht nachträglich zugelassen wird. Die bis zu dem Verbot oder bis zur
 Zustellung der Erklärung der Rücknahme vorgenommenen Amtshandlungen
 sind in gleicher Weise gültig, wie wenn eine Beamtin oder ein Beamter
 sie ausgeführt hätte. Die gezahlte Besoldung kann belassen werden.
@@ -443,25 +380,13 @@ mindestens zu fordern
 
     a)  der erfolgreiche Besuch einer Hauptschule oder
 
-
     b)  ein als gleichwertig anerkannter Bildungsstand und
-
-
-
-
 
 2.  als sonstige Voraussetzung
 
     a)  ein Vorbereitungsdienst oder
 
-
     b)  eine abgeschlossene Berufsausbildung.
-
-
-
-
-
-
 
 (3) Für die Zulassung zu den Laufbahnen des mittleren Dienstes sind
 mindestens zu fordern
@@ -470,38 +395,23 @@ mindestens zu fordern
 
     a)  der Abschluss einer Realschule oder
 
-
     b)  der erfolgreiche Besuch einer Hauptschule und eine abgeschlossene
         Berufsausbildung oder
-
 
     c)  der erfolgreiche Besuch einer Hauptschule und eine Ausbildung in einem
         öffentlich-rechtlichen Ausbildungsverhältnis oder
 
-
     d)  ein als gleichwertig anerkannter Bildungsstand und
-
-
-
-
 
 2.  als sonstige Voraussetzung
 
     a)  ein mit einer Laufbahnprüfung abgeschlossener Vorbereitungsdienst oder
 
-
     b)  eine inhaltliche dessen Anforderungen entsprechende abgeschlossene
         Berufsausbildung oder
 
-
     c)  eine abgeschlossene Berufsausbildung und eine hauptberufliche
         Tätigkeit.
-
-
-
-
-
-
 
 (4) Für die Zulassung zu den Laufbahnen des gehobenen Dienstes sind
 mindestens zu fordern
@@ -510,31 +420,18 @@ mindestens zu fordern
 
     a)  eine zu einem Hochschulstudium berechtigende Schulbildung oder
 
-
     b)  ein als gleichwertig anerkannter Bildungsstand und
-
-
-
-
 
 2.  als sonstige Voraussetzung
 
     a)  ein mit einer Laufbahnprüfung abgeschlossener Vorbereitungsdienst oder
 
-
     b)  ein inhaltlich dessen Anforderungen entsprechendes mit einem Bachelor
         abgeschlossenes Hochschulstudium oder ein gleichwertiger Abschluss
         oder
 
-
     c)  ein mit einem Bachelor abgeschlossenes Hochschulstudium oder ein
         gleichwertiger Abschluss und eine hauptberufliche Tätigkeit.
-
-
-
-
-
-
 
 (5) Für die Zulassung zu den Laufbahnen des höheren Dienstes sind
 mindestens zu fordern
@@ -543,29 +440,16 @@ mindestens zu fordern
 
     a)  ein mit einem Master abgeschlossenes Hochschulstudium oder
 
-
     b)  ein gleichwertiger Abschluss und
-
-
-
-
 
 2.  als sonstige Voraussetzung
 
     a)  ein mit einer Laufbahnprüfung abgeschlossener Vorbereitungsdienst oder
 
-
     b)  eine inhaltlich dem Vorbereitungsdienst entsprechende Ausbildung und
         eine inhaltlich der Laufbahnprüfung entsprechende Prüfung oder
 
-
     c)  eine hauptberufliche Tätigkeit.
-
-
-
-
-
-
 
 (6) Vor- und Ausbildung, Prüfung sowie sonstige Voraussetzungen müssen
 geeignet sein, die Befähigung für die Laufbahn zu vermitteln.
@@ -585,27 +469,23 @@ Absätzen 2 bis 5 zulassen.
     Richtlinie 2013/55/EU (ABl. L 354 vom 28.12.2013, S. 132) geändert
     worden ist,
 
-
-2.  eines mit einem Drittstaat geschlossenen Vertrages, in dem die
-    Bundesrepublik Deutschland und die Europäische Union einen
+2.  eines mit einem Drittstaat geschlossenen Vertrages, in dem
+    die Bundesrepublik Deutschland und die Europäische Union einen
     entsprechenden Anspruch auf Anerkennung der Berufsqualifikationen
     eingeräumt haben, oder
-
 
 3.  einer auf eine Tätigkeit in einer öffentlichen Verwaltung
     vorbereitenden Berufsqualifikation, die in einem von § 7 Absatz 1 Satz
     1 Nummer 1 Buchstabe c nicht erfassten Drittstaat erworben worden ist,
-
-
 
 anerkannt werden.
 
 (2) Die deutsche Sprache muss in dem für die Wahrnehmung der Aufgaben
 der Laufbahn erforderlichen Maß beherrscht werden.
 
-(3) Das Bundesministerium des Innern, für Bau und Heimat wird
-ermächtigt, durch Rechtsverordnung die Voraussetzungen und das
-Verfahren der Anerkennung zu bestimmen.
+(3) Das Bundesministerium des Innern und für Heimat wird ermächtigt,
+durch Rechtsverordnung die Voraussetzungen und das Verfahren der
+Anerkennung zu bestimmen.
 
 (4) Das Berufsqualifikationsfeststellungsgesetz findet mit Ausnahme
 des § 12 Absatz 5 Satz 2 und des § 17 keine Anwendung.
@@ -631,50 +511,46 @@ Bundesregierung durch Rechtsverordnung.
 
 ### § 21 Dienstliche Beurteilung; Verordnungsermächtigung
 
-(1) Eignung, Befähigung und fachliche Leistung der Beamtinnen und
-Beamten sind regelmäßig, mindestens jedoch alle drei Jahre, zu
-beurteilen. Sie sind zusätzlich zu beurteilen, wenn es die
+(1) Eignung, Befähigung und fachliche Leistung der Beamtinnen
+und Beamten sind regelmäßig, mindestens jedoch alle drei Jahre,
+zu beurteilen. Sie sind zusätzlich zu beurteilen, wenn es die
 dienstlichen oder persönlichen Verhältnisse erfordern.
 
-(2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung
+(2) In der dienstlichen Beurteilung sind die fachliche Leistung der
+Beamtin oder des Beamten nachvollziehbar darzustellen sowie Eignung
+und Befähigung einzuschätzen. Am Schluss der dienstlichen Beurteilung
+ist ein zusammenfassendes Gesamturteil abzugeben.
+
+(3) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung
 Grundsätze für dienstliche Beurteilungen sowie für das
 Beurteilungsverfahren zu regeln, insbesondere über
 
-1.  den Inhalt der Beurteilung, beispielsweise die Festlegung von zu
-    beurteilenden Merkmalen von Eignung, Befähigung und fachlicher
+1.  den weiteren Inhalt der Beurteilung, beispielsweise die Festlegung
+    von zu beurteilenden Merkmalen von Eignung, Befähigung und fachlicher
     Leistung,
 
-
 2.  ein Bewertungssystem für die Beurteilung,
-
 
 3.  die Ausgestaltung des Beurteilungsmaßstabs, beispielsweise die
     konkrete Festlegung von Richtwerten oder die Möglichkeit, von den
     Richtwerten aus Gründen der Einzelfallgerechtigkeit abzuweichen,
 
-
 4.  die Festlegung von Mindestanforderungen an die an der Beurteilung
     mitwirkenden Personen,
 
-
 5.  die Bekanntgabe des Ergebnisses eines Beurteilungsdurchgangs,
-
 
 6.  die Voraussetzungen und das Verfahren einer fiktiven Fortschreibung
     von Beurteilungen und
 
-
 7.  Ausnahmen von der Beurteilungspflicht.
-
-
-
 
 
 ### § 22 Beförderungen
 
 (1) Für Beförderungen gelten die Grundsätze des § 9. Erfolgt die
-Auswahlentscheidung auf der Grundlage dienstlicher Beurteilungen, darf
-das Ende des letzten Beurteilungszeitraums zum Zeitpunkt der
+Auswahlentscheidung auf der Grundlage dienstlicher Beurteilungen,
+darf das Ende des letzten Beurteilungszeitraums zum Zeitpunkt der
 Auswahlentscheidung höchstens drei Jahre zurückliegen.
 
 (2) Beförderungen, die mit einer höherwertigen Funktion verbunden
@@ -687,20 +563,12 @@ durchlaufen sind, dürfen nicht übersprungen werden.
 
 1.  seit der Einstellung in das Beamtenverhältnis auf Probe oder
 
-
-2.
-    a)  seit der Einstellung in das Beamtenverhältnis auf Lebenszeit oder
-
+2.  a)  seit der Einstellung in das Beamtenverhältnis auf Lebenszeit oder
 
     b)  seit der letzten Beförderung,
 
-
-
     es sei denn, das bisherige Amt musste nicht regelmäßig durchlaufen
     werden.
-
-
-
 
 (5) Der Bundespersonalausschuss kann Ausnahmen von den Absätzen 2 bis
 4 zulassen, wenn sie die Bundesregierung nicht durch Rechtsverordnung
@@ -718,25 +586,17 @@ zu den Voraussetzungen und zum Verfahren des Aufstiegs, insbesondere
 1.  legt sie Aufstiegsverfahren für die verschiedenen Laufbahngruppen
     fest,
 
-
 2.  gestaltet sie die Auswahlverfahren für den Aufstieg aus,
-
 
 3.  legt sie Altersgrenzen für die Zulassung zum Auswahlverfahren fest,
 
-
 4.  gestaltet sie die Aufstiegsverfahren aus,
-
 
 5.  legt sie die Voraussetzungen für die Übertragung des Amtes der neuen
     Laufbahn fest und
 
-
 6.  legt sie die Voraussetzungen für die Erstattung von Kosten einer
     Aufstiegsausbildung im Fall einer Entlassung fest.
-
-
-
 
 
 ### § 23 Beförderungssperre zwischen zwei Mandaten
@@ -756,58 +616,55 @@ gilt entsprechend für die Zeit zwischen zwei Wahlperioden.
 (1) Ein Amt mit leitender Funktion wird zunächst im Beamtenverhältnis
 auf Probe übertragen. Die regelmäßige Probezeit beträgt zwei Jahre.
 Die oberste Dienstbehörde kann eine Verkürzung zulassen, wenn vor
-Ablauf der Probezeit eine höherwertige Funktion übertragen wird oder
-die Funktion als ständige Vertretung der Amtsinhaberin oder des
-Amtsinhabers mindestens sechs Monate tatsächlich wahrgenommen wurde.
-Die Mindestprobezeit beträgt ein Jahr. Angerechnet werden können
-Zeiten, in denen die leitende Funktion oder eine gleichwertige
+Ablauf der Probezeit eine höherwertige Funktion übertragen wird
+oder die Funktion als ständige Vertretung der Amtsinhaberin oder
+des Amtsinhabers mindestens sechs Monate tatsächlich wahrgenommen
+wurde. Die Mindestprobezeit beträgt ein Jahr. Angerechnet werden
+können Zeiten, in denen die leitende Funktion oder eine gleichwertige
 Funktion als Beamtin oder Beamter der Bundesbesoldungsordnungen B, W
 oder R oder der früheren Bundesbesoldungsordnung C oder entsprechender
 Landesbesoldungsordnungen oder als Richterin oder Richter bereits
-übertragen war. Eine Verlängerung der Probezeit ist nicht zulässig, es
-sei denn, wegen Elternzeit konnte die Mindestprobezeit nicht geleistet
-werden. Bei Beurlaubungen im dienstlichen Interesse kann von der
-Probezeit abgesehen werden. § 22 Abs. 2 und 4 Nr. 1 ist nicht
+übertragen war. Eine Verlängerung der Probezeit ist nicht zulässig,
+es sei denn, wegen Elternzeit konnte die Mindestprobezeit nicht
+geleistet werden. Bei Beurlaubungen im dienstlichen Interesse kann
+von der Probezeit abgesehen werden. § 22 Abs. 2 und 4 Nr. 1 ist nicht
 anzuwenden.
 
 (2) In ein Amt mit leitender Funktion darf berufen werden, wer
 
 1.  sich in einem Beamtenverhältnis auf Lebenszeit befindet und
 
-
 2.  in dieses Amt auch als Beamtin auf Lebenszeit oder Beamter auf
     Lebenszeit berufen werden könnte.
 
-
-
-Mit der Ernennung ruhen für die Dauer der Probezeit die Rechte und
-Pflichten aus dem zuletzt im Beamtenverhältnis auf Lebenszeit
-übertragenen Amt mit Ausnahme der Pflicht zur Verschwiegenheit und des
-Verbotes der Annahme von Belohnungen, Geschenken und sonstigen
-Vorteilen. Das Beamtenverhältnis auf Lebenszeit besteht fort.
-Dienstvergehen, die mit Bezug auf das Beamtenverhältnis auf Lebenszeit
-oder das Beamtenverhältnis auf Probe begangen worden sind, werden so
-verfolgt, als stünde die Beamtin oder der Beamte nur im
+Mit der Ernennung ruhen für die Dauer der Probezeit die Rechte
+und Pflichten aus dem zuletzt im Beamtenverhältnis auf Lebenszeit
+übertragenen Amt mit Ausnahme der Pflicht zur Verschwiegenheit
+und des Verbotes der Annahme von Belohnungen, Geschenken und
+sonstigen Vorteilen. Das Beamtenverhältnis auf Lebenszeit besteht
+fort. Dienstvergehen, die mit Bezug auf das Beamtenverhältnis auf
+Lebenszeit oder das Beamtenverhältnis auf Probe begangen worden sind,
+werden so verfolgt, als stünde die Beamtin oder der Beamte nur im
 Beamtenverhältnis auf Lebenszeit.
 
 (3) Der Bundespersonalausschuss kann Ausnahmen von Absatz 2 Satz 1
 zulassen, wenn sie die Bundesregierung nicht durch Rechtsverordnung
 regelt. Besteht nur ein Beamtenverhältnis auf Probe nach Absatz 1,
 beträgt die regelmäßige Probezeit drei Jahre und die Mindestprobezeit
-zwei Jahre. Die für die Beamtinnen auf Probe und Beamten auf Probe
-geltenden Vorschriften des Bundesdisziplinargesetzes bleiben
+zwei Jahre. Die für die Beamtinnen auf Probe und Beamten auf
+Probe geltenden Vorschriften des Bundesdisziplinargesetzes bleiben
 unberührt.
 
-(4) Mit erfolgreichem Abschluss der Probezeit soll das Amt nach Absatz
-1 auf Dauer im Beamtenverhältnis auf Lebenszeit übertragen werden.
-Eine erneute Berufung in ein Beamtenverhältnis auf Probe zur
+(4) Mit erfolgreichem Abschluss der Probezeit soll das Amt nach
+Absatz 1 auf Dauer im Beamtenverhältnis auf Lebenszeit übertragen
+werden. Eine erneute Berufung in ein Beamtenverhältnis auf Probe zur
 Übertragung dieses Amtes innerhalb eines Jahres ist nicht zulässig.
 Wird das Amt nicht auf Dauer übertragen, erlischt der Anspruch auf
 Besoldung aus diesem Amt. Weiter gehende Ansprüche bestehen nicht.
 
-(5) Ämter im Sinne des Absatzes 1 sind Ämter der Besoldungsgruppen B 6
-bis B 9 in obersten Bundesbehörden sowie die der Besoldungsordnung B
-angehörenden Ämter der Leiterinnen und Leiter der übrigen
+(5) Ämter im Sinne des Absatzes 1 sind Ämter der Besoldungsgruppen B
+6 bis B 9 in obersten Bundesbehörden sowie die der Besoldungsordnung
+B angehörenden Ämter der Leiterinnen und Leiter der übrigen
 Bundesbehörden sowie der bundesunmittelbaren Körperschaften, Anstalten
 und Stiftungen des öffentlichen Rechts, wenn sie keine richterliche
 Unabhängigkeit besitzen. Ausgenommen sind das Amt der Direktorin und
@@ -815,11 +672,11 @@ des Direktors beim Bundesverfassungsgericht sowie die den Funktionen
 der stellvertretenden Direktorin und des stellvertretenden Direktors
 des Bundesrates zugeordneten Ämter.
 
-(6) Beamtinnen und Beamte führen während ihrer Amtszeit im Dienst nur
-die Amtsbezeichnung des ihnen nach Absatz 1 übertragenen Amtes. Sie
-dürfen nur diese auch außerhalb des Dienstes führen. Wird ihnen das
-Amt nach Absatz 1 nicht auf Dauer übertragen, dürfen sie die
-Amtsbezeichnung nach Satz 1 nach dem Ausscheiden aus dem
+(6) Beamtinnen und Beamte führen während ihrer Amtszeit im Dienst
+nur die Amtsbezeichnung des ihnen nach Absatz 1 übertragenen Amtes.
+Sie dürfen nur diese auch außerhalb des Dienstes führen. Wird
+ihnen das Amt nach Absatz 1 nicht auf Dauer übertragen, dürfen
+sie die Amtsbezeichnung nach Satz 1 nach dem Ausscheiden aus dem
 Beamtenverhältnis auf Probe nicht weiterführen.
 
 
@@ -841,33 +698,24 @@ und die Vorbereitungsdienste zu erlassen, insbesondere Vorschriften
 1.  die Gestaltung der Laufbahnen, einschließlich der regelmäßig zu
     durchlaufenden Ämter,
 
-
 2.  den Erwerb und die Anerkennung der Laufbahnbefähigung, einschließlich
     der Festlegung gleichwertiger Abschlüsse,
 
-
-3.  die Rahmenregelungen für Auswahlverfahren für die Einstellung in einen
-    Vorbereitungsdienst,
-
+3.  die Rahmenregelungen für Auswahlverfahren für die Einstellung
+    in einen Vorbereitungsdienst, insbesondere den Einsatz von
+    Informationstechnologie und von Videokonferenztechnik,
 
 4.  die Anrechnung von Zeiten auf den Vorbereitungsdienst und die
     Voraussetzungen für eine Verkürzung des Vorbereitungsdienstes,
 
-
 5.  die Einstellungsvoraussetzungen für andere Bewerberinnen und andere
     Bewerber,
 
-
 6.  die Festlegung von Altersgrenzen,
-
 
 7.  die Voraussetzungen für den Laufbahnwechsel und
 
-
 8.  die Voraussetzungen für Beförderungen.
-
-
-
 
 (2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung nach
 Maßgabe der §§ 16 bis 25 besondere Vorschriften für die einzelnen
@@ -876,19 +724,14 @@ Vorschriften über
 
 1.  das Auswahlverfahren für die Einstellung in den Vorbereitungsdienst,
 
-
 2.  den Ablauf des Vorbereitungsdienstes, insbesondere über dessen Inhalte
     und Dauer,
-
 
 3.  die Prüfung und das Prüfungsverfahren, einschließlich der
     Prüfungsnoten, sowie
 
-
 4.  die Folgen der Nichtteilnahme an Prüfungen und die Folgen von
     Ordnungsverstößen.
-
-
 
 Die Bundesregierung kann die Befugnis nach Satz 1 durch
 Rechtsverordnung obersten Dienstbehörden übertragen.
@@ -897,10 +740,10 @@ Rechtsverordnung obersten Dienstbehörden übertragen.
 ## Abschnitt 4 - Abordnung, Versetzung und Zuweisung
 
 
-### § 27 Abordnung
+### § 27 Abordnung; Verordnungsermächtigungen
 
-(1) Eine Abordnung ist die vorübergehende Übertragung einer dem Amt
-der Beamtin oder des Beamten entsprechenden Tätigkeit bei einer
+(1) Eine Abordnung ist die vorübergehende Übertragung einer dem
+Amt der Beamtin oder des Beamten entsprechenden Tätigkeit bei einer
 anderen Dienststelle desselben oder eines anderen Dienstherrn unter
 Beibehaltung der Zugehörigkeit zur bisherigen Dienststelle. Die
 Abordnung kann ganz oder teilweise erfolgen.
@@ -917,10 +760,7 @@ wenn sie
 
 1.  im Fall des Absatzes 2 länger als zwei Jahre dauert oder
 
-
 2.  zu einem anderen Dienstherrn erfolgt.
-
-
 
 Die Abordnung zu einem anderen Dienstherrn ist ohne Zustimmung
 zulässig, wenn die Tätigkeit einem Amt mit demselben Endgrundgehalt
@@ -933,10 +773,10 @@ Einverständnis ist schriftlich oder elektronisch zu erklären.
 
 (5) Werden Beamtinnen und Beamte des Bundes zu einem Land, einer
 Gemeinde, einem Gemeindeverband oder einer sonstigen nicht der
-Bundesaufsicht unterstehenden Körperschaft, Anstalt oder Stiftung des
-öffentlichen Rechts zur vorübergehenden Beschäftigung abgeordnet,
-sind, soweit zwischen den Dienstherren nichts anderes vereinbart ist,
-die für den Bereich des aufnehmenden Dienstherrn geltenden
+Bundesaufsicht unterstehenden Körperschaft, Anstalt oder Stiftung
+des öffentlichen Rechts zur vorübergehenden Beschäftigung abgeordnet,
+sind, soweit zwischen den Dienstherren nichts anderes vereinbart
+ist, die für den Bereich des aufnehmenden Dienstherrn geltenden
 Vorschriften über die Pflichten und Rechte der Beamtinnen und Beamten
 entsprechend anzuwenden mit Ausnahme der Regelungen über Diensteid,
 Amtsbezeichnung, Zahlung von Bezügen, Krankenfürsorgeleistungen und
@@ -944,6 +784,27 @@ Versorgung.
 
 (6) Die Verpflichtung zur Zahlung der Besoldung hat auch der
 Dienstherr, zu dem die Abordnung erfolgt ist.
+
+(7) Die Bundesministerien werden ermächtigt, durch Rechtsverordnung
+ohne Zustimmung des Bundesrates für ihren jeweiligen Geschäftsbereich
+zu regeln, dass der Bedarf an befristet von Dritten überlassenem
+Personal insgesamt oder für bestimmte Bereiche ausschließlich gedeckt
+wird durch Abordnungen von
+
+1.  Beamten,
+
+2.  Richtern und
+
+3.  sonstigen Personen, die in einem öffentlich-rechtlichen
+    Dienstverhältnis stehen.
+
+Die Bundesregierung wird ermächtigt, durch Rechtsverordnung
+ohne Zustimmung des Bundesrates die Bedarfe weiterer oberster
+Bundesbehörden nach Satz 1 zu regeln, wenn diese jeweils ein
+entsprechendes Bedürfnis dargetan haben. Die Bundesregierung kann die
+in Satz 2 genannte Ermächtigung durch Rechtsverordnung auf oberste
+Bundesbehörden für eine Regelung hinsichtlich ihres jeweils eigenen
+Bedarfs übertragen.
 
 
 ### § 28 Versetzung
@@ -954,16 +815,16 @@ anderen Dienstherrn.
 
 (2) Eine Versetzung ist auf Antrag der Beamtin oder des Beamten oder
 aus dienstlichen Gründen ohne ihre oder seine Zustimmung zulässig,
-wenn das Amt mit mindestens demselben Endgrundgehalt verbunden ist wie
-das bisherige Amt, und die Tätigkeit aufgrund der Vorbildung oder
+wenn das Amt mit mindestens demselben Endgrundgehalt verbunden ist
+wie das bisherige Amt, und die Tätigkeit aufgrund der Vorbildung oder
 Berufsausbildung zumutbar ist.
 
 (3) Bei der Auflösung oder einer wesentlichen Änderung des Aufbaus
 oder der Aufgaben einer Behörde oder der Verschmelzung von Behörden
-können Beamtinnen und Beamte, deren Aufgabengebiet davon berührt wird,
-ohne ihre Zustimmung in ein anderes Amt derselben oder einer anderen
-Laufbahn mit geringerem Endgrundgehalt im Bereich desselben
-Dienstherrn versetzt werden, wenn eine dem bisherigen Amt
+können Beamtinnen und Beamte, deren Aufgabengebiet davon berührt
+wird, ohne ihre Zustimmung in ein anderes Amt derselben oder
+einer anderen Laufbahn mit geringerem Endgrundgehalt im Bereich
+desselben Dienstherrn versetzt werden, wenn eine dem bisherigen Amt
 entsprechende Verwendung nicht möglich ist. Das Endgrundgehalt muss
 mindestens dem des Amtes entsprechen, das die Beamtin oder der Beamte
 vor dem bisherigen Amt wahrgenommen hat. Beamtinnen und Beamte sind
@@ -986,18 +847,15 @@ ganz oder teilweise eine ihrem Amt entsprechende Tätigkeit
 1.  bei einer öffentlichen Einrichtung ohne Dienstherrnfähigkeit im
     dienstlichen oder öffentlichen Interesse oder
 
-
 2.  bei einer anderen Einrichtung, wenn ein öffentliches Interesse es
     erfordert,
-
-
 
 zugewiesen werden. Die Entscheidung trifft die oberste Dienstbehörde
 oder eine von ihr bestimmte Stelle.
 
-(2) Beamtinnen und Beamten einer Dienststelle, die ganz oder teilweise
-in eine öffentlich-rechtlich organisierte Einrichtung ohne
-Dienstherrnfähigkeit oder eine privatrechtlich organisierte
+(2) Beamtinnen und Beamten einer Dienststelle, die ganz oder
+teilweise in eine öffentlich-rechtlich organisierte Einrichtung
+ohne Dienstherrnfähigkeit oder eine privatrechtlich organisierte
 Einrichtung der öffentlichen Hand umgewandelt wird, kann auch ohne
 ihre Zustimmung eine ihrem Amt entsprechende Tätigkeit bei dieser
 Einrichtung zugewiesen werden, wenn öffentliche Interessen es
@@ -1018,18 +876,12 @@ Das Beamtenverhältnis endet durch
 
 1.  Entlassung,
 
-
 2.  Verlust der Beamtenrechte,
-
 
 3.  Entfernung aus dem Beamtenverhältnis nach dem Bundesdisziplinargesetz
     oder
 
-
 4.  Eintritt oder Versetzung in den Ruhestand.
-
-
-
 
 
 #### § 31 Entlassung kraft Gesetzes
@@ -1040,40 +892,32 @@ Das Beamtenverhältnis endet durch
     vorliegen und eine Ausnahme nach § 7 Abs. 3 auch nachträglich nicht
     zugelassen wird,
 
-
-2.  sie in ein öffentlich-rechtliches Dienst- oder Amtsverhältnis zu einem
-    anderen Dienstherrn oder zu einer Einrichtung ohne
+2.  sie in ein öffentlich-rechtliches Dienst- oder Amtsverhältnis
+    zu einem anderen Dienstherrn oder zu einer Einrichtung ohne
     Dienstherrnfähigkeit nach deutschem Recht treten oder zur
     Berufssoldatin, zum Berufssoldaten, zur Soldatin auf Zeit oder zum
     Soldaten auf Zeit ernannt werden, sofern gesetzlich nichts anderes
     bestimmt ist oder
 
-
 3.  sie in den Fällen des § 11a Absatz 2 eine Probezeit für die neue
     Laufbahn abgeleistet haben und in der neuen Laufbahn zu Beamtinnen auf
     Lebenszeit oder zu Beamten auf Lebenszeit ernannt sind.
-
-
 
 Satz 1 Nummer 2 gilt nicht, wenn
 
 1.  die Beamtin oder der Beamte in ein Beamtenverhältnis auf Widerruf oder
     in ein Ehrenbeamtenverhältnis eintritt oder
 
-
 2.  die oberste Dienstbehörde nach ihrem Ermessen die Fortdauer des
-    Beamtenverhältnisses angeordnet hat, bevor die Beamtin oder der Beamte
-    in das Dienst- oder Amtsverhältnis zu dem anderen Dienstherrn oder der
-    Einrichtung eingetreten ist; bei Dienstherren im Sinne des
+    Beamtenverhältnisses angeordnet hat, bevor die Beamtin oder der
+    Beamte in das Dienst- oder Amtsverhältnis zu dem anderen Dienstherrn
+    oder der Einrichtung eingetreten ist; bei Dienstherren im Sinne des
     Beamtenstatusgesetzes kann die Fortdauer nur mit deren Einvernehmen
     angeordnet werden.
 
-
-
-
 (2) Die oberste Dienstbehörde entscheidet darüber, ob die
-Voraussetzungen des Absatzes 1 Satz 1 vorliegen, und stellt den Tag
-der Beendigung des Beamtenverhältnisses fest. Die oberste
+Voraussetzungen des Absatzes 1 Satz 1 vorliegen, und stellt den
+Tag der Beendigung des Beamtenverhältnisses fest. Die oberste
 Dienstbehörde kann diese Aufgaben auf unmittelbar nachgeordnete
 Behörden übertragen.
 
@@ -1085,20 +929,15 @@ Behörden übertragen.
 1.  den Diensteid oder ein an dessen Stelle vorgeschriebenes Gelöbnis
     verweigern,
 
-
 2.  nicht in den Ruhestand oder einstweiligen Ruhestand versetzt werden
     können, weil eine versorgungsrechtliche Wartezeit nicht erfüllt ist,
     oder
-
 
 3.  zur Zeit der Ernennung Inhaberin oder Inhaber eines Amtes, das kraft
     Gesetzes mit dem Mandat unvereinbar ist, Mitglied des Deutschen
     Bundestages oder des Europäischen Parlaments waren und nicht innerhalb
     der von der obersten Dienstbehörde gesetzten angemessenen Frist ihr
     Mandat niederlegen.
-
-
-
 
 (2) Beamtinnen und Beamte können entlassen werden, wenn sie in den
 Fällen des § 7 Abs. 2 die Eigenschaft als Deutsche oder Deutscher im
@@ -1107,15 +946,15 @@ Sinne des Artikels 116 Absatz 1 des Grundgesetzes verlieren.
 
 #### § 33 Entlassung auf Verlangen
 
-(1) Beamtinnen und Beamte sind zu entlassen, wenn sie gegenüber der
-zuständigen Behörde schriftlich ihre Entlassung verlangen. Die
+(1) Beamtinnen und Beamte sind zu entlassen, wenn sie gegenüber
+der zuständigen Behörde schriftlich ihre Entlassung verlangen. Die
 Erklärung kann, solange die Entlassungsverfügung noch nicht zugegangen
 ist, innerhalb von zwei Wochen nach Zugang bei der zuständigen Behörde
 zurückgenommen werden, mit Zustimmung der zuständigen Behörde auch
 nach Ablauf dieser Frist.
 
-(2) Die Entlassung kann jederzeit verlangt werden. Sie ist für den
-beantragten Zeitpunkt auszusprechen. Sie kann jedoch so lange
+(2) Die Entlassung kann jederzeit verlangt werden. Sie ist für
+den beantragten Zeitpunkt auszusprechen. Sie kann jedoch so lange
 hinausgeschoben werden, bis die Beamtin oder der Beamte die ihr oder
 ihm übertragenen Aufgaben ordnungsgemäß erledigt hat, längstens drei
 Monate.
@@ -1130,20 +969,15 @@ Entlassungsgründe vorliegt:
 1.  ein Verhalten, das im Beamtenverhältnis auf Lebenszeit mindestens eine
     Kürzung der Dienstbezüge zur Folge hätte,
 
-
 2.  fehlende Bewährung im Sinne des § 11 Abs. 1 Satz 1 Nr. 2,
-
 
 3.  Dienstunfähigkeit, ohne dass eine Versetzung in den Ruhestand erfolgt
     ist, oder
 
-
-4.  Auflösung oder wesentliche Änderung des Aufbaus oder der Aufgaben der
-    Beschäftigungsbehörde oder deren Verschmelzung mit einer anderen
+4.  Auflösung oder wesentliche Änderung des Aufbaus oder der Aufgaben
+    der Beschäftigungsbehörde oder deren Verschmelzung mit einer anderen
     Behörde, wenn das übertragene Aufgabengebiet davon berührt wird und
     eine anderweitige Verwendung nicht möglich ist.
-
-
 
 Im Fall des Satzes 1 Nr. 2 ist bei allein mangelnder gesundheitlicher
 Eignung und im Fall der Nummer 3 eine anderweitige Verwendung
@@ -1153,14 +987,11 @@ entsprechend zu prüfen.
 
 1.  bis zum Ablauf von drei Monaten zwei Wochen zum Monatsschluss und
 
-
 2.  von mehr als drei Monaten sechs Wochen zum Schluss eines
     Kalendervierteljahres.
 
-
-
-Als Beschäftigungszeit gilt die Zeit ununterbrochener Tätigkeit im
-Beamtenverhältnis auf Probe im Bereich derselben obersten
+Als Beschäftigungszeit gilt die Zeit ununterbrochener Tätigkeit
+im Beamtenverhältnis auf Probe im Bereich derselben obersten
 Dienstbehörde.
 
 (3) Im Fall des Absatzes 1 Nr. 1 ist eine Entlassung ohne Einhaltung
@@ -1178,22 +1009,16 @@ Beamtinnen und Beamte in Ämtern mit leitender Funktion sind
 
 1.  mit Ablauf der Probezeit nach § 24 Abs. 1,
 
-
 2.  mit Beendigung des Beamtenverhältnisses auf Lebenszeit,
 
-
 3.  mit Versetzung zu einem anderen Dienstherrn,
-
 
 4.  mit Festsetzung mindestens einer Kürzung der Dienstbezüge als
     Disziplinarmaßnahme oder
 
-
 5.  in den Fällen, in denen nur ein Beamtenverhältnis auf Probe besteht,
     mit Ende des Monats, in dem sie die im Beamtenverhältnis auf
     Lebenszeit geltende Altersgrenze erreichen,
-
-
 
 aus dem Beamtenverhältnis auf Probe nach § 24 Abs. 1 entlassen. Die §§
 31 bis 33 bleiben unberührt. § 34 Abs. 1 gilt entsprechend.
@@ -1219,10 +1044,7 @@ mit Ablauf des Tages aus dem Beamtenverhältnis entlassen, an dem ihnen
 
 1.  das Bestehen oder endgültige Nichtbestehen der Prüfung oder
 
-
 2.  das endgültige Nichtbestehen einer vorgeschriebenen Zwischenprüfung
-
-
 
 bekannt gegeben wird.
 
@@ -1232,8 +1054,8 @@ bekannt gegeben wird.
 Soweit gesetzlich nichts anderes bestimmt ist, wird die Entlassung von
 der Stelle schriftlich verfügt, die für die Ernennung zuständig wäre.
 Die Entlassung wird im Fall des § 32 Abs. 1 Nr. 1 mit der Zustellung,
-im Übrigen mit dem Ablauf des Monats wirksam, der auf den Monat folgt,
-in dem der Beamtin oder dem Beamten die Entlassungsverfügung
+im Übrigen mit dem Ablauf des Monats wirksam, der auf den Monat
+folgt, in dem der Beamtin oder dem Beamten die Entlassungsverfügung
 zugestellt wird.
 
 
@@ -1241,9 +1063,9 @@ zugestellt wird.
 
 Nach der Entlassung besteht kein Anspruch auf Besoldung und
 Versorgung, soweit gesetzlich nichts anderes bestimmt ist. Die oberste
-Dienstbehörde kann die Erlaubnis erteilen, die Amtsbezeichnung mit dem
-Zusatz „außer Dienst“ oder „a. D.“ sowie die im Zusammenhang mit dem
-Amt verliehenen Titel zu führen. Die Erlaubnis kann zurückgenommen
+Dienstbehörde kann die Erlaubnis erteilen, die Amtsbezeichnung mit
+dem Zusatz „außer Dienst“ oder „a. D.“ sowie die im Zusammenhang mit
+dem Amt verliehenen Titel zu führen. Die Erlaubnis kann zurückgenommen
 werden, wenn die frühere Beamtin oder der frühere Beamte sich ihrer
 als nicht würdig erweist. Die oberste Dienstbehörde kann die Befugnis
 nach den Sätzen 2 und 3 auf nachgeordnete Behörden übertragen.
@@ -1251,8 +1073,8 @@ nach den Sätzen 2 und 3 auf nachgeordnete Behörden übertragen.
 
 #### § 40 Ausscheiden bei Wahlen oder Übernahme politischer Ämter
 
-(1) Beamtinnen und Beamte müssen aus ihrem Amt ausscheiden, wenn sie
-die Wahl zum Europäischen Parlament oder zum Deutschen Bundestag
+(1) Beamtinnen und Beamte müssen aus ihrem Amt ausscheiden, wenn
+sie die Wahl zum Europäischen Parlament oder zum Deutschen Bundestag
 annehmen. Das Nähere bestimmt ein Gesetz. Für Beamtinnen und Beamte,
 die in die gesetzgebende Körperschaft eines Landes gewählt worden sind
 und deren Amt kraft Gesetzes mit dem Mandat unvereinbar ist, gelten
@@ -1269,20 +1091,20 @@ Parlamentarischen Staatssekretäre entspricht.
 
 (3) Bei Eintritt in ein kommunales Wahlbeamtenverhältnis auf Zeit ist
 § 31 Abs. 1 Satz 1 Nr. 2 nicht anzuwenden. Die Rechte und Pflichten
-aus dem zuletzt im Beamtenverhältnis wahrgenommenen Amt ruhen für die
-Dauer des Wahlbeamtenverhältnisses mit Ausnahme der Pflicht zur
-Verschwiegenheit und des Verbotes der Annahme von Belohnungen,
-Geschenken und sonstigen Vorteilen. Beamtinnen und Beamte kehren nach
-Beendigung ihrer Amtszeit unter Übertragung ihres letzten Amtes in ihr
-Dienstverhältnis zurück, sofern sie zu diesem Zeitpunkt noch nicht die
-für sie geltende Altersgrenze erreicht haben. Die Beamtinnen und
-Beamten erhalten nach Beendigung des Wahlbeamtenverhältnisses die
-Besoldung aus dem zuletzt im Beamtenverhältnis des Bundes
+aus dem zuletzt im Beamtenverhältnis wahrgenommenen Amt ruhen für
+die Dauer des Wahlbeamtenverhältnisses mit Ausnahme der Pflicht
+zur Verschwiegenheit und des Verbotes der Annahme von Belohnungen,
+Geschenken und sonstigen Vorteilen. Beamtinnen und Beamte kehren
+nach Beendigung ihrer Amtszeit unter Übertragung ihres letzten Amtes
+in ihr Dienstverhältnis zurück, sofern sie zu diesem Zeitpunkt noch
+nicht die für sie geltende Altersgrenze erreicht haben. Die Beamtinnen
+und Beamten erhalten nach Beendigung des Wahlbeamtenverhältnisses
+die Besoldung aus dem zuletzt im Beamtenverhältnis des Bundes
 wahrgenommenen Amt. Wird die Rückkehr nach Beendigung des
-Wahlbeamtenverhältnisses abgelehnt oder ihr nicht gefolgt, sind sie zu
-entlassen. Die Entlassung wird von der Stelle schriftlich verfügt, die
-für die Ernennung zuständig wäre. Die Entlassung tritt mit dem Ablauf
-des Monats ein, der auf den Monat folgt, in dem die
+Wahlbeamtenverhältnisses abgelehnt oder ihr nicht gefolgt, sind
+sie zu entlassen. Die Entlassung wird von der Stelle schriftlich
+verfügt, die für die Ernennung zuständig wäre. Die Entlassung tritt
+mit dem Ablauf des Monats ein, der auf den Monat folgt, in dem die
 Entlassungsverfügung zugestellt wird.
 
 
@@ -1294,15 +1116,12 @@ das Urteil eines deutschen Gerichts
 1.  wegen einer vorsätzlichen Tat zu einer Freiheitsstrafe von mindestens
     einem Jahr oder
 
-
 2.  wegen einer vorsätzlichen Tat, die nach den Vorschriften über
     Friedensverrat, Hochverrat, Gefährdung des demokratischen
-    Rechtsstaates oder Landesverrat und Gefährdung der äußeren Sicherheit
-    oder, soweit sich die Tat auf eine Diensthandlung im Hauptamt bezieht,
-    Bestechlichkeit strafbar ist, zu einer Freiheitsstrafe von mindestens
-    sechs Monaten
-
-
+    Rechtsstaates oder Landesverrat und Gefährdung der äußeren Sicherheit,
+    Volksverhetzung oder, soweit sich die Tat auf eine Diensthandlung
+    im Hauptamt bezieht, Bestechlichkeit strafbar ist, zu einer
+    Freiheitsstrafe von mindestens sechs Monaten
 
 verurteilt, endet das Beamtenverhältnis mit der Rechtskraft des
 Urteils. Entsprechendes gilt, wenn die Fähigkeit zur Wahrnehmung
@@ -1319,8 +1138,8 @@ dem Amt verliehenen Titel dürfen nicht weiter geführt werden.
 #### § 42 Wirkung eines Wiederaufnahmeverfahrens
 
 (1) Wird eine Entscheidung, die den Verlust der Beamtenrechte bewirkt
-hat, im Wiederaufnahmeverfahren durch eine Entscheidung ersetzt, die
-diese Wirkung nicht hat, gilt das Beamtenverhältnis als nicht
+hat, im Wiederaufnahmeverfahren durch eine Entscheidung ersetzt,
+die diese Wirkung nicht hat, gilt das Beamtenverhältnis als nicht
 unterbrochen. Beamtinnen und Beamte haben, sofern sie die Altersgrenze
 noch nicht erreicht haben und dienstfähig sind, Anspruch auf
 Übertragung eines Amtes derselben oder einer mindestens gleichwertigen
@@ -1332,8 +1151,8 @@ Besoldung, die ihnen aus ihrem bisherigen Amt zugestanden hätte.
 Sachverhalts oder aufgrund eines rechtskräftigen Strafurteils, das
 nach der früheren Entscheidung ergangen ist, ein Disziplinarverfahren
 mit dem Ziel der Entfernung aus dem Beamtenverhältnis eingeleitet
-worden, verliert die Beamtin oder der Beamte die ihr oder ihm nach
-Absatz 1 zustehenden Ansprüche, wenn auf Entfernung aus dem
+worden, verliert die Beamtin oder der Beamte die ihr oder ihm
+nach Absatz 1 zustehenden Ansprüche, wenn auf Entfernung aus dem
 Beamtenverhältnis erkannt wird. Bis zur Rechtskraft der Entscheidung
 können die Ansprüche nicht geltend gemacht werden.
 
@@ -1349,8 +1168,8 @@ Beamtinnen und Beamten sind hierüber zur Auskunft verpflichtet.
 
 #### § 43 Gnadenrecht
 
-Der Bundespräsidentin oder dem Bundespräsidenten oder der von ihr oder
-ihm bestimmten Stelle steht hinsichtlich des Verlustes der
+Der Bundespräsidentin oder dem Bundespräsidenten oder der von ihr
+oder ihm bestimmten Stelle steht hinsichtlich des Verlustes der
 Beamtenrechte das Gnadenrecht zu. Wird im Gnadenweg der Verlust der
 Beamtenrechte in vollem Umfang beseitigt, gilt ab diesem Zeitpunkt §
 42 entsprechend.
@@ -1365,18 +1184,18 @@ Beamtenrechte in vollem Umfang beseitigt, gilt ab diesem Zeitpunkt §
 den Ruhestand zu versetzen, wenn sie oder er wegen des körperlichen
 Zustandes oder aus gesundheitlichen Gründen zur Erfüllung der
 Dienstpflichten dauernd unfähig (dienstunfähig) ist. Als dienstunfähig
-kann auch angesehen werden, wer infolge Erkrankung innerhalb von sechs
-Monaten mehr als drei Monate keinen Dienst getan hat, wenn keine
-Aussicht besteht, dass innerhalb weiterer sechs Monate die
+kann auch angesehen werden, wer infolge Erkrankung innerhalb von
+sechs Monaten mehr als drei Monate keinen Dienst getan hat, wenn
+keine Aussicht besteht, dass innerhalb weiterer sechs Monate die
 Dienstfähigkeit wieder voll hergestellt ist. In den Ruhestand wird
 nicht versetzt, wer anderweitig verwendbar ist.
 
 (2) Eine anderweitige Verwendung ist möglich, wenn ein anderes Amt,
 auch einer anderen Laufbahn, übertragen werden kann. Die Übertragung
-eines anderen Amtes ohne Zustimmung ist zulässig, wenn das neue Amt
-zum Bereich desselben Dienstherrn gehört, es mit mindestens demselben
-Endgrundgehalt verbunden ist wie das bisherige Amt und zu erwarten
-ist, dass die Beamtin oder der Beamte den gesundheitlichen
+eines anderen Amtes ohne Zustimmung ist zulässig, wenn das neue
+Amt zum Bereich desselben Dienstherrn gehört, es mit mindestens
+demselben Endgrundgehalt verbunden ist wie das bisherige Amt und zu
+erwarten ist, dass die Beamtin oder der Beamte den gesundheitlichen
 Anforderungen des neuen Amtes genügt.
 
 (3) Zur Vermeidung der Versetzung in den Ruhestand kann einer Beamtin
@@ -1395,9 +1214,9 @@ Aufgabe unter Berücksichtigung der bisherigen Tätigkeit zumutbar ist.
 Das neue Amt muss derselben Laufbahngruppe zugeordnet sein wie das
 derzeitige Amt. Für die Übertragung bedarf es keiner Ernennung.
 
-(5) Die Beamtin oder der Beamte, die oder der nicht die Befähigung für
-eine andere Laufbahn besitzt, ist verpflichtet, an
-Qualifizierungsmaßnahmen für den Erwerb der neuen Befähigung
+(5) Die Beamtin oder der Beamte, die oder der nicht die
+Befähigung für eine andere Laufbahn besitzt, ist verpflichtet,
+an Qualifizierungsmaßnahmen für den Erwerb der neuen Befähigung
 teilzunehmen.
 
 (6) Bestehen Zweifel über die Dienstunfähigkeit, besteht die
@@ -1405,20 +1224,20 @@ Verpflichtung, sich nach Weisung der Behörde ärztlich untersuchen und,
 falls dies aus amtsärztlicher Sicht für erforderlich gehalten wird,
 auch beobachten zu lassen.
 
-(7) Gesetzliche Vorschriften, die für einzelne Gruppen von Beamtinnen
-und Beamten andere Voraussetzungen für die Beurteilung der
+(7) Gesetzliche Vorschriften, die für einzelne Gruppen von
+Beamtinnen und Beamten andere Voraussetzungen für die Beurteilung der
 Dienstunfähigkeit bestimmen, bleiben unberührt.
 
 
 #### § 45 Begrenzte Dienstfähigkeit
 
-(1) Von der Versetzung in den Ruhestand wegen Dienstunfähigkeit ist
-abzusehen, wenn die Beamtin oder der Beamte unter Beibehaltung des
-übertragenen Amtes die Dienstpflichten noch während mindestens der
-Hälfte der regelmäßigen Arbeitszeit erfüllen kann (begrenzte
+(1) Von der Versetzung in den Ruhestand wegen Dienstunfähigkeit
+ist abzusehen, wenn die Beamtin oder der Beamte unter Beibehaltung
+des übertragenen Amtes die Dienstpflichten noch während mindestens
+der Hälfte der regelmäßigen Arbeitszeit erfüllen kann (begrenzte
 Dienstfähigkeit). Von der begrenzten Dienstfähigkeit soll abgesehen
-werden, wenn der Beamtin oder dem Beamten nach § 44 Abs. 2 oder 3 ein
-anderes Amt oder eine geringerwertige Tätigkeit übertragen werden
+werden, wenn der Beamtin oder dem Beamten nach § 44 Abs. 2 oder 3
+ein anderes Amt oder eine geringerwertige Tätigkeit übertragen werden
 kann.
 
 (2) Die Arbeitszeit ist entsprechend der begrenzten Dienstfähigkeit zu
@@ -1447,8 +1266,8 @@ in Betracht.
 (2) Beamtinnen und Beamten, die wegen Dienstunfähigkeit in den
 Ruhestand versetzt wurden, kann ferner unter Übertragung eines Amtes
 ihrer früheren Laufbahn nach Absatz 1 auch eine geringerwertige
-Tätigkeit übertragen werden, wenn eine anderweitige Verwendung nicht
-möglich ist und ihnen die Wahrnehmung der neuen Aufgabe unter
+Tätigkeit übertragen werden, wenn eine anderweitige Verwendung
+nicht möglich ist und ihnen die Wahrnehmung der neuen Aufgabe unter
 Berücksichtigung ihrer früheren Tätigkeit zumutbar ist.
 
 (3) Beamtinnen und Beamte, die nicht die Befähigung für die andere
@@ -1457,12 +1276,12 @@ der neuen Befähigung teilzunehmen.
 
 (4) Beamtinnen und Beamte sind verpflichtet, zur Wiederherstellung
 ihrer Dienstfähigkeit an geeigneten und zumutbaren gesundheitlichen
-und beruflichen Rehabilitationsmaßnahmen teilzunehmen. Diese
-Verpflichtung gilt auch zur Vermeidung einer drohenden
-Dienstunfähigkeit. Vor der Versetzung in den Ruhestand sind sie auf
-diese Pflicht hinzuweisen, es sei denn, nach den Umständen des
-Einzelfalls kommt eine erneute Berufung in das Beamtenverhältnis nicht
-in Betracht. Der Dienstherr hat, sofern keine anderen Ansprüche
+und beruflichen Rehabilitationsmaßnahmen teilzunehmen.
+Diese Verpflichtung gilt auch zur Vermeidung einer drohenden
+Dienstunfähigkeit. Vor der Versetzung in den Ruhestand sind sie
+auf diese Pflicht hinzuweisen, es sei denn, nach den Umständen des
+Einzelfalls kommt eine erneute Berufung in das Beamtenverhältnis
+nicht in Betracht. Der Dienstherr hat, sofern keine anderen Ansprüche
 bestehen, die Kosten für diese gesundheitlichen und beruflichen
 Rehabilitationsmaßnahmen zu tragen.
 
@@ -1479,8 +1298,8 @@ verpflichtet, sich nach Weisung der Behörde ärztlich untersuchen zu
 lassen. Sie können eine solche Untersuchung verlangen, wenn sie einen
 Antrag auf erneute Berufung in das Beamtenverhältnis stellen.
 
-(8) Bei einer erneuten Berufung gilt das frühere Beamtenverhältnis als
-fortgesetzt.
+(8) Bei einer erneuten Berufung gilt das frühere Beamtenverhältnis
+als fortgesetzt.
 
 
 #### § 47 Verfahren bei Dienstunfähigkeit
@@ -1520,26 +1339,26 @@ Dienstbehörde bestimmt, welche Ärztin oder welcher Arzt mit der
 Fertigung von Gutachten beauftragt werden kann. Sie kann diese
 Befugnis auf nachgeordnete Behörden übertragen.
 
-(2) Die Ärztin oder der Arzt teilt der Behörde auf Anforderung im
-Einzelfall die tragenden Gründe des Gutachtens mit, soweit deren
-Kenntnis für die Behörde unter Beachtung des Grundsatzes der
-Verhältnismäßigkeit für die von ihr zu treffende Entscheidung
+(2) Die Ärztin oder der Arzt teilt der Behörde auf Anforderung
+im Einzelfall die tragenden Gründe des Gutachtens mit, soweit
+deren Kenntnis für die Behörde unter Beachtung des Grundsatzes
+der Verhältnismäßigkeit für die von ihr zu treffende Entscheidung
 erforderlich ist. Diese Mitteilung ist in einem gesonderten und
-versiegelten Umschlag zu übersenden und versiegelt zur Personalakte zu
-nehmen. Sie darf nur für die Entscheidung der in Absatz 1 genannten
+versiegelten Umschlag zu übersenden und versiegelt zur Personalakte
+zu nehmen. Sie darf nur für die Entscheidung der in Absatz 1 genannten
 Fälle verwendet werden.
 
 (3) Zu Beginn der Untersuchung ist die Beamtin oder der Beamte auf
-deren Zweck und die Mitteilungspflicht nach Absatz 2 hinzuweisen. Die
-Ärztin oder der Arzt übermittelt der Beamtin oder dem Beamten oder,
-soweit dem ärztliche Gründe entgegenstehen, einer oder einem
+deren Zweck und die Mitteilungspflicht nach Absatz 2 hinzuweisen.
+Die Ärztin oder der Arzt übermittelt der Beamtin oder dem Beamten
+oder, soweit dem ärztliche Gründe entgegenstehen, einer oder einem
 Bevollmächtigten ein Doppel der Mitteilung nach Absatz 2.
 
 
 #### § 49 Ruhestand beim Beamtenverhältnis auf Probe wegen Dienstunfähigkeit
 
-(1) Beamtinnen auf Probe und Beamte auf Probe sind in den Ruhestand zu
-versetzen, wenn sie infolge Krankheit, Verwundung oder sonstiger
+(1) Beamtinnen auf Probe und Beamte auf Probe sind in den Ruhestand
+zu versetzen, wenn sie infolge Krankheit, Verwundung oder sonstiger
 Beschädigung, die sie sich ohne grobes Verschulden bei Ausübung oder
 aus Veranlassung des Dienstes zugezogen haben, dienstunfähig geworden
 sind.
@@ -1564,186 +1383,39 @@ Wartezeit voraus, soweit gesetzlich nichts anderes bestimmt ist.
 
 #### § 51 Ruhestand wegen Erreichens der Altersgrenze
 
-(1) Beamtinnen auf Lebenszeit und Beamte auf Lebenszeit treten mit dem
-Ende des Monats in den Ruhestand, in dem sie die für sie jeweils
+(1) Beamtinnen auf Lebenszeit und Beamte auf Lebenszeit treten mit
+dem Ende des Monats in den Ruhestand, in dem sie die für sie jeweils
 geltende Altersgrenze erreichen. Die Altersgrenze wird in der Regel
 mit Vollendung des 67. Lebensjahres erreicht (Regelaltersgrenze),
 soweit nicht gesetzlich eine andere Altersgrenze (besondere
 Altersgrenze) bestimmt ist.
 
-(2) Beamtinnen auf Lebenszeit und Beamte auf Lebenszeit, die vor dem
-1\. Januar 1947 geboren sind, erreichen die Regelaltersgrenze mit
+(2) Beamtinnen auf Lebenszeit und Beamte auf Lebenszeit, die vor
+dem 1. Januar 1947 geboren sind, erreichen die Regelaltersgrenze mit
 Vollendung des 65. Lebensjahres. Für Beamtinnen auf Lebenszeit und
 Beamte auf Lebenszeit, die nach dem 31. Dezember 1946 geboren sind,
 wird die Regelaltersgrenze wie folgt angehoben:
 
-*    *   Geburtsjahr
-
-    *   Anhebung
-        um Monate
-
-    *   Altersgrenze
-
-
-*    *   Jahr
-
-    *   Monat
-
-
-*    *   1947
-
-    *   1
-
-    *   65
-
-    *   1
-
-
-*    *   1948
-
-    *   2
-
-    *   65
-
-    *   2
-
-
-*    *   1949
-
-    *   3
-
-    *   65
-
-    *   3
-
-
-*    *   1950
-
-    *   4
-
-    *   65
-
-    *   4
-
-
-*    *   1951
-
-    *   5
-
-    *   65
-
-    *   5
-
-
-*    *   1952
-
-    *   6
-
-    *   65
-
-    *   6
-
-
-*    *   1953
-
-    *   7
-
-    *   65
-
-    *   7
-
-
-*    *   1954
-
-    *   8
-
-    *   65
-
-    *   8
-
-
-*    *   1955
-
-    *   9
-
-    *   65
-
-    *   9
-
-
-*    *   1956
-
-    *   10
-
-    *   65
-
-    *   10
-
-
-*    *   1957
-
-    *   11
-
-    *   65
-
-    *   11
-
-
-*    *   1958
-
-    *   12
-
-    *   66
-
-    *   0
-
-
-*    *   1959
-
-    *   14
-
-    *   66
-
-    *   2
-
-
-*    *   1960
-
-    *   16
-
-    *   66
-
-    *   4
-
-
-*    *   1961
-
-    *   18
-
-    *   66
-
-    *   6
-
-
-*    *   1962
-
-    *   20
-
-    *   66
-
-    *   8
-
-
-*    *   1963
-
-    *   22
-
-    *   66
-
-    *   10
-
-
-
+| Geburtsjahr | Anhebung um Monate | Altersgrenze |  |
+| --- | --- | --- | --- |
+| Jahr | Monat |  |  |
+| 1947 | 1 | 65 | 1 |
+| 1948 | 2 | 65 | 2 |
+| 1949 | 3 | 65 | 3 |
+| 1950 | 4 | 65 | 4 |
+| 1951 | 5 | 65 | 5 |
+| 1952 | 6 | 65 | 6 |
+| 1953 | 7 | 65 | 7 |
+| 1954 | 8 | 65 | 8 |
+| 1955 | 9 | 65 | 9 |
+| 1956 | 10 | 65 | 10 |
+| 1957 | 11 | 65 | 11 |
+| 1958 | 12 | 66 | 0 |
+| 1959 | 14 | 66 | 2 |
+| 1960 | 16 | 66 | 4 |
+| 1961 | 18 | 66 | 6 |
+| 1962 | 20 | 66 | 8 |
+| 1963 | 22 | 66 | 10 |
 
 (3) Beamtinnen auf Lebenszeit und Beamte auf Lebenszeit im
 Feuerwehrdienst der Bundeswehr treten mit dem Ende des Monats in den
@@ -1756,180 +1428,27 @@ Lebensjahr vollenden, wenn sie vor dem 1. Januar 1952 geboren sind.
 Für Beamtinnen und Beamte im Sinne der Sätze 1 und 2, die nach dem 31.
 Dezember 1951 geboren sind, wird die Altersgrenze wie folgt angehoben:
 
-*    *   Geburtsjahr
-        Geburtsmonat
-
-    *   Anhebung
-        um Monate
-
-    *   Altersgrenze
-
-
-*    *   Jahr
-
-    *   Monat
-
-
-*    *   1952
-
-    *
-    *
-    *
-
-*    *   Januar
-
-    *   1
-
-    *   60
-
-    *   1
-
-
-*    *   Februar
-
-    *   2
-
-    *   60
-
-    *   2
-
-
-*    *   März
-
-    *   3
-
-    *   60
-
-    *   3
-
-
-*    *   April
-
-    *   4
-
-    *   60
-
-    *   4
-
-
-*    *   Mai
-
-    *   5
-
-    *   60
-
-    *   5
-
-
-*    *   Juni-Dezember
-
-    *   6
-
-    *   60
-
-    *   6
-
-
-*    *   1953
-
-    *   7
-
-    *   60
-
-    *   7
-
-
-*    *   1954
-
-    *   8
-
-    *   60
-
-    *   8
-
-
-*    *   1955
-
-    *   9
-
-    *   60
-
-    *   9
-
-
-*    *   1956
-
-    *   10
-
-    *   60
-
-    *   10
-
-
-*    *   1957
-
-    *   11
-
-    *   60
-
-    *   11
-
-
-*    *   1958
-
-    *   12
-
-    *   61
-
-    *   0
-
-
-*    *   1959
-
-    *   14
-
-    *   61
-
-    *   2
-
-
-*    *   1960
-
-    *   16
-
-    *   61
-
-    *   4
-
-
-*    *   1961
-
-    *   18
-
-    *   61
-
-    *   6
-
-
-*    *   1962
-
-    *   20
-
-    *   61
-
-    *   8
-
-
-*    *   1963
-
-    *   22
-
-    *   61
-
-    *   10
-
-
-
+| Geburtsjahr Geburtsmonat | Anhebung um Monate | Altersgrenze |  |
+| --- | --- | --- | --- |
+| Jahr | Monat |  |  |
+| 1952 |  |  |  |
+| Januar | 1 | 60 | 1 |
+| Februar | 2 | 60 | 2 |
+| März | 3 | 60 | 3 |
+| April | 4 | 60 | 4 |
+| Mai | 5 | 60 | 5 |
+| Juni-Dezember | 6 | 60 | 6 |
+| 1953 | 7 | 60 | 7 |
+| 1954 | 8 | 60 | 8 |
+| 1955 | 9 | 60 | 9 |
+| 1956 | 10 | 60 | 10 |
+| 1957 | 11 | 60 | 11 |
+| 1958 | 12 | 61 | 0 |
+| 1959 | 14 | 61 | 2 |
+| 1960 | 16 | 61 | 4 |
+| 1961 | 18 | 61 | 6 |
+| 1962 | 20 | 61 | 8 |
+| 1963 | 22 | 61 | 10 |
 
 (4) Wer die Regelaltersgrenze oder eine gesetzlich bestimmte besondere
 Altersgrenze erreicht hat, darf nicht zur Beamtin oder zum Beamten
@@ -1943,12 +1462,8 @@ ihren Antrag in den Ruhestand versetzt werden, wenn
 
 1.  sie das 62. Lebensjahr vollendet haben und
 
-
 2.  schwerbehindert im Sinne des § 2 Abs. 2 des Neunten Buches
     Sozialgesetzbuch sind.
-
-
-
 
 (2) Beamtinnen auf Lebenszeit und Beamte auf Lebenszeit, die
 schwerbehindert im Sinne des § 2 Abs. 2 des Neunten Buches
@@ -1959,180 +1474,27 @@ auf Lebenszeit, die schwerbehindert im Sinne des § 2 Abs. 2 des
 Neunten Buches Sozialgesetzbuch sind und nach dem 31. Dezember 1951
 geboren sind, wird die Altersgrenze wie folgt angehoben:
 
-*    *   Geburtsjahr
-        Geburtsmonat
-
-    *   Anhebung
-        um Monate
-
-    *   Altersgrenze
-
-
-*    *   Jahr
-
-    *   Monat
-
-
-*    *   1952
-
-    *
-    *
-    *
-
-*    *   Januar
-
-    *   1
-
-    *   60
-
-    *   1
-
-
-*    *   Februar
-
-    *   2
-
-    *   60
-
-    *   2
-
-
-*    *   März
-
-    *   3
-
-    *   60
-
-    *   3
-
-
-*    *   April
-
-    *   4
-
-    *   60
-
-    *   4
-
-
-*    *   Mai
-
-    *   5
-
-    *   60
-
-    *   5
-
-
-*    *   Juni-Dezember
-
-    *   6
-
-    *   60
-
-    *   6
-
-
-*    *   1953
-
-    *   7
-
-    *   60
-
-    *   7
-
-
-*    *   1954
-
-    *   8
-
-    *   60
-
-    *   8
-
-
-*    *   1955
-
-    *   9
-
-    *   60
-
-    *   9
-
-
-*    *   1956
-
-    *   10
-
-    *   60
-
-    *   10
-
-
-*    *   1957
-
-    *   11
-
-    *   60
-
-    *   11
-
-
-*    *   1958
-
-    *   12
-
-    *   61
-
-    *   0
-
-
-*    *   1959
-
-    *   14
-
-    *   61
-
-    *   2
-
-
-*    *   1960
-
-    *   16
-
-    *   61
-
-    *   4
-
-
-*    *   1961
-
-    *   18
-
-    *   61
-
-    *   6
-
-
-*    *   1962
-
-    *   20
-
-    *   61
-
-    *   8
-
-
-*    *   1963
-
-    *   22
-
-    *   61
-
-    *   10
-
-
-
+| Geburtsjahr Geburtsmonat | Anhebung um Monate | Altersgrenze |  |
+| --- | --- | --- | --- |
+| Jahr | Monat |  |  |
+| 1952 |  |  |  |
+| Januar | 1 | 60 | 1 |
+| Februar | 2 | 60 | 2 |
+| März | 3 | 60 | 3 |
+| April | 4 | 60 | 4 |
+| Mai | 5 | 60 | 5 |
+| Juni-Dezember | 6 | 60 | 6 |
+| 1953 | 7 | 60 | 7 |
+| 1954 | 8 | 60 | 8 |
+| 1955 | 9 | 60 | 9 |
+| 1956 | 10 | 60 | 10 |
+| 1957 | 11 | 60 | 11 |
+| 1958 | 12 | 61 | 0 |
+| 1959 | 14 | 61 | 2 |
+| 1960 | 16 | 61 | 4 |
+| 1961 | 18 | 61 | 6 |
+| 1962 | 20 | 61 | 8 |
+| 1963 | 22 | 61 | 10 |
 
 (3) Beamtinnen auf Lebenszeit und Beamte auf Lebenszeit können auf
 ihren Antrag in den Ruhestand versetzt werden, wenn sie das 63.
@@ -2146,11 +1508,8 @@ Ruhestand bis zu drei Jahre hinausgeschoben werden, wenn
 
 1.  dies im dienstlichen Interesse liegt und
 
-
 2.  die Arbeitszeit mindestens die Hälfte der regelmäßigen wöchentlichen
     Arbeitszeit beträgt.
-
-
 
 Der Antrag ist spätestens sechs Monate vor dem Eintritt in den
 Ruhestand zu stellen. Unter den gleichen Voraussetzungen kann der
@@ -2163,34 +1522,24 @@ drei Jahre hinausgeschoben werden.
 
     a)  teilzeitbeschäftigt oder beurlaubt nach § 92 gewesen ist,
 
-
     b)  Familienpflegezeit nach § 92a in Anspruch genommen hat oder
 
-
     c)  Pflegezeit nach § 92b in Anspruch genommen hat,
-
-
-
-
 
 2.  das Ruhegehalt, das sie oder er bei Eintritt in den Ruhestand wegen
     Erreichens der Altersgrenze erhalten würde, nicht die Höchstgrenze
     erreicht,
 
-
 3.  die Arbeitszeit mindestens die Hälfte der regelmäßigen wöchentlichen
     Arbeitszeit beträgt und
 
-
 4.  dienstliche Belange einem Hinausschieben nicht entgegenstehen.
-
-
 
 Den familienbedingten Abwesenheitszeiten nach Satz 1 Nummer 1 stehen
 entsprechende Zeiten im Beamten- oder Richterverhältnis oder als
-Tarifbeschäftigte beim Bund oder bei einem anderen Dienstherrn oder
-bei einem öffentlichen Arbeitgeber gleich. Der Eintritt in den
-Ruhestand kann höchstens um die Dauer der familienbedingten
+Tarifbeschäftigte beim Bund oder bei einem anderen Dienstherrn
+oder bei einem öffentlichen Arbeitgeber gleich. Der Eintritt in
+den Ruhestand kann höchstens um die Dauer der familienbedingten
 Teilzeitbeschäftigung oder Beurlaubung oder Familienpflegezeit
 hinausgeschoben werden.
 
@@ -2199,27 +1548,19 @@ den Ruhestand insbesondere dann entgegen, wenn
 
 1.  die bisher wahrgenommenen Aufgaben wegfallen,
 
-
 2.  Planstellen eingespart werden sollen,
-
 
 3.  die Beamtin oder der Beamte in einem Planstellenabbaubereich
     beschäftigt ist,
 
-
 4.  die Aufgabe, die die Beamtin oder der Beamte wahrnimmt, einem festen
     Rotationsprinzip unterliegt,
-
 
 5.  andere personalwirtschaftliche Gründe gegen eine Weiterbeschäftigung
     sprechen oder
 
-
 6.  zu erwarten ist, dass sie oder er den Anforderungen des Dienstes nicht
     mehr gewachsen ist.
-
-
-
 
 (2) Der Eintritt in den Ruhestand kann im Einzelfall mit Zustimmung
 der Beamtin oder des Beamten um höchstens drei Jahre hinausgeschoben
@@ -2228,11 +1569,8 @@ werden, wenn
 1.  die Dienstgeschäfte nur durch diese Beamtin oder diesen Beamten
     fortgeführt werden können und
 
-
 2.  die Arbeitszeit der Beamtin oder des Beamten mindestens die Hälfte der
     regelmäßigen Arbeitszeit beträgt.
-
-
 
 Das Gleiche gilt bei einer besonderen Altersgrenze.
 
@@ -2246,19 +1584,19 @@ Zeitraum von höchstens zwei Jahren vor Beginn des Monats, in dem die
 jeweils geltende Regelaltersgrenze oder die besondere Altersgrenze
 erreicht wird, und höchstens zwei Jahre danach Teilzeitbeschäftigung
 mit der Hälfte der regelmäßigen Arbeitszeit bewilligt wird. Die
-Zeiträume vor und nach der jeweils geltenden Regelaltersgrenze oder
-der besonderen Altersgrenze müssen gleich lang sein. Sie muss vor dem
-1\. Januar 2023 beginnen. Eine Bewilligung nach § 9 Absatz 2 der
-Arbeitszeitverordnung ist nicht möglich. Der Antrag ist spätestens
-sechs Monate vor dem Zeitpunkt zu stellen, zu dem die
+Zeiträume vor und nach der jeweils geltenden Regelaltersgrenze
+oder der besonderen Altersgrenze müssen gleich lang sein. Sie muss
+vor dem 1. Januar 2023 beginnen. Eine Bewilligung nach § 9 Absatz
+2 der Arbeitszeitverordnung ist nicht möglich. Der Antrag ist
+spätestens sechs Monate vor dem Zeitpunkt zu stellen, zu dem die
 Teilzeitbeschäftigung beginnen soll.
 
-(5) Dem Antrag nach Absatz 4 darf nur entsprochen werden, wenn die
-Beamtin oder der Beamte sich verpflichtet, während des
-Bewilligungszeitraumes berufliche Verpflichtungen außerhalb des
-Beamtenverhältnisses nur in dem Umfang einzugehen, in dem
-Vollzeitbeschäftigten die Ausübung von Nebentätigkeiten gestattet ist.
-Ausnahmen hiervon sind nur zulässig, soweit dies mit dem
+(5) Dem Antrag nach Absatz 4 darf nur entsprochen werden, wenn
+die Beamtin oder der Beamte sich verpflichtet, während des
+Bewilligungszeitraumes berufliche Verpflichtungen außerhalb
+des Beamtenverhältnisses nur in dem Umfang einzugehen, in dem
+Vollzeitbeschäftigten die Ausübung von Nebentätigkeiten gestattet
+ist. Ausnahmen hiervon sind nur zulässig, soweit dies mit dem
 Beamtenverhältnis vereinbar ist. Dabei ist von der regelmäßigen
 wöchentlichen Arbeitszeit für Vollzeitbeschäftigte auszugehen. Wird
 der Verpflichtung nach Satz 1 schuldhaft nicht nachgekommen, soll die
@@ -2266,12 +1604,12 @@ Bewilligung mit Wirkung für die Zukunft widerrufen werden.
 
 (6) Die Bewilligung nach Absatz 4 darf außer in den Fällen des
 Absatzes 5 Satz 4 mit Wirkung für die Zukunft nur widerrufen werden,
-wenn der Beamtin oder dem Beamten die Teilzeitbeschäftigung nicht mehr
-zugemutet werden kann. Wird die Bewilligung widerrufen, nach dem die
-Regelaltersgrenze oder die besondere Altersgrenze erreicht worden ist,
-tritt die Beamtin oder der Beamte mit dem Ende des Monats in den
-Ruhestand, in dem der Widerruf bekannt gegeben worden ist. Die
-Vorschriften über die Beendigung des Beamtenverhältnisses wegen
+wenn der Beamtin oder dem Beamten die Teilzeitbeschäftigung nicht
+mehr zugemutet werden kann. Wird die Bewilligung widerrufen, nach
+dem die Regelaltersgrenze oder die besondere Altersgrenze erreicht
+worden ist, tritt die Beamtin oder der Beamte mit dem Ende des Monats
+in den Ruhestand, in dem der Widerruf bekannt gegeben worden ist.
+Die Vorschriften über die Beendigung des Beamtenverhältnisses wegen
 Dienstunfähigkeit und die Feststellung der begrenzten Dienstfähigkeit
 bleiben unberührt.
 
@@ -2286,52 +1624,49 @@ Lebenszeit oder Beamte auf Lebenszeit sind:
 1.  Staatssekretärinnen und Staatssekretäre sowie Ministerialdirektorinnen
     und Ministerialdirektoren,
 
-
 2.  sonstige Beamtinnen und Beamte des höheren Dienstes im auswärtigen
     Dienst von der Besoldungsgruppe B 3 an aufwärts sowie Botschafterinnen
     und Botschafter in der Besoldungsgruppe A 16,
-
 
 3.  Beamtinnen und Beamte des höheren Dienstes des Militärischen
     Abschirmdienstes, des Bundesamtes für Verfassungsschutz und des
     Bundesnachrichtendienstes von der Besoldungsgruppe B 6 an aufwärts,
 
-
-4.  die Chefin oder den Chef des Presse- und Informationsamtes der
-    Bundesregierung, deren oder dessen Stellvertretung und die
+4.  die Chefin oder den Chef des Presse- und Informationsamtes
+    der Bundesregierung, deren oder dessen Stellvertretung und die
     Stellvertretende Sprecherin oder den Stellvertretenden Sprecher der
     Bundesregierung,
-
 
 5.  die Generalbundesanwältin oder den Generalbundesanwalt beim
     Bundesgerichtshof,
 
-
 6.  (weggefallen)
-
 
 7.  die Präsidentin oder den Präsidenten des Bundeskriminalamtes,
 
-
 8.  die Präsidentin oder den Präsidenten des Bundespolizeipräsidiums,
-
 
 9.  die Präsidentin oder den Präsidenten des Bundesamtes für das
     Personalmanagement der Bundeswehr,
 
-
 10. die Präsidentin oder den Präsidenten des Bundesamtes für Ausrüstung,
     Informationstechnik und Nutzung der Bundeswehr,
 
-
 11. die Präsidentin oder den Präsidenten des Bundesamtes für
-    Infrastruktur, Umweltschutz und Dienstleistungen der Bundeswehr und
+    Infrastruktur, Umweltschutz und Dienstleistungen der Bundeswehr,
 
+12. die Präsidentin oder den Präsidenten der Generalzolldirektion,
 
-12. die Präsidentin oder den Präsidenten der Generalzolldirektion.
+13. die Präsidentin oder den Präsidenten des Bundesamtes für Migration und
+    Flüchtlinge und
 
+14. die Präsidentin oder den Präsidenten des Bundesamtes für Sicherheit in
+    der Informationstechnik.
 
-
+Satz 1 gilt nur für Beamtinnen und Beamte, deren Ernennung zu
+einem Zeitpunkt erfolgte, in dem das ihnen übertragene Amt in Satz
+1 aufgenommen war, oder sich ein Gesetzentwurf zur Aufnahme einer
+entsprechenden Regelung im Gesetzgebungsverfahren befand.
 
 (2) Gesetzliche Vorschriften, nach denen andere politische Beamtinnen
 und politische Beamte in den einstweiligen Ruhestand versetzt werden
@@ -2342,8 +1677,8 @@ können, bleiben unberührt.
 
 Im Fall der Auflösung oder einer wesentlichen Änderung des Aufbaus
 oder der Aufgaben einer Behörde oder der Verschmelzung von Behörden
-können Beamtinnen auf Lebenszeit und Beamte auf Lebenszeit, deren
-Aufgabengebiet davon betroffen ist und die ein Amt der
+können Beamtinnen auf Lebenszeit und Beamte auf Lebenszeit,
+deren Aufgabengebiet davon betroffen ist und die ein Amt der
 Bundesbesoldungsordnung B wahrnehmen, in den einstweiligen Ruhestand
 versetzt werden, wenn durch die organisatorische Änderung eine ihrem
 Amt entsprechende Planstelle eingespart wird und eine Versetzung nicht
@@ -2352,15 +1687,18 @@ Ruhestand versetzten Beamtinnen und Beamten, die dafür geeignet sind,
 vorbehalten werden.
 
 
-#### § 56 Beginn des einstweiligen Ruhestands
+#### § 56 Beginn des einstweiligen Ruhestands; Bekenntnis zu der freiheitlichen demokratischen Grundordnung
 
 Wenn nicht im Einzelfall ausdrücklich ein späterer Zeitpunkt
 festgesetzt wird, beginnt der einstweilige Ruhestand mit dem
 Zeitpunkt, zu dem die Versetzung in den einstweiligen Ruhestand der
-Beamtin oder dem Beamten bekannt gegeben wird, spätestens jedoch mit
-dem Ende des dritten Monats, der auf den Monat der Bekanntgabe folgt.
-Die Verfügung kann bis zum Beginn des Ruhestands zurückgenommen
-werden.
+Beamtin oder dem Beamten bekannt gegeben wird, spätestens jedoch
+mit dem Ende des dritten Monats, der auf den Monat der Bekanntgabe
+folgt. Die Verfügung kann bis zum Beginn des Ruhestands zurückgenommen
+werden. Politische Beamtinnen und politische Beamte müssen sich auch
+während des einstweiligen Ruhestands durch ihr gesamtes Verhalten
+zu der freiheitlichen demokratischen Grundordnung im Sinne des
+Grundgesetzes bekennen.
 
 
 #### § 57 Erneute Berufung
@@ -2414,34 +1752,34 @@ ihres Amtes ergeben.
 
 #### § 61 Wahrnehmung der Aufgaben, Verhalten und Erscheinungsbild
 
-(1) Beamtinnen und Beamte haben sich mit vollem persönlichem Einsatz
-ihrem Beruf zu widmen. Sie haben das ihnen übertragene Amt
-uneigennützig nach bestem Gewissen wahrzunehmen. Ihr Verhalten
+(1) Beamtinnen und Beamte haben sich mit vollem persönlichem
+Einsatz ihrem Beruf zu widmen. Sie haben das ihnen übertragene
+Amt uneigennützig nach bestem Gewissen wahrzunehmen. Ihr Verhalten
 innerhalb und außerhalb des Dienstes muss der Achtung und dem
 Vertrauen gerecht werden, die ihr Beruf erfordert.
 
 (2) Beamtinnen und Beamte haben bei Ausübung des Dienstes oder bei
-einer Tätigkeit mit unmittelbarem Dienstbezug auch hinsichtlich ihres
-Erscheinungsbilds Rücksicht auf das ihrem Amt entgegengebrachte
+einer Tätigkeit mit unmittelbarem Dienstbezug auch hinsichtlich
+ihres Erscheinungsbilds Rücksicht auf das ihrem Amt entgegengebrachte
 Vertrauen zu nehmen. Insbesondere das Tragen von bestimmten
 Kleidungsstücken, Schmuck, Symbolen und Tätowierungen im sichtbaren
-Bereich sowie die Art der Haar- und Barttracht können von der obersten
-Dienstbehörde eingeschränkt oder untersagt werden, soweit die
-Funktionsfähigkeit der Verwaltung oder die Pflicht zum achtungs- und
-vertrauenswürdigen Verhalten dies erfordert. Das ist insbesondere dann
-der Fall, wenn Merkmale des Erscheinungsbilds nach Satz 2 durch ihre
-über das übliche Maß hinausgehende besonders individualisierende Art
-geeignet sind, die amtliche Funktion der Beamtin oder des Beamten in
-den Hintergrund zu drängen. Religiös oder weltanschaulich konnotierte
-Merkmale des Erscheinungsbilds nach Satz 2 können nur dann
-eingeschränkt oder untersagt werden, wenn sie objektiv geeignet sind,
-das Vertrauen in die neutrale Amtsführung der Beamtin oder des Beamten
-zu beeinträchtigen. Das Bundesministerium des Innern, für Bau und
+Bereich sowie die Art der Haar- und Barttracht können von der
+obersten Dienstbehörde eingeschränkt oder untersagt werden, soweit
+die Funktionsfähigkeit der Verwaltung oder die Pflicht zum achtungs-
+und vertrauenswürdigen Verhalten dies erfordert. Das ist insbesondere
+dann der Fall, wenn Merkmale des Erscheinungsbilds nach Satz 2 durch
+ihre über das übliche Maß hinausgehende besonders individualisierende
+Art geeignet sind, die amtliche Funktion der Beamtin oder des
+Beamten in den Hintergrund zu drängen. Religiös oder weltanschaulich
+konnotierte Merkmale des Erscheinungsbilds nach Satz 2 können nur
+dann eingeschränkt oder untersagt werden, wenn sie objektiv geeignet
+sind, das Vertrauen in die neutrale Amtsführung der Beamtin oder des
+Beamten zu beeinträchtigen. Das Bundesministerium des Innern und für
 Heimat, das Bundesministerium der Finanzen sowie das Bundesministerium
-der Justiz und für Verbraucherschutz werden ermächtigt, jeweils für
-ihren Geschäftsbereich die Einzelheiten zu den Sätzen 2 bis 4 durch
-Rechtsverordnung zu regeln. Die Verhüllung des Gesichts bei der
-Ausübung des Dienstes oder bei einer Tätigkeit mit unmittelbarem
+der Justiz und für Verbraucherschutz werden ermächtigt, jeweils
+für ihren Geschäftsbereich die Einzelheiten zu den Sätzen 2 bis 4
+durch Rechtsverordnung zu regeln. Die Verhüllung des Gesichts bei
+der Ausübung des Dienstes oder bei einer Tätigkeit mit unmittelbarem
 Dienstbezug ist stets unzulässig, es sei denn, dienstliche oder
 gesundheitliche Gründe erfordern dies.
 
@@ -2505,8 +1843,8 @@ Gewissensgründen die Ablegung des vorgeschriebenen Eides ab, können an
 Stelle der Worte „Ich schwöre“ die Worte „Ich gelobe“ oder eine andere
 Beteuerungsformel gesprochen werden.
 
-(4) In den Fällen, in denen nach § 7 Abs. 3 eine Ausnahme von § 7
-Absatz 1 Satz 1 Nummer 1 zugelassen worden ist, kann von einer
+(4) In den Fällen, in denen nach § 7 Abs. 3 eine Ausnahme von §
+7 Absatz 1 Satz 1 Nummer 1 zugelassen worden ist, kann von einer
 Eidesleistung abgesehen werden. Sofern gesetzlich nichts anderes
 bestimmt ist, hat die Beamtin oder der Beamte in diesen Fällen zu
 geloben, ihre oder seine Amtspflichten gewissenhaft zu erfüllen.
@@ -2538,37 +1876,36 @@ Verfahren eingeleitet worden ist.
 
 (1) Beamtinnen und Beamte haben über die ihnen bei oder bei
 Gelegenheit ihrer amtlichen Tätigkeit bekannt gewordenen dienstlichen
-Angelegenheiten Verschwiegenheit zu bewahren. Dies gilt auch über den
-Bereich eines Dienstherrn hinaus sowie nach Beendigung des
+Angelegenheiten Verschwiegenheit zu bewahren. Dies gilt auch über
+den Bereich eines Dienstherrn hinaus sowie nach Beendigung des
 Beamtenverhältnisses.
 
 (2) Absatz 1 gilt nicht, soweit
 
 1.  Mitteilungen im dienstlichen Verkehr geboten sind,
 
-
 2.  Tatsachen mitgeteilt werden, die offenkundig sind oder ihrer Bedeutung
-    nach keiner Geheimhaltung bedürfen, oder
-
+    nach keiner Geheimhaltung bedürfen,
 
 3.  gegenüber der zuständigen obersten Dienstbehörde, einer
     Strafverfolgungsbehörde oder einer von der obersten Dienstbehörde
     bestimmten weiteren Behörde oder außerdienstlichen Stelle ein durch
     Tatsachen begründeter Verdacht einer Korruptionsstraftat nach den §§
-    331 bis 337 des Strafgesetzbuches angezeigt wird.
+    331 bis 337 des Strafgesetzbuches angezeigt wird oder
 
-
+4.  Informationen unter den Voraussetzungen des Hinweisgeberschutzgesetzes
+    an eine zuständige Meldestelle weitergegeben oder offengelegt werden.
 
 Im Übrigen bleiben die gesetzlich begründeten Pflichten, geplante
 Straftaten anzuzeigen und für die Erhaltung der freiheitlichen
 demokratischen Grundordnung einzutreten, von Absatz 1 unberührt.
 
 (3) Beamtinnen und Beamte dürfen ohne Genehmigung über Angelegenheiten
-nach Absatz 1 weder vor Gericht noch außergerichtlich aussagen oder
-Erklärungen abgeben. Die Genehmigung erteilt die oder der
-Dienstvorgesetzte oder, wenn das Beamtenverhältnis beendet ist, die
-oder der letzte Dienstvorgesetzte. Hat sich der Vorgang, der den
-Gegenstand der Äußerung bildet, bei einem früheren Dienstherrn
+nach Absatz 1 weder vor Gericht noch außergerichtlich aussagen
+oder Erklärungen abgeben. Die Genehmigung erteilt die oder der
+Dienstvorgesetzte oder, wenn das Beamtenverhältnis beendet ist,
+die oder der letzte Dienstvorgesetzte. Hat sich der Vorgang, der
+den Gegenstand der Äußerung bildet, bei einem früheren Dienstherrn
 ereignet, darf die Genehmigung nur mit dessen Zustimmung erteilt
 werden.
 
@@ -2591,9 +1928,9 @@ Aufgaben ernstlich gefährden oder erheblich erschweren würde.
 gerichtlichen Verfahren oder soll ihr Vorbringen der Wahrnehmung ihrer
 berechtigten Interessen dienen, darf die Genehmigung auch dann, wenn
 die Voraussetzungen des Absatzes 1 erfüllt sind, nur versagt werden,
-wenn die dienstlichen Rücksichten dies unabweisbar erfordern. Wird die
-Genehmigung versagt, haben die oder der Dienstvorgesetzte der Beamtin
-oder dem Beamten den Schutz zu gewähren, den die dienstlichen
+wenn die dienstlichen Rücksichten dies unabweisbar erfordern. Wird
+die Genehmigung versagt, haben die oder der Dienstvorgesetzte der
+Beamtin oder dem Beamten den Schutz zu gewähren, den die dienstlichen
 Rücksichten zulassen.
 
 (3) Über die Versagung der Genehmigung entscheidet die oberste
@@ -2622,13 +1959,13 @@ Zustimmung der obersten oder der letzten obersten Dienstbehörde. Die
 Befugnis zur Zustimmung kann auf andere Behörden übertragen werden.
 
 (2) Wer gegen das in Absatz 1 genannte Verbot verstößt, hat auf
-Verlangen das aufgrund des pflichtwidrigen Verhaltens Erlangte dem
-Dienstherrn herauszugeben, soweit nicht im Strafverfahren die
+Verlangen das aufgrund des pflichtwidrigen Verhaltens Erlangte
+dem Dienstherrn herauszugeben, soweit nicht im Strafverfahren die
 Einziehung von Taterträgen angeordnet worden oder es auf andere Weise
 auf den Staat übergegangen ist. Für den Umfang des Herausgabeanspruchs
 gelten die Vorschriften des Bürgerlichen Gesetzbuches über die
-Herausgabe einer ungerechtfertigten Bereicherung entsprechend. Die
-Herausgabepflicht nach Satz 1 umfasst auch die Pflicht, dem
+Herausgabe einer ungerechtfertigten Bereicherung entsprechend.
+Die Herausgabepflicht nach Satz 1 umfasst auch die Pflicht, dem
 Dienstherrn Auskunft über Art, Umfang und Verbleib des Erlangten zu
 geben.
 
@@ -2640,8 +1977,8 @@ ordnungsmäßige Wahrnehmung ihrer Dienstgeschäfte nicht beeinträchtigt
 wird.
 
 (2) Die oder der Dienstvorgesetzte kann, wenn die dienstlichen
-Verhältnisse es erfordern, anweisen, dass die Wohnung innerhalb einer
-bestimmten Entfernung von der Dienststelle zu nehmen oder eine
+Verhältnisse es erfordern, anweisen, dass die Wohnung innerhalb
+einer bestimmten Entfernung von der Dienststelle zu nehmen oder eine
 Dienstwohnung zu beziehen ist.
 
 
@@ -2667,8 +2004,8 @@ dessen Aufgaben sie wahrgenommen haben, den daraus entstehenden
 Schaden zu ersetzen. Haben zwei oder mehr Beamtinnen und Beamte
 gemeinsam den Schaden verursacht, haften sie gesamtschuldnerisch.
 
-(2) Hat der Dienstherr Dritten Schadensersatz geleistet, gilt als
-Zeitpunkt, zu dem der Dienstherr Kenntnis im Sinne der
+(2) Hat der Dienstherr Dritten Schadensersatz geleistet, gilt
+als Zeitpunkt, zu dem der Dienstherr Kenntnis im Sinne der
 Verjährungsvorschriften des Bürgerlichen Gesetzbuches erlangt, der
 Zeitpunkt, zu dem der Ersatzanspruch gegenüber Dritten vom Dienstherrn
 anerkannt oder dem Dienstherrn gegenüber rechtskräftig festgestellt
@@ -2684,21 +2021,21 @@ sie oder ihn über.
 Werden Beamtinnen, Beamte, Versorgungsberechtigte oder ihre
 Angehörigen körperlich verletzt oder getötet, geht ein gesetzlicher
 Schadensersatzanspruch, der diesen Personen infolge der
-Körperverletzung oder der Tötung gegen Dritte zusteht, insoweit auf
-den Dienstherrn über, als dieser während einer auf der
-Körperverletzung beruhenden Aufhebung der Dienstfähigkeit oder infolge
-der Körperverletzung oder der Tötung zur Gewährung von Leistungen
-verpflichtet ist. Ist eine Versorgungskasse zur Gewährung der
-Versorgung verpflichtet, geht der Anspruch auf sie über. Der Übergang
-des Anspruchs kann nicht zum Nachteil der Verletzten oder der
+Körperverletzung oder der Tötung gegen Dritte zusteht, insoweit
+auf den Dienstherrn über, als dieser während einer auf der
+Körperverletzung beruhenden Aufhebung der Dienstfähigkeit oder
+infolge der Körperverletzung oder der Tötung zur Gewährung von
+Leistungen verpflichtet ist. Ist eine Versorgungskasse zur Gewährung
+der Versorgung verpflichtet, geht der Anspruch auf sie über. Der
+Übergang des Anspruchs kann nicht zum Nachteil der Verletzten oder der
 Hinterbliebenen geltend gemacht werden.
 
 
 #### § 77 Nichterfüllung von Pflichten
 
 (1) Beamtinnen und Beamte begehen ein Dienstvergehen, wenn sie
-schuldhaft die ihnen obliegenden Pflichten verletzen. Außerhalb des
-Dienstes ist dieses nur dann ein Dienstvergehen, wenn die
+schuldhaft die ihnen obliegenden Pflichten verletzen. Außerhalb
+des Dienstes ist dieses nur dann ein Dienstvergehen, wenn die
 Pflichtverletzung nach den Umständen des Einzelfalls in besonderem
 Maße geeignet ist, das Vertrauen in einer für ihr Amt oder das Ansehen
 des Beamtentums bedeutsamen Weise zu beeinträchtigen.
@@ -2710,24 +2047,21 @@ Versorgungsbezügen gilt es als Dienstvergehen, wenn sie
 1.  sich gegen die freiheitliche demokratische Grundordnung im Sinne des
     Grundgesetzes betätigen,
 
-
 2.  an Bestrebungen teilnehmen, die darauf abzielen, den Bestand oder die
     Sicherheit der Bundesrepublik Deutschland zu beeinträchtigen,
-
 
 3.  gegen die Verschwiegenheitspflicht, gegen die Anzeigepflicht oder das
     Verbot einer Tätigkeit nach Beendigung des Beamtenverhältnisses oder
     gegen das Verbot der Annahme von Belohnungen, Geschenken und sonstigen
     Vorteilen verstoßen oder
 
-
 4.  einer Verpflichtung nach § 46 Absatz 1, 2, 4 oder 7 oder § 57
     schuldhaft nicht nachkommen.
 
-
-
 Satz 1 Nummer 1 bis 3 gilt auch für frühere Beamtinnen mit Anspruch
-auf Altersgeld und frühere Beamte mit Anspruch auf Altersgeld.
+auf Altersgeld und frühere Beamte mit Anspruch auf Altersgeld. Für
+politische Beamtinnen und politische Beamte gilt ein Verstoß gegen §
+56 Satz 3 als Dienstvergehen.
 
 (3) Die Verfolgung von Dienstvergehen richtet sich nach dem
 Bundesdisziplinargesetz.
@@ -2749,18 +2083,18 @@ Verletzung des Körpers, der Gesundheit, der Freiheit oder der
 sexuellen Selbstbestimmung, die ihr oder ihm wegen ihrer oder seiner
 Eigenschaft als Amtsträgerin oder Amtsträger zugefügt worden ist,
 einen durch ein rechtskräftiges Endurteil eines deutschen Gerichts
-festgestellten Anspruch auf Schmerzensgeld gegen einen Dritten, so
-soll der Dienstherr auf Antrag die Zahlung auf diesen Anspruch bis zur
-Höhe des zuerkannten Schmerzensgeldanspruchs übernehmen, sofern dies
-zur Vermeidung einer unbilligen Härte notwendig ist. Der
-rechtskräftigen Feststellung steht ein nicht oder nicht mehr
-widerruflicher Vergleich nach § 794 Absatz 1 Nummer 1 der
+festgestellten Anspruch auf Schmerzensgeld gegen einen Dritten,
+so soll der Dienstherr auf Antrag die Zahlung auf diesen Anspruch
+bis zur Höhe des zuerkannten Schmerzensgeldanspruchs übernehmen,
+sofern dies zur Vermeidung einer unbilligen Härte notwendig
+ist. Der rechtskräftigen Feststellung steht ein nicht oder nicht
+mehr widerruflicher Vergleich nach § 794 Absatz 1 Nummer 1 der
 Zivilprozessordnung gleich, wenn er der Höhe nach angemessen ist.
 
-(2) Eine unbillige Härte liegt insbesondere vor, wenn ein Versuch der
-Vollstreckung in das Vermögen nicht zu einer vollständigen
-Befriedigung der Beamtin oder des Beamten geführt hat, sofern der
-Betrag, hinsichtlich dessen die Beamtin oder der Beamte nicht
+(2) Eine unbillige Härte liegt insbesondere vor, wenn ein Versuch
+der Vollstreckung in das Vermögen nicht zu einer vollständigen
+Befriedigung der Beamtin oder des Beamten geführt hat, sofern
+der Betrag, hinsichtlich dessen die Beamtin oder der Beamte nicht
 befriedigt wurde, mindestens 250 Euro erreicht.
 
 (3) Der Dienstherr kann die Zahlung nach Absatz 1 ablehnen, wenn
@@ -2768,48 +2102,48 @@ aufgrund desselben Sachverhalts eine einmalige Unfallentschädigung (§
 43 des Beamtenversorgungsgesetzes) oder ein Unfallausgleich (§ 35 des
 Beamtenversorgungsgesetzes) gezahlt wird.
 
-(4) Der Antrag nach Absatz 1 kann innerhalb einer Ausschlussfrist von
-zwei Jahren nach Eintritt der Rechtskraft des Urteils nach Absatz 1
-Satz 1 oder nach Eintritt der Unwiderruflichkeit des Vergleichs nach
-Absatz 1 Satz 2 schriftlich oder elektronisch gestellt werden. Dem
-Antrag ist ein Nachweis des Vollstreckungsversuches beizufügen. Die
-Entscheidung trifft die oberste Dienstbehörde oder die von ihr
-bestimmte Behörde. Für Versorgungsempfängerinnen und
+(4) Der Antrag nach Absatz 1 kann innerhalb einer Ausschlussfrist
+von zwei Jahren nach Eintritt der Rechtskraft des Urteils nach
+Absatz 1 Satz 1 oder nach Eintritt der Unwiderruflichkeit des
+Vergleichs nach Absatz 1 Satz 2 schriftlich oder elektronisch gestellt
+werden. Dem Antrag ist ein Nachweis des Vollstreckungsversuches
+beizufügen. Die Entscheidung trifft die oberste Dienstbehörde oder
+die von ihr bestimmte Behörde. Für Versorgungsempfängerinnen und
 Versorgungsempfänger ist die für die Zahlung der Versorgungsbezüge
-verantwortliche Behörde zuständig. Soweit der Dienstherr die Zahlung
-übernommen hat, gehen Ansprüche gegen Dritte auf ihn über. Der
-Übergang der Ansprüche kann nicht zum Nachteil der oder des
+verantwortliche Behörde zuständig. Soweit der Dienstherr die
+Zahlung übernommen hat, gehen Ansprüche gegen Dritte auf ihn über.
+Der Übergang der Ansprüche kann nicht zum Nachteil der oder des
 Geschädigten geltend gemacht werden.
 
-(5) Absatz 1 ist nicht anzuwenden auf Schmerzensgeldansprüche, die im
-Wege des Urkundenprozesses nach den §§ 592 bis 600 der
+(5) Absatz 1 ist nicht anzuwenden auf Schmerzensgeldansprüche,
+die im Wege des Urkundenprozesses nach den §§ 592 bis 600 der
 Zivilprozessordnung festgestellt worden sind.
 
 
 #### § 79 Mutterschutz, Elternzeit und Jugendarbeitsschutz
 
 (1) Die Bundesregierung regelt durch Rechtsverordnung die der Eigenart
-des öffentlichen Dienstes entsprechende Anwendung der Vorschriften des
-Mutterschutzgesetzes auf Beamtinnen. Diese Rechtsverordnung stellt für
-Beamtinnen hinsichtlich Inhalt, Art und Umfang den Schutz sicher, der
-Frauen nach dem Mutterschutzgesetz gewährleistet wird. Für die
+des öffentlichen Dienstes entsprechende Anwendung der Vorschriften
+des Mutterschutzgesetzes auf Beamtinnen. Diese Rechtsverordnung stellt
+für Beamtinnen hinsichtlich Inhalt, Art und Umfang den Schutz sicher,
+der Frauen nach dem Mutterschutzgesetz gewährleistet wird. Für die
 Kontrolle und Überwachung der Einhaltung der dem Gesundheitsschutz
 dienenden mutterschutzrechtlichen Vorschriften gilt § 29 des
 Mutterschutzgesetzes entsprechend.
 
 (2) Die Bundesregierung regelt durch Rechtsverordnung die der Eigenart
-des öffentlichen Dienstes entsprechende Anwendung der Vorschriften des
-Bundeselterngeld- und Elternzeitgesetzes über die Elternzeit auf
-Beamtinnen und Beamte. Das Bundesministerium des Innern, für Bau und
+des öffentlichen Dienstes entsprechende Anwendung der Vorschriften
+des Bundeselterngeld- und Elternzeitgesetzes über die Elternzeit
+auf Beamtinnen und Beamte. Das Bundesministerium des Innern und für
 Heimat kann in den Fällen des Artikels 91 Absatz 2 Satz 1 und des
 Artikels 115f Absatz 1 Nummer 1 des Grundgesetzes den Anspruch auf
-Elternzeit für Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte in
-der Bundespolizei aus zwingenden Gründen der inneren Sicherheit
+Elternzeit für Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte
+in der Bundespolizei aus zwingenden Gründen der inneren Sicherheit
 ausschließen oder einschränken.
 
-(3) Das Jugendarbeitsschutzgesetz gilt für jugendliche Beamtinnen und
-jugendliche Beamte entsprechend. Die Bundesregierung kann durch
-Rechtsverordnung Ausnahmen von den Vorschriften des
+(3) Das Jugendarbeitsschutzgesetz gilt für jugendliche Beamtinnen
+und jugendliche Beamte entsprechend. Die Bundesregierung kann
+durch Rechtsverordnung Ausnahmen von den Vorschriften des
 Jugendarbeitsschutzgesetzes für jugendliche Polizeivollzugsbeamtinnen
 und jugendliche Polizeivollzugsbeamte bestimmen, soweit diese aufgrund
 der Eigenart des Polizeivollzugsdienstes oder aus Gründen der inneren
@@ -2823,24 +2157,25 @@ Sicherheit erforderlich sind.
 1.  Beamtinnen und Beamte, die Anspruch auf Besoldung haben oder die
     Elternzeit in Anspruch nehmen,
 
-
 2.  Versorgungsempfängerinnen und Versorgungsempfänger, die Anspruch auf
     Versorgungsbezüge haben,
 
-
-3.  frühere Beamtinnen und frühere Beamte für den Zeitraum, in dem sie
-    einen Unterhaltsbeitrag oder Übergangsgeld nach dem
+3.  frühere Beamtinnen und frühere Beamte für den Zeitraum, in
+    dem sie einen Unterhaltsbeitrag oder Übergangsgeld nach dem
     Beamtenversorgungsgesetz beziehen,
-
 
 4.  frühere Beamtinnen auf Zeit und frühere Beamte auf Zeit für den
     Zeitraum, in dem sie Übergangsgeld nach dem Beamtenversorgungsgesetz
     beziehen.
 
-
-
-Satz 1 gilt auch, wenn Bezüge aufgrund der Anwendung von Ruhens- oder
-Anrechnungsvorschriften nicht gezahlt werden.
+Satz 1 gilt auch, wenn Bezüge aufgrund der Anwendung von Ruhens-
+oder Anrechnungsvorschriften nicht gezahlt werden. Die Bekanntgabe
+des elektronischen Verwaltungsakts zum Umfang der Beihilfe kann bei
+elektronischer Antragstellung durch die Bereitstellung zum Abruf
+erfolgen. Der zum Abruf bereitgestellte Verwaltungsakt gilt am vierten
+Tag nach Absendung der elektronischen Benachrichtigung über die
+Bereitstellung des Verwaltungsakts an die abrufberechtigte Person als
+bekannt gegeben.
 
 (2) Beihilfe wird auch gewährt für Aufwendungen
 
@@ -2848,11 +2183,8 @@ Anrechnungsvorschriften nicht gezahlt werden.
     Lebenspartners, die oder der kein zur wirtschaftlichen Selbständigkeit
     führendes Einkommen hat, und
 
-
 2.  der Kinder, die beim Familienzuschlag nach dem Bundesbesoldungsgesetz
     berücksichtigungsfähig sind.
-
-
 
 Satz 1 Nummer 2 gilt nicht für Kinder, die Waisengeld nach § 23 des
 Beamtenversorgungsgesetzes erhalten.
@@ -2862,40 +2194,35 @@ angemessene Aufwendungen
 
 1.  in Krankheits- und Pflegefällen,
 
-
 2.  für die Behandlung von Behinderungen,
-
 
 3.  für die Früherkennung von Krankheiten und für Schutzimpfungen,
 
-
-4.  in Geburtsfällen, für eine künstliche Befruchtung, für Maßnahmen zur
-    Empfängnisregelung und -verhütung sowie in Ausnahmefällen bei
+4.  in Geburtsfällen, für eine künstliche Befruchtung, für Maßnahmen
+    zur Empfängnisregelung und -verhütung sowie in Ausnahmefällen bei
     Sterilisation und Schwangerschaftsabbruch sowie
-
 
 5.  bei Organspenden.
 
-
-
+Besteht die Möglichkeit der direkten Abrechnung von Aufwendungen
+zwischen der Festsetzungsstelle und den Leistungserbringern im Wege
+des elektronischen Datenaustausches, so wird Beihilfe von Amts wegen
+gewährt. Einer vorherigen Anhörung der beihilfeberechtigten Person
+bedarf es nicht.
 
 (4) Beihilfe kann nur gewährt werden
 
 1.  als mindestens 50-prozentige Erstattung der beihilfefähigen
     Aufwendungen,
 
-
 2.  in Pflegefällen auch in Form einer Pauschale, deren Höhe sich am
     tatsächlichen Versorgungsaufwand orientiert, oder
-
 
 3.  im Wege der Beteiligung an den Kosten individueller Leistungen von
     Leistungserbringerinnen oder Leistungserbringern.
 
-
-
-Beihilfe darf nur gewährt werden, soweit sie zusammen mit anderen aus
-demselben Anlass zu gewährenden Leistungen die dem Grunde nach
+Beihilfe darf nur gewährt werden, soweit sie zusammen mit anderen
+aus demselben Anlass zu gewährenden Leistungen die dem Grunde nach
 beihilfefähigen Aufwendungen nicht überschreitet. Nicht beihilfefähig
 sind Aufwendungen beihilfeberechtigter Polizeivollzugsbeamtinnen und
 Polizeivollzugsbeamter der Bundespolizei, denen Leistungen nach § 70
@@ -2903,18 +2230,18 @@ Absatz 2 des Bundesbesoldungsgesetzes zustehen.
 
 (5) Steht einer beihilfeberechtigten oder berücksichtigungsfähigen
 Person gegen eine Leistungserbringerin oder einen Leistungserbringer
-wegen einer unrichtigen Abrechnung ein Anspruch auf Erstattung oder
-Schadensersatz zu, kann der Dienstherr durch schriftliche oder
-elektronische Anzeige gegenüber der Leistungserbringerin oder dem
-Leistungserbringer bewirken, dass der Anspruch insoweit auf ihn
-übergeht, als er aufgrund der unrichtigen Abrechnung zu hohe
-Beihilfeleistungen erbracht hat. Satz 1 gilt für den Anspruch gegen
-eine Abrechnungsstelle der Leistungserbringerin oder des
+wegen einer unrichtigen Abrechnung ein Anspruch auf Erstattung
+oder Schadensersatz zu, kann der Dienstherr durch schriftliche
+oder elektronische Anzeige gegenüber der Leistungserbringerin
+oder dem Leistungserbringer bewirken, dass der Anspruch insoweit
+auf ihn übergeht, als er aufgrund der unrichtigen Abrechnung zu
+hohe Beihilfeleistungen erbracht hat. Satz 1 gilt für den Anspruch
+gegen eine Abrechnungsstelle der Leistungserbringerin oder des
 Leistungserbringers entsprechend.
 
-(6) Das Bundesministerium des Innern, für Bau und Heimat regelt im
-Einvernehmen mit dem Auswärtigen Amt, dem Bundesministerium der
-Finanzen, dem Bundesministerium der Verteidigung und dem
+(6) Das Bundesministerium des Innern und für Heimat regelt im
+Einvernehmen mit dem Auswärtigen Amt, dem Bundesministerium
+der Finanzen, dem Bundesministerium der Verteidigung und dem
 Bundesministerium für Gesundheit durch Rechtsverordnung ohne
 Zustimmung des Bundesrates die näheren Einzelheiten, insbesondere zu
 den beihilfeberechtigten und berücksichtigungsfähigen Personen sowie
@@ -2923,7 +2250,6 @@ unter anderem vorgesehen werden:
 
 1.  Höchstbeträge,
 
-
 2.  in Anlehnung an das Fünfte Buch Sozialgesetzbuch
 
     a)  der Ausschluss der Beihilfefähigkeit von Aufwendungen für
@@ -2931,44 +2257,84 @@ unter anderem vorgesehen werden:
         diagnostischer oder therapeutischer Nutzen nicht nach dem allgemein
         anerkannten Stand der medizinischen Erkenntnisse nachgewiesen ist,
 
-
     b)  der Ausschluss der Beihilfefähigkeit von Aufwendungen für Arznei-,
         Heil- und Hilfsmittel, die zur Behandlung geringfügiger Erkrankungen
         bestimmt sind und deren Kosten geringfügig oder der allgemeinen
         Lebenshaltung zuzurechnen sind,
 
-
-    c)  die Beschränkung der Beihilfefähigkeit von Aufwendungen für
-        Untersuchungen und Behandlungen, Arznei-, Heil- und Hilfsmittel,
-        Geräte zur Selbstbehandlung und Körperersatzstücke,
+    c)  die Beschränkung der Beihilfefähigkeit von Aufwendungen
+        für Untersuchungen und Behandlungen, Arznei-, Heil- und
+        Hilfsmittel, Geräte zur Selbstbehandlung und Körperersatzstücke,
         Krankenhausleistungen, häusliche Krankenpflege, Familien- und
         Haushaltshilfen, Fahrt- und Unterkunftskosten, Anschlussheil- und
         Suchtbehandlungen sowie für Rehabilitationsmaßnahmen auf bestimmte
         Personengruppen, Umstände oder Indikationen,
 
-
-
-
-
 3.  Eigenbehalte,
 
-
 4.  Belastungsgrenzen und
-
 
 5.  die Beihilfefähigkeit von Aufwendungen für Präventionsmaßnahmen zur
     Verhinderung und Verminderung von Krankheitsrisiken.
 
 
+#### § 80a Beihilferechtliche Verfahrenserleichterungen
 
+(1) Hat die für die Gewährung der Beihilfe zuständige Stelle nicht
+innerhalb von vier Wochen nach Eingang des Beihilfeantrags über den
+Antrag entschieden, so gilt die beantragte Aufwendung mit Ablauf
+dieser Frist als erstattungsfähig. Die beantragte Aufwendung gilt
+nicht als erstattungsfähig,
+
+1.  wenn grundsätzlich eine vorherige Anerkennung der Aufwendung
+    erforderlich ist und die Anerkennung zum Zeitpunkt des Eingangs des
+    Beihilfeantrags nicht erfolgt ist, oder
+
+2.  wenn und soweit kein Anspruch auf Erstattung der beantragten
+    Aufwendung bestanden hätte und die beihilfeberechtigte Person dies
+    wusste oder infolge grober Außerachtlassung der gebotenen Sorgfalt
+    nicht wusste.
+
+Soweit beantragte Aufwendungen als erstattungsfähig gelten, soll
+die zuständige Stelle den Festsetzungsbescheid innerhalb von zwei
+Jahren ab Bekanntgabe überprüfen. Bei Überzahlungen widerruft sie den
+Bescheid mit Wirkung für die Vergangenheit. Die Festsetzungsstelle
+hat auf die Rückzahlungspflicht als Folge eines Widerrufs im
+Festsetzungsbescheid hinzuweisen.
+
+(2) Die Festsetzungsstelle kann bei der elektronischen
+Datenverarbeitung für Zwecke einer unverzüglichen und gleichmäßigen
+Belegprüfung und Festsetzung automationsgestützte Systeme
+(Risikomanagementsysteme) einsetzen, dabei ist der Grundsatz
+der Wirtschaftlichkeit und Sparsamkeit zu beachten. Das
+Risikomanagementsystem muss mindestens
+
+1.  sicherstellen, dass gegenüber einer vollständig manuellen Prüfung
+    keine Entscheidung zu Lasten der beihilfeberechtigten Person erfolgt,
+
+2.  durch Zufallsauswahl eine hinreichende Anzahl von Fällen zur
+    umfassenden Prüfung durch beihilfebearbeitende Personen bereitstellen,
+
+3.  die Prüfung der bereitgestellten Fälle auf die rechtmäßige Festsetzung
+    der geltend gemachten Aufwendungen durch eine beihilfebearbeitende
+    Person sicherstellen,
+
+4.  die Möglichkeit bieten, dass beihilfebearbeitende Personen Fälle für
+    eine umfassende Prüfung auswählen können und
+
+5.  die regelmäßige Überprüfung des Risikomanagementsystems auf seine
+    Zielerfüllung durch die Festsetzungsstelle ermöglichen.
+
+Einzelheiten des Risikomanagementsystems dürfen nicht veröffentlicht
+werden.
 
 
 #### § 81 Reisekosten
 
-(1) Beamtinnen und Beamte erhalten die notwendigen Kosten einer
-dienstlich veranlassten Reise (Dienstreise) vergütet. Die
-Reisekostenvergütung umfasst die Fahrt- und Flugkosten, eine
-Wegstreckenentschädigung, Tage- und Übernachtungsgelder,
+(1) Beamtinnen und Beamte erhalten die notwendigen Kosten
+einer dienstlich veranlassten Reise (Dienstreise) vergütet.
+Die Reisekostenvergütung umfasst die Fahrt- und Flugkosten,
+eine Wegstreckenentschädigung, Tage- und Übernachtungsgelder,
 Reisebeihilfen für Familienheimfahrten sowie sonstige Kosten, die
 durch die Reise veranlasst sind.
 
@@ -2980,11 +2346,11 @@ und abweichende Regelungen für besondere Fälle getroffen werden.
 
 (3) Für Reisen nach Absatz 1 im oder in das Ausland sowie vom Ausland
 in das Inland (Auslandsdienstreisen) kann das Bundesministerium des
-Innern, für Bau und Heimat im Einvernehmen mit dem Auswärtigen Amt,
-dem Bundesministerium der Verteidigung und dem Bundesministerium der
+Innern und für Heimat im Einvernehmen mit dem Auswärtigen Amt, dem
+Bundesministerium der Verteidigung und dem Bundesministerium der
 Finanzen durch Rechtsverordnung abweichende Vorschriften erlassen.
-Dazu gehören die Anordnung und Genehmigung von Dienstreisen sowie der
-Umfang der Reisekostenvergütung einschließlich zusätzlich zu
+Dazu gehören die Anordnung und Genehmigung von Dienstreisen sowie
+der Umfang der Reisekostenvergütung einschließlich zusätzlich zu
 erstattender notwendiger Kosten, die der Erreichung des Zwecks von
 Auslandsdienstreisen dienen und die die besonderen Verhältnisse im
 Ausland berücksichtigen.
@@ -3000,20 +2366,13 @@ in besonderen Fällen gegeben werden. Die Umzugskostenvergütung umfasst
 
 1.  Beförderungsauslagen,
 
-
 2.  Reisekosten,
-
 
 3.  Trennungsgeld,
 
-
 4.  Mietentschädigung und
 
-
 5.  sonstige Auslagen.
-
-
-
 
 (2) Die Einzelheiten zu Art und Umfang der Umzugskostenvergütung sowie
 die Grundsätze des Abrechnungsverfahrens regelt die Bundesregierung
@@ -3023,11 +2382,11 @@ und abweichende Regelungen für besondere Fälle getroffen werden.
 
 (3) Für Umzüge nach Absatz 1 im oder in das Ausland sowie aus dem
 Ausland in das Inland (Auslandsumzüge) kann das Auswärtige Amt im
-Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat,
-dem Bundesministerium der Verteidigung und dem Bundesministerium der
-Finanzen durch Rechtsverordnung abweichende Vorschriften zur
-Umzugskostenvergütung erlassen, soweit die besonderen Bedürfnisse des
-Auslandsdienstes und die besonderen Verhältnisse im Ausland es
+Einvernehmen mit dem Bundesministerium des Innern und für Heimat,
+dem Bundesministerium der Verteidigung und dem Bundesministerium
+der Finanzen durch Rechtsverordnung abweichende Vorschriften zur
+Umzugskostenvergütung erlassen, soweit die besonderen Bedürfnisse
+des Auslandsdienstes und die besonderen Verhältnisse im Ausland es
 erfordern.
 
 
@@ -3047,22 +2406,22 @@ an einen anderen Ort als dem bisherigen Dienst- oder Wohnort
 zugewiesen, können ihnen die dadurch entstehenden notwendigen
 Mehrausgaben ganz oder teilweise erstattet werden.
 
-(3) Die Einzelheiten zu Art und Umfang des Trennungsgeldes und der
-Gewährung von Reisebeihilfen für Familienheimfahrten sowie die
-Grundsätze des Abrechnungsverfahrens regelt die Bundesregierung durch
-Rechtsverordnung. Bei der Bemessung des Trennungsgeldes und der
-Reisebeihilfen für Familienheimfahrten können Höchstgrenzen und
+(3) Die Einzelheiten zu Art und Umfang des Trennungsgeldes und
+der Gewährung von Reisebeihilfen für Familienheimfahrten sowie die
+Grundsätze des Abrechnungsverfahrens regelt die Bundesregierung
+durch Rechtsverordnung. Bei der Bemessung des Trennungsgeldes und
+der Reisebeihilfen für Familienheimfahrten können Höchstgrenzen und
 Pauschalen für eine Erstattung festgesetzt und abweichende Regelungen
 für besondere Fälle getroffen werden.
 
 (4) Für Maßnahmen nach Absatz 1 im oder in das Ausland sowie vom
 Ausland in das Inland kann das Auswärtige Amt im Einvernehmen mit dem
-Bundesministerium des Innern, für Bau und Heimat, dem
-Bundesministerium der Verteidigung und dem Bundesministerium der
-Finanzen durch Rechtsverordnung abweichende Vorschriften zu
-Trennungsgeld und Reisebeihilfen für Familienheimfahrten erlassen,
-soweit die besonderen Bedürfnisse des Auslandsdienstes und die
-besonderen Verhältnisse im Ausland es erfordern.
+Bundesministerium des Innern und für Heimat, dem Bundesministerium
+der Verteidigung und dem Bundesministerium der Finanzen durch
+Rechtsverordnung abweichende Vorschriften zu Trennungsgeld und
+Reisebeihilfen für Familienheimfahrten erlassen, soweit die besonderen
+Bedürfnisse des Auslandsdienstes und die besonderen Verhältnisse im
+Ausland es erfordern.
 
 
 #### § 84 Jubiläumszuwendung
@@ -3079,8 +2438,8 @@ nach den Vorschriften des Bürgerlichen Gesetzbuchs über die Herausgabe
 einer ungerechtfertigten Bereicherung. Der Kenntnis des Mangels des
 rechtlichen Grundes der Zahlung steht es gleich, wenn der Mangel so
 offensichtlich war, dass die Empfängerin oder der Empfänger ihn hätte
-erkennen müssen. Von der Rückforderung kann aus Billigkeitsgründen mit
-Zustimmung der obersten Dienstbehörde oder der von ihr bestimmten
+erkennen müssen. Von der Rückforderung kann aus Billigkeitsgründen
+mit Zustimmung der obersten Dienstbehörde oder der von ihr bestimmten
 Stelle ganz oder teilweise abgesehen werden.
 
 
@@ -3099,18 +2458,18 @@ und die erbrachten Leistungen Auskunft geben.
 oder ihm bestimmte Stelle setzt die Amtsbezeichnungen fest, soweit
 gesetzlich nichts anderes bestimmt ist.
 
-(2) Beamtinnen und Beamte führen im Dienst die Amtsbezeichnung des
-ihnen übertragenen Amtes. Sie dürfen sie auch außerhalb des Dienstes
-führen. Nach dem Wechsel in ein anderes Amt dürfen sie die bisherige
-Amtsbezeichnung nicht mehr führen. Ist das neue Amt mit einem
-niedrigeren Endgrundgehalt verbunden, darf neben der neuen
+(2) Beamtinnen und Beamte führen im Dienst die Amtsbezeichnung
+des ihnen übertragenen Amtes. Sie dürfen sie auch außerhalb des
+Dienstes führen. Nach dem Wechsel in ein anderes Amt dürfen sie die
+bisherige Amtsbezeichnung nicht mehr führen. Ist das neue Amt mit
+einem niedrigeren Endgrundgehalt verbunden, darf neben der neuen
 Amtsbezeichnung die des früheren Amtes mit dem Zusatz „außer Dienst“
 oder „a. D.“ geführt werden.
 
-(3) Ruhestandsbeamtinnen und Ruhestandsbeamte dürfen die ihnen bei der
-Versetzung in den Ruhestand zustehende Amtsbezeichnung mit dem Zusatz
-„außer Dienst“ oder „a. D.“ und die im Zusammenhang mit dem Amt
-verliehenen Titel weiter führen. Ändert sich die Bezeichnung des
+(3) Ruhestandsbeamtinnen und Ruhestandsbeamte dürfen die ihnen bei
+der Versetzung in den Ruhestand zustehende Amtsbezeichnung mit dem
+Zusatz „außer Dienst“ oder „a. D.“ und die im Zusammenhang mit dem
+Amt verliehenen Titel weiter führen. Ändert sich die Bezeichnung des
 früheren Amtes, darf die geänderte Amtsbezeichnung geführt werden.
 
 
@@ -3125,15 +2484,15 @@ Stunden nicht überschreiten.
 (2) Soweit Bereitschaftsdienst besteht, kann die Arbeitszeit
 entsprechend den dienstlichen Bedürfnissen verlängert werden.
 
-(3) Das Nähere zur Regelung der Arbeitszeit, insbesondere zur Dauer,
-zu Möglichkeiten ihrer flexiblen Ausgestaltung und zur Kontrolle ihrer
-Einhaltung, regelt die Bundesregierung durch Rechtsverordnung. Eine
-Kontrolle der Einhaltung der Arbeitszeit mittels automatisierter
-Datenverarbeitungssysteme ist zulässig, soweit diese Systeme eine
-Mitwirkung der Beamtinnen und Beamten erfordern. Die erhobenen Daten
-dürfen nur für Zwecke der Arbeitszeitkontrolle, der Wahrung
-arbeitsschutzrechtlicher Bestimmungen und des gezielten
-Personaleinsatzes verwendet werden, soweit dies zur
+(3) Das Nähere zur Regelung der Arbeitszeit, insbesondere zur
+Dauer, zu Möglichkeiten ihrer flexiblen Ausgestaltung und zur
+Kontrolle ihrer Einhaltung, regelt die Bundesregierung durch
+Rechtsverordnung. Eine Kontrolle der Einhaltung der Arbeitszeit
+mittels automatisierter Datenverarbeitungssysteme ist zulässig, soweit
+diese Systeme eine Mitwirkung der Beamtinnen und Beamten erfordern.
+Die erhobenen Daten dürfen nur für Zwecke der Arbeitszeitkontrolle,
+der Wahrung arbeitsschutzrechtlicher Bestimmungen und des
+gezielten Personaleinsatzes verwendet werden, soweit dies zur
 Aufgabenwahrnehmung der jeweils zuständigen Stelle erforderlich ist.
 In der Rechtsverordnung sind Löschfristen für die erhobenen Daten
 vorzusehen.
@@ -3147,12 +2506,14 @@ zwingende dienstliche Verhältnisse dies erfordern und sich die
 Mehrarbeit auf Ausnahmefälle beschränkt. Werden sie durch eine
 dienstlich angeordnete oder genehmigte Mehrarbeit mehr als fünf
 Stunden im Monat über die regelmäßige Arbeitszeit hinaus beansprucht,
-ist ihnen innerhalb eines Jahres für die Mehrarbeit, die sie über die
-regelmäßige Arbeitszeit hinaus leisten, entsprechende Dienstbefreiung
-zu gewähren. Bei Teilzeitbeschäftigung sind die fünf Stunden anteilig
-zu kürzen. Ist die Dienstbefreiung aus zwingenden dienstlichen Gründen
-nicht möglich, können Beamtinnen und Beamte in Besoldungsgruppen mit
-aufsteigenden Gehältern eine Vergütung erhalten.
+ist ihnen innerhalb einer Ausschlussfrist von einem Jahr für die
+Mehrarbeit, die sie über die regelmäßige Arbeitszeit hinaus leisten,
+entsprechende Dienstbefreiung zu gewähren. Bei Teilzeitbeschäftigung
+sind die fünf Stunden anteilig zu kürzen. Der Dienstherr kann die
+Dienstbefreiung einseitig anordnen. Ist die Dienstbefreiung aus
+zwingenden dienstlichen Gründen nicht möglich, können Beamtinnen und
+Beamte in Besoldungsgruppen mit aufsteigenden Gehältern eine Vergütung
+erhalten.
 
 
 #### § 89 Erholungsurlaub
@@ -3186,10 +2547,7 @@ des Mandats auf Antrag
 1.  Teilzeitbeschäftigung im Umfang von mindestens 30 Prozent der
     regelmäßigen Arbeitszeit zu bewilligen oder
 
-
 2.  ein Urlaub unter Wegfall der Besoldung zu gewähren.
-
-
 
 Der Antrag soll jeweils für den Zeitraum von mindestens sechs Monaten
 gestellt werden. § 23 Abs. 5 des Abgeordnetengesetzes ist entsprechend
@@ -3197,8 +2555,8 @@ anzuwenden. Auf Beamtinnen und Beamte, denen nach Satz 1 Nr. 2 Urlaub
 unter Wegfall der Besoldung gewährt wird, ist § 7 Abs. 1, 3 und 4 des
 Abgeordnetengesetzes entsprechend anzuwenden.
 
-(4) Für die Tätigkeit als Mitglied einer kommunalen Vertretung, eines
-nach Kommunalverfassungsrecht gebildeten Ausschusses oder
+(4) Für die Tätigkeit als Mitglied einer kommunalen Vertretung,
+eines nach Kommunalverfassungsrecht gebildeten Ausschusses oder
 vergleichbarer Einrichtungen in Gemeindebezirken ist Beamtinnen und
 Beamten der erforderliche Urlaub unter Fortzahlung der Besoldung zu
 gewähren. Satz 1 gilt auch für die von einer kommunalen Vertretung
@@ -3208,26 +2566,26 @@ eines Gesetzes gebildet worden sind.
 
 #### § 91 Teilzeit
 
-(1) Beamtinnen und Beamten, die Anspruch auf Besoldung haben, kann auf
-Antrag Teilzeitbeschäftigung bis zur Hälfte der regelmäßigen
+(1) Beamtinnen und Beamten, die Anspruch auf Besoldung haben, kann
+auf Antrag Teilzeitbeschäftigung bis zur Hälfte der regelmäßigen
 Arbeitszeit und bis zur jeweils beantragten Dauer bewilligt werden,
 soweit dienstliche Belange dem nicht entgegenstehen.
 
-(2) Dem Antrag nach Absatz 1 darf nur entsprochen werden, wenn die
-Beamtinnen und Beamten sich verpflichten, während des
-Bewilligungszeitraumes außerhalb des Beamtenverhältnisses berufliche
-Verpflichtungen nur in dem Umfang einzugehen, der den
-Vollzeitbeschäftigten für die Ausübung von Nebentätigkeiten gestattet
-ist. Ausnahmen hiervon sind nur zulässig, soweit dies mit dem
-Beamtenverhältnis vereinbar ist. Dabei ist von der regelmäßigen
+(2) Dem Antrag nach Absatz 1 darf nur entsprochen werden,
+wenn die Beamtinnen und Beamten sich verpflichten, während
+des Bewilligungszeitraumes außerhalb des Beamtenverhältnisses
+berufliche Verpflichtungen nur in dem Umfang einzugehen, der
+den Vollzeitbeschäftigten für die Ausübung von Nebentätigkeiten
+gestattet ist. Ausnahmen hiervon sind nur zulässig, soweit dies mit
+dem Beamtenverhältnis vereinbar ist. Dabei ist von der regelmäßigen
 wöchentlichen Arbeitszeit ohne Rücksicht auf die Bewilligung von
 Teilzeitbeschäftigung auszugehen. Wird die Verpflichtung nach Satz 1
 schuldhaft verletzt, soll die Bewilligung widerrufen werden.
 
-(3) Die zuständige Dienstbehörde kann nachträglich die Dauer der
-Teilzeitbeschäftigung beschränken oder den Umfang der zu leistenden
-Arbeitszeit erhöhen, soweit zwingende dienstliche Belange dies
-erfordern. Sie soll eine Änderung des Umfangs der
+(3) Die zuständige Dienstbehörde kann nachträglich die Dauer
+der Teilzeitbeschäftigung beschränken oder den Umfang der zu
+leistenden Arbeitszeit erhöhen, soweit zwingende dienstliche
+Belange dies erfordern. Sie soll eine Änderung des Umfangs der
 Teilzeitbeschäftigung oder den Übergang zur Vollzeitbeschäftigung
 zulassen, wenn der Beamtin oder dem Beamten die Teilzeitbeschäftigung
 im bisherigen Umfang nicht mehr zugemutet werden kann und dienstliche
@@ -3236,15 +2594,14 @@ Belange dem nicht entgegenstehen.
 
 #### § 92 Familienbedingte Teilzeit, familienbedingte Beurlaubung
 
-(1) Beamtinnen und Beamten, die Anspruch auf Besoldung haben, wird auf
-Antrag Teilzeitbeschäftigung oder Urlaub ohne Besoldung bewilligt,
+(1) Beamtinnen und Beamten, die Anspruch auf Besoldung haben, wird
+auf Antrag Teilzeitbeschäftigung oder Urlaub ohne Besoldung bewilligt,
 wenn
 
 1.  sie
 
     a)  mindestens ein Kind, das das 18. Lebensjahr noch nicht vollendet hat,
         tatsächlich betreuen oder pflegen oder
-
 
     b)  eine sonstige Angehörige oder einen sonstigen Angehörigen tatsächlich
         betreuen oder pflegen, die oder der pflegebedürftig ist nach einer
@@ -3254,13 +2611,7 @@ wenn
         an einer Erkrankung nach § 3 Absatz 6 Satz 1 des Pflegezeitgesetzes
         leidet, und
 
-
-
-
-
 2.  keine zwingenden dienstlichen Belange entgegenstehen.
-
-
 
 § 91 Absatz 3 Satz 1 gilt entsprechend. Teilzeitbeschäftigung,
 Familienpflegezeiten und Pflegezeiten mit weniger als der Hälfte der
@@ -3275,14 +2626,14 @@ Schulhalbjahres oder Semesters ausgedehnt werden. Der Antrag auf
 Verlängerung einer Beurlaubung ist spätestens sechs Monate vor Ablauf
 der genehmigten Beurlaubung zu stellen.
 
-(3) Während einer Freistellung vom Dienst nach Absatz 1 dürfen nur
-solche Nebentätigkeiten genehmigt werden, die dem Zweck der
+(3) Während einer Freistellung vom Dienst nach Absatz 1 dürfen
+nur solche Nebentätigkeiten genehmigt werden, die dem Zweck der
 Freistellung nicht zuwiderlaufen.
 
 (4) Die zuständige Dienststelle kann eine Rückkehr aus dem Urlaub
 zulassen, wenn die Fortsetzung des Urlaubs nicht zumutbar ist und
-dienstliche Belange dem nicht entgegenstehen. Teilzeitbeschäftigte mit
-Familienpflichten, die eine Vollzeitbeschäftigung beantragen, und
+dienstliche Belange dem nicht entgegenstehen. Teilzeitbeschäftigte
+mit Familienpflichten, die eine Vollzeitbeschäftigung beantragen, und
 Beurlaubte mit Familienpflichten, die eine vorzeitige Rückkehr aus der
 Beurlaubung beantragen, müssen bei der Besetzung von Vollzeitstellen
 unter Beachtung des Leistungsprinzips und der Regelungen des
@@ -3290,10 +2641,10 @@ Bundesgleichstellungsgesetzes vorrangig berücksichtigt werden.
 
 (5) Während der Zeit der Beurlaubung nach Absatz 1 besteht ein
 Anspruch auf Leistungen der Krankheitsfürsorge in entsprechender
-Anwendung der Beihilferegelungen für Beamtinnen mit Anspruch auf
-Besoldung und Beamte mit Anspruch auf Besoldung. Dies gilt nicht, wenn
-die Beamtin oder der Beamte berücksichtigungsfähige Angehörige oder
-berücksichtigungsfähiger Angehöriger einer oder eines
+Anwendung der Beihilferegelungen für Beamtinnen mit Anspruch
+auf Besoldung und Beamte mit Anspruch auf Besoldung. Dies gilt
+nicht, wenn die Beamtin oder der Beamte berücksichtigungsfähige
+Angehörige oder berücksichtigungsfähiger Angehöriger einer oder eines
 Beihilfeberechtigten wird oder in der gesetzlichen Krankenversicherung
 nach § 10 Abs. 1 des Fünften Buches Sozialgesetzbuch versichert ist.
 Beamtinnen und Beamte, die die Voraussetzungen des § 3 Abs. 1 des
@@ -3304,9 +2655,9 @@ des Elften Buches Sozialgesetzbuch.
 (6) Die Dienststelle hat durch geeignete Maßnahmen den aus familiären
 Gründen Beurlaubten die Verbindung zum Beruf und den beruflichen
 Wiedereinstieg zu erleichtern. Dazu gehören das Angebot von Urlaubs-
-und Krankheitsvertretungen, ihre rechtzeitige Unterrichtung über das
-Fortbildungsprogramm und das Angebot der Teilnahme an der Fortbildung
-während oder nach der Beurlaubung. Die Teilnahme an einer
+und Krankheitsvertretungen, ihre rechtzeitige Unterrichtung über
+das Fortbildungsprogramm und das Angebot der Teilnahme an der
+Fortbildung während oder nach der Beurlaubung. Die Teilnahme an einer
 Fortbildungsveranstaltung während der Beurlaubung begründet einen
 Anspruch auf bezahlte Dienstbefreiung nach Ende der Beurlaubung. Die
 Dauer der bezahlten Dienstbefreiung richtet sich nach der Dauer der
@@ -3318,24 +2669,20 @@ werden.
 
 #### § 92a Familienpflegezeit mit Vorschuss
 
-(1) Beamtinnen und Beamten, die Anspruch auf Besoldung haben, wird auf
-Antrag für längstens 24 Monate Teilzeitbeschäftigung mit einer
+(1) Beamtinnen und Beamten, die Anspruch auf Besoldung haben, wird
+auf Antrag für längstens 24 Monate Teilzeitbeschäftigung mit einer
 regelmäßigen wöchentlichen Arbeitszeit von mindestens 15 Stunden als
 Familienpflegezeit bewilligt, wenn
 
 1.  sie eine nahe Angehörige oder einen nahen Angehörigen nach § 7 Absatz
     3 des Pflegezeitgesetzes tatsächlich betreuen oder pflegen, die oder
-    der pflegebedürftig ist nach einer Bescheinigung der Pflegekasse oder
-    des Medizinischen Dienstes der Krankenversicherung, einer
+    der pflegebedürftig ist nach einer Bescheinigung der Pflegekasse
+    oder des Medizinischen Dienstes der Krankenversicherung, einer
     entsprechenden Bescheinigung einer privaten Pflegeversicherung oder
     einem ärztlichen Gutachten oder an einer Erkrankung nach § 3 Absatz 6
     Satz 1 des Pflegezeitgesetzes leidet, und
 
-
 2.  keine dringenden dienstlichen Belange entgegenstehen.
-
-
-
 
 (2) Ist die Familienpflegezeit für weniger als 24 Monate bewilligt
 worden, kann sie nachträglich bis zur Dauer von 24 Monaten verlängert
@@ -3352,8 +2699,8 @@ Familienpflegezeit nicht mehr vor, so ist die Bewilligung zu
 widerrufen, und zwar mit Ablauf des zweiten Monats, der auf den
 Wegfall der Voraussetzungen folgt.
 
-(6) Ist der Beamtin oder dem Beamten die Teilzeitbeschäftigung im
-bisherigen Umfang nicht mehr zumutbar, ist die Bewilligung zu
+(6) Ist der Beamtin oder dem Beamten die Teilzeitbeschäftigung
+im bisherigen Umfang nicht mehr zumutbar, ist die Bewilligung zu
 widerrufen, wenn keine dringenden dienstlichen Belange entgegenstehen.
 
 
@@ -3380,36 +2727,23 @@ bisherigen Arbeitszeit, höchstens der Hälfte der in den letzten zwei
 Jahren vor Beginn der Altersteilzeit durchschnittlich zu leistenden
 Arbeitszeit, bewilligt werden, wenn
 
-1.
-    a)  sie das 60. Lebensjahr vollendet haben,
-
+1.  a)  sie das 60. Lebensjahr vollendet haben,
 
     b)  das 55. Lebensjahr vollendet haben und zum Zeitpunkt der
         Antragstellung schwerbehindert im Sinne des § 2 Abs. 2 des Neunten
         Buches Sozialgesetzbuch sind oder
 
-
     c)  das 55. Lebensjahr vollendet haben und in einem besonders festgelegten
         Stellenabbaubereich beschäftigt sind
-
-
-
-
-
 
 und
 
 2.  sie in den letzten fünf Jahren vor Beginn der Altersteilzeit drei
     Jahre mindestens teilzeitbeschäftigt waren,
 
-
 3.  die Altersteilzeit vor dem 1. Januar 2010 beginnt und
 
-
 4.  dringende dienstliche Belange dem nicht entgegenstehen.
-
-
-
 
 (2) Beamtinnen und Beamten kann Altersteilzeit in Form der
 Blockbildung im Sinne des § 9 der Arbeitszeitverordnung nach Maßgabe
@@ -3418,20 +2752,17 @@ des Absatzes 1 bewilligt werden, wenn sie
 1.  das 60. Lebensjahr vollendet haben und bei vorheriger
     Teilzeitbeschäftigung die Zeiten der Freistellung von der Arbeit in
     der Weise zusammengefasst werden, dass zuvor mit mindestens der Hälfte
-    der regelmäßigen Arbeitszeit, im Fall des § 92 Abs. 1, der §§ 92a, 92b
-    oder bei Teilzeitbeschäftigung während der Elternzeit mindestens im
-    Umfang der bisherigen Teilzeitbeschäftigung Dienst geleistet wird,
+    der regelmäßigen Arbeitszeit, im Fall des § 92 Abs. 1, der §§ 92a,
+    92b oder bei Teilzeitbeschäftigung während der Elternzeit mindestens
+    im Umfang der bisherigen Teilzeitbeschäftigung Dienst geleistet wird,
     wobei geringfügige Unterschreitungen des notwendigen Umfangs der
     Arbeitszeit unberücksichtigt bleiben, oder
 
-
 2.  die Voraussetzungen des Absatzes 1 Nr. 1 Buchstabe c vorliegen.
 
-
-
-Beamtinnen auf Lebenszeit und Beamte auf Lebenszeit, denen vor dem 1.
-Januar 2010 Altersteilzeitbeschäftigung in Form der Blockbildung im
-Sinne des § 9 der Arbeitszeitverordnung bewilligt worden ist,
+Beamtinnen auf Lebenszeit und Beamte auf Lebenszeit, denen vor dem
+1\. Januar 2010 Altersteilzeitbeschäftigung in Form der Blockbildung
+im Sinne des § 9 der Arbeitszeitverordnung bewilligt worden ist,
 erreichen die Altersgrenze mit Vollendung des 65. Lebensjahres. Beim
 Ruhestand auf Antrag nach § 52 bleibt es bei der Altersgrenze nach §
 42 Abs. 4 des Bundesbeamtengesetzes in der bis zum 11. Februar 2009
@@ -3445,24 +2776,18 @@ Arbeitszeit bewilligt werden, wenn
 
 1.  sie bei Beginn der Altersteilzeit das 60. Lebensjahr vollendet haben,
 
-
 2.  sie in den letzten fünf Jahren vor Beginn der Altersteilzeit drei
     Jahre mindestens teilzeitbeschäftigt waren,
 
-
 3.  die Altersteilzeit vor dem 1. Januar 2023 beginnt,
-
 
 4.  sie in einem festgelegten Restrukturierungs- oder Stellenabbaubereich
     beschäftigt sind und
 
-
 5.  dienstliche Belange dem nicht entgegenstehen.
 
-
-
-Der Antrag muss sich auf die gesamte Zeit bis zum Eintritt in den
-Ruhestand erstrecken. Altersteilzeit nach Satz 1 kann auch im
+Der Antrag muss sich auf die gesamte Zeit bis zum Eintritt in
+den Ruhestand erstrecken. Altersteilzeit nach Satz 1 kann auch im
 Blockmodell nach § 9 Absatz 2 der Arbeitszeitverordnung bewilligt
 werden.
 
@@ -3475,15 +2800,15 @@ wenn diese Quote durch die Altersteilzeitverhältnisse nach Satz 1 und
 den Absätzen 1 bis 3 ausgeschöpft ist oder der Bewilligung dienstliche
 Belange entgegenstehen.
 
-(5) Das Bundesministerium des Innern, für Bau und Heimat regelt im
-Einvernehmen mit dem Bundesministerium der Finanzen durch
+(5) Das Bundesministerium des Innern und für Heimat regelt
+im Einvernehmen mit dem Bundesministerium der Finanzen durch
 Rechtsverordnung die Einzelheiten der Altersteilzeitbewilligung,
 insbesondere die Festlegung der Restrukturierungs- und
 Stellenabbaubereiche nach Absatz 3 Satz 1 Nummer 4 und die Verteilung
 der Quote nach Absatz 4.
 
-(6) Änderungen der regelmäßigen wöchentlichen Arbeitszeit nach den
-Arbeitszeitregelungen gelten für die zu leistende Arbeitszeit
+(6) Änderungen der regelmäßigen wöchentlichen Arbeitszeit nach
+den Arbeitszeitregelungen gelten für die zu leistende Arbeitszeit
 entsprechend.
 
 (7) § 91 Abs. 2 gilt entsprechend.
@@ -3501,8 +2826,8 @@ und deren Folgen.
 
 #### § 95 Beurlaubung ohne Besoldung
 
-(1) Beamtinnen und Beamten, die Anspruch auf Besoldung haben, kann in
-Bereichen, in denen wegen der Arbeitsmarktsituation ein
+(1) Beamtinnen und Beamten, die Anspruch auf Besoldung haben,
+kann in Bereichen, in denen wegen der Arbeitsmarktsituation ein
 außergewöhnlicher Überhang an Bewerberinnen und Bewerbern besteht und
 deshalb ein dringendes öffentliches Interesse daran besteht, verstärkt
 Bewerberinnen und Bewerber im öffentlichen Dienst zu beschäftigen, auf
@@ -3510,32 +2835,29 @@ Antrag Urlaub ohne Besoldung
 
 1.  bis zur Dauer von insgesamt sechs Jahren oder
 
-
 2.  für einen Zeitraum, der sich bis zum Beginn des Ruhestands erstrecken
     muss
 
-
-
 bewilligt werden, wenn dienstliche Belange dem nicht entgegenstehen.
 
-(2) Beamtinnen und Beamten, die Anspruch auf Besoldung haben, kann in
-Bereichen, in denen ein Stellenüberhang abgebaut werden soll, auf
-Antrag Urlaub ohne Besoldung bewilligt werden, wenn dienstliche
+(2) Beamtinnen und Beamten, die Anspruch auf Besoldung haben, kann
+in Bereichen, in denen ein Stellenüberhang abgebaut werden soll,
+auf Antrag Urlaub ohne Besoldung bewilligt werden, wenn dienstliche
 Belange dem nicht entgegenstehen.
 
-(3) Dem Antrag nach den Absätzen 1 und 2 darf nur entsprochen werden,
-wenn die Beamtinnen und Beamten erklären, während der Dauer des
-Bewilligungszeitraums auf die Ausübung genehmigungspflichtiger
+(3) Dem Antrag nach den Absätzen 1 und 2 darf nur entsprochen
+werden, wenn die Beamtinnen und Beamten erklären, während der Dauer
+des Bewilligungszeitraums auf die Ausübung genehmigungspflichtiger
 Nebentätigkeiten zu verzichten und nicht genehmigungspflichtige
 Nebentätigkeiten nur in dem Umfang auszuüben, wie sie bei
 Vollzeitbeschäftigung ohne Verletzung dienstlicher Pflichten ausgeübt
-werden könnten. Wird diese Verpflichtung schuldhaft verletzt, soll die
-Bewilligung widerrufen werden. Die zuständige Dienstbehörde darf trotz
-der Erklärung der Beamtinnen oder Beamten nach Satz 1 Nebentätigkeiten
-genehmigen, soweit sie dem Zweck der Bewilligung des Urlaubs nicht
-zuwiderlaufen. Sie kann eine Rückkehr aus dem Urlaub zulassen, wenn
-der Beamtin oder dem Beamten die Fortsetzung des Urlaubs nicht
-zugemutet werden kann und dienstliche Belange dem nicht
+werden könnten. Wird diese Verpflichtung schuldhaft verletzt, soll
+die Bewilligung widerrufen werden. Die zuständige Dienstbehörde
+darf trotz der Erklärung der Beamtinnen oder Beamten nach Satz 1
+Nebentätigkeiten genehmigen, soweit sie dem Zweck der Bewilligung des
+Urlaubs nicht zuwiderlaufen. Sie kann eine Rückkehr aus dem Urlaub
+zulassen, wenn der Beamtin oder dem Beamten die Fortsetzung des
+Urlaubs nicht zugemutet werden kann und dienstliche Belange dem nicht
 entgegenstehen.
 
 (4) Urlaub nach den Absätzen 1 und 2 darf, auch im Zusammenhang mit
@@ -3561,8 +2883,8 @@ ihrer Dienstvorgesetzten fernbleiben. Dienstunfähigkeit infolge von
 Krankheit ist auf Verlangen nachzuweisen.
 
 (2) Verliert die Beamtin oder der Beamte wegen unentschuldigten
-Fernbleibens vom Dienst nach dem Bundesbesoldungsgesetz den Anspruch
-auf Besoldung, wird dadurch die Durchführung eines
+Fernbleibens vom Dienst nach dem Bundesbesoldungsgesetz den
+Anspruch auf Besoldung, wird dadurch die Durchführung eines
 Disziplinarverfahrens nicht ausgeschlossen.
 
 
@@ -3598,88 +2920,94 @@ entspricht und sie nicht über Gebühr in Anspruch nimmt.
 #### § 99 Genehmigungspflichtige Nebentätigkeiten
 
 (1) Beamtinnen und Beamte bedürfen zur Ausübung jeder entgeltlichen
-Nebentätigkeit, mit Ausnahme der in § 100 Abs. 1 abschließend
-aufgeführten, der vorherigen Genehmigung, soweit sie nicht nach § 98
-zu ihrer Ausübung verpflichtet sind. Gleiches gilt für folgende
-unentgeltliche Nebentätigkeiten:
+Nebentätigkeit, mit Ausnahme der in Absatz 6 Satz 1 und § 100 Absatz
+1 abschließend aufgeführten, der vorherigen Genehmigung, soweit sie
+nicht nach § 98 zu ihrer Ausübung verpflichtet sind. Gleiches gilt für
+folgende unentgeltliche Nebentätigkeiten:
 
 1.  Wahrnehmung eines Nebenamtes,
-
 
 2.  gewerbliche oder freiberufliche Tätigkeiten oder die Mitarbeit bei
     einer dieser Tätigkeiten und
 
-
 3.  Eintritt in ein Organ eines Unternehmens mit Ausnahme einer
     Genossenschaft.
 
-
-
-
-(2) Die Genehmigung ist zu versagen, wenn zu besorgen ist, dass durch
-die Nebentätigkeit dienstliche Interessen beeinträchtigt werden. Ein
-solcher Versagungsgrund liegt insbesondere vor, wenn die
+(2) Die Genehmigung ist zu versagen, wenn zu besorgen ist, dass
+durch die Nebentätigkeit dienstliche Interessen beeinträchtigt
+werden. Ein solcher Versagungsgrund liegt insbesondere vor, wenn die
 Nebentätigkeit
 
 1.  nach Art und Umfang die Arbeitskraft so stark in Anspruch nimmt, dass
     die ordnungsgemäße Erfüllung der dienstlichen Pflichten behindert
     werden kann,
 
-
 2.  die Beamtin oder den Beamten in einen Widerstreit mit den dienstlichen
     Pflichten bringen kann,
-
 
 3.  in einer Angelegenheit ausgeübt wird, in der die Behörde, der die
     Beamtin oder der Beamte angehört, tätig wird oder tätig werden kann,
 
-
 4.  die Unparteilichkeit oder Unbefangenheit der Beamtin oder des Beamten
     beeinflussen kann,
-
 
 5.  zu einer wesentlichen Einschränkung der künftigen dienstlichen
     Verwendbarkeit der Beamtin oder des Beamten führen kann oder
 
-
 6.  dem Ansehen der öffentlichen Verwaltung abträglich sein kann.
 
-
-
-Ein solcher Versagungsgrund liegt in der Regel auch vor, wenn sich die
-Nebentätigkeit wegen gewerbsmäßiger Dienst- oder Arbeitsleistung oder
-sonst nach Art, Umfang, Dauer oder Häufigkeit als Ausübung eines
+Ein solcher Versagungsgrund liegt in der Regel auch vor, wenn sich
+die Nebentätigkeit wegen gewerbsmäßiger Dienst- oder Arbeitsleistung
+oder sonst nach Art, Umfang, Dauer oder Häufigkeit als Ausübung eines
 Zweitberufs darstellt.
 
-(3) Die Voraussetzung des Absatzes 2 Satz 2 Nr. 1 gilt in der Regel
-als erfüllt, wenn die zeitliche Beanspruchung durch eine oder mehrere
-Nebentätigkeiten in der Woche ein Fünftel der regelmäßigen
-wöchentlichen Arbeitszeit überschreitet. Bei begrenzter
+(3) Die Voraussetzung des Absatzes 2 Satz 2 Nr. 1 gilt in der
+Regel als erfüllt, wenn die zeitliche Beanspruchung durch eine
+oder mehrere Nebentätigkeiten in der Woche ein Fünftel der
+regelmäßigen wöchentlichen Arbeitszeit überschreitet. Bei begrenzter
 Dienstfähigkeit ist ein Fünftel der nach § 45 Abs. 2 Satz 1 verkürzten
 Arbeitzeit zugrunde zu legen. Soweit der Gesamtbetrag der Vergütung
 für eine oder mehrere Nebentätigkeiten 40 Prozent des jährlichen
 Endgrundgehalts des Amtes der Beamtin oder des Beamten übersteigt,
 liegt ein Versagungsgrund vor. Die Dienstbehörde kann Ausnahmen
 zulassen, wenn die Beamtin oder der Beamte durch Angabe bestimmter
-Tatsachen nachweist, dass die zeitliche Beanspruchung ein Fünftel der
-regelmäßigen wöchentlichen Arbeitszeit nicht übersteigt oder die
+Tatsachen nachweist, dass die zeitliche Beanspruchung ein Fünftel
+der regelmäßigen wöchentlichen Arbeitszeit nicht übersteigt oder die
 Versagung unter Berücksichtigung der Umstände des Einzelfalls nicht
 angemessen wäre. Bei Anwendung der Sätze 1 bis 4 sind genehmigungs-
 und anzeigepflichtige Nebentätigkeiten zusammen zu berücksichtigen.
 
-(4) Die Genehmigung ist auf längstens fünf Jahre zu befristen. Sie
-kann mit Auflagen und Bedingungen versehen werden. Ergibt sich eine
-Beeinträchtigung dienstlicher Interessen nach Erteilung der
+(4) Die Genehmigung ist auf längstens fünf Jahre zu befristen.
+Sie kann mit Auflagen und Bedingungen versehen werden. Ergibt sich
+eine Beeinträchtigung dienstlicher Interessen nach Erteilung der
 Genehmigung, ist diese zu widerrufen.
 
-(5) Die Genehmigung erteilt die oberste Dienstbehörde. Sie kann diese
-Zuständigkeit auf nachgeordnete Behörden übertragen. Anträge auf
-Erteilung einer Genehmigung sowie Entscheidungen über diese Anträge
-bedürfen der Schriftform. Die Beamtin oder der Beamte hat dabei die
-für die Entscheidung erforderlichen Nachweise zu führen, insbesondere
-über Art und Umfang der Nebentätigkeit sowie die Entgelte und
-geldwerten Vorteile hieraus. Jede Änderung ist unverzüglich
+(5) Die Genehmigung erteilt die oberste Dienstbehörde. Sie kann
+diese Zuständigkeit auf nachgeordnete Behörden übertragen. Anträge
+auf Erteilung einer Genehmigung sowie Entscheidungen über diese
+Anträge bedürfen der Schriftform. Die Beamtin oder der Beamte hat
+dabei die für die Entscheidung erforderlichen Nachweise zu führen,
+insbesondere über Art und Umfang der Nebentätigkeit sowie die Entgelte
+und geldwerten Vorteile hieraus. Jede Änderung ist unverzüglich
 schriftlich oder elektronisch anzuzeigen.
+
+(6) Eine geringfügige Beschäftigung im Sinne des § 8 Absatz 1 des
+Vierten Buches Sozialgesetzbuch ist nicht genehmigungspflichtig. Sie
+ist der Dienstbehörde schriftlich oder elektronisch spätestens zwei
+Monate vor Beginn ihrer Aufnahme anzuzeigen. Hierbei sind insbesondere
+Art und Umfang der Nebentätigkeit sowie die voraussichtliche Höhe
+der Entgelte und geldwerten Vorteile anzugeben. Jede Änderung
+ist unverzüglich schriftlich oder elektronisch mitzuteilen. Die
+Nebentätigkeit kann vor Ablauf der in Satz 2 genannten Frist
+aufgenommen werden, wenn und sobald die Dienstbehörde gegenüber der
+Beamtin oder dem Beamten schriftlich oder elektronisch erklärt, dass
+gegen die Nebentätigkeit keine Bedenken im Hinblick auf dienstliche
+Interessen bestehen.
+
+(7) In den Fällen des Absatzes 6 ist die geringfügige Beschäftigung
+zu untersagen, wenn zu besorgen ist, dass durch die Nebentätigkeit
+dienstliche Interessen beeinträchtigt werden. Absatz 2 Satz 2 und 3
+sowie Absatz 3 gelten entsprechend.
 
 
 #### § 100 Nicht genehmigungspflichtige Nebentätigkeiten
@@ -3689,29 +3017,23 @@ schriftlich oder elektronisch anzuzeigen.
 1.  die Verwaltung eigenen oder der Nutznießung der Beamtin oder des
     Beamten unterliegenden Vermögens,
 
-
 2.  schriftstellerische, wissenschaftliche, künstlerische oder
     Vortragstätigkeiten,
-
 
 3.  mit Lehr- oder Forschungsaufgaben zusammenhängende selbstständige
     Gutachtertätigkeiten von Lehrerinnen und Lehrern an öffentlichen
     Hochschulen und an Hochschulen der Bundeswehr sowie von Beamtinnen und
     Beamten an wissenschaftlichen Instituten und Anstalten und
 
-
 4.  Tätigkeiten zur Wahrung von Berufsinteressen in Gewerkschaften oder
     Berufsverbänden oder in Selbsthilfeeinrichtungen der Beamtinnen und
     Beamten.
 
-
-
-
 (2) Tätigkeiten nach Absatz 1 Nr. 2 und 3 sowie eine Tätigkeit in
 Selbsthilfeeinrichtungen nach Absatz 1 Nr. 4 sind der Dienstbehörde
-schriftlich oder elektronisch vor ihrer Aufnahme anzuzeigen, wenn für
-sie ein Entgelt oder ein geldwerter Vorteil geleistet wird. Hierbei
-sind insbesondere Art und Umfang der Nebentätigkeit sowie die
+schriftlich oder elektronisch vor ihrer Aufnahme anzuzeigen, wenn
+für sie ein Entgelt oder ein geldwerter Vorteil geleistet wird.
+Hierbei sind insbesondere Art und Umfang der Nebentätigkeit sowie die
 voraussichtliche Höhe der Entgelte und geldwerten Vorteile anzugeben.
 Jede Änderung ist unverzüglich schriftlich oder elektronisch
 mitzuteilen.
@@ -3749,14 +3071,14 @@ Beamtin oder dem Beamten durch die Inanspruchnahme entsteht.
 #### § 102 Regressanspruch für die Haftung aus angeordneter Nebentätigkeit
 
 Beamtinnen und Beamte, die aus einer auf Verlangen, Vorschlag oder
-Veranlassung der oder des Dienstvorgesetzten ausgeübten Tätigkeit im
-Vorstand, Aufsichtsrat, Verwaltungsrat oder in einem sonstigen Organ
-einer Gesellschaft, Genossenschaft oder eines in einer anderen
+Veranlassung der oder des Dienstvorgesetzten ausgeübten Tätigkeit
+im Vorstand, Aufsichtsrat, Verwaltungsrat oder in einem sonstigen
+Organ einer Gesellschaft, Genossenschaft oder eines in einer anderen
 Rechtsform betriebenen Unternehmens haftbar gemacht werden, haben
 gegen den Dienstherrn Anspruch auf Ersatz des ihnen entstandenen
 Schadens. Ist der Schaden vorsätzlich oder grob fahrlässig
-herbeigeführt, ist der Dienstherr nur dann ersatzpflichtig, wenn die
-Beamtin oder der Beamte auf Verlangen der oder des Vorgesetzten
+herbeigeführt, ist der Dienstherr nur dann ersatzpflichtig, wenn
+die Beamtin oder der Beamte auf Verlangen der oder des Vorgesetzten
 gehandelt hat.
 
 
@@ -3778,55 +3100,109 @@ Bundesregierung durch Rechtsverordnung. In ihr kann bestimmt werden,
 1.  welche Tätigkeiten als öffentlicher Dienst im Sinne dieser
     Vorschriften anzusehen sind oder ihm gleichstehen,
 
-
 2.  ob und inwieweit eine im öffentlichen Dienst ausgeübte oder auf
     Verlangen, Vorschlag oder Veranlassung der oder des Dienstvorgesetzten
     ausgeübte Nebentätigkeit vergütet wird oder eine Vergütung abzuführen
     ist,
 
-
-3.  unter welchen Voraussetzungen die Beamtin oder der Beamte zur Ausübung
-    von Nebentätigkeiten Einrichtungen, Personal oder Material des
-    Dienstherrn in Anspruch nehmen darf und in welcher Höhe hierfür ein
-    Entgelt an den Dienstherrn zu entrichten ist; das Entgelt kann
+3.  unter welchen Voraussetzungen die Beamtin oder der Beamte zur
+    Ausübung von Nebentätigkeiten Einrichtungen, Personal oder Material
+    des Dienstherrn in Anspruch nehmen darf und in welcher Höhe hierfür
+    ein Entgelt an den Dienstherrn zu entrichten ist; das Entgelt kann
     pauschaliert in einem Prozentsatz des aus der Nebentätigkeit erzielten
     Bruttoeinkommens festgelegt werden und bei unentgeltlich ausgeübter
     Nebentätigkeit entfallen,
 
-
-4.  dass die Beamtin oder der Beamte verpflichtet werden kann, nach Ablauf
-    eines jeden Kalenderjahres der oder dem Dienstvorgesetzten die ihr
-    oder ihm zugeflossenen Entgelte und geldwerten Vorteile aus
+4.  dass die Beamtin oder der Beamte verpflichtet werden kann, nach
+    Ablauf eines jeden Kalenderjahres der oder dem Dienstvorgesetzten
+    die ihr oder ihm zugeflossenen Entgelte und geldwerten Vorteile aus
     Nebentätigkeiten anzugeben.
 
 
+#### § 105 Anzeige- und Genehmigungspflicht nach Beendigung des Beamtenverhältnisses
 
-
-
-#### § 105 Anzeigepflicht nach Beendigung des Beamtenverhältnisses
-
-(1) Ruhestandsbeamtinnen, Ruhestandsbeamte, frühere Beamtinnen mit
-Versorgungsbezügen und frühere Beamte mit Versorgungsbezügen haben
+(1) Ruhestandsbeamtinnen und Ruhestandsbeamte sind verpflichtet,
 eine Erwerbstätigkeit oder sonstige Beschäftigung außerhalb des
-öffentlichen Dienstes, die mit ihrer dienstlichen Tätigkeit in den
-letzten fünf Jahren vor Beendigung des Beamtenverhältnisses im
+öffentlichen Dienstes, die mit ihrer dienstlichen Tätigkeit in
+den letzten fünf Jahren vor Beendigung des Beamtenverhältnisses im
 Zusammenhang steht und durch die dienstliche Interessen beeinträchtigt
-werden können, vor ihrer Aufnahme schriftlich oder elektronisch
-anzuzeigen. Die Anzeigepflicht endet, wenn die Beamtinnen und Beamten
-mit Erreichen der Regelaltersgrenze in den Ruhestand treten, drei
-Jahre, im Übrigen fünf Jahre nach Beendigung des Beamtenverhältnisses.
-Die Sätze 1 und 2 gelten auch für frühere Beamtinnen mit Anspruch auf
-Altersgeld und frühere Beamte mit Anspruch auf Altersgeld.
+werden können, vor Aufnahme dieser Tätigkeit oder dieser Beschäftigung
+schriftlich oder elektronisch der zuständigen Behörde anzuzeigen. Die
+Anzeigepflicht endet
 
-(2) Die Erwerbstätigkeit oder sonstige Beschäftigung ist zu
+1.  drei Jahre nach Beendigung des Beamtenverhältnisses, wenn die Beamtin
+    oder der Beamte mit Erreichen der Regelaltersgrenze in den Ruhestand
+    tritt, und
+
+2.  in den übrigen Fällen fünf Jahre nach Beendigung des
+    Beamtenverhältnisses.
+
+(2) Zur Anzeige jeder Erwerbstätigkeit oder sonstigen Beschäftigung
+außerhalb des öffentlichen Dienstes verpflichtet ist eine
+Ruhestandsbeamtin oder ein Ruhestandsbeamter, wenn sie oder er
+
+1.  vor Eintritt in den Ruhestand politische Beamtin oder politischer
+    Beamter nach § 54 Absatz 1 war oder
+
+2.  in den letzten fünf Jahren vor Beendigung des
+    Beamtenverhältnisses betraut gewesen ist mit mindestens einer
+    sicherheitsempfindlichen Tätigkeit im Sinne des § 1 Absatz 2 des
+    Sicherheitsüberprüfungsgesetzes.
+
+(3) Die Anzeigepflicht nach Absatz 2 endet
+
+1.  fünf Jahre nach Beendigung des Beamtenverhältnisses, wenn die Beamtin
+    oder der Beamte mit Erreichen der Regelaltersgrenze in den Ruhestand
+    tritt, und
+
+2.  in den übrigen Fällen sieben Jahre nach Beendigung des
+    Beamtenverhältnisses.
+
+(4) Die Anzeige nach den Absätzen 1 und 2 soll mindestens einen Monat
+vor Aufnahme der Tätigkeit oder Beschäftigung erfolgen. Wird die Frist
+nicht eingehalten, so kann die zuständige Behörde die Aufnahme der
+Tätigkeit oder Beschäftigung bis zur Dauer von höchstens einem Monat
+vorläufig untersagen.
+
+(5) Ruhestandsbeamtinnen oder Ruhestandsbeamte, die in den letzten
+fünf Jahren vor Beendigung des Beamtenverhältnisses betraut gewesen
+sind mit mindestens einer sicherheitsempfindlichen Tätigkeit, die
+eine erweiterte Sicherheitsüberprüfung mit Sicherheitsermittlungen
+nach § 10 des Sicherheitsüberprüfungsgesetzes erfordert, bedürfen
+für die Aufnahme einer Erwerbstätigkeit oder sonstigen Beschäftigung
+für eine fremde Macht oder einen ihrer Mittelsmänner der vorherigen
+Genehmigung, sofern die beabsichtigte Erwerbstätigkeit oder sonstige
+Beschäftigung einen Bezug zu sicherheitsempfindlichen Belangen
+aufweist. Die Pflicht zur Einholung einer Genehmigung endet
+
+1.  fünf Jahre nach Beendigung des Beamtenverhältnisses, wenn die Beamtin
+    oder der Beamte mit Erreichen der Regelaltersgrenze in den Ruhestand
+    tritt, und
+
+2.  in den übrigen Fällen sieben Jahre nach Beendigung des
+    Beamtenverhältnisses.
+
+(6) Die Erwerbstätigkeit oder sonstige Beschäftigung ist zu
 untersagen, soweit zu besorgen ist, dass durch sie dienstliche
-Interessen beeinträchtigt werden. Die Untersagung ist für den Zeitraum
-bis zum Ende der Anzeigepflicht auszusprechen, es sei denn, die
-Voraussetzungen für eine Untersagung liegen nur für einen kürzeren
-Zeitraum vor.
+Interessen beeinträchtigt werden. Auch, wenn die zuständige
+Behörde auf anderem Weg als durch die Anzeige Kenntnis von der
+Erwerbstätigkeit oder sonstigen Beschäftigung erlangt, ist sie
+verpflichtet, diese Tätigkeit oder Beschäftigung zu untersagen,
+soweit zu besorgen ist, dass durch sie dienstliche Interessen
+beeinträchtigt werden. Die Untersagung ist für den Zeitraum bis zum
+Ende der Anzeigepflicht auszusprechen. Liegen die Voraussetzungen
+für eine Untersagung nur für einen kürzeren Zeitraum vor, so ist
+die Untersagung nur bis zum Ende dieses Zeitraums auszusprechen.
+Entsprechendes gilt für die Versagung der Genehmigung in den Fällen
+des Absatzes 5.
 
-(3) Zuständig ist die letzte oberste Dienstbehörde. Sie kann ihre
-Zuständigkeit auf nachgeordnete Behörden übertragen.
+(7) Die Absätze 1 bis 6 gelten für frühere Beamtinnen mit
+Versorgungsbezügen und frühere Beamte mit Versorgungsbezügen sowie für
+frühere Beamtinnen mit Anspruch auf Altersgeld und frühere Beamte mit
+Anspruch auf Altersgeld entsprechend.
+
+(8) Zuständige Behörde ist die letzte oberste Dienstbehörde. Sie kann
+ihre Zuständigkeit auf nachgeordnete Behörden übertragen.
 
 
 ### Unterabschnitt 4 - Personalaktenrecht
@@ -3839,11 +3215,11 @@ führen. Sie ist vertraulich zu behandeln und durch technische und
 organisatorische Maßnahmen nach den Artikeln 24, 25 und 32 der
 Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom
 27\. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung
-personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der
-Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom
-4\.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S.
-2) in der jeweils geltenden Fassung vor unbefugter Einsichtnahme zu
-schützen. Die Akte kann in Teilen oder vollständig automatisiert
+personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung
+der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119
+vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018,
+S. 2) in der jeweils geltenden Fassung vor unbefugter Einsichtnahme
+zu schützen. Die Akte kann in Teilen oder vollständig automatisiert
 geführt werden. Zur Personalakte gehören alle Unterlagen, die die
 Beamtin oder den Beamten betreffen, soweit sie mit ihrem oder seinem
 Dienstverhältnis in einem unmittelbaren inneren Zusammenhang stehen
@@ -3856,14 +3232,14 @@ Besoldungs- und Versorgungsakten verbunden geführt werden, wenn diese
 von der übrigen Personalakte getrennt sind und von einer von der
 Personalverwaltung getrennten Organisationseinheit bearbeitet werden.
 
-(2) Die Personalakte kann nach sachlichen Gesichtspunkten in Grundakte
-und Teilakten gegliedert werden. Teilakten können bei der für den
-betreffenden Aufgabenbereich zuständigen Behörde geführt werden.
-Nebenakten (Unterlagen, die sich auch in der Grundakte oder in
-Teilakten befinden) dürfen nur geführt werden, wenn die
-personalverwaltende Behörde nicht zugleich Beschäftigungsbehörde ist
-oder wenn mehrere personalverwaltende Behörden für die Beamtin oder
-den Beamten zuständig sind; sie dürfen nur solche Unterlagen
+(2) Die Personalakte kann nach sachlichen Gesichtspunkten in
+Grundakte und Teilakten gegliedert werden. Teilakten können bei der
+für den betreffenden Aufgabenbereich zuständigen Behörde geführt
+werden. Nebenakten (Unterlagen, die sich auch in der Grundakte
+oder in Teilakten befinden) dürfen nur geführt werden, wenn die
+personalverwaltende Behörde nicht zugleich Beschäftigungsbehörde
+ist oder wenn mehrere personalverwaltende Behörden für die Beamtin
+oder den Beamten zuständig sind; sie dürfen nur solche Unterlagen
 enthalten, deren Kenntnis zur rechtmäßigen Aufgabenerledigung der
 betreffenden Behörde erforderlich ist. In die Grundakte ist ein
 vollständiges Verzeichnis aller Teil- und Nebenakten aufzunehmen. Wird
@@ -3871,15 +3247,15 @@ die Personalakte weder vollständig in Schriftform noch vollständig
 elektronisch geführt, so muss sich aus dem Verzeichnis nach Satz 4
 ergeben, welche Teile der Personalakte in welcher Form geführt werden.
 
-(3) Personalaktendaten dürfen ohne Einwilligung der Beamtin oder des
-Beamten nur für Zwecke der Personalverwaltung oder der
+(3) Personalaktendaten dürfen ohne Einwilligung der Beamtin
+oder des Beamten nur für Zwecke der Personalverwaltung oder der
 Personalwirtschaft verarbeitet werden.
 
 (4) Der Dienstherr darf personenbezogene Daten über Bewerberinnen,
-Bewerber, Beamtinnen und Beamte sowie über ehemalige Beamtinnen und
-ehemalige Beamte nur erheben, soweit dies zur Begründung,
-Durchführung, Beendigung oder Abwicklung des Dienstverhältnisses oder
-zur Durchführung organisatorischer, personeller oder sozialer
+Bewerber, Beamtinnen und Beamte sowie über ehemalige Beamtinnen
+und ehemalige Beamte nur erheben, soweit dies zur Begründung,
+Durchführung, Beendigung oder Abwicklung des Dienstverhältnisses
+oder zur Durchführung organisatorischer, personeller oder sozialer
 Maßnahmen, insbesondere zu Zwecken der Personalplanung oder des
 Personaleinsatzes, erforderlich ist oder eine Rechtsvorschrift dies
 erlaubt.
@@ -3887,10 +3263,10 @@ erlaubt.
 
 #### § 107 Zugang zur Personalakte
 
-(1) Zugang zur Personalakte dürfen nur Beschäftigte haben, die im
-Rahmen der Personalverwaltung mit der Bearbeitung von
-Personalangelegenheiten beauftragt sind, und nur soweit dies zu
-Zwecken der Personalverwaltung oder der Personalwirtschaft
+(1) Zugang zur Personalakte dürfen nur Beschäftigte haben,
+die im Rahmen der Personalverwaltung mit der Bearbeitung von
+Personalangelegenheiten beauftragt sind, und nur soweit dies
+zu Zwecken der Personalverwaltung oder der Personalwirtschaft
 erforderlich ist. Zugang zu Personalaktendaten darf auch
 Beschäftigten, die Aufgaben des ärztlichen Dienstes wahrnehmen,
 gewährt werden, soweit die Kenntnis der Daten zur Erfüllung ihrer
@@ -3899,8 +3275,8 @@ der Personalakte haben auch Gleichstellungsbeauftragte, soweit dies
 zur Wahrnehmung ihrer Aufgaben erforderlich ist.
 
 (2) Den mit Angelegenheiten der Innenrevision beauftragten
-Beschäftigten ist Einsicht in die Personalakte zu gewähren, soweit sie
-die zur Erfüllung ihrer Aufgaben erforderlichen Erkenntnisse nicht
+Beschäftigten ist Einsicht in die Personalakte zu gewähren, soweit
+sie die zur Erfüllung ihrer Aufgaben erforderlichen Erkenntnisse nicht
 durch eine in sonstiger Weise erteilte Auskunft aus der Personalakte
 gewinnen können. Jede Einsichtnahme nach Satz 1 ist zu dokumentieren.
 
@@ -3923,22 +3299,18 @@ verarbeitet werden, wenn sie erforderlich sind
     gerichtlichen Verfahrens, das im Zusammenhang mit einem Beihilfeantrag
     steht, oder
 
-
 2.  zur Abwehr erheblicher Nachteile für das Gemeinwohl, zur Abwehr einer
     sonst unmittelbar drohenden Gefahr für die öffentliche Sicherheit oder
     zur Abwehr einer schwerwiegenden Beeinträchtigung der Rechte einer
     anderen Person.
 
-
-
-
 (3) Die Absätze 1 und 2 gelten entsprechend für Unterlagen über
 Heilfürsorge und Heilverfahren.
 
 (4) Personenbezogene Daten aus der Beihilfeakte dürfen ohne
-Einwilligung genutzt oder an eine andere Behörde übermittelt werden,
-soweit sie für die Festsetzung und Berechnung der Besoldung oder
-Versorgung oder für die Prüfung der Kindergeldberechtigung
+Einwilligung genutzt oder an eine andere Behörde übermittelt
+werden, soweit sie für die Festsetzung und Berechnung der Besoldung
+oder Versorgung oder für die Prüfung der Kindergeldberechtigung
 erforderlich sind. Dies gilt auch für Daten aus der Besoldungsakte und
 der Versorgungsakte, soweit sie für die Festsetzung und Berechnung der
 Beihilfe erforderlich sind.
@@ -3955,36 +3327,36 @@ bis 3 sind für diese Stelle anzuwenden.
 
 Beamtinnen und Beamte sind zu Beschwerden, Behauptungen und
 Bewertungen, die für sie ungünstig sind oder ihnen nachteilig werden
-können, vor deren Aufnahme in die Personalakte zu hören, soweit die
-Anhörung nicht nach anderen Rechtsvorschriften erfolgt. Ihre
+können, vor deren Aufnahme in die Personalakte zu hören, soweit
+die Anhörung nicht nach anderen Rechtsvorschriften erfolgt. Ihre
 Äußerungen sind zur Personalakte zu nehmen.
 
 
 #### § 110 Auskunft
 
-(1) Das Recht der Beamtin oder des Beamten auf Auskunft gemäß
-Artikel 15 der Verordnung (EU) 2016/679 umfasst auch das Recht auf
-Einsicht in die vollständige Personalakte. Dies gilt auch nach
-Beendigung des Beamtenverhältnisses. Soweit keine dienstlichen Gründe
-entgegenstehen, werden Kopien oder Ausdrucke aus der Personalakte
-angefertigt. Der Beamtin oder dem Beamten ist auf Verlangen ein
-Ausdruck der Personalaktendaten zu überlassen, die zu ihrer oder
-seiner Person automatisiert gespeichert sind.
+(1) Das Recht der Beamtin oder des Beamten auf Auskunft gemäß Artikel
+15 der Verordnung (EU) 2016/679 umfasst auch das Recht auf Einsicht
+in die vollständige Personalakte. Dies gilt auch nach Beendigung des
+Beamtenverhältnisses. Soweit keine dienstlichen Gründe entgegenstehen,
+werden Kopien oder Ausdrucke aus der Personalakte angefertigt.
+Der Beamtin oder dem Beamten ist auf Verlangen ein Ausdruck der
+Personalaktendaten zu überlassen, die zu ihrer oder seiner Person
+automatisiert gespeichert sind.
 
-(2) Die Beamtin oder der Beamte hat ein Recht auf Auskunft auch über
-personenbezogene Daten über sie oder ihn, die in anderen Akten
+(2) Die Beamtin oder der Beamte hat ein Recht auf Auskunft auch
+über personenbezogene Daten über sie oder ihn, die in anderen Akten
 enthalten sind und für ihr oder sein Dienstverhältnis verarbeitet
-werden, soweit gesetzlich nichts anderes bestimmt ist. Das Recht auf
-Auskunft umfasst auch das Recht auf Einsicht in die Akten. Keine
-Einsicht wird gewährt, soweit die anderen Akten personenbezogene Daten
-Dritter oder geheimhaltungsbedürftige nicht personenbezogene Daten
-enthalten, die mit den Daten der Beamtin oder des Beamten derart
-verbunden sind, dass eine Trennung nicht oder nur mit
+werden, soweit gesetzlich nichts anderes bestimmt ist. Das Recht
+auf Auskunft umfasst auch das Recht auf Einsicht in die Akten. Keine
+Einsicht wird gewährt, soweit die anderen Akten personenbezogene
+Daten Dritter oder geheimhaltungsbedürftige nicht personenbezogene
+Daten enthalten, die mit den Daten der Beamtin oder des Beamten
+derart verbunden sind, dass eine Trennung nicht oder nur mit
 unverhältnismäßig großem Aufwand möglich ist. Nicht der Auskunft
 unterliegen Sicherheitsakten.
 
-(3) Bevollmächtigten der Beamtin oder des Beamten ist Auskunft aus der
-Personalakte zu erteilen, soweit dienstliche Gründe nicht
+(3) Bevollmächtigten der Beamtin oder des Beamten ist Auskunft
+aus der Personalakte zu erteilen, soweit dienstliche Gründe nicht
 entgegenstehen. Das Recht auf Auskunft umfasst auch das Recht auf
 Einsicht in die vollständige Personalakte. Entsprechendes gilt für
 Hinterbliebene der Beamtin oder des Beamten und für Bevollmächtigte
@@ -4001,12 +3373,12 @@ die Einsicht gewährt wird.
 die Personalakte der obersten Dienstbehörde oder einer im Rahmen der
 Dienstaufsicht weisungsbefugten Behörde zu übermitteln, soweit dies
 für Zwecke der Personalverwaltung oder Personalwirtschaft erforderlich
-ist. Das Gleiche gilt für Behörden desselben Geschäftsbereichs, soweit
-die Übermittlung zur Vorbereitung oder Durchführung einer
+ist. Das Gleiche gilt für Behörden desselben Geschäftsbereichs,
+soweit die Übermittlung zur Vorbereitung oder Durchführung einer
 Personalentscheidung notwendig ist, sowie für Behörden eines anderen
 Geschäftsbereichs desselben Dienstherrn, soweit diese an einer
-Personalentscheidung mitzuwirken haben. Einer Ärztin oder einem Arzt,
-die oder der im Auftrag der personalverwaltenden Behörde ein
+Personalentscheidung mitzuwirken haben. Einer Ärztin oder einem
+Arzt, die oder der im Auftrag der personalverwaltenden Behörde ein
 medizinisches Gutachten erstellt, darf die Personalakte ebenfalls ohne
 Einwilligung übermittelt werden. Für Auskünfte aus der Personalakte
 gelten die Sätze 1 bis 3 entsprechend. Soweit eine Auskunft ausreicht,
@@ -4017,11 +3389,8 @@ Beamten erteilt werden, wenn dies zwingend erforderlich ist
 
 1.  für die Abwehr einer erheblichen Beeinträchtigung des Gemeinwohls oder
 
-
 2.  für den Schutz berechtigter, höherrangiger Interessen der oder des
     Dritten.
-
-
 
 In diesen Fällen wird keine Akteneinsicht gewährt. Inhalt und
 Empfängerin oder Empfänger der Auskunft sind der Beamtin oder dem
@@ -4038,10 +3407,7 @@ wenn
 
 1.  die dort genannten Voraussetzungen vorliegen und
 
-
 2.  die oberste Dienstbehörde der Auftragserteilung zugestimmt hat.
-
-
 
 Die personalverwaltende Behörde hat die Einhaltung der beamten- und
 datenschutzrechtlichen Vorschriften durch die Auftragsverarbeiterin
@@ -4050,17 +3416,13 @@ oder den Auftragsverarbeiter regelmäßig zu kontrollieren.
 (2) Eine nichtöffentliche Stelle darf nur beauftragt werden, wenn
 
 1.  bei der personalverwaltenden Behörde sonst Störungen im
-    Geschäftsablauf auftreten können oder die Auftragsverarbeiterin oder
-    der Auftragsverarbeiter die übertragenen Aufgaben erheblich
+    Geschäftsablauf auftreten können oder die Auftragsverarbeiterin
+    oder der Auftragsverarbeiter die übertragenen Aufgaben erheblich
     kostengünstiger erledigen kann und
-
 
 2.  die bei der Auftragsverarbeiterin oder dem Auftragsverarbeiter zur
     Verarbeitung der Personalaktendaten befugten Personen besonders auf
     den Schutz der Personalaktendaten verpflichtet sind.
-
-
-
 
 
 #### § 111b Aufgabenübertragung
@@ -4069,8 +3431,8 @@ oder den Auftragsverarbeiter regelmäßig zu kontrollieren.
 personalverwaltende Behörde mit Zustimmung der obersten Bundesbehörde
 Aufgaben, die ihr gegenüber Bewerberinnen und Bewerbern, Beamtinnen
 und Beamten sowie gegenüber ehemaligen Beamtinnen und Beamten
-obliegen, auf eine andere öffentliche Stelle im Sinne des § 2 Absatz 1
-und 3 des Bundesdatenschutzgesetzes übertragen. Die oberste
+obliegen, auf eine andere öffentliche Stelle im Sinne des § 2
+Absatz 1 und 3 des Bundesdatenschutzgesetzes übertragen. Die oberste
 Bundesbehörde kann die Zuständigkeit für die Entscheidung über die
 Zustimmung auf die oberste Dienstbehörde übertragen.
 
@@ -4082,11 +3444,7 @@ ist, darf die personalverwaltende Stelle der Stelle, der sie Aufgaben
     Personalaktendaten von Beamtinnen und Beamten und ehemaligen
     Beamtinnen und Beamten übermitteln und
 
-
 2.  die Führung der Personalakte übertragen.
-
-
-
 
 (3) Auf Vereinigungen des privaten Rechts von öffentlichen Stellen des
 Bundes dürfen Aufgaben nur mit Zustimmung der obersten Dienstbehörde
@@ -4098,26 +3456,23 @@ nicht.
 
 #### § 112 Entfernung von Unterlagen
 
-(1) Unterlagen über Beschwerden, Behauptungen und Bewertungen, auf die
-§ 16 Abs. 3 und 4 Satz 1 des Bundesdisziplinargesetzes nicht
+(1) Unterlagen über Beschwerden, Behauptungen und Bewertungen, auf
+die § 16 Abs. 3 und 4 Satz 1 des Bundesdisziplinargesetzes nicht
 anzuwenden ist, sind,
 
 1.  falls sie sich als unbegründet oder falsch erwiesen haben, mit
     Zustimmung der Beamtin oder des Beamten unverzüglich aus der
     Personalakte zu entfernen und zu vernichten, oder
 
-
-2.  falls sie für die Beamtin oder den Beamten ungünstig sind oder ihr
-    oder ihm nachteilig werden können, auf Antrag nach zwei Jahren zu
-    entfernen und zu vernichten; dies gilt nicht für dienstliche
+2.  falls sie für die Beamtin oder den Beamten ungünstig sind oder
+    ihr oder ihm nachteilig werden können, auf Antrag nach zwei Jahren
+    zu entfernen und zu vernichten; dies gilt nicht für dienstliche
     Beurteilungen.
 
-
-
-Die Frist nach Satz 1 Nr. 2 wird durch erneute Sachverhalte im Sinne
-dieser Vorschrift oder durch die Einleitung eines Straf- oder
-Disziplinarverfahrens unterbrochen. Stellt sich der erneute Vorwurf
-als unbegründet oder falsch heraus, gilt die Frist als nicht
+Die Frist nach Satz 1 Nr. 2 wird durch erneute Sachverhalte im
+Sinne dieser Vorschrift oder durch die Einleitung eines Straf-
+oder Disziplinarverfahrens unterbrochen. Stellt sich der erneute
+Vorwurf als unbegründet oder falsch heraus, gilt die Frist als nicht
 unterbrochen.
 
 (2) Mitteilungen in Strafsachen, soweit sie nicht Bestandteil einer
@@ -4132,24 +3487,20 @@ entfernen und zu vernichten. Absatz 1 Satz 2 und 3 gilt entsprechend.
 personalaktenführenden Behörde fünf Jahre aufzubewahren. Personalakten
 sind abgeschlossen,
 
-1.  wenn die Beamtin oder der Beamte ohne Versorgungsansprüche aus dem
-    öffentlichen Dienst ausgeschieden ist, mit Ablauf des Jahres des
-    Erreichens der Regelaltersgrenze, in den Fällen des § 41 oder des § 10
-    des Bundesdisziplinargesetzes jedoch erst, wenn mögliche
+1.  wenn die Beamtin oder der Beamte ohne Versorgungsansprüche aus
+    dem öffentlichen Dienst ausgeschieden ist, mit Ablauf des Jahres
+    des Erreichens der Regelaltersgrenze, in den Fällen des § 41 oder
+    des § 10 des Bundesdisziplinargesetzes jedoch erst, wenn mögliche
     Versorgungsempfängerinnen und Versorgungsempfänger nicht mehr
     vorhanden sind,
-
 
 2.  wenn die Beamtin oder der Beamte ohne versorgungsberechtigte oder
     altersgeldberechtigte Hinterbliebene verstorben ist, mit Ablauf des
     Todesjahres, oder
 
-
 3.  wenn nach dem Tod der Beamtin oder des Beamten versorgungsberechtigte
     oder altersgeldberechtigte Hinterbliebene vorhanden sind, mit Ablauf
     des Jahres, in dem die letzte Versorgungsverpflichtung entfallen ist.
-
-
 
 Kann der nach Satz 2 Nr. 2 und 3 maßgebliche Zeitpunkt nicht
 festgestellt werden, ist § 11 Absatz 2 Satz 2 und 3 des
@@ -4157,14 +3508,14 @@ Bundesarchivgesetzes entsprechend anzuwenden.
 
 (2) Unterlagen über Beihilfen, Heilfürsorge, Heilverfahren,
 Unterstützungen, Erkrankungen, Umzugs- und Reisekosten sind fünf
-Jahre, Unterlagen über Erholungsurlaub sind drei Jahre nach Ablauf des
-Jahres aufzubewahren, in dem die Bearbeitung des einzelnen Vorgangs
-abgeschlossen wurde. Für zahlungsbegründende Unterlagen nach Satz 1
-beträgt die Aufbewahrungsfrist sechs Jahre. Unterlagen, aus denen die
-Art einer Erkrankung ersichtlich ist, sind unverzüglich zurückzugeben
-oder zu vernichten, wenn sie für den Zweck, zu dem sie vorgelegt
-worden sind, nicht mehr benötigt werden. Als Zweck, zu dem die
-Unterlagen vorgelegt worden sind, gelten auch Verfahren, mit denen
+Jahre, Unterlagen über Erholungsurlaub sind drei Jahre nach Ablauf
+des Jahres aufzubewahren, in dem die Bearbeitung des einzelnen
+Vorgangs abgeschlossen wurde. Für zahlungsbegründende Unterlagen nach
+Satz 1 beträgt die Aufbewahrungsfrist sechs Jahre. Unterlagen, aus
+denen die Art einer Erkrankung ersichtlich ist, sind unverzüglich
+zurückzugeben oder zu vernichten, wenn sie für den Zweck, zu dem sie
+vorgelegt worden sind, nicht mehr benötigt werden. Als Zweck, zu dem
+die Unterlagen vorgelegt worden sind, gelten auch Verfahren, mit denen
 Rabatte oder Erstattungen geltend gemacht werden.
 
 (3) Versorgungsakten und Altersgeldakten sind zehn Jahre nach Ablauf
@@ -4173,8 +3524,8 @@ Altersgeld- oder Hinterbliebenenaltersgeldzahlung geleistet worden
 ist. Besteht die Möglichkeit eines Wiederauflebens des Anspruchs, sind
 die Akten 30 Jahre aufzubewahren.
 
-(4) Die Personalakten sind nach Ablauf der Aufbewahrungsfrist zu
-vernichten, sofern sie nicht nach den §§ 5 bis 7 des
+(4) Die Personalakten sind nach Ablauf der Aufbewahrungsfrist
+zu vernichten, sofern sie nicht nach den §§ 5 bis 7 des
 Bundesarchivgesetzes vom Bundesarchiv oder einem Landesarchiv
 übernommen werden.
 
@@ -4182,8 +3533,8 @@ Bundesarchivgesetzes vom Bundesarchiv oder einem Landesarchiv
 #### § 114 Automatisierte Verarbeitung von Personalaktendaten
 
 (1) Personalaktendaten dürfen nur für Zwecke der Personalverwaltung
-oder der Personalwirtschaft automatisiert verarbeitet werden. Ihre
-Übermittlung ist nur nach Maßgabe des § 111 zulässig. Ein
+oder der Personalwirtschaft automatisiert verarbeitet werden.
+Ihre Übermittlung ist nur nach Maßgabe des § 111 zulässig. Ein
 automatisierter Datenabruf durch andere Behörden ist unzulässig,
 soweit durch besondere Rechtsvorschrift nichts anderes bestimmt ist.
 
@@ -4192,8 +3543,8 @@ Zweckbestimmung und nur von den übrigen Personaldateien technisch und
 organisatorisch getrennt automatisiert verarbeitet werden.
 
 (3) Von den Unterlagen über medizinische oder psychologische
-Untersuchungen und Tests dürfen im Rahmen der Personalverwaltung nur
-die Ergebnisse automatisiert verarbeitet werden, soweit sie die
+Untersuchungen und Tests dürfen im Rahmen der Personalverwaltung
+nur die Ergebnisse automatisiert verarbeitet werden, soweit sie die
 Eignung betreffen und ihre Verwendung dem Schutz der Beamtin oder des
 Beamten dient.
 
@@ -4213,19 +3564,15 @@ Inhalts automatisierter Datenübermittlung allgemein bekannt zu geben.
 #### § 115 Übermittlungen in Strafverfahren
 
 (1) Das Gericht, die Strafverfolgungs- oder die
-Strafvollstreckungsbehörde hat in Strafverfahren gegen Beamtinnen und
-Beamte zur Sicherstellung der erforderlichen dienstrechtlichen
+Strafvollstreckungsbehörde hat in Strafverfahren gegen Beamtinnen
+und Beamte zur Sicherstellung der erforderlichen dienstrechtlichen
 Maßnahmen im Fall der Erhebung der öffentlichen Klage
 
 1.  die Anklageschrift oder eine an ihre Stelle tretende Antragsschrift,
 
-
 2.  den Antrag auf Erlass eines Strafbefehls und
 
-
 3.  die einen Rechtszug abschließende Entscheidung mit Begründung
-
-
 
 zu übermitteln. Ist gegen die Entscheidung ein Rechtsmittel eingelegt
 worden, ist die Entscheidung unter Hinweis auf das eingelegte
@@ -4238,13 +3585,9 @@ Absatz 1 Satz 1 bestimmten Übermittlungen nur vorgenommen, wenn
 1.  es sich um schwere Verstöße handelt, namentlich Vergehen der
     Trunkenheit im Straßenverkehr oder der fahrlässigen Tötung, oder
 
-
-2.  in sonstigen Fällen die Kenntnis der Daten aufgrund der Umstände des
-    Einzelfalls erforderlich ist, um zu prüfen, ob dienstrechtliche
+2.  in sonstigen Fällen die Kenntnis der Daten aufgrund der Umstände
+    des Einzelfalls erforderlich ist, um zu prüfen, ob dienstrechtliche
     Maßnahmen zu ergreifen sind.
-
-
-
 
 (3) Entscheidungen über Verfahrenseinstellungen, die nicht bereits
 nach Absatz 1 oder 2 zu übermitteln sind, sollen übermittelt werden,
@@ -4256,8 +3599,8 @@ der zu übermittelnden Entscheidung zugrunde liegen.
 dürfen mitgeteilt werden, wenn ihre Kenntnis aufgrund besonderer
 Umstände des Einzelfalls für dienstrechtliche Maßnahmen gegen eine
 Beamtin oder einen Beamten erforderlich ist und soweit nicht für die
-übermittelnde Stelle erkennbar ist, dass schutzwürdige Interessen der
-Beamtin oder des Beamten an dem Ausschluss der Übermittlung
+übermittelnde Stelle erkennbar ist, dass schutzwürdige Interessen
+der Beamtin oder des Beamten an dem Ausschluss der Übermittlung
 überwiegen. Erforderlich ist die Kenntnis der Daten auch dann, wenn
 diese Anlass zur Prüfung bieten, ob dienstrechtliche Maßnahmen zu
 ergreifen sind. Absatz 3 Satz 2 ist entsprechend anzuwenden.
@@ -4272,8 +3615,8 @@ Abgabenordnung) unterliegen. Übermittlungen nach Absatz 4 sind unter
 den Voraussetzungen des § 30 Abs. 4 Nr. 5 der Abgabenordnung zulässig.
 
 (7) Mitteilungen sind an die zuständigen Dienstvorgesetzten oder deren
-Vertretung im Amt zu richten und als „Vertrauliche Personalsache“ zu
-kennzeichnen.
+Vertretung im Amt zu richten und als „Vertrauliche Personalsache“
+zu kennzeichnen.
 
 
 ## Abschnitt 7 - Beamtenvertretung
@@ -4281,8 +3624,8 @@ kennzeichnen.
 
 ### § 116 Mitgliedschaft in Gewerkschaften und Berufsverbänden
 
-(1) Beamtinnen und Beamte haben das Recht, sich in Gewerkschaften oder
-Berufsverbänden zusammenzuschließen. Sie können die für sie
+(1) Beamtinnen und Beamte haben das Recht, sich in Gewerkschaften
+oder Berufsverbänden zusammenzuschließen. Sie können die für sie
 zuständigen Gewerkschaften oder Berufsverbände mit ihrer Vertretung
 beauftragen, soweit gesetzlich nichts anderes bestimmt ist.
 
@@ -4299,8 +3642,8 @@ gewährleisten. Das Nähere wird durch Gesetz geregelt.
 
 ### § 118 Beteiligung der Spitzenorganisationen
 
-Die Spitzenorganisationen der zuständigen Gewerkschaften sind bei der
-Vorbereitung allgemeiner Regelungen der beamtenrechtlichen
+Die Spitzenorganisationen der zuständigen Gewerkschaften sind bei
+der Vorbereitung allgemeiner Regelungen der beamtenrechtlichen
 Verhältnisse zu beteiligen.
 
 
@@ -4310,19 +3653,15 @@ Verhältnisse zu beteiligen.
 ### § 119 Aufgaben; Verordnungsermächtigung
 
 (1) Der Bundespersonalausschuss dient der einheitlichen Handhabung
-beamtenrechtlicher Ausnahmevorschriften. Weitere als die in diesem
-Gesetz vorgesehenen Aufgaben kann die Bundesregierung dem
-Bundespersonalausschuss durch Rechtsverordnung übertragen,
+beamtenrechtlicher Ausnahmevorschriften. Weitere als die in
+diesem Gesetz vorgesehenen Aufgaben kann die Bundesregierung
+dem Bundespersonalausschuss durch Rechtsverordnung übertragen,
 insbesondere
 
 1.  die Feststellung des erfolgreichen Abschlusses von Aufstiegsverfahren,
 
-
 2.  der Erlass von Regelungen über die Feststellungsverfahren nach Nummer
     1 und § 19.
-
-
-
 
 (2) Der Bundespersonalausschuss übt seine Tätigkeit unabhängig und in
 eigener Verantwortung aus.
@@ -4334,66 +3673,56 @@ eigener Verantwortung aus.
 stellvertretenden Mitgliedern.
 
 (2) Ständige ordentliche Mitglieder sind die Präsidentin des
-Bundesrechnungshofes oder der Präsident des Bundesrechnungshofes als
-Vorsitzende oder Vorsitzender und die Leiterin der
-Dienstrechtsabteilung oder der Leiter der Dienstrechtsabteilung des
-Bundesministeriums des Innern, für Bau und Heimat. Nichtständige
+Bundesrechnungshofes oder der Präsident des Bundesrechnungshofes
+als Vorsitzende oder Vorsitzender und die Leiterin der
+Dienstrechtsabteilung oder der Leiter der Dienstrechtsabteilung
+des Bundesministeriums des Innern und für Heimat. Nichtständige
 ordentliche Mitglieder sind die Leiterinnen der Zentralabteilungen und
 Leiter der Zentralabteilungen von zwei anderen obersten Bundesbehörden
 und vier weitere Beamtinnen und Beamte des Bundes. Stellvertretende
 Mitglieder sind je eine Beamtin oder ein Beamter des Bundes der in
-Satz 1 genannten Behörden, die Leiterinnen der Zentralabteilungen und
-Leiter der Zentralabteilungen von zwei weiteren obersten
+Satz 1 genannten Behörden, die Leiterinnen der Zentralabteilungen
+und Leiter der Zentralabteilungen von zwei weiteren obersten
 Bundesbehörden sowie vier weitere Beamtinnen oder Beamte des Bundes.
 
 (3) Die nichtständigen ordentlichen Mitglieder sowie die
-stellvertretenden Mitglieder werden von der Bundespräsidentin oder vom
-Bundespräsidenten auf Vorschlag der Bundesministerin des Innern, für
-Bau und Heimat oder des Bundesministers des Innern, für Bau und Heimat
+stellvertretenden Mitglieder werden von der Bundespräsidentin oder
+vom Bundespräsidenten auf Vorschlag der Bundesministerin des Innern
+und für Heimat oder des Bundesministers des Innern und für Heimat
 für die Dauer von vier Jahren bestellt, davon vier ordentliche und
 vier stellvertretende Mitglieder aufgrund einer Benennung durch die
 Spitzenorganisationen der zuständigen Gewerkschaften.
 
 (4) Der Bundespersonalausschuss wird zur Durchführung seiner Aufgaben
-durch eine Geschäftsstelle im Bundesministerium des Innern, für Bau
-und Heimat unterstützt.
+durch eine Geschäftsstelle im Bundesministerium des Innern und für
+Heimat unterstützt.
 
 
 ### § 121 Rechtsstellung der Mitglieder
 
 Die Dienstaufsicht über die Mitglieder des Bundespersonalausschusses
-führt im Auftrag der Bundesregierung die Bundesministerin des Innern,
-für Bau und Heimat oder der Bundesminister des Innern, für Bau und
-Heimat mit folgenden Maßgaben:
+führt im Auftrag der Bundesregierung die Bundesministerin des Innern
+und für Heimat oder der Bundesminister des Innern und für Heimat mit
+folgenden Maßgaben:
 
-1.  Die Mitglieder des Bundespersonalausschusses sind unabhängig und nur
-    dem Gesetz unterworfen. Sie dürfen wegen ihrer Tätigkeit weder
+1.  Die Mitglieder des Bundespersonalausschusses sind unabhängig und
+    nur dem Gesetz unterworfen. Sie dürfen wegen ihrer Tätigkeit weder
     dienstlich gemaßregelt noch benachteiligt werden.
-
 
 2.  Sie scheiden aus ihrem Amt als Mitglied des Bundespersonalausschusses
     aus
 
     a)  durch Zeitablauf,
 
-
     b)  durch Ausscheiden aus dem Hauptamt oder aus der Behörde, die für ihre
         Mitgliedschaft maßgeblich sind,
 
-
     c)  durch Beendigung des Beamtenverhältnisses oder
 
-
-    d)  unter den gleichen Voraussetzungen, unter denen Mitglieder einer
-        Kammer oder eines Senats für Disziplinarsachen wegen einer
+    d)  unter den gleichen Voraussetzungen, unter denen Mitglieder
+        einer Kammer oder eines Senats für Disziplinarsachen wegen einer
         rechtskräftigen Entscheidung in einem Straf- oder Disziplinarverfahren
         ihr Amt verlieren; § 66 ist nicht anzuwenden.
-
-
-
-
-
-
 
 
 ### § 122 Geschäftsordnung
@@ -4430,13 +3759,13 @@ eingeräumt ist, binden seine Beschlüsse die beteiligten Verwaltungen.
 
 ### § 124 Beweiserhebung, Auskünfte und Amtshilfe
 
-(1) Der Bundespersonalausschuss kann zur Durchführung seiner Aufgaben
-in entsprechender Anwendung der Vorschriften der
+(1) Der Bundespersonalausschuss kann zur Durchführung seiner
+Aufgaben in entsprechender Anwendung der Vorschriften der
 Verwaltungsgerichtsordnung Beweise erheben.
 
-(2) Die beteiligten Verwaltungen haben dem Bundespersonalausschuss auf
-Verlangen Auskünfte zu erteilen und Akten vorzulegen, soweit dies zur
-Durchführung seiner Aufgaben erforderlich ist. Alle Dienststellen
+(2) Die beteiligten Verwaltungen haben dem Bundespersonalausschuss
+auf Verlangen Auskünfte zu erteilen und Akten vorzulegen, soweit dies
+zur Durchführung seiner Aufgaben erforderlich ist. Alle Dienststellen
 haben dem Bundespersonalausschuss unentgeltlich Amtshilfe zu leisten.
 
 
@@ -4453,6 +3782,10 @@ obersten Dienstbehörde steht offen.
 oder den unmittelbaren Vorgesetzten, kann sie bei der oder dem
 nächsthöheren Vorgesetzten unmittelbar eingereicht werden.
 
+(3) Beamtinnen und Beamte, die eine Meldung oder Offenlegung nach
+dem Hinweisgeberschutzgesetz vornehmen, sind von der Einhaltung des
+Dienstwegs befreit.
+
 
 ### § 126 Verwaltungsrechtsweg
 
@@ -4461,8 +3794,8 @@ Ruhestandsbeamten, früheren Beamtinnen, früheren Beamten und der
 Hinterbliebenen aus dem Beamtenverhältnis sowie für Klagen des
 Dienstherrn ist der Verwaltungsrechtsweg gegeben.
 
-(2) Vor allen Klagen ist ein Vorverfahren nach den Vorschriften des 8.
-Abschnitts der Verwaltungsgerichtsordnung durchzuführen. Dies gilt
+(2) Vor allen Klagen ist ein Vorverfahren nach den Vorschriften des
+8\. Abschnitts der Verwaltungsgerichtsordnung durchzuführen. Dies gilt
 auch dann, wenn die Maßnahme von der obersten Dienstbehörde getroffen
 worden ist.
 
@@ -4477,17 +3810,17 @@ Versetzung haben keine aufschiebende Wirkung.
 
 ### § 127 Vertretung des Dienstherrn
 
-(1) Bei Klagen aus dem Beamtenverhältnis wird der Dienstherr durch die
-oberste Dienstbehörde vertreten, der die Beamtin oder der Beamte
-untersteht oder bei der Beendigung des Beamtenverhältnisses
+(1) Bei Klagen aus dem Beamtenverhältnis wird der Dienstherr durch
+die oberste Dienstbehörde vertreten, der die Beamtin oder der
+Beamte untersteht oder bei der Beendigung des Beamtenverhältnisses
 unterstanden hat. Bei Ansprüchen nach den §§ 53 bis 61 des
 Beamtenversorgungsgesetzes wird der Dienstherr durch die oberste
 Dienstbehörde vertreten, deren sachlicher Weisung die Regelungsbehörde
 untersteht.
 
-(2) Besteht die oberste Dienstbehörde nicht mehr und ist eine andere
-Dienstbehörde nicht bestimmt, tritt an ihre Stelle das
-Bundesministerium des Innern, für Bau und Heimat.
+(2) Besteht die oberste Dienstbehörde nicht mehr und ist eine
+andere Dienstbehörde nicht bestimmt, tritt an ihre Stelle das
+Bundesministerium des Innern und für Heimat.
 
 (3) Die oberste Dienstbehörde kann die Vertretung durch eine
 allgemeine Anordnung anderen Behörden übertragen. Die Anordnung ist im
@@ -4512,10 +3845,10 @@ Vorschriften des Verwaltungszustellungsgesetzes.
 
 Die Beamtinnen und Beamten des Bundestages, des Bundesrates und des
 Bundesverfassungsgerichtes sind Beamtinnen und Beamte des Bundes. Die
-Ernennung, Entlassung und Versetzung in den Ruhestand werden durch die
-Präsidentin oder den Präsidenten des Bundestages, die Präsidentin oder
-den Präsidenten des Bundesrates oder durch die Präsidentin oder den
-Präsidenten des Bundesverfassungsgerichtes vorgenommen. Diese sind
+Ernennung, Entlassung und Versetzung in den Ruhestand werden durch
+die Präsidentin oder den Präsidenten des Bundestages, die Präsidentin
+oder den Präsidenten des Bundesrates oder durch die Präsidentin oder
+den Präsidenten des Bundesverfassungsgerichtes vorgenommen. Diese sind
 jeweils die oberste Dienstbehörde.
 
 
@@ -4546,23 +3879,20 @@ Von einer Ausschreibung kann abgesehen werden, wenn
 1.  ein bereits bestehendes Beamtenverhältnis auf Zeit auf derselben
     Professur in ein Beamtenverhältnis auf Lebenszeit umgewandelt oder
 
-
 2.  eine Juniorprofessorin oder ein Juniorprofessor der eigenen Hochschule
     berufen
-
-
 
 werden soll.
 
 (5) Wissenschaftliche Mitarbeiterinnen und wissenschaftliche
 Mitarbeiter sind die Beamtinnen und Beamten, denen wissenschaftliche
-Dienstleistungen obliegen. In begründeten Fällen kann ihnen auch die
-selbstständige Wahrnehmung von Aufgaben in Forschung und Lehre
+Dienstleistungen obliegen. In begründeten Fällen kann ihnen auch
+die selbstständige Wahrnehmung von Aufgaben in Forschung und Lehre
 übertragen werden.
 
-(6) Lehrkräfte für besondere Aufgaben sind, soweit sie nicht in einem
-privatrechtlichen Dienstverhältnis stehen, Beamtinnen und Beamte, die
-auch ohne Erfüllung der Einstellungsvoraussetzungen für
+(6) Lehrkräfte für besondere Aufgaben sind, soweit sie nicht in
+einem privatrechtlichen Dienstverhältnis stehen, Beamtinnen und
+Beamte, die auch ohne Erfüllung der Einstellungsvoraussetzungen für
 Hochschullehrerinnen und Hochschullehrer beschäftigt werden können,
 sofern überwiegend die Vermittlung praktischer Fähigkeiten und
 Kenntnisse erforderlich ist.
@@ -4575,28 +3905,18 @@ sind neben den allgemeinen dienstrechtlichen Voraussetzungen
 
 1.  ein abgeschlossenes Hochschulstudium,
 
-
 2.  die pädagogische Eignung,
-
 
 3.  eine besondere Befähigung zu wissenschaftlicher Arbeit, die in der
     Regel durch die Qualität einer Promotion nachgewiesen wird, und
-
 
 4.  je nach den Anforderungen der Stelle
 
     a)  zusätzliche wissenschaftliche Leistungen oder
 
-
     b)  besondere Leistungen bei der Anwendung oder Entwicklung
         wissenschaftlicher Erkenntnisse und Methoden in einer mehrjährigen
         beruflichen Praxis.
-
-
-
-
-
-
 
 (2) Einstellungsvoraussetzungen für Juniorprofessorinnen und
 Juniorprofessoren sind neben den allgemeinen dienstrechtlichen
@@ -4604,21 +3924,17 @@ Voraussetzungen
 
 1.  ein abgeschlossenes Hochschulstudium,
 
-
 2.  die pädagogische Eignung und
-
 
 3.  eine besondere Befähigung zu wissenschaftlicher Arbeit, die in der
     Regel durch die herausragende Qualität einer Promotion nachgewiesen
     wird.
 
-
-
 Sofern vor oder nach der Promotion ein Beschäftigungsverhältnis als
 wissenschaftliche Mitarbeiterin oder wissenschaftlicher Mitarbeiter
-bestand, sollen Promotions- und Beschäftigungsphase zusammen nicht
-mehr als sechs Jahre betragen haben. Verlängerungen aufgrund von
-Zeiten eines mutterschutzrechtlichen Beschäftigungsverbots,
+bestand, sollen Promotions- und Beschäftigungsphase zusammen
+nicht mehr als sechs Jahre betragen haben. Verlängerungen aufgrund
+von Zeiten eines mutterschutzrechtlichen Beschäftigungsverbots,
 Inanspruchnahme von Elternzeit, Beurlaubung oder Herabsetzung der
 Arbeitszeit wegen Betreuung oder Pflege eines Kindes unter 18 Jahren
 oder einer oder eines pflegebedürftigen sonstigen Angehörigen sowie
@@ -4647,35 +3963,32 @@ möglich, wenn
 1.  Bewerberinnen und Bewerber für ein Professorenamt sonst nicht gewonnen
     werden können oder
 
-
 2.  eine Juniorprofessorin oder ein Juniorprofessor der eigenen Hochschule
     berufen wird.
 
-
-
-Werden Professorinnen oder Professoren aus einem Beamtenverhältnis auf
-Lebenszeit berufen, ruht dieses Rechtsverhältnis mit allen Rechten und
-Pflichten für die Dauer des Beamtenverhältnisses auf Zeit. Davon
-ausgenommen sind die Pflicht zur Verschwiegenheit und das Verbot,
-Belohnungen, Geschenke und sonstige Vorteile anzunehmen. Nach
-frühestens drei Jahren kann das Beamtenverhältnis auf Zeit in ein
-solches auf Lebenszeit umgewandelt werden, wenn die Hochschule zuvor
-ein Bewertungsverfahren mit positivem Ergebnis durchgeführt hat.
-Erfolgt keine Umwandlung in ein Beamtenverhältnis auf Lebenszeit, sind
-die Professorinnen und Professoren mit Ablauf ihrer Amtszeit oder
-Erreichen der Altersgrenze aus dem Beamtenverhältnis auf Zeit
+Werden Professorinnen oder Professoren aus einem Beamtenverhältnis
+auf Lebenszeit berufen, ruht dieses Rechtsverhältnis mit allen
+Rechten und Pflichten für die Dauer des Beamtenverhältnisses auf
+Zeit. Davon ausgenommen sind die Pflicht zur Verschwiegenheit und
+das Verbot, Belohnungen, Geschenke und sonstige Vorteile anzunehmen.
+Nach frühestens drei Jahren kann das Beamtenverhältnis auf Zeit in
+ein solches auf Lebenszeit umgewandelt werden, wenn die Hochschule
+zuvor ein Bewertungsverfahren mit positivem Ergebnis durchgeführt
+hat. Erfolgt keine Umwandlung in ein Beamtenverhältnis auf Lebenszeit,
+sind die Professorinnen und Professoren mit Ablauf ihrer Amtszeit
+oder Erreichen der Altersgrenze aus dem Beamtenverhältnis auf Zeit
 entlassen. Eine einmalige erneute Berufung in ein Beamtenverhältnis
 auf Zeit auf derselben Professur ist zulässig.
 
-(2) Juniorprofessorinnen und Juniorprofessoren werden, soweit kein
-privatrechtliches Dienstverhältnis begründet wird, für drei Jahre zu
-Beamtinnen auf Zeit oder Beamten auf Zeit ernannt. Das
-Beamtenverhältnis soll im Laufe des dritten Jahres um weitere drei
-Jahre verlängert werden, wenn die Juniorprofessorin oder der
+(2) Juniorprofessorinnen und Juniorprofessoren werden, soweit
+kein privatrechtliches Dienstverhältnis begründet wird, für drei
+Jahre zu Beamtinnen auf Zeit oder Beamten auf Zeit ernannt. Das
+Beamtenverhältnis soll im Laufe des dritten Jahres um weitere
+drei Jahre verlängert werden, wenn die Juniorprofessorin oder der
 Juniorprofessor sich als Hochschullehrerin oder Hochschullehrer
 bewährt hat. Anderenfalls kann es um bis zu einem Jahr verlängert
-werden. Eine weitere Verlängerung ist, abgesehen von den Fällen des
-Absatzes 5, nicht zulässig. Dies gilt auch für eine erneute
+werden. Eine weitere Verlängerung ist, abgesehen von den Fällen
+des Absatzes 5, nicht zulässig. Dies gilt auch für eine erneute
 Einstellung als Juniorprofessorin oder Juniorprofessor.
 
 (3) Wissenschaftliche Mitarbeiterinnen und wissenschaftliche
@@ -4686,16 +3999,16 @@ Zeit ernannt. Eine einmalige Verlängerung des Beamtenverhältnisses auf
 Zeit um weitere drei Jahre ist zulässig.
 
 (4) Für beamtete Hochschuldozentinnen und beamtete Hochschuldozenten
-gelten die §§ 42 und 48d, für beamtete Oberassistentinnen, beamtete
-Oberassistenten, beamtete Oberingenieurinnen und beamtete
+gelten die §§ 42 und 48d, für beamtete Oberassistentinnen,
+beamtete Oberassistenten, beamtete Oberingenieurinnen und beamtete
 Oberingenieure die §§ 42 und 48b und für beamtete wissenschaftliche
 und künstlerische Assistentinnen und Assistenten die §§ 42 und 48 des
 Hochschulrahmengesetzes in der bis zum 30. Dezember 2004 geltenden
 Fassung entsprechend.
 
 (5) Soweit Hochschullehrerinnen und Hochschullehrer oder
-wissenschaftliche Mitarbeiterinnen und wissenschaftliche Mitarbeiter
-Beamtinnen auf Zeit und Beamte auf Zeit sind, ist das
+wissenschaftliche Mitarbeiterinnen und wissenschaftliche
+Mitarbeiter Beamtinnen auf Zeit und Beamte auf Zeit sind, ist das
 Dienstverhältnis, sofern dienstliche Gründe dem nicht entgegenstehen,
 auf Antrag der Beamtin oder des Beamten um Zeiten eines
 mutterschutzrechtlichen Beschäftigungsverbots und der Inanspruchnahme
@@ -4710,8 +4023,8 @@ Semesters oder Trimesters wirksam, in dem die Regelaltersgrenze
 erreicht wird. Eine Versetzung in den Ruhestand auf Antrag soll zum
 Ende des Semesters oder Trimesters ausgesprochen werden, es sei denn,
 dass gesundheitliche Gründe dem entgegenstehen. Eine Entlassung aus
-dem Beamtenverhältnis auf Antrag kann bis zum Ende des Semesters oder
-Trimesters hinausgeschoben werden, wenn dienstliche Belange dies
+dem Beamtenverhältnis auf Antrag kann bis zum Ende des Semesters
+oder Trimesters hinausgeschoben werden, wenn dienstliche Belange dies
 erfordern.
 
 (7) Auf Antrag der Professorin oder des Professors kann der Eintritt
@@ -4721,9 +4034,9 @@ besonderen wissenschaftlichen Leistungen im Einzelfall im dienstlichen
 Interesse liegt. § 53 Abs. 1 Satz 2 gilt entsprechend.
 
 (8) Beamtete Leiterinnen und beamtete Leiter und beamtete
-hauptberufliche Mitglieder von Leitungsgremien werden für sechs Jahre
-in ein Beamtenverhältnis auf Zeit berufen. Sie sind mit Ablauf ihrer
-Amtszeit oder Erreichen der Regelaltersgrenze aus diesem
+hauptberufliche Mitglieder von Leitungsgremien werden für sechs
+Jahre in ein Beamtenverhältnis auf Zeit berufen. Sie sind mit Ablauf
+ihrer Amtszeit oder Erreichen der Regelaltersgrenze aus diesem
 Beamtenverhältnis entlassen. Abweichend von Satz 2 treten sie mit
 Ablauf ihrer Amtszeit oder mit Erreichen der Regelaltersgrenze in den
 Ruhestand, wenn sie
@@ -4732,12 +4045,9 @@ Ruhestand, wenn sie
     Beamtenverhältnissen oder in einem Dienstverhältnis als Berufssoldatin
     oder Berufssoldat mit Anspruch auf Besoldung zurückgelegt haben oder
 
-
 2.  aus einem Beamtenverhältnis auf Lebenszeit oder aus einem
     Dienstverhältnis als Berufssoldatin oder Berufssoldat in ein
     Beamtenverhältnis auf Zeit berufen worden waren.
-
-
 
 Handelt es sich in den Fällen des Satzes 3 Nummer 2 um ein
 Beamtenverhältnis auf Lebenszeit zum Bund, so gilt Absatz 1 Satz 3 und
@@ -4752,12 +4062,82 @@ von Beamtinnen und Beamten für anwendbar erklären.
 
 (10) Hochschullehrerinnen und Hochschullehrer können nur mit ihrer
 Zustimmung abgeordnet oder versetzt werden. Bei der Auflösung, der
-Verschmelzung oder einer wesentlichen Änderung des Aufbaues oder der
-Aufgaben von staatlich anerkannten Hochschulen des Bundes, deren
-Ausbildungsgänge ausschließlich auf den öffentlichen Dienst
+Verschmelzung oder einer wesentlichen Änderung des Aufbaues oder
+der Aufgaben von staatlich anerkannten Hochschulen des Bundes,
+deren Ausbildungsgänge ausschließlich auf den öffentlichen Dienst
 ausgerichtet sind, gilt § 28 Abs. 3 für beamtete Professorinnen,
 Professoren, Juniorprofessorinnen, Juniorprofessoren sowie
 Hochschuldozentinnen und Hochschuldozenten entsprechend.
+
+
+### § 132a Ermächtigungen zum Erlass von Verordnungen zur Lehrverpflichtung des hauptberuflichen wissenschaftlichen Personals der Hochschulen
+
+(1) Das Bundesministerium der Verteidigung wird ermächtigt, zur
+Lehrverpflichtung des hauptberuflichen wissenschaftlichen Personals
+der Universitäten der Bundeswehr eine Rechtsverordnung zu erlassen,
+die der Zustimmung des Bundesrates nicht bedarf, und in der es
+insbesondere Regelungen trifft
+
+1.  zum Umfang der Lehrverpflichtung,
+
+2.  zu den Anrechnungs- und Ermäßigungstatbeständen und
+
+3.  zu den Nebenpflichten, die mit der Lehrverpflichtung verbunden sind.
+
+(2) Das Bundesministerium des Innern und für Heimat erlässt durch
+Rechtsverordnung, die der Zustimmung des Bundesrates nicht bedarf,
+allgemeine Vorschriften zur Lehrverpflichtung des hauptberuflichen
+wissenschaftlichen Personals der Hochschule des Bundes für öffentliche
+Verwaltung (allgemeine Lehrverpflichtungsverordnung), insbesondere
+
+1.  zum Umfang der Lehrverpflichtung,
+
+2.  zu den Anrechnungs- und Ermäßigungstatbeständen und
+
+3.  zu den Nebenpflichten, die mit der Lehrverpflichtung verbunden sind.
+
+Soweit das Bundeskanzleramt und die Bundesministerien für einen
+Fachbereich oder den Zentralen Lehrbereich zuständig sind, sind sie
+ins Benehmen zu setzen.
+
+(3) Für jeden Fachbereich und für den Zentralen Lehrbereich
+der Hochschule des Bundes für öffentliche Verwaltung sind durch
+Rechtsverordnung, die der Zustimmung des Bundesrats nicht bedarf,
+besondere Vorschriften zur Lehrverpflichtung des jeweiligen
+hauptberuflichen wissenschaftlichen Personals zu erlassen (besondere
+Lehrverpflichtungsverordnungen), insbesondere
+
+1.  zu den konkreten Dienstaufgaben,
+
+2.  zur Anrechnung laufbahnrechtlicher Prüfungsleistungen,
+
+3.  zur Gewährung von Ermäßigungen auf die Lehrverpflichtung sowie
+
+4.  zum Verfahren bei Über- und Unterschreitung der Lehrverpflichtung.
+
+Eine Abweichung von den Regelungen der allgemeinen
+Lehrverpflichtungsverordnung oder eine nähere Ausgestaltung dieser
+Regelungen in besonderen Lehrverpflichtungsverordnungen ist nur
+zulässig, soweit die allgemeine Lehrverpflichtungsverordnung dies
+ausdrücklich vorsieht.
+
+(4) Zuständig für den Erlass einer besonderen
+Lehrverpflichtungsverordnung sind die Bundesministerien und das
+Bundeskanzleramt jeweils einzeln oder zu mehreren gemeinsam, soweit
+sie für den jeweiligen Fachbereich oder Zentralen Lehrbereich
+zuständig sind, im Benehmen mit dem Bundesministerium des Innern und
+für Heimat.
+
+(5) Das Bundesministerium für Arbeit und Soziales kann seine
+Befugnisse zum Erlass einer besonderen Lehrverpflichtungsverordnung
+durch Rechtsverordnung, die der Zustimmung des Bundesrates nicht
+bedarf, jeweils auf den Vorstand der Deutschen Rentenversicherung
+Bund, den Vorstand der Deutschen Rentenversicherung Knappschaft-
+Bahn-See oder den Vorstand der Sozialversicherung für Landwirtschaft,
+Forsten und Gartenbau übertragen. Die Rechtsverordnungen der Vorstände
+bedürfen des Einvernehmens mit dem Bundesministerium für Arbeit und
+Soziales und des Benehmens mit dem Bundesministerium des Innern und
+für Heimat.
 
 
 ### § 133 Ehrenbeamtinnen und Ehrenbeamte
@@ -4770,13 +4150,9 @@ Vorschriften dieses Gesetzes mit folgenden Maßgaben:
     sonstigen Voraussetzungen für die Versetzung einer Beamtin oder eines
     Beamten in den Ruhestand gegeben sind.
 
-
 2.  Nicht anzuwenden sind die §§ 28, 53 Abs. 2, §§ 72, 76, 87, 88, 97 bis
     101 und 104, auf Honorarkonsularbeamtinnen und Honorarkonsularbeamte,
     außerdem § 7 Absatz 1 Satz 1 Nummer 1.
-
-
-
 
 (2) Die Unfallfürsorge für Ehrenbeamtinnen und Ehrenbeamte und ihre
 Hinterbliebenen richtet sich nach § 68 des Beamtenversorgungsgesetzes.
@@ -4799,11 +4175,11 @@ kraft Gesetzes in den Dienst der aufnehmenden Körperschaft über.
 (2) Beamtinnen und Beamte einer Körperschaft, die vollständig in
 mehrere andere Körperschaften eingegliedert wird, sind anteilig in den
 Dienst der aufnehmenden Körperschaften zu übernehmen. Die beteiligten
-Körperschaften haben innerhalb einer Frist von sechs Monaten nach dem
-Zeitpunkt, in dem die Umbildung vollzogen ist, im Einvernehmen
+Körperschaften haben innerhalb einer Frist von sechs Monaten nach
+dem Zeitpunkt, in dem die Umbildung vollzogen ist, im Einvernehmen
 miteinander zu bestimmen, von welchen Körperschaften die einzelnen
-Beamtinnen und Beamten zu übernehmen sind. Solange die Übernahme nicht
-erfolgt ist, haften alle beteiligten Körperschaften für die
+Beamtinnen und Beamten zu übernehmen sind. Solange die Übernahme
+nicht erfolgt ist, haften alle beteiligten Körperschaften für die
 zustehenden Bezüge als Gesamtschuldner.
 
 (3) Beamtinnen und Beamte einer Körperschaft, die teilweise in eine
@@ -4824,13 +4200,13 @@ vollständig oder teilweise auf eine oder mehrere andere Körperschaften
 ### § 135 Rechtsfolgen der Umbildung
 
 (1) Tritt eine Beamtin oder ein Beamter aufgrund des § 134 Abs. 1
-kraft Gesetzes in den Dienst einer anderen Körperschaft über oder wird
-sie oder er aufgrund des § 134 Abs. 2 oder 3 von einer anderen
+kraft Gesetzes in den Dienst einer anderen Körperschaft über oder
+wird sie oder er aufgrund des § 134 Abs. 2 oder 3 von einer anderen
 Körperschaft übernommen, wird das Beamtenverhältnis mit dem neuen
 Dienstherrn fortgesetzt.
 
-(2) Im Fall des § 134 Abs. 1 ist der Beamtin oder dem Beamten von der
-aufnehmenden oder neuen Körperschaft die Fortsetzung des
+(2) Im Fall des § 134 Abs. 1 ist der Beamtin oder dem Beamten
+von der aufnehmenden oder neuen Körperschaft die Fortsetzung des
 Beamtenverhältnisses schriftlich zu bestätigen.
 
 (3) In den Fällen des § 134 Abs. 2 und 3 wird die Übernahme von der
@@ -4850,34 +4226,34 @@ Abs. 4.
 übergetretenen oder von ihr übernommenen Beamtinnen und Beamten soll
 ein dem bisherigen Amt nach Bedeutung und Inhalt gleich zu bewertendes
 Amt übertragen werden. Wenn eine dem bisherigen Amt entsprechende
-Verwendung nicht möglich ist, sind § 28 Abs. 3 und § 34 Abs. 1 Satz 1
-Nr. 4 entsprechend anzuwenden. Bei Anwendung des § 28 Abs. 3 darf die
-Beamtin oder der Beamte neben der neuen Amtsbezeichnung die des
+Verwendung nicht möglich ist, sind § 28 Abs. 3 und § 34 Abs. 1 Satz
+1 Nr. 4 entsprechend anzuwenden. Bei Anwendung des § 28 Abs. 3 darf
+die Beamtin oder der Beamte neben der neuen Amtsbezeichnung die des
 früheren Amtes mit dem Zusatz „außer Dienst“ oder „a. D.“ führen.
 
-(2) Die aufnehmende oder neue Körperschaft kann, wenn die Zahl der bei
-ihr nach der Umbildung vorhandenen Beamtinnen und Beamten den
+(2) Die aufnehmende oder neue Körperschaft kann, wenn die Zahl der
+bei ihr nach der Umbildung vorhandenen Beamtinnen und Beamten den
 tatsächlichen Bedarf übersteigt, innerhalb einer Frist von sechs
 Monaten die entbehrlichen Beamtinnen auf Lebenszeit oder auf Zeit oder
-die Beamten auf Lebenszeit oder auf Zeit, deren Aufgabengebiet von der
-Umbildung berührt wurde, in den einstweiligen Ruhestand versetzen. Die
-Frist des Satzes 1 beginnt im Fall des § 134 Abs. 1 mit dem Übertritt,
-in den Fällen des § 134 Abs. 2 und 3 mit der Bestimmung derjenigen
-Beamtinnen und Beamten, zu deren Übernahme die Körperschaft
-verpflichtet ist. Entsprechendes gilt in den Fällen des § 134 Abs. 4.
-§ 55 Satz 2 ist anzuwenden. Bei Beamtinnen auf Zeit und Beamten auf
-Zeit, die nach Satz 1 in den einstweiligen Ruhestand versetzt sind,
-endet der einstweilige Ruhestand mit Ablauf der Amtszeit. Sie gelten
-zu diesem Zeitpunkt als dauernd in den Ruhestand versetzt, wenn sie
-bei Verbleiben im Amt mit Ablauf der Amtszeit in den Ruhestand
+die Beamten auf Lebenszeit oder auf Zeit, deren Aufgabengebiet von
+der Umbildung berührt wurde, in den einstweiligen Ruhestand versetzen.
+Die Frist des Satzes 1 beginnt im Fall des § 134 Abs. 1 mit dem
+Übertritt, in den Fällen des § 134 Abs. 2 und 3 mit der Bestimmung
+derjenigen Beamtinnen und Beamten, zu deren Übernahme die Körperschaft
+verpflichtet ist. Entsprechendes gilt in den Fällen des § 134 Abs.
+4\. § 55 Satz 2 ist anzuwenden. Bei Beamtinnen auf Zeit und Beamten
+auf Zeit, die nach Satz 1 in den einstweiligen Ruhestand versetzt
+sind, endet der einstweilige Ruhestand mit Ablauf der Amtszeit. Sie
+gelten zu diesem Zeitpunkt als dauernd in den Ruhestand versetzt, wenn
+sie bei Verbleiben im Amt mit Ablauf der Amtszeit in den Ruhestand
 getreten wären.
 
 
 ### § 137 Rechtsstellung der Versorgungsempfängerinnen und Versorgungsempfänger
 
-(1) Die Vorschriften des § 134 Abs. 1 und 2 und des § 135 gelten
-entsprechend für die zum Zeitpunkt der Umbildung bei der abgebenden
-Körperschaft vorhandenen Versorgungsempfängerinnen und
+(1) Die Vorschriften des § 134 Abs. 1 und 2 und des § 135
+gelten entsprechend für die zum Zeitpunkt der Umbildung bei der
+abgebenden Körperschaft vorhandenen Versorgungsempfängerinnen und
 Versorgungsempfänger.
 
 (2) In den Fällen des § 134 Abs. 3 bleiben die Ansprüche der zum
@@ -4893,21 +4269,21 @@ Abs. 4.
 
 ### § 138 Anwendungsbereich
 
-Beschränkungen, Anordnungen und Verpflichtungen nach den §§ 139 bis
-142 sind nur nach Maßgabe des Artikels 80a des Grundgesetzes zulässig.
-Sie sind auf Personen im Sinne des § 5 Abs. 1 des
+Beschränkungen, Anordnungen und Verpflichtungen nach den §§ 139
+bis 142 sind nur nach Maßgabe des Artikels 80a des Grundgesetzes
+zulässig. Sie sind auf Personen im Sinne des § 5 Abs. 1 des
 Arbeitssicherstellungsgesetzes nicht anzuwenden.
 
 
 ### § 139 Dienstleistung im Verteidigungsfall
 
-(1) Beamtinnen und Beamte können für Zwecke der Verteidigung auch ohne
-ihre Zustimmung zu einem anderen Dienstherrn abgeordnet oder zur
-Dienstleistung bei über- oder zwischenstaatlichen zivilen
+(1) Beamtinnen und Beamte können für Zwecke der Verteidigung auch
+ohne ihre Zustimmung zu einem anderen Dienstherrn abgeordnet oder
+zur Dienstleistung bei über- oder zwischenstaatlichen zivilen
 Dienststellen verpflichtet werden.
 
-(2) Beamtinnen und Beamten können für Zwecke der Verteidigung auch
-Aufgaben übertragen werden, die nicht ihrem Amt oder ihrer
+(2) Beamtinnen und Beamten können für Zwecke der Verteidigung
+auch Aufgaben übertragen werden, die nicht ihrem Amt oder ihrer
 Laufbahnbefähigung entsprechen, sofern ihnen die Übernahme nach ihrer
 Vor- und Ausbildung und im Hinblick auf die Ausnahmesituation zumutbar
 ist. Aufgaben einer Laufbahn mit geringeren Zugangsvoraussetzungen
@@ -4915,8 +4291,8 @@ dürfen ihnen nur übertragen werden, wenn dies aus dienstlichen Gründen
 unabweisbar ist.
 
 (3) Beamtinnen und Beamte haben bei der Erfüllung der ihnen für Zwecke
-der Verteidigung übertragenen Aufgaben Gefahren und Erschwernisse auf
-sich zu nehmen, soweit diese ihnen nach den Umständen und den
+der Verteidigung übertragenen Aufgaben Gefahren und Erschwernisse
+auf sich zu nehmen, soweit diese ihnen nach den Umständen und den
 persönlichen Verhältnissen zugemutet werden können.
 
 (4) Beamtinnen und Beamte sind bei einer Verlegung ihrer Behörde oder
@@ -4926,16 +4302,16 @@ verpflichtet.
 
 ### § 140 Aufschub der Entlassung und des Ruhestands
 
-Die Entlassung der Beamtinnen und Beamten auf ihren Antrag kann für
-Zwecke der Verteidigung hinausgeschoben werden, wenn dies im
+Die Entlassung der Beamtinnen und Beamten auf ihren Antrag kann
+für Zwecke der Verteidigung hinausgeschoben werden, wenn dies im
 öffentlichen Interesse erforderlich ist und der Personalbedarf der
 öffentlichen Verwaltung im Bereich ihres Dienstherrn auf freiwilliger
-Grundlage nicht gedeckt werden kann. Satz 1 gilt entsprechend für den
-Ablauf der Amtszeit bei Beamtenverhältnissen auf Zeit. Der Eintritt in
-den Ruhestand nach Erreichen der Altersgrenze und die vorzeitige
-Versetzung in den Ruhestand auf Antrag ohne Nachweis der
-Dienstunfähigkeit können unter den Voraussetzungen des Satzes 1 bis
-zum Ende des Monats hinausgeschoben werden, in dem die
+Grundlage nicht gedeckt werden kann. Satz 1 gilt entsprechend für
+den Ablauf der Amtszeit bei Beamtenverhältnissen auf Zeit. Der
+Eintritt in den Ruhestand nach Erreichen der Altersgrenze und die
+vorzeitige Versetzung in den Ruhestand auf Antrag ohne Nachweis
+der Dienstunfähigkeit können unter den Voraussetzungen des Satzes
+1 bis zum Ende des Monats hinausgeschoben werden, in dem die
 Regelaltersgrenze erreicht wird.
 
 
@@ -4946,22 +4322,22 @@ noch nicht erreicht haben, können für Zwecke der Verteidigung erneut
 in ein Beamtenverhältnis berufen werden, wenn dies im öffentlichen
 Interesse erforderlich ist und der Personalbedarf der öffentlichen
 Verwaltung im Bereich ihres bisherigen Dienstherrn auf freiwilliger
-Grundlage nicht gedeckt werden kann. Das Beamtenverhältnis endet, wenn
-es nicht vorher beendet wird, mit dem Ende des Monats, in dem die
+Grundlage nicht gedeckt werden kann. Das Beamtenverhältnis endet,
+wenn es nicht vorher beendet wird, mit dem Ende des Monats, in dem die
 Regelaltersgrenze erreicht wird.
 
 
 ### § 142 Verpflichtung zur Gemeinschaftsunterkunft und Mehrarbeit
 
-(1) Wenn dienstliche Gründe es erfordern, können Beamtinnen und Beamte
-für Zwecke der Verteidigung verpflichtet werden, vorübergehend in
-einer Gemeinschaftsunterkunft zu wohnen und an einer
+(1) Wenn dienstliche Gründe es erfordern, können Beamtinnen
+und Beamte für Zwecke der Verteidigung verpflichtet werden,
+vorübergehend in einer Gemeinschaftsunterkunft zu wohnen und an einer
 Gemeinschaftsverpflegung teilzunehmen.
 
 (2) Beamtinnen und Beamte sind verpflichtet, für Zwecke der
-Verteidigung über die regelmäßige Arbeitszeit hinaus ohne besondere
-Vergütung Dienst zu tun. Für die Mehrbeanspruchung wird ein
-Freizeitausgleich nur gewährt, soweit es die dienstlichen
+Verteidigung über die regelmäßige Arbeitszeit hinaus ohne
+besondere Vergütung Dienst zu tun. Für die Mehrbeanspruchung wird
+ein Freizeitausgleich nur gewährt, soweit es die dienstlichen
 Erfordernisse gestatten.
 
 
@@ -4969,32 +4345,27 @@ Erfordernisse gestatten.
 
 (1) Beamtinnen und Beamte, die zur Wahrnehmung des ihnen übertragenen
 Amts im Ausland oder außerhalb des deutschen Hoheitsgebiets auf
-Schiffen oder in Luftfahrzeugen verwendet werden und dabei wegen vom
-Inland wesentlich abweichender Verhältnisse erhöhten Gefahren
+Schiffen oder in Luftfahrzeugen verwendet werden und dabei wegen
+vom Inland wesentlich abweichender Verhältnisse erhöhten Gefahren
 ausgesetzt sind, können aus dienstlichen Gründen verpflichtet werden,
 
 1.  vorübergehend in einer Gemeinschaftsunterkunft zu wohnen und an einer
     Gemeinschaftsverpflegung teilzunehmen,
 
-
 2.  Schutzkleidung zu tragen,
 
-
 3.  Dienstkleidung zu tragen und
-
 
 4.  über die regelmäßige Arbeitszeit hinaus ohne besondere Vergütung
     Dienst zu tun.
 
-
-
-In den Fällen des Satzes 1 Nr. 4 wird für die Mehrbeanspruchung ein
-Freizeitausgleich nur gewährt, soweit es die dienstlichen
+In den Fällen des Satzes 1 Nr. 4 wird für die Mehrbeanspruchung
+ein Freizeitausgleich nur gewährt, soweit es die dienstlichen
 Erfordernisse gestatten.
 
 (2) Sind nach Absatz 1 verwendete Beamtinnen und Beamte zum Zeitpunkt
-des vorgesehenen Eintritts in den Ruhestand nach den §§ 44, 51 und 53
-oder des vorgesehenen Ablaufs ihrer Amtszeit wegen Verschleppung,
+des vorgesehenen Eintritts in den Ruhestand nach den §§ 44, 51 und
+53 oder des vorgesehenen Ablaufs ihrer Amtszeit wegen Verschleppung,
 Gefangenschaft oder aus sonstigen mit dem Dienst zusammenhängenden
 Gründen, die sie nicht zu vertreten haben, dem Einflussbereich des
 Dienstherrn entzogen, verlängert sich das Beamtenverhältnis bis zum
@@ -5029,8 +4400,8 @@ Zustimmung des Bundesrates.
 
 (2) Die zur Durchführung dieses Gesetzes und der auf Grund dieses
 Gesetzes erlassenen Rechtsverordnungen erforderlichen allgemeinen
-Verwaltungsvorschriften erlässt das Bundesministerium des Innern, für
-Bau und Heimat, soweit dieses Gesetz nichts anderes bestimmt.
+Verwaltungsvorschriften erlässt das Bundesministerium des Innern und
+für Heimat, soweit dieses Gesetz nichts anderes bestimmt.
 
 
 ### § 146 Öffentlich-rechtliche Religionsgesellschaften
@@ -5047,8 +4418,8 @@ oder Vorschriften dieses Gesetzes für anwendbar zu erklären.
 (1) Für Beamtinnen und Beamte, die vor Inkrafttreten dieses Gesetzes
 in ein Beamtenverhältnis auf Probe berufen worden sind, sind anstelle
 des § 10 Abs. 1 und 3 und des § 11 der § 6 Abs. 1 und der § 9 des
-Bundesbeamtengesetzes in der Fassung der Bekanntmachung vom 31. März
-1999 (BGBl. I S. 675) in der bis zum 11. Februar 2009 geltenden
+Bundesbeamtengesetzes in der Fassung der Bekanntmachung vom 31.
+März 1999 (BGBl. I S. 675) in der bis zum 11. Februar 2009 geltenden
 Fassung anzuwenden. Abweichend von Satz 1 werden Beamtinnen und
 Beamte, die vor dem 12. Februar 2009 in ein Beamtenverhältnis auf
 Probe berufen worden sind, auf Antrag in ein Beamtenverhältnis auf
@@ -5056,12 +4427,8 @@ Lebenszeit berufen, wenn
 
 1.  sie sich in der Probezeit in vollem Umfang bewährt haben und
 
-
 2.  seit der Berufung in das Beamtenverhältnis auf Probe mindestens drei
     Jahre vergangen sind.
-
-
-
 
 (2) Die Bundesregierung überprüft die Anhebung der Altersgrenzen nach
 den §§ 51 und 52 unter Beachtung des Berichts nach § 154 Abs. 4 des

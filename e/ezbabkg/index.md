@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zu dem Abkommen vom 18. September 1998 zwischen der Regierung der Bundesrepublik
-  Deutschland und der Europäischen Zentralbank über den Sitz der Europäischen Zentralbank
+Title: Gesetz zu dem Abkommen vom 18. September 1998 zwischen der Regierung der Bundesrepublik Deutschland und der Europäischen Zentralbank über den Sitz der Europäischen Zentralbank
 jurabk: EZBAbkG
 layout: default
 origslug: ezbabkg
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl II: 1998, 2995
-
 
 
 ## Eingangsformel
@@ -37,9 +35,9 @@ wird zugestimmt. Das Abkommen wird nachstehend veröffentlicht.
 (1) Die Europäische Zentralbank nimmt als Wertpapiersammelbank am
 Geschäftsverkehr der Wertpapiersammelbanken teil.
 
-(2) Für die von der Europäischen Zentralbank emittierten und in ihrem
-elektronisch geführten Schuldbuch eingetragenen Schuldtitel gelten,
-soweit nichts anderes vereinbart ist, die auf vergleichbare
+(2) Für die von der Europäischen Zentralbank emittierten und in
+ihrem elektronisch geführten Schuldbuch eingetragenen Schuldtitel
+gelten, soweit nichts anderes vereinbart ist, die auf vergleichbare
 Schuldtitel des Bundes anwendbaren Vorschriften.
 
 

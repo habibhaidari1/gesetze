@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zur Errichtung einer Stiftung "Mutter und Kind - Schutz des ungeborenen
-  Lebens"
+Title: "Gesetz zur Errichtung einer Stiftung \"Mutter und Kind - Schutz des ungeborenen Lebens\""
 jurabk: MuKStiftG
 layout: default
 origslug: mukstiftg
@@ -17,7 +16,7 @@ Fundstelle
 :   BGBl I: 1984, 880
 
 Neugefasst durch
-:   Bek. v. 19. 3.1993 I 406
+:   Bek. v. 19.3.1993 I 406
 
 Zuletzt geändert durch
 :   Art. 3 Abs. 1 G v. 22.11.2020 I 2466
@@ -63,17 +62,11 @@ insbesondere für
 
 1.  die Erstausstattung des Kindes,
 
-
 2.  die Weiterführung des Haushalts,
-
 
 3.  die Wohnung und Einrichtung,
 
-
 4.  die Betreuung des Kleinkindes.
-
-
-
 
 (2) Leistungen aus Mitteln der Stiftung dürfen nur gewährt oder
 zugesagt werden, wenn die Hilfe auf andere Weise nicht oder nicht
@@ -86,9 +79,9 @@ rechtzeitig möglich ist oder nicht ausreicht.
 
 (1) Leistungen, die dem in § 2 Abs. 1 genannten Personenkreis aus
 Mitteln der Stiftung im Rahmen des Stiftungszweckes gewährt werden,
-sind nicht pfändbar. Das gleiche gilt für Leistungen, die aus Mitteln
-anderer Stiftungen des öffentlichen Rechts oder aus Mitteln von
-Stiftungen, die von einer Körperschaft des öffentlichen Rechts
+sind nicht pfändbar. Das gleiche gilt für Leistungen, die aus
+Mitteln anderer Stiftungen des öffentlichen Rechts oder aus Mitteln
+von Stiftungen, die von einer Körperschaft des öffentlichen Rechts
 errichtet wurden, zur Erreichung des in § 2 Abs. 1 genannten Zwecks
 gewährt werden. Wird eine Geldleistung auf das Konto der werdenden
 Mutter bei einem Geldinstitut überwiesen, gelten die Vorschriften der
@@ -103,11 +96,11 @@ von anderem Einkommen abhängig ist.
 ## § 6 Stiftungsvermögen
 
 (1) Der Bund stellt der Stiftung jährlich Mittel in Höhe der für
-diesen Zweck im Haushaltsplan veranschlagten Mittel, mindestens
-92 033 000 Euro, für die Erfüllung des Stiftungszweckes zur Verfügung.
+diesen Zweck im Haushaltsplan veranschlagten Mittel, mindestens 92 033
+000 Euro, für die Erfüllung des Stiftungszweckes zur Verfügung.
 
 (2) Von den ab 1985 der Stiftung zufließenden Bundesmitteln können
-jährlich bis zu 511 000 Euro zum Aufbau eines Stiftungsvermögens
+jährlich bis zu 511 000 Euro zum Aufbau eines Stiftungsvermögens
 verwendet werden. Bundesmittel, die von der Stiftung bis zum Abschluß
 eines Haushaltsjahres nicht für die Erfüllung des Stiftungszweckes
 ausgegeben worden sind, sind zusätzlich für den Aufbau des
@@ -125,8 +118,8 @@ beschlossen wird.
 
 ## § 8 Stiftungsorgane
 
-Organe der Stiftung sind der Stiftungsrat, der Geschäftsführer und das
-Kuratorium.
+Organe der Stiftung sind der Stiftungsrat, der Geschäftsführer und
+das Kuratorium.
 
 
 ## § 9 Stiftungsrat
@@ -136,16 +129,11 @@ Kuratorium.
 1.  vier Vertretern des Bundesministeriums für Familie, Senioren, Frauen
     und Jugend,
 
-
 2.  einem Vertreter des Bundesministeriums der Finanzen,
 
-
-3.  vier Mitgliedern, die vom Bundesministerium für Familie, Senioren,
-    Frauen und Jugend auf Vorschlag der in § 3 genannten
+3.  vier Mitgliedern, die vom Bundesministerium für Familie,
+    Senioren, Frauen und Jugend auf Vorschlag der in § 3 genannten
     Zuwendungsempfänger berufen werden.
-
-
-
 
 (2) Der Stiftungsrat wählt aus den Vertretern des Bundesministeriums
 für Familie, Senioren, Frauen und Jugend seinen Vorsitzenden und
@@ -158,11 +146,11 @@ Vertreter werden auf die Dauer von zwei Jahren berufen. Wiederholte
 Berufung ist zulässig. Scheidet ein Mitglied vorzeitig aus, ist für
 den Rest seiner Amtszeit ein Nachfolger zu berufen.
 
-(5) Der Stiftungsrat beschließt über alle grundsätzlichen Fragen, die
-zum Aufgabenbereich der Stiftung gehören, insbesondere über die
-Feststellung des Haushaltsplans und die Jahresrechnung. Er stellt nach
-Anhörung der in § 3 genannten Zuwendungsempfänger Richtlinien für die
-Vergabe und Verwendung der Stiftungsmittel auf und überwacht die
+(5) Der Stiftungsrat beschließt über alle grundsätzlichen Fragen,
+die zum Aufgabenbereich der Stiftung gehören, insbesondere über die
+Feststellung des Haushaltsplans und die Jahresrechnung. Er stellt
+nach Anhörung der in § 3 genannten Zuwendungsempfänger Richtlinien für
+die Vergabe und Verwendung der Stiftungsmittel auf und überwacht die
 Tätigkeit des Geschäftsführers. Er wählt für die Dauer von zwei Jahren
 zwei Rechnungsprüfer.
 
@@ -177,11 +165,11 @@ Stimmengleichheit entscheidet die Stimme des Vorsitzenden.
 
 (1) Der Vorsitzende des Stiftungsrates bestellt einen Geschäftsführer.
 
-(2) Der Geschäftsführer führt die laufenden Geschäfte der Stiftung,
-insbesondere führt er die Beschlüsse des Stiftungsrates aus. Er ist
-ferner für die Vergabe der Stiftungsmittel und für die Überwachung
-ihrer zweckentsprechenden und wirtschaftlichen Verwendung
-verantwortlich. Er vertritt die Stiftung gerichtlich und
+(2) Der Geschäftsführer führt die laufenden Geschäfte der
+Stiftung, insbesondere führt er die Beschlüsse des Stiftungsrates
+aus. Er ist ferner für die Vergabe der Stiftungsmittel und für
+die Überwachung ihrer zweckentsprechenden und wirtschaftlichen
+Verwendung verantwortlich. Er vertritt die Stiftung gerichtlich und
 außergerichtlich.
 
 
@@ -191,31 +179,21 @@ außergerichtlich.
 
 1.  zwei Vertretern der Kirchen,
 
-
 2.  sechs Vertretern der Bundesverbände der Freien Wohlfahrtspflege,
-
 
 3.  je einem Vertreter der Stiftungen in den Ländern, die im Rahmen des
     Stiftungszweckes (§ 2 Abs. 1) landesweit tätig sind,
 
-
 4.  je einem Vertreter der Kommunalen Spitzenverbände,
-
 
 5.  einem Vertreter der Arbeitsgemeinschaft der Deutschen
     Familienorganisationen,
 
-
 6.  einem Vertreter des Deutschen Frauenrates,
-
 
 7.  einem Vertreter der Ärzteschaft,
 
-
 8.  bis zu acht weiteren Mitgliedern.
-
-
-
 
 (2) Die Mitglieder des Kuratoriums werden vom Vorsitzenden des
 Stiftungsrates für die Dauer von vier Jahren berufen. Das Kuratorium

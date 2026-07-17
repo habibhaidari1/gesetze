@@ -21,20 +21,20 @@ Zuletzt geändert durch
 
 ## Eingangsformel
 
-Auf Grund des § 75 des Bundesbesoldungsgesetzes in der Fassung des
-Zweiten Gesetzes zur Vereinheitlichung und Neuregelung des
+Auf Grund des § 75 des Bundesbesoldungsgesetzes in der Fassung
+des Zweiten Gesetzes zur Vereinheitlichung und Neuregelung des
 Besoldungsrechts in Bund und Ländern vom 23. Mai 1975 (Bundesgesetzbl.
 I S. 1173) wird mit Zustimmung des Bundesrates verordnet:
 
 
 ## § 1 Geltungsbereich
 
-(1) Diese Verordnung regelt die Gewährung einer Übergangszahlung an
-Beamte des einfachen und mittleren Dienstes, die im Dienst eines
-öffentlich-rechtlichen Dienstherrn (§ 29 Abs. 1
-Bundesbesoldungsgesetz) vom Arbeitnehmerverhältnis in das
-Beamtenverhältnis übernommen worden sind und deren Nettobezüge nach
-der Übernahme in das Beamtenverhältnis geringer sind als die
+(1) Diese Verordnung regelt die Gewährung einer Übergangszahlung
+an Beamte des einfachen und mittleren Dienstes, die im
+Dienst eines öffentlich-rechtlichen Dienstherrn (§ 29 Abs.
+1 Bundesbesoldungsgesetz) vom Arbeitnehmerverhältnis in das
+Beamtenverhältnis übernommen worden sind und deren Nettobezüge
+nach der Übernahme in das Beamtenverhältnis geringer sind als die
 Nettobezüge, die zuletzt im Arbeitnehmerverhältnis gewährt worden
 sind.
 
@@ -57,12 +57,10 @@ Eingangsämtern gewährt:
 
     Werkführer;
 
-
 2.  im Bereich der Bundesanstalt für Post und Telekommunikation Deutsche
     Bundespost:
 
     Technischer Regierungsobersekretär;
-
 
 3.  im Bereich des Bundesministers der Verteidigung:
 
@@ -74,14 +72,12 @@ Eingangsämtern gewährt:
     Technischer Regierungsassistent bei den Marinearsenalbetrieben und bei
     den Erprobungsstellen der Bundeswehr;
 
-
 4.  im Bereich der Bundeswirtschaftsverwaltung:
 
     Technischer Regierungsassistent bei der Physikalisch-Technischen
     Bundesanstalt, der Bundesanstalt für Materialprüfung, der
     Bundesanstalt für Geowissenschaften und Rohstoffe und dem
     Bundesinstitut für chemisch-technische Untersuchungen;
-
 
 5.  im Bereich eines Landes, wenn die Voraussetzungen des § 75 Abs. 1 Satz
     2 des Bundesbesoldungsgesetzes für den gesamten Landesbereich erfüllt
@@ -97,8 +93,6 @@ Eingangsämtern gewährt:
 
     Assistent im allgemeinen Aufsichtsdienst bei den
     Justizvollzugsanstalten.
-
-
 
 Eine Übergangszahlung wird nur gewährt, wenn der Zugang zu den
 genannten Laufbahnen aus dem Arbeitnehmerverhältnis unmittelbar in das
@@ -119,18 +113,18 @@ wird eine Übergangszahlung nicht gewährt.
 ## § 3 Vergleichsberechnung
 
 (1) Der Unterschiedsbetrag wird ermittelt, indem die Nettobezüge
-einander gegenübergestellt werden. Zur Ermittlung der Nettobezüge sind
-die Bruttobezüge im Arbeitnehmerverhältnis um die darauf entfallenden
-Beträge der Lohn- und Kirchensteuer sowie der
+einander gegenübergestellt werden. Zur Ermittlung der Nettobezüge
+sind die Bruttobezüge im Arbeitnehmerverhältnis um die darauf
+entfallenden Beträge der Lohn- und Kirchensteuer sowie der
 Sozialversicherungsbeiträge einschließlich der Beiträge zur
 Bundesagentur für Arbeit und die Bruttobezüge im Beamtenverhältnis um
 die darauf entfallenden Beträge der Lohn- und Kirchensteuer sowie die
 angemessenen Aufwendungen für eine private Krankenversicherung oder
 die Aufwendungen für eine freiwillige Versicherung in der gesetzlichen
-Krankenkasse zu vermindern. Maßgebend sind die Bruttobezüge, die im
-Monat der Übernahme gezahlt worden sind oder zu zahlen gewesen wären,
-wenn das Arbeitnehmerverhältnis oder das Beamtenverhältnis den ganzen
-Monat bestanden hätte. Eine bei weiterem Verbleiben im
+Krankenkasse zu vermindern. Maßgebend sind die Bruttobezüge, die
+im Monat der Übernahme gezahlt worden sind oder zu zahlen gewesen
+wären, wenn das Arbeitnehmerverhältnis oder das Beamtenverhältnis
+den ganzen Monat bestanden hätte. Eine bei weiterem Verbleiben im
 Arbeitnehmerverhältnis anstehende Höhergruppierung im Monat der
 Übernahme ist nicht zu berücksichtigen. Lohn- und Kirchensteuer
 richten sich nach den persönlichen Merkmalen des Bezügeempfängers.
@@ -140,8 +134,8 @@ berücksichtigen:
 
 1.  bei Übernahme aus dem Arbeiterverhältnis:
 
-    Monatslohn, im Bereich des Bundes und der Länder Monatsregellohn, im
-    Anwendungsbereich des Bundesmanteltarifvertrages für Arbeiter
+    Monatslohn, im Bereich des Bundes und der Länder Monatsregellohn,
+    im Anwendungsbereich des Bundesmanteltarifvertrages für Arbeiter
     gemeindlicher Verwaltungen und Betriebe (BMT-G II) Monatsgrundlohn
     gem. § 67 Nr. 26b BMT-G II,
 
@@ -163,7 +157,6 @@ berücksichtigen:
     Erschwerniszuschläge nach § 23 Abs. 1 BMT-G II, im Falle der
     Pauschalierung der in dem Pauschalbetrag enthaltene Anteil der
     Erschwerniszuschläge;
-
 
 2.  bei Übernahme aus dem Angestelltenverhältnis:
 
@@ -189,23 +182,21 @@ berücksichtigen:
     Zulagen nach den Protokollerklärungen zur Vergütungsordnung für
     Angestellte im Pflegedienst (Anl. 1b zum BAT).
 
-
-
 Die Leistungslohnbestandteile, Erschwerniszulagen, Gefahren- und
 Erschwerniszuschläge nach Satz 1 Nr. 1 sind zusammen mit höchstens 15
 vom Hundert des im Übernahmemonat zugrunde zu legenden Monatslohns,
 Monatsregellohns oder Monatsgrundlohns zu berücksichtigen. Der
-Vomhundertsatz ist das Verhältnis, in dem die in den letzten 12
-Monaten vor dem Monat der Übernahme insgesamt gezahlten
+Vomhundertsatz ist das Verhältnis, in dem die in den letzten
+12 Monaten vor dem Monat der Übernahme insgesamt gezahlten
 Leistungslohnbestandteile, Erschwerniszulagen, Gefahren- und
 Erschwerniszuschläge zu den in demselben Zeitraum insgesamt gezahlten
-Monatslöhnen, Monatsregellöhnen oder Monatsgrundlöhnen stehen. Bei der
-Zusammenfassung der gezahlten Monatslöhne, Monatsregellöhne oder
-Monatsgrundlöhne bleiben Tage außer Betracht, an denen der
+Monatslöhnen, Monatsregellöhnen oder Monatsgrundlöhnen stehen. Bei
+der Zusammenfassung der gezahlten Monatslöhne, Monatsregellöhne
+oder Monatsgrundlöhne bleiben Tage außer Betracht, an denen der
 Arbeitnehmer krank war, sich in Urlaub oder Ausbildung befand oder
-Dienstbefreiung unter Fortzahlung der Bezüge erhielt; in jedem Fall
-sind jedoch mindestens drei Monate zugrunde zu legen. Werden auf Grund
-von Fortzahlungsbestimmungen im Tarifbereich regelmäßig
+Dienstbefreiung unter Fortzahlung der Bezüge erhielt; in jedem
+Fall sind jedoch mindestens drei Monate zugrunde zu legen. Werden
+auf Grund von Fortzahlungsbestimmungen im Tarifbereich regelmäßig
 Vomhundertsätze der Leistungslohnbestandteile, Erschwerniszulagen,
 Gefahren- und Erschwerniszuschläge festgestellt, so treten die zum
 Zeitpunkt der Übernahme für den Tarifbereich geltenden Vomhundertsätze
@@ -220,17 +211,17 @@ zuzüglich Ortszuschlag der Stufe 2 und örtlichem Sonderzuschlag.
 
 (3) Bei den Bruttobezügen im Beamtenverhältnis sind Grundgehalt,
 Ortszuschlag, örtlicher Sonderzuschlag, Amts- und Stellenzulagen,
-Erschwerniszulagen ohne die Zulage für Dienst zu ungünstigen Zeiten zu
-berücksichtigen, die Erschwerniszulagen jedoch mit höchstens 15 vom
-Hundert des Betrages aus Grundgehalt, Ortszuschlag der Stufe 2 und
+Erschwerniszulagen ohne die Zulage für Dienst zu ungünstigen Zeiten
+zu berücksichtigen, die Erschwerniszulagen jedoch mit höchstens 15
+vom Hundert des Betrages aus Grundgehalt, Ortszuschlag der Stufe 2 und
 örtlichem Sonderzuschlag.
 
 
 ## § 4 Berlin-Klausel
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
-4\. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit Artikel I §
-82 des Zweiten Gesetzes zur Vereinheitlichung und Neuregelung des
+4\. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit Artikel I
+§ 82 des Zweiten Gesetzes zur Vereinheitlichung und Neuregelung des
 Besoldungsrechts in Bund und Ländern vom 23. Mai 1975 (Bundesgesetzbl.
 I S. 1173) auch im Land Berlin.
 

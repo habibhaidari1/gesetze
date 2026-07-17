@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zu dem Übereinkommen vom 16. September 1988 über die gerichtliche Zuständigkeit
-  und die Vollstreckung gerichtlicher Entscheidungen in Zivil- und Handelssachen
+Title: Gesetz zu dem Übereinkommen vom 16. September 1988 über die gerichtliche Zuständigkeit und die Vollstreckung gerichtlicher Entscheidungen in Zivil- und Handelssachen
 jurabk: VollstrZustÜbk1988G
 layout: default
 origslug: vollstrzust_bk1988g
@@ -20,7 +19,6 @@ Geändert durch
 :   Art. 164 V v. 31.8.2015 I 1474
 
 
-
 ## Art 1
 
 Dem in Bern am 23. Oktober 1989 von der Bundesrepublik Deutschland
@@ -34,9 +32,9 @@ zugestimmt, daß der in Artikel IV des Protokolls Nr. 1 zum
 
 ## Art 2
 
-Die Aufgaben der zuständigen nationalen Behörde nach Artikel 2 Abs. 1
-Satz 2 des Protokolls Nr. 2 über die einheitliche Auslegung des
-Übereinkommens nimmt das Bundesministerium der Justiz und für
+Die Aufgaben der zuständigen nationalen Behörde nach Artikel 2
+Abs. 1 Satz 2 des Protokolls Nr. 2 über die einheitliche Auslegung
+des Übereinkommens nimmt das Bundesministerium der Justiz und für
 Verbraucherschutz wahr.
 
 
@@ -50,7 +48,7 @@ seiner Verkündung in Kraft. Die Artikel 2 bis 4 treten an dem Tage in
 Kraft, an dem das Übereinkommen für die Bundesrepublik Deutschland in
 Kraft tritt.
 
-(2) Der Tag, an dem das Übereinkommen nach seinem Artikel 61 Abs. 4
-für die Bundesrepublik Deutschland in Kraft tritt, ist im
+(2) Der Tag, an dem das Übereinkommen nach seinem Artikel 61
+Abs. 4 für die Bundesrepublik Deutschland in Kraft tritt, ist im
 Bundesgesetzblatt bekanntzugeben.
 

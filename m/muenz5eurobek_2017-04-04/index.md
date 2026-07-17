@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert
-  von 5 Euro (Gedenkmünze „Tropische Zone“)
+Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 5 Euro (Gedenkmünze „Tropische Zone“)
 jurabk: Münz5EuroBek 2017-04-04
 layout: default
 origslug: m_nz5eurobek_2017-04-04
@@ -19,18 +18,18 @@ Fundstelle
 
 ## (XXXX)
 
-Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
-I S. 2402) hat die Bundesregierung beschlossen, eine 5-Euro-
-Sammlermünze „Tropische Zone“ mit einem roten Kunststoffring prägen zu
-lassen. Die Münze bildet den Auftakt einer fünfteiligen Serie
-„Klimazonen der Erde“ (2017 – 2021, eine Ausgabe pro Jahr) und
-schließt damit thematisch an die innovative 5-Euro-Münze „Planet Erde“
-an, die als weltweit erste Sammlermünze mit einem farbigen,
+Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999
+(BGBl. I S. 2402) hat die Bundesregierung beschlossen, eine 5-
+Euro-Sammlermünze „Tropische Zone“ mit einem roten Kunststoffring
+prägen zu lassen. Die Münze bildet den Auftakt einer fünfteiligen
+Serie „Klimazonen der Erde“ (2017 – 2021, eine Ausgabe pro Jahr)
+und schließt damit thematisch an die innovative 5-Euro-Münze „Planet
+Erde“ an, die als weltweit erste Sammlermünze mit einem farbigen,
 lichtdurchlässigen Kunststoffring im April 2016 vom Bund herausgegeben
 wurde.
 
-Die Auflage der Münze beträgt 2 300 000 Stück, davon 300 000 Stück in
-Spiegelglanzqualität. Die Münze wird zu gleichen Teilen in den
+Die Auflage der Münze beträgt 2 300 000 Stück, davon 300 000 Stück
+in Spiegelglanzqualität. Die Münze wird zu gleichen Teilen in den
 Münzstätten Berlin, München, Stuttgart, Karlsruhe und Hamburg geprägt.
 
 Die Münze wird ab dem 27. April 2017 in den Verkehr gebracht. Sie
@@ -50,10 +49,10 @@ Zone mit dem immerfeuchten Regenwald. Der rote Ring definiert den
 Entwurfes besonders zur Geltung kommen lässt.
 
 Die Wertseite zeigt einen Adler, den Schriftzug „BUNDESREPUBLIK
-DEUTSCHLAND“, Wertziffer und Wertbezeichnung, die Jahreszahl 2017, die
-zwölf Europasterne sowie – je nach Prägestätte – das Münzzeichen „A“
-(Berlin), „D“ (München), „F“ (Stuttgart),
-„G“ (Karlsruhe)              oder „J“ (Hamburg).
+DEUTSCHLAND“, Wertziffer und Wertbezeichnung, die Jahreszahl 2017,
+die zwölf Europasterne sowie – je nach Prägestätte – das Münzzeichen
+„A“ (Berlin), „D“ (München), „F“ (Stuttgart), „G“ (Karlsruhe) oder
+„J“ (Hamburg).
 
 Der glatte Münzrand enthält in vertiefter Prägung die Inschrift:
 
@@ -71,9 +70,4 @@ Der Bundesminister der Finanzen
 ## (XXXX)
 
 (Fundstelle: BGBl. I 2017, 862)
-
-
-*    *        ![bgbl1_2017_j0862-1_0010.jpg](bgbl1_2017_j0862-1_0010.jpg)
-    *        ![bgbl1_2017_j0862-1_0020.jpg](bgbl1_2017_j0862-1_0020.jpg)
-
 

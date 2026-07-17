@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Gewährung von Steuerbefreiungen an das Deutsch-Französische
-  Jugendwerk
+Title: Verordnung über die Gewährung von Steuerbefreiungen an das Deutsch-Französische Jugendwerk
 jurabk: DtFrJWStBefrV
 layout: default
 origslug: dtfrjwstbefrv
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl II: 1983, 434
-
 
 
 ## Eingangsformel
@@ -50,8 +48,8 @@ vom 22. Juni 1954, der durch das Gesetz vom 28. Februar 1964 (BGBl.
 (1) Diese Verordnung tritt mit Wirkung vom 1. Januar 1981 in Kraft.
 
 (2) Diese Verordnung tritt an dem Tage außer Kraft, an dem das
-Abkommen vom 22. Juni 1973 zur Änderung des Abkommens vom 5. Juli 1963
-zwischen der Regierung der Bundesrepublik Deutschland und der
+Abkommen vom 22. Juni 1973 zur Änderung des Abkommens vom 5. Juli
+1963 zwischen der Regierung der Bundesrepublik Deutschland und der
 Regierung der Französischen Republik über die Errichtung des Deutsch-
 Französischen Jugendwerks (BGBl. 1973 II S. 1458) außer Kraft tritt.
 

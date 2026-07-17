@@ -1,7 +1,5 @@
 ---
-Title: Verordnung über die Erstattung von Kosten, die im Rahmen der Durchführung von
-  Maßnahmen des Wirtschaftsstabilisierungsfonds nach dem Stabilisierungsfondsgesetz
-  entstehen
+Title: Verordnung über die Erstattung von Kosten, die im Rahmen der Durchführung von Maßnahmen des Wirtschaftsstabilisierungsfonds nach dem Stabilisierungsfondsgesetz entstehen
 jurabk: WSF-KostV
 layout: default
 origslug: wsf-kostv
@@ -17,16 +15,19 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2020, 2051
 
+Zuletzt geändert durch
+:   Art. 1 V v. 12.3.2025 I Nr. 82
+
 
 ## Eingangsformel
 
 Auf Grund des § 19 Absatz 2 und 3 des Stabilisierungsfondsgesetzes,
 von denen Absatz 2 durch Artikel 2 Nummer 3 Buchstabe b des Gesetzes
 vom 10. Juli 2020 (BGBl. I S. 1633) geändert und Absatz 3 durch
-Artikel 2 Nummer 3 Buchstabe c des Gesetzes vom 10. Juli 2020 (BGBl. I
-S. 1633) eingefügt worden ist, verordnet das Bundesministerium der
-Finanzen im Einvernehmen mit dem Bundesministerium für Wirtschaft und
-Energie:
+Artikel 2 Nummer 3 Buchstabe c des Gesetzes vom 10. Juli 2020 (BGBl.
+I S. 1633) eingefügt worden ist, verordnet das Bundesministerium der
+Finanzen im Einvernehmen mit dem Bundesministerium für Wirtschaft
+und Energie:
 
 
 ## § 1 Kostenschuldner
@@ -45,12 +46,12 @@ anderen zur Kostenerstattung gesetzlich haftet.
 
 (1) Die Pflicht zur Kostenerstattung entsteht mit dem Bewirken der
 Leistung, für die Kosten zu erstatten sind. Bedarf diese Leistung
-einer Zustellung, Eröffnung oder sonstigen Bekanntgabe, so gilt diese
-jeweils als deren Bewirken. Abweichend von Satz 1 entsteht die Pflicht
-zur Kostenerstattung bei laufenden Überwachungs- und sonstigen
-laufenden Maßnahmen, die sich voraussichtlich über einen längeren
-Zeitraum als ein Jahr erstrecken, jährlich zum 31. März eines
-Kalenderjahres, es sei denn, die Kreditanstalt für Wiederaufbau
+einer Zustellung, Eröffnung oder sonstigen Bekanntgabe, so gilt
+diese jeweils als deren Bewirken. Abweichend von Satz 1 entsteht
+die Pflicht zur Kostenerstattung bei laufenden Überwachungs- und
+sonstigen laufenden Maßnahmen, die sich voraussichtlich über einen
+längeren Zeitraum als ein Jahr erstrecken, jährlich zum 31. März
+eines Kalenderjahres, es sei denn, die Kreditanstalt für Wiederaufbau
 (Kreditanstalt) oder die Bundesrepublik Deutschland – Finanzagentur
 GmbH (Finanzagentur) legen einen anderen Zeitpunkt fest.
 
@@ -73,38 +74,34 @@ vorsehen, gelten die Absätze 1 und 2.
 ## § 3 Kostenfestsetzung und Kosteneinziehung
 
 (1) Die Kosten, die der Finanzagentur oder der Kreditanstalt im Rahmen
-von Maßnahmen nach dem Stabilisierungsfondsgesetz entstehen, sind von
-den Kostenschuldnern an den Bund zu erstatten. Sie können auch in Form
-von Kostenpauschalen erhoben werden. Die Finanzagentur und die
-Kreditanstalt können diese Kosten durch Kostenbescheid festsetzen oder
-diese Kosten aufgrund einer Verpflichtungserklärung oder eines
+von Maßnahmen nach dem Stabilisierungsfondsgesetz entstehen, sind
+von den Kostenschuldnern an den Bund zu erstatten. Sie können auch
+in Form von Kostenpauschalen erhoben werden. Die Finanzagentur und
+die Kreditanstalt können diese Kosten durch Kostenbescheid festsetzen
+oder diese Kosten aufgrund einer Verpflichtungserklärung oder eines
 Vertrages erheben. Die festgesetzten Kosten sind von dem jeweiligen
-Kostenschuldner an den Bund oder an die Finanzagentur oder die
-Kreditanstalt zu zahlen.
+Kostenschuldner an den Bund zu zahlen.
 
-(2) Die Kosten, die dem Bundesministerium für Wirtschaft und Energie
-und dem Bundesministerium der Finanzen entstehen, sowie Kosten, die im
-Zusammenhang mit Entscheidungen des interministeriellen Ausschusses
-nach § 20 Absatz 1 des Stabilisierungsfondsgesetzes
-(Wirtschaftsstabilisierungsfonds-Ausschuss) anfallen, sind von den
-Kostenschuldnern zu erstatten. Sie können auch in Form von
+(2) Die Kosten, die dem Bundesministerium für Wirtschaft und
+Klimaschutz und dem Bundesministerium der Finanzen entstehen, sowie
+Kosten, die im Zusammenhang mit Entscheidungen des interministeriellen
+Ausschusses nach § 20 Absatz 1 des Stabilisierungsfondsgesetzes
+(Wirtschaftsstabilisierungsfonds-Ausschuss) anfallen, sind von
+den Kostenschuldnern zu erstatten. Sie können auch in Form von
 Kostenpauschalen erhoben werden. Das Bundesministerium für Wirtschaft
-und Energie oder das Bundesministerium der Finanzen können diese
+und Klimaschutz oder das Bundesministerium der Finanzen können diese
 Kosten durch Kostenbescheid festsetzen oder diese Kosten aufgrund
 einer Verpflichtungserklärung oder eines Vertrages erheben. Die
 festgesetzten Kosten sind von dem jeweiligen Kostenschuldner an den
-Bund oder im Rahmen einer einheitlichen Kostenerhebung an die
-Finanzagentur oder die Kreditanstalt zu zahlen.
+Bund zu zahlen.
 
 (3) Fallen im Rahmen einer Maßnahme nach dem
 Stabilisierungsfondsgesetz bei mehreren in Absatz 1 oder Absatz 2
 genannten Stellen zu erstattende Kosten an, können diese Kosten auch
-von Finanzagentur oder Kreditanstalt in voller Höhe im Auftrag der
-jeweils anderen Stellen gegenüber dem Kostenschuldner geltend gemacht
-werden. Die Modalitäten dieser einheitlichen Kostenerhebung sowie die
-interne Verteilung der vereinnahmten Kosten sind zwischen
-Kreditanstalt, Finanzagentur, dem Bundesministerium der Finanzen und
-dem Bundesministerium für Wirtschaft und Energie zu regeln.
+von der Finanzagentur im Auftrag der jeweils anderen Stellen gegenüber
+dem Kostenschuldner geltend gemacht werden. Die Modalitäten dieser
+Geltendmachung von Kosten durch eine jeweils andere Stelle sind
+jeweils zwischen den beteiligten Stellen zu regeln.
 
 
 ## § 4 Umfang der zu erstattenden Kosten; Kostenpauschale
@@ -124,32 +121,55 @@ der Kostenpauschalen erstellen die Kreditanstalt und die Finanzagentur
 Regelungen, die der Einwilligung des Bundesministeriums der Finanzen
 bedürfen.
 
-(3) Die zu erstattenden Kosten des Bundesministeriums für Wirtschaft
-und Energie können in Form von kostendeckenden und angemessenen
-Kostenpauschalen durch das Bundesministerium für Wirtschaft und
-Energie berechnet werden. Die zu erstattenden Kosten des
-Bundesministeriums der Finanzen können in Form von kostendeckenden und
-angemessenen Kostenpauschalen durch das Bundesministerium der Finanzen
-berechnet werden. Die zu erstattenden Kosten des
-Wirtschaftsstabilisierungsfonds-Ausschusses können in Form von
+(3) Die zu erstattenden Kosten des Bundesministeriums für
+Wirtschaft und Klimaschutz können in Form von kostendeckenden
+und angemessenen Kostenpauschalen durch das Bundesministerium für
+Wirtschaft und Klimaschutz berechnet werden. Die zu erstattenden
+Kosten des Bundesministeriums der Finanzen können in Form von
 kostendeckenden und angemessenen Kostenpauschalen durch das
-Bundesministerium der Finanzen im Einvernehmen mit dem
-Bundesministerium für Wirtschaft und Energie berechnet werden.
+Bundesministerium der Finanzen berechnet werden. Die zu erstattenden
+Kosten des Wirtschaftsstabilisierungsfonds-Ausschusses können
+in Form von kostendeckenden und angemessenen Kostenpauschalen
+durch das Bundesministerium der Finanzen im Einvernehmen mit dem
+Bundesministerium für Wirtschaft und Klimaschutz berechnet werden.
 
-(4) Das Bundesministerium der Finanzen kann im Einvernehmen mit dem
-Bundesministerium für Wirtschaft und Energie für die zu erstattenden
-Kosten von Kreditanstalt, Finanzagentur, Bundesministerium für
-Wirtschaft und Energie, Bundesministerium der Finanzen und
-Wirtschaftsstabilisierungsfonds-Ausschuss einheitliche und umfassende
-Kostenpauschalen und Anwendungsregelungen festlegen. In den Regelungen
-zu den Kostenpauschalen nach den Absätzen 2 und 3 sowie nach Satz 1
-kann der Entstehungszeitpunkt für die Kostenpauschalen abweichend von
-§ 2 festgelegt werden.
+(4) Das Bundesministerium der Finanzen kann im Einvernehmen
+mit dem Bundesministerium für Wirtschaft und Klimaschutz für
+die zu erstattenden Kosten von Kreditanstalt, Finanzagentur,
+Bundesministerium für Wirtschaft und Klimaschutz, Bundesministerium
+der Finanzen und Wirtschaftsstabilisierungsfonds-Ausschuss
+einheitliche und umfassende Kostenpauschalen und Anwendungsregelungen
+festlegen.
 
-(5) Bei der Festlegung der Höhe der Kostenpauschalen ist zwischen
+(5) In den Regelungen zu den Kostenpauschalen nach den Absätzen
+3, 4 und 5 kann der Entstehungszeitpunkt für die Kostenpauschalen
+abweichend von § 2 festgelegt werden. Für die Kosten der Finanzagentur
+und die Kosten des Bundesministeriums der Finanzen kann eine
+einheitliche und umfassende Kostenpauschale festgelegt werden.
+
+(6) Bei der Festlegung der Höhe der Kostenpauschalen ist zwischen
 einzelnen Maßnahmen oder Tätigkeiten zu unterscheiden. Außerdem kann
 die Höhe der Kostenpauschale von dem Wert der jeweiligen Leistungen
 abhängig gemacht werden.
+
+
+## § 4a Kostenermäßigung
+
+(1) Aus Gründen des öffentlichen Interesses, insbesondere bei
+drohender Beeinträchtigung des Zwecks der Stabilisierungsmaßnahme
+oder aus Gründen der Billigkeit, können die zu erstattenden Kosten
+in Abhängigkeit von der wirtschaftlichen Leistungsfähigkeit des
+Kostenschuldners bis auf ein Drittel ermäßigt werden.
+
+(2) Absatz 1 findet auch Anwendung auf Leistungen, die vor dem 1.
+Januar 2024 begonnen, aber noch nicht vollständig erbracht wurden.
+
+(3) Die Ermäßigung der zu erstattenden Kosten nach Absatz 1 wird nur
+gewährt, wenn die Voraussetzungen der Verordnung (EU) 2023/2831 der
+Kommission vom 13. Dezember 2023 über die Anwendung der Artikel 107
+und 108 des Vertrags über die Arbeitsweise der Europäischen Union auf
+De-minimis-Beihilfen (ABl. L 2023/2831, 15.12.2023) in der jeweils
+geltenden Fassung erfüllt sind.
 
 
 ## § 5 Fälligkeit
@@ -157,8 +177,10 @@ abhängig gemacht werden.
 (1) Die Pflicht zur Kostenerstattung wird zehn Tage nach Bekanntgabe
 der Festsetzung an den Kostenschuldner fällig, es sei denn, das
 Bundesministerium der Finanzen, das Bundesministerium für Wirtschaft
-und Energie, die Kreditanstalt oder die Finanzagentur legen einen
-anderen Zeitpunkt fest.
+und Klimaschutz, die Kreditanstalt oder die Finanzagentur legen
+einen anderen Zeitpunkt fest. Die Fälligkeit von Vorschuss-,
+Abschlagszahlungen und Sicherheitsleistungen richtet sich nach § 6
+Absatz 2.
 
 (2) Soweit die Pflicht zur Kostenerstattung durch
 Verpflichtungserklärung oder Vertrag übernommen worden ist, bestimmt
@@ -166,29 +188,35 @@ sich die Fälligkeit nach dieser Verpflichtungserklärung oder diesem
 Vertrag.
 
 
-## § 6 Vorschusszahlung und Sicherheitsleistung
+## § 6 Vorschuss- und Abschlagszahlung, Sicherheitsleistung
 
-(1) Die Kreditanstalt, die Finanzagentur, das Bundesministerium für
-Wirtschaft und Energie oder das Bundesministerium der Finanzen können
-von einem Kostenschuldner nach § 1 die Zahlung eines Vorschusses oder
-die Leistung einer Sicherheit bis zur Höhe der voraussichtlich zu
-erstattenden Kosten verlangen. Bei Maßnahmen, die sich über einen
-längeren Zeitraum erstrecken, können auch mehrfach Vorschüsse oder
-Sicherheitsleistungen verlangt werden.
+(1) Die Kreditanstalt, die Finanzagentur, das Bundesministerium
+für Wirtschaft und Klimaschutz oder das Bundesministerium der
+Finanzen können von einem Kostenschuldner nach § 1 die Zahlung eines
+Vorschusses oder die Leistung einer Sicherheit bis zur Höhe der
+voraussichtlich zu erstattenden Kosten verlangen. Bei Maßnahmen,
+die sich über einen längeren Zeitraum erstrecken, können auch
+mehrfach Vorschüsse oder Sicherheitsleistungen verlangt werden. Die
+Kreditanstalt, die Finanzagentur, das Bundesministerium für Wirtschaft
+und Klimaschutz oder das Bundesministerium der Finanzen können
+außerdem von einem Kostenschuldner nach § 1 jederzeit die Zahlung
+eines Abschlags für einen schon erbrachten (Teil-)Leistungsstand
+verlangen.
 
-(2) Dem Kostenschuldner ist eine Frist zur Zahlung des Vorschusses
-oder zur Leistung der Sicherheit zu setzen.
+(2) Dem Kostenschuldner ist eine Frist zur Zahlung des Vorschusses,
+des Abschlags oder zur Leistung der Sicherheit zu setzen.
 
 (3) Soweit die Pflicht zur Kostenerstattung durch
 Verpflichtungserklärung oder Vertrag übernommen worden ist, bestimmt
-sich die Pflicht zur Zahlung eines Vorschusses oder zur Leistung einer
-Sicherheit nach dieser Verpflichtungserklärung oder diesem Vertrag.
+sich die Pflicht zur Zahlung eines Vorschusses, oder eines Abschlags
+oder zur Leistung einer Sicherheit nach dieser Verpflichtungserklärung
+oder diesem Vertrag.
 
 
 ## § 7 Festsetzungsverjährung
 
-(1) Die Festsetzung von Kostenerstattungen sowie ihre Aufhebung oder
-Änderung ist nicht mehr zulässig, wenn die Festsetzungsfrist
+(1) Die Festsetzung von Kostenerstattungen sowie ihre Aufhebung
+oder Änderung ist nicht mehr zulässig, wenn die Festsetzungsfrist
 abgelaufen ist (Festsetzungsverjährung).
 
 (2) Die Festsetzungsfrist beträgt vier Jahre.
@@ -201,10 +229,10 @@ entstanden ist.
 wegen höherer Gewalt innerhalb der letzten sechs Monate der
 Festsetzungsfrist nicht erfolgen kann.
 
-(5) Wird die Festsetzung angefochten, läuft die Festsetzungsfrist erst
-sechs Monate nach dem Zeitpunkt ab, an dem die Festsetzung
-unanfechtbar geworden ist. Dies gilt auch, wenn der Rechtsbehelf erst
-nach Ablauf der Festsetzungsfrist eingelegt wird. Der Ablauf der
+(5) Wird die Festsetzung angefochten, läuft die Festsetzungsfrist
+erst sechs Monate nach dem Zeitpunkt ab, an dem die Festsetzung
+unanfechtbar geworden ist. Dies gilt auch, wenn der Rechtsbehelf
+erst nach Ablauf der Festsetzungsfrist eingelegt wird. Der Ablauf der
 Festsetzungsfrist ist hinsichtlich des gesamten Anspruchs gehemmt. Für
 vor dem Ablauf der Festsetzungsfrist gestellte Anträge auf Aufhebung
 oder Änderung der Festsetzung gilt Satz 1 entsprechend.
@@ -228,44 +256,30 @@ nicht verfolgt werden kann.
 
 1.  schriftliche Geltendmachung des Anspruchs,
 
-
 2.  Zahlungsaufschub,
-
 
 3.  Stundung,
 
-
 4.  Eintritt der aufschiebenden Wirkung,
-
 
 5.  Aussetzung der Vollziehung,
 
-
 6.  Sicherheitsleistung,
-
 
 7.  Vollstreckungsaufschub,
 
-
 8.  eine Vollstreckungsmaßnahme,
 
-
 9.  Anmeldung im Insolvenzverfahren,
-
 
 10. Aufnahme in einen Insolvenzplan oder einen gerichtlichen
     Schuldenbereinigungsplan,
 
-
 11. Einbeziehung in ein Verfahren, das die Restschuldbefreiung für den
     Schuldner zum Ziel hat, oder
 
-
 12. Ermittlung des Wohnsitzes oder des Aufenthaltsortes des
     Zahlungspflichtigen.
-
-
-
 
 (2) Die Unterbrechung der Zahlungsverjährung durch eine der in Absatz
 1 genannten Maßnahmen dauert fort, bis
@@ -274,28 +288,20 @@ nicht verfolgt werden kann.
     Aussetzung der Vollziehung oder der Vollstreckungsaufschub beendet
     ist,
 
-
 2.  bei Sicherheitsleistung, Pfändungspfandrecht, Zwangshypothek oder
     einem sonstigen Vorzugsrecht auf Befriedigung das entsprechende Recht
     erloschen ist,
 
-
 3.  das Insolvenzverfahren beendet ist,
-
 
 4.  der Insolvenzplan oder der gerichtliche Schuldenbereinigungsplan
     erfüllt ist oder hinfällig wird,
 
-
 5.  die Restschuldbefreiung erteilt oder versagt wird oder das Verfahren,
     das die Restschuldbefreiung zum Ziel hat, vorzeitig beendet wird oder
 
-
 6.  die Ermittlung des Wohnsitzes oder des Aufenthaltsortes des
     Zahlungspflichtigen beendet ist.
-
-
-
 
 (3) Die Zahlungsverjährung wird nur in Höhe des Betrags unterbrochen,
 auf den sich die Unterbrechungshandlung bezieht. Mit Ablauf des
@@ -313,8 +319,8 @@ nach Absatz 1 unterbrochen werden.
 ## § 10 Säumniszuschlag
 
 (1) Werden Kostenerstattungsbeträge nicht bis zum Ablauf des
-Fälligkeitstages entrichtet, so ist für jeden angefangenen Monat der
-Säumnis ein Säumniszuschlag von 1 Prozent des abgerundeten
+Fälligkeitstages entrichtet, so ist für jeden angefangenen Monat
+der Säumnis ein Säumniszuschlag von 1 Prozent des abgerundeten
 rückständigen Betrags zu entrichten. Der Säumniszuschlag wird nur
 erhoben, wenn der rückständige Betrag 50 Euro übersteigt und die
 Säumnis länger als drei Tage beträgt.
@@ -330,12 +336,8 @@ entrichtet
     Vertrages oder der Verpflichtungserklärung zuständigen Bundeskasse
     oder Zahlstelle (zuständige Kasse) oder
 
-
 2.  bei Überweisung oder Einzahlung auf ein Konto der zuständigen Kasse an
     dem Tag, an dem der Betrag der zuständigen Kasse gutgeschrieben wird.
-
-
-
 
 (4) In den Fällen der Gesamtschuld entstehen Säumniszuschläge
 gegenüber jedem säumigen Gesamtschuldner. Insgesamt ist jedoch kein
@@ -351,8 +353,8 @@ richten sich nach § 59 der Bundeshaushaltsordnung.
 
 ## § 12 Erstattung überzahlter oder zu Unrecht erhobener Kostenerstattungen
 
-(1) Überzahlte oder zu Unrecht erhobene Kostenerstattungen, die nicht
-auf der Erhebung einer Vorauszahlung beruhen, sind nach
+(1) Überzahlte oder zu Unrecht erhobene Kostenerstattungen, die
+nicht auf der Erhebung einer Vorauszahlung beruhen, sind nach
 Kenntniserlangung durch den Bund zu erstatten, zu Unrecht erhobene
 Kostenerstattungen jedoch nur, solange ihre Festsetzung noch
 anfechtbar ist.

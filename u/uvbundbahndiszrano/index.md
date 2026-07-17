@@ -1,6 +1,5 @@
 ---
-Title: Anordnung über die Übertragung von Befugnissen auf dem Gebiet des Disziplinarrechts
-  im Bereich der Unfallversicherung Bund und Bahn
+Title: Anordnung über die Übertragung von Befugnissen auf dem Gebiet des Disziplinarrechts im Bereich der Unfallversicherung Bund und Bahn
 jurabk: UVBundBahnDiszRAnO
 layout: default
 origslug: uvbundbahndiszrano
@@ -31,24 +30,18 @@ der Unfallversicherung Bund und Bahn die Befugnis,
     Bundesdisziplinargesetzes die Kürzung der Dienstbezüge bis zum
     Höchstmaß für die Beamtinnen und Beamten festzusetzen,
 
-
 2.  nach § 34 Absatz 1 in Verbindung mit Absatz 2 Satz 1 des
     Bundesdisziplinargesetzes Disziplinarklage gegen die Beamtinnen und
     Beamten zu erheben,
-
 
 3.  nach § 42 Absatz 1 Satz 1 des Bundesdisziplinargesetzes über den
     Widerspruch von Beamtinnen und Beamten zu entscheiden, auch soweit die
     Geschäftsführung für die Disziplinarverfügung zuständig ist,
 
-
 4.  nach § 84 Satz 1 des Bundesdisziplinargesetzes gegenüber
     Ruhestandsbeamtinnen und Ruhestandsbeamten die Disziplinarbefugnisse
     auszuüben, soweit der Erste Direktor der Unfallversicherung Bund und
     Bahn zum Zeitpunkt des Eintritts in den Ruhestand zuständig war.
-
-
-
 
 Die Befugnisse des Vorstandes nach den §§ 35 und 43 des
 Bundesdisziplinargesetzes bleiben hiervon unberührt.
@@ -56,8 +49,8 @@ Bundesdisziplinargesetzes bleiben hiervon unberührt.
 
 ## II. Vorbehaltsklausel
 
-Der Vorstand der Unfallversicherung Bund und Bahn behält sich vor, die
-nach Abschnitt I erteilten Befugnisse im Einzelfall und in jedem
+Der Vorstand der Unfallversicherung Bund und Bahn behält sich vor,
+die nach Abschnitt I erteilten Befugnisse im Einzelfall und in jedem
 Stadium des Verfahrens zu übernehmen.
 
 

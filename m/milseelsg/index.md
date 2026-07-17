@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl II: 1957, 701
 
 
-
 ## Art 1
 
 (1) Dem in Bonn am 22. Februar 1957 unterzeichneten Vertrag der

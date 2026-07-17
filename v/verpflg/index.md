@@ -28,17 +28,12 @@ Strafgesetzbuches) zu sein,
 1.  bei einer Behörde oder bei einer sonstigen Stelle, die Aufgaben der
     öffentlichen Verwaltung wahrnimmt, beschäftigt oder für sie tätig ist,
 
-
 2.  bei einem Verband oder sonstigen Zusammenschluß, einem Betrieb oder
     Unternehmen, die für eine Behörde oder sonstige Stelle Aufgaben der
-    öffentlichen Verwaltung ausführen, beschäftigt oder für sie tätig ist
-    oder
-
+    öffentlichen Verwaltung ausführen, beschäftigt oder für sie tätig
+    ist oder
 
 3.  als Sachverständiger öffentlich bestellt ist.
-
-
-
 
 (2) Die Verpflichtung wird mündlich vorgenommen. Dabei ist auf die
 strafrechtlichen Folgen einer Pflichtverletzung hinzuweisen.
@@ -51,17 +46,13 @@ ist.
 
 (4) Welche Stelle für die Verpflichtung zuständig ist, bestimmt
 
-1.  in den Fällen des Absatzes 1 Nr. 1 und 2 bei Behörden oder sonstigen
-    Stellen nach Bundesrecht die jeweils zuständige oberste
+1.  in den Fällen des Absatzes 1 Nr. 1 und 2 bei Behörden oder
+    sonstigen Stellen nach Bundesrecht die jeweils zuständige oberste
     Dienstaufsichtsbehörde oder, soweit eine Dienstaufsicht nicht besteht,
     die oberste Fachaufsichtsbehörde,
 
-
 2.  in allen übrigen Fällen diejenige Behörde, die von der Landesregierung
     durch Rechtsverordnung bestimmt wird.
-
-
-
 
 
 ## § 2
@@ -77,13 +68,10 @@ gleich.
 1.  als Arbeitnehmer des öffentlichen Dienstes nach einer tarifrechtlichen
     Regelung oder
 
-
 2.  auf Grund eines Gesetzes oder aus einem sonstigen Rechtsgrund
 
-
-
-zur gewissenhaften Erfüllung seiner Obliegenheiten verpflichtet worden
-ist, steht einem nach § 1 Verpflichteten gleich, wenn die
+zur gewissenhaften Erfüllung seiner Obliegenheiten verpflichtet
+worden ist, steht einem nach § 1 Verpflichteten gleich, wenn die
 Voraussetzungen des § 1 Abs. 2 erfüllt sind.
 
 

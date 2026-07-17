@@ -1,7 +1,5 @@
 ---
-Title: Gesetz über Finanzhilfen des Bundes nach Artikel 104a Abs. 4 des Grundgesetzes
-  an die Länder Bremen, Hamburg, Mecklenburg-Vorpommern, Niedersachsen sowie Schleswig-Holstein
-  für Seehäfen
+Title: Gesetz über Finanzhilfen des Bundes nach Artikel 104a Abs. 4 des Grundgesetzes an die Länder Bremen, Hamburg, Mecklenburg-Vorpommern, Niedersachsen sowie Schleswig-Holstein für Seehäfen
 jurabk: BFinHBRuaG
 layout: default
 origslug: bfinhbruag
@@ -21,45 +19,24 @@ Geändert durch
 :   Art. 3 G v. 14.8.2017 I 3122
 
 
-
 ## § 1
 
 (1) Der Bund gewährt den Ländern Bremen, Hamburg, Mecklenburg-
-Vorpommern, Niedersachsen sowie Schleswig-Holstein Finanzhilfen für
-besonders bedeutsame Investitionen im Bereich der Seehäfen,
+Vorpommern, Niedersachsen sowie Schleswig-Holstein Finanzhilfen
+für besonders bedeutsame Investitionen im Bereich der Seehäfen,
 insbesondere für Maßnahmen zur Verbesserung der wirtschaftlichen
 Infrastruktur von Seehäfen wie den Bau oder Ausbau von Hafenanlagen,
 von Verkehrswegen und öffentlichen Verkehrsflächen, in Höhe von
-jährlich insgesamt 3.8346.000 Euro.
+jährlich insgesamt 38.346.000 Euro.
 
 (2) Von dem Jahresbetrag nach Absatz 1 erhalten die Länder
 
-*    *   Bremen
-
-    *   10.737.000 Euro,
-
-
-*    *   Hamburg
-
-    *   20.963.000 Euro,
-
-
-*    *   Mecklenburg-Vorpommern
-
-    *   2.556.000 Euro,
-
-
-*    *   Niedersachsen
-
-    *   2.045.000 Euro,
-
-
-*    *   Schleswig-Holstein
-
-    *   2.045.000 Euro.
-
-
-
+| Bremen | 10.737.000 Euro, |
+| --- | --- |
+| Hamburg | 20.963.000 Euro, |
+| Mecklenburg-Vorpommern | 2.556.000 Euro, |
+| Niedersachsen | 2.045.000 Euro, |
+| Schleswig-Holstein | 2.045.000 Euro. |
 
 
 ## § 2

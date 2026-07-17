@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 23.11.1972 I 2201;
 
 Zuletzt geändert durch
-:   Art. 4 G v. 16.01.2016 I 52
+:   Art. 2 Abs. 30 G v. 20.12.2022 I 2752
 
 
 ## § 1
@@ -50,7 +50,7 @@ diese nach gesetzlichen Handelsklassen zum Verkauf vorrätig gehalten,
 angeboten, feilgehalten, geliefert, verkauft oder sonst in den Verkehr
 gebracht werden. Als Merkmale können insbesondere bestimmt werden:
 
-*   Qualität,
+-   Qualität,
 
     Herkunft,
 
@@ -65,9 +65,6 @@ gebracht werden. Als Merkmale können insbesondere bestimmt werden:
 
     Beständigkeit bestimmter Eigenschaften.
 
-
-
-
 (2) In Rechtsverordnungen nach § 1 kann ferner vorgeschrieben werden:
 
 1.  Bezeichnung, Kennzeichnung, Aufmachung, Ausformung, Verpackung,
@@ -76,18 +73,15 @@ gebracht werden. Als Merkmale können insbesondere bestimmt werden:
     feilgehalten, geliefert, verkauft oder sonst in den Verkehr gebracht
     werden;
 
-
-2.  daß bestimmte Erzeugnisse nur nach den gesetzlichen Handelsklassen zum
-    Verkauf vorrätig gehalten, angeboten, feilgehalten, geliefert,
+2.  daß bestimmte Erzeugnisse nur nach den gesetzlichen Handelsklassen
+    zum Verkauf vorrätig gehalten, angeboten, feilgehalten, geliefert,
     verkauft oder sonst in den Verkehr gebracht werden dürfen;
-
 
 3.  daß in Rechnungen, Lieferscheinen oder sonstigen
     Transportbegleitpapieren, ausgenommen in Rechnungen, Lieferscheinen
     oder sonstigen Transportbegleitpapieren des Einzelhandels, die
     Handelsklasse anzugeben ist, unter der die Erzeugnisse jeweils
     geliefert, verkauft oder sonst in den Verkehr gebracht worden sind;
-
 
 4.  daß für bestimmte Erzeugnisse, für die Vorschriften nach Nummer 2
     erlassen sind, in öffentlichen Bekanntmachungen oder in Mitteilungen,
@@ -96,38 +90,29 @@ gebracht werden. Als Merkmale können insbesondere bestimmt werden:
     dabei Preise angegeben werden, die sich unmittelbar oder mittelbar auf
     eine Gewichtseinheit beziehen;
 
-
 5.  daß Börsen, Verwaltungen öffentlicher Märkte und sonstige Stellen,
     soweit sie amtliche oder für gesetzlich vorgesehene Zwecke bestimmte
     Preisnotierungen oder Preisfeststellungen vornehmen, verpflichtet
     sind, ihre Notierungen oder Feststellungen auf die gesetzlichen
-    Handelsklassen zu erstrecken oder, soweit Vorschriften nach Nummer 2
-    oder entsprechende Rechtsakte der Europäischen Gemeinschaften oder der
-    Europäischen Union erlassen sind, ihren Notierungen oder
+    Handelsklassen zu erstrecken oder, soweit Vorschriften nach Nummer
+    2 oder entsprechende Rechtsakte der Europäischen Gemeinschaften
+    oder der Europäischen Union erlassen sind, ihren Notierungen oder
     Feststellungen die gesetzlichen Handelsklassen zugrunde zu legen
     haben;
-
 
 6.  welche Verfahren
 
     a)  bei der Einreihung der Erzeugnisse in die gesetzlichen Handelsklassen
         und
 
-
     b)  bei der Nachprüfung der Einreihung
-
-
-
 
     zu beachten sind.
 
-
-
-
 (3) Vorschriften nach den Absätzen 1 und 2 sollen nur insoweit
 erlassen werden, als nicht entsprechende lebensmittelrechtliche
-Vorschriften oder Vorschriften des Mess- und Eichgesetzes und der auf
-Grund des Mess- und Eichgesetzes erlassenen Rechtsverordnungen
+Vorschriften oder Vorschriften des Mess- und Eichgesetzes und der
+auf Grund des Mess- und Eichgesetzes erlassenen Rechtsverordnungen
 bestehen, die auch den Zielen des § 1 Abs. 1 gerecht werden.
 
 
@@ -173,31 +158,26 @@ Geltungsbereich dieses Gesetzes verbringen, während der Geschäftszeit
 1.  Geschäftsräume und Grundstücke, Verkaufseinrichtungen und
     Transportmittel betreten und dort Besichtigungen vornehmen,
 
-
 2.  Proben gegen Empfangsbescheinigung entnehmen; auf Verlangen des
     Betroffenen ist ein Teil der Probe oder, falls diese unteilbar ist,
     eine zweite Probe amtlich verschlossen und versiegelt zurückzulassen;
 
-
 3.  Geschäftsunterlagen einsehen und prüfen,
-
 
 4.  Auskunft verlangen.
 
-
-
 Diese Befugnisse erstrecken sich auch auf Erzeugnisse, die an
-öffentlichen Orten, insbesondere auf Märkten, Plätzen, Straßen oder im
-Umherziehen zum Verkauf vorrätig gehalten, angeboten, feilgehalten,
+öffentlichen Orten, insbesondere auf Märkten, Plätzen, Straßen oder
+im Umherziehen zum Verkauf vorrätig gehalten, angeboten, feilgehalten,
 geliefert, verkauft oder sonst in den Verkehr gebracht werden.
 
-(3) Inhaber oder Leiter der Betriebe sind verpflichtet, das Betreten
-der Geschäftsräume und Grundstücke, Verkaufseinrichtungen und
-Transportmittel sowie die dort vorzunehmenden Besichtigungen zu
-gestatten, die zu besichtigenden Erzeugnisse selbst oder durch andere
-so darzulegen, daß die Besichtigung ordnungsgemäß vorgenommen werden
-kann, selbst oder durch andere die erforderliche Hilfe bei der
-Besichtigung zu leisten, die Proben entnehmen zu lassen, die
+(3) Inhaber oder Leiter der Betriebe sind verpflichtet, das
+Betreten der Geschäftsräume und Grundstücke, Verkaufseinrichtungen
+und Transportmittel sowie die dort vorzunehmenden Besichtigungen
+zu gestatten, die zu besichtigenden Erzeugnisse selbst oder durch
+andere so darzulegen, daß die Besichtigung ordnungsgemäß vorgenommen
+werden kann, selbst oder durch andere die erforderliche Hilfe bei
+der Besichtigung zu leisten, die Proben entnehmen zu lassen, die
 geschäftlichen Unterlagen vorzulegen, prüfen zu lassen und Auskünfte
 zu erteilen.
 
@@ -215,8 +195,8 @@ Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
 (6) Das Bundesministerium wird ermächtigt, im Einvernehmen mit den
 Bundesministerien für Wirtschaft und Energie und der Finanzen durch
-Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, das
-Verfahren der Überwachung beim Verbringen in den oder aus dem
+Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
+das Verfahren der Überwachung beim Verbringen in den oder aus dem
 Geltungsbereich dieses Gesetzes zu regeln.
 
 
@@ -235,46 +215,32 @@ Geltungsbereich dieses Gesetzes zu regeln.
     das Erzeugnis nicht mindestens den Anforderungen dieser gesetzlichen
     Handelsklasse entspricht,
 
-
 2.  ein Erzeugnis im Sinne des § 1 unter einer Bezeichnung zum Verkauf
-    vorrätig hält, anbietet, feilhält, liefert, verkauft oder sonst in den
-    Verkehr bringt, die den Anschein einer gesetzlichen Handelsklasse
+    vorrätig hält, anbietet, feilhält, liefert, verkauft oder sonst in
+    den Verkehr bringt, die den Anschein einer gesetzlichen Handelsklasse
     erweckt, obwohl eine gesetzliche Handelsklasse nicht eingeführt ist,
-
 
 3.  einer nach § 1 in Verbindung mit § 2 Abs. 2 oder § 3 erlassenen
     Rechtsverordnung zuwiderhandelt, soweit sie für einen bestimmten
     Tatbestand auf diese Bußgeldvorschrift verweist oder
-
 
 4.  entgegen § 5 Abs. 3 oder 4
 
     a)  das Betreten von Geschäftsräumen, Grundstücken, Verkaufseinrichtungen
         oder Transportmitteln oder deren Besichtigung nicht gestattet,
 
-
     b)  die zu besichtigenden Erzeugnisse nicht so darlegt, daß die
         Besichtigung ordnungsgemäß vorgenommen werden kann,
 
-
     c)  die erforderliche Hilfe bei der Besichtigung nicht leistet,
 
-
     d)  Proben nicht entnehmen läßt,
-
 
     e)  geschäftliche Unterlagen nicht, nicht vollständig oder nicht
         fristgemäß vorlegt oder nicht prüfen läßt oder
 
-
     f)  eine Auskunft nicht, nicht richtig, nicht vollständig oder nicht
         fristgemäß erteilt.
-
-
-
-
-
-
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu zehntausend
 Euro geahndet werden.
@@ -283,9 +249,9 @@ Euro geahndet werden.
 ## § 8
 
 (1) Das Bundesministerium wird ermächtigt, die auf Grund des Gesetzes
-über gesetzliche Handelsklassen für Erzeugnisse der Landwirtschaft und
-Fischerei vom 17. Dezember 1951 (Bundesgesetzbl. I S. 970), geändert
-durch das Gesetz zur Änderung des Gesetzes über gesetzliche
+über gesetzliche Handelsklassen für Erzeugnisse der Landwirtschaft
+und Fischerei vom 17. Dezember 1951 (Bundesgesetzbl. I S. 970),
+geändert durch das Gesetz zur Änderung des Gesetzes über gesetzliche
 Handelsklassen für Erzeugnisse der Landwirtschaft und Fischerei vom 8.
 Juni 1955 (Bundesgesetzbl. I S. 266), erlassenen Rechtsverordnungen im
 Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie mit
@@ -310,19 +276,12 @@ Gemeinschaften oder der Europäischen Union oder der zu ihrer
 Durchführung nach § 1 Abs. 3 erlassenen Rechtsverordnungen etwas
 anderes ergibt.
 
-(2) Die Zolldienststellen können Verstöße gegen diese Verbote und
-Beschränkungen, die sie bei der Abfertigung feststellen, den
+(2) Die Zolldienststellen können Verstöße gegen diese Verbote
+und Beschränkungen, die sie bei der Abfertigung feststellen, den
 zuständigen Verwaltungsbehörden mitteilen.
 
 
 ## § 10
 
 Die Vorschriften des Lebensmittelrechts bleiben unberührt.
-
-
-## § 11
-
-Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz
-1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger
-verkündet werden.
 

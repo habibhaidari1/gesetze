@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 1499
 
 Zuletzt geändert durch
-:   Art. 1 V v. 15.5.2017 I 1194
-
-Änderung durch
-:   Art. 1 V v. 30.6.2021 BAnz AT 30.06.2021 V1 mWv 1.7.2021 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 10.4.2026 I Nr. 96
 
 
 ## Eingangsformel
@@ -39,9 +36,8 @@ anliegende Satzung.
 
 Diese Verordnung tritt am 1. Mai 2002 in Kraft.
 
-(zu § 1)
 
-## Anlage Satzung der Bundesanstalt für Finanzdienstleistungsaufsicht
+## Anlage (zu § 1)Satzung der Bundesanstalt für Finanzdienstleistungsaufsicht
 
 (Text der Satzung siehe: FinDASa)
 

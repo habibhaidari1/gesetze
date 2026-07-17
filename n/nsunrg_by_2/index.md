@@ -1,6 +1,5 @@
 ---
-Title: Zweites Gesetz zur Wiedergutmachung nationalsozialistischen Unrechts in der
-  Strafrechtspflege
+Title: Zweites Gesetz zur Wiedergutmachung nationalsozialistischen Unrechts in der Strafrechtspflege
 jurabk: NSUnrG BY 2
 layout: default
 origslug: nsunrg_by_2
@@ -15,4 +14,7 @@ Ausfertigungsdatum
 
 Fundstelle
 :   GVBl BY: 1947, 81
+
+Fundstelle
+:   BayBS III: 150
 

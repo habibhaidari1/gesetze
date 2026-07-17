@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen
-  Mark (Kleist-Gedenkmünze)
+Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Kleist-Gedenkmünze)
 jurabk: Münz5DMBek 1977-08
 layout: default
 origslug: m_nz5dmbek_1977-08
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 1977, 1681
-
 
 
 ## (XXXX)
@@ -41,30 +39,22 @@ schützenden Randstab umgeben.
 (5) Die Bildseite zeigt im Zeitstil um 1800 das Portrait des großen
 Dramatikers und Prosadichters sowie die Umschrift
 
-*   ". HEINRICH . VON . KLEIST . 1777-1811".
-
-
+-   ". HEINRICH . VON . KLEIST . 1777-1811".
 
 (6) Die Wertseite trägt einen Adler und die Umschrift
 
-*   "BUNDESREPUBLIK . DEUTSCHLAND .
+-   "BUNDESREPUBLIK . DEUTSCHLAND .
 
     5 DEUTSCHE . MARK . 1977".
-
-
-
 
 (7) Das Münzzeichen "G" der Staatlichen Münze Karlsruhe befindet sich
 unterhalb der Schwanzspitze des Adlers über der Wertziffer 5.
 
 (8) Der glatte Münzrand enthält die vertiefte Inschrift
 
-*   "FRIEDEN IST DIE BEDINGUNG
+-   "FRIEDEN IST DIE BEDINGUNG
 
     DOCH VON ALLEM GLÜCK".
-
-
-
 
 (9) Zwischen Ende und Anfang der Randschrift ist ein waagerecht
 liegender Strich eingeprägt.

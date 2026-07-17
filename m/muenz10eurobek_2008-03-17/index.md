@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert
-  von 10 Euro (Gedenkmünze „150. Geburtstag Max Planck“)
+Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze „150. Geburtstag Max Planck“)
 jurabk: Münz10EuroBek 2008-03-17
 layout: default
 origslug: m_nz10eurobek_2008-03-17
@@ -36,26 +35,22 @@ wird von einem schützenden, glatten Randstab umgeben.
 
 Die Bildseite zeigt eine gelungene Kombination von Portrait und
 wissenschaftlicher Grafik. Das künstlerisch überzeugende Portrait
-trifft die Persönlichkeit Plancks, indem es seine Nachdenklichkeit zum
-Ausdruck bringt. Die gezeigten Kurven sind charakteristisch für die
-Wärmestrahlung, die einen der Forschungsschwerpunkte in Plancks
+trifft die Persönlichkeit Plancks, indem es seine Nachdenklichkeit
+zum Ausdruck bringt. Die gezeigten Kurven sind charakteristisch für
+die Wärmestrahlung, die einen der Forschungsschwerpunkte in Plancks
 wissenschaftlicher Arbeit bildete.
 
-Die Wertseite korrespondiert harmonisch mit der Bildseite. Sie zeigt
-einen Adler, den Schriftzug „BUNDESREPUBLIK DEUTSCHLAND“, die
-Wertziffer und Wertbezeichnung, die Jahreszahl 2008, die zwölf
+Die Wertseite korrespondiert harmonisch mit der Bildseite. Sie
+zeigt einen Adler, den Schriftzug „BUNDESREPUBLIK DEUTSCHLAND“,
+die Wertziffer und Wertbezeichnung, die Jahreszahl 2008, die zwölf
 Europasterne sowie das Prägezeichen „F“ der Staatlichen Münzen Baden-
 Württemberg, Prägestätte Stuttgart.
 
 Der glatte Münzrand enthält in vertiefter Prägung die Inschrift (Zitat
 von Max Planck):
 
-
-*    *   „DEM ANWENDEN MUSS
-        DAS ERKENNEN VORAUSGEHEN*                       “.
-
-
-
+„DEM ANWENDEN MUSS
+DAS ERKENNEN VORAUSGEHEN·“.
 
 Der Entwurf der Münze stammt von Herrn Michael Otto, Rodenbach.
 
@@ -68,8 +63,4 @@ Der Bundesminister der Finanzen
 ## (XXXX)
 
 ( Fundstelle: BGBl. I 2008, 483 )
-
-*    *        ![bgbl1_2008_j0483-1_0010.jpg](bgbl1_2008_j0483-1_0010.jpg)
-    *        ![bgbl1_2008_j0483-1_0020.jpg](bgbl1_2008_j0483-1_0020.jpg)
-
 

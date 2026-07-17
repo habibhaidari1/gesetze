@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen
-  und im fachtheoretischen Teil der Meisterprüfung für das Segelmacher-Handwerk
+Title: Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Segelmacher-Handwerk
 jurabk: SegelmMstrV
 layout: default
 origslug: segelmmstrv
@@ -20,7 +19,6 @@ Geändert durch
 :   Art. 2 Abs. 11 V v. 18.1.2022 I 39
 
 
-
 ## Eingangsformel
 
 Auf Grund des § 45 der Handwerksordnung in der Fassung der
@@ -33,122 +31,88 @@ Einvernehmen mit dem Bundesministerium für Bildung und Wissenschaft:
 ## 1. Abschnitt - Berufsbild
 
 
-
 ### § 1 Berufsbild
 
 (1) Dem Segelmacher-Handwerk sind folgende Tätigkeiten zuzurechnen:
 
-1.  Planung, Entwurf, Fertigung, Montage, Instandsetzung und Änderung von
-    Segeln, Bezügen, Zelten, Planen, Markisen, Verdecken sowie der
+1.  Planung, Entwurf, Fertigung, Montage, Instandsetzung und Änderung
+    von Segeln, Bezügen, Zelten, Planen, Markisen, Verdecken sowie der
     dazugehörigen Gestänge,
-
 
 2.  Be- und Verarbeitung von Tauwerk, Drahtseilen und Seilen aus
     Verbundwerkstoffen einschließlich der Zubehörteile, Aufriggen von
     Masten,
 
-
 3.  Montage von Vor- und Großsegel-Reffanlagen, Herstellung und Umrüstung
     von Großbäumen und Masten.
-
-
-
 
 (2) Dem Segelmacher-Handwerk sind folgende Kenntnisse und Fertigkeiten
 zuzurechnen:
 
 1.  Kenntnisse der Segel-, Takelungs- und Zeltarten,
 
-
 2.  Kenntnisse der Schneide-, Näh-, Schweiß- und Klebeverfahren,
-
 
 3.  Kenntnisse der verschiedenen Natur- und Chemiefasern,
 
-
 4.  Kenntnisse der Veredelungsverfahren von Geweben,
-
 
 5.  Kenntnisse der Gütebestimmungen,
 
-
 6.  Kenntnisse der berufsbezogenen Werk- und Hilfsstoffe,
-
 
 7.  Kenntnisse der Funktionsweise von mechanischen, hydraulischen,
     pneumatischen und elektrischen Antriebsmaschinen und -geräten
     einschließlich elektronischer Steuerungen,
 
-
 8.  Kenntnisse der Planung und der Herstellungstechniken der Einzel- und
     Serienfertigung einschließlich des Einsatzes von rechnergestützten
     Geräten,
 
-
 9.  Kenntnisse der berufsbezogenen Vorschriften der Arbeitssicherheit und
     des Arbeitsschutzes,
 
-
 10. Kenntnisse der berufsbezogenen Vorschriften und Normen,
-
 
 11. Kenntnisse der Arbeitsweise, des Einsatzes, der Einstellung und
     Instandhaltung der berufsbezogenen Werkzeuge, Geräte und Maschinen,
 
-
 12. Bestimmen der Gewebekonstruktionen nach Bindung, Fadendichte und
     Garnnummern,
 
-
 13. Lesen und Anfertigen von Entwurfsskizzen und Werkzeichnungen,
-
 
 14. Anfertigen von Aufrissen zu Spezialsegeln, zu Treibankern und zu Groß-
     und Vorsegeln in verschiedenen Schnittformen,
 
-
 15. Anschlagen von Segeln,
-
 
 16. Messen, Einteilen und Bereitstellen der Werk- und Hilfsstoffe,
 
-
 17. Schneiden von Hand und mit Maschine,
 
-
 18. Nähen von Hand und mit Maschine,
-
 
 19. Bearbeiten von Textilien, Kunst- und sonstigen Werkstoffen,
     insbesondere durch Stanzen, Bohren und Lochen,
 
-
 20. Anfertigen von Reffs in Segeln für Schiffe älterer oder historischer
     Bauart einschließlich Setzen von Klodjes,
 
-
 21. Ausführen von Instandhaltungsarbeiten an Segeln, Zelten und Planen,
-
 
 22. Knoten, Spleißen und Takeln von Tauwerk und Drahtseilen sowie
     Montieren von Beschlägen,
 
-
 23. Anbringen von Markisen und Planen,
 
-
 24. Aufbauen von Zelten,
-
 
 25. Instandhalten der berufsbezogenen Maschinen, Geräte und Werkzeuge,
     insbesondere Einstellen von Nähmaschinen.
 
 
-
-
-
 ## 2. Abschnitt - Prüfungsanforderungen in den Teilen I und II der Meisterprüfung
-
 
 
 ### § 2 Gliederung, Dauer und Bestehen der praktischen Prüfung (Teil I)
@@ -175,26 +139,18 @@ Arbeiten anzufertigen:
 1.  ein Jachtsegel sowie ein Segel für Schiffe älterer oder historischer
     Bauart in umfangreicher Handarbeit, fertig zum Anschlagen,
 
-
 2.  eine Bootsplane für Seekreuzer, fertig zum Auflegen,
-
 
 3.  ein Sprayhood, fertig zum Montieren,
 
-
 4.  ein Lagerzelt mit Satteldach einschließlich Spannseilen,
-
 
 5.  eine Plane für Lastkraftwagen nach Zollvorschriften,
 
-
 6.  ein Caravan-Vorzelt, fertig zum Aufbauen.
 
-
-
-
-(2) Der Prüfling hat dem Meisterprüfungsausschuß vor Anfertigung der
-Meisterprüfungsarbeit eine Werkzeichnung und ein Angebot
+(2) Der Prüfling hat dem Meisterprüfungsausschuß vor Anfertigung
+der Meisterprüfungsarbeit eine Werkzeichnung und ein Angebot
 einschließlich der Vorkalkulation zur Genehmigung vorzulegen.
 
 (3) Die Werkzeichnung sowie die Vor- und Nachkalkulation sind bei der
@@ -209,36 +165,25 @@ auszuführen:
 1.  Anfertigen eines Bezuges nach vorgegebenen Maßen, genäht oder
     geschweißt,
 
-
 2.  Anfertigen einer Schotecke mit Laegelstecken und Einsetzen der
     Laegelkausch,
 
-
 3.  Anfertigen einer Ecke mit Halsenspleiß,
-
 
 4.  Anfertigen einer Kopfecke mit Drahtspleiß, Einnähen des Auges und
     Einsetzen der Spitzkausch,
 
-
 5.  Anfertigen eines Reffs im Segel eines Schiffes älterer oder
     historischer Bauart einschließlich Setzen von Klodjes,
 
-
 6.  Aufreißen eines Head- oder Triradial-Spinnakers,
 
-
 7.  Anfertigen eines Treibankeraufrisses,
-
 
 8.  Anfertigen eines Aufrisses eines Groß- und Vorsegels in verschiedenen
     Schnittformen,
 
-
 9.  Anfertigen von Draht- und Tauspleißen.
-
-
-
 
 (2) In der Arbeitsprobe sind die wichtigsten Fertigkeiten und
 Kenntnisse zu prüfen, die in der Meisterprüfungsarbeit nicht oder nur
@@ -254,60 +199,40 @@ nachzuweisen:
 
     a)  Berechnen der Mengen und Maße der Werk- und Hilfsstoffe,
 
-
     b)  Anfertigen von Werkzeichnungen;
-
-
-
-
 
 2.  Fachtechnologie:
 
     a)  segeltechnische Gegebenheiten,
 
-
     b)  Zuordnung der Segel zu Bootsklassen,
 
-
-    c)  Funktionsweise von mechanischen, hydraulischen, pneumatischen und
-        elektrischen Antriebsmaschinen und Geräten einschließlich
+    c)  Funktionsweise von mechanischen, hydraulischen, pneumatischen
+        und elektrischen Antriebsmaschinen und Geräten einschließlich
         elektronischer Steuerungen,
 
-
     d)  Schneide-, Näh-, Schweiß- und Klebeverfahren,
-
 
     e)  Herstellungstechniken in der Einzel- und Serienfertigung
         einschließlich des Einsatzes von rechnergestützten Geräten,
 
-
     f)  Entwicklung von Fertigungsabläufen,
-
 
     g)  Gütebestimmungen,
 
-
     h)  berufsbezogene Vorschriften der Arbeitssicherheit und des
         Arbeitsschutzes;
-
-
-
-
 
 3.  Werkstoffkunde:
 
     Arten, Herstellung, Eigenschaften, Lagerung, Verwendung und
     Verarbeitung der Werk- und Hilfsstoffe und ihre Entsorgung;
 
-
 4.  Kalkulation:
 
     Kostenermittlung unter Einbeziehung aller für die Preisbildung
     wesentlichen Faktoren einschließlich der Berechnungen für die
     Angebots- und Nachkalkulation.
-
-
-
 
 (2) Die Prüfung ist schriftlich und mündlich durchzuführen.
 
@@ -326,7 +251,6 @@ ausreichende Leistungen in jedem der Prüfungsfächer nach Absatz 1 Nr.
 
 
 ## 3. Abschnitt - Übergangs- und Schlußvorschriften
-
 
 
 ### § 6 Übergangsvorschrift

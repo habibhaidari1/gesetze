@@ -29,10 +29,7 @@ Bundesstatistik durchgeführt.
 
 1.  vierteljährliche Erhebungen,
 
-
 2.  Zählungen.
-
-
 
 (3) (weggefallen)
 
@@ -43,10 +40,7 @@ Erhebungseinheiten sind selbständige Betriebe und Unternehmen
 
 1.  des zulassungspflichtigen Handwerks nach Anlage A und
 
-
 2.  des zulassungsfreien Handwerks nach Anlage B Abschnitt 1
-
-
 
 der Handwerksordnung.
 
@@ -62,19 +56,13 @@ Verwaltungsdatenverwendungsgesetzes übermittelt werden.
 
 1.  Umsatz im abgelaufenen Kalendervierteljahr,
 
-
 2.  Zahl der tätigen Personen zum Ende des abgelaufenen
     Kalendervierteljahres,
-
 
 3.  hauptsächlich ausgeübtes Gewerbe nach der Anlage A oder der Anlage B
     Abschnitt 1 der Handwerksordnung,
 
-
 4.  ausgeübte wirtschaftliche Tätigkeiten und deren Schwerpunkt.
-
-
-
 
 (3) Die Erhebungsmerkmale nach Absatz 2 Nr. 1 und 2 werden
 vierteljährlich erfaßt, die Erhebungsmerkmale nach den Nummern 3 und 4
@@ -85,9 +73,9 @@ zum Ende jedes dritten Kalendervierteljahres.
 
 ## § 4 Zählungen im Handwerk
 
-Für die Zählungen nach § 1 Abs. 2 Nr. 2 werden jährlich, beginnend
-2009, für die Erhebungseinheiten nach § 2 Angaben aus dem
-Statistikregister und Angaben, die nach § 3 Nr. 4 des
+Für die Zählungen nach § 1 Abs. 2 Nr. 2 werden jährlich,
+beginnend 2009, für die Erhebungseinheiten nach § 2 Angaben
+aus dem Statistikregister und Angaben, die nach § 3 Nr. 4 des
 Verwaltungsdatenverwendungsgesetzes übermittelt werden, ausgewertet.
 
 
@@ -108,8 +96,8 @@ Landesbehörden dürfen für die Verwendung gegenüber den gesetzgebenden
 Körperschaften und für Zwecke der Planung, jedoch nicht für die
 Regelung von Einzelfällen, vom Statistischen Bundesamt und den
 statistischen Ämtern der Länder Tabellen mit statistischen Ergebnissen
-übermittelt werden, auch soweit Tabellenfelder nur einen einzigen Fall
-aufweisen.
+übermittelt werden, auch soweit Tabellenfelder nur einen einzigen
+Fall aufweisen.
 
 
 ## § 8 (weggefallen)

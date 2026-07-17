@@ -1,6 +1,5 @@
 ---
-Title: Erlaß über die Genehmigung einer Änderung der Stiftungsbestimmungen und der
-  Verleihungsbedingungen für das Ehrenzeichen des Technischen Hilfswerks
+Title: Erlaß über die Genehmigung einer Änderung der Stiftungsbestimmungen und der Verleihungsbedingungen für das Ehrenzeichen des Technischen Hilfswerks
 jurabk: THWEhrZÄndErl
 layout: default
 origslug: thwehrz_nderl
@@ -17,7 +16,6 @@ Fundstelle
 :   BGBl I: 1990, 1437
 
 
-
 ## (XXXX)
 
 Der Bundesminister des Innern hat am 13. Juni 1990 den Erlaß vom 17.
@@ -30,6 +28,7 @@ und Verleihung von Orden und Ehrenzeichen vom 2. September 1975 (BGBl.
 I S. 2479) genehmige ich diese Neufassungen.
 Der Bundesminister des Innern veröffentlicht die Neufassungen des
 Stiftungserlasses und der Verleihungsbedingungen im Bundesanzeiger.
+
 Der Bundespräsident
 Der Bundesminister des Innern
 

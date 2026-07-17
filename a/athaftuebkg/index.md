@@ -1,9 +1,5 @@
 ---
-Title: Gesetz zu dem Übereinkommen vom 29. Juli 1960 über die Haftung gegenüber Dritten
-  auf dem Gebiet der Kernenergie nebst Zusatzvereinbarungen, zu dem Übereinkommen
-  vom 25. Mai 1962 über die Haftung der Inhaber von Reaktorschiffen nebst Zusatzprotokoll
-  und zu dem Übereinkommen vom 17. Dezember 1971 über die zivilrechtliche Haftung
-  bei der Beförderung von Kernmaterial auf See
+Title: Gesetz zu dem Übereinkommen vom 29. Juli 1960 über die Haftung gegenüber Dritten auf dem Gebiet der Kernenergie nebst Zusatzvereinbarungen, zu dem Übereinkommen vom 25. Mai 1962 über die Haftung der Inhaber von Reaktorschiffen nebst Zusatzprotokoll und zu dem Übereinkommen vom 17. Dezember 1971 über die zivilrechtliche Haftung bei der Beförderung von Kernmaterial auf See
 jurabk: AtHaftÜbkG
 layout: default
 origslug: athaft_bkg
@@ -31,47 +27,40 @@ Den folgenden Übereinkommen wird zugestimmt:
     unterzeichneten Übereinkommen über die Haftung gegenüber Dritten auf
     dem Gebiet der Kernenergie (Pariser Übereinkommen),
 
-
 2.  dem in Brüssel am 25. Oktober 1974 von der Bundesrepublik Deutschland
     unterzeichneten Übereinkommen vom 25. Mai 1962 über die Haftung der
     Inhaber von Reaktorschiffen (Brüsseler Reaktorschiff-Übereinkommen)
     sowie dem dazugehörigen Zusatzprotokoll vom selben Tage,
 
-
 3.  dem in Brüssel am 31. Januar 1963 von der Bundesrepublik Deutschland
-    unterzeichneten Zusatzübereinkommen zum Pariser Übereinkommen vom 29.
-    Juli 1960 über die Haftung gegenüber Dritten auf dem Gebiet der
+    unterzeichneten Zusatzübereinkommen zum Pariser Übereinkommen vom
+    29\. Juli 1960 über die Haftung gegenüber Dritten auf dem Gebiet der
     Kernenergie (Brüsseler Zusatzübereinkommen),
-
 
 4.  dem in Paris am 28. Januar 1964 von der Bundesrepublik Deutschland
     unterzeichneten Zusatzprotokoll zum Übereinkommen vom 29. Juli 1960
     über die Haftung gegenüber Dritten auf dem Gebiet der Kernenergie,
-
 
 5.  dem in Paris am 28. Januar 1964 von der Bundesrepublik Deutschland
     unterzeichneten Zusatzprotokoll zum Zusatzübereinkommen vom 31. Januar
     1963 zum Pariser Übereinkommen vom 29. Juli 1960 über die Haftung
     gegenüber Dritten auf dem Gebiet der Kernenergie und
 
-
 6.  dem in Brüssel am 17. Dezember 1971 von der Bundesrepublik Deutschland
-    unterzeichneten Übereinkommen über die zivilrechtliche Haftung bei der
-    Beförderung von Kernmaterial auf See (Brüsseler Kernmaterial-
+    unterzeichneten Übereinkommen über die zivilrechtliche Haftung bei
+    der Beförderung von Kernmaterial auf See (Brüsseler Kernmaterial-
     Seetransport-Übereinkommen).
-
-
 
 Die Übereinkommen werden nachstehend veröffentlicht.
 
 
 ## Art 1a
 
-Die Umrechnung der in Artikel III Abs. 4 Satz 1 des Übereinkommens vom
-25\. Mai 1962 über die Haftung der Inhaber von Reaktorschiffen
-genannten Rechnungseinheit im Werte von 65 1/2 Milligramm Gold von
-900/1.000 Feingehalt in Euro wird über das Sonderziehungsrecht des
-Internationalen Währungsfonds vorgenommen, wobei fünfzehn
+Die Umrechnung der in Artikel III Abs. 4 Satz 1 des Übereinkommens
+vom 25. Mai 1962 über die Haftung der Inhaber von Reaktorschiffen
+genannten Rechnungseinheit im Werte von 65 1/2 Milligramm Gold
+von 900/1.000 Feingehalt in Euro wird über das Sonderziehungsrecht
+des Internationalen Währungsfonds vorgenommen, wobei fünfzehn
 Werteinheiten einem Sonderziehungsrecht entsprechen. Der in
 Sonderziehungsrechten ausgedrückte Wert des Euro wird nach der
 Berechnungsmethode ermittelt, die der Internationale Währungsfonds für
@@ -95,22 +84,17 @@ die folgende Voraussetzungen erfüllen:
     menschlichen Lebens auf See (Bundesgesetzbl. 1965 II S. 465 und 480)
     in der jeweils geltenden Fassung inhaltlich entsprechen.
 
-
 2.  Die haftungsrechtlichen Bestimmungen müssen Artikel I Nr. 4 bis 8,
-    Artikel II, III Abs. 2, Artikel IV, V Abs. 1 Satz 1 und Abs. 2 bis 4,
-    Artikel VIII, X Abs. 1 und 2 und Artikel XI Abs. 4 des Brüsseler
+    Artikel II, III Abs. 2, Artikel IV, V Abs. 1 Satz 1 und Abs. 2 bis
+    4, Artikel VIII, X Abs. 1 und 2 und Artikel XI Abs. 4 des Brüsseler
     Reaktorschiff-Übereinkommens inhaltlich entsprechen und für jedes
     nukleare Ereignis eine Haftungsbeschränkung vorsehen, die mindestens
     dem in Artikel III Abs. 1 und 4 dieses Übereinkommens genannten Betrag
     entspricht und höchstens 500 Millionen Euro beträgt.
 
-
 3.  Die Anwendung des nationalen oder internationalen Rechts über die
     Beschränkung der Reederhaftung auf die Haftung nach der Vereinbarung
     muß ausgeschlossen sein.
-
-
-
 
 
 ## Art 3

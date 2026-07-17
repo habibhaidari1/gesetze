@@ -1,6 +1,5 @@
 ---
-Title: Verordnung zur Änderung und Ergänzung der Sechsten Verordnung zur Durchführung
-  des Bundesentschädigungsgesetzes
+Title: Verordnung zur Änderung und Ergänzung der Sechsten Verordnung zur Durchführung des Bundesentschädigungsgesetzes
 jurabk: BEGDV6ErgVO
 layout: default
 origslug: begdv6ergvo
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 1970, 65
-
 
 
 ## Eingangsformel
@@ -33,8 +31,8 @@ geändert durch das Gesetz vom 25. Juni 1969 (Bundesgesetzblatt I S.
 
 ## § 2
 
-(1) Soweit vor Verkündung dieser Verordnung ein nach § 31 Abs. 2 BEG
-geltend gemachter Anspruch durch unanfechtbaren Bescheid oder
+(1) Soweit vor Verkündung dieser Verordnung ein nach § 31 Abs. 2
+BEG geltend gemachter Anspruch durch unanfechtbaren Bescheid oder
 rechtskräftige gerichtliche Entscheidung mit der Begründung abgelehnt
 worden ist, daß eine Haftstätte nicht als Konzentrationslager im Sinne
 des § 31 Abs. 2 BEG anzusehen sei, kann der Berechtigte einen Antrag

@@ -1,6 +1,5 @@
 ---
-Title: Gesetz über die weitere Finanzierung von Maßnahmen zur Verbesserung der Verkehrsverhältnisse
-  der Gemeinden und des Bundesfernstraßenbaus
+Title: Gesetz über die weitere Finanzierung von Maßnahmen zur Verbesserung der Verkehrsverhältnisse der Gemeinden und des Bundesfernstraßenbaus
 jurabk: VerkFinG 1971
 layout: default
 origslug: verkfing_1971
@@ -29,23 +28,21 @@ beschlossen:
 ## Art 1
 
 
-
-## § 1
+### § 1
 
 -
 
 
-## § 2 (weggefallen)
+### § 2 (weggefallen)
 
 
-## § 3 (weggefallen)
+### § 3 (weggefallen)
 
 
 ## Art 2
 
 
-
-## § 1 Entlastung des öffentlichen Personennahverkehrs mit Kraftfahrzeugen von Mineralölsteuer
+### § 1 Entlastung des öffentlichen Personennahverkehrs mit Kraftfahrzeugen von Mineralölsteuer
 
 (1) Den Inhabern von Verkehrsbetrieben wird eine Betriebsbeihilfe
 gewährt für versteuertes Gasöl sowie für versteuertes Flüssiggas und
@@ -53,18 +50,14 @@ versteuertes Erdgas, das
 
 a)  im öffentlichen Personennahverkehr mit Kraftfahrzeugen im genehmigten
     Linienverkehr nach den §§ 42 und 43 des Personenbeförderungsgesetzes
-    vom 21. März 1961 (Bundesgesetzbl. I S. 241), zuletzt geändert durch
-    das
-    Erste Gesetz zur Reform des Strafrechts vom 25. Juni 1969
-    (Bundesgesetzbl. I S. 645),                    oder
-
+    vom 21. März 1961 (Bundesgesetzbl. I S. 241), zuletzt geändert
+    durch das *Erste Gesetz zur Reform des Strafrechts vom 25. Juni 1969
+    (Bundesgesetzbl. I S. 645),* oder
 
 b)  bei Beförderungen von Schülern nach § 1 Nr. 4 Buchstabe d und von
     Personen nach § 1 Nr. 4 Buchstabe g der Freistellungs-Verordnung vom
     30\. August 1962 (Bundesgesetzbl. I S. 601), geändert durch Verordnung
     vom 16. Juni 1967 (Bundesgesetzbl. I S. 602),
-
-
 
 bis zum 30. Juni 1983 verbraucht worden ist.
 Anträge auf Auszahlung von Betriebsbeihilfen können jeweils nach
@@ -78,22 +71,19 @@ begünstigten Verbrauchergruppen an Gasöl, Flüssiggas und Erdgas für
 die begünstigten Zwecke im vorangegangenen Kalenderjahr. Dabei werden
 für je 100 Kilogramm des Verbrauchs in den Fällen des Absatzes 1
 
-1.  für Gasöl bis zum 30. Juni 1981  49,65 Deutsche Mark, bis zum 30. Juni
-    1982  33,10 Deutsche Mark und bis zum 30. Juni 1983 16,55 Deutsche
+1.  für Gasöl bis zum 30. Juni 1981 49,65 Deutsche Mark, bis zum 30. Juni
+    1982 33,10 Deutsche Mark und bis zum 30. Juni 1983 16,55 Deutsche
     Mark,
 
-
-2.  für Flüssiggas und Erdgas bis zum 30. Juni 1981  61,25 Deutsche Mark,
-    bis zum 30. Juni 1982  40,80 Deutsche Mark und bis zum 30. Juni 1983
+2.  für Flüssiggas und Erdgas bis zum 30. Juni 1981 61,25 Deutsche Mark,
+    bis zum 30. Juni 1982 40,80 Deutsche Mark und bis zum 30. Juni 1983
     20,40 Deutsche Mark
-
-
 
 angesetzt.
 
-(3) Öffentlicher Personennahverkehr im Sinne des Absatzes 1 ist die
-Beförderung von Personen im Verkehr mit Kraftfahrzeugen auf Linien,
-auf denen die Mehrzahl der Beförderungen eine Strecke von 50
+(3) Öffentlicher Personennahverkehr im Sinne des Absatzes 1 ist
+die Beförderung von Personen im Verkehr mit Kraftfahrzeugen auf
+Linien, auf denen die Mehrzahl der Beförderungen eine Strecke von 50
 Kilometern nicht übersteigt.
 
 (4) Die Bundesregierung bestimmt durch Rechtsverordnung das Nähere
@@ -101,9 +91,7 @@ Kilometern nicht übersteigt.
 
 1.  die Abgrenzung der Betriebe im Sinne des Absatzes 1,
 
-
 2.  die Verteilung der Mittel und die Berechnung der Beihilfen sowie
-
 
 3.  das Verfahren. Dabei kann sie den Antragstellern auferlegen, die
     Anträge längstens ein Jahr nach Entstehung des Anspruchs zu stellen,
@@ -111,8 +99,6 @@ Kilometern nicht übersteigt.
     Unterlagen im Betrieb zu gestatten. Die Bundesregierung kann anordnen,
     daß Betriebsbeihilfen zu versagen sind, wenn der Antragsteller die ihm
     nach dem vorstehenden Satz auferlegten Pflichten nicht erfüllt.
-
-
 
 Die Gewährung der Betriebsbeihilfen kann davon abhängig gemacht
 werden, daß diese einen Betrag bis zu 500 Deutsche Mark für den
@@ -126,15 +112,15 @@ beantragt, so entsteht für das auf die Antragstellung folgende Jahr
 kein Anspruch auf Betriebsbeihilfe.
 
 
-## § 2 Übergangsregelung
+### § 2 Übergangsregelung
 
 (1) Für Gasöl, das vor dem Inkrafttreten dieses Gesetzes von einem
 Beihilfeberechtigten bezogen wurde und für das ein Verbilligungsbetrag
-nach Inkrafttreten dieses Gesetzes zu zahlen ist, verbleibt es bei dem
-Verbilligungssatz von 43,65 Deutsche Mark für 100 Kilogramm. Dies gilt
-nicht für das Gasöl, das nach Artikel 1 § 2 Abs. 2 des Gesetzes zur
-Änderung des Mineralölsteuergesetzes 1964 und des Gesetzes über das
-Branntweinmonopol vom 26. Juni 1973 (Bundesgesetzblatt I S. 691)
+nach Inkrafttreten dieses Gesetzes zu zahlen ist, verbleibt es bei
+dem Verbilligungssatz von 43,65 Deutsche Mark für 100 Kilogramm. Dies
+gilt nicht für das Gasöl, das nach Artikel 1 § 2 Abs. 2 des Gesetzes
+zur Änderung des Mineralölsteuergesetzes 1964 und des Gesetzes über
+das Branntweinmonopol vom 26. Juni 1973 (Bundesgesetzblatt I S. 691)
 nachversteuert wurde.
 
 (2) Für Flüssiggas und Erdgas, das vor dem Inkrafttreten dieses
@@ -153,8 +139,8 @@ Das Mehraufkommen an Mineralölsteuer, das sich infolge der Änderung
 des § 2 Abs. 1 des Mineralölsteuergesetzes durch Artikel 1 § 1 dieses
 Gesetzes ergibt, ist in Höhe von einem Viertel zusätzlich zu den
 Mitteln nach Artikel 1 des Straßenbaufinanzierungsgesetzes in der
-Fassung des Gesetzes über die Umstellung der Abgaben auf Mineralöl vom
-20\. Dezember 1963 (Bundesgesetzbl. I S. 995) für Zwecke des
+Fassung des Gesetzes über die Umstellung der Abgaben auf Mineralöl
+vom 20. Dezember 1963 (Bundesgesetzbl. I S. 995) für Zwecke des
 Straßenwesens zu verwenden. Das Mehraufkommen ist im übrigen, soweit
 es - mit Ausnahme der Betriebsbeihilfen für Fahrzeuge der Deutschen
 Bundesbahn und der Deutschen Bundespost - bei Verbrauch
@@ -163,11 +149,9 @@ Bundesbahn und der Deutschen Bundespost - bei Verbrauch
     Kilogramm Gasöl und 61,25 Deutsche Mark je 100 Kilogramm Flüssiggas
     oder Erdgas,
 
-
 2.  bis zum 30. Juni 1982 einen Anteil von 33,10 Deutsche Mark je 100
     Kilogramm Gasöl und 40,80 Deutsche Mark je 100 Kilogramm Flüssiggas
     oder Erdgas,
-
 
 3.  bis zum 30. Juni 1983 einen Anteil von 16,55 Deutsche Mark je 100
     Kilogramm Gasöl und 20,40 Deutsche Mark je 100 Kilogramm Flüssiggas
@@ -175,13 +159,9 @@ Bundesbahn und der Deutschen Bundespost - bei Verbrauch
 
     der nach Artikel 2 § 1 Abs. 1 zu leistenden Betriebsbeihilfen sowie
 
-
 4.  bis zum 31. Dezember 1982 einen Anteil von 20,90 Deutsche Mark und
 
-
 5.  bis zum 31. Dezember 1983 einen Anteil von 16,55 Deutsche Mark
-
-
 
 je 100 Kilogramm Gasöl der Betriebsbeihilfen für schienengebundene
 Fahrzeuge des öffentlichen Personennahverkehrs übersteigt, zusätzlich
@@ -195,17 +175,15 @@ Bestimmungen des Gemeindefinanzierungsgesetzes zu verwenden.
 ## Art 4 u. 5
 
 
-
 ## Art 6
 
 
-
-## § 1
+### § 1
 
 -
 
 
-## § 2 Übergangsregelung
+### § 2 Übergangsregelung
 
 Für Gasöl, das vor Inkrafttreten dieses Gesetzes von einem
 Verbilligungsberechtigten bezogen wurde und für das ein
@@ -218,16 +196,15 @@ Inkrafttreten dieses Gesetzes bezogenes Gasöl entsprechend.
 ## Art 7
 
 
-
-## § 1
+### § 1
 
 -
 
 
-## § 2 Übergangsregelung
+### § 2 Übergangsregelung
 
-Für Gasöl, das vor dem Inkrafttreten dieses Gesetzes von einem
-Beihilfeberechtigten nach der Gasöl-Betriebsbeihilfe-VO-
+Für Gasöl, das vor dem Inkrafttreten dieses Gesetzes von
+einem Beihilfeberechtigten nach der Gasöl-Betriebsbeihilfe-VO-
 Werkfernverkehr vom 20. März 1961 (Bundesgesetzbl. I S. 260) bezogen
 wurde und für das ein Verbilligungsbetrag nach Inkrafttreten dieses
 Gesetzes zu zahlen ist, verbleibt es bei dem Verbilligungssatz von
@@ -238,13 +215,12 @@ Artikel 1 § 2 dieses Gesetzes nachversteuert wurde.
 ## Art 8
 
 
-
-## § 1
+### § 1
 
 -
 
 
-## § 2 Übergangsregelung
+### § 2 Übergangsregelung
 
 Hat die Höhe der zu entrichtenden Kraftfahrzeugsteuer sich auf Grund
 dieses Gesetzes geändert, so ist die Mehrsteuer für die Zeit vom
@@ -260,8 +236,8 @@ Mindersteuer ergibt.
 ## Art 9 - Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 und des § 13 Abs. 1
-des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I
-S. 1) auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses
+des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl.
+I S. 1) auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses
 Gesetzes erlassen werden, gelten im Land Berlin auf Grund des § 14 des
 Dritten Überleitungsgesetzes.
 

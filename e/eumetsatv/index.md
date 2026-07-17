@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Vorrechte und Immunitäten der Europäischen Organisation
-  für die Nutzung von meteorologischen Satelliten (EUMETSAT)
+Title: Verordnung über die Vorrechte und Immunitäten der Europäischen Organisation für die Nutzung von meteorologischen Satelliten (EUMETSAT)
 jurabk: EUMETSATV
 layout: default
 origslug: eumetsatv
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl II: 1989, 701
-
 
 
 ## Eingangsformel
@@ -64,9 +62,9 @@ S. 187) neu gefaßt wurde, auch im Land Berlin.
 (1) Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 (2) Die in Artikel 5 des Protokolls vorgesehenen Steuer- und
-Zollbestimmungen sind mit Wirkung vom 19. Juni 1986 anzuwenden. Soweit
-das Protokoll in Bezug auf Steuern für die Zeit vor Inkrafttreten
-dieser Verordnung anzuwenden ist, sind bereits ergangene
+Zollbestimmungen sind mit Wirkung vom 19. Juni 1986 anzuwenden.
+Soweit das Protokoll in Bezug auf Steuern für die Zeit vor
+Inkrafttreten dieser Verordnung anzuwenden ist, sind bereits ergangene
 Steuerfestsetzungen aufzuheben oder zu ändern.
 
 

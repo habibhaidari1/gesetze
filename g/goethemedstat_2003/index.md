@@ -1,6 +1,5 @@
 ---
-Title: Statut für die Verleihung der Goethe-Medaille des Goethe-Instituts e. V. (gestiftet
-  1954)
+Title: Statut für die Verleihung der Goethe-Medaille des Goethe-Instituts e. V. (gestiftet 1954)
 jurabk: GoetheMedStat 2003
 layout: default
 origslug: goethemedstat_2003
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 2004, 468
-
 
 
 ## Art 1
@@ -47,10 +45,10 @@ Die Verleihung erfolgt jährlich zum 22. März, dem Todestag Goethes.
 
 ## Art 5
 
-Über die Verleihung der Goethe-Medaille stellt die Präsidentin oder
-der Präsident des Goethe-Instituts e. V. eine Urkunde aus. Medaille
-und Urkunde werden in der Bundesrepublik Deutschland durch die
-Präsidentin oder den Präsidenten des Goethe-Instituts e. V., im
+Über die Verleihung der Goethe-Medaille stellt die Präsidentin
+oder der Präsident des Goethe-Instituts e. V. eine Urkunde aus.
+Medaille und Urkunde werden in der Bundesrepublik Deutschland durch
+die Präsidentin oder den Präsidenten des Goethe-Instituts e. V., im
 Ausland durch den Leiter der zuständigen diplomatischen Vertretung in
 Anwesenheit des Vertreters der Zweigstelle des Goethe-Instituts e. V.
 überreicht. Medaille und Urkunde können im Einvernehmen zwischen dem

@@ -16,11 +16,10 @@ Fundstelle
 :   BGBl I: 1957, 281
 
 
-
 ## Eingangsformel
 
-Auf Grund des § 182 Abs. 3 des Bundesgesetzes zur Entschädigung für
-Opfer der nationalsozialistischen Verfolgung
+Auf Grund des § 182 Abs. 3 des Bundesgesetzes zur
+Entschädigung für Opfer der nationalsozialistischen Verfolgung
 (Bundesentschädigungsgesetz) in der Fassung des Gesetzes vom 29. Juni
 1956 (Bundesgesetzbl. I S. 559) wird mit Zustimmung des Bundesrates
 verordnet:
@@ -34,31 +33,17 @@ ihnen nach folgenden Pauschsätzen zu erstatten:
 
 1.  bei Auskünften auf Grund einfacher Ermittlungen
 
-    *   3 Deutsche Mark je Versicherungsschein;
-
-
-
-
+    -   3 Deutsche Mark je Versicherungsschein;
 
 2.  bei Auskünften auf Grund umfangreicher Ermittlungen oder mit
     versicherungstechnischen Berechnungen
 
-    *   6 Deutsche Mark je Versicherungsschein;
-
-
-
-
+    -   6 Deutsche Mark je Versicherungsschein;
 
 3.  bei Auskünften mit versicherungstechnischen Berechnungen in besonders
     schwierigen Fällen mit nachweislich erhöhtem Kostenaufwand
 
-    *   9 Deutsche Mark je Versicherungsschein.
-
-
-
-
-
-
+    -   9 Deutsche Mark je Versicherungsschein.
 
 (2) Bei Auskünften über die für den Berechtigten günstigere
 Entschädigung gemäß § 128 Abs. 3 und § 129 Abs. 3 des
@@ -70,8 +55,8 @@ Bundesentschädigungsgesetzes erhöhen sich die Pauschsätze nach Absatz
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 4\. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit § 240 des
-Bundesentschädigungsgesetzes auch im Land Berlin;
-sie gilt nicht im Saarland.
+Bundesentschädigungsgesetzes auch im Land Berlin; *sie gilt nicht
+im Saarland.*
 
 
 ## § 3

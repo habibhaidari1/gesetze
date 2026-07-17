@@ -19,11 +19,10 @@ Geändert durch
 :   Art. 5 G v. 4.8.2019 I 1147
 
 
-
 ## Eingangsformel
 
-Auf Grund der §§ 27 und 50 Abs. 1 Nr. 7 des Wehrpflichtgesetzes in der
-Fassung der Bekanntmachung vom 15. Dezember 1995 (BGBl. I S. 1756)
+Auf Grund der §§ 27 und 50 Abs. 1 Nr. 7 des Wehrpflichtgesetzes in
+der Fassung der Bekanntmachung vom 15. Dezember 1995 (BGBl. I S. 1756)
 verordnet die Bundesregierung:
 
 
@@ -59,25 +58,25 @@ Behandlungen und Begutachtungen. Sie ist Bestandteil der Personalakte
 und in einem als Arztsache gekennzeichneten verschlossenen Umschlag
 aufzubewahren.
 
-(2) Zugang zu der Gesundheitsakte haben der Musterungsarzt und sein
-Hilfspersonal sowie deren Fachvorgesetzte, wenn dies für die
+(2) Zugang zu der Gesundheitsakte haben der Musterungsarzt und
+sein Hilfspersonal sowie deren Fachvorgesetzte, wenn dies für die
 Durchführung ihrer Aufgaben erforderlich ist. Ärzten und medizinischen
 Einrichtungen, die wegen einer zu treffenden Tauglichkeitsentscheidung
 mit der Durchführung von Zusatzuntersuchungen betraut werden, kann im
 erforderlichen Umfang ebenfalls Zugang zu der Gesundheitsakte gewährt
 werden.
 
-(3) Über das Ergebnis der musterungsärztlichen Untersuchung zur
-Feststellung der Wehrdienstfähigkeit einschließlich der aus diesem
-Anlaß durchgeführten fachärztlichen Untersuchungen hat der
+(3) Über das Ergebnis der musterungsärztlichen Untersuchung
+zur Feststellung der Wehrdienstfähigkeit einschließlich der aus
+diesem Anlaß durchgeführten fachärztlichen Untersuchungen hat der
 Musterungsarzt dem Leiter des Karrierecenters der Bundeswehr oder den
 von diesem Beauftragten in dem Maße Auskunft zu erteilen, wie es für
 die Verfügbarkeitsentscheidung für den Wehrdienst erforderlich ist.
 Dies gilt für das Widerspruchsverfahren entsprechend.
 
 (4) Für den Leiter des Psychologischen Dienstes des Karrierecenters
-der Bundeswehr und die Fachkräfte im Psychologischen Dienst sowie für
-deren Fachvorgesetzte gelten die Absätze 1 bis 3 hinsichtlich des
+der Bundeswehr und die Fachkräfte im Psychologischen Dienst sowie
+für deren Fachvorgesetzte gelten die Absätze 1 bis 3 hinsichtlich des
 Umgangs mit psychologischen Unterlagen der Eignungsuntersuchung und
 Eignungsfeststellung entsprechend.
 
@@ -87,29 +86,29 @@ Eignungsfeststellung entsprechend.
 (1) Die Personalakte des Wehrpflichtigen ist so lange aufzubewahren,
 wie dies zur Erfüllung der Wehrpflicht erforderlich ist, längstens bis
 zum Ablauf des Jahres, in dem der Wehrpflichtige das 45. Lebensjahr
-vollendet. Im Falle der Wehrdienstunfähigkeit, des Ausschlusses oder
-der Befreiung vom Wehrdienst ist die Personalakte längstens bis zum
-Ablauf von fünf Jahren nach Eintritt der Wehrdienstausnahme
+vollendet. Im Falle der Wehrdienstunfähigkeit, des Ausschlusses
+oder der Befreiung vom Wehrdienst ist die Personalakte längstens
+bis zum Ablauf von fünf Jahren nach Eintritt der Wehrdienstausnahme
 aufzubewahren. Die Aufbewahrungsfrist endet ferner mit dem Tod des
 Wehrpflichtigen.
 
-(2) Nach Ablauf der Aufbewahrungsfrist ist die Personalakte dem
-Bundesarchiv - Militärarchiv - zur Übernahme anzubieten.
-Personalakten, die nicht archiviert werden, sind zu vernichten, sofern
-nicht nach anderen Vorschriften eine längere Aufbewahrungsfrist
+(2) Nach Ablauf der Aufbewahrungsfrist ist die Personalakte
+dem Bundesarchiv - Militärarchiv - zur Übernahme anzubieten.
+Personalakten, die nicht archiviert werden, sind zu vernichten,
+sofern nicht nach anderen Vorschriften eine längere Aufbewahrungsfrist
 vorgesehen ist.
 
 (3) Die Gesundheitsakte ist längstens bis zum Ablauf des Jahres
 aufzubewahren, in dem der Wehrpflichtige das 45. Lebensjahr vollendet,
 sofern nicht nach anderen Vorschriften eine längere Aufbewahrungsfrist
 vorgesehen ist. Die Gesundheitsakte kann nach Ende der Wehrüberwachung
-zentral dem Institut für Präventivmedizin der Bundeswehr zur Erfüllung
-der ärztlichen Dokumentationspflicht und zum Zwecke der
+zentral dem Institut für Präventivmedizin der Bundeswehr zur
+Erfüllung der ärztlichen Dokumentationspflicht und zum Zwecke der
 Beweissicherung übermittelt und dort aufbewahrt werden. Nach Ablauf
 der Aufbewahrungsfrist sind sie zu vernichten.
 
-(4) Personenbezogene Daten über psychologische Untersuchungen und
-Tests, die zur Überprüfung der getroffenen psychologischen
+(4) Personenbezogene Daten über psychologische Untersuchungen
+und Tests, die zur Überprüfung der getroffenen psychologischen
 Eignungsfeststellungen aufbewahrt werden, sind zu vernichten, wenn
 ihre Kenntnis für dienstliche Zwecke nicht mehr erforderlich ist,
 spätestens nach Ablauf des Jahres, in dem der Wehrpflichtige das 45.
@@ -134,8 +133,8 @@ automatisiert nur im Rahmen ihrer Zweckbestimmung und nur von den
 dem jeweiligen Dienst verarbeitet und genutzt werden.
 
 (3) Für die Löschung der Daten in automatisierten Dateien gelten die
-gleichen Fristen wie für die Vernichtung der entsprechenden Akten oder
-Aktenteile.
+gleichen Fristen wie für die Vernichtung der entsprechenden Akten
+oder Aktenteile.
 
 (4) Bei erstmaliger Speicherung ist dem Wehrpflichtigen die Art der
 über ihn gespeicherten Daten mitzuteilen. Bei wesentlichen Änderungen
@@ -165,9 +164,9 @@ Vollmacht des Wehrpflichtigen gewährt werden.
 ## § 7
 
 Personenbezogene medizinische Daten, die im Rahmen der Untersuchungen
-nach dem Wehrpflichtgesetz in zivilen medizinischen Einrichtungen oder
-von zivilen Ärzten erhoben werden, dürfen den Zahlung leistenden
-Stellen offenbart werden, soweit dies zur Kostenabrechnung
+nach dem Wehrpflichtgesetz in zivilen medizinischen Einrichtungen
+oder von zivilen Ärzten erhoben werden, dürfen den Zahlung
+leistenden Stellen offenbart werden, soweit dies zur Kostenabrechnung
 erforderlich ist.
 
 

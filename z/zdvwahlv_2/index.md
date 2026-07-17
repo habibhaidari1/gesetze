@@ -16,22 +16,21 @@ Fundstelle
 :   BGBl I: 2002, 1011
 
 
-
 ## Eingangsformel
 
 Auf Grund des § 2 Abs. 5 des Zivildienstvertrauensmann-Gesetzes vom
-16\. Januar 1991 (BGBl. I S. 47, 53), der zuletzt durch Artikel 1 Nr. 1
-Buchstabe b des Gesetzes vom 27. September 2000 (BGBl. I S. 1393)
+16\. Januar 1991 (BGBl. I S. 47, 53), der zuletzt durch Artikel 1 Nr.
+1 Buchstabe b des Gesetzes vom 27. September 2000 (BGBl. I S. 1393)
 geändert wurde, verordnet das Bundesministerium für Familie, Senioren,
 Frauen und Jugend:
 
 
 ## § 1 Wahlbereiche
 
-Die Zivildienstleistenden (Dienstleistenden) wählen in einer
-Dienststelle oder in einem Lehrgang mit fünf bis zu 20
-Dienstleistenden je einen Vertrauensmann und einen Stellvertreter, in
-einer Dienststelle oder in einem Lehrgang mit 21 und mehr
+Die Zivildienstleistenden (Dienstleistenden) wählen in
+einer Dienststelle oder in einem Lehrgang mit fünf bis zu 20
+Dienstleistenden je einen Vertrauensmann und einen Stellvertreter,
+in einer Dienststelle oder in einem Lehrgang mit 21 und mehr
 Dienstleistenden je einen Vertrauensmann und zwei Stellvertreter. Für
 Lehrgänge entfällt die Wahl, wenn die voraussichtliche Amtsdauer des
 Vertrauensmannes bis zur Beendigung des Lehrgangs weniger als zehn
@@ -51,19 +50,19 @@ dienstlichen Gründen abweichen.
 vorzeitiger Beendigung des Amtes des Vertrauensmannes kein
 Stellvertreter mehr vorhanden, beruft die Leitung der Dienststelle
 unverzüglich eine Versammlung der Wahlberechtigten zur Wahl des
-Wahlvorstandes ein. Die Wahl erfolgt durch Handaufheben. Die Leitung
-der Dienststelle bestellt diejenigen Wahlberechtigten als
+Wahlvorstandes ein. Die Wahl erfolgt durch Handaufheben. Die
+Leitung der Dienststelle bestellt diejenigen Wahlberechtigten als
 Wahlvorstand, die die meisten Stimmen erhalten haben. Zum Vorsitzenden
 wird das Mitglied des Wahlvorstandes bestellt, das die höchste
 Stimmenzahl erhalten hat. Absatz 1 Satz 2 gilt entsprechend.
 
-(3) Die Leiterin oder der Leiter eines Lehrgangs soll möglichst am
-ersten Tag des Lehrgangs eine Versammlung der Wahlberechtigten zur
-Wahl des Wahlvorstandes einberufen. Absatz 2 Satz 2 bis 5 gilt
+(3) Die Leiterin oder der Leiter eines Lehrgangs soll möglichst
+am ersten Tag des Lehrgangs eine Versammlung der Wahlberechtigten
+zur Wahl des Wahlvorstandes einberufen. Absatz 2 Satz 2 bis 5 gilt
 entsprechend.
 
-(4) Ist nach einem Wahlvorgang kein Vertrauensmann gewählt, beruft die
-Leitung der Dienststelle, bei Lehrgängen die Lehrgangsleitung,
+(4) Ist nach einem Wahlvorgang kein Vertrauensmann gewählt, beruft
+die Leitung der Dienststelle, bei Lehrgängen die Lehrgangsleitung,
 unverzüglich erneut eine Versammlung der Wahlberechtigten zur Wahl des
 Wahlvorstandes nach den Vorschriften der Absätze 2 und 3 ein.
 
@@ -85,31 +84,21 @@ bekannt
 
 1.  die Namen seiner Mitglieder,
 
-
 2.  wo und wann das Wählerverzeichnis zur Einsicht ausliegt,
-
 
 3.  die Frist für Einsprüche gegen das Wählerverzeichnis,
 
-
 4.  den Ort und die Zeit der Versammlung der Wahlberechtigten zur Wahl des
     Vertrauensmannes und der Stellvertreter.
-
-
-
 
 (2) Bei der Bekanntgabe nach Absatz 1 ist darauf hinzuweisen, dass
 
 1.  nur Dienstleistende wählen und gewählt werden können, die in das
     Wählerverzeichnis eingetragen sind,
 
-
 2.  Einsprüche gegen das Wählerverzeichnis nur bis zum angegebenen
     Zeitpunkt schriftlich oder zur Niederschrift beim Wahlvorstand
     eingelegt werden können.
-
-
-
 
 
 ## § 5 Wählerverzeichnis
@@ -146,26 +135,26 @@ eingetragen ist.
 (2) An der Versammlung zur Wahl des Vertrauensmannes und der
 Stellvertreter nehmen die Wahlberechtigten und die Leitung der
 Dienststelle oder des Lehrgangs teil. Sie wird vom Wahlvorstand
-geleitet. Die Wahl des Vertrauensmannes und der Stellvertreter darf
-nur vorgenommen werden, wenn mindestens die Hälfte der
+geleitet. Die Wahl des Vertrauensmannes und der Stellvertreter
+darf nur vorgenommen werden, wenn mindestens die Hälfte der
 Wahlberechtigten anwesend ist.
 
-(3) Nach Eröffnung der Versammlung der Wahlberechtigten kann jeder
-anwesende Wahlberechtigte einen oder mehrere Dienstleistende mündlich
-oder schriftlich zur Wahl als Vertrauensmann vorschlagen. Nach
-Entgegennahme der Wahlvorschläge stellt der Vorsitzende des
-Wahlvorstandes fest, welcher der vorgeschlagenen Dienstleistenden sich
-zur Wahl stellt. Er gibt die Namen der Bewerber in alphabetischer
+(3) Nach Eröffnung der Versammlung der Wahlberechtigten kann
+jeder anwesende Wahlberechtigte einen oder mehrere Dienstleistende
+mündlich oder schriftlich zur Wahl als Vertrauensmann vorschlagen.
+Nach Entgegennahme der Wahlvorschläge stellt der Vorsitzende des
+Wahlvorstandes fest, welcher der vorgeschlagenen Dienstleistenden
+sich zur Wahl stellt. Er gibt die Namen der Bewerber in alphabetischer
 Reihenfolge bekannt. Die Leitung der Dienststelle oder des Lehrgangs
-äußern sich, ob die vorgeschlagenen Dienstleistenden nach § 2 Abs. 3
-des Zivildienstvertrauensmann-Gesetzes wählbar sind. Wird nur ein
+äußern sich, ob die vorgeschlagenen Dienstleistenden nach § 2 Abs.
+3 des Zivildienstvertrauensmann-Gesetzes wählbar sind. Wird nur ein
 wählbarer Dienstleistender, in Dienststellen oder bei Lehrgängen mit
 21 und mehr Wahlberechtigten weniger als drei wählbare Dienstleistende
 benannt, ist den Wahlberechtigten Gelegenheit zu geben, weitere
 Vorschläge zu machen.
 
-(4) Steht nur ein Bewerber zur Wahl, gilt dieser als gewählt, wenn
-nicht mindestens die Hälfte der anwesenden Wahlberechtigten
+(4) Steht nur ein Bewerber zur Wahl, gilt dieser als gewählt,
+wenn nicht mindestens die Hälfte der anwesenden Wahlberechtigten
 widerspricht. In diesem Fall kann eine Wahl erst durchgeführt werden,
 wenn ein weiterer Bewerber vorgeschlagen ist.
 
@@ -178,8 +167,8 @@ in einem Umschlag ab. Die Stimmzettel und Umschläge haben jeweils das
 gleiche Aussehen.
 
 (6) Der Wahlvorstand sorgt dafür, dass die Stimmzettel unbeobachtet
-gekennzeichnet und in die Umschläge gesteckt werden können und dass
-das Wahlgeheimnis gewahrt bleibt. Die Stimmabgabe ist im
+gekennzeichnet und in die Umschläge gesteckt werden können und
+dass das Wahlgeheimnis gewahrt bleibt. Die Stimmabgabe ist im
 Wählerverzeichnis zu vermerken.
 
 
@@ -201,9 +190,9 @@ Androhen von Nachteilen beeinflusst werden.
 
 ## § 10 Feststellung des Wahlergebnisses
 
-(1) Unverzüglich nach Abschluss der Wahl nimmt der Wahlvorstand die
-Auszählung der Stimmen vor und stellt das Wahlergebnis fest. Er
-entscheidet über die Gültigkeit der Stimmzettel. Jeder
+(1) Unverzüglich nach Abschluss der Wahl nimmt der Wahlvorstand
+die Auszählung der Stimmen vor und stellt das Wahlergebnis
+fest. Er entscheidet über die Gültigkeit der Stimmzettel. Jeder
 Wahlberechtigte, die Leitung der Dienststelle oder des Lehrgangs kann
 bei der Auszählung anwesend sein. Die Leitung der Dienststelle kann
 auch eine Vertreterin oder einen Vertreter benennen.
@@ -214,9 +203,9 @@ Dienstleistende bezeichnet sind oder aus denen sich der Wille des
 Wählers nicht zweifelsfrei ergibt oder die ein besonderes Merkmal,
 einen Zusatz oder einen Vorbehalt enthalten.
 
-(3) Zum Vertrauensmann ist gewählt, wer die meisten gültigen Stimmen
-erhalten hat. Zu Stellvertretern sind in der Reihenfolge der
-erreichten Stimmenzahlen die Dienstleistenden gewählt, die die
+(3) Zum Vertrauensmann ist gewählt, wer die meisten gültigen
+Stimmen erhalten hat. Zu Stellvertretern sind in der Reihenfolge
+der erreichten Stimmenzahlen die Dienstleistenden gewählt, die die
 nächstniedrigeren Stimmenzahlen erhalten haben. Bei Stimmengleichheit
 entscheidet das höhere Lebensalter. Die Wahl gilt als angenommen, wenn
 der Gewählte sie nicht unverzüglich ablehnt. Lehnt der Gewählte die
@@ -232,24 +221,17 @@ die von seinen Mitgliedern zu unterzeichnen ist. Sie muss enthalten
 
 1.  die Zahl der Wahlberechtigten,
 
-
 2.  die Namen der wählbaren Bewerber,
-
 
 3.  die Zahl der gültigen und ungültigen Stimmen,
 
-
 4.  die Zahl der auf die Bewerber jeweils entfallenen gültigen Stimmen und
-
 
 5.  die Namen des gewählten Vertrauensmannes und der Stellvertreter.
 
-
-
-
 (2) Besondere Vorkommnisse bei der Wahlhandlung oder der Feststellung
-des Wahlergebnisses sind vom Wahlvorstand in der Wahlniederschrift zu
-vermerken.
+des Wahlergebnisses sind vom Wahlvorstand in der Wahlniederschrift
+zu vermerken.
 
 
 ## § 12 Bekanntgabe der Gewählten, Aufbewahren der Wahlunterlagen

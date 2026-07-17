@@ -29,22 +29,18 @@ nach Maßgabe des Absatzes 2 zu gewähren, wenn und soweit
     Deckung der nach Absatz 2 Satz 2 zu errechnenden Kosten nicht
     ausreicht und
 
-
-2.  die Eisenbahn innerhalb eines angemessenen Zeitraums die Zustimmung zu
-    einer Anpassung der von ihr erhobenen Tarife an die Ertrags- und
+2.  die Eisenbahn innerhalb eines angemessenen Zeitraums die Zustimmung
+    zu einer Anpassung der von ihr erhobenen Tarife an die Ertrags- und
     Kostenlage beantragt hat.
 
-
-
-
 (2) Als Ausgleich werden gewährt 50 vom Hundert des
-Unterschiedsbetrags zwischen dem Ertrag, der für Beförderungen nach
-Absatz 1 erzielt worden ist, und dem Produkt aus den für diese
-Beförderungen geleisteten Personen-Kilometern und den
+Unterschiedsbetrags zwischen dem Ertrag, der für Beförderungen
+nach Absatz 1 erzielt worden ist, und dem Produkt aus den für
+diese Beförderungen geleisteten Personen-Kilometern und den
 durchschnittlichen verkehrsspezifischen Kosten. Als durchschnittliche
 verkehrsspezifische Kosten im Sinne dieser Vorschrift gelten die
-Kostensätze je Personen-Kilometer, die von den Landesregierungen oder
-den von ihnen durch Rechtsverordnung ermächtigten Behörden durch
+Kostensätze je Personen-Kilometer, die von den Landesregierungen
+oder den von ihnen durch Rechtsverordnung ermächtigten Behörden durch
 Rechtsverordnungen nach Durchschnittswerten einzelner repräsentativer
 Unternehmen, die sparsam wirtschaften und leistungsfähig sind,
 pauschal festgelegt werden; dabei können entsprechend betrieblichen
@@ -101,7 +97,6 @@ erforderlichen Ermittlungen anstellen, insbesondere
 
 1.  Einsicht in die Bücher und Geschäftspapiere nehmen,
 
-
 2.  von den im Geschäftsbetrieb der Eisenbahn tätigen Personen Auskunft
     verlangen. Der zur Erteilung der Auskunft Verpflichtete kann die
     Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst
@@ -110,14 +105,12 @@ erforderlichen Ermittlungen anstellen, insbesondere
     eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen
     würde.
 
-
-
 Zu den im Satz 1 genannten Zwecken dürfen die dem Geschäftsbetrieb
 dienenden Grundstücke und Räume innerhalb der üblichen Geschäfts- und
 Arbeitsstunden betreten werden. Die im Geschäftsbetrieb der Eisenbahn
 tätigen Personen haben den Beauftragten bei den Ermittlungen die
-erforderlichen Hilfsmittel zu stellen und die nötigen Hilfsdienste zu
-leisten.
+erforderlichen Hilfsmittel zu stellen und die nötigen Hilfsdienste
+zu leisten.
 
 
 ## § 6g Sonderregelung

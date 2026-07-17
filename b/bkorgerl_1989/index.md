@@ -19,7 +19,6 @@ Geändert durch
 :   Ziff. V d. Organisationserlasses v. 14.3.2018 I 374
 
 
-
 ## I.
 
 Der Bundesnachrichtendienst wird dem Chef des Bundeskanzleramtes
@@ -32,8 +31,8 @@ Abteilungsleiter im Bundeskanzleramt.
 Zum Beauftragten für die Nachrichtendienste wird ein Staatsminister
 oder Staatssekretär im Geschäftsbereich des Bundeskanzlers und des
 Bundeskanzleramtes bestellt.
-Sein Vertreter ist ein Abteilungsleiter im Bundeskanzleramt. Die von
-diesem geleitete Abteilung unterstützt den Beauftragten bei der
+Sein Vertreter ist ein Abteilungsleiter im Bundeskanzleramt. Die
+von diesem geleitete Abteilung unterstützt den Beauftragten bei der
 Erfüllung seiner Aufgaben.
 
 
@@ -61,49 +60,34 @@ Zusammenarbeit mit anderen Behörden und Dienststellen.
     a)  der Vorsitz des "Staatssekretärausschusses für das geheime
         Nachrichtenwesen und die Sicherheit";
 
-
     b)  die Mitwirkung bei der parlamentarischen Behandlung der
         Haushaltsangelegenheiten der drei Dienste;
 
-
     c)  die Koordinierung der Vorbereitung von Sitzungen der Parlamentarischen
         Kontrollkommission.
-
-
-
-
 
 2.  Im Rahmen seiner Koordinierungstätigkeit hat der Beauftragte folgende
     Befugnisse:
 
     a)  das Recht, von den Ressorts und von den Nachrichtendiensten des Bundes
         Auskünfte über die Arbeitsmethodik, das Informations- und Karteiwesen,
-        die Organisation, die Haushaltsplanung und Personalstrukturplanung zu
-        verlangen;
-
+        die Organisation, die Haushaltsplanung und Personalstrukturplanung
+        zu verlangen;
 
     b)  das Recht, für den Bereich der Zusammenarbeit der Dienste Maßnahmen
         vorzuschlagen;
-
 
     c)  das Recht zur Beteiligung an Gesetzesvorhaben und an der Ausarbeitung
         von Vorschriften, die einen der Nachrichtendienste des Bundes oder die
         drei Dienste oder ihre Zusammenarbeit mit anderen Stellen betreffen;
 
-
     d)  das Recht zu unmittelbaren Besprechungen mit den Leitern der Dienste
         und deren Vertretern; die dienstaufsichtsführenden Ressorts können an
         derartigen Besprechungen teilnehmen.
 
-
-
-
     Den dienstaufsichtsführenden Ressorts ist von allen an die Dienste
     gerichteten Auskunftsersuchen und dem sonstigen Schriftwechsel
     mindestens gleichzeitig Kenntnis zu geben.
-
-
-
 
 
 ## IV.

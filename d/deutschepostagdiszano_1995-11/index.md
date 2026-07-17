@@ -1,6 +1,5 @@
 ---
-Title: Anordnung zur Übertragung disziplinarrechtlicher Befugnisse im Bereich der
-  Deutschen Post AG
+Title: Anordnung zur Übertragung disziplinarrechtlicher Befugnisse im Bereich der Deutschen Post AG
 jurabk: DeutschePostAGDiszAnO 1995-11
 layout: default
 origslug: deutschepostagdiszano_1995-11
@@ -17,12 +16,11 @@ Fundstelle
 :   BGBl I: 1995, 1668
 
 
-
 ## Eingangsformel
 
-Auf Grund des § 15 Abs. 2 der Bundesdisziplinarordnung in der Fassung
-der Bekanntmachung vom 20. Juli 1967 (BGBl. I S. 750) in Verbindung
-mit § 1 Abs. 2 Satz 2, Abs. 2 und Abs. 5 Satz 1 des
+Auf Grund des § 15 Abs. 2 der Bundesdisziplinarordnung in der
+Fassung der Bekanntmachung vom 20. Juli 1967 (BGBl. I S. 750) in
+Verbindung mit § 1 Abs. 2 Satz 2, Abs. 2 und Abs. 5 Satz 1 des
 Postpersonalrechtsgesetzes vom 14. September 1994 (BGBl. I S. 2325,
 2353) wird angeordnet:
 

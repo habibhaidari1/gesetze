@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zu dem Übereinkommen vom 8. April 1959 zur Errichtung der Interamerikanischen
-  Entwicklungsbank
+Title: Gesetz zu dem Übereinkommen vom 8. April 1959 zur Errichtung der Interamerikanischen Entwicklungsbank
 jurabk: IAmEntwBkÜbkG
 layout: default
 origslug: iamentwbk_bkg
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl II: 1976, 37
-
 
 
 ## Eingangsformel
@@ -37,15 +35,15 @@ Vorschriften werden nachstehend veröffentlicht.
 ## Art 2
 
 (1) Zur Erfüllung der Verbindlichkeiten, die der Bundesrepublik
-Deutschland aus dem Beitritt zur Interamerikanischen Entwicklungsbank
-erwachsen, wird die Bundesregierung ermächtigt, vom interregionalen
-Stammkapital einen Anteil von zweiundfünfzig Millionen
-dreihunderttausend US-Dollar zum Gewicht und Feingehalt des Goldes vom
-1\. Januar 1959, davon dreiundvierzig Millionen
-sechshundertsiebzigtausend US-Dollar zum Gewicht und Feingehalt des
-Goldes vom 1. Januar 1959 als abrufbares Stammkapital, zu erwerben und
-zum Fonds für Sondergeschäfte einen Beitrag im DM-Gegenwert von
-dreiundsechzig Millionen einundneunzigtausend
+Deutschland aus dem Beitritt zur Interamerikanischen
+Entwicklungsbank erwachsen, wird die Bundesregierung ermächtigt,
+vom interregionalen Stammkapital einen Anteil von zweiundfünfzig
+Millionen dreihunderttausend US-Dollar zum Gewicht und Feingehalt
+des Goldes vom 1. Januar 1959, davon dreiundvierzig Millionen
+sechshundertsiebzigtausend US-Dollar zum Gewicht und Feingehalt
+des Goldes vom 1. Januar 1959 als abrufbares Stammkapital, zu
+erwerben und zum Fonds für Sondergeschäfte einen Beitrag im DM-
+Gegenwert von dreiundsechzig Millionen einundneunzigtausend
 siebenhunderteinundfünfzig US-Dollar zum Gewicht und Feingehalt des
 Goldes vom 18. Oktober 1973 zu leisten.
 

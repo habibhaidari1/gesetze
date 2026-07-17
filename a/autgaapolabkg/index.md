@@ -1,7 +1,5 @@
 ---
-Title: Gesetz zu dem Abkommen vom 29. Juli 1992 zwischen der Bundesrepublik Deutschland
-  und der Republik Polen über den Autobahnzusammenschluß und den Bau von Grenzabfertigungsanlagen
-  für den neuen Grenzübergang im Raum Görlitz und Zgorzelec
+Title: Gesetz zu dem Abkommen vom 29. Juli 1992 zwischen der Bundesrepublik Deutschland und der Republik Polen über den Autobahnzusammenschluß und den Bau von Grenzabfertigungsanlagen für den neuen Grenzübergang im Raum Görlitz und Zgorzelec
 jurabk: AutGAAPolAbkG
 layout: default
 origslug: autgaapolabkg
@@ -18,7 +16,6 @@ Fundstelle
 :   BGBl II: 1994, 67
 
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
@@ -27,10 +24,10 @@ beschlossen:
 
 ## Art 1
 
-Dem in Warschau am 29. Juli 1992 unterzeichneten Abkommen zwischen der
-Bundesrepublik Deutschland und der Republik Polen über den
-Autobahnzusammenschluß und den Bau von Grenzabfertigungsanlagen für
-den neuen Grenzübergang im Raum Görlitz und Zgorzelec sowie dem
+Dem in Warschau am 29. Juli 1992 unterzeichneten Abkommen zwischen
+der Bundesrepublik Deutschland und der Republik Polen über den
+Autobahnzusammenschluß und den Bau von Grenzabfertigungsanlagen
+für den neuen Grenzübergang im Raum Görlitz und Zgorzelec sowie dem
 dazugehörigen Protokoll vom selben Tage wird zugestimmt. Das Abkommen
 und das Protokoll werden nachstehend veröffentlicht.
 

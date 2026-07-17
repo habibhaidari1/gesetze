@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zu der Verwaltungsvereinbarung vom 26. November 1987 zur Durchführung
-  des Übereinkommens vom 30. November 1979 über die Soziale Sicherheit der Rheinschiffer
+Title: Gesetz zu der Verwaltungsvereinbarung vom 26. November 1987 zur Durchführung des Übereinkommens vom 30. November 1979 über die Soziale Sicherheit der Rheinschiffer
 jurabk: SozSichRheinSchiffÜbkVwVbgG
 layout: default
 origslug: sozsichrheinschiff_bkvwvbgg
@@ -46,22 +45,16 @@ Kraft zu setzen über die
     und 6 der Verwaltungsvereinbarung bezeichneten Versicherungsträger und
     anderen Stellen;
 
-
 2.  Weitergeltung und Ergänzung der im Anhang 5 Teil I der
     Verwaltungsvereinbarung aufzuführenden, für die Bundesrepublik
     Deutschland verbindlichen zwischen- und überstaatlichen Bestimmungen;
 
-
 3.  Änderung und Ergänzung der im Anhang 5 Teil II der
     Verwaltungsvereinbarung aufgeführten Zahlungsvorschriften;
-
 
 4.  Änderung des Anhangs 7 der Verwaltungsvereinbarung über die
     Bezugszeiträume der Familienbeihilfen im Falle eines Wohnortwechsels
     der Berechtigten.
-
-
-
 
 
 ## Art 3
@@ -76,7 +69,7 @@ des Dritten Überleitungsgesetzes.
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 
-(2) Der Tag, an dem die Verwaltungsvereinbarung nach ihrem Artikel 91
-Abs. 1 für die Bundesrepublik Deutschland in Kraft tritt, ist im
+(2) Der Tag, an dem die Verwaltungsvereinbarung nach ihrem Artikel
+91 Abs. 1 für die Bundesrepublik Deutschland in Kraft tritt, ist im
 Bundesgesetzblatt bekanntzugeben.
 

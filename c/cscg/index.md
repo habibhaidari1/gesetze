@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl II: 1976, 253
 
 Zuletzt geändert durch
-:   Art. 12 G v. 8.7.2016 I 1594
+:   Art. 2 G v. 2.3.2023 I Nr. 56
 
 
 ## Eingangsformel
@@ -49,18 +49,18 @@ für die Prüfung, Besichtigung und Zulassung der Container entsprechend
 den in dem Übereinkommen festgelegten Kriterien durch Rechtsverordnung
 mit Zustimmung des Bundesrates vorzuschreiben.
 
-(3) Container ohne gültiges CSC-Sicherheits-Zulassungsschild (Regel 1
-der Anlage I des Übereinkommens) dürfen nicht in den oder aus dem
+(3) Container ohne gültiges CSC-Sicherheits-Zulassungsschild (Regel
+1 der Anlage I des Übereinkommens) dürfen nicht in den oder aus dem
 Geltungsbereich dieses Gesetzes befördert werden. Satz 1 findet von
-dem Zeitpunkt an Anwendung, den das Bundesministerium für Verkehr und
-digitale Infrastruktur durch Rechtsverordnung mit Zustimmung des
+dem Zeitpunkt an Anwendung, den das Bundesministerium für Verkehr
+und digitale Infrastruktur durch Rechtsverordnung mit Zustimmung des
 Bundesrates festlegt.
 
-(4) Die zur Ausführung des Übereinkommens, dieses Gesetzes und der auf
-ihm beruhenden Rechtsverordnungen erforderlichen Allgemeinen
-Verwaltungsvorschriften erläßt das Bundesministerium für Verkehr und
-digitale Infrastruktur mit Zustimmung des Bundesrates. Der Zustimmung
-des Bundesrates bedarf es nicht, soweit die Allgemeinen
+(4) Die zur Ausführung des Übereinkommens, dieses Gesetzes und der
+auf ihm beruhenden Rechtsverordnungen erforderlichen Allgemeinen
+Verwaltungsvorschriften erläßt das Bundesministerium für Verkehr
+und digitale Infrastruktur mit Zustimmung des Bundesrates. Der
+Zustimmung des Bundesrates bedarf es nicht, soweit die Allgemeinen
 Verwaltungsvorschriften an Bundesbehörden gerichtet sind.
 
 
@@ -71,28 +71,28 @@ Verwaltungsvorschriften an Bundesbehörden gerichtet sind.
 
 (2) Zuständig für die Erteilung und Entziehung der Zulassung (Artikel
 IV Abs. 1 des Übereinkommens) sowie für die Kontrolle der Container
-einschließlich der hieraus folgenden Maßnahmen (Artikel IV Abs. 5 und
-Artikel VI des Übereinkommens) sind diejenigen Behörden, die von den
-Landesregierungen oder den von ihnen benannten Stellen bestimmt
-werden. Zu Kontrollen der Container nach Satz 1 sind außerdem das
-Bundesamt für Güterverkehr im Rahmen des § 11 des
-Güterkraftverkehrsgesetzes, die Grenzzollstellen und andere für die
-Kontrolle an der Grenze zuständige Stellen der Zollverwaltung
+einschließlich der hieraus folgenden Maßnahmen (Artikel IV Abs. 5
+und Artikel VI des Übereinkommens) sind diejenigen Behörden, die von
+den Landesregierungen oder den von ihnen benannten Stellen bestimmt
+werden. Zu Kontrollen der Container nach Satz 1 sind außerdem
+das Bundesamt für Logistik und Mobilität im Rahmen des § 11 des
+Güterkraftverkehrsgesetzes, die Grenzzollstellen und andere für
+die Kontrolle an der Grenze zuständige Stellen der Zollverwaltung
 berechtigt.
 
 (3) Wird der Zulassungsantrag nach Artikel IV Abs. 3 des
 Übereinkommens im Geltungsbereich dieses Gesetzes gestellt, so ist die
 Behörde desjenigen Bundeslandes zuständig, in dem der Antragsteller
 seine Hauptniederlassung oder seinen Sitz hat. Bei Hauptniederlassung
-oder Sitz außerhalb des Geltungsbereiches dieses Gesetzes ist die von
-der Freien und Hansestadt Hamburg bestimmte Behörde zuständig.
+oder Sitz außerhalb des Geltungsbereiches dieses Gesetzes ist die
+von der Freien und Hansestadt Hamburg bestimmte Behörde zuständig.
 Antragsteller kann der Hersteller des Containers, der Eigentümer oder
 derjenige sein, für den der Container hergestellt wird.
 
 (4) Zuständig für die Kontrolle der vom Eigentümer durchzuführenden
-Überprüfungen nach Regel 2 der Anlage I des Übereinkommens ist bei
-Containern, deren Eigentümer ihre Hauptniederlassung oder ihren Sitz
-im Geltungsbereich dieses Gesetzes haben, die für die
+Überprüfungen nach Regel 2 der Anlage I des Übereinkommens ist
+bei Containern, deren Eigentümer ihre Hauptniederlassung oder
+ihren Sitz im Geltungsbereich dieses Gesetzes haben, die für die
 Hauptniederlassung oder den Sitz zuständige Kontrollbehörde nach
 Absatz 2 Satz 1.
 
@@ -116,9 +116,9 @@ wenn und soweit dies für eine ordnungsgemäße Zulassung notwendig ist.
 
 (9) Werden Tankcontainer für die Beförderung gefährlicher Güter nach
 den Vorschriften über die Beförderung gefährlicher Güter zugelassen,
-so ist die dafür zuständige Behörde abweichend von den Absätzen 2, 5
-und 6 auch für die Erteilung und Entziehung der Zulassung nach diesem
-Gesetz zuständig; die übrigen Aufgaben nach diesem Gesetz -
+so ist die dafür zuständige Behörde abweichend von den Absätzen 2,
+5 und 6 auch für die Erteilung und Entziehung der Zulassung nach
+diesem Gesetz zuständig; die übrigen Aufgaben nach diesem Gesetz -
 ausgenommen die nach Artikel 4 - werden dann für diese Tankcontainer
 von den Behörden und Stellen wahrgenommen, die für die entsprechenden
 Aufgaben nach den Vorschriften über die Beförderung gefährlicher Güter
@@ -133,8 +133,8 @@ Sicherheits-Zulassungsschild trägt. Ist ein gültiges CSC-Sicherheits-
 Zulassungsschild nicht vorhanden, so soll die Kontrollbehörde die
 weitere Verwendung des Containers untersagen und ihn erst freigeben,
 wenn seine Zulassung nachgewiesen worden ist. Befindet sich der
-Container in einem Zustand, der eine offensichtliche Gefährdung der
-Sicherheit darstellt, so hat die Kontrollbehörde die weitere
+Container in einem Zustand, der eine offensichtliche Gefährdung
+der Sicherheit darstellt, so hat die Kontrollbehörde die weitere
 Verwendung des Containers zu untersagen und ihn erst wieder zur
 Verwendung freizugeben, wenn die Beanstandungen behoben sind.
 Erscheint eine Entziehung der Zulassung geboten (Artikel IV Abs. 5 des
@@ -142,8 +142,8 @@ Erscheint eine Entziehung der Zulassung geboten (Artikel IV Abs. 5 des
 damit die Entziehung bei der Behörde, die die Zulassung ausgesprochen
 hat, beantragt werden kann.
 
-(2) In den Fällen des Absatzes 1 Satz 2 und 3 sollen außerdem die
-Grenzzollstellen oder andere für die Kontrolle an der Grenze
+(2) In den Fällen des Absatzes 1 Satz 2 und 3 sollen außerdem
+die Grenzzollstellen oder andere für die Kontrolle an der Grenze
 zuständige Stellen der Zollverwaltung die Container zurückweisen.
 
 (3) Absätze 1 und 2 gelten erst nach Inkrafttreten der
@@ -186,19 +186,19 @@ Unterhaltungspflicht unterliegenden Containern die Kennzeichnung
 oder unmittelbar neben dem Schild in mindestens 5 mm großen Buchstaben
 anzubringen.
 
-(5) Die Überprüfungen nach Absatz 1 entbinden den Eigentümer nicht von
-der Verantwortung, jederzeit Schäden zu beseitigen, die aus
+(5) Die Überprüfungen nach Absatz 1 entbinden den Eigentümer nicht
+von der Verantwortung, jederzeit Schäden zu beseitigen, die aus
 Sicherheitsgründen unverzüglich behoben werden müssen.
 
-(6) Das Bundesministerium für Verkehr und digitale Infrastruktur kann
-durch Rechtsverordnung mit Zustimmung des Bundesrates bestimmen, daß
-über die gemäß Regel 2 der Anlage I des Übereinkommens
+(6) Das Bundesministerium für Verkehr und digitale Infrastruktur
+kann durch Rechtsverordnung mit Zustimmung des Bundesrates
+bestimmen, daß über die gemäß Regel 2 der Anlage I des Übereinkommens
 vorgeschriebenen Überprüfungen der Container vom Eigentümer Vermerke
 angefertigt, aufbewahrt und der Kontrollbehörde auf Verlangen
 vorgelegt werden, wenn dies zur Gewährleistung der ordnungsgemäßen
 Unterhaltung und der vorgeschriebenen Überprüfungen der Container
-erforderlich ist. Unter dieser Voraussetzung kann dem Eigentümer mit
-Hauptniederlassung oder Sitz im Geltungsbereich dieses Gesetzes
+erforderlich ist. Unter dieser Voraussetzung kann dem Eigentümer
+mit Hauptniederlassung oder Sitz im Geltungsbereich dieses Gesetzes
 aufgegeben werden, die seiner Unterhaltungspflicht unterliegenden
 Container unter Angabe von Zulassungsland und Zulassungsbezeichnung
 der Kontrollbehörde mitzuteilen; es kann verlangt werden, daß sich die
@@ -207,212 +207,58 @@ Sichtkontrolle auch auf das Innere des Containers zu erstrecken hat.
 
 ## Art 6
 
-(1) Für das CSC-Sicherheits-Zulassungsschild (Anhang zur Regel 1 der
-Anlage I des Übereinkommens) teilen die Zulassungsbehörden dem
+(1) Für das CSC-Sicherheits-Zulassungsschild (Anhang zur Regel 1
+der Anlage I des Übereinkommens) teilen die Zulassungsbehörden dem
 Antragsteller eine Zulassungsbezeichnung zu, die wie folgt beginnt:
 
-*    *   Baden-Württemberg
+| Baden-Württemberg | D-BW-, |
+| --- | --- |
+| Bayern | D-BY-, |
+| Berlin | D-BE-, |
+| Brandenburg | D-BB-, |
+| Bremen | D-HB-, |
+| Hamburg | D-HH-, |
+| Hessen | D-HE-, |
+| Mecklenburg-Vorpommern | D-MV-, |
+| Niedersachsen | D-NI-, |
+| Nordrhein-Westfalen | D-NW-, |
+| Rheinland-Pfalz | D-RP-, |
+| Saarland | D-SL-, |
+| Sachsen | D-SN,- |
+| Sachsen-Anhalt | D-ST-, |
+| Schleswig-Holstein | D-SH-, |
+| Thüringen | D-TH-. |
+| Die Deutsche Bundespost führt als entsprechenden Anfang der Zulassungsbezeichnung |  |
+| die Buchstaben | D-BP-, |
+| die Bundeswehr | D-Y-. |
 
-    *   D-BW-,
-
-
-*    *   Bayern
-
-    *   D-BY-,
-
-
-*    *   Berlin
-
-    *   D-BE-,
-
-
-*    *   Brandenburg
-
-    *   D-BB-,
-
-
-*    *   Bremen
-
-    *   D-HB-,
-
-
-*    *   Hamburg
-
-    *   D-HH-,
-
-
-*    *   Hessen
-
-    *   D-HE-,
-
-
-*    *   Mecklenburg-Vorpommern
-
-    *   D-MV-,
-
-
-*    *   Niedersachsen
-
-    *   D-NI-,
-
-
-*    *   Nordrhein-Westfalen
-
-    *   D-NW-,
-
-
-*    *   Rheinland-Pfalz
-
-    *   D-RP-,
-
-
-*    *   Saarland
-
-    *   D-SL-,
-
-
-*    *   Sachsen
-
-    *   D-SN,-
-
-
-*    *   Sachsen-Anhalt
-
-    *   D-ST-,
-
-
-*    *   Schleswig-Holstein
-
-    *   D-SH-,
-
-
-*    *   Thüringen
-
-    *   D-TH-.
-
-
-*    *   Die Deutsche Bundespost führt als entsprechenden Anfang der
-        Zulassungsbezeichnung
-
-    *
-
-*    *   die Buchstaben
-
-    *   D-BP-,
-
-
-*    *   die Bundeswehr
-
-    *   D-Y-.
-
-
-
-
-(2) Ist bei der Zulassung vorhandener Container (Artikel II Abs. 9 und
-Regel 9 der Anlage I des Übereinkommens) die Hersteller-
+(2) Ist bei der Zulassung vorhandener Container (Artikel II Abs.
+9 und Regel 9 der Anlage I des Übereinkommens) die Hersteller-
 Identifizierungsnummer nicht bekannt (Nummer 3 des Anhangs zur Anlage
 I des Übereinkommens), so teilen die Zulassungsbehörden eine solche
 Nummer mit folgenden Anfangsbuchstaben zu:
 
-*    *   Baden-Württemberg
-
-    *   BW-,
-
-
-*    *   Bayern
-
-    *   BY-,
-
-
-*    *   Berlin
-
-    *   BE-,
-
-
-*    *   Brandenburg
-
-    *   BB-,
-
-
-*    *   Bremen
-
-    *   HB-,
-
-
-*    *   Hamburg
-
-    *   HH-,
-
-
-*    *   Hessen
-
-    *   HE-,
-
-
-*    *   Mecklenburg-Vorpommern
-
-    *   MV-,
-
-
-*    *   Niedersachsen
-
-    *   NI-,
-
-
-*    *   Nordrhein-Westfalen
-
-    *   NW-,
-
-
-*    *   Rheinland-Pfalz
-
-    *   RP-,
-
-
-*    *   Saarland
-
-    *   SL-,
-
-
-*    *   Sachsen
-
-    *   SN-,
-
-
-*    *   Sachsen-Anhalt
-
-    *   ST-,
-
-
-*    *   Schleswig-Holstein
-
-    *   SH-,
-
-
-*    *   Thüringen
-
-    *   TH-.
-
-
-*    *   Die Deutsche Bundespost führt bei unbekannter
-
-    *
-
-*    *   Hersteller-Identifizierungsnummer
-
-    *
-
-*    *   die Anfangsbuchstaben
-
-    *   BP-,
-
-
-*    *   die Bundeswehr
-
-    *   Y-.
-
-
-
+| Baden-Württemberg | BW-, |
+| --- | --- |
+| Bayern | BY-, |
+| Berlin | BE-, |
+| Brandenburg | BB-, |
+| Bremen | HB-, |
+| Hamburg | HH-, |
+| Hessen | HE-, |
+| Mecklenburg-Vorpommern | MV-, |
+| Niedersachsen | NI-, |
+| Nordrhein-Westfalen | NW-, |
+| Rheinland-Pfalz | RP-, |
+| Saarland | SL-, |
+| Sachsen | SN-, |
+| Sachsen-Anhalt | ST-, |
+| Schleswig-Holstein | SH-, |
+| Thüringen | TH-. |
+| Die Deutsche Bundespost führt bei unbekannter |  |
+| Hersteller-Identifizierungsnummer |  |
+| die Anfangsbuchstaben | BP-, |
+| die Bundeswehr | Y-. |
 
 (3) Ist ein Tankcontainer für die Beförderung gefährlicher Güter
 bestimmt, erteilt die nach Artikel 3 Abs. 9 dieses Gesetzes zuständige
@@ -444,30 +290,22 @@ möglichst nahe des CSC-Sicherheits-Zulassungsschildes angegeben sind
     Sicherheits-Zulassungsschild in den oder aus dem Geltungsbereich
     dieses Gesetzes befördert,
 
-
 2.  entgegen Artikel 5 Abs. 1 einen Container nicht oder nicht
     vorschriftsmäßig überprüft oder nicht überprüfen läßt,
-
 
 3.  als Eigentümer oder Beförderer entgegen Artikel 5 Abs. 2 den Container
     verwendet,
 
-
 4.  als Eigentümer oder von ihm beauftragte Person entgegen Artikel 5 Abs.
     3 das Datum der erneuten Prüfung nicht vorschriftsmäßig angibt,
-
 
 5.  als Eigentümer oder von ihm beauftragte Person an einem Container die
     Kennzeichnung "ACEP-D" anbringt, ohne dazu nach Artikel 5 Abs. 4 Satz
     3 berechtigt zu sein, oder
 
-
 6.  einer Rechtsverordnung nach Artikel 5 Abs. 6 zuwiderhandelt, soweit
     sie für einen bestimmten Tatbestand auf diese Bußgeldvorschrift
     verweist.
-
-
-
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
 zweitausendfünfhunder Euro geahndet werden.
@@ -477,13 +315,13 @@ zweitausendfünfhunder Euro geahndet werden.
 durch Rechtsverordnung bestimmt wird. Die Landesregierung kann die
 Ermächtigung auf die zuständige oberste Landesbehörde übertragen.
 
-(4) Wird eine Zuwiderhandlung nach Absatz 1 bei der Beförderung eines
-Containers auf der Straße in einem Unternehmen begangen, das im
+(4) Wird eine Zuwiderhandlung nach Absatz 1 bei der Beförderung
+eines Containers auf der Straße in einem Unternehmen begangen, das im
 Geltungsbereich des Gesetzes weder seinen Sitz noch eine geschäftliche
 Niederlassung hat, und hat auch der Betroffene im Geltungsbereich des
 Gesetzes keinen Wohnsitz, so ist Verwaltungsbehörde im Sinne des § 36
 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten das Bundesamt für
-Güterverkehr.
+Logistik und Mobilität.
 
 
 ## Art 8
@@ -497,23 +335,23 @@ vornimmt, bei Auslagen auch der Rechtsträger, bei dessen Behörde die
 Auslagen entstanden sind. Das Verwaltungskostengesetz in der bis zum
 14\. August 2013 geltenden Fassung findet Anwendung.
 
-(2) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
-ermächtigt, die gebührenpflichtigen Tatbestände mit Zustimmung des
-Bundesrates durch Rechtsverordnung näher zu bestimmen und dabei feste
-Gebührensätze oder Rahmensätze vorzusehen. Die Gebührensätze sind so
-zu bemessen, daß zwischen der den Verwaltungsaufwand
-berücksichtigenden Höhe der Gebühr einerseits und der Bedeutung, dem
-wirtschaftlichen Wert oder dem sonstigen Nutzen der Amtshandlung
+(2) Das Bundesministerium für Verkehr und digitale Infrastruktur
+wird ermächtigt, die gebührenpflichtigen Tatbestände mit Zustimmung
+des Bundesrates durch Rechtsverordnung näher zu bestimmen und dabei
+feste Gebührensätze oder Rahmensätze vorzusehen. Die Gebührensätze
+sind so zu bemessen, daß zwischen der den Verwaltungsaufwand
+berücksichtigenden Höhe der Gebühr einerseits und der Bedeutung,
+dem wirtschaftlichen Wert oder dem sonstigen Nutzen der Amtshandlung
 andererseits ein angemessenes Verhältnis besteht. Die Gebühren dürfen
 bei der Entziehung der Zulassung von Containern 400 Euro, in allen
 übrigen Fällen 250 Euro nicht überschreiten.
 
 (3) In der Rechtsverordnung nach Absatz 2 können die
-Kostengläubigerschaft, der Umfang der zu erstattenden Auslagen, eine
-Vorschußpflicht, die Fälligkeit und die Verjährung der
-Kostenansprüche, die Befreiung von der Kostenpflicht, insbesondere für
-Unternehmen mit Betriebssitz außerhalb des Geltungsbereiches dieses
-Gesetzes soweit die Gegenseitigkeit verbürgt ist, sowie das
+Kostengläubigerschaft, der Umfang der zu erstattenden Auslagen,
+eine Vorschußpflicht, die Fälligkeit und die Verjährung der
+Kostenansprüche, die Befreiung von der Kostenpflicht, insbesondere
+für Unternehmen mit Betriebssitz außerhalb des Geltungsbereiches
+dieses Gesetzes soweit die Gegenseitigkeit verbürgt ist, sowie das
 Erhebungsverfahren abweichend vom Verwaltungskostengesetz in der bis
 zum 14. August 2013 geltenden Fassung geregelt werden.
 

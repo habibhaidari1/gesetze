@@ -1,7 +1,5 @@
 ---
-Title: Zweihundertvierunddreißigste Durchführungsverordnung zur Luftverkehrs-Ordnung
-  (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum
-  und vom Verkehrslandeplatz Mengen-Hohentengen)
+Title: Zweihundertvierunddreißigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrslandeplatz Mengen-Hohentengen)
 jurabk: LuftVODV 234
 layout: default
 origslug: luftvodv_234
@@ -16,4 +14,7 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BAnz: 2008, Nr 37, 870
+
+Fundstelle
+:   BAnz: 2008, 870
 

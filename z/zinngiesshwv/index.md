@@ -16,12 +16,11 @@ Fundstelle
 :   BGBl I: 1969, 37
 
 
-
 ## Eingangsformel
 
 Auf Grund des § 45 der Handwerksordnung in der Fassung der
-Bekanntmachung vom 28. Dezember 1965 (Bundesgesetzbl. 1966 I S. 1)
-wird im Einvernehmen mit dem Bundesminister für Arbeit und
+Bekanntmachung vom 28. Dezember 1965 (Bundesgesetzbl. 1966 I S.
+1) wird im Einvernehmen mit dem Bundesminister für Arbeit und
 Sozialordnung verordnet:
 
 
@@ -45,7 +44,6 @@ der Berufsausbildung zugrunde zu legen sind:
     technische Geräte und Geräteteile;
 
     Krugbeschläge wie Deckel und Fußreifen.
-
 
 2.  **Fertigkeiten und Kenntnisse:**
 
@@ -99,9 +97,6 @@ der Berufsausbildung zugrunde zu legen sind:
     Verarbeitung der Werk- und Hilfsstoffe;
 
     Kenntnis der Unfallverhütungsvorschriften.
-
-
-
 
 
 ## § 2

@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl II: 1992, 749
 
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
@@ -31,25 +30,17 @@ Weltpostvereins
 
 1.  Viertes Zusatzprotokoll zur Satzung des Weltpostvereins
 
-
 2.  Allgemeine Verfahrensordnung des Weltpostvereins nebst Anhang
-
 
 3.  Weltpostvertrag
 
-
 4.  Postpaketabkommen
-
 
 5.  Postanweisungsabkommen
 
-
 6.  Postgiroabkommen und
 
-
 7.  Postnachnahmeabkommen
-
-
 
 nebst Schlußprotokollen wird zugestimmt. Die Verträge nebst
 Schlußprotokollen werden nachstehend veröffentlicht.
@@ -62,8 +53,8 @@ durch Rechtsverordnung ohne Zustimmung des Bundesrates die
 Vollzugsordnungen vom 15. Dezember 1989 zu den in Artikel 1 unter
 Nummer 3 bis 7 genannten Verträgen sowie Änderungen, die der
 Vollzugsrat des Weltpostvereins vor Zusammentreten des nächsten
-Weltpostkongresses zu diesen Vollzugsordnungen beschließt, in Kraft zu
-setzen.
+Weltpostkongresses zu diesen Vollzugsordnungen beschließt, in Kraft
+zu setzen.
 
 
 ## Art 3
@@ -75,9 +66,9 @@ Währungsfonds für seine Operationen und Transaktionen anwendet.
 
 (2) Für die in den Verträgen aufgeführten Gebühren, Wertangabebeträge
 und Ersatzbeträge wird der in Sonderziehungsrechten ausgedrückte Wert
-der Deutschen Mark zum 1. Januar jeden Jahres jeweils für ein Jahr im
-voraus als Durchschnittswert festgesetzt. Der Durchschnittswert wird
-aus den Tageskursen des Sonderziehungsrechts der zwölf Monate
+der Deutschen Mark zum 1. Januar jeden Jahres jeweils für ein Jahr
+im voraus als Durchschnittswert festgesetzt. Der Durchschnittswert
+wird aus den Tageskursen des Sonderziehungsrechts der zwölf Monate
 berechnet, die am 30. September vor der jeweiligen Festsetzung enden.
 Der jeweils festgesetzte Durchschnittswert ist im Bundesanzeiger
 bekanntzugeben.

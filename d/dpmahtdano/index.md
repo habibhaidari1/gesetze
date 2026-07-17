@@ -1,6 +1,5 @@
 ---
-Title: Anordnung über die Einstellung von Beamtinnen und Beamten in den höheren technischen
-  Dienst beim Deutschen Patent- und Markenamt
+Title: Anordnung über die Einstellung von Beamtinnen und Beamten in den höheren technischen Dienst beim Deutschen Patent- und Markenamt
 jurabk: DPMAhtDAnO
 layout: default
 origslug: dpmahtdano
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 2006, 2668
-
 
 
 ## I.

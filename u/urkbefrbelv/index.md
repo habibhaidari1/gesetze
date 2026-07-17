@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Bestimmung der Beglaubigungsbehörde nach dem deutsch-belgischen
-  Abkommen vom 13. Mai 1975 über die Befreiung öffentlicher Urkunden von der Legalisation
+Title: Verordnung über die Bestimmung der Beglaubigungsbehörde nach dem deutsch-belgischen Abkommen vom 13. Mai 1975 über die Befreiung öffentlicher Urkunden von der Legalisation
 jurabk: UrkBefrBELV
 layout: default
 origslug: urkbefrbelv
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 1980, 2002
-
 
 
 ## Eingangsformel

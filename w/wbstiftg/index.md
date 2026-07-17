@@ -29,8 +29,8 @@ Die Stiftung entsteht mit dem Inkrafttreten dieses Gesetzes.
 ## § 2 Stiftungszweck
 
 (1) Zweck der Stiftung ist es, das Andenken an das Wirken Willy
-Brandts für Freiheit, Frieden und Einheit des deutschen Volkes und die
-Sicherung der Demokratie für Europa und die Dritte Welt, die
+Brandts für Freiheit, Frieden und Einheit des deutschen Volkes und
+die Sicherung der Demokratie für Europa und die Dritte Welt, die
 Vereinigung Europas und für die Verständigung und Versöhnung unter den
 Völkern sowie für den Nord-Süd-Dialog zu wahren und so einen Beitrag
 zum Verständnis der Geschichte dieses Jahrhunderts und der Entwicklung
@@ -42,30 +42,22 @@ Maßnahmen:
 1.  Einrichtung, Unterhaltung und Ausbau einer ständigen historischen
     Ausstellung in Berlin;
 
-
 2.  Unterhaltung eines Willy-Brandt-Hauses in Lübeck mit einer ständigen
     Ausstellung;
 
-
 3.  Unterhaltung einer ständigen Ausstellung im Willy-Brandt-Forum Unkel;
-
 
 4.  Forschung und Anregung wissenschaftlicher Untersuchungen;
 
-
 5.  Veranstaltungen und Diskussionsforen mit deutscher und internationaler
     Beteiligung im Sinne des Stiftungszweckes;
-
 
 6.  Mitwirkung bei der Auswertung der Archivalien des "Willy-Brandt-
     Archivs im Archiv der sozialen Demokratie der Friedrich-Ebert-
     Stiftung" nach Maßgabe des § 2 Abs. 3.
 
-
-
-
-(3) Die Stiftung arbeitet mit dem "Willy-Brandt-Archiv im Archiv der
-sozialen Demokratie der Friedrich-Ebert-Stiftung" in Bonn gemäß
+(3) Die Stiftung arbeitet mit dem "Willy-Brandt-Archiv im Archiv
+der sozialen Demokratie der Friedrich-Ebert-Stiftung" in Bonn gemäß
 Vertrag vom 1. Juni 1994 zusammen. Den Beirat dieses Archivs bilden
 die Mitglieder des Kuratoriums der Bundeskanzler-Willy-Brandt-
 Stiftung.
@@ -93,8 +85,8 @@ im Sinne des Stiftungszweckes zu verwenden.
 Die Stiftung gibt sich eine Satzung, die vom Kuratorium mit einer
 Mehrheit von vier Fünfteln seiner Mitglieder beschlossen wird und der
 Genehmigung des Beauftragten der Bundesregierung für Angelegenheiten
-der Kultur und der Medien bedarf. Das gleiche gilt für Änderungen der
-Satzung.
+der Kultur und der Medien bedarf. Das gleiche gilt für Änderungen
+der Satzung.
 
 
 ## § 5 Organe der Stiftung
@@ -103,11 +95,7 @@ Organe der Stiftung sind
 
 1.  das Kuratorium,
 
-
 2.  der Vorstand.
-
-
-
 
 
 ## § 6 Kuratorium
@@ -115,8 +103,8 @@ Organe der Stiftung sind
 (1) Das Kuratorium besteht aus fünf Mitgliedern, die vom
 Bundespräsidenten für die Dauer von fünf Jahren bestellt werden. Dr.
 Brigitte Seebacher-Brandt, die Kinder Willy Brandts gemeinschaftlich,
-die Bundesregierung sowie die Friedrich-Ebert-Stiftung e.V. haben das
-bindende Vorschlagsrecht für je ein Mitglied des Kuratoriums. Für
+die Bundesregierung sowie die Friedrich-Ebert-Stiftung e.V. haben
+das bindende Vorschlagsrecht für je ein Mitglied des Kuratoriums. Für
 jedes der fünf Mitglieder ist ein Vertreter zu bestellen. Wiederholte
 Bestellung ist zulässig.
 
@@ -176,11 +164,11 @@ tätig.
 ## § 10 Aufsicht, Haushalt, Rechnungsprüfung
 
 (1) Die Stiftung untersteht der Aufsicht des Beauftragten der
-Bundesregierung für Angelegenheiten der Kultur und der Medien. Bei der
-Erfüllung ihrer Aufgaben wird die Stiftung durch das Bundesarchiv
+Bundesregierung für Angelegenheiten der Kultur und der Medien. Bei
+der Erfüllung ihrer Aufgaben wird die Stiftung durch das Bundesarchiv
 unterstützt; Art und Umfang regelt der Beauftragte der Bundesregierung
-für Angelegenheiten der Kultur und der Medien im Benehmen mit dem
-Kuratorium und dem Willy-Brand-Archiv im Archiv der sozialen
+für Angelegenheiten der Kultur und der Medien im Benehmen mit
+dem Kuratorium und dem Willy-Brand-Archiv im Archiv der sozialen
 Demokratie der Friedrich-Ebert-Stiftung.
 
 (2) Für das Haushalts-, Kassen- und Rechnungswesen sowie für die
@@ -203,8 +191,8 @@ haben, verliehen werden.
 
 ## § 12 Gebühren
 
-Die Stiftung kann zur Deckung des Verwaltungsaufwandes nach näherer
-Bestimmung der Satzung Gebühren für die Benutzung von
+Die Stiftung kann zur Deckung des Verwaltungsaufwandes nach
+näherer Bestimmung der Satzung Gebühren für die Benutzung von
 Stiftungseinrichtungen erheben.
 
 

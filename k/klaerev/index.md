@@ -21,8 +21,8 @@ Zuletzt geändert durch
 
 ## Eingangsformel
 
-Auf Grund des § 9 Abs. 3 des Düngemittelgesetzes vom 15. November 1977
-(BGBl. I S. 2134), der durch Artikel 4 Nr. 8 des Gesetzes vom 27.
+Auf Grund des § 9 Abs. 3 des Düngemittelgesetzes vom 15. November
+1977 (BGBl. I S. 2134), der durch Artikel 4 Nr. 8 des Gesetzes vom 27.
 September 1994 (BGBl. I S. 2705) eingefügt worden ist, verordnet die
 Bundesregierung unter Berücksichtigung der Rechte des Bundestages:
 
@@ -30,12 +30,11 @@ Bundesregierung unter Berücksichtigung der Rechte des Bundestages:
 ## Erster Abschnitt - Bildung und Ausgestaltung des Klärschlamm-Entschädigungsfonds
 
 
-
 ### § 1 Rechtsform, Verwaltung
 
-(1) Die Entschädigungen nach § 11 Abs. 1 des Düngegesetzes werden mit
-Inkrafttreten dieser Verordnung aus einem nicht rechtsfähigen
-Sondervermögen des Bundes mit dem Namen "Klärschlamm-
+(1) Die Entschädigungen nach § 11 Abs. 1 des Düngegesetzes
+werden mit Inkrafttreten dieser Verordnung aus einem nicht
+rechtsfähigen Sondervermögen des Bundes mit dem Namen "Klärschlamm-
 Entschädigungsfonds" erbracht. Das Sondervermögen ist von den übrigen
 Vermögen des Bundes, seinen Rechten und Pflichten getrennt zu halten.
 Es kann unter seinem Namen im rechtsgeschäftlichen Verkehr handeln,
@@ -45,8 +44,8 @@ klagen oder verklagt werden.
 verwaltet den Klärschlamm-Entschädigungsfonds, führt dessen Geschäfte
 und vertritt ihn nach außen.
 
-(3) Wird das Sondervermögen aufgelöst, so werden die Fondsmittel im
-Verhältnis der geleisteten Beiträge an die Beitragspflichtigen
+(3) Wird das Sondervermögen aufgelöst, so werden die Fondsmittel
+im Verhältnis der geleisteten Beiträge an die Beitragspflichtigen
 erstattet.
 
 
@@ -66,37 +65,28 @@ unberührt.
 1.  einem Vertreter des Bundesministeriums für Ernährung und
     Landwirtschaft (Bundesministerium),
 
-
 2.  einem Vertreter des Bundesministeriums für Umwelt, Naturschutz und
     nukleare Sicherheit,
 
-
 3.  einem Vertreter der Länder,
-
 
 4.  zwei Vertretern der kommunalen Klärschlammabgeber,
 
-
 5.  einem Vertreter der sonstigen beitragspflichtigen Klärschlammabgeber,
-
 
 6.  drei Vertretern des landwirtschaftlichen Berufsstandes,
 
-
 7.  drei Vertretern als neutrale Sachverständige.
 
-
-
-
-(4) Die Vertreter der kommunalen Klärschlammabgeber werden vom
-Bundesministerium auf Vorschlag der Bundesvereinigung der kommunalen
-Spitzenverbände, der Vertreter der sonstigen beitragspflichtigen
-Klärschlammabgeber vom Bundesministerium auf Vorschlag der
-Abwassertechnischen Vereinigung e. V., die Vertreter des
-landwirtschaftlichen Berufsstandes auf Vorschlag des Deutschen
-Bauernverbandes e. V. bestellt und abberufen. Die Vertreter der
-Bundesministerien, Länder, Klärschlammabgeber und des
-landwirtschaftlichen Berufsstandes wählen einstimmig die drei
+(4) Die Vertreter der kommunalen Klärschlammabgeber werden
+vom Bundesministerium auf Vorschlag der Bundesvereinigung
+der kommunalen Spitzenverbände, der Vertreter der sonstigen
+beitragspflichtigen Klärschlammabgeber vom Bundesministerium
+auf Vorschlag der Abwassertechnischen Vereinigung e. V., die
+Vertreter des landwirtschaftlichen Berufsstandes auf Vorschlag
+des Deutschen Bauernverbandes e. V. bestellt und abberufen. Die
+Vertreter der Bundesministerien, Länder, Klärschlammabgeber und
+des landwirtschaftlichen Berufsstandes wählen einstimmig die drei
 Sachverständigen, von denen je ein Vertreter aus dem Bereich der
 Abwasserbehandlung, dem Verband Deutscher Landwirtschaftlicher
 Untersuchungs- und Forschungsanstalten (VDLUFA) und dem Verband der
@@ -106,8 +96,8 @@ ein Vertreter vorzeitig aus, so wird sein Nachfolger für den Rest der
 Amtszeit bestellt.
 
 (5) Die Vertreter der Bundesministerien werden von den zuständigen
-Bundesministerien, der Vertreter der Länder vom Bundesrat bestellt und
-abberufen.
+Bundesministerien, der Vertreter der Länder vom Bundesrat bestellt
+und abberufen.
 
 (6) Für alle Mitglieder des Beirates ist für den Fall ihrer
 Verhinderung ein Stellvertreter namentlich zu benennen. Hinsichtlich
@@ -152,13 +142,12 @@ obliegt dem Bundesministerium, das die Entlastung erteilt.
 ## Zweiter Abschnitt - Beitragsordnung
 
 
-
 ### § 4 Beitragshöhe
 
 Der Beitrag beträgt zwanzig Deutsche Mark pro Tonne Klärschlamm
-bezogen auf dessen Trockenmasse, der zur landbaulichen Verwertung
-abgegeben wird. Satz 1 gilt auch für Klärschlämme, die für die
-Herstellung von Sekundärrohstoffdünger im Sinne der
+bezogen auf dessen Trockenmasse, der zur landbaulichen
+Verwertung abgegeben wird. Satz 1 gilt auch für Klärschlämme,
+die für die Herstellung von Sekundärrohstoffdünger im Sinne der
 Düngemittelverordnung abgegeben werden.
 
 
@@ -176,18 +165,18 @@ Bundesanzeiger ein Muster für die Mitteilung bekannt.
 (3) Die Beitragsmitteilung nach Absatz 2 gilt als Beitragsbescheid,
 wenn der Beitragsbetrag darin zutreffend angegeben worden ist. Ist
 dies nicht der Fall oder ist die Mitteilung nach Absatz 2 bis zum
-vorgeschriebenen Zeitpunkt unterblieben, so kann die Bundesanstalt auf
-Grund eigener Ermittlung oder Schätzung der für die Beitragsschuld
+vorgeschriebenen Zeitpunkt unterblieben, so kann die Bundesanstalt
+auf Grund eigener Ermittlung oder Schätzung der für die Beitragsschuld
 maßgeblichen Mengen einen Beitragsbescheid erteilen.
 
-(4) Der Beitrag wird zum 30. April des folgenden Jahres fällig und ist
-an die Bundesanstalt zu zahlen. Sofern die Bundesanstalt einen
+(4) Der Beitrag wird zum 30. April des folgenden Jahres fällig und
+ist an die Bundesanstalt zu zahlen. Sofern die Bundesanstalt einen
 Beitragsbescheid erläßt, wird der Beitrag abweichend von Satz 1 zwei
 Wochen nach Zugang des Bescheids fällig.
 
 (5) Werden Beiträge nicht rechtzeitig gezahlt, sind diese vom
-Fälligkeitstag an mit drei vom Hundert über dem Basiszinssatz nach §
-247 des Bürgerlichen Gesetzbuchs zu verzinsen. Der am ersten eines
+Fälligkeitstag an mit drei vom Hundert über dem Basiszinssatz nach
+§ 247 des Bürgerlichen Gesetzbuchs zu verzinsen. Der am ersten eines
 Monats geltende Basiszinssatz ist für jeden Zinstag dieses Monats zu
 Grunde zu legen.
 
@@ -228,8 +217,8 @@ der Gesamtmenge des von ihm seit Inkrafttreten dieser Verordnung
 abgegebenen Klärschlammes. Beiträge, die vor einer Anordnung des
 Ruhens der Beitragspflicht oder nach einer Anordnung über das
 Wiederaufleben der Beitragspflicht bereits geleistet worden sind,
-werden bei der Bemessung der Nachschußpflicht angerechnet. Abgaben von
-Klärschlamm, die länger als 30 Jahre zurückliegen, werden nicht
+werden bei der Bemessung der Nachschußpflicht angerechnet. Abgaben
+von Klärschlamm, die länger als 30 Jahre zurückliegen, werden nicht
 berücksichtigt.
 
 (3) Die Bundesanstalt erhebt den Nachschuß durch Bescheid. Der
@@ -241,8 +230,8 @@ Nachschuß wird drei Monate nach Zugang des Bescheids fällig. § 5 Abs.
 
 (1) Die Hersteller von Klärschlämmen sind verpflichtet, vor der Abgabe
 des Klärschlamms die verbindliche Zweckbestimmung zur landbaulichen
-Verwertung oder zu einer anderen Entsorgung des Klärschlamms zu
-treffen und auf Verlangen die Auskünfte zu erteilen oder die
+Verwertung oder zu einer anderen Entsorgung des Klärschlamms
+zu treffen und auf Verlangen die Auskünfte zu erteilen oder die
 Unterlagen vorzulegen, die zur Festsetzung und Erhebung der Beiträge
 erforderlich sind.
 
@@ -251,8 +240,8 @@ auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen
 der in § 383 Abs. 1 Nr. 1 bis 3 der Zivilprozeßordnung bezeichneten
 Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines
 Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
-Der Auskunftspflichtige ist über sein Auskunftsverweigerungsrecht zu
-belehren.
+Der Auskunftspflichtige ist über sein Auskunftsverweigerungsrecht
+zu belehren.
 
 (3) Weigert sich der Auskunftspflichtige, eine Auskunft zu erteilen
 oder entsprechende Unterlagen vorzulegen, so kann die Bundesanstalt
@@ -260,7 +249,6 @@ die erforderlichen Feststellungen im Wege der Schätzung treffen.
 
 
 ## Dritter Abschnitt - Entschädigungsleistungen
-
 
 
 ### § 9 Antragstellung
@@ -295,12 +283,11 @@ sonstige Ersatzpflichtige auf den Klärschlamm-Entschädigungsfonds
 ## Vierter Abschnitt - Schlußvorschrift
 
 
-
 ### § 13 Bußgeldvorschriften
 
 Ordnungswidrig im Sinne des § 14 Abs. 2 Nr. 1 Buchstabe c des
-Düngegesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 8
-Abs. 1 eine Auskunft nicht, nicht richtig, nicht vollständig oder
+Düngegesetzes handelt, wer vorsätzlich oder fahrlässig entgegen §
+8 Abs. 1 eine Auskunft nicht, nicht richtig, nicht vollständig oder
 nicht rechtzeitig erteilt oder eine Unterlage nicht, nicht richtig,
 nicht vollständig oder nicht rechtzeitig vorlegt.
 

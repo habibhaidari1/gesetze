@@ -1,7 +1,5 @@
 ---
-Title: Verordnung zur Durchführung der Vereinbarung vom 10. Dezember 1964 zur Durchführung
-  des Abkommens vom 20. April 1960 zwischen der Bundesrepublik Deutschland und dem
-  Vereinigten Königreich Großbritannien und Nordirland über Soziale Sicherheit
+Title: Verordnung zur Durchführung der Vereinbarung vom 10. Dezember 1964 zur Durchführung des Abkommens vom 20. April 1960 zwischen der Bundesrepublik Deutschland und dem Vereinigten Königreich Großbritannien und Nordirland über Soziale Sicherheit
 jurabk: SozSichAbkGBRDVbgV
 layout: default
 origslug: sozsichabkgbrdvbgv
@@ -18,13 +16,12 @@ Fundstelle
 :   BGBl II: 1967, 2581
 
 
-
 ## Eingangsformel
 
 Auf Grund des Artikels 5 Buchstabe a) des Gesetzes vom 15. September
-1965 (Bundesgesetzbl. II S. 1273) zu der Vereinbarung vom 10. Dezember
-1964 zur Durchführung des Abkommens vom 20. April 1960 zwischen der
-Bundesrepublik Deutschland und dem Vereinigten Königreich
+1965 (Bundesgesetzbl. II S. 1273) zu der Vereinbarung vom 10.
+Dezember 1964 zur Durchführung des Abkommens vom 20. April 1960
+zwischen der Bundesrepublik Deutschland und dem Vereinigten Königreich
 Großbritannien und Nordirland über Soziale Sicherheit wird mit
 Zustimmung des Bundesrates verordnet:
 
@@ -34,24 +31,16 @@ Zustimmung des Bundesrates verordnet:
 Als Verbindungsstelle für die Familienbeihilfen nach Artikel 2 Abs.
 (1) Nr. 1 Buchstabe g) der Vereinbarung wird die
 
--   Hauptstelle der Bundesanstalt für Arbeits
-    vermittlung und Arbeitslosenversicherung
-    (Kindergeldkasse), Nürnberg,
+-   Hauptstelle der Bundesanstalt für Arbeits*vermittlung und
+    Arbeitslosenversicherung* (Kindergeldkasse), Nürnberg,
 
     und als zuständiger Träger für die Familienbeihilfen nach Artikel 4
     Abs. (1) Nr. 7 der Vereinbarung wird die
 
-    -   Bundesanstalt für Arbeits
-        vermittlung und Arbeitslosenversicherung,
+    -   Bundesanstalt für Arbeits*vermittlung und Arbeitslosenversicherung,*
         Nürnberg,
 
-
-
-
     bestimmt.
-
-
-
 
 
 ## § 2

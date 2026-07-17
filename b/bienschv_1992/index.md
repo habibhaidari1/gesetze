@@ -23,8 +23,8 @@ Zuletzt geändert durch
 
 Der Bundesminister für Ernährung, Landwirtschaft und Forsten verordnet
 auf Grund des § 3 Abs. 1 Nr. 1 des Pflanzenschutzgesetzes vom 15.
-September 1986 (BGBl. I S. 1505) sowie auf Grund des § 3 Abs. 1 Nr. 16
-in Verbindung mit Abs. 2 des Pflanzenschutzgesetzes sowie in
+September 1986 (BGBl. I S. 1505) sowie auf Grund des § 3 Abs. 1
+Nr. 16 in Verbindung mit Abs. 2 des Pflanzenschutzgesetzes sowie in
 Verbindung mit Artikel 56 des Zuständigkeitsanpassungs-Gesetzes vom
 18\. März 1975 (BGBl. I S. 705) und dem Organisationserlaß vom 23.
 Januar 1991 (BGBl. I S. 530) im Einvernehmen mit den Bundesministern
@@ -41,29 +41,17 @@ Im Sinne dieser Verordnung sind
         Lebensmittelsicherheit mit der Auflage zugelassen hat, sie als
         "bienengefährlich" zu kennzeichnen,
 
-
     b)  andere zugelassene Pflanzenschutzmittel in einer höheren als der
         höchsten in der Gebrauchsanleitung vorgesehenen
 
         aa) Aufwandmenge oder
 
-
         bb) Konzentration, falls eine Aufwandmenge nicht vorgesehen ist;
-
-
-
-
-
-
-
 
 2.  blühende Pflanzen:
 
     Pflanzen, an denen sich geöffnete Blüten befinden, außer Hopfen und
     Kartoffeln.
-
-
-
 
 
 ## § 2 Anwendung
@@ -72,10 +60,7 @@ Im Sinne dieser Verordnung sind
 
 1.  blühenden Pflanzen,
 
-
 2.  anderen Pflanzen, wenn sie von Bienen beflogen werden,
-
-
 
 angewandt werden.
 
@@ -110,11 +95,8 @@ Die zuständige Behörde kann Ausnahmen zulassen
 
 1.  von § 2 Abs. 1 für Forschungs-, Untersuchungs- und Versuchszwecke,
 
-
 2.  von § 2 Abs. 1 bis 3, soweit es zur Verhütung schwerer Schäden oder
     Verluste an Pflanzen durch Schadorganismen erforderlich ist.
-
-
 
 Sie hat die Ausnahmegenehmigung mit den erforderlichen Auflagen zu
 verbinden, um sicherzustellen, daß die Imker, deren Bienenstände sich
@@ -132,12 +114,8 @@ Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 1.  entgegen § 2 Absatz 1, 2 oder Absatz 3 ein bienengefährliches
     Pflanzenschutzmittel anwendet oder
 
-
 2.  entgegen § 2 Absatz 4 ein bienengefährliches Pflanzenschutzmittel
     handhabt, aufbewahrt oder beseitigt.
-
-
-
 
 
 ## § 5 Inkrafttreten, abgelöste Vorschrift

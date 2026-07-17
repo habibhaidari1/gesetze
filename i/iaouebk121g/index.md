@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zu dem Übereinkommen Nr. 121 der Internationalen Arbeitsorganisation
-  vom 8. Juli 1964 über Leistungen bei Arbeitsunfällen und Berufskrankheiten
+Title: Gesetz zu dem Übereinkommen Nr. 121 der Internationalen Arbeitsorganisation vom 8. Juli 1964 über Leistungen bei Arbeitsunfällen und Berufskrankheiten
 jurabk: IAOÜbk121G
 layout: default
 origslug: iao_bk121g
@@ -18,7 +17,6 @@ Fundstelle
 
 Geändert durch
 :   Art. 90 G v. 8.12.2010 I 1864
-
 
 
 ## Eingangsformel

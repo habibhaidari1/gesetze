@@ -22,8 +22,8 @@ Zuletzt geändert durch
 ## § 1 Grundsatz
 
 (1) Die Bundesanstalt für Arbeit (Bundesanstalt) gewährt Arbeitgebern
-Zuschüsse zu den Aufwendungen für Vorruhestandsleistungen an
-Arbeitnehmer, die das 58. Lebensjahr vollendet und ihre
+Zuschüsse zu den Aufwendungen für Vorruhestandsleistungen
+an Arbeitnehmer, die das 58. Lebensjahr vollendet und ihre
 Erwerbstätigkeit beendet haben.
 
 (2) Die Zahlung des Zuschusses beginnt nach Maßgabe des Absatzes 1
@@ -46,72 +46,54 @@ im Jahr 1988 für Arbeitnehmer, die vor dem Jahr 1931 geboren sind.
         mindestens 65 vom Hundert des Bruttoarbeitsentgelts im Sinne des § 3
         Abs. 2 gezahlt hat und
 
-
-    b)  Vorruhestandsgeld bis zum Ablauf des Kalendermonats zu zahlen hat, in
-        dem der ausgeschiedene Arbeitnehmer das 65. Lebensjahr vollendet,
-        längstens bis zum Ablauf des Kalendermonats vor dem Monat, von dem ab
-        der ausgeschiedene Arbeitnehmer Altersruhegeld vor Vollendung des 65.
-        Lebensjahres, Knappschaftsausgleichsleistung oder ähnliche Bezüge
+    b)  Vorruhestandsgeld bis zum Ablauf des Kalendermonats zu zahlen hat,
+        in dem der ausgeschiedene Arbeitnehmer das 65. Lebensjahr vollendet,
+        längstens bis zum Ablauf des Kalendermonats vor dem Monat, von dem
+        ab der ausgeschiedene Arbeitnehmer Altersruhegeld vor Vollendung des
+        65\. Lebensjahres, Knappschaftsausgleichsleistung oder ähnliche Bezüge
         öffentlich-rechtlicher Art beanspruchen kann,
 
-
-
-
-
-2.  der ausgeschiedene Arbeitnehmer innerhalb der letzten fünf Jahre vor
-    Beendigung des Beschäftigungsverhältnisses mindestens 1.080
+2.  der ausgeschiedene Arbeitnehmer innerhalb der letzten fünf Jahre
+    vor Beendigung des Beschäftigungsverhältnisses mindestens 1.080
     Kalendertage in einer die Beitragspflicht begründenden Beschäftigung
     im Sinne des § 168 des Arbeitsförderungsgesetzes gestanden hat. Zeiten
-    des Bezuges von Arbeitslosengeld sowie Zeiten im Sinne des § 107 Nr. 2
-    bis 6 des Arbeitsförderungsgesetzes in der bis zum 31. Dezember 1989
+    des Bezuges von Arbeitslosengeld sowie Zeiten im Sinne des § 107 Nr.
+    2 bis 6 des Arbeitsförderungsgesetzes in der bis zum 31. Dezember 1989
     geltenden Fassung stehen diesen Beschäftigungszeiten gleich,
-
 
 3.  das Arbeitsverhältnis auf Grund einer Vereinbarung zwischen
     Arbeitgeber und Arbeitnehmer beendigt ist,
 
-
 4.  die freie Entscheidung des Arbeitgebers bei einer über 5 vom Hundert
     der Arbeitnehmer des Betriebes hinausgehenden Inanspruchnahme
-    sichergestellt ist oder eine Ausgleichskasse der Arbeitgeber oder eine
-    gemeinsame Einrichtung besteht, wobei beide Voraussetzungen in
+    sichergestellt ist oder eine Ausgleichskasse der Arbeitgeber oder
+    eine gemeinsame Einrichtung besteht, wobei beide Voraussetzungen in
     Tarifverträgen verbunden werden können; für die Berechnung der Zahl
     der Arbeitnehmer ist der Durchschnitt der letzten zwölf Kalendermonate
     vor dem Ausscheiden des Arbeitnehmers maßgebend; dabei werden
     Auszubildende und Schwerbehinderte nicht mitgezählt,
 
-
 5.  der Arbeitgeber aus Anlaß der Beendigung des Arbeitsverhältnisses
 
     a)  einen beim Arbeitsamt arbeitslos gemeldeten Arbeitnehmer oder
 
-
     b)  einen Jugendlichen oder sonstigen Arbeitnehmer, für den nach Abschluß
         der Ausbildung kein Arbeitsplatz vorhanden ist,
-
-
-
 
     auf dem freigemachten oder auf einem infolge des Ausscheidens durch
     Umsetzung freigewordenen Arbeitsplatz beschäftigt oder
 
-    c)  einen Auszubildenden beschäftigt, sofern der Arbeitgeber in der Regel
-        ausschließlich der Auszubildenden und Schwerbehinderten nicht mehr als
-        zwanzig Arbeitnehmer beschäftigt. § 3 Abs. Satz 2 bis 4 des
-        Aufwendungsausgleichsgesetzes gilt entsprechend mit der Maßgabe, daß
-        das letzte Kalenderjahr vor Beginn des Ausbildungsverhältnisses
+    c)  einen Auszubildenden beschäftigt, sofern der Arbeitgeber in der
+        Regel ausschließlich der Auszubildenden und Schwerbehinderten nicht
+        mehr als zwanzig Arbeitnehmer beschäftigt. § 3 Abs. Satz 2 bis 4
+        des Aufwendungsausgleichsgesetzes gilt entsprechend mit der Maßgabe,
+        daß das letzte Kalenderjahr vor Beginn des Ausbildungsverhältnisses
         maßgebend ist.
 
-
-
-
-
-
-
-(2) Den in Absatz 1 Nr. 1 Buchstabe b genannten Leistungen stehen
-vergleichbare Leistungen einer Versicherungs- oder
-Versorgungseinrichtung oder eines Versicherungsunternehmens gleich,
-wenn der ausgeschiedene Arbeitnehmer in der vorhergehenden
+(2) Den in Absatz 1 Nr. 1 Buchstabe b genannten Leistungen
+stehen vergleichbare Leistungen einer Versicherungs- oder
+Versorgungseinrichtung oder eines Versicherungsunternehmens
+gleich, wenn der ausgeschiedene Arbeitnehmer in der vorhergehenden
 Beschäftigung (Absatz 1 Nr. 2) von der Versicherungspflicht in der
 Rentenversicherung befreit war.
 
@@ -133,16 +115,12 @@ des Bergbaus erhält.
 1.  das dem ausgeschiedenen Arbeitnehmer in Höhe von 65 vom Hundert des
     Bruttoarbeitsentgelts gezahlte Vorruhestandsgeld,
 
-
-2.  den Beitragsanteil des Arbeitgebers zur Pflichtversicherung des
-    ausgeschiedenen Arbeitnehmers in der gesetzlichen Krankenversicherung
-    und in der gesetzlichen Rentenversicherung, höchstens jedoch den
-    Beitragsanteil, den der Arbeitgeber bei Zahlung eines
-    Vorruhestandsgeldes in Höhe von 65 vom Hundert des
+2.  den Beitragsanteil des Arbeitgebers zur Pflichtversicherung
+    des ausgeschiedenen Arbeitnehmers in der gesetzlichen
+    Krankenversicherung und in der gesetzlichen Rentenversicherung,
+    höchstens jedoch den Beitragsanteil, den der Arbeitgeber bei
+    Zahlung eines Vorruhestandsgeldes in Höhe von 65 vom Hundert des
     Bruttoarbeitsentgelts entrichten müßte.
-
-
-
 
 (2) Bruttoarbeitsentgelt im Sinne des Absatzes 1 ist das
 Arbeitsentgelt, das der ausgeschiedene Arbeitnehmer vor Beginn der
@@ -159,44 +137,44 @@ von Vorruhestandsgeld, die vor Beginn der Vorruhestandsleistungen nach
 § 7 Abs. 2 des Angestelltenversicherungsgesetzes, nach Artikel 2 § 1
 Abs. 1 und 2 des Angestelltenversicherungs-Neuregelungsgesetzes oder
 nach Artikel 2 § 1 Abs. 1 und 1a des Knappschaftsrentenversicherungs-
-Neuregelungsgesetzes von der Versicherungspflicht befreit oder in
-Artikel 2 § 1 Abs. 4 Satz 1 des Angestelltenversicherungs-
+Neuregelungsgesetzes von der Versicherungspflicht befreit oder
+in Artikel 2 § 1 Abs. 4 Satz 1 des Angestelltenversicherungs-
 Neuregelungsgesetzes oder in Artikel 2 § 1 Abs. 1b Satz 1 des
-Knappschaftsrentenversicherungs-Neuregelungsgesetzes genannt sind und
-auf ihre Befreiung von der Versicherungspflicht nicht verzichtet
-haben, die Hälfte der Beiträge, die die Bundesanstalt nach § 166b Abs.
-1 und 1a des Arbeitsförderungsgesetzes zu tragen hätte, wenn eine der
-in dieser Vorschrift genannten Leistungen in Höhe des
+Knappschaftsrentenversicherungs-Neuregelungsgesetzes genannt sind
+und auf ihre Befreiung von der Versicherungspflicht nicht verzichtet
+haben, die Hälfte der Beiträge, die die Bundesanstalt nach § 166b
+Abs. 1 und 1a des Arbeitsförderungsgesetzes zu tragen hätte, wenn
+eine der in dieser Vorschrift genannten Leistungen in Höhe des
 Vorruhestandsgeldes zu zahlen wäre.
 
 (4) Als Beitragsanteil des Arbeitgebers zur gesetzlichen
 Krankenversicherung im Sinne des Absatzes 1 Nr. 2 gilt bei Beziehern
 von Vorruhestandsgeld, die vor Beginn der Vorruhestandsleistungen nur
-wegen Überschreitens der Jahresarbeitsverdienstgrenze nicht nach § 165
-Abs. 1 Nr. 2 der Reichsversicherungsordnung versicherungspflichtig
+wegen Überschreitens der Jahresarbeitsverdienstgrenze nicht nach §
+165 Abs. 1 Nr. 2 der Reichsversicherungsordnung versicherungspflichtig
 oder die nach § 173b der Reichsversicherungsordnung oder nach Artikel
 3 § 1 Abs. 4 des Gesetzes zur Änderung des Mutterschutzgesetzes und
 der Reichsversicherungsordnung vom 24. August 1965 (BGBl. I S. 912)
 von der Versicherungspflicht befreit waren, der Beitragszuschuß, den
 der Arbeitgeber nach § 257 Abs. 3 des Fünften Buches Sozialgesetzbuch
 zu zahlen hat. Satz 1 ist nicht anzuwenden, wenn der Bezieher des
-Vorruhestandsgeldes als landwirtschaftlicher Unternehmer nach § 2 Abs.
-1 Nr. 1 des Gesetzes über die Krankenversicherung der Landwirte
+Vorruhestandsgeldes als landwirtschaftlicher Unternehmer nach § 2
+Abs. 1 Nr. 1 des Gesetzes über die Krankenversicherung der Landwirte
 versichert ist.
 
-(5) Der Zuschuß beträgt abweichend von Absatz 1 34 vom Hundert, wenn
-der Anspruch auf Vorruhestandsleistungen für den Fall der
-Zahlungseinstellung durch den Arbeitgeber nicht auf Grund
+(5) Der Zuschuß beträgt abweichend von Absatz 1 34 vom Hundert,
+wenn der Anspruch auf Vorruhestandsleistungen für den Fall
+der Zahlungseinstellung durch den Arbeitgeber nicht auf Grund
 tarifvertraglicher Vereinbarung gesichert ist.
 
 
 ## § 4 Dynamisierung des Zuschusses
 
-Der Zuschuß zu den Aufwendungen des Arbeitgebers erhöht sich jeweils
-nach Ablauf eines Jahres seit Beginn der Zahlung des
+Der Zuschuß zu den Aufwendungen des Arbeitgebers erhöht sich
+jeweils nach Ablauf eines Jahres seit Beginn der Zahlung des
 Vorruhestandsgeldes nach Maßgabe der Veränderung der Bruttolohn- und
--gehaltssumme je durchschnittlich beschäftigten Arbeitnehmer, die der
-Feststellung des aktuellen Rentenwerts nach dem Sechsten Buch
+-gehaltssumme je durchschnittlich beschäftigten Arbeitnehmer, die
+der Feststellung des aktuellen Rentenwerts nach dem Sechsten Buch
 Sozialgesetzbuch zugrunde liegt. Der Zuschuß wird höchstens um den
 Vomhundertsatz angehoben, um den der Arbeitgeber das Vorruhestandsgeld
 erhöht hat.
@@ -209,23 +187,19 @@ erhöht hat.
 1.  mit Ablauf des Monats, in dem der ausgeschiedene Arbeitnehmer das 65.
     Lebensjahr vollendet,
 
-
 2.  mit Beginn des Monats, für den der ausgeschiedene Arbeitnehmer eine
     der in § 2 Abs. 1 Nr. 1 Buchstabe b genannten Altersrenten oder
     Altersbezüge oder eine Leistung beanspruchen kann, die nach § 2 Abs. 2
     den Altersrenten oder Altersbezügen gleichgestellt ist.
 
-
-
-
 (2) Der Anspruch auf den Zuschuß besteht nicht, solange der
 Arbeitgeber auf dem freigemachten oder durch Umsetzung freigewordenen
 Arbeitsplatz keinen Arbeitnehmer mehr beschäftigt, der bei Beginn der
 Beschäftigung eine der in § 2 Abs. 1 Nr. 5 Buchstabe a bis c genannten
-Voraussetzungen erfüllt hat. Dies gilt nicht, wenn der Arbeitgeber den
-Arbeitsplatz mit einem Arbeitnehmer, der eine der in § 2 Abs. 1 Nr. 5
-Buchstabe a bis c genannten Voraussetzungen erfüllt, innerhalb von
-drei Monaten wiederbesetzt oder der Arbeitgeber insgesamt für zwei
+Voraussetzungen erfüllt hat. Dies gilt nicht, wenn der Arbeitgeber
+den Arbeitsplatz mit einem Arbeitnehmer, der eine der in § 2 Abs. 1
+Nr. 5 Buchstabe a bis c genannten Voraussetzungen erfüllt, innerhalb
+von drei Monaten wiederbesetzt oder der Arbeitgeber insgesamt für zwei
 Jahre die Voraussetzungen für den Anspruch auf einen Zuschuß zu den
 Aufwendungen für Vorruhestandsleistungen an den Arbeitnehmer erfüllt
 hat.
@@ -242,12 +216,8 @@ hat.
     erhält; die Grenze hinsichtlich des Sechstels des Gesamteinkommens ist
     dabei nicht anzuwenden,
 
-
 2.  erlischt, wenn der Anspruch nach Nummer 1 mindestens 150 Kalendertage
     geruht hat. Dabei sind mehrere Ruhenszeiträume zusammenzurechnen.
-
-
-
 
 (2) Beschäftigungen oder selbständige Tätigkeiten bleiben bei der
 Anwendung des Absatzes 1 unberücksichtigt, soweit der ausgeschiedene
@@ -270,20 +240,20 @@ Zuschusses.
 Lebensjahres gegenüber seinem Arbeitgeber zur Inanspruchnahme von
 Vorruhestandsgeld berechtigt ist, ist nicht als ein die Kündigung des
 Arbeitsverhältnisses durch den Arbeitgeber bedingender Grund im Sinne
-des § 1 Abs. 2 Satz 1 des Kündigungsschutzgesetzes anzusehen; sie kann
-auch nicht bei der sozialen Auswahl nach § 1 Abs. 3 Satz 1 des
+des § 1 Abs. 2 Satz 1 des Kündigungsschutzgesetzes anzusehen; sie
+kann auch nicht bei der sozialen Auswahl nach § 1 Abs. 3 Satz 1 des
 Kündigungsschutzgesetzes zum Nachteil des Arbeitnehmers berücksichtigt
 werden.
 
 (2) Die Verpflichtung des Arbeitgebers zur Zahlung von
-Vorruhestandsgeld kann nicht für den Fall ausgeschlossen werden, daß
-ein Anspruch des Arbeitgebers auf den Zuschuß der Bundesanstalt nicht
-besteht, weil keine der in § 2 Abs. 1 Nr. 5 oder in § 5 Abs. 2
-genannten Voraussetzungen vorliegt. Das gleiche gilt für den Fall, daß
-der Arbeitgeber den Zuschuß nur deshalb nicht erhält, weil er den
-Antrag nach § 11 Abs. 1 nicht, nicht richtig, nicht vollständig oder
-nicht rechtzeitig gestellt hat oder seinen Mitwirkungspflichten nicht
-nachgekommen ist, ohne daß dafür eine Verletzung der
+Vorruhestandsgeld kann nicht für den Fall ausgeschlossen werden,
+daß ein Anspruch des Arbeitgebers auf den Zuschuß der Bundesanstalt
+nicht besteht, weil keine der in § 2 Abs. 1 Nr. 5 oder in § 5 Abs.
+2 genannten Voraussetzungen vorliegt. Das gleiche gilt für den Fall,
+daß der Arbeitgeber den Zuschuß nur deshalb nicht erhält, weil er
+den Antrag nach § 11 Abs. 1 nicht, nicht richtig, nicht vollständig
+oder nicht rechtzeitig gestellt hat oder seinen Mitwirkungspflichten
+nicht nachgekommen ist, ohne daß dafür eine Verletzung der
 Mitwirkungspflichten des Arbeitnehmers ursächlich war.
 
 (3) Der Anspruch auf Vorruhestandsgeld kann wie der Anspruch auf
@@ -314,17 +284,13 @@ Vorruhestandsgeld wie ein Arbeitgeber, wenn
 1.  über das Vermögen des Arbeitgebers oder über seinen Nachlaß das
     Insolvenzverfahren eröffnet worden ist, oder
 
-
 2.  der Antrag auf Eröffnung des Insolvenzverfahrens über das Vermögen des
     Arbeitgebers oder über seinen Nachlaß mangels Masse abgewiesen worden
     ist, oder
 
-
 3.  der Arbeitgeber mit seinen Gläubigern zur Abwendung eines
     Insolvenzverfahrens einen außergerichtlichen Vergleich schließt und
     die Bundesanstalt dem Vergleich zustimmt.
-
-
 
 Vorruhestandsgeld nach Satz 1 ist auch zu gewähren, soweit die
 Durchsetzung des Anspruchs gegen den Arbeitgeber für den Arbeitnehmer
@@ -335,10 +301,10 @@ wegen wirtschaftlicher Notlage eingestellt hat.
 (2) Die Leistung nach Absatz 1 wird in Höhe des Vorruhestandsgeldes
 nach § 3 Abs. 1 Nr. 1 gewährt. § 4 gilt entsprechend.
 
-(3) Der Anspruch des Arbeitnehmers auf Vorruhestandsgeld gegen den
-Arbeitgeber geht auf die Bundesanstalt über, soweit diese nach Absatz
-1 Vorruhestandsgeld zu leisten hat. Der Arbeitgeber hat der
-Bundesanstalt die Beiträge zur gesetzlichen Kranken- und
+(3) Der Anspruch des Arbeitnehmers auf Vorruhestandsgeld gegen
+den Arbeitgeber geht auf die Bundesanstalt über, soweit diese
+nach Absatz 1 Vorruhestandsgeld zu leisten hat. Der Arbeitgeber
+hat der Bundesanstalt die Beiträge zur gesetzlichen Kranken- und
 Rentenversicherung zu erstatten, die sie nach Absatz 1 getragen hat.
 
 (4) Die §§ 141k und 141l des Arbeitsförderungsgesetzes gelten
@@ -358,11 +324,7 @@ grobfahrlässig
 
 1.  Angaben gemacht hat, die unrichtig oder unvollständig sind, oder
 
-
 2.  der Mitteilungspflicht nach Absatz 1 nicht nachgekommen ist.
-
-
-
 
 
 ## § 11 Verfahren
@@ -374,9 +336,9 @@ Antrag ist schriftlich beim zuständigen Arbeitsamt zu stellen.
 (2) Bei der Durchführung des § 9 ist § 141g des
 Arbeitsförderungsgesetzes entsprechend anzuwenden.
 
-(3) Die Bundesanstalt bestimmt durch Anordnung das Nähere über das
-Verfahren; sie kann hierin auch die Beteiligung der
-Verwaltungsausschüsse vorsehen. § 191 Abs. 3 und 4 des
+(3) Die Bundesanstalt bestimmt durch Anordnung das Nähere
+über das Verfahren; sie kann hierin auch die Beteiligung
+der Verwaltungsausschüsse vorsehen. § 191 Abs. 3 und 4 des
 Arbeitsförderungsgesetzes gilt entsprechend. Unter den Voraussetzungen
 des § 191 Abs. 5 des Arbeitsförderungsgesetzes kann der Bundesminister
 für Arbeit und Sozialordnung anstelle der in Satz 1 vorgesehenen
@@ -391,21 +353,17 @@ bestimmen.
 Bezug von Vorruhestandsgeld als Arbeitslohn aus einem gegenwärtigen
 Dienstverhältnis, wenn im Zeitpunkt der Zahlung
 
-1.  die Voraussetzungen für die Gewährung des Zuschusses im Sinne des § 1
-    mit Ausnahme der in § 2 Abs. 1 Nr. 5 und § 11 genannten
+1.  die Voraussetzungen für die Gewährung des Zuschusses im Sinne
+    des § 1 mit Ausnahme der in § 2 Abs. 1 Nr. 5 und § 11 genannten
     Voraussetzungen vorliegen und
-
 
 2.  der Empfänger die Wohnsitzvoraussetzungen des § 21 Abs. 1 Nr. 1 bis 3
     des Berlinförderungsgesetzes erfüllt und sie auch bei Beendigung der
     Erwerbstätigkeit erfüllt hat.
 
-
-
-
-(2) Für die Erhebung der Lohnsteuer gelten in den Fällen des § 8 die
-gemeinsame Einrichtung und die Ausgleichskasse der Arbeitgeber sowie
-in den Fällen des § 9 die Bundesanstalt als Arbeitgeber und der
+(2) Für die Erhebung der Lohnsteuer gelten in den Fällen des § 8
+die gemeinsame Einrichtung und die Ausgleichskasse der Arbeitgeber
+sowie in den Fällen des § 9 die Bundesanstalt als Arbeitgeber und der
 Leistungsempfänger als Arbeitnehmer.
 
 (3) Einrichtungen im Sinne des § 8 sind, soweit sie die in dieser
@@ -415,9 +373,9 @@ Gewerbesteuer und Vermögensteuer befreit.
 
 ## § 13 Bußgeldvorschriften
 
-(1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen §
-60 Abs. 1 Nr. 2 des Ersten Buches Sozialgesetzbuch eine Änderung in
-den Verhältnissen, die für den Anspruch auf den Zuschuß zu den
+(1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen
+§ 60 Abs. 1 Nr. 2 des Ersten Buches Sozialgesetzbuch eine Änderung
+in den Verhältnissen, die für den Anspruch auf den Zuschuß zu den
 Aufwendungen für Vorruhestandsleistungen oder für den Anspruch auf
 Vorruhestandsgeld nach § 9 Abs. 1 erheblich sind, dem Arbeitsamt
 nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig
@@ -446,8 +404,8 @@ Zeitpunkt vorgelegen haben.
 
 ## § 15 Berlin-Klausel
 
-Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 und des § 13 Abs. 1
-des Dritten Überleitungsgesetzes auch im Land Berlin.
+Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 und des § 13
+Abs. 1 des Dritten Überleitungsgesetzes auch im Land Berlin.
 Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen werden,
 gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.
 

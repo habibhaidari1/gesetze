@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zu dem Übereinkommen vom 21. Mai 1974 über die Verbreitung der durch
-  Satelliten übertragenen programmtragenden Signale
+Title: Gesetz zu dem Übereinkommen vom 21. Mai 1974 über die Verbreitung der durch Satelliten übertragenen programmtragenden Signale
 jurabk: SatellitÜbkG
 layout: default
 origslug: satellit_bkg
@@ -17,7 +16,6 @@ Fundstelle
 :   BGBl II: 1979, 113
 
 
-
 ## Art 1 Zustimmung zu dem Übereinkommen
 
 Dem in Brüssel am 21. Mai 1974 von der Bundesrepublik Deutschland
@@ -31,12 +29,12 @@ Satelliten übertragenen programmtragenden Signale wird zugestimmt. Das
 (1) Sendeunternehmen mit Sitz in einem Vertragsstaat des
 Übereinkommens haben das ausschließliche Recht, Sendungen, die zur
 Ausstrahlung an die Allgemeinheit oder einen Teil der Allgemeinheit
-bestimmt sind und die sie über außerirdische, zur Übertragung von
-Signalen geeignete Vorrichtungen (Satelliten) an andere
-Sendeunternehmen übertragen, an die Allgemeinheit oder einen Teil der
-Allgemeinheit weiterzusenden. Das Recht erstreckt sich nicht auf
-Weitersendungen, die unmittelbar oder mittelbar auf einer mit
-Einwilligung des berechtigten Sendeunternehmens vorgenommenen
+bestimmt sind und die sie über außerirdische, zur Übertragung
+von Signalen geeignete Vorrichtungen (Satelliten) an andere
+Sendeunternehmen übertragen, an die Allgemeinheit oder einen Teil
+der Allgemeinheit weiterzusenden. Das Recht erstreckt sich nicht
+auf Weitersendungen, die unmittelbar oder mittelbar auf einer
+mit Einwilligung des berechtigten Sendeunternehmens vorgenommenen
 Weitersendung der geschützten Sendung beruhen.
 
 (2) Das Recht erlischt fünfundzwanzig Jahre nach der Übertragung über
@@ -49,11 +47,8 @@ geschützten Sendungen, wenn die Auszüge
 
 a)  der Berichterstattung über Tagesfragen dienen oder
 
-
 b)  in eine selbständige Sendung zur Erläuterung des Inhalts aufgenommen
     werden
-
-
 
 und den durch den Zweck gebotenen Umfang nicht überschreiten.
 
@@ -63,8 +58,8 @@ die die Verletzung des Rechts zur Weitersendung von Funksendungen (§
 87 Abs. 1 Nr. 1 des Urheberrechtsgesetzes) betreffen, entsprechend
 anzuwenden.
 
-(5) Die Vorschriften der Absätze 1 bis 4 sind nicht anzuwenden, wenn
-die Übertragung über Satelliten vor dem Inkrafttreten des
+(5) Die Vorschriften der Absätze 1 bis 4 sind nicht anzuwenden,
+wenn die Übertragung über Satelliten vor dem Inkrafttreten des
 Übereinkommens für die Bundesrepublik Deutschland stattgefunden hat.
 
 (6) § 87 des Urheberrechtsgesetzes bleibt unberührt.

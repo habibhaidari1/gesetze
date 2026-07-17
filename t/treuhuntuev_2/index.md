@@ -1,7 +1,5 @@
 ---
-Title: Zweite Verordnung zur Übertragung von unternehmensbezogenen Aufgaben nach dem
-  Treuhandgesetz und von Unternehmensbeteiligungen der Bundesanstalt für vereinigungsbedingte
-  Sonderaufgaben
+Title: Zweite Verordnung zur Übertragung von unternehmensbezogenen Aufgaben nach dem Treuhandgesetz und von Unternehmensbeteiligungen der Bundesanstalt für vereinigungsbedingte Sonderaufgaben
 jurabk: TreuhUntÜV 2
 layout: default
 origslug: treuhunt_v_2
@@ -32,8 +30,8 @@ eingefügt worden ist, verordnet die Bundesregierung:
 
 Die der Bundesanstalt für vereinigungsbedingte Sonderaufgaben auf
 Grund des Treuhandgesetzes und des Artikels 25 des Einigungsvertrages
-zugewiesenen unternehmensbezogenen Aufgaben werden zu den in § 2
-genannten Zeitpunkten auf das Bundesministerium der Finanzen
+zugewiesenen unternehmensbezogenen Aufgaben werden zu den in §
+2 genannten Zeitpunkten auf das Bundesministerium der Finanzen
 übertragen, soweit die in § 2 bezeichneten Unternehmen einschließlich
 ihrer Beteiligungen betroffen sind. Das Bundesministerium der Finanzen
 nimmt diese Aufgaben im Einvernehmen mit dem Bundesministerium für
@@ -62,69 +60,12 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 ## Anlage (zu § 2 Abs. 2)
 
-
-*    *   Firma
-
-    *   Sitz
-
-    *   Handelsregister-Nummer
-
-    *   Amtsgericht
-
-
-*    *   EXHO Immobilien-Verwaltungs-Gesellschaft mbH
-
-    *   Berlin
-
-    *   HRB 38420
-
-    *   Berlin-Charlottenburg
-
-
-*    *   FREHO Immobilien-Verwaltungs-Gesellschaft mbH
-
-    *   Berlin
-
-    *   HRB 38421
-
-    *   Berlin-Charlottenburg
-
-
-*    *   Behim Handelsimmobiliengesellschaft mbH
-
-    *   Berlin
-
-    *   HRB 34447
-
-    *   Berlin-Charlottenburg
-
-
-*    *   Handelsgesellschaft Aue/Schwarzenberg mbH
-
-    *   Berlin
-
-    *   HRB 58736
-
-    *   Berlin-Charlottenburg
-
-
-*    *   Frankfurter Allgemeine Markt GmbH
-
-    *   Berlin
-
-    *   HRB 57696
-
-    *   Berlin-Charlottenburg
-
-
-*    *   Rugia Hotel- und Gastronomie GmbH
-
-    *   Berlin
-
-    *   HRB 59040
-
-    *   Berlin-Charlottenburg
-
-
-
+| Firma | Sitz | Handelsregister-Nummer | Amtsgericht |
+| --- | --- | --- | --- |
+| EXHO Immobilien-Verwaltungs-Gesellschaft mbH | Berlin | HRB 38420 | Berlin-Charlottenburg |
+| FREHO Immobilien-Verwaltungs-Gesellschaft mbH | Berlin | HRB 38421 | Berlin-Charlottenburg |
+| Behim Handelsimmobiliengesellschaft mbH | Berlin | HRB 34447 | Berlin-Charlottenburg |
+| Handelsgesellschaft Aue/Schwarzenberg mbH | Berlin | HRB 58736 | Berlin-Charlottenburg |
+| Frankfurter Allgemeine Markt GmbH | Berlin | HRB 57696 | Berlin-Charlottenburg |
+| Rugia Hotel- und Gastronomie GmbH | Berlin | HRB 59040 | Berlin-Charlottenburg |
 

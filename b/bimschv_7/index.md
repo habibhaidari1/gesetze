@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl I: 1975, 3133
 
 
-
 ## Eingangsformel
 
 Auf Grund des § 23 Abs. 1 des Bundes-Immissionsschutzgesetzes vom 15.
@@ -29,10 +28,10 @@ des Bundesrates verordnet:
 
 ## § 1 Anwendungsbereich
 
-Diese Verordnung gilt für die Errichtung, die Beschaffenheit und den
-Betrieb staub- oder späneemittierender Anlagen im Sinne des § 3 Abs. 5
-Nr. 1 des Bundes-Immissionsschutzgesetzes zur Bearbeitung oder
-Verarbeitung von Holz oder Holzwerkstoffen einschließlich der
+Diese Verordnung gilt für die Errichtung, die Beschaffenheit und
+den Betrieb staub- oder späneemittierender Anlagen im Sinne des §
+3 Abs. 5 Nr. 1 des Bundes-Immissionsschutzgesetzes zur Bearbeitung
+oder Verarbeitung von Holz oder Holzwerkstoffen einschließlich der
 zugehörigen Förder- und Lagereinrichtungen für Späne und Stäube. Sie
 gilt nicht für Anlagen, die einer Genehmigung nach § 4 des Bundes-
 Immissionsschutzgesetzes bedürfen.
@@ -68,19 +67,15 @@ oder durch Befeuchten an der Austragsstelle.
 
 (1) Anlagen im Sinne des § 1 sind so zu betreiben, daß die
 Massenkonzentration an Staub und Spänen in der Abluft, bezogen auf den
-Normzustand
-(0 Grad C; 1013 Millibar),
+Normzustand (0 Grad C; 1013 Millibar),
 
 1.  einen Wert von 50 Milligramm je Kubikmeter Abluft nicht überschreitet,
     wenn in der Abluft Schleifstaub oder ein Gemisch mit Schleifstaub
     enthalten ist oder
 
-
 2.  einen aus dem folgenden Diagramm sich ergebenden Wert nicht
     überschreitet, wenn in der Abluft kein Schleifstaub, sondern anderer
     Staub oder Späne enthalten sind.
-
-
 
 (Inhalt: nicht darstellbare Abbildung,
 Fundstelle: BGBl. I 1975, 3133)
@@ -120,20 +115,14 @@ Immissionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 1.  entgegen § 2 eine Anlage nicht mit einer Abluftreinigungsanlage
     ausrüstet,
 
-
 2.  entgegen § 3 Holzstaub und Späne nicht in Bunkern, Silos oder
     sonstigen geschlossenen Räumen lagert, keine regelmäßigen
     Füllstandskontrollen durchführt, Bunker, Silos oder sonstige
     geschlossene Räume sowie Filteranlagen nicht so entleert, daß
     Emissionen so weit wie möglich vermieden werden oder
 
-
-3.  entgegen § 4
-    oder § 8                    eine Anlage so betreibt, daß die zulässige
+3.  entgegen § 4 *oder § 8* eine Anlage so betreibt, daß die zulässige
     Massenkonzentration an Staub in der Abluft überschritten wird.
-
-
-
 
 
 ## § 8

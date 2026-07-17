@@ -1,6 +1,5 @@
 ---
-Title: Zweite Verordnung über eine Allgemeine Genehmigung nach dem Gesetz über die
-  Kontrolle von Kriegswaffen
+Title: Zweite Verordnung über eine Allgemeine Genehmigung nach dem Gesetz über die Kontrolle von Kriegswaffen
 jurabk: KrWaffGenV 2
 layout: default
 origslug: krwaffgenv_2
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 1975, 421
-
 
 
 ## Eingangsformel

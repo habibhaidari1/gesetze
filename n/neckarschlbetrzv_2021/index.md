@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Festsetzung der Schleusenbetriebszeiten an der Bundeswasserstraße
-  Neckar
+Title: Verordnung über die Festsetzung der Schleusenbetriebszeiten an der Bundeswasserstraße Neckar
 jurabk: NeckarSchlBetrZV 2021
 layout: default
 origslug: neckarschlbetrzv_2021
@@ -19,12 +18,12 @@ Fundstelle
 
 ## Eingangsformel
 
-Auf Grund des § 46 Satz 1 Nummer 1 des Bundeswasserstraßengesetzes in
-der Fassung der Bekanntmachung vom 23. Mai 2007 (BGBl I S. 962, 2008 I
-S. 1980), der durch Artikel 522 Nummer 7 der Verordnung von 31. August
-2015 (BGBl. I S. 1474) geändert worden ist, in Verbindung mit § 1 der
-Verordnung zur Übertragung der Ermächtigung zum Erlass von
-Rechtsverordnungen nach dem Bundeswasserstraßengesetz über die
+Auf Grund des § 46 Satz 1 Nummer 1 des Bundeswasserstraßengesetzes
+in der Fassung der Bekanntmachung vom 23. Mai 2007 (BGBl I S. 962,
+2008 I S. 1980), der durch Artikel 522 Nummer 7 der Verordnung von
+31\. August 2015 (BGBl. I S. 1474) geändert worden ist, in Verbindung
+mit § 1 der Verordnung zur Übertragung der Ermächtigung zum Erlass
+von Rechtsverordnungen nach dem Bundeswasserstraßengesetz über die
 Regelung des Betriebs von Anlagen vom 31. März 1970 (BGBl. I S. 315),
 der durch Artikel 23 der Verordnung vom 2. Juni 2016 (BGBl. I S. 1257)
 geändert worden ist, verordnet die Generaldirektion für Wasserstraßen
@@ -38,11 +37,7 @@ werden vorbehaltlich des Absatzes 2 wie folgt festgesetzt:
 
 1.  von Montag 6 Uhr bis Samstag 22 Uhr nach Maßgabeder Sätze 2 bis 4,
 
-
 2.  am Sonntag von 8 Uhr bis 16 Uhr.
-
-
-
 
 Von Montag bis Freitag werden in der Zeit von 22 bis 6 Uhr nur für die
 gewerbliche Schifffahrt nach einer schriftlichen oder elektronischen
@@ -67,18 +62,12 @@ folgenden besonderen Betriebsregelungen:
 
 1. am Karsamstag, am Pfingstsamstag und am 31. Dezember: Ende des Schleusenbetriebs um 14 Uhr,
 
-
 2. am 1. Januar, am Ostersonntag und am Ostermontag, am Pfingstsonntag und am Pfingstmontag sowie am 24., 25. und 26. Dezember: Ruhen des Schleusenbetriebs,
 
-
 3. am 2. Januar und am 27. Dezember: Beginn des Schleusenbetriebs um 6 Uhr, wenn der Tag auf einen Werktag
-    fällt,
-
+                                     fällt,
 
 4. am Dienstag nach Ostern und am Dienstag nach Pfingsten: Beginn des Schleusenbetriebs um 6 Uhr.
-
-
-
 
 (2) Absatz 1 gilt nicht für die Schleusen nach § 1 Absatz 2.
 

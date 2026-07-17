@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl: 1950, 26
 
 
-
 ## (XXXX)
 
 (1) Auf Grund eines Beschlusses der Bundesregierung gebe ich hiermit

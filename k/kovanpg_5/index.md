@@ -22,7 +22,6 @@ Zuletzt geändert durch
 ## Art 1
 
 
-
 ## Art 2
 
 -
@@ -31,28 +30,25 @@ Zuletzt geändert durch
 ## Art 3
 
 
-
 ## Art 4
-
 
 
 ## Art 5 - Übergangs- und Schlußvorschriften
 
 
-
-## § 1
+### § 1
 
 -
 
 
-## § 2
+### § 2
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
 im Land Berlin.
 
 
-## § 3
+### § 3
 
 (1) Dieses Gesetz tritt, soweit sich aus Absatz 2 nichts anderes
 ergibt, am 1. Januar 1974 in Kraft.

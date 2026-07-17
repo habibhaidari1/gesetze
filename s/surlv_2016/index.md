@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über den Sonderurlaub für Bundesbeamtinnen und Bundesbeamte sowie
-  für Richterinnen und Richter des Bundes
+Title: Verordnung über den Sonderurlaub für Bundesbeamtinnen und Bundesbeamte sowie für Richterinnen und Richter des Bundes
 jurabk: SUrlV 2016
 layout: default
 origslug: surlv_2016
@@ -17,9 +16,11 @@ Fundstelle
 :   BGBl I: 2016, 1284
 
 Zuletzt geändert durch
-:   Art. 4 V v. 22.12.2021 I 5257
+:   Art. 2 Abs. 3 V v. 11.3.2026 I Nr. 67
 
-Stand: Ersetzt V 2030-2-11 v. 18.8.1965 I 902 (SUrlV)
+Stand
+:   Ersetzt V 2030-2-11 v. 18.8.1965 I 902 (SUrlV)
+
 
 ## Eingangsformel
 
@@ -40,8 +41,8 @@ Rechtsvorschriften ergeben, bleiben unberührt.
 
 ## § 2 Zuständigkeit
 
-Die Entscheidung über die Gewährung von Sonderurlaub trifft – außer in
-den Fällen des § 22 Absatz 1 Satz 2 und Absatz 3 Satz 2 – die
+Die Entscheidung über die Gewährung von Sonderurlaub trifft – außer
+in den Fällen des § 22 Absatz 1 Satz 2 und Absatz 3 Satz 2 – die
 personalverwaltende Dienstbehörde.
 
 
@@ -52,14 +53,9 @@ Sonderurlaub wird nur gewährt, wenn
 1.  der Anlass, für den Sonderurlaub beantragt wurde, nicht außerhalb der
     Arbeitszeit wahrgenommen oder erledigt werden kann,
 
-
 2.  dienstliche Gründe nicht entgegenstehen und
 
-
 3.  die jeweiligen Voraussetzungen der §§ 5 bis 22 erfüllt sind.
-
-
-
 
 
 ## § 4 Dauer
@@ -74,19 +70,14 @@ Sonderurlaub unter Fortzahlung der Besoldung ist zu gewähren
 
 1.  für die Teilnahme an öffentlichen Wahlen und Abstimmungen,
 
-
 2.  zur Wahrnehmung amtlicher, insbesondere gerichtlicher,
     staatsanwaltschaftlicher oder polizeilicher Termine, sofern sie nicht
     durch private Angelegenheiten der Beamtin oder des Beamten veranlasst
     sind, oder
 
-
 3.  zur Ausübung einer ehrenamtlichen Tätigkeit oder eines öffentlichen
     Ehrenamtes, wenn die Übernahme der Tätigkeit auf einer gesetzlichen
     Vorschrift beruht.
-
-
-
 
 
 ## § 6 Sonderurlaub zur Ausübung einer Tätigkeit in öffentlichen zwischenstaatlichen oder überstaatlichen Einrichtungen oder in einer öffentlichen Einrichtung eines Mitgliedstaates der Europäischen Union
@@ -97,14 +88,10 @@ Entsendung für eine hauptberufliche Tätigkeit
 1.  in einer öffentlichen zwischenstaatlichen oder überstaatlichen
     Einrichtung,
 
-
 2.  in der Verwaltung eines Mitgliedstaates der Europäischen Union oder
-
 
 3.  in einer öffentlichen Einrichtung eines Mitgliedstaates der
     Europäischen Union.
-
-
 
 Die Dauer des Sonderurlaubs richtet sich nach der Dauer der
 Entsendung.
@@ -123,10 +110,10 @@ zu fünf Jahre Sonderurlaub unter Wegfall der Besoldung zu gewähren.
 
 ## § 8 Sonderurlaub im Rahmen des Aufstiegs in eine Laufbahn des gehobenen oder höheren Dienstes
 
-Mit Zustimmung des Bundesministeriums des Innern, für Bau und Heimat
-ist Sonderurlaub unter Fortzahlung der Besoldung zu gewähren, wenn
-Beamtinnen oder Beamte im Rahmen eines Aufstiegs in eine Laufbahn des
-gehobenen oder des höheren Dienstes nach § 39 Absatz 1 der
+Mit Zustimmung des Bundesministeriums des Innern und für Heimat
+ist Sonderurlaub unter Fortzahlung der Besoldung zu gewähren,
+wenn Beamtinnen oder Beamte im Rahmen eines Aufstiegs in eine
+Laufbahn des gehobenen oder des höheren Dienstes nach § 47 der
 Bundeslaufbahnverordnung an Studiengängen außerhalb der Hochschulen
 des Bundes teilnehmen.
 
@@ -141,32 +128,26 @@ Sonderurlaub unter Fortzahlung der Besoldung zu gewähren
     kommunalen Stellen durchgeführt werden, wenn die Teilnahme für die
     dienstliche Tätigkeit von Nutzen ist,
 
-
 2.  zum Ablegen von Abschlussprüfungen nach einer Aus- oder Fortbildung im
     Sinne der Nummer 1 und bei Verwaltungs- und Wirtschaftsakademien zum
     Ablegen von Abschlussprüfungen,
 
-
 3.  für die Teilnahme an Lehrgängen, die der Ausbildung zur
     Jugendgruppenleiterin oder zum Jugendgruppenleiter dienen, oder
 
-
-4.  für die Tätigkeit als ehrenamtliche Jugendgruppenleiterin oder
-    ehrenamtlicher Jugendgruppenleiter bei Lehrgängen oder
+4.  für die Tätigkeit als ehrenamtliche Jugendgruppenleiterin
+    oder ehrenamtlicher Jugendgruppenleiter bei Lehrgängen oder
     Veranstaltungen, wenn diese von Trägern der öffentlichen Jugendhilfe
     oder anerkannten Trägern der freien Jugendhilfe (§ 75 des Achten
     Buches Sozialgesetzbuch) durchgeführt werden.
-
-
-
 
 (2) Für die Teilnahme an förderungswürdigen staatspolitischen
 Bildungsveranstaltungen sind bis zu zehn Arbeitstage Sonderurlaub
 unter Fortzahlung der Besoldung zu gewähren. Wird die
 Bildungsveranstaltung nicht von einer staatlichen Stelle durchgeführt,
-so gilt dies nur, wenn die Bundeszentrale für politische Bildung die
-Förderungswürdigkeit anerkannt hat; das Nähere regelt das
-Bundesministerium des Innern, für Bau und Heimat.
+so gilt dies nur, wenn die Bundeszentrale für politische Bildung
+die Förderungswürdigkeit anerkannt hat; das Nähere regelt das
+Bundesministerium des Innern und für Heimat.
 
 (3) Weiterer Sonderurlaub nach Absatz 2 darf frühestens zwei Jahre
 nach Beendigung des letzten Sonderurlaubs nach Absatz 2 gewährt
@@ -191,9 +172,9 @@ werden.
 der zivilen Verteidigung ist je Kalenderjahr bis zu zehn Arbeitstage
 Sonderurlaub unter Fortzahlung der Besoldung zu gewähren.
 
-(2) Für die Teilnahme an dienstlichen Veranstaltungen im Sinne des §
-81 Absatz 1 des Soldatengesetzes oder für die Dauer eines Einsatzes
-als Mitglied einer Organisation der zivilen Verteidigung ist
+(2) Für die Teilnahme an dienstlichen Veranstaltungen im Sinne
+des § 81 Absatz 1 des Soldatengesetzes oder für die Dauer eines
+Einsatzes als Mitglied einer Organisation der zivilen Verteidigung ist
 Sonderurlaub unter Fortzahlung der Besoldung zu gewähren.
 
 (3) Sonderurlaub unter Fortzahlung der Besoldung ist bei Vorliegen
@@ -203,16 +184,11 @@ der Heranziehung
 1.  zum Feuerlöschdienst einschließlich der von den örtlichen
     Wehrleitungen angeordneten Übungen,
 
-
 2.  zum Wasserwehr- oder Deichdienst einschließlich der von den örtlichen
     Wehrleitungen angeordneten Übungen oder
 
-
 3.  zum Bergwacht- oder Seenotrettungsdienst zwecks Rettung von
     Menschenleben und zum freiwilligen Sanitätsdienst.
-
-
-
 
 
 ## § 12 Sonderurlaub für vereinspolitische Zwecke
@@ -230,13 +206,9 @@ Fortzahlung der Besoldung auch zu gewähren für die Teilnahme
 1.  an Sitzungen eines überörtlichen Parteivorstandes, dem die Beamtin
     oder der Beamte angehört, oder
 
-
 2.  an Bundes-, Landes- oder Bezirksparteitagen, wenn die Beamtin oder der
     Beamte als Mitglied eines Parteivorstandes oder als Delegierte oder
     Delegierter teilnimmt.
-
-
-
 
 
 ## § 13 Sonderurlaub zur Ableistung von Freiwilligendiensten
@@ -247,14 +219,10 @@ gewähren, wenn eine Beamtin oder ein Beamter
 1.  ein freiwilliges soziales Jahr nach § 3 oder § 6 des
     Jugendfreiwilligendienstegesetzes,
 
-
 2.  ein freiwilliges ökologisches Jahr nach § 4 oder § 6 des
     Jugendfreiwilligendienstegesetzes oder
 
-
 3.  einen Bundesfreiwilligendienst nach dem Bundesfreiwilligendienstgesetz
-
-
 
 ableistet.
 
@@ -276,15 +244,11 @@ unter Fortzahlung der Besoldung ist zu gewähren für die Teilnahme
     Berufsverbandsvorstandes, dem die Beamtin oder der Beamte angehört,
     oder
 
-
 2.  an Tagungen von Gewerkschaften oder Berufsverbänden auf
     internationaler Ebene, auf Bundes- oder Landesebene oder, sofern es
     keine Landesebene gibt, auf Bezirksebene, wenn die Beamtin oder der
     Beamte als Mitglied eines Gewerkschafts- oder Berufsverbandsvorstandes
     oder als Delegierte oder Delegierter teilnimmt.
-
-
-
 
 
 ## § 16 Sonderurlaub für kirchliche Zwecke
@@ -297,21 +261,16 @@ Fortzahlung der Besoldung ist zu gewähren für die Teilnahme
     rechtlichen Religionsgesellschaften, wenn die Beamtin oder der Beamte
     dem Verfassungsorgan oder dem Gremium angehört,
 
-
 2.  an Tagungen der Kirchen oder der öffentlich-rechtlichen
     Religionsgesellschaften, wenn die Beamtin oder der Beamte auf
     Anforderung der Kirchenleitung oder der obersten Leitung der
-    Religionsgesellschaft als Delegierte oder Delegierter oder als
-    Mitglied eines Verwaltungsgremiums der Kirche oder der
+    Religionsgesellschaft als Delegierte oder Delegierter oder
+    als Mitglied eines Verwaltungsgremiums der Kirche oder der
     Religionsgesellschaft teilnimmt, oder
-
 
 3.  an Veranstaltungen des Deutschen Evangelischen Kirchentages, des
     Deutschen Katholikentages, des Ökumenischen Kirchentages oder des
     Weltjugendtages.
-
-
-
 
 
 ## § 17 Sonderurlaub für sportliche Zwecke
@@ -320,31 +279,25 @@ Fortzahlung der Besoldung ist zu gewähren für die Teilnahme
 
 1.  für die Teilnahme als aktive Sportlerin oder aktiver Sportler an
 
-    a)  Olympischen Spielen, Paralympischen Spielen, Deaflympischen Spielen,
-        Welt- und Europameisterschaften und den dazugehörigen
-        Vorbereitungswettkämpfen auf Bundesebene sowie den für die
-        Qualifikation erforderlichen sonstigen internationalen
+    a)  Olympischen Spielen, Paralympischen Spielen, Deaflympischen
+        Spielen, Welt- und Europameisterschaften und den dazugehörigen
+        Vorbereitungswettkämpfen auf Bundesebene sowie den für
+        die Qualifikation erforderlichen sonstigen internationalen
         Länderwettkämpfen,
 
-
     b)  Weltcup- und Europacup-Veranstaltungen sowie Europapokal-Wettbewerben,
-
-
 
     wenn die Beamtin oder der Beamte von einem dem Deutschen Olympischen
     Sportbund angeschlossenen Verband als aktive Sportlerin oder aktiver
     Sportler benannt worden ist,
 
-
 2.  für die Teilnahme an Kongressen und Vorstandssitzungen internationaler
     Sportverbände, denen der Deutsche Olympische Sportbund oder ein ihm
-    angeschlossener Sportverband angehört, an Mitgliederversammlungen und
-    Vorstandssitzungen des Deutschen Olympischen Sportbundes und ihm
-    angeschlossener Sportverbände auf Bundesebene sowie an
+    angeschlossener Sportverband angehört, an Mitgliederversammlungen
+    und Vorstandssitzungen des Deutschen Olympischen Sportbundes
+    und ihm angeschlossener Sportverbände auf Bundesebene sowie an
     Vorstandssitzungen solcher Verbände auf Landesebene, wenn die Beamtin
     oder der Beamte dem Gremium angehört.
-
-
 
 Im Fall des Satzes 1 Nummer 2 werden bis zu fünf Arbeitstage
 Sonderurlaub gewährt.
@@ -368,14 +321,11 @@ Beamtinnen oder Beamten
     oder ihrem Lebenspartner im Sinn des Lebenspartnerschaftsgesetzes in
     häuslicher Gemeinschaft leben oder
 
-
-2.  mit einer oder einem Verwandten bis zum vierten Grad, einer oder einem
-    Verschwägerten bis zum zweiten Grad, einem Pflegekind oder
+2.  mit einer oder einem Verwandten bis zum vierten Grad, einer oder
+    einem Verschwägerten bis zum zweiten Grad, einem Pflegekind oder
     Pflegeeltern in häuslicher Gemeinschaft leben und ihnen auf Grund
     gesetzlicher oder sittlicher Verpflichtung nicht nur vorübergehend
     Unterkunft und Unterhalt ganz oder überwiegend gewähren.
-
-
 
 Als Sonderurlaub wird im Kalenderjahr innerhalb eines Zeitraums von
 zwei Monaten ein Arbeitstag gewährt.
@@ -385,20 +335,16 @@ zwei Monaten ein Arbeitstag gewährt.
 1.  die regelmäßige Arbeitszeit auf mindestens fünf Arbeitstage in der
     Woche verteilt ist und
 
-
 2.  die kürzeste Reisestrecke zwischen der Wohnung der Familie und dem Ort
     der Dienstleistung an jedem Arbeitstag nach Nummer 1 mindestens 150
     Kilometer beträgt.
 
-
-
-
 (3) Der Beginn des Sonderurlaubs ist mit den dienstlichen Bedürfnissen
 abzustimmen.
 
-(4) Beamtinnen und Beamten, die im Ausland tätig sind, ist für jede
-Heimfahrt, für die sie eine Reisebeihilfe nach § 13 Absatz 1 der
-Auslandstrennungsgeldverordnung erhalten, Sonderurlaub unter
+(4) Beamtinnen und Beamten, die im Ausland tätig sind, ist für
+jede Heimfahrt, für die sie eine Reisebeihilfe nach § 13 Absatz 1
+der Auslandstrennungsgeldverordnung erhalten, Sonderurlaub unter
 Fortzahlung der Besoldung zu gewähren. Sonderurlaub kann für bis zu
 drei Arbeitstage pro Heimfahrt gewährt werden. Für Heimfahrten dürfen
 pro Kalenderjahr höchstens zwölf Arbeitstage Sonderurlaub gewährt
@@ -417,23 +363,18 @@ angegebenen Umfang zu gewähren:
 
 1.  zwei Arbeitstage für einen Wohnortwechsel aus dienstlichem Anlass,
 
-
 2.  drei Arbeitstage für einen Umzug ins Ausland oder aus dem Ausland ins
     Inland aus dienstlichem Anlass,
-
 
 3.  ein Arbeitstag aus Anlass des 25-, 40- und 50-jährigen
     Dienstjubiläums.
 
-
-
-
-(2) Für die im Bereich der Deutschen Bahn Aktiengesellschaft sowie
-einer nach § 2 Absatz 1 und § 3 Absatz 3 des Deutsche Bahn
+(2) Für die im Bereich der Deutschen Bahn Aktiengesellschaft
+sowie einer nach § 2 Absatz 1 und § 3 Absatz 3 des Deutsche Bahn
 Gründungsgesetzes ausgegliederten Gesellschaft beschäftigten
-Beamtinnen und Beamten kann die oberste Dienstbehörde im Einvernehmen
-mit dem Bundesministerium des Innern, für Bau und Heimat von Absatz 1
-abweichende Regelungen treffen. Für die bei den
+Beamtinnen und Beamten kann die oberste Dienstbehörde im
+Einvernehmen mit dem Bundesministerium des Innern und für Heimat
+von Absatz 1 abweichende Regelungen treffen. Für die bei den
 Postnachfolgeunternehmen beschäftigten Beamtinnen und Beamten kann die
 oberste Dienstbehörde im Einvernehmen mit dem Bundesministerium der
 Finanzen von Absatz 1 abweichende Regelungen treffen.
@@ -447,56 +388,44 @@ die Dauer der notwendigen Abwesenheit
 1.  einer amts-, vertrauens- oder versorgungsärztlich angeordneten
     Untersuchung,
 
-
 2.  einer kurzfristigen Behandlung einschließlich der Anpassung,
     Wiederherstellung oder Erneuerung von Körperersatzstücken oder
 
-
 3.  einer ärztlich verordneten sonstigen Behandlung.
-
-
-
 
 (2) Sonderurlaub unter Fortzahlung der Besoldung ist zu gewähren
 
 1.  für eine stationäre oder ambulante Rehabilitationsmaßnahme,
 
-
 2.  für eine Maßnahme der medizinischen Rehabilitation für Mütter und
     Väter nach § 41 des Fünften Buches Sozialgesetzbuch,
-
 
 3.  für die Betreuung eines Kindes unter zwölf Jahren während einer
     Rehabilitationsmaßnahme als medizinisch notwendig anerkannte
     Begleitperson,
-
 
 4.  für eine ärztlich verordnete familienorientierte Rehabilitation im
     Fall einer Krebs-, Herz- oder Mukoviszidoseerkrankung eines Kindes
     oder für ein Kind, dessen Zustand im Fall einer Operation am Herzen
     oder einer Organtransplantation eine solche Maßnahme erfordert,
 
-
 5.  für ärztlich verordneten Rehabilitationssport oder Funktionstraining
     in Gruppen nach § 44 Absatz 1 Nummer 3 und 4 des Neunten Buches
     Sozialgesetzbuch oder
 
-
 6.  für die Durchführung einer Badekur nach § 11 Absatz 2 des
-    Bundesversorgungsgesetzes.
+    Bundesversorgungsgesetzes in der am 31. Dezember 2023 geltenden
+    Fassung.
 
-
-
-
-(3) Sonderurlaub nach Absatz 2 Nummer 1 bis 3 wird nur bei Vorlage des
-Anerkennungsbescheids der Beihilfefestsetzungsstelle oder des
-Bescheids der Krankenkasse über die Gewährung der
-Rehabilitationsleistung gewährt. Die Maßnahmen müssen entsprechend den
-darin genannten Festlegungen zur Behandlung und zum Behandlungsort
+(3) Sonderurlaub nach Absatz 2 Nummer 1 bis 3 wird nur bei
+Vorlage des Anerkennungsbescheids der Beihilfefestsetzungsstelle
+oder des Bescheids der Krankenkasse über die Gewährung der
+Rehabilitationsleistung gewährt. Die Maßnahmen müssen entsprechend
+den darin genannten Festlegungen zur Behandlung und zum Behandlungsort
 durchgeführt werden.
 
-(4) Die Notwendigkeit der Maßnahmen nach Absatz 2 Nummer 1 bis 3 muss
-durch eine ärztliche Bescheinigung nachgewiesen werden. Die
+(4) Die Notwendigkeit der Maßnahmen nach Absatz 2 Nummer 1 bis 3
+muss durch eine ärztliche Bescheinigung nachgewiesen werden. Die
 Notwendigkeit der Maßnahme nach Absatz 2 Nummer 4 muss durch ein
 Zeugnis des behandelnden Arztes in der Klinik nachgewiesen werden.
 
@@ -510,171 +439,25 @@ Absatz 2 der Bundesbeihilfeverordnung.
 (1) Sonderurlaub unter Fortzahlung der Besoldung ist wie folgt zu
 gewähren:
 
-*    *
-    *   Anlass
+|  | Anlass | Urlaubsdauer |
+| --- | --- | --- |
+| 1. | Niederkunft der Ehefrau, der Lebenspartnerin oder der mit der Beamtin oder dem Beamten in ehe- oder lebenspartnerschaftsähnlicher Gemeinschaft lebenden Lebensgefährtin | ein Arbeitstag |
+| 2. | Tod der Ehefrau oder des Ehemanns, der Lebenspartnerin oder des Lebenspartners, eines Kindes oder eines Elternteils der Beamtin oder des Beamten | zwei Arbeitstage |
+| 3. | bei ärztlich bescheinigter Erkrankung und bei ärztlicher Bescheinigung über die Notwendigkeit zur Pflege, Beaufsichtigung oder Betreuung einer oder eines im Haushalt der Beamtin oder des Beamten lebenden Angehörigen im Sinne des § 20 Absatz 5 Satz 1 des Verwaltungsverfahrensgesetzes | ein Arbeitstag im Urlaubsjahr |
+| 4. | bei ärztlich bescheinigter Erkrankung und bei ärztlicher Bescheinigung über die Notwendigkeit zur Pflege, Beaufsichtigung oder Betreuung eines Kindes der Beamtin oder des Beamten, das noch nicht zwölf Jahre alt ist, oder eines behinderten und auf Hilfe angewiesenen Kindes | für jedes Kind bis zu acht Arbeitstage im Urlaubsjahr |
+| 5. | Erkrankung der Betreuungsperson eines Kindes der Beamtin oder des Beamten, das noch nicht acht Jahre alt ist oder wegen körperlicher, geistiger oder seelischer Behinderung auf Hilfe angewiesen ist | bis zu vier Arbeitstage im Urlaubsjahr |
+| 6. | Fälle, in denen für eine nahe Angehörige oder einen nahen Angehörigen im Sinne des § 7 Absatz 3 des Pflegezeitgesetzes in einer akut auftretenden Pflegesituation eine bedarfsgerechte Pflege organisiert oder eine pflegerische Versorgung sichergestellt werden muss, nach Verlangen unter Vorlage einer ärztlichen Bescheinigung über die Pflegebedürftigkeit im Sinne des § 14 Absatz 1 des Elften Buches Sozialgesetzbuch | für jede pflegebedürftige Person  bis zu neun Arbeitstage |
+| 7. | Spende von Organen und Geweben, die nach § 8 des Transplantationsgesetzes erfolgt, oder für eine Blutspende zur Separation von Blutstammzellen oder anderer Blutbestandteile im Sinne von § 1 des Transfusionsgesetzes, soweit eine ärztliche Bescheinigung vorgelegt wird | Dauer der notwendigen Abwesenheit |
 
-    *   Urlaubsdauer
+(2) Abweichend von Absatz 1 Nummer 4 beträgt die Dauer des gewährten
+Sonderurlaubs im Jahr 2026
 
+1.  für jedes Kind bis zu 13 Arbeitstage im Urlaubsjahr, für alle Kinder
+    zusammen höchstens 30 Arbeitstage im Urlaubsjahr,
 
-*    *   1.
-
-    *   Niederkunft der Ehefrau, der Lebenspartnerin oder der mit der Beamtin
-        oder dem Beamten in ehe- oder lebenspartnerschaftsähnlicher
-        Gemeinschaft lebenden Lebensgefährtin
-
-    *   ein Arbeitstag
-
-
-*    *   2.
-
-    *   Tod der Ehefrau oder des Ehemanns, der Lebenspartnerin oder des
-        Lebenspartners, eines Kindes oder eines Elternteils der Beamtin oder
-        des Beamten
-
-    *   zwei Arbeitstage
-
-
-*    *   3.
-
-    *   bei ärztlich bescheinigter Erkrankung und bei ärztlicher Bescheinigung
-        über die Notwendigkeit zur Pflege, Beaufsichtigung oder Betreuung
-        einer oder eines im Haushalt der Beamtin oder des Beamten lebenden
-        Angehörigen im Sinne des § 20 Absatz 5 Satz 1 des
-        Verwaltungsverfahrensgesetzes
-
-    *   ein Arbeitstag im Urlaubsjahr
-
-
-*    *   4.
-
-    *   bei ärztlich bescheinigter Erkrankung und bei ärztlicher Bescheinigung
-        über die Notwendigkeit zur Pflege, Beaufsichtigung oder Betreuung
-        eines Kindes der Beamtin oder des Beamten, das noch nicht zwölf Jahre
-        alt ist, oder eines behinderten und auf Hilfe angewiesenen Kindes
-
-    *   für jedes Kind
-        bis zu vier
-        Arbeitstage im
-        Urlaubsjahr
-
-
-*    *   5.
-
-    *   Erkrankung der Betreuungsperson eines Kindes der Beamtin oder des
-        Beamten, das noch nicht acht Jahre alt ist oder wegen körperlicher,
-        geistiger oder seelischer Behinderung auf Hilfe angewiesen ist
-
-    *   bis zu vier
-        Arbeitstage im
-        Urlaubsjahr
-
-
-*    *   6.
-
-    *   Fälle, in denen für eine nahe Angehörige oder einen nahen Angehörigen
-        im Sinne des § 7 Absatz 3 des Pflegezeitgesetzes in einer akut
-        auftretenden Pflegesituation eine bedarfsgerechte Pflege organisiert
-        oder eine pflegerische Versorgung sichergestellt werden muss, nach
-        Verlangen unter Vorlage einer ärztlichen Bescheinigung über die
-        Pflegebedürftigkeit im Sinne des § 14 Absatz 1 des Elften Buches
-        Sozialgesetzbuch
-
-    *   für jede pflegebedürftige Person bis zu neun Arbeitstage
-
-
-*    *   6a.
-
-    *   abweichend von Nummer 6 und befristet bis zum 31. März 2022 für Fälle,
-        in denen die Beamtin oder der Beamte in einer wegen der
-        COVID-19-Pandemie akut aufgetretenen Pflegesituation eine
-        bedarfsgerechte häusliche Pflege für die Betreuung einer oder eines
-        nahen Angehörigen im Sinne des § 7 Absatz 3 des Pflegezeitgesetzes
-        sicherstellen oder organisieren muss und in denen die Pflege nicht
-        anderweitig gewährleistet werden kann; dass die Pflegesituation wegen
-        der COVID-19-Pandemie aufgetreten ist, wird bis zum 31. März 2022
-        vermutet
-
-    *   für jede
-        pflegebedürftige
-        Person bis zu 20 Arbeitstage
-
-
-*    *   7.
-
-    *   Spende von Organen und Geweben, die nach § 8 des
-        Transplantationsgesetzes erfolgt, oder für eine Blutspende zur
-        Separation von Blutstammzellen oder anderer Blutbestandteile im Sinne
-        von § 1 des Transfusionsgesetzes, soweit eine ärztliche Bescheinigung
-        vorgelegt wird
-
-    *   Dauer der
-        notwendigen Abwesenheit
-
-
-
-
-(2) In den Fällen des Absatzes 1 Nummer 4 darf die Dauer des gewährten
-Sonderurlaubs bei Beamtinnen und Beamten, deren Dienstbezüge oder
-Anwärterbezüge nicht die Jahresarbeitsentgeltgrenze nach § 6 Absatz 6
-des Fünften Buches Sozialgesetzbuch überschreiten, bis zu 75 Prozent
-der Arbeitstage betragen, die in § 45 Absatz 2 Satz 1 und 2 des
-Fünften Buches Sozialgesetzbuch für eine Freistellung von der
-Arbeitsleistung vorgesehen sind.
-
-(2a) Für das Jahr 2022 erhöht sich die Dauer des Sonderurlaubs nach
-Absatz 1 Nummer 4, auch in Verbindung mit Absatz 2,
-
-1.  bei alleinerziehenden Beamtinnen und Beamten für jedes Kind um 40
-    Arbeitstage, für alle Kinder zusammen höchstens um 86 Arbeitstage, und
-
-
-2.  bei den übrigen Beamtinnen und Beamten für jedes Kind um 20
-    Arbeitstage, für alle Kinder zusammen höchstens um 43 Arbeitstage.
-
-
-
-
-(2b) Bis zum Ablauf des 19. März 2022 besteht der Anspruch auf
-Sonderurlaub nach Absatz 1 Nummer 4, auch in Verbindung mit den
-Absätzen 2 und 2a, auch dann, wenn die Beamtin oder der Beamte ihr
-oder sein Kind, das noch nicht zwölf Jahre alt ist oder das behindert
-und auf Hilfe angewiesen ist, betreut, weil
-
-1.  zur Verhinderung der Verbreitung von Infektionen oder übertragbaren
-    Krankheiten die Schule des Kindes, die Einrichtung zur Betreuung des
-    Kindes oder die Einrichtung für Menschen mit Behinderungen auf Grund
-    des Infektionsschutzgesetzes vorübergehend geschlossen worden ist,
-
-
-2.  das Betreten der Schule des Kindes, der Einrichtung zur Betreuung des
-    Kindes oder der Einrichtung für Menschen mit Behinderungen – auch auf
-    Grund einer Absonderung – untersagt worden ist,
-
-
-3.  Schul- oder Betriebsferien von der zuständigen Behörde aus Gründen des
-    Infektionsschutzes angeordnet oder verlängert worden sind,
-
-
-4.  die Präsenzpflicht in der Schule des Kindes aufgehoben worden ist,
-
-
-5.  der Zugang zu einem Angebot der Kinderbetreuung eingeschränkt worden
-    ist oder
-
-
-6.  das Kind auf Grund einer behördlichen Empfehlung die Schule, die
-    Einrichtung zur Betreuung des Kindes oder die Einrichtung für Menschen
-    mit Behinderungen nicht besucht.
-
-
-
-In den Fällen des Satzes 1 Nummer 1 bis 6 kann die Dienststelle die
-Vorlage einer Bescheinigung der Schule oder der Einrichtung verlangen.
-
-(2c) Für die Zeit, in der ein Elternteil Sonderurlaub nach Absatz 1
-Nummer 4, auch in Verbindung mit den Absätzen 2 und 2b, in Anspruch
-nimmt, ruht für beide Elternteile die Möglichkeit, aus demselben Grund
-Sonderurlaub nach § 22 Absatz 2 in Anspruch zu nehmen.
+2.  bei alleinerziehenden Beamtinnen und Beamten für jedes Kind bis zu
+    26 Arbeitstage im Urlaubsjahr, für alle Kinder zusammen höchstens 60
+    Arbeitstage im Urlaubsjahr.
 
 (3) In den Fällen des Absatzes 1 Nummer 3 bis 5 können auch halbe
 Sonderurlaubstage gewährt werden. Ein halber Sonderurlaubstag
@@ -682,36 +465,69 @@ entspricht der Hälfte der für den jeweiligen Arbeitstag festgesetzten
 regelmäßigen Arbeitszeit.
 
 (4) Die oberste Dienstbehörde kann im Einvernehmen mit dem
-Bundesministerium des Innern, für Bau und Heimat von den Absätzen 1
-bis 3 abweichende Regelungen treffen für Beamtinnen und Beamte, die
+Bundesministerium des Innern und für Heimat von den Absätzen 1 bis
+3 abweichende Regelungen treffen für Beamtinnen und Beamte, die
 beschäftigt sind
 
 1.  im Bereich der Deutschen Bahn Aktiengesellschaft,
 
-
 2.  bei einer Gesellschaft, die nach § 2 Absatz 1 und § 3 Absatz 3 Satz 2
     des Deutsche Bahn Gründungsgesetzes ausgegliedert worden ist.
 
-
-
-
 (5) Für die bei den Postnachfolgeunternehmen beschäftigten Beamtinnen
 und Beamten kann die oberste Dienstbehörde im Einvernehmen mit dem
-Bundesministerium der Finanzen und dem Bundesministerium des Innern,
-für Bau und Heimat von den Absätzen 1 bis 3 abweichende Regelungen
+Bundesministerium der Finanzen und dem Bundesministerium des Innern
+und für Heimat von den Absätzen 1 bis 3 abweichende Regelungen
 treffen.
+
+
+## § 21a Sonderurlaub bei Mitaufnahme oder ganztägiger Begleitung bei stationärer Krankenhausbehandlung
+
+(1) Sonderurlaub ist einer Beamtin oder einem Beamten zu gewähren,
+
+1.  wenn es aus medizinischen Gründen notwendig ist, dass sie oder er bei
+    einer stationären Krankenhausbehandlung eines Menschen, bei dem die
+    Voraussetzungen des § 2 Absatz 1 des Neunten Buches Sozialgesetzbuch
+    vorliegen, zur Begleitung mitaufgenommen wird
+
+    a)  als nahe Angehörige oder naher Angehöriger im Sinne des § 7 Absatz 3
+        des Pflegezeitgesetzes oder
+
+    b)  als eine Person aus dem engsten persönlichen Umfeld und
+
+2.  wenn die Voraussetzungen des § 44b Absatz 1 Nummer 1 Buchstabe c und d
+    und Nummer 3 des Fünften Buches Sozialgesetzbuch vorliegen.
+
+(2) Der Anspruch auf den Sonderurlaub besteht für die Dauer der
+notwendigen Mitaufnahme.
+
+(3) Unterschreiten die Dienstbezüge oder Anwärterbezüge der Beamtin
+oder des Beamten die Jahresarbeitsentgeltgrenze nach § 6 Absatz 6
+des Fünften Buches Sozialgesetzbuch oder sind sie gleich hoch, so
+erfolgt die Gewährung des Sonderurlaubs für 80 Prozent der Dauer
+der notwendigen Mitaufnahme unter Fortzahlung der Besoldung. Für die
+verbleibenden 20 Prozent erfolgt die Gewährung des Sonderurlaubs unter
+Wegfall der Besoldung.
+
+(4) Überschreiten die Dienstbezüge oder die Anwärterbezüge einer
+Beamtin oder eines Beamten die Jahresarbeitsentgeltgrenze nach § 6
+Absatz 6 des Fünften Buches Sozialgesetzbuch, so erfolgt die Gewährung
+des Sonderurlaubs für die Dauer der notwendigen Mitaufnahme unter
+Wegfall der Besoldung.
+
+(5) Der Mitaufnahme steht die ganztägige Begleitung gleich.
 
 
 ## § 22 Sonderurlaub in anderen Fällen
 
-(1) Sonderurlaub unter Wegfall der Besoldung kann gewährt werden, wenn
-ein wichtiger Grund vorliegt. Für mehr als drei Monate kann
+(1) Sonderurlaub unter Wegfall der Besoldung kann gewährt werden,
+wenn ein wichtiger Grund vorliegt. Für mehr als drei Monate kann
 Sonderurlaub unter Wegfall der Besoldung nur in besonders begründeten
 Fällen und nur durch die oberste Dienstbehörde oder die von ihr
 bestimmte unmittelbar nachgeordnete Behörde genehmigt werden.
 
-(2) Mit Zustimmung des Bundesministeriums des Innern, für Bau und
-Heimat kann Sonderurlaub aus wichtigen persönlichen Gründen auch unter
+(2) Mit Zustimmung des Bundesministeriums des Innern und für Heimat
+kann Sonderurlaub aus wichtigen persönlichen Gründen auch unter
 Fortzahlung der Besoldung gewährt werden.
 
 (3) Für einen in den §§ 5 bis 21 nicht genannten Zweck kann Beamtinnen
@@ -721,7 +537,7 @@ Sonderurlaub unter Fortzahlung der Besoldung für mehr als zwei Wochen
 bedarf der Zustimmung der obersten Dienstbehörde oder der von ihr
 bestimmten unmittelbar nachgeordneten Behörde. Sonderurlaub für mehr
 als sechs Monate bedarf der Zustimmung des Bundesministeriums des
-Innern, für Bau und Heimat.
+Innern und für Heimat.
 
 
 ## § 23 Verfahren
@@ -736,16 +552,11 @@ Die Genehmigung von Sonderurlaub ist zu widerrufen, wenn
 
 1.  zwingende dienstliche Gründe dies erfordern,
 
-
 2.  der Sonderurlaub zu einem anderen als dem genehmigten Zweck verwendet
     wird,
 
-
 3.  andere Gründe, die die Beamtin oder der Beamte zu vertreten hat, den
     Widerruf erfordern.
-
-
-
 
 
 ## § 25 Ersatz von Mehraufwendungen
@@ -756,19 +567,15 @@ den Bestimmungen des Reisekostenrechts ersetzt:
 1.  Mehraufwendungen, die durch den Widerruf der Genehmigung von
     Sonderurlaub nach § 24 Nummer 1 entstehen,
 
-
-2.  Mehraufwendungen, die anlässlich der Wiederaufnahme des Dienstes nach
-    einem Sonderurlaub zur Ausübung einer Tätigkeit in öffentlichen
-    zwischenstaatlichen oder überstaatlichen Einrichtungen (§ 6 Absatz 1
-    Satz 1) oder nach einem Sonderurlaub zur Wahrnehmung von Aufgaben der
-    Entwicklungszusammenarbeit (§ 7) entstehen, wenn die oberste
+2.  Mehraufwendungen, die anlässlich der Wiederaufnahme des Dienstes
+    nach einem Sonderurlaub zur Ausübung einer Tätigkeit in öffentlichen
+    zwischenstaatlichen oder überstaatlichen Einrichtungen (§ 6 Absatz
+    1 Satz 1) oder nach einem Sonderurlaub zur Wahrnehmung von Aufgaben
+    der Entwicklungszusammenarbeit (§ 7) entstehen, wenn die oberste
     Dienstbehörde oder die von ihr bestimmte Stelle spätestens bei
     Beendigung des Sonderurlaubs schriftlich anerkannt hat, dass der
     Sonderurlaub dienstlichen Interessen oder öffentlichen Belangen
     diente.
-
-
-
 
 (2) Zuwendungen, die die Beamtin oder der Beamte von anderer Seite zur
 Deckung der Aufwendungen erhalten hat, sind anzurechnen.
@@ -779,14 +586,14 @@ Deckung der Aufwendungen erhalten hat, sind anzurechnen.
 (1) Zur Besoldung im Sinne dieser Verordnung gehören die in § 1 Absatz
 2 und 3 des Bundesbesoldungsgesetzes genannten Bezüge.
 
-(2) Erhält die Beamtin oder der Beamte in den Fällen des § 10 oder des
-§ 22 Absatz 3 Zuwendungen von anderer Seite, so ist die Besoldung
+(2) Erhält die Beamtin oder der Beamte in den Fällen des § 10 oder
+des § 22 Absatz 3 Zuwendungen von anderer Seite, so ist die Besoldung
 entsprechend zu kürzen. Das gilt nicht, wenn der Wert der Zuwendungen
 gering ist.
 
-(3) Dauert der Sonderurlaub unter Wegfall der Besoldung nicht länger
-als einen Monat, bleibt der Anspruch auf Beihilfe oder auf
-Heilfürsorge nach § 70 Absatz 2 des Bundesbesoldungsgesetzes
+(3) Dauert der Sonderurlaub unter Wegfall der Besoldung nicht
+länger als einen Monat, bleibt der Anspruch auf Beihilfe oder
+auf Heilfürsorge nach § 70 Absatz 2 des Bundesbesoldungsgesetzes
 unberührt.
 
 

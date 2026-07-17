@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über besondere Anforderungen an Saatgut von Hartweizen im Rahmen
-  der Saatgutanerkennung 2015
+Title: Verordnung über besondere Anforderungen an Saatgut von Hartweizen im Rahmen der Saatgutanerkennung 2015
 jurabk: HWeizSaatV 2015
 layout: default
 origslug: hweizsaatv_2015
@@ -31,10 +30,10 @@ und Landwirtschaft:
 ## § 1
 
 (1) Abweichend von § 6 Satz 2 in Verbindung mit Anlage 3 Nummer 1.1.5
-Spalte 3 der Saatgutverordnung in der Fassung der Bekanntmachung vom
-8\. Februar 2006 (BGBl. I S. 344), die zuletzt durch Artikel 2 der
-Verordnung vom 6. Januar 2014 (BGBl. I S. 26) geändert worden ist,
-beträgt die Mindestkeimfähigkeit für Zertifiziertes Saatgut von
+Spalte 3 der Saatgutverordnung in der Fassung der Bekanntmachung
+vom 8. Februar 2006 (BGBl. I S. 344), die zuletzt durch Artikel 2
+der Verordnung vom 6. Januar 2014 (BGBl. I S. 26) geändert worden
+ist, beträgt die Mindestkeimfähigkeit für Zertifiziertes Saatgut von
 Hartweizen der Sorte „Wintergold“ 80 vom Hundert der reinen Körner.
 
 (2) Saatgut, das nach den Anforderungen des Absatzes 1 anerkannt
@@ -45,8 +44,8 @@ gebracht werden.
 ## § 2
 
 Jede Packung oder jedes Behältnis mit Zertifiziertem Saatgut, dessen
-Keimfähigkeit in Anwendung des § 1 Absatz 1 unterhalb der in Anlage 3
-Nummer 1.1.5 Spalte 3 der Saatgutverordnung vorgeschriebenen
+Keimfähigkeit in Anwendung des § 1 Absatz 1 unterhalb der in Anlage
+3 Nummer 1.1.5 Spalte 3 der Saatgutverordnung vorgeschriebenen
 Mindestkeimfähigkeit liegt, ist mit einem Zusatzetikett oder einem
 Begleitpapier zu versehen, in dem auf die verminderte Keimfähigkeit
 hingewiesen wird. Das Zusatzetikett oder das Begleitpapier ist nicht

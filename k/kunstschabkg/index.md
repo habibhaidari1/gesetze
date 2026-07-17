@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zu dem Internationalen Abkommen vom 26. Oktober 1961 über den Schutz
-  der ausübenden Künstler, der Hersteller von Tonträgern und der Sendeunternehmen
+Title: Gesetz zu dem Internationalen Abkommen vom 26. Oktober 1961 über den Schutz der ausübenden Künstler, der Hersteller von Tonträgern und der Sendeunternehmen
 jurabk: KunstSchAbkG
 layout: default
 origslug: kunstschabkg
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl II: 1965, 1243
-
 
 
 ## Art 1
@@ -38,22 +36,18 @@ Gebrauch:
     5 Abs. 1 Buchstabe b des Abkommens bezeichnete Merkmal der Festlegung
     nicht an.
 
-
 2.  Sie beschränkt für die Tonträger, deren Hersteller Angehöriger eines
-    anderen vertragschließenden Staates ist, den Umfang und die Dauer des
-    nach Artikel 12 des Abkommens zu gewährenden Schutzes auf den Umfang
-    und die Dauer des Schutzes, den dieser Staat für die Tonträger
+    anderen vertragschließenden Staates ist, den Umfang und die Dauer
+    des nach Artikel 12 des Abkommens zu gewährenden Schutzes auf den
+    Umfang und die Dauer des Schutzes, den dieser Staat für die Tonträger
     gewährt, die erstmals von einem deutschen Staatsangehörigen festgelegt
     worden sind.
 
 
-
-
-
 ## Art 3
 
-Der in Artikel 13 Buchstabe d des Abkommens vorgesehene Schutz gegen
-die öffentliche Wiedergabe von Fernsehsendungen wird für
+Der in Artikel 13 Buchstabe d des Abkommens vorgesehene Schutz
+gegen die öffentliche Wiedergabe von Fernsehsendungen wird für
 Fernsehsendungen eines Sendeunternehmens mit Sitz im Gebiet eines
 Staates, der von dem Vorbehalt des Artikels 16 Abs. 1 Buchstabe b des
 Abkommens Gebrauch gemacht hat, nicht gewährt.

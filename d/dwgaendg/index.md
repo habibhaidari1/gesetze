@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl I: 2004, 3456
 
 
-
 ## (XXXX) Art 1 (weggefallen)
 
 -

@@ -1,8 +1,5 @@
 ---
-Title: Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden
-  und die Vertretung des Dienstherrn bei Klagen von Beamtinnen und Beamten des Bundesministeriums
-  der Justiz und für Verbraucherschutz in Angelegenheiten der Besoldung, des Dienstunfall-,
-  Reisekosten-, Umzugskosten- und Trennungsgeldrechts
+Title: Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von Beamtinnen und Beamten des Bundesministeriums der Justiz und für Verbraucherschutz in Angelegenheiten der Besoldung, des Dienstunfall-, Reisekosten-, Umzugskosten- und Trennungsgeldrechts
 jurabk: BMJVWidVertrAnO
 layout: default
 origslug: bmjvwidvertrano
@@ -30,21 +27,21 @@ angeordnet:
 
 Dem Bundesverwaltungsamt wird die Befugnis übertragen, in
 Angelegenheiten der Besoldung, des Dienstunfall-, Reisekosten-,
-Umzugskosten- und Trennungsgeldrechts über Widersprüche von Beamtinnen
-und Beamten des Bundesministeriums der Justiz und für
-Verbraucherschutz zu entscheiden, soweit das Bundesverwaltungsamt die
-Maßnahme getroffen oder abgelehnt hat. Das Bundesministerium der
+Umzugskosten- und Trennungsgeldrechts über Widersprüche von
+Beamtinnen und Beamten des Bundesministeriums der Justiz und für
+Verbraucherschutz zu entscheiden, soweit das Bundesverwaltungsamt
+die Maßnahme getroffen oder abgelehnt hat. Das Bundesministerium der
 Justiz und für Verbraucherschutz behält sich vor, im Einzelfall selbst
 zu entscheiden.
 
 
 ## § 2 Vertretung bei Klagen
 
-Der Präsidentin oder dem Präsidenten des Bundesverwaltungsamts wird
-die Vertretung der Bundesrepublik Deutschland bei Klagen von
+Der Präsidentin oder dem Präsidenten des Bundesverwaltungsamts
+wird die Vertretung der Bundesrepublik Deutschland bei Klagen von
 Beamtinnen und Beamten des Bundesministeriums der Justiz und für
-Verbraucherschutz der Besoldungsgruppen bis einschließlich A 11 in
-Angelegenheiten der Besoldung, des Dienstunfall-, Reisekosten-,
+Verbraucherschutz der Besoldungsgruppen bis einschließlich A 11
+in Angelegenheiten der Besoldung, des Dienstunfall-, Reisekosten-,
 Umzugskosten- und Trennungsgeldrechts übertragen, soweit das
 Bundesverwaltungsamt nach dieser Anordnung für den Erlass des
 Widerspruchsbescheids zuständig war. Die Bundesministerin oder der

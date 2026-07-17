@@ -33,24 +33,24 @@ ihren Entscheidungen.
 (1) Der Bundesrechnungshof hat seinen Sitz in Bonn. Er kann
 Außenstellen einrichten.
 
-(2) Der Bundesrechnungshof gliedert sich in Prüfungsabteilungen und
-Prüfungsgebiete. Für bestimmte Aufgaben können Prüfungsgruppen
+(2) Der Bundesrechnungshof gliedert sich in Prüfungsabteilungen
+und Prüfungsgebiete. Für bestimmte Aufgaben können Prüfungsgruppen
 gebildet werden. Für die Verwaltung besteht eine Präsidialabteilung.
 
 
 ## § 3 Mitglieder des Bundesrechnungshofes
 
-(1) Mitglieder des Bundesrechnungshofes sind der Präsident, der
-Vizepräsident, die Leiter der Prüfungsabteilungen und die
+(1) Mitglieder des Bundesrechnungshofes sind der Präsident,
+der Vizepräsident, die Leiter der Prüfungsabteilungen und die
 Prüfungsgebietsleiter.
 
 (2) Der Präsident und der Vizepräsident werden zu Beamten auf Zeit
 ernannt. Die Amtszeit des Präsidenten und des Vizepräsidenten beträgt
 zwölf Jahre; sie endet spätestens mit Ablauf des Monats, in dem die
-Beamten die gesetzliche Altersgrenze erreichen. Der Präsident und der
-Vizepräsident treten nach Ablauf ihrer Amtszeit in den Ruhestand. Im
-übrigen finden auf sie die Vorschriften des Bundesbeamtengesetzes über
-die Beamten auf Lebenszeit mit Ausnahme der Vorschriften über die
+Beamten die gesetzliche Altersgrenze erreichen. Der Präsident und
+der Vizepräsident treten nach Ablauf ihrer Amtszeit in den Ruhestand.
+Im übrigen finden auf sie die Vorschriften des Bundesbeamtengesetzes
+über die Beamten auf Lebenszeit mit Ausnahme der Vorschriften über die
 Laufbahnen und die Probezeit entsprechende Anwendung.
 
 (3) Die Mitglieder müssen die Befähigung für eine Laufbahn des höheren
@@ -61,10 +61,10 @@ zum Richteramt haben. Eine angemessene Anzahl der Mitglieder soll eine
 wirtschaftswissenschaftliche oder technische Vorbildung besitzen.
 
 (4) Die Mitglieder des Bundesrechnungshofes besitzen richterliche
-Unabhängigkeit (Artikel 114 Abs. 2 Satz 1 des Grundgesetzes). Die für
-die Richter an den obersten Gerichtshöfen des Bundes geltenden
-Vorschriften über Unabhängigkeit und Disziplinarmaßnahmen sind
-entsprechend anzuwenden. § 48 Abs. 2, 4 und 5 des Deutschen
+Unabhängigkeit (Artikel 114 Abs. 2 Satz 1 des Grundgesetzes).
+Die für die Richter an den obersten Gerichtshöfen des Bundes
+geltenden Vorschriften über Unabhängigkeit und Disziplinarmaßnahmen
+sind entsprechend anzuwenden. § 48 Abs. 2, 4 und 5 des Deutschen
 Richtergesetzes findet Anwendung.
 
 
@@ -87,15 +87,12 @@ Eine Wiederwahl ist ausgeschlossen.
 1.  auf Vorschlag des Präsidenten die anderen Mitglieder des
     Bundesrechnungshofes,
 
-
 2.  auf Vorschlag des Präsidenten die übrigen Beamten, soweit das
     Ernennungsrecht nicht dem Präsidenten übertragen ist.
 
-
-
 Der Präsident hat vor seinen Vorschlägen nach Nummer 1 den Ständigen
-Ausschuß des Großen Senats des Bundesrechnungshofes (§ 13 Abs. 2) zu
-hören.
+Ausschuß des Großen Senats des Bundesrechnungshofes (§ 13 Abs. 2)
+zu hören.
 
 
 ## § 6 Präsident und Vizepräsident
@@ -106,13 +103,13 @@ Verwaltung des Bundesrechnungshofes und übt die Dienstaufsicht aus.
 (2) Der Präsident wird bei den ihm kraft Gesetzes zukommenden Aufgaben
 von dem Vizepräsidenten vertreten, bei dessen Verhinderung von dem
 dienstältesten Abteilungsleiter. Bei gleichem Dienstalter ist das
-höhere Lebensalter maßgebend. In den Fällen des § 9 Abs. 1 Satz 2 und
-des § 11 Abs. 2 vertritt der Präsident den Vizepräsidenten. Im Großen
-Senat wird der Vizepräsident nach Maßgabe des Satzes 1 zweiter
+höhere Lebensalter maßgebend. In den Fällen des § 9 Abs. 1 Satz 2
+und des § 11 Abs. 2 vertritt der Präsident den Vizepräsidenten. Im
+Großen Senat wird der Vizepräsident nach Maßgabe des Satzes 1 zweiter
 Halbsatz und des Satzes 2 vertreten.
 
-(3) Der Präsident wird bei der Erfüllung seiner Aufgaben durch die
-anderen Mitglieder unterstützt. Sie dürfen dadurch ihrer
+(3) Der Präsident wird bei der Erfüllung seiner Aufgaben durch
+die anderen Mitglieder unterstützt. Sie dürfen dadurch ihrer
 Haupttätigkeit als Mitglied des Bundesrechnungshofes nicht ohne ihre
 Zustimmung entzogen und in ihrer richterlichen Unabhängigkeit nicht
 beeinträchtigt werden.
@@ -125,8 +122,8 @@ verteilt der Präsident vor Beginn des Geschäftsjahrs die Geschäfte auf
 Abteilungen und Prüfungsgebiete und bestimmt, welche Mitglieder die
 Abteilungen und Prüfungsgebiete leiten.
 
-(2) Der Präsident entscheidet vor Beginn des Geschäftsjahrs über die
-Besetzung der Prüfungsgebiete mit Prüfungsbeamten und weiteren
+(2) Der Präsident entscheidet vor Beginn des Geschäftsjahrs über
+die Besetzung der Prüfungsgebiete mit Prüfungsbeamten und weiteren
 Bediensteten. Auf Antrag eines betroffenen Kollegiums oder eines
 Senats bedarf im Einzelfall die Entscheidung der Zustimmung des
 Ständigen Ausschusses des Großen Senats.
@@ -139,8 +136,8 @@ die Entscheidung zur sachgerechten Aufgabenerfüllung notwendig ist.
 (4) Der Präsident bestimmt in Zweifelsfällen, welches Prüfungsgebiet
 oder welcher Senat zuständig ist. Absatz 2 Satz 2 gilt entsprechend.
 
-(5) Der Präsident legt im Benehmen mit dem Vizepräsidenten fest, in
-welchen Abteilungen er oder der Vizepräsident in dem folgenden
+(5) Der Präsident legt im Benehmen mit dem Vizepräsidenten fest,
+in welchen Abteilungen er oder der Vizepräsident in dem folgenden
 Geschäftsjahr an den Entscheidungen der Kollegien und Senate mitwirkt.
 Das gleiche gilt erforderlichenfalls nach Entscheidungen gemäß Absatz
 3 während des Geschäftsjahrs.
@@ -168,8 +165,8 @@ allein zu entscheiden.
 ## § 10 Prüfungsgruppen
 
 Im Einvernehmen mit dem Ständigen Ausschuß des Großen Senats kann der
-Präsident Prüfungsgruppen für bestimmte Aufgaben bilden. Die §§ 7, 9,
-14 Abs. 1 Nr. 3 und 4, § 15 Abs. 2 und § 16 Abs. 1 und 3 gelten
+Präsident Prüfungsgruppen für bestimmte Aufgaben bilden. Die §§ 7,
+9, 14 Abs. 1 Nr. 3 und 4, § 15 Abs. 2 und § 16 Abs. 1 und 3 gelten
 entsprechend.
 
 
@@ -192,42 +189,37 @@ Die Senate entscheiden
 1.  in den Fällen des § 14 Abs. 1 Nr. 3 und 4 über die Antragstellung und
     im Falle des § 17 Abs. 1 Satz 2;
 
-
 2.  auf Antrag eines Mitglieds, wenn in einem Kollegium Übereinstimmung
     nicht erzielt wird oder es sich um eine Angelegenheit von besonderer
     Bedeutung handelt;
-
 
 3.  über die ihnen durch die Geschäftsordnung und den Großen Senat
     zugewiesenen Angelegenheiten.
 
 
-
-
-
 ## § 13 Großer Senat
 
-(1) Der Große Senat besteht aus dem Präsidenten als Vorsitzendem, dem
-Vizepräsidenten, den Leitern der Prüfungsabteilungen und drei
-Prüfungsgebietsleitern. Hinzu treten bei Aufgaben des
-Bundesrechnungshofes der nach der Geschäftsverteilung jeweils
-zuständige Prüfungsgebietsleiter (Berichterstatter) und ein weiterer
-Prüfungsgebietsleiter (Mitberichterstatter). Die drei
-Prüfungsgebietsleiter und deren Vertreter sowie der
+(1) Der Große Senat besteht aus dem Präsidenten als Vorsitzendem,
+dem Vizepräsidenten, den Leitern der Prüfungsabteilungen
+und drei Prüfungsgebietsleitern. Hinzu treten bei Aufgaben
+des Bundesrechnungshofes der nach der Geschäftsverteilung
+jeweils zuständige Prüfungsgebietsleiter (Berichterstatter)
+und ein weiterer Prüfungsgebietsleiter (Mitberichterstatter).
+Die drei Prüfungsgebietsleiter und deren Vertreter sowie der
 Mitberichterstatter werden vom Präsidenten nach Maßgabe der
 Geschäftsordnung benannt.
 
-(2) Der Große Senat bildet einen Ständigen Ausschuß. Dieser besteht
-aus dem Vizepräsidenten sowie aus zwei Abteilungsleitern und zwei
-Prüfungsgebietsleitern, die mit ihren Vertretern unter
+(2) Der Große Senat bildet einen Ständigen Ausschuß. Dieser
+besteht aus dem Vizepräsidenten sowie aus zwei Abteilungsleitern
+und zwei Prüfungsgebietsleitern, die mit ihren Vertretern unter
 Berücksichtigung des Dienstalters nach Maßgabe der Geschäftsordnung
 benannt werden. Der Präsident kann an den Beratungen des Ausschusses
 teilnehmen.
 
 (3) Der Große Senat kann mit Zweidrittelmehrheit weitere Ausschüsse
 bilden und ihnen die Beratung oder die Entscheidung bestimmter
-Angelegenheiten übertragen. Einem Ausschuß muß mindestens einer der
-drei Prüfungsgebietsleiter angehören. Absatz 1 Satz 2 findet
+Angelegenheiten übertragen. Einem Ausschuß muß mindestens einer
+der drei Prüfungsgebietsleiter angehören. Absatz 1 Satz 2 findet
 Anwendung; die Bestimmung des Mitberichterstatters obliegt dem
 Vorsitzenden des Ausschusses.
 
@@ -238,7 +230,6 @@ Vorsitzenden des Ausschusses.
 
 1.  nach § 17 Abs. 1 Satz 4, § 18 Abs. 2 Satz 2 und § 20 Abs. 1;
 
-
 2.  über die Aufstellung der Bemerkungen nach § 97 der
     Bundeshaushaltsordnung, über Berichte nach § 99 der
     Bundeshaushaltsordnung und über sonst gesetzlich vorgesehene Berichte,
@@ -247,28 +238,21 @@ Vorsitzenden des Ausschusses.
     Entscheidung dem Dreierkollegium, im Falle des § 19 Satz 1 Nr. 2 dem
     Präsidenten;
 
-
 3.  auf Antrag eines Senats oder auf Antrag eines Kollegiums bei
     abteilungsübergreifenden Prüfungs- oder Beratungsvorhaben oder bei
     Angelegenheiten von grundsätzlicher Bedeutung;
 
-
 4.  auf Antrag eines betroffenen Senats oder Kollegiums, wenn beabsichtigt
     wird, von der - auf Anfrage aufrechterhaltenen - Entscheidung eines
-    Senats oder von einer Entscheidung des Großen Senats abzuweichen; das
-    gleiche gilt für die Abweichung von der Entscheidung eines Kollegiums,
-    soweit es im Rahmen seiner Zuständigkeit für allgemeine oder
-    grundsätzliche Angelegenheiten entschieden hat;
-
+    Senats oder von einer Entscheidung des Großen Senats abzuweichen;
+    das gleiche gilt für die Abweichung von der Entscheidung eines
+    Kollegiums, soweit es im Rahmen seiner Zuständigkeit für allgemeine
+    oder grundsätzliche Angelegenheiten entschieden hat;
 
 5.  über das Verfahren und die Grundsätze der Arbeitsplanung, der Prüfung,
     der Beratung und der Berichterstattung;
 
-
 6.  über den Aufgabenbereich der Prüfungsämter (§ 20a Abs. 2).
-
-
-
 
 (2) Der Präsident kann den Großen Senat auch mit weiteren
 Angelegenheiten befassen oder ihn vor eigenen Entscheidungen hören.
@@ -290,7 +274,7 @@ Ständigen Ausschusses des Großen Senats einen Beamten, der nicht
 Mitglied des Bundesrechnungshofes ist, für die Zeit der Verhinderung
 des Prüfungsgebietsleiters oder für einen bestimmten Zeitraum mit der
 Wahrnehmung der Geschäfte beauftragen. Entsprechendes gilt, solange
-die Planstelle eines Prüfungsgebietsleiters frei ist. § 3  Abs. 3 Satz
+die Planstelle eines Prüfungsgebietsleiters frei ist. § 3 Abs. 3 Satz
 1 ist auf den Beamten anzuwenden.
 
 (2) Absatz 1 Satz 1 und 3 gilt entsprechend, wenn ein
@@ -307,8 +291,8 @@ Mitglieds des Bundesrechnungshofes.
 wenn ein Grund vorliegt, der geeignet ist, Zweifel an seiner
 Unbefangenheit zu rechtfertigen. Ob diese Voraussetzung gegeben ist,
 entscheidet der Senat, dem das betroffene Mitglied angehört. § 16 Abs.
-2 findet keine Anwendung. Soll das Mitglied von einer Entscheidung der
-Prüfungsgruppe oder des Großen Senats ausgeschlossen sein, so
+2 findet keine Anwendung. Soll das Mitglied von einer Entscheidung
+der Prüfungsgruppe oder des Großen Senats ausgeschlossen sein, so
 entscheidet dieser. Das jeweils betroffene Mitglied darf an der
 Entscheidung nicht mitwirken. Eine Vertretung findet insoweit nicht
 statt.
@@ -329,8 +313,8 @@ Mitglieder der Prüfungsgruppe.
 ## § 18 Zuständigkeit des Dienstgerichts des Bundes
 
 (1) Für ein Disziplinarverfahren gegen ein Mitglied des
-Bundesrechnungshofes und für ein Prüfungsverfahren im Sinne des § 66
-des Deutschen Richtergesetzes, das ein Mitglied des
+Bundesrechnungshofes und für ein Prüfungsverfahren im Sinne
+des § 66 des Deutschen Richtergesetzes, das ein Mitglied des
 Bundesrechnungshofes betrifft, ist das Dienstgericht des Bundes
 zuständig. Das nach § 63 Abs. 2 und § 66 Abs. 3 des Deutschen
 Richtergesetzes vorgesehene Antragsrecht der obersten Dienstbehörde
@@ -355,11 +339,8 @@ daß die Prüfung durch den Bundesrechnungshof
 1.  durch das zuständige Kollegium unter Mitwirkung des Präsidenten oder
     des Vizepräsidenten oder
 
-
 2.  allein durch den Präsidenten oder, wenn dessen Stelle nicht besetzt
     ist, durch den Vizepräsidenten
-
-
 
 vorgenommen wird, entfällt die Zuständigkeit der Senate und des Großen
 Senats. In den Fällen des Satzes 1 Nr. 1 können weitere Beamte bei dem
@@ -377,18 +358,12 @@ bestimmen, insbesondere auch
 
 1.  zur Vertretung der Abteilungsleiter und der Prüfungsgebietsleiter,
 
-
 2.  zur Bildung und Organisation von Prüfungsgruppen (§ 2 Abs. 2 Satz 2),
-
 
 3.  das Verfahren der Entscheidungsgremien,
 
-
 4.  Regeln zur Durchführung abteilungsübergreifender Prüfungs- oder
     Beratungsvorhaben.
-
-
-
 
 (2) Die Geschäftsordnung ist dem Deutschen Bundestag, dem Bundesrat
 und der Bundesregierung mitzuteilen.
@@ -400,8 +375,8 @@ und der Bundesregierung mitzuteilen.
 Dienst- und Fachaufsicht unterstellt sind.
 
 (2) Die Prüfungsämter führen die ihnen vom Bundesrechnungshof
-zugewiesenen Prüfungsaufgaben in entsprechender Anwendung der für ihn
-geltenden Bestimmungen nach dessen Weisungen durch. Im Rahmen der
+zugewiesenen Prüfungsaufgaben in entsprechender Anwendung der für
+ihn geltenden Bestimmungen nach dessen Weisungen durch. Im Rahmen der
 ihnen übertragenen Prüfungsaufgaben haben sie gegenüber den geprüften
 Stellen dieselben Prüfungsbefugnisse wie der Bundesrechnungshof. Das
 Nähere regelt die Geschäftsordnung des Bundesrechnungshofes.

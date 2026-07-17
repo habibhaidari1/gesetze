@@ -1,6 +1,5 @@
 ---
-Title: Verordnung zur Durchführung einer Bundesstatistik über Pflegeeinrichtungen
-  sowie über die häusliche Pflege
+Title: Verordnung zur Durchführung einer Bundesstatistik über Pflegeeinrichtungen sowie über die häusliche Pflege
 jurabk: PflegeStatV
 layout: default
 origslug: pflegestatv
@@ -20,7 +19,6 @@ Geändert durch
 :   Art. 15 G v. 23.12.2016 I 3191
 
 
-
 ## Eingangsformel
 
 Auf Grund des § 109 Abs. 1 des Elften Buches Sozialgesetzbuch -
@@ -34,11 +32,7 @@ BGBl. I S. 1014, 1015, 2797) verordnet die Bundesregierung:
 
 1.  die Pflegeeinrichtungen,
 
-
 2.  die Pflegegeldleistungen.
-
-
-
 
 (2) Pflegeeinrichtungen im Sinne dieser Verordnung sind ambulante
 Pflegeeinrichtungen (Pflegedienste) sowie teilstationäre und
@@ -54,68 +48,47 @@ für die Pflegeeinrichtung
 
 1.  Art der Pflegeeinrichtung und der Trägerschaft,
 
-
 2.  in der Pflegeeinrichtung tätige Personen nach Geschlecht, Geburtsjahr,
     Beschäftigungsverhältnis, Tätigkeitsbereich (einschließlich
-    Beschäftigungsumfang in der Pflege) und Berufsabschluss und zusätzlich
-    bei Auszubildenden und Umschülern Art der Ausbildung und
+    Beschäftigungsumfang in der Pflege) und Berufsabschluss und
+    zusätzlich bei Auszubildenden und Umschülern Art der Ausbildung und
     Ausbildungsjahr,
 
-
 3.  Zahl und Art der Pflegeplätze,
-
 
 4.  betreute Pflegebedürftige
 
     a)  nach Geschlecht, Geburtsjahr, Grad der Pflegebedürftigkeit,
 
-
     b)  bei stationär betreuten Pflegebedürftigen auch die Art der in Anspruch
         genommenen Pflegeleistung,
-
 
     c)  bei ambulant betreuten Pflegebedürftigen die Postleitzahl des Wohnorts
         sowie
 
-
     d)  bei vollstationär betreuten Pflegebedürftigen die Postleitzahl des
         Wohnorts vor Einzug in das Pflegeheim,
-
-
-
-
 
 5.  an die Pflegeeinrichtung nach Art und Höhe der Pflegeleistung zu
     zahlende Entgelte für
 
     a)  allgemeine Pflegeleistungen nach Pflegegraden und
 
-
     b)  Unterkunft und Verpflegung.
-
-
-
-
-
-
 
 (2) Erhebungsmerkmale bei den Erhebungen nach § 1 Abs. 1 Nr. 2 sind
 
 1.  Art des Leistungsträgers und des privaten Versicherungsunternehmens,
-
 
 2.  Empfänger von Pflegegeldleistungen nach § 37 oder § 38 des Elften
     Buches Sozialgesetzbuch sowie Empfänger von Leistungen der nach
     Landesrecht anerkannten Angebote zur Unterstützung im Alltag im Sinne
     des § 45a des Elften Buches Sozialgesetzbuch, die dem Pflegegrad 1
     zugeordnet sind, und Pflegebedürftige mit Pflegegrad 1, die keine
-    Leistungen der Pflegeversicherung im Kostenerstattungsverfahren nach §
-    45b des Elften Buches Sozialgesetzbuch in Anspruch nehmen, nach
+    Leistungen der Pflegeversicherung im Kostenerstattungsverfahren nach
+    § 45b des Elften Buches Sozialgesetzbuch in Anspruch nehmen, nach
     Geschlecht, Geburtsjahr, Postleitzahl des Wohnortes und Grad der
     Pflegebedürftigkeit.
-
-
-
 
 
 ## § 3 Hilfsmerkmale
@@ -124,19 +97,13 @@ Hilfsmerkmale sind:
 
 1.  Name und Anschrift des Auskunftspflichtigen,
 
-
 2.  für die Erhebungen nach § 1 Abs. 1 Nr. 1 Name und Anschrift der
     Pflegeeinrichtung,
-
 
 3.  für die Erhebungen nach § 1 Abs. 1 Nr. 2 das Kennzeichen für den
     Leistungsträger,
 
-
 4.  Name, Kontaktdaten der für Rückfragen zur Verfügung stehenden Person.
-
-
-
 
 
 ## § 4 Periodizität und Berichtszeit
@@ -159,19 +126,19 @@ privaten Versicherungsunternehmen der 1. April des Folgejahres.
 (1) Für die Erhebungen besteht Auskunftspflicht. Die Angaben zu § 3
 Nr. 4 sind freiwillig.
 
-(2) Für die Erhebungen nach § 1 Abs. 1 Nr. 1 sind die Träger der
-Pflegedienste und Pflegeheime, für die Erhebungen nach § 1 Abs. 1 Nr.
-2 die Träger der Pflegeversicherung und die privaten
+(2) Für die Erhebungen nach § 1 Abs. 1 Nr. 1 sind die Träger
+der Pflegedienste und Pflegeheime, für die Erhebungen nach § 1
+Abs. 1 Nr. 2 die Träger der Pflegeversicherung und die privaten
 Versicherungsunternehmen auskunftspflichtig. Die Träger der
-Pflegedienste haben Angaben zu den Erhebungsmerkmalen nach § 2 Abs. 1
-Nr. 1, 2 und 4, die Träger der Pflegeheime Angaben nach § 2 Abs. 1 Nr.
-1 bis 5, die Träger der Pflegeversicherung und die privaten
+Pflegedienste haben Angaben zu den Erhebungsmerkmalen nach § 2 Abs.
+1 Nr. 1, 2 und 4, die Träger der Pflegeheime Angaben nach § 2 Abs.
+1 Nr. 1 bis 5, die Träger der Pflegeversicherung und die privaten
 Versicherungsunternehmen Angaben nach § 2 Abs. 2 zu machen. Die Träger
 der Pflegeversicherung können Dritte beauftragen, die Auskunftspflicht
 zu erfüllen.
 
-(3) Die Auskunftspflichtigen übermitteln die Angaben nach § 2 in
-maschinenlesbarer Form, soweit die notwendigen technischen
+(3) Die Auskunftspflichtigen übermitteln die Angaben nach § 2
+in maschinenlesbarer Form, soweit die notwendigen technischen
 Voraussetzungen gegeben sind.
 
 
@@ -196,8 +163,8 @@ Pflegeeinrichtungen.
 
 ## § 7 Veröffentlichung
 
-Die statistischen Ämter der Länder sind berechtigt, mit Zustimmung der
-Betroffenen zweijährlich ein Verzeichnis mit Namen, Anschrift,
+Die statistischen Ämter der Länder sind berechtigt, mit Zustimmung
+der Betroffenen zweijährlich ein Verzeichnis mit Namen, Anschrift,
 Kontaktdaten, Träger und Art der Pflegeeinrichtung sowie Zahl und Art
 der Pflegeplätze eines Pflegeheimes zu veröffentlichen.
 

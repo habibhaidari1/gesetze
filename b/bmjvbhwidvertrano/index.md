@@ -1,7 +1,5 @@
 ---
-Title: Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden
-  und die Vertretung bei Klagen in Beihilfeangelegenheiten im Geschäftsbereich des
-  Bundesministeriums der Justiz und für Verbraucherschutz
+Title: Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung bei Klagen in Beihilfeangelegenheiten im Geschäftsbereich des Bundesministeriums der Justiz und für Verbraucherschutz
 jurabk: BMJVBhWidVertrAnO
 layout: default
 origslug: bmjvbhwidvertrano
@@ -31,24 +29,24 @@ Verbraucherschutz an:
 
 Dem Bundesverwaltungsamt wird die Befugnis übertragen, in
 Beihilfeangelegenheiten über Widersprüche der Personen, die dem
-Bundesministerium der Justiz und für Verbraucherschutz angehören und
-beihilfeberechtigt sind, sowie der aktiven Beschäftigten des
+Bundesministerium der Justiz und für Verbraucherschutz angehören
+und beihilfeberechtigt sind, sowie der aktiven Beschäftigten des
 Bundesgerichtshofs, des Generalbundesanwalts beim Bundesgerichtshof,
 des Bundesverwaltungsgerichts, des Bundesfinanzhofs, des
 Bundespatentgerichts, des Bundesamts für Justiz und des Deutschen
 Patent- und Markenamts zu entscheiden, soweit das Bundesverwaltungsamt
-die Maßnahme getroffen hat. Das Bundesministerium der Justiz und für
-Verbraucherschutz behält sich vor, im Einzelfall selbst zu
+die Maßnahme getroffen hat. Das Bundesministerium der Justiz und
+für Verbraucherschutz behält sich vor, im Einzelfall selbst zu
 entscheiden.
 
 
 ## § 2 Vertretung bei Klagen
 
-Der Präsidentin oder dem Präsidenten des Bundesverwaltungsamts wird
-die Vertretung der Bundesrepublik Deutschland bei Klagen in
+Der Präsidentin oder dem Präsidenten des Bundesverwaltungsamts
+wird die Vertretung der Bundesrepublik Deutschland bei Klagen in
 Beihilfeangelegenheiten übertragen, soweit das Bundesverwaltungsamt
-nach § 1 Satz 1 zur Entscheidung über den Widerspruch befugt ist. Die
-Bundesministerin oder der Bundesminister der Justiz und für
+nach § 1 Satz 1 zur Entscheidung über den Widerspruch befugt ist.
+Die Bundesministerin oder der Bundesminister der Justiz und für
 Verbraucherschutz kann im Einzelfall die Vertretung abweichend regeln
 oder selbst übernehmen.
 
@@ -59,8 +57,8 @@ oder selbst übernehmen.
 Bundesamt für zentrale Dienste und offene Vermögensfragen vor dem 1.
 Juni 2017 getroffen hat.
 
-(2) § 2 ist auch anzuwenden, wenn der Widerspruchsbescheid vor dem 1.
-Juli 2017 vom Bundesamt für zentrale Dienste und offene
+(2) § 2 ist auch anzuwenden, wenn der Widerspruchsbescheid vor
+dem 1. Juli 2017 vom Bundesamt für zentrale Dienste und offene
 Vermögensfragen erlassen worden ist.
 
 
@@ -75,14 +73,12 @@ Gleichzeitig treten außer Kraft:
     Justiz in Angelegenheiten nach den Beihilfevorschriften vom 14.
     Oktober 2004 (BGBl. I S. 2624),
 
-
 2.  die Anordnung zur Übertragung von Zuständigkeiten für die Bearbeitung,
     für den Erlass von Widerspruchsbescheiden und die Vertretung des
-    Dienstherrn bei Klagen von Beschäftigten des Bundesgerichtshofs und
-    des Generalbundesanwalts beim Bundesgerichtshof einschließlich der
-    Dienststelle Bundeszentralregister in Angelegenheiten nach den
+    Dienstherrn bei Klagen von Beschäftigten des Bundesgerichtshofs
+    und des Generalbundesanwalts beim Bundesgerichtshof einschließlich
+    der Dienststelle Bundeszentralregister in Angelegenheiten nach den
     Beihilfevorschriften vom 9. September 2004 (BGBl. I S. 2331),
-
 
 3.  die Anordnung zur Übertragung von Zuständigkeiten für die Bearbeitung,
     für den Erlass von Widerspruchsbescheiden und die Vertretung des
@@ -90,19 +86,16 @@ Gleichzeitig treten außer Kraft:
     in Angelegenheiten nach den Beihilfevorschriften vom 25. Februar 2004
     (BGBl. I S. 471),
 
-
 4.  die Anordnung zur Übertragung von Zuständigkeiten für die Bearbeitung,
     für den Erlass von Widerspruchsbescheiden und die Vertretung des
     Dienstherrn bei Klagen von Beschäftigten des Bundesfinanzhofs in
     Angelegenheiten nach den Beihilfevorschriften vom 10. Februar 2004
     (BGBl. I S. 218),
 
-
 5.  die Anordnung zur Übertragung von Zuständigkeiten für den Erlass von
     Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen
     von Beschäftigten des Bundespatentgerichts in Angelegenheiten nach den
     Beihilfevorschriften vom 16. Juli 2002 (BGBl. I S. 2669),
-
 
 6.  die Anordnung zur Übertragung von Zuständigkeiten für die Bearbeitung,
     für den Erlass von Widerspruchsbescheiden und die Vertretung des
@@ -110,13 +103,9 @@ Gleichzeitig treten außer Kraft:
     Angelegenheiten nach den Beihilfevorschriften vom 30. November 2006
     (BGBl. I S. 3227) sowie
 
-
-7.  die Anordnung zur Übertragung von Zuständigkeiten für den Erlass von
-    Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen
-    von Beschäftigten des Deutschen Patent- und Markenamts in
+7.  die Anordnung zur Übertragung von Zuständigkeiten für den Erlass
+    von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei
+    Klagen von Beschäftigten des Deutschen Patent- und Markenamts in
     Angelegenheiten nach den Beihilfevorschriften vom 16. Juli 2002 (BGBl.
     I S. 2670).
-
-
-
 

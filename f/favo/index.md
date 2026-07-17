@@ -48,18 +48,18 @@ jeweiligen Gruppenbeschreibung der Anlage erfasst werden.
 
 ## § 2
 
-(1) Die nach § 1 angepassten Festbeträge in Deutscher Mark sind an den
-nächsten, sich aus den §§ 2 und 3 der Arzneimittelpreisverordnung vom
-14\. November 1980 (BGBl. I S. 2147) in der durch Artikel 2 § 12 des
-Gesetzes zur Neuordnung seuchenrechtlicher Vorschriften vom 20. Juli
-2000 geänderten Fassung (BGBl. I S. 1045) ergebenden
+(1) Die nach § 1 angepassten Festbeträge in Deutscher Mark sind an
+den nächsten, sich aus den §§ 2 und 3 der Arzneimittelpreisverordnung
+vom 14. November 1980 (BGBl. I S. 2147) in der durch Artikel 2
+§ 12 des Gesetzes zur Neuordnung seuchenrechtlicher Vorschriften
+vom 20. Juli 2000 geänderten Fassung (BGBl. I S. 1045) ergebenden
 Apothekenabgabepreis einschließlich Umsatzsteuer anzugleichen. Bei
 gleicher Differenz zu zwei Apothekenabgabepreisen gilt der höhere
 Preis.
 
 (2) Die nach § 1 angepassten und nach Absatz 1 angeglichenen
-Festbeträge werden nach der Euro-Umstellung an den nächsten, sich aus
-der ab dem 1. Januar 2002 geltenden Fassung der
+Festbeträge werden nach der Euro-Umstellung an den nächsten,
+sich aus der ab dem 1. Januar 2002 geltenden Fassung der
 Arzneimittelpreisverordnung ergebenden Apothekenabgabepreis
 einschließlich Umsatzsteuer angeglichen. Absatz 1 Satz 2 gilt
 entsprechend.

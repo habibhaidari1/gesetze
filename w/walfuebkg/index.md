@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zu dem Internationalen Übereinkommen vom 2. Dezember 1946 zur Regelung
-  des Walfangs
+Title: Gesetz zu dem Internationalen Übereinkommen vom 2. Dezember 1946 zur Regelung des Walfangs
 jurabk: WalfÜbkG
 layout: default
 origslug: walf_bkg
@@ -28,8 +27,8 @@ Der Bundestag hat das folgende Gesetz beschlossen:
 ## Art 1
 
 Dem Beitritt der Bundesrepublik Deutschland zu dem Internationalen
-Übereinkommen vom 2. Dezember 1946 zur Regelung des Walfangs und dem
-Protokoll vom 19. November 1956 zu diesem Übereinkommen wird
+Übereinkommen vom 2. Dezember 1946 zur Regelung des Walfangs und
+dem Protokoll vom 19. November 1956 zu diesem Übereinkommen wird
 zugestimmt.
 
 

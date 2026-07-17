@@ -15,7 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2017, 2374
 
-Stand: Ersetzt V 611-17-2 v. 2.7.1979 I 901 (KraftStDV 1979)
+Stand
+:   Ersetzt V 611-17-2 v. 2.7.1979 I 901 (KraftStDV 1979)
+
+Zuletzt geändert durch
+:   Art. 3 V v. 20.7.2023 I Nr. 199
+
 
 ## Eingangsformel
 
@@ -35,10 +40,9 @@ verordnet das Bundesministerium der Finanzen:
 Örtlich zuständig ist
 
 1.  für inländische Fahrzeuge und für besondere Kennzeichen nach § 1
-    Absatz 1 Nummer 4 des Gesetzes das Hauptzollamt, in dessen Bezirk die
-    nach § 46 der Fahrzeug-Zulassungsverordnung örtlich zuständige
+    Absatz 1 Nummer 4 des Gesetzes das Hauptzollamt, in dessen Bezirk
+    die nach § 75 der Fahrzeug-Zulassungsverordnung örtlich zuständige
     Zulassungsbehörde ihren Sitz hat;
-
 
 2.  für ausländische Fahrzeuge
 
@@ -46,25 +50,17 @@ verordnet das Bundesministerium der Finanzen:
         Hauptzollamt, in dessen Bezirk die Hoheitsgrenze mit dem Fahrzeug
         überschritten wird,
 
-
     b)  in den übrigen Fällen das Hauptzollamt, das zuerst mit der Sache
         befasst wird;
 
-
-
-
-
-3.  für widerrechtlich benutzte Fahrzeuge das Hauptzollamt, das zuerst mit
-    der Sache befasst wird oder bei Einhaltung der verkehrsrechtlich
+3.  für widerrechtlich benutzte Fahrzeuge das Hauptzollamt, das zuerst
+    mit der Sache befasst wird oder bei Einhaltung der verkehrsrechtlich
     vorgeschriebenen Zulassung nach Nummer 1 zuständig wäre.
 
 
+### § 2 Mitwirkung des Bundesamtes für Logistik und Mobilität
 
-
-
-### § 2 Mitwirkung des Bundesamtes für Güterverkehr
-
-Das Bundesamt für Güterverkehr überwacht die Einhaltung der
+Das Bundesamt für Logistik und Mobilität überwacht die Einhaltung der
 kraftfahrzeugsteuerrechtlichen Vorschriften nach § 11 Absatz 2 Nummer
 3 Buchstabe d und Absatz 3 des Güterkraftverkehrsgesetzes.
 
@@ -80,15 +76,10 @@ abzugeben, wenn das Fahrzeug
 
 1.  zum Verkehr zugelassen werden soll,
 
-
 2.  zum Verkehr zugelassen ist und der Halter wechselt oder
-
 
 3.  während der Dauer der Steuerpflicht verändert wird und sich dadurch
     die Höhe der Steuer ändert.
-
-
-
 
 (2) Als Steuererklärung gilt auch die Fahrzeuganmeldung, wenn sie
 einen entsprechenden Hinweis enthält.
@@ -109,8 +100,8 @@ dem Antrag auf verkehrsrechtliche Zulassung gestellt werden. Er ist in
 diesem Fall in die Steuererklärung mit aufzunehmen.
 
 (2) In den übrigen Fällen ist der Antrag beim zuständigen Hauptzollamt
-zu stellen. Der Antrag gilt als Steuererklärung im Sinne des § 150 der
-Abgabenordnung.
+zu stellen. Der Antrag gilt als Steuererklärung im Sinne des § 150
+der Abgabenordnung.
 
 (3) Ein Antrag im Sinne des § 10 Absatz 2 des Gesetzes ist auch der
 Antrag, den Anhängerzuschlag nicht mehr in Anspruch nehmen zu wollen.
@@ -119,8 +110,8 @@ Antrag, den Anhängerzuschlag nicht mehr in Anspruch nehmen zu wollen.
 ### § 5 Mitwirkung der Zulassungsbehörden
 
 (1) Die Zulassungsbehörden und die von ihnen mit der Vorbereitung und
-Durchführung der Zulassung beauftragten Stellen sind verpflichtet, bei
-der Durchführung des Kraftfahrzeugsteuergesetzes nach Maßgabe der
+Durchführung der Zulassung beauftragten Stellen sind verpflichtet,
+bei der Durchführung des Kraftfahrzeugsteuergesetzes nach Maßgabe der
 Absätze 2 und 3 mitzuwirken.
 
 (2) Die Mitwirkung der Zulassungsbehörden gegenüber den
@@ -130,26 +121,21 @@ Hauptzollämtern umfasst insbesondere
     dass die Eintragungen mit den Angaben in den vorgelegten Urkunden
     übereinstimmen, sowie die Übersendung der Steuererklärung;
 
-
-2.  die Mitteilung der in § 36 Absatz 1 der Fahrzeug-
-    Zulassungsverordnung                    bezeichneten Daten sowie
-
+2.  die Mitteilung der in § 63 Absatz 1 der Fahrzeug-Zulassungsverordnung
+    bezeichneten Daten sowie
 
 3.  die Mitteilung folgender Daten:
 
     a)  wenn eine schriftliche Ermächtigung zum Einzug der Kraftfahrzeugsteuer
-        nach § 13 Absatz 1 Nummer 1 des Gesetzes erteilt wird, den für den
-        Einzug der Kraftfahrzeugsteuer von einem Konto erforderlichen
+        nach § 13 Absatz 1 Nummer 1 des Gesetzes erteilt wird, den für
+        den Einzug der Kraftfahrzeugsteuer von einem Konto erforderlichen
         Datensatz,
-
 
     b)  wenn das Kennzeichen geändert wird, das neue und das bisherige
         Kennzeichen sowie die übrigen für die Besteuerung notwendigen Angaben,
 
-
     c)  wenn der Standort des Fahrzeugs verlegt wird, die neue Anschrift des
         Halters,
-
 
     d)  wenn einem Kraftfahrzeuganhänger in den Fällen des § 10 Absatz 1 des
         Gesetzes
@@ -157,14 +143,9 @@ Hauptzollämtern umfasst insbesondere
         aa) erstmals ein grünes Kennzeichen zugeteilt wird: das Kennzeichen und
             den Tag der Zuteilung,
 
-
         bb) anstelle eines grünen Kennzeichens ein Kennzeichen mit schwarzer
             Beschriftung auf weißem Grund zugeteilt wird: das Kennzeichen und den
             Tag der Zuteilung,
-
-
-
-
 
     e)  wenn für einen zum Verkehr zugelassenen Personenkraftwagen in der
         Zulassungsbescheinigung Teil I (Fahrzeugschein)
@@ -172,16 +153,10 @@ Hauptzollämtern umfasst insbesondere
         aa) die nachträgliche Anerkennung als schadstoffarm vermerkt wird, den Tag
             der Anerkennung als schadstoffarm,
 
-
         bb) der Vermerk „schadstoffarm“ gelöscht wird, den Tag der Löschung,
-
 
         cc) die Anerkennung als besonders partikelreduziert gelöscht wird, den Tag
             der Löschung,
-
-
-
-
 
     f)  wenn ein zum Verkehr zugelassenes Fahrzeug mit einer
         Abgasreinigungsanlage ausgestattet wird oder diese geändert oder
@@ -189,30 +164,17 @@ Hauptzollämtern umfasst insbesondere
 
         aa) die Art der Anlage,
 
-
         bb) die Änderung oder den Ausbau der Anlage,
-
 
         cc) die durch die Ausstattung, Änderung oder den Ausbau der Anlage
             erreichte Emissionsklasse und
 
-
         dd) den Tag der nach dem Gesetz maßgeblichen Feststellung durch die
             Zulassungsbehörde und
-
-
-
-
 
     g)  wenn ein Personenkraftwagen oder ein leichtes Nutzfahrzeug zum Verkehr
         zugelassen wird, die Kohlendioxidemissionen in Gramm je Kilometer nach
         Maßgabe des Gesetzes.
-
-
-
-
-
-
 
 (3) Die Steuererklärung nach Absatz 2 Nummer 1 und die sonstigen für
 das Besteuerungsverfahren erforderlichen Mitteilungen können mit Hilfe
@@ -225,8 +187,8 @@ Datenübermittlung sichergestellt ist.
 
 ### § 6 Prüfung durch das Hauptzollamt
 
-Zur Aufklärung von Zweifeln oder Unstimmigkeiten kann sich das
-zuständige Hauptzollamt das Fahrzeug vorführen und die
+Zur Aufklärung von Zweifeln oder Unstimmigkeiten kann sich
+das zuständige Hauptzollamt das Fahrzeug vorführen und die
 Zulassungsbescheinigung Teil I und II (Fahrzeugschein und
 Fahrzeugbrief) sowie den Steuerbescheid vorlegen lassen.
 
@@ -239,17 +201,18 @@ Steuer für einen Kraftfahrzeuganhänger (§ 10 Absatz 1 des Gesetzes)
 geltend zu machen, so hat er dies unter Angabe der Gründe schriftlich
 beim zuständigen Hauptzollamt zu beantragen.
 
-(2) Fallen die Voraussetzungen für eine Steuervergünstigung weg, so
-hat der Steuerpflichtige dies dem zuständigen Hauptzollamt
+(2) Fallen die Voraussetzungen für eine Steuervergünstigung weg,
+so hat der Steuerpflichtige dies dem zuständigen Hauptzollamt
 unverzüglich schriftlich anzuzeigen.
 
 (3) Wird bei der Zulassung eines Fahrzeugs zum Verkehr eine
 Steuervergünstigung oder wird zu einem späteren Zeitpunkt die
 nachträgliche Anerkennung eines Personenkraftwagens als schadstoffarm
 beantragt, ist der Antrag bei der Zulassungsbehörde zu stellen. Im
-Falle der internetbasierten Zulassung im Sinne von § 15e der Fahrzeug-
-Zulassungsverordnung ist die Absicht der Inanspruchnahme einer
-Steuervergünstigung gegenüber der Zulassungsbehörde anzugeben.
+Falle der internetbasierten Zulassung im Sinne der §§ 27, 29 oder
+des 30 Absatz 1 Nummer 2 der Fahrzeug-Zulassungsverordnung ist die
+Absicht der Inanspruchnahme einer Steuervergünstigung gegenüber der
+Zulassungsbehörde anzugeben.
 
 (4) Der Antrag nach Absatz 1 oder Absatz 3 und die Anzeige nach Absatz
 2 sind Steuererklärungen im Sinne des § 150 der Abgabenordnung.
@@ -258,9 +221,9 @@ Steuervergünstigung gegenüber der Zulassungsbehörde anzugeben.
 entsprechender Hinweis, um eine Vergünstigung zu beantragen oder den
 Wegfall einer der Voraussetzungen hierfür anzuzeigen.
 
-(6) Als Zeitraum, für den jeweils eine Steuerbefreiung nach § 3 Nummer
-6 des Gesetzes beansprucht werden kann, kommt jeder Zeitraum in
-Betracht, der im Fall der Steuerpflicht als Entrichtungszeitraum
+(6) Als Zeitraum, für den jeweils eine Steuerbefreiung nach § 3
+Nummer 6 des Gesetzes beansprucht werden kann, kommt jeder Zeitraum
+in Betracht, der im Fall der Steuerpflicht als Entrichtungszeitraum
 zulässig wäre.
 
 
@@ -287,11 +250,8 @@ vorgeschriebenem Vordruck abzugeben
 1.  am deutschen Teil der Grenze der Europäischen Union bei der
     Zollstelle, die für die amtliche Abfertigung zuständig ist, oder
 
-
 2.  im Straßenverkehr innerhalb der Europäischen Union bei der Zollstelle,
     die von der Generalzolldirektion hierzu bestimmt ist.
-
-
 
 In den Fällen des Satzes 1 Nummer 2 kann die Steuererklärung vor dem
 Eingang des Fahrzeugs in das Inland auch auf dem Postweg abgegeben
@@ -303,8 +263,8 @@ Steuererklärung zu entrichten.
 
 (1) Die zuständige Zollstelle setzt die Steuer fest und gibt dem
 Steuerschuldner den Steuerbetrag bekannt. Die Steuer ist sofort
-fällig. Zum Nachweis, dass die Steuer entrichtet ist, erhält der
-Steuerschuldner eine mit Quittung versehene Steuerkarte. Die
+fällig. Zum Nachweis, dass die Steuer entrichtet ist, erhält
+der Steuerschuldner eine mit Quittung versehene Steuerkarte. Die
 Steuerkarte gilt als Steuerbescheid.
 
 (2) Die Steuerkarte gilt für den Zeitraum, für den die Steuer
@@ -314,12 +274,12 @@ Ablauf eines Jahres ab dem Tag ihrer Ausstellung.
 
 ### § 12 Weiterversteuerung
 
-(1) Soll der Aufenthalt eines ausländischen Fahrzeugs im Inland über
-die Zeit, für die die Steuer entrichtet worden ist, hinaus andauern,
-hat der Steuerschuldner vor Ablauf der Gültigkeitsdauer der
-Steuerkarte eine Steuererklärung zur Weiterversteuerung abzugeben und
-dabei die Steuerkarte vorzulegen. Er kann die Weiterversteuerung bei
-jeder Zollstelle vornehmen, die mit der Festsetzung der
+(1) Soll der Aufenthalt eines ausländischen Fahrzeugs im Inland
+über die Zeit, für die die Steuer entrichtet worden ist, hinaus
+andauern, hat der Steuerschuldner vor Ablauf der Gültigkeitsdauer
+der Steuerkarte eine Steuererklärung zur Weiterversteuerung abzugeben
+und dabei die Steuerkarte vorzulegen. Er kann die Weiterversteuerung
+bei jeder Zollstelle vornehmen, die mit der Festsetzung der
 Kraftfahrzeugsteuer befasst ist.
 
 (2) Die §§ 10 und 11 gelten entsprechend.
@@ -329,7 +289,7 @@ Kraftfahrzeugsteuer befasst ist.
 
 (1) Der Steuerschuldner hat die Steuerkarte mitzuführen und auf
 Verlangen den Bediensteten der Zollverwaltung, der Polizei oder des
-Bundesamtes für Güterverkehr vorzuzeigen.
+Bundesamtes für Logistik und Mobilität vorzuzeigen.
 
 (2) In den Fällen des § 10 Nummer 1 hat der Steuerschuldner die
 Steuerkarte bei jedem Grenzübertritt vorzulegen und den in Absatz 1
@@ -338,8 +298,8 @@ genannten Behörden auf Verlangen Auskunft zu erteilen.
 
 ### § 14 Steuererstattung
 
-(1) Ansprüche auf Erstattung der Steuer, die sich auf Grund des § 12
-Absatz 2 Nummer 3 des Gesetzes ergeben, sind unter Rückgabe der
+(1) Ansprüche auf Erstattung der Steuer, die sich auf Grund des §
+12 Absatz 2 Nummer 3 des Gesetzes ergeben, sind unter Rückgabe der
 Steuerkarte beim zuständigen Hauptzollamt schriftlich geltend zu
 machen.
 
@@ -353,13 +313,13 @@ Gesetzes gilt sinngemäß.
 
 ### § 15 Steuererklärung
 
-(1) Bei widerrechtlicher Benutzung nach § 2 Absatz 5 des Gesetzes hat
-die Person, die das Fahrzeug im Inland benutzt, unverzüglich eine
-Steuererklärung nach amtlich vorgeschriebenem Vordruck beim
+(1) Bei widerrechtlicher Benutzung nach § 2 Absatz 5 des Gesetzes
+hat die Person, die das Fahrzeug im Inland benutzt, unverzüglich
+eine Steuererklärung nach amtlich vorgeschriebenem Vordruck beim
 zuständigen Hauptzollamt abzugeben.
 
-(2) Das zuständige Hauptzollamt kann vom Eigentümer, Besitzer oder vom
-Halter des Fahrzeugs ohne Rücksicht darauf, ob er selbst
+(2) Das zuständige Hauptzollamt kann vom Eigentümer, Besitzer
+oder vom Halter des Fahrzeugs ohne Rücksicht darauf, ob er selbst
 Steuerschuldner ist, die Abgabe einer Steuererklärung innerhalb einer
 durch das Hauptzollamt festzulegenden Frist verlangen.
 
@@ -381,8 +341,8 @@ der Steuer nach den §§ 11 bis 14 erfolgen.
 ### § 17 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-Gleichzeitig tritt die Kraftfahrzeugsteuer-Durchführungsverordnung in
-der Fassung der Bekanntmachung vom 26. September 2002 (BGBl. I S.
-3856), die zuletzt durch Artikel 3 des Gesetzes vom 29. Mai 2009
+Gleichzeitig tritt die Kraftfahrzeugsteuer-Durchführungsverordnung
+in der Fassung der Bekanntmachung vom 26. September 2002 (BGBl. I
+S. 3856), die zuletzt durch Artikel 3 des Gesetzes vom 29. Mai 2009
 (BGBl. I S. 1170) geändert worden ist, außer Kraft.
 

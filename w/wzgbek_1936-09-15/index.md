@@ -16,7 +16,6 @@ Fundstelle
 :   RGBl II: 1936, 307
 
 
-
 ## (XXXX)
 
 Auf Grund des § 4 Abs. 2 Nr. 3 des Warenzeichengesetzes vom 5. Mai
@@ -24,11 +23,13 @@ Auf Grund des § 4 Abs. 2 Nr. 3 des Warenzeichengesetzes vom 5. Mai
 und Gewährzeichen bekanntgemacht, die in der Schweiz, in Jugoslawien,
 in den Niederlanden und im Mandatsgebiet Libanon für bestimmte Waren
 eingeführt sind.
+
 Der Reichsminister der Justiz
 
 
 ## Anlage
 
 (Fundstelle: RGBl. II 1936, 308)
+
 (Inhalt: nicht darstellbare Prüf- und Gewährzeichen)
 

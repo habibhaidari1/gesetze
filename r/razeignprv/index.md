@@ -29,7 +29,6 @@ verordnet der Bundesminister der Justiz:
 ## § 1 (weggefallen)
 
 
-
 ## § 2 Prüfer
 
 (1) Prüfer sind der Präsident des für die zweite juristische
@@ -54,10 +53,10 @@ der außerhalb der Frist des Absatzes 1 liegt, bei einem anderen
 Prüfungsamt jedoch innerhalb dieser Frist, so kann die antragstellende
 Person bei der Auferlegung der Eignungsprüfung auf die Möglichkeit
 hingewiesen werden, die Eignungsprüfung bei dem anderen Prüfungsamt
-abzulegen. Beabsichtigt die antragstellende Person in diesem Fall die
-Ablegung der Eignungsprüfung bei dem anderen Prüfungsamt, so hat sie
-dies dem bisher gewählten Prüfungsamt innerhalb eines Monats nach
-Zugang des Bescheids mitzuteilen. Anderenfalls hat sie die nicht
+abzulegen. Beabsichtigt die antragstellende Person in diesem Fall
+die Ablegung der Eignungsprüfung bei dem anderen Prüfungsamt, so
+hat sie dies dem bisher gewählten Prüfungsamt innerhalb eines Monats
+nach Zugang des Bescheids mitzuteilen. Anderenfalls hat sie die nicht
 fristgerechte Prüfung in Kauf zu nehmen.
 
 (3) Beabsichtigt die antragstellende Person die Ablegung der ihr
@@ -69,8 +68,8 @@ zweite Aufsichtsarbeit mitzuteilen.
 
 (4) Beabsichtigt die antragstellende Person, die ihr auferlegte
 Eignungsprüfung zunächst nicht abzulegen, so hat sie dies dem
-Prüfungsamt innerhalb eines Monats nach Zugang des Bescheids über die
-Auferlegung mitzuteilen. Beabsichtigt die antragstellende Person
+Prüfungsamt innerhalb eines Monats nach Zugang des Bescheids über
+die Auferlegung mitzuteilen. Beabsichtigt die antragstellende Person
 sodann später, die Eignungsprüfung abzulegen, hat sie dies dem
 Prüfungsamt anzuzeigen. Ab dem Zeitpunkt dieser Anzeige gelten die
 Absätze 1 bis 3 entsprechend.
@@ -78,8 +77,8 @@ Absätze 1 bis 3 entsprechend.
 
 ## § 4 Rücktritt von der Prüfung
 
-Der Antragsteller kann nach Ablauf der Frist nach § 3 Absatz 4 Satz 1
-und nach einer Anzeige nach § 3 Absatz 4 Satz 2 nur aus wichtigem
+Der Antragsteller kann nach Ablauf der Frist nach § 3 Absatz 4 Satz
+1 und nach einer Anzeige nach § 3 Absatz 4 Satz 2 nur aus wichtigem
 Grund von der Prüfung zurücktreten. Liegt kein wichtiger Grund vor, so
 gilt die Prüfung als nicht bestanden.
 
@@ -91,15 +90,10 @@ so hat sie nachzuweisen:
 
 1.  Inhalte ihrer beruflichen Ausbildung durch ein Prüfungszeugnis,
 
-
 2.  erworbene Berufspraxis entsprechend § 12 des Gesetzes über die
     Tätigkeit europäischer Rechtsanwälte in Deutschland und
 
-
 3.  Weiterbildungsmaßnahmen durch geeignete Bescheinigungen.
-
-
-
 
 
 ## § 6 Prüfungsgebiete
@@ -108,17 +102,12 @@ so hat sie nachzuweisen:
 
 1.  den Allgemeinen Teil des Bürgerlichen Gesetzbuchs,
 
-
 2.  das Schuldrecht und das Sachenrecht jeweils einschließlich besonderer
     Ausprägungen außerhalb des Bürgerlichen Gesetzbuchs,
-
 
 3.  das dazugehörende Verfahrensrecht einschließlich der Grundlagen im
     Gerichtsverfassungsrecht und der Grundzüge des Zwangsvollstreckungs-
     und Insolvenzrechts.
-
-
-
 
 (2) Die Eignungsprüfung erstreckt sich in dem Wahlfach
 
@@ -126,78 +115,47 @@ so hat sie nachzuweisen:
 
     a)  die Grundrechte,
 
-
     b)  das allgemeine Verwaltungsrecht und das allgemeine
         Verwaltungsverfahrensrecht,
-
 
     c)  die Grundzüge des Baurechts und des Rechts der öffentlichen Sicherheit
         und Ordnung,
 
-
     d)  das Verwaltungsprozeßrecht einschließlich der Grundlagen im
         Gerichtsverfassungsrecht,
-
-
-
-
 
 2.  Strafrecht auf
 
     a)  die allgemeinen Lehren des Strafrechts,
 
-
     b)  den Besonderen Teil des Strafgesetzbuchs,
-
 
     c)  das Strafprozeßrecht einschließlich der Grundlagen im
         Gerichtsverfassungsrecht,
-
-
-
-
 
 3.  Zivilrecht auf
 
     a)  die Grundzüge des Familienrechts und des Erbrechts,
 
-
     b)  das dazugehörende Verfahrensrecht einschließlich der Grundlagen im
         Gerichtsverfassungsrecht,
-
-
-
-
 
 4.  Handelsrecht auf
 
     a)  die Grundzüge des Handelsrechts und des Gesellschaftsrechts,
 
-
     b)  die Grundzüge des Wertpapierrechts ohne das Wechsel- und Scheckrecht,
-
 
     c)  das dazugehörende Verfahrensrecht einschließlich der Grundlagen im
         Gerichtsverfassungsrecht,
-
-
-
-
 
 5.  Arbeitsrecht auf
 
     a)  die Grundzüge des Individualarbeitsrechts und des kollektiven
         Arbeitsrechts,
 
-
     b)  das dazugehörende Prozeßrecht einschließlich der Grundlagen im
         Gerichtsverfassungsrecht.
-
-
-
-
-
-
 
 
 ## § 7 Prüfungsleistungen
@@ -206,10 +164,10 @@ so hat sie nachzuweisen:
 eines Rechtsanwalts zum Gegenstand. Die Bearbeitungszeit für eine
 Aufsichtsarbeit beträgt fünf Stunden.
 
-(2) Die Gegenstände des Kurzvortrags und des Prüfungsgesprächs sind
-der beruflichen Praxis eines Rechtsanwalts zu entnehmen. Die
-Vorbereitungszeit für den Kurzvortrag beträgt zwei Stunden. Für jeden
-Prüfungsteilnehmer beträgt die Dauer des Prüfungsgesprächs etwa
+(2) Die Gegenstände des Kurzvortrags und des Prüfungsgesprächs
+sind der beruflichen Praxis eines Rechtsanwalts zu entnehmen. Die
+Vorbereitungszeit für den Kurzvortrag beträgt zwei Stunden. Für
+jeden Prüfungsteilnehmer beträgt die Dauer des Prüfungsgesprächs etwa
 fünfundvierzig, die Dauer des Kurzvortrags etwa fünfzehn Minuten.
 
 
@@ -253,8 +211,8 @@ durch Täuschung zu beeinflussen, ist die Arbeit als mißlungen zu
 bewerten. In schweren Fällen wird die Prüfung für nicht bestanden
 erklärt.
 
-(3) Versucht der Antragsteller, das Ergebnis einer mündlichen Prüfung
-durch Täuschung zu beeinflussen, ist die mündliche Prüfung zu
+(3) Versucht der Antragsteller, das Ergebnis einer mündlichen
+Prüfung durch Täuschung zu beeinflussen, ist die mündliche Prüfung zu
 wiederholen. In schweren Fällen wird die Prüfung für nicht bestanden
 erklärt.
 
@@ -267,8 +225,8 @@ dem Tag der mündlichen Prüfung für nicht bestanden erklärt werden.
 (1) Im Anschluß an die mündliche Prüfung berät die Prüfungskommission
 über das Ergebnis der Prüfung und stellt auf Grund des Gesamteindrucks
 der in der schriftlichen und mündlichen Prüfung erbrachten Leistungen
-mit Mehrheit fest, ob der Antragsteller die für die Ausübung des
-Berufs eines Rechtsanwalts in der Bundesrepublik Deutschland
+mit Mehrheit fest, ob der Antragsteller die für die Ausübung
+des Berufs eines Rechtsanwalts in der Bundesrepublik Deutschland
 erforderlichen Kenntnisse hat.
 
 (2) Im Anschluß an die Beratung ist die Entscheidung der

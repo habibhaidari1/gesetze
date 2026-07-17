@@ -1,6 +1,5 @@
 ---
-Title: Gesetz über die Aufnahme eines Kredits durch den Bund im Rahmen der von den
-  Vereinigten Staaten gewährten Wirtschaftshilfe
+Title: Gesetz über die Aufnahme eines Kredits durch den Bund im Rahmen der von den Vereinigten Staaten gewährten Wirtschaftshilfe
 jurabk: KredAufnG
 layout: default
 origslug: kredaufng
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 1952, 301
-
 
 
 ## § 1

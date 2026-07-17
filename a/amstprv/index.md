@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Meisterprüfung in den Teilen III und IV im Handwerk und
-  in handwerksähnlichen Gewerben
+Title: Verordnung über die Meisterprüfung in den Teilen III und IV im Handwerk und in handwerksähnlichen Gewerben
 jurabk: AMstPrV
 layout: default
 origslug: amstprv
@@ -32,20 +31,20 @@ dem Bundesministerium für Bildung und Forschung:
 ## § 1 Gegenstand
 
 Die Meisterprüfung besteht aus vier selbstständigen Prüfungsteilen.
-Diese Verordnung regelt die betriebswirtschaftliche, kaufmännische und
-rechtliche Prüfung (Teil III) sowie die berufs- und
+Diese Verordnung regelt die betriebswirtschaftliche, kaufmännische
+und rechtliche Prüfung (Teil III) sowie die berufs- und
 arbeitspädagogische Prüfung (Teil IV) in der Meisterprüfung im
 Handwerk und in handwerksähnlichen Gewerben.
 
 
 ## § 2 Ziel, Gliederung und Inhalt des Teils III
 
-(1) Durch die Prüfung in Teil III hat der Prüfling in den in Absatz 2
-Nummer 1 bis 3 genannten Handlungsfeldern seine berufliche
+(1) Durch die Prüfung in Teil III hat der Prüfling in den in
+Absatz 2 Nummer 1 bis 3 genannten Handlungsfeldern seine berufliche
 Handlungskompetenz dadurch nachzuweisen, dass er als Betriebsinhaber,
 Betriebsinhaberin oder Führungskraft betriebswirtschaftliche,
-kaufmännische und rechtliche Probleme analysieren und bewerten sowie
-Lösungswege aufzeigen und dokumentieren und dabei aktuelle
+kaufmännische und rechtliche Probleme analysieren und bewerten
+sowie Lösungswege aufzeigen und dokumentieren und dabei aktuelle
 Entwicklungen berücksichtigen kann.
 
 (2) In jedem der nachfolgend aufgeführten Handlungsfelder ist
@@ -64,38 +63,29 @@ mindestens eine komplexe fallbezogene Aufgabe zu bearbeiten.
     a)  Unternehmensziele analysieren und in ein Unternehmenszielsystem
         einordnen,
 
-
     b)  Bedeutung der Unternehmenskultur und des Unternehmensimages für die
         betriebliche Leistungs- und Wettbewerbsfähigkeit begründen,
 
-
     c)  Situation eines Unternehmens am Markt analysieren und
         Erfolgspotenziale begründen,
-
 
     d)  Informationen aus dem Rechnungswesen, insbesondere aus Bilanz sowie
         Gewinn- und Verlustrechnung zur Analyse von Stärken und Schwächen
         eines Unternehmens nutzen,
 
-
     e)  Informationen aus dem internen und externen Rechnungswesen zur
         Entscheidungsvorbereitung nutzen,
-
 
     f)  Rechtsvorschriften, insbesondere des Gewerbe- und Handwerksrechts
         sowie des Handels- und Wettbewerbsrechts bei der Analyse von
         Unternehmenszielen und -konzepten anwenden;
 
-
-
-
-
 2.  Gründungs- und Übernahmeaktivitäten vorbereiten, durchführen und
     bewerten
 
-    Der Prüfling hat nachzuweisen, dass er in der Lage ist, Aufgaben im
-    Rahmen der Gründung und Übernahme eines Unternehmens unter
-    Berücksichtigung persönlicher, rechtlicher und
+    Der Prüfling hat nachzuweisen, dass er in der Lage ist,
+    Aufgaben im Rahmen der Gründung und Übernahme eines Unternehmens
+    unter Berücksichtigung persönlicher, rechtlicher und
     betriebswirtschaftlicher Rahmenbedingungen und Ziele vorzubereiten,
     durchzuführen und zu bewerten sowie ihre Bedeutung für ein
     Unternehmenskonzept zu begründen. Bei der Aufgabenstellung sollen
@@ -105,54 +95,41 @@ mindestens eine komplexe fallbezogene Aufgabe zu bearbeiten.
     a)  Bedeutung persönlicher Voraussetzungen für den Erfolg beruflicher
         Selbstständigkeit begründen,
 
-
-    b)  wirtschaftliche, gesellschaftliche und kulturelle Bedeutung des
-        Handwerks sowie Nutzen von Mitgliedschaften in den
+    b)  wirtschaftliche, gesellschaftliche und kulturelle Bedeutung
+        des Handwerks sowie Nutzen von Mitgliedschaften in den
         Handwerksorganisationen darstellen und bewerten,
-
 
     c)  Möglichkeiten der Inanspruchnahme von Beratungsdienstleistungen sowie
         von Förder- und Unterstützungsleistungen bei Gründung und Übernahme
         eines Unternehmens aufzeigen und bewerten,
 
-
     d)  Entscheidungen zu Standort, Betriebsgröße, Personalbedarf sowie zur
         Einrichtung und Ausstattung eines Unternehmens treffen und begründen,
 
-
     e)  Marketingkonzept zur Markteinführung entwickeln und bewerten,
-
 
     f)  Investitionsplan und Finanzierungskonzept aufstellen und begründen;
         Rentabilitätsvorschau erstellen und Liquiditätsplanung durchführen,
 
-
     g)  Rechtsform aus einem Unternehmenskonzept ableiten und begründen,
-
 
     h)  Rechtsvorschriften, insbesondere des bürgerlichen Rechts sowie des
         Gesellschafts- und Steuerrechts, im Zusammenhang mit Gründung oder
         Übernahme von Handwerksbetrieben anwenden,
 
-
     i)  Notwendigkeit privater Risiko- und Altersvorsorge begründen,
         Möglichkeiten aufzeigen,
-
 
     j)  Bedeutung persönlicher Aspekte sowie betriebswirtschaftlicher und
         rechtlicher Bestandteile eines Unternehmenskonzeptes im Zusammenhang
         darstellen und begründen;
 
-
-
-
-
 3.  Unternehmensführungsstrategien entwickeln
 
     Der Prüfling hat nachzuweisen, dass er in der Lage ist, unter
-    Berücksichtigung unternehmensbezogener Stärken und Schwächen sowie
-    marktbezogener Chancen und Risiken, ein Unternehmen zu führen,
-    betriebliche Wachstumspotenziale zu identifizieren und
+    Berücksichtigung unternehmensbezogener Stärken und Schwächen
+    sowie marktbezogener Chancen und Risiken, ein Unternehmen zu
+    führen, betriebliche Wachstumspotenziale zu identifizieren und
     Unternehmensstrategien zu entwickeln. Bei der Aufgabenstellung sollen
     mehrere der unter den Buchstaben a bis k aufgeführten Qualifikationen
     verknüpft werden:
@@ -160,55 +137,39 @@ mindestens eine komplexe fallbezogene Aufgabe zu bearbeiten.
     a)  Bedeutung der Aufbau- und Ablauforganisation für die Entwicklung eines
         Unternehmens beurteilen; Anpassungen vornehmen,
 
-
     b)  Entwicklungen bei Produkt- und Dienstleistungsinnovationen sowie
         Marktbedingungen, auch im internationalen Zusammenhang, bewerten und
         daraus Wachstumsstrategien ableiten,
 
-
     c)  Einsatzmöglichkeiten von Marketinginstrumenten für Absatz und
         Beschaffung von Produkten und Dienstleistungen begründen,
-
 
     d)  Veränderungen des Kapitalbedarfs aus Investitions-, Finanz- und
         Liquiditätsplanung ableiten; Alternativen der Kapitalbeschaffung
         darstellen,
 
-
     e)  Konzepte für Personalplanung, -beschaffung und -qualifizierung
         erarbeiten und bewerten sowie Instrumente der Personalführung und
         -entwicklung darstellen,
 
-
     f)  Bestimmungen des Arbeits- und Sozialversicherungsrechts bei der
         Entwicklung einer Unternehmensstrategie berücksichtigen,
 
-
     g)  Chancen und Risiken zwischenbetrieblicher Kooperationen darstellen,
-
 
     h)  Controlling zur Entwicklung, Verfolgung, Durchsetzung und
         Modifizierung von Unternehmenszielen nutzen,
 
-
     i)  Instrumente zur Durchsetzung von Forderungen darstellen und Einsatz
         begründen,
-
 
     j)  Notwendigkeit der Planung einer Unternehmensnachfolge, auch unter
         Berücksichtigung von Erb- und Familienrecht sowie steuerrechtlicher
         Bestimmungen, darstellen und begründen,
 
-
     k)  Notwendigkeit der Einleitung eines Insolvenzverfahrens anhand von
         Unternehmensdaten prüfen; insolvenzrechtliche Konsequenzen für die
         Weiterführung oder Liquidation eines Unternehmens aufzeigen.
-
-
-
-
-
-
 
 
 ## § 3 Prüfungsdauer und Bestehen des Teils III
@@ -217,8 +178,8 @@ mindestens eine komplexe fallbezogene Aufgabe zu bearbeiten.
 in jedem Handlungsfeld zwei Stunden.
 
 (2) Die Gesamtbewertung des Teils III wird aus dem arithmetischen
-Mittel der Einzelbewertungen der Handlungsfelder nach § 2 Absatz 2
-gebildet.
+Mittel der Einzelbewertungen der Handlungsfelder nach § 2 Absatz
+2 gebildet.
 
 (3) Wurden in höchstens zwei der in § 2 Absatz 2 genannten
 Handlungsfelder jeweils mindestens 30 und weniger als 50 Punkte
@@ -232,19 +193,15 @@ Prüfung des Teils III ist nicht bestanden, wenn
 
 1.  ein Handlungsfeld mit weniger als 30 Punkten bewertet worden ist oder
 
-
 2.  nach durchgeführter Ergänzungsprüfung zwei Handlungsfelder jeweils mit
     weniger als 50 Punkten bewertet worden sind.
 
 
-
-
-
 ## § 4 Ziel, Gliederung und Inhalt des Teils IV
 
-(1) Durch die Prüfung in Teil IV hat der Prüfling seine berufs- und
-arbeitspädagogischen Kenntnisse nachzuweisen und dass er die zur
-ordnungsgemäßen Ausbildung von Lehrlingen (Auszubildenden)
+(1) Durch die Prüfung in Teil IV hat der Prüfling seine berufs-
+und arbeitspädagogischen Kenntnisse nachzuweisen und dass er die
+zur ordnungsgemäßen Ausbildung von Lehrlingen (Auszubildenden)
 erforderliche Kompetenz zum selbstständigen Planen, Durchführen und
 Kontrollieren der Berufsausbildung besitzt.
 
@@ -260,49 +217,39 @@ jedem der nachfolgend aufgeführten Handlungsfelder zu bearbeiten:
     Ausbildungsvoraussetzungen auf der Grundlage betrieblicher,
     berufsbezogener und rechtlicher Bestimmungen zu prüfen und zu bewerten
     sowie die Ausbildung, auch unter Berücksichtigung außerbetrieblicher
-    Ausbildungszeiten, zu planen. Bei der Aufgabenstellung sollen mehrere
-    der unter den Buchstaben a bis g aufgeführten Qualifikationen
+    Ausbildungszeiten, zu planen. Bei der Aufgabenstellung sollen
+    mehrere der unter den Buchstaben a bis g aufgeführten Qualifikationen
     verknüpft werden:
 
     a)  Vorteile und Nutzen betrieblicher Ausbildung darstellen und begründen,
-
 
     b)  betrieblichen Ausbildungsbedarf auf der Grundlage rechtlicher,
         tarifvertraglicher und betrieblicher Rahmenbedingungen planen sowie
         hierzu Entscheidungen vorbereiten und treffen,
 
-
     c)  Strukturen des Berufsbildungssystems und seine Schnittstellen
         darstellen,
 
-
     d)  Ausbildungsberufe für den Betrieb auswählen und Auswahl begründen,
-
 
     e)  Eignung des Betriebes für die Ausbildung in angestrebten
         Ausbildungsberufen prüfen, insbesondere unter Berücksichtigung von
         Ausbildung im Verbund, überbetrieblicher und außerbetrieblicher
         Ausbildung,
 
-
     f)  Möglichkeiten des Einsatzes von berufsausbildungsvorbereitenden
         Maßnahmen prüfen und bewerten,
-
 
     g)  innerbetriebliche Aufgabenverteilung für die Ausbildung unter
         Berücksichtigung von Funktionen und Qualifikationen der an der
         Ausbildung Mitwirkenden koordinieren;
 
-
-
-
-
 2.  Ausbildung vorbereiten und Einstellung von Auszubildenden durchführen
 
-    Der Prüfling hat nachzuweisen, dass er in der Lage ist, Aufgaben der
-    Ausbildungsvorbereitung wahrzunehmen, Auswahlkriterien für
-    Einstellungen festzulegen sowie Einstellungsverfahren durchzuführen,
-    auch unter Berücksichtigung betrieblicher Arbeits- und
+    Der Prüfling hat nachzuweisen, dass er in der Lage ist, Aufgaben
+    der Ausbildungsvorbereitung wahrzunehmen, Auswahlkriterien
+    für Einstellungen festzulegen sowie Einstellungsverfahren
+    durchzuführen, auch unter Berücksichtigung betrieblicher Arbeits- und
     Geschäftsprozesse sowie rechtlicher Aspekte. Bei der Aufgabenstellung
     sollen mehrere der unter den Buchstaben a bis f aufgeführten
     Qualifikationen verknüpft werden:
@@ -311,37 +258,28 @@ jedem der nachfolgend aufgeführten Handlungsfelder zu bearbeiten:
         Ausbildungsplan erstellen, der sich insbesondere an berufstypischen
         Arbeits- und Geschäftsprozessen orientiert,
 
-
     b)  Möglichkeiten der Mitwirkung und Mitbestimmung der betrieblichen
         Interessenvertretungen in der Berufsbildung darstellen und begründen,
-
 
     c)  Kooperationsbedarf ermitteln und inhaltliche sowie organisatorische
         Abstimmung mit Kooperationspartnern, insbesondere der Berufsschule,
         durchführen,
 
-
     d)  Kriterien und Verfahren zur Auswahl von Auszubildenden auch unter
         Berücksichtigung ihrer Verschiedenartigkeit anwenden,
-
 
     e)  Berufsausbildungsvertrag vorbereiten und abschließen sowie die
         Eintragung bei der zuständigen Stelle veranlassen,
 
-
     f)  Möglichkeiten prüfen, ob Teile der Berufsausbildung im Ausland
         durchgeführt werden können;
 
-
-
-
-
 3.  Ausbildung durchführen
 
-    Der Prüfling hat nachzuweisen, dass er in der Lage ist, Lernprozesse
-    handlungsorientiert zu planen und zu kontrollieren sowie
-    selbstständiges Lernen zu fördern. Dabei sind berufstypische Arbeits-
-    und Geschäftsprozesse sowie Einsatzmöglichkeiten und
+    Der Prüfling hat nachzuweisen, dass er in der Lage ist,
+    Lernprozesse handlungsorientiert zu planen und zu kontrollieren
+    sowie selbstständiges Lernen zu fördern. Dabei sind berufstypische
+    Arbeits- und Geschäftsprozesse sowie Einsatzmöglichkeiten und
     Lernvoraussetzungen der Auszubildenden zu berücksichtigen. Bei der
     Aufgabenstellung sollen mehrere der unter den Buchstaben a bis j
     aufgeführten Qualifikationen verknüpft werden:
@@ -349,50 +287,37 @@ jedem der nachfolgend aufgeführten Handlungsfelder zu bearbeiten:
     a)  lernförderliche Bedingungen und motivierende Lernkultur schaffen,
         Rückmeldungen geben und empfangen,
 
-
     b)  Probezeit organisieren, gestalten und bewerten,
 
-
-    c)  aus dem betrieblichen Ausbildungsplan und den berufstypischen Arbeits-
-        und Geschäftsprozessen betriebliche Lern- und Arbeitsaufgaben
+    c)  aus dem betrieblichen Ausbildungsplan und den berufstypischen
+        Arbeits- und Geschäftsprozessen betriebliche Lern- und Arbeitsaufgaben
         entwickeln und gestalten,
-
 
     d)  Ausbildungsmethoden und -medien zielgruppengerecht auswählen und
         situationsspezifisch einsetzen,
 
-
-    e)  Auszubildende bei Lernschwierigkeiten durch individuelle Gestaltung
-        der Ausbildung und Lernberatung unterstützen,
+    e)  Auszubildende bei Lernschwierigkeiten durch individuelle
+        Gestaltung der Ausbildung und Lernberatung unterstützen,
         ausbildungsunterstützende Hilfen einsetzen und Möglichkeiten zur
         Verlängerung der Ausbildungszeit prüfen,
-
 
     f)  für Auszubildende zusätzliche Ausbildungsangebote, insbesondere
         Zusatzqualifikationen, prüfen und vorschlagen; Möglichkeiten der
         Verkürzung der Ausbildungsdauer und der vorzeitigen Zulassung zur
         Abschluss- oder Gesellenprüfung prüfen,
 
-
     g)  soziale und persönliche Entwicklungen von Auszubildenden fördern;
         Probleme und Konflikte rechtzeitig erkennen und auf Lösungen
         hinwirken,
 
-
     h)  Lernen und Arbeiten im Team entwickeln,
-
 
     i)  Leistungen von Auszubildenden feststellen und bewerten,
         Leistungsbeurteilungen Dritter und Prüfungsergebnisse auswerten,
         Beurteilungsgespräche führen, Rückschlüsse für den weiteren
         Ausbildungsverlauf ziehen,
 
-
     j)  interkulturelle Kompetenzen im Betrieb fördern;
-
-
-
-
 
 4.  Ausbildung abschließen
 
@@ -406,34 +331,22 @@ jedem der nachfolgend aufgeführten Handlungsfelder zu bearbeiten:
         Berücksichtigung der Prüfungstermine vorbereiten und die Ausbildung zu
         einem erfolgreichen Abschluss führen,
 
-
-    b)  für die Anmeldung der Auszubildenden zu Prüfungen bei der zuständigen
-        Stelle Sorge tragen und diese auf durchführungsrelevante
+    b)  für die Anmeldung der Auszubildenden zu Prüfungen bei der
+        zuständigen Stelle Sorge tragen und diese auf durchführungsrelevante
         Besonderheiten hinweisen,
-
 
     c)  schriftliche Zeugnisse auf der Grundlage von Leistungsbeurteilungen
         erstellen,
 
-
     d)  Auszubildende über betriebliche Entwicklungswege und berufliche
         Weiterbildungsmöglichkeiten informieren und beraten.
-
-
-
-
-
-
 
 (4) Der praktische Teil der Prüfung besteht aus
 
 1.  einer Präsentation oder einer praktischen Durchführung einer
     Ausbildungssituation und
 
-
 2.  einem Fachgespräch.
-
-
 
 Für die Präsentation oder die praktische Durchführung wählt der
 Prüfling eine berufstypische Ausbildungssituation aus. Die Auswahl und
@@ -470,15 +383,15 @@ unberührt.
 
 (2) Die Prüfung in den Teilen I und II der Meisterprüfung bestimmt
 sich nach den für die einzelnen Gewerbe der Anlagen A und B zur
-Handwerksordnung erlassenen Rechtsverordnungen oder nach den gemäß §
-119 Absatz 5 und § 122 der Handwerksordnung weiter anzuwendenden
+Handwerksordnung erlassenen Rechtsverordnungen oder nach den gemäß
+§ 119 Absatz 5 und § 122 der Handwerksordnung weiter anzuwendenden
 Vorschriften.
 
 
 ## § 7 Übergangsvorschriften
 
-(1) Die bis zum 31. Dezember 2011 begonnenen Prüfungsverfahren werden
-nach den bisherigen Vorschriften zu Ende geführt. Erfolgt die
+(1) Die bis zum 31. Dezember 2011 begonnenen Prüfungsverfahren
+werden nach den bisherigen Vorschriften zu Ende geführt. Erfolgt die
 Anmeldung zur Prüfung bis zum Ablauf des 31. Dezember 2013 sind auf
 Verlangen des Prüflings die bisherigen Vorschriften anzuwenden.
 

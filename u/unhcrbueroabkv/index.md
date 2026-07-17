@@ -1,7 +1,5 @@
 ---
-Title: Verordnung zu dem Abkommen vom 1. Juli 2005 zwischen der Regierung der  Bundesrepublik
-  Deutschland und dem Amt des Hohen Flüchtlingskommissars der  Vereinten Nationen
-  über das Büro des Hohen Flüchtlingskommissars der Vereinten  Nationen in Deutschland
+Title: Verordnung zu dem Abkommen vom 1. Juli 2005 zwischen der Regierung der Bundesrepublik Deutschland und dem Amt des Hohen Flüchtlingskommissars der Vereinten Nationen über das Büro des Hohen Flüchtlingskommissars der Vereinten Nationen in Deutschland
 jurabk: UNHCRBüroAbkV
 layout: default
 origslug: unhcrb_roabkv
@@ -9,7 +7,7 @@ slug: unhcrbueroabkv
 
 ---
 
-# Verordnung zu dem Abkommen vom 1. Juli 2005 zwischen der Regierung der  Bundesrepublik Deutschland und dem Amt des Hohen Flüchtlingskommissars der  Vereinten Nationen über das Büro des Hohen Flüchtlingskommissars der Vereinten  Nationen in Deutschland (UNHCRBüroAbkV)
+# Verordnung zu dem Abkommen vom 1. Juli 2005 zwischen der Regierung der Bundesrepublik Deutschland und dem Amt des Hohen Flüchtlingskommissars der Vereinten Nationen über das Büro des Hohen Flüchtlingskommissars der Vereinten Nationen in Deutschland (UNHCRBüroAbkV)
 
 Ausfertigungsdatum
 :   2007-02-22
@@ -17,25 +15,26 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 2007, 218
 
-Stand: Die Verordnung tritt gem. Art. 3 Abs. 2 dieser V an dem Tag außer Kraft, an dem das Abkommen nach seinem Art. 5 Abs. 3 außer Kraft tritt
+Stand
+:   Die Verordnung tritt gem. Art. 3 Abs. 2 dieser V an dem Tag außer Kraft, an dem das Abkommen nach seinem Art. 5 Abs. 3 außer Kraft tritt
 
 
 ## Eingangsformel
 
 Auf Grund des Artikels 2 Abs. 2 des Gesetzes vom 5. Juni 1996 zu dem
 Abkommen vom 10. November 1995 zwischen der Bundesrepublik Deutschland
-und den Vereinten Nationen über den Sitz des Freiwilligenprogramms der
-Vereinten Nationen (BGBl. 1996 II S. 903) verordnet die
+und den Vereinten Nationen über den Sitz des Freiwilligenprogramms
+der Vereinten Nationen (BGBl. 1996 II S. 903) verordnet die
 Bundesregierung:
 
 
 ## Art 1
 
-Das am 1. Juli 2005 in Berlin unterzeichnete Abkommen zwischen der
-Regierung der Bundesrepublik Deutschland und dem Amt des Hohen
-Flüchtlingskommissars der Vereinten Nationen über das Büro des Hohen
-Flüchtlingskommissars der Vereinten Nationen in Deutschland wird
-hiermit in Kraft gesetzt. Das Abkommen wird nachstehend
+Das am 1. Juli 2005 in Berlin unterzeichnete Abkommen zwischen
+der Regierung der Bundesrepublik Deutschland und dem Amt des Hohen
+Flüchtlingskommissars der Vereinten Nationen über das Büro des
+Hohen Flüchtlingskommissars der Vereinten Nationen in Deutschland
+wird hiermit in Kraft gesetzt. Das Abkommen wird nachstehend
 veröffentlicht.
 
 

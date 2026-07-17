@@ -1,6 +1,5 @@
 ---
-Title: Gesetz über eine Wiedereingliederungshilfe im Wohnungsbau für rückkehrende
-  Ausländer
+Title: Gesetz über eine Wiedereingliederungshilfe im Wohnungsbau für rückkehrende Ausländer
 jurabk: AuslWoBauG
 layout: default
 origslug: auslwobaug
@@ -17,7 +16,7 @@ Fundstelle
 :   BGBl I: 1986, 280
 
 Zuletzt geändert durch
-:   Art. 11 Nr. 19 G v. 30. 7.2004 I 1950
+:   Art. 11 Nr. 19 G v. 30.7.2004 I 1950
 
 
 ## Eingangsformel
@@ -37,22 +36,16 @@ Staatsangehörigkeit er besitzt, wenn er
     und Beschäftigung von Arbeitnehmern abgeschlossen hat und der nicht
     Mitglied der Europäischen Gemeinschaften ist,
 
-
 2.  ein Arbeitnehmer, Arbeitsloser oder selbständig Erwerbstätiger mit
     Wohnsitz im Geltungsbereich dieses Gesetzes ist,
 
-
 3.  im Zeitpunkt des Beginns der Auszahlung der Bausparsumme oder eines
-    Gelddarlehens zur Zwischenfinanzierung nach § 6 Abs. 2 im Besitz einer
-    gültigen Niederlassungserlaubnis oder Aufenthaltserlaubnis zu
+    Gelddarlehens zur Zwischenfinanzierung nach § 6 Abs. 2 im Besitz
+    einer gültigen Niederlassungserlaubnis oder Aufenthaltserlaubnis zu
     Erwerbszwecken, zum Zweck des Familiennachzugs oder ohne Bindung an
     einen Aufenthaltszweck ist und
 
-
 4.  eine Rückkehrverpflichtung nach § 3 eingegangen ist.
-
-
-
 
 
 ## § 2 Höhe der Bausparsumme
@@ -79,30 +72,30 @@ Beginns der Auszahlung der 31. Dezember 1993.
 
 Das Bauspardarlehen oder ein Gelddarlehen zur Zwischenfinanzierung
 nach § 6 Abs. 2 ist unverzüglich zurückzuzahlen, wenn der Bausparer
-nicht spätestens vier Jahre und drei Monate nach Beginn der Auszahlung
-der Bausparsumme den Geltungsbereich dieses Gesetzes auf Dauer
-verläßt. Im Falle der Aufnahme eines Gelddarlehens zur
-Zwischenfinanzierung gilt § 3 Abs. 2 Satz 2 entsprechend. Außerdem hat
-der Bausparer der Bausparkasse den Unterschiedsbetrag zwischen dem
-Zinssatz für das Bauspardarlehen und dem bei Beginn der Auszahlung der
-Bausparsumme geltenden durchschnittlichen Zinssatz für
-Hypothekarkredite auf Wohngrundstücke mit einer festen Verzinsung für
-zehn Jahre für die tatsächliche Laufzeit des Bauspardarlehens zu
-zahlen. Der Unterschiedsbetrag ist für die Zuteilungsmasse zu
+nicht spätestens vier Jahre und drei Monate nach Beginn der
+Auszahlung der Bausparsumme den Geltungsbereich dieses Gesetzes
+auf Dauer verläßt. Im Falle der Aufnahme eines Gelddarlehens zur
+Zwischenfinanzierung gilt § 3 Abs. 2 Satz 2 entsprechend. Außerdem
+hat der Bausparer der Bausparkasse den Unterschiedsbetrag zwischen
+dem Zinssatz für das Bauspardarlehen und dem bei Beginn der
+Auszahlung der Bausparsumme geltenden durchschnittlichen Zinssatz
+für Hypothekarkredite auf Wohngrundstücke mit einer festen Verzinsung
+für zehn Jahre für die tatsächliche Laufzeit des Bauspardarlehens
+zu zahlen. Der Unterschiedsbetrag ist für die Zuteilungsmasse zu
 verwenden.
 
 
 ## § 5 Verfahren
 
 (1) Die Verpflichtungserklärung nach § 3 ist gegenüber der
-Bausparkasse abzugeben. Die Bausparkasse hat den Bausparer über die
-Rechtsfolgen nach diesem Gesetz ausdrücklich und schriftlich zu
-belehren und ihm die Abgabe dieser Erklärung schriftlich zu
+Bausparkasse abzugeben. Die Bausparkasse hat den Bausparer über
+die Rechtsfolgen nach diesem Gesetz ausdrücklich und schriftlich
+zu belehren und ihm die Abgabe dieser Erklärung schriftlich zu
 bestätigen.
 
-(2) Die Bausparkasse hat dem Bausparer unverzüglich den nach § 3 zu
-bestimmenden Zeitpunkt, bis zu dem er den Geltungsbereich dieses
-Gesetzes spätestens auf Dauer zu verlassen hat, schriftlich
+(2) Die Bausparkasse hat dem Bausparer unverzüglich den nach §
+3 zu bestimmenden Zeitpunkt, bis zu dem er den Geltungsbereich
+dieses Gesetzes spätestens auf Dauer zu verlassen hat, schriftlich
 mitzuteilen. Hierüber unterrichtet sie die Ausländerbehörde.
 
 (3) Der Bausparer hat das Verlassen des Geltungsbereichs dieses
@@ -123,7 +116,6 @@ begonnen worden ist.
 
 
 ## (XXXX) §§ 7 und 8
-
 
 
 ## § 9 Berlin-Klausel

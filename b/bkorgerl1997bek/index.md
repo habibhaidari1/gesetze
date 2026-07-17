@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl I: 1998, 68
 
 
-
 ## Eingangsformel
 
 Nachstehend mache ich den Organisationserlaß des Bundeskanzlers vom
@@ -41,28 +40,19 @@ Mit Wirkung vom 1. Januar 1998 tritt folgendes in Kraft:
         Deutsche Bundespost, die Museumsstiftung Post und Telekommunikation
         und die Unfallkasse Post und Telekom,
 
-
     -   die beamten- und personalvertretungsrechtlichen Zuständigkeiten für
         die Beamten der Aktiengesellschaften Deutsche Telekom AG, Deutsche
         Post AG und Deutsche Postbank AG,
 
-
     -   die Befugnis zur Herausgabe von Postwertzeichen.
-
-
-
 
     Die der Bundesdruckerei GmbH durch Dienstleistungsüberlassungsvertrag
     zugeordneten Beamten werden in den Geschäftsbereich des
     Bundesministeriums der Finanzen übergeleitet.
 
-
 2.  Dem Bundesministerium für Wirtschaft werden alle übrigen
     Zuständigkeiten aus dem Geschäftsbereich des Bundesministeriums für
     Post und Telekommunikation übertragen.
-
-
-
 
 
 ## III.

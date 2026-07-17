@@ -22,7 +22,6 @@ Zuletzt geändert durch
 ## Abschnitt 1 - Allgemeine Vorschriften
 
 
-
 ### § 1 Beteiligung, Grundsatz
 
 (1) Die Beteiligung der Zivildienstleistenden (Dienstleistenden) in
@@ -47,15 +46,11 @@ ihren Reihen
 1.  in Dienststellen oder in Lehrgängen mit fünf bis zu zwanzig
     Dienstleistenden je einen Vertrauensmann und je einen Stellvertreter,
 
-
 2.  in Dienststellen oder in Lehrgängen mit einundzwanzig und mehr
     Dienstleistenden je einen Vertrauensmann und je zwei Stellvertreter.
 
-
-
-
-(2) Für Lehrgänge entfällt die Wahl des Vertrauensmannes und der
-Stellvertreter, wenn die voraussichtliche Amtsdauer des
+(2) Für Lehrgänge entfällt die Wahl des Vertrauensmannes und
+der Stellvertreter, wenn die voraussichtliche Amtsdauer des
 Vertrauensmannes bis zur Beendigung des Lehrgangs weniger als zehn
 Kalendertage beträgt.
 
@@ -67,12 +62,8 @@ angehören, für den der Vertrauensmann zu wählen ist.
 1.  der Dienstleistenden, die infolge Richterspruchs die Fähigkeit, Rechte
     aus öffentlichen Wahlen zu erlangen, nicht besitzen und
 
-
 2.  der Dienstleistenden, die vor dem Tage der Stimmabgabe durch das
     Verwaltungsgericht als Vertrauensmann abberufen worden sind.
-
-
-
 
 (5) Das Bundesministerium für Familie, Senioren, Frauen und Jugend
 wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des
@@ -81,30 +72,23 @@ Vorschriften zu erlassen über
 
 1.  die Wahlbereiche,
 
-
-2.  die Vorbereitung der Wahl, insbesondere die Bestellung des
-    Wahlvorstandes, die Festsetzung des Wahltermins, die
+2.  die Vorbereitung der Wahl, insbesondere die Bestellung
+    des Wahlvorstandes, die Festsetzung des Wahltermins, die
     Wahlbekanntmachungen, das Wählerverzeichnis, Einsprüche gegen das
     Wählerverzeichnis, die Wahlvorschläge, die Bewerberliste,
 
-
 3.  die Stimmabgabe,
-
 
 4.  die Feststellung des Wahlergebnisses und dessen Bekanntmachung und
 
-
 5.  die Aufbewahrung der Wahlakten.
-
-
-
 
 (6) Drei Wahlberechtigte, die Leitung der Dienststelle oder die
 Leitung des Lehrgangs können die Wahl innerhalb von vierzehn Tagen,
 vom Tage der Bekanntgabe des Wahlergebnisses an gerechnet, beim
-Verwaltungsgericht anfechten mit dem Antrag, die Wahl für ungültig zu
-erklären, wenn gegen wesentliche Vorschriften über das Wahlrecht, die
-Wählbarkeit oder das Wahlverfahren verstoßen worden und eine
+Verwaltungsgericht anfechten mit dem Antrag, die Wahl für ungültig
+zu erklären, wenn gegen wesentliche Vorschriften über das Wahlrecht,
+die Wählbarkeit oder das Wahlverfahren verstoßen worden und eine
 Berichtigung nicht erfolgt ist, es sei denn, daß durch den Verstoß das
 Wahlergebnis nicht verändert oder beeinflußt werden konnte.
 
@@ -124,7 +108,6 @@ der Leitung des Betriebes oder der Verwaltung hinzuwirken.
 
 
 ## Abschnitt 2 - Rechtsstellung des Vertrauensmannes
-
 
 
 ### § 4 Schutz des Vertrauensmannes
@@ -160,10 +143,10 @@ und die §§ 49 bis 51 des Zivildienstgesetzes entsprechende Anwendung.
 ### § 7 Amtszeit
 
 (1) Die Amtszeit des Vertrauensmannes beginnt mit dem Tag der Wahl
-oder, wenn zu diesem Zeitpunkt noch ein Vertrauensmann im Amt ist, mit
-dem Ablauf von dessen Amtszeit. Endet der Zivildienst oder der
-Lehrgang des Vertrauensmannes, so endet auch seine Amtszeit. Die
-Amtszeit eines Stellvertreters beginnt mit dem Tag der Wahl,
+oder, wenn zu diesem Zeitpunkt noch ein Vertrauensmann im Amt ist,
+mit dem Ablauf von dessen Amtszeit. Endet der Zivildienst oder
+der Lehrgang des Vertrauensmannes, so endet auch seine Amtszeit.
+Die Amtszeit eines Stellvertreters beginnt mit dem Tag der Wahl,
 frühestens jedoch mit dem Beginn der Amtszeit des von ihm vertretenen
 Vertrauensmannes; sie endet mit dem Ende seines Zivildienstes oder
 seines Lehrgangs.
@@ -172,14 +155,9 @@ seines Lehrgangs.
 
 1.  durch Niederlegung des Amtes,
 
-
 2.  durch Verlust der Wählbarkeit oder
 
-
 3.  durch rechtskräftige Entscheidung des Verwaltungsgerichts.
-
-
-
 
 
 ### § 8 Niederlegung des Amtes
@@ -193,9 +171,9 @@ Leitung des Lehrgangs.
 
 ### § 9 Abberufung des Vertrauensmannes
 
-(1) Die Präsidentin oder der Präsident des Bundesamtes, mindestens ein
-Viertel der Dienstleistenden des Wahlbereiches oder die Leitung der
-Dienststelle kann beim Verwaltungsgericht beantragen, den
+(1) Die Präsidentin oder der Präsident des Bundesamtes, mindestens
+ein Viertel der Dienstleistenden des Wahlbereiches oder die Leitung
+der Dienststelle kann beim Verwaltungsgericht beantragen, den
 Vertrauensmann wegen grober Vernachlässigung seiner gesetzlichen
 Befugnisse oder wegen grober Verletzung seiner gesetzlichen Pflichten
 als Vertrauensmann abzuberufen. Der Antrag auf Abberufung kann auch
@@ -211,9 +189,9 @@ vorläufige Ruhen des Amtes des Vertrauensmannes bis zur Entscheidung
 
 ### § 10 Eintritt des Stellvertreters
 
-(1) Endet das Amt des Vertrauensmannes vorzeitig (§ 7), so tritt der
-Stellvertreter ein. Ist kein Stellvertreter vorhanden, ist neu zu
-wählen.
+(1) Endet das Amt des Vertrauensmannes vorzeitig (§ 7), so tritt
+der Stellvertreter ein. Ist kein Stellvertreter vorhanden, ist neu
+zu wählen.
 
 (2) Der Stellvertreter tritt auch ein, wenn der Vertrauensmann an der
 Ausübung seines Amtes verhindert ist oder sein Amt ruht (§ 9 Abs. 2).
@@ -250,9 +228,7 @@ hat, übertragen.
 ## Abschnitt 3 - Beteiligung des Vertrauensmannes
 
 
-
 ### Unterabschnitt 1 - Allgemeines
-
 
 
 #### § 14 Grundsätze für die Zusammenarbeit
@@ -261,11 +237,11 @@ hat, übertragen.
 zwischen Vorgesetzten und Dienstleistenden sowie zur Erhaltung des
 Vertrauens innerhalb der Dienststelle oder des Lehrgangs beitragen.
 
-(2) Die oder der Vorgesetzte hat den Vertrauensmann bei der Erfüllung
-seiner Aufgaben zu unterstützen.Der Vertrauensmann ist über
-Angelegenheiten, die seine Aufgaben betreffen, rechtzeitig und
-umfassend zu unterrichten. Ihm ist während des Dienstes Gelegenheit zu
-geben, Sprechstunden für Dienstleistende innerhalb der Dienststelle
+(2) Die oder der Vorgesetzte hat den Vertrauensmann bei der
+Erfüllung seiner Aufgaben zu unterstützen.Der Vertrauensmann ist
+über Angelegenheiten, die seine Aufgaben betreffen, rechtzeitig und
+umfassend zu unterrichten. Ihm ist während des Dienstes Gelegenheit
+zu geben, Sprechstunden für Dienstleistende innerhalb der Dienststelle
 abzuhalten, soweit dies zur Wahrnehmung seiner Aufgaben erforderlich
 ist und dienstliche Gründe nicht entgegenstehen.
 
@@ -279,13 +255,13 @@ unterrichten und den Namen des Vertrauensmannes bekanntzugeben.
 (2) Die oder der Vorgesetzte hat den Vertrauensmann und seine
 Stellvertreter unverzüglich nach ihrer Wahl in ihr Amt einzuweisen.
 
-(3) Vertrauensmänner und deren Stellvertreter, die erstmals in ihr Amt
-gewählt worden sind, werden durch das Bundesamt auf ihre Aufgaben
+(3) Vertrauensmänner und deren Stellvertreter, die erstmals in ihr
+Amt gewählt worden sind, werden durch das Bundesamt auf ihre Aufgaben
 vorbereitet.
 
 (4) Die Präsidentin oder der Präsident des Bundesamtes oder die
-beauftragten Beschäftigten des Bundesamtes führen mindestens einmal im
-Kalenderhalbjahr mit Vorgesetzten und Vertrauensmännern eine
+beauftragten Beschäftigten des Bundesamtes führen mindestens einmal
+im Kalenderhalbjahr mit Vorgesetzten und Vertrauensmännern eine
 Besprechung über Angelegenheiten von gemeinsamem Interesse aus dem
 Aufgabenbereich des Vertrauensmannes durch. Den Vertrauensmännern ist
 im Benehmen mit den Vorgesetzten Gelegenheit zu geben, sich auf diese
@@ -298,7 +274,6 @@ Arbeitszeit hinaus beansprucht wird.
 
 
 ### Unterabschnitt 2 - Formen der Beteiligung
-
 
 
 #### § 16 Anhörung
@@ -314,12 +289,12 @@ zur Äußerung zu geben.
 oder der Vorgesetzte die Vorschläge des Vertrauensmannes mit ihm zu
 erörtern.
 
-(2) Kommt eine Einigung nicht zustande, kann der Vertrauensmann sein
-Anliegen der oder dem nächsthöheren Vorgesetzten vortragen, sofern
-eine solche oder ein solcher vorhanden ist. Diese oder dieser
-entscheidet abschließend. Sie oder er soll die Ausführung einer
-dienstlichen Anordnung oder einer sonstigen Maßnahme bis zur
-Entscheidung aussetzen, wenn dem dienstliche Gründe nicht
+(2) Kommt eine Einigung nicht zustande, kann der Vertrauensmann
+sein Anliegen der oder dem nächsthöheren Vorgesetzten vortragen,
+sofern eine solche oder ein solcher vorhanden ist. Diese oder
+dieser entscheidet abschließend. Sie oder er soll die Ausführung
+einer dienstlichen Anordnung oder einer sonstigen Maßnahme bis
+zur Entscheidung aussetzen, wenn dem dienstliche Gründe nicht
 entgegenstehen.
 
 (3) Entspricht die oder der Vorgesetzte einem Vorschlag des
@@ -329,19 +304,18 @@ dem Vertrauensmann die Entscheidung unter Angabe der Gründe mit.
 
 #### § 18 Mitbestimmung
 
-Unterliegt eine Maßnahme oder Entscheidung der Mitbestimmung, ist der
-Vertrauensmann von der oder dem zuständigen Vorgesetzten rechtzeitig
-zu unterrichten. Dabei ist ihm Gelegenheit zur Äußerung zu geben.
-Kommt eine Einigung nicht zustande, ist die Maßnahme oder die
-Entscheidung auszusetzen und die oder der nächsthöhere Vorgesetzte
-anzurufen, sofern eine solche oder ein solcher vorhanden ist.
-Entscheidet die oder der nächsthöhere Vorgesetzte abweichend vom
-Vorschlag, ist die Entscheidung gegenüber dem Vertrauensmann
+Unterliegt eine Maßnahme oder Entscheidung der Mitbestimmung,
+ist der Vertrauensmann von der oder dem zuständigen Vorgesetzten
+rechtzeitig zu unterrichten. Dabei ist ihm Gelegenheit zur Äußerung
+zu geben. Kommt eine Einigung nicht zustande, ist die Maßnahme
+oder die Entscheidung auszusetzen und die oder der nächsthöhere
+Vorgesetzte anzurufen, sofern eine solche oder ein solcher vorhanden
+ist. Entscheidet die oder der nächsthöhere Vorgesetzte abweichend
+vom Vorschlag, ist die Entscheidung gegenüber dem Vertrauensmann
 schriftlich zu begründen.
 
 
 ### Unterabschnitt 3 - Aufgabengebiete
-
 
 
 #### § 19 Personalangelegenheiten
@@ -352,18 +326,12 @@ betroffenen Dienstleistenden angehört werden:
 
 1.  Versetzungen aus dienstlichen Gründen,
 
-
 2.  Umsetzungen innerhalb der Dienststelle,
-
 
 3.  vorzeitige Beendigungen des Dienstverhältnisses, sofern das
     Zivildienstgesetz einen Ermessensspielraum einräumt, und
 
-
 4.  Anträgen auf Genehmigung einer Nebentätigkeit oder von Sonderurlaub.
-
-
-
 
 (2) Die oder der Vorgesetzte teilt die Äußerung des Vertrauensmannes
 zu der beabsichtigten Personalmaßnahme der zuständigen Stelle mit. Das
@@ -377,8 +345,8 @@ des Dienstbetriebes anhören. Der Vertrauensmann hat das Recht,
 Vorschläge zu unterbreiten.
 
 (2) Zum Dienstbetrieb gehören alle Maßnahmen, die im Dienst-, Einsatz-
-oder Schichtplan festgelegt werden und Fragen der Arbeitsaufgaben, des
-inneren Dienstbetriebes, der Fürsorge und des außerdienstlichen
+oder Schichtplan festgelegt werden und Fragen der Arbeitsaufgaben,
+des inneren Dienstbetriebes, der Fürsorge und des außerdienstlichen
 Gemeinschaftslebens betreffen. Ausgenommen sind Fragen, die sich auf
 Ziele und Inhalte der Lehrgänge beziehen.
 
@@ -412,17 +380,17 @@ Akten zu nehmen ist.
 #### § 23 Beschwerdeverfahren
 
 Betrifft eine Beschwerde Fragen des Dienstbetriebes, der Fürsorge oder
-des außerdienstlichen Gemeinschaftslebens, soll der Vertrauensmann des
-Beschwerdeführers angehört werden. In Personalangelegenheiten (§ 19)
-soll der Vertrauensmann auf Antrag des Beschwerdeführers angehört
+des außerdienstlichen Gemeinschaftslebens, soll der Vertrauensmann
+des Beschwerdeführers angehört werden. In Personalangelegenheiten (§
+19) soll der Vertrauensmann auf Antrag des Beschwerdeführers angehört
 werden.
 
 
 #### § 24 Ausschluß der Beteiligung
 
 Eine Beteiligung des Vertrauensmannes unterbleibt, wenn er selbst
-Betroffener einer Personalmaßnahme oder einer Disziplinarmaßnahme oder
-Beschwerdeführer ist. In diesen Fällen ist der Stellvertreter des
+Betroffener einer Personalmaßnahme oder einer Disziplinarmaßnahme
+oder Beschwerdeführer ist. In diesen Fällen ist der Stellvertreter des
 Vertrauensmannes zu beteiligen.
 
 

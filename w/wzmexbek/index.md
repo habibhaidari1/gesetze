@@ -16,7 +16,6 @@ Fundstelle
 :   RGBl: 1899, 284
 
 
-
 ## (XXXX)
 
 Auf Grund einer Vereinbarung mit der Regierung der Vereinigten Staaten
@@ -25,5 +24,6 @@ Schutz der Warenbezeichnungen vom 12. Mai 1894 (Reichsgesetzbl. S.
 441) bekanntgemacht, daß in Mexiko deutsche Warenbezeichnungen in
 gleichem Umfange wie inländische Warenbezeichnungen zum gesetzlichen
 Schutze zugelassen werden.
+
 Der Reichskanzler
 

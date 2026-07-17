@@ -1,6 +1,5 @@
 ---
-Title: Gesetz über die Rehabilitierung und Entschädigung von Opfern rechtsstaatswidriger
-  Strafverfolgungsmaßnahmen im Beitrittsgebiet
+Title: Gesetz über die Rehabilitierung und Entschädigung von Opfern rechtsstaatswidriger Strafverfolgungsmaßnahmen im Beitrittsgebiet
 jurabk: StrRehaG
 layout: default
 origslug: strrehag
@@ -20,19 +19,18 @@ Neugefasst durch
 :   Bek. v. 17.12.1999 I 2664;
 
 Zuletzt geändert durch
-:   Art. 12 G v. 2.6.2021 I 1387
+:   Art. 3 G v. 25.2.2025 I Nr. 63
 
 
 ## Abschnitt 1 - Rehabilitierung und Folgeansprüche
-
 
 
 ### § 1 Aufhebung rechtsstaatswidriger Entscheidungen
 
 (1) Die strafrechtliche Entscheidung eines staatlichen deutschen
 Gerichts in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
-(Beitrittsgebiet) aus der Zeit vom 8. Mai 1945 bis zum 2. Oktober 1990
-ist auf Antrag für rechtsstaatswidrig zu erklären und aufzuheben
+(Beitrittsgebiet) aus der Zeit vom 8. Mai 1945 bis zum 2. Oktober
+1990 ist auf Antrag für rechtsstaatswidrig zu erklären und aufzuheben
 (Rehabilitierung), soweit sie mit wesentlichen Grundsätzen einer
 freiheitlichen rechtsstaatlichen Ordnung unvereinbar ist, insbesondere
 weil
@@ -45,67 +43,52 @@ weil
         1968 in der Fassung der Bekanntmachung vom 14. Dezember 1988, GBl.
         1989 I Nr. 3 S. 33);
 
-
     b)  Staatsfeindlicher Menschenhandel (§ 105 des Strafgesetzbuches der
         Deutschen Demokratischen Republik vom 12. Januar 1968 in der Fassung
         der Bekanntmachung vom 14. Dezember 1988, GBl. 1989 I Nr. 3 S. 33);
-
 
     c)  Staatsfeindliche Hetze (§ 106 Abs. 1 Nr. 1 bis 4, Abs. 2 und 3 des
         Strafgesetzbuches der Deutschen Demokratischen Republik vom 12. Januar
         1968 in der Fassung der Bekanntmachung vom 14. Dezember 1988, GBl.
         1989 I Nr. 3 S. 33);
 
-
     d)  Ungesetzliche Verbindungsaufnahme (§ 219 des Strafgesetzbuches der
         Deutschen Demokratischen Republik vom 12. Januar 1968 in der Fassung
         der Bekanntmachung vom 14. Dezember 1988, GBl. 1989 I Nr. 3 S. 33);
 
-
-    e)  Ungesetzlicher Grenzübertritt (§ 213 Abs. 1, 2, 3 Satz 2 Nr. 3 bis 6,
-        oder Abs. 4 des Strafgesetzbuches der Deutschen Demokratischen
+    e)  Ungesetzlicher Grenzübertritt (§ 213 Abs. 1, 2, 3 Satz 2 Nr. 3 bis
+        6, oder Abs. 4 des Strafgesetzbuches der Deutschen Demokratischen
         Republik vom 12. Januar 1968 in der Fassung der Bekanntmachung vom 14.
         Dezember 1988, GBl. 1989 I Nr. 3 S. 33);
 
-
     f)  Boykotthetze gemäß Artikel 6 Abs. 2 der Verfassung der Deutschen
         Demokratischen Republik vom 7. Oktober 1949 (GBl. I Nr. 1 S. 5);
-
 
     g)  Wehrdienstentziehung und Wehrdienstverweigerung (§ 256 des
         Strafgesetzbuches der Deutschen Demokratischen Republik vom 12. Januar
         1968 in der Fassung der Bekanntmachung vom 14. Dezember 1988, GBl.
         1989 I Nr. 3 S. 33) oder § 43 des Gesetzes über den Wehrdienst in der
-        Deutschen Demokratischen Republik vom 25. März 1982 (GBl. I Nr. 12 S.
-        221);
-
+        Deutschen Demokratischen Republik vom 25. März 1982 (GBl. I Nr. 12
+        S. 221);
 
     h)  nach Vorschriften, die den unter den Buchstaben a bis g genannten
         Vorschriften inhaltlich entsprechen, sowie
 
-
     i)  Hochverrat, Spionage, Anwerbenlassen zum Zwecke der Spionage,
         Landesverräterische Agententätigkeit, Staatsverbrechen, die gegen
-        einen verbündeten Staat gerichtet sind, Unterlassung der Anzeige einer
-        dieser Straftaten, Geheimnisverrat (§§ 96, 97, 98, 100, 108, 225 Abs.
-        1 Nr. 2 in Verbindung mit diesen Vorschriften, §§ 245 oder 246 des
-        Strafgesetzbuches der Deutschen Demokratischen Republik vom 12. Januar
-        1968 in der Fassung der Bekanntmachung vom 14. Dezember 1988, GBl.
-        1989 I Nr. 3 S. 33) oder nach inhaltlich entsprechenden Vorschriften,
-        wenn die Tat für die Bundesrepublik Deutschland, einen mit ihr
-        verbündeten Staat oder für eine Organisation begangen worden sein
-        soll, die den Grundsätzen einer freiheitlichen rechtsstaatlichen
+        einen verbündeten Staat gerichtet sind, Unterlassung der Anzeige
+        einer dieser Straftaten, Geheimnisverrat (§§ 96, 97, 98, 100, 108,
+        225 Abs. 1 Nr. 2 in Verbindung mit diesen Vorschriften, §§ 245 oder
+        246 des Strafgesetzbuches der Deutschen Demokratischen Republik vom
+        12\. Januar 1968 in der Fassung der Bekanntmachung vom 14. Dezember
+        1988, GBl. 1989 I Nr. 3 S. 33) oder nach inhaltlich entsprechenden
+        Vorschriften, wenn die Tat für die Bundesrepublik Deutschland, einen
+        mit ihr verbündeten Staat oder für eine Organisation begangen worden
+        sein soll, die den Grundsätzen einer freiheitlichen rechtsstaatlichen
         Ordnung verpflichtet ist, oder
-
-
-
-
 
 2.  die angeordneten Rechtsfolgen in grobem Missverhältnis zu der zu
     Grunde liegenden Tat stehen.
-
-
-
 
 (2) Mit wesentlichen Grundsätzen einer freiheitlichen
 rechtsstaatlichen Ordnung unvereinbar sind die Entscheidungen des
@@ -113,10 +96,10 @@ Landgerichts Chemnitz, Außenstelle Waldheim, aus dem Jahr 1950
 ("Waldheimer Prozesse").
 
 (3) Ist eine Entscheidung auf die Verletzung mehrerer
-Strafvorschriften gestützt und liegen die Voraussetzungen des Absatzes
-1 nur hinsichtlich eines Teiles der Strafvorschriften vor, kann die
-Entscheidung insgesamt aufgehoben werden, wenn die übrigen
-Gesetzesverletzungen für die Anordnung der Rechtsfolgen von
+Strafvorschriften gestützt und liegen die Voraussetzungen des
+Absatzes 1 nur hinsichtlich eines Teiles der Strafvorschriften
+vor, kann die Entscheidung insgesamt aufgehoben werden, wenn die
+übrigen Gesetzesverletzungen für die Anordnung der Rechtsfolgen von
 untergeordneter Bedeutung gewesen sind.
 
 (4) Kommt eine vollständige Aufhebung der Entscheidung nicht in
@@ -127,12 +110,23 @@ Voraussetzungen des Absatzes 1 vorliegen.
 Entscheidungen sind, gelten die Vorschriften dieses Gesetzes
 entsprechend.
 
-(6) Ein Antrag nach Absatz 1 ist unzulässig, soweit nach dem 2.
-Oktober 1990 über einen auf denselben Sachverhalt gestützten
+(6) Ein Antrag nach Absatz 1 ist unzulässig, soweit nach dem
+2\. Oktober 1990 über einen auf denselben Sachverhalt gestützten
 zulässigen Antrag auf Rehabilitierung oder Kassation rechtskräftig
 entschieden worden ist. Dies gilt nicht, soweit dargelegt wird, dass
-der frühere Antrag nach den Vorschriften dieses Gesetzes Erfolg gehabt
-hätte.
+der frühere Antrag nach den Vorschriften dieses Gesetzes in der zum
+Zeitpunkt der Entscheidung über den erneuten Antrag geltenden Fassung
+Erfolg gehabt hätte. Hat ein erneuter Antrag nach Satz 2 Erfolg, so
+sind Leistungen, die der Antragsteller gemäß § 18 Absatz 4 in der
+vom 29. November 2019 bis einschließlich 30. Juni 2025 geltenden
+Fassung erhalten hat, auf Folgeansprüche nach Maßgabe dieses Gesetzes
+anzurechnen. Die Stiftung für ehemalige politisch Verfolgte nach § 1
+des Gesetzes über die Stiftung für ehemalige politisch Verfolgte vom
+25\. Februar 2025 (BGBl. 2025 I Nr. 63) hat den für Leistungen nach
+diesem Gesetz zuständigen Behörden Auskunft zu erteilen über die von
+ihr gewährten Unterstützungsleistungen gemäß § 18 Absatz 4 in der vom
+29\. November 2019 bis einschließlich 30. Juni 2025 geltenden Fassung,
+soweit dies zur Prüfung einer Anrechnung erforderlich ist.
 
 
 ### § 2 Rechtsstaatswidrige Entscheidungen über Freiheitsentzug außerhalb eines Strafverfahrens
@@ -156,8 +150,8 @@ gleichgestellt.
 Maßgabe dieses Gesetzes.
 
 (2) Wird eine Einziehung von Gegenständen oder eine
-Vermögenseinziehung aufgehoben, richtet sich die Rückübertragung oder
-Rückgabe von Vermögenswerten nach dem Vermögensgesetz und dem
+Vermögenseinziehung aufgehoben, richtet sich die Rückübertragung
+oder Rückgabe von Vermögenswerten nach dem Vermögensgesetz und dem
 Investitionsvorranggesetz.
 
 
@@ -170,9 +164,9 @@ Vollstreckung einer noch nicht vollstreckten Rechtsfolge nicht
 gehemmt. Das Gericht kann einen Aufschub oder eine Unterbrechung der
 Vollstreckung anordnen.
 
-(2) Soweit die Entscheidung nicht aufgehoben wird, hat das Gericht die
-Vollstreckung für erledigt zu erklären, wenn ihre Fortsetzung unter
-Berücksichtigung der bereits vollstreckten Rechtsfolgen
+(2) Soweit die Entscheidung nicht aufgehoben wird, hat das Gericht
+die Vollstreckung für erledigt zu erklären, wenn ihre Fortsetzung
+unter Berücksichtigung der bereits vollstreckten Rechtsfolgen
 unverhältnismäßig wäre.
 
 
@@ -183,20 +177,20 @@ angefochtene stattgebende Entscheidung des Gerichts sind dem
 Bundeszentralregister mitzuteilen; dies gilt nicht, wenn der
 Betroffene verstorben ist.
 
-(2) In das Bundeszentralregister ist die durch Beschwerde angefochtene
-stattgebende Entscheidung einzutragen, wenn die dem
-Rehabilitierungsverfahren zugrundeliegende Entscheidung in das
-Bundeszentralregister eingetragen ist. Verurteilungen, bei denen die
-stattgebende Entscheidung vermerkt ist, werden nicht in das
-Führungszeugnis aufgenommen; wird in der Entscheidung dem
-Rehabilitierungsantrag nur teilweise stattgegeben, ist im
+(2) In das Bundeszentralregister ist die durch Beschwerde
+angefochtene stattgebende Entscheidung einzutragen, wenn die
+dem Rehabilitierungsverfahren zugrundeliegende Entscheidung in
+das Bundeszentralregister eingetragen ist. Verurteilungen, bei
+denen die stattgebende Entscheidung vermerkt ist, werden nicht
+in das Führungszeugnis aufgenommen; wird in der Entscheidung
+dem Rehabilitierungsantrag nur teilweise stattgegeben, ist im
 Führungszeugnis darauf hinzuweisen. Ist das Rehabilitierungsverfahren
 rechtskräftig abgeschlossen, wird die Eintragung nach Satz 1 aus dem
 Bundeszentralregister entfernt.
 
 (3) Eintragungen im Strafregister der Deutschen Demokratischen
-Republik, die auf einer gerichtlichen Entscheidung beruhen, die nach
-diesem Gesetz aufgehoben wird, werden nicht in das
+Republik, die auf einer gerichtlichen Entscheidung beruhen,
+die nach diesem Gesetz aufgehoben wird, werden nicht in das
 Bundeszentralregister übernommen. Ist die aufgehobene Entscheidung
 nicht im Strafregister der Deutschen Demokratischen Republik oder im
 Bundeszentralregister eingetragen, erfolgt keine Eintragung in das
@@ -219,21 +213,20 @@ Bundeszentralregistergesetzes entsprechend.
 
 ### § 6 Erstattung von Geldstrafen, Kosten des Verfahrens und notwendigen Auslagen des Betroffenen
 
-(1) Soweit eine Entscheidung aufgehoben wird, besteht ein Anspruch auf
-Erstattung gezahlter Geldstrafen, Kosten des Verfahrens und
+(1) Soweit eine Entscheidung aufgehoben wird, besteht ein Anspruch
+auf Erstattung gezahlter Geldstrafen, Kosten des Verfahrens und
 notwendiger Auslagen des Betroffenen im Verhältnis von zwei Mark der
 Deutschen Demokratischen Republik zu einer Deutschen Mark. Bereits
 erfolgte Erstattungen sind anzurechnen.
 
-(2) Die Höhe des Erstattungsanspruchs nach Absatz 1 kann geschätzt
-werden, wenn eine genaue Feststellung nicht oder nur mit
+(2) Die Höhe des Erstattungsanspruchs nach Absatz 1 kann
+geschätzt werden, wenn eine genaue Feststellung nicht oder nur mit
 unverhältnismäßigem Aufwand möglich wäre.
 
 (3) § 25 Absatz 1 gilt entsprechend.
 
 
 ## Abschnitt 2 - Gerichtliches Verfahren
-
 
 
 ### § 7 Antrag
@@ -243,17 +236,13 @@ unverhältnismäßigem Aufwand möglich wäre.
 1.  von dem durch die Entscheidung unmittelbar in seinen Rechten
     Betroffenen oder seinem gesetzlichen Vertreter,
 
-
-2.  nach dem Tode des Betroffenen von seinem Ehegatten, seinen Verwandten
-    in gerader Linie, seinen Geschwistern oder von Personen, die ein
-    berechtigtes Interesse an der Rehabilitierung des von der
+2.  nach dem Tode des Betroffenen von seinem Ehegatten, seinen
+    Verwandten in gerader Linie, seinen Geschwistern oder von Personen,
+    die ein berechtigtes Interesse an der Rehabilitierung des von der
     rechtsstaatswidrigen Entscheidung Betroffenen haben, oder
-
 
 3.  von der Staatsanwaltschaft, jedoch nicht, soweit der unmittelbar in
     seinen Rechten Betroffene widersprochen hat,
-
-
 
 gestellt werden.
 
@@ -262,12 +251,12 @@ der Geschäftsstelle erklärt werden. Der Antrag ist zu begründen.
 
 (3) Der Antrag kann auf bestimmte Beschwerdepunkte beschränkt werden.
 
-(4) Die in Absatz 1 Nr. 1 und 2 genannten Verfahrensbeteiligten können
-sich durch einen Bevollmächtigten vertreten lassen. Zu
+(4) Die in Absatz 1 Nr. 1 und 2 genannten Verfahrensbeteiligten
+können sich durch einen Bevollmächtigten vertreten lassen. Zu
 Bevollmächtigten können die im Geltungsbereich dieses Gesetzes
 zugelassenen Rechtsanwälte sowie Rechtslehrer an deutschen Hochschulen
-gewählt werden. Andere Personen können mit Zustimmung des Gerichts zu
-Bevollmächtigten gewählt werden. Für die Prozesskostenhilfe gelten
+gewählt werden. Andere Personen können mit Zustimmung des Gerichts
+zu Bevollmächtigten gewählt werden. Für die Prozesskostenhilfe gelten
 dieselben Vorschriften wie in bürgerlichen Rechtsstreitigkeiten.
 
 (5) Verstirbt der Betroffene nach Antragstellung, können die nach
@@ -277,9 +266,9 @@ Fortsetzung des Verfahrens beantragen.
 
 ### § 8 Zuständiges Gericht
 
-(1) Für die Entscheidung nach § 1 ist das Bezirksgericht oder das an
-dessen Sitz errichtete Landgericht zuständig, in dessen Bezirk nach
-Maßgabe der Bezirksgerichtsgrenzen vom 3. Oktober 1990 das
+(1) Für die Entscheidung nach § 1 ist das Bezirksgericht oder das
+an dessen Sitz errichtete Landgericht zuständig, in dessen Bezirk
+nach Maßgabe der Bezirksgerichtsgrenzen vom 3. Oktober 1990 das
 erstinstanzliche Strafverfahren oder das Ermittlungsverfahren
 durchgeführt worden ist. Soweit in erster Instanz das Oberste Gericht
 der Deutschen Demokratischen Republik entschieden hat, ist das
@@ -293,17 +282,17 @@ zuständig gewesen wäre.
 
 ### § 9 Besetzung der Rehabilitierungssenate oder Rehabilitierungskammern
 
-(1) Das Bezirksgericht entscheidet durch Rehabilitierungssenate, das
-Landgericht durch Rehabilitierungskammern, die jeweils mit drei
+(1) Das Bezirksgericht entscheidet durch Rehabilitierungssenate,
+das Landgericht durch Rehabilitierungskammern, die jeweils mit drei
 Berufsrichtern besetzt sind.
 
-(2) Wer vor dem 3. Oktober 1990 im Beitrittsgebiet als Berufsrichter
-oder Staatsanwalt tätig war, ist von der Mitwirkung an
-Rehabilitierungsentscheidungen kraft Gesetzes ausgeschlossen, solange
-er nicht auf Grund des Deutschen Richtergesetzes und der dazu
+(2) Wer vor dem 3. Oktober 1990 im Beitrittsgebiet als
+Berufsrichter oder Staatsanwalt tätig war, ist von der Mitwirkung
+an Rehabilitierungsentscheidungen kraft Gesetzes ausgeschlossen,
+solange er nicht auf Grund des Deutschen Richtergesetzes und der dazu
 ergangenen Maßgaben des Einigungsvertrages in ein Richterverhältnis
-berufen worden ist. An einer Rehabilitierungsentscheidung darf nicht
-mehr als ein Richter mitwirken, der vor dem 3. Oktober 1990 im
+berufen worden ist. An einer Rehabilitierungsentscheidung darf
+nicht mehr als ein Richter mitwirken, der vor dem 3. Oktober 1990 im
 Beitrittsgebiet als Berufsrichter oder Staatsanwalt tätig war.
 
 
@@ -319,21 +308,21 @@ bezeichnen und die den Antrag begründenden Tatsachen glaubhaft zu
 machen. § 11 Abs. 4 Satz 2 und 3 dieses Gesetzes sowie § 294 Abs. 1
 der Zivilprozessordnung gelten entsprechend.
 
-(3) Es wird vermutet, dass die Anordnung der Unterbringung in einem
-Heim für Kinder oder Jugendliche der politischen Verfolgung oder sonst
-sachfremden Zwecken diente, wenn eine Einweisung in ein Spezialheim
-oder in eine vergleichbare Einrichtung, in der eine zwangsweise
-Umerziehung erfolgte, stattfand. Darüber hinaus wird vermutet, dass
-die Anordnung der Unterbringung in einem Heim für Kinder oder
-Jugendliche der politischen Verfolgung oder sonst sachfremden Zwecken
-diente, soweit gleichzeitig mit der Unterbringung freiheitsentziehende
-Maßnahmen gegen die Eltern oder Elternteile aufgrund von
-Entscheidungen, die im Wege der Rehabilitierung für rechtsstaatswidrig
-erklärt und aufgehoben worden sind, vollstreckt wurden. Eine
-gleichzeitige Vollstreckung freiheitsentziehender Maßnahmen liegt vor,
-wenn zwischen der Unterbringung in einem Heim und der Vollstreckung
-der freiheitsentziehenden Maßnahmen ein Sach- und Zeitzusammenhang
-besteht.
+(3) Es wird vermutet, dass die Anordnung der Unterbringung in
+einem Heim für Kinder oder Jugendliche der politischen Verfolgung
+oder sonst sachfremden Zwecken diente, wenn eine Einweisung in
+ein Spezialheim oder in eine vergleichbare Einrichtung, in der
+eine zwangsweise Umerziehung erfolgte, stattfand. Darüber hinaus
+wird vermutet, dass die Anordnung der Unterbringung in einem Heim
+für Kinder oder Jugendliche der politischen Verfolgung oder sonst
+sachfremden Zwecken diente, soweit gleichzeitig mit der Unterbringung
+freiheitsentziehende Maßnahmen gegen die Eltern oder Elternteile
+aufgrund von Entscheidungen, die im Wege der Rehabilitierung für
+rechtsstaatswidrig erklärt und aufgehoben worden sind, vollstreckt
+wurden. Eine gleichzeitige Vollstreckung freiheitsentziehender
+Maßnahmen liegt vor, wenn zwischen der Unterbringung in einem Heim und
+der Vollstreckung der freiheitsentziehenden Maßnahmen ein Sach- und
+Zeitzusammenhang besteht.
 
 (4) Dem Antragsteller sind auf sein Verlangen Abschriften der
 angegriffenen Entscheidung und der Anklageschrift zu erteilen, soweit
@@ -380,19 +369,13 @@ Beschluss enthält weiterhin
 
 1.  die Bezeichnung der angegriffenen Entscheidung,
 
-
 2.  die Feststellung, hinsichtlich welchen Vorwurfs und welcher
     Rechtsfolge die angegriffene Entscheidung aufgehoben wird,
 
-
 3.  die Dauer der zu Unrecht erlittenen Freiheitsentziehung,
-
 
 4.  den Betrag einer nach § 6 zu erstattenden Geldstrafe sowie die
     Feststellung, ob sonst ein Anspruch nach § 6 dem Grunde nach besteht.
-
-
-
 
 (3) Der Beschluss ist zu begründen, soweit er mit der Beschwerde
 anfechtbar ist.
@@ -411,7 +394,6 @@ Zustellung Beschwerde eingelegt werden.
 1.  einem Rehabilitierungsantrag stattgegeben worden ist und kein
     Verfahrensbeteiligter dem Antrag widersprochen hat,
 
-
 2.  das Gericht einstimmig und auf Antrag der Staatsanwaltschaft, der zu
     begründen ist,
 
@@ -419,13 +401,7 @@ Zustellung Beschwerde eingelegt werden.
         nicht in grobem Missverhältnis zu der zu Grunde liegenden Tat stehen,
         oder
 
-
     b)  einen Antrag nach § 1 Abs. 6 als unzulässig verworfen hat.
-
-
-
-
-
 
 Satz 1 Nr. 2 gilt nicht, soweit die erfolgreiche Anfechtung zur
 Verkürzung einer noch zu vollstreckenden Freiheitsstrafe führen würde.
@@ -462,13 +438,12 @@ entsprechend.
 
 ### § 15 Anwendbarkeit des Gerichtsverfassungsgesetzes und der Strafprozessordnung
 
-Soweit in diesem Gesetz nichts anderes bestimmt ist, gelten die
-Vorschriften des Gerichtsverfassungsgesetzes und der
+Soweit in diesem Gesetz nichts anderes bestimmt ist, gelten
+die Vorschriften des Gerichtsverfassungsgesetzes und der
 Strafprozessordnung entsprechend.
 
 
 ## Abschnitt 3 - Soziale Ausgleichsleistungen
-
 
 
 ### § 16 Soziale Ausgleichsleistungen
@@ -484,9 +459,9 @@ Rechtsstaatlichkeit verstoßen oder in schwerwiegendem Maße seine
 Stellung zum eigenen Vorteil oder zum Nachteil anderer missbraucht
 hat.
 
-(3) Die sozialen Ausgleichsleistungen nach Absatz 1 werden auf Antrag
-als Kapitalentschädigung, besondere Zuwendung für Haftopfer und
-Unterstützungsleistung nach Maßgabe der §§ 17 bis 19 sowie als
+(3) Die sozialen Ausgleichsleistungen nach Absatz 1 werden auf
+Antrag als Kapitalentschädigung, besondere Zuwendung für Haftopfer
+und Unterstützungsleistung nach Maßgabe der §§ 17 bis 19 sowie als
 Versorgung nach Maßgabe der §§ 21 bis 24 gewährt.
 
 (4) Die Leistungen nach den §§ 17 bis 19 bleiben als Einkommen bei
@@ -497,8 +472,8 @@ unberücksichtigt.
 ### § 17 Kapitalentschädigung
 
 (1) Die Kapitalentschädigung beträgt 306,78 Euro für jeden
-angefangenen Kalendermonat einer mit wesentlichen Grundsätzen einer
-freiheitlichen rechtsstaatlichen Ordnung unvereinbaren
+angefangenen Kalendermonat einer mit wesentlichen Grundsätzen
+einer freiheitlichen rechtsstaatlichen Ordnung unvereinbaren
 Freiheitsentziehung.
 
 (2) Auf die Kapitalentschädigung sind auf Grund desselben
@@ -522,92 +497,44 @@ Nachzahlung ist übertragbar und vererblich, soweit auch die
 Kapitalentschädigung gemäß Absatz 3 übertragbar und vererblich ist.
 
 
-### § 17a Besondere Zuwendung für Haftopfer
+### § 17a Besondere Zuwendung für Haftopfer; Verordnungsermächtigung
 
-(1) Berechtigte nach § 17 Abs. 1, die in ihrer wirtschaftlichen Lage
-besonders beeinträchtigt sind, erhalten auf Antrag eine monatliche
+(1) Berechtigte nach § 17 Abs. 1 erhalten auf Antrag eine monatliche
 besondere Zuwendung für Haftopfer, wenn sie eine mit wesentlichen
 Grundsätzen einer freiheitlichen rechtsstaatlichen Ordnung
 unvereinbare Freiheitsentziehung von insgesamt mindestens 90 Tagen
 erlitten haben. Die monatliche besondere Zuwendung für Haftopfer
-beläuft sich auf 330 Euro. Das Bundesministerium der Justiz und für
-Verbraucherschutz überprüft im Einvernehmen mit dem Bundesministerium
-der Finanzen in einem Abstand von fünf Jahren, erstmals im Jahr 2025,
-die Höhe der monatlichen besonderen Zuwendung für Haftopfer.
+beläuft sich auf 400 Euro. Die Höhe der monatlichen besonderen
+Zuwendung für Haftopfer wird ab dem Jahr 2026 entsprechend dem
+Prozentsatz angepasst, um den sich der aktuelle Rentenwert in
+der gesetzlichen Rentenversicherung verändert. Die sich durch die
+Anpassung ergebenden Beträge bis 0,49 Euro sind auf volle Euro
+abzurunden und die Beträge ab 0,50 Euro auf volle Euro aufzurunden.
+Die Anpassung der Höhe der monatlichen besonderen Zuwendung für
+Haftopfer erfolgt durch Rechtsverordnung des Bundesministeriums der
+Justiz ohne Zustimmung des Bundesrates jeweils zu dem Zeitpunkt, zu
+dem die Renten der gesetzlichen Rentenversicherung angepasst werden.
 
-(2) Berechtigte gelten als in ihrer wirtschaftlichen Lage besonders
-beeinträchtigt, wenn ihr Einkommen die in den Sätzen 7 bis 9
-bestimmten Einkommensgrenzen nicht übersteigt. Das monatliche
-Einkommen ist entsprechend § 82 Absatz 1 Satz 1 bis 3, Absatz 2 Satz 1
-und Absatz 7 Satz 1 bis 3 des Zwölften Buches Sozialgesetzbuch in
-Verbindung mit der Verordnung zur Durchführung des § 82 des Zwölften
-Buches Sozialgesetzbuch zu ermitteln; Renten wegen Alters,
-verminderter Erwerbsfähigkeit, Arbeitsunfalls oder Berufskrankheit
-sowie wegen Todes oder vergleichbare Leistungen, Arbeitsförderungsgeld
-und Kindergeld bleiben unberücksichtigt. Neben den in § 82 Absatz 2
-Satz 1 des Zwölften Buches Sozialgesetzbuch genannten Beträgen sind
-die angemessenen Beiträge zur betrieblichen Altersvorsorge vom
-Einkommen abzuziehen. Soweit
-
-1.  die Einkünfte als Jahreseinkünfte berechnet werden oder
-
-
-2.  bei laufenden monatlichen Einnahmen zu erwarten ist, dass diese in
-    unterschiedlicher Höhe zufließen,
-
-
-
-kann das Einkommen vorläufig festgesetzt werden und ist jeweils
-nachträglich endgültig festzustellen. Das bei der vorläufigen
-Entscheidung berücksichtigte Einkommen ist bei der abschließenden
-Entscheidung als Einkommen zugrunde zu legen, wenn das tatsächliche
-durchschnittliche monatliche Einkommen des Kalenderjahres das bei der
-vorläufigen Entscheidung zugrunde gelegte Einkommen um nicht mehr als
-5 Euro monatlich übersteigt. § 11 Absatz 2 der Verordnung zur
-Durchführung des § 82 des Zwölften Buches Sozialgesetzbuch gilt
-entsprechend. Die Einkommensgrenze wird festgelegt
-
-1.  bei alleinstehenden Berechtigten auf das Dreifache,
-
-
-2.  bei verheirateten oder in Lebenspartnerschaft lebenden Berechtigten
-    sowie in eheähnlicher oder in lebenspartnerschaftsähnlicher
-    Gemeinschaft lebenden Berechtigten auf das Vierfache
-
-
-
-der Regelbedarfsstufe 1 nach der Anlage zu § 28 des Zwölften Buches
-Sozialgesetzbuch. Für jedes Kind, für das der Berechtigte einen
-Kindergeldanspruch nach dem Einkommensteuer- oder
-Bundeskindergeldgesetz hat, wird die Einkommensgrenze um das Einfache
-der Regelbedarfsstufe 1 nach der Anlage zu § 28 des Zwölften Buches
-Sozialgesetzbuch erhöht. Dies gilt unabhängig davon, ob für das Kind
-Unterhalts- oder sonstige Sozialleistungsansprüche bestehen.
-
-(3) Ergibt sich, dass das zu berücksichtigende Einkommen die
-maßgebliche Einkommensgrenze um einen Betrag übersteigt, der geringer
-ist als der Betrag der besonderen Zuwendung für Haftopfer nach Absatz
-1 Satz 2, erhält der Berechtigte die besondere Zuwendung in Höhe des
-auf volle Euro aufgerundeten Differenzbetrages.
-
-(4) Die besondere Zuwendung für Haftopfer wird monatlich im Voraus
+(2) Die besondere Zuwendung für Haftopfer wird monatlich im Voraus
 gezahlt, beginnend mit dem auf die Antragstellung folgenden Monat.
-Änderungen des Einkommens sind von Berechtigten unverzüglich der
-zuständigen Behörde mitzuteilen. Turnusmäßige und anlassunabhängige
-Einkommensüberprüfungen finden nicht statt. § 118 Absatz 3 bis 4a des
-Sechsten Buches Sozialgesetzbuch gilt entsprechend.
+§ 118 Absatz 3 bis 4a des Sechsten Buches Sozialgesetzbuch gilt
+entsprechend.
 
-(5) Der Anspruch auf die besondere Zuwendung für Haftopfer nach Absatz
-1 ist unpfändbar, nicht übertragbar und nicht vererbbar.
+(3) Der Anspruch auf die besondere Zuwendung für Haftopfer nach Absatz
+1 ist unpfändbar, nicht übertragbar und nicht vererbbar. Nach dem Tod
+des Berechtigten sind seine nächsten Angehörigen (Ehegatten, Kinder
+und Eltern) unverzüglich von der bis zum Tod des Berechtigten für die
+Gewährung der besonderen Zuwendung für Haftopfer zuständigen Behörde
+über die Unterstützungsleistungen nach § 18 Absatz 3 zu unterrichten.
 
-(6) Das Erste und das Zehnte Buch Sozialgesetzbuch finden
+(4) Das Erste und das Zehnte Buch Sozialgesetzbuch finden
 entsprechende Anwendung, soweit nicht dieses Gesetz etwas anderes
-bestimmt.Führt eine Änderung dieses Gesetzes zu einer Änderung laufend
-gewährter Leistungen nach Absatz 1, sind diese von Amts wegen neu
-festzustellen. Von einer förmlichen Bescheiderteilung kann abgesehen
-werden; ausgenommen hiervon sind Fälle nach Absatz 3.
+bestimmt. Führt eine Änderung dieses Gesetzes zu einer Änderung
+laufend gewährter Leistungen nach Absatz 1, sind diese von Amts
+wegen neu festzustellen. Von einer förmlichen Bescheiderteilung kann
+abgesehen werden.
 
-(7) Die besondere Zuwendung für Haftopfer wird Personen nicht gewährt,
+(5) Die besondere Zuwendung für Haftopfer wird Personen nicht gewährt,
 gegen die eine Freiheitsstrafe von mindestens drei Jahren wegen einer
 vorsätzlichen Straftat rechtskräftig verhängt worden ist, sofern die
 Entscheidung in einer Auskunft aus dem Zentralregister enthalten ist.
@@ -615,84 +542,42 @@ Entscheidung in einer Auskunft aus dem Zentralregister enthalten ist.
 
 ### § 18 Unterstützungsleistungen
 
-(1) Berechtigte nach § 17 Abs. 1, die in ihrer wirtschaftlichen Lage
-besonders beeinträchtigt sind, erhalten Unterstützungsleistungen, wenn
-die Dauer der mit wesentlichen Grundsätzen einer freiheitlichen
+(1) Berechtigte nach § 17 Abs. 1 erhalten Unterstützungsleistungen,
+wenn die Dauer der mit wesentlichen Grundsätzen einer freiheitlichen
 rechtsstaatlichen Ordnung unvereinbaren Freiheitsentziehung insgesamt
 weniger als 90 Tage betragen hat. Das gilt nicht für Berechtigte,
 denen in Härtefällen nach § 19 eine besondere Zuwendung nach § 17a
 gewährt wird. Für die Gewährung der Leistungen nach Satz 1 ist die
-nach § 15 des Häftlingshilfegesetzes errichtete Stiftung für ehemalige
-politische Häftlinge zuständig.
+Stiftung für ehemalige politisch Verfolgte nach § 1 des Gesetzes über
+die Stiftung für ehemalige politisch Verfolgte zuständig.
 
-(2) Der Stiftungsrat der Stiftung für ehemalige politische Häftlinge
+(2) Der Stiftungsrat der Stiftung für ehemalige politisch Verfolgte
 stellt Richtlinien für die Verwendung der Mittel auf, in denen er
 bestimmt, unter welchen Voraussetzungen und bis zu welcher Höhe
 Unterstützungsleistungen gewährt werden. Die Richtlinien bedürfen der
-Genehmigung des für dieses Gesetz federführenden Bundesministeriums im
-Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat
-und dem Bundesministerium der Finanzen. Die §§ 22 und 23 des
-Häftlingshilfegesetzes gelten entsprechend.
+Genehmigung des Bundesministeriums der Justiz im Einvernehmen mit dem
+Bundesministerium der Finanzen.
 
 (3) Nach dem Tod des Berechtigten gilt für seine nächsten Angehörigen
-(Ehegatten, Kinder und Eltern) Absatz 1 in Verbindung mit Absatz 2
-entsprechend, soweit sie durch die Freiheitsentziehung nicht
+(Ehegatten, Kinder und Eltern) Absatz 1 in Verbindung mit Absatz
+2 entsprechend, soweit sie durch die Freiheitsentziehung nicht
 unerheblich unmittelbar mitbetroffen waren. Das gilt auch für die
-nächsten Angehörigen der Berechtigten nach § 17a. Die nächsten
-Angehörigen von
+nächsten Angehörigen der Berechtigten nach § 17a.
 
-1.  Hingerichteten oder
-
-
-2.  während der Freiheitsentziehung oder im Anschluss an die
-    Freiheitsentziehung an deren Folgen Verstorbenen
-
-
-
-erhalten die Leistungen nach Satz 1 auch dann, wenn sie nicht in ihrer
-wirtschaftlichen Lage besonders beeinträchtigt sind.
-
-(4) Ein Antragsteller, der in einem Heim für Kinder oder Jugendliche
-untergebracht war, erhält auch Unterstützungsleistungen, wenn
-
-1.  die Unterbringung angeordnet wurde, weil zeitgleich mit dieser eine
-    freiheitsentziehende Maßnahme, die mit wesentlichen Grundsätzen einer
-    freiheitlichen rechtsstaatlichen Ordnung unvereinbar ist, an Eltern,
-    Elternteilen oder einer Person vollstreckt wurde, die ihn nicht nur
-    vorübergehend in ihren Haushalt aufgenommen und dort gepflegt, erzogen
-    und beaufsichtigt hat,
-
-
-2.  er in seiner wirtschaftlichen Lage besonders beeinträchtigt ist,
-
-
-3.  er einen Antrag auf Rehabilitierung gestellt hat, der rechtskräftig
-    abgelehnt worden ist, und
-
-
-4.  die Person nach Nummer 1 infolge der freiheitsentziehenden Maßnahme
-    nach § 1 auch in Verbindung mit § 2 rehabilitiert worden ist, für sie
-    eine Bescheinigung nach § 10 Absatz 4 Satz 1 des
-    Häftlingshilfegesetzes ausgestellt worden ist oder für sie
-    festgestellt worden ist, dass die Voraussetzungen nach § 1 Absatz 1
-    des Häftlingshilfegesetzes vorliegen.
-
-
-
-Absatz 1 Satz 3 und Absatz 2 gelten entsprechend.
-
-(5) Absatz 3 gilt entsprechend für die nächsten Angehörigen von
+(4) Absatz 3 gilt entsprechend für die nächsten Angehörigen von
 Personen, die aus den in § 1 Abs. 1 Nr. 1 des Häftlingshilfegesetzes
 genannten Gründen aus dem Beitrittsgebiet fliehen wollten oder
 geflohen sind und infolge von Maßnahmen zur Verhinderung der Flucht
 ihr Leben verloren haben, soweit eine Bescheinigung nach § 10 Abs. 4
 des Häftlingshilfegesetzes ausgestellt worden ist.
 
-(6) Absatz 3 gilt entsprechend für die nächsten Angehörigen von
-Personen, die aus Anlass der Niederschlagung des Aufstandes vom 17.
-Juni 1953 im Beitrittsgebiet ihr Leben verloren haben, soweit eine
-Entscheidung nach § 12 des Verwaltungsrechtlichen
+(5) Absatz 3 gilt entsprechend für die nächsten Angehörigen
+von Personen, die aus Anlass der Niederschlagung des Aufstandes
+vom 17. Juni 1953 im Beitrittsgebiet ihr Leben verloren haben,
+soweit eine Entscheidung nach § 12 des Verwaltungsrechtlichen
 Rehabilitierungsgesetzes ergangen ist.
+
+(6) § 17a Absatz 3 gilt für Unterstützungsleistungen entsprechend.
 
 
 ### § 19 Härteregelung
@@ -708,30 +593,39 @@ Der Bund trägt 65 vom Hundert der Ausgaben, die den Ländern durch
 Leistungen nach diesem Gesetz entstehen.
 
 
-### § 21 Beschädigtenversorgung
+### § 21 Leistungen der Sozialen Entschädigung bei gesundheitlicher Schädigung; Verordnungsermächtigung
 
 (1) Ein Betroffener, der infolge der Freiheitsentziehung eine
 gesundheitliche Schädigung erlitten hat, erhält wegen der
-gesundheitlichen und wirtschaftlichen Folgen dieser Schädigung auf
-Antrag Versorgung in entsprechender Anwendung des
-Bundesversorgungsgesetzes. Dies gilt nicht, soweit er wegen desselben
-schädigenden Ereignisses bereits Versorgung auf Grund des
-Bundesversorgungsgesetzes oder auf Grund von Gesetzen, die eine
-entsprechende Anwendung des Bundesversorgungsgesetzes vorsehen,
-erhält.
+gesundheitlichen und wirtschaftlichen Folgen dieser Schädigung
+auf Antrag Leistungen der Sozialen Entschädigung in entsprechender
+Anwendung des Vierzehnten Buches Sozialgesetzbuch. Dies gilt nicht,
+soweit er wegen desselben schädigenden Ereignisses bereits folgende
+Leistungen erhält:
+
+1.  Versorgung aufgrund des Bundesversorgungsgesetzes,
+
+2.  Versorgung aufgrund eines Gesetzes, das das Bundesversorgungsgesetz
+    für entsprechend anwendbar erklärt,
+
+3.  Leistungen der Sozialen Entschädigung nach dem Vierzehnten Buch
+    Sozialgesetzbuch oder
+
+4.  Leistungen der Sozialen Entschädigung in entsprechender Anwendung des
+    Vierzehnten Buches Sozialgesetzbuch.
 
 (2) Einer Schädigung im Sinne des Absatzes 1 steht eine
 gesundheitliche Schädigung gleich, die durch einen Unfall unter den
-Voraussetzungen des § 1 Abs. 2 Buchstabe e oder f des
-Bundesversorgungsgesetzes herbeigeführt worden ist.
+Voraussetzungen des § 4 Absatz 2 Nummer 1 des Vierzehnten Buches
+Sozialgesetzbuch herbeigeführt worden ist.
 
 (3) Wer als Berechtigter oder Leistungsempfänger nach Absatz 1 dieser
-Vorschrift oder § 22 dieses Gesetzes in Verbindung mit § 10 Abs. 4
-oder 5 des Bundesversorgungsgesetzes, als Pflegeperson oder als
-Begleitperson bei einer notwendigen Begleitung des Beschädigten durch
-einen Unfall unter den Voraussetzungen des § 8a des
-Bundesversorgungsgesetzes eine gesundheitliche Schädigung erleidet,
-erhält Versorgung nach Absatz 1.
+Vorschrift oder § 22 dieses Gesetzes, als Pflegeperson oder als
+Begleitperson bei einer notwendigen Begleitung einer geschädigten
+Person durch einen Unfall unter den Voraussetzungen des § 4 Absatz 2
+Nummer 2 des Vierzehnten Buches Sozialgesetzbuch eine gesundheitliche
+Schädigung erleidet, erhält Leistungen der Sozialen Entschädigung nach
+Absatz 1.
 
 (4) Einer gesundheitlichen Schädigung im Sinne der Absätze 1 bis 3
 steht die Beschädigung eines am Körper getragenen Hilfsmittels, einer
@@ -739,24 +633,51 @@ Brille, von Kontaktlinsen oder von Zahnersatz gleich.
 
 (5) Zur Anerkennung einer Gesundheitsstörung als Folge einer
 Schädigung genügt die Wahrscheinlichkeit des ursächlichen
-Zusammenhanges. Wenn die Wahrscheinlichkeit nur deshalb nicht gegeben
-ist, weil über die Ursache des festgestellten Leidens in der
+Zusammenhanges. Sie ist gegeben, wenn nach dem aktuellen Stand der
+medizinischen Wissenschaft mehr für als gegen einen ursächlichen
+Zusammenhang spricht.
+
+(6) Beim Vorliegen bestimmter schädigender Ereignisse und
+bestimmter gesundheitlicher Schädigungen des Antragstellers wird
+die Wahrscheinlichkeit des ursächlichen Zusammenhangs vermutet.
+Das Bundesministerium der Justiz bestimmt durch Rechtsverordnung
+im Einvernehmen mit dem Bundesministerium für Gesundheit und dem
+Bundesministerium für Arbeit und Soziales sowie im Benehmen mit
+der oder dem Bundesbeauftragten für die Opfer der SED-Diktatur
+beim Deutschen Bundestag unter Beachtung des aktuellen Standes der
+medizinischen Wissenschaft, welche schädigenden Ereignisse und welche
+gesundheitlichen Schädigungen solche im Sinne des Satzes 1 sind.
+
+(7) Wenn die zur Anerkennung einer Gesundheitsstörung als
+Schädigungsfolge erforderliche Wahrscheinlichkeit nur deshalb nicht
+gegeben ist, weil über die Ursache der Gesundheitsstörung in der
 medizinischen Wissenschaft Ungewissheit besteht, kann mit Zustimmung
 des Bundesministeriums für Arbeit und Soziales die Gesundheitsstörung
-als Folge einer Schädigung anerkannt werden; die Zustimmung kann
-allgemein erteilt werden.
+als Schädigungsfolge anerkannt werden. Die Zustimmung kann allgemein
+erteilt werden.
 
 
-### § 22 Hinterbliebenenversorgung
+### § 22 Leistungen der Sozialen Entschädigung für Hinterbliebene
 
 (1) Ist der Betroffene an den Folgen der Schädigung gestorben,
-erhalten die Hinterbliebenen auf Antrag Versorgung in entsprechender
-Anwendung des Bundesversorgungsgesetzes. Dies gilt nicht, soweit die
-Hinterbliebenen bereits Versorgung auf Grund des
-Bundesversorgungsgesetzes oder auf Grund von Gesetzen, die eine
-entsprechende Anwendung des Bundesversorgungsgesetzes vorsehen,
-erhalten. § 21 Abs. 3 dieses Gesetzes und die §§ 48 und 52 des
-Bundesversorgungsgesetzes sind entsprechend anzuwenden.
+erhalten die Hinterbliebenen auf Antrag Leistungen der Sozialen
+Entschädigung in entsprechender Anwendung des Vierzehnten Buches
+Sozialgesetzbuch. Dies gilt nicht, soweit die Hinterbliebenen bereits
+folgende Leistungen erhalten:
+
+1.  Versorgung aufgrund des Bundesversorgungsgesetzes,
+
+2.  Versorgung aufgrund eines Gesetzes, das das Bundesversorgungsgesetz
+    für entsprechend anwendbar erklärt,
+
+3.  Leistungen der Sozialen Entschädigung nach dem Vierzehnten Buch
+    Sozialgesetzbuch oder
+
+4.  Leistungen der Sozialen Entschädigung in entsprechender Anwendung des
+    Vierzehnten Buches Sozialgesetzbuch.
+
+§ 21 Absatz 3 dieses Gesetzes und § 148 des Vierzehnten Buches
+Sozialgesetzbuch sind entsprechend anzuwenden.
 
 (2) Ist ein Todesurteil infolge einer strafrechtlichen Entscheidung
 nach § 1 am Betroffenen vollstreckt worden, gilt Absatz 1
@@ -765,43 +686,40 @@ entsprechend.
 
 ### § 23 Zusammentreffen von Ansprüchen
 
-(1) Treffen Ansprüche aus § 21 dieses Gesetzes mit Ansprüchen aus § 1
-des Bundesversorgungsgesetzes oder aus anderen Gesetzen zusammen, die
-eine entsprechende Anwendung des Bundesversorgungsgesetzes vorsehen,
-wird die Versorgung unter Berücksichtigung des durch die gesamten
-Schädigungsfolgen bedingten Grades der Schädigungsfolgen nach diesem
-Gesetz gewährt.
+(1) Treffen Ansprüche aus § 21 mit folgenden Ansprüchen
+zusammen, werden die Leistungen der Sozialen Entschädigung unter
+Berücksichtigung des durch die gesamten Schädigungsfolgen bedingten
+Grades der Schädigungsfolgen nach diesem Gesetz gewährt:
 
-(2) Treffen Leistungen nach § 21 oder § 22 dieses Gesetzes mit
-Leistungen zusammen, die nach dem Bundesversorgungsgesetz oder nach
-Gesetzen, die eine entsprechende Anwendung des
-Bundesversorgungsgesetzes vorsehen, gewährt werden, findet § 55 des
-Bundesversorgungsgesetzes Anwendung.
+1.  Ansprüchen aus § 1 des Bundesversorgungsgesetzes,
+
+2.  Ansprüchen aus einem anderen Gesetz, das eine entsprechende Anwendung
+    des Bundesversorgungsgesetzes vorsieht,
+
+3.  Ansprüchen nach § 21, § 23, § 24 oder Kapitel 23 des Vierzehnten
+    Buches Sozialgesetzbuch oder
+
+4.  Ansprüchen aus anderen Gesetzen, die eine entsprechende Anwendung des
+    Vierzehnten Buches Sozialgesetzbuch vorsehen.
+
+(2) (weggefallen)
 
 (3) Bei der Feststellung der Elternrente sind auch die Kinder zu
-berücksichtigen, die infolge einer Schädigung im Sinne des
-Bundesversorgungsgesetzes gestorben oder verschollen sind. Besteht
-bereits ein Anspruch auf Elternrente nach dem Bundesversorgungsgesetz,
-wird sie nach diesem Gesetz nicht gewährt. Die Sätze 1 und 2 gelten
-entsprechend für den Anspruch auf Elternrente nach Gesetzen, die eine
-entsprechende Anwendung des Bundesversorgungsgesetzes vorsehen; § 51
-Abs. 2 Satz 2 des Bundesversorgungsgesetzes ist entsprechend
-anzuwenden.
+berücksichtigen, die infolge einer Schädigung im Sinne des Vierzehnten
+Buches Sozialgesetzbuch gestorben. Besteht bereits ein Anspruch auf
+Elternrente nach dem Vierzehnten Buch Sozialgesetzbuch, wird sie nach
+diesem Gesetz nicht gewährt. Die Sätze 1 und 2 gelten entsprechend
+für den Anspruch auf Elternrente nach Gesetzen, die eine entsprechende
+Anwendung des Vierzehnten Buches Sozialgesetzbuch vorsehen.
 
 
-### § 24 Anwendung des Bundesversorgungsgesetzes
-
-Die Bestimmungen über die entsprechende Anwendung des
-Bundesversorgungsgesetzes und der zu seiner Durchführung erlassenen
-Vorschriften gelten mit den in Anlage I Kapitel VIII Sachgebiet K
-Abschnitt III des Einigungsvertrages vom 31. August 1990 (BGBl. 1990
-II S. 885, 1067) aufgeführten Maßgaben.
+### § 24 (weggefallen)
 
 
 ### § 25 Zuständigkeiten
 
-(1) Für die Gewährung der Leistungen nach den §§ 17, 17a und 19 und
-zur Prüfung der Voraussetzungen des § 16 Abs. 2 ist die
+(1) Für die Gewährung der Leistungen nach den §§ 17, 17a und
+19 und zur Prüfung der Voraussetzungen des § 16 Abs. 2 ist die
 Landesjustizverwaltung zuständig, in deren Geschäftsbereich die
 Rehabilitierungsentscheidung ergangen ist. Die Landesregierungen
 können durch Rechtsverordnung andere Zuständigkeiten begründen. Über
@@ -820,18 +738,15 @@ erhalten haben
     Maßnahmen beruht, wenn diese Bescheinigung vor Inkrafttreten dieses
     Gesetzes beantragt worden ist, oder
 
-
-2.  weil sie im Zusammenhang mit der Errichtung oder Aufrechterhaltung der
-    kommunistischen Gewaltherrschaft im Beitrittsgebiet dort ohne
+2.  weil sie im Zusammenhang mit der Errichtung oder Aufrechterhaltung
+    der kommunistischen Gewaltherrschaft im Beitrittsgebiet dort ohne
     Verurteilung durch ein deutsches Gericht oder ohne eine der in § 1
     Abs. 5 genannten strafrechtlichen Maßnahmen in Gewahrsam genommen oder
     in Gewahrsam gehalten wurden.
 
-
-
 Für die Gewährung der Leistungen nach den §§ 17, 17a und 19 an
-Berechtigte nach Satz 1 sind ausschließlich die in § 10 Abs. 2 des
-Häftlingshilfegesetzes bestimmten Stellen zuständig. Über
+Berechtigte nach Satz 1 sind ausschließlich die in § 10 Abs. 2
+des Häftlingshilfegesetzes bestimmten Stellen zuständig. Über
 Streitigkeiten bei der Anwendung der Sätze 1 und 2 entscheidet das
 Verwaltungsgericht.
 
@@ -840,19 +755,17 @@ Zustimmung des Bundesrates den Zeitpunkt und die Reihenfolge der
 Gewährung der Leistung, auf die nach Absatz 2 ein Anspruch besteht,
 nach den Gesichtspunkten der sozialen Dringlichkeit zu bestimmen.
 
-(4) Für die Gewährung von Leistungen nach den §§ 21 und 22 sind die
-Behörden zuständig, denen die Durchführung des
-Bundesversorgungsgesetzes obliegt. Soweit die Verwaltungsbehörden der
-Kriegsopferversorgung zuständig sind, richtet sich das Verfahren nach
-den für die Kriegsopferversorgung geltenden Vorschriften.
+(4) Für die Gewährung von Leistungen nach den §§ 21 und 22 sind
+die nach Landesrecht zur Durchführung des Vierzehnten Buches
+Sozialgesetzbuch bestimmten Behörden zuständig. Das Verfahren für
+die Gewährung von Leistungen nach den §§ 21 und 22 richtet sich nach
+dem Ersten und Zehnten Buch Sozialgesetzbuch; die §§ 115 bis 119 des
+Vierzehnten Buches Sozialgesetzbuch gelten entsprechend.
 
-(5) Soweit dieses Gesetz von den für die Kriegsopferversorgung
-zuständigen Verwaltungsbehörden durchgeführt wird, entscheiden über
-öffentlich-rechtliche Streitigkeiten die Gerichte der
-Sozialgerichtsbarkeit. Für diese Verfahren sind die Vorschriften des
-Sozialgerichtsgesetzes für Angelegenheiten der Kriegsopferversorgung
-maßgebend. § 51 Abs. 1 Nr. 6 des Sozialgerichtsgesetzes bleibt
-unberührt.
+(5) In Streitigkeiten über Leistungen nach den §§ 21 und 22
+entscheiden die Gerichte der Sozialgerichtsbarkeit. Für diese
+Verfahren sind die Vorschriften des Sozialgerichtsgesetzes für
+Angelegenheiten des Sozialen Entschädigungsrechts maßgebend.
 
 
 ### § 25a Verarbeitung von personenbezogenen Daten
@@ -866,7 +779,6 @@ dem Häftlingshilfegesetz soweit erforderlich verarbeitet werden.
 ## Abschnitt 4 - Überleitungs- und Schlussvorschriften
 
 
-
 ### § 26 Übergangsvorschrift
 
 (1) Anhängige Rehabilitierungs- und Kassationsverfahren sind nach den
@@ -878,9 +790,9 @@ Zuständigkeit auch nach dem Inkrafttreten dieses Gesetzes bestehen.
 
 (3) Ist ein Rehabilitierungsverfahren bis zum Inkrafttreten dieses
 Gesetzes abgeschlossen, gelten für die Folgeansprüche die Vorschriften
-dieses Gesetzes entsprechend. Ist ein Kassationsverfahren nach den vom
-3\. Oktober 1990 bis zum Inkrafttreten dieses Gesetzes geltenden
-Vorschriften abgeschlossen, treten an die Stelle von
+dieses Gesetzes entsprechend. Ist ein Kassationsverfahren nach
+den vom 3. Oktober 1990 bis zum Inkrafttreten dieses Gesetzes
+geltenden Vorschriften abgeschlossen, treten an die Stelle von
 Entschädigungsansprüchen die Folgeansprüche nach den Vorschriften
 dieses Gesetzes.
 

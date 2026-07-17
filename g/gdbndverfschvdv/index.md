@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über den Vorbereitungsdienst für den gehobenen Dienst im Bundesnachrichtendienst
-  und den gehobenen Dienst im Verfassungsschutz des Bundes
+Title: Verordnung über den Vorbereitungsdienst für den gehobenen Dienst im Bundesnachrichtendienst und den gehobenen Dienst im Verfassungsschutz des Bundes
 jurabk: GDBNDVerfSchVDV
 layout: default
 origslug: gdbndverfschvdv
@@ -17,22 +16,24 @@ Fundstelle
 :   BGBl I: 2018, 1368
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 3 V v. 16.8.2021 I 3582
+:   Art. 2 Abs. 22 V v. 11.3.2026 I Nr. 67
 
-Stand: Ersetzt V 2030-7-9-3 v. 5.12.2006 I 2767 (LAP-gDBNDV) und V 2030-7-4-2 v. 11.10.2001 I 2640 (LAP-gDVerfSchV)
+Stand
+:   Ersetzt V 2030-7-9-3 v. 5.12.2006 I 2767 (LAP-gDBNDV) und V 2030-7-4-2 v. 11.10.2001 I 2640 (LAP-gDVerfSchV)
+
 
 ## Eingangsformel
 
 Auf Grund des § 26 Absatz 1 Nummer 2 und Absatz 2 des
-Bundesbeamtengesetzes in Verbindung mit § 10 und Anlage 2 Nummer 16
-und 21 der Bundeslaufbahnverordnung – Anlage 2 Nummer 21 der
-Bundeslaufbahnverordnung in Verbindung mit § 1 Absatz 2 des
+Bundesbeamtengesetzes in Verbindung mit § 10 und Anlage 2 Nummer
+16 und 21 der Bundeslaufbahnverordnung – Anlage 2 Nummer 21
+der Bundeslaufbahnverordnung in Verbindung mit § 1 Absatz 2 des
 Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165)
 und dem Organisationserlass vom 14. März 2018 (BGBl. I S. 374) –, von
-denen § 26 Absatz 1 Nummer 2 des Bundesbeamtengesetzes durch Artikel 1
-Nummer 9 des Gesetzes vom 6. März 2015 (BGBl. I S. 250) geändert
-worden ist, § 10 der Bundeslaufbahnverordnung durch Artikel 1 Nummer 2
-der Verordnung vom 20. Februar 2013 (BGBl. I S. 316) geändert worden
+denen § 26 Absatz 1 Nummer 2 des Bundesbeamtengesetzes durch Artikel
+1 Nummer 9 des Gesetzes vom 6. März 2015 (BGBl. I S. 250) geändert
+worden ist, § 10 der Bundeslaufbahnverordnung durch Artikel 1 Nummer
+2 der Verordnung vom 20. Februar 2013 (BGBl. I S. 316) geändert worden
 ist und Anlage 2 der Bundeslaufbahnverordnung durch Artikel 1 Nummer
 14 der Verordnung vom 20. Februar 2013 (BGBl. I S. 316) neu gefasst
 worden ist, verordnen das Bundeskanzleramt und das Bundesministerium
@@ -51,25 +52,14 @@ Nachrichtendiensten des Bundes“ an der Hochschule des Bundes für
 1.  in der Fachrichtung „Bundesnachrichtendienst“ der Vorbereitungsdienst
     für den gehobenen Dienst im Bundesnachrichtendienst und
 
-
 2.  in der Fachrichtung „Verfassungsschutz“ der Vorbereitungsdienst für
     den gehobenen Dienst im Verfassungsschutz des Bundes.
 
 
-
-
-
-### § 1a Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie
-
-Von den bis zum 31. Dezember 2022 befristeten Sonderregelungen dieser
-Verordnung darf nur Gebrauch gemacht werden, wenn dies wegen der zur
-Bewältigung der COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
-
-
 ### § 2 Ziele des Studiums
 
-(1) Das Studium vermittelt in enger Verbindung von Wissenschaft und
-Praxis die wissenschaftlichen Methoden und Kenntnisse sowie die
+(1) Das Studium vermittelt in enger Verbindung von Wissenschaft
+und Praxis die wissenschaftlichen Methoden und Kenntnisse sowie die
 berufspraktischen Fähigkeiten und Kenntnisse, die für die Erfüllung
 der Aufgaben im gehobenen Dienst im Bundesnachrichtendienst und im
 gehobenen Dienst im Verfassungsschutz des Bundes erforderlich sind.
@@ -80,10 +70,10 @@ Bundesnachrichtendienst und im gehobenen Dienst im Verfassungsschutz
 des Bundes. Es fördert die Zusammenarbeit der Nachrichtendienste und
 trägt zur Standardisierung der nachrichtendienstlichen Arbeit bei.
 
-(3) Das Studium soll die Studierenden zu verantwortlichem Handeln im
-freiheitlichen, demokratischen und sozialen Rechtsstaat befähigen.
-Hierzu gehört auch die Fähigkeit, Gefahrenpotentiale für die
-Sicherheit der Bundesrepublik Deutschland im nationalen und
+(3) Das Studium soll die Studierenden zu verantwortlichem Handeln
+im freiheitlichen, demokratischen und sozialen Rechtsstaat
+befähigen. Hierzu gehört auch die Fähigkeit, Gefahrenpotentiale
+für die Sicherheit der Bundesrepublik Deutschland im nationalen und
 internationalen Kontext zu erkennen und einzuordnen.
 
 (4) Allgemeine berufliche Fähigkeiten, insbesondere zur Kommunikation
@@ -99,12 +89,8 @@ Kompetenz sind zu fördern.
 1.  für die Studierenden der Fachrichtung „Bundesnachrichtendienst“ der
     Bundesnachrichtendienst und
 
-
 2.  für die Studierenden der Fachrichtung „Verfassungsschutz“ das
     Bundesamt für Verfassungsschutz.
-
-
-
 
 (2) Die Dienstbehörde ist für alle beamtenrechtlichen Entscheidungen
 zuständig, soweit diese Entscheidungen durch diese Verordnung nicht
@@ -117,12 +103,8 @@ Ausbildungsbehörden sind
 
 1.  die Dienstbehörde und
 
-
 2.  andere Bundesbehörden oder Landesbehörden, die von der Dienstbehörde
     als Ausbildungsbehörden bestimmt worden sind.
-
-
-
 
 
 ### § 5 Dienstaufsicht
@@ -133,16 +115,12 @@ Leiterin oder der Leiter der Dienstbehörde.
 (2) Daneben unterstehen die Studierenden
 
 1.  während der berufspraktischen Studienzeiten, die bei einer anderen
-    Ausbildungsbehörde als der Dienstbehörde absolviert werden, der
-    Dienstaufsicht der Leiterin oder des Leiters der jeweiligen
+    Ausbildungsbehörde als der Dienstbehörde absolviert werden,
+    der Dienstaufsicht der Leiterin oder des Leiters der jeweiligen
     Ausbildungsbehörde und
-
 
 2.  während der Fachstudien der Dienstaufsicht der Präsidentin oder des
     Präsidenten der Hochschule.
-
-
-
 
 
 ### § 6 Erholungsurlaub
@@ -162,23 +140,18 @@ Erleichterungen gewährt.
 
 1.  im Auswahlverfahren die Dienstbehörde,
 
-
-2.  bei Leistungstests im Grundstudium und in der Zwischenprüfung das
-    Prüfungsamt für das Grundstudium am Zentralen Lehrbereich der
+2.  bei Leistungstests im Grundstudium und in der Zwischenprüfung
+    das Prüfungsamt für das Grundstudium am Zentralen Lehrbereich der
     Hochschule und
-
 
 3.  im Übrigen das Prüfungsamt am Zentrum für Nachrichtendienstliche Aus-
     und Fortbildung.
 
-
-
-
 (3) Art und Umfang der Erleichterungen sind mit den Betroffenen
 rechtzeitig zu erörtern. Bei schwerbehinderten Menschen und bei
 gleichgestellten behinderten Menschen erfolgt zudem eine Erörterung
-mit der Schwerbehindertenvertretung, sofern die betroffene Person dem
-nicht widerspricht. Bei Bedarf kann ein ärztliches oder ein
+mit der Schwerbehindertenvertretung, sofern die betroffene Person
+dem nicht widerspricht. Bei Bedarf kann ein ärztliches oder ein
 amtsärztliches Gutachten gefordert werden. Die Kosten für das
 Gutachten trägt die Dienstbehörde.
 
@@ -188,175 +161,29 @@ Gutachten trägt die Dienstbehörde.
 (1) Die Leistungen der Studierenden im Studium und in den Prüfungen
 werden wie folgt bewertet:
 
-*    *
-    *   Prozentualer Anteil der
-        erreichten Punktzahl an der
-        erreichbaren Punktzahl
-
-    *   Rangpunkte/
-        Rangpunktzahl
-
-    *   Note
-
-    *   Notendefinition
-
-
-*    *
-    *   1
-
-    *   2
-
-    *   3
-
-    *   4
-
-
-*    *   1
-
-    *   100,00 bis 93,70
-
-    *   15
-
-    *   sehr gut (1)
-
-    *   eine Leistung, die den Anforderungen in besonderem Maß entspricht
-
-
-*    *   2
-
-    *   93,69 bis 87,50
-
-    *   14
-
-
-*    *   3
-
-    *   87,49 bis 83,40
-
-    *   13
-
-    *   gut (2)
-
-    *   eine Leistung, die den Anforderungen voll entspricht
-
-
-*    *   4
-
-    *   83,39 bis 79,20
-
-    *   12
-
-
-*    *   5
-
-    *   79,19 bis 75,00
-
-    *   11
-
-
-*    *   6
-
-    *   74,99 bis 70,90
-
-    *   10
-
-    *   befriedigend (3)
-
-    *   eine Leistung, die im Allgemeinen den Anforderungen entspricht
-
-
-*    *   7
-
-    *   70,89 bis 66,70
-
-    *   9
-
-
-*    *   8
-
-    *   66,69 bis 62,50
-
-    *   8
-
-
-*    *   9
-
-    *   62,49 bis 58,40
-
-    *   7
-
-    *   ausreichend (4)
-
-    *   eine Leistung, die zwar Mängel aufweist, aber im Ganzen den
-        Anforderungen noch entspricht
-
-
-*    *   10
-
-    *   58,39 bis 54,20
-
-    *   6
-
-
-*    *   11
-
-    *   54,19 bis 50,00
-
-    *   5
-
-
-*    *   12
-
-    *   49,99 bis 41,70
-
-    *   4
-
-    *   mangelhaft (5)
-
-    *   eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen
-        lässt, dass die notwendigen Grundkenntnisse vorhanden sind und die
-        Mängel in absehbarer Zeit behoben werden können
-
-
-*    *   13
-
-    *   41,69 bis 33,40
-
-    *   3
-
-
-*    *   14
-
-    *   33,39 bis 25,00
-
-    *   2
-
-
-*    *   15
-
-    *   24,99 bis 12,50
-
-    *   1
-
-    *   ungenügend (6)
-
-    *   eine Leistung, die den Anforderungen nicht entspricht und bei der
-        selbst die Grundkenntnisse so  lückenhaft sind, dass die Mängel in
-        absehbarer Zeit nicht behoben werden können
-
-
-*    *   16
-
-    *   12,49 bis  0,00
-
-    *   0
-
-
-
+|  | Prozentualer Anteil der erreichten Punktzahl an der erreichbaren Punktzahl | Rangpunkte/ Rangpunktzahl | Note | Notendefinition |
+| --- | --- | --- | --- | --- |
+|  | 1 | 2 | 3 | 4 |
+| 1 | 100,00 bis 93,70 | 15 | sehr gut (1) | eine Leistung, die den Anforderungen in besonderem Maß entspricht |
+| 2 | 93,69 bis 87,50 | 14 |  |  |
+| 3 | 87,49 bis 83,40 | 13 | gut (2) | eine Leistung, die den Anforderungen voll entspricht |
+| 4 | 83,39 bis 79,20 | 12 |  |  |
+| 5 | 79,19 bis 75,00 | 11 |  |  |
+| 6 | 74,99 bis 70,90 | 10 | befriedigend (3) | eine Leistung, die im Allgemeinen den Anforderungen entspricht |
+| 7 | 70,89 bis 66,70 | 9 |  |  |
+| 8 | 66,69 bis 62,50 | 8 |  |  |
+| 9 | 62,49 bis 58,40 | 7 | ausreichend (4) | eine Leistung, die zwar Mängel aufweist, aber im Ganzen den Anforderungen noch entspricht |
+| 10 | 58,39 bis 54,20 | 6 |  |  |
+| 11 | 54,19 bis 50,00 | 5 |  |  |
+| 12 | 49,99 bis 41,70 | 4 | mangelhaft (5) | eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen lässt, dass die notwendigen Grundkenntnisse vorhanden sind und die Mängel in absehbarer Zeit behoben werden können |
+| 13 | 41,69 bis 33,40 | 3 |  |  |
+| 14 | 33,39 bis 25,00 | 2 |  |  |
+| 15 | 24,99 bis 12,50 | 1 | ungenügend (6) | eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Grundkenntnisse so lückenhaft sind, dass die Mängel in absehbarer Zeit nicht behoben werden können |
+| 16 | 12,49 bis 0,00 | 0 |  |  |
 
 (2) Für die Bewertung schriftlicher Leistungen werden den für die
-Leistung maßgebenden Anforderungen Punkte zugeordnet. Dabei sind der
-Schwierigkeitsgrad der Anforderungen und die erforderliche
+Leistung maßgebenden Anforderungen Punkte zugeordnet. Dabei sind
+der Schwierigkeitsgrad der Anforderungen und die erforderliche
 Bearbeitungszeit zu berücksichtigen. Die erreichbare Punktzahl bei
 schriftlichen Leistungen beträgt in der Regel 100 Punkte.
 
@@ -365,8 +192,8 @@ Gliederung und Klarheit der Darstellung sowie das Ausdrucksvermögen
 berücksichtigt.
 
 (4) Wenn eine Leistung von mehr als einer oder einem Prüfenden
-bewertet wird oder wenn die Bewertungen mehrerer Leistungen zu einer
-Bewertung zusammengefasst werden, wird als Bewertung eine
+bewertet wird oder wenn die Bewertungen mehrerer Leistungen zu
+einer Bewertung zusammengefasst werden, wird als Bewertung eine
 Rangpunktzahl berechnet. Rangpunktzahlen sind, soweit in dieser
 Verordnung nicht etwas anderes bestimmt ist, auf zwei Nachkommastellen
 ohne Rundung zu berechnen.
@@ -397,8 +224,8 @@ Rangpunkte voneinander abweichen, so wird eine Rangpunktzahl
 ermittelt, die das arithmetische Mittel der beiden Einzelbewertungen
 ist.
 
-(3) Bleibt auch nach dem Einigungsversuch eine Abweichung von mehr als
-drei Rangpunkten bestehen, so wird eine Drittprüfende oder ein
+(3) Bleibt auch nach dem Einigungsversuch eine Abweichung von mehr
+als drei Rangpunkten bestehen, so wird eine Drittprüfende oder ein
 Drittprüfender bestellt. Die oder der Drittprüfende darf Kenntnis von
 den Bewertungen der Erst- und Zweitprüfenden haben. Bei drei Prüfenden
 wird eine Rangpunktzahl ermittelt, die das arithmetische Mittel ist
@@ -407,15 +234,10 @@ aus
 1.  der vor dem Einigungsversuch abgegebenen Bewertung der oder des
     Erstprüfenden,
 
-
 2.  der vor dem Einigungsversuch abgegebenen Bewertung der oder des
     Zweitprüfenden und
 
-
 3.  der Bewertung der oder des Drittprüfenden.
-
-
-
 
 
 ## Teil 2 - Auswahlverfahren
@@ -424,10 +246,10 @@ aus
 ### § 11 Auswahlverfahren und Zulassung zum Auswahlverfahren
 
 (1) In einem Auswahlverfahren wird festgestellt, ob die Bewerberinnen
-und Bewerber nach ihren Kenntnissen und Fähigkeiten sowie nach ihrer
-Persönlichkeit für den Vorbereitungsdienst für den gehobenen Dienst im
-Bundesnachrichtendienst und für den gehobenen Dienst im
-Verfassungsschutz des Bundes geeignet sind. Insbesondere wird
+und Bewerber nach ihren Kenntnissen und Fähigkeiten sowie nach
+ihrer Persönlichkeit für den Vorbereitungsdienst für den gehobenen
+Dienst im Bundesnachrichtendienst und für den gehobenen Dienst
+im Verfassungsschutz des Bundes geeignet sind. Insbesondere wird
 festgestellt, ob sie über das erforderliche Allgemeinwissen, die
 erforderlichen kognitiven, methodischen und sozialen Kompetenzen und
 die erforderliche Leistungsmotivation verfügen.
@@ -438,19 +260,15 @@ die erforderliche Leistungsmotivation verfügen.
     „Bundesnachrichtendienst” angeboten werden, vom
     Bundesnachrichtendienst und
 
-
 2.  für die Studienplätze, die in der Fachrichtung „Verfassungsschutz”
     angeboten werden, vom Bundesamt für Verfassungsschutz.
-
-
-
 
 (3) Zum Auswahlverfahren wird zugelassen, wer nach den eingereichten
 Unterlagen die in der Ausschreibung bestimmten Voraussetzungen
 erfüllt. Übersteigt die Zahl der geeigneten Bewerberinnen und Bewerber
-das Dreifache der Zahl der angebotenen Studienplätze, so kann die Zahl
-der am Auswahlverfahren Teilnehmenden beschränkt werden. Es sind
-jedoch mindestens dreimal so viele Bewerberinnen und Bewerber
+das Dreifache der Zahl der angebotenen Studienplätze, so kann die
+Zahl der am Auswahlverfahren Teilnehmenden beschränkt werden. Es
+sind jedoch mindestens dreimal so viele Bewerberinnen und Bewerber
 zuzulassen, wie Studienplätze angeboten werden. In diesem Fall wird
 zugelassen, wer nach den eingereichten Unterlagen am besten geeignet
 ist.
@@ -458,8 +276,8 @@ ist.
 (4) Schwerbehinderte Bewerberinnen und Bewerber und gleichgestellte
 behinderte Bewerberinnen und Bewerber sind zum Auswahlverfahren
 zuzulassen, es sei denn, sie sind offensichtlich fachlich ungeeignet.
-Vor dem Ausschluss schwerbehinderter Bewerberinnen und Bewerber und
-gleichgestellter behinderter Bewerberinnen und Bewerber ist die
+Vor dem Ausschluss schwerbehinderter Bewerberinnen und Bewerber
+und gleichgestellter behinderter Bewerberinnen und Bewerber ist die
 Schwerbehindertenvertretung anzuhören.
 
 (5) Wer nicht zum Auswahlverfahren zugelassen wird, erhält eine
@@ -482,47 +300,39 @@ Bewertungsmaßstab anlegen.
 1.  einer Beamtin oder einem Beamten des höheren nichttechnischen
     Verwaltungsdienstes des Bundes als Vorsitzender oder Vorsitzendem,
 
-
 2.  einer Beamtin oder einem Beamten des gehobenen oder höheren
     nichttechnischen Verwaltungsdienstes des Bundes und
 
-
 3.  einer Beamtin oder einem Beamten des gehobenen nichttechnischen
     Verwaltungsdienstes des Bundes.
-
-
 
 In begründeten Fällen kann höchstens ein Mitglied der
 Auswahlkommission eine Tarifbeschäftigte oder ein Tarifbeschäftigter
 oder eine Soldatin oder ein Soldat sein, wenn sie oder er über die
 erforderliche Qualifikation verfügt.
 
-(2a) Die Dienstbehörde kann festlegen, dass bis zum 31. Dezember 2022
-eine Auswahlkommission – abweichend von Absatz 2 Satz 1 – nur aus
-folgenden Mitgliedern besteht:
+(3) Die Dienstbehörde kann festlegen, dass eine Auswahlkommission
+– abweichend von Absatz 2 Satz 1 – nur aus folgenden Mitgliedern
+besteht:
 
 1.  einer Beamtin oder einem Beamten des gehobenen oder höheren
     nichttechnischen Verwaltungsdienstes des Bundes als Vorsitzender oder
     Vorsitzendem und
 
-
 2.  einer Beamtin oder einem Beamten des gehobenen oder höheren
     nichttechnischen Verwaltungsdienstes des Bundes.
 
-
-
-
-(3) Die Dienstbehörde bestellt die Mitglieder der Auswahlkommission
+(4) Die Dienstbehörde bestellt die Mitglieder der Auswahlkommission
 und eine ausreichende Anzahl von Ersatzmitgliedern für die Dauer von
 fünf Jahren. Wiederbestellung ist zulässig.
 
-(4) Die Mitglieder der Auswahlkommission bewerten die im
+(5) Die Mitglieder der Auswahlkommission bewerten die im
 Auswahlverfahren gezeigten Leistungen unabhängig voneinander.
 
-(5) Die Mitglieder der Auswahlkommission sind bei ihren Entscheidungen
+(6) Die Mitglieder der Auswahlkommission sind bei ihren Entscheidungen
 unabhängig und nicht weisungsgebunden.
 
-(6) Die Auswahlkommission entscheidet mit Stimmenmehrheit.
+(7) Die Auswahlkommission entscheidet mit Stimmenmehrheit.
 Stimmenthaltung ist nicht zulässig. Bei Stimmengleichheit gibt die
 Stimme der oder des Vorsitzenden den Ausschlag.
 
@@ -539,23 +349,16 @@ mündlichen Teil.
 
 1.  die zu bearbeitenden Aufgaben,
 
-
 2.  den Ablauf des Auswahlverfahrens und die Dauer der Teile des
     Auswahlverfahrens,
-
 
 3.  ob von der Möglichkeit Gebrauch gemacht wird, Bewerberinnen und
     Bewerber, die im schriftlichen Teil die Leistungstests nicht bestehen,
     von der weiteren Teilnahme am schriftlichen Teil auszuschließen,
 
-
 4.  die Bewertungs- und Gewichtungssystematik sowie
 
-
 5.  die für das Bestehen erforderlichen Mindestpunktzahlen.
-
-
-
 
 (2) Die Festlegung erfolgt vor dem Beginn des Auswahlverfahrens oder
 vor jedem Teil des Auswahlverfahrens.
@@ -570,15 +373,7 @@ kognitive und sprachliche Fähigkeiten geprüft.
 
 1.  bis zu drei Leistungstests und
 
-
 2.  einem Aufsatz.
-
-
-
-
-(2a) Die Dienstbehörde kann festlegen, dass bis zum 31. Dezember 2022
-im schriftlichen Teil des Auswahlverfahrens auf den Aufsatz verzichtet
-wird.
 
 (3) Von der Teilnahme am Aufsatz kann ausgeschlossen werden, wer in
 den Leistungstests nicht die erforderliche Mindestpunktzahl erreicht
@@ -588,14 +383,9 @@ und diesen gleichgestellte behinderte Bewerberinnen und Bewerber.
 
 ### § 16 Bestehen des schriftlichen Teils und Rangfolge
 
-(1) Der schriftliche Teil des Auswahlverfahrens ist bestanden, wenn in
-den Leistungstests und im Aufsatz jeweils die erforderliche
+(1) Der schriftliche Teil des Auswahlverfahrens ist bestanden,
+wenn in den Leistungstests und im Aufsatz jeweils die erforderliche
 Mindestpunktzahl erreicht worden ist.
-
-(1a) Ist festgelegt worden, dass im schriftlichen Teil des
-Auswahlverfahrens auf den Aufsatz verzichtet wird, so ist der
-schriftliche Teil des Auswahlverfahrens bestanden, wenn in den
-Leistungstests die erforderliche Mindestpunktzahl erreicht worden ist.
 
 (2) Anhand der erzielten Ergebnisse wird eine Rangfolge der
 Bewerberinnen und Bewerber, die bestanden haben, festgelegt.
@@ -622,36 +412,26 @@ werden sie immer zum mündlichen Teil zugelassen.
 
 ### § 18 Mündlicher Teil
 
-(1) Der mündliche Teil des Auswahlverfahrens dient insbesondere der
-Feststellung der Eignung der Bewerberinnen und Bewerber hinsichtlich
-der Motivation, der sozialen Kompetenz und des
+(1) Der mündliche Teil des Auswahlverfahrens dient insbesondere
+der Feststellung der Eignung der Bewerberinnen und Bewerber
+hinsichtlich der Motivation, der sozialen Kompetenz und des
 Kommunikationsverhaltens.
 
 (2) Der mündliche Teil besteht aus
 
 1.  einem halbstrukturierten Interview und
 
-
 2.  höchstens zwei weiteren Aufgaben.
-
-
-
 
 (3) Weitere Aufgaben können sein:
 
 1.  eine Präsentation,
 
-
 2.  eine Simulationsaufgabe,
-
 
 3.  eine Gruppenaufgabe oder
 
-
 4.  eine Gruppendiskussion.
-
-
-
 
 (4) Zur Vorbereitung des halbstrukturierten Interviews kann ein
 Persönlichkeitstest zur Selbsteinschätzung durchgeführt werden. Die
@@ -692,8 +472,8 @@ Auswahlverfahrens endgültig zu löschen.
 
 ### § 21 Täuschung
 
-(1) Wer im Auswahlverfahren täuscht, eine Täuschung versucht oder bei
-einem Täuschungsversuch mitwirkt, wird vom Auswahlverfahren
+(1) Wer im Auswahlverfahren täuscht, eine Täuschung versucht oder
+bei einem Täuschungsversuch mitwirkt, wird vom Auswahlverfahren
 ausgeschlossen.
 
 (2) Die Betroffenen sind vor einer Entscheidung anzuhören.
@@ -707,100 +487,35 @@ ausgeschlossen.
 
 #### § 22 Dauer und Gliederung des Studiums
 
-(1) Das Studium dauert in der Regel drei Jahre. Eine Entscheidung über
-die Verlängerung oder Verkürzung nach den §§ 15 und 16 der
-Bundeslaufbahnverordnung trifft die Dienstbehörde im Benehmen mit der
-Hochschule.
+(1) Das Studium dauert in der Regel drei Jahre. Eine Entscheidung
+über die Verlängerung oder Verkürzung nach den §§ 18 und 19 der
+Bundeslaufbahnverordnung trifft die Dienstbehörde im Benehmen mit
+der Hochschule.
 
 (2) Das Studium umfasst Fachstudien an der Hochschule und
 berufspraktische Studienzeiten.
 
-(2a) Bis zum 31. Dezember 2022 können für einzelne oder alle
-Lehrveranstaltungen, die keine als Verschlusssachen eingestuften
-Inhalte enthalten, digitale Lehrformate genutzt werden.
-
 (3) Das Studium gliedert sich in fünf Studienabschnitte. Die
 Studienabschnitte verteilen sich wie folgt auf die Semester:
 
-*    *
-    *   Semester
+|  | Semester | Studienabschnitt |
+| --- | --- | --- |
+|  | 1 | 2 |
+| 1 | 1. Semester | Fachstudienzeit Grundstudium |
+| 2 | 2. Semester | berufspraktische Studienzeit I |
+| 3 | 3. Semester | Fachstudienzeit Hauptstudium I |
+| 4 | 4. Semester | berufspraktische Studienzeit II |
+| 5 | 5. Semester | berufspraktische Studienzeit II |
+| 6 | 6. Semester | Fachstudienzeit Hauptstudium II |
 
-    *   Studienabschnitt
-
-
-*    *
-    *   1
-
-    *   2
-
-
-*    *   1
-
-    *   1. Semester
-
-    *   Fachstudienzeit Grundstudium
-
-
-*    *   2
-
-    *   2. Semester
-
-    *   berufspraktische Studienzeit I
-
-
-*    *   3
-
-    *   3. Semester
-
-    *   Fachstudienzeit Hauptstudium I
-
-
-*    *   4
-
-    *   4. Semester
-
-    *   berufspraktische Studienzeit II
-
-
-*    *   5
-
-    *   5. Semester
-
-    *   berufspraktische Studienzeit II
-
-
-*    *   6
-
-    *   6. Semester
-
-    *   Fachstudienzeit Hauptstudium II
-
-
-
-
-(3a) Im Einvernehmen mit den Dienstbehörden kann die Hochschule
-festlegen, dass bis zum 31. Dezember 2022
-
-1.  die Studienabschnitte anders gegliedert werden und
-
-
-2.  Lehrveranstaltungen eines Studienabschnitts oder Teile dieser
-    Lehrveranstaltungen in ein anderes Semester verschoben werden.
-
-
-
-Möglich ist auch die Verschiebung von Lehrveranstaltungen der
-Fachstudien oder von Teilen dieser Lehrveranstaltungen in ein Semester
-einer berufspraktischen Studienzeit.
-
-(4) Die Dauer der Fachstudien beträgt insgesamt mindestens 2 000
+(4) Die Dauer der Fachstudien beträgt insgesamt mindestens 2 000
 Lehrstunden.
 
-(4a) Im Einvernehmen mit den Dienstbehörden kann die Hochschule
-festlegen, dass bis zum 31. Dezember 2022 die Zahl der Lehrstunden um
-bis zu 10 Prozent verringert wird.
+(5) Für die Lehrveranstaltungen können digitale Lehrformate
+genutzt werden, sofern die Vorgaben zum Umgang mit Verschlusssachen
+berücksichtigt werden.
 
-(5) Die Teilnahme an den Lehrveranstaltungen ist verpflichtend.
+(6) Die Teilnahme an den Lehrveranstaltungen ist verpflichtend.
 
 
 #### § 23 Studienplan
@@ -811,56 +526,34 @@ bis zu 10 Prozent verringert wird.
 
 1.  die Studienfächer und -inhalte der Fachstudien,
 
-
 2.  die Verteilung der Studienfächer und -inhalte der Fachstudien auf die
     beiden Fachrichtungen, und zwar welche Studienfächer und ‑inhalte
 
     a)  in beiden Fachrichtungen vermittelt werden,
 
-
     b)  nur in der Fachrichtung Bundesnachrichtendienst vermittelt werden und
 
-
     c)  nur in der Fachrichtung Verfassungsschutz vermittelt werden,
-
-
-
-
 
 3.  die Absolvierung von Leistungstests während der Fachstudien, und zwar
 
     a)  wie viele Leistungstests zu absolvieren sind,
 
-
     b)  in welchen Studienfächern die Leistungstests zu absolvieren sind und
-
 
     c)  in welcher Form die Leistungstests zu absolvieren sind,
 
-
-
-
-
 4.  die Studienfächer und -inhalte der praxisbezogenen Lehrveranstaltungen
     sowie
-
 
 5.  die Absolvierung von Leistungstests während der praxisbezogenen
     Lehrveranstaltungen, und zwar
 
     a)  wie viele Leistungstests zu absolvieren sind,
 
-
     b)  in welchen Studienfächern die Leistungstests zu absolvieren sind und
 
-
     c)  in welcher Form die Leistungstests zu absolvieren sind.
-
-
-
-
-
-
 
 
 #### § 24 Leistungstests
@@ -869,26 +562,17 @@ bis zu 10 Prozent verringert wird.
 
 1.  einer Klausur,
 
-
 2.  einer schriftlichen Ausarbeitung,
-
 
 3.  eines Referats,
 
-
 4.  einer Präsentation,
-
 
 5.  einer Projektarbeit,
 
-
 6.  eines schriftlichen Tests oder
 
-
 7.  eines mündlichen Tests.
-
-
-
 
 (2) Leistungstests werden mindestens eine Woche im Voraus angekündigt.
 
@@ -908,11 +592,11 @@ als nicht begonnen.
 (3) Über die Genehmigung entscheidet die Hochschule.
 
 (4) Die Genehmigung wird nur erteilt, wenn ein wichtiger Grund
-vorliegt. Bei Erkrankung soll die Genehmigung nur erteilt werden, wenn
-unverzüglich ein ärztliches Attest vorgelegt wird. Auf Verlangen der
-für die Organisation und Durchführung des Leistungstests zuständigen
-Stelle ist entweder ein amtsärztliches Attest oder ein Attest einer
-Ärztin oder eines Arztes, die oder der vom Zentrum für
+vorliegt. Bei Erkrankung soll die Genehmigung nur erteilt werden,
+wenn unverzüglich ein ärztliches Attest vorgelegt wird. Auf Verlangen
+der für die Organisation und Durchführung des Leistungstests
+zuständigen Stelle ist entweder ein amtsärztliches Attest oder ein
+Attest einer Ärztin oder eines Arztes, die oder der vom Zentrum für
 Nachrichtendienstliche Aus- und Fortbildung beauftragt worden ist,
 vorzulegen.
 
@@ -926,8 +610,8 @@ nachgeholt wird.
 (1) Studierenden, die bei einem Leistungstest täuschen, eine Täuschung
 versuchen oder daran mitwirken oder sonst gegen die Ordnung verstoßen,
 soll die Fortsetzung des Leistungstests unter dem Vorbehalt einer
-abweichenden Entscheidung der Hochschule gestattet werden. Bei einem
-erheblichen Verstoß können sie von der weiteren Teilnahme am
+abweichenden Entscheidung der Hochschule gestattet werden. Bei
+einem erheblichen Verstoß können sie von der weiteren Teilnahme am
 Leistungstest ausgeschlossen werden.
 
 (2) Über das Vorliegen und die Folgen einer Täuschung, eines
@@ -937,11 +621,7 @@ nach Schwere des Verstoßes
 
 1.  die Wiederholung des Leistungstests anordnen oder
 
-
 2.  den Leistungstest mit null Rangpunkten bewerten.
-
-
-
 
 (3) Bei einer Täuschung, die erst nach Beendigung eines Leistungstests
 festgestellt wird, gilt Absatz 2 entsprechend.
@@ -959,59 +639,38 @@ Die Studiengebiete des Grundstudiums sind:
 
 1.  staatsrechtliche und politische Grundlagen des Verwaltungshandelns,
 
-
 2.  rechtliche Grundlagen des Verwaltungshandelns,
 
-
 3.  volks- und finanzwirtschaftliche Grundlagen des Verwaltungshandelns,
-
 
 4.  betriebswirtschaftliche Grundlagen des Verwaltungshandelns,
     Organisation und Informationsverarbeitung sowie
 
-
 5.  sozialwissenschaftliche Grundlagen des Verwaltungshandelns.
-
-
-
 
 
 #### § 28 Studiengebiete des Hauptstudiums
 
-(1) Die Studiengebiete des Hauptstudiums sind:
+Die Studiengebiete des Hauptstudiums sind:
 
 1.  operative Beschaffung und Observation,
 
-
 2.  nachrichtendienstliche Informationsauswertung,
-
 
 3.  Staatsrecht, Verwaltungsrecht, Strafrecht, Völkerrecht und
     Europarecht,
 
-
 4.  internationale Politik und politische Ideengeschichte sowie Formen des
     politischen Extremismus,
-
 
 5.  Sicherheitsfelder mit nachrichtendienstlichem Bezug, insbesondere
     Eigensicherung, Geheimschutz und Spionageabwehr
 
-
 6.  Nachrichtendienstpsychologie,
-
 
 7.  fremdsprachliche Ausbildung sowie
 
-
 8.  nachrichtendienstlich relevante Themen aus Wirtschaft und Technologie.
-
-
-
-
-(2) Im Einvernehmen mit den Dienstbehörden kann die Hochschule
-festlegen, dass bis zum 31. Dezember 2022 eine Reduzierung der
-Studiengebiete vorgenommen wird.
 
 
 #### § 29 Leistungstests im Hauptstudium
@@ -1019,59 +678,25 @@ Studiengebiete vorgenommen wird.
 (1) Im Hauptstudium sind mindestens zwölf Leistungstests zu
 absolvieren. Sechs Leistungstests sind Klausuren.
 
-(1a) Im Einvernehmen mit den Dienstbehörden kann die Hochschule
-festlegen, dass bis zum 31. Dezember 2022 im Hauptstudium
+(2) Im Einvernehmen mit den Dienstbehörden kann die Hochschule
+festlegen, dass mehr als sechs Leistungstests in einer anderen Form
+als der Klausur absolviert werden können.
 
-1.  die Zahl der zu absolvierenden Leistungstests auf weniger als zwölf
-    reduziert wird,
-
-
-2.  mehr als sechs Leistungstests in einer anderen Form als der Klausur
-    absolviert werden können und
-
-
-3.  vollständig auf die Leistungstests verzichtet wird.
-
-
-
-
-(2) Studierende der Fachrichtung Bundesnachrichtendienst schreiben
+(3) Studierende der Fachrichtung Bundesnachrichtendienst schreiben
 
 1.  zwei Klausuren in dem Studiengebiet nach § 28 Nummer 3 und
 
-
 2.  je eine Klausur in den Studiengebieten nach § 28 Nummer 1, 2, 4 und 6.
 
-
-
-
-(3) Studierende der Fachrichtung Verfassungsschutz schreiben
+(4) Studierende der Fachrichtung Verfassungsschutz schreiben
 
 1.  zwei Klausuren in dem Studiengebiet nach § 28 Nummer 3,
 
-
 2.  eine Klausur in dem Studiengebiet nach § 28 Nummer 6 und
-
 
 3.  je eine Klausur in drei der Studiengebiete nach § 28 Nummer 1 bis 5.
 
-
-
-
-(3a) Ist festgelegt worden, dass die Zahl der Leistungstests reduziert
-wird, so bestimmt die Hochschule im Einvernehmen mit den
-Dienstbehörden,
-
-1.  in welchen Studiengebieten die verbleibenden Leistungstests absolviert
-    werden und
-
-
-2.  in welcher Form die verbleibenden Leistungstests absolviert werden.
-
-
-
-
-(4) Die Leistungstests des Hauptstudiums II sollen einen Monat vor
+(5) Die Leistungstests des Hauptstudiums II sollen einen Monat vor
 Beginn der schriftlichen Abschlussprüfung abgeschlossen sein.
 
 
@@ -1086,11 +711,7 @@ Hauptstudium sind
 
 1.  die Bewertungen der Klausuren doppelt zu gewichten und
 
-
 2.  die übrigen Bewertungen einfach zu gewichten.
-
-
-
 
 
 ### Abschnitt 3 - Berufspraktische Studienzeiten
@@ -1102,11 +723,7 @@ Hauptstudium sind
 
 1.  Praktika und
 
-
 2.  praxisbezogenen Lehrveranstaltungen.
-
-
-
 
 (2) Die Hochschule bestimmt und überwacht die Gestaltung und
 Organisation der berufspraktischen Studienzeiten.
@@ -1130,11 +747,7 @@ Studierenden während der berufspraktischen Studienzeiten.
 
 1.  die Studierenden während der berufspraktischen Studienzeiten und
 
-
 2.  die Ausbildenden.
-
-
-
 
 
 #### § 33 Ausbildende
@@ -1159,25 +772,15 @@ der zuständigen Dienstbehörde eine Praktikumsordnung.
 
 1.  den Ablauf der berufspraktischen Studienzeiten,
 
-
 2.  die Dauer der Praktika und
-
 
 3.  die inhaltlichen Anforderungen an die Praktika.
 
 
-
-
-
 #### § 35 Leistungstests in den praxisbezogenen Lehrveranstaltungen
 
-(1) In den praxisbezogenen Lehrveranstaltungen sind mindestens drei
+In den praxisbezogenen Lehrveranstaltungen sind mindestens drei
 Leistungstests zu absolvieren.
-
-(2) Im Einvernehmen mit den Dienstbehörden kann die Hochschule
-festlegen, dass bis zum 31. Dezember 2022 in den praxisbezogenen
-Lehrveranstaltungen die Zahl der zu absolvierenden Leistungstests auf
-zwei oder einen reduziert wird.
 
 
 #### § 36 Zeugnis über die Leistungstests in den praxisbezogenen Lehrveranstaltungen, Rangpunktzahl der Leistungstests in den praxisbezogenen Lehrveranstaltungen
@@ -1203,10 +806,9 @@ zu bestimmen.
 (3) Der Ausbildungsplan wird der oder dem Studierenden bekannt
 gegeben.
 
-(4) Ein bereits bekannt gegebener Ausbildungsplan kann bis zum 31.
-Dezember 2022 von der jeweiligen Ausbildungsbehörde geändert werden.
-Die Änderung ist der Hochschule und der oder dem Studierenden
-mitzuteilen.
+(4) Ein bereits bekannt gegebener Ausbildungsplan kann von der
+jeweiligen Ausbildungsbehörde geändert werden. Die Änderung ist der
+Hochschule und der oder dem Studierenden mitzuteilen.
 
 
 #### § 38 Bewertung der Praktika
@@ -1238,12 +840,8 @@ Einzelbewertungen der einzelnen Ausbildungsstationen.
 
 (1) Das Grundstudium schließt mit der Zwischenprüfung ab.
 
-(1a) Im Einvernehmen mit den Dienstbehörden kann die Hochschule
-festlegen, dass bis zum 31. Dezember 2022 die Zwischenprüfung
-studiengangbegleitend durchgeführt wird.
-
-(2) In der Zwischenprüfung sollen die Studierenden nachweisen, dass
-sie den Wissens- und Kenntnisstand erreicht haben, der ein
+(2) In der Zwischenprüfung sollen die Studierenden nachweisen,
+dass sie den Wissens- und Kenntnisstand erreicht haben, der ein
 erfolgreiches weiteres Studium erwarten lässt.
 
 
@@ -1260,18 +858,11 @@ Zentralen Lehrbereich der Hochschule organisiert und durchgeführt.
 (2) Je eine Klausur wird in den Studiengebieten des Grundstudiums nach
 § 27 Nummer 1 bis 4 geschrieben.
 
-(2a) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2022
-eine oder zwei Klausuren jeweils durch eine Hausarbeit ersetzt werden.
-
 (3) Die Bearbeitungszeit beträgt für jede Klausur 180 Minuten.
 
 (4) Die Klausuren werden an aufeinanderfolgenden Arbeitstagen
 geschrieben. An einem Tag wird nur eine Klausur geschrieben. Nach zwei
 Prüfungstagen ist ein freier Tag vorzusehen.
-
-(4a) Die Hochschule kann festlegen, dass bis zum 31. Dezember 2022 die
-Klausuren – abweichend von Absatz 4 Satz 1 – nicht an
-aufeinanderfolgenden Arbeitstagen geschrieben werden.
 
 (5) Die Klausuren werden unter Aufsicht geschrieben.
 
@@ -1296,11 +887,7 @@ Die Zwischenprüfung hat bestanden,
 1.  wer in mindestens drei Klausuren jeweils eine Rangpunktzahl von
     mindestens 5,00 erreicht hat und
 
-
 2.  bei wem die Rangpunktzahl der Zwischenprüfung mindestens 5,00 beträgt.
-
-
-
 
 
 #### § 46 Zwischenprüfungszeugnis
@@ -1310,11 +897,7 @@ Zwischenprüfungszeugnis mit Angabe
 
 1.  der Rangpunkte und Noten der Klausuren sowie
 
-
 2.  der Rangpunktzahl der Zwischenprüfung.
-
-
-
 
 
 #### § 47 Bescheid über die nichtbestandene Zwischenprüfung
@@ -1326,7 +909,7 @@ Bescheinigung über die erbrachten Studienleistungen.
 
 #### § 48 Wiederholung der Zwischenprüfung
 
-(1) Wird die Zwischenprüfung wiederholt (§ 17 Absatz 3 Nummer 2 und
+(1) Wird die Zwischenprüfung wiederholt (§ 20 Absatz 3 Nummer 2 und
 Absatz 5 Satz 1 Nummer 2 der Bundeslaufbahnverordnung), so ist sie
 vollständig zu wiederholen.
 
@@ -1371,14 +954,9 @@ Die Laufbahnprüfung besteht aus
 
 1.  der Diplomarbeit und dem Diplomkolloquium,
 
-
 2.  der schriftlichen Abschlussprüfung und
 
-
 3.  der mündlichen Abschlussprüfung.
-
-
-
 
 
 #### Unterabschnitt 2 - Diplomarbeit und Diplomkolloquium
@@ -1391,37 +969,25 @@ sie fähig sind, innerhalb einer vorgegebenen Frist eine für die
 Studienziele relevante Problemstellung mit wissenschaftlichen Methoden
 selbständig zu bearbeiten.
 
-(2) Die Diplomarbeit wird während der berufspraktischen Studienzeit II
-angefertigt.
-
-(2a) Im Einvernehmen mit den Dienstbehörden kann die Hochschule
-festlegen, dass bis zum 31. Dezember 2022 die Diplomarbeit ganz oder
-teilweise während eines anderen Studienabschnitts als der
-berufspraktischen Studienzeit II angefertigt wird. Die Diplomarbeit
-ist jedoch so zu planen, dass die Bearbeitungszeit nicht den letzten
-Tag des dritten Monats des Hauptstudiums II überschreitet.
+(2) Die Diplomarbeit wird während der berufspraktischen Studienzeit
+II angefertigt.
 
 
 ##### § 53 Thema und Bearbeitungszeit der Diplomarbeit
 
 (1) Das Thema der Diplomarbeit wird vom Prüfungsamt bestimmt. Eine
-Lehrkraft der Hochschule schlägt dem Prüfungsamt ein Thema vor. Die
-Studierenden können der oder dem Vorschlagsberechtigten eigene
+Lehrkraft der Hochschule schlägt dem Prüfungsamt ein Thema vor.
+Die Studierenden können der oder dem Vorschlagsberechtigten eigene
 Themenvorschläge unterbreiten.
 
 (2) Die Bearbeitungszeit für die Diplomarbeit beträgt vier Monate. Sie
 beginnt mit Ausgabe des Themas.
 
-(2a) Im Einvernehmen mit den Dienstbehörden kann die Hochschule
-festlegen, dass bis zum 31. Dezember 2022 für die Diplomarbeit eine
-längere Bearbeitungszeit als vier Monate vorgesehen wird. Die
-Regelungen zur Verhinderung in § 57 bleiben unberührt.
-
 (3) Nach der Ausgabe kann das Thema nur im Ausnahmefall und nur mit
 Zustimmung des Prüfungsamtes zurückgegeben oder geändert werden.
 
-(4) Das Thema und der Tag der Ausgabe des Themas sind aktenkundig zu
-machen.
+(4) Das Thema und der Tag der Ausgabe des Themas sind aktenkundig
+zu machen.
 
 
 ##### § 54 Diplomarbeitsordnung
@@ -1440,12 +1006,9 @@ Prüfende.
 1.  als Erstprüfende oder Erstprüfender die Lehrkraft der Hochschule, die
     das Thema der Diplomarbeit vorgeschlagen hat, und
 
-
 2.  als Zweitprüfende oder Zweitprüfender eine Beamtin oder ein Beamter
     des gehobenen oder höheren nichttechnischen Verwaltungsdienstes des
     Bundes.
-
-
 
 Die oder der Zweitprüfende kann auch eine Tarifbeschäftigte oder ein
 Tarifbeschäftigter oder eine Soldatin oder ein Soldat sein.
@@ -1492,10 +1055,7 @@ oder er
 1.  die Diplomarbeit selbständig und ohne fremde Mitwirkung verfasst hat
     und
 
-
 2.  nur die angegebenen Quellen und Hilfsmittel benutzt hat.
-
-
 
 Die Form für die Erklärung kann vom Prüfungsamt vorgegeben werden.
 
@@ -1520,12 +1080,8 @@ nachweisen, dass sie oder er
 1.  gesichertes Wissen in den Themengebieten besitzt, die sie oder er in
     der Diplomarbeit bearbeitet hat, und
 
-
 2.  die in der Diplomarbeit angewendeten Methoden und erzielten Ergebnisse
     erläutern und begründen kann.
-
-
-
 
 (3) Das Diplomkolloquium soll zwei Wochen vor Beginn der schriftlichen
 Abschlussprüfung abgeschlossen sein.
@@ -1534,10 +1090,7 @@ Abschlussprüfung abgeschlossen sein.
 
 1.  einer etwa 20-minütigen Präsentation und
 
-
 2.  einer etwa 10-minütigen Aussprache.
-
-
 
 In der Aussprache werden fachliche Fragen mit Bezug auf die
 Diplomarbeit und die Präsentation gestellt.
@@ -1557,13 +1110,8 @@ wiederholen, unabhängig von dessen Bewertung.
 (3) Für die Wiederholung gibt das Prüfungsamt ein neues Thema aus.
 
 (4) Die Bearbeitungszeit beträgt vier Monate. Soweit erforderlich,
-verlängert die Dienstbehörde den Vorbereitungsdienst um die Dauer der
-Wiederholung.
-
-(4a) Im Einvernehmen mit den Dienstbehörden kann die Hochschule
-festlegen, dass bis zum 31. Dezember 2022 für die Wiederholung der
-Diplomarbeit eine längere Bearbeitungszeit als vier Monate vorgesehen
-wird.
+verlängert die Dienstbehörde den Vorbereitungsdienst um die Dauer
+der Wiederholung.
 
 (5) Für die Dauer der Wiederholung der Diplomarbeit und der Bewertung
 der Diplomarbeit werden die Studierenden der Dienstbehörde zugewiesen.
@@ -1586,71 +1134,21 @@ die zuvor erreichten.
 
 1.  zwei Klausuren aus dem Studiengebiet nach § 28 Nummer 3 und
 
-
 2.  je eine Klausur in den Studiengebieten nach § 28 Nummer 1, 2, 4 und 6.
-
-
-
-
-(2a) Im Einvernehmen mit den Dienstbehörden kann die Hochschule
-festlegen, dass in der Fachrichtung „Bundesnachrichtendienst“ bis zum
-31\. Dezember 2022
-
-1.  der Gegenstand der Klausuren den Studiengebieten nach § 28 Absatz 1
-    Nummer 1 bis 4 und 6 auch anders zugeordnet wird und
-
-
-2.  der Gegenstand der jeweiligen Klausur aus mehr als einem der genannten
-    Studiengebiete entnommen wird.
-
-
-
 
 (3) Studierende der Fachrichtung „Verfassungsschutz“ schreiben
 
 1.  zwei Klausuren aus dem Studiengebiet nach § 28 Nummer 3,
 
-
 2.  eine Klausur aus dem Studiengebiet nach § 28 Nummer 6 und
 
-
 3.  je eine Klausur aus drei der Studiengebiete nach § 28 Nummer 1 bis 5.
-
-
-
-
-(3a) Im Einvernehmen mit den Dienstbehörden kann die Hochschule
-festlegen, dass in der Fachrichtung „Verfassungsschutz“ bis zum 31.
-Dezember 2022
-
-1.  der Gegenstand der Klausuren den Studiengebieten nach § 28 Absatz 1
-    Nummer 1 bis 6 auch anders zugeordnet wird und
-
-
-2.  der Gegenstand der jeweiligen Klausur aus mehr als einem der genannten
-    Studiengebiete entnommen wird.
-
-
-
 
 (4) Die Bearbeitungszeit beträgt für jede Klausur 240 Minuten.
 
 (5) Die Klausuren werden an aufeinanderfolgenden Arbeitstagen
 geschrieben. An einem Tag wird nur eine Klausur geschrieben. Nach zwei
 Prüfungstagen ist ein freier Tag vorzusehen.
-
-(5a) Im Einvernehmen mit den Dienstbehörden kann die Hochschule
-festlegen, dass bis zum 31. Dezember 2022
-
-1.  die Klausuren – abweichend von Absatz 5 Satz 1 – nicht an
-    aufeinanderfolgenden Arbeitstagen geschrieben werden oder
-
-
-2.  nach zwei aufeinanderfolgenden Prüfungstagen – abweichend von Absatz 5
-    Satz 3 – mehr als ein freier Tag vorzusehen ist.
-
-
-
 
 (6) Die Klausuren werden unter Aufsicht geschrieben.
 
@@ -1664,12 +1162,9 @@ schriftlichen Abschlussprüfung zwei Prüfende bestellt.
 
 1.  als Erstprüfende oder Erstprüfender eine Lehrkraft der Hochschule und
 
-
 2.  als Zweitprüfende oder Zweitprüfender eine Beamtin oder ein Beamter
     des gehobenen oder des höheren nichttechnischen Verwaltungsdienstes
     des Bundes.
-
-
 
 Die oder der Zweitprüfende kann auch eine Tarifbeschäftigte oder ein
 Tarifbeschäftigter oder eine Soldatin oder ein Soldat sein.
@@ -1689,12 +1184,8 @@ Die schriftliche Abschlussprüfung hat bestanden,
 1.  wer in mindestens vier Klausuren jeweils eine Rangpunktzahl von
     mindestens 5,00 erreicht hat und
 
-
 2.  bei wem die Rangpunktzahl der schriftlichen Abschlussprüfung
     mindestens 5,00 beträgt.
-
-
-
 
 
 #### Unterabschnitt 4 - Mündliche Abschlussprüfung
@@ -1717,17 +1208,8 @@ Abschlussprüfung werden der oder dem Studierenden mitgeteilt
 1.  die in den Klausuren der schriftlichen Abschlussprüfung jeweils
     erreichte Rangpunktzahl und
 
-
 2.  die Rangpunktzahl der Diplomarbeit und die Rangpunkte des
     Diplomkolloquiums.
-
-
-
-Im Einvernehmen mit den Dienstbehörden kann die Hochschule festlegen,
-dass bis zum 31. Dezember 2022 die Rangpunktzahl der Diplomarbeit und
-die Rangpunkte des Diplomkolloquiums zu einem späteren Zeitpunkt
-mitgeteilt wird als dem Zeitpunkt der Mitteilung über die Zulassung
-oder Nichtzulassung zur mündlichen Abschlussprüfung.
 
 
 ##### § 68 Prüfungskommissionen der mündlichen Abschlussprüfung
@@ -1755,72 +1237,28 @@ gleichen Bewertungsmaßstab anlegen.
 1.  einer Beamtin oder einem Beamten des höheren nichttechnischen
     Verwaltungsdienstes des Bundes als Vorsitzender oder Vorsitzendem,
 
-
 2.  einer Beamtin oder einem Beamten des höheren Dienstes als Beisitzende
     oder Beisitzer und als Vertretung der oder des Vorsitzenden sowie
 
-
 3.  drei Beamtinnen und Beamten des gehobenen oder höheren Dienstes als
-    Beisitzenden, von denen mindestens eine Beamtin oder ein Beamter dem
-    gehobenen oder höheren nichttechnischen Verwaltungsdienst des Bundes
-    angehören muss.
-
-
+    Beisitzenden.
 
 Die Beisitzenden können auch Tarifbeschäftigte oder Soldatinnen oder
 Soldaten sein. Einer Prüfungskommission müssen jedoch mindestens drei
 Beamtinnen und Beamte angehören. Mindestens zwei Mitglieder einer
-Prüfungskommission sollen haupt- oder  nebenamtliche Lehrkräfte der
+Prüfungskommission sollen haupt- oder nebenamtliche Lehrkräfte der
 Hochschule sein.
-
-(5a) Das Prüfungsamt kann festlegen, dass bis zum 31. Dezember 2022
-
-1.  die Prüfungskommission für die Bewertung der mündlichen
-    Abschlussprüfung nur aus den folgenden Mitgliedern besteht:
-
-    a)  einer Beamtin oder einem Beamten des höheren Dienstes als Vorsitzender
-        oder Vorsitzendem,
-
-
-    b)  einer Beamtin oder einem Beamten des höheren Dienstes als Beisitzender
-        oder Beisitzendem und als Vertretung der oder des Vorsitzenden und
-
-
-    c)  einer Beamtin oder einem Beamten des gehobenen Dienstes als weiterer
-        Beisitzender oder weiterem Beisitzendem und
-
-
-
-
-
-2.  eine oder einer der Besitzenden auch eine Arbeitnehmerin oder ein
-    Arbeitnehmer oder eine Soldatin oder ein Soldat sein kann.
-
-
-
-Mindestens eines der anwesenden Mitglieder der Prüfungskommission für
-die Fachrichtung „Bundesnachrichtendienst“ soll der Fachrichtung
-„Bundesnachrichtendienst“ angehören. Mindestens eines der anwesenden
-Mitglieder der Prüfungskommission für die Fachrichtung
-„Verfassungsschutz“ soll der Fachrichtung „Verfassungsschutz“
-angehören. Mindestens eins der anwesenden Mitglieder soll haupt- oder
-nebenamtliche Lehrkraft der Hochschule sein.
 
 (6) Eine Prüfungskommission ist beschlussfähig, wenn mindestens vier
 Mitglieder anwesend sind.
 
-(6a) Ist festgelegt worden, dass die Zahl der Mitglieder der
-Prüfungskommission auf drei reduziert wird, so ist eine
-Prüfungskommission beschlussfähig, wenn mindestens zwei Mitglieder
-anwesend sind.
-
-(7) § 12 Absatz 5 und 6 gilt entsprechend.
+(7) § 12 Absatz 6 und 7 gilt entsprechend.
 
 
 ##### § 69 Gegenstand und Durchführung der mündlichen Abschlussprüfung
 
-(1) Die Prüfungsfächer für die mündliche Abschlussprüfung stammen aus
-den Studiengebieten des Hauptstudiums nach § 28 Nummer 1 bis 6.
+(1) Die Prüfungsfächer für die mündliche Abschlussprüfung stammen
+aus den Studiengebieten des Hauptstudiums nach § 28 Nummer 1 bis 6.
 Ausgewählt werden sie von der Prüfungskommission.
 
 (2) Für jedes ausgewählte Prüfungsfach bestimmt die Prüfungskommission
@@ -1831,10 +1269,6 @@ durchgeführt. In einer Gruppe dürfen nur Studierende derselben
 Fachrichtung geprüft werden.
 
 (4) In einer Gruppe dürfen höchstens fünf Studierende geprüft werden.
-
-(4a) Im Einvernehmen mit den Dienstbehörden kann die Hochschule
-festlegen, dass bis zum 31. Dezember 2022 die mündliche
-Abschlussprüfung als Einzelprüfung durchgeführt wird.
 
 (5) Die Dauer der mündlichen Abschlussprüfung darf je Studierende oder
 Studierenden 40 Minuten nicht unterschreiten und soll 50 Minuten je
@@ -1852,25 +1286,17 @@ gestatten:
 
 1.  Vertreterinnen und Vertretern des Bundeskanzleramtes,
 
-
-2.  Vertreterinnen und Vertretern des Bundesministeriums des Innern, für
-    Bau und Heimat,
-
+2.  Vertreterinnen und Vertretern des Bundesministeriums des Innern und
+    für Heimat,
 
 3.  den Präsidentinnen oder den Präsidenten der Dienstbehörden,
 
-
 4.  der Präsidentin oder dem Präsidenten der Hochschule,
-
 
 5.  den Abteilungsleiterinnen oder den Abteilungsleitern des Fachbereichs
     Nachrichtendienste der Hochschule und
 
-
 6.  in Ausnahmefällen auch anderen mit der Ausbildung befassten Personen.
-
-
-
 
 (3) Die Zuhörerinnen und Zuhörer dürfen während der mündlichen
 Abschlussprüfung keinerlei Aufzeichnungen machen.
@@ -1926,51 +1352,31 @@ Bewertungen mit der genannten Gewichtung ein:
 
 1.  die Rangpunktzahl der Zwischenprüfung mit 5 Prozent,
 
-
 2.  die Rangpunktzahl der Leistungstests im Hauptstudium mit 20 Prozent,
 
-
 3.  die Rangpunktzahl der Praktika mit 7,5 Prozent,
-
 
 4.  die Rangpunktzahl der Leistungstests in den praxisbezogenen
     Lehrveranstaltungen mit 2,5 Prozent,
 
-
 5.  die Rangpunktzahl der Diplomarbeit mit 18 Prozent,
 
-
 6.  die Rangpunkte des Diplomkolloquiums mit 2 Prozent,
-
 
 7.  die Rangpunktzahl der schriftlichen Abschlussprüfung mit 30 Prozent
     und
 
-
 8.  die Rangpunktzahl der mündlichen Abschlussprüfung mit 15 Prozent.
-
-
-
-
-(2a) Ist festgelegt worden, dass im Hauptstudium vollständig auf
-Leistungstests verzichtet wird, so legt die Hochschule im Einvernehmen
-mit den Dienstbehörden fest, durch welche anderen Bewertungen die
-Rangpunktzahl der Leistungstests im Hauptstudium ersetzt wird bei der
-Berechnung der Rangpunktzahl der Laufbahnprüfung.
 
 (3) Die Laufbahnprüfung hat bestanden,
 
 1.  wer die Diplomarbeit sowie die schriftliche und die mündliche
     Abschlussprüfung bestanden hat und
 
-
 2.  bei wem die Rangpunktzahl der Laufbahnprüfung mindestens 5,00 beträgt.
 
-
-
-
-(4) Ist die Laufbahnprüfung bestanden, so wird die Rangpunktzahl der
-Laufbahnprüfung kaufmännisch auf eine ganze Zahl gerundet. Der
+(4) Ist die Laufbahnprüfung bestanden, so wird die Rangpunktzahl
+der Laufbahnprüfung kaufmännisch auf eine ganze Zahl gerundet. Der
 gerundeten Rangpunktzahl wird die entsprechende Note zugeordnet und
 als Abschlussnote festgesetzt.
 
@@ -1988,18 +1394,14 @@ Fortbildung bestimmt,
 
 1.  welche Teile des Studiums zu wiederholen sind und
 
-
 2.  welche Leistungstests zu absolvieren sind.
-
-
-
 
 (3) Bei der Wiederholung von Teilen des Studiums sind auch die
 entsprechenden Leistungstests zu wiederholen.
 
 (4) Die Frist für die Wiederholung der schriftlichen und der
-mündlichen Abschlussprüfung soll mindestens drei Monate betragen und
-ein Jahr nicht überschreiten. Die Wiederholungsfrist wird vom
+mündlichen Abschlussprüfung soll mindestens drei Monate betragen
+und ein Jahr nicht überschreiten. Die Wiederholungsfrist wird vom
 Prüfungsamt am Zentrum für Nachrichtendienstliche Aus- und Fortbildung
 festgelegt. Die Dienstbehörde verlängert den Vorbereitungsdienst bis
 zum Ablauf der Wiederholungsfrist.
@@ -2016,12 +1418,8 @@ ersetzen die zuvor erreichten.
 1.  vom Prüfungsamt am Zentrum für Nachrichtendienstliche Aus- und
     Fortbildung ein Abschlusszeugnis und
 
-
 2.  von der Hochschule eine Urkunde über die Verleihung des Diplomgrades
     „Diplom-Verwaltungswirtin (FH)“ oder „Diplom-Verwaltungswirt (FH)“.
-
-
-
 
 (2) Das Abschlusszeugnis enthält
 
@@ -2029,14 +1427,9 @@ ersetzen die zuvor erreichten.
     bestanden hat und die Befähigung für den gehobenen nichttechnischen
     Verwaltungsdienst des Bundes erworben hat,
 
-
 2.  die Rangpunktzahl der Laufbahnprüfung und die Abschlussnote sowie
 
-
 3.  das Thema und die Rangpunktzahl der Diplomarbeit.
-
-
-
 
 
 ##### § 77 Bescheid über die nichtbestandene Laufbahnprüfung
@@ -2046,11 +1439,7 @@ Zentrum für Nachrichtendienstliche Aus- und Fortbildung
 
 1.  einen Bescheid über die nichtbestandene Laufbahnprüfung und
 
-
 2.  eine Bescheinigung über die erbrachten Studienleistungen.
-
-
-
 
 
 ### Abschnitt 3 - Weitere Prüfungsvorschriften
@@ -2070,8 +1459,8 @@ Organisation und Durchführung der Prüfung zuständig ist.
 
 (4) Für die Erteilung der Genehmigung gilt § 25 Absatz 4 entsprechend.
 
-(5) Das Prüfungsamt, das für die Organisation und Durchführung der
-Prüfung zuständig ist, bestimmt, ob und inwieweit eine bereits
+(5) Das Prüfungsamt, das für die Organisation und Durchführung
+der Prüfung zuständig ist, bestimmt, ob und inwieweit eine bereits
 absolvierte Prüfung oder ein bereits absolvierter Prüfungsteil
 gewertet wird und zu welchem Zeitpunkt die Prüfung oder der
 Prüfungsteil nachgeholt wird.
@@ -2097,23 +1486,18 @@ Schwere des Verstoßes
 
 1.  die Wiederholung der Prüfung oder des Prüfungsteils anordnen,
 
-
 2.  die Prüfung oder den Prüfungsteil mit null Rangpunkten bewerten oder
-
 
 3.  die Zwischenprüfung oder die Laufbahnprüfung für endgültig nicht
     bestanden erklären.
 
-
-
-
-(3) Bei einer Täuschung, die nach Beendigung einer Prüfung oder eines
-Prüfungsteils oder nach Abgabe der Diplomarbeit oder nach dem
-Diplomkolloquium festgestellt wird, ist Absatz 2 entsprechend
+(3) Bei einer Täuschung, die nach Beendigung einer Prüfung oder
+eines Prüfungsteils oder nach Abgabe der Diplomarbeit oder nach
+dem Diplomkolloquium festgestellt wird, ist Absatz 2 entsprechend
 anzuwenden. Bei einer Täuschung, die nach Beendigung der
-Zwischenprüfung festgestellt wird, entscheidet abweichend von Absatz 2
-Satz 1 das Prüfungsamt am Zentrum für Nachrichtendienstliche Aus- und
-Fortbildung.
+Zwischenprüfung festgestellt wird, entscheidet abweichend von Absatz
+2 Satz 1 das Prüfungsamt am Zentrum für Nachrichtendienstliche Aus-
+und Fortbildung.
 
 (4) Wird eine Täuschung erst nach dem Abschluss der Laufbahnprüfung
 bekannt oder kann sie erst dann nachgewiesen werden, so kann das
@@ -2133,36 +1517,25 @@ bis 4 anzuhören.
 
 1.  die Klausuren der Zwischenprüfung,
 
-
 2.  eine Ausfertigung des Zwischenprüfungszeugnisses,
-
 
 3.  eine Ausfertigung des Zeugnisses über die Leistungstests des
     Hauptstudiums,
 
-
 4.  eine Ausfertigung des Zeugnisses über die Leistungstests der
     praxisbezogenen Lehrveranstaltungen,
 
-
 5.  eine Ausfertigung des Zeugnisses über die Praktika,
-
 
 6.  die Diplomarbeit und ihre Bewertung,
 
-
 7.  die Klausuren der schriftlichen Abschlussprüfung,
-
 
 8.  eine Ausfertigung des Protokolls über die mündliche Abschlussprüfung
     sowie
 
-
 9.  eine Ausfertigung des Abschlusszeugnisses oder des Bescheids über die
     nichtbestandene Laufbahnprüfung.
-
-
-
 
 (3) Die Prüfungsakte wird beim Prüfungsamt nach Beendigung des
 Vorbereitungsdienstes mindestens fünf Jahre und höchstens zehn Jahre
@@ -2191,22 +1564,13 @@ anerkannt werden:
 1.  Studienleistungen und Prüfungsleistungen aus anderen Studiengängen
     staatlicher Hochschulen oder staatlich anerkannter Hochschulen sowie
 
-
 2.  Prüfungsleistungen, die erfolgreich abgelegt worden sind
 
     a)  an einer öffentlichen Bildungseinrichtung,
 
-
     b)  an einer staatlich anerkannten Bildungseinrichtung oder
 
-
     c)  vor einem staatlichen Prüfungsausschuss.
-
-
-
-
-
-
 
 (2) In dem Antrag hat die oder der Studierende die für die Anerkennung
 erforderlichen Unterlagen vorzulegen.
@@ -2218,9 +1582,9 @@ sind mit den Leistungen, die nach dieser Verordnung für das Studium zu
 erbringen sind. Wesentliche Unterschiede führen zur Nichtanerkennung.
 
 (5) Soweit bei anerkannten Leistungen die Bewertungssysteme
-vergleichbar sind, sind die Bewertungen der anerkannten Leistungen zu
-übernehmen. Sind die Bewertungssysteme nicht vergleichbar, so wird der
-anerkannten Leistung eine Bewertung im relativen Verhältnis der
+vergleichbar sind, sind die Bewertungen der anerkannten Leistungen
+zu übernehmen. Sind die Bewertungssysteme nicht vergleichbar, so wird
+der anerkannten Leistung eine Bewertung im relativen Verhältnis der
 Notenskalen nach § 8 Absatz 1 zugeordnet.
 
 (6) Die übernommenen und die zugeordneten Bewertungen sind in die
@@ -2239,240 +1603,4 @@ unterworfen.
 (2) Teil des systematischen Qualitätsmanagements ist die Evaluation.
 Das Nähere zur Evaluation regelt die Evaluationsordnung des
 Fachbereichs Nachrichtendienste der Hochschule.
-
-
-### § 83 Übergangsvorschriften für Studierende,die vor dem 1. Oktober 2018 mit dem Vorbereitungsdienst für den gehobenen Dienst im Bundesnachrichtendienst begonnen haben
-
-(1) Für Studierende, die vor dem 1. Oktober 2018 mit dem
-Vorbereitungsdienst gehobener Dienst im Bundesnachrichtendienst
-begonnen haben, ist die Verordnung über die Laufbahn, Ausbildung und
-Prüfung für den gehobenen Dienst im Bundesnachrichtendienst vom 5.
-Dezember 2006 (BGBl. I S. 2767), die zuletzt durch Artikel 3 Absatz 15
-der Verordnung vom 12. Februar 2009 (BGBl. I S. 320) geändert worden
-ist, mit der Maßgabe weiter anzuwenden, dass an die Stelle des § 28
-Absatz 5 Satz 3 und 4 der Verordnung über die Laufbahn, Ausbildung und
-Prüfung für den gehobenen Dienst im Bundesnachrichtendienst § 10
-dieser Verordnung tritt.
-
-(2) Bis zum 31. Dezember 2022 gelten ferner die Maßgaben der folgenden
-Absätze. Von den dort geregelten Abweichungsmöglichkeiten darf nur
-Gebrauch gemacht werden, wenn dies wegen der zur Bewältigung der
-COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
-
-(3) Im Einvernehmen mit der Dienstbehörde kann die Hochschule
-festlegen, dass bis zum 31. Dezember 2022
-
-1.  die Zahl der Lehrstunden – abweichend von § 13 Absatz 2 der in Absatz
-    1 genannten Verordnung – um bis zu 10 Prozent verringert wird,
-
-
-2.  die Ausbildungsabschnitte – abweichend von § 13 Absatz 3 Satz 1 der in
-    Absatz 1 genannten Verordnung – gegliedert werden,
-
-
-3.  Lehrveranstaltungen oder Teile von Lehrveranstaltungen – abweichend
-    von § 17 Absatz 2 Satz 1 und 3 der in Absatz 1 genannten Verordnung –
-    in einen anderen Ausbildungsabschnitt, und zwar auch in einen
-    Abschnitt der berufspraktischen Studienzeit verschoben werden,
-
-
-4.  im Hauptstudium – abweichend von § 24 Absatz 3 Satz 1 der in Absatz 1
-    genannten Verordnung –
-
-    a)  die Zahl der zu erbringenden Leistungsnachweise auf weniger als 14
-        reduziert wird und mehr als sechs Leistungsnachweise in einer anderen
-        Form als der schriftlichen Aufsichtsarbeit zu erbringen sind oder
-
-
-    b)  vollständig auf Leistungsnachweise verzichtet wird,
-
-
-
-
-
-5.  in den praxisbezogenen Lehrveranstaltungen die Zahl der zu
-    erbringenden Leistungstests – abweichend von § 25 Absatz 2 Satz 1 der
-    in Absatz 1 genannten Verordnung – auf weniger als fünf reduziert
-    wird.
-
-
-
-
-(4) Das Prüfungsamt kann festlegen, dass bis zum 31. Dezember 2021
-eine Prüfungskommission – abweichend von § 30 Absatz 2 Satz 1 der in
-Absatz 1 genannten Verordnung – nur aus den folgenden Mitgliedern
-besteht:
-
-1.  einer Beamtin oder einem Beamten des höheren Dienstes als Vorsitzender
-    oder Vorsitzendem,
-
-
-2.  einer Beamtin oder einem Beamten des höheren Dienstes als Beisitzender
-    oder Beisitzendem und als Vertretung der oder des Vorsitzenden und
-
-
-3.  einer Beamtin oder einem Beamten des gehobenen Dienstes als weiterer
-    Beisitzender oder weiterem Beisitzendem.
-
-
-
-Eine oder einer der Beisitzenden kann eine Arbeitnehmerin oder ein
-Arbeitnehmer oder eine Soldatin oder ein Soldat sein.
-
-(5) Das Prüfungsamt kann festlegen, dass bis zum 31. Dezember 2022 die
-Prüfungskommission – abweichend von § 30 Absatz 6 Satz 1 der in Absatz
-1 genannten Verordnung – schon dann beschlussfähig ist, wenn
-mindestens zwei Mitglieder anwesend sind. Im Fall einer solchen
-Festlegung soll mindestens eines der anwesenden Mitglieder haupt- oder
-nebenamtliche Lehrkraft der Hochschule sein.
-
-(6) Im Einvernehmen mit der Dienstbehörde kann die Hochschule
-festlegen, dass bis zum 31. Dezember 2022 für die Diplomarbeit eine
-längere als die in § 33 Absatz 3 Satz 1 der in Absatz 1 genannten
-Verordnung vorgesehene Bearbeitungszeit gilt.
-
-(7) Das Prüfungsamt kann festlegen, dass – abweichend von § 34 Absatz
-1 Satz 2 der in Absatz 1 genannten Verordnung –
-
-1.  die Aufgaben der schriftlichen Arbeiten den Studiengebieten nach § 17
-    Absatz 2 der in Absatz 1 genannten Verordnung anders zugeordnet
-    werden,
-
-
-2.  die Aufgaben der jeweiligen schriftlichen Arbeit aus mehr als einem
-    der Studiengebiete nach § 17 Absatz 2 der in Absatz 1 genannten
-    Verordnung entnommen werden.
-
-
-
-
-(8) Im Einvernehmen mit der Dienstbehörde kann die Hochschule
-festlegen, dass die schriftlichen Arbeiten – abweichend von § 34
-Absatz 3 der in Absatz 1 genannten Verordnung – nicht an
-aufeinanderfolgenden Arbeitstagen geschrieben werden.
-
-(9) Ist festgelegt worden, dass im Hauptstudium vollständig auf
-Leistungsnachweise verzichtet wird, so legt die Hochschule im
-Einvernehmen mit der Dienstbehörde fest, welche anderen Bewertungen –
-abweichend von § 40 Absatz 1 Satz 1 Nummer 2 der in Absatz 1 genannten
-Verordnung – statt der Durchschnittspunktzahl des Hauptstudiums in die
-Berechnung der Abschlussnote eingehen.
-
-
-### § 84 Übergangsvorschriften für Studierende, die vor dem 1. Oktober 2018 mit dem Vorbereitungsdienst für den gehobenen Dienst im Verfassungsschutz des Bundes begonnen haben
-
-(1) Für Studierende, die vor dem 1. Oktober 2018 mit dem
-Vorbereitungsdienst gehobener Dienst im Verfassungsschutz des Bundes
-begonnen haben, ist weiter die Verordnung über die Laufbahn,
-Ausbildung und Prüfung für den gehobenen Dienst im Verfassungsschutz
-des Bundes vom 11. Oktober 2001 (BGBl. I S. 2640), die zuletzt durch
-Artikel 13 des Gesetzes vom 29. März 2017 (BGBl. I S. 626) geändert
-worden ist, anzuwenden.
-
-(2) Bis zum 31. Dezember 2022 gelten ferner die Maßgaben der folgenden
-Absätze. Von den dort geregelten Abweichungsmöglichkeiten darf nur
-Gebrauch gemacht werden, wenn dies wegen der zur Bewältigung der
-COVID-19-Pandemie getroffenen Maßnahmen notwendig ist.
-
-(3) Im Einvernehmen mit der Dienstbehörde kann die Hochschule
-festlegen, dass bis zum 31. Dezember 2022
-
-1.  die Zahl der Lehrstunden – abweichend von § 13 Absatz 2 der in Absatz
-    1 genannten Verordnung – um bis zu 10 Prozent verringert wird,
-
-
-2.  die Ausbildungsabschnitte abweichend von § 13 Absatz 3 Satz 1 der in
-    Absatz 1 genannten Verordnung gegliedert werden,
-
-
-3.  Lehrveranstaltungen oder Teile von Lehrveranstaltungen – abweichend
-    von § 17 Absatz 2 der in Absatz 1 genannten Verordnung – in einen
-    anderen Ausbildungsabschnitt, und zwar auch in einen Abschnitt der
-    berufspraktischen Studienzeit verschoben werden,
-
-
-4.  im Hauptstudium – abweichend von § 23 Absatz 3 der in Absatz 1
-    genannten Verordnung –
-
-    a)  die Zahl der zu erbringenden Leistungsnachweise auf weniger als zwölf
-        reduziert wird und mehr als sechs Leistungsnachweise in einer anderen
-        Form als der schriftlichen Aufsichtsarbeit zu erbringen sind oder
-
-
-    b)  vollständig auf Leistungsnachweise verzichtet wird,
-
-
-
-
-
-5.  in den praxisbezogenen Lehrveranstaltungen die Zahl der zu
-    erbringenden Leistungsnachweise – abweichend von § 24 Absatz 2 der in
-    Absatz 1 genannten Verordnung – auf weniger als vier reduziert wird.
-
-
-
-
-(4) Das Prüfungsamt kann festlegen, dass – abweichend von § 29 Absatz
-2 Satz 1 der in Absatz 1 genannten Verordnung – eine
-Prüfungskommission nur aus den folgenden Mitgliedern besteht:
-
-1.  einer Beamtin oder einem Beamten des höheren Dienstes als Vorsitzender
-    oder Vorsitzendem,
-
-
-2.  einer Beamtin oder einem Beamten des höheren Dienstes als Beisitzender
-    oder Beisitzendem und als Vertretung der oder des Vorsitzenden und
-
-
-3.  einer Beamtin oder einem Beamten des gehobenen Dienstes als weiterer
-    Beisitzender oder weiterem Beisitzendem.
-
-
-
-
-(5) Das Prüfungsamt kann festlegen, dass – abweichend von § 29 Absatz
-5 Satz 1 der in Absatz 1 genannten Verordnung – die Prüfungskommission
-schon dann beschlussfähig ist, wenn mindestens zwei Mitglieder
-anwesend sind. Im Fall einer solchen Festlegung soll mindestens eines
-der anwesenden Mitglieder haupt- oder nebenamtliche Lehrkraft der
-Hochschule sein.
-
-(6) Im Einvernehmen mit der Dienstbehörde kann die Hochschule für die
-Diplomarbeit – abweichend von § 32 Absatz 3 Satz 1 der in Absatz 1
-genannten Verordnung –
-
-1.  eine längere Bearbeitungszeit festlegen,
-
-
-2.  festlegen, dass die Diplomarbeit während eines anderen
-    Ausbildungsabschnitts geschrieben wird.
-
-
-
-
-(7) Das Prüfungsamt kann – abweichend von § 33 Absatz 1 der in Absatz
-1 genannten Verordnung – festlegen, dass
-
-1.  die Aufgaben der schriftlichen Arbeiten den Studiengebieten nach § 17
-    Absatz 2 der in Absatz 1 genannten Verordnung anders zugeordnet
-    werden,
-
-
-2.  die Aufgaben der jeweiligen schriftlichen Arbeit aus mehr als einem
-    der Studiengebiete nach § 17 Absatz 2 entnommen werden.
-
-
-
-
-(8) Das Prüfungsamt kann festlegen, dass die schriftlichen Arbeiten –
-abweichend von § 33 Absatz 3 Satz 2 der in Absatz 1 genannten
-Verordnung – nicht an aufeinanderfolgenden Arbeitstagen geschrieben
-werden.
-
-(9) Ist festgelegt worden, dass im Hauptstudium vollständig auf
-Leistungsnachweise verzichtet wird, so legt die Hochschule im
-Einvernehmen mit der Dienstbehörde fest, welche anderen Bewertungen
-abweichend von § 39 Absatz 1 Satz 1 Nummer 2 statt der
-Durchschnittspunktzahl des Hauptstudiums in die Berechnung der
-Abschlussnote eingehen.
 

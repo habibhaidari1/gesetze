@@ -31,8 +31,8 @@ worden sind, verordnet der Bundesminister für Verkehr:
 
 Die im Handelsregister, Abteilung B, des Amtsgerichts Offenbach unter
 der Nummer 34977 eingetragene DFS Deutsche Flugsicherung Gesellschaft
-mit beschränkter Haftung wird mit der Wahrnehmung der in § 27c Absatz
-2 Satz 1 Nummer 1 des Luftverkehrsgesetzes genannten Aufgaben
+mit beschränkter Haftung wird mit der Wahrnehmung der in § 27c
+Absatz 2 Satz 1 Nummer 1 des Luftverkehrsgesetzes genannten Aufgaben
 beauftragt.
 
 

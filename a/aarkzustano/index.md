@@ -1,7 +1,5 @@
 ---
-Title: Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden
-  und für die Vertretung des Dienstherrn bei Klagen von Beschäftigten des Auswärtigen
-  Amts in Reisekostenangelegenheiten
+Title: Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und für die Vertretung des Dienstherrn bei Klagen von Beschäftigten des Auswärtigen Amts in Reisekostenangelegenheiten
 jurabk: AARKZustAnO
 layout: default
 origslug: aarkzustano

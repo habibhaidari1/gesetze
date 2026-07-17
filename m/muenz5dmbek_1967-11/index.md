@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen
-  Mark (Humboldt-Gedenkmünze)
+Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Humboldt-Gedenkmünze)
 jurabk: Münz5DMBek 1967-11
 layout: default
 origslug: m_nz5dmbek_1967-11
@@ -17,18 +16,15 @@ Fundstelle
 :   BGBl I: 1967, 1162
 
 
-
 ## (XXXX)
 
-(1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen vom
-8\. Juli 1950 (Bundesgesetzbl. S. 323) und des Änderungsgesetzes vom
-18\. Januar 1963 (Bundesgesetzbl. I S. 55) wird demnächst zur
-Erinnerung an Wilhelm von Humboldt
-(geb. 22.6.1767 Potsdam
-gest. 8.4.1835 Berlin) und Alexander von Humboldt
-(geb. 14.9.1769 Berlin
-gest. 6.5.1859 Berlin) eine Bundesmünze (Gedenkmünze) im Nennwert von
-5 Deutschen Mark geprägt und in den Verkehr gebracht. Die
+(1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen
+vom 8. Juli 1950 (Bundesgesetzbl. S. 323) und des Änderungsgesetzes
+vom 18. Januar 1963 (Bundesgesetzbl. I S. 55) wird demnächst zur
+Erinnerung an Wilhelm von Humboldt (geb. 22.6.1767 Potsdam gest.
+8\.4.1835 Berlin) und Alexander von Humboldt (geb. 14.9.1769 Berlin
+gest. 6.5.1859 Berlin) eine Bundesmünze (Gedenkmünze) im Nennwert
+von 5 Deutschen Mark geprägt und in den Verkehr gebracht. Die
 Gesamtauflage ist noch nicht festgelegt, sie wird sich im wesentlichen
 nach dem Bedarf richten.
 

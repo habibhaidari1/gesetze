@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Abrechnung und Verteilung des Verwaltungsaufwands der Bundesanstalt
-  für Post und Telekommunikation Deutsche Bundespost aus der Weiterführung der Postbeamtenkrankenkasse
+Title: Verordnung über die Abrechnung und Verteilung des Verwaltungsaufwands der Bundesanstalt für Post und Telekommunikation Deutsche Bundespost aus der Weiterführung der Postbeamtenkrankenkasse
 jurabk: PBeaKK-VerwAufwVO
 layout: default
 origslug: pbeakk-verwaufwvo
@@ -26,18 +25,18 @@ eingefügt worden ist, verordnet das Bundesministerium der Finanzen:
 
 ## § 1 Verwaltungsaufwand aus der Beihilfebearbeitung
 
-Den Verwaltungsaufwand aus der Beihilfebearbeitung nach § 26d Absatz 3
-des Bundesanstalt Post-Gesetzes trägt die Bundesanstalt für Post und
-Telekommunikation Deutsche Bundespost (Bundesanstalt). Sie legt ihn
-auf die Postnachfolgeunternehmen nach Maßgabe der nach § 19 Absatz 1
-des Bundesanstalt Post-Gesetzes geschlossenen
+Den Verwaltungsaufwand aus der Beihilfebearbeitung nach § 26d
+Absatz 3 des Bundesanstalt Post-Gesetzes trägt die Bundesanstalt
+für Post und Telekommunikation Deutsche Bundespost (Bundesanstalt).
+Sie legt ihn auf die Postnachfolgeunternehmen nach Maßgabe der
+nach § 19 Absatz 1 des Bundesanstalt Post-Gesetzes geschlossenen
 Geschäftsbesorgungsverträge um. Im Falle einer bei der
 Postbeamtenkrankenkasse bestehenden Grundversicherung ist der
 Verwaltungsmehraufwand mit einem Aufschlag von 40 Prozent auf den
 Verwaltungsaufwand der Grundversicherung anzusetzen. Im Falle einer
-bei der Gemeinschaft privater Pflegeversicherer bestehenden und von
-der Postbeamtenkrankenkasse bearbeiteten Pflegeversicherung ist der
-aus der Beihilfebearbeitung für Pflegeleistungen entstehende
+bei der Gemeinschaft privater Pflegeversicherer bestehenden und
+von der Postbeamtenkrankenkasse bearbeiteten Pflegeversicherung ist
+der aus der Beihilfebearbeitung für Pflegeleistungen entstehende
 Verwaltungsmehraufwand mit einem Aufschlag von 40 Prozent auf den
 Verwaltungsaufwand der Pflegeversicherung anzusetzen.
 
@@ -53,8 +52,8 @@ und auf die Beiträge umgelegt. Näheres zum Vergleichsmaßstab regelt
 die Satzung der Postbeamtenkrankenkasse.
 
 (2) Für Mitglieder und mitversicherte Angehörige der
-Grundversicherung, für die die Postbeamtenkrankenkasse die Bearbeitung
-der Beihilfe vornimmt, erfolgt die Umlage auf die
+Grundversicherung, für die die Postbeamtenkrankenkasse die
+Bearbeitung der Beihilfe vornimmt, erfolgt die Umlage auf die
 Postnachfolgeunternehmen, die Berufsgenossenschaft Verkehrswirtschaft
 Post-Logistik Telekommunikation, die Museumsstiftung Post und
 Telekommunikation und die Bundesrepublik Deutschland (Aufwandsträger)
@@ -90,8 +89,8 @@ trägt die Postbeamtenkrankenkasse und legt ihn nach Maßgabe ihrer
 Satzung auf die Mitglieder um.
 
 (2) Den Verwaltungsaufwand für die Durchführung der privaten
-Pflegeversicherung nach dem Elften Buch Sozialgesetzbuch trägt die
-Postbeamtenkrankenkasse. Sie legt ihn auf Grund vertraglicher
+Pflegeversicherung nach dem Elften Buch Sozialgesetzbuch trägt
+die Postbeamtenkrankenkasse. Sie legt ihn auf Grund vertraglicher
 Vereinbarung auf die Gemeinschaft privater Pflegeversicherer um.
 
 (3) Den Verwaltungsaufwand für andere Tätigkeiten trägt die
@@ -110,8 +109,8 @@ oder Arbeitsvertrag entsprechende anderweitige Verwendung für das
 ## § 5 Kostenabrechnung
 
 Die Bundesanstalt erstellt alsbald nach Ende des Geschäftsjahres
-gegenüber der Postbeamtenkrankenkasse eine Abrechnung über die Kosten
-nach den §§ 1 bis 4, auch soweit diese nicht von der
+gegenüber der Postbeamtenkrankenkasse eine Abrechnung über die
+Kosten nach den §§ 1 bis 4, auch soweit diese nicht von der
 Postbeamtenkrankenkasse getragen werden.
 
 

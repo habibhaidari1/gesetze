@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen
-  Mark (Gedenkmünze Markgraf Ludwig Wilhelm von Baden)
+Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Gedenkmünze Markgraf Ludwig Wilhelm von Baden)
 jurabk: Münz5DMBek 1955-08
 layout: default
 origslug: m_nz5dmbek_1955-08
@@ -17,13 +16,12 @@ Fundstelle
 :   BGBl I: 1955, 686
 
 
-
 ## (XXXX)
 
-(1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen vom
-8\. Juli 1950 (Bundesgesetzbl. S. 323) werden zum Gedenken an den
+(1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen
+vom 8. Juli 1950 (Bundesgesetzbl. S. 323) werden zum Gedenken an den
 Markgrafen Ludwig Wilhelm von Baden, dessen Geburtstag sich am 8.
-April 1955 zum 300. Mal gejährt hat, 200 000 Stück Bundesmünzen im
+April 1955 zum 300. Mal gejährt hat, 200 000 Stück Bundesmünzen im
 Nennwert von je 5 Deutschen Mark geprägt und demnächst in den Verkehr
 gebracht.
 
@@ -39,8 +37,8 @@ Flügel offen, die Schwingen auswärts gerichtet. Unter dem Adlerbild
 steht in arabischer Ziffer die zur Wertbezeichnung gehörende Zahl "5",
 in deren Schleife das Münzzeichen "G" (Staatliche Münze Karlsruhe)
 angebracht ist, und darunter in großen Antiqua-Buchstaben die Worte
-"DEUTSCHE MARK". Im Hintergrund ist, von dem Adlerbild überhöht und
-teilweise verdeckt, der Umriß des ehemaligen markgräflichen
+"DEUTSCHE MARK". Im Hintergrund ist, von dem Adlerbild überhöht
+und teilweise verdeckt, der Umriß des ehemaligen markgräflichen
 Residenzschlosses in Rastatt (Baden) sichtbar. Zwischen der Leiste,
 die diesen Teil des Münzbildes umschließt, und dem Perlkreis an der
 Innenseite der Randleiste steht die in großen Antiqua-Buchstaben
@@ -51,15 +49,15 @@ Zwischenräume sind mit je einem vierstrahligen Stern ausgefüllt.
 (5) Die Schauseite der Münzen zeigt das Brustbild des Markgrafen im
 Profil nach rechts und die Umschrift "LUDWIG WILHELM MARKGRAF VON
 BADEN" in großen Antiqua-Buchstaben sowie, in arabischen, durch einen
-Längsstrich getrennten Ziffern, die Lebensdaten des Markgrafen
-"1655-1707".
+Längsstrich getrennten Ziffern, die Lebensdaten des Markgrafen "1655-
+1707".
 
 (6) Der glatte Rand der Münzen trägt als Ehrenbezeichnung für den
-Markgrafen, dessen Wirken dem Bestand des Reiches gegolten hat, die in
-großen Antiqua-Buchstaben ausgeführte Inschrift "SCHILD DES REICHES".
-Die drei Zwischenräume sind je mit einer dreiteiligen Arabeske
-ausgefüllt, deren mittlerer Teil aus einem achtstrahligen Stern
-besteht.
+Markgrafen, dessen Wirken dem Bestand des Reiches gegolten hat,
+die in großen Antiqua-Buchstaben ausgeführte Inschrift "SCHILD DES
+REICHES". Die drei Zwischenräume sind je mit einer dreiteiligen
+Arabeske ausgefüllt, deren mittlerer Teil aus einem achtstrahligen
+Stern besteht.
 
 (7) Der Entwurf der Münze stammt von Herrn Karl Föll, Fachlehrer an
 der Vereinigten Goldschmiede-Kunst- und Werkschule in Pforzheim.

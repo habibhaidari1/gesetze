@@ -1,7 +1,5 @@
 ---
-Title: Hundertfünfundneunzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung
-  von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrslandesplatz
-  Eggenfelden)
+Title: Hundertfünfundneunzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrslandesplatz Eggenfelden)
 jurabk: LuftVODV 195
 layout: default
 origslug: luftvodv_195
@@ -16,4 +14,7 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BAnz: 1999, Nr 159, 14793
+
+Fundstelle
+:   BAnz: 1999, 14793
 

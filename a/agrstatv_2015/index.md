@@ -1,6 +1,5 @@
 ---
-Title: Verordnung zur Aussetzung und Ergänzung von Merkmalen sowie zur Einschränkung
-  des Kreises der zu Befragenden nach dem Agrarstatistikgesetz
+Title: Verordnung zur Aussetzung und Ergänzung von Merkmalen sowie zur Einschränkung des Kreises der zu Befragenden nach dem Agrarstatistikgesetz
 jurabk: AgrStatV 2015
 layout: default
 origslug: agrstatv_2015
@@ -19,7 +18,9 @@ Fundstelle
 Geändert durch
 :   Art. 1 V v. 22.12.2021 I 5259 mWv 30.12.2021
 
-Stand: Ersetzt V 7860-9-1 v. 20.11.2002 I 4415 (AgrStatV 1)
+Stand
+:   Ersetzt V 7860-9-1 v. 20.11.2002 I 4415 (AgrStatV 1)
+
 
 ## Eingangsformel
 
@@ -31,8 +32,8 @@ Bundesministerium für Ernährung und Landwirtschaft:
 
 ## § 1 Baumschulerhebung
 
-(1) Im Rahmen der Baumschulerhebung wird die Erhebung der Bestände an
-Forstpflanzen nach Zahl und Art (§ 14 Absatz 1 des
+(1) Im Rahmen der Baumschulerhebung wird die Erhebung der
+Bestände an Forstpflanzen nach Zahl und Art (§ 14 Absatz 1 des
 Agrarstatistikgesetzes) ausgesetzt.
 
 (2) Unbeschadet des Absatzes 1 umfassen die Erhebungsmerkmale der
@@ -53,10 +54,9 @@ der Bäume jeweils nach der Fläche erhoben.
 Der Kreis der in der Aquakulturstatistik nach § 68a des
 Agrarstatistikgesetzes zu Befragenden wird wie folgt eingeschränkt:
 
-1.  Betriebe mit Teichen ohne nennenswerten kontinuierlichen Durchfluss:
-    Erhebungseinheiten sind solche Betriebe, bei denen die
+1.  Betriebe mit Teichen ohne nennenswerten kontinuierlichen
+    Durchfluss: Erhebungseinheiten sind solche Betriebe, bei denen die
     Gesamtgewässerfläche der Teiche mindestens 0,3 Hektar beträgt, und
-
 
 2.  Betriebe mit Anlagen ohne Kreislaufführung, die von Wasser
     kontinuierlich durchflossen werden, sowie mit Anlagen mit einer
@@ -64,8 +64,6 @@ Agrarstatistikgesetzes zu Befragenden wird wie folgt eingeschränkt:
     Anlagenvolumens: Erhebungseinheiten sind solche Betriebe, bei denen
     das Gesamtvolumen der genannten Anlagen, soweit es für die Aquakultur
     verwendbar ist, mindestens 200 Kubikmeter beträgt.
-
-
 
 Im Übrigen bleibt § 68a des Agrarstatistikgesetzes unberührt.
 

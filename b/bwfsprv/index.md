@@ -21,8 +21,8 @@ Geändert durch
 
 ## Eingangsformel
 
-Auf Grund des § 10a Absatz 1 und 3 des Soldatenversorgungsgesetzes in
-der Fassung der Bekanntmachung vom 16. September 2009 (BGBl. I S.
+Auf Grund des § 10a Absatz 1 und 3 des Soldatenversorgungsgesetzes
+in der Fassung der Bekanntmachung vom 16. September 2009 (BGBl. I S.
 3054) verordnet die Bundesregierung:
 
 
@@ -35,47 +35,29 @@ An Bundeswehrfachschulen können folgende Abschlüsse erlangt werden:
 
 1.  Hauptschulabschluss,
 
-
 2.  mittlerer Schulabschluss/Realschulabschluss,
-
 
 3.  Fachschulreife
 
     a)  in der Fachrichtung Sozialpädagogik,
 
-
     b)  in der Fachrichtung Technik,
-
 
     c)  in der Fachrichtung Wirtschaft,
 
-
     d)  in weiteren Fachrichtungen, für die die bundesweite Anerkennung des
         Abschlusses gewährleistet ist,
-
-
-
-
 
 4.  Fachhochschulreife
 
     a)  in der Fachrichtung Sozialpädagogik,
 
-
     b)  in der Fachrichtung Technik,
-
 
     c)  in der Fachrichtung Wirtschaft,
 
-
     d)  in weiteren Fachrichtungen, für die die bundesweite Anerkennung des
         Abschlusses gewährleistet ist.
-
-
-
-
-
-
 
 
 ### § 2 Zugangsvoraussetzungen
@@ -88,41 +70,27 @@ Abschlussprüfung wird durch die Bundeswehrfachschule sichergestellt.
 1.  für den Lehrgang zur Erlangung des Hauptschulabschlusses die Erfüllung
     der Schulpflicht,
 
-
-2.  für den Lehrgang zur Erlangung des mittleren
-    Schulabschlusses/Realschulabschlusses der Hauptschulabschluss oder ein
-    als gleichwertig anerkannter Bildungsabschluss,
-
+2.  für den Lehrgang zur Erlangung des mittleren Schulabschlusses/
+    Realschulabschlusses der Hauptschulabschluss oder ein als gleichwertig
+    anerkannter Bildungsabschluss,
 
 3.  für die Lehrgänge zur Erlangung der Fachschulreife
 
     a)  der Hauptschulabschluss oder ein als gleichwertig anerkannter
         Bildungsabschluss und
 
-
     b)  das Zeugnis über eine entsprechende abgeschlossene Berufsausbildung
         oder ein als gleichwertig anerkannter Abschluss einer Berufsfachschule
         oder der Nachweis einer hinreichenden, mindestens dreijährigen
         einschlägigen Berufserfahrung,
-
-
-
-
 
 4.  für die Lehrgänge zur Erlangung der Fachhochschulreife
 
     a)  der Realschulabschluss oder ein als gleichwertig anerkannter
         Bildungsabschluss und
 
-
     b)  der Nachweis einer einschlägigen abgeschlossenen Berufsausbildung oder
         einer hinreichenden einschlägigen Berufserfahrung.
-
-
-
-
-
-
 
 (3) Die Teilnahme an einer Abschlussprüfung ist nicht zulässig, wenn
 der angestrebte Abschluss bereits erworben wurde.
@@ -152,26 +120,20 @@ gebildet.
     Schulaufsichtsbehörde des Landes, in dem die Schule ihren Sitz hat,
     als Vorsitzende oder Vorsitzender,
 
-
 2.  eine Vertreterin oder ein Vertreter der Schulaufsichtsbehörde der
     Bundeswehrverwaltung,
-
 
 3.  die Schulleiterin oder der Schulleiter oder die ständige Vertreterin
     oder der ständige Vertreter der Schulleiterin oder des Schulleiters,
 
-
 4.  die Fachlehrkräfte, die in der jeweiligen Prüfungsklasse unterrichtet
     haben, als Fachprüferinnen und Fachprüfer und
-
 
 5.  eine Fachlehrkraft einer Bundeswehrfachschule als Protokollführerin
     oder Protokollführer.
 
-
-
-Die oder der Beauftragte der obersten Schulaufsichtsbehörde des Landes
-kann den Vorsitz auf die Schulleiterin oder den Schulleiter
+Die oder der Beauftragte der obersten Schulaufsichtsbehörde des
+Landes kann den Vorsitz auf die Schulleiterin oder den Schulleiter
 übertragen.
 
 (3) Die Mitglieder des Prüfungsausschusses sind zur Verschwiegenheit
@@ -193,19 +155,14 @@ durch gleichzeitige Prüfungen die Gesamtprüfungsdauer zu verkürzen.
 
 (2) Einem Unterausschuss gehören mindestens an:
 
-1.  als Leiterin oder Leiter des Unterausschusses ein von der oder dem
-    Vorsitzenden des Prüfungsausschusses bestimmtes Mitglied des
+1.  als Leiterin oder Leiter des Unterausschusses ein von der oder
+    dem Vorsitzenden des Prüfungsausschusses bestimmtes Mitglied des
     Prüfungsausschusses oder eine von ihm oder ihr bestimmte andere
     Fachlehrkraft,
 
-
 2.  eine Fachlehrkraft als Fachprüferin oder Fachprüfer und
 
-
 3.  eine Fachlehrkraft als Protokollführerin oder Protokollführer.
-
-
-
 
 
 ## Abschnitt 2 - Anmeldung und Zulassung zur Prüfung
@@ -213,8 +170,8 @@ durch gleichzeitige Prüfungen die Gesamtprüfungsdauer zu verkürzen.
 
 ### § 6 Anmeldung zur Prüfung
 
-(1) Die Lehrgangsteilnehmerinnen und Lehrgangsteilnehmer haben sich im
-Prüfungshalbjahr schriftlich oder elektronisch bei der Schulleitung
+(1) Die Lehrgangsteilnehmerinnen und Lehrgangsteilnehmer haben sich
+im Prüfungshalbjahr schriftlich oder elektronisch bei der Schulleitung
 zur Prüfung anzumelden.
 
 (2) Mit der Anmeldung zur Prüfung zur Erlangung des
@@ -251,8 +208,8 @@ geben.
 ### § 9 Prüfungsliste
 
 Die Schulleitung erstellt eine Prüfungsliste mit allen zur Prüfung
-zugelassenen Lehrgangsteilnehmerinnen und Lehrgangsteilnehmern. In die
-Prüfungsliste sind für jede Teilnehmerin und jeden Teilnehmer nach
+zugelassenen Lehrgangsteilnehmerinnen und Lehrgangsteilnehmern. In
+die Prüfungsliste sind für jede Teilnehmerin und jeden Teilnehmer nach
 Abschluss der einzelnen Prüfungsteile die Vornoten, die Prüfungsnoten,
 die Endnoten und die Gesamtnote einzutragen.
 
@@ -264,8 +221,8 @@ Fach erbracht worden sind, ermittelt die Fachlehrkraft eine Vornote
 für die Prüfung. Zwischennoten sind nicht zulässig.
 
 (2) Die Vornoten für die Fächer der schriftlichen Abschlussprüfung
-setzt die Klassenkonferenz fest. Die Festsetzung darf nicht früher als
-fünf Unterrichtstage und nicht später als drei Unterrichtstage vor
+setzt die Klassenkonferenz fest. Die Festsetzung darf nicht früher
+als fünf Unterrichtstage und nicht später als drei Unterrichtstage vor
 Beginn der schriftlichen Abschlussprüfung erfolgen. In der Regel zwei
 Unterrichtstage vor Beginn der schriftlichen Abschlussprüfung werden
 die Vornoten dem Prüfling mitgeteilt.
@@ -285,96 +242,63 @@ Hauptschulabschlusses gehören:
 
 1.  eine 135-minütige Klausur im Fach Deutsch,
 
-
 2.  eine 135-minütige Klausur im Fach Mathematik und
-
 
 3.  eine 135-minütige Klausur im Fach Englisch oder im Fach
     Gemeinschaftskunde.
-
-
-
 
 (2) Zur schriftlichen Abschlussprüfung zur Erlangung des mittleren
 Schulabschlusses/Realschulabschlusses gehören:
 
 1.  eine 180-minütige Klausur im Fach Deutsch,
 
-
 2.  eine 180-minütige Klausur im Fach Englisch,
-
 
 3.  eine 180-minütige Klausur im Fach Mathematik und
 
-
 4.  eine 180-minütige Klausur im Fach Gemeinschaftskunde.
-
-
-
 
 (3) Zur schriftlichen Abschlussprüfung zur Erlangung der
 Fachschulreife gehören:
 
 1.  eine 180-minütige Klausur im Fach Deutsch,
 
-
 2.  eine 180-minütige Klausur im Fach Englisch,
 
-
 3.  eine 180-minütige Klausur im Fach Mathematik und
-
 
 4.  eine 120-minütige Klausur, und zwar
 
     a)  in der Fachrichtung Sozialpädagogik im Fach Pädagogik,
 
-
     b)  in der Fachrichtung Technik im Fach Physik,
-
 
     c)  in der Fachrichtung Wirtschaft im Fach Wirtschaftslehre mit
         Rechnungswesen.
-
-
-
-
-
-
 
 (4) Zur schriftlichen Abschlussprüfung zur Erlangung der
 Fachhochschulreife gehören:
 
 1.  eine 240-minütige Klausur im Fach Deutsch,
 
-
 2.  eine 180-minütige Klausur im Fach Englisch,
 
-
 3.  eine 180-minütige Klausur im Fach Mathematik und
-
 
 4.  eine 180-minütige Klausur, und zwar
 
     a)  in der Fachrichtung Sozialpädagogik im Fach Pädagogik und Psychologie,
 
-
     b)  in der Fachrichtung Technik im Fach Physik,
-
 
     c)  in der Fachrichtung Wirtschaft im Fach Betriebs- und
         Volkswirtschaftslehre.
 
-
-
-
-
-
-
 (5) Die Bearbeitungszeiten nach den vorstehenden Absätzen umfassen
 Einlesezeiten.
 
-(6) Für Abschlüsse in den weiteren Fachrichtungen nach § 1 Nummer 3
-Buchstabe d und Nummer 4 Buchstabe d werden die Fächer der
+(6) Für Abschlüsse in den weiteren Fachrichtungen nach § 1 Nummer
+3 Buchstabe d und Nummer 4 Buchstabe d werden die Fächer der
 schriftlichen Abschlussprüfung und die Prüfungsdauer von den
 Schulaufsichtsbehörden der Länder festgelegt.
 
@@ -384,16 +308,16 @@ Schulaufsichtsbehörden der Länder festgelegt.
 (1) Für jedes Prüfungsfach erstellen grundsätzlich die Fachlehrkräfte,
 die in den Fächern der schriftlichen Abschlussprüfung regelmäßig
 unterrichtet haben, pro Bundeswehrfachschule einen einheitlichen
-Vorschlag für die Prüfungsaufgaben. Der Vorschlag muss dem Lehrplan
-für Bundeswehrfachschulen in der jeweils geltenden Fassung
+Vorschlag für die Prüfungsaufgaben. Der Vorschlag muss dem
+Lehrplan für Bundeswehrfachschulen in der jeweils geltenden Fassung
 entsprechen. Dem Vorschlag sind ein Verzeichnis der zugelassenen
 Hilfsmittel, eine konkrete Beschreibung der erwarteten Leistungen
 (Erwartungshorizont) und ein Bewertungsschema beizufügen.
 
 (2) Die Schulleiterin oder der Schulleiter stellt sicher, dass der
 Vorschlag vollständig ist und dem Lehrplan für Bundeswehrfachschulen
-in der jeweils geltenden Fassung entspricht. Sie oder er leitet ihn an
-die oder den Beauftragten der obersten Schulaufsichtsbehörde des
+in der jeweils geltenden Fassung entspricht. Sie oder er leitet ihn
+an die oder den Beauftragten der obersten Schulaufsichtsbehörde des
 Landes weiter.
 
 (3) Die oder der Beauftragte der obersten Schulaufsichtsbehörde des
@@ -426,11 +350,11 @@ abzugeben. Die zuletzt aufsichtführende Lehrkraft übergibt der
 Schulleiterin oder dem Schulleiter alle Klausuren und Aufzeichnungen
 der Prüflinge zusammen mit dem Prüfungsprotokoll.
 
-(4) Eine Fachlehrkraft bewertet die Klausuren und schlägt jeweils eine
-Note vor. Die Schulleiterin oder der Schulleiter beauftragt eine
-zweite Fachlehrkraft mit einer zweiten Bewertung der Klausuren.
-Weichen die Noten der ersten und zweiten Bewertung voneinander ab und
-können sich die Lehrkräfte nicht einigen, setzt die oder der
+(4) Eine Fachlehrkraft bewertet die Klausuren und schlägt jeweils
+eine Note vor. Die Schulleiterin oder der Schulleiter beauftragt
+eine zweite Fachlehrkraft mit einer zweiten Bewertung der Klausuren.
+Weichen die Noten der ersten und zweiten Bewertung voneinander ab
+und können sich die Lehrkräfte nicht einigen, setzt die oder der
 Vorsitzende des Prüfungsausschusses die Note fest. Die Klausuren
 können von den Mitgliedern des Prüfungsausschusses eingesehen werden.
 
@@ -447,8 +371,8 @@ eigenständige Prüfungsleistung.
 (2) In den Fächern, in denen die Note der schriftlichen
 Abschlussprüfung mit der Vornote übereinstimmt, wird keine mündliche
 Abschlussprüfung durchgeführt. Weicht die Note der schriftlichen
-Abschlussprüfung von der Vornote ab, setzt der Prüfungsausschuss eine
-vorläufige Endnote fest und führt auf Antrag des Prüflings eine
+Abschlussprüfung von der Vornote ab, setzt der Prüfungsausschuss
+eine vorläufige Endnote fest und führt auf Antrag des Prüflings eine
 mündliche Abschlussprüfung durch.
 
 (3) In den Fächern, in denen keine schriftliche Abschlussprüfung
@@ -505,9 +429,9 @@ unterrichtet hat.
 
 ### § 17 Durchführung der mündlichen Abschlussprüfung
 
-(1) Die mündliche Abschlussprüfung findet als Einzelprüfung vor dem
-Prüfungsausschuss oder einem Unterausschuss statt. Die Prüfung sowie
-die anschließende Beratung des Prüfungsausschusses oder des
+(1) Die mündliche Abschlussprüfung findet als Einzelprüfung vor
+dem Prüfungsausschuss oder einem Unterausschuss statt. Die Prüfung
+sowie die anschließende Beratung des Prüfungsausschusses oder des
 Unterausschusses sind nicht öffentlich.
 
 (2) Die mündliche Abschlussprüfung dauert in der Regel zwischen 15 und
@@ -532,13 +456,9 @@ Zuhörer der mündlichen Abschlussprüfung eingeladen werden:
 1.  ein Mitglied der Landesschulvertretung durch die oder den Beauftragten
     der obersten Schulaufsichtsbehörde des Landes,
 
-
-2.  Fachlehrkräfte einer Bundeswehrfachschule und eine Vertreterin oder
-    ein Vertreter der obersten Schulaufsichtsbehörde der
+2.  Fachlehrkräfte einer Bundeswehrfachschule und eine Vertreterin
+    oder ein Vertreter der obersten Schulaufsichtsbehörde der
     Bundeswehrverwaltung durch die Schulleiterin oder den Schulleiter.
-
-
-
 
 (2) § 4 Absatz 3 gilt entsprechend.
 
@@ -553,8 +473,8 @@ Prüfungsausschuss die Endnoten fest. Zwischennoten sind nicht
 zulässig.
 
 (2) In den Fächern, in denen weder eine mündliche noch eine
-schriftliche Abschlussprüfung durchgeführt wird, sind die Vornoten als
-Endnoten festzusetzen. In den übrigen Fächern ist die jeweilige
+schriftliche Abschlussprüfung durchgeführt wird, sind die Vornoten
+als Endnoten festzusetzen. In den übrigen Fächern ist die jeweilige
 Endnote das arithmetische Mittel, kaufmännisch auf eine ganze Zahl
 gerundet, und zwar
 
@@ -562,29 +482,16 @@ gerundet, und zwar
 
     a)  der Vornote und
 
-
     b)  der in der schriftlichen Abschlussprüfung erreichten Note sowie
 
-
     c)  der in einer mündlichen Abschlussprüfung erreichten Note,
-
-
-
-
 
 2.  in den Fächern ohne schriftliche, aber mit mündlicher Abschlussprüfung
     aus
 
     a)  der Vornote und
 
-
     b)  der in der mündlichen Abschlussprüfung erreichten Note.
-
-
-
-
-
-
 
 
 ### § 20 Gesamtergebnis und Bestehen der Prüfung
@@ -592,8 +499,8 @@ gerundet, und zwar
 (1) Das Gesamtergebnis der Prüfung lautet „bestanden“ oder „nicht
 bestanden“.
 
-(2) Die Gesamtnote ist das arithmetische Mittel aus den Noten der
-Fächer, die im Prüfungshalbjahr unterrichtet worden sind. Das
+(2) Die Gesamtnote ist das arithmetische Mittel aus den Noten
+der Fächer, die im Prüfungshalbjahr unterrichtet worden sind. Das
 arithmetische Mittel wird kaufmännisch auf eine ganze Zahl gerundet.
 
 (3) Die Prüfung ist bestanden, wenn in jedem Fach, das im
@@ -601,8 +508,8 @@ Prüfungshalbjahr unterrichtet worden ist, mindestens die Endnote
 „ausreichend“ erreicht worden ist. Die Prüfung ist auch bestanden,
 wenn der Endnote „mangelhaft“ in einem Fach mindestens die Endnote
 „befriedigend“ in einem anderen Fach gegenübersteht. Hierbei kann die
-Endnote in einem Fach mit schriftlicher Abschlussprüfung nur durch die
-Endnote in einem anderen Fach mit schriftlicher Abschlussprüfung
+Endnote in einem Fach mit schriftlicher Abschlussprüfung nur durch
+die Endnote in einem anderen Fach mit schriftlicher Abschlussprüfung
 ausgeglichen werden. Mangelhafte Leistungen in mehr als einem Fach
 oder ungenügende Leistungen können nicht ausgeglichen werden.
 
@@ -655,8 +562,8 @@ der Prüfungsvorsitzende.
 
 (4) Sofern ein wichtiger Grund vorliegt, gilt die Prüfung als nicht
 begonnen. Die Prüfung oder der Prüfungsteil soll schnellstmöglich
-nachgeholt werden. Der Nachholtermin wird von der Schulleiterin oder
-dem Schulleiter in Abstimmung mit der oder dem Beauftragten der
+nachgeholt werden. Der Nachholtermin wird von der Schulleiterin
+oder dem Schulleiter in Abstimmung mit der oder dem Beauftragten der
 obersten Schulaufsichtsbehörde des Landes festgelegt.
 
 
@@ -665,9 +572,9 @@ obersten Schulaufsichtsbehörde des Landes festgelegt.
 (1) Prüflingen, die bei der Prüfung täuschen, eine Täuschung
 versuchen, daran mitwirken oder sonst gegen die Ordnung verstoßen,
 soll die Fortsetzung der Prüfung unter dem Vorbehalt einer
-abweichenden Entscheidung des Prüfungsausschusses gestattet werden.
-Der Prüfungsausschuss kann je nach Schwere des Verstoßes die
-Wiederholung der gesamten Prüfung oder einzelner Prüfungsteile
+abweichenden Entscheidung des Prüfungsausschusses gestattet
+werden. Der Prüfungsausschuss kann je nach Schwere des Verstoßes
+die Wiederholung der gesamten Prüfung oder einzelner Prüfungsteile
 anordnen, die Prüfungsleistung mit „ungenügend“ bewerten oder die
 gesamte Prüfung für nicht bestanden erklären. Bei einem erheblichen
 Verstoß kann der Prüfling von der weiteren Teilnahme an der gesamten
@@ -719,66 +626,49 @@ Studienhalbjahrs.
 (1) Der Verlauf der schriftlichen und der mündlichen Abschlussprüfung
 ist zu protokollieren.
 
-(2) Die Protokolle über die schriftlichen Abschlussprüfungen in den
-Fächern nach § 11 sind von den aufsichtführenden Lehrkräften
+(2) Die Protokolle über die schriftlichen Abschlussprüfungen in
+den Fächern nach § 11 sind von den aufsichtführenden Lehrkräften
 anzufertigen und zu unterschreiben. Jedes Protokoll muss enthalten:
 
 1.  Beginn und Ende der schriftlichen Abschlussprüfung im jeweiligen Fach,
 
-
 2.  die Sitzordnung als Plan mit den Namen der Prüflinge,
-
 
 3.  die Namen der aufsichtführenden Lehrkräfte und die Zeit ihrer
     Anwesenheit,
 
-
 4.  die Namen der vorübergehend abwesenden Prüflinge und die Zeit ihrer
     Abwesenheit,
 
-
 5.  die Zeit der Abgabe der Klausuren,
 
-
 6.  einen Vermerk über die Belehrung der Prüflinge nach § 24,
-
 
 7.  besondere Vorkommnisse, insbesondere Störungen der Prüfung oder
     Ordnungsverstöße.
 
-
-
-
-(3) Das Protokoll über die mündliche Abschlussprüfung ist von der oder
-dem Vorsitzenden des Prüfungsausschusses, der Schulleiterin oder dem
-Schulleiter oder ihrer oder seiner Vertretung und der
+(3) Das Protokoll über die mündliche Abschlussprüfung ist von der
+oder dem Vorsitzenden des Prüfungsausschusses, der Schulleiterin
+oder dem Schulleiter oder ihrer oder seiner Vertretung und der
 Protokollführerin oder dem Protokollführer zu unterschreiben. Das
 Protokoll muss enthalten:
 
 1.  den Namen, die Amtsbezeichnung und die Dienststelle der Mitglieder des
     Prüfungsausschusses,
 
-
 2.  alle Entscheidungen der oder des Vorsitzenden und alle Beschlüsse des
     Prüfungsausschusses,
 
-
 3.  Beginn und Ende der mündlichen Abschlussprüfung,
-
 
 4.  die Namen der Prüflinge,
 
-
 5.  die Prüfungsfächer,
-
 
 6.  die erreichten Noten.
 
-
-
-
-(4) Die Protokolle der mündlichen Einzelprüfungen sind jeweils von der
-prüfenden und der protokollierenden Lehrkraft sowie der oder dem
+(4) Die Protokolle der mündlichen Einzelprüfungen sind jeweils von
+der prüfenden und der protokollierenden Lehrkraft sowie der oder dem
 Vorsitzenden zu unterschreiben und dem Protokoll über die mündliche
 Abschlussprüfung als Anlage beizufügen. Sie müssen jeweils enthalten:
 
@@ -786,32 +676,24 @@ Abschlussprüfung als Anlage beizufügen. Sie müssen jeweils enthalten:
     protokollierenden Lehrkraft und der oder des Vorsitzenden des
     Prüfungsausschusses oder des Unterausschusses,
 
-
 2.  das Prüfungsfach,
-
 
 3.  Beginn und Ende der Einzelprüfung,
 
-
 4.  die Aufgabenstellung,
 
-
 5.  eine nachvollziehbare Leistungsbewertung,
-
 
 6.  die erreichte Note.
 
 
-
-
-
 ### § 27 Rechtsbehelfe
 
-Gegen die Entscheidung des Prüfungsausschusses steht dem Prüfling das
-Recht des Widerspruchs oder der Beschwerde nach der
+Gegen die Entscheidung des Prüfungsausschusses steht dem
+Prüfling das Recht des Widerspruchs oder der Beschwerde nach der
 Wehrbeschwerdeordnung zu. Über den Widerspruch oder die Beschwerde
-entscheidet die Schulaufsichtsbehörde der Bundeswehrverwaltung; die
-Schulaufsichtsbehörde des Landes, die die Vorsitzende oder den
+entscheidet die Schulaufsichtsbehörde der Bundeswehrverwaltung;
+die Schulaufsichtsbehörde des Landes, die die Vorsitzende oder den
 Vorsitzenden entsandt hat, ist zu beteiligen.
 
 
@@ -821,14 +703,9 @@ Vorsitzenden entsandt hat, ist zu beteiligen.
 
 1.  die Klausuren der schriftlichen Abschlussprüfung,
 
-
 2.  die Prüfungsprotokolle und
 
-
 3.  die Prüfungsliste.
-
-
-
 
 (2) Nach Bekanntgabe des Abschlusszeugnisses oder des Bescheids über
 die nicht bestandene Abschlussprüfung ist dem Prüfling auf Antrag

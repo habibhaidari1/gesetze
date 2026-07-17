@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl I: 2006, 1304
 
 
-
 ## (XXXX)
 
 Zum 1. Juli 2006 werden der aktuelle Rentenwert und der aktuelle

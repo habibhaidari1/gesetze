@@ -38,12 +38,10 @@ die Abgabe
 
     Verkaufsstellen, für die Dauer von zwei Stunden,
 
-
 2.  von Bäcker- oder Konditorwaren:
 
     Verkaufsstellen von Betrieben, die Bäcker- oder Konditorwaren
     herstellen, für die Dauer von drei Stunden,
-
 
 3.  von Blumen:
 
@@ -52,20 +50,15 @@ die Abgabe
     (Allerheiligen), am Volkstrauertag, am Buß- und Bettag, am
     Totensonntag und am 1. Adventssonntag für die Dauer von sechs Stunden,
 
-
 4.  von Zeitungen:
 
     Verkaufsstellen für Zeitungen für die Dauer von fünf Stunden.
 
-
-
-
 (2) Absatz 1 Nr. 1 bis 3 gilt nicht für die Abgabe am 2. Weihnachts-,
 Oster- und Pfingstfeiertag.
 
-(3) Die Vorschriften der §§ 5, 10, 11,
-13              bis 15 des Gesetzes über den Ladenschluß bleiben
-unberührt.
+(3) Die Vorschriften der §§ 5, 10, 11, *13* bis 15 des Gesetzes über
+den Ladenschluß bleiben unberührt.
 
 
 ## § 2

@@ -1,6 +1,5 @@
 ---
-Title: Gesetz über die Haftung und Entschädigung für Schäden bei der Beförderung gefährlicher
-  und schädlicher Stoffe auf See
+Title: Gesetz über die Haftung und Entschädigung für Schäden bei der Beförderung gefährlicher und schädlicher Stoffe auf See
 jurabk: HNSG
 layout: default
 origslug: hnsg
@@ -14,12 +13,10 @@ Ausfertigungsdatum
 :   2021-07-16
 
 Fundstelle
-:   BGBl I: 2021, 3079
+:   BGBl I: 2021, 3079 (5241)
 
-Stand: Nr. 2 der Berichtigung vom 16.12.2021 I 5241 (Nr. 85) noch nicht berücksichtigt
 
 ## § 1 (zukünftig in Kraft)
-
 
 
 ## § 2 Bescheinigung über eine Versicherung oder sonstige finanzielle Sicherheit
@@ -31,20 +28,16 @@ von der nach Artikel 12 Absatz 2 Satz 2 des HNS-Übereinkommens 2010
 zuständigen Behörde eines Vertragsstaats ausgestellte oder bestätigte
 Bescheinigung (HNS-Pflichtversicherungsbescheinigung) nachgewiesen.
 
-(2) Dem Eigentümer eines Schiffes, das die Bundesflagge führt, hat die
-zuständige Behörde auf Antrag die HNS-
+(2) Dem Eigentümer eines Schiffes, das die Bundesflagge
+führt, hat die zuständige Behörde auf Antrag die HNS-
 Pflichtversicherungsbescheinigung auszustellen, wenn
 
 1.  er nachweist, dass eine entsprechende Versicherung oder sonstige
     finanzielle Sicherheit besteht, und
 
-
 2.  kein begründeter Anlass für die Annahme gegeben ist, dass der
-    Sicherheitsgeber nicht in der Lage sein wird, seine Verpflichtungen zu
-    erfüllen.
-
-
-
+    Sicherheitsgeber nicht in der Lage sein wird, seine Verpflichtungen
+    zu erfüllen.
 
 (3) Dem Eigentümer eines Schiffes, das nicht die Bundesflagge führt,
 kann die zuständige Behörde die HNS-Pflichtversicherungsbescheinigung
@@ -60,21 +53,17 @@ durch Rechtsverordnung Bestimmungen über
 1.  die Voraussetzungen für die Ausstellung, Gültigkeit und Einziehung der
     HNS-Pflichtversicherungsbescheinigung,
 
-
 2.  das Verfahren bei der Ausstellung und Einziehung der HNS-
     Pflichtversicherungsbescheinigung,
-
 
 3.  die gebührenpflichtigen Tatbestände für individuell zurechenbare
     öffentliche Leistungen aufgrund dieses Gesetzes oder einer
     Rechtsverordnung nach den Nummern 1 und 2, die Gebührensätze sowie die
     Auslagenerstattung.
 
-
-
-In einer Rechtsverordnung nach Satz 1 Nummer 2 können insbesondere die
-Mitteilungspflichten des Eigentümers eines Schiffes im Verfahren der
-Ausstellung der HNS-Pflichtversicherungsbescheinigung, auch
+In einer Rechtsverordnung nach Satz 1 Nummer 2 können insbesondere
+die Mitteilungspflichten des Eigentümers eines Schiffes im Verfahren
+der Ausstellung der HNS-Pflichtversicherungsbescheinigung, auch
 hinsichtlich nach Ausstellung eintretender Umstände, und im Verfahren
 der Einziehung der HNS-Pflichtversicherungsbescheinigung geregelt
 werden.
@@ -83,9 +72,7 @@ werden.
 ## § 4 (zukünftig in Kraft)
 
 
-
 ## § 5 (zukünftig in Kraft)
-
 
 
 ## § 6 Behördliche Zuständigkeiten; Gebühren und Auslagen
@@ -122,10 +109,10 @@ des Artikels 1 Nummer 4 Buchstabe a des HNS-Übereinkommens 2010
 ergebenden Personen als Empfänger.
 
 (3) Macht eine nach Absatz 2 Satz 1 mitteilungspflichtige Person nicht
-oder nicht rechtzeitig die vorgeschriebenen Angaben oder erbringt sie
-nicht die verlangten Beweise, so kann das Bundesministerium für
-Wirtschaft und Energie nach Ablauf einer angemessenen Frist seiner
-Mitteilung eine im Wege der Schätzung ermittelte Menge der
+oder nicht rechtzeitig die vorgeschriebenen Angaben oder erbringt
+sie nicht die verlangten Beweise, so kann das Bundesministerium
+für Wirtschaft und Energie nach Ablauf einer angemessenen Frist
+seiner Mitteilung eine im Wege der Schätzung ermittelte Menge der
 beitragspflichtigen Ladung zugrunde legen.
 
 (4) Die nach Absatz 2 gemachten Angaben dürfen Dritten außer für die
@@ -137,25 +124,31 @@ gemacht werden.
 Übereinkommens 2010 sind rechtlich selbständige Unternehmen, die im
 Verhältnis zueinander in Mehrheitsbesitz stehende Unternehmen und mit
 Mehrheit beteiligte Unternehmen sind. Ob Unternehmen im Sinne von Satz
-1 im Verhältnis zueinander in Mehrheitsbesitz stehende Unternehmen und
-mit Mehrheit beteiligte Unternehmen sind, bestimmt sich nach dem
+1 im Verhältnis zueinander in Mehrheitsbesitz stehende Unternehmen
+und mit Mehrheit beteiligte Unternehmen sind, bestimmt sich nach dem
 sinngemäß anzuwendenden § 16 des Aktiengesetzes.
 
 
-## § 8 (zukünftig in Kraft)
+## § 8 Verordnungsermächtigung
 
+(1) Das Bundesministerium für Wirtschaft und Energie kann die ihm nach
+§ 7 Absatz 1 bis 3 zugewiesenen Aufgaben durch Rechtsverordnung auf
+eine nachgeordnete Behörde übertragen.
+
+(2) Das Bundesministerium für Wirtschaft und Energie erlässt
+im Einvernehmen mit dem Bundesministerium der Justiz und für
+Verbraucherschutz durch Rechtsverordnung nähere Bestimmungen über
+die in § 7 Absatz 2 Satz 1 vorgesehenen Angaben, ihre Form und die zu
+wahrenden Fristen.
 
 
 ## § 9 (zukünftig in Kraft)
 
 
-
 ## § 10 (zukünftig in Kraft)
 
 
-
 ## § 11 (zukünftig in Kraft)
-
 
 
 ## § 12 Bußgeldvorschriften
@@ -167,23 +160,17 @@ sinngemäß anzuwendenden § 16 des Aktiengesetzes.
     soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese
     Bußgeldvorschrift verweist,
 
-
-2.  entgegen § 4 Satz 1, auch in Verbindung mit § 4 Satz 3, nicht
+2.  *entgegen § 4 Satz 1, auch in Verbindung mit § 4 Satz 3, nicht
     sicherstellt, dass eine dort genannte Bescheinigung an Bord mitgeführt
-    wird,
+    wird,*
 
-
-3.  entgegen § 4 Satz 2, auch in Verbindung mit § 4 Satz 3, eine dort
-    genannte Bescheinigung nicht mitführt oder nicht oder nicht
-    rechtzeitig vorweist oder
-
+3.  *entgegen § 4 Satz 2, auch in Verbindung mit § 4 Satz 3, eine
+    dort genannte Bescheinigung nicht mitführt oder nicht oder nicht
+    rechtzeitig vorweist oder*
 
 4.  entgegen § 7 Absatz 2 Satz 1 in Verbindung mit einer Rechtsverordnung
     nach § 8 Absatz 2 eine dort genannte Angabe nicht, nicht richtig,
     nicht vollständig oder nicht rechtzeitig macht.
-
-
-
 
 (2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 1
 mit einer Geldbuße bis zu dreißigtausend Euro, in den übrigen Fällen
@@ -196,10 +183,6 @@ Gesetzes über Ordnungswidrigkeiten ist
 1.  in den Fällen des Absatzes 1 Nummer 1 bis 3 das Bundesamt für
     Seeschifffahrt und Hydrographie und
 
-
-2.  in den Fällen des Absatzes 1 Nummer 4 das Bundesamt für Wirtschaft und
-    Ausfuhrkontrolle.
-
-
-
+2.  in den Fällen des Absatzes 1 Nummer 4 das Bundesamt für Wirtschaft
+    und Ausfuhrkontrolle.
 

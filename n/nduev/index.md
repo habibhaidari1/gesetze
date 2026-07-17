@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Übermittlung von Auskünften an die Nachrichtendienste des
-  Bundes
+Title: Verordnung über die Übermittlung von Auskünften an die Nachrichtendienste des Bundes
 jurabk: NDÜV
 layout: default
 origslug: nd_v
@@ -56,38 +55,26 @@ gespeicherte Daten inhaltlich zu überprüfen.
 1.  „Nachrichtendienste des Bundes“ das Bundesamt für Verfassungsschutz,
     der Militärische Abschirmdienst und der Bundesnachrichtendienst,
 
-
 2.  „Auskunftsersuchen“ Ersuchen auf Grund von Anordnungen nach § 8a
     Absatz 1 Satz 1 Nummer 1, 2 und 5 des Bundesverfassungsschutzgesetzes,
     die an einen Verpflichteten gerichtet sind,
 
-
-3.  „Verpflichteter“ jede nach § 8b Absatz 6 in Verbindung mit § 8a Absatz
-    1 Satz 1 Nummer 1, 2 und 5 des Bundesverfassungsschutzgesetzes
+3.  „Verpflichteter“ jede nach § 8b Absatz 6 in Verbindung mit § 8a
+    Absatz 1 Satz 1 Nummer 1, 2 und 5 des Bundesverfassungsschutzgesetzes
     verpflichtete Stelle,
-
 
 4.  „Sektoren“ jeweils die folgenden Wirtschaftszweige:
 
     a)  Luftfahrtunternehmen,
 
-
     b)  Computerreservierungssysteme und Globale Distributionssysteme für
         Flüge,
-
 
     c)  Kreditinstitute, Finanzdienstleistungsinstitute, Wertpapierinstituten
         und Finanzunternehmen sowie
 
-
-    d)  Teledienste im Sinne des § 8a Absatz 1 Satz 1 Nummer 5 des
+    d)  Teledienste im Sinne des § 8a Absatz 1 Satz 1 Nummer 5 des
         Bundesverfassungsschutzgesetzes.
-
-
-
-
-
-
 
 (2) DIN-, ISO- und ISO/IEC-Normen, auf die in dieser Verordnung
 verwiesen wird, sind im Beuth-Verlag GmbH, Berlin und Köln, erschienen
@@ -100,21 +87,21 @@ gesichert niedergelegt, soweit nichts anderes angegeben ist.
 (1) Der Verpflichtete hat Auskünfte als Datensätze auf Datenträgern
 der Art CD-ROM nach der Norm ISO/IEC 10149:1995 (Datum der
 Veröffentlichung: Juli 1995), DVD-R nach der Norm ISO/IEC 20563:2001
-(Datum der Veröffentlichung: Juni 2001), DVD-R DL nach der Norm
-ISO/IEC 12862:2011-05 (Datum der Veröffentlichung: Mai 2011), DVD+R
-nach ISO/IEC 17344:2009 (Datum der Veröffentlichung: Juni 2009) oder
-DVD+R DL nach der Norm ISO/IEC 25434:2008 (Datum der Veröffentlichung:
+(Datum der Veröffentlichung: Juni 2001), DVD-R DL nach der Norm ISO/
+IEC 12862:2011-05 (Datum der Veröffentlichung: Mai 2011), DVD+R nach
+ISO/IEC 17344:2009 (Datum der Veröffentlichung: Juni 2009) oder DVD+R
+DL nach der Norm ISO/IEC 25434:2008 (Datum der Veröffentlichung:
 Dezember 2008) zu übermitteln. Der Verpflichtete kann ausnahmsweise
-Auskünfte auf Papier oder durch Telefax übermitteln, wenn auf die
-Anfrage keine Datensätze zu übermitteln sind, oder wenn eine
+Auskünfte auf Papier oder durch Telefax übermitteln, wenn auf
+die Anfrage keine Datensätze zu übermitteln sind, oder wenn eine
 Übermittlung in anderer Form wegen eines unverhältnismäßigen Aufwands,
 auch unter Berücksichtigung des Schutzes der zu übermittelnden
 personenbezogenen Daten, nicht zumutbar ist.
 
 (2) Die Übermittlung erfolgt an eine vom betroffenen Nachrichtendienst
 des Bundes benannte Anschrift durch einen geschäftsmäßigen Erbringer
-von Postdiensten in einer Versandart mit Nachweis oder durch eine
-natürliche Person, die in einem Arbeitnehmerverhältnis zum
+von Postdiensten in einer Versandart mit Nachweis oder durch
+eine natürliche Person, die in einem Arbeitnehmerverhältnis zum
 Verpflichteten oder zu einem Unternehmen steht, das gemeinsam mit dem
 Verpflichteten einen Konzern (§ 18 des Aktiengesetzes) bildet. Aus der
 äußeren Umhüllung der Sendung und aus ihrer Aufmachung darf der Inhalt
@@ -132,11 +119,11 @@ Informationstechnik zugelassenen und vom betroffenen Nachrichtendienst
 dem Verpflichteten mitgeteilten Verschlüsselungsverfahrens zu
 verschlüsseln.
 
-(5) Stellt der betroffene Nachrichtendienst des Bundes bei Annahme der
-Daten Mängel fest, die deren Auswertung beeinträchtigen, insbesondere
-dass die Datensätze unvollständig sind, hat er die Daten durch
-Erklärung zurückzuweisen. Der Verpflichtete ist dabei über die
-festgestellten Mängel zu unterrichten. Sofern die Unterrichtung
+(5) Stellt der betroffene Nachrichtendienst des Bundes bei Annahme
+der Daten Mängel fest, die deren Auswertung beeinträchtigen,
+insbesondere dass die Datensätze unvollständig sind, hat er die Daten
+durch Erklärung zurückzuweisen. Der Verpflichtete ist dabei über
+die festgestellten Mängel zu unterrichten. Sofern die Unterrichtung
 personenbezogene Daten enthält, ist Absatz 2 und, wenn die
 Unterrichtung elektronisch erfolgt, Absatz 4 entsprechend anzuwenden.
 Die Mängel sind unverzüglich zu beheben und die zurückgewiesenen
@@ -145,34 +132,34 @@ Datenübermittlungen erneut in mangelfreier Form durchzuführen.
 
 ## § 4 Abwicklung der Auskunft
 
-(1) Die Auskunftsersuchen werden schriftlich unter Setzung einer
-angemessenen Frist für die Übermittlung der Daten an die
-Verpflichteten übermittelt. Sie enthalten nach § 8b Absatz 4 des
-Bundesverfassungsschutzgesetzes nur die personenbezogenen Daten, die
-erforderlich sind, um dem Verpflichteten die Erfüllung seiner
-Verpflichtung zu ermöglichen. Sofern das Auskunftsersuchen
+(1) Die Auskunftsersuchen werden schriftlich unter Setzung
+einer angemessenen Frist für die Übermittlung der Daten an die
+Verpflichteten übermittelt. Sie enthalten nach § 8b Absatz 4
+des Bundesverfassungsschutzgesetzes nur die personenbezogenen
+Daten, die erforderlich sind, um dem Verpflichteten die Erfüllung
+seiner Verpflichtung zu ermöglichen. Sofern das Auskunftsersuchen
 personenbezogene Daten enthält, gilt § 3 Absatz 2 bis 4 entsprechend.
 
 (2) Dem Auskunftsersuchen ist ein Formblatt für die Beantragung der
 Entschädigung nach § 7 Absatz 2 beigefügt, sofern der betroffene
 Nachrichtendienst des Bundes mit dem Verpflichteten nicht die
-Erstellung von Sammelrechnungen vereinbart hat. Sofern ein Formblatt
-nach Satz 1 vorgesehen ist, ist es für die Beantragung der
+Erstellung von Sammelrechnungen vereinbart hat. Sofern ein
+Formblatt nach Satz 1 vorgesehen ist, ist es für die Beantragung der
 Entschädigung zu verwenden.
 
 
 ## § 5 Übermittlungsformat und Anforderungen an Auskunftsersuchen
 
 (1) Die Datensätze sind im XML-Format nach W3C-Spezifikation vom 10.
-Februar 1998 (im Internet veröffentlicht unter
-http://www.w3.org/TR/REC-xml/; archivmäßig gesichert im
-Bundesministerium des Innern, für Bau und Heimat, Berlin) zu
-übermitteln, soweit nicht in Anlage 1 für den betreffenden Sektor
-abweichende oder genauer festgelegte Formate vorgegeben sind. Soweit
-dies in Anlage 1 vorgesehen ist, sind Beschreibungen der verwendeten
-Datensätze oder Hinweise auf kostenfreie, uneingeschränkt abrufbare
-Veröffentlichungen solcher Beschreibungen im Internet zusammen mit den
-Datensätzen zu übermitteln.
+Februar 1998 (im Internet veröffentlicht unter http://www.w3.org/
+TR/REC-xml/; archivmäßig gesichert im Bundesministerium des Innern,
+für Bau und Heimat, Berlin) zu übermitteln, soweit nicht in Anlage
+1 für den betreffenden Sektor abweichende oder genauer festgelegte
+Formate vorgegeben sind. Soweit dies in Anlage 1 vorgesehen ist,
+sind Beschreibungen der verwendeten Datensätze oder Hinweise
+auf kostenfreie, uneingeschränkt abrufbare Veröffentlichungen
+solcher Beschreibungen im Internet zusammen mit den Datensätzen zu
+übermitteln.
 
 (2) Der codierte Zeichensatz für eine nach dieser Verordnung
 vorzunehmende Datenübermittlung hat vorbehaltlich abweichender
@@ -188,15 +175,15 @@ Auskunft erteilen kann.
 ## § 6 Zulassung von Ausnahmen; einstweilige Beweissicherung
 
 Der betroffene Nachrichtendienst des Bundes und ein Verpflichteter
-können Abweichungen von den in § 3 Absatz 1, § 5 Absatz 1 und 2 sowie
-der Anlage 1 enthaltenen Vorgaben für den Einzelfall, für eine Gruppe
-von Fällen oder allgemein vereinbaren. Abreden nach Satz 1 haben
-Vorrang vor den Regelungen dieser Verordnung. Verpflichtete sind auch,
-während entsprechende Verhandlungen geführt werden, zur
-Auskunftserteilung verpflichtet. Die Datensicherheit muss bei
+können Abweichungen von den in § 3 Absatz 1, § 5 Absatz 1 und 2
+sowie der Anlage 1 enthaltenen Vorgaben für den Einzelfall, für eine
+Gruppe von Fällen oder allgemein vereinbaren. Abreden nach Satz 1
+haben Vorrang vor den Regelungen dieser Verordnung. Verpflichtete
+sind auch, während entsprechende Verhandlungen geführt werden,
+zur Auskunftserteilung verpflichtet. Die Datensicherheit muss bei
 vereinbarten Verfahren gleichwertig zu den in dieser Verordnung
-vorgesehenen Verfahren sein; insbesondere bleibt § 3 Absatz 2 bis 5
-unberührt.
+vorgesehenen Verfahren sein; insbesondere bleibt § 3 Absatz 2 bis
+5 unberührt.
 
 
 ## § 7 Entschädigung
@@ -208,10 +195,10 @@ unbar durch Überweisung auf ein Zahlungskonto gezahlt.
 (2) Zur Festsetzung der Entschädigung hat der Verpflichtete beim
 betreffenden Nachrichtendienst des Bundes einen Antrag auf amtlichem
 Vordruck zu stellen, in dem der Antragsteller, die ihn vertretende
-Person, die Fallnummer und die Bankverbindung angegeben sind. Weitere
-Angaben darf der Antrag nicht enthalten. Sofern zwischen dem
-betroffenen Nachrichtendienst des Bundes und dem Verpflichteten ein
-abweichendes Verfahren, insbesondere die Erstellung von
+Person, die Fallnummer und die Bankverbindung angegeben sind.
+Weitere Angaben darf der Antrag nicht enthalten. Sofern zwischen
+dem betroffenen Nachrichtendienst des Bundes und dem Verpflichteten
+ein abweichendes Verfahren, insbesondere die Erstellung von
 Sammelrechnungen, vereinbart wurde oder ein solches Verfahren
 einvernehmlich praktiziert wird, ist dieses anzuwenden.
 
@@ -222,12 +209,12 @@ geleistet wird. Soweit die Entschädigung nach Stundensätzen zu
 bemessen ist, wird sie für jede Stunde der erforderlichen Zeit
 gewährt, wobei der Zeitaufwand, der bei der Versendung, beim
 Überbringen oder sonstigen Übermitteln einer Auskunft entsteht, im
-Gegensatz zur Vorbereitung dieser Handlungen nicht erstattet wird. Die
-letzte bereits begonnene Stunde wird voll gerechnet, wenn sie zu mehr
-als 30 Minuten für die Erbringung der Leistung erforderlich war;
-anderenfalls beträgt die Entschädigung die Hälfte des sich für eine
-volle Stunde ergebenden Betrags. Soweit zu entschädigende Leistungen
-oder Aufwendungen auf die gleichzeitige Erledigung mehrerer
+Gegensatz zur Vorbereitung dieser Handlungen nicht erstattet wird.
+Die letzte bereits begonnene Stunde wird voll gerechnet, wenn sie
+zu mehr als 30 Minuten für die Erbringung der Leistung erforderlich
+war; anderenfalls beträgt die Entschädigung die Hälfte des sich
+für eine volle Stunde ergebenden Betrags. Soweit zu entschädigende
+Leistungen oder Aufwendungen auf die gleichzeitige Erledigung mehrerer
 Angelegenheiten entfallen und die Entschädigung nach zeitlichem
 Aufwand geleistet wird, ist die Entschädigung nach der Anzahl der
 Angelegenheiten aufzuteilen.
@@ -241,35 +228,28 @@ regelmäßig, erstmalig ein Jahr nach Inkrafttreten der Verordnung,
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-(zu § 5 Absatz 1)
 
-## Anlage 1 Datenübermittlungsformate für die einzelnen Sektoren
+## Anlage 1 (zu § 5 Absatz 1)Datenübermittlungsformate für die einzelnen Sektoren
 
 (Fundstelle: BGBl. I 2012, 2120;
 bzgl. der einzelnen Ändernungen vgl. Fußnote)
-
 
 1.  **Luftfahrtunternehmen/Computerreservierungssysteme und Globale
     Distributionssysteme für Flüge**
 
     Die Daten sind entweder zu übermitteln
 
-    –   entsprechend den nach den jeweils gültigen Normen des
-        Normungsausschusses des Deutschen Instituts für Normung e. V. NA
-        043-03-03 AA – Elektronisches Geschäftswesen – festgelegten EDIFACT-
-        Standards, zusammen mit einer begleitenden elektronischen Textdatei in
-        einem üblichen, nicht proprietären Format, in der eine genaue und
+    – entsprechend den nach den jeweils gültigen Normen des
+        Normungsausschusses des Deutschen Instituts für Normung e. V. NA 043-
+        03-03 AA – Elektronisches Geschäftswesen – festgelegten EDIFACT-
+        Standards, zusammen mit einer begleitenden elektronischen Textdatei
+        in einem üblichen, nicht proprietären Format, in der eine genaue und
         erschöpfende Angabe der verwendeten Nachrichtentypen und ihres Aufbaus
         enthalten ist, oder
 
-
-    –   als XML-Datensatz mit einer der Anfrage entsprechenden Schema-
+    – als XML-Datensatz mit einer der Anfrage entsprechenden Schema-
         Definition (XSD), die der W3C-Empfehlung W3C XML entspricht (§ 5
         Absatz 1).
-
-
-
-
 
 2.  **Kreditinstitute, Finanzdienstleistungsinstitute,
     Wertpapierinstituten und Finanzunternehmen**
@@ -282,8 +262,8 @@ bzgl. der einzelnen Ändernungen vgl. Fußnote)
         zu übermittelnden Datensätze ohne Anwendung von Methoden optischer
         Zeichenerkennung erzeugt werden können und es automatisiert möglich
         ist, die angeforderten Datensätze bezogen auf ein oder mehrere
-        Merkmale zu übermitteln, die auf einen Berechtigten oder Teilnehmer am
-        Zahlungsverkehr bezogen sind (wie Nummern von Konten, Depots,
+        Merkmale zu übermitteln, die auf einen Berechtigten oder Teilnehmer
+        am Zahlungsverkehr bezogen sind (wie Nummern von Konten, Depots,
         Zahlungskarten)
 
         aa) für Verpflichtete, die die nachfolgend genannten Standards in ihrem
@@ -293,61 +273,44 @@ bzgl. der einzelnen Ändernungen vgl. Fußnote)
             nach den Datenübermittlungsstandards nach dem im Jahr 1994 zwischen
             den Verbänden
 
-            –   Bundesverband der Deutschen Volksbanken und Raiffeisenbanken e. V.,
+            – Bundesverband der Deutschen Volksbanken und Raiffeisenbanken e. V.,
 
+            – Bundesverband deutscher Banken e. V.,
 
-            –   Bundesverband deutscher Banken e. V.,
+            – Bundesverband Öffentlicher Banken Deutschlands e. V. (VÖB),
 
+            – Deutscher Sparkassen- und Giroverband e. V.,
 
-            –   Bundesverband Öffentlicher Banken Deutschlands e. V. (VÖB),
-
-
-            –   Deutscher Sparkassen- und Giroverband e. V.,
-
-
-            –   Verband deutscher Pfandbriefbanken e. V.
-
-
-
+            – Verband deutscher Pfandbriefbanken e. V.
 
             geschlossenen Abkommen über die Datenfernübertragung zwischen Kunden
-            und Kreditinstituten (DFÜ-Abkommen), insbesondere die nach der jeweils
-            geltenden Fassung der Anlage 3 des DFÜ-Abkommens festgelegten
+            und Kreditinstituten (DFÜ-Abkommen), insbesondere die nach der
+            jeweils geltenden Fassung der Anlage 3 des DFÜ-Abkommens festgelegten
             Standards MT940, camt.054, MT535 und MT536; dies betrifft auch den
             verwendeten Zeichensatz, der insofern von der Vorgabe des § 5 Absatz 2
             abweichen kann;
 
             diese verwendeten Standards sind dem berechtigten Nachrichtendienst
             vom Verpflichteten entweder durch Übersendung der Beschreibung auf
-            einem Datenträger nach § 3 Absatz 1 oder durch Hinweis auf eine im
-            Internet kostenfrei abrufbare Veröffentlichung zur Verfügung zu
+            einem Datenträger nach § 3 Absatz 1 oder durch Hinweis auf eine
+            im Internet kostenfrei abrufbare Veröffentlichung zur Verfügung zu
             stellen;
-
 
         bb) soweit die Voraussetzungen nach Doppelbuchstabe aa nicht erfüllt sind
             oder erfüllt werden können, insbesondere weil die genannten Standards
             eine Darstellung der angeforderten Daten nicht vorsehen:
 
-            –   nach den unter Doppelbuchstabe aa genannten Standards oder
+            – nach den unter Doppelbuchstabe aa genannten Standards oder
 
+            – im Textformat, insbesondere mit kommaseparierten Werten, oder
 
-            –   im Textformat, insbesondere mit kommaseparierten Werten, oder
-
-
-            –   als XML-Datensatz mit einer der Anfrage entsprechenden Schema-
+            – als XML-Datensatz mit einer der Anfrage entsprechenden Schema-
                 Definition (XSD), die der W3C-Empfehlung W3C XML entspricht (§ 5
                 Absatz 1);
 
-
-
-
             einzelne Datenfelder, die beim Verpflichteten getrennt gespeichert
-            sind, sind im übermittelten Datensatz jeweils voneinander getrennt zu
-            belassen;
-
-
-
-
+            sind, sind im übermittelten Datensatz jeweils voneinander getrennt
+            zu belassen;
 
     b)  soweit die Voraussetzungen nach Buchstabe a nicht erfüllt sind,
 
@@ -363,20 +326,10 @@ bzgl. der einzelnen Ändernungen vgl. Fußnote)
             eine textliche Beschreibung, in welcher Datei welcher Inhalt
             wiedergegeben ist, ist beizufügen;
 
-
         bb) soweit die Voraussetzungen nach Doppelbuchstabe aa nicht erfüllt sind:
 
             bei der Verwendung von Tabellen sind der Aufbau der Felder und ihr
             Inhalt zu erläutern (§ 5 Absatz 1 findet Anwendung).
-
-
-
-
-
-
-
-
-
 
 
 ## Anlage 2 (zu § 7 Absatz 1 Satz 1)
@@ -384,50 +337,10 @@ bzgl. der einzelnen Ändernungen vgl. Fußnote)
 (Fundstelle: BGBl. I 2012, 2121;
 bzgl. der einzelnen Ändernungen vgl. Fußnote)
 
-
-*    *   **Lfd. Nr.**
-
-    *   **Entschädigungstatbestand**
-
-    *   **Höhe der Entschädigung in Euro**
-
-
-*    *   1
-
-    *   Erteilung einer Passagierdatenauskunft durch Luftfahrtunternehmen,
-        Computerreservierungssysteme und Globale Distributionssysteme
-
-    *   30 Euro je Stunde Zeitaufwand, mindestens 30 Euro je vollständiger
-        Auskunft.
-
-
-*    *   2
-
-    *   Erteilung einer Auskunft durch Kreditinstitute,
-        Finanzdienstleistungsinstitute, Wertpapierinstituten und
-        Finanzunternehmen
-
-    *   a)
-
-    *   Für Auskünfte nach Anlage 1 Nummer 2 Buchstabe a:
-        30 Euro je vollständiger Auskunft und je Konto oder Depot. Unterkonten
-        oder Depots zählen als jeweils eigene Konten oder Depots, auch wenn
-        sie unter derselben Stammnummer geführt werden.
-
-
-*    *   b)
-
-    *   Für Auskünfte nach Anlage 1 Nummer 2 Buchstabe b:
-        30 Euro je Stunde Zeitaufwand.
-
-
-*    *   3
-
-    *   Erteilung einer Auskunft durch Teledienste
-
-    *   30 Euro je Stunde Zeitaufwand, mindestens 30 Euro je Nutzerkonto eines
-        Teledienstes, mindestens 30 Euro je vollständige Auskunft, wenn der
-        Teledienst keine Nutzerkonten führt.
-
-
+| **Lfd. Nr.** | **Entschädigungstatbestand** | **Höhe der Entschädigung in Euro** |  |
+| --- | --- | --- | --- |
+| 1 | Erteilung einer Passagierdatenauskunft durch Luftfahrtunternehmen, Computerreservierungssysteme und Globale Distributionssysteme | 30 Euro je Stunde Zeitaufwand, mindestens 30 Euro je vollständiger Auskunft. |  |
+| 2 | Erteilung einer Auskunft durch Kreditinstitute, Finanzdienstleistungsinstitute, Wertpapierinstituten und Finanzunternehmen | a) | Für Auskünfte nach Anlage 1 Nummer 2 Buchstabe a: 30 Euro je vollständiger Auskunft und je Konto oder Depot. Unterkonten oder Depots zählen als jeweils eigene Konten oder Depots, auch wenn sie unter derselben Stammnummer geführt werden. |
+| b) | Für Auskünfte nach Anlage 1 Nummer 2 Buchstabe b:  30 Euro je Stunde Zeitaufwand. |  |  |
+| 3 | Erteilung einer Auskunft durch Teledienste | 30 Euro je Stunde Zeitaufwand, mindestens 30 Euro je Nutzerkonto eines Teledienstes, mindestens 30 Euro je vollständige Auskunft, wenn der Teledienst keine Nutzerkonten führt. |  |
 

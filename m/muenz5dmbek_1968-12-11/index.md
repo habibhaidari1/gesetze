@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen
-  Mark (Pettenkofer-Gedenkmünze)
+Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Pettenkofer-Gedenkmünze)
 jurabk: Münz5DMBek 1968-12-11
 layout: default
 origslug: m_nz5dmbek_1968-12-11
@@ -17,13 +16,12 @@ Fundstelle
 :   BGBl I: 1968, 1315
 
 
-
 ## (XXXX)
 
-(1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen vom
-8\. Juli 1950 (Bundesgesetzblatt S. 323) wird am 18. Dezember zur
-Erinnerung an den Naturwissenschaftler Max von Pettenkofer, geb. am 3.
-Dezember 1818, gest. am 10. Februar 1901, eine Bundesmünze
+(1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen
+vom 8. Juli 1950 (Bundesgesetzblatt S. 323) wird am 18. Dezember
+zur Erinnerung an den Naturwissenschaftler Max von Pettenkofer, geb.
+am 3. Dezember 1818, gest. am 10. Februar 1901, eine Bundesmünze
 (Gedenkmünze) im Nennwert von 5 Deutschen Mark geprägt und in der
 Verkehr gebracht.
 
@@ -34,8 +32,8 @@ Feinsilber und 375 Tausendteilen Kupfer. Sie hat einen Durchmesser von
 (3) Das Gepräge auf beiden Seiten ist erhaben und wird von einem
 schmalen Ring und einem ebenfalls erhabenen glatten Randstab umgeben.
 
-(4) Die Wertseite zeigt in der Mitte den Bundesadler und über dem Kopf
-des Adlers die Wertziffer 5. Die geteilte Jahreszahl 1968 ist
+(4) Die Wertseite zeigt in der Mitte den Bundesadler und über dem
+Kopf des Adlers die Wertziffer 5. Die geteilte Jahreszahl 1968 ist
 beiderseits oberhalb der gespreizten Fänge angebracht. Die Umschrift
 lautet: "BUNDESREPUBLIK DEUTSCHLAND . DEUTSCHE MARK .". Der Buchstabe
 D, das Münzzeichen des Bayerischen Hauptmünzamtes München, befindet

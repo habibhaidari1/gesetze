@@ -1,9 +1,5 @@
 ---
-Title: Gesetz zu den Protokollen vom 19. Dezember 1988 betreffend die Auslegung des
-  Übereinkommens vom 19. Juni 1980 über das auf vertragliche Schuldverhältnisse anzuwendende
-  Recht durch den Gerichtshof der Europäischen Gemeinschaften sowie zur Übertragung
-  bestimmter Zuständigkeiten für die Auslegung dieses Übereinkommens auf den Gerichtshof
-  der Europäischen Gemeinschaften
+Title: Gesetz zu den Protokollen vom 19. Dezember 1988 betreffend die Auslegung des Übereinkommens vom 19. Juni 1980 über das auf vertragliche Schuldverhältnisse anzuwendende Recht durch den Gerichtshof der Europäischen Gemeinschaften sowie zur Übertragung bestimmter Zuständigkeiten für die Auslegung dieses Übereinkommens auf den Gerichtshof der Europäischen Gemeinschaften
 jurabk: EuVtrÜbkProtG
 layout: default
 origslug: euvtr_bkprotg
@@ -23,26 +19,22 @@ Geändert durch
 :   Art. 25 V v. 31.8.2015 I 1474
 
 
-
 ## Art 1
 
 Den folgenden in Brüssel am 19. Dezember 1988 von der Bundesrepublik
 Deutschland unterzeichneten Protokollen wird zugestimmt:
 
-1.  dem Ersten Protokoll betreffend die Auslegung des am 19. Juni 1980 in
-    Rom zur Unterzeichnung aufgelegten Übereinkommens über das auf
-    vertragliche Schuldverhältnisse anzuwendende Recht (BGBl. 1986 II S.
-    809) durch den Gerichtshof der Europäischen Gemeinschaften (im
+1.  dem Ersten Protokoll betreffend die Auslegung des am 19. Juni 1980
+    in Rom zur Unterzeichnung aufgelegten Übereinkommens über das auf
+    vertragliche Schuldverhältnisse anzuwendende Recht (BGBl. 1986 II
+    S. 809) durch den Gerichtshof der Europäischen Gemeinschaften (im
     folgenden: Erstes Protokoll);
 
-
-2.  dem Zweiten Protokoll zur Übertragung bestimmter Zuständigkeiten für
-    die Auslegung des am 19. Juni 1980 in Rom zur Unterzeichnung
+2.  dem Zweiten Protokoll zur Übertragung bestimmter Zuständigkeiten
+    für die Auslegung des am 19. Juni 1980 in Rom zur Unterzeichnung
     aufgelegten Übereinkommens über das auf vertragliche
     Schuldverhältnisse anzuwendende Recht auf den Gerichtshof der
     Europäischen Gemeinschaften (im folgenden: Zweites Protokoll).
-
-
 
 Die Protokolle werden nachstehend veröffentlicht.
 
@@ -57,13 +49,9 @@ ist die zu klärende Auslegungsfrage darzulegen und
     Einführungsgesetz zum Bürgerlichen Gesetzbuche übernommen worden ist,
     die zugrundeliegende Vorschrift des Übereinkommens zu bezeichnen,
 
-
 2.  in den übrigen Fällen die auszulegende Vorschrift eines der in Artikel
-    1 des Ersten Protokolls genannten Übereinkommen oder des Protokolls zu
-    bezeichnen.
-
-
-
+    1 des Ersten Protokolls genannten Übereinkommen oder des Protokolls
+    zu bezeichnen.
 
 (2) Soweit dies zur Beurteilung der Auslegungsfrage erforderlich ist,
 ist der Sach- und Streitstand in gedrängter Form darzustellen.
@@ -79,8 +67,8 @@ die zuständige Stelle im Sinne des Artikels 3 des Ersten Protokolls.
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 
-(2) Der Tag, an dem das Erste Protokoll nach seinem Artikel 6, und der
-Tag, an dem das Zweite Protokoll nach seinem Artikel 3 für die
+(2) Der Tag, an dem das Erste Protokoll nach seinem Artikel 6, und
+der Tag, an dem das Zweite Protokoll nach seinem Artikel 3 für die
 Bundesrepublik Deutschland in Kraft tritt, sind im Bundesgesetzblatt
 bekanntzugeben.
 

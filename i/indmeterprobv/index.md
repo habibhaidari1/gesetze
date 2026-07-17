@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Erprobung einer neuen Ausbildungsform für die Berufsausbildung
-  in den industriellen Metallberufen
+Title: Verordnung über die Erprobung einer neuen Ausbildungsform für die Berufsausbildung in den industriellen Metallberufen
 jurabk: IndMetErprobV
 layout: default
 origslug: indmeterprobv
@@ -16,7 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 1575
 
-Stand: Die V tritt mit Ausnahme von § 3 Abs. 2 am 31.7.2007 außer Kraft
+Stand
+:   Die V tritt mit Ausnahme von § 3 Abs. 2 am 31.7.2007 außer Kraft
 
 
 ## Eingangsformel
@@ -24,8 +24,8 @@ Stand: Die V tritt mit Ausnahme von § 3 Abs. 2 am 31.7.2007 außer Kraft
 Auf Grund des § 28 Abs. 3 des Berufsbildungsgesetzes vom 14. August
 1969 (BGBl. I S. 1112), der zuletzt durch Artikel 184 Nr. 1 der
 Verordnung vom 25. November 2003 (BGBl. I S. 2304) geändert worden
-ist, verordnet das Bundesministerium für Wirtschaft und Arbeit nach
-Anhören des Ständigen Ausschusses des Bundesinstituts für
+ist, verordnet das Bundesministerium für Wirtschaft und Arbeit
+nach Anhören des Ständigen Ausschusses des Bundesinstituts für
 Berufsbildung im Einvernehmen mit dem Bundesministerium für Bildung
 und Forschung:
 
@@ -70,23 +70,19 @@ Abschlussprüfung mit 40 Prozent und Teil 2 mit 60 Prozent zu
 gewichten.
 
 (2) Bei der Ermittlung des Ergebnisses des Teils 2 der
-Abschlussprüfung sind der Prüfungsbereich Arbeitsauftrag mit 50
-Prozent, die Prüfungsbereiche Auftrags- und Funktionsanalyse sowie
-Fertigungstechnik mit je 20 Prozent und der Prüfungsbereich
+Abschlussprüfung sind der Prüfungsbereich Arbeitsauftrag mit
+50 Prozent, die Prüfungsbereiche Auftrags- und Funktionsanalyse
+sowie Fertigungstechnik mit je 20 Prozent und der Prüfungsbereich
 Wirtschafts- und Sozialkunde mit 10 Prozent zu gewichten.
 
 (3) Die Abschlussprüfung ist bestanden, wenn
 
 1.  im Gesamtergebnis nach Absatz 1 sowie
 
-
 2.  im Prüfungsbereich Arbeitsauftrag und
-
 
 3.  im Gesamtergebnis der Prüfungsbereiche Auftrags- und Funktionsanalyse,
     Fertigungstechnik sowie Wirtschafts- und Sozialkunde
-
-
 
 mindestens ausreichende Leistungen erbracht wurden. In zwei der
 Prüfungsbereiche nach Nummer 3 müssen mindestens ausreichende
@@ -96,8 +92,8 @@ ungenügenden Leistungen erbracht worden sein.
 (4) Die Prüfungsbereiche Auftrags- und Funktionsanalyse,
 Fertigungstechnik sowie Wirtschafts- und Sozialkunde sind auf Antrag
 des Prüflings oder nach Ermessen des Prüfungsausschusses in einzelnen
-Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn diese
-für das Bestehen der Prüfung den Ausschlag geben kann. Bei der
+Prüfungsbereichen durch eine mündliche Prüfung zu ergänzen, wenn
+diese für das Bestehen der Prüfung den Ausschlag geben kann. Bei der
 Ermittlung des Ergebnisses für die mündlich geprüften Prüfungsbereiche
 sind das bisherige Ergebnis und das Ergebnis der mündlichen
 Ergänzungsprüfung im Verhältnis 2 : 1 zu gewichten.

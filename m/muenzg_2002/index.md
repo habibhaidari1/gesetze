@@ -33,10 +33,7 @@ EG Nr. L 139 S. 6) in der jeweils geltenden Fassung aus.
 
 1.  auf Euro lautende Gedenkmünzen (deutsche Euro-Gedenkmünzen) und
 
-
 2.  deutsche Euro-Münzen in Sonderausführung
-
-
 
 ausprägen.
 
@@ -55,8 +52,8 @@ einzelne Zahlung sowohl in Euro-Münzen als auch in deutschen Euro-
 Gedenkmünzen, ist niemand verpflichtet, mehr als 50 Münzen anzunehmen;
 dies gilt auch dann, wenn der Gesamtbetrag 200 Euro unterschreitet.
 
-(2) Die Deutsche Bundesbank hat, unbeschadet des Artikels 123 Absatz 1
-des Vertrages über die Arbeitsweise der Europäischen Union und des
+(2) Die Deutsche Bundesbank hat, unbeschadet des Artikels 123 Absatz
+1 des Vertrages über die Arbeitsweise der Europäischen Union und des
 Artikels 8 Absatz 2 der Verordnung (EU) Nr. 1210/2010 des Europäischen
 Parlaments und des Rates vom 15. Dezember 2010 zur Echtheitsprüfung
 von Euro-Münzen und zur Behandlung von nicht für den Umlauf geeigneten
@@ -77,9 +74,9 @@ abzulehnen.
 ## § 4 Gestaltung der deutschen Euro-Münzen
 
 (1) Die Bundesregierung bestimmt die Gestaltung der nationalen
-Münzseite der deutschen Euro-Münzen einschließlich des Wortlauts der
-Randschrift der auf 2 Euro lautenden deutschen Euro-Münze sowie im
-Einvernehmen mit der Deutschen Bundesbank die Verteilung der
+Münzseite der deutschen Euro-Münzen einschließlich des Wortlauts
+der Randschrift der auf 2 Euro lautenden deutschen Euro-Münze sowie
+im Einvernehmen mit der Deutschen Bundesbank die Verteilung der
 auszuprägenden Beträge auf die verschiedenen Nennwerte.
 
 (2) Die Gestaltung der nationalen Münzseite der deutschen Euro-Münzen
@@ -88,8 +85,8 @@ ist im Bundesgesetzblatt bekannt zu machen.
 
 ## § 5 Gestalt der deutschen Euro-Gedenkmünzen
 
-Die Bundesregierung bestimmt die Nennwerte und die Gestaltung sowie im
-Benehmen mit der Deutschen Bundesbank die technischen Merkmale der
+Die Bundesregierung bestimmt die Nennwerte und die Gestaltung sowie
+im Benehmen mit der Deutschen Bundesbank die technischen Merkmale der
 deutschen Euro-Gedenkmünzen; sie müssen sich hinreichend von den Euro-
 Münzen unterscheiden. § 4 Abs. 2 ist entsprechend anzuwenden.
 
@@ -97,9 +94,9 @@ Münzen unterscheiden. § 4 Abs. 2 ist entsprechend anzuwenden.
 ## § 6 Münzprägung
 
 (1) Die deutschen Euro-Münzen und die deutschen Euro-Gedenkmünzen
-werden von denjenigen Münzstätten der Länder ausgeprägt, die sich dazu
-bereit erklären und die der Bund beauftragt. Das Verfahren bei der
-Ausprägung unterliegt der Aufsicht des Bundesministeriums der
+werden von denjenigen Münzstätten der Länder ausgeprägt, die sich
+dazu bereit erklären und die der Bund beauftragt. Das Verfahren bei
+der Ausprägung unterliegt der Aufsicht des Bundesministeriums der
 Finanzen.
 
 (2) Das Bundesministerium der Finanzen bestimmt die Verteilung der
@@ -113,10 +110,10 @@ Münzstätten vom Bundesministerium der Finanzen zugewiesen.
 
 ## § 7 Inverkehrbringen von Münzen
 
-(1) Die Deutsche Bundesbank bringt die deutschen Euro-Münzen und die
-deutschen Euro-Gedenkmünzen unbeschadet des Artikels 128 Absatz 2 Satz
-1 des Vertrages über die Arbeitsweise der Europäischen Union nach
-Maßgabe der Bedürfnisse in den Verkehr. Zu diesem Zweck ist sie
+(1) Die Deutsche Bundesbank bringt die deutschen Euro-Münzen und
+die deutschen Euro-Gedenkmünzen unbeschadet des Artikels 128 Absatz
+2 Satz 1 des Vertrages über die Arbeitsweise der Europäischen Union
+nach Maßgabe der Bedürfnisse in den Verkehr. Zu diesem Zweck ist sie
 verpflichtet, die nach den §§ 1 und 2 ausgeprägten Münzen mit Ausnahme
 der Münzen gemäß § 2 Abs. 3 vom Bund gegen Gutschrift des Nennbetrages
 zu übernehmen, soweit Artikel 123 Absatz 1 des Vertrages nicht
@@ -148,8 +145,8 @@ sind für Rechnung des Bundes einzuziehen.
 Gedenkmünzen außer Kurs setzen. Die Einlösungsfrist muss mindestens
 sechs Monate betragen.
 
-(2) Die Außerkurssetzung der in Absatz 1 genannten Münzen ist im
-Bundesgesetzblatt, im Bundesanzeiger sowie in überregionalen
+(2) Die Außerkurssetzung der in Absatz 1 genannten Münzen ist
+im Bundesgesetzblatt, im Bundesanzeiger sowie in überregionalen
 Tageszeitungen bekannt zu machen und der Kommission der Europäischen
 Gemeinschaften mitzuteilen.
 
@@ -158,8 +155,8 @@ Gemeinschaften mitzuteilen.
 
 Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung ohne Zustimmung des Bundesrates zu versagen oder
-unter Bedingungen zuzulassen, dass Medaillen und Münzstücke, bei denen
-die Gefahr einer Verwechselung mit deutschen Euro-Gedenkmünzen
+unter Bedingungen zuzulassen, dass Medaillen und Münzstücke, bei
+denen die Gefahr einer Verwechselung mit deutschen Euro-Gedenkmünzen
 besteht, hergestellt, verkauft, eingeführt oder zum Verkauf oder
 anderen kommerziellen Zwecken verbreitet werden.
 
@@ -173,20 +170,13 @@ anderen kommerziellen Zwecken verbreitet werden.
 
     a)  nachzumachen oder zu verfälschen oder
 
-
-    b)  solche nachgemachten oder verfälschten Münzen zum Verkauf vorrätig zu
-        halten, feilzuhalten, in den Verkehr zu bringen oder in das Inland
+    b)  solche nachgemachten oder verfälschten Münzen zum Verkauf vorrätig
+        zu halten, feilzuhalten, in den Verkehr zu bringen oder in das Inland
         einzuführen;
-
-
-
-
 
 2.  Gegenstände herzustellen, zum Verkauf vorrätig zu halten, feilzuhalten
     oder in den Verkehr zu bringen, wenn sie den Anschein erwecken, als
     wären sie früher gültige Münzen gewesen.
-
-
 
 Satz 1 gilt nicht für Stücke, die als Nachahmungen gestaltet oder vor
 dem Jahr 1850 hergestellt worden sind.
@@ -212,17 +202,12 @@ für den Umlauf geeigneten Euro-Münzen (ABl. L 339 vom 22.12.2010, S.
 1.  entgegen Artikel 3 Absatz 1 Satz 1 nicht sicherstellt, dass Euro-
     Münzen einer Echtheitsprüfung unterzogen werden,
 
-
 2.  entgegen Artikel 3 Absatz 2 eine dort genannte Euro-Münze der
     Deutschen Bundesbank nicht oder nicht rechtzeitig übermittelt oder
-
 
 3.  entgegen Artikel 12 Absatz 2 eine dort genannte Information nicht,
     nicht richtig, nicht vollständig oder nicht rechtzeitig zur Verfügung
     stellt.
-
-
-
 
 (2) Ordnungswidrig handelt, wer einer Rechtsverordnung nach § 10
 zuwiderhandelt, soweit sie für einen bestimmten Tatbestand auf diese
@@ -234,13 +219,9 @@ Bußgeldvorschrift verweist.
     dort genannte Münze nachmacht, verfälscht, zum Verkauf vorrätig hält,
     feilhält, in den Verkehr bringt oder einführt oder
 
-
 2.  entgegen § 11 Abs. 1 Satz 1 Nr. 2, auch in Verbindung mit Abs. 2,
     einen dort genannten Gegenstand herstellt, zum Verkauf vorrätig hält,
     feilhält oder in den Verkehr bringt.
-
-
-
 
 (4) Der Versuch einer Ordnungswidrigkeit nach Absatz 3 kann geahndet
 werden.
@@ -257,11 +238,8 @@ worden, so können
 
 1.  Gegenstände, auf die sich die Ordnungswidrigkeit bezieht, und
 
-
 2.  Gegenstände, die zu ihrer Begehung oder Vorbereitung gebraucht worden
     oder bestimmt gewesen sind,
-
-
 
 eingezogen werden.
 

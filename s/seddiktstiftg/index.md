@@ -19,12 +19,11 @@ Geändert durch
 :   Art. 156 V v. 19.6.2020 I 1328
 
 
-
 ## § 1 Rechtsform der Stiftung
 
-Unter dem Namen "Stiftung zur Aufarbeitung der SED-Diktatur" wird mit
-Sitz in Berlin eine rechtsfähige Stiftung des öffentlichen Rechts
-errichtet. Die Stiftung entsteht mit dem Inkrafttreten dieses
+Unter dem Namen "Stiftung zur Aufarbeitung der SED-Diktatur" wird
+mit Sitz in Berlin eine rechtsfähige Stiftung des öffentlichen
+Rechts errichtet. Die Stiftung entsteht mit dem Inkrafttreten dieses
 Gesetzes.
 
 
@@ -34,8 +33,8 @@ Gesetzes.
 Einrichtungen auf dem Gebiet der Aufarbeitung der SED-Diktatur,
 Beiträge zur umfassenden Aufarbeitung von Ursachen, Geschichte und
 Folgen der Diktatur in der sowjetischen Besatzungszone in Deutschland
-und in der DDR zu leisten und zu unterstützen, die Erinnerung an das
-geschehene Unrecht und die Opfer wachzuhalten sowie den
+und in der DDR zu leisten und zu unterstützen, die Erinnerung
+an das geschehene Unrecht und die Opfer wachzuhalten sowie den
 antitotalitären Konsens in der Gesellschaft, die Demokratie und die
 innere Einheit Deutschlands zu fördern und zu festigen.
 
@@ -45,10 +44,8 @@ innere Einheit Deutschlands zu fördern und zu festigen.
     Aufarbeitungsinitiativen, von privaten Archiven und von Verbänden der
     Opfer der Diktatur in der sowjetischen Besatzungszone und in der DDR;
 
-
 2.  die Unterstützung der Beratung und Betreuung von Opfern der
     sowjetischen Besatzungsmacht und der SED-Diktatur;
-
 
 3.  die Förderung der politisch-historischen Aufklärung und der
     wissenschaftlichen Arbeit über die Diktatur in der sowjetischen
@@ -56,55 +53,43 @@ innere Einheit Deutschlands zu fördern und zu festigen.
     Forschungstätigkeit betreibt, sondern Forschungsvorhaben Dritter
     unterstützt;
 
-
 4.  die Sicherung und Sammlung, Dokumentation und Auswertung
     entsprechender Materialien, insbesondere über Opposition und
-    Widerstand und über politische Verfolgung und Repression, sowie von
-    sonstigem privatem Schriftgut; Errichtung und Unterhaltung eines
-    Archivs nebst Dokumentationsstelle und Bibliothek; die Stiftung
-    bewahrt zu Forschungszwecken das Archivgut der Enquete-Kommission
-    "Aufarbeitung von Geschichte und Folgen der SED-Diktatur in
-    Deutschland" der 12. Wahlperiode des Deutschen Bundestages und der
-    Enquete-Kommission "Überwindung der Folgen der SED-Diktatur im Prozeß
-    der deutschen Einheit" der 13. Wahlperiode des Deutschen Bundestages
-    als Dauerleihgabe auf, das zur inhaltlichen Vorbereitung der
-    Kommissionsberichte und Kommissionsanhörungen entstanden oder
+    Widerstand und über politische Verfolgung und Repression, sowie
+    von sonstigem privatem Schriftgut; Errichtung und Unterhaltung
+    eines Archivs nebst Dokumentationsstelle und Bibliothek; die
+    Stiftung bewahrt zu Forschungszwecken das Archivgut der Enquete-
+    Kommission "Aufarbeitung von Geschichte und Folgen der SED-Diktatur
+    in Deutschland" der 12. Wahlperiode des Deutschen Bundestages und
+    der Enquete-Kommission "Überwindung der Folgen der SED-Diktatur
+    im Prozeß der deutschen Einheit" der 13. Wahlperiode des Deutschen
+    Bundestages als Dauerleihgabe auf, das zur inhaltlichen Vorbereitung
+    der Kommissionsberichte und Kommissionsanhörungen entstanden oder
     gesammelt worden ist;
 
-
-5.  die Mitgestaltung des Gedenkens an die Opfer dieser Diktaturen sowie
-    der Erinnerung an die deutsche Teilung und an die friedliche
+5.  die Mitgestaltung des Gedenkens an die Opfer dieser Diktaturen
+    sowie der Erinnerung an die deutsche Teilung und an die friedliche
     Revolution 1989/90;
-
 
 6.  die Förderung der internationalen Zusammenarbeit bei der Aufarbeitung
     von Diktaturen, insbesondere im europäischen Rahmen.
-
-
-
 
 (3) Der Erfüllung des Zweckes können u.a. dienen:
 
 1.  eigene Veranstaltungen, Publikationen und sonstige Beiträge zur
     politisch-historischen Aufklärung über die SED-Diktatur;
 
-
-2.  die finanzielle Förderung von Forschungsprojekten Dritter und die
-    Förderung von Nachwuchswissenschaftlern, insbesondere durch
+2.  die finanzielle Förderung von Forschungsprojekten Dritter und
+    die Förderung von Nachwuchswissenschaftlern, insbesondere durch
     Stipendien;
-
 
 3.  die Vergabe von Preisen für besondere publizistische,
     wissenschaftliche oder künstlerische Leistungen im Sinne des
     Stiftungszweckes;
 
-
-4.  die Ausgestaltung von Gedenktagen, die an die deutsche Teilung, an
-    Opposition und Widerstand und an die Opfer der Diktatur in der
+4.  die Ausgestaltung von Gedenktagen, die an die deutsche Teilung,
+    an Opposition und Widerstand und an die Opfer der Diktatur in der
     sowjetischen Besatzungszone und in der DDR erinnern.
-
-
-
 
 
 ## § 3 Stiftungsvermögen
@@ -149,10 +134,7 @@ Organe der Stiftung sind
 
 1.  der Stiftungsrat,
 
-
 2.  der Vorstand.
-
-
 
 Zur Beratung bei der Erfüllung ihrer Aufgaben kann die Stiftung
 Fachbeiräte berufen.
@@ -169,15 +151,15 @@ Personen, die in Fragen der Aufarbeitung der SED-Diktatur besonders
 engagiert und qualifiziert sind, eine Person vorschlagen, die vom
 Deutschen Bundestag gewählt wird. Die Bundesregierung entsendet so
 viele Mitglieder in den Stiftungsrat, wie zum Zeitpunkt der Wahl
-Fraktionen im Deutschen Bundestag bestehen. Ein weiteres Mitglied wird
-vom Land Berlin entsandt. Für jedes Mitglied ist ein persönlicher
-Stellvertreter nach dem für dieses Mitglied vorgesehenen Verfahren zu
-bestellen. Die Mitglieder werden für die Dauer von fünf Jahren
+Fraktionen im Deutschen Bundestag bestehen. Ein weiteres Mitglied
+wird vom Land Berlin entsandt. Für jedes Mitglied ist ein persönlicher
+Stellvertreter nach dem für dieses Mitglied vorgesehenen Verfahren
+zu bestellen. Die Mitglieder werden für die Dauer von fünf Jahren
 bestellt. Wiederholte Bestellung ist zulässig.
 
 (2) Scheidet ein Stiftungsratsmitglied oder sein Vertreter vorzeitig
-aus, so kann eine Bestellung des Nachfolgers nur für den Rest der
-Zeit, für die das Mitglied oder der Vertreter bestellt waren,
+aus, so kann eine Bestellung des Nachfolgers nur für den Rest
+der Zeit, für die das Mitglied oder der Vertreter bestellt waren,
 erfolgen.
 
 (3) Der Stiftungsrat wählt einen Vorsitzenden und dessen
@@ -188,13 +170,13 @@ Bedeutung, die zum Aufgabenbereich der Stiftung gehören. Er überwacht
 die Tätigkeit des Vorstandes und vertritt die Stiftung gegenüber dem
 Vorstand.
 
-(5) Jedes Mitglied hat eine Stimme im Stiftungsrat. Im Falle der
-Verhinderung eines Mitgliedes sowie seines persönlichen
-Stellvertreters kann die Stimmausübung einem anderen Mitglied des
-Stiftungsrates übertragen werden. Der Stiftungsrat faßt seine
+(5) Jedes Mitglied hat eine Stimme im Stiftungsrat. Im Falle
+der Verhinderung eines Mitgliedes sowie seines persönlichen
+Stellvertreters kann die Stimmausübung einem anderen Mitglied
+des Stiftungsrates übertragen werden. Der Stiftungsrat faßt seine
 Beschlüsse mit einfacher Mehrheit der Stimmen. Bei Stimmengleichheit
-gibt die Stimme des Vorsitzenden den Ausschlag. Das Nähere regelt die
-Satzung.
+gibt die Stimme des Vorsitzenden den Ausschlag. Das Nähere regelt
+die Satzung.
 
 (6) Die Mitglieder des Vorstandes sind berechtigt, an den Sitzungen
 des Stiftungsrates mit beratender Stimme teilzunehmen.
@@ -248,8 +230,8 @@ beschäftigen, verliehen werden.
 
 ## § 11 Gebühren
 
-Die Stiftung kann zur Deckung des Verwaltungsaufwandes nach näherer
-Bestimmung der Satzung Gebühren für die Benutzung von
+Die Stiftung kann zur Deckung des Verwaltungsaufwandes nach
+näherer Bestimmung der Satzung Gebühren für die Benutzung von
 Stiftungseinrichtungen erheben.
 
 

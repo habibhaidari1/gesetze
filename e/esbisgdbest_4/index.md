@@ -1,7 +1,5 @@
 ---
-Title: Vierte Durchführungsbestimmung zum Gesetz über das einheitliche sozialistische
-  Bildungssystem - Bildung und Erziehung im zweisprachigen Gebiet der Bezirke Cottbus
-  und Dresden -
+Title: Vierte Durchführungsbestimmung zum Gesetz über das einheitliche sozialistische Bildungssystem - Bildung und Erziehung im zweisprachigen Gebiet der Bezirke Cottbus und Dresden -
 jurabk: ESBiSGDBest 4
 layout: default
 origslug: esbisgdbest_4
@@ -17,6 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   GBl DDR II: 1969, 33
 
+Fundstelle
+:   GBl DDR II: 1969, Nr 3, 33
 
 
 ## Eingangsformel
@@ -39,8 +39,8 @@ folgendes bestimmt:
 
 ## § 2 Kindergärten
 
-(1) In Kindergärten im zweisprachigen Gebiet sind, ausgehend von den
-muttersprachlichen Voraussetzungen der Kinder, die deutsche bzw.
+(1) In Kindergärten im zweisprachigen Gebiet sind, ausgehend von
+den muttersprachlichen Voraussetzungen der Kinder, die deutsche bzw.
 sorbische Sprache in der Bildungs- und Erziehungsarbeit anzuwenden und
 die muttersprachliche Entwicklung der Kinder zu fördern.
 
@@ -59,7 +59,6 @@ Sprache, Deutsch bzw. Sorbisch, vertraut zu machen.
 
 
 ## (XXXX) §§ 3 bis 13 (weggefallen)
-
 
 
 ## Schlußformel

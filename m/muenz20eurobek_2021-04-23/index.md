@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert
-  von 20 Euro (Gedenkmünze „100. Geburtstag Sophie Scholl“)
+Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze „100. Geburtstag Sophie Scholl“)
 jurabk: Münz20EuroBek 2021-04-23
 layout: default
 origslug: m_nz20eurobek_2021-04-23
@@ -22,8 +21,8 @@ Fundstelle
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
 I S. 2402) hat die Bundesregierung beschlossen, zum Thema „100.
 Geburtstag Sophie Scholl“ eine deutsche Euro-Gedenkmünze im Nennwert
-von 20 Euro prägen zu lassen. Die Münze würdigt Sophie Scholl (9. Mai
-1921 – 22. Februar 1943), die zu den bekanntesten deutschen
+von 20 Euro prägen zu lassen. Die Münze würdigt Sophie Scholl (9.
+Mai 1921 – 22. Februar 1943), die zu den bekanntesten deutschen
 Widerstandskämpferinnen gegen das NS-Regime zählt und vielen Menschen
 bis heute ein Vorbild für den Kampf gegen Unfreiheit und Unterdrückung
 ist.
@@ -45,8 +44,8 @@ und Weisheit und die Kraft, zu ihren humanitären Prinzipien auch in
 höchster Lebensgefahr zu stehen.
 
 Die Wertseite zeigt einen Adler, den Schriftzug „BUNDESREPUBLIK
-DEUTSCHLAND“, Wertziffer und Wertbezeichnung, das Prägezeichen „D“ des
-Bayerischen Hauptmünzamtes, München, die Jahreszahl 2021 sowie die
+DEUTSCHLAND“, Wertziffer und Wertbezeichnung, das Prägezeichen „D“
+des Bayerischen Hauptmünzamtes, München, die Jahreszahl 2021 sowie die
 zwölf Europasterne. Zusätzlich ist die Angabe „SILBER 925“ aufgeprägt.
 
 Der glatte Münzrand enthält in vertiefter Prägung die Inschrift:
@@ -64,9 +63,4 @@ Der Bundesminister der Finanzen
 ## (XXXX)
 
 (Fundstelle: BGBl. I 2021, 957)
-
-
-*    *        ![bgbl1_2021_j0957-1_0010.jpg](bgbl1_2021_j0957-1_0010.jpg)
-    *        ![bgbl1_2021_j0957-1_0020.jpg](bgbl1_2021_j0957-1_0020.jpg)
-
 

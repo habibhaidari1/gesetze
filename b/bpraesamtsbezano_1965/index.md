@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl I: 1965, 663
 
 
-
 ## (XXXX)
 
 Gemäß § 81 Abs. 1 des Bundesbeamtengesetzes setze ich folgende
@@ -58,12 +57,7 @@ a)  Matrose im Bundesgrenzschutz
 
     Fregattenkapitän im Bundesgrenzschutz
 
-
 b)  Direktor und Professor bei der Bundesanstalt für Materialprüfung
 
-
 c)  Präsident der Bundesanstalt für Straßenwesen
-
-
-
 

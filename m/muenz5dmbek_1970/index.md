@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen
-  Mark (Mercator-Gedenkmünze)
+Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Mercator-Gedenkmünze)
 jurabk: Münz5DMBek 1970
 layout: default
 origslug: m_nz5dmbek_1970
@@ -17,13 +16,12 @@ Fundstelle
 :   BGBl I: 1970, 804
 
 
-
 ## (XXXX)
 
 (1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen vom
 8\. Juli 1950 (Bundesgesetzbl. S. 323) ist zur Erinnerung an den 375.
-Todestag des Geographen und Kartographen Gerhard Mercator, geboren am
-5\. März 1512, gestorben am 2. Dezember 1594, eine Bundesmünze
+Todestag des Geographen und Kartographen Gerhard Mercator, geboren
+am 5. März 1512, gestorben am 2. Dezember 1594, eine Bundesmünze
 (Gedenkmünze) im Nennwert von 5 Deutschen Mark geprägt worden, die ab
 8\. Juli 1970 in den Verkehr gebracht wird.
 
@@ -41,8 +39,8 @@ unterhalb der gespreizten Fänge, beiderseits der Schwanzfedern,
 angebracht. Die Umschrift lautet: . BUNDESREPUBLIK . DEUTSCHLAND .
 DEUTSCHE 5 MARK.
 
-(5) Die Bildseite zeigt das Kopfbild Mercators und angedeutet die zum
-ersten Mal von ihm angewandte Kartenprojektion mit der Umschrift:
+(5) Die Bildseite zeigt das Kopfbild Mercators und angedeutet die
+zum ersten Mal von ihm angewandte Kartenprojektion mit der Umschrift:
 1512-1594 . GERHARD . MERCATOR.
 
 (6) Der glatte Münzrand ist mit der vertieften Inschrift versehen:

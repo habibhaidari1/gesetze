@@ -15,6 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   GBl DDR I: 1990, 1260
 
+Fundstelle
+:   GBl DDR I: 1990, Nr 56, 1260
 
 
 ## Eingangsformel
@@ -38,10 +40,10 @@ anderer Rechtsvorschriften nicht berührt.
 
 ## § 2
 
-(1) Das Ministerium für Abrüstung und Verteidigung hat bis zum Tag des
-Beitritts der Deutschen Demokratischen Republik zur Bundesrepublik
-Deutschland die für militärische Zwecke nicht mehr benötigte
-Wehrtechnik sowie Grundstücke, Gebäude und baulichen Anlagen
+(1) Das Ministerium für Abrüstung und Verteidigung hat bis zum
+Tag des Beitritts der Deutschen Demokratischen Republik zur
+Bundesrepublik Deutschland die für militärische Zwecke nicht mehr
+benötigte Wehrtechnik sowie Grundstücke, Gebäude und baulichen Anlagen
 auszusondern (nachfolgend ausgesondertes Militärvermögen genannt).
 
 (2) Das ausgesonderte Militärvermögen ist der Treuhandanstalt zu
@@ -69,8 +71,8 @@ Verkauf, Vernichtung oder deren Umstellung auf eine zivile Nutzung.
 ## § 4
 
 (1) Die Erträge aus der Privatisierung und Verwertung des
-ausgesonderten Militärvermögens sind vorrangig für die personelle und
-technische Konversion, für die Rekultivierung und Entsorgung
+ausgesonderten Militärvermögens sind vorrangig für die personelle
+und technische Konversion, für die Rekultivierung und Entsorgung
 militärisch genutzter Flächen, Gebäude und baulicher Anlagen sowie die
 Restrukturierung von Kapazitäten der Rüstungsproduktion zu verwenden.
 

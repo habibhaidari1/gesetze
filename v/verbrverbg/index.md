@@ -16,11 +16,10 @@ Fundstelle
 :   BGBl I: 1961, 607
 
 Zuletzt geändert durch
-:   Art. 9 G v. 8.7.2016 I 1594
+:   Art. 5 G v. 22.12.2025 I Nr. 345
 
 
-## Erster Abschnitt - 
-
+## Erster Abschnitt
 
 
 ### § 1
@@ -34,20 +33,20 @@ diesen Bereich verbracht werden.
 
 ### § 2
 
-(1) Die Hauptzollämter und ihre Beamten nehmen eine Nachprüfung vor,
-wenn sich tatsächliche Anhaltspunkte für den Verdacht ergeben, daß
-Gegenstände unter Verstoß gegen eines der in § 1 bezeichneten
+(1) Die Hauptzollämter und ihre Beamten nehmen eine Nachprüfung
+vor, wenn sich tatsächliche Anhaltspunkte für den Verdacht ergeben,
+daß Gegenstände unter Verstoß gegen eines der in § 1 bezeichneten
 Strafgesetze in den räumlichen Geltungsbereich dieses Gesetzes
 verbracht werden, es sei denn, daß es sich lediglich um Reiselektüre
 handelt. Wird der Verdacht durch die Nachprüfung nicht ausgeräumt, so
 sind die Gegenstände der Staatsanwaltschaft vorzulegen.
 
 (2) Die Beamten der Hauptzollämter sind berechtigt, zum Zwecke der
-Nachprüfung Beförderungsmittel, Gepäckstücke, sonstige Behältnisse und
-Sendungen aller Art zu öffnen und zu durchsuchen. Sie sind zur
+Nachprüfung Beförderungsmittel, Gepäckstücke, sonstige Behältnisse
+und Sendungen aller Art zu öffnen und zu durchsuchen. Sie sind zur
 Beschlagnahme befugt, wenn sich die Gegenstände im Gewahrsam einer
-Person befinden, die zur freiwilligen Herausgabe nicht bereit ist. Im
-Falle der Beschlagnahme gilt § 98 Abs. 2 der Strafprozeßordnung
+Person befinden, die zur freiwilligen Herausgabe nicht bereit ist.
+Im Falle der Beschlagnahme gilt § 98 Abs. 2 der Strafprozeßordnung
 entsprechend.
 
 (3) (weggefallen)
@@ -59,7 +58,9 @@ Die Unternehmen in Nachfolge der Deutschen Bundespost legen die in den
 räumlichen Geltungsbereich dieses Gesetzes beförderten Sendungen, bei
 deren betrieblicher Behandlung sich tatsächliche Anhaltspunkte für den
 in § 2 bezeichneten Verdacht ergeben, der zuständigen Zolldienststelle
-vor.
+vor. Dies gilt auch für ein Nachfolgeunternehmen im Sinne von § 1
+Absatz 1 des Postaufgabenüberleitungsgesetzes vom 22. Dezember 2025
+(BGBl. 2025 I Nr. 345).
 
 
 ### § 4
@@ -68,16 +69,15 @@ Das Brief- und Postgeheimnis nach Artikel 10 des Grundgesetzes wird
 nach Maßgabe der §§ 2 und 3 eingeschränkt.
 
 
-## Zweiter Abschnitt - 
-
+## Zweiter Abschnitt
 
 
 ### § 5
 
-(1) Es ist verboten, Filme, die nach ihrem Inhalt dazu geeignet sind,
-als Propagandamittel gegen die freiheitliche demokratische
-Grundordnung oder gegen den Gedanken der Völkerverständigung zu
-wirken, in den räumlichen Geltungsbereich dieses Gesetzes zu
+(1) Es ist verboten, Filme, die nach ihrem Inhalt dazu geeignet
+sind, als Propagandamittel gegen die freiheitliche demokratische
+Grundordnung oder gegen den Gedanken der Völkerverständigung
+zu wirken, in den räumlichen Geltungsbereich dieses Gesetzes zu
 verbringen, soweit dies dem Zweck der Verbreitung dient. Dieses Verbot
 steht der Abfertigung durch die Zolldienststellen nicht entgegen.
 
@@ -118,17 +118,15 @@ Ausfuhrkontrolle (BAFA).
 ### (XXXX) §§ 7 bis 10 (weggefallen)
 
 
-
-## Dritter Abschnitt - 
-
+## Dritter Abschnitt
 
 
 ### § 11
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
-Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
-im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes
-erlassen werden, gelten im Land Berlin nach § 14 des Dritten
+Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S.
+1) auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses
+Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
 
 

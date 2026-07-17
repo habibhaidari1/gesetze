@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl I: 1994, 3667
 
 
-
 ## (XXXX)
 
 Nachstehend mache ich den Organisationserlaß des Bundeskanzlers vom
@@ -32,16 +31,11 @@ Wirkung vom 17. November 1994 an:
         neuen Bundesministerium für Familie, Senioren, Frauen und Jugend
         zusammengelegt.
 
-
     b)  Dem Bundesministerium für Gesundheit wird die Zuständigkeit für
         Sozialhilfe aus dem Geschäftsbereich des bisherigen Bundesministeriums
         für Familie und Senioren übertragen. Die Einzelheiten des Übergangs
         werden zwischen den beteiligten Bundesministerien geregelt und dem
         Chef des Bundeskanzleramtes mitgeteilt.
-
-
-
-
 
 2.  Bundesministerium für Bildung, Wissenschaft, Forschung und Technologie
 
@@ -49,9 +43,6 @@ Wirkung vom 17. November 1994 an:
     bisherige Bundesministerium für Forschung und Technologie werden zu
     einem neuen Bundesministerium für Bildung, Wissenschaft, Forschung und
     Technologie zusammengelegt."
-
-
-
 
 Der Chef des Bundeskanzleramtes
 

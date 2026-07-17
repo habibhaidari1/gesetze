@@ -1,7 +1,5 @@
 ---
-Title: Verordnung zu der deutsch-österreichischen Vereinbarung vom 26. November 1993/10.
-  Januar 1994 über die zeitweilige Grenzabfertigung an bestimmten Grenzübergängen
-  auf deutschem und auf österreichischem Gebiet
+Title: Verordnung zu der deutsch-österreichischen Vereinbarung vom 26. November 1993/10. Januar 1994 über die zeitweilige Grenzabfertigung an bestimmten Grenzübergängen auf deutschem und auf österreichischem Gebiet
 jurabk: GrAbfAUTVbgV
 layout: default
 origslug: grabfautvbgv
@@ -16,9 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl II: 1994, 125
-
-Diese V tritt gem. § 2 Abs. 2 an dem Tag außer Kraft, an dem die
-Vereinbarung vom 26. November 1993/10. Januar 1994 außer Kraft tritt.
 
 
 ## Eingangsformel

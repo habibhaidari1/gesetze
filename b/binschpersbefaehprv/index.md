@@ -1,5 +1,5 @@
 ---
-Title: Verordnung über die Durchführung von Befähigungsprüfungen nach der Binnenschiffspersonalverordnung
+Title: Verordnung über die Durchführung von Befähigungsprüfungen auf Führungsebene nach der Binnenschiffspersonalverordnung
 jurabk: BinSchPersBefähPrV
 layout: default
 origslug: binschpersbef_hprv
@@ -7,7 +7,7 @@ slug: binschpersbefaehprv
 
 ---
 
-# Verordnung über die Durchführung von Befähigungsprüfungen nach der Binnenschiffspersonalverordnung (BinSchPersBefähPrV)
+# Verordnung über die Durchführung von Befähigungsprüfungen auf Führungsebene nach der Binnenschiffspersonalverordnung (BinSchPersBefähPrV)
 
 Ausfertigungsdatum
 :   2021-12-21
@@ -15,14 +15,17 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: AT 14.01.2022 V2
 
+Geändert durch
+:   Art. 1 V v. 14.6.2024 I Nr. 193
+
 
 ## Eingangsformel
 
 Auf Grund des § 3 Absatz 1 Nummer 6a des
-Binnenschifffahrtsaufgabengesetzes in der Fassung der Bekanntmachung
-vom 5. Juli 2001 (BGBl. I S. 2026) in Verbindung mit § 76 der
-Binnenschiffspersonalverordnung vom 26. November 2021 (BGBl. I S.
-4982), von denen § 3 Absatz 1 Nummer 6a des
+Binnenschifffahrtsaufgabengesetzes in der Fassung der
+Bekanntmachung vom 5. Juli 2001 (BGBl. I S. 2026) in Verbindung
+mit § 76 der Binnenschiffspersonalverordnung vom 26. November
+2021 (BGBl. I S. 4982), von denen § 3 Absatz 1 Nummer 6a des
 Binnenschifffahrtsaufgabengesetzes durch Artikel 3 Nummer 1 des
 Gesetzes vom 22. November 2011 (BGBl. I S. 2279) geändert worden ist,
 verordnet die Generaldirektion Wasserstraßen und Schifffahrt:
@@ -38,13 +41,9 @@ Unionspatentes sowie folgender besonderer Berechtigungen:
 
 1.  Wasserstraßen mit maritimem Charakter
 
-
 2.  Wasserstraßen mit besonderem Risiko
 
-
 3.  Fahren unter Radar.
-
-
 
 Außerdem wird in der Prüfungsverordnung das Prüfungsverfahren zum
 Erwerb von Schifferzeugnissen geregelt.
@@ -63,15 +62,15 @@ Binnenschiffspersonalverordnung.
 
 ### § 3 Prüfungsformen und Hilfsmittel
 
-(1) Eine schriftliche oder digitale Prüfung findet im Antwort-Wahl-
-Verfahren statt, bei der die für das Bestehen der Prüfung
+(1) Eine schriftliche oder digitale Prüfung findet im Antwort-
+Wahl-Verfahren statt, bei der die für das Bestehen der Prüfung
 erforderliche Leistung ausschließlich durch Markieren vorgegebener
 Antworten erbracht wird.
 
 (2) Bei einer schriftlichen Prüfung werden papiergebundene Fragebögen
 ausgegeben. Bei einer digitalen Prüfung werden die Antwort-Wahl-Fragen
-am Bildschirm angezeigt. Schriftliche Arbeiten sind durch die an der
-Prüfung teilnehmende Person mit Name und Datum zu versehen. Bei einer
+am Bildschirm angezeigt. Schriftliche Arbeiten sind mit dem Namen der
+zu prüfenden Person und dem Datum der Prüfung zu versehen. Bei einer
 digitalen Prüfung sind die Eingaben der an der Prüfung teilnehmenden
 Person elektronisch zuzuordnen.
 
@@ -80,29 +79,34 @@ theoretischen Prüfung und einer praktischen Prüfung mit den Teilen
 Reiseplanung und Reisedurchführung. Im Falle des § 38 Absatz 4 der
 Binnenschiffspersonalverordnung bildet die Prüfung der zusätzlichen
 Anforderungen (Zusatzmodul) einen weiteren zusätzlichen theoretischen
-und praktischen Prüfungsteil. Der Prüfungsteil Reisedurchführung kann
-nur abgelegt werden, wenn die
-theoretische              Prüfung und der Prüfungsteil Reiseplanung
-und soweit erforderlich das Zusatzmodul erfolgreich bestanden wurden.
+und praktischen Prüfungsteil. Der Prüfungsteil Reisedurchführung
+kann nur abgelegt werden, wenn die theoretische Prüfung und der
+Prüfungsteil Reiseplanung und soweit erforderlich das Zusatzmodul
+erfolgreich bestanden wurden.
 
-(4) Die Schiffsführerprüfung für ein Schifferzeugnis besteht aus einer
-theoretischen und einer praktischen Prüfung. Die praktische Prüfung
-kann nur abgelegt werden, wenn die theoretische Prüfung erfolgreich
-bestanden wurde.
+(4) Die Schiffsführerprüfung für ein Schifferzeugnis besteht
+aus einer theoretischen und einer praktischen Prüfung. Die
+praktische Prüfung entfällt in den Fällen des § 40 Absatz 4 der
+Binnenschiffspersonalverordnung. Die praktische Prüfung soll nur
+abgelegt werden, wenn zuvor die theoretische Prüfung bestanden wurde.
 
-(5) Die Prüfung für die besondere Berechtigung für Radar besteht aus
-einer theoretischen und einer praktischen Prüfung. Die Reihenfolge der
-Prüfungsteile ist veränderlich.
+(5) Die Reihenfolge der beiden Prüfungsteile für die besondere
+Berechtigung für Radar legt die Prüfungsbehörde nach pflichtgemäßem
+Ermessen fest.
 
 (6) Soweit für das Ablegen einzelner Prüfungen oder Prüfungsteile
 notwendig, werden dem Prüfling schriftliche oder technische
-Hilfsmittel zur Verfügung gestellt.
+Hilfsmittel zur Verfügung gestellt. Die Prüfungsbehörde veröffentlicht
+die von ihr zur Verfügung gestellten Hilfsmittel.
 
 
 ### § 4 Veröffentlichung
 
-Die Aufgabenstellung der Musterprüfung zur Reiseplanung (ohne Lösung)
-wird veröffentlicht.
+Unbeschadet des Satzes 2 darf die Prüfungsbehörde die Aufgaben-
+und Fragestellungen für die Prüfungen nach dieser Verordnung
+nicht veröffentlichen. Die Aufgabenstellung einer Musterprüfung
+zum Prüfungsteil Reiseplanung kann die Prüfungsbehörde ohne die
+entsprechende Lösung veröffentlichen.
 
 
 ## Abschnitt 2 - Anmeldung und Zulassung
@@ -117,27 +121,19 @@ Binnenschiffspersonalverordnung.
 
 1.  Art des Befähigungszeugnisses, das erworben werden soll,
 
-
 2.  gewünschter Prüfungsort und gewünschter Prüfungstermin, für den die
     Zulassung beantragt wird,
 
-
 3.  Vor- und Familienname und Geburtsdatum der antragstellenden Person,
 
-
 4.  Anschrift der Person nach Nummer 3,
-
 
 5.  E-Mail-Adresse oder Telefonnummer der Person nach Nummer 3 für
     Rückfragen,
 
-
 6.  einen Antrag auf Nachteilsausgleiche nach § 71 der
     Binnenschiffspersonalverordnung sowie die ihn begründenden Umstände,
     soweit dies von der Person nach Nummer 3 gewünscht ist.
-
-
-
 
 (3) Dem Antrag sind folgende Unterlagen beizufügen:
 
@@ -146,41 +142,32 @@ Binnenschiffspersonalverordnung.
 
     a)  Ärztliches Zeugnis nach Anlage 5 der Binnenschiffspersonalverordnung,
 
+    b)  Kopie oder Scan des Sprechfunkzeugnisses soweit erforderlich nach § 37
+        oder § 39 der Binnenschiffspersonalverordnung,
 
-    b)  Sprechfunkzeugnis soweit erforderlich nach § 37 oder § 39 der
+    c)  Kopie oder Scan des Fahrzeitennachweises nach § 26 der
         Binnenschiffspersonalverordnung,
-
-
-    c)  Fahrzeitennachweis nach § 26 der Binnenschiffspersonalverordnung,
-
 
     d)  Lichtbild, im Falle einer elektronischen Einreichung des Antrages im
         JPG-Dateiformat mit mindestens 532 x 413 Pixel,
 
-
     e)  den Antrag auf Nachteilsausgleich begründende Unterlagen, insbesondere
         ein ärztliches Attest.
 
-
-
-
-
 2.  Für die Prüfungen zum Erwerb der besonderen Berechtigungen:
 
-    a)  Unionspatent oder Schifferzeugnis und
+    a)  Kopie oder Scan des Unionspatentes oder des Schifferzeugnisses und
 
-
-    b)  für Risikostrecken den Nachweis der Streckenfahrten nach den §§ 26 und
-        42 der Binnenschiffspersonalverordnung.
-
-
-
-
-
+    b)  für Risikostrecken eine Kopie oder einen Scan des
+        Nachweises der Streckenfahrten nach den §§ 26 und 42 der
+        Binnenschiffspersonalverordnung.
 
 Außerdem muss im Falle des Satzes 1 Nummer 1 zur Prüfung des Antrags
 ein Führungszeugnis zur Vorlage bei einer Behörde nach § 30 Absatz 5
-des Bundeszentralregistergesetzes vorliegen.
+des Bundeszentralregistergesetzes vorliegen. Für verbeamtete Bewerber
+und Bewerberinnen kann auf die Vorlage eines Führungszeugnisses
+verzichtet werden. Die Prüfungsbehörde kann jederzeit die Vorlage der
+als Kopie oder Scan einzureichenden Dokumente im Original verlangen.
 
 (4) Spätestens am Tag der Prüfung sind vor Prüfungsbeginn folgende
 Nachweise vorzulegen:
@@ -189,12 +176,8 @@ Nachweise vorzulegen:
     mit Lichtbild in lateinischer Schrift oder bei anderer Schrift durch
     eine amtliche Übersetzung in lateinischer Schrift und
 
-
-2.  im Falle einer elektronischen Antragsstellung die in Absatz 3
-    genannten Dokumente im Original.
-
-
-
+2.  die nach Absatz 3 als Kopie oder Scan einzureichenden Dokumente im
+    Original.
 
 (5) Bei einem Antrag auf Nachteilsausgleich nach § 71 der
 Binnenschiffspersonalverordnung kann die Prüfungsbehörde weitere
@@ -202,15 +185,15 @@ Nachweise verlangen.
 
 (6) Bei der Entscheidung über die Zulassung zur Prüfung ist auch zu
 prüfen, ob der Antragsteller oder die Antragstellerin das Zusatzmodul
-nach § 38 Absatz 4 der Binnenschiffspersonalverordnung ableisten muss.
-Ein gesonderter Antrag ist hierfür nicht erforderlich. Das Zusatzmodul
-ist dann Teil der Schiffsführerprüfung und muss bei der
-Niederrheinischen Industrie- und Handelskammer Duisburg-Wesel-Kleve zu
-Duisburg oder der Industrie- und Handelskammer Magdeburg abgelegt
+nach § 38 Absatz 4 der Binnenschiffspersonalverordnung ableisten
+muss. Ein gesonderter Antrag ist hierfür nicht erforderlich. Das
+Zusatzmodul ist dann Teil der Schiffsführerprüfung und muss bei der
+Niederrheinischen Industrie- und Handelskammer Duisburg-Wesel-Kleve
+zu Duisburg oder der Industrie- und Handelskammer Magdeburg abgelegt
 werden, § 65 Absatz 2 der Binnenschiffspersonalverordnung.
 
-(7) Die Entscheidungen über die Nichtzulassung zur Prüfung und über
-die Ablehnung eines Nachteilsausgleichs nach § 71 der
+(7) Die Entscheidungen über die Nichtzulassung zur Prüfung
+und über die Ablehnung eines Nachteilsausgleichs nach § 71 der
 Binnenschiffspersonalverordnung sind schriftlich unter Angabe von
 Gründen zu bescheiden.
 
@@ -227,17 +210,17 @@ gefälschter Unterlagen oder falscher Angaben ausgesprochen wurde.
 ### § 6 Prüfungstermine, Prüfungsorte und Einladung
 
 (1) Die Prüfungsbehörde setzt vorbehaltlich des Absatzes 4 die
-Prüfungsorte und Prüfungstermine für ein Kalenderjahr im Voraus fest
-und macht diese zusammen mit den Antragsfristen rechtzeitig in
-geeigneter Form bekannt. Die Prüfungsbehörde kann darüber hinaus
+Prüfungsorte und Prüfungstermine für ein Kalenderjahr im Voraus
+fest und macht diese zusammen mit den Antragsfristen rechtzeitig
+in geeigneter Form bekannt. Die Prüfungsbehörde kann darüber hinaus
 weitere Prüfungstermine oder Prüfungsorte in einem Kalenderjahr
 festsetzen.
 
 (2) Die zur Prüfung zugelassenen Personen werden unter Angabe von Ort
 und Beginn der Prüfung schriftlich oder elektronisch eingeladen.
 
-(3) Es besteht kein Anspruch auf einen bestimmten Prüfungstermin oder
-Prüfungsort. Sollte der gewünschte Prüfungstermin nicht oder der
+(3) Es besteht kein Anspruch auf einen bestimmten Prüfungstermin
+oder Prüfungsort. Sollte der gewünschte Prüfungstermin nicht oder der
 gewünschte Prüfungsort nicht oder nicht zeitnah möglich sein, bietet
 die Prüfungsbehörde der Antragstellerin oder dem Antragsteller andere
 mögliche Orte oder Termine an.
@@ -263,11 +246,11 @@ Prüfungsteils nicht teil, ohne dass ein wichtiger Grund vorliegt, so
 gilt die Prüfung insoweit als nicht bestanden. Bereits abgeschlossene
 Prüfungsteile bleiben davon unberührt.
 
-(3) Der wichtige Grund ist unverzüglich nachzuweisen. Im
+(3) Der wichtige Grund ist unverzüglich glaubhaft zu machen. Im
 Krankheitsfall ist die Vorlage eines ärztlichen Attestes erforderlich.
 
 (4) Über das Vorliegen eines wichtigen Grundes entscheidet die
-Prüfungskommission.
+Prüfungsbehörde.
 
 
 ## Abschnitt 3 - Prüfung
@@ -280,19 +263,19 @@ Prüfungskommission.
 (2) Die Prüfungen werden unter Aufsicht durchgeführt.
 
 (3) Die Prüfungsfragen werden jeweils bei der theoretischen Prüfung
-auf der Grundlage eines Fragenkatalogs anhand von Prüfungsbögen und
-bei der praktischen Prüfung anhand von Prüfungsszenarien durch die
-zuständige Behörde zusammengestellt. Die Prüfungsbögen bei der
+auf der Grundlage eines Fragenkatalogs anhand von Prüfungsbögen
+und bei der praktischen Prüfung anhand von Prüfungsszenarien durch
+die zuständige Behörde zusammengestellt. Die Prüfungsbögen bei der
 schriftlichen, digitalen und mündlichen Prüfung werden so erstellt,
 dass sie insgesamt den gleichen Schwierigkeitsgrad aufweisen. Gleiches
-gilt für die Prüfungsszenarien bei einer praktischen Prüfung. Bei der
-Zusammenstellung der Fragen können unterstützend Systeme der
+gilt für die Prüfungsszenarien bei einer praktischen Prüfung. Bei
+der Zusammenstellung der Fragen können unterstützend Systeme der
 elektronischen Datenverarbeitung verwendet werden.
 
 (4) Die Prüfung ist nicht öffentlich. Angehörige der Prüfungsbehörde
 können bei der Prüfung anwesend sein. Zudem kann das vorsitzende
-Mitglied der Prüfungskommission die Teilnahme anderer Personen im
-Einzelfall insbesondere zur Aus- und Fortbildung sowie zur
+Mitglied der Prüfungskommission die Teilnahme anderer Personen
+im Einzelfall insbesondere zur Aus- und Fortbildung sowie zur
 Einarbeitung zulassen. Sie gehören nicht der Prüfungskommission an. An
 der Beratung über das Prüfungsergebnis dürfen nur die Mitglieder der
 Prüfungskommission beteiligt sein.
@@ -317,33 +300,23 @@ Prüfungsprotokoll angefertigt. In dieses sind mindestens
 
 1.  die persönlichen Daten des Prüflings,
 
-
 2.  die Namen der Mitglieder der Prüfungskommission oder der Name der
     Aufsicht führenden Personen,
 
-
 3.  Ort, Beginn und Ende der Prüfung,
-
 
 4.  gewährte Nachteilsausgleiche,
 
-
 5.  Bezeichnung der Prüfungsthemen,
-
 
 6.  Bewertung der Prüfungsergebnisse,
 
-
 7.  Entscheidung der Prüfungskommission über das Bestehen oder
-    Nichtbestehen des Prüflings,
-
+    Nichtbestehen des Prüfungsteils,
 
 8.  Dokumentierung über die Mitteilung des Prüfungsergebnisses sowie
 
-
 9.  besondere Vorkommnisse
-
-
 
 aufzunehmen. Das Prüfungsprotokoll ist von allen Mitgliedern der
 Prüfungskommission zu unterzeichnen.
@@ -377,16 +350,17 @@ Schiffsführerprüfung. Sie wird als praktische Prüfung an einem
 Simulator oder auf einem Binnenschiff abgenommen.
 
 (2) Die Prüfung wird im Ganzen entweder als „bestanden“ oder „nicht
-bestanden“ bewertet. Bei Nachprüfung oder Wiederholungsprüfung sind
-andere Simulatorszenarien bzw. andere praktische Aufgaben zu
+bestanden“ bewertet. Bei Nachprüfung oder Wiederholungsprüfung
+sind andere Simulatorszenarien bzw. andere praktische Aufgaben zu
 verwenden.
 
-(3) Die Prüfung dauert insgesamt zwischen 60 und 90 Minuten.
+(3) Die Prüfung dauert zwischen 90 und 150 Minuten. § 75 Absatz 5 Satz
+3 der Binnenschiffspersonalverordnung bleibt unberührt.
 
 (4) Bei der praktischen Prüfung am Simulator und auf einem fremden
 Binnenschiff ist den Prüflingen nach einer Einweisung Zeit zu geben,
 sich mit dem Steuerstand vertraut zu machen. Diese Vorbereitungszeit
-für Einweisung und Übung beträgt 30 Minuten.
+für Einweisung und Übung beträgt 45 Minuten.
 
 
 ### § 12 Besondere Berechtigung für maritime Wasserstraßen
@@ -394,7 +368,7 @@ für Einweisung und Übung beträgt 30 Minuten.
 (1) Die Prüfung zum Erwerb der besonderen Berechtigung für maritime
 Wasserstraßen wird als mündliche Prüfung durchgeführt.
 
-(2) Die Prüfung dauert 45 Minuten.
+(2) Die Prüfung dauert maximal 60 Minuten.
 
 
 ### § 13 Besondere Berechtigung für Risikostrecken
@@ -406,8 +380,14 @@ Risikostrecken wird als mündliche Prüfung durchgeführt.
 besondere Berechtigung für Risikostrecken erwerben will, frei wählen.
 
 (3) Die Länge der Prüfung ist abhängig von der Länge des zu prüfenden
-Abschnitts und dauert in der Regel
-zwischen 30              und 90 Minuten.
+Abschnitts und dauert in der Regel zwischen 30 und 90 Minuten.
+
+(4) Abweichend von Absatz 1 kann die Prüfung auch als schriftliche
+oder elektronische Prüfung im Antwortwahlverfahren durchgeführt
+werden. Die Prüfungsbehörde veröffentlicht den Zeitpunkt, ab dem die
+Prüfungen in dem Format nach Satz 1 durchgeführt werden, sowie die
+Prüfungsbedingungen, insbesondere die Anzahl der zu beantwortenden
+Fragen sowie die Zeitansätze für die Prüfung.
 
 
 ### § 14 Besondere Berechtigung für Fahren unter Radar
@@ -416,8 +396,8 @@ zwischen 30              und 90 Minuten.
 unter Radar besteht aus einer theoretischen und einer praktischen
 Prüfung. Die theoretische Prüfung wird als schriftliche oder digitale
 Prüfung im Antwort-Wahl-Verfahren durchgeführt. Zur Beantwortung der
-Fragen muss der Bewerber aus jeweils vier Antwortvorschlägen eine oder
-mehrere Antworten durch Ankreuzen als richtig auswählen. Die
+Fragen muss der Bewerber aus jeweils vier Antwortvorschlägen eine
+oder mehrere Antworten durch Ankreuzen als richtig auswählen. Die
 praktische Prüfung findet auf einem Binnenschiff oder am Simulator
 statt.
 
@@ -427,27 +407,29 @@ statt.
 
 ### § 15 Schifferzeugnis
 
-(1) Die Prüfung zum Erwerb eines Schifferzeugnisses besteht aus einer
-theoretischen und einer praktischen Prüfung. Die theoretische Prüfung
-wird als schriftliche oder digitale Prüfung, jeweils im Antwort-Wahl-
-Verfahren durchgeführt. Zur Beantwortung der Fragen muss der Bewerber
-aus jeweils vier Antwortvorschlägen eine oder mehrere Antworten durch
+(1) Die Prüfung zum Erwerb eines Schifferzeugnisses besteht
+aus einer theoretischen und einer praktischen Prüfung. Die
+praktische Prüfung entfällt in den Fällen des § 40 Absatz 4 der
+Binnenschiffspersonalverordnung. Die theoretische Prüfung wird als
+schriftliche oder digitale Prüfung, jeweils im Antwort-Wahl-Verfahren
+durchgeführt. Zur Beantwortung der Fragen muss der Bewerber aus
+jeweils vier Antwortvorschlägen eine oder mehrere Antworten durch
 Ankreuzen als richtig auswählen. Die praktische Prüfung wird auf einem
 Fahrzeug des Typs durchgeführt, für den die Befähigung erworben werden
 soll.
 
 (2) Die höchst zulässige Bearbeitungszeit für die theoretische Prüfung
-beträgt 120 Minuten. Die praktische Prüfung dauert zwischen 45 und 60
-Minuten.
+beträgt 120 Minuten. Die praktische Prüfung dauert zwischen 45 und
+60 Minuten.
 
-(3) Wer eine Prüfung für das Sportschifferzeugnis beantragt, ist unter
-den Voraussetzungen des § 40 Absatz 4 der
+(3) Wer eine Prüfung für das Sportschifferzeugnis beantragt,
+ist unter den Voraussetzungen des § 40 Absatz 4 der
 Binnenschiffspersonalverordnung von der praktischen Prüfung befreit.
 
 (4) Für den Erwerb des Kleinschifferzeugnisses ist unter den
 Voraussetzungen des § 40 Absatz 5 der Binnenschiffspersonalverordnung
-abweichend von Absatz 1 eine theoretische Prüfung ausreichend. Die
-Inhalte der theoretischen Prüfung werden entsprechend den
+abweichend von Absatz 1 eine theoretische Prüfung ausreichend.
+Die Inhalte der theoretischen Prüfung werden entsprechend den
 Anforderungen des § 40 Absatz 5 der Binnenschiffspersonalverordnung
 zusammengestellt.
 
@@ -456,10 +438,11 @@ zusammengestellt.
 
 (1) Die Bewertung der Prüfungsleistung nach § 75 der
 Binnenschiffspersonalverordnung erfolgt durch die Prüfungskommission
-oder bei digitalen Prüfungen durch einen Verwaltungsmitarbeiter oder
-eine Verwaltungsmitarbeiterin der Prüfungsbehörde. Ein Prüfungsteil
-ist entweder bestanden oder nicht bestanden. Die Prüfung ist
-bestanden, wenn alle Prüfungsteile bestanden sind.
+oder bei schriftlichen oder digitalen Prüfungen durch einen
+Verwaltungsmitarbeiter oder eine Verwaltungsmitarbeiterin der
+Prüfungsbehörde. Ein Prüfungsteil ist entweder bestanden oder
+nicht bestanden. Die Prüfung ist bestanden, wenn alle Prüfungsteile
+bestanden sind.
 
 (2) Die bei Antwort-Wahl-Fragen gegebenen Antworten werden entweder
 mit richtig oder falsch bewertet. Die im Fragekatalog vorgegebenen
@@ -480,8 +463,8 @@ auf andere Art miteinander kommunizieren, noch die Prüfungsbearbeitung
 anderer Kandidaten einsehen, noch gegenseitig Gegenstände übergeben.
 Mobilfunkgeräte und vergleichbare elektronische Kommunikationsmittel
 müssen während der Prüfung ausgeschaltet sein. Während der Prüfung
-darf ein Prüfling den Prüfungsraum nicht ohne Zustimmung der Aufsicht
-verlassen. Mobilfunkgeräte und vergleichbare elektronische
+darf ein Prüfling den Prüfungsraum nicht ohne Zustimmung der
+Aufsicht verlassen. Mobilfunkgeräte und vergleichbare elektronische
 Kommunikationsmittel dürfen beim Verlassen des Prüfungsraums während
 der Prüfung nicht mitgeführt werden.
 
@@ -516,11 +499,10 @@ oder erklärt sie für ungültig und fordert sie von ihm zurück.
 
 ### § 20 Bekanntgabe des Prüfungsergebnisses
 
-Nachdem die Prüfungskommission zu einer Bewertung der Prüfungsleistung
-gekommen ist, wird diese dem Prüfling unverzüglich persönlich
-mitgeteilt. Im Falle des Nichtbestehens der Prüfung sind dem Bewerber
-zusätzlich die Gründe schriftlich oder elektronisch durch die
-Prüfungsbehörde mitzuteilen.
+Die Bewertung der Prüfungsleistung wird dem Prüfling unverzüglich
+persönlich mitgeteilt. Im Falle des Nichtbestehens der Prüfung sind
+dem Bewerber zusätzlich die Gründe schriftlich oder elektronisch durch
+die Prüfungsbehörde mitzuteilen.
 
 
 ### § 21 Ausstellung der Bescheinigung
@@ -529,8 +511,8 @@ Prüfungsbehörde mitzuteilen.
 über das Ergebnis der Prüfung. Ist die Prüfung nicht bestanden, erhält
 der Prüfling einen entsprechenden Bescheid mit Rechtsbehelfsbelehrung.
 
-(2) Anstelle einer gesonderten Bescheinigung kann die Prüfungsbehörde
-sofort ein Unionsbefähigungszeugnis, ein vorläufiges
+(2) Anstelle einer gesonderten Bescheinigung kann die
+Prüfungsbehörde sofort ein Unionsbefähigungszeugnis, ein vorläufiges
 Unionsbefähigungszeugnis, eine entsprechende besondere Berechtigung
 oder vorläufige besondere Berechtigung oder ein Schifferzeugnis oder
 ein vorläufiges Schifferzeugnis ausstellen.
@@ -546,8 +528,8 @@ Binnenschiffspersonalverordnung ausstellen zu lassen.
 Frist zur Einlegung eines Rechtsbehelfs Einsicht in seine
 Prüfungsunterlagen zu gewähren.
 
-(2) Die schriftlichen und elektronischen Prüfungsarbeiten sind zwei
-Jahre, Prüfungsprotokolle und Anmeldungen sind zehn Jahre
+(2) Die schriftlichen und elektronischen Prüfungsarbeiten sind
+zwei Jahre, Prüfungsprotokolle und Anmeldungen sind zehn Jahre
 aufzubewahren. Die Aufbewahrungsfrist beginnt mit der Erteilung des
 Befähigungszeugnisses oder mit dem endgültigen Nichtbestehen der
 Prüfung. Der Ablauf der vorgenannten Fristen wird durch das Einlegen

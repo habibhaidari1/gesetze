@@ -28,13 +28,13 @@ berufen und vom Bundespräsidenten ernannt.
 (2) Bei der Berufung eines Richters an einen obersten Gerichtshof
 wirkt der für das jeweilige Sachgebiet zuständige Bundesminister mit.
 
-(3) Die von der Bundesregierung nach Artikel 253 des Vertrags über die
-Arbeitsweise der Europäischen Union (Gesetz vom 8. Oktober 2008 zum
-Vertrag von Lissabon vom 13. Dezember 2007, BGBl. 2008 II S. 1038) zur
-Ernennung zu Richtern und Generalanwälten des Gerichtshofs
-vorzuschlagenden Persönlichkeiten und die von der Bundesregierung nach
-Artikel 254 des Vertrags über die Arbeitsweise der Europäischen Union
-zur Ernennung zu Mitgliedern des Gerichts vorzuschlagenden
+(3) Die von der Bundesregierung nach Artikel 253 des Vertrags über
+die Arbeitsweise der Europäischen Union (Gesetz vom 8. Oktober 2008
+zum Vertrag von Lissabon vom 13. Dezember 2007, BGBl. 2008 II S.
+1038) zur Ernennung zu Richtern und Generalanwälten des Gerichtshofs
+vorzuschlagenden Persönlichkeiten und die von der Bundesregierung
+nach Artikel 254 des Vertrags über die Arbeitsweise der Europäischen
+Union zur Ernennung zu Mitgliedern des Gerichts vorzuschlagenden
 Persönlichkeiten werden von der Bundesregierung im Einvernehmen mit
 dem Richterwahlausschuss benannt.
 
@@ -65,8 +65,8 @@ Landesminister Mitglied kraft Amtes ist.
 Rechtsleben erfahren sein.
 
 (2) Verändert sich die Zahl der Mitglieder kraft Amtes, so verändert
-sich die Zahl der Mitglieder kraft Wahl entsprechend. Ihre Neuwahl ist
-notwendig.
+sich die Zahl der Mitglieder kraft Wahl entsprechend. Ihre Neuwahl
+ist notwendig.
 
 (3) Jedes dieser Mitglieder kann sich durch seinen Stellvertreter
 vertreten lassen.
@@ -77,8 +77,8 @@ vertreten lassen.
 (1) Die Mitglieder kraft Wahl und ihre Stellvertreter beruft der
 Bundestag nach den Regeln der Verhältniswahl.
 
-(2) Jede Fraktion kann einen Vorschlag einbringen. Aus den Summen der
-für jeden Vorschlag abgegebenen Stimmen wird nach dem
+(2) Jede Fraktion kann einen Vorschlag einbringen. Aus den
+Summen der für jeden Vorschlag abgegebenen Stimmen wird nach dem
 Höchstzahlverfahren (d'Hondt) die Zahl der auf jeden Vorschlag
 gewählten Mitglieder errechnet. Gewählt sind die Mitglieder und ihre
 Stellvertreter in der Reihenfolge, in der ihr Name auf dem Vorschlag
@@ -88,8 +88,8 @@ erscheint.
 Scheidet ein Stellvertreter aus, so wird er durch den nächsten aus der
 Reihe der nicht mehr Gewählten ersetzt.
 
-(4) Mitgliedschaft und Stellvertretung enden durch Neuwahl oder durch
-Verzicht, der schriftlich dem Bundesminister der Justiz und für
+(4) Mitgliedschaft und Stellvertretung enden durch Neuwahl oder
+durch Verzicht, der schriftlich dem Bundesminister der Justiz und für
 Verbraucherschutz zu erklären ist.
 
 (5) Jeder neu gewählte Bundestag nimmt eine Neuwahl vor.
@@ -138,11 +138,11 @@ Bundesregierung führt den Vorsitz. Er hat kein Stimmrecht.
 (1) Der zuständige Bundesminister und die Mitglieder des
 Richterwahlausschusses können vorschlagen, wer zum Bundesrichter zu
 berufen ist. Der Bundesminister der Justiz und für Verbraucherschutz
-und die Mitglieder des Richterwahlausschusses können vorschlagen, wer
-im Verfahren nach § 1 Absatz 3 von der Bundesregierung nach Artikel
-253 des Vertrags über die Arbeitsweise der Europäischen Union zum
-Richter oder Generalanwalt des Gerichtshofs benannt werden soll und
+und die Mitglieder des Richterwahlausschusses können vorschlagen,
 wer im Verfahren nach § 1 Absatz 3 von der Bundesregierung nach
+Artikel 253 des Vertrags über die Arbeitsweise der Europäischen Union
+zum Richter oder Generalanwalt des Gerichtshofs benannt werden soll
+und wer im Verfahren nach § 1 Absatz 3 von der Bundesregierung nach
 Artikel 254 des Vertrags über die Arbeitsweise der Europäischen Union
 zum Mitglied des Gerichts benannt werden soll.
 
@@ -178,8 +178,8 @@ Gewählten beim Bundespräsidenten zu beantragen.
 
 ## § 14
 
-Die Mitglieder kraft Wahl erhalten Reisekostenentschädigung nach den
-Bestimmungen des Bundesreisekostengesetzes. Dies gilt nicht für
+Die Mitglieder kraft Wahl erhalten Reisekostenentschädigung nach
+den Bestimmungen des Bundesreisekostengesetzes. Dies gilt nicht für
 Mitglieder des Bundestages, wenn der Richterwahlausschuß an einem
 Sitzungstag des Bundestages am Sitzungsort zusammentritt.
 

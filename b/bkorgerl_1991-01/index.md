@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl I: 1991, 530
 
 
-
 ## I.
 
 Dem Bundesministerium für Gesundheit werden übertragen:
@@ -25,13 +24,9 @@ Dem Bundesministerium für Gesundheit werden übertragen:
     Familie, Frauen und Gesundheit die Zuständigkeit für Gesundheit,
     Verbraucherschutz und Veterinärmedizin,
 
-
--   aus dem Geschäftsbereich des Bundesministeriums für Arbeit und
-    Sozialordnung die Zuständigkeit für Gesundheit und
+-   aus dem Geschäftsbereich des Bundesministeriums für Arbeit
+    und Sozialordnung die Zuständigkeit für Gesundheit und
     Krankenversicherung.
-
-
-
 
 
 ## II.

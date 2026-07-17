@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 21.3.1971 I 337,
 
 Zuletzt geändert durch
-:   Art. 3 G v. 3.3.2020 I 433
-
-Änderung durch
-:   Art. 2 G v. 31.5.2021 I 1221 (Nr. 27) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 31.5.2021 I 1221
 
 
 ## § 1
@@ -32,8 +29,8 @@ Zuletzt geändert durch
 (2) Kreuzungen sind entweder höhengleich (Bahnübergänge) oder nicht
 höhengleich (Überführungen).
 
-(3) Eisenbahnen im Sinne dieses Gesetzes sind die Eisenbahnen, die dem
-öffentlichen Verkehr dienen, sowie die Eisenbahnen, die nicht dem
+(3) Eisenbahnen im Sinne dieses Gesetzes sind die Eisenbahnen, die
+dem öffentlichen Verkehr dienen, sowie die Eisenbahnen, die nicht dem
 öffentlichen Verkehr dienen, wenn die Betriebsmittel auf Eisenbahnen
 des öffentlichen Verkehrs übergehen können (Anschlußbahnen), und
 ferner die den Anschlußbahnen gleichgestellten Eisenbahnen.
@@ -74,18 +71,13 @@ Anordnung im Kreuzungsrechtsverfahren (§§ 6 und 7) Kreuzungen
 
 1.  zu beseitigen oder
 
-
 2.  durch Baumaßnahmen, die den Verkehr an der Kreuzung vermindern, zu
     entlasten oder
-
 
 3.  durch den Bau von Überführungen, durch die Einrichtung technischer
     Sicherungen, insbesondere von Schranken oder Lichtsignalen, durch die
     Herstellung von Sichtflächen an Bahnübergängen, die nicht technisch
     gesichert sind, oder in sonstiger Weise zu ändern.
-
-
-
 
 
 ## § 4
@@ -104,19 +96,19 @@ und betrieblichen Belange sind angemessen zu berücksichtigen.
 
 (1) Über Art, Umfang und Durchführung einer nach § 2 oder § 3
 durchzuführenden Maßnahme sowie über die Verteilung der Kosten sollen
-die Beteiligten eine Vereinbarung treffen. Sehen die Beteiligten vor,
-daß Bund oder Land nach Maßgabe des § 13 Absatz 1 Satz 2 oder Absatz 2
-zu den Kosten beitragen, ohne an der Kreuzung als Straßenbaulastträger
-beteiligt zu sein, so bedarf die Vereinbarung insoweit der
-Genehmigung. Die Genehmigung erteilt für den Bund das
-Bundesministerium für Verkehr und digitale Infrastruktur, für das Land
-die nach Landesrecht zuständige Behörde. In Fällen geringer
+die Beteiligten eine Vereinbarung treffen. Sehen die Beteiligten
+vor, daß Bund oder Land nach Maßgabe des § 13 Absatz 1 Satz 2
+oder Absatz 2 zu den Kosten beitragen, ohne an der Kreuzung als
+Straßenbaulastträger beteiligt zu sein, so bedarf die Vereinbarung
+insoweit der Genehmigung. Die Genehmigung erteilt für den Bund das
+Bundesministerium für Verkehr und digitale Infrastruktur, für das
+Land die nach Landesrecht zuständige Behörde. In Fällen geringer
 finanzieller Bedeutung kann auf die Genehmigung verzichtet werden.
 
-(2) Einer Vereinbarung nach Absatz 1 bedarf es nicht, wenn sich ein
-Beteiligter oder ein Dritter bereit erklärt, die Kosten für die
-Änderung oder Beseitigung eines Bahnübergangs nach § 3 abweichend von
-den Vorschriften dieses Gesetzes allein zu tragen, und für die
+(2) Einer Vereinbarung nach Absatz 1 bedarf es nicht, wenn sich
+ein Beteiligter oder ein Dritter bereit erklärt, die Kosten für die
+Änderung oder Beseitigung eines Bahnübergangs nach § 3 abweichend
+von den Vorschriften dieses Gesetzes allein zu tragen, und für die
 Maßnahme ein Planfeststellungsverfahren durchgeführt wird.
 
 
@@ -152,9 +144,9 @@ Landesrecht zuständige Behörde.
 
 ## § 10
 
-(1) Wird eine Maßnahme nach § 2 oder § 3 angeordnet, so ist über Art
-und Umfang der Maßnahme, über die Duldungspflicht sowie über die
-Rechtsbeziehungen der Beteiligten und die Kostentragung zu
+(1) Wird eine Maßnahme nach § 2 oder § 3 angeordnet, so ist über
+Art und Umfang der Maßnahme, über die Duldungspflicht sowie über
+die Rechtsbeziehungen der Beteiligten und die Kostentragung zu
 entscheiden.
 
 (2) Die Beteiligten sind verpflichtet, der Anordnungsbehörde jede für
@@ -169,8 +161,8 @@ oder ist die Maßnahme bereits durchgeführt, so kann auf Antrag über
 die Kostentragung entschieden werden.
 
 (5) Bestehen zwischen den Beteiligten Meinungsverschiedenheiten
-darüber, ob eine öffentliche Straße nach der Beschaffenheit ihrer
-Fahrbahn geeignet und dazu bestimmt ist, einen allgemeinen
+darüber, ob eine öffentliche Straße nach der Beschaffenheit
+ihrer Fahrbahn geeignet und dazu bestimmt ist, einen allgemeinen
 Kraftfahrzeugverkehr aufzunehmen, so kann die Anordnungsbehörde zur
 Vorbereitung einer Vereinbarung oder einer Anordnung auf Antrag eines
 Beteiligten darüber entscheiden.
@@ -181,9 +173,9 @@ zuzustellen.
 
 ## § 11
 
-(1) Wird eine neue Kreuzung hergestellt, so hat der Beteiligte, dessen
-Verkehrsweg neu hinzukommt, die Kosten der Kreuzungsanlage zu tragen.
-Zu ihnen gehören auch die Kosten der durch die neue Kreuzung
+(1) Wird eine neue Kreuzung hergestellt, so hat der Beteiligte,
+dessen Verkehrsweg neu hinzukommt, die Kosten der Kreuzungsanlage zu
+tragen. Zu ihnen gehören auch die Kosten der durch die neue Kreuzung
 notwendigen Änderungen des anderen Verkehrswegs.
 
 (2) Werden eine Eisenbahn und eine Straße gleichzeitig neu angelegt,
@@ -196,19 +188,15 @@ zu tragen.
 (1) Wird an einer Überführung eine Maßnahme nach § 3 durchgeführt, so
 fallen die dadurch entstehenden Kosten
 
-1.  demjenigen Beteiligten zur Last, der die Änderung verlangt oder sie im
-    Fall einer Anordnung hätte verlangen müssen; Vorteile, die dem anderen
-    Beteiligten durch die Änderung entstehen, sind auszugleichen
+1.  demjenigen Beteiligten zur Last, der die Änderung verlangt oder sie
+    im Fall einer Anordnung hätte verlangen müssen; Vorteile, die dem
+    anderen Beteiligten durch die Änderung entstehen, sind auszugleichen
     (Vorteilsausgleich);
-
 
 2.  beiden Beteiligten zur Last, wenn beide die Änderung verlangen oder
     sie im Fall einer Anordnung hätten verlangen müssen, und zwar in dem
     Verhältnis, in dem die Kosten bei getrennter Durchführung der Änderung
     zueinander stehen würden. Nummer 1 Satz 2 ist entsprechend anzuwenden.
-
-
-
 
 (2) Im Fall des Absatzes 1 Nummer 2 werden die Kosten ohne
 Vorteilsausgleich hälftig geteilt, wenn die Überführung der Kreuzung
@@ -256,21 +244,17 @@ entstehenden persönlichen und sächlichen Aufwendungen.
 
 (2) An Bahnübergängen gehören
 
-1.  zu den Eisenbahnanlagen das sowohl dem Eisenbahnverkehr als auch dem
-    Straßenverkehr dienende Kreuzungsstück, begrenzt durch einen Abstand
-    von 2,25 m, bei Straßenbahnen von 1,00 m jeweils von der äußeren
-    Schiene und parallel zu ihr verlaufend, ferner die Schranken,
-    Warnkreuze (Andreaskreuze) und Blinklichter sowie andere der Sicherung
-    des sich kreuzenden Verkehrs dienende Eisenbahnzeichen und
+1.  zu den Eisenbahnanlagen das sowohl dem Eisenbahnverkehr als auch
+    dem Straßenverkehr dienende Kreuzungsstück, begrenzt durch einen
+    Abstand von 2,25 m, bei Straßenbahnen von 1,00 m jeweils von der
+    äußeren Schiene und parallel zu ihr verlaufend, ferner die Schranken,
+    Warnkreuze (Andreaskreuze) und Blinklichter sowie andere der
+    Sicherung des sich kreuzenden Verkehrs dienende Eisenbahnzeichen und
     -einrichtungen,
-
 
 2.  zu den Straßenanlagen die Sichtflächen, die Warnzeichen und Merktafeln
     (Baken) sowie andere der Sicherung des sich kreuzenden Verkehrs
     dienende Straßenverkehrszeichen und -einrichtungen.
-
-
-
 
 (3) Eisenbahnüberführungen und Schutzerdungsanlagen gehören zu den
 Eisenbahnanlagen, Straßenüberführungen zu den Straßenanlagen.
@@ -280,21 +264,21 @@ Eisenbahnanlagen, Straßenüberführungen zu den Straßenanlagen.
 
 ## § 14a
 
-(1) Wird die Straße eingezogen oder der Betrieb der Eisenbahn dauernd
-eingestellt, so bleiben die Beteiligten verpflichtet, die
+(1) Wird die Straße eingezogen oder der Betrieb der Eisenbahn
+dauernd eingestellt, so bleiben die Beteiligten verpflichtet, die
 Kreuzungsanlagen in dem Umfang zu erhalten und in Betrieb zu halten,
 wie es die Sicherheit oder Abwicklung des Verkehrs auf dem bleibenden
 Verkehrsweg erfordert. Eine nach den Vorschriften des Eisenbahnrechts
 genehmigte Betriebseinstellung gilt nicht als dauernd im Sinne dieser
-Vorschrift, wenn sie mit der Verpflichtung zur weiteren Vorhaltung der
-Anlagen verbunden ist. Die Einziehung der Straße oder die dauernde
+Vorschrift, wenn sie mit der Verpflichtung zur weiteren Vorhaltung
+der Anlagen verbunden ist. Die Einziehung der Straße oder die dauernde
 Einstellung des Betriebs der Eisenbahn ist dem anderen Beteiligten
 unverzüglich mitzuteilen.
 
 (2) Der im Zeitpunkt der Einziehung oder dauernden Betriebseinstellung
 erhaltungspflichtige Beteiligte oder sein Rechtsnachfolger hat
-Kreuzungsanlagen auf seine Kosten zu beseitigen, soweit und sobald es
-die Sicherheit oder Abwicklung des Verkehrs auf dem bleibenden
+Kreuzungsanlagen auf seine Kosten zu beseitigen, soweit und sobald
+es die Sicherheit oder Abwicklung des Verkehrs auf dem bleibenden
 Verkehrsweg erfordert.
 
 (3) Die Verpflichtungen gemäß den Absätzen 1 und 2 kann der weichende
@@ -304,14 +288,14 @@ der Rückbaukosten übertragen.
 (4) Die Beteiligten haben Maßnahmen nach den Absätzen 1 und 2 zu
 dulden.
 
-(5) Die Verpflichtungen des weichenden Beteiligten aus den Absätzen 1
-und 2 erlöschen, wenn die Kreuzungsanlage beseitigt worden ist oder
+(5) Die Verpflichtungen des weichenden Beteiligten aus den Absätzen
+1 und 2 erlöschen, wenn die Kreuzungsanlage beseitigt worden ist oder
 der weichende Beteiligte die Verpflichtungen in einer Vereinbarung
 gemäß Absatz 3 auf den bleibenden Beteiligten übertragen hat.
 
-(6) Der weichende Beteiligte hat dem bleibenden Beteiligten auf dessen
-Antrag sein Eigentum an solchen Grundstücken, die schon bisher von dem
-bleibenden Beteiligten benutzt worden sind oder die für die
+(6) Der weichende Beteiligte hat dem bleibenden Beteiligten auf
+dessen Antrag sein Eigentum an solchen Grundstücken, die schon bisher
+von dem bleibenden Beteiligten benutzt worden sind oder die für die
 Verbesserung des bleibenden Verkehrswegs benötigt werden, mit allen
 Rechten und Pflichten zu übertragen. Für die Übertragung des Eigentums
 ist eine angemessene Entschädigung in Geld zu gewähren, wobei der
@@ -322,15 +306,15 @@ Verkehrswert des Grundstücks zugrunde zu legen ist.
 
 (1) Wird eine neue Kreuzung hergestellt, so hat im Fall des § 11 Abs.
 1 der Beteiligte, dessen Verkehrsweg neu hinzukommt, die hierdurch
-verursachten Erhaltungs- und Betriebskosten dem anderen Beteiligten zu
-erstatten. Im Fall des § 11 Abs. 2 hat jeder Beteiligte seine
+verursachten Erhaltungs- und Betriebskosten dem anderen Beteiligten
+zu erstatten. Im Fall des § 11 Abs. 2 hat jeder Beteiligte seine
 Erhaltungs- und Betriebskosten ohne Ausgleich zu tragen.
 
 (2) Wird an einer Überführung eine Maßnahme nach § 3 durchgeführt, so
 hat der Beteiligte, der nach § 12 Absatz 1 Nr. 1 oder 2 die Maßnahme
-verlangt oder sie im Fall einer Anordnung hätte verlangen müssen, dem
-anderen Beteiligten die hierdurch verursachten Erhaltungskosten zu
-erstatten. Im Fall des § 12 Absatz 2 hat jeder Beteiligte seine
+verlangt oder sie im Fall einer Anordnung hätte verlangen müssen,
+dem anderen Beteiligten die hierdurch verursachten Erhaltungskosten
+zu erstatten. Im Fall des § 12 Absatz 2 hat jeder Beteiligte seine
 Erhaltungs- und Betriebskosten ohne Ausgleich zu tragen.
 
 (3) Wird an einem Bahnübergang eine Maßnahme nach § 3 durchgeführt, so
@@ -350,23 +334,17 @@ mit Zustimmung des Bundesrates Rechtsverordnungen erlassen, durch die
 1.  der Umfang der Kosten nach den §§ 11, 12 und 13 näher bestimmt wird
     und für die Verwaltungskosten Pauschalbeträge festgesetzt werden;
 
-
 2.  bestimmt wird, wie die bei getrennter Durchführung der Maßnahmen nach
     § 12 Nr. 2 entstehenden Kosten unter Anwendung von Erfahrungswerten
     für die Baukosten in vereinfachter Form ermittelt werden;
 
-
-3.  die Berechnung und die Zahlung von Ablösungsbeträgen nach § 15 Abs. 4
-    näher bestimmt sowie dazu ein Verfahren zur gütlichen Beilegung von
+3.  die Berechnung und die Zahlung von Ablösungsbeträgen nach § 15 Abs.
+    4 näher bestimmt sowie dazu ein Verfahren zur gütlichen Beilegung von
     Streitigkeiten festgelegt werden,
-
 
 4.  bei neuartigen Anlagen, die nicht von § 14 Abs. 2 erfaßt werden,
     bestimmt wird, ob sie zu den Eisenbahn- oder zu den Straßenanlagen
     gehören.
-
-
-
 
 (2) Allgemeine Verwaltungsvorschriften erläßt das Bundesministerium
 für Verkehr und digitale Infrastruktur mit Zustimmung des Bundesrates.
@@ -374,8 +352,8 @@ für Verkehr und digitale Infrastruktur mit Zustimmung des Bundesrates.
 
 ## § 17
 
-Zur Förderung des Baus und des Ausbaus kommunaler Radwege sowie von
-Maßnahmen nach den §§ 2 und 3 soll die Anordnungsbehörde den
+Zur Förderung des Baus und des Ausbaus kommunaler Radwege sowie
+von Maßnahmen nach den §§ 2 und 3 soll die Anordnungsbehörde den
 Beteiligten Zuschüsse gewähren.
 
 
@@ -387,8 +365,8 @@ Gesetz sicherzustellen.
 
 ## § 19
 
-(1) Bisherige Vereinbarungen, die sich auf Kreuzungen zwischen Straßen
-und Straßenbahnen, Anschlußbahnen sowie den Anschlußbahnen
+(1) Bisherige Vereinbarungen, die sich auf Kreuzungen zwischen
+Straßen und Straßenbahnen, Anschlußbahnen sowie den Anschlußbahnen
 gleichgestellte Eisenbahnen beziehen, gelten fort.
 
 (2) Die bisherige Kostenregelung für Erhaltungsmaßnahmen, die bei
@@ -398,8 +376,8 @@ bestehen.
 
 (3) Soweit aufgrund von Artikel 6 Abs. 106 Nr. 4 des
 Eisenbahnneuordnungsgesetzes die Erhaltungslast für eine
-Straßenüberführung auf den Straßenbaulastträger übergegangen ist, hat
-der Eisenbahnunternehmer dafür einzustehen, daß er die
+Straßenüberführung auf den Straßenbaulastträger übergegangen
+ist, hat der Eisenbahnunternehmer dafür einzustehen, daß er die
 Straßenüberführung in dem durch die Verkehrsbedeutung gebotenen Umfang
 ordnungsgemäß erhalten und den erforderlichen Grunderwerb durchgeführt
 hat. Als ordnungsgemäßer Erhaltungszustand gilt eine entsprechend

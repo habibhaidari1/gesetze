@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zur Regelung der Verjährung von Ansprüchen wegen unberechtigter oder
-  rechtswidriger Erlangung von Gegenwerten aus Transferrubelgeschäften
+Title: Gesetz zur Regelung der Verjährung von Ansprüchen wegen unberechtigter oder rechtswidriger Erlangung von Gegenwerten aus Transferrubelgeschäften
 jurabk: TrVerjG
 layout: default
 origslug: trverjg
@@ -17,14 +16,13 @@ Fundstelle
 :   BGBl I: 1993, 944, 986
 
 
-
 ## (XXXX)
 
 (1) Ansprüche wegen unberechtigter oder rechtswidriger Erlangung von
 DM-Gegenwerten aus der Verrechnung von Transferrubeln bzw. bilateralen
 Clearingrubeln verjähren unabhängig von ihrem Rechtsgrund in zehn
-Jahren von dem Zeitpunkt an, in dem die für die Geltendmachung der DM-
-Forderungen zuständige Stelle von den den Anspruch begründenden
+Jahren von dem Zeitpunkt an, in dem die für die Geltendmachung der
+DM-Forderungen zuständige Stelle von den den Anspruch begründenden
 Tatsachen und der Person des Verpflichteten Kenntnis erlangt, ohne
 Rücksicht auf diese Kenntnis mit Ablauf des 31. Dezember 2020.
 

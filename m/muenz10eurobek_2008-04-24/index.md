@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert
-  von 10 Euro (Gedenkmünze „125. Geburtstag Franz Kafka“)
+Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze „125. Geburtstag Franz Kafka“)
 jurabk: Münz10EuroBek 2008-04-24
 layout: default
 origslug: m_nz10eurobek_2008-04-24
@@ -19,12 +18,12 @@ Fundstelle
 
 ## (XXXX)
 
-Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
-I S. 2402) hat die Bundesregierung beschlossen, aus Anlass des 125.
-Geburtstages von Franz Kafka eine deutsche Euro-Gedenkmünze im
-Nennwert von 10 Euro prägen zu lassen. Die Auflage der Münze beträgt
-1\.760.000 Stück, darunter maximal 260.000 Stück in
-Spiegelglanzausführung. Die Prägung erfolgt durch die Staatlichen
+Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999
+(BGBl. I S. 2402) hat die Bundesregierung beschlossen, aus
+Anlass des 125. Geburtstages von Franz Kafka eine deutsche Euro-
+Gedenkmünze im Nennwert von 10 Euro prägen zu lassen. Die Auflage
+der Münze beträgt 1.760.000 Stück, darunter maximal 260.000 Stück
+in Spiegelglanzausführung. Die Prägung erfolgt durch die Staatlichen
 Münzen Baden-Württemberg, Prägestätte Karlsruhe.
 
 Die Münze wird ab dem 10. Juli 2008 in den Verkehr gebracht. Sie
@@ -50,7 +49,7 @@ Staatlichen Münzen Baden-Württemberg, Prägestätte Karlsruhe.
 
 Der glatte Münzrand enthält in vertiefter Prägung die Inschrift:
 
-„EIN KÄFIG GING EINEN VOGEL SUCHEN*             “.
+„EIN KÄFIG GING EINEN VOGEL SUCHEN •“.
 
 Dieser berühmte Satz Kafkas ist eine Anspielung auf die tschechische
 Bedeutung seines Namens (kavka = Dohle).
@@ -66,8 +65,4 @@ Der Bundesminister der Finanzen
 ## (XXXX)
 
 ( Fundstelle: BGBl. I 2008, 770 )
-
-*    *        ![bgbl1_2008_j0770-1_0010.jpg](bgbl1_2008_j0770-1_0010.jpg)
-    *        ![bgbl1_2008_j0770-1_0020.jpg](bgbl1_2008_j0770-1_0020.jpg)
-
 

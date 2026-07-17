@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zur Durchführung des mittelfristigen finanziellen Beistands in der Europäischen
-  Wirtschaftsgemeinschaft
+Title: Gesetz zur Durchführung des mittelfristigen finanziellen Beistands in der Europäischen Wirtschaftsgemeinschaft
 jurabk: EWGFinBeistG
 layout: default
 origslug: ewgfinbeistg
@@ -17,11 +16,10 @@ Fundstelle
 :   BGBl I: 1971, 2156
 
 
-
 ## Art 1
 
-(1) Hat die Bundesrepublik Deutschland im Rahmen des Mechanismus für
-den mittelfristigen finanziellen Beistand, der vom Rat der
+(1) Hat die Bundesrepublik Deutschland im Rahmen des Mechanismus
+für den mittelfristigen finanziellen Beistand, der vom Rat der
 Europäischen Gemeinschaften mit Entscheidung vom 22. März 1971
 (Amtsblatt der Europäischen Gemeinschaften Nr. L 73/15 vom 27. März
 1971) eingeführt worden ist, Kredite zu gewähren oder Forderungen zu

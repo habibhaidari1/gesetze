@@ -1,6 +1,5 @@
 ---
-Title: Anordnung über die Ernennung und Entlassung von Beamten und Beamtinnen im Bereich
-  des Direktoriums der Deutschen Bundespost
+Title: Anordnung über die Ernennung und Entlassung von Beamten und Beamtinnen im Bereich des Direktoriums der Deutschen Bundespost
 jurabk: DBPDirErnAnO
 layout: default
 origslug: dbpdirernano
@@ -17,7 +16,6 @@ Fundstelle
 :   BGBl I: 1990, 2050
 
 
-
 ## I.
 
 Auf Grund des Artikels 1 der Anordnung des Bundespräsidenten über die
@@ -28,13 +26,10 @@ zur Ernennung und Entlassung der Bundesbeamten und Bundesbeamtinnen
 der Besoldungsgruppen A 1 bis A 13 (gehobener Dienst) - je für ihren
 Geschäftsbereich -
 
-*   den Vorstandsmitgliedern für personelle und soziale Aufgaben der
+-   den Vorstandsmitgliedern für personelle und soziale Aufgaben der
     Unternehmen der Deutschen Bundespost,
 
     dem Präsidenten des Sozialamts der Deutschen Bundespost.
-
-
-
 
 
 ## II.
@@ -47,8 +42,8 @@ in Abschnitt I genannten Beamten und Beamtinnen vor.
 
 Diese Anordnung tritt mit Wirkung vom 11. Juni 1990 in Kraft.
 Gleichzeitig tritt insoweit die Anordnung über die Ernennung und
-Entlassung von Beamten im Geschäftsbereich des Bundesministers für das
-Post- und Fernmeldewesen vom 6. Juli 1982 (BGBl. I S. 959) außer
+Entlassung von Beamten im Geschäftsbereich des Bundesministers für
+das Post- und Fernmeldewesen vom 6. Juli 1982 (BGBl. I S. 959) außer
 Kraft.
 
 

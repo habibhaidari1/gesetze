@@ -41,27 +41,19 @@ zuständige Behörde es zur Bekämpfung der Reblaus anordnet,
 1.  Reben auf das Auftreten der Reblaus zu überwachen, zu untersuchen oder
     untersuchen zu lassen,
 
-
 2.  Befallsgegenstände zu vernichten, zu entseuchen oder entseuchen zu
     lassen,
-
 
 3.  befallenes oder befallsverdächtiges Anbaumaterial von Rebe (Pflanzgut
     von Rebe) nicht in den Verkehr zu bringen,
 
-
 4.  befallene oder befallsverdächtige Grundstücke von solchen Reben, die
     anfällig für die Wurzelreblaus sind, freizumachen oder freizuhalten,
-
 
 5.  Befallsgegenstände von befallenen oder befallsverdächtigen
     Grundstücken nicht zu entfernen,
 
-
 6.  die Reblaus auf andere Weise zu bekämpfen oder bekämpfen zu lassen.
-
-
-
 
 
 ## § 3 Verkehr mit Pflanzgut von Rebe
@@ -88,11 +80,8 @@ wenn sie einer Sorte angehört, die
 
 1.  in der Prüfung zur Sortenzulassung oder
 
-
 2.  als Ergebnis einer Prüfung durch das Julius Kühn-Institut,
     Bundesforschungsinstitut für Kulturpflanzen,
-
-
 
 auf den Befall durch diesen Schadorganismus keine oder gegenüber dem
 Leitbündel deutlich abgegrenzte Knoten (Tuberositäten) ausbildet. Das
@@ -104,14 +93,10 @@ gelten, im Bundesanzeiger bekannt.
 
 1.  Anordnungen über die Beschränkung des Anbaus nach Absatz 1 treffen,
 
-
 2.  für wissenschaftliche Untersuchungen und Versuche und für
     Züchtungsvorhaben Ausnahmen von dieser Beschränkung zulassen, soweit
     hierdurch die Bekämpfung der Reblaus nicht beeinträchtigt wird und
     keine Gefahr einer Ausbreitung entsteht.
-
-
-
 
 
 ## § 5 Verbot des Züchtens und Haltens
@@ -140,27 +125,19 @@ Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 1.  entgegen § 1 die Anzeige nicht, nicht richtig oder nicht rechtzeitig
     erstattet,
 
-
-1a. einer vollziehbaren Anordnung nach § 2 oder § 4 Absatz 3 Nummer 1
-    zuwiderhandelt,
-
+1a. einer vollziehbaren Anordnung nach § 2 oder § 4 Absatz 3 Nummer
+    1 zuwiderhandelt,
 
 2.  entgegen § 3 Abs. 1 Pflanzgut von Rebe in eine nicht befallene
     Gemeinde oder einen nicht befallenen Ortsteil verbringt,
 
-
 3.  entgegen § 4 Abs. 1 Wurzelreben anbaut,
-
 
 4.  entgegen § 5 Abs. 1 die Reblaus züchtet oder hält oder mit ihr
     arbeitet oder
 
-
 5.  einer mit einer Genehmigung nach § 5 Absatz 2 verbundenen
     vollziehbaren Auflage zuwiderhandelt.
-
-
-
 
 
 ## § 8 Inkrafttreten

@@ -1,8 +1,5 @@
 ---
-Title: Anordnung zur Übertragung von Zuständigkeiten im Widerspruchsverfahren und
-  über die Vertretung von Klagen aus dem Beamtenverhältnis für die Beamtinnen und
-  Beamten des Sekretariats des Bundesrates in Angelegenheiten der Besoldung, des Trennungsgelds,
-  der Umzugskostenvergütung und der Beihilfe
+Title: Anordnung zur Übertragung von Zuständigkeiten im Widerspruchsverfahren und über die Vertretung von Klagen aus dem Beamtenverhältnis für die Beamtinnen und Beamten des Sekretariats des Bundesrates in Angelegenheiten der Besoldung, des Trennungsgelds, der Umzugskostenvergütung und der Beihilfe
 jurabk: BRSekrZustAnO
 layout: default
 origslug: brsekrzustano
@@ -26,9 +23,9 @@ Geändert durch
 
 Die Zuständigkeit für die Entscheidung über Widersprüche von
 Beamtinnen und Beamten sowie ihrer Hinterbliebenen in Angelegenheiten
-der Besoldung, des Trennungsgelds, der Umzugskostenvergütung und der
-Beihilfe wird im Einvernehmen mit dem Bundesministerium des Innern
-nach § 126 Absatz 3 des Bundesbeamtengesetzes auf das
+der Besoldung, des Trennungsgelds, der Umzugskostenvergütung
+und der Beihilfe wird im Einvernehmen mit dem Bundesministerium
+des Innern nach § 126 Absatz 3 des Bundesbeamtengesetzes auf das
 Bundesverwaltungsamt übertragen, soweit diese Behörde die Maßnahme
 getroffen oder abgelehnt hat.
 
@@ -37,9 +34,9 @@ getroffen oder abgelehnt hat.
 
 Die Vertretung bei Klagen aus dem Beamtenverhältnis in Angelegenheiten
 der Besoldung, des Trennungsgelds, der Umzugskostenvergütung und der
-Beihilfe nach § 1 wird im Einvernehmen mit dem
-Bundesministerium des Innern              nach § 127 Absatz 3 des
-Bundesbeamtengesetzes auf das Bundesverwaltungsamt übertragen.
+Beihilfe nach § 1 wird im Einvernehmen mit dem *Bundesministerium
+des Innern* nach § 127 Absatz 3 des Bundesbeamtengesetzes auf das
+Bundesverwaltungsamt übertragen.
 
 
 ## § 3 Vorbehaltsklausel
@@ -52,7 +49,7 @@ regeln.
 ## § 4 Übergangsregelung
 
 Diese Anordnung gilt auch für Widersprüche und Klagen, die vor ihrem
-Inkrafttreten              erhoben worden sind.
+Inkrafttreten erhoben worden sind.
 
 
 ## § 5 Inkrafttreten

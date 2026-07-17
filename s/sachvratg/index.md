@@ -1,6 +1,5 @@
 ---
-Title: Gesetz über die Bildung eines Sachverständigenrates zur Begutachtung der gesamtwirtschaftlichen
-  Entwicklung
+Title: Gesetz über die Bildung eines Sachverständigenrates zur Begutachtung der gesamtwirtschaftlichen Entwicklung
 jurabk: SachvRatG
 layout: default
 origslug: sachvratg
@@ -28,20 +27,20 @@ der Urteilsbildung bei allen wirtschaftspolitisch verantwortlichen
 Instanzen sowie in der Öffentlichkeit wird ein Rat von unabhängigen
 Sachverständigen gebildet.
 
-(2) Der Sachverständigenrat besteht aus fünf Mitgliedern, die über
-besondere wirtschaftswissenschaftliche Kenntnisse und
+(2) Der Sachverständigenrat besteht aus fünf Mitgliedern, die
+über besondere wirtschaftswissenschaftliche Kenntnisse und
 volkswirtschaftliche Erfahrungen verfügen müssen.
 
 (3) Die Mitglieder des Sachverständigenrates dürfen weder der
-Regierung oder einer gesetzgebenden Körperschaft des Bundes oder eines
-Landes noch dem öffentlichen Dienst des Bundes, eines Landes oder
-einer sonstigen juristischen Person des öffentlichen Rechts, es sei
-denn als Hochschullehrer oder als Mitarbeiter eines wirtschafts- oder
-sozialwissenschaftlichen Institutes, angehören. Sie dürfen ferner
-nicht Repräsentant eines Wirtschaftsverbandes oder einer Organisation
-der Arbeitgeber oder Arbeitnehmer sein oder zu diesen in einem
-ständigen Dienst- oder Geschäftsbesorgungsverhältnis stehen. Sie
-dürfen auch nicht während des letzten Jahres vor der Berufung zum
+Regierung oder einer gesetzgebenden Körperschaft des Bundes oder
+eines Landes noch dem öffentlichen Dienst des Bundes, eines Landes
+oder einer sonstigen juristischen Person des öffentlichen Rechts, es
+sei denn als Hochschullehrer oder als Mitarbeiter eines wirtschafts-
+oder sozialwissenschaftlichen Institutes, angehören. Sie dürfen
+ferner nicht Repräsentant eines Wirtschaftsverbandes oder einer
+Organisation der Arbeitgeber oder Arbeitnehmer sein oder zu diesen
+in einem ständigen Dienst- oder Geschäftsbesorgungsverhältnis stehen.
+Sie dürfen auch nicht während des letzten Jahres vor der Berufung zum
 Mitglied des Sachverständigenrates eine derartige Stellung innegehabt
 haben.
 
@@ -53,10 +52,10 @@ gesamtwirtschaftliche Lage und deren absehbare Entwicklung darstellen.
 Dabei soll er untersuchen, wie im Rahmen der marktwirtschaftlichen
 Ordnung gleichzeitig Stabilität des Preisniveaus, hoher
 Beschäftigungsstand und außenwirtschaftliches Gleichgewicht bei
-stetigem und angemessenem Wachstum gewährleistet werden können. In die
-Untersuchung sollen auch die Bildung und die Verteilung von Einkommen
-und Vermögen einbezogen werden. Insbesondere soll der
-Sachverständigenrat die Ursachen von aktuellen und möglichen
+stetigem und angemessenem Wachstum gewährleistet werden können.
+In die Untersuchung sollen auch die Bildung und die Verteilung
+von Einkommen und Vermögen einbezogen werden. Insbesondere soll
+der Sachverständigenrat die Ursachen von aktuellen und möglichen
 Spannungen zwischen der gesamtwirtschaftlichen Nachfrage und dem
 gesamtwirtschaftlichen Angebot aufzeigen, welche die in Satz 2
 genannten Ziele gefährden. Bei der Untersuchung sollen jeweils
@@ -72,8 +71,8 @@ wirtschafts- und sozialpolitische Maßnahmen aussprechen.
 (1) Der Sachverständigenrat ist nur an den durch dieses Gesetz
 begründeten Auftrag gebunden und in seiner Tätigkeit unabhängig.
 
-(2) Vertritt eine Minderheit bei der Abfassung der Gutachten zu
-einzelnen Fragen eine abweichende Auffassung, so hat sie die
+(2) Vertritt eine Minderheit bei der Abfassung der Gutachten
+zu einzelnen Fragen eine abweichende Auffassung, so hat sie die
 Möglichkeit, diese in den Gutachten zum Ausdruck zu bringen.
 
 
@@ -88,8 +87,8 @@ Stellung zu nehmen.
 
 ## § 5
 
-(1) Der Sachverständigenrat kann, soweit er es zur Durchführung seines
-Auftrages für erforderlich hält, die fachlich zuständigen
+(1) Der Sachverständigenrat kann, soweit er es zur Durchführung
+seines Auftrages für erforderlich hält, die fachlich zuständigen
 Bundesministerien und den Präsidenten der Deutschen Bundesbank hören.
 
 (2) Die fachlich zuständigen Bundesministerien und der Präsident der
@@ -102,19 +101,19 @@ Sachverständigenrat Amtshilfe.
 ## § 6
 
 (1) Der Sachverständigenrat erstattet jährlich ein Gutachten
-(Jahresgutachten) und leitet es der Bundesregierung bis zum 15.
-November zu. Das Jahresgutachten wird den gesetzgebenden
+(Jahresgutachten) und leitet es der Bundesregierung bis zum
+15\. November zu. Das Jahresgutachten wird den gesetzgebenden
 Körperschaften von der Bundesregierung unverzüglich vorgelegt und zum
 gleichen Zeitpunkt vom Sachverständigenrat veröffentlicht. Spätestens
-acht Wochen nach der Vorlage nimmt die Bundesregierung gegenüber den
-gesetzgebenden Körperschaften zu dem Jahrgutachten Stellung. In der
-Stellungnahme sind insbesondere die wirtschaftspolitischen
+acht Wochen nach der Vorlage nimmt die Bundesregierung gegenüber
+den gesetzgebenden Körperschaften zu dem Jahrgutachten Stellung.
+In der Stellungnahme sind insbesondere die wirtschaftspolitischen
 Schlußfolgerungen, die die Bundesregierung aus dem Gutachten zieht,
 darzulegen.
 
 (2) Der Sachverständigenrat hat ein zusätzliches Gutachten zu
-erstatten, wenn auf einzelnen Gebieten Entwicklungen erkennbar werden,
-welche die in § 2 Satz 2 genannten Ziele gefährden. Die
+erstatten, wenn auf einzelnen Gebieten Entwicklungen erkennbar
+werden, welche die in § 2 Satz 2 genannten Ziele gefährden. Die
 Bundesregierung kann den Sachverständigenrat mit der Erstattung
 weiterer Gutachten beauftragen. Der Sachverständigenrat leitet
 Gutachten nach Satz 1 und 2 der Bundesregierung zu und veröffentlicht
@@ -170,8 +169,8 @@ der sonst anfallenden Verwaltungsaufgaben.
 ## § 10
 
 Die Mitglieder des Sachverständigenrates und die Angehörigen der
-Geschäftsstelle sind zur Verschwiegenheit über die Beratungen und die
-vom Sachverständigenrat als vertraulich bezeichneten
+Geschäftsstelle sind zur Verschwiegenheit über die Beratungen
+und die vom Sachverständigenrat als vertraulich bezeichneten
 Beratungsunterlagen verpflichtet. Die Pflicht zur Verschwiegenheit
 bezieht sich auch auf Informationen, die dem Sachverständigenrat
 gegeben und als vertraulich bezeichnet werden.

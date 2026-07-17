@@ -1,6 +1,5 @@
 ---
-Title: Gesetz über den Bau und den Betrieb von Versuchsanlagen zur Erprobung von Techniken
-  für den spurgeführten Verkehr
+Title: Gesetz über den Bau und den Betrieb von Versuchsanlagen zur Erprobung von Techniken für den spurgeführten Verkehr
 jurabk: SpurVerkErprG
 layout: default
 origslug: spurverkerprg
@@ -41,18 +40,18 @@ Benutzungsordnung.
 
 ## § 2 Planfeststellung
 
-(1) Die Errichtung und jede Änderung der Versuchsanlage bedürfen der
-vorherigen Planfeststellung; bei einer Änderung kann die
-Planfeststellung unterbleiben, wenn die beteiligten Behörden und die
-Betroffenen der Änderung zustimmen und es sich bei der Änderung nicht
-um ein Vorhaben handelt, für das nach dem Gesetz über die
+(1) Die Errichtung und jede Änderung der Versuchsanlage bedürfen
+der vorherigen Planfeststellung; bei einer Änderung kann die
+Planfeststellung unterbleiben, wenn die beteiligten Behörden und
+die Betroffenen der Änderung zustimmen und es sich bei der Änderung
+nicht um ein Vorhaben handelt, für das nach dem Gesetz über die
 Umweltverträglichkeitsprüfung eine Umweltverträglichkeitsprüfung
 durchzuführen ist. Bei der Planfeststellung ist die
 Umweltverträglichkeit zu prüfen.
 
 (2) Bei der Planfeststellung sind die von dem Vorhaben berührten
-öffentlichen und privaten Belange abzuwägen. Die Planfeststellung ist
-zu versagen, wenn die Abwägung ergibt, daß der Durchführung des
+öffentlichen und privaten Belange abzuwägen. Die Planfeststellung
+ist zu versagen, wenn die Abwägung ergibt, daß der Durchführung des
 Vorhabens überwiegende öffentliche Belange entgegenstehen.
 
 
@@ -65,9 +64,9 @@ worden ist. Soweit eine abschließende Entscheidung noch nicht möglich
 ist, ist diese im Planfeststellungsbeschluß vorzubehalten. Er ist
 schriftlich abzufassen und schriftlich zu begründen.
 
-(2) Ist der Planfeststellungsbeschluß unanfechtbar geworden, so sind
-Ansprüche auf Unterlassung des Vorhabens, auf Beseitigung oder
-Änderung der Anlage oder auf Unterlassung ihrer Benutzung
+(2) Ist der Planfeststellungsbeschluß unanfechtbar geworden, so
+sind Ansprüche auf Unterlassung des Vorhabens, auf Beseitigung
+oder Änderung der Anlage oder auf Unterlassung ihrer Benutzung
 ausgeschlossen.
 
 
@@ -82,22 +81,22 @@ Bundesministerium für Verkehr und digitale Infrastruktur festgestellt.
 
 ## § 5 Planfeststellungsverfahren
 
-Im übrigen gelten für die Planfeststellung, für das Verfahren bei der
-Planfeststellung und für die vorzeitige Besitzeinweisung § 17 Abs. 4,
-6 und 7, die §§ 18, 18a Abs. 4, 5 und 6, §§ 18b, 18c Abs. 1, §§ 18d
-bis 18f Abs. 6 des Bundesfernstraßengesetzes in der Fassung der
-Bekanntmachung vom 1. Oktober 1974 (Bundesgesetzbl. I S. 2413),
-zuletzt geändert durch
-Artikel 26 des Zuständigkeitslockerungsgesetzes vom 10. März 1975
-(Bundesgesetzbl. I S. 685),              sinngemäß.
+Im übrigen gelten für die Planfeststellung, für das Verfahren
+bei der Planfeststellung und für die vorzeitige Besitzeinweisung
+§ 17 Abs. 4, 6 und 7, die §§ 18, 18a Abs. 4, 5 und 6, §§ 18b,
+18c Abs. 1, §§ 18d bis 18f Abs. 6 des Bundesfernstraßengesetzes
+in der Fassung der Bekanntmachung vom 1. Oktober 1974
+(Bundesgesetzbl. I S. 2413), zuletzt geändert durch *Artikel 26 des
+Zuständigkeitslockerungsgesetzes vom 10. März 1975 (Bundesgesetzbl. I
+S. 685),* sinngemäß.
 
 
 ## § 6 Kreuzungen mit anderen Eisenbahnen und mit Straßen
 
-(1) Erfordert die Linienführung der Versuchsanlage eine Kreuzung mit
-einer anderen Eisenbahn, die dem öffentlichen Verkehr dient, oder mit
-einer öffentlichen Straße, so hat der andere Beteiligte die Kreuzung
-zu dulden; seine verkehrlichen und betrieblichen Belange sind
+(1) Erfordert die Linienführung der Versuchsanlage eine Kreuzung
+mit einer anderen Eisenbahn, die dem öffentlichen Verkehr dient,
+oder mit einer öffentlichen Straße, so hat der andere Beteiligte die
+Kreuzung zu dulden; seine verkehrlichen und betrieblichen Belange sind
 angemessen zu berücksichtigen. Gleiches gilt, wenn die Linienführung
 einer neu zu bauenden Straße oder einer neu zu bauenden Eisenbahn die
 Kreuzung erfordert oder wenn eine Änderung der Kreuzung notwendig ist.
@@ -115,8 +114,8 @@ sinngemäß. Im Falle der Beseitigung einer Kreuzungsanlage gilt § 14a
 Abs. 3 und 4 des Eisenbahnkreuzungsgesetzes sinngemäß.
 
 (4) Die Erhaltungslast für die Kreuzungsanlagen obliegt dem Bund,
-soweit sie durch das Vorhandensein der Versuchsanlage bedingt ist; im
-übrigen obliegt sie dem anderen Kreuzungsbeteiligten. Abweichende
+soweit sie durch das Vorhandensein der Versuchsanlage bedingt ist;
+im übrigen obliegt sie dem anderen Kreuzungsbeteiligten. Abweichende
 Vereinbarungen sind zulässig. Die Erhaltung umfaßt die laufende
 Unterhaltung und die Erneuerung.
 
@@ -142,8 +141,8 @@ oder von dem Zeitpunkt an, zu dem den Betroffenen Gelegenheit gegeben
 wird, den Plan einzusehen, dürfen auf den vom Plan betroffenen Flächen
 bis zu ihrer Inanspruchnahme durch den Bund wesentlich wertsteigernde
 oder die geplanten Baumaßnahmen erheblich erschwerende Veränderungen
-nicht vorgenommen werden (Veränderungssperre). Veränderungen, die in
-rechtlich zulässiger Weise vorher begonnen worden sind,
+nicht vorgenommen werden (Veränderungssperre). Veränderungen,
+die in rechtlich zulässiger Weise vorher begonnen worden sind,
 Unterhaltungsarbeiten und die Fortführung einer bisher ausgeübten
 Nutzung werden hiervon nicht berührt.
 
@@ -162,9 +161,9 @@ Bundesministerium für Verkehr und digitale Infrastruktur nach Anhörung
 der Landesplanungsbehörde durch Rechtsverordnung für die Dauer von
 höchstens zwei Jahren Planungsgebiete festlegen. Die Gemeinden und
 Kreise, deren Bereiche durch die festzulegenden Planungsgebiete
-betroffen sind, sind vorher zu hören. Auf die Planungsgebiete ist
-Absatz 1 sinngemäß anzuwenden. Die Frist kann, wenn besondere Umstände
-es erfordern, durch Rechtsverordnung auf höchstens vier Jahre
+betroffen sind, sind vorher zu hören. Auf die Planungsgebiete
+ist Absatz 1 sinngemäß anzuwenden. Die Frist kann, wenn besondere
+Umstände es erfordern, durch Rechtsverordnung auf höchstens vier Jahre
 verlängert werden. Die Festlegung tritt mit Beginn der Auslegung der
 Pläne im Planfeststellungsverfahren außer Kraft. Ihre Dauer ist auf
 die Vierjahresfrist nach Absatz 2 anzurechnen. Die Rechtsverordnungen
@@ -182,14 +181,14 @@ nicht entgegenstehen.
 
 ## § 8 Vorarbeiten
 
-(1) Eigentümer und sonstige Nutzungsberechtigte haben zur Vorbereitung
-von Planungen notwendige Vermessungen, Boden- und
+(1) Eigentümer und sonstige Nutzungsberechtigte haben zur
+Vorbereitung von Planungen notwendige Vermessungen, Boden- und
 Grundwasseruntersuchungen einschließlich der vorübergehenden
 Anbringung von Markierungszeichen und sonstige Vorarbeiten durch den
 Bund oder von ihm Beauftragte zu dulden.
 
-(2) Die Absicht, solche Arbeiten auszuführen, ist dem Eigentümer oder
-sonstigen Nutzungsberechtigten mindestens zwei Wochen vorher
+(2) Die Absicht, solche Arbeiten auszuführen, ist dem Eigentümer
+oder sonstigen Nutzungsberechtigten mindestens zwei Wochen vorher
 unmittelbar und durch ortsübliche Bekanntmachung in den Gemeinden, in
 deren Bereich die Vorarbeiten durchzuführen sind, bekanntzugeben.
 
@@ -200,20 +199,20 @@ der Bund eine angemessene Entschädigung in Geld zu leisten.
 
 ## § 9 Entschädigung
 
-Kommt in den Fällen des § 7 Abs. 2 Satz 1 oder des § 8 Abs. 3 eine
-Einigung über die Geldentschädigung nicht zustande, setzt die nach
-Landesrecht zuständige Behörde auf Antrag des Bundes oder des
+Kommt in den Fällen des § 7 Abs. 2 Satz 1 oder des § 8 Abs. 3
+eine Einigung über die Geldentschädigung nicht zustande, setzt die
+nach Landesrecht zuständige Behörde auf Antrag des Bundes oder des
 Berechtigten die Entschädigung fest. Vor der Entscheidung sind die
 Beteiligten zu hören.
 
 
 ## § 10 Enteignung
 
-(1) Für Zwecke des Baues und der Änderung der Versuchsanlage ist die
-Enteignung zulässig, soweit sie zur Ausführung des nach den
+(1) Für Zwecke des Baues und der Änderung der Versuchsanlage ist
+die Enteignung zulässig, soweit sie zur Ausführung des nach den
 Vorschriften dieses Gesetzes festgestellten Vorhabens notwendig ist.
-Einer weiteren Feststellung der Zulässigkeit der Enteignung bedarf es
-nicht.
+Einer weiteren Feststellung der Zulässigkeit der Enteignung bedarf
+es nicht.
 
 (2) Der festgestellte Plan ist dem Enteignungsverfahren zugrunde zu
 legen und für die Enteignungsbehörde bindend.
@@ -253,8 +252,8 @@ andere Behörden finden insoweit nicht statt.
 
 ## § 12 Andere Versuchsanlagen
 
-(1) Die §§ 2, 3, 5 bis 9 gelten sinngemäß auch in den Fällen, in denen
-Versuchsanlagen zur Erprobung von Techniken für den öffentlichen
+(1) Die §§ 2, 3, 5 bis 9 gelten sinngemäß auch in den Fällen, in
+denen Versuchsanlagen zur Erprobung von Techniken für den öffentlichen
 spurgeführten Verkehr von anderen Stellen im öffentlichen Interesse
 errichtet und betrieben werden sollen. Die Zulässigkeit der Enteignung
 bestimmt sich in diesen Fällen nach den Vorschriften des Landesrechts.
@@ -297,20 +296,19 @@ ursprünglichen Zustand wiederherzustellen.
 
 ## § 15 Fortgeltung anderer Gesetze
 
-Das Bundesbahngesetz vom 13. Dezember 1951 (Bundesgesetzbl. I S. 955),
-zuletzt geändert durch
-Artikel 2 § 2 des Vierten Gesetzes zur Änderung des Gesetzes über das
-Bundesverfassungsgericht vom 21. Dezember 1970 (Bundesgesetzbl. I S.
-1765),              sowie die Eisenbahngesetze der Länder bleiben
-unberührt.
+Das Bundesbahngesetz vom 13. Dezember 1951 (Bundesgesetzbl. I S.
+955), zuletzt geändert durch *Artikel 2 § 2 des Vierten Gesetzes
+zur Änderung des Gesetzes über das Bundesverfassungsgericht vom 21.
+Dezember 1970 (Bundesgesetzbl. I S. 1765),* sowie die Eisenbahngesetze
+der Länder bleiben unberührt.
 
 
 ## § 16 Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
-Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
-im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes
-erlassen werden, gelten im Land Berlin nach § 14 des Dritten
+Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S.
+1) auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses
+Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
 
 

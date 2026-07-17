@@ -1,6 +1,5 @@
 ---
-Title: Zweiundzwanzigste Verordnung zur Durchführung des Gesetzes über Arbeitsvermittlung
-  und Arbeitslosenversicherung (Fach- und Führungskräfte aus Entwicklungsländern)
+Title: Zweiundzwanzigste Verordnung zur Durchführung des Gesetzes über Arbeitsvermittlung und Arbeitslosenversicherung (Fach- und Führungskräfte aus Entwicklungsländern)
 jurabk: AVAVGDV 22
 layout: default
 origslug: avavgdv_22
@@ -39,20 +38,14 @@ mitzuwirken
 
 1.  bei der Auswahl der Teilnehmer an Aus- und Fortbildungsprogrammen,
 
-
 2.  bei der Aufstellung und Anpassung der individuellen Aus- und
     Fortbildungspläne mit dem Ziel einer angemessenen betrieblichen Aus-
     und Fortbildung,
 
-
 3.  bei der Vermittlung angemessener Fortbildungspraktika,
-
 
 4.  bei der Erbringung von zur Aus- und Fortbildung erforderlichen
     Geldleistungen.
-
-
-
 
 
 ## § 2

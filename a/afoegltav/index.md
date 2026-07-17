@@ -1,7 +1,5 @@
 ---
-Title: Verordnung über die Ausbildungsförderung für den Besuch von Ausbildungsstätten
-  für landwirtschaftlich-technische, milchwirtschaftlich-technische und biologisch-technische
-  Assistentinnen und Assistenten
+Title: Verordnung über die Ausbildungsförderung für den Besuch von Ausbildungsstätten für landwirtschaftlich-technische, milchwirtschaftlich-technische und biologisch-technische Assistentinnen und Assistenten
 jurabk: AfögLTAV
 layout: default
 origslug: af_gltav
@@ -16,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 1971, 1606
-
 
 
 ## Eingangsformel
@@ -35,19 +32,14 @@ geleistet für den Besuch von Ausbildungsstätten für
 
 1.  landwirtschaftlich-technische Assistentinnen und Assistenten,
 
-
 2.  milchwirtschaftlich-technische Assistentinnen und Assistenten,
-
 
 3.  biologisch-technische Assistentinnen und Assistenten.
 
-
-
-
-(2) Ausbildungsförderung wird nur geleistet, wenn die Ausbildung an
-einer öffentlichen oder an einer durch die zuständige Landesbehörde
-staatlich anerkannten oder genehmigten Einrichtung durchgeführt wird.
-Diesen Einrichtungen sind Ausbildungsstätten von
+(2) Ausbildungsförderung wird nur geleistet, wenn die Ausbildung
+an einer öffentlichen oder an einer durch die zuständige
+Landesbehörde staatlich anerkannten oder genehmigten Einrichtung
+durchgeführt wird. Diesen Einrichtungen sind Ausbildungsstätten von
 Bundesforschungsanstalten gleichgestellt, sofern die Ausbildung nach
 den Ausbildungs- und Prüfungsbestimmungen der Länder durchgeführt
 wird.

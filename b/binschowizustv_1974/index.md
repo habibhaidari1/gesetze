@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Zuständigkeit der Generaldirektion Wasserstraßen und Schifffahrt
-  für die Verfolgung und Ahndung bestimmter Ordnungswidrigkeiten
+Title: Verordnung über die Zuständigkeit der Generaldirektion Wasserstraßen und Schifffahrt für die Verfolgung und Ahndung bestimmter Ordnungswidrigkeiten
 jurabk: BinSchOWiZustV 1974
 layout: default
 origslug: binschowizustv_1974
@@ -22,8 +21,8 @@ Zuletzt geändert durch
 
 ## Eingangsformel
 
-Auf Grund des § 36 Abs. 3 des Gesetzes über Ordnungswidrigkeiten vom
-24\. Mai 1968 (Bundesgesetzbl. I S. 481), zuletzt geändert durch
+Auf Grund des § 36 Abs. 3 des Gesetzes über Ordnungswidrigkeiten
+vom 24. Mai 1968 (Bundesgesetzbl. I S. 481), zuletzt geändert durch
 Artikel 29 des Einführungsgesetzes zum Strafgesetzbuch vom 2. März
 1974 (Bundesgesetzbl. I S. 469), wird verordnet:
 
@@ -31,8 +30,8 @@ Artikel 29 des Einführungsgesetzes zum Strafgesetzbuch vom 2. März
 ## § 1
 
 Die Zuständigkeit für die Verfolgung und Ahndung von
-Ordnungswidrigkeiten nach § 2 des Gesetzes zur Ausführung des
-internationalen Vertrages zum Schutze der unterseeischen
+Ordnungswidrigkeiten nach § 2 des Gesetzes zur Ausführung
+des internationalen Vertrages zum Schutze der unterseeischen
 Telegraphenkabel vom 14. März 1884 in der im Bundesgesetzblatt Teil
 III, Gliederungsnummer 453–14, veröffentlichten, bereinigten Fassung,
 das durch Artikel 151 des Gesetzes vom 2. März 1974 (BGBl. I S. 469)

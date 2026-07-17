@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zu dem Übereinkommen vom 29. Oktober 1971 zum Schutz der Hersteller
-  von Tonträgern gegen die unerlaubte Vervielfältigung ihrer Tonträger
+Title: Gesetz zu dem Übereinkommen vom 29. Oktober 1971 zum Schutz der Hersteller von Tonträgern gegen die unerlaubte Vervielfältigung ihrer Tonträger
 jurabk: TonTrÜbkG
 layout: default
 origslug: tontr_bkg
@@ -17,7 +16,6 @@ Fundstelle
 :   BGBl II: 1973, 1669
 
 
-
 ## Art 1
 
 Dem in Genf am 29. Oktober 1971 von der Bundesrepublik Deutschland
@@ -28,17 +26,17 @@ Das Übereinkommen wird nachstehend veröffentlicht.
 
 ## Art 2
 
-(1) Angehörige eines Vertragsstaats des Übereinkommens und Unternehmen
-mit Sitz in einem Vertragsstaat des Übereinkommens genießen vom
-Zeitpunkt des Inkrafttretens des Übereinkommens für die Bundesrepublik
-Deutschland an für ihre Tonträger die in § 85 des
-Urheberrechtsgesetzes vom 9. September 1965 (Bundesgesetzbl. I S.
-1273), zuletzt geändert durch
-das Gesetz zur Änderung des Urheberrechtsgesetzes vom 10. November
-1972 (Bundesgesetzbl. I S. 2081),              vorgesehenen Rechte mit
-der Maßgabe, daß Schutz nur gegen die in Artikel 2 des Übereinkommens
-genannten Handlungen gewährt wird. Bei Verletzung dieser Rechte ist
-auch § 108 Nr. 5 des Urheberrechtsgesetzes anzuwenden.
+(1) Angehörige eines Vertragsstaats des Übereinkommens und
+Unternehmen mit Sitz in einem Vertragsstaat des Übereinkommens
+genießen vom Zeitpunkt des Inkrafttretens des Übereinkommens für
+die Bundesrepublik Deutschland an für ihre Tonträger die in § 85
+des Urheberrechtsgesetzes vom 9. September 1965 (Bundesgesetzbl.
+I S. 1273), zuletzt geändert durch *das Gesetz zur Änderung des
+Urheberrechtsgesetzes vom 10. November 1972 (Bundesgesetzbl. I
+S. 2081),* vorgesehenen Rechte mit der Maßgabe, daß Schutz nur
+gegen die in Artikel 2 des Übereinkommens genannten Handlungen
+gewährt wird. Bei Verletzung dieser Rechte ist auch § 108 Nr. 5 des
+Urheberrechtsgesetzes anzuwenden.
 
 (2) § 136 des Urheberrechtsgesetzes ist entsprechend anzuwenden.
 

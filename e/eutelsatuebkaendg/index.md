@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zu den Änderungen vom 13. Februar 1997 des Übereinkommens zur Gründung
-  der Europäischen Fernmeldesatellitenorganisation "EUTELSAT" (EUTELSAT-Übereinkommen)
+Title: "Gesetz zu den Änderungen vom 13. Februar 1997 des Übereinkommens zur Gründung der Europäischen Fernmeldesatellitenorganisation \"EUTELSAT\" (EUTELSAT-Übereinkommen)"
 jurabk: EUTELSATÜbkÄndG
 layout: default
 origslug: eutelsat_bk_ndg

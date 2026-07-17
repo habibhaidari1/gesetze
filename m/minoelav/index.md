@@ -21,8 +21,8 @@ Zuletzt geändert durch
 
 ## Eingangsformel
 
-Auf Grund des § 1 Abs. 1 Nr. 2 und des § 2 Abs. 1 in Verbindung mit §
-3 Abs. 1 des Energiesicherungsgesetzes 1975 vom 20. Dezember 1974
+Auf Grund des § 1 Abs. 1 Nr. 2 und des § 2 Abs. 1 in Verbindung mit
+§ 3 Abs. 1 des Energiesicherungsgesetzes 1975 vom 20. Dezember 1974
 (BGBl. I S. 3681) verordnet die Bundesregierung mit Zustimmung des
 Bundesrates:
 
@@ -30,15 +30,14 @@ Bundesrates:
 ## 1. Abschnitt - Versorgungsausgleich zwischen Primäraufkommensträgern
 
 
-
 ### § 1 Verpflichtung zum Versorgungsausgleich, Grundsatz und Beteiligte
 
 (1) Unternehmen, die gewerbsmäßig oder im Rahmen wirtschaftlicher
 Unternehmungen Rohbenzin, Vergaserkraftstoff, Benzinkomponenten,
 leichtes Heizöl, Dieselkraftstoff, Mitteldestillatkomponenten,
-schweres Heizöl, dessen Komponenten oder Flüssiggas einführen, sonst
-in den Geltungsbereich dieser Verordnung verbringen oder für eigene
-Rechnung herstellen oder herstellen lassen, sind zu einem
+schweres Heizöl, dessen Komponenten oder Flüssiggas einführen,
+sonst in den Geltungsbereich dieser Verordnung verbringen oder für
+eigene Rechnung herstellen oder herstellen lassen, sind zu einem
 Versorgungsausgleich verpflichtet. Der Versorgungsausgleich erfolgt,
 indem überversorgte an unterversorgte Unternehmen Mengen abgeben.
 
@@ -52,9 +51,9 @@ unterversorgt.
 Mineralölprodukte aus Rohöl herstellen, findet zusätzlich zur
 einzelproduktbezogenen Feststellung der Über- oder Unterversorgung
 eine Berechnung der Über- oder Unterversorgung nach den drei
-Produktgruppen (leicht, mittel, schwer) statt. Unterscheidet sich das
-Ergebnis dieser Berechnung von der Summe der Ergebnisse für die
-Einzelprodukte in der jeweiligen Produktgruppe, so ist das
+Produktgruppen (leicht, mittel, schwer) statt. Unterscheidet sich
+das Ergebnis dieser Berechnung von der Summe der Ergebnisse für
+die Einzelprodukte in der jeweiligen Produktgruppe, so ist das
 Produktgruppenergebnis für die auszugleichende Menge maßgebend.
 
 
@@ -66,11 +65,11 @@ Maßgabe des § 11 monatlich ihre Versorgungslage für den jeweils
 laufenden Monat, die beiden vorangegangenen Monate und die beiden
 nächsten Monate zu melden.
 
-(2) Zum monatlichen Aufkommen nach § 1 Abs. 2 rechnen eingeführte oder
-sonst in den Geltungsbereich dieser Verordnung verbrachte Mengen, im
-Inland hergestellte Mengen, im Rahmen des Versorgungsausgleichs
-erhaltene Mengen, Zugänge vom Erdölbevorratungsverband sowie aus der
-Herstellerpflichtbevorratung oder aus Delegationen an den
+(2) Zum monatlichen Aufkommen nach § 1 Abs. 2 rechnen eingeführte
+oder sonst in den Geltungsbereich dieser Verordnung verbrachte Mengen,
+im Inland hergestellte Mengen, im Rahmen des Versorgungsausgleichs
+erhaltene Mengen, Zugänge vom Erdölbevorratungsverband sowie aus
+der Herstellerpflichtbevorratung oder aus Delegationen an den
 Erdölbevorratungsverband verfügbar gewordene Mengen. Bei Unternehmen,
 die schon in Zeiten ungestörter Versorgungssituation dem Bundesamt für
 Wirtschaft und Ausfuhrkontrolle (BAFA) über ihre Versorgungssituation
@@ -78,11 +77,11 @@ berichtet haben (Erhebungskreis des Bundesamtes für Wirtschaft und
 Ausfuhrkontrolle (BAFA)), werden dem Aufkommen auch sonstige Zugänge
 zugerechnet.
 
-(3) Als aufkommensmindernd sind bei der Berechnung des Aufkommens nach
-§ 1 Abs. 2 ausgeführte oder sonst aus dem Geltungsbereich dieser
+(3) Als aufkommensmindernd sind bei der Berechnung des Aufkommens
+nach § 1 Abs. 2 ausgeführte oder sonst aus dem Geltungsbereich dieser
 Verordnung verbrachte Mengen, im Rahmen des Versorgungsausgleichs
-abgegebene Mengen, Abgänge an den Erdölbevorratungsverband sowie
-solche Mengen zu berücksichtigen, über die gegenüber dem
+abgegebene Mengen, Abgänge an den Erdölbevorratungsverband
+sowie solche Mengen zu berücksichtigen, über die gegenüber dem
 Erdölbevorratungsverband eine Delegationsverpflichtung eingegangen
 worden ist. Beim Erhebungskreis des Bundesamtes für Wirtschaft und
 Ausfuhrkontrolle (BAFA) sind zusätzlich inländische Abgänge an andere
@@ -90,35 +89,35 @@ Unternehmen des Erhebungskreises sowie Abgänge an internationale
 Bunker aufkommensmindernd zu berücksichtigen.
 
 (4) Ein Bestandsaufbau bei Rohöl wird dem Aufkommen eines Unternehmens
-bei den drei in § 1 Abs. 3 genannten Produktgruppen im Verhältnis der
-im Vorjahr aus Rohölen und Einsatzprodukten im Geltungsbereich dieser
-Verordnung laut amtlicher Mineralölstatistik insgesamt hergestellten
-Mengen (Brutto-Raffinerieerzeugung) der einzelnen Produktgruppen
-zugerechnet, ein Bestandsabbau in gleicher Weise aufkommensmindernd
-berücksichtigt. Entsprechendes gilt für das aus der
-Herstellerpflichtbevorratung oder aus Delegationen an den
+bei den drei in § 1 Abs. 3 genannten Produktgruppen im Verhältnis
+der im Vorjahr aus Rohölen und Einsatzprodukten im Geltungsbereich
+dieser Verordnung laut amtlicher Mineralölstatistik insgesamt
+hergestellten Mengen (Brutto-Raffinerieerzeugung) der einzelnen
+Produktgruppen zugerechnet, ein Bestandsabbau in gleicher Weise
+aufkommensmindernd berücksichtigt. Entsprechendes gilt für das
+aus der Herstellerpflichtbevorratung oder aus Delegationen an den
 Erdölbevorratungsverband verfügbar gewordene Rohöl.
 
-(5) Ob eine Über- oder Unterversorgung nach § 1 Abs. 2 vorliegt, wird
-bei den zum Erhebungskreis des Bundesamtes für Wirtschaft und
-Ausfuhrkontrolle (BAFA) gehörenden Unternehmen ermittelt, indem das
-aktuelle Aufkommen des jeweiligen Erhebungsmonats mit dem
-durchschnittlichen monatlichen Absatz (Referenzmenge) in einem
-Vergleichszeitraum, gekürzt um den jeweiligen
+(5) Ob eine Über- oder Unterversorgung nach § 1 Abs. 2 vorliegt,
+wird bei den zum Erhebungskreis des Bundesamtes für Wirtschaft
+und Ausfuhrkontrolle (BAFA) gehörenden Unternehmen ermittelt,
+indem das aktuelle Aufkommen des jeweiligen Erhebungsmonats
+mit dem durchschnittlichen monatlichen Absatz (Referenzmenge)
+in einem Vergleichszeitraum, gekürzt um den jeweiligen
 Verbrauchseinschränkungssatz, verglichen wird. Als Vergleichszeitraum
 werden jeweils der dem Erhebungsmonat entsprechende Monat aus den
 letzten 12 Monaten, für die bei Inkraftsetzung von Notstandsmaßnahmen
 die amtliche Mineralölstatistik vorliegt, sowie der dem entsprechenden
-Monat folgende und der ihm vorangehende Monat herangezogen. Bei den
-nicht zum Erhebungskreis des Bundesamtes für Wirtschaft und
+Monat folgende und der ihm vorangehende Monat herangezogen. Bei
+den nicht zum Erhebungskreis des Bundesamtes für Wirtschaft und
 Ausfuhrkontrolle (BAFA) gehörenden Unternehmen werden zum Vergleich
 anstelle des Absatzes die entsprechend gekürzten Nettoeinfuhren
 (Einfuhren abzüglich Ausfuhren) herangezogen.
 
-(6) Die bei der Ermittlung der Unter- oder Überversorgung zugrunde zu
-legenden Verbrauchseinschränkungssätze werden vom Bundesamt für
-Wirtschaft und Ausfuhrkontrolle (BAFA) festgelegt und den am
-Versorgungsausgleich beteiligten Unternehmen schriftlich oder
+(6) Die bei der Ermittlung der Unter- oder Überversorgung zugrunde
+zu legenden Verbrauchseinschränkungssätze werden vom Bundesamt
+für Wirtschaft und Ausfuhrkontrolle (BAFA) festgelegt und den
+am Versorgungsausgleich beteiligten Unternehmen schriftlich oder
 elektronisch bekanntgegeben. Die Festlegung hat unter Beachtung der
 von den zuständigen Stellen durch Verbrauchseinschränkungsmaßnahmen
 oder auf andere Weise angestrebten Einsparziele zu erfolgen.
@@ -126,16 +125,16 @@ oder auf andere Weise angestrebten Einsparziele zu erfolgen.
 
 ### § 3 Inhalt der Verpflichtung zum Versorgungsausgleich
 
-(1) Ein Versorgungsausgleich findet jeweils für den laufenden und den
-nächsten Monat statt. Der Ausgleich für den laufenden Monat soll
-vorrangig erfolgen. Die Verpflichtung zum Angebot von Ausgleichsmengen
-beginnt jeweils, wenn das Bundesamt für Wirtschaft und
-Ausfuhrkontrolle (BAFA) den am Versorgungsausgleich beteiligten
+(1) Ein Versorgungsausgleich findet jeweils für den laufenden
+und den nächsten Monat statt. Der Ausgleich für den laufenden
+Monat soll vorrangig erfolgen. Die Verpflichtung zum Angebot von
+Ausgleichsmengen beginnt jeweils, wenn das Bundesamt für Wirtschaft
+und Ausfuhrkontrolle (BAFA) den am Versorgungsausgleich beteiligten
 Unternehmen ihre eigene auszugleichende Menge und die der anderen
 Unternehmen schriftlich oder elektronisch bekanntgegeben hat.
 
-(2) Jedes nach § 1 Abs. 2 oder 3 in Verbindung mit § 2 Abs. 2 bis 5
-überversorgte Unternehmen ist in Höhe seiner Überversorgung zum
+(2) Jedes nach § 1 Abs. 2 oder 3 in Verbindung mit § 2 Abs. 2 bis
+5 überversorgte Unternehmen ist in Höhe seiner Überversorgung zum
 Angebot von Ausgleichsmengen verpflichtet. Die Ausgleichsmengen sind
 unterversorgten Unternehmen anzubieten, soweit deren Unterversorgung
 im laufenden Monat über 10 vom Hundert der um den jeweiligen
@@ -145,13 +144,13 @@ des nächsten Monats besteht die Verpflichtung nur gegenüber
 unterversorgten Unternehmen mit einer Unterversorgung von mehr als 20
 vom Hundert.
 
-(3) Ist aus dem laufenden Monat in der monatlichen Meldung nach § 2
-Abs. 1 der letzte oder vorletzte Monat geworden, so sind die
+(3) Ist aus dem laufenden Monat in der monatlichen Meldung nach
+§ 2 Abs. 1 der letzte oder vorletzte Monat geworden, so sind die
 ursprünglich für den laufenden Monat gemeldeten geschätzten Daten
 jeweils entsprechend der tatsächlichen Entwicklung des Aufkommens zu
 berichtigen. Die nach Berichtigung verbleibenden nicht ausgeglichenen
-Unter- oder Überversorgungsmengen aus dem vorletzten und letzten Monat
-sind auf den laufenden Monat zu übertragen. Sie werden in den
+Unter- oder Überversorgungsmengen aus dem vorletzten und letzten
+Monat sind auf den laufenden Monat zu übertragen. Sie werden in den
 Versorgungsausgleich des laufenden Monats einbezogen.
 
 (4) Der Versorgungsausgleich hat grundsätzlich in Mineralölprodukten
@@ -159,15 +158,15 @@ zu erfolgen. Unternehmen, welche die in den Versorgungsausgleich
 einbezogenen Produkte aus Rohöl herstellen, können sich darauf
 verständigen, den Ausgleich in Rohöl vorzunehmen. Ist ein solches
 Unternehmen jedoch überversorgt und kann seiner Abgabepflicht nicht
-durch Abgabe von Mineralölprodukten entsprechen, so erstreckt sich die
-Abgabepflicht auch auf Rohöl. Das abgegebene Rohöl ist dann in den
+durch Abgabe von Mineralölprodukten entsprechen, so erstreckt sich
+die Abgabepflicht auch auf Rohöl. Das abgegebene Rohöl ist dann in den
 Versorgungsrechnungen des abgebenden und des erhaltenden Unternehmens
 auf die drei in § 1 Abs. 3 genannten Produktgruppen nach dem in § 2
 Abs. 4 genannten Schlüssel anzurechnen.
 
 (5) Ausgeglichen werden müssen nur Mengen, die bei Flüssiggas
 mindestens 500 t und bei den anderen in den Versorgungsausgleich
-einbezogenen Mineralölprodukten mindestens 1 000 t erreichen.
+einbezogenen Mineralölprodukten mindestens 1 000 t erreichen.
 Geringere Mengen sind auszugleichen, falls dies dem abgebenden
 Unternehmen auf technisch und wirtschaftlich vertretbare Weise möglich
 ist.
@@ -193,7 +192,6 @@ unterschiedlich behandelt werden.
 ## 2. Abschnitt - Absicherung traditioneller Lieferbeziehungen
 
 
-
 ### § 5 Verpflichtung zur Einhaltung der Vertriebsstruktur
 
 Die in § 1 Abs. 1 genannten Unternehmen sind verpflichtet, ihren
@@ -210,19 +208,18 @@ des § 19 Absatz 1 in Verbindung mit Absatz 2 Nummer 1 und § 20 Absatz
 ## 3. Abschnitt - Administrative Maßnahmen
 
 
-
 ### § 6 Voraussetzungen eines Tätigwerdens des Bundesamtes für Wirtschaft und Ausfuhrkontrolle (BAFA) beim nationalen Versorgungsausgleich nach den §§ 1 bis 3
 
 (1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) wird
 ermächtigt, vom fünften Werktag an, nachdem die in § 3 Abs. 1
 vorgesehene Mitteilung erfolgt ist, ausgleichspflichtige Unternehmen
-anzuweisen, den Anforderungen des § 4 entsprechende Angebote abzugeben
-oder ein bereits abgegebenes Angebot einem anderen unterversorgten
-Unternehmen zu unterbreiten, soweit dem bisherigen Adressaten Angebote
-vorliegen, die insgesamt sein Ausgleichsrecht überschreiten. In
-begründeten Fällen kann das Bundesamt für Wirtschaft und
-Ausfuhrkontrolle (BAFA) einem ausgleichspflichtigen Unternehmen auf
-Antrag noch eine zusätzliche Frist einräumen, um seiner
+anzuweisen, den Anforderungen des § 4 entsprechende Angebote
+abzugeben oder ein bereits abgegebenes Angebot einem anderen
+unterversorgten Unternehmen zu unterbreiten, soweit dem bisherigen
+Adressaten Angebote vorliegen, die insgesamt sein Ausgleichsrecht
+überschreiten. In begründeten Fällen kann das Bundesamt für Wirtschaft
+und Ausfuhrkontrolle (BAFA) einem ausgleichspflichtigen Unternehmen
+auf Antrag noch eine zusätzliche Frist einräumen, um seiner
 Ausgleichspflicht ohne Anweisung nachzukommen.
 
 (2) Anordnungen nach Absatz 1 sind jedoch nur zugunsten von
@@ -230,24 +227,18 @@ unterversorgten Unternehmen zu erlassen,
 
 1.  die einen entsprechenden Antrag gestellt haben,
 
-
-2.  die zur Begründung des Antrages darlegen, daß sie sich ernsthaft um
-    einen Versorgungsausgleich ohne Einschaltung des Bundesamtes für
+2.  die zur Begründung des Antrages darlegen, daß sie sich ernsthaft
+    um einen Versorgungsausgleich ohne Einschaltung des Bundesamtes für
     Wirtschaft und Ausfuhrkontrolle (BAFA) bemüht haben, sei es durch
     Anfrage bei bisherigen Lieferanten, bei überversorgten Unternehmen
     sowie der Koordinierungsgruppe Versorgung,
 
-
 3.  die die Tatsachen zur Begründung des Antrages glaubhaft machen,
-
 
 4.  deren zum Ausgleich berechtigende Unterversorgung im laufenden Monat
     nicht im nächsten Monat durch eine entsprechend bessere Versorgung
     ausgeglichen wird und die bis dahin keine frei verfügbaren Bestände
     einsetzen oder Täusche vornehmen können.
-
-
-
 
 (3) Eine Abgabeverpflichtung zum Ausgleich einer Unterversorgung im
 nächsten Monat soll erst dann angeordnet werden, wenn abzusehen ist,
@@ -261,17 +252,17 @@ seiner Überversorgung, örtlicher Nähe zum zu versorgenden Unternehmen
 und sonstigen sachlichen Gegebenheiten am geeignetsten erscheint.
 
 (5) In Fällen, in denen ein Unternehmen erheblich unterversorgt ist
-und ein Ausgleich ausschließlich wegen der Minimumgrenze von 500 t bei
-Flüssiggas und 1.000 t bei den anderen in den Versorgungsausgleich
+und ein Ausgleich ausschließlich wegen der Minimumgrenze von 500 t
+bei Flüssiggas und 1.000 t bei den anderen in den Versorgungsausgleich
 einbezogenen Mineralölprodukten nicht zustande kommt, kann das
 Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) auf Antrag
 ausgleichspflichtige Unternehmen anweisen, Ausgleichsmengen zugunsten
 des unterversorgten Unternehmens abzugeben, wenn sonst für dieses
-Unternehmen eine von ihm darzulegende unzumutbare Härte entstünde. Das
-Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) kann dabei unter
-Berücksichtigung des Gesamtaufkommens dieses Unternehmens in den
-letzten vier Quartalen vor Inkraftsetzung von Notstandsmaßnahmen der
-Internationalen Energieagentur auch höhere Mengen als die
+Unternehmen eine von ihm darzulegende unzumutbare Härte entstünde.
+Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) kann dabei
+unter Berücksichtigung des Gesamtaufkommens dieses Unternehmens in
+den letzten vier Quartalen vor Inkraftsetzung von Notstandsmaßnahmen
+der Internationalen Energieagentur auch höhere Mengen als die
 Ausgleichsmengen für den laufenden und den folgenden Monat zuweisen.
 
 
@@ -281,25 +272,25 @@ Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) wird
 ermächtigt, die in § 1 Abs. 1 genannten Unternehmen zur Belieferung
 eines ihrer Abnehmer anzuweisen, soweit die Lieferungen an diesen
 Abnehmer stärker als nach § 5 zulässig gekürzt werden, eine Einigung
-der Unternehmen auf freiwilliger Basis nicht erreicht werden kann und
-der betroffene Abnehmer einen entsprechenden Antrag stellt. Der
+der Unternehmen auf freiwilliger Basis nicht erreicht werden kann
+und der betroffene Abnehmer einen entsprechenden Antrag stellt. Der
 Antragsteller hat in seinem Antrag zu begründen, inwieweit er die in
-Satz 1 geforderten materiellen Voraussetzungen für ein Tätigwerden des
-Bundesamtes für Wirtschaft und Ausfuhrkontrolle (BAFA) als gegeben
+Satz 1 geforderten materiellen Voraussetzungen für ein Tätigwerden
+des Bundesamtes für Wirtschaft und Ausfuhrkontrolle (BAFA) als gegeben
 ansieht.
 
 
 ### § 8 Inhalt einer Verfügung des Bundesamtes für Wirtschaft und Ausfuhrkontrolle (BAFA)
 
-(1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) bestimmt
-in seiner an den Abgabepflichtigen gerichteten Verfügung den
+(1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)
+bestimmt in seiner an den Abgabepflichtigen gerichteten Verfügung den
 Empfänger, die abzugebende Menge und die Auslieferungszeit.
 
 (2) Die Konditionen sind zwischen dem von einer Verfügung Betroffenen
 und dem Begünstigten unter Beachtung der §§ 4 und 5 auszuhandeln.
 Kommt binnen fünf Werktagen ein Vertrag nicht zustande, weil das
-abgebende Unternehmen die genannten Bestimmungen nicht beachtet, kann
-das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) die
+abgebende Unternehmen die genannten Bestimmungen nicht beachtet,
+kann das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) die
 Konditionen, die zwischen den Vertragsparteien umstritten sind,
 festlegen. Entsprechendes gilt, wenn ein Unternehmen ein nicht auf
 einer Verfügung beruhendes Angebot erhalten hat und aus den in Satz 2
@@ -318,40 +309,35 @@ zugunsten einer Versorgung dieses Unternehmens ergreifen.
 (1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) wird
 ermächtigt, die in § 1 Abs. 1 genannten Unternehmen zur Abgabe von
 Rohöl oder den in § 1 Abs. 1 genannten Mineralölprodukten in andere
-Teilnehmerstaaten des Übereinkommens vom 18. November 1974 über ein
-Internationales Energieprogramm zu verpflichten, wenn folgende
+Teilnehmerstaaten des Übereinkommens vom 18. November 1974 über
+ein Internationales Energieprogramm zu verpflichten, wenn folgende
 Voraussetzungen vorliegen:
 
 1.  die Bundesrepublik Deutschland unterliegt einer Abgabepflicht nach
     Artikel 7 Abs. 3 des Übereinkommens vom 18. November 1974 über ein
     Internationales Energieprogramm,
 
-
 2.  die Erfüllung der Abgabepflicht ist durch freiwillige Maßnahmen der
     Mineralölwirtschaft nicht oder nicht rechtzeitig zu erreichen.
 
-
-
-
-(2) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) soll zur
-Abgabe vorrangig überversorgte Unternehmen verpflichten. Soweit ein
-unterversorgtes Unternehmen in Anspruch genommen wird oder ein
-überversorgtes Unternehmen durch die Inanspruchnahme in eine
+(2) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) soll
+zur Abgabe vorrangig überversorgte Unternehmen verpflichten. Soweit
+ein unterversorgtes Unternehmen in Anspruch genommen wird oder
+ein überversorgtes Unternehmen durch die Inanspruchnahme in eine
 Unterversorgungssituation gerät, wird bei einem Versorgungsausgleich
 nach § 3 die entsprechende Menge unabhängig von den Grenzwerten des §
 3 Abs. 2 Satz 2 und 3 in den Ausgleich einbezogen.
 
 (3) Die Konditionen sind zwischen dem von einer Abgabeverfügung
-Betroffenen und dem Begünstigten unter Beachtung des Artikels 10 des
-Übereinkommens vom 18. November 1974 über ein Internationales
+Betroffenen und dem Begünstigten unter Beachtung des Artikels 10
+des Übereinkommens vom 18. November 1974 über ein Internationales
 Energieprogramm auszuhandeln. Das Bundesamt für Wirtschaft und
-Ausfuhrkontrolle (BAFA) kann die Konditionen festlegen, soweit dies
-zur Erfüllung der Abgabepflicht der Bundesrepublik Deutschland
+Ausfuhrkontrolle (BAFA) kann die Konditionen festlegen, soweit
+dies zur Erfüllung der Abgabepflicht der Bundesrepublik Deutschland
 erforderlich wird.
 
 
 ## 4. Abschnitt - Beratende Mitwirkung der Koordinierungsgruppe Versorgung
-
 
 
 ### § 10 Beratung des Bundesamtes für Wirtschaft und Ausfuhrkontrolle (BAFA)
@@ -364,11 +350,10 @@ von der Koordinierungsgruppe Versorgung beraten.
 ## 5. Abschnitt - Meldepflichten und Ordnungswidrigkeiten
 
 
-
 ### § 11 Meldepflichten
 
-(1) In § 1 Abs. 1 genannte Unternehmen, die bei Inkrafttreten von
-Notstandsmaßnahmen der Internationalen Energieagentur zum
+(1) In § 1 Abs. 1 genannte Unternehmen, die bei Inkrafttreten
+von Notstandsmaßnahmen der Internationalen Energieagentur zum
 Erhebungskreis des Bundesamtes für Wirtschaft und Ausfuhrkontrolle
 (BAFA) gehören, sind verpflichtet, dem Bundesamt für Wirtschaft und
 Ausfuhrkontrolle (BAFA) bis zum 10. eines jeden Monats folgendes zu
@@ -377,25 +362,18 @@ melden:
 1.  die Angaben, die auch für Zwecke der amtlichen Mineralölstatistik
     gemeldet werden,
 
-
 2.  Zugang, Abgang und Bestand an Rohöl und Mineralölprodukten im In- und
     Ausland, unterschieden nach Ursprung und regionalem Einsatz; Mengen im
     Ausland müssen nur gemeldet werden, soweit sie für die Versorgung im
     Inland vorgesehen sind,
 
-
 3.  inländische Verarbeitung von Rohöl und Mineralölprodukten in
     regionaler Gliederung,
 
-
 4.  inländische Erzeugung von Mineralölprodukten in regionaler Gliederung,
-
 
 5.  die für die Bevorratung nach dem Erdölbevorratungsgesetz anrechenbaren
     Endbestände sowie die operationellen Minimumbestände.
-
-
-
 
 (2) Nicht zum Erhebungskreis des Bundesamtes für Wirtschaft und
 Ausfuhrkontrolle (BAFA) gehörende Unternehmen haben ihre Ein- und
@@ -406,16 +384,16 @@ laufenden, den nächsten und den übernächsten Monat sowie für den
 entsprechenden Monat des Vorjahres zu melden.
 
 (4) Jedes unterversorgte Unternehmen hat dem Bundesamt für Wirtschaft
-und Ausfuhrkontrolle (BAFA) unverzüglich Mengen zu melden, die es im
-Rahmen des Versorgungsausgleichs erhalten oder sich vertraglich
+und Ausfuhrkontrolle (BAFA) unverzüglich Mengen zu melden, die es
+im Rahmen des Versorgungsausgleichs erhalten oder sich vertraglich
 gesichert hat. Jedes überversorgte Unternehmen hat dem Bundesamt für
 Wirtschaft und Ausfuhrkontrolle (BAFA) unverzüglich im Rahmen des
 Versorgungsausgleichs abgegebene oder vertraglich zugesicherte Mengen
 zu melden.
 
 (5) Für die Angaben nach den Absätzen 1, 2 und 4 sind vom Bundesamt
-für Wirtschaft und Ausfuhrkontrolle (BAFA) herausgegebene Vordrucke zu
-verwenden.
+für Wirtschaft und Ausfuhrkontrolle (BAFA) herausgegebene Vordrucke
+zu verwenden.
 
 
 ### § 12 Ordnungswidrigkeiten
@@ -427,20 +405,14 @@ fahrlässig
 1.  einer vollziehbaren Verfügung nach § 6 Abs. 1 Satz 1 oder Abs. 5, § 7
     Satz 1 oder § 9 Abs. 1 zuwiderhandelt,
 
-
 2.  zur Begründung eines Antrags nach § 6 Abs. 2 Nr. 2 oder Abs. 5 Satz 1
     oder § 7 Satz 2 unrichtige Angaben macht,
-
 
 3.  entgegen § 11 Abs. 1, 2, 3 oder 4 die geforderten Meldungen nicht,
     nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
 
 
-
-
-
 ## 6. Abschnitt - Schlußvorschriften
-
 
 
 ### § 13 Berlin-Klausel
@@ -456,8 +428,8 @@ Berlin.
 
 (2) Die §§ 9 bis 12 Nr. 1 und 3 werden angewendet, wenn nach Artikel
 12 des Übereinkommens über ein Internationales Energieprogramm
-Notstandsmaßnahmen in Kraft gesetzt werden. Ihre Anwendung endet, wenn
-nach Artikel 23 des Übereinkommens über ein Internationales
+Notstandsmaßnahmen in Kraft gesetzt werden. Ihre Anwendung endet,
+wenn nach Artikel 23 des Übereinkommens über ein Internationales
 Energieprogramm die Notstandsmaßnahmen außer Kraft gesetzt werden.
 
 (3) Die §§ 1 bis 8 und 12 Nr. 2 werden angewendet, wenn
@@ -468,11 +440,7 @@ Energieprogramm die Notstandsmaßnahmen außer Kraft gesetzt werden.
     einem Versorgungsausfall von mindestens 7 vom Hundert betroffen sind
     und
 
-
 2.  die genannten Vorschriften insgesamt oder einzeln durch eine weitere
     Verordnung nach dem Energiesicherungsgesetz 1975 für anwendbar erklärt
     werden.
-
-
-
 

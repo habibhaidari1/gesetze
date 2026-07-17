@@ -1,7 +1,5 @@
 ---
-Title: Gesetz über Finanzhilfen des Bundes nach Artikel 104a Abs. 4 des Grundgesetzes
-  an die Länder Schleswig-Holstein, Niedersachsen, Freie Hansestadt Bremen sowie Freie
-  und Hansestadt Hamburg
+Title: Gesetz über Finanzhilfen des Bundes nach Artikel 104a Abs. 4 des Grundgesetzes an die Länder Schleswig-Holstein, Niedersachsen, Freie Hansestadt Bremen sowie Freie und Hansestadt Hamburg
 jurabk: BFinHSHuaG
 layout: default
 origslug: bfinhshuag
@@ -18,7 +16,6 @@ Fundstelle
 :   BGBl I: 1986, 2584
 
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
@@ -28,8 +25,8 @@ beschlossen:
 ## § 1
 
 Der Bund gewährt den Ländern Schleswig-Holstein, Niedersachsen, Freie
-Hansestadt Bremen sowie Freie und Hansestadt Hamburg Finanzhilfen für
-besonders bedeutsame Investitionen zur Verbesserung ihrer
+Hansestadt Bremen sowie Freie und Hansestadt Hamburg Finanzhilfen
+für besonders bedeutsame Investitionen zur Verbesserung ihrer
 Wirtschaftskraft in Höhe von insgesamt 300.000.000 Deutsche Mark. Die
 Finanzhilfen werden in den Jahren 1987 und 1988 in Jahresbeträgen von
 150\.000.000 Deutsche Mark gewährt. Von diesen Jahresbeträgen erhalten
@@ -61,8 +58,8 @@ Ausgaben, den Finanzierungsplan, den voraussichtlichen
 Durchführungszeitraum und eine Kurzbeschreibung der Maßnahmen.
 
 (2) Die Länder übersenden dem Bund jährlich bis 1. Oktober ihre
-Förderungslisten für das nächste Jahr mit dem Antrag auf Gewährung von
-Finanzhilfen.
+Förderungslisten für das nächste Jahr mit dem Antrag auf Gewährung
+von Finanzhilfen.
 
 (3) Der Bund ist berechtigt, einzelne Maßnahmen von der Förderung
 auszuschließen, wenn sie ihrer Art nach den in diesem Gesetz
@@ -80,8 +77,8 @@ in Höhe von 6 vom Hundert vom Zeitpunkt der Entstehung des Anspruchs
 an zu verzinsen.
 
 (5) Beträge, die die Länder vom Letztempfänger wegen nicht
-zweckentsprechender Verwendung zurückerhalten, werden an den Bund in
-Höhe seines Finanzierungsanteils weitergeleitet, soweit nicht ein
+zweckentsprechender Verwendung zurückerhalten, werden an den Bund
+in Höhe seines Finanzierungsanteils weitergeleitet, soweit nicht ein
 anderweitiger zweckentsprechender Einsatz dieser Mittel durch das
 jeweilige Land im Rahmen dieses Gesetzes möglich ist; entsprechendes
 gilt für Zinsbeträge.
@@ -102,8 +99,8 @@ anzuweisen.
 ## § 6
 
 (1) Die Länder übersenden dem Bund innerhalb von fünf Monaten nach
-Abschluß des Haushaltsjahrs einen Bericht über die Durchführung und
-den Stand der Maßnahmen. Sie berichten weiter über die Höhe der
+Abschluß des Haushaltsjahrs einen Bericht über die Durchführung
+und den Stand der Maßnahmen. Sie berichten weiter über die Höhe der
 bewilligten, der an sie ausgezahlten und der verausgabten Bundesmittel
 sowie der verausgabten Landesmittel.
 

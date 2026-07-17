@@ -1,7 +1,5 @@
 ---
-Title: Zweihundertachtundzwanzigste Durchführungsverordnung zur Luftverkehrs-Ordnung
-  (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom
-  Sonderflughafen Lahr)
+Title: Zweihundertachtundzwanzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Sonderflughafen Lahr)
 jurabk: LuftVODV 228
 layout: default
 origslug: luftvodv_228
@@ -16,4 +14,7 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BAnz: 2006, Nr 102, 4019
+
+Fundstelle
+:   BAnz: 2006, 4019
 

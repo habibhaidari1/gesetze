@@ -1,7 +1,5 @@
 ---
-Title: Gesetz zum Staatsvertrag über den Übergang der Aufgaben der Deutschen Dienststelle
-  für die Benachrichtigung der nächsten Angehörigen von Gefallenen der ehemaligen
-  deutschen Wehrmacht (WASt)
+Title: Gesetz zum Staatsvertrag über den Übergang der Aufgaben der Deutschen Dienststelle für die Benachrichtigung der nächsten Angehörigen von Gefallenen der ehemaligen deutschen Wehrmacht (WASt)
 jurabk: WAStAÜStVtrG
 layout: default
 origslug: wasta_stvtrg
@@ -20,8 +18,8 @@ Fundstelle
 
 ## § 1
 
-Dem Staatsvertrag vom 30. Mai/12. Oktober 2018 über den Übergang der
-Aufgaben der Deutschen Dienststelle für die Benachrichtigung der
+Dem Staatsvertrag vom 30. Mai/12. Oktober 2018 über den Übergang
+der Aufgaben der Deutschen Dienststelle für die Benachrichtigung der
 nächsten Angehörigen von Gefallenen der ehemaligen deutschen Wehrmacht
 (WASt) wird zugestimmt.
 
@@ -40,5 +38,6 @@ tritt, ist im Bundesgesetzblatt zu veröffentlichen.
 ## Anlage Staatsvertrag über den Übergang der Aufgaben der Deutschen Dienststelle für die Benachrichtigung der nächsten Angehörigen von Gefallenen der ehemaligen Deutschen Wehrmacht
 
 (Fundstelle: BGBl. I 2018, 2258 - 2259)
+
 (Text der Anlage siehe: WAStAÜStVtr)
 

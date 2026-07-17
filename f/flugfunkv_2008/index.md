@@ -21,12 +21,12 @@ Zuletzt geändert durch
 
 ## Eingangsformel
 
-Auf Grund des § 32 Abs. 5 des Luftverkehrsgesetzes in der Fassung der
-Bekanntmachung vom 10. Mai 2007 (BGBl. I S. 698) in Verbindung mit dem
-2\. Abschnitt des Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I
-S. 821) verordnet das Bundesministerium für Wirtschaft und Technologie
-im Einvernehmen mit dem Bundesministerium für Verkehr, Bau und
-Stadtentwicklung:
+Auf Grund des § 32 Abs. 5 des Luftverkehrsgesetzes in der Fassung
+der Bekanntmachung vom 10. Mai 2007 (BGBl. I S. 698) in Verbindung
+mit dem 2. Abschnitt des Verwaltungskostengesetzes vom 23. Juni 1970
+(BGBl. I S. 821) verordnet das Bundesministerium für Wirtschaft und
+Technologie im Einvernehmen mit dem Bundesministerium für Verkehr, Bau
+und Stadtentwicklung:
 
 
 ## § 1 Allgemeines
@@ -42,40 +42,30 @@ gleichwertigen Bescheinigung.
     Segelflugzeugen, soweit sie nicht in Lufträumen der Klassen B, C und D
     betrieben werden;
 
-
 2.  bei Luftfunkstellen an Bord von Luftfahrzeugen, die bei der Ausbildung
     von Luftfahrtpersonal verwendet werden;
-
 
 3.  bei Funkstellen in Kraftfahrzeugen, die ausschließlich für die
     Verbindung mit Luftfunkstellen in Freiballonen, Luftsportgeräten und
     Segelflugzeugen betrieben werden;
 
-
-4.  bei Bodenfunkstellen, die ausschließlich für die Übermittlung von
-    Flugbetriebsmeldungen eingesetzt oder die ausschließlich zu
+4.  bei Bodenfunkstellen, die ausschließlich für die Übermittlung
+    von Flugbetriebsmeldungen eingesetzt oder die ausschließlich zu
     Ausbildungszwecken verwendet werden;
-
 
 5.  durch Berechtigte, die Wartungs- und Reparaturarbeiten an Funkgeräten
     durchführen und im Rahmen dieser Tätigkeit zu Überprüfungszwecken am
     Flugfunk teilnehmen;
 
-
 6.  durch Berechtigte, die sich mit Kraftfahrzeugen auf den
     Betriebsflächen eines Flughafens bewegen;
 
-
 7.  nach Maßgabe des § 2 Absatz 3 und 4 dieser Verordnung;
-
 
 8.  durch Einsatzkräfte der Feuerwehren von Flughafenunternehmen auf
     Flugplätzen mit Flugverkehrskontrollstelle unter Verwendung der
     Feuerwehrfrequenz gemäß § 45 Absatz 5 der Luftverkehrs-Zulassungs-
     Ordnung in der jeweils geltenden Fassung.
-
-
-
 
 
 ## § 2 Arten der Flugfunkzeugnisse
@@ -85,56 +75,42 @@ gleichwertigen Bescheinigung.
 1.  Beschränkt Gültiges Sprechfunkzeugnis ll für den Flugfunkdienst (BZF
     ll),
 
-
 2.  Beschränkt Gültiges Sprechfunkzeugnis l für den Flugfunkdienst (BZF
     l),
-
 
 3.  Beschränkt Gültiges Sprechfunkzeugnis E für den Flugfunkdienst in
     englischer Sprache (BZF E),
 
-
 4.  Allgemeines Sprechfunkzeugnis für den Flugfunkdienst (AZF),
-
 
 5.  Allgemeines Sprechfunkzeugnis E für den Flugfunkdienst in englischer
     Sprache (AZF E).
 
-
-
-
 (2) Welches der in Absatz 1 aufgeführten Zeugnisse jeweils
-erforderlich ist, richtet sich nach der Art der zu bedienenden Boden-
-oder Luftfunkstelle. Vorbehaltlich der Bestimmungen von Anhang I
-FCL.055 der Verordnung (EU) Nr. 1178/2011 der Kommission vom 3.
-November 2011 zur Festlegung technischer Vorschriften und von
-Verwaltungsverfahren in Bezug auf das fliegende Personal in der
-Zivilluftfahrt gemäß der Verordnung (EG) Nr. 216/2008 des Europäischen
-Parlaments und des Rates (ABl. L 311 vom 25.11.2011, S. 1), die
-zuletzt durch die Verordnung (EU) Nr. 70/2014 (ABl. L 23 vom
+erforderlich ist, richtet sich nach der Art der zu bedienenden
+Boden- oder Luftfunkstelle. Vorbehaltlich der Bestimmungen von
+Anhang I FCL.055 der Verordnung (EU) Nr. 1178/2011 der Kommission
+vom 3. November 2011 zur Festlegung technischer Vorschriften und
+von Verwaltungsverfahren in Bezug auf das fliegende Personal in
+der Zivilluftfahrt gemäß der Verordnung (EG) Nr. 216/2008 des
+Europäischen Parlaments und des Rates (ABl. L 311 vom 25.11.2011, S.
+1), die zuletzt durch die Verordnung (EU) Nr. 70/2014 (ABl. L 23 vom
 28\.1.2014, S. 25) geändert worden ist berechtigt
 
 1.  das BZF II, bei Flügen nach Sichtflugregeln den Sprechfunk innerhalb
     der Bundesrepublik Deutschland in deutscher Sprache auszuüben;
 
-
 2.  das BZF I, bei Flügen nach Sichtflugregeln den Sprechfunk in deutscher
     und englischer Sprache auszuüben;
-
 
 3.  das BZF E, bei Flügen nach Sichtflugregeln den Sprechfunk in
     englischer Sprache auszuüben;
 
-
 4.  das AZF, bei Flügen nach Sicht- und Instrumentenflugregeln den
     Sprechfunk in deutscher und englischer Sprache auszuüben;
 
-
 5.  das AZF E, bei Flügen nach Sicht- und Instrumentenflugregeln den
     Sprechfunk in englischer Sprache auszuüben.
-
-
-
 
 (3) Für gültige Militärluftfahrzeugführerscheine,
 Militärluftfahrzeugbesatzungsscheine oder Militärische Lizenzen für
@@ -144,18 +120,14 @@ den Flugverkehrskontrolldienst der Bundeswehr gilt Folgendes:
     nach Instrumentenflugregeln berechtigt, darf der Inhaber den
     Sprechfunk bei Boden- oder Luftfunkstellen uneingeschränkt ausüben.
 
-
 2.  Sofern ein solches Zeugnis zur Ausübung des Sprechfunks bei Flügen
-    nach Sichtflugregeln berechtigt, darf der Inhaber den Sprechfunk bei
-    einer Luftfunkstelle an Bord eines Luftfahrzeugs, das nach
+    nach Sichtflugregeln berechtigt, darf der Inhaber den Sprechfunk
+    bei einer Luftfunkstelle an Bord eines Luftfahrzeugs, das nach
     Sichtflugregeln fliegt, oder bei einer Bodenfunkstelle mit
     Luftfunkstellen der vorgenannten Art ausüben.
 
-
-
-
-(4) Für Lizenzscheine nach Artikel 4 Nummer 14 der Verordnung (EU)
-2015/340 der Kommission vom 20. Februar 2015 zur Festlegung
+(4) Für Lizenzscheine nach Artikel 4 Nummer 14 der Verordnung
+(EU) 2015/340 der Kommission vom 20. Februar 2015 zur Festlegung
 technischer Vorschriften und von Verwaltungsverfahren in Bezug auf
 Lizenzen und Bescheinigungen von Fluglotsen gemäß der Verordnung (EG)
 Nr. 216/2008 des Europäischen Parlaments und des Rates, zur Änderung
@@ -172,23 +144,13 @@ Voraussetzungen für den Erwerb von Flugfunkzeugnissen sind:
 
     a)  des 15. Lebensjahres für das BZF II, das BZF I und das BZF E,
 
-
     b)  des 18. Lebensjahres für das AZF und das AZF E,
-
-
-
-
 
 2.  für das AZF das Innehaben des BZF I oder BZF II,
 
-
 3.  für das AZF E das Innehaben des BZF E und
 
-
 4.  das Bestehen der vorgeschriebenen Prüfung.
-
-
-
 
 
 ## § 4 Prüfungsbehörde
@@ -198,8 +160,8 @@ Telekommunikation, Post und Eisenbahnen (Bundesnetzagentur). Die für
 Prüfungen örtlich zuständigen Außenstellen gibt die Bundesnetzagentur
 in ihrem Amtsblatt bekannt.
 
-(2) Das Bundesministerium für Wirtschaft und Technologie kann im
-Einvernehmen mit dem Bundesministerium für Verkehr, Bau und
+(2) Das Bundesministerium für Wirtschaft und Technologie kann
+im Einvernehmen mit dem Bundesministerium für Verkehr, Bau und
 Stadtentwicklung weitere Behörden als Prüfungsbehörden benennen.
 
 
@@ -217,14 +179,9 @@ Die Zulassung zur Prüfung erfolgt, wenn
 
 1.  die Voraussetzungen nach § 3 Absatz 1 Nummer 1, 2 und 3 erfüllt sind,
 
-
 2.  die Anmeldeunterlagen nach § 5 vollständig sind und
 
-
 3.  die Prüfungsgebühren nach § 18 eingegangen sind.
-
-
-
 
 (2) Die Prüfungsbehörde kann auf Antrag des Bewerbers auch nach der
 erfolgten Zulassung nach Absatz 1 die Zulassungsentscheidung auf eine
@@ -247,8 +204,8 @@ sein.
 ## § 8 Prüfung
 
 (1) Die Prüfungsbehörde legt Zeitpunkt und Ort der Prüfung fest und
-teilt sie dem Bewerber mit. Die Prüfungsbehörde kann Zeitpunkt und Ort
-der Prüfung auf Antrag des Bewerbers verlegen. Die Prüfung darf
+teilt sie dem Bewerber mit. Die Prüfungsbehörde kann Zeitpunkt und
+Ort der Prüfung auf Antrag des Bewerbers verlegen. Die Prüfung darf
 frühestens drei Monate vor Erreichen des Mindestalters nach § 3 Nummer
 1 abgenommen werden. Einzelheiten veröffentlicht die Bundesnetzagentur
 in ihrem Amtsblatt.
@@ -284,8 +241,8 @@ gestatten.
 ## § 9 Wiederholungsprüfung
 
 (1) Hat der Bewerber die Prüfung nicht bestanden, so kann er diese
-einmal wiederholen. Zu wiederholen sind die Prüfungsteile, in denen
-der Bewerber nicht bestanden hat. Der früheste Zeitpunkt der
+einmal wiederholen. Zu wiederholen sind die Prüfungsteile, in
+denen der Bewerber nicht bestanden hat. Der früheste Zeitpunkt der
 Wiederholungsprüfung liegt in der Regel sieben Tage, der späteste
 Zeitpunkt sechs Monate nach dem Zeitpunkt der nicht bestandenen
 Prüfung.
@@ -299,13 +256,13 @@ sind die Bestimmungen des § 8 entsprechend anzuwenden.
 
 ## § 10 Zusatzprüfung
 
-(1) Inhaber gültiger Sprechfunkzeugnisse für den Flugfunkdienst können
-durch eine Zusatzprüfung ein höherwertiges Sprechfunkzeugnis für den
-Flugfunkdienst erwerben. Die nachzuweisenden Kenntnisse und
+(1) Inhaber gültiger Sprechfunkzeugnisse für den Flugfunkdienst
+können durch eine Zusatzprüfung ein höherwertiges Sprechfunkzeugnis
+für den Flugfunkdienst erwerben. Die nachzuweisenden Kenntnisse und
 Fertigkeiten ergeben sich aus der Anlage 1.
 
-(2) Für die Zulassung zur Zusatzprüfung und für die Durchführung der
-Zusatzprüfung sind die Bestimmungen der §§ 6 und 8 entsprechend
+(2) Für die Zulassung zur Zusatzprüfung und für die Durchführung
+der Zusatzprüfung sind die Bestimmungen der §§ 6 und 8 entsprechend
 anzuwenden.
 
 (3) Hat der Bewerber die Zusatzprüfung nicht bestanden, so kann er
@@ -315,10 +272,10 @@ diese erneut ablegen.
 ## § 11 Nachprüfung
 
 (1) Der Inhaber eines gültigen Flugfunkzeugnisses, dessen
-Betriebsabwicklung mehrfach zu Beanstandungen Anlass gegeben hat oder
-bei dem Anhaltspunkte dafür vorliegen, dass er nicht mehr zur
-ordnungsgemäßen Wahrnehmung des Flugfunkdienstes in der Lage ist, hat
-sich auf Verlangen der Bundesnetzagentur einer Nachprüfung zu
+Betriebsabwicklung mehrfach zu Beanstandungen Anlass gegeben hat
+oder bei dem Anhaltspunkte dafür vorliegen, dass er nicht mehr zur
+ordnungsgemäßen Wahrnehmung des Flugfunkdienstes in der Lage ist,
+hat sich auf Verlangen der Bundesnetzagentur einer Nachprüfung zu
 unterziehen. Inhalt und Umfang der Nachprüfung werden nach Maßgabe der
 Anlage 1 im Einzelfall von der Bundesnetzagentur festgelegt.
 
@@ -341,41 +298,32 @@ entspricht:
     oder Bordwarte auf Hubschraubern in der Bundespolizei und bei den
     Polizeien der Länder der Prüfung zum Erwerb des BZF II oder BZF I;
 
-
 2.  die Prüfung zum Erwerb der Erlaubnis für Segelflugzeugführer oder
     Freiballonführer der Prüfung zum Erwerb des BZF II oder BZF I und
 
-
 3.  die Prüfung zum Erwerb der Erlaubnis zum Verkehrsflugzeugführer oder
-    zum Erwerb der Instrumentenflugberechtigung der Prüfung zum Erwerb des
-    AZF.
-
-
-
+    zum Erwerb der Instrumentenflugberechtigung der Prüfung zum Erwerb
+    des AZF.
 
 (2) Das Flugfunkzeugnis wird durch die Bundesnetzagentur ausgestellt
-und dem Bewerber ausgehändigt. Das Bundesministerium für Verkehr und
-digitale Infrastruktur kann festlegen, dass die Berechtigung zur
+und dem Bewerber ausgehändigt. Das Bundesministerium für Verkehr
+und digitale Infrastruktur kann festlegen, dass die Berechtigung zur
 Ausübung des Flugfunkdienstes von den zuständigen Luftfahrtbehörden
 der Länder erteilt und im Luftfahrerschein eingetragen wird.
 
 
 ## § 13 Erwerb von Flugfunkzeugnissen durch Inhaber einer Bescheinigung der Bundeswehr
 
-(1) Inhabern einer Bescheinigung der Bundeswehr über den Besitz eines
-Militärluftfahrzeugführerscheines,
+(1) Inhabern einer Bescheinigung der Bundeswehr über
+den Besitz eines Militärluftfahrzeugführerscheines,
 Militärluftfahrzeugbesatzungsscheines oder einer Militärischen Lizenz
 für den Flugverkehrskontrolldienst wird auf Antrag ausgestellt:
 
 1.  das BZF I, wenn sie zur Ausübung des Sprechfunks entsprechend § 2
     Absatz 3 Nummer 2 berechtigt sind, oder
 
-
 2.  das AZF, wenn sie zur Ausübung des Sprechfunks entsprechend § 2 Absatz
     3 Nummer 1 berechtigt sind.
-
-
-
 
 (2) Über den Antrag entscheidet die Bundesnetzagentur.
 
@@ -392,22 +340,17 @@ Verordnung (EU) Nr. 2015/340 wird auf Antrag ausgestellt:
 1.  das BZF I, wenn sie zur Ausübung des Sprechfunks entsprechend § 2
     Absatz 4 in Verbindung mit § 2 Absatz 3 Nummer 2 berechtigt sind,
 
-
 2.  das BZF E, wenn sie zur Ausübung des Sprechfunks entsprechend § 2
     Absatz 4 in Verbindung mit § 2 Absatz 3 Nummer 2 berechtigt sind,
-
 
 3.  das AZF, wenn sie zur Ausübung des Sprechfunks entsprechend § 2 Absatz
     4 in Verbindung mit § 2 Absatz 3 Nummer 1 berechtigt sind oder
 
-
 4.  das AZF E, wenn sie zur Ausübung des Sprechfunks entsprechend § 2
     Absatz 4 in Verbindung mit § 2 Absatz 3 Nummer 1 berechtigt sind
 
-
-
-und die Ausbildungsorganisation bestätigt, dass der Lizenzinhaber über
-die in Anlage 1 für das jeweilige Sprechfunkzeugnis vorgesehenen
+und die Ausbildungsorganisation bestätigt, dass der Lizenzinhaber
+über die in Anlage 1 für das jeweilige Sprechfunkzeugnis vorgesehenen
 Kenntnisse und Fertigkeiten verfügt.
 
 (2) Über den Antrag entscheidet die Bundesnetzagentur.
@@ -421,17 +364,17 @@ Ausbildungsorganisation beizufügen.
 ## § 14 Anerkennung von Flugfunkzeugnissen
 
 (1) Nicht im Geltungsbereich dieser Verordnung erteilte
-Flugfunkzeugnisse können anerkannt werden. Voraussetzung ist, dass das
-gültige Flugfunkzeugnis unter Prüfungsbedingungen erworben wurde, die
-denen eines entsprechenden Flugfunkzeugnisses der Bundesrepublik
-Deutschland mindestens gleichwertig sind. Gleichwertigkeit und
-Anerkennung von gültigen Flugfunkzeugnissen, die nicht im
-Geltungsbereich dieser Verordnung erteilt worden sind, werden bei der
-Bundesnetzagentur geprüft und festgelegt. Die allgemeine Anerkennung
-kann mit der Maßgabe erfolgen, dass die Inhaber von gültigen
-Flugfunkzeugnissen, die nicht im Geltungsbereich dieser Verordnung
-erteilt worden sind, nur zur Ausübung des Flugfunkdienstes in
-englischer Sprache berechtigt sind. Die Anerkennung kann formlos
+Flugfunkzeugnisse können anerkannt werden. Voraussetzung ist, dass
+das gültige Flugfunkzeugnis unter Prüfungsbedingungen erworben wurde,
+die denen eines entsprechenden Flugfunkzeugnisses der Bundesrepublik
+Deutschland mindestens gleichwertig sind. Gleichwertigkeit
+und Anerkennung von gültigen Flugfunkzeugnissen, die nicht im
+Geltungsbereich dieser Verordnung erteilt worden sind, werden
+bei der Bundesnetzagentur geprüft und festgelegt. Die allgemeine
+Anerkennung kann mit der Maßgabe erfolgen, dass die Inhaber von
+gültigen Flugfunkzeugnissen, die nicht im Geltungsbereich dieser
+Verordnung erteilt worden sind, nur zur Ausübung des Flugfunkdienstes
+in englischer Sprache berechtigt sind. Die Anerkennung kann formlos
 erfolgen. Die Anerkennung im Einzelfall richtet sich nach den Absätzen
 2 bis 6.
 
@@ -442,12 +385,12 @@ Prüfung nicht, so kann er diese wiederholt ablegen. Der Umfang der
 vereinfachten Prüfung ergibt sich aus der Anlage 1. Für vereinfachte
 Prüfungen sind die Bestimmungen des § 8 entsprechend anzuwenden.
 
-(3) Dem Inhaber eines gültigen Flugfunkzeugnisses, das nicht im
-Geltungsbereich dieser Verordnung erteilt, jedoch unter
-Prüfungsbedingungen erworben wurde, die unabhängig von Fertigkeiten in
-deutscher Sprache denen eines entsprechenden Flugfunkzeugnisses der
-Bundesrepublik Deutschland gleichwertig sind, kann auf Antrag ein
-Berechtigungsausweis ausgestellt werden, der den Inhaber nur zur
+(3) Dem Inhaber eines gültigen Flugfunkzeugnisses, das nicht
+im Geltungsbereich dieser Verordnung erteilt, jedoch unter
+Prüfungsbedingungen erworben wurde, die unabhängig von Fertigkeiten
+in deutscher Sprache denen eines entsprechenden Flugfunkzeugnisses
+der Bundesrepublik Deutschland gleichwertig sind, kann auf Antrag
+ein Berechtigungsausweis ausgestellt werden, der den Inhaber nur zur
 Ausübung des Flugfunkdienstes in englischer Sprache berechtigt.
 
 (4) Der Berechtigungsausweis gilt nur in Verbindung mit dem gültigen
@@ -473,8 +416,8 @@ anerkannt.
 Verlängerungsprüfung nach § 125 der Verordnung über Luftfahrtpersonal
 durchgeführt werden. Die Sprachprüfung kann organisatorisch mit der
 Prüfung zum Erwerb von Flugfunkzeugnissen nach dieser Verordnung
-verbunden werden. Die §§ 5, 6 Nummer 2 und 3, § 8 Absatz 1, 2, 4, 5
-und 7, die §§ 19 und 20 sind entsprechend anzuwenden. Die
+verbunden werden. Die §§ 5, 6 Nummer 2 und 3, § 8 Absatz 1, 2,
+4, 5 und 7, die §§ 19 und 20 sind entsprechend anzuwenden. Die
 Sprachprüfung kann wiederholt abgelegt werden.
 
 (2) Für die Durchführung der Prüfung nach Absatz 1 ist der
@@ -486,8 +429,8 @@ entscheiden zu können.
 (3) Die inhaltlichen Anforderungen an die Sprachprüfung sind in der
 Verordnung über Luftfahrtpersonal festgelegt.
 
-(4) Bei erfolgreicher Sprachprüfung stellt die Bundesnetzagentur eine
-Bescheinigung über den Nachweis der nach der Verordnung über
+(4) Bei erfolgreicher Sprachprüfung stellt die Bundesnetzagentur
+eine Bescheinigung über den Nachweis der nach der Verordnung über
 Luftfahrtpersonal geforderten Kenntnisse der englischen Sprache aus.
 Bei erfolgreicher Verlängerungsprüfung kann die Bundesnetzagentur
 durch Eintrag in den Luftfahrerschein die Gültigkeit des Nachweises
@@ -498,14 +441,10 @@ Bundesamt Einzelheiten fest zu
 
 1.  Inhalt und Umfang der Sprachprüfung nach Absatz 1,
 
-
 2.  der Möglichkeit, die Sprachprüfung nach Absatz 1 im Fall des
     Nichtbestehens wiederholt abzulegen, sowie
 
-
 3.  Inhalt und Umfang der Verlängerungsprüfung nach Absatz 1.
-
-
 
 Die Festlegungen werden im Amtsblatt der Bundesnetzagentur
 veröffentlicht.
@@ -516,29 +455,25 @@ veröffentlicht.
 Für ein in Verlust geratenes Flugfunkzeugnis, für einen in Verlust
 geratenen Berechtigungsausweis oder für eine in Verlust geratene
 Bescheinigung der Sprachprüfung kann eine Zweitschrift ausgestellt
-werden. Dasselbe gilt, wenn das Zeugnis, der Berechtigungsausweis oder
-die Bescheinigung der Sprachprüfung unbrauchbar geworden ist. Im Fall
-der Unbrauchbarkeit ist die Urschrift vor dem Ausstellen der
+werden. Dasselbe gilt, wenn das Zeugnis, der Berechtigungsausweis
+oder die Bescheinigung der Sprachprüfung unbrauchbar geworden ist.
+Im Fall der Unbrauchbarkeit ist die Urschrift vor dem Ausstellen der
 Zweitschrift zurückzugeben.
 
 
 ## § 17 Entziehung eines Flugfunkzeugnisses
 
-(1) Die Bundesnetzagentur kann ein Flugfunkzeugnis entziehen, wenn der
-Inhaber
+(1) Die Bundesnetzagentur kann ein Flugfunkzeugnis entziehen, wenn
+der Inhaber
 
 1.  in grober Weise gegen wichtige Funkvorschriften, insbesondere solche
     über die zur Ausübung des Sprechfunks erforderlichen Sprachkenntnisse,
-    die einzuhaltende Hörbereitschaft auf festgelegten Funkfrequenzen, die
-    Sprechfunkverfahren sowie die Verfahren bei Ausfall der
+    die einzuhaltende Hörbereitschaft auf festgelegten Funkfrequenzen,
+    die Sprechfunkverfahren sowie die Verfahren bei Ausfall der
     Funkverbindung, verstoßen hat oder
-
 
 2.  entgegen den Bestimmungen des § 2 Absatz 2 bis 4 dieser Verordnung den
     Sprechfunkverkehr ausübt.
-
-
-
 
 (2) Die Bundesnetzagentur entzieht das Flugfunkzeugnis, wenn der
 Inhaber es ablehnt, sich einer angeordneten Nachprüfung nach § 11 zu
@@ -591,19 +526,15 @@ umgetauscht. Hierbei entsprechen
     Flugfunksprechzeugnis dem Allgemeinen Sprechfunkzeugnis für den
     Flugfunkdienst,
 
-
 2.  der Zulassungsschein für den Sprechfunkdienst dem Beschränkt Gültigen
     Sprechfunkzeugnis I für den Flugfunkdienst, wenn er nach einer Prüfung
     auf Ausübung des Flugsicherungs-Sprechfunkverkehrs in englischer
     Sprache ausgestellt wurde,
 
-
-3.  der Zulassungsschein für den Sprechfunkdienst dem Beschränkt Gültigen
-    Sprechfunkzeugnis II für den Flugfunkdienst, wenn er nach einer
-    Prüfung auf Ausübung des Flugsicherungs-Sprechfunkverkehrs in
+3.  der Zulassungsschein für den Sprechfunkdienst dem Beschränkt
+    Gültigen Sprechfunkzeugnis II für den Flugfunkdienst, wenn er nach
+    einer Prüfung auf Ausübung des Flugsicherungs-Sprechfunkverkehrs in
     deutscher Sprache ausgestellt wurde.
-
-
 
 Der Antrag ist an eine Außenstelle der Bundesnetzagentur zu richten.
 
@@ -615,509 +546,222 @@ folgenden Absatz nichts Abweichendes bestimmt ist.
 
 (2) § 15 tritt am 29. November 2008 in Kraft.
 
-(zu § 8 Absatz 3, § 10 Absatz 1, § 14 Absatz 2)
 
-## Anlage 1 Prüfungsbestimmungen für den Erwerb von Flugfunkzeugnissen
+## Anlage 1 (zu § 8 Absatz 3, § 10 Absatz 1, § 14 Absatz 2)Prüfungsbestimmungen für den Erwerb von Flugfunkzeugnissen
 
 (Fundstelle: BGBl. I 2012, 186 - 187)
 
-
-**1** **Prüfung für den Erwerb des BZF II**
-
+1   **Prüfung für den Erwerb des BZF II**
 
 1.1 Kenntnisse
 
     Im schriftlichen Teil sind folgende Kenntnisse in deutscher Sprache
     nachzuweisen:
 
-
 1.1.1 rechtliche Grundlagen des mobilen Flugfunkdienstes im nationalen und
-    internationalen Bereich;
-
+      internationalen Bereich;
 
 1.1.2 Betriebsverfahren für den Sprechfunkverkehr im mobilen Flugfunkdienst;
 
-
 1.1.3 Anwendung des Not- und Dringlichkeitsverfahrens im Sprechfunkverkehr
-    des mobilen Flugfunkdienstes;
+      des mobilen Flugfunkdienstes;
 
-
-1.1.4 die wichtigsten Bestimmungen und Betriebsverfahren aus dem Bereich der
-    Flugsicherung:
-
+1.1.4 die wichtigsten Bestimmungen und Betriebsverfahren aus dem Bereich
+      der Flugsicherung:
 
 1.1.4.1 Flugsicherungssystem und Luftraumorganisation in der Bundesrepublik
-    Deutschland einschließlich Such- und Rettungsdienst (SAR);
-
+        Deutschland einschließlich Such- und Rettungsdienst (SAR);
 
 1.1.4.2 Durchführungsverordnung (EU) Nr. 923/2012 der Kommission vom 26.
-    September 2012 zur Festlegung gemeinsamer Luftverkehrsregeln und
-    Betriebsvorschriften für Dienste und Verfahren der Flugsicherung und
-    zur Änderung der Durchführungsverordnung (EG) Nr. 1035/2011 sowie der
-    Verordnungen (EG) Nr. 1265/2007, (EG) Nr. 1794/2006, (EG) Nr.
-    730/2006, (EG) Nr. 1033/2006 und (EU) Nr. 255/2010 (ABl. L 281 vom
-    13\.10.2012, S. 1, L 145 vom 31.5.2013, S. 38) in der jeweils geltenden
-    Fassung, einschließlich der Luftverkehrs-Ordnung, soweit sie für Flüge
-    nach Sichtflugregeln zur Anwendung kommt;
+        September 2012 zur Festlegung gemeinsamer Luftverkehrsregeln und
+        Betriebsvorschriften für Dienste und Verfahren der Flugsicherung und
+        zur Änderung der Durchführungsverordnung (EG) Nr. 1035/2011 sowie
+        der Verordnungen (EG) Nr. 1265/2007, (EG) Nr. 1794/2006, (EG) Nr.
+        730/2006, (EG) Nr. 1033/2006 und (EU) Nr. 255/2010 (ABl. L 281 vom
+        13\.10.2012, S. 1, L 145 vom 31.5.2013, S. 38) in der jeweils geltenden
+        Fassung, einschließlich der Luftverkehrs-Ordnung, soweit sie für Flüge
+        nach Sichtflugregeln zur Anwendung kommt;
 
-
-1.1.4.3 Verordnung über die Flugsicherungsausrüstung der Luftfahrzeuge für
-    Flüge nach Sichtflugregeln einschließlich der dazu ergangenen
-    Durchführungsverordnungen;
-
+1.1.4.3 Verordnung über die Flugsicherungsausrüstung der Luftfahrzeuge
+        für Flüge nach Sichtflugregeln einschließlich der dazu ergangenen
+        Durchführungsverordnungen;
 
 1.1.4.4 Funknavigation bei Flügen nach Sichtflugregeln.
-
 
 1.2 Fertigkeiten
 
     Im praktischen Teil sind folgende Fertigkeiten nachzuweisen:
 
-
 1.2.1 Vorbereitung eines Fluges nach Sichtflugregeln von und zu einem
-    Flugplatz mit Flugverkehrskontrolle unter Verwendung amtlicher
-    Unterlagen und Veröffentlichungen, soweit es für die Durchführung des
-    Sprechfunkverkehrs erforderlich ist;
-
+      Flugplatz mit Flugverkehrskontrolle unter Verwendung amtlicher
+      Unterlagen und Veröffentlichungen, soweit es für die Durchführung des
+      Sprechfunkverkehrs erforderlich ist;
 
 1.2.2 Abwicklung eines Sprechfunkverkehrs in deutscher Sprache unter Annahme
-    eines Fluges nach Sichtflugregeln und unter Verwendung der dafür
-    festgelegten Redewendungen, Ausdrücke und Abkürzungen sowie Verfahren
-    einschließlich der Not- und Dringlichkeitsverfahren.
+      eines Fluges nach Sichtflugregeln und unter Verwendung der dafür
+      festgelegten Redewendungen, Ausdrücke und Abkürzungen sowie Verfahren
+      einschließlich der Not- und Dringlichkeitsverfahren.
 
+2   **Prüfung für den Erwerb des BZF I**
 
-**2** **Prüfung für den Erwerb des BZF I**
-
-
-2.1 Kenntnisse                    gemäß 1.1; in Zusatzprüfungen für
-    Bewerber, die Inhaber des BZF II sind, und in der vereinfachten
-    Prüfung gemäß § 14 Absatz 2 für Bewerber, die Inhaber eines
-    Flugfunkzeugnisses sind, das nicht im Geltungsbereich dieser
-    Verordnung erteilt worden ist, entfällt 2.1.
-
+2.1 Kenntnisse gemäß 1.1; in Zusatzprüfungen für Bewerber, die Inhaber
+    des BZF II sind, und in der vereinfachten Prüfung gemäß § 14 Absatz 2
+    für Bewerber, die Inhaber eines Flugfunkzeugnisses sind, das nicht im
+    Geltungsbereich dieser Verordnung erteilt worden ist, entfällt 2.1.
 
 2.2 Fertigkeiten
 
     Im praktischen Teil sind folgende Fertigkeiten nachzuweisen:
 
-
 2.2.1 Fertigkeiten gemäß 1.2.1;
 
-
 2.2.2 Abwicklung eines Sprechfunkverkehrs in deutscher und englischer
-    Sprache unter Annahme eines Fluges nach Sichtflugregeln und unter
-    Verwendung der dafür festgelegten Redewendungen, Ausdrücke und
-    Abkürzungen sowie Verfahren einschließlich der Not- und
-    Dringlichkeitsverfahren; in Zusatzprüfungen für Bewerber, die Inhaber
-    des BZF II sind, entfällt die Abwicklung eines Sprechfunkverkehrs in
-    deutscher Sprache;
-
+      Sprache unter Annahme eines Fluges nach Sichtflugregeln und
+      unter Verwendung der dafür festgelegten Redewendungen, Ausdrücke
+      und Abkürzungen sowie Verfahren einschließlich der Not- und
+      Dringlichkeitsverfahren; in Zusatzprüfungen für Bewerber, die Inhaber
+      des BZF II sind, entfällt die Abwicklung eines Sprechfunkverkehrs in
+      deutscher Sprache;
 
 2.2.3 Lesen eines Textes in englischer Sprache aus den Luftfahrthandbüchern
-    (etwa 800 Schriftzeichen [Buchstaben, Ziffern und Zeichen]) mit
-    anschließender mündlicher Übersetzung in die deutsche Sprache;
-
+      (etwa 800 Schriftzeichen [Buchstaben, Ziffern und Zeichen]) mit
+      anschließender mündlicher Übersetzung in die deutsche Sprache;
 
 2.2.4 in der vereinfachten Prüfung gemäß § 14 Absatz 2 für Bewerber, die
-    Inhaber eines Flugfunkzeugnisses sind, das nicht im Geltungsbereich
-    dieser Verordnung erteilt worden ist, sind lediglich Fertigkeiten nach
-    1\.2 nachzuweisen.
+      Inhaber eines Flugfunkzeugnisses sind, das nicht im Geltungsbereich
+      dieser Verordnung erteilt worden ist, sind lediglich Fertigkeiten nach
+      1\.2 nachzuweisen.
 
-
-**3** **Prüfung für den Erwerb des BZF E**
-
+3   **Prüfung für den Erwerb des BZF E**
 
 3.1 Kenntnisse
 
     Im schriftlichen Teil sind folgende Kenntnisse in englischer Sprache
     nachzuweisen:
 
-
 3.1.1 rechtliche Grundlagen des mobilen Flugfunkdienstes im nationalen und
-    internationalen Bereich;
-
+      internationalen Bereich;
 
 3.1.2 Betriebsverfahren für den Sprechfunkverkehr im mobilen Flugfunkdienst;
 
-
 3.1.3 Anwendung des Not- und Dringlichkeitsverfahrens im Sprechfunkverkehr
-    des mobilen Flugfunkdienstes;
+      des mobilen Flugfunkdienstes;
 
-
-3.1.4 die wichtigsten Bestimmungen und Betriebsverfahren aus dem Bereich der
-    Flugsicherung:
-
+3.1.4 die wichtigsten Bestimmungen und Betriebsverfahren aus dem Bereich
+      der Flugsicherung:
 
 3.1.4.1 Flugsicherungssystem und Luftraumorganisation in der Bundesrepublik
-    Deutschland einschließlich Such- und Rettungsdienst (SAR);
-
+        Deutschland einschließlich Such- und Rettungsdienst (SAR);
 
 3.1.4.2 Durchführungsverordnung (EU) Nr. 923/2012, einschließlich der
-    Luftverkehrs-Ordnung, soweit sie für Flüge nach Sichtflugregeln zur
-    Anwendung kommt;
+        Luftverkehrs-Ordnung, soweit sie für Flüge nach Sichtflugregeln zur
+        Anwendung kommt;
 
-
-3.1.4.3 Verordnung über die Flugsicherungsausrüstung der Luftfahrzeuge für
-    Flüge nach Sichtflugregeln einschließlich der dazu ergangenen
-    Durchführungsverordnungen;
-
+3.1.4.3 Verordnung über die Flugsicherungsausrüstung der Luftfahrzeuge
+        für Flüge nach Sichtflugregeln einschließlich der dazu ergangenen
+        Durchführungsverordnungen;
 
 3.1.4.4 Funknavigation bei Flügen nach Sichtflugregeln.
-
 
 3.2 Fertigkeiten
 
     Im praktischen Teil sind folgende Fertigkeiten nachzuweisen:
 
-
 3.2.1 Fertigkeiten gemäß 1.2.1;
 
-
 3.2.2 Abwicklung eines Sprechfunkverkehrs in englischer Sprache unter
-    Annahme eines Fluges nach Sichtflugregeln und unter Verwendung der
-    dafür festgelegten Redewendungen, Ausdrücke und Abkürzungen sowie
-    Verfahren einschließlich der Not- und Dringlichkeitsverfahren.
+      Annahme eines Fluges nach Sichtflugregeln und unter Verwendung der
+      dafür festgelegten Redewendungen, Ausdrücke und Abkürzungen sowie
+      Verfahren einschließlich der Not- und Dringlichkeitsverfahren.
 
-
-**4** **Zusatzprüfung für den Erwerb des AZF**
-
+4   **Zusatzprüfung für den Erwerb des AZF**
 
 4.1 Kenntnisse
 
     Im schriftlichen Teil sind folgende Kenntnisse in englischer Sprache
     nachzuweisen:
 
-
 4.1.1 Durchführungsverordnung (EU) Nr. 923/2012, einschließlich der
-    Luftverkehrs-Ordnung, soweit sie für Flüge nach Instrumentenflugregeln
-    zur Anwendung kommt;
-
+      Luftverkehrs-Ordnung, soweit sie für Flüge nach Instrumentenflugregeln
+      zur Anwendung kommt;
 
 4.1.2 Verordnung über die Flugsicherungsausrüstung der Luftfahrzeuge bei
-    Flügen nach Instrumentenflugregeln einschließlich der dazu ergangenen
-    Durchführungsverordnungen;
-
+      Flügen nach Instrumentenflugregeln einschließlich der dazu ergangenen
+      Durchführungsverordnungen;
 
 4.1.3 Funknavigation bei Flügen nach Instrumentenflugregeln einschließlich
-    Radarverfahren;
-
+      Radarverfahren;
 
 4.1.4 in der vereinfachten Prüfung gemäß § 14 Absatz 2 für Bewerber, die
-    Inhaber eines Flugfunkzeugnisses sind, das nicht im Geltungsbereich
-    dieser Verordnung erteilt worden ist, entfällt 4.1.
-
+      Inhaber eines Flugfunkzeugnisses sind, das nicht im Geltungsbereich
+      dieser Verordnung erteilt worden ist, entfällt 4.1.
 
 4.2 Fertigkeiten
 
     Im praktischen Teil sind folgende Fertigkeiten nachzuweisen:
 
-
-4.2.1 Vorbereitung eines Fluges nach Instrumentenflugregeln zwischen zwei
-    Verkehrsflughäfen unter Verwendung amtlicher Unterlagen und
-    Veröffentlichungen, soweit es für die Durchführung des
-    Sprechfunkverkehrs erforderlich ist;
-
+4.2.1 Vorbereitung eines Fluges nach Instrumentenflugregeln zwischen
+      zwei Verkehrsflughäfen unter Verwendung amtlicher Unterlagen
+      und Veröffentlichungen, soweit es für die Durchführung des
+      Sprechfunkverkehrs erforderlich ist;
 
 4.2.2 Abwicklung eines Sprechfunkverkehrs in englischer Sprache unter
-    Annahme eines Fluges nach Instrumentenflugregeln;
-
+      Annahme eines Fluges nach Instrumentenflugregeln;
 
 4.2.3 in Zusatzprüfungen für Bewerber, die Inhaber des BZF II sind, Lesen
-    eines Textes in englischer Sprache aus den Luftfahrthandbüchern (etwa
-    800 Schriftzeichen [Buchstaben, Ziffern und Zeichen]) mit
-    anschließender mündlicher Übersetzung in die deutsche Sprache;
-
+      eines Textes in englischer Sprache aus den Luftfahrthandbüchern
+      (etwa 800 Schriftzeichen [Buchstaben, Ziffern und Zeichen]) mit
+      anschließender mündlicher Übersetzung in die deutsche Sprache;
 
 4.2.4 in der vereinfachten Prüfung gemäß § 14 Absatz 2 für Bewerber, die
-    Inhaber eines Flugfunkzeugnisses sind, das nicht im Geltungsbereich
-    dieser Verordnung erteilt worden ist, sind lediglich Fertigkeiten nach
-    1\.2 nachzuweisen.
+      Inhaber eines Flugfunkzeugnisses sind, das nicht im Geltungsbereich
+      dieser Verordnung erteilt worden ist, sind lediglich Fertigkeiten nach
+      1\.2 nachzuweisen.
+
+5   **Zusatzprüfung für den Erwerb des AZF E**
+
+5.1 Kenntnisse gemäß 4.1
+
+5.2 Fertigkeiten gemäß 4.2.1 und 4.2.2
 
 
-**5** **Zusatzprüfung für den Erwerb des AZF E**
-
-
-5.1 Kenntnisse                    gemäß 4.1
-
-
-5.2 Fertigkeiten                    gemäß 4.2.1 und 4.2.2
-
-
-
-
-(zu § 18)
-
-## Anlage 2 Gebührenverzeichnis
+## Anlage 2 (zu § 18)Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2012, 188)
 
 Die Bundesnetzagentur erhebt für Amtshandlungen nach § 18 dieser
 Verordnung folgende Gebühren:
 
-
-*    *   1
-
-    *   2
-
-    *   3
-
-
-*    *   lfd. Nr.
-
-    *   Gebührentatbestand
-
-    *   Gebühr in Euro
-
-
-*    *   1
-
-    *   Abnahme einer Prüfung (§ 8) einschließlich Ausstellen eines
-        Flugfunkzeugnisses
-
-    *
-
-*    *
-        a)  zum Erwerb des BZF II
-
-
-
-
-    *   80
-
-
-*    *
-        b)  zum Erwerb des BZF I
-
-
-
-
-    *   95
-
-
-*    *
-        c)  zum Erwerb des BZF E
-
-
-
-
-    *   85
-
-
-*    *   2
-
-    *   Abnahme einer Wiederholungsprüfung (§ 9)
-
-    *
-
-*    *
-        a)  zum Erwerb des BZF II, BZF I oder BZF E; Wiederholung Theorie
-
-
-
-
-    *   56
-
-
-*    *
-        b)  zum Erwerb des BZF II; Wiederholung Praxis
-
-
-
-
-    *   63
-
-
-*    *
-        c)  zum Erwerb des BZF II; Wiederholung Theorie und Praxis
-
-
-
-
-    *   71
-
-
-*    *
-        d)  zum Erwerb des BZF I; Wiederholung Praxis
-
-
-
-
-    *   75
-
-
-*    *
-        e)  zum Erwerb des BZF I; Wiederholung Theorie und Praxis
-
-
-
-
-    *   83
-
-
-*    *
-        f)  zum Erwerb des BZF E; Wiederholung Praxis
-
-
-
-
-    *   66
-
-
-*    *
-        g)  zum Erwerb des BZF E; Wiederholung Theorie und Praxis
-
-
-
-
-    *   73
-
-
-*    *   3
-
-    *   Abnahme einer Zusatzprüfung (§ 10) einschließlich Ausstellen eines
-        Flugfunkzeugnisses
-
-    *
-
-*    *
-        a)  zum Erwerb des BZF I durch Inhaber des BZF II
-
-
-
-
-    *   80
-
-
-*    *
-        b)  zum Erwerb des AZF durch Inhaber des BZF II
-
-
-
-
-    *   91
-
-
-*    *
-        c)  zum Erwerb des AZF durch Inhaber des BZF I
-
-
-
-
-    *   86
-
-
-*    *
-        d)  zum Erwerb des AZF E durch Inhaber des BZF E
-
-
-
-
-    *   86
-
-
-*    *   4
-
-    *   Abnahme einer Nachprüfung (§ 11)
-
-    *   81
-
-
-*    *   5
-
-    *   Bearbeiten eines Antrags nach den §§ 12, 13, 13a oder 14
-
-    *
-
-*    *
-        a)  Ausstellen eines Flugfunkzeugnisses nach § 12
-
-
-
-
-    *   35
-
-
-*    *
-        b)  Ausstellen eines Flugfunkzeugnisses an Inhaber einer Bescheinigung der
-            Bundeswehr (§ 13) oder an Inhaber von Lizenzscheinen für den
-            Flugverkehrskontrolldienst (§ 13a)
-
-
-
-
-    *   35
-
-
-*    *
-        c)  Ausstellen eines Berechtigungsausweises an Inhaber eines
-            Flugfunkzeugnisses, das außerhalb des Geltungsbereichs dieser
-            Verordnung erteilt wurde (§ 14)
-
-
-
-
-    *   47
-
-
-*    *
-        d)  Ausstellen eines Flugfunkzeugnisses an Inhaber eines
-            Flugfunkzeugnisses, das außerhalb des Geltungsbereichs dieser
-            Verordnung erteilt wurde (§ 14), ohne vereinfachte Prüfung
-
-
-
-
-    *   43
-
-
-*    *
-        e)  Ausstellen eines Flugfunkzeugnisses an Inhaber eines
-            Flugfunkzeugnisses, das außerhalb des Geltungsbereichs dieser
-            Verordnung erteilt wurde (§ 14), mit vereinfachter Prüfung
-
-
-
-
-    *   82
-
-
-*    *   6
-
-    *   Abnahme einer Prüfung von Kenntnissen der englischen Sprache (§ 15)
-        einschließlich Ausstellen einer Bescheinigung bzw. Eintrag in den
-        Luftfahrerschein bei einer Verlängerungsprüfung
-
-    *   86
-
-
-*    *   7
-
-    *   beantragte Ausstellung einer Zweitschrift eines Flugfunkzeugnisses,
-        eines Berechtigungsausweises oder einer Bescheinigung der
-        Sprachprüfung nach § 16
-
-    *   35
-
-
-*    *   8
-
-    *   Änderung der beantragten Flugfunkzeugnisart nach § 6 Absatz 2
-
-    *   23
-
-
-*    *   9
-
-    *   Verlegung eines Prüfungstermins nach § 8 Absatz 1 Satz 2
-
-    *   20
-
-
-*    *   10
-
-    *   Ausstellen eines Flugfunkzeugnisses nach § 20
-
-    *   35
-
-
+| 1 | 2 | 3 |
+| --- | --- | --- |
+| lfd. Nr. | Gebührentatbestand | Gebühr in Euro |
+| 1 | Abnahme einer Prüfung (§ 8) einschließlich Ausstellen eines Flugfunkzeugnisses |  |
+| a) zum Erwerb des BZF II | 80 |  |
+| b) zum Erwerb des BZF I | 95 |  |
+| c) zum Erwerb des BZF E | 85 |  |
+| 2 | Abnahme einer Wiederholungsprüfung (§ 9) |  |
+| a) zum Erwerb des BZF II, BZF I oder BZF E; Wiederholung Theorie | 56 |  |
+| b) zum Erwerb des BZF II; Wiederholung Praxis | 63 |  |
+| c) zum Erwerb des BZF II; Wiederholung Theorie und Praxis | 71 |  |
+| d) zum Erwerb des BZF I; Wiederholung Praxis | 75 |  |
+| e) zum Erwerb des BZF I; Wiederholung Theorie und Praxis | 83 |  |
+| f) zum Erwerb des BZF E; Wiederholung Praxis | 66 |  |
+| g) zum Erwerb des BZF E; Wiederholung Theorie und Praxis | 73 |  |
+| 3 | Abnahme einer Zusatzprüfung (§ 10) einschließlich Ausstellen eines Flugfunkzeugnisses |  |
+| a) zum Erwerb des BZF I durch Inhaber des BZF II | 80 |  |
+| b) zum Erwerb des AZF durch Inhaber des BZF II | 91 |  |
+| c) zum Erwerb des AZF durch Inhaber des BZF I | 86 |  |
+| d) zum Erwerb des AZF E durch Inhaber des BZF E | 86 |  |
+| 4 | Abnahme einer Nachprüfung (§ 11) | 81 |
+| 5 | Bearbeiten eines Antrags nach den §§ 12, 13, 13a oder 14 |  |
+| a) Ausstellen eines Flugfunkzeugnisses nach § 12 | 35 |  |
+| b) Ausstellen eines Flugfunkzeugnisses an Inhaber einer Bescheinigung der Bundeswehr (§ 13) oder an Inhaber von Lizenzscheinen für den Flugverkehrskontrolldienst (§ 13a) | 35 |  |
+| c) Ausstellen eines Berechtigungsausweises an Inhaber eines Flugfunkzeugnisses, das außerhalb des Geltungsbereichs dieser Verordnung erteilt wurde (§ 14) | 47 |  |
+| d) Ausstellen eines Flugfunkzeugnisses an Inhaber eines Flugfunkzeugnisses, das außerhalb des Geltungsbereichs dieser Verordnung erteilt wurde (§ 14), ohne vereinfachte Prüfung | 43 |  |
+| e) Ausstellen eines Flugfunkzeugnisses an Inhaber eines Flugfunkzeugnisses, das außerhalb des Geltungsbereichs dieser Verordnung erteilt wurde (§ 14), mit vereinfachter Prüfung | 82 |  |
+| 6 | Abnahme einer Prüfung von Kenntnissen der englischen Sprache (§ 15) einschließlich Ausstellen einer Bescheinigung bzw. Eintrag in den Luftfahrerschein bei einer Verlängerungsprüfung | 86 |
+| 7 | beantragte Ausstellung einer Zweitschrift eines Flugfunkzeugnisses, eines Berechtigungsausweises oder einer Bescheinigung der Sprachprüfung nach § 16 | 35 |
+| 8 | Änderung der beantragten Flugfunkzeugnisart nach § 6 Absatz 2 | 23 |
+| 9 | Verlegung eines Prüfungstermins nach § 8 Absatz 1 Satz 2 | 20 |
+| 10 | Ausstellen eines Flugfunkzeugnisses nach § 20 | 35 |
 

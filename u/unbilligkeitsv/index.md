@@ -1,6 +1,5 @@
 ---
-Title: Verordnung zur Vermeidung unbilliger Härten durch Inanspruchnahme einer vorgezogenen
-  Altersrente
+Title: Verordnung zur Vermeidung unbilliger Härten durch Inanspruchnahme einer vorgezogenen Altersrente
 jurabk: UnbilligkeitsV
 layout: default
 origslug: unbilligkeitsv
@@ -52,8 +51,8 @@ Zukunft die Altersrente abschlagsfrei in Anspruch nehmen können.
 
 Unbillig ist die Inanspruchnahme, solange Hilfebedürftige
 sozialversicherungspflichtig beschäftigt sind oder aus sonstiger
-Erwerbstätigkeit ein entsprechend hohes Einkommen erzielen. Dies gilt
-nur, wenn die Beschäftigung oder sonstige Erwerbstätigkeit den
+Erwerbstätigkeit ein entsprechend hohes Einkommen erzielen. Dies
+gilt nur, wenn die Beschäftigung oder sonstige Erwerbstätigkeit den
 überwiegenden Teil der Arbeitskraft in Anspruch nimmt.
 
 
@@ -76,9 +75,9 @@ Stande kommen wird, entfällt die Unbilligkeit.
 
 ## § 6 Hilfebedürftigkeit im Alter
 
-Unbillig ist die Inanspruchnahme, wenn Leistungsberechtigte dadurch
-hilfebedürftig im Sinne der Grundsicherung im Alter und bei
-Erwerbsminderung nach dem Vierten Kapitel des Zwölften Buches
+Unbillig ist die Inanspruchnahme, wenn Leistungsberechtigte
+dadurch hilfebedürftig im Sinne der Grundsicherung im Alter und
+bei Erwerbsminderung nach dem Vierten Kapitel des Zwölften Buches
 Sozialgesetzbuch werden würden. Dies ist insbesondere anzunehmen, wenn
 der Betrag in Höhe von 70 Prozent der bei Erreichen der Altersgrenze
 (§ 7a des Zweiten Buches Sozialgesetzbuch) zu erwartenden monatlichen

@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über den Vorbereitungsdienst für den mittleren Wetterdienst des
-  Bundes
+Title: Verordnung über den Vorbereitungsdienst für den mittleren Wetterdienst des Bundes
 jurabk: MWDVDV
 layout: default
 origslug: mwdvdv
@@ -49,11 +48,8 @@ und Anwärter werden ausgebildet
 
 1.  für Assistenztätigkeiten im Vorhersage-, Warn- und Klimadienst sowie
 
-
 2.  für Tätigkeiten in der Wetterbeobachtung und in der
     Informationstechnik.
-
-
 
 Sie sollen zu verantwortlichem Handeln in einem freiheitlichen,
 demokratischen und sozialen Rechtsstaat befähigt werden.
@@ -62,8 +58,8 @@ demokratischen und sozialen Rechtsstaat befähigt werden.
 ### § 3 Dienstbehörden, Dienstaufsicht
 
 (1) Für Anwärterinnen und Anwärter, die nach Beendigung der Ausbildung
-ihren Dienst beim Deutschen Wetterdienst aufnehmen sollen, ist der
-Deutsche Wetterdienst die Einstellungsbehörde. Er ist für die
+ihren Dienst beim Deutschen Wetterdienst aufnehmen sollen, ist
+der Deutsche Wetterdienst die Einstellungsbehörde. Er ist für die
 Ausschreibung der Ausbildungsstellen, für die Durchführung des
 Auswahlverfahrens sowie für die Betreuung der von ihm eingestellten
 Anwärterinnen und Anwärter verantwortlich und für diese die zuständige
@@ -71,22 +67,22 @@ Dienstbehörde. Er entscheidet über eine Verkürzung oder Verlängerung
 des Vorbereitungsdienstes.
 
 (2) Für Anwärterinnen und Anwärter, die nach Beendigung der Ausbildung
-ihren Dienst im Geoinformationsdienst der Bundeswehr in einer Beamten-
-oder Soldatenlaufbahn aufnehmen sollen, ist das Bundesamt für das
-Personalmanagement der Bundeswehr die Einstellungsbehörde. Es ist für
-die Ausschreibung der Ausbildungsstellen, für die Durchführung des
-Auswahlverfahrens sowie für die Betreuung der von ihm eingestellten
-Anwärterinnen und Anwärter verantwortlich und für diese die zuständige
-Dienstbehörde. Über eine Verkürzung oder Verlängerung des
-Vorbereitungsdienstes entscheidet das Bundesamt für das
-Personalmanagement der Bundeswehr in Absprache mit der
+ihren Dienst im Geoinformationsdienst der Bundeswehr in einer
+Beamten- oder Soldatenlaufbahn aufnehmen sollen, ist das Bundesamt
+für das Personalmanagement der Bundeswehr die Einstellungsbehörde.
+Es ist für die Ausschreibung der Ausbildungsstellen, für die
+Durchführung des Auswahlverfahrens sowie für die Betreuung der von
+ihm eingestellten Anwärterinnen und Anwärter verantwortlich und
+für diese die zuständige Dienstbehörde. Über eine Verkürzung oder
+Verlängerung des Vorbereitungsdienstes entscheidet das Bundesamt
+für das Personalmanagement der Bundeswehr in Absprache mit der
 Ausbildungsleiterin oder dem Ausbildungsleiter (§ 10 Absatz 2) und im
 Einvernehmen mit dem Zentrum für Geoinformationswesen der Bundeswehr.
 Das Bundesministerium der Verteidigung kann die Zuständigkeiten nach
 den Sätzen 1 bis 3 auf andere Behörden übertragen.
 
-(3) Die Anwärterinnen und Anwärter unterstehen der Dienstaufsicht der
-Leitung ihrer Einstellungsbehörde. Während der Ausbildung in
+(3) Die Anwärterinnen und Anwärter unterstehen der Dienstaufsicht
+der Leitung ihrer Einstellungsbehörde. Während der Ausbildung in
 Dienststellen der Bundeswehr oder des Deutschen Wetterdienstes
 unterstehen sie auch der Dienstaufsicht der Leitungen dieser Behörden.
 
@@ -99,11 +95,7 @@ allgemeinen beamtenrechtlichen Einstellungsvoraussetzungen
 1.  die gesundheitlichen Anforderungen für den Dienst zu wechselnden
     Zeiten erfüllt und
 
-
 2.  ein ausreichendes Seh-, Hör- und Sprechvermögen besitzt.
-
-
-
 
 (2) Bewerberinnen und Bewerber für den Geoinformationsdienst der
 Bundeswehr müssen zusätzlich
@@ -112,20 +104,16 @@ Bundeswehr müssen zusätzlich
     Auslandseinsätzen der Bundeswehr als Soldatin oder Soldat
     teilzunehmen, oder
 
-
 2.  für eine Soldatenlaufbahn erfolgreich ein
     Eignungsfeststellungsverfahren absolviert haben.
-
-
-
 
 
 ### § 5 Auswahlverfahren
 
 (1) Über die Einstellung in den Vorbereitungsdienst entscheidet die
 Einstellungsbehörde auf der Grundlage eines Auswahlverfahrens. In
-diesem wird festgestellt, ob die Bewerberinnen und Bewerber nach ihren
-Kenntnissen, Fähigkeiten und persönlichen Eigenschaften für den
+diesem wird festgestellt, ob die Bewerberinnen und Bewerber nach
+ihren Kenntnissen, Fähigkeiten und persönlichen Eigenschaften für den
 Vorbereitungsdienst geeignet sind. Das Auswahlverfahren besteht aus
 mindestens zwei Teilen, von denen mindestens einer eine schriftliche
 Prüfung sein muss.
@@ -133,14 +121,14 @@ Prüfung sein muss.
 (2) Zum Auswahlverfahren wird zugelassen, wer nach den eingereichten
 Unterlagen die in der Ausschreibung bestimmten Voraussetzungen
 erfüllt. Übersteigt die Zahl der geeigneten Bewerberinnen und Bewerber
-das Dreifache der Zahl der angebotenen Ausbildungsplätze, kann die
-Zahl der am Auswahlverfahren Teilnehmenden beschränkt werden; jedoch
-sind mindestens dreimal so viele Bewerberinnen und Bewerber zum
-Auswahlverfahren zuzulassen, wie Ausbildungsplätze angeboten werden.
-In diesem Fall werden zunächst schwerbehinderte und diesen
+das Dreifache der Zahl der angebotenen Ausbildungsplätze, kann
+die Zahl der am Auswahlverfahren Teilnehmenden beschränkt werden;
+jedoch sind mindestens dreimal so viele Bewerberinnen und Bewerber
+zum Auswahlverfahren zuzulassen, wie Ausbildungsplätze angeboten
+werden. In diesem Fall werden zunächst schwerbehinderte und diesen
 gleichgestellte behinderte Menschen sowie ehemalige Soldatinnen auf
 Zeit und Soldaten auf Zeit mit Eingliederungs- oder Zulassungsschein
-nach § 9 des Soldatenversorgungsgesetzes zum Auswahlverfahren
+nach § 13 des Soldatenversorgungsgesetzes zum Auswahlverfahren
 zugelassen; sodann wird zugelassen, wer nach den eingereichten
 Unterlagen, insbesondere nach den für die Ausbildung relevanten
 Zeugnisnoten, am besten geeignet ist.
@@ -158,23 +146,18 @@ Auswahlkommission gebildet. Sie besteht aus
     Wetterdienst dem Deutschen Wetterdienst und bei Bewerbungen für den
     Geoinformationsdienst der Bundeswehr der Bundeswehr angehört,
 
-
 2.  einer Beamtin oder einem Beamten des gehobenen Dienstes, die oder der
     bei Bewerbungen für den Deutschen Wetterdienst der Bundeswehr und bei
     Bewerbungen für den Geoinformationsdienst der Bundeswehr dem Deutschen
     Wetterdienst angehört,
 
-
-3.  einer Beamtin oder einem Beamten des mittleren Dienstes, die oder der
-    bei Bewerbungen für den Deutschen Wetterdienst dem Deutschen
+3.  einer Beamtin oder einem Beamten des mittleren Dienstes, die oder
+    der bei Bewerbungen für den Deutschen Wetterdienst dem Deutschen
     Wetterdienst und bei Bewerbungen für den Geoinformationsdienst der
     Bundeswehr der Bundeswehr angehört, sowie
 
-
 4.  bei Bewerbungen für den Geoinformationsdienst der Bundeswehr einer
     Psychologin oder einem Psychologen.
-
-
 
 Als Mitglieder der Auswahlkommission können auch vergleichbare
 Soldatinnen und Soldaten oder vergleichbare Tarifbeschäftigte bestellt
@@ -198,10 +181,10 @@ gleichen Bewertungs- und Auswahlmaßstäbe angelegt werden.
 
 ### § 6 Nachteilsausgleich
 
-(1) Schwerbehinderten und diesen gleichgestellten behinderten Menschen
-werden im Auswahlverfahren und bei Leistungsnachweisen sowie in der
-schriftlichen, praktischen und mündlichen Abschlussprüfung angemessene
-Erleichterungen gewährt. Hierauf sind sie durch die
+(1) Schwerbehinderten und diesen gleichgestellten behinderten
+Menschen werden im Auswahlverfahren und bei Leistungsnachweisen sowie
+in der schriftlichen, praktischen und mündlichen Abschlussprüfung
+angemessene Erleichterungen gewährt. Hierauf sind sie durch die
 Einstellungsbehörde rechtzeitig hinzuweisen. Art und Umfang der
 Erleichterungen sind mit ihnen und der Schwerbehindertenvertretung
 rechtzeitig zu erörtern. Die Erleichterungen dürfen nicht dazu führen,
@@ -230,131 +213,28 @@ Leistungsnachweisen und der berufspraktischen Ausbildung.
 (1) Die Leistungen der Anwärterinnen und Anwärter werden wie folgt
 bewertet:
 
-*    *   Prozentualer Anteil der erreichten Punktzahl an der erreichbaren
-        Punktzahl
-
-    *   Rangpunkte/
-        Rangpunktzahlen
-
-    *   Note
-
-    *   Erläuterung
-
-
-*    *   100,00 bis 93,70
-
-    *   15
-
-    *   sehr gut
-
-    *   eine Leistung, die den Anforderungen in besonderem Maße entspricht
-
-
-*    *   93,69 bis 87,50
-
-    *   14
-
-
-*    *   87,49 bis 83,40
-
-    *   13
-
-    *   gut
-
-    *   eine Leistung, die den Anforderungen voll entspricht
-
-
-*    *   83,39 bis 79,20
-
-    *   12
-
-
-*    *   79,19 bis 75,00
-
-    *   11
-
-
-*    *   74,99 bis 70,90
-
-    *   10
-
-    *   befriedigend
-
-    *   eine Leistung, die im Allgemeinen den Anforderungen entspricht
-
-
-*    *   70,89 bis 66,70
-
-    *   9
-
-
-*    *   66,69 bis 62,50
-
-    *   8
-
-
-*    *   62,49 bis 58,40
-
-    *   7
-
-    *   ausreichend
-
-    *   eine Leistung, die zwar Mängel aufweist, aber im Ganzen den
-        Anforderungen noch entspricht
-
-
-*    *   58,39 bis 54,20
-
-    *   6
-
-
-*    *   54,19 bis 50,00
-
-    *   5
-
-
-*    *   49,99 bis 41,70
-
-    *   4
-
-    *   mangelhaft
-
-    *   eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen
-        lässt, dass die notwendigen Grundkenntnisse vorhanden sind und die
-        Mängel in absehbarer Zeit behoben werden können
-
-
-*    *   41,69 bis 33,40
-
-    *   3
-
-
-*    *   33,39 bis 25,00
-
-    *   2
-
-
-*    *   24,99 bis 12,50
-
-    *   1
-
-    *   ungenügend
-
-    *   eine Leistung, die den Anforderungen nicht entspricht und bei der
-        selbst die Grundkenntnisse so lückenhaft sind, dass die Mängel in
-        absehbarer Zeit nicht behoben werden können
-
-
-*    *   12,49 bis 0,00
-
-    *   0
-
-
-
+| Prozentualer Anteil der erreichten Punktzahl an der erreichbaren Punktzahl | Rangpunkte/ Rangpunktzahlen | Note | Erläuterung |
+| --- | --- | --- | --- |
+| 100,00 bis 93,70 | 15 | sehr gut | eine Leistung, die den Anforderungen in besonderem Maße entspricht |
+| 93,69 bis 87,50 | 14 |  |  |
+| 87,49 bis 83,40 | 13 | gut | eine Leistung, die den Anforderungen voll entspricht |
+| 83,39 bis 79,20 | 12 |  |  |
+| 79,19 bis 75,00 | 11 |  |  |
+| 74,99 bis 70,90 | 10 | befriedigend | eine Leistung, die im Allgemeinen den Anforderungen entspricht |
+| 70,89 bis 66,70 | 9 |  |  |
+| 66,69 bis 62,50 | 8 |  |  |
+| 62,49 bis 58,40 | 7 | ausreichend | eine Leistung, die zwar Mängel aufweist, aber im Ganzen den Anforderungen noch entspricht |
+| 58,39 bis 54,20 | 6 |  |  |
+| 54,19 bis 50,00 | 5 |  |  |
+| 49,99 bis 41,70 | 4 | mangelhaft | eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen lässt, dass die notwendigen Grundkenntnisse vorhanden sind und die Mängel in absehbarer Zeit behoben werden können |
+| 41,69 bis 33,40 | 3 |  |  |
+| 33,39 bis 25,00 | 2 |  |  |
+| 24,99 bis 12,50 | 1 | ungenügend | eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Grundkenntnisse so lückenhaft sind, dass die Mängel in absehbarer Zeit nicht behoben werden können |
+| 12,49 bis 0,00 | 0 |  |  |
 
 (2) Bei der Bewertung sind neben der fachlichen Leistung auch die
-Gliederung und Klarheit der Darstellung sowie das Ausdrucksvermögen zu
-berücksichtigen.
+Gliederung und Klarheit der Darstellung sowie das Ausdrucksvermögen
+zu berücksichtigen.
 
 (3) Sofern nichts anderes bestimmt ist, werden die
 Durchschnittsrangpunktzahlen auf zwei Nachkommastellen ohne Auf- oder
@@ -372,17 +252,17 @@ Persönlichkeit geeignet ist.
 
 (2) Der Deutsche Wetterdienst bestellt eine Ausbildungsleiterin oder
 einen Ausbildungsleiter und eine Vertretung. Die Ausbildungsleiterin
-oder der Ausbildungsleiter muss Beamtin oder Beamter des höheren oder
-gehobenen Dienstes sein. Sie oder er ist für die konzeptionelle
+oder der Ausbildungsleiter muss Beamtin oder Beamter des höheren
+oder gehobenen Dienstes sein. Sie oder er ist für die konzeptionelle
 Gestaltung und die Organisation der Ausbildung zuständig und stellt
 eine sorgfältige Ausbildung der Anwärterinnen und Anwärter sicher.
 
-(3) Jede Behörde oder Dienststelle, der Anwärterinnen und Anwärter zur
-berufspraktischen Ausbildung zugewiesen werden (Ausbildungsstelle),
-bestellt eine Ausbildungsbeauftragte oder einen
-Ausbildungsbeauftragten und eine Vertretung. Die
-Ausbildungsbeauftragten sind für die ordnungsgemäße Durchführung der
-berufspraktischen Ausbildung verantwortlich und beraten die
+(3) Jede Behörde oder Dienststelle, der Anwärterinnen und
+Anwärter zur berufspraktischen Ausbildung zugewiesen werden
+(Ausbildungsstelle), bestellt eine Ausbildungsbeauftragte
+oder einen Ausbildungsbeauftragten und eine Vertretung. Die
+Ausbildungsbeauftragten sind für die ordnungsgemäße Durchführung
+der berufspraktischen Ausbildung verantwortlich und beraten die
 Anwärterinnen und Anwärter sowie die Ausbildenden.
 
 (4) Die Ausbildungsbeauftragten werden von Ausbildenden unterstützt.
@@ -397,8 +277,8 @@ Dienstgeschäften entlastet.
 
 ### § 11 Ausbildungsrahmenplan, Lehrpläne, Ausbildungspläne
 
-(1) Der Deutsche Wetterdienst erstellt in Zusammenarbeit mit dem
-Zentrum für Geoinformationswesen der Bundeswehr einen
+(1) Der Deutsche Wetterdienst erstellt in Zusammenarbeit mit
+dem Zentrum für Geoinformationswesen der Bundeswehr einen
 Ausbildungsrahmenplan, der die Ausbildungsinhalte und -ziele sowie die
 Dauer der Ausbildungsabschnitte bestimmt.
 
@@ -407,14 +287,10 @@ Ausbildungsleiterin oder der Ausbildungsleiter
 
 1.  die Lehrpläne für die Ausbildungslehrgänge sowie
 
-
 2.  für jede Anwärterin und jeden Anwärter einen Ausbildungsplan, in dem
     die Ausbildungsstellen und Arbeitsbereiche sowie die Zeiträume der
     Ausbildungsabschnitte enthalten sind, und gibt ihn der Anwärterin oder
     dem Anwärter bekannt.
-
-
-
 
 
 ### § 12 Fachtheoretische Ausbildung
@@ -429,19 +305,13 @@ Bundes erforderlich sind.
 
 1.  allgemeine Grundlagen des Wetterfachdienstes,
 
-
 2.  fachspezifische Themenbereiche des Wetterfachdienstes,
-
 
 3.  Rechtsgrundlagen in der Praxis,
 
-
 4.  Informationstechnik und
 
-
 5.  fachspezifisches Englisch.
-
-
 
 Einzelheiten regeln der Ausbildungsrahmenplan und die Lehrpläne.
 
@@ -457,14 +327,14 @@ und Dienststellen des Deutschen Wetterdienstes und der Bundeswehr
 statt. Die Anwärterinnen und Anwärter werden dabei überwiegend im
 Wetterfachdienst, im Datendienst und im Betriebsdienst eingesetzt.
 
-(3) Am Ende jedes Ausbildungsabschnitts von mindestens einem Monat
-Dauer erstellt die oder der Ausbildungsbeauftragte unter Beteiligung
-der Ausbildenden für jede Anwärterin und jeden Anwärter eine
-dienstliche Bewertung. In dieser wird der Ausbildungserfolg mit
-Rangpunkten und der entsprechenden Note angegeben; des Weiteren
-enthält sie die wesentlichen Leistungs-, Eignungs- und
-Befähigungsmerkmale sowie Angaben zur Dauer und zu Unterbrechungen der
-Ausbildung. Die dienstliche Bewertung ist der Anwärterin oder dem
+(3) Am Ende jedes Ausbildungsabschnitts von mindestens einem
+Monat Dauer erstellt die oder der Ausbildungsbeauftragte unter
+Beteiligung der Ausbildenden für jede Anwärterin und jeden Anwärter
+eine dienstliche Bewertung. In dieser wird der Ausbildungserfolg
+mit Rangpunkten und der entsprechenden Note angegeben; des
+Weiteren enthält sie die wesentlichen Leistungs-, Eignungs- und
+Befähigungsmerkmale sowie Angaben zur Dauer und zu Unterbrechungen
+der Ausbildung. Die dienstliche Bewertung ist der Anwärterin oder dem
 Anwärter bekannt zu geben und mit ihr oder ihm zu besprechen.
 
 
@@ -478,19 +348,13 @@ Leistungsnachweise können sein:
 
 1.  Klausuren,
 
-
 2.  praktische Arbeiten,
-
 
 3.  Präsentationen,
 
-
 4.  Anwendungen in der Informationstechnik und
 
-
 5.  kurze schriftliche oder mündliche Leistungstests.
-
-
 
 Das Nähere regelt der Ausbildungsrahmenplan.
 
@@ -508,8 +372,8 @@ Prüfungsamt entscheidet.
 
 ### § 15 Zeugnis, Ausbildungsrangpunktzahl
 
-Über den Erfolg der Ausbildung erstellt der Deutsche Wetterdienst ein
-zusammenfassendes Zeugnis, in dem die Rangpunkte und Noten der
+Über den Erfolg der Ausbildung erstellt der Deutsche Wetterdienst
+ein zusammenfassendes Zeugnis, in dem die Rangpunkte und Noten der
 Leistungsnachweise und der dienstlichen Bewertungen sowie die sich
 daraus ergebende Durchschnittsrangpunktzahl (Ausbildungsrangpunktzahl)
 aufzuführen sind. Die Anwärterin oder der Anwärter erhält eine
@@ -555,46 +419,33 @@ Bewertungsmaßstäbe anlegen.
     Dienstes des Geoinformationsdienstes der Bundeswehr als Vorsitzender
     oder Vorsitzendem,
 
-
 2.  je einer Beamtin oder einem Beamten des gehobenen Dienstes
 
     a)  des Deutschen Wetterdienstes und
 
-
     b)  des Geoinformationsdienstes der Bundeswehr sowie
-
-
-
-
 
 3.  zwei Beamtinnen oder Beamten des mittleren Dienstes, und zwar:
 
     a)  je einer Beamtin oder einem Beamten des Deutschen Wetterdienstes und
         des Geoinformationsdienstes der Bundeswehr,
 
-
     b)  wenn ausschließlich Anwärterinnen oder Anwärter geprüft werden, die
         für eine spätere Verwendung beim Deutschen Wetterdienst vorgesehen
         sind: zwei Beamtinnen oder Beamten des Deutschen Wetterdienstes,
 
-
-    c)  wenn ausschließlich Anwärterinnen oder Anwärter geprüft werden, die
-        für eine spätere Verwendung beim Geoinformationsdienst der Bundeswehr
-        vorgesehen sind: zwei Beamtinnen oder Beamten des
+    c)  wenn ausschließlich Anwärterinnen oder Anwärter geprüft werden,
+        die für eine spätere Verwendung beim Geoinformationsdienst der
+        Bundeswehr vorgesehen sind: zwei Beamtinnen oder Beamten des
         Geoinformationsdienstes der Bundeswehr.
 
-
-
-
-
-
 Als Mitglieder einer Prüfungskommission können auch vergleichbare
-Soldatinnen und Soldaten oder vergleichbare Tarifbeschäftigte bestellt
-werden, sofern sie über entsprechende Kenntnisse verfügen. Die
-Spitzenorganisationen der Gewerkschaften und die Berufsverbände des
-öffentlichen Dienstes können geeignete Personen vorschlagen. Bei der
-Besetzung der Prüfungskommission werden Frauen und Männer in einem
-ausgewogenen Verhältnis berücksichtigt. Die Mitglieder und
+Soldatinnen und Soldaten oder vergleichbare Tarifbeschäftigte
+bestellt werden, sofern sie über entsprechende Kenntnisse verfügen.
+Die Spitzenorganisationen der Gewerkschaften und die Berufsverbände
+des öffentlichen Dienstes können geeignete Personen vorschlagen.
+Bei der Besetzung der Prüfungskommission werden Frauen und Männer
+in einem ausgewogenen Verhältnis berücksichtigt. Die Mitglieder und
 Ersatzmitglieder werden vom Prüfungsamt für die Dauer von höchstens
 drei Jahren bestellt. Wiederbestellung ist zulässig.
 
@@ -626,17 +477,11 @@ folgenden Gebieten:
 
 1.  Wetterfachdienst,
 
-
 2.  Datendienst,
-
 
 3.  Betriebsdienst und
 
-
 4.  Rechtsgrundlagen in der Praxis.
-
-
-
 
 (3) Das Prüfungsamt bestimmt die Aufgaben der Klausuren auf Vorschlag
 des Deutschen Wetterdienstes und des Geoinformationsdienstes der
@@ -644,8 +489,8 @@ Bundeswehr.
 
 (4) Die Bearbeitungszeit für jede Klausur beträgt drei Zeitstunden.
 Zulässige Hilfsmittel sind jeweils vom Prüfungsamt anzugeben. Die
-Aufsichtführenden haben für jede Anwärterin und jeden Anwärter den
-Zeitpunkt des Beginns und den der Abgabe der Klausur, etwaige
+Aufsichtführenden haben für jede Anwärterin und jeden Anwärter
+den Zeitpunkt des Beginns und den der Abgabe der Klausur, etwaige
 Unterbrechungen, in Anspruch genommene Prüfungserleichterungen nach §
 6 Absatz 2 und besondere Vorkommnisse zu dokumentieren.
 
@@ -657,8 +502,8 @@ darf den Prüfenden erst nach der endgültigen Bewertung der Klausuren
 bekannt gegeben werden.
 
 (6) Die nach § 18 Absatz 6 bestimmten Prüfenden bewerten die Klausuren
-unabhängig voneinander. Die Zweitprüfenden dürfen Kenntnis von der
-Bewertung der Erstprüfenden haben. Weichen die Bewertungen um
+unabhängig voneinander. Die Zweitprüfenden dürfen Kenntnis von
+der Bewertung der Erstprüfenden haben. Weichen die Bewertungen um
 höchstens drei Rangpunkte voneinander ab, wird das arithmetische
 Mittel gebildet. Weichen die Bewertungen um mehr als drei Rangpunkte
 voneinander ab, entscheidet die Prüfungskommission.
@@ -679,14 +524,9 @@ praktischen Aufgaben aus den folgenden Gebieten:
 
 1.  Wetterfachdienst,
 
-
 2.  Datendienst und Betriebsdienst sowie
 
-
 3.  Informationstechnik.
-
-
-
 
 (2) Das Prüfungsamt gibt für jeden Teil der praktischen
 Abschlussprüfung die Bearbeitungszeit an. Sie soll für alle drei Teile
@@ -717,17 +557,11 @@ geprüft:
 
 1.  Wetterfachdienst,
 
-
 2.  Datendienst,
-
 
 3.  Betriebsdienst und
 
-
 4.  Rechtsgrundlagen in der Praxis.
-
-
-
 
 (4) Die mündliche Abschlussprüfung wird als Gruppenprüfung
 durchgeführt. Eine Gruppe soll aus höchstens fünf Personen bestehen.
@@ -740,9 +574,9 @@ Die oder der Vorsitzende der Prüfungskommission leitet die Prüfung.
 des Prüfungsamtes dürfen anwesend sein. Das Prüfungsamt kann
 Vertreterinnen und Vertretern des Bundesministeriums für Verkehr und
 digitale Infrastruktur sowie des Bundesministeriums der Verteidigung
-die Anwesenheit in der mündlichen Abschlussprüfung allgemein oder im
-Einzelfall gestatten. In Ausnahmefällen kann die Anwesenheit auch
-anderen mit der Ausbildung befassten Personen gestattet werden.
+die Anwesenheit in der mündlichen Abschlussprüfung allgemein oder
+im Einzelfall gestatten. In Ausnahmefällen kann die Anwesenheit
+auch anderen mit der Ausbildung befassten Personen gestattet werden.
 Zuhörerinnen und Zuhörer dürfen während der Prüfung keinerlei
 Aufzeichnungen machen. Im Übrigen gelten die Teilnahmerechte der
 Gleichstellungsbeauftragten sowie der Personalvertretungen und der
@@ -771,18 +605,18 @@ Prüfungsteil ohne Genehmigung des Prüfungsamtes gilt diese Prüfung
 oder dieser Prüfungsteil als mit null Rangpunkten bewertet.
 
 (2) Wird das Fernbleiben oder der Rücktritt genehmigt, gilt die
-schriftliche, die praktische oder die mündliche Abschlussprüfung oder
-der Prüfungsteil als nicht begonnen. Die Genehmigung darf nur erteilt
-werden, wenn wichtige Gründe vorliegen. Bei Erkrankung soll die
-Genehmigung nur erteilt werden, wenn unverzüglich ein ärztliches
+schriftliche, die praktische oder die mündliche Abschlussprüfung
+oder der Prüfungsteil als nicht begonnen. Die Genehmigung darf nur
+erteilt werden, wenn wichtige Gründe vorliegen. Bei Erkrankung soll
+die Genehmigung nur erteilt werden, wenn unverzüglich ein ärztliches
 Attest vorgelegt wird. Auf Verlangen des Prüfungsamtes ist ein
 amtsärztliches Attest vorzulegen oder das Attest einer Ärztin oder
 eines Arztes, die oder der von der Einstellungsbehörde beauftragt
 worden ist.
 
 (3) Das Prüfungsamt bestimmt, wann die schriftliche, die praktische
-oder die mündliche Abschlussprüfung oder der Prüfungsteil nachgeholt
-wird; es entscheidet, inwieweit die bereits erbrachten
+oder die mündliche Abschlussprüfung oder der Prüfungsteil
+nachgeholt wird; es entscheidet, inwieweit die bereits erbrachten
 Prüfungsleistungen gewertet werden.
 
 
@@ -791,18 +625,18 @@ Prüfungsleistungen gewertet werden.
 (1) Anwärterinnen und Anwärtern, die bei der Abschlussprüfung
 täuschen, eine Täuschung versuchen, daran mitwirken oder sonst gegen
 die Ordnung verstoßen, soll die Fortsetzung der Prüfung unter dem
-Vorbehalt einer abweichenden Entscheidung des Prüfungsamtes oder der
-Prüfungskommission nach Absatz 2 gestattet werden. Bei einem
+Vorbehalt einer abweichenden Entscheidung des Prüfungsamtes oder
+der Prüfungskommission nach Absatz 2 gestattet werden. Bei einem
 erheblichen Verstoß können sie von der weiteren Teilnahme an der
 gesamten Laufbahnprüfung ausgeschlossen werden.
 
-(2) Über das Vorliegen und die Folgen eines Ordnungsverstoßes während
-der schriftlichen oder der praktischen Abschlussprüfung entscheidet
-das Prüfungsamt. Über das Vorliegen und die Folgen eines
+(2) Über das Vorliegen und die Folgen eines Ordnungsverstoßes
+während der schriftlichen oder der praktischen Abschlussprüfung
+entscheidet das Prüfungsamt. Über das Vorliegen und die Folgen eines
 Ordnungsverstoßes während der mündlichen Abschlussprüfung entscheidet
-die Prüfungskommission; § 18 Absatz 4 und 5 gilt entsprechend. Das
-Prüfungsamt oder die Prüfungskommission kann je nach Schwere des
-Verstoßes die Wiederholung einzelner Prüfungsteile anordnen,
+die Prüfungskommission; § 18 Absatz 4 und 5 gilt entsprechend.
+Das Prüfungsamt oder die Prüfungskommission kann je nach Schwere
+des Verstoßes die Wiederholung einzelner Prüfungsteile anordnen,
 Prüfungsteile mit null Rangpunkten bewerten oder die gesamte
 Laufbahnprüfung für nicht bestanden erklären.
 
@@ -818,17 +652,17 @@ und 3 anzuhören.
 
 ### § 24 Wiederholung von Ausbildungsabschnitten und Abschlussprüfungen
 
-(1) Wer eine Ausbildungsrangpunktzahl von weniger als 5 erreicht hat,
-kann Ausbildungsabschnitte einschließlich der Leistungsnachweise
+(1) Wer eine Ausbildungsrangpunktzahl von weniger als 5 erreicht
+hat, kann Ausbildungsabschnitte einschließlich der Leistungsnachweise
 einmal wiederholen. Das Prüfungsamt bestimmt, wie lang die
 Wiederholungsphase sein soll, welche Ausbildungsabschnitte zu
-wiederholen und welche Leistungsnachweise zu erbringen sind. Die
-Wiederholungsphase soll mindestens drei und höchstens zwölf Monate
-dauern. Der Vorbereitungsdienst wird bis zum Ablauf der
-Wiederholungsphase verlängert. Die Ausbildungsleiterin oder der
-Ausbildungsleiter stellt für die Ausbildung während der
-Wiederholungsphase einen ergänzenden Ausbildungsplan auf, der die zu
-absolvierenden Ausbildungsabschnitte und die zu erbringenden
+wiederholen und welche Leistungsnachweise zu erbringen sind.
+Die Wiederholungsphase soll mindestens drei und höchstens zwölf
+Monate dauern. Der Vorbereitungsdienst wird bis zum Ablauf der
+Wiederholungsphase verlängert. Die Ausbildungsleiterin oder
+der Ausbildungsleiter stellt für die Ausbildung während der
+Wiederholungsphase einen ergänzenden Ausbildungsplan auf, der die
+zu absolvierenden Ausbildungsabschnitte und die zu erbringenden
 Leistungsnachweise enthält. § 15 gilt entsprechend.
 
 (2) Anwärterinnen und Anwärter, die
@@ -837,11 +671,8 @@ Leistungsnachweise enthält. § 15 gilt entsprechend.
     Abschlussprüfung erbrachten Leistungen jeweils mindestens fünf
     Rangpunkte erreicht haben oder
 
-
 2.  in der mündlichen Abschlussprüfung nicht mindestens die
     Durchschnittsrangpunktzahl 5 erreicht haben,
-
-
 
 können die jeweilige Prüfung einmal wiederholen. In begründeten
 Ausnahmefällen kann die oberste Dienstbehörde eine zweite Wiederholung
@@ -859,30 +690,24 @@ Vorbereitungsdienst beendet.
 ### § 25 Bestehen der Laufbahnprüfung
 
 (1) Im Anschluss an die mündliche Abschlussprüfung errechnet die
-Prüfungskommission die Rangpunktzahl der Laufbahnprüfung und setzt die
-Abschlussnote fest. Die Rangpunktzahl der Laufbahnprüfung wird aus der
-Ausbildungsrangpunktzahl sowie den in der schriftlichen, der
-praktischen und der mündlichen Abschlussprüfung erzielten
-Durchschnittsrangpunktzahlen errechnet; dabei sind die
+Prüfungskommission die Rangpunktzahl der Laufbahnprüfung und setzt
+die Abschlussnote fest. Die Rangpunktzahl der Laufbahnprüfung
+wird aus der Ausbildungsrangpunktzahl sowie den in der
+schriftlichen, der praktischen und der mündlichen Abschlussprüfung
+erzielten Durchschnittsrangpunktzahlen errechnet; dabei sind die
 Ausbildungsrangpunktzahlen und die Durchschnittsrangpunktzahlen wie
 folgt zu gewichten:
 
 1.  die Ausbildungsrangpunktzahl mit 30 Prozent,
 
-
 2.  die Durchschnittsrangpunktzahl der schriftlichen Abschlussprüfung mit
     25 Prozent,
-
 
 3.  die Durchschnittsrangpunktzahl der praktischen Abschlussprüfung mit 25
     Prozent und
 
-
-4.  die Durchschnittsrangpunktzahl der mündlichen Abschlussprüfung mit 20
-    Prozent.
-
-
-
+4.  die Durchschnittsrangpunktzahl der mündlichen Abschlussprüfung mit
+    20 Prozent.
 
 (2) Die Laufbahnprüfung ist bestanden, wenn eine Rangpunktzahl von
 mindestens 5 erreicht worden ist. Ist die Laufbahnprüfung bestanden,
@@ -891,8 +716,8 @@ Abschlussnote bei Nachkommawerten ab 50 aufgerundet und bei kleineren
 Nachkommawerten abgerundet.
 
 (3) Im Anschluss an die mündliche Prüfung teilt die oder der
-Vorsitzende der Prüfungskommission den Anwärterinnen und Anwärtern die
-Ergebnisse der mündlichen Abschlussprüfung mit und erläutert die
+Vorsitzende der Prüfungskommission den Anwärterinnen und Anwärtern
+die Ergebnisse der mündlichen Abschlussprüfung mit und erläutert die
 Bewertungen auf Verlangen kurz mündlich.
 
 
@@ -905,19 +730,15 @@ Abschlusszeugnis. Das Abschlusszeugnis enthält:
     Laufbahnprüfung bestanden und die Befähigung für den mittleren
     naturwissenschaftlichen Dienst des Bundes erlangt hat, sowie
 
-
 2.  die Ausbildungsrangpunktzahl, die in der schriftlichen, der
     praktischen und der mündlichen Abschlussprüfung jeweils erreichte
     Durchschnittsrangpunktzahl, die Rangpunktzahl der Laufbahnprüfung und
     die Abschlussnote.
 
-
-
-
 (2) Wer die Laufbahnprüfung nicht bestanden hat, erhält vom
 Prüfungsamt einen Bescheid über die nicht bestandene Laufbahnprüfung
-und eine Bescheinigung über die erbrachten Ausbildungsleistungen. Aus
-der Bescheinigung geht hervor, wie lange die Ausbildung dauerte,
+und eine Bescheinigung über die erbrachten Ausbildungsleistungen.
+Aus der Bescheinigung geht hervor, wie lange die Ausbildung dauerte,
 welche Inhalte sie umfasste und wie viele Rangpunkte erzielt wurden.
 
 
@@ -929,23 +750,17 @@ Prüfungsakte. Darin aufzunehmen sind:
 1.  eine Kopie des zusammenfassenden Zeugnisses nach § 15 und eines
     Zeugnisses nach § 15 in Verbindung mit § 24 Absatz 1 Satz 7,
 
-
 2.  die Klausuren der schriftlichen Abschlussprüfung,
-
 
 3.  die Bewertungen der drei Teile der praktischen Abschlussprüfung,
 
-
 4.  das Protokoll über die mündliche Abschlussprüfung und
-
 
 5.  eine Kopie des Abschlusszeugnisses oder des Bescheids über die nicht
     bestandene Laufbahnprüfung.
 
-
-
-Die Prüfungsakten werden nach Beendigung des Vorbereitungsdienstes zu
-den Ausbildungsakten genommen und beim Deutschen Wetterdienst
+Die Prüfungsakten werden nach Beendigung des Vorbereitungsdienstes
+zu den Ausbildungsakten genommen und beim Deutschen Wetterdienst
 mindestens fünf und höchstens zehn Jahre aufbewahrt.
 
 (2) Nach Bekanntgabe des Abschlusszeugnisses oder des Bescheids über
@@ -961,10 +776,10 @@ der jeweiligen Akte zu vermerken.
 
 Für Anwärterinnen und Anwärter, die vor dem Inkrafttreten dieser
 Verordnung mit dem Vorbereitungsdienst begonnen haben, ist die
-Verordnung über die Laufbahn, Ausbildung und Prüfung für den mittleren
-Wetterdienst des Bundes im Deutschen Wetterdienst und im
-Geophysikalischen Beratungsdienst der Bundeswehr vom 1. Oktober 2001
-(BGBl. I S. 2595), die zuletzt durch Artikel 3 Absatz 16 der
+Verordnung über die Laufbahn, Ausbildung und Prüfung für den
+mittleren Wetterdienst des Bundes im Deutschen Wetterdienst und
+im Geophysikalischen Beratungsdienst der Bundeswehr vom 1. Oktober
+2001 (BGBl. I S. 2595), die zuletzt durch Artikel 3 Absatz 16 der
 Verordnung vom 12. Februar 2009 (BGBl. I S. 320) geändert worden ist,
 weiter anzuwenden.
 
@@ -972,10 +787,10 @@ weiter anzuwenden.
 ### § 29 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-Gleichzeitig tritt die Verordnung über die Laufbahn, Ausbildung und
-Prüfung für den mittleren Wetterdienst des Bundes im Deutschen
+Gleichzeitig tritt die Verordnung über die Laufbahn, Ausbildung
+und Prüfung für den mittleren Wetterdienst des Bundes im Deutschen
 Wetterdienst und im Geophysikalischen Beratungsdienst der Bundeswehr
-vom 1. Oktober 2001 (BGBl. I S. 2595), die zuletzt durch Artikel 3
-Absatz 16 der Verordnung vom 12. Februar 2009 (BGBl. I S. 320)
+vom 1. Oktober 2001 (BGBl. I S. 2595), die zuletzt durch Artikel
+3 Absatz 16 der Verordnung vom 12. Februar 2009 (BGBl. I S. 320)
 geändert worden ist, außer Kraft.
 

@@ -1,6 +1,5 @@
 ---
-Title: Verordnung zur Verlängerung des besonderen Sicherstellungsauftrags nach dem
-  Sozialdienstleister-Einsatzgesetz
+Title: Verordnung zur Verlängerung des besonderen Sicherstellungsauftrags nach dem Sozialdienstleister-Einsatzgesetz
 jurabk: SodEGVerlV
 layout: default
 origslug: sodegverlv

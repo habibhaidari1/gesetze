@@ -16,15 +16,14 @@ Fundstelle
 :   BGBl I: 1958, 771
 
 
-
 ## (XXXX)
 
-Gemäß § 81 Abs. 1 des Bundesbeamtengesetzes in der Fassung vom 18.
-September 1957 (Bundesgesetzbl. I S. 1337) setze ich folgende
+Gemäß § 81 Abs. 1 des Bundesbeamtengesetzes in der Fassung vom
+18\. September 1957 (Bundesgesetzbl. I S. 1337) setze ich folgende
 Amtsbezeichnungen für Beamte der Bundesanstalt für Bodenforschung
 fest:
 
-*   Präsident und Professor der Bundesanstalt für Bodenforschung,
+-   Präsident und Professor der Bundesanstalt für Bodenforschung,
 
     Leitender Direktor und Professor bei der Bundesanstalt für
     Bodenforschung,
@@ -34,7 +33,4 @@ fest:
     Oberregierungsgeologe,
 
     Regierungsgeologe.
-
-
-
 

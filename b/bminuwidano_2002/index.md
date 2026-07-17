@@ -1,8 +1,5 @@
 ---
-Title: Anordnung zur Übertragung von Zuständigkeiten für die Bearbeitung, für den
-  Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen
-  aus dem Beamtenverhältnis im Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit
-  in Angelegenheiten nach dem Bundesumzugskostengesetz und den hierzu ergangenen Verordnungen
+Title: Anordnung zur Übertragung von Zuständigkeiten für die Bearbeitung, für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis im Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit in Angelegenheiten nach dem Bundesumzugskostengesetz und den hierzu ergangenen Verordnungen
 jurabk: BMinUWidAnO 2002
 layout: default
 origslug: bminuwidano_2002
@@ -19,19 +16,18 @@ Fundstelle
 :   BGBl I: 2002, 3515
 
 
-
 ## I.
 
-Im Einvernehmen mit dem Bundesministerium der Finanzen übertrage ich
-dem Bundesamt für Finanzen die Bearbeitung der Angelegenheiten der
-Beamtinnen und Beamten im Bundesministerium für Umwelt, Naturschutz
-und Reaktorsicherheit nach dem Gesetz über die Umzugskostenvergütung
-für die Bundesbeamten, Richter im Bundesdienst und Soldaten
-(Bundesumzugskostengesetz - BUKG) sowie der dazu ergangenen Verordnung
-über die Umzugskostenvergütung bei Auslandsumzügen
-(Auslandsumzugskostenverordnung - AUV), der Verordnung über das
-Trennungsgeld bei Versetzungen und Abordnungen im Inland
-(Trennungsgeldverordnung - TGV) und der Verordnung über das
+Im Einvernehmen mit dem Bundesministerium der Finanzen
+übertrage ich dem Bundesamt für Finanzen die Bearbeitung der
+Angelegenheiten der Beamtinnen und Beamten im Bundesministerium
+für Umwelt, Naturschutz und Reaktorsicherheit nach dem Gesetz
+über die Umzugskostenvergütung für die Bundesbeamten, Richter im
+Bundesdienst und Soldaten (Bundesumzugskostengesetz - BUKG) sowie
+der dazu ergangenen Verordnung über die Umzugskostenvergütung
+bei Auslandsumzügen (Auslandsumzugskostenverordnung - AUV), der
+Verordnung über das Trennungsgeld bei Versetzungen und Abordnungen
+im Inland (Trennungsgeldverordnung - TGV) und der Verordnung über das
 Auslandstrennungsgeld (Auslandstrennungsgeldverordnung - ATGV) in der
 jeweils geltenden Fassung.
 
@@ -39,19 +35,19 @@ jeweils geltenden Fassung.
 ## II.
 
 Auf Grund des § 172 des Bundesbeamtengesetzes in der Fassung der
-Bekanntmachung vom 31. März 1999 (BGBl. I S. 675) in Verbindung mit §
-126 Abs. 3 Nr. 2 Satz 2 des Beamtenrechtsrahmengesetzes in der Fassung
-der Bekanntmachung vom 31. März 1999 (BGBl. I S. 654) übertrage ich im
-Einvernehmen mit dem Bundesministerium der Finanzen dem Bundesamt für
-Finanzen die Befugnis, über Widersprüche gegen den Erlass eines
-Verwaltungsaktes sowie die Ablehnung eines Anspruchs in
-Angelegenheiten nach dem Gesetz über die Umzugskostenvergütung für die
-Bundesbeamten, Richter im Bundesdienst und Soldaten
-(Bundesumzugskostengesetz - BUKG) sowie der dazu ergangenen Verordnung
-über die Umzugskostenvergütung bei Auslandsumzügen
-(Auslandsumzugskostenverordnung - AUV), der Verordnung über das
-Trennungsgeld bei Versetzungen und Abordnungen im Inland
-(Trennungsgeldverordnung - TGV) und der Verordnung über das
+Bekanntmachung vom 31. März 1999 (BGBl. I S. 675) in Verbindung
+mit § 126 Abs. 3 Nr. 2 Satz 2 des Beamtenrechtsrahmengesetzes
+in der Fassung der Bekanntmachung vom 31. März 1999 (BGBl. I
+S. 654) übertrage ich im Einvernehmen mit dem Bundesministerium
+der Finanzen dem Bundesamt für Finanzen die Befugnis, über
+Widersprüche gegen den Erlass eines Verwaltungsaktes sowie die
+Ablehnung eines Anspruchs in Angelegenheiten nach dem Gesetz
+über die Umzugskostenvergütung für die Bundesbeamten, Richter im
+Bundesdienst und Soldaten (Bundesumzugskostengesetz - BUKG) sowie
+der dazu ergangenen Verordnung über die Umzugskostenvergütung
+bei Auslandsumzügen (Auslandsumzugskostenverordnung - AUV), der
+Verordnung über das Trennungsgeld bei Versetzungen und Abordnungen
+im Inland (Trennungsgeldverordnung - TGV) und der Verordnung über das
 Auslandstrennungsgeld (Auslandstrennungsgeldverordnung - ATGV) in der
 jeweils geltenden Fassung zu entscheiden, soweit es zum Erlass des
 Verwaltungsaktes oder zur Ablehnung des Anspruchs zuständig war.

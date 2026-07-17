@@ -1,7 +1,5 @@
 ---
-Title: Zweihundertzweiundzwanzigste Durchführungsverordnung zur Luftverkehrs-Ordnung
-  (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum
-  und vom Flughafen Bremen)
+Title: Zweihundertzweiundzwanzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Flughafen Bremen)
 jurabk: LuftVODV 222
 layout: default
 origslug: luftvodv_222
@@ -16,4 +14,7 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BAnz: 2005, Nr 69, 5919
+
+Fundstelle
+:   BAnz: 2005, 5919
 

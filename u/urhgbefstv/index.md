@@ -15,16 +15,6 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2018, 2423
 
-[^F805308_01_BJNR242300018]:     Diese Verordnung dient der Umsetzung der Richtlinie (EU) 2017/1564 des
-    Europäischen Parlaments und des Rates vom 13. September 2017 über
-    bestimmte zulässige Formen der Nutzung bestimmter urheberrechtlich
-    oder durch verwandte Schutzrechte geschützter Werke und sonstiger
-    Schutzgegenstände zugunsten blinder, sehbehinderter oder anderweitig
-    lesebehinderter Personen und zur Änderung der Richtlinie 2001/29/EG
-    zur Harmonisierung bestimmter Aspekte des Urheberrechts und der
-    verwandten Schutzrechte in der Informationsgesellschaft (ABl. L 242
-    vom 20.9.2017, S. 6).
-
 
 ## Eingangsformel
 
@@ -46,24 +36,18 @@ Verfahren fest, die sicherstellen, dass sie
     Urheberrechtsgesetzes oder andere befugte Stellen verbreitet oder
     ihnen übermittelt oder zugänglich macht;
 
-
 2.  geeignete Schritte unternimmt, um der unzulässigen Vervielfältigung,
     Verbreitung, öffentlichen Wiedergabe oder öffentlichen
     Zugänglichmachung von Vervielfältigungsstücken in einem barrierefreien
     Format entgegenzuwirken;
 
-
 3.  Werke oder andere Schutzgegenstände und deren Vervielfältigungsstücke
     in einem barrierefreien Format sorgfältig behandelt und Aufzeichnungen
     hierüber führt;
 
-
-4.  Informationen darüber, wie sie ihren Pflichten nach den Nummern 1 bis
-    3 nachkommt, soweit zweckmäßig auf ihrer Internetseite oder in
+4.  Informationen darüber, wie sie ihren Pflichten nach den Nummern 1
+    bis 3 nachkommt, soweit zweckmäßig auf ihrer Internetseite oder in
     sonstiger Weise veröffentlicht und auf dem neuesten Stand hält.
-
-
-
 
 
 ## § 2 Auskunftspflichten
@@ -75,12 +59,8 @@ Auskunft darüber zu geben,
 1.  von welchen Werken sie Vervielfältigungsstücke in einem barrierefreien
     Format besitzt und um welche Formate es sich dabei handelt;
 
-
 2.  mit welchen anderen befugten Stellen sie Vervielfältigungsstücke in
     einem barrierefreien Format austauscht.
-
-
-
 
 (2) Sofern es erforderlich ist, erteilt die befugte Stelle die
 Auskunft in einem barrierefreien Format.

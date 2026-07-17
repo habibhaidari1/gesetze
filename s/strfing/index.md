@@ -22,27 +22,26 @@ Zuletzt geändert durch
 ## Abschnitt I - Finanzierung des Ausbaus der Bundesfernstraßen
 
 
-
 ### Art 1 Zweckbindung des Aufkommens der Mineralölsteuer
 
 Das Aufkommen an Mineralölsteuer, ausgenommen das Aufkommen aus der
 Besteuerung der Schweröle und Reinigungsextrakte nach § 8 Abs. 2 des
-Mineralölsteuergesetzes, ist im Rechnungsjahr 1964 in Höhe von 46 vom
-Hundert, im Rechnungsjahr 1965 in Höhe von 48 vom Hundert und in den
-folgenden Rechnungsjahren in Höhe von 50 vom Hundert für Zwecke des
-Straßenwesens zu verwenden. Dies gilt nicht für das Mehraufkommen an
-Mineralölsteuer, das sich infolge der Änderung von §§ 2, 8 Abs. 2 und
-§ 15b des Mineralölsteuergesetzes durch Artikel 1 Nr. 2, 8 und 19 des
-Verbrauchsteueränderungsgesetzes 1988 vom 20. Dezember 1988 (BGBl. I
-S. 2270) und der Änderung von §§ 2, 8 Abs. 2 und § 15b des
+Mineralölsteuergesetzes, ist im Rechnungsjahr 1964 in Höhe von 46
+vom Hundert, im Rechnungsjahr 1965 in Höhe von 48 vom Hundert und in
+den folgenden Rechnungsjahren in Höhe von 50 vom Hundert für Zwecke
+des Straßenwesens zu verwenden. Dies gilt nicht für das Mehraufkommen
+an Mineralölsteuer, das sich infolge der Änderung von §§ 2, 8 Abs.
+2 und § 15b des Mineralölsteuergesetzes durch Artikel 1 Nr. 2, 8 und
+19 des Verbrauchsteueränderungsgesetzes 1988 vom 20. Dezember 1988
+(BGBl. I S. 2270) und der Änderung von §§ 2, 8 Abs. 2 und § 15b des
 Mineralölsteuergesetzes durch Artikel 3 Nr. 1, 2 und 5 des Gesetzes
 vom 24. Juni 1991 (BGBl. I S. 1318) ergibt.
 
 
 ### Art 2 Vorfinanzierung
 
-Das Bundesministerium der Finanzen wird ermächtigt, im Vorgriff auf
-das zweckgebundene Aufkommen an Mineralölsteuer späterer
+Das Bundesministerium der Finanzen wird ermächtigt, im Vorgriff
+auf das zweckgebundene Aufkommen an Mineralölsteuer späterer
 Rechnungsjahre Kredite bis zu einem jeweils durch das Haushaltsgesetz
 zu bestimmenden Betrag aufzunehmen.
 
@@ -55,33 +54,26 @@ Straßenbauplan als Anlage zum Bundeshaushaltsplan aufzustellen.
 
 (2) Der Straßenbauplan umfaßt
 
-1.  die Mittel für Unterhaltung, Erweiterung, Ausbau und Neubau der
-    Bundesstraßen, soweit nicht dem Bund die Verwaltung der Bundesstraße
-    zusteht, die Mittel für den Erwerb von Grundstücken für
+1.  die Mittel für Unterhaltung, Erweiterung, Ausbau und Neubau
+    der Bundesstraßen, soweit nicht dem Bund die Verwaltung der
+    Bundesstraße zusteht, die Mittel für den Erwerb von Grundstücken für
     Straßenbauzwecke, für Straßenbauforschung, für Zuwendungen an fremde
     Baulastträger und sonstige durch den Straßenbau Betroffene sowie für
     andere Zwecke des Straßenwesens;
-
 
 2.  die Kosten, Zinsen und Tilgungsbeträge für Anleihen und sonstige
     Schuldverbindlichkeiten, deren Erträge für Zwecke des Straßenwesens
     verwendet worden sind oder verwendet werden;
 
-
 3.  die Leistungen an andere Stellen, die für Rechnung des Bundes
     Straßenbauaufgaben ausführen;
-
 
 4.  die Zahlungen auf Grund von Verpflichtungen aus Sicherheitsleistungen
     und Gewährleistungen, die für Zwecke des Straßenwesens übernommen
     worden sind oder übernommen werden;
 
-
 5.  sonstige erforderliche Angaben über die Verwendung von
     Straßenbaumitteln.
-
-
-
 
 (3) Der Straßenbauplan kann für mehrere Rechnungsjahre aufgestellt
 werden. Das Bundesministerium für Verkehr und digitale Infrastruktur
@@ -99,9 +91,7 @@ Bundeshaushaltsplans gelten sinngemäß für den Straßenbauplan.
 ## Abschnitt II - Änderung mineralölsteuerrechtlicher Vorschriften
 
 
-
 ### (XXXX) Art 4 bis 8
-
 
 
 ### Art 9 Betriebsbeihilfe für den Werkfernverkehr im Zonenrandgebiet und in den Frachthilfegebieten
@@ -114,24 +104,20 @@ ist, daß das Gasöl zu Beförderungen gedient hat
 
 a)  unmittelbar zwischen Berlin West und dem Bundesgebiet,
 
-
 b)  unmittelbar zwischen dem Zonenrandgebiet oder den Frachthilfegebieten
     und dem übrigen Geltungsbereich des Grundgesetzes,
 
-
 c)  innerhalb des Zonenrandgebietes oder der Frachthilfegebiete.
 
-
-
-Das Bundesministerium der Finanzen bestimmt im Einvernehmen mit dem
-Bundesministerium für Verkehr und digitale Infrastruktur durch
-Rechtsverordnung, von welchen weiteren Voraussetzungen die
-Betriebsbeihilfe abhängt, insbesondere welche örtlichen Beziehungen
-zwischen dem Unternehmer und den bezeichneten Gebieten bestehen
-müssen, inwieweit eine direkte Beförderung von oder zu bestimmten
-Standorten zwischen diesen Gebieten und dem übrigen Bundesgebiet
-erforderlich ist und inwieweit und in welcher Form ein besonderer
-Buchnachweis für die Beförderungen zu fordern ist. Das
+Das Bundesministerium der Finanzen bestimmt im Einvernehmen mit
+dem Bundesministerium für Verkehr und digitale Infrastruktur
+durch Rechtsverordnung, von welchen weiteren Voraussetzungen
+die Betriebsbeihilfe abhängt, insbesondere welche örtlichen
+Beziehungen zwischen dem Unternehmer und den bezeichneten Gebieten
+bestehen müssen, inwieweit eine direkte Beförderung von oder zu
+bestimmten Standorten zwischen diesen Gebieten und dem übrigen
+Bundesgebiet erforderlich ist und inwieweit und in welcher Form ein
+besonderer Buchnachweis für die Beförderungen zu fordern ist. Das
 Bundesministerium der Finanzen bestimmt ferner durch Rechtsverordnung,
 welche Gebiete als Zonenrandgebiet und als Frachthilfegebiete
 anzusehen sind.
@@ -148,11 +134,7 @@ Verbrauches 8,30 DM angesetzt.
 
 1.  die Verteilung der Mittel und die Berechnung der Beihilfen,
 
-
 2.  das Verfahren.
-
-
-
 
 (4) Die Gewährung der Betriebsbeihilfen kann davon abhängig gemacht
 werden, daß diese einen Betrag von 200 Deutsche Mark für den
@@ -160,7 +142,6 @@ Abrechnungszeitraum übersteigen.
 
 
 ## Abschnitt III
-
 
 
 ### Art 10
@@ -176,12 +157,11 @@ Abrechnungszeitraum übersteigen.
 ## Abschnitt IV - Geltung im Land Berlin
 
 
-
 ### Art 12
 
 (1) Dieses Gesetz gilt nach Maßgabe des § 12 Abs. 1 und § 13 Abs. 1
-des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I
-S. 1) auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses
+des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl.
+I S. 1) auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses
 Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
 
@@ -193,12 +173,11 @@ Groß-Berlin I S. 379) bleibt unberührt.
 ## Abschnitt V
 
 
-
 ### Art 13 Abwicklung von Ausgaberesten
 
 (1) Ausgabereste aus früheren Rechnungsjahren, für die
-Fortsetzungsraten im Straßenbauplan nicht vorgesehen sind, werden
-außerhalb des Straßenbauplans zu Lasten der allgemeinen
+Fortsetzungsraten im Straßenbauplan nicht vorgesehen sind,
+werden außerhalb des Straßenbauplans zu Lasten der allgemeinen
 Haushaltsmittel abgewickelt.
 
 (2) Vor Inkrafttreten dieses Gesetzes überplanmäßig oder
@@ -208,7 +187,6 @@ zweckgebundenen Mitteln zu decken.
 
 
 ## Abschnitt VI - Schlußvorschriften
-
 
 
 ### Art 14

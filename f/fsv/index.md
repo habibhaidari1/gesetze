@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Voraussetzungen für die Stillegung von Flächen bei Bezug
-  einer Rente aus der Alterssicherung der Landwirte oder einer Produktionsaufgaberente
+Title: Verordnung über die Voraussetzungen für die Stillegung von Flächen bei Bezug einer Rente aus der Alterssicherung der Landwirte oder einer Produktionsaufgaberente
 jurabk: FSV
 layout: default
 origslug: fsv
@@ -17,7 +16,6 @@ Fundstelle
 :   BGBl I: 1994, 3524
 
 
-
 ## Eingangsformel
 
 Auf Grund
@@ -25,13 +23,10 @@ Auf Grund
 -   des § 22 des Gesetzes über die Alterssicherung der Landwirte (Artikel
     1 des Gesetzes vom 29. Juli 1994, BGBl. I S. 1890),
 
-
 -   des § 2 Abs. 4 des Gesetzes zur Förderung der Einstellung der
     landwirtschaftlichen Erwerbstätigkeit vom 21. Februar 1989 (BGBl. I S.
     233), zuletzt geändert durch Artikel 12 des Gesetzes vom 29. Juli 1994
     (BGBl. I S. 1890),
-
-
 
 verordnet das Bundesministerium für Arbeit und Sozialordnung im
 Einvernehmen mit dem Bundesministerium für Ernährung, Landwirtschaft
@@ -40,8 +35,8 @@ und Forsten:
 
 ## § 1 Stillegung bei Bezug einer Rente aus der Alterssicherung der Landwirte
 
-(1) Eine landwirtschaftlich genutzte Fläche ist nur stillgelegt, wenn
-jede landwirtschaftliche Nutzung und jeglicher Anbau von
+(1) Eine landwirtschaftlich genutzte Fläche ist nur stillgelegt,
+wenn jede landwirtschaftliche Nutzung und jeglicher Anbau von
 Kulturpflanzen nicht nur vorübergehend eingestellt wird (nachhaltiges
 Brachlegen).
 
@@ -53,14 +48,11 @@ des Naturschutzes und der Landschaftspflege, wenn
     nicht zur Gewinnung pflanzlicher oder tierischer Erzeugnisse genutzt
     wird und
 
-
 2.  bei der Verwendung für Zwecke des Naturschutzes und der
     Landschaftspflege neben den Verpflichtungen nach § 3 Abs. 2 die
     besonderen Verpflichtungen erfüllt werden, die den Zielen des
     Naturschutzes und der Landschaftspflege dienen und die gegenüber der
     nach Landesrecht hierfür zuständigen Behörde übernommen worden sind.
-
-
 
 Werden auf der stillgelegten Fläche Tätigkeiten verrichtet, die auf
 öffentlich-rechtlichen Pflichten, insbesondere nach Rechtsvorschriften
@@ -71,10 +63,9 @@ beruhen, gilt dies nicht als landwirtschaftliche Nutzung.
 wenn
 
 1.  unmittelbar vor dem Beginn einer Rente nach dem Gesetz über die
-    Alterssicherung der Landwirte eine Produktionsaufgaberente nach dem
-    Gesetz zur Förderung der Einstellung der landwirtschaftlichen
+    Alterssicherung der Landwirte eine Produktionsaufgaberente nach
+    dem Gesetz zur Förderung der Einstellung der landwirtschaftlichen
     Erwerbstätigkeit bezogen wurde und
-
 
 2.  die während der Gewährung der Produktionsaufgaberente stillgelegten
     Flächen weiterhin entsprechend den Vorschriften des Gesetzes zur
@@ -82,19 +73,12 @@ wenn
     stillgelegt oder der landwirtschaftlichen Nutzung dauernd entzogen
     werden.
 
-
-
-
 (4) Eine landwirtschaftliche Nutzung ruht nicht, wenn
 
 1.  es sich um Geringstland im Sinne des Bewertungsgesetzes handelt und
     dieses zum Betrieb der Land- und Forstwirtschaft gehört oder
 
-
 2.  die Flächen in extensiv zu nutzendes Grünland umgewandelt werden.
-
-
-
 
 
 ## § 2 Stillegung bei Bezug einer Produktionsaufgaberente
@@ -104,12 +88,9 @@ der landwirtschaftlichen Erwerbstätigkeit kann eine Fläche nur
 
 1.  nach § 1 Abs. 1 oder
 
-
 2.  durch erstmalige Aufforstung für den gesamten in § 2 Abs. 3 des
     Gesetzes zur Förderung der Einstellung der landwirtschaftlichen
     Erwerbstätigkeit genannten Zeitraum
-
-
 
 stillegen.
 
@@ -123,26 +104,19 @@ Landwirte oder einer Produktionsaufgaberente eine Fläche nach § 1 Abs.
 1.  die Fläche zur Verhinderung der Erosion oder der Auswaschung von
     Nitrat zu begrünen oder auf ihr eine Selbstbegrünung zuzulassen,
 
-
 2.  für einen Mindestunterhalt der vorhandenen Baumreihen und Hecken
     entlang den Parzellen, Wasserläufen und Wasserflächen zu sorgen,
 
-
 3.  die Fläche nicht zu düngen und darauf kein Abwasser, keinen
-    Klärschlamm, keine Fäkalien und keine ähnlichen Stoffe im Sinne des §
-    15 Abs. 1 des Abfallgesetzes vom 27. August 1986 (BGBl. I S. 1410)
+    Klärschlamm, keine Fäkalien und keine ähnlichen Stoffe im Sinne des
+    § 15 Abs. 1 des Abfallgesetzes vom 27. August 1986 (BGBl. I S. 1410)
     auszubringen,
-
 
 4.  auf der Fläche keine Pflanzenschutzmittel anzuwenden,
 
-
 5.  den Aufwuchs der Flächen dort zu belassen und
 
-
 6.  auf der Fläche keine Meliorationsmaßnahmen vorzunehmen.
-
-
 
 Soweit Grünland brachgelegt wird, gilt Satz 1 Nr. 2 bis 6; Satz 1 Nr.
 5 gilt nur dann nicht, wenn
@@ -151,12 +125,8 @@ Soweit Grünland brachgelegt wird, gilt Satz 1 Nr. 2 bis 6; Satz 1 Nr.
     oder Gewässerschutzes nach Abstimmung mit der nach Landesrecht für
     Natur- oder Gewässerschutz zuständigen Stelle notwendig ist und
 
-
 2.  bei einem Bezieher einer Produktionsaufgaberente ein Verkaufserlös die
     entstandenen Aufwendungen nicht mehr als geringfügig überschreitet.
-
-
-
 
 (2) Bei Nutzung der Flächen zu nichtlandwirtschaftlichen Zwecken,
 insbesondere einer Verwendung zu Zwecken des Naturschutzes und der

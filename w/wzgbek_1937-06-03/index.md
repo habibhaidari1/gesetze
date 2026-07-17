@@ -16,7 +16,6 @@ Fundstelle
 :   RGBl II: 1937, 169
 
 
-
 ## (XXXX)
 
 Auf Grund des § 4 Abs. 2 Nr. 3 des Warenzeichengesetzes vom 5. Mai
@@ -24,7 +23,9 @@ Auf Grund des § 4 Abs. 2 Nr. 3 des Warenzeichengesetzes vom 5. Mai
 der Technischen Beratungsstelle beim Landesgewerbeamt Stuttgart für
 Azetylenentwickler nebst Zubehör und Behälter für verdichtete oder
 unter Druck gelöste Gase bekanntgemacht:
+
 (Inhalt: nicht darstellbarer Abnahmestempel,
 Fundstelle: RGBl. II 1937, 169)
+
 Der Reichsminister der Justiz
 

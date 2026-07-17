@@ -1,6 +1,5 @@
 ---
-Title: Gesetz Nr. 207 Zweites Gesetz zur Wiedergutmachung nationalsozialistischen
-  Unrechts in der Strafrechtspflege
+Title: Gesetz Nr. 207 Zweites Gesetz zur Wiedergutmachung nationalsozialistischen Unrechts in der Strafrechtspflege
 jurabk: NSUnrG WB 2
 layout: default
 origslug: nsunrg_wb_2

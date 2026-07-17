@@ -16,24 +16,20 @@ Fundstelle
 :   BGBl I: 1975, 1573
 
 Zuletzt geändert durch
-:   Art. 483 V v. 31.8.2015 I 1474
-
-Änderung durch
-:   Art. 1 G v. 16.4.2021 I 822 (Nr. 19) mWv 2.8.2021 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 5 G v. 16.4.2021 I 822
 
 
 ## Eingangsformel
 
-Auf Grund des § 57 Abs. 1 und 3 sowie des § 58 Abs. 1 Nr. 3 des
-Personenbeförderungsgesetzes (PBefG) vom 21. März 1961
-(Bundesgesetzbl. I S. 241), zuletzt geändert durch das Gesetz zur
-Änderung der Gewerbeordnung und über die Einrichtung eines
+Auf Grund des § 57 Abs. 1 und 3 sowie des § 58 Abs. 1 Nr. 3
+des Personenbeförderungsgesetzes (PBefG) vom 21. März 1961
+(Bundesgesetzbl. I S. 241), zuletzt geändert durch das Gesetz
+zur Änderung der Gewerbeordnung und über die Einrichtung eines
 Gewerbezentralregisters vom 13. Juni 1974 (Bundesgesetzbl. I S. 1281),
 wird mit Zustimmung des Bundesrates verordnet:
 
 
 ## 1. Abschnitt - Allgemeine Vorschriften
-
 
 
 ### § 1 Geltungsbereich
@@ -42,19 +38,19 @@ wird mit Zustimmung des Bundesrates verordnet:
 Kraftfahrzeugen oder Obussen befördern, soweit sie den Vorschriften
 des Personenbeförderungsgesetzes unterliegen.
 
-(2) Die §§ 2, 3, 6 bis 9, §§ 14 bis 19, 20 Abs. 1 Nr. 1, §§ 21, 22, 33
-Abs. 4 und 5, §§ 41, 42, § 45 Abs. 1 Nr. 1, 4, 5 Buchstaben b bis f,
-o, r und s, Abs. 2 Nr. 1, 4, 5 Buchstaben a und c, Nr. 6, § 47 Abs. 1
-Nr. 1 bis 3 gelten entsprechend bei Beförderungen nach § 1 Nr. 4
-Buchstaben d, g und i der Freistellungs-Verordnung vom 30. August 1962
-(BGBl. I S. 601), die zuletzt durch Artikel 1 der Zweiten Verordnung
-zur Änderung personenbeförderungsrechtlicher Vorschriften vom 30. Juni
-1989 (BGBl. I S. 1273) geändert worden ist, sofern dabei
-Kraftfahrzeuge verwendet werden, die nach Bauart und Ausstattung zur
-Beförderung von mehr als sechs Personen (einschließlich
-Fahrzeugführer) geeignet und bestimmt sind. Als Genehmigungsbehörde im
-Sinne dieser Vorschriften gilt diejenige Behörde, die im Falle einer
-Nichtfreistellung von den Vorschriften des
+(2) Die §§ 2, 3, 6 bis 9, §§ 14 bis 19, 20 Abs. 1 Nr. 1, §§ 21,
+22, 33 Abs. 4 und 5, §§ 41, 42, § 45 Abs. 1 Nr. 1, 4, 5 Buchstaben
+b bis f, o, r und s, Abs. 2 Nr. 1, 4, 5 Buchstaben a und c, Nr. 6,
+§ 47 Abs. 1 Nr. 1 bis 3 gelten entsprechend bei Beförderungen nach
+§ 1 Nr. 4 Buchstaben d, g und i der Freistellungs-Verordnung vom
+30\. August 1962 (BGBl. I S. 601), die zuletzt durch Artikel 1 der
+Zweiten Verordnung zur Änderung personenbeförderungsrechtlicher
+Vorschriften vom 30. Juni 1989 (BGBl. I S. 1273) geändert worden
+ist, sofern dabei Kraftfahrzeuge verwendet werden, die nach
+Bauart und Ausstattung zur Beförderung von mehr als sechs Personen
+(einschließlich Fahrzeugführer) geeignet und bestimmt sind. Als
+Genehmigungsbehörde im Sinne dieser Vorschriften gilt diejenige
+Behörde, die im Falle einer Nichtfreistellung von den Vorschriften des
 Personenbeförderungsgesetzes zuständig wäre.
 
 
@@ -69,9 +65,7 @@ ergeben.
 ## 2. Abschnitt - Vorschriften über den Betrieb
 
 
-
 ### 1. Titel - Betriebsleitung
-
 
 
 #### § 3 Pflichten des Unternehmers
@@ -79,9 +73,9 @@ ergeben.
 (1) Der Unternehmer ist dafür verantwortlich, daß die Vorschriften
 dieser Verordnung eingehalten und die hierzu behördlich erlassenen
 Anordnungen befolgt werden. Er hat dafür zu sorgen, daß das
-Unternehmen ordnungsgemäß geführt wird und daß sich die Fahrzeuge und
-Betriebsanlagen in vorschriftsmäßigem Zustand befinden. Er darf den
-Betrieb des Unternehmens nicht anordnen oder zulassen, wenn ihm
+Unternehmen ordnungsgemäß geführt wird und daß sich die Fahrzeuge
+und Betriebsanlagen in vorschriftsmäßigem Zustand befinden. Er darf
+den Betrieb des Unternehmens nicht anordnen oder zulassen, wenn ihm
 bekannt ist oder bekannt sein muß, daß Mitglieder des Fahr- oder
 Betriebspersonals nicht befähigt und geeignet sind, eine sichere und
 ordnungsgemäße Beförderung zu gewährleisten.
@@ -89,8 +83,8 @@ ordnungsgemäße Beförderung zu gewährleisten.
 (2) Soweit es die Größe des Unternehmens oder andere betriebliche
 Umstände erfordern, erläßt der Unternehmer eine allgemeine
 Dienstanweisung. Die Genehmigungsbehörde kann den Erlaß einer
-allgemeinen Dienstanweisung verlangen. Eine Dienstanweisung muß
-erlassen werden, wenn ein Betriebsleiter bestellt wird. Die
+allgemeinen Dienstanweisung verlangen. Eine Dienstanweisung
+muß erlassen werden, wenn ein Betriebsleiter bestellt wird. Die
 Dienstanweisung ist in geeigneter Weise bekanntzumachen.
 
 (3) Die Dienstanweisung enthält Bestimmungen über den Aufgabenbereich,
@@ -101,17 +95,12 @@ Betriebspersonals während des Dienstes, insbesondere
     sowie die sonst für die sichere Durchführung des Betriebs geltenden
     Vorschriften,
 
-
 2.  Anweisungen über Maßnahmen, die bei Betriebsunfällen und -störungen
     getroffen werden müssen,
-
 
 3.  Bestimmungen, soweit sie durch die örtlichen Verhältnisse oder durch
     die Eigenart der Betriebsanlagen, der Fahrzeuge oder des Betriebs
     bedingt sind.
-
-
-
 
 
 #### § 4 Betriebsleiter
@@ -135,20 +124,14 @@ insbesondere zu beteiligen bei
 
 1.  der Feststellung des Personalbedarfs,
 
-
 2.  der Auswahl, Beurteilung und Verwendung des Fahr- und
     Betriebspersonals,
-
 
 3.  der Untersuchung von Verfehlungen und den sich daraus ergebenden
     Maßnahmen,
 
-
-4.  der Planung und dem Bau von Betriebsanlagen sowie der Beschaffung von
-    Fahrzeugen.
-
-
-
+4.  der Planung und dem Bau von Betriebsanlagen sowie der Beschaffung
+    von Fahrzeugen.
 
 (3) Der Betriebsleiter soll einen Stellvertreter haben. Absatz 1 Satz
 3 und 4 gilt entsprechend.
@@ -159,8 +142,8 @@ erteilen, wenn die Zuverlässigkeit gegeben ist, insbesondere wenn die
 für die technische Leitung des Betriebs und die für die Verwaltung
 erforderlichen Kenntnisse und Erfahrungen nachgewiesen sind.
 
-(5) Die Bestätigung ist zurückzunehmen, wenn bei ihrer Erteilung die
-Voraussetzung des Absatzes 4 Satz 2 nicht vorgelegen hat. Die
+(5) Die Bestätigung ist zurückzunehmen, wenn bei ihrer Erteilung
+die Voraussetzung des Absatzes 4 Satz 2 nicht vorgelegen hat. Die
 Genehmigungsbehörde kann von der Rücknahme absehen, wenn der Mangel
 nicht mehr besteht.
 
@@ -196,19 +179,13 @@ Der Unternehmer hat der Genehmigungsbehörde unverzüglich mitzuteilen
 
 1.  Betriebsvorkommnisse, die ein öffentliches Aufsehen erregen,
 
-
 2.  Unfälle, bei denen ein Mensch getötet oder schwer verletzt worden ist,
-
 
 3.  Betriebsstörungen im Obusverkehr und im Linienverkehr mit
     Kraftfahrzeugen, die voraussichtlich länger als 24 Stunden dauern.
 
 
-
-
-
 ### 2. Titel - Fahrdienst
-
 
 
 #### § 7 Grundregel
@@ -227,9 +204,9 @@ verhalten.
 (2) Im Obusverkehr sowie im Linienverkehr mit Kraftfahrzeugen nach §
 42 PBefG ist die nächste Haltestelle rechtzeitig anzukündigen.
 
-(2a) Im Verkehr mit Kraftomnibussen hat der Fahrzeugführer dafür zu
-sorgen, daß den Fahrgästen durch Informationseinrichtungen (§ 21 Abs.
-2) angezeigt wird, wann Sicherheitsgurte anzulegen sind. Vor
+(2a) Im Verkehr mit Kraftomnibussen hat der Fahrzeugführer dafür
+zu sorgen, daß den Fahrgästen durch Informationseinrichtungen (§ 21
+Abs. 2) angezeigt wird, wann Sicherheitsgurte anzulegen sind. Vor
 Fahrtantritt hat der Fahrzeugführer die Fahrgäste auf die Pflicht zum
 Anlegen von Sicherheitsgurten hinzuweisen, soweit eine solche Pflicht
 besteht.
@@ -238,26 +215,19 @@ besteht.
 im Fahrdienst eingesetzten Betriebspersonal untersagt,
 
 1.  während des Dienstes und der Dienstbereitschaft alkoholische Getränke
-    oder andere die dienstliche Tätigkeit beeinträchtigende Mittel zu sich
-    zu nehmen oder die Fahrt anzutreten, obwohl es unter der Wirkung
+    oder andere die dienstliche Tätigkeit beeinträchtigende Mittel zu
+    sich zu nehmen oder die Fahrt anzutreten, obwohl es unter der Wirkung
     solcher Getränke oder Mittel steht,
-
 
 2.  (weggefallen)
 
-
 3.  beim Lenken des Fahrzeugs Fernsehrundfunkempfänger zu benutzen,
-
 
 4.  während der Beförderung von Fahrgästen Übertragungsanlagen,
     Tonrundfunkempfänger oder Tonwiedergabegeräte zu anderen als
     betrieblichen oder Verkehrsfunk-Hinweisen zu benutzen,
 
-
 5.  sich beim Lenken des Fahrzeugs zu unterhalten.
-
-
-
 
 (4) Im Gelegenheitsverkehr mit Kraftomnibussen finden die Vorschriften
 des Absatzes 3 Nr. 1, 3 und 5 entsprechende Anwendung.
@@ -271,10 +241,10 @@ Absatzes 3 Nr. 1 und 3 entsprechende Anwendung.
 
 (1) Mitglieder des im Fahrdienst oder zur Bedienung von Fahrgästen
 eingesetzten Betriebspersonals dürfen diese Tätigkeit nicht ausüben,
-solange sie oder Angehörige ihrer häuslichen Gemeinschaft an einer in
-§ 34 Abs. 3 Nr. 2, 4, 6, 8, 11 des Infektionsschutzgesetzes vom 20.
-Juli 2000 (BGBl. I S. 1045) genannten Krankheit leiden, es sei denn,
-sie weisen durch ärztliches Zeugnis nach, daß keine Gefahr einer
+solange sie oder Angehörige ihrer häuslichen Gemeinschaft an einer
+in § 34 Abs. 3 Nr. 2, 4, 6, 8, 11 des Infektionsschutzgesetzes vom
+20\. Juli 2000 (BGBl. I S. 1045) genannten Krankheit leiden, es sei
+denn, sie weisen durch ärztliches Zeugnis nach, daß keine Gefahr einer
 Übertragung der Krankheit besteht.
 
 (2) Hat ein Fahrzeugführer eine Krankheit, die seine Eignung
@@ -296,14 +266,13 @@ ist auf Verlangen Einsicht zu gewähren.
 
 Nach Beendigung jeder Fahrt haben Fahrzeugführer oder Schaffner
 festzustellen, ob Gegenstände zurückgeblieben sind. Fundsachen sind
-unverzüglich an die dafür vorgesehene Einrichtung des Betriebs oder an
-die von der Genehmigungsbehörde benannte Stelle abzuliefern, wenn sie
-nicht sofort zurückgegeben werden können. § 978 des Bürgerlichen
+unverzüglich an die dafür vorgesehene Einrichtung des Betriebs oder
+an die von der Genehmigungsbehörde benannte Stelle abzuliefern, wenn
+sie nicht sofort zurückgegeben werden können. § 978 des Bürgerlichen
 Gesetzbuchs bleibt unberührt.
 
 
 ### 3. Titel - Fahrgäste, Beförderungspflicht
-
 
 
 #### § 12
@@ -315,18 +284,18 @@ Gesetzbuchs bleibt unberührt.
 
 Der Unternehmer und das im Fahrdienst eingesetzte Betriebspersonal
 sind nach Maßgabe der Vorschriften des Personenbeförderungsgesetzes
-verpflichtet, die Beförderung von Personen durchzuführen. Soweit nicht
-ein Ausschluß von der Beförderungspflicht nach anderen
-Rechtsvorschriften besteht, können sie die Beförderung ablehnen, wenn
-Tatsachen vorliegen, die die Annahme rechtfertigen, daß die zu
+verpflichtet, die Beförderung von Personen durchzuführen. Soweit
+nicht ein Ausschluß von der Beförderungspflicht nach anderen
+Rechtsvorschriften besteht, können sie die Beförderung ablehnen,
+wenn Tatsachen vorliegen, die die Annahme rechtfertigen, daß die zu
 befördernde Person eine Gefahr für die Sicherheit und Ordnung des
 Betriebs oder für die Fahrgäste darstellt.
 
 
 #### § 14 Verhalten der Fahrgäste
 
-(1) Die Fahrgäste haben sich bei der Benutzung der Betriebsanlagen und
-Fahrzeuge so zu verhalten, wie es die Sicherheit und Ordnung des
+(1) Die Fahrgäste haben sich bei der Benutzung der Betriebsanlagen
+und Fahrzeuge so zu verhalten, wie es die Sicherheit und Ordnung des
 Betriebs und die Rücksicht auf andere Personen gebieten. Anweisungen
 des Betriebspersonals ist zu folgen.
 
@@ -335,34 +304,23 @@ des Betriebspersonals ist zu folgen.
 1.  in Obussen und Kraftomnibussen sich mit dem Fahrzeugführer während der
     Fahrt zu unterhalten,
 
-
 2.  die Türen während der Fahrt eigenmächtig zu öffnen,
-
 
 3.  Sicherungseinrichtungen mißbräuchlich zu betätigen,
 
-
 4.  Gegenstände aus dem Fahrzeug zu werfen oder hinausragen zu lassen,
-
 
 5.  während der Fahrt auf- oder abzuspringen,
 
-
 6.  ein als besetzt bezeichnetes Fahrzeug zu betreten,
-
 
 7.  ein Fahrzeug zu betreten oder zu verlassen, wenn die bevorstehende
     Abfahrt angekündigt ist oder die Türen geschlossen werden,
 
-
 8.  (weggefallen)
-
 
 9.  Tonrundfunk- oder Fernsehrundfunkempfänger sowie Tonwiedergabegeräte
     zu benutzen.
-
-
-
 
 (3) Im Obusverkehr sowie im Linienverkehr mit Kraftfahrzeugen sind die
 Fahrgäste außerdem verpflichtet,
@@ -370,22 +328,15 @@ Fahrgäste außerdem verpflichtet,
 1.  die Fahrzeuge nur an den Haltestellen zu betreten und zu verlassen;
     Ausnahmen bedürfen der Zustimmung des Betriebspersonals,
 
-
 2.  zügig ein- und auszusteigen und dabei die besonders gekennzeichneten
     Türen zu benutzen,
 
-
 3.  Durchgänge sowie Ein- und Ausstiege freizuhalten,
-
 
 4.  sich im Fahrzeug stets einen festen Halt zu verschaffen,
 
-
 5.  sie begleitende Kinder sorgfältig zu beaufsichtigen und dafür zu
     sorgen, daß Kinder nicht auf den Sitzplätzen knien oder stehen.
-
-
-
 
 (4) Verletzt ein Fahrgast trotz Ermahnung die ihm obliegenden
 Pflichten nach den Absätzen 1 bis 3, kann er von der Beförderung
@@ -394,11 +345,11 @@ ausgeschlossen werden.
 
 #### § 15 Beförderung von Sachen
 
-(1) Der Fahrgast hat Sachen (Handgepäck, Reisegepäck, Kinderwagen) so
-unterzubringen und zu beaufsichtigen, daß die Sicherheit und Ordnung
-des Betriebs durch sie nicht gefährdet und andere Fahrgäste nicht
-belästigt werden können. Satz 1 gilt auch für Tiere; sie dürfen nicht
-auf Sitzplätzen untergebracht werden. Durchgänge sowie Ein- und
+(1) Der Fahrgast hat Sachen (Handgepäck, Reisegepäck, Kinderwagen)
+so unterzubringen und zu beaufsichtigen, daß die Sicherheit und
+Ordnung des Betriebs durch sie nicht gefährdet und andere Fahrgäste
+nicht belästigt werden können. Satz 1 gilt auch für Tiere; sie dürfen
+nicht auf Sitzplätzen untergebracht werden. Durchgänge sowie Ein- und
 Ausstiege sind freizuhalten.
 
 (2) Von der Beförderung sind gefährliche Stoffe und gefährliche
@@ -407,15 +358,10 @@ Gegenstände ausgeschlossen, insbesondere
 1.  explosionsfähige, leicht entzündliche, radioaktive, übelriechende oder
     ätzende Stoffe,
 
-
 2.  unverpackte oder ungeschützte Sachen, durch die Fahrgäste verletzt
     werden können,
 
-
 3.  Gegenstände, die über die Wagenumgrenzung hinausragen.
-
-
-
 
 (3) § 14 Abs. 1 Satz 2 und Abs. 4 ist anzuwenden.
 
@@ -423,20 +369,18 @@ Gegenstände ausgeschlossen, insbesondere
 ## 3. Abschnitt - Ausrüstung und Beschaffenheit der Fahrzeuge
 
 
-
 ### 1. Titel - Bestimmungen für alle Fahrzeuge
-
 
 
 #### § 16 Anzuwendende Vorschriften
 
-Für Bau, Ausrüstung und Beschaffenheit der Fahrzeuge gelten neben den
-auf Grund des Straßenverkehrsgesetzes erlassenen Verordnungen die
-Vorschriften dieser Verordnung. Für Fahrzeuge im grenzüberschreitenden
-Verkehr und Transitverkehr (§§ 52 und 53 des
-Personenbeförderungsgesetzes) mit Staaten außerhalb der Europäischen
-Union können abweichend von Satz 1 zur Verbesserung der
-Verkehrssicherheit und der Umweltverträglichkeit besondere
+Für Bau, Ausrüstung und Beschaffenheit der Fahrzeuge gelten
+neben den auf Grund des Straßenverkehrsgesetzes erlassenen
+Verordnungen die Vorschriften dieser Verordnung. Für Fahrzeuge
+im grenzüberschreitenden Verkehr und Transitverkehr (§§ 52 und
+53 des Personenbeförderungsgesetzes) mit Staaten außerhalb der
+Europäischen Union können abweichend von Satz 1 zur Verbesserung
+der Verkehrssicherheit und der Umweltverträglichkeit besondere
 Anforderungen gestellt werden, die den in der Europäischen Union
 geltenden Vorschriften entsprechen.
 
@@ -465,7 +409,6 @@ wird.
 ### 2. Titel - Obusse und Kraftomnibusse
 
 
-
 #### § 20 Beschriftung
 
 (1) An den Außenseiten der Obusse und Kraftomnibusse sind anzubringen
@@ -474,22 +417,14 @@ wird.
     Genehmigungsbehörde kann statt dessen Geschäftszeichen oder Wappen
     zulassen,
 
-
 2.  die Bezeichnung der Türen, wenn im Obusverkehr und im Linienverkehr
     mit Kraftomnibussen
 
     a)  an diesen Türen nur ein- oder nur ausgestiegen werden darf,
 
-
     b)  die Türen nur für bestimmte Fahrgastgruppen vorgesehen sind;
 
-
-
-
     die Bezeichnung kann auch durch ein Sinnbild erfolgen.
-
-
-
 
 (2) Die Beschriftungen oder Sinnbilder müssen eindeutig, gut sichtbar
 und deutlich lesbar sein. Ihre Wirkung darf durch andere Aufschriften
@@ -504,11 +439,8 @@ oder sichtbare Verständigungseinrichtungen haben
 1.  zur Erteilung von Fahr- oder Halteaufträgen durch das
     Betriebspersonal,
 
-
 2.  bei Ein-Mann-Betrieb zur Mitteilung des Haltewunschs der Fahrgäste an
     den Fahrzeugführer.
-
-
 
 In Kraftomnibussen, die überwiegend im Gelegenheitsverkehr verwendet
 werden, sind diese Einrichtungen entbehrlich, wenn sichergestellt ist,
@@ -525,8 +457,8 @@ anzeigen, wann Sicherheitsgurte anzulegen sind.
 (1) Stehplätze sind nur zulässig, wenn das Fahrzeug im Obusverkehr
 oder im Linienverkehr mit Kraftomnibussen eingesetzt wird.
 
-(2) Bei einem Linienverkehr mit Kraftomnibussen, der nicht Orts- oder
-Nachbarortslinienverkehr ist, kann die Genehmigungsbehörde die
+(2) Bei einem Linienverkehr mit Kraftomnibussen, der nicht Orts-
+oder Nachbarortslinienverkehr ist, kann die Genehmigungsbehörde die
 Zulässigkeit von Stehplätzen ganz oder teilweise ausschließen.
 
 
@@ -543,15 +475,14 @@ Zulässigkeit von Stehplätzen ganz oder teilweise ausschließen.
 ### 3. Titel - Taxen und Mietwagen
 
 
-
 #### § 25 Türen, Alarmanlage und Trennwand
 
 (1) Taxen und Mietwagen müssen mindestens auf der rechten Längsseite
 zwei Türen haben.
 
 (2) Taxen und Mietwagen müssen mit einer Alarmanlage versehen sein,
-die vom Sitz des Fahrzeugführers aus in Betrieb gesetzt werden kann.
-Die Alarmanlage muß die Hupe zum Tönen in Intervallen und die
+die vom Sitz des Fahrzeugführers aus in Betrieb gesetzt werden
+kann. Die Alarmanlage muß die Hupe zum Tönen in Intervallen und die
 Scheinwerfer sowie die hinteren Fahrtrichtungsanzeiger zum Blinken
 bringen. Zusätzlich kann das Taxenschild nach § 26 Abs. 1 Nr. 2 - auch
 mittels eingebauter roter Leuchtdioden - zum Blinken gebracht werden.
@@ -569,16 +500,13 @@ seitlich verschoben werden kann.
 (1) Taxen müssen kenntlich gemacht sein
 
 1.  durch einen hell-elfenbein-farbigen Anstrich; als Farbton ist zu
-    wählen RAL 1015 des Farbtonregisters RAL 840 HR des Ausschusses für
-    Lieferbedingungen und Gütesicherung (RAL) beim Deutschen
+    wählen RAL 1015 des Farbtonregisters RAL 840 HR des Ausschusses
+    für Lieferbedingungen und Gütesicherung (RAL) beim Deutschen
     Normenausschuß,
-
 
 2.  durch ein auf dem Dach der Taxe quer zur Fahrtrichtung angebrachtes,
     von innen beleuchtbares, auf der Vorderseite und auf der Rückseite mit
     der Aufschrift "Taxi" versehenes Schild (Taxischild) nach Anlage 1.
-
-
 
 Vorbehaltlich des Absatzes 2 ist jede andere als die nach dieser
 Verordnung vorgeschriebene Kenntlichmachung oder Beschriftung
@@ -599,33 +527,30 @@ die die Genehmigungsbehörde erteilt hat, anzubringen.
 sichtbaren Stelle ein Schild mit Namen und Betriebssitz des
 Unternehmers anzubringen.
 
-(3) Bei Mietwagen ist an der rechten unteren Ecke der Heckscheibe ein
-nach außen und innen wirkendes Schild nach Anlage 3a mit der
+(3) Bei Mietwagen ist an der rechten unteren Ecke der Heckscheibe
+ein nach außen und innen wirkendes Schild nach Anlage 3a mit der
 Ordnungsnummer, die die Genehmigungsbehörde erteilt hat, anzubringen.
 
 (4) Bei Fahrzeugen des gebündelten Bedarfsverkehrs nach § 50 des
 Personenbeförderungsgesetzes ist an der rechten unteren Ecke der
-Heckscheibe ein nach außen und innen wirkendes Schild nach Anlage 3b
-mit der Ordnungsnummer, die die Genehmigungsbehörde erteilt hat,
+Heckscheibe ein nach außen und innen wirkendes Schild nach Anlage
+3b mit der Ordnungsnummer, die die Genehmigungsbehörde erteilt hat,
 anzubringen.
 
 
 #### § 28 Fahrpreisanzeiger
 
-(1) Taxen müssen mit einem beleuchtbaren Fahrpreisanzeiger ausgerüstet
-sein. Abweichend von Satz 1 ist statt der Ausrüstung mit einem
-beleuchtbaren Fahrpreisanzeiger auch die Ausrüstung mit einem
-konformitätsbewerteten softwarebasierten System möglich. Die
+(1) Taxen müssen mit einem beleuchtbaren Fahrpreisanzeiger
+ausgerüstet sein. Abweichend von Satz 1 ist statt der Ausrüstung
+mit einem beleuchtbaren Fahrpreisanzeiger auch die Ausrüstung mit
+einem konformitätsbewerteten softwarebasierten System möglich. Die
 Vorschriften des Eichrechts finden Anwendung.
 
 (2) Der Fahrpreisanzeiger muß anzeigen
 
 1.  das Beförderungsentgelt, getrennt nach Fahrpreis und Zuschlägen,
 
-
 2.  die gegebenenfalls anzuwendende Tarifstufe.
-
-
 
 Die Anzeige muß leicht ablesbar und bei Dunkelheit beleuchtet sein.
 
@@ -638,16 +563,11 @@ Funktionen besitzen muss:
 
 1.  echtzeitdatenbasierte Streckenführung,
 
-
 2.  Echtzeit-Staumeldungen,
-
 
 3.  Stau- und Sperrungsumfahrungen und
 
-
 4.  umfassendes Sonderzieleverzeichnis.
-
-
 
 Als ein dem Stand der Technik entsprechendes Navigationsgerät gilt
 auch ein softwarebasiertes System mit den oben genannten Funktionen
@@ -675,8 +595,8 @@ nach den Angaben eines Wegstreckenzählers ermittelt wird.
 
 (1) Für Fahrzeuge, die für den Taxenverkehr und mindestens einen
 weiteren Gelegenheitsverkehr nach § 49 Absatz 4 oder § 50 des
-Personenbeförderungsgesetzes genehmigt sind, gelten die §§ 25 bis 30.
-Für Fahrzeuge, die für den Mietwagenverkehr und gebündelten
+Personenbeförderungsgesetzes genehmigt sind, gelten die §§ 25 bis
+30\. Für Fahrzeuge, die für den Mietwagenverkehr und gebündelten
 Bedarfsverkehr genehmigt sind, gelten die §§ 25, 27 Absatz 3 und 4 und
 § 30. Wird Mietwagen- oder gebündelter Bedarfsverkehr ausgeführt, darf
 das Taxischild nach § 26 Absatz 1 Nummer 2 nicht gezeigt werden.
@@ -692,9 +612,7 @@ Berechnung des Beförderungsentgelts hinzuweisen.
 ## 4. Abschnitt - Sondervorschriften
 
 
-
 ### 1. Titel - Obusverkehr und Linienverkehr mit Kraftfahrzeugen
-
 
 
 #### § 32 Haltestellen
@@ -709,16 +627,11 @@ Erfordernissen des Betriebs und des Verkehrs Rechnung zu tragen.
     anzubringen; anstelle des Namens des Unternehmers kann bei
     Verkehrsverbünden und Verkehrsgemeinschaften deren Bezeichnung treten,
 
-
 2.  im Orts- und Nachbarortslinienverkehr an der Haltestelle deren
     Bezeichnung auf einem Zusatzschild deutlich sichtbar anzugeben,
 
-
 3.  an verkehrsreichen Haltestellen des Ortslinienverkehrs Behälter zum
     Abwerfen benutzter Fahrscheine anzubringen.
-
-
-
 
 
 #### § 33 Kennzeichnung und Beschilderung
@@ -736,15 +649,15 @@ Angaben über den Fahrweg enthalten. Bestehen zwischen Ausgangs- und
 Endpunkt der Linie verschiedene Streckenführungen, so ist der Fahrweg
 im Ziel- und Streckenschild in geeigneter Weise kenntlich zu machen.
 
-(3) Zielschild, Streckenschild und Liniennummer müssen auch bei
-Dunkelheit erkennbar sein. Farbiges Licht darf als
+(3) Zielschild, Streckenschild und Liniennummer müssen
+auch bei Dunkelheit erkennbar sein. Farbiges Licht darf als
 Unterscheidungszeichen für Linien nicht verwendet werden.
 
-(4) Fahrzeuge, die für Schülerbeförderungen besonders eingesetzt sind,
-müssen an Stirn- und Rückseite mit einem Schild nach Anlage 4
-kenntlich gemacht sein; an der Stirnseite genügt auch eine
-Kennzeichnung im Zielschilderkasten mit dem Sinnbild nach Anlage 4 und
-einem Zusatzschild in der Farbgebung des Bilduntergrunds mit der
+(4) Fahrzeuge, die für Schülerbeförderungen besonders eingesetzt
+sind, müssen an Stirn- und Rückseite mit einem Schild nach Anlage
+4 kenntlich gemacht sein; an der Stirnseite genügt auch eine
+Kennzeichnung im Zielschilderkasten mit dem Sinnbild nach Anlage 4
+und einem Zusatzschild in der Farbgebung des Bilduntergrunds mit der
 Aufschrift "Schulbus". Die Wirkung des Schildes darf durch andere
 Aufschriften oder Bildzeichen nicht beeinträchtigt werden. Bei anderen
 Fahrten darf das Schild nicht gezeigt werden. Absatz 1 findet keine
@@ -780,7 +693,6 @@ des Linienverkehrs (§ 43 PBefG).
 ### 2. Titel - Taxenverkehr
 
 
-
 #### § 37 Beförderungsentgelte
 
 (1) Ein anderes als das vom Fahrpreisanzeiger angezeigte oder im
@@ -788,15 +700,15 @@ Rahmen des Bestellvorgangs vereinbarte Beförderungsentgelt darf nicht
 gefordert werden.
 
 (2) Bei Versagen des Fahrpreisanzeigers wird das Beförderungsentgelt
-nach der durchfahrenen Strecke berechnet; der Fahrzeugführer hat den
-Fahrgast hierauf unverzüglich hinzuweisen. Nach Beendigung der Fahrt
-hat der Fahrzeugführer dem Unternehmer eine Störung des
+nach der durchfahrenen Strecke berechnet; der Fahrzeugführer hat
+den Fahrgast hierauf unverzüglich hinzuweisen. Nach Beendigung
+der Fahrt hat der Fahrzeugführer dem Unternehmer eine Störung des
 Fahrpreisanzeigers unverzüglich anzuzeigen; der Unternehmer hat die
 Störung unverzüglich zu beheben.
 
 (3) Bei Fahrten, deren Ziel außerhalb des Geltungsbereichs der
-festgesetzten Beförderungsentgelte liegt, hat der Fahrzeugführer den
-Fahrgast vor Fahrtbeginn darauf hinzuweisen, daß das
+festgesetzten Beförderungsentgelte liegt, hat der Fahrzeugführer
+den Fahrgast vor Fahrtbeginn darauf hinzuweisen, daß das
 Beförderungsentgelt für die gesamte Fahrtstrecke frei zu vereinbaren
 ist. Kommt keine Vereinbarung zustande, gelten die für den
 Pflichtfahrbereich festgesetzten Beförderungsentgelte als vereinbart.
@@ -812,8 +724,8 @@ vereinbart wird.
 
 #### § 39 Benutzung des Taxischildes
 
-Im Geltungsbereich der festgesetzten Beförderungsentgelte muß das
-Taxischild (§ 26 Abs. 1 Nr. 2) beleuchtet sein, wenn keine
+Im Geltungsbereich der festgesetzten Beförderungsentgelte muß
+das Taxischild (§ 26 Abs. 1 Nr. 2) beleuchtet sein, wenn keine
 Fahrtaufträge ausgeführt werden; das gilt nicht bei der Bereitstellung
 von Taxen auf Taxenständen. Bei Durchführung eines Fahrtauftrags muß
 die Beleuchtung ausgeschaltet sein.
@@ -822,16 +734,14 @@ die Beleuchtung ausgeschaltet sein.
 ### 3. Titel - Mietwagenverkehr
 
 
-
 #### § 40 Beförderungsentgelte
 
-Im Mietwagenverkehr sind die Beförderungsentgelte nach der Anzeige des
-Wegstreckenzählers (§ 30 Abs. 1) zu berechnen, wenn nichts anderes
+Im Mietwagenverkehr sind die Beförderungsentgelte nach der Anzeige
+des Wegstreckenzählers (§ 30 Abs. 1) zu berechnen, wenn nichts anderes
 vereinbart ist.
 
 
 ## 5. Abschnitt - Sondervorschriften über die Untersuchungen der Fahrzeuge
-
 
 
 ### § 41 Hauptuntersuchungen
@@ -867,22 +777,21 @@ unterbleiben.
 ## 6. Abschnitt - Schluß- und Übergangsvorschriften
 
 
-
 ### § 43 Ausnahmen
 
 (1) Die zuständigen obersten Landesbehörden oder die von ihnen
 bestimmten oder nach Landesrecht zuständigen Stellen können in
-bestimmten Einzelfällen oder allgemein für bestimmte Antragsteller von
-allen Vorschriften dieser Verordnung Ausnahmen genehmigen. Von der
-Vorschrift des § 26 Abs. 1 Satz 2 und Abs. 2 Satz 1 können sie für den
-Bereich einzelner Genehmigungsbehörden Ausnahmen auch allgemein für
-die Unternehmer, die im Besitz einer Genehmigung für den Taxen- oder
-Mietwagenverkehr sind, genehmigen. Ausnahmen von der Vorschrift der
-Anlage 1 sind hinsichtlich der Aufschrift und der Farbgebung nicht
+bestimmten Einzelfällen oder allgemein für bestimmte Antragsteller
+von allen Vorschriften dieser Verordnung Ausnahmen genehmigen. Von
+der Vorschrift des § 26 Abs. 1 Satz 2 und Abs. 2 Satz 1 können sie für
+den Bereich einzelner Genehmigungsbehörden Ausnahmen auch allgemein
+für die Unternehmer, die im Besitz einer Genehmigung für den Taxen-
+oder Mietwagenverkehr sind, genehmigen. Ausnahmen von der Vorschrift
+der Anlage 1 sind hinsichtlich der Aufschrift und der Farbgebung nicht
 möglich.
 
-(2) Allgemeine Ausnahmen regelt das Bundesministerium für Verkehr und
-digitale Infrastruktur durch Rechtsverordnung mit Zustimmung des
+(2) Allgemeine Ausnahmen regelt das Bundesministerium für Verkehr
+und digitale Infrastruktur durch Rechtsverordnung mit Zustimmung des
 Bundesrates nach Anhören der zuständigen obersten Landesbehörden.
 
 (3) Die Ausnahmegenehmigung kann unter dem Vorbehalt des Widerrufs
@@ -905,222 +814,155 @@ vorsätzlich oder fahrlässig als Unternehmer
 
 1.  die Instandhaltungspflicht nach § 3 Abs. 1 Satz 2 verletzt,
 
-
 2.  den Betrieb des Unternehmens entgegen § 3 Abs. 1 Satz 3 anordnet oder
     zuläßt,
-
 
 3.  eine vollziehbare schriftliche Anordnung der Genehmigungsbehörde zur
     Bestellung eines Betriebsleiters nach § 4 Abs. 1 Satz 3 bis 5 oder
     eines Vertreters nach § 5 Abs. 1 nicht oder nicht innerhalb der von
     der Genehmigungsbehörde gesetzten Frist befolgt,
 
-
 4.  der in § 6 Nr. 2 oder 3 genannten Meldepflicht nicht unverzüglich
     nachkommt,
-
 
 5.  ein Kraftfahrzeug unter Verstoß gegen eine der folgenden Vorschriften
     einsetzt:
 
     a)  § 10 Satz 1 über das Mitführen von Vorschriften oder Fahrplänen,
 
-
     b)  § 18 über das Mitführen der vorgeschriebenen Ausrüstung,
-
 
     c)  § 19 über die Beschaffenheit und Anbringung von Zeichen und
         Ausrüstungsgegenständen,
 
-
     d)  § 20 über die Beschriftung,
-
 
     e)  § 21 über Verständigungseinrichtungen und Informationseinrichtungen
         über das Anlegen von Sicherheitsgurten,
 
-
     f)  § 22 über Stehplätze,
-
 
     g)  § 25 Abs. 2 über Alarmanlagen,
 
-
     h)  § 26 Abs. 1 Nr. 1 über Farbanstrich,
 
-
     i)  § 26 Abs. 1 Nr. 2 über das Taxischild,
-
 
     j)  § 26 Abs. 1 Satz 2 oder Abs. 2 Satz 2 über Werbung, Kenntlichmachung
         oder Beschriftung an Taxen oder Mietwagen,
 
-
     k)  § 27 Abs. 1 über das Führen der Ordnungsnummer,
-
 
     l)  § 28 über Fahrpreisanzeiger,
 
-
     m)  § 30 über Wegstreckenzähler,
-
 
     n)  § 31 über die Benutzung von Fahrzeugen mit einer Genehmigung für den
         Taxen- und Mietwagenverkehr,
 
-
-    o)  § 33 Abs. 1, Abs. 2 Satz 1 und 3, Abs. 3 oder 4 über Kennzeichnung und
-        Beschilderung,
-
+    o)  § 33 Abs. 1, Abs. 2 Satz 1 und 3, Abs. 3 oder 4 über Kennzeichnung
+        und Beschilderung,
 
     p)  § 34 über die Kenntlichmachung von Sitzplätzen für Schwerbehinderte,
-
 
     q)  § 37 Abs. 2 Satz 2 über das Beheben einer Störung des
         Fahrpreisanzeigers,
 
-
     r)  § 41 Abs. 2 über die Vorlage einer Ausfertigung des
         Untersuchungsberichts oder des Prüfbuchs,
 
-
     s)  § 42 Abs. 1 über die Vorlage des Nachweises.
-
-
-
-
-
-
 
 (2) Ordnungswidrig im Sinne des § 61 Abs. 1 Nr. 4 PBefG handelt auch,
 wer vorsätzlich oder fahrlässig
 
-1.  im Verkehr mit Kraftomnibussen als Fahrzeugführer entgegen § 8 Abs. 2a
-    Satz 1 nicht dafür zu sorgt, dass den Fahrgästen durch
+1.  im Verkehr mit Kraftomnibussen als Fahrzeugführer entgegen § 8
+    Abs. 2a Satz 1 nicht dafür zu sorgt, dass den Fahrgästen durch
     Informationseinrichtungen (§ 21 Abs. 2) angezeigt wird, wann
     Sicherheitsgurte anzulegen sind,
-
 
 2.  im Obusverkehr sowie im Linienverkehr mit Kraftfahrzeugen als Mitglied
     des im Fahrdienst eingesetzten Betriebspersonals entgegen § 8 Abs. 3
 
     a)  während des Dienstes und der Dienstbereitschaft alkoholische Getränke
-        oder andere die dienstliche Tätigkeit beeinträchtigende Mittel zu sich
-        nimmt oder die Fahrt antritt, obwohl er unter der Wirkung solcher
+        oder andere die dienstliche Tätigkeit beeinträchtigende Mittel zu
+        sich nimmt oder die Fahrt antritt, obwohl er unter der Wirkung solcher
         Getränke oder Mittel steht,
-
 
     b)  (weggefallen)
 
-
     c)  beim Lenken des Fahrzeugs Fernsehrundfunkempfänger benutzt,
-
 
     d)  während der Beförderung von Fahrgästen Übertragungsanlagen,
         Tonrundfunkempfänger oder Tonwiedergabegeräte zu anderen als
         betrieblichen oder Verkehrsfunk-Hinweisen benutzt oder
 
-
     e)  sich beim Lenken des Fahrzeugs unterhält,
-
-
-
-
 
 3.  im Gelegenheitsverkehr mit Kraftomnibussen als Mitglied des im
     Fahrdienst eingesetzten Betriebspersonals entgegen § 8 Abs. 4 in
     Verbindung mit § 8 Abs. 3
 
     a)  während des Dienstes und der Dienstbereitschaft alkoholische Getränke
-        oder andere die dienstliche Tätigkeit beeinträchtigende Mittel zu sich
-        nimmt oder die Fahrt antritt, obwohl er unter der Wirkung solcher
+        oder andere die dienstliche Tätigkeit beeinträchtigende Mittel zu
+        sich nimmt oder die Fahrt antritt, obwohl er unter der Wirkung solcher
         Getränke oder Mittel steht,
-
 
     b)  (weggefallen)
 
-
     c)  beim Lenken des Fahrzeugs Fernsehrundfunkempfänger benutzt oder
 
-
     d)  sich beim Lenken des Fahrzeugs unterhält,
-
-
-
-
 
 4.  im Taxen- und Mietwagenverkehr sowie im sonstigen Gelegenheitsverkehr
     mit Personenkraftwagen als Mitglied des im Fahrdienst eingesetzten
     Betriebspersonals entgegen § 8 Abs. 5 in Verbindung mit § 8 Abs. 3
 
     a)  während des Dienstes und der Dienstbereitschaft alkoholische Getränke
-        oder andere die dienstliche Tätigkeit beeinträchtigende Mittel zu sich
-        nimmt oder die Fahrt antritt, obwohl er unter der Wirkung solcher
+        oder andere die dienstliche Tätigkeit beeinträchtigende Mittel zu
+        sich nimmt oder die Fahrt antritt, obwohl er unter der Wirkung solcher
         Getränke oder Mittel steht oder
-
 
     b)  (weggefallen)
 
-
     c)  beim Lenken des Fahrzeugs Fernsehrundfunkempfänger benutzt,
 
-
-
-
-
 5.  als Mitglied des im Fahrdienst oder zur Bedienung von Fahrgästen
-    eingesetzten Betriebspersonals trotz einer Krankheit nach § 9 Abs. 1
-    an Fahrten teilnimmt oder entgegen Abs. 3 eine Erkrankung nicht
+    eingesetzten Betriebspersonals trotz einer Krankheit nach § 9 Abs.
+    1 an Fahrten teilnimmt oder entgegen Abs. 3 eine Erkrankung nicht
     unverzüglich anzeigt,
-
 
 6.  als Fahrzeugführer entgegen
 
     a)  § 9 Abs. 2 Fahrten ausführt, obwohl er durch Krankheit in seiner
         Eignung beeinträchtigt ist, ein Fahrzeug sicher im Verkehr zu führen,
 
-
     b)  § 10 Satz 2 einem Fahrgast auf dessen Verlangen Einsicht in die
         mitzuführenden Vorschriften und Fahrpläne nicht gewährt,
 
-
     c)  § 31 Abs. 2 den dort vorgeschriebenen Hinweis unterläßt,
-
 
     d)  § 33 Abs. 1, Abs. 2 Satz 1 und 3, Abs. 3 oder 4 ein nicht
         ordnungsgemäß gekennzeichnetes oder beschildertes Fahrzeug führt,
 
-
     e)  § 37 Abs. 1 oder 2 im Taxenverkehr Beförderungsentgelt fordert oder
         berechnet,
-
 
     f)  § 37 Abs. 2 Satz 2 eine Störung des Fahrpreisanzeigers nicht nach
         Beendigung der Fahrt dem Unternehmer unverzüglich anzeigt,
 
-
     g)  § 37 Abs. 2 Satz 1 Halbsatz 2 oder Abs. 3 Satz 1 die dort
         vorgeschriebenen Hinweise unterläßt,
 
-
     h)  § 38 nicht den kürzesten Weg zum Fahrtziel wählt,
-
 
     i)  § 39 das Taxischild nicht beleuchtet oder bei Ausführung eines
         Fahrtauftrags die Beleuchtung nicht ausschaltet,
 
-
     j)  § 40 im Mietwagenverkehr Beförderungsentgelt berechnet,
-
-
-
-
 
 7.  als Fahrgast den in § 14 Abs. 1 bis 3 oder § 15 Abs. 1 aufgeführten
     Verpflichtungen nicht nachkommt.
-
-
-
 
 
 ### § 46 Berlin-Klausel
@@ -1137,10 +979,8 @@ jedoch
 
 1.  § 21 Satz 1 Nr. 2 am 1. September 1980,
 
-
 2.  § 22 Abs. 1 und § 45 Abs. 1 Nr. 5 Buchstabe e am 1. September 1985 für
     erstmals in den Verkehr kommende Fahrzeuge,
-
 
 3.  § 23 und § 45 Abs. 1 Nr. 5 Buchstabe f am 1. September 1979 für
     diejenigen Fahrzeuge, mit denen bisher Beförderungen im Berufsverkehr
@@ -1148,26 +988,19 @@ jedoch
     Nr. 4 Buchstabe d der Freistellungs-Verordnung durchgeführt worden
     sind,
 
-
 4.  § 26 Abs. 1 Nr. 1 und § 45 Abs. 1 Nr. 5 Buchstabe h am 1. September
     1980 für Fahrzeuge mit einem anderen Farbanstrich, die im Taxenverkehr
     oder im Taxen- und Mietwagenverkehr (§ 46 Abs. 3 PBefG) eingesetzt
     sind,
 
-
 5.  § 26 Abs. 1 Nr. 2 und § 45 Abs. 1 Nr. 5 Buchstabe i am 1. September
     1978,
 
-
 6.  § 32 Abs. 2 Nr. 1 und 2 am 1. September 1979,
-
 
 7.  § 33 Abs. 1 und Abs. 2 Satz 1 und 3 sowie § 45 Abs. 1 Nr. 5 Buchstabe
     o und Abs. 2 Nr. 5 Buchstabe c, soweit diese Vorschriften des § 45 auf
     § 33 Abs. 1 und Abs. 2 Satz 1 und 3 verweisen, am 1. September 1981.
-
-
-
 
 (2) Mit dem Inkrafttreten der Vorschriften dieser Verordnung treten
 außer Kraft die entsprechenden Vorschriften
@@ -1178,13 +1011,9 @@ außer Kraft die entsprechenden Vorschriften
     der Verordnung zur Änderung der Straßenverkehrs-Zulassungs-Ordnung vom
     13\. Juli 1971 (Bundesgesetzbl. I S. 979),
 
-
-2.  der Verordnung über eine allgemeine Ausnahme von dem Erfordernis des
-    schwarzen Farbanstrichs für Taxen vom 18. Dezember 1970
+2.  der Verordnung über eine allgemeine Ausnahme von dem Erfordernis
+    des schwarzen Farbanstrichs für Taxen vom 18. Dezember 1970
     (Bundesgesetzblatt I S. 1779).
-
-
-
 
 
 ### Schlußformel
@@ -1197,77 +1026,26 @@ Der Bundesminister für Verkehr
 (Fundstelle: BGBl. I 1975, 1582 - 1583
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-## Abmessungen, Aufschrift und Beleuchtung des Taxischildes (siehe
-Skizze)
+| Breite | mindestens | 250 mm, |
+| --- | --- | --- |
+|  | höchstens | 520 mm |
+| Höhe | mindestens | 75 mm, |
+|  | höchstens | 120 mm |
+| Schrifthöhe | mindestens | 50 mm, |
+| Strichstärke | mindestens | 10 mm, |
+|  | höchstens | 15 mm |
+| Farbe der Aufschrift | gelb |  |
+| Farbe des Schriftuntergrundes | schwarz |  |
 
-*    *   Breite
-
-    *   mindestens
-
-    *   250 mm,
-
-
-*    *
-    *   höchstens
-
-    *   520 mm
-
-
-*    *   Höhe
-
-    *   mindestens
-
-    *   75 mm,
-
-
-*    *
-    *   höchstens
-
-    *   120 mm
-
-
-*    *   Schrifthöhe
-
-    *   mindestens
-
-    *   50 mm,
-
-
-*    *   Strichstärke
-
-    *   mindestens
-
-    *   10 mm,
-
-
-*    *
-    *   höchstens
-
-    *   15 mm
-
-
-*    *   Farbe der Aufschrift
-
-    *   gelb
-
-    *
-
-*    *   Farbe des Schriftuntergrundes
-
-    *   schwarz
-
-    *
-
-
-   Abweichungen bei der Schrifthöhe und der Strichstärke sind nicht
-zulässig. Der Schriftuntergrund muß eine rechteckige Form haben. Das
-Schild kann an den Ecken abgerundet oder in einen Dachaufsetzer
+Abweichungen bei der Schrifthöhe und der Strichstärke sind nicht
+zulässig. Der Schriftuntergrund muß eine rechteckige Form haben.
+Das Schild kann an den Ecken abgerundet oder in einen Dachaufsetzer
 eingearbeitet sein; es darf nicht spiegeln. Die nach vorn und hinten
 wirkenden Flächen des Schildes (Schriftuntergrund) können innerhalb
 der zulässigen Abmessungen von einem Randstreifen in der Farbe der
 Aufschrift bis zu 20 mm Breite umgeben sein.
-Die Innenbeleuchtung des Schildes darf durch die Aufschrift, durch den
-Randstreifen sowie nach oben und zur Seite gelbes Dauerlicht
+Die Innenbeleuchtung des Schildes darf durch die Aufschrift, durch
+den Randstreifen sowie nach oben und zur Seite gelbes Dauerlicht
 abstrahlen, das nicht blenden darf und die lichtdurchlässigen Teile
 des Schildes gleichmäßig ausleuchten soll. Die Leistungsaufnahme der
 Innenbeleuchtung darf insgesamt nicht mehr als 30 Watt betragen.
@@ -1284,145 +1062,47 @@ Innenbeleuchtung darf insgesamt nicht mehr als 30 Watt betragen.
 
 (Fundstelle: BGBl. I 1975, 1585)
 
-
-*    *   Abmessungen und Beschriftung des Ordnungsnummern-Schildes
-
-
-*    *
-    *
-
-*    *   Breite
-
-    *   150 mm
-
-
-*    *   Höhe
-
-    *   70 mm
-
-
-*    *   Schrifthöhe
-
-    *   50 mm
-
-
-*    *   Strichstärke
-
-    *   6 mm
-
-
-*    *   Waagerechter Abstand der Ziffern voneinander
-
-    *   5 mm
-
-
-*    *   Farbe der Schrift
-
-    *   schwarz
-
-
-*    *   Farbe des Untergrunds
-
-    *   gelb
-
-
+| Abmessungen und Beschriftung des Ordnungsnummern-Schildes |  |
+| --- | --- |
+| Breite | 150 mm |
+| Höhe | 70 mm |
+| Schrifthöhe | 50 mm |
+| Strichstärke | 6 mm |
+| Waagerechter Abstand der Ziffern voneinander | 5 mm |
+| Farbe der Schrift | schwarz |
+| Farbe des Untergrunds | gelb |
 
 (Inhalt: nicht darstellbares Ordnungsnummern-Schild)
 
-(zu § 27 Absatz 3)
 
-### Anlage 3a Abmessungen und Beschriftung des Ordnungsnummern-Schildes für Mietwagen
+### Anlage 3a (zu § 27 Absatz 3) Abmessungen und Beschriftung des Ordnungsnummern-Schildes für Mietwagen
 
 (Fundstelle: BGBl. I 2021, 831)
 
-
-*    *   Breite
-
-    *   150 mm
-
-
-*    *   Höhe
-
-    *   70 mm
-
-
-*    *   Schrifthöhe
-
-    *   50 mm
+| Breite | 150 mm |
+| --- | --- |
+| Höhe | 70 mm |
+| Schrifthöhe | 50 mm |
+| Strichstärke | 6 mm |
+| Waagerechter Abstand der Ziffern voneinander | 5 mm |
+| Farbe der Schrift | weiß |
+| Farbe des Untergrunds | blau |
+| (Inhalt: nicht darstellbares Ordnungsnummern-Schild) |  |
 
 
-*    *   Strichstärke
-
-    *   6 mm
-
-
-*    *   Waagerechter Abstand der Ziffern
-        voneinander
-
-    *   5 mm
-
-
-*    *   Farbe der Schrift
-
-    *   weiß
-
-
-*    *   Farbe des Untergrunds
-
-    *   blau
-
-
-*    *   (Inhalt: nicht darstellbares Ordnungsnummern-Schild)
-
-
-
-
-(zu § 27 Absatz 4)
-
-### Anlage 3b Abmessungen und Beschriftung des Ordnungsnummern-Schildes für gebündelte Bedarfsverkehre
+### Anlage 3b (zu § 27 Absatz 4) Abmessungen und Beschriftung des Ordnungsnummern-Schildes für gebündelte Bedarfsverkehre
 
 (Fundstelle: BGBl. I 2021, 832)
 
-
-*    *   Breite
-
-    *   150 mm
-
-
-*    *   Höhe
-
-    *   70 mm
-
-
-*    *   Schrifthöhe
-
-    *   50 mm
-
-
-*    *   Strichstärke
-
-    *   6 mm
-
-
-*    *   Waagerechter Abstand der Ziffern
-        voneinander
-
-    *   5 mm
-
-
-*    *   Farbe der Schrift
-
-    *   weiß
-
-
-*    *   Farbe des Untergrunds
-
-    *   grün
-
-
-*    *   (Inhalt: nicht darstellbares Ordnungsnummern-Schild)
-
-
+| Breite | 150 mm |
+| --- | --- |
+| Höhe | 70 mm |
+| Schrifthöhe | 50 mm |
+| Strichstärke | 6 mm |
+| Waagerechter Abstand der Ziffern voneinander | 5 mm |
+| Farbe der Schrift | weiß |
+| Farbe des Untergrunds | grün |
+| (Inhalt: nicht darstellbares Ordnungsnummern-Schild) |  |
 
 
 ### Anlage 4 (§ 33 Abs. 4)
@@ -1430,45 +1110,14 @@ Innenbeleuchtung darf insgesamt nicht mehr als 30 Watt betragen.
 (Fundstelle: BGBl. I 1975, 1586 - 1587
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-## Abmessungen und Beschriftung des Schulbus-Schildes (siehe Skizze)
-
-*    *   Das Schild hat die Form eines Quadrats. Seitenlänge für das an der
-        Rückseite anzubringenden Schild
-
-    *   600 mm
-
-
-*    *   Stärke der Bildumrandung für das an der Rückseite anzubringende Schild
-
-    *   50 mm
-
-
-*    *   Seitenlänge für das an der Stirnseite anzubringende Schild
-
-    *   600 mm,
-
-
-*    *   mindestens jedoch
-
-    *   400 mm
-
-
-*    *   Stärke der Bildumrandung für das an der Stirnseite anzubringende
-        Schild
-
-    *   35 mm
-
-
-*    *   Farbe des Sinnbilds und der Bildumrandung
-
-    *   schwarz
-
-
-*    *   Farbe des Untergrunds
-
-    *   Orange
-
-
+| Das Schild hat die Form eines Quadrats. Seitenlänge für das an der Rückseite anzubringenden Schild | 600 mm |
+| --- | --- |
+| Stärke der Bildumrandung für das an der Rückseite anzubringende Schild | 50 mm |
+| Seitenlänge für das an der Stirnseite anzubringende Schild | 600 mm, |
+| mindestens jedoch | 400 mm |
+| Stärke der Bildumrandung für das an der Stirnseite anzubringende Schild | 35 mm |
+| Farbe des Sinnbilds und der Bildumrandung | schwarz |
+| Farbe des Untergrunds | Orange |
 
 Die Farbe des Bilduntergrunds ist der Farbreihe F 7 des Ausschusses
 für Lieferbedingungen und Gütesicherung (RAL) beim Deutschen
@@ -1492,22 +1141,12 @@ mm und mit einer Stärke der Bildumrandung von 35 mm verwendet werden.
 (Fundstelle: BGBl. I 1977, 601
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-*    *   **Sinnbild zur Kenntlichmachung von Sitzplätzen für behinderte und
-        andere sitzplatzbedürftige Personen (§ 34 Satz 2)**
-
-
+| **Sinnbild zur Kenntlichmachung von Sitzplätzen für behinderte und andere sitzplatzbedürftige Personen (§ 34 Satz 2)** |
+| --- |
 
 (Inhalt: nicht darstellbares Sinnbild, Fundstelle: BGBl I 1977, 601)
 
-*    *   Farbe des Sinnbilds und der Bildumrandung
-
-    *   schwarz
-
-
-*    *   Farbe des Untergrunds
-
-    *   weiß.
-
-
-
+| Farbe des Sinnbilds und der Bildumrandung | schwarz |
+| --- | --- |
+| Farbe des Untergrunds | weiß. |
 

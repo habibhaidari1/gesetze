@@ -43,21 +43,17 @@ Unfällen mit Sachschaden,
 1.  Unfallstelle, Datum, Uhrzeit, Hergang und Umstände des Unfalls sowie
     allgemeine Unfallursachen,
 
-
 2.  die beteiligten Verkehrsteilnehmer nach Geburtsmonat/-jahr,
-    Geschlecht, Staatsangehörigkeit, bei Ausländern auch nach Wohnsitz im
-    In- oder Ausland, Art der Verkehrsbeteiligung, Monat und Jahr der
+    Geschlecht, Staatsangehörigkeit, bei Ausländern auch nach Wohnsitz
+    im In- oder Ausland, Art der Verkehrsbeteiligung, Monat und Jahr der
     Erteilung der Fahrerlaubnis, unerlaubtes Entfernen vom Unfallort,
     Unfallfolgen nach den Absätzen 3 und 4 sowie Art des Fehlverhaltens
     und Grad der Alkoholeinwirkung,
 
-
 3.  die Zahl der Fahrzeugbenutzer,
-
 
 4.  die verunglückten Mitfahrer nach Alter in Jahren, Geschlecht und
     Unfallfolgen nach den Absätzen 3 und 4,
-
 
 5.  die beteiligten Verkehrsmittel nach Fahrzeugart, Zulassungsbezirk,
     Nationalitätszeichen, technischen Mängeln, Art und Höhe des
@@ -65,14 +61,10 @@ Unfällen mit Sachschaden,
     Gefahrgutes sowie die Anwendung von Ausnahmebestimmungen nach der
     jeweils geltenden Straßen-Gefahrgutausnahmeverordnung,
 
-
-6.  bei deutschen Kraftfahrzeugen die fahrzeugbezogenen Merkmale: Jahr der
-    Erstzulassung, Hersteller, Typ und Ausführung des Fahrzeugs,
+6.  bei deutschen Kraftfahrzeugen die fahrzeugbezogenen Merkmale: Jahr
+    der Erstzulassung, Hersteller, Typ und Ausführung des Fahrzeugs,
     technische Ausstattung, Fahrzeug- und Aufbauart, Hubraum und
     Motorleistung, Höchstgeschwindigkeit, Maße und Gewichte.
-
-
-
 
 (2) Bei allen anderen Unfällen erfaßt die Statistik lediglich die
 Gesamtzahl, gegliedert nach Unfällen auf Autobahnen und sonstigen
@@ -82,8 +74,8 @@ Unfällen innerhalb und außerhalb geschlossener Ortschaften.
 (3) Als Getötete werden alle Personen gezählt, die innerhalb von 30
 Tagen nach dem Unfall an den Unfallfolgen verstorben sind.
 
-(4) Verletzte sind Personen, die bei dem Unfall Körperschäden erlitten
-haben. Werden sie deshalb zur stationären Behandlung in ein
+(4) Verletzte sind Personen, die bei dem Unfall Körperschäden
+erlitten haben. Werden sie deshalb zur stationären Behandlung in ein
 Krankenhaus aufgenommen, so gelten sie als Schwerverletzte.
 
 (5)
@@ -98,10 +90,10 @@ Kraftfahrzeugkennzeichen der beteiligten Verkehrsmittel erfaßt.
 
 ## § 4
 
-(1) Auskunftspflichtig sind die Polizeidienststellen, deren Beamte den
-Unfall aufgenommen haben. Die Auskünfte werden aus den Unterlagen der
-Unfallaufnahme erteilt und den statistischen Ämtern der Länder laufend
-zugeleitet. Die Polizei der Länder ist berechtigt, das
+(1) Auskunftspflichtig sind die Polizeidienststellen, deren Beamte
+den Unfall aufgenommen haben. Die Auskünfte werden aus den Unterlagen
+der Unfallaufnahme erteilt und den statistischen Ämtern der Länder
+laufend zugeleitet. Die Polizei der Länder ist berechtigt, das
 Kraftfahrzeugkennzeichen von unfallbeteiligten Fahrzeugen auch im
 automatisierten Verfahren an die statistischen Ämter der Länder
 weiterzuleiten.
@@ -110,13 +102,13 @@ weiterzuleiten.
 fahrzeugbezogenen Merkmale nach § 2 Abs. 1 Nr. 6 auskunftspflichtig.
 Das Kraftfahrt-Bundesamt erteilt die Auskünfte nach § 2 Abs. 1 Nr. 6
 aus dem Zentralen Fahrzeugregister. Zu diesem Zweck übermitteln die
-statistischen Ämter der Länder die Kraftfahrzeugkennzeichen nach § 3
-und das Datum des Unfalls nach § 2 Abs. 1 Nr. 1 einer von anderen
+statistischen Ämter der Länder die Kraftfahrzeugkennzeichen nach §
+3 und das Datum des Unfalls nach § 2 Abs. 1 Nr. 1 einer von anderen
 Aufgabenbereichen getrennten Organisationseinheit des Kraftfahrt-
-Bundesamtes gemäß § 58 Abs. 2 Satz 1 des Güterkraftverkehrsgesetzes in
-der Fassung der Bekanntmachung vom 3. November 1993 (BGBl. I S. 1839,
-1992), das durch Artikel 40 des Gesetzes vom 29. Juli 1994 (BGBl. I S.
-1890) geändert worden ist. § 58 Abs. 2 Satz 2 und 3 des
+Bundesamtes gemäß § 58 Abs. 2 Satz 1 des Güterkraftverkehrsgesetzes
+in der Fassung der Bekanntmachung vom 3. November 1993 (BGBl. I S.
+1839, 1992), das durch Artikel 40 des Gesetzes vom 29. Juli 1994
+(BGBl. I S. 1890) geändert worden ist. § 58 Abs. 2 Satz 2 und 3 des
 Güterkraftverkehrsgesetzes gilt entsprechend. Die in Satz 3 genannten
 Angaben sind im Kraftfahrt-Bundesamt spätestens einen Monat nach der
 Übermittlung der Angaben nach § 2 Abs. 1 Nr. 6 an die statistischen
@@ -132,15 +124,14 @@ Einzelfällen, vom Statistischen Bundesamt und den statistischen Ämtern
 der Länder Tabellen mit statistischen Ergebnissen übermittelt werden,
 auch soweit Tabellenfelder nur einen einzigen Fall ausweisen.
 
-(2) An die zur Durchführung statistischer Aufgaben zuständigen Stellen
-der Gemeinden und Gemeindeverbände dürfen von den statistischen Ämtern
-der Länder unter den Voraussetzungen des § 16 Abs. 5
-Bundesstatistikgesetz über Unfälle, die sich in ihrem
+(2) An die zur Durchführung statistischer Aufgaben zuständigen
+Stellen der Gemeinden und Gemeindeverbände dürfen von den
+statistischen Ämtern der Länder unter den Voraussetzungen des §
+16 Abs. 5 Bundesstatistikgesetz über Unfälle, die sich in ihrem
 Zuständigkeitsbereich ereignet haben, folgende Einzelangaben
 übermittelt werden:
 
 1.  die Angaben nach § 2 Abs. 1 Nr. 1, 3 und 4,
-
 
 2.  die Angaben nach § 2 Abs. 1 Nr. 2 mit Ausnahme folgender Merkmale:
 
@@ -148,12 +139,8 @@ Zuständigkeitsbereich ereignet haben, folgende Einzelangaben
     Ausland, Monat und Jahr der Erteilung der Fahrerlaubnis, unerlaubtes
     Entfernen vom Unfallort, Grad der Alkoholeinwirkung,
 
-
 3.  die Angaben nach § 2 Abs. 1 Nr. 5 mit Ausnahme des
     Nationalitätszeichens.
-
-
-
 
 (3) Für Zwecke der Unfallforschung sind der Bundesanstalt für
 Straßenwesen von den statistischen Ämtern der Länder jährlich die
@@ -165,11 +152,11 @@ Organisationseinheit eingerichtet, die räumlich, organisatorisch und
 personell von anderen Aufgabenbereichen der Bundesanstalt zu trennen
 ist. Die in dieser Organisationseinheit tätigen Personen müssen
 Amtsträger oder für den öffentlichen Dienst besonders Verpflichtete
-sein. Sie dürfen die aus ihrer Tätigkeit gewonnenen Erkenntnisse nur
-für Zwecke der Unfallforschung verwenden. Die nach Satz 1
+sein. Sie dürfen die aus ihrer Tätigkeit gewonnenen Erkenntnisse
+nur für Zwecke der Unfallforschung verwenden. Die nach Satz 1
 übermittelten Einzelangaben dürfen nicht mit anderen personenbezogenen
-Daten zusammengeführt werden. Das Nähere zur Ausführung der Sätze 3
-und 4 regelt das Bundesministerium für Verkehr und digitale
+Daten zusammengeführt werden. Das Nähere zur Ausführung der Sätze
+3 und 4 regelt das Bundesministerium für Verkehr und digitale
 Infrastruktur durch Erlaß.
 
 (4) Die Übermittlung von Einzelangaben an Hochschulen und sonstige

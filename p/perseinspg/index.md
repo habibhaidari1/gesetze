@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zur Einsparung von Personalausgaben in der mittelbaren Bundesverwaltung
-  sowie bei der Deutschen Bundesbahn und der Deutschen Bundespost
+Title: Gesetz zur Einsparung von Personalausgaben in der mittelbaren Bundesverwaltung sowie bei der Deutschen Bundesbahn und der Deutschen Bundespost
 jurabk: PersEinspG
 layout: default
 origslug: perseinspg
@@ -32,8 +31,8 @@ zum bisherigen Dienstherrn am 1. Januar 1984 frei sind oder danach
 frei werden, sechs Monate nach Freiwerden nicht besetzt werden
 (Stellenbesetzungssperre).
 
-(2) Absatz 1 gilt entsprechend für Stellen von Angestellten sowie für
-Arbeiter.
+(2) Absatz 1 gilt entsprechend für Stellen von Angestellten sowie
+für Arbeiter.
 
 (3) Die Besetzungssperre gilt nicht für
 
@@ -41,14 +40,9 @@ Arbeiter.
     Auszubildende, die in derselben Verwaltung in ein Arbeitsverhältnis
     übernommen werden,
 
-
 2.  Einstellungen von Schwerbehinderten,
 
-
 3.  Behörden- (Dienststellen-) Leiter.
-
-
-
 
 (4) Die Dienstherrn können Ausnahmen von der Stellenbesetzungssperre
 zulassen. Die Zahl der Ausnahmen darf 10 vom Hundert der im
@@ -58,16 +52,16 @@ nicht übersteigen.
 (5) Die Absätze 1, 3 und 4 gelten entsprechend für die Deutsche
 Bundespost und die Deutsche Bundesbahn.
 
-(6) Die Stellenbesetzungssperre gilt nur für den Zeitraum, in dem für
-die Bundesverwaltung auf Grund des Haushaltsgesetzes eine
+(6) Die Stellenbesetzungssperre gilt nur für den Zeitraum, in
+dem für die Bundesverwaltung auf Grund des Haushaltsgesetzes eine
 Stellenbesetzungssperre besteht.
 
 
 ## § 2 Wegfall des Essenszuschusses
 
 Bei den in § 1 genannten Einrichtungen dürfen die bisher gewährten
-Essenszuschüsse oder entsprechende Leistungen unabhängig von ihrer
-bisherigen Höhe ab 1. Januar 1984 nicht mehr gewährt werden.
+Essenszuschüsse oder entsprechende Leistungen unabhängig von
+ihrer bisherigen Höhe ab 1. Januar 1984 nicht mehr gewährt werden.
 Essenszuschüsse sind Leistungen nach Nummer 10 der Richtlinien für
 Kantinen bei Dienststellen des Bundes vom 25. September 1974 in der
 bis zum 31. Dezember 1983 geltenden Fassung oder nach gleichartigen

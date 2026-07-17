@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl I: 1995, 840
 
 
-
 ## (XXXX)
 
 Gemäß § 9 der Geschäftsordnung der Bundesregierung ordne ich mit

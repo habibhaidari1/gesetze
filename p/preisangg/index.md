@@ -25,12 +25,12 @@ Zum Zwecke der Unterrichtung und des Schutzes der Verbraucher und zur
 Förderung des Wettbewerbs sowie zur Durchführung von diesen Zwecken
 dienenden Rechtsakten der Organe der Europäischen Gemeinschaften wird
 das Bundesministerium für Wirtschaft und Energie ermächtigt, durch
-Rechtsverordnung mit Zustimmung des Bundesrates zu bestimmen, daß und
-auf welche Art und Weise beim Anbieten von Waren oder Leistungen
+Rechtsverordnung mit Zustimmung des Bundesrates zu bestimmen, daß
+und auf welche Art und Weise beim Anbieten von Waren oder Leistungen
 gegenüber Letztverbrauchern oder bei der Werbung für Waren oder
-Leistungen gegenüber Letztverbrauchern Preise und die Verkaufs- oder
-Leistungseinheiten sowie Gütebezeichnungen, auf die sich die Preise
-beziehen, anzugeben sind. Bei Leistungen der elektronischen
+Leistungen gegenüber Letztverbrauchern Preise und die Verkaufs-
+oder Leistungseinheiten sowie Gütebezeichnungen, auf die sich die
+Preise beziehen, anzugeben sind. Bei Leistungen der elektronischen
 Informations- und Kommunikationsdienste können auch Bestimmungen über
 die Angabe des Preisstandes fortlaufender Leistungen getroffen werden.
 

@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zu dem Abkommen vom 8. April 2013 zwischen der Bundesrepublik Deutschland
-  und der Republik Östlich des Uruguay über Soziale Sicherheit
+Title: Gesetz zu dem Abkommen vom 8. April 2013 zwischen der Bundesrepublik Deutschland und der Republik Östlich des Uruguay über Soziale Sicherheit
 jurabk: SozSichAbkURYG
 layout: default
 origslug: sozsichabkuryg
@@ -31,13 +30,9 @@ zwischenstaatlichen Übereinkünften wird zugestimmt:
 1.  dem Abkommen zwischen der Bundesrepublik Deutschland und der Republik
     Östlich des Uruguay über Soziale Sicherheit,
 
-
 2.  der Vereinbarung zur Durchführung des Abkommens vom 8. April 2013
     zwischen der Bundesrepublik Deutschland und der Republik Östlich des
     Uruguay über Soziale Sicherheit (Durchführungsvereinbarung).
-
-
-
 
 Das Abkommen und die Durchführungsvereinbarung werden nachstehend
 veröffentlicht.
@@ -58,16 +53,11 @@ Dabei können zur Anwendung und Durchführung des Abkommens insbesondere
     Abkommens befassten Stellen sowie zwischen diesen und den betroffenen
     Personen,
 
-
 2.  das Ausstellen, die Vorlage und Übermittlung von Bescheinigungen sowie
     die Verwendung von Vordrucken,
 
-
 3.  die Zuständigkeit der Versicherungsträger oder anderer im Abkommen
     genannter Stellen und Behörden.
-
-
-
 
 
 ## Art 3

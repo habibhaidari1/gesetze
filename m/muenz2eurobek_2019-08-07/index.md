@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert
-  von 2 Euro (Gedenkmünze „Bundesrat“)
+Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze „Bundesrat“)
 jurabk: Münz2EuroBek 2019-08-07
 layout: default
 origslug: m_nz2eurobek_2019-08-07
@@ -19,15 +18,15 @@ Fundstelle
 
 ## (XXXX)
 
-Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
-I S. 2402) hat die Bundesregierung beschlossen, eine 2-Euro-
-Gedenkmünze „Bundesrat“ im Rahmen einer Serie „Bundesländer“ prägen zu
-lassen.
+Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999
+(BGBl. I S. 2402) hat die Bundesregierung beschlossen, eine 2-Euro-
+Gedenkmünze „Bundesrat“ im Rahmen einer Serie „Bundesländer“ prägen
+zu lassen.
 
 Die Münze wird ab dem 29. Januar 2019 in den Verkehr gebracht.
 
-Die Wertseite der Münze, die Randschrift (Schriftzug „EINIGKEIT UND
-RECHT UND FREIHEIT“ sowie eine stilisierte Darstellung des
+Die Wertseite der Münze, die Randschrift (Schriftzug „EINIGKEIT
+UND RECHT UND FREIHEIT“ sowie eine stilisierte Darstellung des
 Bundesadlers) und die technischen Parameter entsprechen der 2-Euro-
 Umlaufmünze.
 
@@ -54,9 +53,4 @@ Der Bundesminister der Finanzen
 ## (XXXX)
 
 (Fundstelle: BGBl. I 2019, 1379)
-
-
-*    *        ![bgbl1_2019_j1379-1_0010.jpg](bgbl1_2019_j1379-1_0010.jpg)
-    *        ![bgbl1_2019_j1379-1_0020.jpg](bgbl1_2019_j1379-1_0020.jpg)
-
 

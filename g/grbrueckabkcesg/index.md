@@ -1,7 +1,5 @@
 ---
-Title: Gesetz zu dem Vertrag vom 13. Juli 1995 zwischen der Bundesrepublik Deutschland
-  und der Tschechischen Republik über den Bau einer Grenzbrücke an der gemeinsamen
-  Staatsgrenze im Zuge der Europastraße E 49
+Title: Gesetz zu dem Vertrag vom 13. Juli 1995 zwischen der Bundesrepublik Deutschland und der Tschechischen Republik über den Bau einer Grenzbrücke an der gemeinsamen Staatsgrenze im Zuge der Europastraße E 49
 jurabk: GrBrückAbkCESG
 layout: default
 origslug: grbr_ckabkcesg
@@ -18,7 +16,6 @@ Fundstelle
 :   BGBl II: 1996, 2662
 
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
@@ -28,8 +25,8 @@ beschlossen:
 ## Art 1
 
 Dem in Prag am 13. Juli 1995 unterzeichneten Vertrag zwischen der
-Bundesrepublik Deutschland und der Tschechischen Republik über den Bau
-einer Grenzbrücke an der gemeinsamen Staatsgrenze im Zuge der
+Bundesrepublik Deutschland und der Tschechischen Republik über den
+Bau einer Grenzbrücke an der gemeinsamen Staatsgrenze im Zuge der
 Europastraße E 49 wird zugestimmt. Der Vertrag wird nachstehend
 veröffentlicht.
 

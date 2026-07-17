@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zur Übertragung von Aufgaben der Bundeswehrverwaltung auf neue Behörden
-  der Personalmanagementorganisation der Bundeswehr
+Title: Gesetz zur Übertragung von Aufgaben der Bundeswehrverwaltung auf neue Behörden der Personalmanagementorganisation der Bundeswehr
 jurabk: WVwAÜG
 layout: default
 origslug: wvwa_g
@@ -25,33 +24,22 @@ Wehrbereichsverwaltungen übertragen, die diese wahrnehmen nach
 
 1.  dem Wehrpflichtgesetz,
 
-
 2.  dem Soldatengesetz,
-
 
 3.  der Zweiten Bundesmeldedatenübermittlungsverordnung,
 
-
 4.  der KV-/PV-Pauschalbeitragsverordnung,
-
 
 5.  der RV-Wehr- und Zivildienstpauschalbeitragsverordnung,
 
-
 6.  der Unabkömmlichstellungsverordnung,
-
 
 7.  der Verordnung über die Feststellung und Deckung des
     Arbeitskräftebedarfs nach dem Arbeitssicherstellungsgesetz,
 
-
 8.  der Berufsförderungsverordnung und
 
-
 9.  der Personalaktenverordnung Soldaten.
-
-
-
 
 
 ## § 2 Karrierecenter der Bundeswehr

@@ -16,13 +16,12 @@ Fundstelle
 :   BGBl I: 1957, 1103
 
 
-
 ## § 1
 
 Als neuer Rechtsträger für die Steinkohlenbergwerke im Saarland
-(Artikel 85 des Vertrags zwischen der Bundesrepublik Deutschland und
-der Französischen Republik zur Regelung der Saarfrage vom 27. Oktober
-1956 - Saarvertrag - Bundesgesetzblatt II S. 1587) ist eine
+(Artikel 85 des Vertrags zwischen der Bundesrepublik Deutschland
+und der Französischen Republik zur Regelung der Saarfrage vom 27.
+Oktober 1956 - Saarvertrag - Bundesgesetzblatt II S. 1587) ist eine
 Aktiengesellschaft mit dem Sitz in Saarbrücken (Gesellschaft) zu
 errichten. Das Saarland ist berechtigt, sich an der Errichtung der
 Gesellschaft durch Übernahme von Aktien in Höhe von 26 vom Hundert des
@@ -55,19 +54,19 @@ unter Befreiung des bisherigen Schuldners kraft Gesetzes auf die
 Gesellschaft über. Abgesehen von der Befreiung des bisherigen
 Schuldners werden die Rechte der Gläubiger, insbesondere ihre
 Ansprüche gegenüber einem Bürgen sowie ihre Rechte aus einem
-Pfandrecht, einer Hypothek oder einer sonstigen Sicherheit durch den
-Schuldübergang nicht berührt; § 418 des Bürgerlichen Gesetzbuchs
+Pfandrecht, einer Hypothek oder einer sonstigen Sicherheit durch
+den Schuldübergang nicht berührt; § 418 des Bürgerlichen Gesetzbuchs
 findet keine Anwendung. Im Zeitpunkt der Eintragung der Gesellschaft
 in das Handelsregister erlischt das Unternehmen "Saarbergwerke".
 
 
 ## § 4
 
-Bei einem Antrag auf Berichtigung des Grundbuchs durch Eintragung der
-Gesellschaft als Eigentümerin eines gemäß § 2 eingebrachten
+Bei einem Antrag auf Berichtigung des Grundbuchs durch Eintragung
+der Gesellschaft als Eigentümerin eines gemäß § 2 eingebrachten
 Grundstücks oder als Inhaberin eines gemäß § 2 eingebrachten Rechts
-genügt zum Nachweis, daß das Grundstück oder das Recht auf Grund des §
-2 in die Gesellschaft eingebracht und auf Grund des § 3 auf sie
+genügt zum Nachweis, daß das Grundstück oder das Recht auf Grund des
+§ 2 in die Gesellschaft eingebracht und auf Grund des § 3 auf sie
 übergegangen ist, eine schriftliche Erklärung der Gesellschaft, die
 nicht der Form des § 29 der Grundbuchordnung bedarf.
 

@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 1 Deutschen
-  Mark
+Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 1 Deutschen Mark
 jurabk: Münz1DMBek
 layout: default
 origslug: m_nz1dmbek
@@ -17,11 +16,10 @@ Fundstelle
 :   BGBl: 1950, 685
 
 
-
 ## (XXXX)
 
-(1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen vom
-8\. Juli 1950 (Bundesgesetzblatt S. 323) werden Bundesmünzen im
+(1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen
+vom 8. Juli 1950 (Bundesgesetzblatt S. 323) werden Bundesmünzen im
 Nennwert von 1 Deutschen Mark ausgeprägt und demnächst in den Verkehr
 gebracht.
 
@@ -48,6 +46,7 @@ Umschrift getrennt, das Münzzeichen.
 
 (6) Der Rand der Münze ist glatt, jedoch mit vertieften Arabesken
 versehen.
+
 Der Bundeskanzler
 Der Bundesminister der Finanzen
 

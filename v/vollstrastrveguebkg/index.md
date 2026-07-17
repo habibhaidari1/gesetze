@@ -1,7 +1,5 @@
 ---
-Title: Gesetz zu dem Übereinkommen vom 13. November 1991 zwischen den Mitgliedstaaten
-  der Europäischen Gemeinschaften über die Vollstreckung ausländischer strafrechtlicher
-  Verurteilungen
+Title: Gesetz zu dem Übereinkommen vom 13. November 1991 zwischen den Mitgliedstaaten der Europäischen Gemeinschaften über die Vollstreckung ausländischer strafrechtlicher Verurteilungen
 jurabk: VollstrAStrVEGÜbkG
 layout: default
 origslug: vollstrastrveg_bkg
@@ -16,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl II: 1997, 1350
-
 
 
 ## Art 1
@@ -46,8 +43,8 @@ Bekanntmachung vom 27. Juni 1994 (BGBl. I S. 1537) keine Anwendung.
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 
-(2) Der Tag, an dem das Übereinkommen nach seinem Artikel 21 Abs. 2
-für die Bundesrepublik Deutschland in Kraft tritt, ist im
+(2) Der Tag, an dem das Übereinkommen nach seinem Artikel 21
+Abs. 2 für die Bundesrepublik Deutschland in Kraft tritt, ist im
 Bundesgesetzblatt bekanntzugeben. Das gleiche gilt für den Tag, von
 dem an das Übereinkommen nach seinem Artikel 21 Abs. 3 vorzeitige
 Anwendung findet.

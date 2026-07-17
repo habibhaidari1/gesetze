@@ -15,13 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2013, 1348
 
-Zuletzt geändert durch
-:   Art. 12 G v. 24.2.2021 I 274
-
-[^F780848_01_BJNR134810013]:     Dieses Gesetz dient der Umsetzung der Richtlinie 2005/36/EG des
-    Europäischen Parlaments und des Rates vom 7. September 2005 über die
-    Anerkennung von Berufsqualifikationen (ABl. L 255 vom 30.9.2005, S.
-    22, L 271 vom 16.10.2007, S. 18).
+Stand
+:   Zuletzt geändert Art. 7c G v. 19.7.2023 I Nr. 197
 
 
 ## Abschnitt 1 - Erlaubnis zum Führen der Berufsbezeichnung
@@ -37,11 +32,11 @@ eines Vertragsstaats des Europäischen Wirtschaftsraums sind, führen
 die Berufsbezeichnung nach Absatz 1 im Geltungsbereich dieses Gesetzes
 ohne Erlaubnis, sofern sie ihre Berufstätigkeit als vorübergehende und
 gelegentliche Dienstleistung im Sinne des Artikels 57 des Vertrages
-über die Arbeitsweise der Europäischen Union im Geltungsbereich dieses
-Gesetzes ausüben. Sie unterliegen jedoch der Meldepflicht und
-Nachprüfung nach diesem Gesetz. Gleiches gilt für Drittstaaten und
-Drittstaatsangehörige, soweit sich hinsichtlich der Anerkennung von
-Ausbildungsnachweisen nach dem Recht der Europäischen Union eine
+über die Arbeitsweise der Europäischen Union im Geltungsbereich
+dieses Gesetzes ausüben. Sie unterliegen jedoch der Meldepflicht
+und Nachprüfung nach diesem Gesetz. Gleiches gilt für Drittstaaten
+und Drittstaatsangehörige, soweit sich hinsichtlich der Anerkennung
+von Ausbildungsnachweisen nach dem Recht der Europäischen Union eine
 Gleichstellung ergibt.
 
 
@@ -54,20 +49,14 @@ antragstellende Person
 1.  die durch dieses Gesetz vorgeschriebene Ausbildungszeit abgeleistet
     und die staatliche Prüfung bestanden hat,
 
-
 2.  sich nicht eines Verhaltens schuldig gemacht hat, aus dem sich die
     Unzuverlässigkeit zur Ausübung des Berufs ergibt,
-
 
 3.  nicht in gesundheitlicher Hinsicht zur Ausübung des Berufs ungeeignet
     ist und
 
-
 4.  über die für die Ausübung des Berufs erforderlichen Kenntnisse der
     deutschen Sprache verfügt.
-
-
-
 
 (2) Die Erlaubnis ist zurückzunehmen, wenn bei Erteilung der Erlaubnis
 eine der Voraussetzungen nach Absatz 1 Nummer 1 bis 3 nicht vorgelegen
@@ -77,11 +66,11 @@ Voraussetzung nach Absatz 1 Nummer 2 weggefallen ist. Die Erlaubnis
 kann widerrufen werden, wenn nachträglich die Voraussetzung nach
 Absatz 1 Nummer 3 weggefallen ist.
 
-(3) Vorbehaltlich der Absätze 4 und 5 erfüllt eine außerhalb des
-Geltungsbereichs dieses Gesetzes und außerhalb eines anderen
+(3) Vorbehaltlich der Absätze 4 und 5 erfüllt eine außerhalb
+des Geltungsbereichs dieses Gesetzes und außerhalb eines anderen
 Vertragsstaats des Europäischen Wirtschaftsraums erworbene
-abgeschlossene Ausbildung die Voraussetzungen des Absatzes 1 Nummer 1,
-wenn die Gleichwertigkeit des Ausbildungsstandes gegeben ist. Der
+abgeschlossene Ausbildung die Voraussetzungen des Absatzes 1 Nummer
+1, wenn die Gleichwertigkeit des Ausbildungsstandes gegeben ist. Der
 Ausbildungsstand ist als gleichwertig anzusehen, wenn die Ausbildung
 der antragstellenden Person keine wesentlichen Unterschiede gegenüber
 der in diesem Gesetz und in der Ausbildungs- und Prüfungsverordnung
@@ -96,33 +85,30 @@ wenn
     für Notfallsanitäterinnen und Notfallsanitäter vorgeschrieben sind,
     oder
 
-
 2.  der Beruf des Notfallsanitäters eine oder mehrere reglementierte
     Tätigkeiten umfasst, die im Herkunftsstaat der antragstellenden Person
     nicht Bestandteil des Berufs sind, der dem des Notfallsanitäters
-    entspricht, und wenn sich die Ausbildung für diese Tätigkeiten auf
-    Themenbereiche oder Bereiche der praktischen Ausbildung nach diesem
-    Gesetz und nach der Ausbildungs- und Prüfungsverordnung für
-    Notfallsanitäterinnen und Notfallsanitäter bezieht, die sich
+    entspricht, und wenn sich die Ausbildung für diese Tätigkeiten
+    auf Themenbereiche oder Bereiche der praktischen Ausbildung nach
+    diesem Gesetz und nach der Ausbildungs- und Prüfungsverordnung
+    für Notfallsanitäterinnen und Notfallsanitäter bezieht, die sich
     wesentlich von denen unterscheiden, die von der Ausbildung der
     antragstellenden Person abgedeckt sind.
 
-
-
-Themenbereiche oder Bereiche der praktischen Ausbildung unterscheiden
-sich wesentlich, wenn die nachgewiesene Ausbildung der
-antragstellenden Person wesentliche inhaltliche Abweichungen
+Themenbereiche oder Bereiche der praktischen Ausbildung
+unterscheiden sich wesentlich, wenn die nachgewiesene Ausbildung
+der antragstellenden Person wesentliche inhaltliche Abweichungen
 hinsichtlich der Kenntnisse und Fertigkeiten aufweist, die eine
 wesentliche Voraussetzung für die Ausübung des Notfallsanitäterberufs
 in Deutschland sind. Wesentliche Unterschiede können ganz oder
-teilweise durch Kenntnisse und Fertigkeiten ausgeglichen werden, die
-die antragstellende Person im Rahmen ihrer tatsächlichen und
-rechtmäßigen Ausübung des Notfallsanitäterberufs in Voll- oder
-Teilzeit oder durch lebenslanges Lernen erworben hat, wenn diese
-erworbenen Kenntnisse und Fertigkeiten von einer dafür in dem
-jeweiligen Staat zuständigen Stelle formell als gültig anerkannt
-wurden; dabei ist nicht entscheidend, in welchem Staat diese
-Kenntnisse und Fertigkeiten erworben worden sind. Ist die
+teilweise durch Kenntnisse und Fertigkeiten ausgeglichen werden,
+die die antragstellende Person im Rahmen ihrer tatsächlichen
+und rechtmäßigen Ausübung des Notfallsanitäterberufs in Voll-
+oder Teilzeit oder durch lebenslanges Lernen erworben hat, wenn
+diese erworbenen Kenntnisse und Fertigkeiten von einer dafür
+in dem jeweiligen Staat zuständigen Stelle formell als gültig
+anerkannt wurden; dabei ist nicht entscheidend, in welchem Staat
+diese Kenntnisse und Fertigkeiten erworben worden sind. Ist die
 Gleichwertigkeit des Ausbildungsstandes nicht gegeben oder kann sie
 nur mit unangemessenem zeitlichen oder sachlichen Aufwand festgestellt
 werden, weil die erforderlichen Unterlagen und Nachweise aus Gründen,
@@ -136,29 +122,29 @@ antragstellende Person hat das Recht, zwischen der Kenntnisprüfung und
 dem Anpassungslehrgang zu wählen.
 
 (4) Für eine antragstellende Person, die eine Erlaubnis nach § 1
-Absatz 1 anstrebt, gilt die Voraussetzung des Absatzes 1 Nummer 1 als
-erfüllt, wenn aus einem Europäischen Berufsausweis oder aus einem in
-einem anderen Vertragsstaat des Europäischen Wirtschaftsraums
-erworbenen Diplom hervorgeht, dass sie eine Ausbildung erworben hat,
-die in diesem Staat für den unmittelbaren Zugang zu einem Beruf
+Absatz 1 anstrebt, gilt die Voraussetzung des Absatzes 1 Nummer 1
+als erfüllt, wenn aus einem Europäischen Berufsausweis oder aus einem
+in einem anderen Vertragsstaat des Europäischen Wirtschaftsraums
+erworbenen Diplom hervorgeht, dass sie eine Ausbildung erworben
+hat, die in diesem Staat für den unmittelbaren Zugang zu einem Beruf
 erforderlich ist, der dem Beruf des Notfallsanitäters entspricht.
 Diplome im Sinne dieses Gesetzes sind Ausbildungsnachweise gemäß
 Artikel 3 Absatz 1 Buchstabe c der Richtlinie 2005/36/EG des
 Europäischen Parlaments und des Rates vom 7. September 2005 über die
 Anerkennung von Berufsqualifikationen (ABl. L 255 vom 30.9.2005, S.
-22, L 271 vom 16.10.2007, S. 18) in der jeweils geltenden Fassung, die
-mindestens dem in Artikel 11 Buchstabe b der Richtlinie 2005/36/EG
-genannten Niveau entsprechen und denen eine Bescheinigung des
-Herkunftsmitgliedstaats über das Ausbildungsniveau beigefügt ist. Satz
-2 gilt auch für Ausbildungsnachweise oder eine Gesamtheit von
+22, L 271 vom 16.10.2007, S. 18) in der jeweils geltenden Fassung,
+die mindestens dem in Artikel 11 Buchstabe b der Richtlinie 2005/36/
+EG genannten Niveau entsprechen und denen eine Bescheinigung des
+Herkunftsmitgliedstaats über das Ausbildungsniveau beigefügt ist.
+Satz 2 gilt auch für Ausbildungsnachweise oder eine Gesamtheit von
 Ausbildungsnachweisen, die von einer zuständigen Behörde in einem
 Mitgliedstaat ausgestellt wurden, sofern sie den erfolgreichen
 Abschluss einer in der Europäischen Union auf Voll- oder Teilzeitbasis
 im Rahmen formaler oder nichtformaler Ausbildungsprogramme erworbenen
 Ausbildung bescheinigen, von diesem Mitgliedstaat als gleichwertig
 anerkannt wurden und in Bezug auf die Aufnahme oder Ausübung des
-Berufs des Notfallsanitäters dieselben Rechte verleihen oder auf die
-Ausübung dieses Berufs vorbereiten. Satz 2 gilt ferner für
+Berufs des Notfallsanitäters dieselben Rechte verleihen oder auf
+die Ausübung dieses Berufs vorbereiten. Satz 2 gilt ferner für
 Berufsqualifikationen, die zwar nicht den Erfordernissen der Rechts-
 oder Verwaltungsvorschriften des Herkunftsmitgliedstaats für die
 Aufnahme oder Ausübung des Berufs des Notfallsanitäters entsprechen,
@@ -166,9 +152,9 @@ ihrer Inhaberin oder ihrem Inhaber jedoch nach dem Recht des
 Herkunftsmitgliedstaats erworbene Rechte nach den dort maßgeblichen
 Vorschriften verleihen. Wenn die Ausbildung der antragstellenden
 Person mit einem Ausbildungsnachweis aus einem Vertragsstaat des
-Europäischen Wirtschaftsraums wesentliche Unterschiede gegenüber der
-in diesem Gesetz und in der Ausbildungs- und Prüfungsverordnung für
-Notfallsanitäterinnen und Notfallsanitäter geregelten Ausbildung
+Europäischen Wirtschaftsraums wesentliche Unterschiede gegenüber
+der in diesem Gesetz und in der Ausbildungs- und Prüfungsverordnung
+für Notfallsanitäterinnen und Notfallsanitäter geregelten Ausbildung
 aufweist, hat die antragstellende Person einen höchstens dreijährigen
 Anpassungslehrgang zu absolvieren oder eine Eignungsprüfung abzulegen,
 die sich auf die festgestellten wesentlichen Unterschiede erstrecken.
@@ -178,13 +164,13 @@ zu wählen. Die Sätze 5 bis 7 gelten auch für eine antragstellende
 Person, die über einen Ausbildungsnachweis als Notfallsanitäter
 verfügt, der in einem anderen als den in Satz 1 genannten Staaten
 (Drittstaat) ausgestellt ist und den ein anderer der in Satz 1
-genannten Staaten anerkannt hat. Die Regelungen dieses Absatzes gelten
-entsprechend für den Fall der Einführung eines Europäischen
+genannten Staaten anerkannt hat. Die Regelungen dieses Absatzes
+gelten entsprechend für den Fall der Einführung eines Europäischen
 Berufsausweises für den Beruf des Notfallsanitäters.
 
 (4a) Für antragstellende Personen, die über einen Ausbildungsnachweis
-verfügen, der dem in Artikel 11 Buchstabe a der Richtlinie 2005/36/EG
-genannten Niveau entspricht, gilt Absatz 4 Satz 5 sowie 9 mit der
+verfügen, der dem in Artikel 11 Buchstabe a der Richtlinie 2005/36/
+EG genannten Niveau entspricht, gilt Absatz 4 Satz 5 sowie 9 mit der
 Maßgabe, dass die erforderliche Ausgleichsmaßnahme abweichend von
 Absatz 4 Satz 7 aus einer Eignungsprüfung besteht.
 
@@ -217,78 +203,68 @@ drei Jahren dem Deutschen Bundestag.
 Bis zum Eintreffen der Notärztin oder des Notarztes oder bis zum
 Beginn einer weiteren ärztlichen, auch teleärztlichen, Versorgung
 dürfen Notfallsanitäterinnen und Notfallsanitäter heilkundliche
-Maßnahmen, einschließlich heilkundlicher Maßnahmen invasiver Art, dann
-eigenverantwortlich durchführen, wenn
+Maßnahmen, einschließlich heilkundlicher Maßnahmen invasiver oder
+medikamentöser Art, dann eigenverantwortlich durchführen, wenn
 
 1.  sie diese Maßnahmen in ihrer Ausbildung erlernt haben und beherrschen
     und
-
 
 2.  die Maßnahmen jeweils erforderlich sind, um Lebensgefahr oder
     wesentliche Folgeschäden von der Patientin oder dem Patienten
     abzuwenden.
 
 
-
-
-
 ### § 3 Unterrichtungspflichten
 
 (1) Die zuständigen Behörden des Landes, in dem der Beruf des
 Notfallsanitäters ausgeübt wird oder zuletzt ausgeübt worden ist,
-unterrichten die zuständigen Behörden des Herkunftsmitgliedstaats über
-das Vorliegen strafrechtlicher Sanktionen, über die Rücknahme, den
-Widerruf und die Anordnung des Ruhens der Erlaubnis, über die
+unterrichten die zuständigen Behörden des Herkunftsmitgliedstaats
+über das Vorliegen strafrechtlicher Sanktionen, über die Rücknahme,
+den Widerruf und die Anordnung des Ruhens der Erlaubnis, über die
 Untersagung der Ausübung der Tätigkeit und über Tatsachen, die eine
 dieser Sanktionen oder Maßnahmen rechtfertigen würden; dabei sind die
 Vorschriften zum Schutz personenbezogener Daten einzuhalten. Erhalten
 die zuständigen Behörden der Länder Auskünfte von den zuständigen
-Behörden der Aufnahmemitgliedstaaten, die sich auf die Ausübung des
-Berufs des Notfallsanitäters auswirken könnten, so prüfen sie die
-Richtigkeit der Sachverhalte, befinden über Art und Umfang der
+Behörden der Aufnahmemitgliedstaaten, die sich auf die Ausübung
+des Berufs des Notfallsanitäters auswirken könnten, so prüfen sie
+die Richtigkeit der Sachverhalte, befinden über Art und Umfang der
 durchzuführenden Prüfungen und unterrichten den Aufnahmemitgliedstaat
 über die Konsequenzen, die aus den übermittelten Auskünften zu ziehen
 sind.
 
-(2) Das Bundesministerium für Gesundheit benennt nach Mitteilung der
-Länder die Behörden und Stellen, die für die Ausstellung oder
-Entgegennahme der in der Richtlinie 2005/36/EG genannten
+(2) Das Bundesministerium für Gesundheit benennt nach Mitteilung
+der Länder die Behörden und Stellen, die für die Ausstellung
+oder Entgegennahme der in der Richtlinie 2005/36/EG genannten
 Ausbildungsnachweise und sonstigen Unterlagen oder Informationen
 zuständig sind, sowie die Behörden und Stellen, die die Anträge
 annehmen und Entscheidungen treffen können, die im Zusammenhang mit
 dieser Richtlinie stehen. Es unterrichtet die anderen Mitgliedstaaten
 und die Europäische Kommission unverzüglich über die Benennung.
 
-(3) Die für die Entscheidungen nach diesem Gesetz zuständigen Behörden
-und Stellen übermitteln dem Bundesministerium für Gesundheit
-statistische Aufstellungen über die getroffenen Entscheidungen, die
-die Europäische Kommission für den nach Artikel 60 Absatz 1 der
-Richtlinie 2005/36/EG erforderlichen Bericht benötigt, zur
+(3) Die für die Entscheidungen nach diesem Gesetz zuständigen
+Behörden und Stellen übermitteln dem Bundesministerium für Gesundheit
+statistische Aufstellungen über die getroffenen Entscheidungen,
+die die Europäische Kommission für den nach Artikel 60 Absatz 1
+der Richtlinie 2005/36/EG erforderlichen Bericht benötigt, zur
 Weiterleitung an die Kommission.
 
 
 ### § 3a Vorwarnmechanismus
 
 (1) Die jeweils zuständige Stelle unterrichtet die zuständigen
-Behörden der anderen Mitgliedstaaten der Europäischen Union, der
-anderen Vertragsstaaten des Abkommens über den Europäischen
+Behörden der anderen Mitgliedstaaten der Europäischen Union,
+der anderen Vertragsstaaten des Abkommens über den Europäischen
 Wirtschaftsraum und der Schweiz über
 
 1.  den Widerruf oder die Rücknahme der Erlaubnis nach § 1 Absatz 1, die
     sofort vollziehbar oder unanfechtbar sind,
 
-
 2.  den Verzicht auf die Erlaubnis,
-
 
 3.  das Verbot der Ausübung des Berufs des Notfallsanitäters durch
     unanfechtbare gerichtliche Entscheidung oder
 
-
 4.  das vorläufige Berufsverbot durch gerichtliche Entscheidung.
-
-
-
 
 (2) Die Mitteilung nach Absatz 1 (Warnmitteilung) enthält folgende
 Angaben:
@@ -296,35 +272,29 @@ Angaben:
 1.  die zur Identifizierung der betroffenen Person erforderlichen Angaben,
     insbesondere Name, Vorname, Geburtsdatum und Geburtsort,
 
-
 2.  Beruf der betroffenen Person,
-
 
 3.  Angaben über die Behörde oder das Gericht, die oder das die
     Entscheidung getroffen hat,
 
-
 4.  Umfang der Entscheidung oder des Verzichts und
-
 
 5.  Zeitraum, in dem die Entscheidung oder der Verzicht gilt.
 
-
-
-Die Warnmitteilung erfolgt unverzüglich, spätestens jedoch drei Tage
-nach Eintritt der Unanfechtbarkeit einer Entscheidung nach Absatz 1
-Nummer 1 oder Nummer 3, nach Bekanntgabe einer Entscheidung nach
-Absatz 1 Nummer 4 oder nach einem Verzicht nach Absatz 1 Nummer 2. Sie
-ist über das durch die Verordnung (EU) Nr. 1024/2012 des Europäischen
-Parlaments und des Rates vom 25. Oktober 2012 über die
-Verwaltungszusammenarbeit mit Hilfe des Binnenmarkt-
-Informationssystems und zur Aufhebung der Entscheidung 2008/49/EG der
-Kommission (ABl. L 316 vom 14.11.2012, S. 1) eingerichtete
+Die Warnmitteilung erfolgt unverzüglich, spätestens jedoch drei
+Tage nach Eintritt der Unanfechtbarkeit einer Entscheidung nach
+Absatz 1 Nummer 1 oder Nummer 3, nach Bekanntgabe einer Entscheidung
+nach Absatz 1 Nummer 4 oder nach einem Verzicht nach Absatz 1
+Nummer 2. Sie ist über das durch die Verordnung (EU) Nr. 1024/2012
+des Europäischen Parlaments und des Rates vom 25. Oktober 2012
+über die Verwaltungszusammenarbeit mit Hilfe des Binnenmarkt-
+Informationssystems und zur Aufhebung der Entscheidung 2008/49/
+EG der Kommission (ABl. L 316 vom 14.11.2012, S. 1) eingerichtete
 Binnenmarkt-Informationssystem (IMI) zu übermitteln. Zeitgleich mit
 der Warnmitteilung unterrichtet die Stelle, die die Warnmitteilung
 getätigt hat, die betroffene Person über die Warnmitteilung und deren
-Inhalt schriftlich unter Beifügung einer Rechtsbehelfsbelehrung. Wird
-ein Rechtsbehelf gegen die Warnmitteilung eingelegt, ergänzt die
+Inhalt schriftlich unter Beifügung einer Rechtsbehelfsbelehrung.
+Wird ein Rechtsbehelf gegen die Warnmitteilung eingelegt, ergänzt die
 Stelle, die die Warnmitteilung getätigt hat, die Warnmitteilung um
 einen entsprechenden Hinweis.
 
@@ -348,13 +318,13 @@ der Erlaubnis oder die Feststellung der Gleichwertigkeit ihrer
 Berufsqualifikation nach diesem Gesetz beantragt hat, dabei gefälschte
 Berufsqualifikationsnachweise verwendet hat, unterrichtet die
 zuständige Stelle die zuständigen Behörden der anderen Mitgliedstaaten
-der Europäischen Union, der anderen Vertragsstaaten des Abkommens über
-den Europäischen Wirtschaftsraum und der Schweiz über die Identität
-dieser Person, insbesondere über Name, Vorname, Geburtsdatum und
-Geburtsort, und den Umstand, dass diese Person gefälschte
+der Europäischen Union, der anderen Vertragsstaaten des Abkommens
+über den Europäischen Wirtschaftsraum und der Schweiz über die
+Identität dieser Person, insbesondere über Name, Vorname, Geburtsdatum
+und Geburtsort, und den Umstand, dass diese Person gefälschte
 Berufsqualifikationsnachweise verwendet hat. Die Unterrichtung erfolgt
-unverzüglich, spätestens jedoch drei Tage nach Unanfechtbarkeit der
-Feststellung über das IMI. Absatz 2 Satz 4 und 5 gilt für die
+unverzüglich, spätestens jedoch drei Tage nach Unanfechtbarkeit
+der Feststellung über das IMI. Absatz 2 Satz 4 und 5 gilt für die
 Unterrichtung nach Satz 1 entsprechend.
 
 (5) Ergänzend zu den Absätzen 1 bis 4 ist die Durchführungsverordnung
@@ -370,14 +340,14 @@ Europäischen Parlaments und des Rates (ABl. L 159 vom 25.6.2015, S.
 
 ### § 4 Ausbildungsziel
 
-(1) Die Ausbildung zur Notfallsanitäterin oder zum Notfallsanitäter
-soll entsprechend dem allgemein anerkannten Stand
-rettungsdienstlicher, medizinischer und weiterer
-bezugswissenschaftlicher Erkenntnisse fachliche, personale, soziale
-und methodische Kompetenzen zur eigenverantwortlichen Durchführung und
-teamorientierten Mitwirkung insbesondere bei der notfallmedizinischen
-Versorgung und dem Transport von Patientinnen und Patienten
-vermitteln. Dabei sind die unterschiedlichen situativen
+(1) Die Ausbildung zur Notfallsanitäterin oder zum
+Notfallsanitäter soll entsprechend dem allgemein anerkannten
+Stand rettungsdienstlicher, medizinischer und weiterer
+bezugswissenschaftlicher Erkenntnisse fachliche, personale,
+soziale und methodische Kompetenzen zur eigenverantwortlichen
+Durchführung und teamorientierten Mitwirkung insbesondere bei der
+notfallmedizinischen Versorgung und dem Transport von Patientinnen
+und Patienten vermitteln. Dabei sind die unterschiedlichen situativen
 Einsatzbedingungen zu berücksichtigen. Die Ausbildung soll die
 Notfallsanitäterinnen und Notfallsanitäter außerdem in die Lage
 versetzen, die Lebenssituation und die jeweilige Lebensphase der
@@ -391,67 +361,52 @@ Selbständigkeit und Selbstbestimmung in ihr Handeln mit einzubeziehen.
     a)  Feststellen und Erfassen der Lage am Einsatzort und unverzügliche
         Einleitung notwendiger allgemeiner Maßnahmen zur Gefahrenabwehr,
 
-
     b)  Beurteilen des Gesundheitszustandes von erkrankten und verletzten
         Personen, insbesondere Erkennen einer vitalen Bedrohung, Entscheiden
         über die Notwendigkeit, eine Notärztin oder einen Notarzt, weiteres
         Personal, weitere Rettungsmittel oder sonstige ärztliche Hilfe
         nachzufordern, sowie Umsetzen der erforderlichen Maßnahmen,
 
-
     c)  Durchführen medizinischer Maßnahmen der Erstversorgung bei
-        Patientinnen und Patienten im Notfalleinsatz und dabei Anwenden von in
-        der Ausbildung erlernten und beherrschten, auch invasiven Maßnahmen,
-        um einer Verschlechterung der Situation der Patientinnen und Patienten
-        bis zum Eintreffen der Notärztin oder des Notarztes oder dem Beginn
-        einer weiteren ärztlichen Versorgung vorzubeugen, wenn ein
-        lebensgefährlicher Zustand vorliegt oder wesentliche Folgeschäden zu
-        erwarten sind,
-
+        Patientinnen und Patienten im Notfalleinsatz und dabei Anwenden von
+        in der Ausbildung erlernten und beherrschten, auch invasiven oder
+        medikamentösen Maßnahmen, um einer Verschlechterung der Situation
+        der Patientinnen und Patienten bis zum Eintreffen der Notärztin oder
+        des Notarztes oder dem Beginn einer weiteren ärztlichen Versorgung
+        vorzubeugen, wenn ein lebensgefährlicher Zustand vorliegt oder
+        wesentliche Folgeschäden zu erwarten sind,
 
     d)  angemessenes Umgehen mit Menschen in Notfall- und Krisensituationen,
 
-
     e)  Herstellen und Sichern der Transportfähigkeit der Patientinnen und
         Patienten im Notfalleinsatz,
-
 
     f)  Auswählen des geeigneten Transportzielortes sowie Überwachen des
         medizinischen Zustandes der Patientinnen und Patienten und seiner
         Entwicklung während des Transports,
 
-
-    g)  sachgerechtes Übergeben der Patientinnen und Patienten in die
-        ärztliche Weiterbehandlung einschließlich Beschreiben und
+    g)  sachgerechtes Übergeben der Patientinnen und Patienten in
+        die ärztliche Weiterbehandlung einschließlich Beschreiben und
         Dokumentieren ihres medizinischen Zustandes und seiner Entwicklung,
-
 
     h)  Kommunizieren mit am Einsatz beteiligten oder zu beteiligenden
         Personen, Institutionen oder Behörden,
 
-
-    i)  Durchführen von qualitätssichernden und organisatorischen Maßnahmen im
-        Rettungsdienst sowie Dokumentieren der angewendeten
+    i)  Durchführen von qualitätssichernden und organisatorischen
+        Maßnahmen im Rettungsdienst sowie Dokumentieren der angewendeten
         notfallmedizinischen und einsatztaktischen Maßnahmen und
-
 
     j)  Sicherstellen der Einsatz- und Betriebsfähigkeit der Rettungsmittel
         einschließlich Beachten sowie Einhalten der Hygienevorschriften und
         rechtlichen Arbeits- und Unfallschutzvorschriften,
-
-
-
-
 
 2.  die folgenden Aufgaben im Rahmen der Mitwirkung auszuführen:
 
     a)  Assistieren bei der ärztlichen Notfall- und Akutversorgung von
         Patientinnen und Patienten im Notfalleinsatz,
 
-
     b)  eigenständiges Durchführen ärztlich veranlasster Maßnahmen bei
         Patientinnen und Patienten im Notfalleinsatz und
-
 
     c)  eigenständiges Durchführen von heilkundlichen Maßnahmen, die vom
         Ärztlichen Leiter Rettungsdienst oder entsprechend verantwortlichen
@@ -459,26 +414,19 @@ Selbständigkeit und Selbstbestimmung in ihr Handeln mit einzubeziehen.
         Zustandsbildern und -situationen standardmäßig vorgegeben, überprüft
         und verantwortet werden,
 
-
-
-
-
-3.  mit anderen Berufsgruppen und Menschen am Einsatzort, beim Transport
-    und bei der Übergabe unter angemessener Berücksichtigung der
-    Gesamtlage vom individual-medizinischen Einzelfall bis zum
-    Großschadens- und Katastrophenfall patientenorientiert
+3.  mit anderen Berufsgruppen und Menschen am Einsatzort, beim
+    Transport und bei der Übergabe unter angemessener Berücksichtigung
+    der Gesamtlage vom individual-medizinischen Einzelfall bis
+    zum Großschadens- und Katastrophenfall patientenorientiert
     zusammenzuarbeiten.
-
-
-
 
 
 ### § 5 Dauer und Struktur der Ausbildung
 
 (1) Die Ausbildung für Notfallsanitäterinnen und Notfallsanitäter
 dauert unabhängig vom Zeitpunkt der staatlichen Prüfung in
-Vollzeitform drei Jahre, in Teilzeitform höchstens fünf Jahre. Sie
-besteht aus theoretischem und praktischem Unterricht und einer
+Vollzeitform drei Jahre, in Teilzeitform höchstens fünf Jahre.
+Sie besteht aus theoretischem und praktischem Unterricht und einer
 praktischen Ausbildung. Die Ausbildung schließt mit einer staatlichen
 Prüfung ab.
 
@@ -490,12 +438,12 @@ Schulrecht der Länder und nach Maßgabe von § 6 erteilt. Die praktische
 Ausbildung wird an einer genehmigten Lehrrettungswache und an
 geeigneten Krankenhäusern durchgeführt.
 
-(3) Die Gesamtverantwortung für die Organisation und Koordination des
-theoretischen und praktischen Unterrichts und der praktischen
+(3) Die Gesamtverantwortung für die Organisation und Koordination
+des theoretischen und praktischen Unterrichts und der praktischen
 Ausbildung entsprechend dem Ausbildungsziel trägt die Schule. Die
 Schule unterstützt die praktische Ausbildung durch Praxisbegleitung.
-Die Praxisanleitung ist durch die Einrichtungen nach Absatz 2 Satz 3
-sicherzustellen.
+Die Praxisanleitung ist durch die Einrichtungen nach Absatz 2 Satz
+3 sicherzustellen.
 
 
 ### § 6 Staatliche Anerkennung von Schulen; Genehmigung von Lehrrettungswachen
@@ -510,25 +458,20 @@ erfüllen:
 1.  hauptberufliche Leitung der Schule durch eine entsprechend
     qualifizierte Fachkraft mit einer abgeschlossenen Hochschulausbildung,
 
-
 2.  Nachweis einer im Verhältnis zur Zahl der Ausbildungsplätze
     ausreichenden Zahl fachlich und pädagogisch qualifizierter Lehrkräfte
     mit entsprechender, abgeschlossener Hochschulausbildung für die
     Durchführung des theoretischen und praktischen Unterrichts,
 
-
 3.  Vorhandensein der für die Ausbildung erforderlichen Räume und
     Einrichtungen sowie ausreichender Lehr- und Lernmittel,
 
-
-4.  Sicherstellung der Durchführung der praktischen Ausbildung nach der
-    Ausbildungs- und Prüfungsverordnung für Notfallsanitäterinnen und
-    Notfallsanitäter durch Vereinbarungen mit Lehrrettungswachen, die von
-    der zuständigen Behörde für die Durchführung von Teilen der
+4.  Sicherstellung der Durchführung der praktischen Ausbildung nach
+    der Ausbildungs- und Prüfungsverordnung für Notfallsanitäterinnen
+    und Notfallsanitäter durch Vereinbarungen mit Lehrrettungswachen,
+    die von der zuständigen Behörde für die Durchführung von Teilen der
     praktischen Ausbildung genehmigt worden sind, und mit Krankenhäusern,
     die von der zuständigen Behörde als geeignet beurteilt werden.
-
-
 
 Über Satz 1 hinausgehende landesrechtliche Regelungen bleiben
 unberührt. Die Länder können durch Landesrecht das Nähere zu den
@@ -544,17 +487,17 @@ Beschränkung der Hochschulausbildung nach Absatz 2 Satz 1 Nummer 1 und
 (1) Zur Erprobung von Ausbildungsangeboten, die der Weiterentwicklung
 des Berufs des Notfallsanitäters im akademischen Bereich unter
 Berücksichtigung der berufsfeldspezifischen Anforderungen sowie
-moderner berufspädagogischer Erkenntnisse dienen sollen, können die
-Länder den Unterricht abweichend von § 5 Absatz 2 Satz 1 an
-Hochschulen stattfinden lassen. Abweichungen von der Ausbildungs- und
-Prüfungsverordnung für Notfallsanitäterinnen und Notfallsanitäter sind
-jedoch nur zulässig, soweit sie den theoretischen und praktischen
+moderner berufspädagogischer Erkenntnisse dienen sollen, können
+die Länder den Unterricht abweichend von § 5 Absatz 2 Satz 1 an
+Hochschulen stattfinden lassen. Abweichungen von der Ausbildungs-
+und Prüfungsverordnung für Notfallsanitäterinnen und Notfallsanitäter
+sind jedoch nur zulässig, soweit sie den theoretischen und praktischen
 Unterricht in § 1 Absatz 1 Satz 1 sowie die Anlage 1 der Verordnung
 betreffen. Im Übrigen gilt die Verordnung unverändert mit der Maßgabe,
 dass an die Stelle der Schule die Hochschule tritt.
 
-(2) Durch die Erprobung von Ausbildungsangeboten nach Absatz 1 darf
-das Erreichen des Ausbildungsziels nicht gefährdet werden. Die
+(2) Durch die Erprobung von Ausbildungsangeboten nach Absatz 1
+darf das Erreichen des Ausbildungsziels nicht gefährdet werden. Die
 Vereinbarkeit der Ausbildung mit der Richtlinie 2005/36/EG ist zu
 gewährleisten.
 
@@ -562,14 +505,14 @@ gewährleisten.
 Modellvorhaben sowie die Bedingungen für die Teilnahme sind jeweils
 von den Ländern festzulegen.
 
-(4) Die Länder stellen jeweils eine wissenschaftliche Begleitung und
-Auswertung der Modellvorhaben im Hinblick auf die Erreichung der Ziele
-sicher. Diese erfolgt auf der Grundlage von Richtlinien über die
-wissenschaftliche Begleitung und Auswertung von Modellvorhaben nach §
-4 Absatz 6 Satz 3 des Ergotherapeutengesetzes, § 6 Absatz 4 Satz 3 des
-Hebammengesetzes, § 4 Absatz 6 Satz 3 des Logopädengesetzes und § 9
-Absatz 3 Satz 3 des Masseur- und Physiotherapeutengesetzes vom 16.
-November 2009, die das Bundesministerium für Gesundheit im
+(4) Die Länder stellen jeweils eine wissenschaftliche Begleitung
+und Auswertung der Modellvorhaben im Hinblick auf die Erreichung der
+Ziele sicher. Diese erfolgt auf der Grundlage von Richtlinien über
+die wissenschaftliche Begleitung und Auswertung von Modellvorhaben
+nach § 4 Absatz 6 Satz 3 des Ergotherapeutengesetzes, § 6 Absatz 4
+Satz 3 des Hebammengesetzes, § 4 Absatz 6 Satz 3 des Logopädengesetzes
+und § 9 Absatz 3 Satz 3 des Masseur- und Physiotherapeutengesetzes
+vom 16. November 2009, die das Bundesministerium für Gesundheit im
 Bundesanzeiger vom 27. November 2009 (BAnz. S. 4052) bekannt gemacht
 hat.
 
@@ -584,7 +527,6 @@ ist,
 
 1.  die gesundheitliche Eignung zur Ausübung des Berufs und
 
-
 2.  im Fall einer Ausbildung
 
     a)  an einer staatlichen Schule (§ 5 Absatz 2 Satz 1)
@@ -592,30 +534,19 @@ ist,
         aa) der mittlere Schulabschluss oder eine andere gleichwertige,
             abgeschlossene Schulbildung oder
 
-
         bb) eine nach einem Hauptschulabschluss oder einer gleichwertigen
             Schulbildung erfolgreich abgeschlossene Berufsausbildung von
             mindestens zweijähriger Dauer,
-
-
-
-
 
     b)  im Rahmen eines Modellvorhabens an einer Hochschule (§ 7) der Nachweis
         der Hochschulzugangsberechtigung.
 
 
-
-
-
-
-
-
 ### § 9 Anrechnung gleichwertiger Ausbildungen
 
 Die zuständige Behörde kann auf Antrag eine andere erfolgreich
-abgeschlossene Ausbildung oder erfolgreich abgeschlossene Teile einer
-Ausbildung im Umfang ihrer Gleichwertigkeit auf die Dauer einer
+abgeschlossene Ausbildung oder erfolgreich abgeschlossene Teile
+einer Ausbildung im Umfang ihrer Gleichwertigkeit auf die Dauer einer
 Ausbildung nach § 5 Absatz 1 Satz 1 oder § 7 anrechnen. Das Erreichen
 des Ausbildungsziels darf durch die Anrechnung nicht gefährdet werden.
 
@@ -627,35 +558,27 @@ angerechnet:
 
 1.  Urlaub, einschließlich Bildungsurlaub, oder Ferien,
 
-
 2.  Unterbrechungen wegen Krankheit oder aus anderen, von der Schülerin
     oder dem Schüler nicht zu vertretenden Gründen
 
     a)  bis zu 10 Prozent des theoretischen und praktischen Unterrichts sowie
 
-
     b)  bis zu 10 Prozent der Stunden der praktischen Ausbildung
-
-
 
     nach Maßgabe der nach § 11 erlassenen Ausbildungs- und
     Prüfungsverordnung für Notfallsanitäterinnen und Notfallsanitäter und
 
-
 3.  Unterbrechungen wegen Schwangerschaft bei Schülerinnen; die
     Unterbrechung der Ausbildung darf einschließlich der Fehlzeiten nach
     Nummer 2 eine Gesamtdauer von 14 Wochen nicht überschreiten.
-
-
-
 
 (2) Die zuständige Behörde kann auf Antrag auch über Absatz 1
 hinausgehende Fehlzeiten berücksichtigen, wenn eine besondere Härte
 vorliegt und das Erreichen des Ausbildungsziels durch die Anrechnung
 nicht gefährdet wird.
 
-(3) Freistellungsansprüche nach dem Betriebsverfassungsgesetz, dem
-Bundespersonalvertretungsgesetz oder den
+(3) Freistellungsansprüche nach dem Betriebsverfassungsgesetz,
+dem Bundespersonalvertretungsgesetz oder den
 Landespersonalvertretungsgesetzen bleiben unberührt.
 
 (4) Die Absätze 1 und 2 gelten entsprechend für Ausbildungen nach § 7.
@@ -663,13 +586,13 @@ Landespersonalvertretungsgesetzen bleiben unberührt.
 
 ### § 11 Verordnungsermächtigung
 
-(1) Das Bundesministerium für Gesundheit wird ermächtigt, im Benehmen
-mit dem Bundesministerium für Bildung und Forschung durch
+(1) Das Bundesministerium für Gesundheit wird ermächtigt, im
+Benehmen mit dem Bundesministerium für Bildung und Forschung durch
 Rechtsverordnung mit Zustimmung des Bundesrates in einer Ausbildungs-
 und Prüfungsverordnung nach Maßgabe des § 4 die Mindestanforderungen
 an die Ausbildung für Notfallsanitäterinnen und Notfallsanitäter nach
-§ 5 und die weitere Ausbildung nach § 32 Absatz 2, das Nähere über die
-staatliche Prüfung und Ergänzungsprüfung sowie das Nähere über die
+§ 5 und die weitere Ausbildung nach § 32 Absatz 2, das Nähere über
+die staatliche Prüfung und Ergänzungsprüfung sowie das Nähere über die
 Urkunden für die Erlaubnis nach § 1 Absatz 1 zu regeln.
 
 (2) In der Rechtsverordnung nach Absatz 1 ist für Inhaberinnen und
@@ -683,34 +606,26 @@ Folgendes zu regeln:
     Behörde entsprechend Artikel 50 Absatz 1 bis 3a in Verbindung mit
     Anhang VII der Richtlinie 2005/36/EG,
 
-
 2.  die Pflicht von Inhaberinnen und Inhabern von Ausbildungsnachweisen,
     nach Maßgabe des Artikels 52 Absatz 1 der Richtlinie 2005/36/EG die
     Berufsbezeichnung des Aufnahmemitgliedstaats zu führen und deren
     etwaige Abkürzung zu verwenden,
 
-
 3.  die Fristen für die Erteilung der Erlaubnis,
-
 
 4.  das Verfahren über die Voraussetzungen zur Dienstleistungserbringung
     gemäß § 1 Absatz 2 in Verbindung mit den §§ 22 bis 24,
 
-
 5.  die Regelungen zur Durchführung und zum Inhalt der Anpassungsmaßnahmen
     nach § 2 Absatz 3 Satz 7 und Absatz 4 Satz 5,
 
-
 6.  das Verfahren bei der Ausstellung eines Europäischen Berufsausweises.
-
-
-
 
 (3) Abweichungen durch Landesrecht von den Regelungen des
 Verwaltungsverfahrens in der auf der Grundlage der Absätze 1 und 2
-erlassenen Rechtsverordnung sind ausgeschlossen. Abweichend von Satz 1
-können die Länder Abweichungen von den durch Rechtsverordnung im Fall
-des § 81a des Aufenthaltsgesetzes erlassenen Fristenregelungen
+erlassenen Rechtsverordnung sind ausgeschlossen. Abweichend von Satz
+1 können die Länder Abweichungen von den durch Rechtsverordnung im
+Fall des § 81a des Aufenthaltsgesetzes erlassenen Fristenregelungen
 vorsehen.
 
 
@@ -728,45 +643,39 @@ dieses Abschnitts zu schließen.
 1.  die Bezeichnung des Berufs, zu dem nach den Vorschriften dieses
     Gesetzes ausgebildet wird,
 
-
 2.  den Beginn und die Dauer der Ausbildung,
-
 
 3.  Angaben über die der Ausbildung zugrunde liegende Ausbildungs- und
     Prüfungsverordnung sowie über die inhaltliche und zeitliche Gliederung
     der praktischen Ausbildung,
 
-
 4.  die Dauer der regelmäßigen täglichen oder wöchentlichen Arbeitszeit,
-
 
 5.  die Dauer der Probezeit,
 
-
 6.  Angaben über Zahlung und Höhe der Ausbildungsvergütung,
 
-
 7.  die Dauer des Urlaubs,
-
 
 8.  die Voraussetzungen, unter denen der Ausbildungsvertrag gekündigt
     werden kann, und
 
-
 9.  die dem Ausbildungsvertrag zugrunde liegenden tariflichen Bestimmungen
     und Dienstvereinbarungen.
 
-
-
-
 (3) Der Ausbildungsvertrag ist von einer Person, die zur Vertretung
-des Ausbildungsträgers berechtigt ist, und der Schülerin oder dem
-Schüler, bei Minderjährigen auch von deren gesetzlichen Vertretern, zu
-unterzeichnen. Eine Ausfertigung des unterzeichneten
+des Ausbildungsträgers berechtigt ist, und der Schülerin oder
+dem Schüler, bei Minderjährigen auch von deren gesetzlichen
+Vertretern, zu unterzeichnen. Eine Ausfertigung des unterzeichneten
 Ausbildungsvertrages ist der Schülerin oder dem Schüler und deren
 gesetzlichen Vertretern auszuhändigen.
 
 (4) Änderungen des Ausbildungsvertrages bedürfen der Schriftform.
+
+(5) Auf den Ausbildungsvertrag sind, soweit sich aus seinem Wesen
+und Zweck sowie aus diesem Gesetz nichts anderes ergibt, die für
+den Arbeitsvertrag geltenden Rechtsvorschriften und Rechtsgrundsätze
+anzuwenden.
 
 
 ### § 13 Pflichten des Ausbildungsträgers
@@ -778,14 +687,10 @@ gesetzlichen Vertretern auszuhändigen.
     Ausbildungsziel (§ 4) in der vorgesehenen Zeit erreicht werden kann,
     und
 
-
 2.  der Schülerin oder dem Schüler kostenlos die Ausbildungsmittel
     einschließlich der Fachbücher, Instrumente und Apparate zur Verfügung
     zu stellen, die zur Ausbildung und zum Ablegen der staatlichen Prüfung
     erforderlich sind.
-
-
-
 
 (2) Den Schülerinnen und Schülern dürfen nur Aufgaben übertragen
 werden, die dem Ausbildungszweck und dem Ausbildungsstand entsprechen;
@@ -801,24 +706,19 @@ hat, dass die Schülerin oder der Schüler dazu in der Lage ist.
 
 ### § 14 Pflichten der Schülerin oder des Schülers
 
-Die Schülerin oder der Schüler hat sich zu bemühen, die in § 4
-genannten Kompetenzen zu erwerben, die erforderlich sind, um das
-Ausbildungsziel zu erreichen. Sie oder er ist insbesondere
+Die Schülerin oder der Schüler hat sich zu bemühen, die in §
+4 genannten Kompetenzen zu erwerben, die erforderlich sind, um
+das Ausbildungsziel zu erreichen. Sie oder er ist insbesondere
 verpflichtet,
 
 1.  an den vorgeschriebenen Ausbildungsveranstaltungen teilzunehmen,
 
-
 2.  die ihr oder ihm im Rahmen der Ausbildung übertragenen Aufgaben
     sorgfältig auszuführen und
-
 
 3.  die für Beschäftigte in Einrichtungen nach § 5 Absatz 2 Satz 3
     geltenden Bestimmungen über die Schweigepflicht einzuhalten und über
     Betriebsgeheimnisse Stillschweigen zu wahren.
-
-
-
 
 
 ### § 15 Ausbildungsvergütung
@@ -870,18 +770,10 @@ werden
     a)  wenn die Voraussetzungen des § 2 Absatz 1 Nummer 2 und 3 nicht oder
         nicht mehr vorliegen oder
 
-
     b)  wenn ein sonstiger wichtiger Grund vorliegt, sowie
-
-
-
-
 
 2.  von der Schülerin oder dem Schüler mit einer Kündigungsfrist von vier
     Wochen.
-
-
-
 
 (3) Die Kündigung muss schriftlich erfolgen. In den Fällen des
 Absatzes 2 Nummer 1 sind die Kündigungsgründe anzugeben.
@@ -904,14 +796,14 @@ unbestimmte Zeit als begründet.
 ### § 20 Nichtigkeit von Vereinbarungen
 
 (1) Eine Vereinbarung, die zu Ungunsten der Schülerin oder des
-Schülers von den übrigen Vorschriften dieses Abschnitts abweicht, ist
-nichtig.
+Schülers von den übrigen Vorschriften dieses Abschnitts abweicht,
+ist nichtig.
 
-(2) Eine Vereinbarung, die die Schülerin oder den Schüler für die Zeit
-nach Beendigung des Ausbildungsverhältnisses in der Ausübung ihrer
-oder seiner beruflichen Tätigkeit beschränkt, ist nichtig. Dies gilt
-nicht, wenn die Schülerin oder der Schüler innerhalb der letzten sechs
-Monate des Ausbildungsverhältnisses für die Zeit nach dessen
+(2) Eine Vereinbarung, die die Schülerin oder den Schüler für die
+Zeit nach Beendigung des Ausbildungsverhältnisses in der Ausübung
+ihrer oder seiner beruflichen Tätigkeit beschränkt, ist nichtig. Dies
+gilt nicht, wenn die Schülerin oder der Schüler innerhalb der letzten
+sechs Monate des Ausbildungsverhältnisses für die Zeit nach dessen
 Beendigung ein Arbeitsverhältnis eingeht.
 
 (3) Nichtig ist auch eine Vereinbarung über
@@ -919,17 +811,11 @@ Beendigung ein Arbeitsverhältnis eingeht.
 1.  die Verpflichtung der Schülerin oder des Schülers, für die Ausbildung
     eine Entschädigung oder Schulgeld zu zahlen,
 
-
 2.  Vertragsstrafen,
-
 
 3.  den Ausschluss oder die Beschränkung von Schadensersatzansprüchen und
 
-
 4.  die Festsetzung der Höhe eines Schadensersatzes in Pauschalbeträgen.
-
-
-
 
 
 ### § 21 Ausschluss der Geltung von Vorschriften dieses Abschnitts
@@ -939,12 +825,8 @@ Ausbildungsteilnehmerinnen und Ausbildungsteilnehmer, die
 
 1.  die Ausbildung nach § 7 an einer Hochschule absolvieren oder
 
-
 2.  in einem öffentlich-rechtlichen Dienst- und Treueverhältnis als Beamte
     auf Widerruf stehen.
-
-
-
 
 
 ## Abschnitt 4 - Erbringen von Dienstleistungen
@@ -953,28 +835,25 @@ Ausbildungsteilnehmerinnen und Ausbildungsteilnehmer, die
 ### § 22 Dienstleistungserbringende Personen
 
 (1) Staatsangehörige eines Vertragsstaats des Europäischen
-Wirtschaftsraums, die zur Ausübung des Berufs des Notfallsanitäters in
-einem anderen Vertragsstaat des Europäischen Wirtschaftsraums auf
-Grund einer nach deutschen Rechtsvorschriften abgeschlossenen
+Wirtschaftsraums, die zur Ausübung des Berufs des Notfallsanitäters
+in einem anderen Vertragsstaat des Europäischen Wirtschaftsraums
+auf Grund einer nach deutschen Rechtsvorschriften abgeschlossenen
 Ausbildung oder auf Grund eines den Anforderungen des § 2 Absatz 4
 entsprechenden Ausbildungsnachweises berechtigt sind und
 
 1.  die in einem Mitgliedstaat rechtmäßig niedergelassen sind oder,
-
 
 2.  wenn der Beruf des Notfallsanitäters oder die Ausbildung zu diesem
     Beruf im Niederlassungsmitgliedstaat nicht reglementiert ist, diesen
     Beruf während der vorhergehenden zehn Jahre mindestens ein Jahr in
     einem oder in mehreren Mitgliedstaaten rechtmäßig ausgeübt haben,
 
-
-
 dürfen als dienstleistungserbringende Personen im Sinne des Artikels
 57 des Vertrages über die Arbeitsweise der Europäischen Union
 vorübergehend und gelegentlich ihren Beruf im Geltungsbereich dieses
-Gesetzes ausüben. Der vorübergehende und gelegentliche Charakter der
-Dienstleistungserbringung wird im Einzelfall beurteilt. In die
-Beurteilung sind Dauer, Häufigkeit, regelmäßige Wiederkehr und
+Gesetzes ausüben. Der vorübergehende und gelegentliche Charakter
+der Dienstleistungserbringung wird im Einzelfall beurteilt. In
+die Beurteilung sind Dauer, Häufigkeit, regelmäßige Wiederkehr und
 Kontinuität der Dienstleistung einzubeziehen.
 
 (2) Dienstleistungserbringende Personen haben beim Erbringen der
@@ -993,15 +872,15 @@ besitzt.
 
 ### § 23 Meldung der dienstleistungserbringenden Person an die zuständige Behörde
 
-(1) Wer beabsichtigt, im Sinne des § 22 Absatz 1 Dienstleistungen zu
-erbringen, hat dies der zuständigen Behörde vorher schriftlich zu
-melden. Die Meldung ist einmal jährlich zu erneuern, wenn die
-dienstleistungserbringende Person beabsichtigt, während des
+(1) Wer beabsichtigt, im Sinne des § 22 Absatz 1 Dienstleistungen
+zu erbringen, hat dies der zuständigen Behörde vorher schriftlich
+zu melden. Die Meldung ist einmal jährlich zu erneuern, wenn
+die dienstleistungserbringende Person beabsichtigt, während des
 betreffenden Jahres vorübergehend und gelegentlich Dienstleistungen im
 Geltungsbereich dieses Gesetzes zu erbringen.
 
-(2) Bei der erstmaligen Meldung oder bei wesentlichen Änderungen hat
-die dienstleistungserbringende Person einen
+(2) Bei der erstmaligen Meldung oder bei wesentlichen
+Änderungen hat die dienstleistungserbringende Person einen
 Staatsangehörigkeitsnachweis, einen Berufsqualifikationsnachweis, eine
 der Bescheinigungen nach Nummer 1 oder Nummer 2 sowie die Erklärung
 nach Nummer 3 vorzulegen:
@@ -1013,19 +892,15 @@ nach Nummer 3 vorzulegen:
     nicht, auch nicht vorübergehend, untersagt sein und es dürfen keine
     Vorstrafen vorliegen oder
 
-
 2.  im Fall des § 22 Absatz 1 Satz 1 Nummer 2 einen Nachweis in beliebiger
     Form darüber, dass die dienstleistungserbringende Person eine dem
     Beruf des Notfallsanitäters entsprechende Tätigkeit während der
     vorhergehenden zehn Jahre mindestens ein Jahr lang rechtmäßig in einem
     oder in mehreren Mitgliedstaaten ausgeübt hat, und
 
-
 3.  eine Erklärung der dienstleistungserbringenden Person, dass sie über
     die zur Erbringung der Dienstleistung erforderlichen Kenntnisse der
     deutschen Sprache verfügt.
-
-
 
 Die für die Ausübung der Dienstleistung erforderlichen Kenntnisse der
 deutschen Sprache müssen vorhanden sein.
@@ -1039,14 +914,14 @@ Berufsqualifikationsnachweis.
 
 (2) § 2 Absatz 4 und 4a gilt entsprechend mit der Maßgabe, dass für
 wesentliche Unterschiede zwischen der beruflichen Qualifikation der
-dienstleistungserbringenden Person und der nach diesem Gesetz und der
-Ausbildungs- und Prüfungsverordnung für Notfallsanitäterinnen und
-Notfallsanitäter geforderten Ausbildung Ausgleichsmaßnahmen nur
-gefordert werden dürfen, wenn die Unterschiede so groß sind, dass ohne
-den Ausgleich der fehlenden Kenntnisse und Fertigkeiten die
+dienstleistungserbringenden Person und der nach diesem Gesetz und
+der Ausbildungs- und Prüfungsverordnung für Notfallsanitäterinnen
+und Notfallsanitäter geforderten Ausbildung Ausgleichsmaßnahmen nur
+gefordert werden dürfen, wenn die Unterschiede so groß sind, dass
+ohne den Ausgleich der fehlenden Kenntnisse und Fertigkeiten die
 öffentliche Gesundheit gefährdet wäre. Soweit dies für die Beurteilung
-der Frage, ob wesentliche Unterschiede vorliegen, erforderlich ist,
-kann die zuständige Behörde bei der zuständigen Behörde des
+der Frage, ob wesentliche Unterschiede vorliegen, erforderlich
+ist, kann die zuständige Behörde bei der zuständigen Behörde des
 Niederlassungsmitgliedstaats Informationen über die Ausbildungsgänge
 der dienstleistungserbringenden Person anfordern.
 
@@ -1057,10 +932,10 @@ durch eine Eignungsprüfung.
 ### § 25 Bescheinigungen der zuständigen Behörde
 
 Einer oder einem Staatsangehörigen eines Vertragsstaats des
-Europäischen Wirtschaftsraums, die oder der im Geltungsbereich dieses
-Gesetzes den Beruf des Notfallsanitäters auf Grund einer Erlaubnis
-nach § 1 Absatz 1 ausübt, ist auf Antrag für Zwecke der
-Dienstleistungserbringung in einem anderen Vertragsstaat des
+Europäischen Wirtschaftsraums, die oder der im Geltungsbereich
+dieses Gesetzes den Beruf des Notfallsanitäters auf Grund einer
+Erlaubnis nach § 1 Absatz 1 ausübt, ist auf Antrag für Zwecke
+der Dienstleistungserbringung in einem anderen Vertragsstaat des
 Europäischen Wirtschaftsraums eine Bescheinigung darüber auszustellen,
 dass sie oder er
 
@@ -1068,19 +943,16 @@ dass sie oder er
     ist und ihr oder ihm die Ausübung des Berufs nicht, auch nicht
     vorübergehend, untersagt ist und keine Vorstrafen vorliegen,
 
-
 2.  über die zur Ausübung der jeweiligen Tätigkeit erforderliche
     berufliche Qualifikation verfügt.
-
-
 
 § 1 Absatz 2 Satz 3 gilt entsprechend.
 
 
 ### § 26 Verwaltungszusammenarbeit, Unterrichtungspflichten
 
-(1) Wird gegen die Pflichten nach § 22 Absatz 2 verstoßen, so hat die
-zuständige Behörde unverzüglich die zuständige Behörde des
+(1) Wird gegen die Pflichten nach § 22 Absatz 2 verstoßen, so hat
+die zuständige Behörde unverzüglich die zuständige Behörde des
 Niederlassungsmitgliedstaats dieser dienstleistungserbringenden Person
 hierüber zu unterrichten.
 
@@ -1091,20 +963,16 @@ Rechtmäßigkeit der Niederlassung sowie darüber anzufordern, ob
 berufsbezogene disziplinarische oder strafrechtliche Sanktionen
 vorliegen.
 
-(3) Auf Anforderung der zuständigen Behörden eines Vertragsstaats des
-Europäischen Wirtschaftsraums haben die zuständigen Behörden in
+(3) Auf Anforderung der zuständigen Behörden eines Vertragsstaats
+des Europäischen Wirtschaftsraums haben die zuständigen Behörden in
 Deutschland nach Artikel 56 der Richtlinie 2005/36/EG der anfordernden
 Behörde Folgendes zu übermitteln:
 
 1.  alle Informationen über die Rechtmäßigkeit der Niederlassung und die
     gute Führung der dienstleistungserbringenden Person sowie
 
-
 2.  Informationen darüber, dass keine berufsbezogenen disziplinarischen
     oder strafrechtlichen Sanktionen vorliegen.
-
-
-
 
 
 ## Abschnitt 5 - Zuständigkeiten
@@ -1129,13 +997,13 @@ Informationen nach § 26 Absatz 2 an.
 
 (4) Die Informationen nach § 26 Absatz 3 werden durch die zuständige
 Behörde des Landes übermittelt, in dem der Beruf des Notfallsanitäters
-ausgeübt wird oder zuletzt ausgeübt worden ist. Die Unterrichtung des
-Herkunftsmitgliedstaats gemäß § 26 Absatz 1 erfolgt durch die
+ausgeübt wird oder zuletzt ausgeübt worden ist. Die Unterrichtung
+des Herkunftsmitgliedstaats gemäß § 26 Absatz 1 erfolgt durch die
 zuständige Behörde des Landes, in dem die Dienstleistung erbracht wird
 oder erbracht worden ist.
 
-(5) Die Bescheinigungen nach § 25 stellt die zuständige Behörde des
-Landes aus, in dem die antragstellende Person den Beruf des
+(5) Die Bescheinigungen nach § 25 stellt die zuständige Behörde
+des Landes aus, in dem die antragstellende Person den Beruf des
 Notfallsanitäters ausübt.
 
 (6) Die Länder bestimmen die zur Durchführung dieses Gesetzes
@@ -1152,11 +1020,8 @@ zuständigen Behörden.
 1.  ohne Erlaubnis nach § 1 Absatz 1 die Berufsbezeichnung
     „Notfallsanitäterin“ oder „Notfallsanitäter“ oder
 
-
 2.  entgegen § 30 Absatz 2 die Berufsbezeichnung „Rettungsassistentin“
     oder „Rettungsassistent“
-
-
 
 führt.
 
@@ -1175,9 +1040,9 @@ findet das Berufsbildungsgesetz keine Anwendung.
 
 ### § 30 Weiterführen der alten Erlaubnis zur Führung der Berufsbezeichnung
 
-Rettungsassistentinnen und Rettungsassistenten, die eine Erlaubnis
-nach dem Rettungsassistentengesetz besitzen, dürfen die
-Berufsbezeichnung weiterhin führen. Die Berufsbezeichnung
+Rettungsassistentinnen und Rettungsassistenten, die eine
+Erlaubnis nach dem Rettungsassistentengesetz besitzen, dürfen
+die Berufsbezeichnung weiterhin führen. Die Berufsbezeichnung
 „Rettungsassistentin“ oder „Rettungsassistent“ darf jedoch nur unter
 den Voraussetzungen des Satzes 1 geführt werden.
 
@@ -1204,21 +1069,15 @@ werden, die bei Inkrafttreten dieses Gesetzes
 
 1.  eine staatlich anerkannte Rettungsassistentenschule leiten,
 
-
 2.  als Lehrkräfte an einer staatlich anerkannten
     Rettungsassistentenschule unterrichten,
-
 
 3.  über die Qualifikation zur Leitung oder zur Tätigkeit als Lehrkraft an
     einer staatlich anerkannten Rettungsassistentenschule verfügen oder
 
-
 4.  an einer Weiterbildung zur Leitung einer staatlich anerkannten
     Rettungsassistentenschule oder Lehrkraft teilnehmen und diese
     innerhalb eines Jahres nach Inkrafttreten dieses Gesetzes abschließen.
-
-
-
 
 
 ### § 32 Übergangsvorschriften
@@ -1226,40 +1085,37 @@ werden, die bei Inkrafttreten dieses Gesetzes
 (1) Eine Ausbildung zur Rettungsassistentin oder zum
 Rettungsassistenten, die vor Außerkrafttreten des
 Rettungsassistentengesetzes vom 10. Juli 1989 (BGBl. I S. 1384), das
-zuletzt durch Artikel 19 des Gesetzes vom 2. Dezember 2007 (BGBl. I S.
-2686) geändert worden ist, begonnen worden ist, wird nach den
+zuletzt durch Artikel 19 des Gesetzes vom 2. Dezember 2007 (BGBl.
+I S. 2686) geändert worden ist, begonnen worden ist, wird nach den
 Vorschriften des Rettungsassistentengesetzes abgeschlossen. Nach
-Abschluss der Ausbildung erhält die antragstellende Person, wenn die
-Voraussetzungen des § 2 Absatz 1 Nummer 2 und 3 vorliegen, die
-Erlaubnis, die Berufsbezeichnung „Rettungsassistentin“ oder
+Abschluss der Ausbildung erhält die antragstellende Person, wenn
+die Voraussetzungen des § 2 Absatz 1 Nummer 2 und 3 vorliegen,
+die Erlaubnis, die Berufsbezeichnung „Rettungsassistentin“ oder
 „Rettungsassistent“ zu führen.
 
 (2) Eine Person, die eine mindestens fünfjährige Tätigkeit als
 Rettungsassistentin oder Rettungsassistent nachweist, erhält bei
-Vorliegen der Voraussetzungen des § 2 Absatz 1 Nummer 2 und 3 die
-Erlaubnis, die Berufsbezeichnung „Notfallsanitäterin“ oder
-„Notfallsanitäter“ zu führen, wenn sie innerhalb von zehn Jahren nach
-Inkrafttreten dieses Gesetzes die staatliche Ergänzungsprüfung
+Vorliegen der Voraussetzungen des § 2 Absatz 1 Nummer 2 und 3
+die Erlaubnis, die Berufsbezeichnung „Notfallsanitäterin“ oder
+„Notfallsanitäter“ zu führen, wenn sie innerhalb von zehn Jahren
+nach Inkrafttreten dieses Gesetzes die staatliche Ergänzungsprüfung
 besteht. Satz 1 gilt entsprechend für eine Person, die
 
-1.  eine mindestens dreijährige Tätigkeit als Rettungsassistentin oder
-    Rettungsassistent nachweist und zur Vorbereitung auf die
+1.  eine mindestens dreijährige Tätigkeit als Rettungsassistentin
+    oder Rettungsassistent nachweist und zur Vorbereitung auf die
     Ergänzungsprüfung an einer weiteren Ausbildung von 480 Stunden
     teilgenommen hat oder
 
-
-2.  eine geringere als eine dreijährige Tätigkeit oder, bei Personen nach
-    Absatz 1, keine Tätigkeit als Rettungsassistentin oder
+2.  eine geringere als eine dreijährige Tätigkeit oder, bei Personen
+    nach Absatz 1, keine Tätigkeit als Rettungsassistentin oder
     Rettungsassistent nachweist und zur Vorbereitung auf die
     Ergänzungsprüfung an einer weiteren Ausbildung von 960 Stunden
     teilgenommen hat.
 
-
-
 Die weitere Ausbildung kann in Vollzeitform, Teilzeitform oder
-berufsbegleitend absolviert werden. Eine Person nach Satz 2 Nummer 1
-oder Nummer 2, die an keiner weiteren Ausbildung teilnimmt, erhält bei
-Vorliegen der Voraussetzungen des § 2 Absatz 1 Nummer 2 und 3 die
+berufsbegleitend absolviert werden. Eine Person nach Satz 2 Nummer
+1 oder Nummer 2, die an keiner weiteren Ausbildung teilnimmt, erhält
+bei Vorliegen der Voraussetzungen des § 2 Absatz 1 Nummer 2 und 3 die
 Erlaubnis nach § 1 Absatz 1, wenn sie innerhalb von zehn Jahren nach
 Inkrafttreten dieses Gesetzes die staatliche Prüfung besteht.
 

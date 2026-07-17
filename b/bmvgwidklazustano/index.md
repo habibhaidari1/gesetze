@@ -1,7 +1,5 @@
 ---
-Title: Allgemeine Anordnung über die Übertragung von Zuständigkeiten im Widerspruchsverfahren
-  und über die Vertretung bei Klagen aus dem Beamten- oder Wehrdienstverhältnis im
-  Geschäftsbereich des Bundesministeriums der Verteidigung
+Title: Allgemeine Anordnung über die Übertragung von Zuständigkeiten im Widerspruchsverfahren und über die Vertretung bei Klagen aus dem Beamten- oder Wehrdienstverhältnis im Geschäftsbereich des Bundesministeriums der Verteidigung
 jurabk: BMVgWidKlaZustAnO
 layout: default
 origslug: bmvgwidklazustano
@@ -45,14 +43,14 @@ einer militärischen Dienststelle.
 
 ## § 2 Vertretungsbefugnis
 
-(1) Die Befugnis zur Vertretung des Dienstherrn bei Klagen aus dem
-Beamten- und Wehrdienstverhältnis im Geschäftsbereich des
+(1) Die Befugnis zur Vertretung des Dienstherrn bei Klagen aus
+dem Beamten- und Wehrdienstverhältnis im Geschäftsbereich des
 Bundesministeriums der Verteidigung wird auf die für den Erlass des
 Widerspruchs- bzw. Beschwerdebescheides zuständige Behörde übertragen.
 
 (2) Bei Klagen von Soldatinnen und Soldaten gegen Maßnahmen eines
-Truppenteils oder einer militärischen Dienststelle und bei Klagen in
-Statusangelegenheiten wird die Vertretung des Dienstherrn dem
+Truppenteils oder einer militärischen Dienststelle und bei Klagen
+in Statusangelegenheiten wird die Vertretung des Dienstherrn dem
 Bundesamt für das Personalmanagement der Bundeswehr übertragen, sofern
 nicht die Zuständigkeit zur Personalführung des Bundesministeriums der
 Verteidigung gegeben ist.
@@ -81,9 +79,9 @@ Zuständigkeit für die Entscheidung über den Widerspruch übertragen
 wird, die zuständig wäre, wenn die Maßnahme nach dem Inkrafttreten
 dieser Anordnung getroffen oder abgelehnt worden wäre.
 
-(2) Sie gilt für Klagen, die vor ihrem Inkrafttreten anhängig geworden
-sind, mit der Maßgabe, dass der Behörde die Vertretung des Dienstherrn
-übertragen wird, die für den Erlass des Widerspruchs- bzw.
+(2) Sie gilt für Klagen, die vor ihrem Inkrafttreten anhängig
+geworden sind, mit der Maßgabe, dass der Behörde die Vertretung des
+Dienstherrn übertragen wird, die für den Erlass des Widerspruchs- bzw.
 Beschwerdebescheides nach Inkrafttreten dieser Anordnung zuständig
 wäre.
 
@@ -91,10 +89,10 @@ wäre.
 ## § 6 Inkrafttreten, Außerkrafttreten
 
 Diese Anordnung tritt am 1. Januar 2014 in Kraft. Gleichzeitig tritt
-die Allgemeine Anordnung über die Übertragung von Zuständigkeiten im
-Widerspruchsverfahren und über die Vertretung bei Klagen aus dem
-Beamten- oder Wehrdienstverhältnis im Geschäftsbereich des
-Bundesministeriums der Verteidigung vom 16. Januar 2006 (BGBl. I S.
-273), die durch die Anordnung vom 29. März 2007 (BGBl. I S. 534)
+die Allgemeine Anordnung über die Übertragung von Zuständigkeiten
+im Widerspruchsverfahren und über die Vertretung bei Klagen aus
+dem Beamten- oder Wehrdienstverhältnis im Geschäftsbereich des
+Bundesministeriums der Verteidigung vom 16. Januar 2006 (BGBl. I
+S. 273), die durch die Anordnung vom 29. März 2007 (BGBl. I S. 534)
 geändert worden ist, außer Kraft.
 

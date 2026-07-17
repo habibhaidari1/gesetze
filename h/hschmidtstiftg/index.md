@@ -23,8 +23,8 @@ Der Bundestag hat das folgende Gesetz beschlossen:
 
 ## § 1 Rechtsform der Stiftung
 
-Unter dem Namen „Bundeskanzler-Helmut-Schmidt-Stiftung“ wird mit Sitz
-in Hamburg eine rechtsfähige Stiftung des öffentlichen Rechts
+Unter dem Namen „Bundeskanzler-Helmut-Schmidt-Stiftung“ wird mit
+Sitz in Hamburg eine rechtsfähige Stiftung des öffentlichen Rechts
 errichtet. Die Stiftung entsteht mit dem Inkrafttreten dieses
 Gesetzes.
 
@@ -32,25 +32,20 @@ Gesetzes.
 ## § 2 Stiftungszweck
 
 (1) Zweck der Stiftung ist es, das Andenken an das politische Wirken
-Helmut Schmidts für Freiheit und Einheit des deutschen Volkes, für den
-Frieden und die Einigung Europas sowie für die Verständigung und
+Helmut Schmidts für Freiheit und Einheit des deutschen Volkes, für
+den Frieden und die Einigung Europas sowie für die Verständigung und
 Versöhnung unter den Völkern zu wahren und so in seinem Sinne
 
 1.  einen Beitrag zum Verständnis der Zeitgeschichte und der weiteren
     Entwicklung der Bundesrepublik Deutschland sowie
 
-
 2.  zur Aufarbeitung, Darstellung und Weiterentwicklung der Verantwortung
     Deutschlands in der Außen-, Sicherheits- und Wirtschaftspolitik im
     europäischen und globalen Umfeld zu leisten;
 
-
 3.  Kenntnisse zu den geopolitischen und wirtschaftlichen
     Herausforderungen des 21. Jahrhunderts in Europa und der Welt zu
     vertiefen und zu erweitern.
-
-
-
 
 (2) Der Erfüllung dieses Zwecks dienen insbesondere folgende
 Maßnahmen:
@@ -61,27 +56,20 @@ Maßnahmen:
     und pflegt, Sonderausstellungen und Veranstaltungen durchführt sowie
     wissenschaftliche Arbeitsmöglichkeiten bietet,
 
-
 2.  Unterhalt, Betrieb und Nutzung des Anwesens der Eheleute Schmidt in
     Hamburg-Langenhorn als authentischer Geschichtsort sowie für eine
     angemessene öffentliche Nutzung im Sinne des Stiftungszwecks,
 
-
 3.  regelmäßiges Wirken wie die Organisation und Durchführung von
-    Veranstaltungen in der Hauptstadt Berlin und an anderen Orten als dem
-    Stiftungssitz,
-
+    Veranstaltungen in der Hauptstadt Berlin und an anderen Orten als
+    dem Stiftungssitz,
 
 4.  Forschung und Förderung wissenschaftlicher Arbeiten sowie
     Veröffentlichungen im Sinne des Stiftungszwecks, insbesondere unter
     Berücksichtigung von zukunftsgerichteten Fragestellungen,
 
-
 5.  Förderung der Zusammenarbeit mit anderen nationalen und
     internationalen Einrichtungen, soweit sie dem Stiftungszweck dient.
-
-
-
 
 (3) Der Erfüllung des Stiftungszwecks dienen auch die Pflege und
 Auswertung des bestehenden Archivs Helmut Schmidt im Haus der Eheleute
@@ -110,8 +98,8 @@ im Sinne des Stiftungszwecks zu verwenden.
 ## § 4 Satzung
 
 Die Stiftung gibt sich eine Satzung, die vom Kuratorium mit einer
-Mehrheit von zwei Dritteln seiner Mitglieder beschlossen wird und der
-Genehmigung der für Kultur und Medien zuständigen obersten
+Mehrheit von zwei Dritteln seiner Mitglieder beschlossen wird und
+der Genehmigung der für Kultur und Medien zuständigen obersten
 Bundesbehörde bedarf. Das Gleiche gilt für die Änderung der Satzung.
 
 
@@ -121,11 +109,7 @@ Organe der Stiftung sind
 
 1.  das Kuratorium,
 
-
 2.  der Vorstand.
-
-
-
 
 
 ## § 6 Kuratorium
@@ -168,8 +152,8 @@ Vorstands.
 (3) Zwei Mitglieder des Vorstands sind ehrenamtlich tätig, das dritte
 Mitglied ist die Geschäftsführerin oder der Geschäftsführer. Die
 Geschäftsführerin oder der Geschäftsführer ist nebenamtlich tätig.
-Bindende Vorschlagsrechte für je ein ehrenamtliches Mitglied haben die
-für Kultur und Medien zuständige oberste Bundesbehörde sowie das
+Bindende Vorschlagsrechte für je ein ehrenamtliches Mitglied haben
+die für Kultur und Medien zuständige oberste Bundesbehörde sowie das
 Kuratorium der Helmut und Loki Schmidt-Stiftung.
 
 (4) Scheidet ein ehrenamtliches Mitglied des Vorstands aus, verbleibt
@@ -209,11 +193,11 @@ nicht nebenamtlich tätig sind, ehrenamtlich tätig.
 
 (1) Die Stiftung untersteht der Rechtsaufsicht der für Kultur und
 Medien zuständigen obersten Bundesbehörde. Bei der Erfüllung ihrer
-Aufgaben wird die Stiftung durch das Bundesarchiv unterstützt; Art und
-Umfang regelt die für Kultur und Medien zuständige oberste
+Aufgaben wird die Stiftung durch das Bundesarchiv unterstützt;
+Art und Umfang regelt die für Kultur und Medien zuständige oberste
 Bundesbehörde im Benehmen mit dem Kuratorium und dem Helmut-Schmidt-
-Archiv im Archiv der sozialen Demokratie der
-Friedrich-Ebert-Stiftung e. V..
+Archiv im Archiv der sozialen Demokratie der *Friedrich-Ebert-Stiftung
+e. V..*
 
 (2) Für das Haushalts-, Kassen- und Rechnungswesen sowie für die
 Rechnungslegung der Stiftung finden die für die Bundesverwaltung

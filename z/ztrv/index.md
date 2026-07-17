@@ -22,8 +22,8 @@ Zuletzt geändert durch
 ## Eingangsformel
 
 Auf Grund des § 78 Absatz 2 Satz 2 bis 5 in Verbindung mit § 78 Absatz
-2 Satz 1 Nummer 2 der Bundesnotarordnung, der durch Artikel 1 Nummer 1
-Buchstabe a des Gesetzes vom 22. Dezember 2010 (BGBl. I S. 2255)
+2 Satz 1 Nummer 2 der Bundesnotarordnung, der durch Artikel 1 Nummer
+1 Buchstabe a des Gesetzes vom 22. Dezember 2010 (BGBl. I S. 2255)
 eingefügt worden ist, verordnet das Bundesministerium der Justiz:
 
 
@@ -36,34 +36,22 @@ Testamentsregister auf:
 
     a)  Familienname, Geburtsname, Vornamen und Geschlecht,
 
-
     b)  Tag und Ort der Geburt,
-
 
     c)  Geburtsstandesamt und Geburtenregisternummer, wenn die Geburt im
         Inland beurkundet wurde,
 
-
     d)  Staat der Geburt, wenn der Erblasser im Ausland geboren wurde,
-
-
-
-
 
 2.  Bezeichnung und Anschrift der Verwahrstelle,
 
-
-3.  Verwahrnummer, Verwahrbuchnummer oder Aktenzeichen des Verfahrens der
-    Verwahrstelle,
-
+3.  Verwahrnummer, Verwahrbuchnummer oder Aktenzeichen des Verfahrens
+    der Verwahrstelle,
 
 4.  Art und Datum der Errichtung der erbfolgerelevanten Urkunde und
 
-
 5.  Name, Amtssitz und Urkundenrollen-Nummer des Notars bei notariellen
     Urkunden.
-
-
 
 Die Registerbehörde kann zusätzliche Angaben aufnehmen, die für das
 Auffinden der erbfolgerelevanten Urkunde erforderlich sind.
@@ -71,8 +59,8 @@ Auffinden der erbfolgerelevanten Urkunde erforderlich sind.
 
 ## § 2 Meldung zum Register
 
-(1) Notare und Gerichte (Melder) übermitteln nach § 34a Absatz 1 und 2
-des Beurkundungsgesetzes, nach § 347 des Gesetzes über das Verfahren
+(1) Notare und Gerichte (Melder) übermitteln nach § 34a Absatz 1 und
+2 des Beurkundungsgesetzes, nach § 347 des Gesetzes über das Verfahren
 in Familiensachen und in den Angelegenheiten der freiwilligen
 Gerichtsbarkeit und nach § 78d Absatz 4 der Bundesnotarordnung die
 Verwahrangaben an die Registerbehörde. Betrifft eine erbfolgerelevante
@@ -92,11 +80,11 @@ Erblasser mitgeteilt wurden.
 
 ## § 3 Registrierungsverfahren
 
-(1) Die Registerbehörde fasst die übermittelten Verwahrangaben für
-jeden Erblasser unter einer Registernummer zu einem Datensatz
+(1) Die Registerbehörde fasst die übermittelten Verwahrangaben
+für jeden Erblasser unter einer Registernummer zu einem Datensatz
 (Verwahrdatensatz) zusammen und ordnet jeder erbfolgerelevanten
-Urkunde, die in die besondere amtliche Verwahrung zu nehmen ist, eine
-Verwahrnummer zu. Die Verwahrnummern werden bezogen auf jedes
+Urkunde, die in die besondere amtliche Verwahrung zu nehmen ist,
+eine Verwahrnummer zu. Die Verwahrnummern werden bezogen auf jedes
 Verwahrgericht vergeben. Die Registerbehörde speichert diesen
 Verwahrdatensatz in einem elektronischen System (Registrierung).
 
@@ -108,18 +96,18 @@ Verwahrnummer mit. Konnte die Registrierung nicht durchgeführt werden,
 teilt die Registerbehörde dies dem Melder unter Angabe der Gründe mit.
 
 (3) Ist eine notarielle erbfolgerelevante Urkunde in besondere
-amtliche Verwahrung zu nehmen, teilt der Notar dem Verwahrgericht die
-Verwahrnummer mit, die ihm von der Registerbehörde mitgeteilt wurde.
-Das Verwahrgericht bestätigt der Registerbehörde die Inverwahrnahme
-der erbfolgerelevanten Urkunde und übermittelt ihr eine
+amtliche Verwahrung zu nehmen, teilt der Notar dem Verwahrgericht
+die Verwahrnummer mit, die ihm von der Registerbehörde mitgeteilt
+wurde. Das Verwahrgericht bestätigt der Registerbehörde die
+Inverwahrnahme der erbfolgerelevanten Urkunde und übermittelt ihr eine
 Verwahrbuchnummer, wenn die Urkunde unter der Verwahrnummer nach § 3
 Absatz 1 Satz 1 bei dem Verwahrgericht nicht aufgefunden werden kann.
 
 
 ## § 4 Verfahren bei Änderungen der Verwahrstelle oder Rücknahme aus der amtlichen Verwahrung
 
-(1) Die erneute besondere amtliche Verwahrung oder die Änderung der
-Verwahrstelle einer erbfolgerelevanten Urkunde auf Wunsch des
+(1) Die erneute besondere amtliche Verwahrung oder die Änderung
+der Verwahrstelle einer erbfolgerelevanten Urkunde auf Wunsch des
 Erblassers ist der Registerbehörde zu melden. Die Registerbehörde
 ergänzt die Angaben im Verwahrdatensatz und ordnet der
 erbfolgerelevanten Urkunde eine neue Verwahrnummer zu. § 3 Absatz 2
@@ -128,8 +116,8 @@ und 3 gilt in diesen Fällen entsprechend.
 (2) Die Rücknahme einer erbfolgerelevanten Urkunde aus der notariellen
 oder der besonderen amtlichen Verwahrung ist der Registerbehörde unter
 Angabe des Datums der Rückgabe zu melden. Die Registerbehörde vermerkt
-die Rücknahme in den betroffenen Verwahrdatensätzen. § 3 Absatz 2 gilt
-entsprechend.
+die Rücknahme in den betroffenen Verwahrdatensätzen. § 3 Absatz 2
+gilt entsprechend.
 
 
 ## § 5 Löschung, Berichtigung und Ergänzung
@@ -139,13 +127,9 @@ Ein Verwahrdatensatz wird von der Registerbehörde
 1.  gelöscht, wenn die Registerfähigkeit der Urkunde irrtümlich angenommen
     wurde oder die Registrierung bereits erfolgt ist,
 
-
 2.  berichtigt, wenn die registrierten Verwahrangaben fehlerhaft sind,
 
-
 3.  ergänzt, wenn die registrierten Verwahrangaben unvollständig sind.
-
-
 
 Ein Notar kann die Löschung eines Verwahrdatensatzes einer in die
 besondere amtliche Verwahrung zu verbringenden erbfolgerelevanten
@@ -161,40 +145,27 @@ enthält folgende Daten:
 
 1.  Registrierungsdaten des übermittelnden Standesamts,
 
-
 2.  Familienname, Geburtsname, Vornamen und Geschlecht des Verstorbenen,
 
-
 3.  Tag und Ort der Geburt des Verstorbenen,
-
 
 4.  Geburtsstandesamt und Geburtenregisternummer, wenn die Geburt im
     Inland beurkundet wurde,
 
-
 5.  Staat der Geburt, wenn der Verstorbene im Ausland geboren worden ist,
-
 
 6.  Todestag oder Todeszeitraum,
 
-
 7.  Sterbeort, bei Sterbefall im Ausland mit Angabe des Staates,
 
-
 8.  Staatsangehörigkeit des Verstorbenen,
-
 
 9.  Angaben darüber, dass der Verstorbene für tot erklärt worden ist oder
     seine Todeszeit gerichtlich festgestellt worden ist,
 
-
 10. letzter Wohnsitz des Verstorbenen,
 
-
 11. Beurkundungsdatum des Sterbefalls.
-
-
-
 
 (2) Die Sterbefallmitteilung nach § 78e Satz 1 der Bundesnotarordnung
 enthält außerdem sonstige Angaben, die zur Erfüllung gesetzlicher
@@ -203,31 +174,23 @@ können insbesondere sein:
 
 1.  Familienstand des Verstorbenen,
 
-
 2.  Familienname, Geburtsname und Vornamen des Ehegatten oder
     Lebenspartners des Verstorbenen,
 
-
 3.  Tag, Ort und Registrierungsdaten der Geburt des Ehegatten oder
-    Lebenspartners des Verstorbenen und im Falle des Vorversterbens des
-    Ehegatten oder Lebenspartners zusätzlich Tag, Ort und
+    Lebenspartners des Verstorbenen und im Falle des Vorversterbens
+    des Ehegatten oder Lebenspartners zusätzlich Tag, Ort und
     Registrierungsdaten von dessen Tod,
 
-
 4.  Familienname, Vornamen und Anschrift von Kindern des Erblassers,
-
 
 5.  Familienname, Vornamen und Anschrift von nahen Angehörigen und anderen
     möglichen Auskunftgebern,
 
-
 6.  Angaben über vorhandenes Nachlassvermögen,
-
 
 7.  etwaige Anhaltspunkte für die Erforderlichkeit von Maßnahmen zur
     Nachlasssicherung.
-
-
 
 Sonstige Angaben nach den Sätzen 1 und 2, die der Registerbehörde
 elektronisch übermittelt werden, löscht diese unverzüglich, nachdem
@@ -240,28 +203,28 @@ sind.
 
 ## § 7 Benachrichtigungen im Sterbefall
 
-(1) Erhält die Registerbehörde von dem zuständigen Standesamt eine
-Sterbefallmitteilung zu einer Person, für die im Zentralen
-Testamentsregister Verwahrangaben registriert sind, teilt sie der
-Verwahrstelle unter Übermittlung der Daten nach § 6 Absatz 1
-unverzüglich mit, welche erbfolgerelevante Urkunde betroffen ist und
-welches Nachlassgericht nach Absatz 3 Satz 1 benachrichtigt wird.
-Liegen Verwahrangaben verschiedener Stellen vor, so ist jede dieser
-Stellen entsprechend zu benachrichtigen. Verwahrdatensätze, zu denen
-eine Rücknahme nach § 4 Absatz 2 registriert wurde, bleiben
+(1) Erhält die Registerbehörde von dem zuständigen Standesamt
+eine Sterbefallmitteilung zu einer Person, für die im Zentralen
+Testamentsregister Verwahrangaben registriert sind, teilt sie
+der Verwahrstelle unter Übermittlung der Daten nach § 6 Absatz 1
+unverzüglich mit, welche erbfolgerelevante Urkunde betroffen ist
+und welches Nachlassgericht nach Absatz 3 Satz 1 benachrichtigt
+wird. Liegen Verwahrangaben verschiedener Stellen vor, so ist jede
+dieser Stellen entsprechend zu benachrichtigen. Verwahrdatensätze,
+zu denen eine Rücknahme nach § 4 Absatz 2 registriert wurde, bleiben
 unberücksichtigt.
 
 (2) Ist oder wird bekannt, dass die Zuständigkeit für die Verwahrung
 einer erbfolgerelevanten Urkunde von den Verwahrangaben im Zentralen
-Testamentsregister abweicht, etwa weil das Gericht aufgelöst oder der
-Notar aus dem Amt geschieden ist, sendet die Registerbehörde die
-Benachrichtigung nach Absatz 1 an die nun zuständige Stelle.
+Testamentsregister abweicht, etwa weil das Gericht aufgelöst oder
+der Notar aus dem Amt geschieden ist, sendet die Registerbehörde
+die Benachrichtigung nach Absatz 1 an die nun zuständige Stelle.
 Hilfsweise ist das Amtsgericht zu benachrichtigen, in dessen Bezirk
 die aufgehobene Verwahrstelle lag.
 
 (3) Sind im Zentralen Testamentsregister Verwahrangaben registriert,
-teilt die Registerbehörde dem nach § 343 des Gesetzes über das
-Verfahren in Familiensachen und in den Angelegenheiten der
+teilt die Registerbehörde dem nach § 343 des Gesetzes über
+das Verfahren in Familiensachen und in den Angelegenheiten der
 freiwilligen Gerichtsbarkeit zuständigen Nachlassgericht mit, welche
 Verwahrangaben im Zentralen Testamentsregister enthalten sind und
 welche Verwahrstelle sie benachrichtigt hat, und übersendet die
@@ -270,15 +233,15 @@ mithilfe der Sterbefallmitteilung (§ 6) nicht eindeutig bestimmen,
 wird vermutet, dass das zu benachrichtigende Nachlassgericht dasjenige
 ist, das für den letzten inländischen Wohnsitz des Erblassers örtlich
 zuständig ist. Wenn die Sterbefallmitteilung keinen inländischen
-Wohnsitz nennt, wird als zu benachrichtigendes Nachlassgericht das
-Amtsgericht Schöneberg in Berlin vermutet. Ist im Zentralen
-Testamentsregister neben einer Verwahrangabe eine Mitteilung nach §
-78d Absatz 1 Satz 2 Nummer 2 der Bundesnotarordnung gespeichert, teilt
-die Registerbehörde auch diese Daten mit. Sind im Zentralen
+Wohnsitz nennt, wird als zu benachrichtigendes Nachlassgericht
+das Amtsgericht Schöneberg in Berlin vermutet. Ist im Zentralen
+Testamentsregister neben einer Verwahrangabe eine Mitteilung nach
+§ 78d Absatz 1 Satz 2 Nummer 2 der Bundesnotarordnung gespeichert,
+teilt die Registerbehörde auch diese Daten mit. Sind im Zentralen
 Testamentsregister Verwahrangaben nicht registriert, übersendet die
 Registerbehörde die Sterbefallmitteilung oder vorhandene Mitteilungen
-nach § 78d Absatz 1 Satz 2 Nummer 2 der Bundesnotarordnung nur auf
-Antrag. Die Landesjustizverwaltungen können gegenüber der
+nach § 78d Absatz 1 Satz 2 Nummer 2 der Bundesnotarordnung nur
+auf Antrag. Die Landesjustizverwaltungen können gegenüber der
 Registerbehörde erklären, dass eine Benachrichtigung und Übermittlung
 nach Satz 5 in jedem Sterbefall erfolgen soll.
 
@@ -300,11 +263,8 @@ die ersuchende Stelle
 1.  ihr Geschäftszeichen und zur Person des Erblassers mindestens seinen
     Geburtsnamen, sein Geburtsdatum und seinen Geburtsort angibt und
 
-
 2.  erklärt, dass die in § 78f Absatz 1 der Bundesnotarordnung genannten
     Voraussetzungen vorliegen.
-
-
 
 Das Vorliegen der Voraussetzungen des § 78f Absatz 1 Satz 2 und 3 der
 Bundesnotarordnung prüft die Registerbehörde nur, wenn sie dazu nach
@@ -317,41 +277,37 @@ die ersuchende Stelle
 1.  ihr Geschäftszeichen und zur Person des Erblassers mindestens seinen
     Geburtsnamen, sein Geburtsdatum und seinen Geburtsort angibt,
 
-
-2.  das Sterbedatum und den Sterbeort des Erblassers angibt oder die
-    Einwilligung des Erblassers nach § 78f Absatz 1 Satz 3 der
+2.  das Sterbedatum und den Sterbeort des Erblassers angibt oder
+    die Einwilligung des Erblassers nach § 78f Absatz 1 Satz 3 der
     Bundesnotarordnung vorlegt und
-
 
 3.  erklärt, dass die in § 78f Absatz 1a der Bundesnotarordnung genannten
     Voraussetzungen vorliegen.
 
-
-
 Absatz 1 Satz 2 gilt entsprechend.
 
 (2) Für die Kontrolle der Zulässigkeit der Ersuchen und für die
-Sicherstellung der ordnungsgemäßen Datenverarbeitung protokolliert die
-Registerbehörde bei allen nach Absatz 1 erteilten Auskünften
+Sicherstellung der ordnungsgemäßen Datenverarbeitung protokolliert
+die Registerbehörde bei allen nach Absatz 1 erteilten Auskünften
 elektronisch die ersuchende Stelle, deren Angaben nach Absatz 1 Satz
-1, den Zeitpunkt des Ersuchens, die betroffenen Registereinträge sowie
-die übermittelten Daten. Die ein Auskunftsverfahren nach Absatz 1a
-betreffenden Dokumente hat die Registerbehörde in Papierform
+1, den Zeitpunkt des Ersuchens, die betroffenen Registereinträge
+sowie die übermittelten Daten. Die ein Auskunftsverfahren nach Absatz
+1a betreffenden Dokumente hat die Registerbehörde in Papierform
 aufzubewahren oder elektronisch zu speichern.
 
 (3) Die Protokolldaten und die nach Absatz 2 Satz 2 aufbewahrten
 Dokumente dürfen nur für die Sicherstellung eines ordnungsgemäßen
-Registerbetriebs, einschließlich der Datenschutzkontrolle und der
-Datensicherheit, verwendet werden. Sie sind gegen zweckfremde
+Registerbetriebs, einschließlich der Datenschutzkontrolle und
+der Datensicherheit, verwendet werden. Sie sind gegen zweckfremde
 Verwendung besonders zu schützen. Fünf Jahre nach Ablauf des
 Kalenderjahres der Auskunftserteilung oder der anderweitigen
 Erledigung der Angelegenheit sind die Protokolldaten und die nach
-Absatz 2 Satz 2 elektronisch gespeicherten Dokumente zu löschen sowie
-die nach Absatz 2 Satz 2 in Papierform aufbewahrten Dokumente zu
-vernichten.
+Absatz 2 Satz 2 elektronisch gespeicherten Dokumente zu löschen
+sowie die nach Absatz 2 Satz 2 in Papierform aufbewahrten Dokumente
+zu vernichten.
 
-(4) Die Befugnis der Gerichte, Notare und Notarkammern zur Einsicht in
-Registrierungen, die von ihnen verwahrte erbfolgerelevante Urkunden
+(4) Die Befugnis der Gerichte, Notare und Notarkammern zur Einsicht
+in Registrierungen, die von ihnen verwahrte erbfolgerelevante Urkunden
 betreffen (§ 78f Absatz 2 der Bundesnotarordnung), und das Recht des
 Erblassers auf Auskunft nach den datenschutzrechtlichen Vorschriften
 bleiben unberührt.
@@ -376,19 +332,13 @@ erfolgen, insbesondere
     registrierenden Vergleichen und mit von Konsularbeamten aufgenommenen
     erbfolgerelevanten Urkunden,
 
-
 2.  bei Benachrichtigungen nach § 7, außer nach § 7 Absatz 3 für den Fall,
     dass keine Verwahrangaben registriert sind,
-
 
 3.  bei Auskünften an Stellen nach § 78f Absatz 1a der Bundesnotarordnung
     oder
 
-
 4.  bei technischen Störungen.
-
-
-
 
 (4) § 63 Absatz 1 und 3 der Personenstandsverordnung bleibt unberührt.
 
@@ -398,8 +348,8 @@ erfolgen, insbesondere
 (1) Die Registerbehörde bewahrt die Verwahrangaben betreffenden
 Dokumente und Sterbefallmitteilungen nur in elektronischer Form auf.
 
-(2) Daten zu Sterbefallmitteilungen, die nicht nach § 6 Absatz 2 Satz
-3 gelöscht werden, sind sechs Monate nach Eingang bei der
+(2) Daten zu Sterbefallmitteilungen, die nicht nach § 6 Absatz
+2 Satz 3 gelöscht werden, sind sechs Monate nach Eingang bei der
 Registerbehörde zu löschen, wenn keine die Sterbefallmitteilung
 betreffenden Verwahrangaben im Zentralen Testamentsregister
 registriert sind. In allen übrigen Fällen gilt für die Löschung von
@@ -411,8 +361,8 @@ betreffen, § 78d Absatz 1 Satz 3 der Bundesnotarordnung entsprechend.
 ## § 11 Nacherfassungen
 
 Wird festgestellt, dass eine verwahrte erbfolgerelevante Urkunde nicht
-im Zentralen Testamentsregister registriert ist, obwohl dies nach dem
-Testamentsverzeichnis-Überführungsgesetz vorgesehen war, ist die
+im Zentralen Testamentsregister registriert ist, obwohl dies nach
+dem Testamentsverzeichnis-Überführungsgesetz vorgesehen war, ist die
 entsprechende Meldung von der Verwahrstelle nachzuholen.
 
 
@@ -422,9 +372,9 @@ entsprechende Meldung von der Verwahrstelle nachzuholen.
 zugänglich, die durch eine staatliche Stelle oder im Auftrag einer
 staatlichen Stelle oder einer juristischen Person des öffentlichen
 Rechts betrieben werden und mit dem Zentralen Testamentsregister
-gesichert verbunden sind. Die Registerbehörde soll durch Verfügung,
-die im Verkündungsblatt der Bundesnotarkammer bekannt zu machen ist,
-weitere Zugangswege nur zulassen, sofern diese den
+gesichert verbunden sind. Die Registerbehörde soll durch
+Verfügung, die im Verkündungsblatt der Bundesnotarkammer bekannt
+zu machen ist, weitere Zugangswege nur zulassen, sofern diese den
 datenschutzrechtlichen Anforderungen entsprechen.
 
 (2) Die Registerbehörde erstellt ein Sicherheitskonzept, in welchem

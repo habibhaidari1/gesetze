@@ -1,7 +1,5 @@
 ---
-Title: Hundertfünfundfünfzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung
-  von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrslandeplatz
-  Leipzig-Altenburg Airport)
+Title: Hundertfünfundfünfzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrslandeplatz Leipzig-Altenburg Airport)
 jurabk: LuftVODV 155
 layout: default
 origslug: luftvodv_155
@@ -16,4 +14,7 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BAnz: 1995, Nr 182, 10722
+
+Fundstelle
+:   BAnz: 1995, 10722
 

@@ -1,6 +1,5 @@
 ---
-Title: Fünfte Durchführungsverordnung zum Bereinigungsgesetz für deutsche Auslandsbonds
-  (Verwaltungsabgabe und Vorschußverpflichtung der Aussteller)
+Title: Fünfte Durchführungsverordnung zum Bereinigungsgesetz für deutsche Auslandsbonds (Verwaltungsabgabe und Vorschußverpflichtung der Aussteller)
 jurabk: AuslWBGDV 5
 layout: default
 origslug: auslwbgdv_5
@@ -30,7 +29,6 @@ die Bundesregierung mit Zustimmung des Bundesrates:
 ## Abschnitt I - Verwaltungsabgabe
 
 
-
 ### § 1 Verwaltungsabgabe für das allgemeine Bereinigungsverfahren
 
 (1) Die Aussteller von Auslandsbonds haben als Abschlag auf die
@@ -43,125 +41,42 @@ ausgestellten Auslandsbonds unter Abzug
 a)  der Stücke, die bei Inkrafttreten des Gesetzes nach den
     Anleihebedingungen bereits getilgt waren;
 
-
 b)  der Stücke, die sich nach den Unterlagen der Konversionskasse für
     deutsche Auslandsschulden (Abwicklungsstelle) am 8. Mai 1945 im
     Eigenbesitz der Konversionskasse befanden oder die nach diesen
     Unterlagen von der Konversionskasse damals zur Tilgung bereitgestellt
     waren (Tilgungsdepots);
 
-
 c)  der Stücke, die sich nach den Unterlagen der Deutschen Golddiskontbank
     (Treuhandverwaltung) am 8. Mai 1945 im Eigenbesitz der Deutschen
     Golddiskontbank befanden;
 
-
 d)  der Stücke, die durch Sammelanerkennung (§§ 13, 55 bis 58 des
     Gesetzes) anerkannt worden sind.
-
-
-
 
 (3) Der nach Absatz 2 errechnete Nennbetrag ist vorbehaltlich des
 Satzes 2 nach folgenden Sätzen in Deutsche Mark umzurechnen:
 
-*    *   100 hfl.
+| 100 hfl. | = | 110,60 DM |
+| --- | --- | --- |
+| 100 ffrs. | = | 1,20 DM |
+| 100 Lire | = | 0,60 DM |
+| 100 skr. | = | 81,20 DM |
+| 100 sfrs. | = | 96,- DM |
+| 1 Pfund | = | 11,80 DM |
+| 1 $ | = | 4,20 DM. |
 
-    *   =
-
-    *   110,60 DM
-
-
-*    *   100 ffrs.
-
-    *   =
-
-    *   1,20 DM
-
-
-*    *   100 Lire
-
-    *   =
-
-    *   0,60 DM
-
-
-*    *   100 skr.
-
-    *   =
-
-    *   81,20 DM
-
-
-*    *   100 sfrs.
-
-    *   =
-
-    *   96,- DM
-
-
-*    *   1 Pfund
-
-    *   =
-
-    *   11,80 DM
-
-
-*    *   1 $
-
-    *   =
-
-    *   4,20 DM.
-
-
-
-Für Auslandsbonds, die eine auf Goldbasis beruhende oder mit
-Goldklausel versehene Schuld verbriefen, sind folgende
+Für Auslandsbonds, die eine auf Goldbasis beruhende oder
+mit Goldklausel versehene Schuld verbriefen, sind folgende
 Umrechnungssätze anzuwenden:
 
-*    *   100 bfrs.
-
-    *   =
-
-    *   11,60 DM
-
-
-*    *   100 hfl.
-
-    *   =
-
-    *   168,80 DM
-
-
-*    *   100 ffrs.
-
-    *   =
-
-    *   16,40 DM
-
-
-*    *   100 Lire
-
-    *   =
-
-    *   22,20 DM
-
-
-*    *   100 skr.
-
-    *   =
-
-    *   112,60 DM
-
-
-*    *   1 Pfund
-
-    *   =
-
-    *   20,40 DM.
-
-
-
+| 100 bfrs. | = | 11,60 DM |
+| --- | --- | --- |
+| 100 hfl. | = | 168,80 DM |
+| 100 ffrs. | = | 16,40 DM |
+| 100 Lire | = | 22,20 DM |
+| 100 skr. | = | 112,60 DM |
+| 1 Pfund | = | 20,40 DM. |
 
 (4)
 
@@ -180,29 +95,29 @@ beantragen. Der Nennbetrag der Stücke ist nach § 1 Abs. 3 in Deutsche
 Mark umzurechnen.
 
 (2) Die Aussteller können die nach Absatz 1 entrichteten Beträge
-zurückfordern, soweit sie den Antrag auf Sammelanerkennung vor der
-Entscheidung des Bundesministers der Finanzen (§ 57 Abs. 1 des
+zurückfordern, soweit sie den Antrag auf Sammelanerkennung vor
+der Entscheidung des Bundesministers der Finanzen (§ 57 Abs. 1 des
 Gesetzes) zurückgenommen haben.
 
 
 ### § 3 Erhebung der Verwaltungsabgabe
 
-(1) Über die nach den §§ 1, 2 zu entrichtenden Beträge erläßt das Amt
-für Wertpapierbereinigung gegen die Aussteller nach dem Inkrafttreten
-dieser Verordnung, im Falle des § 2 nach Stellung des Antrags auf
-Sammelanerkennung einen Zahlungsbescheid; ist ein Antrag auf
-Sammelanerkennung ohne Angabe von Stücknummern gestellt, so ist der
-Zahlungsbescheid zu erlassen, sobald der Aussteller die Stücke
-bezeichnet hat, deren Sammelanerkennung er beantragt. Für die
-Zustellung des Zahlungsbescheids gelten die Vorschriften des
+(1) Über die nach den §§ 1, 2 zu entrichtenden Beträge erläßt
+das Amt für Wertpapierbereinigung gegen die Aussteller nach dem
+Inkrafttreten dieser Verordnung, im Falle des § 2 nach Stellung
+des Antrags auf Sammelanerkennung einen Zahlungsbescheid; ist ein
+Antrag auf Sammelanerkennung ohne Angabe von Stücknummern gestellt,
+so ist der Zahlungsbescheid zu erlassen, sobald der Aussteller die
+Stücke bezeichnet hat, deren Sammelanerkennung er beantragt. Für
+die Zustellung des Zahlungsbescheids gelten die Vorschriften des
 Verwaltungszustellungsgesetzes.
 
 (2) Die Zahlungen sind innerhalb eines Monats nach Zustellung des
-Zahlungsbescheids an die Bundeshauptkasse zu leisten. Ein Drittel der
-entrichteten Beträge ist von der Bundeshauptkasse unverzüglich an das
-Land abzuführen, in dem der Aussteller seinen Sitz hat; steht dem
-Aussteller ein Rückforderungsanspruch nach § 1 Abs. 5 oder § 2 Abs. 2
-zu, so hat das Land der Bundeshauptkasse ein Drittel des Betrags
+Zahlungsbescheids an die Bundeshauptkasse zu leisten. Ein Drittel
+der entrichteten Beträge ist von der Bundeshauptkasse unverzüglich an
+das Land abzuführen, in dem der Aussteller seinen Sitz hat; steht dem
+Aussteller ein Rückforderungsanspruch nach § 1 Abs. 5 oder § 2 Abs.
+2 zu, so hat das Land der Bundeshauptkasse ein Drittel des Betrags
 zurückzuerstatten, den der Aussteller zurückgezahlt erhält.
 
 (3) Die von den Ausstellern zu entrichtenden Beträge werden auf Antrag
@@ -225,14 +140,13 @@ Auslandsschulden sind von den Zahlungen nach §§ 1 und 2 befreit.
 ## Abschnitt II - Vorschußverpflichtung der Aussteller
 
 
-
 ### § 5 Vorschußverpflichtung
 
-(1) Auf Verlangen der zuständigen Auslandsbevollmächtigten haben die
-Aussteller von Auslandsbonds auf die Zahlungen, die von den
+(1) Auf Verlangen der zuständigen Auslandsbevollmächtigten haben
+die Aussteller von Auslandsbonds auf die Zahlungen, die von den
 Auslandsbevollmächtigten nach § 63 Abs. 5 Satz 1, Abs. 6 des Gesetzes
-für ihre Rechnung zu leisten sind, Vorschüsse in Höhe von fünf vom
-Tausend des vorläufigen Bemessungsbetrages (§ 1 Abs. 2, 3) zu
+für ihre Rechnung zu leisten sind, Vorschüsse in Höhe von fünf
+vom Tausend des vorläufigen Bemessungsbetrages (§ 1 Abs. 2, 3) zu
 entrichten.
 
 (2) Die Aussteller können die nach Absatz 1 entrichteten Beträge
@@ -244,8 +158,8 @@ mehr zu erwarten ist.
 
 ### § 6 Erhebung der Vorschüsse
 
-(1) Für die Erhebung der Vorschüsse gilt § 3 Abs. 1, 3 und 4
-sinngemäß, soweit er sich nicht auf das Verfahren der
+(1) Für die Erhebung der Vorschüsse gilt § 3 Abs. 1, 3 und
+4 sinngemäß, soweit er sich nicht auf das Verfahren der
 Sammelanerkennung bezieht.
 
 (2) Die Vorschüsse sind innerhalb eines Monats nach Zustellung des
@@ -254,7 +168,6 @@ zahlen.
 
 
 ## Abschnitt III - Gemeinsame Vorschriften
-
 
 
 ### § 7 Geltung der Abgabenordnung

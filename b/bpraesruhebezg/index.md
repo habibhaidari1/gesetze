@@ -19,12 +19,11 @@ Geändert durch
 :   Art. 15 Abs. 2 G v. 5.2.2009 I 160
 
 
-
 ## § 1
 
 Scheidet der Bundespräsident mit Ablauf seiner Amtszeit oder vorher
-aus politischen oder gesundheitlichen Gründen aus seinem Amt aus, so
-erhält er einen Ehrensold in Höhe der Amtsbezüge mit Ausnahme der
+aus politischen oder gesundheitlichen Gründen aus seinem Amt aus,
+so erhält er einen Ehrensold in Höhe der Amtsbezüge mit Ausnahme der
 Aufwandsgelder.
 
 
@@ -67,8 +66,8 @@ Bezüge zu gewähren sind.
 
 ## § 6
 
-Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Gesetzes über die
-Stellung des Landes Berlin im Finanzsystem des Bundes (Drittes
+Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Gesetzes über
+die Stellung des Landes Berlin im Finanzsystem des Bundes (Drittes
 Überleitungsgesetz) vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
 im Lande Berlin.
 

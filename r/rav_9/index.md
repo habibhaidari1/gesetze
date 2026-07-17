@@ -1,6 +1,5 @@
 ---
-Title: Verordnung zur neunten Anpassung der Renten in dem in Artikel 3 des Einigungsvertrages
-  genannten Gebiet
+Title: Verordnung zur neunten Anpassung der Renten in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
 jurabk: RAV 9
 layout: default
 origslug: rav_9
@@ -17,7 +16,6 @@ Fundstelle
 :   BGBl I: 1994, 3805
 
 
-
 ## Eingangsformel
 
 Auf Grund
@@ -26,26 +24,20 @@ Auf Grund
     Rentenversicherung -, der durch Artikel 1 Nr. 69 des Gesetzes vom 25.
     Juli 1991 (BGBl. I S. 1606) eingefügt worden ist,
 
-
 -   der §§ 1151 und 1153 der Reichsversicherungsordnung, die durch Artikel
     8 Nr. 14 des Gesetzes vom 25. Juli 1991 (BGBl. I S. 1606) eingefügt
     worden sind,
 
-
 -   des § 105 des Gesetzes über die Alterssicherung der Landwirte vom 29.
     Juli 1994 (BGBl. I S. 1890, 1891)
 
-
-
 verordnet die Bundesregierung, auf Grund -
 
-*   des § 2 Abs. 2 des Gesetzes zur Zahlung eines Sozialzuschlags zu
+-   des § 2 Abs. 2 des Gesetzes zur Zahlung eines Sozialzuschlags zu
     Renten im Beitrittsgebiet vom 25. Juli 1991 (BGBl. I S. 1606, 1707)
 
-
-
-verordnet das Bundesministerium für Arbeit und Sozialordnung im
-Einvernehmen mit dem Bundesministerium der Finanzen und dem
+verordnet das Bundesministerium für Arbeit und Sozialordnung
+im Einvernehmen mit dem Bundesministerium der Finanzen und dem
 Bundesministerium für Familie, Senioren, Frauen und Jugend:
 
 
@@ -58,16 +50,16 @@ Deutsche Mark.
 ## § 2 Anpassungsfaktor in der Unfallversicherung
 
 Die vom Jahresarbeitsverdienst abhängigen Geldleistungen und das
-Pflegegeld der gesetzlichen Unfallversicherung für Arbeitsunfälle im
-Sinne des § 1153 der Reichsversicherungsordnung, die vor dem 1. Januar
-1995 eingetreten sind, werden zum 1. Januar 1995 angepaßt. Der
+Pflegegeld der gesetzlichen Unfallversicherung für Arbeitsunfälle
+im Sinne des § 1153 der Reichsversicherungsordnung, die vor dem 1.
+Januar 1995 eingetreten sind, werden zum 1. Januar 1995 angepaßt. Der
 Anpassungsfaktor beträgt 1,0278.
 
 
 ## § 3 Pflegegeld
 
-Das Pflegegeld der gesetzlichen Unfallversicherung beträgt vom 1.
-Januar 1995 an für Arbeitsunfälle, für die § 1151 der
+Das Pflegegeld der gesetzlichen Unfallversicherung beträgt
+vom 1. Januar 1995 an für Arbeitsunfälle, für die § 1151 der
 Reichsversicherungsordnung anzuwenden ist, zwischen 400 Deutsche Mark
 und 1.601 Deutsche Mark monatlich.
 

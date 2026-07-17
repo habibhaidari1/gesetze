@@ -16,7 +16,6 @@ Fundstelle
 :   RGBl I: 1938, 973
 
 
-
 ## Eingangsformel
 
 Die Reichsregierung hat das folgende Gesetz beschlossen, das hiermit
@@ -35,8 +34,8 @@ des Gesetzes stirbt.
 
 (3) Bei Erbfällen, die sich nach dem Inkrafttreten des Gesetzes
 ereignen, sind an die Gültigkeit eines Testaments keine höheren
-Anforderungen zu stellen, als nach diesem Gesetz für ein Testament der
-betreffenden Art zulässig ist, auch wenn das Testament vor dem
+Anforderungen zu stellen, als nach diesem Gesetz für ein Testament
+der betreffenden Art zulässig ist, auch wenn das Testament vor dem
 Inkrafttreten dieses Gesetzes errichtet ist. Dies gilt entsprechend
 für Erbverträge.
 

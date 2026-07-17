@@ -29,8 +29,8 @@ zu Lasten der in § 3 bezeichneten Mittel zu übernehmen.
 
 (2) In dem Umfang, in dem der Bund (ERP-Sondervermögen) aus den
 Verpflichtungen nach Absatz 1 nicht mehr in Anspruch genommen werden
-kann, können neue Verpflichtungen ohne erneute Anrechnung auf den dort
-bezeichneten Gesamtbetrag übernommen werden. Soweit jedoch
+kann, können neue Verpflichtungen ohne erneute Anrechnung auf den
+dort bezeichneten Gesamtbetrag übernommen werden. Soweit jedoch
 Verpflichtungen durch Erfüllung erlöschen, gilt dies nur in dem
 Umfang, als zur Erfüllung die in § 3 Abs. 1 Nr. 1 bezeichneten Mittel
 verwendet worden sind.
@@ -39,8 +39,8 @@ verwendet worden sind.
 ## § 2
 
 Die Förderungsmittel dienen in Ergänzung anderer Leistungen,
-insbesondere des Geld- und Kapitalmarktes, zur Gewährung von Darlehen
-und für die Finanzierung von Vorhaben, für die der Bund
+insbesondere des Geld- und Kapitalmarktes, zur Gewährung von
+Darlehen und für die Finanzierung von Vorhaben, für die der Bund
 Gewährleistungen übernimmt.
 
 
@@ -52,12 +52,8 @@ Abs. 1 eingegangenen Verpflichtungen, werden bereitgestellt:
 1.  aus dem ERP-Sondervermögen jährlich Mittel nach näherer Bestimmung des
     ERP-Wirtschaftsplans;
 
-
 2.  aus der Beschaffung im Wege des Kredits Geldmittel bis zur Höhe von
     insgesamt fünfhundert Millionen Deutsche Mark.
-
-
-
 
 (2) Den Förderungsmitteln fließen sonstige Zuweisungen zu, wenn sie
 ausdrücklich für den Förderungszweck bestimmt sind.
@@ -79,8 +75,8 @@ Jahresrechnung gesondert nachzuweisen.
 
 (1) Die Förderungsmittel bleiben Bestandteil des ERP-Sondervermögens.
 
-(2) Auf die Verwaltung der Mittel findet das Gesetz über die
-Verwaltung des ERP-Sondervermögens vom 31. August 1953
+(2) Auf die Verwaltung der Mittel findet das Gesetz über
+die Verwaltung des ERP-Sondervermögens vom 31. August 1953
 (Bundesgesetzbl. I S. 1312), mit Ausnahme des § 2, Anwendung.
 
 

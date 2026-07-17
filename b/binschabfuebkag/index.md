@@ -1,6 +1,5 @@
 ---
-Title: Ausführungsgesetz zum Übereinkommen vom 9. September 1996 über die Sammlung,
-  Abgabe und Annahme von Abfällen in der Rhein- und Binnenschifffahrt
+Title: Ausführungsgesetz zum Übereinkommen vom 9. September 1996 über die Sammlung, Abgabe und Annahme von Abfällen in der Rhein- und Binnenschifffahrt
 jurabk: BinSchAbfÜbkAG
 layout: default
 origslug: binschabf_bkag
@@ -16,7 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 130
 
-Stand: Ersetzt V 2129-39 v. 13.12.2003 I 2642 (Rhein/BinSchAbfÜbkAG)
+Stand
+:   Ersetzt V 2129-39 v. 13.12.2003 I 2642 (Rhein/BinSchAbfÜbkAG)
+
 
 ## Eingangsformel
 
@@ -35,12 +36,8 @@ beschlossen:
     Dezember 2018 und 18. Dezember 2019 (BGBl. 2020 II S. 618) geändert
     worden ist, genannt sind, und
 
-
 2.  für die Schleusen, Häfen, Umschlagsanlagen, Liege- und Anlegestellen,
     die an den Binnenwasserstraßen nach Nummer 1 liegen.
-
-
-
 
 (2) Es gelten die Begriffsbestimmungen des Artikels 1 des
 Übereinkommens und der Artikel 3.01, 5.01 und 8.01 der Anlage 2 zum
@@ -54,36 +51,24 @@ beschlossen:
 1.  außerhalb von Häfen sind verpflichtet, Annahmestellen einzurichten und
     zu betreiben für
 
-    a)  Abfälle aus dem Ladungsbereich, sofern beim Entladen von Gütern nach
-        Anhang III der Anlage 2 zum Übereinkommen entsprechende Abfälle
+    a)  Abfälle aus dem Ladungsbereich, sofern beim Entladen von Gütern
+        nach Anhang III der Anlage 2 zum Übereinkommen entsprechende Abfälle
         anfallen,
-
 
     b)  Dämpfe, sofern beim Entladen von Gütern nach Anhang IIIa der Anlage 2
         zum Übereinkommen entsprechende Dämpfe anfallen,
 
-
     c)  Hausmüll;
-
-
-
-
 
 2.  innerhalb von Häfen sind verpflichtet, Annahmestellen einzurichten und
     zu betreiben für
 
-    a)  Abfälle aus dem Ladungsbereich, sofern beim Entladen von Gütern nach
-        Anhang III der Anlage 2 zum Übereinkommen entsprechende Abfälle
+    a)  Abfälle aus dem Ladungsbereich, sofern beim Entladen von Gütern
+        nach Anhang III der Anlage 2 zum Übereinkommen entsprechende Abfälle
         anfallen,
-
 
     b)  Dämpfe, sofern beim Entladen von Gütern nach Anhang IIIa der Anlage 2
         zum Übereinkommen entsprechende Dämpfe anfallen.
-
-
-
-
-
 
 Zu den Umschlagsanlagen zählen auch Häfen, die selber Güter
 umschlagen. Im Falle flüssiger Ladung geht die Pflicht nach Satz 1
@@ -95,11 +80,7 @@ einzurichten und zu betreiben für
 
 1.  Hausmüll und
 
-
 2.  Slops und übrigen Sonderabfall.
-
-
-
 
 (3) Die Betreiber von Liegestellen und Schleusen für die durchgehende
 Schifffahrt sind verpflichtet, an ihren Liegestellen und Schleusen ein
@@ -114,8 +95,8 @@ betreiben.
 
 (5) Die Betreiber von als Stamm- oder Übernachtungsplatz dienenden
 Anlegestellen von Kabinen- oder Fahrgastschiffen mit einer Kapazität
-an Fahrgästen oder Schlafplätzen nach Artikel 8.02 Absatz 3 Buchstabe
-a und b der Anlage 2 zum Übereinkommen sind verpflichtet,
+an Fahrgästen oder Schlafplätzen nach Artikel 8.02 Absatz 3
+Buchstabe a und b der Anlage 2 zum Übereinkommen sind verpflichtet,
 Annahmestellen für häusliches Abwasser einzurichten und zu betreiben.
 Sie sind von dieser Pflicht befreit, sofern sie lückenlos die Abgabe
 ihrer häuslichen Abwässer einschließlich ihrer Mengen an vorhandenen,
@@ -127,32 +108,22 @@ beauftragen. Ihre Verantwortlichkeit für die Erfüllung der Pflichten
 bleibt hiervon unberührt und so lange bestehen, bis ihre Pflichten
 endgültig und ordnungsgemäß abgeschlossen sind.
 
-(7) Die nach Absatz 1 Verpflichteten können jeweils den Fracht- oder
-Schiffsführern für Waschwasser oder für Dämpfe eine vorhandene
+(7) Die nach Absatz 1 Verpflichteten können jeweils den Fracht-
+oder Schiffsführern für Waschwasser oder für Dämpfe eine vorhandene
 geeignete Annahmestelle im Sinne von Artikel 7.05 Absatz 1, 2 und 2a
 der Anlage 2 zum Übereinkommen zuweisen.
 
-[^F1_813775_BJNR013000021BJNE000400000]
-(8) Die Einrichtung und den Betrieb von Annahmestellen für öl- und
-fetthaltige Schiffsbetriebsabfälle regelt die innerstaatliche
-Institution nach Artikel 9 des Übereinkommens
-.
+(8) Die Einrichtung und den Betrieb von Annahmestellen für öl-
+und fetthaltige Schiffsbetriebsabfälle regelt die innerstaatliche
+Institution nach Artikel 9 des Übereinkommens.
 
 (9) Der Betrieb von Annahmestellen für gasförmige Ladungsreste gemäß
-Absatz 1 Satz 1 Nummer 1 Buchstabe b, Nummer 2 Buchstabe b sowie Satz
-2 und 3 ist bis zum Zeitpunkt nach § 24 unter Berücksichtigung der
-Übergangsvorschriften, die in Artikel 11.01 der Anlage 2 zum
+Absatz 1 Satz 1 Nummer 1 Buchstabe b, Nummer 2 Buchstabe b sowie
+Satz 2 und 3 ist bis zum Zeitpunkt nach § 24 unter Berücksichtigung
+der Übergangsvorschriften, die in Artikel 11.01 der Anlage 2 zum
 Übereinkommen genannt sind, sicherzustellen. Im Übrigen gelten die
 Anforderungen der Absätze 1 bis 7 unmittelbar.
 
-    Innerstaatliche Institution nach Artikel 9 des Übereinkommens ist nach
-    Artikel 1 des Staatsvertrags der Länder über die Bestimmung einer
-    innerstaatlichen Institution nach dem Gesetz zu dem Übereinkommen vom
-    9\. September 1996 über die Sammlung, Abgabe und Annahme von Abfällen
-    in der Rhein- und Binnenschifffahrt (Bilgenentwässerungsverband-
-    Staatsvertrag) von 2008 der Bilgenentwässerungsverband mit Sitz in
-    Duisburg.
-[^F1_813775_BJNR013000021BJNE000400000]: 
 
 ## § 3 Vereinbarungen über gemeinsam zu nutzende Annahmestellen
 
@@ -164,15 +135,11 @@ nutzende Annahmestellen und deren Art und Umfang treffen, und zwar
     Ladung die diese Umschlagsanlagen nutzenden Befrachter hinsichtlich
     der Annahme von Dämpfen;
 
-
 2.  nach § 2 Absatz 2 verpflichtete Betreiber von Häfen hinsichtlich der
     Annahme von Slops und übrigem Sonderabfall.
 
-
-
-
-(2) Betreiber und Befrachter, die eine Vereinbarung nach Absatz 1
-treffen, müssen vor der gemeinsamen Nutzung einer Anlage einen
+(2) Betreiber und Befrachter, die eine Vereinbarung nach Absatz
+1 treffen, müssen vor der gemeinsamen Nutzung einer Anlage einen
 Bedarfsplan nach § 4 Absatz 1 aufstellen.
 
 (3) Eine gemeinsam zu nutzende Annahmestelle darf nur betrieben
@@ -185,44 +152,33 @@ werden, wenn ein genehmigter Bedarfsplan gemäß § 4 Absatz 1 vorliegt.
 Annahmestellen im Wasserstraßenbereich, für den die Vereinbarung
 gelten soll, festzulegen.
 
-(2) Die Verteilung der gemeinsam zu nutzenden Annahmestellen muss sich
-an den betrieblichen Belangen der Binnenschifffahrt orientieren. Das
-Netz dieser Annahmestellen muss ausreichend dicht sein. Zu
+(2) Die Verteilung der gemeinsam zu nutzenden Annahmestellen muss
+sich an den betrieblichen Belangen der Binnenschifffahrt orientieren.
+Das Netz dieser Annahmestellen muss ausreichend dicht sein. Zu
 berücksichtigen sind
 
 1.  das in bestimmten Wasserstraßenbereichen unterschiedliche regionale
     Verkehrsaufkommen und
 
-
 2.  die in den Umschlagsanlagen je nach Art und Menge der anfallenden
     Abfälle oder Dämpfe geltenden unterschiedlichen Anforderungen an die
     Annahmestelle.
-
-
-
 
 (3) Der Bedarfsplan muss unter Berücksichtigung der Absätze 1 und 2
 folgende Angaben enthalten:
 
 1.  die Namen der an der Vereinbarung Beteiligten,
 
-
 2.  den Namen des Betreibers der gemeinsam zu nutzenden Annahmestelle,
 
-
 3.  Standort, Art und Umfang der gemeinsam zu nutzenden Annahmestelle,
-
 
 4.  Anmelde- und Abfertigungsmodalitäten für die gemeinsam zu nutzende
     Annahmestelle und
 
-
 5.  sonstige spezifische Anforderungen, die durch die Schifffahrt
     vorgegeben werden wie die Längen der Anlegestellen, Anzahl
     gleichzeitig liegender Schiffe, Gefahrgut transportierende Schiffe.
-
-
-
 
 (4) Der Bedarfsplan muss hinsichtlich des Netzes von Annahmestellen
 durch die jeweils zuständige Landesbehörde genehmigt werden.
@@ -237,13 +193,10 @@ folgenden Verpflichtungen befreit:
     die im Bedarfsplan ausgewiesenen Annahmestellen der Annahme von
     Dämpfen dienen,
 
-
 2.  Annahmestellen nach § 2 Absatz 2 Nummer 2 für Slops und übrigen
     Sonderabfall zu errichten und zu betreiben, sofern die im Bedarfsplan
     ausgewiesenen Annahmestellen der Annahme von Slops und übrigem
     Sonderabfall dienen.
-
-
 
 Diese Häfen, Umschlagsanlagen oder Befrachter können verpflichtet
 werden, einen Beitrag zu den Kosten derjenigen Annahmestellen zu
@@ -274,11 +227,7 @@ die notwendig sind für
 1.  die Überwachung der Einhaltung der Anforderungen des Übereinkommens
     und
 
-
 2.  die Überwachung der Einhaltung der §§ 2 bis 5 und 7 bis 12.
-
-
-
 
 (2) Die nach Absatz 1 zur Auskunft Verpflichteten haben diejenigen
 Bescheinigungen und Nachweise auf Verlangen vorzulegen, die sie
@@ -287,25 +236,17 @@ vorzuhalten haben nach
 1.  Artikel 2.03 Absatz 1 Satz 1 und Absatz 2 Satz 1 der Anlage 2 zum
     Übereinkommen,
 
-
 2.  Artikel 3.04 Absatz 1 Satz 1 der Anlage 2 zum Übereinkommen,
-
 
 3.  Artikel 6.03 Absatz 1 Satz 1 der Anlage 2 zum Übereinkommen,
 
-
 4.  Artikel 7.02 Absatz 2 Satz 2 der Anlage 2 zum Übereinkommen,
-
 
 5.  den Artikeln 7.09, 10.01 Absatz 2 der Anlage 2 zum Übereinkommen und
     Absatz 3 Satz 6 des Anhangs II der Anlage 2 zum Übereinkommen und
 
-
 6.  § 7 Satz 1 Nummer 1 Buchstabe b oder Nummer 2 Buchstabe a, § 9 Absatz
     2 Nummer 6 oder § 11 Absatz 1.
-
-
-
 
 (3) Ein nach Absatz 1 in Verbindung mit Absatz 4 zur Auskunft
 Verpflichteter kann die Auskunft auf solche Fragen verweigern, deren
@@ -314,46 +255,30 @@ Beantwortung ihn selbst oder einen der in § 383 Absatz 1 Nummer 1 bis
 
 1.  der Gefahr strafgerichtlicher Verfolgung aussetzen würde oder
 
-
 2.  der Gefahr eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten
     aussetzen würde.
-
-
-
 
 (4) Nach diesem Gesetz verpflichtete Personen sind:
 
 1.  die Befrachter,
 
-
 2.  die Ladungsempfänger,
-
 
 3.  die Betreiber einer Umschlagsanlage,
 
-
 4.  die Frachtführer,
-
 
 5.  die Schiffsführer,
 
-
 6.  die Betreiber von Bunkerbetrieben,
-
 
 7.  die Betreiber von Häfen,
 
-
 8.  die Betreiber von Liegestellen,
-
 
 9.  die Betreiber von Anlegestellen und
 
-
 10. die Betreiber von Schleusen.
-
-
-
 
 
 ## § 7 Besondere Pflichten des Betreibers einer Bunkerstelle
@@ -369,16 +294,11 @@ Der Betreiber einer Bunkerstelle ist in Bezug auf Anlage 2 zum
         und eines mobilen elektronischen Terminals des elektronischen
         Zahlungssystems im Sinne des Artikels 3.01 Buchstabe b abzubuchen,
 
-
     b)  nach jedem Bunkervorgang dem Schiffsführer unverzüglich eine
         Ausfertigung des nach Artikel 3.04 Absatz 1 Satz 1 auszufertigenden
-        Bezugsnachweises für Gasöl mit der beizufügenden Quittung für die
-        Entrichtung der Gebühr nach Artikel 3.04 Absatz 2 Satz 1
+        Bezugsnachweises für Gasöl mit der beizufügenden Quittung für
+        die Entrichtung der Gebühr nach Artikel 3.04 Absatz 2 Satz 1
         auszuhändigen;
-
-
-
-
 
 2.  im Falle des schriftlichen Verfahrens nach Artikel 3.03 Absatz 6
 
@@ -386,21 +306,14 @@ Der Betreiber einer Bunkerstelle ist in Bezug auf Anlage 2 zum
         Ausfertigung des nach Artikel 3.04 Absatz 1 Satz 1 in Verbindung mit
         Absatz 3 auszufertigenden Bezugsnachweises für Gasöl auszuhändigen,
 
-
     b)  die in Artikel 3.03 Absatz 7 Satz 1 bezeichneten Angaben zu den in
         Artikel 3.03 Absatz 7 bezeichneten Zwecken spätestens sieben Tage nach
         dem Bunkervorgang an die innerstaatliche Institution nach Artikel 9
         des Übereinkommens zu übermitteln;
 
-
-
-
-
 3.  eine weitere Ausfertigung der in Nummer 1 Buchstabe b oder Nummer 2
     Buchstabe a bezeichneten Unterlagen nach Artikel 3.04 Absatz 2 Satz 3
     zwölf Monate nach der Aushändigung bei der Bunkerstelle aufzubewahren.
-
-
 
 Die Frist für die Aufbewahrung der in Satz 1 Nummer 3 bezeichneten
 Unterlagen beginnt mit deren jeweiliger Aushändigung.
@@ -426,152 +339,107 @@ Verfahren entrichtet, hat der Schiffsbetreiber den geschuldeten Betrag
 nach Aufforderung durch die innerstaatliche Institution nach Artikel 9
 des Übereinkommens an diese zu überweisen.
 
-(4) In den Fällen des Artikels 3.03 Absatz 6 Buchstabe b und c der
-Anlage 2 zum Übereinkommen muss die Überweisung auch die nach Artikel
-3\.03 Absatz 8 der Anlage 2 zum Übereinkommen zu entrichtende
+(4) In den Fällen des Artikels 3.03 Absatz 6 Buchstabe b und c
+der Anlage 2 zum Übereinkommen muss die Überweisung auch die nach
+Artikel 3.03 Absatz 8 der Anlage 2 zum Übereinkommen zu entrichtende
 Verwaltungsgebühr enthalten.
 
 
 ## § 9 Besondere Pflichten der Betreiber der Annahmestellen und der Ladungsempfänger
 
-(1) Der Betreiber einer Annahmestelle und im Falle der Entladung des
-Fahrzeugs zusätzlich der Ladungsempfänger oder der von einem
+(1) Der Betreiber einer Annahmestelle und im Falle der Entladung
+des Fahrzeugs zusätzlich der Ladungsempfänger oder der von einem
 Ladungsempfänger oder Befrachter beauftragte Betreiber einer
 Umschlagsanlage sind verpflichtet,
 
 1.  spätestens nach Abschluss der Annahme eines Schiffsbetriebsabfalles
     diese Tätigkeit gemäß Absatz 2 zu bestätigen,
 
-
 2.  spätestens nach Abschluss der Entladung eines Fahrzeugs diese
     Tätigkeit gemäß Absatz 2 zu bestätigen oder
-
 
 3.  sofern er die Aufgabe übernommen hat, die Laderäume oder Ladetanks zu
     waschen oder zu entgasen, spätestens nach Abschluss des Waschens oder
     Entgasens diese Tätigkeit gemäß Absatz 2 zu bestätigen.
 
-
-
-
 (2) Die Bestätigung erfolgt in den nachfolgend genannten Unterlagen
 und nach den folgenden Maßgaben:
 
-1.  nach Artikel 2.03 Absatz 2 Satz 2 der Anlage 2 zum Übereinkommen im
-    Ölkontrollbuch nach dem Muster des Anhangs I der Anlage 2 zum
+1.  nach Artikel 2.03 Absatz 2 Satz 2 der Anlage 2 zum Übereinkommen
+    im Ölkontrollbuch nach dem Muster des Anhangs I der Anlage 2 zum
     Übereinkommen die Annahme öl- und fetthaltiger Schiffsbetriebsabfälle;
 
-
 2.  nach Artikel 7.01 Absatz 1 der Anlage 2 zum Übereinkommen in der
-    Entladebescheinigung nach den Mustern des Anhangs IV der Anlage 2 zum
-    Übereinkommen
+    Entladebescheinigung nach den Mustern des Anhangs IV der Anlage 2
+    zum Übereinkommen
 
     a)  die Entladung des Fahrzeugs,
-
 
     b)  das Waschen oder Entgasen, sofern er die Aufgabe übernommen hat, die
         Laderäume oder Ladetanks zu waschen oder zu entgasen, und
 
-
     c)  die Annahme der Abfälle aus dem Ladungsbereich;
-
-
-
-
 
 3.  nach Artikel 7.01
 
     a)  Absatz 2 der Anlage 2 zum Übereinkommen die Annahme von Waschwasser,
 
-
     b)  Absatz 3 der Anlage 2 zum Übereinkommen die Durchführung der Entgasung
-
-
 
     in der Entladebescheinigung nach den Mustern des Anhangs IV der Anlage
     2 zum Übereinkommen;
-
 
 4.  nach Artikel 9.03 Absatz 3 der Anlage 2 zum Übereinkommen die Annahme
     von Klärschlamm in einer Annahmebescheinigung, die Folgendes enthält:
 
     a)  Datum der Annahme,
 
-
     b)  Schiffsname und einheitliche europäische Schiffsnummer,
-
 
     c)  Ort der Annahmestelle,
 
-
     d)  Anschrift des Betreibers der Annahmestelle,
-
 
     e)  Menge des angenommenen Klärschlamms,
 
-
     f)  Unterschrift des Betreibers der Annahmestelle und des Schiffsführers;
-
-
-
-
 
 5.  nach Artikel 10.01 Absatz 2 der Anlage 2 zum Übereinkommen die Annahme
     von Slops in einer Annahmebescheinigung, die Folgendes enthält:
 
     a)  Datum der Annahme,
 
-
     b)  Schiffsname und einheitliche europäische Schiffsnummer,
-
 
     c)  Ort der Annahmestelle,
 
-
     d)  Anschrift des Betreibers der Annahmestelle,
-
 
     e)  Menge der angenommenen Slops,
 
-
     f)  Unterschrift des Betreibers der Annahmestelle und des Schiffsführers;
-
-
-
-
 
 6.  nach § 2 Absatz 5 Satz 2 dieses Gesetzes die Annahme von häuslichen
     Abwässern in einer Annahmebescheinigung, die Folgendes enthält:
 
     a)  Datum der Annahme,
 
-
     b)  Schiffsname und einheitliche europäische Schiffsnummer,
-
 
     c)  Ort der Annahmestelle,
 
-
     d)  Anschrift des Betreibers der Annahmestelle,
 
-
     e)  Menge der angenommenen häuslichen Abwässer,
-
 
     f)  Unterschrift des Betreibers der Annahmestelle und des Schiffsführers.
 
 
-
-
-
-
-
-
 ## § 10 Besondere Pflichten des Schiffsführers
 
-Der Schiffsführer ist verpflichtet, die Eintragungen, die in den in §
-9 Absatz 2 genannten Unterlagen von ihm vorzunehmen sind, nach Abgabe
-der Schiffsbetriebsabfälle oder der Ladung einschließlich der
+Der Schiffsführer ist verpflichtet, die Eintragungen, die in den
+in § 9 Absatz 2 genannten Unterlagen von ihm vorzunehmen sind, nach
+Abgabe der Schiffsbetriebsabfälle oder der Ladung einschließlich der
 Ladungsabfälle oder nach der Entgasung unverzüglich, spätestens jedoch
 bei Aufforderung durch den Betreiber der Annahmestelle vorzunehmen.
 
@@ -583,11 +451,8 @@ bei Aufforderung durch den Betreiber der Annahmestelle vorzunehmen.
 1.  das kein Gasöl im Sinne des Artikels 1 Buchstabe m des Übereinkommens
     tankt und
 
-
 2.  dessen öl- und fetthaltige Schiffsbetriebsabfälle nicht über das
     System nach Artikel 6 des Übereinkommens entsorgt werden,
-
-
 
 hat gemäß Absatz 2 einen Nachweis darüber an Bord mitzuführen, wann
 die letzte Entsorgung der Schiffsbetriebsabfälle oder die letzte
@@ -611,12 +476,9 @@ Dämpfen beauftragt, gehen die jeweiligen Pflichten
 
 1.  nach den §§ 2, 6 und 9 auf den beauftragten Dritten über sowie
 
-
 2.  nach Artikel 13 des Übereinkommens, den Artikeln 7.01, 7.03 Absatz 2
     und 3, Artikel 7.04 Absatz 1, 2, 3 Buchstabe b und c, Artikel 10.01
     der Anlage 2 zum Übereinkommen auf den beauftragten Dritten über.
-
-
 
 Die ursprüngliche Verantwortung der nach diesem Gesetz Verpflichteten
 für die Erfüllung ihrer Pflichten bleibt hiervon unberührt und so
@@ -629,13 +491,13 @@ Eignung gegenüber der zuständigen Behörde nachweisen können.
 
 ## § 13 Ordnungswidrigkeitendatei
 
-(1) Die Generaldirektion Wasserstraßen und Schifffahrt führt eine
-Datei über die von ihr verfolgten Ordnungswidrigkeiten zum
+(1) Die Generaldirektion Wasserstraßen und Schifffahrt führt
+eine Datei über die von ihr verfolgten Ordnungswidrigkeiten zum
 Übereinkommen zur Bearbeitung von Ordnungswidrigkeitenverfahren nach §
 22 Absatz 5.
 
-(2) Die Generaldirektion Wasserstraßen und Schifffahrt ist befugt, zu
-dem in Absatz 1 genannten Zweck folgende Daten zu erheben, zu
+(2) Die Generaldirektion Wasserstraßen und Schifffahrt ist befugt,
+zu dem in Absatz 1 genannten Zweck folgende Daten zu erheben, zu
 speichern und zu verwenden:
 
 1.  Familienname, Geburtsname, Vornamen, Tag und Ort der Geburt, Anschrift
@@ -643,35 +505,26 @@ speichern und zu verwenden:
     gesetzlichen Vertreters, Name und Anschrift des Unternehmens sowie des
     Zustellungsbevollmächtigten,
 
-
 2.  bei fahrzeugbezogenen Ordnungswidrigkeiten nach § 22 Absatz 2 Nummer
     1, 3 Buchstabe f, q und s die einheitliche europäische Schiffsnummer,
-
 
 3.  die zuständige Bußgeldstelle und das Aktenzeichen des
     Ordnungswidrigkeitenverfahrens,
 
-
 4.  Tatzeit und Tatort,
-
 
 5.  die Tatvorwürfe durch Angabe der gesetzlichen Vorschriften und die
     nähere Bezeichnung der Ordnungswidrigkeiten,
 
-
 6.  das Datum der Einleitung des Verfahrens sowie
-
 
 7.  das Datum und die Art der Verfahrenserledigungen durch die
     Bußgeldstelle und die Staatsanwaltschaft und das Gericht unter Angabe
     der gesetzlichen Vorschriften.
 
-
-
-
-(3) Die nach Absatz 2 gespeicherten personenbezogenen Daten sind von
-der Generaldirektion Wasserstraßen und Schifffahrt unverzüglich zu
-löschen, soweit sie für die Erfüllung der in Absatz 1 genannten
+(3) Die nach Absatz 2 gespeicherten personenbezogenen Daten sind
+von der Generaldirektion Wasserstraßen und Schifffahrt unverzüglich
+zu löschen, soweit sie für die Erfüllung der in Absatz 1 genannten
 Aufgabe nicht mehr erforderlich sind, spätestens jedoch unverzüglich
 nach dem Ende der Vollstreckungsverjährung. In Verfahren von
 besonderer Bedeutung sind die Daten unverzüglich nach Ablauf der im
@@ -689,8 +542,8 @@ am Tag der Errichtung der Datei nach Absatz 1 unverzüglich zu löschen.
 
 ## § 14 Zuständige Behörden für Aufgaben des Bundes
 
-(1) Zuständige Behörde für die technischen Untersuchungen von
-Nachlenzsystemen im Sinne des Anhangs II der Anlage 2 zum
+(1) Zuständige Behörde für die technischen Untersuchungen
+von Nachlenzsystemen im Sinne des Anhangs II der Anlage 2 zum
 Übereinkommen ist für den Bereich der Bundeswasserstraßen die
 Generaldirektion Wasserstraßen und Schifffahrt. Sie erstellt als
 Ergebnis der Untersuchung den Nachweis nach Muster 3 des Anhangs II
@@ -710,35 +563,27 @@ Klassifikationsgesellschaft vorgenommen werden.
     a)  für die erstmalige Ausstellung des Ölkontrollbuchs die
         Generaldirektion Wasserstraßen und Schifffahrt,
 
-
     b)  für die Erneuerung des Ölkontrollbuchs die Wasserstraßen- und
         Schifffahrtsämter;
 
-
-
-
-
 2.  bei nicht untersuchungspflichtigen Fahrzeugen die Wasserstraßen- und
     Schifffahrtsämter.
-
-
-
 
 (4) Zuständige Bundesbehörde für die Prüfung von Befreiungen bei
 Sondertransporten nach Artikel 6.03 Absatz 7 Satz 3 der Anlage 2 zum
 Übereinkommen ist für die Bundeswasserstraßen die Generaldirektion
 Wasserstraßen und Schifffahrt.
 
-(5) Bundeswasserstraßen im Sinne dieses Gesetzes sind jene im Sinne
-des § 1 Absatz 1 in Verbindung mit Absatz 4 des
+(5) Bundeswasserstraßen im Sinne dieses Gesetzes sind jene
+im Sinne des § 1 Absatz 1 in Verbindung mit Absatz 4 des
 Bundeswasserstraßengesetzes.
 
 
 ## § 15 Zuständige Behörden der Länder
 
-(1) Soweit nach diesem Gesetz keine Behörde des Bundes zuständig ist,
-obliegt die Wahrnehmung der Aufgaben nach diesem Gesetz den aufgrund
-dieses Gesetzes erlassenen Rechtsverordnungen und nach dem
+(1) Soweit nach diesem Gesetz keine Behörde des Bundes zuständig
+ist, obliegt die Wahrnehmung der Aufgaben nach diesem Gesetz den
+aufgrund dieses Gesetzes erlassenen Rechtsverordnungen und nach dem
 Übereinkommen den zuständigen Landesbehörden.
 
 (2) Die nach Landesrecht zuständigen Stellen bestimmen die zur
@@ -758,25 +603,16 @@ Vorschriften für den Bereich der Landeswasserstraßen ausgestellten
 
 1.  Bescheinigungen im Sinne von § 14 Absatz 1 Satz 2,
 
-
 2.  Ölkontrollbücher im Sinne von § 14 Absatz 3 und
 
-
 3.  Befreiungen im Sinne von § 14 Absatz 4.
-
-
-
 
 (2) Die Gleichwertigkeit gilt jedoch nur, wenn
 
 1.  die Anforderungen des Übereinkommens erfüllt sind und
 
-
 2.  keine Erleichterungen oder örtlichen Einschränkungen erteilt worden
     sind.
-
-
-
 
 
 ## § 17 Eingriffsbefugnisse der zuständigen Behörden, Mitwirkungspflicht
@@ -790,91 +626,62 @@ Behörden beauftragten Sachverständigen
 
     a)  Geschäfts- und Betriebsgrundstücke,
 
-
     b)  öffentlich zugängliche Geschäfts- und Betriebsräume an Bord eines
         Fahrzeugs sowie
 
-
     c)  sonstige öffentlich zugängliche Geschäfts- und Betriebsräume
 
-
-
-
     der in § 6 Absatz 4 genannten Personen betreten,
-
 
 2.  alle gebotenen Überprüfungen von Fahrzeugen sowie von Annahmestellen
     und Umschlagsanlagen vornehmen,
 
-
 3.  Einsicht in alle Bücher, Nachweise und sonstigen Unterlagen,
-    ausgenommen Krankenunterlagen, nehmen, von denen anzunehmen ist, dass
-    aus ihnen Anhaltspunkte zur Einhaltung der Vorgaben dieses Gesetzes,
-    der nach diesem Gesetz erlassenen Rechtsverordnungen und des
+    ausgenommen Krankenunterlagen, nehmen, von denen anzunehmen ist,
+    dass aus ihnen Anhaltspunkte zur Einhaltung der Vorgaben dieses
+    Gesetzes, der nach diesem Gesetz erlassenen Rechtsverordnungen und des
     Übereinkommens, hervorgehen oder abgeleitet werden können.
-
-
-
 
 (2) Liegen tatsächliche Anhaltspunkte für einen Verstoß gegen
 Bestimmungen dieses Gesetzes, der nach diesem Gesetz erlassenen
 Rechtsverordnungen und des Übereinkommens vor, sind die zuständigen
 Behörden über Absatz 1 hinaus befugt,
 
-1.  die im Einzelfall zur Feststellung des Verstoßes erforderlichen und
-    angemessenen Aufklärungsmaßnahmen gegenüber den in § 6 Absatz 4
+1.  die im Einzelfall zur Feststellung des Verstoßes erforderlichen
+    und angemessenen Aufklärungsmaßnahmen gegenüber den in § 6 Absatz 4
     genannten Personen zu treffen,
 
-
-2.  gegenüber den in § 6 Absatz 4 genannten Personen die Anordnungen und
-    Maßnahmen zu treffen, die erforderlich und angemessen sind zur
+2.  gegenüber den in § 6 Absatz 4 genannten Personen die Anordnungen
+    und Maßnahmen zu treffen, die erforderlich und angemessen sind zur
     Beseitigung eines festgestellten oder zur Verhütung eines zukünftigen
     Verstoßes gegen die Bestimmungen
 
     a)  dieses Gesetzes,
 
-
     b)  der nach diesem Gesetz erlassenen Rechtsverordnungen oder
 
-
     c)  des Übereinkommens und
-
-
-
-
 
 3.  Fahrzeuge, Annahmestellen und Umschlagsanlagen zu überprüfen auf die
     Einhaltung der Bestimmungen
 
     a)  dieses Gesetzes,
 
-
     b)  der nach diesem Gesetz erlassenen Rechtsverordnungen und
-
 
     c)  des Übereinkommens.
 
-
-
-
-
-
-
-(3) Zur Abwehr dringender Gefahren für die öffentliche Sicherheit im
-Hinblick auf dieses Gesetz, die nach diesem Gesetz erlassenen
+(3) Zur Abwehr dringender Gefahren für die öffentliche Sicherheit
+im Hinblick auf dieses Gesetz, die nach diesem Gesetz erlassenen
 Rechtsverordnungen und das Übereinkommen können die zuständigen
 Behörden über die Absätze 1 und 2 hinaus auch außerhalb der üblichen
 Geschäfts- und Betriebszeiten
 
 1.  Geschäfts- und Betriebsgrundstücke,
 
-
 2.  Wohn-, Geschäfts- und Betriebsräume an Bord eines Fahrzeugs sowie
 
-
 3.  sonstige Geschäfts- und Betriebsräume
-
-
 
 der in § 6 Absatz 4 genannten Personen betreten; das Grundrecht der
 Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) wird
@@ -897,11 +704,8 @@ Behörde
 
 1.  die Weiterfahrt des betroffenen Fahrzeugs untersagen oder
 
-
 2.  den Weiterbetrieb der betroffenen Annahmestelle oder Umschlagsanlage
     untersagen,
-
-
 
 bis die erforderlichen Maßnahmen getroffen worden sind oder der
 Verstoß beseitigt worden ist. Die Pflicht aus Artikel 7.05 der Anlage
@@ -923,20 +727,14 @@ ermächtigt, durch Rechtsverordnung Folgendes festzulegen:
     zum Übereinkommen enthaltenen Ge- und Verbote im Geltungsbereich nach
     § 1 Absatz 1,
 
-
 2.  Einzelheiten
 
     a)  des einheitlichen Verfahrens zur Sammlung und Abgabe von
-        Schiffsabfällen an den Annahmestellen und des Nachweises über die
-        ordnungsgemäße Abgabe der Abfälle nach Artikel 4 Absatz 2 des
+        Schiffsabfällen an den Annahmestellen und des Nachweises über
+        die ordnungsgemäße Abgabe der Abfälle nach Artikel 4 Absatz 2 des
         Übereinkommens sowie
 
-
     b)  zu den Vorgaben der Anlage 2 zum Übereinkommen,
-
-
-
-
 
 3.  Einzelheiten zur Umsetzung des in Artikel 6 Absatz 1 des
     Übereinkommens enthaltenen Verfahrens der Finanzierung der Annahme und
@@ -946,20 +744,12 @@ ermächtigt, durch Rechtsverordnung Folgendes festzulegen:
         genannten, den Schiffsführern und Bunkerstellen obliegenden
         Verpflichtungen sowie
 
-
     b)  der Kontrolle der Gebührenerhebung und der Kosten der Annahme sowie
         der Entsorgung nach Artikel 3.04 Absatz 2 bis 7 der Anlage 2 zum
         Übereinkommen,
 
-
-
-
-
 4.  Einzelheiten der Finanzierung der Annahme und Entsorgung von sonstigen
     Schiffsbetriebsabfällen nach Artikel 7 des Übereinkommens.
-
-
-
 
 (2) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, ohne Zustimmung des Bundesrates Änderungen der Anlagen
@@ -993,13 +783,13 @@ an der Wahrnehmung mitzuwirken.
 
 ## § 20 Datenübermittlung und Datenaustausch
 
-(1) Die Dienststellen der Zollverwaltung sind berechtigt, die nach §
-30 der Abgabenordnung geschützten Verhältnisse der Betroffenen der
-innerstaatlichen Institution nach Artikel 9 des Übereinkommens
+(1) Die Dienststellen der Zollverwaltung sind berechtigt, die nach
+§ 30 der Abgabenordnung geschützten Verhältnisse der Betroffenen
+der innerstaatlichen Institution nach Artikel 9 des Übereinkommens
 mitzuteilen, soweit dies erforderlich ist, um die Erfüllung der nach
 Artikel 6 Absatz 4 des Übereinkommens genannten, den Schiffsführern
-und Bunkerstellen obliegenden Verpflichtungen sowie die Kontrolle der
-Gebührenerhebung zu überwachen. Im Falle einer elektronischen
+und Bunkerstellen obliegenden Verpflichtungen sowie die Kontrolle
+der Gebührenerhebung zu überwachen. Im Falle einer elektronischen
 Datenübermittlung ist § 87a Absatz 1 Satz 3 der Abgabenordnung zu
 beachten.
 
@@ -1009,10 +799,7 @@ Aufgaben nach dem Übereinkommen und nach diesem Gesetz dürfen
 1.  die nach § 14 Absatz 1 oder 3, auch in Verbindung mit einer
     Rechtsverordnung aufgrund des § 18 Absatz 1, zuständige Behörde und
 
-
 2.  die innerstaatliche Institution nach Artikel 9 des Übereinkommens
-
-
 
 die nach diesen Vorschriften erhobenen und gespeicherten Daten
 untereinander austauschen, wenn dies im Einzelfall jeweils für die
@@ -1024,38 +811,33 @@ spätestens jedoch nach Ablauf eines Jahres nach der Übermittlung zu
 löschen.
 
 (4) Die nach § 13 Absatz 2 gespeicherten personenbezogenen Daten
-dürfen von der Generaldirektion Wasserstraßen und Schifffahrt an die
-in den Nummern 1 bis 4 genannten Empfänger und an entsprechende
+dürfen von der Generaldirektion Wasserstraßen und Schifffahrt an
+die in den Nummern 1 bis 4 genannten Empfänger und an entsprechende
 Stellen der Unterzeichnerstaaten des Übereinkommens zu folgenden
 Zwecken übermittelt werden:
 
-1.  zum Vollzug der Bestimmungen dieses Gesetzes, der nach diesem Gesetz
-    erlassenen Rechtsverordnungen und des Übereinkommens an die
+1.  zum Vollzug der Bestimmungen dieses Gesetzes, der nach diesem
+    Gesetz erlassenen Rechtsverordnungen und des Übereinkommens an die
     Dienststellen der Wasserstraßen- und Schifffahrtsverwaltung des
     Bundes, an die nach dem Übereinkommen, nach diesem Gesetz oder nach
     Landesrecht zuständigen Behörden der Länder, an die Zolldienststellen,
     an die innerstaatliche Institution nach Artikel 9 des Übereinkommens
     sowie an die Bundeskasse,
 
-
 2.  zur Verfolgung von Straftaten, die im Zusammenhang mit dem
-    Übereinkommen stehen, oder zur Verfolgung von Ordnungswidrigkeiten in
-    Bezug auf das Übereinkommen an Gerichte, an Staatsanwaltschaften, an
-    Dienststellen der Wasserstraßen- und Schifffahrtsverwaltung des Bundes
-    und an nach dem Übereinkommen und nach diesem Gesetz zuständige
+    Übereinkommen stehen, oder zur Verfolgung von Ordnungswidrigkeiten
+    in Bezug auf das Übereinkommen an Gerichte, an Staatsanwaltschaften,
+    an Dienststellen der Wasserstraßen- und Schifffahrtsverwaltung des
+    Bundes und an nach dem Übereinkommen und nach diesem Gesetz zuständige
     Behörden der Länder,
-
 
 3.  zur Vollstreckung von Bußgeldbescheiden oder von Anordnungen der
     Einziehung des Wertes von Taterträgen im Sinne des § 29a des Gesetzes
     über Ordnungswidrigkeiten an Gerichte, an Staatsanwaltschaften und an
     Hauptzollämter oder
 
-
 4.  zur statistischen Auswertung von Schiffsunfällen an Dienststellen der
     Wasserstraßen- und Schifffahrtsverwaltung des Bundes,
-
-
 
 soweit dies im Einzelfall zur Erfüllung der in den Nummern 1 bis 4
 genannten Aufgaben jeweils erforderlich ist.
@@ -1065,22 +847,18 @@ dürfen von der Generaldirektion Wasserstraßen und Schifffahrt auch
 übermittelt werden, wenn der Empfänger unter Angabe der Personalien
 des Betroffenen schriftlich glaubhaft darlegt, dass
 
-1.  er die Daten zur Geltendmachung, Sicherung oder Vollstreckung oder zur
-    Befriedigung oder Abwehr von Rechtsansprüchen im Zusammenhang mit dem
-    Übereinkommen oder zur Erhebung einer Privatklage wegen im Rahmen des
-    Übereinkommens begangener Ordnungswidrigkeiten oder Straftaten
+1.  er die Daten zur Geltendmachung, Sicherung oder Vollstreckung oder
+    zur Befriedigung oder Abwehr von Rechtsansprüchen im Zusammenhang mit
+    dem Übereinkommen oder zur Erhebung einer Privatklage wegen im Rahmen
+    des Übereinkommens begangener Ordnungswidrigkeiten oder Straftaten
     benötigt,
-
 
 2.  ihm ohne Kenntnis der Daten die Geltendmachung, Sicherung oder
     Vollstreckung oder die Befriedigung oder Abwehr des Rechtsanspruchs
     oder die Erhebung der Privatklage nicht möglich ist und
 
-
 3.  er die Daten auf andere Weise nicht oder nur mit unverhältnismäßigem
     Aufwand erlangen kann.
-
-
 
 Die Übermittlung ist nur zulässig, wenn der Betroffene kein
 überwiegendes schutzwürdiges Interesse an dem Ausschluss der
@@ -1102,54 +880,41 @@ Die innerstaatliche Institution nach Artikel 9 Absatz 1 des
 1.  entgegen § 2 Absatz 1, 2, 3 Satz 1, Absatz 4 oder 5 Satz 1, jeweils
     auch in Verbindung mit Absatz 6, eine Annahmestelle nicht betreibt,
 
-
 2.  entgegen § 3 Absatz 3 eine dort genannte Annahmestelle betreibt,
-
 
 3.  entgegen § 6 Absatz 1 eine Auskunft nicht, nicht richtig, nicht
     vollständig, nicht in der vorgeschriebenen Weise oder nicht
     rechtzeitig erteilt,
 
-
 4.  entgegen § 6 Absatz 2 eine Bescheinigung oder einen Nachweis nicht,
     nicht richtig, nicht vollständig oder nicht rechtzeitig vorlegt,
-
 
 5.  entgegen § 7 Satz 1 Nummer 1 Buchstabe a eine Entsorgungsgebühr nicht,
     nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise
     oder nicht rechtzeitig abbucht,
 
-
-6.  entgegen § 7 Satz 1 Nummer 1 Buchstabe b oder Nummer 2 Buchstabe a
-    eine dort genannte Ausfertigung nicht oder nicht rechtzeitig
+6.  entgegen § 7 Satz 1 Nummer 1 Buchstabe b oder Nummer 2 Buchstabe
+    a eine dort genannte Ausfertigung nicht oder nicht rechtzeitig
     aushändigt,
-
 
 7.  entgegen § 7 Satz 1 Nummer 2 Buchstabe b eine Angabe nicht, nicht
     richtig, nicht vollständig oder nicht rechtzeitig übermittelt,
 
-
 8.  entgegen § 7 Satz 1 Nummer 3 eine dort genannte Ausfertigung nicht
     oder nicht mindestens zwölf Monate aufbewahrt,
-
 
 9.  entgegen § 9 Absatz 1 eine dort genannte Tätigkeit nicht, nicht
     richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder
     nicht rechtzeitig bestätigt,
 
-
 10. entgegen § 11 Absatz 1, auch in Verbindung mit Absatz 3 Satz 1, einen
     Nachweis nicht oder nicht mindestens zwölf Monate mitführt oder
-
 
 11. einer vollziehbaren Anordnung nach § 17 Absatz 6 Satz 1
     zuwiderhandelt.
 
-
-
-
-(2) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig gegen das
-Übereinkommen vom 9. September 1996 über die Sammlung, Abgabe und
+(2) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig gegen
+das Übereinkommen vom 9. September 1996 über die Sammlung, Abgabe und
 Annahme von Abfällen in der Rhein- und Binnenschifffahrt (BGBl. 2003
 II S. 1799), das zuletzt durch die Beschlüsse vom 22. Juni 2017, 13.
 Dezember 2018 und 18. Dezember 2019 (BGBl. 2020 II S. 618) geändert
@@ -1160,13 +925,11 @@ worden ist, verstößt, indem er
     Schiffsabfälle oder Teile der Ladung in eine Wasserstraße einbringt
     oder einleitet oder Dämpfe in die Atmosphäre freisetzt,
 
-
 2.  entgegen dessen Artikel 4 Absatz 3 in Verbindung mit Artikel 2.03
     Absatz 2, Artikel 6.03 Absatz 2 bis 8, der Artikel 7.03, 7.04 und
     10\.01 Absatz 1 der Anlage 2 zum Übereinkommen, auch in Verbindung mit
     einer Rechtsverordnung nach § 18 Absatz 1 Nummer 1, Schiffsabfälle
     nicht annimmt,
-
 
 3.  gegen eine Vorschrift der Anlage 2 zum Übereinkommen verstößt, indem
     er
@@ -1176,126 +939,94 @@ worden ist, verstößt, indem er
         vorgesehenen Behältern oder Bilgenwasser in den Maschinenraumbilgen
         gesammelt werden,
 
-
     b)  entgegen deren Artikel 2.02 Absatz 2 einen dort genannten Behälter als
         Altölsammelbehälter verwendet, Abfälle an Bord verbrennt oder die dort
         genannten Reinigungsmittel in die Maschinenraumbilgen einbringt,
 
-
     c)  entgegen deren Artikel 2.03 Absatz 1 Satz 1 ein gültiges
         Ölkontrollbuch nicht an Bord hat,
 
-
-    d)  entgegen deren Artikel 2.03 Absatz 1 oder Artikel 6.03 Absatz 1 Satz 1
-        oder 2 ein Kontrollbuch oder eine Entladebescheinigung nicht oder
+    d)  entgegen deren Artikel 2.03 Absatz 1 oder Artikel 6.03 Absatz 1 Satz
+        1 oder 2 ein Kontrollbuch oder eine Entladebescheinigung nicht oder
         nicht mindestens sechs Monate aufbewahrt,
-
 
     e)  entgegen deren Artikel 3.04 Absatz 2 Satz 2 in Verbindung mit § 7 Satz
         2 eine dort genannte Kopie nicht oder nicht mindestens zwölf Monate an
         Bord aufbewahrt,
 
-
     f)  entgegen deren Artikel 6.03 Absatz 3, 4 oder 6 eine Fahrt fortsetzt,
-
 
     g)  entgegen deren Artikel 7.03 Absatz 2 Satz 1 oder Absatz 3 Satz 1,
         jeweils auch in Verbindung mit Artikel 7.08 Satz 1, nicht dafür sorgt,
         dass das Fahrzeug frei von Umschlagsrückständen bleibt,
 
-
     h)  entgegen deren Artikel 7.03 Absatz 2 Satz 2 oder Absatz 3 Satz 2,
         jeweils auch in Verbindung mit Artikel 7.08 Satz 1, nicht dafür sorgt,
         dass Umschlagsrückstände beseitigt werden,
 
-
-    i)  entgegen deren Artikel 7.04 Absatz 1 Satz 1 oder 3, jeweils auch in
-        Verbindung mit Artikel 7.08 Satz 1, nicht dafür sorgt, dass der
+    i)  entgegen deren Artikel 7.04 Absatz 1 Satz 1 oder 3, jeweils auch
+        in Verbindung mit Artikel 7.08 Satz 1, nicht dafür sorgt, dass der
         Ladetank oder Laderaum in einem dort genannten Zustand übergeben wird,
 
-
-    j)  entgegen deren Artikel 7.04 Absatz 1 Satz 2 oder 7, jeweils auch in
-        Verbindung mit Artikel 7.08 Satz 1, eine Restladung oder
+    j)  entgegen deren Artikel 7.04 Absatz 1 Satz 2 oder 7, jeweils
+        auch in Verbindung mit Artikel 7.08 Satz 1, eine Restladung oder
         Umschlagsrückstände nicht annimmt,
-
 
     k)  entgegen deren Artikel 7.04 Absatz 2 Satz 1, auch in Verbindung mit
         Artikel 7.08, nicht für einen waschreinen oder entgasten Laderaum oder
         Ladetank sorgt,
 
-
     l)  entgegen deren Artikel 7.05 Absatz 1 das Waschwasser nicht annimmt
         oder eine Annahmestelle nicht zuweist,
 
-
     m)  entgegen deren Artikel 7.05 Absatz 2 oder 2a eine Annahmestelle nicht
         zuweist,
-
 
     n)  entgegen deren Artikel 7.09 eine Bezeichnung oder eine Nummer nicht,
         nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise
         oder nicht rechtzeitig angibt,
 
-
     o)  entgegen deren Artikel 9.03 Absatz 1 Satz 1 oder Absatz 4 nicht
         sicherstellt, dass die dort genannten Abfälle oder Abwässer in einer
         dort genannten Weise gesammelt oder abgegeben werden,
 
-
     p)  entgegen deren Artikel 9.03 Absatz 2 Abfälle verbrennt,
-
 
     q)  entgegen deren Artikel 9.03 Absatz 3 nicht dafür sorgt, dass
         Klärschlamm ordnungsgemäß abgegeben wird,
 
-
     r)  entgegen Absatz 3 Satz 6 des Anhangs II der Anlage 2 zum Übereinkommen
         einen Nachweis nicht mitführt oder
 
-
     s)  entgegen Nummer 2 des Anhangs V der Anlage 2 zum Übereinkommen einen
         dort genannten Grenzwert nicht einhält.
-
-
-
-
-
-
 
 (3) Die Bußgeldvorschriften
 
 1.  des Absatzes 1 Nummer 5 bis 8 gelten auch in Verbindung mit einer
     Rechtsverordnung nach § 18 Absatz 1 Nummer 3,
 
-
 2.  des Absatzes 2 Nummer 1 und 2 gelten auch in Verbindung mit einer
     Rechtsverordnung nach § 18 Absatz 1 Nummer 2 Buchstabe a,
-
 
 3.  des Absatzes 2 Nummer 3
 
     a)  Buchstabe a, b, f bis m, o, p, q und s,
 
-
     b)  Buchstabe c, d, e, n und r
-
-
-
-
-
 
 gelten auch in Verbindung mit einer Rechtsverordnung nach § 18 Absatz
 1 Nummer 2 Buchstabe b.
 
-(4) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 1
-und 11, des Absatzes 2 Nummer 1 bis 3 Buchstabe a, b, f bis m, o, p, q
-und s und des Absatzes 3 Nummer 2 und 3 Buchstabe a mit einer Geldbuße
-bis zu fünfzigtausend Euro und in den übrigen Fällen mit einer
-Geldbuße bis zu zehntausend Euro geahndet werden.
+(4) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer
+1 und 11, des Absatzes 2 Nummer 1 bis 3 Buchstabe a, b, f bis m, o,
+p, q und s und des Absatzes 3 Nummer 2 und 3 Buchstabe a mit einer
+Geldbuße bis zu fünfzigtausend Euro und in den übrigen Fällen mit
+einer Geldbuße bis zu zehntausend Euro geahndet werden.
 
 (5) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
-Gesetzes über Ordnungswidrigkeiten ist für die Bundeswasserstraßen im
-Sinne des § 14 Absatz 5 die Generaldirektion Wasserstraßen und
+Gesetzes über Ordnungswidrigkeiten ist für die Bundeswasserstraßen
+im Sinne des § 14 Absatz 5 die Generaldirektion Wasserstraßen und
 Schifffahrt.
 
 
@@ -1307,8 +1038,8 @@ Nummer 2 Buchstabe b sind gemäß den Übergangsbestimmungen nach Artikel
 
 (2) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, ohne Zustimmung des Bundesrates Übergangsbestimmungen
-durch Rechtsverordnungen zu erlassen, die sich aufgrund von Änderungen
-der Anlagen zum Übereinkommen nach Artikel 19 Absatz 5 des
+durch Rechtsverordnungen zu erlassen, die sich aufgrund von
+Änderungen der Anlagen zum Übereinkommen nach Artikel 19 Absatz 5 des
 Übereinkommens ergeben.
 
 
@@ -1324,46 +1055,28 @@ Genehmigungsurkunde zum Beschluss CDNI 2017-I-4 beim Verwahrer des
     a)  § 2 Absatz 1 Satz 1 Nummer 1 Buchstabe b und Nummer 2 Buchstabe b in
         Verbindung mit Satz 3, Absatz 6, 7 und 9,
 
-
     b)  § 3 Absatz 1 Nummer 1,
-
 
     c)  § 4 Absatz 2 Nummer 2, Absatz 5 Satz 1 Nummer 1 und Satz 3,
 
-
     d)  § 5,
-
 
     e)  § 12,
 
-
     f)  § 20 und
 
-
     g)  § 22 Absatz 1 Nummer 1, Absatz 2 Nummer 1 und 2,
-
-
-
-
 
 2.  in Bezug auf die Bestimmungen zum Entgasen
 
     a)  § 9 Absatz 1 Nummer 3 in Verbindung mit Absatz 2 Nummer 2 Buchstabe b
         und Nummer 3 Buchstabe b,
 
-
     b)  § 10,
-
 
     c)  § 20 und
 
-
     d)  § 22 Absatz 2 Nummer 3 Buchstabe k.
-
-
-
-
-
 
 Das Bundesministerium für Verkehr und digitale Infrastruktur gibt den
 Tag der Hinterlegung im Bundesgesetzblatt bekannt. Bis dahin ist das

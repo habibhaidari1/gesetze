@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl I: 1994, 1406 (2103)
 
 
-
 ## Art 1 Gesetz zur Förderung von Frauen und der Vereinbarkeit von Familie und Beruf in der Bundesverwaltung und den Gerichten des Bundes (Frauenfördergesetz - FFG)
 
 -
@@ -41,18 +40,14 @@ Fundstelle
 
 Für die Artikel 7 und 8 gilt folgende Übergangsregelung:
 
-1.  In Fällen, in denen der Arbeitgeber vor dem 1. September 1994 gegen
-    das Benachteiligungsverbot des § 611a Abs. 1 des Bürgerlichen
+1.  In Fällen, in denen der Arbeitgeber vor dem 1. September 1994
+    gegen das Benachteiligungsverbot des § 611a Abs. 1 des Bürgerlichen
     Gesetzbuchs verstoßen hat, ist § 61b des Arbeitsgerichtsgesetzes nicht
     anzuwenden.
-
 
 2.  Bei der Berechnung der in § 611a Abs. 4 des Bürgerlichen Gesetzbuchs
     bestimmten Frist bleiben Zeiten vor dem 1. September 1994 außer
     Betracht.
-
-
-
 
 
 ## Art 13 Inkrafttreten

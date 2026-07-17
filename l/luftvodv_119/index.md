@@ -1,6 +1,5 @@
 ---
-Title: Einhundertneunzehnte Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung
-  von Flugverfahren für Flüge nach Sichtflugregeln zum und vom Verkehrsflughafen Lübeck-Blankensee)
+Title: Einhundertneunzehnte Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für Flüge nach Sichtflugregeln zum und vom Verkehrsflughafen Lübeck-Blankensee)
 jurabk: LuftVODV 119
 layout: default
 origslug: luftvodv_119
@@ -15,4 +14,7 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BAnz: 1992, Nr 222, 8911
+
+Fundstelle
+:   BAnz: 1992, 8911
 

@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zur Änderung von Kostenermächtigungen, sozialversicherungsrechtlichen
-  und anderen Vorschriften
+Title: Gesetz zur Änderung von Kostenermächtigungen, sozialversicherungsrechtlichen und anderen Vorschriften
 jurabk: KostErmÄndG
 layout: default
 origslug: kosterm_ndg
@@ -17,7 +16,6 @@ Fundstelle
 :   BGBl I: 1970, 805
 
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
@@ -25,7 +23,6 @@ beschlossen:
 
 
 ## 1. Abschnitt - Geschäftsbereich des Bundesministers des Innern
-
 
 
 ### Art 1 Reichs- und Staatsangehörigkeitsgesetz
@@ -61,7 +58,6 @@ beschlossen:
 ## 2. Abschnitt - Geschäftsbereich des Bundesministers der Justiz
 
 
-
 ### Art 7 Gesetz zu dem Haager Übereinkommen zur Befreiung ausländischer öffentlicher Urkunden von der Legalisation
 
 -
@@ -80,14 +76,12 @@ beschlossen:
 ## 3. Abschnitt - Geschäftsbereich des Bundesministers der Justiz und des Bundesministers für Arbeit und Sozialordnung
 
 
-
 ### Art 10 Justizverwaltungskostenordnung und sozialversicherungsrechtliche Bestimmungen
 
 -
 
 
 ## 4. Abschnitt - Geschäftsbereich des Bundesministers der Finanzen
-
 
 
 ### Art 11 Gesetz über die Kosten der Zwangsvollstreckung nach der Reichsabgabenordnung
@@ -103,7 +97,6 @@ beschlossen:
 ## 5. Abschnitt - Geschäftsbereich des Bundesministers für Wirtschaft
 
 
-
 ### Art 13 Gewerbeordnung
 
 -
@@ -117,7 +110,6 @@ beschlossen:
 ## 6. Abschnitt - Geschäftsbereich des Bundesministers für Ernährung, Landwirtschaft und Forsten
 
 
-
 ### Art 15 Getreidegesetz
 
 -
@@ -129,7 +121,6 @@ beschlossen:
 
 
 ## 7. Abschnitt - Geschäftsbereich des Bundesministers für Jugend, Familie und Gesundheit
-
 
 
 ### Art 17 Fleischbeschaugesetz
@@ -153,7 +144,6 @@ beschlossen:
 
 
 ## 8. Abschnitt - Geschäftsbereich des Bundesministers für Verkehr
-
 
 
 ### Art 21 Flaggenrechtsgesetz
@@ -204,7 +194,6 @@ beschlossen:
 ## 9. Abschnitt - Geschäftsbereich des Bundesministers für Städtebau und Wohnungswesen
 
 
-
 ### Art 30 Bundesbaugesetz
 
 -
@@ -213,14 +202,12 @@ beschlossen:
 ## 10. Abschnitt - Geschäftsbereich des Bundesministers für Bildung und Wissenschaft
 
 
-
 ### Art 31 Atomgesetz
 
 -
 
 
 ## 11. Abschnitt - Schluß- und Übergangsbestimmungen
-
 
 
 ### Art 32 Rechtsverordnungen

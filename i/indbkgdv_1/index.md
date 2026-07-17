@@ -1,6 +1,5 @@
 ---
-Title: Erste Durchführungsverordnung zum Gesetz über die Abwicklung der Aufbringungsumlage
-  und die Neugestaltung der Bank für deutsche Industrieobligationen
+Title: Erste Durchführungsverordnung zum Gesetz über die Abwicklung der Aufbringungsumlage und die Neugestaltung der Bank für deutsche Industrieobligationen
 jurabk: IndBkGDV 1
 layout: default
 origslug: indbkgdv_1
@@ -36,8 +35,7 @@ Zustimmung des Reichsrats:
 
 ## § 2
 
-Die
-Bank für deutsche Industrieobligationen              ist im Verkehr
+Die *Bank für deutsche Industrieobligationen* ist im Verkehr
 mit den Grundbuchämtern und Registerbehörden von allen Gebühren,
 Stempelabgaben und sonstigen Kosten befreit.
 
@@ -73,11 +71,10 @@ verwerten.
 
 ## § 6
 
-Die Vorschriften der §§ 4 und
-5              gelten entsprechend für die bei der Durchführung der in
-§ 7 Abs. 1 des Industriebankgesetzes genannten Aufgaben erlangten
-Kenntnisse von Verhältnissen der Kreditnehmer und für die
-Verpflichtung zur Geheimhaltung dieser Verhältnisse, mit der Maßgabe,
-daß die Strafverfolgung nur auf Antrag des Vorstandes der
-Bank für deutsche Industrieobligationen              eintritt.
+Die Vorschriften der §§ 4 und *5* gelten entsprechend für die bei der
+Durchführung der in § 7 Abs. 1 des Industriebankgesetzes genannten
+Aufgaben erlangten Kenntnisse von Verhältnissen der Kreditnehmer und
+für die Verpflichtung zur Geheimhaltung dieser Verhältnisse, mit der
+Maßgabe, daß die Strafverfolgung nur auf Antrag des Vorstandes der
+*Bank für deutsche Industrieobligationen* eintritt.
 

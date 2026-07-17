@@ -1,7 +1,5 @@
 ---
-Title: Verordnung über die Erstattung von notwendigen Auslagen, Verdienstausfall und
-  Vertretungskosten der Wehrpflichtigen und Dienstleistungspflichtigen im Rahmen der
-  Wehrüberwachung und Dienstleistungsüberwachung
+Title: Verordnung über die Erstattung von notwendigen Auslagen, Verdienstausfall und Vertretungskosten der Wehrpflichtigen und Dienstleistungspflichtigen im Rahmen der Wehrüberwachung und Dienstleistungsüberwachung
 jurabk: WDErstattV
 layout: default
 origslug: wderstattv
@@ -18,7 +16,6 @@ Fundstelle
 :   BGBl I: 2005, 1621
 
 
-
 ## Eingangsformel
 
 Auf Grund des § 19 Abs. 5 Satz 6 und des § 50 Abs. 1 Nr. 4 des
@@ -32,9 +29,9 @@ Wehrpflichtgesetzes in der Fassung der Bekanntmachung vom 30. Mai 2005
 
 (1) Wehrpflichtigen oder Dienstleistungspflichtigen werden auf Antrag
 die notwendigen Fahrtkosten erstattet. Notwendig sind die Fahrtkosten,
-die für die Benutzung regelmäßig verkehrender Beförderungsmittel der
-niedrigsten Beförderungsklasse zwischen der Wohnung und dem Ort, an
-dem die Wehrpflichtigen oder Dienstleistungspflichtigen sich
+die für die Benutzung regelmäßig verkehrender Beförderungsmittel
+der niedrigsten Beförderungsklasse zwischen der Wohnung und dem
+Ort, an dem die Wehrpflichtigen oder Dienstleistungspflichtigen sich
 einzufinden haben, tatsächlich entstehen. Reisen die Wehrpflichtigen
 oder Dienstleistungspflichtigen von einem anderen Ort als dem Wohnort
 an oder dorthin zurück, werden hierdurch entstehende Mehrkosten nur
@@ -83,9 +80,9 @@ ersichtlich sind.
 
 (2) Wehrpflichtige, die nicht Arbeitnehmer sind, oder
 Dienstleistungspflichtige, die nicht Arbeitnehmerinnen oder
-Arbeitnehmer sind, erhalten die notwendigen Vertretungskosten nur
-erstattet, soweit sie nachgewiesen werden und die Vertretung die
-beruflichen Aufgaben der Wehrpflichtigen oder
+Arbeitnehmer sind, erhalten die notwendigen Vertretungskosten
+nur erstattet, soweit sie nachgewiesen werden und die
+Vertretung die beruflichen Aufgaben der Wehrpflichtigen oder
 Dienstleistungspflichtigen in vollem Umfang wahrnehmen kann.
 Erstattungsfähig ist die angemessene und in gleich oder ähnlich
 gelagerten Fällen übliche Vergütung.

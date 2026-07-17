@@ -1,6 +1,5 @@
 ---
-Title: Verordnung zur Ausführung des deutsch-griechischen Abkommens über die gegenseitige
-  Rechtshilfe in Angelegenheiten des bürgerlichen und Handels-Rechts
+Title: Verordnung zur Ausführung des deutsch-griechischen Abkommens über die gegenseitige Rechtshilfe in Angelegenheiten des bürgerlichen und Handels-Rechts
 jurabk: RHiGRCAbkAV
 layout: default
 origslug: rhigrcabkav
@@ -22,16 +21,15 @@ Zuletzt geändert durch
 
 ## Eingangsformel
 
-Auf Grund des Artikels 4 Satz 2 des Gesetzes zur Behebung der Not von
-Volk und Reich vom 24. März 1933 (Reichsgesetzbl. 1933 I S. 141; 1939
-I S. 95) wird zur Ausführung des deutsch-griechischen Abkommens über
-die gegenseitige Rechtshilfe in Angelegenheiten des bürgerlichen und
-Handels-Rechts vom 11. Mai 1938 (Reichsgesetzbl. 1939 II S. 849)
+Auf Grund des Artikels 4 Satz 2 des Gesetzes zur Behebung der Not
+von Volk und Reich vom 24. März 1933 (Reichsgesetzbl. 1933 I S. 141;
+1939 I S. 95) wird zur Ausführung des deutsch-griechischen Abkommens
+über die gegenseitige Rechtshilfe in Angelegenheiten des bürgerlichen
+und Handels-Rechts vom 11. Mai 1938 (Reichsgesetzbl. 1939 II S. 849)
 folgendes verordnet:
 
 
 ## Art 1 - Zustellungsanträge und Rechtshilfeersuchen
-
 
 
 ### § 1
@@ -49,13 +47,12 @@ Bezirk die Amtshandlung vorgenommen werden soll.
 ### § 3
 
 Die für die Erhebung von Auslagen geltenden bundes- und
-landesrechtlichen Vorschriften finden auf die gemäß Artikel 25 Abs. 1
-Sätze 2 und 3 des Abkommens von der ersuchten griechischen Behörde
+landesrechtlichen Vorschriften finden auf die gemäß Artikel 25 Abs.
+1 Sätze 2 und 3 des Abkommens von der ersuchten griechischen Behörde
 mitgeteilten Auslagen entsprechende Anwendung.
 
 
 ## Art 2 - Vollstreckbarerklärung von Kostenentscheidungen
-
 
 
 ### § 4
@@ -85,8 +82,8 @@ Amts wegen zuzustellen.
 ### § 6
 
 (1) Beschlüsse, durch die der Antrag auf Vollstreckbarerklärung
-abgelehnt wird, unterliegen der Beschwerde nach den §§ 567 bis 577 der
-Zivilprozessordnung. Die Beschwerde steht, sofern der Antrag auf
+abgelehnt wird, unterliegen der Beschwerde nach den §§ 567 bis 577
+der Zivilprozessordnung. Die Beschwerde steht, sofern der Antrag auf
 diplomatischem Wege gestellt ist, dem Staatsanwalt, sofern er durch
 die beteiligte Partei unmittelbar gestellt ist, dem Antragsteller zu.
 
@@ -110,8 +107,8 @@ der Vollstreckbarerklärung in Griechenland zu erlassen sind, ist das
 Gericht der Instanz zuständig. Die Entscheidungen ergehen auf Antrag
 der für die Beitreibung der Gerichtskosten zuständigen Behörde.
 
-(2) Die Entscheidungen unterliegen der Beschwerde nach den §§ 567 bis
-577 der Zivilprozessordnung. Die sofortige Beschwerde kann durch
+(2) Die Entscheidungen unterliegen der Beschwerde nach den §§ 567
+bis 577 der Zivilprozessordnung. Die sofortige Beschwerde kann durch
 Erklärung zu Protokoll der Geschäftsstelle oder schriftlich ohne
 Mitwirkung eines Rechtsanwalts eingelegt werden.
 

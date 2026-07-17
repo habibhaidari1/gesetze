@@ -1,6 +1,5 @@
 ---
-Title: Vierte Verordnung zur Änderung der Verordnung über die Gewährung von Jubiläumszuwendungen
-  an Beamte und Richter des Bundes
+Title: Vierte Verordnung zur Änderung der Verordnung über die Gewährung von Jubiläumszuwendungen an Beamte und Richter des Bundes
 jurabk: JubVÄndV 4
 layout: default
 origslug: jubv_ndv_4
@@ -18,7 +17,6 @@ Fundstelle
 
 Geändert durch
 :   Art. 15 Abs. 20 G v. 5.2.2009 I 160
-
 
 
 ## Eingangsformel

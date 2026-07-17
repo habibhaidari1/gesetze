@@ -15,12 +15,14 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1996, 980
 
+Geändert durch
+:   Art. 2 G v. 13.11.2023 I Nr. 310
 
 
 ## § 1 Anwendungsbereich
 
-(1) Mauer- und Grenzgrundstücke sind Grundstücke, die in den in § 8
-des Gesetzes über die Staatsgrenze der Deutschen Demokratischen
+(1) Mauer- und Grenzgrundstücke sind Grundstücke, die in den in §
+8 des Gesetzes über die Staatsgrenze der Deutschen Demokratischen
 Republik vom 25. März 1982 (GBl. I Nr. 11 S. 197) bezeichneten
 Grenzgebieten liegen und die für Zwecke der Errichtung oder des
 Ausbaus von Sperranlagen an der ehemaligen Grenze zwischen der
@@ -33,8 +35,8 @@ mittelbar oder unmittelbar im Eigentum des Bundes stehen.
 
 (3) Dieses Gesetz gilt nicht für Grundstücke, an denen
 Rückübertragungs- oder Entschädigungsansprüche nach dem
-Vermögensgesetz bestehen. Bis zur bestandskräftigen Entscheidung über
-den vermögensrechtlichen Anspruch wird das Verfahren nach diesem
+Vermögensgesetz bestehen. Bis zur bestandskräftigen Entscheidung
+über den vermögensrechtlichen Anspruch wird das Verfahren nach diesem
 Gesetz ausgesetzt.
 
 (4) § 349 des Lastenausgleichsgesetzes findet keine Anwendung.
@@ -57,8 +59,8 @@ geleistet werden, soweit sie ausnahmsweise vom Bund zu tragen sind.
 Erstattungen zuviel gezahlter Beträge dürfen von den Einnahmen
 abgesetzt werden.
 
-(3) Der Erwerb nach Absatz 1 ist von der Grunderwerbsteuer befreit. Er
-ist nicht als Anschaffung im Sinne des § 23 des
+(3) Der Erwerb nach Absatz 1 ist von der Grunderwerbsteuer
+befreit. Er ist nicht als Anschaffung im Sinne des § 23 des
 Einkommensteuergesetzes zu behandeln.
 
 
@@ -67,27 +69,27 @@ Einkommensteuergesetzes zu behandeln.
 (1) Will der Bund ein Grundstück für dringende eigene öffentliche
 Zwecke verwenden oder im öffentlichen Interesse an Dritte veräußern,
 lehnt er den Erwerbsantrag ab. Die Ablehnung erfolgt durch Bescheid.
-Der Berechtigte hat in diesen Fällen einen Anspruch auf Zahlung von 75
-vom Hundert des Verkehrswerts des Grundstücks zum Zeitpunkt des
+Der Berechtigte hat in diesen Fällen einen Anspruch auf Zahlung von
+75 vom Hundert des Verkehrswerts des Grundstücks zum Zeitpunkt des
 Erlasses des Bescheides nach Satz 2. Sind ehemals bundeseigene Mauer-
 und Grenzgrundstücke nach dem 15. Februar 1992 und vor Inkrafttreten
 dieses Gesetzes an Dritte veräußert worden, hat der Berechtigte einen
-Anspruch auf Zahlung von 75 vom Hundert des Veräußerungserlöses. Ein
-entsprechender Anspruch kann Berechtigten in den Fällen einer
+Anspruch auf Zahlung von 75 vom Hundert des Veräußerungserlöses.
+Ein entsprechender Anspruch kann Berechtigten in den Fällen einer
 Veräußerung zwischen dem 3. Oktober 1990 und dem 15. Februar 1992
 eingeräumt werden, wenn anderenfalls in der Person des Berechtigten
 eine besondere Härte eintreten würde.
 
 (2) Ist das Eigentum an einem bundeseigenen Mauer- oder
-Grenzgrundstück nach dem 15. Februar 1992 und vor Inkrafttreten dieses
-Gesetzes in einem Verfahren nach dem Flurbereinigungsgesetz oder in
-einem Verfahren zur Feststellung und Neuordnung der
-Eigentumsverhältnisse nach dem Achten Abschnitt des
+Grenzgrundstück nach dem 15. Februar 1992 und vor Inkrafttreten
+dieses Gesetzes in einem Verfahren nach dem Flurbereinigungsgesetz
+oder in einem Verfahren zur Feststellung und Neuordnung
+der Eigentumsverhältnisse nach dem Achten Abschnitt des
 Landwirtschaftsanpassungsgesetzes auf einen Dritten übergegangen,
-erstrecken sich die Ansprüche des Berechtigten auf Zahlung von 75 vom
-Hundert einer für das Grundstück erhaltenen Geldleistung. Absatz 1
-Satz 5 gilt entsprechend. Wurde für das Mauer- und Grenzgrundstück ein
-anderes Grundstück gewährt, bezieht sich das Erwerbsrecht des
+erstrecken sich die Ansprüche des Berechtigten auf Zahlung von 75
+vom Hundert einer für das Grundstück erhaltenen Geldleistung. Absatz
+1 Satz 5 gilt entsprechend. Wurde für das Mauer- und Grenzgrundstück
+ein anderes Grundstück gewährt, bezieht sich das Erwerbsrecht des
 Berechtigten aus § 2 Abs. 1 auf dieses Grundstück.
 
 (3) Die Ausgaben nach den Absätzen 1 und 2 sind aus den Einnahmen aus
@@ -96,32 +98,43 @@ der Veräußerung von Mauer- und Grenzgrundstücken zu leisten.
 
 ## § 4 Antragsfrist
 
-Anträge auf Rückerwerb müssen bis zum Ablauf des 31. Januar 1997 bei
-der Oberfinanzdirektion gestellt werden, in deren Bezirk der
+Anträge auf Rückerwerb müssen bis zum Ablauf des 31. Januar 1997
+bei der Oberfinanzdirektion gestellt werden, in deren Bezirk der
 Vermögenswert belegen ist.
 
 
 ## § 5 Fonds
 
-(1) Es wird ein Fonds zur Förderung von wirtschaftlichen, sozialen und
-kulturellen Zwecken in dem in Artikel 3 des Einigungsvertrages
-genannten Gebiet errichtet. Dem Fonds stehen die Einnahmen aus der
-Veräußerung der Mauer- und Grenzgrundstücke abzüglich der auf Grund
-dieses Gesetzes erfolgenden Leistungen an Berechtigte und der
-Nebenkosten nach § 2 Abs. 2 zu.
+(1) Der mit diesem Gesetz in der bis zum 31. Dezember 2023 geltenden
+Fassung errichtete Fonds zur Förderung von wirtschaftlichen, sozialen
+und kulturellen Zwecken in dem in Artikel 3 des Einigungsvertrages
+genannten Gebiet wird zum 31. Januar 2024 aufgelöst. Der Bund tritt
+in die Rechte und Pflichten des Fonds ein. Ein zum Zeitpunkt der
+Auflösung bestehendes Vermögen dieses Fonds fließt mit der Auflösung
+des Fonds dem Bundeshaushalt zu. Ein Betrag in Höhe des nach Satz 3
+dem Bundeshaushalt zugeführten Fondsvermögens ist bei den gemäß Absatz
+2 zu verwendenden Mitteln zu berücksichtigen.
 
-(2) Die Ausgaben des Fonds sind gesperrt; die Aufhebung der Sperre
-bedarf der Einwilligung des Haushaltsausschusses des Deutschen
-Bundestages. Dabei ist zu gewährleisten, daß die Mittel des Fonds
+(2) Die Einnahmen aus der Veräußerung der Mauer- und Grenzgrundstücke
+abzüglich der auf Grund dieses Gesetzes erfolgenden Leistungen an
+Berechtigte und der Nebenkosten nach § 2 Absatz 2 sind zur Förderung
+von wirtschaftlichen, sozialen und kulturellen Zwecken in dem in
+Artikel 3 des Einigungsvertrages genannten Gebiet zu verwenden.
+
+(3) Der Teil der Mittel, der zur Förderung von wirtschaftlichen,
+sozialen und kulturellen Zwecken zu verwenden ist, ist gesperrt. Die
+Aufhebung der Sperre bedarf der Einwilligung des Haushaltsausschusses
+des Deutschen Bundestages. Dabei ist zu gewährleisten, dass die Mittel
 nicht zur Erfüllung von rechtlichen Verpflichtungen eingesetzt werden.
 
 
 ## § 6 Rechtsverordnungsermächtigung
 
 Das Bundesministerium der Finanzen wird ermächtigt, durch
-Rechtsverordnung ohne Zustimmung des Bundesrates die Einzelheiten des
-Fonds, seiner Verwaltung sowie der Zahlungsmodalitäten nach § 3 zu
-regeln.
+Rechtsverordnung ohne Zustimmung des Bundesrates die Einzelheiten
+der Auflösung des Fonds, der Verwaltung der Mittel zur Förderung von
+wirtschaftlichen, sozialen und kulturellen Zwecken gemäß § 5 Absatz 2
+sowie der Zahlungsmodalitäten nach § 3 zu regeln.
 
 
 ## § 7 Rechtsweg

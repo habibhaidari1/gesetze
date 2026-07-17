@@ -1,8 +1,5 @@
 ---
-Title: Gesetz zu dem Vertrag vom 12. September 2000 zwischen der Bundesrepublik Deutschland
-  und der Tschechischen Republik über den Zusammenschluss der deutschen Autobahn A
-  17 und der tschechischen Autobahn D 8 an der gemeinsamen Staatsgrenze durch Errichtung
-  einer Grenzbrücke
+Title: Gesetz zu dem Vertrag vom 12. September 2000 zwischen der Bundesrepublik Deutschland und der Tschechischen Republik über den Zusammenschluss der deutschen Autobahn A 17 und der tschechischen Autobahn D 8 an der gemeinsamen Staatsgrenze durch Errichtung einer Grenzbrücke
 jurabk: GrBrückVtr2000CZEG
 layout: default
 origslug: grbr_ckvtr2000czeg
@@ -19,7 +16,6 @@ Fundstelle
 :   BGBl II: 2002, 2344
 
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
@@ -29,10 +25,10 @@ beschlossen:
 ## Art 1
 
 Dem in Berlin am 12. September 2000 unterzeichneten Vertrag zwischen
-der Bundesrepublik Deutschland und der Tschechischen Republik über den
-Zusammenschluss der deutschen Autobahn A 17 und der tschechischen
-Autobahn D 8 an der gemeinsamen Staatsgrenze durch Errichtung einer
-Grenzbrücke wird zugestimmt. Der Vertrag wird nachstehend
+der Bundesrepublik Deutschland und der Tschechischen Republik über
+den Zusammenschluss der deutschen Autobahn A 17 und der tschechischen
+Autobahn D 8 an der gemeinsamen Staatsgrenze durch Errichtung
+einer Grenzbrücke wird zugestimmt. Der Vertrag wird nachstehend
 veröffentlicht.
 
 

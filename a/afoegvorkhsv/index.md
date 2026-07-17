@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Ausbildungsförderung für die Teilnahme an Vorkursen zur
-  Vorbereitung des Besuchs von Kollegs und Hochschulen
+Title: Verordnung über die Ausbildungsförderung für die Teilnahme an Vorkursen zur Vorbereitung des Besuchs von Kollegs und Hochschulen
 jurabk: AfögVorkHSV
 layout: default
 origslug: af_gvorkhsv
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 1971, 1542
-
 
 
 ## Eingangsformel
@@ -35,10 +33,7 @@ sechs Monaten, die die Zulassung
 
 1.  zu einem Kolleg oder
 
-
 2.  zu einer Hochschule
-
-
 
 ermöglichen oder in geeigneter Weise vorbereiten. Werden Vorkurse nach
 Nummer 2 in Volkshochschulen durchgeführt, müssen sie von den anderen
@@ -46,9 +41,9 @@ Lehrveranstaltungen organisatorisch getrennt sein.
 
 (2) Ausbildungsförderung wird nur geleistet, wenn die Ausbildung an
 einer öffentlichen oder an einer durch die zuständige Landesbehörde
-staatlich anerkannten oder genehmigten Einrichtung durchgeführt wird.
-Dasselbe gilt, wenn die zuständige Landesbehörde anerkennt, daß der
-Besuch der Einrichtung dem Besuch der in Satz 1 bezeichneten
+staatlich anerkannten oder genehmigten Einrichtung durchgeführt
+wird. Dasselbe gilt, wenn die zuständige Landesbehörde anerkennt,
+daß der Besuch der Einrichtung dem Besuch der in Satz 1 bezeichneten
 Einrichtungen gleichwertig ist.
 
 
@@ -59,20 +54,15 @@ Die Auszubildenden erhalten Ausbildungsförderung
 a)  in den in § 1 Abs. 1 Nr. 1 bezeichneten Vorkursen wie Schüler von
     Berufsaufbauschulen,
 
-
-b)  in den in § 1 Abs. 1 Nr. 2 bezeichneten Vorkursen wie Schüler von
-    Berufsaufbauschulen, soweit der Besuch der Vorkurse eine
+b)  in den in § 1 Abs. 1 Nr. 2 bezeichneten Vorkursen wie Schüler
+    von Berufsaufbauschulen, soweit der Besuch der Vorkurse eine
     abgeschlossene Berufsausbildung oder eine mehrjährige Berufstätigkeit
     voraussetzt,
-
 
 c)  in den in § 1 Abs. 1 Nr. 2 bezeichneten Vorkursen wie Schüler von
     weiterführenden allgemeinbildenden Schulen, soweit der Besuch der
     Vorkurse eine abgeschlossene Berufsausbildung oder eine mehrjährige
     Berufstätigkeit nicht voraussetzt.
-
-
-
 
 
 ## § 3 Berlin-Klausel

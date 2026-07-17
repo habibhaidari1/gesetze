@@ -19,8 +19,8 @@ Fundstelle
 ## Eingangsformel
 
 Auf Grund des § 41a Absatz 6 Satz 1 des Bundeswaldgesetzes, der
-zuletzt durch Artikel 413 der Verordnung vom 31. August 2015 (BGBl. I
-S. 1474) geändert worden ist, verordnet das Bundesministerium für
+zuletzt durch Artikel 413 der Verordnung vom 31. August 2015 (BGBl.
+I S. 1474) geändert worden ist, verordnet das Bundesministerium für
 Ernährung und Landwirtschaft:
 
 
@@ -33,32 +33,23 @@ Schadstoffbelastung der Waldböden sind zu erheben:
     die Lage der Aufnahmefläche sowie Daten über die aktuelle Bestockung
     und die Bewirtschaftung auf der Aufnahmefläche,
 
-
 2.  die Daten zur Profilaufnahme,
-
 
 3.  die Daten zur Bodenchemie auf der Grundlage einer
     tiefenstufenbezogenen Beprobung des Mineralbodens und einer Beprobung
     der Humusauflage,
 
-
 4.  die Daten zur Bodenphysik mit den Zielgrößen Feinbodenvorrat und
     Humusvorrat,
 
-
 5.  die Daten zum Ernährungszustand der Hauptbaumarten,
-
 
 6.  die Daten zur Bodenvegetation,
 
-
 7.  die Daten über den Baumbestand am Aufnahmepunkt und
-
 
 8.  die Daten zum Kronenzustand im Jahr 2022, im Jahr 2023 und im Jahr
     2024\.
-
-
 
 Einzelheiten werden in der mit den Ländern abzustimmenden
 Arbeitsanleitung geregelt.
@@ -71,13 +62,13 @@ müssen am 31. Dezember 2024 abgeschlossen sein.
 ## § 2 Stichprobenverfahren
 
 (1) Die Grunddaten werden in einem terrestrischen Stichprobenverfahren
-mit systematischer Stichprobenverteilung über das gesamte Gebiet der
-Bundesrepublik Deutschland mindestens im 8 x 8 Kilometer-Verband
+mit systematischer Stichprobenverteilung über das gesamte Gebiet
+der Bundesrepublik Deutschland mindestens im 8 x 8 Kilometer-Verband
 erhoben.
 
 (2) Bei der Erhebung der Grunddaten ist das Stichprobennetz der
-Bodenzustandserhebung im Wald 2006 bis 2008 beizubehalten und bei
-Änderungen der Waldfläche entsprechend anzupassen. Die nach
+Bodenzustandserhebung im Wald 2006 bis 2008 beizubehalten und
+bei Änderungen der Waldfläche entsprechend anzupassen. Die nach
 Landesrecht zuständige Stelle kann Verdichtungen des Stichprobennetzes
 vornehmen, soweit sie dies für erforderlich hält.
 
@@ -85,8 +76,8 @@ vornehmen, soweit sie dies für erforderlich hält.
 ## § 3 Erhebungsstandards
 
 (1) Die zuständigen Stellen des Bundes und der Länder erarbeiten
-gemeinsam eine Arbeitsanleitung für die Erhebung der Grunddaten. Es
-ist sicherzustellen, dass die Methoden und Geräte, die bei der
+gemeinsam eine Arbeitsanleitung für die Erhebung der Grunddaten.
+Es ist sicherzustellen, dass die Methoden und Geräte, die bei der
 Erhebung zum Einsatz kommen, zu vergleichbaren Ergebnissen führen und
 die Vergleichbarkeit mit den Ergebnissen der Bodenzustandserhebung im
 Wald 2006 bis 2008 gewährleistet ist. Zulässig sind Erhebungsmethoden
@@ -127,8 +118,8 @@ bundeseinheitlich festgelegten Format.
 
 ## § 6 Bundesprobenbank
 
-Der Bund unterhält eine Bundesprobenbank zur langfristigen Lagerung
-von Referenzproben von allen Aufnahmeflächen der
+Der Bund unterhält eine Bundesprobenbank zur langfristigen
+Lagerung von Referenzproben von allen Aufnahmeflächen der
 Bodenzustandserhebung. Die Länder stellen der Bundesprobenbank nach
 jeder Probennahme entsprechendes Probenmaterial zur Verfügung.
 

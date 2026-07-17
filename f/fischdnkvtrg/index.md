@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zu dem Abkommen vom 29. Mai 1958 zwischen der Bundesrepublik Deutschland
-  und dem Königreich Dänemark über die gemeinsame Fischerei in der Flensburger Innenförde
+Title: Gesetz zu dem Abkommen vom 29. Mai 1958 zwischen der Bundesrepublik Deutschland und dem Königreich Dänemark über die gemeinsame Fischerei in der Flensburger Innenförde
 jurabk: FischDNKVtrG
 layout: default
 origslug: fischdnkvtrg
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl II: 1959, 1072
-
 
 
 ## Art 1

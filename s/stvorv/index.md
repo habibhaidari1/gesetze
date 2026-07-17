@@ -1,6 +1,5 @@
 ---
-Title: Verordnung zur Durchführung des Stellenvorbehalts nach § 10 Abs. 4 Satz 7 des
-  Soldatenversorgungsgesetzes
+Title: Stellenvorbehaltsverordnung
 jurabk: StVorV
 layout: default
 origslug: stvorv
@@ -8,7 +7,7 @@ slug: stvorv
 
 ---
 
-# Verordnung zur Durchführung des Stellenvorbehalts nach § 10 Abs. 4 Satz 7 des Soldatenversorgungsgesetzes (StVorV)
+# Stellenvorbehaltsverordnung (StVorV)
 
 Ausfertigungsdatum
 :   1999-08-24
@@ -16,13 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1999, 1906
 
-Stand: Zukünftige amtl. Langüberschrift: Stellenvorbehaltsverordnung (ab 1.1.2025; 2021 I 3932)
 Zuletzt geändert durch
 :   Art. 16 G v. 20.8.2021 I 3932
-
-[^BJNR106610014_01_BJNR190600999]:     Nichtamtlicher Hinweis: Die Überschrift wird gem. Art. 16 Nr. 1 G v.
-    20\.8.2021 I 3932 mWv 1.1.2025 wie folgt gefasst:
-    **Stellenvorbehaltsverordnung (StVorV)**
 
 
 ## Eingangsformel
@@ -36,11 +30,10 @@ Bundesministerium der Verteidigung:
 ## Abschnitt 1 - Berechnung und Bestimmung der vorbehaltenen Stellen
 
 
-
 ### § 1 Zuständigkeit
 
-Für die Berechnung und Bestimmung der nach § 10 Abs. 1 und 2 des
-Gesetzes den Inhabern eines Eingliederungsscheins, eines
+Für die Berechnung und Bestimmung der nach 14 Abs. 1 und 2
+des Gesetzes den Inhabern eines Eingliederungsscheins, eines
 Zulassungsscheins oder einer Bestätigung über den bei Ablauf der
 Verpflichtungszeit bestehenden Anspruch (Eingliederungsberechtigte)
 vorzubehaltenden Stellen sind zuständig
@@ -50,28 +43,18 @@ vorzubehaltenden Stellen sind zuständig
     a)  die obersten Bundesbehörden für ihren Geschäftsbereich oder eine von
         der obersten Bundesbehörde bestimmte Behörde,
 
-
     b)  die bundesunmittelbaren Körperschaften sowie die rechtsfähigen
         Anstalten und Stiftungen des öffentlichen Rechts für ihren Bereich,
-
 
     c)  das Bundesamt für Soziale Sicherung für die seiner Aufsicht
         unterstehenden Körperschaften und Anstalten des öffentlichen Rechts,
 
-
     d)  der Präsident des Bundeseisenbahnvermögens für seinen Bereich,
 
-
-
-
-
-2.  bei den Ländern und für die Gemeinden (Gemeindeverbände) sowie für die
-    der Aufsicht des Landes unterstehenden anderen Körperschaften,
+2.  bei den Ländern und für die Gemeinden (Gemeindeverbände) sowie für
+    die der Aufsicht des Landes unterstehenden anderen Körperschaften,
     Anstalten und Stiftungen des öffentlichen Rechts die von den Ländern
     bestimmten Behörden.
-
-
-
 
 
 ### § 2 Berechnung
@@ -85,18 +68,12 @@ den Vorbehalt einbezogen sind, zusammenzufassen
 
     a)  des einfachen Dienstes,
 
-
     b)  des mittleren Dienstes,
-
 
     c)  des gehobenen Dienstes,
 
-
-
-
     außer den Stellen, die mit Absolventen der Ausbildungsverhältnisse
     nach Nummer 3 besetzt werden;
-
 
 2.  die mit Angestellten zu besetzenden freien, freiwerdenden und
     neugeschaffenen Stellen, die nicht einem vorübergehenden Bedarf
@@ -104,14 +81,9 @@ den Vorbehalt einbezogen sind, zusammenzufassen
 
     a)  IX bis X, Kr. I des Bundesangestelltentarifvertrages,
 
-
     b)  V c bis VIII, Kr. II bis Kr. VI des Bundesangestelltentarifvertrages,
 
-
     c)  III bis V a/b, Kr. VII bis Kr. X des Bundesangestelltentarifvertrages,
-
-
-
 
     außer den Stellen, die mit Absolventen der Ausbildungsverhältnisse
     nach Nummer 3 besetzt werden; bei Behörden, die nicht den
@@ -120,27 +92,23 @@ den Vorbehalt einbezogen sind, zusammenzufassen
     entsprechenden Vergütungsgruppen des jeweils geltenden Tarifvertrages
     zu setzen;
 
-
 3.  vorgeschaltete Ausbildungsverhältnisse zu Nummer 1 und 2
     einschließlich der Stellen für Ausbildungsverhältnisse im
     Beamtenverhältnis auf Probe entsprechend dem Ausbildungsziel.
 
-
-
-
-(2) Absatz 1 Satz 1 Nr. 1 gilt bei der Einstellung von Angestellten,
-die bei den Trägern der Sozialversicherung für eine
+(2) Absatz 1 Satz 1 Nr. 1 gilt bei der Einstellung von
+Angestellten, die bei den Trägern der Sozialversicherung für eine
 dienstordnungsmäßige Anstellung ausgebildet werden, entsprechend.
 
-(3) Die Anzahl der vorbehaltenen Stellen ist aus den nach Absatz 1 und
-2 zusammengefassten Stellen nach § 10 Abs. 1 und 2 des Gesetzes zu
-berechnen. Hierbei sind geteilte Stellen (Teilzeitstellen)
+(3) Die Anzahl der vorbehaltenen Stellen ist aus den nach Absatz 1
+und 2 zusammengefassten Stellen nach § 14 Abs. 1 und 2 des Gesetzes
+zu berechnen. Hierbei sind geteilte Stellen (Teilzeitstellen)
 entsprechend ihrem zu besetzenden Anteil rechnerisch zu
 berücksichtigen.
 
 (4) Wird in einem Kalenderjahr keine vorbehaltene Vollzeitstelle
-errechnet, so sind die bei der Berechnung zugrunde gelegten Stellen
-jeweils in das nächste Kalenderjahr zu übertragen, bis eine
+errechnet, so sind die bei der Berechnung zugrunde gelegten
+Stellen jeweils in das nächste Kalenderjahr zu übertragen, bis eine
 vorbehaltene Vollzeitstelle errechnet wird. Satz 1 gilt entsprechend,
 wenn bei der Berechnung ein Rest von Stellen verbleibt.
 
@@ -159,27 +127,18 @@ ihren Bereich. Ihr sind folgende Angaben zuzuleiten:
 
 1.  Bezeichnung und Zahl der Stellen,
 
-
 2.  Laufbahngruppe oder Vergütungsgruppe und Tarifvertrag,
 
-
 3.  Verwaltungszweig,
-
 
 4.  Dienstherr oder Arbeitgeber sowie vorgesehener Dienst- oder
     Ausbildungsort,
 
-
 5.  Behörde, der Bewerber zugewiesen werden sollen,
-
 
 6.  Zeitpunkt der Besetzung der Stellen,
 
-
 7.  Einstellungsvoraussetzungen.
-
-
-
 
 (2) Bei der Bestimmung der vorbehaltenen Stellen sind Stellen des
 nichttechnischen Dienstes und des technischen Dienstes sowie jeweils
@@ -191,7 +150,6 @@ erfordern.
 
 
 ## Abschnitt 2 - Vormerkstellen
-
 
 
 ### § 4 Einrichtung
@@ -211,76 +169,60 @@ Den Vormerkstellen obliegen
     hinsichtlich der Laufbahn, der Einstellungsbehörde und des
     Einstellungstermins anhand der Bewerbungen (§ 6),
 
-
 2.  Prüfung der Eignung hinsichtlich der für die Einstellung geforderten
     schulischen und beruflichen Vorbildung,
-
 
 3.  Zuweisungsvorschläge an die Einstellungsbehörden zur
     Eignungsfeststellung und Auswahlentscheidung (§ 7),
 
-
 4.  Zuweisung der Bewerber nach Eignung und Neigung zur Einstellung (§ 8
     Abs. 1),
 
-
 5.  Erstellen einer jährlichen Übersicht über die Anzahl der vorbehaltenen
-    Stellen und der Einstellungen auf vorbehaltene Stellen, getrennt nach
-    Laufbahngruppen und vergleichbaren Vergütungsgruppen des
-    nichttechnischen und technischen Dienstes; die Vormerkstellen der
-    Länder übersenden diese Übersicht jeweils bis zum 31. Mai des
+    Stellen und der Einstellungen auf vorbehaltene Stellen, getrennt
+    nach Laufbahngruppen und vergleichbaren Vergütungsgruppen des
+    nichttechnischen und technischen Dienstes; die Vormerkstellen
+    der Länder übersenden diese Übersicht jeweils bis zum 31. Mai des
     Folgejahres der Vormerkstelle des Bundes,
 
-
-6.  Erstellen eines Verzeichnisses der Einstellungsbehörden, die in dem
-    Zuständigkeitsbereich der jeweiligen Vormerkstelle dem
+6.  Erstellen eines Verzeichnisses der Einstellungsbehörden, die
+    in dem Zuständigkeitsbereich der jeweiligen Vormerkstelle dem
     Stellenvorbehalt unterliegen,
-
 
 7.  Freigabe vorbehaltener Stellen für eine anderweitige Besetzung (§ 11),
 
-
 8.  Überwachen der Stellenmitteilungen (§ 3).
-
-
-
 
 
 ## Abschnitt 3 - Bewerbung
 
 
-
 ### § 6 Verfahren und Unterlagen
 
-(1) Die Eingliederungsberechtigten bewerben sich über den für sie
-zuständigen Berufsförderungsdienst der Bundeswehr bei den
-Vormerkstellen, in deren Bereich sie eine Einstellung anstreben. Der
-Berufsförderungsdienst der Bundeswehr nimmt zu der Bewerbung des
+(1) Die Eingliederungsberechtigten bewerben sich über den für
+sie zuständigen Berufsförderungsdienst der Bundeswehr bei den
+Vormerkstellen, in deren Bereich sie eine Einstellung anstreben.
+Der Berufsförderungsdienst der Bundeswehr nimmt zu der Bewerbung des
 Eingliederungsberechtigten Stellung.
 
 (2) Als Unterlagen sind einzureichen
 
 1.  der bei den Vormerkstellen erhältliche Bewerbungsbogen,
 
-
 2.  der Eingliederungsschein, der Zulassungsschein oder die Bestätigung
-    nach § 10 Abs. 4 Satz 4 des Gesetzes in Ablichtung,
-
+    nach § 14 Abs. 4 Satz 4 des Gesetzes in Ablichtung,
 
 3.  Ablichtungen der Zeugnisse über die schulische und berufliche
     Vorbildung,
 
-
 4.  ein tabellarischer Lebenslauf.
-
-
 
 Die Vormerkstellen und Einstellungsbehörden können weitere für das
 Eingliederungsverfahren erforderliche Unterlagen anfordern.
 
-(3) Der Berufsförderungsdienst der Bundeswehr wirkt darauf hin, dass
-sich die Eingliederungsberechtigten zeitgerecht bewerben. Bewerber,
-die ihre Eingliederung mit Hilfe eines Eingliederungsscheins
+(3) Der Berufsförderungsdienst der Bundeswehr wirkt darauf hin,
+dass sich die Eingliederungsberechtigten zeitgerecht bewerben.
+Bewerber, die ihre Eingliederung mit Hilfe eines Eingliederungsscheins
 anstreben, werden vom Berufsförderungsdienst aufgefordert, ihre
 Bewerbung bis zur Erteilung des Eingliederungsscheins einzureichen.
 
@@ -288,23 +230,22 @@ Bewerbung bis zur Erteilung des Eingliederungsscheins einzureichen.
 ## Abschnitt 4 - Zuweisung und Einstellung
 
 
-
 ### § 7 Zuweisungsvorschlag
 
-Kommt ein Bewerber für die angestrebte Verwendung in Betracht, so
-schlägt ihn die Vormerkstelle der Einstellungsbehörde zur
+Kommt ein Bewerber für die angestrebte Verwendung in Betracht,
+so schlägt ihn die Vormerkstelle der Einstellungsbehörde zur
 Eignungsfeststellung und Auswahl vor, sofern vorbehaltene Stellen zur
 Verfügung stehen.
 
 
 ### § 8 Zuweisung
 
-(1) Ist ein Bewerber nach dem Ergebnis der Eignungsfeststellung, bei
-der auch das Lebensalter und die Dienstzeit in der Bundeswehr
+(1) Ist ein Bewerber nach dem Ergebnis der Eignungsfeststellung,
+bei der auch das Lebensalter und die Dienstzeit in der Bundeswehr
 angemessen berücksichtigt werden sollen, für die Verwendung geeignet,
 so ist er einzustellen; sind für eine vorbehaltene Stelle mehrere
-geeignete Bewerber vorhanden, so trifft die Behörde unter diesen eine
-Auswahl. Eine Konkurrenz mit nicht eingliederungsberechtigten
+geeignete Bewerber vorhanden, so trifft die Behörde unter diesen
+eine Auswahl. Eine Konkurrenz mit nicht eingliederungsberechtigten
 Bewerbern findet nicht statt. Die Einstellungszusage ist mit einer
 Annahmefrist zu versehen.
 
@@ -313,8 +254,8 @@ vorgeschlagenen Bewerber entsprechend seinem Verwendungswunsch der
 Behörde zur Einstellung zu. Der Nachweis nach § 6 Abs. 2 Nr. 2 ist im
 Original beizufügen.
 
-(3) Tritt ein Bewerber nach Zuweisung durch die Vormerkstelle von der
-Bewerbung zurück, so haben er und die Einstellungsbehörde die
+(3) Tritt ein Bewerber nach Zuweisung durch die Vormerkstelle von
+der Bewerbung zurück, so haben er und die Einstellungsbehörde die
 Vormerkstelle unverzüglich zu unterrichten.
 
 
@@ -323,9 +264,9 @@ Vormerkstelle unverzüglich zu unterrichten.
 (1) Die Behörde unterrichtet die Vormerkstelle unverzüglich von der
 erfolgten Einstellung des Bewerbers.
 
-(2) Kann ein geeigneter Bewerber nicht eingestellt werden oder ist ein
-Bewerber nicht geeignet, so teilt die Behörde dies unverzüglich der
-zuständigen Vormerkstelle und dem Bewerber unter Angabe der Gründe
+(2) Kann ein geeigneter Bewerber nicht eingestellt werden oder ist
+ein Bewerber nicht geeignet, so teilt die Behörde dies unverzüglich
+der zuständigen Vormerkstelle und dem Bewerber unter Angabe der Gründe
 mit.
 
 (3) Kann ein Bewerber nicht entsprechend seinen Verwendungswünschen
@@ -336,15 +277,15 @@ für ihn eine anderweitige Einstellung in Betracht kommt.
 ### § 10 Ausscheiden vor Anstellung
 
 (1) Soll das Eingliederungsverfahren vor der Anstellung oder der
-Übernahme in ein unbefristetes Arbeitsverhältnis beendet werden, so
-hat die Einstellungsbehörde dies unter Angabe des Grundes der
+Übernahme in ein unbefristetes Arbeitsverhältnis beendet werden,
+so hat die Einstellungsbehörde dies unter Angabe des Grundes der
 zuständigen Vormerkstelle unverzüglich mitzuteilen.
 
 (2) Die Vormerkstelle fordert den Eingliederungsberechtigten auf, ihr
 innerhalb von zwei Wochen mitzuteilen, welche Verwendung er nunmehr
 anstrebt und prüft entsprechende Eingliederungsmöglichkeiten. Dies
 gilt nicht, wenn das Erlöschen des Rechts aus dem Eingliederungsschein
-nach § 9 Abs. 5 Nr. 5 des Soldatenversorgungsgesetzes festzustellen
+nach § 13 Abs. 5 Nr. 5 des Soldatenversorgungsgesetzes festzustellen
 ist. Eine Durchschrift der Aufforderung wird dem zuständigen
 Berufsförderungsdienst der Bundeswehr zur Unterrichtung und
 Unterstützung der weiteren Eingliederungsbemühungen zugeleitet.
@@ -363,12 +304,11 @@ anderweitige Besetzung nicht zulässig.
 ## Abschnitt 5 - Erlöschen des Rechts aus dem Eingliederungsschein
 
 
-
 ### § 12 Feststellung
 
 Das Bundesministerium der Verteidigung oder die von ihm bestimmte
 Stelle trifft im Einvernehmen mit der für die Einstellungsbehörde
-zuständigen Vormerkstelle die Feststellung nach § 9 Abs. 5 des
+zuständigen Vormerkstelle die Feststellung nach § 13 Abs. 5 des
 Soldatenversorgungsgesetzes und erteilt dem Eingliederungsberechtigten
 einen Bescheid, der zuzustellen ist. Der zuständige
 Berufsförderungsdienst der Bundeswehr erhält hierüber eine Mitteilung,
@@ -378,11 +318,10 @@ der das Original des Eingliederungsscheins beizufügen ist.
 ## Abschnitt 6 - Schlußvorschriften
 
 
-
 ### § 13 Verbleib des Eingliederungsscheins, des Zulassungsscheins oder der Bestätigung
 
 Das Original des Eingliederungsscheins, des Zulassungsscheins und in
-den Fällen des § 10 Abs. 4 Satz 4 des Gesetzes zunächst das Original
+den Fällen des § 14 Abs. 4 Satz 4 des Gesetzes zunächst das Original
 der Bestätigung über den bei Ablauf der festgesetzten Dienstzeit
 bestehenden Anspruch ist bei der Einstellung auf eine vorbehaltene
 Stelle zu der Personalakte zu nehmen. Bei einer Versetzung oder bei

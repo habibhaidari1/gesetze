@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl I: 1957, 641
 
 
-
 ## Eingangsformel
 
 Auf Grund des § 76 in Verbindung mit § 189 des Bundesbeamtengesetzes
@@ -25,11 +24,11 @@ ordne ich an:
 
 ## I.
 
-Die Amtstracht des Bundeswehrdisziplinaranwalts sowie der für in
-auftretenden Beamten, der richterlichen Mitglieder der
-Truppendienstkammern, der Wehrdisziplinaranwälte und der
-Urkundsbeamten bei den Truppendienstgerichten besteht aus einer
-Amtsrobe und einem Barett. Zur Amtsrobe tragen der
+Die Amtstracht des Bundeswehrdisziplinaranwalts sowie der
+für in auftretenden Beamten, der richterlichen Mitglieder
+der Truppendienstkammern, der Wehrdisziplinaranwälte und
+der Urkundsbeamten bei den Truppendienstgerichten besteht
+aus einer Amtsrobe und einem Barett. Zur Amtsrobe tragen der
 Bundeswehrdisziplinaranwalt und die für ihn auftretenden Beamten sowie
 die richterlichen Mitglieder der Truppendienstkammern eine breite
 weiße Halsbinde mit herabhängenden Enden, die Wehrdisziplinaranwälte
@@ -44,10 +43,10 @@ Truppendienstkammern, die Wehrdisziplinaranwälte und die
 Urkundsbeamten bei den Truppendienstgerichten schwarz. Die für den
 Bundeswehrdisziplinaranwalt auftretenden Beamten tragen vor einem
 Wehrdienstsenat karmesinrote, vor einer Truppendienstkammer schwarze
-Amtstracht. Der Besatz an der Amtsrobe und am Barett besteht für die
-richterlichen Mitglieder der Truppendienstkammern aus Samt, für den
-Bundeswehrdisziplinaranwalt, die für ihn auftretenden Beamten und die
-Wehrdisziplinaranwälte aus Seide, für die Urkundsbeamten aus
+Amtstracht. Der Besatz an der Amtsrobe und am Barett besteht für
+die richterlichen Mitglieder der Truppendienstkammern aus Samt, für
+den Bundeswehrdisziplinaranwalt, die für ihn auftretenden Beamten
+und die Wehrdisziplinaranwälte aus Seide, für die Urkundsbeamten aus
 Wollstoff.
 
 
@@ -59,26 +58,18 @@ a)  der Bundeswehrdisziplinaranwalt
 
     zwei karmesinrote Schnüre in Seide,
 
-
 b)  die richterlichen Mitglieder der Truppendienstkammern
 
     eine Schnur in Silber,
 
-
 c)  die Wehrdisziplinaranwälte und die für den Bundeswehrdisziplinaranwalt
     auftretenden Beamten eine Spange
 
-    *   in Gold, wenn sie vor dem Bundesdisziplinarhof,
+    -   in Gold, wenn sie vor dem Bundesdisziplinarhof,
 
         in Silber, wenn sie vor den Truppendienstkammern
 
-
-
-
     tätig werden.
-
-
-
 
 
 ## IV.

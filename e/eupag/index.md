@@ -16,13 +16,7 @@ Fundstelle
 :   BGBl I: 2017, 1121, 1137
 
 Zuletzt geändert durch
-:   Art. 5 G v. 22.12.2020 I 3320
-
-Änderung durch
-:   Art. 19 G v. 25.6.2021 I 2154 (Nr. 38) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 27 G v. 7.7.2021 I 2363 (Nr. 41) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 5 G v. 22.10.2024 I Nr. 320
 
 
 ## Teil 1 - Voraussetzungen für die Zulassung zur Patentanwaltschaft
@@ -32,9 +26,9 @@ Zuletzt geändert durch
 
 (1) Eine Person, die im Besitz eines Ausbildungs- oder
 Befähigungsnachweises im Sinne der Absätze 2 und 3 ist, kann zum Zweck
-der Zulassung zur Patentanwaltschaft die Feststellung beantragen, dass
-die von ihr erworbene Berufsqualifikation die Kenntnisse umfasst, die
-für die Ausübung des Berufs des Patentanwalts in Deutschland
+der Zulassung zur Patentanwaltschaft die Feststellung beantragen,
+dass die von ihr erworbene Berufsqualifikation die Kenntnisse umfasst,
+die für die Ausübung des Berufs des Patentanwalts in Deutschland
 erforderlich sind. Der Antrag ist beim Deutschen Patent- und Markenamt
 zu stellen.
 
@@ -53,16 +47,14 @@ S. 115), die zuletzt durch die Richtlinie 2013/55/EU (ABl. L 354 vom
     reglementiert ist, ausgestellt wurde und der sie berechtigt, in diesem
     Mitgliedstaat den Beruf des Patentanwalts auszuüben,
 
-
 2.  von der zuständigen Behörde eines anderen Mitgliedstaates, in dem der
     Beruf des Patentanwalts nicht reglementiert ist, ausgestellt wurde und
     der bescheinigt, dass sie in einem reglementierten Ausbildungsgang auf
     die Ausübung des Berufs vorbereitet wurde,
 
-
-3.  von der zuständigen Behörde eines anderen Mitgliedstaates, in dem der
-    Beruf des Patentanwalts nicht reglementiert ist, ausgestellt wurde und
-    der bescheinigt, dass sie in einem nicht reglementierten
+3.  von der zuständigen Behörde eines anderen Mitgliedstaates, in dem
+    der Beruf des Patentanwalts nicht reglementiert ist, ausgestellt
+    wurde und der bescheinigt, dass sie in einem nicht reglementierten
     Ausbildungsgang auf die Ausübung des Berufs vorbereitet wurde, wobei
     ein solcher Nachweis jedoch nur dann ausreichend ist, wenn die Person
     zudem nachweist, dass sie in einem Mitgliedstaat, in dem der Beruf des
@@ -70,16 +62,12 @@ S. 115), die zuletzt durch die Richtlinie 2013/55/EU (ABl. L 354 vom
     zehn Jahre mindestens ein Jahr lang den Beruf des Patentanwalts
     ausgeübt hat, oder
 
-
 4.  in einem Staat, der nicht Mitgliedstaat ist, ausgestellt wurde und der
     von einem anderen Mitgliedstaat, in dem der Beruf des Patentanwalts
     reglementiert ist, anerkannt wurde, wobei ein solcher Nachweis jedoch
     nur dann ausreichend ist, wenn die Person zudem in dem Mitgliedstaat
     ausweislich einer Bescheinigung der dort zuständigen Behörde
     mindestens drei Jahre den Beruf des Patentanwalts ausgeübt hat.
-
-
-
 
 (3) Betrifft der Ausbildungs- und Befähigungsnachweis in den Fällen
 des Absatzes 2 Nummer 1 bis 3 eine Ausbildung, die nicht überwiegend
@@ -91,30 +79,22 @@ den Beruf des Patentanwalts mindestens drei Jahre ausgeübt haben.
 
 1.  ein tabellarischer Lebenslauf,
 
-
 2.  der nach Absatz 2 erforderliche Ausbildungs- oder Befähigungsnachweis
     im Original oder in Kopie,
 
-
-3.  in den Fällen des Absatzes 2 Nummer 1 bis 3 ein Nachweis darüber, dass
-    mehr als die Hälfte der Ausbildungszeit in einem Mitgliedstaat
+3.  in den Fällen des Absatzes 2 Nummer 1 bis 3 ein Nachweis darüber,
+    dass mehr als die Hälfte der Ausbildungszeit in einem Mitgliedstaat
     durchgeführt wurde,
-
 
 4.  in den Fällen des Absatzes 2 Nummer 3 und 4 sowie des Absatzes 3 die
     erforderliche Bescheinigung über die Berufsausübung,
 
-
 5.  eine Erklärung darüber, ob schon einmal ein Antrag nach Absatz 1
     gestellt oder eine Eignungsprüfung abgelegt wurde, und
-
 
 6.  für den Fall, dass geltend gemacht wird, dass Unterschiede nach § 2
     Absatz 3 Satz 1 Nummer 1 nach § 2 Absatz 3 Satz 1 Nummer 2 vollständig
     ausgeglichen wurden, geeignete Nachweise hierüber.
-
-
-
 
 (5) Der Antrag und die nach Absatz 4 Nummer 1 und 5 beizufügenden
 Dokumente sind in deutscher Sprache abzufassen.
@@ -124,9 +104,9 @@ Dokumente sind in deutscher Sprache abzufassen.
 
 (1) Das Deutsche Patent- und Markenamt bestätigt den Eingang des
 Antrags nach § 1 innerhalb eines Monats. Innerhalb dieser Frist teilt
-es der antragstellenden Person auch mit, ob Dokumente fehlen oder von
-Dokumenten einfache oder beglaubigte Übersetzungen vorzulegen sind.
-Das Deutsche Patent- und Markenamt entscheidet über den Antrag
+es der antragstellenden Person auch mit, ob Dokumente fehlen oder
+von Dokumenten einfache oder beglaubigte Übersetzungen vorzulegen
+sind. Das Deutsche Patent- und Markenamt entscheidet über den Antrag
 spätestens vier Monate nach Eingang aller erforderlichen Dokumente.
 
 (2) Das Deutsche Patent- und Markenamt lehnt den Antrag ab, wenn die
@@ -140,11 +120,8 @@ Person die Ablegung einer Eignungsprüfung auf, wenn
     von denen unterscheiden, die für die Ausübung des Berufs des
     Patentanwalts in Deutschland erforderlich sind, und
 
-
 2.  diese Unterschiede nicht anderweitig, insbesondere durch Berufspraxis
     oder Weiterbildungsmaßnahmen, ausgeglichen wurden.
-
-
 
 Die Auferlegung einer Eignungsprüfung gilt als Entscheidung nach
 Absatz 1 Satz 3. Beabsichtigt das Deutsche Patent- und Markenamt, von
@@ -155,23 +132,19 @@ Stellungnahme der Patentanwaltskammer einzuholen.
 Eignungsprüfung zu begründen und der antragstellenden Person dabei
 mitzuteilen,
 
-1.  welchem Qualifikationsniveau nach Artikel 11 der Richtlinie 2005/36/EG
-    in der jeweils geltenden Fassung zum einen die von ihr erlangte
+1.  welchem Qualifikationsniveau nach Artikel 11 der Richtlinie 2005/36/
+    EG in der jeweils geltenden Fassung zum einen die von ihr erlangte
     Berufsqualifikation und zum anderen die nach § 5 Absatz 2 der
     Patentanwaltsordnung geforderte Berufsqualifikation entspricht und
-
 
 2.  worin die Unterschiede nach Absatz 3 Satz 1 Nummer 1 liegen und warum
     diese nicht nach Absatz 3 Satz 1 Nummer 2 als ausgeglichen anzusehen
     sind.
 
-
-
-
 (5) Wer die Voraussetzungen des § 1 unmittelbar erfüllt oder die
-Eignungsprüfung besteht, erhält hierüber vom Deutschen Patent- und
-Markenamt eine Bescheinigung und wird nach den §§ 13 bis 34 und 41b
-bis 41d Absatz 1, 4 und 5 der Patentanwaltsordnung von der
+Eignungsprüfung besteht, erhält hierüber vom Deutschen Patent-
+und Markenamt eine Bescheinigung und wird nach den §§ 13 bis 34
+und 41b bis 41d Absatz 1, 4 und 5 der Patentanwaltsordnung von der
 Patentanwaltskammer zur Patentanwaltschaft zugelassen.
 
 (6) Wer über eine Bescheinigung nach Absatz 5 verfügt, ist berechtigt,
@@ -192,10 +165,10 @@ Qualifikation für patentanwaltliche Tätigkeiten verfügt.
 ### § 4 Zuständige Stelle für die Eignungsprüfung
 
 Die Eignungsprüfung wird vor der für die Patentanwaltsprüfung
-zuständigen Kommission beim Deutschen Patent- und Markenamt abgelegt.
-Das Deutsche Patent- und Markenamt hat die Ablegung der
-Eignungsprüfung innerhalb von sechs Monaten nach deren Auferlegung zu
-ermöglichen.
+zuständigen Kommission beim Deutschen Patent- und Markenamt
+abgelegt. Das Deutsche Patent- und Markenamt hat die Ablegung der
+Eignungsprüfung innerhalb von sechs Monaten nach deren Auferlegung
+zu ermöglichen.
 
 
 ### § 5 Prüfungsfächer
@@ -205,31 +178,22 @@ Die Eignungsprüfung erstreckt sich auf folgende Fächer:
 1.  Patentrecht und Gebrauchsmusterrecht, jeweils einschließlich des
     zugehörigen Verfahrensrechts,
 
-
 2.  Markenrecht und Designrecht, jeweils einschließlich des zugehörigen
     Verfahrensrechts,
-
 
 3.  Bürgerliches Recht, Handelsrecht und Zivilprozessrecht, soweit diese
     Rechtsgebiete für die Ausübung des Berufs des Patentanwalts von
     Bedeutung sind,
 
-
 4.  Recht der Arbeitnehmererfindungen,
-
 
 5.  Wettbewerbsrecht einschließlich Kartellrecht, soweit diese
     Rechtsgebiete für die Ausübung des Berufs des Patentanwalts von
     Bedeutung sind,
 
-
 6.  Sortenschutzrecht und
 
-
 7.  Berufsrecht des Patentanwalts.
-
-
-
 
 
 ### § 6 Prüfungsleistungen
@@ -250,8 +214,8 @@ Stellungnahme der Patentanwaltskammer einholen.
 
 (3) Die schriftliche Prüfung, die auch elektronisch durchgeführt
 werden kann, umfasst vier Klausuren. Der Schwerpunkt je einer Klausur
-hat auf je einem der in § 5 Nummer 1 bis 4 genannten Prüfungsfächer zu
-liegen.
+hat auf je einem der in § 5 Nummer 1 bis 4 genannten Prüfungsfächer
+zu liegen.
 
 (4) Der Prüfling wird zur mündlichen Prüfung nur zugelassen, wenn
 mindestens zwei Klausuren den Anforderungen genügen; anderenfalls gilt
@@ -262,9 +226,9 @@ genügend im Sinne des Satzes 1 zu werten.
 
 ### § 7 Prüfungsentscheidung
 
-Die Prüfungskommission entscheidet aufgrund des Gesamteindrucks der in
-der schriftlichen und der mündlichen Prüfung erbrachten Leistungen mit
-Stimmenmehrheit, ob der Prüfling über die nach § 3 erforderlichen
+Die Prüfungskommission entscheidet aufgrund des Gesamteindrucks der
+in der schriftlichen und der mündlichen Prüfung erbrachten Leistungen
+mit Stimmenmehrheit, ob der Prüfling über die nach § 3 erforderlichen
 Kenntnisse und Kompetenzen verfügt.
 
 
@@ -287,29 +251,19 @@ Einzelheiten der Eignungsprüfung zu regeln, insbesondere
 
 1.  die prüfenden Personen,
 
-
 2.  den Ablauf des Prüfungsverfahrens,
-
 
 3.  die Prüfungsleistungen,
 
-
 4.  die Folgen eines ordnungswidrigen Verhaltens,
-
 
 5.  den Erlass von Prüfungsleistungen,
 
-
 6.  die Wiederholung der Prüfung,
-
 
 7.  die Zahl der Wiederholungsmöglichkeiten sowie
 
-
 8.  die Höhe und die Zahlung der Prüfungsgebühr.
-
-
-
 
 
 ### § 11 Bescheinigungen des Heimat- oder Herkunftsstaates
@@ -323,20 +277,15 @@ nach § 2 Absatz 5 dieses Gesetzes in Verbindung mit § 5 Absatz 1 Satz
     Eignung der antragstellenden Person für den Beruf des Patentanwalts in
     Frage stellen,
 
-
 2.  Bescheinigungen darüber, dass über das Vermögen der antragstellenden
     Person kein Insolvenzverfahren anhängig ist und die Person nicht für
     insolvent erklärt wurde,
 
-
 3.  Bescheinigungen über die körperliche oder geistige Gesundheit der
     antragstellenden Person oder
 
-
 4.  Bescheinigungen über das Bestehen und den Umfang einer
     Berufshaftpflichtversicherung
-
-
 
 erforderlich sind, genügen Bescheinigungen des Heimat- oder
 Herkunftsstaates, die den Anforderungen des Artikels 50 Absatz 1 in
@@ -357,23 +306,17 @@ diese Rechtsgebiete auch in Deutschland ausüben, wenn
     Anforderung gleichkäme, die Befähigung für den Beruf des Patentanwalts
     nach § 5 Absatz 2 der Patentanwaltsordnung zu erwerben,
 
-
 2.  sich ihre Tätigkeit von den anderen Tätigkeiten trennen lässt, die von
     einem Patentanwalt in Deutschland zu erbringen sind,
-
 
 3.  der Erbringung ihrer Tätigkeit in Deutschland keine zwingenden Gründe
     des Allgemeininteresses entgegenstehen und
 
-
 4.  sie von der Patentanwaltskammer zur Patentanwaltschaft zugelassen
     wurden.
 
-
-
-
-(2) Für die Erlangung der Bescheinigung nach § 2 Absatz 5 gelten die
-§§ 1 bis 11 mit der Maßgabe, dass sich insbesondere die
+(2) Für die Erlangung der Bescheinigung nach § 2 Absatz 5 gelten
+die §§ 1 bis 11 mit der Maßgabe, dass sich insbesondere die
 nachzuweisenden Qualifikationen und Tätigkeiten, die Eignungsprüfung
 und die Feststellung der Gleichwertigkeit der Berufsqualifikation der
 Person jeweils nur auf die Rechtsgebiete erstrecken, auf denen die
@@ -395,12 +338,12 @@ Mandatierung über den Umfang ihres Tätigkeitsbereichs aufzuklären.
 ### § 13 Dienstleistender europäischer Patentanwalt
 
 (1) Natürliche Personen, die in einem anderen Mitgliedstaat zur
-Ausübung des Berufs des Patentanwalts rechtmäßig niedergelassen sind,
-dürfen die Tätigkeiten eines Patentanwalts in Deutschland
+Ausübung des Berufs des Patentanwalts rechtmäßig niedergelassen
+sind, dürfen die Tätigkeiten eines Patentanwalts in Deutschland
 vorübergehend und gelegentlich ausüben (dienstleistender europäischer
 Patentanwalt). Ob die Tätigkeiten vorübergehend und gelegentlich
-erbracht werden, ist im Einzelfall insbesondere anhand der Dauer, der
-Häufigkeit, der regelmäßigen Wiederkehr und der Kontinuität der
+erbracht werden, ist im Einzelfall insbesondere anhand der Dauer,
+der Häufigkeit, der regelmäßigen Wiederkehr und der Kontinuität der
 Dienstleistung zu beurteilen.
 
 (2) Der dienstleistende europäische Patentanwalt hat seine Tätigkeit
@@ -413,8 +356,8 @@ Werbung nicht verwendet werden.
 
 ### § 14 Berufserfahrung
 
-Ist im Niederlassungsstaat weder der Beruf des Patentanwalts noch die
-Ausbildung zum Beruf des Patentanwalts reglementiert, darf die
+Ist im Niederlassungsstaat weder der Beruf des Patentanwalts noch
+die Ausbildung zum Beruf des Patentanwalts reglementiert, darf die
 Tätigkeit als dienstleistender europäischer Patentanwalt nur ausgeübt
 werden, wenn der Patentanwalt den Beruf in einem Mitgliedstaat
 innerhalb der vorangegangenen zehn Jahre mindestens ein Jahr lang
@@ -430,34 +373,25 @@ zu enthalten:
 
 1.  Vornamen und Familienname,
 
-
 2.  die Geschäftsanschrift im Niederlassungsstaat und, sofern vorhanden,
     in Deutschland,
 
-
 3.  eine Bescheinigung darüber, dass er zur Ausübung des Berufs des
-    Patentanwalts im Niederlassungsstaat rechtmäßig niedergelassen ist und
-    dass ihm die Ausübung des Berufs nicht, auch nicht vorübergehend,
+    Patentanwalts im Niederlassungsstaat rechtmäßig niedergelassen ist
+    und dass ihm die Ausübung des Berufs nicht, auch nicht vorübergehend,
     untersagt ist,
-
 
 4.  einen Nachweis seiner Berufsqualifikation,
 
-
 5.  die Berufsbezeichnung nach § 13 Absatz 2,
-
 
 6.  im Fall des § 14 einen Nachweis, dass er den Beruf des Patentanwalts
     innerhalb der vorangegangenen zehn Jahre mindestens ein Jahr lang
     ausgeübt hat, und
 
-
 7.  einen Nachweis über das Bestehen einer Berufshaftpflichtversicherung
     nach § 17 oder Angaben dazu, warum der Abschluss einer solchen
     Versicherung nicht möglich oder unzumutbar ist.
-
-
-
 
 (2) Wesentliche Änderungen der nach Absatz 1 Satz 2 erforderlichen
 Angaben hat der dienstleistende europäische Patentanwalt der
@@ -470,24 +404,24 @@ er im folgenden Jahr erneut Dienstleistungen in Deutschland erbringen
 will. Diese Meldung kann sich auf die Angaben nach Absatz 1 Satz 2
 Nummer 1 und 7 beschränken.
 
-(4) Sobald die Meldung nach Absatz 1 vollständig vorliegt, nimmt die
-Patentanwaltskammer für zunächst ein Jahr eine Eintragung des
-dienstleistenden europäischen Patentanwalts in einem von ihr zu
-führenden öffentlichen elektronischen Meldeverzeichnis der
-dienstleistenden europäischen Patentanwälte vor. Die Eintragung hat
-die Angaben nach Absatz 1 Satz 2 Nummer 1, 2, 5 und 7 zu umfassen.
-Werden der Patentanwaltskammer nach Absatz 2 Änderungen mitgeteilt,
-hat sie das Meldeverzeichnis unverzüglich zu berichtigen. Bei einer
-Wiederholung der Meldung nach Absatz 3 verlängert die
+(4) Sobald die Meldung nach Absatz 1 vollständig vorliegt, nimmt
+die Patentanwaltskammer für zunächst ein Jahr eine Eintragung
+des dienstleistenden europäischen Patentanwalts in einem von ihr
+zu führenden öffentlichen elektronischen Meldeverzeichnis der
+dienstleistenden europäischen Patentanwälte vor. Die Eintragung
+hat die Angaben nach Absatz 1 Satz 2 Nummer 1, 2, 5 und 7 zu
+umfassen. Werden der Patentanwaltskammer nach Absatz 2 Änderungen
+mitgeteilt, hat sie das Meldeverzeichnis unverzüglich zu berichtigen.
+Bei einer Wiederholung der Meldung nach Absatz 3 verlängert die
 Patentanwaltskammer die Eintragung im Meldeverzeichnis um ein weiteres
-Jahr. Unterbleibt eine Wiederholung der Meldung nach Absatz 3, wird
-die Eintragung im Meldeverzeichnis zunächst gesperrt und nach
+Jahr. Unterbleibt eine Wiederholung der Meldung nach Absatz 3,
+wird die Eintragung im Meldeverzeichnis zunächst gesperrt und nach
 angemessener Zeit gelöscht. Die Eintragung und die Einsicht in das
 Meldeverzeichnis sind kostenfrei.
 
-(5) Verliert eine im Meldeverzeichnis eingetragene Person den Status
-eines europäischen Patentanwalts, so wird die Eintragung im
-Meldeverzeichnis zunächst gesperrt und nach angemessener Zeit
+(5) Verliert eine im Meldeverzeichnis eingetragene Person den
+Status eines europäischen Patentanwalts, so wird die Eintragung
+im Meldeverzeichnis zunächst gesperrt und nach angemessener Zeit
 gelöscht.
 
 
@@ -495,53 +429,48 @@ gelöscht.
 
 Der dienstleistende europäische Patentanwalt hat die Stellung eines
 inländischen Patentanwalts, insbesondere dessen Rechte und Pflichten,
-soweit diese nicht die Zugehörigkeit zur Patentanwaltskammer sowie die
-Kanzlei betreffen. Von den Vorschriften des Dritten Teils der
+soweit diese nicht die Zugehörigkeit zur Patentanwaltskammer sowie
+die Kanzlei betreffen. Von den Vorschriften des Dritten Teils der
 Patentanwaltsordnung gelten nur die §§ 39, 39a Absatz 1 bis 5, §§ 39b,
 39c, 41, 45b und 51. § 18 Absatz 2 bleibt unberührt. Die Vorschriften
-der nach § 52b der Patentanwaltsordnung erlassenen Berufsordnung
+der nach § 52a der Patentanwaltsordnung erlassenen Berufsordnung
 gelten, soweit sie die §§ 39, 39a Absatz 1 bis 5, §§ 39b, 41 und 49a
 Absatz 1 der Patentanwaltsordnung näher ausgestalten.
 
 
 ### § 17 Berufshaftpflichtversicherung
 
-Der dienstleistende europäische Patentanwalt ist verpflichtet, eine
-Berufshaftpflichtversicherung zur Deckung der sich aus seiner
+Der dienstleistende europäische Patentanwalt ist verpflichtet,
+eine Berufshaftpflichtversicherung zur Deckung der sich aus seiner
 Berufstätigkeit in Deutschland ergebenden Haftpflichtgefahren für
 Vermögensschäden abzuschließen, die nach Art und Umfang den durch
-seine berufliche Tätigkeit entstehenden Risiken angemessen ist. Ist
-dem Patentanwalt der Abschluss einer solchen Versicherung nicht
+seine berufliche Tätigkeit entstehenden Risiken angemessen ist.
+Ist dem Patentanwalt der Abschluss einer solchen Versicherung nicht
 möglich oder unzumutbar, hat er seinen Mandanten auf diese Tatsache
-und deren Folgen vor seiner Mandatierung in Textform hinzuweisen. Die
-Sätze 1 und 2 gelten nicht, soweit die Tätigkeit eines
+und deren Folgen vor seiner Mandatierung in Textform hinzuweisen.
+Die Sätze 1 und 2 gelten nicht, soweit die Tätigkeit eines
 Syndikuspatentanwalts ausgeübt wird.
 
 
 ### § 18 Aufsicht
 
-(1) Dienstleistende europäische Patentanwälte werden durch die
-Patentanwaltskammer beaufsichtigt. Dem Vorstand der
+(1) Dienstleistende europäische Patentanwälte werden durch
+die Patentanwaltskammer beaufsichtigt. Dem Vorstand der
 Patentanwaltskammer obliegt es insbesondere,
 
 1.  in Fragen der Berufspflichten eines Patentanwalts zu beraten und zu
     belehren;
 
-
 2.  die Erfüllung der Berufspflichten zu überwachen und das Recht der Rüge
     zu handhaben;
-
 
 3.  auf Antrag bei Streitigkeiten zwischen dienstleistenden europäischen
     Patentanwälten und inländischen Patentanwälten zu vermitteln; dies
     umfasst die Befugnis, Schlichtungsvorschläge zu unterbreiten;
 
-
 4.  auf Antrag bei Streitigkeiten zwischen dienstleistenden europäischen
     Patentanwälten und ihrer Mandantschaft zu vermitteln; dies umfasst die
     Befugnis, Schlichtungsvorschläge zu unterbreiten.
-
-
 
 Der Vorstand kann die in Satz 2 Nummer 1, 3 und 4 bezeichneten
 Aufgaben einzelnen Mitgliedern des Vorstands übertragen.
@@ -562,9 +491,9 @@ Informationen einholen.
 hinsichtlich der Erfüllung seiner Berufspflichten der
 Berufsgerichtsbarkeit.
 
-(2) Für die berufsgerichtliche Ahndung von Pflichtverletzungen und die
-Verhängung vorläufiger berufsgerichtlicher Maßnahmen gelten die
-Vorschriften des Sechsten und Siebenten Teils sowie des Dritten
+(2) Für die berufsgerichtliche Ahndung von Pflichtverletzungen und
+die Verhängung vorläufiger berufsgerichtlicher Maßnahmen gelten
+die Vorschriften des Sechsten und Siebenten Teils sowie des Dritten
 Abschnitts des Achten Teils der Patentanwaltsordnung mit folgenden
 Maßgaben:
 
@@ -572,15 +501,10 @@ Maßgaben:
     Absatz 1 Nummer 4) tritt das Verbot, im Bundesgebiet Tätigkeiten eines
     Patentanwalts auszuüben;
 
-
 2.  ein vorläufiges Berufs- oder Vertretungsverbot (§ 132 Absatz 1 Satz 1)
     darf nur für das Bundesgebiet ausgesprochen werden;
 
-
 3.  § 143 ist nicht anzuwenden.
-
-
-
 
 (3) Für Zustellungen in berufsgerichtlichen Verfahren und in Verfahren
 nach den §§ 49, 50, 70 und 70a der Patentanwaltsordnung gilt § 10 des
@@ -589,8 +513,8 @@ entsprechend.
 
 (4) Für die Mitteilungspflichten der Gerichte und Behörden zur
 Einleitung von Verfahren gelten § 34a Satz 1 des Gesetzes über die
-Tätigkeit europäischer Rechtsanwälte in Deutschland und § 34 Absatz 2
-Satz 2 der Patentanwaltsordnung entsprechend.
+Tätigkeit europäischer Rechtsanwälte in Deutschland und § 34 Absatz 3
+der Patentanwaltsordnung entsprechend.
 
 
 ## Teil 3 - Berufsausübung als niedergelassener europäischer Patentanwalt
@@ -598,11 +522,11 @@ Satz 2 der Patentanwaltsordnung entsprechend.
 
 ### § 20 Niedergelassener europäischer Patentanwalt
 
-Ein europäischer Patentanwalt, der in einem anderen Mitgliedstaat, in
-dem der Beruf des Patentanwalts reglementiert ist, niedergelassen ist
-und der in die Patentanwaltskammer aufgenommen ist, ist berechtigt,
-sich unter der Berufsbezeichnung seines Herkunftsstaates zur
-Rechtsbesorgung auf dem Gebiet des ausländischen und des
+Ein europäischer Patentanwalt, der in einem anderen Mitgliedstaat,
+in dem der Beruf des Patentanwalts reglementiert ist, zugelassen
+ist und der in die Patentanwaltskammer aufgenommen ist, ist
+berechtigt, sich unter der Berufsbezeichnung seines Herkunftsstaates
+zur Rechtsbesorgung auf dem Gebiet des ausländischen und des
 internationalen gewerblichen Rechtsschutzes in Deutschland
 niederzulassen (niedergelassener europäischer Patentanwalt).
 
@@ -614,31 +538,31 @@ Bescheinigung der im Herkunftsstaat der antragstellenden Person
 zuständigen Behörde darüber beizufügen, dass die Person in diesem
 Staat als Patentanwalt niedergelassen ist. Eine solche Bescheinigung
 ist der Patentanwaltskammer jährlich neu vorzulegen. Kommt der
-niedergelassene europäische Patentanwalt der Pflicht nach Satz 2 nicht
-nach, ist die Aufnahme in die Patentanwaltskammer zu widerrufen. Zudem
-gilt § 4 Absatz 2 des Gesetzes über die Tätigkeit europäischer
+niedergelassene europäische Patentanwalt der Pflicht nach Satz 2
+nicht nach, ist die Aufnahme in die Patentanwaltskammer zu widerrufen.
+Zudem gilt § 4 Absatz 2 des Gesetzes über die Tätigkeit europäischer
 Rechtsanwälte in Deutschland entsprechend.
 
 (2) Für die Entscheidung über den Antrag auf Aufnahme in die
 Patentanwaltskammer, für die Rechtsstellung des niedergelassenen
 europäischen Patentanwalts nach der Aufnahme sowie für die Rücknahme
-und den Widerruf der Aufnahme gelten mit Ausnahme der §§ 5 bis 13, 18
-Absatz 2 Nummer 1 und Absatz 4 sowie der §§ 19 und 24 der Zweite bis
-Vierte Teil, der Dritte Abschnitt des Fünften Teils sowie der Sechste
-bis Achte Teil der Patentanwaltsordnung sinngemäß sowie die aufgrund
-von § 29 Absatz 5 der Patentanwaltsordnung erlassene Rechtsverordnung.
-An die Stelle der Ausschließung aus der Patentanwaltschaft nach § 96
-Absatz 1 Nummer 4 der Patentanwaltsordnung tritt der Verlust der
-Mitgliedschaft. Vorläufige Berufs- oder Vertretungsverbote nach § 132
-Absatz 1 Satz 1 der Patentanwaltsordnung sind für das Bundesgebiet
-auszusprechen.
+und den Widerruf der Aufnahme gelten mit Ausnahme der §§ 5 bis
+13, 18 Absatz 2 Nummer 1 und Absatz 4, der §§ 19 und 24 sowie des
+§ 52j Absatz 3 der Zweite bis Vierte Teil, der Dritte Abschnitt
+des Fünften Teils sowie der Sechste bis Achte Teil sowie § 159 der
+Patentanwaltsordnung sinngemäß sowie die aufgrund von § 29 Absatz 6
+der Patentanwaltsordnung erlassene Rechtsverordnung. An die Stelle
+der Ausschließung aus der Patentanwaltschaft nach § 96 Absatz 1 Nummer
+4 der Patentanwaltsordnung tritt der Verlust der Mitgliedschaft.
+Vorläufige Berufs- oder Vertretungsverbote nach § 132 Absatz 1 Satz 1
+der Patentanwaltsordnung sind für das Bundesgebiet auszusprechen.
 
-(3) Der niedergelassene europäische Patentanwalt hat bei der Führung
-seiner Berufsbezeichnung den Herkunftsstaat in deutscher Sprache
-anzugeben. Wurde er als Syndikuspatentanwalt in die
-Patentanwaltskammer aufgenommen, hat er der Berufsbezeichnung zudem
-die Bezeichnung „Syndikus“ in Klammern nachzustellen. Der
-niedergelassene europäische Patentanwalt ist berechtigt, im
+(3) Der niedergelassene europäische Patentanwalt hat bei der
+Führung seiner Berufsbezeichnung den Herkunftsstaat in deutscher
+Sprache anzugeben. Wurde er als Syndikuspatentanwalt in die
+Patentanwaltskammer aufgenommen, hat er der Berufsbezeichnung
+zudem die Bezeichnung „Syndikus“ in Klammern nachzustellen.
+Der niedergelassene europäische Patentanwalt ist berechtigt, im
 beruflichen Verkehr die Bezeichnung „Mitglied der Patentanwaltskammer“
 zu verwenden. Die Bezeichnung „europäischer Patentanwalt“ darf als
 Berufsbezeichnung und in der Werbung nicht verwendet werden.
@@ -651,9 +575,9 @@ Berufsbezeichnung und in der Werbung nicht verwendet werden.
 
 (1) Für Verwaltungsverfahren nach diesem Gesetz oder nach einer
 aufgrund dieses Gesetzes erlassenen Rechtsverordnung gilt, soweit
-nichts anderes bestimmt ist, das Verwaltungsverfahrensgesetz. Die
-Verwaltungsverfahren nach diesem Gesetz können elektronisch und über
-eine einheitliche Stelle nach den §§ 71a bis 71e des
+nichts anderes bestimmt ist, das Verwaltungsverfahrensgesetz.
+Die Verwaltungsverfahren nach diesem Gesetz können elektronisch
+und über eine einheitliche Stelle nach den §§ 71a bis 71e des
 Verwaltungsverfahrensgesetzes abgewickelt werden.
 
 (2) Über Anträge ist, soweit nichts anderes bestimmt ist, innerhalb
@@ -664,8 +588,8 @@ einer Frist von drei Monaten zu entscheiden; § 42a Absatz 2 Satz 2 bis
 ### § 23 Rechtsweg in verwaltungsrechtlichen Angelegenheiten
 
 Für öffentlich-rechtliche Streitigkeiten nach diesem Gesetz oder nach
-einer nach ihm erlassenen Rechtsverordnung gelten die Bestimmungen der
-Patentanwaltsordnung für verwaltungsrechtliche Patentanwaltssachen
+einer nach ihm erlassenen Rechtsverordnung gelten die Bestimmungen
+der Patentanwaltsordnung für verwaltungsrechtliche Patentanwaltssachen
 entsprechend, soweit die Streitigkeiten nicht berufsgerichtlicher Art
 sind oder einem anderen Gericht ausdrücklich zugewiesen sind.
 
@@ -688,36 +612,32 @@ Patentanwaltskammer diese innerhalb eines Monats aus.
 
 ### § 25 Mitteilungspflichten gegenüber anderen Mitgliedstaaten
 
-(1) Ist ein Patentanwalt auch in einem anderen Mitgliedstaat tätig, so
-teilt die Patentanwaltskammer der zuständigen Stelle dieses Staates
-über das Binnenmarkt-Informationssystem der Europäischen Union
+(1) Ist ein Patentanwalt auch in einem anderen Mitgliedstaat tätig,
+so teilt die Patentanwaltskammer der zuständigen Stelle dieses
+Staates über das Binnenmarkt-Informationssystem der Europäischen Union
 Folgendes mit:
 
 1.  berufsrechtliche Sanktionen,
-
 
 2.  strafrechtliche oder in Ordnungswidrigkeitenverfahren verhängte
     Sanktionen, die sich auf die Ausübung der patentanwaltlichen Tätigkeit
     auswirken können, und
 
-
 3.  sonstige schwerwiegende Sachverhalte, die sich auf die Ausübung der
     patentanwaltlichen Tätigkeit auswirken können.
-
-
 
 Ist der Patentanwaltskammer nach § 94g der Patentanwaltsordnung eine
 gerichtliche Entscheidung übermittelt worden, hat sie den anderen
 Mitgliedstaaten binnen drei Tagen nach Rechtskraft der Entscheidung
-über das Binnenmarkt-Informationssystem der Europäischen Union die
-Angaben zur Identität des Patentanwalts und die Tatsache, dass er
-einen gefälschten Berufsqualifikationsnachweis verwendet hat,
+über das Binnenmarkt-Informationssystem der Europäischen Union
+die Angaben zur Identität des Patentanwalts und die Tatsache, dass
+er einen gefälschten Berufsqualifikationsnachweis verwendet hat,
 mitzuteilen.
 
 (2) Unverzüglich nach einer Mitteilung nach Absatz 1 hat eine
-Mitteilung nach § 8d Absatz 2 des Verwaltungsverfahrensgesetzes zu
-erfolgen. In ihr ist auf die zulässigen Rechtsbehelfe gegen die
-Entscheidung, die Mitteilung nach Absatz 1 zu veranlassen,
+Mitteilung nach § 8d Absatz 2 des Verwaltungsverfahrensgesetzes
+zu erfolgen. In ihr ist auf die zulässigen Rechtsbehelfe gegen
+die Entscheidung, die Mitteilung nach Absatz 1 zu veranlassen,
 hinzuweisen. Wird ein Rechtsbehelf gegen die Entscheidung eingelegt,
 ergänzt die Patentanwaltskammer die Mitteilung nach Absatz 1 um einen
 entsprechenden Hinweis.
@@ -726,9 +646,9 @@ entsprechenden Hinweis.
 Patentanwälte und niedergelassene europäische Patentanwälte
 entsprechend.
 
-(4) Hat die zuständige Stelle eines anderen Mitgliedstaates der
-Patentanwaltskammer zu einem Patentanwalt Sanktionen oder Sachverhalte
-im Sinne des Absatzes 1 mitgeteilt, so unterrichtet die
+(4) Hat die zuständige Stelle eines anderen Mitgliedstaates
+der Patentanwaltskammer zu einem Patentanwalt Sanktionen oder
+Sachverhalte im Sinne des Absatzes 1 mitgeteilt, so unterrichtet die
 Patentanwaltskammer diese Stelle über die aufgrund der Mitteilung
 getroffenen Maßnahmen.
 
@@ -757,9 +677,28 @@ Patentanwaltsordnung entsprechend anzuwenden.
 ### § 29 Anwendung von Vorschriften des Strafgesetzbuches
 
 Für die Anwendung der Vorschriften des Strafgesetzbuches über die
-Verletzung von Privatgeheimnissen (§ 203 Absatz 1 Nummer 3, Absatz 3
-bis 6, §§ 204 und 205), über die Gebührenüberhebung (§ 352) und über
-den Parteiverrat (§ 356) stehen dienstleistende europäische
+Verletzung von Privatgeheimnissen (§ 203 Absatz 1 Nummer 3, Absatz
+3 bis 6, §§ 204 und 205), über die Gebührenüberhebung (§ 352) und
+über den Parteiverrat (§ 356) stehen dienstleistende europäische
 Patentanwälte und niedergelassene europäische Patentanwälte
 Patentanwälten und Anwälten gleich.
+
+
+### § 30 Übergangsvorschrift zum Austritt des Vereinigten Königreichs aus der Europäischen Union
+
+(1) Teil 1 gilt auch für Staatsangehörige eines Mitgliedstaates, die
+im Besitz eines Ausbildungs- und Befähigungsnachweises sind, der im
+Vereinigten Königreich
+
+1.  in den Fällen des § 1 Absatz 2 Nummer 1 bis 3 vor dem 1. Januar 2021
+    ausgestellt wurde oder
+
+2.  im Fall des § 1 Absatz 2 Nummer 4 vor dem 1. Januar 2021 anerkannt
+    wurde.
+
+(2) Soweit eine antragstellende Person nach § 1 Absatz 2 Nummer 3
+oder 4 oder Absatz 3 Zeiten nachzuweisen hat, in denen sie den Beruf
+des Patentanwalts in einem Mitgliedstaat ausgeübt hat, sind Zeiten
+anzuerkennen, in denen der Beruf im Vereinigten Königreich vor dem 1.
+Januar 2021 ausgeübt wurde.
 

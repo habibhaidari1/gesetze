@@ -1,6 +1,5 @@
 ---
-Title: Erste Verordnung über die Erstattung von pauschalierten Aufwendungen bei  Ausführung
-  der Ausbildungsvermittlung
+Title: Erste Verordnung über die Erstattung von pauschalierten Aufwendungen bei Ausführung der Ausbildungsvermittlung
 jurabk: AusbErstV
 layout: default
 origslug: ausberstv
@@ -8,14 +7,13 @@ slug: ausberstv
 
 ---
 
-# Erste Verordnung über die Erstattung von pauschalierten Aufwendungen bei  Ausführung der Ausbildungsvermittlung (AusbErstV)
+# Erste Verordnung über die Erstattung von pauschalierten Aufwendungen bei Ausführung der Ausbildungsvermittlung (AusbErstV)
 
 Ausfertigungsdatum
 :   2006-12-20
 
 Fundstelle
 :   BGBl I: 2006, 3322
-
 
 
 ## Eingangsformel
@@ -30,9 +28,9 @@ verordnet das Bundesministerium für Arbeit und Soziales:
 ## § 1 Pauschalierung
 
 Lässt die Agentur für Arbeit als Träger der Grundsicherung für
-Arbeitsuchende als Auftraggeber die Ausbildungsvermittlung durch die
-für die Arbeitsförderung zuständige Stelle der Bundesagentur für
-Arbeit als Auftragnehmer wahrnehmen, erstattet sie dieser die
+Arbeitsuchende als Auftraggeber die Ausbildungsvermittlung durch
+die für die Arbeitsförderung zuständige Stelle der Bundesagentur
+für Arbeit als Auftragnehmer wahrnehmen, erstattet sie dieser die
 notwendigen Aufwendungen in einem monatlichen Pauschalbetrag.
 
 
@@ -45,22 +43,19 @@ notwendigen Aufwendungen in einem monatlichen Pauschalbetrag.
     Ausbildungsvermittlung im jeweiligen Monat für die Agentur für Arbeit
     als Träger der Grundsicherung für Arbeitsuchende wahrgenommen hat,
 
-
 2.  mit den durchschnittlichen monatlichen Aufwendungen für die
     Ausbildungsvermittlung je Ausbildungsuchendem
-
-
 
 multipliziert wird.
 
 (2) Die für die Arbeitsförderung zuständige Stelle der Bundesagentur
-für Arbeit übermittelt die Anzahl der Ausbildungsuchenden nach Absatz
-1 Nr. 1 an die beauftragende Agentur für Arbeit als Träger der
-Grundsicherung.
+für Arbeit übermittelt die Anzahl der Ausbildungsuchenden nach
+Absatz 1 Nr. 1 an die beauftragende Agentur für Arbeit als Träger
+der Grundsicherung.
 
 (3) Die durchschnittlichen monatlichen Aufwendungen für die
-Ausbildungsvermittlung je Ausbildungsuchendem nach Absatz 1 Nr. 2 sind
-jährlich von der für die Arbeitsförderung zuständigen Stelle der
+Ausbildungsvermittlung je Ausbildungsuchendem nach Absatz 1 Nr. 2
+sind jährlich von der für die Arbeitsförderung zuständigen Stelle der
 Bundesagentur für Arbeit neu festzusetzen. Die Festsetzung erfolgt bis
 zum 30. Juni eines jeden Jahres und gilt jeweils ab dem 1. Juli des
 betreffenden Jahres.

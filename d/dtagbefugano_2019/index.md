@@ -1,6 +1,5 @@
 ---
-Title: Anordnung zur Übertragung dienstrechtlicher Befugnisse im Bereich der Deutschen
-  Telekom AG
+Title: Anordnung zur Übertragung dienstrechtlicher Befugnisse im Bereich der Deutschen Telekom AG
 jurabk: DTAGBefugAnO 2019
 layout: default
 origslug: dtagbefugano_2019
@@ -69,8 +68,8 @@ im Einzelfall selbst auszuüben.
 
 ## § 4 Inkrafttreten, Außerkrafttreten
 
-Diese Anordnung tritt am 1. Juli 2019 in Kraft. Gleichzeitig tritt die
-Anordnung zur Übertragung dienstrechtlicher Befugnisse im Bereich der
-Deutschen Telekom AG vom 2. November 2016 (BGBl. I S. 2495) außer
+Diese Anordnung tritt am 1. Juli 2019 in Kraft. Gleichzeitig tritt
+die Anordnung zur Übertragung dienstrechtlicher Befugnisse im Bereich
+der Deutschen Telekom AG vom 2. November 2016 (BGBl. I S. 2495) außer
 Kraft.
 

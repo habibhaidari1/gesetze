@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Durchführung einer Statistik über die Struktur des Personals
-  in der Jugendhilfe
+Title: Verordnung über die Durchführung einer Statistik über die Struktur des Personals in der Jugendhilfe
 jurabk: JHiStruktV
 layout: default
 origslug: jhistruktv
@@ -17,7 +16,6 @@ Fundstelle
 :   BGBl I: 1974, 2084
 
 
-
 ## Eingangsformel
 
 Auf Grund des § 6 Abs. 2 des Gesetzes über die Statistik für
@@ -29,8 +27,8 @@ mit Zustimmung des Bundesrates:
 
 ## § 1
 
-Auf dem Gebiet der Jugendhilfe wird eine Bundesstatistik über die
-Struktur des Personals nach dem Stand vom 1. November 1974
+Auf dem Gebiet der Jugendhilfe wird eine Bundesstatistik über
+die Struktur des Personals nach dem Stand vom 1. November 1974
 durchgeführt.
 
 
@@ -45,16 +43,11 @@ privaten gewerblichen Trägern von Jugendhilfeeinrichtungen
     Geschlecht, Berufsausbildungsabschluß, Stellung im Beruf, Art der
     Beschäftigung und Arbeitsbereich,
 
-
 2.  die in der außerschulischen Jugendarbeit tätigen ehrenamtlichen
     Mitarbeiter nach Zahl und Altersgruppen,
 
-
 3.  die Art des Trägers und der Einrichtung oder Geschäftsstelle sowie die
     Zahl der verfügbaren Plätze.
-
-
-
 
 
 ## § 3
@@ -66,27 +59,23 @@ Bundeszwecke sind
     einschließlich der nebenamtlich Beschäftigten der in Nummer 2
     genannten Institutionen für die Erhebungen nach § 2 Nr. 1,
 
-
 2.  die Träger der öffentlichen und der freien Jugendhilfe sowie die
     sonstigen öffentlich-rechtlichen und die privaten gewerblichen Träger
     von Jugendhilfeeinrichtungen für die Erhebungen nach § 2 Nr. 2 und 3.
 
 
-
-
-
 ## § 4
 
-(1) Statistische Meldestellen für die Erhebung nach § 2 sind die
-Jugendämter für die in ihrem örtlichen Zuständigkeitsbereich
+(1) Statistische Meldestellen für die Erhebung nach § 2 sind
+die Jugendämter für die in ihrem örtlichen Zuständigkeitsbereich
 auskunftspflichtigen Träger der freien Jugendhilfe, die sonstigen
 öffentlich-rechtlichen und die privaten gewerblichen Träger von
 Jugendhilfeeinrichtungen und die in § 2 Nr. 1 bezeichneten Personen.
 
 (2) Die Meldestellen haben für den termingerechten Eingang der
-Erhebungsbogen zu sorgen, die Vollständigkeit der Erhebungsbogen und
-der Angaben zu überprüfen, soweit erforderlich die Ergänzung und
-Berichtigung der Meldungen entsprechend der Richtlinien der
+Erhebungsbogen zu sorgen, die Vollständigkeit der Erhebungsbogen
+und der Angaben zu überprüfen, soweit erforderlich die Ergänzung
+und Berichtigung der Meldungen entsprechend der Richtlinien der
 Statistischen Ämter der Länder zu veranlassen und sie an die
 Statistischen Ämter der Länder weiterzuleiten.
 

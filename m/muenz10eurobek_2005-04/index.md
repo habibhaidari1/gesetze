@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert
-  von 10 Euro (Gedenkmünze "200. Todestag des Dichters Friedrich von Schiller")
+Title: "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze \"200. Todestag des Dichters Friedrich von Schiller\")"
 jurabk: Münz10EuroBek 2005-04
 layout: default
 origslug: m_nz10eurobek_2005-04
@@ -17,7 +16,6 @@ Fundstelle
 :   BGBl I: 2005, 1057
 
 
-
 ## (XXXX)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
@@ -32,16 +30,15 @@ von 925 Tausendteilen Silber und 75 Tausendteilen Kupfer, hat einen
 Durchmesser von 32,5 Millimetern und eine Masse von 18 Gramm. Das
 Gepräge auf beiden Seiten ist erhaben und wird von einem schützenden,
 glatten Rand umgeben.
-Die Bildseite zeigt eine Porträtdarstellung Schillers, umrahmt von
-Titeln ausgewählter dramatischer, lyrischer, epischer und
+Die Bildseite zeigt eine Porträtdarstellung Schillers, umrahmt
+von Titeln ausgewählter dramatischer, lyrischer, epischer und
 philosophischer Werke.
 Die Wertseite zeigt einen Adler, den Schriftzug "BUNDESREPUBLIK
 DEUTSCHLAND", die zwölf Europasterne, die Wertziffer mit der Euro-
 Bezeichnung sowie die Jahreszahl "2005" und das Münzzeichen "G" der
 Prägestätte Karlsruhe.
 Der glatte Münzrand enthält in vertiefter Prägung die Inschrift:
-"ERNST IST DAS LEBEN
-. HEITER IST DIE KUNST".
+"ERNST IST DAS LEBEN . HEITER IST DIE KUNST".
 Der Entwurf der Münze stammt von Herrn Carsten Theumer aus Höhnstedt.
 
 
@@ -53,4 +50,6 @@ Der Bundesminister der Finanzen
 ## (XXXX)
 
 (Fundstelle: BGBl. I 2005, 1057)
+
 ![bgbl1_2005_j1057_0010.jpg](bgbl1_2005_j1057_0010.jpg)
+

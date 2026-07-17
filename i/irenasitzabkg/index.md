@@ -1,7 +1,5 @@
 ---
-Title: Gesetz zu dem Abkommen vom 5. April 2011 zwischen der Bundesrepublik Deutschland
-  und der Internationalen Organisation für erneuerbare Energien über den Sitz des
-  IRENA-Innovations- und Technologiezentrums
+Title: Gesetz zu dem Abkommen vom 5. April 2011 zwischen der Bundesrepublik Deutschland und der Internationalen Organisation für erneuerbare Energien über den Sitz des IRENA-Innovations- und Technologiezentrums
 jurabk: IRENASitzAbkG
 layout: default
 origslug: irenasitzabkg
@@ -39,9 +37,9 @@ veröffentlicht.
 Energien, deren Mitgliedschaft als Arbeitnehmer in der deutschen
 gesetzlichen Krankenversicherung durch eine Beschäftigung bei der
 Internationalen Organisation für erneuerbare Energien endete, können
-der gesetzlichen Krankenversicherung in entsprechender Anwendung des §
-9 Absatz 1 Nummer 5 des Fünften Buches Sozialgesetzbuch beitreten,
-wenn sie innerhalb von zwei Monaten nach Beendigung ihrer
+der gesetzlichen Krankenversicherung in entsprechender Anwendung
+des § 9 Absatz 1 Nummer 5 des Fünften Buches Sozialgesetzbuch
+beitreten, wenn sie innerhalb von zwei Monaten nach Beendigung ihrer
 Beschäftigung bei der Internationalen Organisation für erneuerbare
 Energien wieder eine Beschäftigung in der Bundesrepublik Deutschland
 aufnehmen. Der Beitritt ist der Krankenkasse innerhalb von drei

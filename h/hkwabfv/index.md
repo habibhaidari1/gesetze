@@ -21,8 +21,8 @@ Geändert durch
 
 ## Eingangsformel
 
-Auf Grund des § 14 Abs. 1 Nr. 1, 2 und 3 des Abfallgesetzes vom 27.
-August 1986 (BGBl. I S. 1410) und des § 7 Abs. 1 des Bundes-
+Auf Grund des § 14 Abs. 1 Nr. 1, 2 und 3 des Abfallgesetzes vom
+27\. August 1986 (BGBl. I S. 1410) und des § 7 Abs. 1 des Bundes-
 Immissionsschutzgesetzes vom 15. März 1974 (BGBl. I S. 721), wird von
 der Bundesregierung nach Anhörung der beteiligten Kreise verordnet:
 
@@ -38,27 +38,20 @@ Anlagen eingesetzt werden, in denen
     beschichtet, entschichtet, entwickelt, phosphatiert, getrocknet oder
     in ähnlicher Weise behandelt wird,
 
-
 2.  Behandlungsgut, insbesondere Textilien, Leder, Pelze, Felle, Fasern,
     Federn oder Wolle, gereinigt, entfettet, ausgerüstet, getrocknet oder
     in ähnlicher Weise behandelt wird,
 
-
 3.  Aromen, Öle, Fette oder andere Stoffe aus Pflanzen, Pflanzenteilen
     oder aus Tierkörpern oder Tierkörperteilen extrahiert werden oder
-
 
 4.  Stoffe, Zubereitungen oder Erzeugnisse mit Hilfe dieser Lösemittel
     gewonnen oder hergestellt werden.
 
-
-
-
 (2) Lösemittel im Sinne dieser Verordnung sind flüssige Stoffe oder
 Zubereitungen mit einem Massegehalt von mehr als 5 vom Hundert an
 Halogenkohlenwasserstoffen mit einem Siedepunkt zwischen 293 K = 20
-Grad C und 423 K = 150
-Grad C bei jeweils 1013 hPa.
+Grad C und 423 K = 150 Grad C bei jeweils 1013 hPa.
 
 
 ## § 2 Getrennte Haltung, Vermischungsverbote
@@ -66,11 +59,11 @@ Grad C bei jeweils 1013 hPa.
 (1) Betreiber der in § 1 Abs. 1 genannten Anlagen haben Lösemittel
 nach Gebrauch getrennt entsprechend dem Hauptbestandteil des
 jeweiligen Ausgangsproduktes wie Dichlormethan (Methylenchlorid),
-Trichlormethan Tetrachlormethan, 1,2-Dichlorethan, 1,1,1-Trichlorethan
-(Methylchloroform), Trichlorethen (Trichlorethylen, TRI),
-Tetrachlorethen (Perchlorethylen, PER), Trichlorfluormethan (R-11),
-1,1,2,2-Tetrachlor-1,2-difluorethan (R-112) oder
-Trichlor-1,2,2-trifluorethan (R-113) zu halten.
+Trichlormethan Tetrachlormethan, 1,2-Dichlorethan, 1,1,1-
+Trichlorethan (Methylchloroform), Trichlorethen (Trichlorethylen,
+TRI), Tetrachlorethen (Perchlorethylen, PER), Trichlorfluormethan (R-
+11), 1,1,2,2-Tetrachlor-1,2-difluorethan (R-112) oder Trichlor-1,2,2-
+trifluorethan (R-113) zu halten.
 
 (2) Es ist verboten, Lösemittel unterschiedlicher Ausgangsprodukte
 nach Gebrauch untereinander oder mit anderen Stoffen oder Abfällen,
@@ -125,27 +118,17 @@ handelt, wer vorsätzlich oder fahrlässig
 
     a)  entgegen § 2 Abs. 1 nicht getrennt hält oder
 
-
     b)  entgegen § 2 Abs. 2 vermischt,
-
-
-
-
 
 2.  entgegen § 3 Abs. 1 in Verbindung mit Abs. 2 Lösemittel nicht
     zurücknimmt oder die Rücknahme nicht sicherstellt,
-
 
 3.  entgegen § 4 Satz 1 eine Erklärung über die Art und Verwendung eines
     in Nummer 1 genannten Lösemittels nicht, nicht richtig oder nicht
     vollständig abgibt oder
 
-
 4.  entgegen § 5 Lösemittel ohne die vorgeschriebene Kennzeichnung in
     Verkehr bringt.
-
-
-
 
 (2) Ordnungswidrig im Sinne des § 62 Abs. 1 Nr. 2 des Bundes-
 Immissionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -154,25 +137,17 @@ Immissionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
     a)  entgegen § 2 Abs. 1 nicht getrennt hält oder
 
-
     b)  entgegen § 2 Abs. 2 vermischt oder
-
-
-
-
 
 2.  entgegen § 4 Satz 1 eine Erklärung über die Art und Verwendung eines
     in Nummer 1 genannten Lösemittels nicht, nicht richtig oder nicht
     vollständig abgibt.
 
 
-
-
-
 ## § 7 Berlin-Klausel
 
-Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
-Verbindung mit § 31 des Abfallgesetzes und § 73 des Bundes-
+Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes
+in Verbindung mit § 31 des Abfallgesetzes und § 73 des Bundes-
 Immissionsschutzgesetzes auch im Land Berlin.
 
 
@@ -180,8 +155,8 @@ Immissionsschutzgesetzes auch im Land Berlin.
 
 Diese Verordnung tritt mit Ausnahme des § 5 am ersten Tag des dritten
 auf die Verkündung folgenden Kalendermonats in Kraft. § 5 tritt am
-ersten Tag des sechsten auf die Verkündung folgenden Kalendermonats in
-Kraft.
+ersten Tag des sechsten auf die Verkündung folgenden Kalendermonats
+in Kraft.
 
 
 ## Schlußformel
@@ -192,72 +167,16 @@ Der Bundesrat hat zugestimmt.
 ## Anlage (zu § 4 Satz 1)
 
 Fundstelle des Originaltextes: BGBl. I 1989, 1920
-**Erklärung über die Art und Verwendung von Lösemitteln**
-----------------------------------------------------------------------
----------
-I Art des Lösemittels
-I
-I ....................................................................
-.....   I
-I ....................................................................
-.....   I
-I ....................................................................
-.....   I
-I
-I
-I Das oben bezeichnete Lösemittel wurde für folgende, in § 1 Abs. 1
-Nr. 1     I
-I bis 4 genannten Zwecke (vgl. Rückseite) verwendet:
-I
-I
-I
-I 1.
-......................................................................
-I
-I 2.
-......................................................................
-I
-I 3.
-......................................................................
-I
-I 4.
-......................................................................
-I
-I 5.
-......................................................................
-I
-----------------------------------------------------------------------
----------
-Dem Lösemittel wurden nach Gebrauch keine anderen Lösemittel oder
-andere
-Stoffe oder Abfälle zugemischt.
-......................................................................
-......
-(Firma/Anschrift)             (Datum)
-(Unterschrift/Firmenstempel)
+
+```
+               Erklärung über die Art und Verwendung von Lösemitteln-------------------------------------------------------------------------------I Art des Lösemittels                                                         II .........................................................................   II .........................................................................   II .........................................................................   II                                                                             II Das oben bezeichnete Lösemittel wurde für folgende, in § 1 Abs. 1 Nr. 1     II bis 4 genannten Zwecke (vgl. Rückseite) verwendet:                          II                                                                             II 1. ......................................................................   II 2. ......................................................................   II 3. ......................................................................   II 4. ......................................................................   II 5. ......................................................................   I-------------------------------------------------------------------------------Dem Lösemittel wurden nach Gebrauch keine anderen Lösemittel oder andereStoffe oder Abfälle zugemischt. ............................................................................(Firma/Anschrift)             (Datum)       (Unterschrift/Firmenstempel)
+```
+
 (Rückseite)
 
-*
-    *
-        *
-            *
-                *   § 1
-
-
-
+-   -   -   -   -   § 1
 
                 Anwendungsbereich
-
-
-
-
-
-
-
-
-
-
-
 
 (1) Diese Verordnung gilt für Lösemittel, die nach Gebrauch als
 Reststoff verwertet oder als Abfall entsorgt werden müssen und die in
@@ -268,19 +187,13 @@ Anlagen eingesetzt werden, in denen
     beschichtet, entschichtet, entwickelt, phosphatiert, getrocknet oder
     in ähnlicher Weise behandelt wird,
 
-
 2.  Behandlungsgut, insbesondere Textilien, Leder, Pelze, Felle, Fasern,
     Federn oder Wolle, gereinigt, entfettet, ausgerüstet, getrocknet oder
     in ähnlicher Weise behandelt wird,
 
-
 3.  Aromen, Öle, Fette oder andere Stoffe aus Pflanzen, Pflanzenteilen
     oder aus Tierkörpern oder Tierkörperteilen extrahiert werden oder
 
-
 4.  Stoffe, Zubereitungen oder Erzeugnisse mit Hilfe dieser Lösemittel
     gewonnen oder hergestellt werden.
-
-
-
 

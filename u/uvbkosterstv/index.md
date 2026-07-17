@@ -1,7 +1,5 @@
 ---
-Title: Verordnung über die Kostenerstattung an die Unfallversicherung Bund und Bahn
-  für die Wahrnehmung der Aufgaben der Prävention für die Beamtinnen und Beamten der
-  in § 125 Absatz 2 des Siebten Buches Sozialgesetzbuch genannten Unternehmen
+Title: Verordnung über die Kostenerstattung an die Unfallversicherung Bund und Bahn für die Wahrnehmung der Aufgaben der Prävention für die Beamtinnen und Beamten der in § 125 Absatz 2 des Siebten Buches Sozialgesetzbuch genannten Unternehmen
 jurabk: UVBKostErstV
 layout: default
 origslug: uvbkosterstv
@@ -33,19 +31,14 @@ Siebten Buches Sozialgesetzbuch:
 
 1.  das Bundeseisenbahnvermögen,
 
-
 2.  die Mitgliedsunternehmen, denen Beamtinnen und Beamte zugewiesen sind
     nach Maßgabe der §§ 12 und 23 des Deutsche Bahn Gründungsgesetzes vom
     27\. Dezember 1993 (BGBl. I S. 2378, 2386; 1994 I S. 2439), das zuletzt
     durch Artikel 515 der Verordnung vom 31. August 2015 (BGBl. I S. 1474)
     geändert worden ist, und
 
-
 3.  die Mitgliedsunternehmen, denen keine Beamtinnen und Beamten
     zugewiesen sind.
-
-
-
 
 
 ## § 2 Kostenerstattung für übertragene Aufgaben
@@ -65,11 +58,11 @@ Unfallversicherung Bund und Bahn teilt diesen Mitgliedsunternehmen die
 Höhe der Kosten durch Bescheid mit.
 
 (2) Grundlage für die Festsetzung der Kosten sind die in dem
-Teilhaushalt für den Zuständigkeitsbereich des § 125 Absatz 2 des
-Siebten Buches Sozialgesetzbuch veranschlagten Gesamtkosten der
-Prävention, die in der Jahresrechnung nach § 77 des Vierten Buches
-Sozialgesetzbuch nachgewiesen sind. Die Gesamtkosten sind im
-Verhältnis der bei den Mitgliedsunternehmen nach § 1 im
+Teilhaushalt für den Zuständigkeitsbereich des § 125 Absatz 2
+des Siebten Buches Sozialgesetzbuch veranschlagten Gesamtkosten
+der Prävention, die in der Jahresrechnung nach § 77 des Vierten
+Buches Sozialgesetzbuch nachgewiesen sind. Die Gesamtkosten
+sind im Verhältnis der bei den Mitgliedsunternehmen nach § 1 im
 Jahresdurchschnitt beschäftigten Versicherten zu den bei diesen
 Mitgliedsunternehmen im Jahresdurchschnitt beschäftigten Beamtinnen
 und Beamten aufzuteilen. Dieser Teilbetrag wird nach der Anzahl der
@@ -84,8 +77,8 @@ Bund und Bahn innerhalb von sechs Wochen nach Ablauf des
 Kalenderjahres die Anzahl der durchschnittlich im abgelaufenen
 Kalenderjahr beschäftigten Versicherten sowie Beamtinnen und Beamten.
 
-(2) Mitarbeiterinnen und Mitarbeiter von Mitgliedsunternehmen nach § 1
-Nummer 1 und 2, deren Beamtenverhältnis auf Grund einer Beurlaubung
+(2) Mitarbeiterinnen und Mitarbeiter von Mitgliedsunternehmen nach §
+1 Nummer 1 und 2, deren Beamtenverhältnis auf Grund einer Beurlaubung
 ruht, zählen zu den beschäftigten Versicherten.
 
 

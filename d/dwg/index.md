@@ -1,5 +1,5 @@
 ---
-Title: Gesetz über die Rundfunkanstalt des Bundesrechts "Deutsche Welle"
+Title: "Gesetz über die Rundfunkanstalt des Bundesrechts \"Deutsche Welle\""
 jurabk: DWG
 layout: default
 origslug: dwg
@@ -19,27 +19,19 @@ Neugefasst durch
 :   Bek. v. 11.1.2005 I 90
 
 Zuletzt geändert durch
-:   Art. 4 G v. 19.11.2020 I 2456
-
-Änderung durch
-:   Art. 25 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 3 V v. 14.9.2021 I 4250 (Nr. 66) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 15 G v. 6.5.2024 I Nr. 149
 
 
 ## Abschnitt 1 - Grundlagen der Anstalt
 
 
-
 ### Unterabschnitt 1 - Allgemeine Vorschriften
-
 
 
 #### § 1 Rechtsform
 
-(1) Die Rundfunkanstalt des Bundesrechts Deutsche Welle ist eine
-gemeinnützige Anstalt des öffentlichen Rechts für den
+(1) Die Rundfunkanstalt des Bundesrechts Deutsche Welle ist
+eine gemeinnützige Anstalt des öffentlichen Rechts für den
 Auslandsrundfunk.
 
 (2) Die Deutsche Welle ist rechtsfähig und hat das Recht der
@@ -65,7 +57,8 @@ die Satzung der Deutschen Welle.
 #### § 3 Aufgabe
 
 (1) Die Deutsche Welle bietet für das Ausland Rundfunk (Hörfunk,
-Fernsehen) und Telemedien an.
+Fernsehen) und digitale Dienste nach § 1 Absatz 4 Nummer 1 des
+Digitale-Dienste-Gesetzes an.
 
 (2) Die Angebote der Deutschen Welle werden in deutscher Sprache sowie
 auch in anderen Sprachen verbreitet.
@@ -74,15 +67,14 @@ auch in anderen Sprachen verbreitet.
 ### Unterabschnitt 2 - Gestaltung der Sendungen
 
 
-
 #### § 4 Ziele
 
 Die Angebote der Deutschen Welle sollen Deutschland als europäisch
 gewachsene Kulturnation und freiheitlich verfassten demokratischen
 Rechtsstaat verständlich machen. Sie sollen deutschen und anderen
-Sichtweisen zu wesentlichen Themen vor allem der Politik, Kultur und
-Wirtschaft sowohl in Europa wie in anderen Kontinenten ein Forum geben
-mit dem Ziel, das Verständnis und den Austausch der Kulturen und
+Sichtweisen zu wesentlichen Themen vor allem der Politik, Kultur
+und Wirtschaft sowohl in Europa wie in anderen Kontinenten ein Forum
+geben mit dem Ziel, das Verständnis und den Austausch der Kulturen und
 Völker zu fördern. Die Deutsche Welle fördert dabei insbesondere die
 deutsche Sprache.
 
@@ -116,9 +108,9 @@ Zusammenarbeit mit Dritten gemäß § 8 Abs. 1 und 4 vollziehen soll.
 
 #### § 4b Beteiligungsverfahren
 
-(1) Die Deutsche Welle leitet den Entwurf ihrer Aufgabenplanung in der
-jährlich fortgeschriebenen Fassung nach dem Beschluss der
-Bundesregierung über den jeweils nächsten Bundeshaushalt und
+(1) Die Deutsche Welle leitet den Entwurf ihrer Aufgabenplanung
+in der jährlich fortgeschriebenen Fassung nach dem Beschluss
+der Bundesregierung über den jeweils nächsten Bundeshaushalt und
 Finanzplan rechtzeitig dem Deutschen Bundestag und der Bundesregierung
 zu.
 
@@ -138,8 +130,8 @@ die Deutsche Welle betroffen ist.
 
 (5) Die Deutsche Welle beschließt durch den Rundfunkrat mit Zustimmung
 des Verwaltungsrates ihre Aufgabenplanung unter Einbeziehung von
-Stellungnahmen des Deutschen Bundestages, der Bundesregierung sowie
-aus der Öffentlichkeit innerhalb von zwei Monaten. Diese
+Stellungnahmen des Deutschen Bundestages, der Bundesregierung
+sowie aus der Öffentlichkeit innerhalb von zwei Monaten. Diese
 Aufgabenplanung enthält auch die Kalkulation der Betriebs- und
 Investitionskosten im Planungszeitraum. Folgt die Deutsche Welle in
 ihrer Aufgabenplanung Stellungnahmen nicht, so begründet sie ihre
@@ -170,10 +162,10 @@ zu und veröffentlicht ihn.
 
 #### § 5 Programmgrundsätze
 
-(1) Die Deutsche Welle hat in ihren Angeboten die Würde des Menschen
-zu achten und zu schützen. Die Vorschriften der allgemeinen Gesetze,
-die gesetzlichen Bestimmungen zum Schutz der Jugend und zur
-Gleichberechtigung von Frauen und Männern sowie des Rechts der
+(1) Die Deutsche Welle hat in ihren Angeboten die Würde des
+Menschen zu achten und zu schützen. Die Vorschriften der allgemeinen
+Gesetze, die gesetzlichen Bestimmungen zum Schutz der Jugend und
+zur Gleichberechtigung von Frauen und Männern sowie des Rechts der
 persönlichen Ehre sind einzuhalten.
 
 (2) Die Sendungen müssen eine unabhängige Meinungsbildung ermöglichen
@@ -182,10 +174,10 @@ Vereinigung, eine Religionsgemeinschaft, einen Berufsstand oder eine
 Interessengemeinschaft unterstützen. Die sittlichen, religiösen und
 weltanschaulichen Überzeugungen der Rundfunkteilnehmer sind zu achten.
 
-(3) Die Berichterstattung soll umfassend, wahrheitsgetreu und sachlich
-sein sowie in dem Bewusstsein erfolgen, dass die Sendungen der
-Deutschen Welle die Beziehungen der Bundesrepublik Deutschland zu
-ausländischen Staaten berühren. Herkunft und Inhalt der zur
+(3) Die Berichterstattung soll umfassend, wahrheitsgetreu und
+sachlich sein sowie in dem Bewusstsein erfolgen, dass die Sendungen
+der Deutschen Welle die Beziehungen der Bundesrepublik Deutschland
+zu ausländischen Staaten berühren. Herkunft und Inhalt der zur
 Veröffentlichung bestimmten Nachrichten sind mit der gebotenen
 Sorgfalt zu prüfen. Kommentare sind deutlich von Nachrichten zu
 trennen und unter Nennung des Verfassers als solche zu kennzeichnen.
@@ -203,16 +195,13 @@ unzulässig, wenn sie
     Bevölkerung oder eine vorbezeichnete Gruppe beschimpft, böswillig
     verächtlich gemacht oder verleumdet werden,
 
-
-2.  grausame oder sonst unmenschliche Gewalttätigkeiten gegen Menschen in
-    einer Art schildern, die eine Verherrlichung oder Verharmlosung
+2.  grausame oder sonst unmenschliche Gewalttätigkeiten gegen Menschen
+    in einer Art schildern, die eine Verherrlichung oder Verharmlosung
     solcher Gewalttätigkeiten ausdrückt oder die das Grausame oder
     Unmenschliche des Vorgangs in einer die Menschenwürde verletzenden
     Weise darstellt; dies gilt auch bei virtuellen Darstellungen,
 
-
 3.  den Krieg verherrlichen,
-
 
 4.  gegen die Menschenwürde verstoßen, insbesondere durch die Darstellung
     von Menschen, die sterben oder schweren körperlichen oder seelischen
@@ -221,23 +210,18 @@ unzulässig, wenn sie
     diese Form der Darstellung oder Berichterstattung vorliegt; eine
     Einwilligung ist unbeachtlich,
 
-
 5.  pornographisch sind oder Kinder oder Jugendliche in unnatürlich
     geschlechtsbetonter Körperhaltung darstellen; dies gilt auch bei
     virtuellen Darstellungen,
-
 
 6.  in die Liste nach § 18 des Jugendschutzgesetzes aufgenommen sind oder
     mit einem in diese Liste aufgenommenen Werk ganz oder im Wesentlichen
     inhaltsgleich sind,
 
-
 7.  offensichtlich geeignet sind, die Entwicklung von Kindern und
-    Jugendlichen oder ihre Erziehung zu einer eigenverantwortlichen und
-    gemeinschaftsfähigen Persönlichkeit unter Berücksichtigung der
+    Jugendlichen oder ihre Erziehung zu einer eigenverantwortlichen
+    und gemeinschaftsfähigen Persönlichkeit unter Berücksichtigung der
     besonderen Wirkungsform des Verbreitungsmediums schwer zu gefährden.
-
-
 
 Im Fall der Nummer 2 gilt § 131 Abs. 2 des Strafgesetzbuches
 entsprechend. Im Fall der Nummer 3 gilt § 86 Absatz 4 des
@@ -265,19 +249,19 @@ Altersstufe nicht freigegeben sind. Satz 1 gilt entsprechend für
 Angebote, die mit dem bewerteten Angebot im Wesentlichen inhaltsgleich
 sind.
 
-(3) Ist eine entwicklungsbeeinträchtigende Wirkung im Sinne von Absatz
-1 auf Kinder oder Jugendliche anzunehmen, erfüllt die Deutsche Welle
-ihre Verpflichtung nach Absatz 1, wenn das Angebot nur zwischen 23 Uhr
-und 6 Uhr verbreitet oder zugänglich gemacht wird. Ist eine
+(3) Ist eine entwicklungsbeeinträchtigende Wirkung im Sinne von
+Absatz 1 auf Kinder oder Jugendliche anzunehmen, erfüllt die Deutsche
+Welle ihre Verpflichtung nach Absatz 1, wenn das Angebot nur zwischen
+23 Uhr und 6 Uhr verbreitet oder zugänglich gemacht wird. Ist eine
 entwicklungsbeeinträchtigende Wirkung auf Kinder oder Jugendliche
 unter 16 Jahren zu befürchten, darf das Angebot nur zwischen 22 Uhr
-und 6 Uhr verbreitet oder zugänglich gemacht werden. Bei Filmen, die
-nach § 14 Abs. 2 des Jugendschutzgesetzes unter 12 Jahren nicht
+und 6 Uhr verbreitet oder zugänglich gemacht werden. Bei Filmen,
+die nach § 14 Abs. 2 des Jugendschutzgesetzes unter 12 Jahren nicht
 freigegeben sind, ist bei der Wahl der Sendezeit dem Wohl jüngerer
 Kinder Rechnung zu tragen.
 
-(4) Die Deutsche Welle hat den Nutzern ausreichende Informationen über
-Inhalte zu geben, die die körperliche, geistige oder sittliche
+(4) Die Deutsche Welle hat den Nutzern ausreichende Informationen
+über Inhalte zu geben, die die körperliche, geistige oder sittliche
 Entwicklung von Kindern oder Jugendlichen beeinträchtigen können.
 Hierzu nutzt sie ein System, mit dem die potentielle Schädlichkeit der
 Angebote beschrieben wird.
@@ -291,8 +275,8 @@ angekündigt oder durch optische Mittel während der gesamten Sendung
 als ungeeignet für die entsprechende Altersstufe kenntlich gemacht
 werden.
 
-(6) Die Deutsche Welle kann in Richtlinien oder für den Einzelfall für
-Filme, auf die das Jugendschutzgesetz keine Anwendung findet,
+(6) Die Deutsche Welle kann in Richtlinien oder für den Einzelfall
+für Filme, auf die das Jugendschutzgesetz keine Anwendung findet,
 zeitliche Beschränkungen vorsehen, um den Besonderheiten der
 Ausstrahlung von Filmen im Fernsehen, vor allem bei Fernsehserien,
 gerecht zu werden.
@@ -316,8 +300,8 @@ abweichenden Bewertung zu unterrichten.
 
 (10) Die Absätze 1 und 4 gelten nicht für Nachrichtensendungen,
 Sendungen zum politischen Zeitgeschehen im Rundfunk und vergleichbare
-Angebote bei Telemedien, soweit ein berechtigtes Interesse gerade an
-dieser Form der Darstellung oder Berichterstattung vorliegt.
+Angebote bei digitalen Diensten, soweit ein berechtigtes Interesse
+gerade an dieser Form der Darstellung oder Berichterstattung vorliegt.
 
 
 #### § 7 Jugendschutzbeauftragte/Jugendschutzbeauftragter
@@ -330,15 +314,15 @@ Rundfunkteilnehmer und Nutzer und berät den Intendanten in Fragen des
 Jugendschutzes. Diese Person ist von der Deutschen Welle bei Fragen
 des Programmeinkaufs, der Herstellung, des Erwerbs, der Planung und
 der Gestaltung von Angeboten und bei allen Entscheidungen zur Wahrung
-des Jugendschutzes angemessen und rechtzeitig zu beteiligen und über
-das jeweilige Angebot vollständig zu informieren. Sie kann dem
+des Jugendschutzes angemessen und rechtzeitig zu beteiligen und
+über das jeweilige Angebot vollständig zu informieren. Sie kann dem
 Intendanten eine Beschränkung oder Änderung von Angeboten vorschlagen.
 
-(3) Die/Der Jugendschutzbeauftragte muss die zur Erfüllung
-ihrer/seiner Aufgaben erforderliche Fachkunde besitzen. Diese Person
-ist in ihrer Tätigkeit weisungsfrei. Sie darf wegen der Erfüllung
-ihrer Aufgaben nicht benachteiligt werden. Ihr sind die zur Erfüllung
-ihrer Aufgaben notwendigen Sachmittel zur Verfügung zu stellen. Soweit
+(3) Die/Der Jugendschutzbeauftragte muss die zur Erfüllung ihrer/
+seiner Aufgaben erforderliche Fachkunde besitzen. Diese Person ist
+in ihrer Tätigkeit weisungsfrei. Sie darf wegen der Erfüllung ihrer
+Aufgaben nicht benachteiligt werden. Ihr sind die zur Erfüllung ihrer
+Aufgaben notwendigen Sachmittel zur Verfügung zu stellen. Soweit
 diese Person Arbeitnehmer der Deutschen Welle ist, ist sie unter
 Fortzahlung ihrer Bezüge soweit für ihre Aufgaben erforderlich von der
 Arbeitsleistung freizustellen.
@@ -367,7 +351,6 @@ Kultur und Medien zuständigen obersten Bundesbehörde zu. Diese
 ### Unterabschnitt 3 - Erfüllung der Aufgaben
 
 
-
 #### § 8 Zusammenarbeit mit Dritten
 
 (1) Die Deutsche Welle arbeitet zur Erfüllung ihrer Aufgabe und zur
@@ -380,13 +363,13 @@ ihnen ihre Sendungen für eine Programmübernahme überlassen.
 
 (2) Die Deutsche Welle kann zur Herstellung und wirtschaftlichen
 Verwertung von Rundfunkproduktionen mit anderen Rundfunkveranstaltern
-zusammenarbeiten und sich zu diesem Zweck im Rahmen des § 59 auch an
-anderen Unternehmen beteiligen. Die Herstellung der
+zusammenarbeiten und sich zu diesem Zweck im Rahmen des § 59
+auch an anderen Unternehmen beteiligen. Die Herstellung der
 Rundfunkproduktionen nach Satz 1 darf nicht überwiegend einer
 wirtschaftlichen Verwertung dienen.
 
-(3) Die Zusammenarbeit mit Rundfunkanstalten und -veranstaltern nach
-den Absätzen 1 und 2 ist zulässig, sofern die redaktionelle
+(3) Die Zusammenarbeit mit Rundfunkanstalten und -veranstaltern
+nach den Absätzen 1 und 2 ist zulässig, sofern die redaktionelle
 Unabhängigkeit der Deutschen Welle unberührt bleibt.
 
 (4) Die Deutsche Welle arbeitet wechselseitig zur Erfüllung ihrer
@@ -402,17 +385,11 @@ Verbreitung von Sendungen, die sie
 
 1.  selbst plant und herstellt (Eigenproduktion),
 
-
 2.  gemeinsam mit Dritten produziert (Gemeinschaftsproduktionen),
-
 
 3.  von Dritten herstellen lässt (Auftragsproduktionen),
 
-
 4.  von Dritten erwirbt (Fremdproduktionen).
-
-
-
 
 (2) Zur Darstellung der Vielfalt im deutschsprachigen und europäischen
 Raum und zur Förderung von europäischen Film- und Fernsehproduktionen
@@ -421,9 +398,9 @@ Spielfilme, Fernsehspiele, Serien, Dokumentarsendungen und
 vergleichbare Produktionen vorgesehenen Sendezeit europäischen Werken
 entsprechend dem europäischen Recht vorbehalten. Die Deutsche Welle
 stellt in ihrem Angebot audiovisueller Mediendienste auf Abruf im
-Sinne des § 2 Satz 1 Nummer 8 des Telemediengesetzes sicher, dass der
-Anteil europäischer Werke mindestens 30 Prozent entspricht und solche
-Werke herausgestellt werden.
+Sinne des § 1 Absatz 4 Nummer 6 des Digitale-Dienste-Gesetzes sicher,
+dass der Anteil europäischer Werke mindestens 30 Prozent entspricht
+und solche Werke herausgestellt werden.
 
 (3) Die Spielfilme, Fernsehspiele, Serien, Dokumentarsendungen und
 vergleichbaren Produktionen der Deutschen Welle sollen jeweils einen
@@ -433,8 +410,8 @@ Werken unabhängiger Hersteller soll eine angemessene Quote neueren
 Produktionen vorbehalten sein, die innerhalb eines Zeitraums von fünf
 Jahren nach ihrer Herstellung ausgestrahlt werden.
 
-(4) Die Deutsche Welle verbreitet Kinofilme nicht vor Ablauf von zwei
-Jahren nach ihrer Erstaufführung im Kino, es sei denn, die
+(4) Die Deutsche Welle verbreitet Kinofilme nicht vor Ablauf von
+zwei Jahren nach ihrer Erstaufführung im Kino, es sei denn, die
 Rechteinhaber und die Deutsche Welle haben etwas anderes vereinbart.
 
 (5) Eine Einflussnahme auf die Gestaltung und den Inhalt der Sendungen
@@ -446,13 +423,14 @@ dieses Gesetzes, insbesondere der §§ 4 bis 6, entsprechen.
 
 #### § 10 Werbung
 
-(1) Werbung ist jede Äußerung, die der unmittelbaren oder mittelbaren
-Förderung des Absatzes von Waren und Dienstleistungen, einschließlich
-unbeweglicher Sachen, Rechte und Verpflichtungen, oder des
-Erscheinungsbilds natürlicher oder juristischer Personen, die einer
-wirtschaftlichen Tätigkeit nachgehen, dient und gegen Entgelt oder
-eine ähnliche Gegenleistung oder als Eigenwerbung im Rundfunk oder in
-einem Telemedium aufgenommen ist. Werbung ist insbesondere
+(1) Werbung ist jede Äußerung, die der unmittelbaren oder
+mittelbaren Förderung des Absatzes von Waren und Dienstleistungen,
+einschließlich unbeweglicher Sachen, Rechte und Verpflichtungen,
+oder des Erscheinungsbilds natürlicher oder juristischer Personen,
+die einer wirtschaftlichen Tätigkeit nachgehen, dient und gegen
+Entgelt oder eine ähnliche Gegenleistung oder als Eigenwerbung im
+Rundfunk oder in einem digitalen Dienst nach § 1 Absatz 4 Nummer 1 des
+Digitale-Dienste-Gesetzes aufgenommen ist. Werbung ist insbesondere
 Rundfunkwerbung, Sponsern und Produktplatzierung.
 
 (2) Werbung darf nicht die Menschenwürde verletzen oder
@@ -473,20 +451,14 @@ ausnutzen. Werbung darf daher nicht
     Dienstleistungen an Kinder oder Jugendliche enthalten, die deren
     Unerfahrenheit und Leichtgläubigkeit ausnutzen,
 
-
 2.  Kinder oder Jugendliche unmittelbar dazu auffordern, ihre Eltern oder
     Dritte zum Kauf der beworbenen Waren oder Dienstleistungen zu bewegen,
-
 
 3.  das besondere Vertrauen ausnutzen, das Kinder oder Jugendliche zu
     Eltern, Lehrern und anderen Personen haben oder
 
-
 4.  Kinder oder Jugendliche ohne berechtigten Grund in gefährlichen
     Situationen zeigen.
-
-
-
 
 (4) Die Werbung für alkoholische Getränke muss folgenden Kriterien
 entsprechen:
@@ -495,42 +467,34 @@ a)  Sie darf sich weder an Kinder oder Jugendliche richten noch durch die
     Art der Darstellung Kinder und Jugendliche besonders ansprechen oder
     diese beim Alkoholgenuss darstellen.
 
-
 b)  Es darf keinerlei Verbindung zwischen einer Verbesserung der
     physischen Leistung und Alkoholgenuss oder dem Führen von
     Kraftfahrzeugen und Alkoholgenuss hergestellt werden.
 
-
 c)  Es darf nicht der Eindruck erweckt werden, Alkoholgenuss fördere
     sozialen oder sexuellen Erfolg.
-
 
 d)  Sie darf nicht eine therapeutische, stimulierende, beruhigende oder
     konfliktlösende Wirkung von Alkohol suggerieren.
 
-
 e)  Unmäßigkeit im Genuss alkoholischer Getränke darf nicht gefördert oder
     Enthaltsamkeit oder Mäßigkeit nicht negativ dargestellt werden.
-
 
 f)  Die Höhe des Alkoholgehalts von Getränken darf nicht als positive
     Eigenschaft hervorgehoben werden.
 
-
-
-
 (5) Werbung oder Werbetreibende dürfen das übrige Programm inhaltlich
 und redaktionell nicht beeinflussen.
 
-(6) Werbung muss als solche klar erkennbar sein. Sie muss im Fernsehen
-durch optische und im Hörfunk durch akustische Mittel eindeutig von
-anderen Programmteilen getrennt sein. In der Werbung dürfen
-unterschwellige Techniken nicht eingesetzt werden. Eine Teilbelegung
-des ausgestrahlten Bildes mit Werbung ist zulässig, wenn die Werbung
-vom übrigen Programm eindeutig optisch getrennt und als solche
-gekennzeichnet ist. Im Rahmen der Zusammenarbeit der Deutschen Welle
-mit den ARD-Landesrundfunkanstalten und dem ZDF ist von den
-Landesrundfunkanstalten übernommene, nachträglich in das Bild
+(6) Werbung muss als solche klar erkennbar sein. Sie muss im
+Fernsehen durch optische und im Hörfunk durch akustische Mittel
+eindeutig von anderen Programmteilen getrennt sein. In der Werbung
+dürfen unterschwellige Techniken nicht eingesetzt werden. Eine
+Teilbelegung des ausgestrahlten Bildes mit Werbung ist zulässig,
+wenn die Werbung vom übrigen Programm eindeutig optisch getrennt
+und als solche gekennzeichnet ist. Im Rahmen der Zusammenarbeit der
+Deutschen Welle mit den ARD-Landesrundfunkanstalten und dem ZDF ist
+von den Landesrundfunkanstalten übernommene, nachträglich in das Bild
 eingegebene oder veränderte Werbung zulässig. Entsprechendes gilt für
 die Übernahme von in Sendungen enthaltenen Produktplatzierungen.
 
@@ -570,11 +534,11 @@ für die Fernsehwerbung dort geltenden strengeren Vorschriften nicht
 umgangen werden. Satz 1 gilt nicht, wenn mit dem betroffenen Staat
 Übereinkünfte auf diesem Gebiet geschlossen wurden.
 
-(14) Die Gesamtdauer der Werbung beträgt im Fernsehprogramm der
-Deutschen Welle höchstens 20 Minuten werktäglich im
+(14) Die Gesamtdauer der Werbung beträgt im Fernsehprogramm
+der Deutschen Welle höchstens 20 Minuten werktäglich im
 Jahresdurchschnitt. Nicht vollständig genutzte Werbezeit darf
-höchstens bis zu fünf Minuten werktäglich nachgeholt werden. Bei
-Sendungen für regionale Verbreitungsgebiete ist ein höherer
+höchstens bis zu fünf Minuten werktäglich nachgeholt werden.
+Bei Sendungen für regionale Verbreitungsgebiete ist ein höherer
 Werbeanteil zulässig. Die Dauer der Spot-Werbung im Fernsehen darf
 innerhalb eines Zeitraums von einer Stunde 20 vom Hundert nicht
 überschreiten.
@@ -592,26 +556,28 @@ Richtlinien.
 
 (1) Sponsern ist der Beitrag einer natürlichen oder juristischen
 Person oder einer Personenvereinigung, die an Rundfunktätigkeiten, an
-der Bereitstellung von Telemedien oder an der Produktion
-audiovisueller Werke nicht beteiligt ist, zur direkten oder indirekten
-Finanzierung von Telemedien oder einer Sendung, um den Namen, die
-Marke, das Erscheinungsbild der Person, ihre Tätigkeit oder ihre
-Leistungen zu fördern.
+der Bereitstellung von digitalen Diensten nach § 1 Absatz 4 Nummer 1
+des Digitale-Dienste-Gesetzes oder an der Produktion audiovisueller
+Werke nicht beteiligt ist, zur direkten oder indirekten Finanzierung
+von digitalen Diensten nach § 1 Absatz 4 Nummer 1 des Digitale-
+Dienste-Gesetzes oder einer Sendung, um den Namen, die Marke, das
+Erscheinungsbild der Person, ihre Tätigkeit oder ihre Leistungen zu
+fördern.
 
-(2) Bei Angeboten, die ganz oder teilweise gesponsert werden, muss zu
-Beginn und am Ende auf die Finanzierung durch den Sponsor in
+(2) Bei Angeboten, die ganz oder teilweise gesponsert werden, muss
+zu Beginn und am Ende auf die Finanzierung durch den Sponsor in
 vertretbarer Kürze deutlich hingewiesen werden; der Hinweis ist in
-diesem Rahmen auch durch Bewegtbild möglich. Neben oder an Stelle des
-Namens des Sponsors kann auch dessen Firmenemblem oder eine Marke
+diesem Rahmen auch durch Bewegtbild möglich. Neben oder an Stelle
+des Namens des Sponsors kann auch dessen Firmenemblem oder eine Marke
 eingeblendet werden.
 
-(3) Inhalt und Programmplatz eines gesponserten Angebots dürfen vom
-Sponsor nicht in der Weise beeinflusst werden, dass die Verantwortung
-und die redaktionelle Unabhängigkeit der Deutschen Welle
+(3) Inhalt und Programmplatz eines gesponserten Angebots dürfen
+vom Sponsor nicht in der Weise beeinflusst werden, dass die
+Verantwortung und die redaktionelle Unabhängigkeit der Deutschen Welle
 beeinträchtigt werden.
 
-(4) Gesponserte Angebote dürfen nicht zum Verkauf, zum Kauf oder zum
-Abschluss eines Miet- oder Pachtvertrags über Erzeugnisse oder
+(4) Gesponserte Angebote dürfen nicht zum Verkauf, zum Kauf oder
+zum Abschluss eines Miet- oder Pachtvertrags über Erzeugnisse oder
 Dienstleistungen des Sponsors oder eines Dritten, vor allem durch
 entsprechende besondere Hinweise, anregen.
 
@@ -628,8 +594,8 @@ Die Deutsche Welle kann ausländischen Rundfunkveranstaltern oder
 Dritten gestatten, die von ihr produzierten oder verbreiteten
 Sendungen im Ausland wiederauszustrahlen, in ausländische Kabelnetze
 einzuspeisen oder in sonstiger Weise einzusetzen, wenn dies der
-Erfüllung ihres Programmauftrags dient und ein kommerzieller Vertrieb
-der abgegebenen Sendungen durch Dritte ausgeschlossen ist.
+Erfüllung ihres Programmauftrags dient und ein kommerzieller
+Vertrieb der abgegebenen Sendungen durch Dritte ausgeschlossen ist.
 Ausländische Rundfunkveranstalter oder Dritte haben keinen Anspruch
 auf Überlassung von Sendungen der Deutschen Welle.
 
@@ -658,28 +624,27 @@ ist.
 
 #### § 15 Sendetechnik
 
-(1) Die Deutsche Welle kann zur Erfüllung ihrer Aufgabe nach § 3 die
-gleichen technischen Übertragungsmöglichkeiten nutzen, die den
+(1) Die Deutsche Welle kann zur Erfüllung ihrer Aufgabe nach § 3
+die gleichen technischen Übertragungsmöglichkeiten nutzen, die den
 öffentlich-rechtlichen Rundfunkanstalten der Länder zur Verfügung
 stehen. Dazu zählt auch die Zuspielung und die Abstrahlung der
 Programme über Satelliten.
 
 (2) Zur Erfüllung ihrer Aufgabe kann die Deutsche Welle im In- und
 Ausland die erforderlichen Rundfunksender anmieten; im Ausland kann
-sie die erforderlichen Rundfunksender auch errichten, unterhalten und
-betreiben.
+sie die erforderlichen Rundfunksender auch errichten, unterhalten
+und betreiben.
 
 (3) Die Programme der Deutschen Welle können über Satellit
 ausgestrahlt sowie im Ausland terrestrisch verbreitet und in
-ausländische Kabelnetze eingespeist werden. Die Deutsche Welle nutzt
-für ihre Hörfunkprogramme auch die ihr zugewiesenen
+ausländische Kabelnetze eingespeist werden. Die Deutsche Welle
+nutzt für ihre Hörfunkprogramme auch die ihr zugewiesenen
 Übertragungsmöglichkeiten im Kurz- und Mittelwellenbereich. Zusätzlich
 strahlt die Deutsche Welle ihre Hörfunkprogramme von angemieteten
 Sendern oder eigenen Relaisstationen im Ausland ab.
 
 
 ### Unterabschnitt 4 - Rechte Dritter
-
 
 
 #### § 16 Verlautbarungsrecht
@@ -704,8 +669,8 @@ angemessen berücksichtigt werden.
 #### § 18 Gegendarstellung
 
 (1) Die Deutsche Welle ist verpflichtet, durch Rundfunk die
-Gegendarstellung der Person oder Stelle zu verbreiten, die durch eine
-von der Deutschen Welle in einer Sendung verbreitete
+Gegendarstellung der Person oder Stelle zu verbreiten, die
+durch eine von der Deutschen Welle in einer Sendung verbreitete
 Tatsachenbehauptung betroffen ist.
 
 (2) Die Pflicht zur Verbreitung der Gegendarstellung besteht nicht,
@@ -714,40 +679,36 @@ wenn
 1.  die betroffene Person oder Stelle kein berechtigtes Interesse an der
     Verbreitung hat oder
 
-
 2.  die Gegendarstellung ihrem Umfang nach nicht angemessen ist,
     insbesondere den Umfang des beanstandeten Teils der Sendung deutlich
     überschreitet.
 
-
-
-
 (3) Die Gegendarstellung muss sich auf tatsächliche Angaben
-beschränken und darf keinen strafbaren Inhalt haben. Sie bedarf der
-Schriftform und ist vom Betroffenen oder seinem gesetzlichen Vertreter
-zu unterzeichnen. Der Betroffene oder sein Vertreter kann die
-Verbreitung nur verlangen, wenn die Gegendarstellung unverzüglich,
-spätestens innerhalb von drei Monaten nach der Verbreitung der
-beanstandeten Tatsachenbehauptung, der Deutschen Welle zugeht. Die
-Gegendarstellung muss die beanstandete Sendung und die
+beschränken und darf keinen strafbaren Inhalt haben. Sie bedarf
+der Schriftform und ist vom Betroffenen oder seinem gesetzlichen
+Vertreter zu unterzeichnen. Der Betroffene oder sein Vertreter
+kann die Verbreitung nur verlangen, wenn die Gegendarstellung
+unverzüglich, spätestens innerhalb von drei Monaten nach der
+Verbreitung der beanstandeten Tatsachenbehauptung, der Deutschen Welle
+zugeht. Die Gegendarstellung muss die beanstandete Sendung und die
 Tatsachenbehauptung bezeichnen.
 
 (4) Die Gegendarstellung muss unverzüglich innerhalb des gleichen
 Programms wie die beanstandete Tatsachenbehauptung sowie zur gleichen
 Tageszeit oder, wenn dies nicht möglich ist, zu einer Sendezeit
 verbreitet werden, die der Zeit der beanstandeten Sendung gleichwertig
-ist. Die Verbreitung erfolgt ohne Einschaltungen, Kommentierungen und
-Weglassungen. Eine Erwiderung auf die Gegendarstellung ist nur
+ist. Die Verbreitung erfolgt ohne Einschaltungen, Kommentierungen
+und Weglassungen. Eine Erwiderung auf die Gegendarstellung ist nur
 zulässig, wenn sie sich auf Tatsachen beschränkt.
 
 (5) Die Verbreitung der Gegendarstellung erfolgt unentgeltlich.
 
-(6) Lehnt die Deutsche Welle die Verbreitung der Gegendarstellung ab
-oder bleibt sie untätig, so steht der betroffenen Person oder Stelle
-der ordentliche Rechtsweg offen. Auf Antrag des Betroffenen kann das
-Gericht anordnen, dass die Deutsche Welle in der Form des Absatzes 4
-eine Gegendarstellung verbreitet. Auf das Verfahren sind die
-Vorschriften der Zivilprozessordnung über das Verfahren auf Erlass
+(6) Lehnt die Deutsche Welle die Verbreitung der Gegendarstellung
+ab oder bleibt sie untätig, so steht der betroffenen Person oder
+Stelle der ordentliche Rechtsweg offen. Auf Antrag des Betroffenen
+kann das Gericht anordnen, dass die Deutsche Welle in der Form des
+Absatzes 4 eine Gegendarstellung verbreitet. Auf das Verfahren sind
+die Vorschriften der Zivilprozessordnung über das Verfahren auf Erlass
 einer einstweiligen Verfügung entsprechend anzuwenden. Eine Gefährdung
 des Anspruchs braucht nicht glaubhaft gemacht zu werden. Ein Verfahren
 zur Hauptsache findet nicht statt.
@@ -776,8 +737,8 @@ schriftlichen Bescheid.
 (3) Der Intendant legt die Programmbeschwerde sowie seinen
 abschließenden Bescheid dem Rundfunkrat zur Unterrichtung vor. Hilft
 der Intendant der Programmbeschwerde nicht oder nicht innerhalb der
-Frist nach Absatz 2 Satz 2 ab, so kann sich der Beschwerdeführer an
-den Rundfunkrat wenden, der dann über die Programmbeschwerde
+Frist nach Absatz 2 Satz 2 ab, so kann sich der Beschwerdeführer
+an den Rundfunkrat wenden, der dann über die Programmbeschwerde
 entscheidet. Auf diese Möglichkeit hat der Intendant in seinem
 Bescheid ausdrücklich hinzuweisen.
 
@@ -796,14 +757,14 @@ Rechten verletzt worden zu sein (Anrufung).
 (2) Wird mit einer Anrufung gleichzeitig die Verletzung von
 Programmgrundsätzen nach § 19 behauptet, so unterrichtet der
 Beauftragte für den Datenschutz der Deutschen Welle unverzüglich den
-Intendanten und gibt gleichzeitig ihm gegenüber eine Stellungnahme zum
-Inhalt der Anrufung ab. Schließt sich der Intendant dieser
-Stellungnahme an, so gilt für das weitere Verfahren § 19 Abs. 2 und 3.
-Will der Intendant in seiner Entscheidung hinsichtlich des die
-Anrufung betreffenden Teils von der Stellungnahme des Beauftragten für
-den Datenschutz der Deutschen Welle abweichen, so legt er die Eingabe
-dem Verwaltungsrat zur abschließenden Entscheidung vor. An die
-Entscheidung des Verwaltungsrates ist der Intendant gebunden. Das
+Intendanten und gibt gleichzeitig ihm gegenüber eine Stellungnahme
+zum Inhalt der Anrufung ab. Schließt sich der Intendant dieser
+Stellungnahme an, so gilt für das weitere Verfahren § 19 Abs. 2 und
+3\. Will der Intendant in seiner Entscheidung hinsichtlich des die
+Anrufung betreffenden Teils von der Stellungnahme des Beauftragten
+für den Datenschutz der Deutschen Welle abweichen, so legt er die
+Eingabe dem Verwaltungsrat zur abschließenden Entscheidung vor. An
+die Entscheidung des Verwaltungsrates ist der Intendant gebunden. Das
 Nähere regelt die Satzung.
 
 (3) Wird mit einer Programmbeschwerde nach § 19 eine Anrufung
@@ -814,8 +775,8 @@ Beauftragten für den Datenschutz der Deutschen Welle zu; Absatz 2 Satz
 
 #### § 21 Beweissicherung
 
-(1) Von allen Sendungen, die die Deutsche Welle verbreitet, sind
-originalgetreue und vollständige Tonaufzeichnungen, von
+(1) Von allen Sendungen, die die Deutsche Welle verbreitet,
+sind originalgetreue und vollständige Tonaufzeichnungen, von
 Fernsehsendungen auch Bildaufzeichnungen, herzustellen und
 aufzubewahren.
 
@@ -826,14 +787,13 @@ Beanstandung durch rechtskräftige gerichtliche Entscheidung, durch
 gerichtlichen Vergleich oder auf andere Weise erledigt ist.
 
 (3) Wer schriftlich oder elektronisch glaubhaft macht, durch eine
-Sendung der Deutschen Welle in seinen Rechten betroffen zu sein, kann
-von der Deutschen Welle Einsicht in die Aufzeichnung dieser Sendung
-verlangen und auf eigene Kosten durch die Deutsche Welle
+Sendung der Deutschen Welle in seinen Rechten betroffen zu sein,
+kann von der Deutschen Welle Einsicht in die Aufzeichnung dieser
+Sendung verlangen und auf eigene Kosten durch die Deutsche Welle
 Mehrausfertigungen herstellen lassen.
 
 
 ### Unterabschnitt 5 - Verantwortung für Sendungen
-
 
 
 #### § 22 Allgemeine Verantwortung
@@ -868,20 +828,14 @@ zu machen:
 
 1.  Name und Anschrift,
 
-
 2.  Angaben, die eine schnelle und unmittelbare Kontaktaufnahme und eine
     effiziente Kommunikation ermöglichen, einschließlich der Adresse der
     elektronischen Post,
 
-
 3.  die Angabe, dass die Deutsche Welle der Rechtshoheit der
     Bundesrepublik Deutschland unterworfen ist und
 
-
 4.  Angaben über die zuständige Aufsicht.
-
-
-
 
 (2) Die Deutsche Welle stellt der für Kultur und Medien zuständigen
 obersten Bundesbehörde die Informationen zur Verfügung, die diese zur
@@ -896,7 +850,6 @@ Vorschriften benötigt:
     6\.10.2010, S. 15), die durch die Richtlinie (EU) 2018/1808 (ABl. L 303
     vom 28.11.2018, S. 69) geändert worden ist, und
 
-
 2.  Artikel 6 Absatz 2 in Verbindung mit Artikel 19 des Europäischen
     Übereinkommens über das grenzüberschreitende Fernsehen vom 5. Mai 1989
     (BGBl. 1994 II S. 638), geändert durch das Protokoll des Europarates
@@ -904,15 +857,10 @@ Vorschriften benötigt:
     März 2002.
 
 
-
-
-
 ## Abschnitt 2 - Struktur der Anstalt
 
 
-
 ### Unterabschnitt 1 - Allgemeine Vorschriften
-
 
 
 #### § 24 Organe
@@ -921,14 +869,9 @@ Vorschriften benötigt:
 
 1.  der Rundfunkrat,
 
-
 2.  der Verwaltungsrat,
 
-
 3.  der Intendant.
-
-
-
 
 (2) Gremien der Deutschen Welle sind der Rundfunkrat und der
 Verwaltungsrat.
@@ -942,28 +885,23 @@ Verwaltungsrat.
 sich gegenseitig aus. Der Intendant darf nicht Gremienmitglied sein.
 
 (2) Die Mitglieder der Gremien dürfen keine wirtschaftlichen oder
-sonstigen Interessen verfolgen, die geeignet sind, die Erfüllung ihrer
-Aufgaben als Mitglieder der Gremien zu gefährden. Sie dürfen
+sonstigen Interessen verfolgen, die geeignet sind, die Erfüllung
+ihrer Aufgaben als Mitglieder der Gremien zu gefährden. Sie dürfen
 insbesondere nicht zugleich Mitglieder eines Organs
 
 1.  einer anderen öffentlich-rechtlichen Rundfunkanstalt oder eines
     privaten Rundfunkveranstalters,
 
-
 2.  eines Zusammenschlusses von öffentlich-rechtlichen oder privaten
     Rundfunkveranstaltern,
 
-
-3.  einer Gesellschaft des privaten Rechts, die unmittelbar oder mittelbar
-    vertragliche Regelungen über die Lieferung von Rundfunkprogrammen oder
-    Programmteilen zu einem öffentlich-rechtlichen oder privaten
-    Rundfunkveranstalter unterhält, oder
-
+3.  einer rechtsfähigen Gesellschaft des privaten Rechts, die unmittelbar
+    oder mittelbar vertragliche Regelungen über die Lieferung von
+    Rundfunkprogrammen oder Programmteilen zu einem öffentlich-rechtlichen
+    oder privaten Rundfunkveranstalter unterhält, oder
 
 4.  einer öffentlich-rechtlichen Anstalt, der die Zulassung von und die
     Aufsicht über Rundfunkveranstalter des privaten Rechts obliegt,
-
-
 
 sein. Satz 2 gilt nicht für von der Deutschen Welle entsandte
 Mitglieder von Aufsichtsorganen oder Gremien eines Unternehmens, an
@@ -977,8 +915,8 @@ oder Firmen tätig sein, es sei denn, es handelt sich um eine
 gelegentliche, nicht ständige Vortragstätigkeit.
 
 (4) Die von den gesellschaftlichen Gruppen und Organisationen
-benannten Mitglieder des Rundfunkrates sowie die vom Rundfunkrat aus
-diesen Gruppen und Organisationen gewählten Mitglieder des
+benannten Mitglieder des Rundfunkrates sowie die vom Rundfunkrat
+aus diesen Gruppen und Organisationen gewählten Mitglieder des
 Verwaltungsrates dürfen nicht Mitglied des Europäischen Parlaments,
 einer gesetzgebenden Körperschaft des Bundes oder eines Landes oder
 Mitglied der Bundesregierung oder einer Landesregierung sein.
@@ -1010,9 +948,9 @@ Sitzung zusammentreten.
 
 #### § 28 Abberufung und vorzeitiges Ausscheiden
 
-(1) Die staatlichen Organe sowie die gesellschaftlichen Gruppen und
-Organisationen können das von ihnen gewählte oder benannte Mitglied
-abberufen, wenn dessen Tätigkeit für die wahl- oder
+(1) Die staatlichen Organe sowie die gesellschaftlichen Gruppen
+und Organisationen können das von ihnen gewählte oder benannte
+Mitglied abberufen, wenn dessen Tätigkeit für die wahl- oder
 benennungsberechtigte Stelle endet.
 
 (2) Ein Mitglied gilt darüber hinaus als ausgeschieden, wenn es die
@@ -1055,7 +993,6 @@ Nähere regelt die Satzung.
 ### Unterabschnitt 2 - Rundfunkrat
 
 
-
 #### § 31 Zusammensetzung
 
 (1) Der Rundfunkrat besteht aus 17 Mitgliedern.
@@ -1069,36 +1006,24 @@ jeweils ein Mitglied des Rundfunkrates:
 
 1.  Evangelische Kirche,
 
-
 2.  Katholische Kirche,
 
-
 3.  Zentralrat der Juden in Deutschland,
-
 
 4.  Bundesvereinigung der Deutschen Arbeitgeberverbände im Einvernehmen
     mit dem Deutschen Industrie- und Handelstag (DIHT),
 
-
 5.  gewerkschaftliche Spitzenorganisationen,
-
 
 6.  Deutscher Sportbund,
 
-
 7.  Internationale Weiterbildung und Entwicklung (InWent) gGmbH,
-
 
 8.  Deutscher Kulturrat,
 
-
 9.  Deutsche Akademie für Sprache und Dichtung,
 
-
 10. Hochschulrektorenkonferenz.
-
-
-
 
 (4) Für jedes Mitglied des Rundfunkrates ist ein stellvertretendes
 Mitglied zu wählen oder zu benennen. Das stellvertretende Mitglied
@@ -1109,15 +1034,15 @@ den Sitzungen des Rundfunkrates und seiner Ausschüsse teil.
 #### § 32 Aufgaben
 
 (1) Der Rundfunkrat vertritt bei der Deutschen Welle die Interessen
-der Allgemeinheit. Er beschließt über Fragen grundsätzlicher Bedeutung
-für die Deutsche Welle. Er berät den Intendanten in allgemeinen
-Programmangelegenheiten und wirkt auf die Erfüllung des
+der Allgemeinheit. Er beschließt über Fragen grundsätzlicher
+Bedeutung für die Deutsche Welle. Er berät den Intendanten in
+allgemeinen Programmangelegenheiten und wirkt auf die Erfüllung des
 Programmauftrages hin.
 
-(2) Der Rundfunkrat überwacht die Einhaltung der Programmgrundsätze (§
-5) und der allgemeinen Programmrichtlinien. Er kann feststellen, dass
-bestimmte Sendungen gegen die Programmgrundsätze verstoßen haben. Er
-kann dem Intendanten aufgeben, einen festgestellten Verstoß
+(2) Der Rundfunkrat überwacht die Einhaltung der Programmgrundsätze
+(§ 5) und der allgemeinen Programmrichtlinien. Er kann feststellen,
+dass bestimmte Sendungen gegen die Programmgrundsätze verstoßen
+haben. Er kann dem Intendanten aufgeben, einen festgestellten Verstoß
 abzustellen oder künftig zu unterlassen. Eine Kontrolle einzelner
 Sendungen durch den Rundfunkrat vor ihrer Ausstrahlung ist nicht
 zulässig, es sei denn, es liegen bereits eindeutige Anhaltspunkte für
@@ -1130,37 +1055,25 @@ Welle auf der Grundlage einer Vorlage des Intendanten.
 
 1.  Erlass oder Änderung der Satzung der Deutschen Welle,
 
-
 2.  Erlass oder Änderung von Programmrichtlinien,
 
-
 3.  Wahl und Abberufung des Intendanten,
-
 
 4.  Wahl und Abberufung der Mitglieder des Verwaltungsrates nach § 36 Abs.
     1 Nr. 2,
 
-
 5.  Ernennung und Amtsenthebung des Beauftragten für den Datenschutz der
     Deutschen Welle,
 
-
 6.  Bildung von Ausschüssen des Rundfunkrates,
-
 
 7.  Wahl und Abberufung der Mitglieder der Ausschüsse des Rundfunkrates,
 
-
 8.  Erlass oder Änderung der Geschäftsordnung des Rundfunkrates,
-
 
 9.  Erlass oder Änderung der Richtlinien über das Sponsern,
 
-
 10. Erlass oder Änderung der Richtlinien über die Werbung.
-
-
-
 
 (4) Der Rundfunkrat ist in Grundsatzfragen finanz- und
 personalwirtschaftlicher Art anzuhören. Dies gilt insbesondere im
@@ -1171,8 +1084,8 @@ Intendanten durch den Verwaltungsrat.
 #### § 33 Sitzungen
 
 (1) Der Rundfunkrat tritt mindestens alle drei Monate zu einer
-ordentlichen Sitzung zusammen. Auf Antrag von sechs Mitgliedern oder
-des Intendanten muss er zu einer außerordentlichen Sitzung
+ordentlichen Sitzung zusammen. Auf Antrag von sechs Mitgliedern
+oder des Intendanten muss er zu einer außerordentlichen Sitzung
 zusammentreten.
 
 (2) Die Sitzungen des Rundfunkrates sind nicht öffentlich. Der
@@ -1201,18 +1114,12 @@ Stimmen seiner Mitglieder bedürfen
 
 1.  der Erlass oder die Änderung der Satzung der Deutschen Welle,
 
-
 2.  die Abberufung des Intendanten,
-
 
 3.  die Abberufung eines Mitglieds des Verwaltungsrates nach § 36 Abs. 1
     Nr. 2,
 
-
 4.  die Abberufung eines Mitglieds eines Ausschusses des Rundfunkrates.
-
-
-
 
 (3) Für Wahlen gilt Absatz 1 entsprechend.
 
@@ -1244,7 +1151,6 @@ einen Bericht über ihre Tätigkeit.
 ### Unterabschnitt 3 - Verwaltungsrat
 
 
-
 #### § 36 Zusammensetzung
 
 (1) Der Verwaltungsrat besteht aus sieben Mitgliedern. Ihm gehören an:
@@ -1252,12 +1158,8 @@ einen Bericht über ihre Tätigkeit.
 1.  je ein vom Deutschen Bundestag und vom Bundesrat sowie ein von der
     Bundesregierung zu wählender oder zu benennender Vertreter,
 
-
 2.  vier vom Rundfunkrat zu wählende Vertreter der in § 31 Abs. 3
     genannten gesellschaftlichen Gruppen und Organisationen.
-
-
-
 
 (2) Vorschläge für die nach Absatz 1 Nr. 2 zu wählenden Mitglieder
 können aus der Mitte des Rundfunkrates oder von den in § 31 Abs. 3
@@ -1286,60 +1188,42 @@ Grundlage einer Vorlage des Intendanten.
 
 1.  Abschluss und Kündigung des Dienstvertrages mit dem Intendanten,
 
-
 2.  Vertretung der Deutschen Welle bei Rechtsgeschäften mit dem
     Intendanten sowie bei Rechtsstreitigkeiten zwischen der Deutschen
     Welle und dem Intendanten,
 
-
 3.  Feststellung des Wirtschaftsplans der Deutschen Welle,
-
 
 4.  Feststellung des Jahresabschlusses,
 
-
 5.  Erlass oder Änderung der Finanzordnung,
-
 
 6.  Erteilung der Entlastung gegenüber dem Intendanten,
 
-
 7.  Erlass oder Änderung der Geschäftsordnung des Verwaltungsrates.
-
-
-
 
 (3) Der Zustimmung des Verwaltungsrates bedürfen
 
 1.  Abschluss und Kündigung der Dienstverträge mit den Direktoren,
 
-
 2.  Abschluss von Tarifverträgen,
-
 
 3.  Erwerb und Veräußerung von Unternehmen und Beteiligungen an
     Unternehmen,
 
-
 4.  Erwerb, Veräußerung und Belastung von Grundstücken,
-
 
 5.  Beschaffung von Anlagen jeder Art und Eingehen von sonstigen
     Verpflichtungen, soweit der Geschäftswert 300.000 Euro im Einzelfall
     überschreitet und es sich nicht um Verträge über die Herstellung und
     Lieferung von Programmteilen handelt,
 
-
 6.  über- und außerplanmäßige Aufwendungen,
-
 
 7.  Erlass oder Änderung der Satzung,
 
-
 8.  Ernennung und Amtsenthebung des Beauftragten für den Datenschutz der
     Deutschen Welle.
-
-
 
 Der Betrag nach Satz 1 Nr. 5 kann durch die Satzung entsprechend der
 wirtschaftlichen Entwicklung angepasst werden.
@@ -1371,21 +1255,20 @@ Verwaltungsrates teilnehmen. Sie sind auf Wunsch zu hören.
 (1) Der Verwaltungsrat ist beschlussfähig, wenn nach ordnungsgemäßer
 Ladung die Mehrheit seiner Mitglieder anwesend ist.
 
-(2) Für Beschlüsse des Verwaltungsrates ist grundsätzlich die Mehrheit
-der Stimmen seiner anwesenden Mitglieder erforderlich. Die
+(2) Für Beschlüsse des Verwaltungsrates ist grundsätzlich die
+Mehrheit der Stimmen seiner anwesenden Mitglieder erforderlich. Die
 Feststellung des Haushaltsplans, der Erlass oder die Änderung der
-Finanzordnung, der Erlass oder die Änderung der Geschäftsordnung sowie
-die Zustimmung zum Erlass oder zur Änderung der Satzung und die
-Zustimmung zum Beschluss über die Aufgabenplanung bedürfen der
+Finanzordnung, der Erlass oder die Änderung der Geschäftsordnung
+sowie die Zustimmung zum Erlass oder zur Änderung der Satzung und
+die Zustimmung zum Beschluss über die Aufgabenplanung bedürfen der
 Mehrheit der Stimmen der Mitglieder.
 
-(3) Der Verwaltungsrat wählt aus seiner Mitte in geheimer Wahl mit der
-Mehrheit seiner Mitglieder einen Vorsitzenden und dessen
+(3) Der Verwaltungsrat wählt aus seiner Mitte in geheimer Wahl
+mit der Mehrheit seiner Mitglieder einen Vorsitzenden und dessen
 Stellvertreter.
 
 
 ### Unterabschnitt 4 - Intendant
-
 
 
 #### § 40 Wahl und Amtszeit
@@ -1400,20 +1283,13 @@ Nachfolgers beginnt.
 1.  seinen ständigen Wohnsitz oder gewöhnlichen Aufenthalt im Bundesgebiet
     hat,
 
-
 2.  unbeschränkt geschäftsfähig ist,
-
 
 3.  unbeschränkt strafrechtlich verfolgt werden kann,
 
-
 4.  die Fähigkeit zur Bekleidung öffentlicher Ämter besitzt sowie
 
-
 5.  Grundrechte nicht verwirkt hat.
-
-
-
 
 
 #### § 41 Vertretung des Intendanten
@@ -1434,8 +1310,8 @@ anderen Organe bleiben unberührt.
 (2) Der Intendant vertritt die Deutsche Welle gerichtlich und
 außergerichtlich.
 
-(3) Der Intendant erlässt eine Geschäftsordnung der Deutschen Welle,
-in der die Zuständigkeiten der Direktionsbereiche sowie der
+(3) Der Intendant erlässt eine Geschäftsordnung der Deutschen
+Welle, in der die Zuständigkeiten der Direktionsbereiche sowie der
 Geschäftsablauf innerhalb der Direktionsbereiche geregelt werden.
 
 
@@ -1456,9 +1332,7 @@ seiner Amtszeit weitergewährt.
 ## Abschnitt 3 - Finanzierung der Anstalt
 
 
-
 ### Unterabschnitt 1 - Finanzwesen
-
 
 
 #### § 44 Finanzierungsgarantie
@@ -1476,9 +1350,9 @@ sowie Zuwendungen des Bundes und sonstigen Einnahmen.
 (2) Die Höhe des Zuschusses des Bundes bestimmt sich nach dem
 Haushaltsgesetz des Bundes.
 
-(3) Die Aufgabenplanung der Deutschen Welle (§§ 4a, 4b) wird durch den
-vierjährigen Planungszeitraum, die mittelfristige Finanzplanung der
-Bundesregierung und die Entscheidungen des Haushaltsgesetzgebers
+(3) Die Aufgabenplanung der Deutschen Welle (§§ 4a, 4b) wird durch
+den vierjährigen Planungszeitraum, die mittelfristige Finanzplanung
+der Bundesregierung und die Entscheidungen des Haushaltsgesetzgebers
 sichergestellt.
 
 
@@ -1491,15 +1365,15 @@ soweit dieses Gesetz nichts anderes bestimmt oder zulässt.
 Handelsgesetzbuch zu führen.
 
 (3) Die Deutsche Welle gibt sich im Einvernehmen mit dem
-Bundesrechnungshof und im Benehmen mit der Bundesregierung eine
-Finanzordnung, die die Aufstellung und Ausführung des
+Bundesrechnungshof und im Benehmen mit der Bundesregierung
+eine Finanzordnung, die die Aufstellung und Ausführung des
 Wirtschaftsplans, die Kassen- und Buchführung sowie die
 Rechnungslegung der Deutschen Welle näher regelt.
 
 (4) Die Beschäftigten der Deutschen Welle dürfen grundsätzlich nicht
-besser gestellt werden als vergleichbare Arbeitnehmer des Bundes. Vor
-dem Abschluss von Tarifverträgen, die in Abweichung von Satz 1 die
-Beschäftigten der Deutschen Welle besser als vergleichbare
+besser gestellt werden als vergleichbare Arbeitnehmer des Bundes.
+Vor dem Abschluss von Tarifverträgen, die in Abweichung von Satz
+1 die Beschäftigten der Deutschen Welle besser als vergleichbare
 Arbeitnehmer des Bundes stellen würden, ist das Einvernehmen mit der
 Bundesregierung herbeizuführen.
 
@@ -1510,8 +1384,8 @@ Abgabenordnung - sind entsprechend anzuwenden.
 #### § 47 Bedeutung und Wirkung des Wirtschaftsplans
 
 (1) Der Wirtschaftsplan der Deutschen Welle (Wirtschaftsplan) dient
-der Feststellung und Deckung des Finanzbedarfs, der zur Erfüllung der
-Aufgaben der Deutschen Welle im jeweiligen Haushaltsjahr
+der Feststellung und Deckung des Finanzbedarfs, der zur Erfüllung
+der Aufgaben der Deutschen Welle im jeweiligen Haushaltsjahr
 voraussichtlich notwendig ist. Der Wirtschaftsplan ist die
 verbindliche Grundlage für die Haushalts- und Wirtschaftsführung.
 
@@ -1531,26 +1405,18 @@ Sparsamkeit auf. Das Wirtschaftsjahr ist das Kalenderjahr.
     anfallenden Erträge und Aufwendungen nach Art einer Gewinn- und
     Verlustrechnung darzustellen sind,
 
-
 2.  einen Investitionsplan, der die geplanten Maßnahmen zur Vermehrung des
     Anlage- und Umlaufvermögens darstellt,
-
 
 3.  einen Finanzplan, der die Eigenfinanzierungsmittel, die zu erwartenden
     Deckungsmittel sowie die Ausgaben für Investitionen aufführt,
 
-
 4.  eine Überleitungsrechnung auf Einnahmen und Ausgaben entsprechend der
     Haushaltssystematik des Bundes,
 
-
 5.  einen Stellenplan,
 
-
 6.  Bewirtschaftungsgrundsätze.
-
-
-
 
 (3) Die Überleitungsrechnung gemäß Absatz 2 Nr. 4 ist in Einnahmen und
 Ausgaben auszugleichen.
@@ -1559,8 +1425,8 @@ Ausgaben auszugleichen.
 Angaben im Wirtschaftsplan vorsehen.
 
 (5) Die Deutsche Welle leitet die Überleitungsrechnung, den
-Stellenplan und die Bewirtschaftungsgrundsätze gemäß Absatz 2 Nr. 4
-bis 6 rechtzeitig vor Beginn der Haushaltsverhandlungen der
+Stellenplan und die Bewirtschaftungsgrundsätze gemäß Absatz 2
+Nr. 4 bis 6 rechtzeitig vor Beginn der Haushaltsverhandlungen der
 Bundesregierung und dem Bundesrechnungshof zu.
 
 
@@ -1578,8 +1444,8 @@ erklärt werden.
 (2) Die Ansätze des Erfolgsplans (§ 48 Abs. 2 Nr. 1) für
 Personalaufwendungen, Programmaufwendungen, Betriebsaufwendungen und
 Investitionen können jeweils als in sich gegenseitig deckungsfähig
-erklärt werden, soweit es sich um zahlungswirksame Vorgänge handelt.
-Das Gleiche gilt für die Personalausgaben, die sächlichen
+erklärt werden, soweit es sich um zahlungswirksame Vorgänge
+handelt. Das Gleiche gilt für die Personalausgaben, die sächlichen
 Verwaltungsausgaben und die Investitionen der Überleitungsrechnung (§
 48 Abs. 2 Nr. 3).
 
@@ -1599,25 +1465,20 @@ Verwaltungsausgaben und die Investitionen der Überleitungsrechnung (§
 
 #### § 52 Vorläufige Wirtschaftsführung
 
-Die Deutsche Welle beschließt den Wirtschaftsplan so rechtzeitig, dass
-er zum 1. Januar des Folgejahres in Kraft treten kann. Hat die
-Deutsche Welle bis zum Schluss eines Wirtschaftsjahres den
+Die Deutsche Welle beschließt den Wirtschaftsplan so rechtzeitig,
+dass er zum 1. Januar des Folgejahres in Kraft treten kann. Hat
+die Deutsche Welle bis zum Schluss eines Wirtschaftsjahres den
 Wirtschaftsplan für das folgende Jahr noch nicht beschlossen, so kann
 die Deutsche Welle bis zum Zeitpunkt des Beschlusses alle Ausgaben
 leisten, die nötig sind, um
 
 1.  den gesetzlichen Programmauftrag im bisherigen Umfang zu erfüllen,
 
-
 2.  die rechtlich begründeten Verpflichtungen zu erfüllen,
-
 
 3.  Bauten, Beschaffungen und sonstige Leistungen fortzusetzen, sofern
     durch den Wirtschaftsplan eines Vorjahres bereits Beträge bewilligt
     worden sind.
-
-
-
 
 
 #### § 53 Ausführung des Wirtschaftsplans
@@ -1636,8 +1497,8 @@ zulässig, wenn sie unvorhergesehen und unabweisbar sind und die
 Deckung im Wirtschaftsplan gewährleistet ist. Das Gleiche gilt für
 Zahlungen, für die die in der Überleitungsrechnung ausgebrachten
 Ansätze nicht ausreichen oder für die keine Ansätze vorhanden sind.
-Über- und außerplanmäßige Ausgaben, die erhebliche Auswirkungen auf
-den Zuschussbedarf der Deutschen Welle zur Folge haben können,
+Über- und außerplanmäßige Ausgaben, die erhebliche Auswirkungen
+auf den Zuschussbedarf der Deutschen Welle zur Folge haben können,
 bedürfen der Zustimmung der Bundesregierung.
 
 (2) Über- und außerplanmäßige Ausgaben bedürfen der Einwilligung des
@@ -1647,16 +1508,12 @@ Genehmigung des Verwaltungsrates unverzüglich einzuholen.
 (3) Die Deutsche Welle stellt einen Nachtrag zum Wirtschaftsplan auf,
 wenn
 
-1.  sich zeigt, dass die Überleitungsrechnung gemäß § 48 Abs. 2 Nr. 3 im
-    Vollzug des Wirtschaftsplans trotz Ausnutzung jeder
+1.  sich zeigt, dass die Überleitungsrechnung gemäß § 48 Abs. 2
+    Nr. 3 im Vollzug des Wirtschaftsplans trotz Ausnutzung jeder
     Einsparungsmöglichkeit nicht ausgeglichen werden kann, oder
-
 
 2.  über- oder außerplanmäßige Ausgaben in Höhe von mehr als 1 vom Hundert
     der Gesamtausgaben der Deutschen Welle geleistet werden müssen.
-
-
-
 
 (4) Die Vorschriften der §§ 47, 48 und 50 gelten entsprechend.
 
@@ -1668,22 +1525,16 @@ Jahresabschluss. Der Jahresabschluss besteht aus
 
 1.  der Vermögensrechnung (Bilanz),
 
-
 2.  der Erfolgsrechnung (Gewinn- und Verlustrechnung),
 
-
 3.  der Finanzrechnung (Kapitalflussrechnung),
-
 
 4.  einer Rechnung über die im abgelaufenen Wirtschaftsjahr tatsächlich
     erhobenen Einnahmen und tatsächlich geleisteten Ausgaben entsprechend
     der Systematik gemäß § 48 Abs. 2 Nr. 4 und
 
-
 5.  dem Geschäftsbericht zur Erläuterung der Vorgänge von besonderer
     Bedeutung.
-
-
 
 Hierfür sind die für große Kapitalgesellschaften im Sinne des § 267
 des Handelsgesetzbuchs geltenden Vorschriften entsprechend anzuwenden,
@@ -1700,8 +1551,8 @@ der Bundesregierung und dem Bundesrechnungshof zu.
 der Deutschen Welle gemäß § 111 der Bundeshaushaltsordnung. § 44 Abs.
 1 Satz 3 der Bundeshaushaltsordnung bleibt hiervon unberührt.
 
-(2) Der Bundesrechnungshof und die Bundesregierung werden von der
-Deutschen Welle über alle für die Wirtschafts- und Finanzlage
+(2) Der Bundesrechnungshof und die Bundesregierung werden von
+der Deutschen Welle über alle für die Wirtschafts- und Finanzlage
 bedeutenden Vorgänge der Deutschen Welle unterrichtet. Unterlagen, die
 der Bundesrechnungshof zur Erfüllung seiner Aufgaben für erforderlich
 hält, sind ihm von der Deutschen Welle zur Verfügung zu stellen.
@@ -1716,11 +1567,11 @@ Bundesregierung jederzeit unterrichten. Berichtet er dem Deutschen
 Bundestag und dem Bundesrat, so unterrichtet er gleichzeitig die
 Bundesregierung.
 
-(5) Die Deutsche Welle lässt den Jahresabschluss durch einen
-Wirtschaftsprüfer prüfen. § 53 Abs. 1 Nr. 1 und 2 des
-Haushaltsgrundsätzegesetzes vom 19. August 1969 (BGBl. I S. 1273) ist
-anzuwenden. Weichen die Ergebnisse des Wirtschaftsprüfers von denen
-des Bundesrechnungshofes ab, gelten die Feststellungen des
+(5) Die Deutsche Welle lässt den Jahresabschluss durch
+einen Wirtschaftsprüfer prüfen. § 53 Abs. 1 Nr. 1 und 2 des
+Haushaltsgrundsätzegesetzes vom 19. August 1969 (BGBl. I S. 1273)
+ist anzuwenden. Weichen die Ergebnisse des Wirtschaftsprüfers von
+denen des Bundesrechnungshofes ab, gelten die Feststellungen des
 Bundesrechnungshofes.
 
 
@@ -1734,19 +1585,18 @@ Bundesanzeiger veröffentlicht.
 ### Unterabschnitt 2 - Vermögen, Beteiligungen, Baumaßnahmen
 
 
-
 #### § 58 Vermögen
 
 (1) Die aus dem Zuschuss des Bundes nach § 45 beschafften Gegenstände
 gehören zum Vermögen der Deutschen Welle. Sie sind uneingeschränkt für
 Rundfunkzwecke zu nutzen.
 
-(2) Absatz 1 Satz 1 gilt nicht für Grundstücke, Gebäude und sonstige
-bauliche Anlagen, soweit diese der Deutschen Welle vom Bund
+(2) Absatz 1 Satz 1 gilt nicht für Grundstücke, Gebäude und
+sonstige bauliche Anlagen, soweit diese der Deutschen Welle vom Bund
 unentgeltlich überlassen sind.
 
-(3) Im Falle einer Auflösung der Deutschen Welle fällt ihr gesamtes
-Vermögen dem Bund mit der Maßgabe zu, dass es von diesem
+(3) Im Falle einer Auflösung der Deutschen Welle fällt ihr
+gesamtes Vermögen dem Bund mit der Maßgabe zu, dass es von diesem
 ausschließlich und unmittelbar für gemeinnützige Zwecke zu verwenden
 ist.
 
@@ -1759,20 +1609,14 @@ Welle nur beteiligen, wenn
 
 1.  dies der Erfüllung ihrer gesetzlichen Aufgabe dient,
 
-
 2.  die Deckung der damit verbundenen Ausgaben gewährleistet ist,
-
 
 3.  die Einzahlungsverpflichtung der Deutschen Welle auf einen bestimmten
     Betrag begrenzt ist und
 
-
 4.  die für die Rechtsform des Unternehmens geltenden gesetzlichen
     Bestimmungen oder die Satzung des Unternehmens einen Aufsichtsrat oder
     ein entsprechendes Organ vorsehen.
-
-
-
 
 (2) Die Deutsche Welle hat bei Beteiligungen
 
@@ -1781,12 +1625,8 @@ Welle nur beteiligen, wenn
     des Unternehmens, insbesondere eine angemessene Vertretung im
     Aufsichtsgremium, zu sichern und
 
-
 2.  die Unternehmen zu verpflichten, ihr die für die finanziellen oder
     programmlichen Fragen wesentlichen Geschäftsvorfälle mitzuteilen.
-
-
-
 
 (3) Der Bundesrechnungshof prüft bei den Beteiligungen der Deutschen
 Welle die Haushalts- und Wirtschaftsführung, sofern die Deutsche Welle
@@ -1799,31 +1639,30 @@ sind im Gesellschaftervertrag oder in der Satzung die Rechte nach den
 #### § 60 Baumaßnahmen
 
 (1) Bauunterhaltungsmaßnahmen einschließlich der Schönheitsreparaturen
-sowie zur Deckung des rundfunktechnischen Bedarfs erforderliche, nicht
-in die bauliche Substanz eingreifende Umbaumaßnahmen an im Eigentum
-des Bundes stehenden und der Deutschen Welle unentgeltlich
-überlassenen Grundstücken, Gebäuden und sonstigen baulichen Anlagen
-obliegen der Deutschen Welle in eigener Verantwortung. An den zur
-Feststellung der notwendigen Bauunterhaltungsarbeiten in der Regel
-jährlich durchzuführenden Baubegehungen ist jeweils das
-Bundesvermögensamt zu beteiligen. Über Umbaumaßnahmen im Sinne des
-Satzes 1 sind die Bauverwaltung des Bundes sowie das
+sowie zur Deckung des rundfunktechnischen Bedarfs erforderliche,
+nicht in die bauliche Substanz eingreifende Umbaumaßnahmen an im
+Eigentum des Bundes stehenden und der Deutschen Welle unentgeltlich
+überlassenen Grundstücken, Gebäuden und sonstigen baulichen
+Anlagen obliegen der Deutschen Welle in eigener Verantwortung.
+An den zur Feststellung der notwendigen Bauunterhaltungsarbeiten
+in der Regel jährlich durchzuführenden Baubegehungen ist jeweils
+das Bundesvermögensamt zu beteiligen. Über Umbaumaßnahmen im
+Sinne des Satzes 1 sind die Bauverwaltung des Bundes sowie das
 Bundesvermögensamt zu unterrichten.
 
-(2) Andere als in Absatz 1 genannte Umbaumaßnahmen sowie alle Neu- und
-Erweiterungsbauten an im Eigentum des Bundes stehenden und der
+(2) Andere als in Absatz 1 genannte Umbaumaßnahmen sowie alle Neu-
+und Erweiterungsbauten an im Eigentum des Bundes stehenden und der
 Deutschen Welle unentgeltlich überlassenen Grundstücken, Gebäuden und
 sonstigen baulichen Anlagen werden als Bundesbaumaßnahmen vom Bund
 durchgeführt.
 
 (3) Für die Bauunterhaltungsmaßnahmen sowie die Neu-, Um- und
-Erweiterungsbauten gelten die Richtlinien für die Durchführung von
-Bauaufgaben des Bundes im Zuständigkeitsbereich der
+Erweiterungsbauten gelten die Richtlinien für die Durchführung
+von Bauaufgaben des Bundes im Zuständigkeitsbereich der
 Finanzbauverwaltung - RBBau - sinngemäß.
 
 
 ## Abschnitt 4 - Aufsicht
-
 
 
 ### § 61 Ausschluss der Fachaufsicht
@@ -1849,39 +1688,38 @@ Gegen Anweisungen nach Satz 1 kann die Deutsche Welle Klage vor dem
 Verwaltungsgericht erheben.
 
 (4) Bevor die Bundesregierung Maßnahmen nach den Absätzen 2 und 3
-trifft, kann sie dem jeweils zuständigen Organ der Deutschen Welle im
-Einzelfall eine angemessene Frist zur Wahrnehmung seiner Pflichten
+trifft, kann sie dem jeweils zuständigen Organ der Deutschen Welle
+im Einzelfall eine angemessene Frist zur Wahrnehmung seiner Pflichten
 setzen.
 
 
 ## Abschnitt 5 - Datenschutz
 
 
-
 ### § 63 Datenverarbeitung zu journalistischen Zwecken
 
 (1) Sofern die Deutsche Welle oder ein Hilfsunternehmen
 personenbezogene Daten zu journalistischen Zwecken verarbeitet, sind
-bei der Verarbeitung dieser Daten nur die Pflichten des Artikels 5
-Absatz 1 Buchstabe f in Verbindung mit Absatz 2, des Artikels 24 und
-des Artikels 32 der Verordnung (EU) 2016/679 des Europäischen
+bei der Verarbeitung dieser Daten nur die Pflichten des Artikels
+5 Absatz 1 Buchstabe f in Verbindung mit Absatz 2, des Artikels 24
+und des Artikels 32 der Verordnung (EU) 2016/679 des Europäischen
 Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher
 Personen bei der Verarbeitung personenbezogener Daten, zum freien
 Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-
 Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016,
-S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung zu
-erfüllen. Artikel 82 der Verordnung (EU) 2016/679 gilt mit der
-Maßgabe, dass nur für unzureichende Maßnahmen nach Artikel 5 Absatz 1
-Buchstabe f, Artikel 24 und Artikel 32 der Verordnung (EU) 2016/679
+S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung
+zu erfüllen. Artikel 82 der Verordnung (EU) 2016/679 gilt mit der
+Maßgabe, dass nur für unzureichende Maßnahmen nach Artikel 5 Absatz
+1 Buchstabe f, Artikel 24 und Artikel 32 der Verordnung (EU) 2016/679
 gehaftet wird. Den betroffenen Personen stehen nur die in den Absätzen
 2 bis 4 genannten Rechte zu.
 
 (2) Führt die journalistischen Zwecken dienende Verarbeitung
-personenbezogener Daten durch die Deutsche Welle zur Verbreitung von
-Gegendarstellungen der betroffenen Person oder zu
-Verpflichtungserklärungen, Beschlüssen oder Urteilen über die
-Unterlassung der Verbreitung oder über den Widerruf des Inhalts der
-Daten, so sind diese Gegendarstellungen, diese
+personenbezogener Daten durch die Deutsche Welle zur
+Verbreitung von Gegendarstellungen der betroffenen Person oder
+zu Verpflichtungserklärungen, Beschlüssen oder Urteilen über
+die Unterlassung der Verbreitung oder über den Widerruf des
+Inhalts der Daten, so sind diese Gegendarstellungen, diese
 Verpflichtungserklärungen, diese Beschlüsse oder Urteile über die
 Unterlassung der Verbreitung oder diese Widerrufe
 
@@ -1889,35 +1727,26 @@ Unterlassung der Verbreitung oder diese Widerrufe
     sind, und dort für dieselbe Zeitdauer aufzubewahren wie die Daten
     selbst sowie
 
-
 2.  bei einer Übermittlung der Daten, die zu der betroffenen Person
     gespeichert sind, gemeinsam mit diesen zu übermitteln.
 
-
-
-
 (3) Wird jemand durch die Berichterstattung der Deutschen Welle in
 seinen Rechten beeinträchtigt, so kann die betroffene Person Auskunft
-verlangen über die der Berichterstattung zu Grunde liegenden, zu ihrer
-Person gespeicherten Daten. Die Auskunft kann nach Abwägung der
+verlangen über die der Berichterstattung zu Grunde liegenden, zu
+ihrer Person gespeicherten Daten. Die Auskunft kann nach Abwägung der
 schutzwürdigen Interessen der Beteiligten verweigert werden, soweit
 
 1.  von den Daten auf die Personen, die bei der Vorbereitung, Herstellung
     oder Verbreitung von Angeboten mitwirken oder mitgewirkt haben,
     geschlossen werden kann,
 
-
 2.  von den Daten auf die Einsenderin oder den Einsender oder die
     Gewährsträgerin oder den Gewährsträger von Beiträgen, Unterlagen oder
     Mitteilungen für den redaktionellen Teil geschlossen werden kann oder
 
-
-3.  durch die Mitteilung von recherchierten oder sonst erlangten Daten die
-    Erfüllung der journalistischen Aufgabe der Deutschen Welle durch
+3.  durch die Mitteilung von recherchierten oder sonst erlangten Daten
+    die Erfüllung der journalistischen Aufgabe der Deutschen Welle durch
     Ausforschung des Informationsbestandes beeinträchtigt würde.
-
-
-
 
 (4) Die betroffene Person kann die unverzügliche Berichtigung
 unrichtiger personenbezogener Daten oder die Hinzufügung einer eigenen
@@ -1934,14 +1763,14 @@ der Deutschen Welle als Aufsichtsbehörde, der im Bereich der
 Datenverarbeitung zu journalistischen Zwecken an die Stelle des
 Bundesbeauftragten für den Datenschutz und die Informationsfreiheit
 tritt. Das Nähere, insbesondere die Grundsätze der Vergütung,
-beschließt der Rundfunkrat mit Zustimmung des Verwaltungsrats in einer
-Satzung. Die Kapitel VI und VII der Verordnung (EU) 2016/679 sind auf
-den Beauftragten für den Datenschutz der Deutschen Welle entsprechend
-anzuwenden, soweit in den Absätzen 2 bis 6 und in § 65 keine
-abweichenden Regelungen getroffen werden.
+beschließt der Rundfunkrat mit Zustimmung des Verwaltungsrats in
+einer Satzung. Die Kapitel VI und VII der Verordnung (EU) 2016/679
+sind auf den Beauftragten für den Datenschutz der Deutschen Welle
+entsprechend anzuwenden, soweit in den Absätzen 2 bis 6 und in § 65
+keine abweichenden Regelungen getroffen werden.
 
-(2) Die Ernennung des Beauftragten für den Datenschutz der Deutschen
-Welle erfolgt durch den Rundfunkrat mit Zustimmung des
+(2) Die Ernennung des Beauftragten für den Datenschutz der
+Deutschen Welle erfolgt durch den Rundfunkrat mit Zustimmung des
 Verwaltungsrats. Der Beauftragte für den Datenschutz der Deutschen
 Welle wird für die Dauer von fünf Jahren ernannt. Eine zweimalige
 Wiederernennung ist zulässig.
@@ -1953,15 +1782,10 @@ Ausübung seiner Befugnisse erforderliche
 1.  Qualifikation, nachgewiesen durch ein abgeschlossenes
     Hochschulstudium,
 
-
 2.  Erfahrung und
-
 
 3.  Sachkunde, insbesondere im Bereich des Schutzes personenbezogener
     Daten.
-
-
-
 
 (4) Der Beauftragte für den Datenschutz der Deutschen Welle ist in der
 Ausübung seines Amtes unabhängig und nur dem Gesetz unterworfen. Er
@@ -1974,8 +1798,8 @@ kann neben anderen Aufgaben nur wahrgenommen werden, sofern diese mit
 dem Amt zu vereinbaren sind und die Unabhängigkeit des Beauftragten
 für den Datenschutz der Deutschen Welle nicht gefährden.
 
-(6) Das Amt des Beauftragten für den Datenschutz der Deutschen Welle
-endet mit Ablauf der Amtszeit, mit Rücktritt vom Amt oder mit
+(6) Das Amt des Beauftragten für den Datenschutz der Deutschen
+Welle endet mit Ablauf der Amtszeit, mit Rücktritt vom Amt oder mit
 Erreichen des gesetzlichen Renteneintrittsalters. Tarifvertragliche
 Regelungen bleiben unberührt.
 
@@ -1984,23 +1808,20 @@ seines Amtes nur enthoben werden, wenn er
 
 1.  eine schwere Verfehlung begangen hat oder
 
-
 2.  die Voraussetzungen für die Wahrnehmung seiner Aufgaben nicht mehr
     erfüllt.
 
-
-
 Die Amtsenthebung erfolgt durch Beschluss des Rundfunkrats auf
-Vorschlag des Verwaltungsrats; der Beauftragte für den Datenschutz der
-Deutschen Welle ist vor der Entscheidung über die Amtsenthebung zu
-hören.
+Vorschlag des Verwaltungsrats; der Beauftragte für den Datenschutz
+der Deutschen Welle ist vor der Entscheidung über die Amtsenthebung
+zu hören.
 
-(8) Die Deutsche Welle stellt dem Beauftragten für den Datenschutz der
-Deutschen Welle die Ausstattung zur Verfügung, die für die Erfüllung
-seiner Aufgaben und für die Ausübung seiner Befugnisse notwendig ist.
-Die Deutsche Welle weist die erforderlichen Mittel jährlich,
-öffentlich und gesondert im Wirtschaftsplan aus und weist sie dem
-Beauftragten für den Datenschutz der Deutschen Welle im
+(8) Die Deutsche Welle stellt dem Beauftragten für den Datenschutz
+der Deutschen Welle die Ausstattung zur Verfügung, die für die
+Erfüllung seiner Aufgaben und für die Ausübung seiner Befugnisse
+notwendig ist. Die Deutsche Welle weist die erforderlichen Mittel
+jährlich, öffentlich und gesondert im Wirtschaftsplan aus und weist
+sie dem Beauftragten für den Datenschutz der Deutschen Welle im
 Haushaltsvollzug zu. Der Beauftragte für den Datenschutz der Deutschen
 Welle unterliegt der Finanzkontrolle durch den Verwaltungsrat nur,
 soweit seine völlige Unabhängigkeit bei der Ausübung seines Amtes
@@ -2013,14 +1834,14 @@ der Deutschen Welle.
 ### § 65 Aufgaben und Befugnisse des Beauftragten für den Datenschutz der Deutschen Welle
 
 (1) Der Beauftragte für den Datenschutz der Deutschen Welle
-beaufsichtigt die Einhaltung der Datenschutzvorschriften, soweit die
-Deutsche Welle oder ein Hilfsunternehmen personenbezogene Daten zu
-journalistischen Zwecken verarbeitet. Der Beauftragte für den
+beaufsichtigt die Einhaltung der Datenschutzvorschriften, soweit
+die Deutsche Welle oder ein Hilfsunternehmen personenbezogene Daten
+zu journalistischen Zwecken verarbeitet. Der Beauftragte für den
 Datenschutz der Deutschen Welle hat die Aufgaben und Befugnisse
 entsprechend Artikel 57 und Artikel 58 Absatz 1 bis 5 der Verordnung
-(EU) 2016/679. Nur soweit die Zuständigkeit des Beauftragten für den
-Datenschutz der Deutschen Welle nicht gegeben ist, obliegt die
-Aufsicht über die Einhaltung von Datenschutzbestimmungen dem
+(EU) 2016/679. Nur soweit die Zuständigkeit des Beauftragten für
+den Datenschutz der Deutschen Welle nicht gegeben ist, obliegt
+die Aufsicht über die Einhaltung von Datenschutzbestimmungen dem
 Bundesbeauftragten für den Datenschutz und die Informationsfreiheit.
 
 (2) Der Beauftragte für den Datenschutz der Deutschen Welle hat bei
@@ -2033,17 +1854,17 @@ verhängen.
 
 (4) Stellt der Beauftragte für den Datenschutz der Deutschen Welle
 Verstöße gegen Vorschriften über den Datenschutz oder sonstige Mängel
-bei der Verarbeitung personenbezogener Daten fest, so beanstandet er
-dies gegenüber dem Intendanten oder den für das Hilfsunternehmen
+bei der Verarbeitung personenbezogener Daten fest, so beanstandet
+er dies gegenüber dem Intendanten oder den für das Hilfsunternehmen
 Verantwortlichen und fordert den Intendanten oder die für das
 Hilfsunternehmen Verantwortlichen auf, innerhalb einer angemessenen
 Frist Stellung zu nehmen. Gleichzeitig mit der Beanstandung
-unterrichtet der Beauftragte für den Datenschutz der Deutschen Welle
-den Verwaltungsrat über diese. Der Intendant oder die für das
-Hilfsunternehmen Verantwortlichen sollen in ihrer Stellungnahme
-gegenüber dem Beauftragten für den Datenschutz der Deutschen Welle die
-Maßnahmen darstellen, die aufgrund der Beanstandung getroffen worden
-sind. Gleichzeitig leiten der Intendant oder die für das
+unterrichtet der Beauftragte für den Datenschutz der Deutschen
+Welle den Verwaltungsrat über diese. Der Intendant oder die für
+das Hilfsunternehmen Verantwortlichen sollen in ihrer Stellungnahme
+gegenüber dem Beauftragten für den Datenschutz der Deutschen Welle
+die Maßnahmen darstellen, die aufgrund der Beanstandung getroffen
+worden sind. Gleichzeitig leiten der Intendant oder die für das
 Hilfsunternehmen Verantwortlichen dem Verwaltungsrat eine Abschrift
 der Stellungnahme zu.
 
@@ -2051,23 +1872,19 @@ der Stellungnahme zu.
 
 1.  es sich um unerhebliche Mängel handelt oder
 
-
 2.  sichergestellt ist, dass die Mängel unverzüglich behoben werden.
-
-
-
 
 (6) Im Tätigkeitsbericht des Beauftragten für den Datenschutz der
 Deutschen Welle sind auch Angaben über die Verwendung der Sach- und
-Personalmittel zu machen, die dem Beauftragten für den Datenschutz der
-Deutschen Welle zur Verfügung stehen. Dabei sind die Betriebs- und
-Geschäftsgeheimnisse der Deutschen Welle sowie personenbezogene Daten
-der Beschäftigten der Deutschen Welle und von Hilfsunternehmen zu
-schützen. Der Beauftragte für den Datenschutz der Deutschen Welle hat
-den Tätigkeitsbericht zusätzlich zu den in Artikel 59 Satz 1 der
-Verordnung (EU) 2016/679 genannten Institutionen auch an die Organe
-der Deutschen Welle sowie an den Bundesbeauftragten für den
-Datenschutz und die Informationsfreiheit zu übermitteln. Die
+Personalmittel zu machen, die dem Beauftragten für den Datenschutz
+der Deutschen Welle zur Verfügung stehen. Dabei sind die Betriebs-
+und Geschäftsgeheimnisse der Deutschen Welle sowie personenbezogene
+Daten der Beschäftigten der Deutschen Welle und von Hilfsunternehmen
+zu schützen. Der Beauftragte für den Datenschutz der Deutschen
+Welle hat den Tätigkeitsbericht zusätzlich zu den in Artikel 59
+Satz 1 der Verordnung (EU) 2016/679 genannten Institutionen auch an
+die Organe der Deutschen Welle sowie an den Bundesbeauftragten für
+den Datenschutz und die Informationsfreiheit zu übermitteln. Die
 Übermittlung kann in schriftlicher oder elektronischer Form erfolgen.
 Um den Bericht gemäß Artikel 59 Satz 3 der Verordnung (EU) 2016/679
 der Öffentlichkeit zugänglich zu machen, ist eine Veröffentlichung im
@@ -2076,9 +1893,9 @@ Online-Angebot der Deutschen Welle ausreichend.
 
 ### § 66 Der Datenschutzbeauftragte im Sinne der §§ 5 bis 7 des Bundesdatenschutzgesetzes
 
-Neben dem Beauftragten für den Datenschutz der Deutschen Welle als
-Aufsichtsbehörde benennt die Deutsche Welle einen
-Datenschutzbeauftragten im Sinne der §§ 5 bis 7 des
+Neben dem Beauftragten für den Datenschutz der Deutschen
+Welle als Aufsichtsbehörde benennt die Deutsche Welle
+einen Datenschutzbeauftragten im Sinne der §§ 5 bis 7 des
 Bundesdatenschutzgesetzes. Auf diesen sind die §§ 5 bis 7 des
 Bundesdatenschutzgesetzes anzuwenden. Der Datenschutzbeauftragte wird
 von dem Intendanten mit Zustimmung des Verwaltungsrats benannt.

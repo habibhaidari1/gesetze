@@ -1,7 +1,5 @@
 ---
-Title: Gesetz zu dem Abkommen vom 23. April 1993 zwischen der Bundesrepublik Deutschland
-  und der Republik Polen über den Autobahnzusammenschluß im Raum Frankfurt/Oder und
-  Schwetig
+Title: Gesetz zu dem Abkommen vom 23. April 1993 zwischen der Bundesrepublik Deutschland und der Republik Polen über den Autobahnzusammenschluß im Raum Frankfurt/Oder und Schwetig
 jurabk: ABZusPolAbkG
 layout: default
 origslug: abzuspolabkg
@@ -18,7 +16,6 @@ Fundstelle
 :   BGBl II: 1994, 3662
 
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
@@ -27,8 +24,8 @@ beschlossen:
 
 ## Art 1
 
-Dem in Slubice am 23. April 1993 unterzeichneten Abkommen zwischen der
-Bundesrepublik Deutschland und der Republik Polen über den
+Dem in Slubice am 23. April 1993 unterzeichneten Abkommen zwischen
+der Bundesrepublik Deutschland und der Republik Polen über den
 Autobahnzusammenschluß im Raum Frankfurt/Oder und Schwetig sowie dem
 dazugehörigen Protokoll vom selben Tage wird zugestimmt. Das Abkommen
 und das Protokoll werden nachstehend veröffentlicht.
@@ -51,7 +48,7 @@ Bestimmungen sind mit Wirkung vom 23. April 1993 anzuwenden.
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 
-(2) Der Tag, an dem das Abkommen nach seinem Artikel 13 Abs. 2 sowie
-das Protokoll in Kraft treten, ist im Bundesgesetzblatt
+(2) Der Tag, an dem das Abkommen nach seinem Artikel 13 Abs. 2
+sowie das Protokoll in Kraft treten, ist im Bundesgesetzblatt
 bekanntzugeben.
 

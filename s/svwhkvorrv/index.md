@@ -1,7 +1,5 @@
 ---
-Title: Verordnung über die Gewährung von Vorrechten und Befreiungen an das Wirtschafts-
-  und Handelsbüro der Sonderverwaltungsregion Hongkong der Volksrepublik China in
-  Berlin
+Title: Verordnung über die Gewährung von Vorrechten und Befreiungen an das Wirtschafts- und Handelsbüro der Sonderverwaltungsregion Hongkong der Volksrepublik China in Berlin
 jurabk: SVwHKVorRV
 layout: default
 origslug: svwhkvorrv
@@ -17,7 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 2009, 142
 
-Stand: Diese V tritt nach ihrem Art. 20 mit Ablauf des Jahres außer Kraft, in dem das Büro geschlossen wird. Der Tag des Außterkrafttretens ist im Bundesgesetzblatt bekannt zu geben.
+Stand
+:   Diese V tritt nach ihrem Art. 20 mit Ablauf des Jahres außer Kraft, in dem das Büro geschlossen wird. Der Tag des Außterkrafttretens ist im Bundesgesetzblatt bekannt zu geben.
+
 
 ## Eingangsformel
 
@@ -26,8 +26,8 @@ Beitritt der Bundesrepublik Deutschland zum Abkommen über die
 Vorrechte und Befreiungen der Sonderorganisationen der Vereinten
 Nationen vom 21. November 1947 und über die Gewährung von Vorrechten
 und Befreiungen an andere zwischenstaatliche Organisationen (BGBl.
-1954 II S. 639), der durch Artikel 4 des Gesetzes vom 16. August 1980
-(BGBl. 1980 II S. 941) neu gefasst worden ist, verordnet die
+1954 II S. 639), der durch Artikel 4 des Gesetzes vom 16. August
+1980 (BGBl. 1980 II S. 941) neu gefasst worden ist, verordnet die
 Bundesregierung:
 
 
@@ -44,30 +44,23 @@ folgende Bedeutung:
 a)  Der Ausdruck „Büro“ bezeichnet das Wirtschafts- und Handelsbüro der
     Sonderverwaltungsregion Hongkong der Volksrepublik China in Berlin.
 
-
 b)  Der Ausdruck „Geschäftsräume des Büros“ bezeichnet ungeachtet der
     Eigentumsverhältnisse die Gebäude oder Gebäudeteile und die dazu
     gehörenden Gelände, die ausschließlich für Zwecke des Büros genutzt
     werden.
 
-
 c)  Der Ausdruck „Behörden“ bezeichnet Bundes-, Landes- oder
     Kommunalbehörden nach den Gesetzen, sonstigen Vorschriften und
     Gepflogenheiten der Bundesrepublik Deutschland.
 
-
 d)  Der Ausdruck „Leiter des Büros“ bezeichnet den in dieser Funktion von
     der Regierung der Sonderverwaltungsregion Hongkong entsandten Beamten.
-
 
 e)  Der Ausdruck „entsandter Mitarbeiter des Büros“ bezeichnet im Range
     mit Berufskonsularbeamten vergleichbare, von der Regierung der
     Sonderverwaltungsregion Hongkong entsandte Beamte, einschließlich des
     Leiters des Büros, die weder deutsche Staatsangehörige noch in der
     Bundesrepublik Deutschland ständig ansässig sind.
-
-
-
 
 
 ## Art 2 Rechtsstellung
@@ -77,14 +70,9 @@ Rechtspersönlichkeit und kann insbesondere
 
 a)  Verträge schließen,
 
-
 b)  bewegliches und unbewegliches Vermögen erwerben und veräußern,
 
-
 c)  vor Gericht stehen.
-
-
-
 
 (2) Für die Zwecke dieses Artikels wird das Büro durch seinen Leiter
 vertreten.
@@ -95,10 +83,10 @@ vertreten.
 (1) Die Geschäftsräume des Büros sind in dem in diesem Artikel
 vorgesehenen Umfang unverletzlich.
 
-(2) Die deutschen Behörden dürfen Geschäftsräume des Büros nur mit der
-Zustimmung des Leiters des Büros oder einer von ihm bestimmten Person
-betreten.Jedoch wird bei Feuer oder einem anderen Unglück, wenn
-sofortige Schutzmaßnahmen erforderlich sind, die Zustimmung des
+(2) Die deutschen Behörden dürfen Geschäftsräume des Büros nur mit
+der Zustimmung des Leiters des Büros oder einer von ihm bestimmten
+Person betreten.Jedoch wird bei Feuer oder einem anderen Unglück,
+wenn sofortige Schutzmaßnahmen erforderlich sind, die Zustimmung des
 Leiters vermutet.
 
 (3) Vorbehaltlich des Absatzes 2 haben die zuständigen Behörden alle
@@ -135,8 +123,8 @@ amtlichen Gebrauch bestimmte Schriftstücke enthalten.
 zurückgehalten werden. Haben jedoch die zuständigen Behörden triftige
 Gründe für die Annahme, dass ein Gepäckstück etwas anderes als
 Korrespondenz und Schriftstücke im Sinne des Absatzes 3 enthält,
-können sie verlangen, dass ein Vertreter des Büros die Gepäckstücke in
-ihrer Gegenwart öffnet.Wird dieses Verlangen abgelehnt, wird das
+können sie verlangen, dass ein Vertreter des Büros die Gepäckstücke
+in ihrer Gegenwart öffnet.Wird dieses Verlangen abgelehnt, wird das
 Gepäckstück an seinen Ursprungsort zurückbefördert.
 
 
@@ -153,13 +141,9 @@ a)  wenn diese aus einem Vertrag entstehen, den ein Mitarbeiter
     geschlossen hat, ohne dabei ausdrücklich oder erkennbar im Auftrag des
     Büros zu handeln, oder
 
-
 b)  wenn diese von einem Dritten wegen eines Schadens angestrengt werden,
     der aus einem durch ein Land-, Wasser- oder Luftfahrzeug verursachten
     Unfall entstanden ist.
-
-
-
 
 
 ## Art 7 Zeugnispflicht
@@ -171,7 +155,6 @@ Verwaltungsverfahren als Zeugen geladen werden.
 über Angelegenheiten zu geben, die mit der Wahrnehmung ihrer Aufgaben
 zusammenhängen, oder die darauf bezüglichen amtlichen Korrespondenzen
 und Schriftstücke vorzulegen.
-
 
 
 ## Art 8 Verzicht auf Vorrechte und Immunitäten
@@ -194,8 +177,8 @@ Verzicht erforderlich.
 Die Räumlichkeiten des Büros in Berlin, die in seinem Eigentum oder
 einer für das Büro handelnden Person stehen oder von ihnen gemietet
 oder gepachtet sind, sind von der Grundsteuer, der Versicherungsteuer
-und der Feuerschutzsteuer befreit. Der Erwerb eines Grundstückes in
-Berlin durch das Büro, das für dessen Nutzung für vergleichbare
+und der Feuerschutzsteuer befreit. Der Erwerb eines Grundstückes
+in Berlin durch das Büro, das für dessen Nutzung für vergleichbare
 Aufgaben wie denen einer berufskonsularischen Vertretung bestimmt ist,
 ist von der Grunderwerbsteuer befreit. Die Befreiungen nach den Sätzen
 1 und 2 gelten nur, sofern diese Steuern nicht von einer Person zu
@@ -214,13 +197,12 @@ Person zu entrichten sind.
 ## Art 11 Befreiung von Zöllen und Zollkontrollen
 
 (1) Nach Maßgabe der in der Bundesrepublik Deutschland jeweils
-geltenden Gesetze und sonstigen Rechtsvorschriften ist die Einfuhr der
-nachstehend genannten Gegenstände gestattet. Sie sind von allen
+geltenden Gesetze und sonstigen Rechtsvorschriften ist die Einfuhr
+der nachstehend genannten Gegenstände gestattet. Sie sind von allen
 Zöllen, Steuern und ähnlichen Abgaben mit Ausnahme von Gebühren für
 Einlagerung, Beförderung und ähnliche Dienstleistungen befreit:
 
 a)  Gegenstände für den amtlichen Gebrauch des Büros,
-
 
 b)  Gegenstände für den persönlichen Gebrauch der entsandten Mitarbeiter
     des Büros und der mit ihnen im gemeinsamen Haushalt lebenden
@@ -229,16 +211,13 @@ b)  Gegenstände für den persönlichen Gebrauch der entsandten Mitarbeiter
     Gegenstände dürfen die für die unmittelbare Verwendung durch die
     Beteiligten erforderliche Menge nicht überschreiten.
 
-
-
-
 (2) Die entsandten Mitarbeiter des Büros und die mit ihnen im
 gemeinsamen Haushalt lebenden Familienangehörigen genießen Befreiung
-von der Zollkontrolle ihres mitgeführten persönlichen Gepäcks. Es darf
-nur kontrolliert werden, wenn triftige Gründe für die Vermutung
-vorliegen, dass es Gegenstände enthält, die in Absatz 1 Buchstabe b
-nicht bezeichnet sind oder deren Ein- oder Ausfuhr nach den jeweils
-geltenden Gesetzen und sonstigen Rechtsvorschriften in der
+von der Zollkontrolle ihres mitgeführten persönlichen Gepäcks. Es
+darf nur kontrolliert werden, wenn triftige Gründe für die Vermutung
+vorliegen, dass es Gegenstände enthält, die in Absatz 1 Buchstabe
+b nicht bezeichnet sind oder deren Ein- oder Ausfuhr nach den
+jeweils geltenden Gesetzen und sonstigen Rechtsvorschriften in der
 Bundesrepublik Deutschland verboten ist oder die der Quarantäne
 unterliegen. In solchen Fällen darf die Kontrolle nur in Anwesenheit
 des Mitarbeiters oder des betreffenden Familienangehörigen
@@ -286,8 +265,8 @@ Sie sind zu der Beschäftigung in dem Büro berechtigt.
 
 ## Art 15 Ausweise
 
-Für die entsandten Mitarbeiter des Büros und die mit ihnen im
-gemeinsamen Haushalt lebenden Familienangehörigen werden
+Für die entsandten Mitarbeiter des Büros und die mit ihnen
+im gemeinsamen Haushalt lebenden Familienangehörigen werden
 Protokollausweise ausgestellt, die Angaben zu ihrem Status enthalten.
 
 

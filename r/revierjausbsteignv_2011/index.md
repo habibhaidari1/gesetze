@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung
-  zum Revierjäger und zur Revierjägerin
+Title: Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung zum Revierjäger und zur Revierjägerin
 jurabk: RevierjAusbStEignV 2011
 layout: default
 origslug: revierjausbsteignv_2011
@@ -22,12 +21,12 @@ Geändert durch
 
 ## Eingangsformel
 
-Auf Grund des § 27 Absatz 3 in Verbindung mit Absatz 1 und 2 des
-Berufsbildungsgesetzes, von denen Absatz 3 durch Artikel 232 Nummer 2
-Buchstabe a der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407)
-geändert worden ist, verordnet das Bundesministerium für Ernährung,
-Landwirtschaft und Verbraucherschutz im Einvernehmen mit dem
-Bundesministerium für Bildung und Forschung nach Anhörung des
+Auf Grund des § 27 Absatz 3 in Verbindung mit Absatz 1 und 2
+des Berufsbildungsgesetzes, von denen Absatz 3 durch Artikel 232
+Nummer 2 Buchstabe a der Verordnung vom 31. Oktober 2006 (BGBl. I
+S. 2407) geändert worden ist, verordnet das Bundesministerium für
+Ernährung, Landwirtschaft und Verbraucherschutz im Einvernehmen mit
+dem Bundesministerium für Bildung und Forschung nach Anhörung des
 Hauptausschusses des Bundesinstituts für Berufsbildung:
 
 
@@ -36,21 +35,21 @@ Hauptausschusses des Bundesinstituts für Berufsbildung:
 (1) Die Ausbildungsstätte muss unter Berücksichtigung der in § 27
 Absatz 1 des Berufsbildungsgesetzes genannten Anforderungen ein
 Jagdbetrieb sein, der nach seinem jagdlichen Bewirtschaftungszustand,
-seinen jagdbetrieblichen Einrichtungen, seinem Wildvorkommen und dem
-Bestand an Jagdhilfstieren, insbesondere Jagdgebrauchshunde, die
-Voraussetzungen dafür bietet, dass den Auszubildenden die in der
-Verordnung über die Berufsausbildung zum Revierjäger/zur Revierjägerin
-vom 18. Mai 2010 (BGBl. I S. 631, 795) in der jeweils geltenden
-Fassung geforderten Fertigkeiten, Kenntnisse und Fähigkeiten
+seinen jagdbetrieblichen Einrichtungen, seinem Wildvorkommen und
+dem Bestand an Jagdhilfstieren, insbesondere Jagdgebrauchshunde,
+die Voraussetzungen dafür bietet, dass den Auszubildenden die
+in der Verordnung über die Berufsausbildung zum Revierjäger/zur
+Revierjägerin vom 18. Mai 2010 (BGBl. I S. 631, 795) in der jeweils
+geltenden Fassung geforderten Fertigkeiten, Kenntnisse und Fähigkeiten
 (berufliche Handlungsfähigkeit) vermittelt werden können. Eine
 kontinuierliche Anleitung muss gewährleistet sein.
 
 (2) Die Ausbildungsstätte muss als Betrieb, als selbstständige
-Betriebseinheit oder als Einrichtung der öffentlichen Hand nach den
-jagdgesetzlichen Bestimmungen und unter Beachtung der
-landeskulturellen Belange als Eigenjagdbezirk oder gemeinschaftlicher
-Jagdbezirk jagdlich ständig bewirtschaftet und nach
-betriebswirtschaftlichen Grundsätzen geführt werden. Die
+Betriebseinheit oder als Einrichtung der öffentlichen Hand
+nach den jagdgesetzlichen Bestimmungen und unter Beachtung
+der landeskulturellen Belange als Eigenjagdbezirk oder
+gemeinschaftlicher Jagdbezirk jagdlich ständig bewirtschaftet
+und nach betriebswirtschaftlichen Grundsätzen geführt werden. Die
 Wirtschaftsergebnisse müssen buchführungsgemäß erfasst sein.
 
 (3) Die jagdbetrieblichen Einrichtungen, insbesondere Gebäude,
@@ -83,17 +82,17 @@ Fachliteratur zur Verfügung stehen. Soweit tarifvertragliche
 Regelungen für den Ausbildungsbetrieb gelten, sind diese in der
 Ausbildungsstätte zur Einsicht auszulegen.
 
-(7) Die Ausbildungsstätte muss die Gewähr dafür bieten, dass die
-Vorschriften des Jugendarbeitsschutzgesetzes, des
+(7) Die Ausbildungsstätte muss die Gewähr dafür bieten,
+dass die Vorschriften des Jugendarbeitsschutzgesetzes, des
 Mutterschutzgesetzes, der Unfallverhütungsvorschriften, der
-Arbeitsstättenverordnung, und sonstige Vorschriften zum Schutze der
-Auszubildenden sowie die Vorschriften zum Umgang mit Waffen
+Arbeitsstättenverordnung, und sonstige Vorschriften zum Schutze
+der Auszubildenden sowie die Vorschriften zum Umgang mit Waffen
 einschließlich Munition eingehalten werden können. Sie muss über
 geeignete Sozialräume und Sanitärräume verfügen. Bei der Beantragung
 der Anerkennung nach § 27 Absatz 3 des Berufsbildungsgesetzes muss
 eine Bescheinigung der zuständigen Berufsgenossenschaft über die
-sicherheitstechnische Überprüfung des Betriebes vorliegen, die nicht
-älter als ein Jahr ist. Sollen Auszubildende in die häusliche
+sicherheitstechnische Überprüfung des Betriebes vorliegen, die
+nicht älter als ein Jahr ist. Sollen Auszubildende in die häusliche
 Gemeinschaft der Ausbildungsstätte aufgenommen werden, so muss eine
 Unterkunft zur Verfügung gestellt werden, die zeitgemäß beschaffen und
 ausgestattet ist.
@@ -107,10 +106,10 @@ eröffnet worden ist.
 
 Eine Ausbildungsstätte, in der die erforderlichen beruflichen
 Fertigkeiten, Kenntnisse und Fähigkeiten (berufliche
-Handlungsfähigkeit) nicht im vollen Umfang vermittelt werden können,
-gilt als geeignet, wenn sichergestellt ist, dass diese durch
-Ausbildungsmaßnahmen außerhalb der Ausbildungsstätte in einer anderen
-anerkannten Ausbildungsstätte oder in Form überbetrieblicher
+Handlungsfähigkeit) nicht im vollen Umfang vermittelt werden
+können, gilt als geeignet, wenn sichergestellt ist, dass diese
+durch Ausbildungsmaßnahmen außerhalb der Ausbildungsstätte in einer
+anderen anerkannten Ausbildungsstätte oder in Form überbetrieblicher
 Ausbildung vermittelt werden können.
 
 

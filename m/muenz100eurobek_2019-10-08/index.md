@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert
-  von 100 Euro (Goldmünze „UNESCO Welterbe Dom zu Speyer“)
+Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze „UNESCO Welterbe Dom zu Speyer“)
 jurabk: Münz100EuroBek 2019-10-08
 layout: default
 origslug: m_nz100eurobek_2019-10-08
@@ -24,13 +23,13 @@ I S. 2402) hat die Bundesregierung beschlossen, in Würdigung des
 UNESCO Welterbes Dom zu Speyer, eine Gedenkmünze zu 100 Euro aus Gold
 prägen zu lassen.
 
-Die Auflage der Münze beträgt maximal 175 000 Stück. Die Münze wird zu
+Die Auflage der Münze beträgt maximal 175 000 Stück. Die Münze wird zu
 gleichen Teilen in den Münzstätten Berlin (Münzzeichen „A“), München
 (Münzzeichen „D“), Stuttgart (Münzzeichen „F“), Karlsruhe (Münzzeichen
 „G“) und Hamburg (Münzzeichen „J“) in Stempelglanzausführung geprägt.
 
-Die Münze wird ab dem 1. Oktober 2019 in den Verkehr gebracht. Sie
-besteht aus Gold mit einem Feingehalt von 999,9 Tausendteilen
+Die Münze wird ab dem 1. Oktober 2019 in den Verkehr gebracht.
+Sie besteht aus Gold mit einem Feingehalt von 999,9 Tausendteilen
 (Feingold), hat einen Durchmesser von 28 Millimetern und eine Masse
 von 15,55 Gramm.
 
@@ -56,9 +55,4 @@ Der Bundesminister der Finanzen
 ## (XXXX)
 
 (Fundstelle: BGBl. I 2019, 1541)
-
-
-*    *        ![bgbl1_2019_j1541-1_0010.jpg](bgbl1_2019_j1541-1_0010.jpg)
-    *        ![bgbl1_2019_j1541-1_0020.jpg](bgbl1_2019_j1541-1_0020.jpg)
-
 

@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über versorgungsrechtliche Übergangsregelungen für Zivildienstleistende
-  nach Herstellung der Einheit Deutschlands
+Title: Verordnung über versorgungsrechtliche Übergangsregelungen für Zivildienstleistende nach Herstellung der Einheit Deutschlands
 jurabk: ZDVÜV
 layout: default
 origslug: zdv_v
@@ -25,8 +24,8 @@ Geändert durch
 Auf Grund des § 51a des Zivildienstgesetzes, der durch Anlage I
 Kapitel X Sachgebiet C Abschnitt II des Einigungsvertrages vom 31.
 August 1990 in Verbindung mit Artikel 1 des Gesetzes vom 23. September
-1990 (BGBl. 1990 II S. 885, 1074) eingefügt worden ist, verordnet die
-Bundesregierung:
+1990 (BGBl. 1990 II S. 885, 1074) eingefügt worden ist, verordnet
+die Bundesregierung:
 
 
 ## § 1 Anwendungsbereich
@@ -45,21 +44,15 @@ Sozialgerichtsbarkeit im Bereich des Zivildienstes vom 14. Dezember
     zum Zivildienst einberufen worden sind, und am Tage vor der Begründung
     des Zivildienstverhältnisses dort ihren Wohnsitz haben,
 
-
 2.  Personen, die die Voraussetzungen der Nummer 1 erfüllen und die aus
     dem Zivildienst ausgeschieden sind,
 
-
-3.  Personen, die nach dem 2. Oktober 1990 eine Schädigung im Sinne des §
-    47b des Zivildienstgesetzes erleiden, wenn sie im Zeitpunkt des
+3.  Personen, die nach dem 2. Oktober 1990 eine Schädigung im Sinne des
+    § 47b des Zivildienstgesetzes erleiden, wenn sie im Zeitpunkt des
     schädigenden Ereignisses in dem in Artikel 3 des Einigungsvertrages
     genannten Gebiet ihren Wohnsitz haben,
 
-
 4.  Hinterbliebene der in den Nummern 1 bis 3 genannten Personen.
-
-
-
 
 
 ## § 2 Höhe der Leistungen
@@ -67,19 +60,17 @@ Sozialgerichtsbarkeit im Bereich des Zivildienstes vom 14. Dezember
 Die Vorschriften des Zivildienstgesetzes über die
 Beschädigtenversorgung sind mit folgenden Maßgaben anzuwenden:
 
-1.  Für Leistungen nach § 35 Abs. 8 und § 50 des Zivildienstgesetzes sind
-    die in Anlage I Kapitel VIII Sachgebiet K Abschnitt III Nr. 1
-    Buchstabe a des Einigungsvertrages vom 31. August 1990 (BGBl. 1990 II
-    S. 885, 1067) genannten Maßgaben ab 3. Oktober 1990 entsprechend
+1.  Für Leistungen nach § 35 Abs. 8 und § 50 des Zivildienstgesetzes
+    sind die in Anlage I Kapitel VIII Sachgebiet K Abschnitt III Nr. 1
+    Buchstabe a des Einigungsvertrages vom 31. August 1990 (BGBl. 1990
+    II S. 885, 1067) genannten Maßgaben ab 3. Oktober 1990 entsprechend
     anzuwenden.
 
-
 2.  Für die Versorgung nach den §§ 47, 47a und 47b des Zivildienstgesetzes
-    sind die in Anlage I Kapitel VIII Sachgebiet K Abschnitt III Nr. 1
-    Buchstaben a bis g sowie Nr. 13 Buchstaben a und b des
+    sind die in Anlage I Kapitel VIII Sachgebiet K Abschnitt III
+    Nr. 1 Buchstaben a bis g sowie Nr. 13 Buchstaben a und b des
     Einigungsvertrages vom 31. August 1990 (BGBl. 1990 II S. 885, 1067,
     1069) genannten Maßgaben ab 3. Oktober 1990 entsprechend anzuwenden.
-
 
 3.  Für die in den Nummern 1 und 2 genannte Versorgung beträgt der
     maßgebliche Vomhundertsatz für die Zeit vom 3. Oktober 1990 bis zum
@@ -89,14 +80,10 @@ Beschädigtenversorgung sind mit folgenden Maßgaben anzuwenden:
     nach dem Bundesversorgungsgesetz bekanntgegebene Vomhundertsatz und
     der Veränderungstermin entsprechend.
 
-
 4.  Ist die Zivildienstbeschädigung im Sinne des Zivildienstgesetzes
     zugleich eine Dienstbeschädigung im Sinne des fortgeltenden Rechts in
     dem in Artikel 3 des Einigungsvertrages genannten Gebiet, besteht ein
     Anspruch auf Beschädigtenversorgung nur nach dem Zivildienstgesetz.
-
-
-
 
 
 ## § 3 Inkrafttreten

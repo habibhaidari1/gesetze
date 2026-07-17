@@ -27,9 +27,7 @@ sofortiger Wirkung an:
 
 ## I.
 
-
 1.  (weggefallen)
-
 
 2.  Dazu werden ihm aus dem Geschäftsbereich des Bundesministeriums der
     Finanzen unter teilweiser Aufhebung des Organisationserlasses des
@@ -41,34 +39,23 @@ sofortiger Wirkung an:
         Sachverständigenrat für die Beurteilung der gesamtwirtschaftlichen
         Entwicklung;
 
-
     b)  gesamtwirtschaftliche Analysen und Projektionen, Wirtschaftsstatistik;
-
 
     c)  institutionelle Fragen der OECD aus dem Bereich
         Außenwirtschaftspolitik (ohne Haushalt der OECD).
 
-
-
-
     Dabei bleiben die Zuständigkeiten des Bundesministeriums für
     wirtschaftliche Zusammenarbeit und Entwicklung unberührt.
-
 
 3.  (weggefallen)
 
 
-
-
-
 ## II.
-
 
 1.  Mit der Übertragung von Zuständigkeiten aus dem bisherigen
     Bundesministerium für Arbeit und Sozialordnung wird das bisherige
     Bundesministerium für Gesundheit zu einem Bundesministerium für
     Gesundheit und Soziale Sicherung umgebildet.
-
 
 2.  Dazu werden ihm aus dem Geschäftsbereich des bisherigen
     Bundesministeriums für Arbeit und Sozialordnung folgende
@@ -80,31 +67,23 @@ sofortiger Wirkung an:
         geringfügig Beschäftigter und Scheinselbständiger, ist Einvernehmen
         mit dem Bundesministerium für Wirtschaft und Arbeit herzustellen;
 
-
     b)  Prävention, Rehabilitation, Behindertenpolitik; Sozialhilfe (soweit
         nicht in Ziffer I Nr. 3 anders geregelt).
 
-
-
-
-    Die Zuständigkeitsübertragung schließt deren europäische und
-    internationale Bezüge sowie deren Grundsatz- und
+    Die Zuständigkeitsübertragung schließt deren europäische
+    und internationale Bezüge sowie deren Grundsatz- und
     Planungsangelegenheiten ein.
-
 
 3.  Der Beauftragte der Bundesregierung für die Belange der Behinderten
     und der Bundesbeauftragte für die Sozialversicherungswahlen werden dem
     Bundesministerium für Gesundheit und Soziale Sicherung zugeordnet.
 
 
-
-
-
 ## III.
 
 Die federführende Zuständigkeit für den Aufgabenbereich Gentechnik
-wird vom Bundesministerium für Gesundheit und Soziale Sicherung auf
-das Bundesministerium für Verbraucherschutz, Ernährung und
+wird vom Bundesministerium für Gesundheit und Soziale Sicherung
+auf das Bundesministerium für Verbraucherschutz, Ernährung und
 Landwirtschaft übertragen, damit auch die federführende Zuständigkeit
 für das Gentechnikgesetz. Davon unberührt bleibt die Zuständigkeit für
 medizinische Fragen, insbesondere das Arzneimittelwesen.
@@ -137,24 +116,16 @@ werden übertragen:
         Energieträger und für die Energieforschung im Bereich der erneuerbaren
         Energieträger;
 
-
-    b)  die Federführung für das Erneuerbare Energien-Gesetz (EEG) und dessen
-        Fortentwicklung unter entsprechender Anwendung der bisherigen
+    b)  die Federführung für das Erneuerbare Energien-Gesetz (EEG) und
+        dessen Fortentwicklung unter entsprechender Anwendung der bisherigen
         Beteiligungsregelungen.
-
-
-
 
     Die Zuständigkeit für außenwirtschaftliche Fragen bei erneuerbaren
     Energien (insbesondere Exportförderung) liegt weiterhin beim
     Bundesministerium für Wirtschaft und Arbeit.
 
-
 2.  aus dem Geschäftsbereich des Bundesministeriums der Finanzen die
     Zuständigkeit für die "Deutsche Bundesstiftung Umwelt.
-
-
-
 
 
 ## VII.

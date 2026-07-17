@@ -1,6 +1,5 @@
 ---
-Title: Verordnung zur Abwandlung der Pflicht zur Arbeitszeitaufzeichnung nach dem
-  Mindestlohngesetz und dem Arbeitnehmer-Entsendegesetz
+Title: Verordnung zur Abwandlung der Pflicht zur Arbeitszeitaufzeichnung nach dem Mindestlohngesetz und dem Arbeitnehmer-Entsendegesetz
 jurabk: MiLoAufzV
 layout: default
 origslug: miloaufzv
@@ -29,36 +28,32 @@ Bundesministerium für Arbeit und Soziales:
 
 ## § 1 Vereinfachung und Abwandlung der Pflicht zur Arbeitszeitaufzeichnung
 
-(1) Abweichend von § 17 Absatz 1 Satz 1 des Mindestlohngesetzes und §
-19 Absatz 1 Satz 1 des Arbeitnehmer-Entsendegesetzes genügt ein
+(1) Abweichend von § 17 Absatz 1 Satz 1 des Mindestlohngesetzes und
+§ 19 Absatz 1 Satz 1 des Arbeitnehmer-Entsendegesetzes genügt ein
 Arbeitgeber,
 
 1.  soweit er Arbeitnehmerinnen und Arbeitnehmer mit ausschließlich
     mobilen Tätigkeiten beschäftigt,
 
-
 2.  diese keinen Vorgaben zur konkreten täglichen Arbeitszeit (Beginn und
     Ende) unterliegen und
 
-
 3.  sich ihre tägliche Arbeitszeit eigenverantwortlich einteilen,
-
-
 
 seiner Aufzeichnungspflicht, wenn für diese Arbeitnehmerinnen und
 Arbeitnehmer nur die Dauer der tatsächlichen täglichen Arbeitszeit
 aufgezeichnet wird.
 
-(2) Bei einer ausschließlich mobilen Tätigkeit im Sinne des Absatzes 1
-handelt es sich um eine Tätigkeit, die nicht an Beschäftigungsorte
+(2) Bei einer ausschließlich mobilen Tätigkeit im Sinne des Absatzes
+1 handelt es sich um eine Tätigkeit, die nicht an Beschäftigungsorte
 gebunden ist. Eine ausschließlich mobile Tätigkeit liegt insbesondere
-bei der Zustellung von Briefen, Paketen und Druckerzeugnissen, der
-Abfallsammlung, der Straßenreinigung, dem Winterdienst, dem
+bei der Zustellung von Briefen, Paketen und Druckerzeugnissen,
+der Abfallsammlung, der Straßenreinigung, dem Winterdienst, dem
 Gütertransport und der Personenbeförderung vor. Arbeitnehmerinnen und
 Arbeitnehmer unterliegen im Sinne des Absatzes 1 keinen Vorgaben zur
 konkreten täglichen Arbeitszeit, wenn die Arbeit lediglich innerhalb
-eines bestimmten zeitlichen Rahmens geleistet werden muss, ohne dass
-die konkrete Lage (Beginn und Ende) der Arbeitszeit durch den
+eines bestimmten zeitlichen Rahmens geleistet werden muss, ohne
+dass die konkrete Lage (Beginn und Ende) der Arbeitszeit durch den
 Arbeitgeber festgelegt wird. Eine eigenverantwortliche Einteilung der
 Arbeitszeit im Sinne des Absatzes 1 liegt vor, wenn Arbeitnehmerinnen
 oder Arbeitnehmer während ihrer täglichen Arbeitszeit regelmäßig nicht

@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl I: 1999, 1915
 
 
-
 ## (XXXX)
 
 Nach Artikel 6 Abs. 3 des Einführungsgesetzes zum Handelsgesetzbuche,
@@ -26,17 +25,7 @@ vom 23. Februar 1968 zur Änderung des Internationalen Abkommens vom
 25\. August 1924 zur Vereinheitlichung von Regeln über Konnossemente
 für
 
-*
-    *
-        *   die Russische Föderation
-
-
-
-
-
-
-
-
+-   -   -   die Russische Föderation
 
 am 29. Juli 1999 in Kraft getreten ist.
 Diese Bekanntmachung ergeht im Anschluss an die Bekanntmachung vom 30.

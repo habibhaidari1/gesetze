@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2020, 1241
 
+Geändert durch
+:   Art. 13 G v. 22.12.2023 I Nr. 414
+
 
 ## § 1 Errichtung und Sitz des Bundesamts
 
@@ -46,8 +49,8 @@ beauftragt wird.
 
 ## § 3 Aufsicht
 
-Das Bundesamt untersteht der Aufsicht des Auswärtigen Amts, soweit im
-Rahmen der Übertragung von Aufgaben nach § 2 Absatz 3 keine
+Das Bundesamt untersteht der Aufsicht des Auswärtigen Amts, soweit
+im Rahmen der Übertragung von Aufgaben nach § 2 Absatz 3 keine
 anderweitige Regelung getroffen wird.
 
 
@@ -87,29 +90,29 @@ des Bundesamts wahrgenommen.
 (2) Der Übergangspersonalrat bestellt unverzüglich den Wahlvorstand
 für die Durchführung der Personalratswahlen im Bundesamt.
 
-(3) Die Absätze 1 und 2 gelten entsprechend für die Jugend- und
-Auszubildendenvertretung sowie für die Vertrauensperson der
+(3) Die Absätze 1 und 2 gelten entsprechend für die Jugend-
+und Auszubildendenvertretung sowie für die Vertrauensperson der
 schwerbehinderten Menschen beim Bundesamt.
 
-(4) Bis zur Bestellung der Gleichstellungsbeauftragten des Bundesamts
-und ihrer Stellvertreterin werden deren Aufgaben von der
-Gleichstellungsbeauftragten des Auswärtigen Amts und ihren
+(4) Bis zur Bestellung der Gleichstellungsbeauftragten des
+Bundesamts und ihrer Stellvertreterin werden deren Aufgaben von
+der Gleichstellungsbeauftragten des Auswärtigen Amts und ihren
 Stellvertreterinnen wahrgenommen.
 
 
 ## § 9 Fortgeltung der Dienstvereinbarungen
 
-Die im Auswärtigen Amt geltenden Dienstvereinbarungen gelten ab dem 1.
-Januar 2021 auch für das Bundesamt, solange sie nicht durch andere
+Die im Auswärtigen Amt geltenden Dienstvereinbarungen gelten ab dem
+1\. Januar 2021 auch für das Bundesamt, solange sie nicht durch andere
 Regelungen im Bundesamt ersetzt werden.
 
 
 ## § 10 Aufbauzulage
 
 (1) Beamtinnen und Beamte, die beim Bundesamt für Auswärtige
-Angelegenheiten verwendet werden, erhalten bis zum 31. Dezember 2025
-eine Aufbauzulage in Höhe der Stellenzulage nach Nummer 7 Absatz 1 der
-Vorbemerkungen zu den Bundesbesoldungsordnungen A und B des
+Angelegenheiten verwendet werden, erhalten bis zum 31. Dezember 2026
+eine Aufbauzulage in Höhe der Stellenzulage nach Nummer 7 Absatz
+1 der Vorbemerkungen zu den Bundesbesoldungsordnungen A und B des
 Bundesbesoldungsgesetzes.
 
 (2) § 13 des Bundesbesoldungsgesetzes in der Fassung der
@@ -124,10 +127,10 @@ Bundesbesoldungsordnungen A und B des Bundesbesoldungsgesetzes in
 Verbindung mit Anlage IX gewährt wurde. Die Ausgleichszulage wird nur
 gewährt, soweit sie die Aufbauzulage nach Absatz 1 übersteigt.
 
-(3) Vor dem 31. Dezember 2025 prüft das Auswärtige Amt im Einvernehmen
+(3) Vor dem 31. Dezember 2026 prüft das Auswärtige Amt im Einvernehmen
 mit dem Bundesministerium des Innern, für Bau und Heimat, dem
-Bundesministerium der Finanzen sowie dem Haushaltsausschuss und dem
-Auswärtigen Ausschuss des Deutschen Bundestages die Wirkung der
+Bundesministerium der Finanzen sowie dem Haushaltsausschuss und
+dem Auswärtigen Ausschuss des Deutschen Bundestages die Wirkung der
 Aufbauzulage nach Absatz 1 und die Frage einer Notwendigkeit für die
-Zeit nach dem 31. Dezember 2025.
+Zeit nach dem 31. Dezember 2026.
 

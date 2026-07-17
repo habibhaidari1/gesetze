@@ -16,41 +16,36 @@ Fundstelle
 :   BGBl I: 1980, 689
 
 Zuletzt geändert durch
-:   Art. 12 G v. 25.6.2021 I 2154
+:   Art. 2 G v. 15.7.2024 I Nr. 237
 
 
 ## § 1 Voraussetzungen
 
 (1) Hilfe für die Wahrnehmung von Rechten außerhalb eines
-gerichtlichen Verfahrens und im obligatorischen Güteverfahren nach §
-15a des Gesetzes betreffend die Einführung der Zivilprozessordnung
+gerichtlichen Verfahrens und im obligatorischen Güteverfahren nach
+§ 15a des Gesetzes betreffend die Einführung der Zivilprozessordnung
 (Beratungshilfe) wird auf Antrag gewährt, wenn
 
 1.  Rechtsuchende die erforderlichen Mittel nach ihren persönlichen und
     wirtschaftlichen Verhältnissen nicht aufbringen können,
 
-
 2.  keine anderen Möglichkeiten für eine Hilfe zur Verfügung stehen, deren
     Inanspruchnahme den Rechtsuchenden zuzumuten ist,
 
-
 3.  die Inanspruchnahme der Beratungshilfe nicht mutwillig erscheint.
 
-
-
-
-(2) Die Voraussetzungen des Absatzes 1 Nummer 1 sind gegeben, wenn den
-Rechtsuchenden Prozeßkostenhilfe nach den Vorschriften der
-Zivilprozeßordnung ohne einen eigenen Beitrag zu den Kosten zu
-gewähren wäre. Die Möglichkeit, sich durch einen Rechtsanwalt
+(2) Die Voraussetzungen des Absatzes 1 Nummer 1 sind gegeben,
+wenn den Rechtsuchenden Prozeßkostenhilfe nach den Vorschriften
+der Zivilprozeßordnung ohne einen eigenen Beitrag zu den Kosten
+zu gewähren wäre. Die Möglichkeit, sich durch einen Rechtsanwalt
 unentgeltlich oder gegen Vereinbarung eines Erfolgshonorars beraten
 oder vertreten zu lassen, ist keine andere Möglichkeit der Hilfe im
 Sinne des Absatzes 1 Nummer 2.
 
-(3) Mutwilligkeit liegt vor, wenn Beratungshilfe in Anspruch genommen
-werden soll, obwohl Rechtsuchende, die nach ihren persönlichen und
-wirtschaftlichen Verhältnissen keine Beratungshilfe beanspruchen
-können, bei verständiger Würdigung aller Umstände der
+(3) Mutwilligkeit liegt vor, wenn Beratungshilfe in Anspruch
+genommen werden soll, obwohl Rechtsuchende, die nach ihren
+persönlichen und wirtschaftlichen Verhältnissen keine Beratungshilfe
+beanspruchen können, bei verständiger Würdigung aller Umstände der
 Rechtsangelegenheit davon absehen würden, sich auf eigene Kosten
 rechtlich beraten oder vertreten zu lassen. Bei der Beurteilung der
 Mutwilligkeit sind die Kenntnisse und Fähigkeiten der Rechtsuchenden
@@ -83,13 +78,9 @@ gewährt durch
 
 1.  Steuerberater und Steuerbevollmächtigte,
 
-
 2.  Wirtschaftsprüfer und vereidigte Buchprüfer sowie
 
-
 3.  Rentenberater.
-
-
 
 Sie kann durch die in den Sätzen 1 und 2 genannten Personen
 (Beratungspersonen) auch in Beratungsstellen gewährt werden, die auf
@@ -104,16 +95,16 @@ einer Erklärung entsprochen werden kann.
 
 ## § 4 Verfahren
 
-(1) Über den Antrag auf Beratungshilfe entscheidet das Amtsgericht, in
-dessen Bezirk die Rechtsuchenden ihren allgemeinen Gerichtsstand
+(1) Über den Antrag auf Beratungshilfe entscheidet das Amtsgericht,
+in dessen Bezirk die Rechtsuchenden ihren allgemeinen Gerichtsstand
 haben. Haben Rechtsuchende im Inland keinen allgemeinen Gerichtsstand,
 so ist das Amtsgericht zuständig, in dessen Bezirk ein Bedürfnis für
 Beratungshilfe auftritt.
 
-(2) Der Antrag kann mündlich oder schriftlich gestellt werden; § 130a
-der Zivilprozessordnung und auf dessen Grundlage erlassene
-Rechtsverordnungen gelten entsprechend. Der Sachverhalt, für den
-Beratungshilfe beantragt wird, ist anzugeben.
+(2) Der Antrag kann vor der Geschäftsstelle zu Protokoll erklärt oder
+schriftlich gestellt werden; § 130a der Zivilprozessordnung und auf
+dessen Grundlage erlassene Rechtsverordnungen gelten entsprechend. Der
+Sachverhalt, für den Beratungshilfe beantragt wird, ist anzugeben.
 
 (3) Dem Antrag sind beizufügen:
 
@@ -121,14 +112,13 @@ Beratungshilfe beantragt wird, ist anzugeben.
     wirtschaftlichen Verhältnisse, insbesondere Angaben zu Familienstand,
     Beruf, Vermögen, Einkommen und Lasten, sowie entsprechende Belege und
 
-
 2.  eine Versicherung der Rechtsuchenden, dass ihnen in derselben
     Angelegenheit Beratungshilfe bisher weder gewährt noch durch das
     Gericht versagt worden ist, und dass in derselben Angelegenheit kein
     gerichtliches Verfahren anhängig ist oder war.
 
-
-
+In geeigneten Fällen kann die Geschäftsstelle Erklärungen und
+Versicherungen nach Satz 1 auch zu Protokoll aufnehmen.
 
 (4) Das Gericht kann verlangen, dass Rechtsuchende ihre tatsächlichen
 Angaben glaubhaft machen, und kann insbesondere auch die Abgabe einer
@@ -153,8 +143,8 @@ Verfahren anhängig ist oder war.
 
 ## § 5 Anwendbare Vorschriften
 
-Für das Verfahren gelten die Vorschriften des Gesetzes über das
-Verfahren in Familiensachen und in den Angelegenheiten der
+Für das Verfahren gelten die Vorschriften des Gesetzes über
+das Verfahren in Familiensachen und in den Angelegenheiten der
 freiwilligen Gerichtsbarkeit entsprechend, soweit in diesem Gesetz
 nichts anderes bestimmt ist. § 185 Abs. 3 und § 189 Abs. 3 des
 Gerichtsverfassungsgesetzes gelten entsprechend.
@@ -168,8 +158,8 @@ erledigt, stellt das Amtsgericht Rechtsuchenden unter genauer
 Bezeichnung der Angelegenheit einen Berechtigungsschein für
 Beratungshilfe durch eine Beratungsperson ihrer Wahl aus.
 
-(2) Wenn sich Rechtsuchende wegen Beratungshilfe unmittelbar an eine
-Beratungsperson wenden, kann der Antrag auf Bewilligung der
+(2) Wenn sich Rechtsuchende wegen Beratungshilfe unmittelbar an
+eine Beratungsperson wenden, kann der Antrag auf Bewilligung der
 Beratungshilfe nachträglich gestellt werden. In diesem Fall ist der
 Antrag spätestens vier Wochen nach Beginn der Beratungshilfetätigkeit
 zu stellen.
@@ -190,13 +180,10 @@ kann nur gestellt werden, wenn die Beratungspersonen
 1.  noch keine Beratungshilfevergütung nach § 44 Satz 1 des
     Rechtsanwaltsvergütungsgesetzes beantragt haben und
 
-
 2.  die Rechtsuchenden bei der Mandatsübernahme auf die Möglichkeit der
     Antragstellung und der Aufhebung der Bewilligung sowie auf die sich
     für die Vergütung nach § 8a Absatz 2 ergebenden Folgen in Textform
     hingewiesen haben.
-
-
 
 Das Gericht hebt den Beschluss über die Bewilligung von Beratungshilfe
 nach Anhörung der Rechtsuchenden auf, wenn diese auf Grund des
@@ -215,14 +202,14 @@ nur die Erinnerung statthaft.
 
 ## § 8 Vergütung
 
-(1) Die Vergütung der Beratungsperson richtet sich nach den für die
-Beratungshilfe geltenden Vorschriften des
+(1) Die Vergütung der Beratungsperson richtet sich nach
+den für die Beratungshilfe geltenden Vorschriften des
 Rechtsanwaltsvergütungsgesetzes. Die Beratungsperson, die nicht
 Rechtsanwalt ist, steht insoweit einem Rechtsanwalt gleich.
 
 (2) Die Bewilligung von Beratungshilfe bewirkt, dass die
-Beratungsperson gegen Rechtsuchende keinen Anspruch auf Vergütung mit
-Ausnahme der Beratungshilfegebühr (§ 44 Satz 2 des
+Beratungsperson gegen Rechtsuchende keinen Anspruch auf
+Vergütung mit Ausnahme der Beratungshilfegebühr (§ 44 Satz 2 des
 Rechtsanwaltsvergütungsgesetzes) geltend machen kann. Dies gilt auch
 in den Fällen nachträglicher Antragstellung (§ 6 Absatz 2) bis zur
 Entscheidung durch das Gericht.
@@ -238,23 +225,16 @@ unberührt. Dies gilt nicht, wenn die Beratungsperson
     Bewilligungsvoraussetzungen im Zeitpunkt der Beratungshilfeleistung
     nicht vorlagen, oder
 
-
 2.  die Aufhebung der Beratungshilfe selbst beantragt hat (§ 6a Absatz 2).
-
-
-
 
 (2) Die Beratungsperson kann von Rechtsuchenden Vergütung nach den
 allgemeinen Vorschriften verlangen, wenn sie
 
 1.  keine Vergütung aus der Staatskasse fordert oder einbehält und
 
-
-2.  die Rechtsuchenden bei der Mandatsübernahme auf die Möglichkeit der
-    Aufhebung der Bewilligung sowie auf die sich für die Vergütung
+2.  die Rechtsuchenden bei der Mandatsübernahme auf die Möglichkeit
+    der Aufhebung der Bewilligung sowie auf die sich für die Vergütung
     ergebenden Folgen hingewiesen hat.
-
-
 
 Soweit Rechtsuchende die Beratungshilfegebühr (Nummer 2500 der Anlage
 1 des Rechtsanwaltsvergütungsgesetzes) bereits geleistet haben, ist
@@ -268,8 +248,8 @@ dieser einbehaltenen Betrages verlangen.
 
 (4) Wird im Fall nachträglicher Antragstellung Beratungshilfe nicht
 bewilligt, kann die Beratungsperson von den Rechtsuchenden Vergütung
-nach den allgemeinen Vorschriften verlangen, wenn sie diese bei der
-Mandatsübernahme hierauf hingewiesen hat. Absatz 2 Satz 2 gilt
+nach den allgemeinen Vorschriften verlangen, wenn sie diese bei
+der Mandatsübernahme hierauf hingewiesen hat. Absatz 2 Satz 2 gilt
 entsprechend.
 
 
@@ -286,21 +266,17 @@ zum Nachteil der Rechtsuchenden geltend gemacht werden.
 
 (1) Bei Streitsachen mit grenzüberschreitendem Bezug nach der
 Richtlinie 2003/8/EG des Rates vom 27. Januar 2003 zur Verbesserung
-des Zugangs zum Recht bei Streitsachen mit grenzüberschreitendem Bezug
-durch Festlegung gemeinsamer Mindestvorschriften für die
+des Zugangs zum Recht bei Streitsachen mit grenzüberschreitendem
+Bezug durch Festlegung gemeinsamer Mindestvorschriften für die
 Prozesskostenhilfe in derartigen Streitsachen (ABl. EG Nr. L 26 S. 41,
 ABl. EU Nr. L 32 S. 15) wird Beratungshilfe gewährt
 
 1.  für die vorprozessuale Rechtsberatung im Hinblick auf eine
     außergerichtliche Streitbeilegung,
 
-
 2.  für die Unterstützung bei einem Antrag nach § 1077 der
     Zivilprozessordnung, bis das Ersuchen im Mitgliedstaat des
     Gerichtsstands eingegangen ist.
-
-
-
 
 (2) § 2 Absatz 3 findet keine Anwendung.
 
@@ -315,10 +291,10 @@ gilt entsprechend.
 
 ## § 10a Grenzüberschreitende Unterhaltssachen
 
-(1) Bei Unterhaltssachen nach der Verordnung (EG) Nr. 4/2009 des Rates
-vom 18. Dezember 2008 (ABl. L 7 vom 10.1.2009, S. 1) erfolgt die
-Gewährung der Beratungshilfe in den Fällen der Artikel 46 und 47
-Absatz 2 dieser Verordnung unabhängig von den persönlichen und
+(1) Bei Unterhaltssachen nach der Verordnung (EG) Nr. 4/2009 des
+Rates vom 18. Dezember 2008 (ABl. L 7 vom 10.1.2009, S. 1) erfolgt
+die Gewährung der Beratungshilfe in den Fällen der Artikel 46 und
+47 Absatz 2 dieser Verordnung unabhängig von den persönlichen und
 wirtschaftlichen Verhältnissen der Rechtsuchenden.
 
 (2) Für ausgehende Anträge in Unterhaltssachen auf
@@ -333,9 +309,9 @@ zuständig.
 
 Das Bundesministerium der Justiz und für Verbraucherschutz wird
 ermächtigt, zur Vereinfachung und Vereinheitlichung des Verfahrens
-durch Rechtsverordnung mit Zustimmung des Bundesrates Formulare für
-den Antrag auf Gewährung von Beratungshilfe und auf Zahlung der
-Vergütung der Beratungsperson nach Abschluß der Beratungshilfe
+durch Rechtsverordnung mit Zustimmung des Bundesrates Formulare
+für den Antrag auf Gewährung von Beratungshilfe und auf Zahlung
+der Vergütung der Beratungsperson nach Abschluß der Beratungshilfe
 einzuführen und deren Verwendung vorzuschreiben.
 
 

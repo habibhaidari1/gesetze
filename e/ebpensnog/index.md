@@ -23,8 +23,8 @@ Zuletzt geändert durch
 
 (1) Die Pensionskasse Deutscher Eisenbahnen und Straßenbahnen (Kasse),
 Körperschaft des öffentlichen Rechts, wird mit Wirkung zum 1. Januar
-2006 in einen Versicherungsverein auf Gegenseitigkeit umgewandelt. Die
-Vorschriften des Umwandlungsgesetzes sind nicht anzuwenden.
+2006 in einen Versicherungsverein auf Gegenseitigkeit umgewandelt.
+Die Vorschriften des Umwandlungsgesetzes sind nicht anzuwenden.
 Vereinsmitglieder sind die bisherigen beteiligten Verwaltungen und
 Mitglieder der Körperschaft.
 
@@ -35,8 +35,8 @@ Versicherungsverein auf Gegenseitigkeit geltenden Mindestanforderungen
 festzustellen und zu bestimmen, dass und wie sie durch die Kasse
 geändert werden kann.
 
-(3) Die Vorstandsmitglieder der Kasse bleiben bestellt bis zum Ablauf
-der Amtszeit, für die sie vor dem Wirksamwerden der Umwandlung
+(3) Die Vorstandsmitglieder der Kasse bleiben bestellt bis zum
+Ablauf der Amtszeit, für die sie vor dem Wirksamwerden der Umwandlung
 bestellt sind.
 
 (4) Die bisherigen Mitglieder des Kuratoriums der Kasse sind
@@ -49,8 +49,8 @@ Kasse. Der Vorstand beruft spätestens bis zum 30. Juni 2006 die
 nächste Hauptversammlung ein.
 
 (6) Die Kasse gilt als zum Geschäftsbetrieb in der Versicherungssparte
-19 der Anlage 1 zum Versicherungsaufsichtsgesetz zugelassen. Die Kasse
-hat die Anforderungen des § 53c Abs. 1 bis 3c und der
+19 der Anlage 1 zum Versicherungsaufsichtsgesetz zugelassen.
+Die Kasse hat die Anforderungen des § 53c Abs. 1 bis 3c und der
 Kapitalausstattungs-Verordnung spätestens bis zum 31. Dezember 2007 zu
 erfüllen. Hat die Kasse die geforderte Solvabilitätsspanne bis zum 31.
 Dezember 2007 noch nicht voll erreicht, kann die Aufsichtsbehörde der
@@ -60,27 +60,27 @@ einen Solvabilitätsplan gemäß § 81b Abs. 1 vorgelegt hat.
 
 ## § 2 Fortführung von Versorgungsleistungen
 
-(1) Die Versicherungsverhältnisse der Abteilungen D, E, F der Kasse
-werden mit Wirkung zum 1. Januar 2006 auf die Deutsche
+(1) Die Versicherungsverhältnisse der Abteilungen D, E, F der
+Kasse werden mit Wirkung zum 1. Januar 2006 auf die Deutsche
 Rentenversicherung Knappschaft-Bahn-See übertragen. Die
-Bahnversicherungsanstalt - Abteilung B -, ab 1. Oktober 2005 Deutsche
-Rentenversicherung Knappschaft-Bahn-See, führt die
-Versicherungsverhältnisse als gesonderte Versicherungsbestände weiter.
-Die Kasse stellt der Deutschen Rentenversicherung Knappschaft-Bahn-See
-nach deren Aufforderung unverzüglich sämtliche Vertrags- und
-Geschäftsunterlagen betreffend diese Versicherungsverhältnisse zur
-Verfügung und erteilt die erforderlichen Auskünfte; ein
+Bahnversicherungsanstalt - Abteilung B -, ab 1. Oktober 2005
+Deutsche Rentenversicherung Knappschaft-Bahn-See, führt die
+Versicherungsverhältnisse als gesonderte Versicherungsbestände
+weiter. Die Kasse stellt der Deutschen Rentenversicherung Knappschaft-
+Bahn-See nach deren Aufforderung unverzüglich sämtliche Vertrags-
+und Geschäftsunterlagen betreffend diese Versicherungsverhältnisse
+zur Verfügung und erteilt die erforderlichen Auskünfte; ein
 Zurückbehaltungsrecht steht ihr nicht zu.
 
 (2) Die Leistungen aus den Versicherungsverhältnissen werden durch
 Zuschüsse finanziert, soweit die Leistungen aus Erstattungsbeträgen
-der Betriebe sowie aus Beiträgen und sonstigen Einnahmen aus den
-dadurch mit ihr begründeten Versicherungsverhältnissen nicht
-sichergestellt werden können. Die Zuschüsse für die Abteilung D trägt
-der Bund, die Zuschüsse zur Abteilung E werden zur Hälfte vom
-Freistaat Bayern, die Zuschüsse zur Abteilung F zur Hälfte vom
-Saarland getragen. Die andere Hälfte der laufenden Zuschüsse trägt der
-Bund.
+der Betriebe sowie aus Beiträgen und sonstigen Einnahmen aus
+den dadurch mit ihr begründeten Versicherungsverhältnissen nicht
+sichergestellt werden können. Die Zuschüsse für die Abteilung D
+trägt der Bund, die Zuschüsse zur Abteilung E werden zur Hälfte
+vom Freistaat Bayern, die Zuschüsse zur Abteilung F zur Hälfte vom
+Saarland getragen. Die andere Hälfte der laufenden Zuschüsse trägt
+der Bund.
 
 (3) Vermögensteile, die nach dem 8. Mai 1945 der Kasse unentgeltlich
 entzogen worden oder in anderer Weise fortgefallen sind, fallen bei
@@ -101,18 +101,17 @@ hat.
 ## (XXXX) §§ 4 und 5 (weggefallen)
 
 
-
 ## § 6 Neuregelung der Versorgungsleistungen
 
-(1) Für die Leistungsempfänger der Abteilung D gelten die bisher in
-der Anlage zu § 33 Abs. 1 der Kasse festgesetzten
+(1) Für die Leistungsempfänger der Abteilung D gelten die
+bisher in der Anlage zu § 33 Abs. 1 der Kasse festgesetzten
 Versicherungsbedingungen. Werden die beamtenrechtlichen
-Versorgungsbezüge der Versorgungsempfänger des Bundes geändert, so hat
-die Deutsche Rentenversicherung Knappschaft-Bahn-See die laufenden
-Versorgungsleistungen aus Versicherungsverhältnissen der Abteilung D
-neu zu regeln. Sofern den laufenden Versorgungsleistungen
-Grundgehälter einer bestimmten Besoldungsgruppe nicht zugrunde liegen,
-müssen sich die Änderungen im Rahmen der Erhöhungen oder
+Versorgungsbezüge der Versorgungsempfänger des Bundes geändert,
+so hat die Deutsche Rentenversicherung Knappschaft-Bahn-See die
+laufenden Versorgungsleistungen aus Versicherungsverhältnissen der
+Abteilung D neu zu regeln. Sofern den laufenden Versorgungsleistungen
+Grundgehälter einer bestimmten Besoldungsgruppe nicht zugrunde
+liegen, müssen sich die Änderungen im Rahmen der Erhöhungen oder
 Verminderungen der Versorgungsbezüge derjenigen Versorgungsempfänger
 des Bundes halten, deren Bezügen ein Grundgehalt nicht zugrunde liegt.
 
@@ -120,47 +119,36 @@ des Bundes halten, deren Bezügen ein Grundgehalt nicht zugrunde liegt.
 diejenigen Leistungen, die ihnen bei Aufrechterhaltung der bisherigen
 Versorgungsregelung nach den Satzungsbestimmungen des Bayerischen
 Versorgungsverbandes oder der Ruhegehalts- und Zusatzversorgungskasse
-des Saarlandes, Abteilung Ruhegehalt, zustehen würde, wenn die nach
-bayerischem oder saarländischem Beamtenrecht vorgeschriebenen
+des Saarlandes, Abteilung Ruhegehalt, zustehen würde, wenn die
+nach bayerischem oder saarländischem Beamtenrecht vorgeschriebenen
 Voraussetzungen erfüllt sind. Werden die beamtenrechtlichen
-Versorgungsbezüge der Versorgungsempfänger des Freistaates Bayern bzw.
-des Saarlandes geändert, so hat die Deutschen Rentenversicherung
+Versorgungsbezüge der Versorgungsempfänger des Freistaates Bayern
+bzw. des Saarlandes geändert, so hat die Deutschen Rentenversicherung
 Knappschaft-Bahn-See die Versorgungsleistungen aus den Abteilungen E
 und F jeweils entsprechend neu zu regeln.
 
 
 ## § 6a
 
-Die Vorschriften des Gesetzes zur Regelung von Ansprüchen aus Lebens-
-und Rentenversicherungen
-in der Fassung vom 15. Juli 1959 (Bundesgesetzbl. I S. 433)
-finden auf die Versicherungsverhältnisse der Pensionskasse keine
-Anwendung.
+Die Vorschriften des Gesetzes zur Regelung von Ansprüchen aus
+Lebens- und Rentenversicherungen *in der Fassung vom 15. Juli 1959
+(Bundesgesetzbl. I S. 433)* finden auf die Versicherungsverhältnisse
+der Pensionskasse keine Anwendung.
 
 
 ## (XXXX) §§ 7 bis 9 (weggefallen)
 
 
-Auszug aus EinigVtr Anlage I Kapitel IV Sachgebiet B Abschnitt III
-(BGBl. II 1990, 889, 995)
-
-## Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+## Anhang EV Auszug aus EinigVtr Anlage I Kapitel IV Sachgebiet B Abschnitt III (BGBl. II 1990, 889, 995) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:
 ...
-
-4.  Das Gesetz zur Neuordnung der Pensionskasse Deutscher Eisenbahnen und
-    Straßenbahnen in der im Bundesgesetzblatt Teil III, Gliederungsnummer
-    7633-1, veröffentlichen bereinigten Fassung, zuletzt geändert durch
-    Artikel 6 des Gesetzes vom 18. März 1975 (BGBl. I S. 705)
-
-    mit folgender Maßgabe:
-
-    Die §§ 2 bis 6a werden in dem in Artikel 3 des Vertrages genannten
-    Gebiet nicht angewendet.
-
-
-
+4\. Das Gesetz zur Neuordnung der Pensionskasse Deutscher
+Eisenbahnen und Straßenbahnen in der im Bundesgesetzblatt Teil III,
+Gliederungsnummer 7633-1, veröffentlichen bereinigten Fassung, zuletzt
+geändert durch Artikel 6 des Gesetzes vom 18. März 1975 (BGBl. I S.
+705)mit folgender Maßgabe:Die §§ 2 bis 6a werden in dem in Artikel 3
+des Vertrages genannten Gebiet nicht angewendet.
 

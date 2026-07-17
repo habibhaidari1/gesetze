@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zu dem Abkommen vom 3. Dezember 2009 zwischen der Bundesrepublik Deutschland
-  und der Föderativen Republik Brasilien über Soziale Sicherheit
+Title: Gesetz zu dem Abkommen vom 3. Dezember 2009 zwischen der Bundesrepublik Deutschland und der Föderativen Republik Brasilien über Soziale Sicherheit
 jurabk: SozSichAbkBRAG
 layout: default
 origslug: sozsichabkbrag
@@ -31,12 +30,9 @@ zwischenstaatlichen Übereinkünften wird zugestimmt:
 1.  dem Abkommen zwischen der Bundesrepublik Deutschland und der
     Föderativen Republik Brasilien über Soziale Sicherheit,
 
-
 2.  der Vereinbarung zur Durchführung des Abkommens vom 3. Dezember 2009
     zwischen der Bundesrepublik Deutschland und der Föderativen Republik
     Brasilien über Soziale Sicherheit.
-
-
 
 Das Abkommen und die Durchführungsvereinbarung werden nachstehend
 veröffentlicht.
@@ -58,16 +54,11 @@ folgende Gegenstände Regelungen getroffen werden:
     Abkommens befassten Stellen sowie zwischen diesen und den betroffenen
     Personen,
 
-
 2.  das Ausstellen, die Vorlage und Übermittlung von Bescheinigungen sowie
     die Verwendung von Vordrucken,
 
-
 3.  die Zuständigkeit der Versicherungsträger oder anderer im Abkommen
     genannter Stellen und Behörden.
-
-
-
 
 
 ## Art 3

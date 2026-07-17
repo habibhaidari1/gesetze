@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die technischen und organisatorischen Rahmenbedingungen für
-  die elektronische Aktenführung im Bußgeldverfahren
+Title: Verordnung über die technischen und organisatorischen Rahmenbedingungen für die elektronische Aktenführung im Bußgeldverfahren
 jurabk: BBußAktFV
 layout: default
 origslug: bbu_aktfv
@@ -31,46 +30,40 @@ Diese Verordnung ist anzuwenden auf elektronisch geführte Bußgeldakten
 
 1.  der Verwaltungsbehörden, die als Bußgeldbehörden tätig sind;
 
-
 2.  des Generalbundesanwalts beim Bundesgerichtshof;
 
-
 3.  des Bundesgerichtshofs.
-
-
-
 
 
 ## § 2 Struktur und Format elektronischer Akten; Repräsentat
 
 (1) In der elektronischen Akte werden zur Akte gebrachte elektronische
-Dokumente einschließlich zugehöriger Signaturdateien sowie sonstige
-zur Akte gebrachte Dateien und Informationen gespeichert.
+Dokumente einschließlich zugehöriger Signaturdateien sowie
+sonstige zur Akte gebrachte Dateien und Informationen gespeichert.
 Elektronische Empfangsbekenntnisse sowie elektronische Formulare, die
 als strukturierte maschinenlesbare Datensätze übermittelt worden sind
 (§ 110b des Gesetzes über Ordnungswidrigkeiten), werden als Datensätze
 in der elektronischen Akte gespeichert.
 
 (2) Die nach Absatz 1 in der elektronischen Akte gespeicherten Inhalte
-müssen jederzeit zusätzlich als elektronische Dokumente im Format
-PDF/A wiedergegeben werden können; diese Dokumente bilden das
-Repräsentat. Das Repräsentat muss den gesamten zur Akte gebrachten
-Inhalt mit Ausnahme der nur für die Datenverarbeitung notwendigen
-Struktur-, Definitions- und Schemadateien wiedergeben. Soweit die
-Wiedergabe eines Inhalts technisch nicht möglich ist, ist ein
-entsprechender Hinweis in das Repräsentat aufzunehmen. An die Stelle
-von Signaturdateien treten im Repräsentat Vermerke über das Ergebnis
-der Signaturprüfung. Das Repräsentat muss druckbar, kopierbar und,
-soweit technisch möglich, durchsuchbar sein. Die Seiten des
-Repräsentats sind so zu nummerieren, dass sie eindeutig zitiert werden
-können.
+müssen jederzeit zusätzlich als elektronische Dokumente im Format PDF/
+A wiedergegeben werden können; diese Dokumente bilden das Repräsentat.
+Das Repräsentat muss den gesamten zur Akte gebrachten Inhalt mit
+Ausnahme der nur für die Datenverarbeitung notwendigen Struktur-,
+Definitions- und Schemadateien wiedergeben. Soweit die Wiedergabe
+eines Inhalts technisch nicht möglich ist, ist ein entsprechender
+Hinweis in das Repräsentat aufzunehmen. An die Stelle von
+Signaturdateien treten im Repräsentat Vermerke über das Ergebnis der
+Signaturprüfung. Das Repräsentat muss druckbar, kopierbar und, soweit
+technisch möglich, durchsuchbar sein. Die Seiten des Repräsentats sind
+so zu nummerieren, dass sie eindeutig zitiert werden können.
 
-(3) Bei der elektronischen Aktenführung sind alle Daten vorzuhalten,
-die erforderlich sind, um den für die Übermittlung von elektronischen
-Akten vorgesehenen strukturierten maschinenlesbaren Datensatz im
-Dateiformat XML gemäß der Bekanntmachung nach § 6 der
-Bußgeldaktenübermittlungsverordnung zu erzeugen und die Bearbeitung zu
-unterstützen.
+(3) Bei der elektronischen Aktenführung sind alle Daten
+vorzuhalten, die erforderlich sind, um den für die Übermittlung von
+elektronischen Akten vorgesehenen strukturierten maschinenlesbaren
+Datensatz im Dateiformat XML gemäß der Bekanntmachung nach § 6 der
+Bußgeldaktenübermittlungsverordnung zu erzeugen und die Bearbeitung
+zu unterstützen.
 
 (4) Als Bußgeldbehörden tätige Verwaltungsbehörden müssen Bußgeldakten
 mindestens nach Maßgabe der in Absatz 1 niedergelegten Grundsätze
@@ -97,13 +90,13 @@ teilweise auf eine andere Stelle übergehen.
 
 ## § 4 Barrierefreiheit
 
-Elektronische Akten und Verfahren zur elektronischen Aktenführung und
--bearbeitung sollen technisch so gestaltet werden, dass sie, soweit
-technisch möglich, barrierefrei zugänglich und nutzbar sind. Hierzu
-sollen die Anforderungen an die Barrierefreiheit im Sinne der
+Elektronische Akten und Verfahren zur elektronischen Aktenführung
+und -bearbeitung sollen technisch so gestaltet werden, dass sie,
+soweit technisch möglich, barrierefrei zugänglich und nutzbar sind.
+Hierzu sollen die Anforderungen an die Barrierefreiheit im Sinne der
 Barrierefreie-Informationstechnik-Verordnung vom 12. September 2011
-(BGBl. I S. 1843), die zuletzt durch Artikel 1 der Verordnung vom 21.
-Mai 2019 (BGBl. I S. 738) geändert worden ist, in der jeweils
+(BGBl. I S. 1843), die zuletzt durch Artikel 1 der Verordnung vom
+21\. Mai 2019 (BGBl. I S. 738) geändert worden ist, in der jeweils
 geltenden Fassung bereits bei Planung, Entwicklung, Ausschreibung und
 Beschaffung beachtet werden.
 

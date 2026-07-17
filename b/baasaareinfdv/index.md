@@ -1,6 +1,5 @@
 ---
-Title: Rechtsverordnung des Präsidenten des Bundesausgleichsamtes zur Einführung von
-  Rechtsverordnungen im Saarland
+Title: Rechtsverordnung des Präsidenten des Bundesausgleichsamtes zur Einführung von Rechtsverordnungen im Saarland
 jurabk: BAASaarEinfDV
 layout: default
 origslug: baasaareinfdv

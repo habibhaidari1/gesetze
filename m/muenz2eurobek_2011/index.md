@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert
-  von 2 Euro (Gedenkmünze „Bayern“)
+Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze „Bayern“)
 jurabk: Münz2EuroBek 2011
 layout: default
 origslug: m_nz2eurobek_2011
@@ -19,8 +18,8 @@ Fundstelle
 
 ## (XXXX)
 
-Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
-I S. 2402) hat die Bundesregierung beschlossen, eine 2-Euro-
+Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999
+(BGBl. I S. 2402) hat die Bundesregierung beschlossen, eine 2-Euro-
 Gedenkmünze „Bayern“ im Rahmen einer Serie „Bundesländer“ prägen zu
 lassen. Die Auflage der Münze beträgt 30 Millionen Stück.
 
@@ -33,8 +32,8 @@ Der Münzrand enthält in vertiefter Prägung unverändert die Inschrift:
 
 „EINIGKEIT UND RECHT UND FREIHEIT“.
 
-Die nationale Seite zeigt die weltweit bekannteste Ansicht von Schloss
-Neuschwanstein. Die Länderbezeichnung „BAYERN“ verknüpft das
+Die nationale Seite zeigt die weltweit bekannteste Ansicht von
+Schloss Neuschwanstein. Die Länderbezeichnung „BAYERN“ verknüpft das
 abgebildete Bauwerk mit dem Bundesland. Auf der Randzone sind die
 zwölf Europasterne, das Ausgabejahr 2012 und die Kennzeichnung „D“ für
 das Ausgabeland Bundesrepublik Deutschland zu sehen.
@@ -54,9 +53,4 @@ Der Bundesminister der Finanzen
 ## (XXXX)
 
 (Fundstelle: BGBl. I 2011, 2172)
-
-
-*    *        ![bgbl1_2011_j2172-1_0010.jpg](bgbl1_2011_j2172-1_0010.jpg)
-    *        ![bgbl1_2011_j2172-1_0020.jpg](bgbl1_2011_j2172-1_0020.jpg)
-
 

@@ -1,6 +1,5 @@
 ---
-Title: Verordnung zur Umsetzung von Konsultationsvereinbarungen zwischen der Bundesrepublik
-  Deutschland und der Republik Österreich
+Title: Verordnung zur Umsetzung von Konsultationsvereinbarungen zwischen der Bundesrepublik Deutschland und der Republik Österreich
 jurabk: KonsVerAUTV
 layout: default
 origslug: konsverautv
@@ -34,8 +33,8 @@ angefügt worden ist, verordnet das Bundesministerium der Finanzen:
 
 Als Abkommen im Sinn dieser Verordnung gilt das Abkommen zwischen der
 Bundesrepublik Deutschland und der Republik Österreich zur Vermeidung
-der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom
-Vermögen vom 24. August 2000 (BGBl. 2002 II S. 734, 735) in der
+der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und
+vom Vermögen vom 24. August 2000 (BGBl. 2002 II S. 734, 735) in der
 jeweils geltenden Fassung.
 
 
@@ -68,8 +67,8 @@ Verlegt ein in einem Vertragsstaat ansässiger Arbeitnehmer aus Anlass
 der vorzeitigen Beendigung seines Dienstverhältnisses seinen Wohnsitz
 in den anderen Vertragsstaat und werden ihm die Gehälter bis zum
 vertraglich vorgesehenen Ablauf des Dienstverhältnisses weitergezahlt,
-so steht das Besteuerungsrecht an den Gehaltsfortzahlungen dem Staat
-zu, der auch für die Bezüge aus der aktiven Tätigkeit
+so steht das Besteuerungsrecht an den Gehaltsfortzahlungen dem
+Staat zu, der auch für die Bezüge aus der aktiven Tätigkeit
 besteuerungsberechtigt war.
 
 
@@ -88,16 +87,16 @@ Beendigung des Arbeitsverhältnisses sowie eine Urlaubsentschädigung
 unterliegen in jenem Staat der Besteuerung, der auch für die Bezüge
 aus der aktiven Tätigkeit besteuerungsberechtigt war.
 
-(2) Können Gehaltsfortzahlungen, Zahlungen für ein Konkurrenz- und
-Wettbewerbsverbot, Abfindungen und Urlaubsentschädigungen aus Anlass
-der Auflösung des Dienstverhältnisses, welche eine in einem
-Vertragsstaat ansässige Person nach Wegzug aus dem Tätigkeitsstaat von
-ihrem ehemaligen, im jeweils anderen Vertragsstaat ansässigen
+(2) Können Gehaltsfortzahlungen, Zahlungen für ein Konkurrenz-
+und Wettbewerbsverbot, Abfindungen und Urlaubsentschädigungen aus
+Anlass der Auflösung des Dienstverhältnisses, welche eine in einem
+Vertragsstaat ansässige Person nach Wegzug aus dem Tätigkeitsstaat
+von ihrem ehemaligen, im jeweils anderen Vertragsstaat ansässigen
 Arbeitgeber erhält, aufgrund der durch das maßgebliche innerstaatliche
 Recht dieses Staates gebotenen Anwendung des Abkommens nicht im
 ehemaligen Tätigkeitsstaat besteuert werden, liegt ein negativer
-Qualifikationskonflikt vor und diese Abfindungszahlungen werden gemäß
-Artikel 28 Absatz 1 Buchstabe a des Abkommens im jeweiligen
+Qualifikationskonflikt vor und diese Abfindungszahlungen werden
+gemäß Artikel 28 Absatz 1 Buchstabe a des Abkommens im jeweiligen
 Ansässigkeitsstaat dieser Person besteuert.
 
 (3) Im Falle eines positiven Qualifikationskonflikts wird der Eintritt

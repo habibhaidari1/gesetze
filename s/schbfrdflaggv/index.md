@@ -22,11 +22,11 @@ Zuletzt geändert durch
 ## Eingangsformel
 
 Auf Grund des durch Artikel 2 Nr. 4 des Gesetzes vom 28. April 1980
-(BGBl. II S. 606) eingefügten § 9b Abs. 1 und des durch Artikel 1 Nr.
-1 des Gesetzes vom 10. Mai 1978 (BGBl. I S. 613) geänderten § 12 Abs.
-2 des Gesetzes über die Aufgaben des Bundes auf dem Gebiet der
-Seeschiffahrt in der Fassung der Bekanntmachung vom 30. Juni 1977
-(BGBl. I S. 1314) sowie des § 36 Abs. 3 des Gesetzes über
+(BGBl. II S. 606) eingefügten § 9b Abs. 1 und des durch Artikel 1
+Nr. 1 des Gesetzes vom 10. Mai 1978 (BGBl. I S. 613) geänderten §
+12 Abs. 2 des Gesetzes über die Aufgaben des Bundes auf dem Gebiet
+der Seeschiffahrt in der Fassung der Bekanntmachung vom 30. Juni
+1977 (BGBl. I S. 1314) sowie des § 36 Abs. 3 des Gesetzes über
 Ordnungswidrigkeiten in der Fassung der Bekanntmachung vom 2. Januar
 1975 (BGBl. I S. 80, 520) wird, hinsichtlich des § 8 im Einvernehmen
 mit dem Bundesminister der Finanzen, verordnet:
@@ -53,11 +53,11 @@ Funkraum, gewährleistet ist.
 
 (2) Die Dienste eines Kapitäns, eines Leiters der Maschinenanlage,
 eines nautischen und technischen Wachoffiziers, eines Funkoffiziers
-und eines Sprechfunkers sowie eines Schiffsmannes, der Wachdienst auf
-der Brücke verrichtet, dürfen nur von Personen ausgeübt werden, die
-ein zur Ausübung dieser Dienste gültiges Befähigungszeugnis besitzen,
-das mindestens den Vorschriften des Übereinkommens vom 7. Juli 1978
-über Normen für die Ausbildung, die Erteilung von
+und eines Sprechfunkers sowie eines Schiffsmannes, der Wachdienst
+auf der Brücke verrichtet, dürfen nur von Personen ausgeübt werden,
+die ein zur Ausübung dieser Dienste gültiges Befähigungszeugnis
+besitzen, das mindestens den Vorschriften des Übereinkommens vom
+7\. Juli 1978 über Normen für die Ausbildung, die Erteilung von
 Befähigungszeugnissen und den Wachdienst von Seeleuten (BGBl. 1982 II
 S. 297) entspricht.
 
@@ -65,22 +65,22 @@ S. 297) entspricht.
 ## § 3 Sicherheit und Gesundheit von Seeleuten auf Schiffen unter fremder Flagge
 
 Schiffe unter fremder Flagge müssen hinsichtlich Sicherheit und
-Gesundheit der Seeleute zumindest den Anforderungen nach Artikel 2
-Buchstabe a des Übereinkommens Nr. 147 der Internationalen
+Gesundheit der Seeleute zumindest den Anforderungen nach Artikel
+2 Buchstabe a des Übereinkommens Nr. 147 der Internationalen
 Arbeitsorganisation vom 29. Oktober 1976 über Mindestnormen auf
 Handelsschiffen (BGBl. 1980 II S. 606) entsprechen.
 
 
 ## § 4 Aufgaben der See-Berufsgenossenschaft
 
-(1) Die See-Berufsgenossenschaft überwacht die Einhaltung der §§ 2 und
-3 nach Maßgabe des § 6 des Gesetzes über die Aufgaben des Bundes auf
-dem Gebiet der Seeschiffahrt und führt die hierzu erforderlichen
-Kontrollen durch. Hierbei bedient sie sich der Wasserschutzpolizei der
-Länder nach Maßgabe der Vereinbarungen zwischen dem Bund und den
+(1) Die See-Berufsgenossenschaft überwacht die Einhaltung der §§ 2
+und 3 nach Maßgabe des § 6 des Gesetzes über die Aufgaben des Bundes
+auf dem Gebiet der Seeschiffahrt und führt die hierzu erforderlichen
+Kontrollen durch. Hierbei bedient sie sich der Wasserschutzpolizei
+der Länder nach Maßgabe der Vereinbarungen zwischen dem Bund und den
 Ländern über die Ausübung der schiffahrtpolizeilichen Vollzugsaufgaben
-(§ 20 Abs. 1 Nr. 5 des Gesetzes über die Aufgaben des Bundes auf dem
-Gebiet der Seeschiffahrt) sowie der Bundespolizei und der
+(§ 20 Abs. 1 Nr. 5 des Gesetzes über die Aufgaben des Bundes auf
+dem Gebiet der Seeschiffahrt) sowie der Bundespolizei und der
 Zollverwaltung.
 
 (2) Stellt die See-Berufsgenossenschaft fest, daß ein Schiff unter
@@ -99,19 +99,13 @@ die See-Berufsgenossenschaft unverzüglich
 
 1.  den Kapitän des Schiffes,
 
-
 2.  den nächst erreichbaren für Seeschiffahrtsfragen zuständigen
     konsularischen, diplomatischen oder sonstigen Vertreter des
     Flaggenstaates,
 
-
 3.  die zuständige Hafenbehörde und
 
-
 4.  das Bundesministerium für Verkehr und digitale Infrastruktur.
-
-
-
 
 
 ## § 6 Verantwortlichkeit
@@ -129,8 +123,8 @@ die Aufgaben des Bundes auf dem Gebiet der Seeschiffahrt handelt, wer
 vorsätzlich oder fahrlässig einer vollziehbaren Anordnung nach § 4
 Abs. 2 Satz 2 zuwiderhandelt.
 
-(2) Die Zuständigkeit für die Verfolgung und Ahndung von
-Ordnungswidrigkeiten nach Absatz 1 wird auf die See-
+(2) Die Zuständigkeit für die Verfolgung und Ahndung
+von Ordnungswidrigkeiten nach Absatz 1 wird auf die See-
 Berufsgenossenschaft übertragen.
 
 

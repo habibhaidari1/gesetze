@@ -21,8 +21,8 @@ Neugefasst durch
 
 ## § 1 Umfang der Vergünstigung
 
-(1) Bei Ermittlung der Einkünfte aus Land- und Forstwirtschaft können
-buchführende Land- und Forstwirte für den Bau von
+(1) Bei Ermittlung der Einkünfte aus Land- und Forstwirtschaft
+können buchführende Land- und Forstwirte für den Bau von
 Landarbeiterwohnungen Bewertungsfreiheit in der Weise in Anspruch
 nehmen, daß sie die Aufwendungen im Wirtschaftsjahr der Herstellung
 voll oder in diesem und in den beiden folgenden Wirtschaftsjahren mit
@@ -46,13 +46,13 @@ land- und forstwirtschaftlichen Betriebs entstanden sind.
 
 ## § 1a Vergünstigung bei Verpächtern
 
-Verpächter land- und forstwirtschaftlicher Betriebe, Teilbetriebe oder
-Betriebsteile, bei denen die Einkünfte aus der Verpachtung Einkünfte
-aus Vermietung und Verpachtung im Sinne des § 21 des
+Verpächter land- und forstwirtschaftlicher Betriebe, Teilbetriebe
+oder Betriebsteile, bei denen die Einkünfte aus der Verpachtung
+Einkünfte aus Vermietung und Verpachtung im Sinne des § 21 des
 Einkommensteuergesetzes darstellen, können bei der Ermittlung der
-Einkünfte Aufwendungen für den Bau von Landarbeiterwohnungen im Jahr
-der Herstellung voll oder in diesem und in den beiden folgenden Jahren
-mit je einem Drittel absetzen. Diese Vergünstigung gilt für
+Einkünfte Aufwendungen für den Bau von Landarbeiterwohnungen im
+Jahr der Herstellung voll oder in diesem und in den beiden folgenden
+Jahren mit je einem Drittel absetzen. Diese Vergünstigung gilt für
 Landarbeiterwohnungen, die in der Zeit vom 1. Januar 1951 bis 31.
 Dezember 1977 hergestellt werden.
 
@@ -67,9 +67,9 @@ ausgeschlossen.
 
 ## § 2 Personenkreis
 
-(1) Als Land- und Forstwirte gelten alle natürlichen Personen, die
-Einkünfte aus Land- und Forstwirtschaft im Sinne des § 13 des
-Einkommensteuergesetzes beziehen. Es gehören dazu auch
+(1) Als Land- und Forstwirte gelten alle natürlichen Personen,
+die Einkünfte aus Land- und Forstwirtschaft im Sinne des §
+13 des Einkommensteuergesetzes beziehen. Es gehören dazu auch
 Personengesellschaften und Körperschaften, die Einkünfte aus Land- und
 Forstwirtschaft haben.
 
@@ -82,11 +82,11 @@ verpachten.
 ## § 3 Begriff der Landarbeiterwohnungen
 
 (1) Landarbeiterwohnungen sind Wohnungen oder Wohnräume in
-landwirtschaftlichen oder forstwirtschaftlichen Betriebsgebäuden für
-die Landarbeiter, die im land- und forstwirtschaftlichen Betrieb des
-Steuerpflichtigen oder in einem Betrieb eines Land- und Forstwirts
-tätig sind, an den der Steuerpflichtige einen land- und
-forstwirtschaftlichen Betrieb, Teilbetrieb oder Betriebsteil
+landwirtschaftlichen oder forstwirtschaftlichen Betriebsgebäuden
+für die Landarbeiter, die im land- und forstwirtschaftlichen
+Betrieb des Steuerpflichtigen oder in einem Betrieb eines Land-
+und Forstwirts tätig sind, an den der Steuerpflichtige einen land-
+und forstwirtschaftlichen Betrieb, Teilbetrieb oder Betriebsteil
 verpachtet hat. Wohnungen oder Wohnräume für Angestellte eines Land-
 und Forstwirts (z.B. Gutsinspektor, Rechnungsführer und Förster)
 gelten nicht als Landarbeiterwohnungen.
@@ -103,11 +103,10 @@ dienen bestimmt sind.
 (3) Die Wohnfläche der Landarbeiterwohnungen darf die in den §§ 39 und
 82 des Zweiten Wohnungsbaugesetzes in der Fassung der Bekanntmachung
 vom 1. September 1965 (Bundesgesetzbl. I S. 1617), zuletzt geändert
-durch
-das Wohnungsbauänderungsgesetz 1973 vom 21. Dezember 1973
-(Bundesgesetzblatt I S. 1970),              angegebenen Grenzen nicht
-übersteigen. Für die Berechnung der Wohnfläche gelten die Vorschriften
-der Zweiten Berechnungsverordnung in der jeweils geltenden Fassung.
+durch *das Wohnungsbauänderungsgesetz 1973 vom 21. Dezember 1973
+(Bundesgesetzblatt I S. 1970),* angegebenen Grenzen nicht übersteigen.
+Für die Berechnung der Wohnfläche gelten die Vorschriften der Zweiten
+Berechnungsverordnung in der jeweils geltenden Fassung.
 
 
 ## § 4 Selbstaufbringungsbetrag
@@ -120,20 +119,20 @@ Aufwendungen (Selbstaufbringungsbetrag) in Betracht.
 
 Die vorstehende Fassung der Verordnung ist erstmals für
 Wirtschaftsjahre anzuwenden, die nach dem 31. Dezember 1973 beginnen;
-die Vorschrift des § 1a ist erstmals für den Veranlagungszeitraum 1975
-anzuwenden.
+die Vorschrift des § 1a ist erstmals für den Veranlagungszeitraum
+1975 anzuwenden.
 
 
 ## § 6 Berlin-Klausel
 
-Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
-4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit Artikel 10
-des Steueränderungsgesetzes 1966 vom 23. Dezember 1966
+Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes
+vom 4. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit
+Artikel 10 des Steueränderungsgesetzes 1966 vom 23. Dezember 1966
 (Bundesgesetzbl. I S. 702) auch im Land Berlin.
 
 
 ## § 7 Inkrafttreten
 
-Die vorstehende Fassung dieser Verordnung tritt am 14. August 1974 in
-Kraft.
+Die vorstehende Fassung dieser Verordnung tritt am 14. August 1974
+in Kraft.
 

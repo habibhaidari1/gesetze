@@ -1,7 +1,5 @@
 ---
-Title: Verordnung zur Festlegung der Höhe der Sonderentlastung von Kommunen mit besonderen
-  Herausforderungen aus dem Zuzug aus anderen EU-Mitgliedstaaten über die Bundesbeteiligung
-  an den Kosten der Unterkunft und Heizung für das Jahr 2014
+Title: Verordnung zur Festlegung der Höhe der Sonderentlastung von Kommunen mit besonderen Herausforderungen aus dem Zuzug aus anderen EU-Mitgliedstaaten über die Bundesbeteiligung an den Kosten der Unterkunft und Heizung für das Jahr 2014
 jurabk: SBBFestV 2014
 layout: default
 origslug: sbbfestv_2014
@@ -29,12 +27,12 @@ Soziales:
 
 ## § 1 Festlegung der Werte nach § 46 Absatz 7a Satz 2 des Zweiten Buches Sozialgesetzbuch im Jahr 2014
 
-Nach § 46 Absatz 7a Satz 1 des Zweiten Buches Sozialgesetzbuch erhöhen
-sich im Jahr 2014 die in § 46 Absatz 5 Satz 3 des Zweiten Buches
-Sozialgesetzbuch genannten Prozentsätze um 0,18 Prozentpunkte.
-Ausgehend von diesem Wert werden auf Grund der in den Ländern von Juni
-2013 bis Juni 2014 unterschiedlichen Entwicklung der Zahl der
-Leistungsberechtigten aus Bulgarien und Rumänien folgende
+Nach § 46 Absatz 7a Satz 1 des Zweiten Buches Sozialgesetzbuch
+erhöhen sich im Jahr 2014 die in § 46 Absatz 5 Satz 3 des Zweiten
+Buches Sozialgesetzbuch genannten Prozentsätze um 0,18 Prozentpunkte.
+Ausgehend von diesem Wert werden auf Grund der in den Ländern von
+Juni 2013 bis Juni 2014 unterschiedlichen Entwicklung der Zahl
+der Leistungsberechtigten aus Bulgarien und Rumänien folgende
 länderspezifische Werte festgelegt:
 0,38 Prozentpunkte für Baden-Württemberg,
 0,37 Prozentpunkte für den Freistaat Bayern,
@@ -45,8 +43,8 @@ länderspezifische Werte festgelegt:
 0,12 Prozentpunkte für Niedersachsen,
 0,16 Prozentpunkte für Nordrhein-Westfalen,
 0,32 Prozentpunkte für Rheinland-Pfalz.
-Für die übrigen Länder bleiben die in § 46 Absatz 5 Satz 3 des Zweiten
-Buches Sozialgesetzbuch genannten Prozentsätze im Jahr 2014
+Für die übrigen Länder bleiben die in § 46 Absatz 5 Satz 3 des
+Zweiten Buches Sozialgesetzbuch genannten Prozentsätze im Jahr 2014
 unverändert.
 
 

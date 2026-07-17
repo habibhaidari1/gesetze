@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Überwachung der Entrichtung der Beitragsanteile und der
-  Künstlersozialabgabe nach dem Künstlersozialversicherungsgesetz
+Title: Verordnung über die Überwachung der Entrichtung der Beitragsanteile und der Künstlersozialabgabe nach dem Künstlersozialversicherungsgesetz
 jurabk: KSVGBeitrÜV
 layout: default
 origslug: ksvgbeitr_v
@@ -30,7 +29,6 @@ Arbeit und Sozialordnung:
 ## Erster Abschnitt - Allgemeine Vorschriften
 
 
-
 ### § 1 Grundsätze
 
 (1) Die Künstlersozialkasse überwacht die Entrichtung der
@@ -50,12 +48,8 @@ Verhältnisse, die maßgebend sind für die Feststellung
 1.  der Versicherungspflicht, der Höhe der Beiträge und der
     Beitragszuschüsse (Beitragsgrundlagen),
 
-
 2.  der Abgabepflicht und der Höhe der Künstlersozialabgabe
     (Abgabegrundlagen).
-
-
-
 
 (2) Die Prüfung kann sich auf Stichproben beschränken.
 
@@ -69,24 +63,20 @@ der Prüfung der Versicherten den Zeitpunkt nach Maßgabe des Absatzes
 
 (2) Die Prüfung der Versicherten soll erfolgen, wenn
 
-1.  der Künstlersozialkasse Anhaltspunkte dafür vorliegen, daß die Angaben
-    der Versicherten über ihre künstlerische oder publizistische
+1.  der Künstlersozialkasse Anhaltspunkte dafür vorliegen, daß die
+    Angaben der Versicherten über ihre künstlerische oder publizistische
     Tätigkeit, ihr voraussichtliches Arbeitseinkommen oder andere für die
     Durchführung der Versicherung maßgebliche Tatsachen unzutreffend sein
     können, oder
-
 
 2.  der Künstlersozialkasse Anhaltspunkte dafür vorliegen, daß Versicherte
     über ihre künstlerische oder publizistische Tätigkeit oder andere für
     die Durchführung der Versicherung maßgebliche Tatsachen Angaben nicht
     gemacht haben, oder
 
-
-3.  Versicherte in drei aufeinanderfolgenden Jahren eine Meldung nach § 12
-    Abs. 1 Satz 1 oder Abs. 3 des Künstlersozialversicherungsgesetzes
+3.  Versicherte in drei aufeinanderfolgenden Jahren eine Meldung nach §
+    12 Abs. 1 Satz 1 oder Abs. 3 des Künstlersozialversicherungsgesetzes
     nicht abgegeben haben.
-
-
 
 Im übrigen erfolgen Prüfungen von Versicherten im Einzelfall nach dem
 Ermessen der Künstlersozialkasse.
@@ -106,7 +96,6 @@ Abgabegrundlagen mitzuwirken.
 ## Zweiter Abschnitt - Pflichten der Versicherten
 
 
-
 ### § 5 Vorlage von Unterlagen
 
 (1) Die Versicherten haben bei der Prüfung ihre
@@ -121,13 +110,10 @@ sie auf Verlangen außerdem alle vorhandenen Unterlagen über
 1.  ihre Vertragsbeziehungen, die zur Inanspruchnahme ihrer künstlerischen
     oder publizistischen Werke oder Leistungen geführt haben,
 
-
 2.  die dafür erhaltenen Entgelte sowie über die Aufwendungen, die nach
     den Vorschriften des Einkommensteuerrechts als Betriebsausgaben durch
     ihre künstlerischen und publizistischen Tätigkeiten veranlaßt worden
     sind,
-
-
 
 vorzulegen, soweit die Vorlage für die Feststellung der
 Versicherungspflicht, der Höhe der Beiträge oder Beitragszuschüsse
@@ -142,49 +128,38 @@ Auskunft zu geben, insbesondere über
 1.  ihren Namen, ihre früheren Namen, ihre Künstlernamen und Pseudonyme,
     ihr Geburtsdatum und ihren Wohnsitz oder gewöhnlichen Aufenthalt,
 
-
 2.  die Orte, an denen sie ihre künstlerischen und publizistischen
     Tätigkeiten ausüben und ausgeübt haben,
-
 
 3.  die Art und Weise, in der sie ihre künstlerischen und publizistischen
     Tätigkeiten ausüben und ausgeübt haben,
 
-
 4.  die Vertragsbeziehungen, die zur Inanspruchnahme ihrer Werke oder
     Leistungen geführt haben,
-
 
 5.  die Namen und die Anschriften derjenigen, die ihre Werke oder
     Leistungen in Anspruch genommen haben,
 
-
-6.  ihre Einnahmen aus künstlerischen und publizistischen Tätigkeiten
-    sowie die Aufwendungen, die nach den Vorschriften des
+6.  ihre Einnahmen aus künstlerischen und publizistischen
+    Tätigkeiten sowie die Aufwendungen, die nach den Vorschriften des
     Einkommensteuerrechts als Betriebsausgaben durch die Tätigkeiten
     veranlaßt worden sind,
-
 
 7.  sonstige Zuwendungen, die sie von zur Abgabe Verpflichteten erhalten
     haben,
 
-
 8.  die für eine Versicherungsfreiheit oder eine Befreiung von der
     Versicherungspflicht maßgebenden Tatsachen,
-
 
 9.  die Annahmen, die der Meldung nach § 12 Abs. 1 Satz 1 des
     Künstlersozialversicherungsgesetzes zugrunde gelegen haben,
 
-
-
-soweit dies für die Feststellung der Versicherungspflicht, der Höhe
-der Beiträge oder Beitragszuschüsse oder für die Erhebung der
+soweit dies für die Feststellung der Versicherungspflicht, der
+Höhe der Beiträge oder Beitragszuschüsse oder für die Erhebung der
 Künstlersozialabgabe erforderlich ist.
 
 
 ## Dritter Abschnitt - Pflichten der zur Abgabe Verpflichteten
-
 
 
 ### § 7 Vorlage von Unterlagen
@@ -194,10 +169,8 @@ Die zur Abgabe Verpflichteten haben bei der Prüfung auf Verlangen
 1.  die Aufzeichnungen nach § 28 des Künstlersozialversicherungsgesetzes
     sowie alle ihnen zugrundeliegenden Unterlagen,
 
-
 2.  die Verträge, die über künstlerische oder publizistische Werke oder
     Leistungen abgeschlossen worden sind,
-
 
 3.  alle zum Rechnungswesen gehörenden Geschäftsbücher und sonstigen
     Unterlagen, die Eintragungen enthalten oder enthalten können über
@@ -205,22 +178,14 @@ Die zur Abgabe Verpflichteten haben bei der Prüfung auf Verlangen
     a)  die Vertragsbeziehungen, die zur Inanspruchnahme von künstlerischen
         oder publizistischen Werken oder Leistungen geführt haben,
 
-
     b)  die dafür gezahlten Entgelte,
-
-
-
-
 
 4.  die Meldungen nach § 28a Absatz 1 Satz 1 Nummer 1 und 2, Abs. 2 und 9
     des Vierten Buches Sozialgesetzbuch sowie die Entgeltunterlagen nach §
     8 der Beitragsverfahrensverordnung,
 
-
 5.  Auszüge aus den Prüfberichten der Finanzbehörden und die
     Prüfungsmitteilungen der Versicherungsträger,
-
-
 
 vorzulegen, soweit die Vorlage für die Feststellung der Abgabepflicht,
 der Höhe der Künstlersozialabgabe, der Versicherungspflicht oder der
@@ -236,22 +201,16 @@ Beitragsgrundlagen Auskunft zu geben, insbesondere über
     Personen, an die sie Entgelte für künstlerische oder publizistische
     Werke oder Leistungen gezahlt haben,
 
-
 2.  die Art und Weise, in der Künstler oder Publizisten für sie tätig
     geworden sind,
-
 
 3.  die Vertragsbeziehungen, die zur Inanspruchnahme der Werke oder
     Leistungen geführt haben,
 
-
 4.  die gezahlten Entgelte,
-
 
 5.  die Meldungen, Berechnungen und Zahlungen nach § 27 des
     Künstlersozialversicherungsgesetzes,
-
-
 
 soweit dies für die Feststellung der Abgabepflicht, der Höhe der
 Künstlersozialabgabe, der Versicherungspflicht oder der Höhe der
@@ -259,7 +218,6 @@ Beiträge oder Beitragszuschüsse erforderlich ist.
 
 
 ## Vierter Abschnitt - Außenprüfungen
-
 
 
 ### § 9 Ankündigung
@@ -272,9 +230,9 @@ Gründe für eine vorzeitige Prüfung nach § 3 Abs. 3 mitzuteilen. Die
 Ankündigung soll möglichst einen Monat, sie muß jedoch spätestens 14
 Tage vor der Prüfung erfolgen.
 
-(2) Mit Einwilligung der zu Prüfenden kann die Prüfung vor Ablauf der
-Frist von 14 Tagen durchgeführt werden. Die Prüfung kann ohne
-Ankündigung oder ohne Einhaltung einer angekündigten Frist
+(2) Mit Einwilligung der zu Prüfenden kann die Prüfung vor Ablauf
+der Frist von 14 Tagen durchgeführt werden. Die Prüfung kann
+ohne Ankündigung oder ohne Einhaltung einer angekündigten Frist
 durchgeführt werden, wenn sonst der Prüfungszweck gefährdet würde.
 
 (3) Auf Antrag der zu Prüfenden soll die Prüfung auf einen anderen als
@@ -290,8 +248,8 @@ Die Prüfer der Künstlersozialkasse haben sich auszuweisen.
 
 ### § 11 Durchführung
 
-(1) Die Außenprüfung der zur Abgabe Verpflichteten erfolgt während der
-Betriebszeit in ihren Geschäftsräumen. Sie haben einen zur
+(1) Die Außenprüfung der zur Abgabe Verpflichteten erfolgt während
+der Betriebszeit in ihren Geschäftsräumen. Sie haben einen zur
 Durchführung der Außenprüfung geeigneten Raum oder Arbeitsplatz sowie
 die erforderlichen Hilfsmittel kostenlos zur Verfügung zu stellen.
 Sind die Geschäftsräume der zur Abgabe Verpflichteten gleichzeitig
@@ -301,8 +259,8 @@ im beiderseitigen Einvernehmen; anderenfalls erfolgt die Prüfung in
 den Geschäftsräumen der Künstlersozialkasse.
 
 (2) Eine Außenprüfung der Versicherten erfolgt nur im beiderseitigen
-Einvernehmen. Die Prüfung erfolgt auf Vorschlag der Versicherten in
-ihren Arbeits-, Betriebs- oder Geschäftsräumen oder in ihren
+Einvernehmen. Die Prüfung erfolgt auf Vorschlag der Versicherten
+in ihren Arbeits-, Betriebs- oder Geschäftsräumen oder in ihren
 Wohnungen, ansonsten an einem anderen, von der Künstlersozialkasse
 vorgeschlagenen Ort.
 
@@ -311,8 +269,8 @@ Unterlagen der Geprüften auf Kosten der Künstlersozialkasse
 vervielfältigt werden.
 
 (4) Für die Prüfbarkeit von Aufzeichnungsverfahren, die mit Hilfe
-automatischer Einrichtungen durchgeführt werden, gelten die in § 10
-Absatz 1, 3 und 4 der Beitragsverfahrensverordnung genannten
+automatischer Einrichtungen durchgeführt werden, gelten die in §
+10 Absatz 1, 3 und 4 der Beitragsverfahrensverordnung genannten
 Anforderungen entsprechend. Den Prüfern sind die gewünschten
 Unterlagen unverzüglich auszudrucken, oder es sind lesbare
 Reproduktionen herzustellen, soweit ihnen die Nutzung der bei den zu
@@ -320,7 +278,6 @@ Prüfenden installierten Technik nicht zuzumuten ist.
 
 
 ## Fünfter Abschnitt - Gemeinsame Vorschriften
-
 
 
 ### § 12 Prüfbericht
@@ -355,7 +312,6 @@ entstehen, werden nicht erstattet.
 
 
 ## Sechster Abschnitt - Schlußvorschrift
-
 
 
 ### § 15 Inkrafttreten

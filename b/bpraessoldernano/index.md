@@ -22,8 +22,8 @@ Geändert durch
 ## Eingangsformel
 
 Auf Grund des § 4 Abs. 2 des Soldatengesetzes in der Fassung der
-Bekanntmachung vom 22. April 1969 (Bundesgesetzbl. I S. 313) ordne ich
-an:
+Bekanntmachung vom 22. April 1969 (Bundesgesetzbl. I S. 313) ordne
+ich an:
 
 
 ## Art 1
@@ -32,8 +32,8 @@ an:
 Offiziere vor, die der Besoldungsordnung B angehören.
 
 (2) Im übrigen übertrage ich die Ausübung meiner Befugnisse dem
-Bundesminister der Verteidigung. Die Ausübung dieser Befugnisse kann
-auf andere Stellen übertragen werden. § 29 Abs. 5 des
+Bundesminister der Verteidigung. Die Ausübung dieser Befugnisse
+kann auf andere Stellen übertragen werden. § 29 Abs. 5 des
 Wehrpflichtgesetzes bleibt unberührt.
 
 (3) Für besondere Fälle behalte ich mir die Ernennung und Entlassung

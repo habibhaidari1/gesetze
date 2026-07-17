@@ -1,7 +1,5 @@
 ---
-Title: Gesetz zur Änderung des Gesetzes über Rechte an eingetragenen Schiffen und
-  Schiffsbauwerken, der Schiffsregisterordnung und des Gesetzes über die Zwangsversteigerung
-  und die Zwangsverwaltung
+Title: Gesetz zur Änderung des Gesetzes über Rechte an eingetragenen Schiffen und Schiffsbauwerken, der Schiffsregisterordnung und des Gesetzes über die Zwangsversteigerung und die Zwangsverwaltung
 jurabk: SchRGÄndG
 layout: default
 origslug: schrg_ndg
@@ -16,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 1968, 1295
-
 
 
 ## Art 1

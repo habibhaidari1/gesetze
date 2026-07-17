@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl I: 1979, 419
 
 
-
 ## Eingangsformel
 
 Auf Grund des § 133 Abs. 2 Satz 1 der Gewerbeordnung in der Fassung
@@ -32,11 +31,11 @@ mit Zustimmung des Bundesrates:
 
 ## Art 2
 
-Die Berufsbezeichnung "Baumeister" sowie Berufsbezeichnungen, die das
-Wort "Baumeister" enthalten und auf eine Tätigkeit im Baugewerbe
-(Hoch- oder Tiefbau) hinweisen, darf weiterhin nur führen, wer am 31.
-Dezember 1980 zur Führung dieser Bezeichnung berechtigt ist oder wer
-noch nach diesem Zeitpunkt die Baumeisterprüfung bestanden hat
+Die Berufsbezeichnung "Baumeister" sowie Berufsbezeichnungen, die
+das Wort "Baumeister" enthalten und auf eine Tätigkeit im Baugewerbe
+(Hoch- oder Tiefbau) hinweisen, darf weiterhin nur führen, wer am
+31\. Dezember 1980 zur Führung dieser Bezeichnung berechtigt ist oder
+wer noch nach diesem Zeitpunkt die Baumeisterprüfung bestanden hat
 (Artikel 5 Abs. 2).
 
 

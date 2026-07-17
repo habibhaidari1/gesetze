@@ -1,6 +1,5 @@
 ---
-Title: Verordnung zur Bildung von Altersrückstellungen durch die Sozialversicherung
-  für Landwirtschaft, Forsten und Gartenbau
+Title: Verordnung zur Bildung von Altersrückstellungen durch die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau
 jurabk: SVLFG-AltRückV
 layout: default
 origslug: svlfg-altr_ckv
@@ -23,9 +22,9 @@ Geändert durch
 ## Eingangsformel
 
 Auf Grund des § 7 Absatz 2 des Gesetzes zur Errichtung der
-Sozialversicherung für Landwirtschaft, Forsten und Gartenbau, der
-durch Artikel 446 der Verordnung vom 31. August 2015 (BGBl. I S. 1474)
-geändert worden ist, in Verbindung mit § 1 der SVLFGG-
+Sozialversicherung für Landwirtschaft, Forsten und Gartenbau,
+der durch Artikel 446 der Verordnung vom 31. August 2015 (BGBl.
+I S. 1474) geändert worden ist, in Verbindung mit § 1 der SVLFGG-
 Übertragungsverordnung vom 6. Oktober 2016 (BGBl. I S. 2216),
 verordnet das Bundesamt für Soziale Sicherung im Einvernehmen mit dem
 Bundesministerium für Ernährung und Landwirtschaft:
@@ -37,9 +36,9 @@ Bundesministerium für Ernährung und Landwirtschaft:
 bildet Altersrückstellungen für den in § 7 Absatz 1 Satz 1 und 4 des
 Gesetzes zur Errichtung der Sozialversicherung für Landwirtschaft,
 Forsten und Gartenbau genannten Personenkreis. Dies gilt nach § 7
-Absatz 1 Satz 2 des Gesetzes zur Errichtung der Sozialversicherung für
-Landwirtschaft, Forsten und Gartenbau nicht für die Beschäftigten, für
-die bereits Altersrückstellungen auf der Grundlage der §§ 172c und
+Absatz 1 Satz 2 des Gesetzes zur Errichtung der Sozialversicherung
+für Landwirtschaft, Forsten und Gartenbau nicht für die Beschäftigten,
+für die bereits Altersrückstellungen auf der Grundlage der §§ 172c und
 219a des Siebten Buches Sozialgesetzbuch gebildet werden.
 
 (2) Altersrückstellungen nach Absatz 1 Satz 1 sind in Höhe des
@@ -56,19 +55,13 @@ Dabei sind nachfolgende Annahmen zugrunde zu legen:
 
 1.  Rechnungszins in Höhe von 4,25 Prozent,
 
-
 2.  jährlicher Anstieg der ruhegehaltsfähigen Dienstbezüge und Vergütungen
     um 1,5 Prozent,
 
-
 3.  jährlicher Anstieg der Versorgungsbezüge und Renten um 1 Prozent,
-
 
 4.  Zuschlagssatz für Beihilfeaufwendungen in Höhe von 12 Prozent der
     Ausgaben für Versorgungsbezüge.
-
-
-
 
 (4) Die Renten und Anwartschaften zum 31. Dezember 2039 werden für
 diejenigen Versorgungsanwärterinnen und Versorgungsanwärter sowie
@@ -83,74 +76,32 @@ Die Regelaltersgrenze wird nach dem Geburtsjahrgang festgelegt.
 gleichbleibender Höhe zum Aufbau des benötigten Deckungskapitals
 führt.
 
-(2) Der Zuweisungssatz nach Absatz 1 wird ermittelt, indem das bis zum
-31\. Dezember 2039 zu bildende Deckungskapital mit einem Quotienten
-multipliziert wird, der im Dividend den nach § 1 Absatz 3 Satz 2
-Nummer 1 zu verwendenden Rechnungszins enthält und dessen Divisor dem
-Aufzinsungsfaktor, verringert um 1, entspricht. Bereits gebildetes
-Deckungskapital wird berücksichtigt, indem das gebildete
+(2) Der Zuweisungssatz nach Absatz 1 wird ermittelt, indem das
+bis zum 31. Dezember 2039 zu bildende Deckungskapital mit einem
+Quotienten multipliziert wird, der im Dividend den nach § 1 Absatz
+3 Satz 2 Nummer 1 zu verwendenden Rechnungszins enthält und dessen
+Divisor dem Aufzinsungsfaktor, verringert um 1, entspricht. Bereits
+gebildetes Deckungskapital wird berücksichtigt, indem das gebildete
 Deckungskapital mit dem Rechnungszins nach § 1 Absatz 3 Satz 2 Nummer
 1 über die Restlaufzeit aufgezinst und von dem insgesamt zu bildenden
 Deckungskapital subtrahiert wird. Es ergibt sich für die Berechnung
 des Zuweisungssatzes nach Absatz 1 somit folgende Formel:
 
-*    *        ![bgbl1_2017_j3765-1_0010.jpg](bgbl1_2017_j3765-1_0010.jpg)
-
-
-
-*    *   mit
-
-    *   z
-
-    *   =
-
-    *   jährlich dem Deckungskapital in gleicher Höhe zuzuführender
-        Zuweisungssatz,
-
-
-*    *
-    *   D
-
-    *   =
-
-    *   bis zum 31. Dezember 2039 zu bildendes Deckungskapital für
-        Versorgungszusagen nach § 7 Absatz 1 des Gesetzes zur Errichtung der
-        Sozialversicherung für Landwirtschaft, Forsten und Gartenbau,
-
-
-*    *
-    *   B
-
-    *   =
-
-    *   bereits gebildetes Deckungskapital,
-
-
-*    *
-    *   t
-
-    *   =
-
-    *   Restlaufzeit bis zum 31. Dezember 2039 in Jahren,
-
-
-*    *
-    *   i
-
-    *   =
-
-    *   Rechnungszins nach § 1 Absatz 3 Satz 2 Nummer 1.
-
-
+| mit | z | = | jährlich dem Deckungskapital in gleicher Höhe zuzuführender Zuweisungssatz, |
+| --- | --- | --- | --- |
+|  | D | = | bis zum 31. Dezember 2039 zu bildendes Deckungskapital für Versorgungszusagen nach § 7 Absatz 1 des Gesetzes zur Errichtung der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau, |
+|  | B | = | bereits gebildetes Deckungskapital, |
+|  | t | = | Restlaufzeit bis zum 31. Dezember 2039 in Jahren, |
+|  | i | = | Rechnungszins nach § 1 Absatz 3 Satz 2 Nummer 1. |
 
 Solange der jährliche Zuweisungssatz kleiner oder gleich Null ist,
 sind keine Zuführungen zum Deckungskapital zu leisten.
 
 (3) Die Höhe des Deckungskapitals, der Altersrückstellungen und des
 erforderlichen jährlichen Zuweisungssatzes sind bei wesentlichen
-Änderungen der Berechnungsgrundlagen, spätestens aber alle fünf Jahre
-zu überprüfen. Der Zuweisungssatz ist anzupassen, sobald sich auf
-Grund einer Überprüfung die Höhe des zum 31. Dezember 2039
+Änderungen der Berechnungsgrundlagen, spätestens aber alle fünf
+Jahre zu überprüfen. Der Zuweisungssatz ist anzupassen, sobald
+sich auf Grund einer Überprüfung die Höhe des zum 31. Dezember 2039
 aufzubauenden Deckungskapitals verändert.
 
 

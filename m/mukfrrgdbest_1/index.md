@@ -1,6 +1,5 @@
 ---
-Title: Erste Durchführungsbestimmung zum Gesetz über den Mutter- und Kinderschutz
-  und die Rechte der Frau - Ausstellung von Ausweisen für Schwangere und Wöchnerinnen
+Title: Erste Durchführungsbestimmung zum Gesetz über den Mutter- und Kinderschutz und die Rechte der Frau - Ausstellung von Ausweisen für Schwangere und Wöchnerinnen
 jurabk: MuKFrRGDBest 1
 layout: default
 origslug: mukfrrgdbest_1
@@ -16,6 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   GBl DDR: 1953, 390
 
+Fundstelle
+:   GBl DDR: 1953, Nr 31, 390
 
 
 ## Eingangsformel
@@ -42,18 +43,12 @@ a)  Benutzung der Abteile für Mutter und Kind und der
     Schwerbeschädigtenabteile in den Verkehrsmitteln der Reichsbahn sowie
     von reservierten Plätzen in anderen öffentlichen Verkehrsmitteln,
 
-
 b)  bevorzugte Abfertigung in allen öffentlichen Dienststellen,
-
 
 c)  bevorzugte Abfertigung beim Einkauf von Lebensmitteln und
     Bedarfsartikeln,
 
-
 d)  bevorzugte Gewährung ärztlicher Hilfe.
-
-
-
 
 
 ## § 3

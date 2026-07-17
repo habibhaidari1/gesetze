@@ -22,8 +22,8 @@ Geändert durch
 ## Eingangsformel
 
 Auf Grund des § 51a Absatz 2 der Handwerksordnung, der zuletzt durch
-Artikel 3 Nummer 3 Buchstabe a des Gesetzes vom 11. Juli 2011 (BGBl. I
-S. 1341) geändert worden ist, verordnet das Bundesministerium für
+Artikel 3 Nummer 3 Buchstabe a des Gesetzes vom 11. Juli 2011 (BGBl.
+I S. 1341) geändert worden ist, verordnet das Bundesministerium für
 Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium
 für Bildung und Forschung:
 
@@ -47,60 +47,50 @@ Handlungskompetenz zu berücksichtigen:
     Auftragsziele festlegen, Leistungen kalkulieren und Angebote
     erstellen, Verträge schließen,
 
-
 2.  Aufgaben der technischen, kaufmännischen und personalwirtschaftlichen
     Betriebsführung wahrnehmen, insbesondere unter Berücksichtigung der
     Betriebsorganisation, der betrieblichen Aus- und Weiterbildung, des
-    Qualitätsmanagements, des Arbeitsschutzrechtes, des Datenschutzes, des
-    Umweltschutzes, der Grundsätze des ökologischen Bauens sowie von
+    Qualitätsmanagements, des Arbeitsschutzrechtes, des Datenschutzes,
+    des Umweltschutzes, der Grundsätze des ökologischen Bauens sowie von
     Informations- und Kommunikationssystemen,
 
-
 3.  Auftragsabwicklungsprozesse planen, organisieren und überwachen,
-
 
 4.  Aufträge ausführen, insbesondere unter Berücksichtigung von
     Verarbeitungs- und Anwendungstechniken sowie Instandhaltungsverfahren
     und Sanierungsmöglichkeiten, berufsbezogenen rechtlichen Vorschriften
-    und technischen Normen sowie der allgemein anerkannten Regeln der
-    Technik, Personal, Material, Maschinen und Geräten sowie von
+    und technischen Normen sowie der allgemein anerkannten Regeln
+    der Technik, Personal, Material, Maschinen und Geräten sowie von
     Möglichkeiten zum Einsatz von Auszubildenden,
-
 
 5.  Pläne, Skizzen und Zeichnungen, auch unter Einsatz von
     rechnergestützten Systemen, anfertigen,
 
-
 6.  Baustoffeigenschaften und -beschaffenheit von Holz, Mauerwerk und
     Beton sowie deren Wechselwirkung beurteilen,
-
 
 7.  Konzepte für Betriebsstätten einschließlich Betriebs- und
     Lagerausstattung sowie für logistische Prozesse entwickeln und
     umsetzen,
 
-
-8.  objektbezogene Vorgaben, insbesondere bauphysikalische, baubiologische
-    und bauchemische Nachweise über die Tragfähigkeit und
-    Schadstoffbelastung des Baugrundes sowie der vorliegenden
+8.  objektbezogene Vorgaben, insbesondere bauphysikalische,
+    baubiologische und bauchemische Nachweise über die Tragfähigkeit
+    und Schadstoffbelastung des Baugrundes sowie der vorliegenden
     Wasserverhältnisse, als Grundlagen in die Planung von Sanierungen
     einbeziehen,
 
-
-9.  Schäden an Bauteilen durch holzzerstörende Organismen und Mängel, die
-    zu einem Schädlingsbefall führen können, feststellen, aufnehmen sowie
-    Ursachen ermitteln; Sanierungskonzepte nach statischen und
+9.  Schäden an Bauteilen durch holzzerstörende Organismen und Mängel,
+    die zu einem Schädlingsbefall führen können, feststellen, aufnehmen
+    sowie Ursachen ermitteln; Sanierungskonzepte nach statischen und
     bauphysikalischen Vorgaben, auch unter Berücksichtigung alternativer
     Verfahren, erarbeiten, Sanierungsmaßnahmen durchführen und
     dokumentieren,
-
 
 10. Feuchteschäden und Abdichtungsmängel an erdberührten Bauteilen
     feststellen, aufnehmen sowie Ursachen ermitteln und bewerten;
     Sanierungskonzepte nach statischen und bauphysikalischen Vorgaben,
     auch unter Berücksichtigung alternativer Verfahren, erarbeiten,
     Sanierungsmaßnahmen durchführen und dokumentieren,
-
 
 11. Messverfahren und Probenentnahmen durchführen, Ergebnisse
     labortechnischer Untersuchungen und eigener Messungen zur Bestimmung
@@ -109,50 +99,39 @@ Handlungskompetenz zu berücksichtigen:
     feuchte- und salzbelastete Bauteile auswählen, durchführen und
     kontrollieren,
 
-
 12. den vorbeugenden und bekämpfenden chemischen Holzschutz gegen
     holzzerstörende Organismen planen, durchführen, kontrollieren und
     dokumentieren,
-
 
 13. Holzsanierungen und -ergänzungen zur Wiederherstellung nichttragender
     Holzbauteile sowie Maßnahmen zur Kontrolle eines Neubefalls planen,
     durchführen und dokumentieren,
 
-
-14. Innen- und Außenabdichtungen an erdberührten Bauteilen aus Beton mit
-    zement- und kunstharzgebundenen Oberflächendichtungsmitteln zur
+14. Innen- und Außenabdichtungen an erdberührten Bauteilen aus Beton
+    mit zement- und kunstharzgebundenen Oberflächendichtungsmitteln zur
     Sicherung, Erhaltung oder Wiederherstellung der vorgesehenen Nutzung
     unter Berücksichtigung von objektbezogenen Vorgaben auswählen,
     durchführen und kontrollieren,
-
 
 15. Riss-Sanierungen an erdberührten Bauteilen für Innen- und
     Außenabdichtungen unter Beachtung statischer Vorgaben planen und
     durchführen,
 
-
 16. die oberflächennahe Wiederherstellung von Stahlüberdeckungen an
-    erdberührten Stahlbetonteilen zur Herstellung von Untergründen für
-    nachträgliche Bauwerksabdichtungen durch Aufbringen zement-und
+    erdberührten Stahlbetonteilen zur Herstellung von Untergründen
+    für nachträgliche Bauwerksabdichtungen durch Aufbringen zement-und
     kunstharzgebundener Oberflächendichtungsmittel bei statisch nicht
     relevanter Schädigung, unter Berücksichtigung von objektbezogenen
     Vorgaben auswählen, durchführen, kontrollieren und dokumentieren,
 
-
 17. Trocknungsmaßnahmen von Wasserschäden planen und durchführen,
-
 
 18. Qualitätskontrollen durchführen, Fehler, Mängel und Störungen
     analysieren und beseitigen, Ergebnisse bewerten und dokumentieren,
 
-
 19. durchgeführte Leistungen dokumentieren, Aufmass- und
     Abrechnungserstellung sowie eine Nachkalkulation durchführen und die
     Auftragsabwicklung auswerten.
-
-
-
 
 
 ## § 3 Ziel und Gliederung des Teils I
@@ -181,11 +160,11 @@ Umsetzungskonzept den auftragsbezogenen Anforderungen entspricht.
 (2) Das Meisterprüfungsprojekt besteht aus Planungs-, Durchführungs-,
 Kontroll- und Dokumentationsarbeiten.
 
-(3) Als Meisterprüfungsprojekt ist eine Sanierung für ein im Mauerwerk
-eingebundenes Holzbauteil im Wohnungsbau, das von holzzerstörenden
-Organismen befallen ist, oder eine nachträgliche Abdichtung
-erdberührter Bauteile von innen und außen oder eine oberflächennahe
-Wiederherstellung der Stahlüberdeckung an erdberührten
+(3) Als Meisterprüfungsprojekt ist eine Sanierung für ein im
+Mauerwerk eingebundenes Holzbauteil im Wohnungsbau, das von
+holzzerstörenden Organismen befallen ist, oder eine nachträgliche
+Abdichtung erdberührter Bauteile von innen und außen oder eine
+oberflächennahe Wiederherstellung der Stahlüberdeckung an erdberührten
 Stahlbetonteilen zur Herstellung eines Untergrundes für eine
 nachträgliche Bauwerksabdichtung bei statisch nicht relevanter
 Schädigung zu planen, durchzuführen und zu dokumentieren.
@@ -204,16 +183,11 @@ einem Fachgespräch nachzuweisen, dass er befähigt ist,
 1.  die fachlichen Zusammenhänge aufzuzeigen, die dem
     Meisterprüfungsprojekt zugrunde liegen,
 
-
 2.  den Ablauf des Meisterprüfungsprojekts zu begründen,
-
 
 3.  mit dem Meisterprüfungsprojekt verbundene berufsbezogene Probleme
     sowie deren Lösungen darzustellen und dabei neue Entwicklungen zu
     berücksichtigen.
-
-
-
 
 
 ## § 6 Prüfungsdauer und Bestehen des Teils I
@@ -235,10 +209,10 @@ weniger als 30 Punkten bewertet worden sein darf.
 ## § 7 Ziel, Gliederung und Inhalt des Teils II
 
 (1) Durch die Prüfung in Teil II hat der Prüfling in den in
-Absatz 2 Satz 2 Nummer 1 bis 3              genannten Handlungsfeldern
-seine berufliche Handlungskompetenz dadurch nachzuweisen, dass er
-besondere fachtheoretische Kenntnisse im Holz- und Bautenschutzgewerbe
-zur Lösung komplexer beruflicher Aufgabenstellungen anwendet.
+*Absatz 2 Satz 2 Nummer 1 bis 3* genannten Handlungsfeldern seine
+berufliche Handlungskompetenz dadurch nachzuweisen, dass er besondere
+fachtheoretische Kenntnisse im Holz- und Bautenschutzgewerbe zur
+Lösung komplexer beruflicher Aufgabenstellungen anwendet.
 
 (2) In jedem der nachfolgend aufgeführten Handlungsfelder ist
 mindestens eine komplexe fallbezogene Aufgabe zu bearbeiten. Die
@@ -250,166 +224,128 @@ auch handlungsfeldübergreifend verknüpft werden können.
 
     Der Prüfling hat nachzuweisen, dass er in der Lage ist,
     verarbeitungs-, anwendungs- und instandhaltungstechnische Aufgaben
-    unter Berücksichtigung wirtschaftlicher und ökologischer Aspekte in
-    einem Holz- und Bautenschutz-Betrieb zu bearbeiten. Dabei soll er
-    berufsbezogene Sachverhalte analysieren und bewerten. Bei der
+    unter Berücksichtigung wirtschaftlicher und ökologischer Aspekte
+    in einem Holz- und Bautenschutz-Betrieb zu bearbeiten. Dabei soll
+    er berufsbezogene Sachverhalte analysieren und bewerten. Bei der
     jeweiligen Aufgabenstellung sollen mehrere der unter den Buchstaben a
     bis h aufgeführten Qualifikationen verknüpft werden:
 
     a)  Informationen für Abwicklungsprozesse von Kundenaufträgen beurteilen,
-        insbesondere unter Berücksichtigung physikalischer, chemischer und
-        biologischer Faktoren sowie der berufsbezogenen rechtlichen
+        insbesondere unter Berücksichtigung physikalischer, chemischer
+        und biologischer Faktoren sowie der berufsbezogenen rechtlichen
         Vorschriften, technischen Normen und Regelwerke,
-
 
     b)  Anwendungen von Messtechniken und -verfahren sowie Analysetechniken
         und -verfahren bewerten,
-
 
     c)  Verfahren, Maßnahmen und Methoden im Holz- und Bautenschutz sowie
         Alternativen unter Beachtung der Anwendungsgrenzen auswählen und die
         Auswahl begründen,
 
-
     d)  Sanierungskonzepte unter Berücksichtigung statischer und
         bauphysikalischer Vorgaben für den Holz- und Bautenschutz erarbeiten,
         Sanierungsalternativen prüfen, auswählen und Auswahl begründen,
 
-
-    e)  Eigenschaften, Verhalten und Verträglichkeiten zu verarbeitender Werk-
-        und Hilfsstoffe unterscheiden und unter Berücksichtigung der
+    e)  Eigenschaften, Verhalten und Verträglichkeiten zu verarbeitender
+        Werk- und Hilfsstoffe unterscheiden und unter Berücksichtigung der
         Anwendungsgrenzen Verwendungszwecken zuordnen,
-
 
     f)  den anwendungsbezogenen Einsatz von Werkzeugen, Maschinen und Geräten
         beurteilen und begründen,
 
-
     g)  Berechnungen und Zeichnungen sowie graphische Detaildarstellungen für
         geplante Maßnahmen erarbeiten, vorgegebene Dokumente bewerten,
 
-
     h)  auftragsbezogene Wartungs- und Nutzungshinweise erarbeiten und
         bewerten;
-
-
-
-
 
 2.  Auftragsabwicklung
 
     Der Prüfling hat nachzuweisen, dass er in der Lage ist,
     Auftragsabwicklungsprozesse in einem Holz- und Bautenschutz-Betrieb,
     auch unter Anwendung branchenüblicher Software, erfolgs-, kunden- und
-    qualitätsorientiert zu planen, deren Durchführung zu kontrollieren und
-    sie abzuschließen. Bei der jeweiligen Aufgabenstellung sollen mehrere
-    der unter den Buchstaben a bis j aufgeführten Qualifikationen
+    qualitätsorientiert zu planen, deren Durchführung zu kontrollieren
+    und sie abzuschließen. Bei der jeweiligen Aufgabenstellung sollen
+    mehrere der unter den Buchstaben a bis j aufgeführten Qualifikationen
     verknüpft werden:
 
     a)  Möglichkeiten der Auftragsbeschaffung darstellen,
 
-
     b)  Angebotsunterlagen erstellen und Angebote auswerten, eine
         Angebotskalkulation durchführen,
 
-
-    c)  Methoden und Verfahren der Arbeitsplanung und -organisation unter
-        Berücksichtigung der Verarbeitungs-, Anwendungs- und
+    c)  Methoden und Verfahren der Arbeitsplanung und -organisation
+        unter Berücksichtigung der Verarbeitungs-, Anwendungs- und
         Instandhaltungstechnik, des Einsatzes von Personal, Material und
         Geräten bewerten, dabei qualitätssichernde Aspekte darstellen sowie
         Schnittstellen zwischen Arbeitsbereichen berücksichtigen,
 
-
     d)  berufsbezogene rechtliche Vorschriften und technische Normen sowie
-        allgemein anerkannte Regeln der Technik anwenden, insbesondere die
-        Haftung bei der Herstellung, der Instandhaltung und bei
+        allgemein anerkannte Regeln der Technik anwenden, insbesondere
+        die Haftung bei der Herstellung, der Instandhaltung und bei
         Dienstleistungen beurteilen,
-
 
     e)  technische Arbeitspläne, Skizzen und Zeichnungen erarbeiten sowie
         vorgegebene Arbeitspläne, Skizzen und Zeichnungen bewerten und
         korrigieren; dabei auch Informations- und Kommunikationssysteme
         anwenden,
 
-
     f)  den auftragsbezogenen Einsatz von Material, Werkstoffen, Maschinen und
         Geräten bestimmen und begründen,
 
-
     g)  Unteraufträge vergeben und kontrollieren,
-
 
     h)  Mängel- und Schadensaufnahmen an Bauteilen dokumentieren,
         Instandsetzungsverfahren auswählen, die Auswahl begründen und die
         erforderliche Abwicklung festlegen,
 
-
     i)  eine Rechnung auf der Grundlage aufgemessener Leistungen erstellen,
-
 
     j)  eine Nachkalkulation durchführen;
 
-
-
-
-
 3.  Betriebsführung und Betriebsorganisation
 
-    Der Prüfling hat nachzuweisen, dass er in der Lage ist, Aufgaben der
-    Betriebsführung und Betriebsorganisation in einem Holz- und
-    Bautenschutz-Betrieb unter Berücksichtigung der rechtlichen
-    Vorschriften, auch unter Anwendung von Informations- und
-    Kommunikationssystemen, wahrzunehmen. Bei der jeweiligen
+    Der Prüfling hat nachzuweisen, dass er in der Lage ist,
+    Aufgaben der Betriebsführung und Betriebsorganisation in einem
+    Holz- und Bautenschutz-Betrieb unter Berücksichtigung der
+    rechtlichen Vorschriften, auch unter Anwendung von Informations-
+    und Kommunikationssystemen, wahrzunehmen. Bei der jeweiligen
     Aufgabenstellung sollen mehrere der unter den Buchstaben a bis i
     aufgeführten Qualifikationen verknüpft werden:
 
     a)  betriebliche Kosten ermitteln, dabei betriebswirtschaftliche
         Zusammenhänge berücksichtigen,
 
-
     b)  betriebliche Kostenstrukturen überprüfen; betriebliche Kennzahlen
         ermitteln,
 
-
-    c)  Marketingmaßnahmen zur Kundenpflege und zur Gewinnung neuer Kunden vor
-        dem Hintergrund technischer und wirtschaftlicher Entwicklungen
+    c)  Marketingmaßnahmen zur Kundenpflege und zur Gewinnung neuer Kunden
+        vor dem Hintergrund technischer und wirtschaftlicher Entwicklungen
         erarbeiten,
-
 
     d)  die Bedeutung des betrieblichen Qualitätsmanagements für den
         Unternehmenserfolg darstellen, Maßnahmen des Qualitätsmanagements
         festlegen, Dokumentationen bewerten,
 
-
     e)  Aufgaben der Personalverwaltung wahrnehmen; die Notwendigkeit der
         Personalentwicklung, insbesondere in Abhängigkeit von Auftragslage und
         Auftragsabwicklung, begründen,
-
 
     f)  betriebsspezifische Maßnahmen zur Einhaltung der
         arbeitsschutzrechtlichen Bestimmungen und des Umweltschutzes
         entwickeln; Gefahrenpotenziale beurteilen und Maßnahmen zur
         Gefahrenvermeidung und -beseitigung festlegen,
 
-
     g)  die gewerkspezifische Betriebs- und Lagerausstattung sowie logistische
         Prozesse planen und darstellen,
-
 
     h)  den Nutzen des Einsatzes von Informations- und Kommunikationssystemen,
         insbesondere für Kundenbindung und -pflege sowie die Warenwirtschaft,
         begründen,
 
-
     i)  den Nutzen zwischenbetrieblicher Kooperationen auftragsbezogen prüfen,
         Konsequenzen, insbesondere für die betriebsinterne Organisation sowie
         das betriebliche Personalwesen, aufzeigen und bewerten.
-
-
-
-
-
-
 
 
 ## § 8 Prüfungsdauer und Bestehen des Teils II
@@ -419,8 +355,8 @@ jedem Handlungsfeld drei Stunden. Eine Prüfungsdauer von sechs Stunden
 täglich darf nicht überschritten werden.
 
 (2) Die Gesamtbewertung des Teils II wird aus dem arithmetischen
-Mittel der Einzelbewertungen der Handlungsfelder nach § 7 Absatz 2
-gebildet.
+Mittel der Einzelbewertungen der Handlungsfelder nach § 7 Absatz
+2 gebildet.
 
 (3) Wurden in höchstens zwei der in § 7 Absatz 2 genannten
 Handlungsfelder jeweils mindestens 30 und weniger als 50 Punkte
@@ -434,12 +370,8 @@ Prüfung des Teils II ist nicht bestanden, wenn
 
 1.  ein Handlungsfeld mit weniger als 30 Punkten bewertet worden ist oder
 
-
 2.  nach durchgeführter Ergänzungsprüfung zwei Handlungsfelder jeweils mit
     weniger als 50 Punkten bewertet worden sind.
-
-
-
 
 
 ## § 9 Allgemeine Prüfungs- und Verfahrensregelungen, weitere Regelungen zur Meisterprüfung

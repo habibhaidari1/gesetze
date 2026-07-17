@@ -18,24 +18,23 @@ Fundstelle
 Geändert durch
 :   Art. 25 G v. 27.7.2021 I 3146
 
-Stand: Ersetzt V 8053-4-14 v. 12.12.1996 I 1914 (GSGV 11)
-[^F792454_01_BJNR003900016]:     Diese Verordnung dient der Umsetzung der Richtlinie 2014/34/EU des
-    Europäischen Parlaments und des Rates vom 26. Februar 2014 zur
-    Harmonisierung der Rechtsvorschriften der Mitgliedstaaten für Geräte
-    und Schutzsysteme zur bestimmungsgemäßen Verwendung in
-    explosionsgefährdeten Bereichen (ABl. L 96 vom 29.3.2014, S. 309).
+Änderung durch
+:   Art. 4 V v. 2.3.2026 I Nr. 54 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Stand
+:   Ersetzt V 8053-4-14 v. 12.12.1996 I 1914 (GSGV 11)
 
 
 ## Eingangsformel
 
 Auf Grund des § 8 Absatz 1 des Produktsicherheitsgesetzes vom 8.
 November 2011 (BGBl. I S. 2178, 2179; 2012 I S. 131), der durch
-Artikel 435 Nummer 1 der Verordnung vom 31. August 2015 (BGBl. I S.
-1474) geändert worden ist, verordnet das Bundesministerium für Arbeit
-und Soziales im Einvernehmen mit dem Bundesministerium für Wirtschaft
-und Energie, dem Bundesministerium für Ernährung und Landwirtschaft,
-dem Bundesministerium für Umwelt, Naturschutz, Bau und
-Reaktorsicherheit, dem Bundesministerium für Verkehr und digitale
+Artikel 435 Nummer 1 der Verordnung vom 31. August 2015 (BGBl. I
+S. 1474) geändert worden ist, verordnet das Bundesministerium für
+Arbeit und Soziales im Einvernehmen mit dem Bundesministerium für
+Wirtschaft und Energie, dem Bundesministerium für Ernährung und
+Landwirtschaft, dem Bundesministerium für Umwelt, Naturschutz, Bau
+und Reaktorsicherheit, dem Bundesministerium für Verkehr und digitale
 Infrastruktur und dem Bundesministerium der Verteidigung nach Anhörung
 des Ausschusses für Produktsicherheit:
 
@@ -45,43 +44,35 @@ des Ausschusses für Produktsicherheit:
 
 ### § 1 Anwendungsbereich
 
-(1) Diese Verordnung ist auf die folgenden neuen Produkte, die auf dem
-Markt bereitgestellt, ausgestellt oder erstmals verwendet werden,
+(1) Diese Verordnung ist auf die folgenden neuen Produkte, die auf
+dem Markt bereitgestellt, ausgestellt oder erstmals verwendet werden,
 anzuwenden:
 
 1.  Geräte und Schutzsysteme, die zur Verwendung in explosionsgefährdeten
     Bereichen bestimmt sind,
 
-
 2.  Sicherheits-, Kontroll- und Regelvorrichtungen, die zur Verwendung
-    außerhalb von explosionsgefährdeten Bereichen bestimmt sind, jedoch im
-    Hinblick auf Explosionsrisiken für den sicheren Betrieb von Geräten
-    und Schutzsystemen erforderlich sind oder zum sicheren Betrieb
+    außerhalb von explosionsgefährdeten Bereichen bestimmt sind, jedoch
+    im Hinblick auf Explosionsrisiken für den sicheren Betrieb von
+    Geräten und Schutzsystemen erforderlich sind oder zum sicheren Betrieb
     beitragen, und
-
 
 3.  Komponenten, die zum Einbau in die in Nummer 1 genannten Geräte und
     Schutzsysteme bestimmt sind.
-
-
-
 
 (2) Diese Verordnung ist nicht anzuwenden auf
 
 1.  medizinische Geräte, die zur Verwendung in medizinischen Bereichen
     bestimmt sind,
 
-
 2.  Geräte und Schutzsysteme, bei denen die Explosionsgefahr
     ausschließlich durch die Anwesenheit von Sprengstoffen oder chemisch
     instabilen Substanzen hervorgerufen wird,
 
-
 3.  Geräte, die zur Verwendung in häuslicher und nichtkommerzieller
-    Umgebung bestimmt sind, in der eine explosionsfähige Atmosphäre nur
-    selten und lediglich infolge eines unbeabsichtigten
+    Umgebung bestimmt sind, in der eine explosionsfähige Atmosphäre
+    nur selten und lediglich infolge eines unbeabsichtigten
     Brennstoffaustritts gebildet werden kann,
-
 
 4.  persönliche Schutzausrüstungen im Sinne der Verordnung über die
     Bereitstellung von persönlichen Schutzausrüstungen auf dem Markt in
@@ -89,26 +80,20 @@ anzuwenden:
     die zuletzt durch Artikel 16 des Gesetzes vom 8. November 2011 (BGBl.
     I S. 2178) geändert worden ist,
 
-
 5.  Seeschiffe und bewegliche Off-Shore-Anlagen sowie die Ausrüstungen an
     Bord dieser Schiffe und auf diesen Anlagen,
 
-
-6.  Beförderungsmittel, das heißt Fahrzeuge und dazugehörige Anhänger, die
-    ausschließlich für die Beförderung von Personen in der Luft, auf der
-    Straße, auf der Schiene oder auf dem Wasser bestimmt sind, und
-    Beförderungsmittel, soweit sie für den Transport von Gütern in der
-    Luft, auf öffentlichen Straßen und Schienen oder auf dem Wasser
+6.  Beförderungsmittel, das heißt Fahrzeuge und dazugehörige Anhänger,
+    die ausschließlich für die Beförderung von Personen in der Luft,
+    auf der Straße, auf der Schiene oder auf dem Wasser bestimmt sind,
+    und Beförderungsmittel, soweit sie für den Transport von Gütern in
+    der Luft, auf öffentlichen Straßen und Schienen oder auf dem Wasser
     konzipiert sind; Fahrzeuge, die in explosionsgefährdeten Bereichen
     eingesetzt werden sollen, sind nicht vom Geltungsbereich dieser
     Verordnung ausgenommen,
 
-
 7.  Produkte im Sinne des Artikels 346 Absatz 1 Buchstabe b des Vertrages
     über die Arbeitsweise der Europäischen Union.
-
-
-
 
 
 ### § 2 Begriffsbestimmungen
@@ -120,33 +105,21 @@ Im Sinne dieser Verordnung ist oder sind
     a)  eines Geräts entsprechend der vom Hersteller angegebenen Gerätegruppe
         und Gerätekategorie oder
 
-
     b)  eines Schutzsystems, einer Vorrichtung oder einer Komponente unter
         Beachtung aller Herstellerangaben, die für den sicheren Betrieb
         notwendig sind,
 
-
-
-
-
 2.  EU-Konformitätserklärung: eine Erklärung gemäß Artikel 14 der
-    Richtlinie 2014/34/EU des Europäischen Parlaments und des Rates vom
-    26\. Februar 2014 zur Harmonisierung der Rechtsvorschriften der
-    Mitgliedstaaten für Geräte und Schutzsysteme zur bestimmungsgemäßen
-    Verwendung in explosionsgefährdeten Bereichen (ABl. L 96 vom
-    29\.3.2014, S. 309),
-
+    Richtlinie 2014/34/EU in der Fassung vom 9. Oktober 2024,
 
 3.  explosionsfähige Atmosphäre: ein Gemisch aus Luft und brennbaren
     Gasen, Dämpfen, Nebeln oder Stäuben unter atmosphärischen Bedingungen,
     in dem sich der Verbrennungsvorgang nach erfolgter Entzündung auf das
     gesamte unverbrannte Gemisch überträgt,
 
-
 4.  explosionsgefährdeter Bereich: ein Bereich, in dem die Atmosphäre
     aufgrund der örtlichen und betrieblichen Verhältnisse explosionsfähig
     werden kann,
-
 
 5.  Geräte: Maschinen, Betriebsmittel, stationäre oder ortsbewegliche
     Vorrichtungen, Steuerungs- und Ausrüstungsteile sowie Warn- und
@@ -156,70 +129,54 @@ Im Sinne dieser Verordnung ist oder sind
         Messung, Regelung oder Umwandlung von Energien oder zur Verarbeitung
         von Werkstoffen bestimmt sind und
 
-
     b)  eigene potentielle Zündquellen aufweisen und dadurch eine Explosion
         verursachen können,
-
-
-
-
 
 6.  Gerätegruppe I: Geräte, die zur Verwendung in Untertagebetrieben von
     Bergwerken bestimmt sind oder zur Verwendung in deren Übertageanlagen,
     die durch Grubengas oder brennbare Stäube gefährdet werden können,
     bestimmt sind; die Gerätegruppe I umfasst die in Anhang I der
-    Richtlinie 2014/34/EU genannten Gerätekategorien M1 und M2,
+    Richtlinie 2014/34/EU in der Fassung vom 9. Oktober 2024 genannten
+    Gerätekategorien M1 und M2,
 
-
-7.  Gerätegruppe II: Geräte, die zur Verwendung in allen Bereichen, die
-    durch eine explosionsfähige Atmosphäre gefährdet werden können,
+7.  Gerätegruppe II: Geräte, die zur Verwendung in allen Bereichen,
+    die durch eine explosionsfähige Atmosphäre gefährdet werden können,
     bestimmt sind, mit Ausnahme der in Nummer 6 genannten Bereiche; die
-    Gerätegruppe II umfasst die in Anhang I der Richtlinie 2014/34/EU
-    genannten Gerätekategorien 1, 2 und 3,
-
+    Gerätegruppe II umfasst die in Anhang I der Richtlinie 2014/34/EU in
+    der Fassung vom 9. Oktober 2024 genannten Gerätekategorien 1, 2 und 3,
 
 8.  Gerätekategorie: eine Kategorie, in die Geräte innerhalb jeder
     Gerätegruppe entsprechend dem erforderlichen Maß an Sicherheit, das
     gewährleistet werden muss, eingestuft werden,
 
-
 9.  harmonisierte Norm: eine harmonisierte Norm im Sinne des Artikels 2
-    Nummer 1 Buchstabe c der Verordnung (EU) Nr. 1025/2012 des
-    Europäischen Parlaments und des Rates vom 25. Oktober 2012 zur
-    europäischen Normung, zur Änderung der Richtlinien 89/686/EWG und
-    93/15/EWG des Rates sowie der Richtlinien 94/9/EG, 94/25/EG, 95/16/EG,
-    97/23/EG, 98/34/EG, 2004/22/EG, 2007/23/EG, 2009/23/EG und 2009/105/EG
-    des Europäischen Parlaments und des Rates und zur Aufhebung des
-    Beschlusses 87/95/EWG des Rates und des Beschlusses Nr. 1673/2006/EG
-    des Europäischen Parlaments und des Rates (ABl. L 316 vom 14.11.2012,
-    S. 12),
-
+    Nummer 1 Buchstabe c der Verordnung (EU) Nr. 1025/2012,
 
 10. Hersteller: jede natürliche oder juristische Person, die ein Produkt
     herstellt oder entwickeln oder herstellen lässt und dieses Produkt
     unter ihrem eigenen Namen oder ihrer eigenen Handelsmarke vermarktet
     oder für ihre eigenen Zwecke verwendet,
 
-
 11. Komponenten: solche Bauteile, die für den sicheren Betrieb von Geräten
     und Schutzsystemen erforderlich sind, ohne jedoch selbst eine autonome
     Funktion zu erfüllen,
 
-
 12. Konformitätsbescheinigung: eine Bescheinigung nach Artikel 13 Absatz 3
-    Satz 2 der Richtlinie 2014/34/EU,
-
+    Satz 2 der Richtlinie 2014/34/EU in der Fassung vom 9. Oktober 2024,
 
 13. Schutzsysteme: alle Vorrichtungen mit Ausnahme der Komponenten von
     Geräten, die anlaufende Explosionen umgehend stoppen oder den von
     einer Explosion betroffenen Bereich begrenzen sollen und als Systeme
     mit autonomer Funktion gesondert auf dem Markt bereitgestellt werden,
 
-
 14. technische Spezifikation: ein Dokument, in dem die technischen
-    Anforderungen vorgeschrieben sind, denen ein Produkt genügen muss.
+    Anforderungen vorgeschrieben sind, denen ein Produkt genügen muss,
 
+15. krisenrelevante Waren: krisenrelevante Waren im Sinne von Artikel 3
+    Nummer 6 der Verordnung (EU) 2024/2747,
 
+16. Notfallmodus für den Binnenmarkt: der Notfallmodus für den Binnenmarkt
+    im Sinne von Artikel 3 Nummer 3 der Verordnung (EU) 2024/2747.
 
 Im Übrigen sind die Begriffsbestimmungen des § 2 des
 Produktsicherheitsgesetzes vom 27. Juli 2021 (BGBl. I S. 3146)
@@ -240,8 +197,9 @@ Bei Produkten, die harmonisierten Normen oder Teilen dieser Normen
 entsprechen, deren Fundstellen im Amtsblatt der Europäischen Union
 veröffentlicht worden sind, wird vermutet, dass sie die wesentlichen
 Gesundheits- und Sicherheitsanforderungen nach Anhang II der
-Richtlinie 2014/34/EU erfüllen, soweit diese von den betreffenden
-Normen oder von Teilen dieser Normen abgedeckt sind.
+Richtlinie 2014/34/EU in der Fassung vom 9. Oktober 2024 erfüllen,
+soweit diese von den betreffenden Normen oder von Teilen dieser Normen
+abgedeckt sind.
 
 
 ## Abschnitt 2 - Pflichten der Wirtschaftsakteure
@@ -252,34 +210,32 @@ Normen oder von Teilen dieser Normen abgedeckt sind.
 (1) Der Hersteller stellt sicher, wenn er Produkte in den Verkehr
 bringt oder für eigene Zwecke erstmals verwendet, dass sie nach den
 wesentlichen Gesundheits- und Sicherheitsanforderungen nach Anhang II
-der Richtlinie 2014/34/EU entworfen und hergestellt wurden.
+der Richtlinie 2014/34/EU in der Fassung vom 9. Oktober 2024 entworfen
+und hergestellt wurden.
 
 (2) Der Hersteller darf Produkte nur in den Verkehr bringen oder für
-eigene Zwecke erstmals verwenden, wenn die technischen Unterlagen nach
-Anhang III Nummer 3 Buchstabe c, nach Anhang IV Nummer 3.1 Buchstabe
-e, nach Anhang VII Nummer 3.1 Buchstabe e, nach Anhang VIII Nummer 2
-oder nach Anhang IX Nummer 2 der Richtlinie 2014/34/EU erstellt wurden
-und das Konformitätsbewertungsverfahren nach § 13 Absatz 1 Satz 1
-durchgeführt wurde. Wurde mit dem Konformitätsbewertungsverfahren
-nachgewiesen, dass das Produkt die anwendbaren wesentlichen
-Gesundheits- und Sicherheitsanforderungen nach Anhang II der
-Richtlinie 2014/34/EU erfüllt, so stellt der Hersteller für das
-Produkt,
+eigene Zwecke erstmals verwenden, wenn die technischen Unterlagen
+nach Anhang III Nummer 3 Buchstabe c, nach Anhang IV Nummer 3.1
+Buchstabe e, nach Anhang VII Nummer 3.1 Buchstabe e, nach Anhang
+VIII Nummer 2 oder nach Anhang IX Nummer 2 der Richtlinie 2014/34/
+EU in der Fassung vom 9. Oktober 2024 erstellt wurden und das
+Konformitätsbewertungsverfahren nach § 13 Absatz 1 Satz 1 durchgeführt
+wurde. Wurde mit dem Konformitätsbewertungsverfahren nachgewiesen,
+dass das Produkt die anwendbaren wesentlichen Gesundheits- und
+Sicherheitsanforderungen nach Anhang II der Richtlinie 2014/34/EU in
+der Fassung vom 9. Oktober 2024 erfüllt, so stellt der Hersteller für
+das Produkt,
 
-1.  sofern es sich um ein Gerät, ein Schutzsystem oder eine Sicherheits-,
-    Kontroll- oder Regelvorrichtung handelt, eine EU-Konformitätserklärung
-    aus und bringt die CE-Kennzeichnung gemäß § 7 des
-    Produktsicherheitsgesetzes an,
-
+1.  sofern es sich um ein Gerät, ein Schutzsystem oder eine
+    Sicherheits-, Kontroll- oder Regelvorrichtung handelt, eine EU-
+    Konformitätserklärung aus und bringt die CE-Kennzeichnung gemäß § 7
+    des Produktsicherheitsgesetzes an,
 
 2.  sofern es sich um eine Komponente handelt, eine schriftliche
     Konformitätsbescheinigung aus.
 
-
-
-
-(3) Der Hersteller hat sicherzustellen, dass jedem Produkt eine Kopie
-der EU-Konformitätserklärung oder der Konformitätsbescheinigung
+(3) Der Hersteller hat sicherzustellen, dass jedem Produkt eine
+Kopie der EU-Konformitätserklärung oder der Konformitätsbescheinigung
 beigefügt ist. Wenn eine große Anzahl identischer Produkte an
 denselben Nutzer geliefert wird, kann der betreffenden Charge oder
 Lieferung eine einzige Kopie beiliegen.
@@ -289,29 +245,29 @@ Konformitätserklärung oder die Konformitätsbescheinigung ab dem
 Inverkehrbringen des Produkts für die Dauer von zehn Jahren für die
 Marktüberwachungsbehörden bereithalten.
 
-(5) Der Hersteller hat durch geeignete Verfahren dafür zu sorgen, dass
-bei Serienfertigung stets Konformität mit den Anforderungen dieser
-Verordnung sichergestellt ist. Änderungen am Entwurf oder an den
-Merkmalen eines Produkts sowie Änderungen der harmonisierten Normen
-oder anderer technischer Spezifikationen, auf die in der EU-
+(5) Der Hersteller hat durch geeignete Verfahren dafür zu sorgen,
+dass bei Serienfertigung stets Konformität mit den Anforderungen
+dieser Verordnung sichergestellt ist. Änderungen am Entwurf oder
+an den Merkmalen eines Produkts sowie Änderungen der harmonisierten
+Normen oder anderer technischer Spezifikationen, auf die in der EU-
 Konformitätserklärung oder der Konformitätsbescheinigung verwiesen
 wird, sind angemessen zu berücksichtigen.
 
-(6) Wenn es der Hersteller angesichts der Risiken, die mit einem von
-ihm auf dem Markt bereitgestellten Produkt verbunden sind, als
-angemessen betrachtet, nimmt er zum Schutz der Gesundheit und
+(6) Wenn es der Hersteller angesichts der Risiken, die mit einem
+von ihm auf dem Markt bereitgestellten Produkt verbunden sind,
+als angemessen betrachtet, nimmt er zum Schutz der Gesundheit und
 Sicherheit der Endnutzer Stichproben, prüft diese und untersucht
 Beschwerden. Erforderlichenfalls führt er ein Verzeichnis der
 Beschwerden, der nichtkonformen Produkte und der Rückrufe. Der
 Hersteller hält die Händler über die Überwachungstätigkeiten auf dem
 Laufenden.
 
-(7) Hat der Hersteller Grund zu der Annahme, dass ein von ihm in den
-Verkehr gebrachtes Produkt nicht den Anforderungen dieser Verordnung
-entspricht, ergreift er unverzüglich die erforderlichen
-Korrekturmaßnahmen, um die Konformität herzustellen, oder er nimmt das
-Produkt zurück oder ruft es zurück. Sind mit dem Produkt Risiken
-verbunden, so informiert der Hersteller unverzüglich die
+(7) Hat der Hersteller Grund zu der Annahme, dass ein von ihm
+in den Verkehr gebrachtes Produkt nicht den Anforderungen dieser
+Verordnung entspricht, ergreift er unverzüglich die erforderlichen
+Korrekturmaßnahmen, um die Konformität herzustellen, oder er
+nimmt das Produkt zurück oder ruft es zurück. Sind mit dem Produkt
+Risiken verbunden, so informiert der Hersteller unverzüglich die
 Marktüberwachungsbehörden der Mitgliedstaaten der Europäischen Union,
 in denen er das Produkt auf dem Markt bereitgestellt hat, insbesondere
 über die Risiken, die Art der Nichtkonformität und die ergriffenen
@@ -323,8 +279,8 @@ Korrekturmaßnahmen.
 (1) Der Hersteller hat dafür zu sorgen, dass seine Produkte beim
 Inverkehrbringen oder bei der erstmaligen Verwendung für eigene Zwecke
 eine Typen-, Chargen- oder Seriennummer oder eine andere Information
-zu ihrer Identifikation tragen. Falls dies aufgrund der Größe oder der
-Art des Produkts nicht möglich ist, hat der Hersteller dafür zu
+zu ihrer Identifikation tragen. Falls dies aufgrund der Größe oder
+der Art des Produkts nicht möglich ist, hat der Hersteller dafür zu
 sorgen, dass die zur Identifikation erforderliche Information auf der
 Verpackung oder in den dem Produkt beigefügten Unterlagen angegeben
 wird.
@@ -340,8 +296,8 @@ Handelsnamen oder seine eingetragene Handelsmarke sowie seine
 Postanschrift auf dem Produkt anzubringen. Falls dies aufgrund der
 Größe oder der Art des Produkts nicht möglich ist, müssen diese
 Kontaktdaten auf der Verpackung oder in den dem Produkt beigefügten
-Unterlagen angegeben werden. Bei der Postanschrift handelt es sich um
-die Anschrift einer zentralen Stelle, unter der der Hersteller
+Unterlagen angegeben werden. Bei der Postanschrift handelt es sich
+um die Anschrift einer zentralen Stelle, unter der der Hersteller
 kontaktiert werden kann. Die Kontaktdaten sind in einer Sprache zu
 verfassen, die von den Endnutzern und den Marktüberwachungsbehörden
 leicht verstanden werden kann.
@@ -353,15 +309,15 @@ Sprache beigefügt sind.
 (5) Alle Kennzeichnungen, die Betriebsanleitung und die
 Sicherheitsinformationen müssen klar, verständlich und deutlich sein.
 
-(6) Der Hersteller ist verpflichtet, der Marktüberwachungsbehörde auf
-deren Verlangen alle Informationen und Unterlagen auf Papier oder
-elektronisch zur Verfügung zu stellen, die für den Nachweis der
-Konformität des Produkts mit den Anforderungen dieser Verordnung
-erforderlich sind. Die Informationen und Unterlagen müssen in
-deutscher Sprache oder in einer Sprache, die von der
+(6) Der Hersteller ist verpflichtet, der Marktüberwachungsbehörde
+auf deren Verlangen alle Informationen und Unterlagen auf Papier
+oder elektronisch zur Verfügung zu stellen, die für den Nachweis
+der Konformität des Produkts mit den Anforderungen dieser
+Verordnung erforderlich sind. Die Informationen und Unterlagen
+müssen in deutscher Sprache oder in einer Sprache, die von der
 Marktüberwachungsbehörde leicht verstanden werden kann, abgefasst
-sein. Der Hersteller arbeitet mit der Marktüberwachungsbehörde auf
-deren Verlangen bei allen Maßnahmen zur Abwendung von Risiken
+sein. Der Hersteller arbeitet mit der Marktüberwachungsbehörde
+auf deren Verlangen bei allen Maßnahmen zur Abwendung von Risiken
 zusammen, die mit den Produkten verbunden sind, die er in den Verkehr
 gebracht hat.
 
@@ -380,18 +336,13 @@ mindestens die folgenden Pflichten übertragen:
     Konformitätserklärung oder die Konformitätsbescheinigung nach § 5
     Absatz 4 bereitzuhalten,
 
-
 2.  die Pflicht, der Marktüberwachungsbehörde die Informationen und
     Unterlagen nach § 6 Absatz 6 zur Verfügung zu stellen, und
 
-
-3.  die Pflicht, mit der Marktüberwachungsbehörde auf deren Verlangen bei
-    allen Maßnahmen zur Abwendung der Risiken, die mit den Produkten
+3.  die Pflicht, mit der Marktüberwachungsbehörde auf deren Verlangen
+    bei allen Maßnahmen zur Abwendung der Risiken, die mit den Produkten
     verbunden sind, die zum Aufgabenbereich des Bevollmächtigten gehören,
     zusammenzuarbeiten.
-
-
-
 
 (4) Die Pflicht gemäß § 5 Absatz 1 und die Pflicht zur Erstellung der
 technischen Unterlagen gemäß § 5 Absatz 2 darf der Hersteller nicht
@@ -409,57 +360,51 @@ er sichergestellt hat, dass
 1.  der Hersteller das Konformitätsbewertungsverfahren nach § 13 Absatz 1
     Satz 1 durchgeführt hat,
 
-
 2.  der Hersteller die technischen Unterlagen erstellt hat,
-
 
 3.  das Produkt, sofern es sich um ein Gerät, ein Schutzsystem oder eine
     Sicherheits-, Kontroll- oder Regelvorrichtung handelt, mit der CE-
     Kennzeichnung versehen ist und ihm die EU-Konformitätserklärung
     beigefügt ist,
 
-
 4.  dem Produkt, sofern es sich um eine Komponente handelt, die
     Konformitätsbescheinigung beigefügt ist,
-
 
 5.  dem Produkt die Betriebsanleitung und die Sicherheitsinformationen in
     deutscher Sprache beigefügt sind und
 
-
 6.  der Hersteller die Pflichten nach § 6 Absatz 1 bis 3 erfüllt hat.
 
-
-
-
-(3) Hat der Einführer Grund zu der Annahme, dass ein Produkt nicht den
-wesentlichen Gesundheits- und Sicherheitsanforderungen nach Anhang II
-der Richtlinie 2014/34/EU entspricht, darf er dieses Produkt erst in
-den Verkehr bringen, wenn die Konformität hergestellt ist. Ist mit dem
-Produkt ein Risiko verbunden, so informiert der Einführer den
-Hersteller und die Marktüberwachungsbehörden darüber.
+(3) Hat der Einführer Grund zu der Annahme, dass ein Produkt nicht
+den wesentlichen Gesundheits- und Sicherheitsanforderungen nach
+Anhang II der Richtlinie 2014/34/EU in der Fassung vom 9. Oktober
+2024 entspricht, darf er dieses Produkt erst in den Verkehr bringen,
+wenn die Konformität hergestellt ist. Ist mit dem Produkt ein
+Risiko verbunden, so informiert der Einführer den Hersteller und die
+Marktüberwachungsbehörden darüber.
 
 (4) Solange sich ein Produkt im Verantwortungsbereich des Einführers
-befindet, ist dieser dafür verantwortlich, dass die Lagerungs- und
-Transportbedingungen die Übereinstimmung des Produkts mit den
-wesentlichen Gesundheits- und Sicherheitsanforderungen nach Anhang II
-der Richtlinie 2014/34/EU nicht beeinträchtigen.
+befindet, ist dieser dafür verantwortlich, dass die Lagerungs-
+und Transportbedingungen die Übereinstimmung des Produkts mit den
+wesentlichen Gesundheits- und Sicherheitsanforderungen nach Anhang
+II der Richtlinie 2014/34/EU in der Fassung vom 9. Oktober 2024 nicht
+beeinträchtigen.
 
-(5) Wenn es der Einführer angesichts der Risiken, die mit einem von
-ihm auf dem Markt bereitgestellten Produkt verbunden sind, als
-angemessen betrachtet, nimmt er zum Schutz der Gesundheit und
+(5) Wenn es der Einführer angesichts der Risiken, die mit einem
+von ihm auf dem Markt bereitgestellten Produkt verbunden sind,
+als angemessen betrachtet, nimmt er zum Schutz der Gesundheit und
 Sicherheit der Endnutzer Stichproben, prüft diese und untersucht
 Beschwerden. Erforderlichenfalls führt er ein Verzeichnis der
 Beschwerden, der nichtkonformen Produkte und der Rückrufe. Der
-Einführer hält die Händler über diese Überwachungstätigkeiten auf dem
-Laufenden.
+Einführer hält die Händler über diese Überwachungstätigkeiten auf
+dem Laufenden.
 
-(6) Hat der Einführer Grund zu der Annahme, dass ein von ihm in den
-Verkehr gebrachtes Produkt nicht den Anforderungen dieser Verordnung
-entspricht, ergreift er unverzüglich die erforderlichen
-Korrekturmaßnahmen, um die Konformität herzustellen, oder er nimmt das
-Produkt zurück oder ruft es zurück. Sind mit dem Produkt Risiken
-verbunden, so informiert der Einführer unverzüglich die
+(6) Hat der Einführer Grund zu der Annahme, dass ein von ihm in
+den Verkehr gebrachtes Produkt nicht den Anforderungen dieser
+Verordnung entspricht, ergreift er unverzüglich die erforderlichen
+Korrekturmaßnahmen, um die Konformität herzustellen, oder er
+nimmt das Produkt zurück oder ruft es zurück. Sind mit dem Produkt
+Risiken verbunden, so informiert der Einführer unverzüglich die
 Marktüberwachungsbehörden der Mitgliedstaaten der Europäischen Union,
 in denen er das Produkt auf dem Markt bereitgestellt hat, insbesondere
 über die Risiken, die Art der Nichtkonformität und die ergriffenen
@@ -473,27 +418,27 @@ eingetragenen Handelsnamen oder seine eingetragene Handelsmarke sowie
 seine Postanschrift auf dem Produkt anzubringen. Falls dies aufgrund
 der Größe oder der Art des Produkts nicht möglich ist, müssen diese
 Kontaktdaten auf der Verpackung oder in den dem Produkt beigefügten
-Unterlagen angegeben werden. Bei der Postanschrift handelt es sich um
-die Anschrift einer zentralen Stelle, unter der der Einführer
+Unterlagen angegeben werden. Bei der Postanschrift handelt es sich
+um die Anschrift einer zentralen Stelle, unter der der Einführer
 kontaktiert werden kann. Die Kontaktdaten sind in einer Sprache zu
 verfassen, die von den Endnutzern und den Marktüberwachungsbehörden
 leicht verstanden werden kann.
 
 (2) Der Einführer hat ab dem Inverkehrbringen des Produkts für die
-Dauer von zehn Jahren eine Kopie der EU-Konformitätserklärung oder der
-Konformitätsbescheinigung für die Marktüberwachungsbehörden
+Dauer von zehn Jahren eine Kopie der EU-Konformitätserklärung oder
+der Konformitätsbescheinigung für die Marktüberwachungsbehörden
 bereitzuhalten und dafür zu sorgen, dass er auf deren Verlangen die
 technischen Unterlagen vorlegen kann.
 
-(3) Der Einführer ist verpflichtet, der Marktüberwachungsbehörde auf
-deren Verlangen alle Informationen und Unterlagen auf Papier oder
-elektronisch zur Verfügung zu stellen, die für den Nachweis der
-Konformität des Produkts mit den Anforderungen dieser Verordnung
-erforderlich sind. Die Informationen und Unterlagen müssen in
-deutscher Sprache oder in einer Sprache, die von der
+(3) Der Einführer ist verpflichtet, der Marktüberwachungsbehörde
+auf deren Verlangen alle Informationen und Unterlagen auf Papier
+oder elektronisch zur Verfügung zu stellen, die für den Nachweis
+der Konformität des Produkts mit den Anforderungen dieser
+Verordnung erforderlich sind. Die Informationen und Unterlagen
+müssen in deutscher Sprache oder in einer Sprache, die von der
 Marktüberwachungsbehörde leicht verstanden werden kann, abgefasst
-sein. Der Einführer arbeitet mit der Marktüberwachungsbehörde auf
-deren Verlangen bei allen Maßnahmen zur Abwendung von Risiken
+sein. Der Einführer arbeitet mit der Marktüberwachungsbehörde
+auf deren Verlangen bei allen Maßnahmen zur Abwendung von Risiken
 zusammen, die mit den Produkten verbunden sind, die er in den Verkehr
 gebracht hat.
 
@@ -512,50 +457,45 @@ zu überprüfen, ob
     Kennzeichnung versehen ist und ihm die EU-Konformitätserklärung
     beigefügt ist,
 
-
 2.  dem Produkt, sofern es sich um eine Komponente handelt, die
     Konformitätsbescheinigung beigefügt ist,
-
 
 3.  dem Produkt die Betriebsanleitung und die Sicherheitsinformationen in
     deutscher Sprache beigefügt sind und
 
-
 4.  der Hersteller seine Pflichten nach § 6 Absatz 1 bis 3 und der
     Einführer seine Pflichten nach § 9 Absatz 1 erfüllt hat.
 
-
-
-
 (3) Hat der Händler Grund zu der Annahme, dass ein Produkt nicht den
-wesentlichen Gesundheits- und Sicherheitsanforderungen nach Anhang II
-der Richtlinie 2014/34/EU entspricht, darf er dieses Produkt erst auf
-dem Markt bereitstellen, wenn die Konformität hergestellt ist. Ist mit
-dem Produkt ein Risiko verbunden, so informiert der Händler außerdem
-den Hersteller oder den Einführer sowie die Marktüberwachungsbehörden
-darüber.
+wesentlichen Gesundheits- und Sicherheitsanforderungen nach Anhang
+II der Richtlinie 2014/34/EU in der Fassung vom 9. Oktober 2024
+entspricht, darf er dieses Produkt erst auf dem Markt bereitstellen,
+wenn die Konformität hergestellt ist. Ist mit dem Produkt ein Risiko
+verbunden, so informiert der Händler außerdem den Hersteller oder den
+Einführer sowie die Marktüberwachungsbehörden darüber.
 
 (4) Solange sich ein Produkt im Verantwortungsbereich des Händlers
-befindet, ist dieser dafür verantwortlich, dass die Lagerungs- und
-Transportbedingungen die Übereinstimmung des Produkts mit den
-wesentlichen Gesundheits- und Sicherheitsanforderungen nach Anhang II
-der Richtlinie 2014/34/EU nicht beeinträchtigen.
+befindet, ist dieser dafür verantwortlich, dass die Lagerungs-
+und Transportbedingungen die Übereinstimmung des Produkts mit den
+wesentlichen Gesundheits- und Sicherheitsanforderungen nach Anhang
+II der Richtlinie 2014/34/EU in der Fassung vom 9. Oktober 2024 nicht
+beeinträchtigen.
 
-(5) Hat der Händler Grund zu der Annahme, dass ein von ihm auf dem
-Markt bereitgestelltes Produkt nicht den Anforderungen dieser
+(5) Hat der Händler Grund zu der Annahme, dass ein von ihm auf
+dem Markt bereitgestelltes Produkt nicht den Anforderungen dieser
 Verordnung entspricht, hat er sicherzustellen, dass die erforderlichen
-Maßnahmen ergriffen werden, um die Konformität herzustellen, oder dass
-das Produkt zurückgenommen oder zurückgerufen wird. Sind mit dem
+Maßnahmen ergriffen werden, um die Konformität herzustellen, oder
+dass das Produkt zurückgenommen oder zurückgerufen wird. Sind mit dem
 Produkt Risiken verbunden, informiert der Händler unverzüglich die
 Marktüberwachungsbehörden der Mitgliedstaaten, in denen er das Produkt
 auf dem Markt bereitgestellt hat, insbesondere über die Risiken, die
 Art der Nichtkonformität und die ergriffenen Korrekturmaßnahmen.
 
-(6) Der Händler ist verpflichtet, der Marktüberwachungsbehörde auf
-deren Verlangen alle Informationen und Unterlagen auf Papier oder
-elektronisch zur Verfügung zu stellen, die für den Nachweis der
-Konformität des Produkts mit den Anforderungen dieser Verordnung
-erforderlich sind. Der Händler arbeitet mit der
+(6) Der Händler ist verpflichtet, der Marktüberwachungsbehörde
+auf deren Verlangen alle Informationen und Unterlagen auf
+Papier oder elektronisch zur Verfügung zu stellen, die für den
+Nachweis der Konformität des Produkts mit den Anforderungen
+dieser Verordnung erforderlich sind. Der Händler arbeitet mit der
 Marktüberwachungsbehörde auf deren Verlangen bei allen Maßnahmen zur
 Abwendung von Risiken zusammen, die mit den Produkten verbunden sind,
 die er auf dem Markt bereitgestellt hat.
@@ -569,13 +509,9 @@ entsprechend anzuwenden, wenn er
 1.  ein Produkt unter eigenem Namen oder eigener Handelsmarke in den
     Verkehr bringt oder
 
-
 2.  ein auf dem Markt befindliches Produkt so verändert, dass die
     Konformität mit den Anforderungen dieser Verordnung beeinträchtigt
     werden kann.
-
-
-
 
 
 ### § 12 Angabe der Wirtschaftsakteure
@@ -585,11 +521,7 @@ deren Verlangen die Wirtschaftsakteure,
 
 1.  von denen er ein Produkt bezogen hat und
 
-
 2.  an die er ein Produkt abgegeben hat.
-
-
-
 
 (2) Der Wirtschaftsakteur muss die Angaben nach Absatz 1 für die Dauer
 von zehn Jahren nach dem Bezug des Produkts sowie nach der Abgabe des
@@ -601,14 +533,13 @@ Produkts vorlegen können.
 
 ### § 13 Konformitätsbewertungsverfahren
 
-(1) Für Produkte sind entsprechend den Vorgaben des Artikels 13 Absatz
-1 bis 4 der Richtlinie
-2014/34/EU              die Konformitätsbewertungsverfahren nach den
-Anhängen III bis IX der Richtlinie
-2014/34/EU              durchzuführen. Die Unterlagen und der
-Schriftwechsel im Zusammenhang mit den Konformitätsbewertungsverfahren
-sind in deutscher Sprache oder in einer von der notifizierten Stelle
-anerkannten Sprache abzufassen.
+(1) Für Produkte sind entsprechend den Vorgaben des Artikels 13
+Absatz 1 bis 4 der Richtlinie 2014/34/EU in der Fassung vom 9. Oktober
+2024 die Konformitätsbewertungsverfahren nach den Anhängen III bis
+IX der Richtlinie 2014/34/EU in der Fassung vom 9. Oktober 2024
+durchzuführen. Die Unterlagen und der Schriftwechsel im Zusammenhang
+mit den Konformitätsbewertungsverfahren sind in deutscher Sprache oder
+in einer von der notifizierten Stelle anerkannten Sprache abzufassen.
 
 (2) Abweichend von Absatz 1 kann die Marktüberwachungsbehörde auf
 hinreichend begründeten Antrag genehmigen, dass Produkte in den
@@ -625,58 +556,227 @@ Komponenten anzuwenden.
 Produktsicherheitsgesetzes und gegebenenfalls der Kennnummer der
 notifizierten Stelle stehen
 
-*    *   1.
-
-    *   das spezielle Explosionsschutzkennzeichen
-        ![bgbl1_2016_j0039-1_0010_thumb.gif](bgbl1_2016_j0039-1_0010_thumb.gif)        , die Kennzeichen, die auf die Gerätegruppe und Gerätekategorie
-        verweisen, zu denen das Produkt gehört, und
-
-
-*    *   2.
-
-    *   die anderen Kennzeichnungen und Informationen nach Anhang II Nummer
-        1\.0.5 der Richtlinie
-        2014/34/EU,                        soweit sie erforderlich sind.
-
-
-
+| 1. | das spezielle Explosionsschutzkennzeichen , die Kennzeichen, die auf die Gerätegruppe und Gerätekategorie verweisen, zu denen das Produkt gehört, und |
+| --- | --- |
+| 2. | die anderen Kennzeichnungen und Informationen nach Anhang II Nummer 1.0.5 der Richtlinie 2014/34/EU in der Fassung vom 9. Oktober 2024, soweit sie erforderlich sind. |
 
 (2) Produkte, die zur Verwendung in einer bestimmten explosionsfähigen
 Atmosphäre konzipiert sind, müssen entsprechend gekennzeichnet werden.
 
 
-## Abschnitt 4 - Marktüberwachung
+## Abschnitt 4 - Notfallverfahren
+
+
+### § 14a Anwendung der Notfallverfahren
+
+(1) Die Bestimmungen dieses Abschnitts sind anzuwenden, wenn
+
+1.  die Europäische Kommission nach Artikel 28 Absatz 1 Satz 1 der
+    Verordnung (EU) 2024/2747 einen Durchführungsrechtsakt in Bezug auf
+    ein Produkt erlassen hat, für das diese Verordnung anzuwenden ist, und
+
+2.  das Produkt nach Nummer 1 in der Liste krisenrelevanter Waren nach
+    Artikel 18 Absatz 4 Satz 1, auch in Verbindung mit Satz 3, der
+    Verordnung (EU) 2024/2747 enthalten ist.
+
+(2) Die Bestimmungen dieses Abschnitts sind nur anzuwenden, während
+der Notfallmodus für den Binnenmarkt nach Artikel 18 Absatz 4 Satz
+1 der Verordnung (EU) 2024/2747 aktiviert ist. § 14d Absatz 3 bleibt
+unberührt.
+
+
+### § 14b Priorisierung der Konformitätsbewertung von als krisenrelevante Waren eingestuften Produkten
+
+(1) Die notifizierte Stelle soll die Anträge auf Konformitätsbewertung
+der Produkte, die in dem in § 14a Absatz 1 Nummer 1
+genannten Durchführungsrechtsakt aufgeführt sind und die den
+Konformitätsbewertungsverfahren nach § 13 unterliegen, vorrangig
+bearbeiten. Dies gilt unabhängig davon, ob ein Antrag vor oder nach
+der Aktivierung des Notfallmodus nach § 14a Absatz 2 Satz 1 gestellt
+wurde.
+
+(2) Dem antragstellenden Hersteller dürfen durch die Priorisierung
+von Anträgen auf Konformitätsbewertung nach Absatz 1 keine
+unverhältnismäßigen zusätzlichen Kosten entstehen.
+
+(3) Die notifizierten Stellen haben zumutbare Anstrengungen zu
+unternehmen, ihre Prüfkapazitäten für die Produkte nach Absatz 1, für
+die sie notifiziert wurden, zu erhöhen.
+
+
+### § 14c Ausnahme von den Konformitätsbewertungsverfahren
+
+(1) Abweichend von § 13 Absatz 1 kann die zuständige Behörde auf
+Antrag eines Wirtschaftsakteurs genehmigen, dass ein in einem
+in § 14a Absatz 1 Nummer 1 genannten Durchführungsrechtsakt
+aufgeführtes Produkt ohne Durchführung der in § 13 genannten
+Konformitätsbewertungsverfahren in den Verkehr gebracht oder
+in Betrieb genommen wird. Die Genehmigung nach Satz 1 setzt
+voraus, dass die Erfüllung der wesentlichen Gesundheits- und
+Sicherheitsanforderungen nach Anhang II der Richtlinie 2014/34/EU in
+der Fassung vom 9. Oktober 2024 nachgewiesen worden ist.
+
+(2) Jede nach Absatz 1 Satz 1 erteilte Genehmigung hat die Bedingungen
+und Anforderungen zu bestimmen, unter denen das Produkt in den Verkehr
+gebracht oder in Betrieb genommen werden darf. Die Genehmigung hat
+insbesondere Folgendes zu bestimmen:
+
+1.  das Enddatum für die Gültigkeit der Genehmigung, das nicht über den
+    letzten Tag des Zeitraums hinausgehen darf, für den der Notfallmodus
+    für den Binnenmarkt gemäß Artikel 18 der Verordnung (EU) 2024/2747
+    aktiviert wurde,
+
+2.  Maßnahmen, die bei Auslaufen oder Deaktivierung des Notfallmodus für
+    den Binnenmarkt in Bezug auf das betreffende Produkt zu ergreifen
+    sind.
+
+(3) Die Begründung des Bescheids über die Genehmigung nach Absatz
+1 Satz 1 hat eine Beschreibung der Verfahren zu enthalten, mit
+denen die Einhaltung der geltenden wesentlichen Gesundheits- und
+Sicherheitsanforderungen nach Anhang II der Richtlinie 2014/34/EU in
+der Fassung vom 9. Oktober 2024 erfolgreich nachgewiesen wurde. Die
+Genehmigung kann in Bezug auf die Rückverfolgbarkeit des betreffenden
+Produkts und in Bezug auf die Notwendigkeit einer fortlaufenden
+Konformitätsbewertung Anforderungen festlegen.
+
+(4) Die zuständige Behörde hat die Bundesanstalt für Arbeitsschutz und
+Arbeitsmedizin unverzüglich über jede nach Absatz 1 Satz 1 erteilte
+Genehmigung zu informieren. Die Bundesanstalt für Arbeitsschutz und
+Arbeitsmedizin hat die Informationen unverzüglich der Europäischen
+Kommission und den übrigen Mitgliedstaaten der Europäischen Union
+zuzuleiten.
+
+(5) Auf Verlangen der Europäische Kommission hat die
+Marktüberwachungsbehörde zu der technischen Bewertung, die der nach
+Absatz 1 Satz 1 erteilten Genehmigung zu Grunde lag, Stellung zu
+nehmen und sachdienliche Informationen bereitzustellen, die von der
+Europäischen Kommission zum Erlass eines nach Artikel 38c Absatz 2
+Unterabsatz 1 der Richtlinie 2014/34/EU in der Fassung vom 9. Oktober
+2024 benötigt werden.
+
+(6) Vor dem Inverkehrbringen hat der Wirtschaftsakteur auf einem
+Produkt, für das eine Genehmigung erteilt wurde, die durch einen
+Durchführungsrechtsakt der Europäischen Kommission nach Artikel 38c
+Absatz 2 Unterabsatz 1 der Richtlinie 2014/34/EU in der Fassung vom 9.
+Oktober 2024 auf das Gebiet der gesamten Europäischen Union ausgedehnt
+wurde, den Hinweis, dass das Produkt als „krisenrelevante Ware“ in
+den Verkehr gebracht oder in Betrieb genommen wird, gemäß Satz 2
+anzubringen. Vorbehaltlich näherer oder abweichender Bestimmungen in
+dem betreffenden Durchführungsrechtsakt muss der Hinweis in deutscher
+Sprache abgefasst und klar, verständlich und leserlich sein.
+
+(7) Solange kein Durchführungsrechtsakt nach Artikel 38c Absatz 2
+Unterabsatz 1 der Richtlinie 2014/34/EU in der Fassung vom 9. Oktober
+2024 erlassen wurde, kann die zuständige Behörde die Gültigkeit einer
+von einem anderen Mitgliedstaat der Europäischen Union erteilten
+Genehmigung anerkennen. Die zuständige Behörde hat die Bundesanstalt
+für Arbeitsschutz und Arbeitsmedizin unverzüglich über die Anerkennung
+der Gültigkeit einer von einem anderen Mitgliedstaat der Europäischen
+Union erteilten Genehmigung zu informieren. Die Bundesanstalt für
+Arbeitsschutz und Arbeitsmedizin hat die Informationen unverzüglich
+der Europäischen Kommission und den übrigen Mitgliedstaaten der
+Europäischen Union zuzuleiten.
+
+(8) Der Hersteller eines Produkts, das dem in Absatz 1
+genannten Genehmigungsverfahren unterliegt, hat zu erklären,
+dass das betreffende Produkt alle wesentlichen Gesundheits- und
+Sicherheitsanforderungen gemäß Anhang II der Richtlinie 2014/34/
+EU in der Fassung vom 9. Oktober 2024 erfüllt. Der Hersteller ist
+für die Durchführung aller von der zuständigen Behörde vorgegebenen
+Konformitätsbewertungsverfahren verantwortlich.
+
+(9) Ein Produkt, für das eine Genehmigung nach Absatz 1 Satz 1
+erteilt wurde, darf nicht mit der CE-Kennzeichnung gemäß § 7 des
+Produktsicherheitsgesetzes versehen werden.
+
+(10) Die Marktüberwachungsbehörde hat die Bundesanstalt für
+Arbeitsschutz und Arbeitsmedizin unverzüglich über alle von ihr
+getroffenen Abhilfemaßnahmen und beschränkenden Maßnahmen zu
+informieren. Die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin
+hat die Informationen der Marktüberwachungsbehörde unverzüglich
+der Europäischen Kommission und den übrigen Mitgliedstaaten der
+Europäischen Union zuzuleiten.
+
+
+### § 14d Konformitätsvermutung auf der Grundlage von Normen oder gemeinsamen Spezifikationen
+
+(1) Bei einem Produkt, das den in einem Durchführungsrechtsakt nach
+Artikel 38d Absatz 1 der Richtlinie 2014/34/EU in der Fassung vom
+9\. Oktober 2024 genannten Normen oder gemeinsamen Spezifikationen
+oder Teilen davon entspricht, wird vermutet, dass es die
+wesentlichen Gesundheits- und Sicherheitsanforderungen nach Anhang
+II der Richtlinie 2014/34/EU in der Fassung vom 9. Oktober 2024
+erfüllt, soweit diese von den betreffenden Normen oder gemeinsamen
+Spezifikationen oder Teilen davon abgedeckt sind.
+
+(2) Ab dem Tag, der auf das Auslaufen oder die Deaktivierung des
+Notfallmodus für den Binnenmarkt folgt, können sich Hersteller nicht
+mehr auf die Konformitätsvermutung nach Absatz 1 berufen.
+
+(3) In den Verkehr gebrachte Produkte, die mit den in Absatz 1
+genannten Normen oder gemeinsamen Spezifikationen übereinstimmen,
+gelten auch nach dem Außerkrafttreten oder der Aufhebung eines
+Durchführungsrechtsakts nach Absatz 1 und dem Auslaufen oder der
+Deaktivierung des Notfallmodus für den Binnenmarkt als konform mit den
+wesentlichen Gesundheits- und Sicherheitsanforderungen nach Anhang II
+der Richtlinie 2014/34/EU in der Fassung vom 9. Oktober 2024, sofern
+kein hinreichender Grund zu der Annahme besteht, dass diese ein Risiko
+für die Gesundheit oder Sicherheit von Menschen darstellen.
+
+
+### § 14e Priorisierung der Marktüberwachungstätigkeiten und gegenseitige Unterstützung der Behörden
+
+(1) Die Marktüberwachungsbehörde hat Marktüberwachungstätigkeiten
+für Produkte, die in dem in § 14a Absatz 1 Nummer 1 genannten
+Durchführungsrechtsakt aufgeführt sind, Vorrang einzuräumen.
+
+(2) Die Marktüberwachungsbehörde hat alle erdenklichen
+Anstrengungen zu unternehmen, um die Marktüberwachungsbehörden
+der anderen Mitgliedstaaten der Europäischen Union während eines
+Notfallmodus für den Binnenmarkt zu unterstützen. Auf Ersuchen der
+Marktüberwachungsbehörde eines anderen Mitgliedstaats der Europäischen
+Union ist die Marktüberwachungsbehörde gehalten,
+
+1.  eigene fachkundige Beschäftigte zur vorübergehenden Verstärkung des
+    Personals der ersuchenden Marktüberwachungsbehörde zu entsenden oder
+
+2.  logistische Unterstützung zu leisten, insbesondere durch den Ausbau
+    der Prüfkapazitäten für jene Produkte, die in dem in § 14a Absatz 1
+    Nummer 1 genannten Durchführungsrechtsakt aufgeführt sind.
+
+
+## Abschnitt 5 - Marktüberwachung
 
 
 ### § 15 Korrekturmaßnahmen der Wirtschaftsakteure
 
-(1) Hat die Marktüberwachungsbehörde Grund zu der Annahme, dass ein
-Produkt ein Risiko für die Gesundheit oder Sicherheit von Menschen
-oder für Haus- und Nutztiere oder Güter darstellt, so beurteilt sie,
-ob das Produkt die Anforderungen dieser Verordnung erfüllt. Die
-Wirtschaftsakteure sind verpflichtet, zu diesem Zweck im
-erforderlichen Umfang mit den Marktüberwachungsbehörden
+(1) Hat die Marktüberwachungsbehörde Grund zu der Annahme, dass
+ein Produkt ein Risiko für die Gesundheit oder Sicherheit von
+Menschen oder für Haus- und Nutztiere oder Güter darstellt, so
+beurteilt sie, ob das Produkt die Anforderungen dieser Verordnung
+erfüllt. Die Wirtschaftsakteure sind verpflichtet, zu diesem
+Zweck im erforderlichen Umfang mit den Marktüberwachungsbehörden
 zusammenzuarbeiten.
 
 (2) Gelangt die Marktüberwachungsbehörde zu dem Ergebnis, dass das
 Produkt die Anforderungen dieser Verordnung nicht erfüllt, fordert sie
 unverzüglich den betreffenden Wirtschaftsakteur auf, innerhalb einer
 von ihr festgesetzten, der Art des Risikos angemessenen Frist alle
-geeigneten Korrekturmaßnahmen zu ergreifen, um die Übereinstimmung des
-Produkts mit diesen Anforderungen herzustellen, oder das Produkt
+geeigneten Korrekturmaßnahmen zu ergreifen, um die Übereinstimmung
+des Produkts mit diesen Anforderungen herzustellen, oder das Produkt
 zurückzunehmen oder zurückzurufen. Die Marktüberwachungsbehörde
 informiert die entsprechende notifizierte Stelle über die
 Nichtkonformität.
 
-(3) Hat die Marktüberwachungsbehörde Grund zu der Annahme, dass die
-beanstandeten Produkte auch in anderen Mitgliedstaaten der
-Europäischen Union auf dem Markt bereitgestellt werden, informiert sie
-die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin über das
-Ergebnis der Beurteilung nach Absatz 1 und die Maßnahmen, die zu
-ergreifen sie den Wirtschaftsakteur aufgefordert hat. Die
-Bundesanstalt für Arbeitsschutz und Arbeitsmedizin leitet die
-Informationen der Marktüberwachungsbehörde unverzüglich der
-Europäischen Kommission und den übrigen Mitgliedstaaten der
+(3) Hat die Marktüberwachungsbehörde Grund zu der Annahme, dass
+die beanstandeten Produkte auch in anderen Mitgliedstaaten der
+Europäischen Union auf dem Markt bereitgestellt werden, informiert
+sie die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin über
+das Ergebnis der Beurteilung nach Absatz 1 und die Maßnahmen,
+die zu ergreifen sie den Wirtschaftsakteur aufgefordert hat.
+Die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin leitet
+die Informationen der Marktüberwachungsbehörde unverzüglich
+der Europäischen Kommission und den übrigen Mitgliedstaaten der
 Europäischen Union zu.
 
 (4) Der Wirtschaftsakteur gewährleistet, dass sich die
@@ -687,20 +787,20 @@ bereitgestellt hat.
 
 ### § 16 Vorläufige Maßnahmen der Marktüberwachungsbehörde
 
-(1) Ergreift der Wirtschaftsakteur innerhalb der nach § 15 Absatz 2
-Satz 1 festgesetzten Frist keine geeigneten Korrekturmaßnahmen, so
-trifft die Marktüberwachungsbehörde alle geeigneten vorläufigen
+(1) Ergreift der Wirtschaftsakteur innerhalb der nach § 15 Absatz
+2 Satz 1 festgesetzten Frist keine geeigneten Korrekturmaßnahmen,
+so trifft die Marktüberwachungsbehörde alle geeigneten vorläufigen
 Maßnahmen, um die Bereitstellung des Produkts auf dem Markt
 einzuschränken, oder sie untersagt die Bereitstellung auf dem Markt
 oder sorgt dafür, dass das Produkt zurückgenommen oder zurückgerufen
 wird.
 
-(2) Hat die Marktüberwachungsbehörde Grund zu der Annahme, dass die
-beanstandeten Produkte auch in anderen Mitgliedstaaten der
+(2) Hat die Marktüberwachungsbehörde Grund zu der Annahme, dass
+die beanstandeten Produkte auch in anderen Mitgliedstaaten der
 Europäischen Union auf dem Markt bereitgestellt werden, informiert sie
 die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin unverzüglich
-über die vorläufigen Maßnahmen nach Absatz 1. Die Bundesanstalt für
-Arbeitsschutz und Arbeitsmedizin leitet die Informationen der
+über die vorläufigen Maßnahmen nach Absatz 1. Die Bundesanstalt
+für Arbeitsschutz und Arbeitsmedizin leitet die Informationen der
 Marktüberwachungsbehörde unverzüglich der Europäischen Kommission und
 den übrigen Mitgliedstaaten der Europäischen Union zu.
 
@@ -709,37 +809,34 @@ den übrigen Mitgliedstaaten der Europäischen Union zu.
 für die Identifizierung des betreffenden Produkts, dessen Herkunft,
 die Art der behaupteten Nichtkonformität und des Risikos sowie die Art
 und Dauer der ergriffenen vorläufigen Maßnahmen sowie die Argumente
-des betreffenden Wirtschaftsakteurs. Die Marktüberwachungsbehörde gibt
-insbesondere an, ob die Nichtkonformität darauf zurückzuführen ist,
-dass
+des betreffenden Wirtschaftsakteurs. Die Marktüberwachungsbehörde
+gibt insbesondere an, ob die Nichtkonformität darauf zurückzuführen
+ist, dass
 
 1.  das Produkt die Anforderungen hinsichtlich der Gesundheit oder
     Sicherheit von Menschen oder des Schutzes von Haus- und Nutztieren
     oder Gütern nicht erfüllt oder
 
-
 2.  die harmonisierten Normen, bei deren Einhaltung gemäß § 4 eine
     Konformitätsvermutung gilt, mangelhaft sind.
-
-
-
 
 (4) Wird die Marktüberwachungsbehörde von der Bundesanstalt für
 Arbeitsschutz und Arbeitsmedizin darüber informiert, dass in einem
 anderen Mitgliedstaat der Europäischen Union eine vorläufige Maßnahme
-nach Artikel 35 Absatz 4 der Richtlinie 2014/34/EU getroffen wurde,
-trifft die Marktüberwachungsbehörde, sofern sie diese Maßnahme für
-gerechtfertigt hält, alle geeigneten vorläufigen Maßnahmen nach Absatz
-1\. Sie informiert die Bundesanstalt für Arbeitsschutz und
-Arbeitsmedizin darüber sowie über alle weiteren ihr vorliegenden
-Informationen hinsichtlich der Nichtkonformität des Produkts. Sofern
-die Marktüberwachungsbehörde die von dem anderen Mitgliedstaat
-getroffene vorläufige Maßnahme nicht für gerechtfertigt hält,
-informiert sie die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin
-innerhalb von zwei Monaten darüber und gibt ihre Einwände an. Die
-Bundesanstalt für Arbeitsschutz und Arbeitsmedizin leitet die
-Informationen gemäß den Sätzen 2 und 3 unverzüglich der Europäischen
-Kommission und den übrigen Mitgliedstaaten der Europäischen Union zu.
+nach Artikel 35 Absatz 4 der Richtlinie 2014/34/EU in der Fassung vom
+9\. Oktober 2024 getroffen wurde, trifft die Marktüberwachungsbehörde,
+sofern sie diese Maßnahme für gerechtfertigt hält, alle geeigneten
+vorläufigen Maßnahmen nach Absatz 1. Sie informiert die Bundesanstalt
+für Arbeitsschutz und Arbeitsmedizin darüber sowie über alle weiteren
+ihr vorliegenden Informationen hinsichtlich der Nichtkonformität des
+Produkts. Sofern die Marktüberwachungsbehörde die von dem anderen
+Mitgliedstaat getroffene vorläufige Maßnahme nicht für gerechtfertigt
+hält, informiert sie die Bundesanstalt für Arbeitsschutz und
+Arbeitsmedizin innerhalb von zwei Monaten darüber und gibt ihre
+Einwände an. Die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin
+leitet die Informationen gemäß den Sätzen 2 und 3 unverzüglich
+der Europäischen Kommission und den übrigen Mitgliedstaaten der
+Europäischen Union zu.
 
 (5) Liegen der Marktüberwachungsbehörde innerhalb von drei Monaten
 nach einer Information gemäß Absatz 2 Satz 1 oder nach Erhalt einer
@@ -758,8 +855,8 @@ nach § 15 Absatz 1 fest, dass ein Produkt ein Risiko für die
 Gesundheit oder Sicherheit von Menschen oder für Haus- und Nutztiere
 oder Güter darstellt, obwohl das Produkt den Anforderungen dieser
 Verordnung genügt, so fordert sie den betreffenden Wirtschaftsakteur
-dazu auf, alle geeigneten Korrekturmaßnahmen zu ergreifen, um dafür zu
-sorgen, dass das Produkt beim Inverkehrbringen kein Risiko mehr
+dazu auf, alle geeigneten Korrekturmaßnahmen zu ergreifen, um dafür
+zu sorgen, dass das Produkt beim Inverkehrbringen kein Risiko mehr
 darstellt oder dass das Produkt innerhalb einer der Art des Risikos
 angemessenen Frist zurückgenommen oder zurückgerufen wird.
 
@@ -790,129 +887,98 @@ die folgenden Fälle der Nichtkonformität zu korrigieren:
 1.  die CE-Kennzeichnung wurde nicht oder unter Verletzung von § 7 des
     Produktsicherheitsgesetzes angebracht,
 
-
 2.  die besonderen Explosionsschutzkennzeichnungen wurden nicht oder unter
     Verletzung von § 14 angebracht,
-
 
 3.  die Kennnummer der notifizierten Stelle wurde nicht oder unter
     Verletzung von § 7 Absatz 4 des Produktsicherheitsgesetzes angebracht,
 
-
 4.  die EU-Konformitätserklärung oder die Konformitätsbescheinigung wurde
     nicht oder nicht ordnungsgemäß ausgestellt,
-
 
 5.  die EU-Konformitätserklärung oder die Konformitätsbescheinigung ist
     dem Produkt nicht beigefügt,
 
-
 6.  die technischen Unterlagen sind nicht verfügbar oder nicht
     vollständig,
-
 
 7.  die Angaben des Herstellers gemäß § 6 Absatz 3 oder des Einführers
     gemäß § 9 Absatz 1 fehlen, sind falsch oder unvollständig oder
 
-
 8.  eine andere formale Anforderung nach den §§ 5, 6, 8 oder § 9 ist nicht
     erfüllt.
 
-
-
-
-(2) Besteht die Nichtkonformität gemäß Absatz 1 weiter, trifft die
-Marktüberwachungsbehörde alle geeigneten Maßnahmen, um die
+(2) Besteht die Nichtkonformität gemäß Absatz 1 weiter, trifft
+die Marktüberwachungsbehörde alle geeigneten Maßnahmen, um die
 Bereitstellung des Produkts auf dem Markt einzuschränken, oder sie
 untersagt die Bereitstellung auf dem Markt oder sorgt dafür, dass das
 Produkt zurückgerufen oder zurückgenommen wird.
 
 
-## Abschnitt 5 - Ordnungswidrigkeiten, Straftaten und Schlussbestimmungen
+## Abschnitt 6 - Ordnungswidrigkeiten und Schlussbestimmungen
 
 
 ### § 19 Ordnungswidrigkeiten
 
-(1) Ordnungswidrig im Sinne des § 28 Absatz 1 Nummer 7 Buchstabe a des
+(1) Ordnungswidrig im Sinne des § 28 Absatz 1 Nummer 7 Buchstabe a des
 Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 1.  entgegen § 5 Absatz 2 Satz 1 ein Produkt in den Verkehr bringt oder
     erstmals verwendet,
 
-
 2.  entgegen § 5 Absatz 3 Satz 1 nicht sicherstellt, dass dem Produkt eine
     dort genannte Kopie beigefügt ist,
-
 
 3.  entgegen § 6 Absatz 1 Satz 1 nicht dafür sorgt, dass ein Produkt eine
     dort genannte Nummer oder eine andere Information trägt,
 
-
 4.  entgegen § 6 Absatz 1 Satz 2 nicht dafür sorgt, dass eine dort
     genannte Information angegeben wird,
 
-
 5.  entgegen § 6 Absatz 2 Satz 1 nicht dafür sorgt, dass ein Produkt mit
     einer Kennzeichnung nach § 14 Absatz 1 Nummer 1 versehen ist,
-
 
 6.  entgegen § 6 Absatz 3 Satz 1 oder § 9 Absatz 1 Satz 1 dort genannte
     Daten nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig
     anbringt,
 
-
 7.  entgegen § 6 Absatz 4 nicht dafür sorgt, dass einem Produkt eine
     Betriebsanleitung und die Sicherheitsinformationen beigefügt sind,
-    oder
-
 
 8.  entgegen § 8 Absatz 2 Nummer 1, 3, 4 oder Nummer 5 ein Produkt in den
-    Verkehr bringt.
+    Verkehr bringt oder
 
+9.  entgegen § 14c Absatz 6 Satz 1 einen Hinweis nicht, nicht richtig,
+    nicht vollständig oder nicht rechtzeitig anbringt.
 
-
-
-(2) Ordnungswidrig im Sinne des § 28 Absatz 1 Nummer 7 Buchstabe b des
+(2) Ordnungswidrig im Sinne des § 28 Absatz 1 Nummer 7 Buchstabe b des
 Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.  entgegen § 5 Absatz 4, auch in Verbindung mit § 7 Absatz 3 Nummer 1,
-    oder entgegen § 9 Absatz 2 eine technische Unterlage, eine EU-
+1.  entgegen § 5 Absatz 4, auch in Verbindung mit § 7 Absatz 3 Nummer
+    1, oder entgegen § 9 Absatz 2 eine technische Unterlage, eine EU-
     Konformitätserklärung, eine Konformitätsbescheinigung oder eine dort
     genannte Kopie nicht oder nicht mindestens zehn Jahre bereithält,
 
-
-2.  entgegen § 6 Absatz 6 Satz 1, auch in Verbindung mit § 7 Absatz 3
-    Nummer 2, entgegen § 9 Absatz 3 Satz 1 oder § 10 Absatz 6 Satz 1 eine
-    Information oder eine Unterlage nicht, nicht richtig, nicht
-    vollständig, nicht in der vorgeschriebenen Weise oder nicht
+2.  entgegen § 6 Absatz 6 Satz 1, auch in Verbindung mit § 7 Absatz
+    3 Nummer 2, entgegen § 9 Absatz 3 Satz 1 oder § 10 Absatz 6 Satz
+    1 eine Information oder eine Unterlage nicht, nicht richtig,
+    nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht
     rechtzeitig zur Verfügung stellt, oder
-
 
 3.  entgegen § 12 Absatz 1 einen Wirtschaftsakteur nicht oder nicht
     rechtzeitig nennt.
 
 
-
-
-
-### § 20 Straftaten
-
-Wer eine in § 19 Absatz 1 bezeichnete vorsätzliche Handlung beharrlich
-wiederholt oder durch eine solche vorsätzliche Handlung Leben oder
-Gesundheit eines anderen oder fremde Sachen von bedeutendem Wert
-gefährdet, ist nach § 29 des Produktsicherheitsgesetzes strafbar.
+### § 20 (weggefallen)
 
 
 ### § 21 Übergangsvorschriften
 
-(1) Produkte, die die Anforderungen der Richtlinie 94/9/EG des
-Europäischen Parlaments und des Rates vom 23. März 1994 zur
-Angleichung der Rechtsvorschriften der Mitgliedstaaten für Geräte und
-Schutzsysteme zur bestimmungsgemäßen Verwendung in
-explosionsgefährdeten Bereichen (ABl. L 100 vom 19.4.1994, S. 1), die
-durch die Richtlinie 2014/34/EU aufgehoben worden ist, erfüllen und
-bis zum 20. April 2016 in den Verkehr gebracht wurden, dürfen auf dem
-Markt bereitgestellt und in Betrieb genommen werden.
+(1) Produkte, die die Anforderungen der Richtlinie 94/9/EG in der
+Fassung vom 25. Oktober 2012, die durch die Richtlinie 2014/34/EU
+aufgehoben worden ist, erfüllen und bis zum 20. April 2016 in den
+Verkehr gebracht wurden, dürfen auf dem Markt bereitgestellt und in
+Betrieb genommen werden.
 
 (2) Bescheinigungen, die von notifizierten Stellen gemäß der
 Richtlinie 94/9/EG ausgestellt worden sind, bleiben im Rahmen dieser

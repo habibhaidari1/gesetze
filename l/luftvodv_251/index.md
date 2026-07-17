@@ -1,7 +1,5 @@
 ---
-Title: Zweihunderteinundfünfzigste Durchführungsverordnung zur Luftverkehrs-Ordnung
-  (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum
-  und vom Hubschraubersonderlandeplatz Oberschleißheim)
+Title: Zweihunderteinundfünfzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Hubschraubersonderlandeplatz Oberschleißheim)
 jurabk: LuftVODV 251
 layout: default
 origslug: luftvodv_251

@@ -1,6 +1,5 @@
 ---
-Title: Gesetz über die strukturelle Anpassung der Landwirtschaft an die soziale und
-  ökologische Marktwirtschaft in der Deutschen Demokratischen Republik
+Title: Gesetz über die strukturelle Anpassung der Landwirtschaft an die soziale und ökologische Marktwirtschaft in der Deutschen Demokratischen Republik
 jurabk: LAnpG
 layout: default
 origslug: lanpg
@@ -16,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   GBl DDR I: 1990, 642
 
+Fundstelle
+:   GBl DDR I: 1990, Nr 42, 642
+
 Neugefasst durch
 :   Bek. v. 3.7.1991 I 1418;
 
@@ -23,88 +25,7 @@ Zuletzt geändert durch
 :   Art. 136 G v. 10.8.2021 I 3436
 
 
-
-## (XXXX)
-
-
-*    *   1.
-
-    *   Abschnitt:
-
-    *   Grundsätze
-
-
-*    *   2.
-
-    *   Abschnitt:
-
-    *   Teilung und Zusammenschluß von landwirtschaftlichen
-        Produktionsgenossenschaften
-
-
-*    *   3.
-
-    *   Abschnitt:
-
-    *   Umwandlung von landwirtschaftlichen Produktionsgenossenschaften durch
-        Formwechsel
-
-
-*    *   4.
-
-    *   Abschnitt:
-
-    *   Umwandlung von kooperativen Einrichtungen durch Formwechsel
-
-
-*    *   5.
-
-    *   Abschnitt:
-
-    *   Auflösung einer LPG
-
-
-*    *   6.
-
-    *   Abschnitt:
-
-    *   Ausscheiden aus einer LPG
-
-
-*    *   7.
-
-    *   Abschnitt:
-
-    *   Rechtsverhältnisse an genossenschaftlich genutztem Boden, der im
-        Eigentum Dritter steht
-
-
-*    *   8.
-
-    *   Abschnitt:
-
-    *   Verfahren zur Feststellung und Neuordnung der Eigentumsverhältnisse
-
-
-*    *   9.
-
-    *   Abschnitt:
-
-    *   Gerichtliches Verfahren in Landwirtschaftssachen
-
-
-*    *   10.
-
-    *   Abschnitt:
-
-    *   Schlußbestimmungen
-
-
-
-
-
 ## 1. Abschnitt - Grundsätze
-
 
 
 ### § 1 Gewährleistung des Eigentums
@@ -125,8 +46,8 @@ im Wettbewerb Chancengleichheit.
 ### § 3 Zielstellung des Gesetzes
 
 Dieses Gesetz dient der Entwicklung einer vielfältig strukturierten
-Landwirtschaft und der Schaffung von Voraussetzungen für die
-Wiederherstellung leistungs- und wettbewerbsfähiger
+Landwirtschaft und der Schaffung von Voraussetzungen für
+die Wiederherstellung leistungs- und wettbewerbsfähiger
 Landwirtschaftsbetriebe, um die in ihnen tätigen Menschen an der
 Einkommens- und Wohlstandsentwicklung zu beteiligen.
 
@@ -139,23 +60,22 @@ Sorgfalt eines ordentlichen und gewissenhaften Geschäftsleiters
 anzuwenden. Vorstandsmitglieder, die ihre Pflichten vorsätzlich oder
 fahrlässig verletzen, sind der Genossenschaft und ihren Mitgliedern
 zum Ersatz des daraus entstehenden Schadens als Gesamtschuldner
-verpflichtet. Ist streitig, ob sie die Sorgfalt eines ordentlichen und
-gewissenhaften Geschäftsleiters angewandt haben, trifft sie die
+verpflichtet. Ist streitig, ob sie die Sorgfalt eines ordentlichen
+und gewissenhaften Geschäftsleiters angewandt haben, trifft sie die
 Beweislast.
 
 
 ### § 3b Verjährung
 
-Ansprüche, die sich nach den Vorschriften der §§ 3a, 28 Abs. 2, § 37
-Abs. 2, § 44 Abs. 1 und § 51a Abs. 1 und 2 ergeben, verjähren in zehn
-Jahren. Die Verjährung eines Anspruchs nach Satz 1 beginnt mit dem
-Schluß des Jahres, in dem er entstanden ist. Die in § 257 des
+Ansprüche, die sich nach den Vorschriften der §§ 3a, 28 Abs. 2, §
+37 Abs. 2, § 44 Abs. 1 und § 51a Abs. 1 und 2 ergeben, verjähren in
+zehn Jahren. Die Verjährung eines Anspruchs nach Satz 1 beginnt mit
+dem Schluß des Jahres, in dem er entstanden ist. Die in § 257 des
 Handelsgesetzbuchs genannten Unterlagen sind über die dort bestimmten
 Fristen hinaus zehn Jahre aufzubewahren.
 
 
 ## 2. Abschnitt - Teilung und Zusammenschluß von landwirtschaftlichen Produktionsgenossenschaften
-
 
 
 ### § 4 Zulässigkeit der Teilung
@@ -169,8 +89,8 @@ Mitgliedschaftsrechten dieser Unternehmen an die Mitglieder der
 übertragenden LPG. Die Teilung ist zulässig zur Neugründung von neuen
 Genossenschaften, Personengesellschaften oder Kapitalgesellschaften.
 
-(2) Die Teilung ist unzulässig, wenn auf ein neues Unternehmen im
-wesentlichen nur ein einzelner Gegenstand oder eine einzelne
+(2) Die Teilung ist unzulässig, wenn auf ein neues Unternehmen
+im wesentlichen nur ein einzelner Gegenstand oder eine einzelne
 Verbindlichkeit übergehen soll.
 
 (3) Auf die Gründung der neuen Unternehmen sind die für die jeweilige
@@ -187,37 +107,27 @@ muß mindestens folgende Angaben enthalten:
 1.  den Namen oder die Firma und den Sitz der an der Teilung beteiligten
     Unternehmen;
 
-
 2.  die Erklärung über die Übertragung der Teile des Vermögens der
     übertragenden LPG jeweils als Gesamtheit gegen Gewährung von Anteilen
     oder Mitgliedschaftsrechten der neuen Unternehmen;
 
-
 3.  die Einzelheiten für den Erwerb der Anteile der neuen Unternehmen oder
     der Mitgliedschaft bei den neuen Unternehmen;
-
 
 4.  den Zeitpunkt, von dem an die Handlungen der übertragenden LPG als für
     Rechnung jedes der neuen Unternehmen vorgenommen gelten;
 
-
-5.  die Rechte, welche die neuen Unternehmen einzelnen Mitgliedern der LPG
-    gewähren;
-
+5.  die Rechte, welche die neuen Unternehmen einzelnen Mitgliedern der
+    LPG gewähren;
 
 6.  die genaue Beschreibung und Aufteilung der Gegenstände des Aktiv- und
     Passivvermögens der LPG sowie der betriebsbezogenen Produktionsquoten;
 
-
 7.  die Aufteilung der Anteile oder Mitgliedschaftsrechte jedes der neuen
     Unternehmen auf Mitglieder der übertragenden LPG;
 
-
 8.  die Aufteilung der sich aus abgeschlossenen Verträgen ergebenden
     Rechte und Pflichten auf die Rechtsnachfolger.
-
-
-
 
 (2) Der Vorschlag, welche Grundstücke, Viehbestände, Pflanzenanlagen,
 Maschinen, Gebäude, Anlagen, Anteile an gemeinsamen Unternehmen,
@@ -261,8 +171,8 @@ gegeben ist, wenn die dafür im Statut festgelegten Voraussetzungen
 nicht erfüllt sind. Das Mitglied kann einem anderen Mitglied
 Stimmvollmacht erteilen; die Vollmacht bedarf der Schriftform.
 
-(3) Der Teilungsplan bedarf der Zustimmung jedes Mitglieds, dem in
-einem neuen Unternehmen die Rechtsstellung eines unbeschränkt
+(3) Der Teilungsplan bedarf der Zustimmung jedes Mitglieds, dem
+in einem neuen Unternehmen die Rechtsstellung eines unbeschränkt
 haftenden Gesellschafters zugewiesen werden soll.
 
 
@@ -274,18 +184,12 @@ auszulegen:
 
 1.  der Teilungsplan und seine Anlagen;
 
-
 2.  die Bilanz der LPG;
-
 
 3.  der nach § 6 vorzulegende Teilungsbericht;
 
-
 4.  der Bericht der Revisionskommission sowie die Stellungnahme des
     zuständigen Kreditinstitutes gemäß § 9 Abs. 2.
-
-
-
 
 
 ### § 9 Durchführung der Vollversammlung
@@ -313,18 +217,13 @@ das Register anzumelden.
     entsprechend der im Teilungsplan vorgesehenen Aufteilung jeweils als
     Gesamtheit auf die neuen Unternehmen über.
 
-
 2.  Die übertragende LPG erlischt. Einer besonderen Löschung bedarf es
     nicht.
-
 
 3.  Die Mitglieder der LPG werden entsprechend der im Teilungsplan
     vorgesehenen Aufteilung Mitglieder der neuen Unternehmen. Rechte
     Dritter an den Anteilen der LPG bestehen an den an ihre Stelle
     tretenden Anteilen der neuen Unternehmen weiter.
-
-
-
 
 (2) Ist bei der Teilung ein Gegenstand keinem der neuen Unternehmen
 zugeteilt worden und läßt sich die Zuteilung auch nicht durch
@@ -339,8 +238,8 @@ Gesamtschuldner.
 
 ### § 12 Gläubigerschutz
 
-(1) Vor der Entscheidung über die Aufteilung der Kredite auf die neuen
-Unternehmen ist das zuständige Kreditinstitut zur Stellungnahme
+(1) Vor der Entscheidung über die Aufteilung der Kredite auf die
+neuen Unternehmen ist das zuständige Kreditinstitut zur Stellungnahme
 aufzufordern. Werden Einwände des Kreditinstituts nicht beachtet, kann
 dieses eine Entscheidung durch das Gericht herbeiführen lassen. Bis
 zur endgültigen Entscheidung haften die an der Teilung beteiligten
@@ -360,9 +259,9 @@ Befriedigung erlangt.
 ### § 14 Zusammenschluß
 
 LPG können unter Auflösung ohne Abwicklung zusammengeschlossen werden
-im Wege der Bildung einer neuen LPG (übernehmende LPG), auf die das
-Vermögen jeder der sich vereinigten LPG (übertragenden LPG) als Ganzes
-gegen Gewährung der Mitgliedschaft der übernehmenden LPG an die
+im Wege der Bildung einer neuen LPG (übernehmende LPG), auf die
+das Vermögen jeder der sich vereinigten LPG (übertragenden LPG) als
+Ganzes gegen Gewährung der Mitgliedschaft der übernehmenden LPG an die
 Mitglieder der übertragenden LPG übergeht.
 
 
@@ -382,23 +281,16 @@ der beteiligten LPG ihm durch Beschluß zustimmen.
 1.  den Namen oder die Firma und den Sitz der an dem Zusammenschluß
     beteiligten LPG;
 
-
 2.  die Vereinbarung über die Übertragung des Vermögens jeder LPG als
     Ganzes gegen Gewährung der Mitgliedschaft der übernehmenden LPG;
-
 
 3.  die Einzelheiten für den Erwerb der Mitgliedschaft bei der
     übernehmenden LPG;
 
-
 4.  den Zeitpunkt, von dem an die Handlungen der LPG als für Rechnung der
     übernehmenden LPG vorgenommen gelten;
 
-
 5.  den Stichtag der Schlußbilanz für die übertragende LPG.
-
-
-
 
 (2) Für den Vertrag ist die schriftliche Form erforderlich.
 
@@ -432,25 +324,20 @@ Wirkungen:
 1.  Das Vermögen jeder LPG geht einschließlich der Verbindlichkeiten auf
     die übernehmende LPG über.
 
-
 2.  Die übertragende(n) LPG erlöschen (erlischt). Einer besonderen
     Löschung bedarf es nicht.
-
 
 3.  Die Mitglieder der LPG werden Mitglieder der übernehmenden LPG. Rechte
     Dritter an den Mitgliedschaftsrechten der LPG bestehen an den an ihre
     Stelle tretenden Mitgliedschaftsrechten der übernehmenden LPG weiter.
 
 
-
-
-
 ### § 21 Gläubigerschutz
 
 Den Gläubigern der am Zusammenschluß beteiligten LPG ist, wenn sie
 sich binnen sechs Monaten nach der Bekanntmachung der Eintragung in
-das Register des Sitzes derjenigen LPG, deren Gläubiger sie sind, zu
-diesem Zweck melden, Sicherheit zu leisten, soweit sie nicht
+das Register des Sitzes derjenigen LPG, deren Gläubiger sie sind,
+zu diesem Zweck melden, Sicherheit zu leisten, soweit sie nicht
 Befriedigung verlangen können. Dieses Recht steht den Gläubigern
 jedoch nur zu, wenn sie nachweisen, daß durch den Zusammenschluß die
 Erfüllung ihrer Forderung gefährdet wird.
@@ -473,8 +360,8 @@ den Zusammenschluß Vorrang.
 andere Rechtsform verbunden, gilt darüber hinaus Abschnitt 3 dieses
 Gesetzes.
 
-(4) Die Vorschriften der Absätze 1 und 2 gelten entsprechend, wenn an
-den Strukturänderungen in den Kooperationen volkseigene Güter
+(4) Die Vorschriften der Absätze 1 und 2 gelten entsprechend, wenn
+an den Strukturänderungen in den Kooperationen volkseigene Güter
 beteiligt sind. Über deren Fortbestehen als treuhänderisch verwaltete
 Gesellschaften sowie Güter der Länder (Domänen) einschließlich Lehr-
 und Versuchsgüter oder der Kommunen (Stadtgüter) entscheiden die
@@ -484,17 +371,16 @@ Länder.
 ## 3. Abschnitt - Umwandlung von landwirtschaftlichen Produktionsgenossenschaften durch Formwechsel
 
 
-
 ### § 23 Zulässigkeit des Formwechsels
 
 (1) Eine LPG kann durch Formwechsel in eine eingetragene
-Genossenschaft, eine Personengesellschaft (Gesellschaft des
-bürgerlichen Rechts, offene Handelsgesellschaft,
+Genossenschaft, eine Personengesellschaft (Gesellschaft
+des bürgerlichen Rechts, offene Handelsgesellschaft,
 Kommanditgesellschaft) oder eine Kapitalgesellschaft (Gesellschaft mit
 beschränkter Haftung, Aktiengesellschaft) umgewandelt werden.
 
-(2) Der Formwechsel ist nur zulässig, wenn auf jedes Mitglied der LPG,
-das an dem Unternehmen neuer Rechtsform als beschränkt haftender
+(2) Der Formwechsel ist nur zulässig, wenn auf jedes Mitglied der
+LPG, das an dem Unternehmen neuer Rechtsform als beschränkt haftender
 Gesellschafter oder als Aktionär beteiligt wird, mindestens ein
 Teilrecht im Nennbetrag von fünf Deutsche Mark entfällt.
 
@@ -504,16 +390,16 @@ Teilrecht im Nennbetrag von fünf Deutsche Mark entfällt.
 Durch den Formwechsel kann die LPG die Rechtsform einer
 Personenhandelsgesellschaft (offene Handelsgesellschaft,
 Kommanditgesellschaft) nur erlangen, wenn der Unternehmensgegenstand
-im Zeitpunkt des Formwechsels den Vorschriften über die Gründung einer
-offenen Handelsgesellschaft (§ 105 Abs. 1 und § 4 Abs. 1 des
+im Zeitpunkt des Formwechsels den Vorschriften über die Gründung
+einer offenen Handelsgesellschaft (§ 105 Abs. 1 und § 4 Abs. 1 des
 Handelsgesetzbuchs) genügt.
 
 
 ### § 24 Umwandlungsbericht, Prüfungsgutachten
 
-(1) Der Vorstand der LPG hat einen ausführlichen schriftlichen Bericht
-zu erstatten, in dem der Formwechsel und insbesondere die künftige
-Beteiligung der Mitglieder an dem Unternehmen rechtlich und
+(1) Der Vorstand der LPG hat einen ausführlichen schriftlichen
+Bericht zu erstatten, in dem der Formwechsel und insbesondere die
+künftige Beteiligung der Mitglieder an dem Unternehmen rechtlich und
 wirtschaftlich erläutert und begründet werden (Umwandlungsbericht).
 Der Umwandlungsbericht muß einen Entwurf des Umwandlungsbeschlusses
 enthalten. (2) Vor der Einberufung der Vollversammlung, die den
@@ -539,34 +425,25 @@ Vollversammlung gefaßt werden.
 
 1.  die Rechtsform, welche die LPG durch den Formwechsel erlangen soll;
 
-
 2.  der Name oder die Firma und der Sitz des Unternehmens neuer
     Rechtsform;
-
 
 3.  die Beteiligung der Mitglieder der LPG an dem Unternehmen nach den für
     die neue Rechtsform geltenden Vorschriften;
 
-
 4.  Zahl, Art und Umfang der Anteile oder Mitgliedschaftsrechte, welche
     die Mitglieder durch den Formwechsel erlangen sollen;
-
 
 5.  die Rechte, die einzelnen Mitgliedern sowie den Inhabern besonderer
     Rechte in dem Unternehmen gewährt werden sollen, oder die Maßnahmen,
     die für diese Personen vorgesehen sind;
 
-
 6.  ein Abfindungsangebot im Sinne des § 36, sofern nicht nach dem Statut
     der LPG der Umwandlungsbeschluß zu seiner Wirksamkeit der Zustimmung
     aller Mitglieder bedarf;
 
-
 7.  beim Formwechsel in eine Kommanditgesellschaft die Angabe der
     Kommanditisten sowie des Betrages der Einlage eines jeden von ihnen.
-
-
-
 
 (2) Dem Umwandlungsbeschluß sind als Anlage eine Abschlußbilanz der
 LPG sowie die in § 5 Abs. 3 bezeichneten Urkunden beizufügen. Für die
@@ -576,8 +453,8 @@ Prüfung entsprechend. Sie braucht nicht bekanntgemacht zu werden.
 (3) Der Beschluß zur Umwandlung in eine eingetragene Genossenschaft
 muß die Beteiligung jedes Genossen mit mindestens einem
 Geschäftsanteil vorsehen. In dem Beschluß kann auch bestimmt werden,
-daß jeder Genosse bei der Genossenschaft mit mindestens einem und im
-übrigen mit so vielen Geschäftsanteilen, wie sie durch Anrechnung
+daß jeder Genosse bei der Genossenschaft mit mindestens einem und
+im übrigen mit so vielen Geschäftsanteilen, wie sie durch Anrechnung
 seines Geschäftsguthabens bei dieser Genossenschaft als voll
 eingezahlt anzusehen sind, beteiligt wird.
 
@@ -604,17 +481,17 @@ dieses Prüfungsgutachtens zu erteilen.
 
 ### § 28 Ausschluß der Anfechtung eines Umwandlungsbeschlusses, Verbesserung des Beteiligungsverhältnisses
 
-(1) Eine Klage gegen die Wirksamkeit des Umwandlungsbeschlusses kann
-nicht darauf gestützt werden, daß das Umtauschverhältnis der Anteile
-zu niedrig bemessen ist oder daß die Mitgliedschaftsrechte bei dem
-neuen Unternehmen kein ausreichender Gegenwert für die
+(1) Eine Klage gegen die Wirksamkeit des Umwandlungsbeschlusses
+kann nicht darauf gestützt werden, daß das Umtauschverhältnis der
+Anteile zu niedrig bemessen ist oder daß die Mitgliedschaftsrechte
+bei dem neuen Unternehmen kein ausreichender Gegenwert für die
 Mitgliedschaftsrechte bei der formwechselnden LPG sind.
 
 (2) Sind die in dem Umwandlungsbeschluß bestimmten Anteile an dem
 Unternehmen neuer Rechtsform zu niedrig bemessen oder sind die
 Mitgliedschaftsrechte bei dem Unternehmen neuer Rechtsform kein
-ausreichender Gegenwert für die Mitgliedschaftsrechte bei der LPG, so
-kann jedes Mitglied, dessen Recht, gegen die Wirksamkeit des
+ausreichender Gegenwert für die Mitgliedschaftsrechte bei der LPG,
+so kann jedes Mitglied, dessen Recht, gegen die Wirksamkeit des
 Umwandlungsbeschlusses Klage zu erheben, nach Absatz 1 ausgeschlossen
 ist, von dem Unternehmen einen Ausgleich durch bare Zuzahlung
 verlangen.
@@ -633,8 +510,8 @@ Stelle der Gründer die Mitglieder, die für den Formwechsel gestimmt
 haben.
 
 (2) Beim Formwechsel in eine Kapitalgesellschaft darf der Nennbetrag
-des Stammkapitals der Gesellschaft mit beschränkter Haftung oder des
-Grundkapitals der Aktiengesellschaft das nach Abzug der Schulden
+des Stammkapitals der Gesellschaft mit beschränkter Haftung oder
+des Grundkapitals der Aktiengesellschaft das nach Abzug der Schulden
 verbleibende Vermögen der LPG nicht übersteigen.
 
 
@@ -654,9 +531,9 @@ Mitglied möglichst ein voller Geschäftsanteil oder eine volle Aktie
 oder ein möglichst hoher Teil eines Geschäftsanteils oder einer Aktie
 (Teilrecht) entfällt.
 
-(2) Die Geschäftsanteile einer Gesellschaft mit beschränkter Haftung
-sollen auf einen höheren Nennbetrag als fünfhundert Deutsche Mark nur
-gestellt werden, soweit auf die Mitglieder der LPG volle
+(2) Die Geschäftsanteile einer Gesellschaft mit beschränkter
+Haftung sollen auf einen höheren Nennbetrag als fünfhundert Deutsche
+Mark nur gestellt werden, soweit auf die Mitglieder der LPG volle
 Geschäftsanteile mit dem höheren Nennbetrag entfallen. Aktien können
 auf einen höheren Nennbetrag als fünfzig Deutsche Mark nur gestellt
 werden, soweit volle Aktien mit dem höheren Nennbetrag auf die
@@ -668,28 +545,28 @@ den Ausschluß des Bezugsrechts entscheidet.
 
 (3) In dem Gesellschaftsvertrag oder in der Satzung der Gesellschaft
 neuer Rechtsform muß der Nennbetrag der Anteile in jedem Fall auf
-mindestens fünfzig Deutsche Mark festgesetzt werden; er muß durch zehn
-teilbar sein. In dem Gesellschaftsvertrag einer Gesellschaft mit
+mindestens fünfzig Deutsche Mark festgesetzt werden; er muß durch
+zehn teilbar sein. In dem Gesellschaftsvertrag einer Gesellschaft mit
 beschränkter Haftung kann die Übernahme mehrerer Stammeinlagen durch
 einen Gesellschafter vorgesehen werden.
 
 
 ### § 31 Anmeldung und Eintragung des Formwechsels
 
-(1) Das Unternehmen neuer Rechtsform ist zur Eintragung in das für die
-neue Rechtsform zuständige Register anzumelden. Die Umwandlung ist von
-Amts wegen in das Register einzutragen, in dem die LPG bisher
-eingetragen war. Diese Eintragung darf erst vorgenommen werden,
-nachdem das Unternehmen neuer Rechtsform in das andere Register
-eingetragen worden ist. Das Gericht des Sitzes des Unternehmens neuer
-Rechtsform hat von Amts wegen dem Gericht des Sitzes der
-formwechselnden LPG den Tag der Eintragung der Umwandlung mitzuteilen.
-Nach Eingang der Mitteilung hat das Gericht des Sitzes der
-formwechselnden LPG von Amts wegen den Tag der Eintragung der
-Umwandlung im Register des Sitzes des Unternehmens neuer Rechtsform im
-Register des Sitzes der formwechselnden LPG zu vermerken und die bei
-ihm aufbewahrten Urkunden und anderen Schriftstücke dem Gericht des
-Sitzes des Unternehmens neuer Rechtsform zur Aufbewahrung zu
+(1) Das Unternehmen neuer Rechtsform ist zur Eintragung in das für
+die neue Rechtsform zuständige Register anzumelden. Die Umwandlung
+ist von Amts wegen in das Register einzutragen, in dem die LPG
+bisher eingetragen war. Diese Eintragung darf erst vorgenommen
+werden, nachdem das Unternehmen neuer Rechtsform in das andere
+Register eingetragen worden ist. Das Gericht des Sitzes des
+Unternehmens neuer Rechtsform hat von Amts wegen dem Gericht des
+Sitzes der formwechselnden LPG den Tag der Eintragung der Umwandlung
+mitzuteilen. Nach Eingang der Mitteilung hat das Gericht des Sitzes
+der formwechselnden LPG von Amts wegen den Tag der Eintragung der
+Umwandlung im Register des Sitzes des Unternehmens neuer Rechtsform
+im Register des Sitzes der formwechselnden LPG zu vermerken und die
+bei ihm aufbewahrten Urkunden und anderen Schriftstücke dem Gericht
+des Sitzes des Unternehmens neuer Rechtsform zur Aufbewahrung zu
 übersenden.
 
 (2) Der Vorstand der LPG hat einen Hinweis auf den bevorstehenden
@@ -698,8 +575,8 @@ anzumelden. Das neue Unternehmen darf erst eingetragen werden, nachdem
 im Register des Sitzes der LPG ein Hinweis nach Satz 1 eingetragen
 worden ist.
 
-(3) Bei der Anmeldung der neuen Rechtsform haben die Anmeldenden zu
-erklären, daß eine Klage gegen die Wirksamkeit des
+(3) Bei der Anmeldung der neuen Rechtsform haben die Anmeldenden
+zu erklären, daß eine Klage gegen die Wirksamkeit des
 Umwandlungsbeschlusses nicht oder nicht fristgemäß erhoben oder eine
 solche Klage rechtskräftig abgewiesen oder zurückgenommen worden ist.
 
@@ -711,8 +588,8 @@ Vertretungsorgans sowie, wenn die Gesellschaft nach den für die neue
 Rechtsform geltenden Vorschriften einen Aufsichtsrat haben muß, auch
 durch alle Mitglieder dieses Aufsichtsrats vorzunehmen.
 
-(2) Ist die Gesellschaft neuer Rechtsform eine Aktiengesellschaft, so
-haben die Anmeldung nach Absatz 1 auch alle Gesellschafter
+(2) Ist die Gesellschaft neuer Rechtsform eine Aktiengesellschaft,
+so haben die Anmeldung nach Absatz 1 auch alle Gesellschafter
 vorzunehmen, die nach § 29 Abs. 1 Satz 2 den Gründern dieser
 Gesellschaft gleichstehen.
 
@@ -743,16 +620,12 @@ Wirkungen:
 1.  Die LPG besteht in der in dem Umwandlungsbeschluß bestimmten
     Rechtsform weiter.
 
-
-2.  Die Mitglieder der LPG sind nach Maßgabe des Umwandlungsbeschlusses an
-    dem Unternehmen nach den für die neue Rechtsform geltenden
+2.  Die Mitglieder der LPG sind nach Maßgabe des Umwandlungsbeschlusses
+    an dem Unternehmen nach den für die neue Rechtsform geltenden
     Vorschriften beteiligt. Rechte Dritter an den Mitgliedschaftsrechten
     der formwechselnden LPG bestehen an den an ihre Stelle tretenden
     Anteilen oder Mitgliedschaftsrechten des Unternehmens neuer Rechtsform
     weiter.
-
-
-
 
 (2) Ist das Unternehmen neuer Rechtsform nicht in ein Register
 einzutragen, so treten die in Absatz 1 bestimmten Wirkungen mit der
@@ -765,38 +638,38 @@ neuen Rechtsform in das Register unberührt.
 ### § 35 Benachrichtigung der Anteilsinhaber, besondere Vorschriften bei Formwechsel in eine Aktiengesellschaft
 
 (1) Das Vertretungsorgan des Unternehmens neuer Rechtsform hat jedem
-Anteilsinhaber unverzüglich nach der Bekanntmachung der Eintragung des
-Unternehmens in das Register deren Inhalt sowie die Zahl und den
-Nennbetrag der Anteile und des Teilrechts, die auf ihn entfallen sind,
-sowie bei eingetragenen Genossenschaften den Betrag seines
+Anteilsinhaber unverzüglich nach der Bekanntmachung der Eintragung
+des Unternehmens in das Register deren Inhalt sowie die Zahl und
+den Nennbetrag der Anteile und des Teilrechts, die auf ihn entfallen
+sind, sowie bei eingetragenen Genossenschaften den Betrag seines
 Geschäftsguthabens, den Betrag und die Zahl seiner Geschäftsanteile,
-den Betrag einer noch zu leistenden Einzahlung und gegebenenfalls den
-Betrag der Haftsumme schriftlich mitzuteilen. Zugleich mit der
-schriftlichen Mitteilung ist bei Kapitalgesellschaften deren
+den Betrag einer noch zu leistenden Einzahlung und gegebenenfalls
+den Betrag der Haftsumme schriftlich mitzuteilen. Zugleich mit
+der schriftlichen Mitteilung ist bei Kapitalgesellschaften deren
 wesentlicher Inhalt in den Gesellschaftsblättern bekanntzumachen.
 
 (2) Bei Formwechsel in eine Aktiengesellschaft ist für die
 Aufforderung an die Aktionäre zur Abholung der Aktien, die Veräußerung
-von Aktien, die Hauptversammlungsbeschlüsse und die Ausnutzung des
-genehmigten Kapitals § 385 l Abs. 2, 3 und 4 Satz 1 und 2 des
+von Aktien, die Hauptversammlungsbeschlüsse und die Ausnutzung
+des genehmigten Kapitals § 385 l Abs. 2, 3 und 4 Satz 1 und 2 des
 Aktiengesetzes anzuwenden.
 
 
 ### § 36 Angebot der Barabfindung, Annahme des Angebots
 
 (1) Die LPG hat jedem Mitglied im Umwandlungsbeschluß den Erwerb
-seiner umgewandelten Anteile oder Mitgliedschaftsrechte gegen eine
-angemessene Barabfindung anzubieten; § 71 Abs. 4 Satz 2 des
-Aktiengesetzes ist insoweit nicht anzuwenden. Kann das Unternehmen auf
-Grund seiner neuen Rechtsform eigene Anteile oder
-Mitgliedschaftsrechte nicht erwerben, so ist die Barabfindung für den
-Fall anzubieten, daß der Anteilsinhaber sein Ausscheiden aus dem
-Unternehmen erklärt. Das Unternehmen hat die Kosten für eine
+seiner umgewandelten Anteile oder Mitgliedschaftsrechte gegen
+eine angemessene Barabfindung anzubieten; § 71 Abs. 4 Satz
+2 des Aktiengesetzes ist insoweit nicht anzuwenden. Kann das
+Unternehmen auf Grund seiner neuen Rechtsform eigene Anteile oder
+Mitgliedschaftsrechte nicht erwerben, so ist die Barabfindung für
+den Fall anzubieten, daß der Anteilsinhaber sein Ausscheiden aus
+dem Unternehmen erklärt. Das Unternehmen hat die Kosten für eine
 Übertragung zu tragen.
 
 (2) Das Angebot nach Absatz 1 kann nur binnen zwei Monaten nach dem
-Tage angenommen werden, an dem die Eintragung der neuen Rechtsform in
-das Register des Sitzes des neuen Unternehmens nach § 33 als
+Tage angenommen werden, an dem die Eintragung der neuen Rechtsform
+in das Register des Sitzes des neuen Unternehmens nach § 33 als
 bekanntgemacht gilt. Ist nach § 37 Abs. 2 ein Antrag auf Bestimmung
 der Barabfindung durch das Gericht gestellt worden, so kann das
 Angebot binnen zwei Monaten nach dem Tage angenommen werden, an dem
@@ -831,20 +704,19 @@ entsprechend.
 
 Eine eingetragene Genossenschaft, die durch formwechselnde Umwandlung
 einer LPG entstanden ist, kann durch erneuten Formwechsel in eine
-Personengesellschaft umgewandelt werden; für die Umwandlung gelten die
-Vorschriften dieses Abschnitts entsprechend.
+rechtsfähige Personengesellschaft umgewandelt werden; für die
+Umwandlung gelten die Vorschriften dieses Abschnitts entsprechend.
 
 
 ## 4. Abschnitt - Umwandlung von kooperativen Einrichtungen durch Formwechsel
 
 
-
 ### § 39 Zulässigkeit des Formwechsels
 
-(1) Eine kooperative Einrichtung, die juristische Person ist, kann
-durch Formwechsel in eine eingetragene Genossenschaft, eine
-Personengesellschaft (Gesellschaft des bürgerlichen Rechts, offene
-Handelsgesellschaft, Kommanditgesellschaft) oder eine
+(1) Eine kooperative Einrichtung, die juristische Person ist,
+kann durch Formwechsel in eine eingetragene Genossenschaft,
+eine Personengesellschaft (Gesellschaft des bürgerlichen Rechts,
+offene Handelsgesellschaft, Kommanditgesellschaft) oder eine
 Kapitalgesellschaft (Gesellschaft mit beschränkter Haftung,
 Aktiengesellschaft) umgewandelt werden.
 
@@ -865,7 +737,6 @@ Stelle des Mitglieds der LPG tritt der Trägerbetrieb.
 ## 5. Abschnitt - Auflösung einer LPG
 
 
-
 ### § 41 Zulässigkeit der Auflösung
 
 Eine LPG kann durch Beschluß ihrer Mitglieder aufgelöst werden. Der
@@ -881,8 +752,8 @@ Abs. 2, § 79 a, §§ 82 bis 93 des Genossenschaftsgesetzes. § 82 des
 Genossenschaftsgesetzes gilt mit der Maßgabe, daß die zur Ernennung
 und Abberufung von Liquidatoren durch das Gericht erforderliche
 Mindestzahl der Antragsteller fünf vom Hundert oder fünf Mitglieder
-der LPG in Liquidation beträgt. Abweichend von der in § 90 Abs. 1 des
-Genossenschaftsgesetzes festgesetzten Jahresfrist gilt für die
+der LPG in Liquidation beträgt. Abweichend von der in § 90 Abs. 1
+des Genossenschaftsgesetzes festgesetzten Jahresfrist gilt für die
 Erfüllung des sich aus § 44 Abs. 1 ergebenden Abfindungsanspruchs
 gegenüber Mitgliedern, die allein oder in Kooperation mit anderen
 Landwirten einen landwirtschaftlichen Betrieb wieder einrichten, eine
@@ -898,19 +769,18 @@ steht im übrigen ein Vorkaufsrecht zu.
 ## 6. Abschnitt - Ausscheiden aus einer LPG
 
 
-
 ### § 43 Kündigung
 
-(1) Jedes Mitglied einer LPG hat das Recht, seine Mitgliedschaft durch
-Kündigung zu beenden. Ein zwischen der LPG und dem Mitglied
+(1) Jedes Mitglied einer LPG hat das Recht, seine Mitgliedschaft
+durch Kündigung zu beenden. Ein zwischen der LPG und dem Mitglied
 bestehendes Arbeitsverhältnis wird durch die Kündigung der
 Mitgliedschaft nicht berührt, es sei denn, das Mitglied erklärt
 ausdrücklich auch die Kündigung des Arbeitsverhältnisses.
 
 (2) Bis zum 30. September 1992 kann die Mitgliedschaft jederzeit
-gekündigt werden. Die Kündigung wird im Jahre 1990 in einem Monat und
-in den Jahren 1991 bis 1992 in drei Monaten nach ihrem Eingang beim
-Vorstand wirksam. Danach gelten die Fristen des Statuts der
+gekündigt werden. Die Kündigung wird im Jahre 1990 in einem Monat
+und in den Jahren 1991 bis 1992 in drei Monaten nach ihrem Eingang
+beim Vorstand wirksam. Danach gelten die Fristen des Statuts der
 eingetragenen Genossenschaft.
 
 (3) Diese Regelung gilt für LPG und eingetragene Genossenschaften
@@ -934,14 +804,13 @@ berechnen ist:
 
 1.  Zunächst ist der Wert der Inventarbeiträge, die in Form von Sach- oder
     Geldleistungen eingebracht worden sind, einschließlich gleichstehender
-    Leistungen, zurückzugewähren. Den Inventarbeiträgen steht der Wert des
-    Feldinventars gleich, das beim Eintritt in die LPG von dieser
+    Leistungen, zurückzugewähren. Den Inventarbeiträgen steht der Wert
+    des Feldinventars gleich, das beim Eintritt in die LPG von dieser
     übernommen wurde, soweit es nicht als Inventarbeitrag angerechnet
     wurde. Von dem Wert des eingebrachten Inventarbeitrags sind alle
     Rückzahlungen abzuziehen. Übersteigt der so ermittelte Wert aller
     eingebrachten Inventarbeiträge das Eigenkapital, sind die Ansprüche
     ausscheidender Mitglieder entsprechend zu kürzen.
-
 
 2.  Übersteigt das Eigenkapital die Summe der unter Nummer 1 genannten
     Werte der eingebrachten Inventarbeiträge, ist aus dem überschießenden
@@ -959,45 +828,41 @@ berechnen ist:
     verbleibenden Eigenkapitals, sind die Abfindungsansprüche entsprechend
     zu kürzen.
 
-
 3.  Soweit das Eigenkapital die in den Nummern 1 und 2 genannten Ansprüche
     übersteigt, ist es in Höhe von 50 vom Hundert an die Mitglieder
     entsprechend der Dauer ihrer Tätigkeit in der LPG auszuzahlen. Nummer
     2 Satz 3 gilt entsprechend.
 
-
-
-
-(2) Bei einer LPG mit Tierproduktion sind die sich aus Absatz 1
-ergebenden Ansprüche auch dann gegen diese LPG gegeben, wenn die
-Flächen der Mitglieder im Rahmen einer Kooperation durch ein
+(2) Bei einer LPG mit Tierproduktion sind die sich aus Absatz
+1 ergebenden Ansprüche auch dann gegen diese LPG gegeben, wenn
+die Flächen der Mitglieder im Rahmen einer Kooperation durch ein
 Unternehmen mit Pflanzenproduktion genutzt worden sind.
 
 (3) Ist die LPG Inhaberin einer Milchreferenzmenge, ist sie
 verpflichtet, sofern das ausscheidende Mitglied die Milcherzeugung
 nachhaltig selbst aufnehmen will, einen Anteil dieser Referenzmenge
 auf das ausscheidende Mitglied zu übertragen. Der Anteil wird
-ermittelt auf der Grundlage der durchschnittlichen Referenzmenge je
-Hektar Landwirtschaftlicher Nutzfläche (LF) der LPG und des Anteils
-der LF, der auf das ausscheidende Mitglied als Eigentums- oder
-Pachtfläche zur Nutzung übergeht. Hat die LPG, die Inhaberin der
-Milchreferenzmenge ist, die von ihren Mitgliedern eingebrachten LF im
-Rahmen der kooperativen Beziehungen einem Unternehmen mit
-Pflanzenproduktion überlassen, werden ausscheidende Mitglieder so
-behandelt, als wenn die gesamten LF und die gesamten
+ermittelt auf der Grundlage der durchschnittlichen Referenzmenge
+je Hektar Landwirtschaftlicher Nutzfläche (LF) der LPG und
+des Anteils der LF, der auf das ausscheidende Mitglied als
+Eigentums- oder Pachtfläche zur Nutzung übergeht. Hat die LPG, die
+Inhaberin der Milchreferenzmenge ist, die von ihren Mitgliedern
+eingebrachten LF im Rahmen der kooperativen Beziehungen einem
+Unternehmen mit Pflanzenproduktion überlassen, werden ausscheidende
+Mitglieder so behandelt, als wenn die gesamten LF und die gesamten
 Milchreferenzmengen innerhalb der Kooperation einer LPG zuzuordnen
 wären.
 
-(4) Übernimmt jemand als Eigentümer oder Pächter nach Abschluß eines
-Zuckerrübenliefervertrages zwischen einem landwirtschaftlichen
+(4) Übernimmt jemand als Eigentümer oder Pächter nach Abschluß
+eines Zuckerrübenliefervertrages zwischen einem landwirtschaftlichen
 Unternehmen und einem Zuckerhersteller Zuckerrübenflächen des
-landwirtschaftlichen Unternehmens, ist dieses verpflichtet, ihn an den
-Rechten aus dem Zuckerrübenliefervertrag entsprechend dem Anteil der
-ihm zurückzugewährenden Zuckerrübenfläche an der gesamten
+landwirtschaftlichen Unternehmens, ist dieses verpflichtet, ihn
+an den Rechten aus dem Zuckerrübenliefervertrag entsprechend dem
+Anteil der ihm zurückzugewährenden Zuckerrübenfläche an der gesamten
 Zuckerrübenfläche des Unternehmens zu beteiligen.
 
-(5) Die LPG ist darüber hinaus verpflichtet, ausscheidende Mitglieder,
-die allein oder in Kooperation mit anderen Landwirten die
+(5) Die LPG ist darüber hinaus verpflichtet, ausscheidende
+Mitglieder, die allein oder in Kooperation mit anderen Landwirten die
 Wiedereinrichtung eines landwirtschaftlichen Betriebs beabsichtigten,
 zu unterstützen.
 
@@ -1015,25 +880,25 @@ grundsätzlich das volle Verfügungsrecht und den unmittelbaren Besitz
 an seinen eingebrachten Flächen sowie seine Hofstelle zurück. Befindet
 sich auf den Flächen, die das ausscheidende Mitglied zurückerhält,
 Feldinventar, hat das Mitglied der LPG die Kosten der Feldbestellung
-zu ersetzen, soweit das Feldinventar beim Abfindungsanspruch nach § 44
-Abs. 1 berücksichtigt worden ist. Der Anspruch der LPG wird einen
+zu ersetzen, soweit das Feldinventar beim Abfindungsanspruch nach §
+44 Abs. 1 berücksichtigt worden ist. Der Anspruch der LPG wird einen
 Monat nach Beendigung der Ernte fällig.
 
 
 ### § 46 Eigentumstausch
 
-(1) Ist der LPG die Rückgabe der eingebrachten Flächen aus objektiven
-wirtschaftlichen oder rechtlichen Gründen nicht möglich, so kann das
-ausscheidende Mitglied verlangen, daß ihm statt der eingebrachten
-Flächen solche übereignet werden, die in wirtschaftlich zumutbarer
-Entfernung von der Hofstelle, räumlich beieinander und an
-Wirtschaftswegen liegen sowie nach Art, Größe und Bonität den
-eingebrachten Flächen entsprechen. Das Verfahren für den
+(1) Ist der LPG die Rückgabe der eingebrachten Flächen aus
+objektiven wirtschaftlichen oder rechtlichen Gründen nicht möglich,
+so kann das ausscheidende Mitglied verlangen, daß ihm statt der
+eingebrachten Flächen solche übereignet werden, die in wirtschaftlich
+zumutbarer Entfernung von der Hofstelle, räumlich beieinander
+und an Wirtschaftswegen liegen sowie nach Art, Größe und Bonität
+den eingebrachten Flächen entsprechen. Das Verfahren für den
 Grundstückstausch richtet sich nach Abschnitt 8.
 
-(2) Kommt eine Einigung über die Tauschfläche nicht zustande, ist ein
-Bodenordnungsverfahren nach § 56 durchzuführen. Bis zum Abschluß des
-Verfahrens hat die LPG dem ausscheidenden Mitglied andere
+(2) Kommt eine Einigung über die Tauschfläche nicht zustande, ist
+ein Bodenordnungsverfahren nach § 56 durchzuführen. Bis zum Abschluß
+des Verfahrens hat die LPG dem ausscheidenden Mitglied andere
 gleichwertige Flächen zur Verfügung zu stellen.
 
 
@@ -1071,9 +936,9 @@ die sich das ausscheidende Mitglied und die LPG einigen, sind auf den
 Abfindungsanspruch anzurechnen.
 
 (3) Soweit es sich bei den ausscheidenden Mitgliedern um Personen
-handelt, die keinen landwirtschaftlichen Betrieb errichten, kann die
-LPG Ratenzahlung verlangen, soweit sie nachweist, daß dies zur
-Erhaltung ihrer Wirtschaftskraft erforderlich ist. Der
+handelt, die keinen landwirtschaftlichen Betrieb errichten,
+kann die LPG Ratenzahlung verlangen, soweit sie nachweist, daß
+dies zur Erhaltung ihrer Wirtschaftskraft erforderlich ist. Der
 Abfindungsanspruch muß innerhalb von fünf Jahren nach Fälligkeit
 erfüllt sein.
 
@@ -1088,7 +953,6 @@ Rechtslage hinsichtlich des Fortbestehens der Entschuldung.
 
 
 ## 7. Abschnitt - Rechtsverhältnisse an genossenschaftlich genutztem Boden, der im Eigentum Dritter steht
-
 
 
 ### § 51 Umwandlung der Nutzungsverhältnisse in Pachtverhältnisse
@@ -1127,8 +991,8 @@ des landwirtschaftlichen Pachtrechts vom 8. November 1985 (BGBl. I S.
 (2) Ist im Zeitraum gemäß § 51 der Bodeneigentümer nicht zum Abschluß
 des Pachtvertrages in der Lage, können vorübergehend zwischen der
 zuständigen Kreisbehörde und dem Nutzer die Bedingungen für die
-Bodennutzung vereinbart werden. Dem Eigentümer stehen hinsichtlich der
-Auflösung des Pachtverhältnisses mit der zuständigen Kreisbehörde
+Bodennutzung vereinbart werden. Dem Eigentümer stehen hinsichtlich
+der Auflösung des Pachtverhältnisses mit der zuständigen Kreisbehörde
 sowie der Kündigung der Bodennutzung die gleichen Rechte wie
 ausscheidenden Mitgliedern gemäß § 43 zu.
 
@@ -1136,14 +1000,13 @@ ausscheidenden Mitgliedern gemäß § 43 zu.
 ## 8. Abschnitt - Verfahren zur Feststellung und Neuordnung der Eigentumsverhältnisse
 
 
-
 ### § 53 Leitlinien zur Neuordnung
 
-(1) Auf Grund des Ausscheidens von Mitgliedern aus der LPG oder der
-eingetragenen Genossenschaft, der Bildung einzelbäuerlicher
-Wirtschaften oder zur Wiederherstellung der Einheit von selbständigem
-Eigentum an Gebäuden, Anlagen sowie Anpflanzungen und Eigentum an
-Grund und Boden sind auf Antrag eines Beteiligten die
+(1) Auf Grund des Ausscheidens von Mitgliedern aus der LPG oder
+der eingetragenen Genossenschaft, der Bildung einzelbäuerlicher
+Wirtschaften oder zur Wiederherstellung der Einheit von
+selbständigem Eigentum an Gebäuden, Anlagen sowie Anpflanzungen und
+Eigentum an Grund und Boden sind auf Antrag eines Beteiligten die
 Eigentumsverhältnisse an Grundstücken unter Beachtung der Interessen
 der Beteiligten neu zu ordnen.
 
@@ -1191,14 +1054,14 @@ genannten Gesetzes sinngemäß anzuwenden.
 
 ### § 56 Bodenordnungsverfahren
 
-(1) Kommt ein freiwilliger Landtausch nicht zustande, ist unter
-Leitung der Flurneuordnungsbehörde, in dessen Bereich die
-Genossenschaft ihren Sitz hat, ein Bodenordnungsverfahren
+(1) Kommt ein freiwilliger Landtausch nicht zustande, ist
+unter Leitung der Flurneuordnungsbehörde, in dessen Bereich
+die Genossenschaft ihren Sitz hat, ein Bodenordnungsverfahren
 durchzuführen.
 
 (2) Am Verfahren sind als Teilnehmer die Eigentümer der zum
-Verfahrensgebiet gehörenden Grundstücke und als Nebenbeteiligte die
-Genossenschaften, die Gemeinden, andere Körperschaften des
+Verfahrensgebiet gehörenden Grundstücke und als Nebenbeteiligte
+die Genossenschaften, die Gemeinden, andere Körperschaften des
 öffentlichen Rechts, Wasser- und Bodenverbände und Inhaber von Rechten
 an Grundstücken im Verfahrensgebiet beteiligt.
 
@@ -1243,8 +1106,8 @@ des Flurbereinigungsgesetzes sinngemäß anzuwenden.
 (1) Ist der Plan unanfechtbar geworden, ordnet die
 Flurneuordnungsbehörde seine Ausführungen an (Ausführungsanordnung).
 
-(2) Zu dem in der Ausführungsanordnung zu bestimmenden Zeitpunkt tritt
-der im Plan vorgesehene neue Rechtszustand an die Stelle des
+(2) Zu dem in der Ausführungsanordnung zu bestimmenden Zeitpunkt
+tritt der im Plan vorgesehene neue Rechtszustand an die Stelle des
 bisherigen.
 
 (3) Nach Eintritt des neuen Rechtszustands sind die Grundbücher auf
@@ -1286,9 +1149,9 @@ Eigentumsverhältnisse trägt das Land (Staat).
 
 ### § 63 Anwendungsbestimmungen
 
-(1) Bis zur Bildung der Flurneuordnungsbehörde kann der Vertrag über
-den freiwilligen Landtausch vor jeder Behörde, die nach den
-Rechtsvorschriften für die Beurkundungen von
+(1) Bis zur Bildung der Flurneuordnungsbehörde kann der
+Vertrag über den freiwilligen Landtausch vor jeder Behörde,
+die nach den Rechtsvorschriften für die Beurkundungen von
 Grundstücksangelegenheiten zuständig ist, rechtswirksam geschlossen
 werden. Die Vorschriften über die Genehmigung des Grundstücksverkehrs
 finden Anwendung.
@@ -1307,28 +1170,28 @@ fortgeführt werden, wenn die Voraussetzungen dafür vorliegen.
 Das Eigentum an den Flächen, auf denen auf der Grundlage eines durch
 Rechtsvorschriften geregelten Nutzungsrechts Gebäude und Anlagen
 errichtet wurden, die in selbständigem Eigentum der LPG oder Dritten
-stehen, ist nach den Vorschriften dieses Abschnittes auf Antrag des
-Eigentümers der Fläche oder des Gebäudes und der Anlagen neu zu
-ordnen. Bis zum Abschluß des Verfahrens bleiben bisherige Rechte
+stehen, ist nach den Vorschriften dieses Abschnittes auf Antrag
+des Eigentümers der Fläche oder des Gebäudes und der Anlagen neu
+zu ordnen. Bis zum Abschluß des Verfahrens bleiben bisherige Rechte
 bestehen.
 
 
 ### § 64a Waldflächen
 
-(1) Auf den einer LPG zur Nutzung überlassenen Waldflächen geht bisher
-vom Boden unabhängiges Eigentum an den Waldbeständen auf den
-Grundeigentümer über; es erlischt als selbständiges Recht. Die
+(1) Auf den einer LPG zur Nutzung überlassenen Waldflächen geht
+bisher vom Boden unabhängiges Eigentum an den Waldbeständen auf
+den Grundeigentümer über; es erlischt als selbständiges Recht. Die
 Zusammenführung von bisher unabhängigem Eigentum am Boden und an
 Gebäuden sowie sonstigen Anlagen auf diesen Waldflächen regelt sich
 nach § 64.
 
 (2) Hat die LPG Ansprüche gegenüber Dritten, die aus früheren
-Verträgen der LPG über den Waldbesitz herrühren, sind die der LPG
-daraus zugehenden Leistungen unter Berücksichtigung von seit
-Vertragsabschluß in den Beständen eingetretenen Veränderungen auf die
-Waldeigentümer aufzuteilen. Hierbei sind die an die LPG bereits
-ausgezahlten staatlichen Mittel für zusätzliche Inventarbeiträge zu
-berücksichtigen. Im übrigen findet § 44 auf Waldflächen und
+Verträgen der LPG über den Waldbesitz herrühren, sind die der
+LPG daraus zugehenden Leistungen unter Berücksichtigung von seit
+Vertragsabschluß in den Beständen eingetretenen Veränderungen auf
+die Waldeigentümer aufzuteilen. Hierbei sind die an die LPG bereits
+ausgezahlten staatlichen Mittel für zusätzliche Inventarbeiträge
+zu berücksichtigen. Im übrigen findet § 44 auf Waldflächen und
 Inventarbeiträge für Wald keine Anwendung.
 
 
@@ -1336,17 +1199,17 @@ Inventarbeiträge für Wald keine Anwendung.
 
 (1) Der Anteilsinhaber eines aus einer LPG durch Formwechsel
 hervorgegangenen Unternehmens neuer Rechtsform oder eines durch
-Teilung einer LPG entstandenen Unternehmens kann von diesem die
-Rückübereignung der nach § 13 Abs. 1 des Gesetzes über die
+Teilung einer LPG entstandenen Unternehmens kann von diesem
+die Rückübereignung der nach § 13 Abs. 1 des Gesetzes über die
 landwirtschaftlichen Produktionsgenossenschaften vom 3. Juni 1959
 (GBl. I S. 577) eingebrachten Wirtschaftsgebäude zum Zwecke der
-Zusammenführung mit dem Eigentum am Grundstück verlangen. Der in Satz
-1 bestimmte Anspruch steht auch einem Rechtsnachfolger des
+Zusammenführung mit dem Eigentum am Grundstück verlangen. Der in
+Satz 1 bestimmte Anspruch steht auch einem Rechtsnachfolger des
 Grundstückseigentümers zu, der nicht Anteilsinhaber ist.
 
-(2) Wird der Anspruch nach Absatz 1 geltend gemacht, hat der
-Grundstückseigentümer dem Unternehmen einen Ausgleich in Höhe des
-Verkehrswerts des Gebäudes zum Zeitpunkt des
+(2) Wird der Anspruch nach Absatz 1 geltend gemacht, hat
+der Grundstückseigentümer dem Unternehmen einen Ausgleich
+in Höhe des Verkehrswerts des Gebäudes zum Zeitpunkt des
 Rückübereignungsverlangens zu leisten.
 
 (3) § 83 des Sachenrechtsbereinigungsgesetzes ist entsprechend
@@ -1369,25 +1232,24 @@ nach den Vorschriften dieses Abschnitts geltend gemacht werden.
 ## 9. Abschnitt - Gerichtliches Verfahren in Landwirtschaftssachen
 
 
-
 ### § 65 Zuständigkeit, Rechtsmittel
 
-(1) In Verfahren auf Grund der Vorschriften der §§ 3a, 7, 12 Abs. 1,
-der §§ 15, 25, 28 Abs. 2, des § 37 Abs. 2, der §§ 39, 41 bis 43, 44,
-45, 47 bis 49, 51, 51a, 52 und 64a Abs. 2 sind im ersten Rechtszug die
-Amtsgerichte als Landwirtschaftsgerichte zuständig. Die Zuständigkeit
-ist auch in bürgerlich-rechtlichen Streitigkeiten ausschließlich. Im
-zweiten Rechtszug sind die Oberlandesgerichte, im dritten Rechtszug
-der Bundesgerichtshof zuständig. Die Gerichte sind in der in § 2 Abs.
-2 des Gesetzes über das gerichtliche Verfahren in
+(1) In Verfahren auf Grund der Vorschriften der §§ 3a, 7, 12 Abs.
+1, der §§ 15, 25, 28 Abs. 2, des § 37 Abs. 2, der §§ 39, 41 bis
+43, 44, 45, 47 bis 49, 51, 51a, 52 und 64a Abs. 2 sind im ersten
+Rechtszug die Amtsgerichte als Landwirtschaftsgerichte zuständig.
+Die Zuständigkeit ist auch in bürgerlich-rechtlichen Streitigkeiten
+ausschließlich. Im zweiten Rechtszug sind die Oberlandesgerichte, im
+dritten Rechtszug der Bundesgerichtshof zuständig. Die Gerichte sind
+in der in § 2 Abs. 2 des Gesetzes über das gerichtliche Verfahren in
 Landwirtschaftssachen bestimmten Besetzung tätig.
 
-(2) In Angelegenheiten auf Grund der Vorschriften des § 12 Abs. 1, des
-§ 28 Abs. 2, des § 37 Abs. 2, der §§ 42, 43, 44, 45, 46, 49, 51, 51a
-und 64a Abs. 2 sowie des § 52 in den Fällen des § 585b Abs. 2, der §§
-588, 590 Abs. 2, des § 591 Abs. 2 und 3, der §§ 593, 594d Abs. 2 und
-der §§ 595 und 595a Abs. 2 und 3 des Bürgerlichen Gesetzbuchs finden
-die Vorschriften des Zweiten Abschnitts, in bürgerlichen
+(2) In Angelegenheiten auf Grund der Vorschriften des § 12 Abs. 1,
+des § 28 Abs. 2, des § 37 Abs. 2, der §§ 42, 43, 44, 45, 46, 49, 51,
+51a und 64a Abs. 2 sowie des § 52 in den Fällen des § 585b Abs. 2,
+der §§ 588, 590 Abs. 2, des § 591 Abs. 2 und 3, der §§ 593, 594d Abs.
+2 und der §§ 595 und 595a Abs. 2 und 3 des Bürgerlichen Gesetzbuchs
+finden die Vorschriften des Zweiten Abschnitts, in bürgerlichen
 Rechtsstreitigkeiten auf Grund der Vorschriften der §§ 3a, 7, 15, 25,
 39, 41 und 48 sowie des § 52 im übrigen finden die Vorschriften des
 Dritten Abschnitts des Gesetzes über das gerichtliche Verfahren in
@@ -1414,14 +1276,13 @@ Zivilprozeßordnung Anwendung. Die Vorschriften dieses Abschnitts
 bleiben im übrigen unberührt.
 
 (2) Das Schiedsgericht besteht aus einem Vorsitzenden und zwei
-Beisitzern, von denen jede Partei einen ernennt. Der Vorsitzende, der
-die Befähigung zum Richteramt oder zum Berufsrichter haben oder
+Beisitzern, von denen jede Partei einen ernennt. Der Vorsitzende,
+der die Befähigung zum Richteramt oder zum Berufsrichter haben oder
 zugelassener Rechtsanwalt oder Notar sein muß, wird von den Beisitzern
 ernannt.
 
 
 ## 10. Abschnitt - Schlußbestimmungen
-
 
 
 ### § 67 Freiheit von Steuern und Abgaben
@@ -1471,16 +1332,16 @@ gilt § 42.
 
 ### § 70 Ausführungsbestimmung
 
-(1) Umwandlungen nach diesem Gesetz berühren nicht etwaige Ansprüche
-auf Restitution oder Entschädigung wegen Enteignung oder
+(1) Umwandlungen nach diesem Gesetz berühren nicht etwaige
+Ansprüche auf Restitution oder Entschädigung wegen Enteignung oder
 enteignungsgleichen Eingriffen.
 
 (2) Inkrafttreten
 
 (3) Die zuständige oberste Landesbehörde kann, sofern ihr
 Anhaltspunkte für ein gesetzwidriges Verhalten bei der
-Geschäftsführung der LPG vorliegen, deren Geschäftsführung prüfen. Zu
-diesem Zweck hat sie insbesondere das Recht, mündliche und
+Geschäftsführung der LPG vorliegen, deren Geschäftsführung prüfen.
+Zu diesem Zweck hat sie insbesondere das Recht, mündliche und
 schriftliche Berichte zu verlangen, Geschäftsakten und andere
 Unterlagen anzufordern sowie an Ort und Stelle Prüfungen und
 Besichtigungen vorzunehmen; hierzu kann sie sich von ihr bestellter
@@ -1489,8 +1350,8 @@ geeigneter Prüfer bedienen.
 (4) Die landwirtschaftlichen Produktionsgenossenschaften und andere
 sozialistische Genossenschaften sowie ihre Rechtsnachfolger sind
 verpflichtet, in ihrem Besitz befindliche Urkunden über die Zuweisung
-des Nutzungsrechts an genossenschaftlich genutztem Boden an Bürger zum
-Bau von Eigenheimen oder von anderen persönlichen Bedürfnissen
+des Nutzungsrechts an genossenschaftlich genutztem Boden an Bürger
+zum Bau von Eigenheimen oder von anderen persönlichen Bedürfnissen
 dienenden Gebäuden gemäß § 291 des Zivilgesetzbuchs der Deutschen
 Demokratischen Republik an das Grundbuchamt abzugeben, in dessen
 Bezirk das betroffene Grundstück liegt. Das Grundbuchamt nimmt die

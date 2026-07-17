@@ -1,8 +1,5 @@
 ---
-Title: Gesetz zu dem Vertrag vom 2. Februar 2000 zwischen der Bundesrepublik Deutschland
-  und der Tschechischen Republik über die Ergänzung des Europäischen Übereinkommens
-  über die Rechtshilfe in Strafsachen vom 20. April 1959 und die Erleichterung seiner
-  Anwendung
+Title: Gesetz zu dem Vertrag vom 2. Februar 2000 zwischen der Bundesrepublik Deutschland und der Tschechischen Republik über die Ergänzung des Europäischen Übereinkommens über die Rechtshilfe in Strafsachen vom 20. April 1959 und die Erleichterung seiner Anwendung
 jurabk: EuRHiÜbkErgVtrCZEG
 layout: default
 origslug: eurhi_bkergvtrczeg
@@ -19,7 +16,6 @@ Fundstelle
 :   BGBl II: 2001, 733 (2002 II 788)
 
 
-
 ## Art 1
 
 Dem in Prag am 2. Februar 2000 unterzeichneten Vertrag zwischen der
@@ -31,8 +27,8 @@ wird zugestimmt. Der Vertrag wird nachstehend veröffentlicht.
 
 ## Art 2
 
-Die Polizeibehörden sind zur Stellung von Ersuchen im Sinne von
-Artikel 23 des Vertrags nur insoweit befugt, als sie nach
+Die Polizeibehörden sind zur Stellung von Ersuchen im Sinne
+von Artikel 23 des Vertrags nur insoweit befugt, als sie nach
 innerstaatlichem Recht in eigener Zuständigkeit Anordnungen treffen
 können.
 
@@ -40,10 +36,10 @@ können.
 ## Art 3
 
 Rechtshilfeersuchen tschechischer Behörden, denen eine Zuwiderhandlung
-zugrunde liegt, die nach deutschem Recht eine Ordnungswidrigkeit wäre,
-werden so behandelt, als ob ihnen nach deutschem Recht eine mit Strafe
-bedrohte Handlung zugrunde läge. Die Bewilligungsbehörde kann der
-Verwaltungsbehörde, die für die Verfolgung der Zuwiderhandlung
+zugrunde liegt, die nach deutschem Recht eine Ordnungswidrigkeit
+wäre, werden so behandelt, als ob ihnen nach deutschem Recht eine mit
+Strafe bedrohte Handlung zugrunde läge. Die Bewilligungsbehörde kann
+der Verwaltungsbehörde, die für die Verfolgung der Zuwiderhandlung
 zuständig wäre, die Vornahme der Rechtshilfehandlung übertragen.
 
 

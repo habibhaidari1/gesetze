@@ -1,7 +1,5 @@
 ---
-Title: Hundertneunundsiebzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung
-  von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Flughafen
-  Hannover)
+Title: Hundertneunundsiebzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Flughafen Hannover)
 jurabk: LuftVODV 179
 layout: default
 origslug: luftvodv_179
@@ -16,4 +14,7 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BAnz: 1997, Nr 61, 4273
+
+Fundstelle
+:   BAnz: 1997, 4273
 

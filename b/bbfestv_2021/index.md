@@ -1,6 +1,5 @@
 ---
-Title: Verordnung zur Festlegung und Anpassung der Bundesbeteiligung an den Leistungen
-  für Unterkunft und Heizung für das Jahr 2021
+Title: Verordnung zur Festlegung und Anpassung der Bundesbeteiligung an den Leistungen für Unterkunft und Heizung für das Jahr 2021
 jurabk: BBFestV 2021
 layout: default
 origslug: bbfestv_2021
@@ -20,15 +19,15 @@ Fundstelle
 ## Eingangsformel
 
 Auf Grund des § 46 Absatz 10 Satz 1 des Zweiten Buches
-Sozialgesetzbuch – Grundsicherung für Arbeitsuchende –, der durch
-Artikel 3 Nummer 3 Buchstabe a des Gesetzes vom 9. Dezember 2020
-(BGBl. I S. 2051) neu gefasst worden ist, verordnet das
+Sozialgesetzbuch – Grundsicherung für Arbeitsuchende –, der
+durch Artikel 3 Nummer 3 Buchstabe a des Gesetzes vom 9. Dezember
+2020 (BGBl. I S. 2051) neu gefasst worden ist, verordnet das
 Bundesministerium für Arbeit und Soziales:
 
 
 ## § 1 Festlegung und Anpassung der Werte nach § 46 Absatz 8 Satz 1 des Zweiten Buches Sozialgesetzbuch
 
-Der landesspezifische Wert nach § 46 Absatz 8 Satz 1 des Zweiten
+Der landesspezifische Wert nach § 46 Absatz 8 Satz 1 des Zweiten
 Buches Sozialgesetzbuch, der für das Jahr 2022 festgelegt und für das
 Jahr 2021 rückwirkend angepasst wird, beträgt
 4,7 Prozentpunkte für Baden-Württemberg,

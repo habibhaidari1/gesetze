@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über das deutsch-griechische Abkommen über die gegenseitige
-  Rechtshilfe in Angelegenheiten des bürgerlichen und Handels-Rechts
+Title: Bekanntmachung über das deutsch-griechische Abkommen über die gegenseitige Rechtshilfe in Angelegenheiten des bürgerlichen und Handels-Rechts
 jurabk: RHiGRCAbkBek
 layout: default
 origslug: rhigrcabkbek
@@ -17,7 +16,6 @@ Fundstelle
 :   RGBl II: 1939, 848
 
 
-
 ## (XXXX)
 
 (1) ...
@@ -25,8 +23,8 @@ Fundstelle
 (2) ... Das Abkommen tritt gemäß seinem Artikel 29 Abs. 3 am 17. Juli
 1939 in Kraft.
 
-(3) Zur Ausführung des Abkommens ist die Verordnung vom 31. Mai 1939
-zur Ausführung des deutsch-griechischen Abkommens über die
+(3) Zur Ausführung des Abkommens ist die Verordnung vom 31. Mai
+1939 zur Ausführung des deutsch-griechischen Abkommens über die
 gegenseitige Rechtshilfe in Angelegenheiten des bürgerlichen und
 Handels-Rechts (Reichsgesetzbl. II S. 847) erlassen worden.
 

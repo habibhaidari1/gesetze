@@ -1,7 +1,5 @@
 ---
-Title: Hundertneunundachtzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung
-  von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Regionalflughafen
-  Magdeburg/City)
+Title: Hundertneunundachtzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Regionalflughafen Magdeburg/City)
 jurabk: LuftVODV 189
 layout: default
 origslug: luftvodv_189
@@ -16,4 +14,7 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BAnz: 1998, Nr 170, 13570
+
+Fundstelle
+:   BAnz: 1998, 13570
 

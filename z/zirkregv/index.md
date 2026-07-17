@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Registrierung von Erlaubnissen zur Zurschaustellung von
-  Tieren an wechselnden Orten
+Title: Verordnung über die Registrierung von Erlaubnissen zur Zurschaustellung von Tieren an wechselnden Orten
 jurabk: ZirkRegV
 layout: default
 origslug: zirkregv
@@ -23,8 +22,8 @@ Geändert durch
 ## Eingangsformel
 
 Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz verordnet auf Grund des § 16 Abs. 6 Satz 2 und 3 in
-Verbindung mit § 16b Abs. 1 Satz 2 des Tierschutzgesetzes in der
+Verbraucherschutz verordnet auf Grund des § 16 Abs. 6 Satz 2 und 3
+in Verbindung mit § 16b Abs. 1 Satz 2 des Tierschutzgesetzes in der
 Fassung der Bekanntmachung vom 18. Mai 2006 (BGBl. I S. 1206, 1313),
 von denen § 16 Abs. 6 Satz 2 und 3 durch das Gesetz vom 18. Dezember
 2007 (BGBl. I S. 3001, 2008 I S. 47) neugefasst worden ist, nach
@@ -35,8 +34,8 @@ Anhörung der Tierschutzkommission:
 
 Diese Verordnung regelt die Erhebung und Verwendung personenbezogener
 Daten im automatisierten Verfahren zum Zwecke der Überwachung der
-Einhaltung der tierschutzrechtlichen Bestimmungen durch Betriebe im
-Sinne von § 11 Absatz 1 Satz 1 Nummer 8 Buchstabe d des
+Einhaltung der tierschutzrechtlichen Bestimmungen durch Betriebe
+im Sinne von § 11 Absatz 1 Satz 1 Nummer 8 Buchstabe d des
 Tierschutzgesetzes.
 
 
@@ -48,58 +47,42 @@ Im Sinne dieser Verordnung ist
     Absatz 1 Satz 1 Nummer 8 Buchstabe d des Tierschutzgesetzes zuständige
     Behörde;
 
-
 2.  kontrollierende Behörde: die für die Kontrolle nach § 16 Abs. 1 Nr. 4
     des Tierschutzgesetzes zuständige Behörde.
 
 
-
-
-
 ## § 3 Datenerhebung
 
-(1) Die erteilende Behörde erhebt vor Erteilung einer Erlaubnis nach §
-11 Absatz 1 Satz 1 Nummer 8 Buchstabe d des Tierschutzgesetzes, wenn
+(1) Die erteilende Behörde erhebt vor Erteilung einer Erlaubnis nach
+§ 11 Absatz 1 Satz 1 Nummer 8 Buchstabe d des Tierschutzgesetzes, wenn
 die Tätigkeit an wechselnden Orten ausgeübt wird, folgende Daten:
 
 1.  Name, Anschrift, Geburtsdatum, Geburtsort des Antragstellers sowie den
     Ort der jeweiligen Gewerbeanmeldung,
 
-
 2.  Name des Betriebes, in dem der Antragsteller tätig ist, und im Fall
     eines Winterquartiers dessen Anschrift,
 
-
 3.  Name des Inhabers des Betriebes nach Nummer 2,
-
 
 4.  die Räume und die Einrichtungen, die für die Tätigkeit bestimmt sind,
 
-
 5.  die Art der betroffenen Tiere und
-
 
 6.  Name, Anschrift, Geburtsdatum und Geburtsort der für die Tätigkeit
     verantwortlichen Person.
-
-
-
 
 (2) Die kontrollierende Behörde erhebt, soweit diese der erteilenden
 Behörde nicht vorliegen oder der Aktualisierung bedürfen, bei der
 Kontrolle eines in Absatz 1 Nr. 2 genannten Betriebes folgende Daten:
 
-1.  die jeweilige Anzahl der Tiere einer Art, die vom Erlaubnisinhaber zu
-    den in § 11 Absatz 1 Satz 1 Nummer 8 Buchstabe d genannten Zwecken
+1.  die jeweilige Anzahl der Tiere einer Art, die vom Erlaubnisinhaber
+    zu den in § 11 Absatz 1 Satz 1 Nummer 8 Buchstabe d genannten Zwecken
     gehalten werden sowie deren Kennzeichnung, soweit eine solche durch
     die Erlaubnis nach § 11 Absatz 1 Satz 1 des Tierschutzgesetzes
     vorgeschrieben ist,
 
-
 2.  die in Absatz 1 genannten Daten.
-
-
-
 
 
 ## § 4 Datenverwendung
@@ -113,54 +96,44 @@ Verfahren folgende Daten:
 1.  Inhalt der Erlaubnis nach § 11 Absatz 1 Satz 1 Nummer 8 Buchstabe d
     des Tierschutzgesetzes einschließlich der erteilten Nebenbestimmungen,
 
-
 2.  Datum der Ausstellung der Erlaubnis,
-
 
 3.  Bezeichnung und Adresse der die Erlaubnis erteilenden Behörde,
 
-
 4.  Ergebnis der Kontrolle nach § 16 Abs. 1 Nr. 4 des Tierschutzgesetzes
-    mit Namen und Anschrift der verantwortlichen Person im Sinne des § 3
-    Absatz 1 Nummer 6 einschließlich der erlassenen vollziehbaren
+    mit Namen und Anschrift der verantwortlichen Person im Sinne des
+    § 3 Absatz 1 Nummer 6 einschließlich der erlassenen vollziehbaren
     Anordnungen,
-
 
 5.  Datum der Kontrolle,
 
-
 6.  Bezeichnung und Adresse der kontrollierenden Behörde,
-
 
 7.  die Einhaltung der mit einer Erlaubnis nach § 11 Absatz 1 Satz 1
     Nummer 8 Buchstabe d des Tierschutzgesetzes verbundenen vollziehbaren
     Auflagen oder der in Nummer 4 bezeichneten vollziehbaren Anordnungen
     und Maßnahmen des Verwaltungszwangs und
 
-
 8.  die unanfechtbare Ablehnung eines Antrags auf Erteilung einer
     Erlaubnis nach § 11 Absatz 1 Satz 1 Nummer 8 Buchstabe d des
     Tierschutzgesetzes.
 
-
-
-
 (2) Die zuständige Behörde übermittelt die von ihr nach Absatz 1
-gespeicherten Daten an andere für die Aufsicht nach § 16 Abs. 1 Nr. 4
-des Tierschutzgesetzes zuständige Behörden, soweit diese zum Zwecke
+gespeicherten Daten an andere für die Aufsicht nach § 16 Abs. 1 Nr.
+4 des Tierschutzgesetzes zuständige Behörden, soweit diese zum Zwecke
 der Wahrnehmung der Aufgaben der ersuchenden Behörde erforderlich
 sind. Die Übermittlung der Daten nach Satz 1 kann durch Abruf im
 automatisierten Verfahren erfolgen.
 
-(3) Die Verantwortung für die Zulässigkeit des einzelnen Abrufs trägt
-die Behörde, an die übermittelt wird. Die speichernde Behörde prüft
-die Zulässigkeit der Abrufe nur, wenn dazu Anlass besteht. Die
-speichernde Behörde hat zu gewährleisten, dass die Übermittlung
+(3) Die Verantwortung für die Zulässigkeit des einzelnen Abrufs
+trägt die Behörde, an die übermittelt wird. Die speichernde Behörde
+prüft die Zulässigkeit der Abrufe nur, wenn dazu Anlass besteht.
+Die speichernde Behörde hat zu gewährleisten, dass die Übermittlung
 personenbezogener Daten zumindest durch geeignete Stichprobenverfahren
 festgestellt und überprüft werden kann.
 
-(4) Stellt eine Behörde bei Wahrnehmung ihrer Aufgaben fest, dass die
-von einer anderen Behörde gespeicherten Daten unvollständig,
+(4) Stellt eine Behörde bei Wahrnehmung ihrer Aufgaben fest, dass
+die von einer anderen Behörde gespeicherten Daten unvollständig,
 fehlerhaft oder nicht schlüssig sind, so teilt sie dies der anderen
 Behörde mit.
 

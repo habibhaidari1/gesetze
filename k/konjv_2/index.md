@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl I: 1970, 1128
 
 
-
 ## Eingangsformel
 
 Auf Grund des § 51 Abs. 2 des Einkommensteuergesetzes in der Fassung
@@ -38,8 +37,8 @@ worden sind oder mit deren Herstellung der Steuerpflichtige vor diesem
 Zeitraum begonnen hat. Der Nachweis der Bestellung ist insbesondere
 durch eine Anzahlung vor dem Ausschlußzeitraum als erbracht anzusehen.
 
-(2) Die Vorschrift des Absatzes 1 Satz 1 gilt entsprechend für
-bewegliche Wirtschaftsgüter des Anlagevermögens, die vom
+(2) Die Vorschrift des Absatzes 1 Satz 1 gilt entsprechend
+für bewegliche Wirtschaftsgüter des Anlagevermögens, die vom
 Steuerpflichtigen innerhalb des Ausschlußzeitraumes bestellt worden
 sind oder mit deren Herstellung der Steuerpflichtige innerhalb dieses
 Zeitraumes begonnen hat, wenn die Wirtschaftsgüter vor dem 1. Februar
@@ -58,9 +57,9 @@ Zeitpunkt der Herstellung ist der Zeitpunkt der Fertigstellung.
 
 ## § 2 Anwendung im Land Berlin
 
-Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
-4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit Artikel 10
-des Steueränderungsgesetzes 1966 vom 23. Dezember 1966
+Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes
+vom 4. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit
+Artikel 10 des Steueränderungsgesetzes 1966 vom 23. Dezember 1966
 (Bundesgesetzbl. I S. 702) auch im Land Berlin.
 
 

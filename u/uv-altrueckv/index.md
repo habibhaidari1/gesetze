@@ -23,16 +23,16 @@ Zuletzt geändert durch
 
 Auf Grund des § 172c Absatz 3 Satz 1 des Siebten Buches
 Sozialgesetzbuch – Gesetzliche Unfallversicherung –, der durch Artikel
-1 des Gesetzes vom 30. Oktober 2008 (BGBl. I S. 2130) eingefügt worden
-ist, verordnet das Bundesministerium für Arbeit und Soziales im
+1 des Gesetzes vom 30. Oktober 2008 (BGBl. I S. 2130) eingefügt
+worden ist, verordnet das Bundesministerium für Arbeit und Soziales im
 Einvernehmen mit dem Bundesministerium für Ernährung, Landwirtschaft
 und Verbraucherschutz:
 
 
 ## § 1 Bildung der Altersrückstellungen
 
-(1) Altersrückstellungen für den in § 172c Absatz 1 des Siebten Buches
-Sozialgesetzbuch genannten Personenkreis sind in Höhe des
+(1) Altersrückstellungen für den in § 172c Absatz 1 des Siebten
+Buches Sozialgesetzbuch genannten Personenkreis sind in Höhe des
 versicherungsmathematischen Barwerts der Versorgungsleistungen zu
 bilden, die auf Grund bereits geleisteter Beschäftigungszeiten zu
 erwarten sind. Der Abzug eines Barwerts fiktiver, auf den Beginn des
@@ -46,8 +46,8 @@ geleisteter Beschäftigungszeiten von einer öffentlich-rechtlichen
 Versorgungseinrichtung zu erwarten sind, keine Rückstellungen nach
 Absatz 1 zu bilden.
 
-(3) In den Fällen des § 219a Absatz 4 Satz 2 des Siebten Buches
-Sozialgesetzbuch ist das Deckungskapital, das bei einem
+(3) In den Fällen des § 219a Absatz 4 Satz 2 des Siebten
+Buches Sozialgesetzbuch ist das Deckungskapital, das bei einem
 aufsichtspflichtigen Unternehmen im Sinne des § 1 Absatz 1 Nummer 1
 und 5 des Versicherungsaufsichtsgesetzes für Versorgungsleistungen
 gebildet worden ist, auf die Rückstellungen nach Absatz 1 anzurechnen.
@@ -58,21 +58,14 @@ die nachfolgenden Annahmen zugrunde zu legen:
 
 1.  Rechnungszins in Höhe von 4,25 Prozent,
 
-
 2.  jährlicher Anstieg der ruhegehaltsfähigen Dienstbezüge um 1,5 Prozent,
 
-
 3.  jährlicher Anstieg der Versorgungsbezüge um 1 Prozent,
-
 
 4.  Zuschlagssatz für Beihilfeaufwendungen in Höhe von 12 Prozent der
     Ausgaben für Versorgungsbezüge,
 
-
 5.  Festsetzung der Regelaltersgrenze nach Geburtsjahrgang.
-
-
-
 
 (5) Die Zuführungen erfolgen jährlich auf Grundlage der
 Barwertberechnung nach den Absätzen 1, 3 und 4.
@@ -108,20 +101,17 @@ hat, ist § 1 Absatz 1 mit der Maßgabe anzuwenden, dass
     Jahresprämien zulässig ist, wenn die Voraussetzung des § 1 Absatz 1
     Satz 2 erfüllt ist,
 
-
 2.  für Personen, die noch keine Versorgungsleistungen beziehen,
     verminderte Altersrückstellungen gebildet werden können, wobei der
     Abzug höchstens 75 Prozent betragen darf.
 
-
-
-In den Jahren 2010 bis 2029 können die Altersrückstellungen für die in
-Satz 1 genannten Personen in Höhe der angesammelten planmäßigen
+In den Jahren 2010 bis 2029 können die Altersrückstellungen für die
+in Satz 1 genannten Personen in Höhe der angesammelten planmäßigen
 Zuführungen nach den Sätzen 3 bis 5 sowie der hieraus erzielten
 Kapitalerträge gebildet werden. Die Unfallversicherungsträger
-ermitteln bis zum 31. Dezember 2010 die voraussichtliche Höhe der
-Altersrückstellungen zum 31. Dezember 2029, um auf dieser Grundlage
-durch einen Zuführungsplan die Bildung entsprechender
+ermitteln bis zum 31. Dezember 2010 die voraussichtliche Höhe
+der Altersrückstellungen zum 31. Dezember 2029, um auf dieser
+Grundlage durch einen Zuführungsplan die Bildung entsprechender
 Altersrückstellungen und Deckungsmittel bis zum 31. Dezember 2029
 sicherzustellen. Dabei ist anzustreben, dass die Zuführungen in jedem
 Jahr die gleiche Höhe aufweisen. Im Rahmen der Überprüfungen nach § 2

@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Meldung und die Abgabe von Biozid-Produkten sowie zur Durchführung
-  der Verordnung (EU) Nr. 528/2012
+Title: Verordnung über die Meldung und die Abgabe von Biozid-Produkten sowie zur Durchführung der Verordnung (EU) Nr. 528/2012
 jurabk: ChemBiozidDV
 layout: default
 origslug: chembioziddv
@@ -22,9 +21,9 @@ Fundstelle
 
 ### § 1 Anwendungsbereich
 
-Diese Verordnung gilt für Biozid-Produkte im Sinne von § 3 Nummer 11
-des Chemikaliengesetzes in der Fassung der Bekanntmachung vom 28.
-August 2013 (BGBl. I S. 3498, 3991), das zuletzt durch Artikel 1 des
+Diese Verordnung gilt für Biozid-Produkte im Sinne von § 3 Nummer
+11 des Chemikaliengesetzes in der Fassung der Bekanntmachung vom 28.
+August 2013 (BGBl. I S. 3498, 3991), das zuletzt durch Artikel 1 des
 Gesetzes vom 3. Juni 2021 (BGBl. I S. 1479) geändert worden ist.
 
 
@@ -35,33 +34,27 @@ Im Sinne dieser Verordnung ist:
 1.  Abgabe: die Übergabe oder der Versand an den Erwerber oder die
     Empfangsperson,
 
-
 2.  Abgebende Person: eine natürliche Person, die eine Abgabe durchführt,
-
 
 3.  Erwerber: eine natürliche oder juristische Person, in deren Eigentum
     oder Verfügungsgewalt die Ware durch die Abgabe übergeht,
 
-
 4.  Empfangsperson: eine vom Erwerber beauftragte natürliche Person, die
     die Ware bei der Abgabe entgegennimmt,
 
-
 5.  Einführer: eine natürliche oder juristische Person oder eine nicht
     rechtsfähige Personenvereinigung, die ein Biozid-Produkt in den
-    Geltungsbereich dieser Verordnung verbringt; kein Einführer ist, wer
-    lediglich einen Transitverkehr unter zollamtlicher Überwachung
+    Geltungsbereich dieser Verordnung verbringt; kein Einführer ist,
+    wer lediglich einen Transitverkehr unter zollamtlicher Überwachung
     durchführt, soweit keine Be- oder Verarbeitung erfolgt.
-
-
 
 Die Begriffsbestimmungen nach Artikel 3 Absatz 1 und 2 der Verordnung
 (EU) Nr. 528/2012 des Europäischen Parlaments und des Rates vom 22.
 Mai 2012 über die Bereitstellung auf dem Markt und die Verwendung von
-Biozidprodukten (ABl. L 167 vom 27.6.2012, S. 1; L 303 vom 20.11.2015,
-S. 109; L 280 vom 28.10.2017, S. 57), die zuletzt durch die Verordnung
-(EU) 2019/1825 vom 8. August 2019 (ABl. L 279 vom 31.10.2019, S. 19)
-geändert worden ist, in der jeweils geltenden Fassung, gelten
+Biozidprodukten (ABl. L 167 vom 27.6.2012, S. 1; L 303 vom 20.11.2015,
+S. 109; L 280 vom 28.10.2017, S. 57), die zuletzt durch die Verordnung
+(EU) 2019/1825 vom 8. August 2019 (ABl. L 279 vom 31.10.2019, S.
+19) geändert worden ist, in der jeweils geltenden Fassung, gelten
 ergänzend.
 
 
@@ -88,14 +81,14 @@ werden, wenn das Angebot die Registriernummer enthält.
 
 ### § 4 Meldung eines Biozid-Produkts
 
-(1) Wer als Hersteller oder Einführer eines Biozid-Produkts oder unter
-Verwendung eines eigenen Handelsnamens ein Biozid-Produkt, für das
-nach § 3 Absatz 1 eine Registriernummer benötigt wird, im
+(1) Wer als Hersteller oder Einführer eines Biozid-Produkts oder
+unter Verwendung eines eigenen Handelsnamens ein Biozid-Produkt,
+für das nach § 3 Absatz 1 eine Registriernummer benötigt wird, im
 Geltungsbereich dieser Verordnung erstmals auf dem Markt bereitstellt,
 hat das Biozid-Produkt der Bundesstelle für Chemikalien mit den
-Angaben nach Absatz 2 zu melden (Meldepflichtiger). Die Meldung hat
-unter Verwendung des auf der Internetseite der Bundesanstalt für
-Arbeitsschutz und Arbeitsmedizin zur Verfügung gestellten
+Angaben nach Absatz 2 zu melden (Meldepflichtiger). Die Meldung
+hat unter Verwendung des auf der Internetseite der Bundesanstalt
+für Arbeitsschutz und Arbeitsmedizin zur Verfügung gestellten
 elektronischen Formulars zu erfolgen. Die Meldung kann durch einen
 Vertreter mit Sitz im Inland vorgenommen werden. Mit der Meldung wird
 zugleich der Antrag auf Erteilung einer Registriernummer gestellt.
@@ -104,72 +97,51 @@ zugleich der Antrag auf Erteilung einer Registriernummer gestellt.
 
 1.  den Handelsnamen des Biozid-Produkts,
 
-
 2.  den Namen, die Anschrift und die E-Mail-Adresse des Meldepflichtigen
     sowie, falls abweichend, den Namen, die Anschrift und die E-Mail-
     Adresse des Herstellers,
 
-
 3.  die Produktarten nach Anhang V der Verordnung (EU) Nr. 528/2012, denen
     das Biozid-Produkt zuzuordnen ist, und
-
 
 4.  die Bezeichnung der in dem Biozid-Produkt enthaltenen Biozid-
     Wirkstoffe unter Angabe
 
     a)  der Wirkstoffkonzentration und
 
-
     b)  wenn vorhanden,
 
         aa) der Chemical Abstract Service-Nummer (CAS-Nummer) entsprechend dem
-            Eintrag in Anhang II der Delegierten Verordnung (EU) Nr. 1062/2014 der
-            Kommission vom 4. August 2014 über das Arbeitsprogramm zur
+            Eintrag in Anhang II der Delegierten Verordnung (EU) Nr. 1062/2014
+            der Kommission vom 4. August 2014 über das Arbeitsprogramm zur
             systematischen Prüfung aller in Biozidprodukten enthaltenen alten
             Wirkstoffe gemäß der Verordnung (EU) Nr. 528/2012 des Europäischen
-            Parlaments und des Rates (ABl. L 294 vom 10.10.2014, S. 1; L 198 vom
+            Parlaments und des Rates (ABl. L 294 vom 10.10.2014, S. 1; L 198 vom
             28\.7.2015, S. 28), die zuletzt durch die Delegierte Verordnung (EU)
-            2019/227 der Kommission vom 28. November 2018 (ABl. L 37 vom 8.2.2019,
-            S. 1; L 249 vom 26.9.2019, S. 39) geändert worden ist, in der jeweils
+            2019/227 der Kommission vom 28. November 2018 (ABl. L 37 vom 8.2.2019,
+            S. 1; L 249 vom 26.9.2019, S. 39) geändert worden ist, in der jeweils
             geltenden Fassung, und
-
 
         bb) der EG-Nummer entsprechend dem Eintrag in Anhang II der Delegierten
             Verordnung (EU) Nr. 1062/2014,
 
-
-
-
-
-
-
-
-5.  das Datum der Antragstellung eines in § 28 Absatz 8 Satz 2 Nummer 2
-    oder Nummer 3 des Chemikaliengesetzes genannten Antrags und die
+5.  das Datum der Antragstellung eines in § 28 Absatz 8 Satz 2 Nummer
+    2 oder Nummer 3 des Chemikaliengesetzes genannten Antrags und die
     dazugehörige bei der Antragstellung vergebene Fallnummer, sofern ein
     solcher Antrag gestellt wurde,
 
-
-6.  die Angabe, wer gemäß Listung nach Artikel 95 Absatz 1 Unterabsatz 1
-    der Verordnung (EU) Nr. 528/2012 für die Produktart oder die
+6.  die Angabe, wer gemäß Listung nach Artikel 95 Absatz 1 Unterabsatz
+    1 der Verordnung (EU) Nr. 528/2012 für die Produktart oder die
     Produktarten, denen das Biozid-Produkt zuzuordnen ist, handelt als
 
     a)  Stofflieferant des Wirkstoffs, aus dem das Biozid-Produkt besteht, den
         es enthält oder den es erzeugt, oder
 
-
     b)  Produktlieferant des Biozid-Produkts,
-
-
-
-
 
 7.  die Bestätigung, dass das Biozid-Produkt die ihm durch die
     Produktbezeichnung, die Gebrauchsanleitung oder die Produktwerbung
     zugeschriebene Wirkung hat.
-
-
-
 
 
 ### § 5 Erteilung der Registriernummer
@@ -179,18 +151,15 @@ spätestens innerhalb von 30 Tagen nach der Meldung, sofern
 
 1.  die Meldung die Angaben nach § 4 Absatz 2 enthält,
 
-
 2.  das Biozid-Produkt zum Zeitpunkt der Entscheidung über die Erteilung
     der Registriernummer nach Maßgabe von § 28 Absatz 8 Satz 2 des
     Chemikaliengesetzes für alle in der Meldung genannten Produktarten auf
     dem Markt bereitgestellt werden darf,
 
-
 3.  der in der Meldung angegebene Stofflieferant oder Produktlieferant für
-    das Biozid-Produkt in der Liste nach Artikel 95 Absatz 1 Unterabsatz 1
-    der Verordnung (EU) Nr. 528/2012 mit der Produktart oder den
+    das Biozid-Produkt in der Liste nach Artikel 95 Absatz 1 Unterabsatz
+    1 der Verordnung (EU) Nr. 528/2012 mit der Produktart oder den
     Produktarten des Biozid-Produkts aufgeführt ist und
-
 
 4.  alle in der Meldung genannten Produktarten
 
@@ -198,15 +167,9 @@ spätestens innerhalb von 30 Tagen nach der Meldung, sofern
         betreffenden Wirkstoff genannten Produktarten entsprechen, sofern der
         jeweilige Wirkstoff darin aufgeführt ist, oder
 
-
-    b)  den Produktarten, für die der betreffende Wirkstoff gemäß Artikel 18
-        der Delegierten Verordnung (EU) Nr. 1062/2014 in das Prüfprogramm
+    b)  den Produktarten, für die der betreffende Wirkstoff gemäß Artikel
+        18 der Delegierten Verordnung (EU) Nr. 1062/2014 in das Prüfprogramm
         einbezogen wurde, entsprechen.
-
-
-
-
-
 
 Die Erteilung der Registriernummer nach Satz 1 kann vollständig durch
 automatische Einrichtungen erfolgen.
@@ -275,64 +238,50 @@ Biozid-Produkt hat:
     gemäß der durch die Zulassung vorgegebenen Kennzeichnung nicht durch
     die breite Öffentlichkeit gestattet sind.
 
-
-2.  Biozid-Produkte, die nicht unter Nummer 1 fallen und die den folgenden
+2.  Biozid-Produkte, die nicht unter Nummer 1 fallen und die den folgenden
     Produktarten des Anhangs V der Verordnung (EU) Nr. 528/2012 zuzuordnen
     sind:
 
     a)  Produktart 14 „Rodentizide“ (Produkte zur Bekämpfung von Mäusen,
-        Ratten und anderen Nagetieren durch andere Mittel als Fernhaltung oder
-        Köderung),
-
+        Ratten und anderen Nagetieren durch andere Mittel als Fernhaltung
+        oder Köderung),
 
     b)  Produktart 18 „Insektizide, Akarizide und Produkte gegen andere
         Arthropoden“ (Produkte zur Bekämpfung von Arthropoden (zum Beispiel
         Insekten, Spinnentiere und Schalentiere) durch andere Mittel als
         Fernhaltung oder Köderung) sowie
 
-
     c)  Produktart 21 „Antifouling-Produkte“ (Produkte zur Bekämpfung des
         Wachstums und der Ansiedlung von bewuchsbildenden Organismen (Mikroben
         und höhere Pflanzen- und Tierarten) an Wasserfahrzeugen, Ausrüstung
         für die Aquakultur und anderen im Wasser eingesetzten Bauten).
 
-
-
-
-
-
-
 (2) Biozid-Produkte, die nicht Absatz 1 unterfallen und die den
 folgenden Produktarten des Anhangs V der Verordnung (EU) Nr. 528/2012
 zuzuordnen sind, dürfen nur angeboten und abgegeben werden, wenn durch
-organisatorische Maßnahmen sichergestellt ist, dass vor Abschluss des
-Kaufvertrags durch eine Person, die die Anforderungen des § 13
+organisatorische Maßnahmen sichergestellt ist, dass vor Abschluss
+des Kaufvertrags durch eine Person, die die Anforderungen des § 13
 erfüllt, ein Abgabegespräch mit den Inhalten des § 11 Absatz 2 Nummer
 2 stattfindet und § 11 Absatz 2 Nummer 1 eingehalten wird:
 
-1.  Produktart 7 „Beschichtungsschutzmittel“ (Produkte zum Schutz von
-    Beschichtungen oder Überzügen gegen mikrobielle Schädigung oder
-    Algenwachstum zwecks Erhaltung der ursprünglichen
+1.  Produktart 7 „Beschichtungsschutzmittel“ (Produkte zum Schutz
+    von Beschichtungen oder Überzügen gegen mikrobielle Schädigung
+    oder Algenwachstum zwecks Erhaltung der ursprünglichen
     Oberflächeneigenschaften von Stoffen oder Gegenständen wie Farben,
     Kunststoffen, Dichtungs- und Klebkitten, Bindemitteln, Einbänden,
     Papieren und künstlerischen Werken),
 
-
-2.  Produktart 8 „Holzschutzmittel“ (Produkte zum Schutz von Holz, ab dem
-    Einschnitt im Sägewerk, oder Holzerzeugnissen gegen Befall durch
+2.  Produktart 8 „Holzschutzmittel“ (Produkte zum Schutz von Holz, ab
+    dem Einschnitt im Sägewerk, oder Holzerzeugnissen gegen Befall durch
     holzzerstörende oder die Holzqualität beeinträchtigende Organismen,
     Insekten einbegriffen) sowie
 
-
-3.  Produktart 10 „Schutzmittel für Baumaterialien“ (Produkte zum Schutz
+3.  Produktart 10 „Schutzmittel für Baumaterialien“ (Produkte zum Schutz
     von Mauerwerk, Verbundwerkstoffen oder anderen Baumaterialien außer
     Holz gegen Befall durch Schadmikroorganismen und Algen).
 
-
-
-
-(3) Die Absätze 1 und 2 gelten nicht für BiozidProdukte, die nach
-Artikel 25 der Verordnung (EU) Nr. 528/2012 im vereinfachten
+(3) Die Absätze 1 und 2 gelten nicht für BiozidProdukte, die
+nach Artikel 25 der Verordnung (EU) Nr. 528/2012 im vereinfachten
 Zulassungsverfahren zugelassenen wurden. Ein Abgabegespräch nach
 Absatz 2 ist nicht erforderlich, wenn der abgebenden Person bekannt
 ist oder der Erwerber ihr durch Vorlage geeigneter Unterlagen
@@ -349,42 +298,31 @@ Sachkunde nach § 13 erfüllt.
 (2) Biozid-Produkte nach § 10 Absatz 1 dürfen nur abgegeben werden,
 wenn
 
-1.  der abgebenden Person bekannt ist oder sie sich vom Erwerber hat
-    bestätigen oder durch Vorlage entsprechender Unterlagen nachweisen
-    lassen, dass dieser zu der in der Zulassung genannten
-    Verwenderkategorie gehört und die Biozid-Produkte in
+1.  der abgebenden Person bekannt ist oder sie sich vom Erwerber
+    hat bestätigen oder durch Vorlage entsprechender Unterlagen
+    nachweisen lassen, dass dieser zu der in der Zulassung
+    genannten Verwenderkategorie gehört und die Biozid-Produkte in
     bestimmungsgemäßer und sachgerechter Weise verwenden will,
 
-
-2.  im Falle von Biozid-Produkten nach § 10 Absatz 1 Nummer 2 die
+2.  im Falle von Biozid-Produkten nach § 10 Absatz 1 Nummer 2 die
     abgebende Person den Erwerber im Rahmen eines Abgabegesprächs
     unterrichtet hat über
 
     a)  mögliche präventive Maßnahmen zur Bekämpfung von Schadorganismen sowie
         mögliche alternative Maßnahmen mit geringem Risiko,
 
-
-    b)  die bestimmungsgemäße und sachgerechte Anwendung des Biozid-Produkts
-        gemäß der Gebrauchsanweisung, insbesondere über Verbote und
+    b)  die bestimmungsgemäße und sachgerechte Anwendung des Biozid-
+        Produkts gemäß der Gebrauchsanweisung, insbesondere über Verbote und
         Beschränkungen,
-
 
     c)  die mit der Verwendung des Biozid-Produkts verbundenen Risiken und
         mögliche Risikominderungsmaßnahmen,
-
 
     d)  die notwendigen Vorsichtsmaßnahmen beim bestimmungsgemäßen Gebrauch
         und für den Fall des unvorhergesehenen Verschüttens oder Freisetzens
         sowie
 
-
     e)  die sachgerechte Lagerung und ordnungsgemäße Entsorgung.
-
-
-
-
-
-
 
 (3) Weitergehende Regelungen nach der Chemikalien-Verbotsverordnung
 bleiben unberührt.
@@ -400,13 +338,9 @@ Abschluss des Kaufvertrages über das Biozid-Produkt
 1.  die Einhaltung der Voraussetzungen des § 11 Absatz 2 Nummer 1 durch
     eine nach § 13 sachkundige Person überprüft wird und
 
-
 2.  ein fernmündliches oder ein per Videoübertragung geführtes
-    Abgabegespräch nach § 11 Absatz 2 Nummer 2 durch eine nach § 13
+    Abgabegespräch nach § 11 Absatz 2 Nummer 2 durch eine nach § 13
     sachkundige Person nachweisbar erfolgt.
-
-
-
 
 
 ### § 13 Sachkunde für die Abgabe
@@ -421,14 +355,13 @@ die Anforderungen erfüllt nach:
     Fassung, sofern die Sachkunde auch die Abgabe von Biozid-Produkten
     abdeckt,
 
-
 2.  § 9 Absatz 1 Nummer 4 des Pflanzenschutzgesetzes vom 6. Februar 2012
-    (BGBl. I S. 148, 1281), das zuletzt durch Artikel 19 des Gesetzes vom
-    27\. Juli 2021 (BGBl. I S. 3146) geändert worden ist, in der jeweils
-    geltenden Fassung, in Verbindung mit der Pflanzenschutz-
+    (BGBl. I S. 148, 1281), das zuletzt durch Artikel 19 des Gesetzes
+    vom 27. Juli 2021 (BGBl. I S. 3146) geändert worden ist, in der
+    jeweils geltenden Fassung, in Verbindung mit der Pflanzenschutz-
     Sachkundeverordnung vom 27. Juni 2013 (BGBl. I S. 1953), die zuletzt
-    durch Artikel 376 der Verordnung vom 31. August 2015 (BGBl. I S. 1474)
-    geändert worden ist, in der jeweils geltenden Fassung, sofern
+    durch Artikel 376 der Verordnung vom 31. August 2015 (BGBl. I S.
+    1474) geändert worden ist, in der jeweils geltenden Fassung, sofern
     nachgewiesen werden kann, dass eine Fortbildungsveranstaltung nach §
     11 Absatz 1 Nummer 2 der Chemikalien-Verbotsverordnung, die Kenntnisse
     über Biozid-Produkte vermittelt, erstmalig oder wiederholt besucht
@@ -436,19 +369,15 @@ die Anforderungen erfüllt nach:
     Chemikalien-Verbotsverordnung jeweils genannten Zeitraum zurückliegt
     oder
 
-
 3.  § 15c Absatz 3 in Verbindung mit Anhang I Nummer 4.4 der
     Gefahrstoffverordnung vom 26. November 2010 (BGBl. I S. 1643, 1644),
-    die zuletzt durch Artikel 2 der Verordnung vom 21. Juli 2021 (BGBl. I
-    S. 3115) geändert worden ist, sofern sich die Sachkunde auf die
+    die zuletzt durch Artikel 2 der Verordnung vom 21. Juli 2021 (BGBl.
+    I S. 3115) geändert worden ist, sofern sich die Sachkunde auf die
     Produktart bezieht, der das abgegebene Biozid-Produkt zuzuordnen ist.
 
-
-
-
 (2) Nachweise über berufliche Qualifikationen oder erworbene
-Sachkunden, die in anderen Mitgliedstaaten der Europäischen Union oder
-anderen Vertragsstaaten des Abkommens über den Europäischen
+Sachkunden, die in anderen Mitgliedstaaten der Europäischen Union
+oder anderen Vertragsstaaten des Abkommens über den Europäischen
 Wirtschaftsraum ausgestellt worden sind, erfüllen die Anforderungen
 nach Absatz 1, soweit die für die Anerkennung der Gleichwertigkeit
 zuständige Behörde die Gleichwertigkeit festgestellt hat.
@@ -471,11 +400,8 @@ strengen Maßstabs in besonderem Maße zu berücksichtigen,
 1.  ob die Bekämpfung der betreffenden Wirbeltierart durch den Einsatz
     eines Biozid-Produkts zwingend erforderlich ist und
 
-
 2.  in welchem Ausmaß Auswirkungen auf Nichtzielorganismen vermieden
     werden.
-
-
 
 Die Zulassung ist auf die Verwendung durch geschulte berufsmäßige
 Verwender zu begrenzen.
@@ -501,38 +427,29 @@ erforderlich ist.
 ### § 16 Mitteilung über auf dem Markt bereitgestellte Biozid-Produkte
 
 (1) Wer als Hersteller oder Einführer ein Biozid-Produkt im
-Geltungsbereich dieser Verordnung auf dem Markt bereitstellt oder ein
-im Geltungsbereich dieser Verordnung hergestelltes Biozid-Produkt aus
-diesem ausführt, hat jährlich bis zum Ablauf des 31. März bei der
-Bundesstelle für Chemikalien für das vorangegangene Kalenderjahr
+Geltungsbereich dieser Verordnung auf dem Markt bereitstellt oder
+ein im Geltungsbereich dieser Verordnung hergestelltes Biozid-Produkt
+aus diesem ausführt, hat jährlich bis zum Ablauf des 31. März bei
+der Bundesstelle für Chemikalien für das vorangegangene Kalenderjahr
 Folgendes mitzuteilen:
 
 1.  die Art und Menge der Biozid-Produkte, die er an Empfänger mit
-    Wohnsitz oder Sitz im Inland abgegeben hat oder die er ausgeführt hat,
-    und
-
+    Wohnsitz oder Sitz im Inland abgegeben hat oder die er ausgeführt
+    hat, und
 
 2.  die in den abgegebenen oder ausgeführten Biozid-Produkten enthaltenen
     Wirkstoffe.
-
-
-
 
 (2) Die Mitteilung hat für jedes Biozid-Produkt getrennt zu erfolgen
 und unter Angabe
 
 1.  des Handelsnamens,
 
-
 2.  der Registriernummer nach § 3 Absatz 1 und
 
-
 3.  der bei der Antragstellung vergebenen Fallnummer oder der
-    Zulassungsnummer nach Artikel 22 Absatz 2 Buchstabe d der Verordnung
+    Zulassungsnummer nach Artikel 22 Absatz 2 Buchstabe d der Verordnung
     (EU) Nr. 528/2012.
-
-
-
 
 (3) Die Mitteilung hat elektronisch unter Verwendung eines von der
 Bundesstelle für Chemikalien auf der Internetseite der Bundesanstalt
@@ -545,48 +462,36 @@ erfolgen.
 
 ### § 17 Straftaten und Ordnungswidrigkeiten
 
-(1) Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 7 Buchstabe b des
+(1) Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 7 Buchstabe b des
 Chemikaliengesetzes handelt, wer vorsätzlich oder fahrlässig
 
 1.  entgegen § 3 Absatz 2 oder § 10 Absatz 1 oder 2 ein Biozid-Produkt
     anbietet oder
 
-
 2.  entgegen
 
     a)  § 9 Satz 1, § 10 Absatz 1 oder § 11 Absatz 1 oder
 
-
     b)  § 10 Absatz 2 oder § 11 Absatz 2, jeweils auch in Verbindung mit § 12,
-
-
 
     ein Biozid-Produkt abgibt.
 
-
-
-
-(2) Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 10a des
+(2) Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 10a des
 Chemikaliengesetzes handelt, wer vorsätzlich oder fahrlässig
 
 1.  entgegen § 3 Absatz 1 Satz 1, auch in Verbindung mit Satz 2, oder
     entgegen § 6 Absatz 2 Satz 3 ein Biozid-Produkt auf dem Markt
     bereitstellt,
 
-
 2.  entgegen § 4 Absatz 1 Satz 1 eine Meldung nicht, nicht richtig, nicht
     vollständig oder nicht rechtzeitig macht oder
-
 
 3.  entgegen § 6 Absatz 1 Satz 1 eine Meldung nicht, nicht richtig, nicht
     vollständig oder nicht rechtzeitig aktualisiert.
 
-
-
-
-(3) Wer durch eine in Absatz 1 bezeichnete vorsätzliche Handlung das
-Leben oder die Gesundheit eines anderen oder fremde Sachen von
-bedeutendem Wert gefährdet, ist nach § 27 Absatz 2 des
+(3) Wer durch eine in Absatz 1 bezeichnete vorsätzliche Handlung
+das Leben oder die Gesundheit eines anderen oder fremde Sachen
+von bedeutendem Wert gefährdet, ist nach § 27 Absatz 2 des
 Chemikaliengesetzes strafbar.
 
 

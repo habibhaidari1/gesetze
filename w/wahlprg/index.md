@@ -43,12 +43,12 @@ erklärt.
 Wahlberechtigten und in amtlicher Eigenschaft jeder Landeswahlleiter,
 der Bundeswahlleiter und der Präsident des Bundestages einlegen.
 
-(3) Der Einspruch ist schriftlich beim Bundestag einzureichen und zu
-begründen; bei gemeinschaftlichen Einsprüchen soll ein
+(3) Der Einspruch ist schriftlich beim Bundestag einzureichen
+und zu begründen; bei gemeinschaftlichen Einsprüchen soll ein
 Bevollmächtigter benannt werden.
 
-(4) Der Einspruch muß binnen einer Frist von zwei Monaten nach dem
-Wahltag beim Bundestag eingehen. Werden dem Präsidenten des
+(4) Der Einspruch muß binnen einer Frist von zwei Monaten nach
+dem Wahltag beim Bundestag eingehen. Werden dem Präsidenten des
 Bundestages nach Ablauf dieser Frist in amtlicher Eigenschaft Umstände
 bekannt, die einen Wahlmangel begründen könnten, kann er innerhalb
 eines Monats nach Bekanntwerden dieser Umstände Einspruch einlegen.
@@ -68,14 +68,14 @@ Wahlprüfungsausschuß vorbereitet.
 (2) Der Wahlprüfungsausschuß besteht aus neun ordentlichen
 Mitgliedern, neun Stellvertretern und je einem ständigen beratenden
 Mitglied der Fraktionen, die in ihm nicht durch ordentliche Mitglieder
-vertreten sind. Der Bundestag kann aus der Mitte einer Vereinigung von
-Mitgliedern des Bundestages, die nach der Geschäftsordnung des
-Bundestages als parlamentarische Gruppe anerkannt ist, zusätzlich ein
-beratendes Mitglied wählen. Der Wahlprüfungsausschuß wird vom
+vertreten sind. Der Bundestag kann aus der Mitte einer Vereinigung
+von Mitgliedern des Bundestages, die nach der Geschäftsordnung des
+Bundestages als parlamentarische Gruppe anerkannt ist, zusätzlich
+ein beratendes Mitglied wählen. Der Wahlprüfungsausschuß wird vom
 Bundestag für die Dauer der Wahlperiode gewählt.
 
-(3) Der Wahlprüfungsausschuß wählt mit Stimmenmehrheit aus seiner
-Mitte den Vorsitzenden und seinen Stellvertreter. Bei
+(3) Der Wahlprüfungsausschuß wählt mit Stimmenmehrheit aus
+seiner Mitte den Vorsitzenden und seinen Stellvertreter. Bei
 Stimmengleichheit entscheidet die Stimme des ältesten Mitglieds.
 
 
@@ -91,11 +91,11 @@ Stimmengleichheit ist ein Antrag abgelehnt.
 (1) Der Vorsitzende bestimmt für jeden Einspruch einen
 Berichterstatter.
 
-(2) Der Ausschuss tritt in eine Vorprüfung ein, insbesondere darüber,
-ob der Einspruch form- und fristgerecht eingelegt ist und ob Termin
-zur mündlichen Verhandlung anzuberaumen ist. Findet eine mündliche
-Verhandlung statt, so ist der Verhandlungstermin durch die Vorprüfung
-so vorzubereiten, dass möglichst nach einem einzigen
+(2) Der Ausschuss tritt in eine Vorprüfung ein, insbesondere
+darüber, ob der Einspruch form- und fristgerecht eingelegt ist und
+ob Termin zur mündlichen Verhandlung anzuberaumen ist. Findet eine
+mündliche Verhandlung statt, so ist der Verhandlungstermin durch
+die Vorprüfung so vorzubereiten, dass möglichst nach einem einzigen
 Verhandlungstermin die Schlussentscheidung erfolgen kann.
 
 (3) Im Rahmen der Vorprüfung ist der Ausschuß berechtigt, Auskünfte
@@ -109,8 +109,8 @@ Ermittlungen, die über die Einholung von Auskünften hinausgehen, in
 der Regel nur dann durch, wenn eine Auswirkung der Rechtsverletzung
 auf die Verteilung der Sitze im Bundestag nicht auszuschließen ist.
 
-(4) Alle Gerichte und Verwaltungsbehörden haben dem Ausschuß Rechts-
-und Amtshilfe zu leisten. Bei Vernehmung von Zeugen und
+(4) Alle Gerichte und Verwaltungsbehörden haben dem Ausschuß
+Rechts- und Amtshilfe zu leisten. Bei Vernehmung von Zeugen und
 Sachverständigen sind die Beteiligten des § 6 Abs. 2 eine Woche vorher
 zu benachrichtigen; sie haben das Recht, Fragen stellen zu lassen und
 den Vernommenen Vorhalte zu machen.
@@ -134,21 +134,14 @@ Bevollmächtigten (§ 2 Abs. 3) oder eines der Antragsteller.
 
 a)  der Präsident des Bundestages,
 
-
 b)  der Bundesminister des Innern, für Bau und Heimat,
-
 
 c)  der Bundeswahlleiter,
 
-
 d)  der zuständige Landeswahlleiter,
-
 
 e)  die Fraktion des Bundestages, der der Abgeordnete angehört, dessen
     Wahl angefochten ist.
-
-
-
 
 (4) Die nach den Absätzen 2 und 3 genannten Personen sind Beteiligte
 an dem Verfahren. Sie haben ein selbständiges Antragsrecht.
@@ -167,8 +160,8 @@ Abgeordnete, dessen Wahl angefochten ist, das Wort.
 
 (2) Etwa geladene Zeugen und Sachverständige sind zu hören und, falls
 der Ausschuß dies für geboten hält, zu beeidigen. Die Beteiligten
-haben das Recht, Zeugen und Sachverständigen Fragen vorlegen zu
-lassen. Nach Abschluß einer etwaigen Beweisaufnahme ist den
+haben das Recht, Zeugen und Sachverständigen Fragen vorlegen
+zu lassen. Nach Abschluß einer etwaigen Beweisaufnahme ist den
 Beteiligten Gelegenheit zu Ausführungen zu geben. Das Schlußwort
 gebührt dem Anfechtenden.
 
@@ -233,9 +226,9 @@ werden.
 ## § 13
 
 (1) Der Bundestag beschließt über den Antrag des Ausschusses mit
-einfacher Mehrheit. Soweit er ihm nicht zustimmt, gilt er als an den
-Ausschuß zurückverwiesen. Dabei kann der Bundestag dem Ausschuß die
-Nachprüfung bestimmter tatsächlicher oder rechtlicher Umstände
+einfacher Mehrheit. Soweit er ihm nicht zustimmt, gilt er als an
+den Ausschuß zurückverwiesen. Dabei kann der Bundestag dem Ausschuß
+die Nachprüfung bestimmter tatsächlicher oder rechtlicher Umstände
 aufgeben.
 
 (2) Der Ausschuß hat nach neuer Schlussentscheidung dem Bundestag
@@ -250,9 +243,9 @@ genügt.
 ## § 14
 
 Ergeben sich Zweifel, ob ein Abgeordneter im Zeitpunkt der Wahl
-wählbar war, so kann auch nach Ablauf der Einspruchsfrist (§ 2 Abs. 4)
-der Präsident des Bundestages Einspruch gegen die Gültigkeit der Wahl
-einlegen. Er muß dies tun, wenn eine Minderheit von einhundert
+wählbar war, so kann auch nach Ablauf der Einspruchsfrist (§ 2 Abs.
+4) der Präsident des Bundestages Einspruch gegen die Gültigkeit der
+Wahl einlegen. Er muß dies tun, wenn eine Minderheit von einhundert
 Abgeordneten es verlangt.
 
 
@@ -271,8 +264,8 @@ Abs. 1 und 3 des Bundeswahlgesetzes), jederzeit gestellt werden.
 
 (1) Stellt der Bundestag in den Fällen, in denen über den Verlust der
 Mitgliedschaft im Wahlprüfungsverfahren zu entscheiden ist (§ 47 Abs.
-1 Nr. 1 und 3 des Bundeswahlgesetzes), den Verlust fest, so behält der
-Abgeordnete seine Rechte und Pflichten bis zur Rechtskraft der
+1 Nr. 1 und 3 des Bundeswahlgesetzes), den Verlust fest, so behält
+der Abgeordnete seine Rechte und Pflichten bis zur Rechtskraft der
 Entscheidung.
 
 (2) Der Bundestag kann jedoch mit einer Mehrheit von zwei Dritteln

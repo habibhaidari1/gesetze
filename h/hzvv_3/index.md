@@ -1,6 +1,5 @@
 ---
-Title: Dritte Verordnung über die Versicherung von Arbeitnehmern in der hüttenknappschaftlichen
-  Zusatzversicherung
+Title: Dritte Verordnung über die Versicherung von Arbeitnehmern in der hüttenknappschaftlichen Zusatzversicherung
 jurabk: HZvV 3
 layout: default
 origslug: hzvv_3
@@ -17,7 +16,6 @@ Fundstelle
 :   BGBl I: 1979, 420
 
 
-
 ## Eingangsformel
 
 Auf Grund des § 1 Abs. 4 Satz 1 des Hüttenknappschaftlichen
@@ -29,20 +27,16 @@ geändert worden ist, wird mit Zustimmung des Bundesrates verordnet:
 ## § 1
 
 In der hüttenknappschaftlichen Zusatzversicherung sind
-pflichtversichert die in der Rentenversicherung der Arbeiter oder in
-der Rentenversicherung der Angestellten versicherten Arbeitnehmer
+pflichtversichert die in der Rentenversicherung der Arbeiter oder
+in der Rentenversicherung der Angestellten versicherten Arbeitnehmer
 einschließlich der zu ihrer Berufsausbildung Beschäftigten
 
 1.  der Firma C. und W. Kreis GmbH & Co. KG, Völklingen/Saar,
 
-
 2.  der Firma C. und W. Kreis GmbH, Völklingen/Saar,
-
 
 3.  der Firma Röchling-Burbach Wohnungs- und Baubetreuungs-GmbH,
     Völklingen/Saar.
-
-
 
 Dies gilt nicht für Personen, die von der Versicherungspflicht in
 dieser Versicherung befreit sind.

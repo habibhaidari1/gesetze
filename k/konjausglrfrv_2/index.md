@@ -1,6 +1,5 @@
 ---
-Title: Zweite Verordnung über die Freigabe von Mitteln aus den Konjunkturausgleichsrücklagen
-  der Haushaltsjahre 1969 und 1970
+Title: Zweite Verordnung über die Freigabe von Mitteln aus den Konjunkturausgleichsrücklagen der Haushaltsjahre 1969 und 1970
 jurabk: KonjAusglRFrV 2
 layout: default
 origslug: konjausglrfrv_2
@@ -17,14 +16,13 @@ Fundstelle
 :   BGBl I: 1975, 2615
 
 
-
 ## Eingangsformel
 
-Auf Grund des § 15 Abs. 5 des Gesetzes zur Förderung der Stabilität
-und des Wachstums der Wirtschaft vom 8. Juni 1967 (Bundesgesetzbl. I
-S. 582), zuletzt geändert durch Artikel 25 des
-Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (Bundesgesetzbl. I
-S. 705), verordnet die Bundesregierung nach Anhörung des
+Auf Grund des § 15 Abs. 5 des Gesetzes zur Förderung der
+Stabilität und des Wachstums der Wirtschaft vom 8. Juni 1967
+(Bundesgesetzbl. I S. 582), zuletzt geändert durch Artikel 25 des
+Zuständigkeitsanpassungs-Gesetzes vom 18. März 1975 (Bundesgesetzbl.
+I S. 705), verordnet die Bundesregierung nach Anhörung des
 Konjunkturrates für die öffentliche Hand mit Zustimmung des
 Bundesrates:
 

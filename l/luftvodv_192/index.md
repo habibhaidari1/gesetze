@@ -1,7 +1,5 @@
 ---
-Title: Hundertzweiundneunzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung
-  von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Regionalflughafen
-  Bautzen)
+Title: Hundertzweiundneunzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Regionalflughafen Bautzen)
 jurabk: LuftVODV 192
 layout: default
 origslug: luftvodv_192
@@ -16,4 +14,7 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BAnz: 1999, Nr 95, 8193
+
+Fundstelle
+:   BAnz: 1999, 8193
 

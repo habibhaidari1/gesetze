@@ -16,7 +16,6 @@ Fundstelle
 :   BAnz: 1969, Nr 138
 
 
-
 ## Eingangsformel
 
 Auf Grund des § 3 des Gesetzes über den Betrieb von
@@ -54,21 +53,13 @@ werden:
         N (nach VDE 0875/8.66) von 200 kHz bis 150 kHz nach niederen
         Frequenzen hin ergeben.
 
-
     b)  im Frequenzbereich von 150 kHz bis 30.000 kHz gelten die Grenzwerte
         des "Funkstörgrads N" (nach VDE 0875/8.66).
-
-
-
-
 
 2.  Grenzwerte der Störfeldstärke
 
     Im Frequenzbereich 30 MHz und mehr gelten in 10 Meter Meßentfernung
     vom Fahrzeug 40 Mikrovolt pro Meter.
-
-
-
 
 (2) Geräte der in § 1 genannten Art, welche die Auflagen unter Absatz
 1 Nr. 1 und/oder Absatz 1 Nr. 2 nicht einhalten, sind fristgerecht
@@ -83,8 +74,8 @@ sie auf Aufforderung der Deutschen Bundespost außer Betrieb zu setzen.
 genommen werden, wenn nachgewiesen wurde, daß sie den vorstehend unter
 Absatz 1 Nr. 1 und 2 genannten Erfordernissen genügen.
 
-(5) Liegen Anhaltspunkte dafür vor, daß die Auflagen unter Absatz 1
-Nr. 1 und 2 nicht eingehalten und/oder Funkstörungen verursacht
+(5) Liegen Anhaltspunkte dafür vor, daß die Auflagen unter Absatz
+1 Nr. 1 und 2 nicht eingehalten und/oder Funkstörungen verursacht
 werden, so ist den Beauftragten der Deutschen Bundespost in den
 verkehrsüblichen Zeiten Zutritt zu den Fahrzeugen oder Räumen zu
 gestatten, in denen sich Geräte der in § 1 genannten Art befinden.

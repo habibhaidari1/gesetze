@@ -16,11 +16,10 @@ Fundstelle
 :   BGBl I: 2006, 1700
 
 
-
 ## Eingangsformel
 
-Auf Grund des § 1 Abs. 1 Satz 1, auch in Verbindung mit § 2 Abs. 2 des
-Bundesschuldenwesengesetzes vom 12. Juli 2006 (BGBl. I S. 1466)
+Auf Grund des § 1 Abs. 1 Satz 1, auch in Verbindung mit § 2 Abs. 2
+des Bundesschuldenwesengesetzes vom 12. Juli 2006 (BGBl. I S. 1466)
 verordnet das Bundesministerium der Finanzen:
 
 
@@ -35,8 +34,8 @@ Wahrnehmung im Namen des Bundes und seiner Sondervermögen übertragen.
 
 Das Bundesministerium der Finanzen kann einzelne oder alle
 übertragenen Aufgaben vorübergehend selbst wahrnehmen oder auf eine
-Behörde in seinem Geschäftsbereich oder einen Dritten übertragen, wenn
-auf andere Weise die recht- und zweckmäßige Wahrnehmung der
+Behörde in seinem Geschäftsbereich oder einen Dritten übertragen,
+wenn auf andere Weise die recht- und zweckmäßige Wahrnehmung der
 übertragenen Aufgaben nicht sichergestellt werden kann.
 
 

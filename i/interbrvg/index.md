@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2015, 1042
 
+Geändert durch
+:   Art. 9 G v. 10.12.2025 I Nr. 320
+
 
 ## Abschnitt 1 - Anwendungsbereich
 
@@ -22,15 +25,10 @@ Fundstelle
 ### § 1 Anwendungsbereich
 
 (1) Dieses Gesetz regelt die Durchführung der Verordnung (EU) Nr.
-650/2012 des Europäischen Parlaments und des Rates vom 4. Juli 2012
-über die Zuständigkeit, das anzuwendende Recht, die Anerkennung und
-Vollstreckung von Entscheidungen und die Annahme und Vollstreckung
-öffentlicher Urkunden in Erbsachen sowie zur Einführung eines
-Europäischen Nachlasszeugnisses.
+650/2012.
 
 (2) Mitgliedstaaten im Sinne dieses Gesetzes sind die Mitgliedstaaten
-der Europäischen Union mit Ausnahme Dänemarks, Irlands und des
-Vereinigten Königreichs.
+der Europäischen Union mit Ausnahme Dänemarks und Irlands.
 
 
 ## Abschnitt 2 - Bürgerliche Streitigkeiten
@@ -48,12 +46,8 @@ der deutschen Gerichte aus den folgenden Vorschriften der Verordnung
     Alternative 1 und mit Artikel 5 Absatz 1 Alternative 1 der Verordnung
     (EU) Nr. 650/2012 oder
 
-
 2.  Artikel 7 Buchstabe b Alternative 1 in Verbindung mit Artikel 5 Absatz
     1 Alternative 1 der Verordnung (EU) Nr. 650/2012.
-
-
-
 
 (2) Ergibt sich die internationale Zuständigkeit der deutschen
 Gerichte aus Artikel 7 Buchstabe c der Verordnung (EU) Nr. 650/2012,
@@ -61,25 +55,25 @@ ist das Gericht örtlich ausschließlich zuständig, dessen Zuständigkeit
 die Verfahrensparteien ausdrücklich anerkannt haben.
 
 (3) Ergibt sich die internationale Zuständigkeit der deutschen
-Gerichte aus Artikel 9 Absatz 1 der Verordnung (EU) Nr. 650/2012 in
-Verbindung mit den in den vorstehenden Absätzen aufgeführten
+Gerichte aus Artikel 9 Absatz 1 der Verordnung (EU) Nr. 650/2012
+in Verbindung mit den in den vorstehenden Absätzen aufgeführten
 Vorschriften der Verordnung (EU) Nr. 650/2012, ist das Gericht, das
 seine Zuständigkeit nach den Absätzen 1 oder 2 ausübt, weiterhin
 örtlich ausschließlich zuständig.
 
 (4) Ergibt sich die internationale Zuständigkeit der deutschen
-Gerichte aus anderen Vorschriften des Kapitels II der Verordnung (EU)
-Nr. 650/2012, ist das Gericht örtlich zuständig, in dessen Bezirk der
-Erblasser im Zeitpunkt seines Todes seinen gewöhnlichen Aufenthalt
-hatte. Hatte der Erblasser im Zeitpunkt seines Todes seinen
+Gerichte aus anderen Vorschriften des Kapitels II der Verordnung
+(EU) Nr. 650/2012, ist das Gericht örtlich zuständig, in dessen
+Bezirk der Erblasser im Zeitpunkt seines Todes seinen gewöhnlichen
+Aufenthalt hatte. Hatte der Erblasser im Zeitpunkt seines Todes seinen
 gewöhnlichen Aufenthalt nicht im Inland, ist das Gericht örtlich
 zuständig, in dessen Bezirk der Erblasser seinen letzten gewöhnlichen
 Aufenthalt im Inland hatte. Hatte der Erblasser keinen gewöhnlichen
 Aufenthalt im Inland, ist das Amtsgericht Schöneberg in Berlin örtlich
 zuständig.
 
-(5) Mit Ausnahme der §§ 27 und 28 der Zivilprozessordnung gelten neben
-Absatz 4 auch die Vorschriften in den Titeln 2 und 3 des Ersten
+(5) Mit Ausnahme der §§ 27 und 28 der Zivilprozessordnung gelten
+neben Absatz 4 auch die Vorschriften in den Titeln 2 und 3 des Ersten
 Abschnitts des Ersten Buches der Zivilprozessordnung.
 
 
@@ -94,9 +88,9 @@ Abschnitts des Ersten Buches der Zivilprozessordnung.
 (1) Sachlich zuständig für die Vollstreckbarerklärung von Titeln aus
 einem anderen Mitgliedstaat ist ausschließlich das Landgericht.
 
-(2) Örtlich zuständig ist ausschließlich das Gericht, in dessen Bezirk
-der Schuldner seinen Wohnsitz hat oder in dessen Bezirk die
-Zwangsvollstreckung durchgeführt werden soll. Der Sitz von
+(2) Örtlich zuständig ist ausschließlich das Gericht, in dessen
+Bezirk der Schuldner seinen Wohnsitz hat oder in dessen Bezirk
+die Zwangsvollstreckung durchgeführt werden soll. Der Sitz von
 Gesellschaften und juristischen Personen steht dem Wohnsitz gleich.
 
 (3) Über den Antrag auf Erteilung der Vollstreckungsklausel
@@ -104,8 +98,8 @@ entscheidet der Vorsitzende einer Zivilkammer.
 
 (4) In einem Verfahren, das die Vollstreckbarerklärung einer
 notariellen Urkunde zum Gegenstand hat, kann diese Urkunde auch von
-einem Notar für vollstreckbar erklärt werden. Die Vorschriften für das
-Verfahren der Vollstreckbarerklärung durch ein Gericht gelten
+einem Notar für vollstreckbar erklärt werden. Die Vorschriften für
+das Verfahren der Vollstreckbarerklärung durch ein Gericht gelten
 sinngemäß.
 
 
@@ -146,13 +140,13 @@ nicht erforderlich.
 
 #### § 6 Vollstreckbarkeit ausländischer Titel in Sonderfällen
 
-Hängt die Zwangsvollstreckung nach dem Inhalt des Titels von einer dem
-Gläubiger obliegenden Sicherheitsleistung, dem Ablauf einer Frist oder
-dem Eintritt einer anderen Tatsache ab oder wird die
+Hängt die Zwangsvollstreckung nach dem Inhalt des Titels von einer
+dem Gläubiger obliegenden Sicherheitsleistung, dem Ablauf einer
+Frist oder dem Eintritt einer anderen Tatsache ab oder wird die
 Vollstreckungsklausel zugunsten eines anderen als des in dem Titel
 bezeichneten Gläubigers oder gegen einen anderen als den darin
-bezeichneten Schuldner beantragt, so ist die Frage, inwieweit die
-Zulassung der Zwangsvollstreckung von dem Nachweis besonderer
+bezeichneten Schuldner beantragt, so ist die Frage, inwieweit
+die Zulassung der Zwangsvollstreckung von dem Nachweis besonderer
 Voraussetzungen abhängig oder ob der Titel für oder gegen den anderen
 vollstreckbar ist, nach dem Recht des Staates zu entscheiden, in dem
 der Titel errichtet ist.
@@ -181,9 +175,9 @@ Urkundsbeamte der Geschäftsstelle die Vollstreckungsklausel in
 folgender Form:
 „Vollstreckungsklausel nach § 4 des Internationalen
 Erbrechtsverfahrensgesetzes vom 29. Juni 2015 (BGBl. I S. 1042). Gemäß
-dem Beschluss des … (Bezeichnung des Gerichts und des Beschlusses) ist
-die Zwangsvollstreckung aus … (Bezeichnung des Titels) zugunsten …
-(Bezeichnung des Gläubigers) gegen ... (Bezeichnung des Schuldners)
+dem Beschluss des … (Bezeichnung des Gerichts und des Beschlusses)
+ist die Zwangsvollstreckung aus … (Bezeichnung des Titels) zugunsten
+… (Bezeichnung des Gläubigers) gegen ... (Bezeichnung des Schuldners)
 zulässig.
 Die zu vollstreckende Verpflichtung lautet:
 ... (Angabe der dem Schuldner aus dem ausländischen Titel obliegenden
@@ -201,8 +195,8 @@ Leistung einer Sicherheit in Höhe von ... (Angabe des Betrages, wegen
 dessen der Gläubiger vollstrecken darf) abwenden. “
 
 (2) Wird die Zwangsvollstreckung nicht für alle der in dem
-ausländischen Titel niedergelegten Ansprüche oder nur für einen Teil
-des Gegenstands der Verpflichtung zugelassen, so ist die
+ausländischen Titel niedergelegten Ansprüche oder nur für einen
+Teil des Gegenstands der Verpflichtung zugelassen, so ist die
 Vollstreckungsklausel als „Teil-Vollstreckungsklausel nach § 4 des
 Internationalen Erbrechtsverfahrensgesetzes vom 29. Juni 2015 (BGBl. I
 S. 1042)“ zu bezeichnen.
@@ -216,12 +210,12 @@ Titels vorliegt, ist sie mit der Ausfertigung zu verbinden.
 
 #### § 9 Bekanntgabe der Entscheidung
 
-(1) Lässt das Gericht die Zwangsvollstreckung zu (§ 7 Absatz 1), sind
-dem Antragsgegner beglaubigte Abschriften des Beschlusses, des mit der
-Vollstreckungsklausel versehenen Titels und gegebenenfalls seiner
-Übersetzung sowie der gemäß § 7 Absatz 1 Satz 3 in Bezug genommenen
-Urkunden von Amts wegen zuzustellen. Dem Antragsteller sind eine
-beglaubigte Abschrift des Beschlusses, die mit der
+(1) Lässt das Gericht die Zwangsvollstreckung zu (§ 7 Absatz 1),
+sind dem Antragsgegner beglaubigte Abschriften des Beschlusses, des
+mit der Vollstreckungsklausel versehenen Titels und gegebenenfalls
+seiner Übersetzung sowie der gemäß § 7 Absatz 1 Satz 3 in Bezug
+genommenen Urkunden von Amts wegen zuzustellen. Dem Antragsteller
+sind eine beglaubigte Abschrift des Beschlusses, die mit der
 Vollstreckungsklausel versehene Ausfertigung des Titels sowie eine
 Bescheinigung über die bewirkte Zustellung zu übersenden.
 
@@ -254,8 +248,8 @@ zuzustellen.
 zu versehen ist und ohne mündliche Verhandlung ergehen kann. Der
 Beschwerdegegner ist vor der Entscheidung zu hören.
 
-(2) Solange eine mündliche Verhandlung nicht angeordnet ist, können zu
-Protokoll der Geschäftsstelle Anträge gestellt und Erklärungen
+(2) Solange eine mündliche Verhandlung nicht angeordnet ist, können
+zu Protokoll der Geschäftsstelle Anträge gestellt und Erklärungen
 abgegeben werden. Wird die mündliche Verhandlung angeordnet, so gilt
 für die Ladung § 215 der Zivilprozessordnung.
 
@@ -263,13 +257,13 @@ für die Ladung § 215 der Zivilprozessordnung.
 Antragsteller und dem Antragsgegner auch dann von Amts wegen
 zuzustellen, wenn der Beschluss verkündet worden ist.
 
-(4) Soweit auf Grund des Beschlusses die Zwangsvollstreckung aus dem
-Titel erstmals zuzulassen ist, erteilt der Urkundsbeamte der
-Geschäftsstelle des Beschwerdegerichts die Vollstreckungsklausel. § 7
-Absatz 1 Satz 2 und 4 sowie die §§ 8 und 9 Absatz 1 sind entsprechend
-anzuwenden. Ein Zusatz, dass die Zwangsvollstreckung über Maßregeln
-zur Sicherung nicht hinausgehen darf (§ 8 Absatz 1), ist nur
-aufzunehmen, wenn das Beschwerdegericht eine Anordnung nach § 18
+(4) Soweit auf Grund des Beschlusses die Zwangsvollstreckung aus
+dem Titel erstmals zuzulassen ist, erteilt der Urkundsbeamte der
+Geschäftsstelle des Beschwerdegerichts die Vollstreckungsklausel.
+§ 7 Absatz 1 Satz 2 und 4 sowie die §§ 8 und 9 Absatz 1 sind
+entsprechend anzuwenden. Ein Zusatz, dass die Zwangsvollstreckung über
+Maßregeln zur Sicherung nicht hinausgehen darf (§ 8 Absatz 1), ist
+nur aufzunehmen, wenn das Beschwerdegericht eine Anordnung nach § 18
 Absatz 2 erlassen hat. Der Inhalt des Zusatzes bestimmt sich nach dem
 Inhalt der Anordnung.
 
@@ -291,8 +285,8 @@ Zustellung des Beschlusses (§ 11 Absatz 3).
 (1) Die Rechtsbeschwerde wird durch Einreichen der Beschwerdeschrift
 beim Bundesgerichtshof eingelegt.
 
-(2) Die Rechtsbeschwerde ist zu begründen. § 575 Absatz 2 bis 4 der
-Zivilprozessordnung ist entsprechend anzuwenden. Soweit die
+(2) Die Rechtsbeschwerde ist zu begründen. § 575 Absatz 2 bis 4
+der Zivilprozessordnung ist entsprechend anzuwenden. Soweit die
 Rechtsbeschwerde darauf gestützt wird, dass das Beschwerdegericht von
 einer Entscheidung des Gerichtshofs der Europäischen Union abgewichen
 sei, muss die Entscheidung, von der der angefochtene Beschluss
@@ -322,13 +316,13 @@ Zusatz über die Beschränkung der Zwangsvollstreckung entfällt.
 
 #### § 15 Prüfung der Beschränkung
 
-Einwendungen des Schuldners, dass bei der Zwangsvollstreckung die
-Beschränkung auf Sicherungsmaßregeln nach der Verordnung (EU) Nr.
-650/2012 oder auf Grund einer Anordnung gemäß § 18 Absatz 2 nicht
-eingehalten werde, oder Einwendungen des Gläubigers, dass eine
-bestimmte Maßnahme der Zwangsvollstreckung mit dieser Beschränkung
-vereinbar sei, sind im Wege der Erinnerung nach § 766 der
-Zivilprozessordnung bei dem Vollstreckungsgericht (§ 764 der
+Einwendungen des Schuldners, dass bei der Zwangsvollstreckung
+die Beschränkung auf Sicherungsmaßregeln nach der Verordnung (EU)
+Nr. 650/2012 oder auf Grund einer Anordnung gemäß § 18 Absatz
+2 nicht eingehalten werde, oder Einwendungen des Gläubigers,
+dass eine bestimmte Maßnahme der Zwangsvollstreckung mit dieser
+Beschränkung vereinbar sei, sind im Wege der Erinnerung nach § 766
+der Zivilprozessordnung bei dem Vollstreckungsgericht (§ 764 der
 Zivilprozessordnung) geltend zu machen.
 
 
@@ -341,8 +335,8 @@ Sicherheit in Höhe des Betrages abzuwenden, wegen dessen der Gläubiger
 vollstrecken darf.
 
 (2) Die Zwangsvollstreckung ist einzustellen und bereits getroffene
-Vollstreckungsmaßregeln sind aufzuheben, wenn der Schuldner durch eine
-öffentliche Urkunde die zur Abwendung der Zwangsvollstreckung
+Vollstreckungsmaßregeln sind aufzuheben, wenn der Schuldner durch
+eine öffentliche Urkunde die zur Abwendung der Zwangsvollstreckung
 erforderliche Sicherheitsleistung nachweist.
 
 
@@ -352,8 +346,8 @@ Ist eine bewegliche Sache gepfändet und darf die Zwangsvollstreckung
 nicht über Maßregeln zur Sicherung hinausgehen, so kann das
 Vollstreckungsgericht auf Antrag des Gläubigers oder des Schuldners
 anordnen, dass die Sache versteigert und der Erlös hinterlegt werde,
-wenn sie der Gefahr einer beträchtlichen Wertminderung ausgesetzt ist
-oder wenn ihre Aufbewahrung unverhältnismäßige Kosten verursachen
+wenn sie der Gefahr einer beträchtlichen Wertminderung ausgesetzt
+ist oder wenn ihre Aufbewahrung unverhältnismäßige Kosten verursachen
 würde.
 
 
@@ -361,8 +355,8 @@ würde.
 
 (1) Weist das Beschwerdegericht die Beschwerde des Schuldners gegen
 die Zulassung der Zwangsvollstreckung zurück oder lässt es auf die
-Beschwerde des Gläubigers die Zwangsvollstreckung aus dem Titel zu, so
-kann die Zwangsvollstreckung über Maßregeln zur Sicherung hinaus
+Beschwerde des Gläubigers die Zwangsvollstreckung aus dem Titel zu,
+so kann die Zwangsvollstreckung über Maßregeln zur Sicherung hinaus
 fortgesetzt werden.
 
 (2) Auf Antrag des Schuldners kann das Beschwerdegericht anordnen,
@@ -374,19 +368,19 @@ glaubhaft gemacht wird, dass die weiter gehende Vollstreckung dem
 Schuldner einen nicht zu ersetzenden Nachteil bringen würde. § 713 der
 Zivilprozessordnung ist entsprechend anzuwenden.
 
-(3) Wird Rechtsbeschwerde eingelegt, so kann der Bundesgerichtshof auf
-Antrag des Schuldners eine Anordnung nach Absatz 2 erlassen. Der
+(3) Wird Rechtsbeschwerde eingelegt, so kann der Bundesgerichtshof
+auf Antrag des Schuldners eine Anordnung nach Absatz 2 erlassen. Der
 Bundesgerichtshof kann auf Antrag des Gläubigers eine nach Absatz 2
 erlassene Anordnung des Beschwerdegerichts abändern oder aufheben.
 
 
 #### § 19 Unbeschränkte Fortsetzung der durch das Gericht des ersten Rechtszuges zugelassenen Zwangsvollstreckung
 
-(1) Die Zwangsvollstreckung aus dem Titel, den der Urkundsbeamte der
-Geschäftsstelle des Gerichts des ersten Rechtszuges mit der
-Vollstreckungsklausel versehen hat, ist auf Antrag des Gläubigers über
-Maßregeln zur Sicherung hinaus fortzusetzen, wenn das Zeugnis des
-Urkundsbeamten der Geschäftsstelle dieses Gerichts vorgelegt wird,
+(1) Die Zwangsvollstreckung aus dem Titel, den der Urkundsbeamte
+der Geschäftsstelle des Gerichts des ersten Rechtszuges mit der
+Vollstreckungsklausel versehen hat, ist auf Antrag des Gläubigers
+über Maßregeln zur Sicherung hinaus fortzusetzen, wenn das Zeugnis
+des Urkundsbeamten der Geschäftsstelle dieses Gerichts vorgelegt wird,
 dass die Zwangsvollstreckung unbeschränkt stattfinden darf.
 
 (2) Das Zeugnis ist dem Gläubiger auf seinen Antrag zu erteilen,
@@ -394,24 +388,18 @@ dass die Zwangsvollstreckung unbeschränkt stattfinden darf.
 1.  wenn der Schuldner bis zum Ablauf der Beschwerdefrist keine
     Beschwerdeschrift eingereicht hat,
 
-
 2.  wenn das Beschwerdegericht die Beschwerde des Schuldners
     zurückgewiesen und keine Anordnung nach § 18 Absatz 2 erlassen hat,
-
 
 3.  wenn der Bundesgerichtshof die Anordnung des Beschwerdegerichts
     aufgehoben hat (§ 18 Absatz 3 Satz 2) oder
 
-
 4.  wenn der Bundesgerichtshof den Titel zur Zwangsvollstreckung
     zugelassen hat.
 
-
-
-
-(3) Aus dem Titel darf die Zwangsvollstreckung, selbst wenn sie auf
-Maßregeln zur Sicherung beschränkt ist, nicht mehr stattfinden, sobald
-ein Beschluss des Beschwerdegerichts, dass der Titel zur
+(3) Aus dem Titel darf die Zwangsvollstreckung, selbst wenn sie
+auf Maßregeln zur Sicherung beschränkt ist, nicht mehr stattfinden,
+sobald ein Beschluss des Beschwerdegerichts, dass der Titel zur
 Zwangsvollstreckung nicht zugelassen werde, verkündet oder zugestellt
 ist.
 
@@ -433,16 +421,11 @@ dass die Zwangsvollstreckung unbeschränkt stattfinden darf.
     Rechtsbeschwerde (§ 12 Absatz 2) keine Beschwerdeschrift eingereicht
     hat,
 
-
 2.  wenn der Bundesgerichtshof die Anordnung des Beschwerdegerichts
     aufgehoben hat (§ 18 Absatz 3 Satz 2) oder
 
-
 3.  wenn der Bundesgerichtshof die Rechtsbeschwerde des Schuldners
     zurückgewiesen hat.
-
-
-
 
 
 ### Unterabschnitt 4 - Feststellung der Anerkennung einer ausländischen Entscheidung
@@ -463,8 +446,8 @@ Gericht, die Entscheidung anzuerkennen.
 
 In den Fällen des § 21 Absatz 2 sind die Kosten dem Antragsgegner
 aufzuerlegen. Dieser kann die Beschwerde (§ 10) auf die Entscheidung
-über den Kostenpunkt beschränken. In diesem Fall sind die Kosten dem
-Antragsteller aufzuerlegen, wenn der Antragsgegner durch sein
+über den Kostenpunkt beschränken. In diesem Fall sind die Kosten
+dem Antragsteller aufzuerlegen, wenn der Antragsgegner durch sein
 Verhalten keine Veranlassung zu dem Antrag auf Feststellung gegeben
 hat.
 
@@ -474,15 +457,15 @@ hat.
 
 #### § 23 Vollstreckungsabwehrklage
 
-(1) Ist die Zwangsvollstreckung aus einem Titel zugelassen, so kann
-der Schuldner Einwendungen gegen den Anspruch selbst in einem
+(1) Ist die Zwangsvollstreckung aus einem Titel zugelassen, so
+kann der Schuldner Einwendungen gegen den Anspruch selbst in einem
 Verfahren nach § 767 der Zivilprozessordnung geltend machen. Handelt
 es sich bei dem Titel um eine gerichtliche Entscheidung, so gilt dies
 nur, soweit die Gründe, auf denen die Einwendungen beruhen, erst nach
 dem Erlass der Entscheidung entstanden sind.
 
-(2) Die Klage nach § 767 der Zivilprozessordnung ist bei dem Gericht
-zu erheben, das über den Antrag auf Erteilung der
+(2) Die Klage nach § 767 der Zivilprozessordnung ist bei dem
+Gericht zu erheben, das über den Antrag auf Erteilung der
 Vollstreckungsklausel entschieden hat.
 
 
@@ -501,8 +484,8 @@ Erteilung der Vollstreckungsklausel entschieden hat.
 (3) Der Antrag kann bei dem Gericht schriftlich oder zu Protokoll der
 Geschäftsstelle gestellt werden. Über den Antrag kann ohne mündliche
 Verhandlung entschieden werden. Vor der Entscheidung, die durch
-Beschluss ergeht, ist der Gläubiger zu hören. § 11 Absatz 2 und 3 gilt
-entsprechend.
+Beschluss ergeht, ist der Gläubiger zu hören. § 11 Absatz 2 und 3
+gilt entsprechend.
 
 (4) Der Beschluss unterliegt der Beschwerde nach den §§ 567 bis 577
 der Zivilprozessordnung. Die Notfrist für die Einlegung der sofortigen
@@ -517,23 +500,23 @@ Vollstreckungsmaßregel ist auch ohne Sicherheitsleistung zulässig.
 #### § 25 Aufhebung oder Änderung einer ausländischen Entscheidung, deren Anerkennung festgestellt ist
 
 Wird die Entscheidung in dem Mitgliedstaat, in dem sie ergangen ist,
-aufgehoben oder abgeändert und kann die davon begünstigte Partei diese
-Tatsache nicht mehr in dem Verfahren über den Antrag auf Feststellung
-der Anerkennung geltend machen, so ist § 24 Absatz 1 bis 4
-entsprechend anzuwenden.
+aufgehoben oder abgeändert und kann die davon begünstigte Partei
+diese Tatsache nicht mehr in dem Verfahren über den Antrag auf
+Feststellung der Anerkennung geltend machen, so ist § 24 Absatz 1 bis
+4 entsprechend anzuwenden.
 
 
 #### § 26 Schadensersatz wegen ungerechtfertigter Vollstreckung
 
-(1) Wird die Zulassung der Zwangsvollstreckung auf die Beschwerde (§
-10) oder die Rechtsbeschwerde (§ 12) aufgehoben oder abgeändert, so
-ist der Gläubiger zum Ersatz des Schadens verpflichtet, der dem
-Schuldner durch die Vollstreckung oder durch eine Leistung zur
+(1) Wird die Zulassung der Zwangsvollstreckung auf die Beschwerde
+(§ 10) oder die Rechtsbeschwerde (§ 12) aufgehoben oder abgeändert,
+so ist der Gläubiger zum Ersatz des Schadens verpflichtet, der
+dem Schuldner durch die Vollstreckung oder durch eine Leistung zur
 Abwendung der Vollstreckung entstanden ist. Das Gleiche gilt, wenn die
 Zulassung der Zwangsvollstreckung nach § 24 aufgehoben oder abgeändert
 wird, soweit die zur Zwangsvollstreckung zugelassene Entscheidung zum
-Zeitpunkt der Zulassung nach dem Recht des Mitgliedstaates, in dem sie
-ergangen ist, noch mit einem ordentlichen Rechtsmittel angefochten
+Zeitpunkt der Zulassung nach dem Recht des Mitgliedstaates, in dem
+sie ergangen ist, noch mit einem ordentlichen Rechtsmittel angefochten
 werden konnte.
 
 (2) Für die Geltendmachung des Anspruchs ist das Gericht
@@ -546,8 +529,8 @@ Erteilung der Vollstreckungsklausel entschieden hat.
 
 #### § 27 Bescheinigungen zu inländischen Titeln
 
-(1) Für die Ausstellung der Bescheinigungen nach Artikel 46 Absatz 3
-Buchstabe b, Artikel 60 Absatz 2 und Artikel 61 Absatz 2 der
+(1) Für die Ausstellung der Bescheinigungen nach Artikel 46 Absatz
+3 Buchstabe b, Artikel 60 Absatz 2 und Artikel 61 Absatz 2 der
 Verordnung (EU) Nr. 650/2012 sind die Gerichte oder Notare zuständig,
 denen die Erteilung einer vollstreckbaren Ausfertigung des Titels
 obliegt.
@@ -558,12 +541,12 @@ Rechtszuges ausgestellt oder, wenn das Verfahren bei einem höheren
 Gericht anhängig ist, von diesem. Funktionell zuständig ist die
 Stelle, der die Erteilung einer vollstreckbaren Ausfertigung obliegt.
 Für die Anfechtbarkeit der Entscheidung über die Ausstellung der
-Bescheinigung gelten die Vorschriften über die Anfechtbarkeit der
-Entscheidung über die Erteilung der Vollstreckungsklausel
+Bescheinigung gelten die Vorschriften über die Anfechtbarkeit
+der Entscheidung über die Erteilung der Vollstreckungsklausel
 entsprechend.
 
-(3) Die Ausstellung einer Bescheinigung nach Absatz 1 schließt das
-Recht auf Erteilung einer Vollstreckungsklausel nach § 724 der
+(3) Die Ausstellung einer Bescheinigung nach Absatz 1 schließt
+das Recht auf Erteilung einer Vollstreckungsklausel nach § 724 der
 Zivilprozessordnung nicht aus.
 
 
@@ -577,10 +560,10 @@ das das Urteil erlassen hat, schriftlich oder durch Erklärung zu
 Protokoll der Geschäftsstelle gestellt werden. Über den Antrag wird
 ohne mündliche Verhandlung entschieden.
 
-(2) Zur Vervollständigung des Urteils sind der Tatbestand und die
-Entscheidungsgründe nachträglich abzufassen, von den Richtern
-gesondert zu unterschreiben und der Geschäftsstelle zu übergeben; der
-Tatbestand und die Entscheidungsgründe können auch von Richtern
+(2) Zur Vervollständigung des Urteils sind der Tatbestand und
+die Entscheidungsgründe nachträglich abzufassen, von den Richtern
+gesondert zu unterschreiben und der Geschäftsstelle zu übergeben;
+der Tatbestand und die Entscheidungsgründe können auch von Richtern
 unterschrieben werden, die bei dem Urteil nicht mitgewirkt haben.
 
 (3) Für die Berichtigung des nachträglich abgefassten Tatbestandes
@@ -598,9 +581,9 @@ gemacht werden sollen und nicht mit einer Begründung versehen sind.
 #### § 29 Vollstreckungsklausel zur Verwendung im Ausland
 
 Vollstreckungsbescheide, Arrestbefehle und einstweilige Verfügungen
-oder einstweilige Anordnungen, deren Zwangsvollstreckung in einem
-anderen Mitgliedstaat betrieben werden soll, sind auch dann mit der
-Vollstreckungsklausel zu versehen, wenn dies für eine
+oder einstweilige Anordnungen, deren Zwangsvollstreckung in
+einem anderen Mitgliedstaat betrieben werden soll, sind auch dann
+mit der Vollstreckungsklausel zu versehen, wenn dies für eine
 Zwangsvollstreckung im Inland nach § 796 Absatz 1, § 929 Absatz 1 oder
 § 936 der Zivilprozessordnung nicht erforderlich wäre.
 
@@ -626,16 +609,28 @@ Zivilprozessordnung) beträgt einen Monat.
 
 ### § 31 Entgegennahme von Erklärungen
 
-Für die Entgegennahme einer Erklärung, mit der nach dem anzuwendenden
-Erbrecht eine Erbschaft ausgeschlagen oder angenommen wird, ist in den
-Fällen des Artikels 13 der Verordnung (EU) Nr. 650/2012 das
-Nachlassgericht örtlich zuständig, in dessen Bezirk die erklärende
-Person ihren gewöhnlichen Aufenthalt hat. Die Erklärung ist zur
-Niederschrift des Nachlassgerichts oder in öffentlich beglaubigter
-Form abzugeben. Dem Erklärenden ist die Urschrift der Niederschrift
-oder die Urschrift der Erklärung in öffentlich beglaubigter Form
-auszuhändigen; auf letzterer hat das Nachlassgericht den Ort und das
-Datum der Entgegennahme zu vermerken.
+(1) Für die Entgegennahme einer Erklärung, mit der nach dem
+anzuwendenden Erbrecht eine Erbschaft ausgeschlagen oder angenommen
+wird, ist in den Fällen des Artikels 13 der Verordnung (EU) Nr.
+650/2012 das Nachlassgericht örtlich zuständig, in dessen Bezirk die
+erklärende Person ihren gewöhnlichen Aufenthalt hat.
+
+(2) Die Erklärung ist zur Niederschrift des Nachlassgerichts oder in
+öffentlich beglaubigter Form abzugeben.
+
+(3) Dem Erklärenden ist die Urschrift der Niederschrift, die Urschrift
+der Erklärung in öffentlich-beglaubigter Form, eine beglaubigte
+Abschrift der Niederschrift oder eine beglaubigte Abschrift der
+entgegengenommenen Erklärung zu überlassen. Bei elektronischer
+Niederschrift kann dem Erklärenden diese überlassen werden.
+
+(4) Auf einer in öffentlich beglaubigter Form abgegebenen Erklärung
+oder deren beglaubigter Abschrift hat das Nachlassgericht den Ort und
+das Datum der Entgegennahme zu vermerken. Bei der Beglaubigung eines
+Ausdrucks oder einer Abschrift eines elektronischen Dokuments, das
+mit einer qualifizierten elektronischen Signatur der Urkundsperson
+versehen ist, soll das Ergebnis der Signaturprüfung dokumentiert
+werden.
 
 
 ### § 32 Aneignungsrecht
@@ -653,14 +648,14 @@ seinen gewöhnlichen Aufenthalt hatte. Hatte der Erblasser im Zeitpunkt
 seines Todes keinen gewöhnlichen Aufenthalt im Inland, ist das
 Amtsgericht Schöneberg in Berlin zuständig.
 
-(3) Die für die Ausübung des Aneignungsrechts zuständige Stelle übt
-das Aneignungsrecht durch Erklärung gegenüber dem nach Absatz 2
-örtlich zuständigen Nachlassgericht aus. Durch die Erklärung legt sie
-fest, ob und in welchem Umfang sie in Bezug auf das in Deutschland
-belegene Vermögen von dem Aneignungsrecht Gebrauch macht. Die
-Erklärung ist zu unterschreiben und mit Siegel oder Stempel zu
-versehen. Zuständig für die Erklärung ist die Stelle, die das Land
-bestimmt, in dem der Erblasser zur Zeit des Erbfalls seinen
+(3) Die für die Ausübung des Aneignungsrechts zuständige Stelle
+übt das Aneignungsrecht durch Erklärung gegenüber dem nach Absatz
+2 örtlich zuständigen Nachlassgericht aus. Durch die Erklärung
+legt sie fest, ob und in welchem Umfang sie in Bezug auf das in
+Deutschland belegene Vermögen von dem Aneignungsrecht Gebrauch macht.
+Die Erklärung ist zu unterschreiben und mit Siegel oder Stempel
+zu versehen. Zuständig für die Erklärung ist die Stelle, die das
+Land bestimmt, in dem der Erblasser zur Zeit des Erbfalls seinen
 gewöhnlichen Aufenthalt hatte, im Übrigen die Bundesanstalt für
 Immobilienaufgaben.
 
@@ -697,16 +692,11 @@ Dieser Abschnitt gilt für Verfahren über
 1.  die Ausstellung, Berichtigung, Änderung oder den Widerruf eines
     Europäischen Nachlasszeugnisses,
 
-
 2.  die Erteilung einer beglaubigten Abschrift eines Europäischen
     Nachlasszeugnisses oder die Verlängerung der Gültigkeitsfrist einer
     beglaubigten Abschrift und
 
-
 3.  die Aussetzung der Wirkungen eines Europäischen Nachlasszeugnisses.
-
-
-
 
 
 ### § 34 Örtliche und sachliche Zuständigkeit
@@ -721,37 +711,32 @@ der deutschen Gerichte aus den folgenden Vorschriften der Verordnung
     Verbindung mit Artikel 6 Buchstabe b Alternative 1 und mit Artikel 5
     Absatz 1 Alternative 1 der Verordnung (EU) Nr. 650/2012 oder
 
-
 2.  Artikel 64 Satz 1 in Verbindung mit Artikel 7 Buchstabe b Alternative
     1 in Verbindung mit Artikel 5 Absatz 1 Alternative 1 der Verordnung
     (EU) Nr. 650/2012.
 
-
-
-
 (2) Ergibt sich die internationale Zuständigkeit der deutschen
-Gerichte aus Artikel 64 Satz 1 in Verbindung mit Artikel 7 Buchstabe c
-der Verordnung (EU)
-Nr. 650/2012             , ist das Gericht örtlich ausschließlich
-zuständig, dessen Zuständigkeit die Verfahrensparteien ausdrücklich
-anerkannt haben.
+Gerichte aus Artikel 64 Satz 1 in Verbindung mit Artikel 7 Buchstabe
+c der Verordnung (EU) Nr. 650/2012, ist das Gericht örtlich
+ausschließlich zuständig, dessen Zuständigkeit die Verfahrensparteien
+ausdrücklich anerkannt haben.
 
 (3) Ergibt sich die internationale Zuständigkeit der deutschen
 Gerichte aus anderen, in Artikel 64 Satz 1 der Verordnung (EU) Nr.
 650/2012 genannten Vorschriften dieser Verordnung, ist das Gericht
-örtlich ausschließlich zuständig, in dessen Bezirk der Erblasser im
-Zeitpunkt seines Todes seinen gewöhnlichen Aufenthalt hatte. Hatte der
-Erblasser im Zeitpunkt seines Todes seinen gewöhnlichen Aufenthalt
-nicht im Inland, ist das Gericht örtlich ausschließlich zuständig, in
-dessen Bezirk der Erblasser seinen letzten gewöhnlichen Aufenthalt im
-Inland hatte. Hatte der Erblasser keinen gewöhnlichen Aufenthalt im
-Inland, ist das Amtsgericht Schöneberg in Berlin örtlich
-ausschließlich zuständig. Das Amtsgericht Schöneberg in Berlin kann
-die Sache aus wichtigem Grund an ein anderes Nachlassgericht
+örtlich ausschließlich zuständig, in dessen Bezirk der Erblasser
+im Zeitpunkt seines Todes seinen gewöhnlichen Aufenthalt hatte.
+Hatte der Erblasser im Zeitpunkt seines Todes seinen gewöhnlichen
+Aufenthalt nicht im Inland, ist das Gericht örtlich ausschließlich
+zuständig, in dessen Bezirk der Erblasser seinen letzten gewöhnlichen
+Aufenthalt im Inland hatte. Hatte der Erblasser keinen gewöhnlichen
+Aufenthalt im Inland, ist das Amtsgericht Schöneberg in Berlin
+örtlich ausschließlich zuständig. Das Amtsgericht Schöneberg in Berlin
+kann die Sache aus wichtigem Grund an ein anderes Nachlassgericht
 verweisen.
 
-(4) Sachlich zuständig ist ausschließlich das Amtsgericht. Das
-Amtsgericht entscheidet als Nachlassgericht. Sind nach
+(4) Sachlich zuständig ist ausschließlich das Amtsgericht.
+Das Amtsgericht entscheidet als Nachlassgericht. Sind nach
 landesgesetzlichen Vorschriften für die Aufgaben des Nachlassgerichts
 andere Stellen als Gerichte zuständig, so sind diese sachlich
 ausschließlich zuständig.
@@ -765,17 +750,17 @@ Vorschriften dieses Abschnitts nichts anderes ergibt, ist das Gesetz
 freiwilligen Gerichtsbarkeit anzuwenden.
 
 (2) Ist ein Antrag entgegen § 184 Satz 1 des
-Gerichtsverfassungsgesetzes nicht in deutscher Sprache abgefasst, so
-kann das Gericht der antragstellenden Person aufgeben, eine
-Übersetzung des Antrags beizubringen, deren Richtigkeit von einer in
-einem Mitgliedstaat der Europäischen Union oder in einem anderen
+Gerichtsverfassungsgesetzes nicht in deutscher Sprache abgefasst,
+so kann das Gericht der antragstellenden Person aufgeben, eine
+Übersetzung des Antrags beizubringen, deren Richtigkeit von einer
+in einem Mitgliedstaat der Europäischen Union oder in einem anderen
 Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
 hierzu befugten Person bestätigt worden ist.
 
 (3) Für die Unterrichtung der Berechtigten durch öffentliche
 Bekanntmachung nach Artikel 66 Absatz 4 der Verordnung (EU) Nr.
-650/2012 gelten die §§ 435 bis 437 des Gesetzes über das Verfahren in
-Familiensachen und in den Angelegenheiten der freiwilligen
+650/2012 gelten die §§ 435 bis 437 des Gesetzes über das Verfahren
+in Familiensachen und in den Angelegenheiten der freiwilligen
 Gerichtsbarkeit entsprechend.
 
 
@@ -800,35 +785,28 @@ Beteiligte können hinzugezogen werden
 
 1.  die gesetzlichen Erben,
 
-
 2.  diejenigen, die nach dem Inhalt einer vorliegenden Verfügung von Todes
     wegen als Erben in Betracht kommen,
-
 
 3.  diejenigen, die im Fall der Unwirksamkeit der Verfügung von Todes
     wegen Erben sein würden,
 
-
 4.  die Vermächtnisnehmer mit unmittelbarer Berechtigung am Nachlass,
-
 
 5.  der Testamentsvollstrecker oder der Nachlassverwalter,
 
-
 6.  sonstige Personen mit einem berechtigten Interesse.
-
-
 
 Auf ihren Antrag sind sie zu beteiligen.
 
-(2) In Verfahren über die Berichtigung, die Änderung, den Widerruf und
-die Aussetzung der Wirkungen eines Europäischen Nachlasszeugnisses ist
-der Antragsteller Beteiligter. Sonstige Personen mit einem
+(2) In Verfahren über die Berichtigung, die Änderung, den Widerruf
+und die Aussetzung der Wirkungen eines Europäischen Nachlasszeugnisses
+ist der Antragsteller Beteiligter. Sonstige Personen mit einem
 berechtigten Interesse können als weitere Beteiligte hinzugezogen
 werden. Auf ihren Antrag sind sie zu beteiligen.
 
-(3) In Verfahren über die Erteilung einer beglaubigten Abschrift eines
-Europäischen Nachlasszeugnisses oder die Verlängerung der
+(3) In Verfahren über die Erteilung einer beglaubigten Abschrift
+eines Europäischen Nachlasszeugnisses oder die Verlängerung der
 Gültigkeitsfrist einer beglaubigten Abschrift ist der Antragsteller
 Beteiligter.
 
@@ -837,15 +815,15 @@ Beteiligter.
 
 Das Gericht hat ein unrichtiges Europäisches Nachlasszeugnis auf
 Antrag zu ändern oder zu widerrufen. Der Widerruf hat auch von Amts
-wegen zu erfolgen. Das Gericht hat über die Kosten des Verfahrens zu
-entscheiden.
+wegen zu erfolgen. Das Gericht hat über die Kosten des Verfahrens
+zu entscheiden.
 
 
 ### § 39 Art der Entscheidung
 
 (1) Liegen die Voraussetzungen für die Ausstellung eines Europäischen
-Nachlasszeugnisses vor, entscheidet das Gericht durch Ausstellung der
-Urschrift eines Europäischen Nachlasszeugnisses. Liegen die
+Nachlasszeugnisses vor, entscheidet das Gericht durch Ausstellung
+der Urschrift eines Europäischen Nachlasszeugnisses. Liegen die
 Voraussetzungen für die Erteilung einer beglaubigten Abschrift oder
 für die Verlängerung der Gültigkeitsfrist einer beglaubigten Abschrift
 vor, entscheidet das Gericht durch Erteilung einer beglaubigten
@@ -853,9 +831,9 @@ Abschrift oder durch Verlängerung der Gültigkeitsfrist einer
 beglaubigten Abschrift. Im Übrigen entscheidet das Gericht durch
 Beschluss.
 
-(2) Für die Ausstellung eines Europäischen Nachlasszeugnisses und die
-Erteilung einer beglaubigten Abschrift ist das Formblatt nach Artikel
-67 Absatz 1 Satz 2 in Verbindung mit Artikel 81 Absatz 2 der
+(2) Für die Ausstellung eines Europäischen Nachlasszeugnisses und
+die Erteilung einer beglaubigten Abschrift ist das Formblatt nach
+Artikel 67 Absatz 1 Satz 2 in Verbindung mit Artikel 81 Absatz 2 der
 Verordnung (EU) Nr. 650/2012 zu verwenden.
 
 
@@ -863,8 +841,8 @@ Verordnung (EU) Nr. 650/2012 zu verwenden.
 
 Entscheidungen nach § 39 Absatz 1 Satz 1 und 2 werden dem
 Antragsteller durch Übersendung einer beglaubigten Abschrift bekannt
-gegeben. Weiteren Beteiligten wird die Entscheidung nach § 39 Absatz 1
-Satz 1 durch Übersendung einer einfachen Abschrift des ausgestellten
+gegeben. Weiteren Beteiligten wird die Entscheidung nach § 39 Absatz
+1 Satz 1 durch Übersendung einer einfachen Abschrift des ausgestellten
 Europäischen Nachlasszeugnisses bekannt gegeben.
 
 
@@ -900,24 +878,17 @@ bei dem Gericht einzulegen, dessen Entscheidung angefochten wird.
     die Vermächtnisnehmer mit unmittelbarer Berechtigung am Nachlass und
     die Testamentsvollstrecker oder die Nachlassverwalter;
 
-
 2.  in den übrigen Verfahren nach § 33 Nummer 1 sowie in den Verfahren
     nach § 33 Nummer 3 diejenigen Personen, die ein berechtigtes Interesse
     nachweisen.
-
-
-
 
 (3) Die Beschwerde ist einzulegen
 
 1.  innerhalb eines Monats, wenn der Beschwerdeführer seinen gewöhnlichen
     Aufenthalt im Inland hat;
 
-
 2.  innerhalb von zwei Monaten, wenn der Beschwerdeführer seinen
     gewöhnlichen Aufenthalt im Ausland hat.
-
-
 
 Die Frist beginnt jeweils mit dem Tag der Bekanntgabe der
 Entscheidung.
@@ -929,12 +900,12 @@ des Europäischen Nachlasszeugnisses für begründet, so ändert oder
 widerruft es das Zeugnis oder weist das Ausgangsgericht an, das
 Zeugnis zu berichtigen, zu ändern oder zu widerrufen. Hält das
 Beschwerdegericht die Beschwerde gegen die Ablehnung der Ausstellung
-des Europäischen Nachlasszeugnisses für begründet, so stellt es das
-Nachlasszeugnis aus oder verweist die Sache unter Aufhebung des
-angefochtenen Beschlusses zur erneuten Prüfung und Entscheidung an das
-Ausgangsgericht zurück. Stellt das Beschwerdegericht das
-Nachlasszeugnis aus und lässt es die Rechtsbeschwerde nicht zu, gilt §
-39 Absatz 1 Satz 1 entsprechend. Bei allen sonstigen
+des Europäischen Nachlasszeugnisses für begründet, so stellt es
+das Nachlasszeugnis aus oder verweist die Sache unter Aufhebung
+des angefochtenen Beschlusses zur erneuten Prüfung und Entscheidung
+an das Ausgangsgericht zurück. Stellt das Beschwerdegericht
+das Nachlasszeugnis aus und lässt es die Rechtsbeschwerde nicht
+zu, gilt § 39 Absatz 1 Satz 1 entsprechend. Bei allen sonstigen
 Beschwerdeentscheidungen nach diesem Absatz sowie nach Absatz 1 Satz 1
 gilt im Übrigen § 69 des Gesetzes über das Verfahren in Familiensachen
 und in den Angelegenheiten der freiwilligen Gerichtsbarkeit.
@@ -965,16 +936,16 @@ Entscheidung zur Authentizität der Urkunde ankommt.
 ### § 46 Authentizität einer deutschen öffentlichen Urkunde
 
 (1) Über Einwände in Bezug auf die Authentizität einer deutschen
-öffentlichen Urkunde nach Artikel 59 Absatz 2 der Verordnung (EU) Nr.
-650/2012 entscheidet bei gerichtlichen Urkunden das Gericht, das die
-Urkunde errichtet hat. Bei notariellen Urkunden entscheidet das für
-den Amtssitz des Notars zuständige Gericht. Bei einer von einem
-Konsularbeamten im Ausland errichteten Urkunde entscheidet das
-Amtsgericht Schöneberg in Berlin. Im Übrigen entscheidet das
+öffentlichen Urkunde nach Artikel 59 Absatz 2 der Verordnung (EU)
+Nr. 650/2012 entscheidet bei gerichtlichen Urkunden das Gericht,
+das die Urkunde errichtet hat. Bei notariellen Urkunden entscheidet
+das für den Amtssitz des Notars zuständige Gericht. Bei einer von
+einem Konsularbeamten im Ausland errichteten Urkunde entscheidet
+das Amtsgericht Schöneberg in Berlin. Im Übrigen entscheidet das
 Amtsgericht, in dessen Bezirk die Urkunde errichtet worden ist.
 
-(2) Das Verfahren richtet sich nach den Vorschriften des Gesetzes über
-das Verfahren in Familiensachen und in den Angelegenheiten der
+(2) Das Verfahren richtet sich nach den Vorschriften des Gesetzes
+über das Verfahren in Familiensachen und in den Angelegenheiten der
 freiwilligen Gerichtsbarkeit.
 
 (3) Die Endentscheidung wird mit Rechtskraft wirksam. Eine Abänderung
@@ -988,22 +959,17 @@ ist ausgeschlossen. Der Beschluss wirkt für und gegen alle.
 
 Ergibt sich in Angelegenheiten der freiwilligen Gerichtsbarkeit die
 internationale Zuständigkeit der deutschen Gerichte aus der Verordnung
-(EU) Nr. 650/2012 und ist die örtliche Zuständigkeit nicht schon in
-anderen Vorschriften dieses Gesetzes geregelt, bestimmt sich die
+(EU) Nr. 650/2012 und ist die örtliche Zuständigkeit nicht schon
+in anderen Vorschriften dieses Gesetzes geregelt, bestimmt sich die
 örtliche Zuständigkeit wie folgt:
 
 1.  bei einer internationalen Zuständigkeit, die sich aus den in § 2
     Absatz 1 bis 3 genannten Vorschriften der Verordnung (EU) Nr. 650/2012
     ergibt, entsprechend § 2 Absatz 1 bis 3;
 
-
 2.  bei einer internationalen Zuständigkeit, die sich aus anderen
-    Vorschriften der Verordnung (EU)
-    Nr. 650/2012                    als den in § 2 Absatz 1 bis 3
-    genannten ergibt, entsprechend den Vorschriften über die örtliche
-    Zuständigkeit im Gesetz über das Verfahren in Familiensachen und in
-    den Angelegenheiten der freiwilligen Gerichtsbarkeit.
-
-
-
+    Vorschriften der Verordnung (EU) Nr. 650/2012 als den in § 2 Absatz
+    1 bis 3 genannten ergibt, entsprechend den Vorschriften über die
+    örtliche Zuständigkeit im Gesetz über das Verfahren in Familiensachen
+    und in den Angelegenheiten der freiwilligen Gerichtsbarkeit.
 

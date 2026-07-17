@@ -1,9 +1,5 @@
 ---
-Title: Gesetz zu dem Vertrag vom 3. März 2008 zwischen der Bundesrepublik Deutschland
-  und dem Zentralrat der Juden in Deutschland – Körperschaft des öffentlichen Rechts
-  – zur Änderung des Vertrages vom 27. Januar 2003 zwischen der Bundesrepublik Deutschland
-  und dem Zentralrat der Juden in Deutschland – Körperschaft des öffentlichen Rechts
-  –
+Title: Gesetz zu dem Vertrag vom 3. März 2008 zwischen der Bundesrepublik Deutschland und dem Zentralrat der Juden in Deutschland – Körperschaft des öffentlichen Rechts – zur Änderung des Vertrages vom 27. Januar 2003 zwischen der Bundesrepublik Deutschland und dem Zentralrat der Juden in Deutschland – Körperschaft des öffentlichen Rechts –
 jurabk: ZJDVtrÄndVtrG
 layout: default
 origslug: zjdvtr_ndvtrg

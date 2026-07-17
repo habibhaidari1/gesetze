@@ -1,7 +1,5 @@
 ---
-Title: Allgemeine Verfahrensvorschriften für das Schiedsgericht (Anlage VIII zu dem
-  Vertrag über die Schaffung einer Währungs-, Wirtschafts- und Sozialunion zwischen
-  der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik)
+Title: Allgemeine Verfahrensvorschriften für das Schiedsgericht (Anlage VIII zu dem Vertrag über die Schaffung einer Währungs-, Wirtschafts- und Sozialunion zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik)
 jurabk: WWSUVtrAnl VIII
 layout: default
 origslug: wwsuvtranl_viii
@@ -18,7 +16,6 @@ Fundstelle
 :   BGBl II: 1990, 537, 565
 
 
-
 ## § 1
 
 Der Sitz des Schiedsgerichts wird innerhalb des gemeinsamen
@@ -28,19 +25,19 @@ Ernennungen gemäß Artikel 7 Abs. 3 des Vertrags bestimmt.
 
 ## § 2
 
-(1) Kann eine Meinungsverschiedenheit über die Auslegung und Anwendung
-des Vertrags nicht durch die Vertragsparteien beigelegt werden, so
-kann jede Vertragspartei das Schiedsgericht innerhalb eines Monats
-anrufen. Das gilt insbesondere auch im Falle einer
+(1) Kann eine Meinungsverschiedenheit über die Auslegung und
+Anwendung des Vertrags nicht durch die Vertragsparteien beigelegt
+werden, so kann jede Vertragspartei das Schiedsgericht innerhalb
+eines Monats anrufen. Das gilt insbesondere auch im Falle einer
 Meinungsverschiedenheit über die Frage, ob die Nichteinführung einer
 Rechtsvorschrift den Bestimmungen des Vertrags widerspricht. Die Frist
 beginnt, sobald eine Vertragspartei der anderen mitgeteilt hat, daß
 sie die Verhandlungen über die Beilegung der Meinungsverschiedenheit
 als gescheitert ansieht.
 
-(2) Betrifft die Meinungsverschiedenheit die Frage, ob die Einführung,
-Änderung oder Ergänzung einer Rechtsvorschrift dem Vertrag
-widerspricht, so beträgt die Frist für die Anrufung des
+(2) Betrifft die Meinungsverschiedenheit die Frage, ob die
+Einführung, Änderung oder Ergänzung einer Rechtsvorschrift dem
+Vertrag widerspricht, so beträgt die Frist für die Anrufung des
 Schiedsgerichts zwei Monate gerechnet vom Tag der Bekanntmachung
 dieser Rechtsvorschrift.
 
@@ -135,8 +132,8 @@ die Vertragsparteien je zur Hälfte.
 
 ## § 13
 
-Für die Erledigung seiner laufenden Geschäfte, insbesondere auch zur
-Entgegennahme von Anträgen der Vertragsparteien, richtet das
+Für die Erledigung seiner laufenden Geschäfte, insbesondere auch
+zur Entgegennahme von Anträgen der Vertragsparteien, richtet das
 Schiedsgericht im Einvernehmen mit den Vertragsparteien innerhalb der
 in § 1 dieser Anlage genannten Frist eine Geschäftsstelle ein. Dabei
 soll auf vorhandene Einrichtungen zurückgegriffen werden. Für die

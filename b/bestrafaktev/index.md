@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über den Zeitpunkt der Einführung der elektronischen Aktenführung
-  in Strafsachen im Geschäftsbereich des Bundes
+Title: Verordnung über den Zeitpunkt der Einführung der elektronischen Aktenführung in Strafsachen im Geschäftsbereich des Bundes
 jurabk: BEStrafAktEV
 layout: default
 origslug: bestrafaktev
@@ -31,16 +30,11 @@ Strafverfahrensakten bei
 
 1.  dem Generalbundesanwalt beim Bundesgerichtshof,
 
-
-2.  den Finanzbehörden des Bundes in Ermittlungsverfahren nach § 386
-    Absatz 2 der Abgabenordnung und § 14a des
+2.  den Finanzbehörden des Bundes in Ermittlungsverfahren
+    nach § 386 Absatz 2 der Abgabenordnung und § 14a des
     Schwarzarbeitsbekämpfungsgesetzes und
 
-
 3.  dem Bundesgerichtshof.
-
-
-
 
 
 ## § 2 Einführung der elektronischen Akte
@@ -54,10 +48,10 @@ Satzes 2 die jeweilige Leiterin oder der jeweilige Leiter derjenigen
 Finanzbehörden des Bundes, die Ermittlungsverfahren nach § 386 Absatz
 2 der Abgabenordnung und § 14a des Schwarzarbeitsbekämpfungsgesetzes
 führen, bestimmen jeweils für ihren Bereich durch Verwaltungsanordnung
-die Verfahren, in denen die Akten elektronisch geführt werden. Für die
-Hauptzollämter bestimmt die Präsidentin oder der Präsident der
-Generalzolldirektion diese Verfahren. Die Verwaltungsanordnungen sind
-im Bundesanzeiger bekannt zu machen und auf der Internetseite
+die Verfahren, in denen die Akten elektronisch geführt werden. Für
+die Hauptzollämter bestimmt die Präsidentin oder der Präsident der
+Generalzolldirektion diese Verfahren. Die Verwaltungsanordnungen
+sind im Bundesanzeiger bekannt zu machen und auf der Internetseite
 desjenigen zu veröffentlichen, der sie erlassen hat.
 
 

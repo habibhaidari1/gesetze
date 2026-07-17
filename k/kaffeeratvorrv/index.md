@@ -1,7 +1,5 @@
 ---
-Title: Verordnung über die Gewährung von Vorrechten und Befreiungen an die Internationale
-  Kaffee-Organisation nach der Entschließung Nr. 264 des Internationalen Kaffee-Rates
-  vom 14. April 1973 zur Verlängerung des Internationalen Kaffee-Übereinkommens 1968
+Title: Verordnung über die Gewährung von Vorrechten und Befreiungen an die Internationale Kaffee-Organisation nach der Entschließung Nr. 264 des Internationalen Kaffee-Rates vom 14. April 1973 zur Verlängerung des Internationalen Kaffee-Übereinkommens 1968
 jurabk: KaffeeRatVorRV
 layout: default
 origslug: kaffeeratvorrv
@@ -16,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl II: 1974, 89
-
 
 
 ## Eingangsformel
@@ -35,8 +32,8 @@ Bundesregierung mit Zustimmung des Bundesrates:
 
 Für die Gewährung von Vorrechten und Befreiungen an die Internationale
 Kaffe-Organisation gilt das Internationale Kaffee-Übereinkommen 1968
-(Bundesgesetzbl. 1968 II S. 665) in der Fassung der Entschließung Nr.
-264 des Internationalen Kaffee-Rates vom 14. April 1973 zur
+(Bundesgesetzbl. 1968 II S. 665) in der Fassung der Entschließung
+Nr. 264 des Internationalen Kaffee-Rates vom 14. April 1973 zur
 Verlängerung des Internationalen Kaffee-Übereinkommens 1968. Die
 Entschließung wird nachstehend veröffentlicht.
 
@@ -44,11 +41,11 @@ Entschließung wird nachstehend veröffentlicht.
 ## § 2
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
-4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit Artikel 4
-des Gesetzes vom 22. Juni 1954 über den Beitritt der Bundesrepublik
+4\. Januar 1952 (Bundesgesetzblatt I S. 1) in Verbindung mit Artikel
+4 des Gesetzes vom 22. Juni 1954 über den Beitritt der Bundesrepublik
 Deutschland zum Abkommen über die Vorrechte und Befreiungen der
-Sonderorganisationen der Vereinten Nationen vom 21. November 1947 und
-über die Gewährung von Vorrechten und Befreiungen an andere
+Sonderorganisationen der Vereinten Nationen vom 21. November 1947
+und über die Gewährung von Vorrechten und Befreiungen an andere
 zwischenstaatliche Organisationen, zuletzt geändert durch das Gesetz
 vom 28. Februar 1964, auch im Land Berlin.
 

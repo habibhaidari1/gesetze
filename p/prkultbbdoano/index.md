@@ -1,6 +1,5 @@
 ---
-Title: Anordnung zur Durchführung der Bundesdisziplinarordnung für die Stiftung Preußischer
-  Kulturbesitz
+Title: Anordnung zur Durchführung der Bundesdisziplinarordnung für die Stiftung Preußischer Kulturbesitz
 jurabk: PrKultbBDOAnO
 layout: default
 origslug: prkultbbdoano
@@ -17,15 +16,13 @@ Fundstelle
 :   BGBl I: 1969, 2431
 
 
-
 ## Eingangsformel
 
-Auf Grund des § 35 Abs. 1 Satz 1 Nr. 3 der Bundesdisziplinarordnung in
-der Fassung der Bekanntmachung vom 20. Juli 1967 (Bundesgesetzbl. I S.
-750, 984),
-zuletzt geändert durch das Fünfte Gesetz zur Änderung
+Auf Grund des § 35 Abs. 1 Satz 1 Nr. 3 der Bundesdisziplinarordnung
+in der Fassung der Bekanntmachung vom 20. Juli 1967 (Bundesgesetzbl.
+I S. 750, 984), *zuletzt geändert durch das Fünfte Gesetz zur Änderung
 beamtenrechtlicher und besoldungsrechtlicher Vorschriften vom 19. Juli
-1968 (Bundesgesetzblatt I S. 848),              ordne ich an:
+1968 (Bundesgesetzblatt I S. 848),* ordne ich an:
 
 
 ## I.
@@ -37,21 +34,11 @@ der Bundesdisziplinarordnung Einleitungsbehörden:
     Kurator) und den Direktor bei der Stiftung Preußischer Kulturbesitz
     (als Stellvertreter des Kurators):
 
-    *   der Bundesminister des Innern,
-
-
-
-
+    -   der Bundesminister des Innern,
 
 2.  für die übrigen Beamten der Stiftung:
 
-    *   der Präsident der Stiftung Preußischer Kulturbesitz (als Kurator).
-
-
-
-
-
-
+    -   der Präsident der Stiftung Preußischer Kulturbesitz (als Kurator).
 
 
 ## II.

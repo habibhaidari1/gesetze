@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über das Ausbildungsgeld für Sanitätsoffizier-Anwärterinnen und
-  -Anwärter
+Title: Verordnung über das Ausbildungsgeld für Sanitätsoffizier-Anwärterinnen und -Anwärter
 jurabk: SanOAAusbGV 2013
 layout: default
 origslug: sanoaausbgv_2013
@@ -24,10 +23,10 @@ Geändert durch
 
 Auf Grund des § 30 Absatz 2 in Verbindung mit § 93 Absatz 3 des
 Soldatengesetzes in der Fassung der Bekanntmachung vom 30. Mai 2005
-(BGBl. I S. 1482), von denen § 30 Absatz 2 durch Artikel 3 Nummer 6
-des Gesetzes vom 31. Juli 2008 (BGBl. I S. 1629) geändert worden ist,
-verordnet das Bundesministerium der Verteidigung im Einvernehmen mit
-dem Bundesministerium des Innern und dem Bundesministerium der
+(BGBl. I S. 1482), von denen § 30 Absatz 2 durch Artikel 3 Nummer
+6 des Gesetzes vom 31. Juli 2008 (BGBl. I S. 1629) geändert worden
+ist, verordnet das Bundesministerium der Verteidigung im Einvernehmen
+mit dem Bundesministerium des Innern und dem Bundesministerium der
 Finanzen:
 
 
@@ -44,8 +43,8 @@ der Beurlaubung.
 und den Amtszulagen, die im Bundesbesoldungsgesetz für den jeweiligen
 Dienstgrad festgelegt sind.
 
-(2) Werden Abschnitte des Studiums in Teilzeit absolviert, wird das
-Ausbildungsgeld im gleichen Verhältnis wie die wöchentliche
+(2) Werden Abschnitte des Studiums in Teilzeit absolviert, wird
+das Ausbildungsgeld im gleichen Verhältnis wie die wöchentliche
 Ausbildungszeit gekürzt.
 
 
@@ -59,8 +58,8 @@ Bestallungsordnung vorgeschriebene Tätigkeit erhält.
 
 ## § 4 Entsprechende Geltung von Vorschriften des Bundesbesoldungsgesetzes
 
-§ 3 Absatz 1 Satz 2 und 3, Absatz 3 bis 6, sowie die §§ 3a, 9, 9a, 10,
-11, 12, 17a, 17b und 39 bis 41 des Bundesbesoldungsgesetzes gelten
+§ 3 Absatz 1 Satz 2 und 3, Absatz 3 bis 6, sowie die §§ 3a, 9, 9a,
+10, 11, 12, 17a, 17b und 39 bis 41 des Bundesbesoldungsgesetzes gelten
 entsprechend.
 
 

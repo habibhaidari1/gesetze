@@ -1,8 +1,5 @@
 ---
-Title: Gesetz zur Ausführung des Abkommens vom 14. Juli 1960 zwischen der Bundesrepublik
-  Deutschland und dem Vereinigten Königreich Großbritannien und Nordirland über die
-  gegenseitige Anerkennung und Vollstreckung von gerichtlichen Entscheidungen in Zivil-
-  und Handelssachen
+Title: Gesetz zur Ausführung des Abkommens vom 14. Juli 1960 zwischen der Bundesrepublik Deutschland und dem Vereinigten Königreich Großbritannien und Nordirland über die gegenseitige Anerkennung und Vollstreckung von gerichtlichen Entscheidungen in Zivil- und Handelssachen
 jurabk: VollstrAbkGBRAG
 layout: default
 origslug: vollstrabkgbrag
@@ -19,11 +16,10 @@ Fundstelle
 :   BGBl I: 1961, 301
 
 Zuletzt geändert durch
-:   Art. 24 G v. 27. 7.2001 I 1887
+:   Art. 24 G v. 27.7.2001 I 1887
 
 
 ## Erster Abschnitt - Vollstreckbarerklärung gerichtlicher Entscheidungen
-
 
 
 ### § 1
@@ -64,12 +60,12 @@ von einer dem Gläubiger obliegenden Sicherheitsleistung, von dem
 Ablauf einer Frist oder von dem Eintritt einer anderen Tatsache ab,
 oder wird die Vollstreckbarerklärung zugunsten eines anderen als des
 in der gerichtlichen Entscheidung bezeichneten Gläubigers oder gegen
-einen anderen als den darin bezeichneten Schuldner nachgesucht, so ist
-die Frage, inwieweit die Vollstreckbarerklärung von dem Nachweis
+einen anderen als den darin bezeichneten Schuldner nachgesucht, so
+ist die Frage, inwieweit die Vollstreckbarerklärung von dem Nachweis
 besonderer Voraussetzungen abhängig oder ob die Entscheidung für oder
 gegen den anderen vollstreckbar ist, nach dem Recht zu entscheiden,
-das für das Gericht des Urteilsstaates maßgebend ist. Der Nachweis ist
-durch öffentliche oder öffentlich beglaubigte Urkunden zu führen,
+das für das Gericht des Urteilsstaates maßgebend ist. Der Nachweis
+ist durch öffentliche oder öffentlich beglaubigte Urkunden zu führen,
 sofern nicht die Tatsachen bei dem Gericht offenkundig sind. Kann er
 in dieser Form nicht erbracht werden, so ist mündliche Verhandlung
 anzuordnen.
@@ -90,11 +86,8 @@ die Gründe, auf denen sie beruhen, erst
 1.  nach Ablauf der Frist, innerhalb derer er Beschwerde hätte einlegen
     können, oder
 
-
 2.  falls die Beschwerde eingelegt worden ist, nach Beendigung dieses
     Verfahrens
-
-
 
 entstanden sind.
 
@@ -111,10 +104,10 @@ aussetzen. Das Gericht kann aber auch das Verfahren sogleich
 fortsetzen.
 
 (2) Macht der Schuldner geltend, daß er einen Rechtsbehelf gegen die
-Entscheidung erst einlegen wolle, und weist er nach, daß die Frist für
-die Einlegung dieses Rechtsbehelfs nach dem Recht, das für das Gericht
-des Urteilsstaates maßgebend ist, noch nicht abgelaufen ist, so kann
-das Gericht, das über den Antrag auf Vollstreckbarerklärung zu
+Entscheidung erst einlegen wolle, und weist er nach, daß die Frist
+für die Einlegung dieses Rechtsbehelfs nach dem Recht, das für das
+Gericht des Urteilsstaates maßgebend ist, noch nicht abgelaufen ist,
+so kann das Gericht, das über den Antrag auf Vollstreckbarerklärung zu
 entscheiden hat, dem Schuldner eine Frist setzen, innerhalb deren er
 nachzuweisen hat, daß er den Rechtsbehelf eingelegt hat. Das Gericht
 kann aber auch das Verfahren sogleich aussetzen oder fortsetzen.
@@ -123,41 +116,39 @@ kann aber auch das Verfahren sogleich aussetzen oder fortsetzen.
 ### § 6
 
 Aus den für vollstreckbar erklärten gerichtlichen Entscheidungen
-findet die Zwangsvollstreckung statt, sofern die Entscheidung über die
-Vollstreckbarkeit rechtskräftig oder für vorläufig vollstreckbar
+findet die Zwangsvollstreckung statt, sofern die Entscheidung über
+die Vollstreckbarkeit rechtskräftig oder für vorläufig vollstreckbar
 erklärt ist.
 
 
 ## Zweiter Abschnitt - Aufhebung oder Abänderung der Vollstreckbarerklärung
 
 
-
 ### § 7
 
 (1) Wird eine gerichtliche Entscheidung nach der
 Vollstreckbarerklärung in dem Vereinigten Königreich Großbritannien
-und Nordirland aufgehoben oder abgeändert und kann der Schuldner diese
-Tatsache in dem Verfahren der Vollstreckbarerklärung nicht mehr
-geltend machen, so kann er die Aufhebung oder Abänderung der
+und Nordirland aufgehoben oder abgeändert und kann der Schuldner
+diese Tatsache in dem Verfahren der Vollstreckbarerklärung nicht
+mehr geltend machen, so kann er die Aufhebung oder Abänderung der
 Vollstreckbarerklärung in einem besonderen Verfahren beantragen.
 
 (2) Für die Entscheidung über den Antrag ist das Gericht
 ausschließlich zuständig, das in dem Verfahren der
-Vollstreckbarerklärung im ersten Rechtszug entschieden hat. Über den
-Antrag kann ohne mündliche Verhandlung entschieden werden; vor der
-Entscheidung ist der Gläubiger zu hören. Die Entscheidung ergeht durch
-Beschluß, der dem Gläubiger und dem Schuldner von Amts wegen
+Vollstreckbarerklärung im ersten Rechtszug entschieden hat. Über
+den Antrag kann ohne mündliche Verhandlung entschieden werden; vor
+der Entscheidung ist der Gläubiger zu hören. Die Entscheidung ergeht
+durch Beschluß, der dem Gläubiger und dem Schuldner von Amts wegen
 zuzustellen ist. Der Beschluss unterliegt der Beschwerde nach den §§
 567 bis 577 der Zivilprozessordnung.
 
 (3) Für die Einstellung der Zwangsvollstreckung und die Aufhebung
-bereits getroffener Vollstreckungsmaßregeln gelten §§ 769, 770 der
-Zivilprozeßordnung entsprechend. Die Aufhebung einer
+bereits getroffener Vollstreckungsmaßregeln gelten §§ 769,
+770 der Zivilprozeßordnung entsprechend. Die Aufhebung einer
 Vollstreckungsmaßregel ist auch ohne Sicherheitsleistung zulässig.
 
 
 ## Dritter Abschnitt - Besondere Vorschriften für deutsche gerichtliche Entscheidungen
-
 
 
 ### § 8
@@ -171,8 +162,8 @@ Zivilprozeßordnung) hergestellt werden.
 ### § 9
 
 (1) Will eine Partei ein Versäumnis- oder Anerkenntnisurteil, das nach
-§ 313b der Zivilprozeßordnung in abgekürzter Form hergestellt ist, in
-dem Vereinigten Königreich Großbritannien und Nordirland geltend
+§ 313b der Zivilprozeßordnung in abgekürzter Form hergestellt ist,
+in dem Vereinigten Königreich Großbritannien und Nordirland geltend
 machen, so ist das Urteil auf ihren Antrag zu vervollständigen. Der
 Antrag kann bei dem Gericht schriftlich eingereicht oder mündlich zum
 Protokoll der Geschäftsstelle angebracht werden. Über den Antrag wird
@@ -180,8 +171,8 @@ ohne mündliche Verhandlung entschieden.
 
 (2) Zur Vervollständigung des Urteils sind der Tatbestand und die
 Entscheidungsgründe nachträglich anzufertigen, von den Richtern
-besonders zu unterschreiben und der Geschäftsstelle zu übergeben; der
-Tatbestand und die Entscheidungsgründe können auch von Richtern
+besonders zu unterschreiben und der Geschäftsstelle zu übergeben;
+der Tatbestand und die Entscheidungsgründe können auch von Richtern
 unterschrieben werden, die bei dem Urteil nicht mitgewirkt haben.
 
 (3) Für die Berichtigung des nachträglich angefertigten Tatbestandes
@@ -195,7 +186,6 @@ nicht erhoben.
 
 
 ## Vierter Abschnitt - Schlußbestimmungen
-
 
 
 ### § 10
@@ -214,7 +204,7 @@ im Land Berlin.
 
 Dieses Gesetz tritt gleichzeitig mit dem Abkommen vom 14. Juli 1960
 zwischen der Bundesrepublik Deutschland und dem Vereinigten Königreich
-Großbritannien und Nordirland über die gegenseitige Anerkennung und
-Vollstreckung von gerichtlichen Entscheidungen in Zivil- und
+Großbritannien und Nordirland über die gegenseitige Anerkennung
+und Vollstreckung von gerichtlichen Entscheidungen in Zivil- und
 Handelssachen in Kraft.
 

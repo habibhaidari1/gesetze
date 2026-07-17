@@ -1,6 +1,5 @@
 ---
-Title: Sozialgesetzbuch - Neuntes Buch - (SGB IX) Rehabilitation und Teilhabe behinderter
-  Menschen
+Title: Sozialgesetzbuch - Neuntes Buch - (SGB IX) Rehabilitation und Teilhabe behinderter Menschen
 jurabk: SGB9uaÄndG
 layout: default
 origslug: sgb9ua_ndg
@@ -17,7 +16,6 @@ Fundstelle
 :   BGBl I: 2001, 1046
 
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
@@ -30,7 +28,6 @@ beschlossen:
 
 
 ## (XXXX) Art 2 bis 62
-
 
 
 ## Art 63
@@ -48,10 +45,10 @@ werden.
 
 ## Art 65 Neubekanntmachung
 
-Das Bundesministerium für Arbeit und Sozialordnung kann den Wortlaut
-der Wahlordnung Schwerbehindertenvertretung (SchwbWO), der
-Werkstättenverordnung (WVO), der Schwerbehinderten-
-Ausgleichsabgabeverordnung (SchwbAV), der
+Das Bundesministerium für Arbeit und Sozialordnung kann
+den Wortlaut der Wahlordnung Schwerbehindertenvertretung
+(SchwbWO), der Werkstättenverordnung (WVO), der
+Schwerbehinderten-Ausgleichsabgabeverordnung (SchwbAV), der
 Schwerbehindertenausweisverordnung und der Eingliederungshilfe-
 Verordnung in den vom Inkrafttreten dieses Gesetzes an geltenden
 Fassungen im Bundesgesetzblatt bekannt machen.
@@ -71,15 +68,10 @@ Tag
 
 1.  der Anspruch entstanden ist,
 
-
 2.  die Leistung zuerkannt worden ist oder
-
 
 3.  die Maßnahme begonnen hat, wenn die Leistung bis zum Beginn der
     Maßnahme beantragt worden ist.
-
-
-
 
 (2) Ist eine Leistung nur für einen begrenzten Zeitraum zuerkannt
 worden, richtet sich eine Verlängerung nach den zum Zeitpunkt der

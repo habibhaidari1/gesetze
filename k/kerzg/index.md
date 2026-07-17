@@ -29,8 +29,8 @@ und wird durch den Tod eines Ehegatten gelöst.
 
 ## § 2
 
-(1) Besteht eine solche Einigung nicht oder nicht mehr, so gelten auch
-für die religiöse Erziehung die Vorschriften des Bürgerlichen
+(1) Besteht eine solche Einigung nicht oder nicht mehr, so gelten
+auch für die religiöse Erziehung die Vorschriften des Bürgerlichen
 Gesetzbuchs über das Recht und die Pflicht, für die Person des Kindes
 zu sorgen.
 
@@ -40,16 +40,15 @@ anderen als dem zur Zeit der Eheschließung gemeinsamen Bekenntnis oder
 in einem anderen Bekenntnis als bisher erzogen, oder daß ein Kind vom
 Religionsunterricht abgemeldet werden soll.
 
-(3) Wird die Zustimmung nicht erteilt, so kann die Vermittlung oder
-Entscheidung des Familiengerichts beantragt werden. Für die
-Entscheidung sind, auch soweit ein Mißbrauch im Sinne des § 1666 des
-Bürgerlichen Gesetzbuchs nicht vorliegt, die Zwecke der Erziehung
-maßgebend. Vor der Entscheidung sind die Ehegatten sowie
+(3) Wird die Zustimmung nicht erteilt, so kann die Vermittlung
+oder Entscheidung des Familiengerichts beantragt werden. Für
+die Entscheidung sind, auch soweit ein Mißbrauch im Sinne des §
+1666 des Bürgerlichen Gesetzbuchs nicht vorliegt, die Zwecke der
+Erziehung maßgebend. Vor der Entscheidung sind die Ehegatten sowie
 erforderlichenfalls Verwandte, Verschwägerte und die Lehrer des Kindes
 zu hören, wenn es ohne erhebliche Verzögerung oder unverhältnismäßige
-Kosten geschehen kann. Der § 1779 Abs. 3 Satz 2 des Bürgerlichen
-Gesetzbuchs findet entsprechende Anwendung. Das Kind ist zu hören,
-wenn es das zehnte Jahr vollendet hat.
+Kosten geschehen kann. Das Kind ist zu hören, wenn es das zehnte Jahr
+vollendet hat.
 
 
 ## § 3
@@ -62,17 +61,15 @@ werden soll, die Meinung des Vaters oder der Mutter vor, es sei denn,
 daß dem Vater oder der Mutter das Recht der religiösen Erziehung auf
 Grund des § 1666 des Bürgerlichen Gesetzbuchs entzogen ist.
 
-(2) Steht die Sorge für die Person eines Kindes einem Vormund oder
-Pfleger allein zu, so hat dieser auch über die religiöse Erziehung des
-Kindes zu bestimmen. Er bedarf dazu der Genehmigung des
-Familiengerichts. Vor der Genehmigung sind die Eltern sowie
+(2) Steht die Sorge für die Person eines Kindes einem Vormund
+oder Pfleger allein zu, so hat dieser auch über die religiöse
+Erziehung des Kindes zu bestimmen. Er bedarf dazu der Genehmigung
+des Familiengerichts. Vor der Genehmigung sind die Eltern sowie
 erforderlichenfalls Verwandte, Verschwägerte und die Lehrer des Kindes
 zu hören, wenn es ohne erhebliche Verzögerung oder unverhältnismäßige
-Kosten geschehen kann. Der § 1779 Abs. 3 Satz 2 des Bürgerlichen
-Gesetzbuchs findet entsprechende Anwendung. Auch ist das Kind zu
-hören, wenn es das zehnte Lebensjahr vollendet hat. Weder der Vormund
-noch der Pfleger können eine schon erfolgte Bestimmung über die
-religiöse Erziehung ändern.
+Kosten geschehen kann. Auch ist das Kind zu hören, wenn es das zehnte
+Lebensjahr vollendet hat. Weder der Vormund noch der Pfleger können
+eine schon erfolgte Bestimmung über die religiöse Erziehung ändern.
 
 
 ## § 4
@@ -85,8 +82,8 @@ bürgerliche Wirkung.
 
 Nach der Vollendung des vierzehnten Lebensjahrs steht dem Kinde die
 Entscheidung darüber zu, zu welchem religiösen Bekenntnis es sich
-halten will. Hat das Kind das zwölfte Lebensjahr vollendet, so kann es
-nicht gegen seinen Willen in einem anderen Bekenntnis als bisher
+halten will. Hat das Kind das zwölfte Lebensjahr vollendet, so kann
+es nicht gegen seinen Willen in einem anderen Bekenntnis als bisher
 erzogen werden.
 
 
@@ -112,7 +109,6 @@ werden aufgehoben.
 
 
 ## (XXXX) §§ 9 und 10
-
 
 
 ## § 11

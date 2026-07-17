@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen
-  Mark
+Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark
 jurabk: Münz5DMBek 1955-04
 layout: default
 origslug: m_nz5dmbek_1955-04
@@ -17,13 +16,12 @@ Fundstelle
 :   BGBl I: 1955, 212
 
 
-
 ## (XXXX)
 
-(1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen vom
-8\. Juli 1950 (Bundesgesetzbl. S. 323) werden zum Gedenken an den
+(1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen
+vom 8. Juli 1950 (Bundesgesetzbl. S. 323) werden zum Gedenken an den
 Dichter Friedrich von Schiller, dessen Todestag sich am 9. Mai 1955
-zum 150. Mal jährt, 200 000 Stück Bundesmünzen im Nennwert von je 5
+zum 150. Mal jährt, 200 000 Stück Bundesmünzen im Nennwert von je 5
 Deutschen Mark geprägt und demnächst in den Verkehr gebracht.
 
 (2) Die Münzen bestehen aus einer Legierung von 625 Tausendteilen
@@ -50,10 +48,10 @@ Münze Stuttgart).
 von Schiller im Profil nach rechts. Die in Antiqua in großen
 Buchstaben gehaltene Umschrift "FRIEDRICH VON SCHILLER 9. V. 1955"
 umschließt das Bildnis in gleicher Weise wie die Umschrift auf der
-Wertseite das Adlerbild; der Tag und das Jahr in der Zeitangabe sind
-durch arabische Ziffern, der Monat ist durch die römische Zahl V
-bezeichnet; hinter der "9" und der "V" befindet sich je ein Punkt. In
-dem Raum unter dem Bildnis stehen, in drei Zeilen
+Wertseite das Adlerbild; der Tag und das Jahr in der Zeitangabe
+sind durch arabische Ziffern, der Monat ist durch die römische
+Zahl V bezeichnet; hinter der "9" und der "V" befindet sich je
+ein Punkt. In dem Raum unter dem Bildnis stehen, in drei Zeilen
 untereinandergereiht, in Antiqua in großen Buchstaben die Worte "ZUM
 150\. TODESTAG"; die Ordnungszahl 150. ist durch arabische Ziffern
 ausgedrückt. Links und rechts von dem in der zweiten Zeile stehenden

@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen
-  Mark (Dürer-Gedenkmünze)
+Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Dürer-Gedenkmünze)
 jurabk: Münz5DMBek 1972
 layout: default
 origslug: m_nz5dmbek_1972
@@ -17,11 +16,10 @@ Fundstelle
 :   BGBl I: 1972, 2083
 
 
-
 ## (XXXX)
 
-(1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen vom
-8\. Juli 1950 (Bundesgesetzblatt S. 323) ist aus Anlaß der 500.
+(1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen
+vom 8. Juli 1950 (Bundesgesetzblatt S. 323) ist aus Anlaß der 500.
 Wiederkehr des Geburtstages von Albrecht Dürer eine Bundesmünze
 (Gedenkmünze) im Nennwert von 5 Deutschen Mark geprägt worden. Die
 Ausprägung erfolgte im Bayerischen Hauptmünzamt, die Auflage beträgt 8
@@ -42,9 +40,7 @@ schützenden glatten Randstab umgeben.
 (6) Die Bildseite zeigt in der oberen Hälfte des Feldes das Monogramm
 Albrecht Dürers "A D", darunter die Aufschrift
 
-*   "ALBRECHT DÜRER"
-
-
+-   "ALBRECHT DÜRER"
 
 und die Jahreszahlen "1471 1528".
 
@@ -52,25 +48,19 @@ und die Jahreszahlen "1471 1528".
 gestaltet. In der oberen Hälfte des Feldes steht der Bundesadler, im
 Mittelfeld die Aufschrift
 
-*   "BUNDESREPUBLIK DEUTSCHLAND",
-
-
+-   "BUNDESREPUBLIK DEUTSCHLAND",
 
 darunter die Wertziffer "5" und die Wertbezeichnung
 
-*   "DEUTSCHE MARK".
+-   "DEUTSCHE MARK".
 
-
-
-Die in 19 und 71 geteilte Jahreszahl ist beiderseits der Wertziffer 5
-angebracht. Das Münzzeichen "D" des Bayerischen Hauptmünzamtes
+Die in 19 und 71 geteilte Jahreszahl ist beiderseits der Wertziffer
+5 angebracht. Das Münzzeichen "D" des Bayerischen Hauptmünzamtes
 befindet sich am äußeren Rand des Bogens der Wertziffer.
 
 (8) Der glatte Münzrand trägt die vertiefte Inschrift
 
-*   "DER ALLER EDELST SINN DER MENSCHEN IST SEHEN".
-
-
+-   "DER ALLER EDELST SINN DER MENSCHEN IST SEHEN".
 
 Zwischen den Worten "SEHEN" und "DER" ist ein kleiner Punkt
 eingeprägt.

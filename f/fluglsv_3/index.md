@@ -31,11 +31,11 @@ des Lärmschutzbereichs für einen neuen oder wesentlich baulich
 erweiterten Flugplatz im Sinne des § 2 Absatz 2 Satz 2 Nummer 1 und 3
 des Gesetzes zum Schutz gegen Fluglärm Wohnungen oder schutzbedürftige
 Einrichtungen nach § 5 Absatz 1 Satz 1 und 2 des genannten Gesetzes
-zulässigerweise errichtet sind oder zulässigerweise gemäß § 5 Absatz 4
-des genannten Gesetzes errichtet werden dürfen und die in der Tag-
-Schutzzone 1 des Flugplatzes gelegen sind. Für diese Grundstücke
-enthält sie nähere Bestimmungen über die Entschädigung für
-Beeinträchtigungen des Außenwohnbereichs nach § 9 Absatz 5 des
+zulässigerweise errichtet sind oder zulässigerweise gemäß § 5
+Absatz 4 des genannten Gesetzes errichtet werden dürfen und die
+in der Tag-Schutzzone 1 des Flugplatzes gelegen sind. Für diese
+Grundstücke enthält sie nähere Bestimmungen über die Entschädigung
+für Beeinträchtigungen des Außenwohnbereichs nach § 9 Absatz 5 des
 genannten Gesetzes.
 
 (2) Entschädigungsansprüche nach anderen öffentlich-rechtlichen
@@ -44,9 +44,9 @@ Vorschriften bleiben unberührt.
 
 ## § 2 Entschädigungsgrundsätze
 
-Die Entschädigung für fluglärmbedingte Beeinträchtigungen des
-Außenwohnbereichs bestimmt sich nach der Schutzwürdigkeit des
-Außenwohnbereichs und nach der Wertminderung durch die
+Die Entschädigung für fluglärmbedingte Beeinträchtigungen
+des Außenwohnbereichs bestimmt sich nach der Schutzwürdigkeit
+des Außenwohnbereichs und nach der Wertminderung durch die
 Fluglärmbelastung unter Berücksichtigung der Intensität der
 Fluglärmbelastung, der Vorbelastung und der Art der baulichen Nutzung
 der betroffenen Flächen.
@@ -69,8 +69,8 @@ Nutzung für das Wohnen im Freien nicht zulässig ist.
 einzelne Wohnung einen Außenwohnbereich auch dann auf, wenn nur eine
 gemeinschaftliche Nutzung des Außenwohnbereichs gegeben ist.
 
-(4) Als Außenwohnbereich einer schutzbedürftigen Einrichtung auf einem
-Grundstück im Sinne des § 1 gilt der Außenbereich, der einer der
+(4) Als Außenwohnbereich einer schutzbedürftigen Einrichtung auf
+einem Grundstück im Sinne des § 1 gilt der Außenbereich, der einer der
 Wohnnutzung im Freien vergleichbaren Nutzung dient.
 
 
@@ -86,25 +86,20 @@ Bänder festgelegt.
 1.  bei zivilen Flugplätzen im Sinne des § 2 Absatz 2 Satz 2 Nummer 1 des
     Gesetzes zum Schutz gegen Fluglärm den Bereich der Tag-Schutzzone 1,
     in dem der fluglärmbedingte äquivalente Dauerschallpegel für den Tag
-    (L
-    Aeq Tag                   ) den Wert von 65 Dezibel (A) überschreitet,
-
+    (LAeq Tag) den Wert von 65 Dezibel (A) überschreitet,
 
 2.  bei militärischen Flugplätzen im Sinne des § 2 Absatz 2 Satz 2 Nummer
     3 des genannten Gesetzes den Bereich der Tag-Schutzzone 1, in dem der
-    fluglärmbedingte äquivalente Dauerschallpegel für den Tag (L
-    Aeq Tag                   ) einen Wert von 68 Dezibel (A)
-    überschreitet.
-
-
+    fluglärmbedingte äquivalente Dauerschallpegel für den Tag (LAeq Tag)
+    einen Wert von 68 Dezibel (A) überschreitet.
 
 Das Isophonen-Band 2 umfasst jeweils den restlichen Bereich der Tag-
 Schutzzone 1.
 
 (3) Die Isophonen-Bänder 1 und 2 werden nach § 4 der Verordnung über
 die Datenerfassung und das Berechnungsverfahren für die Festsetzung
-von Lärmschutzbereichen ermittelt und in Listen und Karten gemäß § 4
-Absatz 4 der genannten Verordnung dargestellt. Grundstücke, die in
+von Lärmschutzbereichen ermittelt und in Listen und Karten gemäß §
+4 Absatz 4 der genannten Verordnung dargestellt. Grundstücke, die in
 zwei Isophonen-Bändern liegen, werden dem Isophonen-Band 1 zugeordnet.
 
 
@@ -113,95 +108,39 @@ zwei Isophonen-Bändern liegen, werden dem Isophonen-Band 1 zugeordnet.
 (1) Bei einem Einfamilienhaus mit Außenwohnbereich beträgt die Höhe
 der Entschädigung pauschal:
 
-1.
-    *        *   für ein im Isophonen-Band 1 gelegenes Grundstück:
+1.  | für ein im Isophonen-Band 1 gelegenes Grundstück: | 5 000 Euro, |
+    | --- | --- |
 
-        *   5 000 Euro,
-
-
-
-
-
-2.
-    *        *   für ein im Isophonen-Band 2 gelegenes Grundstück:
-
-        *   3 700 Euro.
-
-
-
-
-
-
+2.  | für ein im Isophonen-Band 2 gelegenes Grundstück: | 3 700 Euro. |
+    | --- | --- |
 
 (2) Bei einem Zweifamilienhaus mit Außenwohnbereich beträgt die Höhe
 der Entschädigung pauschal:
 
-1.
-    *        *   für ein im Isophonen-Band 1 gelegenes Grundstück:
+1.  | für ein im Isophonen-Band 1 gelegenes Grundstück: | 6 000 Euro, |
+    | --- | --- |
 
-        *   6 000 Euro,
+2.  | für ein im Isophonen-Band 2 gelegenes Grundstück: | 4 440 Euro. |
+    | --- | --- |
 
-
-
-
-
-2.
-    *        *   für ein im Isophonen-Band 2 gelegenes Grundstück:
-
-        *   4 440 Euro.
-
-
-
-
-
-
-
-(3) Bei einem Mehrfamilienhaus mit Außenwohnbereich erhöht sich die
-Entschädigung pauschal gegenüber Absatz 2 mit jeder weiteren
+(3) Bei einem Mehrfamilienhaus mit Außenwohnbereich erhöht sich
+die Entschädigung pauschal gegenüber Absatz 2 mit jeder weiteren
 abgeschlossenen Wohnung
 
-1.
-    *        *   für ein im Isophonen-Band 1 gelegenes Grundstück um:
+1.  | für ein im Isophonen-Band 1 gelegenes Grundstück um: | 2 000 Euro, |
+    | --- | --- |
 
-        *   2 000 Euro,
-
-
-
-
-
-2.
-    *        *   für ein im Isophonen-Band 2 gelegenes Grundstück um:
-
-        *   1 480 Euro.
-
-
-
-
-
-
+2.  | für ein im Isophonen-Band 2 gelegenes Grundstück um: | 1 480 Euro. |
+    | --- | --- |
 
 (4) Bei einer Eigentumswohnung mit Außenwohnbereich beträgt die Höhe
 der Entschädigung pauschal:
 
-1.
-    *        *   für ein im Isophonen-Band 1 gelegenes Grundstück:
+1.  | für ein im Isophonen-Band 1 gelegenes Grundstück: | 3 000 Euro, |
+    | --- | --- |
 
-        *   3 000 Euro,
-
-
-
-
-
-2.
-    *        *   für ein im Isophonen-Band 2 gelegenes Grundstück:
-
-        *   2 220 Euro.
-
-
-
-
-
-
+2.  | für ein im Isophonen-Band 2 gelegenes Grundstück: | 2 220 Euro. |
+    | --- | --- |
 
 
 ## § 6 Erhöhte Entschädigung aufgrund des Verkehrswertes
@@ -225,8 +164,8 @@ landwirtschaftlich, gewerblich oder gemischt genutzten Grundstücken
 ist nur der Anteil des Verkehrswertes zu berücksichtigen, der auf die
 Wohnnutzung entfällt. Satz 2 gilt entsprechend für Eigentumswohnungen.
 
-(3) Der Verkehrswert kann nachgewiesen werden durch ein Gutachten des
-Gutachterausschusses für Grundstückswerte. Sofern der
+(3) Der Verkehrswert kann nachgewiesen werden durch ein Gutachten
+des Gutachterausschusses für Grundstückswerte. Sofern der
 Gutachterausschuss gehindert ist, ein Verkehrswertgutachten zu
 erstatten, kann eine andere Stelle mit der Erstattung betraut werden.
 Die erforderlichen Kosten für den Nachweis des Verkehrswertes trägt
@@ -239,52 +178,40 @@ Entschädigung als nach § 5 ergibt.
 Die Entschädigung nach den §§ 5 und 6 wird um die Hälfte gemindert,
 sofern Grundstücke
 
-1.  in Industriegebieten im Sinne des § 9 der Baunutzungsverordnung oder
-    in folgenden Sondergebieten im Sinne des § 11 Absatz 2 der
+1.  in Industriegebieten im Sinne des § 9 der Baunutzungsverordnung
+    oder in folgenden Sondergebieten im Sinne des § 11 Absatz 2 der
     Baunutzungsverordnung
 
     a)  Ladengebiete,
 
-
     b)  Gebiete für Einkaufszentren und großflächige Handelsbetriebe,
-
 
     c)  Gebiete für Messen, Ausstellungen und Kongresse,
 
-
     d)  Hafengebiete
 
-
-
     gelegen sind und der fluglärmbedingte äquivalente Dauerschallpegel für
-    den Tag (L
-    Aeq Tag                   ) den Wert von 70 Dezibel (A) nicht
-    erreicht,
-
+    den Tag (LAeq Tag) den Wert von 70 Dezibel (A) nicht erreicht,
 
 2.  in Gewerbegebieten im Sinne des § 8 der Baunutzungsverordnung gelegen
     sind und der fluglärmbedingte äquivalente Dauerschallpegel für den Tag
-    (L
-    Aeq Tag                   ) den Wert von 65 Dezibel (A) nicht
-    erreicht.
-
-
+    (LAeq Tag) den Wert von 65 Dezibel (A) nicht erreicht.
 
 Die Art der in Satz 1 bezeichneten Gebiete ergibt sich aus den
 Festlegungen in den Bebauungsplänen. Gebiete, für die keine
-Festsetzungen bestehen, sind entsprechend ihrer Schutzbedürftigkeit zu
-beurteilen.
+Festsetzungen bestehen, sind entsprechend ihrer Schutzbedürftigkeit
+zu beurteilen.
 
 
 ## § 8 Entschädigung in besonderen Fällen
 
-(1) Bei Wohnungen kann abweichend von den §§ 5 bis 7 eine höhere oder
-niedrigere Entschädigung festgesetzt werden, wenn aufgrund besonderer
-Umstände des Einzelfalls eine deutlich abweichende Höhe der
+(1) Bei Wohnungen kann abweichend von den §§ 5 bis 7 eine höhere
+oder niedrigere Entschädigung festgesetzt werden, wenn aufgrund
+besonderer Umstände des Einzelfalls eine deutlich abweichende Höhe der
 Entschädigung angemessen ist.
 
-(2) Bereits früher für fluglärmbedingte Beeinträchtigungen des
-Außenwohnbereichs geleistete Entschädigungen sind auf die
+(2) Bereits früher für fluglärmbedingte Beeinträchtigungen
+des Außenwohnbereichs geleistete Entschädigungen sind auf die
 Entschädigung nach dieser Verordnung in voller Höhe anzurechnen.
 
 (3) Eine Außenwohnbereichsentschädigung ist nicht zu leisten, sofern
@@ -305,12 +232,8 @@ sich die Entschädigung pauschal gegenüber Absatz 1
 1.  mit jeder abgeschlossenen Wohnung um den in § 5 Absatz 3 Nummer 1 oder
     Nummer 2 genannten Betrag,
 
-
 2.  mit jedem Einzel-, Doppel- oder Mehrbettzimmer um die Hälfte des in §
     5 Absatz 3 Nummer 1 oder Nummer 2 genannten Betrages.
-
-
-
 
 (3) Bei einer schutzbedürftigen Einrichtung ohne Wohnnutzung erhöht
 sich die Entschädigung pauschal gegenüber Absatz 1 mit jedem dauerhaft

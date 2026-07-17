@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen
-  Mark (Albert-Schweitzer-Gedenkmünze)
+Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Albert-Schweitzer-Gedenkmünze)
 jurabk: Münz5DMBek 1975-10
 layout: default
 origslug: m_nz5dmbek_1975-10
@@ -17,11 +16,10 @@ Fundstelle
 :   BGBl I: 1975, 2626 (2684)
 
 
-
 ## (XXXX)
 
-(1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen vom
-8\. Juli 1950 (Bundesgesetzblatt S. 323) ist aus Anlaß der 100.
+(1) Auf Grund des Gesetzes über die Ausprägung von Scheidemünzen
+vom 8. Juli 1950 (Bundesgesetzblatt S. 323) ist aus Anlaß der 100.
 Wiederkehr des Geburtstages von Albert Schweitzer eine Bundesmünze
 (Gedenkmünze) im Nennwert von 5 Deutschen Mark geprägt worden. Die
 Ausprägung erfolgte in der Staatlichen Münze Karlsruhe, die Auflage
@@ -37,34 +35,28 @@ Feinsilber und 375 Tausendteilen Kupfer. Sie hat einen Durchmesser von
 (4) Das Gepräge auf beiden Seiten ist erhaben und wird von einem
 schützenden glatten Randstab umgeben.
 
-(5) Die Bildseite zeigt das Porträt des Arztes und Philosophen mit der
-Umschrift
+(5) Die Bildseite zeigt das Porträt des Arztes und Philosophen mit
+der Umschrift
 
-*   "ALBERT SCHWEITZER 1875-1965".
-
-
+-   "ALBERT SCHWEITZER 1875-1965".
 
 Die Signatur "MS" des Künstlers, der die Münze entworfen hat, befindet
 sich rechts unten im Porträt Albert Schweitzers.
 
 (6) Auf der Wertseite sind eingeprägt der Adler und die Umschrift
 
-*   "BUNDESREPUBLIK DEUTSCHLAND 1975
+-   "BUNDESREPUBLIK DEUTSCHLAND 1975
 
     5
 
     DEUTSCHE MARK".
-
-
 
 Das Münzzeichen "G" der Staatlichen Münze Karlsruhe befindet sich
 rechts von der Wertziffer "5".
 
 (7) Der glatte Münzrand ist mit der vertieften Inschrift
 
-*   "EHRFURCHT VOR DEM LEBEN"
-
-
+-   "EHRFURCHT VOR DEM LEBEN"
 
 versehen. Zwischen Ende und Anfang der Randbeschriftung ist eine
 Arabeske eingeprägt.

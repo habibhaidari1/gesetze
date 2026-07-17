@@ -1,7 +1,5 @@
 ---
-Title: Gesetz über die Internationalen Übereinkommen betreffend die Krankenversicherung
-  der Arbeitnehmer in Gewerbe und Handel und der Hausgehilfen sowie die Krankenversicherung
-  der Arbeitnehmer in der Landwirtschaft
+Title: Gesetz über die Internationalen Übereinkommen betreffend die Krankenversicherung der Arbeitnehmer in Gewerbe und Handel und der Hausgehilfen sowie die Krankenversicherung der Arbeitnehmer in der Landwirtschaft
 jurabk: KVArbNÜbkG
 layout: default
 origslug: kvarbn_bkg
@@ -16,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   RGBl II: 1927, 887
-
 
 
 ## § 1

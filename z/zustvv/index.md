@@ -1,6 +1,5 @@
 ---
-Title: Verordnung zur Einführung von Vordrucken für die Zustellung im gerichtlichen
-  Verfahren
+Title: Verordnung zur Einführung von Vordrucken für die Zustellung im gerichtlichen Verfahren
 jurabk: ZustVV
 layout: default
 origslug: zustvv
@@ -17,7 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 671 (1019)
 
 Zuletzt geändert durch
-:   Art. 26 G v. 5.10.2021 I 4607
+:   Art. 1 V v. 31.3.2025 I Nr. 103
 
 
 ## Eingangsformel
@@ -36,21 +35,15 @@ Für die Zustellung im gerichtlichen Verfahren werden eingeführt:
     Schriftstücken mit Zustellungsurkunde nach § 182 Abs. 1 und 2 der
     Zivilprozessordnung (Zustellungsurkunde),
 
-
 2.  der in Anlage 2 bestimmte Vordruck für den Briefumschlag nach § 176
     Absatz 2 der Zivilprozessordnung (innerer Umschlag),
-
 
 3.  der in Anlage 3 bestimmte Vordruck für den Postzustellungsauftrag nach
     § 168 Abs. 1 der Zivilprozessordnung (äußerer Umschlag/Auftrag),
 
-
 4.  der in Anlage 4 bestimmte Vordruck für die schriftliche Mitteilung
     über die Zustellung durch Niederlegung nach § 181 Abs. 1 Satz 2 der
     Zivilprozessordnung (Benachrichtigung).
-
-
-
 
 
 ## § 2 Zulässige Abweichungen
@@ -71,28 +64,23 @@ der Vorausverfügungen auf dem inneren Umschlag nicht.
 
 1.  Berichtigungen, die auf einer Änderung von Rechtsvorschriften beruhen;
 
-
-2.  Anpassungen, Änderungen oder Ergänzungen, die es, ohne den Inhalt der
-    Vordrucke zu verändern oder das Verständnis der Vordrucke zu
+2.  Anpassungen, Änderungen oder Ergänzungen, die es, ohne den Inhalt
+    der Vordrucke zu verändern oder das Verständnis der Vordrucke zu
     erschweren, den Gerichten ermöglichen, die Verfahren maschinell zu
     bearbeiten und für die Bearbeitung technische Entwicklungen nutzbar zu
     machen oder vorhandene technische Einrichtungen weiter zu nutzen;
 
-
-3.  Anpassungen, Änderungen oder Ergänzungen, die es, ohne den Inhalt der
-    Vordrucke zu verändern oder das Verständnis der Vordrucke zu
+3.  Anpassungen, Änderungen oder Ergänzungen, die es, ohne den Inhalt
+    der Vordrucke zu verändern oder das Verständnis der Vordrucke zu
     erschweren, ermöglichen, technische Einrichtungen der üblichen
     Briefbeförderung für das Zustellungsverfahren zu nutzen.
 
 
+## § 3 Übergangsregelung
 
-
-
-## § 3 Überleitungsvorschrift
-
-Der Vordruck nach Anlage 1 zu § 1 Nr. 1 in der bis zum 30. April 2004
-geltenden Fassung kann bis zum 31. Dezember 2004 weiterverwendet
-werden.
+Die Vordrucke nach den Anlagen 1 und 2 jeweils in der bis
+einschließlich 31. Juli 2025 geltenden Fassung können bis
+einschließlich 31. Juli 2026 weiterverwendet werden.
 
 
 ## § 4 Inkrafttreten
@@ -104,31 +92,35 @@ Diese Verordnung tritt am 1. Juli 2002 in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
-(zu § 1 Nr. 1)
 
-## Anlage 1 Zustellungsurkunde
+## Anlage 1 (zu § 1 Nummer 1)
 
-(Fundstelle: BGBl. I 2004, 620 u. 621)
+(Fundstelle: BGBl. 2025 I Nr. 103, S. 3 – 4)
 
+[Anlage: bgbl1_2025_j01030_0010.pdf](bgbl1_2025_j01030_0010.pdf)
 
-(zu § 1 Nr. 2)
-
-## Anlage 2 Innerer Umschlag
-
-(Fundstelle: BGBl. I 2002, 674)
+[Anlage: bgbl1_2025_j01030_0020.pdf](bgbl1_2025_j01030_0020.pdf)
 
 
-(zu § 1 Nr. 3)
+## Anlage 2 (zu § 1 Nummer 2)
 
-## Anlage 3 Äußerer Umschlag/Auftrag
+(Fundstelle: BGBl. 2025 I Nr. 103, S. 5)
+
+[Anlage: bgbl1_2025_j01030_0030.pdf](bgbl1_2025_j01030_0030.pdf)
+
+[Anlage: bgbl1_2025_j01030_0040.pdf](bgbl1_2025_j01030_0040.pdf)
+
+
+## Anlage 3 (zu § 1 Nr. 3) Äußerer Umschlag/Auftrag
 
 (Fundstelle: BGBl. I 2002, 675)
 
+[Anlage: bgbl1_2002_j0671_0030.pdf](bgbl1_2002_j0671_0030.pdf)
 
-(zu § 1 Nr. 4)
 
-## Anlage 4 Benachrichtigung
+## Anlage 4 (zu § 1 Nr. 4) Benachrichtigung
 
 (Fundstelle: BGBl. I 2002, 676)
 
+[Anlage: bgbl1_2002_j0671_0040.pdf](bgbl1_2002_j0671_0040.pdf)
 

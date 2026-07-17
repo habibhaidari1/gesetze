@@ -25,60 +25,46 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
-## Art 1 bis 6 - 
-
+## Art 1 bis 6
 
 
 ## Art 7 - (weggefallen)
 
 
-
-## (XXXX) §§ 1 und 2 (weggefallen)
-
+### (XXXX) §§ 1 und 2 (weggefallen)
 
 
-## Art 8 - 
-
+## Art 8
 
 
 ## Art 9 - Schlußvorschriften
 
 
-
-## I. Aufhebung von Vorschriften
+### I. Aufhebung von Vorschriften
 
 -
 
 
-## II. Übergangsvorschriften
-
+### II. Übergangsvorschriften
 
 1.  bis 4 (weggefallen)
 
-
-
-
-
 5.  Soweit im deutschen bürgerlichen Recht oder im deutschen
-    Verfahrensrecht die Staatsangehörigkeit einer Person maßgebend ist,
-    stehen den deutschen Staatsangehörigen die Personen gleich, die, ohne
-    die deutsche Staatsangehörigkeit zu besitzen, Deutsche im Sinne des
-    Artikels 116 Abs. 1 des Grundgesetzes sind. Rechtskräftige
+    Verfahrensrecht die Staatsangehörigkeit einer Person maßgebend
+    ist, stehen den deutschen Staatsangehörigen die Personen gleich,
+    die, ohne die deutsche Staatsangehörigkeit zu besitzen, Deutsche im
+    Sinne des Artikels 116 Abs. 1 des Grundgesetzes sind. Rechtskräftige
     gerichtliche Entscheidungen bleiben unberührt.
-
 
 6.  (weggefallen)
 
 
-
-
-
-## III. (weggefallen)
+### III. (weggefallen)
 
 -
 
 
-## IV. Inkrafttreten
+### IV. Inkrafttreten
 
 Dieses Gesetz tritt am 1. Januar 1962 in Kraft; Artikel 9 II. Nr. 6
 tritt jedoch am Tage nach der Verkündung in Kraft.

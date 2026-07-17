@@ -1,7 +1,5 @@
 ---
-Title: Verordnung über die Gewährung von Vorrechten und Befreiungen an die Nordatlantikvertrags-Organisation,
-  die nationalen Vertreter, das internationale Personal und die für die Organisation
-  tätigen Sachverständigen
+Title: Verordnung über die Gewährung von Vorrechten und Befreiungen an die Nordatlantikvertrags-Organisation, die nationalen Vertreter, das internationale Personal und die für die Organisation tätigen Sachverständigen
 jurabk: NATOVorRV
 layout: default
 origslug: natovorrv
@@ -16,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl II: 1958, 117
-
 
 
 ## Eingangsformel
@@ -34,9 +31,9 @@ verordnet:
 ## § 1
 
 (1) Die Bestimmungen des Abkommens über die Vorrechte und Befreiungen
-der Sonderorganisationen der Vereinten Nationen finden sinngemäß auf
-die Nordatlantikvertrags-Organisation, die nationalen Vertreter, das
-internationale Personal und die für die Organisation tätigen
+der Sonderorganisationen der Vereinten Nationen finden sinngemäß
+auf die Nordatlantikvertrags-Organisation, die nationalen Vertreter,
+das internationale Personal und die für die Organisation tätigen
 Sachverständigen nach Maßgabe des von der Bundesrepublik Deutschland
 am 29. Mai 1956 unterzeichneten Übereinkommens über den Status der
 Nordatlantikvertrags-Organisation, der nationalen Vertreter und des

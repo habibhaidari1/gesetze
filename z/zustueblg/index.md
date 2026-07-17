@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zur Überleitung der Zuständigkeit der Obersten Rückerstattungsgerichte
-  auf den Bundesgerichtshof (Artikel 9 d. Rechtspflege-Vereinfachungsgesetzes)
+Title: Gesetz zur Überleitung der Zuständigkeit der Obersten Rückerstattungsgerichte auf den Bundesgerichtshof (Artikel 9 d. Rechtspflege-Vereinfachungsgesetzes)
 jurabk: ZustÜblG
 layout: default
 origslug: zust_blg
@@ -25,16 +24,16 @@ Geändert durch
 In den Verfahren über Ansprüche nach dem Bundesrückerstattungsgesetz
 in der im Bundesgesetzblatt Teil III, Gliederungsnummer 250-1,
 veröffentlichten bereinigten Fassung, zuletzt geändert durch Gesetz
-vom 3. September 1969 (BGBl. I S. 1561), und nach dem Bundesgesetz zur
-Einführung des Bundesrückerstattungsgesetzes im Saarland vom 12.
-Januar 1967 (BGBl. I S. 133) sowie nach den Vorschriften zur
+vom 3. September 1969 (BGBl. I S. 1561), und nach dem Bundesgesetz
+zur Einführung des Bundesrückerstattungsgesetzes im Saarland vom
+12\. Januar 1967 (BGBl. I S. 133) sowie nach den Vorschriften zur
 Rückerstattung feststellbarer Vermögensgegenstände (§ 11 Nr. 1 des
 Bundesrückerstattungsgesetzes) findet im Geltungsbereich der in § 11
 Nr. 1 Buchstabe a, b und d des Bundesrückerstattungsgesetzes genannten
-Rechtsvorschriften gegen den Rechtszug abschließende Beschlüsse der
-Oberlandesgerichte die weitere Beschwerde, im Geltungsbereich der in §
-11 Nr. 1 Buchstabe c des Bundesrückerstattungsgesetzes und in § 11 Nr.
-1 Buchstabe e des Bundesgesetzes zur Einführung des
+Rechtsvorschriften gegen den Rechtszug abschließende Beschlüsse
+der Oberlandesgerichte die weitere Beschwerde, im Geltungsbereich
+der in § 11 Nr. 1 Buchstabe c des Bundesrückerstattungsgesetzes
+und in § 11 Nr. 1 Buchstabe e des Bundesgesetzes zur Einführung des
 Bundesrückerstattungsgesetzes im Saarland genannten Rechtsvorschriften
 gegen Endurteile der Oberlandesgerichte die Revision an den
 Bundesgerichtshof (Zivilsenat) statt.
@@ -42,8 +41,8 @@ Bundesgerichtshof (Zivilsenat) statt.
 
 ## § 2
 
-Für das Verfahren über die Revision und die weitere Beschwerde gelten
-die Vorschriften des Zweiten Abschnitts des Dritten Buches der
+Für das Verfahren über die Revision und die weitere Beschwerde
+gelten die Vorschriften des Zweiten Abschnitts des Dritten Buches der
 Zivilprozeßordnung entsprechend, soweit dieses Gesetz nichts anderes
 bestimmt.
 

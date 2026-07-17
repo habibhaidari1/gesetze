@@ -1,7 +1,5 @@
 ---
-Title: Verordnung über die Gewährung von Vorrechten und Immunitäten an die Internationale
-  Kaffee-Organisation gem. Art. 23 des Internationalen Kaffee-Übereinkommens von 1983
-  in der Fassung der Verlängerung vom 4. Juli 1989
+Title: Verordnung über die Gewährung von Vorrechten und Immunitäten an die Internationale Kaffee-Organisation gem. Art. 23 des Internationalen Kaffee-Übereinkommens von 1983 in der Fassung der Verlängerung vom 4. Juli 1989
 jurabk: KaffeeÜbk1983OrgVorRV
 layout: default
 origslug: kaffee_bk1983orgvorrv
@@ -16,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl II: 1990, 94
-
 
 
 ## Eingangsformel
@@ -51,14 +48,14 @@ vom 22. Juni 1954, der durch das Gesetz vom 28. Februar 1964 (BGBl.
 ## § 3
 
 (1) Diese Verordnung tritt an dem Tage in Kraft, an dem das
-Internationale Kaffee-Übereinkommen von 1983 in der Fassung der in § 1
-bezeichneten Entschließung des Internationalen Kaffeerates zur
+Internationale Kaffee-Übereinkommen von 1983 in der Fassung der in
+§ 1 bezeichneten Entschließung des Internationalen Kaffeerates zur
 Verlängerung des Internationalen Kaffee-Übereinkommens von 1983 für
 die Bundesrepublik Deutschland in Kraft tritt.
 
 (2) Diese Verordnung tritt an dem Tage außer Kraft, an dem das
-Internationale Kaffee-Übereinkommen von 1983 in der Fassung der in § 1
-bezeichneten Entschließung des Internationalen Kaffeerates zur
+Internationale Kaffee-Übereinkommen von 1983 in der Fassung der in
+§ 1 bezeichneten Entschließung des Internationalen Kaffeerates zur
 Verlängerung des Internationalen Kaffee-Übereinkommens von 1983 für
 die Bundesrepublik Deutschland außer Kraft tritt.
 

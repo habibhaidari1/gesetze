@@ -34,8 +34,8 @@ sichern, die Folgen der Verletzung zu erleichtern oder die durch den
 Versicherungsfall geschaffene Lage des Verletzten zu verbessern.
 
 (2) Bei der Versorgung sind Art und Schwere der Verletzungsfolgen
-sowie die beruflichen und persönlichen Verhältnisse des Verletzten zu
-berücksichtigen.
+sowie die beruflichen und persönlichen Verhältnisse des Verletzten
+zu berücksichtigen.
 
 
 ## § 2
@@ -58,8 +58,7 @@ Blindenführhunde.
 
 (2) Versicherte, die infolge eines Versicherungsfalls erblindet sind,
 erhalten zum Unterhalt eines Blindenführhunds oder zu den Aufwendungen
-für fremde Führung einen monatlichen Zuschuß in Höhe des in § 14 des
-Bundesversorgungsgesetzes jeweils festgesetzten Betrags.
+für fremde Führung einen monatlichen Zuschuß.
 
 
 ## § 3
@@ -69,30 +68,21 @@ Stand der technischen Entwicklung entsprechen. Sie sind in der
 erforderlichen Zahl, Kunstbeine, Kunstaugen und orthopädische Schuhe
 bei der Erstausstattung in der Regel in doppelter Zahl zu liefern.
 
-(2) Einseitig Beinamputierte erhalten bei der Erstausstattung zu jedem
-Kunstbein kostenfrei je ein Paar Schuhe. Auf Antrag kann für den
-erhaltenen Fuß je ein weiterer Schuh geliefert werden
+(2) Einseitig Beinamputierte erhalten bei der Erstausstattung zu
+jedem Kunstbein kostenfrei je ein Paar Schuhe. Auf Antrag kann
+für den erhaltenen Fuß je ein weiterer Schuh geliefert werden
 (Dreierausstattung).
 
 (3) Prothesenschuhe werden kostenfrei ersetzt. Schuhe für den
-erhaltenen Fuß werden gegen Erstattung eines Kostenanteils in Höhe des
-Betrags mitgeliefert, der in § 6 Abs. 4 der Verordnung zur
-Durchführung des § 11 Abs. 3 und des § 13 des
-Bundesversorgungsgesetzes,
-zuletzt geändert durch § 6 der Verordnung zur Durchführung des § 15
-des Bundesversorgungsgesetzes vom 31. Januar 1972 (Bundesgesetzbl. I
-S. 105),              in der jeweils geltenden Fassung festgesetzt
-ist. Der Träger der Unfallversicherung kann einem Verletzten mit
-Rücksicht auf seine wirtschaftlichen Verhältnisse die Erstattung des
-Kostenanteils auf Antrag ganz oder zum Teil erlassen.
+erhaltenen Fuß werden mitgeliefert.
 
 (4) Die Absätze 2 und 3 gelten entsprechend für die Ausstattung mit
 orthopädischen Schuhen und mit Handschuhen.
 
-(5) Körperersatzstücke und Hilfsmittel sind bei Bedarf instand zu
-setzen oder zu ersetzen. Bei orthopädischen Schuhen und
-Prothesenschuhen werden die Kosten der infolge gewöhnlicher Abnutzung
-erforderlichen Besohlung nicht ersetzt. Der Träger der
+(5) Körperersatzstücke und Hilfsmittel sind bei Bedarf instand
+zu setzen oder zu ersetzen. Bei orthopädischen Schuhen und
+Prothesenschuhen werden die Kosten der infolge gewöhnlicher
+Abnutzung erforderlichen Besohlung nicht ersetzt. Der Träger der
 Unfallversicherung kann die Instandsetzung oder den Ersatz verweigern,
 wenn der Verletzte die Unbrauchbarkeit oder den Verlust des
 Körperersatzstücks oder Hilfsmittels durch Mißbrauch vorsätzlich oder
@@ -143,41 +133,49 @@ Kraftfahrzeugs hat der Träger der Unfallversicherung zu übernehmen,
 soweit diese Einrichtungen wegen der Verletzungsfolgen erforderlich
 sind.
 
-(6) Die Kosten der Haltung des Kraftfahrzeugs sowie die Kosten von
-Reparaturen hat der Verletzte in der Regel selbst zu tragen. Zu
-notwendigen größeren Reparaturen kann der Träger der
+(6) Die Kosten der Haltung des Kraftfahrzeugs sowie die Kosten
+von Reparaturen hat der Verletzte in der Regel selbst zu
+tragen. Zu notwendigen größeren Reparaturen kann der Träger der
 Unfallversicherung einen Zuschuß oder ein Darlehen gewähren.
 
 (7) Bei der Gewährung von Zuschüssen und der Übernahme von Kosten ist
-von den in § 5 Abs. 1 Nr. 1 und Abs. 3 Nr. 2 und 3 der Verordnung zur
-Durchführung des § 11 Abs. 3 und des § 13 des
-Bundesversorgungsgesetzes in der jeweils geltenden Fassung
-festgesetzten Beträgen auszugehen.
+von den in der Kraftfahrzeughilfe-Verordnung festgesetzten Beträgen
+auszugehen.
 
 (8) § 4 gilt entsprechend.
 
 
 ## § 7
 
-Für Voraussetzungen und Höhe der Entschädigung für Kleider- und
-Wäscheverschleiß gelten die Vorschriften des § 15 des
-Bundesversorgungsgesetzes und der Verordnung zur Durchführung des § 15
-des Bundesversorgungsgesetzes vom 31. Januar 1972 (Bundesgesetzbl. I
-S. 105) in der jeweils geltenden Fassung entsprechend.
+(1) Versicherte, denen infolge eines Versicherungsfalls
+außergewöhnlicher Verschleiß an Kleidung oder Wäsche entsteht,
+erhalten für die dadurch entstehenden Kosten einen monatlichen
+Pauschbetrag.
+
+(2) Übersteigen die tatsächlichen Aufwendungen den höchsten
+Pauschbetrag, so sind sie in besonderen Fällen erstattungsfähig.
 
 
 ## § 8
 
 Um eine gleichmäßige Versorgung der Unfallverletzten zu sichern,
-sollen die Träger der Unfallversicherung gemeinsame Richtlinien über
-Einzelheiten der Gewährung, des Gebrauchs und des Ersatzes von
+sollen die Träger der Unfallversicherung gemeinsame Richtlinien
+über Einzelheiten der Gewährung, des Gebrauchs und des Ersatzes von
 Körperersatzstücken und Hilfsmitteln vereinbaren.
 
 
-## § 9
+## § 9 Übergangsregelung aus Anlass des Gesetzes zur Regelung des Sozialen Entschädigungsrechts
 
-Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
-4\. Januar 1952 (Bundesgesetzblatt I S. 1) auch im Land Berlin.
+Für Personen, die Leistungen nach dem Soldatenversorgungsgesetz
+in der Fassung der Bekanntmachung vom 16. September 2009 (BGBl. I
+S. 3054), das zuletzt durch Artikel 19 des Gesetzes vom 4. August
+2019 (BGBl. I S. 1147) geändert worden ist, in Verbindung mit
+dem Bundesversorgungsgesetz in der Fassung der Bekanntmachung vom
+22\. Januar 1982 (BGBl. I S. 21), das zuletzt durch Artikel 1 der
+Verordnung vom 13. Juni 2019 (BGBl. I S. 793) geändert worden ist,
+erhalten, gelten die Vorschriften des § 2 Absatz 2, des § 3 Absatz
+3 Satz 2, des § 6 Absatz 7 und des § 7 in der am 31. Dezember 2023
+geltenden Fassung weiter.
 
 
 ## § 10

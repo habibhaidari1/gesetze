@@ -1,6 +1,5 @@
 ---
-Title: Gesetz über die Wahl der Vertreter der Bundesrepublik Deutschland zur Parlamentarischen
-  Versammlung des Europarates
+Title: Gesetz über die Wahl der Vertreter der Bundesrepublik Deutschland zur Parlamentarischen Versammlung des Europarates
 jurabk: EuRatWahlG 1990
 layout: default
 origslug: euratwahlg_1990
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 1990, 2586
-
 
 
 ## Art 1

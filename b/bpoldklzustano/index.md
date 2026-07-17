@@ -1,6 +1,5 @@
 ---
-Title: Anordnung des Bundespräsidenten über den Erlass der Bestimmungen über die Dienstkleidung
-  der Beamtinnen und Beamten der Bundespolizei
+Title: Anordnung des Bundespräsidenten über den Erlass der Bestimmungen über die Dienstkleidung der Beamtinnen und Beamten der Bundespolizei
 jurabk: BPolDKlZustAnO
 layout: default
 origslug: bpoldklzustano
@@ -25,8 +24,8 @@ vom 5. Februar 2009 (BGBl. I S. 160) ordne ich an:
 
 ## § 1
 
-Die Bestimmungen über die Dienstkleidung der Inspekteurin oder des
-Inspekteurs der Bereitschaftspolizeien der Länder erlässt das
+Die Bestimmungen über die Dienstkleidung der Inspekteurin oder
+des Inspekteurs der Bereitschaftspolizeien der Länder erlässt das
 Bundesministerium des Innern.
 
 

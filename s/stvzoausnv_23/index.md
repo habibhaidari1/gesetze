@@ -23,8 +23,8 @@ Geändert durch
 
 Auf Grund des § 6 Abs. 1 des Straßenverkehrsgesetzes in der Fassung
 der Bekanntmachung vom 19. Dezember 1952 (Bundesgesetzbl. I S. 837),
-zuletzt geändert durch das Einführungsgesetz zum Strafgesetzbuch vom
-2\. März 1974 (Bundesgesetzbl. I S. 469), wird nach Anhören der
+zuletzt geändert durch das Einführungsgesetz zum Strafgesetzbuch
+vom 2. März 1974 (Bundesgesetzbl. I S. 469), wird nach Anhören der
 zuständigen obersten Landesbehörden verordnet:
 
 
@@ -40,8 +40,8 @@ zuständigen obersten Landesbehörden verordnet:
 
 ## § 3
 
-Abweichend von § 53 Abs. 4 Satz 4 StVZO sind an Fahrzeugen, die vor
-dem 1. April 1974 erstmals in den Verkehr gekommen sind, zwei
+Abweichend von § 53 Abs. 4 Satz 4 StVZO sind an Fahrzeugen, die
+vor dem 1. April 1974 erstmals in den Verkehr gekommen sind, zwei
 zusätzliche Rückstrahler nicht erforderlich, wenn eine höhere
 Anbringung der vorgeschriebenen Rückstrahler bei der Erteilung der
 Betriebserlaubnis genehmigt und eine Auflage über die Anbringung eines

@@ -28,7 +28,6 @@ beschlossen:
 ## Erster Abschnitt - Grundsätze für die Verleihung von Titeln, Orden und Ehrenzeichen
 
 
-
 ### § 1 Grundsatz
 
 (1) Für besondere Verdienste um die Bundesrepublik Deutschland können
@@ -59,9 +58,9 @@ sowie die Genehmigung sind im Bundesgesetzblatt zu verkünden.
 Bundespräsidenten als Ehrenzeichen im Sinne dieses Gesetzes anerkannt
 werden.
 
-(3) Die mit einer öffentlichen Dienststellung oder akademischer Würde
-verbundenen äußeren Abzeichen werden durch dieses Gesetz nicht
-berührt. Das gleiche gilt für Abzeichen, die lediglich die
+(3) Die mit einer öffentlichen Dienststellung oder akademischer
+Würde verbundenen äußeren Abzeichen werden durch dieses Gesetz
+nicht berührt. Das gleiche gilt für Abzeichen, die lediglich die
 Zugehörigkeit zu einer Vereinigung, die Teilnahme an einer Versammlung
 oder sonstigen Veranstaltung kennzeichnen oder als Anerkennung für
 eine Leistung oder für eine Geldspende bestimmt sind, sofern sie nicht
@@ -73,12 +72,12 @@ Verwechseln ähnlich sind.
 ### § 4 Entziehung
 
 (1) Erweist sich ein Beliehener durch sein Verhalten, insbesondere
-durch Begehen einer entehrenden Straftat, des verliehenen Titels oder
-der verliehenen Auszeichnung unwürdig oder wird ein solches Verhalten
-nachträglich bekannt, so kann ihm der Verleihungsberechtigte den Titel
-oder die Auszeichnung entziehen und die Einziehung der
-Verleihungsurkunde anordnen. Für Klagen gegen die Entziehung eines
-Titels oder einer Auszeichnung und die Einziehung der
+durch Begehen einer entehrenden Straftat, des verliehenen Titels
+oder der verliehenen Auszeichnung unwürdig oder wird ein solches
+Verhalten nachträglich bekannt, so kann ihm der Verleihungsberechtigte
+den Titel oder die Auszeichnung entziehen und die Einziehung
+der Verleihungsurkunde anordnen. Für Klagen gegen die Entziehung
+eines Titels oder einer Auszeichnung und die Einziehung der
 Verleihungsurkunde ist der Verwaltungsrechtsweg gegeben. Soweit
 Anordnungen des Bundespräsidenten angefochten werden, ist die Klage
 gegen den Bundesminister des Innern, für Bau und Heimat zu richten.
@@ -88,20 +87,16 @@ gegen den Bundesminister des Innern, für Bau und Heimat zu richten.
 1.  auf eine Freiheitsstrafe von mindestens einem Jahr wegen eines
     Verbrechens,
 
-
 2.  auf eine Freiheitsstrafe von mindestens sechs Monaten wegen einer
     vorsätzlichen Tat, die nach den Vorschriften über Friedensverrat,
     Hochverrat, Gefährdung des demokratischen Rechtsstaates, Landesverrat
     oder Gefährdung der äußeren Sicherheit strafbar ist, oder
 
-
 3.  auf Aberkennung der Fähigkeit, öffentliche Ämter zu bekleiden,
 
-
-
-und ergibt sich aus dem Strafurteil, daß der Verurteilte Inhaber von
-Titeln, Orden oder Ehrenzeichen ist, die nach dem 8. Mai 1945
-verliehen worden sind, so teilt die Strafverfolgungs- oder
+und ergibt sich aus dem Strafurteil, daß der Verurteilte Inhaber
+von Titeln, Orden oder Ehrenzeichen ist, die nach dem 8. Mai
+1945 verliehen worden sind, so teilt die Strafverfolgungs- oder
 Strafvollstreckungsbehörde die Verurteilung mit, sobald sie
 rechtskräftig ist.
 
@@ -111,13 +106,10 @@ rechtskräftig ist.
     des Geltungsbereichs dieses Gesetzes verliehen worden sind, an den
     Verleihungsberechtigten,
 
-
 2.  bei Titeln, Orden oder Ehrenzeichen, die von einem ausländischen
     Staatsoberhaupt, einer ausländischen Regierung oder einer anderen
     Stelle außerhalb des Geltungsbereichs dieses Gesetzes verliehen worden
     sind, an das Bundespräsidialamt.
-
-
 
 Die Mitteilung umfaßt den Urteilstenor sowie den verliehenen Titel
 oder die verliehene Auszeichnung. Der Empfänger der Mitteilung kann
@@ -144,7 +136,6 @@ dieses Gesetzes verliehen werden.
 ## Zweiter Abschnitt - Besondere Vorschriften für früher verliehene Orden und Ehrenzeichen
 
 
-
 ### § 6 Früher verliehene Auszeichnungen
 
 (1) Außer den nach Maßgabe dieses Gesetzes verliehenen Orden und
@@ -159,7 +150,6 @@ Ehrenzeichen dürfen getragen werden
     worden sind, dürfen sie nur in der ursprünglichen Form getragen
     werden;
 
-
 2.  Orden und Ehrenzeichen, die vom 1. August 1934 bis zum 31. August 1939
     für Verdienste um die Olympischen Spiele 1936, um den Luftschutz, das
     Feuerwehrwesen und das Grubenwehrwesen gestiftet worden sind, sowie
@@ -167,14 +157,12 @@ Ehrenzeichen dürfen getragen werden
     Treudienstehrenzeichen. Sie dürfen nur ohne nationalsozialistische
     Embleme getragen werden; für ihre Form sind die von der
     Bundesregierung bestimmten und im Bundesministerium des Innern, für
-    Bau und Heimat verwahrten Muster \*) maßgebend;
+    Bau und Heimat verwahrten Muster *) maßgebend;
 
-
-3.  Orden und Ehrenzeichen, die vom 1. September 1939 bis zum 8. Mai 1945
-    von den zuständigen deutschen Stellen für Verdienste im zweiten
+3.  Orden und Ehrenzeichen, die vom 1. September 1939 bis zum 8. Mai
+    1945 von den zuständigen deutschen Stellen für Verdienste im zweiten
     Weltkrieg gestiftet worden sind, einschließlich der Waffenabzeichen
     und des Verwundetenabzeichens. Nummer 2 Satz 2 gilt entsprechend;
-
 
 4.  Orden und Ehrenzeichen, die von einem ausländischen Staatsoberhaupt
     oder einer ausländischen Regierung verliehen worden sind, wenn die
@@ -183,20 +171,17 @@ Ehrenzeichen dürfen getragen werden
     Weltkrieg, auch soweit eine Genehmigung zur Annahme nicht erteilt oder
     widerrufen worden ist.
 
-
-
-
 (2) Orden und Ehrenzeichen, die in Absatz 1 nicht aufgeführt sind,
 sowie Abzeichen mit nationalsozialistischen Emblemen dürfen nicht
 getragen werden. Sie dürfen weder hergestellt noch angeboten,
 feilgehalten, verkauft oder sonst in Verkehr gebracht werden.
 
 (3) Der Bundespräsident kann die Berechtigung, Auszeichnungen ehemals
-verbündeter Länder für Verdienste im ersten und zweiten Weltkrieg zu
-tragen (Absatz 1 Nr. 4 Satz 2), entziehen. § 4 Satz 2 und 3 gilt
+verbündeter Länder für Verdienste im ersten und zweiten Weltkrieg
+zu tragen (Absatz 1 Nr. 4 Satz 2), entziehen. § 4 Satz 2 und 3 gilt
 entsprechend.
 
-\*) Muster und Herstellungsvorschriften können vom Bundesministerium
+*) Muster und Herstellungsvorschriften können vom Bundesministerium
 des Innern, für Bau und Heimat bezogen werden
 
 
@@ -217,7 +202,6 @@ wie der Nachweis der Verwundungen oder Beschädigungen zu führen ist.
 ## Dritter Abschnitt - Besitznachweis
 
 
-
 ### § 8 Verleihungsurkunde, Besitzzeugnis
 
 Orden und Ehrenzeichen dürfen, soweit §§ 7 und 10 nicht Abweichungen
@@ -230,14 +214,14 @@ Besitzzeugnis innehat.
 
 ### § 9 Ersatzurkunde
 
-(1) Soweit Verleihungsurkunden oder Besitzzeugnisse über Orden und
-Ehrenzeichen, die vor dem 8. Mai 1945 verliehen wurden,
+(1) Soweit Verleihungsurkunden oder Besitzzeugnisse über Orden
+und Ehrenzeichen, die vor dem 8. Mai 1945 verliehen wurden,
 verlorengegangen sind, ist für den Berechtigten auf Antrag, sofern
-nicht auf Grund der vorhandenen Unterlagen eine Zweitausfertigung der
-Verleihungsurkunde oder des Besitzzeugnisses ausgestellt werden kann,
-eine Bescheinigung darüber auszustellen, daß der Antragsteller die
-Verleihung der betreffenden Auszeichnung glaubhaft nachgewiesen hat
-(Ersatzurkunde).
+nicht auf Grund der vorhandenen Unterlagen eine Zweitausfertigung
+der Verleihungsurkunde oder des Besitzzeugnisses ausgestellt werden
+kann, eine Bescheinigung darüber auszustellen, daß der Antragsteller
+die Verleihung der betreffenden Auszeichnung glaubhaft nachgewiesen
+hat (Ersatzurkunde).
 
 (2) Voraussetzung für die Ausstellung einer Ersatzurkunde gemäß Absatz
 1 ist, daß die Verleihung der Auszeichnung nachgewiesen wird. Die Art
@@ -259,22 +243,21 @@ zuständigen Behörden.
 der Verleihung in den Militärdienstzeitbescheinigungen, Wehrpässen und
 Soldbüchern sowie in anderen Militärpapieren mit Beglaubigungsvermerk.
 Der Bundesminister des Innern, für Bau und Heimat wird ermächtigt,
-durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, zu
-bestimmen, daß auch Bescheinigungen anderer Art als Besitznachweis
+durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf,
+zu bestimmen, daß auch Bescheinigungen anderer Art als Besitznachweis
 gelten, und die Stellen zu bezeichnen, die solche Bescheinigungen
 ausstellen; er kann dabei bestimmen, daß für die Ausstellung von
 Bescheinigungen durch Bundesbehörden Gebühren erhoben werden, die im
 Einzelfall höchstens zehn Deutsche Mark betragen dürfen.
 
-(2) Sind Verleihungsurkunden, Besitzzeugnisse oder andere in Absatz 1
-genannte Besitznachweise für Orden und Ehrenzeichen, die vor dem 8.
-Mai 1945 verliehen worden sind, verlorengegangen, so dürfen diese
+(2) Sind Verleihungsurkunden, Besitzzeugnisse oder andere in Absatz
+1 genannte Besitznachweise für Orden und Ehrenzeichen, die vor dem
+8\. Mai 1945 verliehen worden sind, verlorengegangen, so dürfen diese
 Auszeichnungen auch ohne Besitzzeugnis getragen werden, wenn die
 Verleihung in anderer Weise nachgewiesen werden kann.
 
 
 ## Vierter Abschnitt - Ehrensold
-
 
 
 ### § 11
@@ -285,7 +268,6 @@ Verleihung in anderer Weise nachgewiesen werden kann.
 ## Fünfter Abschnitt - Gemeinsame Bestimmungen
 
 
-
 ### § 12 Trageweise
 
 (1) Orden und Ehrenzeichen sowie sonstige Auszeichnungen, die am Band
@@ -294,42 +276,29 @@ von rechts nach links in folgender Reihenfolge angebracht:
 
 1.  Verdienstorden der Bundesrepublik Deutschland,
 
-
 2.  Rettungsmedaille am Bande,
-
 
 3.  Eisernes Kreuz 1914,
 
-
 4.  Eisernes Kreuz 1939,
-
 
 5.  Orden und Ehrenzeichen für Verdienste im ersten Weltkrieg in der
     Reihenfolge ihrer Verleihung,
 
-
 6.  Ehrenkreuz des ersten Weltkrieges,
 
-
 7.  Kriegsverdienstkreuz 1939,
-
 
 8.  sonstige Auszeichnungen für Verdienste im zweiten Weltkrieg in der
     Reihenfolge ihrer Verleihung,
 
-
 9.  weitere deutsche Auszeichnungen in der Reihenfolge ihrer Verleihung,
-
 
 10. staatlich genehmigte Auszeichnungen in der Reihenfolge ihrer
     Verleihung,
 
-
 11. ausländische Auszeichnungen in der Reihenfolge ihres
     Klassenverhältnisses.
-
-
-
 
 (2) Für die Tragweise von Orden, Ehrenzeichen sowie sonstigen
 Auszeichnungen, die nach dem Stiftungserlaß am Schulterband, am Hals
@@ -368,7 +337,6 @@ erteilen.
 ## Sechster Abschnitt - Bußgeld- und Schlußbestimmungen
 
 
-
 ### § 15 Ordnungswidrigkeiten
 
 (1) Ordnungswidrig handelt, wer
@@ -376,27 +344,18 @@ erteilen.
 1.  unbefugt inländische oder ausländische Orden oder Ehrenzeichen, auch
     in verkleinerter Form, oder dazugehörige Bänder trägt oder
 
-
 2.  eine Auszeichnung, die in § 6 nicht aufgeführt ist, oder ein
     dazugehöriges Band öffentlich trägt.
-
-
-
 
 (2) Ordnungswidrig handelt auch, wer
 
 1.  entgegen § 14 Abs. 1 Orden, Ehrenzeichen oder dazugehörige Bänder
     einer Privatperson überläßt,
 
-
 2.  eine Auszeichnung, die in § 6 nicht aufgeführt ist, oder ein
     dazugehöriges Band herstellt oder in Verkehr bringt oder
 
-
 3.  Abzeichen mit nationalsozialistischen Emblemen herstellt.
-
-
-
 
 (3) Den in den Absätzen 1 und 2 genannten Auszeichnungen oder Bändern
 stehen solche gleich, die ihnen zum Verwechseln ähnlich sind.
@@ -404,8 +363,8 @@ stehen solche gleich, die ihnen zum Verwechseln ähnlich sind.
 (4) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu zehntausend
 Deutsche Mark geahndet werden.
 
-(5) Gegenstände, auf die sich die Ordnungswidrigkeit bezieht, und
-Gegenstände, die zur Herstellung der in Absatz 2 Nr. 2 oder 3
+(5) Gegenstände, auf die sich die Ordnungswidrigkeit bezieht,
+und Gegenstände, die zur Herstellung der in Absatz 2 Nr. 2 oder 3
 genannten Auszeichnungen, Bänder oder Abzeichen gebraucht worden oder
 bestimmt gewesen sind, können eingezogen werden.
 
@@ -423,31 +382,22 @@ an nicht mehr geltend gemacht werden.
 
 Folgende Vorschriften werden als Bundesrecht aufgehoben:
 
-*
-    1.  bis 10.
-
+-   1.  bis 10.
 
     11. das Gesetz Nr. 7 der Alliierten Hohen Kommission vom 21. September
         1949 (Amtsblatt der Alliierten Hohen Kommission S. 11);
-
 
     12. Artikel 2 des bayerischen Gesetzes Nr. 17 über den Entzug der unter
         der nationalsozialistischen Herrschaft verliehenen Titel vom 20. Mai
         1946 (Bayerisches Gesetz- und Verordnungsblatt S. 178).
 
 
-
-
-
-
-
-
 ### § 18 Berlin-Klausel
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
-Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
-im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes
-erlassen werden, gelten im Land Berlin nach § 14 des Dritten
+Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S.
+1) auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses
+Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
 
 

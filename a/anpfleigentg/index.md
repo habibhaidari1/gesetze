@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zur Regelung des Eigentums an von landwirtschaftlichen Produktionsgenossenschaften
-  vorgenommenen Anpflanzungen
+Title: Gesetz zur Regelung des Eigentums an von landwirtschaftlichen Produktionsgenossenschaften vorgenommenen Anpflanzungen
 jurabk: AnpflEigentG
 layout: default
 origslug: anpfleigentg
@@ -22,8 +21,8 @@ Zuletzt geändert durch
 
 ## § 1 Anwendungsbereich
 
-Dieses Gesetz regelt die Rechtsverhältnisse an Grundstücken, auf denen
-landwirtschaftliche Produktionsgenossenschaften Anpflanzungen
+Dieses Gesetz regelt die Rechtsverhältnisse an Grundstücken, auf
+denen landwirtschaftliche Produktionsgenossenschaften Anpflanzungen
 vorgenommen haben, an denen nach dem Recht der Deutschen
 Demokratischen Republik selbständiges Eigentum entstanden ist. Den
 landwirtschaftlichen Produktionsgenossenschaften stehen die in § 46
@@ -66,8 +65,8 @@ ausgeschlossen.
 
 ## § 4 Höhe der Entschädigung
 
-Die Entschädigung ist nach dem Wert der Anpflanzung im Zeitpunkt des
-Eigentumsübergangs zu bemessen. Bei mehrjährigen fruchttragenden
+Die Entschädigung ist nach dem Wert der Anpflanzung im Zeitpunkt
+des Eigentumsübergangs zu bemessen. Bei mehrjährigen fruchttragenden
 Kulturen ist der für die Restnutzungsdauer, längstenfalls für 15
 Pachtjahre, zu erwartende Gewinn zu berücksichtigen. Statt des
 Anspruchs aus Satz 1 kann der Nutzer eine Entschädigung für die
@@ -83,11 +82,11 @@ Nutzers dadurch abwenden, daß er dem Nutzer den Abschluß eines
 Pachtvertrages für die Restnutzungsdauer der Kultur, längstens für 15
 Jahre, zu den ortsüblichen Bedingungen anbietet.
 
-(2) Lehnt der Nutzer den Vertragsabschluß ab, erlischt der Anspruch
-auf die Entschädigung. Der Nutzer ist berechtigt, die Anpflanzungen
-vom Boden zu trennen und sich anzueignen, soweit andere
-Rechtsvorschriften dem nicht entgegenstehen. Auf das in Satz 2
-bestimmte Wegnahmerecht ist § 258 des Bürgerlichen Gesetzbuchs
+(2) Lehnt der Nutzer den Vertragsabschluß ab, erlischt der
+Anspruch auf die Entschädigung. Der Nutzer ist berechtigt, die
+Anpflanzungen vom Boden zu trennen und sich anzueignen, soweit
+andere Rechtsvorschriften dem nicht entgegenstehen. Auf das in Satz
+2 bestimmte Wegnahmerecht ist § 258 des Bürgerlichen Gesetzbuchs
 entsprechend anzuwenden.
 
 
@@ -95,15 +94,15 @@ entsprechend anzuwenden.
 
 (1) Der Nutzer kann vom Grundstückseigentümer den Abschluß eines auf
 die Restnutzungsdauer der Kultur, längstens auf 15 Jahre, befristeten
-Pachtvertrages verlangen, wenn er auf das betroffene Grundstück zur
-Aufrechterhaltung seines Betriebes, der seine wirtschaftliche
+Pachtvertrages verlangen, wenn er auf das betroffene Grundstück
+zur Aufrechterhaltung seines Betriebes, der seine wirtschaftliche
 Lebensgrundlage bildet, angewiesen ist und der Wegfall der
 Nutzungsmöglichkeit für ihn oder seine Familie eine Härte bedeuten
 würde, die auch unter Würdigung der berechtigten Interessen des
 Eigentümers nicht zu rechtfertigen ist.
 
-(2) Der Grundstückseigentümer kann vom Nutzer die ortsübliche Pacht
-verlangen. Nach Beendigung des Pachtvertrages ist der
+(2) Der Grundstückseigentümer kann vom Nutzer die ortsübliche
+Pacht verlangen. Nach Beendigung des Pachtvertrages ist der
 Grundstückseigentümer zur Zahlung einer Entschädigung nicht
 verpflichtet.
 

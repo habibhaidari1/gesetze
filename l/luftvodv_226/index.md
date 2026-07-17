@@ -1,7 +1,5 @@
 ---
-Title: Zweihundertsechsundzwanzigste Durchführungsverordnung zur Luftverkehrs-Ordnung
-  (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum
-  und vom Verkehrslandeplatz Allendorf/Eder)
+Title: Zweihundertsechsundzwanzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrslandeplatz Allendorf/Eder)
 jurabk: LuftVODV 226
 layout: default
 origslug: luftvodv_226
@@ -16,4 +14,7 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BAnz: 2006, Nr 6, 79
+
+Fundstelle
+:   BAnz: 2006, 79
 

@@ -24,8 +24,8 @@ Zuletzt geändert durch
 Auf Grund des § 3 Abs. 1 und des § 8a Abs. 3 des Allgemeinen
 Eisenbahngesetzes vom 29. März 1951 (Bundesgesetzbl. I S. 225, 438),
 zuletzt geändert durch Artikel 141 des Einführungsgesetzes zum Gesetz
-über Ordnungswidrigkeiten vom 24. Mai 1968 (Bundesgesetzbl. I S. 503),
-in Verbindung mit § 1 der Verordnung über die Ermächtigung des
+über Ordnungswidrigkeiten vom 24. Mai 1968 (Bundesgesetzbl. I S.
+503), in Verbindung mit § 1 der Verordnung über die Ermächtigung des
 Bundesministers für Verkehr zum Erlaß von Rechtsverordnungen auf dem
 Gebiet des Eisenbahnwesens vom 28. September 1955 (Bundesgesetzbl. I
 S. 654) wird mit Zustimmung des Bundesrates verordnet:
@@ -39,8 +39,8 @@ S. 654) wird mit Zustimmung des Bundesrates verordnet:
 (2) Soweit in dieser Verordnung auf Vorschriften der Eisenbahn-Bau-
 und Betriebsordnung (EBO) vom 8. Mai 1967 (Bundesgesetzbl. II S.
 1563), zuletzt geändert durch die Verordnung vom 18. Dezember 1981
-(BGBl. I S. 1490), verwiesen ist, sind die dort in voller Breite einer
-Seite und die auf der rechten Hälfte einer Seite gedruckten
+(BGBl. I S. 1490), verwiesen ist, sind die dort in voller Breite
+einer Seite und die auf der rechten Hälfte einer Seite gedruckten
 Vorschriften in der jeweils gültigen Fassung anzuwenden.
 
 (3) Die Vorschriften für Neubauten gelten auch für umfassende Umbauten
@@ -60,20 +60,15 @@ Die Vorschriften des § 2 der EBO gelten entsprechend.
 1.  von allen Vorschriften dieser Verordnung zur Berücksichtigung
     besonderer Verhältnisse im Einzelfall
 
-    a)  für Eisenbahnen des Bundes sowie für Eisenbahnverkehrsunternehmen mit
-        Sitz im Ausland das Bundesministerium für Verkehr und digitale
+    a)  für Eisenbahnen des Bundes sowie für Eisenbahnverkehrsunternehmen
+        mit Sitz im Ausland das Bundesministerium für Verkehr und digitale
         Infrastruktur; die zuständigen Landesbehörden sind zu unterrichten,
         wenn die Einheit des Eisenbahnwesens berührt wird;
-
 
     b)  für die nichtbundeseigenen Eisenbahnen die zuständige Landesbehörde;
         das Benehmen mit dem Bundesministerium für Verkehr und digitale
         Infrastruktur ist erforderlich, wenn die Einheit des Eisenbahnwesens
         berührt wird;
-
-
-
-
 
 2.  im übrigen, soweit Ausnahmen in den Vorschriften dieser Verordnung
     unter Hinweis auf diesen Absatz ausdrücklich vorgesehen sind,
@@ -81,14 +76,7 @@ Die Vorschriften des § 2 der EBO gelten entsprechend.
     a)  für Eisenbahnen des Bundes sowie für Eisenbahnverkehrsunternehmen mit
         Sitz im Ausland das Eisenbahn-Bundesamt
 
-
     b)  für die nichtbundeseigenen Eisenbahnen die zuständige Landesbehörde.
-
-
-
-
-
-
 
 (2) Genehmigungen, die in den Vorschriften dieser Verordnung unter
 Hinweis auf diesen Absatz vorgesehen sind, erteilen
@@ -96,11 +84,7 @@ Hinweis auf diesen Absatz vorgesehen sind, erteilen
 1.  für Eisenbahnen des Bundes sowie für Eisenbahnverkehrsunternehmen mit
     Sitz im Ausland das Eisenbahn-Bundesamt,
 
-
 2.  für die nichtbundeseigenen Eisenbahnen die zuständige Landesbehörde.
-
-
-
 
 
 ## § 4 Begriffserklärungen für Bahnanlagen
@@ -135,49 +119,21 @@ Neubauten nicht weniger als 50 m betragen.
 (2) Die Richtung durchgehender Hauptgleise darf sich in der Regel nur
 stetig ändern. Wo erforderlich, sind Übergangsbogen anzulegen.
 
-(3) In den Bogen der durchgehenden Hauptgleise muß in der Regel die
-äußere Schiene höher liegen als die innere (Überhöhung). Die
+(3) In den Bogen der durchgehenden Hauptgleise muß in der Regel
+die äußere Schiene höher liegen als die innere (Überhöhung). Die
 Überhöhung darf höchstens betragen
 
-*    *   1.
-
-    *   bei Gleisen ohne Rollfahrzeugbetrieb
-
-
-*    *   100 mm beim Grundmaß der Spurweite
-
-
-*    *
-    *   von 1.000 mm,
-
-
-*    *   50 mm beim Grundmaß der Spurweite
-
-
-*    *
-    *   von 750 mm,
-
-
-*    *   2.
-
-    *   bei Gleisen mit Rollfahrzeugbetrieb
-
-
-*    *   80 mm beim Grundmaß der Spurweite
-
-
-*    *
-    *   von 1.000 mm,
-
-
-*    *   40 mm beim Grundmaß der Spurweite
-
-
-*    *
-    *   von 750 mm.
-
-
-
+| 1. | bei Gleisen ohne Rollfahrzeugbetrieb |
+| --- | --- |
+| 100 mm beim Grundmaß der Spurweite |  |
+|  | von 1.000 mm, |
+| 50 mm beim Grundmaß der Spurweite |  |
+|  | von 750 mm, |
+| 2. | bei Gleisen mit Rollfahrzeugbetrieb |
+| 80 mm beim Grundmaß der Spurweite |  |
+|  | von 1.000 mm, |
+| 40 mm beim Grundmaß der Spurweite |  |
+|  | von 750 mm. |
 
 (4) Jede Änderung der Überhöhung ist durch eine Rampe zu vermitteln,
 deren Neigung nicht größer sein darf als 1:300.
@@ -202,8 +158,8 @@ ist in der Mitte zwischen beiden Schienen anzunehmen, in Bogen mit
 Spurerweiterung in der Mitte der erweiterten Spur. Der lichte Raum muß
 auch bei abgenutzten Schienen vorhanden sein.
 
-(2) Bei Gleisen ohne Rollfahrzeugbetrieb bestimmt sich der lichte Raum
-nach der Fahrzeugbegrenzung (§ 22 Abs. 1 und 2) zuzüglich der in
+(2) Bei Gleisen ohne Rollfahrzeugbetrieb bestimmt sich der lichte
+Raum nach der Fahrzeugbegrenzung (§ 22 Abs. 1 und 2) zuzüglich der in
 Anlage 1 angegebenen Mindestabstände zwischen Fahrzeugbegrenzung und
 Umgrenzung des lichten Raumes.
 
@@ -220,23 +176,18 @@ unterschritten werden durch
 1.  die in § 22 Abs. 4 bis 8 und 10 bezeichneten Einrichtungen der
     Fahrzeuge,
 
-
 2.  Einrichtungen am Gleis für Zahnradbetrieb, Zugbeeinflussungs-,
     Zugeinwirkungs- und Rangiereinrichtungen sowie Stromzuführungsteile
     bei Bahnen mit Stromschienen,
 
-
 3.  Bahnsteige und Rampen.
-
-
-
 
 (5) In Bogen sind die halben Breitenmaße des sich nach den Absätzen 2
 und 3 ergebenden lichten Raumes nach Anlage 2 Nr. 1 zu vergrößern. Auf
 Strecken, auf denen Fahrzeuge besonderer Bauart (z.B. Gelenkfahrzeuge)
-verkehren, sind in Gleisbogen und bei Neigungswechseln die Maße des
-freizuhaltenden lichten Raumes nach den geometrischen Verhältnissen
-der Fahrzeuge so zu vergrößern, daß die vorgeschriebenen
+verkehren, sind in Gleisbogen und bei Neigungswechseln die
+Maße des freizuhaltenden lichten Raumes nach den geometrischen
+Verhältnissen der Fahrzeuge so zu vergrößern, daß die vorgeschriebenen
 Mindestabstände auch bei ungünstigster Stellung der Fahrzeuge
 eingehalten werden.
 
@@ -256,14 +207,14 @@ ohne Behinderung durchrollen können. Bei höhengleichen Kreuzungen
 zweier Schienenbahnen darf von den Maßen des Raumes für den Spurkranz
 im erforderlichen Umfang abgewichen werden.
 
-(9) Der nach den Absätzen 2 bis 5 freizuhaltende lichte Raum muß bei
-Neubauten um die in Anlage 1 Bild 1 dargestellten Seitenräume
+(9) Der nach den Absätzen 2 bis 5 freizuhaltende lichte Raum muß
+bei Neubauten um die in Anlage 1 Bild 1 dargestellten Seitenräume
 erweitert werden, und zwar an Bahnhofsgleisen bei sämtlichen
 Gegenständen und an Gleisen der freien Strecke bei Kunstbauten. Zu den
 Kunstbauten zählen z.B. größere Gebäude, Kreuzungsbauwerke, Tunnel,
-dagegen nicht kleinere Stellwerke, Wärter- und Fernsprechbuden, Maste,
-Schrankenbäume, Signale (auch Signalbrücken und -ausleger). Bei
-bestehenden Anlagen dürfen die vorhandenen Seitenräume nicht
+dagegen nicht kleinere Stellwerke, Wärter- und Fernsprechbuden,
+Maste, Schrankenbäume, Signale (auch Signalbrücken und -ausleger).
+Bei bestehenden Anlagen dürfen die vorhandenen Seitenräume nicht
 verringert werden.
 
 (10) Auf die Seitenräume nach Absatz 9 kann unter den in Absatz 3
@@ -289,8 +240,8 @@ Absätze 2, 3, 5 und 9 abgewichen werden, wenn die erforderlichen
 Sicherheitsmaßnahmen getroffen sind.
 
 (15) Für Gleise mit Rollfahrzeugbetrieb gelten die Vorschriften der
-Absätze 2 bis 14 sinngemäß, jedoch muß der lichte Raum nach Anlage 1
-Bild 3 freigehalten und in Bogen nach Anlage 3 vergrößert werden.
+Absätze 2 bis 14 sinngemäß, jedoch muß der lichte Raum nach Anlage
+1 Bild 3 freigehalten und in Bogen nach Anlage 3 vergrößert werden.
 Voraussetzung dafür ist, daß Regelfahrzeuge auf Rollwagen auch in der
 Längsrichtung symmetrisch verladen werden.
 
@@ -305,28 +256,20 @@ Rollfahrzeugbetrieb muß in der Geraden und in Bogen mit Halbmessern
 
     Breite der Fahrzeugbegrenzung + 400 mm,
 
-
 2.  auf Bahnhöfen, ausgenommen Überladegleise,
 
     a)  bei bestehenden Anlagen:
 
         Breite der Fahrzeugbegrenzung + 850 mm,
 
-
     b)  bei Neubauten:
 
         Breite der Fahrzeugbegrenzung + 1.300 mm,
-
-
-
-
 
 3.  unter den in § 9 Abs. 3 genannten Voraussetzungen und wenn zwischen
     den Gleisen kein Sicherheitsraum erforderlich ist:
 
     Breite der Fahrzeugbegrenzung + 300 mm.
-
-
 
 Bei Schmalspurgleisen mit verschiedener Spurweite ist die Summe der
 halben Breiten der jeweiligen Fahrzeugbegrenzungen zugrunde zu legen.
@@ -337,36 +280,11 @@ vergrößern, die sich nach § 9 Abs. 5 und Anlage 2 Nr. 1 ergeben.
 (3) Der Abstand von Gleisen mit Rollfahrzeugbetrieb muß in der Geraden
 und in Bogen mit Halbmessern von 1.500 m und mehr mindestens betragen
 
-*    *   1.
-
-    *   auf freier Strecke und bei Überladegleisen
-
-    *   3,65 m,
-
-
-*    *   2.
-
-    *   auf Bahnhöfen, ausgenommen Überladegleise,
-
-    *
-
-*    *
-    *   a)
-
-    *   bei bestehenden Anlagen
-
-    *   4,00 m,
-
-
-*    *
-    *   b)
-
-    *   bei Neubauten
-
-    *   4,50 m.
-
-
-
+| 1. | auf freier Strecke und bei Überladegleisen | 3,65 m, |  |
+| --- | --- | --- | --- |
+| 2. | auf Bahnhöfen, ausgenommen Überladegleise, |  |  |
+|  | a) | bei bestehenden Anlagen | 4,00 m, |
+|  | b) | bei Neubauten | 4,50 m. |
 
 (4) In Bogen mit Halbmessern von weniger als 1.500 m sind die
 Gleisabstände nach Absatz 3 um die Maße zu vergrößern, die sich aus
@@ -380,18 +298,13 @@ und muß bei Neubauten mindestens betragen
 
     2,00 m + halbe Breite der Fahrzeugbegrenzung + 200 mm,
 
-
 2.  bei Überladegleisen:
 
     1,85 m + halbe Breite der Fahrzeugbegrenzung + 200 mm,
 
-
 3.  auf Bahnhöfen, ausgenommen Überladegleise:
 
     2,00 m + halbe Breite der Fahrzeugbegrenzung + 900 mm.
-
-
-
 
 (6) In Bogen sind die Gleisabstände nach Absatz 5 um die Summe der
 Maße zu vergrößern, die sich aus Anlage 2 Nr. 1 und 2 ergeben.
@@ -400,62 +313,24 @@ Maße zu vergrößern, die sich aus Anlage 2 Nr. 1 und 2 ergeben.
 Schmalspurgleis mit Rollfahrzeugbetrieb soll bei bestehenden Anlagen
 und muß bei Neubauten mindestens betragen
 
-*    *   1.
-
-    *   auf freier Strecke
-
-    *   3,90 m,
-
-
-*    *   2.
-
-    *   bei Überladegleisen
-
-    *   3,65 m,
-
-
-*    *   3.
-
-    *   auf Bahnhöfen,  ausgenommen Überladegleise
-
-    *   4,40 m.
-
-
-
+| 1. | auf freier Strecke | 3,90 m, |
+| --- | --- | --- |
+| 2. | bei Überladegleisen | 3,65 m, |
+| 3. | auf Bahnhöfen, ausgenommen Überladegleise | 4,40 m. |
 
 (8) In Bogen sind die Gleisabstände nach Absatz 7 um die Summe der
 Maße zu vergrößern, die sich aus Anlage 2 Nr. 2 und Anlage 3 ergeben.
 
-(9) Die Gleisabstände nach den Absätzen 5 bis 8 dürfen, wenn die
-Spurweite des Regelspurgleises das Maß von 1.445 mm nicht
+(9) Die Gleisabstände nach den Absätzen 5 bis 8 dürfen, wenn
+die Spurweite des Regelspurgleises das Maß von 1.445 mm nicht
 überschreitet, wie folgt verkleinert werden:
 
-*    *   Bogenhalbmesser des Regelspurgleises m
-
-    *   Zulässige Verkleinerung mm
-
-
-*    *   bis 2.000
-
-    *   15
-
-
-*    *   unter 2.000 bis 1.500
-
-    *   10
-
-
-*    *   unter 1.500 bis 500
-
-    *   5
-
-
-*    *   unter 500 bis 250
-
-    *   0
-
-
-
+| Bogenhalbmesser des Regelspurgleises m | Zulässige Verkleinerung mm |
+| --- | --- |
+| bis 2.000 | 15 |
+| unter 2.000 bis 1.500 | 10 |
+| unter 1.500 bis 500 | 5 |
+| unter 500 bis 250 | 0 |
 
 (10) Die Vorschriften der Absätze 1 bis 9 sind bei drei- und
 vierschienigen Gleisen sowie für den Abstand zwischen Eisenbahngleisen
@@ -488,8 +363,8 @@ Bild 3.
 aufschlagenden Türen be- oder entladen werden sollen, dürfen nicht
 höher als h + 1,10 m sein.
 
-(3) Für die Dauer von Bauarbeiten darf von den Vorschriften des
-Absatzes 1 abgewichen werden, wenn die erforderlichen
+(3) Für die Dauer von Bauarbeiten darf von den Vorschriften
+des Absatzes 1 abgewichen werden, wenn die erforderlichen
 Sicherheitsmaßnahmen getroffen sind.
 
 (4) Der Name von Bahnhöfen, Haltestellen und Haltepunkten für den
@@ -545,26 +420,18 @@ oder indirekt gesteuert.
     Steuereinrichtung von einem führenden Fahrzeug aus oder durch
     Fernsteuerung.
 
-
 2.  Indirekte Steuerung ist die Regelung der Antriebskraft durch einen
     Bediener, der seine Weisungen über ein Nachrichtengerät von einem
     führenden Fahrzeug aus erhält.
-
-
-
 
 (5) Die Wagen werden eingeteilt in Reisezugwagen und Güterwagen.
 
 1.  Als Reisezugwagen gelten Personen-, Gepäck- und Postwagen.
 
-
 2.  Zu den Güterwagen zählen auch die Güterzuggepäckwagen.
 
-
-
-
-(6) Rollfahrzeuge sind Nebenfahrzeuge, mit denen Regelspurwagen auf
-Schmalspurbahnen befördert werden; sie werden in Rollböcke und
+(6) Rollfahrzeuge sind Nebenfahrzeuge, mit denen Regelspurwagen
+auf Schmalspurbahnen befördert werden; sie werden in Rollböcke und
 Rollwagen eingeteilt.
 
 
@@ -574,8 +441,8 @@ Rollwagen eingeteilt.
 nicht größer sein, als es die Belastbarkeit des Oberbaus und der
 Bauwerke zuläßt. Das gilt auch für beladene Rollfahrzeuge.
 
-(2) Die Radsatzlast ist der auf einen Radsatz, das Fahrzeuggewicht je
-Längeneinheit der auf 1,00 m Fahrzeuglänge entfallende Anteil der
+(2) Die Radsatzlast ist der auf einen Radsatz, das Fahrzeuggewicht
+je Längeneinheit der auf 1,00 m Fahrzeuglänge entfallende Anteil der
 Gesamtlast. Die Fahrzeuglänge ist hierbei über die nicht eingedrückten
 Puffer zu messen.
 
@@ -628,12 +495,12 @@ nichts anderes zugelassen ist.
 dürfen höchstens 2.650 mm breit sein.
 
 (3) Die Breitenmaße der Fahrzeugbegrenzung müssen so weit
-eingeschränkt werden, wie es die freizuhaltenden Mindestabstände unter
-Berücksichtigung der Lichtraumverhältnisse nach § 9 Abs. 2 bis 5 bei
-ungünstigster Stellung des Fahrzeugs in Gleis- und Weichenbogen
+eingeschränkt werden, wie es die freizuhaltenden Mindestabstände
+unter Berücksichtigung der Lichtraumverhältnisse nach § 9 Abs. 2 bis
+5 bei ungünstigster Stellung des Fahrzeugs in Gleis- und Weichenbogen
 erfordern. Auch während der Fahrt darf es - selbst bei der zulässigen
-Spurerweiterung, Radreifenabnutzung und Höchstgeschwindigkeit - nicht
-zur Berührung zwischen Fahrzeug und festen Gegenständen oder
+Spurerweiterung, Radreifenabnutzung und Höchstgeschwindigkeit -
+nicht zur Berührung zwischen Fahrzeug und festen Gegenständen oder
 Fahrzeugen im Nachbargleis kommen.
 
 (4) Die Stromabnehmer von Fahrzeugen dürfen die Fahrzeugbegrenzung
@@ -646,8 +513,8 @@ Rollfahrzeugen darf diese Überschreitung größer sein, wenn es die
 
 (6) Nach außen aufschlagende Einsteigetüren sowie
 Fahrtrichtungsanzeiger, Rückspiegel und herablaßbare Trittstufen
-dürfen seitlich über die Fahrzeugbegrenzung hinausragen (vgl. § 9 Abs.
-4).
+dürfen seitlich über die Fahrzeugbegrenzung hinausragen (vgl. § 9
+Abs. 4).
 
 (7) Bremsklötze, Sandstreuer und Bahnräumer aller Fahrzeuge und die
 unabgefederten Teile der Triebfahrzeuge dürfen die Fahrzeugbegrenzung
@@ -656,23 +523,19 @@ nach unten überschreiten
 1.  bei Triebfahrzeugen und Steuerwagen bis auf höchstens 65 mm über
     Schienenoberkante,
 
-
 2.  bei Triebfahrzeugen und Wagen, wenn diese Teile auch in Gleisbogen
-    innerhalb des durch die Radreifen bestrichenen Raumes bleiben und bei
-    Wagen außerdem zwischen den Endradsätzen angebracht sind, bis auf
+    innerhalb des durch die Radreifen bestrichenen Raumes bleiben und
+    bei Wagen außerdem zwischen den Endradsätzen angebracht sind, bis auf
     höchstens 55 mm über Schienenoberkante.
-
-
-
 
 (8) Bremsteile, die unmittelbar auf die Schiene wirken, wie die
 Bremsmagnete von Schienenbremsen, dürfen in der Ruhelage das Maß von
-55 mm über Schienenoberkante unterschreiten. Sie müssen innerhalb der
-Endradsätze des Fahrzeugs angebracht sein und auch in Gleisbogen
+55 mm über Schienenoberkante unterschreiten. Sie müssen innerhalb
+der Endradsätze des Fahrzeugs angebracht sein und auch in Gleisbogen
 innerhalb des durch die Radreifen bestrichenen Raumes bleiben.
 
-(9) Bei Wagen dürfen die über die Endradsätze hinausragenden Teile,
-ausgenommen Bahnräumer, höchstens bis auf 150 mm über
+(9) Bei Wagen dürfen die über die Endradsätze hinausragenden
+Teile, ausgenommen Bahnräumer, höchstens bis auf 150 mm über
 Schienenoberkante herabreichen, wenn sie innerhalb des durch die
 Radreifen bestrichenen Raumes bleiben.
 
@@ -697,8 +560,8 @@ Verhältnissen der Bahn zu richten.
 wirken. Eine durchgehende Bremse ist selbsttätig, wenn sie bei jeder
 unbeabsichtigten Unterbrechung der Bremsleitung wirksam wird.
 
-(3) Die durchgehende Bremse muß vom Stand des Triebfahrzeugführers und
-über die Notbremseinrichtungen in den Reisezugwagen und
+(3) Die durchgehende Bremse muß vom Stand des Triebfahrzeugführers
+und über die Notbremseinrichtungen in den Reisezugwagen und
 Güterzuggepäckwagen betätigt werden können. Die Notbremseinrichtungen
 müssen so angebracht sein, daß sie von den Reisenden und vom
 Begleitpersonal leicht gesehen und erreicht werden können; in den
@@ -709,8 +572,8 @@ erforderlich.
 muß vom Standort des Triebfahrzeugführers betätigt werden können.
 
 (5) Fahrzeuge mit einer zulässigen Geschwindigkeit von mehr als 30
-km/h, die auch am öffentlichen Straßenverkehr teilnehmen, müssen mit
-einer zusätzlichen Bremse ausgerüstet sein, die vom Kraftschluß
+km/h, die auch am öffentlichen Straßenverkehr teilnehmen, müssen
+mit einer zusätzlichen Bremse ausgerüstet sein, die vom Kraftschluß
 zwischen Rad und Schiene unabhängig ist (z.B. Schienenbremse).
 
 (6) Kurbeln oder Handräder von Handbremsen müssen beim Drehen im Sinne
@@ -728,14 +591,14 @@ Stoßeinrichtung verzichtet werden.
 
 (3) Wie weit die Höhen der Zug- und Stoßeinrichtungen auch bei
 unterschiedlicher Belastung und unterschiedlichem Verschleißzustand
-der zu kuppelnden Fahrzeuge voneinander abweichen dürfen, richtet sich
-bei einfachen Puffern nach der Größe des Puffertellers und bei
+der zu kuppelnden Fahrzeuge voneinander abweichen dürfen, richtet
+sich bei einfachen Puffern nach der Größe des Puffertellers und bei
 Mittelpufferkupplungen nach deren Greifbereich.
 
 (4) Pufferscheiben müssen so bemessen sein, daß die Puffer beim
 Durchfahren von Gleisbogen mit Halbmessern von
 50 m beim Grundmaß der Spurweite von 1.000 mm,
-40 m beim Grundmaß der Spurweite von   750 mm
+40 m beim Grundmaß der Spurweite von 750 mm
 nicht hintereinandergreifen können.
 
 
@@ -774,33 +637,25 @@ Ausrüstung haben:
 
 1.  Einrichtungen zum Geben hörbarer Signale,
 
-
 2.  Bahnräumer,
-
 
 3.  Geschwindigkeitsanzeiger,
 
-
 3a. Zugbeeinflussung oder technische Einrichtung, durch die ein Zug
-    selbsttätig zum Halten gebracht werden kann, wenn die Fahrzeuge auf
-    Strecken mit Zugbeeinflussung oder technischen Einrichtungen
+    selbsttätig zum Halten gebracht werden kann, wenn die Fahrzeuge
+    auf Strecken mit Zugbeeinflussung oder technischen Einrichtungen
     verkehren, auf denen eine solche Ausrüstung nach § 15 vorgeschrieben
     worden ist,
 
-
 4.  Sicherheitsfahrschaltung, die im Geschwindigkeitsbereich von 20 km/h
     und mehr anspricht und den Zug oder das einzeln fahrende Triebfahrzeug
-    bei Dienstunfähigkeit des Triebfahrzeugführers selbsttätig anhält. Die
-    Ausrüstung ist nur erforderlich, wenn das Fahrzeug in Zügen einmännig
-    besetzt werden soll. Kleinlokomotiven brauchen nicht mit
+    bei Dienstunfähigkeit des Triebfahrzeugführers selbsttätig anhält.
+    Die Ausrüstung ist nur erforderlich, wenn das Fahrzeug in Zügen
+    einmännig besetzt werden soll. Kleinlokomotiven brauchen nicht mit
     Sicherheitsfahrschaltung ausgerüstet zu sein,
-
 
 5.  Funkenfänger und verschließbare Aschkasten, wenn feste oder flüssige
     Brennstoffe verfeuert werden.
-
-
-
 
 
 ## § 29 Ausrüstung der Wagen
@@ -808,8 +663,8 @@ Ausrüstung haben:
 (1) Die Vorschriften für Personenwagen gelten auch für Triebwagen.
 
 (2) Die Einsteigetüren der Reisezugwagen müssen sicher wirkende
-Verschlußeinrichtungen haben. Die Verschlußeinrichtungen müssen so
-beschaffen sein, daß die Türen von den Insassen geöffnet werden
+Verschlußeinrichtungen haben. Die Verschlußeinrichtungen müssen
+so beschaffen sein, daß die Türen von den Insassen geöffnet werden
 können.
 
 (3) Die Öffnungen der Einsteigetüren neu zu bauender Personenwagen
@@ -900,8 +755,8 @@ indirekt gesteuert werden.
 (3) Die Züge müssen Signale führen, die bei Tag den Schluß, bei
 Dunkelheit die Spitze und den Schluß erkennen lassen.
 
-(4) Die Züge werden in Reisezüge und Güterzüge eingeteilt. Welche Züge
-als Reisezüge und welche als Güterzüge gelten, ist in den
+(4) Die Züge werden in Reisezüge und Güterzüge eingeteilt. Welche
+Züge als Reisezüge und welche als Güterzüge gelten, ist in den
 Dienstfahrplänen anzugeben. Güterzüge mit Personenbeförderung (Gmp)
 gehören im Sinne dieser Verordnung zu den Reisezügen, ausgenommen in
 den Fällen des § 46 Abs. 2 Nr. 3 und Abs. 3 Nr. 1.
@@ -928,34 +783,29 @@ Bremswegberechnungen ermittelt.
 1.  für Eisenbahnen des Bundes vom Bundesministerium für Verkehr und
     digitale Infrastruktur,
 
-
 2.  für die nicht bundeseigenen Eisenbahnen von der zuständigen
     Landesbehörde.
-
-
-
 
 (4) Als größter Bremsweg ist 700 m zulässig.
 
 (5) Über das Bremsen auf Strecken mit einer maßgebenden Neigung von
-mehr als
-40v.T. sind von den in Absatz 3 genannten Behörden besondere
+mehr als 40v.T. sind von den in Absatz 3 genannten Behörden besondere
 Vorschriften zu erlassen. Die maßgebende Neigung einer Strecke ist die
-Neigung der Verbindungslinie der beiden 2 000 m voneinander entfernten
+Neigung der Verbindungslinie der beiden 2 000 m voneinander entfernten
 Punkte des Streckenabschnitts mit dem größten Höhenunterschied.
 
 (6) Das letzte oder vorletzte Fahrzeug eines Zuges muß eine wirkende
 Bremse haben. Hat das letzte Fahrzeug keine wirkende Bremse, so soll
 es nicht mit Reisenden besetzt sein. Bei Rollfahrzeugbetrieb dürfen
-auf Strecken mit einer geringeren maßgebenden Neigung als
-10v.T. hinter der letzten wirkenden Bremse bis zu acht
-Rollfahrzeugradsätzen mit höchstens 60 t Gesamtgewicht laufen.
+auf Strecken mit einer geringeren maßgebenden Neigung als 10v.T.
+hinter der letzten wirkenden Bremse bis zu acht Rollfahrzeugradsätzen
+mit höchstens 60 t Gesamtgewicht laufen.
 
 (7) Bevor ein mit durchgehender Bremse fahrender Zug den
 Anfangsbahnhof verläßt, ist eine Bremsprobe vorzunehmen. Die
 Bremsprobe ist zu wiederholen, so oft der Führerstand gewechselt oder
-der Zug ergänzt oder getrennt wird, es sei denn, daß Fahrzeuge nur am
-Schluß abgehängt werden. Für Züge, die während mehrerer Fahrten
+der Zug ergänzt oder getrennt wird, es sei denn, daß Fahrzeuge nur
+am Schluß abgehängt werden. Für Züge, die während mehrerer Fahrten
 unverändert bleiben, sind Ausnahmen zulässig (§ 3 Abs. 1 Nr. 2).
 
 
@@ -972,13 +822,13 @@ ungewöhnlicher Kupplung dürfen nicht unmittelbar vor oder hinter Wagen
 laufen, die mit Reisenden besetzt sind. Züge mit einer Geschwindigkeit
 bis zu 60 km/h sind von diesen Vorschriften ausgenommen.
 
-(3) Wagen, die nach der Gefahrgutverordnung Eisenbahn
-in der Fassung der Bekanntmachung vom 22. Juni 1983 (BGBl. I S. 827)
-mit dem Gefahrzettel für explosionsgefährliche Stoffe und mit einem
-Zettel mit rotem Ring auf weißem Grund gekennzeichnet sind, sind unter
-Anwendung besonderer Vorsichtsmaßnahmen in Züge einzustellen und zu
-befördern. Solche Maßnahmen sind auch bei anderen Wagen notwendig,
-wenn ihre Beförderung auf Rollfahrzeugen besondere Vorsicht erfordert.
+(3) Wagen, die nach der Gefahrgutverordnung Eisenbahn *in der Fassung
+der Bekanntmachung vom 22. Juni 1983 (BGBl. I S. 827)* mit dem
+Gefahrzettel für explosionsgefährliche Stoffe und mit einem Zettel mit
+rotem Ring auf weißem Grund gekennzeichnet sind, sind unter Anwendung
+besonderer Vorsichtsmaßnahmen in Züge einzustellen und zu befördern.
+Solche Maßnahmen sind auch bei anderen Wagen notwendig, wenn ihre
+Beförderung auf Rollfahrzeugen besondere Vorsicht erfordert.
 
 (4) Beladene Rollböcke sind mit anderen Schmalspurfahrzeugen durch
 Zwischenwagen (Übergangswagen) oder Kuppelstangen zu kuppeln; unter
@@ -1012,19 +862,13 @@ Die Vorschriften des § 39 der EBO gelten entsprechend.
 
 1.  der Bauart der einzelnen Fahrzeuge,
 
-
 2.  der Art und Länge der Züge (§ 34),
-
 
 3.  den Bremsverhältnissen (§ 35),
 
-
 4.  den Streckenverhältnissen,
 
-
 5.  den betrieblichen Verhältnissen
-
-
 
 und von den Vorschriften der folgenden Absätze.
 
@@ -1036,11 +880,9 @@ und von den Vorschriften der folgenden Absätze.
 
     60 km/h auf Strecken mit dem Grundmaß der Spurweite von 750 mm;
 
-
 2.  für Züge ohne durchgehende Bremse:
 
     50 km/h;
-
 
 3.  für Züge mit Rollfahrzeugen:
 
@@ -1048,23 +890,16 @@ und von den Vorschriften der folgenden Absätze.
 
     20 km/h auf Strecken mit dem Grundmaß der Spurweite von 750 mm.
 
-
-
-
 (3) Die zulässige Geschwindigkeit beträgt bei Zügen nach Absatz 2 Nr.
 1 nur 50 km/h, wenn
 
 1.  führende Triebfahrzeuge sowie Steuerwagen ausnahmsweise vom hinteren
-    Führerstand aus bedient werden müssen und der vordere Führerstand mit
-    einem Betriebsbeamten besetzt ist, der den Zug zum Halten bringen
+    Führerstand aus bedient werden müssen und der vordere Führerstand
+    mit einem Betriebsbeamten besetzt ist, der den Zug zum Halten bringen
     kann;
-
 
 2.  bei einmännig besetzten führenden Fahrzeugen die
     Sicherheitsfahrschaltung gestört ist.
-
-
-
 
 (4) Geschobene Züge dürfen höchstens 30 km/h fahren, über
 Bahnübergänge ohne technische Sicherung (vgl. § 11 Abs. 3 EBO)
@@ -1073,8 +908,8 @@ höchstens 20 km/h.
 (5) Nachgeschobene Züge dürfen höchstens 40 km/h fahren.
 
 (6) Hilfszüge dürfen auch bei Dienstruhe verkehren, wenn ihre
-Geschwindigkeit höchstens 50 km/h beträgt. Bahnübergänge mit offenen
-Schranken sowie mit fernüberwachten Blinklicht- oder
+Geschwindigkeit höchstens 50 km/h beträgt. Bahnübergänge mit
+offenen Schranken sowie mit fernüberwachten Blinklicht- oder
 Lichtzeichenanlagen dürfen dabei ohne Sicherung durch Posten höchstens
 mit 10 km/h befahren werden.
 
@@ -1083,28 +918,21 @@ Rollfahrzeuge betragen
 
 1.  bei dem Grundmaß der Spurweite von 1.000 mm:
 
-
-
-R          1,5
-V = Wurzel aus  ---- x (ü x ---- + 130)
-11,8        1,0
+```
+                     R          1,5    V = Wurzel aus  ---- x (ü x ---- + 130)                    11,8        1,0
+```
 
 2.  bei dem Grundmaß der Spurweite von 750 mm:
 
+```
+                     R           1,5    V = Wurzel aus  ---- x (ü x ---- + 130)                    11,8        0,75
+```
 
-
-R           1,5
-V = Wurzel aus  ---- x (ü x ---- + 130)
-11,8        0,75
-
-*   V = Geschwindigkeit in km/h
+-   V = Geschwindigkeit in km/h
 
     R = Bogenhalbmesser in m
 
     ü = Überhöhung in mm.
-
-
-
 
 (8) In Gleisbogen mit Halbmessern unter 100 m darf die Geschwindigkeit
 von Zügen mit Rollfahrzeugen höchstens 20 km/h betragen.
@@ -1160,8 +988,8 @@ Die Vorschriften des § 44 der EBO gelten entsprechend.
 ## § 45 Besetzen der Triebfahrzeuge
 
 (1) Arbeitende Triebfahrzeuge müssen während der Fahrt mit einem
-Triebfahrzeugführer besetzt sein; bei Kleinlokomotiven dürfen die
-Aufgaben des Triebfahrzeugführers auch von einem Bediener von
+Triebfahrzeugführer besetzt sein; bei Kleinlokomotiven dürfen
+die Aufgaben des Triebfahrzeugführers auch von einem Bediener von
 Kleinlokomotiven wahrgenommen werden. Direkt gesteuerte Triebfahrzeuge
 (§ 18 Abs. 4 Nr. 1) dürfen unbesetzt bleiben; bei direkter Steuerung
 durch Fernsteuerungseinrichtungen sollen keine Fahrzeuge befördert
@@ -1179,12 +1007,8 @@ sind außerdem zu besetzen
 
 1.  Dampflokomotiven mit einem Heizer,
 
-
 2.  andere führende Fahrzeuge mit einem Beimann, wenn sie keine
     Sicherheitsfahrschaltung haben.
-
-
-
 
 (4) Der Dienst des Beimanns darf von einem Zugbegleiter wahrgenommen
 werden, der in der Lage sein muß, einen Zug zum Halten zu bringen.
@@ -1195,20 +1019,14 @@ fehlender Sicherheitsfahrschaltung abgesehen werden
 1.  bei Kleinlokomotiven, die einzeln fahren oder Züge mit einer
     Geschwindigkeit bis zu 50 km/h befördern,
 
-
 2.  bei Triebfahrzeugen mit selbsttätiger Feuerung oder ohne Feuerung,
     wenn sie Rangierarbeiten ausführen,
-
 
 3.  bei handgefeuerten Dampflokomotiven, wenn sie Rangierarbeiten
     ausführen,
 
-
 4.  wenn in Ausnahmefällen der Heizer oder Beimann das Fahrzeug aus
     zwingenden Gründen verlassen muß.
-
-
-
 
 (6)
 
@@ -1223,19 +1041,13 @@ einmännig besetzten Triebfahrzeugen dürfen ohne Zugbegleiter verkehren
 
 1.  einzeln oder zu zweit fahrende Lokomotiven,
 
-
 2.  Dienstzüge,
-
 
 3.  Reisezüge bis zu 100 m Gesamtlänge,
 
-
 4.  Güterzüge,
 
-
 5.  Leerreisezüge.
-
-
 
 Die Züge müssen gezogen oder von der Spitze aus gesteuert werden, und
 alle Fahrzeuge müssen an die durchgehende Bremse angeschlossen sein.
@@ -1249,19 +1061,13 @@ Zugbegleiter verkehren
     das Schließen der Wagentüren vom Triebfahrzeugführer überwacht wird
     oder wenn sie vom führenden Fahrzeug aus geschlossen werden,
 
-
 2.  Güter- und Leerreisezüge mit Sicherheitsfahrschaltung,
-
 
 3.  einzeln fahrende Kleinlokomotiven und einzeln fahrende Nebenfahrzeuge,
     die wie Züge behandelt werden, bis zu einer Geschwindigkeit von 50
     km/h,
 
-
 4.  andere einzeln fahrende Triebfahrzeuge mit Sicherheitsfahrschaltung.
-
-
-
 
 (4) Im Falle des Absatzes 3 Nr. 3 dürfen bis zu fünf Wagen, im Falle
 der Nummer 4 aber bis zu 10 Fahrzeuge angehängt werden. Sie sind an
@@ -1288,17 +1094,12 @@ handelt, wer entgegen den Vorschriften des § 48 vorsätzlich
 2.  an einer nicht dazu bestimmten Seite eines Fahrzeugs oder an einer
     nicht dazu bestimmten Stelle einsteigt oder aussteigt,
 
-
 3.  einsteigt oder aussteigt, ein Trittbrett betritt oder sich ohne
     ausdrückliche Gestattung auf einer Plattform aufhält, solange sich das
     Fahrzeug bewegt, oder
 
-
 4.  eine Bahnanlage, eine Betriebseinrichtung oder ein Fahrzeug
     verunreinigt.
-
-
-
 
 (2) Ordnungswidrig im Sinne des § 28 des Allgemeinen Eisenbahngesetzes
 handelt auch, wer entgegen den Vorschriften des § 48 vorsätzlich oder
@@ -1308,25 +1109,18 @@ fahrlässig
     betritt oder benutzt, als sie nicht dem allgemeinen Verkehrsgebrauch
     dient oder als kein besonderes Nutzungsverhältnis dazu berechtigt,
 
-
-2.  sich innerhalb der Gleise aufhält, ohne daß dies zur Erfüllung
-    amtlicher Aufgaben erforderlich oder im Rahmen eines
+2.  sich innerhalb der Gleise aufhält, ohne daß dies zur
+    Erfüllung amtlicher Aufgaben erforderlich oder im Rahmen eines
     Nutzungsverhältnisses zugelassen ist,
 
-
 3.  eine Außentür öffnet, solange sich das Fahrzeug bewegt,
-
 
 4.  eine Sache aus dem Wagen wirft, die geeignet ist, einen anderen zu
     verletzen oder eine Sache zu beschädigen, oder
 
-
 5.  eine Schranke oder eine sonstige Sicherungseinrichtung unerlaubt
     öffnet, ein Fahrthindernis bereitet oder eine andere betriebsstörende
     oder betriebsgefährdende Handlung vornimmt.
-
-
-
 
 (3) Die Zuständigkeit für die Verfolgung und Ahndung von
 Ordnungswidrigkeiten nach den Absätzen 1 und 2 wird im Bereich der
@@ -1351,10 +1145,8 @@ folgenden Kalendermonats in Kraft.
 
 Der Bundesminister für Verkehr
 
-Bild 1, 2 und 3
-(Zu den §§ 9 und 22)
 
-## Anlage 1 Umgrenzung des lichten Raumes
+## Anlage 1 Bild 1, 2 und 3 (Zu den §§ 9 und 22) Umgrenzung des lichten Raumes
 
 (Inhalt: nicht darstellbare Abbildungen,
 Fundstelle: BGBl I 1972, 280 - 281)
@@ -1364,1156 +1156,146 @@ Fundstelle: BGBl I 1972, 280 - 281)
 
 Fundstelle des Originaltextes: BGBl. I 1972, 282
 
-*    *   **1. Vergrößerung des lichten Raumes und der Gleisabstände bei
-        Gleisen ohne Rollfahrzeugbetrieb**
-
-
-*    *   Bogenhalbmesser
-
-    *   Bogeninnenseite
-
-    *   Bogenaußenseite
-
-
-*    *   m
-
-    *   mm
-
-    *   mm
-
-
-*    *   >=  5.000
-
-    *   20
-
-    *   20
-
-
-*    *   2.000
-
-    *   25
-
-    *   25
-
-
-*    *   500
-
-    *   25
-
-    *   25
-
-
-*    *   400
-
-    *   30
-
-    *   30
-
-
-*    *   250
-
-    *   30
-
-    *   30
-
-
-*    *   225
-
-    *   35
-
-    *   35
-
-
-*    *   180
-
-    *   35
-
-    *   35
-
-
-*    *   150
-
-    *   40
-
-    *   40
-
-
-*    *   120
-
-    *   60
-
-    *   45
-
-
-*    *   100
-
-    *   80
-
-    *   55
-
-
-*    *   80
-
-    *   105
-
-    *   75
-
-
-*    *   60
-
-    *   150
-
-    *   105
-
-
-*    *   50
-
-    *   185
-
-    *   135
-
-
-*    *   40
-
-    *   240
-
-    *   175
-
-
-*    *   Zwischenwerte dürfen gradlinig eingeschaltet werden; die Maße der
-        Vergrößerung sind auf volle 5 mm aufzurunden.
-
-
-*    *   **2. Vergrößerung der Gleisabstände bei Regelspurgleisen**
-
-
-*    *   Bogenhalbmesser
-
-    *   Bogeninnenseite
-
-    *   Bogenaußenseite
-
-
-*    *   m
-
-    *   mm
-
-    *   mm
-
-
-*    *   250
-
-    *   0
-
-    *   0
-
-
-*    *   225
-
-    *   25
-
-    *   30
-
-
-*    *   200
-
-    *   50
-
-    *   65
-
-
-*    *   190
-
-    *   65
-
-    *   80
-
-
-*    *   180
-
-    *   80
-
-    *   100
-
-
-*    *   150
-
-    *   135
-
-    *   170
-
-
-*    *   120
-
-    *   335
-
-    *   365
-
-
-*    *   100
-
-    *   530
-
-    *   570
-
-
-*    *   Zwischenwerte dürfen gradlinig eingeschaltet werden; die Maße der
-        Vergrößerung sind auf volle 5 mm aufzurunden.
-
-
-
-
-(zu den §§ 9 und 10)
-
-## Anlage 3 Vergrößerung des lichten Raumes und der Gleisabstände bei Gleisen mit Rollfahrzeugbetrieb
+| **1. Vergrößerung des lichten Raumes und der Gleisabstände bei Gleisen ohne Rollfahrzeugbetrieb** |  |  |
+| --- | --- | --- |
+| Bogenhalbmesser | Bogeninnenseite | Bogenaußenseite |
+| m | mm | mm |
+| >= 5.000 | 20 | 20 |
+| 2.000 | 25 | 25 |
+| 500 | 25 | 25 |
+| 400 | 30 | 30 |
+| 250 | 30 | 30 |
+| 225 | 35 | 35 |
+| 180 | 35 | 35 |
+| 150 | 40 | 40 |
+| 120 | 60 | 45 |
+| 100 | 80 | 55 |
+| 80 | 105 | 75 |
+| 60 | 150 | 105 |
+| 50 | 185 | 135 |
+| 40 | 240 | 175 |
+| Zwischenwerte dürfen gradlinig eingeschaltet werden; die Maße der Vergrößerung sind auf volle 5 mm aufzurunden. |  |  |
+| **2. Vergrößerung der Gleisabstände bei Regelspurgleisen** |  |  |
+| Bogenhalbmesser | Bogeninnenseite | Bogenaußenseite |
+| m | mm | mm |
+| 250 | 0 | 0 |
+| 225 | 25 | 30 |
+| 200 | 50 | 65 |
+| 190 | 65 | 80 |
+| 180 | 80 | 100 |
+| 150 | 135 | 170 |
+| 120 | 335 | 365 |
+| 100 | 530 | 570 |
+| Zwischenwerte dürfen gradlinig eingeschaltet werden; die Maße der Vergrößerung sind auf volle 5 mm aufzurunden. |  |  |
+
+
+## Anlage 3 (zu den §§ 9 und 10) Vergrößerung des lichten Raumes und der Gleisabstände bei Gleisen mit Rollfahrzeugbetrieb
 
 (Fundstelle: BGBl. I 1972, 283 - 284)
 
-*    *
-        1.  Wenn regelspurige Güterwagen unbeschränkt befördert werden
-
-
-
-
-
-*    *   Bogenhalbmesser
-
-    *   Bei Rollbockverkehr
-
-    *   Bei Rollwagenverkehr
-
-
-*    *   Bogeninnenseite
-
-    *   Bogenaußenseite
-
-    *   Bogeninnenseite
-
-    *   Bogenaußenseite
-
-
-*    *   m
-
-    *   mm
-
-    *   mm
-
-    *   mm
-
-    *   mm
-
-
-*    *   unter 1.500 bis 500
-
-    *   0
-
-    *   0
-
-    *   0
-
-    *   20
-
-
-*    *   unter 500 bis 300
-
-    *   0
-
-    *   0
-
-    *   0
-
-    *   40
-
-
-*    *   unter 300 bis 250
-
-    *   30
-
-    *   10
-
-    *   20
-
-    *   60
-
-
-*    *   unter 250 bis 225
-
-    *   60
-
-    *   30
-
-    *   60
-
-    *   60
-
-
-*    *   unter 225 bis 200
-
-    *   90
-
-    *   60
-
-    *   80
-
-    *   70
-
-
-*    *   unter 200 bis 190
-
-    *   100
-
-    *   100
-
-    *   100
-
-    *   70
-
-
-*    *   unter 190 bis 180
-
-    *   130
-
-    *   100
-
-    *   110
-
-    *   80
-
-
-*    *   unter 180 bis 150
-
-    *   190
-
-    *   170
-
-    *   180
-
-    *   120
-
-
-*    *   unter 150 bis 120
-
-    *   370
-
-    *   360
-
-    *   390
-
-    *   320
-
-
-*    *   unter 120 bis 100
-
-    *   590
-
-    *   550
-
-    *   600
-
-    *   510
-
-
-*    *   unter 100 bis 90
-
-    *   730
-
-    *   690
-
-    *   750
-
-    *   650
-
-
-*    *   unter 90 bis 80
-
-    *   900
-
-    *   840
-
-    *   910
-
-    *   800
-
-
-*    *   unter 80 bis 70
-
-    *   1.120
-
-    *   1.050
-
-    *   1.160
-
-    *   1.010
-
-
-*    *   unter 70 bis 60
-
-    *   1.420
-
-    *   1.300
-
-    *   1.460
-
-    *   1.260
-
-
-*    *
-
-*    *
-        2.  Wenn regelspurige Güterwagen mit höchstens 15,00 m Drehzapfenabstand
-            befördert werden
-
-
-
-
-
-*    *   Bogenhalbmesser
-
-    *   Bei Rollbockverkehr
-
-    *   Bei Rollwagenverkehr
-
-
-*    *   Bogeninnenseite
-
-    *   Bogenaußenseite
-
-    *   Bogeninnenseite
-
-    *   Bogenaußenseite
-
-
-*    *   m
-
-    *   mm
-
-    *   mm
-
-    *   mm
-
-    *   mm
-
-
-*    *   unter 1.500 bis 500
-
-    *   0
-
-    *   0
-
-    *   0
-
-    *   20
-
-
-*    *   unter 500 bis 300
-
-    *   0
-
-    *   0
-
-    *   0
-
-    *   40
-
-
-*    *   unter 300 bis 250
-
-    *   10
-
-    *   10
-
-    *   20
-
-    *   60
-
-
-*    *   unter 250 bis 225
-
-    *   30
-
-    *   30
-
-    *   60
-
-    *   60
-
-
-*    *   unter 225 bis 200
-
-    *   50
-
-    *   50
-
-    *   60
-
-    *   70
-
-
-*    *   unter 200 bis 190
-
-    *   70
-
-    *   70
-
-    *   70
-
-    *   70
-
-
-*    *   unter 190 bis 180
-
-    *   100
-
-    *   100
-
-    *   80
-
-    *   80
-
-
-*    *   unter 180 bis 150
-
-    *   110
-
-    *   140
-
-    *   120
-
-    *   120
-
-
-*    *   unter 150 bis 120
-
-    *   170
-
-    *   220
-
-    *   190
-
-    *   190
-
-
-*    *   unter 120 bis 100
-
-    *   220
-
-    *   300
-
-    *   260
-
-    *   260
-
-
-*    *   unter 100 bis 80
-
-    *   310
-
-    *   430
-
-    *   360
-
-    *   380
-
-
-*    *   unter 80 bis 60
-
-    *   450
-
-    *   630
-
-    *   530
-
-    *   580
-
-
-*    *   unter 60 bis 50
-
-    *   570
-
-    *   790
-
-    *   670
-
-    *   740
-
-
-*    *   unter 50 bis 40
-
-    *   740
-
-    *   1.030
-
-    *   880
-
-    *   980
-
-
-*    *   unter 40 bis 35
-
-    *   880
-
-    *   1.210
-
-    *   1.030
-
-    *   1.160
-
-
-*    *   unter 35 bis 30
-
-    *   1.050
-
-    *   1.430
-
-    *   1.230
-
-    *   1.370
-
-
-*    *   unter 30 bis 25
-
-    *   1.290
-
-    *   1.730
-
-    *   1.520
-
-    *   1.670
-
-
-*    *   unter 25 bis 20
-
-    *   1.660
-
-    *   2.160
-
-    *   1.950
-
-    *   2.100
-
-
-*    *   unter 20 bis 15
-
-    *   2.310
-
-    *   2.830
-
-    *   2.710
-
-    *   2.750
-
-
-*    *
-
-*    *
-        3.  Wenn regelspurige Güterwagen mit höchstens 8,00 m Radsatzabstand oder
-            Drehzapfenabstand befördert werden
-
-
-
-
-
-*    *   Bogenhalbmesser
-
-    *   Bei Rollbockverkehr
-
-    *   Bei Rollwagenverkehr
-
-
-*    *   Bogeninnenseite
-
-    *   Bogenaußenseite
-
-    *   Bogeninnenseite
-
-    *   Bogenaußenseite
-
-
-*    *   m
-
-    *   mm
-
-    *   mm
-
-    *   mm
-
-    *   mm
-
-
-*    *   unter 1.500 bis 500
-
-    *   0
-
-    *   0
-
-    *   0
-
-    *   20
-
-
-*    *   unter 500 bis 300
-
-    *   0
-
-    *   0
-
-    *   0
-
-    *   40
-
-
-*    *   unter 300 bis 250
-
-    *   10
-
-    *   10
-
-    *   0
-
-    *   60
-
-
-*    *   unter 250 bis 225
-
-    *   20
-
-    *   20
-
-    *   0
-
-    *   60
-
-
-*    *   unter 225 bis 200
-
-    *   30
-
-    *   30
-
-    *   10
-
-    *   70
-
-
-*    *   unter 200 bis 190
-
-    *   40
-
-    *   40
-
-    *   10
-
-    *   70
-
-
-*    *   unter 190 bis 180
-
-    *   40
-
-    *   40
-
-    *   10
-
-    *   80
-
-
-*    *   unter 180 bis 150
-
-    *   60
-
-    *   60
-
-    *   30
-
-    *   100
-
-
-*    *   unter 150 bis 120
-
-    *   100
-
-    *   100
-
-    *   60
-
-    *   140
-
-
-*    *   unter 120 bis 100
-
-    *   110
-
-    *   150
-
-    *   70
-
-    *   190
-
-
-*    *   unter 100 bis 80
-
-    *   140
-
-    *   210
-
-    *   110
-
-    *   270
-
-
-*    *   unter 80 bis 60
-
-    *   200
-
-    *   310
-
-    *   170
-
-    *   390
-
-
-*    *   unter 60 bis 50
-
-    *   250
-
-    *   390
-
-    *   220
-
-    *   480
-
-
-*    *   unter 50 bis 40
-
-    *   320
-
-    *   500
-
-    *   290
-
-    *   630
-
-
-*    *   unter 40 bis 35
-
-    *   380
-
-    *   600
-
-    *   350
-
-    *   740
-
-
-*    *   unter 35 bis 30
-
-    *   450
-
-    *   710
-
-    *   420
-
-    *   880
-
-
-*    *   unter 30 bis 25
-
-    *   540
-
-    *   860
-
-    *   510
-
-    *   1.060
-
-
-*    *   unter 25 bis 20
-
-    *   680
-
-    *   1.080
-
-    *   650
-
-    *   1.330
-
-
-*    *   unter 20 bis 15
-
-    *   920
-
-    *   1.440
-
-    *   900
-
-    *   1.760
-
-
-*    *
-
-*    *
-        4.  Wenn regelspurige Güterwagen mit höchstens 4,50 m Radsatzabstand
-            befördert werden
-
-
-
-
-
-*    *   Bogenhalbmesser
-
-    *   Bei Rollbockverkehr
-
-    *   Bei Rollwagenverkehr
-
-
-*    *   Bogeninnenseite
-
-    *   Bogenaußenseite
-
-    *   Bogeninnenseite
-
-    *   Bogenaußenseite
-
-
-*    *   m
-
-    *   mm
-
-    *   mm
-
-    *   mm
-
-    *   mm
-
-
-*    *   unter 1.500 bis 500
-
-    *   0
-
-    *   0
-
-    *   0
-
-    *   20
-
-
-*    *   unter 500 bis 300
-
-    *   0
-
-    *   0
-
-    *   0
-
-    *   40
-
-
-*    *   unter 300 bis 250
-
-    *   10
-
-    *   10
-
-    *   0
-
-    *   60
-
-
-*    *   unter 250 bis 225
-
-    *   20
-
-    *   20
-
-    *   0
-
-    *   60
-
-
-*    *   unter 225 bis 200
-
-    *   20
-
-    *   20
-
-    *   10
-
-    *   70
-
-
-*    *   unter 200 bis 190
-
-    *   20
-
-    *   20
-
-    *   10
-
-    *   70
-
-
-*    *   unter 190 bis 180
-
-    *   20
-
-    *   20
-
-    *   10
-
-    *   80
-
-
-*    *   unter 180 bis 150
-
-    *   20
-
-    *   30
-
-    *   20
-
-    *   90
-
-
-*    *   unter 150 bis 120
-
-    *   30
-
-    *   50
-
-    *   30
-
-    *   110
-
-
-*    *   unter 120 bis 100
-
-    *   30
-
-    *   70
-
-    *   50
-
-    *   140
-
-
-*    *   unter 100 bis 80
-
-    *   40
-
-    *   100
-
-    *   60
-
-    *   170
-
-
-*    *   unter 80 bis 60
-
-    *   50
-
-    *   140
-
-    *   100
-
-    *   230
-
-
-*    *   unter 60 bis 50
-
-    *   60
-
-    *   170
-
-    *   130
-
-    *   270
-
-
-*    *   unter 50 bis 40
-
-    *   80
-
-    *   220
-
-    *   180
-
-    *   340
-
-
-*    *   unter 40 bis 35
-
-    *   90
-
-    *   270
-
-    *   210
-
-    *   400
-
-
-*    *   unter 35 bis 30
-
-    *   100
-
-    *   320
-
-    *   250
-
-    *   460
-
-
-*    *   unter 30 bis 25
-
-    *   130
-
-    *   390
-
-    *   310
-
-    *   550
-
-
-*    *   unter 25 bis 20
-
-    *   160
-
-    *   490
-
-    *   390
-
-    *   670
-
-
-*    *   unter 20 bis 15
-
-    *   210
-
-    *   650
-
-    *   540
-
-    *   890
-
-
-
-
-(zu § 21)
-
-## Anlage 4 Radsatz
+| 1. Wenn regelspurige Güterwagen unbeschränkt befördert werden |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Bogenhalbmesser | Bei Rollbockverkehr | Bei Rollwagenverkehr |  |  |
+| Bogeninnenseite | Bogenaußenseite | Bogeninnenseite | Bogenaußenseite |  |
+| m | mm | mm | mm | mm |
+| unter 1.500 bis 500 | 0 | 0 | 0 | 20 |
+| unter 500 bis 300 | 0 | 0 | 0 | 40 |
+| unter 300 bis 250 | 30 | 10 | 20 | 60 |
+| unter 250 bis 225 | 60 | 30 | 60 | 60 |
+| unter 225 bis 200 | 90 | 60 | 80 | 70 |
+| unter 200 bis 190 | 100 | 100 | 100 | 70 |
+| unter 190 bis 180 | 130 | 100 | 110 | 80 |
+| unter 180 bis 150 | 190 | 170 | 180 | 120 |
+| unter 150 bis 120 | 370 | 360 | 390 | 320 |
+| unter 120 bis 100 | 590 | 550 | 600 | 510 |
+| unter 100 bis 90 | 730 | 690 | 750 | 650 |
+| unter 90 bis 80 | 900 | 840 | 910 | 800 |
+| unter 80 bis 70 | 1.120 | 1.050 | 1.160 | 1.010 |
+| unter 70 bis 60 | 1.420 | 1.300 | 1.460 | 1.260 |
+| 2. Wenn regelspurige Güterwagen mit höchstens 15,00 m Drehzapfenabstand befördert werden |  |  |  |  |
+| Bogenhalbmesser | Bei Rollbockverkehr | Bei Rollwagenverkehr |  |  |
+| Bogeninnenseite | Bogenaußenseite | Bogeninnenseite | Bogenaußenseite |  |
+| m | mm | mm | mm | mm |
+| unter 1.500 bis 500 | 0 | 0 | 0 | 20 |
+| unter 500 bis 300 | 0 | 0 | 0 | 40 |
+| unter 300 bis 250 | 10 | 10 | 20 | 60 |
+| unter 250 bis 225 | 30 | 30 | 60 | 60 |
+| unter 225 bis 200 | 50 | 50 | 60 | 70 |
+| unter 200 bis 190 | 70 | 70 | 70 | 70 |
+| unter 190 bis 180 | 100 | 100 | 80 | 80 |
+| unter 180 bis 150 | 110 | 140 | 120 | 120 |
+| unter 150 bis 120 | 170 | 220 | 190 | 190 |
+| unter 120 bis 100 | 220 | 300 | 260 | 260 |
+| unter 100 bis 80 | 310 | 430 | 360 | 380 |
+| unter 80 bis 60 | 450 | 630 | 530 | 580 |
+| unter 60 bis 50 | 570 | 790 | 670 | 740 |
+| unter 50 bis 40 | 740 | 1.030 | 880 | 980 |
+| unter 40 bis 35 | 880 | 1.210 | 1.030 | 1.160 |
+| unter 35 bis 30 | 1.050 | 1.430 | 1.230 | 1.370 |
+| unter 30 bis 25 | 1.290 | 1.730 | 1.520 | 1.670 |
+| unter 25 bis 20 | 1.660 | 2.160 | 1.950 | 2.100 |
+| unter 20 bis 15 | 2.310 | 2.830 | 2.710 | 2.750 |
+| 3. Wenn regelspurige Güterwagen mit höchstens 8,00 m Radsatzabstand oder Drehzapfenabstand befördert werden |  |  |  |  |
+| Bogenhalbmesser | Bei Rollbockverkehr | Bei Rollwagenverkehr |  |  |
+| Bogeninnenseite | Bogenaußenseite | Bogeninnenseite | Bogenaußenseite |  |
+| m | mm | mm | mm | mm |
+| unter 1.500 bis 500 | 0 | 0 | 0 | 20 |
+| unter 500 bis 300 | 0 | 0 | 0 | 40 |
+| unter 300 bis 250 | 10 | 10 | 0 | 60 |
+| unter 250 bis 225 | 20 | 20 | 0 | 60 |
+| unter 225 bis 200 | 30 | 30 | 10 | 70 |
+| unter 200 bis 190 | 40 | 40 | 10 | 70 |
+| unter 190 bis 180 | 40 | 40 | 10 | 80 |
+| unter 180 bis 150 | 60 | 60 | 30 | 100 |
+| unter 150 bis 120 | 100 | 100 | 60 | 140 |
+| unter 120 bis 100 | 110 | 150 | 70 | 190 |
+| unter 100 bis 80 | 140 | 210 | 110 | 270 |
+| unter 80 bis 60 | 200 | 310 | 170 | 390 |
+| unter 60 bis 50 | 250 | 390 | 220 | 480 |
+| unter 50 bis 40 | 320 | 500 | 290 | 630 |
+| unter 40 bis 35 | 380 | 600 | 350 | 740 |
+| unter 35 bis 30 | 450 | 710 | 420 | 880 |
+| unter 30 bis 25 | 540 | 860 | 510 | 1.060 |
+| unter 25 bis 20 | 680 | 1.080 | 650 | 1.330 |
+| unter 20 bis 15 | 920 | 1.440 | 900 | 1.760 |
+| 4. Wenn regelspurige Güterwagen mit höchstens 4,50 m Radsatzabstand befördert werden |  |  |  |  |
+| Bogenhalbmesser | Bei Rollbockverkehr | Bei Rollwagenverkehr |  |  |
+| Bogeninnenseite | Bogenaußenseite | Bogeninnenseite | Bogenaußenseite |  |
+| m | mm | mm | mm | mm |
+| unter 1.500 bis 500 | 0 | 0 | 0 | 20 |
+| unter 500 bis 300 | 0 | 0 | 0 | 40 |
+| unter 300 bis 250 | 10 | 10 | 0 | 60 |
+| unter 250 bis 225 | 20 | 20 | 0 | 60 |
+| unter 225 bis 200 | 20 | 20 | 10 | 70 |
+| unter 200 bis 190 | 20 | 20 | 10 | 70 |
+| unter 190 bis 180 | 20 | 20 | 10 | 80 |
+| unter 180 bis 150 | 20 | 30 | 20 | 90 |
+| unter 150 bis 120 | 30 | 50 | 30 | 110 |
+| unter 120 bis 100 | 30 | 70 | 50 | 140 |
+| unter 100 bis 80 | 40 | 100 | 60 | 170 |
+| unter 80 bis 60 | 50 | 140 | 100 | 230 |
+| unter 60 bis 50 | 60 | 170 | 130 | 270 |
+| unter 50 bis 40 | 80 | 220 | 180 | 340 |
+| unter 40 bis 35 | 90 | 270 | 210 | 400 |
+| unter 35 bis 30 | 100 | 320 | 250 | 460 |
+| unter 30 bis 25 | 130 | 390 | 310 | 550 |
+| unter 25 bis 20 | 160 | 490 | 390 | 670 |
+| unter 20 bis 15 | 210 | 650 | 540 | 890 |
+
+
+## Anlage 4 (zu § 21)Radsatz
 
 (Inhalt: nicht darstellbare Abbildung,
 Fundstelle: BGBl I 1972, 285)
 
-(zu § 21)
 
-## Anlage 5 Räder
+## Anlage 5 (zu § 21)Räder
 
 (Inhalt: nicht darstellbare Abbildungen,
 Fundstelle: BGBl I 1972, 286)
 
-(zu § 25)
 
-## Anlage 6 Freie Räume und vorstehende Teile an den Stirnseiten der Fahrzeuge
+## Anlage 6 (zu § 25)Freie Räume und vorstehende Teile an den Stirnseiten der Fahrzeuge
 
 (Inhalt: nicht darstellbare Abbildungen,
 Fundstelle: BGBl I 1972, 287)

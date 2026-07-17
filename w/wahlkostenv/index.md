@@ -1,6 +1,5 @@
 ---
-Title: Verordnung zur Anpassung der festen Beträge im Rahmen der Wahlkostenerstattung
-  durch den Bund
+Title: Verordnung zur Anpassung der festen Beträge im Rahmen der Wahlkostenerstattung durch den Bund
 jurabk: WahlkostenV
 layout: default
 origslug: wahlkostenv
@@ -16,7 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2016, 2517
 
-Stand: Ersetzt V 111-1-7 v. 29.9.2009 I 3220 (WahlKErstV)
+Stand
+:   Ersetzt V 111-1-7 v. 29.9.2009 I 3220 (WahlKErstV)
+
 
 ## Eingangsformel
 
@@ -27,9 +28,9 @@ neu gefasst worden ist, verordnet das Bundesministerium des Innern:
 
 ## § 1 Feste Beträge der Wahlkostenerstattung
 
-Der feste Betrag nach § 50 Absatz 3 Satz 2 des Bundeswahlgesetzes wird
-für Gemeinden bis zu 100 000 Wahlberechtigten auf 0,51 Euro und für
-Gemeinden mit mehr als 100 000 Wahlberechtigten auf 0,79 Euro
+Der feste Betrag nach § 50 Absatz 3 Satz 2 des Bundeswahlgesetzes
+wird für Gemeinden bis zu 100 000 Wahlberechtigten auf 0,51 Euro und
+für Gemeinden mit mehr als 100 000 Wahlberechtigten auf 0,79 Euro
 festgesetzt.
 
 

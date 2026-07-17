@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die elektronische Aktenführung bei dem Deutschen Patent- und
-  Markenamt, dem Patentgericht und dem Bundesgerichtshof
+Title: Verordnung über die elektronische Aktenführung bei dem Deutschen Patent- und Markenamt, dem Patentgericht und dem Bundesgerichtshof
 jurabk: EAPatV
 layout: default
 origslug: eapatv
@@ -35,12 +34,23 @@ Regelungen der Zivilprozessordnung über die elektronische Aktenführung
 entsprechend.
 
 
-## § 3 Vernichtung von Schriftstücken
+## § 3 Übertragung und Vernichtung von Schriftstücken
 
-Werden Schriftstücke oder sonstige Unterlagen in ein elektronisches
-Dokument übertragen, so dürfen sie nicht vernichtet werden, wenn in
-Betracht kommt, über ihr Vorhandensein oder ihre Beschaffenheit Beweis
-zu erheben.
+(1) Soweit das Deutsche Patent- und Markenamt Akten elektronisch
+führt, soll es an Stelle von Papierdokumenten deren elektronische
+Wiedergabe in der elektronischen Akte aufbewahren. Bei der Übertragung
+der Papierdokumente in elektronische Dokumente ist nach dem Stand
+der Technik sicherzustellen, dass die elektronischen Dokumente mit
+den Papierdokumenten bildlich und inhaltlich übereinstimmen, wenn
+sie lesbar gemacht werden. Von der Übertragung der Papierdokumente in
+elektronische Dokumente kann abgesehen werden, wenn die Übertragung
+unverhältnismäßigen technischen Aufwand erfordert.
+
+(2) Die Papierdokumente sollen nach der Übertragung in elektronische
+Dokumente vernichtet werden. Dies gilt nicht, soweit die Dokumente aus
+rechtlichen Gründen, insbesondere auch zu Beweiszwecken, zurückzugeben
+oder zur Qualitätssicherung des Übertragungsvorgangs aufzubewahren
+sind.
 
 
 ## § 4 Überblick über Aktenbestandteile
@@ -49,8 +59,8 @@ zu erheben.
 Bestandteile, so muss beim Zugriff auf jeden der Teile ein Hinweis auf
 den jeweils anderen Teil sichtbar sein.
 
-(2) Vor jedem Zugriff auf einen elektronischen Aktenbestandteil muss
-ein vollständiger Überblick über alle anderen elektronischen
+(2) Vor jedem Zugriff auf einen elektronischen Aktenbestandteil
+muss ein vollständiger Überblick über alle anderen elektronischen
 Aktenbestandteile sichtbar sein.
 
 
@@ -61,8 +71,8 @@ kann in elektronischen Bestandteilen der Akte statt der elektronischen
 Signatur ein anderer eindeutiger Herkunftsnachweis verwendet werden,
 der nicht unbemerkt verändert werden kann.
 
-(2) Ein elektronisches Dokument wird unterzeichnet, indem der Name der
-unterzeichnenden Person eingefügt wird. Die Dokumente werden durch
+(2) Ein elektronisches Dokument wird unterzeichnet, indem der Name
+der unterzeichnenden Person eingefügt wird. Die Dokumente werden durch
 einen qualifizierten Zeitstempel gesichert.
 
 (3) Eine Niederschrift oder ein Beschluss des Deutschen Patent- und
@@ -71,25 +81,17 @@ Markenamts wird unterzeichnet, indem
 1.  der Name der unterzeichnenden Person oder der unterzeichnenden
     Personen eingefügt wird und
 
-
 2.  das Dokument versehen wird
 
     a)  mit einer fortgeschrittenen Signatur nach Artikel 3 Nummer 11 der
-        Verordnung (EU) Nr. 910/2014 des Europäischen Parlaments und des Rates
-        vom 23. Juli 2014 über elektronische Identifizierung und
+        Verordnung (EU) Nr. 910/2014 des Europäischen Parlaments und des
+        Rates vom 23. Juli 2014 über elektronische Identifizierung und
         Vertrauensdienste für elektronische Transaktionen im Binnenmarkt und
         zur Aufhebung der Richtlinie 1999/93/EG (ABl. L 257 vom 28.8.2014, S.
         73) oder
 
-
     b)  mit einer qualifizierten elektronischen Signatur nach Artikel 3 Nummer
         12 der Verordnung (EU) Nr. 910/2014.
-
-
-
-
-
-
 
 
 ## § 6 Form der Ausfertigungen und Abschriften
@@ -105,12 +107,8 @@ in den Ausdruck folgende Informationen aufzunehmen:
 
 1.  den Namen der Person, die das Dokument unterzeichnet hat, und
 
-
 2.  den Tag, an dem das Dokument mit einer elektronischen Signatur
     versehen wurde.
-
-
-
 
 (3) Wird eine Ausfertigung eines elektronischen Dokuments gefertigt,
 ist in den Ausdruck zusätzlich zu den Angaben nach Absatz 2 der
@@ -119,7 +117,6 @@ worden ist und daher nicht unterschrieben ist.
 
 
 ## § 7 (weggefallen)
-
 
 
 ## § 8 Vorlegen von Akten

@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen
-  Mark (Gedenkmünze 40 Jahre Bundesrepublik Deutschland)
+Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen Mark (Gedenkmünze 40 Jahre Bundesrepublik Deutschland)
 jurabk: Münz10DMBek 1989
 layout: default
 origslug: m_nz10dmbek_1989
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 1989, 658
-
 
 
 ## (XXXX)
@@ -42,28 +40,16 @@ kreisförmig angeordnet und durch Seile miteinander verbunden sind. Die
 Anordnung der Seile läßt in der Mitte die Zahl 40 erkennen.
 Die Umschrift lautet:
 
-*   "BUNDESREPUBLIK DEUTSCHLAND
+-   "BUNDESREPUBLIK DEUTSCHLAND
 
-    *   - 1949 - 1989 -".
-
-
-
-
-
-
+    -   - 1949 - 1989 -".
 
 (6) Die Wertseite trägt einen Adler, die Jahreszahl 1989, das
 Münzzeichen "G" der Staatlichen Münze Karlsruhe und die Umschrift:
 
-*   "BUNDESREPUBLIK DEUTSCHLAND
+-   "BUNDESREPUBLIK DEUTSCHLAND
 
-    *   10 DEUTSCHE MARK".
-
-
-
-
-
-
+    -   10 DEUTSCHE MARK".
 
 (7) Die Jahreszahl ist - unterteilt in "19" und "89" - beiderseits der
 Wertziffer 10 angebracht. Das Münzzeichen "G" steht neben dem rechten
@@ -71,19 +57,19 @@ Fang des Adlers.
 
 (8) Der glatte Münzrand enthält in vertiefter Prägung die Inschrift:
 
-*   "40 JAHRE FRIEDEN UND FREIHEIT".
-
-
-
+-   "40 JAHRE FRIEDEN UND FREIHEIT".
 
 (9) Zwischen Ende und Anfang der Randschrift ist ein fünfeckiger Stern
 eingeprägt.
 
 (10) Der Entwurf der Münze stammt von Reinhart Heinsdorff, Ottmaring.
+
 Der Bundesminister der Finanzen
 
 
 ## (XXXX) Abbildung der Münze
 
 (Fundstelle: BGBl. I 1989, 658)
+
 ![bgbl1_1989_j0658_0010.jpg](bgbl1_1989_j0658_0010.jpg)
+

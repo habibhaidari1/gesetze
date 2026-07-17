@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   GBl DDR I: 1990, 660
 
+Fundstelle
+:   GBl DDR I: 1990, Nr 42, 660
+
 Zuletzt geändert durch
 :   § 9 Abs. 2 G v. 22.3.1991 I 784
 
@@ -27,16 +30,12 @@ Auf der Grundlage
     Demokratischen Republik (Verfassungsgrundsätze) vom 17. Juni 1990
     (GBl. I Nr. 33 S. 299),
 
-
--   des Gesetzes über die Selbstverwaltung der Gemeinden und Landkreise in
-    der DDR (Kommunalverfassung) vom 17. Mai 1990 (GBl. I Nr. 28 S. 255)
-    und
-
+-   des Gesetzes über die Selbstverwaltung der Gemeinden und Landkreise
+    in der DDR (Kommunalverfassung) vom 17. Mai 1990 (GBl. I Nr. 28 S.
+    255) und
 
 -   des Gesetzes zur Privatisierung und Reorganisation des volkseigenen
     Vermögens (Treuhandgesetz) vom 17. Juni 1990 (GBl. I Nr. 33 S. 300),
-
-
 
 wird folgendes Gesetz erlassen:
 
@@ -58,10 +57,8 @@ a)  alle volkseigenen Betriebe, Einrichtungen und Anlagen, die zur
     Gesetzes über die Selbstverwaltung der Gemeinden und Landkreise in der
     DDR benötigt werden, unabhängig von ihrer bisherigen Unterstellung,
 
-
 b)  alle anderen volkseigenen Betriebe und Einrichtungen, die den
     ehemaligen Räten der Gemeinden und Städte unterstellt waren,
-
 
 c)  alle volkseigenen Grundstücke und Bodenflächen, die sich in der
     Rechtsträgerschaft der ehemaligen Räte der Gemeinden und Städte sowie
@@ -70,20 +67,15 @@ c)  alle volkseigenen Grundstücke und Bodenflächen, die sich in der
     volkseigener Betriebe und Einrichtungen befinden, die künftig in
     kommunales Eigentum übergehen,
 
-
 d)  alle volkseigenen Immobilien, einschließlich der wohn- und
     gewerblichen Zwecken dienenden Gebäude und Gebäudeteile, die sich in
     der Rechtsträgerschaft der ehemaligen Räte der Gemeinden und Städte
     sowie deren nachgeordneten Betrieben und Einrichtungen befanden oder
     von ihnen auf vertraglicher Grundlage genutzt wurden und
 
-
 e)  alle sonstigen Rechte und Forderungen, die den ehemaligen Gemeinden
     und Städten sowie deren nachgeordneten Betrieben und Einrichtungen
     zustanden.
-
-
-
 
 (2) Betriebe, Einrichtungen, Immobilien, Grundstücke und Bodenflächen
 aus der Rechtsträgerschaft aufgelöster oder aufzulösender staatlicher
@@ -97,13 +89,12 @@ oder der Landesregierungen gefaßt werden.
 
 In das Vermögen der Landkreise gehen über
 
-a)  volkseigene Betriebe, Einrichtungen und Anlagen, die gemäß § 72 des
-    Gesetzes über die Selbstverwaltung der Gemeinden und Landkreise der
-    einheitlichen Versorgung und Betreuung des ganzen Kreises oder eines
-    größeren Teiles desselben dienen bzw. deren Unterhaltung die
+a)  volkseigene Betriebe, Einrichtungen und Anlagen, die gemäß § 72
+    des Gesetzes über die Selbstverwaltung der Gemeinden und Landkreise
+    der einheitlichen Versorgung und Betreuung des ganzen Kreises oder
+    eines größeren Teiles desselben dienen bzw. deren Unterhaltung die
     Leistungsfähigkeit der einzelnen kreisangehörigen Städte und Gemeinden
     übersteigt,
-
 
 b)  alle anderen volkseigenen Betriebe und Einrichtungen, die den
     ehemaligen Räten der Kreise unterstellt waren, sofern § 2 Absatz 1
@@ -111,25 +102,19 @@ b)  alle anderen volkseigenen Betriebe und Einrichtungen, die den
     marktfähiger Unternehmen durch zweckmäßige Entflechtung der ehemaligen
     kreisgeleiteten Betriebe zu fördern,
 
-
 c)  alle volkseigenen Grundstücke und Bodenflächen, die sich in
     Rechtsträgerschaft der ehemaligen Räte der Kreise sowie deren
     nachgeordneten Betrieben und Einrichtungen befanden, von ihnen
     vertraglich genutzt wurden oder sich in Rechtsträgerschaft von
     Betrieben und Einrichtungen gemäß Buchstabe a befinden,
 
-
 d)  alle volkseigenen Immobilien, einschließlich der gewerblichen Zwecken
     dienenden Gebäude und Gebäudeteile, die sich in Rechtsträgerschaft von
     Betrieben und Einrichtungen gemäß Buchstaben a und b befinden,
 
-
 e)  alle sonstigen Rechte und Forderungen, die den Kreisen sowie deren
     nachgeordneten Betrieben und Einrichtungen zustanden, sofern sie nicht
     in das Vermögen der Gemeinden und Städte übergehen.
-
-
-
 
 
 ## § 4 Sonderregelungen
@@ -137,15 +122,15 @@ e)  alle sonstigen Rechte und Forderungen, die den Kreisen sowie deren
 (1) Die auf der Grundlage des Beschlusses des Präsidiums des
 Ministerrates vom 9. Februar 1972 und damit im Zusammenhang stehender
 Regelungen in Volkseigentum überführten Betriebe und Einrichtungen,
-die kommunalen Aufgaben und Dienstleistungen dienen, sind nicht in das
-Vermögen der Gemeinden, Städte und Landkreise zu übertragen, wenn
+die kommunalen Aufgaben und Dienstleistungen dienen, sind nicht in
+das Vermögen der Gemeinden, Städte und Landkreise zu übertragen, wenn
 durch die ehemaligen privaten Gesellschafter oder Inhaber oder deren
 Erben ein entsprechender Übernahmeantrag gestellt wurde.
 
-(2) Sofern Betriebe und Einrichtungen, die nach den Grundsätzen dieses
-Gesetzes in kommunales Eigentum überführt werden müssen, bereits in
-Kapitalgesellschaften umgewandelt worden sind, gehen die
-entsprechenden ehemals volkseigenen Anteile in das Eigentum der
+(2) Sofern Betriebe und Einrichtungen, die nach den Grundsätzen
+dieses Gesetzes in kommunales Eigentum überführt werden müssen,
+bereits in Kapitalgesellschaften umgewandelt worden sind, gehen
+die entsprechenden ehemals volkseigenen Anteile in das Eigentum der
 Gemeinden und Städte über. Soweit die Summe der Beteiligungen der
 Gemeinden, Städte und Landkreise 49 vom Hundert des Kapitals einer
 Kapitalgesellschaft für die Versorgung mit leitungsgebundenen Energien
@@ -157,18 +142,18 @@ Anteil gekürzt.
 
 (1) Über kommunales Vermögen kann im Rahmen der Gesetze
 uneingeschränkt verfügt werden. Die Nutzung des kommunalen Vermögens
-hat grundsätzlich so zu erfolgen, daß seine rentable Verwertung, ein
-wirksamer kommunaler Einfluß und die Finanzkontrolle durch die
-Kommunen gesichert sowie der öffentliche Zweck beachtet werden. In den
-Gemeinden, Städten und Kreisen sind Konzeptionen zu erarbeiten, wie
-übernommene Betriebe, die nicht in Übereinstimmung mit diesen
+hat grundsätzlich so zu erfolgen, daß seine rentable Verwertung,
+ein wirksamer kommunaler Einfluß und die Finanzkontrolle durch die
+Kommunen gesichert sowie der öffentliche Zweck beachtet werden. In
+den Gemeinden, Städten und Kreisen sind Konzeptionen zu erarbeiten,
+wie übernommene Betriebe, die nicht in Übereinstimmung mit diesen
 Grundsätzen geführt werden können oder die Leistungsfähigkeit der
 Kommunen überschreiten, unter Sicherung des Vermögens der Kommunen
 privatisiert werden.
 
-(2) Kommunale Betriebe und Einrichtungen können auf der Grundlage der
-§§ 57 bis 62 des Gesetzes über die Selbstverwaltung der Gemeinden und
-Landkreise in der DDR als Eigengesellschaften oder Eigenbetriebe
+(2) Kommunale Betriebe und Einrichtungen können auf der Grundlage
+der §§ 57 bis 62 des Gesetzes über die Selbstverwaltung der Gemeinden
+und Landkreise in der DDR als Eigengesellschaften oder Eigenbetriebe
 geführt werden. Gemeinden, Städte und Kreise können kommunale Betriebe
 in Form rechtlich selbständiger Unternehmen auch als Beteiligungs-
 oder Gemeinnützige Gesellschaften organisieren. Kommunales Eigentum
@@ -187,19 +172,15 @@ benötigt werden, sind in der Regel
     Gewährleistung Straßenbahnen, Autobusse, Hoch- und Untergrundbahnen,
     Schiffe, Fähren u.a. betreiben,
 
-
 -   Betriebe und Anlagen zur Versorgung mit Energie und Wasser, wie
     örtliche Elektrizitäts- und Heizkraftwerke, Gas- und Wasserwerke sowie
     gemeindliche Verteilernetze,
 
-
 -   Betriebe und Anlagen zur schadlosen Wasserableitung und
     Abwasserbehandlung sowie Stadtwirtschaftsbetriebe,
 
-
 -   Betriebe und Einrichtungen, die zur Verwaltung und Erhaltung des
     kommunalen Wohnungsfonds erforderlich sind, näheres regelt ein Gesetz,
-
 
 -   Einrichtungen für die kulturelle, gesundheitliche und soziale
     Betreuung, wie Theater, Museen, Büchereien, Krankenhäuser,
@@ -207,21 +188,14 @@ benötigt werden, sind in der Regel
     und Kindergärten, Schwimmbäder, Sport- und Freizeitanlagen,
     Campingplätze und Jugendherbergen.
 
-
-
-
 (2) Über die im Absatz 1 genannten volkseigenen Betriebe und
 Einrichtungen hinaus können den Kommunen weiter übertragen werden:
 
 -   Betriebe der Urproduktion und darauf aufgebaute Verarbeitungsbetriebe,
     z.B. Milch- und Schlachthöfe, Gärtnereien, Kies- und Sandgruben usw.,
 
-
 -   sonstige Betriebe und Einrichtungen, wie Gaststätten, Lagerhäuser,
     Messehallen u.a.
-
-
-
 
 
 ## § 7
@@ -250,35 +224,22 @@ Dieses Gesetz tritt am Tage seiner Veröffentlichung in Kraft.
 **Die Präsidentin der Volkskammer der Deutschen Demokratischen
 Republik**
 
-Auszug aus EinigVtr Anlage II Kapitel IV Abschnitt III
 
-## Anhang EV (BGBl. II 1990, 889, 1199)
+## Anhang EV Auszug aus EinigVtr Anlage II Kapitel IV Abschnitt III (BGBl. II 1990, 889, 1199)
 
 Abschnitt III
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
 ...
-
-2.  Das Gesetz vom 6. Juli 1990 über das Vermögen der Gemeinden, Städte
-    und Landkreise - Kommunalvermögensgesetz - (GBl. I Nr. 42 S. 660)
-
-    mit folgender Maßgabe:
-
-    a)  Den Gemeinden, Städten und Landkreisen ist nur das ihren
-        Verwaltungsaufgaben unmittelbar dienende Vermögen
-        (Verwaltungsvermögen) und das sonstige Vermögen (Finanzvermögen) in
-        Übereinstimmung mit Artikel 10 Abs. 6 und Artikel 26 Abs. 4 des
-        Vertrages vom 18. Mai 1990 über die Schaffung einer Währungs-,
-        Wirtschafts- und Sozialunion (BGBl. 1990 II S. 518) sowie den Artikeln
-        21 und 22 des Einigungsvertrages zu übertragen.
-
-
-    b)  ... (Änderungsvorschrift)
-
-
-
-
-
-
-...
+2\. Das Gesetz vom 6. Juli 1990 über das Vermögen der Gemeinden, Städte
+und Landkreise - Kommunalvermögensgesetz - (GBl. I Nr. 42 S. 660)mit
+folgender Maßgabe:
+a) Den Gemeinden, Städten und Landkreisen ist nur das
+ihren Verwaltungsaufgaben unmittelbar dienende Vermögen
+(Verwaltungsvermögen) und das sonstige Vermögen (Finanzvermögen)
+in Übereinstimmung mit Artikel 10 Abs. 6 und Artikel 26 Abs. 4
+des Vertrages vom 18. Mai 1990 über die Schaffung einer Währungs-,
+Wirtschafts- und Sozialunion (BGBl. 1990 II S. 518) sowie den Artikeln
+21 und 22 des Einigungsvertrages zu übertragen.
+b) ... (Änderungsvorschrift) ...
 

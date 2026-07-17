@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zur Transparenz über die Kosten der Stilllegung und des Rückbaus der
-  Kernkraftwerke sowie der Verpackung radioaktiver Abfälle
+Title: Gesetz zur Transparenz über die Kosten der Stilllegung und des Rückbaus der Kernkraftwerke sowie der Verpackung radioaktiver Abfälle
 jurabk: TransparenzG
 layout: default
 origslug: transparenzg
@@ -19,21 +18,23 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 246 V v. 19.6.2020 I 1328
 
-Stand: Das G ist gem. Bek. v. 16.6.2017 I 1676 am 16.6.2017 in Kraft getreten
+Stand
+:   Das G ist gem. Bek. v. 16.6.2017 I 1676 am 16.6.2017 in Kraft getreten
+
 
 ## § 1 Auskunftspflicht
 
-(1) Der Betreiber einer im Inland gelegenen Anlage zur Spaltung von
-Kernbrennstoffen zur gewerblichen Erzeugung von Elektrizität
+(1) Der Betreiber einer im Inland gelegenen Anlage zur Spaltung
+von Kernbrennstoffen zur gewerblichen Erzeugung von Elektrizität
 (Betreiber) ist verpflichtet, dem Bundesamt für Wirtschaft und
 Ausfuhrkontrolle einmal jährlich, und zwar bis zum letzten Werktag des
 sechsten auf den Abschlussstichtag des Betreibers folgenden Monats die
 Informationen gemäß § 2 Absatz 1 und 3, § 3 Absatz 1 und 2, § 4 Satz 1
 und 3 vorzulegen.
 
-(2) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle kann für die
-Aufstellung gemäß § 2 Absatz 1 auch selbst einen Stichtag bestimmen,
-zu dem diese zu erstellen und von einer
+(2) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle kann
+für die Aufstellung gemäß § 2 Absatz 1 auch selbst einen
+Stichtag bestimmen, zu dem diese zu erstellen und von einer
 Wirtschaftsprüfungsgesellschaft oder einem Wirtschaftsprüfer zu prüfen
 ist.
 
@@ -67,8 +68,8 @@ unverzüglich vorzulegen.
 (4) Der Betreiber hat die Aufstellung durch einen Wirtschaftsprüfer
 oder eine Wirtschaftsprüfungsgesellschaft daraufhin prüfen zu lassen,
 ob die Aufstellung den im Jahresabschluss des Betreibers ausgewiesenen
-Rückstellungsbeträgen entspricht. Das Ergebnis der Prüfung ist dem
-Bundesamt für Wirtschaft und Ausfuhrkontrolle zuzuleiten. Der
+Rückstellungsbeträgen entspricht. Das Ergebnis der Prüfung ist
+dem Bundesamt für Wirtschaft und Ausfuhrkontrolle zuzuleiten. Der
 Prüfungsbericht muss innerhalb eines Jahres nach dem Bilanzstichtag
 erstellt und bei dem Bundesamt für Wirtschaft und Ausfuhrkontrolle
 eingereicht werden.
@@ -76,15 +77,15 @@ eingereicht werden.
 
 ## § 3 Darstellung des Haftungskreises
 
-(1) Der Aufstellung nach § 2 Absatz 1 ist eine Liste beizufügen, die
-sämtliche Gesellschaften enthält, die nach § 1 des
+(1) Der Aufstellung nach § 2 Absatz 1 ist eine Liste beizufügen,
+die sämtliche Gesellschaften enthält, die nach § 1 des
 Nachhaftungsgesetzes für die Erfüllung der in der Aufstellung
 erfassten kerntechnischen Rückbauverpflichtungen haften
 (Haftungskreis).
 
-(2) Soweit die Rückstellungen für diese Rückbauverpflichtungen nicht
-oder nicht ausschließlich beim Betreiber, sondern bei einem anderen
-Unternehmen des Haftungskreises gebildet werden oder nach den
+(2) Soweit die Rückstellungen für diese Rückbauverpflichtungen
+nicht oder nicht ausschließlich beim Betreiber, sondern bei einem
+anderen Unternehmen des Haftungskreises gebildet werden oder nach den
 anwendbaren Rechnungslegungsbestimmungen gebildet werden müssten, ist
 dies entsprechend in der Aufstellung nach § 2 Absatz 1 abzubilden.
 
@@ -95,17 +96,17 @@ erforderlichen Auskünfte zu erteilen.
 
 ## § 4 Gesonderter Bericht im Hinblick auf die Rückbauverpflichtungen
 
-Die Betreiber sind verpflichtet, in einem gesonderten Bericht, die
-Lage der Gesellschaft im Hinblick auf ihre bestehenden und zukünftigen
-Rückbauverpflichtungen so darzustellen, dass ein den tatsächlichen
-Verhältnissen und den erwarteten zukünftigen Entwicklungen
-entsprechendes Bild vermittelt wird. Der Bericht muss im Einklang mit
-dem Jahresabschluss stehen. Er hat eine ausgewogene und umfassende,
-dem Umfang und der Komplexität der Rückbauverpflichtungen
+Die Betreiber sind verpflichtet, in einem gesonderten Bericht,
+die Lage der Gesellschaft im Hinblick auf ihre bestehenden und
+zukünftigen Rückbauverpflichtungen so darzustellen, dass ein
+den tatsächlichen Verhältnissen und den erwarteten zukünftigen
+Entwicklungen entsprechendes Bild vermittelt wird. Der Bericht muss im
+Einklang mit dem Jahresabschluss stehen. Er hat eine ausgewogene und
+umfassende, dem Umfang und der Komplexität der Rückbauverpflichtungen
 entsprechende Analyse der am Abschlussstichtag bilanzierten
-Rückbauverpflichtungen und deren Entwicklung in der Zukunft sowie dem
-Zweck entsprechende Angaben zu der sich daraus ergebenden Höhe der
-Rückstellungen zu enthalten. Der gesonderte Bericht ist auf der
+Rückbauverpflichtungen und deren Entwicklung in der Zukunft sowie
+dem Zweck entsprechende Angaben zu der sich daraus ergebenden Höhe
+der Rückstellungen zu enthalten. Der gesonderte Bericht ist auf der
 Website des Betreibers zu veröffentlichen.
 
 
@@ -119,19 +120,19 @@ schuldhaftes Zögern mitzuteilen.
 
 ## § 6 Datennutzung und -übermittlung
 
-Das Bundesamt für Wirtschaft und Ausfuhrkontrolle ist berechtigt, nach
-§ 1 erlangte Daten zur Prüfung der finanziellen Sicherung der
-kerntechnischen Entsorgung zu nutzen und zu diesem Zweck unter
-Berücksichtigung der Rechte der Betreiber an das Bundesministerium für
-Wirtschaft und Energie und das Bundesministerium für Umwelt,
-Naturschutz und nukleare Sicherheit zu übermitteln. Das
+Das Bundesamt für Wirtschaft und Ausfuhrkontrolle ist berechtigt,
+nach § 1 erlangte Daten zur Prüfung der finanziellen Sicherung
+der kerntechnischen Entsorgung zu nutzen und zu diesem Zweck unter
+Berücksichtigung der Rechte der Betreiber an das Bundesministerium
+für Wirtschaft und Energie und das Bundesministerium für
+Umwelt, Naturschutz und nukleare Sicherheit zu übermitteln. Das
 Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit kann
 die nach § 1 erlangten Daten zur Prüfung der finanziellen Sicherung
-der kerntechnischen Entsorgung an das Bundesamt für die Sicherheit der
-nuklearen Entsorgung und an sonstige sachverständige Dritte
+der kerntechnischen Entsorgung an das Bundesamt für die Sicherheit
+der nuklearen Entsorgung und an sonstige sachverständige Dritte
 übermitteln. Die nach § 1 erlangten Daten sind ferner vom Bundesamt
-für Wirtschaft und Ausfuhrkontrolle zur Prüfung, Sicherstellung und
-Durchführung der Besteuerung auch an das nach § 20 Absatz 1 der
+für Wirtschaft und Ausfuhrkontrolle zur Prüfung, Sicherstellung
+und Durchführung der Besteuerung auch an das nach § 20 Absatz 1 der
 Abgabenordnung zuständige Finanzamt zu übermitteln. Eine Übermittlung
 an andere Dritte ist ausgeschlossen.
 
@@ -141,8 +142,8 @@ an andere Dritte ist ausgeschlossen.
 Die Bundesregierung legt dem Deutschen Bundestag zum 30. November
 eines jeden Jahres einen Bericht vor. Der Bericht enthält unter
 Abwägung des parlamentarischen und öffentlichen Informationsinteresses
-mit den Rechten der Betreiber eine zusammenfassende Bewertung der nach
-§ 1 im jeweiligen Jahr erlangten Informationen. Der Bericht ist
+mit den Rechten der Betreiber eine zusammenfassende Bewertung der
+nach § 1 im jeweiligen Jahr erlangten Informationen. Der Bericht ist
 erstmalig zum 30. November 2018 zu erstellen.
 
 
@@ -153,11 +154,7 @@ erstmalig zum 30. November 2018 zu erstellen.
 1.  entgegen § 1 Absatz 1 eine Information nicht oder nicht rechtzeitig
     vorlegt oder
 
-
 2.  einer vollziehbaren Anordnung nach § 1 Absatz 3 zuwiderhandelt.
-
-
-
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
 hunderttausend Euro geahndet werden.

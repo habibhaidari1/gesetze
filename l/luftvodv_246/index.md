@@ -1,7 +1,5 @@
 ---
-Title: Zweihundertsechsundvierzigste Durchführungsverordnung zur Luftverkehrs-Ordnung
-  (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum
-  und vom Verkehrslandeplatz Giebelstadt)
+Title: Zweihundertsechsundvierzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrslandeplatz Giebelstadt)
 jurabk: LuftVODV 246
 layout: default
 origslug: luftvodv_246
@@ -16,4 +14,7 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BAnz: 2011, Nr 161, 3752
+
+Fundstelle
+:   BAnz: 2011, 3752
 

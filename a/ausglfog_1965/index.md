@@ -16,14 +16,14 @@ Fundstelle
 :   BGBl I: 1965, 650
 
 Zuletzt geändert durch
-:   Art. 12 G v. 28. 6.1990 I 1221
+:   Art. 12 G v. 28.6.1990 I 1221
 
 
 ## § 1 Sachliche Geltung des Gesetzes
 
 (1) Ausgleichsforderungen, Rentenausgleichsforderungen und
-Sonderausgleichsforderungen (Ausgleichsforderungen), die in das
-Schuldbuch des Bundes oder eines Landes für Geldinstitute,
+Sonderausgleichsforderungen (Ausgleichsforderungen), die in
+das Schuldbuch des Bundes oder eines Landes für Geldinstitute,
 Versicherungsunternehmen oder Bausparkassen eingetragen sind oder noch
 eingetragen werden, sind nach Maßgabe dieses Gesetzes zu tilgen.
 
@@ -51,9 +51,9 @@ hat, gelten als Tilgung im Sinne dieses Gesetzes.
 am 30. Juni und 31. Dezember eines jeden Jahres, auf verzinsliche
 Ausgleichsforderungen mit Fälligkeit der Zinszahlungen zu entrichten.
 
-(2) Wird eine Ausgleichsforderung mit Zinsenlauf von einem nach dem 1.
-Januar 1956 liegenden Zeitpunkt an gewährt, so ist die erste
-Tilgungsleistung bei Ablauf des auf die Gewährung folgenden
+(2) Wird eine Ausgleichsforderung mit Zinsenlauf von einem nach
+dem 1. Januar 1956 liegenden Zeitpunkt an gewährt, so ist die
+erste Tilgungsleistung bei Ablauf des auf die Gewährung folgenden
 Kalenderhalbjahres fällig. Sie ist so zu berechnen, als ob die
 Ausgleichsforderung bereits mit Zinsenlauf vom 1. Januar 1956 an
 gewährt worden wäre.
@@ -63,8 +63,8 @@ gewährt worden wäre.
 
 (1) Tilgungsleistungen, die der Schuldner erst nach dem Zeitpunkt
 bewirkt, an dem sie nach §§ 2 und 3 zu entrichten sind, sind von
-diesem Zeitpunkt an bis zur Zahlung mit jährlich 5 vom Hundert zu
-verzinsen. Für die Verzinsung der Ausgleichsforderung und die
+diesem Zeitpunkt an bis zur Zahlung mit jährlich 5 vom Hundert
+zu verzinsen. Für die Verzinsung der Ausgleichsforderung und die
 Berechnung der Tilgungsleistungen nach § 2 gelten die nachgezahlten
 Beträge als in dem Zeitpunkt geleistet, an dem sie nach § 3 hätten
 entrichtet werden müssen.
@@ -81,8 +81,8 @@ unverzüglich zu bewirken.
 
 ## § 5 Abschlagszahlungen
 
-Solange eine Ausgleichsforderung noch nicht gewährt ist, aber
-Abschlagszahlungen auf die Zinsen geleistet werden, sind
+Solange eine Ausgleichsforderung noch nicht gewährt ist,
+aber Abschlagszahlungen auf die Zinsen geleistet werden, sind
 Abschlagszahlungen auf die Tilgung zu leisten. §§ 2 bis 4 gelten
 entsprechend.
 
@@ -104,27 +104,27 @@ werden.
 
 (2) Aufwendungen sind die Beträge, um die die nachgewiesenen Ausgaben
 für die Tilgung und Verzinsung die mit ihnen zusammenhängenden
-Einnahmen übersteigen. Von den Ausgaben für die Tilgung sind 66 2/3
-vom Hundert der Beträge abzusetzen, die nach den Vorschriften zur
-Neuordnung des Geldwesens oder damit zusammenhängenden Vereinbarungen
-von den Geldinstituten, Versicherungsunternehmen und Bausparkassen
-oder von ihren früheren Schuldnern an die Länder nach dem 30. Juni
-1959 gezahlt worden sind oder gezahlt werden. Dies gilt nicht für
-Zahlungen von Geldinstituten nach § 39 des
+Einnahmen übersteigen. Von den Ausgaben für die Tilgung sind 66
+2/3 vom Hundert der Beträge abzusetzen, die nach den Vorschriften
+zur Neuordnung des Geldwesens oder damit zusammenhängenden
+Vereinbarungen von den Geldinstituten, Versicherungsunternehmen
+und Bausparkassen oder von ihren früheren Schuldnern an die Länder
+nach dem 30. Juni 1959 gezahlt worden sind oder gezahlt werden.
+Dies gilt nicht für Zahlungen von Geldinstituten nach § 39 des
 Umstellungsergänzungsgesetzes. Ausgleichsforderungen, die nach den
-Vorschriften zur Neuordnung des Geldwesens, den Vorschriften der
-D-Markbilanzgesetze oder den mit ihnen zusammenhängenden
-Vereinbarungen zurückgewährt werden, erlöschen.
+Vorschriften zur Neuordnung des Geldwesens, den Vorschriften der D-
+Markbilanzgesetze oder den mit ihnen zusammenhängenden Vereinbarungen
+zurückgewährt werden, erlöschen.
 
-(3) Soweit ein Land eine Ausgleichsforderung nach dem 30. Juni 1959 zu
-einem höheren Betrag tilgt, als es sie nach diesem Gesetz zu tilgen
+(3) Soweit ein Land eine Ausgleichsforderung nach dem 30. Juni 1959
+zu einem höheren Betrag tilgt, als es sie nach diesem Gesetz zu tilgen
 hat, erstattet der Bund bis zur Auflösung des Ankaufsfonds (§ 10 Abs.
 2) diejenigen Beträge, die bei einer Tilgung nach diesem Gesetz dem
 Land als Zins- und Tilgungsaufwendungen zu erstatten wären.
 
 (4) § 2 des Gesetzes zur Überleitung der Beteiligung des ehemaligen
-Landes Preußen am Grundkapital der Deutschen Pfandbriefanstalt auf den
-Bund vom 16. Dezember 1954 (Bundesgesetzbl. I S. 439) bleibt
+Landes Preußen am Grundkapital der Deutschen Pfandbriefanstalt auf
+den Bund vom 16. Dezember 1954 (Bundesgesetzbl. I S. 439) bleibt
 unberührt.
 
 
@@ -158,24 +158,21 @@ Bundesbank ankaufen:
     Berichtigung unterliegenden Rechnung gewährt worden sind und die auf
     einen Betrag bis zu sechzigtausend Deutsche Mark lauten.
 
-
-
-
-(3) Soweit die Mittel des Ankaufsfonds auch für den in Absatz 2
-bezeichneten Zweck nicht benötigt werden, soll die Deutsche Bundesbank
-alle Gläubiger von Ausgleichsforderungen in Höhe eines einheitlichen
-Hundertsatzes der Ausgleichsforderungen befriedigen;
+(3) Soweit die Mittel des Ankaufsfonds auch für den in Absatz
+2 bezeichneten Zweck nicht benötigt werden, soll die Deutsche
+Bundesbank alle Gläubiger von Ausgleichsforderungen in Höhe eines
+einheitlichen Hundertsatzes der Ausgleichsforderungen befriedigen;
 Ausgleichsforderungen, die aufgrund einer nicht mehr der Berichtigung
-unterliegenden Rechnung gewährt worden sind und die auf einen Betrag
-bis zu sechzigtausend Deutsche Mark lauten, sollen dabei in voller
-Höhe übernommen werden. Die Deutsche Bundesbank soll die Befriedigung
-mindestens einen Monat vor der Zahlung im Bundesanzeiger ankündigen.
-Die Befriedigung kann auch durch Hinterlegung erfolgen. Soweit die
-Deutsche Bundesbank den Gläubiger befriedigt, geht die
+unterliegenden Rechnung gewährt worden sind und die auf einen
+Betrag bis zu sechzigtausend Deutsche Mark lauten, sollen dabei
+in voller Höhe übernommen werden. Die Deutsche Bundesbank soll die
+Befriedigung mindestens einen Monat vor der Zahlung im Bundesanzeiger
+ankündigen. Die Befriedigung kann auch durch Hinterlegung erfolgen.
+Soweit die Deutsche Bundesbank den Gläubiger befriedigt, geht die
 Ausgleichsforderung auf sie über.
 
-(4) Die Deutsche Bundesbank soll Mittel des Ankaufsfonds für die in
-Absatz 2 bezeichneten Zwecke erst verwenden, nachdem der
+(4) Die Deutsche Bundesbank soll Mittel des Ankaufsfonds für
+die in Absatz 2 bezeichneten Zwecke erst verwenden, nachdem der
 Bundesminister der Finanzen den Grundsätzen der beabsichtigten
 Verwendung zugestimmt hat.
 
@@ -193,9 +190,9 @@ umfaßt.
 wird der Ankaufsfonds aufgelöst. Mit der Auflösung des Ankaufsfonds
 erlöschen die zu seinem Bestand gehörenden Ausgleichsforderungen.
 
-(3) Die im Zeitpunkt der Auflösung noch vorhandenen sonstigen Mittel
-des Ankaufsfonds sind an den Bund abzuführen. Im Zeitpunkt der
-Auflösung noch nicht fällige Zinsen auf angekaufte
+(3) Die im Zeitpunkt der Auflösung noch vorhandenen sonstigen
+Mittel des Ankaufsfonds sind an den Bund abzuführen. Im
+Zeitpunkt der Auflösung noch nicht fällige Zinsen auf angekaufte
 Ausgleichsforderungen sind nicht zu entrichten.
 
 
@@ -205,8 +202,8 @@ Ausgleichsforderungen sind nicht zu entrichten.
 
 (2) Die Verpflichtungen des Landes Berlin aus Ausgleichsforderungen,
 die der Deutschen Bundesbank nach § 15 Abs. 2 des Zweiten
-Umstellungsergänzungsgesetzes vom 23. März 1957 (Bundesgesetzbl. I S.
-285) in Verbindung mit § 38 Abs. 2 des Gesetzes über die Deutsche
+Umstellungsergänzungsgesetzes vom 23. März 1957 (Bundesgesetzbl. I
+S. 285) in Verbindung mit § 38 Abs. 2 des Gesetzes über die Deutsche
 Bundesbank vom 26. Juli 1957 (Bundesgesetzbl. I S. 745) zustehen,
 gehen mit Wirkung vom 1. Januar 1965 auf den Bund über.
 
@@ -214,8 +211,8 @@ gehen mit Wirkung vom 1. Januar 1965 auf den Bund über.
 ## § 12 Gesetz über die Deutsche Bundesbank
 
 Wo im Gesetz über die Deutsche Bundesbank auf Vorschriften des
-Gesetzes über die Tilgung von Ausgleichsforderungen verwiesen wird,
-treten an deren Stelle die entsprechenden Vorschriften dieses
+Gesetzes über die Tilgung von Ausgleichsforderungen verwiesen
+wird, treten an deren Stelle die entsprechenden Vorschriften dieses
 Gesetzes.
 
 

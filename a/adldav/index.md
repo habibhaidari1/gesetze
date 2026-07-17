@@ -1,6 +1,5 @@
 ---
-Title: Verordnung zur Durchführung des § 61a des Gesetzes über die Alterssicherung
-  der Landwirte
+Title: Verordnung zur Durchführung des § 61a des Gesetzes über die Alterssicherung der Landwirte
 jurabk: AdLDAV
 layout: default
 origslug: adldav
@@ -34,8 +33,8 @@ Bundesministerium für Verbraucherschutz, Ernährung und Landwirtschaft:
 
 ## § 1 Datenabgleich durch Vermittlungsstellen, einzubeziehende Personen
 
-Der automatisierte Datenabgleich nach § 61a Abs. 1 des Gesetzes über
-die Alterssicherung der Landwirte wird durch zentrale
+Der automatisierte Datenabgleich nach § 61a Abs. 1 des Gesetzes
+über die Alterssicherung der Landwirte wird durch zentrale
 Vermittlungsstellen, die von den Finanzbehörden der Länder bestimmt
 werden (Vermittlungsstellen), durchgeführt. In den Datenabgleich
 werden Personen einbezogen, deren Einkommen nach § 32 Abs. 2 des
@@ -48,33 +47,32 @@ sich nach folgenden Vorschriften.
 ## § 2 (weggefallen)
 
 
-
 ## § 3 Datenübermittlung an die Vermittlungsstellen
 
 (1) Die landwirtschaftliche Alterskasse übermittelt für jede in den
-Datenabgleich einzubeziehende Person die in § 61a Absatz 1 Satz 2 des
-Gesetzes über die Alterssicherung der Landwirte genannten Daten
+Datenabgleich einzubeziehende Person die in § 61a Absatz 1 Satz 2
+des Gesetzes über die Alterssicherung der Landwirte genannten Daten
 (Anfragedatensatz) an die für die betreffende Person (§ 1 Satz 2)
 zuständige Vermittlungsstelle. Weitere personenbezogene Daten darf der
 Anfragedatensatz nicht enthalten.
 
-(2) Die Datenübermittlung erfolgt monatlich bis zum dritten Tag dieses
-Kalendermonats. In die Datenübermittlung werden alle der
+(2) Die Datenübermittlung erfolgt monatlich bis zum dritten Tag
+dieses Kalendermonats. In die Datenübermittlung werden alle der
 landwirtschaftlichen Alterskasse bis zum ersten Tag des betreffenden
 Kalendermonats zugeleiteten Meldungen nach Absatz 1 einbezogen.
 
 
 ## § 4 Datenabgleich
 
-Der Datenabgleich erstreckt sich auf die Feststellung, wann und für
-welches Veranlagungsjahr Einkommensteuerbescheide ausgefertigt wurden,
-und auf die in diesen Einkommensteuerbescheiden ausgewiesenen
+Der Datenabgleich erstreckt sich auf die Feststellung, wann und
+für welches Veranlagungsjahr Einkommensteuerbescheide ausgefertigt
+wurden, und auf die in diesen Einkommensteuerbescheiden ausgewiesenen
 Einkünfte im Sinne von § 2 Absatz 1 und 2 des Einkommensteuergesetzes,
-aufgeteilt nach den verschiedenen Einkunftsarten. Zusätzlich ist
-mitzuteilen, ob die Einkünfte aus Land- und Forstwirtschaft entweder
-nach § 4 des Einkommensteuergesetzes oder nach § 13a des
-Einkommensteuergesetzes ermittelt wurden, ob und welche Einkünfte nach
-§ 22 des Einkommensteuergesetzes erzielt wurden und ob der
+aufgeteilt nach den verschiedenen Einkunftsarten. Zusätzlich
+ist mitzuteilen, ob die Einkünfte aus Land- und Forstwirtschaft
+entweder nach § 4 des Einkommensteuergesetzes oder nach § 13a des
+Einkommensteuergesetzes ermittelt wurden, ob und welche Einkünfte
+nach § 22 des Einkommensteuergesetzes erzielt wurden und ob der
 Progressionsvorbehalt nach § 32b des Einkommensteuergesetzes
 angewendet wurde. Bezeichnet der übermittelte Anfragedatensatz einen
 bereits vorliegenden Einkommensteuerbescheid, bleiben dieser sowie
@@ -95,9 +93,9 @@ an die landwirtschaftliche Alterskasse.
 ## § 6 Anfragedatensatz
 
 Die landwirtschaftliche Alterskasse bestimmt nach Anhörung der
-Vermittlungsstellen und des Bundesbeauftragten für den Datenschutz und
-die Informationsfreiheit im Einvernehmen mit dem Bundesministerium für
-Arbeit und Soziales und dem Bundesministerium für Ernährung und
+Vermittlungsstellen und des Bundesbeauftragten für den Datenschutz
+und die Informationsfreiheit im Einvernehmen mit dem Bundesministerium
+für Arbeit und Soziales und dem Bundesministerium für Ernährung und
 Landwirtschaft die Gestaltung des Anfragedatensatzes.
 
 
@@ -111,15 +109,15 @@ Der Absender ist über die festgestellten Mängel zu unterrichten.
 
 (3) Die in den folgenden Vorschriften genannten DIN-Normen sind vom
 Deutschen Institut für Normung e. V., Berlin, herausgegeben, bei der
-Beuth-Verlag GmbH, Burggrafenstraße 4-10, 10787 Berlin, beziehbar und
-beim Bundesarchiv, Potsdamer Straße 1, 56075 Koblenz, jedermann
+Beuth-Verlag GmbH, Burggrafenstraße 4-10, 10787 Berlin, beziehbar
+und beim Bundesarchiv, Potsdamer Straße 1, 56075 Koblenz, jedermann
 zugänglich und archivmäßig gesichert niedergelegt.
 
 
 ## § 8 Übermittlung durch Datenfernübertragung
 
-Die Daten sind durch Datenübertragung im 8-Bit-Code – DRV 8 – nach DIN
-66 303 (ISO 8859-1, 1987) Code-Tabelle 1 zu übermitteln. Bei der
+Die Daten sind durch Datenübertragung im 8-Bit-Code – DRV 8 – nach
+DIN 66 303 (ISO 8859-1, 1987) Code-Tabelle 1 zu übermitteln. Bei der
 Datenübertragung sind dem jeweiligen Stand der Technik entsprechende
 Maßnahmen zur Sicherstellung von Datenschutz und Datensicherheit zu
 treffen, die insbesondere die Vertraulichkeit und Unversehrtheit der
@@ -131,9 +129,7 @@ sind Verschlüsselungsverfahren anzuwenden.
 ## § 9 (weggefallen)
 
 
-
 ## § 10 (weggefallen)
-
 
 
 ## § 11 Inkrafttreten

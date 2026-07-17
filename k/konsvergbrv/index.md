@@ -1,6 +1,5 @@
 ---
-Title: Verordnung zur Umsetzung von Konsultationsvereinbarungen zwischen der Bundesrepublik
-  Deutschland und dem Vereinigten Königreich Großbritannien und Nordirland
+Title: Verordnung zur Umsetzung von Konsultationsvereinbarungen zwischen der Bundesrepublik Deutschland und dem Vereinigten Königreich Großbritannien und Nordirland
 jurabk: KonsVerGBRV
 layout: default
 origslug: konsvergbrv
@@ -29,8 +28,8 @@ angefügt worden ist, verordnet das Bundesministerium der Finanzen:
 
 ## § 1 Abkommen
 
-Als Abkommen im Sinn dieser Verordnung gilt das Abkommen zwischen der
-Bundesrepublik Deutschland und dem Vereinigten Königreich
+Als Abkommen im Sinn dieser Verordnung gilt das Abkommen zwischen
+der Bundesrepublik Deutschland und dem Vereinigten Königreich
 Großbritannien und Nordirland zur Vermeidung der Doppelbesteuerung und
 zur Verhinderung der Steuerverkürzung auf dem Gebiet der Steuern vom
 Einkommen und vom Vermögen vom 30. März 2010 (BGBl. 2010 II S. 1333,
@@ -55,18 +54,15 @@ den Absätzen 2 bis 4.
     Nachzahlungen von Löhnen, Gehältern oder anderen Vergütungen handelt,
     oder
 
-
 2.  die allgemein für die Auflösung eines Arbeitsvertrags gewährt werden,
 
-
-
 können nach Artikel 14 Absatz 2 des Abkommens in dem Staat besteuert
-werden, in dem die Tätigkeit ausgeübt wurde. War der Arbeitnehmer in
-der Zeit vor der Auflösung des Arbeitsvertrags teils in dem Staat
-seiner Ansässigkeit oder im Hoheitsgebiet von Drittstaaten und teils
-in dem anderen Staat tätig, kann die Abfindung auch in diesem anderen
-Staat besteuert werden, jedoch nur anteilig entsprechend der
-Beschäftigungsdauer im anderen Staat im Verhältnis zur gesamten
+werden, in dem die Tätigkeit ausgeübt wurde. War der Arbeitnehmer
+in der Zeit vor der Auflösung des Arbeitsvertrags teils in dem
+Staat seiner Ansässigkeit oder im Hoheitsgebiet von Drittstaaten und
+teils in dem anderen Staat tätig, kann die Abfindung auch in diesem
+anderen Staat besteuert werden, jedoch nur anteilig entsprechend
+der Beschäftigungsdauer im anderen Staat im Verhältnis zur gesamten
 Beschäftigungsdauer nach Satz 1 Nummer 2. Eine zwischen den
 zuständigen Behörden im Einzelfall von Satz 2 vereinbarte abweichende
 Aufteilung ist für die Besteuerung bindend.

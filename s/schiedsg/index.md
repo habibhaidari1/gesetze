@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   GBl DDR I: 1990, 1527
 
+Fundstelle
+:   GBl DDR I: 1990, Nr 61, 1527
+
 Zuletzt geändert durch
 :   Art. 4 Abs. 77 G v. 5.5.2004 I 718
 
@@ -22,13 +25,12 @@ Zuletzt geändert durch
 ## Erster Abschnitt - Die Schiedsstelle
 
 
-
 ### § 1
 
 (1) Zur Durchführung des Schlichtungsverfahrens über streitige
 Rechtsangelegenheiten richtet jede Gemeinde eine oder mehrere
-Schiedsstellen ein und unterhält sie. Kleine Gemeinden können mit
-anderen Gemeinden eine gemeinsame Schiedsstelle bilden. Die
+Schiedsstellen ein und unterhält sie. Kleine Gemeinden können
+mit anderen Gemeinden eine gemeinsame Schiedsstelle bilden. Die
 Schiedsstelle führt einen auf die Gemeinde oder ihren Bereich
 hinweisenden Zusatz. Der Bereich einer Schiedsstelle soll in der Regel
 nicht mehr als 10.000 Bürger umfassen. Gemeindefreie Gebiete können
@@ -60,11 +62,7 @@ Fähigkeiten für das Amt geeignet sein. Sie muß das Wahlrecht besitzen.
 
 -   wer nicht das 25. Lebensjahr vollendet hat,
 
-
 -   wer nicht im Bereich der Schiedsstelle wohnt.
-
-
-
 
 
 ### § 4
@@ -82,8 +80,8 @@ aufgelöst wird.
 Direktor des Kreisgerichts, in dessen Bereich die Schiedsstelle ihren
 Sitz hat.
 
-(2) Der Direktor des Kreisgerichts hat zu prüfen, ob bei der Wahl der
-Schiedsperson die gesetzlichen Voraussetzungen gemäß § 3 dieses
+(2) Der Direktor des Kreisgerichts hat zu prüfen, ob bei der Wahl
+der Schiedsperson die gesetzlichen Voraussetzungen gemäß § 3 dieses
 Gesetzes beachtet worden sind.
 
 (3) Die Bestätigung der Schiedsperson ist dem Gewählten und dem Leiter
@@ -107,19 +105,13 @@ zu erfüllen.
 
 1.  das 60. Lebensjahr vollendet hat,
 
-
 2.  infolge Krankheit auf voraussichtlich längere Zeit gehindert ist, das
     Amt auszuüben,
-
 
 3.  aus beruflichen Gründen häufig oder langdauernd von seinem Wohnort
     abwesend ist,
 
-
 4.  aus sonstigen wichtigen Gründen das Amt nicht ausüben kann.
-
-
-
 
 (2) Absatz 1 Nr. 2 bis 4 gilt entsprechend für die Niederlegung des
 Amtes.
@@ -138,14 +130,9 @@ Schiedsperson
 
 -   ihre Pflichten gröblich verletzt hat,
 
-
 -   sich als unwürdig erwiesen hat,
 
-
 -   ihr Amt nicht mehr ordnungsgemäß ausüben kann.
-
-
-
 
 (2) Über die Amtsenthebung entscheidet auf Antrag des Direktors des
 Kreisgerichts nach Anhörung der Schiedsperson und des Leiters der
@@ -158,8 +145,8 @@ Gemeindeverwaltung der Präsident des Bezirksgerichts.
 den Behörden der Justizverwaltung, insbesondere hinsichtlich ihrer
 fach- und zeitgerechten Durchführung beaufsichtigt.
 
-(2) Die Schiedsperson untersteht unmittelbar der Aufsicht des
-Direktors des Kreisgerichts, soweit es ihre Tätigkeit im
+(2) Die Schiedsperson untersteht unmittelbar der Aufsicht
+des Direktors des Kreisgerichts, soweit es ihre Tätigkeit im
 Rechtspflegebereich betrifft.
 
 
@@ -177,8 +164,8 @@ einzureichen.
 über ihre Verhandlungen und die Verhältnisse der Parteien, soweit sie
 ihr amtlich bekanntgeworden sind, Verschwiegenheit zu wahren.
 
-(2) Über Angelegenheiten, über die Verschwiegenheit zu wahren ist,
-darf die Schiedsperson nur mit Genehmigung des Direktors des
+(2) Über Angelegenheiten, über die Verschwiegenheit zu wahren
+ist, darf die Schiedsperson nur mit Genehmigung des Direktors des
 Kreisgerichts aussagen.
 
 
@@ -202,7 +189,6 @@ Einwohnerzahl geteilt.
 
 
 ## Zweiter Abschnitt - Das Schlichtungsverfahren in bürgerlichen Rechtsstreitigkeiten
-
 
 
 ### § 13
@@ -247,8 +233,8 @@ Sprache geführt werden.
 
 Die Schiedsperson ist von der Ausübung ihres Amtes kraft Gesetzes
 ausgeschlossen:
-in Angelegenheiten, in denen sie selbst Partei ist oder bei denen sie
-zu einer Partei in dem Verhältnis einer Mitberechtigten,
+in Angelegenheiten, in denen sie selbst Partei ist oder bei denen
+sie zu einer Partei in dem Verhältnis einer Mitberechtigten,
 Mitverpflichteten oder Regreßpflichtigen steht;
 in Angelegenheiten ihres Ehegatten oder früherer Ehegatten;
 in Angelegenheiten einer Person, die mit ihr in gerader Linie verwandt
@@ -316,8 +302,8 @@ Anschrift der Parteien, eine allgemeine Angabe des Streitgegenstandes
 und die Unterschrift des Antragstellers oder der Antragstellerin
 enthalten.
 
-(2) Wohnen die Parteien nicht im Bereich derselben Schiedsstelle, so
-kann der Antrag auch bei der Schiedsstelle, in dessen Bereich der
+(2) Wohnen die Parteien nicht im Bereich derselben Schiedsstelle,
+so kann der Antrag auch bei der Schiedsstelle, in dessen Bereich der
 Antragsteller oder die Antragstellerin wohnt, zu Protokoll gegeben
 werden. Das Protokoll ist der zuständigen Schiedsstelle unverzüglich
 zu übermitteln.
@@ -335,21 +321,21 @@ werden, wenn der Antragsteller oder die Antragstellerin glaubhaft
 macht, daß die Angelegenheit dringlich ist. Eine weitere Verkürzung
 der Ladungsfrist setzt die Zustimmung beider Parteien voraus.
 
-(3) Die Schiedsstelle händigt die Ladung den Parteien persönlich gegen
-Empfangsbekenntnis aus oder läßt sie durch die Post zustellen; der
-Antragsgegner oder die Antragsgegnerin erhält mit der Ladung eine
+(3) Die Schiedsstelle händigt die Ladung den Parteien persönlich
+gegen Empfangsbekenntnis aus oder läßt sie durch die Post zustellen;
+der Antragsgegner oder die Antragsgegnerin erhält mit der Ladung eine
 Abschrift des Antrags. Zugleich werden die Parteien auf die Pflicht,
 persönlich zur Schlichtungsverhandlung zu erscheinen, und auf die
-Folgen hingewiesen, die eine Verletzung dieser Pflicht haben kann. Hat
-eine Partei einen gesetzlichen Vertreter, so ist diesem die Ladung
+Folgen hingewiesen, die eine Verletzung dieser Pflicht haben kann.
+Hat eine Partei einen gesetzlichen Vertreter, so ist diesem die Ladung
 zuzustellen.
 
-(4) Eine Partei kann ihr Ausbleiben in dem anberaumten Termin wegen
-Krankheit, beruflicher Verhinderung, Ortsabwesenheit oder wegen
-sonstiger wichtiger Gründe entschuldigen. Sie hat ihr Nichterscheinen
-der Schiedsstelle unverzüglich anzuzeigen und dabei die
-Entschuldigungsgründe glaubhaft zu machen. Hebt die Schiedsstelle den
-Termin nicht auf, so hat sie das der Partei mitzuteilen.
+(4) Eine Partei kann ihr Ausbleiben in dem anberaumten Termin
+wegen Krankheit, beruflicher Verhinderung, Ortsabwesenheit oder
+wegen sonstiger wichtiger Gründe entschuldigen. Sie hat ihr
+Nichterscheinen der Schiedsstelle unverzüglich anzuzeigen und dabei
+die Entschuldigungsgründe glaubhaft zu machen. Hebt die Schiedsstelle
+den Termin nicht auf, so hat sie das der Partei mitzuteilen.
 
 
 ### § 24
@@ -357,8 +343,8 @@ Termin nicht auf, so hat sie das der Partei mitzuteilen.
 (1) Die Parteien haben in dem anberaumten Termin persönlich zu
 erscheinen.
 
-(2) Erscheint eine Partei unentschuldigt nicht zu dem Termin oder
-entfernt sie sich unentschuldigt vor dem Schluß der
+(2) Erscheint eine Partei unentschuldigt nicht zu dem Termin
+oder entfernt sie sich unentschuldigt vor dem Schluß der
 Schlichtungsverhandlung, setzt die Schiedsstelle durch Bescheid ein
 Ordnungsgeld bis 50 Deutsche Mark fest.
 
@@ -371,8 +357,8 @@ Bescheids bei dem Kreisgericht, in dessen Bereich die Schiedsstelle
 ihren Sitz hat, einzureichen. Der Betroffene kann sie auch zu
 Protokoll der Geschäftsstelle des Kreisgerichts oder zu Protokoll der
 Schiedsstelle geben, die den Bescheid erlassen hat. In der Erklärung
-sind die Tatsachen darzulegen und glaubhaft zu machen, mit denen der
-Betroffene seine Abwesenheit in der Schlichtungsverhandlung
+sind die Tatsachen darzulegen und glaubhaft zu machen, mit denen
+der Betroffene seine Abwesenheit in der Schlichtungsverhandlung
 entschuldigt oder sich gegen die Höhe des Ordnungsgeldes wendet.
 
 (5) Das Kreisgericht leitet die ihm gegenüber abgegebene Erklärung der
@@ -404,11 +390,11 @@ den vorigen Stand zu gewähren.
 
 (2) Der Wiedereinsetzungsantrag ist mit der Anfechtungserklärung
 innerhalb einer Woche nach Wegfall des Hindernisses bei dem
-Kreisgericht schriftlich einzureichen. Der Betroffene kann ihn auch zu
-Protokoll der Geschäftsstelle des Kreisgerichts oder zu Protokoll der
-Schiedsstelle erklären, die den Bescheid erlassen hat. Die Tatsachen
-zur Begründung des Antrags sind bei der Antragstellung glaubhaft zu
-machen. Wird der Wiedereinsetzungsantrag zu Protokoll der
+Kreisgericht schriftlich einzureichen. Der Betroffene kann ihn auch
+zu Protokoll der Geschäftsstelle des Kreisgerichts oder zu Protokoll
+der Schiedsstelle erklären, die den Bescheid erlassen hat. Die
+Tatsachen zur Begründung des Antrags sind bei der Antragstellung
+glaubhaft zu machen. Wird der Wiedereinsetzungsantrag zu Protokoll der
 Schiedsstelle erklärt, so wird er dem Kreisgericht zugeleitet.
 
 (3) Über den Antrag entscheidet das Kreisgericht ohne mündliche
@@ -443,8 +429,8 @@ Vollmacht vertreten.
 
 Jede Partei kann vor der Schiedsstelle mit einem Beistand erscheinen.
 In der Schlichtungsverhandlung darf ein Beistand nur zurückgewiesen
-werden, wenn er durch sein Verhalten die Verhandlung nachhaltig stört
-und dadurch die Einigungsbemühungen wesentlich erschwert. Nicht
+werden, wenn er durch sein Verhalten die Verhandlung nachhaltig
+stört und dadurch die Einigungsbemühungen wesentlich erschwert. Nicht
 zurückgewiesen werden dürfen Rechtsanwälte und Beistände von Personen,
 die nicht lesen oder schreiben können, die die deutsche Sprache nicht
 beherrschen oder die blind, taub oder stumm sind.
@@ -469,19 +455,13 @@ Versicherungen ist die Schiedsperson nicht befugt.
 
 -   den Ort und die Zeit der Verhandlung;
 
-
 -   die Namen und Vornamen der erschienenen Parteien, gesetzlichen
     Vertreter, Bevollmächtigten und Beistände sowie die Angabe, wie diese
     sich ausgewiesen haben;
 
-
 -   den Gegenstand des Streites;
 
-
 -   den Vergleich der Parteien.
-
-
-
 
 (3) Kommt ein Vergleich nicht zustande, so ist hierüber ein kurzer
 Vermerk aufzunehmen.
@@ -490,8 +470,8 @@ Vermerk aufzunehmen.
 ### § 32
 
 (1) Das Protokoll ist den Parteien vorzulesen oder zur Durchsicht
-vorzulegen und von ihnen zu genehmigen. Dies ist in dem Protokoll zu
-vermerken.
+vorzulegen und von ihnen zu genehmigen. Dies ist in dem Protokoll
+zu vermerken.
 
 (2) Das Protokoll ist von den Schiedspersonen und den Parteien
 eigenhändig zu unterschreiben. Nach Vollzug der Unterschriften wird
@@ -508,14 +488,14 @@ besonderen Vermerk beglaubigen.
 Abschriften oder Ausfertigungen des Protokolls.
 
 (2) Die Ausfertigung besteht aus der mit dem Ausfertigungsvermerk
-versehenen Abschrift des Protokolls. Der Ausfertigungsvermerk muß
-Angaben über den Ort und die Zeit der Ausfertigung sowie die Person
-enthalten, für die die Ausfertigung erteilt wird, von der
+versehenen Abschrift des Protokolls. Der Ausfertigungsvermerk
+muß Angaben über den Ort und die Zeit der Ausfertigung sowie die
+Person enthalten, für die die Ausfertigung erteilt wird, von der
 Schiedsperson unterschrieben und mit einem Dienstsiegel versehen
 werden.
 
-(3) Die Ausfertigung wird von der Schiedsstelle erteilt, die die
-Urschrift des Protokolls verwahrt. Die Schiedsperson hat vor
+(3) Die Ausfertigung wird von der Schiedsstelle erteilt, die
+die Urschrift des Protokolls verwahrt. Die Schiedsperson hat vor
 Aushändigung der Ausfertigung auf der Urschrift des Protokolls zu
 vermerken, wann und für wen die Ausfertigung erteilt worden ist.
 
@@ -536,19 +516,17 @@ abgeschlossen sind, finden entsprechende Anwendung. Die
 Vollstreckungsklausel auf der Ausfertigung erteilt das Kreisgericht,
 in dessen Bereich die Schiedsstelle ihren Sitz hat.
 
-(3) Auf der Urschrift des Protokolls ist zu vermerken, wann und von
-wem sowie für und gegen wen die Vollstreckungsklausel erteilt worden
-ist. Das Kreisgericht benachrichtigt die Schiedsstelle von der
-Erteilung der Vollstreckungsklausel, wenn es das Protokoll nicht
+(3) Auf der Urschrift des Protokolls ist zu vermerken, wann und
+von wem sowie für und gegen wen die Vollstreckungsklausel erteilt
+worden ist. Das Kreisgericht benachrichtigt die Schiedsstelle von
+der Erteilung der Vollstreckungsklausel, wenn es das Protokoll nicht
 verwahrt.
 
 
 ## Dritter Abschnitt - Das Schlichtungsverfahren in Strafsachen
 
 
-
 ### - - Das Sühneverfahren vor Erhebung der Privatklage
-
 
 
 #### § 35
@@ -565,10 +543,10 @@ getroffen sind.
 
 #### § 36
 
-(1) Das im Falle der Erhebung der Privatklage zuständige Gericht kann
-auf Antrag gestatten, daß von dem Sühneversuch abgesehen wird, wenn
-die antragstellende Partei von der Gemeinde, in der die Verhandlung
-stattfinden müßte, soweit entfernt wohnt, daß ihr unter
+(1) Das im Falle der Erhebung der Privatklage zuständige Gericht
+kann auf Antrag gestatten, daß von dem Sühneversuch abgesehen
+wird, wenn die antragstellende Partei von der Gemeinde, in der die
+Verhandlung stattfinden müßte, soweit entfernt wohnt, daß ihr unter
 Berücksichtigung ihrer Verhältnisse und nach den Umständen des Falles
 nicht zugemutet werden kann, zu der Verhandlung zu erscheinen. Das
 Gericht kann stattdessen den Antragsteller oder die Antragstellerin
@@ -583,16 +561,16 @@ anfechten.
 
 #### § 37
 
-Die Schiedsstelle darf den Sühneversuch nur ablehnen, wenn die
-Parteien auch nach Unterbrechung oder Vertagung der
+Die Schiedsstelle darf den Sühneversuch nur ablehnen, wenn
+die Parteien auch nach Unterbrechung oder Vertagung der
 Schlichtungsverhandlung ihre Identität nicht nachweisen.
 
 
 #### § 38
 
-Hat der Antragsgegner oder die Antragsgegnerin einen gesetzlichen
-Vertreter, so stellt die Schiedsstelle auch diesem die
-Terminsnachricht zu. Der Vertreter ist als Beistand zur
+Hat der Antragsgegner oder die Antragsgegnerin einen
+gesetzlichen Vertreter, so stellt die Schiedsstelle auch diesem
+die Terminsnachricht zu. Der Vertreter ist als Beistand zur
 Schlichtungsverhandlung zugelassen.
 
 
@@ -605,16 +583,13 @@ Sühneversuchs zum Zwecke der Einreichung der Klage (§ 380 Abs. 1 Satz
 1.  in der Schlichtungsverhandlung eine Einigung nicht zustande gekommen
     ist oder
 
-
 2.  allein der Antragsgegner oder die Antragsgegnerin dem
-    Schlichtungstermin unentschuldigt ferngeblieben ist oder sich vor dem
-    Schluß der Schlichtungsverhandlung unentschuldigt entfernt hat; wohnen
-    die Parteien in demselben Gemeindebezirk, in dem die
+    Schlichtungstermin unentschuldigt ferngeblieben ist oder sich vor
+    dem Schluß der Schlichtungsverhandlung unentschuldigt entfernt
+    hat; wohnen die Parteien in demselben Gemeindebezirk, in dem die
     Schlichtungsverhandlung stattzufinden hat, so tritt diese Wirkung erst
     dann ein, wenn die beschuldigte Partei auch in einem zweiten Termin
     ausbleibt.
-
-
 
 Wurde im Falle des Satzes 1 Nr. 2 gegen den Antragsgegner ein
 Ordnungsgeld verhängt, so wird die Bescheinigung erst ausgestellt,
@@ -622,8 +597,8 @@ wenn die Frist zur Anfechtung des Bescheids über das Ordnungsgeld
 abgelaufen ist und der Bescheid nicht angefochten worden ist, oder die
 Anfechtung erfolglos geblieben ist.
 
-(2) Die Bescheinigung ist von der Schiedsperson zu unterschreiben und
-mit einem Dienstsiegel zu versehen. Sie hat die Straftat und den
+(2) Die Bescheinigung ist von der Schiedsperson zu unterschreiben
+und mit einem Dienstsiegel zu versehen. Sie hat die Straftat und den
 Zeitpunkt ihrer Begehung, das Datum der Antragstellung sowie Ort und
 Datum der Ausstellung zu enthalten.
 
@@ -631,13 +606,10 @@ Datum der Ausstellung zu enthalten.
 ### - - Das Schlichtungsverfahren zur außergerichtlichen Erledigung einer Strafsache
 
 
-
 #### (XXXX) §§ 40 bis 45 (weggefallen)
 
 
-
 ## Vierter Abschnitt - Kosten
-
 
 
 ### § 46
@@ -645,8 +617,8 @@ Datum der Ausstellung zu enthalten.
 (1) Die Schiedsstelle erhebt für ihre Tätigkeit Kosten (Gebühren und
 Auslagen) nur nach diesem Gesetz.
 
-(2) Der Vorsitzende der Schiedsstelle erledigt die Kassengeschäfte und
-erstellt die Kostenrechnungen. Er kann damit einen seiner
+(2) Der Vorsitzende der Schiedsstelle erledigt die Kassengeschäfte
+und erstellt die Kostenrechnungen. Er kann damit einen seiner
 Stellvertreter beauftragen.
 
 
@@ -661,16 +633,11 @@ zur außergerichtlichen Erledigung einer Strafsache der Beschuldigte.
 1.  derjenige, der die Kostenschuld durch eine vor der Schiedsstelle
     abgegebene Erklärung oder in einem Vergleich übernommen hat,
 
-
 2.  derjenige, der für die Kostenschuld eines anderen kraft Gesetzes
     haftet,
 
-
 3.  hinsichtlich der Schreibauslagen derjenige, der die Erteilung von
     Ausfertigungen oder Abschriften beantragt hat.
-
-
-
 
 (3) Mehrere Kostenschuldner haften als Gesamtschuldner. Die Haftung
 des Kostenschuldners nach Absatz 2 Nrn. 1 und 3 geht der Haftung des
@@ -713,12 +680,12 @@ Schiedsperson im Verwaltungswege beigetrieben.
 Mark erhoben; kommt ein Vergleich zustande, so beträgt die Gebühr 30
 Deutsche Mark.
 
-(2) Unter Berücksichtigung der Verhältnisse des Kostenschuldners und
-des Umfangs und der Schwierigkeit des Falles kann die Gebühr auf
+(2) Unter Berücksichtigung der Verhältnisse des Kostenschuldners
+und des Umfangs und der Schwierigkeit des Falles kann die Gebühr auf
 höchstens 50 Deutsche Mark erhöht werden.
 
-(3) Sind auf der Seite einer Partei oder beider Parteien mehrere
-Personen am Schlichtungsverfahren beteiligt oder ist die
+(3) Sind auf der Seite einer Partei oder beider Parteien
+mehrere Personen am Schlichtungsverfahren beteiligt oder ist die
 antragstellende Partei zugleich Antragsgegnerin, so wird die Gebühr
 nur einmal erhoben.
 
@@ -727,29 +694,25 @@ nur einmal erhoben.
 
 (1) Die Schiedsstelle erhebt
 
-1.  Schreibauslagen für die Aufnahme von Anträgen, für Mitteilungen an die
-    Parteien sowie für Ausfertigungen und Abschriften von Protokollen und
-    Bescheinigungen; die Höhe der Schreibauslagen bestimmt sich nach § 136
-    Abs. 3 des Gesetzes über die Kosten in Angelegenheiten der
+1.  Schreibauslagen für die Aufnahme von Anträgen, für Mitteilungen an
+    die Parteien sowie für Ausfertigungen und Abschriften von Protokollen
+    und Bescheinigungen; die Höhe der Schreibauslagen bestimmt sich nach
+    § 136 Abs. 3 des Gesetzes über die Kosten in Angelegenheiten der
     freiwilligen Gerichtsbarkeit (Kostenordnung);
-
 
 2.  die bei der Durchführung einer Amtshandlung entstehenden notwendigen
     Auslagen in tatsächlicher Höhe.
 
-
-
-
 (2) Die Vergütung eines hinzugezogenen Dolmetschers zählt zu den baren
 Auslagen. Vor Hinzuziehung eines Dolmetschers hat die Schiedsstelle
-grundsätzlich einen die voraussichtlichen Kosten deckenden Vorschuß
-einzufordern. Wer die Kosten der Inanspruchnahme eines Dolmetschers zu
-tragen hat, bestimmt sich nach § 47 dieses Gesetzes. Die Höhe der
-Vergütung richtet sich nach dem Justizvergütungs- und
--entschädigungsgesetz. Die Vergütung ist auf Antrag der Schiedsstelle
-oder des Dolmetschers von dem Kreisgericht, in dessen Bereich die
-Schiedsstelle ihren Sitz hat, durch richterlichen Beschluß
-festzusetzen; § 4 Abs. 3 bis 9 des Justizvergütungs- und
+grundsätzlich einen die voraussichtlichen Kosten deckenden
+Vorschuß einzufordern. Wer die Kosten der Inanspruchnahme eines
+Dolmetschers zu tragen hat, bestimmt sich nach § 47 dieses Gesetzes.
+Die Höhe der Vergütung richtet sich nach dem Justizvergütungs-
+und -entschädigungsgesetz. Die Vergütung ist auf Antrag der
+Schiedsstelle oder des Dolmetschers von dem Kreisgericht, in dessen
+Bereich die Schiedsstelle ihren Sitz hat, durch richterlichen
+Beschluß festzusetzen; § 4 Abs. 3 bis 9 des Justizvergütungs- und
 -entschädigungsgesetzes ist auf das Festsetzungsverfahren entsprechend
 anzuwenden.
 
@@ -763,8 +726,8 @@ von ihrer Erhebung ganz oder teilweise absehen. Aus denselben Gründen
 kann von der Erhebung von Auslagen, mit Ausnahme der in § 51 Abs. 2
 genannten, abgesehen werden.
 
-(2) Den Ausfall der Schreibauslagen trägt die Schiedsstelle, während
-notwendige bare Auslagen von der Gemeinde als Sachkosten der
+(2) Den Ausfall der Schreibauslagen trägt die Schiedsstelle,
+während notwendige bare Auslagen von der Gemeinde als Sachkosten der
 Schiedsstelle zu tragen sind.
 
 
@@ -791,19 +754,18 @@ Schiedsstelle.
 ## Fünfter Abschnitt - Übergangs- und Schlußvorschriften
 
 
-
 ### § 55
 
-Das Gesetz vom 25. März 1982 über die gesellschaftlichen Gerichte der
-Deutschen Demokratischen Republik - GGG - (GBl. I Nr. 13 S. 269) sowie
-der Beschluß des Staatsrates der Deutschen Demokratischen Republik vom
-12\. März 1982 über die Tätigkeit der Konfliktkommissionen -
-Konfliktkommissionsordnung - (GBl. I Nr. 13 S. 274), zuletzt geändert
-durch Gesetz über die Errichtung und das Verfahren der Schiedsstellen
-für Arbeitsrecht vom 29. Juni 1990 (GBl. I Nr. 38 S. 505) und der
-Beschluß des Staatsrates der Deutschen Demokratischen Republik vom 12.
-März 1982 über die Tätigkeit der Schiedskommissionen -
-Schiedskommissionsordnung - (GBl. I Nr. 13 S. 283), zuletzt geändert
+Das Gesetz vom 25. März 1982 über die gesellschaftlichen Gerichte
+der Deutschen Demokratischen Republik - GGG - (GBl. I Nr. 13 S.
+269) sowie der Beschluß des Staatsrates der Deutschen Demokratischen
+Republik vom 12. März 1982 über die Tätigkeit der Konfliktkommissionen
+- Konfliktkommissionsordnung - (GBl. I Nr. 13 S. 274), zuletzt
+geändert durch Gesetz über die Errichtung und das Verfahren der
+Schiedsstellen für Arbeitsrecht vom 29. Juni 1990 (GBl. I Nr. 38 S.
+505) und der Beschluß des Staatsrates der Deutschen Demokratischen
+Republik vom 12. März 1982 über die Tätigkeit der Schiedskommissionen
+- Schiedskommissionsordnung - (GBl. I Nr. 13 S. 283), zuletzt geändert
 durch Beschluß des Staatsrates der Deutschen Demokratischen Republik
 vom 3. März 1989 (GBl. I Nr. 8 S. 117) werden aufgehoben.
 
@@ -822,8 +784,8 @@ nach Inkrafttreten dieses Gesetzes zu bilden.
 ### § 57
 
 (1) Die zum Zeitpunkt des Inkrafttretens dieses Gesetzes bei den
-gesellschaftlichen Gerichten anhängigen Verfahren werden in dem Stand,
-in dem sie sich befinden, an das Kreisgericht abgegeben;
+gesellschaftlichen Gerichten anhängigen Verfahren werden in dem
+Stand, in dem sie sich befinden, an das Kreisgericht abgegeben;
 Übergabeentscheidungen sind dem übergebenden Organ zurückzugeben.
 
 (2) Aus zum Zeitpunkt des Inkrafttretens dieses Gesetzes für

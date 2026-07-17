@@ -16,37 +16,34 @@ Fundstelle
 :   BGBl I: 2000, 182 (1349)
 
 Zuletzt geändert durch
-:   Art. 24 G v. 5.10.2021 I 4607
+:   Art. 3 G v. 22.10.2024 I Nr. 320
 
 
 ## Teil 1 - Allgemeine Vorschriften
 
 
-
 ### § 1 Persönlicher Anwendungsbereich
 
-Dieses Gesetz regelt für natürliche Personen, die berechtigt sind, als
-Rechtsanwalt unter einer der in der Anlage zu dieser Vorschrift
-genannten Berufsbezeichnungen selbständig tätig zu sein (europäische
-Rechtsanwälte), die Berufsausübung und die Zulassung zur
+Dieses Gesetz regelt für natürliche Personen, die berechtigt
+sind, als Rechtsanwalt unter einer der in der Anlage zu dieser
+Vorschrift genannten Berufsbezeichnungen selbständig tätig zu sein
+(europäische Rechtsanwälte), die Berufsausübung und die Zulassung zur
 Rechtsanwaltschaft in Deutschland.
 
 
 ## Teil 2 - Berufsausübung als niedergelassener europäischer Rechtsanwalt
 
 
-
 ### Abschnitt 1 - Allgemeine Voraussetzungen
-
 
 
 #### § 2 Niederlassung
 
-(1) Wer als europäischer Rechtsanwalt auf Antrag in die für den Ort
-seiner Niederlassung zuständige Rechtsanwaltskammer aufgenommen wurde,
-ist berechtigt, in Deutschland unter der Berufsbezeichnung des
-Herkunftsstaates die Tätigkeit eines Rechtsanwalts gemäß §§ 1 bis 3
-der Bundesrechtsanwaltsordnung auszuüben (niedergelassener
+(1) Wer als europäischer Rechtsanwalt auf Antrag in die für den
+Ort seiner Niederlassung zuständige Rechtsanwaltskammer aufgenommen
+wurde, ist berechtigt, in Deutschland unter der Berufsbezeichnung
+des Herkunftsstaates die Tätigkeit eines Rechtsanwalts gemäß §§ 1
+bis 3 der Bundesrechtsanwaltsordnung auszuüben (niedergelassener
 europäischer Rechtsanwalt).
 
 (2) Die Aufnahme in die Rechtsanwaltskammer setzt voraus, dass die
@@ -74,7 +71,7 @@ verlangen, dass diese Bescheinigung zum Zeitpunkt ihrer Vorlage nicht
 des § 12 Absatz 4 sowie der §§ 17 und 46a Absatz 1 Satz 1 Nummer 1 der
 Bundesrechtsanwaltsordnung die §§ 6 bis 36, 46a bis 46c Absatz 1, 4
 und 5 der Bundesrechtsanwaltsordnung sinngemäß sowie die auf Grund von
-§ 31c der Bundesrechtsanwaltsordnung erlassene Rechtsverordnung.
+§ 31d der Bundesrechtsanwaltsordnung erlassene Rechtsverordnung.
 
 (2) Die Aufnahme in die Rechtsanwaltskammer ist auch dann zu
 widerrufen, wenn die Berechtigung zur Berufsausübung im Herkunftsstaat
@@ -92,21 +89,20 @@ Ausübung der Berufsaufsicht zu ermöglichen.
 ### Abschnitt 2 - Berufliche Rechte und Pflichten
 
 
-
 #### § 5 Berufsbezeichnung
 
 (1) Der niedergelassene europäische Rechtsanwalt hat die
-Berufsbezeichnung zu verwenden, die er im Herkunftsstaat nach dem dort
-geltenden Recht zu führen berechtigt ist. Wer danach berechtigt ist,
-die Berufsbezeichnung "Rechtsanwalt" zu führen, hat zusätzlich die
-Berufsorganisation anzugeben, der er im Herkunftsstaat angehört. Der
-niedergelassene europäische Rechtsanwalt, der als Syndikusrechtsanwalt
-in die Rechtsanwaltskammer aufgenommen wurde, hat der
-Berufsbezeichnung nach den Sätzen 1 und 2 die Bezeichnung „Syndikus“
-in Klammern nachzustellen.
+Berufsbezeichnung zu verwenden, die er im Herkunftsstaat nach
+dem dort geltenden Recht zu führen berechtigt ist. Wer danach
+berechtigt ist, die Berufsbezeichnung "Rechtsanwalt" zu führen, hat
+zusätzlich die Berufsorganisation anzugeben, der er im Herkunftsstaat
+angehört. Der niedergelassene europäische Rechtsanwalt, der als
+Syndikusrechtsanwalt in die Rechtsanwaltskammer aufgenommen wurde,
+hat der Berufsbezeichnung nach den Sätzen 1 und 2 die Bezeichnung
+„Syndikus“ in Klammern nachzustellen.
 
-(2) Der niedergelassene europäische Rechtsanwalt ist berechtigt, im
-beruflichen Verkehr zugleich die Bezeichnung "Mitglied der
+(2) Der niedergelassene europäische Rechtsanwalt ist berechtigt,
+im beruflichen Verkehr zugleich die Bezeichnung "Mitglied der
 Rechtsanwaltskammer" zu verwenden. Die Bezeichnung "europäischer
 Rechtsanwalt" darf als Berufsbezeichnung und in der Werbung nicht
 verwendet werden.
@@ -118,13 +114,13 @@ verwendet werden.
 
 (1) Für die Rechtsstellung nach Aufnahme in die Rechtsanwaltskammer
 gelten die Vorschriften des Dritten, Vierten, Sechsten, Siebenten,
-Neunten bis Elften und Dreizehnten Teils der
+Neunten bis Elften und Dreizehnten Teils sowie § 207a der
 Bundesrechtsanwaltsordnung.
 
-(2) Vertretungsverbote nach § 114 Abs. 1 Nr. 4 sowie nach den §§ 150
-und 161a der Bundesrechtsanwaltsordnung sind für das Bundesgebiet
-auszusprechen. An die Stelle der Ausschließung aus der
-Rechtsanwaltschaft nach § 114 Abs. 1 Nr. 5 der
+(2) Vertretungsverbote nach § 114 Abs. 1 Nr. 4 sowie nach den
+§§ 150 und 161a der Bundesrechtsanwaltsordnung sind für das
+Bundesgebiet auszusprechen. An die Stelle der Ausschließung
+aus der Rechtsanwaltschaft nach § 114 Abs. 1 Nr. 5 der
 Bundesrechtsanwaltsordnung tritt das Verbot, in Deutschland fremde
 Rechtsangelegenheiten zu besorgen; mit der Rechtskraft dieser
 Entscheidung endet die Mitgliedschaft der verurteilten Person in der
@@ -139,23 +135,23 @@ entzogen worden ist.
 
 #### § 7 Berufshaftpflichtversicherung
 
-(1) Von der Verpflichtung, eine Berufshaftpflichtversicherung nach §
-51 der Bundesrechtsanwaltsordnung zu unterhalten, ist der
+(1) Von der Verpflichtung, eine Berufshaftpflichtversicherung
+nach § 51 der Bundesrechtsanwaltsordnung zu unterhalten, ist der
 niedergelassene europäische Rechtsanwalt befreit, wenn er der
 Rechtsanwaltskammer eine nach den Vorschriften des Herkunftsstaates
 geschlossene Versicherung oder Garantie nachweist, die hinsichtlich
-der Bedingungen und des Deckungsumfangs einer Versicherung gemäß § 51
-der Bundesrechtsanwaltsordnung gleichwertig ist. Bei fehlender
+der Bedingungen und des Deckungsumfangs einer Versicherung gemäß §
+51 der Bundesrechtsanwaltsordnung gleichwertig ist. Bei fehlender
 Gleichwertigkeit ist durch eine Zusatzversicherung oder ergänzende
 Garantie ein Schutz zu schaffen, der den Anforderungen des § 51 der
 Bundesrechtsanwaltsordnung gleichkommt.
 
 (2) Der niedergelassene europäische Rechtsanwalt hat im Fall des
 Absatzes 1 der Rechtsanwaltskammer jährlich eine Bescheinigung des
-Versicherers vorzulegen, aus der sich die Versicherungsbedingungen und
-der Deckungsumfang ergeben. Darüber hinaus hat er die Beendigung oder
-Kündigung des Versicherungsvertrages sowie jede Änderung des
-Versicherungsvertrages, die den nach § 51 der
+Versicherers vorzulegen, aus der sich die Versicherungsbedingungen
+und der Deckungsumfang ergeben. Darüber hinaus hat er die
+Beendigung oder Kündigung des Versicherungsvertrages sowie
+jede Änderung des Versicherungsvertrages, die den nach § 51 der
 Bundesrechtsanwaltsordnung vorgeschriebenen Versicherungsschutz
 beeinträchtigt, der Rechtsanwaltskammer unverzüglich mitzuteilen.
 Kommt er den Pflichten gemäß Satz 1 oder Satz 2 nicht nach, so kann
@@ -178,34 +174,33 @@ zweckdienliche Auskünfte über den betreffenden Zusammenschluss zu
 geben.
 
 (2) Die persönliche Haftung des niedergelassenen europäischen
-Rechtsanwalts für Ansprüche des Auftraggebers auf Ersatz eines
-schuldhaft verursachten Schadens wird durch die Rechtsform eines
-Zusammenschlusses, dem er im Herkunftsstaat angehört, nur
-ausgeschlossen oder beschränkt, soweit eine
+Rechtsanwalts für Ansprüche des Auftraggebers auf Ersatz
+eines schuldhaft verursachten Schadens wird durch die
+Rechtsform eines Zusammenschlusses, dem er im Herkunftsstaat
+angehört, nur ausgeschlossen oder beschränkt, soweit eine
 Berufshaftpflichtversicherung oder Garantie besteht, die den
-Voraussetzungen des § 59j der Bundesrechtsanwaltsordnung entspricht. §
-7 gilt entsprechend.
+Voraussetzungen des der §§ 59n und 59o der Bundesrechtsanwaltsordnung
+entspricht. § 7 gilt entsprechend.
 
 (3) Der niedergelassene europäische Rechtsanwalt kann im Rechtsverkehr
 die Bezeichnung eines Zusammenschlusses zur gemeinschaftlichen
-Berufsausübung angeben, dem er im Herkunftsstaat angehört. Er hat in
-diesem Fall auch die Rechtsform des Zusammenschlusses im
+Berufsausübung angeben, dem er im Herkunftsstaat angehört. Er
+hat in diesem Fall auch die Rechtsform des Zusammenschlusses im
 Herkunftsstaat anzugeben.
 
 
 ### Abschnitt 3 - Anwaltsgerichtliches Verfahren, Zustellungen
 
 
-
 #### § 9 Mitteilungspflichten, rechtliches Gehör
 
 (1) Für Zwecke der Prüfung, ob berufsrechtliche Maßnahmen zu ergreifen
 sind, teilt die ermittelnde Staatsanwaltschaft nach Abschluss der
-Ermittlungen und vor Einreichung der Anschuldigungsschrift bei dem
-Anwaltsgericht der zuständigen Stelle des Herkunftsstaates die
-ermittelten Tatsachen mit, soweit dies aus ihrer Sicht zur
-Durchführung solcher Maßnahmen erforderlich ist. Die Mitteilung wird
-durch unmittelbare Übersendung einer Abschrift der
+Ermittlungen und vor Einreichung der Anschuldigungsschrift bei
+dem Anwaltsgericht der zuständigen Stelle des Herkunftsstaates
+die ermittelten Tatsachen mit, soweit dies aus ihrer Sicht zur
+Durchführung solcher Maßnahmen erforderlich ist. Die Mitteilung
+wird durch unmittelbare Übersendung einer Abschrift der
 Anschuldigungsschrift an die zuständige Stelle des Herkunftsstaates
 bewirkt.
 
@@ -215,26 +210,18 @@ des Herkunftsstaates mitzuteilen:
 
 1.  die Entscheidung über die Eröffnung des Hauptverfahrens,
 
-
 2.  die Urteile,
-
 
 3.  die Verhängung vorläufiger anwaltsgerichtlicher Maßnahmen, deren
     Außerkrafttreten und deren Aufhebung,
 
-
 4.  die Verteidigungsschriften,
-
 
 5.  die Berufungsschriften,
 
-
 6.  die Revisionsschriften,
 
-
 7.  die Beschwerdeschriften.
-
-
 
 Mitteilungspflichtig ist das Gericht, das die mitzuteilende
 Entscheidung gefällt hat oder bei dem der mitzuteilende Schriftsatz
@@ -244,29 +231,27 @@ zuständige Stelle des Herkunftsstaates bewirkt.
 
 (3) Sind personenbezogene Daten, die nach Absatz 1 oder Absatz 2
 übermittelt werden dürfen, mit weiteren personenbezogenen Daten des
-Betroffenen oder eines Dritten so verbunden, dass sie nicht oder nur
-mit unvertretbarem Aufwand getrennt werden können, ist auch die
-Übermittlung dieser Daten zulässig, soweit nicht berechtigte
+Betroffenen oder eines Dritten so verbunden, dass sie nicht oder
+nur mit unvertretbarem Aufwand getrennt werden können, ist auch
+die Übermittlung dieser Daten zulässig, soweit nicht berechtigte
 Interessen des Betroffenen oder des Dritten an deren Geheimhaltung
 offensichtlich überwiegen. Eine Verwendung dieser Daten ist
 unzulässig. Der Empfänger ist darauf hinzuweisen, dass eine Verwendung
-der Daten des Dritten unzulässig ist und die Daten des Betroffenen nur
-zu dem Zweck verwendet werden dürfen, der in den Absätzen 1 und 2
+der Daten des Dritten unzulässig ist und die Daten des Betroffenen
+nur zu dem Zweck verwendet werden dürfen, der in den Absätzen 1 und 2
 genannt ist.
 
 (4) In anwaltsgerichtlichen Verfahren hat das Gericht der zuständigen
 Stelle des Herkunftsstaates Gelegenheit zur Äußerung zu geben.
-Personen, die diese beauftragt hat, ist der Zutritt zu
-nichtöffentlichen Verhandlungen gestattet.
 
 
 #### § 10 Zustellungen
 
-Kann in anwaltsgerichtlichen Verfahren und in Verfahren nach den §§
-56, 57, 74, 74a der Bundesrechtsanwaltsordnung gegen einen
-niedergelassenen europäischen Rechtsanwalt eine Zustellung nicht in
-der vorgeschriebenen Weise in Deutschland bewirkt werden und erscheint
-die Befolgung der Vorschriften für Zustellungen im Ausland
+Kann in anwaltsgerichtlichen Verfahren und in Verfahren nach den
+§§ 56, 57, 74, 74a der Bundesrechtsanwaltsordnung gegen einen
+niedergelassenen europäischen Rechtsanwalt eine Zustellung nicht
+in der vorgeschriebenen Weise in Deutschland bewirkt werden und
+erscheint die Befolgung der Vorschriften für Zustellungen im Ausland
 unausführbar oder voraussichtlich erfolglos, so gilt die Zustellung
 als erfolgt, wenn eine Abschrift des zuzustellenden Schriftstücks der
 zuständigen Stelle des Herkunftsstaates übersandt wird und seit der
@@ -276,18 +261,16 @@ Aufgabe zur Post vier Wochen verstrichen sind.
 ## Teil 3 - Eingliederung
 
 
-
 ### Abschnitt 1 - Zulassung zur Rechtsanwaltschaft nach dreijähriger Tätigkeit
-
 
 
 #### § 11 Voraussetzungen
 
 (1) Wer eine mindestens dreijährige effektive und regelmäßige
 Tätigkeit als niedergelassener europäischer Rechtsanwalt in
-Deutschland auf dem Gebiet des deutschen Rechts, einschließlich des
-Gemeinschaftsrechts, gemäß § 12 nachweist, wird nach den Vorschriften
-der §§ 6 bis 36, 46a bis 46c Absatz 1, 4 und 5 der
+Deutschland auf dem Gebiet des deutschen Rechts, einschließlich
+des Gemeinschaftsrechts, gemäß § 12 nachweist, wird nach den
+Vorschriften der §§ 6 bis 36, 46a bis 46c Absatz 1, 4 und 5 der
 Bundesrechtsanwaltsordnung zur Rechtsanwaltschaft zugelassen.
 Effektive und regelmäßige Tätigkeit ist die tatsächliche Ausübung des
 Berufs ohne Unterbrechung; Unterbrechungen auf Grund von Ereignissen
@@ -317,15 +300,14 @@ Auskünfte und übermittelt ihr alle Unterlagen, die für den Nachweis
 geeignet sind. Die Rechtsanwaltskammer kann die antragstellende Person
 auffordern, ihre Angaben und Unterlagen zu erläutern.
 
-(2) Zum Nachweis der im deutschen Recht bearbeiteten Rechtssachen sind
-Falllisten vorzulegen, die regelmäßig folgende Angaben enthalten
-müssen: Aktenzeichen, Gegenstand, Zeitraum, Art und Umfang der
-Tätigkeit, Sachstand. Ferner sind auf Verlangen der
+(2) Zum Nachweis der im deutschen Recht bearbeiteten Rechtssachen
+sind Falllisten vorzulegen, die regelmäßig folgende Angaben
+enthalten müssen: Aktenzeichen, Gegenstand, Zeitraum, Art und
+Umfang der Tätigkeit, Sachstand. Ferner sind auf Verlangen der
 Rechtsanwaltskammer anonymisierte Arbeitsproben vorzulegen.
 
 
 ### Abschnitt 2 - Zulassung bei kürzerer Tätigkeit im deutschen Recht
-
 
 
 #### § 13 Voraussetzungen
@@ -333,8 +315,8 @@ Rechtsanwaltskammer anonymisierte Arbeitsproben vorzulegen.
 (1) Wer mindestens drei Jahre effektiv und regelmäßig als
 niedergelassener europäischer Rechtsanwalt in Deutschland tätig war,
 sich dabei im deutschen Recht jedoch nur für kürzere Zeit betätigt
-hat, wird nach den Vorschriften der §§ 6 bis 36, 46a bis 46c Absatz 1,
-4 und 5 der Bundesrechtsanwaltsordnung zur Rechtsanwaltschaft
+hat, wird nach den Vorschriften der §§ 6 bis 36, 46a bis 46c Absatz
+1, 4 und 5 der Bundesrechtsanwaltsordnung zur Rechtsanwaltschaft
 zugelassen, wenn er seine Fähigkeit, die Tätigkeit weiter auszuüben,
 gemäß §§ 14 und 15 nachweist.
 
@@ -367,15 +349,14 @@ Erfahrungen im deutschen Recht zu entnehmen.
 ## Teil 4 - Feststellung einer gleichwertigen Berufsqualifikation
 
 
-
 ### § 16 Antrag auf Feststellung einer gleichwertigen Berufsqualifikation
 
 (1) Eine Person, die eine Ausbildung abgeschlossen hat, die zum
-unmittelbaren Zugang zum Beruf eines europäischen Rechtsanwalts (§ 1)
-berechtigt, kann zum Zweck der Zulassung zur Rechtsanwaltschaft ohne
-Eingliederung nach Teil 3 die Feststellung beantragen, dass die von
-ihr erworbene Berufsqualifikation die Kenntnisse umfasst, die für die
-Ausübung des Berufs des Rechtsanwalts in Deutschland erforderlich
+unmittelbaren Zugang zum Beruf eines europäischen Rechtsanwalts (§
+1) berechtigt, kann zum Zweck der Zulassung zur Rechtsanwaltschaft
+ohne Eingliederung nach Teil 3 die Feststellung beantragen, dass die
+von ihr erworbene Berufsqualifikation die Kenntnisse umfasst, die für
+die Ausübung des Berufs des Rechtsanwalts in Deutschland erforderlich
 sind. Der Antrag kann bei jedem der nach § 18 Absatz 1 und 2
 zuständigen Prüfungsämter, jedoch nicht bei mehreren gleichzeitig
 gestellt werden.
@@ -388,44 +369,34 @@ Rechtsanwalts auf einem Ausbildungsnachweis,
     des Europäischen Wirtschaftsraums oder der Schweiz durchgeführt wurde
     oder
 
-
 2.  der nicht von einem der in Nummer 1 genannten Staaten ausgestellt
     wurde,
 
-
-
 so muss die antragstellende Person in dem Staat, in dem der Nachweis
-ausgestellt oder anerkannt wurde, ausweislich einer Bescheinigung der
-dort zuständigen Behörde den Beruf des europäischen Rechtsanwalts
+ausgestellt oder anerkannt wurde, ausweislich einer Bescheinigung
+der dort zuständigen Behörde den Beruf des europäischen Rechtsanwalts
 mindestens drei Jahre ausgeübt haben.
 
 (3) Dem Antrag nach Absatz 1 sind beizufügen:
 
 1.  ein tabellarischer Lebenslauf;
 
-
 2.  ein Nachweis, der die Berechtigung zum unmittelbaren Zugang zum Beruf
     eines europäischen Rechtsanwalts bescheinigt, im Original oder in
     Kopie;
-
 
 3.  ein Nachweis darüber, dass mehr als die Hälfte der
     Mindestausbildungszeit in einem der in Absatz 2 Nummer 1 genannten
     Staaten durchgeführt wurde, oder in den Fällen des Absatzes 2 eine
     Bescheinigung über die mindestens dreijährige Berufsausübung;
 
-
 4.  eine Erklärung darüber, ob und gegebenenfalls bei welchen
     Prüfungsämtern schon einmal ein Antrag nach Absatz 1 gestellt oder
     eine Eignungsprüfung abgelegt wurde;
 
-
-5.  für den Fall, dass geltend gemacht wird, dass Unterschiede nach § 16a
-    Absatz 3 Satz 1 Nummer 1 nach § 16a Absatz 3 Satz 1 Nummer 2
+5.  für den Fall, dass geltend gemacht wird, dass Unterschiede nach §
+    16a Absatz 3 Satz 1 Nummer 1 nach § 16a Absatz 3 Satz 1 Nummer 2
     vollständig ausgeglichen wurden, geeignete Nachweise hierüber.
-
-
-
 
 (4) Der Antrag und die nach Absatz 3 Nummer 1 und 4 beizufügenden
 Dokumente sind in deutscher Sprache abzufassen.
@@ -433,9 +404,9 @@ Dokumente sind in deutscher Sprache abzufassen.
 
 ### § 16a Entscheidung über den Antrag
 
-(1) Das Prüfungsamt bestätigt den Eingang des Antrags nach § 16 Absatz
-1 innerhalb eines Monats. Innerhalb dieser Frist teilt es der
-antragstellenden Person auch mit, ob Dokumente fehlen oder von
+(1) Das Prüfungsamt bestätigt den Eingang des Antrags nach § 16
+Absatz 1 innerhalb eines Monats. Innerhalb dieser Frist teilt es
+der antragstellenden Person auch mit, ob Dokumente fehlen oder von
 Dokumenten einfache oder beglaubigte Übersetzungen vorzulegen sind.
 Das Prüfungsamt entscheidet über den Antrag spätestens vier Monate
 nach Eingang aller erforderlichen Dokumente.
@@ -451,11 +422,8 @@ einer Eignungsprüfung auf, wenn
     unterscheiden, die für die Ausübung des Berufs des Rechtsanwalts in
     Deutschland erforderlich sind, und
 
-
 2.  diese Unterschiede nicht anderweitig, insbesondere durch Berufspraxis
     oder Weiterbildungsmaßnahmen, ausgeglichen wurden.
-
-
 
 Die Auferlegung einer Eignungsprüfung gilt als Entscheidung nach
 Absatz 1 Satz 3. Beabsichtigt das Prüfungsamt, von der Auferlegung
@@ -465,28 +433,24 @@ der Rechtsanwaltskammer einzuholen, in deren Bezirk es gelegen ist.
 (4) Das Prüfungsamt hat die Auferlegung einer Eignungsprüfung zu
 begründen und der antragstellenden Person dabei mitzuteilen,
 
-1.  welchem Qualifikationsniveau nach Artikel 11 der Richtlinie 2005/36/EG
-    des Europäischen Parlaments und des Rates vom 7. September 2005 über
-    die Anerkennung von Berufsqualifikationen (ABl. L 255 vom 30.9.2005,
-    S. 22; L 271 vom 16.10.2007, S. 18; L 93 vom 4.4.2008, S. 28; L 33 vom
-    3\.2.2009, S. 49; L 305 vom 24.10.2014, S. 115), die zuletzt durch die
-    Richtlinie 2013/55/EU (ABl. L 354 vom 28.12.2013, S. 132; L 268 vom
-    15\.10.2015, S. 35; L 95 vom 9.4.2016, S. 20) geändert worden ist, in
-    der jeweils geltenden Fassung zum einen die von ihr erlangte
-    Berufsqualifikation und zum anderen die zur Erlangung der Befähigung
-    zum Richteramt nach dem Deutschen Richtergesetz geforderte
+1.  welchem Qualifikationsniveau nach Artikel 11 der Richtlinie 2005/36/
+    EG des Europäischen Parlaments und des Rates vom 7. September 2005
+    über die Anerkennung von Berufsqualifikationen (ABl. L 255 vom
+    30\.9.2005, S. 22; L 271 vom 16.10.2007, S. 18; L 93 vom 4.4.2008,
+    S. 28; L 33 vom 3.2.2009, S. 49; L 305 vom 24.10.2014, S. 115), die
+    zuletzt durch die Richtlinie 2013/55/EU (ABl. L 354 vom 28.12.2013, S.
+    132; L 268 vom 15.10.2015, S. 35; L 95 vom 9.4.2016, S. 20) geändert
+    worden ist, in der jeweils geltenden Fassung zum einen die von ihr
+    erlangte Berufsqualifikation und zum anderen die zur Erlangung der
+    Befähigung zum Richteramt nach dem Deutschen Richtergesetz geforderte
     Berufsqualifikation entspricht und
-
 
 2.  worin die Unterschiede nach Absatz 3 Satz 1 Nummer 1 liegen und warum
     diese nicht nach Absatz 3 Satz 1 Nummer 2 als ausgeglichen anzusehen
     sind.
 
-
-
-
-(5) Wer die Voraussetzungen des § 16 unmittelbar erfüllt oder die
-Eignungsprüfung besteht, erhält hierüber vom Prüfungsamt eine
+(5) Wer die Voraussetzungen des § 16 unmittelbar erfüllt oder
+die Eignungsprüfung besteht, erhält hierüber vom Prüfungsamt eine
 Bescheinigung und wird nach den §§ 6 bis 36 und 46a bis 46c Absatz 1,
 4 und 5 der Bundesrechtsanwaltsordnung von der Rechtsanwaltskammer zur
 Rechtsanwaltschaft zugelassen.
@@ -500,12 +464,12 @@ des Verwaltungsverfahrensgesetzes abgewickelt werden.
 
 Die Eignungsprüfung ist eine staatliche Prüfung, die ausschließlich
 die beruflichen Kenntnisse und Kompetenzen der antragstellenden Person
-betrifft und mit der ihre Fähigkeit, den Beruf eines Rechtsanwalts in
-Deutschland auszuüben, beurteilt werden soll. Die Eignungsprüfung muss
-dem Umstand Rechnung tragen, dass die antragstellende Person in einem
-Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat
-des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz
-über eine berufliche Qualifikation zur Ausübung eines
+betrifft und mit der ihre Fähigkeit, den Beruf eines Rechtsanwalts
+in Deutschland auszuüben, beurteilt werden soll. Die Eignungsprüfung
+muss dem Umstand Rechnung tragen, dass die antragstellende Person
+in einem Mitgliedstaat der Europäischen Union oder einem anderen
+Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
+oder der Schweiz über eine berufliche Qualifikation zur Ausübung eines
 Rechtsanwaltsberufes verfügt.
 
 
@@ -520,13 +484,13 @@ Vereinbarung auf die Eignungsprüfung von antragstellenden Personen aus
 einzelnen Herkunftsstaaten beschränkt werden.
 
 (3) Soweit nicht in diesem Gesetz oder in einer auf der Grundlage
-dieses Gesetzes erlassenen Rechtsverordnung Abweichendes bestimmt ist,
-gelten für die Eignungsprüfung die Vorschriften für die zweite
+dieses Gesetzes erlassenen Rechtsverordnung Abweichendes bestimmt
+ist, gelten für die Eignungsprüfung die Vorschriften für die zweite
 juristische Staatsprüfung desjenigen Landes entsprechend, in dem das
 Prüfungsamt eingerichtet ist.
 
-(4) Die Prüfung wird von einer Kommission mit mindestens drei Prüfern
-abgenommen. Bei Stimmengleichheit entscheidet die Stimme des
+(4) Die Prüfung wird von einer Kommission mit mindestens drei
+Prüfern abgenommen. Bei Stimmengleichheit entscheidet die Stimme des
 Vorsitzenden. Das Landesrecht kann vorsehen, dass die schriftlichen
 Leistungen statt von der Kommission auch von zwei Prüfern bewertet
 werden, die der Kommission nicht angehören müssen. Können die beiden
@@ -540,7 +504,6 @@ bestimmt wird.
 ### § 19 (weggefallen)
 
 
-
 ### § 20 Prüfungsfächer
 
 (1) Prüfungsfächer sind das Pflichtfach Zivilrecht, zwei Wahlfächer
@@ -550,20 +513,16 @@ Wahlfachgruppen
 
 1.  Öffentliches Recht oder Strafrecht,
 
-
 2.  Handelsrecht, Arbeitsrecht, durch das Pflichtfach nicht abgedeckte
     weitere Bereiche des Zivilrechts, Öffentliches Recht oder Strafrecht.
-
-
-
 
 Die antragstellende Person darf nicht dasselbe Wahlfach in beiden
 Wahlfachgruppen bestimmen.
 
-(2) Prüfungsinhalte sind durch Rechtsverordnung näher zu bestimmende
-Bereiche des Pflichtfaches und der beiden Wahlfächer sowie das
-dazugehörige Verfahrensrecht einschließlich der Grundlagen im
-Gerichtsverfassungsrecht und die Grundzüge des
+(2) Prüfungsinhalte sind durch Rechtsverordnung näher zu
+bestimmende Bereiche des Pflichtfaches und der beiden Wahlfächer
+sowie das dazugehörige Verfahrensrecht einschließlich der
+Grundlagen im Gerichtsverfassungsrecht und die Grundzüge des
 Zwangsvollstreckungsrechts und des Insolvenzrechts.
 
 
@@ -575,13 +534,13 @@ Teil. Sie wird in deutscher Sprache abgelegt.
 (2) Das Prüfungsamt erlässt der antragstellenden Person auf Antrag
 einzelne Prüfungsleistungen ganz oder teilweise, wenn sie nachweist,
 dass sie durch ihre berufliche Ausbildung oder anderweitig,
-insbesondere durch Berufspraxis oder Weiterbildungsmaßnahmen, in einem
-Prüfungsgebiet die für die Ausübung des Rechtsanwaltsberufs in
-Deutschland erforderlichen materiell-rechtlichen und
-verfahrensrechtlichen Kenntnisse im deutschen Recht erworben hat. Ein
-Antrag nach Satz 1 soll möglichst zusammen mit dem Antrag nach § 16
-Absatz 1 gestellt werden. Das Prüfungsamt kann vor dem Erlass von
-Prüfungsleistungen eine Stellungnahme der Rechtsanwaltskammer
+insbesondere durch Berufspraxis oder Weiterbildungsmaßnahmen, in
+einem Prüfungsgebiet die für die Ausübung des Rechtsanwaltsberufs
+in Deutschland erforderlichen materiell-rechtlichen und
+verfahrensrechtlichen Kenntnisse im deutschen Recht erworben hat.
+Ein Antrag nach Satz 1 soll möglichst zusammen mit dem Antrag nach
+§ 16 Absatz 1 gestellt werden. Das Prüfungsamt kann vor dem Erlass
+von Prüfungsleistungen eine Stellungnahme der Rechtsanwaltskammer
 einholen, in deren Bezirk es gelegen ist.
 
 (3) Die schriftliche Prüfung, die auch elektronisch durchgeführt
@@ -605,8 +564,8 @@ dieser Arbeit.
 
 ### § 22 Prüfungsentscheidung
 
-Die Prüfungskommission entscheidet auf Grund des Gesamteindrucks der
-Leistungen in der schriftlichen und mündlichen Prüfung mit
+Die Prüfungskommission entscheidet auf Grund des Gesamteindrucks
+der Leistungen in der schriftlichen und mündlichen Prüfung mit
 Stimmenmehrheit, ob die antragstellende Person über die nach § 17
 erforderlichen Kenntnisse verfügt.
 
@@ -616,16 +575,16 @@ erforderlichen Kenntnisse verfügt.
 (1) Die antragstellende Person kann schriftlich oder elektronisch
 Einwendungen gegen die Bewertung ihrer Prüfungsleistungen erheben.
 
-(2) Ist die antragstellende Person zur mündlichen Prüfung zugelassen,
-so muss sie die Einwendungen gegen die Bewertung der schriftlichen
-Aufsichtsarbeiten spätestens binnen eines Monats nach Bekanntgabe der
-Prüfungsentscheidung, die Einwendungen gegen die Bewertung der
-mündlichen Prüfung unverzüglich nach Bekanntgabe der
-Prüfungsentscheidung beim Prüfungsamt (§ 18) geltend machen. Die
-Einwendungen gegen die Bewertung der schriftlichen Aufsichtsarbeiten
-sind spätestens binnen zwei Monaten nach Bekanntgabe der
-Prüfungsentscheidung, die Einwendungen gegen die Bewertung der
-mündlichen Prüfung sind spätestens binnen eines Monats nach
+(2) Ist die antragstellende Person zur mündlichen Prüfung
+zugelassen, so muss sie die Einwendungen gegen die Bewertung der
+schriftlichen Aufsichtsarbeiten spätestens binnen eines Monats
+nach Bekanntgabe der Prüfungsentscheidung, die Einwendungen
+gegen die Bewertung der mündlichen Prüfung unverzüglich nach
+Bekanntgabe der Prüfungsentscheidung beim Prüfungsamt (§ 18) geltend
+machen. Die Einwendungen gegen die Bewertung der schriftlichen
+Aufsichtsarbeiten sind spätestens binnen zwei Monaten nach Bekanntgabe
+der Prüfungsentscheidung, die Einwendungen gegen die Bewertung
+der mündlichen Prüfung sind spätestens binnen eines Monats nach
 Bekanntgabe der Prüfungsentscheidung im Einzelnen und nachvollziehbar
 zu begründen.
 
@@ -649,7 +608,6 @@ Die Prüfung kann wiederholt werden.
 ## Teil 5 - Vorübergehende Dienstleistung
 
 
-
 ### § 25 Vorübergehende Tätigkeit
 
 (1) Ein europäischer Rechtsanwalt darf die Tätigkeiten eines
@@ -662,30 +620,26 @@ regelmäßigen Wiederkehr und Kontinuität zu beurteilen.
 (2) Absatz 1 gilt nicht für europäische Rechtsanwälte, die den Beruf
 des Rechtsanwalts nicht ausüben dürfen, weil
 
-1.  sie aus einem der Gründe nach § 7 Satz 1 Nummer 1, 2 oder 4 bis 6 der
-    Bundesrechtsanwaltsordnung in nicht mehr anfechtbarer Weise zur
+1.  sie aus einem der Gründe nach § 7 Satz 1 Nummer 1, 2 oder 4 bis 6
+    der Bundesrechtsanwaltsordnung in nicht mehr anfechtbarer Weise zur
     Rechtsanwaltschaft nicht zugelassen sind oder ihre Zulassung aus einem
     dieser Gründe nach § 14 Abs. 1 der Bundesrechtsanwaltsordnung in nicht
     mehr anfechtbarer Weise zurückgenommen worden ist, solange der Grund
     für die Nichtzulassung oder die Rücknahme der Zulassung besteht,
 
-
 2.  ihre Zulassung nach § 14 Abs. 2 Nr. 1 und 2 der
     Bundesrechtsanwaltsordnung in nicht mehr anfechtbarer Weise widerrufen
     worden ist,
-
 
 3.  gegen sie die Maßnahme der Ausschließung aus der Rechtsanwaltschaft
     nach § 114 Abs. 1 Nr. 5 der Bundesrechtsanwaltsordnung rechtskräftig
     verhängt worden ist.
 
-
-
 Ist einem europäischen Rechtsanwalt nach § 70 des Strafgesetzbuches, §
 132a der Strafprozessordnung oder § 150 der Bundesrechtsanwaltsordnung
-die Ausübung des Rechtsanwaltsberufs verboten, so ist Absatz 1 für die
-Dauer des Verbots nicht anzuwenden. Ist gegen eine Person nach § 114
-Abs. 1 Nr. 4, §§ 150 oder 161a der Bundesrechtsanwaltsordnung ein
+die Ausübung des Rechtsanwaltsberufs verboten, so ist Absatz 1 für
+die Dauer des Verbots nicht anzuwenden. Ist gegen eine Person nach §
+114 Abs. 1 Nr. 4, §§ 150 oder 161a der Bundesrechtsanwaltsordnung ein
 Vertretungsverbot verhängt worden, so ist Absatz 1 in dem Umfang nicht
 anzuwenden, in dem das Vertretungsverbot besteht.
 
@@ -708,8 +662,8 @@ Gesetzes erst ausüben, wenn der Nachweis erbracht ist.
 (1) Der dienstleistende europäische Rechtsanwalt hat im Zusammenhang
 mit der Vertretung oder Verteidigung eines Mandanten im Bereich der
 Rechtspflege oder vor Behörden die Stellung eines Rechtsanwalts,
-insbesondere dessen Rechte und Pflichten, soweit diese nicht die
-Zugehörigkeit zu einer Rechtsanwaltskammer sowie die Kanzlei
+insbesondere dessen Rechte und Pflichten, soweit diese nicht
+die Zugehörigkeit zu einer Rechtsanwaltskammer sowie die Kanzlei
 betreffen. Beschränkungen der Vertretungsbefugnis, die sich aus dem
 Erfordernis der Zulassung bei dem Bundesgerichtshof ergeben, bleiben
 unberührt.
@@ -729,38 +683,38 @@ gewährleisten, welche die Stellung des Rechtsanwalts erfordert.
 eine Berufshaftpflichtversicherung zur Deckung der sich aus seiner
 Berufstätigkeit in Deutschland ergebenden Haftpflichtgefahren für
 Vermögensschäden abzuschließen, die nach Art und Umfang den durch
-seine berufliche Tätigkeit entstehenden Risiken angemessen ist. Ist
-dem Rechtsanwalt der Abschluss einer solchen Versicherung nicht
+seine berufliche Tätigkeit entstehenden Risiken angemessen ist.
+Ist dem Rechtsanwalt der Abschluss einer solchen Versicherung nicht
 möglich oder unzumutbar, hat er seinen Mandanten auf diese Tatsache
-und deren Folgen vor seiner Mandatierung in Textform hinzuweisen. Die
-Sätze 1 und 2 gelten nicht, soweit die Tätigkeit eines
+und deren Folgen vor seiner Mandatierung in Textform hinzuweisen.
+Die Sätze 1 und 2 gelten nicht, soweit die Tätigkeit eines
 Syndikusrechtsanwalts ausgeübt wird.
 
 
 ### § 27a Besonderes elektronisches Anwaltspostfach
 
-(1) Der dienstleistende europäische Rechtsanwalt kann bei der nach §
-32 Absatz 4 zuständigen Rechtsanwaltskammer die Einrichtung eines
+(1) Der dienstleistende europäische Rechtsanwalt kann bei der nach
+§ 32 Absatz 4 zuständigen Rechtsanwaltskammer die Einrichtung eines
 besonderen elektronischen Anwaltspostfachs beantragen. Liegen die
 Voraussetzungen für die Einrichtung vor, wird er nur zu diesem Zweck
 in das Verzeichnis der Rechtsanwaltskammer und das Gesamtverzeichnis
 der Bundesrechtsanwaltskammer eingetragen. Für die Eintragung in diese
-Verzeichnisse gilt § 31 Absatz 1 Satz 3, 5 und 6, Absatz 3 Nummer 1, 2
-und 5, Absatz 4 Satz 1 und 2 sowie Absatz 5 Satz 1 und 2 der
+Verzeichnisse gilt § 31 Absatz 1 Satz 3, 5 und 6, Absatz 3 Nummer
+1, 2 und 5, Absatz 5 Satz 1 und 2 sowie Absatz 6 Satz 1 und 2 der
 Bundesrechtsanwaltsordnung sinngemäß mit der Maßgabe, dass an die
 Stelle der Beendigung der Mitgliedschaft in der Rechtsanwaltskammer
 der Verlust der Zulassung zur Rechtsanwaltschaft im Herkunftsstaat
 oder der Antrag auf Löschung des besonderen elektronischen
 Anwaltspostfachs tritt. Zudem gilt für die Eintragung in diese
-Verzeichnisse die auf Grund von § 31c der Bundesrechtsanwaltsordnung
+Verzeichnisse die auf Grund von § 31d der Bundesrechtsanwaltsordnung
 erlassene Rechtsverordnung.
 
 (2) Nach der Eintragung im Gesamtverzeichnis richtet die
 Bundesrechtsanwaltskammer für den dienstleistenden europäischen
 Rechtsanwalt ein besonderes elektronisches Anwaltspostfach ein. § 31a
 Absatz 1 Satz 2, Absatz 2 bis 4 und 6 der Bundesrechtsanwaltsordnung
-gilt sinngemäß mit der Maßgabe nach Absatz 1 Satz 3. Zudem gilt die
-auf Grund von § 31c der Bundesrechtsanwaltsordnung erlassene
+gilt sinngemäß mit der Maßgabe nach Absatz 1 Satz 3. Zudem gilt
+die auf Grund von § 31d der Bundesrechtsanwaltsordnung erlassene
 Rechtsverordnung.
 
 (3) Die Rechtsanwaltskammer kann zur Deckung des Verwaltungsaufwands
@@ -768,16 +722,16 @@ für die Einrichtung und den Betrieb des besonderen elektronischen
 Anwaltspostfachs von dem dienstleistenden europäischen Rechtsanwalt
 Gebühren nach festen Sätzen sowie Auslagen erheben. Sie bestimmt die
 Gebühren- und Auslagentatbestände sowie die Höhe und die Fälligkeit
-der Gebühren und Auslagen durch Satzung; § 192 Satz 2 der
+der Gebühren und Auslagen durch Satzung; § 192 Satz 2 und 3 der
 Bundesrechtsanwaltsordnung gilt entsprechend. Die Gebühren und
-Auslagen dürfen die von den Mitgliedern der Rechtsanwaltskammer für
-die Einrichtung und den Betrieb des besonderen elektronischen
-Anwaltspostfachs erhobenen Beträge nicht übersteigen. Die Höhe der
-Gebühren ist regelmäßig zu überprüfen. Die Satzung ist der
+Auslagen dürfen die von den Mitgliedern der Rechtsanwaltskammer
+für die Einrichtung und den Betrieb des besonderen elektronischen
+Anwaltspostfachs erhobenen Beträge nicht übersteigen. Die Höhe
+der Gebühren ist regelmäßig zu überprüfen. Die Satzung ist der
 Aufsichtsbehörde anzuzeigen. Für die Einziehung rückständiger Gebühren
-und Auslagen gilt § 84 der Bundesrechtsanwaltsordnung entsprechend. Ab
-dem in § 84 Absatz 2 der Bundesrechtsanwaltsordnung bezeichneten
-Zeitpunkt sind § 31 Absatz 5 Satz 1 und 2 und § 31a Absatz 4 der
+und Auslagen gilt § 84 der Bundesrechtsanwaltsordnung entsprechend.
+Ab dem in § 84 Absatz 2 der Bundesrechtsanwaltsordnung bezeichneten
+Zeitpunkt sind § 31 Absatz 6 Satz 1 und 2 und § 31a Absatz 4 der
 Bundesrechtsanwaltsordnung sinngemäß anwendbar.
 
 
@@ -818,16 +772,16 @@ ihrer Vornahme nicht vorliegt, sind unwirksam.
 
 ### § 30 Besonderheiten bei Verteidigung
 
-(1) Der dienstleistende europäische Rechtsanwalt darf einen Mandanten,
-dem in einem Strafverfahren die Freiheit auf Grund gerichtlicher oder
-behördlicher Anordnung entzogen ist, nur in Begleitung eines
-Einvernehmensanwalts nach § 28 Abs. 1 besuchen und mit dem Mandanten
-nur über einen solchen schriftlich verkehren. Mit dem
-Einvernehmensanwalt ist das Einvernehmen über die Ausübung des
+(1) Der dienstleistende europäische Rechtsanwalt darf einen
+Mandanten, dem in einem Strafverfahren die Freiheit auf Grund
+gerichtlicher oder behördlicher Anordnung entzogen ist, nur in
+Begleitung eines Einvernehmensanwalts nach § 28 Abs. 1 besuchen und
+mit dem Mandanten nur über einen solchen schriftlich verkehren. Mit
+dem Einvernehmensanwalt ist das Einvernehmen über die Ausübung des
 Besuchs- und Schriftverkehrs herzustellen.
 
-(2) Das Gericht oder die Behörde kann den Besuch ohne Begleitung oder
-den unmittelbaren schriftlichen Verkehr gestatten, wenn eine
+(2) Das Gericht oder die Behörde kann den Besuch ohne Begleitung
+oder den unmittelbaren schriftlichen Verkehr gestatten, wenn eine
 Gefährdung der Sicherheit nicht zu besorgen ist.
 
 (3) Die §§ 138a bis 138d, 146, 146a und 148 der Strafprozessordnung
@@ -840,26 +794,26 @@ entsprechend anzuwenden.
 ### § 31 Zustellungen in behördlichen und gerichtlichen Verfahren
 
 (1) Der dienstleistende europäische Rechtsanwalt hat einen
-Zustellungsbevollmächtigten, der im Inland wohnt oder dort einen
-Geschäftsraum hat, zu benennen, sobald er in Verfahren vor Gerichten
-oder Behörden tätig wird. Die Benennung erfolgt gegenüber der Behörde
-oder dem Gericht. Zustellungen, die für den dienstleistenden
-europäischen Rechtsanwalt bestimmt sind, sind an den
+Zustellungsbevollmächtigten, der im Inland wohnt oder dort
+einen Geschäftsraum hat, zu benennen, sobald er in Verfahren
+vor Gerichten oder Behörden tätig wird. Die Benennung erfolgt
+gegenüber der Behörde oder dem Gericht. Zustellungen, die für den
+dienstleistenden europäischen Rechtsanwalt bestimmt sind, sind an den
 Zustellungsbevollmächtigten zu bewirken. An ihn kann, auch von Anwalt
 zu Anwalt, wie an einen Rechtsanwalt selbst zugestellt werden (§ 173
 Absatz 1 und 2, §§ 175, 195 der Zivilprozessordnung).
 
-(2) Ist ein Zustellungsbevollmächtigter nicht benannt, so gilt in den
-in § 28 Abs. 1 aufgeführten Verfahren der Einvernehmensanwalt als
-Zustellungsbevollmächtigter; kann nicht an einen
+(2) Ist ein Zustellungsbevollmächtigter nicht benannt, so gilt in
+den in § 28 Abs. 1 aufgeführten Verfahren der Einvernehmensanwalt
+als Zustellungsbevollmächtigter; kann nicht an einen
 Zustellungsbevollmächtigten im Geltungsbereich dieses Gesetzes
 zugestellt werden, so kann die Zustellung durch Aufgabe zur Post
 bewirkt werden (§ 184 der Zivilprozessordnung).
 
-(3) Die Absätze 1 und 2 gelten nicht, sofern ein Gericht oder eine
-Behörde bei einem dienstleistenden europäischen Rechtsanwalt, der
-einen sicheren Übermittlungsweg für die Zustellung elektronischer
-Dokumente eröffnet hat, auf die Bestellung eines
+(3) Die Absätze 1 und 2 gelten nicht, sofern ein Gericht oder
+eine Behörde bei einem dienstleistenden europäischen Rechtsanwalt,
+der einen sicheren Übermittlungsweg für die Zustellung
+elektronischer Dokumente eröffnet hat, auf die Bestellung eines
 Zustellungsbevollmächtigten verzichtet.
 
 
@@ -872,31 +826,23 @@ Rechtsanwaltskammer obliegt es insbesondere,
 1.  in Fragen der Berufspflichten eines Rechtsanwalts zu beraten und zu
     belehren;
 
-
 2.  die Erfüllung der beruflichen Pflichten zu überwachen und das Recht
     der Rüge zu handhaben;
-
 
 3.  die zuständige Stelle des Staates der Niederlassung über
     Entscheidungen zu unterrichten, die hinsichtlich eines
     dienstleistenden europäischen Rechtsanwalts getroffen worden sind;
 
-
 4.  die erforderlichen Auskünfte beruflicher Art über dienstleistende
     europäische Rechtsanwälte einzuholen;
-
 
 5.  auf Antrag bei Streitigkeiten zwischen dienstleistenden europäischen
     Rechtsanwälten und inländischen Rechtsanwälten zu vermitteln; dies
     umfasst die Befugnis, Schlichtungsvorschläge zu unterbreiten;
 
-
 6.  auf Antrag bei Streitigkeiten zwischen dienstleistenden europäischen
     Rechtsanwälten und ihrer Mandantschaft zu vermitteln; dies umfasst die
     Befugnis, Schlichtungsvorschläge zu unterbreiten.
-
-
-
 
 (2) Der Vorstand kann die in Absatz 1 Nr. 1, 3 bis 6 bezeichneten
 Aufgaben einzelnen Mitgliedern des Vorstands übertragen.
@@ -904,80 +850,60 @@ Aufgaben einzelnen Mitgliedern des Vorstands übertragen.
 (3) Die §§ 56 bis 58, 73 Absatz 3 sowie die §§ 74, 74a, 195, 197a bis
 199, 205 und 205a der Bundesrechtsanwaltsordnung gelten entsprechend.
 
-(4) Die Zuständigkeit der Rechtsanwaltskammer für die Aufsicht nach
-Absatz 1 richtet sich nach dem Staat der Niederlassung des
+(4) Die Zuständigkeit der Rechtsanwaltskammer für die Aufsicht
+nach Absatz 1 richtet sich nach dem Staat der Niederlassung des
 dienstleistenden europäischen Rechtsanwalts. Die Aufsicht wird
 ausgeübt für dienstleistende europäische Rechtsanwälte aus
 
 1.  Belgien und den Niederlanden durch die Rechtsanwaltskammer Düsseldorf
     in Düsseldorf,
 
-
 2.  Frankreich und Luxemburg durch die Rechtsanwaltskammer für den
     Oberlandesgerichtsbezirk Koblenz in Koblenz,
 
-
-3.  dem Vereinigten Königreich, Irland, Finnland und Schweden durch die
-    Hanseatische Rechtsanwaltskammer in Hamburg,
-
+3.  Irland, Finnland und Schweden durch die Hanseatische
+    Rechtsanwaltskammer in Hamburg,
 
 4.  Italien und Österreich durch die Rechtsanwaltskammer für den
     Oberlandesgerichtsbezirk München in München,
 
-
 5.  Dänemark, Norwegen und Island durch die Schleswig-Holsteinische
     Rechtsanwaltskammer in Schleswig,
-
 
 6.  Liechtenstein und der Schweiz durch die Rechtsanwaltskammer Freiburg
     in Freiburg,
 
-
 7.  Griechenland und der Republik Zypern durch die Rechtsanwaltskammer für
     den Oberlandesgerichtsbezirk Celle in Celle,
-
 
 8.  Spanien und Estland durch die Rechtsanwaltskammer Stuttgart in
     Stuttgart,
 
-
 9.  Portugal durch die Rechtsanwaltskammer für den
     Oberlandesgerichtsbezirk Oldenburg in Oldenburg,
-
 
 10. der Tschechischen Republik und der Slowakei durch die
     Rechtsanwaltskammer Sachsen in Dresden,
 
-
 11. Polen durch die Rechtsanwaltskammer des Landes Brandenburg in
     Brandenburg an der Havel,
-
 
 12. Lettland und Litauen durch die Rechtsanwaltskammer Mecklenburg-
     Vorpommern in Schwerin,
 
-
 13. Ungarn durch die Rechtsanwaltskammer Nürnberg in Nürnberg,
-
 
 14. Malta durch die Rechtsanwaltskammer des Landes Sachsen-Anhalt in
     Magdeburg,
 
-
 15. Slowenien durch die Rechtsanwaltskammer Thüringen in Erfurt,
 
-
 16. Bulgarien durch die Rechtsanwaltskammer Berlin in Berlin,
-
 
 17. Rumänien durch die Rechtsanwaltskammer Frankfurt am Main in Frankfurt
     am Main,
 
-
 18. Kroatien durch die Rechtsanwaltskammer Tübingen in Tübingen.
-
-
-
 
 
 ### § 33 Anwaltsgerichtsbarkeit, Zustellungen
@@ -993,59 +919,51 @@ Aufsicht nach § 32 ausübt.
 
 ### § 34 Anwaltsgerichtliche Ahndung von Pflichtverletzungen, vorläufige anwaltsgerichtliche Maßnahmen
 
-Für die anwaltsgerichtliche Ahndung von Pflichtverletzungen und die
-Verhängung vorläufiger anwaltsgerichtlicher Maßnahmen gelten für den
-dienstleistenden europäischen Rechtsanwalt die Vorschriften des
-Sechsten und des Siebenten Teils, des Dritten Abschnitts des Zehnten
-Teils und des Elften Teils der Bundesrechtsanwaltsordnung mit
+Für die anwaltsgerichtliche Ahndung von Pflichtverletzungen und
+die Verhängung vorläufiger anwaltsgerichtlicher Maßnahmen gelten
+für den dienstleistenden europäischen Rechtsanwalt die Vorschriften
+des Sechsten und des Siebenten Teils, des Dritten Abschnitts des
+Zehnten Teils und des Elften Teils der Bundesrechtsanwaltsordnung mit
 folgenden Maßgaben:
 
 1.  das Verbot nach § 114 Abs. 1 Nr. 4 sowie die vorläufigen Maßnahmen
     nach § 150 Abs. 1 und § 161a dürfen nur für das Bundesgebiet
     ausgesprochen werden;
 
-
 2.  an die Stelle der Ausschließung aus der Rechtsanwaltschaft (§ 114
     Absatz 1 Nummer 5) tritt das Verbot, in Deutschland Dienstleistungen
     zu erbringen;
 
-
 3.  die Mitteilung nach § 160 Abs. 1 Satz 1, § 161a Abs. 2 ist an alle
     Rechtsanwaltskammern zu richten;
 
-
 4.  § 161 ist nicht anzuwenden;
-
 
 5.  an die Stelle der Rechtsanwaltskammer nach § 198 tritt die nach § 32
     dieses Gesetzes zuständige Rechtsanwaltskammer.
-
-
-
 
 
 ### § 34a Mitteilungspflichten
 
 Gerichte und Behörden übermitteln personenbezogene Daten, die zur
 Einleitung eines Rügeverfahrens oder eines anwaltsgerichtlichen
-Verfahrens aus der Sicht der übermittelnden Stelle erforderlich sind,
-den für die Einleitung dieser Verfahren zuständigen Stellen, soweit
-hierdurch schutzwürdige Interessen des Betroffenen nicht
-beeinträchtigt werden oder das öffentliche Interesse das
-Geheimhaltungsinteresse des Betroffenen überwiegt. § 36 Abs. 2 Satz 2
-der Bundesrechtsanwaltsordnung gilt entsprechend.
+Verfahrens aus der Sicht der übermittelnden Stelle erforderlich
+sind, den für die Einleitung dieser Verfahren zuständigen
+Stellen, soweit hierdurch schutzwürdige Interessen des Betroffenen
+nicht beeinträchtigt werden oder das öffentliche Interesse das
+Geheimhaltungsinteresse des Betroffenen überwiegt. § 36 Absatz 3 der
+Bundesrechtsanwaltsordnung gilt entsprechend.
 
 
 ## Teil 6 - Rechtsweg in verwaltungsrechtlichen Anwaltssachen und allgemeine Vorschriften für das Verwaltungsverfahren
 
 
-
 ### § 35 Rechtsweg in verwaltungsrechtlichen Anwaltssachen
 
-Für öffentlich-rechtliche Streitigkeiten nach den Teilen 2, 3, 5 und 6
-dieses Gesetzes oder nach einer in Bezug auf diese Teile erlassenen
-Rechtsverordnung, soweit sie nicht anwaltsgerichtlicher Art sind oder
-einem anderen Gericht ausdrücklich zugewiesen sind, gelten die
+Für öffentlich-rechtliche Streitigkeiten nach den Teilen 2, 3, 5 und
+6 dieses Gesetzes oder nach einer in Bezug auf diese Teile erlassenen
+Rechtsverordnung, soweit sie nicht anwaltsgerichtlicher Art sind
+oder einem anderen Gericht ausdrücklich zugewiesen sind, gelten die
 Bestimmungen der Bundesrechtsanwaltsordnung für verwaltungsrechtliche
 Anwaltssachen entsprechend.
 
@@ -1060,20 +978,15 @@ Rechtsanwaltschaft nach den Teilen 3 oder 4 dieses Gesetzes
     Verfehlungen, Straftaten oder sonstigen Umstände bekannt sind, die die
     Eignung der Person für den Beruf des Rechtsanwalts in Frage stellen,
 
-
 2.  Bescheinigungen darüber, dass über das Vermögen der Person kein
     Insolvenzverfahren anhängig ist und die Person nicht für insolvent
     erklärt wurde,
 
-
 3.  Bescheinigungen über die körperliche oder geistige Gesundheit der
     Person oder
 
-
 4.  Bescheinigungen über das Bestehen und den Umfang einer
     Haftpflichtversicherung
-
-
 
 erforderlich sind, genügen Bescheinigungen des Heimat- oder
 Herkunftsstaates, die den Anforderungen des Artikels 50 Absatz 1 in
@@ -1099,41 +1012,37 @@ Rechtsanwaltskammer diese innerhalb eines Monats aus.
 
 ### § 38 Mitteilungspflichten gegenüber anderen Staaten
 
-(1) Ist ein Rechtsanwalt auch in einem anderen Mitgliedstaat der
-Europäischen Union, einem anderen Vertragsstaat des Europäischen
-Wirtschaftsraums oder der Schweiz tätig, so teilt die
+(1) Ist ein Rechtsanwalt auch in einem anderen Mitgliedstaat
+der Europäischen Union, einem anderen Vertragsstaat des
+Europäischen Wirtschaftsraums oder der Schweiz tätig, so teilt die
 Rechtsanwaltskammer der zuständigen Stelle des anderen Staates über
 das Binnenmarkt-Informationssystem der Europäischen Union Folgendes
 mit:
 
 1.  berufsrechtliche Sanktionen,
 
-
 2.  strafrechtliche oder in Ordnungswidrigkeitenverfahren verhängte
     Sanktionen, die sich auf die Ausübung der anwaltlichen Tätigkeit
     auswirken können, und
 
-
 3.  sonstige schwerwiegende Sachverhalte, die sich auf die Ausübung der
     anwaltlichen Tätigkeit auswirken können.
 
-
-
-Satz 1 gilt auch für niedergelassene europäische Rechtsanwälte, sofern
-die Mitteilung nicht schon nach § 9 erfolgt ist. Ist der
+Satz 1 gilt auch für niedergelassene europäische Rechtsanwälte,
+sofern die Mitteilung nicht schon nach § 9 erfolgt ist. Ist der
 Rechtsanwaltskammer nach § 112h der Bundesrechtsanwaltsordnung eine
 Entscheidung übermittelt worden, hat sie den anderen Mitgliedstaaten
 der Europäischen Union, den anderen Vertragsstaaten des Europäischen
 Wirtschaftsraums und der Schweiz binnen drei Tagen nach Rechtskraft
 der Entscheidung über das Binnenmarkt-Informationssystem der
-Europäischen Union die Angaben zur Identität des Rechtsanwalts und die
-Tatsache, dass er einen gefälschten Berufsqualifikationsnachweis
+Europäischen Union die Angaben zur Identität des Rechtsanwalts und
+die Tatsache, dass er einen gefälschten Berufsqualifikationsnachweis
 verwendet hat, mitzuteilen.
 
 (2) Unverzüglich nach einer Mitteilung nach Absatz 1 hat eine
-Mitteilung nach § 8d Absatz 2 des Verwaltungsverfahrensgesetzes zu
-erfolgen. In ihr ist auf die zulässigen Rechtsbehelfe gegen die
-Entscheidung, die Mitteilung nach Absatz 1 zu veranlassen,
+Mitteilung nach § 8d Absatz 2 des Verwaltungsverfahrensgesetzes
+zu erfolgen. In ihr ist auf die zulässigen Rechtsbehelfe gegen
+die Entscheidung, die Mitteilung nach Absatz 1 zu veranlassen,
 hinzuweisen. Wird ein Rechtsbehelf gegen die Entscheidung eingelegt,
 ergänzt die Rechtsanwaltskammer die Mitteilung nach Absatz 1 um einen
 entsprechenden Hinweis.
@@ -1147,8 +1056,8 @@ Fall nur insoweit, als die Mitteilung nicht schon nach Satz 1 erfolgt.
 (4) Absatz 1 Satz 1 gilt für dienstleistende europäische Rechtsanwälte
 entsprechend.
 
-(5) Hat die zuständige Stelle eines der anderen in Absatz 1 Satz 1
-genannten Staaten der Rechtsanwaltskammer zu einem Rechtsanwalt
+(5) Hat die zuständige Stelle eines der anderen in Absatz 1 Satz
+1 genannten Staaten der Rechtsanwaltskammer zu einem Rechtsanwalt
 Sanktionen oder Sachverhalte im Sinne des Absatzes 1 Satz 1
 mitgeteilt, so unterrichtet die Rechtsanwaltskammer diese Stelle über
 die auf Grund der Mitteilung getroffenen Maßnahmen.
@@ -1171,7 +1080,6 @@ Bundesrechtsanwaltsordnung entsprechend anzuwenden.
 ## Teil 7 - Ermächtigungen, Übertragung von Befugnissen
 
 
-
 ### § 40 Ermächtigungen
 
 (1) Das Bundesministerium der Justiz und für Verbraucherschutz wird
@@ -1187,30 +1095,20 @@ Einzelheiten der Eignungsprüfung zu regeln, insbesondere
 
 1.  die Bereiche des Pflichtfaches und der Wahlfächer,
 
-
 2.  die prüfenden Personen,
-
 
 3.  den Ablauf des Prüfungsverfahrens,
 
-
 4.  die Prüfungsleistungen,
-
 
 5.  die Folgen eines ordnungswidrigen Verhaltens,
 
-
 6.  den Erlass von Prüfungsleistungen,
-
 
 7.  die Wiederholung der Prüfung und die Zahl der
     Wiederholungsmöglichkeiten,
 
-
 8.  die Erhebung einer Gebühr.
-
-
-
 
 
 ### § 41 Übertragung von Befugnissen
@@ -1222,8 +1120,8 @@ zustehen, durch Rechtsverordnung auf nachgeordnete Behörden zu
 Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
 (2) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
-die Durchführung des Antragsverfahrens und der Eignungsprüfung nach
-Teil 4 dieses Gesetzes ganz oder teilweise auf die
+die Durchführung des Antragsverfahrens und der Eignungsprüfung
+nach Teil 4 dieses Gesetzes ganz oder teilweise auf die
 Rechtsanwaltskammern zu übertragen. Die Landesregierungen können diese
 Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen
 übertragen. In diesem Fall gilt § 73 Abs. 1 Satz 2 und Abs. 3 der
@@ -1233,14 +1131,13 @@ Bundesrechtsanwaltsordnung entsprechend.
 ## Teil 8 - Übergangs- und Schlussbestimmungen
 
 
-
 ### § 42 Anwendung von Vorschriften des Strafgesetzbuches
 
-(1) Für die Anwendung der Vorschriften des Strafgesetzbuches über die
-Straflosigkeit der Nichtanzeige geplanter Straftaten (§ 139 Abs. 3
-Satz 2), Verletzung von Privatgeheimnissen (§ 203 Absatz 1 Nummer 3,
-Absatz 3 bis 6, §§ 204, 205), Gebührenüberhebung (§ 352) und
-Parteiverrat (§ 356) stehen europäische Rechtsanwälte den
+(1) Für die Anwendung der Vorschriften des Strafgesetzbuches über
+die Straflosigkeit der Nichtanzeige geplanter Straftaten (§ 139
+Abs. 3 Satz 2), Verletzung von Privatgeheimnissen (§ 203 Absatz
+1 Nummer 3, Absatz 3 bis 6, §§ 204, 205), Gebührenüberhebung (§
+352) und Parteiverrat (§ 356) stehen europäische Rechtsanwälte den
 Rechtsanwälten und Anwälten gleich.
 
 (2) Zum Schutz der in der Anlage zu § 1 genannten Berufsbezeichnungen
@@ -1248,162 +1145,51 @@ ist die Vorschrift des § 132a Abs. 1 Nr. 2, Abs. 2 des
 Strafgesetzbuches über den Schutz der Berufsbezeichnung Rechtsanwalt
 entsprechend anzuwenden.
 
-zu § 1
 
-### Anlage Rechtsanwaltsberufe in Mitgliedstaaten der Europäischen Union, anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum und der Schweiz
+### § 43 Übergangsvorschrift zum Austritt des Vereinigten Königreichs aus der Europäischen Union
+
+Teil 4 gilt auch für Staatsangehörige eines Mitgliedstaates der
+Europäischen Union, eines anderen Vertragsstaates des Europäischen
+Wirtschaftsraums oder der Schweiz, die vor dem 1. Januar 2021 im
+Vereinigten Königreich eine Ausbildung abgeschlossen haben, die dort
+zum unmittelbaren Zugang zu den Berufen „Advocate“, „Barrister“ oder
+„Solicitor“ berechtigt.
+
+
+### Anlage zu § 1Rechtsanwaltsberufe in Mitgliedstaaten der Europäischen Union, anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum und der Schweiz
 
 Fundstelle: BGBl. I 2003, 2075;
 bzgl. der einzelnen Änderungen vgl. Fußnote
 
-*    *   - in Belgien:
-
-    *   Avocat/Advocaat/Rechtsanwalt
-
-
-*    *   - in Bulgarien:
-
-    *   AДBOKAT (Advokat)
-
-
-*    *   - in Dänemark:
-
-    *   Advokat
-
-
-*    *   - in Estland:
-
-    *   Vandeadvokaat
-
-
-*    *   - in Finnland:
-
-    *   Asianajaja/Advokat
-
-
-*    *   - in Frankreich:
-
-    *   Avocat
-
-
-*    *   - in Griechenland:
-
-    *   Δικηγόρος (Dikigoros)
-
-
-*    *   - in Irland:
-
-    *   Barrister/Solicitor
-
-
-*    *   - in Island:
-
-    *   Lögmaur
-
-
-*    *   - in Italien:
-
-    *   Avvocato
-
-
-*    *   - in Kroatien:
-
-    *   Odvjetnik/Odvjetnica
-
-
-*    *   - in Lettland:
-
-    *   Zverinats advokats
-
-
-*    *   - in Liechtenstein:
-
-    *   Rechtsanwalt
-
-
-*    *   - in Litauen:
-
-    *   Advokatas
-
-
-*    *   - in Luxemburg:
-
-    *   Avocat
-
-
-*    *   - in Malta:
-
-    *   Avukat/Prokuratur Legali
-
-
-*    *   - in den Niederlanden:
-
-    *   Advocaat
-
-
-*    *   - in Norwegen:
-
-    *   Advokat
-
-
-*    *   - in Österreich:
-
-    *   Rechtsanwalt
-
-
-*    *   - in Polen:
-
-    *   Adwokat/Radca prawny
-
-
-*    *   - in Portugal:
-
-    *   Advogado
-
-
-*    *   - in Rumänien:
-
-    *   Avocat
-
-
-*    *   - in Schweden:
-
-    *   Advokat
-
-
-*    *   - in der Schweiz:
-
-    *   Advokat, Rechtsanwalt, Anwalt, Fürsprecher, Fürsprech/Avocat/Avvocato
-
-
-*    *   - in der Slowakei:
-
-    *   Advokat/Komercny pravnik
-
-
-*    *   - in Slowenien:
-
-    *   Odvetnik/Odvetnica
-
-
-*    *   - in Spanien:
-
-    *   Abogado/Advocat/Avogado/Abokatu
-
-
-*    *   - in der Tschechischen Republik:
-
-    *   Advokat
-
-
-*    *   - in Ungarn:
-
-    *   Ügyved
-
-
-*    *   - in Zypern:
-
-    *   Δικηγόρος (Dikigoros)
-
-
-
+| - in Belgien: | Avocat/Advocaat/Rechtsanwalt |
+| --- | --- |
+| - in Bulgarien: | AДBOKAT (Advokat) |
+| - in Dänemark: | Advokat |
+| - in Estland: | Vandeadvokaat |
+| - in Finnland: | Asianajaja/Advokat |
+| - in Frankreich: | Avocat |
+| - in Griechenland: | Δικηγόρος (Dikigoros) |
+| - in Irland: | Barrister/Solicitor |
+| - in Island: | Lögmaur |
+| - in Italien: | Avvocato |
+| - in Kroatien: | Odvjetnik/Odvjetnica |
+| - in Lettland: | Zverinats advokats |
+| - in Liechtenstein: | Rechtsanwalt |
+| - in Litauen: | Advokatas |
+| - in Luxemburg: | Avocat |
+| - in Malta: | Avukat/Prokuratur Legali |
+| - in den Niederlanden: | Advocaat |
+| - in Norwegen: | Advokat |
+| - in Österreich: | Rechtsanwalt |
+| - in Polen: | Adwokat/Radca prawny |
+| - in Portugal: | Advogado |
+| - in Rumänien: | Avocat |
+| - in Schweden: | Advokat |
+| - in der Schweiz: | Advokat, Rechtsanwalt, Anwalt, Fürsprecher, Fürsprech/Avocat/Avvocato |
+| - in der Slowakei: | Advokat/Komercny pravnik |
+| - in Slowenien: | Odvetnik/Odvetnica |
+| - in Spanien: | Abogado/Advocat/Avogado/Abokatu |
+| - in der Tschechischen Republik: | Advokat |
+| - in Ungarn: | Ügyved |
+| - in Zypern: | Δικηγόρος (Dikigoros) |
 

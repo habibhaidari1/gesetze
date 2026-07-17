@@ -1,6 +1,5 @@
 ---
-Title: Dritte Durchführungsverordnung zum Bereinigungsgesetz für deutsche Auslandsbonds
-  (Vereinigtes Königreich von Großbritannien und Nordirland)
+Title: Dritte Durchführungsverordnung zum Bereinigungsgesetz für deutsche Auslandsbonds (Vereinigtes Königreich von Großbritannien und Nordirland)
 jurabk: AuslWBGDV 3
 layout: default
 origslug: auslwbgdv_3
@@ -17,7 +16,6 @@ Fundstelle
 :   BAnz: 1953, Nr 134
 
 
-
 ## Eingangsformel
 
 Auf Grund des § 23 Abs. 5, des § 24 Abs. 4, des § 35 Abs. 2 und des §
@@ -29,11 +27,11 @@ Auf Grund des § 23 Abs. 5, des § 24 Abs. 4, des § 35 Abs. 2 und des §
 
 (1) Diese Verordnung erstreckt sich auf alle Wertpapiere der im
 Verzeichnis der Auslandsbonds (§ 1 Abs. 1 des Gesetzes) aufgeführten
-oder bei einer Ergänzung
-(§ 1 Abs. 2 des Gesetzes)              in das Verzeichnis
-aufgenommenen Art einschließlich der Nebenurkunden (§ 5 des Gesetzes),
-soweit das Vereinigte Königreich von Großbritannien und Nordirland als
-Begebungsland angegeben ist (im folgenden "Sterlingbonds" genannt).
+oder bei einer Ergänzung *(§ 1 Abs. 2 des Gesetzes)* in das
+Verzeichnis aufgenommenen Art einschließlich der Nebenurkunden (§ 5
+des Gesetzes), soweit das Vereinigte Königreich von Großbritannien
+und Nordirland als Begebungsland angegeben ist (im folgenden
+"Sterlingbonds" genannt).
 
 (2) Im Sinne dieser Verordnung bezeichnet der Ausdruck "der
 Auslandsbevollmächtigte" den für das Vereinigte Königreich nach § 8
@@ -55,8 +53,8 @@ den für die Anleihe zuständigen Zahlungsagenten zulässig.
 Control Act, 1947, bei ihr oder für sie verwahrt wird und daß die
 Voraussetzungen des § 16 Abs. 1 des genannten Gesetzes bei dem Bond
 vor dem Zeitpunkt, in welchem der Auslandsbevollmächtigte den Beginn
-des Bereinigungsverfahrens in London anzeigt, vorgelegen haben, wird,
-soweit sich nicht aus der Bescheinigung etwas anderes ergibt,
+des Bereinigungsverfahrens in London anzeigt, vorgelegen haben,
+wird, soweit sich nicht aus der Bescheinigung etwas anderes ergibt,
 bewiesen, daß der Bond ein Auslandsstück im Sinne des § 3 Abs. 2 des
 Gesetzes ist, und einen Anspruch auf Anerkennung des Bonds begründet.
 
@@ -88,11 +86,11 @@ verletzt. § 77 des Gesetzes gilt sinngemäß. Für die Ernennung eines
 Nachfolgers gilt Absatz 3.
 
 (5) Der Antrag auf schiedsgerichtliche Entscheidung ist bei dem
-Auslandsbevollmächtigten schriftlich einzureichen. Dem Antrag sind
-fünf Abschriften beizufügen. Der Auslandsbevollmächtigte stellt je
-eine Abschrift der Prüfstelle, dem Aussteller sowie den Treuhändern
-und den Zahlungsagenten mit der Aufforderung zu, ihm ihre etwaige
-Stellungnahme innerhalb zweier Monate nach der Zustellung
+Auslandsbevollmächtigten schriftlich einzureichen. Dem Antrag
+sind fünf Abschriften beizufügen. Der Auslandsbevollmächtigte
+stellt je eine Abschrift der Prüfstelle, dem Aussteller sowie den
+Treuhändern und den Zahlungsagenten mit der Aufforderung zu, ihm ihre
+etwaige Stellungnahme innerhalb zweier Monate nach der Zustellung
 einzureichen. Der Auslandsbevollmächtigte kann diese Frist auf Antrag
 verlängern, jedoch höchstens um drei Monate. Nach Ablauf der Frist
 übermittelt der Auslandsbevollmächtigte den Antrag dem Schiedsgericht
@@ -102,9 +100,9 @@ Stellungnahmen, seiner eigenen Stellungnahme und seinen Unterlagen.
 (6) Das Schiedsgericht kann Beweise erheben, soweit es dies für
 notwendig hält.
 
-(7) Das Schiedsgericht trifft seine Entscheidungen durch Beschluß der
-beiden Beisitzer, falls diese sich einig sind. Sind sie sich nicht
-einig, so haben sie die Sache dem Vorsitzer vorzulegen, dessen
+(7) Das Schiedsgericht trifft seine Entscheidungen durch Beschluß
+der beiden Beisitzer, falls diese sich einig sind. Sind sie sich
+nicht einig, so haben sie die Sache dem Vorsitzer vorzulegen, dessen
 Entscheidung in diesem Fall die Entscheidung des Schiedsgerichts
 darstellt.
 

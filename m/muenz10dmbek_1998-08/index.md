@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen
-  Mark (Gedenkmünze "300 Jahre Franckesche Stiftungen")
+Title: "Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen Mark (Gedenkmünze \"300 Jahre Franckesche Stiftungen\")"
 jurabk: Münz10DMBek 1998-08
 layout: default
 origslug: m_nz10dmbek_1998-08
@@ -17,12 +16,11 @@ Fundstelle
 :   BGBl I: 1998, 2187
 
 
-
 ## (XXXX)
 
 Auf Grund des § 6 des Gesetzes über die Ausprägung von Scheidemünzen
-in der im Bundesgesetzblatt Teil III, Gliederungsnummer 690-1,
-veröffentlichten bereinigten Fassung hat die Bundesregierung
+in der im Bundesgesetzblatt Teil III, Gliederungsnummer 690-
+1, veröffentlichten bereinigten Fassung hat die Bundesregierung
 beschlossen, anläßlich des Jubiläums "300 Jahre Franckesche
 Stiftungen" eine Bundesmünze (Gedenkmünze) im Nennwert von 10
 Deutschen Mark prägen zu lassen.
@@ -43,45 +41,20 @@ Jahrhundert. Über den Bauten erscheint August Hermann Francke. Zwei im
 Strahlenkranz dargestellte Adler symbolisieren die Kraft des Glaubens.
 Die in den Abschnitt gestellte Inschrift lautet:
 
-*
-    *   "300 JAHRE FRANCKESCHE STIFTUNGEN".
-
-
-
-
-
+-   -   "300 JAHRE FRANCKESCHE STIFTUNGEN".
 
 Die Wertseite trägt einen Adler, die Jahreszahl 1998, das Münzzeichen
 "A" der Staatlichen Münze Berlin und die Inschrift:
 
-*
-    *   "BUNDESREPUBLIK DEUTSCHLAND
+-   -   "BUNDESREPUBLIK DEUTSCHLAND
 
-        *   10 DEUTSCHE MARK".
-
-
-
-
-
-
-
-
+        -   10 DEUTSCHE MARK".
 
 Bei den Münzen in der Qualität Spiegelglanz erscheinen die Münzzeichen
 "A", "D", "F", "G" und "J".
 Der glatte Münzrand enthält in vertiefter Prägung die Inschrift:
 
-*
-    *
-        *   "ER VERTRAUTE GOTT".
-
-
-
-
-
-
-
-
+-   -   -   "ER VERTRAUTE GOTT".
 
 Der Entwurf der Münze stammt von Herrn Heinz Hoyer, Berlin.
 

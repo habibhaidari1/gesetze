@@ -1,6 +1,5 @@
 ---
-Title: Verordnung zur Erhebung von Gebühren und Auslagen für die Bereitstellung von
-  Daten nach den Regelungen der Datentransparenzverordnung
+Title: Verordnung zur Erhebung von Gebühren und Auslagen für die Bereitstellung von Daten nach den Regelungen der Datentransparenzverordnung
 jurabk: DaTraGebV
 layout: default
 origslug: datragebv
@@ -17,7 +16,7 @@ Fundstelle
 :   BGBl I: 2014, 458
 
 Zuletzt geändert durch
-:   Art. 2 V v. 19.6.2020 I 1371
+:   Art. 2 V v. 29.1.2025 I Nr. 27
 
 
 ## Eingangsformel
@@ -31,15 +30,15 @@ Gesundheit:
 
 ## § 1 Anwendungsbereich und Gebührenerhebung
 
-Das Bundesinstitut für Arzneimittel und Medizinprodukte erhebt als
-Forschungsdatenzentrum Gebühren und Auslagen für individuell
+Das Bundesinstitut für Arzneimittel und Medizinprodukte erhebt
+als Forschungsdatenzentrum Gebühren und Auslagen für individuell
 zurechenbare öffentliche Leistungen nach § 303d Absatz 1 des Fünften
-Buches Sozialgesetzbuch in Verbindung mit den §§ 8 und 10 der
-Datentransparenzverordnung. Diese Gebühren und Auslagen dienen der
-Deckung des Verwaltungsaufwandes und ihre Höhe ist so zu bemessen,
-dass das geschätzte Gebührenaufkommen den auf die Leistungen
-entfallenden durchschnittlichen Personal- und Sachaufwand nicht
-übersteigt.
+Buches Sozialgesetzbuch in Verbindung mit den §§ 18 und 20 der
+Forschungsdatenzentrum Gesundheit-Verordnung. Diese Gebühren und
+Auslagen dienen der Deckung des Verwaltungsaufwandes und ihre Höhe
+ist so zu bemessen, dass das geschätzte Gebührenaufkommen den auf die
+Leistungen entfallenden durchschnittlichen Personal- und Sachaufwand
+nicht übersteigt.
 
 
 ## § 2 Entstehung der Gebührenschuld
@@ -61,14 +60,9 @@ verpflichtet,
 1.  wer die gebührenpflichtige Leistung durch einen Antrag auf
     Datenverarbeitung veranlasst,
 
-
 2.  wer die Gebührenschuld eines anderen übernommen hat oder
 
-
 3.  wer für die Gebührenschuld eines anderen kraft Gesetzes haftet.
-
-
-
 
 (2) Wer die Gebührenschuld eines anderen übernimmt, hat dem
 Forschungsdatenzentrum dies schriftlich oder elektronisch mitzuteilen.
@@ -78,46 +72,38 @@ Forschungsdatenzentrum dies schriftlich oder elektronisch mitzuteilen.
 
 ## § 4 Befreiung von der Zahlung der Gebühren und von der Erstattung der Auslagen
 
-Von der Zahlung der Gebühren und von der Erstattung der Auslagen nach
-dieser Verordnung befreit sind die gesetzlichen Krankenkassen, die
-Bundes- und Landesverbände der Krankenkassen, der Spitzenverband Bund
-der Krankenkassen sowie das Bundesministerium für Gesundheit.
+Von der Zahlung der Gebühren und von der Erstattung der Auslagen
+nach dieser Verordnung befreit sind die gesetzlichen Krankenkassen,
+die Bundes- und Landesverbände der Krankenkassen, der Spitzenverband
+Bund der Krankenkassen sowie das Bundesministerium für Gesundheit und
+Behörden in seinem Geschäftsbereich.
 
 
 ## § 5 Höhe der Grundgebühr
 
-Die Grundgebühr für die Bearbeitung eines Antrags beträgt 300 Euro.
+Die Grundgebühr für die Bearbeitung eines Antrags beträgt 4 000 Euro.
 
 
 ## § 6 Höhe der Zusatzgebühr für Datenauswertung und Datenbereitstellung
 
 (1) Für die Bereitstellung von standardisierten Datensätzen beträgt
-die Zusatzgebühr 300 Euro pro ausgewerteten Jahrgang.
+die Zusatzgebühr 1 000 Euro pro ausgewerteten Jahrgang.
 
 (2) Für die Auswertung und die Bereitstellung der Datenbestände
 mittels einer vom Nutzungsberechtigten vorformulierten Abfrage beträgt
-die Zusatzgebühr 300 Euro pro ausgewerteten Jahrgang. Darüber hinaus
-wird für jede Beratung, jede Erstellung vorläufiger Auswertungen und
-für Zwischenergebnisse abhängig von Umfang und Komplexität der Anfrage
-und der damit verbundenen Inanspruchnahme von Personal- und
-Sachleistungen eine Gebühr von 50 bis 1 600 Euro berechnet.
+die Zusatzgebühr 1 000 Euro pro ausgewerteten Jahrgang.
 
-(3) Für die Bereitstellung pseudonymisierter Einzeldatensätze in
-gesicherter physischer oder virtueller Umgebung des
-Forschungsdatenzentrums wird zusätzlich zu den anderen
-Gebührenpositionen in dieser Verordnung abhängig von Umfang und
-Komplexität der Anfrage und der damit verbundenen Inanspruchnahme von
-Personal- und Sachleistungen eine Gebühr von 100 bis 3 000 Euro
-berechnet
+(3) Für die Bereitstellung von Daten in einer gesicherten virtuellen
+Umgebung des Forschungsdatenzentrums wird zusätzlich eine Gebühr für
+die Nutzung der Umgebung von 1 000 Euro pro Tag berechnet.
 
 
-## § 7 Höhe der Gebühr bei Ablehnung eines Antrags
+## § 7 Höhe der Gebühr für Beratung, Erstellung vorläufiger Auswertungen und Zwischenergebnisse
 
-(1) Wird ein Antrag aus formalen Gründen abgelehnt, beträgt die Gebühr
-100 Euro.
-
-(2) Wird ein Antrag aus inhaltlichen Gründen abgelehnt, beträgt die
-Gebühr 150 Euro pro geprüften Jahrgang.
+Für jede Beratung, jede Erstellung vorläufiger Auswertungen und
+für Zwischenergebnisse wird abhängig von Umfang und Komplexität der
+Anfrage und der damit verbundenen Inanspruchnahme von Personal- und
+Sachleistungen eine Gebühr von 100 bis 3 000 Euro berechnet.
 
 
 ## § 8 Höhe der Gebühr bei Rücknahme des Antrags
@@ -148,19 +134,19 @@ Auswertungsergebnissen entstehen.
 
 ## § 10 Höhe der Gebühr für Schulungen
 
-Die Grundgebühr für eine Schulung beträgt 600 Euro. Das
+Die Grundgebühr für eine Schulung beträgt 1 000 Euro. Das
 Forschungsdatenzentrum kann für zusätzliche Module eine Zusatzgebühr
-von jeweils 300 Euro verlangen. Das Forschungsdatenzentrum informiert
+von jeweils 600 Euro verlangen. Das Forschungsdatenzentrum informiert
 die Antragsteller im Vorfeld über die Art der Schulungen und die Höhe
 der entsprechenden Gebühren.
 
 
 ## § 11 Gebührenerhöhung und -ermäßigung
 
-(1) Erfordert eine gebührenpflichtige Leistung im Einzelfall einen
-außergewöhnlich hohen Personal- und Sachaufwand, so kann das
-Forschungsdatenzentrum die nach den §§ 5 und 6 vorgesehenen Gebühren
-bis auf das Doppelte erhöhen. In diesem Fall hat das
+(1) Erfordert eine gebührenpflichtige Leistung im Einzelfall
+einen außergewöhnlich hohen Personal- und Sachaufwand, so kann
+das Forschungsdatenzentrum die nach den §§ 5 und 6 vorgesehenen
+Gebühren bis auf das Doppelte erhöhen. In diesem Fall hat das
 Forschungsdatenzentrum den Gebührenschuldner vor Beginn der
 Bearbeitung von der Erhöhung in Kenntnis zu setzen. Die Erhöhung ist
 vom Forschungsdatenzentrum zu begründen.
@@ -168,6 +154,73 @@ vom Forschungsdatenzentrum zu begründen.
 (2) Das Forschungsdatenzentrum kann die Gebühr bis auf die Hälfte der
 vorgesehenen Gebühr ermäßigen, wenn der mit der Leistung verbundene
 Personal- und Sachaufwand die Ermäßigung rechtfertigen.
+
+(3) Auf Antrag kann das Forschungsdatenzentrum die Gebühren nach
+dieser Verordnung für die folgenden Institutionen auf ein Zehntel der
+in dieser Verordnung genannten Höhe ermäßigen:
+
+1.  Die Kassenärztlichen Bundesvereinigungen und Kassenärztlichen
+    Vereinigungen,
+
+2.  die für die Wahrnehmung der wirtschaftlichen Interessen gebildeten
+    maßgeblichen Spitzenorganisationen der Leistungserbringer auf
+    Bundesebene,
+
+3.  die Institutionen der Gesundheitsberichterstattung des Bundes, der
+    Länder und der Kommunen,
+
+4.  die öffentlichen Institutionen der Gesundheitsversorgungsforschung,
+
+5.  Hochschulen, nach landesrechtlichen Vorschriften anerkannte
+    Hochschulkliniken sowie öffentlich finanzierte außeruniversitäre
+    Forschungseinrichtungen und sonstige Einrichtungen mit der Aufgabe
+    unabhängiger wissenschaftlicher Forschung, sofern die Daten
+    wissenschaftlichen Vorhaben dienen,
+
+6.  der Gemeinsame Bundesausschuss,
+
+7.  das Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen,
+
+8.  das Institut des Bewertungsausschusses,
+
+9.  der oder die Beauftragten der Bundesregierung und der
+    Landesregierungen für die Belange der Patientinnen und Patienten,
+
+10. die für die Wahrnehmung der Interessen der Patientinnen und Patienten
+    und der Selbsthilfe chronisch kranker und behinderter Menschen
+    maßgeblichen Organisationen auf Bundesebene,
+
+11. das Institut für Qualitätssicherung und Transparenz im
+    Gesundheitswesen,
+
+12. das Institut für das Entgeltsystem im Krankenhaus,
+
+13. die für die gesetzliche Krankenversicherung zuständigen obersten
+    Bundes- und Landesbehörden und deren jeweilige nachgeordnete Bereiche
+    sowie die übrigen obersten Bundesbehörden,
+
+14. die Bundesärztekammer, die Bundeszahnärztekammer, die
+    Bundespsychotherapeutenkammer sowie die Bundesapothekerkammer,
+
+15. die Deutsche Krankenhausgesellschaft und die
+    Landeskrankenhausgesellschaften,
+
+16. die Deutsche Rentenversicherung Bund,
+
+17. die Medizinischen Dienste und der Medizinische Dienst Bund,
+
+18. die gesetzlich geregelten medizinischen Register,
+
+19. die wissenschaftlich-medizinischen Fachgesellschaften, soweit sie
+    Mitglied der Arbeitsgemeinschaft der Wissenschaftlichen Medizinischen
+    Fachgesellschaften e. V. sind.
+
+(4) Abweichend von Absatz 3 sind die Gebühren für die in
+Absatz 3 genannten Institutionen nicht zu ermäßigen, wenn ein
+Datenzugang gemeinsam mit weiteren, nicht in Absatz 3 genannten
+Institutionen begehrt wird oder der Datenzugang im Rahmen eines
+Auftragsforschungsvorhabens für eine nicht in Absatz 3 genannte
+Institution erfolgt.
 
 
 ## § 12 Anwendung des Bundesgebührengesetzes

@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Verpflichtung der Bundesagentur für Arbeit zur Weiterleitung
-  von Betriebsdaten an die für den Arbeitsschutz zuständigen obersten Landesbehörden
+Title: Verordnung über die Verpflichtung der Bundesagentur für Arbeit zur Weiterleitung von Betriebsdaten an die für den Arbeitsschutz zuständigen obersten Landesbehörden
 jurabk: BDWV
 layout: default
 origslug: bdwv
@@ -27,11 +26,11 @@ worden ist, verordnet das Bundesministerium für Arbeit und Soziales:
 
 ## § 1
 
-Die Bundesagentur für Arbeit leitet die in § 23 Absatz 1 Satz 1 des
-Arbeitsschutzgesetzes genannten Daten auf Verlangen der für den
-Arbeitsschutz zuständigen obersten Landesbehörden an diese jährlich
-mit einheitlichem Stichtag auf maschinell verwertbaren Datenträgern
-oder durch Datenübertragung weiter. Das Nähere wird durch
+Die Bundesagentur für Arbeit leitet die in § 23 Absatz 1 Satz 1
+des Arbeitsschutzgesetzes genannten Daten auf Verlangen der für
+den Arbeitsschutz zuständigen obersten Landesbehörden an diese
+jährlich mit einheitlichem Stichtag auf maschinell verwertbaren
+Datenträgern oder durch Datenübertragung weiter. Das Nähere wird durch
 Verwaltungsvereinbarung geregelt.
 
 

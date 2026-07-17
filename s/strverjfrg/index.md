@@ -23,8 +23,8 @@ Zuletzt geändert durch
 
 (1) Bei der Berechnung der Verjährungsfrist für die Verfolgung von
 Verbrechen, die mit lebenslanger Freiheitsstrafe bedroht sind, bleibt
-die Zeit vom 8. Mai 1945 bis zum 31. Dezember 1949 außer Ansatz. In
-dieser Zeit hat die Verjährung der Verfolgung dieser Verbrechen
+die Zeit vom 8. Mai 1945 bis zum 31. Dezember 1949 außer Ansatz.
+In dieser Zeit hat die Verjährung der Verfolgung dieser Verbrechen
 geruht.
 
 (2) Absatz 1 gilt nicht für Taten, deren Verfolgung beim Inkrafttreten

@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über den Beschluss der Bundesregierung zur Einführung eines
-  nationalen Gedenktages für die Opfer terroristischer Gewalt
+Title: Bekanntmachung über den Beschluss der Bundesregierung zur Einführung eines nationalen Gedenktages für die Opfer terroristischer Gewalt
 jurabk: TGewOpfGedenkBek
 layout: default
 origslug: tgewopfgedenkbek

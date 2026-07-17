@@ -1,7 +1,5 @@
 ---
-Title: Zweihundertzwanzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung
-  von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Flughafen
-  Zürich)
+Title: Zweihundertzwanzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Flughafen Zürich)
 jurabk: LuftVODV 220
 layout: default
 origslug: luftvodv_220
@@ -16,4 +14,7 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BAnz: 2005, Nr 53, 4021
+
+Fundstelle
+:   BAnz: 2005, 4021
 

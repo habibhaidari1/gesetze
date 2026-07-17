@@ -47,51 +47,39 @@ Das Tragen der Uniform kann genehmigt werden für
 1.  festliche Familienereignisse, wie Hochzeiten, Taufen oder Anlässe
     ähnlicher Bedeutung,
 
-
 2.  Bestattungen von Angehörigen, Kameradinnen und Kameraden,
 
-
-3.  festliche Veranstaltungen und öffentliche Gedenkfeiern des Bundes, der
-    Länder und Gemeinden und anderer Körperschaften des öffentlichen
+3.  festliche Veranstaltungen und öffentliche Gedenkfeiern des Bundes,
+    der Länder und Gemeinden und anderer Körperschaften des öffentlichen
     Rechts,
-
 
 4.  Veranstaltungen von Soldatinnen-, Soldaten-, Reservistinnen- und
     Reservistenvereinigungen, zu denen kein Kontaktverbot der Bundeswehr
     besteht,
 
-
 5.  andere repräsentative oder im Interesse der Bundeswehr besonders
     förderungswürdige Veranstaltungen sowie
 
-
 6.  Reisen zu dienstlichen Veranstaltungen nach § 81 des Soldatengesetzes
     einschließlich der Rückreisen.
-
-
-
 
 
 ## § 4 Ausschlusstatbestände
 
 Eine Genehmigung darf nicht erteilt werden für
 
-1.  Veranstaltungen, an denen die frühere Soldatin oder der frühere Soldat
-    beruflich oder ehrenamtlich teilnimmt, mit Ausnahme der
+1.  Veranstaltungen, an denen die frühere Soldatin oder der frühere
+    Soldat beruflich oder ehrenamtlich teilnimmt, mit Ausnahme der
     Veranstaltungen nach § 3 Nr. 4 sowie
-
 
 2.  Anlässe, bei denen auch Soldatinnen und Soldaten der Bundeswehr die
     Uniform nicht tragen dürfen.
 
 
-
-
-
 ## § 5 Antrag, Zuständigkeiten
 
-(1) Die Genehmigung für die in § 3 Nr. 1 bis 5 genannten Anlässe wird
-auf Antrag erteilt. In den Fällen des § 3 Nr. 6 erfolgt die
+(1) Die Genehmigung für die in § 3 Nr. 1 bis 5 genannten Anlässe
+wird auf Antrag erteilt. In den Fällen des § 3 Nr. 6 erfolgt die
 Genehmigung von Amts wegen.
 
 (2) Über Anträge nach § 3 Nr. 1 bis 4, die vor Beendigung des
@@ -104,15 +92,10 @@ den Wohnsitz der Soldatin oder des Soldaten zuständige Landeskommando.
 
 1.  soweit eine Zuständigkeit nach Absatz 2 nicht gegeben ist,
 
-
 2.  wenn die Uniform im Einzelfall im Ausland getragen werden soll und
-
 
 3.  wenn in den Fällen des Absatzes 2 Satz 2 Anträge von Generalen und
     Admiralen gestellt werden.
-
-
-
 
 (4) In den Fällen des § 3 Nr. 6 entscheidet die für die Zuziehung im
 Einzelfall zuständige Stelle.
@@ -131,9 +114,9 @@ erteilt, im Übrigen jeweils nur für einen bestimmten Anlass. In den
 Fällen des § 3 Nr. 1 bis 5 umfasst die Genehmigung auch die Hin- und
 Rückreise zu dem jeweiligen Anlass.
 
-(3) Die Genehmigung wird nur erteilt, wenn die Antragstellerin oder
-der Antragsteller und in den Fällen des § 3 Nr. 5 und des § 5 Abs. 3
-Nr. 2 auch die Art und die voraussichtlichen Umstände der
+(3) Die Genehmigung wird nur erteilt, wenn die Antragstellerin
+oder der Antragsteller und in den Fällen des § 3 Nr. 5 und des §
+5 Abs. 3 Nr. 2 auch die Art und die voraussichtlichen Umstände der
 Veranstaltung die Gewähr bieten, dass das Ansehen der Bundeswehr in
 der Öffentlichkeit nicht beeinträchtigt und die Trageberechtigung
 nicht missbraucht wird.

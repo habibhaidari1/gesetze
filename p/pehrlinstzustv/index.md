@@ -15,6 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1996, 1487
 
+Geändert durch
+:   Art. 6 V v. 6.7.2022 I 1102
 
 
 ## Eingangsformel
@@ -32,13 +34,9 @@ Arzneimittelgesetzes ausgenommen sind
 1.  homöopathische Arzneimittel, die aus Blut gewonnene Blutbestandteile
     oder Zubereitungen aus Blutbestandteilen sind oder enthalten,
 
-
 2.  Arzneimittel aus Blut oder Blutbestandteilen von Tieren, soweit es
-    sich nicht um Zubereitungen von Blutgerinnungsfaktoren, Seren oder
-    Testseren handelt.
-
-
-
+    sich nicht um Zubereitungen von Blutgerinnungsfaktoren oder Seren
+    handelt.
 
 
 ## § 2
@@ -49,12 +47,8 @@ Das Paul-Ehrlich-Institut ist zusätzlich zu den Zuständigkeiten nach §
 1.  Arzneimittel, die gentechnologisch hergestellte Blutgerinnungsfaktoren
     enthalten,
 
-
 2.  BCG-Bakterien enthaltende Arzneimittel, die zur unspezifischen
     Stimulierung des Immunsystems bestimmt sind.
-
-
-
 
 
 ## § 3

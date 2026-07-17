@@ -21,17 +21,17 @@ Geändert durch
 
 ## Eingangsformel
 
-Auf Grund des § 226 Absatz 7 des Versicherungsaufsichtsgesetzes vom 1.
-April 2015 (BGBl. I S. 434) verordnet das Bundesministerium der
+Auf Grund des § 226 Absatz 7 des Versicherungsaufsichtsgesetzes vom
+1\. April 2015 (BGBl. I S. 434) verordnet das Bundesministerium der
 Finanzen im Benehmen mit dem Bundesministerium der Justiz und für
 Verbraucherschutz:
 
 
 ## § 1 Sicherungsvermögen
 
-(1) Im Sicherungsfonds ist ein Sicherungsvermögen bereitzustellen. Der
-Umfang dieses Sicherungsvermögens soll 1 Promille der Summe der
-versicherungstechnischen Netto-Rückstellungen aller dem
+(1) Im Sicherungsfonds ist ein Sicherungsvermögen bereitzustellen.
+Der Umfang dieses Sicherungsvermögens soll 1 Promille der Summe
+der versicherungstechnischen Netto-Rückstellungen aller dem
 Sicherungsfonds angeschlossenen Versicherungsunternehmen betragen.
 
 (2) Die Höhe des Sicherungsvermögens ist jährlich neu zu beziffern.
@@ -51,22 +51,22 @@ vorhanden, im zuletzt aufgestellten Jahresabschluss ausgewiesen sind.
 beteiligt. Die Höhe der Beteiligung ist nach Maßgabe der Absätze 2 bis
 8 zu ermitteln und jährlich neu zu beziffern (Soll-Beteiligung).
 
-(2) Die Soll-Beteiligung eines Mitglieds beträgt 1 Promille seiner im
-Jahresabschluss des jeweiligen Vorjahres ausgewiesenen
+(2) Die Soll-Beteiligung eines Mitglieds beträgt 1 Promille
+seiner im Jahresabschluss des jeweiligen Vorjahres ausgewiesenen
 versicherungstechnischen Netto-Rückstellungen, vervielfacht mit einem
 individuellen Risikofaktor und einem einheitlichen Korrekturfaktor.
 
 (3) Für die Berechnung der Soll-Beteiligung eines Mitglieds werden
-versicherungstechnische Netto-Rückstellungen für Verpflichtungen aus
-Lebensversicherungsverträgen, deren Wert oder Ertrag sich nach
-Kapitalanlagen bestimmt, für die der Versicherungsnehmer das Risiko
-trägt oder bei denen die Leistung indexgebunden ist, mit einem Viertel
-ihres Betrages berücksichtigt. Die Rückstellung für
+versicherungstechnische Netto-Rückstellungen für Verpflichtungen
+aus Lebensversicherungsverträgen, deren Wert oder Ertrag sich
+nach Kapitalanlagen bestimmt, für die der Versicherungsnehmer das
+Risiko trägt oder bei denen die Leistung indexgebunden ist, mit
+einem Viertel ihres Betrages berücksichtigt. Die Rückstellung für
 Beitragsrückerstattung, soweit sie nicht auf bereits festgelegte
-Überschussanteile entfällt und soweit sie gemäß § 140 Absatz 1 Satz 2
-des Versicherungsaufsichtsgesetzes im Interesse der Versicherten zur
-Abwendung eines Notstandes herangezogen werden kann, ist nicht zu
-berücksichtigen.
+Überschussanteile entfällt und soweit sie gemäß § 140 Absatz 1 Satz
+2 des Versicherungsaufsichtsgesetzes im Interesse der Versicherten
+zur Abwendung eines Notstandes herangezogen werden kann, ist nicht
+zu berücksichtigen.
 
 (4) Für die Ermittlung der Sollbeteiligung werden die Mitglieder in
 zwei Gruppen eingeteilt. Der Gruppe A werden Unternehmen zugeordnet,
@@ -76,17 +76,17 @@ Alle übrigen Unternehmen werden der Gruppe B zugeordnet.
 
 (5) Der individuelle Risikofaktor eines Unternehmens richtet sich nach
 seinem Risikomaß. Als Risikomaß gilt für Unternehmen der Gruppe A das
-Verhältnis der Eigenmittel gemäß § 214 Absatz 1 Satz 1 Nummer 1 bis 7
-in Verbindung mit Absatz 2 bis 8 des Versicherungsaufsichtsgesetzes zu
-der Solvabilitätskapitalanforderung gemäß §§ 9 bis 14 oder § 17 der
-Kapitalausstattungs-Verordnung vom 18. April 2016 (BGBl. I S. 795) in
-der jeweils geltenden Fassung. Für Unternehmen der Gruppe B gilt als
-Risikomaß das Verhältnis der Eigenmittel gemäß § 89 Absatz 3 des
+Verhältnis der Eigenmittel gemäß § 214 Absatz 1 Satz 1 Nummer 1 bis
+7 in Verbindung mit Absatz 2 bis 8 des Versicherungsaufsichtsgesetzes
+zu der Solvabilitätskapitalanforderung gemäß §§ 9 bis 14 oder § 17
+der Kapitalausstattungs-Verordnung vom 18. April 2016 (BGBl. I S. 795)
+in der jeweils geltenden Fassung. Für Unternehmen der Gruppe B gilt
+als Risikomaß das Verhältnis der Eigenmittel gemäß § 89 Absatz 3 des
 Versicherungsaufsichtsgesetzes zu der Solvabilitätskapitalanforderung
-gemäß § 96 des Versicherungsaufsichtsgesetzes. Anpassungen nach den §§
-351 und 352 des Versicherungsaufsichtsgesetzes bleiben dabei
-unberücksichtigt. Wird eine andere Methode zur Beurteilung der
-Solvabilität von der Aufsichtsbehörde anerkannt, so kann der
+gemäß § 96 des Versicherungsaufsichtsgesetzes. Anpassungen nach
+den §§ 351 und 352 des Versicherungsaufsichtsgesetzes bleiben
+dabei unberücksichtigt. Wird eine andere Methode zur Beurteilung
+der Solvabilität von der Aufsichtsbehörde anerkannt, so kann der
 Sicherungsfonds nach billigem Ermessen abweichend von den vorstehenden
 Regelungen den Risikofaktor auf der Grundlage dieser Methode
 ermitteln.
@@ -97,23 +97,19 @@ drei Kategorien unterteilt:
 
 1.  Mitglieder mit günstigem Risikomaß (Kategorie 1),
 
-
 2.  Mitglieder mit ungünstigem Risikomaß (Kategorie 3) sowie
-
 
 3.  übrige Mitglieder (Kategorie 2).
 
-
-
 Der Kategorie 1 gehören die Mitglieder mit dem günstigsten Risikomaß
-an, deren versicherungstechnische Netto-Rückstellungen in der Summe 20
-Prozent der versicherungstechnischen Netto-Rückstellungen aller
+an, deren versicherungstechnische Netto-Rückstellungen in der Summe
+20 Prozent der versicherungstechnischen Netto-Rückstellungen aller
 Mitglieder betragen. Der Kategorie 3 gehören die Mitglieder mit dem
 ungünstigsten Risikomaß an, deren versicherungstechnische Netto-
 Rückstellungen in der Summe 20 Prozent der versicherungstechnischen
-Netto-Rückstellungen aller Mitglieder betragen. Das letzte Mitglied in
-den Rangfolgen beginnend mit dem günstigsten oder ungünstigsten
-Risikomaß, bei dem durch die Zurechnung seiner
+Netto-Rückstellungen aller Mitglieder betragen. Das letzte
+Mitglied in den Rangfolgen beginnend mit dem günstigsten oder
+ungünstigsten Risikomaß, bei dem durch die Zurechnung seiner
 versicherungstechnischen Netto-Rückstellungen der Anteil von 20
 Prozent jeweils überschritten wird, gehört noch der Kategorie 1 oder 3
 an. Für die Ermittlung der Rangfolge gilt Absatz 3 entsprechend.
@@ -142,8 +138,8 @@ Sicherungsfonds.
 
 (2) Der Wert eines Anteils am Sicherungsvermögen ergibt sich zu jedem
 Bewertungsstichtag aus dem Zeitwert des Sicherungsvermögens, dividiert
-durch die Zahl der den Mitgliedern des Sicherungsfonds bis zu diesem
-Zeitpunkt insgesamt zugeordneten Anteile. Bei der ersten beim
+durch die Zahl der den Mitgliedern des Sicherungsfonds bis zu
+diesem Zeitpunkt insgesamt zugeordneten Anteile. Bei der ersten beim
 Sicherungsfonds eingehenden Beitragszahlung wird einer Beitragszahlung
 von einem Euro ein Anteil zugeordnet.
 
@@ -191,11 +187,11 @@ Vermeidung von Härten eine Beitragszahlung in Raten vereinbart werden.
 
 ## § 5 Sonderbeiträge und Kreditaufnahme
 
-(1) Genügen die Mittel des Sicherungsfonds nicht zur Durchführung
-seiner gesetzlichen Aufgaben, sind Sonderbeiträge zu erheben. Die
-Sonderbeiträge müssen unter Berücksichtigung der erwarteten
-Mittelzuflüsse, insbesondere der Prämieneinnahmen und
-Veräußerungserlöse, sowie der Fehlbeträge der übernommenen
+(1) Genügen die Mittel des Sicherungsfonds nicht zur
+Durchführung seiner gesetzlichen Aufgaben, sind Sonderbeiträge
+zu erheben. Die Sonderbeiträge müssen unter Berücksichtigung
+der erwarteten Mittelzuflüsse, insbesondere der Prämieneinnahmen
+und Veräußerungserlöse, sowie der Fehlbeträge der übernommenen
 Versicherungsverträge und der entstehenden Verwaltungs- und sonstigen
 Kosten gewährleisten, dass der Sicherungsfonds über ausreichende
 Mittel zur Erfüllung seiner gesetzlichen Aufgaben verfügt.
@@ -206,8 +202,8 @@ aller Mitglieder begrenzt. Die Sonderbeiträge können in mehreren
 Tranchen erhoben werden. Für einen Sicherungsfall darf nicht mehr als
 1 Promille der Summe der versicherungstechnischen Netto-Rückstellungen
 aller Mitglieder als Sonderbeitrag erhoben werden, wobei die
-versicherungstechnischen Netto-Rückstellungen des nach § 222 Absatz 7
-des Versicherungsaufsichtsgesetzes ausgeschiedenen Mitglieds außer
+versicherungstechnischen Netto-Rückstellungen des nach § 222 Absatz
+7 des Versicherungsaufsichtsgesetzes ausgeschiedenen Mitglieds außer
 Betracht bleiben.
 
 (3) Zur Zahlung von Sonderbeiträgen sind diejenigen Mitglieder
@@ -226,18 +222,18 @@ Zeitpunkt der Zahlung Anteile am Sicherungsfonds zugeordnet.
 
 (6) Der Sicherungsfonds kann ein Mitglied mit Zustimmung der
 Aufsichtsbehörde ganz oder zum Teil von der Zahlung eines
-Sonderbeitrags befreien, wenn ansonsten die Voraussetzungen des § 314
-Absatz 1 Satz 1 des Versicherungsaufsichtsgesetzes erfüllt wären. Die
-Sonderbeiträge der anderen Mitglieder erhöhen sich in diesem Fall
+Sonderbeitrags befreien, wenn ansonsten die Voraussetzungen des §
+314 Absatz 1 Satz 1 des Versicherungsaufsichtsgesetzes erfüllt wären.
+Die Sonderbeiträge der anderen Mitglieder erhöhen sich in diesem Fall
 entsprechend dem Verhältnis ihrer Soll-Beteiligungen untereinander.
 
-(7) Reichen die Sonderbeiträge nicht aus, kann der Sicherungsfonds
-Kredite aufnehmen, um den gemäß § 222 Absatz 4 des
-Versicherungsaufsichtsgesetzes zu ermittelnden erforderlichen Betrag
-aufzubringen. Als Kredite gelten auch Mittel, die dem Sicherungsfonds
-im Falle der Übertragung der Aufgaben und Befugnisse des
-Sicherungsfonds auf eine juristische Person des Privatrechts gemäß §
-224 Absatz 1 des Versicherungsaufsichtsgesetzes aus dem freien
+(7) Reichen die Sonderbeiträge nicht aus, kann der
+Sicherungsfonds Kredite aufnehmen, um den gemäß § 222 Absatz 4
+des Versicherungsaufsichtsgesetzes zu ermittelnden erforderlichen
+Betrag aufzubringen. Als Kredite gelten auch Mittel, die dem
+Sicherungsfonds im Falle der Übertragung der Aufgaben und Befugnisse
+des Sicherungsfonds auf eine juristische Person des Privatrechts
+gemäß § 224 Absatz 1 des Versicherungsaufsichtsgesetzes aus dem freien
 Vermögen dieser juristischen Person des Privatrechts zur Verfügung
 gestellt werden.
 
@@ -254,8 +250,8 @@ Lebensversicherungs-AG bleiben bei der Berechnung der Beiträge der
 ## § 7 Erhebung der Beiträge
 
 (1) Die Jahresbeiträge (§ 3) sind spätestens zum 31. Oktober eines
-jeden Jahres, die Sonderbeiträge (§ 5) bei Bedarf zu erheben. Ihre
-Höhe ist vom Sicherungsfonds zu ermitteln und durch Bescheid
+jeden Jahres, die Sonderbeiträge (§ 5) bei Bedarf zu erheben.
+Ihre Höhe ist vom Sicherungsfonds zu ermitteln und durch Bescheid
 festzusetzen.
 
 (2) Jeder Erhebung von Jahresbeiträgen geht ein Bewertungsstichtag
@@ -268,8 +264,8 @@ August zur Verfügung zu stellen.
 
 (4) Die Richtigkeit und Vollständigkeit der dem Sicherungsfonds zur
 Verfügung gestellten Daten ist durch eine schriftliche Erklärung des
-Vorstandes des jeweiligen Mitglieds dem Sicherungsfonds gegenüber zu
-bestätigen.
+Vorstandes des jeweiligen Mitglieds dem Sicherungsfonds gegenüber
+zu bestätigen.
 
 (5) Die Ordnungsmäßigkeit der Ermittlung der dem Sicherungsfonds zur
 Verfügung gestellten Daten ist durch einen uneingeschränkten Vermerk
@@ -303,19 +299,19 @@ Wird das Sicherungsvermögen für die Sanierung eines übernommenen
 Versicherungsbestandes verwendet, so ist das hierfür eingesetzte
 Kapital aus den Überschüssen des übernommenen Versicherungsbestandes
 an die Mitglieder im Verhältnis ihrer Beteiligungen am Kapitaleinsatz
-zurückzuzahlen, sobald die Aufsichtsbehörde festgestellt hat, dass die
-Sanierung des Bestandes abgeschlossen ist. Der Kapitaleinsatz des nach
-§ 222 Absatz 7 des Versicherungsaufsichtsgesetzes ausgeschiedenen
+zurückzuzahlen, sobald die Aufsichtsbehörde festgestellt hat, dass
+die Sanierung des Bestandes abgeschlossen ist. Der Kapitaleinsatz des
+nach § 222 Absatz 7 des Versicherungsaufsichtsgesetzes ausgeschiedenen
 Mitglieds wird hierbei nicht berücksichtigt.
 
 
 ## § 10 Ausscheiden aus dem Sicherungsfonds
 
-(1) Scheidet ein Mitglied aus dem Sicherungsfonds aus, wird ihm der
-Zeitwert seiner Ist-Beteiligung zum Ausscheidungszeitpunkt ausbezahlt.
-Zur Abgeltung der Verwaltungskosten in Zusammenhang mit dem
-Ausscheiden des Mitglieds wird ein pauschaler Abschlag in Höhe von 1
-Prozent des zurückzuzahlenden Betrages erhoben.
+(1) Scheidet ein Mitglied aus dem Sicherungsfonds aus, wird ihm
+der Zeitwert seiner Ist-Beteiligung zum Ausscheidungszeitpunkt
+ausbezahlt. Zur Abgeltung der Verwaltungskosten in Zusammenhang mit
+dem Ausscheiden des Mitglieds wird ein pauschaler Abschlag in Höhe von
+1 Prozent des zurückzuzahlenden Betrages erhoben.
 
 (2) Abweichend von Absatz 1 erfolgt keine Auszahlung, wenn ein
 Mitglied aus dem Sicherungsfonds ausscheidet, weil die Erlaubnis

@@ -16,15 +16,13 @@ Fundstelle
 :   BGBl I: 1970, 234
 
 
-
 ## Eingangsformel
 
-Auf Grund des § 35 Abs. 1 Satz 1 Nr. 3 der Bundesdisziplinarordnung in
-der Fassung der Bekanntmachung vom 20. Juli 1967 (Bundesgesetzbl. I S.
-750, 984),
-zuletzt geändert durch das Fünfte Gesetz zur Änderung
+Auf Grund des § 35 Abs. 1 Satz 1 Nr. 3 der Bundesdisziplinarordnung
+in der Fassung der Bekanntmachung vom 20. Juli 1967 (Bundesgesetzbl.
+I S. 750, 984), *zuletzt geändert durch das Fünfte Gesetz zur Änderung
 beamtenrechtlicher und besoldungsrechtlicher Vorschriften vom 19. Juli
-1968 (Bundesgesetzblatt I S. 848),              ordne ich an:
+1968 (Bundesgesetzblatt I S. 848),* ordne ich an:
 
 
 ## I.
@@ -32,25 +30,15 @@ beamtenrechtlicher und besoldungsrechtlicher Vorschriften vom 19. Juli
 Für die Beamten der Deutschen Bibliothek sind im Sinne der
 Bundesdisziplinarordnung Einleitungsbehörden:
 
-1.  für den Generaldirektor der Deutschen Bibliothek und den Direktor bei
-    der Deutschen Bibliothek (als ständigen Vertreter des
+1.  für den Generaldirektor der Deutschen Bibliothek und den Direktor
+    bei der Deutschen Bibliothek (als ständigen Vertreter des
     Generaldirektors):
 
-    *   der Bundesminister des Innern,
-
-
-
-
+    -   der Bundesminister des Innern,
 
 2.  für die übrigen Beamten der Deutschen Bibliothek:
 
-    *   der Generaldirektor der Deutschen Bibliothek.
-
-
-
-
-
-
+    -   der Generaldirektor der Deutschen Bibliothek.
 
 
 ## II.

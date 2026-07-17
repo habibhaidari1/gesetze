@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Geschäftsordnung des Ausschusses für medizinische Ausstattung
-  in der Seeschifffahrt
+Title: Verordnung über die Geschäftsordnung des Ausschusses für medizinische Ausstattung in der Seeschifffahrt
 jurabk: GO-MEDASV
 layout: default
 origslug: go-medasv
@@ -37,9 +36,8 @@ erhält die aus der Anlage ersichtliche Geschäftsordnung.
 
 Diese Verordnung tritt am 1. August 2013 in Kraft.
 
-(zu § 1)
 
-## Anlage Geschäftsordnung des Ausschusses für medizinische Ausstattung in der Seeschifffahrt
+## Anlage (zu § 1)Geschäftsordnung des Ausschusses für medizinische Ausstattung in der Seeschifffahrt
 
 (Fundstelle: BGBl. I 2013, 2579 - 2580)
 

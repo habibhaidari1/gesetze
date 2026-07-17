@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl II: 1969, 1585
 
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
@@ -40,11 +39,10 @@ Zur Durchführung des Artikels 72 Abs. 2 des Wiener Übereinkommens über
 konsularische Beziehungen vom 24. April 1963 wird die Bundesregierung
 ermächtigt,
 
-a)  konsularischen Vertretungen und ihren Mitgliedern auf der Grundlage
-    besonderer Vereinbarung mit dem Entsendestaat im Wege der
+a)  konsularischen Vertretungen und ihren Mitgliedern auf der
+    Grundlage besonderer Vereinbarung mit dem Entsendestaat im Wege der
     Rechtsverordnung weitergehende konsularische Vorrechte und Befreiungen
     nach Maßgabe der Gegenseitigkeit zu gewähren;
-
 
 b)  durch Rechtsverordnung zur Herstellung und Gewährleistung der
     Gegenseitigkeit zu bestimmen, daß die in dem Übereinkommen
@@ -52,18 +50,15 @@ b)  durch Rechtsverordnung zur Herstellung und Gewährleistung der
     konsularischen Vertretungen und deren Mitgliedern in der
     Bundesrepublik Deutschland nicht oder nicht in vollem Umfang gewährt
     werden, soweit die Entsendestaaten das Übereinkommen auf die bei ihnen
-    bestehende konsularische Vertretung der Bundesrepublik Deutschland und
-    ihre Mitglieder einschränkend anwenden. Die Bundesregierung wird
-    insbesondere ermächtigt, die Tätigkeit konsularischer Vertretungen und
-    ihrer Mitglieder in der Bundesrepublik Deutschland durch
-    Rechtsverordnung der Art oder Wirkung nach gleichen Einschränkungen zu
-    unterwerfen, die für die entsprechende Tätigkeit der konsularischen
-    Vertretung der Bundesrepublik Deutschland im Entsendestaat gelten. Die
-    Rechtsverordnung kann Bestimmungen über das Verfahren und über den
+    bestehende konsularische Vertretung der Bundesrepublik Deutschland
+    und ihre Mitglieder einschränkend anwenden. Die Bundesregierung wird
+    insbesondere ermächtigt, die Tätigkeit konsularischer Vertretungen
+    und ihrer Mitglieder in der Bundesrepublik Deutschland durch
+    Rechtsverordnung der Art oder Wirkung nach gleichen Einschränkungen
+    zu unterwerfen, die für die entsprechende Tätigkeit der konsularischen
+    Vertretung der Bundesrepublik Deutschland im Entsendestaat gelten.
+    Die Rechtsverordnung kann Bestimmungen über das Verfahren und über den
     Vollzug der vorgesehenen Maßnahmen enthalten.
-
-
-
 
 
 ## Art 3

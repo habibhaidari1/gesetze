@@ -16,11 +16,10 @@ Fundstelle
 :   BGBl I: 2003, 2471, 2475
 
 
-
 ## § 1 Aufhebung der Entschuldung
 
-Die Entschuldung nach dem Gesetz über die Entschuldung der Klein- und
-Mittelbauern beim Eintritt in Landwirtschaftliche
+Die Entschuldung nach dem Gesetz über die Entschuldung der
+Klein- und Mittelbauern beim Eintritt in Landwirtschaftliche
 Produktionsgenossenschaften vom 17. Februar 1954 der Deutschen
 Demokratischen Republik (GBl. I Nr. 23 S. 224) wird mit Wirkung vom 1.
 Januar 2005 aufgehoben. Satz 1 gilt auch für Entschuldungen, die nach

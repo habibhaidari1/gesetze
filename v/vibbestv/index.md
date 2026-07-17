@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2015, 1437
 
 Zuletzt geändert durch
-:   Art. 5 Abs. 23 G v. 21.6.2019 I 846
+:   Art. 15 Abs. 5 G v. 3.7.2026 I Nr. 199
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war.
@@ -25,8 +25,8 @@ Mittelbare änderung durch
 ## Eingangsformel
 
 Auf Grund des § 15 Absatz 5 des Vermögensanlagengesetzes, der durch
-Artikel 2 Nummer 16 Buchstabe b des Gesetzes vom 3. Juli 2015 (BGBl. I
-S. 1114) eingefügt worden ist, verordnet das Bundesministerium der
+Artikel 2 Nummer 16 Buchstabe b des Gesetzes vom 3. Juli 2015 (BGBl.
+I S. 1114) eingefügt worden ist, verordnet das Bundesministerium der
 Finanzen im Einvernehmen mit dem Bundesministerium der Justiz und für
 Verbraucherschutz:
 
@@ -40,12 +40,13 @@ Unterzeichnung durch den Anleger nach § 15 Absatz 3 des Gesetzes in
 gleichwertiger Art und Weise zu ersetzen.
 
 (2) Fernkommunikationsmittel im Sinne des § 15 Absatz 4 des Gesetzes
-sind Kommunikationsmittel, die zur Anbahnung oder zum Abschluss eines
-Vertrags über eine Vermögensanlage zwischen einem Anleger und einem
-Anbieter oder Emittenten eingesetzt werden können, ohne dass die
-Vertragsparteien gleichzeitig körperlich anwesend sind, wie
-Telefonanrufe, Telekopien, E-Mails, über den Mobilfunkdienst
-versendete Nachrichten (SMS), Telemedien sowie Internetseiten.
+sind Kommunikationsmittel, die zur Anbahnung oder zum Abschluss
+eines Vertrags über eine Vermögensanlage zwischen einem Anleger
+und einem Anbieter oder Emittenten eingesetzt werden können, ohne
+dass die Vertragsparteien gleichzeitig körperlich anwesend sind,
+wie Telefonanrufe, Telekopien, E-Mails, über den Mobilfunkdienst
+versendete Nachrichten (SMS), digitale Dienste nach § 1 Absatz 4
+Nummer 1 des Digitale-Dienste-Gesetzes sowie Internetseiten.
 
 
 ## § 2 Gleichwertigkeit der Bestätigung
@@ -63,16 +64,10 @@ gleichwertig, wenn
         Namen sowie um den Vor- und Familiennamen der natürlichen Person, die
         für diese handelt, unter Nennung von Ort und Datum ergänzt wird und
 
-
     b)  das elektronische Dokument vom Anleger oder, wenn der Anleger eine
         juristische Person oder eine andere rechtsfähige Personenvereinigung
         ist, von deren Vertreter mit seiner qualifizierten elektronischen
-        Signatur versehen oder von dem De-Mail-Konto des Anlegers nach § 5
-        Absatz 5 des De-Mail-Gesetzes versandt wird, oder
-
-
-
-
+        Signatur versehen wird, oder
 
 2.  das Vermögensanlagen-Informationsblatt auf einer Internetseite des
     Emittenten oder Anbieters der Vermögensanlage durch die eigenständige
@@ -83,69 +78,46 @@ gleichwertig, wenn
 
         aa) des Vor- und Familiennamens,
 
-
         bb) des Geburtsorts,
 
-
         cc) des Geburtsdatums,
-
 
         dd) der Nummer des Personalausweises oder des Reisepasses unter Angabe der
             ausstellenden Behörde,
 
-
         ee) der Anschrift sowie
 
-
         ff) der E-Mail-Adresse oder der Telefonnummer,
-
-
-
-
 
     b)  bei Anlegern, die juristische Personen oder andere rechtsfähige
         Personenvereinigungen sind:
 
         aa) der Firma oder des Namens,
 
-
         bb) des Datums der Gründung,
-
 
         cc) sofern vorhanden, der Registernummer unter Angabe der zuständigen
             registerführenden Stelle,
 
-
         dd) des Sitzes oder der Geschäftsanschrift,
 
-
         ee) der E-Mail-Adresse oder der Telefonnummer sowie
-
 
         ff) hinsichtlich der natürlichen Person, die für die juristische Person
             oder andere rechtsfähige Personenvereinigung handelt, die in Buchstabe
             a Doppelbuchstabe aa bis dd genannten Angaben.
 
-
-
-
-
-
-
-
-
-
 (2) Bei Zweifeln über die Richtigkeit der Angaben zur Identität des
 Anlegers oder der für den Anleger handelnden Person bei Bestätigungen
 nach Absatz 1 Nummer 2 hat sich der Emittent oder der Anbieter oder
-die Internet-Dienstleistungsplattform, die die Vermögensanlage im Wege
-der Anlageberatung oder Anlagevermittlung vermittelt, einen geeigneten
-Nachweis über die Angaben über den Anleger oder die für den Anleger
-handelnde Person zum Geburtsort, zum Geburtsdatum und zur Nummer des
-Personalausweises oder des Reisepasses einschließlich der
-ausstellenden Behörde zukommen zu lassen. Ein geeigneter Nachweis
-liegt vor, wenn der Anleger oder die für den Anleger handelnde Person
-den Angaben in der Formularmaske nach Absatz 1 Nummer 2 einen
+die Internet-Dienstleistungsplattform, die die Vermögensanlage im
+Wege der Anlageberatung oder Anlagevermittlung vermittelt, einen
+geeigneten Nachweis über die Angaben über den Anleger oder die für
+den Anleger handelnde Person zum Geburtsort, zum Geburtsdatum und
+zur Nummer des Personalausweises oder des Reisepasses einschließlich
+der ausstellenden Behörde zukommen zu lassen. Ein geeigneter Nachweis
+liegt vor, wenn der Anleger oder die für den Anleger handelnde
+Person den Angaben in der Formularmaske nach Absatz 1 Nummer 2 einen
 Identitätsnachweis nach § 18 des Personalausweisgesetzes, nach § 12
 des eID-Karte-Gesetzes oder nach § 78 Absatz 5 des Aufenthaltsgesetzes
 oder eine Ablichtung des Personalausweises oder Reisepasses beifügt.

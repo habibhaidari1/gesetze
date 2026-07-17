@@ -29,14 +29,14 @@ Bundesrats und des Reichstags, was folgt:
 ## (XXXX)
 
 (1) Die Fahrbetriebsmittel der Eisenbahnen, welche Personen oder Güter
-im öffentlichen Verkehr befördern, sind von der ersten Einstellung in
-den Betrieb bis zur endgültigen Ausscheidung aus den Beständen der
+im öffentlichen Verkehr befördern, sind von der ersten Einstellung
+in den Betrieb bis zur endgültigen Ausscheidung aus den Beständen der
 Pfändung nicht unterworfen.
 
 (2) Durch diese Bestimmung werden dieselben im Falle des
 Insolvenzverfahrens von der Insolvenzmasse nicht ausgeschlossen.
 
-(3) \*) Auf die Fahrbetriebsmittel ausländischer Eisenbahnen findet
+(3) *) Auf die Fahrbetriebsmittel ausländischer Eisenbahnen findet
 die Bestimmung des ersten Absatzes nur insoweit Anwendung, als die
 Gegenseitigkeit verbürgt ist.
 

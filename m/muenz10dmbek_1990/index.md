@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen
-  Mark (Gedenkmünze Kaiser Friedrich I. Barbarossa)
+Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen Mark (Gedenkmünze Kaiser Friedrich I. Barbarossa)
 jurabk: Münz10DMBek 1990
 layout: default
 origslug: m_nz10dmbek_1990
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 1990, 860
-
 
 
 ## (XXXX)
@@ -41,67 +39,24 @@ schützenden glatten Randstab umgeben.
 zeitgenössischen Darstellung.
 Die Umschrift lautet:
 
-*
-    *   ". KAISER FRIEDRICH I. BARBAROSSA .
+-   -   ". KAISER FRIEDRICH I. BARBAROSSA .
 
-        *
-            *
-                *
-                    *
-                        * 1122 + 1190".
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+        -   -   -   -   * 1122 + 1190".
 
 (6) Die Wertseite trägt einen Adler, die Jahreszahl 1990, das
 Münzzeichen "F" der Staatlichen Münze Stuttgart und die Umschrift:
 
-*
-    *   "BUNDESREPUBLIK DEUTSCHLAND
+-   -   "BUNDESREPUBLIK DEUTSCHLAND
 
-        *   10 DEUTSCHE MARK".
-
-
-
-
-
-
-
-
-
+        -   10 DEUTSCHE MARK".
 
 (7) Die Jahreszahl 1990 ist Teil der Umschrift. Das Münzzeichen "F"
-befindet sich im Feld zwischen dem linken Fang des Adlers und dem Wort
-"DEUTSCHE".
+befindet sich im Feld zwischen dem linken Fang des Adlers und dem
+Wort "DEUTSCHE".
 
 (8) Der glatte Münzrand enthält in vertiefter Prägung die Inschrift:
 
-*
-    *   "HONOR IMPERII".
-
-
-
-
-
-
+-   -   "HONOR IMPERII".
 
 (9) Zwischen Ende und Anfang der Randschrift sind drei stilisierte
 Stauferadler eingeprägt.
@@ -112,4 +67,6 @@ Stauferadler eingeprägt.
 ## (XXXX) Abbildung der Münze
 
 (Fundstelle: BGBl. I 1990, 860)
+
 ![bgbl1_1990_j0860_0010.jpg](bgbl1_1990_j0860_0010.jpg)
+

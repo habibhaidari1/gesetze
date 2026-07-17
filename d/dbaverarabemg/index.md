@@ -1,8 +1,5 @@
 ---
-Title: Gesetz zu dem Abkommen vom 9. April 1995 zwischen der Bundesrepublik Deutschland
-  und den Vereinigten Arabischen Emiraten zur Vermeidung der Doppelbesteuerung auf
-  dem Gebiet der Steuern vom Einkommen und vom Vermögen und zur Belebung der wirtschaftlichen
-  Beziehungen
+Title: Gesetz zu dem Abkommen vom 9. April 1995 zwischen der Bundesrepublik Deutschland und den Vereinigten Arabischen Emiraten zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen und zur Belebung der wirtschaftlichen Beziehungen
 jurabk: DBAVerArabEmG
 layout: default
 origslug: dbaverarabemg
@@ -17,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl II: 1996, 518
-
 
 
 ## Eingangsformel
@@ -39,17 +35,17 @@ veröffentlicht.
 
 ## Art 2
 
-Soweit das Abkommen auf Grund seines Artikels 29 Abs. 2 und der Nr. 9
-des Protokolls zum Abkommen für die Zeit vor dem Inkrafttreten des
+Soweit das Abkommen auf Grund seines Artikels 29 Abs. 2 und der Nr.
+9 des Protokolls zum Abkommen für die Zeit vor dem Inkrafttreten des
 Abkommens anzuwenden ist, sind bereits ergangene Steuerfestsetzungen
 zu ändern oder aufzuheben. Steuerfestsetzungen sowie ihre Aufhebung
 und Änderung sind insoweit auch zulässig, wenn die Festsetzungsfrist
 abgelaufen ist; dies gilt nur bis zum Ablauf des vierten
 Kalenderjahrs, das auf das Kalenderjahr folgt, in dem das Abkommen in
 Kraft getreten ist. Soweit sich bis zum Zeitpunkt des Inkrafttretens
-des Abkommens unter Berücksichtigung der jeweiligen Besteuerung in der
-Bundesrepublik Deutschland und in den Vereinigten Arabischen Emiraten
-insgesamt eine höhere Belastung ergibt, als sie nach den
+des Abkommens unter Berücksichtigung der jeweiligen Besteuerung in
+der Bundesrepublik Deutschland und in den Vereinigten Arabischen
+Emiraten insgesamt eine höhere Belastung ergibt, als sie nach den
 Rechtsvorschriften vor dem Inkrafttreten des Abkommens bestand, wird
 der Steuermehrbetrag nicht festgesetzt.
 
@@ -65,7 +61,7 @@ Zustimmung des Bundesrates durch Rechtsverordnung in Kraft zu setzen.
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 
-(2) Der Tag, an dem das Abkommen nach seinem Artikel 29 Abs. 2 sowie
-das Protokoll in Kraft treten, ist im Bundesgesetzblatt
+(2) Der Tag, an dem das Abkommen nach seinem Artikel 29 Abs. 2
+sowie das Protokoll in Kraft treten, ist im Bundesgesetzblatt
 bekanntzugeben.
 

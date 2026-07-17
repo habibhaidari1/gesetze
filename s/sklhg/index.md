@@ -22,7 +22,6 @@ Zuletzt geändert durch
 ## § 1 (weggefallen)
 
 
-
 ## § 2
 
 Wer Sklavenhandel betreibt oder bei der diesem Handel dienenden
@@ -32,5 +31,4 @@ Strafe Freiheitsstrafe von drei Monaten bis zu fünf Jahren.
 
 
 ## (XXXX) §§ 3 bis 5
-
 

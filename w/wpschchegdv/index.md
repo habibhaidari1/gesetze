@@ -1,6 +1,5 @@
 ---
-Title: Verordnung zur Durchführung und Ergänzung des Gesetzes zum Schutze des Wappens
-  der Schweizerischen Eidgenossenschaft
+Title: Verordnung zur Durchführung und Ergänzung des Gesetzes zum Schutze des Wappens der Schweizerischen Eidgenossenschaft
 jurabk: WpSchCHEGDV
 layout: default
 origslug: wpschchegdv

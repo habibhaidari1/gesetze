@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zu dem Übereinkommen vom 17. Dezember 1997 über die Bekämpfung der Bestechung
-  ausländischer Amtsträger im internationalen Geschäftsverkehr
+Title: Gesetz zu dem Übereinkommen vom 17. Dezember 1997 über die Bekämpfung der Bestechung ausländischer Amtsträger im internationalen Geschäftsverkehr
 jurabk: IntBestG
 layout: default
 origslug: intbestg
@@ -19,7 +18,8 @@ Fundstelle
 Geändert durch
 :   Art. 5 G v. 20.11.2015 I 2025
 
-Stand: G in Kraft gem. Bek. v. 4.2.1999 II 87 mWv 15.2.1999
+Stand
+:   G in Kraft gem. Bek. v. 4.2.1999 II 87 mWv 15.2.1999
 
 
 ## Artikel 1 - Zustimmung zum Vertrag
@@ -34,37 +34,34 @@ deutschen Übersetzung veröffentlicht.
 ## Art 2 - Durchführungsbestimmungen
 
 
-
-## § 1 (weggefallen)
-
+### § 1 (weggefallen)
 
 
-## § 2 Bestechung ausländischer Abgeordneter im Zusammenhang mit internationalem geschäftlichen Verkehr
+### § 2 Bestechung ausländischer Abgeordneter im Zusammenhang mit internationalem geschäftlichen Verkehr
 
-(1) Wer in der Absicht, sich oder einem Dritten einen Auftrag oder
-einen unbilligen Vorteil im internationalen geschäftlichen Verkehr zu
-verschaffen oder zu sichern, einem Mitglied eines Gesetzgebungsorgans
-eines ausländischen Staates oder einem Mitglied einer
-parlamentarischen Versammlung einer internationalen Organisation einen
-Vorteil für dieses oder einen Dritten als Gegenleistung dafür
-anbietet, verspricht oder gewährt, daß es eine mit seinem Mandat oder
-seinen Aufgaben zusammenhängende Handlung oder Unterlassung künftig
-vornimmt, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit
+(1) Wer in der Absicht, sich oder einem Dritten einen Auftrag
+oder einen unbilligen Vorteil im internationalen geschäftlichen
+Verkehr zu verschaffen oder zu sichern, einem Mitglied eines
+Gesetzgebungsorgans eines ausländischen Staates oder einem Mitglied
+einer parlamentarischen Versammlung einer internationalen Organisation
+einen Vorteil für dieses oder einen Dritten als Gegenleistung dafür
+anbietet, verspricht oder gewährt, daß es eine mit seinem Mandat
+oder seinen Aufgaben zusammenhängende Handlung oder Unterlassung
+künftig vornimmt, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit
 Geldstrafe bestraft.
 
 (2) Der Versuch ist strafbar.
 
 
-## § 3 Auslandstaten
+### § 3 Auslandstaten
 
-Das deutsche Strafrecht gilt, unabhängig vom Recht des Tatorts, für
-die Bestechung ausländischer Abgeordneter im Zusammenhang mit
+Das deutsche Strafrecht gilt, unabhängig vom Recht des Tatorts,
+für die Bestechung ausländischer Abgeordneter im Zusammenhang mit
 internationalem geschäftlichen Verkehr (§ 2), wenn die Tat von einem
 Deutschen im Ausland begangen wird.
 
 
-## § 4 (weggefallen)
-
+### § 4 (weggefallen)
 
 
 ## Art 3 - Inkrafttreten

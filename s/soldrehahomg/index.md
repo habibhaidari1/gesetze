@@ -1,7 +1,5 @@
 ---
-Title: Gesetz zur Rehabilitierung der wegen einvernehmlicher homosexueller Handlungen,
-  wegen ihrer homosexuellen Orientierung oder wegen ihrer geschlechtlichen Identität
-  dienstrechtlich benachteiligten Soldatinnen und Soldaten
+Title: Gesetz zur Rehabilitierung der wegen einvernehmlicher homosexueller Handlungen, wegen ihrer homosexuellen Orientierung oder wegen ihrer geschlechtlichen Identität dienstrechtlich benachteiligten Soldatinnen und Soldaten
 jurabk: SoldRehaHomG
 layout: default
 origslug: soldrehahomg
@@ -17,7 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 2993
 
-Stand: Das G tritt gem. § 5 am 31.12.2040 außer Kraft
+Geändert durch
+:   Art. 6 G v. 18.6.2026 I Nr. 183
+
+Stand
+:   Das G tritt gem. § 5 am 31.12.2040 außer Kraft
+
 
 ## § 1 Rehabilitierung
 
@@ -28,46 +31,39 @@ Handlungen, die auch am 23. Juli 2021 noch ein Dienstvergehen
 darstellen.
 
 (2) Ist jemand als Soldatin oder Soldat oder als Reservistin oder
-Reservist der Bundeswehr vor dem 3. Juli 2000 wegen der in Absatz 1
-genannten Handlungen, wegen homosexueller Orientierung oder wegen
-ihrer oder seiner geschlechtlichen Identität dienstrechtlich nicht nur
-unerheblich benachteiligt worden, so wird festgestellt, dass die
-Benachteiligungen aus heutiger Sicht Unrecht waren. Eine nicht
+Reservist der Bundeswehr vor dem 3. Juli 2000 wegen der in Absatz
+1 genannten Handlungen, wegen homosexueller Orientierung oder wegen
+ihrer oder seiner geschlechtlichen Identität dienstrechtlich nicht
+nur unerheblich benachteiligt worden, so wird festgestellt, dass
+die Benachteiligungen aus heutiger Sicht Unrecht waren. Eine nicht
 unerhebliche Benachteiligung liegt vor, wenn die Soldatin oder der
 Soldat oder die Reservistin oder der Reservist
 
 1.  aus dem Dienst entlassen worden ist,
 
-
 2.  nicht mehr befördert oder nicht mehr mit höherwertigen Aufgaben
     betraut worden ist,
-
 
 3.  nicht mehr in einer Dienststellung als unmittelbare Vorgesetzte oder
     unmittelbarer Vorgesetzter in der Truppe verblieben ist,
 
-
 4.  in ihre oder seine frühere Laufbahn zurückgeführt worden ist oder
-
 
 5.  nach damaliger Praxis einer Maßnahme vergleichbarer Intensität
     ausgesetzt war.
 
-
-
-
 (3) Für frühere Soldatinnen und Soldaten der Nationalen Volksarmee der
 Deutschen Demokratischen Republik gilt Absatz 2 entsprechend.
 
-(4) Über die Regelungen dieses Gesetzes hinaus entfalten die Aufhebung
-nach Absatz 1 und die Feststellung nach Absatz 2 keine
+(4) Über die Regelungen dieses Gesetzes hinaus entfalten die
+Aufhebung nach Absatz 1 und die Feststellung nach Absatz 2 keine
 Rechtswirkungen.
 
 
 ## § 2 Verfahren; Rehabilitierungsbescheinigung
 
-(1) Das Bundesministerium der Verteidigung stellt auf Antrag fest, ob
-ein Urteil nach § 1 Absatz 1 aufgehoben worden ist oder ob eine
+(1) Das Bundesministerium der Verteidigung stellt auf Antrag fest,
+ob ein Urteil nach § 1 Absatz 1 aufgehoben worden ist oder ob eine
 Benachteiligung nach § 1 Absatz 2 vorliegt. Über die Feststellungen
 nach Satz 1 wird eine Rehabilitierungsbescheinigung erteilt.
 
@@ -87,27 +83,17 @@ wieder zu führen.
 
 1.  die betroffene Person,
 
-
 2.  nach dem Tod der betroffenen Person folgende Angehörige:
 
     a)  die Ehegattin oder der Ehegatte,
 
-
     b)  die oder der Verlobte,
-
 
     c)  die Eltern,
 
-
     d)  die Kinder und
 
-
     e)  die Geschwister.
-
-
-
-
-
 
 Satz 1 Nummer 2 gilt nicht für den Antrag nach Absatz 3.
 
@@ -121,13 +107,9 @@ Geld aus dem Bundeshaushalt.
 
 (2) Die Entschädigung beträgt
 
-1.  3 000 Euro für jedes nach § 1 Absatz 1 aufgehobene Urteil und
+1.  3 000 Euro für jedes nach § 1 Absatz 1 aufgehobene Urteil und
 
-
-2.  einmalig 3 000 Euro für Benachteiligungen nach § 1 Absatz 2.
-
-
-
+2.  einmalig 3 000 Euro für Benachteiligungen nach § 1 Absatz 2.
 
 (3) Der Antrag auf Entschädigung ist innerhalb einer Ausschlussfrist
 von fünf Jahren nach dem 23. Juli 2021 beim Bundesministerium der

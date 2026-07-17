@@ -1,6 +1,5 @@
 ---
-Title: Anordnung des Bundesministers für Post und Telekommunikation über die Festsetzung
-  von Amtsbezeichnungen
+Title: Anordnung des Bundesministers für Post und Telekommunikation über die Festsetzung von Amtsbezeichnungen
 jurabk: BMPTAmtsbezAnO
 layout: default
 origslug: bmptamtsbezano
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 1989, 1782
-
 
 
 ## (XXXX)
@@ -39,5 +37,6 @@ Vizepräsident des Fernmeldetechnischen Zentralamtes
 Präsident des Zentralamtes für Mobilfunk
 Vizepräsident des Zentralamtes für Mobilfunk
 Präsident des Sozialamtes der Deutschen Bundespost
+
 Der Bundesminister für Post und Telekommunikation
 

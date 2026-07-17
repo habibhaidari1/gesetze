@@ -1,7 +1,5 @@
 ---
-Title: Gesetz zu dem Abkommen vom 20. März 1995 zwischen der Bundesrepublik Deutschland
-  und der Republik Polen über den Autobahnzusammenschluß sowie über den Bau und den
-  Umbau einer Grenzbrücke im Raum Forst und Erlenholz (Olszyna)
+Title: Gesetz zu dem Abkommen vom 20. März 1995 zwischen der Bundesrepublik Deutschland und der Republik Polen über den Autobahnzusammenschluß sowie über den Bau und den Umbau einer Grenzbrücke im Raum Forst und Erlenholz (Olszyna)
 jurabk: ABZusForstAbkPOLG
 layout: default
 origslug: abzusforstabkpolg
@@ -18,7 +16,6 @@ Fundstelle
 :   BGBl II: 1996, 835
 
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
@@ -27,8 +24,8 @@ beschlossen:
 
 ## Art 1
 
-Dem in Warschau am 20. März 1995 unterzeichneten Abkommen zwischen der
-Bundesrepublik Deutschland und der Republik Polen über den
+Dem in Warschau am 20. März 1995 unterzeichneten Abkommen zwischen
+der Bundesrepublik Deutschland und der Republik Polen über den
 Autobahnzusammenschluß sowie über den Bau und den Umbau einer
 Grenzbrücke im Raum Forst und Erlenholz (Olszyna) sowie dem
 dazugehörigen Protokoll vom selben Tage wird zugestimmt. Das Abkommen
@@ -53,7 +50,7 @@ Bestimmungen sind mit Wirkung vom 21. März 1995 anzuwenden.
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 
-(2) Der Tag, an dem das Abkommen nach seinem Artikel 15 Abs. 2 sowie
-das Protokoll in Kraft treten, ist im Bundesgesetzblatt
+(2) Der Tag, an dem das Abkommen nach seinem Artikel 15 Abs. 2
+sowie das Protokoll in Kraft treten, ist im Bundesgesetzblatt
 bekanntzugeben.
 

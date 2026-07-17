@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über das Inverkehrbringen von Arzneimitteln ohne Genehmigung oder
-  ohne Zulassung in Härtefällen
+Title: Verordnung über das Inverkehrbringen von Arzneimitteln ohne Genehmigung oder ohne Zulassung in Härtefällen
 jurabk: AMHV
 layout: default
 origslug: amhv
@@ -16,29 +15,33 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 935
 
+Geändert durch
+:   Art. 8 V v. 6.7.2022 I 1102
+
 
 ## Eingangsformel
 
-Auf Grund des § 80 Satz 1 Nummer 3a in Verbindung mit Satz 3 und 4 und
-in Verbindung mit § 83 des Arzneimittelgesetzes, von denen § 83
-zuletzt durch Artikel 1 Nummer 70 des Gesetzes vom 17. Juli 2009
+Auf Grund des § 80 Satz 1 Nummer 3a in Verbindung mit Satz 3 und
+4 und in Verbindung mit § 83 des Arzneimittelgesetzes, von denen §
+83 zuletzt durch Artikel 1 Nummer 70 des Gesetzes vom 17. Juli 2009
 (BGBl. I S. 1990) geändert worden ist, verordnet das Bundesministerium
 für Gesundheit:
 
 
 ## § 1 Anwendungsbereich
 
-(1) Diese Verordnung regelt das Verfahren für das Inverkehrbringen von
-Arzneimitteln ohne Genehmigung oder ohne Zulassung in Härtefällen
-unter den Voraussetzungen, die in § 21 Absatz 2 Nummer 6 des
-Arzneimittelgesetzes in Verbindung mit Artikel 83 der Verordnung (EG)
-Nr. 726/2004 des Europäischen Parlaments und des Rates vom 31. März
-2004 zur Festlegung von Gemeinschaftsverfahren für die Genehmigung und
-Überwachung von Human- und Tierarzneimitteln und zur Errichtung einer
-Europäischen Arzneimittel-Agentur (ABl. L 136 vom 30.4.2004, S. 1)
-genannt werden. Die Verordnung gilt für Fertigarzneimittel, die zur
-Anwendung im oder am Menschen bestimmt sind und weder im
-Geltungsbereich des Arzneimittelgesetzes noch in einem anderen
+(1) Diese Verordnung regelt das Verfahren für das Inverkehrbringen
+von Arzneimitteln ohne Genehmigung oder ohne Zulassung in Härtefällen
+unter den Voraussetzungen, die in § 21 Absatz 2 Nummer 3 des
+Arzneimittelgesetzes in Verbindung mit Artikel 83 der Verordnung
+(EG) Nr. 726/2004 des Europäischen Parlaments und des Rates vom 31.
+März 2004 zur Festlegung der Verfahren der Europäischen Union für die
+Genehmigung und Überwachung von Humanarzneimitteln und zur Errichtung
+einer Europäischen Arzneimittel-Agentur (ABl. L 136 vom 30.4.2004,
+S. 1; L 201 vom 27.7.2012, S. 138), die zuletzt durch die Verordnung
+(EU) 2019/5 (ABl. L 4 vom 7.1.2019, S. 24) geändert worden ist,
+genannt werden. Die Verordnung gilt für Fertigarzneimittel, die weder
+im Geltungsbereich des Arzneimittelgesetzes noch in einem anderen
 Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat
 des Abkommens über den Europäischen Wirtschaftsraum genehmigt oder
 zugelassen sind, aber der Genehmigungspflicht nach Artikel 3 Absatz 1
@@ -60,8 +63,8 @@ bestimmten Patientengruppe zur Verfügung gestellt werden, wenn
 ausreichende Hinweise auf die Wirksamkeit und Sicherheit des
 Arzneimittels vorliegen und für dieses eine klinische Prüfung
 durchgeführt wird oder ein Zulassungsantrag bei der Europäischen
-Arzneimittel-Agentur, der zuständigen Bundesoberbehörde oder einer für
-die Zulassung zuständigen Behörde eines Mitgliedstaates gestellt
+Arzneimittel-Agentur, der zuständigen Bundesoberbehörde oder einer
+für die Zulassung zuständigen Behörde eines Mitgliedstaates gestellt
 worden ist.
 
 (2) Ein Härtefall im Sinne dieser Verordnung liegt vor, wenn eine
@@ -78,8 +81,8 @@ Arzneimittelgesetzes genehmigt oder zugelassen ist.
 Organisation und Finanzierung eines Härtefallprogramms übernimmt
 (verantwortliche Person), hat das Härtefallprogramm der zuständigen
 Bundesoberbehörde anzuzeigen. Hat die verantwortliche Person ihren
-Sitz nicht in einem Mitgliedstaat der Europäischen Union oder in einem
-anderen Vertragsstaat des Abkommens über den Europäischen
+Sitz nicht in einem Mitgliedstaat der Europäischen Union oder in
+einem anderen Vertragsstaat des Abkommens über den Europäischen
 Wirtschaftsraum, so benennt sie eine Vertreterin oder einen Vertreter
 mit Sitz in der Europäischen Union oder in einem anderen Vertragsstaat
 des Abkommens über den Europäischen Wirtschaftsraum.
@@ -91,69 +94,54 @@ des Abkommens über den Europäischen Wirtschaftsraum.
     Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
     niedergelassenen Vertreters,
 
-
-2.  Bezeichnung oder Code des Arzneimittels, Bezeichnung der Wirkstoffe
-    nach Art und Menge, sonstige Bestandteile nach der Art,
+2.  Bezeichnung oder Code des Arzneimittels, Bezeichnung der
+    Wirkstoffe nach Art und Menge, sonstige Bestandteile nach der Art,
     Darreichungsform, Art der Anwendung, Dosierung und Behandlungsschema,
-
 
 3.  Beschreibung der zu einer schweren Behinderung führenden oder
     lebensbedrohenden Erkrankung, an der die Patientinnen und Patienten
     leiden und für die das Arzneimittel bestimmt ist,
 
-
 4.  Kriterien für die Auswahl der Patientinnen und Patienten und Angabe
     der voraussichtlichen Patientenanzahl,
-
 
 5.  Begründung, dass diese Patientinnen und Patienten nicht
     zufriedenstellend mit einem zum Inverkehrbringen im Geltungsbereich
     des Arzneimittelgesetzes genehmigten oder zugelassenen Arzneimittel
     behandelt werden können,
 
-
 6.  Begründung dafür, dass die Patientinnen oder Patienten in eine
     laufende klinische Prüfung nicht einbezogen werden können,
 
-
 7.  Nachweise, dass das Arzneimittel die nach den anerkannten
-    pharmazeutischen Regeln angemessene Qualität aufweist, sowie eine
-    Bestätigung der sachkundigen Person nach § 14 des
+    pharmazeutischen Regeln angemessene Qualität aufweist,
+    sowie eine Bestätigung der sachkundigen Person nach § 14 des
     Arzneimittelgesetzes, dass das Arzneimittel nach den Grundsätzen und
     Leitlinien der Guten Herstellungspraxis für Arzneimittel hergestellt
     ist,
-
 
 8.  Belege und Begründung für die Annahme, dass das Arzneimittel sicher
     und wirksam bei der vorgesehenen Anwendung ist, in der Regel durch
     Vorlage der Ergebnisse konfirmatorischer klinischer Prüfungen,
 
-
 9.  Kriterien für das Aussetzen oder vorzeitige Beendigen des
     Härtefallprogramms,
-
 
 10. Nähere Angaben
 
     a)  zur genehmigten klinischen Prüfung des Arzneimittels im vorgesehenen
         Anwendungsgebiet mit Angabe der EudraCT-Nummer oder
 
-
     b)  zur klinischen Prüfung des Arzneimittels im vorgesehenen
-        Anwendungsgebiet in einem Drittstaat und Nachweis, dass diese nach den
-        international harmonisierten Standards der Guten Klinischen Praxis
+        Anwendungsgebiet in einem Drittstaat und Nachweis, dass diese nach
+        den international harmonisierten Standards der Guten Klinischen Praxis
         durchgeführt wird, oder
 
-
-    c)  über den Genehmigungs- oder Zulassungsantrag, der für das Arzneimittel
-        in dem vorgesehenen Anwendungsgebiet bei der Europäischen
-        Arzneimittel-Agentur, der zuständigen Bundesoberbehörde oder einer für
-        die Zulassung zuständigen Behörde eines Mitgliedstaates gestellt
+    c)  über den Genehmigungs- oder Zulassungsantrag, der für das
+        Arzneimittel in dem vorgesehenen Anwendungsgebiet bei der Europäischen
+        Arzneimittel-Agentur, der zuständigen Bundesoberbehörde oder einer
+        für die Zulassung zuständigen Behörde eines Mitgliedstaates gestellt
         wurde,
-
-
-
-
 
 11. bei Arzneimitteln, die aus einem gentechnisch veränderten Organismus
     oder aus einer Kombination von gentechnisch veränderten Organismen
@@ -163,35 +151,29 @@ des Abkommens über den Europäischen Wirtschaftsraum.
     Organismen in die Umwelt und zur Aufhebung der Richtlinie 90/220/EWG
     des Rates (ABl. L 106 vom 17.4.2001, S. 1),
 
-
 12. Begründung für eine Behandlung mit einem Arzneimittel, für das ein
     Antrag auf Genehmigung oder Zulassung des Arzneimittels versagt,
-    zurückgenommen, widerrufen oder ruhend gestellt worden ist oder die
-    Genehmigung einer klinischen Prüfung versagt, zurückgenommen,
+    zurückgenommen, widerrufen oder ruhend gestellt worden ist oder
+    die Genehmigung einer klinischen Prüfung versagt, zurückgenommen,
     widerrufen oder ruhend gestellt oder unter Nebenbedingungen erteilt
     worden ist, unter Angabe der Entscheidungsgründe,
-
 
 13. die in der klinischen Prüfung der Prüferin oder dem Prüfer zur
     Verfügung gestellte aktuelle Prüferinformation oder der im Antrag auf
     Zulassung oder Genehmigung vorgesehene Entwurf einer Zusammenfassung
     der Produktmerkmale des Arzneimittels,
 
-
 14. Informationen und Unterlagen, die die Patientinnen und Patienten
     erhalten, in deutscher Sprache sowie eine Darstellung des Verfahrens
     der Einwilligung nach Aufklärung durch eine teilnehmende Ärztin oder
     einen teilnehmenden Arzt,
 
-
 15. Anforderungen an die ärztlichen Einrichtungen und an die Qualifikation
     der teilnehmenden Ärztinnen und Ärzte,
-
 
 16. Beschreibung der vorgesehenen Maßnahmen zur Gewährleistung einer
     sicheren Aufbewahrung, Anwendung sowie des Verbleibs der zur Verfügung
     gestellten Arzneimittel,
-
 
 17. Angaben, soweit zutreffend, zu bereits laufenden Härtefallprogrammen
     in Mitgliedstaaten der Europäischen Union oder anderen Vertragsstaaten
@@ -199,12 +181,8 @@ des Abkommens über den Europäischen Wirtschaftsraum.
     vorhanden, Gutachten des Ausschusses für Humanarzneimittel nach
     Artikel 83 Absatz 4 der Verordnung (EG) Nr. 726/2004,
 
-
 18. Einverständniserklärung dafür, die Information über die Grundzüge des
     angezeigten Härtefallprogramms an die Öffentlichkeit weiterzugeben.
-
-
-
 
 (3) Die Anzeige und die erforderlichen Unterlagen nach Absatz 2
 bedürfen der Schriftform und der elektronischen Form. Die Unterlagen
@@ -221,12 +199,12 @@ Einreichung der Angaben und Unterlagen auf ihrer Website.
 Person innerhalb von zwei Wochen den Eingang der ordnungsgemäßen
 Anzeige unter Angabe des Eingangsdatums (bestätigte Anzeige). Wenn
 Unterlagen zur Anzeige fehlen oder die Anzeige aus sonstigen Gründen
-nicht ordnungsgemäß ist, fordert die zuständige Bundesoberbehörde die
-verantwortliche Person ebenfalls innerhalb von zwei Wochen auf, diese
-Formmängel zu beheben. Die zuständige Bundesoberbehörde bestätigt der
-verantwortlichen Person innerhalb von zwei Wochen nach Eingang der
-nachgereichten Unterlagen den Eingang der ordnungsgemäßen Anzeige
-(bestätigte Anzeige), sofern die Anzeige nun vollständig und
+nicht ordnungsgemäß ist, fordert die zuständige Bundesoberbehörde
+die verantwortliche Person ebenfalls innerhalb von zwei Wochen
+auf, diese Formmängel zu beheben. Die zuständige Bundesoberbehörde
+bestätigt der verantwortlichen Person innerhalb von zwei Wochen nach
+Eingang der nachgereichten Unterlagen den Eingang der ordnungsgemäßen
+Anzeige (bestätigte Anzeige), sofern die Anzeige nun vollständig und
 ordnungsgemäß ist.
 
 (2) Mit der Durchführung des Härtefallprogramms kann begonnen werden,
@@ -251,17 +229,17 @@ eine angemessene Frist, die 60 Tage nicht überschreiten soll.
 
 (5) Bei Arzneimitteln, die aus einem gentechnisch veränderten
 Organismus oder aus einer Kombination von gentechnisch veränderten
-Organismen bestehen oder solche enthalten, umfasst die Genehmigung der
-klinischen Prüfung durch die zuständige Bundesoberbehörde auch die
-Genehmigung der Freisetzung dieser gentechnisch veränderten Organismen
-im Rahmen des Härtefallprogramms. Dies gilt nur, soweit keine
-Änderungen gegenüber der genehmigten klinischen Prüfung vorgenommen
-werden, die geeignet sind, die Risikobewertung für die Gesundheit
-Dritter und für die Umwelt zu verändern. Bei Änderungen, die geeignet
-sind, die Risikobewertung für die Gesundheit Dritter und für die
-Umwelt zu verändern, ist von der zuständigen Bundesoberbehörde im
-Benehmen mit dem Bundesamt für Verbraucherschutz und
-Lebensmittelsicherheit innerhalb einer angemessenen Frist zu
+Organismen bestehen oder solche enthalten, umfasst die Genehmigung
+der klinischen Prüfung durch die zuständige Bundesoberbehörde auch
+die Genehmigung der Freisetzung dieser gentechnisch veränderten
+Organismen im Rahmen des Härtefallprogramms. Dies gilt nur, soweit
+keine Änderungen gegenüber der genehmigten klinischen Prüfung
+vorgenommen werden, die geeignet sind, die Risikobewertung für
+die Gesundheit Dritter und für die Umwelt zu verändern. Bei
+Änderungen, die geeignet sind, die Risikobewertung für die Gesundheit
+Dritter und für die Umwelt zu verändern, ist von der zuständigen
+Bundesoberbehörde im Benehmen mit dem Bundesamt für Verbraucherschutz
+und Lebensmittelsicherheit innerhalb einer angemessenen Frist zu
 entscheiden. Abweichend von Absatz 2 und 4 darf ein Härtefallprogramm
 mit Arzneimitteln, für die eine Risikobewertung nach Satz 2
 erforderlich ist, erst mit Zugang der hierfür erforderlichen
@@ -285,36 +263,29 @@ vorgelegte Unterlagen Bezug genommen werden, soweit sich keine
 
 (1) Die verantwortliche Person nach § 3 Absatz 1 hat
 
-1.  jeden Verdachtsfall einer schwerwiegenden Nebenwirkung, der ihr von
-    den teilnehmenden Ärztinnen und Ärzten mitgeteilt oder ihr auf anderem
-    Weg zur Kenntnis gebracht worden ist, zu dokumentieren und der
-    zuständigen Bundesoberbehörde unverzüglich, spätestens jedoch
+1.  jeden Verdachtsfall einer schwerwiegenden Nebenwirkung, der ihr
+    von den teilnehmenden Ärztinnen und Ärzten mitgeteilt oder ihr auf
+    anderem Weg zur Kenntnis gebracht worden ist, zu dokumentieren und
+    der zuständigen Bundesoberbehörde unverzüglich, spätestens jedoch
     innerhalb von 15 Tagen nach Bekanntwerden, elektronisch mitzuteilen,
-
 
 2.  jede Änderung der Angaben nach § 3 der zuständigen Bundesoberbehörde
     unverzüglich anzuzeigen und die entsprechenden Unterlagen beizufügen,
 
-
 3.  der zuständigen Bundesoberbehörde unverzüglich den Abbruch des
     Härtefallprogramms unter Angabe der Gründe mitzuteilen,
-
 
 4.  nach Abschluss des Härtefallprogramms der zuständigen
     Bundesoberbehörde einen Sicherheitsbericht vorzulegen, der
     insbesondere alle schwerwiegenden Nebenwirkungen und alle nicht
     schwerwiegenden unerwarteten Nebenwirkungen erfasst und bewertet,
 
-
 5.  der zuständigen Bundesoberbehörde neue Gutachten nach Artikel 83
-    Absatz 4 der Verordnung (EG) Nr. 726/2004 und Erkenntnisse aus anderen
-    Härtefallprogrammen, die in einem anderen Mitgliedstaat der
-    Europäischen Union oder in einem anderen Vertragsstaat des Abkommens
-    über den Europäischen Wirtschaftsraum durchgeführt werden,
+    Absatz 4 der Verordnung (EG) Nr. 726/2004 und Erkenntnisse aus
+    anderen Härtefallprogrammen, die in einem anderen Mitgliedstaat
+    der Europäischen Union oder in einem anderen Vertragsstaat des
+    Abkommens über den Europäischen Wirtschaftsraum durchgeführt werden,
     unverzüglich vorzulegen oder mitzuteilen.
-
-
-
 
 (2) Änderungen, die sich auf das Anwendungsgebiet, die Stärke oder die
 Darreichungsform des Arzneimittels im Rahmen des Härtefallprogramms
@@ -334,49 +305,35 @@ Die verantwortliche Person nach § 3 Absatz 1 hat sicherzustellen, dass
 
 1.  die Umsetzung des Härtefallprogramms ordnungsgemäß erfolgt,
 
-
-2.  alle Bedingungen und Einschränkungen hinsichtlich der sicheren und
-    wirksamen Anwendung des Arzneimittels erfüllt werden und den
+2.  alle Bedingungen und Einschränkungen hinsichtlich der sicheren
+    und wirksamen Anwendung des Arzneimittels erfüllt werden und den
     beteiligten Personen die hierfür erforderlichen Informationen gegeben
     werden,
 
-
-3.  das Arzneimittel nur in Verkehr gelangt, wenn auf den Behältnissen und
-    soweit verwendet auf den äußeren Umhüllungen mindestens folgende
+3.  das Arzneimittel nur in Verkehr gelangt, wenn auf den Behältnissen
+    und soweit verwendet auf den äußeren Umhüllungen mindestens folgende
     Angaben enthalten sind:
 
     a)  Bezeichnung oder Code des Arzneimittels,
 
-
     b)  Name und Anschrift der verantwortlichen Person,
-
 
     c)  Chargenbezeichnung,
 
-
     d)  Art der Anwendung,
-
 
     e)  Wirkstoffbezeichnung,
 
-
     f)  Verfalldatum,
 
-
     g)  soweit erforderlich, Aufbewahrungs- und Lagerungshinweise,
-
 
     h)  Hinweis, dass das Arzneimittel ohne Genehmigung oder Zulassung im
         Rahmen eines Härtefallprogramms zur Verfügung gestellt wird,
 
-
-
-
-
 4.  die Herstellung, Einfuhr und Freigabe nach den in der Arzneimittel-
     und Wirkstoffherstellungsverordnung vorgesehenen Regelungen für
     Prüfpräparate erfolgt,
-
 
 5.  die wesentlichen Unterlagen des Härtefallprogramms nach dessen
     Beendigung oder Abbruch mindestens zehn Jahre aufbewahrt werden;
@@ -384,15 +341,12 @@ Die verantwortliche Person nach § 3 Absatz 1 hat sicherzustellen, dass
     bleiben unberührt.
 
 
-
-
-
 ## § 8 Informationspflichten der zuständigen Bundesoberbehörde
 
 (1) Bei Arzneimitteln, die aus einem gentechnisch veränderten
 Organismus oder aus einer Kombination von gentechnisch veränderten
-Organismen bestehen oder solche enthalten, informiert die zuständige
-Bundesoberbehörde das Bundesamt für Verbraucherschutz und
+Organismen bestehen oder solche enthalten, informiert die
+zuständige Bundesoberbehörde das Bundesamt für Verbraucherschutz und
 Lebensmittelsicherheit über den Eingang der Anzeige.
 
 (2) Die zuständige Bundesoberbehörde informiert die Europäische

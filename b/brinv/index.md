@@ -21,16 +21,16 @@ Zuletzt geändert durch
 
 ## Eingangsformel
 
-Auf Grund des § 46 des Deutschen Richtergesetzes vom 8. September 1961
-(Bundesgesetzbl. I S. 1665) in Verbindung mit § 69 des
+Auf Grund des § 46 des Deutschen Richtergesetzes vom 8. September
+1961 (Bundesgesetzbl. I S. 1665) in Verbindung mit § 69 des
 Bundesbeamtengesetzes in der Fassung der Bekanntmachung vom 1. Oktober
 1961 (Bundesgesetzbl. I S. 1801) verordnet die Bundesregierung:
 
 
 ## § 1 Grundsatz
 
-Der Richter darf eine Nebentätigkeit nur ausüben, wenn dadurch das
-Vertrauen in seine Unabhängigkeit, Unparteilichkeit oder
+Der Richter darf eine Nebentätigkeit nur ausüben, wenn dadurch
+das Vertrauen in seine Unabhängigkeit, Unparteilichkeit oder
 Unbefangenheit nicht gefährdet wird.
 
 
@@ -40,28 +40,23 @@ Unbefangenheit nicht gefährdet wird.
 
 1.  einer richterlichen Nebentätigkeit,
 
-
 2.  einer Nebentätigkeit in der Gerichtsverwaltung und,
-
 
 3.  soweit § 4 des Deutschen Richtergesetzes nicht entgegensteht, einer
     Nebentätigkeit in der übrigen Rechtspflege.
-
-
-
 
 (2) Vor der Heranziehung soll der Richter gehört werden.
 
 
 ## § 3 Nebentätigkeit im öffentlichen Dienst
 
-(1) Im öffentlichen Dienst darf der Richter nur eine richterliche oder
-eine nach § 4 des Deutschen Richtergesetzes mit dem Richteramt
+(1) Im öffentlichen Dienst darf der Richter nur eine richterliche
+oder eine nach § 4 des Deutschen Richtergesetzes mit dem Richteramt
 vereinbare Nebentätigkeit wahrnehmen. Entsprechendes gilt für eine
 Tätigkeit, die der Nebentätigkeit im öffentlichen Dienst gleichsteht.
 
-(2) Welche Tätigkeiten als öffentlicher Dienst anzusehen sind oder ihm
-gleichstehen, bestimmt sich nach den für Bundesbeamte geltenden
+(2) Welche Tätigkeiten als öffentlicher Dienst anzusehen sind oder
+ihm gleichstehen, bestimmt sich nach den für Bundesbeamte geltenden
 Vorschriften.
 
 
@@ -69,9 +64,9 @@ Vorschriften.
 
 (1) Die Genehmigung für eine oder mehrere Nebenbeschäftigungen gegen
 Vergütung außerhalb des öffentlichen Dienstes gilt allgemein als
-erteilt, wenn die Nebenbeschäftigungen insgesamt geringen Umfang haben
-und kein gesetzlicher Versagungsgrund vorliegt. Der Umfang einer oder
-mehrerer Nebenbeschäftigungen ist als gering anzusehen, wenn die
+erteilt, wenn die Nebenbeschäftigungen insgesamt geringen Umfang
+haben und kein gesetzlicher Versagungsgrund vorliegt. Der Umfang einer
+oder mehrerer Nebenbeschäftigungen ist als gering anzusehen, wenn die
 Vergütung hierfür insgesamt 100 Euro im Monat nicht übersteigt. Die
 Nebenbeschäftigung ist der nach § 7 Abs. 1 für die Genehmigung einer
 Nebentätigkeit zuständigen Stelle anzuzeigen, es sei denn, daß es sich
@@ -84,8 +79,8 @@ Versagung einer Genehmigung rechtfertigen würden.
 
 ## § 5 Versagung der Genehmigung
 
-Die Genehmigung für eine Nebentätigkeit ist zu versagen, wenn der
-Richter sie nach den §§ 4, 39, 40 oder 41 des Deutschen
+Die Genehmigung für eine Nebentätigkeit ist zu versagen, wenn
+der Richter sie nach den §§ 4, 39, 40 oder 41 des Deutschen
 Richtergesetzes nicht wahrnehmen darf oder ein sonstiger gesetzlicher
 Versagungsgrund vorliegt. Dies gilt insbesondere, wenn zu besorgen
 ist, daß die Nebentätigkeit
@@ -94,27 +89,22 @@ ist, daß die Nebentätigkeit
     Unbefangenheit des Richters gefährdet oder sonst mit dem Ansehen des
     Richterstandes oder mit dem Wohle der Allgemeinheit unvereinbar ist,
 
-
 2.  die Arbeitskraft des Richters so stark in Anspruch nimmt, daß die
     ordnungsgemäße Erfüllung seiner richterlichen Pflichten beeinflußt
     wird, oder
 
-
 3.  die Rechtspflege in anderer Weise beeinträchtigt.
-
-
-
 
 
 ## § 6 Abgeordnete Richter
 
 (1) Für Richter, die an eine Verwaltungsbehörde oder zur Wahrnehmung
-einer nichtrichterlichen Tätigkeit an ein Gericht abgeordnet sind,
-gelten für die Dauer der Abordnung die Vorschriften über die
+einer nichtrichterlichen Tätigkeit an ein Gericht abgeordnet
+sind, gelten für die Dauer der Abordnung die Vorschriften über die
 Nebentätigkeit der Beamten. Jedoch darf dem Richter während der
 Abordnung eine Tätigkeit als Schiedsrichter, Schiedsgutachter oder
-Schlichter, die Erstattung von Rechtsgutachten oder die Erteilung von
-Rechtsauskünften nur nach Maßgabe der §§ 40 und 41 des Deutschen
+Schlichter, die Erstattung von Rechtsgutachten oder die Erteilung
+von Rechtsauskünften nur nach Maßgabe der §§ 40 und 41 des Deutschen
 Richtergesetzes genehmigt werden.
 
 (2) Nebentätigkeiten, zu denen der Richter während der Abordnung
@@ -142,11 +132,11 @@ soweit die dienstlichen Interessen dies gestatten.
 
 ## § 8 Vergütungen
 
-(1) Die für Bundesbeamte geltenden Vorschriften über die Vergütung für
-eine Nebentätigkeit und über die Abrechnung und Ablieferung der
+(1) Die für Bundesbeamte geltenden Vorschriften über die Vergütung
+für eine Nebentätigkeit und über die Abrechnung und Ablieferung der
 Vergütung sowie über die Genehmigungspflicht für die Inanspruchnahme
-von Einrichtungen, Personal oder Material des Dienstherrn bei Ausübung
-einer Nebentätigkeit und die Entrichtung eines Entgelts sind
+von Einrichtungen, Personal oder Material des Dienstherrn bei
+Ausübung einer Nebentätigkeit und die Entrichtung eines Entgelts sind
 entsprechend anzuwenden.
 
 (2) Für eine richterliche Nebentätigkeit bei einem Gericht des Bundes

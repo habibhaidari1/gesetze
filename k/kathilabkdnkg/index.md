@@ -1,7 +1,5 @@
 ---
-Title: Gesetz zu dem Abkommen vom 16. Mai 1985 zwischen der Bundesrepublik Deutschland
-  und dem Königreich Dänemark über die gegenseitige Hilfeleistung bei Katastrophen
-  oder schweren Unglücksfällen
+Title: Gesetz zu dem Abkommen vom 16. Mai 1985 zwischen der Bundesrepublik Deutschland und dem Königreich Dänemark über die gegenseitige Hilfeleistung bei Katastrophen oder schweren Unglücksfällen
 jurabk: KatHiLAbkDNKG
 layout: default
 origslug: kathilabkdnkg
@@ -18,12 +16,11 @@ Fundstelle
 :   BGBl II: 1988, 286
 
 
-
 ## Art 1
 
-Dem in Tondern am 16. Mai 1985 unterzeichneten Abkommen zwischen der
-Bundesrepublik Deutschland und dem Königreich Dänemark über die
-gegenseitige Hilfeleistung bei Katastrophen oder schweren
+Dem in Tondern am 16. Mai 1985 unterzeichneten Abkommen zwischen
+der Bundesrepublik Deutschland und dem Königreich Dänemark über
+die gegenseitige Hilfeleistung bei Katastrophen oder schweren
 Unglücksfällen wird zugestimmt. Das Abkommen wird nachstehend
 veröffentlicht.
 
@@ -35,16 +32,12 @@ Hilfeleistungen in Dänemark entstehen, trägt in den Fällen
 
 1.  des Artikels 3 Abs. 1 Buchstabe a des Abkommens der Bund,
 
-
 2.  des Artikels 3 Abs. 1 Buchstabe b und des Artikels 3 Abs. 2 des
     Abkommens das Land Schleswig-Holstein; landesrechtliche Bestimmungen
     über die Kostentragung innerhalb des Landes bleiben unberührt.
 
-
-
-
-(2) Bei Aufwendungen, die auf seiten der Bundesrepublik Deutschland in
-den Fällen des Artikels 8 Abs. 2 und 3 des Abkommens entstehen,
+(2) Bei Aufwendungen, die auf seiten der Bundesrepublik Deutschland
+in den Fällen des Artikels 8 Abs. 2 und 3 des Abkommens entstehen,
 richtet sich die Kostenträgerschaft danach, ob die jeweilige
 Hilfemaßnahme in den Aufgabenbereich des Bundes oder der Länder fällt.
 

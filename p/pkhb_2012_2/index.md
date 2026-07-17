@@ -18,9 +18,9 @@ Fundstelle
 
 ## (XXXX)
 
-Gemäß § 115 Absatz 1 Satz 5 der Zivilprozessordnung in der Fassung der
-Bekanntmachung vom 5. Dezember 2005 (BGBl. I S. 3202; 2006 I S. 431;
-2007 I S. 1781) wird aufgrund der Mitteilung des Bayerischen
+Gemäß § 115 Absatz 1 Satz 5 der Zivilprozessordnung in der Fassung
+der Bekanntmachung vom 5. Dezember 2005 (BGBl. I S. 3202; 2006 I S.
+431; 2007 I S. 1781) wird aufgrund der Mitteilung des Bayerischen
 Staatsministeriums der Justiz und für Verbraucherschutz vom 21.
 November 2012 bekannt gemacht:
 
@@ -32,11 +32,9 @@ Einkommen der Partei abzusetzen sind, betragen
     Absatz 1 Satz 3 Nummer 1 Buchstabe b der Zivilprozessordnung), 197
     Euro,
 
-
 2.  für die Partei und ihren Ehegatten oder ihren Lebenspartner (§ 115
     Absatz 1 Satz 3 Nummer 2 Buchstabe a der Zivilprozessordnung), 432
     Euro,
-
 
 3.  für jede weitere Person, der die Partei aufgrund gesetzlicher
     Unterhaltspflicht Unterhalt leistet, in Abhängigkeit von ihrem Alter
@@ -44,22 +42,13 @@ Einkommen der Partei abzusetzen sind, betragen
 
     a)  Erwachsene 345 Euro,
 
-
     b)  Jugendliche vom Beginn des 15. bis zur Vollendung des 18. Lebensjahres
         326 Euro,
-
 
     c)  Kinder vom Beginn des siebten bis zur Vollendung des 14. Lebensjahres
         286 Euro,
 
-
     d)  Kinder bis zur Vollendung des sechsten Lebensjahres 252 Euro.
-
-
-
-
-
-
 
 
 ## Schlussformel

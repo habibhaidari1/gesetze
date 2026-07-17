@@ -21,17 +21,17 @@ Zuletzt geändert durch
 
 ## Eingangsformel
 
-Auf Grund des § 21b Abs. 5 des Gerichtsverfassungsgesetzes sowie auf
-Grund des § 10 Abs. 1 Halbsatz 1 des Einführungsgesetzes zum
-Gerichtsverfassungsgesetz, des § 4 der Verwaltungsgerichtsordnung, des
-§ 4 der Finanzgerichtsordnung, des § 6a des Arbeitsgerichtsgesetzes,
-des § 6 des Sozialgerichtsgesetzes, des § 47 der
-Bundesdisziplinarordnung, des § 36e des Patentgesetzes und der §§ 97,
-105 Abs. 1 der Bundesrechtsanwaltsordnung, jeweils in Verbindung mit §
-21b Abs. 5 des Gerichtsverfassungsgesetzes, sämtlich zuletzt geändert
-durch das Gesetz zur Änderung der Bezeichnungen der Richter und
-ehrenamtlichen Richter und der Präsidialverfassung der Gerichte vom
-26\. Mai 1972 (Bundesgesetzblatt I S. 841), verordnet die
+Auf Grund des § 21b Abs. 5 des Gerichtsverfassungsgesetzes sowie
+auf Grund des § 10 Abs. 1 Halbsatz 1 des Einführungsgesetzes zum
+Gerichtsverfassungsgesetz, des § 4 der Verwaltungsgerichtsordnung,
+des § 4 der Finanzgerichtsordnung, des § 6a des
+Arbeitsgerichtsgesetzes, des § 6 des Sozialgerichtsgesetzes, des §
+47 der Bundesdisziplinarordnung, des § 36e des Patentgesetzes und
+der §§ 97, 105 Abs. 1 der Bundesrechtsanwaltsordnung, jeweils in
+Verbindung mit § 21b Abs. 5 des Gerichtsverfassungsgesetzes, sämtlich
+zuletzt geändert durch das Gesetz zur Änderung der Bezeichnungen der
+Richter und ehrenamtlichen Richter und der Präsidialverfassung der
+Gerichte vom 26. Mai 1972 (Bundesgesetzblatt I S. 841), verordnet die
 Bundesregierung mit Zustimmung des Bundesrates:
 
 
@@ -45,33 +45,33 @@ Stimmenmehrheit.
 Mitgliedern des Gerichts. Das amtierende Präsidium bestellt die
 erforderliche Zahl von Mitgliedern des Wahlvorstandes spätestens zwei
 Monate vor Ablauf des Geschäftsjahres, in dem eine Wahl stattfindet.
-Es bestellt zugleich eine angemessene Zahl von Ersatzmitgliedern und
-legt fest, in welcher Reihenfolge sie bei Verhinderung oder
+Es bestellt zugleich eine angemessene Zahl von Ersatzmitgliedern
+und legt fest, in welcher Reihenfolge sie bei Verhinderung oder
 Ausscheiden von Mitgliedern des Wahlvorstandes nachrücken.
 
-(3) Das amtierende Präsidium gibt die Namen der Mitglieder und der
-Ersatzmitglieder des Wahlvorstandes unverzüglich durch Aushang
+(3) Das amtierende Präsidium gibt die Namen der Mitglieder und
+der Ersatzmitglieder des Wahlvorstandes unverzüglich durch Aushang
 bekannt.
 
 
 ## § 2 Wahlverzeichnisse
 
-(1) Der Wahlvorstand erstellt ein Verzeichnis der wahlberechtigten und
-ein Verzeichnis der wählbaren Mitglieder des Gerichts. Die
+(1) Der Wahlvorstand erstellt ein Verzeichnis der wahlberechtigten
+und ein Verzeichnis der wählbaren Mitglieder des Gerichts. Die
 Verzeichnisse sind bis zum Wahltag auf dem laufenden zu halten.
 
-(2) In das Verzeichnis der wählbaren Mitglieder des Gerichts sind auch
-die jeweils wegen Ablaufs ihrer Amtszeit oder durch Los ausscheidenden
-Mitglieder des Präsidiums aufzunehmen, sofern sie noch die
-Voraussetzungen des § 21b Abs. 1 des Gerichtsverfassungsgesetzes
+(2) In das Verzeichnis der wählbaren Mitglieder des Gerichts
+sind auch die jeweils wegen Ablaufs ihrer Amtszeit oder durch Los
+ausscheidenden Mitglieder des Präsidiums aufzunehmen, sofern sie noch
+die Voraussetzungen des § 21b Abs. 1 des Gerichtsverfassungsgesetzes
 erfüllen.
 
-(3) In den Fällen des § 21b Abs. 4 Satz 3 und des § 21d Abs. 2 und 3
-des Gerichtsverfassungsgesetzes nimmt der Wahlvorstand zuvor die
+(3) In den Fällen des § 21b Abs. 4 Satz 3 und des § 21d Abs. 2 und
+3 des Gerichtsverfassungsgesetzes nimmt der Wahlvorstand zuvor die
 Auslosung der ausscheidenden Mitglieder des Präsidiums vor.
 
-(4) Die Auslosung ist für die Richter öffentlich. Zeitpunkt und Ort
-der Auslosung gibt der Wahlvorstand unverzüglich nach seiner
+(4) Die Auslosung ist für die Richter öffentlich. Zeitpunkt und
+Ort der Auslosung gibt der Wahlvorstand unverzüglich nach seiner
 Bestellung durch Aushang bekannt.
 
 (5) Über die Auslosung fertigt der Wahlvorstand eine Niederschrift,
@@ -85,8 +85,8 @@ Vorkommnisse bei der Auslosung sind in der Niederschrift zu vermerken.
 Die Wahl soll mindestens zwei Wochen vor Ablauf des Geschäftsjahres
 stattfinden. Der Wahlvorstand bestimmt einen Arbeitstag als Wahltag,
 die Wahlzeit und den Wahlraum. Bei entsprechendem Bedürfnis kann
-bestimmt werden, daß an zwei aufeinander folgenden Arbeitstagen und in
-mehreren Wahlräumen gewählt wird. Die Wahlzeit muß sich über
+bestimmt werden, daß an zwei aufeinander folgenden Arbeitstagen
+und in mehreren Wahlräumen gewählt wird. Die Wahlzeit muß sich über
 mindestens zwei Stunden erstrecken.
 
 
@@ -98,23 +98,16 @@ Aushang bekannt:
 1.  das Verzeichnis der wahlberechtigten und das Verzeichnis der wählbaren
     Mitglieder des Gerichts,
 
-
 2.  das Ergebnis der Auslosung nach § 21b Abs. 4 Satz 3 und § 21d Abs. 2
     und 3 des Gerichtsverfassungsgesetzes,
 
-
 3.  den Wahltag, die Wahlzeit und den Wahlraum,
-
 
 4.  die Anzahl der zu wählenden Richter,
 
-
 5.  die Voraussetzungen, unter denen eine Briefwahl stattfinden kann,
 
-
 6.  den Hinweis auf das Einspruchsrecht nach Absatz 3.
-
-
 
 Bestehen Zweigstellen oder auswärtige Spruchkörper, so sind die
 Wahlbekanntmachungen auch dort auszuhängen.
@@ -124,11 +117,11 @@ vermerken.
 
 (3) Jedes wahlberechtigte Mitglied des Gerichts kann gegen die
 Richtigkeit der Wahlverzeichnisse binnen einer Woche seit ihrer
-Bekanntmachung oder der Bekanntmachung einer Änderung schriftlich bei
-dem Wahlvorstand Einspruch einlegen. Der Wahlvorstand hat über den
-Einspruch unverzüglich zu entscheiden und bei begründetem Einspruch
-die Wahlverzeichnisse zu berichtigen. Die Entscheidung des
-Wahlvorstandes ist dem Mitglied des Gerichts, das den Einspruch
+Bekanntmachung oder der Bekanntmachung einer Änderung schriftlich
+bei dem Wahlvorstand Einspruch einlegen. Der Wahlvorstand hat
+über den Einspruch unverzüglich zu entscheiden und bei begründetem
+Einspruch die Wahlverzeichnisse zu berichtigen. Die Entscheidung
+des Wahlvorstandes ist dem Mitglied des Gerichts, das den Einspruch
 eingelegt hat, schriftlich mitzuteilen. Sie muß ihm spätestens am Tage
 vor der Wahl zugehen.
 
@@ -138,8 +131,8 @@ vor der Wahl zugehen.
 (1) Das Wahlrecht wird durch Abgabe eines Stimmzettels in einem
 Wahlumschlag ausgeübt.
 
-(2) Auf dem Stimmzettel sind die Anzahl der zu wählenden Richter sowie
-die Namen der wählbaren Richter in alphabetischer Reihenfolge
+(2) Auf dem Stimmzettel sind die Anzahl der zu wählenden Richter
+sowie die Namen der wählbaren Richter in alphabetischer Reihenfolge
 untereinander aufzuführen. Nicht aufzuführen sind die Namen der
 Richter, die dem Präsidium angehören und deren Amtszeit noch nicht
 abläuft.
@@ -156,10 +149,10 @@ anwesend sein.
 
 (2) Der Wahlvorstand trifft Vorkehrungen, daß der Wähler den
 Stimmzettel im Wahlraum unbeobachtet kennzeichnet und in den
-Wahlumschlag legt. Für die Aufnahme der Umschläge ist eine Wahlurne zu
-verwenden. Vor Beginn der Stimmabgabe hat der Wahlvorstand
-festzustellen, daß die Wahlurne leer ist, und sie zu verschließen. Sie
-muß so eingerichtet sein, daß die eingelegten Umschläge nicht
+Wahlumschlag legt. Für die Aufnahme der Umschläge ist eine Wahlurne
+zu verwenden. Vor Beginn der Stimmabgabe hat der Wahlvorstand
+festzustellen, daß die Wahlurne leer ist, und sie zu verschließen.
+Sie muß so eingerichtet sein, daß die eingelegten Umschläge nicht
 entnommen werden können, ohne daß die Urne geöffnet wird.
 
 (3) Solange der Wahlraum zur Stimmabgabe geöffnet ist, müssen
@@ -195,11 +188,8 @@ beendet.
     angehören oder für nicht mehr als drei Monate an ein anderes Gericht
     abgeordnet sind,
 
-
 2.  aus sonstigen Gründen an einer Stimmabgabe nach § 5 Abs. 3 verhindert
     sind und dies dem Wahlvorstand rechtzeitig anzeigen,
-
-
 
 leitet der Wahlvorstand einen Stimmzettel und einen Wahlumschlag sowie
 einen größeren Freiumschlag zu, der die Anschrift des Wahlvorstandes
@@ -215,28 +205,28 @@ welchem Zeitpunkt spätestens der Stimmzettel bei dem Wahlvorstand
 eingegangen sein muß.
 
 (3) Der Wähler gibt seine Stimme ab, indem er auf dem Stimmzettel
-einen oder mehrere Namen von Richtern ankreuzt und den Stimmzettel im
-verschlossenen Wahlumschlag unter Verwendung des Freiumschlages und
-Beifügung der von ihm unterzeichneten vorgedruckten Erklärung dem
-Wahlvorstand übermittelt. Die Stimmabgabe kann vor dem Wahltag
+einen oder mehrere Namen von Richtern ankreuzt und den Stimmzettel
+im verschlossenen Wahlumschlag unter Verwendung des Freiumschlages
+und Beifügung der von ihm unterzeichneten vorgedruckten Erklärung
+dem Wahlvorstand übermittelt. Die Stimmabgabe kann vor dem Wahltag
 erfolgen.
 
-(4) Während der Wahlzeit vermerkt ein Mitglied des Wahlvorstandes die
-Absender der bei dem Wahlvorstand eingegangenen Briefe im
+(4) Während der Wahlzeit vermerkt ein Mitglied des Wahlvorstandes
+die Absender der bei dem Wahlvorstand eingegangenen Briefe im
 Wählerverzeichnis, entnimmt den Briefen die Wahlumschläge und legt
 diese ungeöffnet in die Wahlurne. Die vorgedruckten Erklärungen sind
 zu den Wahlunterlagen zu nehmen. Briefe, die ohne die vorgedruckte
 Erklärung bei dem Wahlvorstand eingehen, sind mit dem darin
-enthaltenen Wahlumschlag sowie mit einem entsprechenden Vermerk des
-Wahlvorstandes zu den Wahlunterlagen zu nehmen. Nach Ablauf der
+enthaltenen Wahlumschlag sowie mit einem entsprechenden Vermerk
+des Wahlvorstandes zu den Wahlunterlagen zu nehmen. Nach Ablauf der
 Wahlzeit eingehende Briefe sind unter Vermerk des Eingangszeitpunktes
 ungeöffnet zu den Wahlunterlagen zu nehmen.
 
 
 ## § 8 Feststellung des Wahlergebnisses
 
-(1) Unverzüglich nach Ablauf der Wahlzeit stellt der Wahlvorstand das
-Wahlergebnis fest. Die Richter können bei der Feststellung des
+(1) Unverzüglich nach Ablauf der Wahlzeit stellt der Wahlvorstand
+das Wahlergebnis fest. Die Richter können bei der Feststellung des
 Wahlergebnisses anwesend sein.
 
 (2) Der Wahlvorstand öffnet die Wahlurne und entnimmt den darin
@@ -248,21 +238,15 @@ entfallenden gültigen Stimmen zusammen.
 
 1.  die nicht in einem Wahlumschlag abgegeben sind,
 
-
 2.  die nicht von dem Wahlvorstand ausgegeben sind,
-
 
 3.  aus denen sich der Wille des Wählers nicht zweifelsfrei ergibt,
 
-
 4.  die einen Zusatz oder Vorbehalt enthalten.
 
-
-
-
 (4) Bei Stimmengleichheit zwischen zwei oder mehreren wählbaren
-Mitgliedern des Gerichts stellt der Wahlvorstand durch Auslosung fest,
-wer als gewählt gilt und wer in den Fällen des § 21c Abs. 2 des
+Mitgliedern des Gerichts stellt der Wahlvorstand durch Auslosung
+fest, wer als gewählt gilt und wer in den Fällen des § 21c Abs. 2 des
 Gerichtsverfassungsgesetzes als Nächstberufener nachrückt.
 
 
@@ -274,28 +258,19 @@ ist. Die Niederschrift muß enthalten:
 
 1.  die Zahl der abgegebenen Stimmzettel,
 
-
 2.  die Zahl der gültigen Stimmzettel,
 
-
 3.  die Zahl der ungültigen Stimmzettel,
-
 
 4.  die für die Gültigkeit oder Ungültigkeit zweifelhafter Stimmzettel
     maßgebenden Gründe,
 
-
 5.  die Angabe, wie viele Stimmen auf jeden der wählbaren Richter
     entfallen sind,
 
-
 6.  die Namen der gewählten Richter,
 
-
 7.  das Ergebnis einer etwaigen Auslosung nach § 8 Abs. 4.
-
-
-
 
 (2) Besondere Vorkommnisse bei der Wahlhandlung oder der Feststellung
 des Wahlergebnisses sind in der Niederschrift zu vermerken.

@@ -19,7 +19,6 @@ Geändert durch
 :   Art. 46 G v. 8.12.2010 I 1864
 
 
-
 ## Eingangsformel
 
 Die Reichsregierung hat das folgende Gesetz beschlossen, das hiermit
@@ -30,8 +29,8 @@ verkündet wird:
 
 Lautet eine im Ausland aufgenommene, in Wertpapieren verbriefte
 Anleihe auf eine ausländische Währung - unbeschadet ob mit oder ohne
-Goldklausel -, so ist im Falle einer Abwertung dieser Währung für den
-Umfang der Zahlungsverpflichtung des Schuldners die abgewertete
+Goldklausel -, so ist im Falle einer Abwertung dieser Währung für
+den Umfang der Zahlungsverpflichtung des Schuldners die abgewertete
 Währung maßgebend.
 
 
@@ -40,10 +39,10 @@ Währung maßgebend.
 (1) Rechtskräftige Entscheidungen stehen der Anwendung dieses Gesetzes
 nicht entgegen.
 
-(2) Vereinbarungen, durch die nach dem Eintritt einer Abwertung der
-ausländischen Währung der Umfang der Schuldverpflichtung von § 1
-abweichend geregelt ist, werden durch das Gesetz nicht berührt. Dies
-gilt auch, wenn die Beteiligten den Umtausch von
+(2) Vereinbarungen, durch die nach dem Eintritt einer Abwertung
+der ausländischen Währung der Umfang der Schuldverpflichtung
+von § 1 abweichend geregelt ist, werden durch das Gesetz nicht
+berührt. Dies gilt auch, wenn die Beteiligten den Umtausch von
 Schuldverschreibungen, die auf eine ausländische Währung lauten, in
 Deutsche Mark-Schuldverschreibungen vereinbart haben.
 
@@ -61,5 +60,4 @@ Goldklausel lauten.
 
 
 ## § 4 (weggefallen)
-
 

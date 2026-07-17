@@ -22,11 +22,10 @@ Zuletzt geändert durch
 ## Erster Abschnitt - Rentenversicherung
 
 
-
 ### § 1 Grundsatz
 
-Aus Anlaß des Anstiegs der allgemeinen Bemessungsgrundlage vom Jahr
-1986 auf das Jahr 1987 werden die Renten der gesetzlichen
+Aus Anlaß des Anstiegs der allgemeinen Bemessungsgrundlage vom
+Jahr 1986 auf das Jahr 1987 werden die Renten der gesetzlichen
 Rentenversicherung einschließlich Knappschaftsausgleichsleistungen zum
 1\. Juli 1987 nach den §§ 2 bis 5 dieses Gesetzes angepaßt.
 
@@ -37,30 +36,26 @@ Rentenversicherung einschließlich Knappschaftsausgleichsleistungen zum
 
 1.  nach den §§ 1253ff. der Reichsversicherungsordnung,
 
-
 2.  nach den §§ 30ff. des Angestelltenversicherungsgesetzes oder
 
-
 3.  nach den §§ 53ff. des Reichsknappschaftsgesetzes
-
-
 
 berechnet sind, werden dadurch angepaßt, daß die Höhe der Rente mit
 der allgemeinen Bemessungsgrundlage für das Jahr 1987 ermittelt wird.
 
-(2) Eine Rente, deren Höhe sich nicht nur nach den allgemeinen in
-Absatz 1 genannten Vorschriften ergibt, sondern auf einer
+(2) Eine Rente, deren Höhe sich nicht nur nach den allgemeinen
+in Absatz 1 genannten Vorschriften ergibt, sondern auf einer
 voraufgegangenen Rente beruht oder infolge eines Versorgungsausgleichs
-oder auf Grund über- und zwischenstaatlichen Rechts geändert ist, wird
-nach § 3 angepaßt. Eine Rente, die nach Artikel 2 § 24 Abs. 5 des
-Knappschaftsrentenversicherungs-Neuregelungsgesetzes gezahlt wird,
+oder auf Grund über- und zwischenstaatlichen Rechts geändert ist,
+wird nach § 3 angepaßt. Eine Rente, die nach Artikel 2 § 24 Abs. 5
+des Knappschaftsrentenversicherungs-Neuregelungsgesetzes gezahlt wird,
 wird nach Absatz 1 angepaßt.
 
 
 ### § 3 Sonstige Renten
 
-Renten, die nicht nach § 2 Abs. 1 anzupassen sind, werden dadurch
-angepaßt, daß der sich für den Monat Juli 1987 ergebende
+Renten, die nicht nach § 2 Abs. 1 anzupassen sind, werden
+dadurch angepaßt, daß der sich für den Monat Juli 1987 ergebende
 anpassungsfähige Rentenbetrag um 3,8 vom Hundert erhöht wird.
 
 
@@ -86,25 +81,13 @@ zulässig.
 
 Die allgemeine Bemessungsgrundlage für das Jahr 1987 beträgt
 
-*    *   in der Rentenversicherung der Arbeiter und der Angestellten
-
-    *   28.945 Deutsche Mark
-
-
-*    *   und
-
-    *
-
-*    *   in der knappschaftlichen Rentenversicherung
-
-    *   29.252 Deutsche Mark.
-
-
-
+| in der Rentenversicherung der Arbeiter und der Angestellten | 28.945 Deutsche Mark |
+| --- | --- |
+| und |  |
+| in der knappschaftlichen Rentenversicherung | 29.252 Deutsche Mark. |
 
 
 ## Zweiter Abschnitt - Unfallversicherung
-
 
 
 ### § 6 Anpassungsfaktor
@@ -120,7 +103,6 @@ und 1.656 Deutsche Mark monatlich.
 
 
 ## Dritter Abschnitt - Schlußvorschriften
-
 
 
 ### § 8 Berlin-Klausel

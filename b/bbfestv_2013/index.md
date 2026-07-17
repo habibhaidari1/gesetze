@@ -1,6 +1,5 @@
 ---
-Title: Verordnung zur Festsetzung der der Revision unterliegenden Bundesbeteiligung
-  an den Kosten der Unterkunft und Heizung für das Jahr 2013
+Title: Verordnung zur Festsetzung der der Revision unterliegenden Bundesbeteiligung an den Kosten der Unterkunft und Heizung für das Jahr 2013
 jurabk: BBFestV 2013
 layout: default
 origslug: bbfestv_2013
@@ -28,11 +27,11 @@ Bundesministerium für Arbeit und Soziales:
 ## § 1 Festlegung des Wertes nach § 46 Absatz 6 Satz 1 des Zweiten Buches Sozialgesetzbuch bis zum Jahr 2014
 
 Der Wert nach § 46 Absatz 6 Satz 1 des Zweiten Buches Sozialgesetzbuch
-wird rückwirkend zum 1. Januar 2013 für das Jahr 2013 sowie für das
-Jahr 2014 auf bundesdurchschnittlich 3,3 Prozentpunkte festgelegt. Von
-diesem Wert werden auf Grund der in den Ländern unterschiedlichen
-Ausgaben für die Leistungen nach § 28 des Zweiten Buches
-Sozialgesetzbuch und nach § 6b des Bundeskindergeldgesetzes
+wird rückwirkend zum 1. Januar 2013 für das Jahr 2013 sowie
+für das Jahr 2014 auf bundesdurchschnittlich 3,3 Prozentpunkte
+festgelegt. Von diesem Wert werden auf Grund der in den Ländern
+unterschiedlichen Ausgaben für die Leistungen nach § 28 des Zweiten
+Buches Sozialgesetzbuch und nach § 6b des Bundeskindergeldgesetzes
 rückwirkend zum 1. Januar 2013 für das Jahr 2013 sowie für das Jahr
 2014 die folgenden länderspezifischen Werte abgeleitet:
 3,7 Prozentpunkte für Baden-Württemberg,

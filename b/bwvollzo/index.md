@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über den Vollzug von Freiheitsstrafe, Strafarrest, Jugendarrest
-  und Disziplinararrest durch Behörden der Bundeswehr
+Title: Verordnung über den Vollzug von Freiheitsstrafe, Strafarrest, Jugendarrest und Disziplinararrest durch Behörden der Bundeswehr
 jurabk: BwVollzO
 layout: default
 origslug: bwvollzo
@@ -24,8 +23,8 @@ Geändert durch
 
 Auf Grund des Artikels 7 des Einführungsgesetzes zum Wehrstrafgesetz
 vom 30. März 1957 (Bundesgesetzbl. I S. 306) und des § 115 des
-Jugendgerichtsgesetzes vom 4. August 1953 (Bundesgesetzbl. I S. 751),
-beide zuletzt geändert durch das Gesetz zur Neuordnung des
+Jugendgerichtsgesetzes vom 4. August 1953 (Bundesgesetzbl. I S.
+751), beide zuletzt geändert durch das Gesetz zur Neuordnung des
 Wehrdisziplinarrechts vom 21. August 1972 (Bundesgesetzbl. I S. 1481),
 wird von der Bundesregierung mit Zustimmung des Bundesrates und
 auf Grund des § 49 Abs. 4 der Wehrdisziplinarordnung in der Fassung
@@ -67,8 +66,8 @@ Vollzugshelfer; der Vollzugsleiter und die Vollzugshelfer sind für die
 Dauer des Vollzugs Vorgesetzte des Soldaten nach § 3 der Verordnung
 über die Regelung des militärischen Vorgesetztenverhältnisses.
 
-(2) Der Vollzugsleiter ist für die ordnungsgemäße Durchführung des
-Vollzugs verantwortlich; er trifft die im Rahmen des Vollzugs
+(2) Der Vollzugsleiter ist für die ordnungsgemäße Durchführung
+des Vollzugs verantwortlich; er trifft die im Rahmen des Vollzugs
 erforderlichen Entscheidungen.
 
 (3) Die Vollzugshelfer unterstützen den Vollzugsleiter nach dessen
@@ -77,9 +76,9 @@ Weisungen in der Durchführung des Vollzugs.
 
 ## § 5 Dauer der Freiheitsentziehung
 
-(1) Die Dauer der Freiheitsentziehung wird nach Tagen berechnet; dabei
-ist die Woche mit sieben Tagen, der Monat nach der Kalenderzeit zu
-berechnen.
+(1) Die Dauer der Freiheitsentziehung wird nach Tagen berechnet;
+dabei ist die Woche mit sieben Tagen, der Monat nach der Kalenderzeit
+zu berechnen.
 
 (2) Der Tag, an dem sich der Soldat zum Vollzug meldet, und der Tag,
 an dem er entlassen wird, sind voll anzurechnen; das gleiche gilt,
@@ -88,10 +87,10 @@ wenn der Vollzug unterbrochen wird.
 (3) Der Freizeitarrest beginnt am Sonnabend um 8.00 Uhr und endet am
 Montag eine Stunde vor Dienstbeginn.
 
-(4) Wird Freiheitsstrafe, Strafarrest oder Jugendarrest vollzogen und
-fällt der Entlassungszeitpunkt auf den ersten Werktag nach Ostern oder
-Pfingsten oder in die Zeit vom 22. Dezember bis zum 2. Januar, so kann
-der Soldat an dem diesem Tag oder Zeitraum vorhergehenden Werktag
+(4) Wird Freiheitsstrafe, Strafarrest oder Jugendarrest vollzogen
+und fällt der Entlassungszeitpunkt auf den ersten Werktag nach Ostern
+oder Pfingsten oder in die Zeit vom 22. Dezember bis zum 2. Januar, so
+kann der Soldat an dem diesem Tag oder Zeitraum vorhergehenden Werktag
 entlassen werden, wenn dies nach der Länge der Freiheitsentziehung
 vertretbar ist und keine Nachteile für die Disziplin zu besorgen sind.
 
@@ -118,27 +117,23 @@ zuläßt. Ist der Soldat nicht vollzugstauglich, so hat
 1.  der vollstreckende Vorgesetzte, wenn Disziplinararrest zu vollziehen
     ist, die Vollstreckung aufzuschieben,
 
-
 2.  der Vollzugsleiter, wenn Freiheitsstrafe oder Strafarrest zu
-    vollziehen ist, die Entscheidung der Vollstreckungsbehörde, wenn
-    Jugendarrest zu vollziehen ist, die Entscheidung des
+    vollziehen ist, die Entscheidung der Vollstreckungsbehörde,
+    wenn Jugendarrest zu vollziehen ist, die Entscheidung des
     Vollstreckungsleiters herbeizuführen.
-
-
-
 
 
 ## § 8 Mitnahme dienstlicher und persönlicher Gegenstände
 
 (1) Der Soldat hat zum Vollzug nur die Gegenstände mitzubringen, die
 für den dienstlichen und persönlichen Gebrauch als notwendig bestimmt
-worden sind. Lichtbilder nahestehender Personen, Erinnerungsstücke von
-persönlichem Wert sowie Gegenstände des religiösen Gebrauchs sind ihm
-zu belassen. Der Besitz von Büchern und anderen Gegenständen zur
-Fortbildung oder zur sonstigen Freizeitbeschäftigung ist ihm in
-angemessenem Umfang zu gestatten, soweit der Besitz oder die
-Überlassung oder Benutzung nicht mit Strafe oder Geldbuße bedroht ist
-oder die Sicherheit oder Ordnung im Vollzug oder die militärische
+worden sind. Lichtbilder nahestehender Personen, Erinnerungsstücke
+von persönlichem Wert sowie Gegenstände des religiösen Gebrauchs
+sind ihm zu belassen. Der Besitz von Büchern und anderen Gegenständen
+zur Fortbildung oder zur sonstigen Freizeitbeschäftigung ist ihm
+in angemessenem Umfang zu gestatten, soweit der Besitz oder die
+Überlassung oder Benutzung nicht mit Strafe oder Geldbuße bedroht
+ist oder die Sicherheit oder Ordnung im Vollzug oder die militärische
 Ordnung gefährden würde.
 
 (2) Entscheidungen nach Absatz 1 können eingeschränkt oder widerrufen
@@ -152,8 +147,8 @@ abzunehmen und für ihn aufzubewahren.
 
 ## § 9 Pflichten und Rechte des Soldaten
 
-Der Soldat hat auch während des Vollzugs die Pflichten und Rechte des
-Soldaten, soweit sich nicht aus den Vorschriften über den Vollzug
+Der Soldat hat auch während des Vollzugs die Pflichten und Rechte
+des Soldaten, soweit sich nicht aus den Vorschriften über den Vollzug
 etwas anderes ergibt.
 
 
@@ -162,9 +157,9 @@ etwas anderes ergibt.
 (1) Der Soldat soll während des Vollzugs in seiner Ausbildung
 gefördert werden. In der Regel soll er bei einer militärischen
 Einheit, wenn dies nicht möglich oder nicht tunlich ist, bei einer
-militärischen Dienststelle am Dienst teilnehmen; die Teilnahme kann
-auf bestimmte Arten des Dienstes oder auf eine bestimmte Zeit
-beschränkt werden. Ist die Teilnahme am Dienst wegen der
+militärischen Dienststelle am Dienst teilnehmen; die Teilnahme
+kann auf bestimmte Arten des Dienstes oder auf eine bestimmte
+Zeit beschränkt werden. Ist die Teilnahme am Dienst wegen der
 Persönlichkeit des Soldaten, der Art des Dienstes, der Kürze des
 Vollzugs oder aus anderen Gründen nicht tunlich, so soll der Soldat
 nach Möglichkeit in einer Weise beschäftigt werden, die seine
@@ -193,16 +188,16 @@ Stunde im Freien aufgehalten hat.
 Der Soldat erhält Truppenverpflegung; Tabakwaren, andere Genußmittel,
 zusätzliche Nahrungsmittel und Mittel zur Körperpflege sind in
 angemessenem Umfang gestattet. Gegenstände, die die Sicherheit oder
-Ordnung im Vollzug gefährden, können ausgeschlossen werden. Besitz und
-Genuß alkoholischer Getränke sowie anderer Rauschmittel sind
+Ordnung im Vollzug gefährden, können ausgeschlossen werden. Besitz
+und Genuß alkoholischer Getränke sowie anderer Rauschmittel sind
 untersagt.
 
 
 ## § 13 Seelsorgerische Betreuung
 
-(1) Der Soldat hat Anspruch auf seelsorgerische Betreuung durch einen
-Militärgeistlichen seiner Religionsgemeinschaft. Ist ein solcher
-Militärgeistlicher nicht bestellt, so ist dem Soldaten nach
+(1) Der Soldat hat Anspruch auf seelsorgerische Betreuung durch
+einen Militärgeistlichen seiner Religionsgemeinschaft. Ist ein
+solcher Militärgeistlicher nicht bestellt, so ist dem Soldaten nach
 Möglichkeit zu helfen, mit einem Seelsorger seines Bekenntnisses in
 Verbindung zu treten.
 
@@ -250,15 +245,15 @@ Postverkehrs des Soldaten andere Anordnungen trifft.
 ## § 16 Empfang von Besuchen
 
 (1) Der Soldat darf wöchentlich einmal Besuch empfangen. Weitere
-Besuche können gestattet werden, insbesondere wenn ein wichtiger Grund
-vorliegt und der Vollzug nicht gefährdet wird. Besuche können
+Besuche können gestattet werden, insbesondere wenn ein wichtiger
+Grund vorliegt und der Vollzug nicht gefährdet wird. Besuche können
 untersagt oder überwacht werden, soweit dies für die Sicherheit oder
 Ordnung im Vollzug notwendig ist; die Unterhaltung des Soldaten mit
 Besuchern darf nur dann überwacht werden, wenn es aus diesen Gründen
 unerläßlich ist.
 
-(2) Die Beschränkungen des Absatzes 1 gelten nicht für Besuche von
-Verteidigern sowie von Rechtsanwälten und Notaren in einer den
+(2) Die Beschränkungen des Absatzes 1 gelten nicht für Besuche
+von Verteidigern sowie von Rechtsanwälten und Notaren in einer den
 Soldaten betreffenden Rechtssache. Sie gelten ferner nicht für Besuche
 von Vertretern der Jugendgerichtshilfe und, wenn der Soldat unter
 Bewährungsaufsicht steht oder Erziehungshilfe angeordnet ist, für
@@ -277,9 +272,9 @@ Gründe Urlaub bis zu sieben Tagen erteilen. Durch den Urlaub wird die
 Vollstreckung nicht unterbrochen.
 
 (2) Ist Strafe oder Arrest mehr als einen Monat ununterbrochen
-vollzogen worden, so können dem Soldaten bei guter Führung auch andere
-Vollzugserleichterungen bewilligt werden, soweit dies mit der
-Sicherheit und Ordnung im Vollzug vereinbar ist. Als besondere
+vollzogen worden, so können dem Soldaten bei guter Führung auch
+andere Vollzugserleichterungen bewilligt werden, soweit dies mit
+der Sicherheit und Ordnung im Vollzug vereinbar ist. Als besondere
 Erleichterungen können das Verlassen des Arrestgebäudes oder der
 militärischen Anlage oder Einrichtung auch außerhalb der Dienstzeit
 und für jeden Monat ununterbrochenen Vollzugs ein Tag Urlaub bewilligt
@@ -293,14 +288,14 @@ ihre Bewilligung nicht mehr gegeben sind.
 
 ## § 18 Vollzugsuntauglichkeit
 
-(1) Wird der Soldat wegen Krankheit in ein Bundeswehrkrankenhaus oder
-in eine andere Krankenanstalt verbracht oder ist er nach Feststellung
-des Truppenarztes sonst nicht mehr vollzugstauglich, so hat der
-Vollzugsleiter, wenn Disziplinararrest vollzogen wird, die
-Entscheidung des vollstreckenden Vorgesetzten, wenn Freiheitsstrafe
-oder Strafarrest vollzogen wird, die Entscheidung der
-Vollstreckungsbehörde, und wenn Jugendarrest vollzogen wird, die
-Entscheidung des Vollstreckungsleiters herbeizuführen, ob die
+(1) Wird der Soldat wegen Krankheit in ein Bundeswehrkrankenhaus
+oder in eine andere Krankenanstalt verbracht oder ist er nach
+Feststellung des Truppenarztes sonst nicht mehr vollzugstauglich,
+so hat der Vollzugsleiter, wenn Disziplinararrest vollzogen
+wird, die Entscheidung des vollstreckenden Vorgesetzten, wenn
+Freiheitsstrafe oder Strafarrest vollzogen wird, die Entscheidung
+der Vollstreckungsbehörde, und wenn Jugendarrest vollzogen wird,
+die Entscheidung des Vollstreckungsleiters herbeizuführen, ob die
 Vollstreckung unterbrochen wird.
 
 (2) Bis zur Entscheidung über die Unterbrechung der Vollstreckung kann
@@ -310,35 +305,30 @@ von den Vollzugsvorschriften abgewichen werden.
 ## § 19 Ordnung und Sicherheit im Vollzug
 
 (1) Verstößt ein Soldat gegen die Ordnung oder gefährdet er die
-Sicherheit im Vollzug, so können besondere Maßnahmen getroffen werden.
-Sie dürfen nur insoweit und solange aufrechterhalten werden, als
-notwendig ist, um die Sicherheit oder Ordnung im Vollzug zu
+Sicherheit im Vollzug, so können besondere Maßnahmen getroffen
+werden. Sie dürfen nur insoweit und solange aufrechterhalten werden,
+als notwendig ist, um die Sicherheit oder Ordnung im Vollzug zu
 gewährleisten oder wiederherzustellen.
 
 (2) Als besondere Maßnahmen sind zulässig:
 
-1.  der Entzug oder die Vorenthaltung von Gegenständen, die der Soldat zu
-    Gewalttätigkeiten, zur Flucht, zum Selbstmord oder zur
+1.  der Entzug oder die Vorenthaltung von Gegenständen, die der
+    Soldat zu Gewalttätigkeiten, zur Flucht, zum Selbstmord oder zur
     Selbstbeschädigung oder sonst mißbrauchen könnte,
-
 
 2.  die Beobachtung bei Nacht,
 
-
 3.  der Entzug oder die Beschränkung des Aufenthalts im Freien,
-
 
 4.  die Unterbringung in einem besonders gesicherten Arrestraum ohne
     gefährdende Gegenstände.
-
-
 
 Maßnahmen nach den Nummern 1 und 2 sind unzulässig, wenn der Soldat
 nur gegen die Ordnung im Vollzug verstößt.
 
 (3) Mehrere Maßnahmen können nebeneinander angeordnet werden, soweit
-die Ordnung oder Sicherheit im Vollzug nur dadurch gewährleistet oder
-wiederhergestellt werden kann. Eine in ihrer Wirkung schärfere
+die Ordnung oder Sicherheit im Vollzug nur dadurch gewährleistet
+oder wiederhergestellt werden kann. Eine in ihrer Wirkung schärfere
 Maßnahme darf nur angeordnet werden, wenn eine leichtere keinen Erfolg
 verspricht.
 
@@ -358,8 +348,8 @@ Vorschriften der Wehrbeschwerdeordnung.
 
 ## § 21 Einschränkung von Grundrechten
 
-Das Grundrecht der körperlichen Unversehrtheit (Artikel 2 Abs. 2 Satz
-1 des Grundgesetzes) sowie das Grundrecht des Postgeheimnisses
+Das Grundrecht der körperlichen Unversehrtheit (Artikel 2 Abs. 2
+Satz 1 des Grundgesetzes) sowie das Grundrecht des Postgeheimnisses
 (Artikel 10 Abs. 1 des Grundgesetzes) werden nach Maßgabe dieser
 Verordnung eingeschränkt.
 

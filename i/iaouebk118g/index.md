@@ -1,7 +1,5 @@
 ---
-Title: Gesetz zu dem Übereinkommen Nr. 118 der Internationalen Arbeitsorganisation
-  vom 28. Juni 1962 über die Gleichbehandlung von Inländern und Ausländern in der
-  Sozialen Sicherheit
+Title: Gesetz zu dem Übereinkommen Nr. 118 der Internationalen Arbeitsorganisation vom 28. Juni 1962 über die Gleichbehandlung von Inländern und Ausländern in der Sozialen Sicherheit
 jurabk: IAOÜbk118G
 layout: default
 origslug: iao_bk118g
@@ -18,7 +16,6 @@ Fundstelle
 :   BGBl II: 1970, 802
 
 
-
 ## Art 1
 
 Dem in Genf am 28. Juni 1962 von der Allgemeinen Konferenz der
@@ -30,19 +27,13 @@ der Sozialen Sicherheit übernimmt:
 
 a)  Ärztliche Betreuung;
 
-
 b)  Krankengeld;
-
 
 c)  Leistungen bei Mutterschaft;
 
-
 d)  Leistungen bei Arbeitsunfällen und Berufskrankheiten;
 
-
 e)  Leistungen bei Arbeitslosigkeit.
-
-
 
 Das Übereinkommen wird nachstehend veröffentlicht.
 
@@ -60,15 +51,11 @@ Kraft tritt, nicht mehr anzuwenden:
     Krankengeldes übernommen haben, sowie auf die in Artikel 10 Abs. 1 des
     Übereinkommens genannten Personen;
 
-
 2.  § 625 der Reichsversicherungsordnung auf Staatsangehörige anderer
     Mitgliedstaaten der Internationalen Arbeitsorganisation, welche die
     Verpflichtungen aus dem Übereinkommen in dem Zweig der Leistungen bei
     Arbeitsunfällen und Berufskrankheiten übernommen haben, sowie auf die
     in Artikel 10 Abs. 1 des Übereinkommens genannten Personen.
-
-
-
 
 
 ## Art 3

@@ -1,6 +1,5 @@
 ---
-Title: Verordnung zur Freistellung von Versicherungsunternehmen von der Aufsicht nach
-  dem Versicherungsaufsichtsgesetz
+Title: Verordnung zur Freistellung von Versicherungsunternehmen von der Aufsicht nach dem Versicherungsaufsichtsgesetz
 jurabk: VAFreistV
 layout: default
 origslug: vafreistv
@@ -17,7 +16,6 @@ Fundstelle
 :   BGBl I: 1988, 529
 
 
-
 ## Eingangsformel
 
 Auf Grund des § 1 Abs. 2 Satz 3 des Versicherungsaufsichtsgesetzes in
@@ -28,9 +26,9 @@ S. 2485) angefügt wurde, wird verordnet:
 
 ## § 1
 
-Die Kirchliche Zusatzversorgungskasse Rheinland-Westfalen und die
-Kirchliche Zusatzversorgungskasse des Verbandes der Diözesen
-Deutschlands werden von der Aufsicht nach dem
+Die Kirchliche Zusatzversorgungskasse Rheinland-Westfalen
+und die Kirchliche Zusatzversorgungskasse des Verbandes
+der Diözesen Deutschlands werden von der Aufsicht nach dem
 Versicherungsaufsichtsgesetz freigestellt.
 
 

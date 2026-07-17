@@ -1,8 +1,5 @@
 ---
-Title: Vertrag über die Regelung der Rechtsverhältnisse bei der Volkswagenwerk Gesellschaft
-  mit beschränkter Haftung und über die Errichtung einer "Stiftung Volkswagenwerk"
-  (Anlage zum Gesetz über die Regelung der Rechtsverhältnisse bei der Volkswagenwerk
-  Gesellschaft mit beschränkter Haftung)
+Title: "Vertrag über die Regelung der Rechtsverhältnisse bei der Volkswagenwerk Gesellschaft mit beschränkter Haftung und über die Errichtung einer \"Stiftung Volkswagenwerk\" (Anlage zum Gesetz über die Regelung der Rechtsverhältnisse bei der Volkswagenwerk Gesellschaft mit beschränkter Haftung)"
 jurabk: VwGmbHVtr
 layout: default
 origslug: vwgmbhvtr
@@ -19,15 +16,14 @@ Fundstelle
 :   BGBl I: 1960, 302
 
 
-
 ## Eingangsformel
 
-Der Bund und das Land Niedersachsen sind übereingekommen, die zwischen
-ihnen in bezug auf die Eigentumsverhältnisse an der Volkswagenwerk
-GmbH in Wolfsburg bestehenden Meinungsverschiedenheiten
-vergleichsweise zu bereinigen. Zu diesem Zweck schließen der Bund,
-vertreten durch den Bundesminister für wirtschaftlichen Besitz des
-Bundes, und das Land Niedersachsen, vertreten durch den
+Der Bund und das Land Niedersachsen sind übereingekommen, die
+zwischen ihnen in bezug auf die Eigentumsverhältnisse an der
+Volkswagenwerk GmbH in Wolfsburg bestehenden Meinungsverschiedenheiten
+vergleichsweise zu bereinigen. Zu diesem Zweck schließen der
+Bund, vertreten durch den Bundesminister für wirtschaftlichen
+Besitz des Bundes, und das Land Niedersachsen, vertreten durch den
 Niedersächsischen Ministerpräsidenten, dieser wiederum vertreten durch
 den Niedersächsischen Minister der Finanzen, folgenden Vertrag:
 
@@ -43,8 +39,8 @@ Der Bund und das Land Niedersachsen erhalten je 20 vom Hundert des
 Grundkapitals der Volkswagenwerk Aktiengesellschaft und je zur Hälfte
 die bis zur Umwandlung von der Volkswagenwerk GmbH ausgeschütteten
 Gewinne einschließlich der aufgelaufenen Zinsen.
-Die restlichen 60 vom Hundert des Grundkapitals werden in Form von
-Kleinaktien in noch im Benehmen mit dem Land Niedersachsen
+Die restlichen 60 vom Hundert des Grundkapitals werden in Form
+von Kleinaktien in noch im Benehmen mit dem Land Niedersachsen
 festzulegenden Raten veräußert werden. Bis zur Veräußerung werden die
 Aktien vom Bund im Benehmen mit dem Land Niedersachsen verwaltet.
 
@@ -59,18 +55,13 @@ Der Stiftung sollen folgende Vermögenswerte übertragen werden:
 a)  die jährlichen Gewinne auf die den Vertragspartnern verbleibenden
     Aktien,
 
-
-b)  der Erlös aus den zu veräußernden Kleinaktien mit der Maßgabe, daß die
-    Stiftung verpflichtet wird, diesen Betrag zu einem angemessenen
+b)  der Erlös aus den zu veräußernden Kleinaktien mit der Maßgabe, daß
+    die Stiftung verpflichtet wird, diesen Betrag zu einem angemessenen
     Zinssatz als Darlehen für die Dauer von zwanzig Jahren dem Bund zur
     Verfügung zu stellen,
 
-
 c)  diejenigen Gewinne, die auf die vom Bund gemäß § 2 Abs. 2 zu
     verwaltenden Aktien entfallen.
-
-
-
 
 
 ## § 4
@@ -83,20 +74,13 @@ Hierbei ist sicherzustellen, daß
 a)  der Vorsitz im Kuratorium der Stiftung einem Vertreter des Landes
     Niedersachsen übertragen wird,
 
-
 b)  dem Land Niedersachsen zufließen
 
     aa) die Erträge aus dem niedersächsischen Aktienbesitz,
 
-
     bb) als Sitzland neben dem allgemeinen schlüsselmäßig zu ermittelnden
         Länderanteil ein Vorab von 10 vom Hundert aus den restlichen
         Stiftungserträgen.
-
-
-
-
-
 
 Diese Mittel sind vom Land Niedersachsen im Sinne des § 3 dieses
 Vertrages zu verwenden.
@@ -114,8 +98,8 @@ Aktiengesetz eine qualifizierte Mehrheit erforderlich ist, einer
 Mehrheit von mehr als 80 vom Hundert des bei der Beschlußfassung
 vertretenen Grundkapitals bedürfen.
 
-Einen Vorschlag des Bundes, einen seiner Vertreter im Aufsichtsrat zum
-Vorsitzer zu wählen, werden die Vertreter des Landes Niedersachsen
+Einen Vorschlag des Bundes, einen seiner Vertreter im Aufsichtsrat
+zum Vorsitzer zu wählen, werden die Vertreter des Landes Niedersachsen
 unterstützen.
 
 

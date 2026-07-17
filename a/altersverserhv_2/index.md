@@ -1,6 +1,5 @@
 ---
-Title: Zweite Verordnung zur Durchführung einer Erhebung über Arten und Umfang der
-  betrieblichen Altersversorgung
+Title: Zweite Verordnung zur Durchführung einer Erhebung über Arten und Umfang der betrieblichen Altersversorgung
 jurabk: AltersVersErhV 2
 layout: default
 origslug: altersverserhv_2
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BAnz: 1977, Nr 69
-
 
 
 ## Eingangsformel
@@ -40,20 +38,13 @@ einbezogen:
 
 1.  Produzierendes Gewerbe ohne Baugewerbe;
 
-
 2.  Handel;
-
 
 3.  Verkehr und Nachrichtenübermittlung;
 
-
 4.  Kreditinstitute und Versicherungsgewerbe;
 
-
 5.  Dienstleistungen, soweit von Unternehmen und freien Berufen erbracht.
-
-
-
 
 (2) Die Erhebung wird repräsentativ durchgeführt.
 
@@ -64,32 +55,24 @@ Bei der Erhebung werden erfaßt
 
 1.  die Formen der betrieblichen Altersversorgung,
 
-
 2.  die Zahl der Unternehmen, die über eine betriebliche Altersversorgung
     verfügen, und die Zahl der Arbeitnehmer, die eine betriebliche
     Versorgungsleistung zu erwarten haben,
 
-
-3.  die durchschnittliche Höhe der monatlichen Versorgungsleistung, die im
-    Zeitpunkt der Erhebung nach 35 Dienstjahren im Unternehmen erreicht
+3.  die durchschnittliche Höhe der monatlichen Versorgungsleistung, die
+    im Zeitpunkt der Erhebung nach 35 Dienstjahren im Unternehmen erreicht
     wird,
-
 
 4.  die Anpassung der Versorgung an die wirtschaftliche Entwicklung,
 
-
-5.  die Veränderungen der betrieblichen Versorgungsordnungen nach dem
-    Inkrafttreten des Gesetzes zur Verbesserung der betrieblichen
+5.  die Veränderungen der betrieblichen Versorgungsordnungen nach
+    dem Inkrafttreten des Gesetzes zur Verbesserung der betrieblichen
     Altersversorgung vom 19. Dezember 1974 (BGBl. I S. 3610),
-
 
 6.  die Aufwendungen der Unternehmen für die betriebliche Altersversorgung
     im Jahre 1976 sowie die Höhe der Pensionsrückstellungen und der
     Kassenvermögen der Unterstützungskassen am 31. Dezember 1975 und am
     31\. Dezember 1976.
-
-
-
 
 
 ## § 4

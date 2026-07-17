@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über Ausnahmen zum Verbringungs- und Einfuhrverbot von gefährlichen
-  Hunden in das Inland
+Title: Verordnung über Ausnahmen zum Verbringungs- und Einfuhrverbot von gefährlichen Hunden in das Inland
 jurabk: HundVerbrEinfVO
 layout: default
 origslug: hundverbreinfvo
@@ -17,14 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 1248
 
 Geändert durch
-:   Art. 86 G v. 21. 6.2005 I 1818
-
-Die Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen
-Parlaments und des Rates vom 22. Juni 1998 über ein
-Informationsverfahren auf dem Gebiet der Normen und technischen
-Vorschriften (ABl. EG Nr. L 204 S. 37), zuletzt geändert durch die
-Richtlinie 98/48/EG des Europäischen Parlaments und des Rates vom 20.
-Juli 1998 (ABl. EG Nr. L 217 S. 18), sind beachtet worden.
+:   Art. 86 G v. 21.6.2005 I 1818
 
 
 ## Eingangsformel
@@ -43,16 +35,12 @@ Im Sinne dieser Verordnung sind:
     eine Person, die einen gefährlichen Hund in das Inland verbringt oder
     einführt;
 
-
 2.  Nämlichkeit:
 
     Übereinstimmung des in das Inland verbrachten oder eingeführten
     gefährlichen Hundes mit dem in Dokumenten oder Bescheinigungen und
     durch Kennzeichnung nach den jeweiligen landesrechtlichen Vorschriften
     ausgewiesenen Tier.
-
-
-
 
 
 ## § 2 Ausnahmen vom Verbringungs- und Einfuhrverbot
@@ -88,16 +76,16 @@ berechtigt in einem Land gehalten werden dürfen.
 
 (1) Die Begleitperson eines gefährlichen Hundes muss über die zur
 Feststellung der Nämlichkeit des Hundes erforderlichen geeigneten
-Dokumente und Bescheinigungen verfügen und diese auf Verlangen der
-zuständigen Behörde vorlegen. Die Richtigkeit der Angaben muss in den
-Dokumenten und Bescheinigungen, in denen Angaben über Geburtsdatum,
-Geschlecht, Rasse und Fellfarbe des Hundes enthalten sind, vom
-Ursprungsland amtlich bestätigt sein. Ist der Hund dauerhaft
+Dokumente und Bescheinigungen verfügen und diese auf Verlangen
+der zuständigen Behörde vorlegen. Die Richtigkeit der Angaben
+muss in den Dokumenten und Bescheinigungen, in denen Angaben über
+Geburtsdatum, Geschlecht, Rasse und Fellfarbe des Hundes enthalten
+sind, vom Ursprungsland amtlich bestätigt sein. Ist der Hund dauerhaft
 gekennzeichnet, sind amtliche Bestätigungen über Tätowier- oder Chip-
 Nummer ausreichend. In den Fällen des Satzes 3 hat die Begleitperson
 das Ablesen der Tätowier- oder Chip-Nummer zu dulden und die mit der
-Überwachung beauftragten Personen nach Maßgabe des § 3 des Gesetzes zu
-unterstützen.
+Überwachung beauftragten Personen nach Maßgabe des § 3 des Gesetzes
+zu unterstützen.
 
 (2) Die Begleitperson hat neben den für eine Nämlichkeitskontrolle
 erforderlichen Dokumenten oder Bescheinigungen nach Absatz 1
@@ -105,16 +93,12 @@ erforderlichen Dokumenten oder Bescheinigungen nach Absatz 1
 1.  im Falle des § 2 Abs. 1 amtliche Bescheinigungen, welche die
     Zweckbestimmung des Hundes bestätigen,
 
-
-2.  im Falle des § 2 Abs. 2 und 4 amtliche Bescheinigungen, welche das
-    berechtigte Halten des Hundes an dem Aufenthaltsort des Hundes
+2.  im Falle des § 2 Abs. 2 und 4 amtliche Bescheinigungen, welche
+    das berechtigte Halten des Hundes an dem Aufenthaltsort des Hundes
     bestätigen,
-
 
 3.  im Falle des § 2 Abs. 3 amtliche Bescheinigungen, welche bestätigen,
     dass der Hund bislang nicht als gefährlich aufgefallen ist,
-
-
 
 mitzuführen und auf Verlangen der zuständigen Behörde vorzulegen.
 
@@ -124,8 +108,8 @@ Bescheinigung der Zollbehörden mit dem Einfuhrdatum erforderlich. Die
 Bescheinigung ist bei der Ausreise wieder vorzulegen.
 
 (4) Dokumente und Bescheinigungen sind auf Verlangen der zuständigen
-Behörde im Original vorzulegen. Bescheinigungen und Dokumente in einer
-fremden Sprache müssen mit einer amtlich beglaubigten deutschen
+Behörde im Original vorzulegen. Bescheinigungen und Dokumente in
+einer fremden Sprache müssen mit einer amtlich beglaubigten deutschen
 Übersetzung versehen sein.
 
 
@@ -139,14 +123,10 @@ die Einfuhr fest, so kann sie insbesondere
     Anforderungen des Gesetzes und dieser Verordnung für das Verbringen in
     das Inland oder die Einfuhr erfüllt sind,
 
-
 2.  den Hund beschlagnahmen und unterbringen oder
-
 
 3.  das unverzügliche Zurückbringen an den Ort der Herkunft des Hundes
     anordnen.
-
-
 
 Die Befugnisse der zuständigen Behörde aufgrund anderer
 Rechtsvorschriften bleiben unberührt.

@@ -1,8 +1,5 @@
 ---
-Title: Verordnung zur Übertragung der Befugnis zum Erlaß von Rechtsverordnungen auf
-  das Bundesaufsichtsamt für das Kreditwesen nach dem Gesetz zu dem Vertrag vom 18.
-  Mai 1990 über die Schaffung einer Währungs-, Wirtschafts- und Sozialunion zwischen
-  der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik
+Title: Verordnung zur Übertragung der Befugnis zum Erlaß von Rechtsverordnungen auf das Bundesaufsichtsamt für das Kreditwesen nach dem Gesetz zu dem Vertrag vom 18. Mai 1990 über die Schaffung einer Währungs-, Wirtschafts- und Sozialunion zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik
 jurabk: BAKredWWSUBefÜV
 layout: default
 origslug: bakredwwsubef_v
@@ -19,11 +16,10 @@ Fundstelle
 :   BGBl I: 1990, 1995
 
 
-
 ## Eingangsformel
 
-Auf Grund des Artikels 28 Satz 2 des Gesetzes vom 25. Juni 1990 zu dem
-Vertrag vom 18. Mai 1990 über die Schaffung einer Währungs-,
+Auf Grund des Artikels 28 Satz 2 des Gesetzes vom 25. Juni 1990 zu
+dem Vertrag vom 18. Mai 1990 über die Schaffung einer Währungs-,
 Wirtschafts- und Sozialunion zwischen der Bundesrepublik Deutschland
 und der Deutschen Demokratischen Republik (BGBl. II S. 518) verordnet
 der Bundesminister der Finanzen:
@@ -32,8 +28,8 @@ der Bundesminister der Finanzen:
 ## § 1
 
 Dem Bundesaufsichtsamt für das Kreditwesen wird die Befugnis
-übertragen, nach Anhörung der Deutschen Bundesbank mit Zustimmung des
-Bundesministers der Finanzen Rechtsverordnungen nach Maßgabe des
+übertragen, nach Anhörung der Deutschen Bundesbank mit Zustimmung
+des Bundesministers der Finanzen Rechtsverordnungen nach Maßgabe des
 Artikels 28 Satz 1 des Gesetzes zu dem Vertrag vom 18. Mai 1990 über
 die Schaffung einer Währungs-, Wirtschafts- und Sozialunion zwischen
 der Bundesrepublik Deutschland und der Deutschen Demokratischen

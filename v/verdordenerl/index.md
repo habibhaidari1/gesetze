@@ -1,5 +1,5 @@
 ---
-Title: Erlaß über die Stiftung des "Verdienstordens der Bundesrepublik Deutschland"
+Title: "Erlaß über die Stiftung des \"Verdienstordens der Bundesrepublik Deutschland\""
 jurabk: VerdOrdenErl
 layout: default
 origslug: verdordenerl
@@ -16,11 +16,10 @@ Fundstelle
 :   BGBl I: 1951, 831
 
 
-
 ## (XXXX)
 
-(1) In dem Wunsche, verdienten Männern und Frauen des deutschen Volkes
-und des Auslandes Anerkennung und Dank sichtbar zum Ausdruck zu
+(1) In dem Wunsche, verdienten Männern und Frauen des deutschen
+Volkes und des Auslandes Anerkennung und Dank sichtbar zum Ausdruck zu
 bringen, stifte ich am 2. Jahrestag der Bundesrepublik Deutschland den
 "Verdienstorden der Bundesrepublik Deutschland".
 

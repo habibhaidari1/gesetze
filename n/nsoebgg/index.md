@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl I: 1992, 906
 
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
@@ -38,8 +37,8 @@ werden rentenrechtlich so gestellt wie die Personen, bei denen die
 Dritte Rentenverordnung angewendet worden ist.
 
 (2) Leistungen aufgrund dieses Artikels werden abweichend von § 300
-Abs. 3b des Sechsten Buches Sozialgesetzbuch auch für Zeiten vor dem
-1\. Januar 1992, aber nicht für Zeiten vor dem 3. Oktober 1990,
+Abs. 3b des Sechsten Buches Sozialgesetzbuch auch für Zeiten vor
+dem 1. Januar 1992, aber nicht für Zeiten vor dem 3. Oktober 1990,
 erbracht.
 
 

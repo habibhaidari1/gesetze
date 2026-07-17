@@ -1,6 +1,5 @@
 ---
-Title: Dritte Verordnung zur Anpassung der Renten und zu den maßgeblichen Rechengrößen
-  in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
+Title: Dritte Verordnung zur Anpassung der Renten und zu den maßgeblichen Rechengrößen in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
 jurabk: RAV 3
 layout: default
 origslug: rav_3
@@ -17,27 +16,22 @@ Fundstelle
 :   BGBl I: 1991, 2344
 
 
-
 ## Eingangsformel
 
 Auf Grund
 
--   des § 17 Abs. 2 Satz 1 des Vierten Buches Sozialgesetzbuch (Artikel 1
-    des Gesetzes vom 23. Dezember 1976, BGBl. I S. 3845), der durch
+-   des § 17 Abs. 2 Satz 1 des Vierten Buches Sozialgesetzbuch (Artikel
+    1 des Gesetzes vom 23. Dezember 1976, BGBl. I S. 3845), der durch
     Artikel 9 Nr. 1 des Haushaltsbegleitgesetzes 1984 vom 22. Dezember
     1983 (BGBl. I S. 1532) eingefügt worden ist,
-
 
 -   des § 16 Abs. 1 des Gesetzes zur Überführung der Ansprüche und
     Anwartschaften aus Zusatz- und Sonderversorgungssystemen des
     Beitrittsgebiets (Artikel 3 des Gesetzes vom 25. Juli 1991, BGBl. I S.
     1606) und
 
-
 -   des § 281b Nr. 2 des Sechsten Buches Sozialgesetzbuch (Artikel 1 des
     Gesetzes vom 25. Juli 1991, BGBl. I S. 1606)
-
-
 
 verordnet der Bundesminister für Arbeit und Sozialordnung und auf
 Grund
@@ -45,11 +39,8 @@ Grund
 -   des § 255b Abs. 1 und des § 275b des Sechsten Buches Sozialgesetzbuch
     (Artikel 1 des Gesetzes vom 25. Juli 1991, BGBl. I S. 1606) und
 
-
 -   des § 1153 der Reichsversicherungsordnung (Artikel 8 des Gesetzes vom
     25\. Juli 1991, BGBl. I S. 1606)
-
-
 
 verordnet die Bundesregierung:
 
@@ -68,11 +59,8 @@ Die Beitragsbemessungsgrenzen (Ost) betragen ab 1. Januar 1992
 1.  in der Rentenversicherung der Arbeiter und der Angestellten 57.600 DM
     jährlich und 4.800 DM monatlich,
 
-
 2.  in der knappschaftlichen Rentenversicherung 70.800 DM jährlich und
     5\.900 DM monatlich.
-
-
 
 Die Anlage 2a zum Sechsten Buch Sozialgesetzbuch wird um die
 Jahresbeträge ergänzt.
@@ -80,8 +68,8 @@ Jahresbeträge ergänzt.
 
 ## § 3 Werte für Jahreshöchstverdienste in den Anlagen 3 bis 6 zu dem Anspruchs- und Anwartschaftsüberführungsgesetz
 
-(1) In Anlage 3 wird die Spalte "Rentenversicherung der Arbeiter und
-der Angestellten" für die Zeit "1.1. - 30.6.1990" um den Wert
+(1) In Anlage 3 wird die Spalte "Rentenversicherung der Arbeiter
+und der Angestellten" für die Zeit "1.1. - 30.6.1990" um den Wert
 "24.619,65" und die Spalte "Knappschaftliche Rentenversicherung" für
 die Zeit "1.1. - 30.6.1990" um den Wert "30.481,48" ergänzt.
 
@@ -103,31 +91,10 @@ des Versorgungsausgleichs-Überleitungsgesetzes betragen im Zeitpunkt
 einer Entscheidung über den Versorgungsausgleich in der Zeit vom 1.
 Januar 1992 bis zum 30. Juni 1992
 
-*    *   1.
-
-    *   bei einem Ehezeitende in der Zeit vom 1. Juli 1990 bis zum 31.
-        Dezember 1990
-
-    *   1,4114157,
-
-
-*    *   2.
-
-    *   bei einem Ehezeitende in der Zeit vom 1. Januar 1991 bis zum 30. Juni
-        1991
-
-    *   1,2268164,
-
-
-*    *   3.
-
-    *   bei einem Ehezeitende in der Zeit vom 1. Juli 1991 bis zum 31.
-        Dezember 1991
-
-    *   1,1165324.
-
-
-
+| 1. | bei einem Ehezeitende in der Zeit vom 1. Juli 1990 bis zum 31. Dezember 1990 | 1,4114157, |
+| --- | --- | --- |
+| 2. | bei einem Ehezeitende in der Zeit vom 1. Januar 1991 bis zum 30. Juni 1991 | 1,2268164, |
+| 3. | bei einem Ehezeitende in der Zeit vom 1. Juli 1991 bis zum 31. Dezember 1991 | 1,1165324. |
 
 
 ## § 5 Anpassung des aktuellen Rentenwerts (Ost)

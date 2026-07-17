@@ -15,20 +15,22 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 1840
 
-Stand: Ersetzt V 2032-1-17 v. 6.1.2003 I 8 (VollstrVergV)
+Stand
+:   Ersetzt V 2032-1-17 v. 6.1.2003 I 8 (VollstrVergV)
+
 
 ## Eingangsformel
 
-Auf Grund des § 49 des Bundesbesoldungsgesetzes, der durch Artikel 1
-Nummer 23 des Gesetzes vom 9. Dezember 2019 (BGBl. I S. 2053) neu
+Auf Grund des § 49 des Bundesbesoldungsgesetzes, der durch Artikel
+1 Nummer 23 des Gesetzes vom 9. Dezember 2019 (BGBl. I S. 2053) neu
 gefasst worden ist, verordnet das Bundesministerium der Finanzen im
 Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat:
 
 
 ## § 1 Vergütung
 
-Beamtinnen und Beamte des mittleren Dienstes, die dauerhaft als
-Vollziehungsbeamtinnen oder  ‑beamte im Sinne des § 285 der
+Beamtinnen und Beamte des mittleren Dienstes, die dauerhaft
+als Vollziehungsbeamtinnen oder ‑beamte im Sinne des § 285 der
 Abgabenordnung verwendet werden, erhalten für Vollstreckungshandlungen
 eine Vergütung nach dieser Verordnung.
 
@@ -45,24 +47,14 @@ dokumentiert worden sind.
 
     a)  bis 200 Euro mit 2 Euro,
 
-
     b)  bis 600 Euro mit 3 Euro,
 
-
     c)  von mehr als 600 Euro mit 5 Euro,
-
-
-
-
 
 2.  die Pfändung beweglicher Sachen mit Ausnahme von Zahlungsmitteln mit
     insgesamt 3 Euro,
 
-
 3.  eine fruchtlos verlaufene Pfändung mit 1,50 Euro.
-
-
-
 
 (3) Die Vereinnahmung von Zahlungsmitteln erfolgt, indem
 
@@ -73,37 +65,24 @@ dokumentiert worden sind.
     a)  der Vollziehungsbeamtin oder dem Vollziehungsbeamten Zahlungsmittel
         aushändigt oder
 
-
     b)  eine bargeldlose Zahlung leistet oder
-
-
-
-
 
 2.  die Vollziehungsbeamtin oder der Vollziehungsbeamte Zahlungsmittel
     pfändet.
-
-
 
 Die Zahlungsmittel sind vereinnahmt, wenn
 
 1.  die Zahlung in Banknoten oder Münzen in Euro und Cent geleistet worden
     ist,
 
-
 2.  die Zahlung im Beisein der Vollziehungsbeamtin oder des
     Vollziehungsbeamten bargeldlos erfolgt ist,
-
 
 3.  die gepfändeten Zahlungsmittel von der Vollziehungsbeamtin oder dem
     Vollziehungsbeamten in Besitz genommen worden sind,
 
-
 4.  ein auf Euro lautender Scheck von dem bezogenen Kreditinstitut
     eingelöst worden ist.
-
-
-
 
 (4) Werden mehrere Vollstreckungsaufträge gegen dieselbe
 Vollstreckungsschuldnerin oder denselben Vollstreckungsschuldner in
@@ -115,10 +94,7 @@ Vergütung nach Absatz 2 Nummer 1 nur dann gewährt, wenn
 1.  zur Abwendung der Vollstreckung Zahlungsmittel ausgehändigt worden
     sind oder eine bargeldlose Zahlung geleistet worden ist oder
 
-
 2.  ausschließlich Geldbeträge gepfändet worden sind.
-
-
 
 Sind mehrere bewegliche Sachen gepfändet worden, so entsteht die
 Vergütung nach Absatz 2 Nummer 2 nur einmal.
@@ -135,7 +111,7 @@ der auf die Vollstreckungshandlung folgt, gezahlt.
 ## § 4 Aufwendungsersatz
 
 Der Ersatz der Fahrtkosten und der sonstigen Reisekosten, die mit dem
-Außendienst der Vollziehungsbeamtinnen und  ‑beamten verbunden sind,
+Außendienst der Vollziehungsbeamtinnen und ‑beamten verbunden sind,
 richtet sich nach dem Bundesreisekostengesetz. Sonstige besondere, für
 die Vollziehungstätigkeit typische Aufwendungen sind mit der Vergütung
 abgegolten.
@@ -143,7 +119,7 @@ abgegolten.
 
 ## § 5 Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am 1. Juli 2021 in Kraft. Gleichzeitig tritt
-die Vollstreckungsvergütungsverordnung in der Fassung der
+Diese Verordnung tritt am 1. Juli 2021 in Kraft. Gleichzeitig
+tritt die Vollstreckungsvergütungsverordnung in der Fassung der
 Bekanntmachung vom 6. Januar 2003 (BGBl. I S. 8) außer Kraft.
 

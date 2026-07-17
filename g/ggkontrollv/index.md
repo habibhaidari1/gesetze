@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Kontrollen von Gefahrguttransporten auf der Straße und
-  in den Unternehmen
+Title: Verordnung über die Kontrollen von Gefahrguttransporten auf der Straße und in den Unternehmen
 jurabk: GGKontrollV
 layout: default
 origslug: ggkontrollv
@@ -20,20 +19,18 @@ Neugefasst durch
 :   Bek. v. 26.10.2005 I 3104
 
 Zuletzt geändert durch
-:   Art. 488 V v. 31.8.2015 I 1474
+:   Art. 27 G v. 2.3.2023 I Nr. 56
 
-Diese Verordnung dient der Umsetzung der Richtlinie 95/50/EG des
-Rates vom 6. Oktober 1995 über einheitliche Verfahren für die
-Kontrolle von Gefahrguttransporten auf der Straße
-(ABl. EG Nr. L 249 S. 35).
+Änderung durch
+:   Art. 2 V v. 6.7.2026 I Nr. 200 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## § 1 Anwendungsbereich
 
-(1) Die Vorschriften dieser Verordnung gelten für die Kontrollen von
-Gefahrguttransporten durch die nach § 9 Abs. 1 des Gesetzes über die
-Beförderung gefährlicher Güter zuständigen Behörden auf der Straße,
-die mit Fahrzeugen durchgeführt werden, die am Straßenverkehr
+(1) Die Vorschriften dieser Verordnung gelten für die Kontrollen
+von Gefahrguttransporten durch die nach § 9 Abs. 1 des Gesetzes
+über die Beförderung gefährlicher Güter zuständigen Behörden auf der
+Straße, die mit Fahrzeugen durchgeführt werden, die am Straßenverkehr
 teilnehmen oder aus einem Drittland in Deutschland einfahren, sowie
 für Kontrollen in den Unternehmen.
 
@@ -41,8 +38,8 @@ für Kontrollen in den Unternehmen.
 Gefahrguttransporten der Streitkräfte, die durch deutsche Behörden und
 die Streitkräfte gemeinsam durchgeführt werden.
 
-(3) Das Bundesamt für Güterverkehr wendet die §§ 2 bis 6 entsprechend
-an.
+(3) Das Bundesamt für Logistik und Mobilität wendet die §§ 2 bis 6
+entsprechend an.
 
 
 ## § 2 Begriffsbestimmungen
@@ -52,12 +49,10 @@ Im Sinne dieser Verordnung bezeichnet der Begriff
 1.  "Fahrzeug": alle zur Teilnahme am Straßenverkehr bestimmten
     Kraftfahrzeuge und ihre Anhänger;
 
-
 2.  "gefährliche Güter": die Güter, die in der Richtlinie 94/55/EG des
     Rates vom 21. November 1994 zur Angleichung der Rechtsvorschriften der
     Mitgliedstaaten für den Gefahrguttransport auf der Straße (ABl. EG Nr.
     L 319 S. 7) als gefährlich eingestuft sind;
-
 
 3.  "Beförderung": jeden Transport, der auf den öffentlichen Straßen in
     Deutschland mit einem Fahrzeug erfolgt, einschließlich der in der
@@ -68,62 +63,57 @@ Im Sinne dieser Verordnung bezeichnet der Begriff
     hinsichtlich dieser Tätigkeiten vorgesehenen Regelungen über die
     Verantwortlichkeiten;
 
-
 4.  "Unternehmen": jede natürliche und juristische Person mit oder ohne
     Erwerbszweck, jede Vereinigung oder jeder Zusammenschluss von Personen
     mit oder ohne Rechtspersönlichkeit oder mit oder ohne Erwerbszweck
-    sowie jede staatliche Einrichtung, unabhängig davon, ob sie über eine
-    eigene Rechtspersönlichkeit verfügt oder von einer Behörde mit
-    Rechtspersönlichkeit abhängt, die gefährliche Güter befördert -
-    einschließlich des zeitweiligen Aufenthalts im Verlaufe der
+    sowie jede staatliche Einrichtung, unabhängig davon, ob sie über
+    eine eigene Rechtspersönlichkeit verfügt oder von einer Behörde
+    mit Rechtspersönlichkeit abhängt, die gefährliche Güter befördert
+    - einschließlich des zeitweiligen Aufenthalts im Verlaufe der
     Beförderung -, lädt, entlädt oder befördern lässt, sowie eine solche,
     die gefährliche Güter im Zusammenhang mit einer Beförderungstätigkeit
     verpackt, sammelt oder in Empfang nimmt, sofern sie ihren Sitz im
     Gebiet der Gemeinschaft hat;
 
-
-5.  "Kontrolle": jede Überwachung, Prüfung oder Untersuchung, die aus
-    Sicherheitsgründen auf der Straße oder in den Unternehmen im
-    Zusammenhang mit der Beförderung gefährlicher Güter von den
+5.  "Kontrolle": jede Überwachung, Prüfung oder Untersuchung, die
+    aus Sicherheitsgründen auf der Straße oder in den Unternehmen
+    im Zusammenhang mit der Beförderung gefährlicher Güter von den
     zuständigen Behörden durchgeführt wird.
-
-
-
 
 
 ## § 3 Kontrollen auf der Straße
 
 (1) Die oberste Landesbehörde oder die von ihr bestimmte oder nach
-Landesrecht zuständige Stelle stellt sicher, dass in ihrem Gebiet ein
-repräsentativer Anteil der Gefahrguttransporte auf der Straße den in
-dieser Verordnung vorgesehenen Kontrollen unterzogen wird, um zu
-überprüfen, ob die Vorschriften für die Beförderung gefährlicher Güter
-auf der Straße eingehalten werden. Diese Kontrollen werden in
+Landesrecht zuständige Stelle stellt sicher, dass in ihrem Gebiet
+ein repräsentativer Anteil der Gefahrguttransporte auf der Straße
+den in dieser Verordnung vorgesehenen Kontrollen unterzogen wird, um
+zu überprüfen, ob die Vorschriften für die Beförderung gefährlicher
+Güter auf der Straße eingehalten werden. Diese Kontrollen werden in
 Ausführung von Artikel 3 der Verordnung (EWG) Nr. 4060/89 und Artikel
 1 der Verordnung (EWG) Nr. 3912/92 durchgeführt. Das Bundesamt für
-Güterverkehr kontrolliert im Rahmen seiner Zuständigkeit nach dem
-Güterkraftverkehrsgesetz Gefahrguttransporte auf der Straße in
-angemessenem Umfang.
+Logistik und Mobilität kontrolliert im Rahmen seiner Zuständigkeit
+nach dem Güterkraftverkehrsgesetz Gefahrguttransporte auf der Straße
+in angemessenem Umfang.
 
 (2) Bei der Festlegung des repräsentativen Anteils der
-Gefahrguttransporte im Sinne des Absatzes 1 Satz 1 ist der Anteil der
-im jeweiligen Land zugelassenen Lastkraftwagen, Zugmaschinen und
+Gefahrguttransporte im Sinne des Absatzes 1 Satz 1 ist der Anteil
+der im jeweiligen Land zugelassenen Lastkraftwagen, Zugmaschinen und
 Sattelzugmaschinen am Gesamtbestand der genannten Kraftfahrzeuge in
 Deutschland zu berücksichtigen. Die Zahlen über Gefahrgutbeförderungen
 und Fahrzeugbestände werden jährlich zum 30. Juni für das
-vorangegangene Jahr durch das Bundesamt für Güterverkehr in Abstimmung
-mit dem Kraftfahrt-Bundesamt zur Verfügung gestellt.
+vorangegangene Jahr durch das Bundesamt für Logistik und Mobilität in
+Abstimmung mit dem Kraftfahrt-Bundesamt zur Verfügung gestellt.
 
-(3) Die nach Landesrecht für die Überwachung zuständigen Behörden und
-das Bundesamt für Güterverkehr orientieren sich bei der Durchführung
-von Kontrollmaßnahmen, die der Umsetzung der Richtlinie 95/50/EG
-dienen, an der Prüfliste nach Anlage 1. Über das Ergebnis der
-Kontrolle händigt der Prüfer dem Fahrzeugführer eine geeignete
+(3) Die nach Landesrecht für die Überwachung zuständigen Behörden
+und das Bundesamt für Logistik und Mobilität orientieren sich bei der
+Durchführung von Kontrollmaßnahmen, die der Umsetzung der Richtlinie
+95/50/EG dienen, an der Prüfliste nach Anlage 1. Über das Ergebnis
+der Kontrolle händigt der Prüfer dem Fahrzeugführer eine geeignete
 Kontrollbescheinigung aus.
 
 (4) Die Kontrollen nach den Absätzen 1 bis 3 sind im
-Stichprobenverfahren möglichst auf einem ausgedehnten Teil des
-Straßennetzes durchzuführen. Sie sind möglichst an Orten
+Stichprobenverfahren möglichst auf einem ausgedehnten Teil
+des Straßennetzes durchzuführen. Sie sind möglichst an Orten
 durchzuführen, an denen Fahrzeuge, bei denen Verstöße festgestellt
 wurden, in einen vorschriftsmäßigen Zustand versetzt oder - wenn die
 Behörde es für angebracht hält - an Ort und Stelle oder an einem von
@@ -151,11 +141,11 @@ auf einem hierfür geeigneten Platz.
 
 ## § 4 Kontrollen in den Unternehmen
 
-(1) Die nach § 9 Abs. 1 des Gesetzes über die Beförderung gefährlicher
-Güter für die Überwachung in den Unternehmen zuständigen Behörden
-können, vorbeugend oder wenn bei Gefahrguttransporten auf der Straße
-Verstöße festgestellt wurden, die die Sicherheit des
-Gefahrguttransports gefährden, Kontrollen in den inländischen
+(1) Die nach § 9 Abs. 1 des Gesetzes über die Beförderung
+gefährlicher Güter für die Überwachung in den Unternehmen zuständigen
+Behörden können, vorbeugend oder wenn bei Gefahrguttransporten
+auf der Straße Verstöße festgestellt wurden, die die Sicherheit
+des Gefahrguttransports gefährden, Kontrollen in den inländischen
 Unternehmen durchführen, um sicherzustellen, dass die Vorschriften
 über die Beförderung gefährlicher Güter auf der Straße eingehalten
 werden.
@@ -172,7 +162,7 @@ andere geeignete Maßnahmen ergreifen.
 ## § 5 Berichtswesen
 
 (1) Die zuständige oberste Landesbehörde oder eine von ihr beauftragte
-Stelle und das Bundesamt für Güterverkehr übermitteln dem
+Stelle und das Bundesamt für Logistik und Mobilität übermitteln dem
 Bundesministerium für Verkehr und digitale Infrastruktur für jedes
 Kalenderjahr, spätestens sechs Monate nach dessen Ablauf, einen nach
 dem Muster in der Anlage 5 erstellten Bericht über die Anwendung
@@ -182,495 +172,321 @@ dieser Verordnung mit folgenden Angaben:
     Zulassung in Deutschland, in anderen Mitgliedstaaten der Europäischen
     Union oder in Drittländern,
 
-
 2.  Zahl der beanstandeten Fahrzeuge,
-
 
 3.  Anzahl der festgestellten Verstöße und die Art der Verstöße,
 
-
 4.  Anzahl und Art der veranlassten Sanktionen.
 
+(2) Das Bundesamt für Logistik und Mobilität erstellt aufgrund der
+Berichte nach Absatz 1 einen zusammengefassten Bericht und übersendet
+diesen dem Bundesministerium für Verkehr und digitale Infrastruktur
+zur Weiterleitung an die Kommission der Europäischen Gemeinschaften.
 
 
+## Anlage 1 (zu § 3 Absatz 3 Satz 1)Prüfliste für Straßenkontrollen
 
-(2) Das Bundesamt für Güterverkehr erstellt aufgrund der Berichte nach
-Absatz 1 einen zusammengefassten Bericht und übersendet diesen dem
-Bundesministerium für Verkehr und digitale Infrastruktur zur
-Weiterleitung an die Kommission der Europäischen Gemeinschaften.
+(Fundstelle: BGBl. 2026 I Nr. 200, S. 5 – 6)
 
-(zu § 3 Abs. 3 Satz 1)
-
-## Anlage 1 Prüfliste
-
-(Fundstelle: BGBl. I 2005, 3107)
-1\. Ort der Kontrolle                   2. Datum             3. Zeit
-.................................      ................
-...............
-4\. Nationalitätskennzeichen und
-Zulassungsnummer des Fahrzeugs      .....................
-5\. Nationalitätskennzeichen und
-Zulassungsnummer des Anhängers/
-Sattelanhängers                     .....................
-6\. Transportunternehmen/Anschrift      .....................
-7\. Fahrer/Beifahrer                    .....................
-8\. Absender, Anschrift, Verladeort
-1), 2)                              .....................
-9\. Empfänger, Anschrift, Entladeort,
-1), 2)                              .....................
-10\. Gesamtmenge der Gefahrgüter je
-Beförderungseinheit                 .....................
-11\. Höchstmenge gemäß ADR 1.1.3.6
-überschritten                .. Ja            .. Nein
-**12. Beförderungsart**                             .. in loser
-.. Versandstück  .. Tank
-Schüttung
-**Dokumente an Bord**
-13\. Beförderungspapier           .. kontrolliert  .. Verstoß       ..
-nicht
-festgestellt     anwendbar
-14\. Schriftliche Weisungen       .. kontrolliert  .. Verstoß       ..
-nicht
-festgestellt     anwendbar
-15\. Bilaterale/multilaterale     .. kontrolliert  .. Verstoß       ..
-nicht
-Vereinbarung oder                                festgestellt
-anwendbar
-nationale Genehmigung
-16\. Zulassungsbescheinigung für  .. kontrolliert  .. Verstoß       ..
-nicht
-Fahrzeuge                                        festgestellt
-anwendbar
-17\. Schulungsbescheinigung des   .. kontrolliert  .. Verstoß       ..
-nicht
-Fahrers                                          festgestellt
-anwendbar
-**Beförderung**
-18\. Zur Beförderung zugelassene  .. kontrolliert  .. Verstoß       ..
-nicht
-Güter                                            festgestellt
-anwendbar
-19\. Zur Beförderung der Güter    .. kontrolliert  .. Verstoß       ..
-nicht
-zugelassene Fahrzeuge                            festgestellt
-anwendbar
-20\. Vorschriften in Bezug auf    .. kontrolliert  .. Verstoß       ..
-nicht
-das Beförderungsmittel                           festgestellt
-anwendbar
-(lose Schüttung, Versandstück,
-Tank)
-21\. Verbot der Zusammenladung    .. kontrolliert  .. Verstoß       ..
-nicht
-festgestellt     anwendbar
-22\. Beladen, Sicherung der       .. kontrolliert  .. Verstoß       ..
-nicht
-Ladung und Handhabung 3)                         festgestellt
-anwendbar
-23\. Austreten von Gütern oder    .. kontrolliert  .. Verstoß       ..
-nicht
-Beschädigung des                                 festgestellt
-anwendbar
-Versandstücks 3)
-24\. Kennzeichnung des Versand-   .. kontrolliert  .. Verstoß       ..
-nicht
-stücks nach UN und des Tanks                     festgestellt
-anwendbar
-nach UN/ADR/RID/IMO
-25\. Kennzeichnung des Versand-   .. kontrolliert  .. Verstoß       ..
-nicht
-stücks (z. B. UN-Nummer) und                     festgestellt
-anwendbar
-Bezettelung 2) (ADR 3.3/3.4/4.1/5.2)
-26\. Anbringen von Großzetteln    .. kontrolliert  .. Verstoß       ..
-nicht
-(Placards) auf Tank/Fahrzeug                     festgestellt
-anwendbar
-(ADR 5.3.1)
-27\. Kennzeichnung von            .. kontrolliert  .. Verstoß       ..
-nicht
-Fahrzeug/Beförderungseinheit                     festgestellt
-anwendbar
-(orangefarbene Kennzeichnung,
-erwärmter Zustand) (ADR 5.3.2/5.3.3)
-**Ausrüstung an Bord**
-28\. Allgemeine Sicherheits-      .. kontrolliert  .. Verstoß       ..
-nicht
-ausrüstung gemäß ADR                             festgestellt
-anwendbar
-29\. Ausrüstung nach Maßgabe der  .. kontrolliert  .. Verstoß       ..
-nicht
-beförderten Güter                                festgestellt
-anwendbar
-30\. Andere in den schriftlichen  .. kontrolliert  .. Verstoß       ..
-nicht
-Weisungen genannte Ausrüstung                    festgestellt
-anwendbar
-31\. Feuerlöscher                 .. kontrolliert  .. Verstoß       ..
-nicht
-festgestellt     anwendbar
-32\. Gegebenenfalls
-schwerwiegendste Gefahren-
-kategorie der festgestellten .. Kategorie I   .. Kategorie II  ..
-Kategorie
-Verstöße                                                          III
-33\. Bemerkungen (z. B. getroffene
-Maßnahmen)
-......................................................................
-..
-34\. Behörde/Beamter,
-die/der die Kontrolle
-**durchgeführt hat
-...........................................**
------
-1) Nur ausfüllen, wenn für einen Verstoß von Bedeutung.
-2) Bei Sammelbeförderungen unter "Bemerkungen" angeben.
-3) Prüfung auf sichtbare Verstöße.
+| 1. | Ort und Land der Kontrolle: |  | 2. Datum: |  | 3. Uhrzeit: |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Daten zu Fahrzeug/Ladung** |  |  |  |  |  |  |  |  |  |
+| 4. | Länderkennzeichen und Zulassungsnummer(n) des Fahrzeugs/der Fahrzeuge |  |  |  |  |  |  |  |  |
+| 5. | Transportunternehmen/Anschrift: |  |  |  |  |  |  |  |  |
+| 6. | Name(n) der Fahrer/Beifahrer und deren Bescheinigungsnummern (ADR 8.2, falls zutreffend): |  |  |  |  |  |  |  |  |
+| 7. | Anschrift und Datum der letzten Be- oder Entladung: |  |  |  |  |  |  |  |  |
+| 8. | Anschrift und Datum der nächsten Be- oder Entladung: |  |  |  |  |  |  |  |  |
+| 9. | UN-Nummer, Verpackungsgruppe und Menge der Gefahrgüter, bei denen Verstöße festgestellt wurden: |  |  |  |  |  |  |  |  |
+| 10. | Befreiung anwendbar und, wenn ja, welche? | □ | nein | □ | ja |  | Abschnitt: |  |  |
+| 11. | Umschließungsmittel | □ | Schüttgut | □ | Tank | □ | Versandstück | □ | MEMU |
+| **Dokumente** | Prüfstatus | Verstoß | ADR-Abschnitt + Beteiligte |  |  |  |  |  |  |
+|  | G | n. m. | n. z. | Gefahren- kategorie |  |  |  |  |  |
+| 12. | Beförderungspapiere (wie ADR 8.1.2.1 Buchstabe a, 5.4.1, 5.4.2) | □ |  | □ |  | □ |  |  |  |
+| 13. | Schriftliche Weisungen (ADR 8.1.2.1 Buchstabe b, 5.4.3) | □ |  | □ |  | □ |  |  |  |
+| 14. | Zulassungsbescheinigung für Fahrzeuge (ADR 8.1.2.2 Buchstabe a, 9.1.3) | □ |  | □ |  | □ |  |  |  |
+| 15. | Schulungsbescheinigung des Fahrers (ADR 8.1.2.2 Buchstabe b) und Ausweisdokument (ADR 1.10.1.4, 8.1.2.1 Buchstabe d) | □ |  | □ |  | □ |  |  |  |
+| **Beförderung** |  |  |  |  |  |  |  |  |  |
+| 16. | Zur Beförderung zugelassene Güter (ADR 1.1.2.1) | □ |  | □ |  | □ |  |  |  |
+| 17. | Umschließungsmittel (wie ADR 4.1 bis 4.7) | □ |  | □ |  | □ |  |  |  |
+| 18. | Beförderungsvorschriften (wie ADR 7.1 bis 7.4) | □ |  | □ |  | □ |  |  |  |
+| 19. | Zusammenladungsverbote und Mengenbegrenzungen (wie ADR 7.5.2, 7.5.4, 7.5.5) | □ |  | □ |  | □ |  |  |  |
+| 20. | Handhabung und Verstauung (wie ADR 7.5.7) | □ |  | □ |  | □ |  |  |  |
+| 21. | Kennzeichnung des Versandstücks/Tanks/Schüttguts (wie ADR Teil 6) | □ |  | □ |  | □ |  |  |  |
+| 22. | Kennzeichnung und Bezettelung von Versandstücken (wie ADR 3.3 bis 3.5, 4.1.4.1, 5.1, 5.2) | □ |  | □ |  | □ |  |  |  |
+| 23. | Großzettel (Placards), organgefarbene Tafeln, Kennzeichnung von Fahrzeugen/Tanks usw. (wie ADR 3.4.13, 5.3, 5.5, 7.3, 7.5.11) | □ |  | □ |  | □ |  |  |  |
+| 24. | Fahrzeuganforderungen (ADR Teil 9) | □ |  | □ |  | □ |  |  |  |
+| **Ausrüstung an Bord** |  |  |  |  |  |  |  |  |  |
+| 25. | Allgemeine und spezifische Ausrüstung (wie ADR 8.1.4, 8.1.5) | □ |  | □ |  | □ |  |  |  |
+| **Sonstiges** |  |  |  |  |  |  |  |  |  |
+| 26. | Bilaterale/multilaterale Vereinbarungen (wie ADR 1.5.1), nationale Vorschriften, Genehmigung der zuständigen Behörde (wie ADR 8.1.2.2 Buchstabe c): | □ |  | □ |  | □ |  |  |  |
+| 27. | Sonstige Verstöße: |  |  |  |  |  |  |  |  |
+| **Ergebnis** |  |  |  |  |  |  |  |  |  |
+| 28. | Abhilfemaßnahmen vor Ort□ vor Beendigung der Fahrt□ auf dem Betriebsgelände□ | Art der Maßnahme: Anzeige□ Verwarnung□ Untersagung d. Weiterfahrt□ |  |  |  |  |  |  |  |
+| Abhilfemaßnahmen vor Ort | □ |  |  |  |  |  |  |  |  |
+| vor Beendigung der Fahrt | □ |  |  |  |  |  |  |  |  |
+| auf dem Betriebsgelände | □ |  |  |  |  |  |  |  |  |
+| Art der Maßnahme: Anzeige | □ |  |  |  |  |  |  |  |  |
+| Verwarnung | □ |  |  |  |  |  |  |  |  |
+| Untersagung d. Weiterfahrt | □ |  |  |  |  |  |  |  |  |
+| 29. | Anmerkungen: |  |  |  |  |  |  |  |  |
+| 30. | Siegel gebrochen/angebracht? | Gebrochen am |  | Angebracht am |  |  |  |  |  |
+| 31. | Behörde/Beamter/delegierte Stelle, die/der die Kontrolle durchgeführt hat |  |  |  |  |  |  |  |  |
 
 
 ## Anlage 2
 
 (weggefallen)
 
-(zu § 3 Abs. 7)
 
-## Anlage 3 Verstöße
+## Anlage 3 (zu § 3 Absatz 7)Verstöße
 
-Fundstelle des Originaltextes: BGBl. I 2005, S. 3108 - 3109
+(BGBl. 2026 I Nr. 200, S. 7 – 9)
 
 Für die Zwecke dieser Verordnung stellt die folgende, nicht
-erschöpfende Liste mit drei Gefahrenkategorien (wobei Kategorie I die
-schwerwiegendste ist) eine Leitlinie dafür dar, was als Verstoß
-einzustufen ist.
-Die Bestimmung der angemessenen Gefahrenkategorie erfolgt unter
-Berücksichtigung der besonderen Umstände und liegt im Ermessen der
-vollziehenden Behörde bzw. des vollziehenden Beamten auf der Straße.
-Nicht unter den Gefahrenkategorien aufgeführte Mängel werden
-entsprechend den Beschreibungen der Kategorien eingestuft.
-Bei mehreren Verstößen je Beförderungseinheit wird bei der
-Berichterstattung (Anlage 5 dieser Verordnung) nur die
-schwerwiegendste Gefahrenkategorie (wie unter Nummer 32 der Anlage 1
-dieser Verordnung angegeben) angewandt.
+abschließende Liste mit drei Gefahrenkategorien eine Leitlinie dafür
+dar, was als Verstoß einzustufen ist, wobei Kategorie I für die
+höchste Gefahr steht.
 
+Die angemessene Gefahrenkategorie wird unter Berücksichtigung
+der besonderen Umstände eines Verstoßes festgelegt und liegt im
+Ermessen der Vollstreckungsbehörde bzw. des Vollstreckungsbeamten,
+was bedeutet, dass ein Verstoß in eine höhere oder niedrigere
+Gefahrenkategorie eingestuft werden kann.
 
-**A.** **Gefahrenkategorie I**
+In der Liste nicht aufgeführte Verstöße werden entsprechend den
+Beschreibungen der Gefahrenkategorien eingestuft.
 
-    Wenn der Verstoß gegen die einschlägigen ADR-Bestimmungen mit einer
-    hohen Lebensgefahr bzw. der Gefahr schwerer gesundheitlicher Schäden
-    oder einer erheblichen Schädigung der Umwelt verbunden ist, so dass in
-    der Regel unverzüglich geeignete Maßnahmen zur Beseitigung der Gefahr
-    ergriffen werden, z. B. Untersagung der Weiterfahrt, Stilllegung des
-    Fahrzeugs.
+Bei mehreren Verstößen je Beförderungseinheit wird bei
+der Berichterstattung (Anlage 5 dieser Verordnung) nur die
+schwerwiegendste Gefahrenkategorie angewandt.
 
-    Mängel sind:
+A.  Gefahrenkategorie I
 
-    1.  die Beförderung der beförderten Gefahrgüter ist verboten,
+    Diese Kategorie betrifft Verstöße gegen ADR-Vorschriften, bei denen
+    ein hohes Sterberisiko bzw. die Gefahr schwerer Verletzungen oder
+    einer erheblichen Schädigung der Umwelt besteht. Werden solche
+    Verstöße bei Straßenkontrollen festgestellt, müssen diese in der
+    Regel zu unverzüglichen und geeigneten Abhilfemaßnahmen führen,
+    beispielsweise zur Stilllegung des Fahrzeugs. Sollten solche Verstöße
+    bei Kontrollen auf dem Betriebsgelände festgestellt werden, sind in
+    der Regel andere geeignete Maßnahmen zu treffen.
 
+    Diese Kategorie erfasst folgende Mängel:
 
-    2.  Austreten von gefährlichen Stoffen,
+    1.  Beförderung gefährlicher Güter, deren Beförderung verboten ist,
 
+    2.  Beförderung gefährlicher Güter mit verbotenen oder nicht zugelassenen
+        Umschließungsmitteln, von der eine solche Gefahr für Menschenleben
+        oder Umwelt ausgeht, dass die Stilllegung des Fahrzeugs verfügt wird,
 
-    3.  Beförderung in einer verbotenen Beförderungsart oder einem
+    3.  Beförderung gefährlicher Güter ohne entsprechende
+        Gefahrgutkennzeichnung am Fahrzeug, von der eine solche Gefahr für
+        Menschenleben oder Umwelt ausgeht, dass die Stilllegung des Fahrzeugs
+        verfügt wird,
+
+    4.  Austreten gefährlicher Güter,
+
+    5.  Beförderung in einer verbotenen Beförderungsart oder einem
         ungeeigneten Beförderungsmittel,
 
+    6.  Beförderung in loser Schüttung in einem in bautechnischer Hinsicht
+        dafür ungeeigneten Fahrzeug oder Container,
 
-    4.  Beförderung in loser Schüttung in einem in bautechnischer Hinsicht
-        ungeeigneten Behälter,
-
-
-    5.  Beförderung in einem Fahrzeug ohne entsprechende
+    7.  Beförderung in einem Fahrzeug ohne angemessene
         Zulassungsbescheinigung,
 
+    8.  Betrieb eines Fahrzeugs, das nicht mehr den Zulassungsbestimmungen
+        entspricht und eine unmittelbare Gefahr darstellt; ansonsten
+        Einstufung in Gefahrenkategorie II,
 
-    6.  das Fahrzeug entspricht nicht mehr den Zulassungsbestimmungen und
-        stellt eine unmittelbare Gefahr dar (sonst Gefahrenkategorie II),
+    9.  Verwendung nicht zugelassener Versandstücke, Tanks, Container oder
+        Fahrzeuge,
 
+    10. Verwendung von Verpackungen, die nicht den geltenden
+        Verpackungsanweisungen entsprechen, Verwendung von Tanks, Fahrzeugen
+        und Containern, die nicht den geltenden Vorschriften entsprechen,
 
-    7.  nicht zulässige Verpackung,
+    11. Nichteinhaltung der besonderen Vorschriften für die Zusammenladung,
 
+    12. Nichteinhaltung der Vorschriften für die Sicherung und Verstauung
+        der Ladung,
 
-    8.  Verpackung ist nicht mit den gültigen Verpackungsanweisungen konform,
+    13. Nichteinhaltung der Vorschriften für Nahrungs-, Genuss- und
+        Futtermittel,
 
+    14. Nichteinhaltung der Vorschriften für die Zusammenladung von
+        Versandstücken,
 
-    9.  die besonderen Bestimmungen für die Zusammenpackung wurden nicht
-        eingehalten,
+    15. Nichteinhaltung der Vorschriften zur Begrenzung der in einer
+        Beförderungseinheit zugelassenen Mengen, einschließlich des zulässigen
+        Füllungsgrads bzw. Füllfaktors von Tanks oder Versandstücken,
 
+    16. Beförderung gefährlicher Güter ohne die erforderlichen Dokumente
+        an Bord oder in einem ungeeigneten elektronischen Format, sofern
+        zulässig,
 
-    10. die Regeln für die Sicherung der Ladung wurden nicht eingehalten,
+    17. Beförderung gefährlicher Güter in Versandstücken, die nicht mit der
+        erforderlichen Kennzeichnung oder Bezettelung versehen sind,
 
+    18. Beförderung gefährlicher Güter ohne Anbringung von Großzetteln
+        (Placards) oder Kennzeichen (einschließlich orangefarbener Tafeln)
+        am Fahrzeug,
 
-    11. die Vorschriften für die Zusammenladung von Versandstücken wurden
-        nicht eingehalten,
+    19. unvollständige oder falsche Angaben zu dem beförderten gefährlichen
+        Gut, die die Feststellung eines in der Gefahrenkategorie I genannten
+        Verstoßes ermöglichen (z. B. UN-Nummer, offizielle Benennung,
+        Verpackungsgruppe),
 
+    20. Fahrzeugführer ist nicht im Besitz einer Schulungsbescheinigung nach
+        Kapitel 8.2 ADR,
 
-    12. der zulässige Füllungsgrad von Tanks oder Versandstücken wurde nicht
-        eingehalten,
+    21. Verwendung von Feuer oder offenem Licht,
 
+    22. Nichtbeachtung des Rauchverbots,
 
-    13. die Vorschriften zur Begrenzung der in einer Beförderungseinheit
-        beförderten Mengen wurden nicht eingehalten,
+    23. Nichtbenennung eines Sicherheitsberaters (Gefahrgutbeauftragter) für
+        jedes Unternehmen, sofern erforderlich,
 
+    24. Nichteinhaltung der Vorschriften für die Sicherung gemäß Kapitel 1.10
+        ADR, sofern erforderlich.
 
-    14. Beförderung von Gefahrgütern ohne Hinweis auf ihr Vorhandensein (z. B.
-        Dokumente, Kennzeichnung und Bezettelung der Versandstücke, Anbringen
-        von Großzetteln (Placards) und Kennzeichnung am Fahrzeug),
+B.  Gefahrenkategorie II
 
+    Diese Kategorie betrifft Verstöße gegen ADR-Vorschriften, bei denen
+    die Gefahr einer Verletzung oder einer Schädigung der Umwelt besteht.
+    Werden solche Verstöße bei Straßenkontrollen festgestellt, müssen
+    diese in der Regel zu geeigneten Abhilfemaßnahmen führen, z. B. wenn
+    möglich die Behebung am Kontrollort, spätestens jedoch nach Abschluss
+    der laufenden Beförderung. Sollten diese Verstöße bei Kontrollen auf
+    dem Betriebsgelände festgestellt werden, sind in der Regel andere
+    geeignete Maßnahmen zu treffen.
 
-    15. Beförderung ohne Anbringen von Großzetteln (Placards) und
-        Kennzeichnung von Containern, MEGC, Tankcontainern, ortsbeweglichen
-        Tanks und Fahrzeugen,
+    Diese Kategorie erfasst folgende Mängel:
 
+    1.  Betrieb einer Beförderungseinheit, die aus mehr als einem Anhänger
+        oder Sattelanhänger besteht,
 
-    16. relevante Angaben zu dem beförderten Stoff, die die Feststellung eines
-        Verstoßes der Gefahrenkategorie I ermöglichen, fehlen (z. B. UN-
-        Nummer, offizielle Benennung, Verpackungsgruppe),
+    2.  Betrieb eines Fahrzeugs, das nicht mehr den Zulassungsbestimmungen
+        entspricht, jedoch keine unmittelbare Gefahr darstellt,
 
+    3.  an Bord der Beförderungseinheit fehlen die geforderten
+        funktionsfähigen Feuerlöschgeräte oder die Feuerlöschausrüstung
+        entspricht nicht den besonderen Vorschriften,
 
-    17. der Fahrer ist nicht Inhaber einer gültigen Schulungsbescheinigung,
+    4.  die gemäß ADR oder den schriftlichen Weisungen vorgeschriebene
+        Ausrüstung befindet sich nicht an Bord der Beförderungseinheit,
 
+    5.  Nichteinhaltung der Inspektions- und Prüffristen oder Verwendungsdauer
+        von Verpackungen, Großpackmitteln (IBC), Großverpackungen, Tanks,
+        Fahrzeugen oder Containern,
 
-    18. Verwendung von Feuer oder offenem Licht oder
+    6.  Beförderung von Versandstücken mit beschädigten Verpackungen,
+        Großpackmitteln (IBC) oder Großverpackungen oder Beförderung
+        beschädigter, leerer ungereinigter Verpackungen,
 
+    7.  Beförderung verpackter gefährlicher Güter in einem in bautechnischer
+        Hinsicht ungeeigneten Fahrzeug oder Container,
 
-    19. das Rauchverbot bei Ladearbeiten wird nicht beachtet.
+    8.  Tanks, Fahrzeuge, Container oder Versandstücke, einschließlich leerer
+        und ungereinigter Tanks, Fahrzeuge, Container oder Versandstücke,
+        wurden nicht ordnungsgemäß verschlossen,
 
+    9.  Tanks, Fahrzeuge, Container oder Versandstücke mit falschen
+        Bezettelungen, Kennzeichen (einschließlich orangefarbener Tafeln)
+        oder Großzetteln,
 
+    10. schriftliche Weisungen gemäß ADR werden nicht mitgeführt,
 
+    11. Fahrzeug wurde nicht ordnungsgemäß überwacht oder abgestellt,
 
+    12. Beförderung von anderen Personen als der Fahrzeugbesatzung in
+        Beförderungseinheiten, in denen gefährliche Güter befördert werden,
 
+    13. Nichteinhaltung der Vorschriften in Abschnitt 7.5.10 ADR über
+        Vorsichtsmaßnahmen zur Vermeidung elektrostatischer Aufladung bei der
+        Befüllung oder Entleerung,
 
+    14. Nichteinhaltung der Vorschriften über die Ankunft an Be- und
+        Entladestellen,
 
+    15. Nichteinhaltung der Vorschriften über die Rolle des
+        Gefahrgutbeauftragten, die Verpflichtungen und Bescheinigungen für
+        jedes Unternehmen, sofern erforderlich,
 
-**B.** **Gefahrenkategorie II**
+    16. Nichteinhaltung der Vorschriften über die Mindestaufbewahrungsfrist
+        für das Beförderungspapier für Gefahrguttransporte und zusätzliche
+        Informationen und Dokumente gemäß ADR,
 
-    Wenn der Verstoß gegen die einschlägigen ADR-Bestimmungen mit der
-    Gefahr schwerer Verletzungen oder einer erheblichen Schädigung der
-    Umwelt verbunden ist, so dass in der Regel geeignete Maßnahmen zur
-    Beseitigung der Gefahr ergriffen werden, z. B. wenn möglich und
-    angemessen die Behebung am Kontrollort, spätestens jedoch nach
-    Abschluss der laufenden Beförderung.
+    17. Nichteinhaltung der Vorschriften über die Unterweisung von Personen,
+        die an der Beförderung gefährlicher Güter beteiligt sind,
 
-    Mängel sind:
+    18. den zuständigen Behörden wurden die erforderlichen Unterlagen oder
+        Berichte nicht vorgelegt.
 
-    1.  die Beförderungseinheit besteht aus mehr als einem
-        Anhänger/Sattelanhänger,
+C.  Gefahrenkategorie III
 
+    Diese Kategorie betrifft Verstöße gegen ADR-Vorschriften, bei denen
+    eine geringe Gefahr von Verletzungen oder einer Schädigung der
+    Umwelt besteht und geeignete Abhilfemaßnahmen nicht an der Straße
+    ergriffen werden müssen, sondern zu einem späteren Zeitpunkt auf dem
+    Betriebsgelände getroffen werden können. Sollten diese Verstöße bei
+    Kontrollen auf dem Betriebsgelände festgestellt werden, sind in der
+    Regel andere geeignete Maßnahmen zu treffen.
 
-    2.  das Fahrzeug entspricht nicht mehr den Zulassungsbestimmungen, stellt
-        jedoch keine unmittelbare Gefahr dar,
+    Diese Kategorie erfasst folgende Mängel:
 
+    1.  Nichteinhaltung der Vorschriften über die Größe von Großzetteln
+        (Placards), Gefahrzetteln oder anderer Kennzeichen oder über die
+        Größe von Buchstaben, Zahlen oder Symbolen auf den Großzetteln,
+        Gefahrzetteln oder anderer Kennzeichen,
 
-    3.  im Fahrzeug befinden sich nicht die geforderten funktionsfähigen
-        Feuerlöscher; ein Feuerlöscher gilt noch als funktionsfähig, wenn nur
-        das vorgeschriebene Siegel und/oder das Verfallsdatum fehlen; dies
-        gilt jedoch nicht, wenn der Feuerlöscher offensichtlich nicht länger
-        funktionstüchtig ist, z. B. Manometer auf 0,
+    2.  aus den Beförderungspapieren gehen keine weiteren Angaben als die der
+        Gefahrenkategorie I Nr. 19 hervor,
 
+    3.  die Schulungsbescheinigung wurde nicht an Bord des Fahrzeugs
+        mitgeführt, es gibt jedoch Belege dafür, dass der Fahrzeugführer über
+        eine solche verfügt,
 
-    4.  im Fahrzeug befindet sich nicht die im ADR oder den schriftlichen
-        Weisungen vorgeschriebene Ausrüstung,
+    4.  nicht jedes Mitglied der Fahrzeugbesatzung führt ein Ausweisdokument
+        mit Lichtbild mit,
 
+    5.  nicht ordnungsgemäß angebrachte Großzettel (Placards) oder Kennzeichen
+        (einschließlich orangefarbener Tafeln),
 
-    5.  Prüffristen und Verwendungszeiträume von Verpackungen, Großpackmitteln
-        (IBC) oder Großverpackungen wurden nicht eingehalten,
-
-
-    6.  Versandstücke mit beschädigter Verpackung, beschädigtem Großpackmittel
-        (IBC), beschädigter Großverpackung oder beschädigte, ungereinigte
-        leere Verpackungen werden befördert,
-
-
-    7.  Beförderung verpackter Güter in einem in bautechnischer Hinsicht
-        ungeeigneten Container,
-
-
-    8.  Tanks/Tankcontainer (einschließlich leerer und ungereinigter) wurden
-        nicht ordnungsgemäß verschlossen,
-
-
-    9.  Beförderung einer zusammengesetzten Verpackung, bei der die
-        Außenverpackung nicht ordnungsgemäß verschlossen ist,
-
-
-    10. falsche Kennzeichnung, Bezettelung oder falsches Anbringen von
-        Großzetteln (Placards),
-
-
-    11. keine schriftlichen Weisungen gemäß ADR vorhanden oder die
-        schriftlichen Weisungen betreffen nicht die beförderten Güter oder
-
-
-    12. das Fahrzeug ist nicht ordnungsgemäß überwacht oder geparkt.
-
-
-
-
-
-
-
-
-**C.** **Gefahrenkategorie III**
-
-    Wenn der Verstoß gegen die einschlägigen ADR-Bestimmungen mit einer
-    geringen Gefahr von Verletzungen oder einer Schädigung der Umwelt
-    verbunden ist und geeignete Maßnahmen zur Beseitigung der Gefahr nicht
-    an der Straße ergriffen werden müssen, sondern zu einem späteren
-    Zeitpunkt auf dem Betriebsgelände getroffen werden können.
-
-    Mängel sind:
-
-    1.  die Größe der Großzettel (Placards) oder Zettel oder der Buchstaben,
-        Zahlen oder Symbole auf den Großzetteln oder Zetteln entspricht nicht
-        den Vorschriften,
-
-
-    2.  weitere Angaben als die in Gefahrenkategorie I Nr. 16 sind in den
-        Beförderungsunterlagen nicht verfügbar oder
-
-
-    3.  die Schulungsbescheinigung befindet sich nicht an Bord des Fahrzeugs,
-        es gibt jedoch Belege dafür, dass der Fahrer sie besitzt.
-
-
-
-
-
-
+    6.  den zuständigen Behörden wurden die erforderlichen Unterlagen oder
+        Berichte zu spät vorgelegt.
 
 
 ## Anlage 4
 
 (weggefallen)
 
-(zu § 5 Abs. 1)
 
-## Anlage 5 Muster des Formulars für den Bericht an das BMVBW über Verstöße und Maßnahmen
+## Anlage 5 (zu § 5 Abs. 1)Muster des Formulars für den Bericht an das BMVBW über Verstöße und Maßnahmen
 
 Fundstelle des Originaltextes: BGBl. I 2005, S. 3110
 
-*    *   Bundesland:
+| Bundesland: | Jahr: |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Auf der Straße durchgeführte Kontrollen |  |  |  |  |  |  |  |
+|  | Ort der Zulassung des Fahrzeugs 1) | Insgesamt |  |  |  |  |  |
+|  | Inland | Andere EU-Mitgliedstaaten | Dritt-Länder |  |  |  |  |
+| 1.1 | Anzahl der auf der Grundlage des Inhalts der Ladung (und ADR) kontrollierten Beförderungseinheiten |  |  |  |  |  |  |
+| 1.2 | Anzahl der nicht mit dem ADR konformen Beförderungseinheiten |  |  |  |  |  |  |
+| 1.3 | Untersagung der Weiterfahrt/stillgelegte Beförderungseinheiten |  |  |  |  |  |  |
+| 2. | Anzahl der festgestellten Verstöße nach Gefahrenkategorie 2) | 2.1 | Gefahrenkategorie |  |  |  |  |
+| 2.2 | Gefahrenkategorie II |  |  |  |  |  |  |
+| 2.3 | Gefahrenkategorie III |  |  |  |  |  |  |
+| 3. | Art und Anzahl der veranlassten Maßnahmen | 3.1 | Verwarnungsgeld |  |  |  |  |
+| 3.2 | Anzeigen für Bußgeldverfahren |  |  |  |  |  |  |
+| 3.3 | Sonstige |  |  |  |  |  |  |
 
-    *   Jahr:
-
-
-*    *   Auf der Straße durchgeführte Kontrollen
-
-
-*    *
-    *   Ort der Zulassung des Fahrzeugs 1)
-
-    *   Insgesamt
-
-
-*    *
-    *   Inland
-
-    *   Andere EU-Mitgliedstaaten
-
-    *   Dritt-Länder
-
-
-*    *   1.1
-
-    *   Anzahl der auf der Grundlage des Inhalts der Ladung (und ADR)
-        kontrollierten Beförderungseinheiten
-
-    *
-    *
-    *
-    *
-
-*    *   1.2
-
-    *   Anzahl der nicht mit dem ADR konformen Beförderungseinheiten
-
-    *
-    *
-    *
-    *
-
-*    *   1.3
-
-    *   Untersagung der Weiterfahrt/stillgelegte Beförderungseinheiten
-
-    *
-    *
-    *
-    *
-
-*    *   2.
-
-    *   Anzahl der festgestellten Verstöße nach  Gefahrenkategorie 2)
-
-    *   2.1
-
-    *   Gefahrenkategorie
-
-    *
-    *
-    *
-    *
-
-*    *   2.2
-
-    *   Gefahrenkategorie II
-
-    *
-    *
-    *
-    *
-
-*    *   2.3
-
-    *   Gefahrenkategorie III
-
-    *
-    *
-    *
-    *
-
-*    *   3.
-
-    *   Art und Anzahl der veranlassten Maßnahmen
-
-    *   3.1
-
-    *   Verwarnungsgeld
-
-    *
-    *
-    *
-    *
-
-*    *   3.2
-
-    *   Anzeigen für Bußgeldverfahren
-
-    *
-    *
-    *
-    *
-
-*    *   3.3
-
-    *   Sonstige
-
-    *
-    *
-    *
-    *
-
-
-   -----
+-----
 
 1)  Im Sinne dieser Anlage bezieht sich das Land der Zulassung auf das
     Fahrzeug.
 
-
 2)  Bei mehreren Verstößen je Beförderungseinheit wird nur die
     schwerwiegendste Gefahrenkategorie (wie unter Nummer 32 der Anlage 1
     angegeben) angewandt.
-
-
-
 

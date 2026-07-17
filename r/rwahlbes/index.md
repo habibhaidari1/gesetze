@@ -1,6 +1,5 @@
 ---
-Title: Beschluß der Volkskammer der Deutschen Demokratischen Republik zum Richtergesetz
-  - Ordnung über die Bildung und Arbeitsweise der Richterwahlausschüsse -
+Title: Beschluß der Volkskammer der Deutschen Demokratischen Republik zum Richtergesetz - Ordnung über die Bildung und Arbeitsweise der Richterwahlausschüsse -
 jurabk: RWahlBes
 layout: default
 origslug: rwahlbes
@@ -15,4 +14,7 @@ Ausfertigungsdatum
 
 Fundstelle
 :   GBl DDR I: 1990, 904
+
+Fundstelle
+:   GBl DDR I: 1990, Nr 49, 904
 

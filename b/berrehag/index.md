@@ -1,6 +1,5 @@
 ---
-Title: Gesetz über den Ausgleich beruflicher Benachteiligungen für Opfer politischer
-  Verfolgung im Beitrittsgebiet
+Title: Gesetz über den Ausgleich beruflicher Benachteiligungen für Opfer politischer Verfolgung im Beitrittsgebiet
 jurabk: BerRehaG
 layout: default
 origslug: berrehag
@@ -17,14 +16,13 @@ Fundstelle
 :   BGBl I: 1994, 1311, 1314
 
 Neugefasst durch
-:   Bek. v. 1. 7.1997 I 1625;
+:   Bek. v. 1.7.1997 I 1625;
 
 Zuletzt geändert durch
-:   durch Art. 12a G v. 2.6.2021 I 1387
+:   durch Art. 5 G v. 25.2.2025 I Nr. 63
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
-
 
 
 ### § 1 Begriff des Verfolgten
@@ -34,19 +32,14 @@ Zuletzt geändert durch
 1.  infolge einer in dem in Artikel 3 des Einigungsvertrages genannten
     Gebiet (Beitrittsgebiet) zu Unrecht erlittenen Freiheitsentziehung,
 
-
 2.  infolge eines Gewahrsams nach § 25 Abs. 2 Satz 1 Nr. 1 oder 2 des
     Strafrechtlichen Rehabilitierungsgesetzes,
-
 
 3.  durch eine hoheitliche Maßnahme nach § 1 des Verwaltungsrechtlichen
     Rehabilitierungsgesetzes oder
 
-
 4.  durch eine andere Maßnahme im Beitrittsgebiet, wenn diese der
     politischen Verfolgung gedient hat,
-
-
 
 zumindest zeitweilig weder seinen bisher ausgeübten, begonnenen,
 erlernten oder durch den Beginn einer berufsbezogenen Ausbildung
@@ -54,9 +47,9 @@ nachweisbar angestrebten noch einen sozial gleichwertigen Beruf
 ausüben konnte (Verfolgter), hat Anspruch auf Leistungen nach diesem
 Gesetz.
 
-(2) In den Fällen des Absatzes 1 Nr. 1 bis 3 muß der Zeitraum einer zu
-Unrecht erlittenen Freiheitsentziehung in einem Rehabilitierungs- oder
-Kassationsverfahren oder der Zeitraum eines Gewahrsams in einer
+(2) In den Fällen des Absatzes 1 Nr. 1 bis 3 muß der Zeitraum einer
+zu Unrecht erlittenen Freiheitsentziehung in einem Rehabilitierungs-
+oder Kassationsverfahren oder der Zeitraum eines Gewahrsams in einer
 Bescheinigung nach § 10 Abs. 4 des Häftlingshilfegesetzes festgestellt
 sein oder die Aufhebung oder Feststellung der Rechtsstaatswidrigkeit
 der Maßnahme nach dem Verwaltungsrechtlichen Rehabilitierungsgesetz
@@ -70,20 +63,17 @@ erfolgt sein.
 1.  der gemäß § 1 Abs. 2 festgestellte Zeitraum einer zu Unrecht
     erlittenen Freiheitsentziehung oder eines Gewahrsams sowie
 
-
-2.  die Zeit, in der der Verfolgte auf Grund einer Maßnahme nach § 1 Abs.
-    1 Nr. 3 oder 4 oder als Folge einer Maßnahme nach § 1 Abs. 1 Nr. 1
-    oder 2 seine bisherige oder eine angestrebte Erwerbstätigkeit nicht
-    ausgeübt oder ein geringeres Einkommen als aus der bisherigen
+2.  die Zeit, in der der Verfolgte auf Grund einer Maßnahme nach § 1
+    Abs. 1 Nr. 3 oder 4 oder als Folge einer Maßnahme nach § 1 Abs. 1
+    Nr. 1 oder 2 seine bisherige oder eine angestrebte Erwerbstätigkeit
+    nicht ausgeübt oder ein geringeres Einkommen als aus der bisherigen
     Erwerbstätigkeit erzielt hat.
-
-
 
 Die Verfolgungszeit nach Satz 1 Nr. 2 endet mit dem Verlassen des
 Beitrittsgebiets, spätestens mit Ablauf des 2. Oktober 1990.
 
-(2) Die Zeit, während derer der Verfolgte das Fortwirken der
-beruflichen Benachteiligung zu vertreten hat, ist keine
+(2) Die Zeit, während derer der Verfolgte das Fortwirken
+der beruflichen Benachteiligung zu vertreten hat, ist keine
 Verfolgungszeit.
 
 
@@ -95,22 +85,16 @@ nach § 1 Abs. 1 Nr. 1 bis 3
 1.  nicht zu einer zur Hochschulreife führenden Bildungseinrichtung
     zugelassen wurde,
 
-
 2.  die Ausbildung an einer zur Hochschulreife führenden
     Bildungseinrichtung nicht fortsetzen konnte,
 
-
 3.  nicht zu einer Abschlußprüfung zur Erlangung der Hochschulreife,
-
 
 4.  nicht zur Ausbildung an einer Fach- oder Hochschule zugelassen wurde
     oder
 
-
 5.  die Ausbildung an einer anderen als einer zur Hochschulreife führenden
     Bildungseinrichtung nicht fortsetzen konnte,
-
-
 
 hat Anspruch auf Leistungen nach dem Zweiten und Dritten Abschnitt.
 Die Regelung über Verfolgungszeiten als Anrechnungszeiten in § 12 Abs.
@@ -138,21 +122,20 @@ Grundgesetzes betreffen.
 ## Zweiter Abschnitt - Bevorzugte berufliche Fortbildung und Umschulung
 
 
-
 ### § 6 Arbeitslosengeld bei beruflicher Weiterbildung
 
-(1) Verfolgte, die an nach § 81 Absatz 1 Nummer 3 in Verbindung mit
-den §§ 176 bis 180 des Dritten Buches Sozialgesetzbuch für die
-Förderung zugelassenen Maßnahmen der beruflichen Weiterbildung
-teilnehmen und die einen Anspruch auf Arbeitslosengeld bei beruflicher
-Weiterbildung nach dem Dritten Buch Sozialgesetzbuch nicht haben,
-erhalten auf Antrag Arbeitslosengeld bei beruflicher Weiterbildung in
-entsprechender Anwendung des § 144 des Dritten Buches
+(1) Verfolgte, die an nach § 81 Absatz 1 Nummer 3 in Verbindung
+mit den §§ 176 bis 180 des Dritten Buches Sozialgesetzbuch für
+die Förderung zugelassenen Maßnahmen der beruflichen Weiterbildung
+teilnehmen und die einen Anspruch auf Arbeitslosengeld bei
+beruflicher Weiterbildung nach dem Dritten Buch Sozialgesetzbuch
+nicht haben, erhalten auf Antrag Arbeitslosengeld bei beruflicher
+Weiterbildung in entsprechender Anwendung des § 144 des Dritten Buches
 Sozialgesetzbuch.
 
-(2) Hat ein Verfolgter auf Grund einer Teilnahme an einer Maßnahme zur
-beruflichen Fortbildung und Umschulung vor Inkrafttreten dieses
-Gesetzes ein Unterhaltsgeld nach § 44 Abs. 2a des
+(2) Hat ein Verfolgter auf Grund einer Teilnahme an einer Maßnahme
+zur beruflichen Fortbildung und Umschulung vor Inkrafttreten
+dieses Gesetzes ein Unterhaltsgeld nach § 44 Abs. 2a des
 Arbeitsförderungsgesetzes in der bis zum 31. Dezember 1993 geltenden
 Fassung erhalten, so wird das Darlehen auf Antrag in einen Zuschuß
 umgewandelt, soweit es am Tage der Antragstellung noch nicht
@@ -171,64 +154,64 @@ Verfolgte, die an nach den Vorschriften des Dritten Buches
 Sozialgesetzbuch für die Weiterbildungsförderung zugelassenen
 Maßnahmen der beruflichen Weiterbildung teilnehmen und für die
 Weiterbildungskosten nicht nach dem Dritten Buch Sozialgesetzbuch
-übernommen werden, erhalten auf Antrag die Weiterbildungskosten in
-entsprechender Anwendung der §§ 83 bis 87 des Dritten Buches
+übernommen werden, erhalten auf Antrag die Weiterbildungskosten
+in entsprechender Anwendung der §§ 83 bis 87 des Dritten Buches
 Sozialgesetzbuch erstattet.
 
 
 ## Dritter Abschnitt - Ausgleichsleistungen
 
 
-
-### § 8 Anspruchsvoraussetzungen
+### § 8 Anspruchsvoraussetzungen; Verordnungsermächtigung
 
 (1) Verfolgte mit Wohnsitz oder gewöhnlichem Aufenthalt im
-Geltungsbereich dieses Gesetzes, die in ihrer wirtschaftlichen Lage
-besonders beeinträchtigt sind, erhalten auf Antrag
-Ausgleichsleistungen in Höhe von 240 Euro monatlich. Wenn der
-Verfolgte eine Rente aus der gesetzlichen Rentenversicherung aus
-eigener Versicherung bezieht, betragen die Ausgleichsleistungen 180
-Euro monatlich. Das Bundesministerium der Justiz und für
-Verbraucherschutz überprüft im Einvernehmen mit dem Bundesministerium
-der Finanzen in einem Abstand von fünf Jahren, erstmals im Jahr 2025,
-die Höhe der Ausgleichsleistungen nach den Sätzen 1 und 2.
+Geltungsbereich dieses Gesetzes, die in ihrer wirtschaftlichen
+Lage besonders beeinträchtigt sind, erhalten auf Antrag
+Ausgleichsleistungen in Höhe von 291 Euro monatlich. Die Höhe der
+monatlichen Ausgleichsleistungen wird ab dem Jahr 2026 entsprechend
+dem Prozentsatz angepasst, um den sich der aktuelle Rentenwert in
+der gesetzlichen Rentenversicherung verändert. Die sich durch die
+Anpassung ergebenden Beträge bis 0,49 Euro sind auf volle Euro
+abzurunden und die Beträge ab 0,50 Euro auf volle Euro aufzurunden.
+Die Anpassung der Höhe der monatlichen Ausgleichsleistungen erfolgt
+durch Rechtsverordnung des Bundesministeriums der Justiz ohne
+Zustimmung des Bundesrates jeweils zum gleichen Zeitpunkt, zu dem die
+Renten der gesetzlichen Rentenversicherung angepasst werden.
 
 (2) Ausgleichsleistungen werden nicht gewährt, wenn die in der
 Bescheinigung nach § 17 oder § 18 festgestellte Verfolgungszeit vor
 Ablauf des 2. Oktober 1990 endet, es sei denn, die Verfolgungszeit
-beträgt mehr als drei Jahre. Die Gewährung von Ausgleichsleistungen
-nach Absatz 1 Satz 2 setzt außerdem voraus, daß zwischen dem Beginn
-der Verfolgungszeit und dem Zeitpunkt, von dem an der Verfolgte die
-Rente bezieht, ein Zeitraum von mehr als sechs Jahren liegt.
+beträgt mehr als zwei Jahre. Bezieht der Verfolgte eine Rente aus der
+gesetzlichen Rentenversicherung aus eigener Versicherung, setzt die
+Gewährung von Ausgleichsleistungen außerdem voraus, daß zwischen dem
+Beginn der Verfolgungszeit und dem Zeitpunkt, von dem an der Verfolgte
+die Rente bezieht, ein Zeitraum von mehr als sechs Jahren liegt.
 
-(3) Als in seiner wirtschaftlichen Lage besonders beeinträchtigt gilt
-ein Verfolgter, dessen entsprechend § 82 Absatz 1 Satz 1 bis 3, Absatz
-2 Satz 1 und Absatz 7 Satz 1 bis 3 des Zwölften Buches
+(3) Als in seiner wirtschaftlichen Lage besonders beeinträchtigt
+gilt ein Verfolgter, dessen entsprechend § 82 Absatz 1 Satz 1 bis
+3, Absatz 2 Satz 1 und Absatz 7 Satz 1 bis 3 des Zwölften Buches
 Sozialgesetzbuch ermitteltes Einkommen die folgende maßgebliche
 Einkommensgrenze nicht übersteigt:
 
-1.  für den Verfolgten selbst den Grundbetrag nach § 85 Abs. 1 Nr. 1, § 86
-    des Zwölften Buches Sozialgesetzbuch, für seinen nicht dauernd
-    getrennt lebenden Ehegatten 80 vom Hundert und für jedes
+1.  für den Verfolgten selbst den Grundbetrag nach § 85 Abs. 1 Nr.
+    1, § 86 des Zwölften Buches Sozialgesetzbuch, für seinen nicht
+    dauernd getrennt lebenden Ehegatten 80 vom Hundert und für jedes
     minderjährige, zum Haushalt gehörende Kind 50 vom Hundert des
     Grundbetrages zuzüglich
-
 
 2.  der Kosten der Unterkunft, einschließlich der Heizkosten, in
     tatsächlicher Höhe.
 
-
-
-Bei der Einkommensermittlung bleibt Arbeitsförderungsgeld
-unberücksichtigt. Bei nicht dauernd getrennt lebenden Ehegatten ist
-das Einkommen beider Ehegatten zu berücksichtigen. Für Personen, die
-eine Lebenspartnerschaft führen oder in eheähnlicher oder
+Bei der Einkommensermittlung bleiben Arbeitsförderungsgeld sowie
+staatliche Sonderleistungen, die anlässlich besonderer Krisen zu
+einem bestimmten Zweck gezahlt werden, unberücksichtigt. Für Personen,
+die eine Lebenspartnerschaft führen oder in eheähnlicher oder
 lebenspartnerschaftsähnlicher Gemeinschaft leben, gelten die Sätze 1
-bis 3 entsprechend.
+und 2 entsprechend.
 
 (4) Übersteigt das ermittelte Einkommen die maßgebliche
-Einkommensgrenze um einen Betrag, der geringer ist als der Betrag der
-Ausgleichsleistungen nach Absatz 1, erhält der Verfolgte
+Einkommensgrenze um einen Betrag, der geringer ist als der Betrag
+der Ausgleichsleistungen nach Absatz 1, erhält der Verfolgte
 Ausgleichsleistungen in Höhe des Differenzbetrages.
 
 (5) Die Ausgleichsleistungen werden monatlich im voraus, beginnend mit
@@ -247,9 +230,7 @@ als Einkommen angerechnet.
 ## Vierter Abschnitt - Ausgleich von Nachteilen in der Rentenversicherung
 
 
-
 ### Erster Unterabschnitt - Allgemeines
-
 
 
 #### § 10 Allgemeines
@@ -263,17 +244,16 @@ sie auch von Amts wegen erbracht werden.
 ### Zweiter Unterabschnitt - Renten nach den Vorschriften des Sechsten Buches Sozialgesetzbuch
 
 
-
 #### § 11 Verfolgungszeiten als Pflichtbeitragszeiten
 
 Für Verfolgungszeiten, in denen der Verfolgte eine die Versicherungs-
 und Beitragspflicht begründende Beschäftigung oder selbständige
-Tätigkeit wegen Verfolgungsmaßnahmen nicht ausgeübt hat, gelten
-Pflichtbeiträge für eine Beschäftigung oder selbständige Tätigkeit im
-Beitrittsgebiet als gezahlt. Zeiten nach Satz 1 und
+Tätigkeit wegen Verfolgungsmaßnahmen nicht ausgeübt hat,
+gelten Pflichtbeiträge für eine Beschäftigung oder selbständige
+Tätigkeit im Beitrittsgebiet als gezahlt. Zeiten nach Satz 1 und
 Pflichtbeitragszeiten, die während einer Verfolgungszeit zurückgelegt
-worden sind, gelten mit Ausnahme der Zeiten, für die Werte nach § 13
-Abs. 2 Satz 1 zugrunde zu legen sind, insgesamt nur insoweit als
+worden sind, gelten mit Ausnahme der Zeiten, für die Werte nach §
+13 Abs. 2 Satz 1 zugrunde zu legen sind, insgesamt nur insoweit als
 beitragsgeminderte Zeiten, als sich für die Summe aller Entgeltpunkte
 ein höherer Wert ergibt.
 
@@ -285,10 +265,10 @@ gelten Verfolgungszeiten nach § 2 Absatz 1 Satz 1 Nummer 1 als Zeiten
 der Erziehung eines Kindes nach dem Sechsten Buch Sozialgesetzbuch,
 wenn in diesen Verfolgungszeiten das Kind wegen einer Maßnahme nach §
 1 Absatz 1 Nummer 1 oder Nummer 2 nicht erzogen werden konnte. Dabei
-bleibt außer Betracht, dass bei einer anderen Person für dasselbe Kind
-die Kindererziehung anzurechnen oder zu berücksichtigen ist. Die
-Anrechnung oder Berücksichtigung nach Satz 1 lässt die Anrechnung oder
-Berücksichtigung der Kindererziehung nach dem Sechsten Buch
+bleibt außer Betracht, dass bei einer anderen Person für dasselbe
+Kind die Kindererziehung anzurechnen oder zu berücksichtigen ist.
+Die Anrechnung oder Berücksichtigung nach Satz 1 lässt die Anrechnung
+oder Berücksichtigung der Kindererziehung nach dem Sechsten Buch
 Sozialgesetzbuch für diejenige Person, die das Kind erzogen hat,
 unberührt.
 
@@ -297,8 +277,8 @@ leisten, wenn Kindererziehung nach Absatz 1 Satz 1 anzurechnen oder zu
 berücksichtigen ist und der Rentenbeginn vor dem 1. Januar 2019 liegt.
 
 (3) Für die Anrechnung oder Berücksichtigung von Kindererziehung gilt
-im Sinne von § 1 Absatz 1 als Verfolgter, wer in dem in § 1 Absatz 1
-genannten Zeitraum wegen einer Maßnahme nach § 1 Absatz 1 Nummer 1
+im Sinne von § 1 Absatz 1 als Verfolgter, wer in dem in § 1 Absatz
+1 genannten Zeitraum wegen einer Maßnahme nach § 1 Absatz 1 Nummer 1
 oder Nummer 2 als Elternteil nach § 56 Absatz 1 Satz 2 des Sechsten
 Buches Sozialgesetzbuch ein Kind nicht erziehen konnte. § 1 Absatz 2
 gilt entsprechend.
@@ -307,15 +287,15 @@ gilt entsprechend.
 #### § 12 Verfolgungszeiten als Anrechnungszeiten
 
 (1) Hat der Verfolgte wegen einer Verfolgungsmaßnahme seine
-Fachschulausbildung oder Hochschulausbildung nicht abschließen können,
-gilt die Ausbildung für die Anerkennung dieser Zeiten als
+Fachschulausbildung oder Hochschulausbildung nicht abschließen
+können, gilt die Ausbildung für die Anerkennung dieser Zeiten als
 Anrechnungszeit als abgeschlossen.
 
 (2) Ist wegen einer Verfolgungsmaßnahme eine Schulausbildung,
 Fachschulausbildung oder Hochschulausbildung unterbrochen, jedoch
 später wieder aufgenommen und abgeschlossen oder eine neue Ausbildung
-begonnen und abgeschlossen worden, sind die Ausbildungszeiten als
-Anrechnungszeiten bis zum Doppelten der allgemein geltenden
+begonnen und abgeschlossen worden, sind die Ausbildungszeiten
+als Anrechnungszeiten bis zum Doppelten der allgemein geltenden
 Höchstdauer anzuerkennen.
 
 
@@ -327,12 +307,9 @@ ein Kalenderjahr als Beitragsbemessungsgrundlage
 1.  für Zeiten vor dem 1. Januar 1950 die sich aus den Anlagen 1 bis 16
     des Fremdrentengesetzes ergebenden Werte und
 
-
 2.  für Zeiten nach dem 31. Dezember 1949 die sich aus den Anlagen 13 und
     14 zum Sechsten Buch Sozialgesetzbuch ergebenden und um 20 vom Hundert
     erhöhten Durchschnittsverdienste
-
-
 
 berücksichtigt. Für Verfolgungszeiten, in denen ohne die Verfolgung
 die Fachschul- oder Hochschulausbildung bis zum regelmäßigen Abschluß
@@ -342,11 +319,11 @@ einer Fachschule oder Hochschule ergebenden Entgeltpunkte zugrunde
 gelegt.
 
 (1a) Für jeden Kalendermonat mit Verfolgungszeit wird der monatliche
-Durchschnitt aus Entgeltpunkten für vollwertige Pflichtbeiträge auf
-Grund einer versicherten Beschäftigung oder selbständigen Tätigkeit
-oder für freiwillige Beiträge im letzten Kalenderjahr oder, wenn dies
-günstiger ist, in den letzten drei Kalenderjahren vor Beginn der
-Verfolgung berücksichtigt, wenn diese durchschnittliche
+Durchschnitt aus Entgeltpunkten für vollwertige Pflichtbeiträge
+auf Grund einer versicherten Beschäftigung oder selbständigen
+Tätigkeit oder für freiwillige Beiträge im letzten Kalenderjahr
+oder, wenn dies günstiger ist, in den letzten drei Kalenderjahren vor
+Beginn der Verfolgung berücksichtigt, wenn diese durchschnittliche
 Entgeltpunkteposition eine höhere Rente ergibt. Im Fall der Anwendung
 von Absatz 2 sind jedoch höchstens die sich daraus ergebenden
 Entgeltpunkte zu berücksichtigen.
@@ -356,57 +333,44 @@ Juni 1990 werden als Beitragsbemessungsgrundlage für ein Kalenderjahr
 höchstens
 
 1.  die um 20 vom Hundert erhöhten Beträge der Anlage 16 zum Sechsten Buch
-    Sozialgesetzbuch berücksichtigt, wenn der Verfolgte in dieser Zeit ein
-    tatsächliches Einkommen von mehr als 600 Mark monatlich erzielt hat
-    und der Freiwilligen Zusatzrentenversicherung (FZR) nicht angehört
+    Sozialgesetzbuch berücksichtigt, wenn der Verfolgte in dieser Zeit
+    ein tatsächliches Einkommen von mehr als 600 Mark monatlich erzielt
+    hat und der Freiwilligen Zusatzrentenversicherung (FZR) nicht angehört
     hat,
-
 
 2.  die Beträge nach Nummer 1 doppelt berücksichtigt, wenn der Verfolgte
 
     a)  als Arbeiter, Angestellter oder Mitglied einer
         Produktionsgenossenschaft oder
 
-
     b)  in der Zeit nach dem 30. November 1989 als Mitglied der Kollegien der
         Rechtsanwälte, in eigener Praxis tätiger Arzt, Zahnarzt oder Tierarzt,
         freiberuflich tätiger Kultur- und Kunstschaffender, Inhaber eines
-        Handwerks- Handwerks- oder Gewerbebetriebes, freiberuflich Tätiger und
-        anderer selbständig Tätiger sowie als deren ständig mitarbeitender
+        Handwerks- Handwerks- oder Gewerbebetriebes, freiberuflich Tätiger
+        und anderer selbständig Tätiger sowie als deren ständig mitarbeitender
         Ehegatte
-
-
-
 
     ein tatsächliches Einkommen von mehr als 1.200 Mark monatlich erzielt
     hat und sich nicht für eine Beitragszahlung zur FZR für das Einkommen
     über 1.200 Mark monatlich erklärt hat.
 
-
-
 Satz 1 gilt nicht, wenn der Verfolgte zu Beginn der Verfolgung
 
 1.  sich in einer Fachschul- oder Hochschulausbildung befunden hat,
 
-
 2.  der FZR angehört hat,
-
 
 3.  sich für eine Beitragszahlung zur FZR für das Einkommen über 1.200
     Mark monatlich erklärt hat oder nicht mindestens 24 Kalendermonate die
     Möglichkeit zur Abgabe der Erklärung gehabt hat oder
 
-
 4.  der FZR nicht angehören konnte oder nicht mindestens 24 Kalendermonate
     die Möglichkeit des Beitritts zur FZR gehabt hat.
 
-
-
-
 (3) Absatz 2 ist für Verfolgte, die während Zeiten der Verfolgung
 einem Zusatz- oder Sonderversorgungssystem (Anlagen 1 und 2 zum
-Anspruchs- und Anwartschaftsüberführungsgesetz) angehört haben oder
-wegen einer Verfolgungsmaßnahme aus einem Zusatz- oder
+Anspruchs- und Anwartschaftsüberführungsgesetz) angehört haben
+oder wegen einer Verfolgungsmaßnahme aus einem Zusatz- oder
 Sonderversorgungssystem ausgeschieden sind, nicht anzuwenden. Auf die
 nach Absatz 1 ermittelten oder sich aus Absatz 1a ergebenden, durch
 die Werte der Anlage 10 zum Sechsten Buch Sozialgesetzbuch geteilten
@@ -420,17 +384,13 @@ nach den Absätzen 1 bis 3 zugrunde gelegt.
 ### Dritter Unterabschnitt - Renten nach den Vorschriften des Beitrittsgebiets
 
 
-
 #### § 14 Verfolgungszeiten als rentenrechtliche Zeiten
 
 (1) Verfolgungszeiten gelten als
 
 1.  Zeiten einer versicherungspflichtigen Tätigkeit und
 
-
 2.  Beitragszeiten zur FZR,
-
-
 
 soweit sie nicht nach den allgemein anzuwendenden Vorschriften Zeiten
 einer versicherungspflichtigen Tätigkeit oder Beitragszeiten zur FZR
@@ -440,27 +400,21 @@ sind.
 
 1.  Zeiten der bergbaulichen Versicherung,
 
-
 2.  Zeiten der Beschäftigung oder selbständigen Tätigkeit in Einrichtungen
     des Gesundheits- und Sozialwesens nach den Bestimmungen der §§ 46 und
     47 der Rentenverordnung vom 23. November 1979 (GBl. I Nr. 43 S. 401),
 
-
-3.  Zeiten der Beschäftigung bei der Deutschen Post nach der Post-Dienst-
-    Verordnung vom 28. März 1973 (GBl. I Nr. 25 S. 222) und der
+3.  Zeiten der Beschäftigung bei der Deutschen Post nach der Post-
+    Dienst-Verordnung vom 28. März 1973 (GBl. I Nr. 25 S. 222) und der
     Versorgungsordnung der Deutschen Post vom 31. Mai 1973,
-
 
 4.  Zeiten der Beschäftigung bei der Deutschen Reichsbahn nach der
     Eisenbahner-Verordnung vom 28. März 1973 (GBl. I Nr. 25 S. 217) und
     der Versorgungsordnung der Deutschen Reichsbahn oder
 
-
 5.  Zeiten der Beschäftigung in Einrichtungen nach der Anordnung über die
     Berechnung von Renten der Sozialversicherung für bestimmte Gruppen von
     Werktätigen vom 12. April 1976
-
-
 
 zugeordnet, wenn zu Beginn der Verfolgung eine Beschäftigung oder
 selbständige Tätigkeit im Sinne der Nummern 1 bis 5 ausgeübt worden
@@ -478,8 +432,8 @@ zugrunde zu legen.
 
 (2) Bei der Ermittlung des durch Beiträge zur FZR versicherten
 Durchschnittseinkommens sind für Verfolgungszeiten die nach § 13
-ermittelten Beitragsbemessungsgrundlagen, geteilt durch die Werte der
-Anlage 10 zum Sechsten Buch Sozialgesetzbuch, zugrunde zu legen,
+ermittelten Beitragsbemessungsgrundlagen, geteilt durch die Werte
+der Anlage 10 zum Sechsten Buch Sozialgesetzbuch, zugrunde zu legen,
 soweit sie 600 Mark monatlich übersteigen.
 
 (3) § 309 Abs. 1a des Sechsten Buches Sozialgesetzbuch findet
@@ -487,7 +441,6 @@ entsprechende Anwendung.
 
 
 ### Vierter Unterabschnitt - Übergangsregelungen
-
 
 
 #### § 16 Rentenleistungen vor dem 1. Juli 1994
@@ -501,13 +454,12 @@ Bezugs, frühestens für die Zeit vom 1. Juli 1990 an, zu leisten.
 ## Fünfter Abschnitt - Zuständigkeit und Verfahren
 
 
-
 ### § 17 Rehabilitierungsbescheinigung und Behördenzuständigkeit
 
-(1) Der Nachweis darüber, daß die Voraussetzungen des § 1 Absatz 1,
-des § 3 Absatz 1 oder des § 11a Absatz 3 vorliegen und daß
-Ausschließungsgründe nach § 4 nicht gegeben sind, ist durch eine
-Bescheinigung zu erbringen, die auf Antrag von der
+(1) Der Nachweis darüber, daß die Voraussetzungen des § 1
+Absatz 1, des § 3 Absatz 1 oder des § 11a Absatz 3 vorliegen
+und daß Ausschließungsgründe nach § 4 nicht gegeben sind, ist
+durch eine Bescheinigung zu erbringen, die auf Antrag von der
 Rehabilitierungsbehörde erteilt wird.
 
 (2) Rehabilitierungsbehörden werden in den Ländern Berlin,
@@ -523,16 +475,16 @@ befaßt worden ist.
 
 ### § 18 Vorläufige Rehabilitierungsbescheinigung
 
-(1) Erfordert die Erteilung einer Bescheinigung nach § 17 Abs. 1
-voraussichtlich längere Zeit, kann die Rehabilitierungsbehörde als
-Grundlage für Leistungen nach dem Zweiten oder Dritten Abschnitt oder
-für die Anwendung des § 60 Nr. 1 des
+(1) Erfordert die Erteilung einer Bescheinigung nach § 17 Abs.
+1 voraussichtlich längere Zeit, kann die Rehabilitierungsbehörde
+als Grundlage für Leistungen nach dem Zweiten oder Dritten
+Abschnitt oder für die Anwendung des § 60 Nr. 1 des
 Bundesausbildungsförderungsgesetzes eine vorläufige Bescheinigung
 erteilen. Diese Bescheinigung hat die Angaben nach § 22 Abs. 1 Nr. 1
 bis 3 oder § 22 Abs. 2 Nr. 1 und 2 zu enthalten.
 
-(2) In den Fällen des Absatzes 1 ist die Verfolgteneigenschaft oder
-die Verfolgung als Schüler glaubhaft zu machen. Die
+(2) In den Fällen des Absatzes 1 ist die Verfolgteneigenschaft
+oder die Verfolgung als Schüler glaubhaft zu machen. Die
 Rehabilitierungsbehörde kann zu diesem Zweck auch eine Versicherung an
 Eides Statt verlangen und abnehmen.
 
@@ -547,10 +499,10 @@ erforderlich verarbeitet werden.
 
 ### § 20 Antrag
 
-Der Antrag auf Erteilung einer Bescheinigung nach § 17 Absatz 1 kann
-von dem Verfolgten gestellt werden und nach dessen Tod von seinen
-Hinterbliebenen, wenn diese ein rechtliches Interesse an der
-Antragstellung haben. Der Antrag ist schriftlich bei der
+Der Antrag auf Erteilung einer Bescheinigung nach § 17 Absatz
+1 kann von dem Verfolgten gestellt werden und nach dessen Tod
+von seinen Hinterbliebenen, wenn diese ein rechtliches Interesse
+an der Antragstellung haben. Der Antrag ist schriftlich bei der
 Rehabilitierungsbehörde zu stellen.
 
 
@@ -560,28 +512,19 @@ Der Antrag soll enthalten
 
 1.  Angaben zur Person,
 
-
 2.  Angaben zur Ausbildung und zum beruflichen Werdegang,
-
 
 3.  eine Darstellung der Verfolgung,
 
-
 4.  Angaben zum Umfang der Benachteiligung in Ausbildung und Beruf,
 
-
 5.  die Angabe von Beweismitteln,
-
 
 6.  eine Erklärung, ob und wo der Antragsteller schon früher einen Antrag
     gestellt hat, sowie
 
-
 7.  Angaben zu Kindern, die infolge einer Verfolgung nach § 11a Absatz 3
     nicht erzogen werden konnten.
-
-
-
 
 
 ### § 22 Inhalt der Bescheinigung
@@ -591,22 +534,17 @@ enthalten:
 
 1.  die Feststellungen nach § 1 Abs. 1,
 
-
 2.  die Bestätigung, daß Ausschließungsgründe nach § 4 nicht vorliegen,
 
-
 3.  Beginn und Ende der Verfolgungszeit (§ 2),
-
 
 4.  Dauer der verfolgungsbedingten Unterbrechung eines Fach- oder
     Hochschulstudiums vor dem 3. Oktober 1990,
 
-
 5.  Angaben über eine wegen Verfolgungsmaßnahmen nicht abgeschlossene
-    Fach- oder Hochschulausbildung oder sonstige berufsbezogene Ausbildung
-    sowie die voraussichtliche Dauer dieser Ausbildung bis zum
+    Fach- oder Hochschulausbildung oder sonstige berufsbezogene
+    Ausbildung sowie die voraussichtliche Dauer dieser Ausbildung bis zum
     regelmäßigen Abschluß,
-
 
 6.  Angaben über die Beschäftigung oder selbständige Tätigkeit, die ohne
     die Verfolgung ausgeübt worden wäre, einschließlich Angaben über die
@@ -614,64 +552,45 @@ enthalten:
     a)  Leistungsgruppe nach den Anlagen 1 bis 16 des Fremdrentengesetzes für
         Verfolgungszeiten vor dem 1. Januar 1950,
 
-
-    b)  Qualifikationsgruppe nach Anlage 13 und den Bereich nach Anlage 14 zum
-        Sechsten Buch Sozialgesetzbuch für Verfolgungszeiten nach dem 31.
+    b)  Qualifikationsgruppe nach Anlage 13 und den Bereich nach Anlage 14
+        zum Sechsten Buch Sozialgesetzbuch für Verfolgungszeiten nach dem 31.
         Dezember 1949,
-
 
     c)  tatsächliche oder ohne die Verfolgung gegebene Zugehörigkeit zu einem
         zu benennenden Zusatz- oder Sonderversorgungssystem und die jeweilige
         Tätigkeit oder Funktion,
 
-
-
-
-
 7.  Angaben über eine Beschäftigung oder selbständige Tätigkeit zu Beginn
     der Verfolgung in einem der in § 14 Abs. 2 genannten Bereiche oder im
     Bereich der knappschaftlichen Rentenversicherung.
-
-
-
 
 (2) Die Bescheinigung hat in den Fällen des § 3 folgende Angaben zu
 enthalten:
 
 1.  die Feststellungen nach § 3 Abs. 1,
 
-
 2.  die Bestätigung, daß Ausschließungsgründe nach § 4 nicht vorliegen,
-
 
 3.  Zeitraum einer zu Unrecht erlittenen Freiheitsentziehung (§ 1 Abs. 2)
     und Dauer der verfolgungsbedingten Unterbrechung der Ausbildung vor
     dem 3. Oktober 1990.
 
-
-
 Soweit die Bescheinigung nicht zur Vorlage bei den für die Ausführung
-des § 60 des Bundesausbildungsförderungsgesetzes zuständigen Behörden
-benötigt wird, sind nur die Angaben zu den Nummern 1 und 2
-erforderlich.
+des § 60 des Bundesausbildungsförderungsgesetzes zuständigen
+Behörden benötigt wird, sind nur die Angaben zu den Nummern 1 und
+2 erforderlich.
 
 (2a) Die Bescheinigung hat in den Fällen des § 11a die folgenden
 Angaben zu enthalten:
 
 1.  die Feststellungen nach § 11a Absatz 3,
 
-
 2.  die Bestätigung, dass Ausschließungsgründe nach § 4 nicht vorliegen,
 
-
-3.  Beginn und Ende der Verfolgungszeit nach § 2 Absatz 1 Satz 1 Nummer 1
-    und
-
+3.  Beginn und Ende der Verfolgungszeit nach § 2 Absatz 1 Satz 1 Nummer
+    1 und
 
 4.  die Dauer der verfolgungsbedingten Unterbrechung der Kindererziehung.
-
-
-
 
 (3) Die für die Ausführung des Zweiten bis Vierten Abschnitts und des
 § 60 des Bundesausbildungsförderungsgesetzes zuständigen Behörden sind
@@ -679,7 +598,6 @@ an die in der Bescheinigung enthaltenen Feststellungen gebunden.
 
 
 ### § 23 (weggefallen)
-
 
 
 ### § 24 Zuständigkeit für Leistungen nach dem Zweiten und Dritten Abschnitt
@@ -699,28 +617,28 @@ und 99 Abs. 1 des Zwölften Buches Sozialgesetzbuch) zuständig.
 Aussage und Sachverständige zur Erstattung von Gutachten verpflichtet.
 § 65 des Verwaltungsverfahrensgesetzes gilt entsprechend.
 
-(2) Die Angaben des Antragstellers zur Verfolgteneigenschaft nach § 1
-Absatz 1 oder § 11a Absatz 3, zur Verfolgungszeit nach § 2 Absatz 1
-und zur Verfolgung als Schüler nach § 3 Absatz 1 können, wenn
-Beweismittel nicht vorhanden oder nicht zu beschaffen oder ohne
-Verschulden des Antragstellers oder desjenigen, von dem er seine
-Rechte herleitet, verlorengegangen sind, der Entscheidung
-zugrundegelegt werden, soweit sie glaubhaft erscheinen. Unter den
-Voraussetzungen des Satzes 1 kann die Rehabilitierungsbehörde vom
-Antragsteller die Versicherung an Eides Statt gemäß § 27 des
+(2) Die Angaben des Antragstellers zur Verfolgteneigenschaft nach
+§ 1 Absatz 1 oder § 11a Absatz 3, zur Verfolgungszeit nach § 2
+Absatz 1 und zur Verfolgung als Schüler nach § 3 Absatz 1 können,
+wenn Beweismittel nicht vorhanden oder nicht zu beschaffen oder
+ohne Verschulden des Antragstellers oder desjenigen, von dem er
+seine Rechte herleitet, verlorengegangen sind, der Entscheidung
+zugrundegelegt werden, soweit sie glaubhaft erscheinen. Unter
+den Voraussetzungen des Satzes 1 kann die Rehabilitierungsbehörde
+vom Antragsteller die Versicherung an Eides Statt gemäß § 27 des
 Verwaltungsverfahrensgesetzes verlangen.
 
-(3) Soweit in diesem Gesetz nichts anderes bestimmt ist, gelten bis
-zum Erlaß entsprechender landesrechtlicher Bestimmungen die
-Vorschriften des Verwaltungsverfahrensgesetzes, des
-Verwaltungszustellungsgesetzes und des Verwaltungs-
+(3) Soweit in diesem Gesetz nichts anderes bestimmt ist,
+gelten bis zum Erlaß entsprechender landesrechtlicher
+Bestimmungen die Vorschriften des Verwaltungsverfahrensgesetzes,
+des Verwaltungszustellungsgesetzes und des Verwaltungs-
 Vollstreckungsgesetzes.
 
 (4) Für das Verfahren nach dem Zweiten und Dritten Abschnitt gelten
 das Erste und Zehnte Buch Sozialgesetzbuch. Führt eine Änderung dieses
-Gesetzes zu einer Änderung laufend gewährter Ausgleichsleistungen nach
-§ 8 Absatz 1, sind diese von Amts wegen neu festzustellen. Von einer
-förmlichen Bescheiderteilung kann abgesehen werden; ausgenommen
+Gesetzes zu einer Änderung laufend gewährter Ausgleichsleistungen
+nach § 8 Absatz 1, sind diese von Amts wegen neu festzustellen. Von
+einer förmlichen Bescheiderteilung kann abgesehen werden; ausgenommen
 hiervon sind Fälle nach § 8 Absatz 4.
 
 
@@ -745,14 +663,13 @@ und 3 des Gerichtsverfassungsgesetzes. Auf die Beschwerde gegen die
 Beschlüsse über den Rechtsweg findet § 17a Abs. 4 Satz 4 bis 6 des
 Gerichtsverfassungsgesetzes entsprechend Anwendung.
 
-(2) Soweit bei der Durchführung dieses Gesetzes die Bundesagentur für
-Arbeit oder die Träger der Rentenversicherung tätig werden,
+(2) Soweit bei der Durchführung dieses Gesetzes die Bundesagentur
+für Arbeit oder die Träger der Rentenversicherung tätig werden,
 entscheiden über öffentlich-rechtliche Streitigkeiten die Gerichte der
 Sozialgerichtsbarkeit.
 
 
 ## Sechster Abschnitt - Kostenregelung
-
 
 
 ### § 28 Kosten für Leistungen nach dem Zweiten Abschnitt
@@ -770,7 +687,6 @@ Dritten Abschnitt entstehen, trägt der Bund 60 vom Hundert.
 
 
 ## Siebter Abschnitt - Übergangsregelungen
-
 
 
 ### § 30

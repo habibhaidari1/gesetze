@@ -1,6 +1,5 @@
 ---
-Title: Verfahrensverordnung zu Artikel VI des Zweiten Gesetzes zur Änderung des Bundesentschädigungsgesetzes
-  (BEG-Schlußgesetz)
+Title: Verfahrensverordnung zu Artikel VI des Zweiten Gesetzes zur Änderung des Bundesentschädigungsgesetzes (BEG-Schlußgesetz)
 jurabk: BEGSchlGVerfV
 layout: default
 origslug: begschlgverfv
@@ -17,16 +16,16 @@ Fundstelle
 :   BGBl I: 1966, 187
 
 Geändert durch
-:   Art. 4 Abs. 13 G v. 5. 5.2004 I 718
+:   Art. 4 Abs. 13 G v. 5.5.2004 I 718
 
 
 ## Eingangsformel
 
-Auf Grund des Artikels VI Nr. 7 des Zweiten Gesetzes zur Änderung des
-Bundesentschädigungsgesetzes (BEG-Schlußgesetz) vom 14. September 1965
-(Bundesgesetzbl. I S. 1315) in Verbindung mit § 184 des
-Bundesentschädigungsgesetzes (BEG) in der Fassung vom 29. Juni 1956
-(Bundesgesetzbl. I S. 562), zuletzt geändert durch das BEG-
+Auf Grund des Artikels VI Nr. 7 des Zweiten Gesetzes zur Änderung
+des Bundesentschädigungsgesetzes (BEG-Schlußgesetz) vom 14.
+September 1965 (Bundesgesetzbl. I S. 1315) in Verbindung mit § 184
+des Bundesentschädigungsgesetzes (BEG) in der Fassung vom 29. Juni
+1956 (Bundesgesetzbl. I S. 562), zuletzt geändert durch das BEG-
 Schlußgesetz vom 14. September 1965 (Bundesgesetzbl. I S. 1315),
 verordnet die Bundesregierung:
 
@@ -48,15 +47,14 @@ Schlußgesetzes zur Abnahme von Versicherungen an Eides Statt befugt.
 
 ## § 3
 
-(1) Für einen offensichtlich unbegründeten Antrag im Sinne des § 207
-Abs. 1 Satz 2 BEG können dem Antragsteller eine Gebühr bis zu 100
-Deutsche Mark und Ersatz der Auslagen nach den §§ 91 bis 94 des
-Gerichtskostengesetzes vom
-26\. Juli 1957 (Bundesgesetzbl. I S. 861, 941)              auferlegt
-werden.
+(1) Für einen offensichtlich unbegründeten Antrag im Sinne des §
+207 Abs. 1 Satz 2 BEG können dem Antragsteller eine Gebühr bis zu
+100 Deutsche Mark und Ersatz der Auslagen nach den §§ 91 bis 94 des
+Gerichtskostengesetzes vom *26. Juli 1957 (Bundesgesetzbl. I S. 861,
+941)* auferlegt werden.
 
-(2) Der Kostenbescheid im Sinne des § 207 Abs. 1 Satz 3 BEG ist
-zurückzunehmen, wenn der geltend gemachte Anspruch durch
+(2) Der Kostenbescheid im Sinne des § 207 Abs. 1 Satz 3 BEG
+ist zurückzunehmen, wenn der geltend gemachte Anspruch durch
 rechtskräftiges Urteil oder durch Vergleich ganz oder teilweise
 zuerkannt worden ist.
 

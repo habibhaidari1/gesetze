@@ -1,7 +1,5 @@
 ---
-Title: Gesetz zu dem Vertrag vom 2. Juni 1961 zwischen der Bundesrepublik Deutschland
-  und der Italienischen Republik über Leistungen zugunsten italienischer Staatsangehöriger,
-  die von nationalsozialistischen Verfolgungsmaßnahmen betroffen worden sind
+Title: Gesetz zu dem Vertrag vom 2. Juni 1961 zwischen der Bundesrepublik Deutschland und der Italienischen Republik über Leistungen zugunsten italienischer Staatsangehöriger, die von nationalsozialistischen Verfolgungsmaßnahmen betroffen worden sind
 jurabk: WGLeistVtrITAG
 layout: default
 origslug: wgleistvtritag
@@ -18,7 +16,6 @@ Fundstelle
 :   BGBl II: 1963, 791
 
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
@@ -27,13 +24,13 @@ beschlossen:
 
 ## Art 1
 
-Dem in Bonn am 2. Juni 1961 unterzeichneten Vertrag zwischen der
-Bundesrepublik Deutschland und der Italienischen Republik über
-Leistungen zugunsten italienischer Staatsangehöriger, die von
-nationalsozialistischen Verfolgungsmaßnahmen betroffen worden sind,
-sowie dem dazugehörigen Briefwechsel vom gleichen Tage wird
+*Dem in Bonn am 2. Juni 1961 unterzeichneten Vertrag zwischen
+der Bundesrepublik Deutschland und der Italienischen Republik
+über Leistungen zugunsten italienischer Staatsangehöriger, die
+von nationalsozialistischen Verfolgungsmaßnahmen betroffen worden
+sind, sowie dem dazugehörigen Briefwechsel vom gleichen Tage wird
 zugestimmt. Der Vertrag und der Briefwechsel werden nachstehend
-veröffentlicht.
+veröffentlicht.*
 
 
 ## Art 2
@@ -44,9 +41,9 @@ Staatsangehöriger nach dem Bundesentschädigungsgesetz vom 29. Juni
 1956 (Bundesgesetzbl. I S. 562) in seiner jeweils geltenden Fassung
 keine Anwendung.
 
-(2) Die Unanfechtbarkeit oder die Rechtskraft einer vor Inkrafttreten
-des Vertrags über Leistungen zugunsten italienischer
-Staatsangehöriger, die von nationalsozialistischen
+(2) Die Unanfechtbarkeit oder die Rechtskraft einer vor
+Inkrafttreten des Vertrags über Leistungen zugunsten
+italienischer Staatsangehöriger, die von nationalsozialistischen
 Verfolgungsmaßnahmen betroffen worden sind, ergangenen Entscheidung,
 durch die Ansprüche nach dem Bundesentschädigungsgesetz auf Grund des
 Artikels 77 Abs. 4 des Friedensvertrags mit Italien vom 10. Februar
@@ -77,8 +74,8 @@ keine Anwendung.
 
 (2) Die Rechtskraft einer vor Inkrafttreten dieses Gesetzes ergangenen
 Entscheidung, durch die unter das Bundesrückerstattungsgesetz fallende
-Ansprüche auf Grund des Artikels 77 Abs. 4 des Friedensvertrags mit
-Italien vom 10. Februar 1947 abgelehnt worden sind, steht einer
+Ansprüche auf Grund des Artikels 77 Abs. 4 des Friedensvertrags
+mit Italien vom 10. Februar 1947 abgelehnt worden sind, steht einer
 erneuten, die Regelung des Absatzes 1 berücksichtigenden Entscheidung
 über den Anspruch nicht entgegen. Die erneute Entscheidung ist nach
 Maßgabe des § 42 Abs. 3 und 4 des Bundesrückerstattungsgesetzes bei

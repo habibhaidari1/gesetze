@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl I: 1973, 1928
 
 
-
 ## Eingangsformel
 
 Auf Grund des § 8 Abs. 3 des Finanzverwaltungsgesetzes in der Fassung

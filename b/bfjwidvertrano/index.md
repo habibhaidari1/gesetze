@@ -1,8 +1,5 @@
 ---
-Title: Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden
-  und die Vertretung des Dienstherrn bei Klagen von Beamtinnen und Beamten des Bundesamts
-  für Justiz in Angelegenheiten der Besoldung, des Dienstunfall-, Reisekosten-, Umzugskosten-
-  und Trennungsgeldrechts
+Title: Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von Beamtinnen und Beamten des Bundesamts für Justiz in Angelegenheiten der Besoldung, des Dienstunfall-, Reisekosten-, Umzugskosten- und Trennungsgeldrechts
 jurabk: BfJWidVertrAnO
 layout: default
 origslug: bfjwidvertrano
@@ -39,13 +36,13 @@ vor, im Einzelfall selbst zu entscheiden.
 
 ## § 2 Vertretung bei Klagen
 
-Der Präsidentin oder dem Präsidenten des Bundesverwaltungsamts wird
-die Vertretung der Bundesrepublik Deutschland bei Klagen von
+Der Präsidentin oder dem Präsidenten des Bundesverwaltungsamts
+wird die Vertretung der Bundesrepublik Deutschland bei Klagen von
 Beamtinnen und Beamten des Bundesamts für Justiz der Besoldungsgruppen
 bis einschließlich A 11 in Angelegenheiten der Besoldung, des
 Dienstunfall-, Reisekosten-, Umzugskosten- und Trennungsgeldrechts
-übertragen, soweit das Bundesverwaltungsamt nach dieser Anordnung für
-den Erlass des Widerspruchsbescheids zuständig war. Die
+übertragen, soweit das Bundesverwaltungsamt nach dieser Anordnung
+für den Erlass des Widerspruchsbescheids zuständig war. Die
 Bundesministerin oder der Bundesminister der Justiz und für
 Verbraucherschutz kann im Einzelfall die Vertretung abweichend von
 dieser Anordnung regeln oder selbst übernehmen.

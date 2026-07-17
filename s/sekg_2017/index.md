@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zur Regelung von Sekundierungen im Rahmen von Einsätzen der zivilen
-  Krisenprävention
+Title: Gesetz zur Regelung von Sekundierungen im Rahmen von Einsätzen der zivilen Krisenprävention
 jurabk: SekG 2017
 layout: default
 origslug: sekg_2017
@@ -19,7 +18,9 @@ Fundstelle
 Geändert durch
 :   Art. 148 V v. 19.6.2020 I 1328
 
-Stand: Ersetzt G 215-18 v. 17.7.2009 I 1974 (SekG)
+Stand
+:   Ersetzt G 215-18 v. 17.7.2009 I 1974 (SekG)
+
 
 ## Abschnitt 1 - Allgemeines
 
@@ -39,42 +40,34 @@ die aufnehmende Einrichtung, besteht.
 Im Sinne dieses Gesetzes bedeutet
 
 1.  „Sekundierung“ die soziale Absicherung einer Person, die im Rahmen
-    eines internationalen Einsatzes zur zivilen Krisenprävention bei einer
-    aufnehmenden Einrichtung tätig wird, durch einen Vertrag nach diesem
-    Gesetz im Hinblick auf Altersvorsorge, Risiken der Krankheit und
-    Pflegebedürftigkeit, Haftungs- und Unfallrisiken und für den Fall der
-    Arbeitslosigkeit;
+    eines internationalen Einsatzes zur zivilen Krisenprävention bei
+    einer aufnehmenden Einrichtung tätig wird, durch einen Vertrag nach
+    diesem Gesetz im Hinblick auf Altersvorsorge, Risiken der Krankheit
+    und Pflegebedürftigkeit, Haftungs- und Unfallrisiken und für den Fall
+    der Arbeitslosigkeit;
 
-
-2.  „internationaler Einsatz zur zivilen Krisenprävention“ der zivile oder
-    zivil-militärische Einsatz zum Zweck der Krisenvorsorge, der
-    Krisenbewältigung oder der Krisennachsorge außerhalb der
+2.  „internationaler Einsatz zur zivilen Krisenprävention“ der zivile
+    oder zivil-militärische Einsatz zum Zweck der Krisenvorsorge,
+    der Krisenbewältigung oder der Krisennachsorge außerhalb der
     Bundesrepublik Deutschland, der im Auftrag oder im Interesse
     internationaler, supranationaler oder ausländischer staatlicher
     Einrichtungen durchgeführt wird;
-
 
 3.  „aufnehmende Einrichtung“ die internationale, supranationale oder
     ausländische staatliche Einrichtung, bei der eine Person im Rahmen
     eines internationalen Einsatzes zur zivilen Krisenprävention tätig
     wird;
 
-
 4.  „sekundierende Einrichtung“ die Einrichtung, die Verträge zur
     Sekundierung schließt;
-
 
 5.  „sekundierte Person“ die Person, die gemäß § 3 Absatz 1 Nummer 1 oder
     2 einen Vertrag zur Sekundierung mit der sekundierenden Einrichtung
     geschlossen hat und ihre Tätigkeit im Rahmen eines internationalen
     Einsatzes zur zivilen Krisenprävention aufgenommen hat;
 
-
 6.  „Zeitraum der Sekundierung“ den Zeitraum der Vertragslaufzeit des
     Arbeits- oder Sekundierungsvertrags.
-
-
-
 
 
 ### § 3 Verträge zur Sekundierung
@@ -83,11 +76,8 @@ Im Sinne dieses Gesetzes bedeutet
 
 1.  eines Arbeitsvertrags oder
 
-
 2.  eines Vertrags besonderer Art zur Unterstützung und sozialen
     Absicherung der sekundierten Person (Sekundierungsvertrag)
-
-
 
 zwischen einer sekundierenden Einrichtung und einer Person erfolgen.
 Die Entscheidung, ob ein Vertrag nach Satz 1 Nummer 1 oder Nummer 2
@@ -110,11 +100,11 @@ rechtlichen Dienstverhältnisses ausgeübt wird.
 (5) Auf Sekundierungen ist das Arbeitnehmerüberlassungsgesetz nicht
 anzuwenden.
 
-(6) Erfolgt die Sekundierung auf Grund eines Arbeitsvertrags, sind die
-für den Zeitraum der Sekundierung für Arbeitnehmerinnen und
-Arbeitnehmer des Bundes jeweils geltenden Tarifverträge und sonstigen
-Bestimmungen anzuwenden; hinsichtlich des Entgeltes gelten die
-tarifvertraglichen Sonderregelungen für Beschäftigte, die zu
+(6) Erfolgt die Sekundierung auf Grund eines Arbeitsvertrags,
+sind die für den Zeitraum der Sekundierung für Arbeitnehmerinnen
+und Arbeitnehmer des Bundes jeweils geltenden Tarifverträge und
+sonstigen Bestimmungen anzuwenden; hinsichtlich des Entgeltes gelten
+die tarifvertraglichen Sonderregelungen für Beschäftigte, die zu
 Auslandsdienststellen des Bundes entsandt sind, entsprechend.
 
 (7) Soweit es für die Durchführung der Aufgaben der sekundierenden
@@ -139,11 +129,7 @@ Absatz 7 entsprechend anzuwenden.
 
 1.  die Bundesrepublik Deutschland, vertreten durch ein Bundesministerium;
 
-
 2.  ein Dritter mit Erlaubnis eines Bundesministeriums.
-
-
-
 
 (2) Die Erteilung der Erlaubnis nach Absatz 1 Nummer 2 bedarf des
 Einvernehmens des Auswärtigen Amts. Für den Fall, dass ein Dritter
@@ -169,60 +155,48 @@ Vorschriften des deutschen Rentenversicherungsrechts zu stellen.
 1.  die sekundierte Person die Regelaltersgrenze nach dem Sechsten Buch
     Sozialgesetzbuch erreicht hat,
 
-
 2.  der sekundierten Person für den Zeitraum der Sekundierung
     Versorgungsbezüge gewährt werden,
 
-
 3.  für den Zeitraum der Sekundierung eine andere Stelle die Kosten einer
     Altersvorsorge trägt,
-
 
 4.  der Zeitraum der Sekundierung in einem Alterssicherungssystem
     berücksichtigt wird, soweit die Berücksichtigung in dem
     Alterssicherungssystem nicht mit zusätzlichen Kosten für die
     sekundierte Person verbunden ist,
 
-
-5.  die sekundierte Person vor Abschluss des Vertrags nach § 3 Absatz 1
-    der sekundierenden Einrichtung mitgeteilt hat, dass ihr für den
+5.  die sekundierte Person vor Abschluss des Vertrags nach § 3 Absatz
+    1 der sekundierenden Einrichtung mitgeteilt hat, dass ihr für den
     Zeitraum der Sekundierung statt der Versicherung nach Absatz 1 ein
     monatlicher Zuschuss zu einer privaten Altersvorsorge oder zu einer
-    berufsständischen Versorgungseinrichtung in Höhe des nach Absatz 1 zu
-    leistenden Anteils gewährt wird und die entsprechende Verwendung
+    berufsständischen Versorgungseinrichtung in Höhe des nach Absatz 1
+    zu leistenden Anteils gewährt wird und die entsprechende Verwendung
     nachweist, oder
-
 
 6.  bei einem Sekundierungsvertrag die Vertragslaufzeit kürzer als drei
     Monate ist.
-
-
-
 
 
 ### § 6 Absicherung bei Krankheit und Pflegebedürftigkeit
 
 (1) Sofern die sekundierende Einrichtung für die zur Sekundierung
 vorgesehene Person keine private Krankenversicherung und keine private
-Pflegeversicherung für den Zeitraum der Sekundierung abschließt, ist
-die zur Sekundierung vorgesehene Person verpflichtet, der
+Pflegeversicherung für den Zeitraum der Sekundierung abschließt,
+ist die zur Sekundierung vorgesehene Person verpflichtet, der
 sekundierenden Einrichtung vor Abschluss des Vertrags zur Sekundierung
 nachzuweisen, dass sie für den Zeitraum der Sekundierung
 
 1.  eine private Krankenversicherung abgeschlossen hat, die die besonderen
     Risiken des Einsatzes soweit wie möglich abdeckt, und
 
-
 2.  eine private Pflegeversicherung abgeschlossen hat.
 
-
-
-
-(2) Kann die zur Sekundierung vorgesehene Person in Deutschland für
-den Zeitraum der Sekundierung einen inländischen Kranken- und
+(2) Kann die zur Sekundierung vorgesehene Person in Deutschland
+für den Zeitraum der Sekundierung einen inländischen Kranken- und
 Pflegeversicherungsschutz begründen oder aufrechterhalten, ist sie
-verpflichtet, der sekundierenden Einrichtung nachzuweisen, dass sie
-zusätzlich zu der Versicherungspflicht nach Absatz 1 Maßnahmen
+verpflichtet, der sekundierenden Einrichtung nachzuweisen, dass
+sie zusätzlich zu der Versicherungspflicht nach Absatz 1 Maßnahmen
 getroffen hat, die zur Begründung oder Aufrechterhaltung des
 inländischen Kranken- und Pflegeversicherungsschutzes notwendig sind.
 
@@ -245,8 +219,8 @@ Stelle die Kosten trägt, die der sekundierten Person nach den Absätzen
 
 (6) Wirkt sich der internationale Einsatz zur zivilen Krisenprävention
 nachteilig auf den Kranken- und Pflegeversicherungsschutz der
-sekundierten Person nach der Zeit des Einsatzes aus, so trägt die
-Bundesrepublik Deutschland, vertreten durch die sekundierende
+sekundierten Person nach der Zeit des Einsatzes aus, so trägt
+die Bundesrepublik Deutschland, vertreten durch die sekundierende
 Einrichtung, die notwendigen Kosten, die nach diesem Gesetz oder
 anderen sozialversicherungsrechtlichen Vorschriften nicht gedeckt
 sind, sofern dies zur Abwendung einer unbilligen Härte geboten ist.
@@ -260,9 +234,9 @@ Deckung von Schäden zu erstatten, die die sekundierte Person im
 Ausland bei ihrer Tätigkeit im Rahmen des internationalen Einsatzes
 zur zivilen Krisenprävention verursacht. Dies gilt nur, wenn die
 sekundierte Person gegenüber der sekundierenden Einrichtung vor
-Abschluss des Arbeits- oder Sekundierungsvertrags nachweist, dass eine
-solche Haftpflichtversicherung für den Zeitraum ihrer Tätigkeit im
-Rahmen des internationalen Einsatzes zur zivilen Krisenprävention
+Abschluss des Arbeits- oder Sekundierungsvertrags nachweist, dass
+eine solche Haftpflichtversicherung für den Zeitraum ihrer Tätigkeit
+im Rahmen des internationalen Einsatzes zur zivilen Krisenprävention
 besteht.
 
 (2) Die Verpflichtung zur Erstattung der Kosten für die Absicherung
@@ -303,8 +277,8 @@ nach diesem Gesetz weitere Leistungen vereinbart werden. Vor der
 Vereinbarung zusätzlicher vertraglicher Leistungen in Arbeitsverträgen
 sind das Einvernehmen mit dem Bundesministerium der Finanzen
 herzustellen und die Einwilligung des Bundesministeriums des Innern,
-für Bau und Heimat durch die sekundierende Einrichtung einzuholen. Bei
-der Bemessung weiterer Leistungen sind die gesetzlich vorgesehenen
+für Bau und Heimat durch die sekundierende Einrichtung einzuholen.
+Bei der Bemessung weiterer Leistungen sind die gesetzlich vorgesehenen
 Leistungen, die Aufgabe und der Einsatzort sowie das Risiko und die
 Gesamtumstände des Auslandseinsatzes angemessen zu berücksichtigen.
 
@@ -314,12 +288,12 @@ Gesamtumstände des Auslandseinsatzes angemessen zu berücksichtigen.
 Die in diesem Abschnitt geregelten Leistungen der sekundierenden
 Einrichtung werden mit der Aufnahme der Tätigkeit der sekundierten
 Person bei der aufnehmenden Einrichtung mit Geltendmachung des
-Anspruchs durch die sekundierte Person fällig, spätestens jedoch ab
-dem Tag, an dem die sekundierte Person die Reise zum Einsatzort
+Anspruchs durch die sekundierte Person fällig, spätestens jedoch
+ab dem Tag, an dem die sekundierte Person die Reise zum Einsatzort
 antritt und den Anspruch geltend macht. Die Leistungen enden mit
 Ablauf des Tages, an dem die sekundierte Person die Rückreise antritt.
-Die Rückreise ist unverzüglich nach Beendigung der Tätigkeit bei der
-aufnehmenden Stelle anzutreten. Reist die sekundierte Person aus
+Die Rückreise ist unverzüglich nach Beendigung der Tätigkeit bei
+der aufnehmenden Stelle anzutreten. Reist die sekundierte Person aus
 Gründen, die sie selbst zu vertreten hat, zu einem späteren Zeitpunkt
 in die Bundesrepublik Deutschland zurück, so endet die Verpflichtung
 mit Ablauf des letzten Tages der Tätigkeit bei der aufnehmenden
@@ -337,27 +311,23 @@ Versicherungspflichtverhältnisses nach dem Recht der Arbeitsförderung
 gleich.
 
 (2) Bei der Feststellung des für die Bemessung des Arbeitslosengeldes
-maßgebenden Arbeitsentgelts ist für den Zeitraum der Sekundierung auf
-Grund
+maßgebenden Arbeitsentgelts ist für den Zeitraum der Sekundierung
+auf Grund
 
-1.  eines Arbeitsvertrags das darin vereinbarte Grundgehalt, höchstens bis
-    zu einem Arbeitsentgelt in Höhe der Beitragsbemessungsgrenze der
-    allgemeinen Rentenversicherung, mindestens jedoch das fiktive
+1.  eines Arbeitsvertrags das darin vereinbarte Grundgehalt, höchstens
+    bis zu einem Arbeitsentgelt in Höhe der Beitragsbemessungsgrenze
+    der allgemeinen Rentenversicherung, mindestens jedoch das fiktive
     Arbeitsentgelt nach § 152 des Dritten Buches Sozialgesetzbuch,
     zugrunde zu legen,
-
 
 2.  eines Sekundierungsvertrags das fiktive Arbeitsentgelt nach § 152 des
     Dritten Buches Sozialgesetzbuch zugrunde zu legen.
 
-
-
-
-(3) Mehraufwendungen, die der Bundesagentur für Arbeit durch die
-Regelung entstehen, erstattet die sekundierende Einrichtung.
-Verwaltungskosten werden nicht erstattet. Schließt ein Dritter nach §
-4 den Vertrag, so hat er Rückstellungen für mögliche Erstattungen zu
-bilden.
+(3) Mehraufwendungen, die der Bundesagentur für Arbeit durch
+die Regelung entstehen, erstattet die sekundierende Einrichtung.
+Verwaltungskosten werden nicht erstattet. Schließt ein Dritter nach
+§ 4 den Vertrag, so hat er Rückstellungen für mögliche Erstattungen
+zu bilden.
 
 
 ### § 12 Übergangsvorschrift

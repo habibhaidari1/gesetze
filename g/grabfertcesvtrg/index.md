@@ -1,7 +1,5 @@
 ---
-Title: Gesetz zu dem Vertrag vom 19. Mai 1995 zwischen der Bundesrepublik Deutschland
-  und der Tschechischen Republik über Erleichterungen der Grenzabfertigung im Eisenbahn-,
-  Straßen- und Schiffsverkehr
+Title: Gesetz zu dem Vertrag vom 19. Mai 1995 zwischen der Bundesrepublik Deutschland und der Tschechischen Republik über Erleichterungen der Grenzabfertigung im Eisenbahn-, Straßen- und Schiffsverkehr
 jurabk: GrAbfertCESVtrG
 layout: default
 origslug: grabfertcesvtrg
@@ -21,7 +19,6 @@ Geändert durch
 :   Art. 209 V v. 19.6.2020 I 1328
 
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
@@ -31,28 +28,25 @@ beschlossen:
 ## Art 1
 
 Dem in Furth im Wald am 19. Mai 1995 unterzeichneten Vertrag zwischen
-der Bundesrepublik Deutschland und der Tschechischen Republik über
-Erleichterungen der Grenzabfertigung im Eisenbahn-, Straßen- und
-Schiffsverkehr wird zugestimmt. Der Vertrag wird nachstehend
+der Bundesrepublik Deutschland und der Tschechischen Republik
+über Erleichterungen der Grenzabfertigung im Eisenbahn-, Straßen-
+und Schiffsverkehr wird zugestimmt. Der Vertrag wird nachstehend
 veröffentlicht.
 
 
 ## Art 2
 
-Die Bundesministerien des Innern, für Bau und Heimat und der Finanzen
-werden jeweils für ihren Geschäftsbereich ermächtigt, ohne Zustimmung
-des Bundesrates die Rechtsverordnungen zu erlassen, die zur
-Durchführung der Vereinbarungen nach Artikel 1 Abs. 3 des Vertrags
+Die Bundesministerien des Innern, für Bau und Heimat und der
+Finanzen werden jeweils für ihren Geschäftsbereich ermächtigt, ohne
+Zustimmung des Bundesrates die Rechtsverordnungen zu erlassen, die
+zur Durchführung der Vereinbarungen nach Artikel 1 Abs. 3 des Vertrags
 über
 
 a)  die Errichtung zusammenliegender und vorgeschobener Grenzdienststellen
     einschließlich ihres Amtsbereichs,
 
-
 b)  die Strecken, auf denen die Bediensteten beider Vertragsparteien in
     den Verkehrsmitteln während der Fahrt die Grenzabfertigung vornehmen,
-
-
 
 erforderlich sind.
 

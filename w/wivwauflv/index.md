@@ -1,6 +1,5 @@
 ---
-Title: Verordnung zur Auflösung oder Überführung von Einrichtungen der Verwaltung
-  des Vereinigten Wirtschaftsgebietes
+Title: Verordnung zur Auflösung oder Überführung von Einrichtungen der Verwaltung des Vereinigten Wirtschaftsgebietes
 jurabk: WiVwAuflV
 layout: default
 origslug: wivwauflv
@@ -29,53 +28,42 @@ Bundesrates:
 
 ## § 1
 
-Mit Wirkung vom 1. April 1950 werden folgende Verwaltungsstellen der
-Verwaltung des Vereinigten Wirtschaftsgebietes aufgelöst:
+*Mit Wirkung vom 1. April 1950 werden folgende Verwaltungsstellen der
+Verwaltung des Vereinigten Wirtschaftsgebietes aufgelöst:*
 
-1.  Das Büro des Wirtschaftsrates
+1.  *Das Büro des Wirtschaftsrates*
 
-    des Vereinigten Wirtschaftsgebietes
+    *des Vereinigten Wirtschaftsgebietes*
 
+2.  *Das Generalsekretariat des Länderrates*
 
-2.  Das Generalsekretariat des Länderrates
+    *des Vereinigten Wirtschaftsgebietes*
 
-    des Vereinigten Wirtschaftsgebietes
+3.  *Die Direktorialkanzlei des Verwaltungsrates*
 
+    *des Vereinigten Wirtschaftsgebietes mit der Außenstelle Berlin*
 
-3.  Die Direktorialkanzlei des Verwaltungsrates
+4.  *Die Verwaltung für Arbeit*
 
-    des Vereinigten Wirtschaftsgebietes mit der Außenstelle Berlin
+    *des Vereinigten Wirtschaftsgebietes*
 
+5.  *Die Verwaltung für Ernährung, Landwirtschaft und Forsten*
 
-4.  Die Verwaltung für Arbeit
+    *des Vereinigten Wirtschaftsgebietes*
 
-    des Vereinigten Wirtschaftsgebietes
+6.  *Die Verwaltung für Finanzen*
 
+    *des Vereinigte Wirtschaftsgebietes*
 
-5.  Die Verwaltung für Ernährung, Landwirtschaft und Forsten
+7.  *Die Verwaltung für Wirtschaft*
 
-    des Vereinigten Wirtschaftsgebietes
+    *des Vereinigten Wirtschaftsgebietes*
 
+8.  *Das Rechtsamt der Verwaltung*
 
-6.  Die Verwaltung für Finanzen
+    *des Vereinigten Wirtschaftsgebietes*
 
-    des Vereinigte Wirtschaftsgebietes
-
-
-7.  Die Verwaltung für Wirtschaft
-
-    des Vereinigten Wirtschaftsgebietes
-
-
-8.  Das Rechtsamt der Verwaltung
-
-    des Vereinigten Wirtschaftsgebietes
-
-
-9.  Das Amt für Fragen der Heimatvertriebenen.
-
-
-
+9.  *Das Amt für Fragen der Heimatvertriebenen.*
 
 
 ## § 2
@@ -89,48 +77,37 @@ ihrem Bereich übernimmt
 
     Der Präsident des Deutschen Bundestages
 
-
 2.  für die in § 1 Nr. 2 genannte Verwaltungsstelle:
 
     Der Präsident des Deutschen Bundesrates
-
 
 3.  für die in § 1 Nr. 3 genannte Verwaltungsstelle:
 
     Das Bundesministerium des Innern
 
-
 4.  für die in § 1 Nr. 4 genannte Verwaltungsstelle:
 
     Der Bundesminister für Arbeit
-
 
 5.  für die in § 1 Nr. 5 genannte Verwaltungsstelle:
 
     Das Bundesministerium für Ernährung, Landwirtschaft und Forsten
 
-
 6.  für die in § 1 Nr. 6 genannte Verwaltungsstelle:
 
     Das Bundesministerium der Finanzen
-
 
 7.  für die in § 1 Nr. 7 genannte Verwaltungsstelle:
 
     Das Bundesministerium für Wirtschaft und Technologie
 
-
 8.  für die in § 1 Nr. 8 genannte Verwaltungsstelle:
 
     Das Bundesministerium der Justiz
 
-
 9.  für die in § 1 Nr. 9 genannte Verwaltungsstelle:
 
-    Der Bundesminister für Vertriebene.
-
-
-
+    *Der Bundesminister für Vertriebene.*
 
 (2) Das Bundesministerium der Finanzen kann die Regelung von
 Ansprüchen und Verpflichtungen dieser Art im Einvernehmen mit den
@@ -146,77 +123,47 @@ anderes Bundesministerium übertragen.
 a)  im Bereich des Bundesministeriums für Ernährung, Landwirtschaft und
     Forsten:
 
-    1.  Die Außenhandelsstelle in Frankfurt am Main-Griesheim
+    1.  *Die Außenhandelsstelle in Frankfurt am Main-Griesheim*
 
+    2.  *Die Biologische Zentralanstalt für Landwirtschaft zu Braunschweig-
+        Gliesmarode*
 
-    2.  Die Biologische Zentralanstalt für Landwirtschaft zu Braunschweig-
-        Gliesmarode
+    3.  *Die Versuchs- und Forschungsanstalt für Milchwirtschaft in Kiel*
 
+    4.  *Die Zentralanstalt für Getreideverarbeitung in Detmold*
 
-    3.  Die Versuchs- und Forschungsanstalt für Milchwirtschaft in Kiel
+    5.  *Die Zentralanstalt für Fischerei in Hamburg*
 
+    6.  *Das Sortenamt für Nutzpflanzen in Frankfurt am Main*
 
-    4.  Die Zentralanstalt für Getreideverarbeitung in Detmold
+    7.  *Das Zentralinstitut für Forst- und Holzwirtschaft in Reinbeck bei
+        Hamburg*
 
+    8.  *Die Zentralforschungsanstalt für Kleintierzucht in Celle*
 
-    5.  Die Zentralanstalt für Fischerei in Hamburg
+    9.  *Die Zentralforschungsanstalt für Fleischwirtschaft in Kulmbach*
 
-
-    6.  Das Sortenamt für Nutzpflanzen in Frankfurt am Main
-
-
-    7.  Das Zentralinstitut für Forst- und Holzwirtschaft in Reinbeck bei
-        Hamburg
-
-
-    8.  Die Zentralforschungsanstalt für Kleintierzucht in Celle
-
-
-    9.  Die Zentralforschungsanstalt für Fleischwirtschaft in Kulmbach
-
-
-    10. ...
-
-
-
-
+    10. *...*
 
 b)  im Bereich des Bundesministeriums der Finanzen:
 
-    11. Das Hauptamt für Soforthilfe in Bad Homburg v. d. Höhe
-
+    11. *Das Hauptamt für Soforthilfe in Bad Homburg v. d. Höhe*
 
     12. ...
 
-
     13. Das Amt für Wertpapierbereinigung in Bad Homburg v. d. Höhe
-
-
-
-
 
 c)  im Bereich des Bundesministeriums des Innern:
 
-    14. Das Institut für Raumforschung in Bad Godesberg
-
-
-
-
+    14. *Das Institut für Raumforschung in Bad Godesberg*
 
 d)  im Bereich des Bundesministeriums für Wirtschaft und Technologie:
 
-    15. Die Zentralstelle für Besatzungsbedarf in Frankfurt am Main-Höchst;
-        sie führt die Bezeichnung "Bundesstelle für Besatzungsbedarf"
-
+    15. *Die Zentralstelle für Besatzungsbedarf in Frankfurt am Main-Höchst;
+        sie führt die Bezeichnung "Bundesstelle für Besatzungsbedarf"*
 
     16. Die Physikalisch-Technische Anstalt zu Braunschweig; sie führt die
         Bezeichnung "Physikalisch-Technische Bundesanstalt".
-
-
-
-
-
-
 
 (2) Das zuständige Bundesministerium kann die bisherigen Bezeichnungen
 dieser Stellen ändern.
@@ -231,8 +178,8 @@ Patentamt".
 
 ## § 5
 
-Das Statistische Amt des Vereinigten Wirtschaftsgebietes wird in die
-Verwaltung des Bundes überführt. Es führt die Bezeichnung
+Das Statistische Amt des Vereinigten Wirtschaftsgebietes wird
+in die Verwaltung des Bundes überführt. Es führt die Bezeichnung
 "Statistisches Bundesamt".
 
 

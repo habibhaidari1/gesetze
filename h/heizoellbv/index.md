@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl I: 1982, 536
 
 
-
 ## Eingangsformel
 
 Auf Grund des § 1 Abs. 1 und 3 und des § 2 Abs. 1 und 3 in Verbindung
@@ -29,12 +28,11 @@ Bundesregierung mit Zustimmung des Bundesrates:
 ## 1. Abschnitt - Liefer- und Bezugsbeschränkungen für leichtes Heizöl
 
 
-
 ### § 1 Liefer- und Bezugsbeschränkungen
 
 (1) Heizölhändler und im Betrieb von Heizölhändlern Beschäftigte
-dürfen leichtes Heizöl an Abnehmer nur bis zu der Menge liefern, die
-sich aus einer Verordnung nach § 2 und in den Fällen besonderen
+dürfen leichtes Heizöl an Abnehmer nur bis zu der Menge liefern,
+die sich aus einer Verordnung nach § 2 und in den Fällen besonderen
 Bedarfs aus einer Bescheinigung nach § 3 Abs. 4 ergibt. Abnehmer
 dürfen leichtes Heizöl nur bis zu dieser Menge beziehen.
 
@@ -51,12 +49,8 @@ Zweck des Endverbrauchs bezieht.
     darf, in einem Vomhundertsatz einer Referenzmenge, die nach den §§ 4
     bis 7 zu ermitteln ist,
 
-
 2.  die Verwendungszwecke und Zeiträume, für die Liefer- und
     Bezugsbeschränkungen gelten.
-
-
-
 
 (2) In der Verordnung kann für den überwiegenden Teil der Abnehmer ein
 Regelvomhundertsatz festgelegt und bestimmt werden, daß insbesondere
@@ -66,27 +60,22 @@ für folgende Verwendungszwecke höhere Vomhundertsätze gelten:
     Behinderte oder für Klein- und Kleinstkinder, in Kindergärten sowie
     Alten- und Pflegeheimen.
 
-
 2.  Verwendung von leichtem Heizöl in einer Heizölverbrauchsanlage
     ausschließlich zu öffentlichen, gewerblichen, landwirtschaftlichen
-    oder freiberuflichen Zwecken. Die Beheizung von Räumen fällt nur dann
-    darunter, wenn zur Erfüllung dieser Zwecke eine bestimmte
+    oder freiberuflichen Zwecken. Die Beheizung von Räumen fällt nur
+    dann darunter, wenn zur Erfüllung dieser Zwecke eine bestimmte
     Mindesttemperatur in den Räumen erforderlich ist, die bei Belieferung
     nach dem Regelvomhundertsatz nicht erreicht werden kann.
 
-
-3.  Verwendung von leichtem Heizöl in einer Heizölverbrauchsanlage teils
-    zu einem in Nummer 2 bezeichneten Zweck, teils zur sonstigen
+3.  Verwendung von leichtem Heizöl in einer Heizölverbrauchsanlage
+    teils zu einem in Nummer 2 bezeichneten Zweck, teils zur sonstigen
     Raumheizung und Warmwasserbereitung.
-
-
-
 
 (3) Werden nach Absatz 2 für bestimmte Verwendungszwecke höhere
 Vomhundertsätze festgesetzt oder bleiben sie von Liefer- und
 Bezugsbeschränkungen nach Absatz 1 ausgenommen, so stellen die
-zuständigen Stellen den Abnehmern für Heizölverbrauchsanlagen, die
-diesen Zwecken dienen, auf Antrag eine Bescheinigung über den
+zuständigen Stellen den Abnehmern für Heizölverbrauchsanlagen,
+die diesen Zwecken dienen, auf Antrag eine Bescheinigung über den
 Verwendungszweck der Heizölverbrauchsanlage nach dem Muster der Anlage
 1 aus. Der Abnehmer hat nachzuweisen, daß seine Anlage einem der in
 Absatz 2 genannten Verwendungszwecke dient. Bei Zugehörigkeit des
@@ -99,20 +88,20 @@ zuständigen Kammer erbracht werden, daß die Anlage einem der in Absatz
 ### § 3 Fälle besonderen Bedarfs
 
 (1) Führt eine Bezugsbeschränkung nach § 2 zu einer unzumutbaren
-Härte, so können die zuständigen Stellen dem Abnehmer auf Antrag ein
-zusätzliches Bezugsrecht (in Litern) in dem Umfang bewilligen, der zur
-Beseitigung der Härte erforderlich ist. Eine unzumutbare Härte liegt
-vor, wenn die Bezugsbeschränkung erhebliche persönliche oder
-wirtschaftliche Nachteile zur Folge hat, die über das der
+Härte, so können die zuständigen Stellen dem Abnehmer auf Antrag
+ein zusätzliches Bezugsrecht (in Litern) in dem Umfang bewilligen,
+der zur Beseitigung der Härte erforderlich ist. Eine unzumutbare
+Härte liegt vor, wenn die Bezugsbeschränkung erhebliche persönliche
+oder wirtschaftliche Nachteile zur Folge hat, die über das der
 Allgemeinheit zugemutete Maß hinausgehen.
 
 (2) In gleicher Weise können die zuständigen Stellen ein zusätzliches
 Bezugsrecht bewilligen, wenn sonst die Erfüllung öffentlicher oder im
 öffentlichen Interesse liegender Aufgaben erheblich gefährdet wäre.
 
-(3) Der Abnehmer hat die Voraussetzungen der Absätze 1 oder 2
-glaubhaft zu machen. Bei Zugehörigkeit des Abnehmers zu einer
-Industrie- und Handelskammer, Handwerkskammer oder
+(3) Der Abnehmer hat die Voraussetzungen der Absätze 1 oder
+2 glaubhaft zu machen. Bei Zugehörigkeit des Abnehmers zu
+einer Industrie- und Handelskammer, Handwerkskammer oder
 Landwirtschaftskammer kann das Vorliegen erheblicher wirtschaftlicher
 Nachteile durch eine Bescheinigung der zuständigen Kammer glaubhaft
 gemacht werden.
@@ -122,7 +111,6 @@ der Abnehmer eine Bescheinigung nach dem Muster der Anlage 2.
 
 
 ## 2. Abschnitt - Ermittlung der Referenzmengen
-
 
 
 ### § 4 Referenzmenge auf Grund bisherigen Bezugs und Referenzzeit
@@ -143,10 +131,10 @@ durch Verordnung festgelegt.
 nach Beendigung der Referenzzeit neu in Betrieb genommen werden,
 errechnet sich die Referenzmenge (in Litern), indem die Fläche (in
 Quadratmetern) der zur Beheizung eingerichteten Räume mit einem Faktor
-multipliziert wird, der durch Verordnung bestimmt wird. Entsteht bei
-Raumheizungsanlagen nach Beendigung der Referenzzeit durch bauliche
-Erweiterungen ein zusätzlicher Bedarf, so wird die Fläche der zur
-Beheizung eingerichteten zusätzlichen Räume mit diesem Faktor
+multipliziert wird, der durch Verordnung bestimmt wird. Entsteht
+bei Raumheizungsanlagen nach Beendigung der Referenzzeit durch
+bauliche Erweiterungen ein zusätzlicher Bedarf, so wird die Fläche
+der zur Beheizung eingerichteten zusätzlichen Räume mit diesem Faktor
 multipliziert. In der Verordnung können für die verschiedenen Arten
 und nach dem Alter der Gebäude unterschiedliche Faktoren bestimmt
 werden.
@@ -161,8 +149,8 @@ Hundert erhöht.
 
 (4) Ist der neue oder zusätzliche Bedarf während der Referenzzeit
 aufgetreten und ist die nach den Absätzen 1 bis 3 für die Gesamtfläche
-der zur Beheizung eingerichteten Räume ermittelte Menge größer als die
-nach § 4 ermittelte Menge, so kann diese um die Unterschiedsmenge
+der zur Beheizung eingerichteten Räume ermittelte Menge größer als
+die nach § 4 ermittelte Menge, so kann diese um die Unterschiedsmenge
 erhöht werden.
 
 (5) Über die nach den Absätzen 1 bis 4 ermittelte Referenzmenge
@@ -179,19 +167,19 @@ welchen Mengen er in der Referenzzeit leichtes Heizöl bezogen hat.
 ganz oder teilweise öffentlichen, gewerblichen, landwirtschaftlichen
 oder freiberuflichen Zwecken dienen und die nach Beendigung der
 Referenzzeit neu in Betrieb genommen werden, bemißt sich die
-Referenzmenge nach dem Jahresverbrauch vergleichbarer Anlagen. Das
-gleiche gilt, wenn bei solchen Anlagen nach Beendigung der
+Referenzmenge nach dem Jahresverbrauch vergleichbarer Anlagen.
+Das gleiche gilt, wenn bei solchen Anlagen nach Beendigung der
 Referenzzeit durch bauliche Erweiterungen oder durch Veränderungen im
 Betrieb ein zusätzlicher Bedarf für diese Zwecke entsteht.
 
 (2) Ist der neue oder zusätzliche Bedarf während der Referenzzeit
-aufgetreten und ist die nach Absatz 1 ermittelte Menge größer als die
-nach § 4 ermittelte Menge, so kann diese um die Unterschiedsmenge
+aufgetreten und ist die nach Absatz 1 ermittelte Menge größer als
+die nach § 4 ermittelte Menge, so kann diese um die Unterschiedsmenge
 erhöht werden.
 
-(3) Über die nach den Absätzen 1 und 2 ermittelte Referenzmenge erhält
-der Abnehmer auf Antrag eine Bescheinigung nach dem Muster der Anlage
-3\. Er hat die erforderlichen Angaben glaubhaft zu machen. Bei
+(3) Über die nach den Absätzen 1 und 2 ermittelte Referenzmenge
+erhält der Abnehmer auf Antrag eine Bescheinigung nach dem Muster der
+Anlage 3. Er hat die erforderlichen Angaben glaubhaft zu machen. Bei
 Zugehörigkeit des Abnehmers zu einer Industrie- und Handelskammer,
 Handwerkskammer oder Landwirtschaftskammer kann der Jahresverbrauch
 vergleichbarer Anlagen durch eine Bestätigung der zuständigen Kammer
@@ -218,18 +206,17 @@ den §§ 5 und 6 zu bestimmen.
 ## 3. Abschnitt - Sonstige Vorschriften für Heizölhändler
 
 
-
 ### § 8 Lieferpflicht
 
 (1) Heizölhändler sind verpflichtet, Abnehmern leichtes Heizöl gegen
 Bezahlung zu liefern, soweit entsprechende Mengen verfügbar sind.
 
 (2) Heizölhändler sind berechtigt, die Höhe ihrer Lieferungen so zu
-bemessen, daß sie unter Berücksichtigung der erwarteten Nachfrage die
-Abnehmer gleichmäßig versorgen können. Zur Verweigerung einer
-Lieferung sind sie nur berechtigt, wenn die insgesamt zur
-Heizölverbrauchsanlage des Abnehmers gehörenden Vorratsbehälter noch
-zu 20 vom Hundert ihres Fassungsvermögens gefüllt sind und die
+bemessen, daß sie unter Berücksichtigung der erwarteten Nachfrage
+die Abnehmer gleichmäßig versorgen können. Zur Verweigerung
+einer Lieferung sind sie nur berechtigt, wenn die insgesamt zur
+Heizölverbrauchsanlage des Abnehmers gehörenden Vorratsbehälter
+noch zu 20 vom Hundert ihres Fassungsvermögens gefüllt sind und die
 verfügbaren Mengen unter Berücksichtigung der erwarteten Nachfrage zur
 Deckung des Bedarfs schlechter versorgter Abnehmer benötigt werden.
 
@@ -239,8 +226,8 @@ benachteiligen.
 
 ### § 9 Anordnung der Belieferung von Abnehmern
 
-Die zuständigen Stellen können gegenüber Heizölhändlern, die ihre
-Lieferpflicht nach § 8 verletzen, auf Antrag anordnen, ihrer
+Die zuständigen Stellen können gegenüber Heizölhändlern, die
+ihre Lieferpflicht nach § 8 verletzen, auf Antrag anordnen, ihrer
 Lieferpflicht nachzukommen.
 
 
@@ -251,42 +238,32 @@ Bezugsrecht auf folgende Weise festzustellen:
 
 1.  Zunächst stellen sie die Referenzmenge des Abnehmers fest.
 
-    a)  Für die Feststellung der Referenzmenge nach § 4 Abs. 1 ziehen sie ihre
-        Lieferaufzeichnungen über die Belieferung des Abnehmers während der
-        Referenzzeit heran. Hierbei dürfen nur Lieferungen berücksichtigt
-        werden, bei denen der Name des Abnehmers und die Lieferanschrift mit
-        dem Namen und der Anschrift, an die geliefert werden soll,
+    a)  Für die Feststellung der Referenzmenge nach § 4 Abs. 1 ziehen sie
+        ihre Lieferaufzeichnungen über die Belieferung des Abnehmers während
+        der Referenzzeit heran. Hierbei dürfen nur Lieferungen berücksichtigt
+        werden, bei denen der Name des Abnehmers und die Lieferanschrift
+        mit dem Namen und der Anschrift, an die geliefert werden soll,
         übereinstimmen, außer wenn der Abnehmer eine Bescheinigung nach dem
         Muster der Anlage 4 darüber vorlegt, daß er die Referenzmenge eines
         früheren Abnehmers übernommen hat.
 
-
-    b)  Hat der Abnehmer leichtes Heizöl während der Referenzzeit bei anderen
-        Heizölhändlern bezogen, so ist diese Menge auf Grund einer
+    b)  Hat der Abnehmer leichtes Heizöl während der Referenzzeit bei
+        anderen Heizölhändlern bezogen, so ist diese Menge auf Grund einer
         Bescheinigung nach dem Muster der Anlage 3 festzustellen, die der
         Abnehmer vorzulegen hat.
 
-
-    c)  Auch Referenzmengen, die nach den §§ 5 und 6 ermittelt worden sind,
-        sind an Hand von Bescheinigungen nach dem Muster der Anlage 3
-        festzustellen.
-
-
-
-
+    c)  Auch Referenzmengen, die nach den §§ 5 und 6 ermittelt worden
+        sind, sind an Hand von Bescheinigungen nach dem Muster der Anlage
+        3 festzustellen.
 
 2.  Nach der Referenzmenge des Abnehmers errechnet der Heizölhändler,
     welche Menge leichten Heizöls dem in einer Verordnung nach § 2
-    bestimmten Vomhundertsatz entspricht. Dabei darf ein höherer als der
-    Regelvomhundertsatz nur angewandt werden, wenn der Abnehmer eine
+    bestimmten Vomhundertsatz entspricht. Dabei darf ein höherer als
+    der Regelvomhundertsatz nur angewandt werden, wenn der Abnehmer eine
     Bescheinigung nach dem Muster der Anlage 1 vorlegt.
-
 
 3.  Über ein zusätzliches Bezugsrecht nach § 3 muß der Heizölhändler sich
     eine Bescheinigung nach dem Muster der Anlage 2 vorlegen lassen.
-
-
-
 
 (2) Sind nach Absatz 1 Bescheinigungen vorzulegen, dann dürfen
 Heizölhändler nur gegen Vorlage der Originale dieser Bescheinigungen
@@ -296,9 +273,9 @@ gelieferten Mengen haben sie darin einzutragen.
 
 ### § 11 Eintragungen in die Lieferaufzeichnungen der Heizölhändler
 
-(1) Heizölhändler haben bei Lieferungen von leichtem Heizöl, die auf
-Grund einer bei ihnen bezogenen Referenzmenge erfolgen, diese Menge in
-ihren Lieferaufzeichnungen neben den jeweiligen Liefermengen
+(1) Heizölhändler haben bei Lieferungen von leichtem Heizöl, die
+auf Grund einer bei ihnen bezogenen Referenzmenge erfolgen, diese
+Menge in ihren Lieferaufzeichnungen neben den jeweiligen Liefermengen
 einzutragen.
 
 (2) Liefern Heizölhändler leichtes Heizöl gegen Vorlage von
@@ -314,8 +291,8 @@ entsprechend aufgeschlüsselt einzutragen.
 
 ### § 12 Bescheinigungen der Heizölhändler über Lieferungen in der Referenzzeit
 
-(1) Heizölhändler sind verpflichtet, Abnehmern, die sie während der
-Referenzzeit mit leichtem Heizöl beliefert haben, auf Verlangen
+(1) Heizölhändler sind verpflichtet, Abnehmern, die sie während
+der Referenzzeit mit leichtem Heizöl beliefert haben, auf Verlangen
 unverzüglich und unentgeltlich Bescheinigungen nach dem Muster der
 Anlage 3 über die von ihnen gelieferten Teile der Referenzmenge
 auszustellen. Haben Heizölhändler schon vor Ausstellung der
@@ -343,7 +320,6 @@ Pflicht zur Ausstellung von Bescheinigungen nachzukommen.
 ## 4. Abschnitt - Verfahrensvorschriften
 
 
-
 ### § 14 Verfahren, wenn Bescheinigungen nicht erlangt werden können oder abhanden gekommen sind
 
 (1) Die zuständigen Stellen können Abnehmern, die keine Bescheinigung
@@ -354,14 +330,14 @@ Bescheinigung erlangt werden kann, während der Referenzzeit bezogen
 haben.
 
 (2) Die Abnehmer haben die von diesen Heizölhändlern bezogene Menge
-durch Vorlage der Rechnungen dieser Händler nachzuweisen. Sind nicht
-mehr alle Rechnungen vorhanden und können die von den Händlern
+durch Vorlage der Rechnungen dieser Händler nachzuweisen. Sind
+nicht mehr alle Rechnungen vorhanden und können die von den Händlern
 bezogenen Mengen nicht auf andere Weise nachgewiesen werden, wird der
 entsprechende Teil der Referenzmenge nach den §§ 5 und 6 berechnet.
 
 (3) Die zuständigen Stellen können bei Verlust einer Bescheinigung
-nach dem Muster der Anlage 3 auf Antrag eine Ersatzbescheinigung über
-den noch nicht ausgenutzten Teil der ursprünglich bescheinigten
+nach dem Muster der Anlage 3 auf Antrag eine Ersatzbescheinigung
+über den noch nicht ausgenutzten Teil der ursprünglich bescheinigten
 Referenzmenge ausstellen. Der Abnehmer hat den Verlust, die Angaben
 über die in der Bescheinigung eingetragene Referenzmenge und die noch
 nicht ausgenutzte Menge glaubhaft zu machen.
@@ -376,18 +352,14 @@ Energiesicherungsgesetzes 1975 bestimmten Stellen.
 ## 5. Abschnitt - Nachweis des Bezugs von leichtem Heizöl
 
 
-
 ### § 16 Aufbewahrungsempfehlung an Abnehmer
 
 (1) Heizölhändler haben die ihren Abnehmern ausgestellten
 Lieferrechnungen über leichtes Heizöl mit der Lieferanschrift und
 folgender deutlich lesbarer Aufschrift zu versehen:
 
-*   "Es wird empfohlen, diese Rechnung als Bezugsmengennachweis für den
+-   "Es wird empfohlen, diese Rechnung als Bezugsmengennachweis für den
     Fall einer Heizölbewirtschaftung vier Jahre aufzubewahren".
-
-
-
 
 (2) Die Rechnungen sollen von den Abnehmern vier Jahre aufbewahrt
 werden.
@@ -396,9 +368,9 @@ werden.
 ### § 17 Aufzeichnungs- und Aufbewahrungspflicht der Heizölhändler
 
 (1) Heizölhändler haben Aufzeichnungen darüber zu führen, an welche
-Abnehmer (Name oder Firma, Anschrift), wann, in welcher Menge und an
-welche Lieferanschrift sie leichtes Heizöl geliefert haben, soweit
-sich die Angaben nicht aus den nach Handels- oder Steuerrecht
+Abnehmer (Name oder Firma, Anschrift), wann, in welcher Menge und
+an welche Lieferanschrift sie leichtes Heizöl geliefert haben,
+soweit sich die Angaben nicht aus den nach Handels- oder Steuerrecht
 erforderlichen Büchern oder sonstigen Unterlagen ergeben.
 
 (2) Unbeschadet weitergehender Aufbewahrungsfristen sind die
@@ -406,7 +378,6 @@ Aufzeichnungen vier Jahre aufzubewahren.
 
 
 ## 6. Abschnitt - Schlußvorschriften
-
 
 
 ### § 18 Ordnungswidrigkeiten
@@ -417,35 +388,26 @@ fahrlässig
 
 1.  entgegen § 1 Abs. 1 leichtes Heizöl liefert oder bezieht,
 
-
-2.  gegenüber den zuständigen Stellen nach § 5 Abs. 5 Satz 3 oder nach § 6
-    Abs. 3 Satz 4 zur Ermittlung der Referenzmenge nicht richtige oder
-    nicht vollständige Angaben macht oder nach § 3 Abs. 3 Satz 1 zur
+2.  gegenüber den zuständigen Stellen nach § 5 Abs. 5 Satz 3 oder nach
+    § 6 Abs. 3 Satz 4 zur Ermittlung der Referenzmenge nicht richtige
+    oder nicht vollständige Angaben macht oder nach § 3 Abs. 3 Satz 1 zur
     Begründung eines besonderen Bedarfs oder nach § 5 Abs. 5 Satz 2, § 6
     Abs. 3 Satz 2 oder § 7 Abs. 1 Satz 3 zur Ermittlung der Referenzmenge
     nicht richtige Angaben macht,
 
-
 3.  entgegen § 10 Abs. 2 Satz 1 ohne Vorlage des Originals eine
     Bescheinigung liefert,
-
 
 4.  entgegen § 10 Abs. 2 Satz 2, § 11 oder § 12 Abs. 1 Satz 2 oder Abs. 2
     Angaben nicht, nicht richtig oder nicht vollständig einträgt,
 
-
 5.  entgegen § 12 Abs. 1 Satz 1 eine Bescheinigung nicht richtig oder
     nicht unverzüglich ausstellt,
 
-
 6.  entgegen § 12 Abs. 4 eine Bescheinigung mehr als einmal ausstellt oder
-
 
 7.  entgegen § 17 Abs. 1 oder 2 Aufzeichnungen nicht, nicht richtig oder
     nicht vollständig führt oder nicht aufbewahrt.
-
-
-
 
 
 ### § 19 Berlin-Klausel
@@ -468,17 +430,13 @@ in Kraft.
     Sinne des § 1 Abs. 1 oder § 2 Abs. 3 des Energiesicherungsgesetzes
     1975 gefährdet oder gestört ist,
 
-
 2.  der Erlaß einer Verordnung nach dem Energiesicherungsgesetz 1975, die
     diese Verordnung ergänzt.
 
-
-
-
 (3) Beginnt die Referenzzeit vor dem 1. Mai 1983, so beträgt sie
 abweichend von § 4 Abs. 2 24 Monate. Die Referenzmenge beträgt in
-diesem Fall abweichend von § 4 Abs. 1 Satz 2 die Hälfte der Menge, die
-in der Referenzzeit für die Heizölverbrauchsanlage des Abnehmers
+diesem Fall abweichend von § 4 Abs. 1 Satz 2 die Hälfte der Menge,
+die in der Referenzzeit für die Heizölverbrauchsanlage des Abnehmers
 bezogen worden ist. Soweit in anderen Vorschriften auf § 4 Abs. 1 Satz
 2 und Abs. 2 verwiesen wird, treten an die Stelle dieser Vorschriften
 bis zum 1. Mai 1983 die Sätze 1 und 2.
@@ -487,218 +445,35 @@ bis zum 1. Mai 1983 die Sätze 1 und 2.
 ### Anlage 1
 
 Fundstelle des Originaltextes: BGBl. I 1982, 541
-----------------------------------------------------------------------
----------
-I Aussteller/Anschrift                                     I Ort
-I
-I-------------------
-I                                                          I Datum
-----------------------------------------------------------------------
----------
-Bescheinigung über erhöhte Bezugsberechtigung
-von leichtem Heizöl gemäß § 2 HeizölLBV (B 1)
-----------------------------------------------------------------------
----------
-I für den Zeitraum von - bis
-I---------------------------------------------------------------------
----------
-I Name, Anschrift des Antragstellers
-I
-I
-----------------------------------------------------------------------
----------
-Betr.: Heizölverbrauchsanlage(n)
-----------------------------------------------------------------------
----------
-I Lieferanschrift: Ort, Straße, Hausnummer
-I
-----------------------------------------------------------------------
----------
-Dem Antragsteller wird für diese Heizölverbrauchsanlage(n) folgender
-Verwendungszweck bescheinigt:
-----  Verwendung von leichtem Heizöl in Krankenhäusern, Heimen für
-I  I  Behinderte oder für Klein- und Kleinstkinder, in Kindergärten
-----  sowie Alten- und Pflegeheimen.
-----  Verwendung von leichtem Heizöl in einer Heizölverbrauchsanlage
-I  I  ausschließlich zu den in § 2 Abs. 2 Nr. 2 HeizölLBV genannten
-----  Zwecken.
-----  Verwendung von leichtem Heizöl in einer Heizölverbrauchsanlage
-I  I  teils zu einem im § 2 Abs. 2 Nr. 2 HeizölLBV bezeichneten Zweck,
-----  teils zur sonstigen Raumheizung und Warmwasserbereitung.
-Dienstsiegel
--------------------------
-Unterschrift
+
+```
+ -------------------------------------------------------------------------------I Aussteller/Anschrift                                     I OrtI                                                          I-------------------I                                                          I Datum-------------------------------------------------------------------------------Bescheinigung über erhöhte Bezugsberechtigungvon leichtem Heizöl gemäß § 2 HeizölLBV (B 1)-------------------------------------------------------------------------------I für den Zeitraum von - bisI------------------------------------------------------------------------------I Name, Anschrift des AntragstellersII-------------------------------------------------------------------------------Betr.: Heizölverbrauchsanlage(n)-------------------------------------------------------------------------------I Lieferanschrift: Ort, Straße, HausnummerI-------------------------------------------------------------------------------Dem Antragsteller wird für diese Heizölverbrauchsanlage(n) folgenderVerwendungszweck bescheinigt:----  Verwendung von leichtem Heizöl in Krankenhäusern, Heimen fürI  I  Behinderte oder für Klein- und Kleinstkinder, in Kindergärten----  sowie Alten- und Pflegeheimen.----  Verwendung von leichtem Heizöl in einer HeizölverbrauchsanlageI  I  ausschließlich zu den in § 2 Abs. 2 Nr. 2 HeizölLBV genannten----  Zwecken.----  Verwendung von leichtem Heizöl in einer HeizölverbrauchsanlageI  I  teils zu einem im § 2 Abs. 2 Nr. 2 HeizölLBV bezeichneten Zweck,----  teils zur sonstigen Raumheizung und Warmwasserbereitung.                      Dienstsiegel -------------------------     Unterschrift
+```
 
 
 ### Anlage 2
 
 Fundstelle des Originaltextes: BGBl. I 1982, 542
-----------------------------------------------------------------------
----------
-I Aussteller/Anschrift                                     I Ort
-I
-I-------------------
-I                                                          I Datum
-----------------------------------------------------------------------
----------
-Bescheinigung über zusätzliches Bezugsrecht für leichtes Heizöl in
-Fällen besonderen Bedarfs gemäß § 3 HeizölLBV (B 2)
-----------------------------------------------------------------------
----------
-I für den Zeitraum von - bis
-I---------------------------------------------------------------------
----------
-I Name, Anschrift des Antragstellers
-I
-I
-----------------------------------------------------------------------
----------
-Betr.: Heizölverbrauchsanlage(n)
-----------------------------------------------------------------------
----------
-I Lieferanschrift: Ort, Straße, Hausnummer
-I
-----------------------------------------------------------------------
----------
-Der Antragsteller ist berechtigt, für diese Heizölverbrauchsanlage(n)
-zusätzlich zu seiner ihm nach § 2 HeizölLBV zustehenden Menge zu
-beziehen:
-----------------------------------
-I
-I            Liter leichtes Heizöl
-----------------------------------
-Dienstsiegel
--------------------------
-Unterschrift
-----------------------------------------------------------------------
----------
-Auf das zusätzliche Bezugsrecht gelieferte Mengen:
-1\.
------------------- Liter
-Rest
------------------- Liter     -------------------------
-Firmenstempel
-Datum, Unterschrift
-2\.
------------------- Liter
-Rest
------------------- Liter     -------------------------
-Firmenstempel
-Datum, Unterschrift
-3\.
------------------- Liter
-Rest
------------------- Liter     -------------------------
-Firmenstempel
-Datum, Unterschrift
+
+```
+ -------------------------------------------------------------------------------I Aussteller/Anschrift                                     I OrtI                                                          I-------------------I                                                          I Datum-------------------------------------------------------------------------------Bescheinigung über zusätzliches Bezugsrecht für leichtes Heizöl inFällen besonderen Bedarfs gemäß § 3 HeizölLBV (B 2)-------------------------------------------------------------------------------I für den Zeitraum von - bisI------------------------------------------------------------------------------I Name, Anschrift des AntragstellersII-------------------------------------------------------------------------------Betr.: Heizölverbrauchsanlage(n)-------------------------------------------------------------------------------I Lieferanschrift: Ort, Straße, HausnummerI-------------------------------------------------------------------------------Der Antragsteller ist berechtigt, für diese Heizölverbrauchsanlage(n)zusätzlich zu seiner ihm nach § 2 HeizölLBV zustehenden Menge zu beziehen:----------------------------------II            Liter leichtes Heizöl----------------------------------                      Dienstsiegel -------------------------     Unterschrift-------------------------------------------------------------------------------Auf das zusätzliche Bezugsrecht gelieferte Mengen:1.      ------------------ LiterRest      ------------------ Liter     -------------------------    Firmenstempel                                      Datum, Unterschrift2.      ------------------ LiterRest      ------------------ Liter     -------------------------    Firmenstempel                                      Datum, Unterschrift3.      ------------------ LiterRest      ------------------ Liter     -------------------------    Firmenstempel                                      Datum, Unterschrift
+```
 
 
 ### Anlage 3
 
 Fundstelle des Originaltextes: BGBl. I 1982, 543
-----------------------------------------------------------------------
----------
-I Aussteller/Anschrift                                     I Ort
-I
-I-------------------
-I                                                          I Datum
-----------------------------------------------------------------------
----------
-Bescheinigung über Referenzmenge an leichtem Heizöl (B 3)
-----------------------------------------------------------------------
----------
-I für den Zeitraum der Lieferbeschränkung von - bis
-I---------------------------------------------------------------------
----------
-I Name, Anschrift des Antragstellers
-I
-I
-----------------------------------------------------------------------
----------
-Betr.: Heizölverbrauchsanlage(n)
-----------------------------------------------------------------------
----------
-I Lieferanschrift: Ort, Straße, Hausnummer
-I
-----------------------------------------------------------------------
----------
---------------------------------------------------------
-I Die Referenzmenge beträgt:
-I                             Liter
-I-------------------------------------------------------
-I Der vom Aussteller gelieferte bzw. bestätigte Teil der
-I Referenzmenge beträgt:
-I                             Liter
---------------------------------------------------------
-Dienstsiegel
-oder
-Firmenstempel
--------------------------
-Unterschrift
-----------------------------------------------------------------------
----------
-Auf die Referenzmenge bzw. den Teil der Referenzmenge gelieferte
-Mengen:
-1\.
------------------- Liter
-Rest
------------------- Liter     -------------------------
-Firmenstempel
-Datum, Unterschrift
-2\.
------------------- Liter
-Rest
------------------- Liter     -------------------------
-Firmenstempel
-Datum, Unterschrift
-3\.
------------------- Liter
-Rest
------------------- Liter     -------------------------
-Firmenstempel
-Datum, Unterschrift
+
+```
+ -------------------------------------------------------------------------------I Aussteller/Anschrift                                     I OrtI                                                          I-------------------I                                                          I Datum-------------------------------------------------------------------------------Bescheinigung über Referenzmenge an leichtem Heizöl (B 3)-------------------------------------------------------------------------------I für den Zeitraum der Lieferbeschränkung von - bisI------------------------------------------------------------------------------I Name, Anschrift des AntragstellersII-------------------------------------------------------------------------------Betr.: Heizölverbrauchsanlage(n)-------------------------------------------------------------------------------I Lieferanschrift: Ort, Straße, HausnummerI---------------------------------------------------------------------------------------------------------------------------------------I Die Referenzmenge beträgt:I                             LiterI-------------------------------------------------------I Der vom Aussteller gelieferte bzw. bestätigte Teil derI Referenzmenge beträgt:I                             Liter--------------------------------------------------------                      Dienstsiegel                         oder                    Firmenstempel -------------------------     Unterschrift-------------------------------------------------------------------------------Auf die Referenzmenge bzw. den Teil der Referenzmenge gelieferte Mengen:1.      ------------------ LiterRest      ------------------ Liter     -------------------------    Firmenstempel                                      Datum, Unterschrift2.      ------------------ LiterRest      ------------------ Liter     -------------------------    Firmenstempel                                      Datum, Unterschrift3.      ------------------ LiterRest      ------------------ Liter     -------------------------    Firmenstempel                                      Datum, Unterschrift
+```
 
 
 ### Anlage 4
 
 Fundstelle des Originaltextes: BGBl. I 1982, 544
-----------------------------------------------------------------------
----------
-I Aussteller/Anschrift                                     I Ort
-I
-I-------------------
-I                                                          I Datum
-----------------------------------------------------------------------
----------
-Bescheinigung der Übernahme einer Heizölverbrauchsanlage
-(Wechsel des Abnehmers) gemäß § 7 Abs. 1 HeizölLBV (B 4)
-----------------------------------------------------------------------
----------
-I Name, Anschrift des Antragstellers                         I
-Übernahmedatum I
-I                                                            I
-I
-I
-------------------
-I
-----------------------------------------------------------------------
----------
-Betr.: Heizölverbrauchsanlage(n)
-----------------------------------------------------------------------
----------
-I Lieferanschrift: Ort, Straße, Hausnummer
-I
-----------------------------------------------------------------------
----------
-Bisheriger Abnehmer:
-----------------------------------------------------------------------
----------
-I Name, Anschrift
-I
-I
-----------------------------------------------------------------------
----------
-Dienstsiegel
--------------------------
-Unterschrift
+
+```
+ -------------------------------------------------------------------------------I Aussteller/Anschrift                                     I OrtI                                                          I-------------------I                                                          I Datum-------------------------------------------------------------------------------Bescheinigung der Übernahme einer Heizölverbrauchsanlage(Wechsel des Abnehmers) gemäß § 7 Abs. 1 HeizölLBV (B 4)-------------------------------------------------------------------------------I Name, Anschrift des Antragstellers                         I Übernahmedatum II                                                            I                II                                                            ------------------I-------------------------------------------------------------------------------Betr.: Heizölverbrauchsanlage(n)-------------------------------------------------------------------------------I Lieferanschrift: Ort, Straße, HausnummerI-------------------------------------------------------------------------------Bisheriger Abnehmer:-------------------------------------------------------------------------------I Name, AnschriftII-------------------------------------------------------------------------------                      Dienstsiegel -------------------------     Unterschrift
+```
 

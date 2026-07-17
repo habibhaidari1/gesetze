@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Einführung der mitteleuropäischen Sommerzeit ab dem Jahr
-  2002
+Title: Verordnung über die Einführung der mitteleuropäischen Sommerzeit ab dem Jahr 2002
 jurabk: SoZV
 layout: default
 origslug: sozv
@@ -18,10 +17,6 @@ Fundstelle
 
 Zuletzt geändert durch
 :   Art. 292 V v. 31.8.2015 I 1474
-
-Diese Verordnung dient der Umsetzung der Richtlinie 2000/84/EG
-desEuropäischen Parlaments und des Rates vom 19. Januar 2001
-zurRegelung der Sommerzeit (ABl. EG Nr. L 31 S. 21).
 
 
 ## Eingangsformel
@@ -45,10 +40,10 @@ Beginns der Sommerzeit wird die Stundenzählung um eine Stunde von 2
 Uhr auf 3 Uhr vorgestellt.
 
 (2) Die mitteleuropäische Sommerzeit endet jeweils am letzten Sonntag
-im Oktober um 3 Uhr mitteleuropäischer Sommerzeit. Im Zeitpunkt des
-Endes der Sommerzeit wird die Stundenzählung um eine Stunde von 3 Uhr
-auf 2 Uhr zurückgestellt. Die Stunde von 2 Uhr bis 3 Uhr erscheint
-dabei zweimal. Die erste Stunde (von 2 Uhr bis 3 Uhr
+im Oktober um 3 Uhr mitteleuropäischer Sommerzeit. Im Zeitpunkt
+des Endes der Sommerzeit wird die Stundenzählung um eine Stunde
+von 3 Uhr auf 2 Uhr zurückgestellt. Die Stunde von 2 Uhr bis 3
+Uhr erscheint dabei zweimal. Die erste Stunde (von 2 Uhr bis 3 Uhr
 mitteleuropäischer Sommerzeit) wird mit 2A und die zweite Stunde (von
 2 Uhr bis 3 Uhr mitteleuropäischer Zeit) mit 2B bezeichnet.
 

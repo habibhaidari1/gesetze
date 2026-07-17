@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zur Anpassung schuldrechtlicher Nutzungsverhältnisse an Grundstücken
-  im Beitrittsgebiet
+Title: Gesetz zur Anpassung schuldrechtlicher Nutzungsverhältnisse an Grundstücken im Beitrittsgebiet
 jurabk: SchuldRAnpG
 layout: default
 origslug: schuldranpg
@@ -23,9 +22,7 @@ Zuletzt geändert durch
 ## Kapitel 1 - Allgemeine Vorschriften
 
 
-
 ### Abschnitt 1 - Anwendungsbereich
-
 
 
 #### § 1 Betroffene Rechtsverhältnisse
@@ -38,18 +35,14 @@ die aufgrund
     oder Freizeitgestaltung oder zur Errichtung von Garagen oder anderen
     persönlichen, jedoch nicht Wohnzwecken dienenden Bauwerken überlassen,
 
-
 2.  eines Überlassungsvertrages im Sinne des Artikels 232 § 1a des
     Einführungsgesetzes zum Bürgerlichen Gesetzbuche zu Wohnzwecken oder
     zu gewerblichen Zwecken übergeben oder
 
-
 3.  eines Miet-, Pacht- oder sonstigen Nutzungsvertrages von einem anderen
-    als dem Grundstückseigentümer bis zum Ablauf des 2. Oktober 1990 mit
-    Billigung staatlicher Stellen mit einem Wohn- oder gewerblichen
+    als dem Grundstückseigentümer bis zum Ablauf des 2. Oktober 1990
+    mit Billigung staatlicher Stellen mit einem Wohn- oder gewerblichen
     Zwecken dienenden Bauwerk bebaut
-
-
 
 worden sind.
 
@@ -69,33 +62,28 @@ vorgesehen ist. Dies gilt insbesondere für
     Nr. 3 Satz 2 Buchstabe d und e des Sachenrechtsbereinigungsgesetzes
     bezeichneten Voraussetzungen des Eigenheimbaus vorliegen,
 
-
 2.  Überlassungsverträge nach § 1 Abs. 1 Nr. 2, wenn der Nutzer mit
     Billigung staatlicher Stellen ein Eigenheim errichtet oder bauliche
     Investitionen nach § 12 Abs. 2 des Sachenrechtsbereinigungsgesetzes in
     ein vorhandenes Gebäude vorgenommen hat, und
 
-
-3.  Miet-, Pacht- oder sonstige Nutzungsverträge nach § 1 Abs. 1 Nr. 3,
-    wenn der Nutzer für seinen Handwerks- oder Gewerbebetrieb auf einem
-    ehemals volkseigenen Grundstück einen Neubau errichtet oder eine
-    bauliche Maßnahme nach § 12 Abs. 1 des
+3.  Miet-, Pacht- oder sonstige Nutzungsverträge nach § 1 Abs. 1
+    Nr. 3, wenn der Nutzer für seinen Handwerks- oder Gewerbebetrieb
+    auf einem ehemals volkseigenen Grundstück einen Neubau
+    errichtet oder eine bauliche Maßnahme nach § 12 Abs. 1 des
     Sachenrechtsbereinigungsgesetzes vorgenommen hat.
-
-
-
 
 (2) Dieses Gesetz gilt ferner nicht für die in § 71 des
 Vertragsgesetzes der Deutschen Demokratischen Republik bezeichneten
 Verträge.
 
-(3) Für Nutzungsverhältnisse innerhalb von Kleingartenanlagen bleibt
-die Anwendung des Bundeskleingartengesetzes vom 28. Februar 1983
-(BGBl. I S. 210), zuletzt geändert durch Artikel 5 des
+(3) Für Nutzungsverhältnisse innerhalb von Kleingartenanlagen
+bleibt die Anwendung des Bundeskleingartengesetzes vom 28. Februar
+1983 (BGBl. I S. 210), zuletzt geändert durch Artikel 5 des
 Schuldrechtsänderungsgesetzes vom 21. September 1994 (BGBl. I S.
 2538), unberührt. Ist das Grundstück nach Ablauf des 2. Oktober 1990
-in eine Kleingartenanlage eingegliedert worden, sind vom Zeitpunkt der
-Eingliederung an die Bestimmungen des Bundeskleingartengesetzes
+in eine Kleingartenanlage eingegliedert worden, sind vom Zeitpunkt
+der Eingliederung an die Bestimmungen des Bundeskleingartengesetzes
 anzuwenden.
 
 
@@ -109,7 +97,6 @@ worden sind.
 ### Abschnitt 2 - Begriffsbestimmungen
 
 
-
 #### § 4 Nutzer
 
 (1) Nutzer im Sinne dieses Gesetzes sind natürliche oder juristische
@@ -117,18 +104,18 @@ Personen des privaten oder öffentlichen Rechts, die aufgrund eines
 Überlassungs-, Miet-, Pacht- oder sonstigen Vertrages zur Nutzung
 eines Grundstücks berechtigt sind.
 
-(2) Ist der Vertrag mit einer Personengemeinschaft nach den §§ 266 bis
-273 des Zivilgesetzbuchs der Deutschen Demokratischen Republik
-geschlossen worden, sind deren Mitglieder gemeinschaftlich Nutzer.
-Soweit die Nutzer nichts anderes vereinbart haben, sind die
-Vorschriften des Bürgerlichen Gesetzbuchs über die Gesellschaft
+(2) Ist der Vertrag mit einer Personengemeinschaft nach den §§
+266 bis 273 des Zivilgesetzbuchs der Deutschen Demokratischen
+Republik geschlossen worden, sind deren Mitglieder gemeinschaftlich
+Nutzer. Soweit die Nutzer nichts anderes vereinbart haben, sind
+die Vorschriften des Bürgerlichen Gesetzbuchs über die Gesellschaft
 anzuwenden.
 
 
 #### § 5 Bauwerke
 
-(1) Bauwerke sind Gebäude, Baulichkeiten nach § 296 Abs. 1 des
-Zivilgesetzbuchs der Deutschen Demokratischen Republik und
+(1) Bauwerke sind Gebäude, Baulichkeiten nach § 296 Abs. 1
+des Zivilgesetzbuchs der Deutschen Demokratischen Republik und
 Grundstückseinrichtungen.
 
 (2) Grundstückseinrichtungen sind insbesondere die zur Einfriedung und
@@ -138,9 +125,7 @@ Erschließung des Grundstücks erforderlichen Anlagen.
 ### Abschnitt 3 - Grundsätze
 
 
-
 #### Unterabschnitt 1 - Durchführung der Schuldrechtsanpassung
-
 
 
 ##### § 6 Gesetzliche Umwandlung
@@ -150,15 +135,15 @@ des Bürgerlichen Gesetzbuchs über den Miet- oder den Pachtvertrag
 anzuwenden, soweit dieses Gesetz nichts anderes bestimmt.
 
 (2) Vereinbarungen, die die Beteiligten (Grundstückseigentümer und
-Nutzer) nach Ablauf des 2. Oktober 1990 getroffen haben, bleiben von
-den Bestimmungen dieses Gesetzes unberührt. Dies gilt unabhängig von
-ihrer Vereinbarkeit mit Rechtsvorschriften der Deutschen
+Nutzer) nach Ablauf des 2. Oktober 1990 getroffen haben, bleiben
+von den Bestimmungen dieses Gesetzes unberührt. Dies gilt unabhängig
+von ihrer Vereinbarkeit mit Rechtsvorschriften der Deutschen
 Demokratischen Republik auch für bis zu diesem Zeitpunkt getroffene
 Abreden, die vom Inhalt eines Vertrages vergleichbarer Art abweichen,
-nicht zu einer unangemessenen Benachteiligung eines Beteiligten führen
-und von denen anzunehmen ist, daß die Beteiligten sie auch getroffen
-hätten, wenn sie die durch den Beitritt bedingte Änderung der
-wirtschaftlichen und sozialen Verhältnisse vorausgesehen hätten.
+nicht zu einer unangemessenen Benachteiligung eines Beteiligten
+führen und von denen anzunehmen ist, daß die Beteiligten sie auch
+getroffen hätten, wenn sie die durch den Beitritt bedingte Änderung
+der wirtschaftlichen und sozialen Verhältnisse vorausgesehen hätten.
 
 (3) In einem Überlassungsvertrag getroffene Abreden bleiben nur
 wirksam, soweit es in diesem Gesetz bestimmt ist.
@@ -169,11 +154,11 @@ wirksam, soweit es in diesem Gesetz bestimmt ist.
 (1) Eine vom Grundstückseigentümer oder einem anderen
 Vertragschließenden (§ 8 Abs. 1 Satz 1) nach Ablauf des 2. Oktober
 1990 ausgesprochene Kündigung eines in § 1 Abs. 1 bezeichneten
-Vertrages ist unwirksam, wenn der Nutzer nach Artikel 233 § 2a Abs. 1
-des Einführungsgesetzes zum Bürgerlichen Gesetzbuche gegenüber dem
-Grundstückseigentümer zum Besitz berechtigt war und den Besitz noch
-ausübt. Satz 1 ist auch anzuwenden, wenn dem Nutzer der Besitz durch
-verbotene Eigenmacht entzogen wurde. Abweichende rechtskräftige
+Vertrages ist unwirksam, wenn der Nutzer nach Artikel 233 § 2a Abs.
+1 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche gegenüber
+dem Grundstückseigentümer zum Besitz berechtigt war und den Besitz
+noch ausübt. Satz 1 ist auch anzuwenden, wenn dem Nutzer der Besitz
+durch verbotene Eigenmacht entzogen wurde. Abweichende rechtskräftige
 Entscheidungen bleiben unberührt.
 
 (2) Absatz 1 ist nicht anzuwenden, wenn die Kündigung wegen
@@ -187,34 +172,33 @@ Gesetzbuche bleibt unberührt.
 #### Unterabschnitt 2 - Rechtsgeschäfte mit anderen Vertragschließenden
 
 
-
 ##### § 8 Vertragseintritt
 
-(1) Der Grundstückseigentümer tritt in die sich ab dem 1. Januar 1995
-ergebenden Rechte und Pflichten aus einem Vertragsverhältnis über den
-Gebrauch oder die Nutzung seines Grundstücks ein, das
-landwirtschaftliche Produktionsgenossenschaften bis zum Ablauf des 30.
-Juni 1990 oder staatliche Stellen im Sinne des § 10 Abs. 1 des
-Sachenrechtsbereinigungsgesetzes bis zum Ablauf des 2. Oktober 1990 im
-eigenen oder in seinem Namen mit dem Nutzer abgeschlossen haben. Die
-in § 46 des Gesetzes über die landwirtschaftlichen
-Produktionsgenossenschaften vom 2. Juli 1982 (GBl. I Nr. 25 S. 443)
-bezeichneten Genossenschaften und Kooperationsbeziehungen stehen
-landwirtschaftlichen Produktionsgenossenschaften gleich. Die
+(1) Der Grundstückseigentümer tritt in die sich ab dem 1. Januar
+1995 ergebenden Rechte und Pflichten aus einem Vertragsverhältnis
+über den Gebrauch oder die Nutzung seines Grundstücks ein, das
+landwirtschaftliche Produktionsgenossenschaften bis zum Ablauf
+des 30. Juni 1990 oder staatliche Stellen im Sinne des § 10 Abs. 1
+des Sachenrechtsbereinigungsgesetzes bis zum Ablauf des 2. Oktober
+1990 im eigenen oder in seinem Namen mit dem Nutzer abgeschlossen
+haben. Die in § 46 des Gesetzes über die landwirtschaftlichen
+Produktionsgenossenschaften vom 2. Juli 1982 (GBl. I Nr. 25 S.
+443) bezeichneten Genossenschaften und Kooperationsbeziehungen
+stehen landwirtschaftlichen Produktionsgenossenschaften gleich. Die
 Regelungen zum Vertragsübergang in § 17 des Vermögensgesetzes bleiben
 unberührt.
 
 (2) Ist der Vertrag mit einem Zwischenpächter abgeschlossen worden,
 tritt der Grundstückseigentümer in dieses Vertragsverhältnis ein.
 
-(3) Absatz 1 Satz 1 gilt nicht, wenn der andere Vertragschließende zur
-Überlassung des Grundstücks nicht berechtigt war und der Nutzer beim
-Vertragsabschluß den Mangel der Berechtigung des anderen
-Vertragschließenden kannte. Kannte nur der Zwischenpächter den Mangel
-der Berechtigung des anderen Vertragschließenden, tritt der
+(3) Absatz 1 Satz 1 gilt nicht, wenn der andere Vertragschließende
+zur Überlassung des Grundstücks nicht berechtigt war und der Nutzer
+beim Vertragsabschluß den Mangel der Berechtigung des anderen
+Vertragschließenden kannte. Kannte nur der Zwischenpächter den
+Mangel der Berechtigung des anderen Vertragschließenden, tritt der
 Grundstückseigentümer in den vom Zwischenpächter mit dem unmittelbar
-Nutzungsberechtigten geschlossenen Vertrag ein. Ein Verstoß gegen die
-in § 18 Abs. 2 Satz 2 des Gesetzes über die landwirtschaftlichen
+Nutzungsberechtigten geschlossenen Vertrag ein. Ein Verstoß gegen
+die in § 18 Abs. 2 Satz 2 des Gesetzes über die landwirtschaftlichen
 Produktionsgenossenschaften vom 2. Juli 1982 genannten Voraussetzungen
 ist nicht beachtlich.
 
@@ -225,9 +209,9 @@ ist nicht beachtlich.
 
 Grundstückseigentümer und Nutzer können die Erfüllung solcher
 Pflichten verweigern, die nicht unmittelbar die Nutzung des
-Grundstücks betreffen und nach ihrem Inhalt von oder gegenüber dem
-anderen Vertragschließenden zu erbringen waren. Dies gilt insbesondere
-für die Unterhaltung von Gemeinschaftsanlagen in
+Grundstücks betreffen und nach ihrem Inhalt von oder gegenüber
+dem anderen Vertragschließenden zu erbringen waren. Dies gilt
+insbesondere für die Unterhaltung von Gemeinschaftsanlagen in
 Wochenendhaussiedlungen und die Verpflichtung des Nutzers zur
 Mitarbeit in einer landwirtschaftlichen Produktionsgenossenschaft.
 
@@ -238,21 +222,20 @@ Mitarbeit in einer landwirtschaftlichen Produktionsgenossenschaft.
 Schäden, die infolge eines Umstandes eingetreten sind, den der andere
 Vertragschließende zu vertreten hat.
 
-(2) Soweit der Grundstückseigentümer nach Absatz 1 nicht haftet, kann
-der Nutzer unbeschadet des gesetzlichen Vertragseintritts
+(2) Soweit der Grundstückseigentümer nach Absatz 1 nicht haftet,
+kann der Nutzer unbeschadet des gesetzlichen Vertragseintritts
 Schadensersatz von dem anderen Vertragschließenden verlangen.
 
 
 #### Unterabschnitt 3 - Beendigung des Vertragsverhältnisses
 
 
-
 ##### § 11 Eigentumserwerb an Baulichkeiten
 
 (1) Mit der Beendigung des Vertragsverhältnisses geht das nach dem
 Recht der Deutschen Demokratischen Republik begründete, fortbestehende
-Eigentum an Baulichkeiten auf den Grundstückseigentümer über. Eine mit
-dem Grund und Boden nicht nur zu einem vorübergehenden Zweck fest
+Eigentum an Baulichkeiten auf den Grundstückseigentümer über. Eine
+mit dem Grund und Boden nicht nur zu einem vorübergehenden Zweck fest
 verbundene Baulichkeit wird wesentlicher Bestandteil des Grundstücks.
 
 (2) Rechte Dritter an der Baulichkeit erlöschen. Sicherungsrechte
@@ -271,13 +254,13 @@ Maßgabe der Vorschriften über die Herausgabe einer ungerechtfertigten
 Bereicherung zu verlangen, bleibt unberührt.
 
 (2) Endet das Vertragsverhältnis durch Kündigung des
-Grundstückseigentümers, ist die Entschädigung nach dem Zeitwert des
-Bauwerks im Zeitpunkt der Rückgabe des Grundstücks zu bemessen. Satz 1
-ist nicht anzuwenden, wenn der Nutzer durch sein Verhalten Anlaß zu
-einer Kündigung aus wichtigem Grund gegeben hat oder das
-Vertragsverhältnis zu einem Zeitpunkt endet, in dem die Frist, in der
-der Grundstückseigentümer nur unter den in diesem Gesetz genannten
-besonderen Voraussetzungen zur Kündigung berechtigt ist
+Grundstückseigentümers, ist die Entschädigung nach dem Zeitwert
+des Bauwerks im Zeitpunkt der Rückgabe des Grundstücks zu bemessen.
+Satz 1 ist nicht anzuwenden, wenn der Nutzer durch sein Verhalten
+Anlaß zu einer Kündigung aus wichtigem Grund gegeben hat oder das
+Vertragsverhältnis zu einem Zeitpunkt endet, in dem die Frist,
+in der der Grundstückseigentümer nur unter den in diesem Gesetz
+genannten besonderen Voraussetzungen zur Kündigung berechtigt ist
 (Kündigungsschutzfrist), seit mindestens sieben Jahren verstrichen
 ist.
 
@@ -285,8 +268,8 @@ ist.
 eine Entschädigung verlangen, soweit der Verkehrswert des Grundstücks
 durch das Bauwerk im Zeitpunkt der Rückgabe erhöht ist.
 
-(4) Der Nutzer ist zur Wegnahme des Bauwerks berechtigt. Er kann das
-Bauwerk vom Grundstück abtrennen und sich aneignen. § 258 des
+(4) Der Nutzer ist zur Wegnahme des Bauwerks berechtigt. Er kann
+das Bauwerk vom Grundstück abtrennen und sich aneignen. § 258 des
 Bürgerlichen Gesetzbuchs ist anzuwenden.
 
 (5) Ansprüche des Nutzers auf Wertersatz wegen anderer werterhöhender
@@ -296,8 +279,8 @@ Bestimmungen dieses Gesetzes unberührt.
 
 ##### § 13 Entschädigungsleistung bei Sicherungsrechten
 
-Hat der Sicherungsnehmer dem Grundstückseigentümer das Bestehen eines
-Sicherungsrechts an der Baulichkeit angezeigt, kann der
+Hat der Sicherungsnehmer dem Grundstückseigentümer das Bestehen
+eines Sicherungsrechts an der Baulichkeit angezeigt, kann der
 Grundstückseigentümer die Entschädigung nach § 12 nur an den
 Sicherungsnehmer und den Nutzer gemeinschaftlich leisten. § 1281 Satz
 2 des Bürgerlichen Gesetzbuchs ist entsprechend anzuwenden.
@@ -306,14 +289,14 @@ Sicherungsnehmer und den Nutzer gemeinschaftlich leisten. § 1281 Satz
 ##### § 14 Entschädigung für Vermögensnachteile
 
 Endet das Vertragsverhältnis durch Kündigung des
-Grundstückseigentümers vor Ablauf der Kündigungsschutzfrist, kann der
-Nutzer neben der Entschädigung für das Bauwerk nach § 12 eine
+Grundstückseigentümers vor Ablauf der Kündigungsschutzfrist, kann
+der Nutzer neben der Entschädigung für das Bauwerk nach § 12 eine
 Entschädigung für die Vermögensnachteile verlangen, die ihm durch die
 vorzeitige Beendigung des Vertragsverhältnisses entstanden sind. Bei
 einem Vertragsverhältnis nach § 1 Abs. 1 Nr. 1 besteht der Anspruch
-nach Satz 1 nur, wenn das Vertragsverhältnis aus den in § 23 Abs. 2
-Satz 1 Nr. 2 oder Abs. 6 Satz 3 genannten Gründen gekündigt wird. Der
-Anspruch nach Satz 1 besteht nicht, wenn der Nutzer durch sein
+nach Satz 1 nur, wenn das Vertragsverhältnis aus den in § 23 Abs.
+2 Satz 1 Nr. 2 oder Abs. 6 Satz 3 genannten Gründen gekündigt wird.
+Der Anspruch nach Satz 1 besteht nicht, wenn der Nutzer durch sein
 Verhalten Anlaß zu einer Kündigung aus wichtigem Grund gegeben hat.
 
 
@@ -329,12 +312,8 @@ Hälfte der Kosten für den Abbruch des Bauwerks zu tragen, wenn
     durch sein Verhalten Anlaß zu einer Kündigung aus wichtigem Grund
     gegeben hat und
 
-
 2.  der Abbruch innerhalb eines Jahres nach Besitzübergang vorgenommen
     wird.
-
-
-
 
 (2) Der Grundstückseigentümer hat dem Nutzer den beabsichtigten
 Abbruch des Bauwerks rechtzeitig anzuzeigen. Der Nutzer ist
@@ -380,9 +359,7 @@ ist nicht anzuwenden.
 ## Kapitel 2 - Vertragliche Nutzungen zu anderen persönlichen Zwecken als Wohnzwecken
 
 
-
 ### Abschnitt 1 - Allgemeine Vorschriften
-
 
 
 #### § 18 Anwendbarkeit der nachfolgenden Bestimmungen
@@ -416,17 +393,17 @@ ihrer jeweils gültigen Fassung.
 
 (2) Auf die bisher unentgeltlichen Nutzungsverträge sind die
 Bestimmungen der Nutzungsentgeltverordnung entsprechend anzuwenden.
-Der Grundstückseigentümer kann den Betrag verlangen, den der Nutzer im
-Falle einer entgeltlichen Nutzung nach den §§ 3 bis 5 der
+Der Grundstückseigentümer kann den Betrag verlangen, den der
+Nutzer im Falle einer entgeltlichen Nutzung nach den §§ 3 bis 5 der
 Nutzungsentgeltverordnung zu zahlen hätte.
 
 (3) Hat das Nutzungsentgelt die ortsübliche Höhe erreicht, kann jede
 Partei bis zum Ablauf der Kündigungsschutzfrist eine Entgeltanpassung
-nach Maßgabe der folgenden Bestimmungen verlangen. Eine Anpassung ist
-zulässig, wenn das Nutzungsentgelt seit einem Jahr nicht geändert
+nach Maßgabe der folgenden Bestimmungen verlangen. Eine Anpassung
+ist zulässig, wenn das Nutzungsentgelt seit einem Jahr nicht geändert
 worden ist und das ortsübliche Entgelt sich seitdem um mehr als zehn
-vom Hundert verändert hat. Das Anpassungsverlangen ist gegenüber dem
-anderen Teil in Textform geltend zu machen. Das angepaßte
+vom Hundert verändert hat. Das Anpassungsverlangen ist gegenüber
+dem anderen Teil in Textform geltend zu machen. Das angepaßte
 Nutzungsentgelt wird vom Beginn des dritten Kalendermonats an
 geschuldet, der auf den Zugang des Anpassungsverlangens folgt.
 
@@ -435,25 +412,25 @@ geschuldet, der auf den Zugang des Anpassungsverlangens folgt.
 
 (1) Der Grundstückseigentümer kann vom Nutzer eines außerhalb von
 Kleingartenanlagen kleingärtnerisch genutzten Grundstücks, eines
-Erholungsgrundstücks oder eines Freizeitgrundstücks die Erstattung der
-nach Ablauf des 30. Juni 2001 für das genutzte Grundstück oder den
-genutzten Grundstücksteil anfallenden regelmäßig wiederkehrenden
-öffentlichen Lasten verlangen. Das Erstattungsverlangen ist dem Nutzer
-spätestens bis zum Ablauf des zwölften Monats nach dem Ende eines
-Pachtjahres für die in diesem Pachtjahr angefallenen Lasten in
+Erholungsgrundstücks oder eines Freizeitgrundstücks die Erstattung
+der nach Ablauf des 30. Juni 2001 für das genutzte Grundstück oder
+den genutzten Grundstücksteil anfallenden regelmäßig wiederkehrenden
+öffentlichen Lasten verlangen. Das Erstattungsverlangen ist dem
+Nutzer spätestens bis zum Ablauf des zwölften Monats nach dem Ende
+eines Pachtjahres für die in diesem Pachtjahr angefallenen Lasten in
 Textform zu erklären. Nach Ablauf dieser Frist kann eine Erstattung
 nicht mehr verlangt werden, es sei denn, der Grundstückseigentümer hat
 die verspätete Geltendmachung nicht zu vertreten.
 
-(2) Die Erstattung der für das genutzte Grundstück oder den genutzten
-Grundstücksteil nach Ablauf des 2. Oktober 1990 grundstücksbezogenen
-einmalig erhobenen Beiträge und sonstigen Abgaben kann der
-Grundstückseigentümer vom Nutzer eines außerhalb von
-Kleingartenanlagen kleingärtnerisch genutzten Grundstücks, eines
-Erholungsgrundstücks oder eines Freizeitgrundstücks bis zu einer Höhe
-von 50 Prozent verlangen. Das Erstattungsverlangen ist dem Nutzer
-schriftlich zu erklären. Von dem nach Satz 1 verlangten Betrag wird
-jährlich ein Teilbetrag in Höhe von 10 Prozent zum Ende des
+(2) Die Erstattung der für das genutzte Grundstück oder den
+genutzten Grundstücksteil nach Ablauf des 2. Oktober 1990
+grundstücksbezogenen einmalig erhobenen Beiträge und sonstigen
+Abgaben kann der Grundstückseigentümer vom Nutzer eines außerhalb
+von Kleingartenanlagen kleingärtnerisch genutzten Grundstücks, eines
+Erholungsgrundstücks oder eines Freizeitgrundstücks bis zu einer
+Höhe von 50 Prozent verlangen. Das Erstattungsverlangen ist dem
+Nutzer schriftlich zu erklären. Von dem nach Satz 1 verlangten Betrag
+wird jährlich ein Teilbetrag in Höhe von 10 Prozent zum Ende des
 Pachtjahres fällig, solange das Vertragsverhältnis besteht; der erste
 Teilbetrag wird jedoch nicht vor Beginn des dritten auf die Erklärung
 folgenden Monats fällig. Die Erstattung der Erschließungsbeiträge nach
@@ -473,25 +450,25 @@ bleiben unberührt.
 Kündigungsschutzfrist seinen Anspruch auf Anpassung des
 Nutzungsentgelts geltend, kann der Nutzer bis zum Ablauf des zweiten
 auf die Erhöhungserklärung folgenden Monats vom Grundstückseigentümer
-die Erlaubnis zur entgeltlichen Überlassung des Grundstücks oder eines
-Grundstücksteils an einen Dritten verlangen. Ist dem
+die Erlaubnis zur entgeltlichen Überlassung des Grundstücks
+oder eines Grundstücksteils an einen Dritten verlangen. Ist dem
 Grundstückseigentümer die Überlassung nur bei einer angemessenen
 Erhöhung des Nutzungsentgelts zuzumuten, kann er die Erteilung der
 Erlaubnis davon abhängig machen, daß sich der Nutzer mit einer solchen
 Erhöhung einverstanden erklärt.
 
 (2) Ist dem Grundstückseigentümer die Unterverpachtung unter
-Berücksichtigung der berechtigten Interessen des Nutzers nicht
-zuzumuten, kann er den Nutzer unter Hinweis, daß er das
+Berücksichtigung der berechtigten Interessen des Nutzers
+nicht zuzumuten, kann er den Nutzer unter Hinweis, daß er das
 Vertragsverhältnis kündigen werde, zur Abgabe einer Erklärung darüber
 auffordern, ob der Nutzer den Vertrag zu den geänderten Bedingungen
 auch ohne Unterverpachtung fortsetzen will. Lehnt der Nutzer die
 Fortsetzung des Vertrages ab oder erklärt er sich innerhalb einer
 Frist von einem Monat nicht, kann der Grundstückseigentümer die
-Erteilung der Erlaubnis verweigern und das Vertragsverhältnis unter
-Einhaltung der sich aus den §§ 580a und 584 des Bürgerlichen
-Gesetzbuchs ergebenden Frist zum nächstmöglichen Termin kündigen. Bis
-zu diesem Zeitpunkt ist der Nutzer nur zur Zahlung des bisherigen
+Erteilung der Erlaubnis verweigern und das Vertragsverhältnis
+unter Einhaltung der sich aus den §§ 580a und 584 des Bürgerlichen
+Gesetzbuchs ergebenden Frist zum nächstmöglichen Termin kündigen.
+Bis zu diesem Zeitpunkt ist der Nutzer nur zur Zahlung des bisherigen
 Nutzungsentgelts verpflichtet.
 
 
@@ -502,9 +479,9 @@ bestehenden Bauwerk, durch die dessen Nutzfläche vergrößert oder
 dessen Wert nicht nur unwesentlich erhöht wird, bedürfen der
 Zustimmung des Grundstückseigentümers.
 
-(2) Absatz 1 gilt nicht, wenn der Nutzer die beabsichtigten baulichen
-Investitionen dem Grundstückseigentümer anzeigt, auf ihre
-Entschädigung nach § 12 verzichtet und sich zur Übernahme der
+(2) Absatz 1 gilt nicht, wenn der Nutzer die beabsichtigten
+baulichen Investitionen dem Grundstückseigentümer anzeigt, auf
+ihre Entschädigung nach § 12 verzichtet und sich zur Übernahme der
 Abbruchkosten verpflichtet.
 
 
@@ -516,23 +493,20 @@ Dezember 1999 nicht kündigen.
 (2) Vom 1. Januar 2000 an kann der Grundstückseigentümer den Vertrag
 nur kündigen, wenn er das Grundstück
 
-1.  zur Errichtung eines Ein- oder Zweifamilienhauses als Wohnung für
-    sich, die zu seinem Hausstand gehörenden Personen oder seine
+1.  zur Errichtung eines Ein- oder Zweifamilienhauses als Wohnung
+    für sich, die zu seinem Hausstand gehörenden Personen oder seine
     Familienangehörigen benötigt und der Ausschluß des Kündigungsrechts
     dem Grundstückseigentümer angesichts seines Wohnbedarfs und seiner
     sonstigen berechtigten Interessen auch unter Würdigung der Interessen
     des Nutzers nicht zugemutet werden kann oder
 
-
 2.  alsbald der im Bebauungsplan festgesetzten anderen Nutzung zuführen
     oder alsbald für diese Nutzung vorbereiten will.
 
-
-
 In den Fällen des Satzes 1 Nr. 2 ist die Kündigung auch vor
 Rechtsverbindlichkeit des Bebauungsplans zulässig, wenn die Gemeinde
-seine Aufstellung, Änderung oder Ergänzung beschlossen hat, nach dem
-Stand der Planungsarbeiten anzunehmen ist, daß die beabsichtigte
+seine Aufstellung, Änderung oder Ergänzung beschlossen hat, nach
+dem Stand der Planungsarbeiten anzunehmen ist, daß die beabsichtigte
 andere Nutzung festgesetzt wird, und dringende Gründe des öffentlichen
 Interesses die Vorbereitung oder die Verwirklichung der anderen
 Nutzung vor Rechtsverbindlichkeit des Bebauungsplans erfordern.
@@ -540,19 +514,15 @@ Nutzung vor Rechtsverbindlichkeit des Bebauungsplans erfordern.
 (3) Vom 1. Januar 2005 an kann der Grundstückseigentümer den Vertrag
 auch dann kündigen, wenn er das Grundstück
 
-1.  zur Errichtung eines Ein- oder Zweifamilienhauses als Wohnung für
-    sich, die zu seinem Hausstand gehörenden Personen oder seine
+1.  zur Errichtung eines Ein- oder Zweifamilienhauses als Wohnung
+    für sich, die zu seinem Hausstand gehörenden Personen oder seine
     Familienangehörigen benötigt oder
-
 
 2.  selbst zu kleingärtnerischen Zwecken, zur Erholung oder
     Freizeitgestaltung benötigt und der Ausschluß des Kündigungsrechts dem
     Grundstückseigentümer angesichts seines Erholungsbedarfs und seiner
     sonstigen berechtigten Interessen auch unter Berücksichtigung der
     Interessen des Nutzers nicht zugemutet werden kann.
-
-
-
 
 (4) Vom 4. Oktober 2015 an kann der Grundstückseigentümer den Vertrag
 nach Maßgabe der allgemeinen Bestimmungen kündigen.
@@ -579,15 +549,12 @@ bis 6 den Vertrag auch kündigen, wenn
     Altschuldenhilfe-Gesetzes auf dem Grundstück gelegene Wohnungen an
     deren Mieter veräußern will und
 
-
 2.  der Nutzer der Garage nicht Mieter einer auf dem Grundstück gelegenen
     Wohnung ist.
 
-
-
-Der Nutzer kann der Kündigung widersprechen und die Fortsetzung des
-Vertragsverhältnisses verlangen, wenn dessen Beendigung für ihn eine
-Härte bedeuten würde, die auch unter Würdigung der berechtigten
+Der Nutzer kann der Kündigung widersprechen und die Fortsetzung
+des Vertragsverhältnisses verlangen, wenn dessen Beendigung für ihn
+eine Härte bedeuten würde, die auch unter Würdigung der berechtigten
 Interessen des Grundstückseigentümers nicht zu rechtfertigen ist.
 
 
@@ -609,13 +576,13 @@ Nutzungsrechts notwendig sind.
 (3) Der Nutzer hat die Maßnahmen zu dulden, die zur Gewährleistung der
 zulässigen Nutzung der gekündigten Teilfläche erforderlich sind.
 
-(4) Der Nutzer kann den Grundstückseigentümer auffordern, innerhalb
-einer Frist von sechs Monaten ab Zugang der Aufforderung sein Recht
-zur Teilkündigung nach Absatz 1 auszuüben. Übt der
-Grundstückseigentümer sein Recht zur Teilkündigung nicht aus, kann der
-Nutzer nach Ablauf der in Satz 1 genannten Frist innerhalb von drei
-Monaten nach Maßgabe der Sätze 3 und 4 kündigen; in dieser Zeit ist
-die Teilkündigung durch den Grundstückseigentümer nach Absatz 1
+(4) Der Nutzer kann den Grundstückseigentümer auffordern,
+innerhalb einer Frist von sechs Monaten ab Zugang der Aufforderung
+sein Recht zur Teilkündigung nach Absatz 1 auszuüben. Übt der
+Grundstückseigentümer sein Recht zur Teilkündigung nicht aus, kann
+der Nutzer nach Ablauf der in Satz 1 genannten Frist innerhalb von
+drei Monaten nach Maßgabe der Sätze 3 und 4 kündigen; in dieser Zeit
+ist die Teilkündigung durch den Grundstückseigentümer nach Absatz 1
 ausgeschlossen. Die Kündigung durch den Nutzer ist zulässig, wenn sich
 das Nutzungsrecht an einem Erholungs- und Freizeitgrundstück nach dem
 Vertrag auf eine Fläche von mindestens 1.000 Quadratmeter erstreckt,
@@ -626,8 +593,8 @@ für den Nutzer zu einer unzumutbaren Härte führen würde. Eine
 angemessene Nutzung durch den Grundstückseigentümer liegt insbesondere
 vor, wenn die in einem bebaubaren Gebiet gelegene Teilfläche
 selbständig baulich nutzbar oder wenn sie in nicht bebaubaren Gebieten
-sonst angemessen wirtschaftlich nutzbar ist. Auf die Kündigung ist §
-25 Abs. 2 und 3 entsprechend anzuwenden. Der Nutzer hat dem
+sonst angemessen wirtschaftlich nutzbar ist. Auf die Kündigung
+ist § 25 Abs. 2 und 3 entsprechend anzuwenden. Der Nutzer hat dem
 Grundstückseigentümer die Aufwendungen zu ersetzen, die infolge der
 Einschränkung der räumlichen Erstreckung des Nutzungsrechts notwendig
 sind.
@@ -644,8 +611,8 @@ bedeuten würde, die auch unter Berücksichtigung der Interessen des
 Grundstückseigentümers nicht zu rechtfertigen ist. Die §§ 574 bis 574b
 des Bürgerlichen Gesetzbuchs sind entsprechend anzuwenden.
 
-(2) Ist das Grundstück veräußert worden, kann der Erwerber vor Ablauf
-von drei Jahren seit der Eintragung der Rechtsänderung in das
+(2) Ist das Grundstück veräußert worden, kann der Erwerber vor
+Ablauf von drei Jahren seit der Eintragung der Rechtsänderung in das
 Grundbuch nicht kündigen, wenn er das Grundstück einer in § 23 Abs. 2
 Nr. 1 und Abs. 3 Nr. 1 und 2 genannten Verwendung zuführen will. Satz
 1 ist nicht anzuwenden, wenn der auf die Veräußerung des Grundstücks
@@ -702,18 +669,18 @@ nur gemeinsam kündigen.
 
 (2) Im Falle der gemeinsamen Kündigung haften die
 Grundstückseigentümer dem Nutzer für die nach diesem Gesetz zu
-leistenden Entschädigungen als Gesamtschuldner. Befindet sich ein vom
-Nutzer errichtetes Bauwerk auf mehreren Grundstücken, sind die
+leistenden Entschädigungen als Gesamtschuldner. Befindet sich ein
+vom Nutzer errichtetes Bauwerk auf mehreren Grundstücken, sind die
 Grundstückseigentümer im Verhältnis zueinander im Zweifel zu gleichen
 Teilen verpflichtet. Entschädigungen nach den §§ 14 und 27 sind im
 Zweifel im Verhältnis der auf den jeweiligen Eigentümer entfallenden
 Fläche aufzuteilen.
 
-(3) Das Recht zur Kündigung steht einem Grundstückseigentümer allein
-zu, wenn die auf seinem Grundstück befindliche Teilfläche selbständig
-nutzbar ist. Das Kündigungsrecht besteht auch, wenn die Teilfläche
-gemeinsam mit einer weiteren auf dem Grundstück zur Nutzung
-zugewiesenen Bodenfläche selbständig nutzbar ist. Der
+(3) Das Recht zur Kündigung steht einem Grundstückseigentümer
+allein zu, wenn die auf seinem Grundstück befindliche Teilfläche
+selbständig nutzbar ist. Das Kündigungsrecht besteht auch, wenn
+die Teilfläche gemeinsam mit einer weiteren auf dem Grundstück
+zur Nutzung zugewiesenen Bodenfläche selbständig nutzbar ist. Der
 Grundstückseigentümer hat dem anderen Grundstückseigentümer seine
 Kündigungsabsicht rechtzeitig anzuzeigen.
 
@@ -726,8 +693,8 @@ erklärt werden. § 25 Abs. 2 Satz 2 und 3 ist entsprechend anzuwenden.
 
 (5) Wird der Vertrag nicht nach Absatz 4 fortgesetzt, hat der
 kündigende Grundstückseigentümer dem anderen Grundstückseigentümer
-nach Maßgabe des § 14 die Vermögensnachteile auszugleichen, die diesem
-durch die vorzeitige Beendigung der Gemeinschaft entstehen. Der
+nach Maßgabe des § 14 die Vermögensnachteile auszugleichen, die
+diesem durch die vorzeitige Beendigung der Gemeinschaft entstehen. Der
 kündigende Grundstückseigentümer hat den anderen Grundstückseigentümer
 von einer Entschädigungspflicht nach § 12 Abs. 1 freizustellen.
 
@@ -755,7 +722,6 @@ Grundstückseigentümers verwandt wurden, bestimmen sich nach § 37.
 ### Abschnitt 2 - Besondere Bestimmungen für Ferienhaus- und Wochenendhaussiedlungen sowie andere Gemeinschaften
 
 
-
 #### § 29 Begriffsbestimmung
 
 Ferienhaus- und Wochenendhaussiedlungen sind Flächen, die
@@ -763,34 +729,28 @@ Ferienhaus- und Wochenendhaussiedlungen sind Flächen, die
 1.  nach ihrer Zweckbestimmung und der Art der Nutzung zur Erholung
     dienen,
 
-
 2.  mit mehreren Ferien- oder Wochenendhäusern oder anderen,
     Erholungszwecken dienenden Bauwerken bebaut worden sind,
 
-
 3.  durch gemeinschaftliche Einrichtungen, insbesondere Wege, Spielflächen
     und Versorgungseinrichtungen, zu einer Anlage verbunden sind und
-
 
 4.  nicht Kleingartenanlagen im Sinne des § 1 des
     Bundeskleingartengesetzes sind.
 
 
-
-
-
 #### § 30 Kündigung des Zwischenpachtvertrages
 
-(1) Der Grundstückseigentümer ist berechtigt, die Kündigung des
-Zwischenpachtvertrages auf eine Teilfläche zu beschränken. Ist eine
-Interessenabwägung nach § 23 Abs. 2 Nr. 1 oder Abs. 3 Nr. 2
-vorzunehmen, sind auch die Belange des unmittelbar
+(1) Der Grundstückseigentümer ist berechtigt, die Kündigung
+des Zwischenpachtvertrages auf eine Teilfläche zu beschränken.
+Ist eine Interessenabwägung nach § 23 Abs. 2 Nr. 1 oder Abs.
+3 Nr. 2 vorzunehmen, sind auch die Belange des unmittelbar
 Nutzungsberechtigten zu berücksichtigen. Im Falle einer
 Teilflächenkündigung wird der Zwischenpachtvertrag über die Restfläche
 fortgesetzt.
 
-(2) Wird das Vertragsverhältnis aus einem in der Person des
-Zwischenpächters liegenden Grund gekündigt, tritt der
+(2) Wird das Vertragsverhältnis aus einem in der Person
+des Zwischenpächters liegenden Grund gekündigt, tritt der
 Grundstückseigentümer in die Vertragsverhältnisse des Zwischenpächters
 mit den unmittelbar Nutzungsberechtigten ein. Schließt der
 Grundstückseigentümer mit einem anderen Zwischenpächter einen Vertrag
@@ -810,8 +770,8 @@ Abbruchkosten hat der Zwischenpächter zu tragen.
 
 #### § 32 Benutzung gemeinschaftlicher Einrichtungen
 
-(1) Der Grundstückseigentümer, der das Grundstück zur Erholung oder
-Freizeitgestaltung nutzt, ist berechtigt, die in der Siedlung
+(1) Der Grundstückseigentümer, der das Grundstück zur Erholung
+oder Freizeitgestaltung nutzt, ist berechtigt, die in der Siedlung
 belegenen gemeinschaftlichen Einrichtungen zu nutzen.
 
 (2) Die Nutzung der gemeinschaftlichen Einrichtungen eines Vereins
@@ -819,8 +779,8 @@ erfolgt durch Ausübung der Rechte als Vereinsmitglied. Wird der
 Grundstückseigentümer nicht Mitglied, kann er die Nutzung dieser
 Einrichtungen gegen Zahlung eines angemessenen Entgelts verlangen.
 
-(3) Eine Personengemeinschaft nach § 4 Abs. 2 kann für die Nutzung der
-Einrichtungen ein angemessenes Entgelt verlangen, wenn der
+(3) Eine Personengemeinschaft nach § 4 Abs. 2 kann für die Nutzung
+der Einrichtungen ein angemessenes Entgelt verlangen, wenn der
 Grundstückseigentümer nicht Mitglied der Gemeinschaft wird.
 
 
@@ -834,9 +794,7 @@ anzuwenden.
 ## Kapitel 3 - Überlassungsverträge
 
 
-
 ### Abschnitt 1 - Überlassungsverträge zu Wohnzwecken
-
 
 
 #### § 34 Anwendbarkeit des Mietrechts
@@ -854,9 +812,9 @@ verlangen. Die Miete wird an dem ersten Tag des zweiten Monats fällig,
 der auf die in Textform vorzulegende Anforderung der Miete durch den
 Vermieter gegenüber dem Mieter folgt.
 
-(2) Vom 1. Januar 1995 bis zum Ablauf des 10. Juni 1995 bestimmt sich
-die Miete nach der Ersten und der Zweiten Grundmietenverordnung sowie
-der Betriebskosten-Umlageverordnung in der zu diesem Zeitpunkt
+(2) Vom 1. Januar 1995 bis zum Ablauf des 10. Juni 1995 bestimmt
+sich die Miete nach der Ersten und der Zweiten Grundmietenverordnung
+sowie der Betriebskosten-Umlageverordnung in der zu diesem Zeitpunkt
 geltenden Fassung. Von dem 11. Juni 1995 an bis zum 31. August 2001
 kann der Vermieter eine Erhöhung dieser Miete und die Betriebskosten
 nach näherer Maßgabe des § 11 Abs. 2 des Gesetzes zur Regelung der
@@ -881,18 +839,18 @@ tragen.
 
 #### § 37 Sicherheitsleistung
 
-(1) Die Ansprüche des Nutzers auf Erstattung der Beträge, die vom
-staatlichen Verwalter aus dem bei Vertragsabschluß vom Nutzer
-hinterlegten Betrag zur Ablösung von Verbindlichkeiten des
+(1) Die Ansprüche des Nutzers auf Erstattung der Beträge, die
+vom staatlichen Verwalter aus dem bei Vertragsabschluß vom
+Nutzer hinterlegten Betrag zur Ablösung von Verbindlichkeiten des
 Grundstückseigentümers verwandt wurden, bestimmen sich nach § 38 Abs.
 2 und 3 des Sachenrechtsbereinigungsgesetzes.
 
 (2) Der Nutzer kann vom Grundstückseigentümer die Zustimmung zur
 Auszahlung der bei Abschluß des Vertrages hinterlegten Beträge mit
 Ausnahme der aufgelaufenen Zinsen, der Grundstückseigentümer vom
-Nutzer die Zustimmung zur Auszahlung der Zinsen verlangen. Satz 1 ist
-auf die Zinsen nicht anzuwenden, die auf die Zeit entfallen, in der
-der Nutzer nach diesem Gesetz zur Zahlung von Miete oder Pacht
+Nutzer die Zustimmung zur Auszahlung der Zinsen verlangen. Satz 1
+ist auf die Zinsen nicht anzuwenden, die auf die Zeit entfallen, in
+der der Nutzer nach diesem Gesetz zur Zahlung von Miete oder Pacht
 verpflichtet ist.
 
 (3) Ein vertraglich vereinbartes Recht des Nutzers, den Anspruch nach
@@ -925,8 +883,8 @@ Vertrag vor dem 13. Januar 1994 abgeschlossen worden ist.
 
 #### § 39 Verlängerung der Kündigungsschutzfrist
 
-Hat der Nutzer auf dem Grundstück in nicht unerheblichem Umfang Um-
-und Ausbauten oder wesentliche bauliche Maßnahmen zur
+Hat der Nutzer auf dem Grundstück in nicht unerheblichem Umfang
+Um- und Ausbauten oder wesentliche bauliche Maßnahmen zur
 Substanzerhaltung des Gebäudes unternommen, die nicht den in § 12 Abs.
 2 des Sachenrechtsbereinigungsgesetzes bestimmten Umfang erreichen,
 verlängert sich die in § 38 Abs. 2 bestimmte Frist bis zum 31.
@@ -937,24 +895,24 @@ dem 20. Juli 1993 begonnen wurde.
 #### § 40 Kündigung bei abtrennbaren Teilflächen
 
 Der Grundstückseigentümer ist berechtigt, eine Kündigung des
-Mietvertrages für eine abtrennbare, nicht überbaute Teilfläche des
-Grundstücks zu erklären. Die Kündigung ist zulässig, wenn das
+Mietvertrages für eine abtrennbare, nicht überbaute Teilfläche
+des Grundstücks zu erklären. Die Kündigung ist zulässig, wenn das
 Grundstück die für den Eigenheimbau vorgesehene Regelgröße von 500
 Quadratmetern übersteigt und die über die Regelgröße hinausgehende
 Fläche abtrennbar und selbständig baulich nutzbar ist. Das Recht zur
-Kündigung steht dem Grundstückseigentümer auch hinsichtlich einer über
-1\.000 Quadratmeter hinausgehenden Fläche zu, die abtrennbar und
-angemessen wirtschaftlich nutzbar ist. § 25 Abs. 2 bis 4 ist
+Kündigung steht dem Grundstückseigentümer auch hinsichtlich einer
+über 1.000 Quadratmeter hinausgehenden Fläche zu, die abtrennbar
+und angemessen wirtschaftlich nutzbar ist. § 25 Abs. 2 bis 4 ist
 entsprechend anzuwenden.
 
 
 #### § 41 Verwendungsersatz
 
 (1) Der Nutzer kann bei Beendigung des Mietvertrages vom
-Grundstückseigentümer für alle werterhöhenden Aufwendungen, die er bis
-zum 1. Januar 1995 vorgenommen hat, Ersatz nach Maßgabe des mit dem
-staatlichen Verwalter abgeschlossenen Vertrages verlangen. Im Zweifel
-ist die Entschädigung nach dem Wert zu bestimmen, um den das
+Grundstückseigentümer für alle werterhöhenden Aufwendungen, die er
+bis zum 1. Januar 1995 vorgenommen hat, Ersatz nach Maßgabe des mit
+dem staatlichen Verwalter abgeschlossenen Vertrages verlangen. Im
+Zweifel ist die Entschädigung nach dem Wert zu bestimmen, um den das
 Grundstück zum Zeitpunkt der Herausgabe durch die Aufwendungen des
 Nutzers noch erhöht ist.
 
@@ -964,7 +922,6 @@ werterhöhenden Aufwendungen bleibt unberührt.
 
 
 ### Abschnitt 2 - Andere Überlassungsverträge
-
 
 
 #### § 42 Überlassungsverträge für gewerbliche und andere Zwecke
@@ -985,16 +942,14 @@ dritten auf den Zugang des Zahlungsverlangens folgenden Monats. Die §§
 ## Kapitel 4 - Errichtung von Gebäuden aufgrund eines Miet-, Pacht- oder sonstigen Nutzungsvertrages
 
 
-
 ### Abschnitt 1 - Grundsätze
-
 
 
 #### § 43 Erfaßte Verträge
 
 Auf Miet-, Pacht- oder sonstige Nutzungsverträge über Grundstücke
-finden die nachstehenden Regelungen Anwendung, wenn der Nutzer auf dem
-Grundstück bis zum Ablauf des 2. Oktober 1990 mit Billigung
+finden die nachstehenden Regelungen Anwendung, wenn der Nutzer auf
+dem Grundstück bis zum Ablauf des 2. Oktober 1990 mit Billigung
 staatlicher Stellen ein Wohn- oder gewerblichen Zwecken dienendes
 Bauwerk errichtet, mit dem Bau eines solchen Bauwerks begonnen oder
 ein solches Bauwerk aufgrund einer vertraglichen Vereinbarung vom
@@ -1005,8 +960,8 @@ vorherigen Nutzer übernommen hat (§ 1 Abs. 1 Nr. 3).
 
 Sind Flächen oder Räumlichkeiten nach der
 Gewerberaumlenkungsverordnung vom 6. Februar 1986 (GBl. I Nr. 16 S.
-249) oder der Wohnraumlenkungsverordnung vom 16. Oktober 1985 (GBl. I
-Nr. 27 S. 301) zugewiesen worden, gilt mit dem 1. Januar 1995 ein
+249) oder der Wohnraumlenkungsverordnung vom 16. Oktober 1985 (GBl.
+I Nr. 27 S. 301) zugewiesen worden, gilt mit dem 1. Januar 1995 ein
 Vertrag zwischen dem Grundstückseigentümer und dem Nutzer als zustande
 gekommen, wenn ein Vertrag nicht abgeschlossen wurde, der Nutzer mit
 Billigung staatlicher Stellen ein Gebäude errichtet hat und der Nutzer
@@ -1015,7 +970,6 @@ Bestimmungen dieses Gesetzes anzuwenden.
 
 
 ### Abschnitt 2 - Gewerblich genutzte Grundstücke
-
 
 
 #### § 45 Bauliche Maßnahmen des Nutzers
@@ -1051,13 +1005,9 @@ Monats.
 
 1.  in den ersten zwei Jahren auf ein Viertel,
 
-
 2.  in den folgenden zwei Jahren auf die Hälfte und
 
-
 3.  in den darauf folgenden zwei Jahren auf drei Viertel
-
-
 
 des sich aus Absatz 1 ergebenden Betrages (Eingangsphase). Die
 Eingangsphase beginnt mit dem Eintritt der Zahlungspflicht nach diesem
@@ -1067,11 +1017,11 @@ die Beteiligten ein höheres Nutzungsentgelt vereinbart haben.
 (3) Nach Ablauf der Eingangsphase kann jede Vertragspartei bis zum
 Ablauf der Kündigungsschutzfrist eine Anpassung des Nutzungsentgelts
 verlangen, wenn seit der letzten Zinsanpassung drei Jahre vergangen
-sind und der ortsübliche Zins sich seit der letzten Anpassung um mehr
-als zehn vom Hundert verändert hat. Das Anpassungsverlangen ist
-gegenüber dem anderen Teil in Textform geltend zu machen und zu
-begründen. Das angepaßte Entgelt wird vom Beginn des dritten
-Kalendermonats an geschuldet, der auf den Zugang des
+sind und der ortsübliche Zins sich seit der letzten Anpassung um
+mehr als zehn vom Hundert verändert hat. Das Anpassungsverlangen
+ist gegenüber dem anderen Teil in Textform geltend zu machen
+und zu begründen. Das angepaßte Entgelt wird vom Beginn des
+dritten Kalendermonats an geschuldet, der auf den Zugang des
 Anpassungsverlangens folgt.
 
 
@@ -1083,9 +1033,9 @@ bedürfen nicht der Zustimmung des Grundstückseigentümers.
 (2) Der Nutzer kann bei Beendigung des Vertragsverhältnisses Ersatz
 für seine baulichen Maßnahmen, die er nach dem 1. Januar 1995
 vorgenommen hat, nur dann verlangen, wenn der Grundstückseigentümer
-den baulichen Maßnahmen zugestimmt hat. In diesem Fall ist die
-Entschädigung nach dem Zeitwert des Bauwerks im Zeitpunkt der Rückgabe
-des Grundstücks zu bestimmen. Die Zustimmung des
+den baulichen Maßnahmen zugestimmt hat. In diesem Fall ist
+die Entschädigung nach dem Zeitwert des Bauwerks im Zeitpunkt
+der Rückgabe des Grundstücks zu bestimmen. Die Zustimmung des
 Grundstückseigentümers muß schriftlich erteilt werden und ein
 Anerkenntnis der Verpflichtung zum Wertersatz enthalten.
 
@@ -1105,42 +1055,34 @@ Grundstückseigentümer den Vertrag auch dann kündigen, wenn er
 1.  auf die eigene Nutzung des Grundstücks für Wohn- oder betriebliche
     Zwecke angewiesen ist oder
 
-
 2.  Inhaber eines Unternehmens ist und
 
     a)  das Gebäude oder die bauliche Anlage auf dem Betriebsgrundstück steht
         und die betriebliche Nutzung des Grundstücks erheblich beeinträchtigt
         oder
 
-
     b)  das Gebäude, die bauliche Anlage oder die Funktionsfläche für
-        betriebliche Erweiterungen in Anspruch genommen werden soll und der
-        Grundstückseigentümer die in § 3 Abs. 1 Nr. 1 des
+        betriebliche Erweiterungen in Anspruch genommen werden soll
+        und der Grundstückseigentümer die in § 3 Abs. 1 Nr. 1 des
         Investitionsvorranggesetzes vom 14. Juli 1992 (BGBl. I S. 1268)
         bezeichneten Zwecke verfolgt oder der Nutzer keine Gewähr für eine
         Fortsetzung der betrieblichen Nutzung des Wirtschaftsgebäudes bietet.
 
-
-
-
-
-
-Satz 1 ist nicht anzuwenden, wenn den betrieblichen Belangen des
-Nutzers eine erheblich höhere Bedeutung zukommt als den betrieblichen
-Zwecken nach Nummer 1 oder den investiven Interessen des
-Grundstückseigentümers nach Nummer 2 Buchstabe b. Die in Satz 1
-bestimmte Frist verlängert sich um die Restnutzungsdauer des vom
+Satz 1 ist nicht anzuwenden, wenn den betrieblichen Belangen
+des Nutzers eine erheblich höhere Bedeutung zukommt als den
+betrieblichen Zwecken nach Nummer 1 oder den investiven Interessen
+des Grundstückseigentümers nach Nummer 2 Buchstabe b. Die in Satz
+1 bestimmte Frist verlängert sich um die Restnutzungsdauer des vom
 Nutzer errichteten Gebäudes, längstens bis zum 31. Dezember 2020.
 
 
 ### Abschnitt 3 - Zu Wohnzwecken genutzte Grundstücke
 
 
-
 #### § 50 Bauliche Maßnahmen des Nutzers
 
-(1) Gebäude im Sinne dieses Abschnitts sind Wohnhäuser und die in § 5
-Abs. 2 Satz 2 des Sachenrechtsbereinigungsgesetzes bezeichneten
+(1) Gebäude im Sinne dieses Abschnitts sind Wohnhäuser und die in
+§ 5 Abs. 2 Satz 2 des Sachenrechtsbereinigungsgesetzes bezeichneten
 Nebengebäude.
 
 (2) Der Errichtung eines Gebäudes stehen bauliche Maßnahmen im Sinne
@@ -1170,10 +1112,10 @@ nicht mehr nutzbar und mit einer Wiederherstellung der Nutzbarkeit
 durch den Nutzer nicht mehr zu rechnen ist.
 
 (2) In den darauf folgenden fünf Kalenderjahren kann der
-Grundstückseigentümer den Vertrag auch dann kündigen, wenn er das auf
-dem Grundstück stehende Gebäude zu Wohnzwecken für sich, die zu seinem
-Hausstand gehörenden Personen oder seine Familienangehörigen benötigt
-und ihm der Ausschluß des Kündigungsrechts angesichts seines
+Grundstückseigentümer den Vertrag auch dann kündigen, wenn er das
+auf dem Grundstück stehende Gebäude zu Wohnzwecken für sich, die zu
+seinem Hausstand gehörenden Personen oder seine Familienangehörigen
+benötigt und ihm der Ausschluß des Kündigungsrechts angesichts seines
 Wohnbedarfs und seiner sonstigen berechtigten Interessen auch unter
 Würdigung der Interessen des Nutzers nicht zugemutet werden kann. Die
 in Satz 1 bestimmte Frist verlängert sich um die Restnutzungsdauer des
@@ -1201,13 +1143,12 @@ anzuwenden.
 ## Kapitel 5 - Verfahrensvorschriften
 
 
-
 ### § 55 Ausschließliche Zuständigkeit des Amtsgerichts
 
-Das Amtsgericht, in dessen Bezirk das genutzte Grundstück ganz oder
-zum größten Teil belegen ist, ist ohne Rücksicht auf den Wert des
-Streitgegenstandes für alle Streitigkeiten zwischen
-Grundstückseigentümern und Nutzern über Ansprüche aus
+Das Amtsgericht, in dessen Bezirk das genutzte Grundstück
+ganz oder zum größten Teil belegen ist, ist ohne Rücksicht
+auf den Wert des Streitgegenstandes für alle Streitigkeiten
+zwischen Grundstückseigentümern und Nutzern über Ansprüche aus
 Vertragsverhältnissen nach § 1 Abs. 1 oder über das Bestehen solcher
 Verhältnisse ausschließlich zuständig.
 
@@ -1220,7 +1161,6 @@ Verhältnisse ausschließlich zuständig.
 ## Kapitel 6 - Vorkaufsrecht
 
 
-
 ### § 57 Vorkaufsrecht des Nutzers
 
 (1) Der Nutzer ist zum Vorkauf berechtigt, wenn das Grundstück
@@ -1230,20 +1170,14 @@ erstmals an einen Dritten verkauft wird.
 
 1.  der Nutzer das Grundstück nicht vertragsgemäß nutzt,
 
-
 2.  der Nutzer die Bestellung eines Vorkaufsrechts nach § 20 des
     Vermögensgesetzes verlangen kann oder verlangen konnte,
-
 
 3.  das Grundstück an Abkömmlinge, den Ehegatten oder Lebenspartner oder
     an Geschwister des Grundstückseigentümers verkauft wird oder
 
-
 4.  der Erwerber das Grundstück einem besonderen Investitionszweck im
     Sinne des § 3 Abs. 1 des Investitionsvorranggesetzes zuführen will.
-
-
-
 
 (3) Das Vorkaufsrecht besteht ferner nicht, wenn der Nutzer
 
@@ -1251,16 +1185,12 @@ erstmals an einen Dritten verkauft wird.
     juristische Person im Sinne der §§ 20a und 20b des Parteiengesetzes
     der Deutschen Demokratischen Republik ist oder
 
-
 2.  ein Unternehmen oder ein Rechtsnachfolger eines Unternehmens ist, das
     bis zum 31. März 1990 oder zu einem früheren Zeitpunkt zum Bereich
     "Kommerzielle Koordinierung" gehört hat.
 
-
-
-
-(4) Die Mitteilung des Verkäufers oder des Dritten über den Inhalt des
-Kaufvertrages ist mit einer Unterrichtung des Nutzers über sein
+(4) Die Mitteilung des Verkäufers oder des Dritten über den Inhalt
+des Kaufvertrages ist mit einer Unterrichtung des Nutzers über sein
 Vorkaufsrecht zu verbinden.
 
 (5) Das Vorkaufsrecht erlischt mit der Beendigung des
@@ -1270,8 +1200,8 @@ Grundstückseigentümer gemäß den Bestimmungen dieses Gesetzes
 fortsetzt.
 
 (6) Erstreckt sich die Nutzungsbefugnis auf eine Teilfläche eines
-Grundstücks, kann das Vorkaufsrecht nur ausgeübt werden, wenn die
-einem oder mehreren Nutzern überlassene Fläche die halbe
+Grundstücks, kann das Vorkaufsrecht nur ausgeübt werden, wenn
+die einem oder mehreren Nutzern überlassene Fläche die halbe
 Grundstücksgröße übersteigt. Mehreren Nutzern steht das Vorkaufsrecht
 in bezug auf ein Grundstück gemeinschaftlich zu. Im übrigen sind die
 §§ 463 bis 473 des Bürgerlichen Gesetzbuchs entsprechend anzuwenden.

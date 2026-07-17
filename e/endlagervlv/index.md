@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über Vorausleistungen für die Einrichtung von Anlagen des Bundes
-  zur Sicherstellung und zur Endlagerung radioaktiver Abfälle
+Title: Verordnung über Vorausleistungen für die Einrichtung von Anlagen des Bundes zur Sicherstellung und zur Endlagerung radioaktiver Abfälle
 jurabk: EndlagerVlV
 layout: default
 origslug: endlagervlv
@@ -22,12 +21,12 @@ Zuletzt geändert durch
 
 ## Eingangsformel
 
-Auf Grund des § 21b Abs. 3 in Verbindung mit § 54 des Atomgesetzes in
-der Fassung der Bekanntmachung vom 31. Oktober 1976 (BGBl. I S. 3053),
-von denen § 21b Abs. 3 durch Gesetz vom 20. August 1980 (BGBl. I S.
-1556) eingefügt worden ist und § 54 durch das gleiche Gesetz geändert
-worden ist, verordnet die Bundesregierung mit Zustimmung des
-Bundesrates:
+Auf Grund des § 21b Abs. 3 in Verbindung mit § 54 des Atomgesetzes
+in der Fassung der Bekanntmachung vom 31. Oktober 1976 (BGBl. I S.
+3053), von denen § 21b Abs. 3 durch Gesetz vom 20. August 1980 (BGBl.
+I S. 1556) eingefügt worden ist und § 54 durch das gleiche Gesetz
+geändert worden ist, verordnet die Bundesregierung mit Zustimmung
+des Bundesrates:
 
 
 ## § 1 Erhebung von Vorausleistungen
@@ -51,13 +50,13 @@ Genehmigung nach Satz 1 zwar nicht mehr vorliegt, aber auf Grund der
 Ausnutzung der erteilten Genehmigung radioaktive Abfälle, die an ein
 Endlager abgeliefert werden müssen, angefallen sind. Wenn auf Grund
 einer genehmigten Tätigkeit nach Satz 1 radioaktive Abfälle angefallen
-sind und sowohl nach Satz 2 ein ehemaliger Genehmigungsinhaber als
-auch nach Satz 1 ein derzeitiger Genehmigungsinhaber
+sind und sowohl nach Satz 2 ein ehemaliger Genehmigungsinhaber
+als auch nach Satz 1 ein derzeitiger Genehmigungsinhaber
 vorausleistungspflichtig sind, haften diese gesamtschuldnerisch.
 Soweit die Finanzierungspflicht für Anlagen zur Endlagerung
-radioaktiver Abfälle nach § 1 des Entsorgungsübergangsgesetzes auf den
-Fonds nach § 1 Absatz 1 des Entsorgungsfondsgesetzes übergegangen ist,
-ist der Fonds anstelle des Genehmigungsinhabers
+radioaktiver Abfälle nach § 1 des Entsorgungsübergangsgesetzes
+auf den Fonds nach § 1 Absatz 1 des Entsorgungsfondsgesetzes
+übergegangen ist, ist der Fonds anstelle des Genehmigungsinhabers
 vorausleistungspflichtig.
 
 (2) Genehmigungen nach § 12 Absatz 1 Nummer 3 des
@@ -81,23 +80,15 @@ entstanden ist für
 
 1.  die anlagenbezogene Forschung und Entwicklung,
 
-
 2.  den Erwerb von Grundstücken und Rechten,
-
 
 3.  die Planung,
 
-
 4.  die Erkundung,
-
 
 5.  die Unterhaltung von Grundstücken und Einrichtungen,
 
-
 6.  die Errichtung, die Erweiterung und die Erneuerung.
-
-
-
 
 
 ## § 4 Ermittlung des Aufwandes, Erhebungsverfahren
@@ -105,19 +96,19 @@ entstanden ist für
 (1) Der notwendige Aufwand ist einzeln für jede Anlage nach den
 tatsächlich entstandenen Kosten zu ermitteln und abzurechnen.
 
-(2) Vor Beginn eines jeden Kalenderjahres (Bemessungszeitraum) ist vom
-Bundesamt für die Sicherheit der nuklearen Entsorgung und dem Dritten
-nach § 9a Absatz 3 Satz 2 zweiter Halbsatz des Atomgesetzes eine
-Kostenkalkulation der Maßnahmen zu erstellen, die für dieses
+(2) Vor Beginn eines jeden Kalenderjahres (Bemessungszeitraum) ist
+vom Bundesamt für die Sicherheit der nuklearen Entsorgung und dem
+Dritten nach § 9a Absatz 3 Satz 2 zweiter Halbsatz des Atomgesetzes
+eine Kostenkalkulation der Maßnahmen zu erstellen, die für dieses
 Kalenderjahr vorgesehen sind; die vorgesehenen Maßnahmen und die
 Kostenkalkulation sollen den Vorausleistungspflichtigen vor Beginn des
 Kalenderjahres bekannt gegeben werden. Der gesamte notwendige Aufwand
 wird im darauf folgenden Kalenderjahr ermittelt.
 
 (2a) Für den nach Absatz 2 Satz 3 ermittelten gesamten notwendigen
-Aufwand ist eine Abschlussprüfung durch einen Wirtschaftsprüfer oder
-eine Wirtschaftsprüfergesellschaft vorzunehmen. Der ermittelte gesamte
-notwendige Aufwand bedarf zudem der Genehmigung durch das
+Aufwand ist eine Abschlussprüfung durch einen Wirtschaftsprüfer
+oder eine Wirtschaftsprüfergesellschaft vorzunehmen. Der ermittelte
+gesamte notwendige Aufwand bedarf zudem der Genehmigung durch das
 Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit.
 
 (3) Vorausleistungen werden erhoben
@@ -126,14 +117,11 @@ Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit.
     Absatz 2 Satz 1 oder 2 für das laufende Jahr kalkulierten Aufwandes
     (Abschlag),
 
-
 2.  nach Ermittlung des gesamten notwendigen Aufwandes des abgelaufenen
     Kalenderjahres nach Absatz 2 Satz 3 in voller Höhe.
 
-
-
-Bei der Erhebung nach Satz 1 Nr. 2 ist die Zahlung nach Satz 1 Nr. 1
-anzurechnen, eine zu viel entrichtete Zahlung wird dem
+Bei der Erhebung nach Satz 1 Nr. 2 ist die Zahlung nach Satz
+1 Nr. 1 anzurechnen, eine zu viel entrichtete Zahlung wird dem
 Vorausleistungspflichtigen unverzinst erstattet.
 
 
@@ -145,10 +133,10 @@ Verwaltungsakte nach dieser Vorschrift findet ein Vorverfahren statt.
 Naturschutz und nukleare Sicherheit.
 
 (2) In der Begründung des Vorausleistungsbescheides ist auszuführen,
-welcher notwendige Aufwand im Falle des § 4 Abs. 3 Satz 1 Nr. 1 nach
-der Kostenkalkulation entstehen wird oder im Falle des § 4 Abs. 3 Satz
-1 Nr. 2 im Bemessungszeitraum insgesamt entstanden ist. Der Aufwand
-ist auf die vorgesehenen oder durchgeführten Maßnahmen
+welcher notwendige Aufwand im Falle des § 4 Abs. 3 Satz 1 Nr. 1
+nach der Kostenkalkulation entstehen wird oder im Falle des § 4
+Abs. 3 Satz 1 Nr. 2 im Bemessungszeitraum insgesamt entstanden ist.
+Der Aufwand ist auf die vorgesehenen oder durchgeführten Maßnahmen
 aufzuschlüsseln. Es ist anzugeben, wie sich nach § 6 der Anteil des
 Vorausleistungspflichtigen errechnet.
 
@@ -162,81 +150,67 @@ Vorausleistungspflichtigen errechnet.
 1.  für ein Endlager für radioaktive Abfälle mit vernachlässigbarer
     Wärmeentwicklung
 
-    a)  zu 64,4 Prozent auf diejenigen Vorausleistungspflichtigen, denen eine
-        Genehmigung nach § 7 Abs. 1 oder Abs. 3 des Atomgesetzes für eine
-        Anlage zur Spaltung von Kernbrennstoffen mit einer elektrischen
+    a)  zu 64,4 Prozent auf diejenigen Vorausleistungspflichtigen, denen
+        eine Genehmigung nach § 7 Abs. 1 oder Abs. 3 des Atomgesetzes für
+        eine Anlage zur Spaltung von Kernbrennstoffen mit einer elektrischen
         Leistung von mehr als 200 Megawatt erteilt worden ist,
-
 
     b)  zu 6 Prozent auf diejenigen Vorausleistungspflichtigen, denen eine
         Genehmigung nach § 7 Abs. 1 oder Abs. 3 des Atomgesetzes für eine
         Anlage zur Aufarbeitung bestrahlter Brennelemente mit einer Leistung
         bis zu 50 Jahrestonnen erteilt worden ist,
 
-
     c)  zu 29,6 Prozent auf diejenigen Vorausleistungspflichtigen, denen sonst
         eine Genehmigung nach § 7 Abs. 1 oder Abs. 3 des Atomgesetzes oder
         eine Genehmigung nach § 6 oder § 9 des Atomgesetzes oder nach § 12
         Absatz 1 Nummer 3 des Strahlenschutzgesetzes erteilt worden ist,
 
-
-
-
-
 2.  für ein Endlager für alle Arten radioaktiver Abfälle
 
-    a)  zu 96,5 Prozent auf diejenigen Vorausleistungspflichtigen, denen eine
-        Genehmigung nach § 7 Abs. 1 oder Abs. 3 des Atomgesetzes für eine
-        Anlage zur Spaltung von Kernbrennstoffen mit einer elektrischen
+    a)  zu 96,5 Prozent auf diejenigen Vorausleistungspflichtigen, denen
+        eine Genehmigung nach § 7 Abs. 1 oder Abs. 3 des Atomgesetzes für
+        eine Anlage zur Spaltung von Kernbrennstoffen mit einer elektrischen
         Leistung von mehr als 200 Megawatt erteilt worden ist,
-
 
     b)  zu 0,7 Prozent auf diejenigen Vorausleistungspflichtigen, denen eine
         Genehmigung nach § 7 Abs. 1 oder Abs. 3 des Atomgesetzes für eine
         Anlage zur Aufarbeitung bestrahlter Brennelemente mit einer Leistung
         bis zu 50 Jahrestonnen erteilt worden ist,
 
-
     c)  zu 2,8 Prozent auf diejenigen Vorausleistungspflichtigen, denen sonst
         eine Genehmigung nach § 7 Abs. 1 oder Abs. 3 des Atomgesetzes oder
         eine Genehmigung nach § 6 oder § 9 des Atomgesetzes oder nach § 12
         Absatz 1 Nummer 3 des Strahlenschutzgesetzes erteilt worden ist.
 
-
-
-
-
-
-
 (2) Vor der Verteilung nach Absatz 1 wird von dem notwendigen Aufwand
-die Summe der in dem betreffenden Jahr von den Landessammelstellen für
-die Endlagerung erhobenen und an das Bundesministerium für Umwelt,
-Naturschutz und nukleare Sicherheit abgeführten Kosten und Entgelte,
-soweit sie zur Deckung des Aufwandes nach § 3 bestimmt sind,
+die Summe der in dem betreffenden Jahr von den Landessammelstellen
+für die Endlagerung erhobenen und an das Bundesministerium für
+Umwelt, Naturschutz und nukleare Sicherheit abgeführten Kosten und
+Entgelte, soweit sie zur Deckung des Aufwandes nach § 3 bestimmt sind,
 abgezogen.
 
 (3) Unter den Vorausleistungspflichtigen nach Absatz 1 Nr. 1 Buchstabe
-a und b und Absatz 1 Nr. 2 Buchstabe a und b wird der Aufwand nach dem
-Verhältnis der Leistungen der jeweiligen Anlagen verteilt. Soweit die
-Vorausleistungspflicht auf einer Genehmigung nach § 7 Abs. 3 des
+a und b und Absatz 1 Nr. 2 Buchstabe a und b wird der Aufwand nach
+dem Verhältnis der Leistungen der jeweiligen Anlagen verteilt. Soweit
+die Vorausleistungspflicht auf einer Genehmigung nach § 7 Abs. 3 des
 Atomgesetzes beruht, wird für die Verteilung die zuletzt genehmigte
-Leistung zugrunde gelegt. Unter den Vorausleistungspflichtigen nach
-Absatz 1 Nr. 1 Buchstabe c und Absatz 1 Nr. 2 Buchstabe c wird der
-Aufwand nach dem Verhältnis der bei den einzelnen
+Leistung zugrunde gelegt. Unter den Vorausleistungspflichtigen
+nach Absatz 1 Nr. 1 Buchstabe c und Absatz 1 Nr. 2 Buchstabe
+c wird der Aufwand nach dem Verhältnis der bei den einzelnen
 Vorausleistungspflichtigen insgesamt angefallenen und voraussichtlich
 noch anfallenden radioaktiven Abfälle verteilt, die an ein Endlager
 abgeliefert werden müssen. Maßgebend für die Bestimmung der Daten über
 Leistungen nach Satz 1 und Abfälle nach Satz 3 ist der 31. Dezember
 des Vorjahres.
 
-(4) Der Fonds nach § 1 Absatz 1 des Entsorgungsfondsgesetzes ist für
-den nach Absatz 3 auf die Genehmigungsinhaber, deren
+(4) Der Fonds nach § 1 Absatz 1 des Entsorgungsfondsgesetzes
+ist für den nach Absatz 3 auf die Genehmigungsinhaber, deren
 Finanzierungspflicht nach § 1 des Entsorgungsübergangsgesetzes
 übergegangen ist, zu verteilenden Aufwand vorausleistungspflichtig.
 
-(5)Die Verteilung des Aufwandes ist im Abstand von jeweils drei Jahren
-zu überprüfen. Bei erheblichen Abweichungen ist eine Anpassung mit
-Wirkung auch für die Vergangenheit durch Novellierung dieser
+(5)Die Verteilung des Aufwandes ist im Abstand von jeweils drei
+Jahren zu überprüfen. Bei erheblichen Abweichungen ist eine Anpassung
+mit Wirkung auch für die Vergangenheit durch Novellierung dieser
 Verordnung vorzunehmen.
 
 
@@ -250,9 +224,9 @@ nicht Teilzahlungen vorgesehen sind.
 innerhalb von zwei Wochen nach Ablauf des Fälligkeitstages entrichtet,
 ist für jeden angefangenen Monat der Säumnis ein Säumniszuschlag von 1
 Prozent des rückständigen Betrages zu entrichten. Der Säumniszuschlag
-wird nur erhoben, wenn der rückständige Betrag 50 Euro übersteigt und
-die Säumnis länger als drei Tage beträgt. Wird die Festsetzung einer
-Vorausleistung aufgehoben oder geändert, bleiben die bis dahin
+wird nur erhoben, wenn der rückständige Betrag 50 Euro übersteigt
+und die Säumnis länger als drei Tage beträgt. Wird die Festsetzung
+einer Vorausleistung aufgehoben oder geändert, bleiben die bis dahin
 verwirkten Säumniszuschläge unberührt.
 
 
@@ -265,16 +239,16 @@ müssen. Bei der Erstattung werden die Vorausleistungen mit 3 Prozent
 über dem Basiszinssatz nach § 247 des Bürgerlichen Gesetzbuchs
 verzinst.
 
-(2) Der aufgrund einer Erstattung nach Absatz 1 nicht mehr gedeckte
-Aufwand einschließlich der Zinsen wird von den
+(2) Der aufgrund einer Erstattung nach Absatz 1 nicht mehr
+gedeckte Aufwand einschließlich der Zinsen wird von den
 Vorausleistungspflichtigen entsprechend § 6 Abs. 1 mit dem nächsten
-Vorausleistungsbescheid mit erhoben. Dabei wird der Aufwand des
-jeweiligen Bemessungszeitraums auf die in diesem Zeitraum
+Vorausleistungsbescheid mit erhoben. Dabei wird der Aufwand
+des jeweiligen Bemessungszeitraums auf die in diesem Zeitraum
 verbleibenden Vorausleistungspflichtigen verteilt.
 
-(3) Im Falle des Absatzes 1 Satz 1 unterbleibt eine Erstattung, wenn
-durch Vereinbarung zwischen dem Erstattungsberechtigten und einem oder
-mehreren Vorausleistungspflichtigen die zu erstattenden
+(3) Im Falle des Absatzes 1 Satz 1 unterbleibt eine Erstattung,
+wenn durch Vereinbarung zwischen dem Erstattungsberechtigten und
+einem oder mehreren Vorausleistungspflichtigen die zu erstattenden
 Vorausleistungen mit Wirkung zum jeweiligen Zahlungszeitpunkt der
 Vorausleistungen übertragen worden sind; übertragene Vorausleistungen
 sind dabei wie eigene Vorausleistungen zu behandeln.
@@ -285,14 +259,14 @@ sind dabei wie eigene Vorausleistungen zu behandeln.
 Die nach dieser Verordnung erhobenen Vorausleistungen werden auf
 Beiträge und Vorausleistungen, die im Rahmen einer abschließenden
 Regelung nach § 21b des Atomgesetzes erhoben werden, angerechnet.
-Dabei werden die Vorausleistungen bis zum Bemessungszeitraum 2001 mit
-3 Prozent über dem Diskontsatz der Deutschen Bundesbank verzinst. Die
-Vorausleistungen ab dem Bemessungszeitraum 2002 werden mit 3 Prozent
-über dem Basiszins nach § 247 des Bürgerlichen Gesetzbuchs verzinst.
-Dabei wird der Zins jährlich bis zum Bemessungszeitraum 2002
-nachträglich dem zu verzinsenden Betrag hinzugerechnet. Der sich
-ergebende Gesamtbetrag aus Zins und Zinseszins bis zum
-Bemessungszeitraum 2002 sowie die anfallenden Zinsen ab dem
+Dabei werden die Vorausleistungen bis zum Bemessungszeitraum 2001
+mit 3 Prozent über dem Diskontsatz der Deutschen Bundesbank verzinst.
+Die Vorausleistungen ab dem Bemessungszeitraum 2002 werden mit 3
+Prozent über dem Basiszins nach § 247 des Bürgerlichen Gesetzbuchs
+verzinst. Dabei wird der Zins jährlich bis zum Bemessungszeitraum
+2002 nachträglich dem zu verzinsenden Betrag hinzugerechnet.
+Der sich ergebende Gesamtbetrag aus Zins und Zinseszins bis
+zum Bemessungszeitraum 2002 sowie die anfallenden Zinsen ab dem
 Bemessungszeitraum 2003 werden neben dem in § 3 aufgeführten
 notwendigen Aufwand als weiterer notwendiger Aufwand in die
 Beitragsberechnung einbezogen.
@@ -302,25 +276,25 @@ Beitragsberechnung einbezogen.
 
 Vorausleistungen werden erhoben für den ab 1. Januar 1977 entstandenen
 notwendigen Aufwand. Der gesamte Aufwand für den vor Inkrafttreten
-dieser Verordnung liegenden Zeitraum wird nach § 4 ermittelt und zu
-zwei Dritteln nach Inkrafttreten dieser Verordnung erhoben. Ein
-Drittel dieses Aufwandes wird bei der erstmaligen Erhebung von
+dieser Verordnung liegenden Zeitraum wird nach § 4 ermittelt und
+zu zwei Dritteln nach Inkrafttreten dieser Verordnung erhoben.
+Ein Drittel dieses Aufwandes wird bei der erstmaligen Erhebung von
 Vorausleistungen für den Aufwand, der nach Inkrafttreten dieser
 Verordnung entstanden ist, miterhoben.
 
 
 ## § 11 Bemessungszeiträume 1977 bis 2003
 
-(1) Die Vorausleistungen für die Bemessungszeiträume 1977 bis 2002
-werden auf der Grundlage dieser Verordnung vom Bundesamt für
+(1) Die Vorausleistungen für die Bemessungszeiträume 1977 bis
+2002 werden auf der Grundlage dieser Verordnung vom Bundesamt für
 Strahlenschutz neu berechnet und durch Verwaltungsakt festgestellt.
-Soweit bei Vorausleistungspflichtigen die von ihnen insgesamt für die
-Bemessungszeiträume 1977 bis 2002 erbrachten Vorausleistungen die nach
-Satz 1 neu berechneten Vorausleistungen übersteigen, ist dieser
+Soweit bei Vorausleistungspflichtigen die von ihnen insgesamt für
+die Bemessungszeiträume 1977 bis 2002 erbrachten Vorausleistungen die
+nach Satz 1 neu berechneten Vorausleistungen übersteigen, ist dieser
 Differenzbetrag unverzinst vom Bundesamt für Strahlenschutz innerhalb
 eines Zeitraumes von fünf Jahren in fünf gleichen Jahresraten,
-beginnend im Kalenderjahr 2005, diesen Vorausleistungspflichtigen zu
-erstatten. Soweit bei Vorausleistungspflichtigen die von ihnen
+beginnend im Kalenderjahr 2005, diesen Vorausleistungspflichtigen
+zu erstatten. Soweit bei Vorausleistungspflichtigen die von ihnen
 insgesamt für die Bemessungszeiträume 1977 bis 2002 erbrachten
 Vorausleistungen die nach Satz 1 neu berechneten Vorausleistungen
 unterschreiten, ist dieser Differenzbetrag vom Bundesamt für
@@ -328,10 +302,10 @@ Strahlenschutz innerhalb eines Zeitraumes von fünf Jahren in fünf
 gleichen Jahresraten, beginnend im Kalenderjahr 2005, von diesen
 Vorausleistungspflichtigen zu erheben.
 
-(2) Absatz 1 gilt nicht für den notwendigen Aufwand, der in den Jahren
-1991 bis 1993 für das Endlager für radioaktive Abfälle Morsleben
-erbracht und unter den Vorausleistungspflichtigen verteilt worden war.
-Die Festsetzung der für dieses Endlager auf Grund der
+(2) Absatz 1 gilt nicht für den notwendigen Aufwand, der in den
+Jahren 1991 bis 1993 für das Endlager für radioaktive Abfälle
+Morsleben erbracht und unter den Vorausleistungspflichtigen verteilt
+worden war. Die Festsetzung der für dieses Endlager auf Grund der
 Endlagervorausleistungsverordnung in ihrer Fassung vom 12. Juli 1990
 erhobenen Vorausleistungen behält bis zu einer endgültigen Regelung
 Gültigkeit.

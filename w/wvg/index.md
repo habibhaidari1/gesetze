@@ -28,16 +28,15 @@ beschlossen:
 ## Erster Teil - Allgemeine Vorschriften für den Verband
 
 
-
 ### § 1 Zweck und Rechtsform
 
-(1) Zur Erfüllung der in § 2 genannten Aufgaben kann ein Wasser- und
-Bodenverband (Verband) als Körperschaft des öffentlichen Rechts
+(1) Zur Erfüllung der in § 2 genannten Aufgaben kann ein Wasser-
+und Bodenverband (Verband) als Körperschaft des öffentlichen Rechts
 errichtet werden; er ist keine Gebietskörperschaft.
 
-(2) Der Verband dient dem öffentlichen Interesse und dem Nutzen seiner
-Mitglieder; er verwaltet sich im Rahmen der Gesetze selbst. Er kann
-nach Maßgabe landesrechtlicher Vorschriften Beamte im Sinne des
+(2) Der Verband dient dem öffentlichen Interesse und dem Nutzen
+seiner Mitglieder; er verwaltet sich im Rahmen der Gesetze selbst. Er
+kann nach Maßgabe landesrechtlicher Vorschriften Beamte im Sinne des
 Beamtenrechtsrahmengesetzes haben.
 
 
@@ -49,58 +48,42 @@ des Verbands sein:
 1.  Ausbau einschließlich naturnahem Rückbau und Unterhaltung von
     Gewässern,
 
-
 2.  Bau und Unterhaltung von Anlagen in und an Gewässern,
-
 
 3.  Herstellung und Unterhaltung von ländlichen Wegen und Straßen,
 
-
-4.  Herstellung, Beschaffung, Betrieb und Unterhaltung sowie Beseitigung
-    von gemeinschaftlichen Anlagen zur Bewirtschaftung von
+4.  Herstellung, Beschaffung, Betrieb und Unterhaltung sowie
+    Beseitigung von gemeinschaftlichen Anlagen zur Bewirtschaftung von
     landwirtschaftlichen Flächen,
-
 
 5.  Schutz von Grundstücken vor Sturmflut und Hochwasser einschließlich
     notwendiger Maßnahmen im Deichvorland,
 
-
 6.  Verbesserung landwirtschaftlicher sowie sonstiger Flächen
     einschließlich der Regelung des Bodenwasser- und Bodenlufthaushalts,
-
 
 7.  Herstellung, Beschaffung, Betrieb, Unterhaltung und Beseitigung von
     Beregnungsanlagen sowie von Anlagen zur Be- und Entwässerung,
 
-
 8.  technische Maßnahmen zur Bewirtschaftung des Grundwassers und der
     oberirdischen Gewässer,
 
-
 9.  Abwasserbeseitigung,
-
 
 10. Abfallentsorgung im Zusammenhang mit der Durchführung von
     Verbandsaufgaben,
 
-
 11. Beschaffung und Bereitstellung von Wasser,
 
-
-12. Herrichtung, Erhaltung und Pflege von Flächen, Anlagen und Gewässern
-    zum Schutz des Naturhaushalts, des Bodens und für die
+12. Herrichtung, Erhaltung und Pflege von Flächen, Anlagen und
+    Gewässern zum Schutz des Naturhaushalts, des Bodens und für die
     Landschaftspflege,
-
 
 13. Förderung der Zusammenarbeit zwischen Landwirtschaft und
     Wasserwirtschaft und Fortentwicklung von Gewässer-, Boden- und
     Naturschutz,
 
-
 14. Förderung und Überwachung der vorstehenden Aufgaben.
-
-
-
 
 
 ### § 3 Name
@@ -121,26 +104,19 @@ Verbände können beibehalten werden.
     Erbbauberechtigte sowie Inhaber von Bergwerkseigentum (dingliche
     Verbandsmitglieder),
 
-
 2.  Personen, denen der Verband im Rahmen seiner Aufgaben Pflichten
     abnimmt oder erleichtert,
 
-
 3.  Körperschaften des öffentlichen Rechts,
-
 
 4.  andere Personen, wenn die nach Landesrecht zuständige Behörde
     (Aufsichtsbehörde) sie zuläßt,
 
+5.  der Träger der Baulast einer Verkehrsanlage, der nicht unter Nummer
+    1 fällt.
 
-5.  der Träger der Baulast einer Verkehrsanlage, der nicht unter Nummer 1
-    fällt.
-
-
-
-
-(2) Dem Bergwerkseigentum im Sinne des Absatzes 1 Nr. 1 stehen die
-Bewilligung im Sinne des Bundesberggesetzes sowie auch
+(2) Dem Bergwerkseigentum im Sinne des Absatzes 1 Nr. 1 stehen
+die Bewilligung im Sinne des Bundesberggesetzes sowie auch
 Bergwerkseigentum und Bewilligungen, die aufgehoben, widerrufen oder
 erloschen sind, gleich.
 
@@ -172,37 +148,25 @@ bestimmen.
 
 1.  Name und Sitz des Verbands,
 
-
 2.  Aufgabe und Unternehmen unter Hinweis auf die Pläne, soweit solche
     nach § 5 Abs. 2 erstellt werden,
 
-
 3.  Verbandsgebiet,
 
-
 4.  Mitgliedschaft und Mitgliederverzeichnis,
-
 
 5.  Beschränkungen des Grundeigentums, die von den Verbandsmitgliedern zu
     dulden sind, und diesen sonst obliegende Verpflichtungen,
 
-
 6.  Grundsätze für die Beitragsbemessung,
-
 
 7.  Bildung und Aufgaben der Verbandsorgane,
 
-
 8.  Verbandsschau,
-
 
 9.  Satzungsänderungen,
 
-
 10. Bekanntmachungen des Verbands.
-
-
-
 
 (3) Wenn der Verband Beamte haben soll, muß die Satzung zusätzlich
 auch Bestimmungen über die Rechtsverhältnisse der Beamten des
@@ -214,9 +178,7 @@ Stelle, enthalten.
 ## Zweiter Teil - Errichtung des Verbands
 
 
-
 ### Erster Abschnitt - Errichtungsarten
-
 
 
 #### § 7 Arten der Errichtung, Entstehung des Verbands
@@ -226,16 +188,12 @@ Stelle, enthalten.
 1.  durch einen einstimmigen Beschluß der Beteiligten sowie die
     aufsichtsbehördliche Genehmigung der Errichtung und der Satzung,
 
-
 2.  durch einen Mehrheitsbeschluß der Beteiligten, die
     aufsichtsbehördliche Genehmigung der Errichtung und der Satzung sowie
     die Heranziehung nicht einverstandener oder anderer Beteiligter als
     Verbandsmitglieder in dem Genehmigungsakt oder
 
-
 3.  von Amts wegen.
-
-
 
 Der Verband entsteht mit der öffentlichen Bekanntmachung der Satzung,
 sofern diese nicht einen späteren Zeitpunkt vorsieht.
@@ -258,21 +216,17 @@ Verbandsmitglieder in Betracht kommenden Personen,
 1.  die aus der Durchführung der Verbandsaufgabe einen Vorteil haben oder
     zu erwarten haben,
 
-
 2.  von deren Anlagen oder Grundstücken nachteilige Einwirkungen auf das
     Verbandsunternehmen ausgehen oder zu erwarten sind oder
 
-
 3.  die voraussichtlich Maßnahmen des Verbands zu dulden haben,
-
-
 
 wenn sie von der Aufsichtsbehörde nach § 13 Abs. 1 Satz 1 als
 Beteiligte festgestellt worden sind. Gemeinsame Eigentümer oder
 Erbbauberechtigte gelten als ein Beteiligter.
 
-(2) Vorteile im Sinne dieses Gesetzes sind auch die Abnahme und die
-Erleichterung einer Pflicht und die Möglichkeit, Maßnahmen des
+(2) Vorteile im Sinne dieses Gesetzes sind auch die Abnahme und
+die Erleichterung einer Pflicht und die Möglichkeit, Maßnahmen des
 Verbands zweckmäßig oder wirtschaftlich auszunutzen.
 
 
@@ -297,19 +251,14 @@ der Verbandsaufgaben nicht beeinträchtigt wird.
     schiffbarer Gewässer, sofern die Maßnahmen zweckmäßig durch einen
     Verband durchgeführt werden können,
 
-
 2.  zur Beseitigung von Abwasser, sofern dieses zu erheblichen Schäden auf
     dem Gebiet der Wasserwirtschaft führt, die auf andere Weise zweckmäßig
     nicht verhindert werden können,
 
-
-3.  zur Durchführung von Unternehmen, die zum Schutz der Umwelt oder der
-    Natur oder zur Landschaftspflege geboten sind, sofern die hierzu
-    erforderlichen Maßnahmen zweckmäßig nur durch einen Verband
+3.  zur Durchführung von Unternehmen, die zum Schutz der Umwelt oder
+    der Natur oder zur Landschaftspflege geboten sind, sofern die
+    hierzu erforderlichen Maßnahmen zweckmäßig nur durch einen Verband
     durchgeführt werden können.
-
-
-
 
 (3) § 43 des Flurbereinigungsgesetzes bleibt unberührt.
 
@@ -317,43 +266,42 @@ der Verbandsaufgaben nicht beeinträchtigt wird.
 ### Zweiter Abschnitt - Errichtungsverfahren
 
 
-
 #### § 11 Einleitung des Errichtungsverfahrens
 
-(1) Das Verfahren zur Errichtung des Verbands wird durch einen Antrag
-eines oder mehrerer der festzustellenden Beteiligten bei der
-zuständigen Aufsichtsbehörde oder durch diese von Amts wegen
+(1) Das Verfahren zur Errichtung des Verbands wird durch einen
+Antrag eines oder mehrerer der festzustellenden Beteiligten bei
+der zuständigen Aufsichtsbehörde oder durch diese von Amts wegen
 eingeleitet.
 
-(2) Dem Antrag sind Unterlagen beizufügen, welche die Aufgaben, das
-Gebiet, den Umfang und das Unternehmen des Verbands umschreiben
-(Errichtungsunterlagen). Zu den Errichtungsunterlagen gehören der Plan
-für das Unternehmen einschließlich eines Kostenanschlages, eine
+(2) Dem Antrag sind Unterlagen beizufügen, welche die Aufgaben,
+das Gebiet, den Umfang und das Unternehmen des Verbands umschreiben
+(Errichtungsunterlagen). Zu den Errichtungsunterlagen gehören der
+Plan für das Unternehmen einschließlich eines Kostenanschlages, eine
 Darstellung der Zweckmäßigkeit und der Finanzierung des Unternehmens,
-ein Satzungsentwurf, ein Verzeichnis derjenigen, die Beteiligte werden
-sollen (Name und Anschrift), sowie Tatsachenangaben, aus denen sich
-ermitteln läßt, wie viele Stimmen jeder der festzustellenden
+ein Satzungsentwurf, ein Verzeichnis derjenigen, die Beteiligte
+werden sollen (Name und Anschrift), sowie Tatsachenangaben, aus denen
+sich ermitteln läßt, wie viele Stimmen jeder der festzustellenden
 Beteiligten haben wird.
 
 (3) Die Aufsichtsbehörde kann von dem Antragsteller die Beibringung
 weiterer Unterlagen verlangen.
 
-(4) Werden die Unterlagen nach den Absätzen 2 und 3 innerhalb der von
-der zuständigen Aufsichtsbehörde gesetzten Frist nicht oder nur
+(4) Werden die Unterlagen nach den Absätzen 2 und 3 innerhalb der
+von der zuständigen Aufsichtsbehörde gesetzten Frist nicht oder nur
 unvollständig vorgelegt oder sind die Unterlagen ganz oder teilweise
-ungeeignet, kann die Aufsichtsbehörde den Antrag zurückweisen oder die
-Unterlagen, soweit erforderlich, selbst beschaffen und die Satzung
+ungeeignet, kann die Aufsichtsbehörde den Antrag zurückweisen oder
+die Unterlagen, soweit erforderlich, selbst beschaffen und die Satzung
 selbst entwerfen.
 
 
 #### § 12 Vorarbeiten
 
-(1) Eigentümer und Besitzer von Grundstücken haben zu dulden, daß
-Beauftragte der Aufsichtsbehörde zur Vorbereitung der von ihr nach
-diesem Gesetz im Errichtungsverfahren zu treffenden Maßnahmen die
-Grundstücke betreten und Vermessungen, Boden- und
-Grundwasseruntersuchungen oder vergleichbare Arbeiten ausführen. Die
-Absicht, solche Arbeiten auszuführen, ist den Eigentümern oder
+(1) Eigentümer und Besitzer von Grundstücken haben zu dulden,
+daß Beauftragte der Aufsichtsbehörde zur Vorbereitung der von
+ihr nach diesem Gesetz im Errichtungsverfahren zu treffenden
+Maßnahmen die Grundstücke betreten und Vermessungen, Boden- und
+Grundwasseruntersuchungen oder vergleichbare Arbeiten ausführen.
+Die Absicht, solche Arbeiten auszuführen, ist den Eigentümern oder
 Besitzern mindestens zwei Wochen vorher bekanntzugeben. Wohnungen
 dürfen nur mit Zustimmung der Wohnungsinhaber betreten werden.
 
@@ -366,8 +314,8 @@ Aufsichtsbehörde eine angemessene Entschädigung in Geld zu leisten.
 
 (1) Für das Errichtungsverfahren hat die Aufsichtsbehörde die
 Beteiligten festzustellen. Sie hat ferner die auf jeden Beteiligten
-entfallende Stimmenzahl zu ermitteln. In einem Verfahren mit mehr als
-zwei Beteiligten hat kein Beteiligter mehr als zwei Fünftel aller
+entfallende Stimmenzahl zu ermitteln. In einem Verfahren mit mehr
+als zwei Beteiligten hat kein Beteiligter mehr als zwei Fünftel aller
 Stimmen.
 
 (2) Maßstab für die Festlegung der Stimmenzahl ist grundsätzlich der
@@ -379,35 +327,35 @@ Festlegung der Stimmenzahl der Nachteil. Eine annähernde Ermittlung
 des Vorteils oder Nachteils reicht aus.
 
 (3) Stellt die Aufsichtsbehörde zu Unrecht Personen als Beteiligte
-fest oder unterläßt sie zu Unrecht eine solche Feststellung, hat dies
-auf die Wirksamkeit von Beschlüssen der Beteiligten im
+fest oder unterläßt sie zu Unrecht eine solche Feststellung,
+hat dies auf die Wirksamkeit von Beschlüssen der Beteiligten im
 Errichtungsverfahren sowie auf die Errichtung des Verbands keinen
 Einfluß.
 
 
 #### § 14 Bekanntmachung des Vorhabens, Verhandlungstermin
 
-(1) Die Aufsichtsbehörde hat das Errichtungsvorhaben sowie Zeit und
-Ort der Auslegung der Errichtungsunterlagen öffentlich
-bekanntzumachen. Die Errichtungsunterlagen nach § 11 Abs. 2 bis 4 sind
-für die Dauer von mindestens einem Monat vor dem ersten
+(1) Die Aufsichtsbehörde hat das Errichtungsvorhaben sowie
+Zeit und Ort der Auslegung der Errichtungsunterlagen öffentlich
+bekanntzumachen. Die Errichtungsunterlagen nach § 11 Abs. 2 bis
+4 sind für die Dauer von mindestens einem Monat vor dem ersten
 Verhandlungstermin auszulegen. Die Einsicht in das Verzeichnis
 derjenigen, die Beteiligte werden sollen, ist nur dem gestattet, der
 ein berechtigtes Interesse darlegt.
 
-(2) Die Aufsichtsbehörde hat einen Beschluß der Beteiligten über die
-Errichtung des Verbands sowie über den Plan und die Satzung
+(2) Die Aufsichtsbehörde hat einen Beschluß der Beteiligten über
+die Errichtung des Verbands sowie über den Plan und die Satzung
 herbeizuführen und hierzu einen oder mehrere Verhandlungstermine
-anzuberaumen. In dem Beschluß ist festzustellen, welche Anträge und
-Einwendungen von Beteiligten von der Mehrheit der Beteiligten
+anzuberaumen. In dem Beschluß ist festzustellen, welche Anträge
+und Einwendungen von Beteiligten von der Mehrheit der Beteiligten
 abgelehnt werden.
 
-(3) Die Verhandlungen werden von der Aufsichtsbehörde geleitet; sie
-sind nicht öffentlich. Die Aufsichtsbehörde hat Personen oder Stellen,
-die nicht Beteiligte sind, die Teilnahme an den Verhandlungen zu
-gestatten, wenn diese auf Grund von Rechtsvorschriften an dem
-Errichtungsverfahren zu beteiligen sind. Im übrigen kann sie
-Nichtbeteiligten die Teilnahme gestatten, wenn es für das
+(3) Die Verhandlungen werden von der Aufsichtsbehörde geleitet;
+sie sind nicht öffentlich. Die Aufsichtsbehörde hat Personen oder
+Stellen, die nicht Beteiligte sind, die Teilnahme an den Verhandlungen
+zu gestatten, wenn diese auf Grund von Rechtsvorschriften an
+dem Errichtungsverfahren zu beteiligen sind. Im übrigen kann
+sie Nichtbeteiligten die Teilnahme gestatten, wenn es für das
 Errichtungsverfahren zweckmäßig erscheint.
 
 (4) Anträge sowie Einwendungen müssen die Beteiligten zur Vermeidung
@@ -438,15 +386,15 @@ anberaumt werden, daß Beschlüsse ohne Rücksicht auf die vertretenen
 Stimmenzahlen gefaßt werden können; hierauf ist in der Ladung
 hinzuweisen.
 
-(2) Für die Beschlußfassung genügt einfache Mehrheit der Beteiligten.
-Stimmen von Beteiligten im Sinne des § 14 Abs. 6 sind nur zu
-berücksichtigen, wenn sie übereinstimmend abgegeben sind. Für die
-Vertretung sind die Verfahrensvorschriften des
+(2) Für die Beschlußfassung genügt einfache Mehrheit der
+Beteiligten. Stimmen von Beteiligten im Sinne des § 14 Abs. 6
+sind nur zu berücksichtigen, wenn sie übereinstimmend abgegeben
+sind. Für die Vertretung sind die Verfahrensvorschriften des
 Verwaltungsverfahrensrechts der Länder sinngemäß anzuwenden.
 
 (3) Die Mehrheit wird nach den einheitlich abzugebenden Stimmenzahlen
-oder einem anderen von vier Fünfteln der erschienenen Beteiligten nach
-Kopfzahl beschlossenen Maßstab errechnet. Ordnungsgemäß geladene
+oder einem anderen von vier Fünfteln der erschienenen Beteiligten
+nach Kopfzahl beschlossenen Maßstab errechnet. Ordnungsgemäß geladene
 Beteiligte, die an der Abstimmung nicht teilnehmen, werden so
 behandelt, als hätten sie der Errichtung zugestimmt, sofern sie dem
 nicht vor dem Termin schriftlich widersprochen haben. Hierauf ist in
@@ -489,11 +437,11 @@ nicht wiederholt zu werden.
 
 #### § 18 Entscheidung über Anträge und Einwendungen eines Beteiligten
 
-(1) Über Anträge und Einwendungen eines Beteiligten im Sinne des § 14
-Abs. 4, die von der Mehrheit im Verhandlungstermin abgelehnt worden
-sind, entscheidet die Aufsichtsbehörde auf schriftlichen Antrag des
-Beteiligten durch besonderen Bescheid; dieser Antrag kann nur
-innerhalb eines Monats nach der öffentlichen Bekanntmachung der
+(1) Über Anträge und Einwendungen eines Beteiligten im Sinne des
+§ 14 Abs. 4, die von der Mehrheit im Verhandlungstermin abgelehnt
+worden sind, entscheidet die Aufsichtsbehörde auf schriftlichen
+Antrag des Beteiligten durch besonderen Bescheid; dieser Antrag kann
+nur innerhalb eines Monats nach der öffentlichen Bekanntmachung der
 Satzung des Verbands gestellt werden.
 
 (2) Über abgelehnte Anträge und Einwendungen eines Beteiligten in
@@ -505,18 +453,18 @@ durch besonderen Bescheid.
 #### § 19 Änderung der Errichtungsunterlagen
 
 (1) Wird einem Antrag nach § 18 Abs. 1 durch eine nicht mehr
-anfechtbare Entscheidung stattgegeben und ist infolgedessen eine
-Änderung der Errichtungsunterlagen erforderlich, haben die
+anfechtbare Entscheidung stattgegeben und ist infolgedessen
+eine Änderung der Errichtungsunterlagen erforderlich, haben die
 Verbandsmitglieder einen entsprechenden Beschluß zu fassen. Kommt ein
 Beschluß nicht innerhalb von sechs Monaten nach Unanfechtbarkeit der
 in Satz 1 genannten Entscheidung zustande, ändert die Aufsichtsbehörde
-die Errichtungsunterlagen; die Änderung ist - soweit erforderlich - zu
-begründen.
+die Errichtungsunterlagen; die Änderung ist - soweit erforderlich -
+zu begründen.
 
-(2) Wird einem Antrag oder Einwendungen nach § 18 Abs. 2 durch eine
-nicht mehr anfechtbare Entscheidung stattgegeben, hat die
-Aufsichtsbehörde die Errichtungsunterlagen im erforderlichen Umfang zu
-ändern.
+(2) Wird einem Antrag oder Einwendungen nach § 18 Abs. 2 durch
+eine nicht mehr anfechtbare Entscheidung stattgegeben, hat die
+Aufsichtsbehörde die Errichtungsunterlagen im erforderlichen Umfang
+zu ändern.
 
 (3) Nachträgliche Änderungen der Errichtungsunterlagen sind von der
 Aufsichtsbehörde öffentlich bekanntzumachen.
@@ -550,9 +498,7 @@ aus der Wahrnehmung seiner Interessen erwachsen.
 ## Dritter Teil - Rechtsverhältnisse des Verbands zu seinen Mitgliedern und Dritten
 
 
-
 ### Erster Abschnitt - Mitgliedschaft
-
 
 
 #### § 22 Mitgliedschaft
@@ -582,15 +528,15 @@ oder eine bestehende Mitgliedschaft erweitern.
 
 (1) Verbandsmitglieder, deren Vorteil aus der Durchführung der
 Verbandsaufgabe oder deren Last entfallen ist, sind berechtigt, die
-Aufhebung ihrer Mitgliedschaft zu verlangen. Dies gilt nicht, wenn das
-Verbandsmitglied den Vorteil durch eigene Maßnahmen beseitigt hat oder
-wenn durch die Aufhebung der Mitgliedschaft erhebliche Nachteile für
-das öffentliche Interesse, den Verband oder dessen Gläubiger zu
+Aufhebung ihrer Mitgliedschaft zu verlangen. Dies gilt nicht, wenn
+das Verbandsmitglied den Vorteil durch eigene Maßnahmen beseitigt hat
+oder wenn durch die Aufhebung der Mitgliedschaft erhebliche Nachteile
+für das öffentliche Interesse, den Verband oder dessen Gläubiger zu
 besorgen sind; Nachteile für den Verband sind insbesondere in den
 Fällen des § 8 Abs. 1 Nr. 2 und 3 anzunehmen.
 
-(2) Über den Antrag auf Aufhebung der Mitgliedschaft entscheidet der
-Vorstand. Will er dem Antrag stattgeben, hat er dies der
+(2) Über den Antrag auf Aufhebung der Mitgliedschaft entscheidet
+der Vorstand. Will er dem Antrag stattgeben, hat er dies der
 Aufsichtsbehörde anzuzeigen. Diese kann der Absicht innerhalb von zwei
 Monaten aus den in Absatz 1 Satz 2 aufgeführten Gründen widersprechen;
 widerspricht sie, so ist die Aufhebung der Mitgliedschaft nicht
@@ -607,13 +553,9 @@ Aufhebung der Mitgliedschaft zu verhüten.
 
 a)  § 23 Abs. 1 die Verbandsversammlung oder der Verbandsausschuß,
 
-
 b)  § 23 Abs. 2 der Vorstand sowie die künftigen Verbandsmitglieder
 
-
 c)  § 24 Abs. 1 die Verbandsversammlung oder der Verbandsausschuß
-
-
 
 zu hören.
 
@@ -649,15 +591,14 @@ sind, als dies für die Festlegung ihrer Beiträge erforderlich ist.
 
 Vorstandsmitglieder, Mitglieder des Verbandsausschusses,
 Geschäftsführer sowie Personen im Sinne des § 26 Abs. 2 sind
-verpflichtet, über alle ihnen bei der Durchführung ihrer Aufgaben
-bekanntwerdenden Tatsachen und Rechtsverhältnisse Verschwiegenheit zu
-bewahren. Im übrigen bleiben die Vorschriften der
-Verwaltungsverfahrensgesetze der Länder über die
+verpflichtet, über alle ihnen bei der Durchführung ihrer
+Aufgaben bekanntwerdenden Tatsachen und Rechtsverhältnisse
+Verschwiegenheit zu bewahren. Im übrigen bleiben die
+Vorschriften der Verwaltungsverfahrensgesetze der Länder über die
 Verschwiegenheitspflicht unberührt.
 
 
 ### Zweiter Abschnitt - Verbandsbeiträge
-
 
 
 #### § 28 Verbandsbeiträge
@@ -671,10 +612,10 @@ Aufgaben erforderlich ist.
 Leistungen (Sachbeiträge) erheben.
 
 (3) Wer, ohne Verbandsmitglied zu sein, als Eigentümer eines
-Grundstücks oder einer Anlage, als Inhaber von Bergwerkseigentum oder
-als Unterhaltungspflichtiger von Gewässern von dem Unternehmen des
-Verbands einen Vorteil hat (Nutznießer), kann mit Zustimmung der
-Aufsichtsbehörde wie ein Mitglied zu Geldbeiträgen herangezogen
+Grundstücks oder einer Anlage, als Inhaber von Bergwerkseigentum
+oder als Unterhaltungspflichtiger von Gewässern von dem Unternehmen
+des Verbands einen Vorteil hat (Nutznießer), kann mit Zustimmung
+der Aufsichtsbehörde wie ein Mitglied zu Geldbeiträgen herangezogen
 werden. Der Nutznießer ist vorher anzuhören.
 
 (4) Die Beitragspflicht nach den Absätzen 1 und 3 besteht nur
@@ -682,10 +623,10 @@ insoweit, als die Verbandsmitglieder oder Nutznießer einen Vorteil
 haben oder der Verband für sie ihnen obliegende Leistungen erbringt
 oder von ihnen ausgehenden nachteiligen Einwirkungen begegnet.
 
-(5) Soweit Eigentümer, die nur für die Benutzung ihres Grundstücks zur
-Durchleitung von Wasser, für eine Deichanlage oder für ein Schöpfwerk
-zum Verband zugezogen worden sind, keinen Vorteil haben und keine
-nachteiligen Einwirkungen verursachen, sind sie von allen
+(5) Soweit Eigentümer, die nur für die Benutzung ihres Grundstücks
+zur Durchleitung von Wasser, für eine Deichanlage oder für ein
+Schöpfwerk zum Verband zugezogen worden sind, keinen Vorteil haben
+und keine nachteiligen Einwirkungen verursachen, sind sie von allen
 Verbandsbeitragskosten frei.
 
 (6) Die Satzung kann für besondere Härtefälle eine vollständige oder
@@ -694,17 +635,17 @@ teilweise Befreiung von der Verbandsbeitragszahlung vorsehen.
 
 #### § 29 Öffentliche Last
 
-Verbandsbeiträge sind öffentliche Abgaben. Die Beitragspflicht der
-dinglichen Verbandsmitglieder ruht als öffentliche Last auf den
-Grundstücken, Bergwerken und Anlagen, mit denen die dinglichen
+Verbandsbeiträge sind öffentliche Abgaben. Die Beitragspflicht
+der dinglichen Verbandsmitglieder ruht als öffentliche Last auf
+den Grundstücken, Bergwerken und Anlagen, mit denen die dinglichen
 Verbandsmitglieder an dem Verband teilnehmen.
 
 
 #### § 30 Maßstab für Verbandsbeiträge
 
-(1) Der Beitrag der Verbandsmitglieder und der Nutznießer bemißt sich
-nach dem Vorteil, den sie von der Aufgabe des Verbands haben, sowie
-den Kosten, die der Verband auf sich nimmt, um ihnen obliegende
+(1) Der Beitrag der Verbandsmitglieder und der Nutznießer bemißt
+sich nach dem Vorteil, den sie von der Aufgabe des Verbands haben,
+sowie den Kosten, die der Verband auf sich nimmt, um ihnen obliegende
 Leistungen zu erbringen oder den von ihnen ausgehenden nachteiligen
 Einwirkungen zu begegnen. Für die Festlegung des Beitragsmaßstabs
 reicht eine annähernde Ermittlung der Vorteile und Kosten aus.
@@ -744,12 +685,11 @@ festsetzen.
 ### Dritter Abschnitt - Benutzung von Grundstücken
 
 
-
 #### § 33 Benutzung der Grundstücke dinglicher Verbandsmitglieder
 
 (1) Der Verband ist berechtigt, Grundstücke, welche die dingliche
-Mitgliedschaft bei ihm oder einem seiner Unterverbände begründen, zu
-betreten und zu benutzen, soweit dies für die Durchführung des
+Mitgliedschaft bei ihm oder einem seiner Unterverbände begründen,
+zu betreten und zu benutzen, soweit dies für die Durchführung des
 Unternehmens erforderlich ist.
 
 (2) Die Satzung kann zur leichteren Durchführung der Verbandsaufgaben
@@ -762,11 +702,11 @@ im Verbandsgebiet belegenen Grundstücken entnommen werden.
 
 #### § 34 Deichvorland
 
-Hat der Verband Grundstücke vor Hochwasser oder Sturmflut zu schützen,
-hat er die Befugnisse nach § 33 auch an dem nicht zu ihm gehörenden
-Deichvorland, wenn nicht ordnungsbehördliche Vorschriften
-entgegenstehen; für das Unternehmen benötigte Stoffe kann er -
-vorbehaltlich nach anderen Rechtsvorschriften erforderlicher
+Hat der Verband Grundstücke vor Hochwasser oder Sturmflut zu
+schützen, hat er die Befugnisse nach § 33 auch an dem nicht zu ihm
+gehörenden Deichvorland, wenn nicht ordnungsbehördliche Vorschriften
+entgegenstehen; für das Unternehmen benötigte Stoffe kann er
+- vorbehaltlich nach anderen Rechtsvorschriften erforderlicher
 Genehmigungen - auch aus diesem Deichvorland entnehmen.
 
 
@@ -781,16 +721,16 @@ nicht durch entsprechende Maßnahmen ausgeglichen werden kann.
 
 #### § 36 Ausgleich für Nachteile
 
-(1) Entstehen durch die Benutzung von Grundstücken nach den §§ 33 bis
-35 dem Betroffenen unmittelbare Vermögensnachteile, kann er einen
+(1) Entstehen durch die Benutzung von Grundstücken nach den §§ 33
+bis 35 dem Betroffenen unmittelbare Vermögensnachteile, kann er einen
 Ausgleich verlangen.
 
 (2) Kann der Ausgleich nicht durch Maßnahmen im Rahmen des
 Unternehmens durchgeführt werden, ist eine angemessene Entschädigung
 in Geld zu leisten. Bei der Festsetzung der Entschädigung bleiben eine
 Beeinträchtigung der Nutzung und eine Wertminderung des Grundstücks
-außer Ansatz, soweit sie bei Durchführung des Unternehmens durch einen
-Vorteil ausgeglichen werden, der bei der Festsetzung eines
+außer Ansatz, soweit sie bei Durchführung des Unternehmens durch
+einen Vorteil ausgeglichen werden, der bei der Festsetzung eines
 Verbandsbeitrags unberücksichtigt bleibt.
 
 
@@ -805,15 +745,15 @@ Vorstand darüber durch schriftlichen Bescheid.
 Sind Vermögensnachteile im Sinne des § 36 so wesentlich, daß das
 benutzte Grundstück für den Betroffenen nur noch einen verhältnismäßig
 geringen oder keinen wirtschaftlichen Wert mehr hat, kann er
-verlangen, daß der Verband das Grundstück zu Eigentum erwirbt. Für die
-Ermittlung des Gegenwertes ist der Zeitpunkt der Benutzung des
+verlangen, daß der Verband das Grundstück zu Eigentum erwirbt. Für
+die Ermittlung des Gegenwertes ist der Zeitpunkt der Benutzung des
 Grundstücks durch den Verband maßgeblich.
 
 
 #### § 39 Rechtsverhältnisse bei abgeleiteten Grundstücksnutzungen
 
-(1) Wird ein zum Verband gehörendes Grundstück zu der Zeit, zu der es
-von dem Unternehmen betroffen wird, auf Grund eines vom Eigentümer
+(1) Wird ein zum Verband gehörendes Grundstück zu der Zeit, zu der
+es von dem Unternehmen betroffen wird, auf Grund eines vom Eigentümer
 abgeleiteten Rechts genutzt, hat der Nutzungsberechtigte vorbehaltlich
 einer abweichenden vertraglichen Regelung gegen den Eigentümer
 Anspruch auf die durch das Verbandsunternehmen entstehenden Vorteile.
@@ -827,16 +767,11 @@ eines Jahres
 1.  ein Pacht- oder Mietverhältnis unter Einhaltung einer Frist von drei
     Monaten zum Ende des Vertragsjahres kündigen,
 
-
 2.  die Aufhebung eines anderen Nutzungsrechts ohne Einhaltung einer Frist
     verlangen.
 
 
-
-
-
 ### Vierter Abschnitt - Enteignung für das Unternehmen
-
 
 
 #### § 40 Zweck und Gegenstand der Enteignung
@@ -845,28 +780,22 @@ eines Jahres
 
 (2) Die Enteignung darf sich nur auf die zum Verbandsgebiet oder
 Unterverbandsgebiet gehörenden Grundstücke und das nicht dazu
-gehörende Deichvorland erstrecken; grundstücksgleiche Rechte stehen
-den Grundstücken und dem Eigentum an Grundstücken gleich,
+gehörende Deichvorland erstrecken; grundstücksgleiche Rechte
+stehen den Grundstücken und dem Eigentum an Grundstücken gleich,
 Grundstücksteile gelten als Grundstücke.
 
 (3) Durch Enteignung können
 
 1.  das Eigentum an Grundstücken entzogen oder belastet werden,
 
-
 2.  andere Rechte an Grundstücken entzogen oder belastet werden,
-
 
 3.  Rechte entzogen werden, die zum Erwerb, zum Besitz oder zur Nutzung
     von Grundstücken berechtigen oder die den Verpflichteten in der
     Benutzung von Grundstücken beschränken oder
 
-
 4.  Rechtsverhältnisse begründet werden, die Rechte der in Nummer 3
     bezeichneten Art gewähren.
-
-
-
 
 
 #### § 41 Zulässigkeit und Umfang der Enteignung
@@ -876,19 +805,19 @@ der Allgemeinheit sie erfordert und der Enteignungszweck auf andere
 zumutbare Weise nicht erreicht werden kann. Die Enteignung setzt
 voraus, daß der Verband sich ohne Erfolg ernsthaft um den freihändigen
 Erwerb des Gegenstands der Enteignung (§ 40) zu angemessenen
-Bedingungen bemüht hat. Der Verband hat glaubhaft zu machen, daß der
-Gegenstand der Enteignung innerhalb angemessener Frist zu dem
+Bedingungen bemüht hat. Der Verband hat glaubhaft zu machen, daß
+der Gegenstand der Enteignung innerhalb angemessener Frist zu dem
 vorgesehenen Zweck verwendet werden wird.
 
 (2) Ein Grundstück darf nur in dem Umfang enteignet werden, in dem
 dies zur Verwirklichung des Enteignungszwecks erforderlich ist. Reicht
-eine Belastung des Grundstücks mit einem Recht zur Verwirklichung des
-Enteignungszwecks aus, so ist die Enteignung hierauf zu beschränken.
-Soll ein Grundstück oder ein räumlich oder wirtschaftlich
+eine Belastung des Grundstücks mit einem Recht zur Verwirklichung
+des Enteignungszwecks aus, so ist die Enteignung hierauf zu
+beschränken. Soll ein Grundstück oder ein räumlich oder wirtschaftlich
 zusammenhängender Grundbesitz nur zum Teil enteignet werden, so ist
-auf Antrag des Eigentümers die Enteignung auf das Restgrundstück oder
-den Restbesitz insoweit auszudehnen, als das Restgrundstück oder der
-Restbesitz nicht mehr in angemessenem Umfang baulich oder
+auf Antrag des Eigentümers die Enteignung auf das Restgrundstück
+oder den Restbesitz insoweit auszudehnen, als das Restgrundstück
+oder der Restbesitz nicht mehr in angemessenem Umfang baulich oder
 wirtschaftlich genutzt werden kann.
 
 
@@ -908,7 +837,6 @@ belegen sind.
 ### Fünfter Abschnitt - Verbandsschau
 
 
-
 #### § 44 Verbandsschau, Schaubeauftragte
 
 (1) Zur Feststellung des Zustands der von dem Verband zu betreuenden
@@ -926,8 +854,8 @@ Abweichungen hiervon vorsehen.
 
 #### § 45 Durchführung der Verbandsschau
 
-(1) Der Vorstand bestimmt Ort und Zeit der Verbandsschau. Er hat die
-Schaubeauftragten, die Aufsichtsbehörde und sonstige Beteiligte,
+(1) Der Vorstand bestimmt Ort und Zeit der Verbandsschau. Er hat
+die Schaubeauftragten, die Aufsichtsbehörde und sonstige Beteiligte,
 insbesondere technische und landwirtschaftliche Fachbehörden,
 rechtzeitig zur Verbandsschau einzuladen.
 
@@ -941,12 +869,11 @@ unterzeichnen.
 ## Vierter Teil - Verbandsverfassung
 
 
-
 ### § 46 Organe
 
 (1) Organe des Verbands sind die Versammlung der Verbandsmitglieder
-(Verbandsversammlung) und der Vorstand. Die Satzung kann bestimmen,
-daß der Verband anstelle der Verbandsversammlung einen
+(Verbandsversammlung) und der Vorstand. Die Satzung kann
+bestimmen, daß der Verband anstelle der Verbandsversammlung einen
 Verbandsausschuß als Vertreterversammlung der Verbandsmitglieder hat.
 
 (2) Die Organe können eine andere Bezeichnung führen.
@@ -959,40 +886,28 @@ Verbandsausschuß als Vertreterversammlung der Verbandsmitglieder hat.
 1.  Wahl und Abberufung der Vorstandsmitglieder sowie ihrer
     Stellvertreter,
 
-
-2.  Beschlußfassung über Änderungen der Satzung, des Unternehmens, des
-    Plans oder der Aufgaben sowie über die Grundsätze der
+2.  Beschlußfassung über Änderungen der Satzung, des Unternehmens,
+    des Plans oder der Aufgaben sowie über die Grundsätze der
     Geschäftspolitik,
-
 
 3.  Beschlußfassung über die Umgestaltung und die Auflösung des Verbands,
 
-
 4.  Wahl der Schaubeauftragten,
-
 
 5.  Festsetzung des Haushaltsplans sowie von Nachtragshaushaltsplänen,
 
-
 6.  Einspruch gegen eine Zwangsfestsetzung des Haushaltsplans,
 
-
 7.  Entlastung des Vorstands,
-
 
 8.  Festsetzung von Grundsätzen für Dienst- und Anstellungsverhältnisse
     und von Vergütungen für Vorstandsmitglieder und Mitglieder des
     Verbandsausschusses,
 
-
 9.  Beschlußfassung über Rechtsgeschäfte zwischen Vorstandsmitgliedern und
     den Verband,
 
-
 10. Beratung des Vorstands in allen wichtigen Angelegenheiten.
-
-
-
 
 (2) Die Satzung kann weitere Aufgaben vorsehen.
 
@@ -1004,12 +919,12 @@ mindestens einmal im Jahr, ein; die Sitzungen der Verbandsversammlung
 sind nicht öffentlich. Die Satzung kann eine abweichende Regelung
 vorsehen.
 
-(2) Für die Beschlußfähigkeit und die Beschlußfassung der
-Verbandsversammlung gelten, soweit dieses Gesetz oder die Satzung
-nichts anderes bestimmt, die Vorschriften der
+(2) Für die Beschlußfähigkeit und die Beschlußfassung
+der Verbandsversammlung gelten, soweit dieses Gesetz oder
+die Satzung nichts anderes bestimmt, die Vorschriften der
 Verwaltungsverfahrensgesetze der Länder über die Ausschüsse; für die
-Beschlußfähigkeit genügt jedoch die Anwesenheit von einem Zehntel der
-Mitglieder.
+Beschlußfähigkeit genügt jedoch die Anwesenheit von einem Zehntel
+der Mitglieder.
 
 (3) Für das Stimmrecht der Mitglieder gelten § 13 Abs. 1 Satz 3 sowie
 Abs. 2, § 14 Abs. 6 zweiter Halbsatz und § 15 Abs. 2 Sätze 2 und 3
@@ -1029,8 +944,8 @@ Verbandsversammlung gelten für den Verbandsausschuß entsprechend,
 sofern dieses Gesetz keine abweichende Regelung trifft.
 
 (2) Die Verbandsmitglieder wählen die Mitglieder des
-Verbandsausschusses in durch die Satzung bestimmten Zeitabständen aus
-ihrer Mitte in einer Mitgliederversammlung; die Satzung kann ein
+Verbandsausschusses in durch die Satzung bestimmten Zeitabständen
+aus ihrer Mitte in einer Mitgliederversammlung; die Satzung kann ein
 anderes Wahlverfahren zulassen. Wiederwahl ist möglich. Die Satzung
 kann für jedes Mitglied des Verbandsausschusses einen ständigen
 Vertreter zulassen.
@@ -1060,8 +975,8 @@ Verbandsvorsteher, besteht er aus mehreren Personen, so ist der
 Vorstandsvorsitzende Verbandsvorsteher. Die Stellvertretung im
 Vorstand ist in der Satzung zu regeln.
 
-(2) In der Satzung kann der Personenkreis bestimmt werden, aus dem der
-Vorstand zu wählen ist. Mitglieder des Verbandsausschusses können
+(2) In der Satzung kann der Personenkreis bestimmt werden, aus dem
+der Vorstand zu wählen ist. Mitglieder des Verbandsausschusses können
 nicht zugleich Vorstandsmitglieder sein.
 
 (3) Die Vorstandsmitglieder sind ehrenamtlich tätig; sie können für
@@ -1070,16 +985,16 @@ die Wahrnehmung ihres Amtes eine Entschädigung erhalten.
 
 ### § 53 Wahl und Abberufung der Vorstandsmitglieder
 
-(1) Die Verbandsversammlung wählt den Vorstand für die in der Satzung
-vorgeschriebene Zeit. Werden mehrere Personen zu Vorstandsmitgliedern
-bestellt, wählt die Verbandsversammlung auch den
+(1) Die Verbandsversammlung wählt den Vorstand für die in
+der Satzung vorgeschriebene Zeit. Werden mehrere Personen zu
+Vorstandsmitgliedern bestellt, wählt die Verbandsversammlung auch den
 Vorstandsvorsitzenden. Das Ergebnis der Wahl ist der Aufsichtsbehörde
 anzuzeigen. Nach Ablauf seiner Wahlperiode führt der Vorstand seine
 Geschäfte weiter, bis ein neuer Vorstand gewählt ist.
 
 (2) Die Verbandsversammlung kann ein Vorstandsmitglied aus wichtigem
-Grund mit Zweidrittelmehrheit abberufen. Die Abberufung und ihr Grund
-sind der Aufsichtsbehörde anzuzeigen. Diese kann der Abberufung
+Grund mit Zweidrittelmehrheit abberufen. Die Abberufung und ihr
+Grund sind der Aufsichtsbehörde anzuzeigen. Diese kann der Abberufung
 innerhalb eines Monats nach Eingang der Anzeige unter Angabe der
 Gründe widersprechen, wenn der vorgetragene wichtige Grund nicht
 gegeben ist. Widerspricht die Aufsichtsbehörde, so ist die Abberufung
@@ -1098,12 +1013,12 @@ der Satzung in Übereinstimmung mit den von der Verbandsversammlung
 beschlossenen Grundsätzen. Ihm obliegen alle Geschäfte, zu denen nicht
 durch Gesetz oder Satzung die Verbandsversammlung berufen ist.
 
-(2) Die Vorstandsmitglieder haben bei der Erfüllung ihrer Aufgaben die
-erforderliche Sorgfalt anzuwenden. Sie sind dem Verband insbesondere
-dafür verantwortlich, daß die Bestimmungen der Satzung eingehalten und
-die Beschlüsse der Verbandsversammlung ausgeführt werden. Ein
-Vorstandsmitglied, das seine Obliegenheiten vorsätzlich oder grob
-fahrlässig verletzt, ist dem Verband zum Ersatz des daraus
+(2) Die Vorstandsmitglieder haben bei der Erfüllung ihrer Aufgaben
+die erforderliche Sorgfalt anzuwenden. Sie sind dem Verband
+insbesondere dafür verantwortlich, daß die Bestimmungen der Satzung
+eingehalten und die Beschlüsse der Verbandsversammlung ausgeführt
+werden. Ein Vorstandsmitglied, das seine Obliegenheiten vorsätzlich
+oder grob fahrlässig verletzt, ist dem Verband zum Ersatz des daraus
 entstehenden Schadens verpflichtet. Der Schadenersatzanspruch verjährt
 in drei Jahren von dem Zeitpunkt an, in welchem der Verband von dem
 Schaden und der Person des Ersatzpflichtigen Kenntnis erlangt.
@@ -1121,10 +1036,10 @@ Personen eine Bestätigung über die jeweilige Vertretungsbefugnis.
 
 (2) Erklärungen, durch die der Verband verpflichtet werden soll,
 bedürfen der Schriftform; sie sind nach Maßgabe der für den jeweiligen
-Fall geltenden Regelungen von dem oder den Vertretungsberechtigten zu
-unterzeichnen. Wird für ein Geschäft oder für einen Kreis von
-Geschäften ein Bevollmächtigter bestellt, so bedarf die Vollmacht der
-Form des Satzes 1. Ist eine Erklärung gegenüber dem Vorstand
+Fall geltenden Regelungen von dem oder den Vertretungsberechtigten
+zu unterzeichnen. Wird für ein Geschäft oder für einen Kreis von
+Geschäften ein Bevollmächtigter bestellt, so bedarf die Vollmacht
+der Form des Satzes 1. Ist eine Erklärung gegenüber dem Vorstand
 abzugeben, genügt es, wenn sie einem Vorstandsmitglied oder einem
 vertretungsbefugten Geschäftsführer gegenüber abgegeben wird.
 
@@ -1148,9 +1063,7 @@ Nähere regelt die Satzung.
 ## Fünfter Teil - Satzungsänderung sowie Umgestaltung und Auflösung des Verbands
 
 
-
 ### Erster Abschnitt - Satzungsänderung
-
 
 
 #### § 58 Änderung der Satzung
@@ -1179,27 +1092,22 @@ Satz 2 gilt auch für diesen Fall.
 ### Zweiter Abschnitt - Umgestaltung
 
 
-
 #### § 60 Zusammenschluß
 
 (1) Verbände können sich zu einem neuen Verband zusammenschließen,
 wenn der Umfang der Verbandsaufgaben den Bestand mehrerer Verbände
 nicht mehr rechtfertigt oder Verbandsaufgaben durch einen Verband
-nicht mehr zweckmäßig erfüllt werden können oder die Erfüllung der
-Aufgaben aus anderen Gründen nicht mehr gesichert ist. Der
+nicht mehr zweckmäßig erfüllt werden können oder die Erfüllung
+der Aufgaben aus anderen Gründen nicht mehr gesichert ist. Der
 Zusammenschluß erfolgt
 
 1.  durch Übertragung der Aufgaben, des Vermögens sowie der
     Verpflichtungen eines Verbands oder mehrerer Verbände als Ganzes auf
     einen der sich zusammenschließenden Verbände oder
 
-
 2.  durch Gründung eines neuen Verbands und Übertragung der Aufgaben, des
     Vermögens sowie der Verpflichtungen anderer Verbände als Ganzes auf
     den neuen Verband.
-
-
-
 
 (2) § 58 Abs. 1 Satz 2 und Abs. 2 Satz 1 sowie § 59 Abs. 1 und Abs. 2
 Satz 1 gelten entsprechend.
@@ -1225,7 +1133,6 @@ Landesrecht vorgenommen werden.
 
 
 ### Dritter Abschnitt - Auflösung
-
 
 
 #### § 62 Auflösung des Verbands
@@ -1258,8 +1165,8 @@ erforderlich ist.
 
 (2) Bis zur Beendigung der Abwicklung gelten für die Aufsicht und die
 Rechtsverhältnisse der bisherigen Verbandsmitglieder untereinander
-sowie zu dritten Personen die Vorschriften dieses Gesetzes und die
-Bestimmungen der Satzung, soweit sich nicht aus dem Wesen der
+sowie zu dritten Personen die Vorschriften dieses Gesetzes und
+die Bestimmungen der Satzung, soweit sich nicht aus dem Wesen der
 Abwicklung etwas anderes ergibt.
 
 (3) Auf das Abwicklungsverfahren sind § 48 Abs. 2 und 3, § 49 sowie
@@ -1282,7 +1189,6 @@ Schriften einzusehen und zu benutzen.
 ## Sechster Teil - Rechnungswesen
 
 
-
 ### § 65 Haushalt, Rechnungslegung, Prüfung
 
 Für den Haushalt, die Rechnungslegung sowie deren Prüfung gelten die
@@ -1303,7 +1209,6 @@ erforderlichen Erklärung des Verbands.
 ## Siebter Teil - Verfahrensvorschriften
 
 
-
 ### § 67 Öffentliche Bekanntmachungen
 
 Die in diesem Gesetz vorgeschriebenen öffentlichen Bekanntmachungen
@@ -1315,13 +1220,13 @@ Durch Landesrecht kann eine andere Regelung getroffen werden.
 
 ### § 68 Anordnungsbefugnis
 
-(1) Die Verbandsmitglieder, die Eigentümer des Deichvorlands und die
-auf Grund eines vom Eigentümer abgeleiteten Rechts
+(1) Die Verbandsmitglieder, die Eigentümer des Deichvorlands
+und die auf Grund eines vom Eigentümer abgeleiteten Rechts
 Nutzungsberechtigten haben die auf Gesetz oder Satzung beruhenden
 Anordnungen des Vorstands zu befolgen.
 
-(2) In der Satzung kann bestimmt werden, daß Anordnungsbefugnisse auch
-von einzelnen Vorstandsmitgliedern, Vorstandsmitgliedern eines
+(2) In der Satzung kann bestimmt werden, daß Anordnungsbefugnisse
+auch von einzelnen Vorstandsmitgliedern, Vorstandsmitgliedern eines
 Unterverbands und Dienstkräften des Verbands oder eines Unterverbands
 wahrgenommen werden können.
 
@@ -1340,15 +1245,15 @@ Durchführung dieses Gesetzes dient.
 
 ### § 70 Geltung von Landesrecht
 
-Erstreckt sich das Verbandsgebiet auf mehr als ein Land, gilt für die
-Rechtsverhältnisse des Verbands das Recht des Landes, in dem der
+Erstreckt sich das Verbandsgebiet auf mehr als ein Land, gilt für
+die Rechtsverhältnisse des Verbands das Recht des Landes, in dem der
 Verband seinen Sitz hat.
 
 
 ### § 71 Schiedsgericht
 
-Die Satzung kann die Schaffung eines Schiedsgerichts vorsehen, das bei
-Streitigkeiten über Verbandsangelegenheiten, insbesondere über
+Die Satzung kann die Schaffung eines Schiedsgerichts vorsehen, das
+bei Streitigkeiten über Verbandsangelegenheiten, insbesondere über
 Beitragsangelegenheiten, auf schriftlichen Antrag der Parteien
 entscheidet. Auf das Verfahren vor dem Schiedsgericht finden die
 Verfahrensvorschriften des Zehnten Buches der Zivilprozeßordnung
@@ -1356,7 +1261,6 @@ entsprechend Anwendung.
 
 
 ## Achter Teil - Aufsicht, Oberverband, Unterverband
-
 
 
 ### § 72 Aufsicht, Oberverband, Unterverband
@@ -1396,21 +1300,15 @@ Verlangen das Wort zu erteilen.
 
 1.  zur unentgeltlichen Veräußerung von Vermögensgegenständen,
 
-
 2.  zur Aufnahme von Darlehen, die über eine in der Satzung festzulegende
     Höhe hinausgehen,
-
 
 3.  zur Übernahme von Bürgschaften, zu Verpflichtungen aus Gewährverträgen
     und zur Bestellung von Sicherheiten,
 
-
-4.  zu Rechtsgeschäften mit einem Vorstandsmitglied einschließlich der
-    Vereinbarung von Vergütungen, soweit sie über den Ersatz von
+4.  zu Rechtsgeschäften mit einem Vorstandsmitglied einschließlich
+    der Vereinbarung von Vergütungen, soweit sie über den Ersatz von
     Aufwendungen hinausgehen.
-
-
-
 
 (2) Die Zustimmung ist auch zu Rechtsgeschäften erforderlich, die
 einem in Absatz 1 genannten Geschäft wirtschaftlich gleichkommen.
@@ -1449,25 +1347,20 @@ entsprechend.
 ## Neunter Teil - Übergangs- und Schlußbestimmungen
 
 
-
 ### § 78 Außerkrafttreten
 
-(1)
-Soweit nachfolgend nichts anderes bestimmt ist, treten mit dem
-Inkrafttreten dieses Gesetzes
+(1) *Soweit nachfolgend nichts anderes bestimmt ist, treten mit dem
+Inkrafttreten dieses Gesetzes*
 
-1.  das Gesetz über Wasser- und Bodenverbände in der im Bundesgesetzblatt
+1.  *das Gesetz über Wasser- und Bodenverbände in der im Bundesgesetzblatt
     Teil III, Gliederungsnummer 753-2, veröffentlichten bereinigten
-    Fassung,
+    Fassung,*
 
+2.  *die Erste Verordnung über Wasser- und Bodenverbände in der
+    im Bundesgesetzblatt Teil III, Gliederungsnummer 753-2-1,
+    veröffentlichten bereinigten Fassung*
 
-2.  die Erste Verordnung über Wasser- und Bodenverbände in der im
-    Bundesgesetzblatt Teil III, Gliederungsnummer 753-2-1,
-    veröffentlichten bereinigten Fassung
-
-
-
-mit den dazu erlassenen Ausführungsvorschriften außer Kraft.
+*mit den dazu erlassenen Ausführungsvorschriften außer Kraft.*
 
 (2) Rechtsbehelfsverfahren sowie Verfahren zur Gründung,
 Satzungsänderung, Umgestaltung oder Auflösung von Verbänden, die bei

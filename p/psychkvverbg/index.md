@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zur Verbesserung der ambulanten und teilstationären Versorgung psychisch
-  Kranker
+Title: Gesetz zur Verbesserung der ambulanten und teilstationären Versorgung psychisch Kranker
 jurabk: PsychKVVerbG
 layout: default
 origslug: psychkvverbg
@@ -17,9 +16,7 @@ Fundstelle
 :   BGBl I: 1986, 324
 
 
-
 ## (XXXX) Art 1 bis 3
-
 
 
 ## Art 4 Berlin-Klausel

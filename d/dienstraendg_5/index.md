@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl I: 1984, 998
 
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
@@ -32,8 +31,8 @@ beschlossen:
 
 (2) Für Teilzeitbeschäftigungen, ermäßigte Arbeitszeiten und Urlaub,
 die vor dem Inkrafttreten dieses Gesetzes bewilligt worden sind,
-findet § 14 Abs. 1 Satz 1 Halbsatz 2 des Beamtenversorgungsgesetzes in
-der vor dem Inkrafttreten dieses Gesetzes geltenden Fassung weiter
+findet § 14 Abs. 1 Satz 1 Halbsatz 2 des Beamtenversorgungsgesetzes
+in der vor dem Inkrafttreten dieses Gesetzes geltenden Fassung weiter
 Anwendung.
 
 
@@ -61,13 +60,9 @@ a)  Stabsfeldwebel/Stabsbootsmann mit dem Zusatz "außer Dienst (a.D.)"
     führen, wenn er zuletzt Dienstbezüge aus der Besoldungsgruppe A 9
     erhalten hat, oder
 
-
 b)  Oberstabsfeldwebel/Oberstabsbootsmann mit dem Zusatz "außer Dienst
     (a.D.)" führen, wenn er zuletzt Dienstbezüge aus der Besoldungsgruppe
     A 9 mit Amtszulage erhalten hat.
-
-
-
 
 (2) Einem vor dem 1. Januar 1983 mit dem Dienstgrad Hauptfeldwebel/
 Hauptbootsmann entlassenen Berufssoldaten kann der Bundesminister der
@@ -78,12 +73,9 @@ a)  Stabsfeldwebel/Stabsbootsmann mit dem Zusatz "außer Dienst (a.D.)"
     führen, wenn er zuletzt Dienstbezüge aus der Besoldungsgruppe A 9
     erhalten hat, oder
 
-
 b)  Oberstabsfeldwebel/Oberstabsbootsmann mit dem Zusatz "außer Dienst
     (a.D.)" führen, wenn er zuletzt Dienstbezüge aus der Besoldungsgruppe
     A 9 mit Amtszulage erhalten hat.
-
-
 
 Die Erlaubnis ist zurückzunehmen, wenn der frühere Berufssoldat sich
 ihrer als nicht würdig erweist.

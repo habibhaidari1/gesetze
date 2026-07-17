@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung
-  zum Tierwirt/zur Tierwirtin
+Title: Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung zum Tierwirt/zur Tierwirtin
 jurabk: TWirtAusbStEignV 2005
 layout: default
 origslug: twirtausbsteignv_2005
@@ -20,11 +19,10 @@ Geändert durch
 :   Art. 6 Abs. 28 G v. 23.5.2017 I 1228
 
 
-
 ## Eingangsformel
 
-Auf Grund des § 27 Abs. 3 des Berufsbildungsgesetzes vom 23. März 2005
-(BGBl. I S. 931) verordnet das Bundesministerium für
+Auf Grund des § 27 Abs. 3 des Berufsbildungsgesetzes vom 23.
+März 2005 (BGBl. I S. 931) verordnet das Bundesministerium für
 Verbraucherschutz, Ernährung und Landwirtschaft im Einvernehmen mit
 dem Bundesministerium für Bildung und Forschung nach Anhörung des
 Hauptausschusses des Bundesinstituts für Berufsbildung:
@@ -32,13 +30,13 @@ Hauptausschusses des Bundesinstituts für Berufsbildung:
 
 ## § 1 Mindestanforderungen an die Einrichtung und den wirtschaftlichen Zustand
 
-(1) Die Ausbildungsstätte muss unter Berücksichtigung der in § 27 Abs.
-1 des Berufsbildungsgesetzes genannten Anforderungen ein Betrieb sein,
-der nach Art und Umfang der Produktion sowie nach seinem
-Bewirtschaftungszustand die Voraussetzungen dafür bietet, dass den
-Auszubildenden die in der Verordnung über die Berufsausbildung zum
-Tierwirt/zur Tierwirtin geforderten Fertigkeiten, Kenntnisse und
-Fähigkeiten (berufliche Handlungsfähigkeit) in der gemeinsamen
+(1) Die Ausbildungsstätte muss unter Berücksichtigung der in §
+27 Abs. 1 des Berufsbildungsgesetzes genannten Anforderungen ein
+Betrieb sein, der nach Art und Umfang der Produktion sowie nach
+seinem Bewirtschaftungszustand die Voraussetzungen dafür bietet, dass
+den Auszubildenden die in der Verordnung über die Berufsausbildung
+zum Tierwirt/zur Tierwirtin geforderten Fertigkeiten, Kenntnisse
+und Fähigkeiten (berufliche Handlungsfähigkeit) in der gemeinsamen
 beruflichen Fachbildung und der Ausbildung in der jeweiligen
 Fachrichtung vermittelt werden können. Eine kontinuierliche Anleitung
 muss gewährleistet sein.
@@ -57,30 +55,30 @@ sein.
 (4) Es muss gewährleistet sein, dass die erforderlichen
 Betriebsmittel, insbesondere die Geräte, Maschinen und technischen
 Einrichtungen, für die Ausbildung zur Verfügung stehen und in
-ordnungsgemäßem Zustand sind. Die notwendigen Einrichtungen zu deren
-Pflege sowie für Wartungs- und Instandsetzungsarbeiten müssen
+ordnungsgemäßem Zustand sind. Die notwendigen Einrichtungen zu
+deren Pflege sowie für Wartungs- und Instandsetzungsarbeiten müssen
 vorhanden sein.
 
-(5) Ein Abdruck der Verordnung über die Berufsausbildung zum
-Tierwirt/zur Tierwirtin und der Prüfungsordnung sowie der
-Ausbildungsplan müssen in der Ausbildungsstätte an geeigneter Stelle
-zur Einsicht ausgelegt oder den Auszubildenden ausgehändigt werden.
-Den Auszubildenden soll für die betriebliche Ausbildung förderliche
+(5) Ein Abdruck der Verordnung über die Berufsausbildung zum Tierwirt/
+zur Tierwirtin und der Prüfungsordnung sowie der Ausbildungsplan
+müssen in der Ausbildungsstätte an geeigneter Stelle zur Einsicht
+ausgelegt oder den Auszubildenden ausgehändigt werden. Den
+Auszubildenden soll für die betriebliche Ausbildung förderliche
 Fachliteratur zur Verfügung stehen. Soweit tarifvertragliche
 Regelungen für den Ausbildungsbetrieb gelten, sind diese in der
 Ausbildungsstätte zur Einsicht auszulegen.
 
-(6) Die Ausbildungsstätte muss die Gewähr dafür bieten, dass die
-Vorschriften des Jugendarbeitsschutzgesetzes, des
+(6) Die Ausbildungsstätte muss die Gewähr dafür bieten,
+dass die Vorschriften des Jugendarbeitsschutzgesetzes, des
 Mutterschutzgesetzes, der Unfallverhütungsvorschriften, der
 Arbeitsstättenverordnung und sonstige Vorschriften zum Schutze der
 Auszubildenden eingehalten werden können. Sie muss über geeignete
-Sozialräume und Sanitärräume verfügen. Bei der Antragstellung gemäß §
-27 Abs. 3 des Berufsbildungsgesetzes muss eine
+Sozialräume und Sanitärräume verfügen. Bei der Antragstellung
+gemäß § 27 Abs. 3 des Berufsbildungsgesetzes muss eine
 Unbedenklichkeitsbescheinigung der zuständigen Berufsgenossenschaft
 über die Einhaltung der Unfallverhütungsvorschriften vorliegen, die
-nicht älter als ein Jahr ist. Haben Ausbildende Auszubildende in die
-häusliche Gemeinschaft aufgenommen, so muss eine Unterkunft zur
+nicht älter als ein Jahr ist. Haben Ausbildende Auszubildende in
+die häusliche Gemeinschaft aufgenommen, so muss eine Unterkunft zur
 Verfügung gestellt werden, die zeitgemäß beschaffen und ausgestattet
 ist.
 
@@ -104,10 +102,10 @@ Besamung muss im Betrieb angewandt werden.
 
 (3) Die Ausbildungsstätte in der Fachrichtung Geflügelhaltung muss
 über einen Tierbestand verfügen, der den gesamten Reproduktionsprozess
-der Geflügelhaltung, einschließlich der Mast, umfasst. Im Falle von
-Ausbildungsverbünden muss dies für den Verbund nachgewiesen werden.
-Insbesondere soll der Betrieb auch über Einrichtungen zur
-Eiersortierung und -lagerung sowie zur Schlachtung und
+der Geflügelhaltung, einschließlich der Mast, umfasst. Im Falle
+von Ausbildungsverbünden muss dies für den Verbund nachgewiesen
+werden. Insbesondere soll der Betrieb auch über Einrichtungen
+zur Eiersortierung und -lagerung sowie zur Schlachtung und
 Schlachtkörperaufbereitung verfügen.
 
 (4) Die Ausbildungsstätte in der Fachrichtung Schäferei muss über

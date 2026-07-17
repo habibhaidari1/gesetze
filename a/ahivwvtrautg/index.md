@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zu dem Vertrag vom 31. Mai 1988 zwischen der Bundesrepublik Deutschland
-  und der Republik Österreich über Amts- und Rechtshilfe in Verwaltungssachen
+Title: Gesetz zu dem Vertrag vom 31. Mai 1988 zwischen der Bundesrepublik Deutschland und der Republik Österreich über Amts- und Rechtshilfe in Verwaltungssachen
 jurabk: AHiVwVtrAUTG
 layout: default
 origslug: ahivwvtrautg
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl II: 1990, 357
-
 
 
 ## Eingangsformel
@@ -34,8 +32,8 @@ nachstehend veröffentlicht.
 
 ## Art 2
 
-Die Aufgaben nach Artikel 2 Abs. 1 Satz 3, Artikel 9 und Artikel 10
-Abs. 1 Satz 3 des Vertrags nehmen die von den Landesregierungen
+Die Aufgaben nach Artikel 2 Abs. 1 Satz 3, Artikel 9 und Artikel
+10 Abs. 1 Satz 3 des Vertrags nehmen die von den Landesregierungen
 bestimmten Stellen wahr.
 
 

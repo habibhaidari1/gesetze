@@ -1,7 +1,5 @@
 ---
-Title: Zweihundertfünfzehnte Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung
-  von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Flughafen
-  Niederrhein)
+Title: Zweihundertfünfzehnte Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Flughafen Niederrhein)
 jurabk: LuftVODV 215
 layout: default
 origslug: luftvodv_215
@@ -16,4 +14,7 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BAnz: 2003, Nr 79, 8998
+
+Fundstelle
+:   BAnz: 2003, 8998
 

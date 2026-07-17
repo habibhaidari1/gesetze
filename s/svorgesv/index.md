@@ -29,7 +29,6 @@ verordnet:
 ## I. - Vorgesetztenverhältnis auf Grund der Dienststellung
 
 
-
 ### § 1 Unmittelbare Vorgesetzte
 
 (1) Ein Soldat, der einen militärischen Verband, eine militärische
@@ -44,8 +43,8 @@ Vorgesetzte nicht eingreifen.
 
 ### § 2 Fachvorgesetzte
 
-Ein Soldat, dem nach seiner Dienststellung die Leitung des Fachdiensts
-von Soldaten obliegt, hat die Befugnis, ihnen im Dienst zu
+Ein Soldat, dem nach seiner Dienststellung die Leitung des
+Fachdiensts von Soldaten obliegt, hat die Befugnis, ihnen im Dienst zu
 fachdienstlichen Zwecken Befehle zu erteilen.
 
 
@@ -62,7 +61,6 @@ befinden.
 ## II. - Vorgesetztenverhältnis auf Grund des Dienstgrads
 
 
-
 ### § 4
 
 (1) In den Kompanien und in den entsprechenden Einheiten sowie
@@ -71,19 +69,15 @@ Befehle zu erteilen, zu
 
 1.  den Offizieren gegenüber allen Unteroffizieren und Mannschaften,
 
-
 2.  den Unteroffizieren vom Feldwebel an aufwärts gegenüber allen
     Stabsunteroffizieren, Unteroffizieren und Mannschaften,
-
 
 3.  den Stabsunteroffizieren und den Unteroffizieren gegenüber allen
     Mannschaften.
 
-
-
 An Bord von Schiffen haben die Angehörigen der Besatzung und deren
-unmittelbare Vorgesetzte in und außer Dienst Befehlsbefugnis nach Satz
-1 auch gegenüber Soldaten, die sich nicht im Dienst befinden oder
+unmittelbare Vorgesetzte in und außer Dienst Befehlsbefugnis nach
+Satz 1 auch gegenüber Soldaten, die sich nicht im Dienst befinden oder
 nicht zu bestimmtem Dienst eingeteilt sind, und gegenüber Soldaten,
 die nicht zur Besatzung gehören.
 
@@ -98,7 +92,6 @@ Dienstgradgruppe in und außer Dienst Befehle erteilen.
 
 
 ## III. - Vorgesetztenverhältnis auf Grund besonderer Anordnung
-
 
 
 ### § 5
@@ -118,26 +111,20 @@ Aufgabe notwendig sind.
 ## IV. - Vorgesetztenverhältnis auf Grund eigener Erklärung
 
 
-
 ### § 6
 
-(1) Ein Offizier oder Unteroffizier kann sich in und außer Dienst über
-andere Soldaten, die im Dienstgrad nicht über ihm stehen, zum
+(1) Ein Offizier oder Unteroffizier kann sich in und außer Dienst
+über andere Soldaten, die im Dienstgrad nicht über ihm stehen, zum
 Vorgesetzten erklären, wenn er dies für notwendig hält, weil
 
 1.  eine Notlage sofortige Hilfe erfordert,
 
-
 2.  zur Aufrechterhaltung der Disziplin oder Sicherheit ein sofortiges
     Eingreifen unerläßlich ist oder
-
 
 3.  eine einheitliche Befehlsgebung an Ort und Stelle unabhängig von der
     gliederungsmäßigen Zusammengehörigkeit der Soldaten zur Behebung einer
     kritischen Lage hergestellt werden muß.
-
-
-
 
 (2) Niemand kann sich zum Vorgesetzten von Soldaten erklären, die auf
 Grund der §§ 1 bis 3 und 5 Befehlsbefugnis über ihn haben.
@@ -150,7 +137,6 @@ eingreifen.
 
 
 ## V. - Inkrafttreten
-
 
 
 ### § 7

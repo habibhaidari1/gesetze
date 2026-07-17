@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   GBl DDR I: 1990, 504
 
+Fundstelle
+:   GBl DDR I: 1990, Nr 38, 504
+
 Zuletzt geändert durch
 :   Art. 6 G v. 22.12.1997 I 3251
 
@@ -50,11 +53,11 @@ Republik gegenüber Dritten ein.
 (1) Forderungen der Staatsbank der Deutschen Demokratischen Republik,
 die nach dem Beschluß des Ministerrates Nr. 17/15/90 vom 8. März 1990
 in Verbindung mit dem notariellen Einbringungsvertrag vom 21. Juni
-1990 zwischen der Staatsbank der deutschen Demokratischen Republik und
-der im Handelsregister des Amtsgerichts Charlottenburg unter HRB 34165
-eingetragenen Deutschen Kreditbank Aktiengesellschaft auf die Deutsche
-Kreditbank Aktiengesellschaft übertragen werden sollten, sind mit
-Wirkung vom 1. April 1990 auf die Deutsche Kreditbank
+1990 zwischen der Staatsbank der deutschen Demokratischen Republik
+und der im Handelsregister des Amtsgerichts Charlottenburg unter HRB
+34165 eingetragenen Deutschen Kreditbank Aktiengesellschaft auf die
+Deutsche Kreditbank Aktiengesellschaft übertragen werden sollten,
+sind mit Wirkung vom 1. April 1990 auf die Deutsche Kreditbank
 Aktiengesellschaft übergegangen.
 
 (2) Forderungen der Staatsbank der Deutschen Demokratischen Republik,
@@ -67,18 +70,18 @@ Stadtbank Aktiengesellschaft übertragen werden sollten, sind mit
 Wirkung vom 1. Mai 1990 auf die Berliner Stadtbank Aktiengesellschaft
 übergegangen.
 
-(3) Läßt sich nicht feststellen, daß eine Forderung der Staatsbank der
-Deutschen Demokratischen Republik nach Absatz 1 auf die Deutsche
+(3) Läßt sich nicht feststellen, daß eine Forderung der Staatsbank
+der Deutschen Demokratischen Republik nach Absatz 1 auf die Deutsche
 Kreditbank Aktiengesellschaft oder nach Absatz 2 auf die Berliner
 Stadtbank Aktiengesellschaft übertragen werden oder bei der Staatsbank
 der Deutschen Demokratischen Republik verbleiben sollte, gilt die
-Forderung als zu den in den Absätzen 1 und 2 genannten Zeitpunkten auf
-diejenige Vertragspartei übergegangen oder bei ihr verblieben, die
+Forderung als zu den in den Absätzen 1 und 2 genannten Zeitpunkten
+auf diejenige Vertragspartei übergegangen oder bei ihr verblieben, die
 nach diesen Zeitpunkten die Rechte aus der Forderung geltend gemacht
 hat.
 
-(4) Stand die Forderung einem anderen Gläubiger zu, kann dieser deren
-Übertragung nach den Vorschriften über die Herausgabe einer
+(4) Stand die Forderung einem anderen Gläubiger zu, kann dieser
+deren Übertragung nach den Vorschriften über die Herausgabe einer
 ungerechtfertigten Bereicherung verlangen.
 
 (5) Die vorstehenden Vorschriften sind nicht anzuwenden, soweit über
@@ -100,17 +103,11 @@ geschlossen worden ist.
     -   die Führung des Ausgleichsfonds und weitere ihr in diesem Zusammenhang
         durch die Regierung übertragene Aufgaben;
 
-
     -   die Verwaltung und Abwicklung der bis zur Währungsumstellung
         eingegangenen Anlage- und Refinanzierungsbeziehungen der Staatsbank
         der Deutschen Demokratischen Republik mit den Geschäftsbanken;
 
-
-
-
     -
-
-
 
 2\.
 
@@ -120,15 +117,11 @@ geschlossen worden ist.
     des sozialen Wohnungsbaus und anderer Förderungsprogramme auf dem
     Gebiet der Deutschen Demokratischen Republik;
 
-
-
 4\.
 5\.
 
 6.  die Durchführung von Aufgaben des Zahlungs- und Verrechnungsverkehrs
     von Geld- und Kreditinstituten, insbesondere des Sparkassensektors,
-
-
 
 ungeachtet der Vertragsfreiheit der Geschäftspartner.
 
@@ -166,8 +159,8 @@ Verwaltungsratsvorsitzenden vertreten.
 
 (3) Der Vorstand besteht aus dem Vorsitzenden, dem stellvertretenden
 Vorsitzenden und weiteren ordentlichen und stellvertretenden
-Mitgliedern. Die Vorstandsmitglieder werden vom Verwaltungsrat für
-höchstens 5 Jahre bestellt. Eine wiederholte Bestellung bzw.
+Mitgliedern. Die Vorstandsmitglieder werden vom Verwaltungsrat
+für höchstens 5 Jahre bestellt. Eine wiederholte Bestellung bzw.
 vorzeitige Abberufung ist zulässig.
 
 
@@ -181,28 +174,22 @@ Geschäftspolitik der Bank und überwacht ihre Geschäftsführung.
 1.  dem Vorsitzenden und seinem Stellvertreter, sie werden vom
     Ministerpräsidenten bestellt;
 
-
 2.  fünf Vertretern von wirtschaftlichen Unternehmen, die vom
     Ministerpräsidenten auf Vorschlag von Wirtschaftsverbänden, Industrie-
     und Handelskammern und Handwerkskammern bestellt werden;
 
-
-3.  fünf Vertretern der Landesregierungen; bis zu deren Bildung werden auf
-    Vorschlag der zuständigen Regierungsbeauftragten der Bezirke fünf
+3.  fünf Vertretern der Landesregierungen; bis zu deren Bildung werden
+    auf Vorschlag der zuständigen Regierungsbeauftragten der Bezirke fünf
     Vertreter durch den Ministerpräsidenten bestellt;
-
 
 4.  fünf gewählten Vertretern der Belegschaft.
 
-
-
-
 (3) Die Amtsdauer der Mitglieder des Verwaltungsrates beträgt 3 Jahre.
 
-(4) Der Verwaltungsrat faßt, soweit nichts anderes bestimmt ist, seine
-Beschlüsse mit einfacher Mehrheit der abgegebenen Stimmen, wobei jedes
-Mitglied 1 Stimme hat. Bei Stimmengleichheit entscheidet die Stimme
-des Vorsitzenden. Zur Beschlußfähigkeit ist die Anwesenheit von
+(4) Der Verwaltungsrat faßt, soweit nichts anderes bestimmt ist,
+seine Beschlüsse mit einfacher Mehrheit der abgegebenen Stimmen, wobei
+jedes Mitglied 1 Stimme hat. Bei Stimmengleichheit entscheidet die
+Stimme des Vorsitzenden. Zur Beschlußfähigkeit ist die Anwesenheit von
 mindestens der Hälfte der Mitglieder erforderlich. Die Satzung kann
 eine Beschlußfassung im Wege der schriftlichen Abstimmung oder auf
 eine andere geeignete Art und Weise zulassen.
@@ -258,9 +245,9 @@ nicht für die Bank.
 
 ## § 12
 
-Der Minister der Finanzen nimmt die Staatsaufsicht über die Bank bei
-der Durchführung der ihr mit diesem Gesetz übertragenen Aufgaben in
-Übereinstimmung mit den Regelungen des Staatsvertrages über die
+Der Minister der Finanzen nimmt die Staatsaufsicht über die Bank
+bei der Durchführung der ihr mit diesem Gesetz übertragenen Aufgaben
+in Übereinstimmung mit den Regelungen des Staatsvertrages über die
 Schaffung einer Währungs-, Wirtschafts- und Sozialunion zwischen der
 Deutschen Demokratischen Republik und der Bundesrepublik Deutschland
 wahr.
@@ -268,11 +255,11 @@ wahr.
 
 ## § 13
 
-(1) Der Minister der Finanzen kann zur Ausführung des Artikels 23 Abs.
-7 des Einigungsvertrages durch Rechtsverordnung, die der Zustimmung
-des Bundesministers der Finanzen bedarf, das Vermögen der Bank als
-Ganzes ohne Abwicklung im Wege der Gesamtrechtsnachfolge auf ein
-öffentlich-rechtliches Kreditinstitut in der Bundesrepublik
+(1) Der Minister der Finanzen kann zur Ausführung des Artikels
+23 Abs. 7 des Einigungsvertrages durch Rechtsverordnung, die der
+Zustimmung des Bundesministers der Finanzen bedarf, das Vermögen der
+Bank als Ganzes ohne Abwicklung im Wege der Gesamtrechtsnachfolge
+auf ein öffentlich-rechtliches Kreditinstitut in der Bundesrepublik
 Deutschland oder einen anderen Rechtsträger (Rechtsträger) oder Teile
 des Vermögens der Bank, jeweils als Gesamtheit, ggf. ohne Abwicklung
 auf einen oder mehrere Rechtsträger übertragen. Bei Teilübertragungen
@@ -285,11 +272,11 @@ nicht erfaßt, so ist dieser Teil des Vermögens abzuwickeln.
 (2) Vor dem Erlaß der Verordnung sind die Leitungs- und
 Aufsichtsorgane der Bank und der beteiligten Rechtsträger zu hören.
 
-(3) Die Übertragung wird am Ende des Tages nach der Verkündung der
-Verordnung im Gesetzblatt der Deutschen Demokratischen Republik
-wirksam. Das Vermögen der Bank geht einschließlich der
-Verbindlichkeiten, ggf. nach Maßgabe der in der Verordnung oder in
-ihrer Anlage festgelegten Aufteilung, auf den oder die in der
+(3) Die Übertragung wird am Ende des Tages nach der Verkündung
+der Verordnung im Gesetzblatt der Deutschen Demokratischen
+Republik wirksam. Das Vermögen der Bank geht einschließlich der
+Verbindlichkeiten, ggf. nach Maßgabe der in der Verordnung oder
+in ihrer Anlage festgelegten Aufteilung, auf den oder die in der
 Verordnung bezeichneten Rechtsträger über. § 613a des Bürgerlichen
 Gesetzbuches gilt nicht. Bei einer Übertragung des gesamten Vermögens
 erlischt die Bank. Auf Grund der Übertragung werden keine Steuern

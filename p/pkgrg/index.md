@@ -1,6 +1,5 @@
 ---
-Title: Gesetz über die parlamentarische Kontrolle nachrichtendienstlicher Tätigkeit
-  des Bundes
+Title: Gesetz über die parlamentarische Kontrolle nachrichtendienstlicher Tätigkeit des Bundes
 jurabk: PKGrG
 layout: default
 origslug: pkgrg
@@ -28,7 +27,7 @@ und des Bundesnachrichtendienstes der Kontrolle durch das
 Parlamentarische Kontrollgremium.
 
 (2) Die Rechte des Deutschen Bundestages, seiner Ausschüsse und der
-Kommission nach dem Artikel 10-Gesetz bleiben unberührt.
+Kommission nach dem Artikel 10-Gesetz bleiben unberührt.
 
 
 ## § 2 Mitgliedschaft
@@ -46,16 +45,16 @@ Deutschen Bundestages auf sich vereint.
 Fraktion aus oder wird es Mitglied der Bundesregierung oder
 Parlamentarischer Staatssekretär, so verliert es seine Mitgliedschaft
 im Parlamentarischen Kontrollgremium; § 3 Absatz 4 bleibt unberührt.
-Für dieses Mitglied ist unverzüglich ein neues Mitglied zu wählen; das
-Gleiche gilt, wenn ein Mitglied aus dem Parlamentarischen
+Für dieses Mitglied ist unverzüglich ein neues Mitglied zu wählen;
+das Gleiche gilt, wenn ein Mitglied aus dem Parlamentarischen
 Kontrollgremium ausscheidet.
 
 
 ## § 3 Zusammentritt
 
-(1) Das Parlamentarische Kontrollgremium tritt mindestens einmal im
-Vierteljahr zusammen. Es wählt eine Vorsitzende oder einen
-Vorsitzenden und deren oder dessen Stellvertreterin oder
+(1) Das Parlamentarische Kontrollgremium tritt mindestens
+einmal im Vierteljahr zusammen. Es wählt eine Vorsitzende oder
+einen Vorsitzenden und deren oder dessen Stellvertreterin oder
 Stellvertreter. Es gibt sich eine Geschäftsordnung.
 
 (2) Jedes Mitglied kann die Einberufung und die Unterrichtung des
@@ -75,21 +74,17 @@ hat.
 ## § 4 Pflicht der Bundesregierung zur Unterrichtung
 
 (1) Die Bundesregierung unterrichtet das Parlamentarische
-Kontrollgremium umfassend über die allgemeine Tätigkeit der in § 1
-Absatz 1 genannten Behörden und über Vorgänge von besonderer
+Kontrollgremium umfassend über die allgemeine Tätigkeit der in
+§ 1 Absatz 1 genannten Behörden und über Vorgänge von besonderer
 Bedeutung. Vorgänge von besonderer Bedeutung sind insbesondere
 
 1.  wesentliche Änderungen im Lagebild der äußeren und inneren Sicherheit,
 
-
 2.  behördeninterne Vorgänge mit erheblichen Auswirkungen auf die
     Aufgabenerfüllung,
 
-
 3.  Einzelvorkommnisse, die Gegenstand politischer Diskussionen oder
     öffentlicher Berichterstattung sind.
-
-
 
 Auf Verlangen des Parlamentarischen Kontrollgremiums hat die
 Bundesregierung auch über sonstige Vorgänge zu berichten.
@@ -108,8 +103,8 @@ herauszugeben und in Dateien gespeicherte Daten zu übermitteln. Ihm
 ist jederzeit Zutritt zu sämtlichen Dienststellen der in § 1 genannten
 Behörden zu gewähren.
 
-(2) Es kann Angehörige der Nachrichtendienste, Mitarbeiter und
-Mitglieder der Bundesregierung sowie Beschäftigte anderer
+(2) Es kann Angehörige der Nachrichtendienste, Mitarbeiter
+und Mitglieder der Bundesregierung sowie Beschäftigte anderer
 Bundesbehörden nach Unterrichtung der Bundesregierung befragen oder
 von ihnen schriftliche Auskünfte einholen. Die anzuhörenden Personen
 sind verpflichtet, vollständige und wahrheitsgemäße Angaben zu machen.
@@ -126,15 +121,15 @@ werden.
 
 ## § 5a Ständiger Bevollmächtigter
 
-(1) Das Parlamentarische Kontrollgremium wird durch regelmäßige und
-einzelfallbezogene Untersuchungen einer oder eines Ständigen
+(1) Das Parlamentarische Kontrollgremium wird durch regelmäßige
+und einzelfallbezogene Untersuchungen einer oder eines Ständigen
 Bevollmächtigten des Parlamentarischen Kontrollgremiums (die oder der
 Ständige Bevollmächtigte) unterstützt.
 
 (2) Die oder der Ständige Bevollmächtigte wird auf Weisung des
 Parlamentarischen Kontrollgremiums zur Prüfung von Sachverhalten
-tätig. Die oder der Ständige Bevollmächtigte wird zur Erfüllung ihrer
-oder seiner Aufträge nach Satz 1 im Rahmen der Vorgaben des
+tätig. Die oder der Ständige Bevollmächtigte wird zur Erfüllung
+ihrer oder seiner Aufträge nach Satz 1 im Rahmen der Vorgaben des
 Parlamentarischen Kontrollgremiums nach pflichtgemäßem Ermessen tätig.
 § 5 gilt entsprechend.
 
@@ -147,8 +142,8 @@ reicht. Absatz 2 Satz 2 und 3 gilt entsprechend.
 (4) Die oder der Ständige Bevollmächtigte bereitet die Sitzungen des
 Parlamentarischen Kontrollgremiums und dessen Berichte an das Plenum
 des Deutschen Bundestages vor. Sie oder er nimmt regelmäßig an den
-Sitzungen des Parlamentarischen Kontrollgremiums, der Kommission nach
-dem Artikel 10-Gesetz und des Vertrauensgremiums nach § 10a der
+Sitzungen des Parlamentarischen Kontrollgremiums, der Kommission
+nach dem Artikel 10-Gesetz und des Vertrauensgremiums nach § 10a der
 Bundeshaushaltsordnung teil.
 
 (5) Die oder der Ständige Bevollmächtigte soll dem Parlamentarischen
@@ -166,8 +161,8 @@ Tätigkeit der oder des Ständigen Bevollmächtigten.
 Parlamentarischen Kontrollgremiums von der Präsidentin oder dem
 Präsidenten des Deutschen Bundestages für die Dauer von fünf Jahren
 ernannt. Einmalig ist eine Wiederernennung zulässig. An dem Vorschlag
-für die Ernennung einer oder eines Ständigen Bevollmächtigten wirken
-die gemäß § 9 Absatz 1 Satz 2 anwesenden Mitglieder des
+für die Ernennung einer oder eines Ständigen Bevollmächtigten
+wirken die gemäß § 9 Absatz 1 Satz 2 anwesenden Mitglieder des
 Vertrauensgremiums mit. Der Vorschlag ist beschlossen, wenn die
 Mehrheit der Mitglieder des Kontrollgremiums ihm zustimmt.
 
@@ -201,12 +196,12 @@ Kontrollgremiums beschließen.
 (5) Über die Erteilung einer Genehmigung, als Zeugin oder Zeuge
 auszusagen, entscheidet die Präsidentin oder der Präsident des
 Deutschen Bundestages im Einvernehmen mit dem Parlamentarischen
-Kontrollgremium. Die Genehmigung soll ihr oder ihm nur versagt werden,
-wenn die Aussage dem Wohl des Bundes oder eines deutschen Landes
-Nachteile bereiten oder die Erfüllung öffentlicher Aufgaben ernstlich
-gefährden oder erheblich erschweren würde. Die Genehmigung, ein
-Gutachten zu erstatten, kann versagt werden, wenn die Erstattung den
-dienstlichen Interessen Nachteile bereiten würde. § 28 des
+Kontrollgremium. Die Genehmigung soll ihr oder ihm nur versagt
+werden, wenn die Aussage dem Wohl des Bundes oder eines deutschen
+Landes Nachteile bereiten oder die Erfüllung öffentlicher Aufgaben
+ernstlich gefährden oder erheblich erschweren würde. Die Genehmigung,
+ein Gutachten zu erstatten, kann versagt werden, wenn die Erstattung
+den dienstlichen Interessen Nachteile bereiten würde. § 28 des
 Bundesverfassungsgerichtsgesetzes bleibt unberührt.
 
 
@@ -217,19 +212,19 @@ erstreckt sich nur auf Informationen und Gegenstände, die der
 Verfügungsberechtigung der Nachrichtendienste des Bundes unterliegen.
 Soweit diese nicht besteht, informiert die Bundesregierung das
 Parlamentarische Kontrollgremium. Auf Verlangen des Parlamentarischen
-Kontrollgremiums ergreift die Bundesregierung geeignete Maßnahmen, um
-das Parlamentarische Kontrollgremium über diese Informationen und
+Kontrollgremiums ergreift die Bundesregierung geeignete Maßnahmen,
+um das Parlamentarische Kontrollgremium über diese Informationen und
 Gegenstände unterrichten zu dürfen.
 
-(2) Soweit dies aus zwingenden Gründen des Nachrichtenzugangs oder aus
-Gründen des Schutzes von Persönlichkeitsrechten Dritter notwendig ist
-oder wenn der Kernbereich der exekutiven Eigenverantwortung betroffen
-ist, kann die Bundesregierung sowohl die Unterrichtung nach § 4 als
-auch die Erfüllung von Verlangen nach § 5 Absatz 1 verweigern sowie
-den in § 5 Absatz 2 genannten Personen untersagen, Auskunft zu
-erteilen. Macht die Bundesregierung von diesen Rechten Gebrauch, so
-hat das für den betroffenen Nachrichtendienst zuständige Mitglied der
-Bundesregierung (§ 2 Absatz 1 Satz 2 des
+(2) Soweit dies aus zwingenden Gründen des Nachrichtenzugangs oder
+aus Gründen des Schutzes von Persönlichkeitsrechten Dritter notwendig
+ist oder wenn der Kernbereich der exekutiven Eigenverantwortung
+betroffen ist, kann die Bundesregierung sowohl die Unterrichtung
+nach § 4 als auch die Erfüllung von Verlangen nach § 5 Absatz 1
+verweigern sowie den in § 5 Absatz 2 genannten Personen untersagen,
+Auskunft zu erteilen. Macht die Bundesregierung von diesen
+Rechten Gebrauch, so hat das für den betroffenen Nachrichtendienst
+zuständige Mitglied der Bundesregierung (§ 2 Absatz 1 Satz 2 des
 Bundesverfassungsschutzgesetzes, § 1 Absatz 1 Satz 1 des MAD-Gesetzes,
 § 1 Absatz 1 Satz 1 des BND-Gesetzes) dies dem Parlamentarischen
 Kontrollgremium zu begründen.
@@ -240,8 +235,8 @@ Kontrollgremium zu begründen.
 (1) Das Parlamentarische Kontrollgremium kann mit der Mehrheit von
 zwei Dritteln seiner Mitglieder nach Anhörung der Bundesregierung im
 Einzelfall einen Sachverständigen beauftragen, zur Wahrnehmung seiner
-Kontrollaufgaben Untersuchungen durchzuführen. Der Sachverständige hat
-dem Parlamentarischen Kontrollgremium über das Ergebnis seiner
+Kontrollaufgaben Untersuchungen durchzuführen. Der Sachverständige
+hat dem Parlamentarischen Kontrollgremium über das Ergebnis seiner
 Untersuchungen zu berichten; die §§ 5, 6 und 10 Absatz 1 gelten
 entsprechend.
 
@@ -266,8 +261,8 @@ jedoch nicht im eigenen oder Interesse anderer Angehöriger dieser
 Behörden, ohne Einhaltung des Dienstweges unmittelbar an das
 Parlamentarische Kontrollgremium zu wenden. Wegen der Tatsache der
 Eingabe dürfen sie nicht dienstlich gemaßregelt oder benachteiligt
-werden. Das Parlamentarische Kontrollgremium kann die Eingaben der
-Bundesregierung zur Stellungnahme übermitteln. Der Ständige
+werden. Das Parlamentarische Kontrollgremium kann die Eingaben
+der Bundesregierung zur Stellungnahme übermitteln. Der Ständige
 Bevollmächtigte untersucht Eingaben nach Satz 1 auf Weisung des
 Parlamentarischen Kontrollgremiums. Der Name der mitteilenden Person
 darf nicht bekanntgegeben oder übermittelt werden.
@@ -280,10 +275,10 @@ werden.
 
 ## § 9 Mitberatung
 
-(1) Der Vorsitzende, sein Stellvertreter und ein beauftragtes Mitglied
-können an den Sitzungen des Vertrauensgremiums nach § 10a der
-Bundeshaushaltsordnung mitberatend teilnehmen. In gleicher Weise haben
-der Vorsitzende des Vertrauensgremiums nach § 10a der
+(1) Der Vorsitzende, sein Stellvertreter und ein beauftragtes
+Mitglied können an den Sitzungen des Vertrauensgremiums nach §
+10a der Bundeshaushaltsordnung mitberatend teilnehmen. In gleicher
+Weise haben der Vorsitzende des Vertrauensgremiums nach § 10a der
 Bundeshaushaltsordnung, sein Stellvertreter und ein beauftragtes
 Mitglied die Möglichkeit, mitberatend an den Sitzungen des
 Parlamentarischen Kontrollgremiums teilzunehmen.
@@ -299,26 +294,26 @@ teilnehmen.
 
 ## § 10 Geheime Beratungen, Bewertungen, Sondervoten
 
-(1) Die Beratungen des Parlamentarischen Kontrollgremiums sind geheim.
-Die Mitglieder des Gremiums und die an den Sitzungen teilnehmenden
-Mitglieder des Vertrauensgremiums nach § 10a der
+(1) Die Beratungen des Parlamentarischen Kontrollgremiums sind
+geheim. Die Mitglieder des Gremiums und die an den Sitzungen
+teilnehmenden Mitglieder des Vertrauensgremiums nach § 10a der
 Bundeshaushaltsordnung sowie die oder der Ständige Bevollmächtigte
 sind zur Geheimhaltung der Angelegenheiten verpflichtet, die ihnen bei
 ihrer Tätigkeit im Parlamentarischen Kontrollgremium bekannt geworden
 sind. Dies gilt auch für die Zeit nach ihrem Ausscheiden aus beiden
-Gremien. Das Gleiche gilt für Angelegenheiten, die den Mitgliedern des
-Parlamentarischen Kontrollgremiums anlässlich der Teilnahme an
+Gremien. Das Gleiche gilt für Angelegenheiten, die den Mitgliedern
+des Parlamentarischen Kontrollgremiums anlässlich der Teilnahme an
 Sitzungen des Vertrauensgremiums nach § 10a der Bundeshaushaltsordnung
 bekannt geworden sind.
 
-(2) Absatz 1 gilt nicht für Bewertungen bestimmter Vorgänge, wenn eine
-Mehrheit von zwei Dritteln der anwesenden Mitglieder des
+(2) Absatz 1 gilt nicht für Bewertungen bestimmter Vorgänge, wenn
+eine Mehrheit von zwei Dritteln der anwesenden Mitglieder des
 Parlamentarischen Kontrollgremiums ihre vorherige Zustimmung erteilt
 hat. In diesem Fall ist es jedem einzelnen Mitglied des Gremiums
 erlaubt, eine abweichende Bewertung (Sondervotum) zu veröffentlichen.
 
-(3) Das Parlamentarische Kontrollgremium führt einmal jährlich eine
-öffentliche Anhörung der Präsidentinnen und Präsidenten der
+(3) Das Parlamentarische Kontrollgremium führt einmal jährlich
+eine öffentliche Anhörung der Präsidentinnen und Präsidenten der
 Nachrichtendienste des Bundes durch.
 
 (4) Soweit für die Bewertung des Gremiums oder die Abgabe von
@@ -329,8 +324,8 @@ Belange des Geheimschutzes zu beachten.
 eines Sachverständigen nach § 7 unter Wahrung des Geheimschutzes an
 andere parlamentarische Gremien zur Kontrolle der Nachrichtendienste
 im Bund und in den Ländern sowie an parlamentarische
-Untersuchungsausschüsse des Deutschen Bundestages oder eines Landtages
-übermitteln. Sofern darin als Verschlusssachen eingestufte
+Untersuchungsausschüsse des Deutschen Bundestages oder eines
+Landtages übermitteln. Sofern darin als Verschlusssachen eingestufte
 Informationen enthalten sind, ist eine Übermittlung nur mit Zustimmung
 der Stelle, die die Informationen übermittelt hat, zulässig.
 
@@ -338,33 +333,33 @@ der Stelle, die die Informationen übermittelt hat, zulässig.
 ## § 11 Unterstützung der Mitglieder durch eigene Mitarbeiter
 
 (1) Die Mitglieder des Parlamentarischen Kontrollgremiums haben das
-Recht, zur Unterstützung ihrer Arbeit Mitarbeiter ihrer Fraktion nach
-Anhörung der Bundesregierung mit Zustimmung des Kontrollgremiums zu
-benennen. Voraussetzung für diese Tätigkeit ist die Ermächtigung zum
-Umgang mit Verschlusssachen und die förmliche Verpflichtung zur
+Recht, zur Unterstützung ihrer Arbeit Mitarbeiter ihrer Fraktion
+nach Anhörung der Bundesregierung mit Zustimmung des Kontrollgremiums
+zu benennen. Voraussetzung für diese Tätigkeit ist die Ermächtigung
+zum Umgang mit Verschlusssachen und die förmliche Verpflichtung zur
 Geheimhaltung.
 
-(2) Die benannten Mitarbeiterinnen und Mitarbeiter sind befugt, die
-vom Gremium beigezogenen Akten und Dateien einzusehen und die
-Beratungsgegenstände des Parlamentarischen Kontrollgremiums mit den
-Mitgliedern des Gremiums zu erörtern. Sie haben grundsätzlich keinen
-Zutritt zu den Sitzungen des Kontrollgremiums. Das Gremium kann im
-Einzelfall mit Mehrheit von zwei Dritteln seiner Mitglieder
+(2) Die benannten Mitarbeiterinnen und Mitarbeiter sind befugt,
+die vom Gremium beigezogenen Akten und Dateien einzusehen und die
+Beratungsgegenstände des Parlamentarischen Kontrollgremiums mit
+den Mitgliedern des Gremiums zu erörtern. Sie haben grundsätzlich
+keinen Zutritt zu den Sitzungen des Kontrollgremiums. Das Gremium
+kann im Einzelfall mit Mehrheit von zwei Dritteln seiner Mitglieder
 beschließen, dass Mitarbeiter der Fraktionen an bestimmten Sitzungen
 teilnehmen können. § 10 Absatz 1 gilt entsprechend.
 
 
 ## § 12 Beschäftigte des Kontrollgremiums
 
-(1) Dem Parlamentarischen Kontrollgremium werden zur Unterstützung im
-erforderlichen Umfang Beschäftigte der Bundestagsverwaltung
+(1) Dem Parlamentarischen Kontrollgremium werden zur Unterstützung
+im erforderlichen Umfang Beschäftigte der Bundestagsverwaltung
 beigegeben. Die oder den Ständigen Bevollmächtigten unterstützt eine
-Unterabteilungsleiterin oder ein Unterabteilungsleiter. Die dafür zur
-Verfügung zu stellende Personal- und Sachausstattung ist im Einzelplan
-des Deutschen Bundestages in einem gesonderten Kapitel für die
-parlamentarische Kontrolle der Nachrichtendienste auszuweisen. Für die
-Beschäftigten gelten § 10 Absatz 1 und § 11 Absatz 1 Satz 2
-entsprechend.
+Unterabteilungsleiterin oder ein Unterabteilungsleiter. Die dafür
+zur Verfügung zu stellende Personal- und Sachausstattung ist im
+Einzelplan des Deutschen Bundestages in einem gesonderten Kapitel für
+die parlamentarische Kontrolle der Nachrichtendienste auszuweisen.
+Für die Beschäftigten gelten § 10 Absatz 1 und § 11 Absatz 1 Satz
+2 entsprechend.
 
 (2) Die oder der Ständige Bevollmächtigte ist Vorgesetzte oder
 Vorgesetzter der dem Gremium beigegebenen Beschäftigten. Dies gilt
@@ -389,10 +384,10 @@ bisher in dem Amt als die oder der Ständige Bevollmächtigte in einem
 
 ## § 13 Berichterstattung
 
-Das Parlamentarische Kontrollgremium erstattet dem Deutschen Bundestag
-Bericht über seine bisherige Kontrolltätigkeit, mindestens in der
-Mitte und am Ende jeder Wahlperiode. Dabei nimmt es auch dazu
-Stellung, ob die Bundesregierung gegenüber dem Gremium ihren
+Das Parlamentarische Kontrollgremium erstattet dem Deutschen
+Bundestag Bericht über seine bisherige Kontrolltätigkeit, mindestens
+in der Mitte und am Ende jeder Wahlperiode. Dabei nimmt es auch
+dazu Stellung, ob die Bundesregierung gegenüber dem Gremium ihren
 Pflichten, insbesondere ihrer Unterrichtungspflicht zu Vorgängen von
 besonderer Bedeutung, nachgekommen ist.
 

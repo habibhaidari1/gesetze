@@ -1,6 +1,5 @@
 ---
-Title: Verordnung zur Durchführung des Abkommens zwischen dem Deutschen Reich und
-  der Republik Finnland über Rechtsschutz und Rechtshilfe in Steuersachen
+Title: Verordnung zur Durchführung des Abkommens zwischen dem Deutschen Reich und der Republik Finnland über Rechtsschutz und Rechtshilfe in Steuersachen
 jurabk: RHiStAbkFINDV
 layout: default
 origslug: rhistabkfindv

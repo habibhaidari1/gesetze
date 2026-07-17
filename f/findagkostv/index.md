@@ -16,28 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 1504 (1847)
 
 Zuletzt geändert durch
-:   Art. 13 G v. 12.12.2019 I 2602
-
-Änderung durch
-:   Art. 6 G v. 12.5.2021 I 990 (Nr. 23) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 6 G v. 12.5.2021 I 1063 (Nr. 23) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 9 G v. 3.6.2021 I 1423 (Nr. 29) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 17 Abs. 1 G v. 3.6.2021 I 1498 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 24 G v. 3.6.2021 I 1534 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 26 G v. 3.6.2021 I 1568 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 27 G v. 3.6.2021 I 1568 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 27 G v. 3.6.2021 I 1568
 
 
 ## Eingangsformel
@@ -49,10 +28,7 @@ Auf Grund
     1310) in Verbindung mit dem 2. Abschnitt des Verwaltungskostengesetzes
     vom 23. Juni 1970 (BGBl. I S. 821) und
 
-
 -   des § 16 Satz 2 und 3 des Finanzdienstleistungsaufsichtsgesetzes
-
-
 
 verordnet das Bundesministerium der Finanzen:
 
@@ -60,27 +36,22 @@ verordnet das Bundesministerium der Finanzen:
 ## Abschnitt 1 - (weggefallen)
 
 
-
 ### (XXXX) §§ 1 bis 4 (weggefallen)
-
 
 
 ## Abschnitt 2 - Umlage
 
 
-
 ### (XXXX) §§ 5 bis 12b (weggefallen)
-
 
 
 ## Abschnitt 3 - Übergangs- und Schlussbestimmungen
 
 
-
 ### § 13 Übergangsregelungen
 
-(1) In den Fällen, in denen aufgrund der Übergangsvorschriften der §§
-345 bis 350, 355 des Kapitalanlagegesetzbuches weiterhin
+(1) In den Fällen, in denen aufgrund der Übergangsvorschriften
+der §§ 345 bis 350, 355 des Kapitalanlagegesetzbuches weiterhin
 Amtshandlungen auf Grundlage des Investmentgesetzes erforderlich sind,
 sind die Gebührennummern 4. bis 4.1.3.7 der Anlage (zu § 2 Absatz 1)
 Gebührenverzeichnis in der bis zum 21. Juli 2013 geltenden Fassung
@@ -94,12 +65,11 @@ Verwaltungsverfahren Anwendung.
 ### § 13a (weggefallen)
 
 
-
 ### § 14 Aufhebung von Rechtsvorschriften
 
 Die Umlage-Verordnung Kredit- und Finanzdienstleistungswesen vom 8.
-März 1999 (BGBl. I S. 314), zuletzt geändert durch die Verordnung vom
-20\. Dezember 2001 (BGBl. I S. 3911), und die Umlage-Verordnung-
+März 1999 (BGBl. I S. 314), zuletzt geändert durch die Verordnung
+vom 20. Dezember 2001 (BGBl. I S. 3911), und die Umlage-Verordnung-
 Wertpapierhandel vom 22. Februar 1999 (BGBl. I S. 179), zuletzt
 geändert durch die Verordnung vom 18. April 2001 (BGBl. I S. 611),
 werden aufgehoben. Sie sind in der bis zum Tag vor dem Inkrafttreten
@@ -116,5 +86,4 @@ Diese Verordnung tritt am 1. Mai 2002 in Kraft.
 
 
 ### Anlage (weggefallen)
-
 

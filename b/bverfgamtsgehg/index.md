@@ -16,16 +16,18 @@ Fundstelle
 :   BGBl I: 1964, 133
 
 Zuletzt geändert durch
-:   Art. 15 Abs. 6 G v. 5.2.2009 I 160
+:   Art. 8 G v. 22.12.2023 I Nr. 414
 
 
 ## § 1
 
 (1) Die Mitglieder des Bundesverfassungsgerichts erhalten als
 Amtsgehalt (Dienstbezüge) ein Grundgehalt und einen Familienzuschlag
-entsprechend den §§ 39 bis 41 des Bundesbesoldungsgesetzes. Neben dem
-Amtsgehalt wird dem Präsidenten und dem Vizepräsidenten des
+entsprechend den §§ 39 bis 41 des Bundesbesoldungsgesetzes. Neben
+dem Amtsgehalt wird dem Präsidenten und dem Vizepräsidenten des
 Bundesverfassungsgerichts eine Dienstaufwandsentschädigung gewährt.
+
+(1a) (weggefallen)
 
 (2) Im übrigen gelten die allgemeinen besoldungsrechtlichen und
 beihilferechtlichen Vorschriften, soweit nicht das Gesetz über das

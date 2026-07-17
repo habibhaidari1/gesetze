@@ -22,8 +22,8 @@ Zuletzt geändert durch
 ## § 1
 
 (1) Flächen, die nach Maßgabe der Rechtsakte der Europäischen
-Gemeinschaften oder der Europäischen Union über Direktzahlungen im
-Rahmen der Gemeinsamen Agrarpolitik oder über sonstige
+Gemeinschaften oder der Europäischen Union über Direktzahlungen
+im Rahmen der Gemeinsamen Agrarpolitik oder über sonstige
 Stützungsregelungen für Inhaber landwirtschaftlicher Betriebe
 stillgelegt worden sind, gelten weiterhin als landwirtschaftlich
 genutzte Flächen. Als stillgelegt gelten auch die Flächen, die nach
@@ -33,10 +33,7 @@ Agrarpolitik
 
 1.  für den Anbau von Kurzumtriebswäldern genutzt oder
 
-
 2.  nicht mehr für die Erzeugung genutzt werden,
-
-
 
 soweit diese Flächen für die Nutzung von Zahlungsansprüchen für die
 einheitliche Betriebsprämie oder die Basisprämie angemeldet worden

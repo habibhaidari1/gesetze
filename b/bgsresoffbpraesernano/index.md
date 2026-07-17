@@ -1,6 +1,5 @@
 ---
-Title: Anordnung des Bundespräsidenten über die Ernennung und Entlassung der Grenzschutzoffiziere
-  der Reserve
+Title: Anordnung des Bundespräsidenten über die Ernennung und Entlassung der Grenzschutzoffiziere der Reserve
 jurabk: BGSResOffBPräsErnAnO
 layout: default
 origslug: bgsresoffbpr_sernano
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 1973, 1465
-
 
 
 ## Eingangsformel

@@ -1,7 +1,5 @@
 ---
-Title: Gesetz zu dem Vertrag vom 14. April 2014 zwischen der Bundesrepublik Deutschland
-  und der Weltgemeinschaft Reformierter Kirchen – Körperschaft des öffentlichen Rechts
-  –
+Title: Gesetz zu dem Vertrag vom 14. April 2014 zwischen der Bundesrepublik Deutschland und der Weltgemeinschaft Reformierter Kirchen – Körperschaft des öffentlichen Rechts –
 jurabk: WGemRefKiVtrG
 layout: default
 origslug: wgemrefkivtrg

@@ -27,14 +27,14 @@ Heimat wird eine selbständige Bundesoberbehörde unter der Bezeichnung
 
 (2) Das Bundesverwaltungsamt erledigt in eigener Zuständigkeit
 Verwaltungsaufgaben, die ihm durch dieses Gesetz oder durch andere
-Bundesgesetze zugewiesen werden. Ferner können Verwaltungsaufgaben des
-Bundes dem Bundesverwaltungsamt zur Erledigung in eigener
+Bundesgesetze zugewiesen werden. Ferner können Verwaltungsaufgaben
+des Bundes dem Bundesverwaltungsamt zur Erledigung in eigener
 Zuständigkeit zugewiesen werden, sofern die Übertragung solcher
 Aufgaben auf andere Bundesbehörden durch Bundesgesetz zugelassen ist
 oder wird.
 
-(3) Das Bundesverwaltungsamt erledigt als beauftragte Behörde, soweit
-keine andere Zuständigkeit gesetzlich festgelegt ist,
+(3) Das Bundesverwaltungsamt erledigt als beauftragte Behörde,
+soweit keine andere Zuständigkeit gesetzlich festgelegt ist,
 Verwaltungsaufgaben des Bundes, mit deren Durchführung es vom
 Bundesminister des Innern, für Bau und Heimat oder mit seiner
 Zustimmung von der sachlich zuständigen obersten Bundesbehörde
@@ -43,8 +43,8 @@ beauftragt wird.
 
 ## § 2
 
-(1) Das Bundesverwaltungsamt hat alle Maßnahmen, die der Beratung von
-Auswanderungswilligen, der Vorbereitung der Auswanderung und der
+(1) Das Bundesverwaltungsamt hat alle Maßnahmen, die der Beratung
+von Auswanderungswilligen, der Vorbereitung der Auswanderung und der
 Fürsorge für die Auswanderer dienen, zu treffen.
 
 (2) Das Bundesverwaltungsamt hat hierbei in Zusammenarbeit mit den
@@ -53,24 +53,18 @@ beteiligten Stellen insbesondere folgende Aufgaben:
 1.  Sammlung und Auswertung von Unterlagen, die für die Auswanderung von
     Bedeutung sind,
 
-
 2.  Unterrichtung und Beratung der Dienststellen des Bundes und der
-    Länder, der Auskunfts- und Beratungsstellen von Körperschaften oder
-    Anstalten des öffentlichen Rechts oder von Vereinigungen, die sich die
-    Fürsorge für die Auswanderer zur Aufgabe machen, in allen
+    Länder, der Auskunfts- und Beratungsstellen von Körperschaften
+    oder Anstalten des öffentlichen Rechts oder von Vereinigungen, die
+    sich die Fürsorge für die Auswanderer zur Aufgabe machen, in allen
     Angelegenheiten des Auswanderungswesens,
-
 
 3.  Beobachtung der Auswanderungsbewegung, Benachrichtigung der
     Landesbehörden und Warnung der Öffentlichkeit bei der Feststellung von
     Mißständen im Auswanderungswesen,
 
-
 4.  Begutachtung von Siedlungsvorhaben sowie von beruflichen und
     gewerblichen Niederlassungsmöglichkeiten im Ausland.
-
-
-
 
 (3) Das Bundesverwaltungsamt kann auf dem Gebiet der Einwanderung die
 in Absatz 2 Nr. 1 und 2 bezeichneten Aufgaben wahrnehmen.
@@ -87,10 +81,10 @@ es sich um Aufgaben handelt, die auswärtige Angelegenheiten berühren.
 ## § 4
 
 Das Bundesverwaltungsamt ist zuständig für die Versorgung der früheren
-Bediensteten jüdischer Gemeinden oder öffentlicher Einrichtungen und
-ihrer Hinterbliebenen nach § 31d des Gesetzes zur Regelung der
-Wiedergutmachung nationalsozialistischen Unrechts für Angehörige des
-öffentlichen Dienstes in der Fassung vom 23. Dezember 1955
+Bediensteten jüdischer Gemeinden oder öffentlicher Einrichtungen
+und ihrer Hinterbliebenen nach § 31d des Gesetzes zur Regelung der
+Wiedergutmachung nationalsozialistischen Unrechts für Angehörige
+des öffentlichen Dienstes in der Fassung vom 23. Dezember 1955
 (Bundesgesetzbl. I S. 820, 822).
 
 
@@ -116,10 +110,10 @@ aufzubringenden Kosten.
 
 ## § 8
 
-Soweit im Bundesverwaltungsamt auf Grund des § 1 Abs. 2 oder Abs. 3
-Aufgaben aus einem anderen Geschäftsbereich als dem des
-Bundesministers des Innern, für Bau und Heimat erledigt werden, steht
-das fachliche Weisungsrecht der sachlich zuständigen obersten
+Soweit im Bundesverwaltungsamt auf Grund des § 1 Abs. 2 oder
+Abs. 3 Aufgaben aus einem anderen Geschäftsbereich als dem des
+Bundesministers des Innern, für Bau und Heimat erledigt werden,
+steht das fachliche Weisungsrecht der sachlich zuständigen obersten
 Bundesbehörde zu.
 
 

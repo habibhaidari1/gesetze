@@ -1,6 +1,5 @@
 ---
-Title: Zweite Verordnung zur Änderung der Verordnung zur Durchführung der Vorschriften
-  über Steuerberater, Steuerbevollmächtigte und Steuerberatungsgesellschaften
+Title: Zweite Verordnung zur Änderung der Verordnung zur Durchführung der Vorschriften über Steuerberater, Steuerbevollmächtigte und Steuerberatungsgesellschaften
 jurabk: StBDVÄndV 2
 layout: default
 origslug: stbdv_ndv_2
@@ -17,13 +16,12 @@ Fundstelle
 :   BGBl I: 1996, 1168
 
 
-
 ## Eingangsformel
 
-Auf Grund des § 158 des Steuerberatungsgesetzes in der Fassung der
-Bekanntmachung vom 4. November 1975 (BGBl. I S. 2735), der zuletzt
-durch Gesetz vom 24. Juni 1994 (BGBl. I S. 1387) geändert worden ist,
-verordnet die Bundesregierung nach Anhörung der
+Auf Grund des § 158 des Steuerberatungsgesetzes in der Fassung
+der Bekanntmachung vom 4. November 1975 (BGBl. I S. 2735), der
+zuletzt durch Gesetz vom 24. Juni 1994 (BGBl. I S. 1387) geändert
+worden ist, verordnet die Bundesregierung nach Anhörung der
 Bundessteuerberaterkammer:
 
 

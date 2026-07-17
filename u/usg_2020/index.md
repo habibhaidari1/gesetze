@@ -1,6 +1,5 @@
 ---
-Title: Gesetz über die Leistungen zur Sicherung des Unterhalts von Reservistendienst
-  Leistenden
+Title: Gesetz über die Leistungen zur Sicherung des Unterhalts von Reservistendienst Leistenden
 jurabk: USG 2020
 layout: default
 origslug: usg_2020
@@ -17,9 +16,11 @@ Fundstelle
 :   BGBl I: 2019, 1147, 1179
 
 Zuletzt geändert durch
-:   Art. 20 G v. 20.8.2021 I 3932
+:   Art. 6 G v. 22.12.2025 I Nr. 370
 
-Stand: Ersetzt G 53-8 v. 29.6.2015 I 1061, 1062 (USG)
+Stand
+:   Ersetzt G 53-8 v. 29.6.2015 I 1061, 1062 (USG)
+
 
 ## Kapitel 1 - Allgemeine Vorschriften
 
@@ -28,32 +29,30 @@ Stand: Ersetzt G 53-8 v. 29.6.2015 I 1061, 1062 (USG)
 
 (1) Dieses Gesetz gilt für Reservistendienst Leistende.
 Reservistendienst Leistende sind Personen, die Wehrdienst nach dem
-Vierten Abschnitt des Soldatengesetzes leisten. Teilnehmerinnen oder
-Teilnehmer an dienstlichen Veranstaltungen nach § 81 des
+Vierten Abschnitt des Soldatengesetzes leisten. Teilnehmerinnen
+oder Teilnehmer an dienstlichen Veranstaltungen nach § 81 des
 Soldatengesetzes sind keine Reservistendienst Leistenden im Sinne
 dieses Gesetzes.
 
-(2) Die Vorschriften des Kapitels 2 Abschnitt 3 sind mit Ausnahme von
-§ 23 Absatz 1 auf Teilnehmerinnen oder Teilnehmer an dienstlichen
+(2) Die Vorschriften des Kapitels 2 Abschnitt 3 sind mit Ausnahme
+von § 23 Absatz 1 auf Teilnehmerinnen oder Teilnehmer an dienstlichen
 Veranstaltungen nach § 81 des Soldatengesetzes anzuwenden.
 
 (3) Im Spannungs- oder Verteidigungsfall gilt dieses Gesetz auch für
 
 1.  Grundwehrdienst Leistende nach § 5 des Wehrpflichtgesetzes,
 
+2.  Wehrübende nach § 6 des Wehrpflichtgesetzes,
 
-2.  freiwilligen zusätzlichen Wehrdienst Leistende im Anschluss an den
-    Grundwehrdienst nach § 6b des Wehrpflichtgesetzes und
+3.  freiwillig verlängerten Grundwehrdienst Leistende nach § 6a des
+    Wehrpflichtgesetzes und
 
-
-3.  unbefristeten Wehrdienst Leistende nach § 4 Absatz 1 Nummer 7 des
+4.  unbefristeten Wehrdienst Leistende nach § 4 Absatz 1 Nummer 4 des
     Wehrpflichtgesetzes.
 
-
-
-
-(4) Im Spannungs- oder Verteidigungsfall sind die §§ 12 bis 17 nicht
-anzuwenden.
+(4) Im Spannungs- oder Verteidigungsfall sind die §§ 12 bis 17a nicht
+anzuwenden. Abweichend von § 25 Absatz 1 werden die Leistungen nach §
+19 von Amts wegen gewährt.
 
 
 ### § 2 Teilzeit
@@ -79,15 +78,10 @@ Die Leistungen nach diesem Gesetz ruhen
 
 1.  während einer Beurlaubung ohne Geld- und Sachbezüge,
 
-
 2.  während einer gerichtlich angeordneten Freiheitsentziehung,
-
 
 3.  während eines eigenmächtigen Fernbleibens von der Truppe oder der
     Dienststelle.
-
-
-
 
 
 ## Kapitel 2 - Leistungen
@@ -113,14 +107,14 @@ Dienstleistung höchstens 301 Euro.
 #### § 6 Leistungen an Selbständige
 
 Reservistendienst Leistende, die Inhaberinnen oder Inhaber eines
-Betriebs der Land- und Forstwirtschaft oder eines Gewerbebetriebs sind
-oder die eine selbständige Arbeit ausüben, erhalten für die ihnen
-infolge der Dienstleistung entgehenden Einkünfte für jeden Tag der
-Dienstleistung eine Entschädigung in Höhe von einem
-Dreihundertsechzigstel der Summe der sich aus dem letzten
-Einkommensteuerbescheid ergebenden Einkünfte nach § 2 Absatz 1 Satz 1
-Nummer 1 bis 3 des Einkommensteuergesetzes, höchstens jedoch 430 Euro
-je Tag der Dienstleistung. Für die Erhaltung der Betriebsstätte
+Betriebs der Land- und Forstwirtschaft oder eines Gewerbebetriebs
+sind oder die eine selbständige Arbeit ausüben, erhalten für
+die ihnen infolge der Dienstleistung entgehenden Einkünfte für
+jeden Tag der Dienstleistung eine Entschädigung in Höhe von
+einem Dreihundertsechzigstel der Summe der sich aus dem letzten
+Einkommensteuerbescheid ergebenden Einkünfte nach § 2 Absatz 1 Satz
+1 Nummer 1 bis 3 des Einkommensteuergesetzes, höchstens jedoch 430
+Euro je Tag der Dienstleistung. Für die Erhaltung der Betriebsstätte
 erhalten Reservistendienst Leistende zusätzlich für jeden Tag der
 Dienstleistung pauschal 0,15 Dreihundertsechzigstel der Summe der nach
 Satz 1 ermittelten Einkünfte.
@@ -128,17 +122,17 @@ Satz 1 ermittelten Einkünfte.
 
 #### § 7 Zusammentreffen mehrerer Leistungen
 
-Neben Leistungen nach § 6 werden Leistungen nach § 5 nur bis zu 70
-Prozent des nicht ausgeschöpften Höchstbetrags nach § 6 Satz 1
-gewährt.
+Neben Leistungen nach § 6 werden Leistungen nach § 5 nur bis zu
+70 Prozent des nicht ausgeschöpften Höchstbetrags nach § 6 Satz
+1 gewährt.
 
 
 #### § 8 Mindestleistung
 
 (1) Reservistendienst Leistende erhalten nach ihrer Wahl statt der
-Leistungen nach den §§ 5 und 6 für jeden Tag der Dienstleistung einen
-Tagessatz, dessen Höhe sich aus der Tabelle in Anlage 1 ergibt. Der
-Tagessatz wird in Anlehnung an die regelmäßigen Anpassungen der
+Leistungen nach den §§ 5 und 6 für jeden Tag der Dienstleistung
+einen Tagessatz, dessen Höhe sich aus der Tabelle in Anlage 1 ergibt.
+Der Tagessatz wird in Anlehnung an die regelmäßigen Anpassungen der
 entsprechenden Grundgehälter und des Familienzuschlags nach § 14
 Absatz 1 des Bundesbesoldungsgesetzes angepasst. Das Bundesministerium
 der Verteidigung regelt den jeweils geltenden Tagessatz durch
@@ -150,33 +144,35 @@ Leistungen, jeweils gemindert um die gesetzlichen Abzüge, angerechnet:
 1.  Leistungen nach § 1 Absatz 2 Satz 1 und § 9 Absatz 2 Satz 2, auch in
     Verbindung mit Absatz 11, des Arbeitsplatzschutzgesetzes und
 
-
-2.  Ruhegehälter nach § 15 Absatz 1 des Soldatenversorgungsgesetzes
-    einschließlich des Unterschiedsbetrags nach § 47 Absatz 1 Satz 2 und 3
-    des Soldatenversorgungsgesetzes, die der oder dem Reservistendienst
-    Leistenden weitergewährt werden.
-
-
-
+2.  Ruhegehälter nach § 27 Absatz 1 des Soldatenversorgungsgesetzes
+    einschließlich des Unterschiedsbetrags nach § 64 Absatz 1 Satz 2 und
+    3 des Soldatenversorgungsgesetzes sowie Ruhegehälter nach § 4 des
+    Beamtenversorgungsgesetzes einschließlich des Unterschiedsbetrags
+    nach § 50 Absatz 1 Satz 2 und 3 des Beamtenversorgungsgesetzes
+    und Ruhegehälter nach den entsprechenden Vorschriften der
+    Beamtenversorgungsgesetze der Länder, die der oder dem
+    Reservistendienst Leistenden weitergewährt werden.
 
 
 #### § 9 Leistungen für Versorgungsempfänger
 
-Reservistendienst leistende Versorgungsempfängerinnen und
-Versorgungsempfänger erhalten mindestens den Unterschiedsbetrag
-zwischen
+Leisten Versorgungsempfängerinnen und Versorgungsempfänger
+Reservistendienst, so erhalten sie mindestens die Differenz aus
 
-1.  ihren Versorgungsbezügen nach Abzug der Lohnsteuer, des
-    Solidaritätszuschlags und der Kirchensteuer sowie
+1.  der Summe aus
 
+    a)  ihren ruhegehaltfähigen Dienstbezügen nach der Endstufe der
+        Besoldungsgruppe, aus der das Ruhegehalt berechnet ist, und
 
-2.  den ruhegehaltfähigen Dienstbezügen nach der Endstufe der
-    Besoldungsgruppe, aus der das Ruhegehalt berechnet ist, gemindert um
-    den Betrag, der als Lohnsteuer, Solidaritätszuschlag und Kirchensteuer
-    von den Dienstbezügen abzuziehen wäre.
+    b)  dem Unterschiedsbetrag nach § 64 Absatz 1 Satz 2 und 3 des
+        Soldatenversorgungsgesetzes,
 
+    wobei von dieser Summe der Betrag subtrahiert wird, der als
+    Lohnsteuer, Solidaritätszuschlag und Kirchensteuer von den
+    Dienstbezügen abzuziehen wäre, und
 
-
+2.  ihren Versorgungsbezügen, von denen die Lohnsteuer, der
+    Solidaritätszuschlag und die Kirchensteuer abgezogen wird.
 
 
 ### Abschnitt 2 - Prämie, Dienstgeld, Zuschläge
@@ -207,10 +203,12 @@ gewährt werden. Voraussetzung ist eine Entscheidung nach § 42b Absatz
 3 des Bundesbesoldungsgesetzes für die entsprechende Verwendung von
 Soldatinnen und Soldaten.
 
-(2) Die Prämie beträgt 70 Prozent der entsprechenden Prämie für
-Soldatinnen und Soldaten nach § 42b Absatz 2 Satz 1 des
-Bundesbesoldungsgesetzes. § 42b Absatz 2 Satz 2 bis 4 des
-Bundesbesoldungsgesetzes gilt entsprechend.
+(2) Die Prämie beträgt 70 Prozent der entsprechenden Prämie
+für Soldatinnen und Soldaten nach § 42b Absatz 2 Satz 1 des
+Bundesbesoldungsgesetzes. Abweichend von Satz 1 beträgt die Prämie 100
+Prozent, wenn sie für Soldatinnen und Soldaten nicht steuerpflichtig
+ist. § 42b Absatz 2 Satz 2 bis 4 des Bundesbesoldungsgesetzes gilt
+entsprechend.
 
 
 #### § 12 Zuschlag für längeren Dienst
@@ -227,36 +225,32 @@ Reservistendienst Leistende, die sich vor dem ersten Tag eines
 Reservistendienstes auf Grund eines entsprechenden Angebots
 verpflichtet haben, in einem Kalenderjahr mindestens 33 Tage
 Reservistendienst zu leisten, erhalten nach Erfüllung der
-Verpflichtung einen Zuschlag von 35 Euro je Tag, höchstens jedoch
-1 470 Euro              je Kalenderjahr. Eine Verpflichtung ist nur
-wirksam, wenn
+Verpflichtung einen Zuschlag von 35 Euro je Tag, höchstens jedoch 1
+470 Euro je Kalenderjahr. Eine Verpflichtung ist nur wirksam, wenn
 
 1.  die Annahme des Verpflichtungsangebots vor dem 15. Tag
     Reservistendienst im Kalenderjahr beim Bundesamt für das
     Personalmanagement der Bundeswehr (Bundesamt) eingeht und
 
-
 2.  im Kalenderjahr nicht bereits Leistungen nach § 12 gewährt worden
     sind.
-
-
-
 
 
 #### § 14 Dienstgeld
 
 Reservistendienst Leistende erhalten für Dienstleistungen an einem
-Samstag, einem Sonntag und einem gesetzlichen Feiertag sowie für eine
-eintägige Dienstleistung an einem Freitag eine zweite Prämie nach
-Spalte 2 der Tabelle in Anlage 2. Für Tage, an denen kein Dienst
-geleistet wird, wird die zweite Prämie nicht gewährt.
+Samstag, einem Sonntag oder einem gesetzlichen Feiertag sowie für
+eine eintägige Dienstleistung an einem Freitag eine zweite Prämie
+nach Spalte 3 der Tabelle in Anlage 2. Für Tage, an denen kein Dienst
+geleistet wird, wird die zweite Prämie nicht gewährt. Satz 1 gilt
+nicht bei Anspruch auf den Auslandsverwendungszuschlag nach § 18.
 
 
 #### § 15 Zuschlag für herausgehobene Funktionen
 
 (1) Reservistendienst Leistende erhalten einen widerruflichen Zuschlag
-für die Dauer der Wahrnehmung einer herausgehobenen Funktion unter den
-gleichen Voraussetzungen, unter denen Besoldungsempfängerinnen und
+für die Dauer der Wahrnehmung einer herausgehobenen Funktion unter
+den gleichen Voraussetzungen, unter denen Besoldungsempfängerinnen und
 Besoldungsempfängern eine Stellenzulage im Sinne des § 42 Absatz 1 und
 3 des Bundesbesoldungsgesetzes zusteht.
 
@@ -266,34 +260,55 @@ nach Anlage IX des Bundesbesoldungsgesetzes.
 
 #### § 16 Zuschlag für besondere Erschwernisse
 
-(1) Reservistendienst Leistende erhalten einen widerruflichen Zuschlag
-zur Abgeltung besonderer Erschwernisse, sofern sie Aufgaben unter den
-gleichen Voraussetzungen wahrnehmen, unter denen
-Besoldungsempfängerinnen und Besoldungsempfängern eine
+(1) Reservistendienst Leistende erhalten einen widerruflichen
+Zuschlag zur Abgeltung besonderer Erschwernisse, sofern sie
+Aufgaben unter den gleichen Voraussetzungen wahrnehmen, unter
+denen Besoldungsempfängerinnen und Besoldungsempfängern eine
 Erschwerniszulage nach § 47 des Bundesbesoldungsgesetzes zusteht.
 
-(2) Der Zuschlag beträgt 70 Prozent der entsprechenden Zulage nach der
-auf Grund des § 47 des Bundesbesoldungsgesetzes erlassenen
-Rechtsverordnung.
+(2) Der Zuschlag beträgt 70 Prozent der entsprechenden Zulage nach
+der auf Grund des § 47 des Bundesbesoldungsgesetzes erlassenen
+Rechtsverordnung. Abweichend von Satz 1 beträgt der Zuschlag
+100 Prozent, wenn dieser für Soldatinnen und Soldaten nicht
+steuerpflichtig ist.
 
 
 #### § 17 Zuschlag für besondere zeitliche Belastungen
 
-(1) Reservistendienst Leistende erhalten einen Zuschlag für jede
-Dienstleistung, für die Besoldungsempfängerinnen und
+(1) Reservistendienst Leistende erhalten einen Zuschlag für
+jede Dienstleistung, für die Besoldungsempfängerinnen und
 Besoldungsempfängern unter gleichen Voraussetzungen und im gleichen
-Umfang nach den §§ 50 bis 50b des Bundesbesoldungsgesetzes und den
-dazu erlassenen Rechtsverordnungen eine Vergütung gewährt wird.
+Umfang nach den §§ 50 bis 50b sowie 50d des Bundesbesoldungsgesetzes
+und den dazu erlassenen Rechtsverordnungen eine Vergütung gewährt
+wird.
 
 (2) Der Zuschlag beträgt 70 Prozent der Leistungen, die
 dienstgradgleichen Besoldungsempfängerinnen und Besoldungsempfängern
 gewährt werden.
 
 
+#### § 17a Zuschlag für Fahrtkosten
+
+Reservistendienst Leistende, die aus persönlichen oder dienstlichen
+Gründen von der Pflicht zum Wohnen in einer Gemeinschaftsunterkunft
+befreit sind und täglich von der Dienststätte zu ihrer Wohnung
+zurückkehren, erhalten pro Tag der Dienstleistung einen Zuschlag in
+Höhe von 20 Cent je Kilometer der mit einem privaten Kraftfahrzeug
+zurückgelegten Strecke der einfachen Entfernung zwischen Dienststätte
+und Wohnung. Der Zuschlag ist je Tag der Dienstleistung an
+der Dienststätte auf höchstens 20 Euro begrenzt. Entstandene
+Kosten für Fahrten auf dem Land- oder Wasserweg mit regelmäßig
+verkehrenden Beförderungsmitteln werden bis zur Höhe der niedrigsten
+Beförderungsklasse entsprechend Satz 2 erstattet. Ist die Wohnung
+auf einer üblicherweise befahrenen Strecke weniger als 30 Kilometer
+von der Dienststätte entfernt oder liegt sie im Dienstort, wird der
+Zuschlag nicht gewährt.
+
+
 #### § 18 Auslandsverwendungszuschlag
 
-(1) Reservistendienst Leistende, die an einer besonderen Verwendung im
-Ausland im Sinne des § 56 Absatz 1 des Bundesbesoldungsgesetzes
+(1) Reservistendienst Leistende, die an einer besonderen Verwendung
+im Ausland im Sinne des § 56 Absatz 1 des Bundesbesoldungsgesetzes
 teilnehmen, erhalten einen Auslandsverwendungszuschlag unter den
 gleichen Voraussetzungen, in der gleichen Höhe und in dem gleichen
 Umfang wie Besoldungsempfängerinnen und Besoldungsempfänger. § 56
@@ -301,18 +316,18 @@ Absatz 3 Satz 1 und 2 des Bundesbesoldungsgesetzes und die dazu
 erlassene Rechtsverordnung gelten entsprechend.
 
 (2) Reservistendienst Leistende, die während einer besonderen
-Auslandsverwendung wegen Verschleppung, Gefangenschaft oder aus
-sonstigen mit dem Dienst zusammenhängenden Gründen, die sie nicht zu
-vertreten haben, dem Einflussbereich des Dienstherrn entzogen sind,
-wird für diesen Zeitraum die höchste Stufe des
+Auslandsverwendung wegen Verschleppung, Gefangenschaft oder
+aus sonstigen mit dem Dienst zusammenhängenden Gründen, die sie
+nicht zu vertreten haben, dem Einflussbereich des Dienstherrn
+entzogen sind, wird für diesen Zeitraum die höchste Stufe des
 Auslandsverwendungszuschlags gewährt.
 
 
 #### § 19 Auslandszuschlag
 
 (1) Reservistendienst Leistende erhalten einen Zuschlag, wenn
-Berufssoldatinnen und Berufssoldaten sowie Soldatinnen auf Zeit und
-Soldaten auf Zeit an diesem Dienstort Auslandsdienstbezüge oder
+Berufssoldatinnen und Berufssoldaten sowie Soldatinnen auf Zeit
+und Soldaten auf Zeit an diesem Dienstort Auslandsdienstbezüge oder
 Auslandstrennungsgeld erhalten. Satz 1 gilt nicht bei Anspruch auf den
 Auslandsverwendungszuschlag nach § 18.
 
@@ -329,8 +344,8 @@ Anlage 2.
 verpflichtet sind, in einer Gemeinschaftsunterkunft zu wohnen, wird
 die Unterkunft unentgeltlich bereitgestellt.
 
-(2) Reservistendienst Leistenden werden die notwendigen Kosten für die
-Fahrten zur Unterkunft und zurück erstattet. Näheres bestimmt das
+(2) Reservistendienst Leistenden werden die notwendigen Kosten für
+die Fahrten zur Unterkunft und zurück erstattet. Näheres bestimmt das
 Bundesministerium der Verteidigung durch Verwaltungsvorschrift.
 
 
@@ -350,8 +365,8 @@ durch Verwaltungsvorschrift.
 Form der unentgeltlichen truppenärztlichen Versorgung. § 69a des
 Bundesbesoldungsgesetzes gilt entsprechend.
 
-(2) Reservistendienst Leistenden mit festgesetzter Dienstzeit von bis
-zu sechs Monaten wird zahnärztliche Versorgung nur bei akuter
+(2) Reservistendienst Leistenden mit festgesetzter Dienstzeit von
+bis zu sechs Monaten wird zahnärztliche Versorgung nur bei akuter
 Behandlungsbedürftigkeit und zur Wiederherstellung der Dienstfähigkeit
 gewährt, es sei denn, es handelt sich um die Behandlung der Folgen
 einer Wehrdienstbeschädigung.
@@ -377,11 +392,7 @@ festgesetzt sind, wenn
 1.  sie aus dienstlichen Gründen von der Teilnahme an der
     Gemeinschaftsverpflegung befreit sind oder
 
-
 2.  ihnen keine Gemeinschaftsverpflegung bereitgestellt werden kann.
-
-
-
 
 (4) Als Verpflegungsgeld für eine Mahlzeit erhalten sie den
 entsprechenden Teiltagessatz. Bei Dienstgeschäften im Inland gelten
@@ -395,14 +406,17 @@ die §§ 3 und 4 der Trennungsgeldverordnung und im Ausland die §§ 7 und
 ## Kapitel 3 - Verfahren
 
 
-### § 24 (weggefallen)
+### § 24 Zuständigkeit
 
+Die Aufgaben dieses Gesetzes werden in bundeseigener Verwaltung
+durchgeführt und den Behörden der Bundeswehrverwaltung übertragen, die
+dem Bundesministerium der Verteidigung unterstehen.
 
 
 ### § 25 Antrag
 
-(1) Die Leistungen nach den §§ 5 bis 9, 14 und 19 werden auf Antrag
-gewährt.
+(1) Die Leistungen nach den §§ 5 bis 9, 14, 17a und 19 werden auf
+Antrag gewährt.
 
 (2) Das Antragsrecht endet mit Ablauf des sechsten Monats nach
 Beendigung des geleisteten Reservistendienstes.
@@ -416,17 +430,17 @@ mit 30 Tagen berechnet.
 
 ### § 27 Auskunfts- und Mitteilungspflichten
 
-(1) Reservistendienst Leistende, die Leistungen nach § 8 Absatz 1 Satz
-1 beantragen, haben Leistungen nach § 1 Absatz 2 Satz 1 und § 9 Absatz
-2 Satz 2, auch in Verbindung mit Absatz 11, des
-Arbeitsplatzschutzgesetzes sowie Ruhegehälter nach § 15 Absatz 1 des
+(1) Reservistendienst Leistende, die Leistungen nach § 8 Absatz
+1 Satz 1 beantragen, haben Leistungen nach § 1 Absatz 2 Satz 1
+und § 9 Absatz 2 Satz 2, auch in Verbindung mit Absatz 11, des
+Arbeitsplatzschutzgesetzes sowie Ruhegehälter nach § 27 Absatz 1 des
 Soldatenversorgungsgesetzes einschließlich des Unterschiedsbetrags
-nach § 47 Absatz 1 Satz 2 des Soldatenversorgungsgesetzes anzugeben,
+nach § 64 Absatz 1 Satz 2 des Soldatenversorgungsgesetzes anzugeben,
 die sie für die Zeit des Reservistendienstes erhalten.
 
 (2) Empfängerinnen und Empfänger von Leistungen nach Kapitel 2
-Abschnitt 1 und 2 haben dem Bundesamt unverzüglich jede Änderung der
-tatsächlichen oder rechtlichen Verhältnisse mitzuteilen, die der
+Abschnitt 1 und 2 haben dem Bundesamt unverzüglich jede Änderung
+der tatsächlichen oder rechtlichen Verhältnisse mitzuteilen, die der
 Leistungserbringung zugrunde liegen.
 
 (3) Die Arbeitgeberinnen und Arbeitgeber von Leistungsempfängerinnen
@@ -456,8 +470,8 @@ diesem Gesetz erforderlich ist.
 
 ### § 28 Folgen fehlender Mitwirkung
 
-(1) Kommt eine Antragstellerin oder ein Antragsteller oder eine
-Leistungsempfängerin oder ein Leistungsempfänger einer
+(1) Kommt eine Antragstellerin oder ein Antragsteller oder
+eine Leistungsempfängerin oder ein Leistungsempfänger einer
 Mitwirkungspflicht nach § 27 Absatz 1 oder 2 dieses Gesetzes oder nach
 § 27 Absatz 2 des Verwaltungsverfahrensgesetzes nicht nach und wird
 hierdurch die Aufklärung des Sachverhalts erheblich erschwert, so kann
@@ -467,8 +481,8 @@ Aufklärung des Sachverhalts in anderer Weise absichtlich erheblich
 erschwert wird.
 
 (2) Leistungen nach diesem Gesetz dürfen wegen fehlender Mitwirkung
-nur versagt oder entzogen werden, wenn die Antragstellerin oder der
-Antragsteller oder die Leistungsempfängerin oder der
+nur versagt oder entzogen werden, wenn die Antragstellerin
+oder der Antragsteller oder die Leistungsempfängerin oder der
 Leistungsempfänger auf diese Folge schriftlich oder elektronisch
 hingewiesen worden und ihrer oder seiner Mitwirkungspflicht nicht
 innerhalb einer ihr oder ihm gesetzten angemessenen Frist nachgekommen
@@ -496,16 +510,11 @@ Rechtsstreitigkeiten nach diesem Gesetz durch allgemeine Anordnung
 
 1.  entgegen § 27 Absatz 1 eine Angabe nicht richtig macht,
 
-
 2.  entgegen § 27 Absatz 2 eine Mitteilung nicht, nicht richtig, nicht
     vollständig oder nicht rechtzeitig macht oder
 
-
 3.  entgegen § 27 Absatz 3 eine Auskunft nicht, nicht richtig, nicht
     vollständig oder nicht rechtzeitig erteilt.
-
-
-
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu dreitausend
 Euro geahndet werden.
@@ -514,397 +523,52 @@ Euro geahndet werden.
 Gesetzes über Ordnungswidrigkeiten ist das Bundesamt für das
 Personalmanagement der Bundeswehr.
 
-(zu § 8)
 
-### Anlage 1 Mindestleistung
-
-(Fundstelle: BGBl. I 2019, 1184)
-
-
-*    *
-    *   Dienstgrad
-
-    *   Tagessatz
-
-
-*    *
-    *   1
-
-    *   2
-
-    *   3
-
-    *   4
-
-    *   5
-
-
-*    *
-    *
-    *   Reservistendienst
-        Leistende
-        ohne Kind
-
-    *   Reservistendienst
-        Leistende
-        mit einem unter-
-        haltsberechtigten
-        Kind
-
-    *   Reservistendienst
-        Leistende
-        mit zwei unter-
-        haltsberechtigten
-        Kindern
-
-    *   Reservistendienst
-        Leistende
-        mit drei unter-
-        haltsberechtigten
-[^F807830_01_BJNR117900019BJNE003200000]
-        Kindern
-
-
-*    *   1
-
-    *   Grenadier, Jäger, Panzerschütze, Panzergrenadier, Panzerjäger,
-        Kanonier, Panzerkanonier, Pionier, Panzerpionier, Funker, Panzer-
-        funker, Schütze, Flieger, Sanitäts-
-        soldat, Matrose, Gefreiter
-
-    *   65,60 €
-
-    *   77,16 €
-
-    *   81,17 €
-
-    *   91,60 €
-
-
-*    *   2
-
-    *   Obergefreiter, Hauptgefreiter
-
-    *   66,69 €
-
-    *   78,42 €
-
-    *   82,26 €
-
-    *   92,47 €
-
-
-*    *   3
-
-    *   Stabsgefreiter, Oberstabsgefreiter, Unteroffizier, Maat, Fahnenjunker,
-        Seekadett
-
-    *   67,10 €
-
-    *   78,87 €
-
-    *   82,54 €
-
-    *   92,61 €
-
-
-*    *   4
-
-    *   Stabsunteroffizier, Obermaat
-
-    *   68,77 €
-
-    *   80,61 €
-
-    *   83,77 €
-
-    *   93,35 €
-
-
-*    *   5
-
-    *   Feldwebel, Bootsmann, Fähnrich, Fähnrich zur See, Oberfeldwebel,
-        Oberbootsmann
-
-    *   70,99 €
-
-    *   83,12 €
-
-    *   86,25 €
-
-    *   95,75 €
-
-
-*    *   6
-
-    *   Hauptfeldwebel, Hauptbootsmann, Oberfähnrich, Oberfähnrich zur See
-
-    *   74,27 €
-
-    *   86,81 €
-
-    *   89,87 €
-
-    *   99,33 €
-
-
-*    *   7
-
-    *   Stabsfeldwebel, Stabsbootsmann, Oberstabsfeldwebel,
-        Oberstabsbootsmann, Leutnant, Leutnant zur See
-
-    *   79,12 €
-
-    *   92,47 €
-
-    *   95,50 €
-
-    *   104,87 €
-
-
-*    *   8
-
-    *   Oberleutnant, Oberleutnant zur See
-
-    *   83,76 €
-
-    *   97,45 €
-
-    *   100,66 €
-
-    *   109,76 €
-
-
-*    *   9
-
-    *   Hauptmann, Kapitänleutnant
-
-    *   92,96 €
-
-    *   107,81 €
-
-    *   110,90 €
-
-    *   120,08 €
-
-
-*    *   10
-
-    *   Stabshauptmann, Stabskapitän-
-        leutnant, Major, Korvettenkapitän, Stabsapotheker, Stabsarzt,
-        Stabsveterinär
-
-    *   110,78 €
-
-    *   128,12 €
-
-    *   131,25 €
-
-    *   140,46 €
-
-
-*    *   11
-
-    *   Oberstleutnant, Fregattenkapitän, Oberstabsapotheker, Oberstabs-
-        arzt, Oberstabsveterinär
-
-    *   113,16 €
-
-    *   130,91 €
-
-    *   134,06 €
-
-    *   143,06 €
-
-
-*    *   12
-
-    *   Oberfeldapotheker, Flottillenapo-
-        theker, Oberfeldarzt, Flottillenarzt, Oberfeldveterinär
-
-    *   131,40 €
-
-    *   153,03 €
-
-    *   156,09 €
-
-    *   164,78 €
-
-
-*    *   13
-
-    *   Oberst, Kapitän zur See, Oberst-
-        apotheker, Flottenapotheker, Oberstarzt, Flottenarzt, Oberstveterinär
-        und höhere Dienstgrade
-
-    *   141,51 €
-
-    *   165,20 €
-
-    *   168,22 €
-
-    *   176,77 €
-
-
-
-_\_\__\_\__\_\__\_\__\_\__\_\__\_\_
-
-    Bei mehr als drei unterhaltsberechtigten Kindern wird der Tagessatz
-    für jedes weitere Kind um die Differenz zwischen den Tagessätzen nach
-    den Spalten 4 und 5 erhöht.
-[^F807830_01_BJNR117900019BJNE003200000]: 
-(zu den §§ 11, 14 und 19)
-
-### Anlage 2 Prämie, Dienstgeld, Auslandszuschlag
-
-(Fundstelle: BGBl. I 2019, 1185)
-
-
-*    *
-    *
-    *   Tagessatz
-
-
-*    *
-    *   1
-
-    *   2
-
-    *   3
-
-
-*    *
-    *   Dienstgrad
-
-    *   Prämie nach § 11
-
-    *   Auslandszuschlag nach § 19
-
-
-*    *   1
-
-    *   Grenadier, Jäger, Panzerschütze, Panzergrenadier, Panzerjäger,
-        Kanonier, Panzerkanonier, Pionier, Panzerpionier, Funker,
-        Panzerfunker, Schütze, Flieger, Sanitätssoldat, Matrose, Gefreiter
-
-    *   18,82 €
-
-    *   10,18 €
-
-
-*    *   2
-
-    *   Obergefreiter, Hauptgefreiter
-
-    *   20,67 €
-
-    *   11,71 €
-
-
-*    *   3
-
-    *   Stabsgefreiter, Oberstabsgefreiter, Unteroffizier, Maat, Fahnenjunker,
-        Seekadett
-
-    *   21,59 €
-
-    *   13,25 €
-
-
-*    *   4
-
-    *   Stabsunteroffizier, Obermaat
-
-    *   23,45 €
-
-    *   13,25 €
-
-
-*    *   5
-
-    *   Feldwebel, Bootsmann, Fähnrich, Fähnrich zur See, Oberfeldwebel,
-        Oberbootsmann
-
-    *   24,06 €
-
-    *   13,76 €
-
-
-*    *   6
-
-    *   Hauptfeldwebel, Hauptbootsmann, Oberfähnrich, Oberfähnrich zur See
-
-    *   24,38 €
-
-    *   14,27 €
-
-
-*    *   7
-
-    *   Stabsfeldwebel, Stabsbootsmann, Oberstabsfeldwebel,
-        Oberstabsbootsmann, Leutnant, Leutnant zur See
-
-    *   24,68 €
-
-    *   14,27 €
-
-
-*    *   8
-
-    *   Oberleutnant, Oberleutnant zur See
-
-    *   25,29 €
-
-    *   14,78 €
-
-
-*    *   9
-
-    *   Hauptmann, Kapitänleutnant
-
-    *   25,91 €
-
-    *   15,29 €
-
-
-*    *   10
-
-    *   Stabshauptmann, Stabskapitänleutnant, Major, Korvettenkapitän,
-        Stabsapotheker, Stabsarzt, Stabsveterinär
-
-    *   26,52 €
-
-    *   15,80 €
-
-
-*    *   11
-
-    *   Oberstleutnant, Fregattenkapitän, Oberstabsapotheker, Oberstabsarzt,
-        Oberstabsveterinär
-
-    *   27,15 €
-
-    *   16,32 €
-
-
-*    *   12
-
-    *   Oberfeldapotheker, Flottillenapotheker, Oberfeldarzt, Flottillenarzt,
-        Oberfeldveterinär
-
-    *   27,77 €
-
-    *   16,32 €
-
-
-*    *   13
-
-    *   Oberst, Kapitän zur See, Oberstapotheker, Flottenapotheker,
-        Oberstarzt, Flottenarzt, Oberstveterinär und höhere Dienstgrade
-
-    *   29,00 €
-
-    *   16,83 €
-
-
+### Anlage 1 (zu § 8 Absatz 1)Mindestleistung
+
+(Fundstelle: BGBl. 2025 I Nr. 370, S. 16)
+
+|  | Dienstgrad | Tagessatz |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | 1 | 2 | 3 | 4 | 5 |
+|  |  | Reservistendienst Leistende oder Reservistendienst Leistender |  |  |  |
+|  |  | ohne unterhaltsberechtigtes Kind | mit einem unterhaltsberechtigten Kind | mit zwei unterhaltsberechtigten Kindern | mit drei unterhaltsberechtigten Kindern |
+| 1 | Jäger, Panzerschütze, Panzergrenadier, Kanonier, Pionier, Panzerpionier, Funker, Schütze, Flieger, Sanitätssoldat, Matrose, Gefreiter, Grenadier, Panzerjäger, Panzerkanonier, Panzerfunker | 76,85 € | 89,52 € | 93,90 € | 105,34 € |
+| 2 | Obergefreiter, Hauptgefreiter | 78,04 € | 90,88 € | 95,10 € | 106,29 € |
+| 3 | Stabsgefreiter, Oberstabsgefreiter, Unteroffizier, Maat, Fahnenjunker, Seekadett | 78,48 € | 91,39 € | 95,40 € | 106,44 € |
+| 4 | Stabsunteroffizier, Obermaat, Korporal, Stabskorporal | 80,31 € | 93,29 € | 96,76 € | 107,26 € |
+| 5 | Feldwebel, Bootsmann, Fähnrich, Fähnrich zur See, Oberfeldwebel, Oberbootsmann | 82,74 € | 96,04 € | 99,48 € | 109,89 € |
+| 6 | Hauptfeldwebel, Hauptbootsmann, Oberfähnrich, Oberfähnrich zur See | 86,35 € | 100,09 € | 103,44 € | 113,81 € |
+| 7 | Stabsfeldwebel, Stabsbootsmann, Oberstabsfeldwebel, Oberstabsbootsmann, Leutnant, Leutnant zur See | 91,66 € | 106,29 € | 109,62 € | 119,88 € |
+| 8 | Oberleutnant, Oberleutnant zur See | 96,75 € | 111,74 € | 115,27 € | 125,24 € |
+| 9 | Hauptmann, Kapitänleutnant | 106,84 € | 123,11 € | 126,51 € | 136,56 € |
+| 10 | Stabsarzt, Stabsapotheker, Stabsveterinär, Stabshauptmann, Stabskapitänleutnant, Major, Korvettenkapitän | 126,36 € | 145,38 € | 148,81 € | 158,91 € |
+| 11 | Oberstabsarzt, Oberstabsapotheker, Oberstabsveterinär, Oberstleutnant, Fregattenkapitän | 128,97 € | 148,44 € | 151,90 € | 161,76 € |
+| 12 | Oberfeldarzt, Flottillenarzt, Oberfeldapotheker, Flottillenapotheker, Oberfeldveterinär | 148,97 € | 172,69 € | 176,03 € | 185,57 € |
+| 13 | Oberst, Kapitän zur See, Oberstarzt, Flottenarzt, Oberstapotheker, Flottenapotheker, Oberstveterinär und höhere Dienstgrade | 160,07 € | 186,02 € | 189,34 € | 189,70 € |
+
+__________
+
+
+### Anlage 2 (zu den §§ 11, 14 und 19 Absatz 2)Prämie, Dienstgeld, Auslandszuschlag
+
+(Fundstelle: BGBl. 2025 I Nr. 370, S. 17)
+
+|  |  | Tagessatz |  |  |
+| --- | --- | --- | --- | --- |
+|  | 1 | 2 | 3 | 4 |
+|  | Dienstgrad | Prämie nach § 11 | Prämie nach § 14 | Auslandszuschlag nach § 19 |
+| 1 | Jäger, Panzerschütze, Panzergrenadier, Kanonier, Pionier, Panzerpionier, Funker, Schütze, Flieger, Sanitätssoldat, Matrose, Gefreiter, Grenadier, Panzerjäger, Panzerkanonier, Panzerfunker | 23,53 € | 18,82 € | 10,18 € |
+| 2 | Obergefreiter, Hauptgefreiter | 25,84 € | 20,67 € | 11,71 € |
+| 3 | Stabsgefreiter, Oberstabsgefreiter, Unteroffizier, Maat, Fahnenjunker, Seekadett | 26,99 € | 21,59 € | 13,25 € |
+| 4 | Stabsunteroffizier, Obermaat, Korporal, Stabskorporal | 29,31 € | 23,45 € | 13,25 € |
+| 5 | Feldwebel, Bootsmann, Fähnrich, Fähnrich zur See, Oberfeldwebel, Oberbootsmann | 30,08 € | 24,06 € | 13,76 € |
+| 6 | Hauptfeldwebel, Hauptbootsmann, Oberfähnrich, Oberfähnrich zur See | 30,48 € | 24,38 € | 14,27 € |
+| 7 | Stabsfeldwebel, Stabsbootsmann, Oberstabsfeldwebel, Oberstabsbootsmann, Leutnant, Leutnant zur See | 30,85 € | 24,68 € | 14,27 € |
+| 8 | Oberleutnant, Oberleutnant zur See | 31,61 € | 25,29 € | 14,78 € |
+| 9 | Hauptmann, Kapitänleutnant | 32,39 € | 25,91 € | 15,29 € |
+| 10 | Stabsarzt, Stabsapotheker, Stabsveterinär, Stabshauptmann, Stabskapitänleutnant, Major, Korvettenkapitän | 33,15 € | 26,52 € | 15,80 € |
+| 11 | Oberstabsarzt, Oberstabsapotheker, Oberstabsveterinär, Oberstleutnant, Fregattenkapitän | 33,94 € | 27,15 € | 16,32 € |
+| 12 | Oberfeldarzt, Flottillenarzt, Oberfeldapotheker, Flottillenapotheker, Oberfeldveterinär | 34,71 € | 27,77 € | 16,32 € |
+| 13 | Oberst, Kapitän zur See, Oberstarzt, Flottenarzt, Oberstabsapotheker, Flottenapotheker, Oberstveterinär und höhere Dienstgrade | 36,25 € | 29,00 € | 16,83 € |
 

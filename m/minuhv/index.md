@@ -1,6 +1,5 @@
 ---
-Title: Verordnung zur Festlegung des Mindestunterhalts minderjähriger Kinder nach
-  § 1612a Absatz 1 des Bürgerlichen Gesetzbuchs
+Title: Verordnung zur Festlegung des Mindestunterhalts minderjähriger Kinder nach § 1612a Absatz 1 des Bürgerlichen Gesetzbuchs
 jurabk: MinUhV
 layout: default
 origslug: minuhv
@@ -17,7 +16,7 @@ Fundstelle
 :   BGBl I: 2015, 2188
 
 Zuletzt geändert durch
-:   Art. 1 V v. 30.11.2021 I 5066
+:   Art. 1 V v. 15.11.2024 I Nr. 359
 
 
 ## Eingangsformel
@@ -30,25 +29,20 @@ und für Verbraucherschutz:
 
 ## § 1 Festlegung des Mindestunterhalts
 
-Der Mindestunterhalt minderjähriger Kinder gemäß § 1612a Absatz 1 des
-Bürgerlichen Gesetzbuchs beträgt monatlich
+Der monatliche Mindestunterhalt minderjähriger Kinder gemäß § 1612a
+Absatz 1 des Bürgerlichen Gesetzbuchs beträgt
 
 1.  in der ersten Altersstufe (§ 1612a Absatz 1 Satz 3 Nummer 1 des
-    Bürgerlichen Gesetzbuchs) 396 Euro ab dem 1. Januar 2022 und 404 Euro
-    ab dem 1. Januar 2023,
-
+    Bürgerlichen Gesetzbuchs) 482 Euro ab dem 1. Januar 2025 und 486 Euro
+    ab dem 1. Januar 2026,
 
 2.  in der zweiten Altersstufe (§ 1612a Absatz 1 Satz 3 Nummer 2 des
-    Bürgerlichen Gesetzbuchs) 455 Euro ab dem 1. Januar 2022 und 464 Euro
-    ab dem 1. Januar 2023,
-
+    Bürgerlichen Gesetzbuchs) 554 Euro ab dem 1. Januar 2025 und 558 Euro
+    ab dem 1. Januar 2026,
 
 3.  in der dritten Altersstufe (§ 1612a Absatz 1 Satz 3 Nummer 3 des
-    Bürgerlichen Gesetzbuchs) 533 Euro ab dem 1. Januar 2022 und 543 Euro
-    ab dem 1. Januar 2023.
-
-
-
+    Bürgerlichen Gesetzbuchs) 649 Euro ab dem 1. Januar 2025 und 653 Euro
+    ab dem 1. Januar 2026.
 
 
 ## § 2 Inkrafttreten

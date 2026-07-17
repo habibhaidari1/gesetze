@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die elektronische Rechnungsstellung im öffentlichen Auftragswesen
-  des Bundes
+Title: Verordnung über die elektronische Rechnungsstellung im öffentlichen Auftragswesen des Bundes
 jurabk: ERechV
 layout: default
 origslug: erechv
@@ -22,18 +21,17 @@ Geändert durch
 
 ## Eingangsformel
 
-Auf Grund des § 4a Absatz 3 des E-Government-
-Gesetzes, der              durch Artikel 1 Nummer 2 des Gesetzes vom
-4\. April 2017 (BGBl. I S. 770) eingefügt worden ist, verordnet die
-Bundesregierung:
+Auf Grund des § 4a Absatz 3 des E-Government-Gesetzes, der durch
+Artikel 1 Nummer 2 des Gesetzes vom 4. April 2017 (BGBl. I S. 770)
+eingefügt worden ist, verordnet die Bundesregierung:
 
 
 ## § 1 Geltungsbereich
 
 Diese Verordnung gilt grundsätzlich für alle Rechnungen, mit denen
-eine Lieferung oder eine sonstige Leistung abgerechnet wird und die
-nach Erfüllung von öffentlichen Aufträgen und Aufträgen sowie zu
-Konzessionen ausgestellt wurden, soweit diese Verordnung keine
+eine Lieferung oder eine sonstige Leistung abgerechnet wird und
+die nach Erfüllung von öffentlichen Aufträgen und Aufträgen sowie
+zu Konzessionen ausgestellt wurden, soweit diese Verordnung keine
 abweichenden Bestimmungen für geheimhaltungsbedürftige Rechnungsdaten
 sowie für Angelegenheiten des Auswärtigen Dienstes und der sonstigen
 Beschaffungen im Ausland enthält.
@@ -51,12 +49,8 @@ im Geschäftsverkehr bezeichnet wird.
 1.  es in einem strukturierten elektronischen Format ausgestellt,
     übermittelt und empfangen wird und
 
-
 2.  das Format die automatische und elektronische Verarbeitung des
     Dokuments ermöglicht.
-
-
-
 
 (3) Rechnungssteller sind alle Unternehmer im Sinne von § 14 Absatz 1
 des Bürgerlichen Gesetzbuches, die eine Rechnung an Rechnungsempfänger
@@ -66,8 +60,8 @@ im Sinne von Absatz 4 ausstellen und übermitteln.
 Nummer 1 bis 5 des Gesetzes gegen Wettbewerbsbeschränkungen, soweit
 diese Rechtsverordnung keine abweichenden Bestimmungen enthält.
 
-(5) Rechnungssender sind alle Unternehmer im Sinne von § 14 Absatz 1
-des Bürgerlichen Gesetzbuches, die eine elektronische Rechnung im
+(5) Rechnungssender sind alle Unternehmer im Sinne von § 14 Absatz
+1 des Bürgerlichen Gesetzbuches, die eine elektronische Rechnung im
 Auftrag des Rechnungsstellers ausstellen und übermitteln.
 
 (6) Subzentrale öffentliche Auftraggeber sind alle öffentlichen
@@ -88,18 +82,13 @@ hierbei der Dienstleistung von Rechnungssendern bedienen.
 (3) Die Pflicht zur elektronischen Rechnungsstellung nach Absatz 1
 gilt nicht für Rechnungen,
 
-1.  die nach Erfüllung eines Direktauftrags bis zu einem Betrag von 1 000
+1.  die nach Erfüllung eines Direktauftrags bis zu einem Betrag von 1 000
     Euro gestellt werden,
-
 
 2.  die den Ausnahmeregelungen nach § 8 oder § 9 unterfallen oder
 
-
 3.  die in Verfahren der Organleihe nach § 159 Absatz 1 Nummer 5 des
     Gesetzes gegen Wettbewerbsbeschränkungen auszustellen sind.
-
-
-
 
 
 ## § 4 Anforderungen an das Rechnungsdatenmodell und an die Übermittlung
@@ -107,9 +96,9 @@ gilt nicht für Rechnungen,
 (1) Für die Ausstellung von elektronischen Rechnungen haben
 Rechnungssteller und Rechnungssender grundsätzlich den
 Datenaustauschstandard XRechnung vom 29. September 2017 (BAnz AT
-10\.10.2017 B1) in der jeweils aktuellen Fassung zu verwenden. Es kann
-auch ein anderer Datenaustauschstandard verwendet werden, wenn er den
-Anforderungen der europäischen Norm für die elektronische
+10\.10.2017 B1) in der jeweils aktuellen Fassung zu verwenden. Es
+kann auch ein anderer Datenaustauschstandard verwendet werden, wenn
+er den Anforderungen der europäischen Norm für die elektronische
 Rechnungsstellung entspricht.
 
 (2) Änderungen des Datenaustauschstandards XRechnung werden vom
@@ -119,30 +108,30 @@ Herausgabedatum der Änderung/Bekanntmachung anzugeben und das Datum,
 ab dem der geänderte Datenaustauschstandard XRechnung anzuwenden ist.
 
 (3) Für die Übermittlung von elektronischen Rechnungen haben
-Rechnungssteller und Rechnungssender ein Verwaltungsportal des Bundes
-im Sinne von § 2 Absatz 2 des Onlinezugangsgesetzes zu nutzen.
-Voraussetzung für die Übermittlung einer elektronischen Rechnung ist,
-dass der Rechnungssteller oder Rechnungssender sich zuvor mit einem
-Nutzerkonto im Sinne von § 2 Absatz 5 des Onlinezugangsgesetzes
-registriert. Elektronische Rechnungen, die über das Verwaltungsportal
-übermittelt werden, sind automationsunterstützt auf ihre formale
-Fehlerlosigkeit zu prüfen. Sobald die ordnungsgemäße Übermittlung
-einer elektronischen Rechnung festgestellt ist, ist der
-Rechnungssteller oder der Rechnungssender automationsunterstützt davon
-zu benachrichtigen. Eine formal fehlerhafte elektronische Rechnung ist
-automationsunterstützt abzulehnen. In diesem Fall ist der
-Rechnungssteller oder der Rechnungssender über die Ablehnung zu
+Rechnungssteller und Rechnungssender ein Verwaltungsportal des
+Bundes im Sinne von § 2 Absatz 2 des Onlinezugangsgesetzes zu
+nutzen. Voraussetzung für die Übermittlung einer elektronischen
+Rechnung ist, dass der Rechnungssteller oder Rechnungssender
+sich zuvor mit einem Nutzerkonto im Sinne von § 2 Absatz 5 des
+Onlinezugangsgesetzes registriert. Elektronische Rechnungen, die über
+das Verwaltungsportal übermittelt werden, sind automationsunterstützt
+auf ihre formale Fehlerlosigkeit zu prüfen. Sobald die ordnungsgemäße
+Übermittlung einer elektronischen Rechnung festgestellt ist, ist
+der Rechnungssteller oder der Rechnungssender automationsunterstützt
+davon zu benachrichtigen. Eine formal fehlerhafte elektronische
+Rechnung ist automationsunterstützt abzulehnen. In diesem Fall ist
+der Rechnungssteller oder der Rechnungssender über die Ablehnung zu
 informieren.
 
-(4) Erhält ein Rechnungsempfänger eine elektronische Rechnung, die
-keinem Nutzerkonto zugeordnet werden kann, so hat der
+(4) Erhält ein Rechnungsempfänger eine elektronische Rechnung,
+die keinem Nutzerkonto zugeordnet werden kann, so hat der
 Rechnungsempfänger die elektronische Rechnung abzulehnen. In diesem
 Fall erhalten die Rechnungssteller oder die Rechnungssender keine
 Information über die Ablehnung.
 
-(5) Die Verpflichtungen nach den Absätzen 1 bis 4 gelten nicht für die
-Übermittlung von elektronischen Rechnungen, die in Verfahren der
-Organleihe nach § 159 Absatz 1 Nummer 5 des Gesetzes gegen
+(5) Die Verpflichtungen nach den Absätzen 1 bis 4 gelten nicht für
+die Übermittlung von elektronischen Rechnungen, die in Verfahren
+der Organleihe nach § 159 Absatz 1 Nummer 5 des Gesetzes gegen
 Wettbewerbsbeschränkungen auszustellen sind.
 
 
@@ -153,29 +142,19 @@ Rechnungsbestandteilen mindestens folgende Angaben zu enthalten:
 
 1.  eine Leitweg-Identifikationsnummer,
 
-
 2.  die Bankverbindungsdaten,
-
 
 3.  die Zahlungsbedingungen und
 
-
 4.  die De-Mail-Adresse oder eine E-Mail-Adresse des Rechnungsstellers.
 
-
-
-
-(2) Die elektronische Rechnung hat zusätzlich zu den Angaben nach
-Absatz 1 folgende Angaben zu enthalten, wenn diese dem
+(2) Die elektronische Rechnung hat zusätzlich zu den Angaben
+nach Absatz 1 folgende Angaben zu enthalten, wenn diese dem
 Rechnungssteller bereits bei Beauftragung übermittelt wurden:
 
 1.  die Lieferantennummer,
 
-
 2.  eine Bestellnummer.
-
-
-
 
 (3) Die Vorgaben nach den Absätzen 1 und 2 gelten nicht für
 Rechnungen, die in Verfahren der Organleihe nach § 159 Absatz 1 Nummer
@@ -185,8 +164,8 @@ Rechnungen, die in Verfahren der Organleihe nach § 159 Absatz 1 Nummer
 ## § 6 Verarbeitung von elektronischen Rechnungen
 
 (1) Rechnungsempfänger, die an das Verfahren für das Haushalts-,
-Kassen- und Rechnungswesen des Bundes angeschlossen sind, haben die
-gemäß § 4 Absatz 3 übermittelten elektronischen Rechnungen
+Kassen- und Rechnungswesen des Bundes angeschlossen sind, haben
+die gemäß § 4 Absatz 3 übermittelten elektronischen Rechnungen
 medienbruchfrei mindestens über ein Webbrowser-gestütztes
 Dialogverfahren einzusehen und zu verarbeiten.
 
@@ -208,8 +187,8 @@ Rechtsverordnung und zur Erfüllung der haushaltsrechtlichen Vorgaben
 verarbeitet werden.
 
 (2) Die Rechnungsempfänger treffen die erforderlichen technischen und
-organisatorischen Maßnahmen, um die Verfügbarkeit, die Integrität, die
-Authentizität und die Vertraulichkeit der in ihren Systemen
+organisatorischen Maßnahmen, um die Verfügbarkeit, die Integrität,
+die Authentizität und die Vertraulichkeit der in ihren Systemen
 gespeicherten oder abgerufenen Rechnungsdaten entsprechend dem
 jeweiligen Stand der Technik sicherzustellen. Dabei ist die besondere
 Schutzbedürftigkeit der in den elektronischen Rechnungen enthaltenen
@@ -250,8 +229,8 @@ ist das Verfahren vom Geltungsbereich dieser Verordnung ausgenommen.
 Das Bundesministerium des Innern, für Bau und Heimat prüft die
 Anwendung dieser Rechtsverordnung und deren Auswirkung auf die
 elektronische Rechnungsstellung im Rahmen des Geltungsbereichs
-spätestens bis zum 31. Dezember 2022. Die Prüfung nach Satz 1 soll die
-Weiterentwicklung der technischen Möglichkeiten angemessen
+spätestens bis zum 31. Dezember 2022. Die Prüfung nach Satz 1 soll
+die Weiterentwicklung der technischen Möglichkeiten angemessen
 berücksichtigen. Über das Ergebnis der Prüfung ist der Bundesregierung
 Bericht zu erstatten.
 

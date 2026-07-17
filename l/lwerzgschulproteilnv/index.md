@@ -1,6 +1,5 @@
 ---
-Title: Verordnung zur Durchführung der Teilnahme der Länder am Schulprogramm für landwirtschaftliche
-  Erzeugnisse
+Title: Verordnung zur Durchführung der Teilnahme der Länder am Schulprogramm für landwirtschaftliche Erzeugnisse
 jurabk: LwErzgSchulproTeilnV
 layout: default
 origslug: lwerzgschulproteilnv
@@ -29,29 +28,29 @@ verordnet das Bundesministerium für Ernährung und Landwirtschaft:
 
 ## § 1 Anzeige- und Übermittlungsfristen
 
-(1) Die Länder zeigen ihre Teilnahme am Schulprogramm für
-landwirtschaftliche Erzeugnisse nach § 3 Absatz 1 des
+(1) Die Länder zeigen ihre Teilnahme am Schulprogramm
+für landwirtschaftliche Erzeugnisse nach § 3 Absatz 1 des
 Landwirtschaftserzeugnisse-Schulprogrammgesetzes bis zum 31. Oktober
 des Kalenderjahres, das dem Schuljahr der geplanten Teilnahme
 vorangeht, dem Bundesministerium für Ernährung und Landwirtschaft
 (Bundesministerium) an.
 
-(2) Die Länder übermitteln dem Bundesministerium ihre regionale
-Strategie nach § 3 Absatz 2 Satz 1 Nummer 1 des
-Landwirtschaftserzeugnisse-Schulprogrammgesetzes bis zum 31. März des
-Kalenderjahres, in dem das Schuljahr beginnt, für das die Strategie
-erstmals angewendet werden soll. Sie übermitteln ihre geänderte
-regionale Strategie nach § 3 Absatz 2 Satz 1 Nummer 2 des
+(2) Die Länder übermitteln dem Bundesministerium ihre
+regionale Strategie nach § 3 Absatz 2 Satz 1 Nummer 1 des
+Landwirtschaftserzeugnisse-Schulprogrammgesetzes bis zum 31. März
+des Kalenderjahres, in dem das Schuljahr beginnt, für das die
+Strategie erstmals angewendet werden soll. Sie übermitteln ihre
+geänderte regionale Strategie nach § 3 Absatz 2 Satz 1 Nummer 2 des
 Landwirtschaftserzeugnisse-Schulprogrammgesetzes innerhalb eines
 Monats nach der Änderung.
 
-(3) Für die Mitteilungspflichten der Länder nach § 3 Absatz 3 Satz 1
-Nummer 1 des Landwirtschaftserzeugnisse-Schulprogrammgesetzes gilt
-eine Frist bis zum 31. Dezember des Kalenderjahres, in dem das
-laufende Schuljahr begonnen hat. Für die Mitteilungspflichten der
-Länder nach § 3 Absatz 3 Satz 1 Nummer 2 des
-Landwirtschaftserzeugnisse-Schulprogrammgesetzes gilt eine Frist bis
-zum 31. Dezember des Kalenderjahres, das dem kommenden Schuljahr
+(3) Für die Mitteilungspflichten der Länder nach § 3
+Absatz 3 Satz 1 Nummer 1 des Landwirtschaftserzeugnisse-
+Schulprogrammgesetzes gilt eine Frist bis zum 31. Dezember des
+Kalenderjahres, in dem das laufende Schuljahr begonnen hat. Für die
+Mitteilungspflichten der Länder nach § 3 Absatz 3 Satz 1 Nummer 2
+des Landwirtschaftserzeugnisse-Schulprogrammgesetzes gilt eine Frist
+bis zum 31. Dezember des Kalenderjahres, das dem kommenden Schuljahr
 vorangeht.
 
 
@@ -64,13 +63,13 @@ Absatz 2 des Landwirtschaftserzeugnisse-Schulprogrammgesetzes bis zum
 Teilnahme vorangeht.
 
 (2) Das Bundesministerium gibt den Ländern die endgültige Höhe der auf
-die Länder entfallenden endgültigen Mittelzuweisung nach § 4 Absatz 3
-des Landwirtschaftserzeugnisse-Schulprogrammgesetzes innerhalb von
-zwei Wochen nach Veröffentlichung des Durchführungsrechtsaktes der
-Kommission über die endgültige Mittelzuweisung an die Mitgliedstaaten
-im Rahmen des EU-Schulprogramms bekannt. Für Änderungen der
-endgültigen Mittelzuweisung nach § 4 Absatz 4 des
-Landwirtschaftserzeugnisse-Schulprogrammgesetzes gilt Satz 1
+die Länder entfallenden endgültigen Mittelzuweisung nach § 4 Absatz
+3 des Landwirtschaftserzeugnisse-Schulprogrammgesetzes innerhalb
+von zwei Wochen nach Veröffentlichung des Durchführungsrechtsaktes
+der Kommission über die endgültige Mittelzuweisung an die
+Mitgliedstaaten im Rahmen des EU-Schulprogramms bekannt. Für
+Änderungen der endgültigen Mittelzuweisung nach § 4 Absatz 4
+des Landwirtschaftserzeugnisse-Schulprogrammgesetzes gilt Satz 1
 entsprechend.
 
 

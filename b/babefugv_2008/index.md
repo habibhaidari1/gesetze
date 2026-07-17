@@ -1,6 +1,5 @@
 ---
-Title: Verordnung zur Übertragung der Befugnis zum Erlass von Rechtsverordnungen nach
-  dem Dritten Buch Sozialgesetzbuch auf den Vorstand der Bundesagentur für Arbeit
+Title: Verordnung zur Übertragung der Befugnis zum Erlass von Rechtsverordnungen nach dem Dritten Buch Sozialgesetzbuch auf den Vorstand der Bundesagentur für Arbeit
 jurabk: BABefugV 2008
 layout: default
 origslug: babefugv_2008
@@ -30,8 +29,8 @@ Einvernehmen mit dem Bundesministerium der Finanzen:
 ## § 1
 
 Die in § 366a Abs. 4 Satz 3 des Dritten Buches Sozialgesetzbuch
-enthaltene Ermächtigung wird auf den Vorstand der Bundesagentur für
-Arbeit übertragen. Rechtsverordnungen, die auf Grund von Satz 1
+enthaltene Ermächtigung wird auf den Vorstand der Bundesagentur
+für Arbeit übertragen. Rechtsverordnungen, die auf Grund von Satz 1
 erlassen werden, bedürfen des Einvernehmens mit dem Bundesministerium
 für Arbeit und Soziales und dem Bundesministerium der Finanzen.
 

@@ -16,13 +16,7 @@ Fundstelle
 :   BGBl I: 2007, 2631
 
 Zuletzt geändert durch
-:   Art. 2 G v. 10.7.2020 I 1653
-
-Änderung durch
-:   Art. 3 G v. 9.6.2021 I 1666 (Nr. 31) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 4 G v. 11.7.2021 I 2754 ist berücksichtigt
+:   Art. 12 G v. 26.5.2026 I Nr. 156
 
 
 ## Teil 1 - Allgemeiner Teil
@@ -40,8 +34,8 @@ Der Versicherer verpflichtet sich mit dem Versicherungsvertrag, ein
 bestimmtes Risiko des Versicherungsnehmers oder eines Dritten durch
 eine Leistung abzusichern, die er bei Eintritt des vereinbarten
 Versicherungsfalles zu erbringen hat. Der Versicherungsnehmer ist
-verpflichtet, an den Versicherer die vereinbarte Zahlung (Prämie) zu
-leisten.
+verpflichtet, an den Versicherer die vereinbarte Zahlung (Prämie)
+zu leisten.
 
 
 ##### § 1a Vertriebstätigkeit des Versicherers
@@ -52,26 +46,20 @@ bestmöglichem Interesse handeln. Zur Vertriebstätigkeit gehören
 
 1.  Beratung,
 
-
 2.  Vorbereitung von Versicherungsverträgen einschließlich
     Vertragsvorschlägen,
 
-
 3.  Abschluss von Versicherungsverträgen,
-
 
 4.  Mitwirken bei Verwaltung und Erfüllung von Versicherungsverträgen,
     insbesondere im Schadensfall.
-
-
-
 
 (2) Absatz 1 gilt auch für die Bereitstellung von Informationen über
 einen oder mehrere Versicherungsverträge auf Grund von Kriterien, die
 ein Versicherungsnehmer über eine Website oder andere Medien wählt,
 ferner für die Erstellung einer Rangliste von Versicherungsprodukten,
-einschließlich eines Preis- und Produktvergleichs oder eines Rabatts
-auf den Preis eines Versicherungsvertrags, wenn der
+einschließlich eines Preis- und Produktvergleichs oder eines
+Rabatts auf den Preis eines Versicherungsvertrags, wenn der
 Versicherungsnehmer einen Versicherungsvertrag direkt oder indirekt
 über eine Website oder ein anderes Medium abschließen kann.
 
@@ -105,8 +93,8 @@ Kenntnis des Vertretenen zu berücksichtigen.
 ##### § 3 Versicherungsschein
 
 (1) Der Versicherer hat dem Versicherungsnehmer einen
-Versicherungsschein in Textform, auf dessen Verlangen als Urkunde, zu
-übermitteln.
+Versicherungsschein in Textform, auf dessen Verlangen als Urkunde,
+zu übermitteln.
 
 (2) Wird der Vertrag nicht durch eine Niederlassung des Versicherers
 im Inland geschlossen, ist im Versicherungsschein die Anschrift des
@@ -120,12 +108,12 @@ Kraftloserklärung, ist der Versicherer erst nach der Kraftloserklärung
 zur Ausstellung verpflichtet.
 
 (4) Der Versicherungsnehmer kann jederzeit vom Versicherer Abschriften
-der Erklärungen verlangen, die er mit Bezug auf den Vertrag abgegeben
-hat. Benötigt der Versicherungsnehmer die Abschriften für die Vornahme
-von Handlungen gegenüber dem Versicherer, die an eine bestimmte Frist
-gebunden sind, und sind sie ihm nicht schon früher vom Versicherer
-übermittelt worden, ist der Lauf der Frist vom Zugang des Verlangens
-beim Versicherer bis zum Eingang der Abschriften beim
+der Erklärungen verlangen, die er mit Bezug auf den Vertrag
+abgegeben hat. Benötigt der Versicherungsnehmer die Abschriften für
+die Vornahme von Handlungen gegenüber dem Versicherer, die an eine
+bestimmte Frist gebunden sind, und sind sie ihm nicht schon früher
+vom Versicherer übermittelt worden, ist der Lauf der Frist vom Zugang
+des Verlangens beim Versicherer bis zum Eingang der Abschriften beim
 Versicherungsnehmer gehemmt.
 
 (5) Die Kosten für die Erteilung eines neuen Versicherungsscheins nach
@@ -139,27 +127,27 @@ zu tragen und auf Verlangen vorzuschießen.
 Versicherungsschein ist § 808 des Bürgerlichen Gesetzbuchs anzuwenden.
 
 (2) Ist im Vertrag bestimmt, dass der Versicherer nur gegen Rückgabe
-eines als Urkunde ausgestellten Versicherungsscheins zu leisten hat,
-genügt, wenn der Versicherungsnehmer erklärt, zur Rückgabe außerstande
-zu sein, das öffentlich beglaubigte Anerkenntnis, dass die Schuld
-erloschen sei. Satz 1 ist nicht anzuwenden, wenn der
+eines als Urkunde ausgestellten Versicherungsscheins zu leisten
+hat, genügt, wenn der Versicherungsnehmer erklärt, zur Rückgabe
+außerstande zu sein, das öffentlich beglaubigte Anerkenntnis, dass
+die Schuld erloschen sei. Satz 1 ist nicht anzuwenden, wenn der
 Versicherungsschein der Kraftloserklärung unterliegt.
 
 
 ##### § 5 Abweichender Versicherungsschein
 
 (1) Weicht der Inhalt des Versicherungsscheins von dem Antrag des
-Versicherungsnehmers oder den getroffenen Vereinbarungen ab, gilt die
-Abweichung als genehmigt, wenn die Voraussetzungen des Absatzes 2
+Versicherungsnehmers oder den getroffenen Vereinbarungen ab, gilt
+die Abweichung als genehmigt, wenn die Voraussetzungen des Absatzes 2
 erfüllt sind und der Versicherungsnehmer nicht innerhalb eines Monats
 nach Zugang des Versicherungsscheins in Textform widerspricht.
 
-(2) Der Versicherer hat den Versicherungsnehmer bei Übermittlung des
-Versicherungsscheins darauf hinzuweisen, dass Abweichungen als
+(2) Der Versicherer hat den Versicherungsnehmer bei Übermittlung
+des Versicherungsscheins darauf hinzuweisen, dass Abweichungen als
 genehmigt gelten, wenn der Versicherungsnehmer nicht innerhalb eines
 Monats nach Zugang des Versicherungsscheins in Textform widerspricht.
-Auf jede Abweichung und die hiermit verbundenen Rechtsfolgen ist der
-Versicherungsnehmer durch einen auffälligen Hinweis im
+Auf jede Abweichung und die hiermit verbundenen Rechtsfolgen
+ist der Versicherungsnehmer durch einen auffälligen Hinweis im
 Versicherungsschein aufmerksam zu machen.
 
 (3) Hat der Versicherer die Verpflichtungen nach Absatz 2 nicht
@@ -172,15 +160,16 @@ verzichtet, den Vertrag wegen Irrtums anzufechten, ist unwirksam.
 
 ##### § 6 Beratung des Versicherungsnehmers
 
-(1) Der Versicherer hat den Versicherungsnehmer, soweit nach der
-Schwierigkeit, die angebotene Versicherung zu beurteilen, oder der
-Person des Versicherungsnehmers und dessen Situation hierfür Anlass
-besteht, nach seinen Wünschen und Bedürfnissen zu befragen und, auch
-unter Berücksichtigung eines angemessenen Verhältnisses zwischen
-Beratungsaufwand und der vom Versicherungsnehmer zu zahlenden Prämien,
-zu beraten sowie die Gründe für jeden zu einer bestimmten Versicherung
-erteilten Rat anzugeben. Er hat dies unter Berücksichtigung der
-Komplexität des angebotenen Versicherungsvertrags zu dokumentieren.
+(1) Vor Abschluss des Versicherungsvertrages hat der Versicherer den
+Versicherungsnehmer, soweit nach der Schwierigkeit, die angebotene
+Versicherung zu beurteilen, oder der Person des Versicherungsnehmers
+und dessen Situation hierfür Anlass besteht, nach seinen Wünschen
+und Bedürfnissen zu befragen und, auch unter Berücksichtigung eines
+angemessenen Verhältnisses zwischen Beratungsaufwand und der vom
+Versicherungsnehmer zu zahlenden Prämien, zu beraten sowie die Gründe
+für jeden zu einer bestimmten Versicherung erteilten Rat anzugeben.
+Er hat dies unter Berücksichtigung der Komplexität des angebotenen
+Versicherungsvertrags zu dokumentieren.
 
 (2) Für die Übermittlung des erteilten Rats und der Gründe hierfür
 gilt § 6a.
@@ -196,19 +185,19 @@ Versicherungsnehmer in Textform verzichten.
 
 (4) Die Verpflichtung nach Absatz 1 Satz 1 besteht auch nach
 Vertragsschluss während der Dauer des Versicherungsverhältnisses,
-soweit für den Versicherer ein Anlass für eine Nachfrage und Beratung
-des Versicherungsnehmers erkennbar ist; Absatz 3 Satz 2 gilt
+soweit für den Versicherer ein Anlass für eine Nachfrage und
+Beratung des Versicherungsnehmers erkennbar ist; Absatz 3 Satz 2 gilt
 entsprechend. Der Versicherungsnehmer kann im Einzelfall auf eine
 Beratung durch schriftliche Erklärung verzichten.
 
-(5) Verletzt der Versicherer eine Verpflichtung nach Absatz 1, 2 oder
-4, ist er dem Versicherungsnehmer zum Ersatz des hierdurch
+(5) Verletzt der Versicherer eine Verpflichtung nach Absatz 1, 2
+oder 4, ist er dem Versicherungsnehmer zum Ersatz des hierdurch
 entstehenden Schadens verpflichtet. Dies gilt nicht, wenn der
 Versicherer die Pflichtverletzung nicht zu vertreten hat.
 
 (6) Die Absätze 1 bis 5 sind auf Versicherungsverträge über ein
-Großrisiko im Sinn des § 210 Absatz 2 nicht anzuwenden, ferner dann
-nicht, wenn der Vertrag mit dem Versicherungsnehmer von einem
+Großrisiko im Sinn des § 210 Absatz 2 nicht anzuwenden, ferner
+dann nicht, wenn der Vertrag mit dem Versicherungsnehmer von einem
 Versicherungsmakler vermittelt wird.
 
 
@@ -219,20 +208,14 @@ Versicherungsnehmer wie folgt zu übermitteln:
 
 1.  auf Papier;
 
-
 2.  in klarer, genauer und für den Versicherungsnehmer verständlicher
     Weise;
-
 
 3.  in einer Amtssprache des Mitgliedstaats, in dem das Risiko belegen ist
     oder in dem die Verpflichtung eingegangen wird, oder in jeder anderen
     von den Parteien vereinbarten Sprache und
 
-
 4.  unentgeltlich.
-
-
-
 
 (2) Abweichend von Absatz 1 Nummer 1 dürfen die Auskünfte dem
 Versicherungsnehmer auch über eines der folgenden Medien erteilt
@@ -244,31 +227,21 @@ werden:
     einer Auskunftserteilung auf Papier oder auf einem dauerhaften
     Datenträger hatte und sich für diesen Datenträger entschieden hat oder
 
-
 2.  über eine Website, wenn der Zugang für den Versicherungsnehmer
     personalisiert wird oder wenn folgende Voraussetzungen erfüllt sind:
 
     a)  die Erteilung dieser Auskünfte über eine Website ist im Rahmen des
         getätigten Geschäfts angemessen;
 
-
     b)  der Versicherungsnehmer hat der Auskunftserteilung über eine Website
         zugestimmt;
-
 
     c)  dem Versicherungsnehmer wurden die Adresse der Website und die dortige
         Fundstelle der Auskünfte elektronisch mitgeteilt;
 
-
-    d)  es ist gewährleistet, dass diese Auskünfte auf der Website so lange
-        verfügbar bleiben, wie sie für den Versicherungsnehmer
+    d)  es ist gewährleistet, dass diese Auskünfte auf der Website so
+        lange verfügbar bleiben, wie sie für den Versicherungsnehmer
         vernünftigerweise abrufbar sein müssen.
-
-
-
-
-
-
 
 (3) Die Auskunftserteilung mittels eines anderen dauerhaften
 Datenträgers als Papier oder über eine Website im Rahmen eines
@@ -279,18 +252,18 @@ die Zwecke dieses Geschäfts gilt als solcher Nachweis.
 
 (4) Handelt es sich um einen telefonischen Kontakt, werden, selbst
 wenn sich der Versicherungsnehmer dafür entschieden hat, die Auskünfte
-gemäß Absatz 2 auf einem anderen dauerhaften Datenträger als Papier zu
-erhalten, die Auskünfte dem Versicherungsnehmer gemäß Absatz 1 oder
+gemäß Absatz 2 auf einem anderen dauerhaften Datenträger als Papier
+zu erhalten, die Auskünfte dem Versicherungsnehmer gemäß Absatz 1 oder
 Absatz 2 unmittelbar nach Abschluss des Versicherungsvertrags erteilt.
 
 
-##### § 7 Information des Versicherungsnehmers
+##### § 7 Information des Versicherungsnehmers; Verordnungsermächtigung
 
-(1) Der Versicherer hat dem Versicherungsnehmer rechtzeitig vor Abgabe
-von dessen Vertragserklärung seine Vertragsbestimmungen einschließlich
-der Allgemeinen Versicherungsbedingungen sowie die in einer
-Rechtsverordnung nach Absatz 2 bestimmten Informationen in Textform
-mitzuteilen. Die Mitteilungen sind in einer dem eingesetzten
+(1) Der Versicherer hat dem Versicherungsnehmer rechtzeitig vor
+Abgabe von dessen Vertragserklärung seine Vertragsbestimmungen
+einschließlich der Allgemeinen Versicherungsbedingungen sowie die
+in einer Rechtsverordnung nach Absatz 2 bestimmten Informationen in
+Textform mitzuteilen. Die Mitteilungen sind in einer dem eingesetzten
 Kommunikationsmittel entsprechenden Weise klar und verständlich zu
 übermitteln. Wird der Vertrag auf Verlangen des Versicherungsnehmers
 telefonisch oder unter Verwendung eines anderen Kommunikationsmittels
@@ -302,7 +275,7 @@ Erklärung auf eine Information vor Abgabe seiner Vertragserklärung
 ausdrücklich verzichtet.
 
 (2) Das Bundesministerium der Justiz und für Verbraucherschutz wird
-ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen und
+ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen
 durch Rechtsverordnung ohne Zustimmung des Bundesrates zum Zweck einer
 umfassenden Information des Versicherungsnehmers festzulegen,
 
@@ -311,7 +284,6 @@ umfassenden Information des Versicherungsnehmers festzulegen,
     sowie zum Bestehen eines Widerrufsrechts, dem Versicherungsnehmer
     mitzuteilen sind,
 
-
 2.  welche weiteren Informationen dem Versicherungsnehmer bei der
     Lebensversicherung, insbesondere über die zu erwartenden Leistungen,
     ihre Ermittlung und Berechnung, über eine Modellrechnung sowie über
@@ -319,72 +291,48 @@ umfassenden Information des Versicherungsnehmers festzulegen,
     eine Verrechnung mit Prämien erfolgt, und über sonstige Kosten
     mitzuteilen sind,
 
-
 3.  welche weiteren Informationen bei der Krankenversicherung,
     insbesondere über die Prämienentwicklung und -gestaltung sowie die
     Abschluss- und Vertriebskosten und die Verwaltungskosten, mitzuteilen
     sind,
 
-
 4.  was dem Versicherungsnehmer mitzuteilen ist, wenn der Versicherer mit
-    ihm telefonisch Kontakt aufgenommen hat und
-
+    ihm telefonisch Kontakt aufgenommen hat, und
 
 5.  in welcher Art und Weise die Informationen zu erteilen sind.
 
+(3) Bei der Festlegung der Mitteilungen nach Absatz 2 sind zu
+beachten:
 
+1.  die vorgeschriebenen Angaben nach der Richtlinie 2009/138/EG in der
+    Fassung vom 27. November 2024,
 
-Bei der Festlegung der Mitteilungen nach Satz 1 sind die
-vorgeschriebenen Angaben nach der Richtlinie 92/49/EWG des Rates vom
-18\. Juni 1992 zur Koordinierung der Rechts- und
-Verwaltungsvorschriften für die Direktversicherung (mit Ausnahme der
-Lebensversicherung) sowie zur Änderung der Richtlinien 73/239/EWG und
-88/357/EWG (Dritte Richtlinie Schadenversicherung) (ABl. L 228 vom
-11\.8.1992, S. 1) und der Richtlinie 2002/65/EG des Europäischen
-Parlaments und des Rates vom 23. September 2002 über den Fernabsatz
-von Finanzdienstleistungen an Verbraucher und zur Änderung der
-Richtlinie 90/619/EWG des Rates und der Richtlinien 97/7/EG und
-98/27/EG (ABl. L 271 vom 9.10.2002, S. 16) zu beachten. Bei der
-Festlegung der Mitteilungen nach Satz 1 sind ferner zu beachten:
+2.  die vorgeschriebenen Angaben nach der Richtlinie 2011/83/EU in der
+    Fassung vom 28. Februar 2024,
 
-1.  die technischen Durchführungsstandards, die die Europäische
+3.  die vorgeschriebenen Angaben nach der Richtlinie (EU) 2016/97 in der
+    Fassung vom 5. Dezember 2023,
+
+4.  die technischen Durchführungsstandards, die die Europäische
     Aufsichtsbehörde für das Versicherungswesen und die betriebliche
-    Altersversorgung nach der Richtlinie (EU) 2016/97 des Europäischen
-    Parlaments und des Rates vom 20. Januar 2016 über
-    Versicherungsvertrieb (Neufassung) (ABl. L 26 vom 2.2.2016, S. 19; L
-    222 vom 17.8.2016, S. 114) erarbeitet und die von der Kommission der
+    Altersversorgung nach der Richtlinie (EU) 2016/97 in der Fassung
+    vom 5. Dezember 2023 erarbeitet und die von der Kommission der
     Europäischen Union nach Artikel 15 der Verordnung (EU) Nr. 1094/2010
-    des Europäischen Parlaments und des Rates vom 24. November 2010 zur
-    Errichtung einer Europäischen Aufsichtsbehörde (Europäische
-    Aufsichtsbehörde für das Versicherungswesen und die betriebliche
-    Altersversorgung), zur Änderung des Beschlusses Nr. 716/2009/EG und
-    zur Aufhebung des Beschlusses 2009/79/EG der Kommission (ABl. L 331
-    vom 15.12.2010, S. 48), die zuletzt durch die Verordnung (EU) Nr.
-    258/2014 (ABl. L 105 vom 8.4.2014, S. 1) geändert worden ist, erlassen
-    worden sind,
+    in der Fassung vom 27. November 2024 erlassen worden sind, und
 
-
-2.  die delegierten Rechtsakte, die von der Kommission nach Artikel 29
+5.  die delegierten Rechtsakte, die von der Kommission nach Artikel 29
     Absatz 4 Buchstabe b und Artikel 30 Absatz 6 der Richtlinie (EU)
-    2016/97, jeweils in Verbindung mit Artikel 38 der Richtlinie (EU)
-    2016/97, erlassen worden sind.
+    2016/97 in der Fassung vom 5. Dezember 2023, jeweils in Verbindung mit
+    Artikel 38 der Richtlinie (EU) 2016/97 in der Fassung vom 5. Dezember
+    2023, erlassen worden sind.
 
-
-
-
-(3) In der Rechtsverordnung nach Absatz 2 ist ferner zu bestimmen, was
-der Versicherer während der Laufzeit des Vertrags in Textform
-mitteilen muss; dies gilt insbesondere bei Änderungen früherer
-Informationen, ferner bei der Krankenversicherung bei
+(4) In der Rechtsverordnung nach Absatz 2 ist ferner zu bestimmen,
+was der Versicherer während der Laufzeit des Vertrags in
+Textform mitteilen muss; dies gilt insbesondere bei Änderungen
+früherer Informationen, ferner bei der Krankenversicherung bei
 Prämienerhöhungen und hinsichtlich der Möglichkeit eines Tarifwechsels
 sowie bei der Lebensversicherung mit Überschussbeteiligung
 hinsichtlich der Entwicklung der Ansprüche des Versicherungsnehmers.
-
-(4) Der Versicherungsnehmer kann während der Laufzeit des Vertrags
-jederzeit vom Versicherer verlangen, dass ihm dieser die
-Vertragsbestimmungen einschließlich der Allgemeinen
-Versicherungsbedingungen in einer Urkunde übermittelt; die Kosten für
-die erste Übermittlung hat der Versicherer zu tragen.
 
 (5) Die Absätze 1 bis 4 sind auf Versicherungsverträge über ein
 Großrisiko im Sinn des § 210 Absatz 2 nicht anzuwenden. Ist bei einem
@@ -395,18 +343,18 @@ zuständige Aufsichtsbehörde in Textform mitzuteilen.
 
 ##### § 7a Querverkäufe
 
-(1) Wird ein Versicherungsprodukt zusammen mit einem Nebenprodukt oder
-einer Nebendienstleistung, das oder die keine Versicherung ist, als
-Paket oder als Teil eines Pakets oder derselben Vereinbarung
-angeboten, hat der Versicherer den Versicherungsnehmer darüber zu
-informieren, ob die Bestandteile getrennt voneinander gekauft werden
-können; ist dies der Fall, stellt er eine Beschreibung der
+(1) Wird ein Versicherungsprodukt zusammen mit einem Nebenprodukt
+oder einer Nebendienstleistung, das oder die keine Versicherung ist,
+als Paket oder als Teil eines Pakets oder derselben Vereinbarung
+angeboten, hat der Versicherer den Versicherungsnehmer darüber
+zu informieren, ob die Bestandteile getrennt voneinander gekauft
+werden können; ist dies der Fall, stellt er eine Beschreibung der
 Bestandteile der Vereinbarung oder des Pakets zur Verfügung und
 erbringt für jeden Bestandteil einen gesonderten Nachweis über Kosten
 und Gebühren.
 
-(2) Wird ein Paket angeboten, dessen Versicherungsdeckung sich von der
-Versicherungsdeckung beim getrennten Erwerb seiner Bestandteile
+(2) Wird ein Paket angeboten, dessen Versicherungsdeckung sich von
+der Versicherungsdeckung beim getrennten Erwerb seiner Bestandteile
 unterscheidet, stellt der Versicherer dem Versicherungsnehmer eine
 Beschreibung der Bestandteile des Pakets und der Art und Weise zur
 Verfügung, wie ihre Wechselwirkung die Versicherungsdeckung ändert.
@@ -417,34 +365,31 @@ Vereinbarung, bietet der Versicherer dem Versicherungsnehmer die
 Möglichkeit, die Ware oder die Dienstleistung gesondert zu kaufen.
 Dies gilt nicht, wenn das Versicherungsprodukt Folgendes ergänzt:
 
-1.  eine Wertpapierdienstleistung oder Anlagetätigkeit im Sinne des
-    Artikels 4 Absatz 1 Nummer 2 der Richtlinie 2014/65/EU des
+1.  eine Wertpapierdienstleistung oder Anlagetätigkeit im Sinne
+    des Artikels 4 Absatz 1 Nummer 2 der Richtlinie 2014/65/EU des
     Europäischen Parlaments und des Rates,
-
 
 2.  einen Kreditvertrag im Sinne des Artikels 4 Nummer 3 der Richtlinie
     2014/17/EU des Europäischen Parlaments und des Rates oder
 
-
 3.  ein Zahlungskonto im Sinne des Artikels 2 Nummer 3 der Richtlinie
     2014/92/EU des Europäischen Parlaments und des Rates.
 
-
-
-
-(4) Versicherer haben in den Fällen der Absätze 1 bis 3 die Wünsche
-und Bedürfnisse des Versicherungsnehmers im Zusammenhang mit den
-Versicherungsprodukten, die Teil des Pakets oder derselben
+(4) Versicherer haben in den Fällen der Absätze 1 bis 3 die
+Wünsche und Bedürfnisse des Versicherungsnehmers im Zusammenhang
+mit den Versicherungsprodukten, die Teil des Pakets oder derselben
 Vereinbarung sind, zu ermitteln.
 
-(5) Wird eine Restschuldversicherung als Nebenprodukt oder als Teil
-eines Pakets oder derselben Vereinbarung angeboten, ist der
-Versicherungsnehmer eine Woche nach Abgabe seiner Vertragserklärung
-für das Versicherungsprodukt erneut in Textform über sein
-Widerrufsrecht zu belehren. Das Informationsblatt zu
-Versicherungsprodukten ist dem Versicherungsnehmer mit dieser
-Belehrung erneut zur Verfügung zu stellen. Die Widerrufsfrist beginnt
-nicht vor Zugang dieser Unterlagen.
+(5) Der Versicherer darf einen Restschuldversicherungsvertrag,
+der sich auf einen Allgemein-Verbraucherdarlehensvertrag
+bezieht, nur dann schließen, wenn der Versicherungsnehmer die
+Vertragserklärung frühestens eine Woche nach Abschluss des Allgemein-
+Verbraucherdarlehensvertrags abgegeben hat. Verstößt der Versicherer
+gegen diese Verpflichtung, so ist der Restschuldversicherungsvertrag
+nichtig. Der Versicherungsnehmer eines Gruppenversicherungsvertrags
+für Restschuldversicherungen hat gegenüber der versicherten Person die
+Pflichten eines Versicherers. Die versicherte Person hat die Rechte
+eines Versicherungsnehmers, insbesondere das Widerrufsrecht.
 
 
 ##### § 7b Information bei Versicherungsanlageprodukten
@@ -461,32 +406,26 @@ Informationen enthalten mindestens das Folgende:
     Versicherungsanlageprodukts, das diesem Versicherungsnehmer empfohlen
     wird, gemäß § 7c geboten wird;
 
-
 2.  geeignete Leitlinien und Warnhinweise zu den mit
     Versicherungsanlageprodukten oder mit bestimmten vorgeschlagenen
     Anlagestrategien verbundenen Risiken;
-
 
 3.  Informationen über den Vertrieb des Versicherungsanlageprodukts,
     einschließlich der Beratungskosten und der Kosten des dem
     Versicherungsnehmer empfohlenen Versicherungsanlageprodukts;
 
-
 4.  wie der Versicherungsnehmer Zahlungen leisten kann, einschließlich
     Zahlungen Dritter.
-
-
-
 
 (2) Die Informationen über alle Kosten und Gebühren, einschließlich
 Kosten und Gebühren im Zusammenhang mit dem Vertrieb des
 Versicherungsanlageprodukts, die nicht durch das zugrunde liegende
-Marktrisiko verursacht werden, sind in zusammengefasster Form zu
-erteilen; die Gesamtkosten sowie die kumulative Wirkung auf die
-Anlagerendite müssen verständlich sein; ferner ist dem
-Versicherungsnehmer auf sein Verlangen eine Aufstellung der Kosten und
-Gebühren zur Verfügung zu stellen. Diese Informationen werden dem
-Versicherungsnehmer während der Laufzeit der Anlage regelmäßig,
+Marktrisiko verursacht werden, sind in zusammengefasster Form
+zu erteilen; die Gesamtkosten sowie die kumulative Wirkung
+auf die Anlagerendite müssen verständlich sein; ferner ist dem
+Versicherungsnehmer auf sein Verlangen eine Aufstellung der Kosten
+und Gebühren zur Verfügung zu stellen. Diese Informationen werden
+dem Versicherungsnehmer während der Laufzeit der Anlage regelmäßig,
 mindestens aber jährlich, zur Verfügung gestellt.
 
 
@@ -499,20 +438,16 @@ Versicherer zu erfragen:
     in Bezug auf den speziellen Produkttyp oder den speziellen Typ der
     Dienstleistung,
 
-
 2.  die finanziellen Verhältnisse des Versicherungsnehmers, einschließlich
     der Fähigkeit des Versicherungsnehmers, Verluste zu tragen, und
-
 
 3.  die Anlageziele, einschließlich der Risikotoleranz des
     Versicherungsnehmers.
 
-
-
 Der Versicherer darf dem Versicherungsnehmer nur
-Versicherungsanlageprodukte empfehlen, die für diesen geeignet sind
-und insbesondere dessen Risikotoleranz und dessen Fähigkeit, Verluste
-zu ertragen, entsprechen. Ein Paket von Dienstleistungen oder
+Versicherungsanlageprodukte empfehlen, die für diesen geeignet
+sind und insbesondere dessen Risikotoleranz und dessen Fähigkeit,
+Verluste zu ertragen, entsprechen. Ein Paket von Dienstleistungen oder
 Produkten, die gemäß § 7a gebündelt sind, darf der Versicherer bei
 einer Anlageberatung nur empfehlen, wenn das gesamte Paket für den
 Kunden geeignet ist.
@@ -520,17 +455,17 @@ Kunden geeignet ist.
 (2) Der Versicherer hat stets zu prüfen, ob das Versicherungsprodukt
 für den Versicherungsnehmer angemessen ist. Zur Beurteilung der
 Zweckmäßigkeit muss der Versicherer von dem Versicherungsnehmer
-Informationen über seine Kenntnisse und Erfahrung im Anlagebereich in
-Bezug auf den speziellen Produkttyp oder den speziellen Typ der
-Dienstleistung erfragen. Wird ein Paket entsprechend § 7a angeboten,
-hat der Versicherer zu berücksichtigen, ob das Paket angemessen ist.
-Ist der Versicherer der Auffassung, dass das Produkt für den
-Versicherungsnehmer unangemessen ist, warnt er den
+Informationen über seine Kenntnisse und Erfahrung im Anlagebereich
+in Bezug auf den speziellen Produkttyp oder den speziellen Typ
+der Dienstleistung erfragen. Wird ein Paket entsprechend § 7a
+angeboten, hat der Versicherer zu berücksichtigen, ob das Paket
+angemessen ist. Ist der Versicherer der Auffassung, dass das
+Produkt für den Versicherungsnehmer unangemessen ist, warnt er den
 Versicherungsnehmer. Macht der Versicherungsnehmer die in Absatz 1
 Satz 1 genannten Angaben nicht oder macht er unzureichende Angaben zu
 seinen Kenntnissen und seiner Erfahrung, warnt ihn der Versicherer,
-dass er wegen unzureichender Angaben nicht beurteilen kann, ob das in
-Betracht gezogene Produkt für ihn angemessen ist. Diese Warnungen
+dass er wegen unzureichender Angaben nicht beurteilen kann, ob das
+in Betracht gezogene Produkt für ihn angemessen ist. Diese Warnungen
 können in einem standardisierten Format erfolgen.
 
 (3) Versicherer können, wenn sie keine Beratung gemäß Absatz 1
@@ -540,58 +475,48 @@ Prüfung vertreiben, wenn die folgenden Bedingungen erfüllt sind:
 1.  die Tätigkeiten beziehen sich auf eines der folgenden
     Versicherungsanlageprodukte:
 
-    a)  Verträge, die ausschließlich Anlagerisiken aus Finanzinstrumenten mit
-        sich bringen, die nicht als komplexe Finanzinstrumente im Sinne der
-        Richtlinie 2014/65/EU gelten und keine Struktur aufweisen, die es dem
-        Versicherungsnehmer erschwert, die mit der Anlage einhergehenden
+    a)  Verträge, die ausschließlich Anlagerisiken aus Finanzinstrumenten
+        mit sich bringen, die nicht als komplexe Finanzinstrumente im Sinne
+        der Richtlinie 2014/65/EU gelten und keine Struktur aufweisen, die es
+        dem Versicherungsnehmer erschwert, die mit der Anlage einhergehenden
         Risiken zu verstehen, oder
 
-
     b)  andere nicht komplexe Versicherungsanlagen;
-
-
-
-
 
 2.  die Vertriebstätigkeit erfolgt auf Veranlassung des
     Versicherungsnehmers;
 
-
-3.  der Versicherungsnehmer wurde eindeutig darüber informiert, dass der
-    Versicherer bei der Erbringung der Vertriebstätigkeit die
+3.  der Versicherungsnehmer wurde eindeutig darüber informiert, dass
+    der Versicherer bei der Erbringung der Vertriebstätigkeit die
     Angemessenheit der angebotenen Versicherungsanlageprodukte nicht
     geprüft hat; eine derartige Warnung kann in standardisierter Form
     erfolgen;
 
-
 4.  der Versicherer kommt seinen Pflichten zur Vermeidung von
     Interessenkonflikten nach.
 
-
-
-
-(4) Der Versicherer erstellt eine Aufzeichnung der Vereinbarungen mit
-dem Versicherungsnehmer über die Rechte und Pflichten der Parteien
-sowie die Bedingungen, zu denen das Versicherungsunternehmen
+(4) Der Versicherer erstellt eine Aufzeichnung der Vereinbarungen
+mit dem Versicherungsnehmer über die Rechte und Pflichten der
+Parteien sowie die Bedingungen, zu denen das Versicherungsunternehmen
 Dienstleistungen für den Versicherungsnehmer erbringt. Die Rechte und
 Pflichten der Vertragsparteien können durch einen Verweis auf andere
 Dokumente oder Rechtstexte geregelt werden.
 
-(5) Der Versicherer muss dem Versicherungsnehmer angemessene Berichte
-über die erbrachten Dienstleistungen auf einem dauerhaften Datenträger
-zur Verfügung stellen. Diese Berichte enthalten regelmäßige
-Mitteilungen an den Versicherungsnehmer, die die Art und die
-Komplexität der jeweiligen Versicherungsanlageprodukte sowie die Art
-der für den Versicherungsnehmer erbrachten Dienstleistung
-berücksichtigen, und gegebenenfalls die Kosten, die mit den getätigten
-Geschäften und den erbrachten Dienstleistungen verbunden sind.
-Erbringt der Versicherer eine Beratungsleistung zu einem
+(5) Der Versicherer muss dem Versicherungsnehmer angemessene
+Berichte über die erbrachten Dienstleistungen auf einem dauerhaften
+Datenträger zur Verfügung stellen. Diese Berichte enthalten
+regelmäßige Mitteilungen an den Versicherungsnehmer, die die Art
+und die Komplexität der jeweiligen Versicherungsanlageprodukte sowie
+die Art der für den Versicherungsnehmer erbrachten Dienstleistung
+berücksichtigen, und gegebenenfalls die Kosten, die mit den
+getätigten Geschäften und den erbrachten Dienstleistungen verbunden
+sind. Erbringt der Versicherer eine Beratungsleistung zu einem
 Versicherungsanlageprodukt, stellt er dem Versicherungsnehmer vor
-Vertragsabschluss auf einem dauerhaften Datenträger eine Erklärung zur
-Verfügung, in der die erbrachte Beratungsleistung und die dabei
+Vertragsabschluss auf einem dauerhaften Datenträger eine Erklärung
+zur Verfügung, in der die erbrachte Beratungsleistung und die dabei
 berücksichtigten Präferenzen, Ziele und anderen kundenspezifischen
-Merkmale aufgeführt sind. § 6a findet Anwendung; über eine Website
-kann die Erklärung jedoch nicht erbracht werden. Wenn der
+Merkmale aufgeführt sind. § 6a findet Anwendung; über eine
+Website kann die Erklärung jedoch nicht erbracht werden. Wenn der
 Versicherungsvertrag unter Verwendung eines Fernkommunikationsmittels
 abgeschlossen wird und die vorherige Aushändigung der
 Angemessenheitserklärung nicht möglich ist, kann der Versicherer dem
@@ -601,137 +526,165 @@ Verfügung stellen, sofern die folgenden Bedingungen erfüllt sind:
 
 1.  der Versicherungsnehmer hat dieser Vorgehensweise zugestimmt und
 
-
 2.  der Versicherer hat dem Versicherungsnehmer angeboten, den Zeitpunkt
     des Vertragsabschlusses zu verschieben, damit der Versicherungsnehmer
     die Angemessenheitserklärung vorher erhalten kann.
 
-
-
-Hat der Versicherer dem Versicherungsnehmer mitgeteilt, dass er eine
-regelmäßige Beurteilung der Eignung vornehmen werde, muss der
-regelmäßige Bericht jeweils eine aktualisierte Erklärung dazu
-enthalten, inwieweit das Versicherungsanlageprodukt den Präferenzen,
-Zielen und anderen kundenspezifischen Merkmalen des
+Hat der Versicherer dem Versicherungsnehmer mitgeteilt, dass er
+eine regelmäßige Beurteilung der Eignung vornehmen werde, muss
+der regelmäßige Bericht jeweils eine aktualisierte Erklärung
+dazu enthalten, inwieweit das Versicherungsanlageprodukt den
+Präferenzen, Zielen und anderen kundenspezifischen Merkmalen des
 Versicherungsnehmers entspricht.
 
 
-##### § 7d Beratung, Information und Widerruf bei bestimmten Gruppenversicherungen
-
-Der Versicherungsnehmer eines Gruppenversicherungsvertrags für
-Restschuldversicherungen hat gegenüber der versicherten Person die
-Beratungs- und Informationspflichten eines Versicherers. Die
-versicherte Person hat die Rechte eines Versicherungsnehmers,
-insbesondere das Widerrufsrecht. Über dieses Widerrufsrecht ist eine
-Woche nach Abgabe der Vertragserklärung erneut in Textform zu
-belehren. Das Informationsblatt zu Versicherungsprodukten ist mit
-dieser Belehrung erneut zur Verfügung zu stellen. Die Widerrufsfrist
-beginnt nicht vor Zugang dieser Unterlagen.
+##### § 7d (weggefallen)
 
 
-##### § 8 Widerrufsrecht des Versicherungsnehmers
+##### § 8 Widerrufsrecht des Versicherungsnehmers; Verordnungsermächtigung
 
-(1) Der Versicherungsnehmer kann seine Vertragserklärung innerhalb von
-14 Tagen widerrufen. Der Widerruf ist in Textform gegenüber dem
+(1) Der Versicherungsnehmer kann seine Vertragserklärung innerhalb
+von 14 Tagen widerrufen. Der Widerruf ist in Textform gegenüber dem
 Versicherer zu erklären und muss keine Begründung enthalten; zur
-Fristwahrung genügt die rechtzeitige Absendung.
+Fristwahrung genügt die rechtzeitige Absendung. Auf Fernabsatzverträge
+nach § 312c des Bürgerlichen Gesetzbuchs, die über eine Online-
+Benutzeroberfläche geschlossen werden, ist § 356a des Bürgerlichen
+Gesetzbuchs anzuwenden.
 
-(2) Die Widerrufsfrist beginnt zu dem Zeitpunkt, zu dem folgende
-Unterlagen dem Versicherungsnehmer in Textform zugegangen sind:
+(2) Die Widerrufsfrist beginnt mit dem Vertragsschluss. Sie beginnt
+jedoch nicht, bevor folgende Unterlagen dem Versicherungsnehmer in
+Textform zugegangen sind:
 
 1.  der Versicherungsschein und die Vertragsbestimmungen einschließlich
     der Allgemeinen Versicherungsbedingungen sowie die weiteren
     Informationen, die nach der VVG-Informationspflichtenverordnung
     mitzuteilen sind, und
 
+2.  eine Belehrung über das Bestehen des Widerrufsrechts nach Absatz 1,
+    Angaben zur Widerrufsfrist und zu den Modalitäten für die Ausübung
+    des Widerrufsrechts, einschließlich des Namens und der ladungsfähigen
+    Anschrift desjenigen, dem gegenüber der Widerruf zu erklären ist, und
+    des Betrags, den der Versicherungsnehmer gegebenenfalls zu entrichten
+    hat, sowie die Folgen der Nichtausübung dieses Rechts.
 
-2.  eine deutlich gestaltete Belehrung über das Widerrufsrecht und über
-    die Rechtsfolgen des Widerrufs, die dem Versicherungsnehmer seine
-    Rechte entsprechend den Erfordernissen des eingesetzten
-    Kommunikationsmittels deutlich macht und die den Namen und die
-    ladungsfähige Anschrift desjenigen, gegenüber dem der Widerruf zu
-    erklären ist, sowie einen Hinweis auf den Fristbeginn und auf die
-    Regelungen des Absatzes 1 Satz 2 enthält.
-
-
-
-Bei Versicherungsprodukten, für die ein Basisinformationsblatt nach
-der Verordnung (EU) Nr. 1286/2014 des Europäischen Parlaments und des
-Rates vom 26. November 2014 über Basisinformationsblätter für
-verpackte Anlageprodukte für Kleinanleger und
-Versicherungsanlageprodukte (PRIIP) (ABl. L 352 vom 9.12.2014, S. 1; L
-358 vom 13.12.2014, S. 50), die zuletzt durch die Verordnung (EU)
-2019/1156 (ABl. L 188 vom 12.7.2019, S. 55) geändert worden ist, in
-der jeweils geltenden Fassung oder für die ein PEPP-
+Bei Versicherungsprodukten, für die ein Basisinformationsblatt
+nach der Verordnung (EU) Nr. 1286/2014 oder für die ein PEPP-
 Basisinformationsblatt nach Artikel 26 der Verordnung (EU) 2019/1238
-des Europäischen Parlaments und des Rates vom 20. Juni 2019 über ein
-Paneuropäisches Privates Pensionsprodukt (PEPP) (ABl. L 198 vom
-25\.7.2019, S. 1) in der jeweils geltenden Fassung zu erstellen ist,
-beginnt die Widerrufsfrist nicht, bevor auch das
+zu erstellen ist, beginnt die Widerrufsfrist nicht, bevor auch das
 Basisinformationsblatt oder das PEPP-Basisinformationsblatt zur
 Verfügung gestellt worden ist. Der Nachweis über den Zugang der
-Unterlagen nach den Sätzen 1 und 2 obliegt dem Versicherer.
+Unterlagen nach den Sätzen 2 und 3 obliegt dem Versicherer.
 
 (3) Das Widerrufsrecht besteht nicht
 
 1.  bei Versicherungsverträgen mit einer Laufzeit von weniger als einem
     Monat,
 
-
 2.  bei Versicherungsverträgen über vorläufige Deckung, es sei denn, es
-    handelt sich um einen Fernabsatzvertrag im Sinn des § 312c des
-    Bürgerlichen Gesetzbuchs,
-
+    handelt sich um einen Fernabsatzvertrag nach § 312c des Bürgerlichen
+    Gesetzbuchs,
 
 3.  bei Versicherungsverträgen bei Pensionskassen, die auf
     arbeitsvertraglichen Regelungen beruhen, es sei denn, es handelt sich
-    um einen Fernabsatzvertrag im Sinn des § 312c des Bürgerlichen
-    Gesetzbuchs,
+    um einen Fernabsatzvertrag nach § 312c des Bürgerlichen Gesetzbuchs,
 
+4.  bei Versicherungsverträgen über ein Großrisiko nach § 210 Absatz 2.
 
-4.  bei Versicherungsverträgen über ein Großrisiko im Sinn des § 210
-    Absatz 2.
-
-
-
-Das Widerrufsrecht erlischt, wenn der Vertrag von beiden Seiten auf
-ausdrücklichen Wunsch des Versicherungsnehmers vollständig erfüllt
+(4) Das Widerrufsrecht erlischt, wenn der Vertrag von beiden Seiten
+auf ausdrücklichen Wunsch des Versicherungsnehmers vollständig erfüllt
 ist, bevor der Versicherungsnehmer sein Widerrufsrecht ausgeübt hat.
+Das Widerrufsrecht erlischt spätestens zwölf Monate und 14 Tage nach
+dem Vertragsschluss. Dies gilt nicht, wenn der Versicherungsnehmer
+nicht gemäß Absatz 2 Satz 2 Nummer 2 über sein Widerrufsrecht nach
+Absatz 1 belehrt wurde.
 
-(4) Die nach Absatz 2 Satz 1 Nr. 2 zu erteilende Belehrung genügt den
-dort genannten Anforderungen, wenn das Muster der Anlage zu diesem
-Gesetz in Textform verwendet wird. Der Versicherer darf unter
-Beachtung von Absatz 2 Satz 1 Nr. 2 von dem Muster abweichen.
-Beschränkt sich die Abweichung unter Beachtung von Absatz 2 Satz 1
+(5) Die nach Absatz 2 Satz 2 Nummer 2 zu erteilende Belehrung genügt
+den dort genannten Anforderungen, wenn das Muster der Anlage zu
+diesem Gesetz in Textform verwendet wird. Der Versicherer darf unter
+Beachtung von Absatz 2 Satz 2 Nummer 2 von dem Muster abweichen.
+Beschränkt sich die Abweichung unter Beachtung von Absatz 2 Satz 2
 Nummer 2 auf Format und Schriftgröße oder darauf, dass der Versicherer
-Zusätze wie die Firma oder ein Kennzeichen des Versicherers anbringt,
-so ist Satz 1 anzuwenden.
+Zusätze wie die Firma oder ein Kennzeichen des Versicherers
+anbringt, so gilt Satz 1 entsprechend. Die Sätze 1 bis 3 sind auf
+Fernabsatzverträge nach § 312c des Bürgerlichen Gesetzbuchs nicht
+anzuwenden.
+
+(6) Das Bundesministerium der Justiz und für Verbraucherschutz
+wird ermächtigt, im Einvernehmen mit dem Bundesministerium der
+Finanzen durch Rechtsverordnung ohne Zustimmung des Bundesrates
+die Informationspflichten nach Abschnitt 2 der Anlage und die dazu
+erteilten Gestaltungshinweise zu ändern, wenn dies erforderlich
+ist, um die Informationspflichten nach Abschnitt 2 der Anlage und
+die dazu erteilten Gestaltungshinweise an eine Änderung der VVG-
+Informationspflichtenverordnung anzupassen.
 
 
 ##### § 9 Rechtsfolgen des Widerrufs
 
-(1) Übt der Versicherungsnehmer das Widerrufsrecht nach § 8 Abs. 1
-aus, hat der Versicherer nur den auf die Zeit nach Zugang des
-Widerrufs entfallenden Teil der Prämien zu erstatten, wenn der
-Versicherungsnehmer in der Belehrung nach § 8 Abs. 2 Satz 1 Nr. 2 auf
-sein Widerrufsrecht, die Rechtsfolgen des Widerrufs und den zu
-zahlenden Betrag hingewiesen worden ist und zugestimmt hat, dass der
-Versicherungsschutz vor Ende der Widerrufsfrist beginnt; die
-Erstattungspflicht ist unverzüglich, spätestens 30 Tage nach Zugang
-des Widerrufs zu erfüllen. Ist der in Satz 1 genannte Hinweis
-unterblieben, hat der Versicherer zusätzlich die für das erste Jahr
-des Versicherungsschutzes gezahlten Prämien zu erstatten; dies gilt
-nicht, wenn der Versicherungsnehmer Leistungen aus dem
-Versicherungsvertrag in Anspruch genommen hat.
+(1) Übt der Versicherungsnehmer das Widerrufsrecht nach § 8 Absatz
+1 aus, so sind die empfangenen Leistungen unverzüglich, spätestens
+innerhalb einer Frist von 30 Tagen zurückzugewähren. Die Frist beginnt
+für den Versicherer mit dem Zugang und für den Versicherungsnehmer mit
+der Abgabe der Widerrufserklärung.
 
-(2) Hat der Versicherungsnehmer sein Widerrufsrecht nach § 8 wirksam
-ausgeübt, ist er auch an einen mit dem Versicherungsvertrag
+(2) Beginnt der Versicherungsschutz vor dem Ende der Widerrufsfrist,
+hat der Versicherer dem Versicherungsnehmer abweichend von Absatz
+1 nur den auf die Zeit nach dem Zugang der Widerrufserklärung
+entfallenden Teil der Prämien zurückzugewähren, wenn der
+Versicherungsnehmer
+
+1.  vor Abgabe seiner Vertragserklärung ordnungsgemäß auf diese
+    Rechtsfolge hingewiesen worden ist und
+
+2.  bei einem Fernabsatzvertrag nach § 312c des Bürgerlichen Gesetzbuchs
+    ausdrücklich zugestimmt hat, dass der Versicherungsschutz vor dem Ende
+    der Widerrufsfrist beginnt.
+
+Der Versicherungsnehmer hat in diesem Fall Versicherungsleistungen,
+die er vor der Ausübung des Widerrufsrechts aufgrund eines
+Versicherungsfalls aus dem Versicherungsvertrag in Anspruch genommen
+hat, nicht zurückzugewähren.
+
+(3) Beginnt der Versicherungsschutz vor dem Ende der Widerrufsfrist
+und ist die Voraussetzung nach Absatz 2 Satz 1 Nummer 1 nicht erfüllt,
+hat der Versicherer abweichend von Absatz 1
+
+1.  den auf die Zeit nach dem Zugang der Widerrufserklärung entfallenden
+    Teil der Prämien zurückzugewähren und
+
+2.  zusätzlich die für das erste Jahr des Versicherungsschutzes gezahlten
+    Prämien zurückzugewähren, es sei denn, der Versicherungsnehmer hat vor
+    der Ausübung des Widerrufsrechts aufgrund eines Versicherungsfalls aus
+    dem Versicherungsvertrag Versicherungsleistungen in Anspruch genommen.
+
+Für den Versicherungsnehmer gilt Absatz 2 Satz 2 entsprechend.
+
+(4) Beginnt der Versicherungsschutz vor dem Ende der Widerrufsfrist
+und sind die Voraussetzungen nach Absatz 2 Satz 1 Nummer 1 oder
+2 nicht erfüllt, ist bei einem Fernabsatzvertrag nach § 312c des
+Bürgerlichen Gesetzbuchs nur Absatz 1 anzuwenden, es sei denn,
+der Versicherungsnehmer hat vor der Ausübung des Widerrufsrechts
+aufgrund eines Versicherungsfalls aus dem Versicherungsvertrag
+Versicherungsleistungen in Anspruch genommen. Der Versicherer hat in
+diesem Fall abweichend von Absatz 1
+
+1.  den auf die Zeit nach dem Zugang der Widerrufserklärung entfallenden
+    Teil der Prämien zurückzugewähren und
+
+2.  den auf die Zeit bis zum Zugang der Widerrufserklärung entfallenden
+    Teil der Prämien nur in Höhe des Betrages zurückzugewähren, der die
+    vom Versicherungsnehmer in Anspruch genommenen Leistungen übersteigt.
+
+Für den Versicherungsnehmer gilt Absatz 2 Satz 2 entsprechend.
+
+(5) Hat der Versicherungsnehmer sein Widerrufsrecht nach § 8
+wirksam ausgeübt, ist er auch an einen mit dem Versicherungsvertrag
 zusammenhängenden Vertrag nicht mehr gebunden. Ein zusammenhängender
 Vertrag liegt vor, wenn er einen Bezug zu dem widerrufenen Vertrag
 aufweist und eine Dienstleistung des Versicherers oder eines Dritten
 auf der Grundlage einer Vereinbarung zwischen dem Dritten und dem
-Versicherer betrifft. Eine Vertragsstrafe darf weder vereinbart noch
-verlangt werden.
+Versicherer betrifft. Dem Versicherungsnehmer dürfen durch die
+Ausübung des Widerrufsrechts keine Kosten entstehen.
 
 
 ##### § 10 Beginn und Ende der Versicherung
@@ -759,9 +712,9 @@ sie einvernehmlich bis zur Dauer von zwei Jahren verzichten.
 sie darf nicht weniger als einen Monat und nicht mehr als drei Monate
 betragen.
 
-(4) Ein Versicherungsvertrag, der für die Dauer von mehr als drei
-Jahren geschlossen worden ist, kann vom Versicherungsnehmer zum
-Schluss des dritten oder jedes darauf folgenden Jahres unter
+(4) Ein Versicherungsvertrag, der für die Dauer von mehr als
+drei Jahren geschlossen worden ist, kann vom Versicherungsnehmer
+zum Schluss des dritten oder jedes darauf folgenden Jahres unter
 Einhaltung einer Frist von drei Monaten gekündigt werden.
 
 
@@ -777,9 +730,9 @@ Zeitabschnitten bemessen ist, der Zeitraum eines Jahres.
 Versicherer nicht mitgeteilt, genügt für eine dem Versicherungsnehmer
 gegenüber abzugebende Willenserklärung die Absendung eines
 eingeschriebenen Briefes an die letzte dem Versicherer bekannte
-Anschrift des Versicherungsnehmers. Die Erklärung gilt drei Tage nach
-der Absendung des Briefes als zugegangen. Die Sätze 1 und 2 sind im
-Fall einer Namensänderung des Versicherungsnehmers entsprechend
+Anschrift des Versicherungsnehmers. Die Erklärung gilt drei Tage
+nach der Absendung des Briefes als zugegangen. Die Sätze 1 und 2 sind
+im Fall einer Namensänderung des Versicherungsnehmers entsprechend
 anzuwenden.
 
 (2) Hat der Versicherungsnehmer die Versicherung in seinem
@@ -815,8 +768,8 @@ zugeht.
 ##### § 16 Insolvenz des Versicherers
 
 (1) Wird über das Vermögen des Versicherers das Insolvenzverfahren
-eröffnet, endet das Versicherungsverhältnis mit Ablauf eines Monats
-seit der Eröffnung; bis zu diesem Zeitpunkt bleibt es der
+eröffnet, endet das Versicherungsverhältnis mit Ablauf eines
+Monats seit der Eröffnung; bis zu diesem Zeitpunkt bleibt es der
 Insolvenzmasse gegenüber wirksam.
 
 (2) Die Vorschriften des Versicherungsaufsichtsgesetzes über die
@@ -825,16 +778,16 @@ Wirkungen der Insolvenzeröffnung bleiben unberührt.
 
 ##### § 17 Abtretungsverbot bei unpfändbaren Sachen
 
-Soweit sich die Versicherung auf unpfändbare Sachen bezieht, kann eine
-Forderung aus der Versicherung nur auf solche Gläubiger des
+Soweit sich die Versicherung auf unpfändbare Sachen bezieht, kann
+eine Forderung aus der Versicherung nur auf solche Gläubiger des
 Versicherungsnehmers übertragen werden, die diesem zum Ersatz der
 zerstörten oder beschädigten Sachen andere Sachen geliefert haben.
 
 
 ##### § 18 Abweichende Vereinbarungen
 
-Von § 3 Abs. 1 bis 4, § 5 Abs. 1 bis 3, den §§ 6 bis 9 und 11 Abs. 2
-bis 4, § 14 Abs. 2 Satz 1 und § 15 kann nicht zum Nachteil des
+Von § 3 Abs. 1 bis 4, § 5 Abs. 1 bis 3, den §§ 6 bis 9 und 11 Abs.
+2 bis 4, § 14 Abs. 2 Satz 1 und § 15 kann nicht zum Nachteil des
 Versicherungsnehmers abgewichen werden.
 
 
@@ -845,11 +798,11 @@ Versicherungsnehmers abgewichen werden.
 
 (1) Der Versicherungsnehmer hat bis zur Abgabe seiner
 Vertragserklärung die ihm bekannten Gefahrumstände, die für den
-Entschluss des Versicherers, den Vertrag mit dem vereinbarten Inhalt
-zu schließen, erheblich sind und nach denen der Versicherer in
-Textform gefragt hat, dem Versicherer anzuzeigen. Stellt der
-Versicherer nach der Vertragserklärung des Versicherungsnehmers, aber
-vor Vertragsannahme Fragen im Sinn des Satzes 1, ist der
+Entschluss des Versicherers, den Vertrag mit dem vereinbarten
+Inhalt zu schließen, erheblich sind und nach denen der Versicherer
+in Textform gefragt hat, dem Versicherer anzuzeigen. Stellt der
+Versicherer nach der Vertragserklärung des Versicherungsnehmers,
+aber vor Vertragsannahme Fragen im Sinn des Satzes 1, ist der
 Versicherungsnehmer auch insoweit zur Anzeige verpflichtet.
 
 (2) Verletzt der Versicherungsnehmer seine Anzeigepflicht nach Absatz
@@ -861,9 +814,9 @@ fahrlässig verletzt hat. In diesem Fall hat der Versicherer das Recht,
 den Vertrag unter Einhaltung einer Frist von einem Monat zu kündigen.
 
 (4) Das Rücktrittsrecht des Versicherers wegen grob fahrlässiger
-Verletzung der Anzeigepflicht und sein Kündigungsrecht nach Absatz 3
-Satz 2 sind ausgeschlossen, wenn er den Vertrag auch bei Kenntnis der
-nicht angezeigten Umstände, wenn auch zu anderen Bedingungen,
+Verletzung der Anzeigepflicht und sein Kündigungsrecht nach Absatz
+3 Satz 2 sind ausgeschlossen, wenn er den Vertrag auch bei Kenntnis
+der nicht angezeigten Umstände, wenn auch zu anderen Bedingungen,
 geschlossen hätte. Die anderen Bedingungen werden auf Verlangen des
 Versicherers rückwirkend, bei einer vom Versicherungsnehmer nicht zu
 vertretenden Pflichtverletzung ab der laufenden Versicherungsperiode
@@ -887,11 +840,11 @@ Mitteilung auf dieses Recht hinzuweisen.
 ##### § 20 Vertreter des Versicherungsnehmers
 
 Wird der Vertrag von einem Vertreter des Versicherungsnehmers
-geschlossen, sind bei der Anwendung des § 19 Abs. 1 bis 4 und des § 21
-Abs. 2 Satz 2 sowie Abs. 3 Satz 2 sowohl die Kenntnis und die Arglist
-des Vertreters als auch die Kenntnis und die Arglist des
-Versicherungsnehmers zu berücksichtigen. Der Versicherungsnehmer kann
-sich darauf, dass die Anzeigepflicht nicht vorsätzlich oder grob
+geschlossen, sind bei der Anwendung des § 19 Abs. 1 bis 4 und des
+§ 21 Abs. 2 Satz 2 sowie Abs. 3 Satz 2 sowohl die Kenntnis und die
+Arglist des Vertreters als auch die Kenntnis und die Arglist des
+Versicherungsnehmers zu berücksichtigen. Der Versicherungsnehmer
+kann sich darauf, dass die Anzeigepflicht nicht vorsätzlich oder grob
 fahrlässig verletzt worden ist, nur berufen, wenn weder dem Vertreter
 noch dem Versicherungsnehmer Vorsatz oder grobe Fahrlässigkeit zur
 Last fällt.
@@ -908,17 +861,17 @@ die Umstände anzugeben, auf die er seine Erklärung stützt; er darf
 nachträglich weitere Umstände zur Begründung seiner Erklärung angeben,
 wenn für diese die Frist nach Satz 1 nicht verstrichen ist.
 
-(2) Im Fall eines Rücktrittes nach § 19 Abs. 2 nach Eintritt des
-Versicherungsfalles ist der Versicherer nicht zur Leistung
-verpflichtet, es sei denn, die Verletzung der Anzeigepflicht bezieht
-sich auf einen Umstand, der weder für den Eintritt oder die
+(2) Im Fall eines Rücktrittes nach § 19 Abs. 2 nach Eintritt
+des Versicherungsfalles ist der Versicherer nicht zur Leistung
+verpflichtet, es sei denn, die Verletzung der Anzeigepflicht
+bezieht sich auf einen Umstand, der weder für den Eintritt oder die
 Feststellung des Versicherungsfalles noch für die Feststellung oder
 den Umfang der Leistungspflicht des Versicherers ursächlich ist. Hat
 der Versicherungsnehmer die Anzeigepflicht arglistig verletzt, ist der
 Versicherer nicht zur Leistung verpflichtet.
 
-(3) Die Rechte des Versicherers nach § 19 Abs. 2 bis 4 erlöschen nach
-Ablauf von fünf Jahren nach Vertragsschluss; dies gilt nicht für
+(3) Die Rechte des Versicherers nach § 19 Abs. 2 bis 4 erlöschen
+nach Ablauf von fünf Jahren nach Vertragsschluss; dies gilt nicht für
 Versicherungsfälle, die vor Ablauf dieser Frist eingetreten sind. Hat
 der Versicherungsnehmer die Anzeigepflicht vorsätzlich oder arglistig
 verletzt, beläuft sich die Frist auf zehn Jahre.
@@ -942,8 +895,8 @@ gestattet hat, hat er die Gefahrerhöhung dem Versicherer unverzüglich
 anzuzeigen.
 
 (3) Tritt nach Abgabe der Vertragserklärung des Versicherungsnehmers
-eine Gefahrerhöhung unabhängig von seinem Willen ein, hat er die
-Gefahrerhöhung, nachdem er von ihr Kenntnis erlangt hat, dem
+eine Gefahrerhöhung unabhängig von seinem Willen ein, hat er
+die Gefahrerhöhung, nachdem er von ihr Kenntnis erlangt hat, dem
 Versicherer unverzüglich anzuzeigen.
 
 
@@ -960,9 +913,9 @@ einer Frist von einem Monat kündigen.
 Versicherer den Vertrag unter Einhaltung einer Frist von einem Monat
 kündigen.
 
-(3) Das Kündigungsrecht nach den Absätzen 1 und 2 erlischt, wenn es
-nicht innerhalb eines Monats ab der Kenntnis des Versicherers von der
-Erhöhung der Gefahr ausgeübt wird oder wenn der Zustand
+(3) Das Kündigungsrecht nach den Absätzen 1 und 2 erlischt, wenn
+es nicht innerhalb eines Monats ab der Kenntnis des Versicherers
+von der Erhöhung der Gefahr ausgeübt wird oder wenn der Zustand
 wiederhergestellt ist, der vor der Gefahrerhöhung bestanden hat.
 
 
@@ -971,11 +924,11 @@ wiederhergestellt ist, der vor der Gefahrerhöhung bestanden hat.
 (1) Der Versicherer kann an Stelle einer Kündigung ab dem Zeitpunkt
 der Gefahrerhöhung eine seinen Geschäftsgrundsätzen für diese höhere
 Gefahr entsprechende Prämie verlangen oder die Absicherung der höheren
-Gefahr ausschließen. Für das Erlöschen dieses Rechtes gilt § 24 Abs. 3
-entsprechend.
+Gefahr ausschließen. Für das Erlöschen dieses Rechtes gilt § 24 Abs.
+3 entsprechend.
 
-(2) Erhöht sich die Prämie als Folge der Gefahrerhöhung um mehr als 10
-Prozent oder schließt der Versicherer die Absicherung der höheren
+(2) Erhöht sich die Prämie als Folge der Gefahrerhöhung um mehr als
+10 Prozent oder schließt der Versicherer die Absicherung der höheren
 Gefahr aus, kann der Versicherungsnehmer den Vertrag innerhalb eines
 Monats nach Zugang der Mitteilung des Versicherers ohne Einhaltung
 einer Frist kündigen. Der Versicherer hat den Versicherungsnehmer in
@@ -984,17 +937,17 @@ der Mitteilung auf dieses Recht hinzuweisen.
 
 ##### § 26 Leistungsfreiheit wegen Gefahrerhöhung
 
-(1) Tritt der Versicherungsfall nach einer Gefahrerhöhung ein, ist der
-Versicherer nicht zur Leistung verpflichtet, wenn der
+(1) Tritt der Versicherungsfall nach einer Gefahrerhöhung ein,
+ist der Versicherer nicht zur Leistung verpflichtet, wenn der
 Versicherungsnehmer seine Verpflichtung nach § 23 Abs. 1 vorsätzlich
 verletzt hat. Im Fall einer grob fahrlässigen Verletzung ist der
 Versicherer berechtigt, seine Leistung in einem der Schwere des
-Verschuldens des Versicherungsnehmers entsprechenden Verhältnis zu
-kürzen; die Beweislast für das Nichtvorliegen einer groben
+Verschuldens des Versicherungsnehmers entsprechenden Verhältnis
+zu kürzen; die Beweislast für das Nichtvorliegen einer groben
 Fahrlässigkeit trägt der Versicherungsnehmer.
 
-(2) In den Fällen einer Gefahrerhöhung nach § 23 Abs. 2 und 3 ist der
-Versicherer nicht zur Leistung verpflichtet, wenn der
+(2) In den Fällen einer Gefahrerhöhung nach § 23 Abs. 2 und 3
+ist der Versicherer nicht zur Leistung verpflichtet, wenn der
 Versicherungsfall später als einen Monat nach dem Zeitpunkt eintritt,
 zu dem die Anzeige dem Versicherer hätte zugegangen sein müssen, es
 sei denn, dem Versicherer war die Gefahrerhöhung zu diesem Zeitpunkt
@@ -1008,13 +961,9 @@ Leistung verpflichtet,
 1.  soweit die Gefahrerhöhung nicht ursächlich für den Eintritt des
     Versicherungsfalles oder den Umfang der Leistungspflicht war oder
 
-
 2.  wenn zur Zeit des Eintrittes des Versicherungsfalles die Frist für die
     Kündigung des Versicherers abgelaufen und eine Kündigung nicht erfolgt
     war.
-
-
-
 
 
 ##### § 27 Unerhebliche Gefahrerhöhung
@@ -1028,8 +977,8 @@ soll.
 ##### § 28 Verletzung einer vertraglichen Obliegenheit
 
 (1) Bei Verletzung einer vertraglichen Obliegenheit, die vom
-Versicherungsnehmer vor Eintritt des Versicherungsfalles gegenüber dem
-Versicherer zu erfüllen ist, kann der Versicherer den Vertrag
+Versicherungsnehmer vor Eintritt des Versicherungsfalles gegenüber
+dem Versicherer zu erfüllen ist, kann der Versicherer den Vertrag
 innerhalb eines Monats, nachdem er von der Verletzung Kenntnis erlangt
 hat, ohne Einhaltung einer Frist kündigen, es sei denn, die Verletzung
 beruht nicht auf Vorsatz oder auf grober Fahrlässigkeit.
@@ -1037,11 +986,11 @@ beruht nicht auf Vorsatz oder auf grober Fahrlässigkeit.
 (2) Bestimmt der Vertrag, dass der Versicherer bei Verletzung einer
 vom Versicherungsnehmer zu erfüllenden vertraglichen Obliegenheit
 nicht zur Leistung verpflichtet ist, ist er leistungsfrei, wenn der
-Versicherungsnehmer die Obliegenheit vorsätzlich verletzt hat. Im Fall
-einer grob fahrlässigen Verletzung der Obliegenheit ist der
+Versicherungsnehmer die Obliegenheit vorsätzlich verletzt hat. Im
+Fall einer grob fahrlässigen Verletzung der Obliegenheit ist der
 Versicherer berechtigt, seine Leistung in einem der Schwere des
-Verschuldens des Versicherungsnehmers entsprechenden Verhältnis zu
-kürzen; die Beweislast für das Nichtvorliegen einer groben
+Verschuldens des Versicherungsnehmers entsprechenden Verhältnis
+zu kürzen; die Beweislast für das Nichtvorliegen einer groben
 Fahrlässigkeit trägt der Versicherungsnehmer.
 
 (3) Abweichend von Absatz 2 ist der Versicherer zur Leistung
@@ -1051,9 +1000,9 @@ Feststellung oder den Umfang der Leistungspflicht des Versicherers
 ursächlich ist. Satz 1 gilt nicht, wenn der Versicherungsnehmer die
 Obliegenheit arglistig verletzt hat.
 
-(4) Die vollständige oder teilweise Leistungsfreiheit des Versicherers
-nach Absatz 2 hat bei Verletzung einer nach Eintritt des
-Versicherungsfalles bestehenden Auskunfts- oder
+(4) Die vollständige oder teilweise Leistungsfreiheit des
+Versicherers nach Absatz 2 hat bei Verletzung einer nach
+Eintritt des Versicherungsfalles bestehenden Auskunfts- oder
 Aufklärungsobliegenheit zur Voraussetzung, dass der Versicherer den
 Versicherungsnehmer durch gesonderte Mitteilung in Textform auf diese
 Rechtsfolge hingewiesen hat.
@@ -1065,18 +1014,18 @@ unwirksam.
 
 ##### § 29 Teilrücktritt, Teilkündigung, teilweise Leistungsfreiheit
 
-(1) Liegen die Voraussetzungen, unter denen der Versicherer nach den
-Vorschriften dieses Abschnittes zum Rücktritt oder zur Kündigung
+(1) Liegen die Voraussetzungen, unter denen der Versicherer nach
+den Vorschriften dieses Abschnittes zum Rücktritt oder zur Kündigung
 berechtigt ist, nur bezüglich eines Teils der Gegenstände oder
 Personen vor, auf die sich die Versicherung bezieht, steht dem
-Versicherer das Recht zum Rücktritt oder zur Kündigung für den übrigen
-Teil nur zu, wenn anzunehmen ist, dass für diesen allein der
-Versicherer den Vertrag unter den gleichen Bedingungen nicht
+Versicherer das Recht zum Rücktritt oder zur Kündigung für den
+übrigen Teil nur zu, wenn anzunehmen ist, dass für diesen allein
+der Versicherer den Vertrag unter den gleichen Bedingungen nicht
 geschlossen hätte.
 
-(2) Macht der Versicherer von dem Recht zum Rücktritt oder zur
-Kündigung bezüglich eines Teils der Gegenstände oder Personen
-Gebrauch, ist der Versicherungsnehmer berechtigt, das
+(2) Macht der Versicherer von dem Recht zum Rücktritt oder
+zur Kündigung bezüglich eines Teils der Gegenstände oder
+Personen Gebrauch, ist der Versicherungsnehmer berechtigt, das
 Versicherungsverhältnis bezüglich des übrigen Teils zu kündigen. Die
 Kündigung muss spätestens zum Schluss der Versicherungsperiode erklärt
 werden, in welcher der Rücktritt oder die Kündigung des Versicherers
@@ -1107,10 +1056,10 @@ erlangt hat.
 ##### § 31 Auskunftspflicht des Versicherungsnehmers
 
 (1) Der Versicherer kann nach dem Eintritt des Versicherungsfalles
-verlangen, dass der Versicherungsnehmer jede Auskunft erteilt, die zur
-Feststellung des Versicherungsfalles oder des Umfanges der
-Leistungspflicht des Versicherers erforderlich ist. Belege kann der
-Versicherer insoweit verlangen, als deren Beschaffung dem
+verlangen, dass der Versicherungsnehmer jede Auskunft erteilt,
+die zur Feststellung des Versicherungsfalles oder des Umfanges
+der Leistungspflicht des Versicherers erforderlich ist. Belege
+kann der Versicherer insoweit verlangen, als deren Beschaffung dem
 Versicherungsnehmer billigerweise zugemutet werden kann.
 
 (2) Steht das Recht auf die vertragliche Leistung des Versicherers
@@ -1142,16 +1091,16 @@ wenn er vom Versicherer hierzu in Textform aufgefordert worden ist.
 
 ##### § 34 Zahlung durch Dritte
 
-(1) Der Versicherer muss fällige Prämien oder sonstige ihm auf Grund
-des Vertrags zustehende Zahlungen vom Versicherten bei einer
+(1) Der Versicherer muss fällige Prämien oder sonstige ihm auf
+Grund des Vertrags zustehende Zahlungen vom Versicherten bei einer
 Versicherung für fremde Rechnung, von einem Bezugsberechtigten, der
 ein Recht auf die Leistung des Versicherers erworben hat, sowie von
 einem Pfandgläubiger auch dann annehmen, wenn er die Zahlung nach den
 Vorschriften des Bürgerlichen Gesetzbuchs zurückweisen könnte.
 
-(2) Ein Pfandrecht an der Versicherungsforderung kann auch wegen der
-Beträge einschließlich ihrer Zinsen geltend gemacht werden, die der
-Pfandgläubiger zur Zahlung von Prämien oder zu sonstigen dem
+(2) Ein Pfandrecht an der Versicherungsforderung kann auch wegen
+der Beträge einschließlich ihrer Zinsen geltend gemacht werden, die
+der Pfandgläubiger zur Zahlung von Prämien oder zu sonstigen dem
 Versicherer auf Grund des Vertrags zustehenden Zahlungen verwendet
 hat.
 
@@ -1179,14 +1128,14 @@ die Stelle des Wohnsitzes.
 ##### § 37 Zahlungsverzug bei Erstprämie
 
 (1) Wird die einmalige oder die erste Prämie nicht rechtzeitig
-gezahlt, ist der Versicherer, solange die Zahlung nicht bewirkt ist,
-zum Rücktritt vom Vertrag berechtigt, es sei denn, der
+gezahlt, ist der Versicherer, solange die Zahlung nicht bewirkt
+ist, zum Rücktritt vom Vertrag berechtigt, es sei denn, der
 Versicherungsnehmer hat die Nichtzahlung nicht zu vertreten.
 
 (2) Ist die einmalige oder die erste Prämie bei Eintritt des
-Versicherungsfalles nicht gezahlt, ist der Versicherer nicht zur
-Leistung verpflichtet, es sei denn, der Versicherungsnehmer hat die
-Nichtzahlung nicht zu vertreten. Der Versicherer ist nur
+Versicherungsfalles nicht gezahlt, ist der Versicherer nicht
+zur Leistung verpflichtet, es sei denn, der Versicherungsnehmer
+hat die Nichtzahlung nicht zu vertreten. Der Versicherer ist nur
 leistungsfrei, wenn er den Versicherungsnehmer durch gesonderte
 Mitteilung in Textform oder durch einen auffälligen Hinweis im
 Versicherungsschein auf diese Rechtsfolge der Nichtzahlung der Prämie
@@ -1197,8 +1146,8 @@ aufmerksam gemacht hat.
 
 (1) Wird eine Folgeprämie nicht rechtzeitig gezahlt, kann der
 Versicherer dem Versicherungsnehmer auf dessen Kosten in Textform eine
-Zahlungsfrist bestimmen, die mindestens zwei Wochen betragen muss. Die
-Bestimmung ist nur wirksam, wenn sie die rückständigen Beträge der
+Zahlungsfrist bestimmen, die mindestens zwei Wochen betragen muss.
+Die Bestimmung ist nur wirksam, wenn sie die rückständigen Beträge der
 Prämie, Zinsen und Kosten im Einzelnen beziffert und die Rechtsfolgen
 angibt, die nach den Absätzen 2 und 3 mit dem Fristablauf verbunden
 sind; bei zusammengefassten Verträgen sind die Beträge jeweils
@@ -1210,26 +1159,26 @@ Zinsen oder Kosten in Verzug, ist der Versicherer nicht zur Leistung
 verpflichtet.
 
 (3) Der Versicherer kann nach Fristablauf den Vertrag ohne Einhaltung
-einer Frist kündigen, sofern der Versicherungsnehmer mit der Zahlung
-der geschuldeten Beträge in Verzug ist. Die Kündigung kann mit der
-Bestimmung der Zahlungsfrist so verbunden werden, dass sie mit
-Fristablauf wirksam wird, wenn der Versicherungsnehmer zu diesem
-Zeitpunkt mit der Zahlung in Verzug ist; hierauf ist der
+einer Frist kündigen, sofern der Versicherungsnehmer mit der
+Zahlung der geschuldeten Beträge in Verzug ist. Die Kündigung kann
+mit der Bestimmung der Zahlungsfrist so verbunden werden, dass
+sie mit Fristablauf wirksam wird, wenn der Versicherungsnehmer zu
+diesem Zeitpunkt mit der Zahlung in Verzug ist; hierauf ist der
 Versicherungsnehmer bei der Kündigung ausdrücklich hinzuweisen. Die
-Kündigung wird unwirksam, wenn der Versicherungsnehmer innerhalb eines
-Monats nach der Kündigung oder, wenn sie mit der Fristbestimmung
+Kündigung wird unwirksam, wenn der Versicherungsnehmer innerhalb
+eines Monats nach der Kündigung oder, wenn sie mit der Fristbestimmung
 verbunden worden ist, innerhalb eines Monats nach Fristablauf die
 Zahlung leistet; Absatz 2 bleibt unberührt.
 
 
 ##### § 39 Vorzeitige Vertragsbeendigung
 
-(1) Im Fall der Beendigung des Versicherungsverhältnisses vor Ablauf
-der Versicherungsperiode steht dem Versicherer für diese
+(1) Im Fall der Beendigung des Versicherungsverhältnisses vor
+Ablauf der Versicherungsperiode steht dem Versicherer für diese
 Versicherungsperiode nur derjenige Teil der Prämie zu, der dem
 Zeitraum entspricht, in dem Versicherungsschutz bestanden hat. Wird
-das Versicherungsverhältnis durch Rücktritt auf Grund des § 19 Abs. 2
-oder durch Anfechtung des Versicherers wegen arglistiger Täuschung
+das Versicherungsverhältnis durch Rücktritt auf Grund des § 19 Abs.
+2 oder durch Anfechtung des Versicherers wegen arglistiger Täuschung
 beendet, steht dem Versicherer die Prämie bis zum Wirksamwerden der
 Rücktritts- oder Anfechtungserklärung zu. Tritt der Versicherer nach §
 37 Abs. 1 zurück, kann er eine angemessene Geschäftsgebühr verlangen.
@@ -1242,13 +1191,13 @@ der für diese Zeit aufgewendeten Kosten zurückfordern.
 
 ##### § 40 Kündigung bei Prämienerhöhung
 
-(1) Erhöht der Versicherer auf Grund einer Anpassungsklausel die
-Prämie, ohne dass sich der Umfang des Versicherungsschutzes
+(1) Erhöht der Versicherer auf Grund einer Anpassungsklausel
+die Prämie, ohne dass sich der Umfang des Versicherungsschutzes
 entsprechend ändert, kann der Versicherungsnehmer den Vertrag
 innerhalb eines Monats nach Zugang der Mitteilung des Versicherers mit
 sofortiger Wirkung, frühestens jedoch zum Zeitpunkt des Wirksamwerdens
-der Erhöhung, kündigen. Der Versicherer hat den Versicherungsnehmer in
-der Mitteilung auf das Kündigungsrecht hinzuweisen. Die Mitteilung
+der Erhöhung, kündigen. Der Versicherer hat den Versicherungsnehmer
+in der Mitteilung auf das Kündigungsrecht hinzuweisen. Die Mitteilung
 muss dem Versicherungsnehmer spätestens einen Monat vor dem
 Wirksamwerden der Erhöhung der Prämie zugehen.
 
@@ -1259,11 +1208,11 @@ ohne die Prämie entsprechend herabzusetzen.
 
 ##### § 41 Herabsetzung der Prämie
 
-Ist wegen bestimmter gefahrerhöhender Umstände eine höhere Prämie
-vereinbart und sind diese Umstände nach Antragstellung des
+Ist wegen bestimmter gefahrerhöhender Umstände eine höhere
+Prämie vereinbart und sind diese Umstände nach Antragstellung des
 Versicherungsnehmers oder nach Vertragsschluss weggefallen oder
-bedeutungslos geworden, kann der Versicherungsnehmer verlangen, dass
-die Prämie ab Zugang des Verlangens beim Versicherer angemessen
+bedeutungslos geworden, kann der Versicherungsnehmer verlangen,
+dass die Prämie ab Zugang des Verlangens beim Versicherer angemessen
 herabgesetzt wird. Dies gilt auch, wenn die Bemessung der höheren
 Prämie durch unrichtige, auf einem Irrtum des Versicherungsnehmers
 beruhende Angaben über einen solchen Umstand veranlasst worden ist.
@@ -1284,8 +1233,8 @@ Versicherungsnehmers abgewichen werden.
 Namen für einen anderen, mit oder ohne Benennung der Person des
 Versicherten, schließen (Versicherung für fremde Rechnung).
 
-(2) Wird der Versicherungsvertrag für einen anderen geschlossen, ist,
-auch wenn dieser benannt wird, im Zweifel anzunehmen, dass der
+(2) Wird der Versicherungsvertrag für einen anderen geschlossen,
+ist, auch wenn dieser benannt wird, im Zweifel anzunehmen, dass der
 Versicherungsnehmer nicht als Vertreter, sondern im eigenen Namen für
 fremde Rechnung handelt.
 
@@ -1296,9 +1245,9 @@ Rechnung geschlossen.
 
 ##### § 44 Rechte des Versicherten
 
-(1) Bei der Versicherung für fremde Rechnung stehen die Rechte aus dem
-Versicherungsvertrag dem Versicherten zu. Die Übermittlung des
-Versicherungsscheins kann jedoch nur der Versicherungsnehmer
+(1) Bei der Versicherung für fremde Rechnung stehen die Rechte
+aus dem Versicherungsvertrag dem Versicherten zu. Die Übermittlung
+des Versicherungsscheins kann jedoch nur der Versicherungsnehmer
 verlangen.
 
 (2) Der Versicherte kann ohne Zustimmung des Versicherungsnehmers nur
@@ -1312,40 +1261,40 @@ machen, wenn er im Besitz des Versicherungsscheins ist.
 aus dem Versicherungsvertrag zustehen, im eigenen Namen verfügen.
 
 (2) Ist ein Versicherungsschein ausgestellt, ist der
-Versicherungsnehmer ohne Zustimmung des Versicherten zur Annahme der
-Leistung des Versicherers und zur Übertragung der Rechte des
+Versicherungsnehmer ohne Zustimmung des Versicherten zur Annahme
+der Leistung des Versicherers und zur Übertragung der Rechte des
 Versicherten nur befugt, wenn er im Besitz des Versicherungsscheins
 ist.
 
-(3) Der Versicherer ist zur Leistung an den Versicherungsnehmer nur
-verpflichtet, wenn der Versicherte seine Zustimmung zu der
+(3) Der Versicherer ist zur Leistung an den Versicherungsnehmer
+nur verpflichtet, wenn der Versicherte seine Zustimmung zu der
 Versicherung erteilt hat.
 
 
 ##### § 46 Rechte zwischen Versicherungsnehmer und Versichertem
 
-Der Versicherungsnehmer ist nicht verpflichtet, dem Versicherten oder,
-falls über dessen Vermögen das Insolvenzverfahren eröffnet ist, der
-Insolvenzmasse den Versicherungsschein auszuliefern, bevor er wegen
-seiner Ansprüche gegen den Versicherten in Bezug auf die versicherte
-Sache befriedigt ist. Er kann sich für diese Ansprüche aus der
-Entschädigungsforderung gegen den Versicherer und nach deren
+Der Versicherungsnehmer ist nicht verpflichtet, dem Versicherten
+oder, falls über dessen Vermögen das Insolvenzverfahren eröffnet
+ist, der Insolvenzmasse den Versicherungsschein auszuliefern, bevor
+er wegen seiner Ansprüche gegen den Versicherten in Bezug auf die
+versicherte Sache befriedigt ist. Er kann sich für diese Ansprüche
+aus der Entschädigungsforderung gegen den Versicherer und nach deren
 Einziehung aus der Entschädigungssumme vor dem Versicherten und dessen
 Gläubigern befriedigen.
 
 
 ##### § 47 Kenntnis und Verhalten des Versicherten
 
-(1) Soweit die Kenntnis und das Verhalten des Versicherungsnehmers von
-rechtlicher Bedeutung sind, sind bei der Versicherung für fremde
+(1) Soweit die Kenntnis und das Verhalten des Versicherungsnehmers
+von rechtlicher Bedeutung sind, sind bei der Versicherung für fremde
 Rechnung auch die Kenntnis und das Verhalten des Versicherten zu
 berücksichtigen.
 
 (2) Die Kenntnis des Versicherten ist nicht zu berücksichtigen, wenn
 der Vertrag ohne sein Wissen geschlossen worden ist oder ihm eine
 rechtzeitige Benachrichtigung des Versicherungsnehmers nicht möglich
-oder nicht zumutbar war. Der Versicherer braucht den Einwand, dass der
-Vertrag ohne Wissen des Versicherten geschlossen worden ist, nicht
+oder nicht zumutbar war. Der Versicherer braucht den Einwand, dass
+der Vertrag ohne Wissen des Versicherten geschlossen worden ist, nicht
 gegen sich gelten zu lassen, wenn der Versicherungsnehmer den Vertrag
 ohne Auftrag des Versicherten geschlossen und bei Vertragsschluss dem
 Versicherer nicht angezeigt hat, dass er den Vertrag ohne Auftrag des
@@ -1356,8 +1305,8 @@ Versicherten schließt.
 
 Ist die Versicherung für Rechnung „wen es angeht“ genommen oder ist
 dem Vertrag in sonstiger Weise zu entnehmen, dass unbestimmt bleiben
-soll, ob eigenes oder fremdes Interesse versichert ist, sind die §§ 43
-bis 47 anzuwenden, wenn sich aus den Umständen ergibt, dass fremdes
+soll, ob eigenes oder fremdes Interesse versichert ist, sind die §§
+43 bis 47 anzuwenden, wenn sich aus den Umständen ergibt, dass fremdes
 Interesse versichert ist.
 
 
@@ -1366,9 +1315,9 @@ Interesse versichert ist.
 
 ##### § 49 Inhalt des Vertrags
 
-(1) Bei einem Versicherungsvertrag, dessen wesentlicher Inhalt die
-Gewährung einer vorläufigen Deckung durch den Versicherer ist, kann
-vereinbart werden, dass dem Versicherungsnehmer die
+(1) Bei einem Versicherungsvertrag, dessen wesentlicher Inhalt
+die Gewährung einer vorläufigen Deckung durch den Versicherer
+ist, kann vereinbart werden, dass dem Versicherungsnehmer die
 Vertragsbestimmungen und die Informationen nach § 7 Abs. 1 in
 Verbindung mit einer Rechtsverordnung nach § 7 Abs. 2 nur auf
 Anforderung und spätestens mit dem Versicherungsschein vom Versicherer
@@ -1376,14 +1325,14 @@ zu übermitteln sind. Auf einen Fernabsatzvertrag im Sinn des § 312c
 des Bürgerlichen Gesetzbuchs ist Satz 1 nicht anzuwenden.
 
 (2) Werden die Allgemeinen Versicherungsbedingungen dem
-Versicherungsnehmer bei Vertragsschluss nicht übermittelt, werden die
-vom Versicherer zu diesem Zeitpunkt für den vorläufigen
-Versicherungsschutz üblicherweise verwendeten Bedingungen, bei Fehlen
-solcher Bedingungen die für den Hauptvertrag vom Versicherer
+Versicherungsnehmer bei Vertragsschluss nicht übermittelt, werden
+die vom Versicherer zu diesem Zeitpunkt für den vorläufigen
+Versicherungsschutz üblicherweise verwendeten Bedingungen, bei
+Fehlen solcher Bedingungen die für den Hauptvertrag vom Versicherer
 verwendeten Bedingungen auch ohne ausdrücklichen Hinweis hierauf
-Vertragsbestandteil. Bestehen Zweifel, welche Bedingungen für den
-Vertrag gelten sollen, werden die zum Zeitpunkt des Vertragsschlusses
-vom Versicherer verwendeten Bedingungen, die für den
+Vertragsbestandteil. Bestehen Zweifel, welche Bedingungen
+für den Vertrag gelten sollen, werden die zum Zeitpunkt des
+Vertragsschlusses vom Versicherer verwendeten Bedingungen, die für den
 Versicherungsnehmer am günstigsten sind, Vertragsbestandteil.
 
 
@@ -1398,10 +1347,10 @@ die beim Zustandekommen des Hauptvertrags für diesen zu zahlen wäre.
 
 ##### § 51 Prämienzahlung
 
-(1) Der Beginn des Versicherungsschutzes kann von der Zahlung der
-Prämie abhängig gemacht werden, sofern der Versicherer den
-Versicherungsnehmer durch gesonderte Mitteilung in Textform oder durch
-einen auffälligen Hinweis im Versicherungsschein auf diese
+(1) Der Beginn des Versicherungsschutzes kann von der Zahlung
+der Prämie abhängig gemacht werden, sofern der Versicherer den
+Versicherungsnehmer durch gesonderte Mitteilung in Textform oder
+durch einen auffälligen Hinweis im Versicherungsschein auf diese
 Voraussetzung aufmerksam gemacht hat.
 
 (2) Von Absatz 1 kann nicht zum Nachteil des Versicherungsnehmers
@@ -1412,14 +1361,14 @@ abgewichen werden.
 
 (1) Der Vertrag über vorläufige Deckung endet spätestens zu dem
 Zeitpunkt, zu dem nach einem vom Versicherungsnehmer geschlossenen
-Hauptvertrag oder einem weiteren Vertrag über vorläufige Deckung ein
-gleichartiger Versicherungsschutz beginnt. Ist der Beginn des
-Versicherungsschutzes nach dem Hauptvertrag oder dem weiteren Vertrag
-über vorläufige Deckung von der Zahlung der Prämie durch den
-Versicherungsnehmer abhängig, endet der Vertrag über vorläufige
-Deckung bei Nichtzahlung oder verspäteter Zahlung der Prämie
-abweichend von Satz 1 spätestens zu dem Zeitpunkt, zu dem der
-Versicherungsnehmer mit der Prämienzahlung in Verzug ist,
+Hauptvertrag oder einem weiteren Vertrag über vorläufige Deckung
+ein gleichartiger Versicherungsschutz beginnt. Ist der Beginn
+des Versicherungsschutzes nach dem Hauptvertrag oder dem weiteren
+Vertrag über vorläufige Deckung von der Zahlung der Prämie
+durch den Versicherungsnehmer abhängig, endet der Vertrag über
+vorläufige Deckung bei Nichtzahlung oder verspäteter Zahlung der
+Prämie abweichend von Satz 1 spätestens zu dem Zeitpunkt, zu dem
+der Versicherungsnehmer mit der Prämienzahlung in Verzug ist,
 vorausgesetzt, dass der Versicherer den Versicherungsnehmer durch
 gesonderte Mitteilung in Textform oder durch einen auffälligen Hinweis
 im Versicherungsschein auf diese Rechtsfolge aufmerksam gemacht hat.
@@ -1429,8 +1378,8 @@ Hauptvertrag oder den weiteren Vertrag über vorläufige Deckung mit
 einem anderen Versicherer schließt. Der Versicherungsnehmer hat dem
 bisherigen Versicherer den Vertragsschluss unverzüglich mitzuteilen.
 
-(3) Kommt der Hauptvertrag mit dem Versicherer, mit dem der Vertrag
-über vorläufige Deckung besteht, nicht zustande, weil der
+(3) Kommt der Hauptvertrag mit dem Versicherer, mit dem der
+Vertrag über vorläufige Deckung besteht, nicht zustande, weil der
 Versicherungsnehmer seine Vertragserklärung nach § 8 widerruft oder
 nach § 5 Abs. 1 und 2 einen Widerspruch erklärt, endet der Vertrag
 über vorläufige Deckung spätestens mit dem Zugang des Widerrufs oder
@@ -1451,13 +1400,13 @@ Versicherungsnehmers abgewichen werden.
 ##### § 53 Anmeldepflicht
 
 Wird ein Vertrag in der Weise geschlossen, dass das versicherte
-Interesse bei Vertragsschluss nur der Gattung nach bezeichnet und erst
-nach seiner Entstehung dem Versicherer einzeln aufgegeben wird
+Interesse bei Vertragsschluss nur der Gattung nach bezeichnet und
+erst nach seiner Entstehung dem Versicherer einzeln aufgegeben wird
 (laufende Versicherung), ist der Versicherungsnehmer verpflichtet,
 entweder die versicherten Risiken einzeln oder, wenn der Versicherer
 darauf verzichtet hat, die vereinbarte Prämiengrundlage unverzüglich
-anzumelden oder, wenn dies vereinbart ist, jeweils Deckungszusage zu
-beantragen.
+anzumelden oder, wenn dies vereinbart ist, jeweils Deckungszusage
+zu beantragen.
 
 
 ##### § 54 Verletzung der Anmeldepflicht
@@ -1472,13 +1421,13 @@ unverzüglich nach Kenntniserlangung von dem Fehler nachholt oder
 berichtigt.
 
 (2) Verletzt der Versicherungsnehmer die Anmelde- oder Antragspflicht
-vorsätzlich, kann der Versicherer den Vertrag fristlos kündigen. Die
-Versicherung von Einzelrisiken, für die der Versicherungsschutz
-begonnen hat, bleibt, wenn anderes nicht vereinbart ist, über das Ende
-der laufenden Versicherung hinaus bis zu dem Zeitpunkt bestehen, zu
-dem die vereinbarte Dauer der Versicherung dieser Einzelrisiken endet.
-Der Versicherer kann ferner die Prämie verlangen, die bis zum
-Wirksamwerden der Kündigung zu zahlen gewesen wäre, wenn der
+vorsätzlich, kann der Versicherer den Vertrag fristlos kündigen.
+Die Versicherung von Einzelrisiken, für die der Versicherungsschutz
+begonnen hat, bleibt, wenn anderes nicht vereinbart ist, über das
+Ende der laufenden Versicherung hinaus bis zu dem Zeitpunkt bestehen,
+zu dem die vereinbarte Dauer der Versicherung dieser Einzelrisiken
+endet. Der Versicherer kann ferner die Prämie verlangen, die bis
+zum Wirksamwerden der Kündigung zu zahlen gewesen wäre, wenn der
 Versicherungsnehmer die Anmeldepflicht erfüllt hätte.
 
 
@@ -1491,16 +1440,16 @@ zur Leistung verpflichtet. Durch die Leistung an den Inhaber der
 Urkunde wird er befreit.
 
 (2) Ist die Urkunde abhandengekommen oder vernichtet, ist der
-Versicherer zur Leistung erst verpflichtet, wenn die Urkunde für
-kraftlos erklärt oder Sicherheit geleistet ist; eine
-Sicherheitsleistung durch Bürgen ist ausgeschlossen. Dies gilt auch
-für die Verpflichtung des Versicherers zur Ausstellung einer
+Versicherer zur Leistung erst verpflichtet, wenn die Urkunde
+für kraftlos erklärt oder Sicherheit geleistet ist; eine
+Sicherheitsleistung durch Bürgen ist ausgeschlossen. Dies gilt
+auch für die Verpflichtung des Versicherers zur Ausstellung einer
 Ersatzurkunde.
 
 (3) Der Inhalt der Einzelpolice oder eines Versicherungszertifikats
-gilt abweichend von § 5 als vom Versicherungsnehmer genehmigt, wenn
-dieser nicht unverzüglich nach der Übermittlung widerspricht. Das
-Recht des Versicherungsnehmers, die Genehmigung wegen Irrtums
+gilt abweichend von § 5 als vom Versicherungsnehmer genehmigt,
+wenn dieser nicht unverzüglich nach der Übermittlung widerspricht.
+Das Recht des Versicherungsnehmers, die Genehmigung wegen Irrtums
 anzufechten, bleibt unberührt.
 
 
@@ -1535,16 +1484,11 @@ Versicherer hätte zugehen müssen. Er ist zur Leistung verpflichtet,
 1.  wenn ihm die Gefahrerhöhung zu dem Zeitpunkt bekannt war, zu dem ihm
     die Anzeige hätte zugehen müssen,
 
-
 2.  wenn die Anzeigepflicht weder vorsätzlich noch grob fahrlässig
     verletzt worden ist oder
 
-
 3.  soweit die Gefahrerhöhung nicht ursächlich für den Eintritt des
     Versicherungsfalles oder den Umfang der Leistungspflicht war.
-
-
-
 
 (3) Der Versicherer ist abweichend von § 24 nicht berechtigt, den
 Vertrag wegen einer Gefahrerhöhung zu kündigen.
@@ -1573,10 +1517,10 @@ kündigen.
 ###### § 59 Begriffsbestimmungen
 
 (1) Versicherungsvermittler im Sinn dieses Gesetzes sind
-Versicherungsvertreter und Versicherungsmakler. Die §§ 1a, 6a, 7a, 7b
-und 7c gelten für Versicherungsvermittler entsprechend.
-Versicherungsvermittler ist auch, wer eine Vertriebstätigkeit im Sinne
-von § 1a Absatz 2 ausführt, ohne dass die Voraussetzungen des
+Versicherungsvertreter und Versicherungsmakler. Die §§ 1a, 6a,
+7a, 7b und 7c gelten für Versicherungsvermittler entsprechend.
+Versicherungsvermittler ist auch, wer eine Vertriebstätigkeit im
+Sinne von § 1a Absatz 2 ausführt, ohne dass die Voraussetzungen des
 nachfolgenden Absatzes 2 oder 3 vorliegen.
 
 (2) Versicherungsvertreter im Sinn dieses Gesetzes ist, wer von einem
@@ -1585,19 +1529,19 @@ gewerbsmäßig Versicherungsverträge zu vermitteln oder abzuschließen.
 
 (3) Versicherungsmakler im Sinn dieses Gesetzes ist, wer gewerbsmäßig
 für den Auftraggeber die Vermittlung oder den Abschluss von
-Versicherungsverträgen übernimmt, ohne von einem Versicherer oder von
-einem Versicherungsvertreter damit betraut zu sein. Als
+Versicherungsverträgen übernimmt, ohne von einem Versicherer
+oder von einem Versicherungsvertreter damit betraut zu sein. Als
 Versicherungsmakler gilt, wer gegenüber dem Versicherungsnehmer den
 Anschein erweckt, er erbringe seine Leistungen als Versicherungsmakler
 nach Satz 1.
 
-(4) Versicherungsberater im Sinn dieses Gesetzes ist, wer gewerbsmäßig
-Dritte bei der Vereinbarung, Änderung oder Prüfung von
+(4) Versicherungsberater im Sinn dieses Gesetzes ist, wer
+gewerbsmäßig Dritte bei der Vereinbarung, Änderung oder Prüfung von
 Versicherungsverträgen oder bei der Wahrnehmung von Ansprüchen aus
 Versicherungsverträgen im Versicherungsfall berät oder gegenüber dem
 Versicherer außergerichtlich vertritt, ohne von einem Versicherer
-einen wirtschaftlichen Vorteil zu erhalten oder in anderer Weise von
-ihm abhängig zu sein. Die §§ 1a, 6a, 7a, 7b und 7c gelten für
+einen wirtschaftlichen Vorteil zu erhalten oder in anderer Weise
+von ihm abhängig zu sein. Die §§ 1a, 6a, 7a, 7b und 7c gelten für
 Versicherungsberater entsprechend.
 
 
@@ -1605,20 +1549,20 @@ Versicherungsberater entsprechend.
 
 (1) Der Versicherungsmakler ist verpflichtet, seinem Rat eine
 hinreichende Zahl von auf dem Markt angebotenen Versicherungsverträgen
-und von Versicherern zu Grunde zu legen, so dass er nach fachlichen
-Kriterien eine Empfehlung dahin abgeben kann, welcher
-Versicherungsvertrag geeignet ist, die Bedürfnisse des
+und von Versicherern zu Grunde zu legen, so dass er nach
+fachlichen Kriterien eine Empfehlung dahin abgeben kann,
+welcher Versicherungsvertrag geeignet ist, die Bedürfnisse des
 Versicherungsnehmers zu erfüllen. Dies gilt nicht, soweit er im
 Einzelfall vor Abgabe der Vertragserklärung des Versicherungsnehmers
 diesen ausdrücklich auf eine eingeschränkte Versicherer- und
 Vertragsauswahl hinweist.
 
 (2) Der Versicherungsmakler, der nach Absatz 1 Satz 2 auf eine
-eingeschränkte Auswahl hinweist, und der Versicherungsvertreter haben
-dem Versicherungsnehmer mitzuteilen, auf welcher Markt- und
-Informationsgrundlage sie ihre Leistung erbringen, und die Namen der
-ihrem Rat zu Grunde gelegten Versicherer anzugeben. Der
-Versicherungsvertreter hat außerdem mitzuteilen, für welche
+eingeschränkte Auswahl hinweist, und der Versicherungsvertreter
+haben dem Versicherungsnehmer mitzuteilen, auf welcher Markt-
+und Informationsgrundlage sie ihre Leistung erbringen, und die
+Namen der ihrem Rat zu Grunde gelegten Versicherer anzugeben.
+Der Versicherungsvertreter hat außerdem mitzuteilen, für welche
 Versicherer er seine Tätigkeit ausübt und ob er für diese
 ausschließlich tätig ist.
 
@@ -1654,31 +1598,31 @@ Versicherungsnehmer in Textform verzichten.
 
 (1) Dem Versicherungsnehmer sind die Informationen nach § 60 Abs. 2
 vor Abgabe seiner Vertragserklärung, die Informationen nach § 61 Abs.
-1 vor dem Abschluss des Vertrags klar und verständlich in Textform zu
-übermitteln.
+1 vor dem Abschluss des Vertrags klar und verständlich in Textform
+zu übermitteln.
 
 (2) Die Informationen nach Absatz 1 dürfen mündlich übermittelt
-werden, wenn der Versicherungsnehmer dies wünscht oder wenn und soweit
-der Versicherer vorläufige Deckung gewährt. In diesen Fällen sind die
-Informationen unverzüglich nach Vertragsschluss, spätestens mit dem
-Versicherungsschein dem Versicherungsnehmer in Textform zu
+werden, wenn der Versicherungsnehmer dies wünscht oder wenn und
+soweit der Versicherer vorläufige Deckung gewährt. In diesen Fällen
+sind die Informationen unverzüglich nach Vertragsschluss, spätestens
+mit dem Versicherungsschein dem Versicherungsnehmer in Textform zu
 übermitteln; dies gilt nicht für Verträge über vorläufige Deckung bei
 Pflichtversicherungen.
 
 
 ###### § 63 Schadensersatzpflicht
 
-Der Versicherungsvermittler ist zum Ersatz des Schadens verpflichtet,
-der dem Versicherungsnehmer durch die Verletzung einer Pflicht nach §
-60 oder § 61 entsteht. Dies gilt nicht, wenn der
+Der Versicherungsvermittler ist zum Ersatz des Schadens
+verpflichtet, der dem Versicherungsnehmer durch die Verletzung einer
+Pflicht nach § 60 oder § 61 entsteht. Dies gilt nicht, wenn der
 Versicherungsvermittler die Pflichtverletzung nicht zu vertreten hat.
 
 
 ###### § 64 Zahlungssicherung zugunsten des Versicherungsnehmers
 
 Eine Bevollmächtigung des Versicherungsvermittlers durch den
-Versicherungsnehmer zur Annahme von Leistungen des Versicherers, die
-dieser auf Grund eines Versicherungsvertrags an den
+Versicherungsnehmer zur Annahme von Leistungen des Versicherers,
+die dieser auf Grund eines Versicherungsvertrags an den
 Versicherungsnehmer zu erbringen hat, bedarf einer gesonderten
 schriftlichen Erklärung des Versicherungsnehmers.
 
@@ -1692,9 +1636,9 @@ Versicherungsverträgen über Großrisiken im Sinn des § 210 Absatz 2.
 ###### § 66 Sonstige Ausnahmen
 
 § 1a Absatz 2, die §§ 6a, 7b, 7c, 60 bis 64, 69 Absatz 2 und § 214
-gelten nicht für Versicherungsvermittler in Nebentätigkeit nach § 34d
-Absatz 8 Nummer 1 der Gewerbeordnung. Versicherungsvermittler in
-Nebentätigkeit haben dem Versicherungsnehmer vor Abschluss eines
+gelten nicht für Versicherungsvermittler in Nebentätigkeit nach §
+34d Absatz 8 Nummer 1 der Gewerbeordnung. Versicherungsvermittler
+in Nebentätigkeit haben dem Versicherungsnehmer vor Abschluss eines
 Versicherungsvertrags Informationen über ihre Identität und ihre
 Anschrift sowie über die Verfahren, nach denen die Versicherungsnehmer
 und andere interessierte Parteien Beschwerden einlegen können, zur
@@ -1711,8 +1655,8 @@ abgewichen werden.
 
 ###### § 68 Versicherungsberater
 
-Die für Versicherungsmakler geltenden Vorschriften des § 60 Abs. 1
-Satz 1, des § 61 Abs. 1 und der §§ 62 bis 65 und 67 sind auf
+Die für Versicherungsmakler geltenden Vorschriften des § 60 Abs.
+1 Satz 1, des § 61 Abs. 1 und der §§ 62 bis 65 und 67 sind auf
 Versicherungsberater entsprechend anzuwenden. Weitergehende Pflichten
 des Versicherungsberaters aus dem Auftragsverhältnis bleiben
 unberührt.
@@ -1730,19 +1674,14 @@ unberührt.
     Anzeigen und sonstigen Erklärungen vom Versicherungsnehmer
     entgegenzunehmen,
 
-
-2.  Anträge auf Verlängerung oder Änderung eines Versicherungsvertrags und
-    deren Widerruf, die Kündigung, den Rücktritt und sonstige das
-    Versicherungsverhältnis betreffende Erklärungen sowie die während der
-    Dauer des Versicherungsverhältnisses zu erstattenden Anzeigen vom
+2.  Anträge auf Verlängerung oder Änderung eines Versicherungsvertrags
+    und deren Widerruf, die Kündigung, den Rücktritt und sonstige das
+    Versicherungsverhältnis betreffende Erklärungen sowie die während
+    der Dauer des Versicherungsverhältnisses zu erstattenden Anzeigen vom
     Versicherungsnehmer entgegenzunehmen und
-
 
 3.  die vom Versicherer ausgefertigten Versicherungsscheine oder
     Verlängerungsscheine dem Versicherungsnehmer zu übermitteln.
-
-
-
 
 (2) Der Versicherungsvertreter gilt als bevollmächtigt, Zahlungen, die
 der Versicherungsnehmer im Zusammenhang mit der Vermittlung oder dem
@@ -1751,20 +1690,20 @@ Beschränkung dieser Vollmacht muss der Versicherungsnehmer nur gegen
 sich gelten lassen, wenn er die Beschränkung bei der Vornahme der
 Zahlung kannte oder infolge grober Fahrlässigkeit nicht kannte.
 
-(3) Der Versicherungsnehmer trägt die Beweislast für die Abgabe oder
-den Inhalt eines Antrags oder einer sonstigen Willenserklärung nach
-Absatz 1 Nr. 1 und 2. Die Beweislast für die Verletzung der
+(3) Der Versicherungsnehmer trägt die Beweislast für die Abgabe
+oder den Inhalt eines Antrags oder einer sonstigen Willenserklärung
+nach Absatz 1 Nr. 1 und 2. Die Beweislast für die Verletzung der
 Anzeigepflicht oder einer Obliegenheit durch den Versicherungsnehmer
 trägt der Versicherer.
 
 
 ###### § 70 Kenntnis des Versicherungsvertreters
 
-Soweit nach diesem Gesetz die Kenntnis des Versicherers erheblich ist,
-steht die Kenntnis des Versicherungsvertreters der Kenntnis des
-Versicherers gleich. Dies gilt nicht für die Kenntnis des
-Versicherungsvertreters, die er außerhalb seiner Tätigkeit als
-Vertreter und ohne Zusammenhang mit dem betreffenden
+Soweit nach diesem Gesetz die Kenntnis des Versicherers erheblich
+ist, steht die Kenntnis des Versicherungsvertreters der Kenntnis
+des Versicherers gleich. Dies gilt nicht für die Kenntnis des
+Versicherungsvertreters, die er außerhalb seiner Tätigkeit
+als Vertreter und ohne Zusammenhang mit dem betreffenden
 Versicherungsvertrag erlangt hat.
 
 
@@ -1785,9 +1724,9 @@ ist gegenüber dem Versicherungsnehmer und Dritten unwirksam.
 
 ###### § 73 Angestellte und nicht gewerbsmäßig tätige Vermittler
 
-Die §§ 69 bis 72 sind auf Angestellte eines Versicherers, die mit der
-Vermittlung oder dem Abschluss von Versicherungsverträgen betraut
-sind, und auf Personen, die als Vertreter selbständig
+Die §§ 69 bis 72 sind auf Angestellte eines Versicherers, die
+mit der Vermittlung oder dem Abschluss von Versicherungsverträgen
+betraut sind, und auf Personen, die als Vertreter selbständig
 Versicherungsverträge vermitteln oder abschließen, ohne gewerbsmäßig
 tätig zu sein, entsprechend anzuwenden.
 
@@ -1806,10 +1745,10 @@ verlangen, dass die Versicherungssumme zur Beseitigung der
 Überversicherung unter verhältnismäßiger Minderung der Prämie mit
 sofortiger Wirkung herabgesetzt wird.
 
-(2) Schließt der Versicherungsnehmer den Vertrag in der Absicht, sich
-aus der Überversicherung einen rechtswidrigen Vermögensvorteil zu
-verschaffen, ist der Vertrag nichtig; dem Versicherer steht die Prämie
-bis zu dem Zeitpunkt zu, zu dem er von den die Nichtigkeit
+(2) Schließt der Versicherungsnehmer den Vertrag in der Absicht,
+sich aus der Überversicherung einen rechtswidrigen Vermögensvorteil
+zu verschaffen, ist der Vertrag nichtig; dem Versicherer steht die
+Prämie bis zu dem Zeitpunkt zu, zu dem er von den die Nichtigkeit
 begründenden Umständen Kenntnis erlangt.
 
 
@@ -1825,18 +1764,18 @@ Versicherungssumme zu diesem Wert zu erbringen.
 
 Der Versicherungswert kann durch Vereinbarung auf einen bestimmten
 Betrag (Taxe) festgesetzt werden. Die Taxe gilt auch als der Wert, den
-das versicherte Interesse bei Eintritt des Versicherungsfalles hat, es
-sei denn, sie übersteigt den wirklichen Versicherungswert zu diesem
+das versicherte Interesse bei Eintritt des Versicherungsfalles hat,
+es sei denn, sie übersteigt den wirklichen Versicherungswert zu diesem
 Zeitpunkt erheblich. Ist die Versicherungssumme niedriger als die
 Taxe, hat der Versicherer, auch wenn die Taxe erheblich übersetzt ist,
-den Schaden nur nach dem Verhältnis der Versicherungssumme zur Taxe zu
-ersetzen.
+den Schaden nur nach dem Verhältnis der Versicherungssumme zur Taxe
+zu ersetzen.
 
 
 ##### § 77 Mehrere Versicherer
 
-(1) Wer bei mehreren Versicherern ein Interesse gegen dieselbe Gefahr
-versichert, ist verpflichtet, jedem Versicherer die andere
+(1) Wer bei mehreren Versicherern ein Interesse gegen dieselbe
+Gefahr versichert, ist verpflichtet, jedem Versicherer die andere
 Versicherung unverzüglich mitzuteilen. In der Mitteilung sind der
 andere Versicherer und die Versicherungssumme anzugeben.
 
@@ -1847,34 +1786,46 @@ versichert, ist Absatz 1 entsprechend anzuwenden.
 
 ##### § 78 Haftung bei Mehrfachversicherung
 
-(1) Ist bei mehreren Versicherern ein Interesse gegen dieselbe Gefahr
-versichert und übersteigen die Versicherungssummen zusammen den
-Versicherungswert oder übersteigt aus anderen Gründen die Summe der
-Entschädigungen, die von jedem Versicherer ohne Bestehen der anderen
-Versicherung zu zahlen wären, den Gesamtschaden
+(1) Ist bei mehreren Versicherern ein Interesse gegen dieselbe
+Gefahr versichert und übersteigen die Versicherungssummen zusammen
+den Versicherungswert oder übersteigt aus anderen Gründen die
+Summe der Entschädigungen, die von jedem Versicherer ohne Bestehen
+der anderen Versicherung zu zahlen wären, den Gesamtschaden
 (Mehrfachversicherung), haften die Versicherer in der Weise als
 Gesamtschuldner, dass jeder Versicherer den von ihm nach dem Vertrag
 zu leistenden Betrag zu zahlen hat, der Versicherungsnehmer aber
 insgesamt nicht mehr als den Betrag des Schadens verlangen kann.
 
 (2) Die Versicherer sind im Verhältnis zueinander zu Anteilen nach
-Maßgabe der Beträge verpflichtet, die sie dem Versicherungsnehmer nach
-dem jeweiligen Vertrag zu zahlen haben. Ist auf eine der
+Maßgabe der Beträge verpflichtet, die sie dem Versicherungsnehmer
+nach dem jeweiligen Vertrag zu zahlen haben. Ist auf eine der
 Versicherungen ausländisches Recht anzuwenden, kann der Versicherer,
 für den das ausländische Recht gilt, gegen den anderen Versicherer
 einen Anspruch auf Ausgleichung nur geltend machen, wenn er selbst
 nach dem für ihn maßgeblichen Recht zur Ausgleichung verpflichtet ist.
 
 (3) In der Haftpflichtversicherung von Gespannen sind bei einer
-Mehrfachversicherung die Versicherer im Verhältnis zueinander zu
-Anteilen entsprechend der Regelung in § 19 Absatz 4 des
-Straßenverkehrsgesetzes verpflichtet.
+Mehrfachversicherung die Versicherer im Verhältnis zueinander
+zu Anteilen entsprechend der Regelung in § 19 Absatz 4 des
+Straßenverkehrsgesetzes verpflichtet. Wird ein Unfall durch ein
+Gespann verursacht und ist der Kraftfahrzeughaftpflichtversicherer
+des Anhängers nicht verpflichtet, dem Dritten vollständigen
+Schadensersatz zu leisten, so unterrichtet dieser Versicherer den
+Dritten auf dessen Verlangen unverzüglich über die Identität des
+Kraftfahrzeughaftpflichtversicherers des Zugfahrzeugs oder, wenn
+er den Kraftfahrzeughaftpflichtversicherer des Zugfahrzeugs nicht
+ermitteln kann, über den Entschädigungsmechanismus nach Artikel 10 der
+Richtlinie 2009/103/EG des Europäischen Parlaments und des Rates vom
+16\. September 2009 über die Kraftfahrzeug-Haftpflichtversicherung und
+die Kontrolle der entsprechenden Versicherungspflicht (ABl. L 263 vom
+7\.10.2009, S. 11), die durch die Richtlinie (EU) 2021/2118 (ABl. L 430
+vom 2.12.2021, S. 1) geändert worden ist.
 
 (4) Hat der Versicherungsnehmer eine Mehrfachversicherung in der
 Absicht vereinbart, sich dadurch einen rechtswidrigen Vermögensvorteil
 zu verschaffen, ist jeder in dieser Absicht geschlossene Vertrag
-nichtig; dem Versicherer steht die Prämie bis zu dem Zeitpunkt zu, zu
-dem er von den die Nichtigkeit begründenden Umständen Kenntnis
+nichtig; dem Versicherer steht die Prämie bis zu dem Zeitpunkt zu,
+zu dem er von den die Nichtigkeit begründenden Umständen Kenntnis
 erlangt.
 
 
@@ -1890,10 +1841,10 @@ ist.
 
 (2) Absatz 1 ist auch anzuwenden, wenn die Mehrfachversicherung
 dadurch entstanden ist, dass nach Abschluss der mehreren
-Versicherungsverträge der Versicherungswert gesunken ist. Sind in
-diesem Fall die mehreren Versicherungsverträge gleichzeitig oder im
-Einvernehmen der Versicherer geschlossen worden, kann der
-Versicherungsnehmer nur die verhältnismäßige Herabsetzung der
+Versicherungsverträge der Versicherungswert gesunken ist. Sind
+in diesem Fall die mehreren Versicherungsverträge gleichzeitig
+oder im Einvernehmen der Versicherer geschlossen worden, kann
+der Versicherungsnehmer nur die verhältnismäßige Herabsetzung der
 Versicherungssummen und der Prämien verlangen.
 
 
@@ -1901,9 +1852,9 @@ Versicherungssummen und der Prämien verlangen.
 
 (1) Der Versicherungsnehmer ist nicht zur Zahlung der Prämie
 verpflichtet, wenn das versicherte Interesse bei Beginn der
-Versicherung nicht besteht; dies gilt auch, wenn das Interesse bei
-einer Versicherung, die für ein künftiges Unternehmen oder für ein
-anderes künftiges Interesse genommen ist, nicht entsteht. Der
+Versicherung nicht besteht; dies gilt auch, wenn das Interesse
+bei einer Versicherung, die für ein künftiges Unternehmen oder für
+ein anderes künftiges Interesse genommen ist, nicht entsteht. Der
 Versicherer kann jedoch eine angemessene Geschäftsgebühr verlangen.
 
 (2) Fällt das versicherte Interesse nach dem Beginn der Versicherung
@@ -1925,8 +1876,8 @@ begründenden Umständen Kenntnis erlangt.
 Versicherungsnehmer vorsätzlich den Versicherungsfall herbeiführt.
 
 (2) Führt der Versicherungsnehmer den Versicherungsfall grob
-fahrlässig herbei, ist der Versicherer berechtigt, seine Leistung in
-einem der Schwere des Verschuldens des Versicherungsnehmers
+fahrlässig herbei, ist der Versicherer berechtigt, seine Leistung
+in einem der Schwere des Verschuldens des Versicherungsnehmers
 entsprechenden Verhältnis zu kürzen.
 
 
@@ -1936,18 +1887,18 @@ entsprechenden Verhältnis zu kürzen.
 nach Möglichkeit für die Abwendung und Minderung des Schadens zu
 sorgen.
 
-(2) Der Versicherungsnehmer hat Weisungen des Versicherers, soweit für
-ihn zumutbar, zu befolgen sowie Weisungen einzuholen, wenn die
+(2) Der Versicherungsnehmer hat Weisungen des Versicherers, soweit
+für ihn zumutbar, zu befolgen sowie Weisungen einzuholen, wenn die
 Umstände dies gestatten. Erteilen mehrere an dem Versicherungsvertrag
 beteiligte Versicherer unterschiedliche Weisungen, hat der
 Versicherungsnehmer nach pflichtgemäßem Ermessen zu handeln.
 
-(3) Bei Verletzung einer Obliegenheit nach den Absätzen 1 und 2 ist
-der Versicherer nicht zur Leistung verpflichtet, wenn der
-Versicherungsnehmer die Obliegenheit vorsätzlich verletzt hat. Im Fall
-einer grob fahrlässigen Verletzung ist der Versicherer berechtigt,
-seine Leistung in einem der Schwere des Verschuldens des
-Versicherungsnehmers entsprechenden Verhältnis zu kürzen; die
+(3) Bei Verletzung einer Obliegenheit nach den Absätzen 1 und
+2 ist der Versicherer nicht zur Leistung verpflichtet, wenn der
+Versicherungsnehmer die Obliegenheit vorsätzlich verletzt hat.
+Im Fall einer grob fahrlässigen Verletzung ist der Versicherer
+berechtigt, seine Leistung in einem der Schwere des Verschuldens
+des Versicherungsnehmers entsprechenden Verhältnis zu kürzen; die
 Beweislast für das Nichtvorliegen einer groben Fahrlässigkeit trägt
 der Versicherungsnehmer.
 
@@ -1960,8 +1911,8 @@ wenn der Versicherungsnehmer die Obliegenheit arglistig verletzt hat.
 
 ##### § 83 Aufwendungsersatz
 
-(1) Der Versicherer hat Aufwendungen des Versicherungsnehmers nach §
-82 Abs. 1 und 2, auch wenn sie erfolglos bleiben, insoweit zu
+(1) Der Versicherer hat Aufwendungen des Versicherungsnehmers nach
+§ 82 Abs. 1 und 2, auch wenn sie erfolglos bleiben, insoweit zu
 erstatten, als der Versicherungsnehmer sie den Umständen nach für
 geboten halten durfte. Der Versicherer hat den für die Aufwendungen
 erforderlichen Betrag auf Verlangen des Versicherungsnehmers
@@ -1983,20 +1934,20 @@ Aufwendungen.
 
 ##### § 84 Sachverständigenverfahren
 
-(1) Sollen nach dem Vertrag einzelne Voraussetzungen des Anspruchs aus
-der Versicherung oder die Höhe des Schadens durch Sachverständige
+(1) Sollen nach dem Vertrag einzelne Voraussetzungen des Anspruchs
+aus der Versicherung oder die Höhe des Schadens durch Sachverständige
 festgestellt werden, ist die getroffene Feststellung nicht
 verbindlich, wenn sie offenbar von der wirklichen Sachlage erheblich
 abweicht. Die Feststellung erfolgt in diesem Fall durch gerichtliche
 Entscheidung. Dies gilt auch, wenn die Sachverständigen die
 Feststellung nicht treffen können oder wollen oder sie verzögern.
 
-(2) Sind nach dem Vertrag die Sachverständigen durch das Gericht zu
-ernennen, ist für die Ernennung das Amtsgericht zuständig, in dessen
-Bezirk der Schaden entstanden ist. Durch eine ausdrückliche
+(2) Sind nach dem Vertrag die Sachverständigen durch das Gericht
+zu ernennen, ist für die Ernennung das Amtsgericht zuständig, in
+dessen Bezirk der Schaden entstanden ist. Durch eine ausdrückliche
 Vereinbarung der Beteiligten kann die Zuständigkeit eines anderen
-Amtsgerichts begründet werden. Die Verfügung, durch die dem Antrag auf
-Ernennung der Sachverständigen stattgegeben wird, ist nicht
+Amtsgerichts begründet werden. Die Verfügung, durch die dem Antrag
+auf Ernennung der Sachverständigen stattgegeben wird, ist nicht
 anfechtbar.
 
 
@@ -2026,17 +1977,17 @@ Dritten zu, geht dieser Anspruch auf den Versicherer über, soweit der
 Versicherer den Schaden ersetzt. Der Übergang kann nicht zum Nachteil
 des Versicherungsnehmers geltend gemacht werden.
 
-(2) Der Versicherungsnehmer hat seinen Ersatzanspruch oder ein zur
-Sicherung dieses Anspruchs dienendes Recht unter Beachtung der
-geltenden Form- und Fristvorschriften zu wahren und bei dessen
+(2) Der Versicherungsnehmer hat seinen Ersatzanspruch oder ein
+zur Sicherung dieses Anspruchs dienendes Recht unter Beachtung
+der geltenden Form- und Fristvorschriften zu wahren und bei dessen
 Durchsetzung durch den Versicherer soweit erforderlich mitzuwirken.
-Verletzt der Versicherungsnehmer diese Obliegenheit vorsätzlich, ist
-der Versicherer zur Leistung insoweit nicht verpflichtet, als er
-infolgedessen keinen Ersatz von dem Dritten erlangen kann. Im Fall
-einer grob fahrlässigen Verletzung der Obliegenheit ist der
+Verletzt der Versicherungsnehmer diese Obliegenheit vorsätzlich,
+ist der Versicherer zur Leistung insoweit nicht verpflichtet, als
+er infolgedessen keinen Ersatz von dem Dritten erlangen kann. Im
+Fall einer grob fahrlässigen Verletzung der Obliegenheit ist der
 Versicherer berechtigt, seine Leistung in einem der Schwere des
-Verschuldens des Versicherungsnehmers entsprechenden Verhältnis zu
-kürzen; die Beweislast für das Nichtvorliegen einer groben
+Verschuldens des Versicherungsnehmers entsprechenden Verhältnis
+zu kürzen; die Beweislast für das Nichtvorliegen einer groben
 Fahrlässigkeit trägt der Versicherungsnehmer.
 
 (3) Richtet sich der Ersatzanspruch des Versicherungsnehmers gegen
@@ -2057,9 +2008,9 @@ Von den §§ 74, 78 Absatz 4, den §§ 80, 82 bis 84 Abs. 1 Satz 1 und §
 
 ##### § 88 Versicherungswert
 
-Soweit nichts anderes vereinbart ist, gilt als Versicherungswert, wenn
-sich die Versicherung auf eine Sache oder einen Inbegriff von Sachen
-bezieht, der Betrag, den der Versicherungsnehmer zur Zeit des
+Soweit nichts anderes vereinbart ist, gilt als Versicherungswert,
+wenn sich die Versicherung auf eine Sache oder einen Inbegriff von
+Sachen bezieht, der Betrag, den der Versicherungsnehmer zur Zeit des
 Eintrittes des Versicherungsfalles für die Wiederbeschaffung oder
 Wiederherstellung der versicherten Sache in neuwertigem Zustand unter
 Abzug des sich aus dem Unterschied zwischen alt und neu ergebenden
@@ -2090,11 +2041,11 @@ entsprechend anzuwenden.
 
 ##### § 91 Verzinsung der Entschädigung
 
-Die vom Versicherer zu zahlende Entschädigung ist nach Ablauf eines
-Monats seit der Anzeige des Versicherungsfalles für das Jahr mit 4
-Prozent zu verzinsen, soweit nicht aus einem anderen Rechtsgrund
-höhere Zinsen verlangt werden können. Der Lauf der Frist ist gehemmt,
-solange der Schaden infolge eines Verschuldens des
+Die vom Versicherer zu zahlende Entschädigung ist nach Ablauf
+eines Monats seit der Anzeige des Versicherungsfalles für das
+Jahr mit 4 Prozent zu verzinsen, soweit nicht aus einem anderen
+Rechtsgrund höhere Zinsen verlangt werden können. Der Lauf der Frist
+ist gehemmt, solange der Schaden infolge eines Verschuldens des
 Versicherungsnehmers nicht festgestellt werden kann.
 
 
@@ -2111,23 +2062,23 @@ Schluss der laufenden Versicherungsperiode kündigen.
 
 (3) Bei der Hagelversicherung kann der Versicherer nur für den Schluss
 der Versicherungsperiode kündigen, in welcher der Versicherungsfall
-eingetreten ist. Kündigt der Versicherungsnehmer für einen früheren
-Zeitpunkt als den Schluss dieser Versicherungsperiode, steht dem
-Versicherer gleichwohl die Prämie für die laufende
+eingetreten ist. Kündigt der Versicherungsnehmer für einen
+früheren Zeitpunkt als den Schluss dieser Versicherungsperiode,
+steht dem Versicherer gleichwohl die Prämie für die laufende
 Versicherungsperiode zu.
 
 
 ##### § 93 Wiederherstellungsklausel
 
 Ist der Versicherer nach dem Vertrag verpflichtet, einen Teil der
-Entschädigung nur bei Wiederherstellung oder Wiederbeschaffung der
-versicherten Sache zu zahlen, kann der Versicherungsnehmer die Zahlung
-eines über den Versicherungswert hinausgehenden Betrags erst
+Entschädigung nur bei Wiederherstellung oder Wiederbeschaffung
+der versicherten Sache zu zahlen, kann der Versicherungsnehmer die
+Zahlung eines über den Versicherungswert hinausgehenden Betrags erst
 verlangen, wenn die Wiederherstellung oder Wiederbeschaffung gesichert
 ist. Der Versicherungsnehmer ist zur Rückzahlung der vom Versicherer
-geleisteten Entschädigung abzüglich des Versicherungswertes der Sache
-verpflichtet, wenn die Sache infolge eines Verschuldens des
-Versicherungsnehmers nicht innerhalb einer angemessenen Frist
+geleisteten Entschädigung abzüglich des Versicherungswertes der
+Sache verpflichtet, wenn die Sache infolge eines Verschuldens
+des Versicherungsnehmers nicht innerhalb einer angemessenen Frist
 wiederhergestellt oder wiederbeschafft worden ist.
 
 
@@ -2143,9 +2094,9 @@ ein Monat verstrichen ist.
 (2) Soweit die Entschädigungssumme nicht zu einer den
 Vertragsbestimmungen entsprechenden Wiederherstellung oder
 Wiederbeschaffung verwendet werden soll, kann der Versicherer mit
-Wirkung gegen einen Hypothekengläubiger erst zahlen, wenn er oder der
-Versicherungsnehmer diese Absicht dem Hypothekengläubiger mitgeteilt
-hat und seit dem Zugang der Mitteilung mindestens ein Monat
+Wirkung gegen einen Hypothekengläubiger erst zahlen, wenn er oder
+der Versicherungsnehmer diese Absicht dem Hypothekengläubiger
+mitgeteilt hat und seit dem Zugang der Mitteilung mindestens ein Monat
 verstrichen ist.
 
 (3) Der Hypothekengläubiger kann bis zum Ablauf der Frist von einem
@@ -2188,10 +2139,10 @@ einem Monat zu kündigen. Das Kündigungsrecht erlischt, wenn es nicht
 innerhalb eines Monats ab der Kenntnis des Versicherers von der
 Veräußerung ausgeübt wird.
 
-(2) Der Erwerber ist berechtigt, das Versicherungsverhältnis mit
-sofortiger Wirkung oder für den Schluss der laufenden
-Versicherungsperiode zu kündigen. Das Kündigungsrecht erlischt, wenn
-es nicht innerhalb eines Monats nach dem Erwerb, bei fehlender
+(2) Der Erwerber ist berechtigt, das Versicherungsverhältnis
+mit sofortiger Wirkung oder für den Schluss der laufenden
+Versicherungsperiode zu kündigen. Das Kündigungsrecht erlischt,
+wenn es nicht innerhalb eines Monats nach dem Erwerb, bei fehlender
 Kenntnis des Erwerbers vom Bestehen der Versicherung innerhalb eines
 Monats ab Erlangung der Kenntnis, ausgeübt wird.
 
@@ -2202,9 +2153,9 @@ eine Haftung des Erwerbers für die Prämie besteht nicht.
 
 ##### § 97 Anzeige der Veräußerung
 
-(1) Die Veräußerung ist dem Versicherer vom Veräußerer oder Erwerber
-unverzüglich anzuzeigen. Ist die Anzeige unterblieben, ist der
-Versicherer nicht zur Leistung verpflichtet, wenn der
+(1) Die Veräußerung ist dem Versicherer vom Veräußerer oder
+Erwerber unverzüglich anzuzeigen. Ist die Anzeige unterblieben,
+ist der Versicherer nicht zur Leistung verpflichtet, wenn der
 Versicherungsfall später als einen Monat nach dem Zeitpunkt eintritt,
 zu dem die Anzeige dem Versicherer hätte zugehen müssen, und der
 Versicherer den mit dem Veräußerer bestehenden Vertrag mit dem
@@ -2220,9 +2171,9 @@ Versicherers abgelaufen war und er nicht gekündigt hat.
 ##### § 98 Schutz des Erwerbers
 
 Der Versicherer kann sich auf eine Bestimmung des
-Versicherungsvertrags, durch die von den §§ 95 bis 97 zum Nachteil des
-Erwerbers abgewichen wird, nicht berufen. Jedoch kann für die
-Kündigung des Erwerbers nach § 96 Abs. 2 und die Anzeige der
+Versicherungsvertrags, durch die von den §§ 95 bis 97 zum Nachteil
+des Erwerbers abgewichen wird, nicht berufen. Jedoch kann für
+die Kündigung des Erwerbers nach § 96 Abs. 2 und die Anzeige der
 Veräußerung die Schriftform oder die Textform bestimmt werden.
 
 
@@ -2246,10 +2197,10 @@ die Berechtigung, versicherte Bodenerzeugnisse zu beziehen, sind die
 
 ##### § 100 Leistung des Versicherers
 
-Bei der Haftpflichtversicherung ist der Versicherer verpflichtet, den
-Versicherungsnehmer von Ansprüchen freizustellen, die von einem
-Dritten auf Grund der Verantwortlichkeit des Versicherungsnehmers für
-eine während der Versicherungszeit eintretende Tatsache geltend
+Bei der Haftpflichtversicherung ist der Versicherer verpflichtet,
+den Versicherungsnehmer von Ansprüchen freizustellen, die von einem
+Dritten auf Grund der Verantwortlichkeit des Versicherungsnehmers
+für eine während der Versicherungszeit eintretende Tatsache geltend
 gemacht werden, und unbegründete Ansprüche abzuwehren.
 
 
@@ -2260,28 +2211,28 @@ außergerichtlichen Kosten, die durch die Abwehr der von einem Dritten
 geltend gemachten Ansprüche entstehen, soweit die Aufwendung der
 Kosten den Umständen nach geboten ist. Die Versicherung umfasst ferner
 die auf Weisung des Versicherers aufgewendeten Kosten der Verteidigung
-in einem Strafverfahren, das wegen einer Tat eingeleitet wurde, welche
-die Verantwortlichkeit des Versicherungsnehmers gegenüber einem
+in einem Strafverfahren, das wegen einer Tat eingeleitet wurde,
+welche die Verantwortlichkeit des Versicherungsnehmers gegenüber einem
 Dritten zur Folge haben könnte. Der Versicherer hat die Kosten auf
 Verlangen des Versicherungsnehmers vorzuschießen.
 
 (2) Ist eine Versicherungssumme bestimmt, hat der Versicherer die
-Kosten eines auf seine Veranlassung geführten Rechtsstreits und die
-Kosten der Verteidigung nach Absatz 1 Satz 2 auch insoweit zu
-ersetzen, als sie zusammen mit den Aufwendungen des Versicherers zur
-Freistellung des Versicherungsnehmers die Versicherungssumme
+Kosten eines auf seine Veranlassung geführten Rechtsstreits und
+die Kosten der Verteidigung nach Absatz 1 Satz 2 auch insoweit zu
+ersetzen, als sie zusammen mit den Aufwendungen des Versicherers
+zur Freistellung des Versicherungsnehmers die Versicherungssumme
 übersteigen. Dies gilt auch für Zinsen, die der Versicherungsnehmer
 infolge einer vom Versicherer veranlassten Verzögerung der
 Befriedigung des Dritten diesem schuldet.
 
-(3) Ist dem Versicherungsnehmer nachgelassen, die Vollstreckung einer
-gerichtlichen Entscheidung durch Sicherheitsleistung oder Hinterlegung
-abzuwenden, hat der Versicherer die Sicherheitsleistung oder
-Hinterlegung zu bewirken. Diese Verpflichtung besteht nur bis zum
-Betrag der Versicherungssumme; ist der Versicherer nach Absatz 2 über
-diesen Betrag hinaus verpflichtet, tritt der Versicherungssumme der
-Mehrbetrag hinzu. Der Versicherer ist von der Verpflichtung nach Satz
-1 frei, wenn er den Anspruch des Dritten dem Versicherungsnehmer
+(3) Ist dem Versicherungsnehmer nachgelassen, die Vollstreckung
+einer gerichtlichen Entscheidung durch Sicherheitsleistung oder
+Hinterlegung abzuwenden, hat der Versicherer die Sicherheitsleistung
+oder Hinterlegung zu bewirken. Diese Verpflichtung besteht nur bis
+zum Betrag der Versicherungssumme; ist der Versicherer nach Absatz 2
+über diesen Betrag hinaus verpflichtet, tritt der Versicherungssumme
+der Mehrbetrag hinzu. Der Versicherer ist von der Verpflichtung nach
+Satz 1 frei, wenn er den Anspruch des Dritten dem Versicherungsnehmer
 gegenüber als begründet anerkennt.
 
 
@@ -2293,8 +2244,8 @@ Personen sowie der Personen, die in einem Dienstverhältnis zu dem
 Unternehmen stehen. Die Versicherung gilt insoweit als für fremde
 Rechnung genommen.
 
-(2) Wird das Unternehmen an einen Dritten veräußert oder auf Grund
-eines Nießbrauchs, eines Pachtvertrags oder eines ähnlichen
+(2) Wird das Unternehmen an einen Dritten veräußert oder auf
+Grund eines Nießbrauchs, eines Pachtvertrags oder eines ähnlichen
 Verhältnisses von einem Dritten übernommen, tritt der Dritte an Stelle
 des Versicherungsnehmers in die während der Dauer seiner Berechtigung
 sich aus dem Versicherungsverhältnis ergebenden Rechte und Pflichten
@@ -2339,13 +2290,13 @@ den Dritten befriedigt oder dessen Anspruch anerkennt, ist unwirksam.
 
 ##### § 106 Fälligkeit der Versicherungsleistung
 
-Der Versicherer hat den Versicherungsnehmer innerhalb von zwei Wochen
-von dem Zeitpunkt an, zu dem der Anspruch des Dritten mit bindender
-Wirkung für den Versicherer durch rechtskräftiges Urteil, Anerkenntnis
-oder Vergleich festgestellt worden ist, vom Anspruch des Dritten
-freizustellen. Ist der Dritte von dem Versicherungsnehmer mit
-bindender Wirkung für den Versicherer befriedigt worden, hat der
-Versicherer die Entschädigung innerhalb von zwei Wochen nach der
+Der Versicherer hat den Versicherungsnehmer innerhalb von zwei
+Wochen von dem Zeitpunkt an, zu dem der Anspruch des Dritten mit
+bindender Wirkung für den Versicherer durch rechtskräftiges Urteil,
+Anerkenntnis oder Vergleich festgestellt worden ist, vom Anspruch
+des Dritten freizustellen. Ist der Dritte von dem Versicherungsnehmer
+mit bindender Wirkung für den Versicherer befriedigt worden, hat
+der Versicherer die Entschädigung innerhalb von zwei Wochen nach der
 Befriedigung des Dritten an den Versicherungsnehmer zu zahlen. Kosten,
 die nach § 101 zu ersetzen sind, hat der Versicherer innerhalb von
 zwei Wochen nach der Mitteilung der Berechnung zu zahlen.
@@ -2354,12 +2305,12 @@ zwei Wochen nach der Mitteilung der Berechnung zu zahlen.
 ##### § 107 Rentenanspruch
 
 (1) Ist der Versicherungsnehmer dem Dritten zur Zahlung einer Rente
-verpflichtet, ist der Versicherer, wenn die Versicherungssumme den
-Kapitalwert der Rente nicht erreicht, nur zur Zahlung eines
+verpflichtet, ist der Versicherer, wenn die Versicherungssumme
+den Kapitalwert der Rente nicht erreicht, nur zur Zahlung eines
 verhältnismäßigen Teils der Rente verpflichtet.
 
-(2) Hat der Versicherungsnehmer für die von ihm geschuldete Rente dem
-Dritten kraft Gesetzes Sicherheit zu leisten, erstreckt sich die
+(2) Hat der Versicherungsnehmer für die von ihm geschuldete Rente
+dem Dritten kraft Gesetzes Sicherheit zu leisten, erstreckt sich die
 Verpflichtung des Versicherers auf die Leistung der Sicherheit. Absatz
 1 gilt entsprechend.
 
@@ -2396,9 +2347,9 @@ Freistellungsanspruch des Versicherungsnehmers verlangen.
 
 ##### § 111 Kündigung nach Versicherungsfall
 
-(1) Hat der Versicherer nach dem Eintritt des Versicherungsfalles den
-Anspruch des Versicherungsnehmers auf Freistellung anerkannt oder zu
-Unrecht abgelehnt, kann jede Vertragspartei das
+(1) Hat der Versicherer nach dem Eintritt des Versicherungsfalles
+den Anspruch des Versicherungsnehmers auf Freistellung anerkannt
+oder zu Unrecht abgelehnt, kann jede Vertragspartei das
 Versicherungsverhältnis kündigen. Dies gilt auch, wenn der Versicherer
 dem Versicherungsnehmer die Weisung erteilt, es zum Rechtsstreit über
 den Anspruch des Dritten kommen zu lassen.
@@ -2442,10 +2393,10 @@ bestimmt ist, 250.000 Euro je Versicherungsfall und eine Million Euro
 für alle Versicherungsfälle eines Versicherungsjahres.
 
 (2) Der Versicherungsvertrag kann Inhalt und Umfang der
-Pflichtversicherung näher bestimmen, soweit dadurch die Erreichung des
-jeweiligen Zwecks der Pflichtversicherung nicht gefährdet wird und
-durch Rechtsvorschrift nicht ausdrücklich etwas anderes bestimmt ist.
-Ein Selbstbehalt des Versicherungsnehmers kann dem Dritten nicht
+Pflichtversicherung näher bestimmen, soweit dadurch die Erreichung
+des jeweiligen Zwecks der Pflichtversicherung nicht gefährdet wird
+und durch Rechtsvorschrift nicht ausdrücklich etwas anderes bestimmt
+ist. Ein Selbstbehalt des Versicherungsnehmers kann dem Dritten nicht
 entgegengehalten und gegenüber einer mitversicherten Person nicht
 geltend gemacht werden.
 
@@ -2455,36 +2406,33 @@ geltend gemacht werden.
 (1) Der Dritte kann seinen Anspruch auf Schadensersatz auch gegen den
 Versicherer geltend machen,
 
-1.  wenn es sich um eine Haftpflichtversicherung zur Erfüllung einer nach
-    dem Pflichtversicherungsgesetz bestehenden Versicherungspflicht
-    handelt oder
-
+1.  wenn es sich um eine Haftpflichtversicherung zur Erfüllung
+    einer nach § 1 des Pflichtversicherungsgesetzes oder nach § 3
+    des Auslandsfahrzeug-Pflichtversicherungsgesetzes bestehenden
+    Versicherungspflicht handelt oder
 
 2.  wenn über das Vermögen des Versicherungsnehmers das Insolvenzverfahren
     eröffnet oder der Eröffnungsantrag mangels Masse abgewiesen worden ist
     oder ein vorläufiger Insolvenzverwalter bestellt worden ist oder
 
-
 3.  wenn der Aufenthalt des Versicherungsnehmers unbekannt ist.
-
-
 
 Der Anspruch besteht im Rahmen der Leistungspflicht des Versicherers
 aus dem Versicherungsverhältnis und, soweit eine Leistungspflicht
-nicht besteht, im Rahmen des § 117 Abs. 1 bis 4. Der Versicherer hat
-den Schadensersatz in Geld zu leisten. Der Versicherer und der
+nicht besteht, im Rahmen des § 117 Abs. 1 bis 4. Der Versicherer
+hat den Schadensersatz in Geld zu leisten. Der Versicherer und der
 ersatzpflichtige Versicherungsnehmer haften als Gesamtschuldner.
 
-(2) Der Anspruch nach Absatz 1 unterliegt der gleichen Verjährung wie
-der Schadensersatzanspruch gegen den ersatzpflichtigen
+(2) Der Anspruch nach Absatz 1 unterliegt der gleichen Verjährung
+wie der Schadensersatzanspruch gegen den ersatzpflichtigen
 Versicherungsnehmer. Die Verjährung beginnt mit dem Zeitpunkt, zu dem
 die Verjährung des Schadensersatzanspruchs gegen den ersatzpflichtigen
 Versicherungsnehmer beginnt; sie endet jedoch spätestens nach zehn
 Jahren von dem Eintritt des Schadens an. Ist der Anspruch des Dritten
-bei dem Versicherer angemeldet worden, ist die Verjährung bis zu dem
-Zeitpunkt gehemmt, zu dem die Entscheidung des Versicherers dem
-Anspruchsteller in Textform zugeht. Die Hemmung, die Ablaufhemmung und
-der Neubeginn der Verjährung des Anspruchs gegen den Versicherer
+bei dem Versicherer angemeldet worden, ist die Verjährung bis zu
+dem Zeitpunkt gehemmt, zu dem die Entscheidung des Versicherers dem
+Anspruchsteller in Textform zugeht. Die Hemmung, die Ablaufhemmung
+und der Neubeginn der Verjährung des Anspruchs gegen den Versicherer
 wirken auch gegenüber dem ersatzpflichtigen Versicherungsnehmer und
 umgekehrt.
 
@@ -2494,8 +2442,8 @@ umgekehrt.
 (1) Im Verhältnis der Gesamtschuldner nach § 115 Abs. 1 Satz 4
 zueinander ist der Versicherer allein verpflichtet, soweit er dem
 Versicherungsnehmer aus dem Versicherungsverhältnis zur Leistung
-verpflichtet ist. Soweit eine solche Verpflichtung nicht besteht, ist
-in ihrem Verhältnis zueinander der Versicherungsnehmer allein
+verpflichtet ist. Soweit eine solche Verpflichtung nicht besteht,
+ist in ihrem Verhältnis zueinander der Versicherungsnehmer allein
 verpflichtet. Der Versicherer kann Ersatz der Aufwendungen verlangen,
 die er den Umständen nach für erforderlich halten durfte.
 
@@ -2513,13 +2461,13 @@ gleichwohl seine Verpflichtung in Ansehung des Dritten bestehen.
 (2) Ein Umstand, der das Nichtbestehen oder die Beendigung des
 Versicherungsverhältnisses zur Folge hat, wirkt in Ansehung des
 Dritten erst mit dem Ablauf eines Monats, nachdem der Versicherer
-diesen Umstand der hierfür zuständigen Stelle angezeigt hat. Dies gilt
-auch, wenn das Versicherungsverhältnis durch Zeitablauf endet. Der
-Lauf der Frist beginnt nicht vor Beendigung des
+diesen Umstand der hierfür zuständigen Stelle angezeigt hat.
+Dies gilt auch, wenn das Versicherungsverhältnis durch Zeitablauf
+endet. Der Lauf der Frist beginnt nicht vor Beendigung des
 Versicherungsverhältnisses. Ein in den Sätzen 1 und 2 bezeichneter
-Umstand kann dem Dritten auch dann entgegengehalten werden, wenn vor
-dem Zeitpunkt des Schadensereignisses der hierfür zuständigen Stelle
-die Bestätigung einer entsprechend den Rechtsvorschriften
+Umstand kann dem Dritten auch dann entgegengehalten werden, wenn
+vor dem Zeitpunkt des Schadensereignisses der hierfür zuständigen
+Stelle die Bestätigung einer entsprechend den Rechtsvorschriften
 abgeschlossenen neuen Versicherung zugegangen ist. Die vorstehenden
 Vorschriften dieses Absatzes gelten nicht, wenn eine zur Entgegennahme
 der Anzeige nach Satz 1 zuständige Stelle nicht bestimmt ist.
@@ -2531,11 +2479,11 @@ soweit der Dritte Ersatz seines Schadens von einem anderen
 Schadensversicherer oder von einem Sozialversicherungsträger erlangen
 kann.
 
-(4) Trifft die Leistungspflicht des Versicherers nach Absatz 1 oder
-Absatz 2 mit einer Ersatzpflicht auf Grund fahrlässiger
-Amtspflichtverletzung zusammen, wird die Ersatzpflicht nach § 839 Abs.
-1 des Bürgerlichen Gesetzbuchs im Verhältnis zum Versicherer nicht
-dadurch ausgeschlossen, dass die Voraussetzungen für die
+(4) Trifft die Leistungspflicht des Versicherers nach Absatz
+1 oder Absatz 2 mit einer Ersatzpflicht auf Grund fahrlässiger
+Amtspflichtverletzung zusammen, wird die Ersatzpflicht nach § 839
+Abs. 1 des Bürgerlichen Gesetzbuchs im Verhältnis zum Versicherer
+nicht dadurch ausgeschlossen, dass die Voraussetzungen für die
 Leistungspflicht des Versicherers vorliegen. Satz 1 gilt nicht, wenn
 der Beamte nach § 839 des Bürgerlichen Gesetzbuchs persönlich haftet.
 
@@ -2548,8 +2496,8 @@ kann nicht zum Nachteil des Dritten geltend gemacht werden.
 eröffnet, endet das Versicherungsverhältnis abweichend von § 16 erst
 mit dem Ablauf eines Monats, nachdem der Insolvenzverwalter diesen
 Umstand der hierfür zuständigen Stelle angezeigt hat; bis zu diesem
-Zeitpunkt bleibt es der Insolvenzmasse gegenüber wirksam. Ist eine zur
-Entgegennahme der Anzeige nach Satz 1 zuständige Stelle nicht
+Zeitpunkt bleibt es der Insolvenzmasse gegenüber wirksam. Ist eine
+zur Entgegennahme der Anzeige nach Satz 1 zuständige Stelle nicht
 bestimmt, endet das Versicherungsverhältnis einen Monat nach der
 Benachrichtigung des Versicherungsnehmers von der Eröffnung des
 Insolvenzverfahrens; die Benachrichtigung bedarf der Textform.
@@ -2563,29 +2511,22 @@ wird die Versicherungssumme nach folgender Rangfolge, bei gleichem
 Rang nach dem Verhältnis ihrer Beträge, an die Ersatzberechtigten
 ausgezahlt:
 
-1.  für Ansprüche wegen Personenschäden, soweit die Geschädigten nicht vom
-    Schädiger, von einem anderen Versicherer als dessen
+1.  für Ansprüche wegen Personenschäden, soweit die Geschädigten
+    nicht vom Schädiger, von einem anderen Versicherer als dessen
     Haftpflichtversicherer, einem Sozialversicherungsträger oder einem
     sonstigen Dritten Ersatz ihrer Schäden erlangen können;
-
 
 2.  für Ansprüche wegen sonstiger Schäden natürlicher und juristischer
     Personen des Privatrechts, soweit die Geschädigten nicht vom
     Schädiger, einem anderen Versicherer als dessen Haftpflichtversicherer
     oder einem Dritten Ersatz ihrer Schäden erlangen können;
 
-
 3.  für Ansprüche, die nach Privatrecht auf Versicherer oder sonstige
     Dritte wegen Personen- und sonstiger Schäden übergegangen sind;
 
-
 4.  für Ansprüche, die auf Sozialversicherungsträger übergegangen sind;
 
-
 5.  für alle sonstigen Ansprüche.
-
-
-
 
 (2) Ist die Versicherungssumme unter Berücksichtigung nachrangiger
 Ansprüche erschöpft, kann sich ein vorrangig zu befriedigender
@@ -2615,10 +2556,10 @@ deren Beschaffung dem Dritten billigerweise zugemutet werden kann.
 
 ##### § 120 Obliegenheitsverletzung des Dritten
 
-Verletzt der Dritte schuldhaft die Obliegenheit nach § 119 Abs. 2 oder
-3, beschränkt sich die Haftung des Versicherers nach den §§ 115 und
-117 auf den Betrag, den er auch bei gehöriger Erfüllung der
-Obliegenheit zu leisten gehabt hätte, sofern der Dritte vorher
+Verletzt der Dritte schuldhaft die Obliegenheit nach § 119 Abs. 2
+oder 3, beschränkt sich die Haftung des Versicherers nach den §§
+115 und 117 auf den Betrag, den er auch bei gehöriger Erfüllung
+der Obliegenheit zu leisten gehabt hätte, sofern der Dritte vorher
 ausdrücklich und in Textform auf die Folgen der Verletzung hingewiesen
 worden ist.
 
@@ -2645,8 +2586,8 @@ Person dieses Versicherten vorliegen oder wenn diese Umstände dem
 Versicherten bekannt oder infolge grober Fahrlässigkeit nicht bekannt
 waren.
 
-(2) Der Umfang der Leistungspflicht nach Absatz 1 bestimmt sich nach §
-117 Abs. 3 Satz 1; § 117 Abs. 3 Satz 2 ist nicht anzuwenden. § 117
+(2) Der Umfang der Leistungspflicht nach Absatz 1 bestimmt sich nach
+§ 117 Abs. 3 Satz 1; § 117 Abs. 3 Satz 2 ist nicht anzuwenden. § 117
 Abs. 4 ist entsprechend anzuwenden.
 
 (3) Soweit der Versicherer nach Absatz 1 leistet, kann er beim
@@ -2669,9 +2610,9 @@ dem Versicherungsnehmer ergeht, auch zugunsten des Versicherers.
 (2) Ist der Anspruch des Dritten gegenüber dem Versicherer durch
 rechtskräftiges Urteil, Anerkenntnis oder Vergleich festgestellt
 worden, muss der Versicherungsnehmer, gegen den von dem Versicherer
-Ansprüche auf Grund des § 116 Abs. 1 Satz 2 geltend gemacht werden,
-diese Feststellung gegen sich gelten lassen, es sei denn, der
-Versicherer hat die Pflicht zur Abwehr unbegründeter
+Ansprüche auf Grund des § 116 Abs. 1 Satz 2 geltend gemacht
+werden, diese Feststellung gegen sich gelten lassen, es sei
+denn, der Versicherer hat die Pflicht zur Abwehr unbegründeter
 Entschädigungsansprüche sowie zur Minderung oder zur sachgemäßen
 Feststellung des Schadens schuldhaft verletzt.
 
@@ -2685,24 +2626,24 @@ Versicherer geltend machen kann.
 
 #### § 125 Leistung des Versicherers
 
-Bei der Rechtsschutzversicherung ist der Versicherer verpflichtet, die
-für die Wahrnehmung der rechtlichen Interessen des
+Bei der Rechtsschutzversicherung ist der Versicherer verpflichtet,
+die für die Wahrnehmung der rechtlichen Interessen des
 Versicherungsnehmers oder des Versicherten erforderlichen Leistungen
 im vereinbarten Umfang zu erbringen.
 
 
 #### § 126 Schadensabwicklungsunternehmen
 
-(1) Werden Gefahren aus dem Bereich der Rechtsschutzversicherung neben
-anderen Gefahren versichert, müssen im Versicherungsschein der Umfang
-der Deckung in der Rechtsschutzversicherung und die hierfür zu
-entrichtende Prämie gesondert ausgewiesen werden. Beauftragt der
-Versicherer mit der Leistungsbearbeitung ein selbständiges
-Schadensabwicklungsunternehmen, ist dieses im Versicherungsschein zu
-bezeichnen.
+(1) Werden Gefahren aus dem Bereich der Rechtsschutzversicherung
+neben anderen Gefahren versichert, müssen im Versicherungsschein der
+Umfang der Deckung in der Rechtsschutzversicherung und die hierfür
+zu entrichtende Prämie gesondert ausgewiesen werden. Beauftragt
+der Versicherer mit der Leistungsbearbeitung ein selbständiges
+Schadensabwicklungsunternehmen, ist dieses im Versicherungsschein
+zu bezeichnen.
 
-(2) Ansprüche auf die Versicherungsleistung aus einem Vertrag über
-eine Rechtsschutzversicherung können, wenn ein selbständiges
+(2) Ansprüche auf die Versicherungsleistung aus einem Vertrag
+über eine Rechtsschutzversicherung können, wenn ein selbständiges
 Schadensabwicklungsunternehmen mit der Leistungsbearbeitung beauftragt
 ist, nur gegen dieses geltend gemacht werden. Der Titel wirkt für und
 gegen den Rechtsschutzversicherer. § 727 der Zivilprozessordnung ist
@@ -2711,35 +2652,35 @@ entsprechend anzuwenden.
 
 #### § 127 Freie Anwaltswahl
 
-(1) Der Versicherungsnehmer ist berechtigt, zu seiner Vertretung in
-Gerichts- und Verwaltungsverfahren den Rechtsanwalt, der seine
+(1) Der Versicherungsnehmer ist berechtigt, zu seiner Vertretung
+in Gerichts- und Verwaltungsverfahren den Rechtsanwalt, der seine
 Interessen wahrnehmen soll, aus dem Kreis der Rechtsanwälte, deren
-Vergütung der Versicherer nach dem Versicherungsvertrag trägt, frei zu
-wählen. Dies gilt auch, wenn der Versicherungsnehmer Rechtsschutz für
-die sonstige Wahrnehmung rechtlicher Interessen in Anspruch nehmen
+Vergütung der Versicherer nach dem Versicherungsvertrag trägt, frei
+zu wählen. Dies gilt auch, wenn der Versicherungsnehmer Rechtsschutz
+für die sonstige Wahrnehmung rechtlicher Interessen in Anspruch nehmen
 kann.
 
-(2) Rechtsanwalt ist auch, wer berechtigt ist, unter einer der in der
-Anlage zu § 1 des Gesetzes über die Tätigkeit europäischer
+(2) Rechtsanwalt ist auch, wer berechtigt ist, unter einer der
+in der Anlage zu § 1 des Gesetzes über die Tätigkeit europäischer
 Rechtsanwälte in Deutschland vom 9. März 2000 (BGBl. I S. 182, 1349),
-das zuletzt durch Artikel 1 des Gesetzes vom 26. Oktober 2003 (BGBl. I
-S. 2074) geändert worden ist, in der jeweils geltenden Fassung
+das zuletzt durch Artikel 1 des Gesetzes vom 26. Oktober 2003 (BGBl.
+I S. 2074) geändert worden ist, in der jeweils geltenden Fassung
 genannten Bezeichnungen beruflich tätig zu werden.
 
 
 #### § 128 Gutachterverfahren
 
-Für den Fall, dass der Versicherer seine Leistungspflicht verneint,
-weil die Wahrnehmung der rechtlichen Interessen keine hinreichende
-Aussicht auf Erfolg biete oder mutwillig sei, hat der
+Für den Fall, dass der Versicherer seine Leistungspflicht
+verneint, weil die Wahrnehmung der rechtlichen Interessen keine
+hinreichende Aussicht auf Erfolg biete oder mutwillig sei, hat der
 Versicherungsvertrag ein Gutachterverfahren oder ein anderes Verfahren
-mit vergleichbaren Garantien für die Unparteilichkeit vorzusehen, in
-dem Meinungsverschiedenheiten zwischen den Vertragsparteien über die
-Erfolgsaussichten oder die Mutwilligkeit einer Rechtsverfolgung
+mit vergleichbaren Garantien für die Unparteilichkeit vorzusehen,
+in dem Meinungsverschiedenheiten zwischen den Vertragsparteien über
+die Erfolgsaussichten oder die Mutwilligkeit einer Rechtsverfolgung
 entschieden werden. Der Versicherer hat den Versicherungsnehmer bei
 Verneinung seiner Leistungspflicht hierauf hinzuweisen. Sieht der
-Versicherungsvertrag kein derartiges Verfahren vor oder unterlässt der
-Versicherer den Hinweis, gilt das Rechtsschutzbedürfnis des
+Versicherungsvertrag kein derartiges Verfahren vor oder unterlässt
+der Versicherer den Hinweis, gilt das Rechtsschutzbedürfnis des
 Versicherungsnehmers im Einzelfall als anerkannt.
 
 
@@ -2805,16 +2746,11 @@ Versicherer hätte zugehen müssen. Er ist zur Leistung verpflichtet,
 1.  wenn ihm die Gefahrerhöhung zu dem Zeitpunkt bekannt war, zu dem ihm
     die Anzeige hätte zugehen müssen,
 
-
 2.  wenn die Anzeigepflicht weder vorsätzlich noch grob fahrlässig
     verletzt worden ist oder
 
-
 3.  soweit die Gefahrerhöhung nicht ursächlich für den Eintritt des
     Versicherungsfalles oder den Umfang der Leistungspflicht war.
-
-
-
 
 (3) Der Versicherer ist abweichend von § 24 nicht berechtigt, den
 Vertrag wegen einer Gefahrerhöhung zu kündigen.
@@ -2828,8 +2764,8 @@ Transport vereinbart ist, ist der Versicherer nicht zur Leistung
 verpflichtet. Dies gilt auch, wenn ausschließlich ein bestimmtes
 Beförderungsmittel oder ein bestimmter Transportweg vereinbart ist.
 
-(2) Der Versicherer bleibt zur Leistung verpflichtet, wenn nach Beginn
-der Versicherung die Beförderung ohne Zustimmung des
+(2) Der Versicherer bleibt zur Leistung verpflichtet, wenn nach
+Beginn der Versicherung die Beförderung ohne Zustimmung des
 Versicherungsnehmers oder infolge eines versicherten Ereignisses
 geändert oder aufgegeben wird. § 132 ist anzuwenden.
 
@@ -2841,8 +2777,8 @@ Weiterbeförderung.
 #### § 134 Ungeeignete Beförderungsmittel
 
 (1) Ist für die Beförderung der Güter kein bestimmtes
-Beförderungsmittel vereinbart, ist der Versicherungsnehmer, soweit er
-auf dessen Auswahl Einfluss hat, verpflichtet, Beförderungsmittel
+Beförderungsmittel vereinbart, ist der Versicherungsnehmer, soweit
+er auf dessen Auswahl Einfluss hat, verpflichtet, Beförderungsmittel
 einzusetzen, die für die Aufnahme und Beförderung der Güter geeignet
 sind.
 
@@ -2860,8 +2796,8 @@ unverzüglich anzuzeigen. § 132 ist anzuwenden.
 
 (1) Aufwendungen, die dem Versicherungsnehmer zur Abwendung oder
 Minderung des Schadens entstehen, sowie die Kosten für die Ermittlung
-und Feststellung des Schadens hat der Versicherer auch insoweit zu
-erstatten, als sie zusammen mit der übrigen Entschädigung die
+und Feststellung des Schadens hat der Versicherer auch insoweit
+zu erstatten, als sie zusammen mit der übrigen Entschädigung die
 Versicherungssumme übersteigen.
 
 (2) Sind Aufwendungen zur Abwendung oder Minderung oder zur Ermittlung
@@ -2871,23 +2807,23 @@ gemacht oder Beiträge zur großen Haverei geleistet oder ist eine
 persönliche Verpflichtung des Versicherungsnehmers zur Entrichtung
 solcher Beiträge entstanden, hat der Versicherer den Schaden, der
 durch einen späteren Versicherungsfall verursacht wird, ohne Rücksicht
-auf die von ihm zu erstattenden früheren Aufwendungen und Beiträge zu
-ersetzen.
+auf die von ihm zu erstattenden früheren Aufwendungen und Beiträge
+zu ersetzen.
 
 
 #### § 136 Versicherungswert
 
-(1) Als Versicherungswert der Güter gilt der gemeine Handelswert und
-in dessen Ermangelung der gemeine Wert, den die Güter am Ort der
-Absendung bei Beginn der Versicherung haben, zuzüglich der
+(1) Als Versicherungswert der Güter gilt der gemeine Handelswert
+und in dessen Ermangelung der gemeine Wert, den die Güter am Ort
+der Absendung bei Beginn der Versicherung haben, zuzüglich der
 Versicherungskosten, der Kosten, die bis zur Annahme der Güter durch
 den Beförderer entstehen, und der endgültig bezahlten Fracht.
 
 (2) Der sich nach Absatz 1 ergebende Wert gilt auch bei Eintritt des
 Versicherungsfalles als Versicherungswert.
 
-(3) Bei Gütern, die beschädigt am Ablieferungsort ankommen, ist der
-Wert, den sie dort in beschädigtem Zustand haben, von dem Wert
+(3) Bei Gütern, die beschädigt am Ablieferungsort ankommen, ist
+der Wert, den sie dort in beschädigtem Zustand haben, von dem Wert
 abzuziehen, den sie an diesem Ort in unbeschädigtem Zustand hätten.
 Der dem Verhältnis der Wertminderung zu ihrem Wert in unbeschädigtem
 Zustand entsprechende Bruchteil des Versicherungswertes gilt als
@@ -2896,8 +2832,8 @@ Betrag des Schadens.
 
 #### § 137 Herbeiführung des Versicherungsfalles
 
-(1) Der Versicherer ist nicht zur Leistung verpflichtet, wenn der
-Versicherungsnehmer vorsätzlich oder grob fahrlässig den
+(1) Der Versicherer ist nicht zur Leistung verpflichtet, wenn
+der Versicherungsnehmer vorsätzlich oder grob fahrlässig den
 Versicherungsfall herbeiführt.
 
 (2) Der Versicherungsnehmer hat das Verhalten der Schiffsbesatzung bei
@@ -2916,11 +2852,11 @@ in gewöhnlichem Gebrauch ist.
 
 #### § 139 Veräußerung der versicherten Sache oder Güter
 
-(1) Ist eine versicherte Sache, für die eine Einzelpolice oder ein
-Versicherungszertifikat ausgestellt worden ist, veräußert worden,
-haftet der Erwerber abweichend von § 95 nicht für die Prämie. Der
-Versicherer kann sich gegenüber dem Erwerber nicht auf
-Leistungsfreiheit wegen Nichtzahlung der Prämie oder wegen
+(1) Ist eine versicherte Sache, für die eine Einzelpolice oder
+ein Versicherungszertifikat ausgestellt worden ist, veräußert
+worden, haftet der Erwerber abweichend von § 95 nicht für die
+Prämie. Der Versicherer kann sich gegenüber dem Erwerber nicht
+auf Leistungsfreiheit wegen Nichtzahlung der Prämie oder wegen
 Nichtleistung einer Sicherheit berufen, es sei denn, der Erwerber
 kannte den Grund für die Leistungsfreiheit oder hätte ihn kennen
 müssen.
@@ -2935,8 +2871,8 @@ verpflichtet, dem Versicherer die Veräußerung anzuzeigen.
 
 #### § 140 Veräußerung des versicherten Schiffes
 
-Wird ein versichertes Schiff veräußert, endet abweichend von § 95 die
-Versicherung mit der Übergabe des Schiffes an den Erwerber, für
+Wird ein versichertes Schiff veräußert, endet abweichend von § 95
+die Versicherung mit der Übergabe des Schiffes an den Erwerber, für
 unterwegs befindliche Schiffe mit der Übergabe an den Erwerber im
 Bestimmungshafen.
 
@@ -2946,16 +2882,16 @@ Bestimmungshafen.
 (1) Der Versicherer ist nach Eintritt des Versicherungsfalles
 berechtigt, sich durch Zahlung der Versicherungssumme von allen
 weiteren Verbindlichkeiten zu befreien. Der Versicherer bleibt zum
-Ersatz der Kosten verpflichtet, die zur Abwendung oder Minderung des
-Schadens oder zur Wiederherstellung oder Ausbesserung der versicherten
-Sache aufgewendet worden sind, bevor seine Erklärung, dass er sich
-durch Zahlung der Versicherungssumme befreien wolle, dem
+Ersatz der Kosten verpflichtet, die zur Abwendung oder Minderung
+des Schadens oder zur Wiederherstellung oder Ausbesserung der
+versicherten Sache aufgewendet worden sind, bevor seine Erklärung,
+dass er sich durch Zahlung der Versicherungssumme befreien wolle, dem
 Versicherungsnehmer zugegangen ist.
 
 (2) Das Recht des Versicherers, sich durch Zahlung der
 Versicherungssumme zu befreien, erlischt, wenn die Erklärung dem
-Versicherungsnehmer nicht innerhalb einer Woche nach dem Zeitpunkt, zu
-dem der Versicherer Kenntnis von dem Versicherungsfall und seinen
+Versicherungsnehmer nicht innerhalb einer Woche nach dem Zeitpunkt,
+zu dem der Versicherer Kenntnis von dem Versicherungsfall und seinen
 unmittelbaren Folgen erlangt hat, zugeht.
 
 
@@ -2972,8 +2908,8 @@ einer Folgeprämie eine Frist bestimmt wird. Dies gilt auch, wenn das
 Versicherungsverhältnis nach Ablauf der Frist wegen unterbliebener
 Zahlung der Folgeprämie gekündigt wird.
 
-(2) Der Versicherer hat den Eintritt des Versicherungsfalles innerhalb
-einer Woche, nachdem er von ihm Kenntnis erlangt hat, einem
+(2) Der Versicherer hat den Eintritt des Versicherungsfalles
+innerhalb einer Woche, nachdem er von ihm Kenntnis erlangt hat, einem
 Hypothekengläubiger, der seine Hypothek angemeldet hat, in Textform
 anzuzeigen, es sei denn, der Schaden ist unbedeutend.
 
@@ -2987,13 +2923,13 @@ Leistung verpflichtet, zu welchem dem Hypothekengläubiger die
 Bestimmung der Zahlungsfrist oder, wenn diese Mitteilung unterblieben
 ist, die Kündigung mitgeteilt worden ist.
 
-(2) Die Beendigung des Versicherungsverhältnisses wird gegenüber einem
-Hypothekengläubiger, der seine Hypothek angemeldet hat, erst mit dem
-Ablauf von zwei Monaten wirksam, nachdem ihm die Beendigung und,
-sofern diese noch nicht eingetreten war, der Zeitpunkt der Beendigung
-durch den Versicherer mitgeteilt worden ist oder er auf andere Weise
-hiervon Kenntnis erlangt hat. Satz 1 gilt nicht, wenn das
-Versicherungsverhältnis wegen unterbliebener Prämienzahlung durch
+(2) Die Beendigung des Versicherungsverhältnisses wird gegenüber
+einem Hypothekengläubiger, der seine Hypothek angemeldet hat, erst
+mit dem Ablauf von zwei Monaten wirksam, nachdem ihm die Beendigung
+und, sofern diese noch nicht eingetreten war, der Zeitpunkt der
+Beendigung durch den Versicherer mitgeteilt worden ist oder er auf
+andere Weise hiervon Kenntnis erlangt hat. Satz 1 gilt nicht, wenn
+das Versicherungsverhältnis wegen unterbliebener Prämienzahlung durch
 Rücktritt oder Kündigung des Versicherers oder durch Kündigung des
 Versicherungsnehmers, welcher der Hypothekengläubiger zugestimmt hat,
 beendet wird.
@@ -3016,8 +2952,8 @@ Nichtigkeit Kenntnis erlangt hat.
 
 Hat ein Hypothekengläubiger seine Hypothek angemeldet, ist eine
 Kündigung des Versicherungsverhältnisses durch den Versicherungsnehmer
-unbeschadet des § 92 Abs. 1 und des § 96 Abs. 2 nur wirksam, wenn der
-Versicherungsnehmer mindestens einen Monat vor Ablauf des
+unbeschadet des § 92 Abs. 1 und des § 96 Abs. 2 nur wirksam, wenn
+der Versicherungsnehmer mindestens einen Monat vor Ablauf des
 Versicherungsvertrags nachgewiesen hat, dass zu dem Zeitpunkt, zu dem
 die Kündigung spätestens zulässig war, das Grundstück nicht mit der
 Hypothek belastet war oder dass der Hypothekengläubiger der Kündigung
@@ -3045,8 +2981,8 @@ der Versicherungssumme zu erteilen.
 #### § 147 Änderung von Anschrift und Name des Hypothekengläubigers
 
 Hat der Hypothekengläubiger dem Versicherer eine Änderung seiner
-Anschrift oder seines Namens nicht mitgeteilt, ist § 13 Abs. 1 auf die
-Anzeigen und Mitteilungen des Versicherers nach den §§ 142 und 143
+Anschrift oder seines Namens nicht mitgeteilt, ist § 13 Abs. 1 auf
+die Anzeigen und Mitteilungen des Versicherers nach den §§ 142 und 143
 entsprechend anzuwenden.
 
 
@@ -3058,8 +2994,8 @@ belastet, sind die §§ 142 bis 147 entsprechend anzuwenden.
 
 #### § 149 Eigentümergrundpfandrechte
 
-Die durch die §§ 142 bis 148 begründeten Rechte können nicht zugunsten
-von Hypotheken, Grundschulden oder Rentenschulden, die dem
+Die durch die §§ 142 bis 148 begründeten Rechte können nicht
+zugunsten von Hypotheken, Grundschulden oder Rentenschulden, die dem
 Versicherungsnehmer zustehen, geltend gemacht werden.
 
 
@@ -3073,20 +3009,20 @@ Versicherungsnehmers oder eines anderen genommen werden.
 
 (2) Wird die Versicherung für den Fall des Todes eines anderen
 genommen und übersteigt die vereinbarte Leistung den Betrag der
-gewöhnlichen Beerdigungskosten, ist zur Wirksamkeit des Vertrags die
-schriftliche Einwilligung des anderen erforderlich; dies gilt nicht
-bei Lebensversicherungen im Bereich der betrieblichen
+gewöhnlichen Beerdigungskosten, ist zur Wirksamkeit des Vertrags
+die schriftliche Einwilligung des anderen erforderlich; dies
+gilt nicht bei Lebensversicherungen im Bereich der betrieblichen
 Altersversorgung. Ist der andere geschäftsunfähig oder in der
-Geschäftsfähigkeit beschränkt oder ist für ihn ein Betreuer bestellt
-und steht die Vertretung in den seine Person betreffenden
+Geschäftsfähigkeit beschränkt oder ist für ihn ein Betreuer
+bestellt und steht die Vertretung in den seine Person betreffenden
 Angelegenheiten dem Versicherungsnehmer zu, kann dieser den anderen
 bei der Erteilung der Einwilligung nicht vertreten.
 
 (3) Nimmt ein Elternteil die Versicherung auf die Person eines
-minderjährigen Kindes, bedarf es der Einwilligung des Kindes nur, wenn
-nach dem Vertrag der Versicherer auch bei Eintritt des Todes vor der
-Vollendung des siebenten Lebensjahres zur Leistung verpflichtet sein
-soll und die für diesen Fall vereinbarte Leistung den Betrag der
+minderjährigen Kindes, bedarf es der Einwilligung des Kindes nur,
+wenn nach dem Vertrag der Versicherer auch bei Eintritt des Todes vor
+der Vollendung des siebenten Lebensjahres zur Leistung verpflichtet
+sein soll und die für diesen Fall vereinbarte Leistung den Betrag der
 gewöhnlichen Beerdigungskosten übersteigt.
 
 (4) Soweit die Aufsichtsbehörde einen bestimmten Höchstbetrag für die
@@ -3102,31 +3038,51 @@ zu verlangen, nicht begründet.
 
 #### § 152 Widerruf des Versicherungsnehmers
 
-(1) Abweichend von § 8 Abs. 1 Satz 1 beträgt die Widerrufsfrist 30
-Tage.
+(1) Abweichend von § 8 Absatz 1 Satz 1 beträgt die Widerrufsfrist 30
+Tage. Abweichend von § 8 Absatz 4 Satz 2 erlischt das Widerrufsrecht
+spätestens 24 Monate und 30 Tage nach dem Vertragsschluss. § 8 Absatz
+5 Satz 4 ist nicht anzuwenden.
 
-(2) Der Versicherer hat abweichend von § 9 Satz 1 auch den
-Rückkaufswert einschließlich der Überschussanteile nach § 169 zu
-zahlen. Im Fall des § 9 Satz 2 hat der Versicherer den Rückkaufswert
-einschließlich der Überschussanteile oder, wenn dies für den
-Versicherungsnehmer günstiger ist, die für das erste Jahr gezahlten
-Prämien zu erstatten.
+(2) Beginnt der Versicherungsschutz vor dem Ende der Widerrufsfrist
+und ist die Voraussetzung nach § 9 Absatz 2 Satz 1 Nummer 1 erfüllt,
+hat der Versicherer dem Versicherungsnehmer abweichend von § 9 Absatz
+1
 
-(3) Abweichend von § 33 Abs. 1 ist die einmalige oder die erste Prämie
-unverzüglich nach Ablauf von 30 Tagen nach Zugang des
+1.  den auf die Zeit nach dem Zugang der Widerrufserklärung entfallenden
+    Teil der Prämien zurückzugewähren und
+
+2.  den Rückkaufswert einschließlich der Überschussanteile nach § 169
+    zu zahlen.
+
+(3) Beginnt der Versicherungsschutz vor dem Ende der Widerrufsfrist
+und ist die Voraussetzung nach § 9 Absatz 2 Satz 1 Nummer 1 nicht
+erfüllt, hat der Versicherer dem Versicherungsnehmer abweichend von §
+9 Absatz 1
+
+1.  den auf die Zeit nach dem Zugang der Widerrufserklärung entfallenden
+    Teil der Prämien zurückzugewähren und
+
+2.  den Rückkaufswert einschließlich der Überschussanteile nach § 169
+    oder, wenn dies für den Versicherungsnehmer günstiger ist, die für das
+    erste Jahr gezahlten Prämien zurückzugewähren.
+
+(4) § 9 Absatz 2 bis 4 findet keine Anwendung.
+
+(5) Abweichend von § 33 Abs. 1 ist die einmalige oder die erste
+Prämie unverzüglich nach Ablauf von 30 Tagen nach Zugang des
 Versicherungsscheins zu zahlen.
 
 
 #### § 153 Überschussbeteiligung
 
 (1) Dem Versicherungsnehmer steht eine Beteiligung an dem Überschuss
-und an den Bewertungsreserven (Überschussbeteiligung) zu, es sei denn,
-die Überschussbeteiligung ist durch ausdrückliche Vereinbarung
+und an den Bewertungsreserven (Überschussbeteiligung) zu, es sei
+denn, die Überschussbeteiligung ist durch ausdrückliche Vereinbarung
 ausgeschlossen; die Überschussbeteiligung kann nur insgesamt
 ausgeschlossen werden.
 
-(2) Der Versicherer hat die Beteiligung an dem Überschuss nach einem
-verursachungsorientierten Verfahren durchzuführen; andere
+(2) Der Versicherer hat die Beteiligung an dem Überschuss nach
+einem verursachungsorientierten Verfahren durchzuführen; andere
 vergleichbare angemessene Verteilungsgrundsätze können vereinbart
 werden. Die Beträge im Sinn des § 268 Abs. 8 des Handelsgesetzbuchs
 bleiben unberücksichtigt.
@@ -3167,9 +3123,9 @@ Ansprüche gegen den Versicherer ableiten kann.
 #### § 155 Standmitteilung
 
 (1) Bei Versicherungen mit Überschussbeteiligung hat der Versicherer
-den Versicherungsnehmer jährlich in Textform über den aktuellen Stand
-seiner Ansprüche unter Einbeziehung der Überschussbeteiligung zu
-unterrichten. Dabei hat er mitzuteilen, inwieweit diese
+den Versicherungsnehmer jährlich in Textform über den aktuellen
+Stand seiner Ansprüche unter Einbeziehung der Überschussbeteiligung
+zu unterrichten. Dabei hat er mitzuteilen, inwieweit diese
 Überschussbeteiligung garantiert ist. Im Einzelnen hat der Versicherer
 Folgendes anzugeben:
 
@@ -3177,26 +3133,19 @@ Folgendes anzugeben:
     zuzüglich Überschussbeteiligung zu dem in der Standmitteilung
     bezeichneten maßgeblichen Zeitpunkt,
 
-
 2.  die vereinbarte Leistung zuzüglich garantierter Überschussbeteiligung
     bei Ablauf des Vertrags oder bei Rentenbeginn unter der Voraussetzung
     einer unveränderten Vertragsfortführung,
-
 
 3.  die vereinbarte Leistung zuzüglich garantierter Überschussbeteiligung
     zum Ablauf des Vertrags oder zum Rentenbeginn unter der Voraussetzung
     einer prämienfreien Versicherung,
 
-
 4.  den Auszahlungsbetrag bei Kündigung des Versicherungsnehmers,
-
 
 5.  die Summe der gezahlten Prämien bei Verträgen, die ab dem 1. Juli 2018
     abgeschlossen werden; im Übrigen kann über die Summe der gezahlten
     Prämien in Textform Auskunft verlangt werden.
-
-
-
 
 (2) Weitere Angaben bleiben dem Versicherer unbenommen. Die
 Standmitteilung kann mit anderen jährlich zu machenden Mitteilungen
@@ -3219,8 +3168,8 @@ Verhalten zu berücksichtigen.
 #### § 157 Unrichtige Altersangabe
 
 Ist das Alter der versicherten Person unrichtig angegeben worden,
-verändert sich die Leistung des Versicherers nach dem Verhältnis, in
-welchem die dem wirklichen Alter entsprechende Prämie zu der
+verändert sich die Leistung des Versicherers nach dem Verhältnis,
+in welchem die dem wirklichen Alter entsprechende Prämie zu der
 vereinbarten Prämie steht. Das Recht, wegen der Verletzung der
 Anzeigepflicht von dem Vertrag zurückzutreten, steht dem Versicherer
 abweichend von § 19 Abs. 2 nur zu, wenn er den Vertrag bei richtiger
@@ -3229,8 +3178,8 @@ Altersangabe nicht geschlossen hätte.
 
 #### § 158 Gefahränderung
 
-(1) Als Erhöhung der Gefahr gilt nur eine solche Änderung der
-Gefahrumstände, die nach ausdrücklicher Vereinbarung als
+(1) Als Erhöhung der Gefahr gilt nur eine solche Änderung
+der Gefahrumstände, die nach ausdrücklicher Vereinbarung als
 Gefahrerhöhung angesehen werden soll; die Vereinbarung bedarf der
 Textform.
 
@@ -3270,12 +3219,12 @@ Anteil wächst den übrigen Bezugsberechtigten zu.
 
 (2) Soll die Leistung des Versicherers nach dem Tod des
 Versicherungsnehmers an dessen Erben erfolgen, sind im Zweifel
-diejenigen, welche zur Zeit des Todes als Erben berufen sind, nach dem
-Verhältnis ihrer Erbteile bezugsberechtigt. Eine Ausschlagung der
+diejenigen, welche zur Zeit des Todes als Erben berufen sind, nach
+dem Verhältnis ihrer Erbteile bezugsberechtigt. Eine Ausschlagung der
 Erbschaft hat auf die Berechtigung keinen Einfluss.
 
-(3) Wird das Recht auf die Leistung des Versicherers von dem
-bezugsberechtigten Dritten nicht erworben, steht es dem
+(3) Wird das Recht auf die Leistung des Versicherers von
+dem bezugsberechtigten Dritten nicht erworben, steht es dem
 Versicherungsnehmer zu.
 
 (4) Ist der Fiskus als Erbe berufen, steht ihm ein Bezugsrecht im Sinn
@@ -3320,16 +3269,12 @@ Prämie berechtigt, wenn
     voraussehbar gegenüber den Rechnungsgrundlagen der vereinbarten Prämie
     geändert hat,
 
-
 2.  die nach den berichtigten Rechnungsgrundlagen neu festgesetzte Prämie
     angemessen und erforderlich ist, um die dauernde Erfüllbarkeit der
     Versicherungsleistung zu gewährleisten, und
 
-
 3.  ein unabhängiger Treuhänder die Rechnungsgrundlagen und die
     Voraussetzungen der Nummern 1 und 2 überprüft und bestätigt hat.
-
-
 
 Eine Neufestsetzung der Prämie ist insoweit ausgeschlossen, als die
 Versicherungsleistungen zum Zeitpunkt der Erst- oder Neukalkulation
@@ -3348,22 +3293,22 @@ Versicherungsleistung werden zu Beginn des zweiten Monats wirksam, der
 auf die Mitteilung der Neufestsetzung oder der Herabsetzung und der
 hierfür maßgeblichen Gründe an den Versicherungsnehmer folgt.
 
-(4) Die Mitwirkung des Treuhänders nach Absatz 1 Satz 1 Nr. 3
-entfällt, wenn die Neufestsetzung oder die Herabsetzung der
+(4) Die Mitwirkung des Treuhänders nach Absatz 1 Satz 1 Nr.
+3 entfällt, wenn die Neufestsetzung oder die Herabsetzung der
 Versicherungsleistung der Genehmigung der Aufsichtsbehörde bedarf.
 
 
 #### § 164 Bedingungsanpassung
 
-(1) Ist eine Bestimmung in Allgemeinen Versicherungsbedingungen des
-Versicherers durch höchstrichterliche Entscheidung oder durch
+(1) Ist eine Bestimmung in Allgemeinen Versicherungsbedingungen
+des Versicherers durch höchstrichterliche Entscheidung oder durch
 bestandskräftigen Verwaltungsakt für unwirksam erklärt worden, kann
-sie der Versicherer durch eine neue Regelung ersetzen, wenn dies zur
-Fortführung des Vertrags notwendig ist oder wenn das Festhalten an dem
-Vertrag ohne neue Regelung für eine Vertragspartei auch unter
-Berücksichtigung der Interessen der anderen Vertragspartei eine
-unzumutbare Härte darstellen würde. Die neue Regelung ist nur wirksam,
-wenn sie unter Wahrung des Vertragsziels die Belange der
+sie der Versicherer durch eine neue Regelung ersetzen, wenn dies
+zur Fortführung des Vertrags notwendig ist oder wenn das Festhalten
+an dem Vertrag ohne neue Regelung für eine Vertragspartei auch
+unter Berücksichtigung der Interessen der anderen Vertragspartei
+eine unzumutbare Härte darstellen würde. Die neue Regelung ist nur
+wirksam, wenn sie unter Wahrung des Vertragsziels die Belange der
 Versicherungsnehmer angemessen berücksichtigt.
 
 (2) Die neue Regelung nach Absatz 1 wird zwei Wochen, nachdem die neue
@@ -3374,22 +3319,22 @@ mitgeteilt worden sind, Vertragsbestandteil.
 #### § 165 Prämienfreie Versicherung
 
 (1) Der Versicherungsnehmer kann jederzeit für den Schluss der
-laufenden Versicherungsperiode die Umwandlung der Versicherung in eine
-prämienfreie Versicherung verlangen, sofern die dafür vereinbarte
-Mindestversicherungsleistung erreicht wird. Wird diese nicht erreicht,
-hat der Versicherer den auf die Versicherung entfallenden
+laufenden Versicherungsperiode die Umwandlung der Versicherung in
+eine prämienfreie Versicherung verlangen, sofern die dafür vereinbarte
+Mindestversicherungsleistung erreicht wird. Wird diese nicht
+erreicht, hat der Versicherer den auf die Versicherung entfallenden
 Rückkaufswert einschließlich der Überschussanteile nach § 169 zu
 zahlen.
 
-(2) Die prämienfreie Leistung ist nach anerkannten Regeln der
-Versicherungsmathematik mit den Rechnungsgrundlagen der
+(2) Die prämienfreie Leistung ist nach anerkannten Regeln
+der Versicherungsmathematik mit den Rechnungsgrundlagen der
 Prämienkalkulation unter Zugrundelegung des Rückkaufswertes nach § 169
 Abs. 3 bis 5 zu berechnen und im Vertrag für jedes Versicherungsjahr
 anzugeben.
 
 (3) Die prämienfreie Leistung ist für den Schluss der laufenden
-Versicherungsperiode unter Berücksichtigung von Prämienrückständen zu
-berechnen. Die Ansprüche des Versicherungsnehmers aus der
+Versicherungsperiode unter Berücksichtigung von Prämienrückständen
+zu berechnen. Die Ansprüche des Versicherungsnehmers aus der
 Überschussbeteiligung bleiben unberührt.
 
 
@@ -3404,31 +3349,33 @@ verpflichtet, die er erbringen müsste, wenn sich mit dem Eintritt des
 Versicherungsfalles die Versicherung in eine prämienfreie Versicherung
 umgewandelt hätte.
 
-(3) Bei der Bestimmung einer Zahlungsfrist nach § 38 Abs. 1 hat der
-Versicherer auf die eintretende Umwandlung der Versicherung
+(3) Bei der Bestimmung einer Zahlungsfrist nach § 38 Abs. 1 hat
+der Versicherer auf die eintretende Umwandlung der Versicherung
 hinzuweisen.
 
-(4) Bei einer Lebensversicherung, die vom Arbeitgeber zugunsten seiner
-Arbeitnehmerinnen und Arbeitnehmer abgeschlossen worden ist, hat der
-Versicherer die versicherte Person über die Bestimmung der
-Zahlungsfrist nach § 38 Abs. 1 und die eintretende Umwandlung der
-Versicherung in Textform zu informieren und ihnen eine Zahlungsfrist
-von mindestens zwei Monaten einzuräumen.
+(4) Bei einer Lebensversicherung, die vom Arbeitgeber zugunsten
+seiner Arbeitnehmerinnen und Arbeitnehmer abgeschlossen worden ist,
+hat der Versicherer die versicherte Person über die Bestimmung der
+Zahlungsfrist nach § 38 Absatz 1 und die eintretende Umwandlung der
+Versicherung in Textform zu informieren und ihr eine Zahlungsfrist von
+mindestens zwei Monaten einzuräumen. Er hat auf das Fortsetzungsrecht
+nach § 212 hinzuweisen, wenn es sich um eine Lebensversicherung im
+Anwendungsbereich dieser Vorschriften handelt.
 
 
 #### § 167 Umwandlung zur Erlangung eines Pfändungsschutzes
 
 Der Versicherungsnehmer einer Lebensversicherung kann jederzeit für
 den Schluss der laufenden Versicherungsperiode die Umwandlung der
-Versicherung in eine Versicherung verlangen, die den Anforderungen des
-§ 851c Abs. 1 der Zivilprozessordnung entspricht. Die Kosten der
+Versicherung in eine Versicherung verlangen, die den Anforderungen
+des § 851c Abs. 1 der Zivilprozessordnung entspricht. Die Kosten der
 Umwandlung hat der Versicherungsnehmer zu tragen.
 
 
 #### § 168 Kündigung des Versicherungsnehmers
 
-(1) Sind laufende Prämien zu zahlen, kann der Versicherungsnehmer das
-Versicherungsverhältnis jederzeit für den Schluss der laufenden
+(1) Sind laufende Prämien zu zahlen, kann der Versicherungsnehmer
+das Versicherungsverhältnis jederzeit für den Schluss der laufenden
 Versicherungsperiode kündigen.
 
 (2) Bei einer Versicherung, die Versicherungsschutz für ein Risiko
@@ -3437,14 +3384,18 @@ ist, steht das Kündigungsrecht dem Versicherungsnehmer auch dann zu,
 wenn die Prämie in einer einmaligen Zahlung besteht.
 
 (3) Die Absätze 1 und 2 sind nicht auf einen für die Altersvorsorge
-bestimmten Versicherungsvertrag anzuwenden, bei dem der
-Versicherungsnehmer mit dem Versicherer eine Verwertung vor dem
-Eintritt in den Ruhestand unwiderruflich ausgeschlossen hat; der Wert
-der vom Ausschluss der Verwertbarkeit betroffenen Ansprüche darf die
-in § 12 Abs. 2 Nr. 3 des Zweiten Buches Sozialgesetzbuch bestimmten
-Beträge nicht übersteigen. Entsprechendes gilt, soweit die Ansprüche
-nach § 851c oder § 851d der Zivilprozessordnung nicht gepfändet werden
-dürfen.
+bestimmten Versicherungsvertrag anzuwenden,
+
+1.  wenn die Vertragsparteien bei einem nach § 5a des
+    Altersvorsorgeverträge-Zertifizierungsgesetzes zertifizierten
+    Basisrentenvertrag die Verwertung der Ansprüche gemäß § 10 Absatz 1
+    Nummer 2 Satz 1 Buchstabe b des Einkommensteuergesetzes ausgeschlossen
+    haben oder
+
+2.  soweit die Vertragsparteien eine Verwertung unwiderruflich
+    ausgeschlossen haben und dieser Ausschluss erforderlich ist, um den
+    Pfändungsschutz nach § 851c der Zivilprozessordnung oder § 851d der
+    Zivilprozessordnung herbeizuführen.
 
 
 #### § 169 Rückkaufswert
@@ -3464,9 +3415,9 @@ oder der Anfechtung ist der volle Rückkaufswert zu zahlen.
 (3) Der Rückkaufswert ist das nach anerkannten Regeln der
 Versicherungsmathematik mit den Rechnungsgrundlagen der
 Prämienkalkulation zum Schluss der laufenden Versicherungsperiode
-berechnete Deckungskapital der Versicherung, bei einer Kündigung des
-Versicherungsverhältnisses jedoch mindestens der Betrag des
-Deckungskapitals, das sich bei gleichmäßiger Verteilung der
+berechnete Deckungskapital der Versicherung, bei einer Kündigung
+des Versicherungsverhältnisses jedoch mindestens der Betrag
+des Deckungskapitals, das sich bei gleichmäßiger Verteilung der
 angesetzten Abschluss- und Vertriebskosten auf die ersten fünf
 Vertragsjahre ergibt; die aufsichtsrechtlichen Regelungen über
 Höchstzillmersätze bleiben unberührt. Der Rückkaufswert und das
@@ -3479,8 +3430,8 @@ kann er für die Berechnung des Rückkaufswertes an Stelle des
 Deckungskapitals den in diesem Staat vergleichbaren anderen Bezugswert
 zu Grunde legen.
 
-(4) Bei fondsgebundenen Versicherungen und anderen Versicherungen, die
-Leistungen der in § 124 Absatz 2 Satz 2 des
+(4) Bei fondsgebundenen Versicherungen und anderen
+Versicherungen, die Leistungen der in § 124 Absatz 2 Satz 2 des
 Versicherungsaufsichtsgesetzes bezeichneten Art vorsehen, ist der
 Rückkaufswert nach anerkannten Regeln der Versicherungsmathematik als
 Zeitwert der Versicherung zu berechnen, soweit nicht der Versicherer
@@ -3494,15 +3445,15 @@ Abschluss- und Vertriebskosten ist unwirksam.
 
 (6) Der Versicherer kann den nach Absatz 3 berechneten Betrag
 angemessen herabsetzen, soweit dies erforderlich ist, um eine
-Gefährdung der Belange der Versicherungsnehmer, insbesondere durch
-eine Gefährdung der dauernden Erfüllbarkeit der sich aus den
+Gefährdung der Belange der Versicherungsnehmer, insbesondere
+durch eine Gefährdung der dauernden Erfüllbarkeit der sich aus den
 Versicherungsverträgen ergebenden Verpflichtungen, auszuschließen. Die
 Herabsetzung ist jeweils auf ein Jahr befristet.
 
 (7) Der Versicherer hat dem Versicherungsnehmer zusätzlich zu dem nach
 den Absätzen 3 bis 6 berechneten Betrag die diesem bereits zugeteilten
-Überschussanteile, soweit sie nicht bereits in dem Betrag nach den
-Absätzen 3 bis 6 enthalten sind, sowie den nach den jeweiligen
+Überschussanteile, soweit sie nicht bereits in dem Betrag nach
+den Absätzen 3 bis 6 enthalten sind, sowie den nach den jeweiligen
 Allgemeinen Versicherungsbedingungen für den Fall der Kündigung
 vorgesehenen Schlussüberschussanteil zu zahlen; § 153 Abs. 3 Satz 2
 bleibt unberührt.
@@ -3525,16 +3476,16 @@ könnte.
 steht das gleiche Recht dem Ehegatten oder Lebenspartner und den
 Kindern des Versicherungsnehmers zu.
 
-(3) Der Eintritt erfolgt durch Anzeige an den Versicherer. Die Anzeige
-kann nur innerhalb eines Monats erfolgen, nachdem der
+(3) Der Eintritt erfolgt durch Anzeige an den Versicherer. Die
+Anzeige kann nur innerhalb eines Monats erfolgen, nachdem der
 Eintrittsberechtigte von der Pfändung Kenntnis erlangt hat oder das
 Insolvenzverfahren eröffnet worden ist.
 
 
 #### § 171 Abweichende Vereinbarungen
 
-Von § 152 Abs. 1 und 2 und den §§ 153 bis 155, 157, 158, 161 und 163
-bis 170 kann nicht zum Nachteil des Versicherungsnehmers, der
+Von § 152 Absatz 1 bis 4 und den §§ 153 bis 155, 157, 158, 161 und
+163 bis 170 kann nicht zum Nachteil des Versicherungsnehmers, der
 versicherten Person oder des Eintrittsberechtigten abgewichen werden.
 Für das Verlangen des Versicherungsnehmers auf Umwandlung nach § 165
 und für seine Kündigung nach § 168 kann die Schrift- oder die Textform
@@ -3550,16 +3501,16 @@ vereinbart werden.
 verpflichtet, für eine nach Beginn der Versicherung eingetretene
 Berufsunfähigkeit die vereinbarten Leistungen zu erbringen.
 
-(2) Berufsunfähig ist, wer seinen zuletzt ausgeübten Beruf, so wie er
-ohne gesundheitliche Beeinträchtigung ausgestaltet war, infolge
+(2) Berufsunfähig ist, wer seinen zuletzt ausgeübten Beruf, so wie
+er ohne gesundheitliche Beeinträchtigung ausgestaltet war, infolge
 Krankheit, Körperverletzung oder mehr als altersentsprechendem
 Kräfteverfall ganz oder teilweise voraussichtlich auf Dauer nicht mehr
 ausüben kann.
 
 (3) Als weitere Voraussetzung einer Leistungspflicht des Versicherers
-kann vereinbart werden, dass die versicherte Person auch keine andere
-Tätigkeit ausübt oder ausüben kann, die zu übernehmen sie auf Grund
-ihrer Ausbildung und Fähigkeiten in der Lage ist und die ihrer
+kann vereinbart werden, dass die versicherte Person auch keine
+andere Tätigkeit ausübt oder ausüben kann, die zu übernehmen sie auf
+Grund ihrer Ausbildung und Fähigkeiten in der Lage ist und die ihrer
 bisherigen Lebensstellung entspricht.
 
 
@@ -3598,8 +3549,8 @@ nicht entgegenstehen.
 
 #### § 177 Ähnliche Versicherungsverträge
 
-(1) Die §§ 173 bis 176 sind auf alle Versicherungsverträge, bei denen
-der Versicherer für eine dauerhafte Beeinträchtigung der
+(1) Die §§ 173 bis 176 sind auf alle Versicherungsverträge, bei
+denen der Versicherer für eine dauerhafte Beeinträchtigung der
 Arbeitsfähigkeit eine Leistung verspricht, entsprechend anzuwenden.
 
 (2) Auf die Unfallversicherung sowie auf Krankenversicherungsverträge,
@@ -3624,8 +3575,8 @@ Beweis des Gegenteils vermutet.
 
 #### § 179 Versicherte Person
 
-(1) Die Unfallversicherung kann für den Eintritt eines Unfalles des
-Versicherungsnehmers oder eines anderen genommen werden. Eine
+(1) Die Unfallversicherung kann für den Eintritt eines Unfalles
+des Versicherungsnehmers oder eines anderen genommen werden. Eine
 Versicherung gegen Unfälle eines anderen gilt im Zweifel als für
 Rechnung des anderen genommen.
 
@@ -3638,9 +3589,9 @@ Vertretung in den seine Person betreffenden Angelegenheiten dem
 Versicherungsnehmer zu, kann dieser den anderen bei der Erteilung der
 Einwilligung nicht vertreten.
 
-(3) Soweit im Fall des Absatzes 2 nach diesem Gesetz die Kenntnis und
-das Verhalten des Versicherungsnehmers von rechtlicher Bedeutung sind,
-sind auch die Kenntnis und das Verhalten des anderen zu
+(3) Soweit im Fall des Absatzes 2 nach diesem Gesetz die Kenntnis
+und das Verhalten des Versicherungsnehmers von rechtlicher Bedeutung
+sind, sind auch die Kenntnis und das Verhalten des anderen zu
 berücksichtigen.
 
 
@@ -3679,8 +3630,8 @@ des Wegfalles oder der Minderung des Anspruchs nachzuweisen.
 
 #### § 183 Herbeiführung des Versicherungsfalles
 
-(1) Der Versicherer ist nicht zur Leistung verpflichtet, wenn im Fall
-des § 179 Abs. 2 der Versicherungsnehmer vorsätzlich durch eine
+(1) Der Versicherer ist nicht zur Leistung verpflichtet, wenn im
+Fall des § 179 Abs. 2 der Versicherungsnehmer vorsätzlich durch eine
 widerrechtliche Handlung den Versicherungsfall herbeiführt.
 
 (2) Ist ein Dritter als Bezugsberechtigter bezeichnet, gilt die
@@ -3701,8 +3652,8 @@ vereinbart, sind die §§ 159 und 160 entsprechend anzuwenden.
 
 #### § 186 Hinweispflicht des Versicherers
 
-Zeigt der Versicherungsnehmer einen Versicherungsfall an, hat der
-Versicherer ihn auf vertragliche Anspruchs- und
+Zeigt der Versicherungsnehmer einen Versicherungsfall an,
+hat der Versicherer ihn auf vertragliche Anspruchs- und
 Fälligkeitsvoraussetzungen sowie einzuhaltende Fristen in Textform
 hinzuweisen. Unterbleibt dieser Hinweis, kann sich der Versicherer auf
 Fristversäumnis nicht berufen.
@@ -3710,8 +3661,8 @@ Fristversäumnis nicht berufen.
 
 #### § 187 Anerkenntnis
 
-(1) Der Versicherer hat nach einem Leistungsantrag innerhalb eines
-Monats nach Vorlage der zu dessen Beurteilung erforderlichen
+(1) Der Versicherer hat nach einem Leistungsantrag innerhalb
+eines Monats nach Vorlage der zu dessen Beurteilung erforderlichen
 Unterlagen in Textform zu erklären, ob und in welchem Umfang er seine
 Leistungspflicht anerkennt. Wird eine Invaliditätsleistung beantragt,
 beträgt die Frist drei Monate.
@@ -3719,15 +3670,15 @@ beträgt die Frist drei Monate.
 (2) Erkennt der Versicherer den Anspruch an oder haben sich
 Versicherungsnehmer und Versicherer über Grund und Höhe des Anspruchs
 geeinigt, wird die Leistung innerhalb von zwei Wochen fällig. Steht
-die Leistungspflicht nur dem Grunde nach fest, hat der Versicherer auf
-Verlangen des Versicherungsnehmers einen angemessenen Vorschuss zu
-leisten.
+die Leistungspflicht nur dem Grunde nach fest, hat der Versicherer
+auf Verlangen des Versicherungsnehmers einen angemessenen Vorschuss
+zu leisten.
 
 
 #### § 188 Neubemessung der Invalidität
 
-(1) Sind Leistungen für den Fall der Invalidität vereinbart, ist jede
-Vertragspartei berechtigt, den Grad der Invalidität jährlich,
+(1) Sind Leistungen für den Fall der Invalidität vereinbart, ist
+jede Vertragspartei berechtigt, den Grad der Invalidität jährlich,
 längstens bis zu drei Jahre nach Eintritt des Unfalles, neu bemessen
 zu lassen. In der Kinderunfallversicherung kann die Frist, innerhalb
 derer eine Neubemessung verlangt werden kann, verlängert werden.
@@ -3749,15 +3700,15 @@ Die §§ 84 und 85 Abs. 1 und 3 sind entsprechend anzuwenden.
 
 Besteht für den Abschluss einer Unfallversicherung eine Verpflichtung
 durch Rechtsvorschrift, hat der Versicherer dem Versicherungsnehmer
-unter Angabe der Versicherungssumme zu bescheinigen, dass eine der zu
-bezeichnenden Rechtsvorschrift entsprechende Unfallversicherung
+unter Angabe der Versicherungssumme zu bescheinigen, dass eine der
+zu bezeichnenden Rechtsvorschrift entsprechende Unfallversicherung
 besteht.
 
 
 #### § 191 Abweichende Vereinbarungen
 
-Von § 178 Abs. 2 Satz 2 und den §§ 181, 186 bis 188 kann nicht zum
-Nachteil des Versicherungsnehmers oder der versicherten Person
+Von § 178 Abs. 2 Satz 2 und den §§ 181, 186 bis 188 kann nicht
+zum Nachteil des Versicherungsnehmers oder der versicherten Person
 abgewichen werden.
 
 
@@ -3767,10 +3718,10 @@ abgewichen werden.
 #### § 192 Vertragstypische Leistungen des Versicherers
 
 (1) Bei der Krankheitskostenversicherung ist der Versicherer
-verpflichtet, im vereinbarten Umfang die Aufwendungen für medizinisch
-notwendige Heilbehandlung wegen Krankheit oder Unfallfolgen und für
-sonstige vereinbarte Leistungen einschließlich solcher bei
-Schwangerschaft und Entbindung sowie für ambulante
+verpflichtet, im vereinbarten Umfang die Aufwendungen für
+medizinisch notwendige Heilbehandlung wegen Krankheit oder
+Unfallfolgen und für sonstige vereinbarte Leistungen einschließlich
+solcher bei Schwangerschaft und Entbindung sowie für ambulante
 Vorsorgeuntersuchungen zur Früherkennung von Krankheiten nach
 gesetzlich eingeführten Programmen zu erstatten.
 
@@ -3786,25 +3737,18 @@ nach Absatz 1 stehen, vereinbart werden, insbesondere
 1.  die Beratung über Leistungen nach Absatz 1 sowie über die Anbieter
     solcher Leistungen;
 
-
 2.  die Beratung über die Berechtigung von Entgeltansprüchen der Erbringer
     von Leistungen nach Absatz 1;
 
-
 3.  die Abwehr unberechtigter Entgeltansprüche der Erbringer von
     Leistungen nach Absatz 1;
-
 
 4.  die Unterstützung der versicherten Personen bei der Durchsetzung von
     Ansprüchen wegen fehlerhafter Erbringung der Leistungen nach Absatz 1
     und der sich hieraus ergebenden Folgen;
 
-
 5.  die unmittelbare Abrechnung der Leistungen nach Absatz 1 mit deren
     Erbringern.
-
-
-
 
 (4) Bei der Krankenhaustagegeldversicherung ist der Versicherer
 verpflichtet, bei medizinisch notwendiger stationärer Heilbehandlung
@@ -3815,52 +3759,52 @@ verpflichtet, den als Folge von Krankheit oder Unfall durch
 Arbeitsunfähigkeit verursachten Verdienstausfall durch das vereinbarte
 Krankentagegeld zu ersetzen. Er ist außerdem verpflichtet, den
 Verdienstausfall, der während der Schutzfristen nach § 3 Absatz 1 und
-2 des Mutterschutzgesetzes sowie am Entbindungstag entsteht, durch das
-vereinbarte Krankentagegeld zu ersetzen, soweit der versicherten
+2 des Mutterschutzgesetzes sowie am Entbindungstag entsteht, durch
+das vereinbarte Krankentagegeld zu ersetzen, soweit der versicherten
 Person kein anderweitiger angemessener Ersatz für den während dieser
 Zeit verursachten Verdienstausfall zusteht.
 
 (6) Bei der Pflegekrankenversicherung ist der Versicherer
-verpflichtet, im Fall der Pflegebedürftigkeit im vereinbarten Umfang
-die Aufwendungen für die Pflege der versicherten Person zu erstatten
-(Pflegekostenversicherung) oder das vereinbarte Tagegeld zu leisten
-(Pflegetagegeldversicherung). Absatz 2 gilt für die
+verpflichtet, im Fall der Pflegebedürftigkeit im vereinbarten
+Umfang die Aufwendungen für die Pflege der versicherten Person zu
+erstatten (Pflegekostenversicherung) oder das vereinbarte Tagegeld
+zu leisten (Pflegetagegeldversicherung). Absatz 2 gilt für die
 Pflegekostenversicherung entsprechend. Die Regelungen des Elften
 Buches Sozialgesetzbuch über die private Pflegeversicherung bleiben
 unberührt.
 
-(7) Bei der Krankheitskostenversicherung im Basistarif nach § 152 des
-Versicherungsaufsichtsgesetzes und im Notlagentarif nach § 153 des
-Versicherungsaufsichtsgesetzes kann der Leistungserbringer seinen
+(7) Bei der Krankheitskostenversicherung im Basistarif nach § 152
+des Versicherungsaufsichtsgesetzes und im Notlagentarif nach § 153
+des Versicherungsaufsichtsgesetzes kann der Leistungserbringer seinen
 Anspruch auf Leistungserstattung auch gegen den Versicherer geltend
-machen, soweit der Versicherer aus dem Versicherungsverhältnis zur
-Leistung verpflichtet ist. Im Rahmen der Leistungspflicht des
-Versicherers aus dem Versicherungsverhältnis haften Versicherer und
-Versicherungsnehmer gesamtschuldnerisch. Soweit im Notlagentarif nach
-§ 153 des Versicherungsaufsichtsgesetzes der Versicherer die aus dem
-Versicherungsverhältnis geschuldete Leistung an den Leistungserbringer
-oder den Versicherungsnehmer erbringt, wird er von seiner
-Leistungspflicht gegenüber dem Leistungserbringer frei. Der
-Versicherer kann im Basistarif nach § 152 des
-Versicherungsaufsichtsgesetzes und im Notlagentarif nach § 153 des
-Versicherungsaufsichtsgesetzes nicht mit einer ihm aus der
-Krankheitskostenversicherung oder der privaten Pflege-
+machen, soweit der Versicherer aus dem Versicherungsverhältnis
+zur Leistung verpflichtet ist. Im Rahmen der Leistungspflicht
+des Versicherers aus dem Versicherungsverhältnis haften
+Versicherer und Versicherungsnehmer gesamtschuldnerisch. Soweit
+im Notlagentarif nach § 153 des Versicherungsaufsichtsgesetzes
+der Versicherer die aus dem Versicherungsverhältnis geschuldete
+Leistung an den Leistungserbringer oder den Versicherungsnehmer
+erbringt, wird er von seiner Leistungspflicht gegenüber dem
+Leistungserbringer frei. Der Versicherer kann im Basistarif nach
+§ 152 des Versicherungsaufsichtsgesetzes und im Notlagentarif
+nach § 153 des Versicherungsaufsichtsgesetzes nicht mit einer ihm
+aus der Krankheitskostenversicherung oder der privaten Pflege-
 Pflichtversicherung zustehenden Prämienforderung gegen eine Forderung
-des Versicherungsnehmers aus diesen Versicherungen aufrechnen.  § 35
+des Versicherungsnehmers aus diesen Versicherungen aufrechnen. § 35
 ist nicht anwendbar.
 
 (8) Der Versicherungsnehmer kann vor Beginn einer Heilbehandlung,
-deren Kosten voraussichtlich 2 000 Euro überschreiten werden, in
-Textform vom Versicherer Auskunft über den Umfang des
+deren Kosten voraussichtlich 2 000 Euro überschreiten werden,
+in Textform vom Versicherer Auskunft über den Umfang des
 Versicherungsschutzes für die beabsichtigte Heilbehandlung verlangen.
 Ist die Durchführung der Heilbehandlung dringlich, hat der Versicherer
-eine mit Gründen versehene Auskunft unverzüglich, spätestens nach zwei
-Wochen, zu erteilen, ansonsten nach vier Wochen; auf einen vom
-Versicherungsnehmer vorgelegten Kostenvoranschlag und andere
+eine mit Gründen versehene Auskunft unverzüglich, spätestens nach
+zwei Wochen, zu erteilen, ansonsten nach vier Wochen; auf einen
+vom Versicherungsnehmer vorgelegten Kostenvoranschlag und andere
 Unterlagen ist dabei einzugehen. Die Frist beginnt mit Eingang des
-Auskunftsverlangens beim Versicherer. Ist die Auskunft innerhalb der
-Frist nicht erteilt, wird bis zum Beweis des Gegenteils durch den
-Versicherer vermutet, dass die beabsichtigte medizinische
+Auskunftsverlangens beim Versicherer. Ist die Auskunft innerhalb
+der Frist nicht erteilt, wird bis zum Beweis des Gegenteils durch
+den Versicherer vermutet, dass die beabsichtigte medizinische
 Heilbehandlung notwendig ist.
 
 
@@ -3879,14 +3823,14 @@ Verhalten zu berücksichtigen.
 Deutschland zum Geschäftsbetrieb zugelassenen Versicherungsunternehmen
 für sich selbst und für die von ihr gesetzlich vertretenen Personen,
 soweit diese nicht selbst Verträge abschließen können, eine
-Krankheitskostenversicherung, die mindestens eine Kostenerstattung für
-ambulante und stationäre Heilbehandlung umfasst und bei der die für
-tariflich vorgesehene Leistungen vereinbarten absoluten und
+Krankheitskostenversicherung, die mindestens eine Kostenerstattung
+für ambulante und stationäre Heilbehandlung umfasst und bei der
+die für tariflich vorgesehene Leistungen vereinbarten absoluten und
 prozentualen Selbstbehalte für ambulante und stationäre Heilbehandlung
-für jede zu versichernde Person auf eine betragsmäßige Auswirkung von
-kalenderjährlich 5.000 Euro begrenzt ist, abzuschließen und
-aufrechtzuerhalten; für Beihilfeberechtigte ergeben sich die möglichen
-Selbstbehalte durch eine sinngemäße Anwendung des durch den
+für jede zu versichernde Person auf eine betragsmäßige Auswirkung
+von kalenderjährlich 5.000 Euro begrenzt ist, abzuschließen und
+aufrechtzuerhalten; für Beihilfeberechtigte ergeben sich die
+möglichen Selbstbehalte durch eine sinngemäße Anwendung des durch den
 Beihilfesatz nicht gedeckten Vom-Hundert-Anteils auf den Höchstbetrag
 von 5.000 Euro. Die Pflicht nach Satz 1 besteht nicht für Personen,
 die
@@ -3894,43 +3838,38 @@ die
 1.  in der gesetzlichen Krankenversicherung versichert oder
     versicherungspflichtig sind oder
 
-
 2.  Anspruch auf freie Heilfürsorge haben, beihilfeberechtigt sind oder
     vergleichbare Ansprüche haben im Umfang der jeweiligen Berechtigung
     oder
 
-
 3.  Anspruch auf Leistungen nach dem Asylbewerberleistungsgesetz haben
     oder
 
-
-4.  Empfänger laufender Leistungen nach dem Dritten, Vierten und Siebten
-    Kapitel des Zwölften Buches Sozialgesetzbuch und Empfänger von
-    Leistungen nach Teil 2 des Neunten Buches Sozialgesetzbuch sind für
-    die Dauer dieses Leistungsbezugs und während Zeiten einer
+4.  Empfänger laufender Leistungen nach dem Dritten, Vierten und
+    Siebten Kapitel des Zwölften Buches Sozialgesetzbuch und Empfänger
+    von Leistungen nach Teil 2 des Neunten Buches Sozialgesetzbuch
+    sind für die Dauer dieses Leistungsbezugs und während Zeiten einer
     Unterbrechung des Leistungsbezugs von weniger als einem Monat, wenn
     der Leistungsbezug vor dem 1. Januar 2009 begonnen hat.
-
-
 
 Ein vor dem 1. April 2007 vereinbarter
 Krankheitskostenversicherungsvertrag genügt den Anforderungen des
 Satzes 1.
 
 (4) Wird der Vertragsabschluss später als einen Monat nach Entstehen
-der Pflicht nach Absatz 3 Satz 1 beantragt, ist ein Prämienzuschlag zu
-entrichten. Dieser beträgt einen Monatsbeitrag für jeden weiteren
-angefangenen Monat der Nichtversicherung, ab dem sechsten Monat der
-Nichtversicherung für jeden weiteren angefangenen Monat der
+der Pflicht nach Absatz 3 Satz 1 beantragt, ist ein Prämienzuschlag
+zu entrichten. Dieser beträgt einen Monatsbeitrag für jeden weiteren
+angefangenen Monat der Nichtversicherung, ab dem sechsten Monat
+der Nichtversicherung für jeden weiteren angefangenen Monat der
 Nichtversicherung ein Sechstel eines Monatsbeitrags. Kann die Dauer
 der Nichtversicherung nicht ermittelt werden, ist davon auszugehen,
-dass der Versicherte mindestens fünf Jahre nicht versichert war. Der
-Prämienzuschlag ist einmalig zusätzlich zur laufenden Prämie zu
+dass der Versicherte mindestens fünf Jahre nicht versichert war.
+Der Prämienzuschlag ist einmalig zusätzlich zur laufenden Prämie zu
 entrichten. Der Versicherungsnehmer kann vom Versicherer die Stundung
 des Prämienzuschlages verlangen, wenn den Interessen des Versicherers
 durch die Vereinbarung einer angemessenen Ratenzahlung Rechnung
-getragen werden kann. Der gestundete Betrag ist zu verzinsen. Wird der
-Vertragsabschluss bis zum 31. Dezember 2013 beantragt, ist kein
+getragen werden kann. Der gestundete Betrag ist zu verzinsen. Wird
+der Vertragsabschluss bis zum 31. Dezember 2013 beantragt, ist kein
 Prämienzuschlag zu entrichten. Dies gilt für bis zum 31. Juli 2013
 abgeschlossene Verträge für noch ausstehende Prämienzuschläge nach
 Satz 1 entsprechend.
@@ -3941,36 +3880,27 @@ Satz 1 entsprechend.
 
     a)  innerhalb von sechs Monaten nach Einführung des Basistarifes,
 
-
     b)  innerhalb von sechs Monaten nach Beginn der im Fünften Buch
         Sozialgesetzbuch vorgesehenen Wechselmöglichkeit im Rahmen ihres
         freiwilligen Versicherungsverhältnisses,
 
-
-
-
-
-2.  allen Personen mit Wohnsitz in Deutschland, die nicht in der
-    gesetzlichen Krankenversicherung versicherungspflichtig sind, nicht
-    zum Personenkreis nach Nummer 1 oder Absatz 3 Satz 2 Nr. 3 und 4
-    gehören und die nicht bereits eine private
+2.  allen Personen mit Wohnsitz in Deutschland, die nicht in
+    der gesetzlichen Krankenversicherung versicherungspflichtig
+    sind, nicht zum Personenkreis nach Nummer 1 oder Absatz 3
+    Satz 2 Nr. 3 und 4 gehören und die nicht bereits eine private
     Krankheitskostenversicherung mit einem in Deutschland zum
     Geschäftsbetrieb zugelassenen Versicherungsunternehmen vereinbart
     haben, die der Pflicht nach Absatz 3 genügt,
 
-
 3.  Personen, die beihilfeberechtigt sind oder vergleichbare Ansprüche
     haben, soweit sie zur Erfüllung der Pflicht nach Absatz 3 Satz 1
     ergänzenden Versicherungsschutz benötigen,
-
 
 4.  allen Personen mit Wohnsitz in Deutschland, die eine private
     Krankheitskostenversicherung im Sinn des Absatzes 3 mit einem in
     Deutschland zum Geschäftsbetrieb zugelassenen Versicherungsunternehmen
     vereinbart haben und deren Vertrag nach dem 31. Dezember 2008
     abgeschlossen wird,
-
-
 
 Versicherung im Basistarif nach § 152 des
 Versicherungsaufsichtsgesetzes zu gewähren. Ist der private
@@ -3988,42 +3918,38 @@ versichert war und der Versicherer
 1.  den Versicherungsvertrag wegen Drohung oder arglistiger Täuschung
     angefochten hat oder
 
-
 2.  vom Versicherungsvertrag wegen einer vorsätzlichen Verletzung der
     vorvertraglichen Anzeigepflicht zurückgetreten ist.
 
-
-
-
 (6) Ist der Versicherungsnehmer in einer der Pflicht nach Absatz 3
 genügenden Versicherung mit einem Betrag in Höhe von Prämienanteilen
-für zwei Monate im Rückstand, hat ihn der Versicherer zu mahnen. Der
-Versicherungsnehmer hat für jeden angefangenen Monat eines
+für zwei Monate im Rückstand, hat ihn der Versicherer zu mahnen.
+Der Versicherungsnehmer hat für jeden angefangenen Monat eines
 Prämienrückstandes an Stelle von Verzugszinsen einen Säumniszuschlag
 in Höhe von 1 Prozent des Prämienrückstandes zu entrichten. Ist der
-Prämienrückstand einschließlich der Säumniszuschläge zwei Monate nach
-Zugang der Mahnung höher als der Prämienanteil für einen Monat, mahnt
-der Versicherer ein zweites Mal und weist auf die Folgen nach Satz 4
-hin. Ist der Prämienrückstand einschließlich der Säumniszuschläge
-einen Monat nach Zugang der zweiten Mahnung höher als der
-Prämienanteil für einen Monat, ruht der Vertrag ab dem ersten Tag des
-nachfolgenden Monats. Das Ruhen des Vertrages tritt nicht ein oder
-endet, wenn der Versicherungsnehmer oder die versicherte Person
-hilfebedürftig im Sinne des Zweiten oder Zwölften Buches
+Prämienrückstand einschließlich der Säumniszuschläge zwei Monate
+nach Zugang der Mahnung höher als der Prämienanteil für einen
+Monat, mahnt der Versicherer ein zweites Mal und weist auf die
+Folgen nach Satz 4 hin. Ist der Prämienrückstand einschließlich der
+Säumniszuschläge einen Monat nach Zugang der zweiten Mahnung höher
+als der Prämienanteil für einen Monat, ruht der Vertrag ab dem ersten
+Tag des nachfolgenden Monats. Das Ruhen des Vertrages tritt nicht
+ein oder endet, wenn der Versicherungsnehmer oder die versicherte
+Person hilfebedürftig im Sinne des Zweiten oder Zwölften Buches
 Sozialgesetzbuch ist oder wird; die Hilfebedürftigkeit ist auf Antrag
 des Versicherungsnehmers vom zuständigen Träger nach dem Zweiten oder
 dem Zwölften Buch Sozialgesetzbuch zu bescheinigen.
 
-(7) Solange der Vertrag ruht, gilt der Versicherungsnehmer als im
-Notlagentarif nach § 153 des Versicherungsaufsichtsgesetzes
+(7) Solange der Vertrag ruht, gilt der Versicherungsnehmer als
+im Notlagentarif nach § 153 des Versicherungsaufsichtsgesetzes
 versichert. Risikozuschläge, Leistungsausschlüsse und Selbstbehalte
 entfallen während dieser Zeit. Der Versicherer kann verlangen, dass
-Zusatzversicherungen ruhen, solange die Versicherung nach § 153 des
-Versicherungsaufsichtsgesetzes besteht. Ein Wechsel in den oder aus
-dem Notlagentarif nach § 153 des Versicherungsaufsichtsgesetzes ist
-ausgeschlossen. Ein Versicherungsnehmer, dessen Vertrag nur die
-Erstattung eines Prozentsatzes der entstandenen Aufwendungen vorsieht,
-gilt als in einer Variante des Notlagentarifs nach § 153 des
+Zusatzversicherungen ruhen, solange die Versicherung nach § 153
+des Versicherungsaufsichtsgesetzes besteht. Ein Wechsel in den oder
+aus dem Notlagentarif nach § 153 des Versicherungsaufsichtsgesetzes
+ist ausgeschlossen. Ein Versicherungsnehmer, dessen Vertrag nur
+die Erstattung eines Prozentsatzes der entstandenen Aufwendungen
+vorsieht, gilt als in einer Variante des Notlagentarifs nach § 153 des
 Versicherungsaufsichtsgesetzes versichert, die Leistungen in Höhe von
 20, 30 oder 50 Prozent der versicherten Behandlungskosten vorsieht,
 abhängig davon, welcher Prozentsatz dem Grad der vereinbarten
@@ -4032,24 +3958,24 @@ Erstattung am nächsten ist.
 (8) Der Versicherer übersendet dem Versicherungsnehmer in Textform
 eine Mitteilung über die Fortsetzung des Vertrages im Notlagentarif
 nach § 153 des Versicherungsaufsichtsgesetzes und über die zu zahlende
-Prämie. Dabei ist der Versicherungsnehmer in herausgehobener Form auf
-die Folgen der Anrechnung der Alterungsrückstellung nach § 153 Absatz
-2 Satz 6 des Versicherungsaufsichtsgesetzes für die Höhe der künftig
-zu zahlenden Prämie hinzuweisen. Angaben zur Versicherung im
+Prämie. Dabei ist der Versicherungsnehmer in herausgehobener Form
+auf die Folgen der Anrechnung der Alterungsrückstellung nach § 153
+Absatz 2 Satz 6 des Versicherungsaufsichtsgesetzes für die Höhe der
+künftig zu zahlenden Prämie hinzuweisen. Angaben zur Versicherung im
 Notlagentarif nach § 153 des Versicherungsaufsichtsgesetzes kann der
 Versicherer auf einer elektronischen Gesundheitskarte nach § 291a
 Absatz 1a des Fünften Buches Sozialgesetzbuch vermerken.
 
 (9) Sind alle rückständigen Prämienanteile einschließlich der
-Säumniszuschläge und der Beitreibungskosten gezahlt, wird der Vertrag
-ab dem ersten Tag des übernächsten Monats in dem Tarif fortgesetzt, in
-dem der Versicherungsnehmer vor Eintritt des Ruhens versichert war.
-Dabei ist der Versicherungsnehmer so zu stellen, wie er vor der
-Versicherung im Notlagentarif nach § 153 des
-Versicherungsaufsichtsgesetzes stand, abgesehen von den während der
-Ruhenszeit verbrauchten Anteilen der Alterungsrückstellung. Während
-der Ruhenszeit vorgenommene Prämienanpassungen und Änderungen der
-Allgemeinen Versicherungsbedingungen gelten ab dem Tag der
+Säumniszuschläge und der Beitreibungskosten gezahlt, wird der
+Vertrag ab dem ersten Tag des übernächsten Monats in dem Tarif
+fortgesetzt, in dem der Versicherungsnehmer vor Eintritt des
+Ruhens versichert war. Dabei ist der Versicherungsnehmer so zu
+stellen, wie er vor der Versicherung im Notlagentarif nach § 153
+des Versicherungsaufsichtsgesetzes stand, abgesehen von den während
+der Ruhenszeit verbrauchten Anteilen der Alterungsrückstellung.
+Während der Ruhenszeit vorgenommene Prämienanpassungen und Änderungen
+der Allgemeinen Versicherungsbedingungen gelten ab dem Tag der
 Fortsetzung.
 
 (10) Hat der Versicherungsnehmer die Krankenversicherung auf die
@@ -4068,10 +3994,10 @@ Versicherungsaufsichtsgesetzes angewiesen ist.
 (1) Soweit der Versicherungsschutz nach den Grundsätzen der
 Schadensversicherung gewährt wird, sind die §§ 74 bis 80 und 82 bis 87
 anzuwenden. Die §§ 23 bis 27 und 29 sind auf die Krankenversicherung
-nicht anzuwenden. § 19 Abs. 4 ist auf die Krankenversicherung nicht
-anzuwenden, wenn der Versicherungsnehmer die Verletzung der
-Anzeigepflicht nicht zu vertreten hat. Abweichend von § 21 Abs. 3 Satz
-1 beläuft sich die Frist für die Geltendmachung der Rechte des
+nicht anzuwenden. § 19 Abs. 4 ist auf die Krankenversicherung
+nicht anzuwenden, wenn der Versicherungsnehmer die Verletzung der
+Anzeigepflicht nicht zu vertreten hat. Abweichend von § 21 Abs. 3
+Satz 1 beläuft sich die Frist für die Geltendmachung der Rechte des
 Versicherers auf drei Jahre.
 
 (2) Steht dem Versicherungsnehmer oder einer versicherten Person ein
@@ -4080,11 +4006,11 @@ gegen den Erbringer von Leistungen zu, für die der Versicherer auf
 Grund des Versicherungsvertrags Erstattungsleistungen erbracht hat,
 ist § 86 Abs. 1 und 2 entsprechend anzuwenden.
 
-(3) Die §§ 43 bis 48 sind auf die Krankenversicherung mit der Maßgabe
-anzuwenden, dass ausschließlich die versicherte Person die
-Versicherungsleistung verlangen kann, wenn der Versicherungsnehmer sie
-gegenüber dem Versicherer in Textform als Empfangsberechtigten der
-Versicherungsleistung benannt hat; die Benennung kann widerruflich
+(3) Die §§ 43 bis 48 sind auf die Krankenversicherung mit der
+Maßgabe anzuwenden, dass ausschließlich die versicherte Person die
+Versicherungsleistung verlangen kann, wenn der Versicherungsnehmer
+sie gegenüber dem Versicherer in Textform als Empfangsberechtigten
+der Versicherungsleistung benannt hat; die Benennung kann widerruflich
 oder unwiderruflich erfolgen. Liegt diese Voraussetzung nicht vor,
 kann nur der Versicherungsnehmer die Versicherungsleistung verlangen.
 Einer Vorlage des Versicherungsscheins bedarf es nicht.
@@ -4093,10 +4019,10 @@ Einer Vorlage des Versicherungsscheins bedarf es nicht.
 #### § 195 Versicherungsdauer
 
 (1) Die Krankenversicherung, die ganz oder teilweise den im
-gesetzlichen Sozialversicherungssystem vorgesehenen Kranken- oder
-Pflegeversicherungsschutz ersetzen kann (substitutive
-Krankenversicherung), ist vorbehaltlich der Absätze 2 und 3 und der §§
-196 und 199 unbefristet. Wird die nicht substitutive
+gesetzlichen Sozialversicherungssystem vorgesehenen Kranken-
+oder Pflegeversicherungsschutz ersetzen kann (substitutive
+Krankenversicherung), ist vorbehaltlich der Absätze 2 und 3
+und der §§ 196 und 199 unbefristet. Wird die nicht substitutive
 Krankenversicherung nach Art der Lebensversicherung betrieben, gilt
 Satz 1 entsprechend.
 
@@ -4105,8 +4031,8 @@ Restschuldkrankenversicherungen können Vertragslaufzeiten vereinbart
 werden.
 
 (3) Bei der Krankenversicherung einer Person mit befristetem
-Aufenthaltstitel für das Inland kann vereinbart werden, dass sie
-spätestens nach fünf Jahren endet. Ist eine kürzere Laufzeit
+Aufenthaltstitel für das Inland kann vereinbart werden, dass
+sie spätestens nach fünf Jahren endet. Ist eine kürzere Laufzeit
 vereinbart, kann ein gleichartiger neuer Vertrag nur mit einer
 Höchstlaufzeit geschlossen werden, die unter Einschluss der Laufzeit
 des abgelaufenen Vertrags fünf Jahre nicht überschreitet; dies gilt
@@ -4116,27 +4042,27 @@ wird.
 
 #### § 196 Befristung der Krankentagegeldversicherung
 
-(1) Bei der Krankentagegeldversicherung kann vereinbart werden, dass
-die Versicherung mit Vollendung des 65. Lebensjahres der versicherten
-Person endet. Der Versicherungsnehmer kann in diesem Fall vom
-Versicherer verlangen, dass dieser den Antrag auf Abschluss einer mit
-Vollendung des 65. Lebensjahres beginnenden neuen
-Krankentagegeldversicherung annimmt, die spätestens mit Vollendung des
-70\. Lebensjahres endet. Auf dieses Recht hat der Versicherer ihn
-frühestens sechs Monate vor dem Ende der Versicherung unter Beifügung
-des Wortlauts dieser Vorschrift in Textform hinzuweisen. Wird der
-Antrag bis zum Ablauf von zwei Monaten nach Vollendung des 65.
-Lebensjahres gestellt, hat der Versicherer den Versicherungsschutz
+(1) Bei der Krankentagegeldversicherung kann vereinbart werden,
+dass die Versicherung mit Vollendung des 65. Lebensjahres der
+versicherten Person endet. Der Versicherungsnehmer kann in diesem
+Fall vom Versicherer verlangen, dass dieser den Antrag auf Abschluss
+einer mit Vollendung des 65. Lebensjahres beginnenden neuen
+Krankentagegeldversicherung annimmt, die spätestens mit Vollendung
+des 70. Lebensjahres endet. Auf dieses Recht hat der Versicherer
+ihn frühestens sechs Monate vor dem Ende der Versicherung unter
+Beifügung des Wortlauts dieser Vorschrift in Textform hinzuweisen.
+Wird der Antrag bis zum Ablauf von zwei Monaten nach Vollendung des
+65\. Lebensjahres gestellt, hat der Versicherer den Versicherungsschutz
 ohne Risikoprüfung oder Wartezeiten zu gewähren, soweit der
 Versicherungsschutz nicht höher oder umfassender ist als im bisherigen
 Tarif.
 
-(2) Hat der Versicherer den Versicherungsnehmer nicht nach Absatz 1
-Satz 3 auf das Ende der Versicherung hingewiesen und wird der Antrag
-vor Vollendung des 66. Lebensjahres gestellt, gilt Absatz 1 Satz 4
-entsprechend, wobei die Versicherung mit Zugang des Antrags beim
-Versicherer beginnt. Ist der Versicherungsfall schon vor Zugang des
-Antrags eingetreten, ist der Versicherer nicht zur Leistung
+(2) Hat der Versicherer den Versicherungsnehmer nicht nach Absatz
+1 Satz 3 auf das Ende der Versicherung hingewiesen und wird der
+Antrag vor Vollendung des 66. Lebensjahres gestellt, gilt Absatz 1
+Satz 4 entsprechend, wobei die Versicherung mit Zugang des Antrags
+beim Versicherer beginnt. Ist der Versicherungsfall schon vor Zugang
+des Antrags eingetreten, ist der Versicherer nicht zur Leistung
 verpflichtet.
 
 (3) Absatz 1 Satz 2 und 4 gilt entsprechend, wenn in unmittelbarem
@@ -4150,32 +4076,32 @@ vorstehenden Absätzen festgelegt vereinbaren.
 
 #### § 197 Wartezeiten
 
-(1) Soweit Wartezeiten vereinbart werden, dürfen diese in der
-Krankheitskosten-, Krankenhaustagegeld- und
-Krankentagegeldversicherung als allgemeine Wartezeit drei Monate und
-als besondere Wartezeit für Entbindung, Krankentagegeld nach § 192
-Absatz 5 Satz 2, Psychotherapie, Zahnbehandlung, Zahnersatz und
-Kieferorthopädie acht Monate nicht überschreiten. Bei der
+(1) Soweit Wartezeiten vereinbart werden, dürfen diese
+in der Krankheitskosten-, Krankenhaustagegeld- und
+Krankentagegeldversicherung als allgemeine Wartezeit drei Monate
+und als besondere Wartezeit für Entbindung, Krankentagegeld nach
+§ 192 Absatz 5 Satz 2, Psychotherapie, Zahnbehandlung, Zahnersatz
+und Kieferorthopädie acht Monate nicht überschreiten. Bei der
 Pflegekrankenversicherung darf die Wartezeit drei Jahre nicht
 überschreiten.
 
-(2) Personen, die aus der gesetzlichen Krankenversicherung ausscheiden
-oder die aus einem anderen Vertrag über eine
+(2) Personen, die aus der gesetzlichen Krankenversicherung
+ausscheiden oder die aus einem anderen Vertrag über eine
 Krankheitskostenversicherung ausgeschieden sind, ist die dort
 ununterbrochen zurückgelegte Versicherungszeit auf die Wartezeit
-anzurechnen, sofern die Versicherung spätestens zwei Monate nach
-Beendigung der Vorversicherung zum unmittelbaren Anschluss daran
-beantragt wird. Dies gilt auch für Personen, die aus einem
+anzurechnen, sofern die Versicherung spätestens zwei Monate
+nach Beendigung der Vorversicherung zum unmittelbaren Anschluss
+daran beantragt wird. Dies gilt auch für Personen, die aus einem
 öffentlichen Dienstverhältnis mit Anspruch auf Heilfürsorge
 ausscheiden.
 
 
 #### § 198 Kindernachversicherung
 
-(1) Besteht am Tag der Geburt für mindestens einen Elternteil eine
-Krankenversicherung, ist der Versicherer verpflichtet, dessen
-neugeborenes Kind ab Vollendung der Geburt ohne Risikozuschläge und
-Wartezeiten zu versichern, wenn die Anmeldung zur Versicherung
+(1) Besteht am Tag der Geburt für mindestens einen Elternteil
+eine Krankenversicherung, ist der Versicherer verpflichtet, dessen
+neugeborenes Kind ab Vollendung der Geburt ohne Risikozuschläge
+und Wartezeiten zu versichern, wenn die Anmeldung zur Versicherung
 spätestens zwei Monate nach dem Tag der Geburt rückwirkend erfolgt.
 Diese Verpflichtung besteht nur insoweit, als der beantragte
 Versicherungsschutz des Neugeborenen nicht höher und nicht umfassender
@@ -4191,23 +4117,23 @@ Adoptivkindes kann eine Mindestversicherungsdauer des Elternteils
 vereinbart werden. Diese darf drei Monate nicht übersteigen.
 
 (4) Die Absätze 1 bis 3 gelten für die Auslands- und die
-Reisekrankenversicherung nicht, soweit für das Neugeborene oder für
-das Adoptivkind anderweitiger privater oder gesetzlicher
+Reisekrankenversicherung nicht, soweit für das Neugeborene oder
+für das Adoptivkind anderweitiger privater oder gesetzlicher
 Krankenversicherungsschutz im Inland oder Ausland besteht.
 
 
 #### § 199 Beihilfeempfänger
 
-(1) Bei der Krankheitskostenversicherung einer versicherten Person mit
-Anspruch auf Beihilfe nach den Grundsätzen des öffentlichen Dienstes
-kann vereinbart werden, dass sie mit der Versetzung der versicherten
-Person in den Ruhestand im Umfang der Erhöhung des
+(1) Bei der Krankheitskostenversicherung einer versicherten Person
+mit Anspruch auf Beihilfe nach den Grundsätzen des öffentlichen
+Dienstes kann vereinbart werden, dass sie mit der Versetzung der
+versicherten Person in den Ruhestand im Umfang der Erhöhung des
 Beihilfebemessungssatzes endet.
 
 (2) Ändert sich bei einer versicherten Person mit Anspruch auf
 Beihilfe nach den Grundsätzen des öffentlichen Dienstes der
-Beihilfebemessungssatz oder entfällt der Beihilfeanspruch, hat der
-Versicherungsnehmer Anspruch darauf, dass der Versicherer den
+Beihilfebemessungssatz oder entfällt der Beihilfeanspruch, hat
+der Versicherungsnehmer Anspruch darauf, dass der Versicherer den
 Versicherungsschutz im Rahmen der bestehenden Krankheitskostentarife
 so anpasst, dass dadurch der veränderte Beihilfebemessungssatz oder
 der weggefallene Beihilfeanspruch ausgeglichen wird. Wird der Antrag
@@ -4220,8 +4146,8 @@ oder Wartezeiten zu gewähren.
 
 #### § 200 Bereicherungsverbot
 
-Hat die versicherte Person wegen desselben Versicherungsfalles einen
-Anspruch gegen mehrere Erstattungsverpflichtete, darf die
+Hat die versicherte Person wegen desselben Versicherungsfalles
+einen Anspruch gegen mehrere Erstattungsverpflichtete, darf die
 Gesamterstattung die Gesamtaufwendungen nicht übersteigen.
 
 
@@ -4235,9 +4161,9 @@ Krankheit oder den Unfall bei sich selbst herbeiführt.
 #### § 202 Auskunftspflicht des Versicherers; Schadensermittlungskosten
 
 Der Versicherer ist verpflichtet, auf Verlangen des
-Versicherungsnehmers oder der versicherten Person Auskunft über und
-Einsicht in Gutachten oder Stellungnahmen zu geben, die er bei der
-Prüfung seiner Leistungspflicht über die Notwendigkeit einer
+Versicherungsnehmers oder der versicherten Person Auskunft über
+und Einsicht in Gutachten oder Stellungnahmen zu geben, die er bei
+der Prüfung seiner Leistungspflicht über die Notwendigkeit einer
 medizinischen Behandlung eingeholt hat. Wenn der Auskunft an oder der
 Einsicht durch den Versicherungsnehmer oder die versicherte Person
 erhebliche therapeutische Gründe oder sonstige erhebliche Gründe
@@ -4254,9 +4180,9 @@ Versicherer die entstandenen Kosten zu erstatten.
 (1) Bei einer Krankenversicherung, bei der die Prämie nach Art der
 Lebensversicherung berechnet wird, kann der Versicherer nur die
 entsprechend den technischen Berechnungsgrundlagen nach den §§ 146,
-149, 150 in Verbindung mit § 160 des Versicherungsaufsichtsgesetzes zu
-berechnende Prämie verlangen. Außer bei Verträgen im Basistarif nach §
-152 des Versicherungsaufsichtsgesetzes kann der Versicherer mit
+149, 150 in Verbindung mit § 160 des Versicherungsaufsichtsgesetzes
+zu berechnende Prämie verlangen. Außer bei Verträgen im Basistarif
+nach § 152 des Versicherungsaufsichtsgesetzes kann der Versicherer mit
 Rücksicht auf ein erhöhtes Risiko einen angemessenen Risikozuschlag
 oder einen Leistungsausschluss vereinbaren. Im Basistarif ist eine
 Risikoprüfung nur zulässig, soweit sie für Zwecke des Risikoausgleichs
@@ -4264,27 +4190,27 @@ nach § 154 des Versicherungsaufsichtsgesetzes oder für spätere
 Tarifwechsel erforderlich ist.
 
 (2) Ist bei einer Krankenversicherung das ordentliche Kündigungsrecht
-des Versicherers gesetzlich oder vertraglich ausgeschlossen, ist der
-Versicherer bei einer nicht nur als vorübergehend anzusehenden
-Veränderung einer für die Prämienkalkulation maßgeblichen
-Rechnungsgrundlage berechtigt, die Prämie entsprechend den
-berichtigten Rechnungsgrundlagen auch für bestehende
+des Versicherers gesetzlich oder vertraglich ausgeschlossen,
+ist der Versicherer bei einer nicht nur als vorübergehend
+anzusehenden Veränderung einer für die Prämienkalkulation
+maßgeblichen Rechnungsgrundlage berechtigt, die Prämie entsprechend
+den berichtigten Rechnungsgrundlagen auch für bestehende
 Versicherungsverhältnisse neu festzusetzen, sofern ein unabhängiger
-Treuhänder die technischen Berechnungsgrundlagen überprüft und der
-Prämienanpassung zugestimmt hat. Dabei dürfen auch ein betragsmäßig
-festgelegter Selbstbehalt angepasst und ein vereinbarter
+Treuhänder die technischen Berechnungsgrundlagen überprüft
+und der Prämienanpassung zugestimmt hat. Dabei dürfen auch ein
+betragsmäßig festgelegter Selbstbehalt angepasst und ein vereinbarter
 Risikozuschlag entsprechend geändert werden, soweit dies vereinbart
 ist. Maßgebliche Rechnungsgrundlagen im Sinn der Sätze 1 und 2 sind
-die Versicherungsleistungen und die Sterbewahrscheinlichkeiten. Für
-die Änderung der Prämien, Prämienzuschläge und Selbstbehalte sowie
-ihre Überprüfung und Zustimmung durch den Treuhänder gilt § 155 in
-Verbindung mit einer auf Grund des § 160 des
+die Versicherungsleistungen und die Sterbewahrscheinlichkeiten.
+Für die Änderung der Prämien, Prämienzuschläge und Selbstbehalte
+sowie ihre Überprüfung und Zustimmung durch den Treuhänder
+gilt § 155 in Verbindung mit einer auf Grund des § 160 des
 Versicherungsaufsichtsgesetzes erlassenen Rechtsverordnung.
 
-(3) Ist bei einer Krankenversicherung im Sinn des Absatzes 1 Satz 1
-das ordentliche Kündigungsrecht des Versicherers gesetzlich oder
-vertraglich ausgeschlossen, ist der Versicherer bei einer nicht nur
-als vorübergehend anzusehenden Veränderung der Verhältnisse des
+(3) Ist bei einer Krankenversicherung im Sinn des Absatzes 1 Satz
+1 das ordentliche Kündigungsrecht des Versicherers gesetzlich oder
+vertraglich ausgeschlossen, ist der Versicherer bei einer nicht
+nur als vorübergehend anzusehenden Veränderung der Verhältnisse des
 Gesundheitswesens berechtigt, die Allgemeinen Versicherungsbedingungen
 und die Tarifbestimmungen den veränderten Verhältnissen anzupassen,
 wenn die Änderungen zur hinreichenden Wahrung der Belange der
@@ -4310,13 +4236,13 @@ Versicherungsnehmer vom Versicherer verlangen, dass dieser
 
 1.  Anträge auf Wechsel in andere Tarife mit gleichartigem
     Versicherungsschutz unter Anrechnung der aus dem Vertrag erworbenen
-    Rechte und der Alterungsrückstellung annimmt; soweit die Leistungen in
-    dem Tarif, in den der Versicherungsnehmer wechseln will, höher oder
-    umfassender sind als in dem bisherigen Tarif, kann der Versicherer für
-    die Mehrleistung einen Leistungsausschluss oder einen angemessenen
+    Rechte und der Alterungsrückstellung annimmt; soweit die Leistungen
+    in dem Tarif, in den der Versicherungsnehmer wechseln will, höher oder
+    umfassender sind als in dem bisherigen Tarif, kann der Versicherer
+    für die Mehrleistung einen Leistungsausschluss oder einen angemessenen
     Risikozuschlag und insoweit auch eine Wartezeit verlangen; der
-    Versicherungsnehmer kann die Vereinbarung eines Risikozuschlages und
-    einer Wartezeit dadurch abwenden, dass er hinsichtlich der
+    Versicherungsnehmer kann die Vereinbarung eines Risikozuschlages
+    und einer Wartezeit dadurch abwenden, dass er hinsichtlich der
     Mehrleistung einen Leistungsausschluss vereinbart; bei einem Wechsel
     aus dem Basistarif in einen anderen Tarif kann der Versicherer auch
     den bei Vertragsschluss ermittelten Risikozuschlag verlangen; der
@@ -4327,26 +4253,21 @@ Versicherungsnehmer vom Versicherer verlangen, dass dieser
     a)  die bestehende Krankheitskostenversicherung nach dem 1. Januar 2009
         abgeschlossen wurde oder
 
-
-    b)  der Versicherungsnehmer das 55. Lebensjahr vollendet hat oder das 55.
-        Lebensjahr noch nicht vollendet hat, aber die Voraussetzungen für den
-        Anspruch auf eine Rente der gesetzlichen Rentenversicherung erfüllt
-        und diese Rente beantragt hat oder ein Ruhegehalt nach
+    b)  der Versicherungsnehmer das 55. Lebensjahr vollendet hat oder das
+        55\. Lebensjahr noch nicht vollendet hat, aber die Voraussetzungen
+        für den Anspruch auf eine Rente der gesetzlichen Rentenversicherung
+        erfüllt und diese Rente beantragt hat oder ein Ruhegehalt nach
         beamtenrechtlichen oder vergleichbaren Vorschriften bezieht oder
         hilfebedürftig nach dem Zweiten oder Zwölften Buch Sozialgesetzbuch
         ist oder
-
 
     c)  die bestehende Krankheitskostenversicherung vor dem 1. Januar 2009
         abgeschlossen wurde und der Wechsel in den Basistarif vor dem 1. Juli
         2009 beantragt wurde;
 
-
-
     ein Wechsel aus einem Tarif, bei dem die Prämien geschlechtsunabhängig
     kalkuliert werden, in einen Tarif, bei dem dies nicht der Fall ist,
     ist ausgeschlossen;
-
 
 2.  bei einer Kündigung des Vertrags und dem gleichzeitigen Abschluss
     eines neuen Vertrags, der ganz oder teilweise den im gesetzlichen
@@ -4358,17 +4279,11 @@ Versicherungsnehmer vom Versicherer verlangen, dass dieser
         überträgt, sofern die gekündigte Krankheitskostenversicherung nach dem
         1\. Januar 2009 abgeschlossen wurde;
 
-
     b)  bei einem Abschluss eines Vertrags im Basistarif die kalkulierte
         Alterungsrückstellung des Teils der Versicherung, dessen Leistungen
         dem Basistarif entsprechen, an den neuen Versicherer überträgt, sofern
         die gekündigte Krankheitskostenversicherung vor dem 1. Januar 2009
         abgeschlossen wurde und die Kündigung vor dem 1. Juli 2009 erfolgte.
-
-
-
-
-
 
 Soweit die Leistungen in dem Tarif, aus dem der Versicherungsnehmer
 wechseln will, höher oder umfassender sind als im Basistarif, kann der
@@ -4379,25 +4294,25 @@ Sätzen 1 und 2 kann nicht verzichtet werden.
 
 (2) Ist der Versicherungsnehmer auf Grund bestehender
 Hilfebedürftigkeit im Sinne des Zweiten oder des Zwölften Buches
-Sozialgesetzbuch nach dem 15. März 2020 in den Basistarif nach § 152
-des Versicherungsaufsichtsgesetzes gewechselt und endet die
-Hilfebedürftigkeit des Versicherungsnehmers innerhalb von zwei Jahren
-nach dem Wechsel, kann er innerhalb von drei Monaten nach Beendigung
-der Hilfebedürftigkeit in Textform vom Versicherer verlangen, den
-Vertrag ab dem ersten Tag des übernächsten Monats in dem Tarif
-fortzusetzen, in dem der Versicherungsnehmer vor dem Wechsel in den
-Basistarif versichert war. Eintritt und Beendigung der
-Hilfebedürftigkeit hat der Versicherungsnehmer auf Verlangen des
-Versicherers durch geeignete Unterlagen nachzuweisen; die
+Sozialgesetzbuch nach dem 15. März 2020 in den Basistarif nach §
+152 des Versicherungsaufsichtsgesetzes gewechselt und endet die
+Hilfebedürftigkeit des Versicherungsnehmers innerhalb von zwei
+Jahren nach dem Wechsel, kann er innerhalb von drei Monaten nach
+Beendigung der Hilfebedürftigkeit in Textform vom Versicherer
+verlangen, den Vertrag ab dem ersten Tag des übernächsten Monats
+in dem Tarif fortzusetzen, in dem der Versicherungsnehmer vor dem
+Wechsel in den Basistarif versichert war. Eintritt und Beendigung
+der Hilfebedürftigkeit hat der Versicherungsnehmer auf Verlangen
+des Versicherers durch geeignete Unterlagen nachzuweisen; die
 Bescheinigung des zuständigen Trägers nach dem Zweiten oder dem
-Zwölften Buch Sozialgesetzbuch gilt als Nachweis. Beim Wechsel ist der
-Versicherungsnehmer so zu stellen, wie er vor der Versicherung im
-Basistarif stand; die im Basistarif erworbenen Rechte und
+Zwölften Buch Sozialgesetzbuch gilt als Nachweis. Beim Wechsel ist
+der Versicherungsnehmer so zu stellen, wie er vor der Versicherung
+im Basistarif stand; die im Basistarif erworbenen Rechte und
 Alterungsrückstellungen sind zu berücksichtigen. Prämienanpassungen
-und Änderungen der Allgemeinen Versicherungsbedingungen in dem Tarif,
-in dem der Versicherungsnehmer vor dem Wechsel in den Basistarif
-versichert war, gelten ab dem Tag der Fortsetzung des Vertrages in
-diesem Tarif. Die Sätze 1 bis 4 gelten entsprechend für
+und Änderungen der Allgemeinen Versicherungsbedingungen in dem
+Tarif, in dem der Versicherungsnehmer vor dem Wechsel in den
+Basistarif versichert war, gelten ab dem Tag der Fortsetzung des
+Vertrages in diesem Tarif. Die Sätze 1 bis 4 gelten entsprechend für
 Versicherungsnehmer, bei denen allein durch die Zahlung des Beitrags
 Hilfebedürftigkeit im Sinne des Zweiten oder des Zwölften Buches
 Sozialgesetzbuch entstehen würde. Absatz 1 Satz 1 Nummer 1 letzter
@@ -4422,10 +4337,10 @@ Anwartschaftsversicherung fortzuführen.
 
 #### § 205 Kündigung des Versicherungsnehmers
 
-(1) Vorbehaltlich einer vereinbarten Mindestversicherungsdauer bei der
-Krankheitskosten- und bei der Krankenhaustagegeldversicherung kann der
-Versicherungsnehmer ein Krankenversicherungsverhältnis, das für die
-Dauer von mehr als einem Jahr eingegangen ist, zum Ende des ersten
+(1) Vorbehaltlich einer vereinbarten Mindestversicherungsdauer bei
+der Krankheitskosten- und bei der Krankenhaustagegeldversicherung kann
+der Versicherungsnehmer ein Krankenversicherungsverhältnis, das für
+die Dauer von mehr als einem Jahr eingegangen ist, zum Ende des ersten
 Jahres oder jedes darauf folgenden Jahres unter Einhaltung einer Frist
 von drei Monaten kündigen. Die Kündigung kann auf einzelne versicherte
 Personen oder Tarife beschränkt werden.
@@ -4433,47 +4348,47 @@ Personen oder Tarife beschränkt werden.
 (2) Wird eine versicherte Person kraft Gesetzes kranken- oder
 pflegeversicherungspflichtig, kann der Versicherungsnehmer binnen drei
 Monaten nach Eintritt der Versicherungspflicht eine Krankheitskosten-,
-eine Krankentagegeld- oder eine Pflegekrankenversicherung sowie eine
-für diese Versicherungen bestehende Anwartschaftsversicherung
+eine Krankentagegeld- oder eine Pflegekrankenversicherung sowie
+eine für diese Versicherungen bestehende Anwartschaftsversicherung
 rückwirkend zum Eintritt der Versicherungspflicht kündigen. Die
 Kündigung ist unwirksam, wenn der Versicherungsnehmer dem Versicherer
 den Eintritt der Versicherungspflicht nicht innerhalb von zwei Monaten
 nachweist, nachdem der Versicherer ihn hierzu in Textform aufgefordert
 hat, es sei denn, der Versicherungsnehmer hat die Versäumung dieser
 Frist nicht zu vertreten. Macht der Versicherungsnehmer von seinem
-Kündigungsrecht Gebrauch, steht dem Versicherer die Prämie nur bis zu
-diesem Zeitpunkt zu. Später kann der Versicherungsnehmer das
+Kündigungsrecht Gebrauch, steht dem Versicherer die Prämie nur bis
+zu diesem Zeitpunkt zu. Später kann der Versicherungsnehmer das
 Versicherungsverhältnis zum Ende des Monats kündigen, in dem er den
 Eintritt der Versicherungspflicht nachweist. Der Versicherungspflicht
-steht der gesetzliche Anspruch auf Familienversicherung oder der nicht
-nur vorübergehende Anspruch auf Heilfürsorge aus einem
+steht der gesetzliche Anspruch auf Familienversicherung oder
+der nicht nur vorübergehende Anspruch auf Heilfürsorge aus einem
 beamtenrechtlichen oder ähnlichen Dienstverhältnis gleich.
 
 (3) Ergibt sich aus dem Versicherungsvertrag, dass bei Erreichen eines
 bestimmten Lebensalters oder bei Eintreten anderer dort genannter
 Voraussetzungen die Prämie für ein anderes Lebensalter oder eine
 andere Altersgruppe gilt oder die Prämie unter Berücksichtigung einer
-Alterungsrückstellung berechnet wird, kann der Versicherungsnehmer das
-Versicherungsverhältnis hinsichtlich der betroffenen versicherten
+Alterungsrückstellung berechnet wird, kann der Versicherungsnehmer
+das Versicherungsverhältnis hinsichtlich der betroffenen versicherten
 Person binnen zwei Monaten nach der Änderung zum Zeitpunkt ihres
 Wirksamwerdens kündigen, wenn sich die Prämie durch die Änderung
 erhöht.
 
 (4) Erhöht der Versicherer auf Grund einer Anpassungsklausel die
 Prämie oder vermindert er die Leistung, kann der Versicherungsnehmer
-hinsichtlich der betroffenen versicherten Person innerhalb von zwei
-Monaten nach Zugang der Änderungsmitteilung mit Wirkung für den
-Zeitpunkt kündigen, zu dem die Prämienerhöhung oder die
+hinsichtlich der betroffenen versicherten Person innerhalb von
+zwei Monaten nach Zugang der Änderungsmitteilung mit Wirkung
+für den Zeitpunkt kündigen, zu dem die Prämienerhöhung oder die
 Leistungsminderung wirksam werden soll.
 
-(5) Hat sich der Versicherer vorbehalten, die Kündigung auf einzelne
-versicherte Personen oder Tarife zu beschränken, und macht er von
-dieser Möglichkeit Gebrauch, kann der Versicherungsnehmer innerhalb
-von zwei Wochen nach Zugang der Kündigung die Aufhebung des übrigen
-Teils der Versicherung zu dem Zeitpunkt verlangen, zu dem die
-Kündigung wirksam wird. Satz 1 gilt entsprechend, wenn der Versicherer
-die Anfechtung oder den Rücktritt nur für einzelne versicherte
-Personen oder Tarife erklärt. In diesen Fällen kann der
+(5) Hat sich der Versicherer vorbehalten, die Kündigung auf
+einzelne versicherte Personen oder Tarife zu beschränken, und macht
+er von dieser Möglichkeit Gebrauch, kann der Versicherungsnehmer
+innerhalb von zwei Wochen nach Zugang der Kündigung die Aufhebung
+des übrigen Teils der Versicherung zu dem Zeitpunkt verlangen,
+zu dem die Kündigung wirksam wird. Satz 1 gilt entsprechend, wenn
+der Versicherer die Anfechtung oder den Rücktritt nur für einzelne
+versicherte Personen oder Tarife erklärt. In diesen Fällen kann der
 Versicherungsnehmer die Aufhebung zum Ende des Monats verlangen, in
 dem ihm die Erklärung des Versicherers zugegangen ist.
 
@@ -4484,34 +4399,34 @@ versicherte Person einen neuen Vertrag abschließt, der dieser Pflicht
 genügt. Die Kündigung wird nur wirksam, wenn der Versicherungsnehmer
 innerhalb von zwei Monaten nach der Kündigungserklärung nachweist,
 dass die versicherte Person bei einem neuen Versicherer ohne
-Unterbrechung versichert ist; liegt der Termin, zu dem die Kündigung
-ausgesprochen wurde, mehr als zwei Monate nach der
+Unterbrechung versichert ist; liegt der Termin, zu dem die
+Kündigung ausgesprochen wurde, mehr als zwei Monate nach der
 Kündigungserklärung, muss der Nachweis bis zu diesem Termin erbracht
 werden.
 
 
 #### § 206 Kündigung des Versicherers
 
-(1) Jede Kündigung einer Krankheitskostenversicherung, die eine
-Pflicht nach § 193 Abs. 3 Satz 1 erfüllt, ist durch den Versicherer
-ausgeschlossen. Darüber hinaus ist die ordentliche Kündigung einer
-Krankheitskosten-, Krankentagegeld- und einer
-Pflegekrankenversicherung durch den Versicherer ausgeschlossen, wenn
-die Versicherung ganz oder teilweise den im gesetzlichen
+(1) Jede Kündigung einer Krankheitskostenversicherung, die
+eine Pflicht nach § 193 Abs. 3 Satz 1 erfüllt, ist durch den
+Versicherer ausgeschlossen. Darüber hinaus ist die ordentliche
+Kündigung einer Krankheitskosten-, Krankentagegeld- und einer
+Pflegekrankenversicherung durch den Versicherer ausgeschlossen,
+wenn die Versicherung ganz oder teilweise den im gesetzlichen
 Sozialversicherungssystem vorgesehenen Kranken- oder
 Pflegeversicherungsschutz ersetzen kann. Sie ist weiterhin
-ausgeschlossen für eine Krankenhaustagegeld-Versicherung, die neben
-einer Krankheitskostenvollversicherung besteht. Eine
+ausgeschlossen für eine Krankenhaustagegeld-Versicherung, die
+neben einer Krankheitskostenvollversicherung besteht. Eine
 Krankentagegeldversicherung, für die kein gesetzlicher Anspruch auf
 einen Beitragszuschuss des Arbeitgebers besteht, kann der Versicherer
-abweichend von Satz 2 in den ersten drei Jahren unter Einhaltung einer
-Frist von drei Monaten zum Ende eines jeden Versicherungsjahres
+abweichend von Satz 2 in den ersten drei Jahren unter Einhaltung
+einer Frist von drei Monaten zum Ende eines jeden Versicherungsjahres
 kündigen.
 
 (2) Liegen bei einer Krankenhaustagegeldversicherung oder einer
-Krankheitskostenteilversicherung die Voraussetzungen nach Absatz 1
-nicht vor, kann der Versicherer das Versicherungsverhältnis nur
-innerhalb der ersten drei Versicherungsjahre zum Ende eines
+Krankheitskostenteilversicherung die Voraussetzungen nach Absatz
+1 nicht vor, kann der Versicherer das Versicherungsverhältnis
+nur innerhalb der ersten drei Versicherungsjahre zum Ende eines
 Versicherungsjahres kündigen. Die Kündigungsfrist beträgt drei Monate.
 
 (3) Wird eine Krankheitskostenversicherung oder eine
@@ -4525,10 +4440,10 @@ Recht nach Satz 1 in Textform zu informieren. Dieses Recht endet zwei
 Monate nach dem Zeitpunkt, zu dem die versicherte Person Kenntnis von
 diesem Recht erlangt hat.
 
-(4) Die ordentliche Kündigung eines Gruppenversicherungsvertrags, der
-Schutz gegen das Risiko Krankheit enthält, durch den Versicherer ist
-zulässig, wenn die versicherten Personen die Krankenversicherung unter
-Anrechnung der aus dem Vertrag erworbenen Rechte und der
+(4) Die ordentliche Kündigung eines Gruppenversicherungsvertrags,
+der Schutz gegen das Risiko Krankheit enthält, durch den Versicherer
+ist zulässig, wenn die versicherten Personen die Krankenversicherung
+unter Anrechnung der aus dem Vertrag erworbenen Rechte und der
 Alterungsrückstellung, soweit eine solche gebildet wird, zu den
 Bedingungen der Einzelversicherung fortsetzen können. Absatz 3 Satz 2
 und 3 ist entsprechend anzuwenden.
@@ -4548,8 +4463,8 @@ entsprechend. Die Kündigung ist nur wirksam, wenn die versicherte
 Person von der Kündigungserklärung Kenntnis erlangt hat. Handelt es
 sich bei dem gekündigten Vertrag um einen Gruppenversicherungsvertrag
 und wird kein neuer Versicherungsnehmer benannt, sind die versicherten
-Personen berechtigt, das Versicherungsverhältnis unter Anrechnung der
-aus dem Vertrag erworbenen Rechte und der Alterungsrückstellung,
+Personen berechtigt, das Versicherungsverhältnis unter Anrechnung
+der aus dem Vertrag erworbenen Rechte und der Alterungsrückstellung,
 soweit eine solche gebildet wird, zu den Bedingungen der
 Einzelversicherung fortzusetzen. Das Recht nach Satz 3 endet zwei
 Monate nach dem Zeitpunkt, zu dem die versicherte Person von diesem
@@ -4592,36 +4507,27 @@ auf Großrisiken und auf laufende Versicherungen nicht anzuwenden.
     Nummern 11 und 12 der Anlage 1 zum Versicherungsaufsichtsgesetz
     erfassten Transport- und Haftpflichtversicherungen,
 
-
-2.  Risiken der unter den Nummern 14 und 15 der Anlage 1 zum
-    Versicherungsaufsichtsgesetz erfassten Kredit- und
+2.  Risiken der unter den Nummern 14 und 15 der Anlage 1
+    zum Versicherungsaufsichtsgesetz erfassten Kredit- und
     Kautionsversicherungen bei Versicherungsnehmern, die eine gewerbliche,
     bergbauliche oder freiberufliche Tätigkeit ausüben, wenn die Risiken
     damit in Zusammenhang stehen, oder
 
-
-3.  Risiken der unter den Nummern 3, 8, 9, 10, 13 und 16 der Anlage 1 zum
-    Versicherungsaufsichtsgesetz erfassten Sach-, Haftpflicht- und
-    sonstigen Schadensversicherungen bei Versicherungsnehmern, die
+3.  Risiken der unter den Nummern 3, 8, 9, 10, 13 und 16 der Anlage
+    1 zum Versicherungsaufsichtsgesetz erfassten Sach-, Haftpflicht-
+    und sonstigen Schadensversicherungen bei Versicherungsnehmern, die
     mindestens zwei der folgenden drei Merkmale überschreiten:
 
-    a)  6 200 000 Euro Bilanzsumme,
+    a)  6 600 000 Euro Bilanzsumme,
 
-
-    b)  12 800 000 Euro Nettoumsatzerlöse,
-
+    b)  13 600 000 Euro Nettoumsatzerlöse,
 
     c)  im Durchschnitt 250 Arbeitnehmer pro Wirtschaftsjahr.
 
-
-
-
-
-
 Gehört der Versicherungsnehmer zu einem Konzern, der nach § 290 des
 Handelsgesetzbuchs, nach § 11 des Publizitätsgesetzes vom 15. August
-1969 (BGBl. I S. 1189) in der jeweils gültigen Fassung oder nach dem
-mit den Anforderungen der Richtlinie 2013/34/EU des Europäischen
+1969 (BGBl. I S. 1189) in der jeweils gültigen Fassung oder nach
+dem mit den Anforderungen der Richtlinie 2013/34/EU des Europäischen
 Parlaments und des Rates vom 26. Juni 2013 über den Jahresabschluss,
 den konsolidierten Abschluss und damit verbundene Berichte von
 Unternehmen bestimmter Rechtsformen und zur Änderung der Richtlinie
@@ -4634,61 +4540,61 @@ aufzustellen hat, so sind für die Feststellung der Unternehmensgröße
 die Zahlen des Konzernabschlusses maßgebend.
 
 
+### § 210a Elektronische Transportversicherungspolice
+
+Der Urkunde nach § 4 oder § 55 gleichgestellt ist eine elektronische
+Transportversicherungspolice nach § 365a des Handelsgesetzbuchs.
+
+
 ### § 211 Pensionskassen, kleinere Versicherungsvereine, Versicherungen mit kleineren Beträgen
 
-(1) Die §§ 37, 38, 165, 166, 168 und 169 sind, soweit mit Genehmigung
-der Aufsichtsbehörde in den Allgemeinen Versicherungsbedingungen
-abweichende Bestimmungen getroffen sind, nicht anzuwenden auf
+(1) Die §§ 37, 38, 165, 166 Absatz 1, 2, 3 und 4 Satz 1 sowie die
+§§ 168 und 169 sind, soweit mit Genehmigung der Aufsichtsbehörde in
+den Allgemeinen Versicherungsbedingungen abweichende Bestimmungen
+getroffen sind, nicht anzuwenden auf
 
 1.  Versicherungen bei Pensionskassen im Sinn des § 233 Absatz 1 und 2 des
     Versicherungsaufsichtsgesetzes,
-
 
 2.  Versicherungen, die bei einem Verein genommen werden, der als
     kleinerer Verein im Sinn des Versicherungsaufsichtsgesetzes anerkannt
     ist,
 
-
 3.  Lebensversicherungen mit kleineren Beträgen und
 
-
 4.  Unfallversicherungen mit kleineren Beträgen.
-
-
-
 
 (2) Auf die in Absatz 1 Nr. 1 genannten Pensionskassen sind ferner
 nicht anzuwenden
 
-1.  die §§ 6 bis 9, 11, 150 Abs. 2 bis 4 und § 152 Abs. 1 und 2; für die
-    §§ 7 bis 9 und 152 Abs. 1 und 2 gilt dies nicht für Fernabsatzverträge
-    im Sinn des § 312c des Bürgerlichen Gesetzbuchs;
-
+1.  die §§ 6 bis 9, 11, 150 Absatz 2 bis 4 und § 152 Absatz 1 bis
+    4; für die §§ 7 bis 9 und 152 Absatz 1 bis 4 gilt dies nicht für
+    Fernabsatzverträge nach § 312c des Bürgerlichen Gesetzbuchs;
 
 2.  § 153, soweit mit Genehmigung der Aufsichtsbehörde in den Allgemeinen
     Versicherungsbedingungen abweichende Bestimmungen getroffen sind; §
     153 Abs. 3 Satz 1 ist ferner nicht auf Sterbekassen anzuwenden.
 
-
-
-
-(3) Sind für Versicherungen mit kleineren Beträgen im Sinn von Absatz
-1 Nr. 3 und 4 abweichende Bestimmungen getroffen, kann deren
+(3) Sind für Versicherungen mit kleineren Beträgen im Sinn von
+Absatz 1 Nr. 3 und 4 abweichende Bestimmungen getroffen, kann deren
 Wirksamkeit nicht unter Berufung darauf angefochten werden, dass es
 sich nicht um Versicherungen mit kleineren Beträgen handele.
 
 
-### § 212 Fortsetzung der Lebensversicherung nach der Elternzeit
+### § 212 Fortsetzung der Lebensversicherung nach einer Beschäftigungszeit ohne Entgelt
 
-Besteht während einer Elternzeit ein Arbeitsverhältnis ohne Entgelt
-gemäß § 1a Abs. 4 des Betriebsrentengesetzes fort und wird eine vom
-Arbeitgeber zugunsten der Arbeitnehmerin oder des Arbeitnehmers
-abgeschlossene Lebensversicherung wegen Nichtzahlung der während der
-Elternzeit fälligen Prämien in eine prämienfreie Versicherung
-umgewandelt, kann die Arbeitnehmerin oder der Arbeitnehmer innerhalb
-von drei Monaten nach der Beendigung der Elternzeit verlangen, dass
-die Versicherung zu den vor der Umwandlung vereinbarten Bedingungen
-fortgesetzt wird.
+(1) Besteht ein ursprünglich entgeltliches Arbeitsverhältnis ohne
+Entgelt fort und wird eine Lebensversicherung, die der Arbeitgeber
+zugunsten der Arbeitnehmerin oder des Arbeitnehmers zur Durchführung
+einer Entgeltumwandlung nach § 1a Absatz 1 des Betriebsrentengesetzes
+abgeschlossen hat, wegen Nichtzahlung der während dieser Zeit fälligen
+Prämien in eine prämienfreie Versicherung umgewandelt, kann die
+Arbeitnehmerin oder der Arbeitnehmer innerhalb von drei Monaten nach
+der Beendigung dieser Zeit verlangen, dass die Versicherung zu den vor
+der Umwandlung vereinbarten Bedingungen fortgesetzt wird.
+
+(2) Von Absatz 1 kann nicht zum Nachteil der versicherten Person
+abgewichen werden.
 
 
 ### § 213 Erhebung personenbezogener Gesundheitsdaten bei Dritten
@@ -4702,13 +4608,13 @@ soweit die Kenntnis der Daten für die Beurteilung des zu versichernden
 Risikos oder der Leistungspflicht erforderlich ist und die betroffene
 Person eine Einwilligung erteilt hat.
 
-(2) Die nach Absatz 1 erforderliche Einwilligung kann vor Abgabe der
-Vertragserklärung erteilt werden. Die betroffene Person ist vor einer
-Erhebung nach Absatz 1 zu unterrichten; sie kann der Erhebung
+(2) Die nach Absatz 1 erforderliche Einwilligung kann vor Abgabe
+der Vertragserklärung erteilt werden. Die betroffene Person ist vor
+einer Erhebung nach Absatz 1 zu unterrichten; sie kann der Erhebung
 widersprechen.
 
-(3) Die betroffene Person kann jederzeit verlangen, dass eine Erhebung
-von Daten nur erfolgt, wenn jeweils in die einzelne Erhebung
+(3) Die betroffene Person kann jederzeit verlangen, dass eine
+Erhebung von Daten nur erfolgt, wenn jeweils in die einzelne Erhebung
 eingewilligt worden ist.
 
 (4) Die betroffene Person ist auf diese Rechte hinzuweisen, auf das
@@ -4724,22 +4630,19 @@ von Streitigkeiten
 1.  bei Versicherungsverträgen mit Verbrauchern im Sinne des § 13 des
     Bürgerlichen Gesetzbuchs anerkennen,
 
-
-2.  zwischen Versicherungsvermittlern oder Versicherungsberatern und
-    Versicherungsnehmern im Zusammenhang mit der Vermittlung von
+2.  zwischen Versicherungsvermittlern oder Versicherungsberatern
+    und Versicherungsnehmern im Zusammenhang mit der Vermittlung von
     Versicherungsverträgen anerkennen.
-
-
 
 Die Beteiligten können diese Schlichtungsstelle anrufen; das Recht,
 die Gerichte anzurufen, bleibt unberührt.
 
 (2) Eine privatrechtlich organisierte Einrichtung kann als
-Schlichtungsstelle anerkannt werden, wenn sie die Voraussetzungen für
-eine Anerkennung als Verbraucherschlichtungsstelle nach § 24 des
-Verbraucherstreitbeilegungsgesetzes vom 19. Februar 2016 (BGBl. I S.
-254) erfüllt. Eine anerkannte Schlichtungsstelle ist
-Verbraucherschlichtungsstelle nach dem
+Schlichtungsstelle anerkannt werden, wenn sie die Voraussetzungen
+für eine Anerkennung als Verbraucherschlichtungsstelle
+nach § 24 des Verbraucherstreitbeilegungsgesetzes vom 19.
+Februar 2016 (BGBl. I S. 254) erfüllt. Eine anerkannte
+Schlichtungsstelle ist Verbraucherschlichtungsstelle nach dem
 Verbraucherstreitbeilegungsgesetz. Das Bundesamt für Justiz nimmt die
 Verbraucherschlichtungsstellen nach Absatz 1 in die Liste nach § 33
 Absatz 1 des Verbraucherstreitbeilegungsgesetzes auf und macht die
@@ -4750,31 +4653,31 @@ Bundesanzeiger bekannt.
 Beschwerde über einen Versicherer oder einen Versicherungsvermittler,
 Vermittler nach § 66 und Versicherungsberater zu beantworten.
 
-(4) Die anerkannten Schlichtungsstellen können von dem
-Versicherungsvermittler, Vermittler nach § 66 oder
+(4) Die anerkannten Schlichtungsstellen können von
+dem Versicherungsvermittler, Vermittler nach § 66 oder
 Versicherungsberater ein Entgelt erheben. Bei offensichtlich
-missbräuchlichen Beschwerden kann auch von dem Versicherungsnehmer ein
-geringes Entgelt verlangt werden. Die Höhe des Entgeltes muss im
+missbräuchlichen Beschwerden kann auch von dem Versicherungsnehmer
+ein geringes Entgelt verlangt werden. Die Höhe des Entgeltes muss im
 Verhältnis zum Aufwand der anerkannten Schlichtungsstelle angemessen
 sein.
 
 (5) Nach Absatz 1 anerkannte Schlichtungsstellen haben die
 Bundesanstalt für Finanzdienstleistungsaufsicht über die ihnen bei
-ihrer Schlichtungstätigkeit bekannt gewordenen Geschäftspraktiken von
-Unternehmern zu unterrichten, wenn die Geschäftspraktiken die
+ihrer Schlichtungstätigkeit bekannt gewordenen Geschäftspraktiken
+von Unternehmern zu unterrichten, wenn die Geschäftspraktiken die
 Interessen einer Vielzahl von Verbrauchern erheblich beeinträchtigen
 können.
 
 (6) Soweit keine privatrechtlich organisierte Einrichtung als
-Schlichtungsstelle anerkannt wird, weist das Bundesministerium der
-Justiz und für Verbraucherschutz im Einvernehmen mit dem
+Schlichtungsstelle anerkannt wird, weist das Bundesministerium
+der Justiz und für Verbraucherschutz im Einvernehmen mit dem
 Bundesministerium der Finanzen und dem Bundesministerium für
-Wirtschaft und Energie die Aufgaben der Schlichtungsstelle durch
-Rechtsverordnung ohne Zustimmung des Bundesrates einer
-Bundesoberbehörde oder Bundesanstalt zu und regelt deren Verfahren
-sowie die Erhebung von Gebühren und Auslagen. § 31 des
-Verbraucherstreitbeilegungsgesetzes ist entsprechend anzuwenden. Die
-Schlichtungsstelle ist Verbraucherschlichtungsstelle nach dem
+Wirtschaft und Energie die Aufgaben der Schlichtungsstelle
+durch Rechtsverordnung ohne Zustimmung des Bundesrates einer
+Bundesoberbehörde oder Bundesanstalt zu und regelt deren
+Verfahren sowie die Erhebung von Gebühren und Auslagen. § 31 des
+Verbraucherstreitbeilegungsgesetzes ist entsprechend anzuwenden.
+Die Schlichtungsstelle ist Verbraucherschlichtungsstelle nach dem
 Verbraucherstreitbeilegungsgesetz und muss die Anforderungen nach dem
 Verbraucherstreitbeilegungsgesetz erfüllen.
 
@@ -4782,8 +4685,8 @@ Verbraucherstreitbeilegungsgesetz erfüllen.
 ### § 215 Gerichtsstand
 
 (1) Für Klagen aus dem Versicherungsvertrag oder der
-Versicherungsvermittlung ist auch das Gericht örtlich zuständig, in
-dessen Bezirk der Versicherungsnehmer zur Zeit der Klageerhebung
+Versicherungsvermittlung ist auch das Gericht örtlich zuständig,
+in dessen Bezirk der Versicherungsnehmer zur Zeit der Klageerhebung
 seinen Wohnsitz, in Ermangelung eines solchen seinen gewöhnlichen
 Aufenthalt hat. Für Klagen gegen den Versicherungsnehmer ist dieses
 Gericht ausschließlich zuständig.
@@ -4791,8 +4694,8 @@ Gericht ausschließlich zuständig.
 (2) § 33 Abs. 2 der Zivilprozessordnung ist auf Widerklagen der
 anderen Partei nicht anzuwenden.
 
-(3) Eine von Absatz 1 abweichende Vereinbarung ist zulässig für den
-Fall, dass der Versicherungsnehmer nach Vertragsschluss seinen
+(3) Eine von Absatz 1 abweichende Vereinbarung ist zulässig für
+den Fall, dass der Versicherungsnehmer nach Vertragsschluss seinen
 Wohnsitz oder gewöhnlichen Aufenthalt aus dem Geltungsbereich dieses
 Gesetzes verlegt oder sein Wohnsitz oder gewöhnlicher Aufenthalt im
 Zeitpunkt der Klageerhebung nicht bekannt ist.
@@ -4806,659 +4709,103 @@ dieses Gesetzes abgeschlossen worden und ist ein inländischer
 Gerichtsstand gegeben, so können Ansprüche daraus gegen den
 bevollmächtigten Unterzeichner des im Versicherungsschein an erster
 Stelle aufgeführten Syndikats oder einen von diesem benannten
-Versicherer geltend gemacht werden; ein darüber erzielter Titel wirkt
-für und gegen alle an dem Versicherungsvertrag beteiligten
+Versicherer geltend gemacht werden; ein darüber erzielter Titel
+wirkt für und gegen alle an dem Versicherungsvertrag beteiligten
 Versicherer.
 
-(zu § 8 Absatz 4 Satz 1)
 
-### Anlage Muster für die Widerrufsbelehrung
-
-(Fundstelle: BGBl I 2021, 1687 – 1690)
-
-*    *   *Widerrufsbelehrung* ****
-
-
-*    *   *Abschnitt 1* ****
-        *Widerrufsrecht, Widerrufsfolgen und besondere Hinweise* ****
-
-
-*    *   *Widerrufsrecht* ****
-
-
-*    *   **Sie können Ihre Vertragserklärung innerhalb einer Frist von [14]***
-        **Tagen ohne Angabe von Gründen in Textform (z. B. Brief, Fax, E-Mail)
-        widerrufen.**
-
-
-*    *   **Die Widerrufsfrist beginnt, nachdem Ihnen***
-
-
-*    *   *
-
-    *   **der Versicherungsschein,***
-
-
-*    *   *
-
-    *   **die Vertragsbestimmungen,**
-        einschließlich der für das Vertragsverhältnis geltenden Allgemeinen
-        Versicherungsbedingungen, diese wiederum einschließlich der
-        Tarifbestimmungen,
-
-
-*    *   *
-
-    *   **diese Belehrung,**
-
-
-*    *   *
-
-    *   **das Informationsblatt zu Versicherungsprodukten,***
-
-
-*    *   *
-
-    *   **und die weiteren in Abschnitt 2 aufgeführten Informationen**
-
-
-*    *   **jeweils in Textform zugegangen sind.***
-
-
-*    *   **Zur Wahrung der Widerrufsfrist genügt die rechtzeitige Absendung des
-        Widerrufs. Der Widerruf ist zu richten an:***
-
-
-*    *   *Widerrufsfolgen* ****
-
-
-*    *   **Im Falle eines wirksamen Widerrufs endet der Versicherungsschutz und
-        der Versicherer hat Ihnen den auf die Zeit nach Zugang des Widerrufs
-        entfallenden Teil der Prämien zu erstatten, wenn Sie zugestimmt haben,
-        dass der Versicherungsschutz vor dem Ende der Widerrufsfrist beginnt.
-        Den Teil der Prämie, der auf die Zeit bis zum Zugang des Widerrufs
-        entfällt, darf der Versicherer in diesem Fall einbehalten; dabei
-        handelt es sich um [einen Betrag in Höhe von…]***
-         .* **Der Versicherer hat zurückzuzahlende Beträge unverzüglich,
-        spätestens 30 Tage nach Zugang des Widerrufs, zu erstatten.**
-
-
-*    *   **Beginnt der Versicherungsschutz nicht vor dem Ende der
-        Widerrufsfrist, so hat der wirksame Widerruf zur Folge, dass
-        empfangene Leistungen zurückzugewähren und gezogene Nutzungen (z. B.
-        Zinsen) herauszugeben sind.***
-
-
-*    *   *Besondere Hinweise* ****
-
-
-*    *   **Ihr Widerrufsrecht erlischt, wenn der Vertrag auf Ihren
-        ausdrücklichen Wunsch sowohl von Ihnen als auch vom Versicherer
-        vollständig erfüllt ist, bevor Sie Ihr Widerrufsrecht ausgeübt
-        haben.**
-
-
-*    *   *Abschnitt 2* ****
-        *Auflistung der für den Fristbeginn erforderlichen weiteren
-        Informationen* ****
-
-
-*    *   Hinsichtlich der in Abschnitt 1 Satz 2 genannten weiteren
-        Informationen werden die Informationspflichten im Folgenden im
-        Einzelnen aufgeführt:
-
-
-*    *   *Unterabschnitt 1* *****
-        *Informationspflichten bei allen Versicherungszweigen* ****
-
-
-*    *   Der Versicherer hat Ihnen folgende Informationen zur Verfügung zu
-        stellen:
-
-
-*    *   1.
-
-    *   die Identität des Versicherers und der etwaigen Niederlassung, über
-        die der Vertrag abgeschlossen werden soll; anzugeben ist auch das
-        Handelsregister, bei dem der Rechtsträger eingetragen ist, und die
-        zugehörige Registernummer;
-
-
-*    *   2.
-
-    *   die Identität einer Vertreterin oder eines Vertreters des Versicherers
-        in dem Mitgliedstaat der Europäischen Union, in dem Sie Ihren Wohnsitz
-        haben, wenn es eine solche Vertreterin oder einen solchen Vertreter
-        gibt, oder die Identität einer anderen gewerblich tätigen Person als
-        dem Versicherer, wenn Sie mit dieser geschäftlich zu tun haben, und
-        die Eigenschaft, in der diese Person gegenüber Ihnen tätig wird;
-
-
-*    *   3.
-
-    *   a)
-
-    *   die ladungsfähige Anschrift des Versicherers und jede andere
-        Anschrift, die für die Geschäftsbeziehung zwischen dem Versicherer und
-        Ihnen maßgeblich ist, bei juristischen Personen, Personenvereinigungen
-        oder -gruppen auch den Namen eines Vertretungsberechtigten; soweit die
-        Mitteilung durch Übermittlung der Vertragsbestimmungen einschließlich
-        der Allgemeinen Versicherungsbedingungen erfolgt, bedürfen die
-        Informationen einer hervorgehobenen und deutlich gestalteten Form;
-
-
-*    *
-    *   b)
-
-    *   jede andere Anschrift, die für die Geschäftsbeziehung zwischen einer
-        Vertreterin oder einem Vertreter des Versicherers oder einer anderen
-        gewerblich tätigen Person gemäß Nummer 2 und Ihnen maßgeblich ist, bei
-        juristischen Personen, Personenvereinigungen oder -gruppen auch den
-        Namen eines Vertretungsberechtigten; soweit die Mitteilung durch
-        Übermittlung der Vertragsbestimmungen einschließlich der Allgemeinen
-        Versicherungsbedingungen erfolgt, bedürfen die Informationen einer
-        hervorgehobenen und deutlich gestalteten Form;
-
-
-*    *   4.
-
-    *   die Hauptgeschäftstätigkeit des Versicherers;
-
-
-*    *   5.
-
-    *   Angaben über das Bestehen eines Garantiefonds oder anderer
-        Entschädigungsregelungen; Name und Anschrift des Garantiefonds sind
-        anzugeben;
-
-
-*    *   6.
-
-    *   die wesentlichen Merkmale der Versicherungsleistung, insbesondere
-        Angaben über Art, Umfang und Fälligkeit der Leistung des Versicherers;
-
-
-*    *   7.
-
-    *   den Gesamtpreis der Versicherung einschließlich aller Steuern und
-        sonstigen Preisbestandteile, wobei die Prämien einzeln auszuweisen
-        sind, wenn das Versicherungsverhältnis mehrere selbständige
-        Versicherungsverträge umfassen soll, oder, wenn ein genauer Preis
-        nicht angegeben werden kann, Angaben zu den Grundlagen seiner
-        Berechnung, die Ihnen eine Überprüfung des Preises ermöglichen;
-
-
-*    *   8.
-
-    *   a)
-
-    *   gegebenenfalls zusätzlich anfallende Kosten unter Angabe des insgesamt
-        zu zahlenden Betrages sowie mögliche weitere Steuern, Gebühren oder
-        Kosten, die nicht über den Versicherer abgeführt oder von ihm in
-        Rechnung gestellt werden;
-
-
-*    *
-    *   b)
-
-    *   alle Kosten, die Ihnen für die Benutzung von Fernkommunikationsmitteln
-        entstehen, wenn solche zusätzlichen Kosten in Rechnung gestellt
-        werden;
-
-
-*    *   9.
-
-    *   Einzelheiten hinsichtlich der Zahlung und der Erfüllung, insbesondere
-        zur Zahlungsweise der Prämien;
-
-
-*    *   10.
-
-    *   die Befristung der Gültigkeitsdauer der zur Verfügung gestellten
-        Informationen, beispielsweise die Gültigkeitsdauer befristeter
-        Angebote, insbesondere hinsichtlich des Preises;
-
-
-*    *   11.
-
-    *   den Hinweis, dass sich die Finanzdienstleistung auf Finanzinstrumente
-        bezieht, die wegen ihrer spezifischen Merkmale oder der
-        durchzuführenden Vorgänge mit speziellen Risiken behaftet sind oder
-        deren Preis Schwankungen auf dem Finanzmarkt unterliegt, auf die der
-        Versicherer keinen Einfluss hat, und dass in der Vergangenheit
-        erwirtschaftete Beträge kein Indikator für künftige Erträge sind; die
-        jeweiligen Umstände und Risiken sind zu bezeichnen;
-
-
-*    *   12.
-
-    *   Angaben darüber, wie der Vertrag zustande kommt, insbesondere über den
-        Beginn der Versicherung und des Versicherungsschutzes sowie die Dauer
-        der Frist, während der der Antragsteller an den Antrag gebunden sein
-        soll;
-
-
-*    *   13.
-
-    *   das Bestehen oder Nichtbestehen eines Widerrufsrechts sowie die
-        Bedingungen, Einzelheiten der Ausübung, insbesondere Namen und
-        Anschrift derjenigen Person, gegenüber der der Widerruf zu erklären
-        ist, und die Rechtsfolgen des Widerrufs einschließlich Informationen
-        über den Betrag, den Sie im Falle des Widerrufs gegebenenfalls zu
-        zahlen haben; soweit die Mitteilung durch Übermittlung der
-        Vertragsbestimmungen einschließlich der Allgemeinen
-        Versicherungsbedingungen erfolgt, bedürfen die Informationen einer
-        hervorgehobenen und deutlich gestalteten Form;
-
-
-*    *   14.
-
-    *   a)
-
-    *   Angaben zur Laufzeit des Vertrages;
-
-
-*    *
-    *   b)
-
-    *   Angaben zur Mindestlaufzeit des Vertrages;
-
-
-*    *   15.
-
-    *   Angaben zur Beendigung des Vertrages,
-        insbesondere zu den vertraglichen Kündigungsbedingungen einschließlich
-        etwaiger Vertragsstrafen                     ; soweit die Mitteilung
-        durch Übermittlung der Vertragsbestimmungen einschließlich der
-        Allgemeinen Versicherungsbedingungen erfolgt, bedürfen die
-        Informationen einer hervorgehobenen und deutlich gestalteten Form;
-
-
-*    *   16.
-
-    *   die Mitgliedstaaten der Europäischen Union, deren Recht der
-        Versicherer der Aufnahme von Beziehungen zu Ihnen vor Abschluss des
-        Versicherungsvertrages zugrunde legt;
-
-
-*    *   17.
-
-    *   das auf den Vertrag anwendbare Recht,
-        eine Vertragsklausel über das auf den Vertrag anwendbare Recht oder
-        über das zuständige Gericht;
-
-
-*    *   18.
-
-    *   die Sprachen, in denen die Vertragsbedingungen und die in diesem
-        Unterabschnitt genannten Vorabinformationen mitgeteilt werden, sowie
-        die Sprachen, in denen sich der Versicherer verpflichtet, mit Ihrer
-        Zustimmung die Kommunikation während der Laufzeit dieses Vertrages zu
-        führen;
-
-
-*    *   19.
-
-    *   einen möglichen Zugang für Sie zu einem außergerichtlichen Beschwerde-
-        und Rechtsbehelfsverfahren und gegebenenfalls die Voraussetzungen für
-        diesen Zugang; dabei ist ausdrücklich darauf hinzuweisen, dass die
-        Möglichkeit für Sie, den Rechtsweg zu beschreiten, hiervon unberührt
-        bleibt;
-
-
-*    *   20.
-
-    *   Name und Anschrift der zuständigen Aufsichtsbehörde sowie die
-        Möglichkeit einer Beschwerde bei dieser Aufsichtsbehörde.
-
-
-*    *   *Unterabschnitt 2* *****
-        *Zusätzliche Informationspflichten bei dieser
-        Berufsunfähigkeitsversicherung* ****
-
-
-*    *   Bei dieser Berufsunfähigkeitsversicherung hat der Versicherer Ihnen
-        zusätzlich zu den oben genannten Informationen die folgenden
-        Informationen zur Verfügung zu stellen:
-
-
-*    *   1.
-
-    *   Angaben in Euro zur Höhe der in die Prämie einkalkulierten Kosten;
-        dabei sind die einkalkulierten Abschlusskosten als einheitlicher
-        Gesamtbetrag und die übrigen einkalkulierten Kosten als Anteil der
-        Jahresprämie unter Angabe der jeweiligen Laufzeit auszuweisen; bei den
-        übrigen einkalkulierten Kosten sind die einkalkulierten
-        Verwaltungskosten zusätzlich gesondert als Anteil der Jahresprämie
-        unter Angabe der jeweiligen Laufzeit auszuweisen;
-
-
-*    *   2.
-
-    *   Angaben in Euro zu möglichen sonstigen Kosten, insbesondere zu Kosten,
-        die einmalig oder aus besonderem Anlass entstehen können;
-
-
-*    *   3.
-
-    *   Angaben über die für die Überschussermittlung und
-        Überschussbeteiligung geltenden Berechnungsgrundsätze und Maßstäbe;
-
-
-*    *   4.
-
-    *   Angabe in Euro der in Betracht kommenden Rückkaufswerte;
-
-
-*    *   5.
-
-    *   Angaben in Euro über den Mindestversicherungsbetrag für eine
-        Umwandlung in eine prämienfreie oder eine prämienreduzierte
-        Versicherung und über die Leistungen aus einer prämienfreien oder
-        prämienreduzierten Versicherung;
-
-
-*    *   6.
-
-    *   das Ausmaß, in dem die Leistungen nach den Nummern 4 und 5 garantiert
-        sind; die Angabe hat in Euro zu erfolgen;
-
-
-*    *   7.
-
-    *   Angaben über die der Versicherung zugrunde liegenden Fonds und die Art
-        der darin enthaltenen Vermögenswerte;
-
-
-*    *   8.
-
-    *   allgemeine Angaben über die für diese Versicherungsart geltende
-        Steuerregelung;
-
-
-*    *   9.
-
-    *   die Minderung der Wertentwicklung durch Kosten in Prozentpunkten
-        (Effektivkosten) bis zum Beginn der Auszahlungsphase;
-
-
-*    *   10.
-
-    *   den Hinweis, dass der in den Versicherungsbedingungen verwendete
-        Begriff der Berufsunfähigkeit nicht mit dem Begriff der
-        Berufsunfähigkeit oder der Erwerbsminderung im sozialrechtlichen Sinne
-        oder dem Begriff der Berufsunfähigkeit im Sinne der
-        Versicherungsbedingungen in der Krankentagegeldversicherung
-        übereinstimmt.
-
-
-*    *   *Unterabschnitt 3* *****
-        *Zusätzliche Informationspflichten bei dieser Krankenversicherung*
-        ****
-
-
-*    *   Bei dieser Krankenversicherung hat der Versicherer Ihnen zusätzlich zu
-        den oben genannten Informationen die folgenden Informationen zur
-        Verfügung zu stellen:
-
-
-*    *   1.
-
-    *   Angaben in Euro zur Höhe der in die Prämie einkalkulierten Kosten;
-        dabei sind die einkalkulierten Abschlusskosten als einheitlicher
-        Gesamtbetrag und die übrigen einkalkulierten Kosten als Anteil der
-        Jahresprämie unter Angabe der jeweiligen Laufzeit auszuweisen; bei den
-        übrigen einkalkulierten Kosten sind die einkalkulierten
-        Verwaltungskosten zusätzlich gesondert als Anteil der Jahresprämie
-        unter Angabe der jeweiligen Laufzeit auszuweisen;
-
-
-*    *   2.
-
-    *   Angaben in Euro zu möglichen sonstigen Kosten, insbesondere zu Kosten,
-        die einmalig oder aus besonderem Anlass entstehen können;
-
-
-*    *   3.
-
-    *   Angaben über die Auswirkungen steigender Krankheitskosten auf die
-        zukünftige Beitragsentwicklung;
-
-
-*    *   4.
-
-    *   Hinweise auf die Möglichkeiten zur Beitragsbegrenzung im Alter,
-        insbesondere auf die Möglichkeiten eines Wechsels in den Basistarif
-        oder in andere Tarife gemäß § 204 des Versicherungsvertragsgesetzes
-        und der Vereinbarung von Leistungsausschlüssen sowie auf die
-        Möglichkeit einer Prämienminderung gemäß § 152 Absatz 3 und 4 des
-        Versicherungsaufsichtsgesetzes;
-
-
-*    *   5.
-
-    *   einen Hinweis, dass ein Wechsel von der privaten in die gesetzliche
-        Krankenversicherung in fortgeschrittenem Alter in der Regel
-        ausgeschlossen ist;
-
-
-*    *   6.
-
-    *   einen Hinweis, dass ein Wechsel innerhalb der privaten
-        Krankenversicherung in fortgeschrittenem Alter mit höheren Beiträgen
-        verbunden sein kann und gegebenenfalls auf einen Wechsel in den
-        Basistarif beschränkt ist;
-
-
-*    *   7.
-
-    *   eine Übersicht in Euro über die Beitragsentwicklung im Zeitraum der
-        dem Angebot vorangehenden zehn Jahre; anzugeben ist, welcher
-        monatlichen Beitrag in den dem Angebot vorangehenden zehn Jahren
-        jeweils zu entrichten gewesen wäre, wenn der Versicherungsvertrag zum
-        damaligen Zeitpunkt von einer Person gleichen Geschlechts wie Sie mit
-        Eintrittsalter von 35 Jahren abgeschlossen worden wäre; besteht der
-        angebotene Tarif noch nicht seit zehn Jahren, so ist auf den Zeitpunkt
-        der Einführung des Tarifs abzustellen, und es ist darauf hinzuweisen,
-        dass die Aussagekraft der Übersicht wegen der kurzen Zeit, die seit
-        der Einführung des Tarifs vergangen ist, begrenzt ist; ergänzend ist
-        die Entwicklung eines vergleichbaren Tarifs, der bereits seit zehn
-        Jahren besteht, darzustellen.
-
-
-*    *   **(Ort), (Datum), (Unterschrift des Versicherungsnehmers)****
-
-
-
-
-*    *   **Gestaltungshinweise:**
-
-
-*    *   *
-
-    *   Für die Lebensversicherung lautet der Klammerzusatz: „30“.
-
-
-*    *   *
-
-    *   Bei Versicherungsprodukten, für die nach der Verordnung (EU) Nr.
-        1286/2014 ein Basisinformationsblatt zu erstellen ist, sind hier die
-        Wörter **„das Basisinformationsblatt zur Verfügung gestellt worden ist
-        und“**                      einzusetzen. Bei Versicherungsprodukten,
-        bei denen nach der Verordnung (EU) 2019/1238 ein PEPP-
-        Basisinformationsblatt zu erstellen ist, sind hier die Wörter **„das
-        PEPP-Basisinformationsblatt zur Verfügung gestellt worden ist und“**
-        einzusetzen.
-
-
-*    *   *
-
-    *   Der Punkt **„der Versicherungsschein,“**                      entfällt
-        bei Belehrung der versicherten Person eines Vertrages gemäß § 7d des
-        Versicherungsvertragsgesetzes (VVG).
-
-
-*    *   *
-
-    *   Der Punkt **„das Informationsblatt zu Versicherungsprodukten“**
-        ist nur aufzunehmen, wenn ein Informationsblatt zu
-        Versicherungsprodukten nach § 4 der VVG-
-        Informationspflichtenverordnung zur Verfügung zu stellen ist. Bei
-        Altersvorsorge- und Basisrentenverträgen, für die ein individuelles
-        Produktinformationsblatt nach § 7 Absatz 1 des Altersvorsorgeverträge-
-        Zertifizierungsgesetzes zu erstellen ist, sind die Wörter **„das
-        Informationsblatt zu Versicherungsprodukten“**
-        durch die Wörter **„das Produktinformationsblatt“**
-        zu ersetzen.
-
-
-*    *   *
-
-    *   Bei Restschuldversicherungen, die als Nebenprodukt oder als Teil eines
-        Pakets oder derselben Vereinbarung angeboten werden (§ 7a Absatz 5
-        VVG), sowie bei Belehrung der versicherten Person eines Vertrages
-        gemäß § 7d VVG ist folgender Satz einzufügen:
-
-
-*    *
-    *   **„Die Widerrufsfrist beginnt zudem nicht, bevor Ihnen mindestens eine
-        Woche nach Abgabe Ihrer Vertragserklärung die Belehrung über das
-        Widerrufsrecht und das Informationsblatt zu Versicherungsprodukten
-        erneut in Textform zugegangen sind.“**
-
-
-*    *   *
-
-    *   Hier sind einzusetzen: Name/Firma und ladungsfähige Anschrift des
-        Widerrufsadressaten. Zusätzlich können angegeben werden:
-        Telefaxnummer, E-Mail-Adresse und/oder, wenn die Versicherungsnehmerin
-        oder der Versicherungsnehmer eine Bestätigung ihrer oder seiner
-        Widerrufserklärung an den Versicherer erhält, auch eine
-        Internetadresse.
-
-
-*    *   *
-
-    *   Der Betrag kann auch in anderen Unterlagen, zum Beispiel im Antrag,
-        ausgewiesen sein; dann lautet der Klammerzusatz je nach Ausgestaltung:
-        „den im Antrag/im … auf Seite …/unter Nummer … ausgewiesenen Betrag“.
-
-
-*    *   *
-
-    *   Bei der Lebensversicherung ist gegebenenfalls folgender Satz
-        einzufügen:
-
-
-*    *
-    *   **„Den Rückkaufswert einschließlich der Überschussanteile hat der
-        Versicherer Ihnen auszuzahlen.“**
-
-
-*    *   *
-
-    *   Wird der Versicherungsvertrag mit einem zusammenhängenden Vertrag
-        abgeschlossen, sind am Ende des Absatzes zu „Widerrufsfolgen“ folgende
-        Sätze anzufügen:
-
-
-*    *
-    *   **„Haben Sie Ihr Widerrufsrecht hinsichtlich des
-        Versicherungsvertrages wirksam ausgeübt, so sind Sie auch an einen mit
-        dem Versicherungsvertrag zusammenhängenden Vertrag nicht mehr
-        gebunden. Ein zusammenhängender Vertrag liegt vor, wenn er einen Bezug
-        zu dem widerrufenen Vertrag aufweist und eine Dienstleistung des
-        Versicherers oder eines Dritten auf der Grundlage einer Vereinbarung
-        zwischen dem Dritten und dem Versicherer betrifft. Eine Vertragsstrafe
-        darf weder vereinbart noch verlangt werden.“**
-
-
-*    *   *
-
-    *   Die unter Abschnitt 2 Unterabschnitt 1 Nummer 2, 3 Buchstabe b, Nummer
-        5, 8 Buchstabe a und b, Nummer 10, 11 und 14 Buchstabe b aufgelisteten
-        und kursiv gedruckten Informationen sind nur dann in die
-        Widerrufsbelehrung aufzunehmen, wenn sie für den vorliegenden Vertrag
-        einschlägig sind. Bei Aufnahme ist der Kursivdruck zu entfernen. Eine
-        Information ist auch dann vollständig aufzunehmen, wenn sie nur
-        teilweise einschlägig ist, wenn beispielsweise bei Nummer 8 Buchstabe
-        a nur zusätzlich Kosten, nicht aber weitere Steuern, die nicht über
-        den Versicherer abgeführt oder von ihm in Rechnung gestellt werden,
-        anfallen. Werden Informationen gemäß der vorstehenden Vorgabe nicht
-        aufgenommen, so ist die fortlaufende Nummerierung entsprechend
-        anzupassen (wird beispielsweise Nummer 8 nicht übernommen, wird Nummer
-        9 zu Nummer 8 etc.). Die in den Nummern 3, 8 und 14 vorgesehenen
-        Buchstaben a und b sind jeweils nur zu verwenden, wenn dort sowohl die
-        Informationen unter Buchstabe a als auch diejenigen unter Buchstabe b
-        aufgenommen werden. Die kursiv gedruckten Wörter „
-        , insbesondere zu den vertraglichen Kündigungsbedingungen
-        einschließlich etwaiger Vertragsstrafen                     “ in
-        Nummer 15 und „,
-        eine Vertragsklausel über das auf den Vertrag anwendbare Recht oder
-        über das zuständige Gericht“                      in Nummer 17 sind
-        jeweils nur aufzunehmen, wenn sie für den vorliegenden Vertrag
-        einschlägig sind. Bei Aufnahme entfällt der Kursivdruck. Folgen keine
-        weiteren Unterabschnitte, so ist die Überschrift „Unterabschnitt 1“ zu
-        entfernen und das Wort „Unterabschnitt“ in Nummer 18 durch das Wort
-        „Abschnitt“ zu ersetzen.
-
-
-*    *   *
-
-    *   Dieser Unterabschnitt ist nur einzufügen bei der
-        Berufsunfähigkeitsversicherung, der Lebensversicherung und der
-        Unfallversicherung mit Prämienrückgewähr. Bei der Lebensversicherung
-        gilt dies mit der Maßgabe, dass das Wort
-        „Berufsunfähigkeitsversicherung“ jeweils durch das Wort
-        „Lebensversicherung“ zu ersetzen ist und die Information unter Nummer
-        10 entfällt. Bei der Unfallversicherung mit Prämienrückgewähr gilt
-        dies mit der Maßgabe, dass das Wort „Berufsunfähigkeitsversicherung“
-        jeweils durch die Wörter „Unfallversicherung mit Prämienrückgewähr“ zu
-        ersetzen ist und nur die Informationen in den Nummern 3 bis 8
-        aufzunehmen sind.
-
-
-*    *
-    *   Die Information unter Nummer 7 ist nur einzufügen bei der
-        fondsgebundenen Lebens- oder Berufsunfähigkeitsversicherung oder der
-        fondsgebundenen Unfallversicherung mit Prämienrückgewähr. Die
-        Information unter Nummer 9 ist nur einzufügen bei Lebens- und
-        Berufsunfähigkeitsversicherungsverträgen, die Versicherungsschutz für
-        ein Risiko bieten, bei dem der Eintritt der Verpflichtung des
-        Versicherers gewiss ist. Bei Übernahme der Informationen unter Nummer
-        7 oder Nummer 9 entfällt der Kursivdruck.
-
-
-*    *
-    *   Werden Informationen gemäß den vorstehenden Vorgaben nicht
-        aufgenommen, ist die fortlaufende Nummerierung entsprechend anzupassen
-        (wird beispielsweise Nummer 7 nicht übernommen, wird Nummer 8 zu
-        Nummer 7 etc.). Die letzte in die Widerrufsbelehrung aufgenommene
-        Information in diesem Unterabschnitt soll mit dem Satzzeichen „.“
-        abschließen.
-
-
-*    *   *
-
-    *   Dieser Unterabschnitt ist nur einzufügen bei der substitutiven
-        Krankenversicherung. Handelt es sich um den zweiten Unterabschnitt, so
-        ist die Überschrift **„Unterabschnitt 3“**                      durch
-        die Überschrift **„Unterabschnitt 2“**                      zu
-        ersetzen.
-
-
-*    *   *
-
-    *   Bei Belehrung der versicherten Person eines Vertrages nach § 7d VVG
-        lautet der Klammerzusatz „der versicherten Person“.
-
-
-*    *   *
-
-    *   Ort, Datum und Unterschriftsleiste können entfallen. In diesem Fall
-        sind die Angaben entweder durch die Wörter „Ende der
-        Widerrufsbelehrung“ oder durch die Wörter „Ihr(e) [einsetzen: Firma
-        des Versicherers]“ zu ersetzen.
-
-
+### Anlage (zu § 8 Absatz 5 Satz 1) Muster für die Widerrufsbelehrung
+
+(Fundstelle: BGBl I 2021, 1687 – 1690, bzgl. der einzelnen Änderungen
+vgl. Fußnote)
+
+| **Widerrufsbelehrung** |  |  |
+| --- | --- | --- |
+| **Abschnitt 1** **Widerrufsrecht, Widerrufsfolgen und besondere Hinweise** |  |  |
+| **Widerrufsrecht** |  |  |
+| **Sie können Ihre Vertragserklärung innerhalb einer Frist von [14]** **Tagen ohne Angabe von Gründen in Textform (z. B. Brief, Fax, E-Mail) widerrufen.** |  |  |
+| **Die Widerrufsfrist beginnt, nachdem Ihnen** |  |  |
+| ● | **der Versicherungsschein,** |  |
+| ● | **die Vertragsbestimmungen,** einschließlich der für das Vertragsverhältnis geltenden Allgemeinen Versicherungsbedingungen, diese wiederum einschließlich der Tarifbestimmungen, |  |
+| ● | **diese Belehrung,** |  |
+| ● | **das Informationsblatt zu Versicherungsprodukten,** |  |
+| ● | **und die weiteren in Abschnitt 2 aufgeführten Informationen** |  |
+| **jeweils in Textform zugegangen sind.** |  |  |
+| **Zur Wahrung der Widerrufsfrist genügt die rechtzeitige Absendung des Widerrufs. Der Widerruf ist zu richten an:** |  |  |
+| **Widerrufsfolgen** |  |  |
+| **Beginnt der Versicherungsschutz vor dem Ende der Widerrufsfrist, endet im Falle eines wirksamen Widerrufs der Versicherungsschutz und der Versicherer hat Ihnen nur den auf die Zeit nach dem Zugang der Widerrufserklärung entfallenden Teil der Prämien zurückzugewähren. Den Teil der Prämie, der auf die Zeit bis zum Zugang der Widerrufserklärung entfällt, darf der Versicherer in diesem Fall einbehalten; dabei handelt es sich um [einen Betrag in Höhe von …] . [Sie dürfen in diesem Fall Versicherungsleistungen, die Sie vor der Ausübung des Widerrufsrechts aufgrund eines Versicherungsfalls aus dem Versicherungsvertrag in Anspruch genommen haben, einbehalten.] **Beginnt der Versicherungsschutz nicht vor dem Ende der Widerrufsfrist, so hat der wirksame Widerruf zur Folge, dass empfangene Leistungen zurückzugewähren sind.**** **Leistungen sind unverzüglich, spätestens innerhalb von 30 Tagen, zurückzugewähren. Die Frist beginnt für den Versicherer mit dem Zugang und für den Versicherungsnehmer mit der Abgabe der Widerrufserklärung.** |  |  |
+| **Besondere Hinweise** |  |  |
+| **Wenn Sie Ihr Widerrufsrecht nicht ausüben, sind Sie an den Vertrag gebunden.**  **Ihr Widerrufsrecht erlischt, wenn der Vertrag auf Ihren ausdrücklichen Wunsch sowohl von Ihnen als auch vom Versicherer vollständig erfüllt ist, bevor Sie Ihr Widerrufsrecht ausgeübt haben.**  **Ihr Widerrufsrecht erlischt spätestens [zwölf Monate und 14 Tage] nach dem Vertragsschluss.** |  |  |
+| **Abschnitt 2** **Auflistung der für den Fristbeginn erforderlichen weiteren Informationen** |  |  |
+| Hinsichtlich der in Abschnitt 1 Satz 2 genannten weiteren Informationen werden die Informationspflichten im Folgenden im Einzelnen aufgeführt: |  |  |
+| **Unterabschnitt 1**  **Informationspflichten bei allen Versicherungszweigen** |  |  |
+| Der Versicherer hat Ihnen folgende Informationen zur Verfügung zu stellen: |  |  |
+| 1. | die Identität des Versicherers und der etwaigen Niederlassung, über die der Vertrag abgeschlossen werden soll; anzugeben ist auch das Handelsregister, bei dem der Rechtsträger eingetragen ist, und die zugehörige Registernummer; |  |
+| *2.* | *die Identität einer Vertreterin oder eines Vertreters des Versicherers in dem Mitgliedstaat der Europäischen Union, in dem Sie Ihren Wohnsitz haben, wenn es eine solche Vertreterin oder einen solchen Vertreter gibt, oder die Identität einer anderen gewerblich tätigen Person als dem Versicherer, wenn Sie mit dieser geschäftlich zu tun haben, und die Eigenschaft, in der diese Person gegenüber Ihnen tätig wird;* |  |
+| 3. | a) | die ladungsfähige Anschrift des Versicherers und jede andere Anschrift, die für die Geschäftsbeziehung zwischen dem Versicherer und Ihnen maßgeblich ist, bei juristischen Personen, Personenvereinigungen oder -gruppen auch den Namen eines Vertretungsberechtigten; soweit die Mitteilung durch Übermittlung der Vertragsbestimmungen einschließlich der Allgemeinen Versicherungsbedingungen erfolgt, bedürfen die Informationen einer hervorgehobenen und deutlich gestalteten Form; |
+|  | *b)* | *jede andere Anschrift, die für die Geschäftsbeziehung zwischen einer Vertreterin oder einem Vertreter des Versicherers oder einer anderen gewerblich tätigen Person gemäß Nummer 2 und Ihnen maßgeblich ist, bei juristischen Personen, Personenvereinigungen oder -gruppen auch den Namen eines Vertretungsberechtigten; soweit die Mitteilung durch Übermittlung der Vertragsbestimmungen einschließlich der Allgemeinen Versicherungsbedingungen erfolgt, bedürfen die Informationen einer hervorgehobenen und deutlich gestalteten Form;* |
+| 4. | die Hauptgeschäftstätigkeit des Versicherers; |  |
+| *5.* | *Angaben über das Bestehen eines Garantiefonds oder anderer Entschädigungsregelungen; Name und Anschrift des Garantiefonds sind anzugeben;* |  |
+| 6. | die wesentlichen Merkmale der Versicherungsleistung, insbesondere Angaben über Art, Umfang und Fälligkeit der Leistung des Versicherers; |  |
+| 7. | den Gesamtpreis der Versicherung einschließlich aller Steuern und sonstigen Preisbestandteile, wobei die Prämien einzeln auszuweisen sind, wenn das Versicherungsverhältnis mehrere selbständige Versicherungsverträge umfassen soll, oder, wenn ein genauer Preis nicht angegeben werden kann, Angaben zu den Grundlagen seiner Berechnung, die Ihnen eine Überprüfung des Preises ermöglichen; |  |
+| 8. | *a)* | *gegebenenfalls zusätzlich anfallende Kosten unter Angabe des insgesamt zu zahlenden Betrages sowie mögliche weitere Steuern, Gebühren oder Kosten, die nicht über den Versicherer abgeführt oder von ihm in Rechnung gestellt werden;* |
+|  | *b)* | *alle Kosten, die Ihnen für die Benutzung von Fernkommunikationsmitteln entstehen, wenn solche zusätzlichen Kosten in Rechnung gestellt werden;* |
+| 9. | Einzelheiten hinsichtlich der Zahlung und der Erfüllung, insbesondere zur Zahlungsweise der Prämien; |  |
+| *10.* | *die Befristung der Gültigkeitsdauer der zur Verfügung gestellten Informationen, beispielsweise die Gültigkeitsdauer befristeter Angebote, insbesondere hinsichtlich des Preises;* |  |
+| *11.* | *den Hinweis, dass sich die Finanzdienstleistung auf Finanzinstrumente bezieht, die wegen ihrer spezifischen Merkmale oder der durchzuführenden Vorgänge mit speziellen Risiken behaftet sind oder deren Preis Schwankungen auf dem Finanzmarkt unterliegt, auf die der Versicherer keinen Einfluss hat, und dass in der Vergangenheit erwirtschaftete Beträge kein Indikator für künftige Erträge sind; die jeweiligen Umstände und Risiken sind zu bezeichnen;* |  |
+| 12. | Angaben darüber, wie der Vertrag zustande kommt, insbesondere über den Beginn der Versicherung und des Versicherungsschutzes sowie die Dauer der Frist, während der der Antragsteller an den Antrag gebunden sein soll; |  |
+| 13. | das Bestehen oder Nichtbestehen eines Widerrufsrechts sowie die Bedingungen, Einzelheiten der Ausübung, insbesondere Namen und Anschrift derjenigen Person, gegenüber der der Widerruf zu erklären ist, und die Rechtsfolgen des Widerrufs einschließlich Informationen über den Betrag, den Sie im Falle des Widerrufs gegebenenfalls zu zahlen haben; soweit die Mitteilung durch Übermittlung der Vertragsbestimmungen einschließlich der Allgemeinen Versicherungsbedingungen erfolgt, bedürfen die Informationen einer hervorgehobenen und deutlich gestalteten Form; |  |
+| 14. | a) | Angaben zur Laufzeit des Vertrages; |
+|  | *b)* | *Angaben zur Mindestlaufzeit des Vertrages;* |
+| 15. | Angaben zur Beendigung des Vertrages, *insbesondere zu den vertraglichen Kündigungsbedingungen einschließlich etwaiger Vertragsstrafen*; soweit die Mitteilung durch Übermittlung der Vertragsbestimmungen einschließlich der Allgemeinen Versicherungsbedingungen erfolgt, bedürfen die Informationen einer hervorgehobenen und deutlich gestalteten Form; |  |
+| 16. | die Mitgliedstaaten der Europäischen Union, deren Recht der Versicherer der Aufnahme von Beziehungen zu Ihnen vor Abschluss des Versicherungsvertrages zugrunde legt; |  |
+| 17. | das auf den Vertrag anwendbare Recht, *eine Vertragsklausel über das auf den Vertrag anwendbare Recht oder über das zuständige Gericht;* |  |
+| 18. | die Sprachen, in denen die Vertragsbedingungen und die in diesem Unterabschnitt genannten Vorabinformationen mitgeteilt werden, sowie die Sprachen, in denen sich der Versicherer verpflichtet, mit Ihrer Zustimmung die Kommunikation während der Laufzeit dieses Vertrages zu führen; |  |
+| 19. | einen möglichen Zugang für Sie zu einem außergerichtlichen Beschwerde- und Rechtsbehelfsverfahren und gegebenenfalls die Voraussetzungen für diesen Zugang; dabei ist ausdrücklich darauf hinzuweisen, dass die Möglichkeit für Sie, den Rechtsweg zu beschreiten, hiervon unberührt bleibt; |  |
+| 20. | Name und Anschrift der zuständigen Aufsichtsbehörde sowie die Möglichkeit einer Beschwerde bei dieser Aufsichtsbehörde. |  |
+| **Unterabschnitt 2**  **Zusätzliche Informationspflichten bei dieser Berufsunfähigkeitsversicherung** |  |  |
+| Bei dieser Berufsunfähigkeitsversicherung hat der Versicherer Ihnen zusätzlich zu den oben genannten Informationen die folgenden Informationen zur Verfügung zu stellen: |  |  |
+| 1. | Angaben in Euro zur Höhe der in die Prämie einkalkulierten Kosten; dabei sind die einkalkulierten Abschlusskosten als einheitlicher Gesamtbetrag und die übrigen einkalkulierten Kosten als Anteil der Jahresprämie unter Angabe der jeweiligen Laufzeit auszuweisen; bei den übrigen einkalkulierten Kosten sind die einkalkulierten Verwaltungskosten zusätzlich gesondert als Anteil der Jahresprämie unter Angabe der jeweiligen Laufzeit auszuweisen; |  |
+| 2. | Angaben in Euro zu möglichen sonstigen Kosten, insbesondere zu Kosten, die einmalig oder aus besonderem Anlass entstehen können; |  |
+| 3. | Angaben über die für die Überschussermittlung und Überschussbeteiligung geltenden Berechnungsgrundsätze und Maßstäbe; |  |
+| 4. | Angabe in Euro der in Betracht kommenden Rückkaufswerte; |  |
+| 5. | Angaben in Euro über den Mindestversicherungsbetrag für eine Umwandlung in eine prämienfreie oder eine prämienreduzierte Versicherung und über die Leistungen aus einer prämienfreien oder prämienreduzierten Versicherung; |  |
+| 6. | das Ausmaß, in dem die Leistungen nach den Nummern 4 und 5 garantiert sind; die Angabe hat in Euro zu erfolgen; |  |
+| *7.* | *Angaben über die der Versicherung zugrunde liegenden Fonds und die Art der darin enthaltenen Vermögenswerte;* |  |
+| 8. | allgemeine Angaben über die für diese Versicherungsart geltende Steuerregelung; |  |
+| *9.* | *die Minderung der Wertentwicklung durch Kosten in Prozentpunkten (Effektivkosten) bis zum Beginn der Auszahlungsphase;* |  |
+| 10. | den Hinweis, dass der in den Versicherungsbedingungen verwendete Begriff der Berufsunfähigkeit nicht mit dem Begriff der Berufsunfähigkeit oder der Erwerbsminderung im sozialrechtlichen Sinne oder dem Begriff der Berufsunfähigkeit im Sinne der Versicherungsbedingungen in der Krankentagegeldversicherung übereinstimmt. |  |
+| **Unterabschnitt 3**  **Zusätzliche Informationspflichten bei dieser Krankenversicherung** |  |  |
+| Bei dieser Krankenversicherung hat der Versicherer Ihnen zusätzlich zu den oben genannten Informationen die folgenden Informationen zur Verfügung zu stellen: |  |  |
+| 1. | Angaben in Euro zur Höhe der in die Prämie einkalkulierten Kosten; dabei sind die einkalkulierten Abschlusskosten als einheitlicher Gesamtbetrag und die übrigen einkalkulierten Kosten als Anteil der Jahresprämie unter Angabe der jeweiligen Laufzeit auszuweisen; bei den übrigen einkalkulierten Kosten sind die einkalkulierten Verwaltungskosten zusätzlich gesondert als Anteil der Jahresprämie unter Angabe der jeweiligen Laufzeit auszuweisen; |  |
+| 2. | Angaben in Euro zu möglichen sonstigen Kosten, insbesondere zu Kosten, die einmalig oder aus besonderem Anlass entstehen können; |  |
+| 3. | Angaben über die Auswirkungen steigender Krankheitskosten auf die zukünftige Beitragsentwicklung; |  |
+| 4. | Hinweise auf die Möglichkeiten zur Beitragsbegrenzung im Alter, insbesondere auf die Möglichkeiten eines Wechsels in den Basistarif oder in andere Tarife gemäß § 204 des Versicherungsvertragsgesetzes und der Vereinbarung von Leistungsausschlüssen sowie auf die Möglichkeit einer Prämienminderung gemäß § 152 Absatz 3 und 4 des Versicherungsaufsichtsgesetzes; |  |
+| 5. | einen Hinweis, dass ein Wechsel von der privaten in die gesetzliche Krankenversicherung in fortgeschrittenem Alter in der Regel ausgeschlossen ist; |  |
+| 6. | einen Hinweis, dass ein Wechsel innerhalb der privaten Krankenversicherung in fortgeschrittenem Alter mit höheren Beiträgen verbunden sein kann und gegebenenfalls auf einen Wechsel in den Basistarif beschränkt ist; |  |
+| 7. | eine Übersicht in Euro über die Beitragsentwicklung im Zeitraum der dem Angebot vorangehenden zehn Jahre; anzugeben ist, welcher monatlichen Beitrag in den dem Angebot vorangehenden zehn Jahren jeweils zu entrichten gewesen wäre, wenn der Versicherungsvertrag zum damaligen Zeitpunkt von einer Person gleichen Geschlechts wie Sie mit Eintrittsalter von 35 Jahren abgeschlossen worden wäre; besteht der angebotene Tarif noch nicht seit zehn Jahren, so ist auf den Zeitpunkt der Einführung des Tarifs abzustellen, und es ist darauf hinzuweisen, dass die Aussagekraft der Übersicht wegen der kurzen Zeit, die seit der Einführung des Tarifs vergangen ist, begrenzt ist; ergänzend ist die Entwicklung eines vergleichbaren Tarifs, der bereits seit zehn Jahren besteht, darzustellen. |  |
+| **(Ort), (Datum), (Unterschrift des Versicherungsnehmers)** |  |  |
+
+| **Gestaltungshinweise:** |  |
+| --- | --- |
+|  | Für die Lebensversicherung und für die Berufsunfähigkeitsversicherung, auf die § 152 VVG nach § 176 VVG entsprechend anzuwenden ist, lautet der Klammerzusatz: „30“. |
+|  | Bei Versicherungsprodukten, für die nach der Verordnung (EU) Nr. 1286/2014 ein Basisinformationsblatt zu erstellen ist, sind hier die Wörter **„das Basisinformationsblatt zur Verfügung gestellt worden ist und“** einzusetzen. Bei Versicherungsprodukten, bei denen nach der Verordnung (EU) 2019/1238 ein PEPP-Basisinformationsblatt zu erstellen ist, sind hier die Wörter **„das PEPP-Basisinformationsblatt zur Verfügung gestellt worden ist und“** einzusetzen. |
+|  | Der Punkt **„der Versicherungsschein,“** entfällt bei Belehrung der versicherten Person eines Vertrages gemäß § 7a Absatz 5 Satz 3 und 4 des Versicherungsvertragsgesetzes (VVG). |
+|  | Der Punkt **„das Informationsblatt zu Versicherungsprodukten“** ist nur aufzunehmen, wenn ein Informationsblatt zu Versicherungsprodukten nach § 4 der VVG-Informationspflichtenverordnung zur Verfügung zu stellen ist. Bei Altersvorsorge- und Basisrentenverträgen, für die ein individuelles Produktinformationsblatt nach § 7 Absatz 1 des Altersvorsorgeverträge-Zertifizierungsgesetzes zu erstellen ist, sind die Wörter **„das Informationsblatt zu Versicherungsprodukten“** durch die Wörter **„das Produktinformationsblatt“** zu ersetzen. |
+|  | (weggefallen) |
+|  | Hier sind einzusetzen: Name/Firma und ladungsfähige Anschrift des Widerrufsadressaten. Zusätzlich können angegeben werden: Telefaxnummer und E-Mail-Adresse. Wenn Sie eine Funktion, mit der der Versicherungsnehmer seine Vertragserklärung widerrufen kann, bereitstellen oder zur Bereitstellung verpflichtet sind, fügen Sie danach folgenden Satz an: |
+|  | **„Sie können Ihr Widerrufsrecht auch online unter … [Internetadresse oder anderen geeigneten Hinweis darüber eingeben, wo die Widerrufsfunktion verfügbar ist] ausüben. Wenn Sie diese Online-Funktion nutzen, übermitteln wir Ihnen auf einem dauerhaften Datenträger (z. B. durch eine E-Mail) unverzüglich eine Eingangsbestätigung mit Informationen zum Inhalt der Widerrufserklärung sowie dem Datum und der Uhrzeit ihres Eingangs. “** |
+|  | Der Betrag kann auch in anderen Unterlagen, zum Beispiel im Antrag, ausgewiesen sein; dann lautet der Klammerzusatz je nach Ausgestaltung: „den im Antrag/im … auf Seite …/unter Nummer … ausgewiesenen Betrag“. |
+|  | Für die Lebensversicherung und für die Berufsunfähigkeitsversicherung, auf die § 152 VVG nach § 176 VVG entsprechend anzuwenden ist, lautet der Klammerzusatz für den Fall des § 152 Absatz 2 Nummer 2 VVG: |
+|  | **„Der Versicherer hat Ihnen in diesem Fall den Rückkaufswert einschließlich der Überschussanteile auszuzahlen. “** |
+|  | Wird der Versicherungsvertrag mit einem zusammenhängenden Vertrag abgeschlossen, sind am Ende des Absatzes zu „Widerrufsfolgen“ folgende Sätze anzufügen: |
+|  | **„Haben Sie Ihr Widerrufsrecht hinsichtlich des Versicherungsvertrages wirksam ausgeübt, so sind Sie auch an einen mit dem Versicherungsvertrag zusammenhängenden Vertrag nicht mehr gebunden. Ein zusammenhängender Vertrag liegt vor, wenn er einen Bezug zu dem widerrufenen Vertrag aufweist und eine Dienstleistung des Versicherers oder eines Dritten auf der Grundlage einer Vereinbarung zwischen dem Dritten und dem Versicherer betrifft. Ihnen dürfen durch die Ausübung des Widerrufsrechts keine Kosten entstehen. “** |
+|  | Für die Lebensversicherung und für die Berufsunfähigkeitsversicherung, auf die § 152 VVG nach § 176 VVG entsprechend anzuwenden ist, lautet der Klammerzusatz: „24 Monate und 30 Tage“. |
+|  | Die unter Abschnitt 2 Unterabschnitt 1 Nummer 2, 3 Buchstabe b, Nummer 5, 8 Buchstabe a und b, Nummer 10, 11 und 14 Buchstabe b aufgelisteten und kursiv gedruckten Informationen sind nur dann in die Widerrufsbelehrung aufzunehmen, wenn sie für den vorliegenden Vertrag einschlägig sind. Bei Aufnahme ist der Kursivdruck zu entfernen. Eine Information ist auch dann vollständig aufzunehmen, wenn sie nur teilweise einschlägig ist, wenn beispielsweise bei Nummer 8 Buchstabe a nur zusätzlich Kosten, nicht aber weitere Steuern, die nicht über den Versicherer abgeführt oder von ihm in Rechnung gestellt werden, anfallen. Werden Informationen gemäß der vorstehenden Vorgabe nicht aufgenommen, so ist die fortlaufende Nummerierung entsprechend anzupassen (wird beispielsweise Nummer 8 nicht übernommen, wird Nummer 9 zu Nummer 8 etc.). Die in den Nummern 3, 8 und 14 vorgesehenen Buchstaben a und b sind jeweils nur zu verwenden, wenn dort sowohl die Informationen unter Buchstabe a als auch diejenigen unter Buchstabe b aufgenommen werden. Die kursiv gedruckten Wörter „*, insbesondere zu den vertraglichen Kündigungsbedingungen einschließlich etwaiger Vertragsstrafen*“ in Nummer 15 und „, *eine Vertragsklausel über das auf den Vertrag anwendbare Recht oder über das zuständige Gericht“* in Nummer 17 sind jeweils nur aufzunehmen, wenn sie für den vorliegenden Vertrag einschlägig sind. Bei Aufnahme entfällt der Kursivdruck. Folgen keine weiteren Unterabschnitte, so ist die Überschrift „Unterabschnitt 1“ zu entfernen und das Wort „Unterabschnitt“ in Nummer 18 durch das Wort „Abschnitt“ zu ersetzen. |
+|  | Dieser Unterabschnitt ist nur einzufügen bei der Berufsunfähigkeitsversicherung, der Lebensversicherung und der Unfallversicherung mit Prämienrückgewähr. Bei der Lebensversicherung gilt dies mit der Maßgabe, dass das Wort „Berufsunfähigkeitsversicherung“ jeweils durch das Wort „Lebensversicherung“ zu ersetzen ist und die Information unter Nummer 10 entfällt. Bei der Unfallversicherung mit Prämienrückgewähr gilt dies mit der Maßgabe, dass das Wort „Berufsunfähigkeitsversicherung“ jeweils durch die Wörter „Unfallversicherung mit Prämienrückgewähr“ zu ersetzen ist und nur die Informationen in den Nummern 3 bis 8 aufzunehmen sind. |
+|  | Die Information unter Nummer 7 ist nur einzufügen bei der fondsgebundenen Lebens- oder Berufsunfähigkeitsversicherung oder der fondsgebundenen Unfallversicherung mit Prämienrückgewähr. Die Information unter Nummer 9 ist nur einzufügen bei Lebens- und Berufsunfähigkeitsversicherungsverträgen, die Versicherungsschutz für ein Risiko bieten, bei dem der Eintritt der Verpflichtung des Versicherers gewiss ist. Bei Übernahme der Informationen unter Nummer 7 oder Nummer 9 entfällt der Kursivdruck. |
+|  | Werden Informationen gemäß den vorstehenden Vorgaben nicht aufgenommen, ist die fortlaufende Nummerierung entsprechend anzupassen (wird beispielsweise Nummer 7 nicht übernommen, wird Nummer 8 zu Nummer 7 etc.). Die letzte in die Widerrufsbelehrung aufgenommene Information in diesem Unterabschnitt soll mit dem Satzzeichen „.“ abschließen. |
+|  | Dieser Unterabschnitt ist nur einzufügen bei der substitutiven Krankenversicherung. Handelt es sich um den zweiten Unterabschnitt, so ist die Überschrift **„Unterabschnitt 3“** durch die Überschrift **„Unterabschnitt 2“** zu ersetzen. |
+|  | Bei Belehrung der versicherten Person eines Vertrages nach § 7a Absatz 5 Satz 3 und 4 VVG lautet der Klammerzusatz „der versicherten Person“. |
+|  | Ort, Datum und Unterschriftsleiste können entfallen. In diesem Fall sind die Angaben entweder durch die Wörter „Ende der Widerrufsbelehrung“ oder durch die Wörter „Ihr(e) [einsetzen: Firma des Versicherers]“ zu ersetzen. |
 

@@ -1,6 +1,5 @@
 ---
-Title: Anordnung über die Ernennung und Entlassung der Bundesbeamtinnen und Bundesbeamten
-  im Geschäftsbereich des Bundesministeriums für Gesundheit
+Title: Anordnung über die Ernennung und Entlassung der Bundesbeamtinnen und Bundesbeamten im Geschäftsbereich des Bundesministeriums für Gesundheit
 jurabk: BMinGErnAnO
 layout: default
 origslug: bmingernano
@@ -27,37 +26,30 @@ Bundesbeamtinnen und Bundesbeamten bis zur Besoldungsgruppe A 15 der
 Bundesbesoldungsordnung A (Anlage I des Bundesbesoldungsgesetzes)
 widerruflich übertragen auf:
 
-–   die Direktorin oder den Direktor der Bundeszentrale für
+– die Direktorin oder den Direktor der Bundeszentrale für
     gesundheitliche Aufklärung,
 
-
-–   die Direktorin oder den Direktor des Deutschen Instituts für
+– die Direktorin oder den Direktor des Deutschen Instituts für
     medizinische Dokumentation und Information,
 
-
-–   die Präsidentin und Professorin oder den Präsidenten und Professor des
+– die Präsidentin und Professorin oder den Präsidenten und Professor des
     Bundesinstituts für Arzneimittel und Medizinprodukte,
 
-
-–   die Präsidentin und Professorin oder den Präsidenten und Professor des
+– die Präsidentin und Professorin oder den Präsidenten und Professor des
     Paul-Ehrlich-Instituts,
 
-
-–   die Präsidentin und Professorin oder den Präsidenten und Professor des
+– die Präsidentin und Professorin oder den Präsidenten und Professor des
     Robert Koch-Instituts.
-
-
-
 
 
 ## II.
 
-Diese Anordnung ist ab dem Tag nach der Verkündung anzuwenden. Von
-diesem Zeitpunkt an ist die Anordnung über die Ernennung und
+Diese Anordnung ist ab dem Tag nach der Verkündung anzuwenden.
+Von diesem Zeitpunkt an ist die Anordnung über die Ernennung und
 Entlassung der Bundesbeamtinnen und Bundesbeamten im Geschäftsbereich
-des Bundesministeriums für Gesundheit und Soziale Sicherung vom 6. Mai
-2003 (BGBl. I S. 678) nicht mehr anzuwenden, soweit sie Regelungen für
-die Beamtinnen und Beamten der Bundeszentrale für gesundheitliche
+des Bundesministeriums für Gesundheit und Soziale Sicherung vom 6.
+Mai 2003 (BGBl. I S. 678) nicht mehr anzuwenden, soweit sie Regelungen
+für die Beamtinnen und Beamten der Bundeszentrale für gesundheitliche
 Aufklärung, des Deutschen Instituts für medizinische Dokumentation und
 Information, des Bundesinstituts für Arzneimittel und Medizinprodukte,
 des Paul-Ehrlich-Instituts und des Robert Koch-Instituts enthält.

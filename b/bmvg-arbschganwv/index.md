@@ -1,7 +1,5 @@
 ---
-Title: Verordnung über die modifizierte Anwendung von Vorschriften des Arbeitsschutzgesetzes
-  für bestimmte Tätigkeiten im öffentlichen Dienst des Bundes im Geschäftsbereich
-  des Bundesministeriums der Verteidigung
+Title: Verordnung über die modifizierte Anwendung von Vorschriften des Arbeitsschutzgesetzes für bestimmte Tätigkeiten im öffentlichen Dienst des Bundes im Geschäftsbereich des Bundesministeriums der Verteidigung
 jurabk: BMVg-ArbSchGAnwV
 layout: default
 origslug: bmvg-arbschganwv
@@ -18,14 +16,13 @@ Fundstelle
 :   BGBl I: 2002, 1850
 
 
-
 ## Eingangsformel
 
 Auf Grund des § 20 Abs. 2 Satz 1 bis 3 des Arbeitsschutzgesetzes vom
 7\. August 1996 (BGBl. I S. 1246), der durch Artikel 210 Nr. 1 der
-Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785) geändert worden ist,
-verordnet das Bundesministerium der Verteidigung im Einvernehmen mit
-dem Bundesministerium für Arbeit und Sozialordnung und dem
+Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785) geändert worden
+ist, verordnet das Bundesministerium der Verteidigung im Einvernehmen
+mit dem Bundesministerium für Arbeit und Sozialordnung und dem
 Bundesministerium des Innern:
 
 
@@ -38,9 +35,9 @@ der Verteidigung.
 ## § 2 Pflichten des Arbeitgebers
 
 Die Bundesrepublik Deutschland, vertreten durch das Bundesministerium
-der Verteidigung, ist verpflichtet, die Zielsetzung des § 1 Abs. 1
-Satz 1 des Arbeitsschutzgesetzes für die in § 2 Abs. 2 des
-Arbeitsschutzgesetzes genannten Beschäftigten in seinem
+der Verteidigung, ist verpflichtet, die Zielsetzung des § 1
+Abs. 1 Satz 1 des Arbeitsschutzgesetzes für die in § 2 Abs.
+2 des Arbeitsschutzgesetzes genannten Beschäftigten in seinem
 Geschäftsbereich auch dann zu erreichen, wenn die Ausübung der in
 dieser Verordnung genannten Tätigkeiten nicht ohne ein Abweichen von
 Vorschriften des Arbeitsschutzgesetzes möglich ist.
@@ -55,24 +52,20 @@ oder durch ein anderes Gesetz zugewiesenen Aufgaben
 1.  als Einsatztätigkeiten bei unmittelbaren Einsätzen im Verteidigungs-
     und Spannungsfall, bei Verwendungen im Rahmen eines Systems
     gegenseitiger kollektiver Sicherheit, zur Hilfe bei einer
-    Naturkatastrophe oder bei einem besonders schweren Unglücksfall sowie
-    beim Vollzug sonstiger gesetzlicher Aufgaben, insbesondere Gefechts-,
-    Aufklärungs- und Überwachungshandlungen sowie Wach- und
+    Naturkatastrophe oder bei einem besonders schweren Unglücksfall
+    sowie beim Vollzug sonstiger gesetzlicher Aufgaben, insbesondere
+    Gefechts-, Aufklärungs- und Überwachungshandlungen sowie Wach- und
     Sicherungsaufgaben,
-
 
 2.  als Einsatzunterstützungstätigkeiten bei den Maßnahmen zur
     Sicherstellung unmittelbarer Einsätze, insbesondere logistischer
-    Unterstützung, Führungs- und Fernmeldeunterstützung, Erbringung von
-    Leistungen zur Betreuung und Fürsorge sowie administrativer
+    Unterstützung, Führungs- und Fernmeldeunterstützung, Erbringung
+    von Leistungen zur Betreuung und Fürsorge sowie administrativer
     Unterstützung, und
 
-
-3.  als Einsatzvorbereitungstätigkeiten bei allen auf den Einsatz- und die
-    Einsatzunterstützung bezogenen, diesen vorausgehenden Handlungen,
+3.  als Einsatzvorbereitungstätigkeiten bei allen auf den Einsatz- und
+    die Einsatzunterstützung bezogenen, diesen vorausgehenden Handlungen,
     insbesondere Übungen und Ausbildungen,
-
-
 
 aus.
 
@@ -96,11 +89,11 @@ den Dienststellenleiter, festgestellt.
 
 ## § 5 Gewährleistung der Sicherheit und des Gesundheitsschutzes
 
-(1) Die bei Abweichen von Vorschriften des Arbeitsschutzgesetzes zu
-treffenden Schutzvorkehrungen müssen einen den Umständen nach
+(1) Die bei Abweichen von Vorschriften des Arbeitsschutzgesetzes
+zu treffenden Schutzvorkehrungen müssen einen den Umständen nach
 größtmöglichen Schutz der Beschäftigten gewährleisten. Einschränkungen
-des nach dem Arbeitsschutzgesetz vorgesehenen Schutzniveaus sind nach
-Art, Umfang und Dauer auf das unumgänglich notwendige Maß zu
+des nach dem Arbeitsschutzgesetz vorgesehenen Schutzniveaus sind
+nach Art, Umfang und Dauer auf das unumgänglich notwendige Maß zu
 beschränken.
 
 (2) Sofern von Vorschriften des Arbeitsschutzgesetzes abgewichen
@@ -113,13 +106,13 @@ Arbeitsschutzgesetzes durch das Bundesministerium der Verteidigung
 oder den jeweiligen Dienststellenleiter zu ermitteln, unter
 Berücksichtigung der Schutzziele des Arbeitsschutzgesetzes zu
 beurteilen und geeignete Maßnahmen zum Schutz der Beschäftigten
-vorzusehen. Das bestellte Fachpersonal für Arbeitssicherheit ist zu
-hören. Geeignete Maßnahmen zum Schutz der Beschäftigten sind
-insbesondere die Gestaltung, Auswahl und Nutzung von
+vorzusehen. Das bestellte Fachpersonal für Arbeitssicherheit
+ist zu hören. Geeignete Maßnahmen zum Schutz der Beschäftigten
+sind insbesondere die Gestaltung, Auswahl und Nutzung von
 tätigkeitsspezifischen Schutzeinrichtungen, Fahrzeugen und Geräten
 sowie Schutzvorkehrungen, das Bereitstellen eines angemessenen
-Informations-, Schulungs- und Trainingsangebots, das Festlegen von
-Eignungsvoraussetzungen für die Ausübung der Tätigkeiten. Die
+Informations-, Schulungs- und Trainingsangebots, das Festlegen
+von Eignungsvoraussetzungen für die Ausübung der Tätigkeiten. Die
 festgelegten Maßnahmen sind im Einzelnen zu beschreiben und nach § 6
 des Arbeitsschutzgesetzes zu dokumentieren.
 

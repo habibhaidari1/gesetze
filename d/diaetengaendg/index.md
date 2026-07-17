@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zur Änderung des Gesetzes über die Entschädigung der Mitglieder des
-  Bundestages
+Title: Gesetz zur Änderung des Gesetzes über die Entschädigung der Mitglieder des Bundestages
 jurabk: DiätenGÄndG
 layout: default
 origslug: di_teng_ndg
@@ -17,23 +16,21 @@ Fundstelle
 :   BGBl I: 1972, 993
 
 
-
 ## Art I
 
 
-
-## § 1
+### § 1
 
 -
 
 
-## § 2
+### § 2
 
 § 1 Nr. 1 und 2 gilt auch für die vor dem Inkrafttreten aus dem
 Bundestag ausgeschiedenen Mitglieder sowie für ihre Hinterbliebenen.
 
 
-## § 3
+### § 3
 
 -
 

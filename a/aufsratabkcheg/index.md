@@ -1,8 +1,5 @@
 ---
-Title: Gesetz zu dem Vertrag zwischen der Bundesrepublik Deutschland und der Schweizerischen
-  Eidgenossenschaft über die Regelung von Fragen, welche die Aufsichtsräte der in
-  der Bundesrepublik Deutschland zum Betrieb von Grenzkraftwerken am Rhein errichteten
-  Aktiengesellschaften betreffen
+Title: Gesetz zu dem Vertrag zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft über die Regelung von Fragen, welche die Aufsichtsräte der in der Bundesrepublik Deutschland zum Betrieb von Grenzkraftwerken am Rhein errichteten Aktiengesellschaften betreffen
 jurabk: AufsRatAbkCHEG
 layout: default
 origslug: aufsratabkcheg
@@ -40,13 +37,13 @@ deren Unternehmensgegenstand der Betrieb deutsch-schweizerischer
 Grenzkraftwerke am Rhein ist, folgendes bestimmt:
 
 
-## § 1
+### § 1
 
 (1) An allen Sitzungen des Aufsichtsrats können in Unternehmen mit in
 der Regel nicht mehr als 150 Arbeitnehmern zwei Arbeitnehmervertreter,
 in Unternehmen mit in der Regel mehr als 150 Arbeitnehmern drei
-Arbeitnehmervertreter beratend und ohne Stimmrecht teilnehmen. An den
-Sitzungen der Ausschüsse des Aufsichtsrats können die
+Arbeitnehmervertreter beratend und ohne Stimmrecht teilnehmen.
+An den Sitzungen der Ausschüsse des Aufsichtsrats können die
 Arbeitnehmervertreter teilnehmen, wenn der Vorsitzer des Aufsichtsrats
 nicht etwas anderes bestimmt.
 
@@ -56,7 +53,7 @@ nach Absatz 1 teilnehmen können, einzuladen.
 (3) Die Arbeitnehmervertreter sind nicht Mitglieder des Aufsichtsrats.
 
 
-## § 2
+### § 2
 
 (1) Die Arbeitnehmervertreter werden in allgemeiner, geheimer,
 gleicher und unmittelbarer Wahl für die Dauer von vier Jahren gewählt.
@@ -64,8 +61,8 @@ gleicher und unmittelbarer Wahl für die Dauer von vier Jahren gewählt.
 (2) Wahlberechtigt sind alle Arbeitnehmer des Unternehmens, die das
 18\. Lebensjahr vollendet haben.
 
-(3) Wählbar sind alle wahlberechtigten Arbeitnehmer des Unternehmens,
-die das 21. Lebensjahr vollendet haben. Unter den
+(3) Wählbar sind alle wahlberechtigten Arbeitnehmer des
+Unternehmens, die das 21. Lebensjahr vollendet haben. Unter den
 Arbeitnehmervertretern eines Unternehmens müssen sich ein Arbeiter und
 ein Angestellter befinden.
 
@@ -83,7 +80,7 @@ einer Mehrheit, die mindestens drei Viertel der abgegebenen Stimmen
 umfaßt. Für die Beschlußfassung gilt Absatz 1 entsprechend.
 
 
-## § 3
+### § 3
 
 Die Arbeitnehmervertreter erhalten keine andere Vergütung als eine von
 der Hauptversammlung festzusetzende Aufwandsentschädigung. Notwendige
@@ -91,7 +88,7 @@ Versäumnis von Arbeitszeit infolge der Teilnahme an den Sitzungen
 berechtigt nicht zur Minderung des Arbeitsentgelts.
 
 
-## § 4
+### § 4
 
 Die Arbeitnehmervertreter haben über vertrauliche Angaben oder
 Betriebs- und Geschäftsgeheimnisse, die ihnen wegen ihrer Tätigkeit
@@ -101,12 +98,12 @@ auch nach Beendigung ihrer Bestellung oder nach ihrem Ausscheiden aus
 dem Unternehmen Stillschweigen gegenüber jedermann zu wahren.
 
 
-## § 5
+### § 5
 
 (1) Wer unbefugt ein fremdes Betriebs- oder Geschäftsgeheimnis
 offenbart, das ihm in seiner Eigenschaft als Arbeitnehmervertreter
-bekanntgeworden und vom Vorsitzer des Aufsichtsrats ausdrücklich als
-geheimhaltungsbedürftig bezeichnet worden ist, wird mit
+bekanntgeworden und vom Vorsitzer des Aufsichtsrats ausdrücklich
+als geheimhaltungsbedürftig bezeichnet worden ist, wird mit
 Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
 
 (2) Handelt der Täter gegen Entgelt oder in der Absicht, sich oder
@@ -119,7 +116,7 @@ verwertet.
 (3) Die Tat wird nur auf Antrag der Gesellschaft verfolgt.
 
 
-## § 6
+### § 6
 
 Zur Regelung der in § 2 bezeichneten Wahlen und Abstimmungen erläßt
 die Bundesregierung durch Rechtsverordnung, die nicht der Zustimmung
@@ -128,54 +125,38 @@ des Bundesrates bedarf, Vorschriften über
 a)  die Vorbereitung der Wahl, insbesondere die Bestellung des
     Wahlvorstands und die Aufstellung der Wählerlisten,
 
-
 b)  die Frist für die Einsichtnahme in die Wählerlisten und die Erhebung
     von Einsprüchen,
 
-
 c)  die Wahlvorschläge und die Frist für ihre Einreichung,
-
 
 d)  das Wahlausschreiben und die Fristen für seine Bekanntmachung,
 
-
 e)  die Stimmabgabe,
-
 
 f)  die Feststellung des Wahlergebnisses und die Fristen für seine
     Bekanntmachung,
 
-
 g)  die Anfechtung der Wahl,
 
-
 h)  die Aufbewahrung der Wahlakten,
-
 
 i)  den Widerruf der Bestellung der Arbeitnehmervertreter.
 
 
-
-
-
-## § 7
+### § 7
 
 (1) Die Arbeitsgerichte sind ausschließlich zuständig für die
 Entscheidung über
 
 a)  die Wahlberechtigung und die Wählbarkeit,
 
-
 b)  die Durchführung der Wahl der Arbeitnehmervertreter und der Abstimmung
     über den Widerruf der Bestellung eines Arbeitnehmervertreters,
 
-
-c)  die Anfechtung der Wahl von Arbeitnehmervertretern und die Anfechtung
-    der Abstimmung über den Widerruf der Bestellung eines
+c)  die Anfechtung der Wahl von Arbeitnehmervertretern und die
+    Anfechtung der Abstimmung über den Widerruf der Bestellung eines
     Arbeitnehmervertreters.
-
-
-
 
 (2) Die Vorschriften des Arbeitsgerichtsgesetzes über das
 Beschlußverfahren für die Fälle des Betriebsverfassungsgesetzes finden

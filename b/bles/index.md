@@ -22,7 +22,6 @@ Geändert durch
 ## Erster Abschnitt - Aufbau und Geschäftsführung
 
 
-
 ### § 1 Aufbau der Anstalt
 
 Die Bundesanstalt für Landwirtschaft und Ernährung (Bundesanstalt)
@@ -71,54 +70,43 @@ durch die Geschäftsordnung geregelt.
 ## Zweiter Abschnitt - Verwaltungsrat
 
 
-
 ### § 4 Berufung der Mitglieder des Verwaltungsrates und ihrer Stellvertreter
 
 (1) Die Vertreter der in § 5 Abs. 1 des Gesetzes genannten
 Wirtschaftsgruppen werden durch folgende Bundesverbände namentlich
 vorgeschlagen:
 
-1.  die Vertreter der Landwirtschaft einschließlich des Gartenbaus, des
-    Weinbaus, der Forstwirtschaft sowie der Fischwirtschaft durch den
-    Deutschen Bauernverband e.V. im Einvernehmen mit dem Zentralverband
-    Gartenbau e.V., dem Deutschen Weinbauverband e.V., dem Deutschen
-    Forstwirtschaftsrat e.V. und dem Bundesmarktverband der
+1.  die Vertreter der Landwirtschaft einschließlich des Gartenbaus,
+    des Weinbaus, der Forstwirtschaft sowie der Fischwirtschaft
+    durch den Deutschen Bauernverband e.V. im Einvernehmen mit dem
+    Zentralverband Gartenbau e.V., dem Deutschen Weinbauverband e.V.,
+    dem Deutschen Forstwirtschaftsrat e.V. und dem Bundesmarktverband der
     Fischwirtschaft e.V.,
-
 
 2.  je ein Vertreter der Verbraucher durch den Deutschen
     Gewerkschaftsbund, die Deutsche Angestellten-Gewerkschaft und die
     Arbeitsgemeinschaft der Verbraucherverbände e.V.,
 
-
-3.  die Vertreter des Groß- und Außenhandels durch den Bundesverband des
-    Deutschen Groß- und Außenhandels e.V. im Einvernehmen mit dem
+3.  die Vertreter des Groß- und Außenhandels durch den Bundesverband
+    des Deutschen Groß- und Außenhandels e.V. im Einvernehmen mit dem
     Zentralverband gewerblicher Verbundgruppen e.V.,
-
 
 4.  die Vertreter des Einzelhandels durch den Bundesverband des Deutschen
     Lebensmittel-Einzelhandels e.V. im Einvernehmen mit dem Bundesverband
     der Filialbetriebe und Selbstbedienungs-Warenhäuser e.V. und dem
     Bundesverband deutscher Konsumgenossenschaften e.V.,
 
-
 5.  die Vertreter des Ernährungshandwerks durch den Zentralverband des
     Deutschen Handwerks,
-
 
 6.  die Vertreter der Ernährungsindustrie durch die Bundesvereinigung der
     Deutschen Ernährungsindustrie e.V.,
 
-
 7.  die Vertreter der landwirtschaftlichen Genossenschaften durch den
     Deutschen Raiffeisenverband e.V.,
 
-
 8.  der Vertreter des Landwarenhandels durch den Zentralverband des
     Deutschen Getreide-, Futter- und Düngemittelhandels e.V.
-
-
-
 
 (2) Für alle Mitglieder des Verwaltungsrates im Sinne des § 5 Abs. 1
 des Gesetzes ist für den Fall ihrer Verhinderung ein Stellvertreter
@@ -131,8 +119,8 @@ entsprechend.
 
 (1) Zur Erfüllung der dem Verwaltungsrat nach § 6 des Gesetzes
 obliegenden Aufgaben ist der Verwaltungsrat berechtigt, vom
-Präsidenten über die Tätigkeit der Anstalt unterrichtet zu werden. Ihm
-steht insoweit gegenüber dem Präsidenten ein Recht auf
+Präsidenten über die Tätigkeit der Anstalt unterrichtet zu
+werden. Ihm steht insoweit gegenüber dem Präsidenten ein Recht auf
 Auskunftserteilung und auf Anhörung zu.
 
 (2) Das Bundesministerium kann verlangen, daß der Verwaltungsrat ihm
@@ -174,9 +162,9 @@ Abstimmung in eigener Sache nicht beteiligen.
 
 (7) Die Mitglieder des Verwaltungsrates erhalten Reisekostenvergütung
 nach den Richtlinien des Bundesministeriums der Finanzen über die
-Abfindung der Mitglieder von Beiräten, Ausschüssen, Kommissionen und
-ähnlichen Einrichtungen im Bereich des Bundes vom 9. November 1981
-(GMBl. S. 515), zuletzt geändert durch das Rundschreiben des
+Abfindung der Mitglieder von Beiräten, Ausschüssen, Kommissionen
+und ähnlichen Einrichtungen im Bereich des Bundes vom 9. November
+1981 (GMBl. S. 515), zuletzt geändert durch das Rundschreiben des
 Bundesministeriums der Finanzen vom 19. März 1997 (GMBl. S. 172).
 Sitzungsvergütung wird nicht gewährt.
 
@@ -192,7 +180,6 @@ ist zulässig. Das Nähere regelt die Geschäftsordnung.
 ## Dritter Abschnitt - Fachbeiräte
 
 
-
 ### § 9 Einsetzung und Zusammensetzung von Fachbeiräten
 
 (1) Der Verwaltungsrat beschließt über die Einsetzung und
@@ -202,10 +189,10 @@ warenbezogene Aufteilung von Fachbeiräten.
 nach Maßgabe des § 7 Abs. 1 Satz 2 des Gesetzes vom Verwaltungsrat für
 jeden Fachbereich gesondert festgelegt. § 4 Abs. 2 gilt entsprechend.
 
-(3) Das Bundesministerium und die Obersten Landesbehörden für
-Ernährung, Landwirtschaft und Forsten entsenden Vertreter in den
-jeweiligen Fachbeirat. Die Zahl der Vertreter der Obersten
-Landesbehörden beträgt höchstens drei. Vertreter des
+(3) Das Bundesministerium und die Obersten Landesbehörden
+für Ernährung, Landwirtschaft und Forsten entsenden Vertreter
+in den jeweiligen Fachbeirat. Die Zahl der Vertreter der
+Obersten Landesbehörden beträgt höchstens drei. Vertreter des
 Bundesministeriums stimmen nicht ab.
 
 (4) Der Fachbeirat wählt aus seiner Mitte mit der Mehrheit seiner
@@ -238,10 +225,10 @@ nicht öffentlich.
 
 (2) Die Sitzungen der Fachbeiräte werden vom Vorsitzenden einberufen.
 Der Fachbeirat ist einzuberufen, wenn mindestens ein Viertel der
-Mitglieder des Fachbeirates, der Verwaltungsrat oder der Präsident es
-beantragen. Der Präsident oder ein von ihm hierfür benannter Vertreter
-der Anstalt haben das Recht, an den Sitzungen teilzunehmen. Andere
-Personen werden zu den Sitzungen hinzugezogen, wenn das
+Mitglieder des Fachbeirates, der Verwaltungsrat oder der Präsident
+es beantragen. Der Präsident oder ein von ihm hierfür benannter
+Vertreter der Anstalt haben das Recht, an den Sitzungen teilzunehmen.
+Andere Personen werden zu den Sitzungen hinzugezogen, wenn das
 Bundesministerium oder der Präsident es wünschen oder der Vorsitzende
 deren Teilnahme für sachdienlich hält.
 
@@ -255,7 +242,6 @@ Sitzungsvergütung gewährt.
 
 
 ## Vierter Abschnitt - Wirtschaftsführung
-
 
 
 ### § 12 Verwaltungshaushalt, Haushaltsführung
@@ -289,8 +275,8 @@ Grundsätzen der Bundeshaushaltsordnung aufzustellen.
 (3) Das Bundesministerium bestimmt den Zeitpunkt für die Erstellung
 und Vorlage des Wirtschaftsplanes.
 
-(4) Für die Wirtschaftsführung sowie die Rechnungslegung gelten die
-Vorschriften der Bundeshaushaltsordnung und die hierzu jeweils
+(4) Für die Wirtschaftsführung sowie die Rechnungslegung gelten
+die Vorschriften der Bundeshaushaltsordnung und die hierzu jeweils
 erlassenen Durchführungsvorschriften. Die Bücher sind nach den
 Grundsätzen ordnungsmäßiger Buchführung einzurichten und zu führen.
 
@@ -304,12 +290,8 @@ Einwilligung des Bundesministeriums.
 a)  zum 1. Februar eine Nachweisung über die im letzten Geschäftsjahr
     tatsächlich in Anspruch genommenen Mittel,
 
-
 b)  zum 1. Juli die Bilanz, die Gewinn- und Verlustrechnung sowie der
     Geschäftsbericht für das abgelaufene Geschäftsjahr.
-
-
-
 
 
 ### § 14 Kreditaufnahme
@@ -322,11 +304,10 @@ Einvernehmen mit dem Bundesministerium der Finanzen geregelt.
 ## Fünfter Abschnitt - Übergangsbestimmungen
 
 
-
 ### § 15 Übergangsregelungen
 
 Für die Dauer der Übergangszeit nach § 15 Abs. 1 des Gesetzes nehmen
-der Präsident, der Vizepräsident sowie die ständigen Vertreter die
-Funktionen der Abteilungsleiter wahr. Ausnahmen bestimmt das
+der Präsident, der Vizepräsident sowie die ständigen Vertreter
+die Funktionen der Abteilungsleiter wahr. Ausnahmen bestimmt das
 Bundesministerium durch Erlaß.
 

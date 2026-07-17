@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über bauliche Mindestanforderungen für Altenheime, Altenwohnheime
-  und Pflegeheime für Volljährige
+Title: Verordnung über bauliche Mindestanforderungen für Altenheime, Altenwohnheime und Pflegeheime für Volljährige
 jurabk: HeimMindBauV
 layout: default
 origslug: heimmindbauv
@@ -24,7 +23,6 @@ Geändert durch
 
 
 ## Erster Teil - Gemeinsame Vorschriften
-
 
 
 ### § 1 Anwendungsbereich
@@ -52,15 +50,15 @@ einer geeigneten Rampe angeordnet sind.
 Pflegeplätzen so bemessen sein, daß auf ihnen bettlägerige Bewohner
 transportiert werden können.
 
-(3) Flure und Treppen sind an beiden Seiten mit festen Handläufen zu
-versehen.
+(3) Flure und Treppen sind an beiden Seiten mit festen Handläufen
+zu versehen.
 
 
 ### § 4 Aufzüge
 
 In Einrichtungen, in denen bei regelmäßiger Benutzung durch die
-Bewohner mehr als eine Geschoßhöhe zu überwinden ist oder in denen
-Rollstuhlbenutzer in nicht stufenlos zugänglichen Geschossen
+Bewohner mehr als eine Geschoßhöhe zu überwinden ist oder in
+denen Rollstuhlbenutzer in nicht stufenlos zugänglichen Geschossen
 untergebracht sind, muß mindestens ein Aufzug vorhanden sein. Art,
 Größe und Ausstattung des Aufzugs müssen den Bedürfnissen der Bewohner
 entsprechen.
@@ -147,32 +145,28 @@ erreichbar sein. Der Zugang muß beleuchtbar sein.
 ## Zweiter Teil - Besondere Vorschriften
 
 
-
 ### Erster Abschnitt - Altenheime und gleichartige Einrichtungen
-
 
 
 #### § 14 Wohnplätze
 
 (1) Wohnplätze für eine Person müssen mindestens einen Wohnschlafraum
-mit einer Wohnfläche von 12 m
-2              Wohnplätze für zwei Personen einen solchen mit einer
-Wohnfläche von 18 m
-2              umfassen. Wohnplätze für mehr als zwei Personen sind
-nur ausnahmsweise mit Zustimmung der zuständigen Behörde, Wohnplätze
-für mehr als vier Personen sind nicht zulässig. Für die dritte oder
-vierte Person muß die zusätzliche Wohnfläche wenigstens je 6 m
-2              betragen.
+mit einer Wohnfläche von 12 m2 Wohnplätze für zwei Personen einen
+solchen mit einer Wohnfläche von 18 m2 umfassen. Wohnplätze für
+mehr als zwei Personen sind nur ausnahmsweise mit Zustimmung der
+zuständigen Behörde, Wohnplätze für mehr als vier Personen sind
+nicht zulässig. Für die dritte oder vierte Person muß die zusätzliche
+Wohnfläche wenigstens je 6 m2 betragen.
 
 (2) Für die Berechnung der Wohnflächen nach Absatz 1 gelten die
-Vorschriften der Wohnflächenverordnung vom 25. November 2003 (BGBl. I
-S. 2346) entsprechend. Beheizbare und unbeheizbare Wintergärten,
+Vorschriften der Wohnflächenverordnung vom 25. November 2003 (BGBl.
+I S. 2346) entsprechend. Beheizbare und unbeheizbare Wintergärten,
 Schwimmbäder und ähnliche nach allen Seiten geschlossene Räume sowie
 Balkone, Loggien, Dachgärten und Terrassen werden nicht angerechnet.
 
 (3) Wohnplätze für bis zu zwei Personen müssen über einen Waschtisch
-mit Kalt- und Warmwasseranschluß verfügen. Bei Wohnplätzen für mehr
-als zwei Personen muß ein zweiter Waschtisch mit Kalt- und
+mit Kalt- und Warmwasseranschluß verfügen. Bei Wohnplätzen für
+mehr als zwei Personen muß ein zweiter Waschtisch mit Kalt- und
 Warmwasseranschluß vorhanden sein.
 
 
@@ -182,19 +176,13 @@ Warmwasseranschluß vorhanden sein.
 
 1.  ausreichende Kochgelegenheiten für die Bewohner,
 
-
 2.  ein Abstellraum für die Sachen der Bewohner,
-
 
 3.  in Einrichtungen mit Mehrbettzimmern ein Einzelzimmer im Sinne des §
     14 zur vorübergehenden Nutzung durch Bewohner,
 
-
 4.  ein Leichenraum, wenn nicht eine kurzfristige Überführung der Leichen
     sichergestellt ist.
-
-
-
 
 (2) Besteht die Einrichtung aus mehreren Gebäuden, müssen die
 Anforderungen nach Absatz 1 Nr. 1 und 3 in jedem Gebäude erfüllt
@@ -203,13 +191,12 @@ werden.
 
 #### § 16 Gemeinschaftsräume
 
-(1) Die Einrichtung muß mindestens einen Gemeinschaftsraum von 20 m
-2              Nutzfläche haben. In Einrichtungen mit mehr als 20
-Bewohnern muß eine Nutzfläche von mindestens 1 m
-2              je Bewohner zur Verfügung stehen.
+(1) Die Einrichtung muß mindestens einen Gemeinschaftsraum von 20 m2
+Nutzfläche haben. In Einrichtungen mit mehr als 20 Bewohnern muß eine
+Nutzfläche von mindestens 1 m2 je Bewohner zur Verfügung stehen.
 
-(2) Bei der Berechnung der Fläche nach Absatz 1 können Speiseräume, in
-Ausnahmefällen auch andere geeignete Räume und Flure, insbesondere
+(2) Bei der Berechnung der Fläche nach Absatz 1 können Speiseräume,
+in Ausnahmefällen auch andere geeignete Räume und Flure, insbesondere
 Wohnflure, angerechnet werden. Treppen, sonstige Verkehrsflächen,
 Loggien und Balkone werden nicht berücksichtigt.
 
@@ -239,30 +226,27 @@ aufzustellen.
 ### Zweiter Abschnitt - Altenwohnheime und gleichartige Einrichtungen
 
 
-
 #### § 19 Wohnplätze
 
 (1) Wohnplätze für eine Person müssen mindestens einen Wohnschlafraum
-mit einer Wohnfläche von 12 m
-2              ferner eine Küche, eine Kochnische oder einen
-Kochschrank umfassen und über einen Sanitärraum mit Waschtisch mit
-Kalt- und Warmwasseranschluß und Spülklosett verfügen. Bei Wohnplätzen
-für zwei Personen muß die Wohnfläche des Wohnschlafraumes oder
-getrennter Wohn- und Schlafräume mindestens 18 m
-2              betragen.
+mit einer Wohnfläche von 12 m2 ferner eine Küche, eine Kochnische oder
+einen Kochschrank umfassen und über einen Sanitärraum mit Waschtisch
+mit Kalt- und Warmwasseranschluß und Spülklosett verfügen. Bei
+Wohnplätzen für zwei Personen muß die Wohnfläche des Wohnschlafraumes
+oder getrennter Wohn- und Schlafräume mindestens 18 m2 betragen.
 
 (2) Für Wohnplätze mit mehr als zwei Personen gilt § 14 Abs. 1 Satz 2
 und 3, Abs. 3 Satz 2 entsprechend.
 
-(3) Bei der Berechnung der Wohnflächen nach Absatz 1 gilt § 14 Abs. 2
-entsprechend.
+(3) Bei der Berechnung der Wohnflächen nach Absatz 1 gilt § 14 Abs.
+2 entsprechend.
 
 
 #### § 20 Gemeinschaftsräume
 
 (1) § 16 gilt entsprechend mit der Maßgabe, daß je Heimbewohner
-Gemeinschaftsraum von mindestens 0,75 m
-2              Nutzfläche zur Verfügung stehen muß.
+Gemeinschaftsraum von mindestens 0,75 m2 Nutzfläche zur Verfügung
+stehen muß.
 
 (2) Sind in zumutbarer Entfernung außerhalb der Einrichtung geeignete
 Räume zur Gestaltung des gesellschaftlichen und kulturellen Lebens
@@ -276,12 +260,8 @@ In jeder Einrichtung müssen mindestens vorhanden sein:
 
 1.  ein Abstellraum für die Sachen der Heimbewohner,
 
-
 2.  besondere Wasch- und Trockenräume zur Benutzung durch die
     Heimbewohner.
-
-
-
 
 
 #### § 22 Sanitäre Anlagen
@@ -293,19 +273,15 @@ Badewanne oder eine Dusche zur Verfügung stehen.
 ### Dritter Abschnitt - Pflegeheime für Volljährige und gleichartige Einrichtungen
 
 
-
 #### § 23 Pflegeplätze
 
 (1) Pflegeplätze müssen mindestens einen Wohnschlafraum mit einer
-Wohnfläche von 12
-qm für einen Bewohner, 18
-qm für zwei, 24
-qm für drei und 30
-qm für vier Bewohner umfassen. Wohnschlafräume für mehr als vier
-Bewohner sind nicht zulässig.
+Wohnfläche von 12 qm für einen Bewohner, 18 qm für zwei, 24 qm für
+drei und 30 qm für vier Bewohner umfassen. Wohnschlafräume für mehr
+als vier Bewohner sind nicht zulässig.
 
-(2) Bei der Berechnung der Wohnflächen nach Absatz 1 gilt § 14 Abs. 2
-entsprechend.
+(2) Bei der Berechnung der Wohnflächen nach Absatz 1 gilt § 14 Abs.
+2 entsprechend.
 
 
 #### § 24 Funktions- und Zubehörräume
@@ -320,8 +296,8 @@ erforderlicher Zahl vorhanden sein.
 
 #### § 25 Gemeinschaftsräume
 
-§ 20 Abs. 1 gilt entsprechend. Die Nutzflächen müssen jedoch so
-angelegt sein, daß auch Bettlägerige an Veranstaltungen und
+§ 20 Abs. 1 gilt entsprechend. Die Nutzflächen müssen jedoch
+so angelegt sein, daß auch Bettlägerige an Veranstaltungen und
 Zusammenkünften teilnehmen können.
 
 
@@ -350,25 +326,23 @@ jeweiligen Geschoß vorgehalten werden.
 ### Vierter Abschnitt - Einrichtungen mit Mischcharakter
 
 
-
 #### § 28 Einrichtungen mit Mischcharakter
 
-Sind Teile einer Einrichtung mehreren Einrichtungsarten im Sinne des §
-1 Abs. 1 des Heimgesetzes zuzuordnen, so sind auf diese Teile die
-Anforderungen der Verordnung für die ihnen jeweils entsprechende
+Sind Teile einer Einrichtung mehreren Einrichtungsarten im Sinne
+des § 1 Abs. 1 des Heimgesetzes zuzuordnen, so sind auf diese Teile
+die Anforderungen der Verordnung für die ihnen jeweils entsprechende
 Einrichtungsart anzuwenden.
 
 
 ## Dritter Teil - Einrichtungen für behinderte Volljährige
 
 
-
 ### § 29 Einrichtungen für behinderte Volljährige
 
-(1) In Einrichtungen für behinderte Volljährige sind bei der Anwendung
-der Verordnung die besonderen Bedürfnisse der Bewohner, die sich
-insbesondere aus Art und Schwere der Behinderungen ergeben, zu
-berücksichtigen. Von Anforderungen der Verordnung kann insoweit
+(1) In Einrichtungen für behinderte Volljährige sind bei der
+Anwendung der Verordnung die besonderen Bedürfnisse der Bewohner,
+die sich insbesondere aus Art und Schwere der Behinderungen ergeben,
+zu berücksichtigen. Von Anforderungen der Verordnung kann insoweit
 abgewichen werden.
 
 (2) Als gleichartige Einrichtungen im Sinne des ersten und zweiten
@@ -379,15 +353,14 @@ für behinderte Volljährige.
 ## Vierter Teil - Fristen und Befreiungen
 
 
-
 ### § 30 Fristen zur Angleichung
 
-(1) Erfüllen Einrichtungen, die bei Inkrafttreten dieser Verordnung im
-Betrieb, im Bau oder im baureifen Planungsstadium sind, die
+(1) Erfüllen Einrichtungen, die bei Inkrafttreten dieser Verordnung
+im Betrieb, im Bau oder im baureifen Planungsstadium sind, die
 Mindestanforderungen der §§ 2 bis 29 nicht, so hat die zuständige
 Behörde zur Angleichung an die einzelnen Anforderungen angemessene
-Fristen einzuräumen. Die Frist für die Angleichung darf zehn Jahre vom
-Inkrafttreten der Verordnung an nicht überschreiten. Sie kann bei
+Fristen einzuräumen. Die Frist für die Angleichung darf zehn Jahre
+vom Inkrafttreten der Verordnung an nicht überschreiten. Sie kann bei
 Vorliegen eines wichtigen Grundes verlängert werden.
 
 (2) Für andere als die in Absatz 1 Satz 1 genannten Einrichtungen kann
@@ -400,8 +373,8 @@ Ausnahmefällen verlängert werden.
 
 ### § 31 Befreiungen
 
-(1) Ist dem Träger einer Einrichtung die Erfüllung der in den §§ 2 bis
-29 genannten Anforderungen technisch nicht möglich oder aus
+(1) Ist dem Träger einer Einrichtung die Erfüllung der in den §§
+2 bis 29 genannten Anforderungen technisch nicht möglich oder aus
 wirtschaftlichen Gründen nicht zumutbar, kann die zuständige Behörde
 auf Antrag ganz oder teilweise Befreiung erteilen, wenn die Befreiung
 mit den Interessen und Bedürfnissen der Bewohner vereinbar ist.
@@ -414,44 +387,35 @@ von der Verpflichtung zur Angleichung vorläufig befreit.
 ## Fünfter Teil - Ordnungswidrigkeiten und Schlußbestimmungen
 
 
-
 ### § 32 Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 17 Abs. 2 Nr. 1 des Heimgesetzes
 handelt, wer vorsätzlich oder fahrlässig entgegen § 1 eine Einrichtung
 betreibt, in der
 
-1.  die Mindestanforderungen an die Wohnplätze nach § 2, § 14 Abs. 1 oder
-    3 oder § 19 Abs. 1 oder 2 oder die Mindestanforderungen an die
+1.  die Mindestanforderungen an die Wohnplätze nach § 2, § 14 Abs. 1
+    oder 3 oder § 19 Abs. 1 oder 2 oder die Mindestanforderungen an die
     Pflegeplätze nach den §§ 2 oder 23 Abs. 1 nicht erfüllt sind,
-
 
 2.  Rufanlagen nach § 7 oder Fernsprecher nach § 8 nicht vorhanden sind,
 
-
 3.  die Wohn-, Schlaf- oder Sanitärräume entgegen § 9 Abs. 1 im Notfall
     nicht von außen zugänglich sind,
-
 
 4.  die Funktions- und Zubehörräume oder sanitären Anlagen nach § 15 Abs.
     1 Nr. 2 oder 4, § 18 Abs. 1 oder 2, § 21, § 22, § 24 Abs. 1 oder § 27
     Abs. 1 bis 3 nicht vorhanden sind,
 
-
 5.  die Gemeinschaftsräume nach § 16 Abs. 1, § 20 Abs. 1 oder § 25 Satz 1
     nicht vorhanden sind,
-
 
 6.  die Therapieräume nach § 17 oder § 26 nicht vorhanden sind.
 
 
-
-
-
 ### § 33 Nichtanwendung von Vorschriften
 
-Mit Inkrafttreten der Verordnung sind folgende Vorschriften, soweit
-sie Vorschriften über Mindestanforderungen für die Räume,
+Mit Inkrafttreten der Verordnung sind folgende Vorschriften,
+soweit sie Vorschriften über Mindestanforderungen für die Räume,
 Verkehrsflächen und sanitäre Anlagen enthalten, auf die Einrichtungen
 nach § 1 nicht mehr anzuwenden:
 
@@ -460,69 +424,56 @@ nach § 1 nicht mehr anzuwenden:
     Altenwohnheimen und Pflegeheimen (Heimverordnung - HeimVO -) vom 25.
     Februar 1970 (Gesetzblatt für Baden-Württemberg, S. 98),
 
-
-2.  die Verordnung des Bayerischen Staatsministeriums für Wirtschaft und
-    Verkehr über den gewerbsmäßigen Betrieb von Altenheimen,
+2.  die Verordnung des Bayerischen Staatsministeriums für Wirtschaft
+    und Verkehr über den gewerbsmäßigen Betrieb von Altenheimen,
     Altenwohnheimen und Pflegeheimen (Heimverordnung - HeimVO -) vom 23.
     August 1968 (Bayerisches Gesetz- und Verordnungsblatt, S. 319),
 
-
-3.  die Verordnung des Senats von Berlin über Mindestanforderungen und
-    Überwachungsmaßnahmen gegenüber gewerblichen Altenheimen,
+3.  die Verordnung des Senats von Berlin über Mindestanforderungen
+    und Überwachungsmaßnahmen gegenüber gewerblichen Altenheimen,
     Altenwohnheimen und Pflegeheimen für Volljährige vom 3. Oktober 1967
     (Gesetz- und Verordnungsblatt für Berlin, S. 1457),
-
 
 4.  die Verordnung des Senators für Wirtschaft und Außenhandel der Freien
     Hansestadt Bremen über den gewerbsmäßigen Betrieb von Altenheimen,
     Altenwohnheimen und Pflegeheimen (Heimverordnung - HeimVO -) vom 30.
     April 1968 (Gesetzblatt der Freien Hansestadt Bremen, S. 95),
 
-
-5.  die Verordnung des Senats der Freien und Hansestadt Hamburg über den
-    gewerbsmäßigen Betrieb von Altenheimen, Altenwohnheimen und
+5.  die Verordnung des Senats der Freien und Hansestadt Hamburg über
+    den gewerbsmäßigen Betrieb von Altenheimen, Altenwohnheimen und
     Pflegeheimen (Heimverordnung) vom 29. Oktober 1968 (Hamburgisches
     Gesetz- und Verordnungsblatt, S. 248),
 
-
-6.  die Verordnung des Hessischen Ministers für Arbeit, Volkswohlfahrt und
-    Gesundheitswesen über den gewerbsmäßigen Betrieb von Altenheimen,
+6.  die Verordnung des Hessischen Ministers für Arbeit, Volkswohlfahrt
+    und Gesundheitswesen über den gewerbsmäßigen Betrieb von Altenheimen,
     Altenwohnheimen und Pflegeheimen (Heimverordnung - HeimVO -) vom 7.
-    Oktober 1969 (Gesetz- und Verordnungsblatt I für das Land Hessen, S.
-    195),
+    Oktober 1969 (Gesetz- und Verordnungsblatt I für das Land Hessen,
+    S. 195),
 
-
-7.  die Verordnung des Niedersächsischen Ministers für Wirtschaft und
-    Verkehr über den gewerbsmäßigen Betrieb von Altenheimen,
+7.  die Verordnung des Niedersächsischen Ministers für Wirtschaft
+    und Verkehr über den gewerbsmäßigen Betrieb von Altenheimen,
     Altenwohnheimen und Pflegeheimen (Heimverordnung - HeimVO -) vom 3.
     Oktober 1968 (Niedersächsisches Gesetz- und Verordnungsblatt, S. 129),
-
 
 8.  die Verordnung des Landes Nordrhein-Westfalen über den gewerbsmäßigen
     Betrieb von Altenheimen, Altenwohnheimen und Pflegeheimen
     (Heimverordnung - HeimVO -) vom 25. Februar 1969 (Gesetz- und
     Verordnungsblatt des Landes Nordrhein-Westfalen, S. 142),
 
-
 9.  die Verordnung des Landes Rheinland-Pfalz über den gewerbsmäßigen
     Betrieb von Altenheimen, Altenwohnheimen und Pflegeheimen
     (Heimverordnung - HeimVO -) vom 25. Juli 1969 (Gesetz- und
     Verordnungsblatt für das Land Rheinland-Pfalz, S. 150),
 
-
 10. die Verordnung des Landes Saarland über den gewerbsmäßigen Betrieb von
     Altenheimen, Altenwohnheimen und Pflegeheimen (Heimverordnung - HeimVO
     -) vom 1. April 1969 (Amtsblatt des Saarlandes, S. 197) und
-
 
 11. die Verordnung des Ministers für Wirtschaft und Verkehr des Landes
     Schleswig-Holstein über den gewerbsmäßigen Betrieb von Altenheimen,
     Altenwohnheimen und Pflegeheimen (Heimverordnung - HeimVO -) vom 22.
     April 1969 (Gesetz- und Verordnungsblatt für Schleswig-Holstein, S.
     89).
-
-
-
 
 
 ### § 34 Berlin-Klausel
@@ -535,24 +486,14 @@ Verbindung mit § 24 des Heimgesetzes auch im Land Berlin.
 
 -
 
-Auszug aus EinigVtr Anlage I Kap. X Sachgebiet H Abschnitt III
 
-### Anhang EV (BGBl. II 1990, 889, 1096)
+### Anhang EV Auszug aus EinigVtr Anlage I Kap. X Sachgebiet H Abschnitt III (BGBl. II 1990, 889, 1096)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:
 ...
-
-13. Heimmindestbauverordnung in der Fassung der Bekanntmachung vom 3. Mai
-    1983 (BGBl. I S. 550)
-
-    mit folgender Maßgabe:
-
-    Für die Berechnung der Frist in § 30 Abs. 1 Satz 2 als Zeitpunkt für
-    das Inkrafttreten der Verordnung gilt der Tag des Wirksamwerdens des
-    Beitritts.
-
-
-
-...
+13\. Heimmindestbauverordnung in der Fassung der Bekanntmachung vom 3.
+Mai 1983 (BGBl. I S. 550)mit folgender Maßgabe:Für die Berechnung der
+Frist in § 30 Abs. 1 Satz 2 als Zeitpunkt für das Inkrafttreten der
+Verordnung gilt der Tag des Wirksamwerdens des Beitritts. ...
 

@@ -29,15 +29,12 @@ Es werden aufgehoben:
     im Saarland vom 17. Februar 1970 (Amtsblatt des Saarlandes S. 126).
 
 
-
-
-
 ## § 2 Maßnahmen bei Verstößen gegen Vorschriften des Wohnungsgemeinnützigkeitsrechts
 
 Hat ein am 31. Dezember 1989 als gemeinnütziges Wohnungsunternehmen
 oder als Organ der staatlichen Wohnungspolitik anerkanntes Unternehmen
-gegen die §§ 2 bis 15 des in § 1 Nr. 1 bezeichneten Gesetzes über die
-Gemeinnützigkeit im Wohnungswesen verstoßen, kann die ehemals
+gegen die §§ 2 bis 15 des in § 1 Nr. 1 bezeichneten Gesetzes über
+die Gemeinnützigkeit im Wohnungswesen verstoßen, kann die ehemals
 zuständige Anerkennungsbehörde dem Unternehmen eine geldliche Leistung
 zur Abgeltung der durch die Gesetzesverstöße erlangten Vorteile
 einschließlich der ersparten Steuern auferlegen.
@@ -47,13 +44,13 @@ einschließlich der ersparten Steuern auferlegen.
 
 (1) Scheidet ein am 31. Dezember 1989 als gemeinnütziges
 Wohnungsunternehmen oder als Organ der staatlichen Wohnungspolitik
-anerkanntes Unternehmen aus dem Prüfungsverband, dem es angehört, aus,
-so hat es entsprechend dem Verhältnis seines Beitrags am
+anerkanntes Unternehmen aus dem Prüfungsverband, dem es angehört,
+aus, so hat es entsprechend dem Verhältnis seines Beitrags am
 Gesamtbeitragsaufkommen des Prüfungsverbands, insbesondere durch
-einmalige oder laufende Zahlungen, dazu beizutragen, daß die bis zum
-2\. August 1988 von dem Prüfungsverband an gesetzliche Vertreter und
-Arbeitnehmer gegebenen Zusagen für die Gewährung von Alters- und
-Hinterbliebenenversorgung erfüllt werden können. Satz 1 gilt
+einmalige oder laufende Zahlungen, dazu beizutragen, daß die bis
+zum 2. August 1988 von dem Prüfungsverband an gesetzliche Vertreter
+und Arbeitnehmer gegebenen Zusagen für die Gewährung von Alters-
+und Hinterbliebenenversorgung erfüllt werden können. Satz 1 gilt
 entsprechend, wenn ein Prüfungsverband aus dem Spitzenverband, dem er
 angehört, ausscheidet.
 

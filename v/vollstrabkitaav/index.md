@@ -1,6 +1,5 @@
 ---
-Title: Verordnung zur Ausführung des deutsch-italienischen Abkommens über die Anerkennung
-  und Vollstreckung gerichtlicher Entscheidungen in Zivil- und Handelssachen
+Title: Verordnung zur Ausführung des deutsch-italienischen Abkommens über die Anerkennung und Vollstreckung gerichtlicher Entscheidungen in Zivil- und Handelssachen
 jurabk: VollstrAbkITAAV
 layout: default
 origslug: vollstrabkitaav
@@ -22,16 +21,15 @@ Zuletzt geändert durch
 
 ## Eingangsformel
 
-Auf Grund des Artikels 4 Satz 2 des Gesetzes zur Behebung der Not von
-Volk und Reich vom 24. März 1933 (Reichsgesetzbl. I S. 141) wird zur
-Ausführung des deutsch-italienischen Abkommens über die Anerkennung
-und Vollstreckung gerichtlicher Entscheidungen in Zivil- und
-Handelssachen vom 9. März 1936 (Reichsgesetzbl. 1937 II S. 145)
+Auf Grund des Artikels 4 Satz 2 des Gesetzes zur Behebung der Not
+von Volk und Reich vom 24. März 1933 (Reichsgesetzbl. I S. 141)
+wird zur Ausführung des deutsch-italienischen Abkommens über die
+Anerkennung und Vollstreckung gerichtlicher Entscheidungen in Zivil-
+und Handelssachen vom 9. März 1936 (Reichsgesetzbl. 1937 II S. 145)
 folgendes verordnet:
 
 
 ## I. - Entscheidungen und Vergleiche
-
 
 
 ### Art 1
@@ -40,8 +38,8 @@ Für die Vollstreckbarerklärung der in Artikel 1 des deutsch-
 italienischen Vollstreckungsabkommens bezeichneten gerichtlichen
 Entscheidungen sowie der in Artikel 9 daselbst bezeichneten Vergleiche
 ist das Amtsgericht zuständig, bei dem der Verpflichtete seinen
-allgemeinen Gerichtsstand hat, und in Ermangelung eines solchen das
-Amtsgericht, in dessen Bezirk sich Vermögen des Verpflichteten
+allgemeinen Gerichtsstand hat, und in Ermangelung eines solchen
+das Amtsgericht, in dessen Bezirk sich Vermögen des Verpflichteten
 befindet oder die Vollstreckungshandlung vorzunehmen ist.
 
 
@@ -87,10 +85,10 @@ Im Wege der Beschwerde kann der Verpflichtete auch Einwendungen gegen
 den Anspruch geltend machen, soweit diese nach italienischem Recht
 gegenüber der Entscheidung oder dem Vergleich zulässig sind. Ebenso
 können Einwendungen gegen die Zulässigkeit der Vollstreckungsklausel
-im Wege der Beschwerde geltend gemacht werden. Der Verpflichtete ist
-hierdurch nicht gehindert, solche Einwendungen in dem in den §§ 767,
-732, 768 der Zivilprozeßordnung vorgesehenen Verfahren geltend zu
-machen.
+im Wege der Beschwerde geltend gemacht werden. Der Verpflichtete
+ist hierdurch nicht gehindert, solche Einwendungen in dem in den §§
+767, 732, 768 der Zivilprozeßordnung vorgesehenen Verfahren geltend
+zu machen.
 
 
 ### Art 5
@@ -106,7 +104,6 @@ machen.
 ## II. - Schiedssprüche
 
 
-
 ### Art 7
 
 Die in Artikel 8 Abs. 2 des Abkommens bezeichneten Bescheinigungen
@@ -116,7 +113,6 @@ zuständig ist.
 
 
 ## III. - Inkrafttreten
-
 
 
 ### Art 8

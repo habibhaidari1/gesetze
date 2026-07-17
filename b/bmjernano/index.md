@@ -1,6 +1,5 @@
 ---
-Title: Anordnung über die Ernennung und Entlassung von Beamten im Geschäftsbereich
-  des Bundesministers der Justiz
+Title: Anordnung über die Ernennung und Entlassung von Beamten im Geschäftsbereich des Bundesministers der Justiz
 jurabk: BMJErnAnO
 layout: default
 origslug: bmjernano
@@ -17,7 +16,6 @@ Fundstelle
 :   BGBl I: 1975, 2625
 
 
-
 ## I.
 
 Auf Grund des Artikels 1 der Anordnung des Bundespräsidenten über die
@@ -26,7 +24,7 @@ vom 14. Juli 1975 (Bundesgesetzbl. I S. 1915) übertrage ich die
 Ausübung des Rechtes zur Ernennung und Entlassung der Bundesbeamten
 der Besoldungsgruppen A 1 bis A 13 (gehobener Dienst)
 
-*   dem Präsidenten des Bundesgerichtshofes,
+-   dem Präsidenten des Bundesgerichtshofes,
 
     dem Generalbundesanwalt beim Bundesgerichtshof,
 
@@ -37,8 +35,6 @@ der Besoldungsgruppen A 1 bis A 13 (gehobener Dienst)
     dem Präsidenten des Bundespatentgerichts und
 
     dem Präsidenten des Deutschen Patentamts
-
-
 
 jeweils für ihren Geschäftsbereich,
 dem Präsidenten des Bundesverwaltungsgerichts auch für das

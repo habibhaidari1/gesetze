@@ -39,13 +39,10 @@ Buchstabe a
     Rechtsstreitigkeiten über die Höhe der Pacht rückwirkend vom ersten
     Tage des auf die Rechtshängigkeit folgenden Monats,
 
-
 2.  im übrigen ab 1. November 1992
 
-
-
-Anwendung. Das gilt nicht für den Anwendungsbereich des § 20a des
-Bundeskleingartengesetzes. § 5 Abs. 3 Satz 1 und 4 des
+Anwendung. Das gilt nicht für den Anwendungsbereich des § 20a
+des Bundeskleingartengesetzes. § 5 Abs. 3 Satz 1 und 4 des
 Bundeskleingartengesetzes gilt entsprechend. Die in Textform
 abgegebene Erklärung des Verpächters hat die Wirkung, dass mit dem vom
 Verpächter genannten Zeitpunkt an die Stelle der bisherigen Pacht die

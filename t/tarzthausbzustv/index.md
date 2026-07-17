@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Bestimmung der zuständigen Stelle sowie über die fachliche
-  Eignung für die Berufsausbildung zum Tierarzthelfer/zur Tierarzthelferin
+Title: Verordnung über die Bestimmung der zuständigen Stelle sowie über die fachliche Eignung für die Berufsausbildung zum Tierarzthelfer/zur Tierarzthelferin
 jurabk: TArztHAusbZustV
 layout: default
 origslug: tarzthausbzustv
@@ -17,15 +16,14 @@ Fundstelle
 :   BGBl I: 1986, 404
 
 
-
 ## Eingangsformel
 
 Auf Grund des § 97 des Berufsbildungsgesetzes vom 14. August 1969
 (BGBl. I S. 1112), der durch Artikel 53 Nr. 13 des Gesetzes vom 18.
-März 1975 (BGBl. I S. 705) geändert worden ist, wird nach Anhörung des
-Hauptausschusses des Bundesinstituts für Berufsbildung gemäß § 19 Nr.
-1 des Berufsbildungsförderungsgesetzes im Einvernehmen mit dem
-Bundesminister für Bildung und Wissenschaft mit Zustimmung des
+März 1975 (BGBl. I S. 705) geändert worden ist, wird nach Anhörung
+des Hauptausschusses des Bundesinstituts für Berufsbildung gemäß §
+19 Nr. 1 des Berufsbildungsförderungsgesetzes im Einvernehmen mit
+dem Bundesminister für Bildung und Wissenschaft mit Zustimmung des
 Bundesrates verordnet:
 
 
@@ -35,16 +33,16 @@ Bundesrates verordnet:
 ist die Tierärztekammer zuständige Stelle im Sinne des
 Berufsbildungsgesetzes.
 
-(2) In den Fällen der §§ 23 und 24 des Berufsbildungsgesetzes tritt an
-die Stelle der nach Landesrecht zuständigen Behörden die für die
+(2) In den Fällen der §§ 23 und 24 des Berufsbildungsgesetzes tritt
+an die Stelle der nach Landesrecht zuständigen Behörden die für die
 Aufsicht über die Tierärztekammer zuständige Behörde.
 
 
 ## § 2 Fachliche Eignung
 
 Die für die fachliche Eignung erforderlichen beruflichen Fertigkeiten
-und Kenntnisse besitzt für den Ausbildungsberuf
-Tierarzthelfer/Tierarzthelferin, wer als Tierarzt approbiert ist.
+und Kenntnisse besitzt für den Ausbildungsberuf Tierarzthelfer/
+Tierarzthelferin, wer als Tierarzt approbiert ist.
 
 
 ## § 3 Berlin-Klausel

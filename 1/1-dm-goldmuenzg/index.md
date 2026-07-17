@@ -1,6 +1,5 @@
 ---
-Title: Gesetz über die Ausprägung einer 1-DM-Goldmünze und die Errichtung der Stiftung
-  "Geld und Währung"
+Title: "Gesetz über die Ausprägung einer 1-DM-Goldmünze und die Errichtung der Stiftung \"Geld und Währung\""
 jurabk: 1-DM-GoldmünzG
 layout: default
 origslug: 1-dm-goldm_nzg
@@ -17,9 +16,7 @@ Fundstelle
 :   BGBl I: 2000, 2045
 
 
-
 ## Erster Abschnitt - Ausgabe einer 1-DM Goldmünze
-
 
 
 ### § 1 Ausgabe durch die Deutsche Bundesbank
@@ -52,8 +49,8 @@ Dezember 2001 gesetzliches Zahlungsmittel.
 
 ### § 4 Annahme- und Umtauschpflicht
 
-(1) Die Deutsche Bundesbank ist verpflichtet, die 1-DM-Goldmünzen zum
-Nennwert in Zahlung zu nehmen oder in andere gesetzliche
+(1) Die Deutsche Bundesbank ist verpflichtet, die 1-DM-Goldmünzen
+zum Nennwert in Zahlung zu nehmen oder in andere gesetzliche
 Zahlungsmittel umzutauschen.
 
 (2) Für den Umtausch der 1-DM-Goldmünzen ab 1. Januar 2002 gilt die
@@ -78,8 +75,8 @@ Münzstätten von der Deutschen Bundesbank zugewiesen.
 
 ### § 6 Inverkehrbringen
 
-Die 1-DM-Goldmünzen werden unbeschadet des Artikels 106 Abs. 2 Satz 1
-des Vertrages zur Gründung der Europäischen Gemeinschaft durch die
+Die 1-DM-Goldmünzen werden unbeschadet des Artikels 106 Abs. 2 Satz
+1 des Vertrages zur Gründung der Europäischen Gemeinschaft durch die
 Deutsche Bundesbank und die Verkaufsstelle für Sammlermünzen bei der
 Bundesschuldenverwaltung in den Verkehr gebracht.
 
@@ -114,7 +111,6 @@ nicht für die 1-DM-Goldmünzen.
 ## Zweiter Abschnitt - Stiftung "Geld und Währung"
 
 
-
 ### § 10 Errichtung der Stiftung
 
 (1) Unter dem Namen "Geld und Währung" wird eine rechtsfähige Stiftung
@@ -126,26 +122,21 @@ des öffentlichen Rechts errichtet. Die Stiftung entsteht am 1. Januar
 
 ### § 11 Stiftungszweck
 
-(1) Zweck der Stiftung ist, das Bewusstsein der Öffentlichkeit für die
-Bedeutung stabilen Geldes zu erhalten und zu fördern. Die Stiftung
-unterstützt zu diesem Zweck die wirtschaftswissenschaftliche und
-juristische Forschung insbesondere auf dem Gebiet des Geld- und
+(1) Zweck der Stiftung ist, das Bewusstsein der Öffentlichkeit
+für die Bedeutung stabilen Geldes zu erhalten und zu fördern. Die
+Stiftung unterstützt zu diesem Zweck die wirtschaftswissenschaftliche
+und juristische Forschung insbesondere auf dem Gebiet des Geld- und
 Währungswesens.
 
 (2) Der Erfüllung dieses Zwecks dienen insbesondere:
 
 1.  die Durchführung und Finanzierung von Forschungsprojekten;
 
-
 2.  die Gewährung von Forschungsstipendien;
-
 
 3.  die Förderung des wissenschaftlichen Meinungsaustauschs durch
     Veranstaltungen und Diskussionsforen mit deutscher und internationaler
     Beteiligung.
-
-
-
 
 
 ### § 12 Stiftungsvermögen
@@ -188,13 +179,13 @@ Vertreter zu bestellen.
 (2) Der Stiftungsrat wählt aus seinen Mitgliedern den Vorsitzenden und
 dessen Stellvertreter.
 
-(3) Die Mitglieder des Stiftungsrates und deren Vertreter werden für
-die Dauer von vier Jahren bestellt. Wiederholte Bestellung ist
+(3) Die Mitglieder des Stiftungsrates und deren Vertreter werden
+für die Dauer von vier Jahren bestellt. Wiederholte Bestellung ist
 zulässig. Scheidet ein Mitglied vorzeitig aus, ist für den Rest seiner
 Amtszeit ein Nachfolger zu bestellen.
 
-(4) Der Stiftungsrat beschließt über alle grundsätzlichen Fragen, die
-zum Aufgabenbereich der Stiftung gehören, insbesondere über die
+(4) Der Stiftungsrat beschließt über alle grundsätzlichen Fragen,
+die zum Aufgabenbereich der Stiftung gehören, insbesondere über die
 Feststellung des Haushaltsplanes und die Jahresrechnung. Er stellt
 Richtlinien für die Vergabe und Verwendung der Stiftungsmittel auf und
 überwacht die Tätigkeit des Vorstandes. Das Nähere regelt die Satzung.
@@ -213,8 +204,8 @@ fünf Jahren bestellt.
 
 (2) Der Vorstand führt die laufenden Geschäfte der Stiftung,
 insbesondere führt er die Beschlüsse des Stiftungsrates aus. Er ist
-ferner für den Einsatz und die Vergabe der Stiftungsmittel sowie für
-die Überwachung ihrer zweckentsprechenden und wirtschaftlichen
+ferner für den Einsatz und die Vergabe der Stiftungsmittel sowie
+für die Überwachung ihrer zweckentsprechenden und wirtschaftlichen
 Verwendung verantwortlich. Er vertritt die Stiftung gerichtlich und
 außergerichtlich. Das Nähere regelt die Satzung.
 
@@ -236,7 +227,6 @@ geltenden Bestimmungen entsprechende Anwendung.
 
 
 ## Dritter Abschnitt
-
 
 
 ### § 19 Inkrafttreten

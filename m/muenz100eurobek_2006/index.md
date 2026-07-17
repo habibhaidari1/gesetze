@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im  Nennwert
-  von 100 Euro (Goldmünze "UNESCO Welterbe – Klassisches Weimar")
+Title: "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze \"UNESCO Welterbe – Klassisches Weimar\")"
 jurabk: Münz100EuroBek 2006
 layout: default
 origslug: m_nz100eurobek_2006
@@ -8,14 +7,13 @@ slug: muenz100eurobek_2006
 
 ---
 
-# Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im  Nennwert von 100 Euro (Goldmünze "UNESCO Welterbe – Klassisches Weimar") (Münz100EuroBek 2006)
+# Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze "UNESCO Welterbe – Klassisches Weimar") (Münz100EuroBek 2006)
 
 Ausfertigungsdatum
 :   2006-08-28
 
 Fundstelle
 :   BGBl I: 2006, 2118
-
 
 
 ## (XXXX)
@@ -30,8 +28,8 @@ gleichen Teilen in den Münzstätten Berlin (Münzzeichen "A"), München
 (Münzzeichen "D"), Stuttgart (Münzzeichen "F"), Karlsruhe (Münzzeichen
 "G") und Hamburg (Münzzeichen "J") in Stempelglanzausführung geprägt.
 
-Die Münze wird ab dem 2. Oktober 2006 in den Verkehr gebracht. Sie
-besteht aus Gold mit einem Feingehalt von 999,9 Tausendteilen
+Die Münze wird ab dem 2. Oktober 2006 in den Verkehr gebracht.
+Sie besteht aus Gold mit einem Feingehalt von 999,9 Tausendteilen
 (Feingold). Sie hat einen Durchmesser von 28 Millimetern und eine
 Masse (Gewicht) von 15,55 Gramm. Der Münzrand ist geriffelt.
 
@@ -59,4 +57,6 @@ Der Bundesminister der Finanzen
 ## (XXXX)
 
 (Fundstelle: BGBl. I 2006, 2118)
+
 ![bgbl1_2006_j2118_0010.jpg](bgbl1_2006_j2118_0010.jpg)
+

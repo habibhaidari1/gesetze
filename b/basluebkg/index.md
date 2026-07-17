@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zu dem Basler Übereinkommen vom 22. März 1989 über die Kontrolle der
-  grenzüberschreitenden Verbringung gefährlicher Abfälle und ihrer Entsorgung
+Title: Gesetz zu dem Basler Übereinkommen vom 22. März 1989 über die Kontrolle der grenzüberschreitenden Verbringung gefährlicher Abfälle und ihrer Entsorgung
 jurabk: BaslÜbkG
 layout: default
 origslug: basl_bkg
@@ -17,7 +16,6 @@ Fundstelle
 :   BGBl II: 1994, 2703
 
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
@@ -28,8 +26,8 @@ beschlossen:
 
 Dem in New York am 23. Oktober 1989 von der Bundesrepublik Deutschland
 unterzeichneten Basler Übereinkommen vom 22. März 1989 über die
-Kontrolle der grenzüberschreitenden Verbringung gefährlicher Abfälle
-und ihrer Entsorgung wird zugestimmt. Das Übereinkommen wird
+Kontrolle der grenzüberschreitenden Verbringung gefährlicher
+Abfälle und ihrer Entsorgung wird zugestimmt. Das Übereinkommen wird
 nachstehend mit einer amtlichen deutschen Übersetzung veröffentlicht.
 
 
@@ -49,7 +47,7 @@ Verbringung beizubringenden Unterlagen und die in Ausführung des
 
 (1) Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 
-(2) Der Tag, an dem das Übereinkommen nach seinem Artikel 25 Abs. 2
-für die Bundesrepublik Deutschland in Kraft tritt, ist im
+(2) Der Tag, an dem das Übereinkommen nach seinem Artikel 25
+Abs. 2 für die Bundesrepublik Deutschland in Kraft tritt, ist im
 Bundesgesetzblatt bekanntzugeben.
 

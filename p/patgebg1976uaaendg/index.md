@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl I: 1994, 1739 (2263)
 
 
-
 ## (XXXX) Art 1 bis 3 (weggefallen)
 
 

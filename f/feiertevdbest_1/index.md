@@ -1,6 +1,5 @@
 ---
-Title: Erste Durchführungsbestimmung zur Verordnung über die Einführung gesetzlicher
-  Feiertage
+Title: Erste Durchführungsbestimmung zur Verordnung über die Einführung gesetzlicher Feiertage
 jurabk: FeiertEVDBest 1
 layout: default
 origslug: feiertevdbest_1
@@ -16,6 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   GBl DDR I: 1990, 281
 
+Fundstelle
+:   GBl DDR I: 1990, Nr 31, 281
 
 
 ## Eingangsformel
@@ -39,8 +40,8 @@ Absatz 1 getroffenen Vereinbarungen bekanntzumachen.
 ## § 2
 
 Für die Arbeitnehmer gilt als Feiertag der für das Territorium
-festgelegte Feiertag, in dem der Beschäftigungsbetrieb seinen Sitz hat
-oder in dem sich der mit den Arbeitnehmern vereinbarte Arbeitsort
+festgelegte Feiertag, in dem der Beschäftigungsbetrieb seinen Sitz
+hat oder in dem sich der mit den Arbeitnehmern vereinbarte Arbeitsort
 befindet.
 
 
@@ -53,42 +54,25 @@ a)  Arbeitnehmer evangelischen Glaubens für die evangelischen Feiertage
 
     -   Reformationstag und
 
-
     -   Buß- und Bettag,
-
-
-
 
     wenn im Territorium gemäß § 1 Fronleichnam und Allerheiligen als
     gesetzliche Feiertage gelten,
-
 
 b)  Arbeitnehmer katholischen Glaubens für die katholischen Feiertage
 
     -   Fronleichnam und
 
-
     -   Allerheiligen,
-
-
-
 
     wenn im Territorium gemäß § 1 der Reformationstag und der Buß- und
     Bettag als gesetzliche Feiertage gelten,
-
 
 c)  Arbeitnehmer jüdischen Glaubens für die jüdischen Feiertage
 
     -   Jaum Kippur,
 
-
     -   Rausch Haschonoh.
-
-
-
-
-
-
 
 (2) Die Regelung gemäß Absatz 1 gilt sinngemäß für Schüler, Studenten
 und Auszubildende evangelischen, katholischen und jüdischen Glaubens.

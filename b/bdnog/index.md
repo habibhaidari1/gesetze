@@ -31,17 +31,12 @@ Zuletzt geändert durch
 
 ## Art 14 Änderung der Verwaltungsgerichtsordnung
 
-
 1.  - 7.
-
 
 8.  Beteiligungserklärungen des Oberbundesanwalts beim
     Bundesverwaltungsgericht, die bis zum Inkrafttreten dieses Gesetzes
     abgegeben worden sind, werden von dem Vertreter des Bundesinteresses
     beim Bundesverwaltungsgericht weiterverfolgt.
-
-
-
 
 
 ## (XXXX) Art 15 bis Art 25 (weggefallen)
@@ -51,8 +46,8 @@ Zuletzt geändert durch
 
 ## Art 26 Rückkehr zum einheitlichen Verordnungsrang
 
-Die auf den Artikel 4 bis 6, 8 und 25 beruhenden Teile der dort
-geänderten Rechtsverordnungen können auf Grund der jeweils
+Die auf den Artikel 4 bis 6, 8 und 25 beruhenden Teile der
+dort geänderten Rechtsverordnungen können auf Grund der jeweils
 einschlägigen Ermächtigungen durch Rechtsverordnung geändert werden.
 
 

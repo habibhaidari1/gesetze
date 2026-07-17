@@ -1,6 +1,5 @@
 ---
-Title: Vierte Durchführungsverordnung zur Betriebsordnung für Luftfahrtgerät (Ausrüstung
-  und Betrieb von Heißluftballonen und Heißluft-Luftschiffen)
+Title: Vierte Durchführungsverordnung zur Betriebsordnung für Luftfahrtgerät (Ausrüstung und Betrieb von Heißluftballonen und Heißluft-Luftschiffen)
 jurabk: LuftBODV 4
 layout: default
 origslug: luftbodv_4
@@ -15,6 +14,9 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BAnz: 1997, Nr 77, 5333
+
+Fundstelle
+:   BAnz: 1997, 5333
 
 Geändert durch
 :   Art. 1 V v. 16.7.2004 BAnz. Nr. 149, 17873
@@ -33,11 +35,10 @@ Verbindung mit § 56 der Betriebsordnung für Luftfahrtgerät vom 4. März
 ## 1. Abschnitt - Allgemeine Vorschriften
 
 
-
 ### § 1 Geltungsbereich
 
-Diese Verordnung gilt für die Ausrüstung und den Betrieb der nach den
-Vorschriften der Luftverkehrs-Zulassungs-Ordnung zum Verkehr
+Diese Verordnung gilt für die Ausrüstung und den Betrieb der nach
+den Vorschriften der Luftverkehrs-Zulassungs-Ordnung zum Verkehr
 zugelassenen Heißluftballone und Heißluft-Luftschiffe.
 
 
@@ -57,14 +58,13 @@ horizontaler Abstand von 500 Meter angesehen.
 ## 2. Abschnitt - Allgemeine Betriebsvorschriften
 
 
-
 ### § 2 Herbeiführen simulierter Gefahrenzustände (zu § 3 LuftBO)
 
 Simulierte Gefahrenzustände, das heißt jedes absichtliche Abweichen
-vom Normalbetrieb eines Ballons oder Luftschiffs, dürfen nur dann
-herbeigeführt werden, wenn sich außer den erforderlichen
-Besatzungsmitgliedern oder Betriebsangehörigen keine Fluggäste an Bord
-befinden.
+vom Normalbetrieb eines Ballons oder Luftschiffs, dürfen nur
+dann herbeigeführt werden, wenn sich außer den erforderlichen
+Besatzungsmitgliedern oder Betriebsangehörigen keine Fluggäste an
+Bord befinden.
 
 
 ### § 3 Betriebsstoffreserve (zu § 3 LuftBO)
@@ -88,60 +88,43 @@ Die betriebliche Ergänzungsausrüstung muß mindestens bestehen aus:
 1.  1 UKW-Sende-/Empfangsgerät mit einem Frequenzbereich von 117.975 bis
     137\.000 MHz
 
-
 2.  1 Höhenmesser
 
-
 3.  1 Variometer
-
 
 4.  1 Handfeuerlöscher nach DIN EN 3 mit einer Löschmittelmenge von
     mindestens 2 kg oder in Luftfahrzeugen zugelassene Handfeuerlöscher
     mit mindestens vergleichbarer Löschwirkung
 
-
 4a. Feuerlöschdecke nach DIN 14155
-
 
 5.  1 Kompaß
 
-
 6.  1 Hüllenthermometer
-
 
 7.  1 Druckmesser für jede Versorgungsleitung
 
-
 8.  1 Erste-Hilfe-Ausrüstung nach DIN 13164 oder DIN 13157
-
 
 9.  1 Kappmesser
 
-
 10. 1 alternative Zündquelle
 
-
 11. 1 Paar feuerhemmende Handschuhe.
-
-
 
 Für Körbe für 11 bis 19 Insassen und Luftschiffgondeln für 5 bis 9
 Insassen ist
 
 -   eine weitere Erste-Hilfe-Ausrüstung nach DIN 13164 oder DIN 13157 und
 
-
 -   ein weiteres Paar feuerhemmende Handschuhe mitzuführen.
-
-
-
 
 
 ### § 5 Körbe und Luftschiffgondeln (zu § 19 LuftBO)
 
 (1) Bei Ballonen für mehr als 6 Insassen müssen die Körbe mit
-Trennwänden versehen sein, die diese in einzelne Abteile für jeweils 6
-Personen oder weniger einteilen. Die Trennwände müssen so gestaltet
+Trennwänden versehen sein, die diese in einzelne Abteile für jeweils
+6 Personen oder weniger einteilen. Die Trennwände müssen so gestaltet
 sein, daß sie die beim Landestoß durch die Insassen verursachten
 Kräfte aufnehmen können. Für Körbe, die vor dem Inkrafttreten dieser
 Durchführungsverordnung als Bestandteil eines Ballons zum Verkehr
@@ -160,8 +143,8 @@ Vierpunkt-Anschnallgurten gesichert werden sein.
 
 Neben der gemäß § 21 Abs. 2 der Betriebsordnung für Luftfahrtgerät
 erforderlichen Sauerstoffanlage und den Atemgeräten für die Fluggäste
-muß für den Luftfahrzeugführer eine Atemmaske vorhanden sein, die die
-Durchführung des Sprechfunkverkehrs und die Verständigung mit den
+muß für den Luftfahrzeugführer eine Atemmaske vorhanden sein, die
+die Durchführung des Sprechfunkverkehrs und die Verständigung mit den
 Insassen gewährleistet.
 
 
@@ -172,10 +155,7 @@ Die Wägung eines Ballons oder Luftschiffs ist durchzuführen
 1.  in Verbindung mit der ersten Nachprüfung zum Zweck der
     Verkehrszulassung
 
-
 2.  in den Fällen, in denen der Hersteller eine Wägung vorschreibt.
-
-
 
 Wenn die Masse verändert worden ist und die Daten rechnerisch mit
 hinreichender Genauigkeit festgestellt werden können, kann eine Wägung
@@ -183,21 +163,16 @@ entfallen.
 
 1.  nach einer Grund- oder Teilüberholung,
 
-
 2.  nach einer großen Änderung oder großen Reparatur.
-
-
-
 
 
 ## 3. Abschnitt - Betrieb in Luftfahrtunternehmen
 
 
-
 ### § 7 Verwendungszweck (zu § 23 LuftBO)
 
-Ballone und Luftschiffe, die für die gewerbliche Beförderung von
-Personen eingesetzt werden, müssen in der Kategorie
+Ballone und Luftschiffe, die für die gewerbliche Beförderung
+von Personen eingesetzt werden, müssen in der Kategorie
 "Personenbeförderung 3" zugelassen sein.
 
 
@@ -225,9 +200,9 @@ den Nachtflug zugelassen sind.
 (1) Die Ballonkorbinnenhöhe muß an der niedrigsten Stelle mindestens
 1,10 m betragen.
 
-(2) Bei Ballonkörben für 11 bis 19 Insassen ist die Einteilung der
-Abteile so vorzusehen, daß Besatzungsmitglieder zentral untergebracht
-sind. Für Ballonkörbe, die vor dem Inkrafttreten dieser
+(2) Bei Ballonkörben für 11 bis 19 Insassen ist die Einteilung
+der Abteile so vorzusehen, daß Besatzungsmitglieder zentral
+untergebracht sind. Für Ballonkörbe, die vor dem Inkrafttreten dieser
 Durchführungsverordnung erstmals als Bestandteil eines Ballons zum
 Verkehr zugelassen worden sind, kann die Zulassungsbehörde Ausnahmen
 zulassen.
@@ -281,32 +256,27 @@ für die Aufsicht über die Fluggäste, erforderlich ist.
 
 1.  für seine Aufgaben geeignet sein,
 
-
 2.  an 5 Aufrüstungen mit anschließenden Fahrten mit Ballonen mit Körben
     ab 7 Insassen praktisch teilgenommen haben und
 
-
-3.  alle 24 Monate die Teilnahme an einem Kurs in Erster Hilfe und der
-    Unterweisung in den praktischen Gebrauch des Handfeuerlöschers
+3.  alle 24 Monate die Teilnahme an einem Kurs in Erster Hilfe und
+    der Unterweisung in den praktischen Gebrauch des Handfeuerlöschers
     nachweisen.
-
-
-
 
 
 ### § 15 Anforderungen an die Besatzungsmitglieder (zu § 42 LuftBO)
 
-(1) Der Unternehmer darf einen Luftfahrzeugführer nur einsetzen, wenn
-dieser die Überprüfungsfahrten gemäß § 42 Abs. 3 LuftBO auf dem
+(1) Der Unternehmer darf einen Luftfahrzeugführer nur einsetzen,
+wenn dieser die Überprüfungsfahrten gemäß § 42 Abs. 3 LuftBO auf dem
 größten Ballon oder auf dem größten Luftschiff durchgeführt hat, auf
 dem er im Unternehmen eingesetzt wird. Überträgt die Aufsichtsbehörde
 die Abnahme der Überprüfungsfahrten an einen von ihr bestimmten
 Sachverständigen, muß dieser ausreichend Erfahrung auf dem Muster
 nachgewiesen haben.
 
-(2) Der Unternehmer darf einen Luftfahrzeugführer nur einsetzen, wenn
-dieser alle 24 Monate den Nachweis der Teilnahme an einem Kurs in
-Erster Hilfe und der Unterweisung in den praktischen Gebrauch des
+(2) Der Unternehmer darf einen Luftfahrzeugführer nur einsetzen,
+wenn dieser alle 24 Monate den Nachweis der Teilnahme an einem Kurs
+in Erster Hilfe und der Unterweisung in den praktischen Gebrauch des
 Handfeuerlöschers erbracht hat.
 
 
@@ -320,7 +290,6 @@ Rettungsausrüstung vertraut gemacht werden.
 ## 4. Abschnitt - Bußgeld- und Schlußvorschriften
 
 
-
 ### § 17 Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 58 Abs. 1 Nr. 10 des
@@ -329,28 +298,21 @@ Luftverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
 1.  als Luftfahrzeugführer entgegen § 3 eine nicht ausreichende
     Betriebsstoffreserve mitführt;
 
-
 2.  als Luftfahrzeugführer Fahrten mit Ballonen oder Luftschiffen
     durchführt und die in den §§ 4, 6 bzw. 12 vorgeschriebene Ausrüstung
     nicht mitführt;
-
 
 3.  als Luftfahrzeugführer, Halter oder Betriebsleiter entgegen § 8
     Fahrten durchführt, bei denen der Start früher als 90 Minuten vor
     Sonnenaufgang erfolgt;
 
-
-4.  als Halter oder Betriebsleiter einen Ballon oder ein Luftschiff ohne
-    die für die Flugdurchführung in den §§ 4, 6 bzw. 12 geforderte
+4.  als Halter oder Betriebsleiter einen Ballon oder ein Luftschiff
+    ohne die für die Flugdurchführung in den §§ 4, 6 bzw. 12 geforderte
     Ausrüstung betreibt;
-
 
 5.  als verantwortlicher Luftfahrzeugführer entgegen § 16 nicht
     sicherstellt, daß die Fluggäste mit der Unterbringung und dem Gebrauch
     der Sicherheits- und Rettungsausrüstung vertraut gemacht werden.
-
-
-
 
 
 ### § 18 Inkrafttreten

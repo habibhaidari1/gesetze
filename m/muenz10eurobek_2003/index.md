@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert
-  von 10 Euro (Gedenkmünze "100 Jahre Deutsches Museum München")
+Title: "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze \"100 Jahre Deutsches Museum München\")"
 jurabk: Münz10EuroBek 2003
 layout: default
 origslug: m_nz10eurobek_2003
@@ -17,18 +16,17 @@ Fundstelle
 :   BGBl I: 2003, 275
 
 
-
 ## (XXXX)
 
 Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
 I S. 2402) hat die Bundesregierung beschlossen, zum Thema "100 Jahre
 Deutsches Museum München" eine deutsche Euro-Gedenkmünze im Nennwert
 von 10 Euro prägen zu lassen.
-Die Auflage der Münze beträgt 2400000 Stück, darunter 350000 Stück in
-Spiegelglanzausführung. Die Prägung erfolgt durch das Bayerische
-Hauptmünzamt in München. Die Münze wird ab dem 10. April 2003 in den
-Verkehr gebracht. Sie besteht aus einer Legierung von 925
-Tausendteilen Silber und 75 Tausendteilen Kupfer, hat einen
+Die Auflage der Münze beträgt 2400000 Stück, darunter 350000
+Stück in Spiegelglanzausführung. Die Prägung erfolgt durch das
+Bayerische Hauptmünzamt in München. Die Münze wird ab dem 10. April
+2003 in den Verkehr gebracht. Sie besteht aus einer Legierung von
+925 Tausendteilen Silber und 75 Tausendteilen Kupfer, hat einen
 Durchmesser von 32,5 Millimetern und eine Masse von 18 Gramm. Das
 Gepräge auf beiden Seiten ist erhaben und wird von einem schützenden,
 glatten Randstab umgeben.
@@ -53,4 +51,6 @@ Der Bundesminister der Finanzen
 ## (XXXX)
 
 (Fundstelle: BGBl. I 2003, 275)
+
 ![bgbl1_2003_j0275_0010.jpg](bgbl1_2003_j0275_0010.jpg)
+

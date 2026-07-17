@@ -1,7 +1,5 @@
 ---
-Title: Gesetz über die Errichtung des Bundesversicherungsamts, die Aufsicht über die
-  Sozialversicherungsträger und die Regelung von Verwaltungszuständigkeiten in der
-  Sozialversicherung und der betrieblichen Altersfürsorge
+Title: Gesetz über die Errichtung des Bundesversicherungsamts, die Aufsicht über die Sozialversicherungsträger und die Regelung von Verwaltungszuständigkeiten in der Sozialversicherung und der betrieblichen Altersfürsorge
 jurabk: BVAG
 layout: default
 origslug: bvag
@@ -46,10 +44,10 @@ Bundesregierung oder der Bundesminister für Arbeit zuständig ist.
 
 (2) Die für die Sozialversicherung zuständigen obersten
 Verwaltungsbehörden der Länder oder die nach Landesrecht bestimmten
-sonstigen Behörden haben auch die übrigen Aufgaben und Befugnisse, die
-das frühere Reichsversicherungsamt oder sein Präsident nach den
-gesetzlichen oder sonstigen Vorschriften auf dem Gebiete der
-Verwaltung hatte, soweit es sich um landesunmittelbare
+sonstigen Behörden haben auch die übrigen Aufgaben und Befugnisse,
+die das frühere Reichsversicherungsamt oder sein Präsident nach
+den gesetzlichen oder sonstigen Vorschriften auf dem Gebiete
+der Verwaltung hatte, soweit es sich um landesunmittelbare
 Sozialversicherungsträger handelt und nicht nach diesem Gesetz die
 Bundesregierung, der Bundesminister für Arbeit oder das Bundesamt für
 Soziale Sicherung zuständig ist.
@@ -92,7 +90,6 @@ des Bundesamtes für Soziale Sicherung erfolgen im Bundesarbeitsblatt.
 ## (XXXX) §§ 8 bis 10
 
 
-
 ## § 11
 
 Das Bundesamt für Soziale Sicherung hat auch die nach den Richtlinien
@@ -113,16 +110,16 @@ Zeitpunkt des Übergangs ist im Bundesanzeiger bekanntzumachen.
 ## § 13
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
-Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
-im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes
-erlassen werden, gelten im Land Berlin nach § 14 des Dritten
+Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S.
+1) auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses
+Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 Überleitungsgesetzes.
 
 
 ## § 14
 
-Dieses Gesetz tritt am Tag nach seiner Verkündung in Kraft;
-zu demselben Zeitpunkt treten die diesem Gesetz entgegenstehenden
+Dieses Gesetz tritt am Tag nach seiner Verkündung in Kraft; *zu
+demselben Zeitpunkt treten die diesem Gesetz entgegenstehenden
 Vorschriften der Reichsversicherungsgesetze und der zu ihrer Änderung,
-Ergänzung oder Durchführung erlassenen Vorschriften außer Kraft.
+Ergänzung oder Durchführung erlassenen Vorschriften außer Kraft.*
 

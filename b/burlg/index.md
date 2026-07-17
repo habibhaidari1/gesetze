@@ -35,8 +35,8 @@ Erholungsurlaub.
 
 Arbeitnehmer im Sinne des Gesetzes sind Arbeiter und Angestellte sowie
 die zu ihrer Berufsausbildung Beschäftigten. Als Arbeitnehmer gelten
-auch Personen, die wegen ihrer wirtschaftlichen Unselbständigkeit als
-arbeitnehmerähnliche Personen anzusehen sind; für den Bereich der
+auch Personen, die wegen ihrer wirtschaftlichen Unselbständigkeit
+als arbeitnehmerähnliche Personen anzusehen sind; für den Bereich der
 Heimarbeit gilt § 12.
 
 
@@ -59,19 +59,14 @@ des Arbeitsverhältnisses erworben.
 (1) Anspruch auf ein Zwölftel des Jahresurlaubs für jeden vollen Monat
 des Bestehens des Arbeitsverhältnisses hat der Arbeitnehmer
 
-a)  für Zeiten eines Kalenderjahrs, für die er wegen Nichterfüllung der
-    Wartezeit in diesem Kalenderjahr keinen vollen Urlaubsanspruch
+a)  für Zeiten eines Kalenderjahrs, für die er wegen Nichterfüllung
+    der Wartezeit in diesem Kalenderjahr keinen vollen Urlaubsanspruch
     erwirbt;
-
 
 b)  wenn er vor erfüllter Wartezeit aus dem Arbeitsverhältnis ausscheidet;
 
-
 c)  wenn er nach erfüllter Wartezeit in der ersten Hälfte eines
     Kalenderjahrs aus dem Arbeitsverhältnis ausscheidet.
-
-
-
 
 (2) Bruchteile von Urlaubstagen, die mindestens einen halben Tag
 ergeben, sind auf volle Urlaubstage aufzurunden.
@@ -83,13 +78,13 @@ dafür gezahlte Urlaubsentgelt nicht zurückgefordert werden.
 
 ## § 6 Ausschluß von Doppelansprüchen
 
-(1) Der Anspruch auf Urlaub besteht nicht, soweit dem Arbeitnehmer für
-das laufende Kalenderjahr bereits von einem früheren Arbeitgeber
+(1) Der Anspruch auf Urlaub besteht nicht, soweit dem Arbeitnehmer
+für das laufende Kalenderjahr bereits von einem früheren Arbeitgeber
 Urlaub gewährt worden ist.
 
 (2) Der Arbeitgeber ist verpflichtet, bei Beendigung des
-Arbeitsverhältnisses dem Arbeitnehmer eine Bescheinigung über den im
-laufenden Kalenderjahr gewährten oder abgegoltenen Urlaub
+Arbeitsverhältnisses dem Arbeitnehmer eine Bescheinigung über
+den im laufenden Kalenderjahr gewährten oder abgegoltenen Urlaub
 auszuhändigen.
 
 
@@ -112,12 +107,12 @@ einer der Urlaubsteile mindestens zwölf aufeinanderfolgende Werktage
 umfassen.
 
 (3) Der Urlaub muß im laufenden Kalenderjahr gewährt und genommen
-werden. Eine Übertragung des Urlaubs auf das nächste Kalenderjahr ist
-nur statthaft, wenn dringende betriebliche oder in der Person des
-Arbeitnehmers liegende Gründe dies rechtfertigen. Im Fall der
-Übertragung muß der Urlaub in den ersten drei Monaten des folgenden
-Kalenderjahrs gewährt und genommen werden. Auf Verlangen des
-Arbeitnehmers ist ein nach § 5 Abs. 1 Buchstabe a entstehender
+werden. Eine Übertragung des Urlaubs auf das nächste Kalenderjahr
+ist nur statthaft, wenn dringende betriebliche oder in der Person
+des Arbeitnehmers liegende Gründe dies rechtfertigen. Im Fall
+der Übertragung muß der Urlaub in den ersten drei Monaten des
+folgenden Kalenderjahrs gewährt und genommen werden. Auf Verlangen
+des Arbeitnehmers ist ein nach § 5 Abs. 1 Buchstabe a entstehender
 Teilurlaub jedoch auf das nächste Kalenderjahr zu übertragen.
 
 (4) Kann der Urlaub wegen Beendigung des Arbeitsverhältnisses ganz
@@ -157,8 +152,8 @@ Verdienstkürzungen, die im Berechnungszeitraum infolge von Kurzarbeit,
 Arbeitsausfällen oder unverschuldeter Arbeitsversäumnis eintreten,
 bleiben für die Berechnung des Urlaubsentgelts außer Betracht. Zum
 Arbeitsentgelt gehörende Sachbezüge, die während des Urlaubs nicht
-weitergewährt werden, sind für die Dauer des Urlaubs angemessen in bar
-abzugelten.
+weitergewährt werden, sind für die Dauer des Urlaubs angemessen in
+bar abzugelten.
 
 (2) Das Urlaubsentgelt ist vor Antritt des Urlaubs auszuzahlen.
 
@@ -166,14 +161,14 @@ abzugelten.
 ## § 12 Urlaub im Bereich der Heimarbeit
 
 Für die in Heimarbeit Beschäftigten und die ihnen nach § 1 Abs. 2
-Buchstaben a bis c des Heimarbeitsgesetzes Gleichgestellten, für die
-die Urlaubsregelung nicht ausdrücklich von der Gleichstellung
-ausgenommen ist, gelten die vorstehenden Bestimmungen mit Ausnahme der
-§§ 4 bis 6, 7 Abs. 3 und 4 und § 11 nach Maßgabe der folgenden
+Buchstaben a bis c des Heimarbeitsgesetzes Gleichgestellten, für
+die die Urlaubsregelung nicht ausdrücklich von der Gleichstellung
+ausgenommen ist, gelten die vorstehenden Bestimmungen mit Ausnahme
+der §§ 4 bis 6, 7 Abs. 3 und 4 und § 11 nach Maßgabe der folgenden
 Bestimmungen:
 
-1.  Heimarbeiter (§ 1 Abs. 1 Buchstabe a des Heimarbeitsgesetzes) und nach
-    § 1 Abs. 2 Buchstabe a des Heimarbeitsgesetzes Gleichgestellte
+1.  Heimarbeiter (§ 1 Abs. 1 Buchstabe a des Heimarbeitsgesetzes) und
+    nach § 1 Abs. 2 Buchstabe a des Heimarbeitsgesetzes Gleichgestellte
     erhalten von ihrem Auftraggeber oder, falls sie von einem
     Zwischenmeister beschäftigt werden, von diesem bei einem Anspruch auf
     24 Werktage ein Urlaubsentgelt von 9,1 vom Hundert des in der Zeit vom
@@ -183,18 +178,15 @@ Bestimmungen:
     ohne die für den Lohnausfall an Feiertagen, den Arbeitsausfall infolge
     Krankheit und den Urlaub zu leistenden Zahlungen.
 
-
 2.  War der Anspruchsberechtigte im Berechnungszeitraum nicht ständig
     beschäftigt, so brauchen unbeschadet des Anspruches auf Urlaubsentgelt
     nach Nummer 1 nur so viele Urlaubstage gegeben zu werden, wie
     durchschnittliche Tagesverdienste, die er in der Regel erzielt hat, in
     dem Urlaubsentgelt nach Nummer 1 enthalten sind.
 
-
-3.  Das Urlaubsentgelt für die in Nummer 1 bezeichneten Personen soll erst
-    bei der letzten Entgeltzahlung vor Antritt des Urlaubs ausgezahlt
+3.  Das Urlaubsentgelt für die in Nummer 1 bezeichneten Personen soll
+    erst bei der letzten Entgeltzahlung vor Antritt des Urlaubs ausgezahlt
     werden.
-
 
 4.  Hausgewerbetreibende (§ 1 Abs. 1 Buchstabe b des Heimarbeitsgesetzes)
     und nach § 1 Abs. 2 Buchstaben b und c des Heimarbeitsgesetzes
@@ -207,40 +199,33 @@ Bestimmungen:
     den Arbeitsausfall infolge Krankheit und den Urlaub zu leistenden
     Zahlungen.
 
-
 5.  Zwischenmeister, die den in Heimarbeit Beschäftigten nach § 1 Abs. 2
     Buchstabe d des Heimarbeitsgesetzes gleichgestellt sind, haben gegen
     ihren Auftraggeber Anspruch auf die von ihnen nach den Nummern 1 und 4
     nachweislich zu zahlenden Beträge.
 
-
 6.  Die Beträge nach den Nummern 1, 4 und 5 sind gesondert im Entgeltbeleg
     auszuweisen.
-
 
 7.  Durch Tarifvertrag kann bestimmt werden, daß Heimarbeiter (§ 1 Abs. 1
     Buchstabe a des Heimarbeitsgesetzes), die nur für einen Auftraggeber
     tätig sind und tariflich allgemein wie Betriebsarbeiter behandelt
     werden, Urlaub nach den allgemeinen Urlaubsbestimmungen erhalten.
 
-
 8.  Auf die in den Nummern 1, 4 und 5 vorgesehenen Beträge finden die §§
     23 bis 25, 27 und 28 und auf die in den Nummern 1 und 4 vorgesehenen
     Beträge außerdem § 21 Abs. 2 des Heimarbeitsgesetzes entsprechende
-    Anwendung. Für die Urlaubsansprüche der fremden Hilfskräfte der in
-    Nummer 4 genannten Personen gilt § 26 des Heimarbeitsgesetzes
+    Anwendung. Für die Urlaubsansprüche der fremden Hilfskräfte der
+    in Nummer 4 genannten Personen gilt § 26 des Heimarbeitsgesetzes
     entsprechend.
-
-
-
 
 
 ## § 13 Unabdingbarkeit
 
-(1) Von den vorstehenden Vorschriften mit Ausnahme der §§ 1, 2 und 3
-Abs. 1 kann in Tarifverträgen abgewichen werden. Die abweichenden
-Bestimmungen haben zwischen nichttarifgebundenen Arbeitgebern und
-Arbeitnehmern Geltung, wenn zwischen diesen die Anwendung der
+(1) Von den vorstehenden Vorschriften mit Ausnahme der §§ 1, 2 und
+3 Abs. 1 kann in Tarifverträgen abgewichen werden. Die abweichenden
+Bestimmungen haben zwischen nichttarifgebundenen Arbeitgebern
+und Arbeitnehmern Geltung, wenn zwischen diesen die Anwendung der
 einschlägigen tariflichen Urlaubsregelung vereinbart ist. Im übrigen
 kann, abgesehen von § 7 Abs. 2 Satz 2, von den Bestimmungen dieses
 Gesetzes nicht zuungunsten des Arbeitnehmers abgewichen werden.
@@ -272,9 +257,9 @@ im Land Berlin.
 ## § 15 Änderung und Aufhebung von Gesetzen
 
 (1) Unberührt bleiben die urlaubsrechtlichen Bestimmungen des
-Arbeitsplatzschutzgesetzes vom 30. März 1957 (Bundesgesetzbl. I S.
-293), geändert durch Gesetz vom 22. März 1962 (Bundesgesetzbl. I S.
-169), des Neunten Buches Sozialgesetzbuch des
+Arbeitsplatzschutzgesetzes vom 30. März 1957 (Bundesgesetzbl. I
+S. 293), geändert durch Gesetz vom 22. März 1962 (Bundesgesetzbl.
+I S. 169), des Neunten Buches Sozialgesetzbuch des
 Jugendarbeitsschutzgesetzes vom 9. August 1960 (Bundesgesetzbl. I S.
 665), geändert durch Gesetz vom 20. Juli 1962 (Bundesgesetzbl. I S.
 449), und des Seearbeitsgesetzes vom 20. April 2013 (BGBl. I S. 868),
@@ -290,8 +275,8 @@ körperlich in ihrer Erwerbsfähigkeit behindert sind.
 
 ## § 15a Übergangsvorschrift
 
-Befindet sich der Arbeitnehmer von einem Tag nach dem 9. Dezember 1998
-bis zum 1. Januar 1999 oder darüber hinaus in einer Maßnahme der
+Befindet sich der Arbeitnehmer von einem Tag nach dem 9. Dezember
+1998 bis zum 1. Januar 1999 oder darüber hinaus in einer Maßnahme der
 medizinischen Vorsorge oder Rehabilitation, sind für diesen Zeitraum
 die seit dem 1. Januar 1999 geltenden Vorschriften maßgebend, es sei
 denn, daß diese für den Arbeitnehmer ungünstiger sind.

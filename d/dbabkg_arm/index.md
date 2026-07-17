@@ -1,7 +1,5 @@
 ---
-Title: Gesetz zu dem Abkommen vom 29. Juni 2016 zwischen der Bundesrepublik Deutschland
-  und der Republik Armenien zur Vermeidung der Doppelbesteuerung und zur Verhinderung
-  der Steuerverkürzung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen
+Title: Gesetz zu dem Abkommen vom 29. Juni 2016 zwischen der Bundesrepublik Deutschland und der Republik Armenien zur Vermeidung der Doppelbesteuerung und zur Verhinderung der Steuerverkürzung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen
 jurabk: DBAbkG ARM
 layout: default
 origslug: dbabkg_arm
@@ -35,22 +33,18 @@ Das Abkommen wird nachstehend veröffentlicht.
 
 ## Art 2
 
-Das Bundesministerium der Finanzen wird ermächtigt, mit Zustimmung des
-Bundesrates Rechtsverordnungen zu erlassen, um die folgenden, im
+Das Bundesministerium der Finanzen wird ermächtigt, mit Zustimmung
+des Bundesrates Rechtsverordnungen zu erlassen, um die folgenden, im
 Abkommen vorgesehenen späteren Bestimmungen zu treffen über
 
 1.  den Zeitpunkt der Anwendung der Amtshilfe bei der Steuererhebung
     aufgrund einer Vereinbarung nach Artikel 31 Absatz 2 Buchstabe c des
     Abkommens und
 
-
 2.  im Alleineigentum der Regierung der Republik Armenien stehende
-    Finanzinstitute, für die aufgrund einer Verständigung nach Nummer 6
-    des Protokolls zum Abkommen der Artikel 11 Absatz 3 des Abkommens
+    Finanzinstitute, für die aufgrund einer Verständigung nach Nummer
+    6 des Protokolls zum Abkommen der Artikel 11 Absatz 3 des Abkommens
     Anwendung finden soll.
-
-
-
 
 
 ## Art 3

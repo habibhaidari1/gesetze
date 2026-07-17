@@ -31,8 +31,8 @@ mit Zustimmung des Bundesrates:
 
 ## § 1
 
-Zweck dieser Verordnung ist es, sicherzustellen, daß in einem
-Verteidigungsfall sowie in einer Zeit, in der die
+Zweck dieser Verordnung ist es, sicherzustellen, daß in
+einem Verteidigungsfall sowie in einer Zeit, in der die
 Verteidigungsbereitschaft der Bundesrepublik Deutschland im Hinblick
 auf einen möglichen Verteidigungsfall erhöht werden muß, die
 erforderlichen lebenswichtigen Verkehrsleistungen, insbesondere zur
@@ -49,34 +49,25 @@ betrieben werden
 1.  von Luftfahrtunternehmen (§ 20 Abs. 1 Satz 1 des
     Luftverkehrsgesetzes),
 
-
 2.  von sonstigen Haltern von Luftfahrzeugen
 
     a)  zur Erfüllung einer auf Gesetz, Rechtsverordnung oder behördlicher
         Verfügung beruhenden Verpflichtung,
 
-
     b)  zur Rettung von Menschen und zur Hilfe bei Notständen,
-
 
     c)  für lebenswichtige gewerbliche und berufliche Zwecke, wenn die höhere
         Verwaltungsbehörde des Landes bescheinigt hat, daß ein solcher Zweck
         vorliegt.
 
-
-
-
-
-
-
 (2) Das Bundesministerium für Verkehr und digitale Infrastruktur kann
-durch Rechtsverordnung Ausnahmen von den Beschränkungen nach Absatz 1
-zulassen und in den Fällen des Absatzes 1 Nr. 1 und 2 Buchstabe c
+durch Rechtsverordnung Ausnahmen von den Beschränkungen nach Absatz
+1 zulassen und in den Fällen des Absatzes 1 Nr. 1 und 2 Buchstabe c
 weitere Beschränkungen vorschreiben.
 
 (3) Die Absätze 1 und 2 gelten nicht für die von der Bundespolizei,
-der Polizei, dem Katastrophenschutz sowie von den Behörden des Bundes,
-der Länder, der Gemeinden und Gemeindeverbände betriebenen
+der Polizei, dem Katastrophenschutz sowie von den Behörden des
+Bundes, der Länder, der Gemeinden und Gemeindeverbände betriebenen
 Luftfahrzeuge, ferner für die bei Anwendung dieser Verordnung (§ 7
 Abs. 2) bereits angetretenen Flüge sowie für Rückflüge aus Gebieten
 außerhalb des Geltungsbereichs dieser Verordnung in das Bundesgebiet.
@@ -90,14 +81,10 @@ durch Rechtsverordnung
 1.  die Beförderungspflicht nach § 21 Abs. 2 bis 4 des
     Luftverkehrsgesetzes vorübergehend ruhen lassen.
 
-
-2.  Luftfahrtunternehmen, soweit sie einer Beförderungspflicht nach § 21
-    Abs. 2 bis 4 des Luftverkehrsgesetzes unterliegen, verpflichten,
+2.  Luftfahrtunternehmen, soweit sie einer Beförderungspflicht nach §
+    21 Abs. 2 bis 4 des Luftverkehrsgesetzes unterliegen, verpflichten,
     bestimmte Beförderungen mit Vorrang vor anderen Beförderungen oder in
     einer bestimmten Reihenfolge durchzuführen.
-
-
-
 
 
 ## § 4
@@ -116,9 +103,9 @@ Das Bundesministerium für Verkehr und digitale Infrastruktur kann ein
 nach § 20 Abs. 1 oder § 21 Abs. 1 des Luftverkehrsgesetzes genehmigtes
 Luftfahrtunternehmen verpflichten, regelmäßig oder unter bestimmten
 Voraussetzungen Meldungen über Art und Umfang der Verkehrsleistungen
-zu erstatten, die das Unternehmen jeweils erbringen kann. Dazu gehören
-insbesondere Angaben über die Zahl und den Betriebszustand der
-Luftfahrzeuge.
+zu erstatten, die das Unternehmen jeweils erbringen kann. Dazu
+gehören insbesondere Angaben über die Zahl und den Betriebszustand
+der Luftfahrzeuge.
 
 
 ## § 6
@@ -128,16 +115,12 @@ Luftfahrzeuge.
 1.  als Halter oder Führer eines Luftfahrzeugs entgegen § 2 Abs. 1 ein
     Luftfahrzeug betreibt,
 
-
-2.  als Luftfahrtunternehmer einer vollziehbaren Verpflichtung nach § 5
-    über die Meldung von Art und Umfang der Verkehrsleistungen nicht
+2.  als Luftfahrtunternehmer einer vollziehbaren Verpflichtung nach §
+    5 über die Meldung von Art und Umfang der Verkehrsleistungen nicht
     nachkommt oder
-
 
 3.  als Flugplatzhalter einer vollziehbaren Verpflichtung nach § 4 über
     die Meldung von Art und Umfang der Verkehrsleistungen nicht nachkommt,
-
-
 
 begeht eine Zuwiderhandlung im Sinne des § 26 Nr. 1 des
 Verkehrssicherstellungsgesetzes, die nach dem Wirtschaftsstrafgesetz
@@ -154,8 +137,8 @@ nach Absatz 1 Nr. 3 die oberste Landesverkehrsbehörde.
 
 (1) Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
-(2) Sie darf gemäß § 2 Abs. 3 des Verkehrssicherstellungsgesetzes nur
-nach Maßgabe des Artikels 80a des Grundgesetzes und erst dann
+(2) Sie darf gemäß § 2 Abs. 3 des Verkehrssicherstellungsgesetzes
+nur nach Maßgabe des Artikels 80a des Grundgesetzes und erst dann
 angewendet werden, wenn dies das Bundesministerium für Verkehr und
 digitale Infrastruktur durch Rechtsverordnung bestimmt.
 

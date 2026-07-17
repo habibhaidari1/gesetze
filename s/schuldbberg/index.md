@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zur Behandlung von Schuldbuchforderungen gegen die ehemalige Deutsche
-  Demokratische Republik
+Title: Gesetz zur Behandlung von Schuldbuchforderungen gegen die ehemalige Deutsche Demokratische Republik
 jurabk: SchuldBBerG
 layout: default
 origslug: schuldbberg
@@ -17,7 +16,6 @@ Fundstelle
 :   BGBl I: 1994, 2624, 2634
 
 
-
 ## § 1 Geltungsbereich
 
 (1) Dieses Gesetz regelt Ansprüche, die in der ehemaligen Deutschen
@@ -29,12 +27,9 @@ August 1951 (GBl. Nr. 93 S. 723) nach
     Aufbaugesetz - Entschädigungsgesetz - vom 25. April 1960 (GBl. I S.
     257),
 
-
 2.  dem Gesetz über die Entschädigung für die Bereitstellung von
     Grundstücken - Entschädigungsgesetz - vom 15. Juni 1984 (GBl. I S.
     209)
-
-
 
 begründet wurden.
 
@@ -47,8 +42,8 @@ gelöscht wurden.
 ## § 2 Schuldbuchforderungen mit besonderen Vermerken
 
 (1) Bei Schuldbuchforderungen mit besonderen Vermerken können
-Berechtigte (Entschädigungsberechtigte und ihre Gläubiger oder deren
-Rechtsnachfolger) bis spätestens 31. Dezember 1995 Anträge auf
+Berechtigte (Entschädigungsberechtigte und ihre Gläubiger oder
+deren Rechtsnachfolger) bis spätestens 31. Dezember 1995 Anträge auf
 Auszahlung ihres Anteils an der Schuldbuchforderung stellen. Die Frist
 gilt als gewahrt, wenn ein Antrag bei einem Amt zur Regelung offener
 Vermögensfragen auf Rückgabe eines Vermögenswertes, auf den sich die
@@ -57,14 +52,14 @@ erlöschen die Ansprüche.
 
 (2) Die Anträge sind bei den jeweiligen Schuldbuchstellen der
 Kreditanstalt für den Wiederaufbau, in deren Teilschuldbuch die
-Schuldbuchforderung eingetragen ist, zu stellen. Diese Stellen sind
-für die Bearbeitung der gestellten Anträge, für die Auszahlung an die
-Berechtigten sowie für die Löschung der entsprechenden
+Schuldbuchforderung eingetragen ist, zu stellen. Diese Stellen
+sind für die Bearbeitung der gestellten Anträge, für die Auszahlung
+an die Berechtigten sowie für die Löschung der entsprechenden
 Schuldbuchforderung zuständig.
 
 (3) Der Nachweis der einzelnen Ansprüche ist bei der Antragstellung
-nach Absatz 1 durch schriftliche Vereinbarungen der Berechtigten mit
-beglaubigten Unterschriften oder durch eine rechtskräftige
+nach Absatz 1 durch schriftliche Vereinbarungen der Berechtigten
+mit beglaubigten Unterschriften oder durch eine rechtskräftige
 gerichtliche Entscheidung zu erbringen.
 
 (4) Wenn die Ansprüche auf Erben übergegangen sind, ist dies durch
@@ -74,8 +69,8 @@ Erbschein nur für Zwecke der Auszahlung aus Schuldbuchforderungen
 verwendet werden soll. Bei Abtretungen der Schuldbuchforderung ist der
 Nachweis durch Vorlage einer entsprechenden Urkunde zu erbringen.
 
-(5) Die Berechtigten haben bei der Antragstellung zu erklären, ob sie
-für das entschädigte Vermögensobjekt Leistungen nach dem
+(5) Die Berechtigten haben bei der Antragstellung zu erklären,
+ob sie für das entschädigte Vermögensobjekt Leistungen nach dem
 Lastenausgleichsgesetz erhalten haben. Die Kreditanstalt für den
 Wiederaufbau ist ermächtigt, der Ausgleichsverwaltung über die Tilgung
 der Schuldbuchforderungen Kontrollmitteilung zu erteilen.
@@ -128,9 +123,9 @@ Vermögensgesetzes zu löschen.
 (1) Die Schuldbuchstellen der Kreditanstalt für den Wiederaufbau haben
 per 31. Dezember 1995 die Schuldbücher zu schließen.
 
-(2) Ist bis zum 31. Dezember 1995 der Nachweis der Berechtigten über
-ihre Ansprüche nach § 2 Abs. 3 und 4 nicht erbracht, so ist die
-Schuldbuchforderung zu löschen und als gesonderte Forderung zu
+(2) Ist bis zum 31. Dezember 1995 der Nachweis der Berechtigten
+über ihre Ansprüche nach § 2 Abs. 3 und 4 nicht erbracht, so ist
+die Schuldbuchforderung zu löschen und als gesonderte Forderung zu
 erfassen.
 
 (3) Die Kreditanstalt für den Wiederaufbau hat die nach Absatz 2
@@ -142,15 +137,15 @@ tilgen.
 
 ## § 7 Finanzielle Aufwendungen
 
-Die nach diesem Gesetz verbleibenden finanziellen Aufwendungen, die
-nach Auflösung des Kreditabwicklungsfonds anfallen, sind vom
+Die nach diesem Gesetz verbleibenden finanziellen Aufwendungen,
+die nach Auflösung des Kreditabwicklungsfonds anfallen, sind vom
 Erblastentilgungsfonds zu übernehmen.
 
 
 ## § 8 Aktenaufbewahrung
 
-Die Kreditanstalt für den Wiederaufbau hat die Schuldbuchakten der zum
-31\. Dezember 1995 geschlossenen Schuldbücher sowie die Akten der
+Die Kreditanstalt für den Wiederaufbau hat die Schuldbuchakten der
+zum 31. Dezember 1995 geschlossenen Schuldbücher sowie die Akten der
 gesonderten Forderungen nach § 6 Abs. 2 zehn Jahre aufzubewahren.
 
 

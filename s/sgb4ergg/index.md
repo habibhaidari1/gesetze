@@ -1,8 +1,5 @@
 ---
-Title: Gesetz zur Einordnung der Vorschriften über die Meldepflichten des Arbeitgebers
-  in der Kranken- und Rentenversicherung sowie im Arbeitsförderungsrecht und über
-  den Einzug des Gesamtsozialversicherungsbeitrags in das Vierte Buch Sozialgesetzbuch
-  - Gemeinsame Vorschriften für die Sozialversicherung -
+Title: Gesetz zur Einordnung der Vorschriften über die Meldepflichten des Arbeitgebers in der Kranken- und Rentenversicherung sowie im Arbeitsförderungsrecht und über den Einzug des Gesamtsozialversicherungsbeitrags in das Vierte Buch Sozialgesetzbuch - Gemeinsame Vorschriften für die Sozialversicherung -
 jurabk: SGB4ErgG
 layout: default
 origslug: sgb4ergg
@@ -19,7 +16,6 @@ Fundstelle
 :   BGBl I: 1988, 2330
 
 
-
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
@@ -29,19 +25,18 @@ beschlossen:
 ## Art 1 Änderung des Vierten Buches Sozialgesetzbuch
 
 ...
-§ 28m
-Sonderregelungen
-für bestimmte Personengruppen
-(1) Der Beschäftigte hat den Gesamtsozialversicherungsbeitrag zu
+*§ 28m*
+*Sonderregelungen*
+*für bestimmte Personengruppen*
+*(1) Der Beschäftigte hat den Gesamtsozialversicherungsbeitrag zu
 zahlen, wenn sein Arbeitgeber ein ausländischer Staat, eine über- oder
 zwischenstaatliche Organisation oder eine Person ist, die nicht der
 inländischen Gerichtsbarkeit untersteht und die Zahlungspflicht nach §
-28e Abs. 1 nicht erfüllt.
+28e Abs. 1 nicht erfüllt.*
 ...
 
 
 ## (XXXX) Art 2 bis 16
-
 
 
 ## Art 17 Übergangsvorschriften
@@ -52,8 +47,8 @@ Verkündung dieses Gesetzes mit einem öffentlichen oder privaten
 Versicherungsunternehmen für sich und ihre Hinterbliebenen einen
 Versicherungsvertrag für den Fall des Todes und des Erlebens des 65.
 oder eines niedrigeren Lebensjahres abgeschlossen haben. Die Befreiung
-von der Zahlungspflicht gilt nur für die Dauer der Beschäftigung bei
-einem Arbeitgeber, der ein ausländischer Staat, eine über- oder
+von der Zahlungspflicht gilt nur für die Dauer der Beschäftigung
+bei einem Arbeitgeber, der ein ausländischer Staat, eine über- oder
 zwischenstaatliche Organisation oder eine Person ist, die nicht der
 inländischen Gerichtsbarkeit untersteht. Personen im Sinne des Satzes
 1, die bis zur Verkündung dieses Gesetzes anstelle des in Satz 2

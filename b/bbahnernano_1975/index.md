@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl I: 1975, 2479
 
 
-
 ## I.
 
 Auf Grund der Anordnung des Bundespräsidenten über die Ernennung und
@@ -25,31 +24,16 @@ Entlassung der Bundesbeamten und Richter im Bundesdienst vom 14. Juli
 für Verkehr über die Ernennung und Entlassung der Bundesbeamten im
 Geschäftsbereich des Bundesministers für Verkehr vom 7. August 1975
 (Bundesgesetzbl. I S. 2185) übertragen wir die Ausübung des Rechtes
-zur Ernennung und Entlassung der Beamten der Besoldungsgruppen A 1 bis
-A 13 (gehobener Dienst) und der entsprechenden Beamten bis zur
+zur Ernennung und Entlassung der Beamten der Besoldungsgruppen A 1
+bis A 13 (gehobener Dienst) und der entsprechenden Beamten bis zur
 Anstellung - je für ihren Geschäftsbereich - auf
 
-*    *   die Präsidenten
-
-    *   der Bundesbahndirektionen,
-
-
-*    *
-    *   der Zentralen Transportleitung,
-
-
-*    *   der Bundesbahn-Zentralämter,
-
-
-*    *   der Zentralen Verkaufsleitung und  des Bundesbahn-Sozialamtes sowie
-
-
-*    *   den Direktor
-
-    *   der Zentralstelle für Betriebswirtschaft und Datenverarbeitung.
-
-
-
+| die Präsidenten | der Bundesbahndirektionen, |
+| --- | --- |
+|  | der Zentralen Transportleitung, |
+| der Bundesbahn-Zentralämter, |  |
+| der Zentralen Verkaufsleitung und des Bundesbahn-Sozialamtes sowie |  |
+| den Direktor | der Zentralstelle für Betriebswirtschaft und Datenverarbeitung. |
 
 
 ## II.

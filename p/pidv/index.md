@@ -33,38 +33,30 @@ S. 2228) eingefügt worden ist, verordnet die Bundesregierung:
 
 Diese Verordnung regelt die Anforderungen an
 
-1.  die Voraussetzungen für die Zulassung von Zentren, in denen die
-    Präimplantationsdiagnostik durchgeführt werden darf, und die Dauer der
-    Zulassung nach § 3a Absatz 3 Satz 3 Nummer 1 des
+1.  die Voraussetzungen für die Zulassung von Zentren, in denen
+    die Präimplantationsdiagnostik durchgeführt werden darf, und
+    die Dauer der Zulassung nach § 3a Absatz 3 Satz 3 Nummer 1 des
     Embryonenschutzgesetzes,
 
-
-2.  die Qualifikation der in den zugelassenen Zentren tätigen Ärztinnen
-    und Ärzte nach § 3a Absatz 3 Satz 3 Nummer 1 des
+2.  die Qualifikation der in den zugelassenen Zentren tätigen
+    Ärztinnen und Ärzte nach § 3a Absatz 3 Satz 3 Nummer 1 des
     Embryonenschutzgesetzes,
-
 
 3.  die Einrichtung, Zusammensetzung, Verfahrensweise und Finanzierung der
     Ethikkommissionen für Präimplantationsdiagnostik nach § 3a Absatz 3
     Satz 3 Nummer 2 des Embryonenschutzgesetzes,
 
-
-4.  die Einrichtung und Ausgestaltung der Zentralstelle nach § 3a Absatz 3
-    Satz 3 Nummer 3 des Embryonenschutzgesetzes, der die Dokumentation von
-    im Rahmen der Präimplantationsdiagnostik durchgeführten Maßnahmen
+4.  die Einrichtung und Ausgestaltung der Zentralstelle nach § 3a Absatz
+    3 Satz 3 Nummer 3 des Embryonenschutzgesetzes, der die Dokumentation
+    von im Rahmen der Präimplantationsdiagnostik durchgeführten Maßnahmen
     obliegt,
-
 
 5.  die Meldung von im Rahmen der Präimplantationsdiagnostik
     durchgeführten Maßnahmen nach § 3a Absatz 3 Satz 3 Nummer 4 des
     Embryonenschutzgesetzes und
 
-
 6.  die Dokumentation nach § 3a Absatz 3 Satz 3 Nummer 4 des
     Embryonenschutzgesetzes.
-
-
-
 
 
 ### § 2 Begriffsbestimmungen
@@ -75,10 +67,8 @@ Im Sinne dieser Verordnung
     eines Embryos in vitro vor seinem intrauterinen Transfer (§ 3a Absatz
     1 des Embryonenschutzgesetzes),
 
-
 2.  ist reproduktionsmedizinische Maßnahme die künstliche Befruchtung mit
     anschließender Gewinnung und Aufbereitung von Zellen,
-
 
 3.  sind Zellen im Sinne der Nummern 1 und 2 Stammzellen, die
 
@@ -86,16 +76,9 @@ Im Sinne dieser Verordnung
         Fähigkeit besitzen, sich in entsprechender Umgebung selbst durch
         Zellteilung zu vermehren, und
 
-
     b)  sich selbst oder deren Tochterzellen sich unter geeigneten Bedingungen
         zu Zellen unterschiedlicher Spezialisierung, jedoch nicht zu einem
         Individuum zu entwickeln vermögen.
-
-
-
-
-
-
 
 
 ## Abschnitt 2 - Anforderungen an Zentren und Ethikkommissionen
@@ -107,19 +90,16 @@ Im Sinne dieser Verordnung
 durchgeführt werden, das
 
 1.  über die nach dem jeweils gesicherten Stand der wissenschaftlichen
-    Erkenntnisse notwendigen diagnostischen, medizinischen und technischen
-    Möglichkeiten verfügt, und zwar sowohl für die
+    Erkenntnisse notwendigen diagnostischen, medizinischen und
+    technischen Möglichkeiten verfügt, und zwar sowohl für die
     reproduktionsmedizinische Maßnahme als auch für die genetische
     Untersuchung, und
-
 
 2.  von der zuständigen Behörde für die Durchführung der
     Präimplantationsdiagnostik zugelassen ist.
 
-
-
-Als Zentren können auch reproduktionsmedizinische und humangenetische
-Einrichtungen zugelassen werden, zwischen denen durch
+Als Zentren können auch reproduktionsmedizinische und
+humangenetische Einrichtungen zugelassen werden, zwischen denen durch
 Kooperationsvertrag sichergestellt ist, dass die in Satz 1 genannten
 Voraussetzungen erfüllt sind.
 
@@ -128,18 +108,15 @@ Voraussetzungen erfüllt sind.
 1.  das Zentrum über ein System der internen Qualitätssicherung verfügt
     und an geeigneten externen Qualitätssicherungsmaßnahmen teilnimmt,
 
-
 2.  im Zentrum sichergestellt ist, dass alle mit der
     Präimplantationsdiagnostik verbundenen Maßnahmen durch hierfür
     qualifiziertes Personal durchgeführt werden,
 
-
-3.  das Zentrum sicherstellt, dass die erforderliche Beratung zu den
-    medizinischen, psychischen und sozialen Folgen der mit der
+3.  das Zentrum sicherstellt, dass die erforderliche Beratung zu
+    den medizinischen, psychischen und sozialen Folgen der mit der
     Präimplantationsdiagnostik verbundenen Maßnahmen durch eine Ärztin
     oder einen Arzt erfolgt, die oder der die Maßnahmen nicht selbst
     durchführt,
-
 
 4.  für den Bereich der reproduktionsmedizinischen Maßnahme
 
@@ -148,59 +125,38 @@ Voraussetzungen erfüllt sind.
         über die Schwerpunktbezeichnung „Gynäkologische Endokrinologie und
         Reproduktionsmedizin“ verfügt,
 
-
     b)  in der reproduktionsmedizinischen Einrichtung Kenntnisse und
         Erfahrungen in den Bereichen Endokrinologie der Reproduktion,
         gynäkologische Sonographie, operative Gynäkologie,
         Reproduktionsbiologie mit dem Schwerpunkt der In-vitro-Kultur,
         Andrologie und psychosomatische Grundversorgung vorhanden sind,
 
-
-    c)  die reproduktionsmedizinische Einrichtung über hinreichende praktische
-        Erfahrung verfügt, insbesondere über Erfahrungen mit In-vitro-
-        Fertilisation, intracytoplasmatischer Spermieninjektion oder
+    c)  die reproduktionsmedizinische Einrichtung über hinreichende
+        praktische Erfahrung verfügt, insbesondere über Erfahrungen mit In-
+        vitro-Fertilisation, intracytoplasmatischer Spermieninjektion oder
         vergleichbaren Verfahren, mit Embryonentransfer und mit Techniken zur
         Gewinnung von Zellen und zu deren Aufbereitung,
-
 
     d)  die reproduktionsmedizinische Einrichtung über ein zellbiologisches
         Labor mit den notwendigen fachlichen Erfahrungen zur Zellaufbereitung
         verfügt und
-
-
-
-
 
 5.  für die Maßnahme der genetischen Untersuchung
 
     a)  die Person, die die humangenetische Einrichtung leitet, Fachärztin
         oder Facharzt für Humangenetik ist,
 
-
     b)  die humangenetische Einrichtung über Folgendes verfügt:
 
         aa) eine Akkreditierung durch die Deutsche Akkreditierungsstelle für
 
             aaa) vergleichende Genomhybridisierung oder molekularzytogenetische
-                Untersuchungen und
-
+                 Untersuchungen und
 
             bbb) molekulargenetische Untersuchungen sowie
 
-
-
-
-
         bb) hinreichende praktische Erfahrung mit der Anwendung dieser
             Untersuchungsmethoden an Einzelzellen.
-
-
-
-
-
-
-
-
 
 Ein Anspruch auf Zulassung besteht nicht. Bei notwendiger Auswahl
 zwischen mehreren geeigneten Zentren oder Einrichtungen, die eine
@@ -208,24 +164,20 @@ Zulassung beantragen, entscheidet die zuständige Behörde unter
 Berücksichtigung der öffentlichen Interessen, der Vielfalt der
 Bewerber und des Bedarfs an Zentren für Präimplantationsdiagnostik.
 
-(2a) Durch Staatsvertrag können die Länder regeln, dass die Zentren in
-den beteiligten Ländern durch eine gemeinsame Stelle zugelassen
+(2a) Durch Staatsvertrag können die Länder regeln, dass die Zentren
+in den beteiligten Ländern durch eine gemeinsame Stelle zugelassen
 werden.
 
 (3) Der Antrag auf Zulassung ist schriftlich zu stellen und hat
 folgende Angaben und Unterlagen zu enthalten:
 
-1.  den Namen und die Anschrift des Antragstellers; in den Fällen des
-    Absatzes 1 Satz 2 ist Antragsteller die Person, die die
+1.  den Namen und die Anschrift des Antragstellers; in den Fällen
+    des Absatzes 1 Satz 2 ist Antragsteller die Person, die die
     humangenetische Einrichtung leitet,
-
 
 2.  Nachweise, aus denen sich das Vorliegen der Anforderungen nach Absatz
     2 Satz 1 Nummer 1 bis 5 ergibt; in den Fällen des Absatzes 1 Satz 2
     auch eine Kopie des Kooperationsvertrags.
-
-
-
 
 (4) Die Zulassung eines Zentrums muss die zuständige Behörde
 schriftlich erteilen. Sie ist auf fünf Jahre zu befristen. Die
@@ -247,13 +199,13 @@ Rücknahme oder des Widerrufs der Zulassung zu erfolgen.
 (1) Die Länder richten für die für die Durchführung der
 Präimplantationsdiagnostik zugelassenen Zentren unabhängige
 interdisziplinär zusammengesetzte Ethikkommissionen für
-Präimplantationsdiagnostik (Ethikkommissionen) ein. Dabei können die
-Länder auch gemeinsame Ethikkommissionen einrichten. Die
+Präimplantationsdiagnostik (Ethikkommissionen) ein. Dabei können
+die Länder auch gemeinsame Ethikkommissionen einrichten. Die
 Ethikkommissionen setzen sich aus vier Sachverständigen der
 Fachrichtung Medizin, jeweils einem oder einer Sachverständigen der
 Fachrichtungen Ethik und Recht sowie jeweils einem Vertreter der für
-die Wahrnehmung der Interessen der Patientinnen und Patienten und der
-Selbsthilfe behinderter Menschen auf Landesebene maßgeblichen
+die Wahrnehmung der Interessen der Patientinnen und Patienten und
+der Selbsthilfe behinderter Menschen auf Landesebene maßgeblichen
 Organisationen zusammen. Bei der Zusammensetzung der Ethikkommission
 hat die berufende Stelle Frauen und Männer mit dem Ziel ihrer
 gleichberechtigten Teilhabe zu berücksichtigen.
@@ -274,46 +226,41 @@ Berufung der Mitglieder der Ethikkommissionen ist zu befristen.
 
 ### § 5 Antrag auf Durchführung einer Präimplantationsdiagnostik
 
-(1) Die Ethikkommission wird zur Prüfung und Bewertung nach § 3a
-Absatz 3 Satz 1 Nummer 2 des Embryonenschutzgesetzes nur auf
-schriftlichen Antrag der Frau, von der die Eizelle stammt
+(1) Die Ethikkommission wird zur Prüfung und Bewertung nach
+§ 3a Absatz 3 Satz 1 Nummer 2 des Embryonenschutzgesetzes nur
+auf schriftlichen Antrag der Frau, von der die Eizelle stammt
 (Antragsberechtigte), tätig.
 
 (2) Der Antrag hat alle Angaben und Unterlagen zu enthalten, die die
-Ethikkommission für die Prüfung des Vorliegens der in § 3a Absatz 2
-des Embryonenschutzgesetzes genannten Voraussetzungen benötigt.
+Ethikkommission für die Prüfung des Vorliegens der in § 3a Absatz
+2 des Embryonenschutzgesetzes genannten Voraussetzungen benötigt.
 Vorzulegen sind:
 
-1.  in den Fällen des § 3a Absatz 2 Satz 1 des Embryonenschutzgesetzes ein
-    ärztlich-humangenetischer Befund über die genetische Disposition der
-    Frau, von der die Eizelle stammt, oder des Mannes, von dem die
-    Samenzelle stammt, oder von beiden, einschließlich der Bezeichnung der
-    daraus hervorgehenden Erbkrankheit, Angaben zur
-    Erkrankungswahrscheinlichkeit der Nachkommen sowie zu der zu
+1.  in den Fällen des § 3a Absatz 2 Satz 1 des Embryonenschutzgesetzes
+    ein ärztlich-humangenetischer Befund über die genetische
+    Disposition der Frau, von der die Eizelle stammt, oder des Mannes,
+    von dem die Samenzelle stammt, oder von beiden, einschließlich
+    der Bezeichnung der daraus hervorgehenden Erbkrankheit, Angaben
+    zur Erkrankungswahrscheinlichkeit der Nachkommen sowie zu der zu
     erwartenden Krankheitsausprägung,
-
 
 2.  ein Nachweis der schriftlichen Einwilligung der Antragsberechtigten
     nach § 8 Absatz 1 in die Erhebung, Verarbeitung und Nutzung ihrer
     personenbezogenen Daten durch die Ethikkommission,
-
 
 3.  ein Nachweis der schriftlichen Einwilligung des Mannes, von dem die
     Samenzelle stammt, in die Erhebung, Verarbeitung und Nutzung seiner
     personenbezogenen Daten durch die Ethikkommission, soweit dessen
     personenbezogene Daten Gegenstand des Antrags sind,
 
-
 4.  in den Fällen des § 3a Absatz 2 Satz 2 des Embryonenschutzgesetzes
     eine ärztliche Beurteilung der Annahme, dass eine schwerwiegende
     Schädigung des Embryos zu erwarten ist, die mit hoher
     Wahrscheinlichkeit zu einer Tot- oder Fehlgeburt führen wird,
 
-
 5.  die Angabe des Zentrums, in dem die Präimplantationsdiagnostik
     durchgeführt werden soll, einschließlich der Bestätigung, dass diese
     dort im Fall einer zustimmenden Bewertung durchgeführt werden wird,
-
 
 6.  Angaben darüber, ob hinsichtlich des zur Bewertung vorgelegten
     Sachverhaltes bereits die Entscheidung einer anderen Ethikkommission
@@ -321,15 +268,12 @@ Vorzulegen sind:
     Entscheidung vorliegt, eine Abschrift dieser Entscheidung.
 
 
-
-
-
 ### § 6 Prüfung des Antrags auf Durchführung einer Präimplantationsdiagnostik
 
-(1) Die Ethikkommission übermittelt der Antragsberechtigten innerhalb
-einer Frist von drei Monaten nach Vorliegen der nach § 5 Absatz 2
-erforderlichen Angaben und vollständigen Unterlagen ihre schriftliche
-Entscheidung über den Antrag auf Durchführung einer
+(1) Die Ethikkommission übermittelt der Antragsberechtigten
+innerhalb einer Frist von drei Monaten nach Vorliegen der nach § 5
+Absatz 2 erforderlichen Angaben und vollständigen Unterlagen ihre
+schriftliche Entscheidung über den Antrag auf Durchführung einer
 Präimplantationsdiagnostik.
 
 (2) Die Ethikkommissionen können zur Prüfung eines Antrags auf
@@ -338,17 +282,12 @@ eingereichten Unterlagen
 
 1.  eigene wissenschaftliche Erkenntnisse verwerten,
 
-
 2.  Sachverständige beiziehen, die mit der Gesundheitsschädigung, die
     Gegenstand des zu prüfenden Antrags ist, Erfahrung haben,
 
-
 3.  Gutachten anfordern oder
 
-
 4.  die Antragsberechtigte mündlich anhören.
-
-
 
 Die Ethikkommissionen sind verpflichtet, in den Fällen von Satz 1
 Nummer 2 und 3 die personenbezogenen Daten zu anonymisieren oder,
@@ -356,11 +295,11 @@ solange eine Anonymisierung zur Erlangung der notwendigen Erkenntnisse
 noch nicht möglich ist, zu pseudonymisieren.
 
 (3) Ärztinnen und Ärzte sind von der Prüfung eines Antrags auf
-Durchführung einer Präimplantationsdiagnostik ausgeschlossen, wenn sie
-im Fall einer zustimmenden Bewertung des Antrags die
-Präimplantationsdiagnostik durchführen, an der künstlichen Befruchtung
-beteiligt sein werden oder in dem Zentrum, in dem die
-Präimplantationsdiagnostik oder die künstliche Befruchtung
+Durchführung einer Präimplantationsdiagnostik ausgeschlossen,
+wenn sie im Fall einer zustimmenden Bewertung des Antrags die
+Präimplantationsdiagnostik durchführen, an der künstlichen
+Befruchtung beteiligt sein werden oder in dem Zentrum, in dem
+die Präimplantationsdiagnostik oder die künstliche Befruchtung
 durchgeführt werden soll, tätig sind.
 
 (4) Die Ethikkommissionen haben den Antrag auf Durchführung einer
@@ -376,8 +315,8 @@ zwei Dritteln der stimmberechtigten Mitglieder.
 ### § 7 Umgang der Ethikkommissionen mit Daten
 
 (1) Die Ethikkommissionen dürfen mit Einwilligung der
-Antragsberechtigten und soweit personenbezogene Daten des Mannes, von
-dem die Samenzelle stammt, Gegenstand des Antrags sind, auch mit
+Antragsberechtigten und soweit personenbezogene Daten des Mannes,
+von dem die Samenzelle stammt, Gegenstand des Antrags sind, auch mit
 dessen Einwilligung nach § 8 Absatz 1 die in § 5 Absatz 2 genannten
 personenbezogenen Daten zu dem dort genannten Zweck verarbeiten.
 
@@ -392,18 +331,18 @@ der Daten auszuschließen.
 Unterlagen nach § 5 Absatz 2 sowie alle für die Entscheidung der
 Ethikkommission maßgeblichen Dokumente nach der Entscheidung über den
 Antrag 30 Jahre aufbewahrt werden. Nach Ablauf der in Satz 1 genannten
-Frist sind die Angaben und Unterlagen unverzüglich zu löschen. Die
-Angaben und Unterlagen sind vor Ablauf der in Satz 1 genannten Frist
-unverzüglich zu löschen, wenn der Antrag nach § 5 Absatz 1
+Frist sind die Angaben und Unterlagen unverzüglich zu löschen.
+Die Angaben und Unterlagen sind vor Ablauf der in Satz 1 genannten
+Frist unverzüglich zu löschen, wenn der Antrag nach § 5 Absatz 1
 zurückgenommen wird.
 
 
 ### § 8 Datenerhebung, -verarbeitung und -nutzung
 
-(1) Das zugelassene Zentrum für Präimplantationsdiagnostik holt die
-schriftliche Einwilligung der Antragsberechtigten für die Verarbeitung
-personenbezogener Daten, die für die Durchführung der
-Präimplantationsdiagnostik und für das Verfahren vor der
+(1) Das zugelassene Zentrum für Präimplantationsdiagnostik holt
+die schriftliche Einwilligung der Antragsberechtigten für die
+Verarbeitung personenbezogener Daten, die für die Durchführung
+der Präimplantationsdiagnostik und für das Verfahren vor der
 Ethikkommission erforderlich sind, ein. Zuvor klärt das zugelassene
 Zentrum für Präimplantationsdiagnostik die Antragsberechtigte
 umfassend über die nach Satz 1 vorgesehene Verarbeitung
@@ -414,32 +353,26 @@ von dem die Samenzelle stammt, sofern seine personenbezogenen Daten
 für die Durchführung der Präimplantationsdiagnostik und im Verfahren
 vor der Ethikkommission erforderlich sind.
 
-(2) Die zugelassenen Zentren für Präimplantationsdiagnostik sind
-verpflichtet, der Zentralstelle nach § 9 folgende Daten in
+(2) Die zugelassenen Zentren für Präimplantationsdiagnostik
+sind verpflichtet, der Zentralstelle nach § 9 folgende Daten in
 anonymisierter Form zu übermitteln:
 
 1.  die Anzahl der Anträge auf zustimmende Bewertung zur Durchführung
     einer Präimplantationsdiagnostik,
 
-
 2.  die Anzahl der nach zustimmender Bewertung durchgeführten
     Präimplantationsdiagnostiken,
-
 
 3.  die Anzahl der abgelehnten Anträge auf zustimmende Bewertung zur
     Durchführung einer Präimplantationsdiagnostik und
 
-
-4.  die Anzahl des jeweiligen Begründungstyps der Indikationsstellung nach
-    § 3a Absatz 2 des Embryonenschutzgesetzes, untergliedert nach
-    Chromosomenstörungen und autosomal-dominant, autosomal-rezessiv und
-    geschlechtsgebunden erblichen Krankheiten, einschließlich der
+4.  die Anzahl des jeweiligen Begründungstyps der Indikationsstellung
+    nach § 3a Absatz 2 des Embryonenschutzgesetzes, untergliedert nach
+    Chromosomenstörungen und autosomal-dominant, autosomal-rezessiv
+    und geschlechtsgebunden erblichen Krankheiten, einschließlich der
     jeweiligen genetischen Untersuchungsmethoden, die bei Durchführung der
     Präimplantationsdiagnostik angewendet wurden oder angewendet werden
     sollten.
-
-
-
 
 (3) Die Angaben nach Absatz 2 haben die zugelassenen Zentren für
 Präimplantationsdiagnostik der Zentralstelle nach § 9 jährlich nach

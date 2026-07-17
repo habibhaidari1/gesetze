@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Bestimmung der zur Aufnahme von Verklarungen berechtigten
-  Auslandsvertretungen der Bundesrepublik Deutschland
+Title: Verordnung über die Bestimmung der zur Aufnahme von Verklarungen berechtigten Auslandsvertretungen der Bundesrepublik Deutschland
 jurabk: VerklV
 layout: default
 origslug: verklv
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 2007, 1005
-
 
 
 ## Eingangsformel
@@ -33,125 +31,33 @@ verordnet das Auswärtige Amt:
 Außerhalb des Geltungsbereichs des Grundgesetzes werden Verklarungen
 durch folgende Auslandsvertretungen aufgenommen:
 
-*    *   Botschaften der Bundesrepublik Deutschland in
-
-
-*    *   Addis Abeba
-
-    *   Lima
-
-
-*    *   Algier
-
-    *   Lissabon
-
-
-*    *   Athen
-
-    *   London
-
-
-*    *   Bangkok
-
-    *   Montevideo
-
-
-*    *   Beirut
-
-    *   Moskau
-
-
-*    *   Bogotá
-
-    *   Oslo
-
-
-*    *   Brüssel
-
-    *   Paris
-
-
-*    *   Buenos Aires
-
-    *   Rom
-
-
-*    *   Bukarest
-
-    *   Santiago de Chile
-
-
-*    *   Canberra
-
-    *   Singapur
-
-
-*    *   Caracas
-
-    *   Stockholm
-
-
-*    *   Den Haag
-
-    *   Teheran
-
-
-*    *   Dublin
-
-    *   Tel Aviv
-
-
-*    *   Helsinki
-
-    *   Tokyo
-
-
-*    *   Kairo
-
-    *   Washington
-
-
-*    *   Kopenhagen
-
-    *   Zagreb
-
-
-
-
-*    *   Generalkonsulate der Bundesrepublik Deutschland in
-
-
-*    *   Barcelona
-
-    *   Mumbai
-
-
-*    *   Chicago
-
-    *   New York
-
-
-*    *   Hongkong
-
-    *   Rio de Janeiro
-
-
-*    *   Istanbul
-
-    *   São Paulo
-
-
-*    *   Karachi
-
-    *   St. Petersburg
-
-
-*    *   Los Angeles
-
-    *   Toronto.
-
-
-
+| Botschaften der Bundesrepublik Deutschland in |  |
+| --- | --- |
+| Addis Abeba | Lima |
+| Algier | Lissabon |
+| Athen | London |
+| Bangkok | Montevideo |
+| Beirut | Moskau |
+| Bogotá | Oslo |
+| Brüssel | Paris |
+| Buenos Aires | Rom |
+| Bukarest | Santiago de Chile |
+| Canberra | Singapur |
+| Caracas | Stockholm |
+| Den Haag | Teheran |
+| Dublin | Tel Aviv |
+| Helsinki | Tokyo |
+| Kairo | Washington |
+| Kopenhagen | Zagreb |
+
+| Generalkonsulate der Bundesrepublik Deutschland in |  |
+| --- | --- |
+| Barcelona | Mumbai |
+| Chicago | New York |
+| Hongkong | Rio de Janeiro |
+| Istanbul | São Paulo |
+| Karachi | St. Petersburg |
+| Los Angeles | Toronto. |
 
 
 ## § 2

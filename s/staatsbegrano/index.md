@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl I: 1966, 337
 
 
-
 ## Eingangsformel
 
 Auf Vorschlag der Bundesregierung bestimme ich:
@@ -42,8 +41,8 @@ Anordnungen nach I und II trifft der Bundespräsident.
 
 ## IV.
 
-Die Durchführung von Staatsbegräbnissen und Staatsakten obliegt dem
-Bundesminister des Innern; für Mitglieder des Bundestages, des
+Die Durchführung von Staatsbegräbnissen und Staatsakten obliegt
+dem Bundesminister des Innern; für Mitglieder des Bundestages, des
 Bundesrates und des Bundesverfassungsgerichts kann der Bundespräsident
 den Präsidenten dieser Verfassungsorgane die Durchführung übertragen.
 

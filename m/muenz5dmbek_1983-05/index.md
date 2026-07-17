@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen
-  Mark (Gedenkmünze Karl Marx)
+Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Gedenkmünze Karl Marx)
 jurabk: Münz5DMBek 1983-05
 layout: default
 origslug: m_nz5dmbek_1983-05
@@ -17,7 +16,6 @@ Fundstelle
 :   BGBl I: 1983, 611
 
 
-
 ## (XXXX)
 
 (1) Auf Grund des § 6 des Gesetzes über die Ausprägung von
@@ -30,8 +28,8 @@ Münze.
 
 (2) Die Münze wird ab 21. Juni 1983 in den Verkehr gebracht.
 
-(3) Die Münze besteht überwiegend aus einer Kupfer-Nickel-Legierung
-(75 Prozent Kupfer und 25 Prozent Nickel) und hat einen
+(3) Die Münze besteht überwiegend aus einer Kupfer-Nickel-
+Legierung (75 Prozent Kupfer und 25 Prozent Nickel) und hat einen
 Reinnickelkern. Sie hat einen Durchmesser von 29 Millimetern und ein
 Gewicht von 10 Gramm.
 
@@ -41,32 +39,23 @@ schützenden glatten Randstab umgeben.
 (5) Die Bildseite zeigt das Porträt des Philosophen,
 Sozialwissenschaftlers und -politikers sowie die Umschrift:
 
-*   "KARL MARX
+-   "KARL MARX
 
     1818-1883".
-
-
-
 
 (6) Die Wertseite trägt einen Adler, die Jahreszahl, das Münzzeichen
 und die Umschrift:
 
-*   "BUNDESREPUBLIK DEUTSCHLAND
+-   "BUNDESREPUBLIK DEUTSCHLAND
 
     5 DEUTSCHE MARK 1983".
-
-
-
 
 (7) Die in "19" und "83" unterteilte Jahreszahl ist beiderseits der
 Wertziffer 5 angebracht. Das Münzzeichen "J" der Hamburgischen Münze
 befindet sich in der Umschrift rechts neben dem Wort "MARK". Der
 glatte Münzrand enthält die vertiefte Inschrift:
 
-*   "WAHRHEIT ALS WIRKLICHKEIT UND MACHT".
-
-
-
+-   "WAHRHEIT ALS WIRKLICHKEIT UND MACHT".
 
 (8) Zwischen Ende und Anfang der Randschrift ist ein doppelblättriges
 Eichenblattornament mit zwei Eicheln eingeprägt.

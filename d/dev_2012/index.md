@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Erhebung von Daten zur Aufstellung des nationalen  Zuteilungsplans
-  für die Zuteilungsperiode 2008 bis 2012
+Title: Verordnung über die Erhebung von Daten zur Aufstellung des nationalen Zuteilungsplans für die Zuteilungsperiode 2008 bis 2012
 jurabk: DEV 2012
 layout: default
 origslug: dev_2012
@@ -8,7 +7,7 @@ slug: dev_2012
 
 ---
 
-# Verordnung über die Erhebung von Daten zur Aufstellung des nationalen  Zuteilungsplans für die Zuteilungsperiode 2008 bis 2012 (DEV 2012)
+# Verordnung über die Erhebung von Daten zur Aufstellung des nationalen Zuteilungsplans für die Zuteilungsperiode 2008 bis 2012 (DEV 2012)
 
 Ausfertigungsdatum
 :   2006-07-11
@@ -20,7 +19,6 @@ Zuletzt geändert durch
 :   Art. 2 Abs. 12 G v. 21.12.2015 I 2498
 
 
-
 ## Eingangsformel
 
 Auf Grund des § 8 Abs. 4 des Treibhausgas-Emissionshandelsgesetzes vom
@@ -30,16 +28,15 @@ Auf Grund des § 8 Abs. 4 des Treibhausgas-Emissionshandelsgesetzes vom
 ## Abschnitt 1 - Allgemeine Vorschriften
 
 
-
 ### § 1 Anwendungsbereich und Zweck
 
 (1) Diese Verordnung gilt innerhalb des Anwendungsbereichs des
-Treibhausgas-Emissionshandelsgesetzes. Sie dient der Aufstellung des
-nationalen Zuteilungsplans und der Vorbereitung der
+Treibhausgas-Emissionshandelsgesetzes. Sie dient der Aufstellung
+des nationalen Zuteilungsplans und der Vorbereitung der
 Zuteilungsentscheidungen für die Zuteilungsperiode 2008 bis 2012.
 
-(2) Vom Anwendungsbereich dieser Verordnung ausgenommen sind
-Tätigkeiten nach Anhang 1 Nr. XIII des Treibhausgas-
+(2) Vom Anwendungsbereich dieser Verordnung ausgenommen
+sind Tätigkeiten nach Anhang 1 Nr. XIII des Treibhausgas-
 Emissionshandelsgesetzes vom 8. Juli 2004 (BGBl. I S. 1578), das
 zuletzt durch Artikel 9 des Gesetzes vom 11. August 2010 (BGBl. I S.
 1163) geändert worden ist, soweit die Anlagen zum Brennen keramischer
@@ -57,20 +54,14 @@ Zuteilungsgesetzes 2007 sowie der Zuteilungsverordnung 2007.
 
 1.  zuständige Behörde: das Umweltbundesamt,
 
-
 2.  Datenmitteilung: Mitteilung des Betreibers über die nach dieser
     Verordnung anzugebenden Daten,
-
 
 3.  Gesamtbrennstoffenergie: Summe der zugeführten Brennstoffmengen
     multipliziert mit ihren jeweiligen unteren Heizwerten.
 
 
-
-
-
 ## Abschnitt 2 - Berichtspflichten
-
 
 
 ### § 3 Angabe von Emissionsdaten
@@ -87,13 +78,13 @@ für das Kalenderjahr 2004.
 (3) Soweit eine Zuteilung für die Zuteilungsperiode 2005 bis 2007 auf
 der Grundlage von § 7 Abs. 12 des Zuteilungsgesetzes 2007 erfolgte,
 gilt die Verpflichtung nach Absatz 1 zusätzlich für die in den
-Kalenderjahren 2000 bis 2002 verursachten Kohlendioxid-Emissionen. Für
-Anlagen, deren Inbetriebnahme im Zeitraum vom 1. Januar 2000 bis zum
-31\. Dezember 2000 erfolgte, gilt die Verpflichtung nach Satz 1 ab dem
-Kalenderjahr 2001. Bei einer Inbetriebnahme nach dem 31. Dezember 2000
-gilt die Verpflichtung nach Satz 1 ab dem Zeitpunkt der
-Inbetriebnahme; für das Jahr der Inbetriebnahme ist eine Hochrechnung
-der Gesamtemissionen nach Maßgabe von Anhang 8 der
+Kalenderjahren 2000 bis 2002 verursachten Kohlendioxid-Emissionen.
+Für Anlagen, deren Inbetriebnahme im Zeitraum vom 1. Januar 2000
+bis zum 31. Dezember 2000 erfolgte, gilt die Verpflichtung nach
+Satz 1 ab dem Kalenderjahr 2001. Bei einer Inbetriebnahme nach
+dem 31. Dezember 2000 gilt die Verpflichtung nach Satz 1 ab dem
+Zeitpunkt der Inbetriebnahme; für das Jahr der Inbetriebnahme ist
+eine Hochrechnung der Gesamtemissionen nach Maßgabe von Anhang 8 der
 Zuteilungsverordnung 2007 anzugeben. Die Sätze 2 und 3 gelten bei
 Kapazitätserweiterungen und Kapazitätsverringerungen entsprechend.
 
@@ -116,28 +107,19 @@ bis 2005 zusätzlich folgende produktionsbezogene Daten anzugeben:
 
 1.  Nettostromerzeugung in Kraft-Wärme-Kopplung pro Jahr,
 
-
 2.  Nettowärmeerzeugung in Kraft-Wärme-Kopplung pro Jahr,
-
 
 3.  in Kraft-Wärme-Kopplung bereitgestellte mechanische Arbeit pro Jahr,
 
-
 4.  Nettostromerzeugung pro Jahr,
-
 
 5.  Nettowärmeerzeugung pro Jahr,
 
-
 6.  bereitgestellte mechanische Arbeit pro Jahr,
-
 
 7.  Nutzungsgrad des Kraft-Wärme-Kopplungs-Prozesses,
 
-
 8.  Gesamtbrennstoffenergie.
-
-
 
 Für die in den Nummern 1 bis 7 verwendeten Begriffe sind die
 Begriffsbestimmungen im Arbeitsblatt FW 308 - Zertifizierung von KWK-
@@ -173,8 +155,8 @@ Regelungen enthalten, sind die in der Datenmitteilung anzugebenden
 Daten und Informationen im Einklang mit der Entscheidung 2004/156/EG
 der Kommission vom 29. Januar 2004 zur Festlegung von Leitlinien für
 Überwachung und Berichterstattung betreffend Treibhausgasemissionen
-gemäß der Richtlinie 2003/87/EG des Europäischen Parlaments und des
-Rates (ABl. EU Nr. L 59 S. 1, Nr. L 177 S. 4) zu ermitteln und
+gemäß der Richtlinie 2003/87/EG des Europäischen Parlaments und
+des Rates (ABl. EU Nr. L 59 S. 1, Nr. L 177 S. 4) zu ermitteln und
 anzugeben. Soweit die Anforderungen nach Satz 1 nicht eingehalten
 werden können, sind die Daten mit dem im Einzelfall höchsten
 erreichbaren Grad an Genauigkeit und Vollständigkeit zu ermitteln und
@@ -197,19 +179,16 @@ Tonnen im Kalenderjahr 2005 gelten die Anforderungen der Absätze 1 und
     Parametern ist der erreichbare Grad an Genauigkeit gemäß der
     niedrigsten Ebenenkombination maßgebend.
 
-
 2.  Angaben zu Unsicherheiten bei der Bestimmung von Tätigkeitsdaten
     können auf der Basis von Informationen des Herstellers von
-    Messeinrichtungen erfolgen; eine spezifische Betrachtung der mit der
-    Nutzung der Messeinrichtungen verbundenen Unsicherheiten kann
+    Messeinrichtungen erfolgen; eine spezifische Betrachtung der mit
+    der Nutzung der Messeinrichtungen verbundenen Unsicherheiten kann
     entfallen.
 
-
 3.  Tätigkeitsdaten für Brennstoffe und Materialien können ohne weitere
-    Betrachtung von Unsicherheiten auf der Basis von Rechnungsdaten oder
-    einer konservativen Schätzung der Änderung des Lagerbestandes
+    Betrachtung von Unsicherheiten auf der Basis von Rechnungsdaten
+    oder einer konservativen Schätzung der Änderung des Lagerbestandes
     angegeben werden.
-
 
 4.  Sofern regelmäßig Brennstoffe und Materialien gleicher Art,
     Zusammensetzung und Herkunft eingesetzt werden und keine
@@ -217,8 +196,6 @@ Tonnen im Kalenderjahr 2005 gelten die Anforderungen der Absätze 1 und
     können die im Rahmen der Emissionsberichterstattung nach § 5 des
     Treibhausgas-Emissionshandelsgesetzes für das Kalenderjahr 2005
     verwendeten stoffspezifischen Parameter angesetzt werden.
-
-
 
 Für die Bestimmung der in Satz 1 genannten Emissionsmenge im
 Kalenderjahr 2005 ist der Eintrag in der Tabelle der geprüften
@@ -233,9 +210,9 @@ der Entscheidung 280/2004/EG des Europäischen Parlaments und des Rates
 
 Hinsichtlich der allgemeinen Regeln zur Bestimmung der Kohlendioxid-
 Emissionen gelten die §§ 4 bis 9 der Zuteilungsverordnung 2007
-entsprechend. Dabei gelten § 4 Abs. 3 Satz 2, § 5 Abs. 2, § 7 Abs. 3,
-§ 8 Satz 1 und § 9 Abs. 4 der Zuteilungsverordnung 2007 jeweils mit
-der Maßgabe, dass nicht auf den Zuteilungsantrag, sondern auf die
+entsprechend. Dabei gelten § 4 Abs. 3 Satz 2, § 5 Abs. 2, § 7 Abs.
+3, § 8 Satz 1 und § 9 Abs. 4 der Zuteilungsverordnung 2007 jeweils
+mit der Maßgabe, dass nicht auf den Zuteilungsantrag, sondern auf die
 Datenmitteilung Bezug genommen wird. § 7 Abs. 2 und § 9 Abs. 3 der
 Zuteilungsverordnung 2007 gelten nicht.
 
@@ -243,11 +220,10 @@ Zuteilungsverordnung 2007 gelten nicht.
 ## Abschnitt 3 - Verfahren der Datenerhebung
 
 
-
 ### § 9 Elektronische Formularvorlagen
 
-Die zuständige Behörde kann vorschreiben, dass der Betreiber die auf
-ihrer Internetseite zur Verfügung gestellten elektronischen
+Die zuständige Behörde kann vorschreiben, dass der Betreiber die
+auf ihrer Internetseite zur Verfügung gestellten elektronischen
 Formularvorlagen zu benutzen hat und die vom Betreiber ausgefüllten
 Formularvorlagen in elektronischer Form zu übermitteln sind. Sie gibt
 Anordnungen nach Satz 1 rechtzeitig im Bundesanzeiger bekannt.
@@ -256,27 +232,27 @@ Anordnungen nach Satz 1 rechtzeitig im Bundesanzeiger bekannt.
 ### § 10 Verifizierung der Datenmitteilung
 
 (1) Die Angaben in der Datenmitteilung müssen von einer
-sachverständigen Stelle verifiziert worden sein, die nach § 10 Abs. 1
-des Treibhausgas-Emissionshandelsgesetzes vom 8. Juli 2004 (BGBl. I S.
-1578), das zuletzt durch Artikel 9 des Gesetzes vom 11. August 2010
+sachverständigen Stelle verifiziert worden sein, die nach § 10 Abs.
+1 des Treibhausgas-Emissionshandelsgesetzes vom 8. Juli 2004 (BGBl. I
+S. 1578), das zuletzt durch Artikel 9 des Gesetzes vom 11. August 2010
 (BGBl. I S. 1163) geändert worden ist, zur Verifizierung von Angaben
 in Zuteilungsanträgen befugt ist.
 
 (2) Der Sachverständige hat im Rahmen der Verifizierung der
-Datenmitteilung die Angaben auf ihre Richtigkeit hin zu überprüfen. §
-14 Abs. 3 bis 6 der Zuteilungsverordnung 2007 gilt jeweils mit der
-Maßgabe, dass nicht auf den Zuteilungsantrag, sondern auf die
+Datenmitteilung die Angaben auf ihre Richtigkeit hin zu überprüfen.
+§ 14 Abs. 3 bis 6 der Zuteilungsverordnung 2007 gilt jeweils mit
+der Maßgabe, dass nicht auf den Zuteilungsantrag, sondern auf die
 Datenmitteilung Bezug genommen wird.
 
 (3) Die zuständige Behörde kann zur Erfüllung der Pflichten nach
-Absatz 2 Standards für die Prüfung von Angaben sowie Anforderungen an
-Inhalt und Struktur des Prüfberichts festlegen. Sie gibt diese
+Absatz 2 Standards für die Prüfung von Angaben sowie Anforderungen
+an Inhalt und Struktur des Prüfberichts festlegen. Sie gibt diese
 Anforderungen im Bundesanzeiger bekannt. Die sachverständige Stelle
 ist verpflichtet, im Prüfbericht Abweichungen von den bekannt
 gegebenen Anforderungen offen zu legen.
 
 (4) Bei der Verifizierung der Datenmitteilungen von Anlagen mit
-Kohlendioxid-Emissionen von weniger als 25 000 Tonnen im Kalenderjahr
+Kohlendioxid-Emissionen von weniger als 25 000 Tonnen im Kalenderjahr
 2005 kann die sachverständige Stelle auf eine Besichtigung der Anlage
 vor Ort verzichten. Für die Bestimmung der Emissionsmenge gilt § 7
 Abs. 3 Satz 2 entsprechend.

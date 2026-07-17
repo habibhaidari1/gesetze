@@ -1,6 +1,5 @@
 ---
-Title: Allgemeine Anordnung über die Vertretung bei Klagen aus dem Beamtenverhältnis
-  im Bereich des Bundeseisenbahnvermögens
+Title: Allgemeine Anordnung über die Vertretung bei Klagen aus dem Beamtenverhältnis im Bereich des Bundeseisenbahnvermögens
 jurabk: BEBeamtAnO 1996
 layout: default
 origslug: bebeamtano_1996
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 1996, 543
-
 
 
 ## Eingangsformel
@@ -33,31 +31,21 @@ innerhalb ihres Geschäftsbereiches die nachstehenden Behörden berufen:
 
 -   Dienststelle Berlin,
 
-
 -   Dienststelle Essen,
-
 
 -   Dienststelle Frankfurt (Main),
 
-
 -   Dienststelle Hannover,
-
 
 -   Dienststelle Karlsruhe,
 
-
 -   Dienststelle Köln,
-
 
 -   Dienststelle München,
 
-
 -   Dienststelle Nürnberg,
 
-
 -   Dienststelle für Sozialangelegenheiten Frankfurt (Main)
-
-
 
 des Bundeseisenbahnvermögens.
 Dies gilt nicht für die Fälle, in denen dem Präsidenten oder der
@@ -77,8 +65,5 @@ Diese Anordnung tritt mit sofortiger Wirkung in Kraft.
 
 Bundeseisenbahnvermögen
 
-*   Der Präsident
-
-
-
+-   Der Präsident
 

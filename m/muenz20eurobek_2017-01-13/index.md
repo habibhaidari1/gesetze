@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert
-  von 20 Euro (Gedenkmünze „Bremer Stadtmusikanten“ Stadtmusikanten)
+Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze „Bremer Stadtmusikanten“ Stadtmusikanten)
 jurabk: Münz20EuroBek 2017-01-13
 layout: default
 origslug: m_nz20eurobek_2017-01-13
@@ -48,11 +47,8 @@ die Angabe „SILBER 925“.
 
 Der glatte Münzrand enthält in vertiefter Prägung die Inschrift:
 
-*    *   „ETWAS BESSERES ALS DEN TOD
-        FINDEST DU ÜBERALL“.
-
-
-
+| „ETWAS BESSERES ALS DEN TOD FINDEST DU ÜBERALL“. |
+| --- |
 
 Der Entwurf stammt von der Künstlerin Elena Gerber aus Berlin.
 
@@ -65,9 +61,4 @@ Der Bundesminister der Finanzen
 ## (XXXX)
 
 (Fundstelle: BGBl. I 2017, 107)
-
-
-*    *        ![bgbl1_2017_j0107-1_0010.jpg](bgbl1_2017_j0107-1_0010.jpg)
-    *        ![bgbl1_2017_j0107-1_0020.jpg](bgbl1_2017_j0107-1_0020.jpg)
-
 

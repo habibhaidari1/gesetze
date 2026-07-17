@@ -15,31 +15,25 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2016, 47
 
-[^F792618_01_BJNR004700016]:     Diese Verordnung dient der Umsetzung des Anhangs I der Richtlinie
-    2001/83/EG des Europäischen Parlaments und des Rates vom 6. November
-    2001 zur Schaffung eines Gemeinschaftskodexes für Humanarzneimittel
-    (ABl. L 311 vom 28.11.2001, S. 67), die zuletzt durch die Richtlinie
-    2012/26/EU (ABl. L 299 vom 27.10.2012, S. 1) geändert worden ist.
-
 
 ## Eingangsformel
 
 Auf Grund des § 26 Absatz 1 des Arzneimittelgesetzes, der zuletzt
-durch Artikel 52 Nummer 5 der Verordnung vom 31. August 2015 (BGBl. I
-S. 1474) geändert worden ist, verordnet das Bundesministerium für
+durch Artikel 52 Nummer 5 der Verordnung vom 31. August 2015 (BGBl.
+I S. 1474) geändert worden ist, verordnet das Bundesministerium für
 Gesundheit im Einvernehmen mit dem Bundesministerium für Umwelt,
 Naturschutz, Bau und Reaktorsicherheit:
 
 
 ## § 1 Anforderungen an einzureichende Unterlagen
 
-Die Angaben, Unterlagen und Gutachten, die nach den §§ 22 bis 24 des
-Arzneimittelgesetzes, auch in Verbindung mit § 38 Absatz 2 und § 39b
-Absatz 1 des Arzneimittelgesetzes, bei der nach § 77 Absatz 1 oder
-Absatz 2 des Arzneimittelgesetzes zuständigen Bundesoberbehörde
-einzureichen sind, müssen die Anforderungen erfüllen, die in Anhang I
-Teil I bis III der Richtlinie 2001/83/EG des Europäischen Parlaments
-und des Rates vom 6. November 2001 zur Schaffung eines
+Die Angaben, Unterlagen und Gutachten, die nach den §§ 22 bis 24
+des Arzneimittelgesetzes, auch in Verbindung mit § 38 Absatz 2 und
+§ 39b Absatz 1 des Arzneimittelgesetzes, bei der nach § 77 Absatz 1
+oder Absatz 2 des Arzneimittelgesetzes zuständigen Bundesoberbehörde
+einzureichen sind, müssen die Anforderungen erfüllen, die in
+Anhang I Teil I bis III der Richtlinie 2001/83/EG des Europäischen
+Parlaments und des Rates vom 6. November 2001 zur Schaffung eines
 Gemeinschaftskodexes für Humanarzneimittel (ABl. L 311 vom 28.11.2001,
 S. 67) in der jeweils geltenden Fassung geregelt sind.
 

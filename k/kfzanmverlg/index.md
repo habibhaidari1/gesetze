@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zur Verlängerung der Regelung über die Anmietung von Kraftfahrzeugen
-  im Werkverkehr nach dem Einigungsvertrag
+Title: Gesetz zur Verlängerung der Regelung über die Anmietung von Kraftfahrzeugen im Werkverkehr nach dem Einigungsvertrag
 jurabk: KfzAnmVerlG
 layout: default
 origslug: kfzanmverlg
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 1993, 58
-
 
 
 ## Eingangsformel

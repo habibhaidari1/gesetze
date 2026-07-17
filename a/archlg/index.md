@@ -27,26 +27,21 @@ Architektenleistungen zu erlassen und Folgendes zu regeln:
 
 1.  die Grundlagen und Maßstäbe zur Berechnung von Honoraren,
 
-
 2.  Honorartafeln zur Honorarorientierung für Grundleistungen, auch in
     Abgrenzung zu besonderen Leistungen,
-
 
 3.  eine Regelung, wonach bestimmte in den Honorartafeln angegebene
     Honorarsätze für Grundleistungen für den Fall als vereinbart gelten,
     dass keine wirksame Honorarvereinbarung getroffen wurde,
 
-
 4.  die bei der Honorarvereinbarung einzuhaltende Form und die zu
     beachtenden Hinweispflichten.
 
-
-
-Bei der Bestimmung der Honorartafeln zur Honorarorientierung nach Satz
-1 Nummer 2 ist zur Ermittlung angemessener Honorare den berechtigten
-Interessen der Ingenieure und Architekten und der zur Zahlung
-Verpflichteten Rechnung zu tragen. Diese sind an der Art und dem
-Umfang der Aufgabe sowie an der Leistung des Ingenieurs oder
+Bei der Bestimmung der Honorartafeln zur Honorarorientierung
+nach Satz 1 Nummer 2 ist zur Ermittlung angemessener Honorare den
+berechtigten Interessen der Ingenieure und Architekten und der zur
+Zahlung Verpflichteten Rechnung zu tragen. Diese sind an der Art
+und dem Umfang der Aufgabe sowie an der Leistung des Ingenieurs oder
 Architekten auszurichten.
 
 (2) Grundleistungen im Sinne des Absatzes 1 Nummer 2 und 3 sind
@@ -58,10 +53,10 @@ Leistungen im Zusammenhang mit Vergabeverfahren.
 
 ## § 2 Unverbindlichkeit der Kopplung von Grundstückskaufverträgen mit Ingenieur- und Architektenverträgen
 
-Eine Vereinbarung, durch die der Erwerber eines Grundstücks sich im
-Zusammenhang mit dem Erwerb verpflichtet, bei der Planung oder
+Eine Vereinbarung, durch die der Erwerber eines Grundstücks sich
+im Zusammenhang mit dem Erwerb verpflichtet, bei der Planung oder
 Ausführung eines Bauwerks auf dem Grundstück die Leistungen eines
-bestimmten Ingenieurs oder Architekten in Anspruch zu nehmen, ist
-unwirksam. Die Wirksamkeit des auf den Erwerb des Grundstücks
+bestimmten Ingenieurs oder Architekten in Anspruch zu nehmen,
+ist unwirksam. Die Wirksamkeit des auf den Erwerb des Grundstücks
 gerichteten Vertrages bleibt unberührt.
 

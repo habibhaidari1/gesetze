@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert
-  von 10 Euro (Gedenkmünze "Kunstausstellung documenta Kassel")
+Title: "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze \"Kunstausstellung documenta Kassel\")"
 jurabk: Münz10EuroBek 2002-03
 layout: default
 origslug: m_nz10eurobek_2002-03
@@ -16,19 +15,21 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 1253
 
-Stand: Änderung v. 2.12.2002 I 4527
+Stand
+:   Änderung v. 2.12.2002 I 4527
+
 
 ## (XXXX)
 
-Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
-I S. 2402) hat die Bundesregierung beschlossen, zum Thema
+Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999
+(BGBl. I S. 2402) hat die Bundesregierung beschlossen, zum Thema
 "Kunstausstellung documenta Kassel" eine deutsche Euro-Gedenkmünze im
 Nennwert von 10 Euro prägen zu lassen.
 Die Auflage der Münze beträgt 2,3 Millionen Stück, darunter 0,3
-Millionen Stück in Spiegelglanzausführung. Die Prägung erfolgt durch
-die Hamburgische Münze. Die Münze wird ab dem 2. Mai 2002 in den
-Verkehr gebracht. Sie besteht aus einer Legierung von 925
-Tausendteilen Silber und 75 Tausendteilen Kupfer, hat einen
+Millionen Stück in Spiegelglanzausführung. Die Prägung erfolgt
+durch die Hamburgische Münze. Die Münze wird ab dem 2. Mai 2002
+in den Verkehr gebracht. Sie besteht aus einer Legierung von
+925 Tausendteilen Silber und 75 Tausendteilen Kupfer, hat einen
 Durchmesser von 32,5 Millimetern und eine Masse (Gewicht) von 18
 Gramm. Das Gepräge auf beiden Seiten ist erhaben und wird von einem
 schützenden, glatten Randstab umgeben.
@@ -44,13 +45,11 @@ Der glatte Münzrand enthält in vertiefter Prägung die Inschrift
 "KUNST" in den Sprachen Deutsch, Englisch, Hindi (Indien), Maori
 (Neuseeland), Jiddisch, Russisch, Arabisch, Igbo (Nigeria) und
 Chinesisch:
-" KUNST - ART -
-... nicht darstellbare Zeichen
+" KUNST - ART - ... nicht darstellbare Zeichen
 Der Entwurf der Münze stammt von Frantisek Chocola, Hamburg.
 
 Der Bundesminister der Finanzen
 
-...
-(nicht darstellbare Abbildung einer Münze,
+... (nicht darstellbare Abbildung einer Münze,
 Fundstelle: BGBl. I 2002, 1253)
 

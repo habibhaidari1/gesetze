@@ -22,9 +22,7 @@ Zuletzt geändert durch
 :   Art. 2 G v. 25.2.2021 I 306
 
 
-
 ## Abschnitt 1 - Allgemeine Vorschriften
-
 
 
 ### § 1 Zweck des Gesetzes; Anwendungsbereich
@@ -51,13 +49,8 @@ Rechts.
     a)  die obersten Bundesbehörden, soweit und solange sie im Rahmen der
         Gesetzgebung tätig werden, und
 
-
     b)  Gerichte des Bundes, soweit sie nicht Aufgaben der öffentlichen
         Verwaltung wahrnehmen;
-
-
-
-
 
 2.  natürliche oder juristische Personen des Privatrechts, soweit sie
     öffentliche Aufgaben wahrnehmen oder öffentliche Dienstleistungen
@@ -65,9 +58,6 @@ Rechts.
     solche der umweltbezogenen Daseinsvorsorge, und dabei der Kontrolle
     des Bundes oder einer unter der Aufsicht des Bundes stehenden
     juristischen Person des öffentlichen Rechts unterliegen.
-
-
-
 
 (2) Kontrolle im Sinne des Absatzes 1 Nummer 2 liegt vor, wenn
 
@@ -77,49 +67,37 @@ Rechts.
     Rechte verfügt, insbesondere ein Kontrahierungszwang oder ein
     Anschluss- und Benutzungszwang besteht, oder
 
-
 2.  eine oder mehrere der in Absatz 1 Nummer 2 genannten juristischen
     Personen des öffentlichen Rechts allein oder zusammen, unmittelbar
     oder mittelbar
 
     a)  die Mehrheit des gezeichneten Kapitals des Unternehmens besitzen,
 
-
     b)  über die Mehrheit der mit den Anteilen des Unternehmens verbundenen
         Stimmrechte verfügen oder
-
 
     c)  mehr als die Hälfte der Mitglieder des Verwaltungs-, Leitungs- oder
         Aufsichtsorgans des Unternehmens bestellen können, oder
 
-
-
-
-
 3.  mehrere juristische Personen des öffentlichen Rechts zusammen
-    unmittelbar oder mittelbar über eine Mehrheit im Sinne der Nummer 2
-    Buchstabe a bis c verfügen und der überwiegende Anteil an dieser
+    unmittelbar oder mittelbar über eine Mehrheit im Sinne der Nummer
+    2 Buchstabe a bis c verfügen und der überwiegende Anteil an dieser
     Mehrheit den in Absatz 1 Nummer 2 genannten juristischen Personen des
     öffentlichen Rechts zuzuordnen ist.
-
-
-
 
 (3) Umweltinformationen sind unabhängig von der Art ihrer Speicherung
 alle Daten über
 
-1.  den Zustand von Umweltbestandteilen wie Luft und Atmosphäre, Wasser,
-    Boden, Landschaft und natürliche Lebensräume einschließlich
+1.  den Zustand von Umweltbestandteilen wie Luft und Atmosphäre,
+    Wasser, Boden, Landschaft und natürliche Lebensräume einschließlich
     Feuchtgebiete, Küsten- und Meeresgebiete, die Artenvielfalt und ihre
     Bestandteile, einschließlich gentechnisch veränderter Organismen,
     sowie die Wechselwirkungen zwischen diesen Bestandteilen;
-
 
 2.  Faktoren wie Stoffe, Energie, Lärm und Strahlung, Abfälle aller Art
     sowie Emissionen, Ableitungen und sonstige Freisetzungen von Stoffen
     in die Umwelt, die sich auf die Umweltbestandteile im Sinne der Nummer
     1 auswirken oder wahrscheinlich auswirken;
-
 
 3.  Maßnahmen oder Tätigkeiten, die
 
@@ -127,23 +105,16 @@ alle Daten über
         Faktoren im Sinne der Nummer 2 auswirken oder wahrscheinlich auswirken
         oder
 
-
-    b)  den Schutz von Umweltbestandteilen im Sinne der Nummer 1 bezwecken; zu
-        den Maßnahmen gehören auch politische Konzepte, Rechts- und
+    b)  den Schutz von Umweltbestandteilen im Sinne der Nummer 1 bezwecken;
+        zu den Maßnahmen gehören auch politische Konzepte, Rechts- und
         Verwaltungsvorschriften, Abkommen, Umweltvereinbarungen, Pläne und
         Programme;
 
-
-
-
-
 4.  Berichte über die Umsetzung des Umweltrechts;
-
 
 5.  Kosten-Nutzen-Analysen oder sonstige wirtschaftliche Analysen und
     Annahmen, die zur Vorbereitung oder Durchführung von Maßnahmen oder
     Tätigkeiten im Sinne der Nummer 3 verwendet werden, und
-
 
 6.  den Zustand der menschlichen Gesundheit und Sicherheit, die
     Lebensbedingungen des Menschen sowie Kulturstätten und Bauwerke,
@@ -152,20 +123,16 @@ alle Daten über
     Nummern 2 und 3 betroffen sind oder sein können; hierzu gehört auch
     die Kontamination der Lebensmittelkette.
 
-
-
-
 (4) Eine informationspflichtige Stelle verfügt über
-Umweltinformationen, wenn diese bei ihr vorhanden sind oder für sie
-bereitgehalten werden. Ein Bereithalten liegt vor, wenn eine
-natürliche oder juristische Person, die selbst nicht
+Umweltinformationen, wenn diese bei ihr vorhanden sind oder
+für sie bereitgehalten werden. Ein Bereithalten liegt vor,
+wenn eine natürliche oder juristische Person, die selbst nicht
 informationspflichtige Stelle ist, Umweltinformationen für eine
 informationspflichtige Stelle im Sinne des Absatzes 1 aufbewahrt, auf
 die diese Stelle einen Übermittlungsanspruch hat.
 
 
 ## Abschnitt 2 - Informationszugang auf Antrag
-
 
 
 ### § 3 Anspruch auf Zugang zu Umweltinformationen
@@ -178,12 +145,12 @@ Zugang zu Informationen unberührt.
 
 (2) Der Zugang kann durch Auskunftserteilung, Gewährung von
 Akteneinsicht oder in sonstiger Weise eröffnet werden. Wird eine
-bestimmte Art des Informationszugangs beantragt, so darf dieser nur
-aus gewichtigen Gründen auf andere Art eröffnet werden. Als
-gewichtiger Grund gilt insbesondere ein deutlich höherer
+bestimmte Art des Informationszugangs beantragt, so darf dieser
+nur aus gewichtigen Gründen auf andere Art eröffnet werden.
+Als gewichtiger Grund gilt insbesondere ein deutlich höherer
 Verwaltungsaufwand. Soweit Umweltinformationen der antragstellenden
-Person bereits auf andere, leicht zugängliche Art, insbesondere durch
-Verbreitung nach § 10, zur Verfügung stehen, kann die
+Person bereits auf andere, leicht zugängliche Art, insbesondere
+durch Verbreitung nach § 10, zur Verfügung stehen, kann die
 informationspflichtige Stelle die Person auf diese Art des
 Informationszugangs verweisen.
 
@@ -196,13 +163,9 @@ Stelle, die über die Informationen verfügt, und endet
 
 1.  mit Ablauf eines Monats oder
 
-
 2.  soweit Umweltinformationen derart umfangreich und komplex sind, dass
     die in Nummer 1 genannte Frist nicht eingehalten werden kann, mit
     Ablauf von zwei Monaten.
-
-
-
 
 
 ### § 4 Antrag und Verfahren
@@ -211,20 +174,20 @@ Stelle, die über die Informationen verfügt, und endet
 Stelle auf Antrag zugänglich gemacht.
 
 (2) Der Antrag muss erkennen lassen, zu welchen Umweltinformationen
-der Zugang gewünscht wird. Ist der Antrag zu unbestimmt, so ist der
-antragstellenden Person dies innerhalb eines Monats mitzuteilen und
-Gelegenheit zur Präzisierung des Antrags zu geben. Kommt die
-antragstellende Person der Aufforderung zur Präzisierung nach, beginnt
-der Lauf der Frist zur Beantwortung von Anträgen erneut. Die
-Informationssuchenden sind bei der Stellung und Präzisierung von
+der Zugang gewünscht wird. Ist der Antrag zu unbestimmt, so ist
+der antragstellenden Person dies innerhalb eines Monats mitzuteilen
+und Gelegenheit zur Präzisierung des Antrags zu geben. Kommt die
+antragstellende Person der Aufforderung zur Präzisierung nach,
+beginnt der Lauf der Frist zur Beantwortung von Anträgen erneut.
+Die Informationssuchenden sind bei der Stellung und Präzisierung von
 Anträgen zu unterstützen.
 
 (3) Wird der Antrag bei einer informationspflichtigen Stelle gestellt,
 die nicht über die Umweltinformationen verfügt, leitet sie den Antrag
-an die über die begehrten Informationen verfügende Stelle weiter, wenn
-ihr diese bekannt ist, und unterrichtet die antragstellende Person
-hierüber. Anstelle der Weiterleitung des Antrags kann sie die
-antragstellende Person auch auf andere ihr bekannte
+an die über die begehrten Informationen verfügende Stelle weiter,
+wenn ihr diese bekannt ist, und unterrichtet die antragstellende
+Person hierüber. Anstelle der Weiterleitung des Antrags kann
+sie die antragstellende Person auch auf andere ihr bekannte
 informationspflichtige Stellen hinweisen, die über die Informationen
 verfügen.
 
@@ -241,13 +204,13 @@ unterrichten.
 ### § 5 Ablehnung des Antrags
 
 (1) Wird der Antrag ganz oder teilweise nach den §§ 8 und 9 abgelehnt,
-ist die antragstellende Person innerhalb der Fristen nach § 3 Absatz 3
-Satz 2 hierüber zu unterrichten. Eine Ablehnung liegt auch dann vor,
-wenn nach § 3 Absatz 2 der Informationszugang auf andere Art gewährt
-oder die antragstellende Person auf eine andere Art des
-Informationszugangs verwiesen wird. Der antragstellenden Person sind
-die Gründe für die Ablehnung mitzuteilen; in den Fällen des § 8 Absatz
-2 Nummer 4 ist darüber hinaus die Stelle, die das Material
+ist die antragstellende Person innerhalb der Fristen nach § 3 Absatz
+3 Satz 2 hierüber zu unterrichten. Eine Ablehnung liegt auch dann
+vor, wenn nach § 3 Absatz 2 der Informationszugang auf andere Art
+gewährt oder die antragstellende Person auf eine andere Art des
+Informationszugangs verwiesen wird. Der antragstellenden Person
+sind die Gründe für die Ablehnung mitzuteilen; in den Fällen des §
+8 Absatz 2 Nummer 4 ist darüber hinaus die Stelle, die das Material
 vorbereitet, sowie der voraussichtliche Zeitpunkt der Fertigstellung
 mitzuteilen. § 39 Absatz 2 des Verwaltungsverfahrensgesetzes findet
 keine Anwendung.
@@ -262,10 +225,10 @@ ist.
 nicht betroffenen Informationen zugänglich zu machen, soweit es
 möglich ist, die betroffenen Informationen auszusondern.
 
-(4) Die antragstellende Person ist im Falle der vollständigen oder
-teilweisen Ablehnung eines Antrags auch über die
-Rechtsschutzmöglichkeiten gegen die Entscheidung sowie darüber zu
-belehren, bei welcher Stelle und innerhalb welcher Frist um
+(4) Die antragstellende Person ist im Falle der vollständigen
+oder teilweisen Ablehnung eines Antrags auch über die
+Rechtsschutzmöglichkeiten gegen die Entscheidung sowie darüber
+zu belehren, bei welcher Stelle und innerhalb welcher Frist um
 Rechtsschutz nachgesucht werden kann.
 
 
@@ -274,9 +237,9 @@ Rechtsschutz nachgesucht werden kann.
 (1) Für Streitigkeiten nach diesem Gesetz ist der Verwaltungsrechtsweg
 gegeben.
 
-(2) Gegen die Entscheidung durch eine Stelle der öffentlichen
-Verwaltung im Sinne des § 2 Absatz 1 Nummer 1 ist ein
-Widerspruchsverfahren nach den §§ 68 bis 73 der
+(2) Gegen die Entscheidung durch eine Stelle der
+öffentlichen Verwaltung im Sinne des § 2 Absatz 1 Nummer
+1 ist ein Widerspruchsverfahren nach den §§ 68 bis 73 der
 Verwaltungsgerichtsordnung auch dann durchzuführen, wenn die
 Entscheidung von einer obersten Bundesbehörde getroffen worden ist.
 
@@ -290,10 +253,10 @@ ist ausgeschlossen.
 
 (4) Der Anspruch auf nochmalige Prüfung ist gegenüber der
 informationspflichtigen Stelle im Sinne des § 2 Absatz 1 Nummer 2
-innerhalb eines Monats, nachdem diese Stelle mitgeteilt hat, dass der
-Anspruch nicht oder nicht vollständig erfüllt werden kann, schriftlich
-geltend zu machen. Die informationspflichtige Stelle hat der
-antragstellenden Person das Ergebnis ihrer nochmaligen Prüfung
+innerhalb eines Monats, nachdem diese Stelle mitgeteilt hat, dass
+der Anspruch nicht oder nicht vollständig erfüllt werden kann,
+schriftlich geltend zu machen. Die informationspflichtige Stelle hat
+der antragstellenden Person das Ergebnis ihrer nochmaligen Prüfung
 innerhalb eines Monats zu übermitteln.
 
 (5) Durch Landesgesetz kann für Streitigkeiten um Ansprüche gegen
@@ -304,9 +267,9 @@ Verwaltungsrechtsweg vorgesehen werden.
 
 ### § 7 Unterstützung des Zugangs zu Umweltinformationen
 
-(1) Die informationspflichtigen Stellen ergreifen Maßnahmen, um den
-Zugang zu den bei ihnen verfügbaren Umweltinformationen zu
-erleichtern. Zu diesem Zweck wirken sie darauf hin, dass
+(1) Die informationspflichtigen Stellen ergreifen Maßnahmen,
+um den Zugang zu den bei ihnen verfügbaren Umweltinformationen
+zu erleichtern. Zu diesem Zweck wirken sie darauf hin, dass
 Umweltinformationen, über die sie verfügen, zunehmend in
 elektronischen Datenbanken oder in sonstigen Formaten gespeichert
 werden, die über Mittel der elektronischen Kommunikation abrufbar
@@ -318,23 +281,17 @@ durch
 
 1.  die Benennung von Auskunftspersonen oder Informationsstellen,
 
-
 2.  die Veröffentlichung von Verzeichnissen über verfügbare
     Umweltinformationen,
-
 
 3.  die Einrichtung öffentlich zugänglicher Informationsnetze und
     Datenbanken oder
 
-
 4.  die Veröffentlichung von Informationen über behördliche
     Zuständigkeiten.
 
-
-
-
-(3) Soweit möglich, gewährleisten die informationspflichtigen Stellen,
-dass alle Umweltinformationen, die von ihnen oder für sie
+(3) Soweit möglich, gewährleisten die informationspflichtigen
+Stellen, dass alle Umweltinformationen, die von ihnen oder für sie
 zusammengestellt werden, auf dem gegenwärtigen Stand, exakt und
 vergleichbar sind.
 
@@ -348,7 +305,6 @@ zu Umweltinformationen nach § 3 entsprechende Anwendung.
 ## Abschnitt 3 - Ablehnungsgründe
 
 
-
 ### § 8 Schutz öffentlicher Belange
 
 (1) Soweit das Bekanntgeben der Informationen nachteilige Auswirkungen
@@ -357,24 +313,19 @@ hätte auf
 1.  die internationalen Beziehungen, die Verteidigung oder bedeutsame
     Schutzgüter der öffentlichen Sicherheit,
 
-
 2.  die Vertraulichkeit der Beratungen von informationspflichtigen Stellen
     im Sinne des § 2 Absatz 1,
-
 
 3.  die Durchführung eines laufenden Gerichtsverfahrens, den Anspruch
     einer Person auf ein faires Verfahren oder die Durchführung
     strafrechtlicher, ordnungswidrigkeitenrechtlicher oder
     disziplinarrechtlicher Ermittlungen oder
 
-
 4.  den Zustand der Umwelt und ihrer Bestandteile im Sinne des § 2 Absatz
     3 Nummer 1 oder Schutzgüter im Sinne des § 2 Absatz 3 Nummer 6,
 
-
-
-ist der Antrag abzulehnen, es sei denn, das öffentliche Interesse an
-der Bekanntgabe überwiegt. Der Zugang zu Umweltinformationen über
+ist der Antrag abzulehnen, es sei denn, das öffentliche Interesse
+an der Bekanntgabe überwiegt. Der Zugang zu Umweltinformationen über
 Emissionen kann nicht unter Berufung auf die in den Nummern 2 und 4
 genannten Gründe abgelehnt werden.
 
@@ -382,26 +333,20 @@ genannten Gründe abgelehnt werden.
 
 1.  offensichtlich missbräuchlich gestellt wurde,
 
-
 2.  sich auf interne Mitteilungen der informationspflichtigen Stellen im
     Sinne des § 2 Absatz 1 bezieht,
-
 
 3.  bei einer Stelle, die nicht über die Umweltinformationen verfügt,
     gestellt wird, sofern er nicht nach § 4 Absatz 3 weitergeleitet werden
     kann,
 
-
 4.  sich auf die Zugänglichmachung von Material, das gerade
     vervollständigt wird, noch nicht abgeschlossener Schriftstücke oder
     noch nicht aufbereiteter Daten bezieht oder
 
-
 5.  zu unbestimmt ist und auf Aufforderung der informationspflichtigen
     Stelle nach § 4 Absatz 2 nicht innerhalb einer angemessenen Frist
     präzisiert wird,
-
-
 
 ist er abzulehnen, es sei denn, das öffentliche Interesse an der
 Bekanntgabe überwiegt.
@@ -415,16 +360,12 @@ Bekanntgabe überwiegt.
     offenbart und dadurch Interessen der Betroffenen erheblich
     beeinträchtigt würden,
 
-
 2.  Rechte am geistigen Eigentum, insbesondere Urheberrechte, durch das
     Zugänglichmachen von Umweltinformationen verletzt würden oder
-
 
 3.  durch das Bekanntgeben Betriebs- oder Geschäftsgeheimnisse zugänglich
     gemacht würden oder die Informationen dem Steuergeheimnis oder dem
     Statistikgeheimnis unterliegen,
-
-
 
 ist der Antrag abzulehnen, es sei denn, die Betroffenen haben
 zugestimmt oder das öffentliche Interesse an der Bekanntgabe
@@ -441,17 +382,16 @@ Betriebs- oder Geschäftsgeheimnis vorliegt.
 
 (2) Umweltinformationen, die private Dritte einer
 informationspflichtigen Stelle übermittelt haben, ohne rechtlich dazu
-verpflichtet zu sein oder rechtlich verpflichtet werden zu können, und
-deren Offenbarung nachteilige Auswirkungen auf die Interessen der
-Dritten hätte, dürfen ohne deren Einwilligung anderen nicht zugänglich
-gemacht werden, es sei denn, das öffentliche Interesse an der
-Bekanntgabe überwiegt. Der Zugang zu Umweltinformationen über
+verpflichtet zu sein oder rechtlich verpflichtet werden zu können,
+und deren Offenbarung nachteilige Auswirkungen auf die Interessen
+der Dritten hätte, dürfen ohne deren Einwilligung anderen nicht
+zugänglich gemacht werden, es sei denn, das öffentliche Interesse
+an der Bekanntgabe überwiegt. Der Zugang zu Umweltinformationen über
 Emissionen kann nicht unter Berufung auf die in Satz 1 genannten
 Gründe abgelehnt werden.
 
 
 ## Abschnitt 4 - Verbreitung von Umweltinformationen
-
 
 
 ### § 10 Unterrichtung der Öffentlichkeit
@@ -463,30 +403,25 @@ ihre Aufgaben von Bedeutung sind und über die sie verfügen.
 
 (2) Zu den zu verbreitenden Umweltinformationen gehören zumindest:
 
-1.  der Wortlaut von völkerrechtlichen Verträgen, das von den Organen der
-    Europäischen Gemeinschaften erlassene Gemeinschaftsrecht sowie
+1.  der Wortlaut von völkerrechtlichen Verträgen, das von den Organen
+    der Europäischen Gemeinschaften erlassene Gemeinschaftsrecht sowie
     Rechtsvorschriften von Bund, Ländern oder Kommunen über die Umwelt
     oder mit Bezug zur Umwelt;
 
-
 2.  politische Konzepte sowie Pläne und Programme mit Bezug zur Umwelt;
-
 
 3.  Berichte über den Stand der Umsetzung von Rechtsvorschriften sowie
     Konzepten, Plänen und Programmen nach den Nummern 1 und 2, sofern
-    solche Berichte von den jeweiligen informationspflichtigen Stellen in
-    elektronischer Form ausgearbeitet worden sind oder bereitgehalten
+    solche Berichte von den jeweiligen informationspflichtigen Stellen
+    in elektronischer Form ausgearbeitet worden sind oder bereitgehalten
     werden;
-
 
 4.  Daten oder Zusammenfassungen von Daten aus der Überwachung von
     Tätigkeiten, die sich auf die Umwelt auswirken oder wahrscheinlich
     auswirken;
 
-
 5.  Zulassungsentscheidungen, die erhebliche Auswirkungen auf die Umwelt
     haben, und Umweltvereinbarungen sowie
-
 
 6.  zusammenfassende Darstellung und Bewertung der Umweltauswirkungen nach
     den §§ 24 und 25 des Gesetzes über die Umweltverträglichkeitsprüfung
@@ -494,26 +429,24 @@ ihre Aufgaben von Bedeutung sind und über die sie verfügen.
     in der jeweils geltenden Fassung und Risikobewertungen im Hinblick auf
     Umweltbestandteile nach § 2 Absatz 3 Nummer 1.
 
-
-
 In Fällen des Satzes 1 Nummer 5 und 6 genügt zur Verbreitung die
-Angabe, wo solche Informationen zugänglich sind oder gefunden werden
-können. Die veröffentlichten Umweltinformationen werden in
+Angabe, wo solche Informationen zugänglich sind oder gefunden
+werden können. Die veröffentlichten Umweltinformationen werden in
 angemessenen Abständen aktualisiert.
 
 (3) Die Verbreitung von Umweltinformationen soll in für die
 Öffentlichkeit verständlicher Darstellung und leicht zugänglichen
 Formaten erfolgen. Hierzu sollen, soweit vorhanden, elektronische
 Kommunikationsmittel verwendet werden. Zur Verbreitung von
-Umweltinformationen nach Absatz 2 Satz 1 Nummer 5 und 6 auch in
-Verbindung mit Satz 2 kann das zentrale Internetportal des Bundes nach
-§ 20 Absatz 1 Satz 1 des Gesetzes über die
+Umweltinformationen nach Absatz 2 Satz 1 Nummer 5 und 6 auch
+in Verbindung mit Satz 2 kann das zentrale Internetportal
+des Bundes nach § 20 Absatz 1 Satz 1 des Gesetzes über die
 Umweltverträglichkeitsprüfung genutzt werden. Satz 2 gilt nicht für
 Umweltinformationen, die vor Inkrafttreten dieses Gesetzes angefallen
 sind, es sei denn, sie liegen bereits in elektronischer Form vor.
 
-(4) Die Anforderungen an die Unterrichtung der Öffentlichkeit nach den
-Absätzen 1 und 2 können auch dadurch erfüllt werden, dass
+(4) Die Anforderungen an die Unterrichtung der Öffentlichkeit
+nach den Absätzen 1 und 2 können auch dadurch erfüllt werden, dass
 Verknüpfungen zu Internet-Seiten eingerichtet werden, auf denen die zu
 verbreitenden Umweltinformationen zu finden sind.
 
@@ -537,19 +470,15 @@ der öffentlichen Verwaltung oder private Stellen übertragen werden.
 (8) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne
 Zustimmung des Bundesrates zu regeln:
 
-1.  die Art und Weise der Verbreitung von Umweltinformationen nach Absatz
-    2 Satz 1 Nummer 5 und 6 auch in Verbindung mit Satz 2 über das
-    zentrale Internetportal des Bundes nach § 20 Absatz 1 Satz 1 des
-    Gesetzes über die Umweltverträglichkeitsprüfung oder über andere
+1.  die Art und Weise der Verbreitung von Umweltinformationen nach
+    Absatz 2 Satz 1 Nummer 5 und 6 auch in Verbindung mit Satz 2 über
+    das zentrale Internetportal des Bundes nach § 20 Absatz 1 Satz 1
+    des Gesetzes über die Umweltverträglichkeitsprüfung oder über andere
     elektronische Kommunikationswege sowie
-
 
 2.  die Einzelheiten der Aktualisierung von veröffentlichten
     Umweltinformationen gemäß Absatz 2 Satz 3, einschließlich des
     nachträglichen Wegfalls der Unterrichtungspflicht nach Absatz 1.
-
-
-
 
 
 ### § 11 Umweltzustandsbericht
@@ -565,13 +494,12 @@ Gesetzes ist spätestens am 31. Dezember 2006 zu veröffentlichen.
 ## Abschnitt 5 - Schlussvorschriften
 
 
-
 ### § 12 Gebühren und Auslagen
 
-(1) Für die Übermittlung von Informationen auf Grund dieses Gesetzes
-werden Gebühren und Auslagen erhoben. Dies gilt nicht für die
-Erteilung mündlicher und einfacher schriftlicher Auskünfte, die
-Einsichtnahme in Umweltinformationen vor Ort, Maßnahmen und
+(1) Für die Übermittlung von Informationen auf Grund dieses
+Gesetzes werden Gebühren und Auslagen erhoben. Dies gilt nicht für
+die Erteilung mündlicher und einfacher schriftlicher Auskünfte,
+die Einsichtnahme in Umweltinformationen vor Ort, Maßnahmen und
 Vorkehrungen nach § 7 Absatz 1 und 2 sowie die Unterrichtung der
 Öffentlichkeit nach den §§ 10 und 11.
 
@@ -582,17 +510,17 @@ nach § 3 Absatz 1 wirksam in Anspruch genommen werden kann.
 (3) Die Bundesregierung wird ermächtigt, für individuell zurechenbare
 öffentliche Leistungen von informationspflichtigen Stellen die Höhe
 der Gebühren und Auslagen durch Rechtsverordnung, die nicht der
-Zustimmung des Bundesrates bedarf, zu bestimmen. § 9 Absatz 1 und 2
-sowie die §§ 10 und 12 des Bundesgebührengesetzes finden keine
+Zustimmung des Bundesrates bedarf, zu bestimmen. § 9 Absatz 1 und
+2 sowie die §§ 10 und 12 des Bundesgebührengesetzes finden keine
 Anwendung.
 
-(4) Private informationspflichtige Stellen im Sinne des § 2 Absatz 1
-Nummer 2 können für die Übermittlung von Informationen nach diesem
-Gesetz von der antragstellenden Person Gebühren- und
-Auslagenerstattung entsprechend den Grundsätzen nach den Absätzen 1
-und 2 verlangen. Die Höhe der erstattungsfähigen Gebühren und Auslagen
-bemisst sich nach den in der Rechtsverordnung nach Absatz 3
-festgelegten Sätzen für individuell zurechenbare öffentliche
+(4) Private informationspflichtige Stellen im Sinne des § 2
+Absatz 1 Nummer 2 können für die Übermittlung von Informationen
+nach diesem Gesetz von der antragstellenden Person Gebühren- und
+Auslagenerstattung entsprechend den Grundsätzen nach den Absätzen
+1 und 2 verlangen. Die Höhe der erstattungsfähigen Gebühren und
+Auslagen bemisst sich nach den in der Rechtsverordnung nach Absatz
+3 festgelegten Sätzen für individuell zurechenbare öffentliche
 Leistungen von informationspflichtigen Stellen des Bundes und der
 bundesunmittelbaren juristischen Personen des öffentlichen Rechts.
 
@@ -600,14 +528,14 @@ bundesunmittelbaren juristischen Personen des öffentlichen Rechts.
 ### § 13 Überwachung
 
 (1) Die zuständigen Stellen der öffentlichen Verwaltung, die die
-Kontrolle im Sinne des § 2 Absatz 2 für den Bund oder eine unter der
-Aufsicht des Bundes stehende juristische Person des öffentlichen
+Kontrolle im Sinne des § 2 Absatz 2 für den Bund oder eine unter
+der Aufsicht des Bundes stehende juristische Person des öffentlichen
 Rechts ausüben, überwachen die Einhaltung dieses Gesetzes durch
 private informationspflichtige Stellen im Sinne des § 2 Absatz 1
 Nummer 2.
 
-(2) Die informationspflichtigen Stellen nach § 2 Absatz 1 Nummer 2
-haben den zuständigen Stellen auf Verlangen alle Informationen
+(2) Die informationspflichtigen Stellen nach § 2 Absatz 1 Nummer
+2 haben den zuständigen Stellen auf Verlangen alle Informationen
 herauszugeben, die die Stellen zur Wahrnehmung ihrer Aufgaben nach
 Absatz 1 benötigen.
 
@@ -616,9 +544,9 @@ informationspflichtigen Stellen nach § 2 Absatz 1 Nummer 2 die zur
 Einhaltung und Durchführung dieses Gesetzes erforderlichen Maßnahmen
 ergreifen oder Anordnungen treffen.
 
-(4) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die
-nicht der Zustimmung des Bundesrates bedarf, die Aufgaben nach den
-Absätzen 1 bis 3 abweichend von Absatz 1 auf andere Stellen der
+(4) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung,
+die nicht der Zustimmung des Bundesrates bedarf, die Aufgaben nach
+den Absätzen 1 bis 3 abweichend von Absatz 1 auf andere Stellen der
 öffentlichen Verwaltung zu übertragen.
 
 

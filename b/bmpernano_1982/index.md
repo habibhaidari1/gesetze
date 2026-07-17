@@ -1,6 +1,5 @@
 ---
-Title: Anordnung über die Ernennung und Entlassung von Beamten im Geschäftsbereich
-  des Bundesministers für das Post- und Fernmeldewesen
+Title: Anordnung über die Ernennung und Entlassung von Beamten im Geschäftsbereich des Bundesministers für das Post- und Fernmeldewesen
 jurabk: BMPErnAnO 1982
 layout: default
 origslug: bmpernano_1982
@@ -17,18 +16,17 @@ Fundstelle
 :   BGBl I: 1982, 959
 
 
-
 ## I.
 
-Auf Grund des Artikels 1 der Anordnung des Bundespräsidenten über die
-Ernennung und Entlassung der Bundesbeamten und Richter im Bundesdienst
-vom 14. Juli 1975 (BGBl. I S. 1915) übertrage ich die Ausübung des
-Rechtes zur Ernennung und Entlassung der Bundesbeamten der
-Besoldungsgruppen A 1 bis A 13 (gehobener Dienst) - je für ihren
+Auf Grund des Artikels 1 der Anordnung des Bundespräsidenten über
+die Ernennung und Entlassung der Bundesbeamten und Richter im
+Bundesdienst vom 14. Juli 1975 (BGBl. I S. 1915) übertrage ich die
+Ausübung des Rechtes zur Ernennung und Entlassung der Bundesbeamten
+der Besoldungsgruppen A 1 bis A 13 (gehobener Dienst) - je für ihren
 Geschäftsbereich -
 den Präsidenten
 
-*   der Oberpostdirektionen,
+-   der Oberpostdirektionen,
 
     des Fernmeldetechnischen Zentralamtes,
 
@@ -38,25 +36,18 @@ den Präsidenten
 
     Bundesdruckerei,
 
-
-
 den Leitern
 
-*   der Zentralstelle zur Entwicklung des Fernmeldewesens,
+-   der Zentralstelle zur Entwicklung des Fernmeldewesens,
 
     des Zentralamtes für Zulassungen im Fernmeldewesen und
 
     des Fachbereichs Post- und Fernmeldewesen in der Fachhochschule des
     Bundes für öffentliche Verwaltung sowie
 
-
-
 den Rektoren
 
-*   der Fachhochschulen der Deutschen Bundespost.
-
-
-
+-   der Fachhochschulen der Deutschen Bundespost.
 
 
 ## II.

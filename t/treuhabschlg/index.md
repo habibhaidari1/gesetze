@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl I: 1994, 2062
 
 
-
 ## Art 1 Änderung des Treuhandgesetzes
 
 -

@@ -16,13 +16,12 @@ Fundstelle
 :   BGBl I: 1971, 1157
 
 
-
 ## Art 1 Erstmalige Anwendung der Einheitswerte des Grundbesitzes
 
 (1) Die Einheitswerte des Grundbesitzes, denen die Wertverhältnisse
 vom 1. Januar 1964 zugrunde liegen, sind erstmals anzuwenden bei der
-Feststellung von Einheitswerten der gewerblichen Betriebe auf den 1.
-Januar 1974 und bei der Festsetzung von Steuern, bei denen die
+Feststellung von Einheitswerten der gewerblichen Betriebe auf den
+1\. Januar 1974 und bei der Festsetzung von Steuern, bei denen die
 Steuerschuld nach dem 31. Dezember 1973 entsteht. Die vom 1. Januar
 1974 an anzuwendenden Besteuerungsmaßstäbe werden durch besonderes
 Gesetz bestimmt.
@@ -34,21 +33,20 @@ Januar 1964 zugrunde liegen, werden unter den Voraussetzungen der §§
 Gesetzes erstmals auf den 1. Januar 1974 vorgenommen.
 
 
-## Art 2 \*Ku Hauptfeststellung der Einheitswerte der Mineralgewinnungsrechte \*KE
+## Art 2 *Ku Hauptfeststellung der Einheitswerte der Mineralgewinnungsrechte *KE
 
-(1) Für Mineralgewinnungsrechte findet die nächste Hauptfeststellung
+*(1) Für Mineralgewinnungsrechte findet die nächste Hauptfeststellung
 der Einheitswerte auf den 1. Januar 1972 statt (Hauptfeststellung
-1972).
+1972).*
 
-(2) Die Einheitswerte für Mineralgewinnungsrechte, denen die
+*(2) Die Einheitswerte für Mineralgewinnungsrechte, denen die
 Wertverhältnisse vom 1. Januar 1972 zugrunde liegen, sind erstmals
 anzuwenden bei der Feststellung von Einheitswerten der gewerblichen
 Betriebe auf den 1. Januar 1972 und bei der Festsetzung von Steuern,
-bei denen die Steuerschuld nach dem 31. Dezember 1971 entsteht.
+bei denen die Steuerschuld nach dem 31. Dezember 1971 entsteht.*
 
 
 ## (XXXX) Art 3 und 4
-
 
 
 ## Art 5 Schlußvorschriften
@@ -58,26 +56,21 @@ bei denen die Steuerschuld nach dem 31. Dezember 1971 entsteht.
 1.  Artikel 3 Nr. 5 und 6 erstmals bei der Hauptfeststellung der
     Einheitswerte auf den 1. Januar 1964,
 
-
 2.  Artikel 3 Nr. 1 bis 3 und 7 bis 11 erstmals zum 1. Januar 1974.
-
-
-
 
 (2) Bei der Einheitsbewertung von Mineralgewinnungsrechten und von
 gewerblichen Betrieben sind die Vorschriften des Artikels 3 Nr. 2 und
 4 erstmals zum 1. Januar 1972 anzuwenden.
 
-(3) Bei der Feststellung von Einheitswerten nach geltendem Recht auf
-den 1. Januar 1972 und auf den 1. Januar 1973 richtet sich die
+(3) Bei der Feststellung von Einheitswerten nach geltendem Recht
+auf den 1. Januar 1972 und auf den 1. Januar 1973 richtet sich die
 Zugehörigkeit der Tierbestände der gemeinschaftlichen Tierhaltung zum
-landwirtschaftlichen Vermögen nach § 51a in Verbindung mit § 33 Abs. 3
-Nr. 4, § 34 Abs. 6a und § 97 Abs. 1 des Bewertungsgesetzes in der
+landwirtschaftlichen Vermögen nach § 51a in Verbindung mit § 33 Abs.
+3 Nr. 4, § 34 Abs. 6a und § 97 Abs. 1 des Bewertungsgesetzes in der
 Fassung dieses Gesetzes.
 
 
 ## (XXXX) Art 6 bis 8
-
 
 
 ## Art 9 Berlin-Klausel

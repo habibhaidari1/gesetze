@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zur Auflösung und Abwicklung der Anstalt Absatzförderungsfonds der deutschen
-  Forst- und Holzwirtschaft
+Title: Gesetz zur Auflösung und Abwicklung der Anstalt Absatzförderungsfonds der deutschen Forst- und Holzwirtschaft
 jurabk: AbsFondsForstAuflG
 layout: default
 origslug: absfondsforstauflg
@@ -29,17 +28,12 @@ Anstalt ist beendet, sobald
 
 1.  ihre laufenden Geschäfte beendigt,
 
-
 2.  ihre Verbindlichkeiten erfüllt,
-
 
 3.  ihre Forderungen eingezogen und
 
-
 4.  ihr Vermögen in Geld umgesetzt und dieses nach Maßgabe des § 2 Absatz
     2 übergegangen ist.
-
-
 
 Neue Verbindlichkeiten können nur eingegangen werden, soweit sie dem
 Zweck der Abwicklung dienen.
@@ -66,17 +60,13 @@ bei der Landwirtschaftlichen Rentenbank zu verwenden.
 
 (1) Es werden aufgehoben:
 
-1.  das Holzabsatzfondsgesetz in der Fassung der Bekanntmachung vom 6.
-    Oktober 1998 (BGBl. I S. 3130), das zuletzt durch Artikel 2 des
+1.  das Holzabsatzfondsgesetz in der Fassung der Bekanntmachung vom
+    6\. Oktober 1998 (BGBl. I S. 3130), das zuletzt durch Artikel 2 des
     Gesetzes vom 26. Juni 2007 (BGBl. I S. 1170) geändert worden ist,
-
 
 2.  die Holzabsatzfondsverordnung vom 4. Januar 1999 (BGBl. I S. 2), die
     zuletzt durch Artikel 1 der Verordnung vom 20. Mai 2007 (BGBl. I S.
     939) geändert worden ist.
-
-
-
 
 (2) Bis zum Ablauf des Tages, an dem die Abwicklung der Anstalt
 Absatzförderungsfonds der deutschen Forst- und Holzwirtschaft beendet

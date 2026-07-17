@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über den Dienstsitz der Bundesanstalt für Landwirtschaft und
-  Ernährung
+Title: Bekanntmachung über den Dienstsitz der Bundesanstalt für Landwirtschaft und Ernährung
 jurabk: BLESitzBek
 layout: default
 origslug: blesitzbek
@@ -17,14 +16,13 @@ Fundstelle
 :   BGBl I: 2005, 1060
 
 
-
 ## (XXXX)
 
 Das Bundesministerium für Verbraucherschutz, Ernährung und
-Landwirtschaft gibt gemäß § 9 Nr. 3 des Berlin/Bonn-Gesetzes vom 26.
-April 1994 (BGBl. I S. 918), der durch Artikel 1 der Verordnung vom
-21\. September 1997 (BGBl. I S. 2390) geändert worden ist, in
-Verbindung mit der Bekanntmachung des Bundeskanzlers über die
+Landwirtschaft gibt gemäß § 9 Nr. 3 des Berlin/Bonn-Gesetzes vom
+26\. April 1994 (BGBl. I S. 918), der durch Artikel 1 der Verordnung
+vom 21. September 1997 (BGBl. I S. 2390) geändert worden ist,
+in Verbindung mit der Bekanntmachung des Bundeskanzlers über die
 Sitzentscheidung der Bundesregierung vom 22. Juli 1999 (BGBl. I S.
 1725) bekannt:
 
@@ -38,23 +36,11 @@ Landwirtschaft und Ernährung vom 2. August 1994 (BGBl. I S. 2018,
 Nach dem Umzug gelten folgende Anschrift, Postanschrift, Telefon- und
 Fax-Nummern:
 
-*    *   Bundesanstalt für Landwirtschaft und Ernährung
-
-
-*    *   Deichmanns Aue 29
-
-
-*    *   53179 Bonn
-
-
-*    *   Postanschrift: 53168 Bonn
-
-
-*    *   Telefon: 0 18 88 68 45-0
-
-
-*    *   Fax: 0 18 88 68 45-34 44
-
-
-
+| Bundesanstalt für Landwirtschaft und Ernährung |
+| --- |
+| Deichmanns Aue 29 |
+| 53179 Bonn |
+| Postanschrift: 53168 Bonn |
+| Telefon: 0 18 88 68 45-0 |
+| Fax: 0 18 88 68 45-34 44 |
 

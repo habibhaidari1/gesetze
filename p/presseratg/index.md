@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zur Gewährleistung der Unabhängigkeit des vom Deutschen Presserat eingesetzten
-  Beschwerdeausschusses
+Title: Gesetz zur Gewährleistung der Unabhängigkeit des vom Deutschen Presserat eingesetzten Beschwerdeausschusses
 jurabk: PresseratG
 layout: default
 origslug: presseratg
@@ -17,15 +16,14 @@ Fundstelle
 :   BGBl I: 1976, 2215
 
 
-
 ## § 1
 
 (1) Der Deutsche Presserat erhält zur Gewährleistung seiner
-Unabhängigkeit bei der Wahrnehmung seiner satzungsgemäßen Aufgabe zur
-Feststellung und Beseitigung von Mißständen im Pressewesen alljährlich
-einen Zuschuß des Bundes. Der Zuschuß ist zweckgebunden für die
-Tätigkeit des Beschwerdeausschusses des Deutschen Presserates zu
-verwenden.
+Unabhängigkeit bei der Wahrnehmung seiner satzungsgemäßen Aufgabe
+zur Feststellung und Beseitigung von Mißständen im Pressewesen
+alljährlich einen Zuschuß des Bundes. Der Zuschuß ist zweckgebunden
+für die Tätigkeit des Beschwerdeausschusses des Deutschen Presserates
+zu verwenden.
 
 (2) Der Zuschuß wird zum 1. April eines jeden Jahres gezahlt, erstmals
 am 1. April 1976. Er beträgt 80.000 DM.

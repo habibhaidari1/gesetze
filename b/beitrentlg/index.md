@@ -16,20 +16,16 @@ Fundstelle
 :   BGBl I: 1996, 1631
 
 
-
 ## Art 1 - Gesetz zur Beitragsentlastung der gesetzlichen Krankenversicherung
-
 
 
 ## Art 2 u. 3
 
 
-
 ## Art 4 - Übergangsregelungen
 
 
-
-## § 1 Versorgung mit Zahnersatz
+### § 1 Versorgung mit Zahnersatz
 
 Versicherte, die nach dem 31. Dezember 1978 geboren sind und deren
 zahnärztliche Behandlung zur Versorgung mit Zahnersatz vor dem 1.
@@ -38,7 +34,7 @@ Zahnersatz nach dem am 31. Dezember 1996 geltenden Recht, wenn die
 Krankenkasse vor dem 28. Juni 1996 über den Anspruch entschieden hat.
 
 
-## § 2 Anpassung laufender Krankengeldzahlungen
+### § 2 Anpassung laufender Krankengeldzahlungen
 
 § 47 des Fünften Buches Sozialgesetzbuch in der ab 1. Januar 1997
 geltenden Fassung ist vom Inkrafttreten dieses Gesetzes an auch auf

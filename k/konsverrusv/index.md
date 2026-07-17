@@ -1,6 +1,5 @@
 ---
-Title: Verordnung zur Umsetzung der Konsultationsvereinbarung zwischen der Bundesrepublik
-  Deutschland und der Russischen Föderation vom 3. März 2021
+Title: Verordnung zur Umsetzung der Konsultationsvereinbarung zwischen der Bundesrepublik Deutschland und der Russischen Föderation vom 3. März 2021
 jurabk: KonsVerRUSV
 layout: default
 origslug: konsverrusv
@@ -26,8 +25,8 @@ des Artikels 2 Nummer 1 des Gesetzes vom 20. Dezember 2016 (BGBl. I S.
 
 ## § 1 Abkommen
 
-Als Abkommen im Sinne dieser Verordnung gilt das Abkommen zwischen der
-Bundesrepublik Deutschland und der Russischen Föderation zur
+Als Abkommen im Sinne dieser Verordnung gilt das Abkommen zwischen
+der Bundesrepublik Deutschland und der Russischen Föderation zur
 Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom
 Einkommen und vom Vermögen vom 29. Mai 1996 (BGBl. 1996 II S. 2710,
 2711), das zuletzt durch das Protokoll vom 15. Oktober 2007 (BGBl.
@@ -45,8 +44,8 @@ Artikel 15 des Abkommens.
 
 ## § 3 Anwendungsregelung
 
-Diese Verordnung ist erstmals auf Besteuerungssachverhalte ab dem
-1\. Januar 2021              anzuwenden.
+Diese Verordnung ist erstmals auf Besteuerungssachverhalte ab dem 1.
+Januar 2021 anzuwenden.
 
 
 ## § 4 Inkrafttreten

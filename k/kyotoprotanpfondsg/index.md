@@ -19,22 +19,17 @@ Fundstelle
 ## Art 1 Rechtsfähigkeit des Rates des Anpassungsfonds
 
 (1) Der Rat des Anpassungsfonds, das durch die
-Vertragsstaatenkonferenz des Protokolls von Kyoto vom 11. Dezember
-1997 zum Rahmenübereinkommen der Vereinten Nationen über
-Klimaänderungen (BGBl. 2002 II S. 966, 967) eingerichtete
+Vertragsstaatenkonferenz des Protokolls von Kyoto vom 11.
+Dezember 1997 zum Rahmenübereinkommen der Vereinten Nationen
+über Klimaänderungen (BGBl. 2002 II S. 966, 967) eingerichtete
 Steuerungsorgan des Anpassungsfonds, besitzt in der Bundesrepublik
 Deutschland die Rechtsfähigkeit,
 
 a)  Verträge zu schließen,
 
-
 b)  bewegliches und unbewegliches Vermögen zu erwerben und zu veräußern,
 
-
 c)  vor Gericht zu stehen.
-
-
-
 
 (2) Für die Zwecke dieses Artikels wird der Rat des Anpassungsfonds
 durch seinen Vorsitzenden und dessen Stellvertreter vertreten.
@@ -44,10 +39,10 @@ durch seinen Vorsitzenden und dessen Stellvertreter vertreten.
 
 Artikel 9 des Abkommens vom 10. November 1995 zwischen der
 Bundesrepublik Deutschland und den Vereinten Nationen über den Sitz
-des Freiwilligenprogramms der Vereinten Nationen (UNV-Sitzabkommen –
-BGBl. 1996 II S. 903, 905) wird auf den Rat des Anpassungsfonds
-entsprechend angewandt mit der Maßgabe, dass der Verzicht nach Artikel
-9 Absatz 1 Satz 1 zweiter Halbsatz des UNV-Sitzabkommens vom
+des Freiwilligenprogramms der Vereinten Nationen (UNV-Sitzabkommen
+– BGBl. 1996 II S. 903, 905) wird auf den Rat des Anpassungsfonds
+entsprechend angewandt mit der Maßgabe, dass der Verzicht nach
+Artikel 9 Absatz 1 Satz 1 zweiter Halbsatz des UNV-Sitzabkommens vom
 Exekutivsekretär im Sinne des Artikels 1 Buchstabe f des Abkommens vom
 20\. Juni 1996 zwischen der Regierung der Bundesrepublik Deutschland,
 den Vereinten Nationen und dem Sekretariat des Rahmenübereinkommens

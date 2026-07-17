@@ -1,6 +1,5 @@
 ---
-Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert
-  von 10 Euro (Gedenkmünze „50 Jahre Gorch Fock“)
+Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze „50 Jahre Gorch Fock“)
 jurabk: Münz10EuroBek 2008-05-28
 layout: default
 origslug: m_nz10eurobek_2008-05-28
@@ -19,12 +18,12 @@ Fundstelle
 
 ## (XXXX)
 
-Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999 (BGBl.
-I S. 2402) hat die Bundesregierung beschlossen, aus Anlass des 50.
-Jahrestages der Inbetriebnahme des Segelschulschiffes „Gorch Fock“
-eine deutsche Euro-Gedenkmünze im Nennwert von 10 Euro prägen zu
-lassen. Die Auflage der Münze beträgt 1.760.000 Stück, darunter
-maximal 260 000 Stück in Spiegelglanzausführung. Die Prägung erfolgt
+Gemäß den §§ 2, 4 und 5 des Münzgesetzes vom 16. Dezember 1999
+(BGBl. I S. 2402) hat die Bundesregierung beschlossen, aus Anlass
+des 50. Jahrestages der Inbetriebnahme des Segelschulschiffes „Gorch
+Fock“ eine deutsche Euro-Gedenkmünze im Nennwert von 10 Euro prägen
+zu lassen. Die Auflage der Münze beträgt 1.760.000 Stück, darunter
+maximal 260 000 Stück in Spiegelglanzausführung. Die Prägung erfolgt
 durch die Hamburgische Münze.
 
 Die Münze wird ab dem 7. August 2008 in den Verkehr gebracht. Sie
@@ -47,7 +46,7 @@ Hamburgischen Münze.
 
 Der glatte Münzrand enthält in vertiefter Prägung die Inschrift:
 
-„SEEFAHRT IST NOT*             “.
+„SEEFAHRT IST NOT ~“.
 
 Hierbei handelt es sich um den Titel des Hauptwerkes des
 Schriftstellers Johann Kinau, dessen Pseudonym Gorch Fock der Name des
@@ -61,11 +60,7 @@ Der Entwurf der Münze stammt von Herrn Frantisek Chochola, Hamburg.
 Der Bundesminister der Finanzen
 
 
-## (XXXX)
+## Anlage
 
 ( Fundstelle: BGBl. I 2008, 991 )
-
-*    *        ![bgbl1_2008_j0991-1_0010.jpg](bgbl1_2008_j0991-1_0010.jpg)
-    *        ![bgbl1_2008_j0991-1_0020.jpg](bgbl1_2008_j0991-1_0020.jpg)
-
 

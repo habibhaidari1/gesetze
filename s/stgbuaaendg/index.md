@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zur Änderung des Strafgesetzbuches, der Strafprozeßordnung, des Gerichtsverfassungsgesetzes,
-  der Bundesrechtsanwaltsordnung und des Strafvollzugsgesetzes
+Title: Gesetz zur Änderung des Strafgesetzbuches, der Strafprozeßordnung, des Gerichtsverfassungsgesetzes, der Bundesrechtsanwaltsordnung und des Strafvollzugsgesetzes
 jurabk: StGBuaÄndG
 layout: default
 origslug: stgbua_ndg
@@ -43,16 +42,12 @@ Tätigkeit der kriminellen Vereinigung darauf gerichtet war,
 
 1.  Mord, Totschlag oder Völkermord (§§ 211, 212, 220a),
 
-
 2.  Straftaten gegen die persönliche Freiheit in den Fällen des § 239a
     oder des § 239b oder
-
 
 3.  gemeingefährliche Straftaten in den Fällen der §§ 306 bis 308, 310b
     Abs. 1, des § 311 Abs. 1, des § 311a Abs. 1, der §§ 312, 316c Abs. 1
     oder des § 319
-
-
 
 zu begehen.
 

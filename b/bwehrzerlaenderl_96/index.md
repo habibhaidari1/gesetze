@@ -1,6 +1,5 @@
 ---
-Title: Erlaß über die Genehmigung einer Änderung des Erlasses über die Stiftung des
-  Ehrenzeichens der Bundeswehr
+Title: Erlaß über die Genehmigung einer Änderung des Erlasses über die Stiftung des Ehrenzeichens der Bundeswehr
 jurabk: BwEhrZErlÄndErl 96
 layout: default
 origslug: bwehrzerl_nderl_96
@@ -17,13 +16,12 @@ Fundstelle
 :   BGBl I: 1996, 321
 
 
-
 ## (XXXX)
 
-Der Bundesminister der Verteidigung hat am 29. Januar 1996 den Erlaß
-vom 6. November 1980, geändert am 18. Februar 1991, über die Stiftung
-des Ehrenzeichens der Bundeswehr geändert. Danach kann die
-Ehrenmedaille der Bundeswehr für treue Pflichterfüllung und
+Der Bundesminister der Verteidigung hat am 29. Januar 1996 den
+Erlaß vom 6. November 1980, geändert am 18. Februar 1991, über die
+Stiftung des Ehrenzeichens der Bundeswehr geändert. Danach kann
+die Ehrenmedaille der Bundeswehr für treue Pflichterfüllung und
 überdurchschnittliche Leistungen nach einer Dienstzeit von sieben
 Monaten verliehen werden.
 Nach Artikel 4 des Sechsten Erlasses über die Genehmigung der Stiftung

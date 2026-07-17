@@ -35,19 +35,13 @@ Hochschulen in allgemein zugänglicher Form bekannt
 1.  die voraussichtliche Zahl und gegebenenfalls die Zweckbindung der zur
     Verfügung stehenden Stipendien,
 
-
 2.  die Form der Bewerbung und die Stelle, bei der sie einzureichen ist,
-
 
 3.  die von den Bewerbern beizubringenden Unterlagen,
 
-
 4.  den Ablauf des Auswahlverfahrens und
 
-
 5.  die Bewerbungsfristen.
-
-
 
 Vorschriften der Hochschulen zur weiteren Ausgestaltung der
 Bewerbungs- und Auswahlverfahren bleiben unberührt.
@@ -64,13 +58,8 @@ insbesondere wie folgt nachgewiesen werden:
         besonderer Berücksichtigung der für das gewählte Studienfach
         relevanten Einzelnoten oder
 
-
     b)  die besondere Qualifikation, die zum Studium an dieser Hochschule
         berechtigt,
-
-
-
-
 
 2.  für bereits immatrikulierte Studierende durch die bisher erbrachten
     Studienleistungen, insbesondere die erreichten ECTS-Punkte oder
@@ -78,39 +67,31 @@ insbesondere wie folgt nachgewiesen werden:
     Studierende eines Master-Studiengangs auch die Abschlussnote des
     vorausgegangenen Studiums,
 
-
-
-
 (2) Bei der Gesamtbetrachtung des Potenzials der Bewerberin oder des
 Bewerbers sollen außerdem insbesondere berücksichtigt werden
 
 1.  besondere Erfolge, Auszeichnungen und Preise, eine vorangegangene
     Berufstätigkeit und Praktika,
 
-
 2.  außerschulisches oder außerfachliches Engagement wie eine
     ehrenamtliche Tätigkeit, gesellschaftliches, soziales,
     hochschulpolitisches oder politisches Engagement oder die Mitwirkung
     in Religionsgesellschaften, Verbänden oder Vereinen,
 
-
-3.  besondere persönliche oder familiäre Umstände wie Krankheiten und
-    Behinderungen, die Betreuung eigener Kinder, insbesondere als
-    alleinerziehendes Elternteil, oder pflegebedürftiger naher
+3.  besondere persönliche oder familiäre Umstände wie Krankheiten
+    und Behinderungen, die Betreuung eigener Kinder, insbesondere
+    als alleinerziehendes Elternteil, oder pflegebedürftiger naher
     Angehöriger, die Mitarbeit im familiären Betrieb, studienbegleitende
     Erwerbstätigkeiten, familiäre Herkunft oder ein Migrationshintergrund.
 
 
-
-
-
 ## § 3 Regelmäßige Begabungs- und Leistungsüberprüfung
 
-Die Hochschulen prüfen mindestens einmal jährlich, ob die Begabung und
-Leistung der Stipendiatin oder des Stipendiaten eine Fortgewähr des
-Stipendiums rechtfertigt. Sie legen hierzu im Bewilligungsbescheid den
-Zeitpunkt und die Art der Nachweise fest, welche die Stipendiatin oder
-der Stipendiat erbringen muss, um diese Prüfung zu ermöglichen.
+Die Hochschulen prüfen mindestens einmal jährlich, ob die Begabung
+und Leistung der Stipendiatin oder des Stipendiaten eine Fortgewähr
+des Stipendiums rechtfertigt. Sie legen hierzu im Bewilligungsbescheid
+den Zeitpunkt und die Art der Nachweise fest, welche die Stipendiatin
+oder der Stipendiat erbringen muss, um diese Prüfung zu ermöglichen.
 Besondere persönliche oder familiäre Umstände, unter denen die
 Leistung erbracht wurde, werden berücksichtigt.
 
@@ -128,30 +109,22 @@ für Bildung und Forschung beruft:
 1.  zwei Vertreterinnen oder Vertreter der zuständigen obersten
     Landesbehörden,
 
-
 2.  zwei Vertreterinnen oder Vertreter der Hochschulen,
-
 
 3.  zwei Vertreterinnen oder Vertreter der Studierenden,
 
-
 4.  zwei Vertreterinnen oder Vertreter der privaten Mittelgeber,
-
 
 5.  je eine Vertreterin oder einen Vertreter der Arbeitgeber und
     Arbeitnehmer,
 
-
 6.  eine Vertreterin oder einen Vertreter der Wissenschaft sowie
 
+7.  eine Vertreterin oder einen Vertreter des Deutschen Studentenwerk
+    e. V.
 
-7.  eine Vertreterin oder einen Vertreter des Deutschen Studentenwerk e.
-    V.
-
-
-
-Die Mitglieder nach Satz 2 Nummer 1 und 3 werden auf Vorschlag des
-Bundesrates, die Mitglieder nach Nummer 2 auf Vorschlag der
+Die Mitglieder nach Satz 2 Nummer 1 und 3 werden auf Vorschlag
+des Bundesrates, die Mitglieder nach Nummer 2 auf Vorschlag der
 Hochschulrektorenkonferenz berufen. Das Bundesministerium für Bildung
 und Forschung kann ein Mitglied vorzeitig abberufen, wenn sich die
 Verhältnisse wesentlich verändert haben, die für die Berufung in den

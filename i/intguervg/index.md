@@ -26,9 +26,9 @@ Fundstelle
 Verstärkten Zusammenarbeit im Bereich der Zuständigkeit, des
 anzuwendenden Rechts und der Anerkennung und Vollstreckung von
 Entscheidungen in Fragen des ehelichen Güterstands (ABl. L 183 vom
-8\.7.2016, S. 1; L 113 vom 29.4.2017, S. 62; L 167 vom 4.7.2018, S. 36)
-und der Verordnung (EU) 2016/1104 des Rates vom 24. Juni 2016 zur
-Durchführung der Verstärkten Zusammenarbeit im Bereich der
+8\.7.2016, S. 1; L 113 vom 29.4.2017, S. 62; L 167 vom 4.7.2018, S.
+36) und der Verordnung (EU) 2016/1104 des Rates vom 24. Juni 2016
+zur Durchführung der Verstärkten Zusammenarbeit im Bereich der
 Zuständigkeit, des anzuwendenden Rechts und der Anerkennung und
 Vollstreckung von Entscheidungen in Fragen güterrechtlicher Wirkungen
 eingetragener Partnerschaften (ABl. L 183 vom 8.7.2016, S. 30; L 113
@@ -41,8 +41,8 @@ beiden Güterrechtsverordnungen teilnehmen.
 
 ### § 2 Allgemeine gerichtliche Verfahrensvorschriften
 
-Auf gerichtliche Verfahren sind die Vorschriften des Gesetzes über das
-Verfahren in Familiensachen und in den Angelegenheiten der
+Auf gerichtliche Verfahren sind die Vorschriften des Gesetzes über
+das Verfahren in Familiensachen und in den Angelegenheiten der
 freiwilligen Gerichtsbarkeit anzuwenden, soweit in der Verordnung (EU)
 2016/1103 und der Verordnung (EU) 2016/1104 sowie in diesem Gesetz
 nichts anderes bestimmt ist.
@@ -59,26 +59,23 @@ internationale Zuständigkeit deutscher Gerichte, so ist folgendes
 Gericht örtlich zuständig:
 
 1.  im Fall des Artikels 4 der Verordnung (EU) 2016/1103 oder des Artikels
-    4 der Verordnung (EU) 2016/1104 ausschließlich das Gericht, das nach §
-    2 des Internationalen Erbrechtsverfahrensgesetzes angerufen worden
+    4 der Verordnung (EU) 2016/1104 ausschließlich das Gericht, das nach
+    § 2 des Internationalen Erbrechtsverfahrensgesetzes angerufen worden
     ist,
 
-
 2.  im Fall des Artikels 5 Absatz 1 oder Absatz 2 der Verordnung (EU)
-    2016/1103 ausschließlich das Gericht, das nach § 122 des Gesetzes über
-    das Verfahren in Familiensachen und in den Angelegenheiten der
+    2016/1103 ausschließlich das Gericht, das nach § 122 des Gesetzes
+    über das Verfahren in Familiensachen und in den Angelegenheiten der
     freiwilligen Gerichtsbarkeit in der Ehesache angerufen worden ist,
-
 
 3.  im Fall des Artikels 5 Absatz 1 der Verordnung (EU) 2016/1104
     ausschließlich das Gericht, das nach den §§ 122 und 270 des Gesetzes
-    über das Verfahren in Familiensachen und in den Angelegenheiten der
-    freiwilligen Gerichtsbarkeit in der Lebenspartnerschaftssache
+    über das Verfahren in Familiensachen und in den Angelegenheiten
+    der freiwilligen Gerichtsbarkeit in der Lebenspartnerschaftssache
     angerufen worden ist,
 
-
-4.  im Fall des Artikels 6 der Verordnung (EU) 2016/1103 oder des Artikels
-    6 Buchstabe a bis d der Verordnung (EU) 2016/1104 in dieser
+4.  im Fall des Artikels 6 der Verordnung (EU) 2016/1103 oder des
+    Artikels 6 Buchstabe a bis d der Verordnung (EU) 2016/1104 in dieser
     Reihenfolge
 
     a)  das Gericht des Ortes, an dem
@@ -86,64 +83,47 @@ Gericht örtlich zuständig:
         aa) die Ehegatten oder eingetragenen Partner ihren gewöhnlichen Aufenthalt
             haben,
 
-
         bb) die Ehegatten oder eingetragenen Partner zuletzt ihren gewöhnlichen
             Aufenthalt hatten, sofern einer von ihnen zum Zeitpunkt der Anrufung
             des Gerichts ihn dort noch hat, oder
 
-
         cc) der Antragsgegner zum Zeitpunkt der Anrufung des Gerichts seinen
             gewöhnlichen Aufenthalt hat, oder
 
-
-
-
-
     b)  das Amtsgericht Schöneberg in Berlin,
-
-
-
-
 
 5.  im Fall des Artikels 6 Buchstabe e der Verordnung (EU) 2016/1104 das
     Gericht, in dessen Bezirk die eingetragene Partnerschaft begründet
     worden ist,
 
+6.  im Fall des Artikels 7 Absatz 1 der Verordnung (EU) 2016/1103 oder
+    des Artikels 7 Absatz 1 der Verordnung (EU) 2016/1104 ausschließlich
+    das Gericht, das die Beteiligten bestimmt haben; ist kein Gericht
+    bestimmt, so gelten für die örtliche Zuständigkeit die Nummern 4 und
+    5 entsprechend,
 
-6.  im Fall des Artikels 7 Absatz 1 der Verordnung (EU) 2016/1103 oder des
-    Artikels 7 Absatz 1 der Verordnung (EU) 2016/1104 ausschließlich das
-    Gericht, das die Beteiligten bestimmt haben; ist kein Gericht
-    bestimmt, so gelten für die örtliche Zuständigkeit die Nummern 4 und 5
-    entsprechend,
-
-
-7.  im Fall des Artikels 9 Absatz 2 erster Unterabsatz der Verordnung (EU)
-    2016/1103 oder des Artikels 9 Absatz 2 erster Unterabsatz der
-    Verordnung (EU) 2016/1104 gilt für die örtliche Zuständigkeit Nummer 6
-    entsprechend; in den Fällen internationaler Zuständigkeit nach Artikel
-    9 Absatz 2 zweiter Unterabsatz der Verordnung (EU) 2016/1103 oder nach
-    Artikel 9 Absatz 2 zweiter Unterabsatz der Verordnung (EU) 2016/1104
-    gelten für die örtliche Zuständigkeit die Nummern 4 oder 5
-    entsprechend, wobei in Fällen der Verordnung (EU) 2016/1103 Nummer 4
-    um die Zuständigkeit des Gerichts am Ort der Eheschließung ergänzt
+7.  im Fall des Artikels 9 Absatz 2 erster Unterabsatz der Verordnung
+    (EU) 2016/1103 oder des Artikels 9 Absatz 2 erster Unterabsatz der
+    Verordnung (EU) 2016/1104 gilt für die örtliche Zuständigkeit Nummer
+    6 entsprechend; in den Fällen internationaler Zuständigkeit nach
+    Artikel 9 Absatz 2 zweiter Unterabsatz der Verordnung (EU) 2016/1103
+    oder nach Artikel 9 Absatz 2 zweiter Unterabsatz der Verordnung (EU)
+    2016/1104 gelten für die örtliche Zuständigkeit die Nummern 4 oder
+    5 entsprechend, wobei in Fällen der Verordnung (EU) 2016/1103 Nummer
+    4 um die Zuständigkeit des Gerichts am Ort der Eheschließung ergänzt
     wird,
-
 
 8.  im Fall des Artikels 10 der Verordnung (EU) 2016/1103 oder des
     Artikels 10 der Verordnung (EU) 2016/1104 das Gericht des Ortes, an
     dem das unbewegliche Vermögen belegen ist,
 
-
 9.  im Fall des Artikels 11 der Verordnung (EU) 2016/1103 oder des
     Artikels 11 der Verordnung (EU) 2016/1104 das Amtsgericht Schöneberg
     in Berlin.
 
-
-
-
-(2) Die Landesregierungen werden ermächtigt, die Zuständigkeiten nach
-Absatz 1 Nummer 4, 5, 7, soweit es in dieser Nummer auf den Ort der
-Eheschließung ankommt, und Absatz 1 Nummer 8 und 9 durch
+(2) Die Landesregierungen werden ermächtigt, die Zuständigkeiten
+nach Absatz 1 Nummer 4, 5, 7, soweit es in dieser Nummer auf den
+Ort der Eheschließung ankommt, und Absatz 1 Nummer 8 und 9 durch
 Rechtsverordnung einem anderen Gericht des Oberlandesgerichtsbezirks
 oder, wenn in einem Land mehrere Oberlandesgerichte errichtet sind,
 einem Gericht für die Bezirke aller oder mehrerer Oberlandesgerichte
@@ -163,15 +143,15 @@ Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 einem anderen Mitgliedstaat ist ausschließlich das Amtsgericht.
 
 (2) Örtlich zuständig ist ausschließlich das Amtsgericht am Sitz des
-Oberlandesgerichts, in dessen Bezirk der Schuldner seinen Wohnsitz hat
-oder in dessen Bezirk die Zwangsvollstreckung durchgeführt werden
+Oberlandesgerichts, in dessen Bezirk der Schuldner seinen Wohnsitz
+hat oder in dessen Bezirk die Zwangsvollstreckung durchgeführt werden
 soll.
 
 (3) Die Landesregierungen werden ermächtigt, die örtliche
-Zuständigkeit durch Rechtsverordnung einem anderen Amtsgericht des
-Oberlandesgerichtsbezirks oder, wenn in einem Land mehrere
-Oberlandesgerichte errichtet sind, einem Amtsgericht für die Bezirke
-aller oder mehrerer Oberlandesgerichte zuzuweisen. Die
+Zuständigkeit durch Rechtsverordnung einem anderen Amtsgericht
+des Oberlandesgerichtsbezirks oder, wenn in einem Land mehrere
+Oberlandesgerichte errichtet sind, einem Amtsgericht für die
+Bezirke aller oder mehrerer Oberlandesgerichte zuzuweisen. Die
 Landesregierungen können diese Ermächtigung durch Rechtsverordnung auf
 die Landesjustizverwaltungen übertragen.
 
@@ -184,18 +164,18 @@ durch ein Gericht gelten sinngemäß.
 
 #### § 5 Zulassung zur Zwangsvollstreckung; Antragstellung
 
-(1) Der in einem anderen Mitgliedstaat vollstreckbare Titel wird
-dadurch zur Zwangsvollstreckung zugelassen, dass er mit der
+(1) Der in einem anderen Mitgliedstaat vollstreckbare Titel
+wird dadurch zur Zwangsvollstreckung zugelassen, dass er mit der
 Vollstreckungsklausel versehen wird.
 
 (2) Der Antrag auf Erteilung der Vollstreckungsklausel kann bei dem
 zuständigen Gericht schriftlich eingereicht oder mündlich zu Protokoll
 der Geschäftsstelle erklärt werden.
 
-(3) Ist der Antrag nicht in deutscher Sprache abgefasst, so kann das
-Gericht von dem Antragsteller eine Übersetzung verlangen, deren
-Richtigkeit von einer in einem Mitgliedstaat der Europäischen Union
-oder in einem anderen Vertragsstaat des Abkommens über den
+(3) Ist der Antrag nicht in deutscher Sprache abgefasst, so kann
+das Gericht von dem Antragsteller eine Übersetzung verlangen,
+deren Richtigkeit von einer in einem Mitgliedstaat der Europäischen
+Union oder in einem anderen Vertragsstaat des Abkommens über den
 Europäischen Wirtschaftsraum hierzu befugten Person bestätigt worden
 ist.
 
@@ -218,13 +198,13 @@ nicht erforderlich.
 
 #### § 7 Vollstreckbarkeit ausländischer Titel in Sonderfällen
 
-Hängt die Zwangsvollstreckung nach dem Inhalt des Titels von einer dem
-Gläubiger obliegenden Sicherheitsleistung, von dem Ablauf einer Frist
-oder dem Eintritt einer anderen Tatsache ab oder wird die Erteilung
-der Vollstreckungsklausel zugunsten eines anderen als des in dem Titel
-bezeichneten Gläubigers oder gegen einen anderen als den darin
-bezeichneten Schuldner beantragt, so ist die Frage, inwieweit die
-Zulassung der Zwangsvollstreckung von dem Nachweis besonderer
+Hängt die Zwangsvollstreckung nach dem Inhalt des Titels von einer
+dem Gläubiger obliegenden Sicherheitsleistung, von dem Ablauf einer
+Frist oder dem Eintritt einer anderen Tatsache ab oder wird die
+Erteilung der Vollstreckungsklausel zugunsten eines anderen als des
+in dem Titel bezeichneten Gläubigers oder gegen einen anderen als den
+darin bezeichneten Schuldner beantragt, so ist die Frage, inwieweit
+die Zulassung der Zwangsvollstreckung von dem Nachweis besonderer
 Voraussetzungen abhängig ist oder ob der Titel zugunsten oder gegen
 den anderen vollstreckbar ist, nach dem Recht des Mitgliedstaates zu
 entscheiden, in dem der Titel errichtet ist.
@@ -239,7 +219,7 @@ Verpflichtung in deutscher Sprache wiederzugeben. Zur Begründung des
 Beschlusses genügt in der Regel die Bezugnahme auf die Verordnung (EU)
 2016/1103 oder die Verordnung (EU) 2016/1104 sowie auf die von dem
 Antragsteller vorgelegten Urkunden. Auf die Kosten des Verfahrens ist
-§ 788 der Zivilprozessordnung entsprechend anzuwenden.
+§ 788 der Zivilprozessordnung entsprechend anzuwenden.
 
 (2) Ist der Antrag auf Erteilung der Vollstreckungsklausel nicht
 zulässig oder nicht begründet, so lehnt ihn das Gericht durch
@@ -252,9 +232,10 @@ Antragsteller aufzuerlegen.
 (1) Auf Grund des Beschlusses nach § 8 Absatz 1 erteilt der
 Urkundsbeamte der Geschäftsstelle die Vollstreckungsklausel in
 folgender Form:
-"Vollstreckungsklausel nach § 5 des Internationalen
-Güterrechtsverfahrensgesetzes vom 17. Dezember 2018 (BGBl. I S. 2573).
-Gemäß dem Beschluss des … (Bezeichnung des Gerichts und des
+
+„Vollstreckungsklausel nach § 5 des Internationalen
+Güterrechtsverfahrensgesetzes vom 17. Dezember 2018 (BGBl. I S.
+2573). Gemäß dem Beschluss des … (Bezeichnung des Gerichts und des
 Beschlusses) ist die Zwangsvollstreckung aus … (Bezeichnung des
 Titels) zugunsten … (Bezeichnung des Gläubigers) gegen … (Bezeichnung
 des Schuldners) zulässig.
@@ -268,19 +249,19 @@ Verpflichtung in deutscher Sprache; aus dem Beschluss nach § 8 Absatz
 Die Zwangsvollstreckung darf über Maßregeln zur Sicherung nicht
 hinausgehen, bis der Gläubiger eine gerichtliche Anordnung oder ein
 Zeugnis darüber vorlegt, dass die Zwangsvollstreckung unbeschränkt
-stattfinden darf."
+stattfinden darf.“
 
 Lautet der Titel auf Leistung von Geld, so ist der
 Vollstreckungsklausel folgender Zusatz anzufügen:
-"Solange die Zwangsvollstreckung über Maßregeln zur Sicherung nicht
+
+„Solange die Zwangsvollstreckung über Maßregeln zur Sicherung nicht
 hinausgehen darf, kann der Schuldner die Zwangsvollstreckung durch
 Leistung einer Sicherheit in Höhe von … (Angabe des Betrages, wegen
-dessen der Gläubiger vollstrecken darf) abwenden."
-
+dessen der Gläubiger vollstrecken darf) abwenden.“
 
 (2) Wird die Zwangsvollstreckung nicht für alle der in dem
-ausländischen Titel niedergelegten Ansprüche oder nur für einen Teil
-des Gegenstands der Verpflichtung zugelassen, so ist die
+ausländischen Titel niedergelegten Ansprüche oder nur für einen
+Teil des Gegenstands der Verpflichtung zugelassen, so ist die
 Vollstreckungsklausel als „Teil-Vollstreckungsklausel nach § 5 des
 Internationalen Güterrechtsverfahrensgesetzes vom 17. Dezember 2018
 (BGBl. I S. 2573)“ zu bezeichnen.
@@ -295,11 +276,11 @@ Titels vorliegt, ist sie mit der Ausfertigung zu verbinden.
 #### § 10 Bekanntgabe der Entscheidung
 
 (1) Lässt das Gericht die Zwangsvollstreckung aus dem Titel zu, sind
-dem Antragsgegner eine beglaubigte Abschrift des Beschlusses, des mit
-der Vollstreckungsklausel versehenen Titels und gegebenenfalls seiner
-Übersetzung sowie der gemäß § 8 Absatz 1 Satz 3 in Bezug genommenen
-Urkunden von Amts wegen zuzustellen. Dem Antragsteller sind eine
-beglaubigte Abschrift des Beschlusses, die mit der
+dem Antragsgegner eine beglaubigte Abschrift des Beschlusses, des
+mit der Vollstreckungsklausel versehenen Titels und gegebenenfalls
+seiner Übersetzung sowie der gemäß § 8 Absatz 1 Satz 3 in Bezug
+genommenen Urkunden von Amts wegen zuzustellen. Dem Antragsteller
+sind eine beglaubigte Abschrift des Beschlusses, die mit der
 Vollstreckungsklausel versehene Ausfertigung des Titels sowie eine
 Bescheinigung über die bewirkte Zustellung zu übersenden.
 
@@ -342,13 +323,13 @@ Beschwerdegegner ist vor der Entscheidung zu hören.
 Antragsteller und dem Antragsgegner auch dann von Amts wegen
 zuzustellen, wenn der Beschluss verkündet worden ist.
 
-(4) Soweit auf Grund des Beschlusses die Zwangsvollstreckung aus dem
-Titel erstmals zuzulassen ist, erteilt der Urkundsbeamte der
-Geschäftsstelle des Beschwerdegerichts die Vollstreckungsklausel. § 8
-Absatz 1 Satz 2 bis 4 sowie die §§ 9 und 10 Absatz 1 sind entsprechend
-anzuwenden. Ein Zusatz, dass die Zwangsvollstreckung über Maßregeln
-zur Sicherung nicht hinausgehen darf (§ 9 Absatz 1), ist nur
-aufzunehmen, wenn das Beschwerdegericht eine Anordnung nach § 18
+(4) Soweit auf Grund des Beschlusses die Zwangsvollstreckung aus
+dem Titel erstmals zuzulassen ist, erteilt der Urkundsbeamte der
+Geschäftsstelle des Beschwerdegerichts die Vollstreckungsklausel.
+§ 8 Absatz 1 Satz 2 bis 4 sowie die §§ 9 und 10 Absatz 1 sind
+entsprechend anzuwenden. Ein Zusatz, dass die Zwangsvollstreckung über
+Maßregeln zur Sicherung nicht hinausgehen darf (§ 9 Absatz 1), ist
+nur aufzunehmen, wenn das Beschwerdegericht eine Anordnung nach § 18
 Absatz 2 erlassen hat. Der Inhalt des Zusatzes bestimmt sich nach dem
 Inhalt der Anordnung.
 
@@ -380,13 +361,13 @@ Zusatz über die Beschränkung der Zwangsvollstreckung entfällt.
 
 #### § 15 Einwände gegen die Beschränkung auf Maßregeln zur Sicherung
 
-Einwendungen des Schuldners, dass bei der Zwangsvollstreckung die
-Beschränkung auf Maßregeln zur Sicherung nach der Verordnung (EU)
-2016/1103 oder der Verordnung (EU) 2016/1104 oder auf Grund einer
-Anordnung gemäß § 18 Absatz 2 nicht eingehalten werde, oder
+Einwendungen des Schuldners, dass bei der Zwangsvollstreckung
+die Beschränkung auf Maßregeln zur Sicherung nach der Verordnung
+(EU) 2016/1103 oder der Verordnung (EU) 2016/1104 oder auf Grund
+einer Anordnung gemäß § 18 Absatz 2 nicht eingehalten werde, oder
 Einwendungen des Gläubigers, dass eine bestimmte Maßnahme der
-Zwangsvollstreckung mit dieser Beschränkung vereinbar sei, sind im
-Wege der Erinnerung nach § 766 der Zivilprozessordnung bei dem
+Zwangsvollstreckung mit dieser Beschränkung vereinbar sei, sind
+im Wege der Erinnerung nach § 766 der Zivilprozessordnung bei dem
 Vollstreckungsgericht (§ 764 der Zivilprozessordnung) geltend zu
 machen.
 
@@ -400,8 +381,8 @@ Sicherheit in Höhe des Betrages abzuwenden, wegen dessen der Gläubiger
 vollstrecken darf.
 
 (2) Die Zwangsvollstreckung ist einzustellen und bereits getroffene
-Vollstreckungsmaßregeln sind aufzuheben, wenn der Schuldner durch eine
-öffentliche Urkunde die zur Abwendung der Zwangsvollstreckung
+Vollstreckungsmaßregeln sind aufzuheben, wenn der Schuldner durch
+eine öffentliche Urkunde die zur Abwendung der Zwangsvollstreckung
 erforderliche Sicherheitsleistung nachweist.
 
 
@@ -419,8 +400,8 @@ oder wenn ihre Aufbewahrung unverhältnismäßige Kosten verursacht.
 
 (1) Weist das Beschwerdegericht die Beschwerde des Schuldners gegen
 die Zulassung der Zwangsvollstreckung zurück oder lässt es auf die
-Beschwerde des Gläubigers die Zwangsvollstreckung aus dem Titel zu, so
-kann die Zwangsvollstreckung über Maßregeln zur Sicherung hinaus
+Beschwerde des Gläubigers die Zwangsvollstreckung aus dem Titel zu,
+so kann die Zwangsvollstreckung über Maßregeln zur Sicherung hinaus
 fortgesetzt werden.
 
 (2) Auf Antrag des Schuldners kann das Beschwerdegericht anordnen,
@@ -433,9 +414,9 @@ einen nicht zu ersetzenden Nachteil bringen würde. § 713 der
 Zivilprozessordnung ist entsprechend anzuwenden.
 
 (3) Wird Rechtsbeschwerde eingelegt, so kann das
-Rechtsbeschwerdegericht auf Antrag des Schuldners eine Anordnung nach
-Absatz 2 erlassen. Das Rechtsbeschwerdegericht kann auf Antrag des
-Gläubigers eine nach Absatz 2 erlassene Anordnung des
+Rechtsbeschwerdegericht auf Antrag des Schuldners eine Anordnung
+nach Absatz 2 erlassen. Das Rechtsbeschwerdegericht kann auf
+Antrag des Gläubigers eine nach Absatz 2 erlassene Anordnung des
 Beschwerdegerichts abändern oder aufheben.
 
 
@@ -452,20 +433,14 @@ Zwangsvollstreckung unbeschränkt stattfinden darf.
 1.  der Schuldner bis zum Ablauf der Beschwerdefrist keine
     Beschwerdeschrift eingereicht hat,
 
-
 2.  das Beschwerdegericht die Beschwerde des Schuldners zurückgewiesen und
     keine Anordnung nach § 18 Absatz 2 erlassen hat,
-
 
 3.  das Rechtsbeschwerdegericht die Anordnung des Beschwerdegerichts
     aufgehoben hat (§ 18 Absatz 3 Satz 2) oder
 
-
 4.  das Rechtsbeschwerdegericht den Titel zur Zwangsvollstreckung
     zugelassen hat.
-
-
-
 
 
 #### § 20 Unbeschränkte Fortsetzung der durch das Beschwerdegericht zugelassenen Zwangsvollstreckung
@@ -484,16 +459,11 @@ wird, dass die Zwangsvollstreckung unbeschränkt stattfinden darf.
 1.  der Schuldner bis zum Ablauf der Frist zur Einlegung der
     Rechtsbeschwerde keine Beschwerdeschrift eingereicht hat,
 
-
 2.  das Rechtsbeschwerdegericht die Anordnung des Beschwerdegerichts
     aufgehoben hat (§ 18 Absatz 3 Satz 2) oder
 
-
 3.  das Rechtsbeschwerdegericht die Rechtsbeschwerde des Schuldners
     zurückgewiesen hat.
-
-
-
 
 
 ### Unterabschnitt 4 - Feststellung der Anerkennung einer ausländischen Entscheidung
@@ -513,8 +483,8 @@ Gericht, die Entscheidung anzuerkennen.
 #### § 22 Kostenentscheidung
 
 Im Fall der Anerkennung einer Entscheidung sind die Kosten dem
-Antragsgegner aufzuerlegen. Dieser kann die Beschwerde (§ 11) auf die
-Entscheidung über die Kosten beschränken. In diesem Fall sind die
+Antragsgegner aufzuerlegen. Dieser kann die Beschwerde (§ 11) auf
+die Entscheidung über die Kosten beschränken. In diesem Fall sind die
 Kosten dem Antragsteller aufzuerlegen, wenn der Antragsgegner durch
 sein Verhalten keine Veranlassung zu dem Antrag auf Feststellung
 gegeben hat.
@@ -525,8 +495,8 @@ gegeben hat.
 
 #### § 23 Vollstreckungsabwehrklage
 
-(1) Ist die Zwangsvollstreckung aus einem Titel zugelassen, so kann
-der Schuldner Einwendungen gegen den Anspruch selbst in einem
+(1) Ist die Zwangsvollstreckung aus einem Titel zugelassen, so
+kann der Schuldner Einwendungen gegen den Anspruch selbst in einem
 Verfahren nach § 767 der Zivilprozessordnung geltend machen. Handelt
 es sich bei dem Titel um eine gerichtliche Entscheidung, ist dies nur
 zulässig, wenn die Gründe, auf denen die Einwendungen beruhen, erst
@@ -539,9 +509,9 @@ Erteilung der Vollstreckungsklausel entschieden hat.
 #### § 24 Verfahren nach Aufhebung oder Änderung eines für vollstreckbar erklärten ausländischen Titels
 
 (1) Wird der Titel in dem Mitgliedstaat, in dem er errichtet worden
-ist, aufgehoben oder geändert und kann der Schuldner diese Tatsache in
-dem Verfahren auf Zulassung des Titels zur Zwangsvollstreckung nicht
-mehr geltend machen, so kann er die Aufhebung oder Änderung der
+ist, aufgehoben oder geändert und kann der Schuldner diese Tatsache
+in dem Verfahren auf Zulassung des Titels zur Zwangsvollstreckung
+nicht mehr geltend machen, so kann er die Aufhebung oder Änderung der
 Zulassung in einem selbständigen Verfahren beantragen.
 
 (2) Für die Entscheidung über den Antrag ist das Gericht
@@ -554,8 +524,8 @@ Verhandlung entschieden werden. Vor der Entscheidung ist der Gläubiger
 zu hören. Die Entscheidung ergeht durch Beschluss. § 12 Absatz 2 und 3
 gilt entsprechend.
 
-(4) Der Beschluss unterliegt der Beschwerde. § 61 des Gesetzes über
-das Verfahren in Familiensachen und in den Angelegenheiten der
+(4) Der Beschluss unterliegt der Beschwerde. § 61 des Gesetzes
+über das Verfahren in Familiensachen und in den Angelegenheiten der
 freiwilligen Gerichtsbarkeit ist nicht anzuwenden. Die Beschwerde ist
 binnen einer Frist von zwei Wochen nach schriftlicher Bekanntgabe des
 Beschlusses an den Schuldner einzulegen. Die Entscheidung über die
@@ -579,14 +549,14 @@ Feststellung der Anerkennung geltend machen, so ist § 24 Absatz 1 bis
 #### § 26 Schadensersatzpflicht des Gläubigers
 
 (1) Wird die Zulassung zur Zwangsvollstreckung auf Grund der
-Beschwerde (§ 11) oder der Rechtsbeschwerde (§ 13) aufgehoben oder
+Beschwerde (§ 11) oder der Rechtsbeschwerde (§ 13) aufgehoben oder
 abgeändert, so ist der Gläubiger zum Ersatz des Schadens verpflichtet,
 der dem Schuldner durch die Vollstreckung oder durch eine Leistung zur
 Abwendung der Vollstreckung entstanden ist. Das Gleiche gilt, wenn die
 Zulassung zur Zwangsvollstreckung nach § 24 aufgehoben oder abgeändert
 wird, soweit die zur Zwangsvollstreckung zugelassene Entscheidung zum
-Zeitpunkt der Zulassung nach dem Recht des Mitgliedstaates, in dem sie
-ergangen ist, noch mit einem ordentlichen Rechtsmittel angefochten
+Zeitpunkt der Zulassung nach dem Recht des Mitgliedstaates, in dem
+sie ergangen ist, noch mit einem ordentlichen Rechtsmittel angefochten
 werden konnte.
 
 (2) Für die Entscheidung über den Anspruch auf Schadensersatz ist das
@@ -599,10 +569,10 @@ Antrag auf Zulassung zur Zwangsvollstreckung entschieden hat.
 
 #### § 27 Bescheinigungen zu inländischen Titeln
 
-(1) Für die Ausstellung der Bescheinigungen nach Artikel 45 Absatz 3
-Buchstabe b, Artikel 59 Absatz 2 und Artikel 60 Absatz 2 der
-Verordnung (EU) 2016/1103 sowie nach Artikel 45 Absatz 3 Buchstabe b,
-Artikel 59 Absatz 2 und Artikel 60 Absatz 2 der Verordnung (EU)
+(1) Für die Ausstellung der Bescheinigungen nach Artikel 45 Absatz
+3 Buchstabe b, Artikel 59 Absatz 2 und Artikel 60 Absatz 2 der
+Verordnung (EU) 2016/1103 sowie nach Artikel 45 Absatz 3 Buchstabe
+b, Artikel 59 Absatz 2 und Artikel 60 Absatz 2 der Verordnung (EU)
 2016/1104 sind die Gerichte oder Notare zuständig, denen die Erteilung
 einer vollstreckbaren Ausfertigung des Titels obliegt.
 
@@ -610,12 +580,12 @@ einer vollstreckbaren Ausfertigung des Titels obliegt.
 sind, werden diese von dem Gericht des ersten Rechtszuges ausgestellt
 oder, wenn das Verfahren bei einem höheren Gericht anhängig ist, von
 diesem. Für die Anfechtbarkeit der Entscheidung über die Ausstellung
-der Bescheinigung gelten die Vorschriften über die Anfechtbarkeit der
-Entscheidung über die Erteilung der Vollstreckungsklausel
+der Bescheinigung gelten die Vorschriften über die Anfechtbarkeit
+der Entscheidung über die Erteilung der Vollstreckungsklausel
 entsprechend.
 
-(3) Die Ausstellung einer Bescheinigung schließt das Recht auf
-Erteilung einer Vollstreckungsklausel nach § 724 der
+(3) Die Ausstellung einer Bescheinigung schließt das Recht
+auf Erteilung einer Vollstreckungsklausel nach § 724 der
 Zivilprozessordnung nicht aus.
 
 
@@ -650,16 +620,16 @@ einem anderen Mitgliedstaat geltend gemacht werden sollen.
 
 Vollstreckungsbescheide, Arrestbefehle oder einstweilige Anordnungen,
 deren Zwangsvollstreckung in einem anderen Mitgliedstaat betrieben
-werden soll, sind auch dann mit der Vollstreckungsklausel zu versehen,
-wenn dies für eine Zwangsvollstreckung im Inland nach § 796 Absatz 1
-der Zivilprozessordnung in Verbindung mit § 113 Absatz 2 des Gesetzes
+werden soll, sind auch dann mit der Vollstreckungsklausel zu
+versehen, wenn dies für eine Zwangsvollstreckung im Inland nach §
+796 Absatz 1 der Zivilprozessordnung in Verbindung mit § 113 Absatz
+2 des Gesetzes über das Verfahren in Familiensachen und in den
+Angelegenheiten der freiwilligen Gerichtsbarkeit, nach § 929 Absatz 1
+der Zivilprozessordnung in Verbindung mit § 119 Absatz 2 des Gesetzes
 über das Verfahren in Familiensachen und in den Angelegenheiten der
-freiwilligen Gerichtsbarkeit, nach § 929 Absatz 1 der
-Zivilprozessordnung in Verbindung mit § 119 Absatz 2 des Gesetzes über
-das Verfahren in Familiensachen und in den Angelegenheiten der
-freiwilligen Gerichtsbarkeit oder nach § 53 Absatz 1 in Verbindung mit
-§ 119 Absatz 1 des Gesetzes über das Verfahren in Familiensachen und
-in den Angelegenheiten der freiwilligen Gerichtsbarkeit nicht
+freiwilligen Gerichtsbarkeit oder nach § 53 Absatz 1 in Verbindung
+mit § 119 Absatz 1 des Gesetzes über das Verfahren in Familiensachen
+und in den Angelegenheiten der freiwilligen Gerichtsbarkeit nicht
 erforderlich wäre.
 
 
@@ -685,9 +655,9 @@ Zivilprozessordnung) beträgt einen Monat.
 
 (1) Über Einwände nach Artikel 58 Absatz 2 der Verordnung (EU)
 2016/1103 oder Artikel 58 Absatz 2 der Verordnung (EU) 2016/1104 gegen
-die Authentizität einer deutschen öffentlichen Urkunde entscheidet bei
-gerichtlichen Urkunden das Gericht, das die Urkunde errichtet hat. Bei
-notariellen Urkunden entscheidet das für den Amtssitz des Notars
+die Authentizität einer deutschen öffentlichen Urkunde entscheidet
+bei gerichtlichen Urkunden das Gericht, das die Urkunde errichtet hat.
+Bei notariellen Urkunden entscheidet das für den Amtssitz des Notars
 zuständige Amtsgericht. Bei einer von einem Konsularbeamten im Ausland
 errichteten Urkunde entscheidet das Amtsgericht Schöneberg in Berlin.
 Im Übrigen entscheidet das Amtsgericht, in dessen Bezirk die Urkunde
@@ -699,8 +669,8 @@ ist ausgeschlossen. Der Beschluss wirkt für und gegen jedermann.
 
 ### § 32 Aussetzung des inländischen Verfahrens
 
-Wird in einem anderen Mitgliedstaat ein Verfahren über Einwände gegen
-die Authentizität einer dort errichteten öffentlichen Urkunde
+Wird in einem anderen Mitgliedstaat ein Verfahren über Einwände
+gegen die Authentizität einer dort errichteten öffentlichen Urkunde
 eröffnet, so kann das inländische Verfahren zur Anerkennung oder
 Vollstreckbarerklärung dieser Urkunde auf Antrag eines Beteiligten bis
 zur Entscheidung des ausländischen Verfahrens ausgesetzt werden, wenn

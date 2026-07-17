@@ -1,6 +1,5 @@
 ---
-Title: Satzung der DSL Bank AG (Anhang des Gesetzes über die Umwandlung der Deutschen
-  Siedlungs- und Landesrentenbank in eine Aktiengesellschaft)
+Title: Satzung der DSL Bank AG (Anhang des Gesetzes über die Umwandlung der Deutschen Siedlungs- und Landesrentenbank in eine Aktiengesellschaft)
 jurabk: DSLBSa
 layout: default
 origslug: dslbsa
@@ -17,9 +16,7 @@ Fundstelle
 :   BGBl I: 1999, 2441, 2444
 
 
-
 ## I. - Allgemeine Bestimmungen
-
 
 
 ### § 1 Firma, Sitz und Geschäftsjahr
@@ -36,8 +33,8 @@ führt die Firma DSL Bank Aktiengesellschaft.
 
 (1) Die Gesellschaft ist ein Kreditinstitut im Sinne des § 1 Abs. 1
 Satz 1 des Gesetzes über das Kreditwesen mit dem Recht zur Ausgabe
-gedeckter Schuldverschreibungen. Gegenstand des Unternehmens ist der
-Betrieb von Bankgeschäften aller Art sowie damit in Zusammenhang
+gedeckter Schuldverschreibungen. Gegenstand des Unternehmens ist
+der Betrieb von Bankgeschäften aller Art sowie damit in Zusammenhang
 stehende Tätigkeiten.
 
 (2) Die Gesellschaft ist zu allen sonstigen Geschäften und Maßnahmen
@@ -55,7 +52,6 @@ Die Bekanntmachungen der Gesellschaft erfolgen im Bundesanzeiger.
 ## II. - Grundkapital und Aktien
 
 
-
 ### § 4 Höhe und Einteilung des Grundkapitals
 
 (1) Das Grundkapital der Gesellschaft beträgt 113.750.000,00 Deutsche
@@ -64,15 +60,14 @@ auf den Inhaber.
 
 (2) Der Anspruch auf Verbriefung der Aktien ist ausgeschlossen.
 
-(3) Die Gesellschaft ist berechtigt, Aktienurkunden auszustellen. Über
-mehrere Aktien eines Aktionärs kann eine Urkunde ausgestellt werden.
-Die Form der Aktienurkunden und der Gewinnanteil- und
+(3) Die Gesellschaft ist berechtigt, Aktienurkunden auszustellen.
+Über mehrere Aktien eines Aktionärs kann eine Urkunde ausgestellt
+werden. Die Form der Aktienurkunden und der Gewinnanteil- und
 Erneuerungsscheine bestimmt der Vorstand. Das Gleiche gilt für sonst
 von der Gesellschaft ausgegebene Wertpapiere.
 
 
 ## III. - Der Vorstand
-
 
 
 ### § 5 Zusammensetzung
@@ -90,8 +85,8 @@ bestellen.
 
 ### § 6 Vertretung der Gesellschaft
 
-Die Gesellschaft wird durch zwei Vorstandsmitglieder oder durch ein
-Vorstandsmitglied gemeinsam mit einem Prokuristen gesetzlich
+Die Gesellschaft wird durch zwei Vorstandsmitglieder oder durch
+ein Vorstandsmitglied gemeinsam mit einem Prokuristen gesetzlich
 vertreten. Stellvertretende Vorstandsmitglieder vertreten die
 Gesellschaft nach außen wie ordentliche Vorstandsmitglieder.
 
@@ -122,7 +117,6 @@ erteilen.
 ## IV. - Aufsichtsrat
 
 
-
 ### § 9 Zusammensetzung, Amtsdauer, Amtsniederlegung
 
 (1) Der Aufsichtsrat besteht aus zwanzig Mitgliedern. Davon werden
@@ -133,27 +127,27 @@ der Hauptversammlung gewählt.
 (2) Die Bestellung der Aufsichtsratsmitglieder erfolgt für die Zeit
 bis zur Beendigung der Hauptversammlung, die über die Entlastung des
 Aufsichtsrats für das vierte Geschäftsjahr nach Beginn der Amtszeit
-beschließt. Das Geschäftsjahr, in dem die Amtszeit beginnt, wird nicht
-mitgerechnet. Die Hauptversammlung kann für die Mitglieder der
+beschließt. Das Geschäftsjahr, in dem die Amtszeit beginnt, wird
+nicht mitgerechnet. Die Hauptversammlung kann für die Mitglieder der
 Aktionäre bei der Wahl eine kürzere Amtszeit bestimmen. Die Bestellung
 eines Nachfolgers eines vor Ablauf seiner Amtszeit ausgeschiedenen
 Mitglieds der Aktionäre erfolgt, soweit die Hauptversammlung die
 Amtszeit des Nachfolgers nicht abweichend bestimmt, für den Rest der
 Amtszeit des ausgeschiedenen Mitglieds.
 
-(3) Gleichzeitig mit der Bestellung eines Aufsichtsratsmitglieds kann
-ein Ersatzmitglied bestellt werden. Das Ersatzmitglied wird Mitglied
-des Aufsichtsrats, wenn das jeweilige Aufsichtsratsmitglied als dessen
-Ersatzmitglied es gewählt ist, vor Ablauf seiner Amtszeit ausscheidet,
-ohne dass ein Nachfolger bestellt ist. Das Amt eines in den
-Aufsichtsrat nachgerückten Ersatzmitglieds der Aktionäre erlischt,
+(3) Gleichzeitig mit der Bestellung eines Aufsichtsratsmitglieds
+kann ein Ersatzmitglied bestellt werden. Das Ersatzmitglied wird
+Mitglied des Aufsichtsrats, wenn das jeweilige Aufsichtsratsmitglied
+als dessen Ersatzmitglied es gewählt ist, vor Ablauf seiner Amtszeit
+ausscheidet, ohne dass ein Nachfolger bestellt ist. Das Amt eines in
+den Aufsichtsrat nachgerückten Ersatzmitglieds der Aktionäre erlischt,
 sobald ein Nachfolger für das ausgeschiedene Aufsichtsratsmitglied
 bestellt ist, spätestens mit Ablauf der Amtszeit des ausgeschiedenen
 Aufsichtsratsmitglieds.
 
 (4) Die Mitglieder und die Ersatzmitglieder des Aufsichtsrats können
-ihr Amt unter Einhaltung einer Frist von vier Wochen niederlegen. Die
-Niederlegung muss durch schriftliche Erklärung gegenüber dem
+ihr Amt unter Einhaltung einer Frist von vier Wochen niederlegen.
+Die Niederlegung muss durch schriftliche Erklärung gegenüber dem
 Vorsitzenden des Aufsichtsrats oder dem Vorstand erfolgen. Die
 Möglichkeit zur Amtsniederlegung mit sofortiger Wirkung bei Vorliegen
 eines wichtigen Grundes bleibt unberührt.
@@ -165,8 +159,8 @@ Hauptversammlungsbeschluss abberufen werden.
 
 ### § 10 Vorsitzender und Stellvertreter
 
-(1) Der Aufsichtsrat wählt aus seiner Mitte einen Vorsitzenden und
-einen Stellvertreter. Die Wahl erfolgt im Anschluss an die
+(1) Der Aufsichtsrat wählt aus seiner Mitte einen Vorsitzenden
+und einen Stellvertreter. Die Wahl erfolgt im Anschluss an die
 Hauptversammlung, in der die von der Hauptversammlung zu wählenden
 Aufsichtsratsmitglieder der Aktionäre bestellt worden sind, in einer
 ohne besondere Einberufung stattfindenden Sitzung.
@@ -192,8 +186,8 @@ einmal im Kalenderhalbjahr einberufen werden.
 Fall seiner Verhinderung von seinem Stellvertreter unter Einhaltung
 einer Frist von zwei Wochen einberufen. Bei der Berechnung der Frist
 werden der Tag der Absendung der Einladung und der Tag der Sitzung
-nicht mitgerechnet. In dringenden Fällen kann der Einberufende die
-Einberufungsfrist abkürzen und mündlich, fernmündlich,
+nicht mitgerechnet. In dringenden Fällen kann der Einberufende
+die Einberufungsfrist abkürzen und mündlich, fernmündlich,
 fernschriftlich, telegrafisch oder durch Telefax einberufen.
 
 (3) Mit der Einberufung sind Ort und Zeit der Sitzung sowie die
@@ -221,16 +215,16 @@ schriftlich festgehalten und allen Mitgliedern zugeleitet.
 (2) Der Aufsichtsrat ist beschlussfähig, wenn mindestens die Hälfte
 der Mitglieder, aus denen er insgesamt zu bestehen hat, persönlich
 oder durch schriftliche Stimmabgabe (§ 108 Abs. 3 des Aktiengesetzes)
-an der Beschlussfassung teilnimmt. Ein Mitglied nimmt auch dann an der
-Beschlussfassung teil, wenn es sich in der Abstimmung der Stimme
+an der Beschlussfassung teilnimmt. Ein Mitglied nimmt auch dann an
+der Beschlussfassung teil, wenn es sich in der Abstimmung der Stimme
 enthält.
 
 (3) Der Vorsitzende bestimmt die Reihenfolge, in der die Punkte der
 Tagesordnung verhandelt werden, sowie die Art und die Reihenfolge der
 Abstimmungen. Zu Gegenständen der Tagesordnung, die nicht rechtzeitig
-mitgeteilt worden sind, kann nur Beschluss gefasst werden, wenn kein
-Mitglied dem Verfahren widerspricht. Abwesenden Mitgliedern ist in
-einem solchen Fall innerhalb einer vom Vorsitzenden bestimmten
+mitgeteilt worden sind, kann nur Beschluss gefasst werden, wenn
+kein Mitglied dem Verfahren widerspricht. Abwesenden Mitgliedern ist
+in einem solchen Fall innerhalb einer vom Vorsitzenden bestimmten
 angemessen Frist Gelegenheit zu geben, der Beschlussfassung zu
 widersprechen oder nachträglich ihre Stimme abzugeben. Der Beschluss
 wird erst wirksam, wenn kein abwesendes Mitglied innerhalb der Frist
@@ -238,8 +232,8 @@ widersprochen hat.
 
 (4) Beschlüsse des Aufsichtsrats bedürfen der Mehrheit der abgegebenen
 Stimmen, soweit nicht gesetzlich eine andere Mehrheit zwingend
-vorgeschrieben ist. Ergibt eine Abstimmung Stimmengleichheit, so ist
-auf Antrag von mindestens zwei anwesenden Mitgliedern des
+vorgeschrieben ist. Ergibt eine Abstimmung Stimmengleichheit,
+so ist auf Antrag von mindestens zwei anwesenden Mitgliedern des
 Aufsichtsrats der Beschlussgegenstand erneut zu beraten. Bei einer
 erneuten Abstimmung über den selben Gegenstand hat, wenn auch sie
 Stimmengleichheit ergibt, der Vorsitzende zwei Stimmen. Auch die
@@ -291,12 +285,12 @@ Tätigkeit im Aufsichtsrat bekannt werden, Stillschweigen zu bewahren.
 
 ### § 16 Vergütungen
 
-(1) Die Mitglieder des Aufsichtsrats erhalten neben dem Ersatz ihrer
-Auslagen eine feste, nach Ablauf des Geschäftsjahres zahlbare
-jährliche Vergütung, deren  Höhe die Hauptversammlung festsetzt. Der
-Vorsitzende des Aufsichtsrats erhält das Doppelte, ein
-stellvertretender Vorsitzender das Eineinhalbfache dieses Betrages.
-Aufsichtsratsmitglieder, die nur während eines Teils des
+(1) Die Mitglieder des Aufsichtsrats erhalten neben dem Ersatz
+ihrer Auslagen eine feste, nach Ablauf des Geschäftsjahres
+zahlbare jährliche Vergütung, deren Höhe die Hauptversammlung
+festsetzt. Der Vorsitzende des Aufsichtsrats erhält das Doppelte,
+ein stellvertretender Vorsitzender das Eineinhalbfache dieses
+Betrages. Aufsichtsratsmitglieder, die nur während eines Teils des
 Geschäftsjahres dem Aufsichtsrat angehört haben, erhalten eine im
 Verhältnis der Zeit geringere Vergütung.
 
@@ -307,11 +301,10 @@ von der Gesellschaft erstattet.
 ## V. - Hauptversammlung
 
 
-
 ### § 17 Ort der Einberufung
 
-(1) Die Hauptversammlung findet am Sitz der Gesellschaft oder in einer
-anderen Stadt der Bundesrepublik Deutschland statt, deren
+(1) Die Hauptversammlung findet am Sitz der Gesellschaft oder in
+einer anderen Stadt der Bundesrepublik Deutschland statt, deren
 Einwohnerzahl 100.000 übersteigt.
 
 (2) Die Einberufung muss mindestens einen Monat vor dem letzten
@@ -325,8 +318,8 @@ Hinterlegungstag nicht mitgerechnet.
 (1) Zur Teilnahme an der Hauptversammlung und zur Ausübung des
 Stimmrechts in der Hauptversammlung sind diejenigen Aktionäre
 berechtigt, die ihre Aktien bei der Gesellschaftskasse, bei einem
-deutschen Notar, bei einer Wertpapiersammelbank oder bei den sonst in
-der Einberufung bezeichneten Stellen während der Geschäftsstunden
+deutschen Notar, bei einer Wertpapiersammelbank oder bei den sonst
+in der Einberufung bezeichneten Stellen während der Geschäftsstunden
 hinterlegen und bis zur Beendigung der Hauptversammlung dort belassen.
 Die Hinterlegung gilt auch dann als bei einer der benannten Stellen
 bewirkt, wenn Aktien mit Zustimmung einer Hinterlegungsstelle für
@@ -334,8 +327,8 @@ diese bei einem Kreditinstitut bis zur Beendigung der Hauptversammlung
 im Sperrdepot gehalten werden.
 
 (2) Die Hinterlegung muss spätestens am siebten Tage vor der
-Versammlung erfolgen. Fällt der letzte Tag der Hinterlegungsfrist auf
-einen Sonntag, einen Sonnabend oder einen am Hinterlegungsort
+Versammlung erfolgen. Fällt der letzte Tag der Hinterlegungsfrist
+auf einen Sonntag, einen Sonnabend oder einen am Hinterlegungsort
 staatlich anerkannten allgemeinen Feiertag, so hat die Hinterlegung
 spätestens am vorherigen Werktag zu erfolgen.
 
@@ -358,8 +351,8 @@ Beschlussfassung vertretenen Grundkapitals gefasst.
 
 ### § 20 Vorsitz in der Hauptversammlung
 
-(1) Den Vorsitz in der Hauptversammlung führt der Vorsitzende des
-Aufsichtsrats oder ein von ihm bestimmtes anderes
+(1) Den Vorsitz in der Hauptversammlung führt der Vorsitzende
+des Aufsichtsrats oder ein von ihm bestimmtes anderes
 Aufsichtsratsmitglied aus dem Kreis der von den Aktionären gewählten
 Mitglieder. In dem Fall, dass weder der Vorsitzende des Aufsichtsrats
 noch ein von ihm bestimmtes Mitglied des Aufsichtsrats den Vorsitz
@@ -375,14 +368,13 @@ werden, sowie die Art und Reihenfolge der Abstimmungen.
 ## VI. - Beirat
 
 
-
 ### § 21 Einrichtung, Zusammensetzung, Amtsperiode
 
 (1) Auf Beschluss des Vorstands kann ein Beirat gebildet werden.
 
-(2) Der Beirat besteht aus höchstens fünfzehn Mitgliedern, die durch
-Beschluss des Vorstands ernannt und abberufen werden. Die Mitglieder
-des Beirats wählen einen Vorsitzenden für die Dauer seiner
+(2) Der Beirat besteht aus höchstens fünfzehn Mitgliedern, die
+durch Beschluss des Vorstands ernannt und abberufen werden. Die
+Mitglieder des Beirats wählen einen Vorsitzenden für die Dauer seiner
 Zugehörigkeit zum Beirat.
 
 (3) Die Ernennung zum Mitglied des Beirats erfolgt für jeweils drei
@@ -393,8 +385,8 @@ Jahre. Wiederholte Ernennungen sind möglich.
 
 (1) Aufgabe des Beirats ist die Beratung des Vorstands.
 
-(2) Jedes Beiratsmitglied hat in den Beiratssitzungen eine Stimme. Der
-Beirat fasst seine Beschlüsse mit einfacher Mehrheit seiner
+(2) Jedes Beiratsmitglied hat in den Beiratssitzungen eine Stimme.
+Der Beirat fasst seine Beschlüsse mit einfacher Mehrheit seiner
 Mitglieder. Der Beirat tritt mindestens zweimal im Jahr zu einer
 Sitzung zusammen.
 
@@ -413,7 +405,6 @@ das jeweils vorangegangene Geschäftsjahr.
 ## VII. - Jahresabschluß und Gewinnverwendung
 
 
-
 ### § 23 Jahresabschluss und ordentliche Hauptversammlung
 
 (1) Der Vorstand hat in den ersten drei Monaten des Geschäftsjahres
@@ -423,14 +414,14 @@ aufzustellen. Nach der Aufstellung sind der Jahresabschluss, der
 Lagebericht und der Vorschlag für die Verwendung des Bilanzgewinns
 unverzüglich dem Aufsichtsrat zur Prüfung vorzulegen.
 
-(2) Der Aufsichtsrat hat den Jahresabschluss, den Lagebericht und den
-Vorschlag für die Verwendung des Bilanzgewinns zu prüfen und über das
-Ergebnis seiner Prüfung schriftlich an die Hauptversammlung zu
-berichten. Er hat seinen Bericht innerhalb eines Monats, nachdem ihm
-die Vorlagen zugegangen sind, dem Vorstand zuzuleiten. Billigt der
-Aufsichtsrat nach Prüfung den Jahresabschluss, ist dieser
-festgestellt; billigt er ihn nicht, muss der Jahresabschluss durch die
-Hauptversammlung festgestellt werden. Der Jahresabschluss ist
+(2) Der Aufsichtsrat hat den Jahresabschluss, den Lagebericht und
+den Vorschlag für die Verwendung des Bilanzgewinns zu prüfen und
+über das Ergebnis seiner Prüfung schriftlich an die Hauptversammlung
+zu berichten. Er hat seinen Bericht innerhalb eines Monats, nachdem
+ihm die Vorlagen zugegangen sind, dem Vorstand zuzuleiten. Billigt
+der Aufsichtsrat nach Prüfung den Jahresabschluss, ist dieser
+festgestellt; billigt er ihn nicht, muss der Jahresabschluss durch
+die Hauptversammlung festgestellt werden. Der Jahresabschluss ist
 unverzüglich festzustellen.
 
 (3) Der Vorstand hat nach Eingang des Berichts des Aufsichtsrats
@@ -444,9 +435,9 @@ Verwendung des Bilanzgewinns.
 ### § 24 Gewinnverwendung
 
 (1) Vorstand und Aufsichtsrat sind ermächtigt, bei der Feststellung
-des Jahresabschlusses Beträge bis zur Hälfte des Jahresüberschusses in
-andere Gewinnrücklagen einzustellen. Sie sind darüber hinaus
-ermächtigt, weitere Beträge bis zu einem Viertel des
+des Jahresabschlusses Beträge bis zur Hälfte des Jahresüberschusses
+in andere Gewinnrücklagen einzustellen. Sie sind darüber
+hinaus ermächtigt, weitere Beträge bis zu einem Viertel des
 Jahresüberschusses in andere Gewinnrücklagen einzustellen, solange die
 anderen Gewinnrücklagen die Hälfte des Grundkapitals nicht übersteigen
 oder insoweit sie nach der Einstellung die Hälfte des Grundkapitals

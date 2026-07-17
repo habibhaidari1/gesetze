@@ -1,6 +1,5 @@
 ---
-Title: Gesetz zur Änderung des Beamtenversorgungsgesetzes, des Soldatenversorgungsgesetzes
-  sowie sonstiger versorgungsrechtlicher Vorschriften
+Title: Gesetz zur Änderung des Beamtenversorgungsgesetzes, des Soldatenversorgungsgesetzes sowie sonstiger versorgungsrechtlicher Vorschriften
 jurabk: BeamtVGÄndG 1993
 layout: default
 origslug: beamtvg_ndg_1993
@@ -15,7 +14,6 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 1994, 2442
-
 
 
 ## Eingangsformel
@@ -61,27 +59,27 @@ an geltenden Fassung im Bundesgesetzblatt bekanntmachen.
 ## Art 10 Ausgleichsregelung
 
 Auf die Verbesserung der Mindestversorgung, die sich aus der Anhebung
-des Erhöhungsbetrages auf sechzig Deutsche Mark nach § 14 Abs. 4 Satz
-3 des Beamtenversorgungsgesetzes durch Artikel 9 Nr. 3 des
-Bundesbesoldungs- und -versorgungsanpassungsgesetzes 1992 vom 23. März
-1993 (BGBl. I S. 342) ergibt, ist Artikel 2 § 2 Abs. 1 Satz 4 des 2.
-Haushaltsstrukturgesetzes nicht anzuwenden. Entsprechendes gilt für
-Artikel 3 § 3 Abs. 2 Satz 4 des 2. Haushaltsstrukturgesetzes im
-Hinblick auf die Verbesserung der Mindestversorgung nach § 26 Abs. 7
-Satz 3 des Soldatenversorgungsgesetzes durch Artikel 10 Nr. 2 des
+des Erhöhungsbetrages auf sechzig Deutsche Mark nach § 14 Abs. 4
+Satz 3 des Beamtenversorgungsgesetzes durch Artikel 9 Nr. 3 des
+Bundesbesoldungs- und -versorgungsanpassungsgesetzes 1992 vom 23.
+März 1993 (BGBl. I S. 342) ergibt, ist Artikel 2 § 2 Abs. 1 Satz 4
+des 2. Haushaltsstrukturgesetzes nicht anzuwenden. Entsprechendes gilt
+für Artikel 3 § 3 Abs. 2 Satz 4 des 2. Haushaltsstrukturgesetzes im
+Hinblick auf die Verbesserung der Mindestversorgung nach § 26 Abs.
+7 Satz 3 des Soldatenversorgungsgesetzes durch Artikel 10 Nr. 2 des
 Gesetzes vom 23. März 1993.
 
 
 ## Art 11 Übergangsregelung
 
-Artikel 1 Nr. 3, 7, 9, 10 Buchstabe b, Nr. 16 Buchstabe a, Nr. 17 und
-24 sowie Artikel 2 Nr. 6 Buchstabe b, Nr. 9, 11, 12 Buchstabe b, Nr.
-18 Buchstabe a, Nr. 19 und 38 dieses Gesetzes finden auf die
-Rechtsverhältnisse der im Zeitpunkt des Inkrafttretens dieser
-Vorschriften vorhandenen Versorgungsempfänger keine Anwendung. Satz 1
-gilt entsprechend für die Hinterbliebenen eines nach Inkrafttreten
-dieses Gesetzes verstorbenen Versorgungsempfängers. Die Vorschriften
-der Beamtenversorgungs-Übergangsverordnung und der
+Artikel 1 Nr. 3, 7, 9, 10 Buchstabe b, Nr. 16 Buchstabe a, Nr. 17
+und 24 sowie Artikel 2 Nr. 6 Buchstabe b, Nr. 9, 11, 12 Buchstabe
+b, Nr. 18 Buchstabe a, Nr. 19 und 38 dieses Gesetzes finden auf
+die Rechtsverhältnisse der im Zeitpunkt des Inkrafttretens dieser
+Vorschriften vorhandenen Versorgungsempfänger keine Anwendung.
+Satz 1 gilt entsprechend für die Hinterbliebenen eines nach
+Inkrafttreten dieses Gesetzes verstorbenen Versorgungsempfängers.
+Die Vorschriften der Beamtenversorgungs-Übergangsverordnung und der
 Soldatenversorgungs-Übergangsverordnung bleiben unberührt.
 
 
@@ -95,8 +93,6 @@ folgenden Kalendermonats in Kraft.
 2\.
 
 3.  mit Wirkung vom 1. Mai 1992 Artikel 10,
-
-
 
 4\.
 5\.

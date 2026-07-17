@@ -24,8 +24,8 @@ Fundstelle
 ## § 2 Folgen der Aufhebung
 
 (1) Die Rechtsvorschriften im Sinn des § 1 bleiben bis zum Erlass
-landesrechtlicher Regelungen auch für die Zukunft auf Tatbestände und
-Rechtsverhältnisse anwendbar, die während der Geltung der
+landesrechtlicher Regelungen auch für die Zukunft auf Tatbestände
+und Rechtsverhältnisse anwendbar, die während der Geltung der
 Rechtsvorschriften erfüllt waren oder entstanden sind. Insbesondere
 bleiben die auf Grund des Fideikommissrechts begründeten Rechte und
 Pflichten von der Aufhebung unberührt. Durch die Aufhebung werden

@@ -1,7 +1,5 @@
 ---
-Title: Zweihundertfünfunddreißigste Durchführungsverordnung zur Luftverkehrs-Ordnung
-  (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum
-  und vom Flughafen Nürnberg)
+Title: Zweihundertfünfunddreißigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Flughafen Nürnberg)
 jurabk: LuftVODV 235
 layout: default
 origslug: luftvodv_235
@@ -16,4 +14,7 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BAnz: 2008, Nr 51, 1195
+
+Fundstelle
+:   BAnz: 2008, 1195
 

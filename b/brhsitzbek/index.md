@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl I: 1999, 1915
 
 
-
 ## (XXXX)
 
 Mit Wirkung vom 1. Juli 2000 wird der Sitz des Bundesrechnungshofes

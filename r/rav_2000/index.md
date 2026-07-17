@@ -16,7 +16,6 @@ Fundstelle
 :   BGBl I: 2000, 788
 
 
-
 ## Eingangsformel
 
 Auf Grund
@@ -25,11 +24,9 @@ Auf Grund
     Rentenversicherung - (Artikel 1 des Gesetzes vom 18. Dezember 1989,
     BGBl. I S. 2261),
 
-
 -   des § 255b Abs. 1 des Sechsten Buches Sozialgesetzbuch, zuletzt
     geändert durch Artikel 1 Nr. 6 des Gesetzes vom 2. Mai 1996 (BGBl. I
     S. 659),
-
 
 -   des § 44 Abs. 2 Satz 2 und Abs. 4 des Siebten Buches Sozialgesetzbuch
     - Gesetzliche Unfallversicherung - (Artikel 1 des Gesetzes vom 7.
@@ -37,30 +34,24 @@ Auf Grund
     Sozialgesetzbuch, zuletzt geändert durch Artikel 23 des Gesetzes vom
     22\. Dezember 1999 (BGBl. I S. 2534),
 
-
--   des § 215 Abs. 5 des Siebten Buches Sozialgesetzbuch, zuletzt geändert
-    durch Artikel 23 des Gesetzes vom 22. Dezember 1999 (BGBl. I S. 2534)
-    in Verbindung mit § 1151 Abs. 1 und § 1153 der
+-   des § 215 Abs. 5 des Siebten Buches Sozialgesetzbuch, zuletzt
+    geändert durch Artikel 23 des Gesetzes vom 22. Dezember 1999
+    (BGBl. I S. 2534) in Verbindung mit § 1151 Abs. 1 und § 1153 der
     Reichsversicherungsordnung, die durch Artikel 8 Nr. 14 des Gesetzes
     vom 25. Juli 1991 (BGBl. I S. 1606) eingefügt worden sind,
 
-
--   der §§ 26 und 105 in Verbindung mit § 102 Abs. 4 des Gesetzes über die
-    Alterssicherung der Landwirte vom 29. Juli 1994 (BGBl. I S. 1890,
+-   der §§ 26 und 105 in Verbindung mit § 102 Abs. 4 des Gesetzes über
+    die Alterssicherung der Landwirte vom 29. Juli 1994 (BGBl. I S. 1890,
     1891)
-
-
 
 verordnet die Bundesregierung und auf Grund
 
 -   des § 281b Abs. 1 Satz 1 Nr. 2 des Sechsten Buches Sozialgesetzbuch,
     der zuletzt durch Artikel 1 Nr. 56 Buchstabe a des Gesetzes vom 15.
-    Dezember 1995 (BGBl. I S. 1824) geändert worden ist, in Verbindung mit
-    § 3 Abs. 2 Nr. 1 Buchstabe a des Gesetzes zur Überleitung des
+    Dezember 1995 (BGBl. I S. 1824) geändert worden ist, in Verbindung
+    mit § 3 Abs. 2 Nr. 1 Buchstabe a des Gesetzes zur Überleitung des
     Versorgungsausgleichs auf das Beitrittsgebiet (Artikel 31 des Gesetzes
     vom 25. Juli 1991, BGBl. I S. 1606, 1702)
-
-
 
 verordnet das Bundesministerium für Arbeit und Sozialordnung:
 
@@ -96,13 +87,9 @@ Das Pflegegeld der gesetzlichen Unfallversicherung beträgt vom 1. Juli
     Sozialgesetzbuch anzuwenden ist, zwischen 548 Deutsche Mark und 2.193
     Deutsche Mark monatlich,
 
-
 2.  für Versicherungsfälle, für die § 215 Abs. 5 des Siebten Buches
     Sozialgesetzbuch anzuwenden ist, zwischen 471 Deutsche Mark und 1.882
     Deutsche Mark monatlich.
-
-
-
 
 
 ## § 4 Anpassung des allgemeinen Rentenwerts und des allgemeinen Rentenwerts (Ost) in der Alterssicherung der Landwirte
@@ -116,98 +103,30 @@ Landwirte beträgt vom 1. Juli 2000 an 19,52 Deutsche Mark.
 
 ## § 5 Angleichungsfaktoren für den Versorgungsausgleich in der Rentenversicherung
 
-Bei Entscheidungen über den Versorgungsausgleich, die in der Zeit nach
-dem 30. Juni 2000 ergehen, sind die Angleichungsfaktoren zur
-Ermittlung des Wertes von angleichungsdynamischen Anrechten nach § 3
-Abs. 2 Nr. 1 Buchstabe a des Versorgungsausgleichs-
+Bei Entscheidungen über den Versorgungsausgleich, die in der Zeit
+nach dem 30. Juni 2000 ergehen, sind die Angleichungsfaktoren
+zur Ermittlung des Wertes von angleichungsdynamischen Anrechten
+nach § 3 Abs. 2 Nr. 1 Buchstabe a des Versorgungsausgleichs-
 Überleitungsgesetzes der nachstehenden Tabelle zu entnehmen:
 
-*    *   Der Angleichungsfaktor beträgt
-
-    *   bei einem Ehezeitende in der Zeit
-
-
-*    *   2,1586741
-
-    *   vom 1. Juli 1990 bis 31. Dezember 1990
-
-
-*    *   1,8763407
-
-    *   vom 1. Januar 1991 bis 30. Juni 1991
-
-
-*    *   1,7076682
-
-    *   vom 1. Juli 1991 bis 31. Dezember 1991
-
-
-*    *   1,5294390
-
-    *   vom 1. Januar 1992 bis 30. Juni 1992
-
-
-*    *   1,3957118
-
-    *   vom 1. Juli 1992 bis 31. Dezember 1992
-
-
-*    *   1,3155042
-
-    *   vom 1. Januar 1993 bis 30. Juni 1993
-
-
-*    *   1,2030490
-
-    *   vom 1. Juli 1993 bis 31. Dezember 1993
-
-
-*    *   1,1608305
-
-    *   vom 1. Januar 1994 bis 30. Juni 1994
-
-
-*    *   1,1602100
-
-    *   vom 1. Juli 1994 bis 31. Dezember 1994
-
-
-*    *   1,1287911
-
-    *   vom 1. Januar 1995 bis 30. Juni 1995
-
-
-*    *   1,1069563
-
-    *   vom 1. Juli 1995 bis 31. Dezember 1995
-
-
-*    *   1,0605412
-
-    *   vom 1. Januar 1996 bis 30. Juni 1996
-
-
-*    *   1,0578030
-
-    *   vom 1. Juli 1996 bis 30. Juni 1997
-
-
-*    *   1,0187190
-
-    *   vom 1. Juli 1997 bis 30. Juni 1998
-
-
-*    *   1,0142155
-
-    *   vom 1. Juli 1998 bis 30. Juni 1999
-
-
-*    *   1,0000000
-
-    *   vom 1. Juli 1999 bis 30. Juni 2000
-
-
-
+| Der Angleichungsfaktor beträgt | bei einem Ehezeitende in der Zeit |
+| --- | --- |
+| 2,1586741 | vom 1. Juli 1990 bis 31. Dezember 1990 |
+| 1,8763407 | vom 1. Januar 1991 bis 30. Juni 1991 |
+| 1,7076682 | vom 1. Juli 1991 bis 31. Dezember 1991 |
+| 1,5294390 | vom 1. Januar 1992 bis 30. Juni 1992 |
+| 1,3957118 | vom 1. Juli 1992 bis 31. Dezember 1992 |
+| 1,3155042 | vom 1. Januar 1993 bis 30. Juni 1993 |
+| 1,2030490 | vom 1. Juli 1993 bis 31. Dezember 1993 |
+| 1,1608305 | vom 1. Januar 1994 bis 30. Juni 1994 |
+| 1,1602100 | vom 1. Juli 1994 bis 31. Dezember 1994 |
+| 1,1287911 | vom 1. Januar 1995 bis 30. Juni 1995 |
+| 1,1069563 | vom 1. Juli 1995 bis 31. Dezember 1995 |
+| 1,0605412 | vom 1. Januar 1996 bis 30. Juni 1996 |
+| 1,0578030 | vom 1. Juli 1996 bis 30. Juni 1997 |
+| 1,0187190 | vom 1. Juli 1997 bis 30. Juni 1998 |
+| 1,0142155 | vom 1. Juli 1998 bis 30. Juni 1999 |
+| 1,0000000 | vom 1. Juli 1999 bis 30. Juni 2000 |
 
 
 ## § 6 Inkrafttreten

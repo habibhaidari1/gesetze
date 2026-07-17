@@ -23,11 +23,11 @@ Zuletzt geändert durch
 
 Im Geschäftsbereich des Bundesministeriums für Ernährung und
 Landwirtschaft (Bundesministerium) wird eine bundesunmittelbare
-rechtsfähige Anstalt des öffentlichen Rechts durch Zusammenlegung der
-Bundesanstalt für landwirtschaftliche Marktordnung und des Bundesamtes
-für Ernährung und Forstwirtschaft errichtet. Die Anstalt trägt die
-Bezeichnung "Bundesanstalt für Landwirtschaft und Ernährung"
-(Bundesanstalt). Sie hat ihren Sitz in Bonn.
+rechtsfähige Anstalt des öffentlichen Rechts durch Zusammenlegung
+der Bundesanstalt für landwirtschaftliche Marktordnung und des
+Bundesamtes für Ernährung und Forstwirtschaft errichtet. Die
+Anstalt trägt die Bezeichnung "Bundesanstalt für Landwirtschaft und
+Ernährung" (Bundesanstalt). Sie hat ihren Sitz in Bonn.
 
 
 ## § 2 Aufgaben
@@ -41,29 +41,24 @@ gehören:
     Durchführung der gemeinsamen Marktorganisationen, soweit ihr die
     Zuständigkeit hierfür durch Gesetz oder Verordnung übertragen ist,
 
-
-2.  die Bereitstellung der zur Durchführung von Maßnahmen nach Artikel 3
-    Absatz 1 der Verordnung (EG) Nr. 1290/2005 des Rates vom 21. Juni 2005
-    über die Finanzierung der Gemeinsamen Agrarpolitik (ABl. L 209 vom
-    11\.08.2005, S. 1) in der jeweils geltenden Fassung erforderlichen
+2.  die Bereitstellung der zur Durchführung von Maßnahmen nach Artikel
+    3 Absatz 1 der Verordnung (EG) Nr. 1290/2005 des Rates vom 21. Juni
+    2005 über die Finanzierung der Gemeinsamen Agrarpolitik (ABl. L 209
+    vom 11.08.2005, S. 1) in der jeweils geltenden Fassung erforderlichen
     Finanzmittel im Rahmen des Artikels 14 Absatz 2 der Verordnung (EG)
     Nr. 1290/2005, auch soweit die Bundesanstalt für die Durchführung der
     Maßnahmen nicht zuständig ist,
-
 
 3.  die Wahrnehmung von Aufgaben der Ernährungssicherstellung und
     Ernährungsvorsorge, soweit ihr die Zuständigkeit hierfür durch Gesetz
     oder Verordnung übertragen ist,
 
-
 4.  die Beschaffung, Haltung und Verwertung von Vorräten an
     Ernährungsgütern und Futtermitteln zur Sicherung der Versorgung,
 
-
-5.  im Rahmen ihrer Tätigkeit die Untersuchung, Entwicklung und Erprobung
-    neuer Formen und Wege der Vermarktung zur Verbesserung der
+5.  im Rahmen ihrer Tätigkeit die Untersuchung, Entwicklung und
+    Erprobung neuer Formen und Wege der Vermarktung zur Verbesserung der
     Marktabläufe,
-
 
 6.  das Erteilen von Genehmigungen und die Ausführung sonstiger
     Rechtsvorschriften für den grenzüberschreitenden Waren- und
@@ -71,17 +66,12 @@ gehören:
     Forstwirtschaft, soweit ihr die Zuständigkeit hierfür durch Gesetz
     oder Verordnung übertragen ist,
 
-
 7.  die Durchführung sonstiger durch Gesetz oder Verordnung übertragener
     Aufgaben,
-
 
 8.  die Erledigung von Verwaltungsaufgaben des Bundes, für die keine
     andere Zuständigkeit gesetzlich festgelegt ist und mit deren
     Durchführung sie vom Bundesministerium beauftragt wird.
-
-
-
 
 (2) Bei der Durchführung ihrer kaufmännischen und technischen Aufgaben
 soll sich die Bundesanstalt der Einrichtungen der Wirtschaft bedienen.
@@ -108,47 +98,34 @@ Bundesanstalt gerichtlich und außergerichtlich.
 
 ## § 5 Verwaltungsrat
 
-(1) Der Verwaltungsrat besteht aus bis zu 28 Mitgliedern, und zwar aus
-höchstens
+(1) Der Verwaltungsrat besteht aus bis zu 28 Mitgliedern, und zwar
+aus höchstens
 
 1.  sechs Vertretern der Landwirtschaft einschließlich des Garten- und
     Weinbaus, der Forstwirtschaft sowie der Fischwirtschaft,
 
-
 2.  drei Vertretern der Verbraucher,
-
 
 3.  drei Vertretern des Groß- und Außenhandels,
 
-
 4.  zwei Vertretern des Einzelhandels,
-
 
 5.  zwei Vertretern des Ernährungshandwerks,
 
-
 6.  zwei Vertretern der Ernährungsindustrie,
-
 
 7.  zwei Vertretern der landwirtschaftlichen Genossenschaften,
 
-
 8.  einem Vertreter des Landwarenhandels,
-
 
 9.  einem Vertreter des Bundesministeriums,
 
-
 10. einem Vertreter des Bundesministeriums für Wirtschaft und Energie,
-
 
 11. einem Vertreter des Bundesministeriums der Finanzen,
 
-
 12. vier Vertretern der Obersten Landesbehörden für Ernährung,
     Landwirtschaft und Forsten.
-
-
 
 Die Mitglieder des Verwaltungsrats müssen die Voraussetzungen für die
 Wählbarkeit zum Deutschen Bundestag erfüllen.
@@ -174,20 +151,17 @@ Verwaltungsrat.
 
 1.  berät die Bundesanstalt bei Erfüllung ihrer fachlichen Aufgaben,
     insbesondere kann er im Hinblick auf die künftige Tätigkeit zu dem
-    Geschäftsbericht und dem Rechnungsabschluß Stellung nehmen; er ist vom
-    Präsidenten regelmäßig über die Tätigkeit der Bundesanstalt zu
+    Geschäftsbericht und dem Rechnungsabschluß Stellung nehmen; er ist
+    vom Präsidenten regelmäßig über die Tätigkeit der Bundesanstalt zu
     unterrichten; insoweit steht ihm gegenüber dem Präsidenten ein Recht
     auf Auskunftserteilung und auf Anhörung zu,
-
 
 2.  befindet über die Einsetzung von Fachbeiräten und stimmt deren
     Tätigkeit untereinander ab.
 
-
-
 Er unterbreitet dem Bundesministerium Vorschläge in Angelegenheiten
-aus dem fachlichen Aufgabenbereich der Bundesanstalt und wird vom
-Bundesministerium in allen die Bundesanstalt betreffenden
+aus dem fachlichen Aufgabenbereich der Bundesanstalt und wird
+vom Bundesministerium in allen die Bundesanstalt betreffenden
 grundsätzlichen Fragen, insbesondere bei der Ernennung des Präsidenten
 und des Vizepräsidenten sowie bei einer Änderung der Satzung, gehört.
 Die Sätze 1 und 2 finden keine Anwendung auf die Aufgaben nach § 2
@@ -209,13 +183,13 @@ Genehmigung des Bundesministeriums bedarf.
 Sie setzen sich zusammen aus sachverständigen Vertretern der Erzeuger,
 des Handels, der Verarbeitungsbetriebe und der Verbraucher, die auf
 Vorschlag der jeweiligen Spitzenverbände und, soweit nicht in diesen
-vertreten, auch der Bundesfachverbände vom Verwaltungsrat ernannt und
-abberufen werden. Außerdem gehören den Fachbeiräten Vertreter des
+vertreten, auch der Bundesfachverbände vom Verwaltungsrat ernannt
+und abberufen werden. Außerdem gehören den Fachbeiräten Vertreter des
 Bundesministeriums und der Obersten Landesbehörden an; hinsichtlich
 ihrer Berufung und Abberufung gilt § 5 Abs. 3 entsprechend.
 
-(2) Die Fachbeiräte haben die Aufgabe, die Organe der Bundesanstalt in
-Fragen des jeweiligen Fachbereichs unmittelbar zu beraten. Insoweit
+(2) Die Fachbeiräte haben die Aufgabe, die Organe der Bundesanstalt
+in Fragen des jeweiligen Fachbereichs unmittelbar zu beraten. Insoweit
 steht ihnen gegenüber dem Präsidenten und dem Verwaltungsrat ein Recht
 auf Auskunftserteilung und auf Anhörung zu.
 
@@ -230,30 +204,22 @@ durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
 bedarf, die Satzung der Bundesanstalt zu erlassen. In die Satzung
 sind, soweit erforderlich, insbesondere Bestimmungen aufzunehmen über
 
-1.  die Benennung der vorschlagsberechtigten Spitzenverbände nach § 5 Abs.
-    2, die Tätigkeit des Verwaltungsrats sowie die Zusammensetzung der
-    Fachbeiräte,
-
+1.  die Benennung der vorschlagsberechtigten Spitzenverbände nach § 5
+    Abs. 2, die Tätigkeit des Verwaltungsrats sowie die Zusammensetzung
+    der Fachbeiräte,
 
 2.  die Rechte und Pflichten der Organe der Bundesanstalt und der
     Fachbeiräte,
 
-
 3.  die Übertragung der Zeichnungsbefugnis an Beschäftigte der
     Bundesanstalt,
 
-
 4.  den Aufbau der Bundesanstalt,
-
 
 5.  die Haushaltsführung, Wirtschaftsführung und Rechnungslegung der
     Bundesanstalt,
 
-
 6.  die Kreditaufnahmen nach § 10 Abs. 4 und 5.
-
-
-
 
 (2) Die Bundesanstalt untersteht der Rechts- und Fachaufsicht des
 Bundesministeriums. Das Bundesministerium kann der Bundesanstalt
@@ -283,8 +249,8 @@ genehmigten Verwaltungshaushaltsplanes die durch eigene Einnahmen
 nicht gedeckten Verwaltungsausgaben.
 
 (3) Nach Ende des Haushaltsjahrs ist eine Rechnung über die Einnahmen
-und Ausgaben im Verwaltungsbereich aufzustellen. Die Rechnung ist vom
-Bundesministerium zu prüfen. Das Bundesministerium erteilt die
+und Ausgaben im Verwaltungsbereich aufzustellen. Die Rechnung ist
+vom Bundesministerium zu prüfen. Das Bundesministerium erteilt die
 Entlastung.
 
 
@@ -302,25 +268,21 @@ der Genehmigung des Bundesministeriums
     Europäischen Ausrichtungs- und Garantiefonds für die Landwirtschaft
     und aus dem Bundeshaushalt,
 
-
 2.  für die übrigen Aufgaben aus dem Bundeshaushalt, soweit gesetzlich
     nichts anderes bestimmt ist.
 
-
-
-
 (3) Nach Ende des Haushaltsjahrs sind nach den Richtlinien des
-Bundesministeriums eine Bilanz, eine Gewinn- und Verlustrechnung und
-ein Geschäftsbericht aufzustellen. § 9 Abs. 3 Satz 2 bis 4 ist
+Bundesministeriums eine Bilanz, eine Gewinn- und Verlustrechnung
+und ein Geschäftsbericht aufzustellen. § 9 Abs. 3 Satz 2 bis 4 ist
 anzuwenden.
 
-(4) Die Bundesanstalt wird ermächtigt, zur Finanzierung des Wertes der
-intervenierten und bevorrateten Waren Kredite aufzunehmen, soweit die
-ihr für diesen Zweck zur Selbstbewirtschaftung zugewiesenen Mittel
+(4) Die Bundesanstalt wird ermächtigt, zur Finanzierung des Wertes
+der intervenierten und bevorrateten Waren Kredite aufzunehmen, soweit
+die ihr für diesen Zweck zur Selbstbewirtschaftung zugewiesenen Mittel
 nicht ausreichen.
 
-(5) (5) Zur Erfüllung ihrer Aufgabe nach § 2 Absatz 1 Satz 2 Nummer 2
-erhält die Bundesanstalt Liquiditätshilfen des Bundes, um die
+(5) (5) Zur Erfüllung ihrer Aufgabe nach § 2 Absatz 1 Satz 2 Nummer
+2 erhält die Bundesanstalt Liquiditätshilfen des Bundes, um die
 erforderlichen Ausgaben zu leisten, soweit entsprechende Mittel aus
 dem Haushalt der Europäischen Union noch nicht zur Verfügung gestellt
 sind.
@@ -350,13 +312,12 @@ Bestimmungen anzuwenden.
 ## (XXXX) §§ 13 bis 15 (weggefallen)
 
 
-
 ## § 16 Berichtigung von Bezeichnungen
 
-Das Bundesministerium wird ermächtigt, durch Rechtsverordnung, die
-nicht der Zustimmung des Bundesrates bedarf, in Gesetzen und
-Rechtsverordnungen die Bezeichnungen "Bundesamt für Ernährung und
-Forstwirtschaft" und "Bundesanstalt für landwirtschaftliche
+Das Bundesministerium wird ermächtigt, durch Rechtsverordnung,
+die nicht der Zustimmung des Bundesrates bedarf, in Gesetzen und
+Rechtsverordnungen die Bezeichnungen "Bundesamt für Ernährung
+und Forstwirtschaft" und "Bundesanstalt für landwirtschaftliche
 Marktordnung" durch die Bezeichnung "Bundesanstalt für Landwirtschaft
 und Ernährung" zu ersetzen.
 

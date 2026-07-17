@@ -1,8 +1,5 @@
 ---
-Title: Gesetz zu dem Vertrag vom 31. Januar 1972 zwischen der Bundesrepublik Deutschland
-  und der Republik Österreich über die Ergänzung des Europäischen Übereinkommens vom
-  20. April 1959 über die Rechtshilfe in Strafsachen und die Erleichterung seiner
-  Anwendung
+Title: Gesetz zu dem Vertrag vom 31. Januar 1972 zwischen der Bundesrepublik Deutschland und der Republik Österreich über die Ergänzung des Europäischen Übereinkommens vom 20. April 1959 über die Rechtshilfe in Strafsachen und die Erleichterung seiner Anwendung
 jurabk: EuRHiAUTÜbkErgVtrG
 layout: default
 origslug: eurhiaut_bkergvtrg
@@ -19,11 +16,10 @@ Fundstelle
 :   BGBl II: 1975, 1157
 
 
-
 ## Art 1
 
-Dem in Bonn am 31. Januar 1972 unterzeichneten Vertrag zwischen der
-Bundesrepublik Deutschland und der Republik Österreich über die
+Dem in Bonn am 31. Januar 1972 unterzeichneten Vertrag zwischen
+der Bundesrepublik Deutschland und der Republik Österreich über die
 Ergänzung des Europäischen Übereinkommens vom 20. April 1959 über die
 Rechtshilfe in Strafsachen und die Erleichterung seiner Anwendung wird
 zugestimmt. Der Vertrag wird nachstehend veröffentlicht.
@@ -53,8 +49,8 @@ eingeschränkt.
 Rechtshilfeersuchen österreichischer Behörden, denen eine
 Zuwiderhandlung zugrunde liegt, die nach deutschem Recht eine
 Ordnungswidrigkeit wäre, werden so behandelt, als ob ihnen nach
-deutschem Recht eine mit Strafe bedrohte Handlung zugrunde läge. Die
-Bewilligungsbehörde kann der Verwaltungsbehörde, die für die
+deutschem Recht eine mit Strafe bedrohte Handlung zugrunde läge.
+Die Bewilligungsbehörde kann der Verwaltungsbehörde, die für die
 Verfolgung der Zuwiderhandlung zuständig wäre, die Vornahme der
 Rechtshilfehandlung übertragen.
 
