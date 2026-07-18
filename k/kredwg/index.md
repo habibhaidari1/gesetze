@@ -19,16 +19,7 @@ Neugefasst durch
 :   Bek. v. 9.9.1998 I 2776
 
 Zuletzt geändert durch
-:   Art. 3 G v. 25.3.2026 I Nr. 81
-
-Änderung durch
-:   Art. 6 G v. 9.4.2026 I Nr. 97 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 7 G v. 9.4.2026 I Nr. 97 ist berücksichtigt
-
-Änderung durch
-:   Art. 9 G v. 12.5.2026 I Nr. 139 ist berücksichtigt
+:   Art. 9 G v. 12.5.2026 I Nr. 139
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften

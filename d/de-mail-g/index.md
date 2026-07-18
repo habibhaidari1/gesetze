@@ -15,11 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 666
 
-Zuletzt geändert durch
-:   Art. 10 G v. 2.12.2025 I Nr. 301
+G aufgeh. durch
+:   § 26 dieses G, dieser eingef. durch Art. 4 Nr. 2 G v. 3.7.2026 I Nr. 199, mit Ablauf des 31.12.2026
 
-Änderung durch
-:   Art. 4 G v. 3.7.2026 I Nr. 199 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 4 G v. 3.7.2026 I Nr. 199
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war

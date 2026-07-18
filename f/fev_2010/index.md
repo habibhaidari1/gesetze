@@ -16,13 +16,7 @@ Fundstelle
 :   BGBl I: 2010, 1980
 
 Zuletzt geändert durch
-:   Art. 3 G v. 23.2.2026 I Nr. 46
-
-Änderung durch
-:   Art. 6 G v. 12.5.2026 I Nr. 142 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 7 G v. 12.5.2026 I Nr. 142 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 7 G v. 12.5.2026 I Nr. 142
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 (Nr. 41) ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war

@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2023, Nr. 199, 2
 
 Zuletzt geändert durch
-:   Art. 2 V v. 5.3.2026 I Nr. 63
-
-Änderung durch
-:   Art. 5 G v. 12.5.2026 I Nr. 142 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 5 G v. 12.5.2026 I Nr. 142
 
 Stand
 :   Ersetzt V 9232-14 v. 3.2.2011 I 139 (FZV 2011)

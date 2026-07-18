@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2022, 986
 
 Geändert durch
-:   Art. 10 V v. 20.7.2023 I Nr. 199
-
-Änderung durch
-:   Art. 8 G v. 12.5.2026 I Nr. 142 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 8 G v. 12.5.2026 I Nr. 142
 
 
 ## § 1 Anwendungsbereich; Regelungsgegenstand und Begriffsbestimmungen

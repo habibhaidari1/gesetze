@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2022, 868
 
-Änderung durch
-:   Art. 13 G v. 9.4.2026 I Nr. 97 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 13 G v. 9.4.2026 I Nr. 97
 
 
 ## Eingangsformel

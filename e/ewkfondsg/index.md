@@ -18,6 +18,12 @@ Fundstelle
 Geändert durch
 :   Art. 3 G v. 11.5.2023 I Nr. 124, Nr. 183
 
+Änderung durch
+:   Art. 3 Abs. 6 G v. 13.7.2026 I Nr. 207 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 5 G v. 13.7.2026 I Nr. 207 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Teil 1 - Allgemeine Vorschriften
 

@@ -16,13 +16,7 @@ Fundstelle
 :   BGBl I: 2013, 1981
 
 Zuletzt geändert durch
-:   Art. 22 G v. 25.3.2026 I Nr. 81
-
-Änderung durch
-:   Art. 1 G v. 9.4.2026 I Nr. 97 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 2 G v. 9.4.2026 I Nr. 97 ist berücksichtigt
+:   Art. 2 G v. 9.4.2026 I Nr. 97
 
 Änderung durch
 :   Art. 3 G v. 9.4.2026 I Nr. 97 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
