@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 V v. 17.2.2025 I Nr. 42
 
+Änderung durch
+:   Art. 2 G v. 21.7.2026 I Nr. 210a textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -82,39 +85,38 @@ Rechtsvorschriften erbracht werden:
     die zuletzt durch Artikel 6 des Gesetzes vom 14. Juli 2021 (BGBl. I S.
     2860) geändert worden ist, in der jeweils geltenden Fassung,
 
-12. Verordnung zu den gemeinsamen Ausschreibungen vom 10. August 2017
-    (BGBl. I S. 3167, 3180) in der Fassung vom 20. Januar 2020 (BGBl. I
-    S. 106),
-
-13. Innovationsausschreibungsverordnung vom 20. Januar 2020 (BGBl. I S.
+12. Innovationsausschreibungsverordnung vom 20. Januar 2020 (BGBl. I S.
     106), die zuletzt durch Artikel 11c des Gesetzes vom 16. Juli 2021
     (BGBl. I S. 3026) geändert worden ist, in der jeweils geltenden
     Fassung,
 
-14. Grenzüberschreitende-Erneuerbare-Energien-Verordnung vom 10. August
+13. Grenzüberschreitende-Erneuerbare-Energien-Verordnung vom 10. August
     2017 (BGBl. I S. 3102), die zuletzt durch Artikel 12 des Gesetzes
     vom 21. Dezember 2020 (BGBl. I S. 3138) geändert worden ist, in der
     jeweils geltenden Fassung,
 
-15. Kohleverstromungsbeendigungsgesetz vom 8. August 2020 (BGBl. I S.
+14. Kohleverstromungsbeendigungsgesetz vom 8. August 2020 (BGBl. I S.
     1818), das zuletzt durch Artikel 13 des Gesetzes vom 16. Juli 2021
     (BGBl. I S. 3026) geändert worden ist, in der jeweils geltenden
     Fassung,
 
-16. Erneuerbare-Energien-Gesetz vom 21. Juli 2014 (BGBl. I S. 1066), das
+15. Erneuerbare-Energien-Gesetz vom 21. Juli 2014 (BGBl. I S. 1066), das
     zuletzt durch Artikel 11 des Gesetzes vom 16. Juli 2021 (BGBl. I S.
     3026) geändert worden ist, in der jeweils geltenden Fassung,
 
-17. Messstellenbetriebsgesetz vom 29. August 2016 (BGBl. I S. 2034), das
+16. Messstellenbetriebsgesetz vom 29. August 2016 (BGBl. I S. 2034), das
     zuletzt durch Artikel 10 des Gesetzes vom 16. Juli 2021 (BGBl. I S.
     3026) geändert worden ist, in der jeweils geltenden Fassung,
 
-18. Datennutzungsgesetz vom 16. Juli 2021 (BGBl. I S. 2941, 2942, 4114) in
+17. Datennutzungsgesetz vom 16. Juli 2021 (BGBl. I S. 2941, 2942, 4114) in
     der jeweils geltenden Fassung,
 
-19. Strompreisbremsegesetz vom 20. Dezember 2022 (BGBl. I S. 2512), das
+18. Strompreisbremsegesetz vom 20. Dezember 2022 (BGBl. I S. 2512), das
     zuletzt durch Artikel 12a des Gesetzes vom 22. Dezember 2023 (BGBl.
-    2023 I Nr. 405) geändert worden ist, in der jeweils geltenden Fassung.
+    2023 I Nr. 405) geändert worden ist, in der jeweils geltenden Fassung,
+
+19. Strom-Versorgungssicherheits-und-Kapazitätengesetz vom 21. Juli 2026
+    (BGBl. 2026 I Nr. 210a) in der jeweils geltenden Fassung.
 
 (2) Die Erhebung von Gebühren und Auslagen für individuell
 zurechenbare öffentliche Leistungen, die von der Bundesnetzagentur
@@ -412,8 +414,8 @@ elektromagnetischer Felder (BEMFV)**
 | 1 | Maßnahme zur Durchsetzung von Verpflichtungen nach § 10 PTSG | nach Zeitaufwand |
 
 **Abschnitt 8: Erneuerbare-Energien-Gesetz, KWK-
-Ausschreibungsverordnung (KWKAusV), Verordnung zu den gemeinsamen
-Ausschreibungen (GemAV), Innovationsausschreibungsverordnung
+Ausschreibungsverordnung (KWKAusV), Strom-Versorgungssicherheits-
+und-Kapazitätengesetz (StromVKG) Innovationsausschreibungsverordnung
 (InnAusV), Grenzüberschreitende-Erneuerbare-Energien-Verordnung
 (GEEV)**
 
@@ -425,9 +427,10 @@ Ausschreibungen (GemAV), Innovationsausschreibungsverordnung
 | 4 | Durchführung eines Zuschlagsverfahrens für Windenergieanlagen an Land  – nach § 32 des Erneuerbare-Energien-Gesetzes, – nach § 11 InnAusV oder – nach § 12 GEEV | 597 |
 | 5 | Durchführung eines Zuschlagsverfahrens  – für Biomasseanlagen nach den §§ 32 und 39d des Erneuerbare-Energien-Gesetzes, – für Biomasseanlagen nach § 11 InnAusV oder – für Biomethananlagen nach Teil 3 Abschnitt 3 Unterabschnitt 6 des Erneuerbare-Energien-Gesetzes | 597 |
 | 6 | Durchführung eines Zuschlagsverfahrens für KWK-Anlagen und innovative KWK-Systeme nach § 11 KWKAusV | 1 019 |
-| 7 | Bewilligung der Ausnahme von der bedarfsgesteuerten Nachtkennzeichnung nach § 9 Absatz 8 Satz 6 des Erneuerbare-Energien-Gesetzes | 1 883 |
-| 8 | Verlängerung der Realisierungsfrist von Zuschlägen  – für Windenergieanlagen an Land nach § 36e Absatz 2 oder Absatz 3 des Erneuerbare-Energien-Gesetzes – für Biomasseanlagen nach § 39e Absatz 2 des Erneuerbare-Energien-Gesetzes | 561,66 |
-| 9 | Verlängerung der Realisierungsfrist von Zuschlägen für Windenergieanlagen an Land nach § 100 Absatz 15 des Erneuerbare-Energien-Gesetzes in der bis zum Ablauf des 31. Dezember 2022 geltenden Fassung | 280,83 |
+| 7 | Durchführung eines Zuschlagsverfahrens für Ausschreibungen für Anlagen nach dem StromVKG | 956 |
+| 8 | Bewilligung der Ausnahme von der bedarfsgesteuerten Nachtkennzeichnung nach § 9 Absatz 8 Satz 6 des Erneuerbare-Energien-Gesetzes | 1 883 |
+| 9 | Verlängerung der Realisierungsfrist von Zuschlägen  – für Windenergieanlagen an Land nach § 36e Absatz 2 oder Absatz 3 des Erneuerbare-Energien-Gesetzes – für Biomasseanlagen nach § 39e Absatz 2 des Erneuerbare-Energien-Gesetzes | 561,66 |
+| 10 | Verlängerung der Realisierungsfrist von Zuschlägen für Windenergieanlagen an Land nach § 100 Absatz 15 des Erneuerbare-Energien-Gesetzes in der bis zum Ablauf des 31. Dezember 2022 geltenden Fassung | 280,83 |
 
 **Abschnitt 9: Kohleverstromungsbeendigungsgesetz (KVBG)**
 
