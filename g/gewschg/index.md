@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2001, 3513
 
 Zuletzt geändert durch
-:   Art. 2 G v. 10.8.2021 I 3513
-
-Änderung durch
-:   Art. 3 G v. 2.7.2026 I Nr. 198 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 G v. 2.7.2026 I Nr. 198
 
 
 ## § 1 Gerichtliche Maßnahmen zum Schutz vor Gewalt und Nachstellungen
@@ -96,9 +93,6 @@ Fristen nach § 1a Absatz 4 Satz 1 und 2 hin.*
 (3) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
 die für die Wahrnehmung der Aufgaben nach Absatz 1 zuständigen Stellen
 zu bestimmen.
-
-
-## § 1c (zukünftig in Kraft)
 
 
 ## § 2 Überlassung einer gemeinsam genutzten Wohnung

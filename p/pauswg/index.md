@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 1346
 
 Zuletzt geändert durch
-:   Art. 8 G v. 23.10.2024 I Nr. 323
+:   Art. 3 G v. 16.7.2026 I Nr. 213
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -1176,6 +1176,12 @@ internationalen Reiseverkehr und zur Übermittlung personenbezogener
 Daten verpflichtet sind. Biometrische Daten dürfen nicht ausgelesen
 werden. Die Daten sind unverzüglich zu löschen, wenn sie für die
 Erfüllung dieser Pflichten nicht mehr erforderlich sind.
+
+(4a) Abweichend von Absatz 4 dürfen Luftfahrtunternehmen sowie
+die in § 19e Absatz 8 des Luftverkehrsgesetzes genannten Stellen
+personenbezogene Daten sowohl aus der maschinenlesbaren Zone des
+Personalausweises als auch aus dem Chip des Personalausweises unter
+den Voraussetzungen des § 19e des Luftverkehrsgesetzes auslesen.
 
 (5) Zum Zwecke des Jugendschutzes und mit Einwilligung des
 Ausweisinhabers dürfen die in § 5 Absatz 4 Satz 2 Nummer 6 und 7

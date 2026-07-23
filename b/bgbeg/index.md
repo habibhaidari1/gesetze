@@ -19,10 +19,10 @@ Neugefasst durch
 :   Bek. v. 21.9.1994 I 2494; 1997, 1061;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 12.5.2026 I Nr. 139
+:   Art. 1 G v. 2.7.2026 I Nr. 198
 
 Änderung durch
-:   Art. 1 G v. 2.7.2026 I Nr. 198 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 16.7.2026 I Nr. 212 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Teil - Allgemeine Vorschriften
@@ -4327,6 +4327,17 @@ ab dem Zeitpunkt der Änderungsvereinbarung § 585a des Bürgerlichen
 Gesetzbuchs in der Fassung vom 1. Januar 2025 anzuwenden.
 
 
+##### § 72 Übergangsvorschrift zum Gesetz zur Umsetzung der Richtlinie (EU) 2024/1799 zur Förderung der Reparatur von Waren sowie zur Verbesserung der Verfügbarkeit von Vorsorgeverfügungen
+
+Auf einen Kaufvertrag, der vor dem 31. Juli 2026 geschlossen worden
+ist, sind die Vorschriften dieses Gesetzes und des Bürgerlichen
+Gesetzbuchs in der bis einschließlich 30. Juli 2026 geltenden Fassung
+anzuwenden. Die Neuregelung in § 434 Absatz 3 Satz 2 des Bürgerlichen
+Gesetzbuchs, wonach die Reparierbarkeit zu den sonstigen Merkmalen
+der Sache gehört, ist erst auf Kaufverträge zwischen Unternehmern
+anzuwenden, die nach dem 31. Dezember 2027 geschlossen werden.
+
+
 ## Sechster Teil - Inkrafttreten und Übergangsrecht aus Anlaß der Einführung des Bürgerlichen Gesetzbuchs und dieses Einführungsgesetzes in dem in Art 3 des Einigungsvertrages genannten Gebiet
 
 
@@ -6430,7 +6441,121 @@ Verpflichtung zur Verschaffung des Eigentums angesetzt werden kann und
 welche Sicherheit dem Besteller hierfür zu leisten ist.
 
 
-#### Art 245 - (weggefallen)
+#### Art 245 - Europäisches Formular für Reparaturinformationen
+
+
+##### § 1 Freiwillige Verwendung
+
+(1) Reparaturbetriebe können für den Abschluss eines
+Reparaturvertrags mit einem Verbraucher das Europäische Formular
+für Reparaturinformationen (Anlage 19) gemäß den Vorschriften dieses
+Artikels nutzen.
+
+(2) Reparaturbetrieb ist jeder Unternehmer, der eine Reparaturleistung
+erbringt, einschließlich des Herstellers und des Unternehmers, der die
+Ware verkauft hat.
+
+
+##### § 2 Übermittlung, Zeitpunkt und Kosten
+
+(1) Bei Verwendung des Europäischen Formulars für
+Reparaturinformationen ist dieses dem Verbraucher auf einem
+dauerhaften Datenträger und innerhalb einer angemessenen Frist nach
+seiner Anfrage wegen der Reparatur der Ware und bevor der Verbraucher
+durch seine Vertragserklärung über einen Vertrag über die Erbringung
+von Reparaturleistungen gebunden ist, kostenlos zur Verfügung zu
+stellen.
+
+(2) Wenn eine Diagnosedienstleistung einschließlich einer Überprüfung
+vor Ort oder einer Fernüberprüfung erforderlich ist, um die Art
+des Defekts und die Art der Reparatur zu bestimmen und die Kosten
+für die Reparatur zu schätzen, kann der Reparaturbetrieb vom
+Verbraucher verlangen, dass dieser die erforderlichen Kosten für
+diese Dienstleistung trägt. Der Reparaturbetrieb informiert den
+Verbraucher vor der Erbringung der Diagnosedienstleistung und vor der
+Bereitstellung des Europäischen Formulars für Reparaturinformationen
+über die Kosten der Diagnosedienstleistung.
+
+
+##### § 3 Inhalt und Wirkung
+
+(1) Im Europäischen Formular für Reparaturinformationen ist klar und
+verständlich Folgendes anzugeben:
+
+1.  die Identität des Reparaturbetriebs;
+
+2.  die Anschrift, an der der Reparaturbetrieb niedergelassen ist, sowie
+    seine Telefonnummer und E-Mail-Adresse und gegebenenfalls andere
+    Online-Kommunikationsmittel, die es dem Verbraucher ermöglichen,
+    schnell, effizient und auf zugängliche Weise mit dem Reparaturbetrieb
+    Kontakt aufzunehmen und mit ihm zu kommunizieren;
+
+3.  die zu reparierende Ware;
+
+4.  die Art des Defekts und die Art der vorgeschlagenen Reparatur;
+
+5.  der Preis oder, falls der Preis vernünftigerweise nicht im Voraus
+    berechnet werden kann, die Art und Weise, wie der Preis berechnet
+    wird, und der Höchstpreis für die Reparatur;
+
+6.  die Dauer der Reparatur;
+
+7.  die Verfügbarkeit vorübergehender Ersatzwaren während der Reparatur
+    und gegebenenfalls die Kosten des vorübergehenden Ersatzes für den
+    Verbraucher;
+
+8.  der Ort, an dem der Verbraucher die Waren zur Reparatur übergibt;
+
+9.  gegebenenfalls die Verfügbarkeit der vom Reparaturbetrieb angebotenen
+    Nebenleistungen, wie Ausbau, Montage und Transport, und gegebenenfalls
+    die Aufstellung der Kosten dieser Dienstleistungen für den
+    Verbraucher;
+
+10. die Gültigkeitsdauer des Europäischen Formulars für
+    Reparaturinformationen;
+
+11. gegebenenfalls zusätzliche Informationen.
+
+(2) Ein Europäisches Formular für Reparaturinformationen, das die
+Angaben nach Absatz 1 enthält, ist ein Antrag zur Schließung eines
+Reparaturvertrags mit dem im Formular angegebenen Inhalt. An den
+Antrag ist der Reparaturbetrieb nach dem Zugang beim Verbraucher
+30 Kalendertage gebunden. Der Reparaturbetrieb kann eine längere
+Gültigkeitsdauer für den Antrag bestimmen.
+
+
+##### § 4 Erfüllung von Informationspflichten
+
+Hat der Reparaturbetrieb dem Verbraucher ein vollständiges und
+korrektes Europäisches Formular für Reparaturinformationen zur
+Verfügung gestellt, so gelten die folgenden Informationspflichten
+als erfüllt:
+
+1.  Informationspflichten in Bezug auf die wesentlichen Merkmale der
+    Reparaturleistung gemäß Artikel 246 Absatz 1 Nummer 1 und Artikel 246a
+    § 1 Absatz 1 Satz 1 Nummer 1 sowie gemäß § 2 Absatz 1 Nummer 10 der
+    Dienstleistungs-Informationspflichten-Verordnung;
+
+2.  Informationspflichten in Bezug auf die Identität des Reparaturbetriebs
+    und die Kontaktdaten gemäß Artikel 246 Absatz 1 Nummer 2 und Artikel
+    246a § 1 Absatz 1 Satz 1 Nummer 2 und 3 sowie gemäß § 2 Absatz 1
+    Nummer 1 und 2 der Dienstleistungs-Informationspflichten-Verordnung;
+
+3.  Informationspflichten in Bezug auf den Preis gemäß Artikel 246 Absatz
+    1 Nummer 3 und Artikel 246a § 1 Absatz 1 Satz 1 Nummer 5 sowie der
+    Preisangabenverordnung;
+
+4.  Informationspflichten in Bezug auf die Modalitäten der Leistung und
+    den Zeitpunkt der Erbringung der Reparaturleistung gemäß Artikel 246
+    Absatz 1 Nummer 4 und Artikel 246a § 1 Absatz 1 Satz 1 Nummer 10.
+
+
+##### § 5 Abweichende Vereinbarungen
+
+Stellt ein Reparaturbetrieb das Europäische Formular für
+Reparaturinformationen freiwillig zur Verfügung, kann er sich nicht
+auf eine Vereinbarung berufen, die zum Nachteil des Verbrauchers von
+den §§ 2 und 3 abweicht.
 
 
 #### Art 246 - Informationspflichten beim Verbrauchervertrag
@@ -10795,4 +10920,47 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     c)  ein Versicherer oder Kreditinstitut in allen anderen Fällen keine
         Beschränkung der Einstandspflicht nach § 651r Absatz 3 Satz 3 des
         Bürgerlichen Gesetzbuchs vereinbart.
+
+
+### Anlage 19 (zu Artikel 245 § 1 Absatz 1)
+
+(Fundstelle: BGBl. 2026 I Nr. 212, S. 8)
+
+Anhang
+
+EUROPÄISCHES FORMULAR FÜR REPARATURINFORMATIONEN
+
+Teil I
+
+Identität und Kontaktdaten des Reparaturbetriebs, der die
+Reparaturleistung erbringt
+
+| Reparaturbetrieb | [Name] |
+| --- | --- |
+| Anschrift | [Geografische Anschrift, an die sich Verbraucher wenden können] |
+| Telefonnummer |  |
+| E-Mail |  |
+| Andere Online-Kommunikationsmittel, sofern sie vom Reparaturbetrieb bereitgestellt werden, die es den Verbrauchern ermöglichen, schnell und effizient mit dem Reparaturbetrieb Kontakt aufzunehmen und mit ihm zu kommunizieren |  |
+
+Teil II
+
+Angaben zur Reparaturleistung
+
+| Zu reparierende Ware | [Bezeichnung der Ware] |
+| --- | --- |
+| Art des Defekts | [Beschreibung des Defekts] |
+| Art der vorgeschlagenen Reparatur | [Welche Maßnahmen werden ergriffen, um den Defekt zu beheben] |
+| Preis für die Reparatur bzw., falls dieser nicht ermittelt werden kann, die anwendbare Berechnungsmethode und die Preisobergrenze für die Reparatur | [Gesamtbetrag bzw., falls dies nicht möglich ist, die Berechnungsmethode und die Obergrenze für die Reparaturleistung in EUR/Landeswährung] |
+| Dauer der Reparatur | [Zeit, innerhalb welcher der Reparaturbetrieb sich verpflichtet, die Leistung zu erbringen, in Tagen] |
+| Verfügbarkeit vorübergehender Ersatzwaren | [Vorübergehende Ersatzware bedeutet, dass der Verbraucher eine gleichwertige Ware zur Verwendung während der Dauer der Reparatur erhält; der Reparaturbetrieb gibt dies mit „Ja“ oder „Nein“ an] |
+| Falls ja, führen Sie gegebenenfalls die entsprechenden Kosten an: | [EUR/Landeswährung] |
+| Ort der Übergabe der Waren | [Ort, an dem der Verbraucher die Waren zur Reparatur übergibt] |
+| Verfügbarkeit von Nebenleistungen, falls zutreffend | [Geben Sie an, ob und in welchem Umfang Nebenleistungen wie Ausbau, Montage und Transport angeboten werden, bzw. „Keine“, wenn für die betreffende Reparatur keine Nebenleistung angeboten wird] |
+| Falls ja, führen Sie gegebenenfalls die entsprechenden Kosten an: | [EUR/Landeswährung, je angebotener Dienst] |
+| Gültigkeitsdauer des Europäischen Formulars für Reparaturinformationen | [Gültigkeitsdauer von mindestens 30 Tagen] |
+| Gegebenenfalls zusätzliche Informationen |  |
+
+Die Hinweise in den eckigen Klammern enthalten Erläuterungen für
+den Reparaturbetrieb und sind durch die entsprechenden Angaben zu
+ersetzen.
 

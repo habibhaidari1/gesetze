@@ -19,10 +19,10 @@ Neugefasst durch
 :   Bek. v. 2.1.2002 I 42, 2909; 2003, 738;
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 1 G v. 12.5.2026 I Nr. 143
+:   Art. 2 G v. 2.7.2026 I Nr. 198
 
 Änderung durch
-:   Art. 2 G v. 2.7.2026 I Nr. 198 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 G v. 16.7.2026 I Nr. 212 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Buch 1 - Allgemeiner Teil
@@ -8244,13 +8244,17 @@ die Sache den objektiven Anforderungen, wenn sie
 
 Zu der üblichen Beschaffenheit nach Satz 1 Nummer 2 gehören Menge,
 Qualität und sonstige Merkmale der Sache, einschließlich ihrer
-Haltbarkeit, Funktionalität, Kompatibilität und Sicherheit. Der
-Verkäufer ist durch die in Satz 1 Nummer 2 Buchstabe b genannten
-öffentlichen Äußerungen nicht gebunden, wenn er sie nicht kannte
-und auch nicht kennen konnte, wenn die Äußerung im Zeitpunkt des
-Vertragsschlusses in derselben oder in gleichwertiger Weise berichtigt
-war oder wenn die Äußerung die Kaufentscheidung nicht beeinflussen
-konnte.
+Haltbarkeit, Reparierbarkeit, Funktionalität, Kompatibilität und
+Sicherheit. Der Verkäufer ist durch die in Satz 1 Nummer 2 Buchstabe
+b genannten öffentlichen Äußerungen nicht gebunden, wenn er sie nicht
+kannte und auch nicht kennen konnte, wenn die Äußerung im Zeitpunkt
+des Vertragsschlusses in derselben oder in gleichwertiger Weise
+berichtigt war oder wenn die Äußerung die Kaufentscheidung nicht
+beeinflussen konnte. In einem Kaufvertrag zwischen Unternehmern oder
+in einem Kaufvertrag zwischen Verbrauchern können die Unternehmer oder
+Verbraucher vereinbaren, dass Menge, Qualität oder eines oder mehrere
+der in Satz 2 genannten sonstigen Merkmale nicht zu der üblichen
+Beschaffenheit der Sache gehören.
 
 (4) Soweit eine Montage durchzuführen ist, entspricht die Sache den
 Montageanforderungen, wenn die Montage
@@ -8470,7 +8474,7 @@ Beschaffenheit der Sache übernommen hat.
 (1) Der Verkäufer kann beim Verkauf einer neu hergestellten Sache von
 dem Verkäufer, der ihm die Sache verkauft hatte (Lieferant), Ersatz
 der Aufwendungen verlangen, die er im Verhältnis zum Käufer nach § 439
-Absatz 2, 3 und 6 Satz 2 sowie nach § 475 Absatz 4 zu tragen hatte,
+Absatz 2, 3 und 6 Satz 2 sowie nach § 475 Absatz 5 zu tragen hatte,
 wenn der vom Käufer geltend gemachte Mangel bereits beim Übergang der
 Gefahr auf den Verkäufer vorhanden war oder auf einer Verletzung der
 Aktualisierungspflicht gemäß § 475b Absatz 4 beruht.
@@ -8610,8 +8614,8 @@ Unternehmer sind die folgenden Vorschriften nicht anzuwenden:
 1.  § 433 Absatz 1 Satz 1 und § 475 Absatz 1 über die Übergabe der
     Kaufsache und die Leistungszeit sowie
 
-2.  § 433 Absatz 1 Satz 2, die §§ 434 bis 442, 475 Absatz 3 Satz 1, Absatz
-    4 bis 6 und die §§ 476 und 477 über die Rechte bei Mängeln.
+2.  § 433 Absatz 1 Satz 2, die §§ 434 bis 442, 475 Absatz 3 Satz 1 und
+    Absatz 4 bis 7 sowie die §§ 476 und 477 über die Rechte bei Mängeln.
 
 An die Stelle der nach Satz 2 nicht anzuwendenden Vorschriften treten
 die Vorschriften des Abschnitts 3 Titel 2a Untertitel 1.
@@ -8873,17 +8877,31 @@ Käufer diese Person oder Anstalt nicht zuvor benannt hat.
 nicht herauszugeben oder durch ihren Wert zu ersetzen sind. Die §§
 442, 445 und 447 Absatz 2 sind nicht anzuwenden.
 
-(4) Der Verbraucher kann von dem Unternehmer für Aufwendungen, die ihm
+(4) Bevor der Unternehmer die Nacherfüllung gemäß § 439 durchführt,
+hat er den Verbraucher darüber zu informieren,
+
+1.  dass er das Wahlrecht nach § 439 Absatz 1 hat und
+
+2.  dass sich bei einer Nacherfüllung durch Nachbesserung die
+    ursprüngliche Verjährungsfrist von Ansprüchen wegen eines Mangels nach
+    § 475e Absatz 5 einmalig um zwölf Monate verlängert.
+
+(5) Der Verbraucher kann von dem Unternehmer für Aufwendungen, die ihm
 im Rahmen der Nacherfüllung gemäß § 439 Absatz 2 und 3 entstehen und
 die vom Unternehmer zu tragen sind, Vorschuss verlangen.
 
-(5) Der Unternehmer hat die Nacherfüllung innerhalb einer angemessenen
+(6) Der Unternehmer hat die Nacherfüllung innerhalb einer angemessenen
 Frist ab dem Zeitpunkt, zu dem der Verbraucher ihn über den Mangel
 unterrichtet hat, und ohne erhebliche Unannehmlichkeiten für den
-Verbraucher durchzuführen, wobei die Art der Ware sowie der Zweck, für
-den der Verbraucher die Ware benötigt, zu berücksichtigen sind.
+Verbraucher durchzuführen, wobei die Art der Ware sowie der Zweck,
+für den der Verbraucher die Ware benötigt, zu berücksichtigen sind.
+Der Unternehmer kann dem Verbraucher für die Dauer der Nachbesserung
+unentgeltlich eine Ersatzware zur Verfügung stellen. Dabei kann es
+sich auch um eine überholte Ware handeln. Bei der Nachlieferung darf
+der Unternehmer eine überholte Ware liefern, wenn der Verbraucher dies
+ausdrücklich verlangt hat.
 
-(6) Im Fall des Rücktritts oder des Schadensersatzes statt der ganzen
+(7) Im Fall des Rücktritts oder des Schadensersatzes statt der ganzen
 Leistung wegen eines Mangels der Ware ist § 346 mit der Maßgabe
 anzuwenden, dass der Unternehmer die Kosten der Rückgabe der Ware
 trägt. § 348 ist mit der Maßgabe anzuwenden, dass der Nachweis des
@@ -8895,9 +8913,9 @@ Verbrauchers über die Rücksendung der Rückgewähr der Ware gleichsteht.
 (1) Auf einen Verbrauchsgüterkaufvertrag, welcher einen körperlichen
 Datenträger zum Gegenstand hat, der ausschließlich als Träger
 digitaler Inhalte dient, sind § 433 Absatz 1 Satz 2, die §§ 434 bis
-442, 475 Absatz 3 Satz 1, Absatz 4 bis 6, die §§ 475b bis 475e und
-die §§ 476 und 477 über die Rechte bei Mängeln nicht anzuwenden. An
-die Stelle der nach Satz 1 nicht anzuwendenden Vorschriften treten die
+442, 475 Absatz 3 Satz 1, Absatz 4 bis 7 und die §§ 475b bis 475e,
+476 und 477 über die Rechte bei Mängeln nicht anzuwenden. An die
+Stelle der nach Satz 1 nicht anzuwendenden Vorschriften treten die
 Vorschriften des Abschnitts 3 Titel 2a Untertitel 1.
 
 (2) Auf einen Verbrauchsgüterkaufvertrag über eine Ware, die in
@@ -8911,8 +8929,8 @@ Vorschriften nicht anzuwenden:
     Kaufsache und die Leistungszeit sowie
 
 2.  § 433 Absatz 1 Satz 2, die §§ 434 bis 442, 475 Absatz 3 Satz 1, Absatz
-    4 bis 6, die §§ 475b bis 475e und die §§ 476 und 477 über die Rechte
-    bei Mängeln.
+    4 bis 7 und die §§ 475b bis 475e, 476 und 477 über die Rechte bei
+    Mängeln.
 
 An die Stelle der nach Satz 1 nicht anzuwendenden Vorschriften treten
 die Vorschriften des Abschnitts 3 Titel 2a Untertitel 1.
@@ -9015,11 +9033,11 @@ von § 323 Absatz 2 und § 440 nicht, wenn
 3.  der Mangel derart schwerwiegend ist, dass der sofortige Rücktritt
     gerechtfertigt ist,
 
-4.  der Unternehmer die gemäß § 439 Absatz 1 oder 2 oder § 475 Absatz 5
+4.  der Unternehmer die gemäß § 439 Absatz 1 oder 2 oder § 475 Absatz 6
     ordnungsgemäße Nacherfüllung verweigert hat oder
 
 5.  es nach den Umständen offensichtlich ist, dass der Unternehmer
-    nicht gemäß § 439 Absatz 1 oder 2 oder § 475 Absatz 5 ordnungsgemäß
+    nicht gemäß § 439 Absatz 1 oder 2 oder § 475 Absatz 6 ordnungsgemäß
     nacherfüllen wird.
 
 (2) Für einen Anspruch auf Schadensersatz wegen eines Mangels der
@@ -9049,6 +9067,10 @@ Veranlassung des Unternehmers einem Dritten übergeben, so tritt die
 Verjährung von Ansprüchen wegen des geltend gemachten Mangels nicht
 vor dem Ablauf von zwei Monaten nach dem Zeitpunkt ein, in dem die
 nachgebesserte oder ersetzte Ware dem Verbraucher übergeben wurde.
+
+(5) Wird Nacherfüllung gemäß § 439 durch Nachbesserung geleistet,
+verlängert sich die ursprüngliche Verjährungsfrist von Ansprüchen
+wegen eines Mangels einmalig um zwölf Monate.
 
 
 ###### § 476 Abweichende Vereinbarungen
@@ -9158,13 +9180,131 @@ zu stellen.
 Haltbarkeitsgarantie übernommen, so hat der Verbraucher gegen den
 Hersteller während des Zeitraums der Garantie mindestens einen
 Anspruch auf Nacherfüllung gemäß § 439 Absatz 2, 3, 5 und 6 Satz 2 und
-§ 475 Absatz 3 Satz 1 und Absatz 5.
+§ 475 Absatz 3 Satz 1 und Absatz 6.
 
 (4) Die Wirksamkeit der Garantieverpflichtung wird nicht dadurch
 berührt, dass eine der vorstehenden Anforderungen nicht erfüllt wird.
 
 
-##### Untertitel 4 - Tausch
+##### Untertitel 4 - Reparaturverpflichtung des Herstellers
+
+
+###### § 479a Anwendungsbereich
+
+Die Vorschriften dieses Untertitels gelten für Waren,
+
+1.  die Produktgruppen angehören, die in Anhang II der Richtlinie (EU)
+    2024/1799 aufgeführt sind,
+
+2.  die ein Verbraucher gekauft hat und
+
+3.  für die dem Verbraucher die in § 437 genannten Rechte nicht zustehen.
+
+
+###### § 479b Reparaturverpflichtung
+
+(1) Der Hersteller einer Ware, die in den Anwendungsbereich des § 479a
+fällt, ist verpflichtet, die Ware auf Verlangen eines Verbrauchers zu
+reparieren. Der Hersteller hat die Reparatur gemäß Artikel 2 Nummer
+20 der Verordnung (EU) 2024/1781 in der Fassung vom 13. Juni 2024
+innerhalb eines angemessenen Zeitraums durchzuführen, sobald sich die
+Ware in seinem Besitz befindet oder er Zugang zu der Ware hat, und
+die Ware in einen Zustand zurückzuversetzen, in dem der vorgesehene
+Verwendungszweck erfüllt wird.
+
+(2) Der Anspruch nach Absatz 1 besteht, solange und soweit der
+Hersteller die Reparierbarkeit der Waren, einschließlich der
+Verfügbarkeit von Ersatzteilen, nach den in Anhang II der Richtlinie
+(EU) 2024/1799 aufgeführten Rechtsakten der Europäischen Union
+gewährleisten muss. Er besteht nicht, wenn die Reparatur tatsächlich
+oder rechtlich unmöglich ist. Der Hersteller darf die Reparatur nicht
+allein deshalb ablehnen, weil eine frühere Reparatur von anderen
+Reparaturbetrieben oder anderen Personen vorgenommen wurde.
+
+(3) Die Reparatur erfolgt entweder unentgeltlich oder gegen ein
+angemessenes Entgelt. Erfolgt die Reparatur entgeltlich, ist der
+Verbraucher verpflichtet, die reparierte Ware abzunehmen; die §§ 640
+bis 642, 644 und 645 sind entsprechend anzuwenden.
+
+(4) Ist die Ware bei einer entgeltlichen Reparatur nach Erbringung der
+Reparaturleistung nicht in einen Zustand zurückversetzt, in dem der
+vorgesehene Verwendungszweck erfüllt wird, so kann der Verbraucher,
+wenn die Voraussetzungen der folgenden Vorschriften vorliegen und
+soweit nicht etwas anderes bestimmt ist,
+
+1.  entsprechend § 635 Nacherfüllung verlangen,
+
+2.  entsprechend § 637 die Reparatur selbst durchführen und Ersatz der
+    erforderlichen Aufwendungen verlangen,
+
+3.  entsprechend § 638 das Entgelt mindern und
+
+4.  nach den §§ 280 und 281 Schadensersatz oder nach § 284 Ersatz
+    vergeblicher Aufwendungen verlangen.
+
+In den Fällen des Satzes 1 Nummer 4 findet § 636 entsprechende
+Anwendung.
+
+
+###### § 479c Ersatzteile und Werkzeuge
+
+Der Hersteller hat die Ersatzteile und reparaturbezogenen Werkzeuge
+für die Reparatur seiner Waren zu einem angemessenen Preis anzubieten,
+der nicht von der Reparatur abschreckt.
+
+
+###### § 479d Information über die Reparaturverpflichtung und Angaben über Richtpreise
+
+(1) Solange Hersteller nach § 479b Absatz 1 zur Reparatur verpflichtet
+sind, haben sie Informationen über diese Reparaturleistungen in
+leicht zugänglicher, klarer und verständlicher Weise kostenlos
+bereitzustellen.
+
+(2) Hersteller sind verpflichtet, Verbrauchern auf einer frei
+zugänglichen Webseite Informationen über die Richtpreise zur
+Verfügung zu stellen, die für typische Reparaturen von Waren, die
+in den Anwendungsbereich des § 479a fallen, kalkuliert wurden. Die
+Geltung der Preisangabenverordnung bleibt von der Regelung in Satz
+1 unberührt.
+
+
+###### § 479e Unzulässige Handlungen
+
+Die Hersteller dürfen keine Hardware- oder Softwaretechniken
+einsetzen, die die Reparatur von Waren, die in den Anwendungsbereich
+des § 479a fallen, behindern, es sei denn, dies ist durch legitime und
+objektive Faktoren wie den Schutz der Rechte des geistigen Eigentums
+gerechtfertigt. Die Hersteller dürfen insbesondere die Verwendung
+von Originalersatzteilen, gebrauchten Ersatzteilen, kompatiblen
+Ersatzteilen oder Ersatzteilen, die mittels 3-D-Druck hergestellt
+wurden, durch unabhängige Reparaturbetriebe nicht behindern, wenn
+diese Ersatzteile im Einklang mit der Rechtsordnung, beispielsweise
+mit den Anforderungen an die Produktsicherheit oder mit den Rechten
+des geistigen Eigentums, stehen.
+
+
+###### § 479f Hersteller mit Sitz außerhalb der Europäischen Union
+
+Hat der gemäß § 479b Absatz 1 zur Reparatur verpflichtete Hersteller
+seinen Sitz außerhalb der Europäischen Union, so treffen seinen
+Beauftragten in der Europäischen Union die Pflichten des Herstellers
+nach diesem Untertitel. Hat der Hersteller in der Europäischen Union
+keinen Beauftragten, so treffen den Importeur der betreffenden Ware
+diese Pflichten. Gibt es keinen Importeur, so treffen den Vertreiber
+der betreffenden Ware die Pflichten des Herstellers nach diesem
+Untertitel.
+
+
+###### § 479g Abweichende Vereinbarungen
+
+Auf eine Vereinbarung, die zum Nachteil des Verbrauchers von den
+Vorschriften dieses Untertitels abweicht, kann sich der Hersteller
+oder der nach § 479f Verpflichtete nicht berufen. Die Vorschriften
+dieses Untertitels sind auch anzuwenden, wenn sie durch anderweitige
+Gestaltungen umgangen werden.
+
+
+##### Untertitel 5 - Tausch
 
 
 ###### § 480 Tausch
@@ -14936,14 +15076,14 @@ Titel 2a. Die §§ 641, 644 und 645 sind mit der Maßgabe anzuwenden,
 dass an die Stelle der Abnahme die Bereitstellung des digitalen
 Produkts (§ 327b Absatz 3 bis 5) tritt.
 
-(3) Auf einen Verbrauchervertrag, bei dem der Unternehmer sich
-verpflichtet, einen herzustellenden körperlichen Datenträger zu
-liefern, der ausschließlich als Träger digitaler Inhalte dient, sind
-abweichend von Absatz 1 Satz 1 und 2 § 433 Absatz 1 Satz 2, die §§ 434
-bis 442, 475 Absatz 3 Satz 1, Absatz 4 bis 6 und die §§ 476 und 477
-über die Rechte bei Mängeln nicht anzuwenden. An die Stelle der nach
-Satz 1 nicht anzuwendenden Vorschriften treten die Vorschriften des
-Abschnitts 3 Titel 2a.
+(3) Abweichend von Absatz 1 Satz 1 und 2 sind auf einen
+Verbrauchervertrag, bei dem der Unternehmer sich verpflichtet,
+einen herzustellenden körperlichen Datenträger zu liefern, der
+ausschließlich als Träger digitaler Inhalte dient, § 433 Absatz 1 Satz
+2, die §§ 434 bis 442, 475 Absatz 3 Satz 1 und Absatz 5 bis 7 sowie
+die §§ 476 und 477 über die Rechte bei Mängeln nicht anzuwenden. An
+die Stelle der nach Satz 1 nicht anzuwendenden Vorschriften treten die
+Vorschriften des Abschnitts 3 Titel 2a.
 
 (4) Für einen Verbrauchervertrag, bei dem der Unternehmer sich
 verpflichtet, eine Sache herzustellen, die ein digitales Produkt

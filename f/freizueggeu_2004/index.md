@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2004, 1950, 1986
 
 Zuletzt geändert durch
-:   Art. 4 G v. 21.2.2024 I Nr. 54
+:   Art. 5 G v. 16.7.2026 I Nr. 213
 
 Stand
 :   Bek. v. 3.9.2025 I Nr. 202 ist berücksichtigt
@@ -1001,4 +1001,18 @@ Absatz 5 der Verordnung (EU) 2018/1240 mit.
 
 (3) Die Übermittlungen nach den Absätzen 1 und 2 können automatisiert
 über das Bundesverwaltungsamt durchgeführt werden.
+
+
+## § 18 Auslesen von Daten aus Pässen und Personalausweisen durch Luftfahrtunternehmen
+
+Luftfahrtunternehmen sowie die in § 19e Absatz 8 des
+Luftverkehrsgesetzes genannten Stellen dürfen zum Zweck der
+digitalen Fluggastabfertigung die in § 19e Absatz 3 und 4 des
+Luftverkehrsgesetzes aufgeführten personenbezogenen Daten sowohl
+aus der maschinenlesbaren Zone als auch aus dem Chip eines Passes
+oder Personalausweises, den ein Mitgliedstaat der Europäischen Union
+oder Island, Liechtenstein oder Norwegen an seinen Staatsangehörigen
+ausgestellt hat, unter den Voraussetzungen des § 19e des
+Luftverkehrsgesetzes auslesen. § 19e Absatz 3 Satz 3 und Absatz 5 des
+Luftverkehrsgesetzes gilt entsprechend.
 

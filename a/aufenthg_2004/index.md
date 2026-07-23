@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 25.2.2008 I 162;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 23.4.2026 I Nr. 111
+:   Art. 4 G v. 16.7.2026 I Nr. 213
 
 Mittelbare änderung durch
 :   Art. 4 G v. 20.12.2023 I Nr. 390 betreffend § 104 Abs. 17 ist nicht mehr ausführbar
@@ -10273,6 +10273,20 @@ erhoben werden. Die Daten sind spätestens nach zehn Jahren zu löschen.
 betrauten Behörden erheben zur Feststellung der Wirksamkeit der
 Förderung der Ausreisen Angaben zum Nachweis der Ausreise, zum Staat
 der Ausreise und zum Zielstaat der Ausreise.
+
+
+#### § 86b Auslesen von Daten aus Pässen und Schweizer Personalausweisen durch Luftfahrtunternehmen
+
+Luftfahrtunternehmen sowie die in § 19e Absatz 8 des
+Luftverkehrsgesetzes genannten Stellen dürfen zum Zweck der
+digitalen Fluggastabfertigung die in § 19e Absatz 3 und 4 des
+Luftverkehrsgesetzes aufgeführten personenbezogenen Daten sowohl
+aus der maschinenlesbaren Zone als auch aus dem Chip eines
+Personalausweises, den die Schweiz ihren Staatsangehörigen
+ausgestellt hat, oder eines Passes oder eines Passersatzes unter
+den Voraussetzungen des § 19e des Luftverkehrsgesetzes auslesen.
+§ 19e Absatz 3 Satz 3 und Absatz 5 des Luftverkehrsgesetzes gilt
+entsprechend.
 
 
 #### § 87 Übermittlungen an Ausländerbehörden

@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 21.2.1996 I 326;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 28.10.2025 I Nr. 258
+:   Art. 2 G v. 16.7.2026 I Nr. 211
 
 
 ## Erster Abschnitt - Erwerb und Verlust der Mitgliedschaft im Bundestag
@@ -345,30 +345,30 @@ bereits abgeschlossen hat.
 
 ### § 14 Kürzung der Kostenpauschale
 
-(1) An jedem Sitzungstag wird eine Anwesenheitsliste ausgelegt.
-Der Präsident bestimmt im Benehmen mit dem Ältestenrat, welche Tage
-als Sitzungstage gelten und in welcher Zeit die Anwesenheitsliste
-ausgelegt wird.
+(1) Für jeden Sitzungstag wird eine Anwesenheitsliste geführt. Der
+Präsident bestimmt im Benehmen mit dem Ältestenrat, welche Tage als
+Sitzungstage gelten und in welcher Zeit die Anwesenheitserfassung
+möglich ist.
 
-(2) Trägt sich ein Mitglied des Bundestages nicht in die
-Anwesenheitsliste ein, werden ihm 200 Euro von der Kostenpauschale
+(2) Erfasst ein Mitglied des Bundestages seine Anwesenheit nicht in
+der Anwesenheitsliste, werden ihm 200 Euro von der Kostenpauschale
 einbehalten. Der einzubehaltende Betrag erhöht sich auf 300 Euro,
-wenn ein Mitglied an einem Plenarsitzungstag sich nicht in die
-Anwesenheitsliste eingetragen hat und nicht entschuldigt war. Der
-Kürzungsbetrag verringert sich auf 20 Euro, wenn ein Mitglied des
-Bundestages einen Aufenthalt in einem Krankenhaus oder in einem
-Sanatorium oder die Arbeitsunfähigkeit ärztlich nachweist. Während
-der Mutterschutzfristen infolge Schwangerschaft, bis zum Ablauf von
-sieben Tagen nach der Geburt des Kindes für den anderen Elternteil
-oder wenn ein Mitglied des Bundestages ein ärztlich nachgewiesen
-erkranktes, in seinem Haushalt lebendes Kind, das das 14. Lebensjahr
-noch nicht vollendet hat, mangels anderer im Haushalt dafür zur
-Verfügung stehender Aufsichtspersonen persönlich betreuen muss, führt
-die Nichteintragung in die Anwesenheitsliste nicht zu einer Kürzung
-der Kostenpauschale.
+wenn ein Mitglied an einem Plenarsitzungstag seine Anwesenheit
+nicht erfasst hat und nicht entschuldigt war. Der Kürzungsbetrag
+verringert sich auf 20 Euro, wenn ein Mitglied des Bundestages einen
+Aufenthalt in einem Krankenhaus oder in einem Sanatorium oder die
+Arbeitsunfähigkeit ärztlich nachweist. Während der Mutterschutzfristen
+infolge Schwangerschaft, bis zum Ablauf von sieben Tagen nach der
+Geburt des Kindes für den anderen Elternteil oder wenn ein Mitglied
+des Bundestages ein ärztlich nachgewiesen erkranktes, in seinem
+Haushalt lebendes Kind, das das 14. Lebensjahr noch nicht vollendet
+hat, mangels anderer im Haushalt dafür zur Verfügung stehender
+Aufsichtspersonen persönlich betreuen muss, führt die Nichterfassung
+der Anwesenheit in der Anwesenheitsliste nicht zu einer Kürzung der
+Kostenpauschale.
 
-(3) Die Eintragung in die Anwesenheitsliste wird vom Zeitpunkt der
-Auslegung an ersetzt durch
+(3) Am jeweiligen Sitzungstag wird die Anwesenheitserfassung ersetzt
+durch
 
 1.  das Amtieren als Präsident oder als Schriftführer,
 
@@ -394,6 +394,8 @@ Auslegung an ersetzt durch
 Abstimmung oder einer Wahl mit Namensaufruf nicht teilnimmt, werden
 200 Euro von der monatlichen Kostenpauschale abgezogen. Das gilt nicht
 in den Fällen des Absatzes 2 und des Absatzes 3 Nummer 7.
+
+(5) Das Nähere regeln Ausführungsbestimmungen des Ältestenrates.
 
 
 ### § 15 Bezug anderer Tage- oder Sitzungsgelder

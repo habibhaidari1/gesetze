@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 30.10.2023 I Nr. 291
 
 Zuletzt geändert durch
-:   Art. 3 G v. 27.10.2025 I Nr. 256
+:   Art. 2 G v. 16.7.2026 I Nr. 213
 
 
 ## Erster Abschnitt - Passvorschriften
@@ -805,6 +805,12 @@ internationalen Reiseverkehr und zur Übermittlung personenbezogener
 Daten verpflichtet sind. Biometrische Daten dürfen nicht ausgelesen
 werden. Die Daten sind unverzüglich zu löschen, wenn sie für die
 Erfüllung dieser Pflichten nicht mehr erforderlich sind.
+
+(5) Abweichend von Absatz 4 dürfen Luftfahrtunternehmen sowie
+die in § 19e Absatz 8 des Luftverkehrsgesetzes genannten Stellen
+personenbezogene Daten sowohl aus der maschinenlesbaren Zone des
+Passes als auch aus dem Chip des Passes unter den Voraussetzungen des
+§ 19e des Luftverkehrsgesetzes auslesen.
 
 
 ### § 19 Zuständigkeit
