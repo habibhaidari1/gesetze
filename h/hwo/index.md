@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 G v. 3.4.2025 I Nr. 106
 
+Änderung durch
+:   Art. 8 G v. 20.7.2026 I Nr. 215 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erster Teil - Ausübung eines Handwerks und eines handwerksähnlichen Gewerbes
 
@@ -3116,7 +3119,7 @@ meisterhaft verrichten kann (Teil I), besondere fachtheoretische
 Kenntnisse (Teil II), besondere betriebswirtschaftliche, kaufmännische
 und rechtliche Kenntnisse (Teil III) sowie die erforderlichen berufs-
 und arbeitspädagogischen Kenntnisse (Teil IV) besitzt. § 45 Absatz 2
-Satz 2 ist entsprechend anzuwenden.
+Satz 2 und Absatz 4 ist entsprechend anzuwenden.
 
 (4) Zum Nachweis der Fertigkeiten und Kenntnisse führt die
 Handwerkskammer Prüfungen nach Maßgabe der folgenden Vorschriften

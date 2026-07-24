@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 51 G v. 23.6.2021 I 1858
 
+Änderung durch
+:   Art. 1 G v. 20.7.2026 I Nr. 214 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Abschnitt 1 - Allgemeine Vorschriften
 
@@ -242,7 +245,11 @@ Im Sinne dieses Gesetzes
     für Verfahren, Einrichtungen und Betriebsweisen, die nach der
     herrschenden Auffassung der beteiligten Kreise geeignet sind, die
     elektromagnetische Verträglichkeit zu gewährleisten, und die sich in
-    der Praxis bewährt haben.
+    der Praxis bewährt haben;
+
+30. ist „Notfallmodus für den Binnenmarkt“ der Notfallmodus für den
+    Binnenmarkt im Sinne von Artikel 3 Nummer 3 der Verordnung (EU)
+    2024/2747.
 
 
 ### § 4 Grundlegende Anforderungen an die elektromagnetische Verträglichkeit
@@ -695,6 +702,67 @@ Rechtsverordnung Folgendes zu regeln:
 (3) Die Absätze 1 und 2 sind entsprechend auf
 Konformitätsbewertungsstellen anzuwenden, die Konformitätsbewertungen
 nach Drittstaatenabkommen durchführen.
+
+
+## Abschnitt 4a - Notfallverfahren
+
+
+### § 21a Anwendung der Notfallverfahren
+
+(1) Die Bestimmungen dieses Abschnitts finden nur Anwendung,
+
+1.  wenn die Europäische Kommission einen Durchführungsrechtsakt nach
+    Artikel 28 der Verordnung (EU) 2024/2747 in Bezug auf Geräte erlassen
+    hat, die in den Anwendungsbereich dieses Gesetzes fallen, und
+
+2.  in Bezug auf Geräte, die nach Artikel 18 Absatz 4 der Verordnung (EU)
+    2024/2747 als krisenrelevante Waren eingestuft wurden.
+
+(2) Die Bestimmungen dieses Abschnitts gelten nur für die im
+Durchführungsrechtsakt nach Absatz 1 Nummer 1 festgelegte Dauer des
+Notfallmodus für den Binnenmarkt, der nach Artikel 18 der Verordnung
+(EU) 2024/2747 aktiviert wurde.
+
+
+### § 21b Konformitätsvermutung im Notfallmodus für den Binnenmarkt
+
+(1) Bei Geräten, die mit den Normen oder gemeinsamen Spezifikationen
+oder Teilen davon übereinstimmen, die die Kommission im Wege eines
+Durchführungsrechtsaktes nach Artikel 40b Absatz 1 der Richtlinie
+2014/30/EU festgelegt hat, wird widerleglich vermutet, dass das
+Gerät insoweit mit den entsprechenden grundlegenden Anforderungen
+nach § 4 übereinstimmt. Ab dem Tag, der auf das Auslaufen oder die
+Deaktivierung des Notfallmodus für den Binnenmarkt folgt, können
+sich Hersteller auf die Konformitätsvermutung nach Satz 1 nicht mehr
+berufen. Die Konformitätsvermutung nach § 16 bleibt unberührt.
+
+(2) Geräte, die während des Notfallmodus für den Binnenmarkt in
+Verkehr gebracht wurden und den im Durchführungsrechtsakt nach
+Absatz 1 Satz 1 genannten Normen oder gemeinsamen Spezifikationen
+entsprechen, gelten auch nach dessen Außerkrafttreten oder Aufhebung
+und nach dem Auslaufen oder der Deaktivierung des Notfallmodus
+für den Binnenmarkt als mit den in § 4 festgelegten grundlegenden
+Anforderungen konform, sofern kein hinreichender Grund zu der Annahme
+besteht, dass diese Geräte eine Gefahr für die Gesundheit oder
+Sicherheit von Personen darstellen.
+
+(3) Ist die Bundesnetzagentur der Auffassung, dass eine im
+Durchführungsrechtsakt nach Absatz 1 genannte Norm oder gemeinsame
+Spezifikation den in § 4 festgelegten grundlegenden Anforderungen
+nicht oder nicht in vollem Umfang entspricht, hat sie die Europäische
+Kommission unverzüglich darüber zu unterrichten.
+
+
+### § 21c Vorrangigkeit von Marktüberwachungstätigkeiten im Notfallmodus für den Binnenmarkt
+
+(1) Die Bundesnetzagentur soll während des Notfallmodus für
+den Binnenmarkt Marktüberwachungstätigkeiten nach Abschnitt 5
+dieses Gesetzes vorrangig an Geräten durchführen, die in einem
+Durchführungsrechtsakt nach § 21a Absatz 1 Nummer 1 aufgeführt sind.
+
+(2) Während eines Notfallmodus für den Binnenmarkt soll die
+Bundesnetzagentur auch Marktüberwachungsbehörden anderer
+Mitgliedstaaten zur Unterstützung zur Verfügung stehen.
 
 
 ## Abschnitt 5 - Bundesnetzagentur

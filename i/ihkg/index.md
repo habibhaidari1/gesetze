@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 G v. 7.8.2021 I 3306
 
+Änderung durch
+:   Art. 6 G v. 20.7.2026 I Nr. 215 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1
 
@@ -592,8 +595,7 @@ beim Bundesinstitut für Berufsbildung und die Industrie- und
 Handelskammern beim Erfüllen der ihnen durch Gesetz übertragenen
 Aufgaben im Rahmen des Berufsbildungsgesetzes.
 
-(6) Die Deutsche Industrie- und Handelskammer und das
-Bundesministerium für Wirtschaft und Energie berichten dem Bundestag
+(6) Die Deutsche Industrie- und Handelskammer berichtet dem Bundestag
 jeweils zur Mitte einer Legislaturperiode des Bundestages über die
 wesentlichen Entwicklungen und Perspektiven der Deutschen Industrie-
 und Handelskammer, der Industrie- und Handelskammern und des

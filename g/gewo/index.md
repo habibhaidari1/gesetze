@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 5 G v. 18.6.2026 I Nr. 183
 
+Änderung durch
+:   Art. 1 G v. 20.7.2026 I Nr. 215 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Titel I - Allgemeine Bestimmungen
 
@@ -126,9 +129,9 @@ Arbeitnehmer Anwendung.
 ### § 6a Entscheidungsfrist, Genehmigungsfiktion
 
 (1) Hat die Behörde über einen Antrag auf Erlaubnis zur Ausübung eines
-Gewerbes nach § 34b Absatz 1, 3, 4, § 34c Absatz 1 Satz 1 Nummer 1, 3
-und 4 oder § 55 Absatz 2 nicht innerhalb einer Frist von drei Monaten
-entschieden, gilt die Erlaubnis als erteilt.
+Gewerbes nicht innerhalb einer Frist von drei Monaten entschieden,
+gilt die Erlaubnis als erteilt. Satz 1 gilt nicht für Verfahren nach §
+31 Absatz 1 und § 34a Absatz 1.
 
 (2) Absatz 1 gilt auch für Verfahren nach § 33a Absatz 1 und § 69
 Absatz 1 und für Verfahren nach dem Gaststättengesetz, solange keine
@@ -950,9 +953,9 @@ zurückzuführen ist, ermöglichen, sind während der Zeit
 nicht anzuwenden in Bezug auf das Gewerbe, das zur Zeit des Antrags
 auf Eröffnung des Insolvenzverfahrens oder des Antrags auf Anordnung
 des Restrukturierungs- oder Stabilisierungsinstruments ausgeübt
-wurde.Dies gilt nicht für eine nach § 35 Absatz 2 Satz 1 oder Absatz
-3 der Insolvenzordnung freigegebene selbstständige Tätigkeit des
-Gewerbetreibenden, wenn dessen Unzuverlässigkeit mit Tatsachen
+wurde. Dies gilt nicht für eine nach § 35 Absatz 2 Satz 1 oder
+Absatz 3 der Insolvenzordnung freigegebene selbstständige Tätigkeit
+des Gewerbetreibenden, wenn dessen Unzuverlässigkeit mit Tatsachen
 begründet wird, die nach der Freigabe eingetreten sind.
 
 
@@ -2665,14 +2668,14 @@ unter denselben Voraussetzungen ist auch die nachträgliche Aufnahme,
     betreiben will, den Nachweis einer Berufshaftpflichtversicherung nicht
     erbringen kann.
 
-(2a) Gewerbetreibende nach Absatz 1 Satz 1 Nummer 1 und 4 sind
-verpflichtet, sich in einem Umfang von 20 Stunden innerhalb eines
-Zeitraums von drei Kalenderjahren weiterzubilden; das Gleiche gilt
-entsprechend für unmittelbar bei der erlaubnispflichtigen Tätigkeit
-mitwirkende beschäftigte Personen. Der erste Weiterbildungszeitraum
-beginnt am 1. Januar des Kalenderjahres, in dem
+(2a) Gewerbetreibende nach Absatz 1 Satz 1 Nummer 4 sind verpflichtet,
+sich in einem Umfang von 20 Stunden innerhalb eines Zeitraums von
+drei Kalenderjahren weiterzubilden; das Gleiche gilt entsprechend
+für unmittelbar bei der erlaubnispflichtigen Tätigkeit mitwirkende
+beschäftigte Personen. Der erste Weiterbildungszeitraum beginnt am 1.
+Januar des Kalenderjahres, in dem
 
-1.  eine Erlaubnis nach Absatz 1 Satz 1 Nummer 1 oder 4 erteilt wurde oder
+1.  eine Erlaubnis nach Absatz 1 Satz 1 Nummer 4 erteilt wurde oder
 
 2.  eine weiterbildungspflichtige Tätigkeit durch eine unmittelbar bei dem
     Gewerbetreibenden beschäftigte Person aufgenommen wurde.
@@ -2681,10 +2684,9 @@ Für den Gewerbetreibenden ist es ausreichend, wenn der
 Weiterbildungsnachweis durch eine im Hinblick auf eine ordnungsgemäße
 Wahrnehmung der erlaubnispflichtigen Tätigkeit angemessene Zahl von
 beim Gewerbetreibenden beschäftigten natürlichen Personen erbracht
-wird, denen die Aufsicht über die direkt bei der Vermittlung
-nach Absatz 1 Satz 1 Nummer 1 oder der Verwaltung nach Absatz 1
-Satz 1 Nummer 4 mitwirkenden Personen übertragen ist und die den
-Gewerbetreibenden vertreten dürfen.
+wird, denen die Aufsicht über die direkt bei der Verwaltung nach
+Absatz 1 Satz 1 Nummer 4 mitwirkenden Personen übertragen ist und die
+den Gewerbetreibenden vertreten dürfen.
 
 (3) Das Bundesministerium für Wirtschaft und Klimaschutz kann durch
 Rechtsverordnung mit Zustimmung des Bundesrates, soweit zum Schutz der

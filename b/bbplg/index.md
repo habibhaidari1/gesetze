@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2013, 2543; 2014, 148, 271
 
 Zuletzt geändert durch
-:   Art. 1 G v. 16.7.2024 I Nr. 239
+:   Art. 4 G v. 20.7.2026 I Nr. 215
 
 Stand
 :   Das G tritt gem. Art. 5 Abs. 1 G v. 23.7.2013 I 2543 am 27.7.2013 in Kraft. Abweichend davon ist § 1 iVm Nr. 33 der Anlage gem. Bek. v. 18.2.2014 I 148 am 8.1.2014 u. § 1 iVm Nr. 29 der Anlage gem. Bek. v. 17.3.2014 I 271 am 7.3.2014 in Kraft getreten.
@@ -262,22 +262,10 @@ Träger des Vorhabens dies beantragt.
 
 ## § 5 Berichtspflicht der Übertragungsnetzbetreiber
 
-(1) Über die in den Vorhaben nach § 2 Absatz 2 bis 8 gewonnenen
-Erfahrungen legt der jeweils verantwortliche Betreiber des
-Übertragungsnetzes der Bundesnetzagentur jährlich einen Bericht
-vor, in dem die technische Durchführbarkeit, Wirtschaftlichkeit
-und Umweltauswirkungen dieser Vorhaben bewertet werden. Der erste
-Bericht ist im zweiten Jahr nach der Inbetriebnahme des jeweils ersten
-Teilabschnitts eines solchen Vorhabens vorzulegen.
-
-(2) Der Bericht kann mit dem gemeinsamen Netzentwicklungsplan nach §
-12b Absatz 1 Satz 1 des Energiewirtschaftsgesetzes verbunden werden.
-
-(3) Auf Verlangen haben die Betreiber von Übertragungsnetzen dem
-Bundesministerium für Wirtschaft und Klimaschutz über den Sachstand
-bei den Vorhaben nach § 2 Absatz 2 bis 8 und die gewonnenen
-Erfahrungen mit dem Einsatz von Erdkabeln nach den §§ 3 und 4 zu
-berichten.
+Auf Verlangen haben die Betreiber von Übertragungsnetzen dem
+Bundesministerium für Wirtschaft und Energie über den Sachstand bei
+den Vorhaben nach § 2 Absatz 2 bis 8 und die gewonnenen Erfahrungen
+mit dem Einsatz von Erdkabeln nach den §§ 3 und 4 zu berichten.
 
 
 ## § 6 Rechtsschutz

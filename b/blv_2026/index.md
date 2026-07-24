@@ -13,7 +13,7 @@ Ausfertigungsdatum
 :   2026-03-11
 
 Fundstelle
-:   BGBl. I: 2026, Nr. 67, 2
+:   BGBl. I: 2026, Nr. 67, 2 (Nr. 115)
 
 Stand
 :   Ersetzt V 2030-7-3-1 v. 12.2.2009 I 284 (BLV 2009)
@@ -681,7 +681,7 @@ mindestens drei Jahre betragen haben.
 (2) Die Befähigung für den gehobenen technischen Verwaltungsdienst hat
 auch, wer einen der folgenden Vorbereitungsdienste abgeschlossen hat:
 
-1.  den gehobenen Verwaltungsinformationsdienst des Bundes oder
+1.  den gehobenen Verwaltungsinformatikdienst des Bundes oder
 
 2.  den gehobenen nichttechnischen Verwaltungsdienst des Bundes
     „Fachrichtung digitale Verwaltung und IT-Sicherheit“.
