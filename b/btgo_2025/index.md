@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl. I: 2025, Nr. 250
 
+Geändert durch
+:   Beschluss d. Bundestages v. 10.7.2026 gem. Bek. v. 22.7.2026 I Nr. 220
+
 Konstitutiv neugefasst durch
 :   Bek. v. 17.10.2025 I Nr. 250
 
@@ -334,10 +337,10 @@ Wahlen, die der Bundestag vorzunehmen hat, angewandt.
 Abstimmungen und Wahlen seiner Überzeugung und seinem Gewissen.
 
 (2) Die Mitglieder des Bundestages sind verpflichtet, an den
-Arbeiten des Bundestages teilzunehmen. An jedem Sitzungstag wird
-eine Anwesenheitsliste ausgelegt, in die sich die Mitglieder des
-Bundestages einzutragen haben. Die Folgen der Nichteintragung und der
-Nichtbeteiligung an einer namentlichen Abstimmung ergeben sich aus dem
+Arbeiten des Bundestages teilzunehmen. Die Anwesenheit der
+Mitglieder des Bundestages wird an jedem Sitzungstag nach Maßgabe des
+Abgeordnetengesetzes erfasst. Die Folgen der Nichterfassung und der
+Nichtteilnahme an einer namentlichen Abstimmung ergeben sich aus dem
 Abgeordnetengesetz.
 
 
@@ -652,7 +655,7 @@ Nennung des Namens zur Ordnung rufen. Der Ordnungsruf und der Anlass
 hierzu dürfen nachfolgend nicht behandelt werden. Ist ein Mitglied
 des Bundestages dreimal während einer Sitzung zur Ordnung gerufen
 worden, verweist es der sitzungsleitende Präsident für die Dauer der
-Sitzung aus dem Saal. § 38 Absatz 1 Satz 3 bis 5 sowie Absatz 3 bis 5
+Sitzung aus dem Saal. § 38 Absatz 1 Satz 3 bis 4 sowie Absatz 3 bis 5
 gilt entsprechend.
 
 (3) Ein Ordnungsruf kann im Einzelfall auch nachträglich bis zum Ende
@@ -704,7 +707,7 @@ betroffene Mitglied auch dann nicht der Aufforderung nach, unterbricht
 der sitzungsleitende Präsident die Sitzung und lässt den Ausschluss
 durchsetzen. Nach Wiedereröffnung der Sitzung hat der sitzungsleitende
 Präsident über die Dauer der Verlängerung des Ausschlusses zu
-befinden. Eine Begrenzung des Ausschlusses nach Absatz 1 Satz 5 ist in
+befinden. Eine Begrenzung des Ausschlusses nach Absatz 1 Satz 4 ist in
 diesem Fall nicht möglich.
 
 (4) Versucht das betroffene Mitglied, widerrechtlich an den Sitzungen

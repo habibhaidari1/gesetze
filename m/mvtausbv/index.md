@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2017, 3834 (2018 I 201)
 
+Geändert durch
+:   Art. 1 V v. 21.7.2026 I Nr. 217
+
 Stand
 :   Ersetzt V 806-21-1-233 v. 28.5.1997 I 1260 (GießVerfMAusbV 1997)
 
@@ -146,13 +149,14 @@ Nichteisenmetallumformung sind:
 integrativ zu vermittelnden Fertigkeiten, Kenntnisse und Fähigkeiten
 sind:
 
-1.  Berufsbildung sowie Arbeits- und Tarifrecht,
+1.  Organisation des Ausbildungsbetriebes, Berufsbildung sowie Arbeits-
+    und Tarifrecht,
 
-2.  Aufbau und Organisation des Ausbildungsbetriebes,
+2.  Sicherheit und Gesundheit bei der Arbeit,
 
-3.  Sicherheit und Gesundheitsschutz bei der Arbeit,
+3.  Umweltschutz und Nachhaltigkeit,
 
-4.  Umweltschutz,
+4.  digitalisierte Arbeitswelt,
 
 5.  Durchführen von betrieblicher und technischer Kommunikation sowie
     Informationsverarbeitung,
@@ -329,14 +333,32 @@ dass er in der Lage ist,
 8.  Instandhaltungserfordernisse festzustellen und notwendige Maßnahmen
     einzuleiten.
 
-(2) Der Prüfling soll eine Arbeitsaufgabe durchführen und mit
-praxisbezogenen Unterlagen dokumentieren. Die Arbeitsaufgabe kann
-aus mehreren Teilaufgaben bestehen. Während der Durchführung der
-Arbeitsaufgabe wird mit dem Prüfling ein situatives Fachgespräch
-über die Arbeitsaufgabe geführt. Das situative Fachgespräch kann aus
-mehreren Gesprächsphasen bestehen.
+(2) Der Ausbildende wählt eine der beiden Prüfungsvarianten nach
+Absatz 3 oder 4 aus und unterrichtet hierüber den Prüfling. Der
+Prüfling teilt der zuständigen Stelle die gewählte Prüfungsvariante
+mit der Anmeldung zur Prüfung mit.
 
-(3) Die Prüfungszeit beträgt insgesamt vier Stunden. Das situative
+(3) In der Prüfungsvariante 1 bearbeitet der Prüfling eine
+Arbeitsaufgabe und dokumentiert dies mit praxisbezogenen Unterlagen.
+Die Arbeitsaufgabe kann aus mehreren Teilaufgaben bestehen.
+Während der Durchführung der Arbeitsaufgabe wird mit dem Prüfling
+ein situatives Fachgespräch über die Arbeitsaufgabe geführt. Das
+situative Fachgespräch kann aus mehreren Gesprächsphasen bestehen.
+Die Prüfungszeit beträgt insgesamt vier Stunden. Das situative
+Fachgespräch dauert höchstens 30 Minuten.
+
+(4) In der Prüfungsvariante 2 bearbeitet der Prüfling einen
+betrieblichen Auftrag und dokumentiert dies mit praxisbezogenen
+Unterlagen. Der Prüfling hat dem Prüfungsausschuss vor der
+Durchführung des betrieblichen Auftrags die Aufgabenstellung
+einschließlich des geplanten Bearbeitungszeitraums zur Genehmigung
+vorzulegen. Nach der Durchführung des betrieblichen Auftrags wird
+mit dem Prüfling auf der Grundlage der praxisbezogenen Unterlagen ein
+auftragsbezogenes Fachgespräch über den betrieblichen Auftrag geführt.
+Der Prüfungsausschuss bewertet auf Grundlage des Fachgesprächs die
+prozessrelevanten Qualifikationen des Prüflings in Bezug auf die
+Auftragsdurchführung. Die Prüfungszeit beträgt für die Durchführung
+des betrieblichen Auftrags insgesamt 10 Stunden. Das auftragsbezogene
 Fachgespräch dauert höchstens 30 Minuten.
 
 
@@ -412,20 +434,12 @@ die Aufgaben schriftlich bearbeiten.
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der
 Fachrichtung Eisen- und Stahlmetallurgie wie folgt zu gewichten:
 
-1.  | Metalltechnik | mit 30 Prozent, |
-    | --- | --- |
-
-2.  | Arbeitsauftrag | mit 40 Prozent, |
-    | --- | --- |
-
-3.  | Auftrags- und Fertigungsplanung | mit 10 Prozent, |
-    | --- | --- |
-
-4.  | Eisen- und stahl- metallurgische Prozesse | mit 10 Prozent sowie |
-    | --- | --- |
-
-5.  | Wirtschafts- und Sozialkunde | mit 10 Prozent. |
-    | --- | --- |
+| 1. | Metalltechnik | mit 30 Prozent, |
+| --- | --- | --- |
+| 2. | Arbeitsauftrag | mit 40 Prozent, |
+| 3. | Auftrags- und Fertigungsplanung | mit 10 Prozent, |
+| 4. | Eisen- und stahlmetallurgische Prozesse | mit 10 Prozent sowie |
+| 5. | Wirtschafts- und Sozialkunde | mit 10 Prozent. |
 
 (2) Die Abschlussprüfung ist bestanden, wenn die Prüfungsleistungen
 wie folgt bewertet worden sind:
@@ -441,10 +455,14 @@ wie folgt bewertet worden sind:
 
 5.  in keinem Prüfungsbereich von Teil 2 mit „ungenügend“.
 
+Über das Bestehen ist ein Beschluss nach § 42 Absatz 1 Nummer 3 des
+Berufsbildungsgesetzes zu fassen.
+
 (3) Auf Antrag des Prüflings ist die Prüfung in einem der
 Prüfungsbereiche „Auftrags- und Fertigungsplanung“, „Eisen- und
 stahlmetallurgische Prozesse“ oder „Wirtschafts- und Sozialkunde“
-durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
+durch eine mündliche Ergänzungsprüfung mit einer Dauer von etwa 15
+Minuten zu ergänzen, wenn
 
 1.  der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden
     ist und
@@ -452,9 +470,10 @@ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 2.  die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung
     den Ausschlag geben kann.
 
-Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das
-bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung
-im Verhältnis 2:1 zu gewichten.
+Bei der Ermittlung des Ergebnisses für den Prüfungsbereich sind das
+bisherige Ergebnis der schriftlich zu bearbeitenden Aufgaben und
+das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2 : 1
+zu gewichten.
 
 
 ### Unterabschnitt 4 - Teil 2 der Abschlussprüfung in der Fachrichtung Stahlumformung
@@ -525,14 +544,32 @@ dass er in der Lage ist,
 8.  Instandhaltungserfordernisse festzustellen und notwendige Maßnahmen
     einzuleiten.
 
-(2) Der Prüfling soll eine Arbeitsaufgabe durchführen und mit
-praxisbezogenen Unterlagen dokumentieren. Die Arbeitsaufgabe kann
-aus mehreren Teilaufgaben bestehen. Während der Durchführung der
-Arbeitsaufgabe wird mit dem Prüfling ein situatives Fachgespräch
-über die Arbeitsaufgabe geführt. Das situative Fachgespräch kann aus
-mehreren Gesprächsphasen bestehen.
+(2) Der Ausbildende wählt eine der beiden Prüfungsvarianten nach
+Absatz 3 oder 4 aus und unterrichtet hierüber den Prüfling. Der
+Prüfling teilt der zuständigen Stelle die gewählte Prüfungsvariante
+mit der Anmeldung zur Prüfung mit.
 
-(3) Die Prüfungszeit beträgt insgesamt vier Stunden. Das situative
+(3) In der Prüfungsvariante 1 bearbeitet der Prüfling eine
+Arbeitsaufgabe und dokumentiert dies mit praxisbezogenen Unterlagen.
+Die Arbeitsaufgabe kann aus mehreren Teilaufgaben bestehen.
+Während der Durchführung der Arbeitsaufgabe wird mit dem Prüfling
+ein situatives Fachgespräch über die Arbeitsaufgabe geführt. Das
+situative Fachgespräch kann aus mehreren Gesprächsphasen bestehen.
+Die Prüfungszeit beträgt insgesamt vier Stunden. Das situative
+Fachgespräch dauert höchstens 30 Minuten.
+
+(4) In der Prüfungsvariante 2 bearbeitet der Prüfling einen
+betrieblichen Auftrag und dokumentiert dies mit praxisbezogenen
+Unterlagen. Der Prüfling hat dem Prüfungsausschuss vor der
+Durchführung des betrieblichen Auftrags die Aufgabenstellung
+einschließlich des geplanten Bearbeitungszeitraums zur Genehmigung
+vorzulegen. Nach der Durchführung des betrieblichen Auftrags wird
+mit dem Prüfling auf der Grundlage der praxisbezogenen Unterlagen ein
+auftragsbezogenes Fachgespräch über den betrieblichen Auftrag geführt.
+Der Prüfungsausschuss bewertet auf Grundlage des Fachgesprächs die
+prozessrelevanten Qualifikationen des Prüflings in Bezug auf die
+Auftragsdurchführung. Die Prüfungszeit beträgt für die Durchführung
+des betrieblichen Auftrags insgesamt 10 Stunden. Das auftragsbezogene
 Fachgespräch dauert höchstens 30 Minuten.
 
 
@@ -611,20 +648,12 @@ die Aufgaben schriftlich bearbeiten.
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der
 Fachrichtung Stahlumformung wie folgt zu gewichten:
 
-1.  | Metalltechnik | mit 30 Prozent, |
-    | --- | --- |
-
-2.  | Arbeitsauftrag | mit 40 Prozent, |
-    | --- | --- |
-
-3.  | Auftrags- und Fertigungsplanung | mit 10 Prozent, |
-    | --- | --- |
-
-4.  | Stahlumformprozesse | mit 10 Prozent sowie |
-    | --- | --- |
-
-5.  | Wirtschafts- und Sozialkunde | mit 10 Prozent. |
-    | --- | --- |
+| 1. | Metalltechnik | mit 30 Prozent, |
+| --- | --- | --- |
+| 2. | Arbeitsauftrag | mit 40 Prozent, |
+| 3. | Auftrags- und Fertigungsplanung | mit 10 Prozent, |
+| 4. | Stahlumformprozesse | mit 10 Prozent sowie |
+| 5. | Wirtschafts- und Sozialkunde | mit 10 Prozent. |
 
 (2) Die Abschlussprüfung ist bestanden, wenn die Prüfungsleistungen
 wie folgt bewertet worden sind:
@@ -640,10 +669,14 @@ wie folgt bewertet worden sind:
 
 5.  in keinem Prüfungsbereich von Teil 2 mit „ungenügend“.
 
+Über das Bestehen ist ein Beschluss nach § 42 Absatz 1 Nummer 3 des
+Berufsbildungsgesetzes zu fassen.
+
 (3) Auf Antrag des Prüflings ist die Prüfung in einem
 der Prüfungsbereiche „Auftrags- und Fertigungsplanung“,
 „Stahlumformprozesse“ oder „Wirtschafts- und Sozialkunde“ durch eine
-mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
+mündliche Ergänzungsprüfung mit einer Dauer von etwa 15 Minuten zu
+ergänzen, wenn
 
 1.  der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden
     ist und
@@ -651,9 +684,10 @@ mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 2.  die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung
     den Ausschlag geben kann.
 
-Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das
-bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung
-im Verhältnis 2:1 zu gewichten.
+Bei der Ermittlung des Ergebnisses für den Prüfungsbereich sind das
+bisherige Ergebnis der schriftlich zu bearbeitenden Aufgaben und
+das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2 : 1
+zu gewichten.
 
 
 ### Unterabschnitt 5 - Teil 2 der Abschlussprüfung in der Fachrichtung Nichteisenmetallurgie
@@ -724,14 +758,32 @@ dass er in der Lage ist,
 8.  Instandhaltungserfordernisse festzustellen und notwendige Maßnahmen
     einzuleiten.
 
-(2) Der Prüfling soll eine Arbeitsaufgabe durchführen und mit
-praxisbezogenen Unterlagen dokumentieren. Die Arbeitsaufgabe kann
-aus mehreren Teilaufgaben bestehen. Während der Durchführung der
-Arbeitsaufgabe wird mit dem Prüfling ein situatives Fachgespräch
-über die Arbeitsaufgabe geführt. Das situative Fachgespräch kann aus
-mehreren Gesprächsphasen bestehen.
+(2) Der Ausbildende wählt eine der beiden Prüfungsvarianten nach
+Absatz 3 oder 4 aus und unterrichtet hierüber den Prüfling. Der
+Prüfling teilt der zuständigen Stelle die gewählte Prüfungsvariante
+mit der Anmeldung zur Prüfung mit.
 
-(3) Die Prüfungszeit beträgt insgesamt vier Stunden. Das situative
+(3) In der Prüfungsvariante 1 bearbeitet der Prüfling eine
+Arbeitsaufgabe und dokumentiert dies mit praxisbezogenen Unterlagen.
+Die Arbeitsaufgabe kann aus mehreren Teilaufgaben bestehen.
+Während der Durchführung der Arbeitsaufgabe wird mit dem Prüfling
+ein situatives Fachgespräch über die Arbeitsaufgabe geführt. Das
+situative Fachgespräch kann aus mehreren Gesprächsphasen bestehen.
+Die Prüfungszeit beträgt insgesamt vier Stunden. Das situative
+Fachgespräch dauert höchstens 30 Minuten.
+
+(4) In der Prüfungsvariante 2 bearbeitet der Prüfling einen
+betrieblichen Auftrag und dokumentiert dies mit praxisbezogenen
+Unterlagen. Der Prüfling hat dem Prüfungsausschuss vor der
+Durchführung des betrieblichen Auftrags die Aufgabenstellung
+einschließlich des geplanten Bearbeitungszeitraums zur Genehmigung
+vorzulegen. Nach der Durchführung des betrieblichen Auftrags wird
+mit dem Prüfling auf der Grundlage der praxisbezogenen Unterlagen ein
+auftragsbezogenes Fachgespräch über den betrieblichen Auftrag geführt.
+Der Prüfungsausschuss bewertet auf Grundlage des Fachgesprächs die
+prozessrelevanten Qualifikationen des Prüflings in Bezug auf die
+Auftragsdurchführung. Die Prüfungszeit beträgt für die Durchführung
+des betrieblichen Auftrags insgesamt 10 Stunden. Das auftragsbezogene
 Fachgespräch dauert höchstens 30 Minuten.
 
 
@@ -810,20 +862,12 @@ die Aufgaben schriftlich bearbeiten.
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der
 Fachrichtung Nichteisenmetallurgie wie folgt zu gewichten:
 
-1.  | Metalltechnik | mit 30 Prozent, |
-    | --- | --- |
-
-2.  | Arbeitsauftrag | mit 40 Prozent, |
-    | --- | --- |
-
-3.  | Auftrags- und Fertigungsplanung | mit 10 Prozent, |
-    | --- | --- |
-
-4.  | Nichteisenmetallurgische Prozesse | mit 10 Prozent sowie |
-    | --- | --- |
-
-5.  | Wirtschafts- und Sozialkunde | mit 10 Prozent. |
-    | --- | --- |
+| 1. | Metalltechnik | mit 30 Prozent, |
+| --- | --- | --- |
+| 2. | Arbeitsauftrag | mit 40 Prozent, |
+| 3. | Auftrags- und Fertigungsplanung | mit 10 Prozent, |
+| 4. | Nichteisenmetallurgische Prozesse | mit 10 Prozent sowie |
+| 5. | Wirtschafts- und Sozialkunde | mit 10 Prozent. |
 
 (2) Die Abschlussprüfung ist bestanden, wenn die Prüfungsleistungen
 wie folgt bewertet worden sind:
@@ -839,11 +883,14 @@ wie folgt bewertet worden sind:
 
 5.  in keinem Prüfungsbereich von Teil 2 mit „ungenügend“.
 
+Über das Bestehen ist ein Beschluss nach § 42 Absatz 1 Nummer 3 des
+Berufsbildungsgesetzes zu fassen.
+
 (3) Auf Antrag des Prüflings ist die Prüfung in einem
 der Prüfungsbereiche „Auftrags- und Fertigungsplanung“,
 „Nichteisenmetallurgische Prozesse“ oder „Wirtschafts- und
-Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu
-ergänzen, wenn
+Sozialkunde“ durch eine mündliche Ergänzungsprüfung mit einer Dauer
+von etwa 15 Minuten zu ergänzen, wenn
 
 1.  der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden
     ist und
@@ -851,9 +898,10 @@ ergänzen, wenn
 2.  die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung
     den Ausschlag geben kann.
 
-Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das
-bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung
-im Verhältnis 2:1 zu gewichten.
+Bei der Ermittlung des Ergebnisses für den Prüfungsbereich sind das
+bisherige Ergebnis der schriftlich zu bearbeitenden Aufgaben und
+das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2 : 1
+zu gewichten.
 
 
 ### Unterabschnitt 6 - Teil 2 der Abschlussprüfung in der Fachrichtung Nichteisenmetallumformung
@@ -924,14 +972,32 @@ dass er in der Lage ist,
 8.  Instandhaltungserfordernisse festzustellen und notwendige Maßnahmen
     einzuleiten.
 
-(2) Der Prüfling soll eine Arbeitsaufgabe durchführen und mit
-praxisbezogenen Unterlagen dokumentieren. Die Arbeitsaufgabe kann
-aus mehreren Teilaufgaben bestehen. Während der Durchführung der
-Arbeitsaufgabe wird mit dem Prüfling ein situatives Fachgespräch
-über die Arbeitsaufgabe geführt. Das situative Fachgespräch kann aus
-mehreren Gesprächsphasen bestehen.
+(2) Der Ausbildende wählt eine der beiden Prüfungsvarianten nach
+Absatz 3 oder 4 aus und unterrichtet hierüber den Prüfling. Der
+Prüfling teilt der zuständigen Stelle die gewählte Prüfungsvariante
+mit der Anmeldung zur Prüfung mit.
 
-(3) Die Prüfungszeit beträgt insgesamt vier Stunden. Das situative
+(3) In der Prüfungsvariante 1 bearbeitet der Prüfling eine
+Arbeitsaufgabe und dokumentiert dies mit praxisbezogenen Unterlagen.
+Die Arbeitsaufgabe kann aus mehreren Teilaufgaben bestehen.
+Während der Durchführung der Arbeitsaufgabe wird mit dem Prüfling
+ein situatives Fachgespräch über die Arbeitsaufgabe geführt. Das
+situative Fachgespräch kann aus mehreren Gesprächsphasen bestehen.
+Die Prüfungszeit beträgt insgesamt vier Stunden. Das situative
+Fachgespräch dauert höchstens 30 Minuten.
+
+(4) In der Prüfungsvariante 2 bearbeitet der Prüfling einen
+betrieblichen Auftrag und dokumentiert dies mit praxisbezogenen
+Unterlagen. Der Prüfling hat dem Prüfungsausschuss vor der
+Durchführung des betrieblichen Auftrags die Aufgabenstellung
+einschließlich des geplanten Bearbeitungszeitraums zur Genehmigung
+vorzulegen. Nach der Durchführung des betrieblichen Auftrags wird
+mit dem Prüfling auf der Grundlage der praxisbezogenen Unterlagen ein
+auftragsbezogenes Fachgespräch über den betrieblichen Auftrag geführt.
+Der Prüfungsausschuss bewertet auf Grundlage des Fachgesprächs die
+prozessrelevanten Qualifikationen des Prüflings in Bezug auf die
+Auftragsdurchführung. Die Prüfungszeit beträgt für die Durchführung
+des betrieblichen Auftrags insgesamt 10 Stunden. Das auftragsbezogene
 Fachgespräch dauert höchstens 30 Minuten.
 
 
@@ -1010,20 +1076,12 @@ die Aufgaben schriftlich bearbeiten.
 (1) Die Bewertungen der einzelnen Prüfungsbereiche sind in der
 Fachrichtung Nichteisenmetallumformung wie folgt zu gewichten:
 
-1.  | Metalltechnik | mit 30 Prozent, |
-    | --- | --- |
-
-2.  | Arbeitsauftrag | mit 40 Prozent, |
-    | --- | --- |
-
-3.  | Auftrags- und Fertigungsplanung | mit 10 Prozent, |
-    | --- | --- |
-
-4.  | Nichteisenmetallumform- prozesse | mit 10 Prozent sowie |
-    | --- | --- |
-
-5.  | Wirtschafts- und Sozialkunde | mit 10 Prozent. |
-    | --- | --- |
+| 1. | Metalltechnik | mit 30 Prozent, |
+| --- | --- | --- |
+| 2. | Arbeitsauftrag | mit 40 Prozent, |
+| 3. | Auftrags- und Fertigungsplanung | mit 10 Prozent, |
+| 4. | Nichteisenmetallumformprozesse | mit 10 Prozent sowie |
+| 5. | Wirtschafts- und Sozialkunde | mit 10 Prozent. |
 
 (2) Die Abschlussprüfung ist bestanden, wenn die Prüfungsleistungen
 wie folgt bewertet worden sind:
@@ -1039,10 +1097,14 @@ wie folgt bewertet worden sind:
 
 5.  in keinem Prüfungsbereich von Teil 2 mit „ungenügend“.
 
+Über das Bestehen ist ein Beschluss nach § 42 Absatz 1 Nummer 3 des
+Berufsbildungsgesetzes zu fassen.
+
 (3) Auf Antrag des Prüflings ist die Prüfung in einem
 der Prüfungsbereiche „Auftrags- und Fertigungsplanung“,
 „Nichteisenmetallumformprozesse“ oder „Wirtschafts- und Sozialkunde“
-durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
+durch eine mündliche Ergänzungsprüfung mit einer Dauer von etwa 15
+Minuten zu ergänzen, wenn
 
 1.  der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden
     ist und
@@ -1050,9 +1112,10 @@ durch eine mündliche Prüfung von etwa 15 Minuten zu ergänzen, wenn
 2.  die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung
     den Ausschlag geben kann.
 
-Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das
-bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung
-im Verhältnis 2:1 zu gewichten.
+Bei der Ermittlung des Ergebnisses für den Prüfungsbereich sind das
+bisherige Ergebnis der schriftlich zu bearbeitenden Aufgaben und
+das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis 2 : 1
+zu gewichten.
 
 
 ## Abschnitt 3 - Weitere Berufsausbildung
@@ -1073,13 +1136,39 @@ Dauer der Berufsausbildung nach dieser Verordnung angerechnet werden.
 ## Abschnitt 4 - Schlussvorschriften
 
 
-### § 38 Inkrafttreten, Außerkrafttreten
+### § 38 Übergangsvorschriften
 
-Diese Verordnung tritt am 1. August 2018 in Kraft. Gleichzeitig tritt
-die Verordnung über die Berufsausbildung zum Verfahrensmechaniker/zur
-Verfahrensmechanikerin in der Hütten- und Halbzeugindustrie vom 28.
-Mai 1997 (BGBl. I S. 1260), die durch Artikel 2 der Verordnung vom 2.
-Juli 2015 (BGBl. I S. 1134) geändert worden ist, außer Kraft.
+(1) § 11 gilt für Berufsausbildungsverhältnisse in der Fachrichtung
+Eisen- und Stahlmetallurgie, die am 28. Juli 2026 bestehen, sofern
+Teil 2 der Abschlussprüfung zu diesem Zeitpunkt noch nicht begonnen
+wurde. Für Wiederholungsprüfungen gilt § 11 für die am 28. Juli 2026
+bestehenden Berufsausbildungsverhältnisse in der Fachrichtung Eisen-
+und Stahlmetallurgie, sofern die Wiederholungsprüfung zu diesem
+Zeitpunkt noch nicht begonnen wurde.
+
+(2) § 18 gilt für Berufsausbildungsverhältnisse in der Fachrichtung
+Stahlumformung, die am 28. Juli 2026 bestehen, sofern Teil 2 der
+Abschlussprüfung zu diesem Zeitpunkt noch nicht begonnen wurde. Für
+Wiederholungsprüfungen gilt § 18 für die am 28. Juli 2026 bestehenden
+Berufsausbildungsverhältnisse in der Fachrichtung Stahlumformung,
+sofern die Wiederholungsprüfung zu diesem Zeitpunkt noch nicht
+begonnen wurde.
+
+(3) § 25 gilt für Berufsausbildungsverhältnisse in der Fachrichtung
+Nichteisenmetallurgie, die am 28. Juli 2026 bestehen, sofern Teil
+2 der Abschlussprüfung zu diesem Zeitpunkt noch nicht begonnen
+wurde. Für Wiederholungsprüfungen gilt § 25 für die am 28. Juli
+2026 bestehenden Berufsausbildungsverhältnisse in der Fachrichtung
+Nichteisenmetallurgie, sofern die Wiederholungsprüfung zu diesem
+Zeitpunkt noch nicht begonnen wurde.
+
+(4) § 32 gilt für Berufsausbildungsverhältnisse in der Fachrichtung
+Nichteisenmetallumformung, die am 28. Juli 2026 bestehen, sofern
+Teil 2 der Abschlussprüfung zu diesem Zeitpunkt noch nicht begonnen
+wurde. Für Wiederholungsprüfungen gilt § 32 für die am 28. Juli
+2026 bestehenden Berufsausbildungsverhältnisse in der Fachrichtung
+Nichteisenmetallumformung, sofern die Wiederholungsprüfung zu diesem
+Zeitpunkt noch nicht begonnen wurde.
 
 
 ### Anlage (zu § 3 Absatz 1)Ausbildungsrahmenplan für die Berufsausbildung zum Verfahrenstechnologen Metall und zur Verfahrenstechnologin Metall
@@ -1135,20 +1224,19 @@ Juli 2015 (BGBl. I S. 1134) geändert worden ist, außer Kraft.
 | 1 | Vorbereiten und Lagern von Vormaterialien (§ 4 Absatz 6 Nummer 1) | a) Vormaterialien unterscheiden und bereitstellen b) Fehler am Vormaterial feststellen, beurteilen und beseitigen c) Vormaterial anschlagen, transportieren, lagern und sichern |  | 12 |
 | 2 | Umformen von Nichteisenmetallen (§ 4 Absatz 6 Nummer 2) | a) Nichteisenmetalle hinsichtlich ihrer physikalischen, chemischen und technologischen Eigenschaften unterscheiden und Unterschiede bei der Umformung berücksichtigen b) Werkstoff- und Gütenormen anwenden c) Verfahren für das Ziehen, Walzen, Pressen und Schmieden unterscheiden d) Werkzeuge auswählen, transportieren und montieren e) Fehler an Werkzeugen feststellen und beurteilen sowie beseitigen oder ihre Beseitigung veranlassen f) Eigenschaften der Werkzeugwerkstoffe für Verfahren der Warm- oder Kaltumformung berücksichtigen g) Produktionsanlagen und Hilfseinrichtungen vorbereiten, anhand von Berechnungen einstellen, bedienen und nachbereiten h) Umformprozesse überwachen und steuern i) Proben nehmen und mechanisch-technologische Prüfungen durchführen j) Maß-, Form- und Oberflächenprüfungen durchführen k) Fehlerarten unterscheiden, Fehler erkennen, ihre Ursachen feststellen sowie Maßnahmen zur Beseitigung einleiten l) Anlagen zur Wärmebehandlung bedienen m) Arten der Oberflächenbehandlung nach Verwendungszweck unterscheiden n) Anlagen zur mechanischen und chemischen Oberflächenbehandlung der Erzeugnisse unterscheiden o) Erzeugnisse adjustieren, der weiteren Verwendung zuführen und für den Versand vorbereiten |  | 48 |
 
-| Lfd. Nr. | Teil des Ausbildungsberufsbildes | Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten | Zeitliche Richtwerte in Wochen im |  |
+| **Abschnitt F: fachrichtungsübergreifende, integrativ zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten** |  |  |  |  |
 | --- | --- | --- | --- | --- |
+| Lfd. Nr. | Teil des Ausbildungsberufsbildes | Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten | Zeitliche Richtwerte in Wochen im |  |
 | 1. bis 18. Monat | 19. bis 42. Monat |  |  |  |
 | 1 | 2 | 3 | 4 |  |
-| 1 | Berufsbildung sowie Arbeits- und Tarifrecht (§ 4 Absatz 7 Nummer 1) | a) Bedeutung des Ausbildungsvertrages erklären, insbesondere Abschluss, Dauer und Beendigung b) gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen c) Möglichkeiten der beruflichen Fortbildung nennen d) wesentliche Teile des Arbeitsvertrages nennen e) wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden Tarifverträge nennen |  |  |
-| 2 | Aufbau und Organisation des Ausbildungsbetriebes (§ 4 Absatz 7 Nummer 2) | a) Aufbau und Aufgaben des Ausbildungsbetriebes erläutern b) Grundfunktionen des Ausbildungsbetriebes wie Beschaffung, Fertigung, Absatz und Verwaltung erklären |  |  |
-|  |  | c) Beziehungen des Ausbildungsbetriebes und seiner Belegschaft zu Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften nennen d) Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des Ausbildungsbetriebes beschreiben |  |  |
-| 3 | Sicherheit und Gesundheitsschutz bei der Arbeit (§ 4 Absatz 7 Nummer 3) | a) Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen und Maßnahmen zur Vermeidung der Gefährdung ergreifen b) berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften anwenden c) Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen einleiten d) Vorschriften des vorbeugenden Brandschutzes anwenden sowie Verhaltensweisen bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen | während der gesamten Ausbildung |  |
-| 4 | Umweltschutz (§ 4 Absatz 7 Nummer 4) | Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen Einwirkungsbereich beitragen, insbesondere  a) mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen Beitrag zum Umweltschutz an Beispielen erklären b) für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes anwenden c) Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und Materialverwendung nutzen d) Abfälle vermeiden sowie Stoffe und Materialien einer umweltschonenden Entsorgung zuführen |  |  |
-| 5 | Durchführen von betrieblicher und technischer Kommunikation sowie Informationsverarbeitung (§ 4 Absatz 7 Nummer 5) | a) Informationsquellen auswählen und Informationen, insbesondere aus digitalen Medien, beschaffen und bewerten b) technische Zeichnungen, Stücklisten, Tabellen, Diagramme, Handbücher und Bedienungshinweise lesen, auswerten und anwenden sowie Skizzen anfertigen c) Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften zusammenstellen, ergänzen, auswerten und anwenden und technische Regelwerke beachten d) Konflikte feststellen und zu Konfliktlösungen beitragen | 4 |  |
-| e) Daten erfassen, aufbereiten, analysieren und auswerten f) Daten und Dokumente unter Einhaltung des Datenschutzes pflegen und sichern g) Gespräche mit Kunden, Kolleginnen und Kollegen, Vorgesetzten und im Team situationsgerecht und zielorientiert führen h) Sachverhalte darstellen und Protokolle anfertigen i) englische Fachbegriffe in der Kommunikation anwenden j) Informationen auch aus englischsprachigen technischen Unterlagen oder Dateien entnehmen und verwenden |  | 6 |  |  |
-|  |  | k) Besprechungen organisieren und moderieren und Ergebnisse der Besprechungen dokumentieren und präsentieren l) informationstechnische Systeme für die Produktion unterscheiden, ihrer Funktion zuordnen und bedienen m) Ablauf- und Prozesspläne lesen und anwenden n) digitale Medien entsprechend den betrieblichen Bedürfnissen und Zwecken nutzen o) mit digitalisierten Steuerungsmechanismen für Produktion und Logistik interagieren |  |  |
+| 1 | Organisation des Ausbildungsbetriebes, Berufsbildung sowie Arbeits- und Tarifrecht (§ 4 Absatz 7 Nummer 1) | a) den Aufbau und die grundlegenden Arbeits- und Geschäftsprozesse des Ausbildungsbetriebes erläutern b) Rechte und Pflichten aus dem Ausbildungsvertrag sowie Dauer und Beendigung des Ausbildungsverhältnisses erläutern und Aufgaben der im System der dualen Berufsausbildung Beteiligten beschreiben c) die Bedeutung, die Funktion und die Inhalte der Ausbildungsordnung und des betrieblichen Ausbildungsplans erläutern sowie zu deren Umsetzung beitragen d) die für den Ausbildungsbetrieb geltenden arbeits-, sozial-, tarif- und mitbestimmungsrechtlichen Vorschriften erläutern e) Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder personalvertretungsrechtlichen Organe des Ausbildungsbetriebes erläutern f) Beziehungen des Ausbildungsbetriebes und seiner Beschäftigten zu Wirtschaftsorganisationen und Gewerkschaften erläutern g) Positionen der eigenen Entgeltabrechnung erläutern h) wesentliche Inhalte von Arbeitsverträgen erläutern i) Möglichkeiten des beruflichen Aufstiegs und der beruflichen Weiterentwicklung erläutern | während der gesamten Ausbildung |  |
+| 2 | Sicherheit und Gesundheit bei der Arbeit (§ 4 Absatz 7 Nummer 2) | a) Rechte und Pflichten aus den berufsbezogenen Arbeitsschutz- und Unfallverhütungsvorschriften kennen und diese Vorschriften anwenden b) Gefährdungen von Sicherheit und Gesundheit am Arbeitsplatz und auf dem Arbeitsweg prüfen und beurteilen c) sicheres und gesundheitsgerechtes Arbeiten erläutern d) technische und organisatorische Maßnahmen zur Vermeidung von Gefährdungen sowie von psychischen und physischen Belastungen für sich und andere, auch präventiv, ergreifen e) ergonomische Arbeitsweisen beachten und anwenden f) Verhaltensweisen bei Unfällen beschreiben und erste Maßnahmen bei Unfällen einleiten g) betriebsbezogene Vorschriften des vorbeugenden Brandschutzes anwenden, Verhaltensweisen bei Bränden beschreiben und erste Maßnahmen zur Brandbekämpfung ergreifen |  |  |
+| 3 | Umweltschutz und Nachhaltigkeit (§ 4 Absatz 7 Nummer 3) | a) Möglichkeiten zur Vermeidung betriebsbedingter Belastungen für Umwelt und Gesellschaft im eigenen Aufgabenbereich erkennen und zu deren Weiterentwicklung beitragen b) bei Arbeitsprozessen und im Hinblick auf Produkte, Waren oder Dienstleistungen Materialien und Energie unter wirtschaftlichen, umweltverträglichen und sozialen Gesichtspunkten der Nachhaltigkeit nutzen c) für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes einhalten d) Abfälle vermeiden sowie Stoffe und Materialien einer umweltschonenden Wiederverwertung oder Entsorgung zuführen e) Vorschläge für nachhaltiges Handeln für den eigenen Arbeitsbereich entwickeln f) unter Einhaltung betrieblicher Regelungen im Sinne einer ökonomischen, ökologischen und sozial nachhaltigen Entwicklung zusammenarbeiten und adressatengerecht kommunizieren |  |  |
+| 4 | Digitalisierte Arbeitswelt (§ 4 Absatz 7 Nummer 4) | a) mit eigenen und betriebsbezogenen Daten sowie mit Daten Dritter umgehen und dabei die Vorschriften zum Datenschutz und zur Datensicherheit einhalten b) Risiken bei der Nutzung von digitalen Medien und informationstechnischen Systemen einschätzen und bei deren Nutzung betriebliche Regelungen einhalten c) ressourcenschonend, adressatengerecht und effizient kommunizieren sowie Kommunikationsergebnisse dokumentieren d) Störungen in Kommunikationsprozessen erkennen und zu ihrer Lösung beitragen e) Informationen in digitalen Netzen recherchieren und aus digitalen Netzen beschaffen sowie Informationen, auch fremde, prüfen, bewerten und auswählen f) Lern- und Arbeitstechniken sowie Methoden des selbstgesteuerten Lernens anwenden, digitale Lernmedien nutzen und Erfordernisse des lebensbegleitenden Lernens erkennen und ableiten g) Aufgaben zusammen mit Beteiligten, einschließlich der Beteiligten anderer Arbeits- und Geschäftsbereiche, auch unter Nutzung digitaler Medien, planen, bearbeiten und gestalten h) Wertschätzung anderer unter Berücksichtigung gesellschaftlicher Vielfalt praktizieren |  |  |
+| 5 | Durchführen von betrieblicher und technischer Kommunikation sowie Informations- verarbeitung (§ 4 Absatz 7 Nummer 5) | a) Informationsquellen auswählen b) technische Zeichnungen, Stücklisten, Tabellen, Diagramme, Handbücher und Bedienungshinweise lesen, auswerten und anwenden sowie Skizzen anfertigen c) Dokumente sowie technische Unterlagen und berufsbezogene Vorschriften zusammenstellen, ergänzen, auswerten und anwenden und technische Regelwerke beachten d) Konflikte feststellen und zu Konfliktlösungen beitragen | 4 |  |
+| e) Daten erfassen, aufbereiten, analysieren und auswerten f) Daten und Dokumente unter Einhaltung des Datenschutzes pflegen und sichern g) Gespräche mit Kunden, Kolleginnen und Kollegen, Vorgesetzten und im Team situationsgerecht und zielorientiert führen h) Sachverhalte darstellen und Protokolle anfertigen i) englische Fachbegriffe in der Kommunikation anwenden j) Informationen auch aus englischsprachigen technischen Unterlagen oder Dateien entnehmen und verwenden k) Besprechungen organisieren und moderieren und Ergebnisse der Besprechungen dokumentieren und präsentieren l) informationstechnische Systeme für die Produktion unterscheiden, ihrer Funktion zuordnen und bedienen m) Ablauf- und Prozesspläne lesen und anwenden n) digitale Medien entsprechend den betrieblichen Bedürfnissen und Zwecken nutzen o) mit digitalisierten Steuerungsmechanismen für Produktion und Logistik interagieren |  | 6 |  |  |
 | 6 | Planen und Organisieren der Arbeit (§ 4 Absatz 7 Nummer 6) | a) Arbeitsabläufe und Teilaufgaben auch im Team planen und dabei technologische, wirtschaftliche, betriebliche und terminliche Vorgaben berücksichtigen b) Arbeitsplatz unter Berücksichtigung betrieblicher Vorgaben einrichten c) Werkzeuge, Hilfsmittel und Materialien auftragsbezogen auswählen, termingerecht anfordern, prüfen, transportieren und bereitstellen d) Prüfverfahren und Prüfmittel auswählen und anwenden und Einsatzfähigkeit von Prüfmitteln feststellen e) unterschiedliche Lerntechniken anwenden f) eigene Fähigkeiten einschätzen und Qualifizierungsmöglichkeiten nutzen | 8 |  |
-|  |  | g) Produktionsaufträge auf Umsetzbarkeit prüfen h) Aufgaben im Team planen und durchführen |  | 4 |
+| g) Produktionsaufträge auf Umsetzbarkeit prüfen h) Aufgaben im Team planen und durchführen |  | 4 |  |  |
 | 7 | Durchführen von qualitätssichernden Maßnahmen (§ 4 Absatz 7 Nummer 7) | a) Qualitätsabweichungen feststellen b) Einsatzfähigkeit der Prüfmittel feststellen c) Prüfverfahren und Prüfmittel nach Normen auswählen und anwenden | 2 |  |
-|  |  | d) Bedeutung der Qualitätssicherung für den Produktionsprozess sowie für die vor- und nachgeschalteten Bereiche beachten e) Qualitätssicherungssystem in Verbindung mit Qualitätsvorschriften anwenden f) Ursachen von Qualitätsmängeln systematisch suchen und beseitigen g) Arbeitsergebnisse und Prozesse prüfen, beurteilen und dokumentieren sowie zur kontinuierlichen Verbesserung von Arbeitsvorgängen im Betriebsablauf beitragen h) prozessbegleitende Prüfverfahren auswählen und durchführen und Ergebnisse der Prüfung beurteilen und dokumentieren i) Normen und Spezifikationen zur Qualitätssicherheit der Produkte einhalten j) Ergebnisse statistisch erfassen k) Auswirkungen von Qualitätsabweichungen auf vor- und nachgelagerte Bereiche beurteilen und dokumentieren |  | 4 |
+| d) Bedeutung der Qualitätssicherung für den Produktionsprozess sowie für die vor- und nachgeschalteten Bereiche beachten e) Qualitätssicherungssystem in Verbindung mit Qualitätsvorschriften anwenden f) Ursachen von Qualitätsmängeln systematisch suchen und beseitigen g) Arbeitsergebnisse und Prozesse prüfen, beurteilen und dokumentieren sowie zur kontinuierlichen Verbesserung von Arbeitsvorgängen im Betriebsablauf beitragen h) prozessbegleitende Prüfverfahren auswählen und durchführen und Ergebnisse der Prüfung beurteilen und dokumentieren i) Normen und Spezifikationen zur Qualitätssicherheit der Produkte einhalten j) Ergebnisse statistisch erfassen k) Auswirkungen von Qualitätsabweichungen auf vor- und nachgelagerte Bereiche beurteilen und dokumentieren |  | 4 |  |  |
 
