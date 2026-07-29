@@ -18,6 +18,9 @@ Fundstelle
 Geändert durch
 :   Art. 5 G v. 9.6.2021 I 1730
 
+Änderung durch
+:   Art. 20 G v. 22.7.2026 I Nr. 224 mWv 29.7.2026 noch nicht berücksichtigt
+
 
 ## § 1 Anwendungsbereich
 

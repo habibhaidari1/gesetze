@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 G v. 3.7.2024 I Nr. 224
 
+Änderung durch
+:   Art. 2 G v. 22.7.2026 I Nr. 224 mWv 29.7.2026 noch nicht berücksichtigt
+
 
 ## § 1 Ausbau des Schienenwegenetzes des Bundes
 

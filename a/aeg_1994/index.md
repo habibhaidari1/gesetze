@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 G v. 17.7.2025 I Nr. 164
 
+Änderung durch
+:   Art. 1 G v. 22.7.2026 I Nr. 224 mWv 29.7.2026 noch nicht berücksichtigt
+
 
 ## § 1 Anwendungsbereich, Wettbewerbsbedingungen
 

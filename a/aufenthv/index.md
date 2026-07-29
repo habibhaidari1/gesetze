@@ -18,6 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 26.5.2026 I Nr. 161
 
+Änderung durch
+:   Art. 4 G v 22.7.2026 I Nr. 222 mWv 29.7.2026 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 11 G v 22.7.2026 I Nr. 222 mWv 29.7.2026 bzw. mWv 1.5.2030 bzw. mit zukünftiger Wirkung noch nicht berücksichtigt
+
 
 ## Kapitel 1 - Allgemeine Bestimmungen
 

@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 G v. 22.12.2025 I Nr. 364; 2026 I Nr. 49
 
+Änderung durch
+:   Art. 3 G v. 21.7.2026 I Nr. 221 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1
 
@@ -594,13 +597,19 @@ nicht mehr erfüllt sind. Die Rechtsfolge nach Satz 1 tritt ein, wenn
     a)  eine nach den deutschen Gesetzen wirksame Feststellung des
         Nichtbestehens der Vaterschaft,
 
-    b)  den Wegfall des in § 4 Absatz 3 Satz 1 Nummer 2 aufgeführten
+    b)  die Rücknahme der Zustimmung der Ausländerbehörde zur Anerkennung der
+        Vaterschaft gemäß § 85d Absatz 2 bis 4 des Aufenthaltsgesetzes oder
+        die Rücknahme der Feststellung der Ausländerbehörde gemäß § 85d Absatz
+        5 des Aufenthaltsgesetzes jeweils in Verbindung mit § 1598 Absatz 1
+        Satz 2 des Bürgerlichen Gesetzbuchs,
+
+    c)  den Wegfall des in § 4 Absatz 3 Satz 1 Nummer 2 aufgeführten
         Aufenthaltsrechts des Elternteils, der für den Erwerb der deutschen
         Staatsangehörigkeit des Kindes maßgeblich ist,
 
-    c)  die Unwirksamkeit der Annahme als Kind oder
+    d)  die Unwirksamkeit der Annahme als Kind oder
 
-    d)  den Verlust der deutschen Staatsangehörigkeit eines Elternteils nach §
+    e)  den Verlust der deutschen Staatsangehörigkeit eines Elternteils nach §
         35 Absatz 6
 
     oder
@@ -616,6 +625,7 @@ Die deutsche Staatsangehörigkeit geht nicht verloren, wenn das Kind
 1.  bei der Unanfechtbarkeit der Entscheidung, dem Wirksamwerden der
     Anerkennung der Vaterschaft eines Dritten oder dem Beweis des
     Gegenteils nach Satz 2 das fünfte Lebensjahr bereits vollendet hat,
+    dies gilt nicht im Fall von Satz 2 Nummer 1 Buchstabe b,
 
 2.  mit einem deutschen Elternteil verwandt bleibt,
 

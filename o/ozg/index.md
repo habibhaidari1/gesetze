@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 G v. 19.7.2024 I Nr. 245
 
+Änderung durch
+:   Art. 21 G v. 22.7.2026 I Nr. 224 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1 Anwendungsbereich
 
@@ -76,6 +79,18 @@ nach elektronischen Verwaltungsleistungen im Portalverbund einen
 Suchdienst bereit. Auf Grundlage einer Verwaltungsvereinbarung mit
 dem Bundesministerium des Innern und für Heimat können Länder diesen
 Suchdienst auch für ihre Verwaltungsportale mitnutzen.
+
+(5) Bund und Länder verknüpfen ihre Verwaltungsportale nach
+§ 72a Absatz 2 VwVfG bis spätestens zum 31. Dezember 2027 zu
+einem gemeinsamen Verwaltungsportal. Die IT-Komponenten für
+das Verwaltungsportal des Bundes inklusive der dazugehörigen
+Datenplattform legt das Bundesministerium für Verkehr im Einvernehmen
+mit dem Bundesministerium für Digitalisierung und Staatsmodernisierung
+fest. Die IT-Komponenten für das Verwaltungsportal der Länder
+inklusive der dazugehörigen Datenplattform legt das Bundesministerium
+für Digitalisierung und Staatsmodernisierung im Einvernehmen mit dem
+IT-Planungsrat durch Rechtsverordnung mit Zustimmung des Bundesrates
+fest.
 
 
 ## § 2 Begriffsbestimmungen

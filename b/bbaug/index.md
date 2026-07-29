@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 G v. 22.6.2026 I Nr. 192
 
+Änderung durch
+:   Art. 8 Abs. 2 G v. 23.7.2026 I Nr. 226 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erstes Kapitel - Allgemeines Städtebaurecht
 
@@ -7210,9 +7213,9 @@ nicht mehr zumutbar ist. Die Genehmigung ist ferner zu erteilen, wenn
     baulichen oder anlagentechnischen Mindestanforderungen des
     Gebäudeenergiegesetzes oder der Energieeinsparverordnung vom 24. Juli
     2007 (BGBl. I S. 1519), die zuletzt durch Artikel 257 der Verordnung
-    vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden ist, wenn diese
-    nach § 111 Absatz 1 des Gebäudeenergiegesetzes weiter anzuwenden ist,
-    dient,
+    vom 19. Juni 2020 (BGBl. I S. 1328) geändert worden ist, wenn
+    diese nach § 111 Absatz 1 des Gebäudemodernisierungsgesetzes weiter
+    anzuwenden ist, dient,
 
 2.  das Grundstück zu einem Nachlass gehört und Wohnungseigentum oder
     Teileigentum zugunsten von Miterben oder Vermächtnisnehmern begründet

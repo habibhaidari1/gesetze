@@ -18,6 +18,24 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 G v. 23.4.2026 I Nr. 112
 
+Änderung durch
+:   Art. 2 G v 22.7.2026 I Nr. 222 mWv 29.7.2026 bzw. mWv 1.11.2026 bzw. 1.5.2027 bzw. 1.11.2027 bzw. 1.5.2030 bzw. mit zukünftiger Wirkung noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 7 G v 22.7.2026 I Nr. 222 mWv 1.5.2025 bzw. 29.7.2026 bzw. 1.5.2027 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 8 G v 22.7.2026 I Nr. 222 mWv 29.7.2026 bzw. mWv 1.11.2025 bzw. 29.7.2026 bzw. 1.5.2027 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 12 G v 22.7.2026 I Nr. 222 mWv 1.5.2030 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 15 G v 22.7.2026 I Nr. 222 mWv 13.6.2026 bzw. mWv 29.7.2026 bzw. mit zukünftiger Wirkung noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 17 G v 22.7.2026 I Nr. 222 mWv 1.11.2027 bzw. mWv 1.5.2028 noch nicht berücksichtigt
+
 
 ## Eingangsformel
 

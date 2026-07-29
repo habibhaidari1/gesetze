@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 G v. 3.7.2024 I Nr. 225
 
+Änderung durch
+:   Art. 18 G v. 22.7.2026 I Nr. 224 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Teil 1 - Allgemeine Bestimmungen
 
@@ -1321,10 +1324,10 @@ ist.
 
 ### § 19 Antrag, Anzeige
 
-(1) Für Errichtung und Betrieb einer Deponie nach § 35 Absatz 2 und 3
-des Kreislaufwirtschaftsgesetzes sowie für die Zulassung vorzeitigen
-Beginns nach § 37 des Kreislaufwirtschaftsgesetzes hat der Träger
-des Vorhabens einen schriftlichen Antrag bei der zuständigen Behörde
+(1) Für Errichtung und Betrieb einer Deponie nach § 35 Absatz 2
+und 3 des Kreislaufwirtschaftsgesetzes sowie für die Zulassung des
+vorzeitigen Beginns nach § 37 des Kreislaufwirtschaftsgesetzes hat
+der Träger des Vorhabens einen Antrag bei der zuständigen Behörde
 einzureichen, der mindestens enthalten muss:
 
 1.  den Namen und Wohnsitz oder Sitz des Trägers des Vorhabens, des
@@ -1333,15 +1336,15 @@ einzureichen, der mindestens enthalten muss:
 2.  die Angabe, ob eine Planfeststellung oder eine Plangenehmigung oder ob
     eine Zulassung des vorzeitigen Beginns beantragt wird,
 
-3.  Standort und Bezeichnung der Deponie,
+3.  den Standort und die Bezeichnung der Deponie,
 
-4.  Begründung der Notwendigkeit der Maßnahme,
+4.  die Begründung der Notwendigkeit der Maßnahme,
 
-5.  Kapazität der Deponie,
+5.  die Kapazität der Deponie,
 
-6.  Liste der Abfälle mit Angabe der Abfallschlüssel und
+6.  eine Liste der Abfälle mit Angabe der Abfallschlüssel und
     Abfallbezeichnungen nach der Anlage zur Abfallverzeichnis-Verordnung
-    und einer Beschreibung nach Art und Beschaffenheit,
+    und mit einer Beschreibung nach Art und Beschaffenheit,
 
 7.  Angaben zu den planungsrechtlichen Ausweisungen des Standortes,
     den Standortverhältnissen, der Hydrologie, der Hydrogeologie,
@@ -1360,8 +1363,8 @@ einzureichen, der mindestens enthalten muss:
     zu verwendenden Abfälle mit Angabe der Abfallschlüssel und
     Abfallbezeichnungen nach der Anlage zur Abfallverzeichnis-Verordnung
     einschließlich Angaben über die einzusetzende Gesamtmenge und
-    Beschaffenheit sowie Beschreibung der Einsatzbereiche und Begründung
-    der Notwendigkeit des Einsatzes.
+    Beschaffenheit sowie einer Beschreibung der Einsatzbereiche und
+    Begründung der Notwendigkeit des Einsatzes.
 
 Der Antrag auf Erteilung der Zulassung des vorzeitigen Beginns muss
 zusätzlich enthalten:
@@ -1374,27 +1377,24 @@ zusätzlich enthalten:
     Anlage verursachten Schäden zu ersetzen und, falls das Vorhaben nicht
     genehmigt wird, den früheren Zustand wiederherzustellen.
 
-Satz 1 gilt für die wesentliche Änderung einer Deponie oder
-ihres Betriebes entsprechend, beschränkt auf die die Änderung
-betreffenden Angaben. Die Antragstellung kann mit Zustimmung
-der zuständigen Behörde elektronisch oder in elektronischer
-Form erfolgen. Die Anforderungen nach § 6 des Gesetzes über die
-Umweltverträglichkeitsprüfung an die vorzulegenden Unterlagen bleiben
-unberührt.
+Satz 1 gilt für die wesentliche Änderung einer Deponie oder ihres
+Betriebes entsprechend, beschränkt auf die die Änderung betreffenden
+Angaben. Die Anforderungen nach § 16 des Gesetzes über die
+Umweltverträglichkeitsprüfung an den Bericht zu den voraussichtlichen
+Umweltauswirkungen des Vorhabens bleiben unberührt.
 
 (2) Für die anzeigebedürftige Änderung einer Deponie oder ihres
 Betriebes nach § 35 Absatz 4 und 5 des Kreislaufwirtschaftsgesetzes
 hat der Träger des Vorhabens mindestens einen Monat vor der
-beabsichtigten Änderung eine schriftliche Anzeige bei der zuständigen
-Behörde einzureichen. Absatz 1 Satz 1, 4 und 5 gilt entsprechend,
-beschränkt auf die die Änderung betreffenden Angaben.
+beabsichtigten Änderung eine Anzeige bei der zuständigen Behörde
+einzureichen. Absatz 1 Satz 1 und 4 gilt entsprechend, beschränkt auf
+die die Änderung betreffenden Angaben.
 
 (3) Die Stilllegung einer Deponie oder eines Deponieabschnittes nach §
 40 Absatz 1 des Kreislaufwirtschaftsgesetzes hat der Deponiebetreiber
 mindestens ein Jahr vor dem beabsichtigten Ende der Ablagerungsphase
-bei der zuständigen Behörde schriftlich anzuzeigen. Absatz 1 Satz
-1, 4 und 5 gilt entsprechend, beschränkt auf die die Stilllegung
-betreffenden Angaben.
+bei der zuständigen Behörde anzuzeigen. Absatz 1 Satz 1 und 4 gilt
+entsprechend, beschränkt auf die die Stilllegung betreffenden Angaben.
 
 
 ### § 20 Grenzüberschreitende Behörden- und Öffentlichkeitsbeteiligung
@@ -1405,8 +1405,8 @@ einem anderen Staat haben, die in den Antragsunterlagen zu beschreiben
 sind, oder ersucht ein anderer Staat, der möglicherweise von den
 Auswirkungen erheblich berührt wird, darum, hat die zuständige Behörde
 die von dem anderen Staat benannten Behörden zum gleichen Zeitpunkt
-und im gleichen Umfang über das Vorhaben zu unterrichten wie die
-nach § 73 Absatz 2 des Verwaltungsverfahrensgesetzes zu beteiligenden
+und im gleichen Umfang über das Vorhaben zu unterrichten wie die nach
+§ 73a Absatz 1 des Verwaltungsverfahrensgesetzes zu beteiligenden
 Behörden. Für das weitere Verfahren der grenzüberschreitenden
 Behörden- und Öffentlichkeitsbeteiligung ist § 11a der Verordnung über
 das Genehmigungsverfahren entsprechend anzuwenden.
@@ -3220,8 +3220,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     | 3.08 | Nickel | mg/l | ≤ 0,04 | ≤ 0,04 | ≤ 0,2 | ≤ 1 | ≤ 4 | ≤ 0,05 |
     | 3.09 | Quecksilber | mg/l | ≤ 0,0002 | ≤ 0,001 | ≤ 0,005 | ≤ 0,02 | ≤ 0,2 | ≤ 0,0002 |
     | 3.10 | Zink | mg/l | ≤ 0,1 | ≤ 0,4 | ≤ 2 | ≤ 5 | ≤ 20 | ≤ 0,1 |
-    | 3.11 | Chlorid | mg/l | ≤ 10 | ≤ 80 | ≤ 1 500 | ≤ 1 50013) | ≤ 2 500 | ≤ 10 |
-    | 3.12 | Sulfat12) | mg/l | ≤ 50 | ≤ 100 | ≤ 2 00013) | ≤ 2 00013) | ≤ 5 000 | ≤ 5014) |
+    | 3.11 | Chlorid12) | mg/l | ≤ 10 | ≤ 80 | ≤ 1 50013) | ≤ 1 50013) | ≤ 2 500 | ≤1014) 17) |
+    | 3.12 | Sulfat12) | mg/l | ≤ 50 | ≤ 10015) | ≤2 00013) | ≤ 2 00013) | ≤ 5 000 | ≤ 5014) 17) |
     | 3.13 | Cyanid, leicht freisetzbar | mg/l | ≤ 0,01 | ≤ 0,01 | ≤ 0,1 | ≤ 0,5 | ≤ 1 |  |
     | 3.14 | Fluorid | mg/l |  | ≤ 1 | ≤ 5 | ≤ 15 | ≤ 50 |  |
     | 3.15 | Barium | mg/l |  | ≤ 2 | ≤ 513) | ≤ 1013) | ≤ 30 |  |

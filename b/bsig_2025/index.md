@@ -18,6 +18,12 @@ Fundstelle
 Geändert durch
 :   Art. 4 G v. 11.3.2026 I Nr. 66
 
+Änderung durch
+:   Art. 9 G v. 21.7.2026 I Nr. 221 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 8 Abs. 1 G v. 23.7.2026 I Nr. 226 ist berücksichtigt
+
 Stand
 :   Ersetzt G 206-2 v. 14.8.2009 I 2821 (BSIG 2009)
 
@@ -185,8 +191,7 @@ Im Sinne dieses Gesetzes ist oder sind
     Dachgesetzes;
 
 23. „kritische Komponenten“ IKT-Produkte, die in einer Rechtsverordnung
-    aufgrund von § 56 Absatz 7 und 8 als kritische Komponenten bestimmt
-    werden.
+    aufgrund von § 56 Absatz 6 als kritische Komponenten bestimmt werden;
 
 24. „kritische Dienstleistung“ eine Dienstleistung im Sinne des § 2 Nummer
     4 des KRITIS-Dachgesetzes;
@@ -2028,7 +2033,7 @@ Sicherheitsvorfalls machen.
 #### § 33 Registrierungspflicht
 
 (1) Besonders wichtige Einrichtungen und wichtige Einrichtungen
-sowie Domain-Name-Registry-Diensteanbieter sind verpflichtet,
+sowie Domain-Name-Registry-Dienstleister sind verpflichtet,
 spätestens drei Monate, nachdem sie erstmals oder erneut als eine der
 vorgenannten Einrichtungen gelten oder Domain-Name-Registry-Dienste
 anbieten, dem Bundesamt über eine gemeinsam vom Bundesamt und dem
@@ -2051,8 +2056,8 @@ Registrierungsmöglichkeit folgende Angaben zu übermitteln:
 5.  die für die Tätigkeiten, aufgrund derer die Registrierung erfolgt,
     zuständigen Aufsichtsbehörden des Bundes und der Länder.
 
-(2) Die Registrierung von Betreibern kritischer Anlagen erfolgt gemäß
-§ 8 des KRITIS-Dachgesetzes.
+(2) Die Registrierung von kritischen Anlagen erfolgt gemäß § 8 des
+KRITIS-Dachgesetzes.
 
 (3) Die Registrierung von besonders wichtigen Einrichtungen und
 wichtigen Einrichtungen und Domain-Name-Registry-Diensteanbietern
@@ -2068,13 +2073,10 @@ Schriftstücke und sonstigen Unterlagen in geeigneter Weise vorzulegen
 und Auskunft zu erteilen, soweit nicht Geheimschutzinteressen oder
 überwiegende Sicherheitsinteressen entgegenstehen.
 
-(5) Bei Änderungen der nach Absatz 1 oder 2 zu übermittelnden Angaben
-sind dem Bundesamt geänderte Versorgungskennzahlen sowie Änderungen
-der bei Betreibern kritischer Anlagen zum Einsatz kommenden Typen von
-kritischen Komponenten einmal jährlich zu übermitteln und alle anderen
-Angaben unverzüglich, spätestens jedoch zwei Wochen ab dem Zeitpunkt,
-zu dem die Einrichtung Kenntnis von der Änderung erhalten hat, zu
-übermitteln.
+(5) Wenn sich nach Absatz 1 zu übermittelnde Angaben ändern, sind
+diese Änderungen dem Bundesamt unverzüglich, spätestens jedoch binnen
+zwei Wochen ab dem Zeitpunkt, zu dem die Einrichtung Kenntnis von der
+Änderung erhalten hat, zu übermitteln.
 
 (6) Das Bundesamt legt die Einzelheiten zur Ausgestaltung des
 Registrierungsverfahrens im Einvernehmen mit dem Bundesamt für
@@ -2135,14 +2137,14 @@ Anweisungen nach Satz 1 in Kenntnis. Die Unterrichtung nach Satz
 1 kann auch durch eine Veröffentlichung auf der Internetseite der
 Einrichtung erfolgen.
 
-(2) Einrichtungen nach Absatz 1 Satz 1 aus den Sektoren Finanzwesen,
-Leistungen der Sozialversicherung sowie Grundsicherung für
-Arbeitsuchende, digitale Infrastruktur, Verwaltung von IKT-Diensten
-und Digitale Dienste teilen den potenziell von einer erheblichen
-Cyberbedrohung betroffenen Empfängern ihrer Dienste und dem Bundesamt
-unverzüglich alle Maßnahmen oder Abhilfemaßnahmen mit, die diese
-Empfänger als Reaktion auf diese Bedrohung ergreifen können. Die
-Einrichtungen informieren zugleich diese Empfänger auch über die
+(2) Besonders wichtige Einrichtungen und wichtige Einrichtungen aus
+den Sektoren Finanzwesen, Leistungen der Sozialversicherung sowie
+Grundsicherung für Arbeitsuchende, digitale Infrastruktur, Verwaltung
+von IKT-Diensten und Digitale Dienste teilen den potenziell von einer
+erheblichen Cyberbedrohung betroffenen Empfängern ihrer Dienste und
+dem Bundesamt unverzüglich alle Maßnahmen oder Abhilfemaßnahmen mit,
+die diese Empfänger als Reaktion auf diese Bedrohung ergreifen können.
+Die Einrichtungen informieren zugleich diese Empfänger auch über die
 erhebliche Cyberbedrohung selbst. Die Pflichten nach Satz 1 oder 2
 gelten nur dann, wenn in Abwägung der Interessen der Einrichtung und
 des Empfängers die Interessen des Empfängers überwiegen.
@@ -3759,13 +3761,15 @@ werden.
 ## Teil 9 - Anwendungsbestimmungen; Übergangsregelungen
 
 
-### § 66 Anwendungsbestimmungen und Übergangsregelungen
+### § 66 Anwendungsbestimmungen und Übergangsregelung
 
-§ 2 Nummer 22 und 24 und § 33 Absatz 2 sind erst anzuwenden, wenn
-eine auf der Grundlage von § 4 Absatz 3 und § 5 Absatz 1 des KRITIS-
-Dachgesetzes erlassene Rechtsverordnung gilt. Bis zur Geltung dieser
-Rechtsverordnung ist § 2 Nummer 22 und 24 in der bis einschließlich
-16\. März 2026 geltenden Fassung weiter anzuwenden.
+§ 2 Nummer 22 und 24 sowie § 33 Absatz 2 und 5 sind erst anzuwenden,
+wenn eine Rechtsverordnung auf der Grundlage des § 4 Absatz 3 und
+§ 5 Absatz 1 des KRITIS-Dachgesetzes in Kraft getreten ist. Bis
+zum Inkrafttreten dieser Rechtsverordnung sind § 2 Nummer 22 und 24
+sowie § 33 Absatz 2 in der bis einschließlich 16. März 2026 geltenden
+Fassung sowie § 33 Absatz 5 in der bis einschließlich 28. Juli 2026
+geltenden Fassung weiter anzuwenden.
 
 
 ### Anlage 1 Sektoren besonders wichtiger und wichtiger Einrichtungen
@@ -3787,7 +3791,7 @@ Rechtsverordnung ist § 2 Nummer 22 und 24 in der bis einschließlich
 | 1.1.8 |  |  | Anbieter von Ausgleichsleistungen nach § 3 Nummer 1b EnWG |
 | 1.1.9 |  |  | Ladepunktbetreiber nach § 2 Nummer 8 LSV |
 | 1.2 |  | Fernwärmeversorgung oder Fernkälteversorgung |  |
-| 1.2.1 |  |  | Betreiber von Fernwärme- oder Fernkälteversorgung im Sinne von § 3 Nummer 19 oder Nummer 20 GEG |
+| 1.2.1 |  |  | Betreiber von Fernwärme- oder Fernkälteversorgung im Sinne von § 3 Nummer 19 oder Nummer 20 GModG |
 | 1.3 |  | Kraftstoff- und Heizölversorgung |  |
 | 1.3.1 |  |  | Betreiber von Erdöl-Fernleitungen |
 | 1.3.2 |  |  | Betreiber von Anlagen zur Produktion, Raffination und Aufbereitung von Erdöl sowie Betreiber von Erdöllagern und Erdöl-Fernleitungen |

@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl. I: 2024, Nr. 139
 
+Änderung durch
+:   Art. 8 Abs. 9 G v. 23.7.2026 I Nr. 226 mWv 29.7.2026 noch nicht berücksichtigt
+
 
 ## Eingangsformel
 

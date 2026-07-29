@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 8 G v. 29.3.2026 I Nr. 84
 
+Änderung durch
+:   Art. 4 G v. 22.7.2026 I Nr. 224 mWv 29.7.2026 noch nicht berücksichtigt
+
 
 ## § 1 Einteilung der Bundesstraßen des Fernverkehrs
 

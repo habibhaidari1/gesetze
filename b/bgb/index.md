@@ -24,6 +24,12 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 1 G v. 16.7.2026 I Nr. 212 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 2 G v. 21.7.2026 I Nr. 221 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 6 G v. 23.7.2026 I Nr. 226 mWv 29.7.2026 noch nicht berücksichtigt
+
 
 ## Buch 1 - Allgemeiner Teil
 
@@ -29192,76 +29198,46 @@ der Mutter und dem Kind sowie dem Standesamt zu übersenden.
 (3) (weggefallen)
 
 
-##### § 1597a Verbot der missbräuchlichen Anerkennung der Vaterschaft
+##### § 1598 Unwirksamkeit von Anerkennung und Zustimmung; sorgerechtliche Begleitregelung
 
-(1) Die Vaterschaft darf nicht gezielt gerade zu dem Zweck anerkannt
-werden, die rechtlichen Voraussetzungen für die erlaubte Einreise oder
-den erlaubten Aufenthalt des Kindes, des Anerkennenden oder der Mutter
-zu schaffen, auch nicht, um die rechtlichen Voraussetzungen für die
-erlaubte Einreise oder den erlaubten Aufenthalt des Kindes durch den
-Erwerb der deutschen Staatsangehörigkeit des Kindes nach § 4 Absatz
-1 oder Absatz 3 Satz 1 des Staatsangehörigkeitsgesetzes zu schaffen
-(missbräuchliche Anerkennung der Vaterschaft).
-
-(2) Bestehen konkrete Anhaltspunkte für eine missbräuchliche
-Anerkennung der Vaterschaft, hat die beurkundende Behörde oder die
-Urkundsperson dies der nach § 85a des Aufenthaltsgesetzes zuständigen
-Behörde nach Anhörung des Anerkennenden und der Mutter mitzuteilen und
-die Beurkundung auszusetzen. Ein Anzeichen für das Vorliegen konkreter
-Anhaltspunkte ist insbesondere:
-
-1.  das Bestehen einer vollziehbaren Ausreisepflicht des Anerkennenden
-    oder der Mutter oder des Kindes,
-
-2.  wenn der Anerkennende oder die Mutter oder das Kind einen
-    Asylantrag gestellt hat und die Staatsangehörigkeit eines sicheren
-    Herkunftsstaates nach § 29a oder § 29b des Asylgesetzes besitzt,
-
-3.  das Fehlen von persönlichen Beziehungen zwischen dem Anerkennenden und
-    der Mutter oder dem Kind,
-
-4.  der Verdacht, dass der Anerkennende bereits mehrfach die Vaterschaft
-    von Kindern verschiedener ausländischer Mütter anerkannt hat und
-    jeweils die rechtlichen Voraussetzungen für die erlaubte Einreise
-    oder den erlaubten Aufenthalt des Kindes oder der Mutter durch die
-    Anerkennung geschaffen hat, auch wenn das Kind durch die Anerkennung
-    die deutsche Staatsangehörigkeit erworben hat, oder
-
-5.  der Verdacht, dass dem Anerkennenden oder der Mutter ein
-    Vermögensvorteil für die Anerkennung der Vaterschaft oder die
-    Zustimmung hierzu gewährt oder versprochen worden ist.
-
-Die beurkundende Behörde oder die Urkundsperson hat die Aussetzung
-dem Anerkennenden, der Mutter und dem Standesamt mitzuteilen. Hat
-die nach § 85a des Aufenthaltsgesetzes zuständige Behörde gemäß § 85a
-Absatz 1 des Aufenthaltsgesetzes das Vorliegen einer missbräuchlichen
-Anerkennung der Vaterschaft festgestellt und ist diese Entscheidung
-unanfechtbar, so ist die Beurkundung abzulehnen.
-
-(3) Solange die Beurkundung gemäß Absatz 2 Satz 1 ausgesetzt ist, kann
-die Anerkennung auch nicht wirksam von einer anderen beurkundenden
-Behörde oder Urkundsperson beurkundet werden. Das Gleiche gilt, wenn
-die Voraussetzungen des Absatzes 2 Satz 4 vorliegen.
-
-(4) Für die Zustimmung der Mutter nach § 1595 Absatz 1 gelten die
-Absätze 1 bis 3 entsprechend.
-
-(5) Eine Anerkennung der Vaterschaft kann nicht missbräuchlich sein,
-wenn der Anerkennende der leibliche Vater des anzuerkennenden Kindes
-ist.
-
-
-##### § 1598 Unwirksamkeit von Anerkennung und Zustimmung
-
-(1) Anerkennung und Zustimmung sind nur dann unwirksam, wenn sie
-den Erfordernissen nach § 1594 Absatz 2, 3 und 5 und den §§ 1595 bis
-1597 nicht genügen. Anerkennung und Zustimmung sind auch im Fall des
-§ 1597a Absatz 3 und im Fall des § 1597a Absatz 4 in Verbindung mit
-Absatz 3 unwirksam.
+(1) Anerkennung und Zustimmung sind nur dann unwirksam, wenn sie den
+Erfordernissen nach § 1594 Absatz 2, 3 und 5 und den §§ 1595 bis 1597
+nicht genügen. Anerkennung und Zustimmung sind auch unwirksam, wenn
+die nach § 85a des Aufenthaltsgesetzes erforderliche Zustimmung der
+Ausländerbehörde nicht erteilt ist.
 
 (2) Sind seit der Eintragung in ein deutsches Personenstandsregister
-fünf Jahre verstrichen, so ist die Anerkennung wirksam, auch wenn sie
-den Erfordernissen der vorstehenden Vorschriften nicht genügt.
+fünf Jahre verstrichen, so ist die Anerkennung wirksam, auch
+wenn sie den Erfordernissen der vorstehenden Vorschriften nicht
+genügt. Wird die Zustimmung der Ausländerbehörde nach § 85d des
+Aufenthaltsgesetzes zurückgenommen und die Eintragung in einem
+deutschen Personenstandsregister dadurch unrichtig, wird die Frist
+nach Satz 1 gehemmt. Die Hemmung gilt nicht, solange die aufschiebende
+Wirkung eines Rechtsbehelfs gegen die Rücknahme nach § 80 Absatz 5 der
+Verwaltungsgerichtsordnung angeordnet ist. Existiert noch kein Eintrag
+in einem deutschen Personenstandsregister und wird die Anerkennung
+der Vaterschaft oder die Zustimmung der Mutter zur Anerkennung der
+Vaterschaft in einer deutschen Auslandsvertretung beurkundet, so
+beginnt die Frist nach Satz 1 mit der Beurkundung, wenn
+
+1.  in der Urkunde fehlerhaft vermerkt ist, dass die Zustimmung der
+    Ausländerbehörde zur Anerkennung der Vaterschaft erteilt wurde oder
+
+2.  der oder die Beteiligte über die Erforderlichkeit dieser Zustimmung
+    nicht von der Ausländerbehörde belehrt wurde; die Sätze 2 und 3 gelten
+    entsprechend.
+
+(3) Haben die Mutter und der Anerkennende in den Fällen des § 85a
+Absatz 1 des Aufenthaltsgesetzes wirksame Sorgeerklärungen nach §
+1626a Absatz 1 abgegeben, so ist der Anerkennende zur Vertretung des
+Kindes in allen persönlichen und vermögensrechtlichen Angelegenheiten
+berechtigt, wenn die Mutter verstorben ist oder die elterliche Sorge
+gemäß § 1673 Absatz 1 ruht. Das Vertretungsrecht endet im Zeitpunkt
+der bestandskräftigen Entscheidung der Ausländerbehörde nach §
+85c Absatz 1 Satz 1 des Aufenthaltsgesetzes, durch Eintritt der
+Fiktionswirkung gemäß § 85c Absatz 3 des Aufenthaltsgesetzes oder
+dann, wenn das Familiengericht gemäß § 1773 Absatz 1 oder § 1781
+Absatz 1 einen Vormund für das Kind bestellt hat.
 
 
 ##### § 1598a Anspruch auf Einwilligung in eine genetische Untersuchung zur Klärung der leiblichen Abstammung

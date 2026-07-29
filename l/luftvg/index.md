@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 G v. 16.7.2026 I Nr. 213
 
+Änderung durch
+:   Art. 9 G v. 22.7.2026 I Nr. 224 mWv 29.7.2026 noch nicht berücksichtigt
+
 
 ## Erster Abschnitt - Luftverkehr
 

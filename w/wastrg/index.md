@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 3 G v. 12.8.2025 I Nr. 189
 
+Änderung durch
+:   Art. 6 G v. 22.7.2026 I Nr. 224 mWv 29.7.2026 noch nicht berücksichtigt
+
 
 ## Abschnitt 1 - Bundeswasserstraßen
 

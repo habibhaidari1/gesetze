@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1975, 3015
 
 Zuletzt geändert durch
-:   Art. 15 Abs. 12 G v. 3.7.2026 I Nr. 199
+:   Art. 3 G v. 22.7.2026 I Nr. 223
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
@@ -902,17 +902,20 @@ Sozialgeheimnis zu wahren.
 
 (2) Die Vorschriften des Zweiten Kapitels des Zehnten Buches und der
 übrigen Bücher des Sozialgesetzbuches regeln die Verarbeitung von
-Sozialdaten abschließend, soweit nicht die Verordnung (EU) 2016/679
-des Europäischen Parlaments und des Rates vom 27. April 2016 zum
-Schutz natürlicher Personen bei der Verarbeitung personenbezogener
-Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie
-95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S.
-1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der
-jeweils geltenden Fassung unmittelbar gilt. Für die Verarbeitungen
-von Sozialdaten im Rahmen von nicht in den Anwendungsbereich der
-Verordnung (EU) 2016/679 fallenden Tätigkeiten finden die Verordnung
-(EU) 2016/679 und dieses Gesetz entsprechende Anwendung, soweit nicht
-in diesem oder einem anderen Gesetz Abweichendes geregelt ist.
+Sozialdaten abschließend, soweit nicht
+
+1.  die Verordnung (EU) 2016/679 in der jeweils geltenden Fassung
+    unmittelbar gilt oder
+
+2.  die Verordnung (EU) 2024/1689 in der jeweils geltenden Fassung
+    unmittelbar geltende Rechtsvorschriften zum Schutz personenbezogener
+    Daten bei deren Verarbeitung enthält.
+
+Für die Verarbeitungen von Sozialdaten im Rahmen von nicht in den
+Anwendungsbereich der Verordnung (EU) 2016/679 fallenden Tätigkeiten
+finden die Verordnung (EU) 2016/679 und dieses Gesetz entsprechende
+Anwendung, soweit nicht in diesem oder einem anderen Gesetz
+Abweichendes geregelt ist.
 
 (2a) Die Verpflichtung zur Wahrung gesetzlicher
 Geheimhaltungspflichten oder von Berufs- oder besonderen

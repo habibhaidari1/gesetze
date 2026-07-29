@@ -21,6 +21,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 2 G v. 13.7.2026 I Nr. 207 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 17 G v. 22.7.2026 I Nr. 224 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Teil 1 - Allgemeine Vorschriften
 
@@ -2403,8 +2406,8 @@ Planfeststellungsverfahren ist eine Umweltverträglichkeitsprüfung nach
 den Vorschriften des Gesetzes über die Umweltverträglichkeitsprüfung
 durchzuführen.
 
-(3) § 74 Absatz 6 des Verwaltungsverfahrensgesetzes gilt mit der
-Maßgabe, dass die zuständige Behörde nur dann an Stelle eines
+(3) § 74a Absatz 1 bis 3 des Verwaltungsverfahrensgesetzes gilt mit
+der Maßgabe, dass die zuständige Behörde nur dann an Stelle eines
 Planfeststellungsbeschlusses auf Antrag oder von Amts wegen eine
 Plangenehmigung erteilen kann, wenn
 
@@ -2448,6 +2451,53 @@ in § 39 genannten Deponien Anwendung.
 
 (5) Für nach Absatz 4 anzeigebedürftige Änderungen kann der Träger des
 Vorhabens eine Planfeststellung oder eine Plangenehmigung beantragen.
+
+
+#### § 35a Projektmanager
+
+(1) Die für die Feststellung des Plans oder Erteilung der
+Plangenehmigung zuständige Behörde kann in jeder Stufe des Verfahrens
+einen Dritten als Projektmanager, der als Verwaltungshelfer
+beschäftigt werden kann, mit Zustimmung des Vorhabenträgers
+und auf dessen Kosten mit der Vorbereitung und Durchführung von
+Verfahrensschritten beauftragen. Sie soll einen Projektmanager
+nach Satz 1 auf Antrag des Vorhabenträgers beauftragen. Dies kann
+insbesondere folgende Verfahrensschritte umfassen:
+
+1.  die Erstellung von Verfahrensleitplänen unter Bestimmung von
+    Verfahrensabschnitten und Zwischenterminen,
+
+2.  die Fristenkontrolle,
+
+3.  die Koordinierung von erforderlichen Sachverständigengutachten,
+
+4.  das Qualitätsmanagement der Anträge und Unterlagen der Vorhabenträger,
+
+5.  die erste Auswertung der eingereichten Stellungnahmen,
+
+6.  die organisatorische Vorbereitung eines Erörterungstermins,
+
+7.  die Leitung des Erörterungstermins,
+
+8.  den Entwurf der Niederschrift,
+
+9.  den Entwurf der Entscheidung nach § 36 sowie
+
+10. die Prüfung der Vollständigkeit der Unterlagen.
+
+(2) Die Entscheidung nach § 36 trifft allein die für die Feststellung
+des Plans oder Erteilung der Plangenehmigung zuständige Behörde.
+
+(3) Stimmt der Träger des Vorhabens zu, kann die für die Feststellung
+des Plans oder Erteilung der Plangenehmigung zuständige Behörde bei
+der Beauftragung des Projektmanagers mit diesem vereinbaren, dass die
+Zahlungspflicht unmittelbar zwischen Vorhabenträger und Projektmanager
+entsteht und eine Abrechnung zwischen diesen erfolgt. Der
+Projektmanager ist verpflichtet, die Abrechnungsunterlagen ebenfalls
+der Genehmigungsbehörde zu übermitteln. Die Genehmigungsbehörde prüft,
+ob die vom Projektmanager abgerechneten Leistungen dem jeweiligen
+Auftrag entsprechen, und teilt dem Vorhabenträger das Ergebnis dieser
+Prüfung unverzüglich mit.
 
 
 #### § 36 Erteilung, Sicherheitsleistung, Nebenbestimmungen
@@ -2518,30 +2568,71 @@ erlassen hat.
 
 #### § 37 Zulassung des vorzeitigen Beginns
 
-(1) In einem Planfeststellungs- oder Plangenehmigungsverfahren kann
-die für die Feststellung des Plans oder Erteilung der Plangenehmigung
-zuständige Behörde unter dem Vorbehalt des Widerrufs für einen
-Zeitraum von sechs Monaten zulassen, dass bereits vor Feststellung
-des Plans oder der Erteilung der Plangenehmigung mit der Errichtung
-einschließlich der Maßnahmen, die zur Prüfung der Betriebstüchtigkeit
-der Deponie erforderlich sind, begonnen wird, wenn
+(1) In einem Planfeststellungs- oder Plangenehmigungsverfahren für ein
+Vorhaben nach § 35 Absatz 2 Satz 1 kann die für die Feststellung des
+Plans oder für die Erteilung der Plangenehmigung zuständige Behörde
+vorläufig zulassen, dass bereits vor Feststellung des Plans oder
+der Erteilung der Plangenehmigung in Teilen mit der Errichtung oder
+Änderung der Anlage einschließlich der Vorarbeiten begonnen wird, wenn
 
-1.  mit einer Entscheidung zugunsten des Trägers des Vorhabens gerechnet
-    werden kann,
+1.  unter Berücksichtigung der Stellungnahmen der Träger öffentlicher
+    Belange einschließlich der Gebietskörperschaften mit einer
+    Entscheidung im Planfeststellungs- oder Plangenehmigungsverfahren
+    zugunsten des Vorhabenträgers gerechnet werden kann,
 
-2.  an dem vorzeitigen Beginn ein öffentliches Interesse besteht und
+2.  der Vorhabenträger ein berechtigtes oder ein öffentliches Interesse an
+    der Zulassung des vorzeitigen Baubeginns darlegt,
 
-3.  der Träger des Vorhabens sich verpflichtet, alle bis zur Entscheidung
-    durch die Ausführung verursachten Schäden zu ersetzen und, sofern kein
-    Planfeststellungsbeschluss oder keine Plangenehmigung erfolgt, den
-    früheren Zustand wiederherzustellen.
+3.  der Vorhabenträger nur Maßnahmen durchführt, die reversibel sind,
 
-Diese Frist kann auf Antrag um sechs Monate verlängert werden.
+4.  der Vorhabenträger über die für die Maßnahmen notwendigen privaten
+    Rechte verfügt und
 
-(2) Die zuständige Behörde hat die Leistung einer Sicherheit zu
+5.  der Vorhabenträger sich verpflichtet,
+
+    a)  alle Schäden zu ersetzen, die bis zur Entscheidung im
+        Planfeststellungs- oder Plangenehmigungsverfahren durch die Maßnahmen
+        verursacht worden sind, und
+
+    b)  sofern kein Planfeststellungsbeschluss oder keine Plangenehmigung
+        erfolgt, einen mit dem früheren Zustand im Wesentlichen gleichartigen
+        Zustand herzustellen.
+
+Satz 1 Nummer 1 findet auf Antrag des Antragstellers keine Anwendung
+in Verfahren zur Erteilung
+
+1.  einer Planfeststellung oder Plangenehmigung für eine Deponie auf einem
+    bereits bestehenden Standort und
+
+2.  einer Änderungsgenehmigung.
+
+In den Fällen des Satzes 2 dürfen die für die beantragten vorläufigen
+Maßnahmen relevanten Vorschriften dieses Gesetzes und der aufgrund
+dieses Gesetzes erlassenen Vorschriften sowie sonstige für die
+beantragten vorläufigen Maßnahmen relevante öffentlich-rechtliche
+Vorschriften und Belange des Arbeitsschutzes der vorzeitigen Zulassung
+nicht entgegenstehen. Ausnahmsweise können irreversible Maßnahmen
+zugelassen werden, wenn sie nur wirtschaftliche Schäden verursachen
+und für diese Schäden eine Entschädigung in Geld geleistet wird.
+Die Zulassung erfolgt auf Antrag des Vorhabenträgers und unter dem
+Vorbehalt des Widerrufs.
+
+(2) Die für die Feststellung des Plans oder für die Erteilung der
+Plangenehmigung zuständige Behörde kann die Leistung einer Sicherheit
 verlangen, soweit dies erforderlich ist, um die Erfüllung der
-Verpflichtungen des Trägers des Vorhabens nach Absatz 1 Satz 1 Nummer
-3 zu sichern.
+Verpflichtungen des Vorhabenträgers nach Absatz 1 Satz 1 Nummer 5 zu
+sichern. Soweit die zugelassenen Maßnahmen durch die Planfeststellung
+oder Plangenehmigung für unzulässig erklärt sind, ordnet die Behörde
+gegenüber dem Träger des Vorhabens an, einen mit dem früheren Zustand
+im Wesentlichen gleichartigen Zustand wiederherzustellen. Dies gilt
+auch, wenn der Antrag auf Planfeststellung oder Plangenehmigung
+zurückgenommen wurde. Satz 1 gilt entsprechend.
+
+(3) Die Entscheidung über die Zulassung des vorzeitigen Baubeginns ist
+den Beteiligten zuzustellen.
+
+(4) Widerspruch und Anfechtungsklage gegen die Zulassung des
+vorzeitigen Baubeginns haben keine aufschiebende Wirkung.
 
 
 #### § 38 Planfeststellungsverfahren und weitere Verwaltungsverfahren

@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 16 G v. 2.12.2025 I Nr. 301
 
+Änderung durch
+:   Art. 16 G v. 22.7.2026 I Nr. 224 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erster Abschnitt - Allgemeine Vorschriften
 
@@ -1360,20 +1363,20 @@ Aufsichtsbehörde.
 
 (1) Die Errichtung, der Betrieb und die Stilllegung der in § 9a Abs. 3
 genannten Anlagen des Bundes sowie die wesentliche Veränderung solcher
-Anlagen oder ihres Betriebes bedürfen der Planfeststellung. Auf Antrag
-kann das Vorhaben in Stufen durchgeführt und dementsprechend können
-Teilplanfeststellungsbeschlüsse erteilt werden, wenn eine vorläufige
-Prüfung ergibt, dass die Voraussetzungen nach Absatz 4 im Hinblick auf
-die Errichtung, den Betrieb der gesamten Anlage und die Stilllegung
-vorliegen werden. § 74 Abs. 6 des Verwaltungsverfahrensgesetzes gilt
-mit der Maßgabe, daß die zuständige Behörde nur dann auf Antrag oder
-von Amts wegen an Stelle eines Planfeststellungsbeschlusses eine
-Plangenehmigung erteilen kann, wenn die wesentliche Veränderung der in
-Satz 1 genannten Anlagen oder ihres Betriebes beantragt wird und die
-Veränderung keine erheblichen nachteiligen Auswirkungen auf ein in § 2
-Absatz 1 des Gesetzes über die Umweltverträglichkeitsprüfung genanntes
-Schutzgut haben kann. § 76 des Verwaltungsverfahrensgesetzes findet
-keine Anwendung.
+Anlagen oder ihres Betriebes bedürfen der Planfeststellung. Auf
+Antrag kann das Vorhaben in Stufen durchgeführt und dementsprechend
+können Teilplanfeststellungsbeschlüsse erteilt werden, wenn eine
+vorläufige Prüfung ergibt, dass die Voraussetzungen nach Absatz
+4 im Hinblick auf die Errichtung, den Betrieb der gesamten Anlage
+und die Stilllegung vorliegen werden. § 74a Absatz 1 bis 3 des
+Verwaltungsverfahrensgesetzes gilt mit der Maßgabe, dass die
+zuständige Behörde nur dann auf Antrag oder von Amts wegen an Stelle
+eines Planfeststellungsbeschlusses eine Plangenehmigung erteilen kann,
+wenn die wesentliche Veränderung der in Satz 1 genannten Anlagen oder
+ihres Betriebes beantragt wird und die Veränderung keine erheblichen
+nachteiligen Auswirkungen auf ein in § 2 Absatz 1 des Gesetzes über
+die Umweltverträglichkeitsprüfung genanntes Schutzgut haben kann. § 76
+des Verwaltungsverfahrensgesetzes findet keine Anwendung.
 
 (1a) In den Fällen, in denen der Standort durch Bundesgesetz
 festgelegt wurde, tritt an die Stelle der Planfeststellung eine

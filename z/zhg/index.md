@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 13 G v. 19.5.2020 I 1018
 
+Änderung durch
+:   Art. 4 G v. 22.7.2026 I Nr. 225 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## I. - Die Approbation als Zahnarzt
 
@@ -424,11 +427,19 @@ der Approbation als Zahnarzt und die Ausstellung eines Europäischen
 Berufsausweises zu regeln.
 
 (2a) In der Rechtsverordnung sind Regelungen zu Durchführung und
-Inhalt der Eignungsprüfung nach § 2 Absatz 2 und der Kenntnisprüfung
-nach § 2 Absatz 3 sowie zu Erteilung und Verlängerung der
-Berufserlaubnis nach § 13 vorzusehen.
+Inhalt der Eignungsprüfung nach § 12a Absatz 7 Satz 2 und der
+Kenntnisprüfung nach § 12b Absatz 2 und 3 sowie zu Erteilung und
+Verlängerung der Erlaubnis zur Ausübung der Zahnheilkunde nach § 13
+und der Erlaubnis zur partiellen Ausübung der Zahnheilkunde nach §
+13a vorzusehen. In der Rechtsverordnung können die für das jeweilige
+Verfahren erforderlichen Unterlagen geregelt werden.
 
-(3) Abweichungen von den in den Absätzen 1 und 2 sowie der auf
+(2b) In der Rechtsverordnung ist darüber hinaus die Pflicht von
+Berufsqualifikationsinhabern zu regeln, nach Maßgabe des Artikels
+52 Absatz 1 der Richtlinie 2005/36/EG die Berufsbezeichnung des
+Aufnahmestaats zu führen und eine Abkürzung zu verwenden.
+
+(3) Abweichungen von den in den Absätzen 1 bis 2b sowie der auf
 dieser Grundlage erlassenen Rechtsverordnung enthaltenen Regelungen
 des Verwaltungsverfahrens durch Landesrecht sind ausgeschlossen.
 Abweichend von Satz 1 können die Länder Abweichungen von den durch

@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 G v. 12.12.2023 I Nr. 359
 
+Änderung durch
+:   Art. 1 G v. 22.7.2026 I Nr. 225 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand
 :   Ersetzt G 2124-14 v. 4.6.1985 I 902 (HebG 1985)
 
@@ -1838,8 +1841,12 @@ Artikel 56 der Richtlinie 2005/36/EG der anfordernden Behörde
 Studien- und Prüfungsverordnung, die der Zustimmung des Bundesrates
 bedarf, Folgendes zu regeln:
 
-1.  die Mindestanforderungen an das Studium nach Teil 3 einschließlich des
-    berufspraktischen Teils des Studiums,
+1.  die Mindestanforderungen an das Studium nach Teil 3 einschließlich
+    des berufspraktischen Teils des Studiums, der Ausgestaltung und
+    der Möglichkeit der Anrechenbarkeit von im Ausland durchgeführten
+    praktischen Einsätzen sowie die Berücksichtigung digitaler
+    Lehrformate bei der Konzeption der theoretischen und praktischen
+    Lehrveranstaltungen,
 
 2.  das Nähere über die staatliche Prüfung nach § 24, insbesondere
     bundeseinheitliche Rahmenvorgaben für die inhaltliche Ausgestaltung

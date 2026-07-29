@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2005, 1970 (3621)
 
 Zuletzt geändert durch
-:   Art. 5 G v. 29.3.2026 I Nr. 84
+:   Art. 8 Abs. 6 G v. 23.7.2026 I Nr. 226
 
 Stand
 :   Das G ist gem. Art. 5 Abs. 1 G v. 7.7.2005 I 1970 am 13.7.2005 in Kraft getreten
@@ -7950,9 +7950,7 @@ Nähere zu darüber hinausgehenden Kostenerstattungsansprüchen für
 technisch nicht anpassbare Kundenanlagen oder Verbrauchsgeräte zu
 regeln. Das Bundesministerium für Wirtschaft und Energie kann die
 Ermächtigung nach Satz 6 durch Rechtsverordnung unter Sicherstellung
-der Einvernehmensregelung auf die Bundesnetzagentur übertragen. Die
-Pflichten nach den §§ 72 und 73 des Gebäudeenergiegesetzes vom 8.
-August 2020 (BGBl. I S. 1728) bleiben unberührt.
+der Einvernehmensregelung auf die Bundesnetzagentur übertragen.
 
 (4) Anschlussnehmer oder -nutzer haben dem Beauftragten oder
 Mitarbeiter des Netzbetreibers den Zutritt zu ihrem Grundstück und
@@ -18834,6 +18832,11 @@ Entscheidung abhängt, die nach diesem Gesetz zu treffen ist.
 
 (2) Die Rechtsstreitigkeiten sind Handelssachen im Sinne der §§ 93 bis
 114 des Gerichtsverfassungsgesetzes.
+
+(3) Die Absätze 1 und 2 gelten nicht für bürgerliche
+Rechtsstreitigkeiten, die sich aus den §§ 41f oder 41g ergeben oder
+deren Entscheidung ganz oder teilweise von einer Entscheidung abhängt,
+die nach den §§ 41f oder 41g zu treffen ist.
 
 
 #### § 103 Zuständigkeit eines Landgerichts für mehrere Gerichtsbezirke

@@ -18,6 +18,9 @@ Fundstelle
 Geändert durch
 :   Art. 2 G v. 4.1.2023 I Nr. 9
 
+Änderung durch
+:   Art. 8 Abs. 8 G v. 23.7.2026 I Nr. 226 mWv 29.7.2026 noch nicht berücksichtigt
+
 
 ## § 1 Anwendungsbereich
 

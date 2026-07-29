@@ -21,6 +21,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 5 G v. 3.7.2026 I Nr. 199 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 10 G v. 22.7.2026 I Nr. 222 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand
 :   Bek. v. 15.10.2024 I Nr. 338 ist berücksichtigt
 

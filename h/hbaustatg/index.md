@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 G v. 8.8.2020 I 1728
 
+Änderung durch
+:   Art. 8 Abs. 3 G v. 23.7.2026 I Nr. 226 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -87,8 +90,10 @@ Wohn- und Nichtwohnzwecken geändert wird.
     Baustoff; Art der Beheizung und vorgesehene Heizenergie; Art der
     Warmwasserbereitung und hierfür vorgesehene Energie; Anlagen zur
     Lüftung, Anlagen zur Kühlung sowie Art der Erfüllung der Pflicht zur
-    Nutzung erneuerbarer Energien nach dem Gebäudeenergiegesetz vom 8.
-    August 2020 (BGBl. I S. 1728); bei Wohngebäuden auch der Haustyp;
+    Nutzung erneuerbarer Energien nach dem Gebäudemodernisierungsgesetz
+    vom 8. August 2020 (BGBl. I S. 1728), das zuletzt durch Artikel 4 des
+    Gesetzes vom 23. Juli 2026 (BGBl. 2026 I Nr. 226) geändert worden ist,
+    in der jeweils geltenden Fassung; bei Wohngebäuden auch der Haustyp;
 
 7.  bei Gebäuden mit Wohnraum zusätzlich Zahl der Wohneinheiten nach Zahl
     der Räume;

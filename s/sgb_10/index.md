@@ -22,7 +22,7 @@ Neugefasst durch
 :   Bek. v. 18.1.2001 I 130;
 
 Zuletzt geändert durch
-:   Art. 15 Abs. 13 G v. 3.7.2026 I Nr. 199
+:   Art. 6 G v. 21.7.2026 I Nr. 221
 
 
 ## Erstes Kapitel - Verwaltungsverfahren
@@ -2519,9 +2519,8 @@ zulässig, soweit sie erforderlich ist
         dem ein Ausweisungsgrund nach den §§ 53 bis 56 des Aufenthaltsgesetzes
         vorliegt, Angaben über das zu erwartende soziale Verhalten,
 
-2.  für die Erfüllung der in § 87 Absatz 2 des Aufenthaltsgesetzes
-    oder in § 11 Absatz 7 des Freizügigkeitsgesetzes/EU bezeichneten
-    Mitteilungspflichten,
+2.  für die Erfüllung der in § 87 Absatz 2 und 7 des Aufenthaltsgesetzes
+    bezeichneten Mitteilungspflichten,
 
 3.  für die Erfüllung der in § 99 Absatz 1 Nummer 14 Buchstabe d, f
     und j des Aufenthaltsgesetzes bezeichneten Mitteilungspflichten,

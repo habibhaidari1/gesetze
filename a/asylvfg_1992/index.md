@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 7 G v. 3.7.2026 I Nr. 199
 
+Änderung durch
+:   Art. 10 G v. 21.7.2026 I Nr. 221 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand
 :   Dieses G ersetzt das G 26-5 v. 16.7.1982 I 946 (AsylVfG)
 
@@ -1947,11 +1950,12 @@ Eltern oder anderen Sorgeberechtigten sowie ihren volljährigen,
 ledigen Geschwistern. Die §§ 48 bis 50 bleiben unberührt.
 
 (1a) Abweichend von Absatz 1 sind Ausländer aus einem sicheren
-Herkunftsstaat (§§ 29a und 29b) verpflichtet, bis zur Entscheidung
-des Bundesamtes über den Asylantrag und im Falle der Ablehnung
-des Asylantrags als offensichtlich unbegründet oder im Falle
-einer Überstellungsentscheidung nach Artikel 42 Absatz 1 der
-Verordnung (EU) 2024/1351 bis zur Ausreise oder bis zum Vollzug
+Herkunftsstaat nach den §§ 29a oder 29b oder nach Artikel 62
+Absatz 1 bis 1b der Verordnung (EU) 2024/1348 verpflichtet, bis
+zur Entscheidung des Bundesamtes über den Asylantrag und im Falle
+der Ablehnung des Asylantrags als offensichtlich unbegründet oder
+im Falle einer Überstellungsentscheidung nach Artikel 42 Absatz 1
+der Verordnung (EU) 2024/1351 bis zur Ausreise oder bis zum Vollzug
 der Abschiebungsandrohung oder -anordnung in der für ihre Aufnahme
 zuständigen Aufnahmeeinrichtung zu wohnen. Satz 1 gilt nicht bei
 minderjährigen Kindern und ihren Eltern oder anderen Sorgeberechtigten

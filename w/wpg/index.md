@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 8 G v. 11.3.2026 I Nr. 66
 
+Änderung durch
+:   Art. 8 Abs. 10 G v. 23.7.2026 I Nr. 226 mWv 29.7.2026 noch nicht berücksichtigt
+
 
 ## Teil 1 - Allgemeine Bestimmungen
 

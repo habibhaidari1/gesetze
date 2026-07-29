@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 8 Abs. 3a G v. 27.9.2021 I 4530
 
+Änderung durch
+:   Art. 2 G v. 22.7.2026 I Nr. 225 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1
 
@@ -532,25 +535,52 @@ Ausstellung eines Europäischen Berufsausweises. Dabei soll vorgesehen
 werden, daß die pharmazeutische Prüfung in zeitlich getrennte
 Abschnitte zu teilen und die Abschlußprüfung innerhalb eines Monats
 nach dem Ende der Ausbildung abzulegen ist. Für die Meldung zur
-pharmazeutischen Prüfung sind Fristen festzulegen.
+pharmazeutischen Prüfung sind Fristen festzulegen. Außerdem können
+in der Rechtsverordnung auch die Voraussetzungen für die Fortführung
+und die fachlichen und zeitlichen Ausbildungserfordernisse für den
+Abschluss einer pharmazeutischen Ausbildung für die Fälle festgelegt
+werden, in denen außerhalb des Geltungsbereichs dieses Gesetzes
+ein Hochschulstudium der Pharmazie abgeschlossen, damit aber nach
+dem in dem betreffenden Staat geltenden Recht kein Abschluss der
+pharmazeutischen Ausbildung erreicht worden ist. Dabei kann auch
+vorgesehen werden, dass das außerhalb des Geltungsbereichs dieses
+Gesetzes abgeschlossene Hochschulstudium der Pharmazie an die Stelle
+von in der Rechtsverordnung vorgesehenen Inhalten der pharmazeutischen
+Ausbildung tritt.
+
+(1a) In der Rechtsverordnung ist darüber hinaus Folgendes zu regeln:
+
+1.  das Verfahren, die Durchführung und der Inhalt
+
+    a)  der Eignungsprüfung nach § 10b Absatz 8 sowie
+
+    b)  der Kenntnisprüfung nach § 10c Absatz 2 und 3,
+
+2.  das Verfahren und die Fristen zur Erteilung und Verlängerung der
+    Erlaubnis zur Ausübung des Apothekerberufs nach § 11,
+
+3.  das Verfahren und die Fristen zur Erteilung der Erlaubnis zur
+    partiellen Berufsausübung nach § 11a und
+
+4.  die Pflicht von Berufsqualifikationsinhabern, nach Maßgabe des
+    Artikels 52 Absatz 1 der Richtlinie 2005/36/EG die Berufsbezeichnung
+    des Aufnahmestaats zu führen und deren etwaige Abkürzung zu verwenden.
 
 (2) Das Bundesministerium für Gesundheit wird ermächtigt, durch
 Rechtsverordnung ohne Zustimmung des Bundesrates die Anlage zu § 4
-Absatz 1a Satz 1 an spätere Änderungen des Anhangs V Nummer 5.6.2 der
-Richtlinie 2005/36/EG anzupassen und die Verfahren zur Prüfung der
-Voraussetzungen des § 4 Absatz 1 Satz 1 Nummer 2 und 3, Absatz 1a bis
-1d, insbesondere für die vom Antragsteller vorzulegenden Nachweise
-und die Ermittlung durch die zuständigen Behörden, sowie die Fristen
-für die Erteilung der Approbation als Apotheker zu regeln, soweit
-dies nach den Artikeln 8, 50, 51 und 56 der Richtlinie 2005/36/EG
-erforderlich ist.
+Absatz 2 an neue Abkommen und an Änderungen bestehender Abkommen der
+Europäischen Union mit Drittstaaten in Bezug auf die Anerkennung von
+Ausbildungsnachweisen anzupassen und die Verfahren zur Prüfung der
+Voraussetzungen des § 4 Absatz 1 Satz 1 Nummer 2 und 3, § 10b Absatz
+1 bis 3 und § 15, insbesondere die vom Antragsteller vorzulegenden
+Nachweise und die Ermittlung durch die zuständigen Behörden, sowie
+die Fristen für die Erteilung der Approbation als Apotheker zu regeln,
+soweit dies nach den Artikeln 8, 50, 51 und 56 der Richtlinie 2005/36/
+EG erforderlich ist.
 
-(2a) In der Rechtsverordnung sind Regelungen zu Durchführung und
-Inhalt der Eignungsprüfung nach § 4 Absatz 2 und der Kenntnisprüfung
-nach § 4 Absatz 3 sowie zur Erteilung und Verlängerung der
-Berufserlaubnis nach § 11 vorzusehen.
+(2a) (weggefallen)
 
-(3) Abweichungen von den in den Absätzen 1 und 2 sowie der auf
+(3) Abweichungen von den in den Absätzen 1 bis 2 sowie der auf
 dieser Grundlage erlassenen Rechtsverordnung enthaltenen Regelungen
 des Verwaltungsverfahrens durch Landesrecht sind ausgeschlossen.
 Abweichend von Satz 1 können die Länder Abweichungen von den durch

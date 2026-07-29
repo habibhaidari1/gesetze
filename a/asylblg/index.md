@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 3 G v. 23.4.2026 I Nr. 112
 
+Änderung durch
+:   Art. 9 G v. 22.7.2026 I Nr. 222 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1 Leistungsberechtigte
 
@@ -180,15 +183,21 @@ nur Leistungen entsprechend Absatz 1.
 
 (3) Leistungsberechtigte nach § 1 Absatz 1 Nummer 2a, 4 und
 5, bei denen aus von ihnen selbst zu vertretenden Gründen
-aufenthaltsbeendende Maßnahmen nicht vollzogen werden können,
-erhalten ab dem auf die Vollziehbarkeit einer Einreiseverweigerung,
-die Vollziehbarkeit einer Abschiebungsandrohung oder Vollziehbarkeit
-einer Abschiebungsanordnung folgenden Tag nur Leistungen entsprechend
-Absatz 1. Können bei nach § 1 Absatz 1 Nummer 6 leistungsberechtigten
-Ehegatten, Lebenspartnern oder minderjährigen Kindern von
-Leistungsberechtigten nach § 1 Absatz 1 Nummer 4 oder 5 aus von ihnen
-selbst zu vertretenden Gründen aufenthaltsbeendende Maßnahmen nicht
-vollzogen werden, so gilt Satz 1 entsprechend.
+aufenthaltsbeendende Maßnahmen nicht vollzogen werden können, erhalten
+ab dem auf die Vollziehbarkeit einer Einreiseverweigerung, die
+Vollziehbarkeit einer Abschiebungsandrohung oder Vollziehbarkeit einer
+Abschiebungsanordnung folgenden Tag nur Leistungen entsprechend Absatz
+1\. Von Satz 1 umfasst sind insbesondere auch Leistungsberechtigte
+mit einer Duldung nach § 60b des Aufenthaltsgesetzes für Personen
+mit ungeklärter Identität, sofern nicht Tatsachen die Annahme
+rechtfertigen, dass Leistungsberechtigte die Gründe, auf Grund
+derer aufenthaltsbeendende Maßnahmen nicht vollzogen werden können,
+nicht oder nicht mehr selbst zu vertreten haben. Können bei nach §
+1 Absatz 1 Nummer 6 leistungsberechtigten Ehegatten, Lebenspartnern
+oder minderjährigen Kindern von Leistungsberechtigten nach § 1
+Absatz 1 Nummer 4 oder 5 aus von ihnen selbst zu vertretenden Gründen
+aufenthaltsbeendende Maßnahmen nicht vollzogen werden, so gilt Satz
+1 entsprechend.
 
 (4) Leistungsberechtigte nach § 1 Absatz 1 Nummer 1, 1a, 2 oder 5,
 für die in Abweichung von der Regelzuständigkeit nach der Verordnung

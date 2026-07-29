@@ -18,6 +18,18 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 8 G v. 22.6.2026 I Nr. 191
 
+Änderung durch
+:   Art. 1 G v. 23.7.2026 I Nr. 226 mWv 29.7.2026 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 2 G v. 23.7.2026 I Nr. 226 mWv 1.1.2027 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 3 G v. 23.7.2026 I Nr. 226 mWv 1.1.2028 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 4 G v. 23.7.2026 I Nr. 226 mWv 1.1.2030 noch nicht berücksichtigt
+
 Stand
 :   Die §§ 60b u. 60c treten gem. Art. 6 Abs. 2 G v. 16.10.2023 I Nr. 280 am 1.10.2024 in Kraft
 

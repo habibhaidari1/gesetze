@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 G v. 3.4.2025 I Nr. 106
 
+Änderung durch
+:   Art. 8 Abs. 5 G v. 23.7.2026 I Nr. 226 mWv 29.7.2026 noch nicht berücksichtigt
+
 
 ## Teil 1 - Berufsrecht
 
