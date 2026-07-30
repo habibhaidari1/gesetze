@@ -21,6 +21,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 1 G v. 26.6.2026 I Nr. 195 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 1 G v. 24.7.2026 I Nr. 228 mWv 30.7.2026 bzw. 1.1.2027 bzw. 1.1.2028 noch nicht berücksichtigt
+
 
 ## Erstes Kapitel - Allgemeine Vorschriften
 

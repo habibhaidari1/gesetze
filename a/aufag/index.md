@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2005, 3686
 
 Zuletzt geändert durch
-:   Art. 15 G v. 20.12.2022 I 2759
+:   Art. 7a G v. 24.7.2026 I Nr. 228
 
 
 ## § 1 Erstattungsanspruch
@@ -37,6 +37,10 @@ als 30 Arbeitnehmer und Arbeitnehmerinnen beschäftigen, 80 Prozent
     Arbeitgeberzuschüsse nach § 172a des Sechsten Buches Sozialgesetzbuch
     sowie der Beitragszuschüsse nach § 257 des Fünften und nach § 61 des
     Elften Buches Sozialgesetzbuch.
+
+Satz 1 gilt entsprechend für den Zeitraum, in dem ein Arbeitgeber
+anteiliges Arbeitsentgelt nach § 44c Absatz 4 des Fünften Buches
+Sozialgesetzbuch gewährt.
 
 (2) Die Krankenkassen mit Ausnahme der landwirtschaftlichen
 Krankenkasse erstatten den Arbeitgebern in vollem Umfang

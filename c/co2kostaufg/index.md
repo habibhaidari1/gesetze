@@ -27,23 +27,6 @@ Fundstelle
 Zweck dieses Gesetzes ist die Aufteilung der Kohlendioxidkosten
 zwischen Vermieter und Mieter entsprechend ihren
 Verantwortungsbereichen und Einflussmöglichkeiten auf den
-Kohlendioxidausstoß eines Gebäudes. Das Anreizsystem des
-Brennstoffemissionshandelsgesetzes vom 12. Dezember 2019 (BGBl. I
-S. 2728), das zuletzt durch Artikel 2 des Gesetzes vom 9. November
-2022 (BGBl. I S. 2006) geändert worden ist, in der jeweils geltenden
-Fassung, soll im Verhältnis von Vermieter und Mieter dergestalt
-wirken, dass die Nutzer eines Gebäudes zu energieeffizientem
-Verhalten und Gebäudeeigentümer zu Investitionen in klimaschonende
-Heizungssysteme und zu energetischen Sanierungen angereizt werden. Das
-Anreizsystem des Brennstoffemissionshandelsgesetzes und dieses Gesetz
-dienen der Reduktion von Treibhausgasemissionen im Gebäudebereich.
-
-
-### § 1 Zweck des Gesetzes
-
-Zweck dieses Gesetzes ist die Aufteilung der Kohlendioxidkosten
-zwischen Vermieter und Mieter entsprechend ihren
-Verantwortungsbereichen und Einflussmöglichkeiten auf den
 Kohlendioxidausstoß eines Gebäudes sowie die Aufteilung
 der Betriebskosten für Wohnraummietverhältnisse bei Einbau
 und Betrieb einer Heizungsanlage nach § 43 Absatz 1 des

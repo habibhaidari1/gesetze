@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 2 G v. 29.3.2026 I Nr. 87
 
 Änderung durch
-:   Art. 10 G v. 22.7.2026 I Nr. 224 mWv 1.2.2027 noch nicht berücksichtigt
+:   Art. 10 G v. 22.7.2026 I Nr. 224 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Stand
 :   Das G tritt gem. Art. 27 Satz 1 G v. 29.7.2009 I 2542 am 1.3.2010 in Kraft

@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 11 Abs. 11 G v. 16.4.2026 I Nr. 107
 
+Änderung durch
+:   Art. 7b G v. 24.7.2026 I Nr. 228 mWv 30.7.2026 noch nicht berücksichtigt
+
 
 ## Erstes Kapitel - Versicherter Personenkreis
 

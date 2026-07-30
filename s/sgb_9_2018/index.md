@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 13 G v. 16.1.2026 I Nr. 14
 
+Änderung durch
+:   Art. 2b G v. 24.7.2026 I Nr. 228 mWv 30.7.2026 noch nicht berücksichtigt
+
 
 ## Teil 1 - Regelungen für Menschen mit Behinderungen und von Behinderung bedrohte Menschen
 

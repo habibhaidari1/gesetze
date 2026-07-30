@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 8 G v. 16.4.2026 I Nr. 107
 
+Änderung durch
+:   Art. 2c G v. 24.7.2026 I Nr. 228 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erstes Kapitel - Allgemeine Vorschriften
 
@@ -6184,17 +6187,18 @@ getragen.
 
 (2) Die Beiträge für Bezieher von Krankengeld werden von den
 Leistungsbeziehern und den Krankenkassen je zur Hälfte getragen,
-soweit sie auf das Krankengeld entfallen und dieses nicht in Höhe der
-Leistungen der Bundesagentur für Arbeit zu zahlen ist, im übrigen von
-den Krankenkassen; die Beiträge werden auch dann von den Krankenkassen
-getragen, wenn das dem Krankengeld zugrunde liegende monatliche
-Arbeitsentgelt die Geringfügigkeitsgrenze nicht übersteigt. Die
-Beiträge für Bezieher von Krankengeld nach § 44a des Fünften Buches
-oder für den Ausfall von Arbeitseinkünften im Zusammenhang mit einer
-nach den §§ 8 und 8a des Transplantationsgesetzes erfolgenden Spende
-von Organen oder Geweben oder im Zusammenhang mit einer im Sinne von §
-9 des Transfusionsgesetzes erfolgenden Spende von Blut zur Separation
-von Blutstammzellen oder anderen Blutbestandteilen sind von der Stelle
+soweit sie auf das Krankengeld entfallen und dieses nicht in Höhe
+der Leistungen der Bundesagentur für Arbeit oder des § 47 Absatz 2a
+des Fünften Buches zu zahlen ist, im Übrigen von den Krankenkassen;
+die Beiträge werden auch dann von den Krankenkassen getragen, wenn
+das dem Krankengeld zugrunde liegende monatliche Arbeitsentgelt die
+Geringfügigkeitsgrenze nicht übersteigt. Die Beiträge für Bezieher
+von Krankengeld nach § 44a des Fünften Buches oder für den Ausfall
+von Arbeitseinkünften im Zusammenhang mit einer nach den §§ 8 und
+8a des Transplantationsgesetzes erfolgenden Spende von Organen
+oder Geweben oder im Zusammenhang mit einer im Sinne von § 9 des
+Transfusionsgesetzes erfolgenden Spende von Blut zur Separation von
+Blutstammzellen oder anderen Blutbestandteilen sind von der Stelle
 zu tragen, die die Leistung erbringt; wird die Leistung von mehreren
 Stellen erbracht, sind die Beiträge entsprechend anteilig zu tragen.
 

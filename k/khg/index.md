@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 G v. 9.4.2026 I Nr. 98
 
+Änderung durch
+:   Art. 4 G v. 24.7.2026 I Nr. 228 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## 1. Abschnitt - Allgemeine Vorschriften
 
@@ -1738,14 +1741,16 @@ ausbildenden Krankenhäusern, die nach § 15 des Hebammengesetzes für
 die Durchführung des berufspraktischen Teils des Hebammenstudiums
 verantwortlich sind, umfasst das Ausbildungsbudget nach Satz 1
 auch die nach § 134a Absatz 1e des Fünften Buches Sozialgesetzbuch
-vereinbarten Pauschalen. Die Vertragsparteien nach § 18 Absatz 2
-stellen bei der Vereinbarung des Ausbildungsbudgets Art und Anzahl
-der voraussichtlich belegten Ausbildungsplätze fest. Das Budget soll
-die Kosten der Ausbildungsstätten bei wirtschaftlicher Betriebsgröße
-und Betriebsführung decken und wird in seiner Entwicklung
-nicht durch den Veränderungswert nach § 9 Absatz 1b Satz 1 des
-Krankenhausentgeltgesetzes begrenzt. Die für den Vereinbarungszeitraum
-zu erwartenden Kostenentwicklungen sind zu berücksichtigen. Ab dem
+vereinbarten Pauschalen. Die Vertragsparteien nach § 18 Absatz
+2 stellen bei der Vereinbarung des Ausbildungsbudgets Art und
+Anzahl der voraussichtlich belegten Ausbildungsplätze fest. Das
+Budget soll die Kosten der Ausbildungsstätten bei wirtschaftlicher
+Betriebsgröße und Betriebsführung decken und wird in seiner
+Entwicklung nicht durch den nach § 9 Absatz 1b Satz 1 bis 3 des
+Krankenhausentgeltgesetzes vereinbarten oder festgelegten oder nach
+§ 9 Absatz 2 Satz 1 des Krankenhausentgeltgesetzes festgesetzten
+Veränderungswert begrenzt. Die für den Vereinbarungszeitraum zu
+erwartenden Kostenentwicklungen sind zu berücksichtigen. Ab dem
 Jahr 2010 sind bei der Vereinbarung des Ausbildungsbudgets auch
 die Richtwerte nach Absatz 4b zu berücksichtigen. Soweit Richtwerte
 nicht vereinbart oder nicht durch Rechtsverordnung vorgegeben sind,
@@ -2041,7 +2046,7 @@ insbesondere für
 
 (2) Der Spitzenverband Bund der Krankenkassen und der Verband der
 privaten Krankenversicherung gemeinsam vereinbaren entsprechend
-den Vorgaben der Absätze 1, 1a und 3 mit der Deutschen
+den Vorgaben der Absätze 1, 1a, 2a und 3 mit der Deutschen
 Krankenhausgesellschaft ein Vergütungssystem, das sich an einem
 international bereits eingesetzten Vergütungssystem auf der Grundlage
 der Diagnosis Related Groups (DRG) orientiert, seine jährliche
@@ -2076,6 +2081,50 @@ Vertragsparteien veröffentlichen in geeigneter Weise die Ergebnisse
 der Kostenerhebungen und Kalkulationen; die der Kalkulation zugrunde
 liegenden Daten einzelner Krankenhäuser sind vertraulich.
 
+(2a) Das Institut für das Entgeltsystem im Krankenhaus erarbeitet
+bis zum 31. März 2027 ein Konzept für geeignete Fallgruppen
+für eine gesonderte Kalkulation von Bewertungsrelationen für
+stationäre Behandlungsfälle mit einer Behandlungsdauer von
+bis zu drei Kalendertagen und maximal zwei Übernachtungen
+(Kurzzeitfallpauschalen). Auf der Grundlage dieses Konzepts schließen
+die Vertragsparteien nach Absatz 2 Satz 1 bis zum 30. April 2027 eine
+Vereinbarung zur gesonderten Kalkulation von Kurzzeitfallpauschalen.
+Eine untere Grenzverweildauer entsprechend den nach § 9 Absatz 1
+Nummer 1 des Krankenhausentgeltgesetzes zu vereinbarenden Regelungen
+zur Grenzverweildauer ist für Kurzzeitfallpauschalen nicht zu
+kalkulieren. Kurzzeitfallpauschalen sind erstmals im Rahmen der
+Weiterentwicklung des Vergütungssystems für das Jahr 2028 zu
+kalkulieren und im Entgeltkatalog für das Jahr 2028 auszuweisen.
+Behandlungsfälle, die mit Kurzzeitfallpauschalen vergütet werden,
+werden innerhalb der in Satz 1 genannten maximalen Behandlungsdauer
+unabhängig von der tatsächlichen Behandlungsdauer vergütet; übersteigt
+die tatsächliche Behandlungsdauer in einem Behandlungsfall die in Satz
+1 genannte maximale Behandlungsdauer, so wird dieser Behandlungsfall
+nicht mit einer Kurzzeitfallpauschale vergütet. Die Vertragsparteien
+stellen bei der jährlichen Weiterentwicklung und Anpassung des
+Vergütungssystems nach Absatz 2 sicher, dass Kostensenkungen, die
+sich bei der jährlichen Kalkulation von Kurzzeitfallpauschalen
+zeigen, zu einer Absenkung der Kurzzeitfallpauschalen sowie im
+Ergebnis auch zu einer Absenkung der Summe aller vereinbarten
+Kurzzeitfallpauschalen führen. Die Vertragsparteien prüfen im Rahmen
+der jährlichen Weiterentwicklung und Anpassung des Vergütungssystems
+nach Absatz 2 auf Grundlage der Kalkulation nach Absatz 3 Satz
+4, wie viele und welche der mit Kurzzeitfallpauschalen vergüteten
+Behandlungsfälle ambulant erbracht werden und ob für diese eine
+Überführung in den nach § 115b Absatz 1 Satz 1 Nummer 1 des Fünften
+Buches Sozialgesetzbuch vereinbarten oder nach § 115b Absatz 3 Satz 1
+des Fünften Buches Sozialgesetzbuch festgesetzten Katalog sachgerecht
+ist. Die Vertragsparteien überprüfen zudem, ob und inwieweit für
+Behandlungsfälle, für die eine Kurzzeitfallpauschale kalkuliert und
+ausgewiesen ist, eine spezielle sektorengleiche Vergütung nach §
+115f des Fünften Buches Sozialgesetzbuch abgerechnet werden kann. Die
+Vertragsparteien legen dem Bundesministerium für Gesundheit alle zwei
+Jahre, erstmals bis zum 31. Dezember 2030, einen gemeinsamen Bericht
+über die Auswirkungen der Einführung von Kurzzeitfallpauschalen
+auf die Versorgung von Patientinnen und Patienten vor. Das Institut
+für das Entgeltsystem im Krankenhaus hat die für die Erstellung des
+Berichts erforderlichen Auswertungen vorzunehmen.
+
 (3) Die Vertragsparteien nach Absatz 2 Satz 1 vereinbaren bis zum
 30\. Juni 2000 die Grundstrukturen des Vergütungssystems und des
 Verfahrens zur Ermittlung der Bewertungsrelationen auf Bundesebene
@@ -2093,10 +2142,13 @@ Kalkulation nach Satz 3; zur Gewährleistung einer repräsentativen
 Kalkulation der nach Absatz 4 auszugliedernden Pflegepersonalkosten
 und des nach Absatz 4b Satz 1 auszugliedernden Betrags für die
 Vorhaltevergütung hat das Institut für das Entgeltsystem im
-Krankenhaus das Konzept anzupassen. Das Institut für das Entgeltsystem
-im Krankenhaus bestimmt auf der Grundlage des Konzepts nach Satz
-4, welche Krankenhäuser an der Kalkulation teilnehmen; diese
-Krankenhäuser sind zur Übermittlung der für die Durchführung der
+Krankenhaus das Konzept anzupassen; sofern durch die Kalkulation
+von Kurzzeitfallpauschalen nach Absatz 2a Anpassungen am Konzept
+erforderlich werden, hat das Institut für das Entgeltsystem im
+Krankenhaus diese am Konzept vorzunehmen. Das Institut für das
+Entgeltsystem im Krankenhaus bestimmt auf der Grundlage des Konzepts
+nach Satz 4, welche Krankenhäuser an der Kalkulation teilnehmen;
+diese Krankenhäuser sind zur Übermittlung der für die Durchführung der
 Kalkulation erforderlichen Daten an das Institut für das Entgeltsystem
 im Krankenhaus verpflichtet.
 
@@ -2302,11 +2354,12 @@ nach § 6b des Krankenhausentgeltgesetzes in den Jahren 2028 bis 2031
 insbesondere hinsichtlich der Veränderung der Versorgungsstrukturen
 und der Qualität der Versorgung zu analysieren und auf der Grundlage
 dieser Analyse Empfehlungen zur Weiterentwicklung der Vergütung
-eines Vorhaltebudgets zu erstellen. Es hat in der Analyse zu
-prüfen, ob die Höhe des nach Absatz 4b Satz 1 auszugliedernden
-Anteils sachgerecht ist, ob die variablen Sachkosten sowie die
-Kosten von Querschnittsaufgaben sachgerecht abgebildet sind,
-ob durch die Ausgestaltung der Vorhaltevergütung unterjährige
+eines Vorhaltebudgets zu erstellen. Es hat in der Analyse zu prüfen,
+ob die Höhe des nach Absatz 4b Satz 1 auszugliedernden Anteils
+sachgerecht ist, ob die variablen Sachkosten sowie die Kosten von
+Querschnittsaufgaben sachgerecht abgebildet sind, ob die Einführung
+von Kurzzeitfallpauschalen Auswirkungen auf die Vorhaltevergütung
+hat, ob durch die Ausgestaltung der Vorhaltevergütung unterjährige
 Leistungseinschränkungen eintreten und inwieweit die Vergütung
 eines Vorhaltebudgets an dem bevölkerungsbezogenen Bedarf und
 fallzahlunabhängig ausgerichtet werden kann. Die Ergebnisse seiner
@@ -2376,7 +2429,10 @@ Bundespflegesatzverordnung ein.
 
 (7) Kommt eine in dieser Vorschrift genannte Vereinbarung nicht oder
 teilweise nicht zustande, entscheidet auf Antrag einer Vertragspartei
-die Schiedsstelle nach § 18a Absatz 6.
+die Schiedsstelle nach § 18a Absatz 6. Kommt die in Absatz 2a Satz
+2 genannte Vereinbarung nicht fristgerecht zustande, entscheidet die
+Schiedsstelle nach § 18a Absatz 6 abweichend von Satz 1 ohne Antrag
+bis zum Ablauf des 21. Mai 2027.
 
 (7a) Das Bundesministerium für Gesundheit wird ermächtigt, durch
 Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften über die
@@ -2440,7 +2496,11 @@ dass
 
 Die Krankenkassen können durch Einschaltung des Medizinischen Dienstes
 (§ 275 Absatz 1 des Fünften Buches Sozialgesetzbuch) die Einhaltung
-der in Satz 1 genannten Verpflichtungen prüfen.
+der in Satz 1 genannten Verpflichtungen prüfen. Der Medizinische
+Dienst hat abrechnungsrelevante Auffälligkeiten, die er im Rahmen
+einer Prüfung feststellt, in seine Prüfung einzubeziehen, auch wenn
+die Auffälligkeiten nicht Anlass der Einschaltung des Medizinischen
+Dienstes sind.
 
 (2) Der Spitzenverband Bund der Krankenkassen und die Deutsche
 Krankenhausgesellschaft regeln das Nähere zum Prüfverfahren nach §
@@ -2475,9 +2535,11 @@ Regelungen über
     einzelfallbezogene Erörterung nach Absatz 2b Satz 1
 
 zu treffen; die §§ 275 bis 283a des Fünften Buches Sozialgesetzbuch
-bleiben im Übrigen unberührt. Bei der Regelung nach Satz 2
-Nummer 2 ist der Medizinische Dienst Bund zu beteiligen. Die
-Vertragsparteien nach Satz 1 haben bis zum 31. Dezember 2020
+bleiben im Übrigen unberührt. Dem Medizinischen Dienst Bund ist bei
+einer Anpassung der Regelungen nach Satz 2 Nummer 2, 4, 5 oder 6
+Gelegenheit zur Stellungnahme zu geben; eine Stellungnahme ist bei
+der jeweiligen Anpassung der Regelung angemessen zu berücksichtigen.
+Die Vertragsparteien nach Satz 1 haben bis zum 31. Dezember 2020
 gemeinsame Umsetzungshinweise zu der Vereinbarung nach Satz 1 zu
 vereinbaren; die Umsetzungshinweise gelten als Bestandteil der
 Vereinbarung nach Satz 1. Die Regelung nach Satz 2 Nummer 8 ist
@@ -2486,20 +2548,23 @@ innerhalb welcher angemessenen Frist Tatsachen und Einwendungen
 schriftlich oder elektronisch geltend gemacht werden müssen, die
 im Rahmen der Erörterung zu berücksichtigen sind, unter welchen
 Voraussetzungen eine nicht fristgemäße Geltendmachung von Einwendungen
-oder Tatsachenvortrag zugelassen werden kann, wenn sie auf nicht zu
-vertretenden Gründen beruht, und in welcher Form das Ergebnis der
-Erörterung einschließlich der geltend gemachten Einwendungen und des
-geltend gemachten Tatsachenvortrags zu dokumentieren sind. Kommt eine
-Vereinbarung nach Satz 1 oder Satz 5 ganz oder teilweise nicht oder
-nicht fristgerecht zu Stande, trifft auf Antrag einer Vertragspartei
-die Schiedsstelle nach § 18a Absatz 6 die ausstehenden Entscheidungen.
-Die Vereinbarung oder Festsetzung durch die Schiedsstelle ist für
-die Krankenkassen, den Medizinischen Dienst der Krankenversicherung
-und die zugelassenen Krankenhäuser unmittelbar verbindlich. Die
-Vertragsparteien nach Satz 1 geben das Datum des Inkrafttretens
-der Vereinbarung nach Satz 5 oder der Festsetzung nach Satz 6 in
-Verbindung mit Satz 5 unverzüglich nach dem Abschluss der Vereinbarung
-oder nach der Festsetzung im Bundesanzeiger bekannt.
+oder Tatsachenvortrag zugelassen werden kann, wenn sie auf nicht
+zu vertretenden Gründen beruht, und in welcher Form das Ergebnis
+der Erörterung einschließlich der geltend gemachten Einwendungen
+und des geltend gemachten Tatsachenvortrags zu dokumentieren sind.
+Kommt eine Vereinbarung nach Satz 1 oder Satz 5 ganz oder teilweise
+nicht oder nicht fristgerecht zu Stande, trifft auf Antrag einer
+Vertragspartei die Schiedsstelle nach § 18a Absatz 6 die ausstehenden
+Entscheidungen. Die Vereinbarung oder Festsetzung durch die
+Schiedsstelle ist für die Krankenkassen, den Medizinischen Dienst der
+Krankenversicherung und die zugelassenen Krankenhäuser unmittelbar
+verbindlich. Die Vertragsparteien nach Satz 1 geben das Datum des
+Inkrafttretens der Vereinbarung nach Satz 5 oder der Festsetzung nach
+Satz 6 in Verbindung mit Satz 5 unverzüglich nach dem Abschluss der
+Vereinbarung oder nach der Festsetzung im Bundesanzeiger bekannt. Die
+Vertragsparteien nach Satz 1 prüfen bis zum 30. Juni 2027, wie von dem
+nach Satz 2 Nummer 3 geregelten Verfahren zukünftig noch umfassender
+Gebrauch gemacht werden kann.
 
 (2a) Nach Übermittlung der Abrechnung an die Krankenkasse ist eine
 Korrektur dieser Abrechnung durch das Krankenhaus ausgeschlossen, es

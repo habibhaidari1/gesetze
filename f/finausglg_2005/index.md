@@ -21,6 +21,9 @@ Zuletzt geändert durch
 Mittelbare änderung durch
 :   Art. 3 G v. 27.10.2025 I Nr. 255 ist berücksichtigt
 
+Änderung durch
+:   Art. 1 G v. 24.7.2026 I Nr. 227 ist berücksichtigt
+
 Das g tritt gem. § 20 mit ablauf des 31.12.2019 außer kraft; § 20 aufgeh. durch
 :   Art. 2 Nr. 21 G v. 14.8.2017 I 3122 mWv 1.1.2020; Art. 2 Nr. 21 aufgeh. durch Art. 4 Nr. 2 G v. 17.12.2018 I 2522; § 20 aufgeh. durch Art. 1 Nr. 2 G v. 17.12.2018 I 2522 mWv 21.12.2018; dadurch ist die Geltung dieses G über den 31.12.2019 hinaus verlängert worden
 
@@ -309,15 +312,36 @@ Länder mit 100 Prozent gewertet.
 
 ### § 10 Bemessung der Zu- und Abschläge
 
-(1) Die Höhe des Zuschlags, der einem Land zu gewähren ist, beträgt 63
-Prozent des Betrags, um den die Ausgleichsmesszahl dieses Landes seine
-Finanzkraftmesszahl übersteigt.
+(1) Die Höhe des Zuschlags, der einem Land zu gewähren ist, beträgt
+63 Prozent des Betrags, um den die Ausgleichsmesszahl dieses Landes
+seine Finanzkraftmesszahl übersteigt. Abweichend von Satz 1 ergibt
+sich in den Ausgleichsjahren von 2026 bis 2029 die Höhe des Zuschlags
+eines Landes, indem der Fehlbetrag, um den seine Ausgleichsmesszahl
+seine Finanzkraftmesszahl übersteigt, nach Bereichen getrennt mit
+gestaffelten Prozentsätzen ausgeglichen wird. Für den Fehlbetrag
+eines Landes nach Satz 2, der auf den Bereich zwischen 147/148 und
+100 Prozent seiner Ausgleichsmesszahl entfällt, beträgt der Ausgleich
+63 Prozent dieses Fehlbetrags. Weist ein Land ferner einen Fehlbetrag
+nach Satz 2 an 147/148 seiner Ausgleichsmesszahl auf, beträgt der
+Ausgleich für diesen Teil des Fehlbetrags 63 Prozent abzüglich eines
+Prozentsatzes k. Der Prozentsatz k nach Satz 4 ergibt sich für das
+jeweilige Ausgleichsjahr, indem die Fehlbeträge der einzelnen Länder
+an 147/148 ihrer Ausgleichsmesszahl summiert werden und anschließend
+400 Millionen Euro durch diese Summe geteilt wird.
 
-(2) Die Höhe des Abschlags, der von einem Land zu erheben ist, beträgt
-63 Prozent des Betrags, um den die Finanzkraftmesszahl dieses Landes
-seine Ausgleichsmesszahl übersteigt. Soweit die Höhe des Abschlags
-eines Landes seinen nach § 2 ermittelten Anteil übersteigt, ist der
-Unterschiedsbetrag von diesem Land aufzubringen.
+(2) Die Höhe des Abschlags, der von einem Land zu erheben ist,
+beträgt 63 Prozent des Betrags, um den die Finanzkraftmesszahl dieses
+Landes seine Ausgleichsmesszahl übersteigt. Abweichend von Satz 1
+ergibt sich in den Ausgleichsjahren von 2026 bis 2029 der Abschlag
+eines Landes, indem der Betrag, um den seine Finanzkraftmesszahl
+seine Ausgleichsmesszahl übersteigt, mit 63 Prozent abzüglich eines
+Prozentsatzes p multipliziert wird. Der Prozentsatz p nach Satz 2
+wird für das jeweilige Ausgleichsjahr bestimmt, indem die Beträge,
+um die die Finanzkraftmesszahlen der einzelnen Länder ihre jeweiligen
+Ausgleichsmesszahlen übersteigen, summiert werden und anschließend
+400 Millionen Euro durch diese Summe geteilt wird. Soweit die Höhe des
+Abschlags eines Landes seinen nach § 2 ermittelten Anteil übersteigt,
+ist der Unterschiedsbetrag von diesem Land aufzubringen.
 
 
 ## Dritter Abschnitt - Bundesergänzungszuweisungen
@@ -336,7 +360,13 @@ Leistungsschwach im Sinne von Satz 1 ist ein Land, dessen Summe
 aus Finanzkraftmesszahl und Zuschlag nach § 10 Fehlbeträge an 99,75
 Prozent der Ausgleichsmesszahl des Ausgleichsjahres aufweist. Ein
 leistungsschwaches Land erhält 80 Prozent dieser Fehlbeträge als
-allgemeine Bundesergänzungszuweisungen.
+allgemeine Bundesergänzungszuweisungen. Abweichend von Satz 3 erhält
+in den Ausgleichsjahren von 2026 bis 2029 ein leistungsschwaches Land
+80 Prozent zuzüglich eines Prozentsatzes z der Fehlbeträge nach Satz
+2 als allgemeine Bundesergänzungszuweisungen. Der Prozentsatz z nach
+Satz 4 ergibt sich, indem der Prozentsatz k nach § 10 Absatz 1 Satz
+5 mit 0,2 multipliziert und anschließend durch die Summe aus 0,37 und
+dem Prozentsatz k nach § 10 Absatz 1 Satz 5 geteilt wird.
 
 (3) Zum Ausgleich von Sonderlasten durch die strukturelle
 Arbeitslosigkeit und der daraus entstehenden überproportionalen
@@ -384,6 +414,22 @@ Kriterium der Leistungsschwäche gemäß Absatz 2 Satz 2 erfüllen:
 Bund und Länder überprüfen gemeinsam die Voraussetzungen der Vergabe
 in einem Abstand von fünf Jahren, erstmals im Jahr 2023, im Hinblick
 auf die Vergabe im jeweils übernächsten Jahr.
+
+(4a) Zum Ausgleich von Sonderlasten aus übermäßigen kommunalen
+Liquiditätskrediten erhalten nachstehende Länder im Zeitraum von 2026
+bis 2029 jährlich folgende Sonderbedarfs-Bundesergänzungszuweisungen:
+
+| Brandenburg | 381 203 Euro, |
+| --- | --- |
+| Mecklenburg-Vorpommern | 1 571 917 Euro, |
+| Niedersachsen | 22 926 288 Euro, |
+| Nordrhein-Westfalen | 164 466 009 Euro, |
+| Rheinland-Pfalz | 35 269 622 Euro, |
+| Saarland | 10 519 462 Euro, |
+| Sachsen | 1 818 336 Euro, |
+| Sachsen-Anhalt | 9 592 526 Euro, |
+| Schleswig-Holstein | 3 344 211 Euro, |
+| Thüringen | 110 425 Euro.“ |
 
 (5) Leistungsschwache Länder, in denen die kommunalen Steuereinnahmen
 gemäß § 8 Absatz 1 und 2 im Ausgleichsjahr je Einwohner weniger
@@ -510,9 +556,9 @@ die mit der Abschlagszahlung des vorausgegangenen Zahlungstermins zu
 viel oder zu wenig gezahlten Beträge verrechnet. Für die endgültige
 Abrechnung der Bundesergänzungszuweisungen gilt § 15 entsprechend.
 
-(2) Die Bundesergänzungszuweisungen nach § 11 Absatz 3 sind mit je
-einem Viertel ihres Betrages am 15. März, 15. Juni, 15. September und
-15\. Dezember fällig.
+(2) Die Bundesergänzungszuweisungen nach § 11 Absatz 3 und 4a sind mit
+je einem Viertel ihres Betrages am 15. März, 15. Juni, 15. September
+und 15. Dezember fällig.
 
 
 ### § 17 Vollzug der Verteilung des Gemeindeanteils an der Umsatzsteuer

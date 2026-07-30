@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 G v. 9.4.2026 I Nr. 98
 
+Änderung durch
+:   Art. 3 G v. 24.7.2026 I Nr. 228 mWv 30.7.2026 bzw. 1.1.2027 noch nicht berücksichtigt
+
 
 ## Abschnitt 1 - Allgemeine Vorschriften
 

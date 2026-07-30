@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 Abs. 10 G v. 12.5.2026 I Nr. 143
 
+Änderung durch
+:   Art. 2a G v. 24.7.2026 I Nr. 228 mWv 30.7.2026 noch nicht berücksichtigt
+
 Stand
 :   Ergänzung aufgrund der Sozialversicherungsrechengrößen-Verordnung 2026 v. 24.11.2025 I Nr. 278 ist berücksichtigt
 

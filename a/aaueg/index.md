@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1991, 1606, 1677
 
 Zuletzt geändert durch
-:   Art. 4 G v. 6.10.2020 I 2072
+:   Art. 2 G v. 24.7.2026 I Nr. 227
 
 
 ## Erster Abschnitt
@@ -774,13 +774,13 @@ Erstattungsbeträge sind angemessene Vorschüsse zu zahlen.
 
 (2) Die dem Bund durch die Erstattung nach Absatz 1 entstehenden
 Aufwendungen werden ihm in Höhe der Aufwendungen für das
-Sonderversorgungssystem nach Anlage 2 Nr. 2 sowie in Höhe von zwei
-Dritteln der Aufwendungen für die Zusatzversorgungssysteme nach Anlage
-1 Nr. 1 bis 22 von den Ländern im Beitrittsgebiet erstattet. Der von
-den Ländern im Beitrittsgebiet an den Bund zu erstattende Anteil an
-den Aufwendungen für die Zusatzversorgungssysteme nach Anlage 1 Nummer
-1 bis 22 verringert sich von 60 vom Hundert auf 50 vom Hundert ab dem
-Jahr 2021.
+Sonderversorgungssystem nach Anlage 2 Nummer 2 sowie in Höhe von 50
+Prozent der Aufwendungen für die Zusatzversorgungssysteme nach Anlage
+1 Nummer 1 bis 22 von den Ländern im Beitrittsgebiet erstattet.
+Abweichend von Satz 1 beträgt der von den Ländern im Beitrittsgebiet
+an den Bund zu erstattende Anteil an den Aufwendungen für die
+Zusatzversorgungssysteme nach Anlage 1 Nummer 1 bis 22 in den Jahren
+2026 bis 2029 40 Prozent.
 
 (2a) (weggefallen)
 

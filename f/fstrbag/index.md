@@ -19,18 +19,17 @@ Zuletzt geändert durch
 :   Art. 3 G v. 31.5.2021 I 1221
 
 Änderung durch
-:   Art. 14 G v. 22.7.2026 I Nr. 224 mWv 29.7.2026 noch nicht berücksichtigt
+:   Art. 14 G v. 22.7.2026 I Nr. 224 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## § 1 Errichtung
 
 (1) Zum 1. Januar 2021 wird das Fernstraßen-Bundesamt als
 Bundesoberbehörde im Geschäftsbereich des Bundesministeriums für
-Verkehr und digitale Infrastruktur seine Tätigkeit aufnehmen.
+Verkehr seine Tätigkeit aufnehmen.
 
-(2) Auf Vorschlag des Bundesministeriums für Verkehr und digitale
-Infrastruktur bestimmt die Bundesregierung den Sitz des Fernstraßen-
-Bundesamtes.
+(2) Auf Vorschlag des Bundesministeriums für Verkehr bestimmt die
+Bundesregierung den Sitz des Fernstraßen-Bundesamtes.
 
 (3) Das Fernstraßen-Bundesamt wird von einem Präsidenten oder einer
 Präsidentin geleitet.
@@ -66,18 +65,17 @@ Präsidentin geleitet.
 Im Übrigen ist das Fernstraßen-Bundesamt zuständig, sofern und soweit
 ihm durch ein Gesetz oder auf Grund eines Gesetzes Aufgaben zugewiesen
 werden. Das Fernstraßen-Bundesamt unterstützt das Bundesministerium
-für Verkehr und digitale Infrastruktur fachlich bei der Wahrnehmung
-der Bundesaufsicht über die Landesbehörden, soweit dem Bund die
-Verwaltung der Bundesstraßen nicht zusteht, bei der Erarbeitung von
-Rechts- und Verwaltungsvorschriften sowie bei der zwischenstaatlichen
-Zusammenarbeit.
+für Verkehr fachlich bei der Wahrnehmung der Bundesaufsicht über die
+Landesbehörden, soweit dem Bund die Verwaltung der Bundesstraßen nicht
+zusteht, bei der Erarbeitung von Rechts- und Verwaltungsvorschriften
+sowie bei der zwischenstaatlichen Zusammenarbeit.
 
 (2) Das Fernstraßen-Bundesamt ist Anhörungs- und
 Planfeststellungsbehörde in Planfeststellungsverfahren oder
 Plangenehmigungsbehörde in Plangenehmigungsverfahren, die auf der
-Grundlage des § 17 des Bundesfernstraßengesetzes für den Bau oder die
-Änderung von Bundesautobahnen durchgeführt werden. Es trifft in den in
-Satz 1 genannten Fällen auch die Entscheidung nach § 74 Absatz 7 des
+Grundlage des § 17 des Bundesfernstraßengesetzes für den Bau oder
+die Änderung von Bundesautobahnen durchgeführt werden. Es trifft in
+den in Satz 1 genannten Fällen auch die Entscheidung nach § 74b des
 Verwaltungsverfahrensgesetzes.
 
 (3) Soweit nach Artikel 90 Absatz 4 oder Artikel 143e Absatz 2
@@ -153,18 +151,21 @@ unterlassen hat, zu richten. Ein Verfahren gilt als eingeleitet
     Nummer 2 Satz 2 und § 17a des Bundesfernstraßengesetzes in Verbindung
     mit § 73 Absatz 1 des Verwaltungsverfahrensgesetzes.
 
-Bei Planergänzungen oder ergänzenden Verfahren kann an die Stelle
-des Antrags auch eine von Amts wegen getroffene Entscheidung der
-Planfeststellungsbehörde des Landes treten.
+Bei Planergänzungen oder ergänzenden Verfahren kann an
+die Stelle des Antrags auch eine von Amts wegen getroffene
+Entscheidung der Planfeststellungsbehörde des Landes treten. Das
+Bundesfernstraßengesetz und das Verwaltungsverfahrensgesetz sind im
+Rahmen dieses Absatzes in der bis zum 29. Juli 2026 geltenden Fassung
+anzuwenden.
 
 (3) Wenn ein Land dies beim Fernstraßen-Bundesamt beantragt,
 ist abweichend von § 2 Absatz 2 und 3 eine nach Landesrecht
 zuständige Behörde die Anhörungs- und Planfeststellungsbehörde
 in Planfeststellungsverfahren oder die Plangenehmigungsbehörde
 in Plangenehmigungsverfahren, die auf der Grundlage des § 17
-des Bundesfernstraßengesetzes für den Bau oder die Änderung von
-Bundesautobahnen oder Bundesstraßen in Bundesverwaltung durchgeführt
-werden, sowie für die Entscheidung nach § 74 Absatz 7 des
+des Bundesfernstraßengesetzes für den Bau oder die Änderung
+von Bundesautobahnen oder Bundesstraßen in Bundesverwaltung
+durchgeführt werden, sowie für die Entscheidung nach § 74b des
 Verwaltungsverfahrensgesetzes zuständig. Sofern das Fernstraßen-
 Bundesamt und das Land nicht etwas anderes vereinbaren, wird
 die beantragte Übernahme wirksam mit Beginn des zweiten auf die
@@ -187,22 +188,21 @@ Fernstraßen-Bundesamt fortgeführt werden und das jeweilige Land die
 Kosten ab dem Zeitpunkt der wirksamen Übernahme erstattet.
 
 (4) Bei Zuständigkeit einer nach Landesrecht zuständigen Behörde
-ist das Bundesministerium für Verkehr und digitale Infrastruktur
-berechtigt, die Zuständigkeit für die Befugnisse nach § 2 Absatz 2
-und 3 dem Fernstraßen-Bundesamt zu übertragen, sofern es tatsächliche
-Anhaltspunkte gibt, dass ein Land seiner Aufgabe zur Schaffung von
-Baurecht nach den §§ 17 bis 17e des Bundesfernstraßengesetzes nicht
-ordnungsgemäß nachkommt. Die Übertragung der Befugnisse auf das
-Fernstraßen-Bundesamt wird mit Beginn des zweiten auf die Entscheidung
-des Bundesministeriums für Verkehr und digitale Infrastruktur
-folgenden Kalenderjahres wirksam und der Bund trägt ab diesem
+ist das Bundesministerium für Verkehr berechtigt, die Zuständigkeit
+für die Befugnisse nach § 2 Absatz 2 und 3 dem Fernstraßen-Bundesamt
+zu übertragen, sofern es tatsächliche Anhaltspunkte gibt, dass ein
+Land seiner Aufgabe zur Schaffung von Baurecht nach den §§ 17 bis
+17e des Bundesfernstraßengesetzes nicht ordnungsgemäß nachkommt. Die
+Übertragung der Befugnisse auf das Fernstraßen-Bundesamt wird mit
+Beginn des zweiten auf die Entscheidung des Bundesministeriums für
+Verkehr folgenden Kalenderjahres wirksam und der Bund trägt ab diesem
 Zeitpunkt die Kosten. Absatz 2 gilt entsprechend, so dass die bis
 zum Zeitpunkt der wirksamen Übertragung auf das Fernstraßen-Bundesamt
 eingeleiteten Verfahren von dem jeweiligen Land fortgeführt werden
 und das Fernstraßen-Bundesamt dem jeweiligen Land die Kosten ab dem
 Zeitpunkt der wirksamen Übertragung erstattet. Das Bundesministerium
-für Verkehr und digitale Infrastruktur wird den Zeitpunkt der
-wirksamen Übertragung im Bundesanzeiger veröffentlichen.
+für Verkehr wird den Zeitpunkt der wirksamen Übertragung im
+Bundesanzeiger veröffentlichen.
 
 
 ## § 4 Straßenverkehrsrechtliche Aufgaben des Fernstraßen-Bundesamtes

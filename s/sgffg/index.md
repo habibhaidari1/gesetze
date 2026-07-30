@@ -19,7 +19,7 @@ Geändert durch
 :   Art. 5 G v. 9.6.2021 I 1730
 
 Änderung durch
-:   Art. 20 G v. 22.7.2026 I Nr. 224 mWv 29.7.2026 noch nicht berücksichtigt
+:   Art. 20 G v. 22.7.2026 I Nr. 224 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## § 1 Anwendungsbereich
@@ -103,21 +103,21 @@ Aus- und Neubaus, wenn
 
 Unter den Voraussetzungen des Satzes 1 Nummer 1 und 3 bis 7
 werden auch Aus- und Neubauinvestitionen in Schienenwege in
-Serviceeinrichtungen nach Anlage 2 Nummer 2 Buchstabe c und d des
-Eisenbahnregulierungsgesetzes gefördert.
+Serviceeinrichtungen nach Anlage 2 Nummer 2 Buchstabe c und d
+des Eisenbahnregulierungsgesetzes und in Schienenwege in See- und
+Binnenhäfen gefördert.
 
-(7) Auf die Förderung von Investitionen von Schienenwegen,
-die ausschließlich der wirtschaftlichen Tätigkeit eines Hafens
-zugutekommen und von jeder Art von Schienenwegen, die für den
+(7) Auf die Förderung von Investitionen in Schienenwege, die
+ausschließlich der wirtschaftlichen Tätigkeit eines Hafens
+zugutekommen, und in jede Art von Schienenwegen, die für den
 Zugang der Nutzer zu einem Hafen erforderlich sind, findet die
 Verordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni 2014 zur
 Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen mit
-dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über
-die Arbeitsweise der Europäischen Union (ABl. L 187 vom 26.6.2014, S.
-1), in der jeweils gültigen Fassung Anwendung. Die Förderung erfolgt
-bis zum Wegfall der Freistellungsvoraussetzung der Verordnung (EU) Nr.
-651/2014 oder eines Rechtsaktes, der an die Stelle der Verordnung (EU)
-Nr. 651/2014 tritt.
+dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags
+über die Arbeitsweise der Europäischen Union, in der jeweils gültigen
+Fassung, Anwendung. Die Förderung erfolgt bis zum Wegfall der
+Freistellungsvoraussetzung der Verordnung (EU) Nr. 651/2014 oder eines
+Rechtsaktes, der an die Stelle der Verordnung (EU) Nr. 651/2014 tritt.
 
 
 ## § 2 Investitionen
@@ -137,9 +137,13 @@ Artikel 56b Absatz 9 der Verordnung (EU) Nr. 651/2014 (Seehäfen)
 beziehungsweise Artikel 56c Absatz 8 der Verordnung (EU) Nr. 651/2014
 (Binnenhäfen) Anwendung. Eine Verknüpfung mit anderen Zuwendungen
 der öffentlichen Hand ist möglich. Die Gesamtförderung darf dabei
-insgesamt maximal 80 Prozent der Investitionen betragen. Die
-Zuwendungshöchstgrenze beträgt für Seehäfen 5 Millionen Euro und für
-Binnenhäfen 2 Millionen Euro.
+insgesamt maximal 80 Prozent der Investitionen betragen. Die Höhe
+dieser Zuwendungshöchstgrenze wird durch die Verordnung (EU) Nr.
+651/2014 der Kommission vom 17. Juni 2014 zur Feststellung der
+Vereinbarkeit bestimmter Gruppen von Beihilfen mit dem Binnenmarkt in
+Anwendung der Artikel 107 und 108 des Vertrags über die Arbeitsweise
+der Europäischen Union (ABl. L 187 vom 26.6.2014, S. 1), in der
+jeweils gültigen Fassung festgelegt.
 
 (3) Die Finanzierung erfolgt mit nicht rückzahlbaren
 Baukostenzuschüssen als Anteilfinanzierung im Wege der
