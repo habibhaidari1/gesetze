@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 354
 
-Änderung durch
-:   Art. 7 G v. 23.7.2026 I Nr. 226 mWv 1.1.2027 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Geändert durch
+:   Art. 7 G v. 23.7.2026 I Nr. 226
 
 
 ## Eingangsformel

@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 4 G v 22.7.2026 I Nr. 222 mWv 29.7.2026 noch nicht berücksichtigt
 
 Änderung durch
-:   Art. 11 G v 22.7.2026 I Nr. 222 mWv 29.7.2026 bzw. mWv 1.5.2030 bzw. mit zukünftiger Wirkung noch nicht berücksichtigt
+:   Art. 11 G v 22.7.2026 I Nr. 222 mit zukünftiger Wirkung noch nicht berücksichtigt
 
 
 ## Kapitel 1 - Allgemeine Bestimmungen

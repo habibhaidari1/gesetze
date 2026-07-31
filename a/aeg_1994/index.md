@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 1 G v. 17.7.2025 I Nr. 164
 
 Änderung durch
-:   Art. 1 G v. 22.7.2026 I Nr. 224 mWv 29.7.2026 noch nicht berücksichtigt
+:   Art. 1 G v. 22.7.2026 I Nr. 224 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## § 1 Anwendungsbereich, Wettbewerbsbedingungen
@@ -221,7 +221,7 @@ Fassung.
 
 Die für Eisenbahnverkehr zuständige oberste Landesbehörde stellt auf
 Antrag, soweit es sich nicht um Schienenbahnen des Bundes handelt, im
-Benehmen mit dem Bundesministerium für Digitales und Verkehr fest,
+Benehmen mit dem Bundesministerium für Verkehr fest,
 
 1.  ob und inwieweit eine Schienenbahn eine Eisenbahn im Sinne dieses
     Gesetzes ist,
@@ -382,28 +382,87 @@ die Aufzeichnungen ab dem Tag der Kennzeichnung fünf Jahre lang
 aufzubewahren.
 
 (6) Im Hinblick auf Errichtung, Änderung, Unterhaltung und Betrieb der
-Betriebsanlagen und der Fahrzeuge von Eisenbahnen des Bundes obliegen
-dem Eisenbahn-Bundesamt
+Betriebsanlagen und der Fahrzeuge von Eisenbahnen des Bundes ist das
+Eisenbahn-Bundesamt für folgende Aufgaben zuständig:
 
-1.  die Erteilung von Baufreigaben, Genehmigungen, Bewilligungen,
-    Erlaubnisse und sonstige Zulassungen sowie
+1.  Im Bereich des Bundes-Immissionsschutzgesetzes und der darauf
+    beruhenden Rechtsverordnungen
 
-2.  die Abnahmen, Prüfungen und Überwachungen
+    a)  die Genehmigung und Überwachung von genehmigungsbedürftigen Anlagen,
 
-auf Grund anderer Gesetze und Verordnungen des Bundes. Folgende
-Zulassungen nach Satz 1 Nummer 1 dürfen nur im Benehmen mit der
-zuständigen Wasserbehörde erteilt werden:
+    b)  die Genehmigung und Überwachung von Betriebsbereichen,
 
-1.  Erlaubnisse und Bewilligungen für Gewässerbenutzungen nach § 8 Absatz
-    1 des Wasserhaushaltsgesetzes,
+    c)  die Überwachung nicht genehmigungsbedürftiger Anlagen,
 
-2.  Zulassungen nach § 78a Absatz 2 des Wasserhaushaltsgesetzes.
+    d)  die Ermittlung von Emissionen und Immissionen und die Durchführung
+        sicherheits-technischer Prüfungen im Rahmen der unter a) bis c)
+        genannten Aufgaben mit Ausnahme der Bekanntgabe von Stellen und
+        Sachverständigen nach § 29b BImSchG,
 
-Von der Überwachung durch das Eisenbahn-Bundesamt nach Satz 1
-Nummer 2 ausgenommen ist die Gewässeraufsicht nach § 100 des
-Wasserhaushaltsgesetzes für Betriebsanlagen der Eisenbahnen
-des Bundes, die Anlagen im Sinne des § 36 Absatz 1 des
-Wasserhaushaltsgesetzes sind. § 5 Absatz 5 bleibt unberührt.
+    e)  die Überwachung der §§ 38 und 41 BImSchG gemäß § 52 BImSchG,
+
+    f)  der Vollzug der auf dem Bundes-Immissionsschutzgesetz beruhenden
+        Rechtsverordnungen, soweit er der Erfüllung der unter a) bis e)
+        genannten Aufgaben dient.
+
+2.  Im Bereich des Wasserhaushaltsgesetzes und der darauf beruhenden
+    Rechtsverordnungen:
+
+    a)  die Erteilung von Erlaubnissen oder Bewilligungen für
+        Gewässerbenutzungen,
+
+    b)  die Entgegenahme von Anzeigen für Erdaufschlüsse,
+
+    c)  die Erteilung von Genehmigung für Indirekteinleitungen,
+
+    d)  die Eignungsfeststellung für Anlagen zum Lagern, Abfüllen oder
+        Umschlagen wassergefährdender Stoffe,
+
+    e)  die Planfeststellung für den Gewässerausbau,
+
+    f)  die Erteilung von Ausnahmen in festgesetzten und vorläufig gesicherten
+        Überschwemmungsgebieten,
+
+    g)  die Erteilung von Genehmigungen in festgesetzten
+        Hochwasserentstehungsgebieten,
+
+    h)  die Gewässeraufsicht, mit Ausnahme der Gewässeraufsicht für
+        Betriebsanlagen der Eisenbahnen des Bundes, die Anlagen im Sinne des §
+        36 Absatz 1 des Wasserhaushaltsgesetzes sind,
+
+    i)  der Vollzug der Verordnung über Anlagen zum Umgang mit
+        wassergefährdenden Stoffen,
+
+    j)  der Vollzug der sonstigen auf dem Wasserhaushaltsgesetz beruhenden
+        Rechtsverordnungen, soweit er der Erfüllung der unter a) bis h)
+        genannten Aufgaben dient.
+
+3.  Im Bereich des Pflanzenschutzgesetzes und der darauf beruhenden
+    Rechtsverordnungen:
+
+    a)  die Erteilung von Ausnahmegenehmigungen für die Anwendung von
+        Pflanzenschutzmittel,
+
+    b)  die Anordnung von Maßnahmen gemäß § 60 PflSchG zur Beseitigung
+        festgestellter oder zur Verhütung künftiger Verstöße bei der Anwendung
+        von Pflanzenschutzmitteln gegen § 12 oder § 13 Absatz 1 PflSchG,
+
+    c)  der Vollzug der auf dem Pflanzenschutzgesetz beruhenden
+        Rechtsverordnungen, soweit er der Erfüllung der unter a) und b)
+        genannten Aufgaben dient.
+
+4.  Im Bereich des Umweltschadensgesetzes: die Überwachung und Anordnung
+    von Maßnahmen nach dem USchadG, soweit der Schaden durch eine
+    Tätigkeit verursacht wurde, für die auf der Grundlage der unter Nummer
+    1 bis 3 genannten Zuständigkeiten eine Zulassung durch das Eisenbahn-
+    Bundesamt zu erteilen ist.
+
+Erlaubnisse und Bewilligungen für Gewässerbenutzungen nach § 8 des
+Wasserhaushaltsgesetzes sowie Zulassungen nach § 78a Absatz 2 des
+Wasserhaushaltsgesetzes dürfen nur im Benehmen mit der zuständigen
+Wasserbehörde erteilt werden. Die in diesem und in sonstigen Gesetzen
+oder Verordnungen des Bundes bestimmten Zuständigkeiten des Eisenbahn-
+Bundesamtes bleiben unberührt.
 
 (7) Der Betreiber der Schienenwege muss auch den Betrieb der
 zugehörigen Steuerungs- und Sicherungssysteme sowie die zugehörigen
@@ -500,10 +559,13 @@ der Länder
         Verfahren.
 
 Prüfsachverständige werden anerkannt, sofern sie die erforderliche
-Fachkompetenz besitzen, zuverlässig und vom Auftraggeber unabhängig
-sind. Ihre Tätigkeit wird überwacht. Das Nähere zu Anerkennung und
-Überwachung regelt eine Rechtsverordnung im Sinne des § 26 Absatz 1
-Satz 1 Nummer 1f.
+Fachkompetenz besitzen, zuverlässig und vom Auftraggeber
+unabhängig sind. Prüforganisationen werden im Bereich der Signal-,
+Telekommunikations- und Elektronik anerkannt, sofern sie die
+erforderliche Fachkompetenz besitzen und vom Auftraggeber unabhängig
+sind. Die Tätigkeiten der Prüfsachverständigen und Prüforganisationen
+wird überwacht. Das Nähere zu Anerkennung und Überwachung regelt eine
+Rechtsverordnung im Sinne des § 26 Absatz 1 Satz 1 Nummer 1f.
 
 (2) Prüfsachverständige nach Absatz 1 werden im Falle eines Auftrages
 der Sicherheitsbehörde oder der Eisenbahnaufsichtsbehörden der Länder
@@ -704,7 +766,7 @@ Sicherheitsbehörde wahr.
 (1g) (weggefallen)
 
 (1h) Dem Bund obliegt die Anerkennung und Überwachung von
-Prüfsachverständigen im Sinne von § 4b.
+Prüfsachverständigen und Prüforganisationen im Sinne von § 4b.
 
 (1i) Die Aufgaben und die Befugnisse der für die Strafverfolgung
 und Ahndung von Ordnungswidrigkeiten zuständigen Behörden bleiben im
@@ -727,8 +789,8 @@ und für Rechnung des Landes aus. Die Landesregierung kann anderen
 Befugnis zur Erteilung von Genehmigungen ganz oder teilweise durch
 Rechtsverordnung übertragen. Aufsichts- und Genehmigungsbehörde im
 Sinne dieses Gesetzes ist auch die Stelle, der die Landesregierung
-nach Satz 5 oder das Bundesministerium für Digitales und Verkehr nach
-dem Bundeseisenbahnverkehrsverwaltungsgesetz Aufgaben übertragen hat.
+nach Satz 5 oder das Bundesministerium für Verkehr nach dem
+Bundeseisenbahnverkehrsverwaltungsgesetz Aufgaben übertragen hat.
 
 (3) Die Landesregierung bestimmt die Behörde, die zuständig ist
 für Eisenbahnen des Bundes sowie für nichtbundeseigene Eisenbahnen
@@ -774,10 +836,10 @@ der Verordnung (EU) 2021/782 für regelspurige Eisenbahnen.
 (5) Die Einhaltung von Arbeitsschutzvorschriften wird von den
 nach diesen Vorschriften zuständigen Behörden überwacht. Für
 Schienenfahrzeuge und Anlagen, die unmittelbar der Sicherstellung
-des Betriebsablaufs dienen, kann das Bundesministerium für Digitales
-und Verkehr im Einvernehmen mit dem Bundesministerium für Arbeit und
-Soziales durch Rechtsverordnung mit Zustimmung des Bundesrates die
-Zuständigkeit auf das Eisenbahn-Bundesamt übertragen.
+des Betriebsablaufs dienen, kann das Bundesministerium für Verkehr im
+Einvernehmen mit dem Bundesministerium für Arbeit und Soziales durch
+Rechtsverordnung mit Zustimmung des Bundesrates die Zuständigkeit auf
+das Eisenbahn-Bundesamt übertragen.
 
 
 ## § 5a Aufgaben und Befugnisse der Eisenbahnaufsichtsbehörden
@@ -1801,14 +1863,6 @@ Zeitraum von einem Jahr möglich; danach gilt die Genehmigung als
 erteilt.
 
 
-## § 11a Anlagen zur Erzeugung erneuerbarer Energien
-
-Bei dem Bau oder der Änderung von Eisenbahnanlagen sollen zur
-Förderung der Klimaziele des Bundes diese Anlagen für die Erzeugung
-erneuerbarer Energien genutzt werden, wenn die Sicherheit und
-Leichtigkeit des Verkehrs hierdurch nicht beeinträchtigt wird.
-
-
 ## § 12 Tarife
 
 (1) Tarife sind Beförderungsentgelte und Beförderungsbedingungen der
@@ -2155,8 +2209,8 @@ das Land, das die Aufwendungen auferlegt hat.
 
 2.  soweit die nichtbundeseigenen Eisenbahnen betroffen sind,
 
-    a)  der Bund, wenn es sich um höhengleiche Kreuzungen mit Bundesstraßen
-        handelt,
+    a)  der Bund, wenn es sich um höhengleiche Kreuzungen mit Bundesstraßen in
+        der Baulast des Bundes handelt,
 
     b)  in allen anderen Fällen das Land, in dessen Gebiet die Kreuzung liegt.
 
@@ -2180,10 +2234,11 @@ Anwesenheit des Eigentümers oder sonstigen Nutzungsberechtigten oder
 eines Beauftragten, Wohnungen nur mit Zustimmung des Wohnungsinhabers
 betreten werden.
 
-(2) Die Absicht, solche Arbeiten auszuführen, ist dem Eigentümer
-oder sonstigen Nutzungsberechtigten mindestens zwei Wochen vorher
-unmittelbar oder durch ortsübliche Bekanntmachung in den Gemeinden, in
-denen die Vorarbeiten durchzuführen sind, bekanntzugeben.
+(2) Die Absicht, Vorhaben im Sinne des Absatzes 1 Satz 1 auszuführen,
+ist dem Eigentümer oder sonstigen Nutzungsberechtigten mindestens
+zwei Wochen vorher unmittelbar oder öffentlich bekannt zu geben. Auf
+Antrag des Trägers des Vorhabens soll die Planfeststellungsbehörde die
+Duldung der Vorarbeiten anordnen.
 
 (3) Entstehen durch eine Maßnahme nach Absatz 1 einem Eigentümer oder
 sonstigen Nutzungsberechtigten unmittelbare Vermögensnachteile, so
@@ -2193,31 +2248,23 @@ zustande, so setzt die nach Landesrecht zuständige Behörde auf Antrag
 des Trägers des Vorhabens oder des Berechtigten die Entschädigung
 fest. Vor der Entscheidung sind die Beteiligten zu hören.
 
+(4) Ein Rechtsbehelf gegen eine Duldungsanordnung nach Absatz 2
+Satz 2 einschließlich damit verbundener Vollstreckungsmaßnahmen
+nach dem Verwaltungsvollstreckungsgesetz hat keine aufschiebende
+Wirkung; ein Vorverfahren findet nicht statt. Der Antrag auf
+Anordnung der aufschiebenden Wirkung des Rechtsbehelfs nach §
+80 Absatz 5 Satz 1 der Verwaltungsgerichtsordnung gegen eine
+Duldungsanordnung kann nur innerhalb eines Monats nach der Zustellung
+oder Bekanntgabe der Duldungsanordnung gestellt und begründet werden.
+Darauf ist in der Rechtsbehelfsbelehrung hinzuweisen. § 58 der
+Verwaltungsgerichtsordnung ist entsprechend anzuwenden.
+
 
 ## § 17a Projektmanager
 
-Die Anhörungsbehörde kann einen Dritten mit der Vorbereitung und
-Durchführung von Verfahrensschritten, insbesondere
-
-1.  der Erstellung von Verfahrensleitplänen unter Bestimmung von
-    Verfahrensabschnitten und Zwischenterminen,
-
-2.  der Fristenkontrolle,
-
-3.  der Koordinierung von erforderlichen Sachverständigengutachten,
-
-4.  dem Entwurf eines Anhörungsberichts,
-
-5.  der ersten Auswertung der eingereichten Stellungnahmen,
-
-6.  der organisatorischen Vorbereitung eines Erörterungstermins und
-
-7.  der Leitung eines Erörterungstermins
-
-auf Vorschlag oder mit Zustimmung des Vorhabenträgers und auf dessen
-Kosten beauftragen. § 73 Absatz 9 des Verwaltungsverfahrensgesetzes
-bleibt unberührt. Die Entscheidung über den Planfeststellungsantrag
-verbleibt bei der zuständigen Behörde.
+§ 73d des Verwaltungsverfahrensgesetzes gilt mit der Maßgabe, dass der
+Vorhabenträger die Kosten eines, auf seinen Vorschlag oder mit seiner
+Zustimmung, beauftragten Dritten zu tragen hat.
 
 
 ## § 18 Erfordernis der Planfeststellung und vorläufige Anordnung
@@ -2234,89 +2281,117 @@ nur dann eine Änderung im Sinne von Satz 1 vor, wenn der Grundriss
 oder der Aufriss der Betriebsanlage oder beides wesentlich geändert
 wird. Eine wesentliche Änderung des Grundrisses oder Aufrisses einer
 Betriebsanlage im Sinne von Satz 4 liegt insbesondere nicht vor, wenn
-sie im Zuge des Wiederaufbaus nach einer Naturkatastrophe erforderlich
-ist, um diese vor Naturereignissen zu schützen, und in einem räumlich
-begrenzten Korridor entlang des Trassenverlaufs erfolgt.
+sie im Zuge des Wiederaufbaus nach einer Naturkatastrophe oder einem
+Extremwetterereignis erforderlich ist, um diese vor Naturereignissen
+zu schützen, und in einem räumlich begrenzten Korridor entlang des
+Trassenverlaufs erfolgt.
 
 (1a) Für folgende Einzelmaßnahmen, die den Bau oder die Änderung von
 Betriebsanlagen einer Eisenbahn vorsehen, bedarf es keiner vorherigen
 Planfeststellung oder Plangenehmigung, sofern keine Pflicht zur
 Durchführung einer Umweltverträglichkeitsprüfung besteht:
 
-1.  die Ausstattung einer bestehenden Bahnstrecke mit einer Oberleitung
+1.  die Ausstattung einer bestehenden Bahnstrecke mit Anlagen für
+    den elektrischen Zugbetrieb, ausgenommen Bahnstromfernleitungen,
     einschließlich dafür notwendiger räumlich begrenzter baulicher
     Anpassungen, insbesondere von Tunneln mit geringer Länge oder von
     Kreuzungsbauwerken,
 
 2.  die im Rahmen der Digitalisierung einer Bahnstrecke erforderlichen
-    Baumaßnahmen, insbesondere die Ausstattung einer Bahnstrecke mit
-    Signal- und Sicherungstechnik des Standards European Rail Traffic
-    Management System (ERTMS),
+    Baumaßnahmen,
 
-3.  der barrierefreie Umbau, die Erhöhung oder die Verlängerung von
-    Bahnsteigen,
+3.  der Neubau oder die Änderung einschließlich des barrierefreien
+    Umbaus von Bahnsteigen sowie dafür notwendige baulicher Anpassungen
+    an sonstigen Betriebsanlagen der Eisenbahn; dies gilt nicht für den
+    ersatzlosen Teil- oder vollständigen Rückbau eines Bahnsteigs,
 
-4.  die Errichtung von Lärmschutzwänden zur Lärmsanierung,
+4.  die Errichtung und Änderung von Lärmschutzwänden,
 
 5.  die Herstellung von Überleitstellen für Gleiswechselbetriebe,
 
-6.  die Herstellung von Gleisanschlüssen bis 2 000 Meter und von
-    Zuführungs- und Industriestammgleisen bis 3 000 Meter.
+6.  die Herstellung von Gleisanschlüssen sowie Zuführungs- und
+    Industriestammgleisen bis 3 000 Meter,
 
-Für die in Satz 1 Nummer 1 bis 6 genannten Einzelmaßnahmen ist
-keine weitere baurechtliche Zulassung erforderlich; landesrechtliche
-Regelungen bleiben unberührt. Werden durch das Vorhaben private
-oder öffentliche Belange einschließlich der Belange der Umwelt
-berührt, kann der Träger des Vorhabens die Feststellung des Planes
-nach Absatz 1 Satz 1 beantragen. Ungeachtet dessen hat sich der
-Träger des Vorhabens vor Durchführung einer Einzelmaßnahme im Sinne
-des Satzes 1 Nummer 1 und 2 durch das Bundesamt für Infrastruktur,
-Umweltschutz und Dienstleistungen der Bundeswehr vor der
-Durchführung bestätigen zu lassen, dass keine militärischen Belange
-entgegenstehen. Kann für das Vorhaben die Pflicht zur Durchführung
-einer Umweltverträglichkeitsprüfung bestehen, hat der Träger des
-Vorhabens bei der Planfeststellungsbehörde den Antrag nach § 5 Absatz
-1 Satz 2 Nummer 1 des Gesetzes über die Umweltverträglichkeitsprüfung
-zu stellen. Satz 1 Nummer 1 und 2 ist nur anzuwenden, wenn die
-zuständige Behörde feststellt, dass Vorgaben über die Errichtung und
-über wesentliche Änderungen von Anlagen eingehalten sind, die in einer
-elektrische, magnetische oder elektromagnetische Felder betreffenden
-und auf Grund von § 23 Absatz 1 Satz 1 Nummer 1, 2 und 4 in Verbindung
-mit § 48b des Bundes-Immissionsschutzgesetzes in der Fassung der
-Bekanntmachung vom 26. September 2002 erlassenen Rechtsverordnung
-enthalten sind.
+7.  der Bau und die Änderung von technischen Sicherungen von
+    Bahnübergängen,
 
-(2) Ist das Planfeststellungsverfahren eingeleitet, kann die
-Planfeststellungsbehörde nach Anhörung der betroffenen Gemeinde eine
-vorläufige Anordnung erlassen, in der vorbereitende Maßnahmen oder
-Teilmaßnahmen zum Bau oder zur Änderung festgesetzt werden,
+8.  der Bau, die Änderung einschließlich Rückbau von Durchlässen,
 
-1.  soweit es sich um reversible Maßnahmen handelt,
+9.  Hang- und Felssicherungsmaßnahmen entlang der Schienenwege,
 
-2.  wenn an dem vorzeitigen Beginn ein öffentliches Interesse besteht,
+10. die Errichtung von Anlagen der Leit- und Sicherungstechnik,
+    insbesondere Signalen,
 
-3.  wenn mit einer Entscheidung zugunsten des Trägers des Vorhabens
-    gerechnet werden kann und
+11. die Errichtung von Kreuzungsgleisen, Überholgleisen und
+    Rangiergleisen, inklusive dadurch notwendiger, räumlich begrenzter
+    baulicher Anpassungen an sonstigen Eisenbahnbetriebsanlagen.
 
-4.  wenn die nach § 74 Absatz 2 des Verwaltungsverfahrensgesetzes zu
+Soweit die Realisierung der in Satz 1 genannten Einzelmaßnahmen
+zwingend eine geringfügige Gleislageanpassung erfordert, gilt diese
+als von der Einzelmaßnahme mit umfasst. Die jeweiligen Einzelmaßnahmen
+und hierfür erforderliche Baustelleneinrichtungsflächen erfordern
+keine weitere baurechtliche Zulassung; im Übrigen bleiben
+landesrechtliche Regelungen unberührt. Soweit bauliche Anpassungen an
+Eisenbahnbetriebsanlagen, für die in Satz 1 genannten Einzelmaßnahmen
+erforderlich oder notwendig werden, obliegt die Beurteilung dessen
+dem Träger des Vorhabens. Werden durch das Vorhaben private oder
+öffentliche Belange einschließlich der Belange der Umwelt berührt,
+kann der Träger des Vorhabens die Feststellung des Planes nach
+Absatz 1 Satz 1 beantragen. Ungeachtet dessen hat sich der Träger des
+Vorhabens vor Durchführung einer Einzelmaßnahme im Sinne des Satzes
+1 Nummer 1 und 2 durch das Bundesamt für Infrastruktur, Umweltschutz
+und Dienstleistungen der Bundeswehr bestätigen zu lassen, dass keine
+militärischen Belange entgegenstehen. Kann für das Vorhaben die
+Pflicht zur Durchführung einer Umweltverträglichkeitsprüfung bestehen,
+hat der Träger des Vorhabens bei der Planfeststellungsbehörde den
+Antrag nach § 5 Absatz 1 Satz 2 Nummer 1 des Gesetzes über die
+Umweltverträglichkeitsprüfung zu stellen. Satz 1 Nummer 1 und 2
+ist nur anzuwenden, wenn die zuständige Behörde feststellt, dass
+Vorgaben über die Errichtung und über wesentliche Änderungen von
+Anlagen eingehalten sind, die in einer elektrische, magnetische
+oder elektromagnetische Felder betreffenden und auf Grund von § 23
+Absatz 1 Satz 1 Nummer 1, 2 und 4 in Verbindung mit § 48b des Bundes-
+Immissionsschutzgesetzes in der jeweils geltenden Fassung erlassenen
+Rechtsverordnung enthalten sind.
+
+(1b) Auf Erneuerungsmaßnahmen, die gemäß Absatz 1 Satz 4, 5 oder
+Absatz 1a Satz 1 ohne Planfeststellung realisiert werden, findet § 38
+des Baugesetzbuches mit der Maßgabe entsprechende Anwendung, dass eine
+Beteiligung der Gemeinde nicht erforderlich ist. Gemäß Absatz 1 Satz
+4, 5 oder Absatz 1a Satz 1 planrechtsfrei errichtete Betriebsanlagen
+der Eisenbahn unterliegen der eisenbahnrechtlichen Fachplanungshoheit
+im Sinne von § 23 mit der tatsächlichen Inbetriebnahme.
+
+(2) Ist das Planfeststellungs- oder Plangenehmigungsverfahren
+eingeleitet, kann die Planfeststellungsbehörde nach Anhörung der
+betroffenen Gemeinde eine vorläufige Anordnung erlassen, in der
+vorbereitende Maßnahmen oder Teilmaßnahmen zum Bau oder zur Änderung
+festgesetzt werden, wenn
+
+1.  an dem vorzeitigen Beginn ein öffentliches Interesse besteht und
+
+2.  die nach § 74 Absatz 2 des Verwaltungsverfahrensgesetzes zu
     berücksichtigenden Interessen gewahrt werden.
 
 In der vorläufigen Anordnung sind die Auflagen zur Sicherung
 dieser Interessen und der Umfang der vorläufig zulässigen Maßnahmen
-festzulegen. Sie ist den anliegenden Gemeinden sowie den Beteiligten
-zuzustellen oder öffentlich bekannt zu machen. Sie ersetzt nicht die
-Planfeststellung. § 17 bleibt unberührt. Soweit die vorbereitenden
-Maßnahmen oder Teilmaßnahmen zum Bau oder zur Änderung durch
-die Planfeststellung für unzulässig erklärt sind, ordnet die
-Planfeststellungsbehörde gegenüber dem Träger des Vorhabens an, den
-früheren Zustand wiederherzustellen. Dies gilt auch, wenn der Antrag
-auf Planfeststellung zurückgenommen wurde. Der Betroffene ist durch
-den Vorhabenträger zu entschädigen, soweit die Wiederherstellung
-des früheren Zustands nicht möglich oder mit unverhältnismäßig hohem
-Aufwand verbunden oder ein Schaden eingetreten ist, der durch die
-Wiederherstellung des früheren Zustandes nicht ausgeglichen wird.
-Rechtsbehelfe gegen die vorläufige Anordnung haben keine aufschiebende
-Wirkung; ein Vorverfahren findet nicht statt. § 18e gilt entsprechend.
+festzulegen. Sie ist den betroffenen Gemeinden sowie den Beteiligten
+zuzustellen oder ihr Inhalt ist öffentlich bekannt zu machen. Im Fall
+der Bekanntmachung im Internet gilt die vorläufige Anordnung zwei
+Wochen nach der elektronischen Veröffentlichung als bekannt gegeben;
+hierauf ist bei der Veröffentlichung hinzuweisen. Die vorläufige
+Anordnung ersetzt nicht die Planfeststellung. § 17 bleibt unberührt.
+Soweit die vorbereitenden Maßnahmen oder Teilmaßnahmen zum Bau oder
+zur Änderung durch die Planfeststellung für unzulässig erklärt sind,
+ordnet die Planfeststellungsbehörde gegenüber dem Träger des Vorhabens
+an, einen mit dem früheren Zustand im Wesentlichen gleichartigen
+Zustand herzustellen. Dies gilt auch, wenn der Antrag auf
+Planfeststellung zurückgenommen wurde. Der Betroffene ist durch den
+Vorhabenträger zu entschädigen, soweit ein Schaden eingetreten ist,
+der durch die Herstellung des mit dem früheren Zustand im Wesentlichen
+gleichartigen Zustands nicht ausgeglichen wird. Rechtsbehelfe gegen
+die vorläufige Anordnung haben keine aufschiebende Wirkung; ein
+Vorverfahren findet nicht statt. § 18e gilt entsprechend.
 
 (3) Unterhaltungsmaßnahmen bedürfen keiner vorherigen Planfeststellung
 oder Plangenehmigung.
@@ -2325,147 +2400,33 @@ oder Plangenehmigung.
 ## § 18a Anhörungsverfahren
 
 (1) Für das Anhörungsverfahren und das Beteiligungsverfahren gelten
-§ 73 des Verwaltungsverfahrensgesetzes und die §§ 17 bis 19 sowie 21
-des Gesetzes über die Umweltverträglichkeitsprüfung nach Maßgabe der
-folgenden Absätze.
+die §§ 27a, 27b, 27c und 72 bis 73c des Verwaltungsverfahrensgesetzes
+und die §§ 17 bis 19 sowie 21 des Gesetzes über die
+Umweltverträglichkeitsprüfung nach Maßgabe des Absatzes 2.
 
-(2) Die Anhörungsbehörde soll
-
-1.  von dem Träger des Vorhabens verlangen, den Plan ausschließlich oder
-    ergänzend in einem verkehrsüblichen und von der Anhörungsbehörde
-    vorgegebenen elektronischen Format einzureichen;
-
-2.  den Behörden, deren Aufgabenbereich durch das Vorhaben berührt wird,
-    den Plan auch ausschließlich elektronisch zugänglich machen;
-
-3.  von den Behörden, deren Aufgabenbereich durch das Vorhaben berührt
-    wird, verlangen, ihre Stellungnahmen nach § 73 Absatz 2 und 3a des
-    Verwaltungsverfahrensgesetzes sowie nach § 17 Absatz 2 des Gesetzes
-    über die Umweltverträglichkeitsprüfung elektronisch zu übermitteln.
-
-(3) Die Anhörungsbehörde soll die Auslegung des Plans und
-der Unterlagen nach § 19 Absatz 2 des Gesetzes über die
-Umweltverträglichkeitsprüfung durch die Veröffentlichung der
-Unterlagen auf ihrer Internetseite bewirken. Auf Verlangen
-eines Beteiligten, das während der Dauer der Beteiligung an die
-Anhörungsbehörde zu richten ist, wird ihm eine leicht zu erreichende
-Zugangsmöglichkeit zur Verfügung gestellt. Abweichend von § 73
-Absatz 5 Satz 1 des Verwaltungsverfahrensgesetzes erfolgt die
-Bekanntmachung durch die Anhörungsbehörde; Satz 1 gilt entsprechend.
-Die Bekanntmachung erfolgt zusätzlich in örtlichen Tageszeitungen,
-in deren Verbreitungsgebiet sich das Vorhaben voraussichtlich
-auswirken wird. Die Anhörungsbehörde hat in der Bekanntmachung darauf
-hinzuweisen, dass und wo der Plan elektronisch veröffentlicht wird
-und dass eine leicht zu erreichende Zugangsmöglichkeit zur Verfügung
-gestellt werden kann.
-
-(4) Einwendungen und Stellungnahmen sind gegenüber der
-Anhörungsbehörde abzugeben. Sie sollen elektronisch übermittelt
-werden. Eine schriftliche Übermittlung ist ebenfalls möglich. Die
-Anhörungsbehörde hat in der Bekanntmachung darauf hinzuweisen.
-
-(5) Die Anhörungsbehörde kann auf eine Erörterung nach § 73 Absatz
-6 des Verwaltungsverfahrensgesetzes und § 18 Absatz 1 Satz 4 des
-Gesetzes über die Umweltverträglichkeitsprüfung verzichten. Soll
-ein im Internet veröffentlichter oder ausgelegter Plan geändert
-werden, so soll von der Erörterung im Sinne des § 73 Absatz 6 des
-Verwaltungsverfahrensgesetzes und des § 18 Absatz 1 Satz 4 des
-Gesetzes über die Umweltverträglichkeitsprüfung abgesehen werden.
-
-(6) Die Anhörungsbehörde kann eine Erörterung nach § 73 Absatz
-6 des Verwaltungsverfahrensgesetzes und § 18 Absatz 1 Satz 4 des
-Gesetzes über die Umweltverträglichkeitsprüfung ganz oder teilweise
-in digitalen Formaten durchführen. In diesem Fall hat sie in der
-Bekanntmachung darauf hinzuweisen, dass und wie die Erörterung in
-einem digitalen Format durchgeführt wird.
-
-(7) Soweit Stellungnahmen, Einwendungen oder sonstige Erklärungen
-elektronisch übermittelt werden können oder der Plan oder sonstige
-Unterlagen in einem elektronischen Format veröffentlicht oder
-zugänglich gemacht werden, haben die Anhörungsbehörde und die
-Planfeststellungsbehörde die technische Ausgestaltung zu bestimmen.
-
-(8) Die Durchführung informeller Beteiligungsformate ist möglich.
-Diese Beteiligungsformate sind von dem Planfeststellungsverfahren
-unabhängig und dürfen sein Ergebnis nicht vorwegnehmen.
+(2) Die Planfeststellungsbehörde kann auf eine Erörterung nach §
+73b des Verwaltungsverfahrensgesetzes und § 18 Absatz 1 Satz 4 des
+Gesetzes über die Umweltverträglichkeitsprüfung verzichten. Soll ein
+ausgelegter Plan geändert werden, so soll von der Erörterung im Sinne
+des § 73b des Verwaltungsverfahrensgesetzes und des § 18 Absatz 1
+Satz 4 des Gesetzes über die Umweltverträglichkeitsprüfung abgesehen
+werden.
 
 
-## § 18b Planfeststellungsbeschluss, Plangenehmigung
-
-(1) Für den Planfeststellungsbeschluss und die Plangenehmigung gelten
-§ 74 des Verwaltungsverfahrensgesetzes und § 27 des Gesetzes über die
-Umweltverträglichkeitsprüfung nach Maßgabe der folgenden Absätze.
-
-(2) Abweichend von § 74 Absatz 6 Satz 1 Nummer 3 des
-Verwaltungsverfahrensgesetzes kann für ein Vorhaben, für das
-nach dem Gesetz über die Umweltverträglichkeitsprüfung eine
-Umweltverträglichkeitsprüfung durchzuführen ist, an Stelle eines
-Planfeststellungsbeschlusses eine Plangenehmigung erteilt werden.
-§ 18a gilt entsprechend. Im Übrigen findet das Gesetz über die
-Umweltverträglichkeitsprüfung mit Ausnahme des § 21 Absatz 3
-Anwendung.
-
-(3) Abweichend von § 74 Absatz 4, 5 und 6 Satz 2 dritter Halbsatz
-des Verwaltungsverfahrensgesetzes und § 27 Absatz 1 Satz 1
-des Gesetzes über die Umweltverträglichkeitsprüfung können
-die Zustellung, Auslegung und Bekanntmachung der Auslegung des
-Planfeststellungsbeschlusses oder der Plangenehmigung dadurch
-erfolgen, dass die Entscheidung mit einer Rechtsbehelfsbelehrung
-und dem festgestellten Plan für zwei Wochen auf der Internetseite
-der Planfeststellungsbehörde veröffentlicht wird. Zusätzlich
-ist der verfügende Teil des Planfeststellungsbeschlusses, die
-Rechtsbehelfsbelehrung und ein Hinweis auf die Veröffentlichung
-auf der Internetseite der Planfeststellungsbehörde verbunden mit
-dem Hinweis auf leicht zu erreichende Zugangsmöglichkeiten in den
-örtlichen Tageszeitungen bekanntzumachen, in deren Verbreitungsgebiet
-sich das Vorhaben voraussichtlich auswirken wird; auf Auflagen ist
-hinzuweisen. Auf Verlangen eines Beteiligten, das bis zum Ablauf der
-Rechtsbehelfsfrist an die Planfeststellungsbehörde zu richten ist,
-ist ihm eine leicht zu erreichende Zugangsmöglichkeit zur Verfügung
-zu stellen. Im Fall des elektronischen Zugänglichmachens gilt mit
-dem Ende der Veröffentlichungsfrist die Entscheidung dem Träger des
-Vorhabens, den Betroffenen und denjenigen gegenüber, die Einwendungen
-erhoben haben, als zugestellt; hierauf ist in der Bekanntmachung
-hinzuweisen. Die Unterlagen nach Satz 1 sollen nach Ablauf der
-Veröffentlichungsfrist bis zum Ende der Rechtsbehelfsfrist zur
-Information im Internet veröffentlicht werden.
+## § 18b (weggefallen)
 
 
-## § 18c Rechtswirkungen der Planfeststellung und der Plangenehmigung
-
-Für die Rechtswirkungen der Planfeststellung und Plangenehmigung gilt
-§ 75 des Verwaltungsverfahrensgesetzes mit folgenden Maßgaben:
-
-1.  Wird mit der Durchführung des Plans nicht innerhalb von zehn Jahren
-    nach Eintritt der Unanfechtbarkeit begonnen, so tritt er außer Kraft,
-    es sei denn, er wird vorher auf Antrag des Trägers des Vorhabens von
-    der Planfeststellungsbehörde um höchstens fünf Jahre verlängert.
-
-2.  Vor der Entscheidung nach Nummer 1 ist eine auf den Antrag
-    begrenzte Anhörung nach dem für die Planfeststellung oder für die
-    Plangenehmigung vorgeschriebenen Verfahren durchzuführen.
-
-3.  Für die Zustellung, Veröffentlichung im Internet oder Auslegung
-    sowie die Anfechtung der Entscheidung über die Verlängerung sind
-    die Bestimmungen über den Planfeststellungsbeschluss entsprechend
-    anzuwenden.
-
-4.  Wird eine Planergänzung oder ein ergänzendes Verfahren nach § 75
-    Absatz 1a Satz 2 des Verwaltungsverfahrensgesetzes erforderlich und
-    wird diese Planergänzung oder dieses ergänzende Verfahren unverzüglich
-    betrieben, so bleibt die Durchführung des Vorhabens zulässig, soweit
-    es von der Planergänzung oder dem Ergebnis des ergänzenden Verfahrens
-    offensichtlich nicht berührt ist.
+## § 18c (weggefallen)
 
 
 ## § 18d Planänderung vor Fertigstellung des Vorhabens
 
 Für die Planergänzung und das ergänzende Verfahren im Sinne des
-§ 75 Abs. 1a Satz 2 des Verwaltungsverfahrensgesetzes und für
+§ 75 Absatz 2 Satz 2 des Verwaltungsverfahrensgesetzes und für
 die Planänderung vor Fertigstellung des Vorhabens gilt § 76 des
-Verwaltungsverfahrensgesetzes mit der Maßgabe, dass im Falle des § 76
-Abs. 1 des Verwaltungsverfahrensgesetzes von einer Erörterung im Sinne
-des § 73 Abs. 6 des Verwaltungsverfahrensgesetzes und des § 18 Absatz
+Verwaltungsverfahrensgesetzes mit der Maßgabe, dass im Falle des §
+76 Absatz 1 des Verwaltungsverfahrensgesetzes von einer Erörterung im
+Sinne des § 73b des Verwaltungsverfahrensgesetzes und des § 18 Absatz
 1 Satz 4 des Gesetzes über die Umweltverträglichkeitsprüfung abgesehen
 werden kann. Im Übrigen gelten für das neue Verfahren die Vorschriften
 dieses Gesetzes.
@@ -2497,92 +2458,88 @@ in der Anlage 1 aufgeführt sind.
 (2) Der Antrag auf Anordnung der aufschiebenden Wirkung
 der Anfechtungsklage gegen einen Planfeststellungsbeschluss
 oder eine Plangenehmigung nach § 80 Absatz 5 Satz 1 der
-Verwaltungsgerichtsordnung kann nur innerhalb eines Monats
-nach der Zustellung des Planfeststellungsbeschlusses oder
-der Plangenehmigung gestellt und begründet werden. Darauf
-ist in der Rechtsbehelfsbelehrung hinzuweisen. § 58 der
-Verwaltungsgerichtsordnung gilt entsprechend. Treten später Tatsachen
-ein, die die Anordnung der aufschiebenden Wirkung rechtfertigen, so
-kann der durch den Planfeststellungsbeschluss oder die Plangenehmigung
-Beschwerte einen hierauf gestützten Antrag nach § 80 Absatz 5 Satz 1
-der Verwaltungsgerichtsordnung innerhalb einer Frist von einem Monat
+Verwaltungsgerichtsordnung kann nur innerhalb eines Monats nach der
+Zustellung des Planfeststellungsbeschlusses oder der Plangenehmigung
+gestellt und begründet werden. Die Anfechtungsklage gegen einen
+Planfeststellungsbeschluss oder eine Plangenehmigung für den Bau
+oder die Änderung von Betriebsanlagen einer Eisenbahn hat keine
+aufschiebende Wirkung. Darauf ist in der Rechtsbehelfsbelehrung
+hinzuweisen. § 58 der Verwaltungsgerichtsordnung gilt
+entsprechend. Treten später Tatsachen ein, die die Anordnung
+der aufschiebenden Wirkung rechtfertigen, so kann der durch den
+Planfeststellungsbeschluss oder die Plangenehmigung Beschwerte
+einen hierauf gestützten Antrag nach § 80 Absatz 5 Satz 1 der
+Verwaltungsgerichtsordnung innerhalb einer Frist von einem Monat
 stellen und begründen. Die Frist beginnt mit dem Zeitpunkt, in dem der
 Beschwerte von den Tatsachen Kenntnis erlangt.
+
+(2a) Der gesetzliche Sofortvollzug kann mit der Begründung, dass sich
+der Baubeginn verzögert, nur dann von der Planfeststellungsbehörde
+oder dem Gericht ausgesetzt werden, wenn sich der Baubeginn um
+mindestens vier Jahre verzögert. Der gesetzliche Sofortvollzug kann
+nicht mit der Begründung, dass noch keine Haushaltsmittel für das
+Vorhaben bereitgestellt wurden oder dies nicht absehbar ist, von der
+Planfeststellungsbehörde oder dem Gericht ausgesetzt werden.
 
 (3) Der Kläger hat innerhalb einer Frist von zehn Wochen ab
 Klageerhebung die zur Begründung seiner Klage dienenden Tatsachen und
 Beweismittel anzugeben. Erklärungen und Beweismittel, die erst nach
 Ablauf dieser Frist vorgebracht werden, sind nur zuzulassen, wenn der
 Kläger die Verspätung genügend entschuldigt. Der Entschuldigungsgrund
-ist auf Verlangen des Gerichts glaubhaft zu machen. Satz 2 gilt nicht,
-wenn es mit geringem Aufwand möglich ist, den Sachverhalt auch ohne
-Mitwirkung des Klägers zu ermitteln. Die Frist nach Satz 1 kann durch
-den Vorsitzenden oder den Berichterstatter auf Antrag verlängert
-werden, wenn der Kläger in dem Verfahren, in dem die angefochtene
-Entscheidung ergangen ist, keine Möglichkeit der Beteiligung hatte. §
-6 des Umwelt-Rechtsbehelfsgesetzes ist nicht anzuwenden.
+ist auf Verlangen des Gerichts glaubhaft zu machen. Satz 2 gilt
+nicht, wenn es mit geringem Aufwand möglich ist, den Sachverhalt auch
+ohne Mitwirkung des Klägers zu ermitteln. Die Frist kann durch den
+Vorsitzenden oder den Berichterstatter auf Antrag verlängert werden,
+wenn der Kläger in dem Verfahren, in dem die angefochtene Entscheidung
+ergangen ist, keine Möglichkeit der Beteiligung hatte. Die Sätze 1 bis
+5 gelten entsprechend für Fälle, in denen das gerichtliche Verfahren
+zur Durchführung eines Planergänzungs- oder Planänderungsverfahrens
+ausgesetzt wurde und später fortgesetzt wird; die Frist läuft
+ab Fortsetzung des gerichtlichen Verfahrens. § 6 des Umwelt-
+Rechtsbehelfsgesetzes ist nicht anzuwenden.
 
 
-## § 18f Veröffentlichung im Internet
+## § 18f Anlagen zur Erzeugung erneuerbarer Energie
 
-Wird der Plan nicht nach § 18a Absatz 3 Satz 1, § 27a Absatz 1
-des Verwaltungsverfahrensgesetzes oder § 20 des Gesetzes über die
-Umweltverträglichkeitsprüfung im Internet veröffentlicht, ist dieser
-vom Träger des Vorhabens auf seiner Internetseite zu veröffentlichen.
-§ 23 des Gesetzes über die Umweltverträglichkeitsprüfung gilt
-entsprechend. Maßgeblich ist der Inhalt des im Rahmen des
-Genehmigungsverfahrens zur Einsicht ausgelegten Plans. Hierauf ist bei
-der Veröffentlichung hinzuweisen.
+Bei dem Bau oder der Änderung von Betriebsanlagen einer Eisenbahn nach
+§ 18 Absatz 1 Satz 1 sollen zur Förderung der Klimaziele des Bundes
+diese Anlagen für die Erzeugung erneuerbarer Energien genutzt werden,
+wenn die Sicherheit und Leichtigkeit des Verkehrs hierdurch nicht
+beeinträchtigt wird.
 
 
 ## § 18g Prognostizierte Verkehrsentwicklung
 
-(1) Ist dem gemäß § 73 Absatz 1 des Verwaltungsverfahrensgesetzes
+Ist dem gemäß § 73 Absatz 1 des Verwaltungsverfahrensgesetzes
 einzureichenden Plan eine Berechnung des Beurteilungspegels
 für vom Schienenweg ausgehenden Verkehrslärm gemäß § 4 der
-Verkehrslärmschutzverordnung beizufügen, hat die Berechnung auf die
+Verkehrslärmschutzverordnung oder eine Prognose der betriebsbedingten
+Erschütterungen beizufügen, hat die Berechnung bzw. Prognose auf die
 zum Zeitpunkt der Einreichung prognostizierte Verkehrsentwicklung
 abzustellen. Das Planfeststellungsverfahren ist mit der bei
-Einreichung des Plans prognostizierten Verkehrsentwicklung zu
-Ende zu führen, wenn die Veröffentlichung im Internet oder die
-Auslegung des Plans öffentlich bekannt gemacht worden ist und sich
-der Beurteilungspegel aufgrund von zwischenzeitlichen Änderungen
-der Verkehrsentwicklung weder um mindestens 3 dB(A), noch auf
-mindestens 70 dB(A) am Tage oder mindestens 60 dB(A) in der Nacht
-erhöht. Die Immissionsgrenzwerte des § 2 Absatz 1 in Verbindung
-mit § 2 Absatz 2 bis 4, den §§ 4 und 5 und der Anlage 2 der
-Verkehrslärmschutzverordnung dürfen nicht erstmalig überschritten
-werden.
-
-(2) Ändert sich die prognostizierte Verkehrsentwicklung nach der
-öffentlichen Bekanntmachung der Veröffentlichung im Internet oder
-der Auslegung und werden hierdurch die in Absatz 1 Satz 2 genannten
-Immissionsgrenzwerte oder erstmalig die in Absatz 1 Satz 3 genannten
-Immissionsgrenzwerte überschritten, kann das Verfahren auf Verlangen
-des Trägers des Vorhabens vorbehaltlich der Entscheidung zur
-Lärmvorsorge mit der bei Einreichung des Plans prognostizierten
-Verkehrsentwicklung zu Ende geführt werden. Der Träger des Vorhabens
-hat die Öffentlichkeit frühzeitig über Änderungen der prognostizierten
-Verkehrsentwicklung zu unterrichten.
-
-(3) Die Planfeststellungsbehörde hat im Fall des Absatzes 2 ihre
-Entscheidung zur Lärmvorsorge auf Grundlage der zu diesem Zeitpunkt
-geltenden Verkehrsprognose durch Beschluss zu treffen. § 75 Absatz
-2 Satz 3 und 4 des Verwaltungsverfahrensgesetzes gilt entsprechend.
-Die Inbetriebnahme des Schienenwegs kann erst erfolgen, wenn die
-Maßnahmen zur Lärmvorsorge umgesetzt sind. Der Schutz vor schädlichen
-Umwelteinwirkungen durch Verkehrslärm bestimmt sich nach den §§ 41 bis
-43 des Bundes-Immissionsschutzgesetzes.
+Einreichung des Plans prognostizierten Verkehrsentwicklung zu Ende zu
+führen, wenn die Auslegung des Plans öffentlich bekannt gemacht worden
+ist. Dies gilt nur, wenn sich beim Verkehrslärm der Beurteilungspegel
+aufgrund von zwischenzeitlichen Änderungen der Verkehrsentwicklung
+weder um mindestens 3 dB(A), noch auf mindestens 70 dB(A) am Tage
+oder mindestens 60 dB(A) in der Nacht erhöht oder sich bei den
+betriebsbedingten Erschütterungen die Beurteilungsschwingstärke oder
+die maximale bewertete Schwingstärke aufgrund von zwischenzeitlichen
+Änderungen der Verkehrsentwicklung nicht um 25 Prozent oder mehr
+erhöht. Sind die Voraussetzungen des Satzes 3 nicht erfüllt, ist der
+schall- und der erschütterungstechnischen Untersuchung einheitlich die
+aktuelle prognostizierte Verkehrsentwicklung zu Grunde zu legen und
+das Planfeststellungsverfahren auf dieser Grundlage zu Ende zu führen.
 
 
 ## § 19 Veränderungssperre, Vorkaufsrecht
 
-(1) Vom Beginn der Veröffentlichung im Internet oder der Auslegung
-der Pläne im Planfeststellungsverfahren oder von dem Zeitpunkt an,
-zu dem den Betroffenen Gelegenheit gegeben wird, den Plan einzusehen
-(§ 73 Abs. 3 des Verwaltungsverfahrensgesetzes), dürfen auf den vom
-Plan betroffenen Flächen bis zu ihrer Inanspruchnahme wesentlich
-wertsteigernde oder die geplanten Baumaßnahmen erheblich erschwerende
+(1) Mit Beginn der Auslegung der Pläne im Internet im Rahmen des
+Planfeststellungs- oder Plangenehmigungsverfahrens oder von dem
+Zeitpunkt an, zu dem den Betroffenen Gelegenheit gegeben wird, den
+Plan einzusehen oder er ihnen zugänglich gemacht wird, dürfen auf den
+vom Plan betroffenen Flächen bis zu deren Inanspruchnahme wesentlich
+wertsteigernde oder die geplanten Baumaßnehmen erheblich erschwerende
 Veränderungen nicht vorgenommen werden (Veränderungssperre).
 Veränderungen, die in rechtlich zulässiger Weise vorher begonnen
 worden sind, Unterhaltungsarbeiten und die Fortführung einer
@@ -2601,42 +2558,44 @@ an den betroffenen Flächen ein Vorkaufsrecht zu.
 
 ## § 20 Planfeststellungsverfahren bei Vorhaben im transeuropäischen Verkehrsnetz
 
-(1) Wird ein Planfeststellungsverfahren oder ein
-Plangenehmigungsverfahren für ein Vorhaben durchgeführt, das
+(1) Ein Planfeststellungsverfahren oder ein Plangenehmigungsverfahren
+ist innerhalb von vier Jahren abzuschließen, wenn das Vorhaben
 
-1.  im Kernnetzkorridor nach Anlage 3 gelegen ist, oder
+1.  auf den von der Europäischen Union vorermittelten Abschnitten
+    grenzüberschreitender oder fehlender Verbindungen nach Anlage 3
+    gelegen ist oder
 
-2.  im Kernnetzkorridor nach Anlage 4 gelegen ist und dessen
-    geschätzte Gesamtkosten zum Zeitpunkt der Einleitung des
-    Planfeststellungsverfahrens oder des Plangenehmigungsverfahrens 300
-    000 000 Euro überschreiten,
+2.  in einem Europäischen Verkehrskorridor nach Anhang III der Verordnung
+    (EU) 2024/1679 gelegen ist und dessen geschätzte Gesamtkosten zum
+    Zeitpunkt der Einleitung des Planfeststellungsverfahrens oder des
+    Plangenehmigungsverfahrens 300 000 000 Euro überschreiten.
 
-ist dieses innerhalb von vier Jahren abzuschließen. Die
-Frist beginnt mit dem Eingang des Plans nach § 73 Absatz 1
-des Verwaltungsverfahrensgesetzes bei der Anhörungsbehörde
-und Planfeststellungsbehörde. Diese sowie alle am
-Planfeststellungsverfahren oder am Plangenehmigungsverfahren
-beteiligten Behörden des Bundes und der Länder sind bestrebt, den
-Planfeststellungsverfahren oder Plangenehmigungsverfahren nach
-Satz 1 Vorrang bei der Bearbeitung einzuräumen. Dabei ist das
-Beschleunigungsinteresse an anderen Vorhaben, die im überragenden
-öffentlichen Interesse stehen oder der öffentlichen Sicherheit dienen,
-zu beachten.
+Die Frist beginnt mit dem Eingang des Plans nach § 72a Absatz
+1 des Verwaltungsverfahrensgesetzes bei der Anhörungsbehörde
+oder Planfeststellungsbehörde. Die Anhörungsbehörde, die
+Planfeststellungsbehörde sowie alle am Verfahren beteiligten
+Behörden des Bundes und der Länder sind bestrebt, dem Verfahren
+nach Satz 1 Vorrang bei der Bearbeitung einzuräumen. Dabei ist
+das Beschleunigungsinteresse anderer Vorhaben, die im überragenden
+öffentlichen Interesse liegen, zu beachten. Vorhaben nach Satz
+1 liegen im überragenden öffentlichen Interesse und dienen der
+öffentlichen Sicherheit. Die Verwirklichung eines Vorhabens nach Satz
+1 ist von militärischer Relevanz und daher als vorrangiger Belang in
+die jeweils durchzuführenden Schutzgüterabwägungen einzubringen.
 
 (2) Die Planfeststellungsbehörde hat dem Vorhabenträger auf dessen
-Antrag Auskunft über die bei Vorlage des Plans nach § 73 Absatz
+Antrag Auskunft über die bei Vorlage des Plans nach § 72a Absatz
 1 des Verwaltungsverfahrensgesetzes beizubringenden Informationen
 und Unterlagen zu erteilen. Weist das Vorhaben bei Eingang des
-Plans nach § 73 Absatz 1 des Verwaltungsverfahrensgesetzes nicht
+Plans nach § 72a Absatz 1 des Verwaltungsverfahrensgesetzes nicht
 die erforderliche Reife auf, so ist der Antrag auf Einleitung des
 Verfahrens zur Planfeststellung oder Plangenehmigung spätestens vier
 Monate nach seinem Eingang bei der zuständigen Behörde abzulehnen.
 
 (3) Auf Antrag der Planfeststellungsbehörde kann das Bundesministerium
-für Digitales und Verkehr die Frist nach Absatz 1 Satz 1 verlängern.
-Im Antrag sind die Gründe für die Fristüberschreitung darzulegen. Eine
-weitere Verlängerung kann unter denselben Bedingungen einmal gewährt
-werden.
+für Verkehr die Frist nach Absatz 1 Satz 1 verlängern. Im Antrag
+sind die Gründe für die Fristüberschreitung darzulegen. Eine weitere
+Verlängerung kann unter denselben Bedingungen einmal gewährt werden.
 
 (4) Die Absätze 1 bis 3 finden keine Anwendung auf Vorhaben,
 deren Plan vor dem 10. August 2023 bei der Anhörungsbehörde und
@@ -2650,28 +2609,25 @@ sollen die zuständigen Behörden zusammenarbeiten, erforderliche
 Informationen, Unterlagen und Dokumente austauschen und die nationalen
 Zeitpläne ihrer Genehmigungsverfahren abstimmen.
 
-(2) Das Bundesministerium für Digitales und Verkehr hat die nach
-Artikel 45 der Verordnung (EU) Nr. 1315/2013 des Europäischen
-Parlaments und des Rates vom 11. Dezember 2013 über Leitlinien der
-Union für den Aufbau eines transeuropäischen Verkehrsnetzes und zur
-Aufhebung des Beschlusses Nr. 661/2010/EU (ABl. L 348 vom 20.12.2013,
-S. 1) benannten Europäischen Koordinatoren auf deren Ersuchen über den
-Sachstand des grenzüberscheitenden Vorhabens zu unterrichten.
+(2) Das Bundesministerium für Verkehr hat die nach Artikel 52 der
+Verordnung (EU) 2024/1679 benannten Europäischen Koordinatoren auf
+deren Ersuchen über den Sachstand des grenzüberscheitenden Vorhabens
+zu unterrichten.
 
-(3) Wird die Frist nach § 20 Absatz 1 Satz 1 und 2 nicht
-eingehalten, hat das Bundesministerium für Digitales und Verkehr
-bei grenzüberschreitenden Vorhaben nach Absatz 1 die Europäischen
-Koordinatoren auf deren Ersuchen über Maßnahmen zum zügigen Abschluss
-des Planfeststellungsverfahrens oder Plangenehmigungsverfahrens zu
+(3) Wird die Frist nach § 20 Absatz 1 Satz 1 und 2 nicht eingehalten,
+hat das Bundesministerium für Verkehr bei grenzüberschreitenden
+Vorhaben nach Absatz 1 die Europäischen Koordinatoren auf
+deren Ersuchen über Maßnahmen zum zügigen Abschluss des
+Planfeststellungsverfahrens oder Plangenehmigungsverfahrens zu
 unterrichten.
 
 
 ## § 20b Berichterstattung an die Europäische Kommission
 
 Zur Vorbereitung der Berichterstattung an die Europäische Kommission
-hat die Planfeststellungsbehörde dem Bundesministerium für Digitales
-und Verkehr erstmals zum 30. April 2026 und sodann alle zwei Jahre für
-ihren Zuständigkeitsbereich folgende Angaben aus dem Berichtszeitraum
+hat die Planfeststellungsbehörde dem Bundesministerium für Verkehr
+erstmals zum 30. April 2026 und sodann alle zwei Jahre für ihren
+Zuständigkeitsbereich folgende Angaben aus dem Berichtszeitraum
 mitzuteilen:
 
 1.  Die Anzahl der laufenden sowie abgeschlossenen
@@ -2705,7 +2661,7 @@ Plangenehmigung müssen vollziehbar sein. Weiterer Voraussetzungen
 bedarf es nicht.
 
 (1a) Der Träger des Vorhabens kann verlangen, dass bereits
-nach Ablauf der Einwendungsfrist nach § 73 Absatz 4 des
+nach Ablauf der Einwendungsfrist nach § 73 Absatz 2 des
 Verwaltungsverfahrensgesetzes das Verfahren zur vorzeitigen
 Besitzeinweisung in das Grundstück eines Dritten durchgeführt
 wird. In diesem Fall ist der nach dem Verfahrensstand zu erwartende
@@ -3043,9 +2999,9 @@ nach Satz 1 festgelegten Besetzungszeiten bleibt unberührt.
 
 (1) Zur Gewährleistung der Sicherheit und der Ordnung im
 Eisenbahnwesen, des Umweltschutzes oder zum Schutz von Leben und
-Gesundheit der Arbeitnehmer wird das Bundesministerium für Digitales
-und Verkehr ermächtigt, mit Zustimmung des Bundesrates für öffentliche
-Eisenbahnen Rechtsverordnungen zu erlassen
+Gesundheit der Arbeitnehmer wird das Bundesministerium für Verkehr
+ermächtigt, mit Zustimmung des Bundesrates für öffentliche Eisenbahnen
+Rechtsverordnungen zu erlassen
 
 1.  über die Anforderungen an Bau, Instandhaltung, Ausrüstung, Betrieb
     und Verkehr der Eisenbahnen nach den Erfordernissen der Sicherheit,
@@ -3099,7 +3055,8 @@ Eisenbahnen Rechtsverordnungen zu erlassen
     und Überwachung der bestimmten Stellen sowie über ihre Tätigkeit;
 
 1f. über die näheren Voraussetzungen und das Verfahren für die Anerkennung
-    und Überwachung der Prüfsachverständigen sowie ihre Tätigkeit;
+    und Überwachung der Prüfsachverständigen und Prüforganisationen sowie
+    ihre Tätigkeit;
 
 2.  über die Voraussetzungen, unter denen von den Verpflichtungen nach §
     12 Abs. 2 abgewichen werden kann;
@@ -3236,10 +3193,10 @@ Schutz der Rechte der Reisenden erlassen werden.
 
 (2) Zur Gewährleistung des Schutzes von Leben und Gesundheit
 des Fahrpersonals sowie des Personals, das unmittelbar in der
-betrieblichen Abwicklung der Beförderungen eingesetzt ist, wird das
-Bundesministerium für Digitales und Verkehr ermächtigt, mit Zustimmung
-des Bundesrates für öffentliche Eisenbahnen Rechtsverordnungen zu
-erlassen über
+betrieblichen Abwicklung der Beförderungen eingesetzt ist, wird
+das Bundesministerium für Verkehr ermächtigt, mit Zustimmung des
+Bundesrates für öffentliche Eisenbahnen Rechtsverordnungen zu erlassen
+über
 
 1.  Arbeitszeiten, Fahrzeiten und deren Unterbrechungen sowie
     Schichtzeiten,
@@ -3256,20 +3213,20 @@ erlassen über
     und Unterbrechungen der Fahrzeiten.
 
 (3) Rechtsverordnungen nach Absatz 1 Satz 1 Nummer 1 werden, soweit
-sie den Umweltschutz betreffen, vom Bundesministerium für Digitales
-und Verkehr und vom Bundesministerium für Umwelt, Naturschutz,
-nukleare Sicherheit und Verbraucherschutz erlassen. Rechtsverordnungen
-nach Absatz 1 Satz 1 Nummer 1a werden im Einvernehmen mit dem
-Bundesministerium der Justiz erlassen. Rechtsverordnungen nach Absatz
-1 Satz 1 Nr. 5 werden im Einvernehmen mit dem Bundesministerium
-für Bildung und Forschung erlassen. Die Regelungen des
-Berufsbildungsgesetzes bleiben unberührt. Rechtsverordnungen nach den
-Absätzen 1 und 2 zum Schutz von Leben und Gesundheit der Arbeitnehmer
-und des Personals werden im Einvernehmen mit dem Bundesministerium für
-Arbeit und Soziales erlassen.
+sie den Umweltschutz betreffen, vom Bundesministerium für Verkehr
+und vom Bundesministerium für Umwelt, Klimaschutz, Naturschutz und
+nukleare Sicherheit erlassen. Rechtsverordnungen nach Absatz 1 Satz 1
+Nummer 1a werden im Einvernehmen mit dem Bundesministerium der Justiz
+und für Verbraucherschutz erlassen. Rechtsverordnungen nach Absatz 1
+Satz 1 Nummer 5 werden im Einvernehmen mit dem Bundesministerium für
+Bildung, Familie, Senioren, Frauen und Jugend erlassen. Die Regelungen
+des Berufsbildungsgesetzes bleiben unberührt. Rechtsverordnungen
+nach den Absätzen 1 und 2 zum Schutz von Leben und Gesundheit
+der Arbeitnehmer und des Personals werden im Einvernehmen mit dem
+Bundesministerium für Arbeit und Soziales erlassen.
 
-(4) Das Bundesministerium für Digitales und Verkehr wird ermächtigt,
-mit Zustimmung des Bundesrates Rechtsverordnungen zu erlassen
+(4) Das Bundesministerium für Verkehr wird ermächtigt, mit Zustimmung
+des Bundesrates Rechtsverordnungen zu erlassen
 
 1.  zur Übernahme des Rechts der Europäischen Gemeinschaft oder der
     Europäischen Union, soweit es Gegenstände der Artikel 1 bis 5 des
@@ -3328,24 +3285,24 @@ In den Rechtsverordnungen nach Satz 1 kann auch das Verhältnis zu den
 sonstigen der Betriebssicherheit dienenden Rechtsverordnungen geregelt
 werden.
 
-(8) Das Bundesministerium für Digitales und Verkehr wird ermächtigt,
-im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz,
-nukleare Sicherheit und Verbraucherschutz und dem Bundesministerium
-für Arbeit und Soziales durch Rechtsverordnung mit Zustimmung des
-Bundesrates dem Eisenbahn-Bundesamt die Befugnis zum Erlass einer
-Rechtsverordnung nach Absatz 1 Satz 1 Nummer 1, auch in Verbindung
-mit Absatz 5 Satz 1 und Absatz 6, ganz oder teilweise zu übertragen,
-soweit technische Einzelheiten für Planung, Bemessung und Konstruktion
-ausschließlich von Betriebsanlagen der Eisenbahnen des Bundes
-betroffen sind. Rechtsverordnungen des Eisenbahn-Bundesamtes bedürfen
-nicht der Zustimmung des Bundesrates; auf diese Rechtsverordnungen ist
-Absatz 3 Satz 1 und 5 nicht anzuwenden.
+(8) Das Bundesministerium für Verkehr wird ermächtigt, im Einvernehmen
+mit dem Bundesministerium für Umwelt, Klimaschutz, Naturschutz und
+nukleare Sicherheit und dem Bundesministerium für Arbeit und Soziales
+durch Rechtsverordnung mit Zustimmung des Bundesrates dem Eisenbahn-
+Bundesamt die Befugnis zum Erlass einer Rechtsverordnung nach Absatz 1
+Satz 1 Nummer 1, auch in Verbindung mit Absatz 5 Satz 1 und Absatz 6,
+ganz oder teilweise zu übertragen, soweit technische Einzelheiten für
+Planung, Bemessung und Konstruktion ausschließlich von Betriebsanlagen
+der Eisenbahnen des Bundes betroffen sind. Rechtsverordnungen des
+Eisenbahn-Bundesamtes bedürfen nicht der Zustimmung des Bundesrates;
+auf diese Rechtsverordnungen ist Absatz 3 Satz 1 und 5 nicht
+anzuwenden.
 
 
 ## § 27 Allgemeine Verwaltungsvorschriften
 
-Das Bundesministerium für Digitales und Verkehr kann im Einvernehmen
-mit dem Bundesministerium für Arbeit und Soziales mit Zustimmung des
+Das Bundesministerium für Verkehr kann im Einvernehmen mit dem
+Bundesministerium für Arbeit und Soziales mit Zustimmung des
 Bundesrates zur Durchführung der auf Grund des § 26 Abs. 2 erlassenen
 Rechtsverordnungen allgemeine Verwaltungsvorschriften erlassen,
 insbesondere über die Ahndung einer Ordnungswidrigkeit nach § 28 Abs.
@@ -3545,10 +3502,10 @@ Eisenbahnbetriebsleiterverordnung bis zum Erlass einer Regelung
 nach Satz 3 keine Anwendung. Auf diese Eisenbahnen sind die
 jeweiligen landesrechtlichen Vorschriften über die Betriebssicherheit
 nichtöffentlicher Eisenbahnen anzuwenden. Das Bundesministerium für
-Digitales und Verkehr wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates zu bestimmen, dass die Sätze 1 und 2 nicht
-mehr anzuwenden sind, soweit es für die einheitliche Regelung der
-Betriebssicherheit aller regelspurigen Eisenbahnen erforderlich ist.
+Verkehr wird ermächtigt, durch Rechtsverordnung mit Zustimmung des
+Bundesrates zu bestimmen, dass die Sätze 1 und 2 nicht mehr anzuwenden
+sind, soweit es für die einheitliche Regelung der Betriebssicherheit
+aller regelspurigen Eisenbahnen erforderlich ist.
 
 (2a) Anordnungen nach § 5 Absatz 6 in der bis zum 29. März 2019
 geltenden Fassung bleiben bis zum 29. März 2020 wirksam. Die
@@ -3609,59 +3566,36 @@ freigestellten Haftpflichtschadenausgleich Deckung erhält, hat
 dies der zuständigen Eisenbahnaufsichtsbehörde bis zum 1. Juli 2022
 nachzuweisen.
 
-(8) Vor dem 13. März 2020 beantragte Planfeststellungsverfahren oder
-Plangenehmigungsverfahren werden nach den Vorschriften dieses Gesetzes
-in der vor dem 13. März 2020 geltenden Fassung weitergeführt.
-
-(9) (weggefallen)
-
-(10) Bis zum Ablauf des 6. Juni 2023
-
-1.  sind § 1 Absatz 3 und 4, § 4 Absatz 8, § 5 Absatz 1 und 4a, § 5a
-    Absatz 8 sowie § 12a Absatz 4 in der am 2. August 2023 geltenden
-    Fassung weiter anzuwenden,
-
-2.  sind die §§ 10a, 12b und 12c nicht anzuwenden,
-
-3.  ist § 26 Absatz 1 Satz 1 Nummer 1a mit der Maßgabe anzuwenden,
-    dass die dort genannten Regelungen auch von der Verordnung (EG)
-    Nr. 1371/2007 nach Maßgabe ihres Artikels 2 Absatz 5 abweichen
-    können, soweit der Schienenpersonennahverkehr betroffen ist und die
-    technischen oder wirtschaftlichen Umstände oder die betrieblichen
-    Abläufe eine abweichende Regelung erfordern.
-
-(11) Bis zum Ablauf des 30. Juni 2026 ist der Bedarf für Hilfeleistung
+(8) Bis zum Ablauf des 30. Juni 2026 ist der Bedarf für Hilfeleistung
 im Sinne des Artikels 23 der Verordnung (EU) 2021/782 bei
 grenzüberschreitenden Fahrten spätestens 36 Stunden vor dem Zeitpunkt,
 zu dem die Hilfeleistung benötigt wird, anzumelden, sofern nicht die
 zentrale Anlaufstelle nach § 10a oder die beteiligten Unternehmen eine
 kürzere Frist zulassen.
 
-(12) Für das Planfeststellungsverfahren gilt das
-Verwaltungsverfahrensgesetz in der Fassung der Bekanntmachung vom
+(9) Für vor dem 29. Juli 2026 und bis zum 31. Dezember 2028
+eingeleitete Planfeststellungs- oder Plangenehmigungsverfahren kann
+die Planfeststellungsbehörde für alle oder einzelne Verfahrensschritte
+das Verwaltungsverfahrensgesetz in der Fassung der Bekanntmachung vom
 23\. Januar 2003 (BGBl. I S. 102), das zuletzt durch Artikel 24 Absatz
 3 des Gesetzes vom 25. Juni 2021 (BGBl. I S. 2154) geändert worden
-ist, das nach Maßgabe dieses Gesetzes anzuwenden ist. Satz 1 gilt
-entsprechend, wenn das Gesetz über die Umweltverträglichkeitsprüfung
-anzuwenden ist und dieses auf das Verwaltungsverfahrensgesetz
-verweist.
+ist, nach Maßgabe dieses Gesetzes in der bis einschließlich 28. Juli
+2026 geltenden Fassung anwenden. Satz 1 gilt entsprechend, soweit
+das Verfahren landesrechtlich durch ein Verwaltungsverfahrensgesetz
+geregelt ist. Die Sätze 1 und 2 gelten entsprechend, wenn das Gesetz
+über die Umweltverträglichkeitsprüfung anzuwenden ist und dieses auf
+das Verwaltungsverfahrensgesetz verweist.
 
-(13) Vor dem 29. Dezember 2023 beantragte Freistellungsverfahren nach
+(10) Vor dem 29. Dezember 2023 beantragte Freistellungsverfahren nach
 § 23 werden nach den Vorschriften dieses Gesetzes in der vor dem 29.
 Dezember 2023 geltenden Fassung weitergeführt.
 
+(11) Auf Ausgleichsanträge, die bis zum 29. Juli 2026 gestellt werden,
+ist § 16 Absatz 3 Satz 1 Nummer 2 Buchstabe a in der bis zum 28. Juli
+2026 geltenden Fassung anzuwenden.
 
-## § 39 Übergangsregelung für Planungen
 
-(1) Vor dem 17. Dezember 2006 beantragte Planfeststellungsverfahren
-oder Plangenehmigungsverfahren werden nach den
-Vorschriften dieses Gesetzes in der ab dem 17. Dezember
-2006 geltenden Fassung weitergeführt. § 11 Abs. 2 des
-Verkehrswegeplanungsbeschleunigungsgesetzes bleibt unberührt.
-
-(2) § 18c gilt auch für Planfeststellungsbeschlüsse und
-Plangenehmigungen, die vor dem 17. Dezember 2006 erlassen worden sind,
-soweit der Plan noch nicht außer Kraft getreten ist.
+## § 39 (weggefallen)
 
 
 ## § 40 Evaluierung der zentralen Anlaufstelle für Personen mit Behinderungen und Personen mit eingeschränkter Mobilität
@@ -3673,8 +3607,7 @@ mit Behinderungen und Personen mit eingeschränkter Mobilität nach §
 
 ## Anlage 1 (zu § 18e Absatz 1)Schienenwege mit erstinstanzlicher Zuständigkeit des Bundesverwaltungsgerichts
 
-(Fundstelle: BGBl. I 2018, 2240,
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+(Fundstelle: BGBl. 2026 I Nr. 224, S. 7 - 8)
 
 Vorbemerkung:
 
@@ -3685,54 +3618,67 @@ Im Sinne der Anlage bedeuten
 2.  NBS: Neubaustrecke.
 
 Zu den Schienenwegen gehören auch die für den Betrieb von
-Schienenwegen notwendigen Anlagen. Die Schienenwege beginnen und enden
-jeweils an den Knotenpunkten, an dem sie mit dem bestehenden Netz
+Schienenwegen notwendigen Anlagen. Die Schienenwege beginnen und
+enden jeweils an dem Knotenpunkt, an dem sie mit dem bestehenden Netz
 verbunden sind.
 
 | Lfd. Nr. | Bezeichnung |
 | --- | --- |
 | 1 | ABS Lübeck/Hagenow Land – Rostock – Stralsund |
-| 2 | ABS Leipzig – Dresden |
-| 3 | ABS Angermünde – Grenze D/PL (– Stettin) |
-| 4 | ABS/NBS Hamburg – Lübeck – Puttgarden – Grenze AWZ D/DK (– Kopenhagen) |
-| 5 | ABS/NBS Hamburg – Hannover, ABS Langwedel – Uelzen, Rotenburg – Verden – Minden/Wunstorf, Bremerhaven – Bremen – Langwedel |
-| 6 | ABS Hannover – Berlin |
-| 7 | ABS Oldenburg – Wilhelmshaven |
-| 8 | ABS Uelzen – Stendal – Magdeburg – Halle |
-| 9 | ABS Paderborn – Halle (Kurve Mönchehof – Ihringshausen) |
-| 10 | ABS/NBS Hannover – Bielefeld |
-| 11 | ABS Berlin – Pasewalk – Stralsund |
-| 12 | ABS Berlin – Rostock (– Skandinavien) |
-| 13 | ABS Berlin – Dresden |
-| 14 | ABS Dresden – Görlitz – Grenze D/PL |
-| 15 | ABS/NBS Hanau – Würzburg/Fulda – Erfurt |
-| 16 | Korridor Mittelrhein: Zielnetz I (umfasst unter anderem NBS/ABS Mannheim – Karlsruhe, NBS Frankfurt – Mannheim, ABS Köln/Hagen – Siegen – Hanau) |
-| 17 | Rhein-Ruhr-Express: Köln – Düsseldorf – Dortmund/Münster |
-| 18 | ABS/NBS Karlsruhe – Grenze D/CH – Basel |
-| 19 | ABS/NBS Stuttgart – Ulm – Augsburg |
-| 20 | ABS Ludwigshafen – Saarbrücken, Kehl – Appenweier |
-| 21 | ABS/NBS (Amsterdam –) Grenze D/NL – Emmerich – Oberhausen |
-| 22 | ABS/NBS München – Rosenheim – Kiefersfelden – Grenze D/A (– Kufstein) |
-| 23 | ABS Grenze D/NL – Bad Bentheim – Löhne |
-| 24 | ABS Grenze D/NL – Kaldenkirchen – Viersen – Rheydt – Odenkirchen |
-| 25 | ABS Berlin – Frankfurt/Oder – Grenze D/PL |
-| 26 | ABS Cottbus – Forst (Lausitz) – Grenze D/PL (– Zary) |
-| 27 | ABS Cottbus – Görlitz |
-| 28 | NBS Dresden – Grenze D/CZ (– Prag) |
-| 29 | ABS Hof – Marktredwitz – Regensburg – Obertraubling |
-| 30 | ABS München – Lindau – Grenze D/A |
-| 31 | ABS München – Mühldorf – Freilassing |
-| 32 | ABS/NBS Nürnberg – Erfurt |
-| 33 | ABS Nürnberg – Marktredwitz – Hof/Grenze D/CZ (– Prag) |
-| 34 | ABS Nürnberg – Schwandorf/München – Regensburg – Furth im Wald – Grenze D/CZ |
-| 35 | ABS Burgsinn – Gemünden – Würzburg – Nürnberg |
-| 36 | ABS Ulm – Friedrichshafen – Lindau (Südbahn) |
-| 37 | ABS Stuttgart – Singen – Grenze D/CH |
-| 38 | ABS Köln – Aachen |
-| 39 | ABS Nürnberg – Passau |
-| 40 | ABS Lübeck – Schwerin/Büchen – Lüneburg |
-| 41 | Großknoten (Frankfurt, Hamburg, Köln, Mannheim, München) und Knoten (Hannover) |
-| 42 | ABS Leipzig – Chemnitz |
+| 2 | ABS Berlin – Dresden |
+| 3 | ABS/NBS Nürnberg – Erfurt |
+| 4 | ABS/NBS Leipzig – Dresden |
+| 5 | ABS Karlsruhe – Stuttgart – Nürnberg – Leipzig/Dresden |
+| 6 | ABS Berlin – Frankfurt (Oder) – Grenze D/PL |
+| 7 | ABS Köln – Aachen |
+| 8 | ABS Ludwigshafen – Saarbrücken, ABS Kehl – Appenweier |
+| 9 | ABS/NBS Stuttgart – Ulm – Augsburg |
+| 10 | ABS/NBS München – Mühldorf – Freilassing – Grenze D/A – Simbach – Grenze D/A |
+| 11 | ABS Oldenburg – Wilhelmshaven |
+| 12 | ABS Grenze D/NL – Emmerich – Oberhausen |
+| 13 | ABS München – Lindau – Grenze D/A |
+| 14 | Projektbündel 1: ABS Berlin – Wittenberge – Hamburg, ABS Berlin – Rostock |
+| 15 | Projektbündel 2: ABS/NBS Hannover – Hamburg |
+| 16 | Projektbündel 3: ABS Bremerhaven – Bremen – Langwedel – Uelzen, ABS Magdeburg – Stendal – Uelzen, ABS Magdeburg – Halle, ABS Wunstorf – Verden – Rotenburg, ABS Minden – Nienburg, ABS Elze – Hameln, ABS Lehrte – Braunschweig – Magdeburg – Roßlau – Falkenberg, ABS Sandersleben – Halle |
+| 17 | Projektbündel 4: ABS/NBS Frankfurt am Main – Aschaffenburg – Würzburg – Nürnberg– Ingolstadt – München |
+| 18 | Projektbündel 5: ABS/NBS Hanau/Gießen – Fulda, ABS/NBS Berlin – Halle/Leipzig – Erfurt – Fulda |
+| 19 | Projektbündel 6: ABS Dortmund/Köln – Frankfurt am Main, ABS/NBS Mainz – Frankfurt am Main, ABS/NBS Frankfurt am Main – Mannheim, ABS/NBS Mannheim – Karlsruhe, ABS/NBS Mannheim – Stuttgart – Ulm, ABS/NBS München – Augsburg – Ulm, ABS Köln/Hagen – Siegen – Hanau |
+| 20 | Projektbündel 7: ABS/NBS Karlsruhe – Basel, ABS Appenweier – Kehl – Grenze D/F |
+| 21 | Projektbündel 8: ABS/NBS Dortmund – Hamm, ABS/NBS Hannover – Bielefeld – Hamm, ABS Berlin – Hannover |
+| 22 | Projektbündel 9: ABS München – Landshut – Obertraubling – Regensburg – Marktredwitz – Hof, ABS Mühldorf – Landshut, ABS Nürnberg – Schwandorf – Furth im Wald – Grenze D/CZ |
+| 23 | Projektbündel 10: ABS Oldenburg – Bremen, ABS Oldenburg – Emden |
+| 24 | Projektbündel 11: ABS Regensburg – Ingolstadt – Donauwörth – Ulm |
+| 25 | ABS/NBS München – Rosenheim – Kiefersfelden – Grenze D/A |
+| 26 | ABS/NBS Hamburg – Lübeck – Puttgarden |
+| 27 | ABS Nürnberg – Passau |
+| 28 | ABS/NBS Paderborn – Halle |
+| 29 | ABS Nürnberg – Marktredwitz – Hof/Grenze D/CZ |
+| 30 | ABS Köln – Düsseldorf – Dortmund/Münster |
+| 31 | ABS Angermünde – Grenze D/PL |
+| 32 | ABS/NBS Stuttgart – Singen – Grenze D/CH |
+| 33 | Großknoten (Frankfurt, Hamburg, Hannover, Köln, Mannheim, München) |
+| 34 | ABS Grenze D/NL – Kaldenkirchen – Viersen – Rheydt-Odenkirchen |
+| 35 | ABS Lübeck – Schwerin/Büchen – Lüneburg |
+| 36 | NBS Dresden – Grenze D/CZ |
+| 37 | ABS Leipzig – Chemnitz |
+| 38 | ABS Itzehoe – Wilster – Brunsbüttel |
+| 39 | ABS Berlin – Angermünde – Pasewalk – Stralsund – Sassnitz |
+| 40 | ABS Berlin – Cottbus – Weißwasser – Görlitz – Grenze D/PL |
+| 41 | ABS Leipzig – Falkenberg – Cottbus – Forst (Lausitz) |
+| 42 | ABS Graustein – Spreewitz |
+| 43 | ABS Cottbus – Guben – Grenze D/PL |
+| 44 | ABS Arnsdorf – Kamenz – Hosena (– Hoyerswerda – Spremberg) |
+| 45 | ABS Naumburg – Halle |
+| 46 | ABS Leipzig – Markranstädt – Merseburg/Naumburg |
+| 47 | ABS Leipzig – Pegau – Zeitz – Gera |
+| 48 | S 11-Ergänzungspaket |
+| 49 | ABS Köln – Mönchengladbach |
+| 50 | S-Bahn-Netz Rheinisches Revier |
+| 51 | ABS/MBS Breisach [D] – Colmar [F] |
+| 52 | ABS/NBS Rastatt [D] – Hagenau [F] |
+| 53 | ABS Dresden – Görlitz – Grenze D/PL |
+| 54 | ABS Niebüll – Klanxbüll - Westerland |
+| 55 | ABS Berlin – Küstrin-Kietz – Grenze D/PL (- Kostrzyn) (Ostbahn) |
 
 
 ## Anlage 2 (zu § 6c)Finanzielle Leistungsfähigkeit
@@ -3757,116 +3703,22 @@ e)  Belastungen des Betriebsvermögens;
 f)  Steuern und Sozialversicherungsbeiträge.
 
 
-## Anlage 3 (zu § 20 Absatz 1 Satz 1)
+## Anlage 3 (zu § 20 Absatz 1 Satz 1 Nummer 1)
 
 (Fundstelle: BGBl. 2023 I Nr. 409, S. 20)
 
-| Lfd. Nr. | TEN-V-Kernnetzkorridor | Bezeichnung |
-| --- | --- | --- |
-| 1 | Nordsee – Ostsee | (Świnoujście/Szczecin –) Grenze PL/DE – Berlin |
-| 2 | Orient/Östliches Mittelmeer | Dresden – Grenze DE/CZ (– Praha/Kolín) |
-| 3 | Rhein – Alpen | (Zevenaar –) – Grenze NL/DE – Emmerich – Oberhausen |
-| 4 | Rhein – Alpen | Karlsruhe – Grenze CH/DE (– Basel) |
-| 5 | Rhein – Donau | München – Grenze DE/CZ (– Praha) |
-| 6 | Rhein – Donau | Nürnberg – Grenze DE/CZ (– Plzeň) |
-| 7 | Rhein – Donau | München – Mühldorf – Freilassing – Grenze DE/AT (– Salzburg) |
-| 8 | Rhein – Donau | (Strasbourg –) Grenze FR/DE – Kehl – Appenweier |
-| 9 | Rhein – Donau | Stuttgart – Ulm |
-| 10 | Skandinavien – Mittelmeer | (København –) Grenze DK/DE – Hamburg: Anschlussstrecke zur Festen Fehmarnbeltquerung |
-| 11 | Skandinavien – Mittelmeer | München – Grenze DE/AT (– Wörgl): Brenner-Basistunnel und seine Anschlussstrecken |
-| 12 | Skandinavien – Mittelmeer | (København–) Grenze DK/DE – Hamburg: Feste Fehmarnbeltquerung |
-
-
-## Anlage 4 (zu § 20 Absatz 1 Satz 2)
-
-(Fundstelle: BGBl. 2023 I Nr. 409, S. 20 - 22)
-
-| Lfd. Nr. | TEN-V-Kernnetzkorridor | Bezeichnung |
-| --- | --- | --- |
-| 1 | Atlantik | (Metz –) Grenze FR/DE – Mannheim |
-| 2 | Nordsee – Ostsee | (Poznań –) Grenze PL/DE – Frankfurt (Oder) – Berlin – Hamburg |
-| 3 | Nordsee – Ostsee | (Wrocław –) Grenze PL/DE – Falkenberg – Magdeburg |
-| 4 | Nordsee – Ostsee | (Szczecin/Świnoujście –) Grenze PL/DE – Berlin – Magdeburg – Braunschweig – Hannover |
-| 5 | Nordsee – Ostsee | Berlin – Wolfsburg – Hannover |
-| 6 | Nordsee – Ostsee | Hannover – Bremen |
-| 7 | Nordsee – Ostsee | Bremen – Bremerhaven |
-| 8 | Nordsee – Ostsee | Bremen – Wilhelmshaven |
-| 9 | Nordsee – Ostsee | Hannover – Osnabrück – Grenze DE/NL (– Hengelo) |
-| 10 | Nordsee – Ostsee | Osnabrück – Grenze DE/NL (– Hengelo) |
-| 11 | Nordsee – Ostsee | Osnabrück – Dortmund – Hagen |
-| 12 | Nordsee – Ostsee | Hannover – Bielefeld – Hagen |
-| 13 | Nordsee – Ostsee | Hagen – Köln – Aachen |
-| 14 | Nordsee – Ostsee | Aachen – Grenze DE/BE (– Visé – Antwerpen) |
-| 15 | Nordsee – Ostsee | Aachen – Grenze DE/BE (– Liege – Antwerpen) |
-| 16 | Orient/Östliches Mittelmeer | Hamburg – Berlin |
-| 17 | Orient/Östliches Mittelmeer | Rostock – Berlin – Dresden |
-| 18 | Orient/Östliches Mittelmeer | Grenze DE/NL (– Hengelo) |
-| 19 | Orient/Östliches Mittelmeer | Dresden – Grenze DE/CZ (– Usti nad Labem – Praha) |
-| 20 | Orient/Östliches Mittelmeer | Dresden – Grenze DE/CZ (– Děčín – Praha) |
-| 21 | Orient/Östliches Mittelmeer | Wilhelmshaven – Bremen |
-| 22 | Orient/Östliches Mittelmeer | Bremerhaven – Bremen |
-| 23 | Orient/Östliches Mittelmeer | Bremen – Magdeburg – Roßlau |
-| 24 | Orient/Östliches Mittelmeer | Roßlau – Elsterwerda |
-| 25 | Orient/Östliches Mittelmeer | Roßlau – Leipzig – Dresden |
-| 26 | Rhein – Alpen | (Basel –) Grenze CH/DE – Müllheim (Baden) |
-| 27 | Rhein – Alpen | Müllheim (Baden) – Freiburg – Kenzingen |
-| 28 | Rhein – Alpen | Müllheim (Baden) – Kenzingen |
-| 29 | Rhein – Alpen | Kenzingen – Karlsruhe |
-| 30 | Rhein – Alpen | Karlsruhe – Heidelberg – Mannheim |
-| 31 | Rhein – Alpen | Heidelberg – Darmstadt – Frankfurt am Main |
-| 32 | Rhein – Alpen | Darmstadt – Bischofsheim – Mainz-Kastel – Rüdesheim – Troisdorf – Köln |
-| 33 | Rhein – Alpen | Köln – Aachen |
-| 34 | Rhein – Alpen | Aachen – Grenze DE/BE (– Visé – Antwerpen) |
-| 35 | Rhein – Alpen | Aachen – Grenze DE/BE (– Liege – Antwerpen) |
-| 36 | Rhein – Alpen | Bischofsheim – Mainz – Bingen – Koblenz – Köln |
-| 37 | Rhein – Alpen | Karlsruhe – Hockenheim – Schwetzingen – Mannheim |
-| 38 | Rhein – Alpen | Hockenheim – Mannheim |
-| 39 | Rhein – Alpen | Mannheim – Frankfurt am Main |
-| 40 | Rhein – Alpen | Bischofsheim – Frankfurt am Main |
-| 41 | Rhein – Alpen | Oberhausen – Duisburg – Hilden – Köln |
-| 42 | Rhein – Alpen | Köln – Troisdorf – Siegburg – Frankfurt am Main |
-| 43 | Rhein – Alpen | (Zevenaar –) Grenze NL/DE – Emmerich – Oberhausen – Duisburg – Leverkusen – Köln |
-| 44 | Rhein – Donau | (Strasbourg –) Grenze FR/DE – Kehl – Appenweier – Karlsruhe |
-| 45 | Rhein – Donau | Karlsruhe – Mühlacker – Vaihingen (Enz) |
-| 46 | Rhein – Donau | Karlsruhe – Bruchsal – Heidelberg – Mannheim |
-| 47 | Rhein – Donau | Karlsruhe – Hockenheim – Schwetzingen – Mannheim |
-| 48 | Rhein – Donau | Mannheim – Frankfurt am Main |
-| 49 | Rhein – Donau | Mannheim – Vaihingen (Enz) – Stuttgart |
-| 50 | Rhein – Donau | Heidelberg – Darmstadt – Frankfurt am Main |
-| 51 | Rhein – Donau | Bruchsal – Mühlacker |
-| 52 | Rhein – Donau | Vaihingen (Enz) – Bietigheim-Bissingen – Stuttgart |
-| 53 | Rhein – Donau | Vaihingen (Enz) – Stuttgart |
-| 54 | Rhein – Donau | Stuttgart – Ulm |
-| 55 | Rhein – Donau | Stuttgart – Plochingen – Ulm |
-| 56 | Rhein – Donau | Ulm – München |
-| 57 | Rhein – Donau | München – Freilassing – Grenze DE/AT (– Salzburg) |
-| 58 | Rhein – Donau | (Salzburg –) Grenze AT/DE – Wels |
-| 59 | Rhein – Donau | Wels – Grenze DE/AT (– Linz) |
-| 60 | Rhein – Donau | München – Regensburg |
-| 61 | Rhein – Donau | Regensburg – Passau – Wels |
-| 62 | Rhein – Donau | Regensburg – Furth im Wald – Grenze DE/CZ (– Praha) |
-| 63 | Rhein – Donau | Nürnberg – Regensburg |
-| 64 | Rhein – Donau | Nürnberg – Marktredwitz – Grenze DE/CZ (– Praha) |
-| 65 | Rhein – Donau | Frankfurt am Main – Würzburg – Nürnberg |
-| 66 | Skandinavien – Mittelmeer | Bremerhaven – Bremen |
-| 67 | Skandinavien – Mittelmeer | Bremen – Hannover |
-| 68 | Skandinavien – Mittelmeer | Bremen – Hamburg |
-| 69 | Skandinavien – Mittelmeer | Hamburg – Walsrode – Hannover |
-| 70 | Skandinavien – Mittelmeer | Hannover – Hildesheim |
-| 71 | Skandinavien – Mittelmeer | Hannover – Göttingen |
-| 72 | Skandinavien – Mittelmeer | Göttingen – Kassel – Fulda |
-| 73 | Skandinavien – Mittelmeer | Göttingen – Bad Hersfeld – Fulda |
-| 74 | Skandinavien – Mittelmeer | Fulda – Würzburg |
-| 75 | Skandinavien – Mittelmeer | Würzburg – Nürnberg |
-| 76 | Skandinavien – Mittelmeer | Würzburg – Treuchtlingen |
-| 77 | Skandinavien – Mittelmeer | Nürnberg – Treuchtlingen |
-| 78 | Skandinavien – Mittelmeer | Treuchtlingen – Augsburg – München |
-| 79 | Skandinavien – Mittelmeer | Nürnberg – Ingolstadt – München |
-| 80 | Skandinavien – Mittelmeer | München – Rosenheim – Grenze DE/AT (– Innsbruck) |
-| 81 | Skandinavien – Mittelmeer | (Kolding –) Grenze DK/DE – Flensburg – Hamburg |
-| 82 | Skandinavien – Mittelmeer | (København –) Grenze DK/DE – Lübeck – Hamburg |
-| 83 | Skandinavien – Mittelmeer | Hamburg – Uelzen – Hildesheim – Göttingen |
-| 84 | Skandinavien – Mittelmeer | Rostock – Berlin – Bitterfeld |
-| 85 | Skandinavien – Mittelmeer | Bitterfeld – Leipzig – Hof – Regensburg – München |
-| 86 | Skandinavien – Mittelmeer | Bitterfeld – Halle – Erfurt – Nürnberg |
+| Lfd. Nr. | Bezeichnung |
+| --- | --- |
+| 1 | (Świnoujście/Szczecin –) Grenze PL/DE – Berlin |
+| 2 | Dresden – Grenze DE/CZ (– Praha/Kolín) |
+| 3 | (Zevenaar –) – Grenze NL/DE – Emmerich – Oberhausen |
+| 4 | Karlsruhe – Grenze CH/DE (– Basel) |
+| 5 | München – Grenze DE/CZ (– Praha) |
+| 6 | Nürnberg – Grenze DE/CZ (– Plzeň) |
+| 7 | München – Mühldorf – Freilassing – Grenze DE/AT (– Salzburg) |
+| 8 | (Strasbourg –) Grenze FR/DE – Kehl – Appenweier |
+| 9 | Stuttgart – Ulm |
+| 10 | (København –) Grenze DK/DE – Hamburg: Anschlussstrecke zur Festen Fehmarnbeltquerung |
+| 11 | München – Grenze DE/AT (– Wörgl): Brenner-Basistunnel und seine Anschlussstrecken |
+| 12 | (København–) Grenze DK/DE – Hamburg: Feste Fehmarnbeltquerung |
 

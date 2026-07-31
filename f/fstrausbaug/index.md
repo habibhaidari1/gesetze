@@ -22,25 +22,49 @@ Zuletzt geändert durch
 :   Art. 2 G v. 22.12.2023 I Nr. 409
 
 Änderung durch
-:   Art. 5 G v. 22.7.2026 I Nr. 224 mWv 29.7.2026 noch nicht berücksichtigt
+:   Art. 5 G v. 22.7.2026 I Nr. 224 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## § 1
 
 (1) Bau und Ausbau der Bundesfernstraßen sind Hoheitsaufgaben des
 Bundes. Das Netz der Bundesfernstraßen wird nach dem Bedarfsplan
-für die Bundesfernstraßen ausgebaut, der diesem Gesetz als Anlage 1
+für die Bundesfernstraßen ausgebaut, der diesem Gesetz als Anlage
 beigefügt ist.
 
-(2) Die in den Bedarfsplan aufgenommenen Bau- und
-Ausbauvorhaben entsprechen den Zielsetzungen des § 1 Abs. 1 des
+(2) Die in den Bedarfsplan aufgenommenen Bau- und Ausbauvorhaben
+entsprechen den Zielsetzungen des § 1 Absatz 1 des
 Bundesfernstraßengesetzes. Die Feststellung des Bedarfs ist für die
-Linienbestimmung nach § 16 des Bundesfernstraßengesetzes und für die
+Linienbestätigung nach § 16 des Bundesfernstraßengesetzes und für die
 Planfeststellung nach § 17 des Bundesfernstraßengesetzes verbindlich.
 
-(3) Der Bau oder die Änderung einer Bundesfernstraße, die in
-der Anlage 2 abschließend aufgeführt ist, liegt im überragenden
-öffentlichen Interesse.
+(3) Der Bau oder die Änderung einer Bundesfernstraße liegt im
+überragenden öffentlichen Interesse, dient der öffentlichen Sicherheit
+und ist von militärischer Relevanz, wenn
+
+1.  die Bundesfernstraße in der Anlage in der Spalte Dringlichkeit mit dem
+    Kriterium der Engpassbeseitigung gekennzeichnet ist,
+
+2.  der Bau einer Bundesautobahn in der Anlage in der Spalte Bauziel als
+    Neubau festgelegt ist, oder
+
+3.  der Bau einer Bundesstraße in der Anlage in der Spalte Bauziel als
+    vierstreifiger Neubau festgelegt, oder
+
+4.  die Erweiterung einer Bundesstraße in der Anlage 1 des
+    Fernstraßenausbaugesetzes in der Fassung der Bekanntmachung vom 20.
+    Januar 2005 (BGBl. I S. 201), das zuletzt durch Artikel 2 des Gesetzes
+    vom 22. Dezember 2023 (BGBl. 2023 I Nr. 409) geändert worden ist, in
+    der Spalte Bauziel als vierstreifige Erweiterung festgelegt ist und
+    in der Spalte Dringlichkeit als laufend und fest disponiert oder mit
+    Vordringlichen Bedarf gekennzeichnet ist.
+
+Die Verwirklichung eines Vorhabens nach Satz 1 ist als vorrangiger
+Belang in die jeweils durchzuführenden Schutzgüterabwägungen
+einzubringen. Für Vorhaben nach Satz 1 Nummer 2 oder 3, die in der
+Anlage in der Spalte Dringlichkeit mit dem Kriterium des Weiteren
+Bedarfs mit Planungsrecht” gekennzeichnet sind, gelten die Sätze 1 und
+2 nur, wenn diese Vorhaben von militärischer Relevanz sind.
 
 
 ## § 2
@@ -59,19 +83,18 @@ werden sollen.
 ## § 4
 
 Nach Ablauf von jeweils fünf Jahren prüft das Bundesministerium für
-Digitales und Verkehr, ob der Bedarfsplan der Verkehrsentwicklung
-anzupassen ist; in die Prüfung sind die bei der Bedarfsplanung
-berührten Belange, insbesondere die der Raumordnung, des
-Umweltschutzes und des Städtebaus, einzubeziehen. Die Anpassung
-geschieht durch Gesetz.
+Verkehr, ob der Bedarfsplan der Verkehrsentwicklung anzupassen ist;
+in die Prüfung sind die bei der Bedarfsplanung berührten Belange,
+insbesondere die der Raumordnung, des Umweltschutzes und des
+Städtebaus, einzubeziehen. Die Anpassung geschieht durch Gesetz.
 
 
 ## § 5
 
 (1) Zur Verwirklichung des Ausbaus nach dem Bedarfsplan stellt das
-Bundesministerium für Digitales und Verkehr Fünfjahrespläne auf. Sie
-bilden den Rahmen für die Aufstellung der Straßenbaupläne nach Artikel
-3 des Straßenbaufinanzierungsgesetzes.
+Bundesministerium für Verkehr Fünfjahrespläne auf. Sie bilden den
+Rahmen für die Aufstellung der Straßenbaupläne nach Artikel 3 des
+Straßenbaufinanzierungsgesetzes.
 
 (2) Das Gesetz zur Förderung der Stabilität und des Wachstums der
 Wirtschaft bleibt unberührt.
@@ -88,9 +111,9 @@ erforderlich ist.
 
 ## § 7
 
-Das Bundesministerium für Digitales und Verkehr berichtet
-dem Deutschen Bundestag jährlich über den Fortgang des
-Bundesfernstraßenbaus nach dem Stand vom 31. Dezember des Vorjahres.
+Das Bundesministerium für Verkehr berichtet dem Deutschen Bundestag
+jährlich über den Fortgang des Bundesfernstraßenbaus nach dem Stand
+vom 31. Dezember des Vorjahres.
 
 
 ## § 8
@@ -104,7 +127,7 @@ Auf laufende und fest disponierte Vorhaben sind die Rechtsvorschriften
 (Inkrafttreten)
 
 
-## Anlage 1 (zu § 1 Absatz 1 Satz 2)Bedarfsplan für die Bundesfernstraßen
+## Anlage (zu § 1 Absatz 1 Satz 2)Bedarfsplan für die Bundesfernstraßen
 
 (Fundstelle: BGBl. I 2016, 3354 — 3411,
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1817,158 +1840,4 @@ Linienführung erfolgt gemäß den dafür geltenden Rechtsvorschriften.
 | **1358** | **TH** | **B 281** |  | **Rockendorf** | **Krölpa** | **N 3** | **Vordringlicher Bedarf** |
 | **1359** | **TH** | **B 281** |  | **OU Saalfeld** |  | **N 2** | **Vordringlicher Bedarf** |
 | **1360** | **TH** | **B 281** |  | **Lichte** | **Reichmannsdorf** | **N 3** | **Weiterer Bedarf** |
-
-
-## Anlage 2 (zu § 1 Absatz 3)
-
-(Fundstelle: BGBl. 2023 I Nr. 409, S. 12 – 15)
-
-**Vorbemerkung:**
-
-Für die in der Anlage 2 genannten Vorhaben ist das Bauziel des
-Bedarfsplans für die Bundesfernstraßen (Anlage 1) in der am 28.
-Dezember 2023 geltenden Fassung maßgebend. Die Bedeutung der
-Abkürzungen, die in der Anlage 2 verwendet werden, entspricht der
-Bedeutung der Abkürzungen in der Vorbemerkung der Anlage 1.
-
-| Lfd. Nr. | Land | Straße | Bezeichnung | Bedarfsplan-Nr. |
-| --- | --- | --- | --- | --- |
-| 1 | BW | A 5 | AK Walldorf – AS Walldorf/Wiesloch | 4 |
-| 2 | BW | A 5 | AS Walldorf/Wiesloch – AK Heidelberg | 4 |
-| 3 | BW | A 6 | AK Mannheim – AS Schwetzingen/Hockenheim | 9 |
-| 4 | BW | A 6 | AK Weinsberg – ö AS Bretzfeld | 11 |
-| 5 | BW | A 6 | ö AS Bretzfeld – AS Öhringen | 11 |
-| 6 | BW | A 6 | AS Öhringen – AS Kupferzell (B 19) | 11 |
-| 7 | BW | A 6 | AS Kupferzell (B 19) – AS Ilshofen/Wolpertshausen | 11 |
-| 8 | BW | A 6 | AS Ilshofen/Wolpertshausen – AS Kirchberg | 11 |
-| 9 | BW | A 6 | AS Kirchberg – LGr. BW/BY | 11 |
-| 10 | BY | A 3 | AS Nittendorf – AS Sinzing | 149 |
-| 11 | BY | A 3 | AS Sinzing – AK Regensburg | 149 |
-| 12 | BY | A 8 | AS Hofoldinger Forst – AS Holzkirchen | 163 |
-| 13 | BY | A 8 | AS Holzkirchen – Leitzachbrücke | 164 |
-| 14 | BY | A 8 | Leitzachbrücke – Dettendorf (Irschenberg) | 164 |
-| 15 | BY | A 8 | Dettendorf (Irschenberg) – AD Inntal | 164 |
-| 16 | BY | A 8 | AD Inntal – AS Rosenheim | 165 |
-| 17 | BY | A 8 | ö AS Rosenheim – AS Achenmühle | 165 |
-| 18 | BY | A 8 | AS Achenmühle – Bernauer Berg | 165 |
-| 19 | BY | A 8 | Bernauer Berg – AS Felden | 165 |
-| 20 | BY | A 8 | AS Felden – AS Grabenstätt | 165 |
-| 21 | BY | A 8 | AS Grabenstätt – Reichhausen | 165 |
-| 22 | BY | A 8 | Reichhausen – Vogling | 165 |
-| 23 | BY | A 9 | AS München – Frankfurter Ring – AS München – Schwabing | 172 |
-| 24 | BY | A 92 | AK Neufahrn – AD Flughafen-München | 175 |
-| 25 | BY | A 94 | AS München-Steinhausen – AS Feldkirchen-West | 176 |
-| 26 | BY | A 94 | AK München-Ost – AS Markt Schwaben | 177 |
-| 27 | BY | A 99 | AD München-Südwest – Tunnel Aubing | 183 |
-| 28 | BY | A 99 | Tunnel Aubing – AK München-West | 183 |
-| 29 | BY | A 99 | AK München-West – AK München-Nord | 184 |
-| 30 | BY | A 99 | AS Kirchheim – AS Haar | 185 |
-| 31 | BY | A 99 | AS Haar – AS Ottobrunn | 185 |
-| 32 | BY | A 8/A 99 | AS Ottobrunn (A 99) – (AK München-Süd) – AS Hofoldinger Forst | 163, 185 |
-| 33 | HB | A 27 | AK Bremen – AS HB-Überseestadt | 496 |
-| 34 | HE | A 3 | Wiesbadener Kreuz | 510 |
-| 35 | HE | A 3 | AS Frankfurt-Flughafen – AD Mönchhof | 512 |
-| 36 | HE | A 3 | AK Offenbach | 515 |
-| 37 | HE | A 3 | AS Hanau – AK Offenbach | 516 |
-| 38 | HE | A 5 | Westkreuz Frankfurt | 518 |
-| 39 | HE | A 5 | AK Darmstadt | 520 |
-| 40 | HE | A 5 | AD Reiskirchen – Ohmtal-Dreieck (A 5/A 49) | 523 |
-| 41 | HE | A 5 | AK Bad Homburg – AS Friedberg | 526 |
-| 42 | HE | A 5 | AK Bad Homburg | 527 |
-| 43 | HE | A 5 | AK Nordwestkreuz Frankfurt – AK Bad Homburg | 528 |
-| 44 | HE | A 5 | Nordwestkreuz Frankfurt | 529 |
-| 45 | HE | A 45 | Gambacher Kreuz – n Talbrücke Langgöns | 541 |
-| 46 | HE | A 45 | n Talbrücke Langgöns – n Gießener Südkreuz | 541 |
-| 47 | HE | A 45 | n Gießener Südkreuz – s AS Wetzlar/Süd | 541 |
-| 48 | HE | A 45 | s AS Wetzlar/Süd – n AK Wetzlar | 541 |
-| 49 | HE | A 45 | n AK Wetzlar – AS Ehringshausen (n Talbrücke Lemptal) | 541 |
-| 50 | HE | A 45 | Talbrücke Onsbach (o) – s AS Herborn/West | 541 |
-| 51 | HE | A 45 | AS Herborn/West – s Talbrücke Lützelbach | 541 |
-| 52 | HE | A 45 | s AS Dillenburg – AS Haiger/Burbach | 541 |
-| 53 | HE | A 45 | AS Haiger/Burbach – AS Wilnsdorf | 543 |
-| 54 | HE | A 60 | AD Mainspitz – AD Rüsselsheim | 547 |
-| 55 | HE | A 67 | n AS Lorsch – AK Darmstadt | 553 |
-| 56 | HE | A 67 | AD Rüsselsheim – AD Mönchhof | 553 |
-| 57 | NI | A 2 | AS Hannover-Herrenhausen – AD Hannover-West | 684 |
-| 58 | NI | A 2 | AD Hannover-West | 685 |
-| 59 | NI | A 2 | AK Hannover-Buchholz (A 37) | 687 |
-| 60 | NI | A 7 | AD Salzgitter – n Wöhlertalbrücke | 690 |
-| 61 | NI | A 7 | n Wöhlertalbrücke – s AS Hildesheim | 690 |
-| 62 | NI | A 27 | AK Bremen – AS HB-Überseestadt | 697 |
-| 63 | NI | A 30 | ö AK Lotte/Osnabrück (LGr. NI/NW) – AK Osnabrück-Süd | 698 |
-| 64 | NW | A 1 | AK Kamen – n AS Hamm-Bockum/Werne | 846 |
-| 65 | NW | A 1 | AS Hamm-Bockum/Werne – AS Ascheberg | 847 |
-| 66 | NW | A 1 | AD Erfttal – AS Hürth | 851 |
-| 67 | NW | A 1 | AS Hürth – AS Gleuel | 851 |
-| 68 | NW | A 1 | AS Gleuel – AK Köln-West | 851 |
-| 69 | NW | A 1 | AK Wuppertal-Nord | 852 |
-| 70 | NW | A 1 | AK Westhofen | 853 |
-| 71 | NW | A 1 | AS Münster-Nord (o) – AS Greven (o) | 858 |
-| 72 | NW | A 1 | AS Greven (m) – DEK Brücke | 858 |
-| 73 | NW | A 1 | n DEK Brücke – AS Lengerich/Tecklenburg | 858 |
-| 74 | NW | A 1 | AS Lengerich/Tecklenburg – AK Lotte/Osnabrück (A 30) | 858 |
-| 75 | NW | A 1 | AK Leverkusen-West – AK Leverkusen (o) | 859 |
-| 76 | NW | A 2 | AD Bottrop | 860 |
-| 77 | NW | A 3 | AS Königsforst – AD Köln-Heumar (A 4) | 861 |
-| 78 | NW | A 3 | AK Leverkusen (A 1) – AD Langenfeld (A 542) | 862 |
-| 79 | NW | A 3 | AD Langenfeld – AK Hilden (o) | 862 |
-| 80 | NW | A 3 | AK Hilden | 863 |
-| 81 | NW | A 3 | AK Hilden – AK Ratingen-Ost | 863 |
-| 82 | NW | A 3 | AK Ratingen-Ost – AK Breitscheid (A 52) | 864 |
-| 83 | NW | A 3 | AK Breitscheid (A 52) – AS Duisburg-Wedau | 865 |
-| 84 | NW | A 3 | AS Duisburg-Wedau – AK Kaiserberg (A 40) | 865 |
-| 85 | NW | A 3 | AK Oberhausen-West (A 42) – AS Oberhausen-Holten | 867 |
-| 86 | NW | A 3 | AS Oberhausen-Holten – AK Oberhausen (A 2/A 516) | 867 |
-| 87 | NW | A 3 | AK Oberhausen | 867 |
-| 88 | NW | A 3 | AK Oberhausen (A 2/A 516) – AS Dinslaken-Süd | 868 |
-| 89 | NW | A 3 | AS Dinslaken-Süd – AS Dinslaken-Nord | 868 |
-| 90 | NW | A 4 | AK Köln/Ost – AS Moitzfeld | 872 |
-| 91 | NW | A 4 | AK Köln-Süd (A 555) | 875 |
-| 92 | NW | A 30 | AK Lotte/Osnabrück (A 1) – AS Hasbergen/Gaste (LGr. NI/NW) | 876 |
-| 93 | NW | A 40 | AS Duisburg-Kaiserberg – AS Mülheim-Dümpten | 880 |
-| 94 | NW | A 40 | AS Mülheim-Dümpten – AS Mülheim-Heißen | 881 |
-| 95 | NW | A 40 | AS Mülheim-Heißen – AS Essen-Frohnhausen | 882 |
-| 96 | NW | A 40 | AD Bochum-West (A 448) – AS Bochum-Harpen | 884 |
-| 97 | NW | A 42 | AK Essen-Nord (A 52) – AS Essen-Altenessen | 889 |
-| 98 | NW | A 42 | AS Essen-Altenessen – AS Gelsenkirchen-Schalke | 889 |
-| 99 | NW | A 42 | AS Gelsenkirchen-Schalke – AK Herne (A 43) | 889 |
-| 100 | NW | A 42 | AS Bottrop-Süd – AK Essen-Nord (A 52) | 890 |
-| 101 | NW | A 43 | AS Witten-Heven – AS Bochum-Querenburg | 891 |
-| 102 | NW | A 43 | AS Bochum-Querenburg – AK Bochum (A 40) | 891 |
-| 103 | NW | A 43 | AK Bochum | 891 |
-| 104 | NW | A 43 | AS Bochum-Gerte (o) – AS Bochum-Riemke (m) | 891 |
-| 105 | NW | A 43 | AS Recklinghausen/Herten – AS Marl-Sinsen | 891 |
-| 106 | NW | A 45 | AS Lüdenscheid-Nord – AS Hagen-Süd | 907 |
-| 107 | NW | A 45 | AS Hagen-Süd – AK Hagen (A 46) | 908 |
-| 108 | NW | A 45 | AS Haiger/Burbach – AS Wilnsdorf | 910 |
-| 109 | NW | A 45 | AS Dortmund-Hafen – AK Dortmund-Nordwest (A 2) | 915 |
-| 110 | NW | A 45 | AK Hagen – AK Westhofen | 916 |
-| 111 | NW | A 52 | AK Mönchengladbach (A 61) – AK Neersen (A 44) | 922 |
-| 112 | NW | A 52 | AK Breitscheid (A 3) – AS Essen-Kettwig | 923 |
-| 113 | NW | A 52 | AS Essen-Kettwig – AS Essen-Rüttenscheid (B 224) | 923 |
-| 114 | NW | A 52 | AK Essen-Nord – s AK Essen/Gladbeck | 925 |
-| 115 | NW | A 52 | s AK Essen/Gladbeck – AK Essen/Gladbeck | 926 |
-| 116 | NW | A 52 | AK Essen/Gladbeck (A 2) – AS Gelsenkirchen-Buer | 927 |
-| 117 | NW | A 57 | AS Köln-Chorweiler – AS Dormagen | 929 |
-| 118 | NW | A 57 | AS Dormagen – AD Neuss-Süd (A 46) | 929 |
-| 119 | NW | A 57 | AK Kaarst | 930 |
-| 120 | NW | A 57 | AK Moers (A 40) | 931 |
-| 121 | NW | A 57 | AK Moers – AK Kamp-Lintfort (A 42) | 932 |
-| 122 | NW | A 57 | AS Krefeld-Oppum – AS Krefeld-Gartenstadt | 933 |
-| 123 | NW | A 57 | AS Krefeld-Gartenstadt – AK Moers (A 40) | 933 |
-| 124 | NW | A 59 | AD Bonn-Nordost (A 565) – AD Sankt Augustin-West (A 560) | 934 |
-| 125 | NW | A 59 | s AK Duisburg (A 40) – AS Duisburg-Marxloh | 935, 936, 937, 938 |
-| 126 | NW | A 59 | AD Sankt Augustin/West (A 560) – T+R-Anlage Liburer Heide | 940 |
-| 127 | NW | A 59 | T+R-Anlage Liburer Heide – AS Flughafen | 940 |
-| 128 | NW | A 59 | AS Flughafen – AD Köln-Porz (A 559) | 940 |
-| 129 | NW | A 59 | AK Bonn-Ost (A 562) – AS Bonn/Vilich | 941 |
-| 130 | NW | A 59 | AS Bonn/Vilich – AD Bonn-Nordost (A 565) | 941 |
-| 131 | NW | A 559 | AD Köln-Porz (A 59) – AK Köln-Gremberg (A 4) | 950 |
-| 132 | RP | A 60 | AS Ingelheim-West – AS Heidesheim | 1064 |
-| 133 | RP | A 60 | AD Mainz – AS Mainz-Finthen | 1066 |
-| 134 | RP | A 60 | AS Mainz-Finthen – AK Mainz-Süd | 1066 |
-| 135 | RP | A 61 | LGr. NW/RP – AD Sinzig | 1067 |
-| 136 | RP | A 61 | AD Sinzig – AS Mendig | 1068 |
-| 137 | RP | A 61 | Rheinbrücke Speyer (LGr. BW/RP) – AK Mutterstadt | 1074 |
-| 138 | RP | A 61 | AK Mutterstadt – AK Frankenthal | 1074 |
 
