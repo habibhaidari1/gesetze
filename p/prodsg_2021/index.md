@@ -15,11 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 3146, 3147
 
-Geändert durch
-:   Art. 2 G v. 27.7.2021 I 3146
-
-Änderung durch
-:   Art. 1 G v. 3.2.2026 I Nr. 29 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 1 G v. 3.2.2026 I Nr. 29
 
 Stand
 :   Ersetzt V 8053-8 v. 8.11.2011 I 2178, 2179; 2012 I 131 (ProdSG 2011)

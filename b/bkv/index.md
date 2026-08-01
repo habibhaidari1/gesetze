@@ -276,9 +276,10 @@ Zusammenfassung der wissenschaftlichen Entscheidungsgründe.
 
 (5) Das Bundesministerium für Arbeit und Soziales gibt die
 Empfehlungen und Stellungnahmen des Sachverständigenbeirats bekannt;
-die Abschlussvermerke werden veröffentlicht. Die vorbereitenden,
-intern erstellten Beratungsunterlagen des Sachverständigenbeirats
-sind vertraulich.
+die Abschlussvermerke werden veröffentlicht. Die Beratungsunterlagen
+des Sachverständigenbeirats sind mit Ausnahme der in Satz 1 genannten
+Dokumente vertraulich. Sie unterliegen auch nach Abschluss der
+Beratungen der Vertraulichkeit.
 
 
 ### § 10 Geschäftsstelle
@@ -377,6 +378,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 | 1321 | Schleimhautveränderungen, Krebs oder andere Neubildungen der Harnwege durch polyzyklische aromatische Kohlenwasserstoffe bei Nachweis der Einwirkung einer kumulativen Dosis von mindestens 80 Benzo(a)pyren-Jahren [(µg/m3) x Jahre] |  |
 |  | Zu den Nummern 1101 bis 1110, 1201 und 1202, 1303 bis 1309 und 1315: |  |
 |  | Ausgenommen sind Hauterkrankungen. Diese gelten als Krankheiten im Sinne dieser Anlage nur insoweit, als sie Erscheinungen einer Allgemeinerkrankung sind, die durch Aufnahme der schädigenden Stoffe in den Körper verursacht werden, oder gemäß Nummer 5101 zu entschädigen sind. |  |
+| 1322 | Parkinson-Syndrom durch langjährig, häufig und selbst angewendete Pestizide |  |
 | **2** | **Durch physikalische Einwirkungen verursachte Krankheiten** |  |
 | 21 | Mechanische Einwirkungen |  |
 | 2101 | Schwere oder wiederholt rückfällige Erkrankungen der Sehnenscheiden oder des Sehnengleitgewebes sowie der Sehnen- oder Muskelansätze |  |

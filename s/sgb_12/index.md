@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2003, 3022, 3023
 
 Zuletzt geändert durch
-:   Art. 9 G v. 16.4.2026 I Nr. 107
+:   Art. 2d G v. 24.7.2026 I Nr. 228
 
 
 ## Erstes Kapitel - Allgemeine Vorschriften
@@ -1190,6 +1190,10 @@ gilt der monatliche Beitrag als angemessen.
 (3) Bei Personen, denen Beiträge nach Absatz 2 als Bedarf anerkannt
 werden, gilt auch der Zusatzbeitragssatz nach § 242 Absatz 1 des
 Fünften Buches als angemessen.
+
+(3a) Bei Personen, denen Beiträge nach Absatz 2 als Bedarf anerkannt
+werden, gilt auch der Beitragszuschlag nach § 242b des Fünften Buches
+als angemessen.
 
 (4) Bei Personen, die gegen das Risiko Krankheit bei einem privaten
 Krankenversicherungsunternehmen versichert sind, sind angemessene
@@ -5531,11 +5535,14 @@ Erhebungsmerkmale nach § 128a Absatz 2 Nummer 2 sind
     c)  Beiträgen, die auf Grund des Zusatzbeitragssatzes nach dem Fünften
         Buch gezahlt werden,
 
-    d)  Beiträgen für eine private Krankenversicherung,
+    d)  Beiträge, die auf Grund des Beitragszuschlags nach dem Fünften Buch
+        gezahlt werden,
 
-    e)  Beiträgen für eine soziale Pflegeversicherung,
+    e)  Beiträgen für eine private Krankenversicherung,
 
-    f)  Beiträgen für eine private Pflegeversicherung,
+    f)  Beiträgen für eine soziale Pflegeversicherung,
+
+    g)  Beiträgen für eine private Pflegeversicherung,
 
 5.  Beiträge für die Vorsorge, getrennt nach
 

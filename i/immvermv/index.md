@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2016, 1046
 
 Zuletzt geändert durch
-:   Art. 11 V v. 11.12.2024 I Nr. 411
+:   Art. 3 V v. 28.7.2026 I Nr. 229
 
 
 ## Abschnitt 1 - Sachkundenachweis
@@ -80,32 +80,8 @@ grundlegenden fachlichen und rechtlichen Kenntnisse auf dem Gebiet
 der Immobiliardarlehensvermittlung erworben hat und diese Kenntnisse
 praktisch anwenden kann.
 
-(3) Die Auswahl der Prüfungsaufgaben für den schriftlichen
-Teil der Prüfung trifft ein nach Maßgabe des § 32 Absatz 2 der
-Gewerbeordnung eingerichteter bundesweit einheitlich tätiger
-Aufgabenauswahlausschuss. Der Aufgabenauswahlausschuss wird mit
-sieben Mitgliedern und sieben stellvertretenden Mitgliedern besetzt.
-Die Berufung der Mitglieder und der Stellvertreter erfolgt nach
-Anhörung von Vertretern der Kreditinstitute, der Bausparkassen,
-der Versicherungsunternehmen sowie der Kreditvermittler. Es werden
-berufen:
-
-1.  drei Mitglieder und drei Stellvertreter jeweils aus den Reihen
-    der Kreditinstitute einschließlich der Bausparkassen und der
-    Versicherungsunternehmen oder der Vertreter ihrer jeweiligen
-    Interessen,
-
-2.  drei Mitglieder und drei Stellvertreter aus den Reihen der
-    Kreditvermittler oder der Vertreter ihrer Interessen sowie
-
-3.  ein Mitglied und ein Stellvertreter aus den Reihen der Industrie- und
-    Handelskammern oder der Vertreter ihrer Interessen.
-
-Die Mitglieder des Aufgabenauswahlausschusses sowie ihre
-Stellvertreter müssen in der Lage sein, sachverständige Entscheidungen
-zur Aufgabenstellung zu treffen. Die Prüfungsaufgaben werden nach der
-Prüfung nicht veröffentlicht; sie stehen den Prüflingen nur während
-der Prüfungen zur Verfügung.
+(3) Die Prüfungsaufgaben werden nach der Prüfung nicht veröffentlicht;
+sie stehen den Prüflingen nur während der Prüfungen zur Verfügung.
 
 (4) Im praktischen Teil der Prüfung, der als Simulation eines
 Kundenberatungsgesprächs durchgeführt wird, wird jeweils ein
@@ -569,24 +545,27 @@ S. 12), die zuletzt durch die Richtlinie 2014/17/EU (ABl. L 60 vom
 (1) Ordnungswidrig im Sinne des § 144 Absatz 2 Nummer 6 der
 Gewerbeordnung handelt, wer vorsätzlich oder fahrlässig
 
-1.  entgegen § 13 sich Eigentum oder Besitz an Geldern eines
+1.  entgegen § 7 Absatz 1 Satz 1 oder Satz 2 oder Absatz 2 eine Mitteilung
+    nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
+
+2.  entgegen § 13 sich Eigentum oder Besitz an Geldern eines
     Immobiliardarlehensnehmers verschafft,
 
-2.  entgegen § 14 Absatz 1 Satz 1 eine Aufzeichnung nicht, nicht richtig,
+3.  entgegen § 14 Absatz 1 Satz 1 eine Aufzeichnung nicht, nicht richtig,
     nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht
     rechtzeitig fertigt,
 
-3.  entgegen § 14 Absatz 2 Satz 1 eine dort genannte Unterlage nicht,
+4.  entgegen § 14 Absatz 2 Satz 1 eine dort genannte Unterlage nicht,
     nicht richtig, nicht in der vorgeschriebenen Weise oder nicht
     mindestens fünf Jahre aufbewahrt,
 
-4.  einer vollziehbaren Anordnung nach § 15 Absatz 1 Satz 1
+5.  einer vollziehbaren Anordnung nach § 15 Absatz 1 Satz 1
     zuwiderhandelt,
 
-5.  entgegen § 16 Absatz 1 Satz 1 einem Prüfer eine Einsicht nicht
+6.  entgegen § 16 Absatz 1 Satz 1 einem Prüfer eine Einsicht nicht
     gestattet oder
 
-6.  entgegen § 16 Absatz 1 Satz 2 einem Prüfer eine Aufklärung oder
+7.  entgegen § 16 Absatz 1 Satz 2 einem Prüfer eine Aufklärung oder
     einen Nachweis nicht, nicht richtig, nicht vollständig oder nicht
     rechtzeitig gibt.
 

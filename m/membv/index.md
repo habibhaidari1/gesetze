@@ -1,5 +1,5 @@
 ---
-Title: Verordnung über die Voraussetzungen für die Bewertung neuer Untersuchungs- und Behandlungsmethoden mit Medizinprodukten hoher Risikoklasse nach § 137h des Fünften Buches Sozialgesetzbuch
+Title: Verordnung über die Voraussetzungen für die Bewertung neuer Untersuchungs- und Behandlungsmethoden nach § 137h des Fünften Buches Sozialgesetzbuch
 jurabk: MeMBV
 layout: default
 origslug: membv
@@ -7,7 +7,7 @@ slug: membv
 
 ---
 
-# Verordnung über die Voraussetzungen für die Bewertung neuer Untersuchungs- und Behandlungsmethoden mit Medizinprodukten hoher Risikoklasse nach § 137h des Fünften Buches Sozialgesetzbuch (MeMBV)
+# Verordnung über die Voraussetzungen für die Bewertung neuer Untersuchungs- und Behandlungsmethoden nach § 137h des Fünften Buches Sozialgesetzbuch (MeMBV)
 
 Ausfertigungsdatum
 :   2015-12-15
@@ -19,7 +19,10 @@ Geändert durch
 :   Art. 3 V v. 21.4.2021 I 833
 
 Änderung durch
-:   Art. 6a G v. 24.7.2026 I Nr. 228 mWv 30.7.2026 noch nicht berücksichtigt
+:   Art. 6a Nr. 1 G v. 24.7.2026 I Nr. 228 mWv 30.7.2026 ist berücksichtigt
+
+Änderung durch
+:   Art. 6a Nr. 2 bis 5 G v. 24.7.2026 I Nr. 228 mWv 30.7.2026 noch nicht berücksichtigt
 
 
 ## Eingangsformel

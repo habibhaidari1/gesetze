@@ -28,7 +28,7 @@ Zuletzt geändert durch
 :   Art. 2 G v. 21.7.2026 I Nr. 221 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 6 G v. 23.7.2026 I Nr. 226 mWv 29.7.2026 noch nicht berücksichtigt
+:   Art. 6 G v. 23.7.2026 I Nr. 226 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Buch 1 - Allgemeiner Teil
@@ -11437,9 +11437,11 @@ Modernisierungsmaßnahmen sind bauliche Veränderungen,
 1.  durch die in Bezug auf die Mietsache Endenergie nachhaltig eingespart
     wird (energetische Modernisierung),
 
-1a. durch die mittels Einbaus oder Aufstellung einer Heizungsanlage zum
-    Zwecke der Inbetriebnahme in einem Gebäude die Anforderungen des § 71
-    des Gebäudeenergiegesetzes erfüllt werden,
+1a. durch die eine Heizungsanlage im Sinne des § 42 des
+    Gebäudemodernisierungsgesetzes vom 8. August 2020 (BGBl. I S. 1728),
+    das zuletzt durch Artikel 4 des Gesetzes vom 23. Juli 2026 (BGBl.
+    2026 I Nr. 226) geändert worden ist, in der jeweils geltenden Fassung,
+    eingebaut oder aufgestellt wird,
 
 2.  durch die nicht erneuerbare Primärenergie nachhaltig eingespart
     oder das Klima nachhaltig geschützt wird, sofern nicht bereits eine
@@ -11562,6 +11564,42 @@ insbesondere über die
 2.  Gewährleistungsrechte und Aufwendungsersatzansprüche des Mieters,
 
 3.  künftige Höhe der Miete.
+
+
+###### § 555f Mieterhöhung nach Einbau oder Aufstellung einer Wärmepumpe
+
+(1) Der Vermieter kann beim Einbau oder bei der Aufstellung einer
+Wärmepumpe eine Mieterhöhung aufgrund einer Modernisierungsmaßnahme
+nach § 559 Absatz 1 oder § 559e Absatz 1 in voller Höhe nur verlangen,
+wenn er den Nachweis erbracht hat, dass die Jahresarbeitszahl der
+Wärmepumpe bei mindestens 2,5 liegt. Dieser Nachweis ist nicht
+erforderlich, wenn das Gebäude
+
+1.  nach 1996 errichtet worden ist,
+
+2.  mindestens nach den Vorgaben der Wärmeschutzverordnung vom 16.
+    August 1994 (BGBl. I S. 2121) in der bis zum Ablauf des 31. Januar
+    2002 geltenden Fassung erbaut worden ist oder der Gebäudeeigentümer
+    nachweist, dass der Jahres-Heizwärmebedarf die Anforderungen nach der
+    Wärmeschutzverordnung vom 16. August 1994 (BGBl. I S. 2121) in der bis
+    zum Ablauf des 31. Januar 2002 geltenden Fassung nicht überschreitet,
+
+3.  nach einer Sanierung mindestens den Anforderungen des § 38 des
+    Gebäudemodernisierungsgesetzes entspricht oder
+
+4.  mit einer Vorlauftemperatur beheizt werden kann, die nicht mehr als 55
+    Grad Celsius bei lokaler Norm-Außentemperatur beträgt.
+
+Der Nachweis nach Satz 1 muss von einem Fachunternehmer erbracht
+werden. Die Ermittlung der Jahresarbeitszahl erfolgt auf der Grundlage
+der Richtlinie VDI 4650 Blatt 1 Berichtigung 2024-08 oder eines
+vergleichbaren Verfahrens in der Regel vor der Inbetriebnahme der
+Anlage und nicht anhand von den Werten im Betrieb.
+
+(2) Sofern der Nachweis nach Absatz 1 Satz 1 nicht erbracht wird,
+kann der Vermieter für eine Mieterhöhung nach § 559 Absatz 1 oder §
+559e Absatz 1 nur die Hälfte der für die Wohnung aufgewendeten Kosten
+zugrunde legen.
 
 
 ###### Kapitel 2 - Die Miete
@@ -12275,7 +12313,9 @@ Maßgabe des § 559 erhöhen.
 
 (2) § 559 Absatz 2 Satz 1 ist mit der Maßgabe anwendbar, dass Kosten,
 die für Erhaltungsmaßnahmen erforderlich gewesen wären, pauschal in
-Höhe von 15 Prozent nicht zu den aufgewendeten Kosten gehören.
+Höhe von 15 Prozent nicht zu den aufgewendeten Kosten gehören. Dies
+gilt nicht, soweit Kosten durch den Einbau einer Heizungsanlage im
+Sinne des § 43 des Gebäudemodernisierungsgesetzes entstanden sind.
 
 (3) § 559 Absatz 3a Satz 1 ist mit der Maßgabe anwendbar, dass sich
 im Hinblick auf eine Modernisierungsmaßnahme nach § 555b Nummer 1a
