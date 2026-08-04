@@ -16,13 +16,7 @@ Fundstelle
 :   BGBl I: 2004, 2945
 
 Zuletzt geändert durch
-:   Art. 1 V v. 26.5.2026 I Nr. 161
-
-Änderung durch
-:   Art. 4 G v 22.7.2026 I Nr. 222 mWv 29.7.2026 noch nicht berücksichtigt
-
-Änderung durch
-:   Art. 11 G v 22.7.2026 I Nr. 222 mit zukünftiger Wirkung noch nicht berücksichtigt
+:   Art. 11 G v. 22.7.2026 I Nr. 222
 
 
 ## Kapitel 1 - Allgemeine Bestimmungen
@@ -3014,7 +3008,7 @@ für Bau und Heimat festgelegt und bekannt gemacht.
 #### Unterabschnitt 1 - Erfassung und Übermittlung von Antragsdaten zur Herstellung von Dokumenten mit Chip nach § 4 sowie nach § 78 des Aufenthaltsgesetzes
 
 
-##### § 61a Fingerabdruckerfassung bei der Beantragung von Dokumenten mit Chip
+##### § 61a Datenerfassung bei der Beantragung von Dokumenten mit Chip
 
 (1) Die Fingerabdrücke werden in Form des flachen Abdrucks des linken
 und rechten Zeigefingers des Antragstellers im Chip des Dokuments
@@ -3029,6 +3023,27 @@ nur vorübergehender Art sind, unmöglich ist.
 Einsicht in die im Chip gespeicherten Daten zu gewähren. Die bei der
 Ausländerbehörde gespeicherten Fingerabdrücke sind spätestens nach
 Aushändigung des Dokuments zu löschen.
+
+(3) Abweichend von Absatz 2 Satz 2 sollen die bei der Ausländerbehörde
+gespeicherten Fingerabdrücke, das Lichtbild und die Unterschrift nach
+der Aushändigung des Dokuments nur zum Zweck der erneuten Ausstellung
+eines Dokuments mit Chip für die Erteilung von Aufenthaltstiteln
+gemäß § 4 Absatz 1 Satz 2 Nummer 2 bis 2c des Aufenthaltsgesetzes
+verwendet werden. Abweichend von Absatz 2 Satz 2 sind die bei der
+Ausländerbehörde gespeicherten Fingerabdrücke, das Lichtbild und die
+Unterschrift nach erstmaliger Erhebung der Daten wie folgt zu löschen:
+
+1.  bei Personen, die das 18. Lebensjahr vollendet haben, spätestens nach
+    sieben Jahren,
+
+2.  bei Personen, die das 18. Lebensjahr noch nicht vollendet haben,
+    spätestens nach fünf Jahren.
+
+Die Nutzungsdauer der gespeicherten Fingerabdrücke, des Lichtbildes
+und der Unterschrift im Chip des Dokuments ist nach erstmaliger
+Erhebung der Daten begrenzt auf einen Zeitraum von höchstens
+zehn Jahren; die Gültigkeitsdauer neu ausgestellter Dokumente ist
+entsprechend zu begrenzen.
 
 
 ##### § 61b Form und Verfahren der Datenerfassung, -prüfung sowie der dezentralen Qualitätssicherung
@@ -3895,7 +3910,7 @@ der Ausstellung einer Bescheinigung nach § 15 Abs. 1 oder 2 des
 Bundesvertriebenengesetzes mit.
 
 
-##### § 74 Mitteilungen der Justizvollzugsbehörden und der Maßregelvollzugseinrichtungen
+##### § 74 Mitteilungen der Justizbehörden und der Maßregelvollzugseinrichtungen
 
 (1) Die Strafvollstreckungsbehörden teilen den Ausländerbehörden mit
 
@@ -3903,7 +3918,8 @@ Bundesvertriebenengesetzes mit.
 
 2.  den Widerruf der Zurückstellung der Strafvollstreckung.
 
-(2) Die Justizvollzugsbehörden teilen den Ausländerbehörden mit
+(2) Die Justizvollzugsbehörden oder die Maßregelvollzugseinrichtungen
+teilen den Ausländerbehörden mit
 
 1.  den Antritt der Auslieferungs-, Untersuchungs- und Strafhaft
     und den Beginn der Unterbringung in einem psychiatrischen
@@ -4085,10 +4101,10 @@ grenzpolizeilichen Einzeldienstes mit eigenen Kräften wahrnehmen.
 
 ### § 79 Anwendung auf Freizügigkeitsberechtigte
 
-Die in Kapitel 2 Abschnitt 1, Kapitel 3, § 56, Kapitel 5 sowie in
-den §§ 81 und 82 enthaltenen Regelungen finden auch Anwendung auf
-Ausländer, deren Rechtsstellung durch das Freizügigkeitsgesetz/EU
-geregelt ist.
+Die in Kapitel 2 Abschnitt 1, Kapitel 3, § 56, Kapitel 5 mit Ausnahme
+von § 61a Absatz 3 sowie in den §§ 81 und 82 enthaltenen Regelungen
+finden auch Anwendung auf Ausländer, deren Rechtsstellung durch das
+Freizügigkeitsgesetz/EU geregelt ist.
 
 
 ### § 80 Übergangsregelung für bestimmte Fiktionsbescheinigungen im Zusammenhang mit einem Dokumentenmuster

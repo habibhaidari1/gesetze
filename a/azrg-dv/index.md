@@ -19,7 +19,10 @@ Zuletzt geändert durch
 :   Art. 5 G v. 23.4.2026 I Nr. 112
 
 Änderung durch
-:   Art. 2 G v 22.7.2026 I Nr. 222 mWv 29.7.2026 bzw. mWv 1.11.2026 bzw. 1.5.2027 bzw. 1.11.2027 bzw. 1.5.2030 bzw. mit zukünftiger Wirkung noch nicht berücksichtigt
+:   Art. 2 Nr. 1 bis 5 G v 22.7.2026 I Nr. 222 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 2 Nr. 6 G v 22.7.2026 I Nr. 222 mWv 1.11.2026 bzw. 1.5.2027 bzw. mit zukünftiger Wirkung noch nicht berücksichtigt
 
 Änderung durch
 :   Art. 7 G v 22.7.2026 I Nr. 222 mWv 1.5.2025 bzw. 29.7.2026 bzw. 1.5.2027 noch nicht berücksichtigt
@@ -444,9 +447,9 @@ Mitteilung hat schriftlich zu erfolgen.
 § 31 Absatz 1 des AZR-Gesetzes sind solche Personen, deren
 Grundpersonalien, Lichtbilder, Fingerabdruckdaten, abweichende
 Namenschreibweisen, andere Namen, frühere Namen, Aliaspersonalien
-oder Angaben zum Ausweispapier oder Aufenthaltstitel mit den im
-Übermittlungsersuchen angegebenen Grundpersonalien, Lichtbildern,
-Fingerabdruckdaten oder Angaben zum Ausweispapier oder
+oder Angaben zu Ausweisdokumenten oder zum Aufenthaltstitel mit den
+im Übermittlungsersuchen angegebenen Grundpersonalien, Lichtbildern,
+Fingerabdruckdaten oder Angaben zu Ausweisdokumenten oder zum
 Aufenthaltstitel übereinstimmen oder nur geringfügig davon abweichen.
 
 
