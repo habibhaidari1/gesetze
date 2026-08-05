@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2014, 1222
 
 Zuletzt geändert durch
-:   Art. 9 Abs. 1 G v. 10.2.2026 I Nr. 39
-
-Änderung durch
-:   Art. 11 G v. 29.6.2026 I Nr. 197 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 11 G v. 29.6.2026 I Nr. 197
 
 
 ## Eingangsformel

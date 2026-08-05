@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 1 G v. 26.6.2026 I Nr. 195 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 1 G v. 24.7.2026 I Nr. 228 mWv 30.7.2026 bzw. 1.1.2027 bzw. 1.1.2028 noch nicht berücksichtigt
+:   Art. 1 G v. 24.7.2026 I Nr. 228 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erstes Kapitel - Allgemeine Vorschriften
@@ -139,7 +139,20 @@ Beitragserhöhungen ausgeschlossen werden, es sei denn, die
 notwendige medizinische Versorgung ist auch nach Ausschöpfung von
 Wirtschaftlichkeitsreserven nicht zu gewährleisten.
 
-(5) (weggefallen)
+(5) Ab dem Haushaltsjahr 2027 dürfen sich die Verwaltungsausgaben
+einer Krankenkasse mit Ausnahme der Verwaltungsausgaben der
+landwirtschaftlichen Krankenkasse und der knappschaftlichen
+Krankenversicherung im Verhältnis zu ihren Verwaltungsausgaben im
+jeweils vorangegangenen Haushaltsjahr nur nach Maßgabe der für das
+jeweilige Kalenderjahr nach § 71 Absatz 3 Satz 5 veröffentlichten
+durchschnittlichen Veränderungsrate je Versicherten erhöhen.
+Die Begrenzung nach Satz 1 gilt nicht für Aufwendungen zum
+Schutz der kritischen Infrastruktur im Bereich Sicherheit der
+Informationstechnik sowie für Aufwendungen, die für die Durchführung
+der Sozialversicherungswahlen als Online-Wahl entstehen. Für die
+Verwaltungsausgaben der knappschaftlichen Krankenversicherung gilt
+§ 18a Absatz 2 des Zweiten Gesetzes über die Krankenversicherung der
+Landwirte entsprechend.
 
 (6) Im Jahr 2026 dürfen sich die sächlichen Verwaltungsausgaben einer
 Krankenkasse nicht um mehr als 8 Prozent gegenüber dem Jahr 2024
@@ -163,9 +176,12 @@ unzulässig.
 (3) Krankenkassen sind berechtigt, um Mitglieder und für ihre
 Leistungen zu werben. Bei Werbemaßnahmen der Krankenkassen muss die
 sachbezogene Information im Vordergrund stehen. Die Werbung hat in
-einer Form zu erfolgen, die mit der Eigenschaft der Krankenkassen als
-Körperschaften des öffentlichen Rechts unter Berücksichtigung ihrer
-Aufgaben vereinbar ist.
+einer Form zu erfolgen, die mit der Eigenschaft der Krankenkassen
+als Körperschaften des öffentlichen Rechts unter Berücksichtigung
+ihrer Aufgaben vereinbar ist. Die Ausgaben einer Krankenkasse für
+Werbemaßnahmen dürfen in jedem Haushaltsjahr 0,075 Prozent der
+jeweiligen monatlichen Bezugsgröße nach § 18 Absatz 1 des Vierten
+Buches je Mitglied nicht überschreiten.
 
 (4) Das Bundesministerium für Gesundheit wird ermächtigt, durch
 Rechtsverordnung mit Zustimmung des Bundesrates das Nähere über
@@ -174,9 +190,7 @@ Hinblick auf
 
 1.  Inhalt und Art der Werbung,
 
-2.  Höchstgrenzen für Werbeausgaben einschließlich der
-    Aufwandsentschädigungen für externe Dienstleister, die zu Werbezwecken
-    beauftragt werden,
+2.  Höchstgrenzen für Werbeausgaben für näher bestimmte Werbemaßnahmen,
 
 3.  die Trennung der Werbung von der Erfüllung gesetzlicher
     Informationspflichten,
@@ -2814,7 +2828,24 @@ gesundheitlicher Risiken und Belastungen sowie eine Anpassung der
 Richtlinie im Hinblick auf Gesundheitsuntersuchungen zur Früherkennung
 von bevölkerungsmedizinisch bedeutsamen Krankheiten. Die Frist nach
 Satz 5 verlängert sich in dem Fall einer Erprobung nach Absatz 3 Satz
-3 um zwei Jahre.
+3 um zwei Jahre. Der Gemeinsame Bundesausschuss überprüft auf der
+Grundlage des aktuellen Stands der medizinischen Erkenntnisse die von
+ihm in Richtlinien nach § 92 getroffenen Regelungen über
+
+1.  die Gesundheitsuntersuchungen nach Absatz 1 im Hinblick auf
+    Altersgrenzen, Zielgruppen, Häufigkeit der Untersuchungen,
+    Untersuchungsinhalte, geschlechtsspezifische Besonderheiten
+    und Zielerkrankungen, insbesondere hinsichtlich einer möglichen
+    Eingrenzung auf Herz-Kreislauf-Erkrankungen sowie deren
+    Risiken und Begleit- und Folgeerkrankungen als Schwerpunkt der
+    Gesundheitsuntersuchung, und
+
+2.  Untersuchungen zur Früherkennung von Hautkrebserkrankungen nach Absatz
+    2 unter Berücksichtigung eines möglichen risikobasierten Screenings
+    und einer möglichen Anpassung der Häufigkeit der Untersuchungen.
+
+Der Gemeinsame Bundesausschuss beschließt bis zum 31. Dezember 2027
+über eine Anpassung dieser Richtlinien.
 
 (4a) Legt das Bundesministerium für Umwelt, Naturschutz
 und nukleare Sicherheit in einer Rechtsverordnung nach § 84
@@ -3315,24 +3346,23 @@ gestellt wird, bei dem insbesondere im Hinblick auf die zahlenmäßige
 Entwicklung seiner Durchführung die Gefahr einer Indikationsausweitung
 nicht auszuschließen ist, haben Anspruch darauf, eine unabhängige
 ärztliche Zweitmeinung bei einem Arzt oder einer Einrichtung nach
-Absatz 3 einzuholen. Die Zweitmeinung kann nicht bei einem Arzt oder
+Absatz 4 einzuholen. Die Zweitmeinung kann nicht bei einem Arzt oder
 einer Einrichtung eingeholt werden, durch den oder durch die der
 Eingriff durchgeführt werden soll.
 
 (2) Der Gemeinsame Bundesausschuss bestimmt in seinen Richtlinien
 nach § 92 Absatz 1 Satz 2 Nummer 13, für welche planbaren Eingriffe
 nach Absatz 1 Satz 1 der Anspruch auf Einholung der Zweitmeinung
-im Einzelnen besteht; ab dem 1. Januar 2022 soll der Gemeinsame
-Bundesausschuss jährlich mindestens zwei weitere Eingriffe
-bestimmen, für die Anspruch auf Einholung der Zweitmeinung im
-Einzelnen besteht. Er legt indikationsspezifische Anforderungen
-an die Abgabe der Zweitmeinung zum empfohlenen Eingriff und an die
-Erbringer einer Zweitmeinung fest, um eine besondere Expertise zur
-Zweitmeinungserbringung zu sichern. Kriterien für die besondere
-Expertise sind
+im Einzelnen besteht; der Gemeinsame Bundesausschuss soll jährlich
+mindestens zwei weitere Eingriffe bestimmen, für die Anspruch
+auf Einholung der Zweitmeinung im Einzelnen besteht. Er legt
+indikationsspezifische Anforderungen an die Abgabe der Zweitmeinung
+zum empfohlenen Eingriff und an die Erbringer einer Zweitmeinung fest,
+um eine besondere Expertise zur Zweitmeinungserbringung zu sichern.
+Kriterien für die besondere Expertise sind
 
 1.  eine langjährige fachärztliche Tätigkeit in einem Fachgebiet, das für
-    die Indikation zum Eingriff maßgeblich ist,
+    die Indikation zum Eingriff maßgeblich ist, und
 
 2.  Kenntnisse über den aktuellen Stand der wissenschaftlichen Forschung
     zur jeweiligen Diagnostik und Therapie einschließlich Kenntnissen über
@@ -3354,7 +3384,22 @@ Der Gemeinsame Bundesausschuss berücksichtigt bei den Festlegungen
 nach Satz 2 die Möglichkeiten einer telemedizinischen Erbringung der
 Zweitmeinung.
 
-(3) Zur Erbringung einer Zweitmeinung sind berechtigt:
+(3) Der Vergütungsanspruch des Arztes oder der Einrichtung, durch
+den oder durch die ein vom Gemeinsamen Bundesausschuss nach Satz
+2 bestimmter Eingriff durchgeführt wird, gegen die Krankenkasse
+entfällt, wenn dem Arzt oder der Einrichtung vor dem Eingriff kein
+Nachweis über eine eingeholte Zweitmeinung vorliegt. Der Gemeinsame
+Bundesausschuss bestimmt erstmals bis zum 31. März 2027 mindestens
+einen und danach jährlich mindestens zwei weitere der von ihm nach
+Absatz 2 Satz 1 bestimmten, planbaren Eingriffe, für die die Einholung
+einer Zweitmeinung Voraussetzung für die Vergütung des Arztes oder der
+Einrichtung für die Durchführung des Eingriffs ist. Das Nähere zu dem
+in Satz 1 genannten Nachweis bestimmt der Gemeinsame Bundesausschuss
+in seinen Richtlinien nach § 92 Absatz 1 Satz 2 Nummer 13.
+
+(4) Sofern sie die vom Gemeinsamen Bundesausschuss nach Absatz 2
+Satz 2 festgelegten Anforderungen erfüllen, sind zur Erbringung einer
+Zweitmeinung berechtigt:
 
 1.  zugelassene Ärzte,
 
@@ -3362,43 +3407,53 @@ Zweitmeinung.
 
 3.  ermächtigte Ärzte und Einrichtungen,
 
-4.  zugelassene Krankenhäuser sowie
+4.  zugelassene Krankenhäuser und
 
 5.  nicht an der vertragsärztlichen Versorgung teilnehmende Ärzte, die nur
-    zu diesem Zweck an der vertragsärztlichen Versorgung teilnehmen,
+    zu diesem Zweck an der vertragsärztlichen Versorgung teilnehmen.
 
-soweit sie die Anforderungen nach Absatz 2 Satz 2 erfüllen.
-
-(4) Die Kassenärztlichen Vereinigungen und die
+(5) Die Kassenärztlichen Vereinigungen und die
 Landeskrankenhausgesellschaften informieren inhaltlich abgestimmt über
 Leistungserbringer, die unter Berücksichtigung der vom Gemeinsamen
 Bundesausschuss nach Absatz 2 Satz 2 festgelegten Anforderungen zur
 Erbringung einer unabhängigen Zweitmeinung geeignet und bereit sind.
 
-(5) Der Arzt, der die Indikation für einen Eingriff nach Absatz 1
+(6) Der Arzt, der die Indikation für einen Eingriff nach Absatz 1
 Satz 1 in Verbindung mit Absatz 2 Satz 1 stellt, muss den Versicherten
-über das Recht, eine unabhängige ärztliche Zweitmeinung einholen
-zu können, aufklären und ihn auf die Informationsangebote über
-geeignete Leistungserbringer nach Absatz 4 hinweisen. Die Aufklärung
-muss mündlich erfolgen; ergänzend kann auf Unterlagen Bezug genommen
-werden, die der Versicherte in Textform erhält. Der Arzt hat dafür
-Sorge zu tragen, dass die Aufklärung in der Regel mindestens zehn Tage
-vor dem geplanten Eingriff erfolgt. In jedem Fall hat die Aufklärung
-so rechtzeitig zu erfolgen, dass der Versicherte seine Entscheidung
-über die Einholung einer Zweitmeinung wohlüberlegt treffen kann.
-Der Arzt hat den Versicherten auf sein Recht auf Überlassung von
-Abschriften der Befundunterlagen aus der Behandlungsakte nach § 630g
-Absatz 1 Satz 3 des Bürgerlichen Gesetzbuchs, die für die Einholung
-der Zweitmeinung erforderlich sind, hinzuweisen. Die Kosten, die dem
-Arzt durch die Zusammenstellung und Überlassung von Befundunterlagen
-für die Zweitmeinung entstehen, trägt die Krankenkasse.
+über das Recht, eine unabhängige ärztliche Zweitmeinung einholen zu
+können, aufklären und ihn auf die Informationsangebote über geeignete
+Leistungserbringer nach Absatz 5 hinweisen. Bei vom Gemeinsamen
+Bundesausschuss nach Absatz 3 Satz 2 bestimmten Eingriffen hat der
+Arzt den Versicherten vor Inanspruchnahme der Leistung darüber zu
+informieren, dass bei Fehlen eines Nachweises über eine eingeholte
+Zweitmeinung die Kosten für die Durchführung des Eingriffs von
+dem Versicherten zu tragen sind. Die Aufklärung muss mündlich
+erfolgen; ergänzend hat der Arzt dem Versicherten Informationen zu
+dem jeweiligen Eingriff und zu Behandlungsalternativen in Textform
+auszuhändigen. Das Nähere zu den auszuhändigenden Informationen
+bestimmt der Gemeinsame Bundesausschuss in seinen Richtlinien nach
+§ 92 Absatz 1 Satz 2 Nummer 13. Der Arzt hat dafür Sorge zu tragen,
+dass die Aufklärung in der Regel mindestens zehn Arbeitstage, bei
+vom Gemeinsamen Bundesausschuss nach Absatz 3 Satz 2 bestimmten
+Eingriffen in der Regel mindestens 15 Arbeitstage vor dem geplanten
+Eingriff erfolgt. In jedem Fall hat die Aufklärung so rechtzeitig zu
+erfolgen, dass der Versicherte seine Entscheidung über die Einholung
+einer Zweitmeinung wohlüberlegt treffen und bei vom Gemeinsamen
+Bundesausschuss nach Absatz 3 Satz 2 bestimmten Eingriffen eine
+Zweitmeinung einholen kann. Der Arzt hat den Versicherten auf sein
+Recht auf Überlassung von Abschriften der Befundunterlagen aus
+der Behandlungsakte nach § 630g Absatz 1 Satz 3 des Bürgerlichen
+Gesetzbuchs, die für die Einholung der Zweitmeinung erforderlich sind,
+hinzuweisen. Die Kosten, die dem Arzt durch die Zusammenstellung und
+Überlassung von Befundunterlagen für die Zweitmeinung entstehen, trägt
+die Krankenkasse.
 
-(6) Die Krankenkasse kann in ihrer Satzung zusätzliche Leistungen zur
+(7) Die Krankenkasse kann in ihrer Satzung zusätzliche Leistungen zur
 Einholung einer unabhängigen ärztlichen Zweitmeinung vorsehen. Sofern
 diese zusätzlichen Leistungen die vom Gemeinsamen Bundesausschuss
-bestimmten Eingriffe nach Absatz 2 Satz 1 betreffen, müssen sie
-die Anforderungen nach Absatz 2 Satz 2 erfüllen, die der Gemeinsame
-Bundesausschuss festgelegt hat. Dies gilt auch, wenn die Krankenkasse
+nach Absatz 2 Satz 1 bestimmten Eingriffe betreffen, müssen sie
+die Anforderungen erfüllen, die der Gemeinsame Bundesausschuss nach
+Absatz 2 Satz 2 festgelegt hat. Dies gilt auch, wenn die Krankenkasse
 ein Zweitmeinungsverfahren im Rahmen von Verträgen der besonderen
 Versorgung nach § 140a anbietet.
 
@@ -3417,32 +3472,71 @@ Erbringung zu stellen sind. Der Bundesärztekammer ist Gelegenheit zur
 Stellungnahme zu geben.
 
 (2) Die zahnärztliche Behandlung umfaßt die Tätigkeit des Zahnarztes,
-die zur Verhütung, Früherkennung und Behandlung von Zahn-, Mund-
-und Kieferkrankheiten nach den Regeln der zahnärztlichen Kunst
-ausreichend und zweckmäßig ist; sie umfasst auch konservierend-
-chirurgische Leistungen und Röntgenleistungen, die im Zusammenhang
-mit Zahnersatz einschließlich Zahnkronen und Suprakonstruktionen
-erbracht werden. Wählen Versicherte bei Zahnfüllungen eine darüber
-hinausgehende Versorgung, haben sie die Mehrkosten selbst zu tragen.
-In diesen Fällen ist von den Kassen die vergleichbare preisgünstigste
-plastische Füllung als Sachleistung abzurechnen. In Fällen des
-Satzes 2 ist vor Beginn der Behandlung eine schriftliche Vereinbarung
-zwischen dem Zahnarzt und dem Versicherten zu treffen. Die
-Mehrkostenregelung gilt nicht für Fälle, in denen intakte plastische
-Füllungen ausgetauscht werden. Nicht zur zahnärztlichen Behandlung
-gehört die kieferorthopädische Behandlung von Versicherten, die zu
-Beginn der Behandlung das 18. Lebensjahr vollendet haben. Dies gilt
-nicht für Versicherte mit schweren Kieferanomalien, die ein Ausmaß
-haben, das kombinierte kieferchirurgische und kieferorthopädische
-Behandlungsmaßnahmen erfordert. Ebenso gehören funktionsanalytische
-und funktionstherapeutische Maßnahmen nicht zur zahnärztlichen
-Behandlung; sie dürfen von den Krankenkassen auch nicht bezuschußt
-werden. Das Gleiche gilt für implantologische Leistungen, es sei denn,
-es liegen seltene vom Gemeinsamen Bundesausschuss in Richtlinien nach
-§ 92 Abs. 1 festzulegende Ausnahmeindikationen für besonders schwere
+die zur Verhütung, Früherkennung und Behandlung von Zahn-, Mund- und
+Kieferkrankheiten nach den Regeln der zahnärztlichen Kunst ausreichend
+und zweckmäßig ist; sie umfasst auch konservierend-chirurgische
+Leistungen und Röntgenleistungen, die im Zusammenhang mit Zahnersatz
+einschließlich Zahnkronen und Suprakonstruktionen erbracht werden.
+Wählen Versicherte bei Zahnfüllungen eine darüber hinausgehende
+Versorgung, haben sie die Mehrkosten selbst zu tragen. In diesen
+Fällen ist von den Kassen die vergleichbare preisgünstigste plastische
+Füllung als Sachleistung abzurechnen. In Fällen des Satzes 2 ist
+vor Beginn der Behandlung eine schriftliche Vereinbarung zwischen
+dem Zahnarzt und dem Versicherten zu treffen. Die Mehrkostenregelung
+gilt nicht für Fälle, in denen intakte plastische Füllungen
+ausgetauscht werden. Nicht zur zahnärztlichen Behandlung gehört die
+kieferorthopädische Behandlung
+
+1.  durch Vertragszahnärzte, die keine Anerkennung als Fachzahnarzt
+    für Kieferorthopädie, keinen dem Fachzahnarzt für Kiefernorthopädie
+    gleichwertigen Abschluss oder keine im Bundesmantelvertrag für
+    Zahnärzte festgelegte ausreichende praktische Erfahrung in der
+    kieferorthopädischen Behandlung besitzen, oder
+
+2.  von Versicherten, die zu Beginn der Behandlung das 18. Lebensjahr
+    vollendet haben.
+
+Satz 6 Nummer 2 gilt nicht für Versicherte mit schweren
+Kieferanomalien, die ein Ausmaß haben, das kombinierte
+kieferchirurgische und kieferorthopädische Behandlungsmaßnahmen
+erfordert. Ebenso gehören funktionsanalytische und
+funktionstherapeutische Maßnahmen nicht zur zahnärztlichen Behandlung;
+sie dürfen von den Krankenkassen auch nicht bezuschußt werden. Das
+Gleiche gilt für implantologische Leistungen, es sei denn, es liegen
+seltene vom Gemeinsamen Bundesausschuss in Richtlinien nach § 92
+Abs. 1 festzulegende Ausnahmeindikationen für besonders schwere
 Fälle vor, in denen die Krankenkasse diese Leistung einschließlich
 der Suprakonstruktion als Sachleistung im Rahmen einer medizinischen
-Gesamtbehandlung erbringt. Absatz 1 Satz 2 gilt entsprechend.
+Gesamtbehandlung erbringt. Absatz 1 Satz 2 gilt entsprechend. Die
+Kassenzahnärztliche Bundesvereinigung und der Spitzenverband Bund der
+Krankenkassen legen im Bundesmantelvertrag für Zahnärzte spätestens
+bis zum 1. Januar 2027 fest,
+
+1.  welcher Abschluss einem Fachzahnarzt für Kieferorthopädie als
+    gleichwertig im Sinne des Satzes 6 Nummer 1 gilt und
+
+2.  welche praktische Erfahrung in der kieferorthopädischen Behandlung als
+    ausreichend im Sinne des Satzes 6 Nummer 1 gilt.
+
+Der Bundeszahnärztekammer ist vor jeder Festlegung nach Satz 11
+Gelegenheit zur Stellungnahme zu geben. Die Stellungnahme ist in den
+Entscheidungsprozess einzubeziehen.
+
+(2a) Absatz 2 Satz 6 und 7 in der am 29. Juli 2026 geltenden Fassung
+ist weiter anzuwenden
+
+1.  auf eine vor dem Ablauf des 29. Juli 2030 begonnene
+    kieferorthopädische Behandlung oder
+
+2.  auf Vertragszahnärzte, die vor Ablauf des 29. Juli 2026 ein Studium,
+    das zum Führen des Titels Master of Science im Fachbereich der
+    Kieferorthopädie berechtigt, abgeschlossen oder ein solches Studium
+    aufgenommen haben.
+
+Der Vertragszahnarzt hat die Berechtigung zum Führen des in Satz
+1 Nummer 2 genannten Titels oder das Datum der Aufnahme eines
+Studiums, das zu einem solchen Titel führt, gegenüber der zuständigen
+Kassenzahnärztlichen Vereinigung nachzuweisen.
 
 (3) Die psychotherapeutische Behandlung einer Krankheit
 wird durch Psychologische Psychotherapeuten und Kinder-
@@ -3456,7 +3550,11 @@ Sitzungen gemäß § 92 Abs. 6a hat der Psychotherapeut vor Beginn der
 Behandlung den Konsiliarbericht eines Vertragsarztes zur Abklärung
 einer somatischen Erkrankung sowie, falls der somatisch abklärende
 Vertragsarzt dies für erforderlich hält, eines psychiatrisch tätigen
-Vertragsarztes einzuholen.
+Vertragsarztes einzuholen. Der Einholung des Konsiliarberichts bedarf
+es nicht, wenn die psychotherapeutische Behandlung auf Überweisung
+eines Vertragsarztes erfolgt oder auf Empfehlung eines Krankenhauses
+im Anschluss an eine psychiatrische, psychosomatische oder
+psychotherapeutische Krankenhausbehandlung.
 
 (4) (weggefallen)
 
@@ -3570,15 +3668,16 @@ enthalten sind, nur verarbeiten, soweit dies für die Prüfung nach Satz
 ##### § 31 Arznei- und Verbandmittel, Verordnungsermächtigung
 
 (1) Versicherte haben einen Anspruch auf Versorgung mit
-apothekenpflichtigen Arzneimitteln, soweit die Arzneimittel
-nicht nach § 34 oder durch Richtlinien nach § 92 Absatz 1 Satz
-2 Nummer 6 ausgeschlossen sind oder nach den §§ 48a oder 48b
-des Arzneimittelgesetzes abgegeben werden, und auf Versorgung
-mit Verbandmitteln, Harn- und Blutteststreifen. Der Gemeinsame
-Bundesausschuss hat in den Richtlinien nach § 92 Abs. 1 Satz 2 Nr.
-6 festzulegen, in welchen medizinisch notwendigen Fällen Stoffe und
-Zubereitungen aus Stoffen, die als Medizinprodukte nach § 3 Nr. 1
-oder Nr. 2 des Medizinproduktegesetzes in der bis einschließlich
+apothekenpflichtigen Arzneimitteln, soweit es sich nicht um
+homöopathische oder anthroposophische Arzneimittel handelt oder die
+Arzneimittel nicht nach § 34 oder durch Richtlinien nach § 92 Absatz
+1 Satz 2 Nummer 6 von der Versorgung ausgeschlossen sind oder nach
+den §§ 48a oder 48b des Arzneimittelgesetzes abgegeben werden, und
+auf Versorgung mit Verbandmitteln, Harn- und Blutteststreifen. Der
+Gemeinsame Bundesausschuss hat in den Richtlinien nach § 92 Abs. 1
+Satz 2 Nr. 6 festzulegen, in welchen medizinisch notwendigen Fällen
+Stoffe und Zubereitungen aus Stoffen, die als Medizinprodukte nach § 3
+Nr. 1 oder Nr. 2 des Medizinproduktegesetzes in der bis einschließlich
 25\. Mai 2021 geltenden Fassung zur Anwendung am oder im menschlichen
 Körper bestimmt sind, ausnahmsweise in die Arzneimittelversorgung
 einbezogen werden; § 34 Abs. 1 Satz 5, 7 und 8 und Abs. 6 sowie
@@ -3719,9 +3818,9 @@ geltenden Fassung entsprechend. Bei Vereinbarungen nach § 84 Absatz 1
 Satz 2 Nummer 1 sind Leistungen nach Satz 1 zu berücksichtigen.
 
 (6) Versicherte mit einer schwerwiegenden Erkrankung haben Anspruch
-auf Versorgung mit Cannabis in Form von getrockneten Blüten oder
-Extrakten in standardisierter Qualität und auf Versorgung mit
-Arzneimitteln mit den Wirkstoffen Dronabinol oder Nabilon, wenn
+auf Versorgung mit Cannabis in Form von Extrakten in standardisierter
+Qualität und auf Versorgung mit Arzneimitteln mit den Wirkstoffen
+Dronabinol oder Nabilon, wenn
 
 1.  eine allgemein anerkannte, dem medizinischen Standard entsprechende
     Leistung
@@ -3732,63 +3831,43 @@ Arzneimitteln mit den Wirkstoffen Dronabinol oder Nabilon, wenn
         Vertragsärztin oder des behandelnden Vertragsarztes unter Abwägung
         der zu erwartenden Nebenwirkungen und unter Berücksichtigung des
         Krankheitszustandes der oder des Versicherten nicht zur Anwendung
-        kommen kann,
+        kommen kann und
 
 2.  eine nicht ganz entfernt liegende Aussicht auf eine spürbare positive
     Einwirkung auf den Krankheitsverlauf oder auf schwerwiegende Symptome
     besteht.
 
-Die Leistung bedarf bei der ersten Verordnung für eine Versicherte
-oder einen Versicherten der nur in begründeten Ausnahmefällen
-abzulehnenden Genehmigung der Krankenkasse, die vor Beginn der
-Leistung zu erteilen ist. Verordnet die Vertragsärztin oder der
-Vertragsarzt die Leistung nach Satz 1 im Rahmen der Versorgung
-nach § 37b oder im unmittelbaren Anschluss an eine Behandlung
-mit einer Leistung nach Satz 1 im Rahmen eines stationären
-Krankenhausaufenthalts, ist über den Antrag auf Genehmigung nach Satz
-2 abweichend von § 13 Absatz 3a Satz 1 innerhalb von drei Tagen nach
-Antragseingang zu entscheiden. Leistungen, die auf der Grundlage einer
-Verordnung einer Vertragsärztin oder eines Vertragsarztes zu erbringen
-sind, bei denen allein die Dosierung eines Arzneimittels nach Satz 1
-angepasst wird oder die einen Wechsel zu anderen getrockneten Blüten
-oder zu anderen Extrakten in standardisierter Qualität anordnen,
-bedürfen keiner erneuten Genehmigung nach Satz 2. Das Bundesinstitut
-für Arzneimittel und Medizinprodukte wird mit einer bis zum 31.
-März 2022 laufenden nichtinterventionellen Begleiterhebung zum
-Einsatz der Leistungen nach Satz 1 beauftragt.*Die Vertragsärztin
-oder der Vertragsarzt, die oder der die Leistung nach Satz 1
-verordnet, übermittelt die für die Begleiterhebung erforderlichen
-Daten dem Bundesinstitut für Arzneimittel und Medizinprodukte
-in anonymisierter Form; über diese Übermittlung ist die oder der
-Versicherte vor Verordnung der Leistung von der Vertragsärztin oder
-dem Vertragsarzt zu informieren.* Das Bundesinstitut für Arzneimittel
-und Medizinprodukte darf die nach Satz 6 übermittelten Daten nur
-in anonymisierter Form und nur zum Zweck der wissenschaftlichen
-Begleiterhebung verarbeiten. Das Bundesministerium für Gesundheit
-wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung
-des Bundesrates bedarf, den Umfang der zu übermittelnden Daten, das
-Verfahren zur Durchführung der Begleiterhebung einschließlich der
-anonymisierten Datenübermittlung sowie das Format des Studienberichts
-nach Satz 9 zu regeln. Auf der Grundlage der Ergebnisse der
-Begleiterhebung nach Satz 5 regelt der Gemeinsame Bundesausschuss
-innerhalb von sechs Monaten nach der Übermittlung der Ergebnisse
-der Begleiterhebung in Form eines Studienberichts das Nähere zur
-Leistungsgewährung in den Richtlinien nach § 92 Absatz 1 Satz 2 Nummer
-6\. Der Studienbericht wird vom Bundesinstitut für Arzneimittel und
-Medizinprodukte auf seiner Internetseite veröffentlicht. Abweichend
-von § 13 Absatz 3a Satz 1 ist über den Antrag auf Genehmigung
-innerhalb von zwei Wochen nach Antragseingang zu entscheiden. Sofern
-eine gutachtliche Stellungnahme, insbesondere des Medizinischen
-Dienstes, eingeholt wird, ist abweichend von § 13 Absatz 3a Satz
-1 über den Antrag auf Genehmigung innerhalb von vier Wochen nach
-Antragseingang zu entscheiden; der Medizinische Dienst nimmt, sofern
-eine gutachtliche Stellungnahme eingeholt wird, innerhalb von zwei
-Wochen Stellung.
-
-(7) Der Gemeinsame Bundesausschuss regelt bis zum 1. Oktober 2023 in
-den Richtlinien nach § 92 Absatz 1 Nummer 6 das Nähere zu einzelnen
-Facharztgruppen und den erforderlichen ärztlichen Qualifikationen, bei
-denen der Genehmigungsvorbehalt nach Absatz 6 Satz 2 entfällt.
+Die vertragsärztliche Versorgung hat zunächst mit einem zugelassenen
+cannabishaltigen Fertigarzneimittel im Rahmen eines sechsmonatigen
+Therapieversuchs zu erfolgen. Die Leistung bedarf bei der ersten
+Verordnung für eine Versicherte oder einen Versicherten der
+nur in begründeten Ausnahmefällen abzulehnenden Genehmigung der
+Krankenkasse, es sei denn die Leistung wird von einer oder einem vom
+Gemeinsamen Bundesausschuss nach Satz 9 bestimmten Fachärztin oder
+Facharzt verordnet. Die Genehmigung ist vor Beginn der Leistung zu
+erteilen. Abweichend von § 13 Absatz 3a Satz 1 ist über den Antrag
+auf Genehmigung innerhalb von zwei Wochen nach Antragseingang zu
+entscheiden. Sofern eine gutachtliche Stellungnahme, insbesondere
+des Medizinischen Dienstes, eingeholt wird, ist abweichend von §
+13 Absatz 3a Satz 1 über den Antrag auf Genehmigung innerhalb von
+vier Wochen nach Antragseingang zu entscheiden; der Medizinische
+Dienst nimmt, sofern eine gutachtliche Stellungnahme eingeholt wird,
+innerhalb von zwei Wochen Stellung. Verordnet die Vertragsärztin
+oder der Vertragsarzt die Leistung nach Satz 1 im Rahmen der
+Versorgung nach § 37b oder im unmittelbaren Anschluss an eine
+Behandlung mit einer Leistung nach Satz 1 im Rahmen eines stationären
+Krankenhausaufenthalts, ist über den Antrag auf Genehmigung
+nach Satz 3 abweichend von Satz 5 innerhalb von drei Tagen nach
+Antragseingang zu entscheiden. Leistungen, die auf der Grundlage
+einer Verordnung einer Vertragsärztin oder eines Vertragsarztes zu
+erbringen sind, bei denen allein die Dosierung eines Arzneimittels
+nach Satz 1 angepasst wird oder die einen Wechsel zu anderen Extrakten
+in standardisierter Qualität anordnen, bedürfen keiner erneuten
+Genehmigung nach Satz 3. Der Gemeinsame Bundesausschuss regelt das
+Nähere zur Leistungsgewährung sowie zu einzelnen Facharztgruppen, bei
+denen der Genehmigungsvorbehalt nach Satz 3 entfällt, und zu deren
+erforderlichen ärztlichen Qualifikationen in den Richtlinien nach § 92
+Absatz 1 Satz 2 Nummer 6.
 
 
 ##### § 31a Medikationsplan
@@ -4135,7 +4214,7 @@ Stelle. Der Vergütungsanspruch nach Absatz 7 verringert sich um die
 Zuzahlung; § 43c Abs. 1 Satz 2 findet keine Anwendung. Die Zuzahlung
 bei zum Verbrauch bestimmten Hilfsmitteln beträgt 10 vom Hundert
 des insgesamt von der Krankenkasse zu übernehmenden Betrags, jedoch
-höchstens 10 Euro für den gesamten Monatsbedarf.
+höchstens 15 Euro für den gesamten Monatsbedarf.
 
 (9) Absatz 1 Satz 9 gilt entsprechend für Intraokularlinsen beschränkt
 auf die Kosten der Linsen.
@@ -4633,12 +4712,7 @@ enthalten müssen:
 
 5.  Kosten der Therapie für die gesetzliche Krankenversicherung,
 
-6.  Anforderung an eine qualitätsgesicherte Anwendung,
-
-7.  Anzahl der Prüfungsteilnehmer an den vom pharmazeutischen Unternehmer
-    durchgeführten oder in Auftrag gegebenen klinischen Prüfungen, die an
-    Prüfstellen im Geltungsbereich dieses Gesetzes teilgenommen haben, und
-    Gesamtzahl der Prüfungsteilnehmer.
+6.  Anforderung an eine qualitätsgesicherte Anwendung.
 
 Bei Arzneimitteln, die pharmakologisch-therapeutisch vergleichbar
 mit Festbetragsarzneimitteln sind, ist der medizinische Zusatznutzen
@@ -4772,45 +4846,7 @@ die Resistenzsituation festzulegen. Dazu holt er eine Stellungnahme
 beim Robert Koch-Institut ein, die im Einvernehmen mit dem
 Bundesinstitut für Arzneimittel und Medizinprodukte zu erstellen ist.
 
-(1d) Auf Antrag eines betroffenen pharmazeutischen Unternehmers
-oder mehrerer betroffener pharmazeutischer Unternehmer stellt der
-Gemeinsame Bundesausschuss fest, ob eine Kombination von Arzneimitteln
-mit neuen Wirkstoffen, die aufgrund der arzneimittelrechtlichen
-Zulassung in einer Kombinationstherapie in demselben Anwendungsgebiet
-eingesetzt werden können, einen mindestens beträchtlichen Zusatznutzen
-erwarten lässt. Die Feststellung erfolgt aufgrund von vergleichenden
-Studien in dem Anwendungsgebiet, die von dem pharmazeutischen
-Unternehmer oder von den pharmazeutischen Unternehmern mit dem Antrag
-elektronisch an den Gemeinsamen Bundesausschuss zu übermitteln sind.
-Der Antrag ist unzulässig, wenn bereits
-
-1.  in einem Beschluss nach Absatz 3 Satz 1 ein mindestens beträchtlicher
-    Zusatznutzen der Kombination festgestellt wurde oder
-
-2.  ein Verfahren der Nutzenbewertung nach Absatz 1 anhängig ist,
-    im Zuge dessen der Gemeinsame Bundesausschuss erstmalig über die
-    Benennung der Arzneimittel mit neuen Wirkstoffen, die auf Grund der
-    arzneimittelrechtlichen Zulassung in einer Kombinationstherapie mit
-    dem bewerteten Arzneimittel für das zu bewertende Anwendungsgebiet
-    eingesetzt werden können, nach Absatz 3 Satz 4 beschließt.
-
-Die Rechtsverordnung nach Absatz 1 Satz 7 findet entsprechende
-Anwendung. Der Gemeinsame Bundesausschuss beauftragt das Institut
-für Qualität und Wirtschaftlichkeit im Gesundheitswesen mit einer
-Stellungnahme dazu, ob die vorgelegten Studien einen mindestens
-beträchtlichen Zusatznutzen der Kombination für die Patienten in dem
-Anwendungsgebiet erwarten lassen. Die Stellungnahme ist spätestens
-innerhalb von zwei Monaten nach Stellung des Antrags durch den
-Gemeinsamen Bundesausschuss im Internet zu veröffentlichen. § 92
-Absatz 3a ist mit der Maßgabe anzuwenden, dass lediglich Gelegenheit
-zur schriftlichen Stellungnahme zu geben ist. Der Gemeinsame
-Bundesausschuss beschließt über die Feststellung innerhalb von zwei
-Monaten nach Veröffentlichung der Stellungnahme. Absatz 3 Satz 5 bis
-7 gilt entsprechend. Die Feststellung wird Bestandteil der Beschlüsse
-über die Nutzenbewertung aller Arzneimittel der Kombination, in denen
-bei Bedarf jeweils die Benennung nach Absatz 3 Satz 4 zu ändern ist.
-Eine erneute Feststellung kann entsprechend Absatz 5 Satz 1 bis 4
-beantragt werden.
+(1d) (weggefallen)
 
 (2) Der Gemeinsame Bundesausschuss prüft die Nachweise nach Absatz 1
 Satz 3 und entscheidet, ob er die Nutzenbewertung selbst durchführt
@@ -4827,33 +4863,15 @@ Nachweise abzuschließen und im Internet zu veröffentlichen.
 innerhalb von drei Monaten nach ihrer Veröffentlichung. § 92 Absatz
 3a gilt entsprechend mit der Maßgabe, dass Gelegenheit auch zur
 mündlichen Stellungnahme zu geben ist. Mit dem Beschluss wird
-insbesondere der Zusatznutzen des Arzneimittels festgestellt. In dem
-Beschluss benennt der Gemeinsame Bundesausschuss alle Arzneimittel mit
-neuen Wirkstoffen, die aufgrund der arzneimittelrechtlichen Zulassung
-in einer Kombinationstherapie mit dem bewerteten Arzneimittel für
-das zu bewertende Anwendungsgebiet eingesetzt werden können, es sei
-denn, der Gemeinsame Bundesausschuss hat nach Satz 1 einen mindestens
-beträchtlichen Zusatznutzen der Kombination festgestellt oder nach
-Absatz 1d Satz 1 festgestellt, dass die Kombination einen mindestens
-beträchtlichen Zusatznutzen erwarten lässt; bis zum 12. November 2022
-bereits gefasste Beschlüsse sind bis zum 1. Mai 2023 entsprechend zu
-ergänzen. Für ab dem 1. Januar 2025 in Verkehr gebrachte Arzneimittel
-stellt der Gemeinsame Bundesausschuss in dem Beschluss fest, ob
-die klinischen Prüfungen des Arzneimittels zu einem relevanten
-Anteil im Geltungsbereich dieses Gesetzes durchgeführt wurden. Das
-ist der Fall, wenn der Anteil der Prüfungsteilnehmer an den vom
-pharmazeutischen Unternehmer durchgeführten oder in Auftrag gegebenen
-klinischen Prüfungen des Arzneimittels, die an Prüfstellen im
-Geltungsbereich dieses Gesetzes teilgenommen haben, an der Gesamtzahl
-der Prüfungsteilnehmer mindestens 5 Prozent beträgt. Die Geltung
-des Beschlusses über die Nutzenbewertung kann befristet werden. Der
-Beschluss ist im Internet zu veröffentlichen. Der Beschluss ist Teil
-der Richtlinie nach § 92 Absatz 1 Satz 2 Nummer 6; § 94 Absatz 1 gilt
-nicht. Innerhalb eines Monats nach der Beschlussfassung veröffentlicht
-die Geschäftsstelle des Gemeinsamen Bundesausschusses zur Information
-der Öffentlichkeit zudem den Beschluss und die tragenden Gründe
-in englischer Sprache auf der Internetseite des Gemeinsamen
-Bundesausschusses.
+insbesondere der Zusatznutzen des Arzneimittels festgestellt. Die
+Geltung des Beschlusses über die Nutzenbewertung kann befristet
+werden. Der Beschluss ist im Internet zu veröffentlichen. Der
+Beschluss ist Teil der Richtlinie nach § 92 Absatz 1 Satz 2 Nummer
+6; § 94 Absatz 1 gilt nicht. Innerhalb eines Monats nach der
+Beschlussfassung veröffentlicht die Geschäftsstelle des Gemeinsamen
+Bundesausschusses zur Information der Öffentlichkeit zudem den
+Beschluss und die tragenden Gründe in englischer Sprache auf der
+Internetseite des Gemeinsamen Bundesausschusses.
 
 (3a) Der Gemeinsame Bundesausschuss veröffentlicht innerhalb eines
 Monats nach dem Beschluss nach Absatz 3 eine maschinenlesbare Fassung
@@ -5119,29 +5137,121 @@ für das Inverkehrbringen nach europäischem Recht.
 
 ##### § 36 Festbeträge für Hilfsmittel
 
-(1) Der Spitzenverband Bund der Krankenkassen bestimmt Hilfsmittel,
-für die Festbeträge festgesetzt werden. Dabei sollen unter
-Berücksichtigung des Hilfsmittelverzeichnisses nach § 139 in
-ihrer Funktion gleichartige und gleichwertige Mittel in Gruppen
-zusammengefasst und die Einzelheiten der Versorgung festgelegt werden.
-Den maßgeblichen Spitzenorganisationen der betroffenen Hersteller
-und Leistungserbringer auf Bundesebene ist unter Übermittlung der
-hierfür erforderlichen Informationen innerhalb einer angemessenen
-Frist vor der Entscheidung Gelegenheit zur Stellungnahme zu geben; die
-Stellungnahmen sind in die Entscheidung einzubeziehen.
+(1) Der Spitzenverband Bund der Krankenkassen soll geeignete
+Hilfsmittel bestimmen, für die Festbeträge festgesetzt werden
+können, soweit durch die Festsetzung eine wirtschaftliche Versorgung
+der Versicherten gefördert und eine angemessene Versorgung der
+Versicherten gewährleistet wird. Bei der Bestimmung der Hilfsmittel
+sollen unter Berücksichtigung des Hilfsmittelverzeichnisses nach §
+139 in ihrer Funktion gleichartige und gleichwertige Hilfsmittel in
+Gruppen zusammengefasst und die Einzelheiten der Versorgung mit diesen
+Hilfsmitteln festgelegt werden. Den maßgeblichen Spitzenorganisationen
+der betroffenen Hersteller und Leistungserbringer auf Bundesebene ist
+unter Übermittlung der hierfür erforderlichen Informationen innerhalb
+einer angemessenen Frist vor der Entscheidung Gelegenheit zur
+Stellungnahme zu geben; die Stellungnahmen sind in die Entscheidung
+nach Satz 1 einzubeziehen. Der Spitzenverband Bund der Krankenkassen
+darf den maßgeblichen Spitzenorganisationen der betroffenen
+Hersteller und Leistungserbringer auf Bundesebene Hersteller- und
+Leistungserbringerdaten nur ohne Einrichtungsbezug übermitteln.
 
-(2) Der Spitzenverband Bund der Krankenkassen setzt für die
-Versorgung mit den nach Absatz 1 bestimmten Hilfsmitteln einheitliche
-Festbeträge fest. Absatz 1 Satz 3 gilt entsprechend. Die Hersteller
-und Leistungserbringer sind verpflichtet, dem Spitzenverband Bund
-der Krankenkassen auf Verlangen die zur Wahrnehmung der Aufgaben nach
-Satz 1 und nach Absatz 1 Satz 1 und 2 erforderlichen Informationen
-und Auskünfte, insbesondere auch zu den Abgabepreisen der Hilfsmittel,
-zu erteilen.
+(2) Der Spitzenverband Bund der Krankenkassen setzt für die Versorgung
+mit den nach Absatz 1 bestimmten Hilfsmitteln einheitliche Festbeträge
+fest. Absatz 1 Satz 3 und 4 gilt entsprechend. Die Hersteller
+und Leistungserbringer sind verpflichtet, dem Spitzenverband
+Bund der Krankenkassen auf Verlangen die zur Wahrnehmung der
+Aufgaben nach Satz 1 und nach Absatz 1 Satz 1 und 2 erforderlichen
+Informationen und Auskünfte zu erteilen. Der Spitzenverband Bund
+der Krankenkassen kann von den Herstellern und Leistungserbringern
+oder deren Verbänden zur Festsetzung nach Satz 1 Nachweise über die
+produktspezifischen Umsatz- und Absatzzahlen, über die Hersteller-
+und Leistungserbringerabgabepreise einschließlich gewährter
+Rabatte, über Kalkulationszuschläge, über die durchschnittlichen
+Stundenverrechnungssätze und Arbeitszeiten sowie über sonstige für
+eine sachgerechte Festbetragsberechnung erforderliche Kosten- und
+Strukturdaten verlangen. Die Hersteller und Leistungserbringer haben
+die Informationen und Auskünfte, soweit möglich, in aggregierter
+oder anonymisierter Form zu übermitteln. Personenbezogene Daten
+dürfen nur übermittelt und vom Spitzenverband Bund der Krankenkassen
+verarbeitet werden, soweit dies für die Festsetzung der Festbeträge
+erforderlich ist. Der Spitzenverband Bund der Krankenkassen hat an
+ihn übermittelten Betriebs- und Geschäftsgeheimnisse durch geeignete
+organisatorische und technische Maßnahmen zu schützen und darf diese
+ausschließlich zum Zwecke der Festbetragsfestsetzung verwenden. Zur
+Prüfung der Plausibilität, Repräsentativität und Vollständigkeit
+der Daten kann der Spitzenverband Bund der Krankenkassen von
+den Herstellern und Leistungserbringern geeignete Nachweise
+verlangen. Näheres zu Art, Inhalt, Form, Aufbereitung, Aggregation,
+Anonymisierung, Übermittlung und Prüfung der Informationen und
+Auskünfte sind in der Verfahrensordnung nach Absatz 3 zu regeln.
+Soweit einzelne Parameter zur Kalkulation der Festbeträge nicht
+gemäß den Vorgaben übermittelt werden, die in der Verfahrensordnung
+nach Absatz 3 geregelt werden, kann der Spitzenverband Bund der
+Krankenkassen diese Parameter auf der ihm vorliegenden Datengrundlage
+durch Schätzung festlegen. Für das Verfahren zur Schätzung gilt Absatz
+4 Satz 1 entsprechend; Einzelheiten sind in der Verfahrensordnung nach
+Absatz 3 zu regeln.
 
-(3) § 35 Abs. 5 und 7 gilt entsprechend.
+(3) Der Spitzenverband Bund der Krankenkassen beschließt spätestens
+bis zum 1. Januar 2027 eine Verfahrensordnung, in der er nach Maßgabe
+der Absätze 1, 2 und 4 das Nähere zum Verfahren zur Festsetzung
+der Festbeträge, zur Überprüfung, Kalkulation und Anpassung der
+Festbeträge sowie zur Übermittlung der Informationen und Auskünfte
+durch die Hersteller und Leistungserbringer regelt; hierbei sind
+Wege einer digitalen Umsetzung der einzelnen Verfahrensschritte
+zur Festsetzung der Festbeträge zu prüfen. In der Verfahrensordnung
+legt er nach Maßgabe von Absatz 4 Satz 8 insbesondere Fristen
+für die Überprüfung und die Anpassung der Festbeträge fest. Den
+maßgeblichen Spitzenorganisationen der betroffenen Hersteller
+und Leistungserbringer auf Bundesebene ist vor Beschlussfassung
+nach Satz 1 innerhalb einer angemessenen Frist Gelegenheit zur
+Stellungnahme zu geben; die Stellungnahmen sind in den Beschluss
+mach Satz 1 einzubeziehen. Die Verfahrensordnung bedarf der
+Genehmigung des Bundesministeriums für Gesundheit. Für Änderungen der
+Verfahrensordnung gelten die Sätze 3 und 4 entsprechend.
 
-(4) (weggefallen)
+(4) Die Festbeträge sind so festzusetzen, dass sie im Allgemeinen
+eine ausreichende, zweckmäßige und wirtschaftliche sowie in
+der Qualität gesicherte Versorgung gewährleisten. Sie haben
+Wirtschaftlichkeitsreserven auszuschöpfen, sollen einen wirksamen
+Preiswettbewerb auslösen und haben sich deshalb an möglichst
+preisgünstigen Versorgungsmöglichkeiten auszurichten. Ausgangspunkt
+für die Kalkulation eines Festbetrags für Hilfsmittel, die nach
+Absatz 1 Satz 2 in einer Festbetragsgruppe zusammengefasst wurden,
+sind die Hersteller- und Leistungserbringerpreise sowie sonstige
+nach Absatz 2 Satz 3 übermittelte kosten-und versorgungsrelevante
+Daten. Bei der Kalkulation sind insbesondere die produktspezifischen
+Umsatz- und Absatzzahlen, gewährte Rabatte, durchschnittliche
+Stundenverrechnungssätze und Arbeitszeiten zu berücksichtigen. Die
+von den Herstellern und Leistungserbringern übermittelten Daten sind
+bei der Kalkulation unter Berücksichtigung der jeweiligen Abgabe-
+und Versorgungsmenge zu gewichten. Der Festbetrag soll die obere
+Preislinie des unteren Drittels der sich unter Berücksichtigung der
+Kostenparameter aus Satz 3 ergebenden Preise nicht überschreiten.
+Soweit wie möglich ist bei der Kalkulation der Festbeträge
+sicherzustellen, dass nach Festsetzung des jeweiligen Festbetrags eine
+für die Versorgung der Versicherten hinreichende Hilfsmittelauswahl
+besteht. Die Festbeträge sind erstmals innerhalb von drei Jahren nach
+Genehmigung der Verfahrensordnung nach Absatz 3, danach regelmäßig
+mindestens alle drei Jahre, zu überprüfen. Sie sind in geeigneten
+Zeitabständen an eine veränderte Marktlage anzupassen. Innerhalb
+des Zeitraums nach Satz 8 erfolgt eine Überprüfung auch auf Antrag
+der maßgeblichen Spitzenorganisationen der betroffenen Hersteller
+und Leistungserbringer auf Bundesebene, sofern die Veränderung
+des vom Statistischen Bundesamt festgelegten Verbraucherpreisindex
+für Deutschland in drei aufeinander folgenden Monaten jeweils mehr
+als 7 Prozent im Vergleich zum Vorjahresmonat beträgt. Innerhalb
+eines Zeitraums nach Satz 8 können je Festbetragsgruppe höchstens
+zwei Anträge nach Satz 10 gestellt werden. Die Einzelheiten zum
+Antragsverfahren sind in der Verfahrensordnung nach Absatz 3 zu
+regeln.
+
+(5) Die Festbeträge sind im Bundesanzeiger bekanntzumachen. Klagen
+gegen die Festsetzung der Festbeträge haben keine aufschiebende
+Wirkung. Ein Vorverfahren findet nicht statt. Eine gesonderte Klage
+gegen eine Zusammenfassung von Hilfsmitteln in einer Festbetragsgruppe
+nach Absatz 1 Satz 2 oder gegen einzelne Verfahrensschritte der
+Festsetzung der Festbeträge ist unzulässig.
 
 
 ##### § 37 Häusliche Krankenpflege
@@ -7466,15 +7576,8 @@ Zehnten Kapitels dieses Buches, soweit es für die Modellvorhaben
 erforderlich ist, und des Krankenhausfinanzierungsgesetzes, des
 Krankenhausentgeltgesetzes sowie den nach diesen Vorschriften
 getroffenen Regelungen abgewichen werden; der Grundsatz der
-Beitragssatzstabilität gilt entsprechend. Gegen diesen Grundsatz
-wird insbesondere für den Fall nicht verstoßen, daß durch ein
-Modellvorhaben entstehende Mehraufwendungen durch nachzuweisende
-Einsparungen auf Grund der in dem Modellvorhaben vorgesehenen
-Maßnahmen ausgeglichen werden. Einsparungen nach Satz 2 können,
-soweit sie die Mehraufwendungen überschreiten, auch an die an einem
-Modellvorhaben teilnehmenden Versicherten weitergeleitet werden. Satz
-1 gilt mit der Maßgabe, dass von § 284 Abs. 1 Satz 4 nicht abgewichen
-werden darf.
+Beitragssatzstabilität gilt entsprechend. Satz 1 gilt mit der Maßgabe,
+dass von § 284 Abs. 1 Satz 4 nicht abgewichen werden darf.
 
 (3a) Gegenstand von Modellvorhaben nach Absatz 1, in denen von den
 Vorschriften des Zehnten Kapitels dieses Buches abgewichen wird,
@@ -9618,10 +9721,6 @@ Beitragssatzstabilität.
 darf die vereinbarte Veränderung der jeweiligen Vergütung die sich
 bei Anwendung der Veränderungsrate für das gesamte Bundesgebiet nach
 Absatz 3 ergebende Veränderung der Vergütung nicht überschreiten.
-Abweichend von Satz 1 ist eine Überschreitung zulässig, wenn die damit
-verbundenen Mehrausgaben durch vertraglich abgesicherte oder bereits
-erfolgte Einsparungen in anderen Leistungsbereichen ausgeglichen
-werden.
 
 (3) Das Bundesministerium für Gesundheit stellt bis zum 15. September
 eines jeden Jahres für die Vereinbarungen der Vergütungen des jeweils
@@ -9633,12 +9732,16 @@ des laufenden Jahres gegenüber dem entsprechenden Zeitraum der
 jeweiligen Vorjahre fest. Grundlage sind die monatlichen Erhebungen
 der Krankenkassen und die vierteljährlichen Rechnungsergebnisse
 des Gesundheitsfonds, die die beitragspflichtigen Einnahmen aller
-Mitglieder der Krankenkassen ausweisen. Die Feststellung wird durch
-Veröffentlichung im Bundesanzeiger bekannt gemacht. Bei der Ermittlung
-der durchschnittlichen Veränderungsrate nach Satz 1 werden für die
-Jahre 2017 und 2018 die Mitglieder nicht berücksichtigt, die nach §
-5 Absatz 1 Nummer 2a in der am 31. Dezember 2015 geltenden Fassung
-vorrangig familienversichert gewesen wären.
+Mitglieder der Krankenkassen ausweisen. Bei der Feststellung
+der durchschnittlichen Veränderungsrate nach Satz 1 werden für
+die Jahre 2028 und 2029 nicht die beitragspflichtigen Einnahmen
+berücksichtigt, die im Jahr 2027 allein aufgrund der Erhöhung der
+Beitragsbemessungsgrenze nach § 223 Absatz 4 Satz 1 nicht nach §
+223 Absatz 3 Satz 2 außer Ansatz geblieben sind. Das nach Satz 1
+bis 3 für die Jahre 2027, 2028 und 2029 ermittelte Ergebnis der
+durchschnittlichen Veränderungsrate wird jeweils um einen Prozentpunkt
+verringert. Die durchschnittliche Veränderungsrate wird für jedes
+Kalenderjahr durch Veröffentlichung im Bundesanzeiger bekannt gemacht.
 
 (3a) (weggefallen)
 
@@ -9985,12 +10088,15 @@ folgende Inhalte mit dem jeweils aktuellen Stand enthalten:
     und des elektronischen Medikationsplans nach § 334 Absatz 1 Satz 2
     Nummer 4 notwendigen Funktionen und Informationen,
 
-5.  die Informationen nach § 35a Absatz 3a Satz 1 und
+5.  die Informationen nach § 35a Absatz 3a Satz 1,
 
 6.  ab dem 1. Oktober 2023 das Schulungsmaterial nach § 34 Absatz 1f Satz
     2 des Arzneimittelgesetzes und die Informationen nach § 34 Absatz 1h
     Satz 3 des Arzneimittelgesetzes, auch in Verbindung mit § 39 Absatz 2e
-    des Arzneimittelgesetzes oder § 39d Absatz 6 des Arzneimittelgesetzes
+    des Arzneimittelgesetzes oder § 39d Absatz 6 des Arzneimittelgesetzes,
+    und
+
+7.  die Informationen über das Vorliegen von Rabattverträgen nach § 130e
 
 und die von der Kassenärztlichen Bundesvereinigung für die
 vertragsärztliche Versorgung zugelassen sind. Das Bundesministerium
@@ -10152,30 +10258,41 @@ der Schiedsperson haben keine aufschiebende Wirkung. Klagen gegen
 die Festlegung des Vertragsinhalts richten sich gegen eine der beiden
 Vertragsparteien, nicht gegen die Schiedsperson.
 
-(5) In den Verträgen nach Absatz 4 sind das Nähere über den Inhalt
-und die Durchführung der hausarztzentrierten Versorgung, insbesondere
-die Ausgestaltung der Anforderungen nach Absatz 2, sowie die
-Vergütung zu regeln; in Verträgen, die nach dem 31. März 2014 zustande
-kommen, sind zudem Wirtschaftlichkeitskriterien und Maßnahmen bei
-Nichteinhaltung der vereinbarten Wirtschaftlichkeitskriterien sowie
-Regelungen zur Qualitätssicherung zu vereinbaren. Eine Beteiligung
-der Kassenärztlichen Vereinigung bei der Ausgestaltung und Umsetzung
-der Anforderungen nach Absatz 2 ist möglich. Die Verträge können
-auch Abweichendes von den im Dritten Kapitel benannten Leistungen
-beinhalten, soweit sie die in § 11 Absatz 6 genannten Leistungen,
-Leistungen nach den §§ 20i, 25, 26, 37a und 37b sowie ärztliche
-Leistungen einschließlich neuer Untersuchungs- und Behandlungsmethoden
-betreffen, soweit der Gemeinsame Bundesausschuss nach § 91 im Rahmen
-der Beschlüsse nach § 92 Absatz 1 Satz 2 Nummer 5 keine ablehnende
-Entscheidung getroffen hat. Die Einzelverträge können Abweichendes von
-den Vorschriften dieses Kapitels sowie den nach diesen Vorschriften
-getroffenen Regelungen regeln. § 106d Absatz 3 gilt hinsichtlich
-der arzt- und versichertenbezogenen Prüfung der Abrechnungen
-auf Rechtmäßigkeit entsprechend. Zugelassene strukturierte
-Behandlungsprogramme nach §§ 137f und 137g sind, soweit sie die
-hausärztliche Versorgung betreffen, Bestandteil der Verträge nach
-Absatz 4. Vereinbarungen über zusätzliche Vergütungen für Diagnosen
-können nicht Gegenstand der Verträge sein.
+(5) In den Verträgen nach Absatz 4 sind das Nähere über den Inhalt und
+die Durchführung der hausarztzentrierten Versorgung, insbesondere die
+Ausgestaltung der Anforderungen nach Absatz 2, sowie die Vergütung zu
+regeln; in Verträgen, die nach dem 31. März 2014 zustande kommen, sind
+zudem Wirtschaftlichkeitskriterien und Maßnahmen bei Nichteinhaltung
+der vereinbarten Wirtschaftlichkeitskriterien sowie Regelungen zur
+Qualitätssicherung zu vereinbaren. § 71 Absatz 1 bis 3 gilt. In
+den Verträgen nach Absatz 4 ist für den Fall, dass ein Hausarzt in
+einem Kalenderquartal von mehr Teilnehmern in Anspruch genommen wird
+als im entsprechenden Kalenderquartal des Vorjahres, ein Abschlag
+auf die Vergütung dieses Hausarztes zu vereinbaren. Der Abschlag
+ist auf die Vergütung zu erheben, die an den jeweiligen Hausarzt
+aufgrund der gestiegenen Teilnehmerzahl zu entrichten ist. Die Höhe
+des Abschlages und das Verfahren zur Anwendung des Abschlags sind
+von den Vertragspartnern bis zum 31. März 2027 in den Verträgen nach
+Absatz 4 zu vereinbaren. Bei Vereinbarung der Höhe des Abschlags
+ist die allgemeine Kostendegression bei Fallzahlsteigerungen zu
+berücksichtigen. Eine Beteiligung der Kassenärztlichen Vereinigung
+bei der Ausgestaltung und Umsetzung der Anforderungen nach Absatz 2
+ist möglich. Die Verträge können auch Abweichendes von den im Dritten
+Kapitel benannten Leistungen beinhalten, soweit sie die in § 11 Absatz
+6 genannten Leistungen, Leistungen nach den §§ 20i, 25, 26, 37a und
+37b sowie ärztliche Leistungen einschließlich neuer Untersuchungs- und
+Behandlungsmethoden betreffen, soweit der Gemeinsame Bundesausschuss
+nach § 91 im Rahmen der Beschlüsse nach § 92 Absatz 1 Satz 2 Nummer
+5 keine ablehnende Entscheidung getroffen hat. Die Einzelverträge
+können Abweichendes von den Vorschriften dieses Kapitels sowie den
+nach diesen Vorschriften getroffenen Regelungen regeln. Dies gilt
+nicht für die Regelungen nach den Sätzen 2 bis 6. § 106d Absatz
+3 gilt hinsichtlich der arzt- und versichertenbezogenen Prüfung
+der Abrechnungen auf Rechtmäßigkeit entsprechend. Zugelassene
+strukturierte Behandlungsprogramme nach §§ 137f und 137g sind, soweit
+sie die hausärztliche Versorgung betreffen, Bestandteil der Verträge
+nach Absatz 4. Vereinbarungen über zusätzliche Vergütungen für
+Diagnosen können nicht Gegenstand der Verträge sein.
 
 (5a) Kündigt die Krankenkasse einen Vertrag nach Absatz 4 und
 kommt bis zum Ablauf dieses Vertrages kein neuer Vertrag zustande,
@@ -11360,30 +11477,9 @@ die Mitglieder der Vertreterversammlung gilt § 42 Absatz 1 bis 3
 des Vierten Buches entsprechend. Die Vertreterversammlung hat bei
 ihrer Wahl darauf zu achten, dass die Mitglieder des Vorstandes die
 erforderliche fachliche Eignung für ihren jeweiligen Geschäftsbereich
-besitzen. Für die Kassenärztlichen Vereinigungen gilt § 35a Absatz
-6a Satz 2 des Vierten Buches mit der Maßgabe, dass sich die Bedeutung
-der Körperschaft insbesondere nach der Zahl der Mitglieder bemisst.
-Die Aufsichtsbehörde kann vor ihrer Entscheidung nach § 35a Absatz
-6a des Vierten Buches in Verbindung mit Satz 1 verlangen, dass
-ihr die Kassenärztlichen Bundesvereinigungen eine unabhängige
-rechtliche und wirtschaftliche Bewertung der Vorstandsdienstverträge
-vorlegen. Vergütungserhöhungen sind während der Dauer der Amtszeit
-der Vorstandsmitglieder der Kassenärztlichen Bundesvereinigungen
-unzulässig. Zu Beginn einer neuen Amtszeit eines Vorstandsmitgliedes
-der Kassenärztlichen Bundesvereinigungen kann eine über die zuletzt
-nach § 35a Absatz 6a Satz 1 des Vierten Buches gebilligte Vergütung
-der letzten Amtsperiode oder des Vorgängers im Amt hinausgehende
-höhere Vergütung nur durch einen Zuschlag auf die Grundvergütung
-nach Maßgabe der Entwicklung des Verbraucherpreisindexes vereinbart
-werden. Die Aufsichtsbehörde kann zu Beginn einer neuen Amtszeit
-eines Vorstandsmitgliedes der Kassenärztlichen Bundesvereinigungen
-eine niedrigere Vergütung anordnen. Finanzielle Zuwendungen nach
-Absatz 4 Satz 10 sind auf die Vergütung der Vorstandsmitglieder
-der Kassenärztlichen Bundesvereinigungen anzurechnen oder an
-die jeweilige Kassenärztliche Bundesvereinigung abzuführen.
-Vereinbarungen der Kassenärztlichen Bundesvereinigungen für die
-Zukunftssicherung der Vorstandsmitglieder sind nur auf der Grundlage
-von beitragsorientierten Zusagen zulässig.
+besitzen. Für die Kassenärztlichen Vereinigungen gilt § 35a Absatz 6a
+Satz 2 des Vierten Buches mit der Maßgabe, dass sich die Bedeutung der
+Körperschaft insbesondere nach der Zahl der Mitglieder bemisst.
 
 (7) Der Vorstand der Kassenärztlichen Bundesvereinigungen
 hat geeignete Maßnahmen zur Herstellung und Sicherung einer
@@ -11991,21 +12087,14 @@ gelegt werden; sie können auch die Grundlagen für die Bemessung der
 Vergütungsanteile regeln. § 89 Abs. 1 gilt nicht.
 
 (2d) Die Punktwerte für zahnärztliche Leistungen ohne Zahnersatz
-dürfen im Jahr 2023 gegenüber dem Vorjahr höchstens um die um 0,75
-Prozentpunkte verminderte durchschnittliche Veränderungsrate nach
-§ 71 Absatz 3 angehoben werden. Die Punktwerte für zahnärztliche
-Leistungen ohne Zahnersatz dürfen im Jahr 2024 gegenüber dem Vorjahr
-höchstens um die um 1,5 Prozentpunkte verminderte durchschnittliche
-Veränderungsrate nach § 71 Absatz 3 angehoben werden. Die Sätze 1
-und 2 gelten nicht für Leistungen nach den §§ 22, 22a, 26 Absatz 1
-Satz 5, § 87 Absatz 2i und 2j sowie Leistungen zur Behandlung von
-Parodontitis für Versicherte, die einem Pflegegrad nach § 15 des
-Elften Buches zugeordnet sind oder in der Eingliederungshilfe nach §
-99 des Neunten Buches leistungsberechtigt sind. Das Bundesministerium
-für Gesundheit evaluiert bis zum 30. September 2023 die Auswirkungen
-der Begrenzung der Anhebungen der Punktwerte nach Satz 1 auf den
-Umfang der Versorgung der Versicherten mit Leistungen zur Behandlung
-von Parodontitis.
+dürfen in jedem Kalenderjahr höchstens um die für das jeweilige
+Kalenderjahr nach § 71 Absatz 3 Satz 5 veröffentlichte
+durchschnittliche Veränderungsrate angehoben werden. Satz 1 gilt
+nicht für Leistungen nach den §§ 22, 22a, 26 Absatz 1 Satz 5, § 87
+Absatz 2i und 2j sowie Leistungen zur Behandlung von Parodontitis
+für Versicherte, die einem Pflegegrad nach § 15 des Elften Buches
+zugeordnet sind oder in der Eingliederungshilfe nach § 99 des Neunten
+Buches leistungsberechtigt sind.
 
 (3) In der vertragszahnärztlichen Versorgung vereinbaren die
 Vertragsparteien des Gesamtvertrages die Veränderungen der
@@ -12015,34 +12104,22 @@ Versorgungsstruktur, der für die vertragszahnärztliche Tätigkeit
 aufzuwendenden Arbeitszeit sowie der Art und des Umfangs der
 zahnärztlichen Leistungen, soweit sie auf einer Veränderung des
 gesetzlichen oder satzungsmäßigen Leistungsumfangs beruhen. Bei der
-Vereinbarung der Veränderungen der Gesamtvergütungen ist der Grundsatz
-der Beitragssatzstabilität (§ 71) in Bezug auf das Ausgabenvolumen für
-die Gesamtheit der zu vergütenden vertragszahnärztlichen Leistungen
-ohne Zahnersatz neben den Kriterien nach Satz 1 zu berücksichtigen.
-Absatz 2 Satz 2 bleibt unberührt. Die Krankenkassen haben den
-Kassenzahnärztlichen Vereinigungen die Zahl ihrer Versicherten vom
-1\. Juli eines Jahres, die ihren Wohnsitz im Bezirk der jeweiligen
-Kassenzahnärztlichen Vereinigung haben, gegliedert nach den
-Altersgruppen des Vordrucks KM 6 der Statistik über die Versicherten
-in der gesetzlichen Krankenversicherung bis zum 1. Oktober des Jahres
-mitzuteilen.
-
-(3a) Die Gesamtvergütungen nach Absatz 3 dürfen im Jahr 2023 gegenüber
-dem Vorjahr höchstens um die um 0,75 Prozentpunkte verminderte
-durchschnittliche Veränderungsrate nach § 71 Absatz 3 angehoben
-werden. Im Jahr 2024 dürfen die Gesamtvergütungen für zahnärztliche
-Leistungen ohne Zahnersatz gegenüber dem Vorjahr höchstens um die
-um 1,5 Prozentpunkte verminderte durchschnittliche Veränderungsrate
-nach § 71 Absatz 3 angehoben werden. Die Sätze 1 und 2 gelten
-nicht für Leistungen nach den §§ 22, 22a, 26 Absatz 1 Satz 5, § 87
-Absatz 2i und 2j sowie Leistungen zur Behandlung von Parodontitis
+Vereinbarung der Veränderungen der Gesamtvergütungen gilt § 71 Absatz
+1 bis 3 in Bezug auf das Ausgabenvolumen für die Gesamtheit der zu
+vergütenden vertragszahnärztlichen Leistungen ohne Zahnersatz; dies
+gilt nicht für Leistungen nach den §§ 22, 22a, 26 Absatz 1 Satz 5, §
+87 Absatz 2i und 2j sowie Leistungen zur Behandlung von Parodontitis
 für Versicherte, die einem Pflegegrad nach § 15 des Elften Buches
 zugeordnet sind oder in der Eingliederungshilfe nach § 99 des Neunten
-Buches leistungsberechtigt sind. Das Bundesministerium für Gesundheit
-evaluiert bis zum 30. September 2023 die Auswirkungen der Begrenzung
-der Anhebungen der Gesamtvergütungen nach Satz 1 auf den Umfang
-der Versorgung der Versicherten mit Leistungen zur Behandlung von
-Parodontitis.
+Buches leistungsberechtigt sind. Absatz 2 Satz 2 bleibt unberührt.
+Die Krankenkassen haben den Kassenzahnärztlichen Vereinigungen die
+Zahl ihrer Versicherten vom 1. Juli eines Jahres, die ihren Wohnsitz
+im Bezirk der jeweiligen Kassenzahnärztlichen Vereinigung haben,
+gegliedert nach den Altersgruppen des Vordrucks KM 6 der Statistik
+über die Versicherten in der gesetzlichen Krankenversicherung bis zum
+1\. Oktober des Jahres mitzuteilen.
+
+(3a) (weggefallen)
 
 (4) Die Kassenzahnärztliche Vereinigung verteilt die
 Gesamtvergütungen an die Vertragszahnärzte. Sie wendet dabei in
@@ -12540,18 +12617,20 @@ spätestens zum 1. Dezember 2017 entsprechende Anpassungen des
 einheitlichen Bewertungsmaßstabes für ärztliche Leistungen. Der
 einheitliche Bewertungsmaßstab für ärztliche Leistungen ist innerhalb
 von sechs Monaten nach Inkrafttreten der Richtlinie des Gemeinsamen
-Bundesausschusses nach § 92 Absatz 6b vom Bewertungsausschuss in
-der Zusammensetzung nach Absatz 5a anzupassen. Im einheitlichen
-Bewertungsmaßstab für ärztliche Leistungen ist mit Wirkung zum 1.
-Januar 2021 vorzusehen, dass Leistungen nach § 346 Absatz 1 Satz
-1 und 3 zur Unterstützung der Versicherten bei der Verarbeitung
-medizinischer Daten in der elektronischen Patientenakte im aktuellen
-Behandlungskontext vergütet werden. Mit Wirkung zum 1. Januar 2022
-ist im einheitlichen Bewertungsmaßstab für ärztliche Leistungen
-vorzusehen, dass ärztliche Leistungen nach § 346 Absatz 3 zur
-Unterstützung der Versicherten bei der erstmaligen Befüllung der
-elektronischen Patientenakte im aktuellen Behandlungskontext vergütet
-werden.
+Bundesausschusses nach § 92 Absatz 6b vom Bewertungsausschuss in der
+Zusammensetzung nach Absatz 5a anzupassen.Ab dem 1. Januar 2027 darf
+der einheitliche Bewertungsmaßstab für ärztliche Leistungen keine
+Hygienezuschläge auf Versicherten- und Grundpauschalen enthalten.
+Der Bewertungsausschuss hat bis zum 31. März 2027 Folgendes
+im einheitlichen Bewertungsmaßstab für ärztliche Leistungen zu
+überprüfen:
+
+1.  die Bewertungen der Leistungen, die im Rahmen einer
+    Phakoemulsifikation erbracht werden, und
+
+2.  die Bewertungen des technischen Leistungsanteils der Leistungen
+    der Facharztgruppen der Radiologen, der Strahlentherapie und der
+    Nuklearmedizin, die einen hohen technischen Leistungsanteil aufweisen.
 
 (2b) Die im einheitlichen Bewertungsmaßstab für ärztliche Leistungen
 aufgeführten Leistungen der hausärztlichen Versorgung sollen als
@@ -12627,41 +12706,20 @@ Krankenversicherung führen.
 aufgeführten Leistungen der fachärztlichen Versorgung sollen
 arztgruppenspezifisch und unter Berücksichtigung der Besonderheiten
 kooperativer Versorgungsformen als Grund- und Zusatzpauschalen
-abgebildet werden; Einzelleistungen sollen vorgesehen werden, soweit
-dies medizinisch oder auf Grund von Besonderheiten bei Veranlassung
-und Ausführung der Leistungserbringung, einschließlich der Möglichkeit
-telemedizinischer Erbringung gemäß Absatz 2a Satz 7 oder der
-Erbringung im Wege der Delegation nach Absatz 2a Satz 8, erforderlich
-ist. Mit den Grundpauschalen nach Satz 1 sollen die regelmäßig oder
-sehr selten und zugleich mit geringem Aufwand von der Arztgruppe
-in jedem Behandlungsfall erbrachten Leistungen vergütet werden. Mit
-Wirkung zum 1. Januar 2023 sind in den einheitlichen Bewertungsmaßstab
-für ärztliche Leistungen folgende Zuschläge auf die jeweilige
-Grundpauschale aufzunehmen:
-
-1.  ein Zuschlag in Höhe von bis zu 200 Prozent der jeweiligen
-    Grundpauschale für Behandlungen im Akutfall nach § 75 Absatz 1a
-    Satz 3 Nummer 4, wenn die Behandlung spätestens am Folgetag der
-    Terminvermittlung durch die Terminservicestelle beginnt,
-
-2.  ein Zuschlag in Höhe von 100 Prozent der jeweiligen Grundpauschale
-    für den Fall, dass eine Behandlung spätestens am vierten Tag nach der
-    Terminvermittlung durch die Terminservicestelle nach § 75 Absatz 1a
-    Satz 3 beginnt,
-
-3.  ein Zuschlag in Höhe von 80 Prozent der jeweiligen Grundpauschale
-    für den Fall, dass eine Behandlung spätestens am 14. Tag nach der
-    Terminvermittlung durch die Terminservicestelle nach § 75 Absatz 1a
-    Satz 3 beginnt, sowie
-
-4.  ein Zuschlag in Höhe von 40 Prozent der jeweiligen Grundpauschale
-    für den Fall, dass eine Behandlung spätestens am 35. Tag nach der
-    Terminvermittlung durch die Terminservicestelle nach § 75 Absatz 1a
-    Satz 3 beginnt.
-
-Die in Satz 3 Nummer 2 bis 4 genannten Zuschläge gelten bei der
-Behandlung aufgrund einer erfolgten Vermittlung nach § 73 Absatz
-1 Satz 2 Nummer 2 entsprechend. Mit den Zusatzpauschalen nach Satz
+abgebildet werden; Einzelleistungen sollen vorgesehen werden,
+soweit dies medizinisch oder auf Grund von Besonderheiten bei
+Veranlassung und Ausführung der Leistungserbringung, einschließlich
+der Möglichkeit telemedizinischer Erbringung gemäß Absatz 2a Satz
+7 oder der Erbringung im Wege der Delegation nach Absatz 2a Satz
+8, erforderlich ist. Mit den Grundpauschalen nach Satz 1 sollen
+die regelmäßig oder sehr selten und zugleich mit geringem Aufwand
+von der Arztgruppe in jedem Behandlungsfall erbrachten Leistungen
+vergütet werden. Ab dem 1. Januar 2027 darf der einheitliche
+Bewertungsmaßstab für ärztliche Leistungen keine Zuschläge auf die
+jeweilige Grundpauschale für Behandlungen enthalten, die aufgrund
+einer Terminvermittlung durch die Terminservicestelle nach § 75 Absatz
+1a Satz 3 oder aufgrund einer nach § 73 Absatz 1 Satz 2 Nummer 2
+erfolgten Vermittlung erfolgen. Mit den Zusatzpauschalen nach Satz
 1 wird der besondere Leistungsaufwand vergütet, der sich aus den
 Leistungs-, Struktur- und Qualitätsmerkmalen des Leistungserbringers
 und, soweit dazu Veranlassung besteht, in bestimmten Behandlungsfällen
@@ -12672,18 +12730,11 @@ mit arztgruppenspezifischen diagnosebezogenen Fallpauschalen
 vergütet werden. Für die Versorgung im Rahmen von kooperativen
 Versorgungsformen sind spezifische Fallpauschalen festzulegen,
 die dem fallbezogenen Zusammenwirken von Ärzten unterschiedlicher
-Fachrichtungen in diesen Versorgungsformen Rechnung tragen. Die
-Bewertungen für psychotherapeutische Leistungen haben eine angemessene
-Höhe der Vergütung je Zeiteinheit zu gewährleisten. Bis zum 29.
-Februar 2020 ist im einheitlichen Bewertungsmaßstab für ärztliche
-Leistungen ein Zuschlag in Höhe von 15 Prozent auf diejenigen
-psychotherapeutischen Leistungen vorzusehen, die im Rahmen des
-ersten Therapieblocks einer neuen Kurzzeittherapie erbracht werden.
-Der Zuschlag ist auf die ersten zehn Stunden dieser Leistungen zu
-begrenzen und für Psychotherapeuten vorzusehen, die für die in §
-19a Absatz 1 der Zulassungsverordnung für Vertragsärzte festgelegten
-Mindestsprechstunden für gesetzlich Versicherte tatsächlich zur
-Verfügung stehen.
+Fachrichtungen in diesen Versorgungsformen Rechnung tragen. Ab dem
+1\. Januar 2027 darf der einheitliche Bewertungsmaßstab für ärztliche
+Leistungen keine Zuschläge auf diejenigen psychotherapeutischen
+Leistungen enthalten, die im Rahmen des ersten Therapieblocks einer
+neuen Kurzzeittherapie erbracht werden.
 
 (2d) Im einheitlichen Bewertungsmaßstab für ärztliche Leistungen sind
 Regelungen einschließlich Prüfkriterien vorzusehen, die sicherstellen,
@@ -12730,19 +12781,58 @@ insbesondere
     diese nicht durch eine Abstaffelungsregelung nach Absatz 2 Satz 3
     berücksichtigt worden ist,
 
-4.  (weggefallen)
-
-zu berücksichtigen.
+zu berücksichtigen. § 71 Absatz 1 bis 3 gilt.
 
 (2h) Die im einheitlichen Bewertungsmaßstab für zahnärztliche
 Leistungen aufgeführten Leistungen können zu Leistungskomplexen
-zusammengefasst werden. Die Leistungen sind entsprechend einer
+zusammengefasst werden. Die im einheitlichen Bewertungsmaßstab
+für zahnärztliche Leistungen aufgeführten Leistungen der
+kieferorthopädischen Versorgung sind bis spätestens zum 30. Juni 2028
+zu folgenden Leistungskomplexen zusammenzufassen:
+
+1.  Leistungen für die kieferorthopädische Behandlung von Personen vor
+    Beginn der zweiten Phase des Zahnwechsels,
+
+2.  Leistungen für die kieferorthopädische Behandlung von allen anderen
+    Personen, die bei Beginn der Behandlung das 18. Lebensjahr noch nicht
+    vollendet haben,
+
+3.  Leistungen für die kieferorthopädische Behandlung von Personen, die
+    bei Beginn der Behandlung das 18. Lebensjahr bereits vollendet haben,
+    und
+
+4.  Leistungen für die Feststellung des kieferorthopädischen
+    Behandlungsbedarfs.
+
+Jede im einheitlichen Bewertungsmaßstab für zahnärztliche Leistungen
+aufgeführte Leistung der kieferorthopädischen Behandlung ist
+einem oder mehreren der in Satz 2 genannten Leistungskomplexe
+zuzuordnen. Die weiteren Einzelheiten zu den in Satz 2 genannten
+Leistungskomplexen sowie Vorgaben zur Sicherung der Ergebnisqualität
+kieferorthopädischer Behandlungen werden im Bundesmantelvertrag
+geregelt. Die im einheitlichen Bewertungsmaßstab für zahnärztliche
+Leistungen aufgeführten Leistungen sind entsprechend einer
 ursachengerechten, zahnsubstanzschonenden und präventionsorientierten
 Versorgung insbesondere nach dem Kriterium der erforderlichen
 Arbeitszeit gleichgewichtig in und zwischen den Leistungsbereichen
 für Zahnerhaltung, Prävention, Zahnersatz und Kieferorthopädie
 zu bewerten. Bei der Festlegung der Bewertungsrelationen ist
-wissenschaftlicher Sachverstand einzubeziehen.
+wissenschaftlicher Sachverstand einzubeziehen. Alle einem der
+in Satz 2 genannten Leistungskomplexe zugeordneten Leistungen
+der kieferorthopädischen Versorgung werden unabhängig von der
+Gesamtbehandlungsdauer der jeweils behandelten Person mit einer
+Gesamtpunktzahl für den Leistungskomplex bewertet. Der Spitzenverband
+Bund der Krankenkassen und die Kassenzahnärztliche Bundesvereinigung
+legen dem Bundesministerium für Gesundheit spätestens vier Jahre nach
+Einführung der in Satz 2 genannten Leistungskomplexe einen gemeinsamen
+Bericht über die Auswirkungen der Regelungen in den Sätzen 2, 3, 5 und
+7 vor. Der Bericht hat insbesondere die Auswirkungen auf die Ausgaben
+und die Wirtschaftlichkeit der kieferorthopädischen Versorgung,
+die Qualität und die Behandlungsergebnisse der kieferorthopädischen
+Versorgung, die Inanspruchnahme kieferorthopädischer Leistungen und
+die Versorgung der Versicherten sowie den administrativen Aufwand der
+Prüfung, der Dokumentation und der Abrechnung von kieferorthopädischen
+Leistungen darzustellen und zu bewerten.
 
 (2i) Im einheitlichen Bewertungsmaßstab für zahnärztliche Leistungen
 ist eine zusätzliche Leistung vorzusehen für das erforderliche
@@ -13172,7 +13262,8 @@ Bewertungsmaßstab für ärztliche Leistungen gemäß § 87 Absatz 1 ist
 eine regionale Gebührenordnung mit Euro-Preisen (regionale Euro-
 Gebührenordnung) zu erstellen. Besonders förderungswürdige Leistungen
 nach Satz 3 können auch vertragsärztliche Leistungen sein, die
-telemedizinisch erbracht werden.
+telemedizinisch erbracht werden. Für die Vereinbarungen nach diesem
+Absatz gilt § 71 Absatz 1 bis 3.
 
 (3) Ebenfalls jährlich bis zum 31. Oktober vereinbaren die in
 Absatz 2 Satz 1 genannten Vertragsparteien gemeinsam und einheitlich
@@ -13304,98 +13395,156 @@ Kostenerstattungsleistungen nach § 13 Abs. 2 und nach § 53 Abs. 4 mit
 Ausnahme der Kostenerstattungsleistungen nach § 13 Abs. 2 Satz 5 sind
 auf die nach Absatz 3 Satz 1 zu zahlende Gesamtvergütung anzurechnen.
 
-(3b) Leistungen des Versorgungsbereichs der Kinder- und Jugendmedizin,
-die gegenüber Patienten erbracht werden, die das 18. Lebensjahr noch
-nicht vollendet haben, sind ab dem 1. April 2023 von den Krankenkassen
-mit den Preisen der regionalen Euro-Gebührenordnung nach Absatz 2 Satz
-5 vollständig zu vergüten. Abweichend von § 85 Absatz 1 und abweichend
-von Absatz 3 Satz 1 wird die morbiditätsbedingte Gesamtvergütung
-hinsichtlich der Vergütung der in Satz 1 genannten Leistungen nicht
-mit befreiender Wirkung gezahlt. Wenn die vollständige Vergütung der
-in Satz 1 genannten Leistungen mit den Preisen der regionalen Euro-
-Gebührenordnung die festgesetzte morbiditätsbedingte Gesamtvergütung
-für die in Satz 1 genannten Leistungen über einen Zeitraum vom
-zweiten Quartal eines Kalenderjahres bis zum ersten Quartal des
-folgenden Kalenderjahres insgesamt unterschreitet, vereinbaren die
-in Absatz 2 Satz 1 genannten Vertragsparteien bis zum Ablauf des
-zweiten Quartals des letztgenannten Kalenderjahres jeweils Zuschläge
-zur Förderung der Kinder- und Jugendmedizin, deren Auszahlungshöhe
-in Summe der Höhe der genannten Unterschreitung entspricht; sind im
-Zeitraum einer im ersten Halbsatz genannten Unterschreitung nach Satz
-9 Ausgleichszahlungen zu leisten, so sind diese Ausgleichszahlungen
-mit der Unterschreitung zu verrechnen. Für die erstmalige
+(3b) Leistungen des Versorgungsbereichs der Kinder- und Jugendmedizin
+sind von den Krankenkassen mit den Preisen der regionalen Euro-
+Gebührenordnung nach Absatz 2 Satz 5 vollständig zu vergüten, soweit
+sie aus der für diese Leistungen festgesetzten morbiditätsbedingten
+Gesamtvergütung vollständig vergütet werden können. Abweichend
+von Absatz 3 Satz 1 und § 85 Absatz 1 wird die auf die in Satz 1
+genannten Leistungen entfallende morbiditätsbedingte Gesamtvergütung
+nicht mit befreiender Wirkung gezahlt. Wenn die vollständige
+Vergütung der in Satz 1 genannten Leistungen mit den Preisen der
+regionalen Euro-Gebührenordnung die festgesetzte morbiditätsbedingte
+Gesamtvergütung für die in Satz 1 genannten Leistungen über einen
+Zeitraum vom zweiten Kalenderquartal eines Kalenderjahres bis
+zum ersten Kalenderquartal des folgenden Kalenderjahres insgesamt
+unterschreitet, vereinbaren die in Absatz 2 Satz 1 genannten
+Vertragsparteien bis zum Ablauf des zweiten Kalenderquartal des
+letztgenannten Kalenderjahres jeweils Zuschläge zur Förderung der
+Kinder- und Jugendmedizin, deren Auszahlungshöhe in Summe der Höhe
+der genannten Unterschreitung entspricht. Sind im Zeitraum einer in
+Satz 3 genannten Unterschreitung nach Satz 13 Ausgleichszahlungen zu
+leisten, so sind diese Ausgleichszahlungen mit der Unterschreitung
+zu verrechnen. Für die nach Satz 10 in den Kalenderjahren 2027 und
+2028 jeweils zu erfolgende quartalsweise Festsetzung der auf die
+in Satz 1 genannten Leistungen entfallenden morbiditätsbedingten
+Gesamtvergütung im Bezirk einer Kassenärztlichen Vereinigung, haben
+die Vertragspartner nach Absatz 2 Satz 1 jeweils den prozentualen
+Anteil des Honorarvolumens, das für die in Satz 1 genannten Leistungen
+in dem dem jeweiligen Kalenderquartal entsprechenden Kalenderquartal
+des Zeitraums vom 1. April 2022 bis 31. März 2023 gemäß dem in §
+87b Absatz 1 Satz 2 genannten Verteilungsmaßstab ausgezahlt wurde,
+am Honorarvolumen, das für den Leistungsbedarf aller Arztgruppen
+innerhalb der morbiditätsbedingten Gesamtvergütung in dem dem
+jeweiligen Kalenderquartal entsprechenden Kalenderquartal des
+Zeitraums vom 1. April 2022 bis 31. März 2023 gemäß dem in § 87b
+Absatz 1 Satz 2 genannten Verteilungsmaßstab ausgezahlt wurde, zu
+bestimmen und diesen prozentualen Anteil mit der für das jeweilige
+Kalenderquartal vereinbarten und bereinigten morbiditätsbedingten
+Gesamtvergütung zu multiplizieren. Soweit aufgrund von Änderungen
+des nach Absatz 3 Satz 2 vereinbarten Behandlungsbedarfs
+einschließlich Abgrenzungsänderungen der nach Absatz 3 Satz 6 in
+der bis zum 29. Juli 2026 geltenden Fassung vergüteten Leistungen
+der Behandlungsbedarf für die in Satz 1 genannten Leistungen für
+das jeweilige Kalenderquartal gegenüber dem diesem Kalenderquartal
+entsprechenden Kalenderquartal des Zeitraums vom 1. April 2022 bis
+31\. März 2023 abweicht, ist der nach Satz 5 zu bestimmende prozentuale
+Anteil entsprechend anzupassen. Satz 6 gilt für die gesetzlich
+vorgesehenen Bereinigungen des Behandlungsbedarfs entsprechend.
+Sofern das Honorarvolumen für die in Satz 1 genannten Leistungen in
+dem dem jeweiligen Kalenderquartal entsprechenden Kalenderquartal des
+Zeitraums vom 1. April 2022 bis 31. März 2023 leistungsbezogene und
+nicht leistungsbezogene Zuschläge und zusätzliche Honorarauszahlungen
+enthält, haben die Vertragsparteien nach Absatz 2 Satz 1 diese
+Zuschläge und zusätzlichen Honorarauszahlungen in der quartalsweise
+festzulegenden morbiditätsbedingten Gesamtvergütung für die in Satz
+1 genannten Leistungen zu berücksichtigen. Für die in den Sätzen
+3 und 8 genannten Zuschläge sowie für die in Absatz 2 Satz 2 und
+3 genannten Zuschläge gilt Satz 2 nicht. Der Bewertungsausschuss
+beschließt bis zum 31. August 2026 Vorgaben für ein Verfahren zur
 Festsetzung der auf die in Satz 1 genannten Leistungen entfallenden
-morbiditätsbedingten Gesamtvergütung ist das Honorarvolumen zugrunde
-zu legen, das für die Leistungen im zweiten Quartal 2022 gemäß dem
-Verteilungsmaßstab ausgezahlt worden ist. Sofern dieses Honorarvolumen
-Zuschläge enthält, haben die Vertragsparteien nach Absatz 2 Satz
-1 diese Zuschläge in der morbiditätsbedingten Gesamtvergütung zu
-vereinbaren. Für die Zuschläge nach den Sätzen 3 und 5 sowie nach
-Absatz 2 Satz 2 und 3 gilt Satz 2 nicht. Der Bewertungsausschuss
-beschließt bis zum 31. Mai 2023 Vorgaben für ein Verfahren zur
-Festsetzung der auf die in Satz 1 genannten Leistungen entfallenden
-morbiditätsbedingten Gesamtvergütung, die erstmalig rückwirkend
-zum 1. April 2023 für das laufende Kalenderjahr und danach jährlich
-für das folgende Kalenderjahr zu erfolgen hat. Zudem beschließt der
-Bewertungsausschuss bis zum 31. Mai 2023 Vorgaben für ein Verfahren
-zur Ermittlung des auf die jeweilige Krankenkasse entfallenden
-Anteils an Ausgleichszahlungen, der sich nach ihrem jeweiligen
-leistungsmengenbezogenen Anteil an dieser Ausgleichszahlung bemisst.
-Eine Ausgleichszahlung ist dann zu leisten, wenn die auf die in Satz
-1 genannten Leistungen entfallende morbiditätsbedingte Gesamtvergütung
-nicht ausreicht, um die vollständige Vergütung nach Satz 1 zu
-gewährleisten. Die in Absatz 2 Satz 1 genannten Vertragsparteien haben
-sich auf ein Verfahren zu verständigen, nach dem die Kassenärztliche
-Vereinigung die Entwicklung der in Satz 1 genannten Leistungen und
-von deren Vergütungen gegenüber den Krankenkassen nachweist. Der
-Bewertungsausschuss analysiert die Auswirkungen der Regelungen des
-Absatzes 3 Satz 5 Nummer 8, dieses Absatzes sowie der Regelungen in §
-87b Absatz 1 Satz 3 zweiter Halbsatz insbesondere auf die Versorgung
-der Kinder und Jugendlichen, die Honorare sowie die Ausgaben der
-Krankenkassen und berichtet dem Bundesministerium für Gesundheit bis
-zum 31. Dezember 2025 über die Ergebnisse. Der Bewertungsausschuss
-beschließt bis zum 1. Mai 2025 Vorgaben zu in Absatz 6 genannten
+morbiditätsbedingten Gesamtvergütung, die quartalsweise für die
+Kalenderquartale des Kalenderjahres 2027 und des Kalenderjahres
+2028 bis zum ersten Tag des jeweiligen Kalenderquartals, erstmalig
+bis zum ersten Tag des auf den Beschluss des Bewertungsausschusses
+folgenden Kalenderquartals, und ab dem Kalenderjahr 2029 jährlich
+bis zum 1. Januar des jeweiligen Kalenderjahres zu erfolgen hat. Die
+Vorgaben des Bewertungsausschusses nach Satz 10 haben insbesondere
+die Anpassung des nach Absatz 2 Satz 1 zu vereinbarenden Punktwertes
+und die Veränderung des nach Absatz 3 Satz 2 zu vereinbarenden
+Behandlungsbedarfs für die in Satz 1 genannten Leistungen sowie die
+jeweils auf die Veränderung entfallenden Bereinigungen einzubeziehen.
+Zudem beschließt der Bewertungsausschuss Vorgaben für ein Verfahren
+zur Ermittlung des auf die jeweilige Krankenkasse entfallenden Anteils
+an den in Satz 13 genannten Ausgleichszahlungen, der sich nach ihrem
+jeweiligen leistungsmengenbezogenen Anteil an der Ausgleichszahlung
+zu bemessen hat. Wenn in dem Bezirk einer Kassenärztlichen
+Vereinigung die Differenz zwischen der festgesetzten, auf die
+in Satz 1 genannten Leistungen entfallenden morbiditätsbedingten
+Gesamtvergütung und den mit den Preisen der regionalen Euro-
+Gebührenordnung nach Absatz 2 Satz 5 bewerteten in Satz 1 genannten
+Leistungen ausschließlich der in Satz 8 genannten Zuschläge und
+zusätzlichen Honorarauszahlungen in einem Kalenderquartal einen
+Wert von null unterschreitet, leisten die Krankenkassen an die
+jeweilige Kassenärztliche Vereinigung Ausgleichszahlungen in
+Höhe ihres jeweiligen nach dem in Satz 12 genannten Verfahren
+ermittelten Anteil an der Differenz, um die vollständige Vergütung
+der in Satz 1 genannten Leistungen zu gewährleisten. Sofern eine
+Ausgleichzahlung für ein Kalenderquartal zu leisten ist und in diesem
+Kalenderquartal mehr Leistungen erbracht wurden als im entsprechenden
+Kalenderquartal des Vorjahres, sind die Leistungen, deren Anzahl
+die Anzahl der Leistungen aus dem entsprechenden Kalenderquartal des
+Vorjahres übersteigt, mit den um einen Abschlag für die allgemeine
+Kostendegression bei Fallzahlsteigerungen geminderten Preisen der
+regionalen Euro-Gebührenordnung nach Absatz 2 Satz 5 zu vergüten.
+Die geminderten Preise gelten auch bei einer Verrechnung nach Satz
+4\. Der Bewertungsausschuss hat bis zum 7. September 2026 die Höhe des
+Abschlags auf die regionale Euro-Gebührenordnung nach Absatz 2 Satz
+5 festzusetzen. Der Bewertungsausschuss analysiert die Auswirkungen
+der Regelungen des § 87d Absatz 1 Nummer 4, dieses Absatzes sowie
+der Regelungen in § 87b Absatz 1 Satz 3 zweiter Halbsatz auf die
+Leistungen des Versorgungsbereichs der Kinder- und Jugendmedizin
+insbesondere auf die Versorgung der Kinder und Jugendlichen, die
+Honorare der Leistungserbringer sowie die Ausgaben der Krankenkassen
+quartalsweise und berichtet dem Bundesministerium für Gesundheit
+jährlich bis zum 31. Dezember 2029 über die Ergebnisse dieser Analyse.
+Er veröffentlicht die Ergebnisse der Analyse auf der Internetseite
+des Instituts des Bewertungsausschusses. Der Bewertungsausschuss
+beschließt bis zum 1. Oktober 2026 Vorgaben zu in Absatz 6 genannten
 Datenübermittlungen, mit denen die Kassenärztlichen Vereinigungen
-gegenüber den Krankenkassen quartalsweise die erstmalige Festsetzung
-und die Fortschreibung der auf die in Satz 1 genannten Leistungen
-entfallenden morbiditätsbedingten Gesamtvergütung, die Entwicklung
-des finanziellen Bedarfs für die in Satz 1 genannten Leistungen, ab
-dem 1. April 2023 eine etwaige in Satz 3 erster Halbsatz genannte
-Unterschreitung, die in den Sätzen 3 und 5 genannten Zuschläge sowie
-die Ausgleichszahlungen nach Satz 9 nachweist.
+gegenüber den Krankenkassen die quartalsweise Festsetzung und ab
+dem Kalenderjahr 2029 die jährliche Fortschreibung der auf die
+in Satz 1 genannten Leistungen entfallenden morbiditätsbedingten
+Gesamtvergütung, die Entwicklung des finanziellen Bedarfs für die
+in Satz 1 genannten Leistungen, eine etwaige in Satz 3 genannte
+Unterschreitung, die in den Sätzen 3 und 8 genannten Zuschläge sowie
+Ausgleichszahlungen nach Satz 13 nachweisen.
 
 (3c) Leistungen des Versorgungsbereichs der allgemeinen hausärztlichen
 Versorgung einschließlich der in Zusammenhang mit diesem
 Versorgungsbereich erbrachten Hausbesuche, soweit diese Leistungen
 nach sachlicher und rechnerischer Prüfung durch die Kassenärztliche
-Vereinigung anerkannt wurden (hausärztlicher Leistungsbedarf), sind
-ab dem 1. Oktober 2025 von den Krankenkassen mit den Preisen der
-regionalen Euro-Gebührenordnung nach Absatz 2 Satz 5 vollständig zu
-vergüten. Abweichend von Absatz 3 Satz 1 und § 85 Absatz 1 wird die
-auf die in Satz 1 genannten Leistungen entfallende morbiditätsbedingte
-Gesamtvergütung nicht mit befreiender Wirkung gezahlt. Für die nach
-Satz 7 in den Kalenderjahren 2025 und 2026 jeweils zu erfolgende
-quartalsweise Festsetzung der auf die in Satz 1 genannten Leistungen
-entfallenden morbiditätsbedingten Gesamtvergütung im Bezirk einer
-Kassenärztlichen Vereinigung haben die Vertragspartner nach Absatz
-2 Satz 1 jeweils den prozentualen Anteil des Honorarvolumens, das
-für den hausärztlichen Leistungsbedarf einschließlich sämtlicher auf
-diesen entfallender leistungsbezogener und nicht leistungsbezogener
-Zuschläge und einschließlich zusätzlicher Honorarauszahlungen in
-dem dem jeweiligen Kalenderquartal entsprechenden Kalenderquartal
-des Jahres 2023 gemäß dem in § 87b Absatz 1 Satz 2 genannten
-Verteilungsmaßstab ausgezahlt wurde, am Honorarvolumen, das für den
-Leistungsbedarf aller Arztgruppen innerhalb der morbiditätsbedingten
-Gesamtvergütung in dem dem jeweiligen Kalenderquartal entsprechenden
-Kalenderquartal des Jahres 2023 einschließlich sämtlicher auf diesen
-entfallender leistungsbezogener und nicht leistungsbezogener Zuschläge
-und einschließlich zusätzlicher Honorarauszahlungen gemäß dem in §
-87b Absatz 1 Satz 2 genannten Verteilungsmaßstab ausgezahlt wurde,
-zu bestimmen und diesen prozentualen Anteil mit der für das jeweilige
+Vereinigung anerkannt wurden (hausärztlicher Leistungsbedarf),
+sind von den Krankenkassen mit den Preisen der regionalen Euro-
+Gebührenordnung nach Absatz 2 Satz 5 vollständig zu vergüten, soweit
+sie aus der für diese Leistungen festgesetzten morbiditätsbedingten
+Gesamtvergütung vollständig vergütet werden können. Abweichend
+von Absatz 3 Satz 1 und § 85 Absatz 1 wird die auf die in Satz 1
+genannten Leistungen entfallende morbiditätsbedingte Gesamtvergütung
+nicht mit befreiender Wirkung gezahlt. Für die nach Satz 7 in den
+Kalenderjahren 2025 und 2026 jeweils zu erfolgende quartalsweise
+Festsetzung der auf die in Satz 1 genannten Leistungen entfallenden
+morbiditätsbedingten Gesamtvergütung im Bezirk einer Kassenärztlichen
+Vereinigung haben die Vertragspartner nach Absatz 2 Satz 1 jeweils den
+prozentualen Anteil des Honorarvolumens, das für den hausärztlichen
+Leistungsbedarf einschließlich sämtlicher auf diesen entfallender
+leistungsbezogener und nicht leistungsbezogener Zuschläge und
+einschließlich zusätzlicher Honorarauszahlungen in dem dem jeweiligen
+Kalenderquartal entsprechenden Kalenderquartal des Jahres 2023
+gemäß dem in § 87b Absatz 1 Satz 2 genannten Verteilungsmaßstab
+ausgezahlt wurde, am Honorarvolumen, das für den Leistungsbedarf
+aller Arztgruppen innerhalb der morbiditätsbedingten Gesamtvergütung
+in dem dem jeweiligen Kalenderquartal entsprechenden Kalenderquartal
+des Jahres 2023 einschließlich sämtlicher auf diesen entfallender
+leistungsbezogener und nicht leistungsbezogener Zuschläge und
+einschließlich zusätzlicher Honorarauszahlungen gemäß dem in § 87b
+Absatz 1 Satz 2 genannten Verteilungsmaßstab ausgezahlt wurde, zu
+bestimmen und diesen prozentualen Anteil mit der für das jeweilige
 Kalenderquartal vereinbarten und bereinigten morbiditätsbedingten
-Gesamtvergütung zu multiplizieren. Soweit aufgrund von Änderungen des
-nach Absatz 3 Satz 2 vereinbarten Behandlungsbedarfs einschließlich
-Abgrenzungsänderungen der nach Absatz 3 Satz 6 vergüteten Leistungen
+Gesamtvergütung zu multiplizieren. Soweit aufgrund von Änderungen
+des nach Absatz 3 Satz 2 vereinbarten Behandlungsbedarfs
+einschließlich Abgrenzungsänderungen der nach Absatz 3 Satz 6 in
+der bis zum 29. Juli 2026 geltenden Fassung vergüteten Leistungen
 der Behandlungsbedarf für die in Satz 1 genannten Leistungen für
 das jeweilige Kalenderquartal gegenüber dem diesem Kalenderquartal
 entsprechenden Kalenderquartal des Jahres 2023 abweicht, ist der nach
@@ -13425,46 +13574,61 @@ Wenn in dem Bezirk einer Kassenärztlichen Vereinigung die Differenz
 zwischen der festgesetzten, auf die in Satz 1 genannten Leistungen
 entfallenden morbiditätsbedingten Gesamtvergütung und dem mit den
 Preisen der regionalen Euro-Gebührenordnung nach Absatz 2 Satz 5
-bewerteten hausärztlichen Leistungsbedarf ausschließlich der in
-Satz 6 genannten Zuschläge und zusätzlichen Honorarauszahlungen
-in einem Kalenderquartal einen Wert von null unterschreitet,
-leisten die Krankenkassen Ausgleichszahlungen an die jeweilige
-Kassenärztliche Vereinigung in Höhe ihres jeweiligen nach dem in
-Satz 12 genannten Verfahren ermittelten Anteil an der Differenz, um
-die vollständige Vergütung des hausärztlichen Leistungsbedarfs zu
-gewährleisten. Die Ausgleichzahlungen sind mit einer Unterschreitung
-der festgesetzten, auf die in Satz 1 genannten Leistungen entfallenden
+bewerteten hausärztlichen Leistungsbedarf ausschließlich der in Satz
+6 genannten Zuschläge und zusätzlichen Honorarauszahlungen in einem
+Kalenderquartal einen Wert von null unterschreitet, leisten die
+Krankenkassen Ausgleichszahlungen an die jeweilige Kassenärztliche
+Vereinigung in Höhe ihres jeweiligen nach dem in Satz 15 genannten
+Verfahren ermittelten Anteil an der Differenz, um die vollständige
+Vergütung des hausärztlichen Leistungsbedarfs zu gewährleisten.
+Sofern eine Ausgleichszahlung für ein Kalenderquartal zu leisten ist
+und in diesem Kalenderquartal mehr Leistungen erbracht wurden als im
+entsprechenden Kalenderquartal des Vorjahres, sind die Leistungen,
+deren Anzahl die Anzahl der Leistungen aus dem entsprechenden
+Kalenderquartal des Vorjahres übersteigt, mit den um einen Abschlag
+für die allgemeine Kostendegression bei Fallzahlsteigerungen
+geminderten Preisen der regionalen Euro-Gebührenordnung nach
+Absatz 2 Satz 5 zu vergüten. Die geminderten Preise gelten auch
+bei einer Verrechnung nach Satz 13. Der Bewertungsausschuss hat
+bis zum 7. September 2026 die Höhe des Abschlags auf die Preise der
+regionalen Euro-Gebührenordnung nach Absatz 2 Satz 5 festzusetzen.
+Die Ausgleichzahlungen sind mit einer Unterschreitung der
+festgesetzten, auf die in Satz 1 genannten Leistungen entfallenden
 morbiditätsbedingten Gesamtvergütung durch den hausärztlichen
 Leistungsbedarf in den vorangegangenen Kalenderquartalen zu
 verrechnen. Wenn der hausärztliche Leistungsbedarf die festgesetzte,
 auf die in Satz 1 genannten Leistungen entfallende morbiditätsbedingte
-Gesamtvergütung über einen Zeitraum vom zweiten Quartal eines
-Kalenderjahres bis zum ersten Quartal des folgenden Kalenderjahres
-insgesamt unterschreitet, vereinbaren die in Absatz 2 Satz 1 genannten
-Vertragsparteien bis zum Ablauf des zweiten Kalenderquartals des
-letztgenannten Kalenderjahres jeweils Zuschläge zur Förderung
-der hausärztlichen Versorgung, deren Auszahlungshöhe in Summe
-der genannten Unterschreitung entspricht. Der Bewertungsausschuss
-beschließt bis zum 1. Oktober 2025 Vorgaben für ein Verfahren
-zur Ermittlung des auf die jeweiligen Krankenkassen entfallenden
-Anteils an den in Satz 9 genannten Ausgleichszahlungen, der sich
-nach ihrem jeweiligen leistungsmengenbezogenen Anteil an der
-Ausgleichszahlung zu bemessen hat. Für die in den Sätzen 6 und
-11 genannten Zuschläge sowie für die in Absatz 2 Satz 2 und 3
-genannten Zuschläge gilt Satz 2 nicht. Der Bewertungsausschuss
+Gesamtvergütung über einen Zeitraum vom zweiten Kalenderquartal
+eines Kalenderjahres bis zum ersten Kalenderquartal des folgenden
+Kalenderjahres insgesamt unterschreitet, vereinbaren die in Absatz
+2 Satz 1 genannten Vertragsparteien bis zum Ablauf des zweiten
+Kalenderquartals des letztgenannten Kalenderjahres jeweils Zuschläge
+zur Förderung der hausärztlichen Versorgung, deren Auszahlungshöhe
+in Summe der Höhe der genannten Unterschreitung entspricht. Der
+Bewertungsausschuss beschließt bis zum 1. Oktober 2025 Vorgaben
+für ein Verfahren zur Ermittlung des auf die jeweilige Krankenkasse
+entfallenden Anteils an den in Satz 9 genannten Ausgleichszahlungen,
+der sich nach ihrem jeweiligen leistungsmengenbezogenen Anteil
+an der Ausgleichszahlung zu bemessen hat. Für die in den Sätzen
+6 und 14 genannten Zuschläge sowie für die in Absatz 2 Satz 2 und
+3 genannten Zuschläge gilt Satz 2 nicht. Der Bewertungsausschuss
 beschließt bis zum 1. Mai 2025 Vorgaben zu in Absatz 6 genannten
 Datenübermittlungen, mit denen die Kassenärztlichen Vereinigungen
 gegenüber den Krankenkassen quartalsweise die erstmalige Festsetzung
-und die Fortschreibung der auf die in Satz 1 genannten Leistungen
-entfallenden morbiditätsbedingten Gesamtvergütung, die Entwicklung
-des hausärztlichen Leistungsbedarfs, eine etwaige in Satz 10
-genannte Unterschreitung, die in den Sätzen 6 und 11 genannten
-Zuschläge sowie die Ausgleichszahlungen nach Satz 9 nachweist. Der
-Bewertungsausschuss analysiert die Auswirkungen der Regelungen dieses
-Absatzes insbesondere im Hinblick auf die hausärztliche Versorgung der
-Versicherten, die Honorare sowie die Ausgaben der Krankenkassen und
-berichtet dem Bundesministerium für Gesundheit bis zum 30. September
-2027 über die Ergebnisse dieser Analyse.
+und ab dem Kalenderjahr 2027 die jährliche Fortschreibung der auf
+die in Satz 1 genannten Leistungen entfallenden morbiditätsbedingten
+Gesamtvergütung, die Entwicklung des hausärztlichen Leistungsbedarfs,
+eine etwaige in Satz 13 genannte Unterschreitung, die in den
+Sätzen 6 und 14 genannten Zuschläge sowie die Ausgleichszahlungen
+nach Satz 9 nachweisen. Der Bewertungsausschuss analysiert die
+Auswirkungen der Regelungen dieses Absatzes insbesondere im Hinblick
+auf die hausärztliche Versorgung der Versicherten, die Honorare der
+Leistungserbringer sowie die Ausgaben der Krankenkassen quartalsweise
+und berichtet jährlich dem Bundesministerium für Gesundheit, erstmals
+bis zum 30. September 2027 und letztmals bis zum 30. September
+2029, über die Ergebnisse dieser Analyse. Er veröffentlicht die
+Ergebnisse der Analyse auf der Internetseite des Instituts des
+Bewertungsausschusses.
 
 (4) Grundlage der Vereinbarung über die Anpassung des
 Behandlungsbedarfs jeweils aufsetzend auf dem insgesamt für alle
@@ -13648,19 +13812,18 @@ den Verteilungsmaßstab an, der im Benehmen mit den Landesverbänden
 der Krankenkassen und den Ersatzkassen festgesetzt worden ist.
 Die Vergütung der Leistungen im Notfall und im Notdienst erfolgt
 aus einem vor der Trennung für die Versorgungsbereiche gebildeten
-eigenen Honorarvolumen mit der Maßgabe, dass für diese Leistungen im
-Verteilungsmaßstab keine Maßnahmen zur Begrenzung oder Minderung des
-Honorars angewandt werden dürfen; im Verteilungsmaßstab dürfen für
-Leistungen des Versorgungsbereichs der Kinder- und Jugendmedizin,
-die gegenüber Patienten erbracht werden, die das 18. Lebensjahr noch
-nicht vollendet haben, und ab dem 1. Oktober 2025 für Leistungen
-des Versorgungsbereichs der allgemeinen hausärztlichen Versorgung
-einschließlich der in Zusammenhang mit diesem Versorgungsbereich
-erbrachten Hausbesuche ebenfalls keine Maßnahmen zur Begrenzung oder
-Minderung des Honorars angewandt werden. Bisherige Bestimmungen,
-insbesondere zur Zuweisung von arzt- und praxisbezogenen
-Regelleistungsvolumen, gelten bis zur Entscheidung über einen
-Verteilungsmaßstab vorläufig fort.
+eigenen Honorarvolumen mit der Maßgabe, dass für diese Leistungen
+im Verteilungsmaßstab keine Maßnahmen zur Begrenzung oder Minderung
+des Honorars angewandt werden dürfen; im Verteilungsmaßstab dürfen
+für Leistungen des Versorgungsbereichs der Kinder- und Jugendmedizin
+und für Leistungen des Versorgungsbereichs der allgemeinen
+hausärztlichen Versorgung einschließlich der in Zusammenhang mit
+diesem Versorgungsbereich erbrachten Hausbesuche ebenfalls keine
+Maßnahmen zur Begrenzung oder Minderung des Honorars angewandt werden,
+sofern kein Fall von § 87a Absatz 3b Satz 14 oder Absatz 3c Satz 10
+vorliegt. Bisherige Bestimmungen, insbesondere zur Zuweisung von arzt-
+und praxisbezogenen Regelleistungsvolumen, gelten bis zur Entscheidung
+über einen Verteilungsmaßstab vorläufig fort.
 
 (2) Der Verteilungsmaßstab hat Regelungen vorzusehen, die
 verhindern, dass die Tätigkeit des Leistungserbringers über seinen
@@ -14238,34 +14401,36 @@ einzelnen Unparteiischen den Vorsitz der Unterausschüsse des
 Gemeinsamen Bundesausschusses. Der Vorsitzende nach Absatz 1
 Satz 3 stellt übergreifend die Einhaltung aller dem Gemeinsamen
 Bundesausschuss auferlegten gesetzlichen Fristen sicher. Zur Erfüllung
-dieser Aufgabe nimmt er eine zeitliche Steuerungsverantwortung
-wahr und hat ein Antragsrecht an das Beschlussgremium nach Satz
-1, er erstattet auch den nach Absatz 11 jährlich vorzulegenden
-Bericht. Die Organisationen nach Absatz 1 Satz 1 schließen die
-Dienstvereinbarungen mit den hauptamtlichen Unparteiischen; § 35a
-Absatz 6 Satz 2 und Absatz 6a Satz 1 und 2 des Vierten Buches gilt
-entsprechend. Vergütungserhöhungen sind während der Dauer der Amtszeit
-der Unparteiischen unzulässig. Zu Beginn einer neuen Amtszeit eines
-Unparteiischen kann eine über die zuletzt nach § 35a Absatz 6a Satz
-1 des Vierten Buches gebilligte Vergütung der letzten Amtsperiode
-oder des Vorgängers im Amt hinausgehende höhere Vergütung nur durch
-einen Zuschlag auf die Grundvergütung nach Maßgabe der Entwicklung des
-Verbraucherpreisindexes vereinbart werden. Die Aufsichtsbehörde kann
-zu Beginn einer neuen Amtszeit eines Unparteiischen eine niedrigere
-Vergütung anordnen. Die Art und die Höhe finanzieller Zuwendungen,
-die den Unparteiischen im Zusammenhang mit ihrer Tätigkeit als
-Unparteiische von Dritten gewährt werden, sind den Organisationen nach
-Absatz 1 Satz 1 mitzuteilen und auf die Vergütung der Unparteiischen
-anzurechnen oder an den Gemeinsamen Bundesausschuss abzuführen.
-Vereinbarungen der Organisationen nach Absatz 1 Satz 1 für die
-Zukunftssicherung der Unparteiischen sind nur auf der Grundlage von
-beitragsorientierten Zusagen zulässig. Die von den Organisationen
-benannten sonstigen Mitglieder des Beschlussgremiums üben ihre
-Tätigkeit ehrenamtlich aus; sie sind bei den Entscheidungen im
-Beschlussgremium an Weisungen nicht gebunden. Die Organisationen nach
-Absatz 1 Satz 1 benennen für jedes von ihnen benannte Mitglied bis zu
-drei Stellvertreter. Die Amtszeit im Beschlussgremium beträgt ab der
-am 1. Juli 2012 beginnenden Amtszeit sechs Jahre.
+dieser Aufgabe nimmt er eine zeitliche Steuerungsverantwortung wahr
+und hat ein Antragsrecht an das Beschlussgremium nach Satz 1, er
+erstattet auch den nach Absatz 11 jährlich vorzulegenden Bericht. Die
+Organisationen nach Absatz 1 Satz 1 schließen die Dienstvereinbarungen
+mit den hauptamtlichen Unparteiischen; § 35a Absatz 6 Satz 2 und
+Absatz 6a Satz 1, 2 und 4 des Vierten Buches gilt entsprechend.
+Vergütungserhöhungen sind während der Dauer einer Amtszeit der
+Unparteiischen unzulässig. Zu Beginn einer neuen Amtszeit eines
+Unparteiischen kann eine über die zuletzt nach § 35a Absatz 6a Satz 1
+des Vierten Buches gebilligte Vergütung der letzten Amtsperiode oder
+des Vorgängers im Amt hinausgehende höhere Vergütung nur durch einen
+prozentualen Zuschlag auf die Grundvergütung in Höhe des Mittelwerts
+der nach § 71 Absatz 3 Satz 5 seit dem Beginn der vorherigen
+Amtsperiode veröffentlichten durchschnittlichen Veränderungsraten
+vereinbart werden. Die Aufsichtsbehörde kann zu Beginn einer neuen
+Amtszeit eines Unparteiischen eine niedrigere Vergütung anordnen.
+Die Art und die Höhe finanzieller Zuwendungen, die den Unparteiischen
+im Zusammenhang mit ihrer Tätigkeit als Unparteiische von Dritten
+gewährt werden, sind den Organisationen nach Absatz 1 Satz 1
+mitzuteilen und auf die Vergütung der Unparteiischen anzurechnen oder
+an den Gemeinsamen Bundesausschuss abzuführen. Vereinbarungen der
+Organisationen nach Absatz 1 Satz 1 für die Zukunftssicherung der
+Unparteiischen sind nur auf der Grundlage von beitragsorientierten
+Zusagen zulässig. Die von den Organisationen benannten sonstigen
+Mitglieder des Beschlussgremiums üben ihre Tätigkeit ehrenamtlich aus;
+sie sind bei den Entscheidungen im Beschlussgremium an Weisungen nicht
+gebunden. Die Organisationen nach Absatz 1 Satz 1 benennen für jedes
+von ihnen benannte Mitglied bis zu drei Stellvertreter. Die Amtszeit
+im Beschlussgremium beträgt ab der am 1. Juli 2012 beginnenden
+Amtszeit sechs Jahre.
 
 (2a) Bei Beschlüssen, die allein einen der Leistungssektoren
 wesentlich betreffen, werden ab dem 1. Februar 2012 alle fünf Stimmen
@@ -14591,12 +14756,23 @@ zahnärztliche Behandlung einschließlich der Versorgung mit
 Zahnersatz sowie kieferorthopädischer Behandlung auszurichten. Der
 Gemeinsame Bundesausschuss hat die Richtlinien auf der Grundlage
 auch von externem, umfassendem zahnmedizinisch-wissenschaftlichem
-Sachverstand zu beschließen. Das Bundesministerium für Gesundheit
-kann dem Gemeinsamen Bundesausschuss vorgeben, einen Beschluss
-zu einzelnen dem Bundesausschuss durch Gesetz zugewiesenen
-Aufgaben zu fassen oder zu überprüfen und hierzu eine angemessene
-Frist setzen. Bei Nichteinhaltung der Frist fasst eine aus den
-Mitgliedern des Bundesausschusses zu bildende Schiedsstelle innerhalb
+Sachverstand zu beschließen. Der Gemeinsame Bundesausschuss
+überprüft seine Richtlinien für die kieferorthopädische Behandlung
+insbesondere hinsichtlich der befundbezogenen kieferorthopädischen
+Indikationsgruppen einschließlich des der vertragszahnärztlichen
+Versorgung zugrundeliegenden Behandlungsbedarfsgrades und beschließt
+bis zum 31. Dezember 2027 über eine Anpassung der Richtlinien. Der
+Gemeinsame Bundesausschuss beschließt außerdem bis zum 31. Dezember
+2027 in seinen Richtlinien für die kieferorthopädische Behandlung
+eine evidenzbasierte Indikations- und Kontraindikationsliste für
+die Durchführung von Fernröntgen-Aufnahmen sowie Panorama-Aufnahmen
+zum Zwecke der Planung und Durchführung einer kieferorthopädischen
+Behandlung. Das Bundesministerium für Gesundheit kann dem
+Gemeinsamen Bundesausschuss vorgeben, einen Beschluss zu einzelnen
+dem Bundesausschuss durch Gesetz zugewiesenen Aufgaben zu fassen
+oder zu überprüfen und hierzu eine angemessene Frist setzen.
+Bei Nichteinhaltung der Frist fasst eine aus den Mitgliedern
+des Bundesausschusses zu bildende Schiedsstelle innerhalb
 von 30 Tagen den erforderlichen Beschluss. Die Schiedsstelle
 besteht aus dem unparteiischen Vorsitzenden, den zwei weiteren
 unparteiischen Mitgliedern des Bundesausschusses und je einem von
@@ -14695,19 +14871,17 @@ nach Absatz 2 Satz 7 ist den Sachverständigen der medizinischen
 und pharmazeutischen Wissenschaft und Praxis sowie den für die
 Wahrnehmung der wirtschaftlichen Interessen gebildeten maßgeblichen
 Spitzenorganisationen der pharmazeutischen Unternehmer, den
-betroffenen pharmazeutischen Unternehmern, den Berufsvertretungen der
-Apotheker und den maßgeblichen Dachverbänden der Ärztegesellschaften
-der besonderen Therapierichtungen auf Bundesebene Gelegenheit zur
-Stellungnahme zu geben. Die Stellungnahmen sind in die Entscheidung
-einzubeziehen. Der Gemeinsame Bundesausschuss hat unter Wahrung
-der Betriebs- und Geschäftsgeheimnisse Gutachten oder Empfehlungen
-von Sachverständigen, die er bei Richtlinien nach Absatz 1 Satz
-2 Nummer 6 zur Verordnung von Arzneimitteln und zur Anwendung von
-Arzneimitteln für neuartige Therapien im Sinne von § 4 Absatz 9 des
-Arzneimittelgesetzes sowie bei Therapiehinweisen nach Absatz 2 Satz 7
-zu Grunde legt, bei Einleitung des Stellungnahmeverfahrens zu benennen
-und zu veröffentlichen sowie in den tragenden Gründen der Beschlüsse
-zu benennen.
+betroffenen pharmazeutischen Unternehmern und den Berufsvertretungen
+der Apotheker Gelegenheit zur Stellungnahme zu geben. Die
+Stellungnahmen sind in die Entscheidung einzubeziehen. Der
+Gemeinsame Bundesausschuss hat unter Wahrung der Betriebs- und
+Geschäftsgeheimnisse Gutachten oder Empfehlungen von Sachverständigen,
+die er bei Richtlinien nach Absatz 1 Satz 2 Nummer 6 zur Verordnung
+von Arzneimitteln und zur Anwendung von Arzneimitteln für neuartige
+Therapien im Sinne von § 4 Absatz 9 des Arzneimittelgesetzes sowie bei
+Therapiehinweisen nach Absatz 2 Satz 7 zu Grunde legt, bei Einleitung
+des Stellungnahmeverfahrens zu benennen und zu veröffentlichen sowie
+in den tragenden Gründen der Beschlüsse zu benennen.
 
 (4) In den Richtlinien nach Absatz 1 Satz 2 Nr. 3 sind insbesondere
 zu regeln
@@ -16930,8 +17104,13 @@ Vereinigungen zu treffen sind. Auf Grundlage dieser Vereinbarungen
 können Nachforderungen wegen unwirtschaftlicher Verordnungsweise
 nach § 106 Absatz 3 festgelegt werden. In den Vereinbarungen müssen
 Regelungen zu Wirtschaftlichkeitsprüfungen in allen Bereichen ärztlich
-verordneter Leistungen enthalten sein. Die Vereinbarungen nach Satz 1
-gelten für Leistungen, die ab dem 1. Januar 2017 verordnet werden.
+verordneter Leistungen enthalten sein. Die Vereinbarungen nach Satz
+1 gelten für Leistungen, die ab dem 1. Januar 2017 verordnet werden.
+In den Vereinbarungen nach Satz 1 sollen Verordnungsquoten für alle
+Arzneimittel enthalten sein, für die Rabattverträge nach § 130e
+Absatz 1 Satz 1 vereinbart werden können. Die Verordnungsquoten sind
+jeweils für eine nach § 130e Absatz 1 Satz 1 festgelegte Gruppe zu
+vereinbaren.
 
 (1a) Bei Verordnungen saisonaler Grippeimpfstoffe gilt eine
 angemessene Überschreitung der Menge gegenüber den tatsächlich
@@ -16997,7 +17176,7 @@ Vereinbarung nach Absatz 1 gelten die Regelungen in den §§ 84, 106,
 
 4.  Verordnungen von Heilmitteln nach § 73 Absatz 11 Satz 1.
 
-(5) § 130b Absatz 2 und § 130c Absatz 4 bleiben unberührt.
+(5) § 130c Absatz 4 und § 130e Absatz 2 bleiben unberührt.
 
 
 ##### § 106c Prüfungsstelle und Beschwerdeausschuss bei Wirtschaftlichkeitsprüfungen
@@ -17609,16 +17788,23 @@ Mit der für die Krankenhausplanung zuständigen Landesbehörde ist
 Einvernehmen über Abschluß und Kündigung des Versorgungsvertrags
 anzustreben.
 
-(5) Die Vergütungen für die in Absatz 1 genannten Leistungen werden
-zwischen den Krankenkassen und den Trägern der zugelassenen Vorsorge-
-oder Rehabilitationseinrichtungen vereinbart. Für Vereinbarungen
-nach Satz 1 gilt § 71 nicht. Die Bezahlung von Gehältern bis zur Höhe
-tarifvertraglicher Vergütungen sowie entsprechender Vergütungen nach
-kirchlichen Arbeitsrechtsregelungen kann nicht als unwirtschaftlich
-abgelehnt werden. Auf Verlangen der Krankenkasse ist die Zahlung
-dieser Vergütungen nachzuweisen. Sofern der Deutsche Bundestag nach §
-5 Absatz 1 Satz 1 des Infektionsschutzgesetzes eine epidemische Lage
-von nationaler Tragweite festgestellt hat, haben die Vertragsparteien
+(5) Die Vergütungen für die in Absatz 1 genannten Leistungen
+werden zwischen den Krankenkassen und den Trägern der zugelassenen
+Vorsorge- oder Rehabilitationseinrichtungen vereinbart. § 71
+Absatz 1 bis 3 gilt. Für tarifgebundene Einrichtungen darf bis zum
+29\. Juli 2028 abweichend von Satz 2 die Bezahlung von Gehältern
+oberhalb der festgestellten durchschnittlichen Veränderungsrate
+nach § 71 Absatz 3 insoweit nicht als unwirtschaftlich abgelehnt
+werden, als die Überschreitung der festgestellten durchschnittlichen
+Veränderungsrate nach § 71 Absatz 3 50 Prozent des Unterschieds
+zwischen der tarifvertraglich vereinbarten Vergütungssteigerung
+und der festgestellten durchschnittlichen Veränderungsrate nach §
+71 Absatz 3 nicht übersteigt. Satz 3 gilt auch für entsprechende
+Vergütungssteigerungen nach kirchlichen Arbeitsrechtsregelungen.
+Auf Verlangen der Krankenkasse ist die Zahlung dieser Vergütungen
+nachzuweisen. Sofern der Deutsche Bundestag nach § 5 Absatz 1
+Satz 1 des Infektionsschutzgesetzes eine epidemische Lage von
+nationaler Tragweite festgestellt hat, haben die Vertragsparteien
 die Vereinbarungen für den Zeitraum, der am Tag der Feststellung
 durch den Deutschen Bundestag beginnt und am Tag der Aufhebung der
 Feststellung, spätestens jedoch mit Ablauf des 7. April 2023 endet,
@@ -17626,10 +17812,21 @@ an diese Sondersituation anzupassen, um die Leistungsfähigkeit der
 Einrichtungen bei wirtschaftlicher Betriebsführung zu gewährleisten.
 Kommt eine Vereinbarung innerhalb von zwei Monaten, nachdem eine
 Vertragspartei nach Satz 1 schriftlich zur Aufnahme von Verhandlungen
-aufgefordert hat, nicht oder teilweise nicht zustande, wird ihr Inhalt
-auf Antrag einer Vertragspartei durch die Landesschiedsstelle nach
-§ 111b festgesetzt. Die Landesschiedsstelle ist dabei an die für die
-Vertragsparteien geltenden Rechtsvorschriften gebunden.
+aufgefordert hat, nicht oder teilweise nicht zustande, wird ihr
+Inhalt auf Antrag einer Vertragspartei durch die Landesschiedsstelle
+nach § 111b festgesetzt. Die Landesschiedsstelle ist dabei
+an die für die Vertragsparteien geltenden Rechtsvorschriften
+gebunden. Der Spitzenverband Bund der Krankenkassen legt dem
+Bundesministerium für Gesundheit bis zum 30. Juni 2028 einen
+Bericht über die Auswirkungen der Sätze 3 und 4 insbesondere auf
+die Höhe der vereinbarten Vergütungen zwischen Leistungserbringern
+und Krankenkassen, die Entwicklung der Personalkosten und der
+tarifbedingten Vergütungssteigerungen im Verhältnis zur nach §
+71 Absatz 3 festgestellten durchschnittlichen Veränderungsrate,
+die wirtschaftliche Situation tarifgebundener Einrichtungen sowie
+die Auswirkungen auf die Versorgung der Versicherten vor. Das
+Bundesministerium für Gesundheit leitet den Bericht dem Deutschen
+Bundestag zu.
 
 (6) Soweit eine wirtschaftlich und organisatorisch selbständige,
 gebietsärztlich geleitete Vorsorge- oder Rehabilitationseinrichtung an
@@ -17782,25 +17979,32 @@ Kündigung des Versorgungsvertrags anzustreben.
 
 (3) Die Vergütungen für die in § 40 Absatz 1 genannten Leistungen
 werden zwischen den Krankenkassen und den Trägern der zugelassenen
-Rehabilitationseinrichtungen vereinbart. Für Vereinbarungen nach
-Satz 1 gilt § 71 nicht. Die Bezahlung von Gehältern bis zur Höhe
-tarifvertraglicher Vergütungen sowie entsprechender Vergütungen nach
-kirchlichen Arbeitsrechtsregelungen kann nicht als unwirtschaftlich
-abgelehnt werden. Auf Verlangen der Krankenkasse ist die Zahlung
-dieser Vergütungen nachzuweisen. Sofern der Deutsche Bundestag nach §
-5 Absatz 1 Satz 1 des Infektionsschutzgesetzes eine epidemische Lage
-von nationaler Tragweite festgestellt hat, haben die Vertragsparteien
-die Vereinbarungen für den Zeitraum, der am Tag der Feststellung
-durch den Deutschen Bundestag beginnt und am Tag der Aufhebung der
-Feststellung, spätestens jedoch mit Ablauf des 7. April 2023 endet,
-an diese Sondersituation anzupassen, um die Leistungsfähigkeit der
-Einrichtungen bei wirtschaftlicher Betriebsführung zu gewährleisten.
-Kommt eine Vereinbarung innerhalb von zwei Monaten, nachdem eine
-Vertragspartei nach Satz 1 schriftlich zur Aufnahme von Verhandlungen
-aufgefordert hat, nicht oder teilweise nicht zustande, wird ihr Inhalt
-auf Antrag einer Vertragspartei durch die Landesschiedsstelle nach
-§ 111b festgesetzt. Diese ist dabei an die für die Vertragsparteien
-geltenden Rechtsvorschriften gebunden.
+Rehabilitationseinrichtungen vereinbart. § 71 Absatz 1 bis 3 gilt.
+Für tarifgebundene Einrichtungen darf bis zum 29. Juli 2028 abweichend
+von Satz 2 die Bezahlung von Gehältern oberhalb der festgestellten
+durchschnittlichen Veränderungsrate nach § 71 Absatz 3 insoweit nicht
+als unwirtschaftlich abgelehnt werden, als die Überschreitung der
+festgestellten durchschnittlichen Veränderungsrate nach § 71 Absatz 3
+50 Prozent des Unterschieds zwischen der tarifvertraglich vereinbarten
+Vergütungssteigerung und der festgestellten durchschnittlichen
+Veränderungsrate nach § 71 Absatz 3 nicht übersteigt. Satz 3 gilt
+auch für entsprechende Vergütungssteigerungen nach kirchlichen
+Arbeitsrechtsregelungen. Auf Verlangen der Krankenkasse ist die
+Zahlung dieser Vergütungen nachzuweisen. Sofern der Deutsche
+Bundestag nach § 5 Absatz 1 Satz 1 des Infektionsschutzgesetzes
+eine epidemische Lage von nationaler Tragweite festgestellt hat,
+haben die Vertragsparteien die Vereinbarungen für den Zeitraum,
+der am Tag der Feststellung durch den Deutschen Bundestag beginnt
+und am Tag der Aufhebung der Feststellung, spätestens jedoch mit
+Ablauf des 7. April 2023 endet, an diese Sondersituation anzupassen,
+um die Leistungsfähigkeit der Einrichtungen bei wirtschaftlicher
+Betriebsführung zu gewährleisten. Kommt eine Vereinbarung innerhalb
+von zwei Monaten, nachdem eine Vertragspartei nach Satz 1 schriftlich
+zur Aufnahme von Verhandlungen aufgefordert hat, nicht oder teilweise
+nicht zustande, wird ihr Inhalt auf Antrag einer Vertragspartei durch
+die Landesschiedsstelle nach § 111b festgesetzt. Diese ist dabei an
+die für die Vertragsparteien geltenden Rechtsvorschriften gebunden. §
+111 Absatz 5 Satz 9 gilt entsprechend.
 
 (4) Bei Einrichtungen, die vor dem 1. Januar 2012 ambulante
 Leistungen zur medizinischen Rehabilitation erbracht haben, gilt ein
@@ -18552,16 +18756,18 @@ Krankenhausfälle, in denen neue Untersuchungs- und Behandlungsmethoden
 angewendet werden, ab dem Jahr 2026 jährlich mindestens eine Million
 Fälle erfasst werden; ab dem Jahr 2028 sollen unter Berücksichtigung
 der Ergebnisse der Evaluation nach Absatz 5 jährlich mindestens 1,5
-Millionen und ab dem Jahr 2030 jährlich mindestens zwei Millionen
-Fälle erfasst werden. Die Vertragsparteien nach Absatz 1 Satz 1
-beauftragen das Institut für das Entgeltsystem im Krankenhaus und
-das in § 87 Absatz 3b Satz 1 genannte Institut gemeinsam bis zum
-15\. Februar eines jeden Kalenderjahres, die Auswahl der Leistungen
-nach Absatz 1 Satz 1 Nummer 2 zu überprüfen und einen Vorschlag zur
-Anpassung der Leistungsauswahl vorzulegen. Bei der Überprüfung und
-Anpassung nach Satz 1 können auch Leistungen ausgewählt werden, die
-nicht in dem nach § 115b Absatz 1 Satz 1 Nummer 1 vereinbarten Katalog
-genannt sind.
+Millionen und ab dem Jahr 2030 jährlich mindestens 2 Millionen Fälle
+erfasst werden. Fälle, die mit Kurzzeitfallpauschalen im Sinne des
+§ 17b Absatz 2a Satz 1 des Krankenhausfinanzierungsgesetzes vergütet
+werden, sind in die vorgegebenen Fallzahlen einzubeziehen. Die
+Vertragsparteien nach Absatz 1 Satz 1 beauftragen das Institut für das
+Entgeltsystem im Krankenhaus und das in § 87 Absatz 3b Satz 1 genannte
+Institut gemeinsam bis zum 15. Februar eines jeden Kalenderjahres,
+die Auswahl der Leistungen nach Absatz 1 Satz 1 Nummer 2 zu überprüfen
+und einen Vorschlag zur Anpassung der Leistungsauswahl vorzulegen.
+Bei der Überprüfung und Anpassung nach Satz 1 können auch Leistungen
+ausgewählt werden, die nicht in dem nach § 115b Absatz 1 Satz 1 Nummer
+1 vereinbarten Katalog genannt sind.
 
 (3) Zur Erbringung der nach Absatz 1 Satz 1 Nummer 2 vereinbarten
 oder durch Entscheidung nach Absatz 4 Satz 2 oder Satz 5 bestimmten
@@ -18589,7 +18795,7 @@ die Leistungen zu bereinigen, die Bestandteil der Fallpauschale nach
 Absatz 1 Satz 2 sind.
 
 (4) Kommt eine Beauftragung nach Absatz 1 Satz 7, Absatz 1a Satz 3,
-Absatz 2 Satz 3 oder Absatz 5 Satz 1 nicht fristgerecht zustande,
+Absatz 2 Satz 4 oder Absatz 5 Satz 1 nicht fristgerecht zustande,
 erfolgt die jeweilige Beauftragung durch das Bundesministerium für
 Gesundheit. Kommt eine Vereinbarung nach Absatz 1 Satz 9 oder Absatz
 1a Satz 4 oder eine Anpassung nach Absatz 2 Satz 1 ganz oder teilweise
@@ -19540,7 +19746,7 @@ ermächtigten Krankenhausärzte, die in stationären Pflegeeinrichtungen
 erbrachten ambulanten ärztlichen Leistungen von nach § 119b Absatz
 1 Satz 4 ermächtigten Ärzten, ambulante ärztliche Leistungen, die in
 ermächtigten Einrichtungen erbracht werden, und Leistungen, die im
-Rahmen einer Inanspruchnahme nach § 27b Absatz 3 Nummer 4 oder nach §
+Rahmen einer Inanspruchnahme nach § 27b Absatz 4 Nummer 4 oder nach §
 75 Absatz 1b Satz 2, § 76 Absatz 1 Satz 2 oder Absatz 1a, § 115 Absatz
 2 Satz 1 Nummer 3 sowie nach § 87 Absatz 2a Satz 14 erbracht werden,
 werden nach den für Vertragsärzte geltenden Grundsätzen aus der
@@ -19594,15 +19800,15 @@ den Weiterbildungsambulanzen, den Krankenhäusern oder den sie
 vertretenden Vereinigungen im Land vereinbart; die Höhe der
 Vergütung für die Leistungen der jeweiligen Hochschulambulanz gilt
 auch für andere Krankenkassen im Inland, wenn deren Versicherte
-durch diese Hochschulambulanz behandelt werden. Sie muss die
-Leistungsfähigkeit der in Satz 1 genannten Leistungserbringer bei
-wirtschaftlicher Betriebsführung gewährleisten. Bei der Vergütung
-der Leistungen der Hochschulambulanzen sind die Grundsätze nach
-Absatz 3 Satz 4 erstmals bis zum 1. Juli 2017 und danach jeweils
-innerhalb von sechs Monaten nach Inkrafttreten der Anpassung
-der Grundsätze nach Absatz 3 Satz 4 zu berücksichtigen. Bei den
-Vergütungsvereinbarungen für Hochschulambulanzen nach Satz 2
-sind Vereinbarungen nach Absatz 1a Satz 1 zu berücksichtigen.
+durch diese Hochschulambulanz behandelt werden; § 71 Absatz 1 bis
+3 gilt. Sie muss die Leistungsfähigkeit der in Satz 1 genannten
+Leistungserbringer bei wirtschaftlicher Betriebsführung gewährleisten.
+Bei der Vergütung der Leistungen der Hochschulambulanzen sind die
+Grundsätze nach Absatz 3 Satz 4 erstmals bis zum 1. Juli 2017 und
+danach jeweils innerhalb von sechs Monaten nach Inkrafttreten der
+Anpassung der Grundsätze nach Absatz 3 Satz 4 zu berücksichtigen.
+Bei den Vergütungsvereinbarungen für Hochschulambulanzen nach Satz
+2 sind Vereinbarungen nach Absatz 1a Satz 1 zu berücksichtigen.
 Als Bestandteil der Vereinbarung nach Satz 2 ist eine Vergütung
 für die telemedizinische Erbringung von Leistungen durch die
 Einrichtungen nach Satz 1 festzulegen. Abweichend von den Sätzen
@@ -20036,7 +20242,7 @@ zu berücksichtigen:
 3.  die durchschnittlichen laufenden Kosten für den Betrieb der
     Heilmittelpraxis.
 
-§ 71 findet keine Anwendung.
+§ 71 Absatz 1 bis 3 gilt.
 
 (4) Die Vertragspartner nach Absatz 1 sollen eine gemeinsame
 Empfehlung zur Ausgestaltung einer barrierefreien Praxis abgeben.
@@ -20176,6 +20382,16 @@ regeln:
 7.  Vorgaben zur Information des Arztes durch den Heilmittelerbringer
     über die erfolgte Behandlung sowie zur Notwendigkeit eines erneuten
     Arztkontaktes.
+
+Eine Pauschale, die mit der Abgeltung einer besonderen
+Versorgungsverantwortung begründet wird, die über die Analyse
+des therapeutischen Bedarfs oder die therapeutische Diagnostik
+hinausgeht, darf nicht in den Verträgen nach Absatz 1 vereinbart
+werden. Sofern Verträge eine solche Pauschale enthalten und eine
+Heilmittelversorgung, für die die Pauschale nach den vertraglichen
+Vereinbarungen abgerechnet werden kann, vor dem 30. Juli 2026 bereits
+begonnen hat, wird die Pauschale durch die jeweilige Krankenkasse
+vergütet.
 
 (3) Kommt ein Vertrag nach Absatz 1 ganz oder teilweise nicht zustande
 und kann mindestens einer der Vertragspartner intensive Bemühungen
@@ -20362,34 +20578,35 @@ Leistungserbringern oder Verbänden oder sonstigen Zusammenschlüssen
 der Leistungserbringer über die Einzelheiten der Versorgung mit
 Hilfsmitteln, deren Wiedereinsatz, die Qualität der Hilfsmittel
 und zusätzlich zu erbringender Leistungen, die Anforderungen an die
-Fortbildung der Leistungserbringer, die Preise und die Abrechnung.
-Darüber hinaus können die Vertragsparteien in den Verträgen nach Satz
-1 auch einen Ausgleich der Kosten für erhöhte Hygienemaßnahmen infolge
-der COVID-19-Pandemie vereinbaren. Dabei haben Krankenkassen, ihre
-Landesverbände oder Arbeitsgemeinschaften jedem Leistungserbringer
-oder Verband oder sonstigen Zusammenschlüssen der Leistungserbringer
-Vertragsverhandlungen zu ermöglichen. In den Verträgen nach Satz 1
-sind eine hinreichende Anzahl an mehrkostenfreien Hilfsmitteln, die
-Qualität der Hilfsmittel, die notwendige Beratung der Versicherten
-und die sonstigen zusätzlichen Leistungen im Sinne des § 33 Absatz
-1 Satz 5 sicherzustellen und ist für eine wohnortnahe Versorgung
-der Versicherten zu sorgen. Den Verträgen sind mindestens die im
-Hilfsmittelverzeichnis nach § 139 Absatz 2 festgelegten Anforderungen
-an die Qualität der Versorgung und Produkte zugrunde zu legen. Die
-Absicht, über die Versorgung mit bestimmten Hilfsmitteln Verträge
-zu schließen, ist auf einem geeigneten Portal der Europäischen Union
-oder mittels einem vergleichbaren unionsweit publizierenden Medium
-unionsweit öffentlich bekannt zu machen. Der Spitzenverband Bund
-der Krankenkassen legt bis zum 30. September 2020 ein einheitliches,
-verbindliches Verfahren zur unionsweiten Bekanntmachung der Absicht,
-über die Versorgung mit bestimmten Hilfsmitteln Verträge zu schließen,
-fest. Über die Inhalte abgeschlossener Verträge einschließlich
-der Vertragspartner sind andere Leistungserbringer auf Nachfrage
-unverzüglich zu informieren. Werden nach Abschluss des Vertrages die
-Anforderungen an die Qualität der Versorgung und der Produkte nach
-§ 139 Absatz 2 durch Fortschreibung des Hilfsmittelverzeichnisses
-verändert, liegt darin eine wesentliche Änderung der Verhältnisse, die
-die Vertragsparteien zur Vertragsanpassung oder Kündigung berechtigt.
+Fortbildung der Leistungserbringer, die Preise und die Abrechnung; §
+71 Absatz 1 bis 3 gilt. Darüber hinaus können die Vertragsparteien in
+den Verträgen nach Satz 1 auch einen Ausgleich der Kosten für erhöhte
+Hygienemaßnahmen infolge der COVID-19-Pandemie vereinbaren. Dabei
+haben Krankenkassen, ihre Landesverbände oder Arbeitsgemeinschaften
+jedem Leistungserbringer oder Verband oder sonstigen Zusammenschlüssen
+der Leistungserbringer Vertragsverhandlungen zu ermöglichen.
+In den Verträgen nach Satz 1 sind eine hinreichende Anzahl an
+mehrkostenfreien Hilfsmitteln, die Qualität der Hilfsmittel, die
+notwendige Beratung der Versicherten und die sonstigen zusätzlichen
+Leistungen im Sinne des § 33 Absatz 1 Satz 5 sicherzustellen und
+ist für eine wohnortnahe Versorgung der Versicherten zu sorgen.
+Den Verträgen sind mindestens die im Hilfsmittelverzeichnis nach
+§ 139 Absatz 2 festgelegten Anforderungen an die Qualität der
+Versorgung und Produkte zugrunde zu legen. Die Absicht, über die
+Versorgung mit bestimmten Hilfsmitteln Verträge zu schließen, ist
+auf einem geeigneten Portal der Europäischen Union oder mittels einem
+vergleichbaren unionsweit publizierenden Medium unionsweit öffentlich
+bekannt zu machen. Der Spitzenverband Bund der Krankenkassen legt
+bis zum 30. September 2020 ein einheitliches, verbindliches Verfahren
+zur unionsweiten Bekanntmachung der Absicht, über die Versorgung mit
+bestimmten Hilfsmitteln Verträge zu schließen, fest. Über die Inhalte
+abgeschlossener Verträge einschließlich der Vertragspartner sind
+andere Leistungserbringer auf Nachfrage unverzüglich zu informieren.
+Werden nach Abschluss des Vertrages die Anforderungen an die
+Qualität der Versorgung und der Produkte nach § 139 Absatz 2 durch
+Fortschreibung des Hilfsmittelverzeichnisses verändert, liegt darin
+eine wesentliche Änderung der Verhältnisse, die die Vertragsparteien
+zur Vertragsanpassung oder Kündigung berechtigt.
 
 (1a) Im Fall der Nichteinigung wird der streitige Inhalt der
 Verträge nach Absatz 1 auf Anruf einer der Verhandlungspartner
@@ -20422,6 +20639,20 @@ Vertragsinhalt oder von der Schiedsperson festgelegte einzelne
 Bestimmungen des Vertrages gelten bis zur gerichtlichen Ersetzung oder
 gerichtlichen Feststellung der Unbilligkeit weiter.
 
+(1b) Für jede Hilfsmittelversorgung nach § 33, die im Zeitraum vom
+1\. Januar 2027 bis zum 31. Dezember 2028 begonnen wurde, dürfen
+Leistungserbringer nur einen Preis abrechnen, der um drei Prozent im
+Vergleich zu dem nach den Absätzen 1 oder 3 vertraglich vereinbarten
+Preis gemindert ist. Eine Versorgung gilt als begonnen, sobald
+der Leistungserbringer nach Vorliegen der leistungsrechtlichen
+Voraussetzungen mit der auf die konkrete versicherte Person
+bezogenen Versorgungstätigkeit begonnen hat. Bei fortlaufenden oder
+wiederkehrenden Versorgungen gilt jede einzelne Leistungserbringung
+oder Einzellieferung als gesonderte Versorgung, für die nur ein
+nach Satz 1 geminderter Preis abgerechnet werden darf, sofern die
+gesonderte Versorgung in dem in Satz 1 genannten Zeitraum begonnen
+wurde.
+
 (2) Den Verträgen nach Absatz 1 Satz 1 können Leistungserbringer
 zu den gleichen Bedingungen als Vertragspartner beitreten, soweit
 sie nicht auf Grund bestehender Verträge bereits zur Versorgung der
@@ -20442,9 +20673,31 @@ Satz 2, 4 und 5 gilt entsprechend. Sie kann vorher auch bei anderen
 Leistungserbringern in pseudonymisierter Form Preisangebote einholen.
 In den Fällen des § 33 Abs. 1 Satz 5 gilt Satz 1 entsprechend.
 
-(4) Für Hilfsmittel, für die ein Festbetrag festgesetzt wurde, können
-in den Verträgen nach den Absätzen 1 und 3 Preise höchstens bis zur
-Höhe des Festbetrags vereinbart werden.
+(4) Sofern für die Versorgung mit Hilfsmitteln ein Festbetrag nach
+§ 36 Absatz 2 festgesetzt wurde, ist dieser den Preisverhandlungen
+nach Absatz 1 oder dem Schiedsverfahren nach Absatz 1a zugrunde zu
+legen. Die für die Versorgung mit diesen Hilfsmitteln nach Absatz
+1 vereinbarten oder nach Absatz 1a festgesetzten Preise dürfen den
+jeweiligen zum Beginn der Vertragsverhandlungen geltenden Festbetrag
+in begründeten Fällen wie folgt über- oder unterschreiten:
+
+1.  um bis zu 15 Prozent, wenn der Festbetrag noch nicht nach § 36 Absatz
+    4 Satz 9 angepasst wurde,
+
+2.  um bis zu 15 Prozent, wenn der Festbetrag auf Antrag der
+    maßgeblichen Spitzenorganisationen der betroffenen Hersteller
+    und Leistungserbringer auf Bundesebene nach § 36 Absatz 4 Satz 10
+    überprüft wird, und
+
+3.  in allen anderen Fällen um bis zu 10 Prozent.
+
+Eine Über- oder Unterschreitung nach Satz 2 ist begründet, wenn
+Besonderheiten der jeweiligen Versorgung, der Versorgungsstruktur oder
+der vertraglich vereinbarten Leistungen eine Abweichung vom Festbetrag
+sachlich rechtfertigen. Dies ist insbesondere dann der Fall, wenn
+besondere Versorgungs-, Qualitäts- oder Serviceleistungen erprobt
+oder sichergestellt werden sollen und durch deren Erprobung oder
+Sicherstellung die Qualität der Versorgung verbessert werden kann.
 
 (5) Die Leistungserbringer haben die Versicherten vor Inanspruchnahme
 der Leistung zu beraten, welche Hilfsmittel und zusätzlichen
@@ -21376,18 +21629,83 @@ wird durch eine erneute Preissenkung gegenüber dem am 1. August 2009
 geltenden Abgabepreis des pharmazeutischen Unternehmers gemindert;
 Satz 4 gilt entsprechend.
 
-(1b) Abweichend von Absatz 1 Satz 1 erhalten die Krankenkassen
-von Apotheken für zu ihren Lasten abgegebene Arzneimittel vom 1.
-Januar 2023 bis zum 31. Dezember 2023 einen Abschlag in Höhe von
-12 Prozent des Abgabepreises des pharmazeutischen Unternehmers
-ohne Mehrwertsteuer. Ist der Abschlag nach Absatz 1 Satz 1
-in einer Erstattungsbetragsvereinbarung nach § 130b abgelöst
-worden, erhalten die Krankenkassen von Apotheken einen Abschlag
-in Höhe von 5 Prozent des Abgabepreises des pharmazeutischen
-Unternehmers ohne Mehrwertsteuer. Die Abschläge nach den Sätzen
-1 und 2 können durch eine ab dem 12. November 2022 abgeschlossene
-Erstattungsbetragsvereinbarung nach § 130b abgelöst werden, sofern
-dies ausdrücklich vereinbart ist.
+(1b) Ab dem 1. Januar 2027 erhalten die Krankenkassen von
+Apotheken für zu ihren Lasten abgegebene Arzneimittel einen
+zusätzlichen Abschlag in Höhe von 8,5 Prozent des Abgabepreises des
+pharmazeutischen Unternehmers ohne Mehrwertsteuer. Satz 1 gilt für die
+in Absatz 1 Satz 6 und 7 genannten Arzneimittel mit Ausnahme von
+
+1.  in Absatz 3b Satz 1 genannten Arzneimitteln,
+
+2.  patentfreien, im Wesentlichen gleichen biotechnologisch hergestellten
+    biologischen Arzneimitteln einschließlich ihres biologischen
+    Referenzarzneimittels,
+
+3.  Arzneimitteln, für die ein Festbetrag nach § 35 Absatz 3 Satz 1
+    festgesetzt ist,
+
+4.  patentfreien Arzneimitteln mit versorgungskritischen Wirkstoffen, die
+    in der nach § 52b Absatz 3c Satz 1 des Arzneimittelgesetzes erstellten
+    Liste aufgeführt sind,
+
+5.  patentfreien Arzneimitteln zur Behandlung von Kindern, die in der nach
+    § 35 Absatz 5a Satz 1 erstellten Liste aufgeführt sind,
+
+6.  Arzneimitteln, die nach Absatz 3c Satz 3 oder 13 vom Abschlag nach
+    Absatz 3a befreit sind,
+
+7.  Reserveantibiotika, hinsichtlich derer der Gemeinsame Bundesausschuss
+    eine Freistellung nach § 35a Absatz 1c Satz 1 beschlossen hat, und
+
+8.  Arzneimitteln, die nach Absatz 1c vom Abschlag nach Satz 1 befreit
+    sind.
+
+Absatz 1 Satz 3 bis 5, 7 und 8 gilt entsprechend. Der Abschlag
+nach Satz 1 kann durch eine ab dem 30. Juli 2026 abgeschlossene
+Vereinbarung nach § 130b abgelöst werden, sofern dies ausdrücklich
+vereinbart ist.
+
+(1c) Für Arzneimittel mit neuen Wirkstoffen, die ab dem 1. Januar
+2027 erstmals in Verkehr gebracht werden, können pharmazeutische
+Unternehmer beim Bundesinstitut für Arzneimittel und Medizinprodukte
+eine Befreiung vom Abschlag nach Absatz 1b Satz 1 beantragen.
+Die Befreiung ist zu erteilen, wenn die klinischen Prüfungen des
+Arzneimittels zu einem relevanten Anteil im Geltungsbereich dieses
+Gesetzes durchgeführt wurden. Ein relevanter Anteil klinischer
+Prüfungen im Sinne von Satz 2 setzt voraus, dass der Anteil
+der Prüfungsteilnehmer an den vom pharmazeutischen Unternehmer
+durchgeführten oder in Auftrag gegebenen klinischen Prüfungen des
+Arzneimittels, die an Prüfstellen im Geltungsbereich dieses Gesetzes
+teilgenommen haben, an der Gesamtzahl der Prüfungsteilnehmer
+mindestens 5 Prozent beträgt. Der Antrag auf Befreiung kann frühestens
+nach dem Antrag auf Zulassung des Arzneimittels gestellt werden. Der
+Antrag auf Befreiung ist elektronisch zu übermitteln, zu begründen
+und ihm sind Nachweise und Belege beizufügen, aus denen hervorgeht,
+dass die in Satz 2 genannte Voraussetzung vorliegt. Das Bundesinstitut
+für Arzneimittel und Medizinprodukte legt die Art der erforderlichen
+Nachweise und Belege, das Verfahren und die Formatvorlagen für die
+elektronische Übermittlung der Anträge im Einvernehmen mit dem Paul-
+Ehrlich-Institut fest und gibt diese auf seiner Internetseite bekannt.
+Das Bundesinstitut für Arzneimittel und Medizinprodukte entscheidet
+über den Antrag innerhalb von drei Monaten nach dessen Eingang. Sofern
+ein Arzneimittel im Zuständigkeitsbereich des Paul-Ehrlich-Instituts
+betroffen ist, erfolgt die Entscheidung im Einvernehmen mit dem Paul-
+Ehrlich-Institut. Die Befreiung gilt ab Bekanntgabe der Entscheidung
+des Bundesinstituts für Arzneimittel und Medizinprodukte, frühestens
+jedoch ab dem erstmaligen Inverkehrbringen des Arzneimittels. Sie
+erlischt nach drei Jahren, es sei denn, sie wird vom Bundesinstitut
+für Arzneimittel und Medizinprodukte verlängert. Eine Verlängerung
+ist auf Antrag zu erteilen, wenn die in Satz 2 genannte Voraussetzung
+weiterhin vorliegt. Der Antrag auf Verlängerung kann frühestens
+30 Monate und spätestens 32 Monate nach dem Geltungsbeginn der
+Befreiung oder nach dem Geltungsbeginn einer vorangegangenen
+Verlängerung gestellt werden. Die Sätze 5 bis 10 gelten entsprechend.
+Ein Vorverfahren findet bei Klagen gegen Entscheidungen des
+Bundesinstituts für Arzneimittel und Medizinprodukte nach Satz 7,
+auch in Verbindung mit Satz 13, nicht statt.Das Bundesinstitut für
+Arzneimittel und Medizinprodukte erteilt dem Spitzenverband Bund der
+Krankenkassen auf Antrag Auskunft zu erteilten Befreiungen und deren
+Geltungszeiträumen.
 
 (2) Die Krankenkassen erhalten von den Apotheken für die zu ihren
 Lasten abgegebenen Impfstoffe für Schutzimpfungen nach § 20i einen
@@ -21415,57 +21733,56 @@ dem entsprechenden Apothekenabgabepreis abzüglich des Abschlags nach
 Satz 1 entspricht.
 
 (3) Die Absätze 1, 1a, 1b und 2 gelten nicht für Arzneimittel, für die
-ein Festbetrag auf Grund des § 35 festgesetzt ist.
+ein Festbetrag nach § 35 Absatz 3 Satz 1 festgesetzt ist.
 
 (3a) Erhöht sich der Abgabepreis des pharmazeutischen Unternehmers
 ohne Mehrwertsteuer gegenüber dem Preisstand am 1. August 2009,
 erhalten die Krankenkassen für die zu ihren Lasten abgegebenen
-Arzneimittel ab dem 1. August 2010 bis zum 31. Dezember 2026 einen
-Abschlag in Höhe des Betrages der Preiserhöhung; dies gilt nicht für
-Arzneimittel, für die ein Festbetrag auf Grund des § 35 festgesetzt
-ist. Zur Berechnung des Abschlags nach Satz 1 ist der Preisstand
-vom 1. August 2009 erstmalig am 1. Juli 2018 und jeweils am 1. Juli
-der Folgejahre um den Betrag anzuheben, der sich aus der Veränderung
-des vom Statistischen Bundesamt festgelegten Verbraucherpreisindex
-für Deutschland im Vergleich zum Vorjahr ergibt. Für Arzneimittel,
-die nach dem 1. August 2010 in den Markt eingeführt werden, gilt
-Satz 1 mit der Maßgabe, dass der Preisstand der Markteinführung
-Anwendung findet. Bei Neueinführungen eines Arzneimittels, für das
-der pharmazeutische Unternehmer bereits ein Arzneimittel mit gleichem
-Wirkstoff und vergleichbarer Darreichungsform in Verkehr gebracht
-hat, ist der Abschlag auf Grundlage des Preises je Mengeneinheit
-der Packung zu berechnen, die dem neuen Arzneimittel in Bezug auf
-die Packungsgröße unter Berücksichtigung der Wirkstärke am nächsten
-kommt; dies gilt nicht für die Neueinführung eines Immunglobulins
-menschlicher Herkunft, für das nach dem 31. Dezember 2018 eine
-Zulassung nach § 25 Absatz 1 des Arzneimittelgesetzes oder eine
-Genehmigung für das Inverkehrbringen nach Artikel 3 Absatz 1 oder
-Absatz 2 der Verordnung (EG) Nr. 726/2004 erteilt wurde, mit Ausnahme
-der Zulassung von anderen Stärken oder Ausbietungen. Satz 4 gilt
-entsprechend bei Änderungen zu den Angaben des pharmazeutischen
-Unternehmers oder zum Mitvertrieb durch einen anderen pharmazeutischen
-Unternehmer. Für importierte Arzneimittel, die nach § 129 Absatz
-1 Satz 1 Nummer 2 abgegeben werden, gilt abweichend von Satz 1 ein
-Abrechnungsbetrag von höchstens dem Betrag, welcher entsprechend
-den Vorgaben des § 129 Absatz 1 Satz 1 Nummer 2 niedriger ist als
-der Arzneimittelabgabepreis des Bezugsarzneimittels einschließlich
-Mehrwertsteuer, unter Berücksichtigung von Abschlägen für das
-Bezugsarzneimittel aufgrund dieser Vorschrift. Abschläge nach den
-Absätzen 1, 1a, 1b und 3b werden zusätzlich zu dem Abschlag nach
-den Sätzen 1 bis 5 erhoben. Rabattbeträge, die auf Preiserhöhungen
+Arzneimittel ab dem 1. August 2010 bis zum 31. Dezember 2030 einen
+Abschlag in Höhe des Betrages der Preiserhöhung; dies gilt nicht
+für Arzneimittel, für die ein Festbetrag nach § 35 Absatz 3 Satz
+1 festgesetzt ist. Zur Berechnung des Abschlags nach Satz 1 ist
+der Preisstand vom 1. August 2009 erstmalig am 1. Juli 2018 und
+jeweils am 1. Juli der Folgejahre um den Betrag anzuheben, der sich
+aus der Veränderung des vom Statistischen Bundesamt festgelegten
+Verbraucherpreisindex für Deutschland im Vergleich zum Vorjahr
+ergibt. Für Arzneimittel, die nach dem 1. August 2010 in den Markt
+eingeführt werden, gilt Satz 1 mit der Maßgabe, dass der Preisstand
+der Markteinführung Anwendung findet. Bei Neueinführungen eines
+Arzneimittels, für das der pharmazeutische Unternehmer bereits
+ein Arzneimittel mit gleichem Wirkstoff und vergleichbarer
+Darreichungsform in Verkehr gebracht hat, ist der Abschlag auf
+Grundlage des Preises je Mengeneinheit der Packung zu berechnen,
+die dem neuen Arzneimittel in Bezug auf die Packungsgröße unter
+Berücksichtigung der Wirkstärke am nächsten kommt; dies gilt nicht
+für die Neueinführung eines Immunglobulins menschlicher Herkunft, für
+das nach dem 31. Dezember 2018 eine Zulassung nach § 25 Absatz 1 des
+Arzneimittelgesetzes oder eine Genehmigung für das Inverkehrbringen
+nach Artikel 3 Absatz 1 oder Absatz 2 der Verordnung (EG) Nr. 726/2004
+erteilt wurde, mit Ausnahme der Zulassung von anderen Stärken oder
+Ausbietungen. Satz 4 gilt entsprechend bei Änderungen zu den Angaben
+des pharmazeutischen Unternehmers oder zum Mitvertrieb durch einen
+anderen pharmazeutischen Unternehmer. Für importierte Arzneimittel,
+die nach § 129 Absatz 1 Satz 1 Nummer 2 abgegeben werden, gilt
+abweichend von Satz 1 ein Abrechnungsbetrag von höchstens dem Betrag,
+welcher entsprechend den Vorgaben des § 129 Absatz 1 Satz 1 Nummer 2
+niedriger ist als der Arzneimittelabgabepreis des Bezugsarzneimittels
+einschließlich Mehrwertsteuer, unter Berücksichtigung von Abschlägen
+für das Bezugsarzneimittel aufgrund dieser Vorschrift. Abschläge nach
+den Absätzen 1, 1a, 1b und 3b werden zusätzlich zu dem Abschlag nach
+den Sätzen 1 bis 6 erhoben. Rabattbeträge, die auf Preiserhöhungen
 nach den Absätzen 1, 1b und 3b zu gewähren sind, vermindern den
 Abschlag nach den Sätzen 1 bis 6 entsprechend. Für die Abrechnung
-des Abschlags nach den Sätzen 1 bis 6 gelten die Absätze 1, 5 bis 7
-und 9 entsprechend. Absatz 4 findet Anwendung. Das Nähere regelt der
-Spitzenverband Bund der Krankenkassen ab dem 13. Mai 2017 im Benehmen
-mit den für die Wahrnehmung der wirtschaftlichen Interessen gebildeten
-maßgeblichen Spitzenorganisationen der pharmazeutischen Unternehmer
-auf Bundesebene. Der Abschlag nach Satz 1 gilt entsprechend für
-Arzneimittel, die nach § 129a abgegeben werden; Absatz 1 Satz 7
-gilt entsprechend. Für Arzneimittel zur spezifischen Therapie von
-Gerinnungsstörungen bei Hämophilie gilt Satz 1 mit der Maßgabe,
-dass der Preisstand des 1. September 2020 Anwendung findet. Der
-Spitzenverband Bund der Krankenkassen hat dem Bundesministerium
+des Abschlags nach den Sätzen 1 bis 6 gilt Absatz 1 entsprechend. Das
+Nähere regelt der Spitzenverband Bund der Krankenkassen ab dem 13.
+Mai 2017 im Benehmen mit den für die Wahrnehmung der wirtschaftlichen
+Interessen gebildeten maßgeblichen Spitzenorganisationen der
+pharmazeutischen Unternehmer auf Bundesebene. Der Abschlag nach Satz 1
+gilt entsprechend für Arzneimittel, die nach § 129a abgegeben werden;
+Absatz 1 Satz 7 gilt entsprechend. Für Arzneimittel zur spezifischen
+Therapie von Gerinnungsstörungen bei Hämophilie gilt Satz 1 mit der
+Maßgabe, dass der Preisstand des 1. September 2020 Anwendung findet.
+Der Spitzenverband Bund der Krankenkassen hat dem Bundesministerium
 für Gesundheit bis zum 31. Dezember 2023 einen Bericht über die
 Auswirkungen von Satz 4 zweiter Halbsatz vorzulegen.
 
@@ -21593,19 +21910,75 @@ von Absatz 3a der Preisstand als Basispreis aus dem um 50 Prozent
 angehobenen zuletzt geltenden Preisstand gemäß Absatz 3a. Die Sätze 1
 bis 5 finden ab dem 1. Februar 2024 Anwendung.
 
+(3e) Erhöht sich der Abgabepreis des pharmazeutischen Unternehmers
+oder sonstigen Herstellers ohne Mehrwertsteuer gegenüber dem
+Preisstand am 1. Januar 2026, erhalten die Krankenkassen für die zu
+ihren Lasten abgegebenen Verbandmittel und sonstigen Produkte zur
+Wundbehandlung ab dem 1. Januar 2027 bis zum 31. Dezember 2030 einen
+Abschlag in Höhe des Betrages der Preiserhöhung. Zur Berechnung
+des Abschlags nach Satz 1 ist der Preisstand vom 1. Januar 2026
+erstmals am 1. Juli 2028 und jeweils am 1. Juli der Folgejahre um den
+Betrag anzuheben, der sich aus der Veränderung des vom Statistischen
+Bundesamt festgelegten Verbraucherpreisindex für Deutschland im
+Vergleich zum Vorjahr ergibt. Für Verbandmittel und sonstige Produkte
+zur Wundbehandlung, die erstmals nach dem 1. Januar 2026 in den Markt
+eingeführt werden, gilt Satz 1 mit der Maßgabe, dass der Preisstand
+der Markteinführung Anwendung findet. Bei Neueinführungen eines
+Verbandmittels oder eines sonstigen Produktes zur Wundbehandlung, für
+das der pharmazeutische Unternehmer oder sonstige Hersteller bereits
+ein Produkt mit gleichem Wirkstoff in Verkehr gebracht hat, ist der
+Abschlag auf Grundlage des Preises je Wundflächeneinheit der Packung
+zu berechnen, die dem neuen Produkt in Bezug auf die Gesamtwundfläche
+der Packung am nächsten kommt. Das Nähere regelt der Spitzenverband
+Bund der Krankenkassen erstmals bis zum 30. November 2026. Die Absätze
+6 und 7 gelten entsprechend.
+
+(3f) Erhöht sich der Abgabepreis des pharmazeutischen Unternehmers
+ohne Mehrwertsteuer gegenüber dem Preisstand am 1. Juni 2026, erhalten
+die Krankenkassen für die zu ihren Lasten abgegebenen Impfstoffe für
+Schutzimpfungen nach § 20i, für die Patentschutz oder Unterlagenschutz
+besteht, ab dem 1. Januar 2027 bis zum 31. Dezember 2030 einen
+Abschlag in Höhe des Betrages der Preiserhöhung. Zur Berechnung des
+Abschlags nach Satz 1 ist der Preisstand vom 1. Juni 2026 erstmals
+am 1. Juli 2028 und jeweils am 1. Juli der Folgejahre um den Betrag
+anzuheben, der sich aus der Veränderung des vom Statistischen
+Bundesamt festgelegten Verbraucherpreisindex für Deutschland im
+Vergleich zum Vorjahr ergibt. Für Impfstoffe die erstmals nach dem
+1\. Juni 2026 in den Markt eingeführt werden und für die Patentschutz
+oder Unterlagenschutz besteht, gilt Satz 1 mit der Maßgabe, dass der
+Preisstand der Markteinführung Anwendung findet. Bei Neueinführungen
+eines Impfstoffes, für den Patenschutz oder Unterlagenschutz besteht
+und für den der pharmazeutische Unternehmer bereits einen Impfstoff
+mit gleicher Zusammensetzung in Verkehr gebracht hat, ist der Abschlag
+auf Grundlage des Preises je Mengeneinheit der Packung zu berechnen,
+die dem neuen Impfstoff in Bezug auf die Packungsgröße am nächsten
+kommt. Satz 4 gilt entsprechend bei Änderungen zu den Angaben des
+pharmazeutischen Unternehmers oder zum Mitvertrieb durch einen anderen
+pharmazeutischen Unternehmer. Für importierte Impfstoffe, für die
+Patentschutz oder Unterlagenschutz besteht und die nach § 129 Absatz
+1 Satz 1 Nummer 2 abgegeben werden, gilt abweichend von Satz 1 ein
+Abrechnungsbetrag von höchstens dem Betrag, der entsprechend den
+Vorgaben des § 129 Absatz 1 Satz 1 Nummer 2 niedriger ist als der
+Abgabepreis des Bezugsimpfstoffes einschließlich Mehrwertsteuer,
+unter Berücksichtigung von Abschlägen für den Bezugsimpfstoff aufgrund
+dieser Vorschrift. Abschläge nach Absatz 2 werden zusätzlich zu
+dem Abschlag nach den Sätzen 1 bis 6 erhoben. Für die Abrechnung
+des Abschlags nach den Sätzen 1 bis 6 gilt Absatz 1 Satz 3 bis
+5 entsprechend. Absatz 4 findet Anwendung. Das Nähere regelt der
+Spitzenverband Bund der Krankenkassen erstmals bis zum 30. November
+2026\.
+
 (4) Das Bundesministerium für Gesundheit hat nach einer Überprüfung
-der Erforderlichkeit der Abschläge nach den Absätzen 1, 1a, 1b
-und 3a nach Maßgabe des Artikels 4 der Richtlinie 89/105/EWG
-des Rates vom 21. Dezember 1988 betreffend die Transparenz von
-Maßnahmen zur Regelung der Preisfestsetzung bei Arzneimitteln für
-den menschlichen Gebrauch und ihre Einbeziehung in die staatlichen
-Krankenversicherungssysteme die Abschläge durch Rechtsverordnung mit
-Zustimmung des Bundesrates aufzuheben oder zu verringern, wenn und
-soweit diese nach der gesamtwirtschaftlichen Lage, einschließlich
-ihrer Auswirkung auf die gesetzliche Krankenversicherung, nicht mehr
-gerechtfertigt sind. Über Anträge pharmazeutischer Unternehmer nach
-Artikel 4 der in Satz 1 genannten Richtlinie auf Ausnahme von den nach
-den Absätzen 1, 1a, 1b und 3a vorgesehenen Abschlägen entscheidet das
+der Erforderlichkeit der Abschläge nach den Absätzen 1, 1a, 1b, 3a,
+3e und 3f nach Maßgabe oder in entsprechender Anwendung des Artikels
+4 der Richtlinie 89/105/EWG in der Fassung vom 21. Dezember 1988
+die Abschläge durch Rechtsverordnung mit Zustimmung des Bundesrates
+aufzuheben oder zu verringern, wenn und soweit diese nach der
+gesamtwirtschaftlichen Lage, einschließlich ihrer Auswirkung auf
+die gesetzliche Krankenversicherung, nicht mehr gerechtfertigt sind.
+Über Anträge pharmazeutischer Unternehmer nach Artikel 4 der in
+Satz 1 genannten Richtlinie auf Ausnahme von den nach den Absätzen
+1, 1a, 1b, 3a, 3e und 3f vorgesehenen Abschlägen entscheidet das
 Bundesministerium für Gesundheit. Das Vorliegen eines Ausnahmefalls
 und der besonderen Gründe sind im Antrag hinreichend darzulegen. § 34
 Absatz 6 Satz 3 bis 5 und 7 gilt entsprechend. Das Bundesministerium
@@ -21619,8 +21992,8 @@ Gesundheit kann die Aufgaben nach den Sätzen 2 bis 7 auf eine
 Bundesoberbehörde übertragen.
 
 (5) Der pharmazeutische Unternehmer kann berechtigte Ansprüche auf
-Rückzahlung der Abschläge nach den Absätzen 1, 1a, 1b, 2, 3a und 3b
-gegenüber der begünstigten Krankenkasse geltend machen.
+Rückzahlung der Abschläge nach den Absätzen 1, 1a, 1b, 2, 3a, 3b, 3e
+und 3f gegenüber der begünstigten Krankenkasse geltend machen.
 
 (6) Zum Nachweis des Abschlags übermitteln die Apotheken die
 Arzneimittelkennzeichen über die abgegebenen Arzneimittel sowie
@@ -21783,14 +22156,14 @@ und einheitlich geschlossen werden. Absatz 8 Satz 2 bis 9 gilt
 entsprechend. In den Vereinbarungen nach Satz 1 ist die Sicherstellung
 einer bedarfsgerechten Versorgung der Versicherten zu berücksichtigen.
 
-(9) Pharmazeutische Unternehmer können einen Antrag nach Absatz 4 Satz
-2 auch für ein Arzneimittel stellen, das zur Behandlung eines seltenen
-Leidens nach der Verordnung (EG) Nr. 141/2000 des Europäischen
-Parlaments und des Rates vom 16. Dezember 1999 zugelassen ist. Dem
-Antrag ist stattzugeben, wenn der Antragsteller nachweist, dass durch
-einen Abschlag nach den Absätzen 1, 1a, 1b und 3a seine Aufwendungen
-insbesondere für Forschung und Entwicklung für das Arzneimittel nicht
-mehr finanziert werden.
+(9) Pharmazeutische Unternehmer können einen Antrag nach Absatz
+4 Satz 2 auch für ein Arzneimittel stellen, das zur Behandlung
+eines seltenen Leidens nach der Verordnung (EG) Nr. 141/2000 des
+Europäischen Parlaments und des Rates vom 16. Dezember 1999 zugelassen
+ist. Dem Antrag ist stattzugeben, wenn der Antragsteller nachweist,
+dass durch einen Abschlag nach den Absätzen 1, 1a, 1b, 3a und 3f
+seine Aufwendungen insbesondere für Forschung und Entwicklung für das
+Arzneimittel nicht mehr finanziert werden.
 
 
 #### § 130b Vereinbarungen zwischen dem Spitzenverband Bund der Krankenkassen und pharmazeutischen Unternehmern über Erstattungsbeträge für Arzneimittel
@@ -21814,15 +22187,93 @@ vertraulich.
 
 (1a) Bei einer Vereinbarung nach Absatz 1 müssen mengenbezogene
 Aspekte, wie eine mengenbezogene Staffelung oder ein jährliches
-Gesamtvolumen, vereinbart werden. Eine Vereinbarung nach Absatz 1
-muss das Gesamtausgabenvolumen des Arzneimittels unter Beachtung
-seines Stellenwerts in der Versorgung berücksichtigen. Dies kann
-eine Begrenzung des packungsbezogenen Erstattungsbetrags oder
-die Berücksichtigung mengenbezogener Aspekte erforderlich machen.
-Das Nähere zur Abwicklung solcher Vereinbarungen, insbesondere
-im Verhältnis zu den Krankenkassen und im Hinblick auf deren
-Mitwirkungspflichten, regelt der Spitzenverband Bund der Krankenkassen
-in seiner Satzung.
+Gesamtvolumen, vereinbart und das Gesamtausgabenvolumen des
+Arzneimittels unter Beachtung seines Stellenwerts in der Versorgung
+berücksichtigt werden (Preis-Mengen-Regelung). Gegenstand einer
+Preis-Mengen-Regelung kann insbesondere eine Begrenzung des
+packungsbezogenen Erstattungsbetrags sein. Wird in einer Vereinbarung
+nach Absatz 1 keine Preis-Mengen-Regelung vereinbart, gilt
+vorbehaltlich der nachträglichen Vereinbarung einer solchen eine
+Anpassung des Erstattungsbetrags nach Maßgabe der Sätze 5 bis 16 als
+vereinbart. Die Schiedsstelle nach Absatz 5 darf eine abweichende
+Preis-Mengen-Regelung nur mit Zustimmung der Vertragsparteien
+festsetzen. Der Erstattungsbetrag ist jährlich, erstmals ab dem
+vierten Jahr nach dem erstmaligen Inverkehrbringen eines Arzneimittels
+mit dem Wirkstoff, anzupassen. Zur Anpassung wird der vereinbarte
+oder festgesetzte Erstattungsbetrag um einen Rabattsatz geändert. Der
+Rabattsatz in Prozent ist die Summe aus
+
+1.  dem Produkt von 1,7 Prozent und dem Quotienten aus
+
+    a)  der Differenz zwischen dem Gesamtausgabenvolumen des Arzneimittels im
+        Vorjahreszeitraum und dem Gesamtausgabenvolumen des Arzneimittels im
+        Referenzjahreszeitraum und
+
+    b)  dem Gesamtausgabenvolumen des Arzneimittels im Vorjahreszeitraum und
+
+2.  dem Produkt von 1,5 Prozent und dem auf die nächstniedrigere ganze
+    Zahl abgerundeten Quotienten aus dem Gesamtausgabenvolumen des
+    Arzneimittels im Vorjahreszeitraum und 100 Millionen Euro.
+
+Ist die Summe negativ, wird der vereinbarte oder festgesetzte
+Erstattungsbetrag nicht geändert. Der Vorjahreszeitraum nach Satz
+7 ist jeweils der Zwölf-Monats-Zeitraum, der mit dem achtzehnten
+Monat vor dem in Satz 5 genannten Zeitpunkt für die Anpassung des
+Erstattungsbetrags beginnt und mit dem siebten Monat vor dem in
+Satz 5 genannten Zeitpunkt für die Anpassung des Erstattungsbetrags
+endet, erstmals der neunzehnte bis dreißigste Monat nach dem
+erstmaligen Inverkehrbringen eines Arzneimittels mit dem Wirkstoff.
+Der Referenzjahreszeitraum nach Satz 7 Nummer 1 Buchstabe a ist der
+siebte bis achtzehnte Monat nach dem erstmaligen Inverkehrbringen
+eines Arzneimittels mit dem Wirkstoff. Das Gesamtausgabenvolumen eines
+Jahreszeitraums ist die Summe der Produkte der jeweiligen Anzahl der
+von Apotheken zu Lasten der Krankenkassen abgerechneten Bezugsgrößen
+des Arzneimittels und dem jeweils geltenden Erstattungsbetrag
+pro Bezugsgröße. Das in den Sätzen 7 und 11 genannte Arzneimittel
+umfasst auch importierte Arzneimittel, die nach § 129 Absatz 1 Satz 1
+Nummer 2 abgegeben werden; dem Arzneimittel gleichgestellt sind alle
+Arzneimittel mit dem gleichen neuen Wirkstoff, für die nach Absatz
+3a Satz 1 der nach Absatz 1 vereinbarte Erstattungsbetrag gilt. Der
+Spitzenverband Bund der Krankenkassen stellt jährlich die Anzahl der
+im Vorjahreszeitraum und der im Referenzjahreszeitraum abgerechneten
+Bezugsgrößen des Arzneimittels anhand der Daten nach § 84 Absatz
+5 fest, ermittelt das Gesamtausgabenvolumen des Arzneimittels im
+Vorjahreszeitraum und im Referenzjahreszeitraum und berechnet die Höhe
+des Rabattsatzes. Führt der berechnete Rabattsatz zu einer Änderung
+des vereinbarten oder festgesetzten Erstattungsbetrags, stellt der
+Spitzenverband Bund der Krankenkassen dem pharmazeutischen Unternehmer
+die Höhe des Rabattsatzes einschließlich der festgestellten
+Bezugsgrößen und der ermittelten Gesamtausgabenvolumina jährlich bis
+zum Ablauf des zweiten Monats vor dem in Satz 5 genannten Zeitpunkt
+für die Anpassung des Erstattungsbetrags, erstmals bis zum Ablauf
+des fünfunddreißigsten Monats nach dem erstmaligen Inverkehrbringen
+eines Arzneimittels mit dem Wirkstoff, zur Verfügung. Der nach Satz
+3 anzupassende Erstattungsbetrag gilt erstmals ab dem spätesten der
+folgenden Zeitpunkte:
+
+1.  ab dem 30. Juli 2026,
+
+2.  ab dem in Satz 5 genannten Zeitpunkt für die erstmalige Anpassung des
+    Erstattungsbetrags,
+
+3.  in den in Absatz 3a Satz 2, 3, 4, 5, 6 oder 8 genannten Fällen ab dem
+    dort jeweils genannten Zeitpunkt,
+
+4.  im Fall einer neuen Vereinbarung nach Absatz 1 aufgrund der Kündigung
+    einer Vereinbarung nach Absatz 1 oder eines Schiedsspruchs nach Absatz
+    4 ab dem Wirksamwerden der neuen Vereinbarung, jedoch spätestens ab
+    dem siebten Monat nach dem Wirksamwerden der Kündigung.
+
+Gilt die Anpassung des Erstattungsbetrags nach Satz 3 erst nach Ablauf
+der in Satz 14 genannten, für den nach Satz 15 erstmals geltenden
+anzupassenden Erstattungsbetrag maßgeblichen Frist als vereinbart,
+stellt der Spitzenverband Bund der Krankenkassen die in Satz 14
+genannten Informationen dem pharmazeutischen Unternehmer unverzüglich
+nach dem Zustandekommen der Vereinbarung nach Absatz 1 oder der
+Festsetzung nach Absatz 4 zur Verfügung. Das Nähere zur Umsetzung
+von Preis-Mengen-Regelungen im Verhältnis zu den Krankenkassen
+insbesondere im Hinblick auf deren Mitwirkungspflichten regelt der
+Spitzenverband Bund der Krankenkassen in seiner Satzung.
 
 (1b) Stehen für ein Arzneimittel keine wirtschaftlichen Packungsgrößen
 für die in der Zulassung genannten Patientengruppen zur Verfügung, die
@@ -21872,76 +22323,48 @@ Arzneimittel, für das eine Bestimmung nach Satz 1 erfolgt ist, ein
 neuer Erstattungsbetrag vereinbart oder festgesetzt, gelten die Sätze
 1 bis 4 entsprechend.
 
-(2) Für Arzneimittel, für die der Gemeinsame Bundesausschuss
-nach § 35a Absatz 3 Satz 1 einen Zusatznutzen festgestellt
-hat, soll eine Vereinbarung nach Absatz 1 vorsehen, dass
-Verordnungen des Arzneimittels von der Prüfungsstelle als bei
-den Wirtschaftlichkeitsprüfungen nach den §§ 106 bis 106c zu
-berücksichtigende Praxisbesonderheiten anerkannt werden, wenn der Arzt
-bei der Verordnung im Einzelfall die dafür vereinbarten Anforderungen
-an die Verordnung eingehalten hat. Diese Anforderungen sind in den
-Programmen zur Verordnung von Arzneimitteln nach § 73 Absatz 9 Satz
-1 zu hinterlegen. Das Nähere ist in den Verträgen nach § 82 Absatz 1
-zu vereinbaren.
+(2) (weggefallen)
 
 (3) Der Erstattungsbetrag ist auf Grundlage des im Beschluss über
 die Nutzenbewertung nach § 35a Absatz 3 festgestellten Ausmaßes
 des Zusatznutzens und dessen Wahrscheinlichkeit nach Absatz 1 zu
-vereinbaren oder nach Absatz 4 festzusetzen. Ist für ein Arzneimittel,
+vereinbaren oder nach Absatz 4 festzusetzen. Für ein Arzneimittel,
 das nach dem Beschluss des Gemeinsamen Bundesausschusses nach § 35a
 Absatz 3 Satz 1 keinen Zusatznutzen hat und keiner Festbetragsgruppe
-zugeordnet werden kann, als zweckmäßige Vergleichstherapie durch
-den Gemeinsamen Bundesausschuss ein Arzneimittel mit einem Wirkstoff
-bestimmt, für den Patentschutz oder Unterlagenschutz besteht, ist
-ein Erstattungsbetrag zu vereinbaren, der zu Jahrestherapiekosten
-führt, die mindestens 10 Prozent unterhalb derjenigen der zweckmäßigen
-Vergleichstherapie liegen. Ist für ein Arzneimittel, das nach
-dem Beschluss des Gemeinsamen Bundesausschusses nach § 35a Absatz
-3 Satz 1 keinen Zusatznutzen hat und keiner Festbetragsgruppe
-zugeordnet werden kann, als zweckmäßige Vergleichstherapie durch
-den Gemeinsamen Bundesausschuss ein Arzneimittel mit einem Wirkstoff
-bestimmt, zu dem Patentschutz und Unterlagenschutz weggefallen sind,
-soll ein Erstattungsbetrag vereinbart werden, der nicht zu höheren
-Jahrestherapiekosten führt als die zweckmäßige Vergleichstherapie. Für
-ein Arzneimittel, für das ein Zusatznutzen nach § 35a Absatz 1 Satz
-5 als nicht belegt gilt, ist ein Erstattungsbetrag zu vereinbaren,
-der zu in angemessenem Umfang geringeren Jahrestherapiekosten
-führt als die durch den Gemeinsamen Bundesausschuss bestimmte
-zweckmäßige Vergleichstherapie; Satz 2 gilt entsprechend. Ist für ein
-Arzneimittel, das nach dem Beschluss des Gemeinsamen Bundesausschusses
-nach § 35a Absatz 3 Satz 1 einen nicht quantifizierbaren
-Zusatznutzen oder einen geringen Zusatznutzen hat, als zweckmäßige
-Vergleichstherapie durch den Gemeinsamen Bundesausschuss ein
-Arzneimittel mit einem Wirkstoff bestimmt, für den Patentschutz oder
-Unterlagenschutz besteht, ist ein Erstattungsbetrag zu vereinbaren,
-der nicht zu höheren Jahrestherapiekosten führt als die zweckmäßige
-Vergleichstherapie. Sind durch den Gemeinsamen Bundesausschuss
-mehrere Alternativen für die zweckmäßige Vergleichstherapie
-bestimmt, ist für die Anwendung der Sätze 2 bis 5 auf die zweckmäßige
-Vergleichstherapie abzustellen, die nach den Jahrestherapiekosten
-die wirtschaftlichste Alternative darstellt. Hat der Gemeinsame
-Bundesausschuss ein Arzneimittel mit einem patentgeschützten
-Wirkstoff, der nicht der Nutzenbewertung nach § 35a unterfällt, als
-zweckmäßige Vergleichstherapie bestimmt, oder findet ein solches
-Arzneimittel gemäß Absatz 9 Satz 3 als vergleichbares Arzneimittel
-Berücksichtigung, ist auf die zum Vergleich heranzuziehenden
-Jahrestherapiekosten des Arzneimittels ein Abschlag in Höhe von 15
-Prozent in Ansatz zu bringen. Für Arzneimittel nach § 35a Absatz
-3b Satz 1 wird der Erstattungsbetrag regelmäßig nach Ablauf der vom
-Gemeinsamen Bundesausschuss gesetzten Frist zur Durchführung einer
-anwendungsbegleitenden Datenerhebung und nach erneutem Beschluss
-über die Nutzenbewertung neu verhandelt. Sofern sich im Fall der
-Arzneimittel, die zur Behandlung eines seltenen Leidens nach der
-Verordnung (EG) Nr. 141/2000 zugelassen sind, anhand der gewonnenen
-Daten keine Quantifizierung des Zusatznutzens belegen lässt, ist
-ein Erstattungsbetrag zu vereinbaren, der in angemessenem Umfang
-zu geringeren Jahrestherapiekosten führt als der zuvor vereinbarte
-Erstattungsbetrag. Der Spitzenverband Bund der Krankenkassen kann
-auch vor Ablauf der vom Gemeinsamen Bundesausschuss gesetzten Frist
-eine Neuverhandlung des Erstattungsbetrags nach Maßgabe der Sätze 8
-und 9 verlangen, wenn der Gemeinsame Bundesausschuss im Rahmen der
-Überprüfung nach § 35a Absatz 3b Satz 10 zu dem Ergebnis kommt, dass
-die Datenerhebung
+zugeordnet werden kann, soll ein Erstattungsbetrag vereinbart
+werden, der nicht zu höheren Jahrestherapiekosten führt als
+die durch den Gemeinsamen Bundesausschuss bestimmte zweckmäßige
+Vergleichstherapie. Für ein Arzneimittel, für das ein Zusatznutzen
+nach § 35a Absatz 1 Satz 5 als nicht belegt gilt, ist ein
+Erstattungsbetrag zu vereinbaren, der zu in angemessenem Umfang
+geringeren Jahrestherapiekosten führt als die durch den Gemeinsamen
+Bundesausschuss bestimmte zweckmäßige Vergleichstherapie. Sind
+durch den Gemeinsamen Bundesausschuss mehrere Alternativen für die
+zweckmäßige Vergleichstherapie bestimmt, ist für die Anwendung der
+Sätze 2 und 3 auf die zweckmäßige Vergleichstherapie abzustellen,
+die nach den Jahrestherapiekosten die wirtschaftlichste Alternative
+darstellt. Hat der Gemeinsame Bundesausschuss ein Arzneimittel mit
+einem patentgeschützten Wirkstoff, der nicht der Nutzenbewertung
+nach § 35a unterfällt, als zweckmäßige Vergleichstherapie bestimmt,
+oder findet ein solches Arzneimittel gemäß Absatz 9 Satz 3 als
+vergleichbares Arzneimittel Berücksichtigung, ist auf die zum
+Vergleich heranzuziehenden Jahrestherapiekosten des Arzneimittels ein
+Abschlag in Höhe von 15 Prozent in Ansatz zu bringen. Für Arzneimittel
+nach § 35a Absatz 3b Satz 1 wird der Erstattungsbetrag regelmäßig
+nach Ablauf der vom Gemeinsamen Bundesausschuss gesetzten Frist zur
+Durchführung einer anwendungsbegleitenden Datenerhebung und nach
+erneutem Beschluss über die Nutzenbewertung neu verhandelt. Sofern
+sich im Fall der Arzneimittel, die zur Behandlung eines seltenen
+Leidens nach der Verordnung (EG) Nr. 141/2000 zugelassen sind,
+anhand der gewonnenen Daten keine Quantifizierung des Zusatznutzens
+belegen lässt, ist ein Erstattungsbetrag zu vereinbaren, der in
+angemessenem Umfang zu geringeren Jahrestherapiekosten führt als
+der zuvor vereinbarte Erstattungsbetrag. Der Spitzenverband Bund der
+Krankenkassen kann auch vor Ablauf der vom Gemeinsamen Bundesausschuss
+gesetzten Frist eine Neuverhandlung des Erstattungsbetrags
+nach Maßgabe der Sätze 6 und 7 verlangen, wenn der Gemeinsame
+Bundesausschuss im Rahmen der Überprüfung nach § 35a Absatz 3b Satz 10
+zu dem Ergebnis kommt, dass die Datenerhebung
 
 1.  nicht durchgeführt werden wird oder nicht durchgeführt werden kann
     oder
@@ -21949,70 +22372,38 @@ die Datenerhebung
 2.  aus sonstigen Gründen keine hinreichenden Belege zur Neubewertung des
     Zusatznutzens erbringen wird.
 
-Für ein Arzneimittel, dessen klinische Prüfungen nach dem Beschluss
-des Gemeinsamen Bundesausschusses nach § 35a Absatz 3 Satz 1 zu einem
-relevanten Anteil im Geltungsbereich dieses Gesetzes durchgeführt
-wurden, finden Satz 2 und 5 keine Anwendung; Satz 3 gilt entsprechend
-für den Fall, dass als zweckmäßige Vergleichstherapie durch den
-Gemeinsamen Bundesausschuss ein Arzneimittel mit einem Wirkstoff
-bestimmt ist, für den Patentschutz oder Unterlagenschutz besteht. Für
-Arzneimittel nach Satz 11, für die ein Erstattungsbetrag vereinbart
-oder festgesetzt wurde, ist die betreffende Vereinbarung oder der
-betreffende Schiedsspruch vom Spitzenverband Bund der Krankenkassen
-nach drei Jahren zu kündigen, es sei denn, der pharmazeutische
-Unternehmer legt 30 Monate nach der Vereinbarung oder dem
-Schiedsspruch Unterlagen vor, die eine Arzneimittelforschungsabteilung
-des Unternehmens und zusätzliche relevante eigene Projekte und
-Kooperationen mit öffentlichen Einrichtungen in präklinischer oder
-klinischer Arzneimittelforschung im Geltungsbereich dieses Gesetzes
-nachweisen. Der Spitzenverband Bund der Krankenkassen stellt innerhalb
-von sieben Tagen ab Vorlage anhand der Unterlagen des pharmazeutischen
-Unternehmers fest, ob die Voraussetzungen für die Kündigung nach Satz
-12 vorliegen. Stellt der Spitzenverband Bund der Krankenkassen fest,
-dass die Voraussetzungen für eine Kündigung nach Satz 12 vorliegen,
-entscheidet die Schiedsstelle nach Absatz 5 innerhalb von weiteren
-sieben Tagen anhand der Unterlagen des pharmazeutischen Unternehmers,
-ob die Voraussetzungen für die Kündigung nach Satz 12 vorliegen; diese
-Entscheidung tritt an die Stelle der Entscheidung des Spitzenverbandes
-Bund der Krankenkassen nach Satz 13. Im Falle einer Kündigung nach
-Satz 12 ist für das betreffende Arzneimittel unverzüglich erneut
-ein Erstattungsbetrag zu vereinbaren, der ab dem Zeitpunkt der
-Kündigung gilt; Satz 11 ist auf diese erneute Vereinbarung des
-Erstattungsbetrags nicht anzuwenden.
-
-(3a) Der nach Absatz 1 vereinbarte Erstattungsbetrag gilt
-einschließlich der Vereinbarungen für die Anerkennung von
-Praxisbesonderheiten nach Absatz 2 für alle Arzneimittel mit dem
-gleichen neuen Wirkstoff, die ab dem 1. Januar 2011 in Verkehr
-gebracht worden sind. Er gilt ab dem siebten Monat nach dem
-erstmaligen Inverkehrbringen eines Arzneimittels mit dem Wirkstoff.
-Wird aufgrund einer Nutzenbewertung nach Zulassung eines neuen
-Anwendungsgebiets ein neuer Erstattungsbetrag vereinbart, gilt dieser
-ab dem siebten Monat nach Zulassung des neuen Anwendungsgebiets.
-Wird aufgrund einer nach § 35a Absatz 1 Satz 12 eingeleiteten
+(3a) Der nach Absatz 1 vereinbarte Erstattungsbetrag gilt für
+alle Arzneimittel mit dem gleichen neuen Wirkstoff, die ab dem 1.
+Januar 2011 in Verkehr gebracht worden sind. Er gilt ab dem siebten
+Monat nach dem erstmaligen Inverkehrbringen eines Arzneimittels
+mit dem Wirkstoff. Wird aufgrund einer Nutzenbewertung nach
+Zulassung eines neuen Anwendungsgebiets ein neuer Erstattungsbetrag
+vereinbart, gilt dieser ab dem siebten Monat nach Zulassung des
+neuen Anwendungsgebiets. Wird aufgrund einer nach § 35a Absatz 1
+Satz 12 eingeleiteten Nutzenbewertung ein neuer Erstattungsbetrag
+vereinbart, gilt dieser ab dem siebten Monat nach Überschreitung der
+Umsatzschwelle. Wird aufgrund einer nach § 35a Absatz 5 eingeleiteten
 Nutzenbewertung ein neuer Erstattungsbetrag vereinbart, gilt dieser
-ab dem siebten Monat nach Überschreitung der Umsatzschwelle. Wird
-aufgrund einer nach § 35a Absatz 5 eingeleiteten Nutzenbewertung ein
-neuer Erstattungsbetrag vereinbart, gilt dieser ab dem siebten Monat
-nach Anforderung der Nachweise durch den Gemeinsamen Bundesausschuss
-gemäß § 35a Absatz 5 Satz 3. In anderen Fällen, in denen aufgrund
-einer Nutzenbewertung nach § 35a ein Erstattungsbetrag vereinbart
-wird, gilt dieser ab dem siebten Monat nach dem die jeweilige
-Nutzenbewertung auslösenden Ereignis. In den Fällen, in denen die
-Geltung des für ein anderes Arzneimittel mit dem gleichen Wirkstoff
-vereinbarten Erstattungsbetrags im Hinblick auf die Versorgung
-nicht sachgerecht wäre oder eine unbillige Härte darstellen würde,
-vereinbart der Spitzenverband Bund der Krankenkassen mit dem
-pharmazeutischen Unternehmer abweichend von Satz 1 insbesondere
+ab dem siebten Monat nach Anforderung der Nachweise durch den
+Gemeinsamen Bundesausschuss gemäß § 35a Absatz 5 Satz 3. In anderen
+Fällen, in denen aufgrund einer Nutzenbewertung nach § 35a ein
+Erstattungsbetrag vereinbart wird, gilt dieser ab dem siebten Monat
+nach dem die jeweilige Nutzenbewertung auslösenden Ereignis. In den
+Fällen, in denen die Geltung des für ein anderes Arzneimittel mit dem
+gleichen Wirkstoff vereinbarten Erstattungsbetrags im Hinblick auf die
+Versorgung nicht sachgerecht wäre oder eine unbillige Härte darstellen
+würde, vereinbart der Spitzenverband Bund der Krankenkassen mit
+dem pharmazeutischen Unternehmer abweichend von Satz 1 insbesondere
 einen eigenen Erstattungsbetrag. Dieser Erstattungsbetrag gilt
 ab dem siebten Monat nach dem erstmaligen Inverkehrbringen eines
-Arzneimittels mit dem Wirkstoff. In den Fällen des Satzes 2, 3, 4,
-5, 6 oder des Satzes 8 ist die Differenz zwischen Erstattungsbetrag
-und dem bis zu dessen Vereinbarung tatsächlich gezahlten Abgabepreis
-einschließlich der zu viel entrichteten Zuschläge nach der
-Arzneimittelpreisverordnung und der zu viel entrichteten Umsatzsteuer
-auszugleichen. Das Nähere, insbesondere zur Abgrenzung der Fälle nach
-Satz 4, ist in der Vereinbarung nach Absatz 9 zu regeln.
+Arzneimittels mit dem Wirkstoff. In den Fällen des Absatzes 1a Satz 15
+oder des Absatzes 3a Satz 2, 3, 4, 5, 6 oder Satz 8 ist die Differenz
+zwischen Erstattungsbetrag und dem bis zu dessen Vereinbarung
+tatsächlich gezahlten Abgabepreis einschließlich der zu viel
+entrichteten Zuschläge nach der Arzneimittelpreisverordnung und der zu
+viel entrichteten Umsatzsteuer auszugleichen. Das Nähere, insbesondere
+zur Abgrenzung der Fälle nach Satz 4, ist in der Vereinbarung nach
+Absatz 9 zu regeln.
 
 (3b) Für ein Reserveantibiotikum, hinsichtlich dessen der Gemeinsame
 Bundesausschuss eine Freistellung nach § 35a Absatz 1c Satz 1
@@ -22035,12 +22426,12 @@ Reserveantibiotikums mit.
 Monaten nach Veröffentlichung des Beschlusses nach § 35a Absatz
 3 oder nach § 35b Absatz 3 zustande, setzt die Schiedsstelle nach
 Absatz 5 den Vertragsinhalt innerhalb von drei Monaten fest. Die
-Schiedsstelle entscheidet unter freier Würdigung aller Umstände
-des Einzelfalls und berücksichtigt dabei die Besonderheiten des
-jeweiligen Therapiegebietes. Der im Schiedsspruch festgelegte
-Erstattungsbetrag gilt ab dem siebten Monat nach dem in Absatz 3a
-Satz 2, 3, 4, 5, 6 oder Satz 8 jeweils genannten Ereignis mit der
-Maßgabe, dass die Differenz zwischen dem von der Schiedsstelle
+Schiedsstelle entscheidet unter freier Würdigung aller Umstände des
+Einzelfalls und berücksichtigt dabei die Besonderheiten des jeweiligen
+Therapiegebietes. Der im Schiedsspruch festgelegte Erstattungsbetrag
+gilt ab dem siebten Monat nach dem in Absatz 1a Satz 15 oder Absatz
+3a Satz 2, 3, 4, 5, 6 oder Satz 8 jeweils genannten Ereignis mit
+der Maßgabe, dass die Differenz zwischen dem von der Schiedsstelle
 festgelegten Erstattungsbetrag und dem tatsächlich gezahlten
 Abgabepreis einschließlich der zu viel entrichteten Zuschläge nach der
 Arzneimittelpreisverordnung und der zu viel entrichteten Umsatzsteuer
@@ -22053,17 +22444,17 @@ entsprechend.
 
 (4a) Im Fall einer Bestimmung nach Absatz 1c ist die Differenz
 zwischen dem tatsächlich gezahlten Abgabepreis und dem
-Erstattungsbetrag einschließlich der zu viel entrichteten Zuschläge
-nach der Arzneimittelpreisverordnung und der zu viel entrichteten
-Umsatzsteuer für den Zeitraum ab dem Zeitpunkt der Geltung des
-Erstattungsbetrags nach Absatz 3a Satz 2, 3, 4, 5, 6 oder Satz
-8 oder nach Absatz 4 Satz 3 auszugleichen. Der pharmazeutische
-Unternehmer hat den Ausgleich nach Satz 1 innerhalb von zehn
-Tagen nach einem entsprechenden Verlangen durch Zahlung an die
-Krankenkasse vorzunehmen. Der pharmazeutische Unternehmer übermittelt
-den Erstattungsbetrag einschließlich der Rabatte nach § 130a,
-den jeweiligen Geltungsbeginn und die jeweilige Geltungsdauer des
-Erstattungsbetrags sowie den nach Satz 1 auszugleichenden Betrag
+Erstattungsbetrag nach Absatz 1a Satz 15, einschließlich der zu
+viel entrichteten Zuschläge nach der Arzneimittelpreisverordnung
+und der zu viel entrichteten Umsatzsteuer für den Zeitraum ab dem
+Zeitpunkt der Geltung des Erstattungsbetrags nach Absatz 3a Satz 2,
+3, 4, 5, 6 oder Satz 8 oder nach Absatz 4 Satz 3 auszugleichen. Der
+pharmazeutische Unternehmer hat den Ausgleich nach Satz 1 innerhalb
+von zehn Tagen nach einem entsprechenden Verlangen durch Zahlung
+an die Krankenkasse vorzunehmen. Der pharmazeutische Unternehmer
+übermittelt den Erstattungsbetrag einschließlich der Rabatte nach §
+130a, den jeweiligen Geltungsbeginn und die jeweilige Geltungsdauer
+des Erstattungsbetrags sowie den nach Satz 1 auszugleichenden Betrag
 unverzüglich nach der Bestimmung und nach Änderungen dieser Angaben
 an jede Krankenkasse und an die zentrale Stelle nach § 2 Satz 1 des
 Gesetzes über Rabatte für Arzneimittel.
@@ -22146,14 +22537,15 @@ der Spitzenverband Bund der Krankenkassen zur Festsetzung eines
 Festbetrags nach § 35 Absatz 3 die Vereinbarung abweichend von Satz 1
 außerordentlich kündigen.
 
-(7a) Für Arzneimittel, für die ein Erstattungsbetrag nach Absatz
-1 vereinbart oder nach Absatz 4 festgesetzt wurde, kann die
-Vereinbarung oder der Schiedsspruch von jeder Vertragspartei bis zum
-1\. Februar 2023 gekündigt werden, auch wenn sich das Arzneimittel im
-Geltungsbereich dieses Gesetzes nicht im Verkehr befindet. Im Fall
-einer Kündigung ist unverzüglich erneut ein Erstattungsbetrag zu
-vereinbaren. Die gekündigte Vereinbarung gilt bis zum Wirksamwerden
-einer neuen Vereinbarung fort.
+(7a) Für Arzneimittel, für die bis zum Ablauf des 29. Juli 2026
+ein Erstattungsbetrag nach Absatz 1 vereinbart oder nach Absatz 4
+festgesetzt wurde, kann die Vereinbarung oder der Schiedsspruch von
+jeder Vertragspartei bis zum Ablauf des 1. Oktober 2026 gekündigt
+werden, auch wenn sich das Arzneimittel im Geltungsbereich dieses
+Gesetzes nicht im Verkehr befindet. Im Fall einer Kündigung ist
+unverzüglich erneut ein Erstattungsbetrag zu vereinbaren. Die
+gekündigte Vereinbarung gilt bis zum Wirksamwerden einer neuen
+Vereinbarung fort.
 
 (8) Nach einem Schiedsspruch nach Absatz 4 kann jede Vertragspartei
 beim Gemeinsamen Bundesausschuss eine Kosten-Nutzen-Bewertung nach
@@ -22328,41 +22720,56 @@ Bundesebene.
 keine aufschiebende Wirkung; ein Vorverfahren findet nicht statt.
 
 
-#### § 130e Kombinationsabschlag
+#### § 130e Rabattverträge für Arzneimittel mit patentgeschützten Wirkstoffen mit therapeutisch vergleichbarer Wirkung
 
-(1) Für alle Arzneimittel mit neuen Wirkstoffen, die in einer
-vom Gemeinsamen Bundesausschuss zuvor nach § 35a Absatz 3 Satz 4
-benannten Kombination eingesetzt und ab dem 2. Mai 2023 zu Lasten
-der Krankenkassen abgegeben werden, erhalten die Krankenkassen
-vom jeweiligen pharmazeutischen Unternehmer einen Abschlag in Höhe
-von 20 Prozent des Abgabepreises des pharmazeutischen Unternehmers
-ohne Mehrwertsteuer. Der Abschlag entfällt mit Wirkung für die
-Zukunft, wenn der Gemeinsame Bundesausschuss nach § 35a Absatz 3
-Satz 1 einen mindestens beträchtlichen Zusatznutzen der Kombination
-von Arzneimitteln festgestellt hat oder nach § 35a Absatz 1d Satz
-1 festgestellt hat, dass die Kombination von Arzneimitteln einen
-mindestens beträchtlichen Zusatznutzen erwarten lässt.
+(1) Krankenkassen oder ihre Verbände können Gruppen von Arzneimitteln
+mit patentgeschützten Wirkstoffen festlegen, die in einem
+Therapiegebiet eine therapeutisch vergleichbare Wirkung haben, und mit
+pharmazeutischen Unternehmen Rabattverträge nach § 130a Absatz 8 oder
+§ 130c für Arzneimittel einer Gruppe vereinbaren. Die Vereinbarungen
+können exklusiv und wirkstoffübergreifend ausgeschrieben werden.
+Vertragsärzte haben aus einer festgelegten Gruppe von Arzneimitteln
+die Arzneimittel zu verordnen, für die Rabattverträge vereinbart
+wurden, es sei denn, im Einzelfall sprechen medizinische Gründe
+dagegen.
 
-(2) Zur Geltendmachung des Abschlags dürfen die Krankenkassen die
-ihnen vorliegenden Abrechnungsdaten versichertenbezogen verarbeiten.
-Das Nähere zur Umsetzung des Abschlags, insbesondere zur Feststellung
-und Abgrenzung abschlagspflichtiger Kombinationseinsätze in den in
-Satz 1 genannten Daten sowie zu Art und Umfang der für die Abrechnung
-des Abschlags notwendigen Nachweise und der Datenübermittlung,
-regelt der Spitzenverband Bund der Krankenkassen im Einvernehmen mit
-den für die Wahrnehmung der wirtschaftlichen Interessen gebildeten
-maßgeblichen Spitzenorganisationen der pharmazeutischen Unternehmer
-auf Bundesebene bis zum 31. Oktober 2023. Kommen die Regelungen
-nach Satz 2 bis zum 31. Oktober 2023 nicht oder nicht vollständig
-zustande, setzt das Bundesministerium für Gesundheit den Inhalt der
-Regelungen fest. Eine Klage gegen die Festsetzung nach Satz 2 hat
-keine aufschiebende Wirkung.
+(2) Verordnungen von Arzneimitteln aus einer nach Absatz 1 Satz
+1 festgelegten Gruppe, für die Rabattverträge nach Absatz 1
+Satz 1 vereinbart wurden, sind von der Prüfungsstelle als bei
+den Wirtschaftlichkeitsprüfungen nach den §§ 106 bis 106c zu
+berücksichtigende Praxisbesonderheiten anzuerkennen. Die in § 106b
+Absatz 1 Satz 1 genannten Vertragspartner können vereinbaren, dass
+Verordnungen nicht rabattierter Arzneimittel aus einer nach Absatz
+1 Satz 1 festgelegten Gruppe, die auch Arzneimittel enthält, für die
+Rabattverträge nach Absatz 1 Satz 1 vereinbart wurden, von Maßnahmen
+nach den §§ 106 bis 106c auszunehmen sind, wenn eine nach § 106b
+Absatz 1 Satz 5 vereinbarte Verordnungsquote für solche Arzneimittel
+der Gruppe, für die Rabattverträge nach Absatz 1 Satz 1 vereinbart
+wurden, erreicht wurde. Das Nähere, auch zur Anerkennung der im
+Einzelfall aus medizinischen Gründen erfolgenden Verordnung nicht
+rabattierter Arzneimittel als wirtschaftlich, vereinbaren die in §
+106b Absatz 1 Satz 1 genannten Vertragspartner.
 
-(3) Die Krankenkassen oder ihre Verbände können mit pharmazeutischen
-Unternehmern unter Beachtung der Regelungen nach Absatz 2 Satz 2
-oder Satz 3 ergänzende Vereinbarungen zur Umsetzung des Abschlags
-treffen. Die in § 130b Absatz 5 Satz 1 genannten Verbände können eine
-Mustervereinbarung für Vereinbarungen nach Satz 1 vereinbaren.
+(3) Bis zum Ablauf des 31. Dezember 2030 sind Festlegungen von Gruppen
+und Vereinbarungen von Rabattverträgen nach Absatz 1 Satz 1 nur
+innerhalb folgender Wirkstoffgruppen zulässig:
+
+1.  Janus-assoziierte Kinase (JAK)-Inhibitoren,
+
+2.  Calcitonin-Gene-Related-Peptide (CGRP)-Antagonisten,
+
+3.  Poly-ADP-Ribose-Polymerase (PARP)-Inhibitoren,
+
+4.  Proproteinkonvertase Subtilisin/Kexin Typ 9 (PCSK9)-Inhibitoren und
+
+5.  Programmed Cell Death-1-Rezeptor/Programmed Cell Death-ligand-1 (PD-1/
+    PD-L1)-Inhibitoren.
+
+(4) Der Spitzenverband Bund der Krankenkassen hat dem
+Bundesministerium für Gesundheit bis zum 31. Juli 2030 einen
+Bericht über die Auswirkungen des § 130e auf die Qualität und
+Wirtschaftlichkeit der Versorgung mit sowie die Auswirkungen auf die
+Ausgaben für Arzneimittel vorzulegen.
 
 
 #### § 131 Rahmenverträge mit pharmazeutischen Unternehmern
@@ -22579,21 +22986,27 @@ vereinbart werden.
 (1) Über Inhalt, Umfang, Vergütung sowie Prüfung der Qualität
 und Wirtschaftlichkeit der Dienstleistungen zur Versorgung mit
 Haushaltshilfe schließen die Krankenkassen Verträge mit geeigneten
-Personen, Einrichtungen oder Unternehmen. Die Bezahlung von Gehältern
-bis zur Höhe tarifvertraglich vereinbarter Vergütungen sowie
-entsprechender Vergütungen nach kirchlichen Arbeitsrechtsregelungen
-kann dabei nicht als unwirtschaftlich abgelehnt werden; insoweit
-gilt § 71 nicht. Der Leistungserbringer ist verpflichtet, die
-entsprechende Bezahlung der Beschäftigten nach Satz 2 jederzeit
-einzuhalten und sie auf Verlangen einer Vertragspartei nachzuweisen.
-Im Fall der Nichteinigung wird der Vertragsinhalt durch eine von den
-Vertragspartnern zu bestimmende unabhängige Schiedsperson festgelegt.
-Einigen sich die Vertragspartner nicht auf eine Schiedsperson, so wird
-diese von der für die Vertrag schließende Krankenkasse zuständigen
-Aufsichtsbehörde bestimmt. Die Kosten des Schiedsverfahrens tragen die
-Vertragsparteien zu gleichen Teilen. Abweichend von Satz 1 kann die
-Krankenkasse zur Gewährung von Haushaltshilfe auch geeignete Personen
-anstellen.
+Personen, Einrichtungen oder Unternehmen. § 71 Absatz 1 bis 3 gilt.
+Für tarifgebundene Einrichtungen oder Unternehmen darf bis zum
+29\. Juli 2028 abweichend von Satz 2 die Bezahlung von Gehältern
+oberhalb der festgestellten durchschnittlichen Veränderungsrate
+nach § 71 Absatz 3 insoweit nicht als unwirtschaftlich abgelehnt
+werden, als die Überschreitung der festgestellten durchschnittlichen
+Veränderungsrate nach § 71 Absatz 3 50 Prozent des Unterschieds
+zwischen der tarifvertraglich vereinbarten Vergütungssteigerung
+und der festgestellten durchschnittlichen Veränderungsrate nach §
+71 Absatz 3 nicht übersteigt. Satz 3 gilt auch für entsprechende
+Vergütungssteigerungen nach kirchlichen Arbeitsrechtsregelungen.
+Auf Verlangen der Krankenkasse ist die Zahlung dieser Vergütungen
+nachzuweisen. Im Fall der Nichteinigung wird der Vertragsinhalt
+durch eine von den Vertragspartnern zu bestimmende unabhängige
+Schiedsperson festgelegt. Einigen sich die Vertragspartner nicht auf
+eine Schiedsperson, so wird diese von der für die Vertrag schließende
+Krankenkasse zuständigen Aufsichtsbehörde bestimmt. Die Kosten des
+Schiedsverfahrens tragen die Vertragsparteien zu gleichen Teilen.
+Abweichend von Satz 1 kann die Krankenkasse zur Gewährung von
+Haushaltshilfe auch geeignete Personen anstellen. § 111 Absatz 5 Satz
+9 gilt entsprechend.
 
 (2) Die Krankenkasse hat darauf zu achten, daß die Leistungen
 wirtschaftlich und preisgünstig erbracht werden. Bei der Auswahl der
@@ -22694,27 +23107,25 @@ gilt entsprechend.
 Leistungserbringer zur Fortbildung schließen die Landesverbände der
 Krankenkassen und die Ersatzkassen gemeinsam und einheitlich Verträge
 mit den Leistungserbringern. Wird die Fortbildung nicht nachgewiesen,
-sind Vergütungsabschläge vorzusehen. Dem Leistungserbringer ist eine
-Frist zu setzen, innerhalb derer er die Fortbildung nachholen kann.
-Erbringt der Leistungserbringer in diesem Zeitraum die Fortbildung
-nicht, ist der Vertrag zu kündigen. Die Krankenkassen haben darauf zu
-achten, dass die Leistungen wirtschaftlich und preisgünstig erbracht
-werden. Verträge dürfen nur mit zuverlässigen Leistungserbringern
-abgeschlossen werden, die die Gewähr für eine leistungsgerechte
-und wirtschaftliche Versorgung bieten. Die Bezahlung von Gehältern
-bis zur Höhe tarifvertraglich vereinbarter Vergütungen sowie
-entsprechender Vergütungen nach kirchlichen Arbeitsrechtsregelungen
-kann dabei nicht als unwirtschaftlich abgelehnt werden; insoweit
-gilt § 71 nicht. Bei nicht tarifgebundenen oder nicht an kirchliche
-Arbeitsrechtsregelungen gebundenen Leistungserbringern gilt § 82c
-Absatz 2 Satz 1 des Elften Buches entsprechend. Eine Bezahlung von
-Gehältern, die ihrer Höhe nach über die Höhe hinausgeht, die nach
-Satz 7 oder Satz 8 in Verbindung mit § 82c Absatz 2 Satz 1 des
-Elften Buches nicht als unwirtschaftlich abgelehnt werden kann,
-kann nicht als unwirtschaftlich abgelehnt werden, wenn für sie ein
-sachlicher Grund besteht. Der Leistungserbringer ist verpflichtet,
-die entsprechende Bezahlung der Beschäftigten nach Satz 7 oder Satz
-8 jederzeit einzuhalten und sie auf Verlangen einer Vertragspartei
+sind Vergütungsabschläge vorzusehen. Dem Leistungserbringer ist
+eine Frist zu setzen, innerhalb derer er die Fortbildung nachholen
+kann. Erbringt der Leistungserbringer in diesem Zeitraum die
+Fortbildung nicht, ist der Vertrag zu kündigen. Die Krankenkassen
+haben darauf zu achten, dass die Leistungen wirtschaftlich und
+preisgünstig erbracht werden. Verträge dürfen nur mit zuverlässigen
+Leistungserbringern abgeschlossen werden, die die Gewähr für eine
+leistungsgerechte und wirtschaftliche Versorgung bieten. § 71 Absatz
+1 bis 3 gilt. Für tarifgebundene Leistungserbringer darf bis zum
+29\. Juli 2028 abweichend von Satz 7 die Bezahlung von Gehältern
+oberhalb der festgestellten durchschnittlichen Veränderungsrate
+nach § 71 Absatz 3 insoweit nicht als unwirtschaftlich abgelehnt
+werden, als die Überschreitung der festgestellten durchschnittlichen
+Veränderungsrate nach § 71 Absatz 3 50 Prozent des Unterschieds
+zwischen der tarifvertraglich vereinbarten Vergütungssteigerung
+und der festgestellten durchschnittlichen Veränderungsrate nach §
+71 Absatz 3 nicht übersteigt. Satz 8 gilt auch für entsprechende
+Vergütungssteigerungen nach kirchlichen Arbeitsrechtsregelungen.
+Auf Verlangen der Krankenkasse ist die Zahlung dieser Vergütungen
 nachzuweisen. Im Fall der Nichteinigung wird der Vertragsinhalt
 durch eine von den Vertragspartnern zu bestimmende unabhängige
 Schiedsperson innerhalb von drei Monaten festgelegt. Einigen sich
@@ -22740,7 +23151,8 @@ Anhörung des Leistungserbringers, welche Maßnahmen zu treffen sind,
 erteilen dem Leistungserbringer hierüber einen Bescheid und setzen
 ihm darin zugleich eine angemessene Frist zur Beseitigung der
 festgestellten Mängel. Abweichend von Satz 1 kann die Krankenkasse zur
-Gewährung von häuslicher Krankenpflege geeignete Personen anstellen.
+Gewährung von häuslicher Krankenpflege geeignete Personen anstellen. §
+111 Absatz 5 Satz 9 gilt entsprechend.
 
 (5) Die Versorgung mit Leistungen der häuslichen Krankenpflege
 in gemeinschaftlichen Wohnformen mit Verträgen zur pflegerischen
@@ -23292,32 +23704,32 @@ mit zuverlässigen Leistungserbringern, die
 4.  außerklinische Intensivpflege an den in § 37c Absatz 2 Satz 1 Nummer 4
     genannten Orten erbringen.
 
-Die Bezahlung von Gehältern bis zur Höhe tarifvertraglich vereinbarter
-Vergütungen sowie entsprechender Vergütungen nach kirchlichen
-Arbeitsrechtsregelungen kann dabei nicht als unwirtschaftlich
-abgelehnt werden. Bei nicht tarifgebundenen oder nicht an kirchliche
-Arbeitsrechtsregelungen gebundenen Leistungserbringern gilt § 82c
-Absatz 2 Satz 1 des Elften Buches entsprechend. Eine Bezahlung
-von Gehältern, die ihrer Höhe nach über die Höhe hinausgehen,
-die nach Satz 2 oder Satz 3 in Verbindung mit § 82c Absatz 2 Satz
-1 des Elften Buches nicht als unwirtschaftlich abgelehnt werden
-kann, kann nicht als unwirtschaftlich abgelehnt werden, wenn für
-sie ein sachlicher Grund besteht. Auf Verlangen der Landesverbände
-der Krankenkassen und der Ersatzkassen oder einer Krankenkasse ist
-die Zahlung der Vergütungen nach Satz 2 oder Satz 3 nachzuweisen.
-Die Leistungserbringer sind verpflichtet, ein einrichtungsinternes
-Qualitätsmanagement durchzuführen, das den Anforderungen des Absatzes
-2 Nummer 4 entspricht, und an Qualitäts- und Abrechnungsprüfungen
-nach § 275b teilzunehmen; § 114 Absatz 2 des Elften Buches bleibt
-unberührt. Soweit bei einer Prüfung nach § 275b Absatz 1 Satz
-1 bis 3 Qualitätsmängel festgestellt werden, entscheiden die
-Landesverbände der Krankenkassen oder die Krankenkassen nach Anhörung
-des Leistungserbringers, welche Maßnahmen zu treffen sind, erteilen
+§ 71 Absatz 1 bis 3 gilt. Für tarifgebundene Leistungserbringer
+darf bis zum 29. Juli 2028 abweichend von Satz 2 die Bezahlung
+von Gehältern oberhalb der festgestellten durchschnittlichen
+Veränderungsrate nach § 71 Absatz 3 insoweit nicht als
+unwirtschaftlich abgelehnt werden, als die Überschreitung der
+festgestellten durchschnittlichen Veränderungsrate nach § 71 Absatz 3
+50 Prozent des Unterschieds zwischen der tarifvertraglich vereinbarten
+Vergütungssteigerung und der festgestellten durchschnittlichen
+Veränderungsrate nach § 71 Absatz 3 nicht übersteigt. Satz 3 gilt
+auch für entsprechende Vergütungssteigerungen nach kirchlichen
+Arbeitsrechtsregelungen. Auf Verlangen der Krankenkasse ist die
+Zahlung dieser Vergütungen nachzuweisen. Die Leistungserbringer
+sind verpflichtet, ein einrichtungsinternes Qualitätsmanagement
+durchzuführen, das den Anforderungen des Absatzes 2 Nummer 4
+entspricht, und an Qualitäts- und Abrechnungsprüfungen nach § 275b
+teilzunehmen; § 114 Absatz 2 des Elften Buches bleibt unberührt.
+Soweit bei einer Prüfung nach § 275b Absatz 1 Satz 1 bis 3
+Qualitätsmängel festgestellt werden, entscheiden die Landesverbände
+der Krankenkassen oder die Krankenkassen nach Anhörung des
+Leistungserbringers, welche Maßnahmen zu treffen sind, erteilen
 dem Leistungserbringer hierüber einen Bescheid und setzen ihm darin
 zugleich eine angemessene Frist zur Beseitigung der festgestellten
 Mängel. Verträge nach § 132a Absatz 4 gelten so lange fort, bis sie
 durch Verträge nach Satz 1 abgelöst werden, längstens jedoch für zwölf
-Monate nach Vereinbarung der Rahmenempfehlungen nach Absatz 1.
+Monate nach Vereinbarung der Rahmenempfehlungen nach Absatz 1. § 111
+Absatz 5 Satz 9 gilt entsprechend.
 
 (6) Im Fall der Nichteinigung wird der Inhalt des Versorgungsvertrages
 nach Absatz 5 durch eine von den Vertragspartnern zu bestimmende
@@ -23375,38 +23787,40 @@ auf Antrag einer Vertragspartei innerhalb von drei Monaten festgelegt.
 (1) Soweit die Entgelte für die Inanspruchnahme von Leistungen
 des Rettungsdienstes und anderer Krankentransporte nicht durch
 landesrechtliche oder kommunalrechtliche Bestimmungen festgelegt
-werden, schließen die Krankenkassen oder ihre Landesverbände Verträge
-über die Vergütung dieser Leistungen unter Beachtung des § 71 Abs. 1
-bis 3 mit dafür geeigneten Einrichtungen oder Unternehmen. Kommt eine
+werden, schließen die Krankenkassen oder ihre Landesverbände
+Verträge über die Vergütung dieser Leistungen mit dafür geeigneten
+Einrichtungen oder Unternehmen; § 71 Absatz 1 bis 3 gilt. Kommt eine
 Vereinbarung nach Satz 1 nicht zu Stande und sieht das Landesrecht
-für diesen Fall eine Festlegung der Vergütungen vor, ist auch bei
-dieser Festlegung § 71 Abs. 1 bis 3 zu beachten. Sie haben dabei die
-Sicherstellung der flächendeckenden rettungsdienstlichen Versorgung
-und die Empfehlungen der Konzertierten Aktion im Gesundheitswesen
-zu berücksichtigen. Die vereinbarten Preise sind Höchstpreise.
-Die Preisvereinbarungen haben sich an möglichst preisgünstigen
-Versorgungsmöglichkeiten auszurichten.
+für diesen Fall eine Festlegung der Vergütungen vor, gilt bei dieser
+Festlegung § 71 Absatz 1 bis 3 entsprechend. Die in Satz 1 genannten
+Vertragspartner haben die Sicherstellung der flächendeckenden
+rettungsdienstlichen Versorgung zu berücksichtigen. Die vereinbarten
+Preise sind Höchstpreise. Die Preisvereinbarungen haben sich an
+möglichst preisgünstigen Versorgungsmöglichkeiten auszurichten.
 
 (2) Werden die Entgelte für die Inanspruchnahme von Leistungen des
 Rettungsdienstes durch landesrechtliche oder kommunalrechtliche
-Bestimmungen festgelegt, können die Krankenkassen ihre
-Leistungspflicht zur Übernahme der Kosten auf Festbeträge an die
-Versicherten in Höhe vergleichbarer wirtschaftlich erbrachter
-Leistungen beschränken, wenn
+Bestimmungen festgelegt, müssen die Krankenkassen ihre
+Leistungspflicht zur Übernahme der Kosten auf Festbeträge in Höhe
+vergleichbarer wirtschaftlich erbrachter Leistungen beschränken, wenn
 
 1.  vor der Entgeltfestsetzung den Krankenkassen oder ihren Verbänden
-    keine Gelegenheit zur Erörterung gegeben wurde,
+    die Entgeltkalkulation nicht vollständig vorgelegt und ihnen keine
+    Gelegenheit zur Erörterung gegeben wurde,
 
 2.  bei der Entgeltbemessung Investitionskosten und Kosten der
     Reservevorhaltung berücksichtigt worden sind, die durch eine über
     die Sicherstellung der Leistungen des Rettungsdienstes hinausgehende
-    öffentliche Aufgabe der Einrichtungen bedingt sind, oder
+    öffentliche Aufgabe der Einrichtungen bedingt sind,
 
 3.  die Leistungserbringung gemessen an den rechtlich vorgegebenen
-    Sicherstellungsverpflichtungen unwirtschaftlich ist.
+    Sicherstellungsverpflichtungen unwirtschaftlich ist oder
 
-(3) Absatz 1 gilt auch für Leistungen des Rettungsdienstes und andere
-Krankentransporte im Rahmen des Personenbeförderungsgesetzes.
+4.  die Entgeltbemessung § 71 Absatz 1 bis 3 entsprechende Vorgaben nicht
+    einhält.
+
+(3) Absatz 1 gilt auch für Fahrten im Rahmen des
+Personenbeförderungsgesetzes.
 
 (4) § 127 Absatz 9 gilt entsprechend.
 
@@ -23418,13 +23832,20 @@ Herstellern digitaler Gesundheitsanwendungen mit Wirkung für alle
 Krankenkassen Vergütungsbeträge für digitale Gesundheitsanwendungen.
 Die Vergütungsbeträge gelten nach dem ersten Jahr nach Aufnahme der
 jeweiligen digitalen Gesundheitsanwendung in das Verzeichnis für
-digitale Gesundheitsanwendungen nach § 139e unabhängig davon, ob die
-Aufnahme in das Verzeichnis für digitale Gesundheitsanwendungen nach
-§ 139e Absatz 3 dauerhaft oder nach § 139e Absatz 4 zur Erprobung
-erfolgt. In der Vereinbarung ist ab dem 1. Januar 2026 festzulegen,
-dass der Anteil erfolgsabhängiger Preisbestandteile mindestens
-20 Prozent des Vergütungsbetrags betragen muss. Die Hersteller
-übermitteln dem Spitzenverband Bund der Krankenkassen
+digitale Gesundheitsanwendungen nach § 139e unabhängig davon, ob
+die Aufnahme in das Verzeichnis für digitale Gesundheitsanwendungen
+nach § 139e Absatz 3 dauerhaft oder nach § 139e Absatz 4 zur
+Erprobung erfolgt. In der Vereinbarung ist ab dem 1. Januar 2026
+festzulegen, dass der Anteil erfolgsabhängiger Preisbestandteile
+mindestens 20 Prozent des Vergütungsbetrags betragen muss. In der
+Vereinbarung ist ab dem 1. Januar 2027 ein an der Abgabemenge der
+jeweiligen digitalen Gesundheitsanwendung orientierter mengenbezogener
+Abschlag von den Vergütungsbeträgen festzulegen. Der Abschlag von
+den Vergütungsbeträgen beträgt mindestens zwei Prozent bei mehr als
+dreitausend Abgaben der jeweiligen digitalen Gesundheitsanwendung
+im Jahr und mindestens dreißig Prozent bei mehr als hunderttausend
+Abgaben der jeweiligen digitalen Gesundheitsanwendung im Jahr. Die
+Hersteller übermitteln dem Spitzenverband Bund der Krankenkassen
 
 1.  die Nachweise nach § 139e Absatz 2 und die Ergebnisse einer Erprobung
     nach § 139e Absatz 4,
@@ -23526,15 +23947,16 @@ Monaten treffen, entsprechend.
 gelten die tatsächlichen Preise der Hersteller von digitalen
 Gesundheitsanwendungen. In der Rahmenvereinbarung nach Absatz 4 ist
 das Nähere zu der Ermittlung der tatsächlichen Preise der Hersteller
-zu regeln. In der Rahmenvereinbarung nach Absatz 4 kann auch Folgendes
+zu regeln. In der Rahmenvereinbarung nach Absatz 4 muss auch Folgendes
 festgelegt werden:
 
 1.  Schwellenwerte für Vergütungsbeträge, unterhalb derer eine dauerhafte
     Vergütung ohne Vereinbarung nach Absatz 1 erfolgt, und
 
-2.  Höchstbeträge für die vorübergehende Vergütung nach Satz 1 für Gruppen
-    vergleichbarer digitaler Gesundheitsanwendungen, auch in Abhängigkeit
-    vom Umfang der Leistungsinanspruchnahme durch Versicherte.
+2.  Höchstbeträge für die vorübergehende Vergütung nach Satz 1 für
+    Gruppen vergleichbarer digitaler Gesundheitsanwendungen zugeordnete
+    digitale Gesundheitsanwendungen, auch in Abhängigkeit vom Umfang der
+    Leistungsinanspruchnahme durch Versicherte.
 
 Höchstbeträge nach Satz 3 Nummer 2 müssen für Gruppen vergleichbarer
 digitaler Gesundheitsanwendungen auch in Abhängigkeit davon festgelegt
@@ -23544,15 +23966,13 @@ nach Satz 3 Nummer 2 für den Fall der vorläufigen Aufnahme in das
 Verzeichnis für digitale Gesundheitsanwendungen zur Erprobung nach
 § 139e Absatz 4 zu vereinbarenden Höchstpreise müssen dabei geringer
 sein als bei einer unmittelbaren dauerhaften Aufnahme nach § 139e
-Absatz 2 und 3. Werden in der Rahmenvereinbarung nach Absatz 4
-für eine Gruppe vergleichbarer digitaler Gesundheitsanwendungen
-keine Höchstbeträge nach Satz 3 Nummer 2 festgelegt, kann das
-Bundesministerium für Gesundheit den Verbänden nach Absatz 3 Satz
-1 eine Frist von drei Monaten zur Festlegung von Höchstbeträgen
-nach Satz 3 Nummer 2 für diese Gruppe vergleichbarer digitaler
-Gesundheitsanwendungen setzen. Kommt eine Festlegung von
-Höchstbeträgen nach Satz 6 nicht in der vom Bundesministerium
-für Gesundheit gesetzten Frist zustande, gilt Absatz 4 Satz 3
+Absatz 2 und 3. In der Rahmenvereinbarung nach Absatz 4 ist auch ein
+Höchstbetrag für die vorübergehende Vergütung nach Satz 1 für solche
+digitalen Gesundheitsanwendungen festzulegen, die keiner Gruppe
+vergleichbarer digitaler Gesundheitsanwendungen zugeordnet werden.
+Als Höchstbetrag nach Satz 6 ist der Mittelwert der nach dem Umfang
+der Leistungsinanspruchnahme durch Versicherte nach Satz 3 Nummer
+2 gewichteten Höchstbeträge festzulegen. Absatz 4 Satz 3 bis 5 gilt
 entsprechend.
 
 (6) In den Festlegungen der Rahmenvereinbarung sind für den Fall der
@@ -23581,13 +24001,12 @@ Hebammen zur Teilnahme an Qualitätssicherungsmaßnahmen sowie über
 die Höhe der Vergütung und die Einzelheiten der Vergütungsabrechnung
 durch die Krankenkassen. Die Vertragspartner haben dabei den Bedarf
 der Versicherten an Hebammenhilfe unter Einbeziehung der in § 24f
-Satz 2 geregelten Wahlfreiheit der Versicherten und deren Qualität,
-den Grundsatz der Beitragssatzstabilität sowie die berechtigten
-wirtschaftlichen Interessen der freiberuflich tätigen Hebammen
-zu berücksichtigen. Bei der Berücksichtigung der wirtschaftlichen
-Interessen der freiberuflich tätigen Hebammen nach Satz 2 sind
-insbesondere Kostensteigerungen zu beachten, die die Berufsausübung
-betreffen.
+Satz 2 geregelten Wahlfreiheit der Versicherten und deren Qualität
+sowie die berechtigten wirtschaftlichen Interessen der freiberuflich
+tätigen Hebammen zu berücksichtigen. § 71 Absatz 1 bis 3 gilt. Bei
+der Berücksichtigung der wirtschaftlichen Interessen der freiberuflich
+tätigen Hebammen nach Satz 2 sind insbesondere Kostensteigerungen zu
+beachten, die die Berufsausübung betreffen.
 
 (1a) Die Vereinbarungen nach Absatz 1 Satz 1 zu den Anforderungen
 an die Qualität der Hebammenhilfe sind bis zum 31. Dezember 2014 zu
@@ -24277,7 +24696,9 @@ Die nach Satz 1 Nummer 2 festgelegten Qualitätskriterien sollen
 den aktuellen Stand der medizinisch-wissenschaftlichen Erkenntnisse
 berücksichtigen und zu einer leitliniengerechten, qualitativ
 hochwertigen und für Patienten sicheren medizinischen Versorgung
-beitragen.
+beitragen. Die Qualitätskriterien nach Satz 1 Nummer 2 Buchstabe
+c haben sich insbesondere auf das ärztliche Personal und das
+Pflegepersonal zu beziehen.
 
 (2) Erbringen Krankenhäuser mindestens eine Leistung aus einer
 Leistungsgruppe, haben sie die für diese Leistungsgruppe maßgeblichen
@@ -25673,13 +26094,16 @@ Antragsteller zur Begründung seines Antrags vorgelegten Unterlagen.
 Beschließt der Gemeinsame Bundesausschuss eine Erprobung, entscheidet
 er im Anschluss an die Erprobung auf der Grundlage der gewonnenen
 Erkenntnisse unverzüglich über eine Richtlinie nach § 135 oder §
-137c. Die Möglichkeit einer Aussetzung des Bewertungsverfahrens im
-Falle des Fehlens noch erforderlicher Erkenntnisse bleibt unberührt.
-Die Kostentragung hinsichtlich der wissenschaftlichen Begleitung
-und Auswertung der Erprobung richtet sich nach Absatz 5 Satz 2
-oder Absatz 6. Wenn der Gemeinsame Bundesausschuss die Durchführung
-einer Erprobung ablehnt, weil er den Nutzen der Methode bereits als
-hinreichend belegt ansieht, gilt Satz 4 entsprechend.
+137c. Die Möglichkeit einer Aussetzung des Bewertungsverfahrens
+im Falle des Fehlens noch erforderlicher Erkenntnisse bleibt
+unberührt. Abweichend von Absatz 5 Satz 2 hat der Antragsteller
+eine unabhängige wissenschaftliche Institution auf eigene Kosten
+mit der wissenschaftlichen Begleitung und Auswertung der Erprobung
+zu beauftragen, es sei denn, er nimmt seinen Antrag zurück oder der
+Gemeinsame Bundesausschuss beschließt eine Beauftragung nach Absatz
+5 Satz 1 und Absatz 6. Wenn der Gemeinsame Bundesausschuss die
+Durchführung einer Erprobung ablehnt, weil er den Nutzen der Methode
+bereits als hinreichend belegt ansieht, gilt Satz 4 entsprechend.
 
 (8) Der Gemeinsame Bundesausschuss berät Hersteller von
 Medizinprodukten und sonstige Unternehmen im Sinne von Absatz 7
@@ -25916,19 +26340,21 @@ fristgerecht vorgelegt worden ist.
 #### § 137h Bewertung neuer Untersuchungs- und Behandlungsmethoden mit Medizinprodukten hoher Risikoklasse
 
 (1) Wird hinsichtlich einer neuen Untersuchungs- oder
-Behandlungsmethode, deren technische Anwendung maßgeblich
-auf dem Einsatz eines Medizinprodukts mit hoher Risikoklasse
-beruht, erstmalig eine Anfrage nach § 6 Absatz 2 Satz 3 des
-Krankenhausentgeltgesetzes gestellt, hat das anfragende Krankenhaus
-im Einvernehmen mit dem Hersteller des Medizinprodukts dem
-Gemeinsamen Bundesausschuss zugleich Informationen über den Stand
-der wissenschaftlichen Erkenntnisse zu dieser Methode sowie zu der
-Anwendung des Medizinprodukts, insbesondere Daten zum klinischen
-Nutzen und vollständige Daten zu durchgeführten klinischen Studien
-mit dem Medizinprodukt, zu übermitteln. Nur wenn die Methode ein
-neues theoretisch-wissenschaftliches Konzept aufweist, erfolgt
-eine Bewertung nach Satz 4. Vor der Bewertung gibt der Gemeinsame
-Bundesausschuss innerhalb von zwei Wochen nach Eingang der
+Behandlungsmethode, die nicht allein maßgeblich auf der Gabe eines
+Arzneimittels beruht, erstmalig eine Anfrage nach § 6 Absatz 2 Satz
+3 des Krankenhausentgeltgesetzes oder nach § 6 Absatz 4 Satz 2 der
+Bundespflegesatzverordnung gestellt, hat das anfragende Krankenhaus
+dem Gemeinsamen Bundesausschuss zugleich Informationen über den Stand
+der wissenschaftlichen Erkenntnisse zu dieser Methode zu übermitteln.
+Sofern die technische Anwendung der Methode maßgeblich auf dem Einsatz
+eines Medizinprodukts beruht, hat die Informationsübermittlung im
+Einvernehmen mit dem Hersteller des Medizinprodukts zu erfolgen; die
+zu übermittelnden Informationen umfassen insbesondere auch die Daten
+zum klinischen Nutzen des Medizinprodukts und vollständige Daten zu
+durchgeführten klinischen Studien mit dem Medizinprodukt. Nur wenn
+die Methode ein neues theoretisch-wissenschaftliches Konzept aufweist,
+erfolgt eine Bewertung nach Satz 5. Vor der Bewertung gibt der
+Gemeinsame Bundesausschuss innerhalb von zwei Wochen nach Eingang der
 Informationen im Wege einer öffentlichen Bekanntmachung im Internet
 allen Krankenhäusern, die eine Erbringung der neuen Untersuchungs-
 oder Behandlungsmethode vorsehen, sowie weiteren betroffenen
@@ -25937,36 +26363,32 @@ weitere Informationen im Sinne von Satz 1 an ihn zu übermitteln.
 Der Gemeinsame Bundesausschuss nimmt auf Grundlage der übermittelten
 Informationen innerhalb von drei Monaten eine Bewertung vor, ob
 
-1.  der Nutzen der Methode unter Anwendung des Medizinprodukts als
-    hinreichend belegt anzusehen ist,
+1.  der Nutzen der Methode als hinreichend belegt anzusehen ist,
 
-2.  die Schädlichkeit oder die Unwirksamkeit der Methode unter Anwendung
-    des Medizinprodukts als belegt anzusehen ist oder
+2.  der Nutzen der Methode zwar als noch nicht hinreichend belegt
+    anzusehen ist, aber die Methode das Potential einer erforderlichen
+    Behandlungsalternative bietet, oder
 
-3.  weder der Nutzen noch die Schädlichkeit oder die Unwirksamkeit der
-    Methode unter Anwendung des Medizinprodukts als belegt anzusehen ist.
+3.  die Methode kein Potential für eine erforderliche
+    Behandlungsalternative bietet, insbesondere weil sie als schädlich
+    oder unwirksam anzusehen ist.
 
-Für den Beschluss des Gemeinsamen Bundesausschusses nach Satz 4 gilt §
+Für den Beschluss des Gemeinsamen Bundesausschusses nach Satz 5 gilt §
 94 Absatz 2 Satz 1 entsprechend. Das Nähere zum Verfahren ist erstmals
-innerhalb von drei Monaten nach Inkrafttreten der Rechtsverordnung
-nach Absatz 2 in der Verfahrensordnung zu regeln. Satz 1 ist erst ab
-dem Zeitpunkt des Inkrafttretens der Verfahrensordnung anzuwenden.
+bis zum 31. Oktober 2026 in der Verfahrensordnung zu regeln. Satz 1
+ist erst ab dem Zeitpunkt des Inkrafttretens der Verfahrensordnung
+anzuwenden.
 
-(2) Medizinprodukte mit hoher Risikoklasse nach Absatz 1 Satz 1
-sind solche, die der Risikoklasse IIb oder III nach Artikel 51 in
-Verbindung mit Anhang VIII der Verordnung (EU) 2017/745 zuzuordnen
-sind und deren Anwendung einen besonders invasiven Charakter aufweist.
-Eine Methode weist ein neues theoretisch-wissenschaftliches Konzept
-im Sinne von Absatz 1 Satz 2 auf, wenn sich ihr Wirkprinzip oder
-ihr Anwendungsgebiet von anderen, in der stationären Versorgung
+(2) Eine Methode weist ein neues theoretisch-wissenschaftliches
+Konzept im Sinne von Absatz 1 Satz 3 auf, wenn sich ihr Wirkprinzip
+oder ihr Anwendungsgebiet von anderen, in der stationären Versorgung
 bereits eingeführten systematischen Herangehensweisen wesentlich
-unterscheidet. Nähere Kriterien zur Bestimmung der in den Sätzen
-1 und 2 genannten Voraussetzungen regelt das Bundesministerium für
-Gesundheit im Benehmen mit dem Bundesministerium für Bildung und
-Forschung erstmals bis zum 31. Dezember 2015 durch Rechtsverordnung
-ohne Zustimmung des Bundesrates.
+unterscheidet. Nähere Kriterien zur Bestimmung der in Satz 1 genannten
+Voraussetzungen regelt das Bundesministerium für Gesundheit im
+Benehmen mit dem Bundesministerium für Bildung und Forschung durch
+Rechtsverordnung ohne Zustimmung des Bundesrates.
 
-(3) Für eine Methode nach Absatz 1 Satz 4 Nummer 1 prüft der
+(3) Für eine Methode nach Absatz 1 Satz 5 Nummer 1 prüft der
 Gemeinsame Bundesausschuss, ob Anforderungen an die Qualität
 der Leistungserbringung nach den §§ 136 bis 136b zu regeln sind.
 Wenn die Methode mit pauschalierten Pflegesätzen nach § 17 Absatz
@@ -25992,16 +26414,18 @@ ermittelte Differenz ist § 15 Absatz 3 des Krankenhausentgeltgesetzes
 oder § 15 Absatz 2 der Bundespflegesatzverordnung entsprechend
 anzuwenden.
 
-(4) Für eine Methode nach Absatz 1 Satz 4 Nummer 3 entscheidet der
-Gemeinsame Bundesausschuss innerhalb von sechs Monaten nach dem
-Beschluss nach Absatz 1 Satz 4 über eine Richtlinie zur Erprobung
-nach § 137e; eine Prüfung des Potentials der Methode erfolgt nicht.
+(4) Für eine Methode nach Absatz 1 Satz 5 Nummer 2 beschließt
+der Gemeinsame Bundesausschuss innerhalb von drei Monaten nach
+dem Beschluss nach Absatz 1 Satz 5 erforderliche Anforderungen an
+die Qualität der Leistungserbringung nach den §§ 136 bis 136b und
+entscheidet innerhalb von sechs Monaten nach dem Beschluss nach
+Absatz 1 Satz 5 über eine Richtlinie zur Erprobung nach § 137e.
 Wenn die Methode mit pauschalierten Pflegesätzen nach § 17 Absatz
 1a des Krankenhausfinanzierungsgesetzes noch nicht sachgerecht
 vergütet werden kann und eine Vereinbarung nach § 6 Absatz 2 Satz
 1 des Krankenhausentgeltgesetzes oder nach § 6 Absatz 4 Satz 1 der
 Bundespflegesatzverordnung nicht innerhalb von drei Monaten nach
-dem Beschluss nach Absatz 1 Satz 4 zustande kommt, ist ihr Inhalt
+dem Beschluss nach Absatz 1 Satz 5 zustande kommt, ist ihr Inhalt
 durch die Schiedsstelle nach § 13 des Krankenhausentgeltgesetzes
 oder nach § 13 der Bundespflegesatzverordnung festzulegen. Der
 Anspruch auf die vereinbarte oder durch die Schiedsstelle festgelegte
@@ -26016,38 +26440,24 @@ nach § 11 des Krankenhausentgeltgesetzes oder nach § 11 der
 Bundespflegesatzverordnung die Differenz zwischen der vereinbarten
 oder durch die Schiedsstelle festgelegten Vergütung und der für die
 Behandlungsfälle bereits gezahlten Vergütung; für die ermittelte
-Differenz ist § 15 Absatz 3 des Krankenhausentgeltgesetzes oder §
-15 Absatz 2 der Bundespflegesatzverordnung entsprechend anzuwenden.
-Die Methode wird im Rahmen der Krankenhausbehandlung zu Lasten der
-Krankenkassen erbracht. Der Gemeinsame Bundesausschuss kann die
-Voraussetzungen für die Abrechnungsfähigkeit des Medizinprodukts
-regeln, das im Rahmen der neuen Untersuchungs- und Behandlungsmethode
-angewendet wird, insbesondere einen befristeten Zeitraum für dessen
-Abrechnungsfähigkeit festlegen. Die betroffenen Hersteller haben
-dem Gemeinsamen Bundesausschuss unverzüglich nach Fertigstellung
-die Sicherheitsberichte nach Artikel 86 der Verordnung (EU) 2017/745
-des Europäischen Parlaments und des Rates vom 5. April 2017 über
-Medizinprodukte, zur Änderung der Richtlinie 2001/83/EG, der
-Verordnung (EG) Nr. 178/2002 und der Verordnung (EG) Nr. 1223/2009
-und zur Aufhebung der Richtlinien 90/385/EWG und 93/42/EWG des
-Rates (ABl. L 117 vom 5.5.2017, S. 1) sowie weitere klinische Daten,
-die sie im Rahmen der ihnen nach Artikel 83 der Verordnung (EU)
-2017/745 obliegenden Überwachung nach dem Inverkehrbringen oder aus
-klinischen Prüfungen nach dem Inverkehrbringen gewonnen haben, zu
-übermitteln. Die Anforderungen an die Erprobung nach § 137e Absatz 2
-haben unter Berücksichtigung der Versorgungsrealität die tatsächliche
-Durchführbarkeit der Erprobung und der Leistungserbringung zu
-gewährleisten. Die Erprobung ist in der Regel innerhalb von zwei
-Jahren abzuschließen, es sei denn, dass auch bei Straffung des
-Verfahrens im Einzelfall eine längere Erprobungszeit erforderlich
-ist. Nach Abschluss der Erprobung oder im Falle einer vorzeitigen
-Beendigung entscheidet der Gemeinsame Bundesausschuss auf Grundlage
-der vorliegenden Erkenntnisse innerhalb von drei Monaten über
-eine Richtlinie nach § 137c. Die Möglichkeit einer Aussetzung
-des Bewertungsverfahrens im Falle des Fehlens noch erforderlicher
-Erkenntnisse bleibt unberührt.
+Differenz ist § 15 Absatz 3 des Krankenhausentgeltgesetzes oder § 15
+Absatz 2 der Bundespflegesatzverordnung entsprechend anzuwenden. Ein
+Entgelt nach § 6 Absatz 2 Satz 1 des Krankenhausentgeltgesetzes oder
+nach § 6 Absatz 4 Satz 1 der Bundespflegesatzverordnung darf für eine
+neue Methode, für die der Gemeinsame Bundesausschuss das Vorliegen des
+Potentials einer erforderlichen Behandlungsalternative nach Absatz 1
+Satz 5 Nummer 2 festgestellt hat, nur vereinbart werden für
 
-(5) Für eine Methode nach Absatz 1 Satz 4 Nummer 2 ist eine
+1.  Hochschulkliniken und
+
+2.  weitere Krankenhäuser, die die nach Satz 1 zu beschließenden
+    Anforderungen an die Qualität der Leistungserbringung erfüllen.
+
+Der Gemeinsame Bundesausschuss regelt das Nähere zum Nachweis der
+Erfüllung dieser Anforderungen in seinen Richtlinien oder Beschlüssen
+nach §§ 136 bis 136b.
+
+(5) Für eine Methode nach Absatz 1 Satz 5 Nummer 3 ist eine
 Vereinbarung nach § 6 Absatz 2 Satz 1 des Krankenhausentgeltgesetzes
 oder nach § 6 Absatz 4 Satz 1 der Bundespflegesatzverordnung
 ausgeschlossen; der Gemeinsame Bundesausschuss entscheidet
@@ -26360,7 +26770,13 @@ können durch die Vereinbarung von Maßnahmen ergänzt werden, die das
 Krankenhaus zur Gewinnung zusätzlichen Pflegepersonals zu ergreifen
 hat. In begründeten Ausnahmefällen können die Vertragsparteien
 nach § 11 des Krankenhausentgeltgesetzes vereinbaren, dass bereits
-vereinbarte Sanktionen ausgesetzt werden.
+vereinbarte Sanktionen ausgesetzt werden. Sanktionen sind so
+auszugestalten, dass ein regelmäßiges Unterschreiten der in der
+Pflegepersonaluntergrenzen-Verordnung festgelegten verbindlichen
+Pflegepersonaluntergrenzen ausgeschlossen wird. Die Vertragsparteien
+nach § 11 des Krankenhausentgeltgesetzes haben die Vereinbarung nach
+Absatz 1 Satz 10 über Sanktionen nach Absatz 4a und 5 dahingehend zu
+überprüfen und anzupassen.
 
 (6) Die Vertragsparteien nach Absatz 1 Satz 1 legen dem Deutschen
 Bundestag über das Bundesministerium für Gesundheit bis zum 31.
@@ -26472,419 +26888,12 @@ Nummer 1 des Krankenhausfinanzierungsgesetzes zu finanzieren, der
 erforderlichenfalls entsprechend zu erhöhen ist.
 
 
-#### § 137k Personalbemessung in der Pflege im Krankenhaus; Verordnungsermächtigung
-
-(1) Die nach § 108 zugelassenen Krankenhäuser sind verpflichtet,
-eine angemessene Personalausstattung vorzuhalten und das für eine
-bedarfsgerechte Pflege am Bett erforderliche Personal sicherzustellen.
-Zu diesem Zweck haben sie nach Maßgabe der Rechtsverordnung nach den
-Absätzen 4 und 5 Folgendes zu ermitteln und an das Institut für das
-Entgeltsystem im Krankenhaus zu übermitteln:
-
-1.  die Anzahl der auf bettenführenden Stationen der somatischen
-    Versorgung von Erwachsenen und Kindern jeweils eingesetzten
-    Pflegekräfte,
-
-2.  den Pflegebedarf auf bettenführenden Stationen der somatischen
-    Versorgung von Erwachsenen und Kindern und
-
-3.  die Anzahl der auf bettenführenden Stationen der somatischen
-    Versorgung von Erwachsenen und Kindern auf Grundlage des Pflegebedarfs
-    einzusetzenden Pflegekräfte.
-
-Sie haben außerdem die Anzahl der eingesetzten Pflegekräfte
-schrittweise an die Anzahl der einzusetzenden Pflegekräfte anzupassen.
-Das Institut für das Entgeltsystem im Krankenhaus übermittelt den
-jeweils zuständigen Landesbehörden jährlich und dem Bundesministerium
-für Gesundheit nach Aufforderung eine Zusammenstellung der Angaben
-nach Satz 2.
-
-(2) Das Bundesministerium für Gesundheit beauftragt spätestens bis
-zum 31. Januar 2023 eine fachlich unabhängige wissenschaftliche
-Einrichtung oder einen Sachverständigen oder eine Sachverständige
-(Auftragnehmer) mit einer mindestens dreimonatigen Erprobung eines im
-Einvernehmen mit dem Bundesministerium für Gesundheit festzulegenden
-Konzepts zur Ermittlung einer angemessenen Personalausstattung auf
-bettenführenden Stationen der nichtintensivmedizinischen somatischen
-Versorgung von Erwachsenen und Kindern sowie der intensivmedizinischen
-somatischen Versorgung von Kindern. Für die Durchführung der
-Erprobung hat der Auftragnehmer eine repräsentative Auswahl an nach
-§ 108 zugelassenen Krankenhäusern zu bestimmen. Die ausgewählten
-Krankenhäuser sind verpflichtet, dem Auftragnehmer folgende Daten
-zu übermitteln:
-
-1.  die Anzahl der in der jeweiligen in Satz 1 genannten bettenführenden
-    Station eingesetzten Pflegekräfte, umgerechnet auf Vollkräfte, und
-
-2.  die Anzahl der in der jeweiligen in Satz 1 genannten bettenführenden
-    Station auf Grundlage des Pflegebedarfs einzusetzenden Pflegekräfte,
-    umgerechnet auf Vollkräfte.
-
-Der Auftragnehmer kann die Form und das Verfahren der
-Datenübermittlung festlegen. Weitere nach § 108 zugelassene
-Krankenhäuser können sich an der Erprobung beteiligen. Der
-Auftragnehmer hat dem Bundesministerium für Gesundheit spätestens
-bis zum 31. August 2023 einen Abschlussbericht über die Ergebnisse
-der Erprobung vorzulegen. Das Bundesministerium für Gesundheit hat
-die Ergebnisse der Erprobung bei Erlass der Rechtsverordnung nach den
-Absätzen 4 und 5 zu berücksichtigen.
-
-(3) Das Bundesministerium für Gesundheit beauftragt spätestens
-bis zum 31. Oktober 2023 einen Auftragnehmer mit der Entwicklung
-und modellhaften Erprobung eines Verfahrens zur Ermittlung einer
-angemessenen Personalausstattung auf bettenführenden Stationen der
-intensivmedizinischen somatischen Versorgung von Erwachsenen. Für die
-Durchführung der Erprobung hat der Auftragnehmer eine repräsentative
-Auswahl an nach § 108 zugelassenen Krankenhäusern zu bestimmen.
-Die ausgewählten Krankenhäuser sind verpflichtet, dem Auftragnehmer
-folgende Daten zu übermitteln:
-
-1.  die Anzahl der in der jeweiligen in Satz 1 genannten bettenführenden
-    Station eingesetzten Pflegekräfte, umgerechnet auf Vollkräfte, und
-
-2.  die Anzahl der in der jeweiligen in Satz 1 genannten bettenführenden
-    Station auf Grundlage des Pflegebedarfs einzusetzenden Pflegekräfte,
-    umgerechnet auf Vollkräfte.
-
-Der Auftragnehmer hat dem Bundesministerium für Gesundheit spätestens
-bis zum 31. August 2024 einen Abschlussbericht über die Ergebnisse
-der Entwicklung und Erprobung vorzulegen. Absatz 2 Satz 4, 5 und 7
-gilt entsprechend.
-
-(4) Das Bundesministerium für Gesundheit kann durch Rechtsverordnung
-mit Zustimmung des Bundesrates im Einvernehmen mit dem
-Bundesministerium der Finanzen, erstmals bis zum 30. November 2023,
-Vorgaben zur Ermittlung der Anzahl der eingesetzten und der auf
-der Grundlage des Pflegebedarfs einzusetzenden Pflegekräfte in der
-unmittelbaren Patientenversorgung von Erwachsenen und Kindern auf
-bettenführenden Stationen der somatischen Versorgung in den nach § 108
-zugelassenen Krankenhäusern erlassen. In der Rechtsverordnung kann das
-Bundesministerium für Gesundheit das Nähere bestimmen
-
-1.  zur Ermittlung des täglichen Pflegebedarfs durch die Festlegung von
-    Pflegekategorien sowie den ihnen zugrunde zu legenden Minutenwerten
-    für die pflegerische Versorgung je Patientin oder Patient,
-
-2.  zur bedarfsgerechten personellen Zusammensetzung des Pflegepersonals
-    auf der Grundlage der beruflichen Qualifikationen des Pflegepersonals,
-
-3.  zu der von den Krankenhäusern standortbezogen zu erfassenden
-
-    a)  Anzahl der in der jeweiligen Station eingesetzten Pflegekräfte,
-        umgerechnet auf Vollkräfte, (Ist-Personalbesetzung) und
-
-    b)  Anzahl der in der jeweiligen Station auf Grundlage des Pflegebedarfs
-        einzusetzenden Pflegekräfte, umgerechnet auf Vollkräfte, (Soll-
-        Personalbesetzung),
-
-4.  zur Übermittlung der von den Krankenhäusern erfassten Daten nach
-    Nummer 3 an das Institut für das Entgeltsystem im Krankenhaus
-    einschließlich der Form und des Verfahrens der Übermittlung,
-
-5.  zur Dokumentation, zum Nachweis und zur Veröffentlichung der von den
-    Krankenhäusern zu erfassenden und zu übermittelnden Daten,
-
-6.  zur Auswertung der von den Krankenhäusern zu erfassenden und zu
-    übermittelnden Daten durch das Institut für das Entgeltsystem im
-    Krankenhaus und
-
-7.  zur Übermittlung nach Absatz 1 Satz 4.
-
-Für den Fall, dass Krankenhäuser ihre in der Verordnung nach Satz
-1 bestimmten Erfassungs- und Übermittlungspflichten nach Satz 2
-Nummer 3 und 4 nicht, nicht vollständig oder nicht rechtzeitig
-erfüllen, haben der Spitzenverband Bund der Krankenkassen und die
-Deutsche Krankenhausgesellschaft im Benehmen mit dem Verband der
-Privaten Krankenversicherung e. V. innerhalb von sechs Monaten nach
-Inkrafttreten der Verordnung nach Satz 1 eine Vereinbarung mit Wirkung
-für die Vertragsparteien nach § 11 des Krankenhausentgeltgesetzes
-über Vergütungsabschläge, ihre Höhe sowie ihre nähere Ausgestaltung zu
-schließen. Kommt eine Vereinbarung nach Satz 3 innerhalb der im Satz
-3 vorgesehenen Frist nicht zustande, trifft die Schiedsstelle nach §
-18a Absatz 6 des Krankenhausfinanzierungsgesetzes ohne Antrag einer
-Vertragspartei nach Satz 3 innerhalb von sechs Wochen die ausstehenden
-Entscheidungen.
-
-(5) Das Bundesministerium für Gesundheit wird ermächtigt, aufgrund
-der in der Rechtsverordnung nach Absatz 4 vorgesehenen Datenerfassung
-zur Festlegung des konkreten erforderlichen Erfüllungsgrads der Soll-
-Personalbesetzung in der Rechtsverordnung nach Absatz 4 mit Zustimmung
-des Bundesrates und im Einvernehmen mit dem Bundesministerium der
-Finanzen Regelungen zu treffen
-
-1.  zur schrittweisen Anpassung der Ist-Personalbesetzung an den konkreten
-    erforderlichen Erfüllungsgrad der Soll-Personalbesetzung durch das
-    Krankenhaus,
-
-2.  zum Nachweis der Anpassung der Ist-Personalbesetzung an den konkreten
-    erforderlichen Erfüllungsgrad der Soll-Personalbesetzung gegenüber dem
-    Institut für das Entgeltsystem im Krankenhaus und
-
-3.  zu Vergütungsabschlägen, wenn ein Krankenhaus es unterlässt,
-
-    a)  die Ist-Personalbesetzung an die Soll-Personalbesetzung anzupassen
-        oder
-
-    b)  die Anpassung der Ist-Personalbesetzung an die Soll-Personalbesetzung
-        nachzuweisen.
-
-(6) Die Mindestvorgaben zur Personalausstattung nach § 136 Absatz
-1 Satz 1 Nummer 2 und § 136a Absatz 2 Satz 2 und Absatz 5 bleiben
-unberührt.
-
-(7) Die notwendigen Aufwendungen des Instituts für das Entgeltsystem
-im Krankenhaus für die Erfüllung der Aufgaben nach dieser Vorschrift
-sind aus dem Zuschlag nach § 17b Absatz 5 Satz 1 Nummer 1 des
-Krankenhausfinanzierungsgesetzes zu finanzieren.
-
-
-#### § 137l Wissenschaftliche Weiterentwicklung der Personalbemessung in der Pflege im Krankenhaus
-
-(1) Die Vertragsparteien auf Bundesebene im Sinne des § 9 Absatz
-1 des Krankenhausentgeltgesetzes stellen im Einvernehmen mit
-dem Bundesministerium für Gesundheit die wissenschaftliche
-Weiterentwicklung der Vorgaben zur Personalbemessung in der Pflege im
-Krankenhaus nach § 137k Absatz 4 sicher, insbesondere im Hinblick auf
-die bedarfsgerechte personelle Zusammensetzung des Pflegepersonals
-auf der Grundlage seiner jeweiligen nach § 137k Absatz 4 Satz 2
-Nummer 2 bestimmten beruflichen Qualifikationen sowie im Hinblick
-auf die standardisierte und digitale Anwendung der Vorgaben nach
-§ 137k Absatz 4. Zudem legen sie Vorschläge zur Personalbemessung
-in der Pflege in Notaufnahmen vor. Die Vertragsparteien nach Satz
-1 legen dem Bundesministerium für Gesundheit die Ergebnisse der
-wissenschaftlichen Weiterentwicklung nach den Sätzen 1 und 2 bis zum
-31\. Dezember 2024 vor. Die Vertragsparteien nach Satz 1 beauftragen
-zur Sicherstellung der Wissenschaftlichkeit der Weiterentwicklung auf
-ihre Kosten fachlich unabhängige wissenschaftliche Einrichtungen oder
-Sachverständige; dabei trägt die Deutsche Krankenhausgesellschaft 50
-Prozent der Kosten, der Spitzenverband Bund der Krankenkassen 46,5
-Prozent der Kosten und der Verband der Privaten Krankenversicherung
-3,5 Prozent der Kosten. Die Mindestvorgaben zur Personalausstattung
-nach § 136a Absatz 2 Satz 2 bleiben unberührt.
-
-(2) Bei der Durchführung des Auftrags nach Absatz 1 Satz 4 sind
-insbesondere der Beauftragte der Bundesregierung für die Belange der
-Patientinnen und Patienten, der Bevollmächtigte der Bundesregierung
-für Pflege, der Deutsche Pflegerat e. V. – DPR, Vertreter der für
-Personalfragen der Krankenhäuser maßgeblichen Gewerkschaften und
-Arbeitgeberverbände, die für die Wahrnehmung der Interessen der
-Patientinnen und Patienten und der Selbsthilfe chronisch kranker
-und behinderter Menschen maßgeblichen Organisationen auf Bundesebene
-sowie die Arbeitsgemeinschaft der Wissenschaftlichen Medizinischen
-Fachgesellschaften e. V. zu beteiligen.
-
-(3) Die Vertragsparteien nach Absatz 1 Satz 1 legen dem
-Bundesministerium für Gesundheit vor der Beauftragung nach Absatz
-1 Satz 4 und spätestens bis zum 31. März 2023 eine Beschreibung des
-Inhalts der Beauftragung sowie einen Zeitplan mit konkreten Zeitzielen
-vor. Die Beauftragung nach Absatz 1 Satz 4 hat spätestens bis zum
-30\. September 2023 zu erfolgen. Die Vertragsparteien nach Absatz
-1 Satz 1 sind verpflichtet, dem Bundesministerium für Gesundheit
-fortlaufend, insbesondere wenn die Umsetzung der Vorgaben nach Absatz
-1 oder die Erreichung der gesetzlich oder in dem Zeitplan nach Satz
-1 festgelegten Zeitziele gefährdet sind, und auf dessen Verlangen
-unverzüglich Auskunft über den Bearbeitungsstand der Entwicklung,
-Erprobung und der Auftragsvergabe sowie über Problembereiche und
-mögliche Lösungen zu geben.
-
-(4) Wird ein gesetzlich oder ein in dem Zeitplan nach Absatz 3 Satz 1
-festgelegtes Zeitziel nicht fristgerecht erreicht und ist deshalb die
-fristgerechte Weiterentwicklung gefährdet, kann das Bundesministerium
-für Gesundheit nach Fristablauf einzelne Verfahrensschritte selbst
-durchführen. Haben sich die Vertragsparteien nach Absatz 1 Satz 1
-bis zum 31. März 2023 nicht über den Inhalt der Beauftragung nach
-Absatz 1 Satz 4 geeinigt oder ist keine Beauftragung innerhalb der in
-Absatz 3 Satz 2 festgelegten Frist erfolgt, kann das Bundesministerium
-für Gesundheit die Beauftragung nach Absatz 1 Satz 4 auf Kosten der
-Vertragsparteien nach Absatz 1 Satz 1 vornehmen.
-
-
-#### § 137m Bemessung des ärztlichen Personals im Krankenhaus; Verordnungsermächtigung
-
-(1) Die zugelassenen Krankenhäuser im Sinne des § 108 sind
-verpflichtet, eine bedarfsgerechte ärztliche Personalausstattung für
-die ärztliche Behandlung im Krankenhaus sicherzustellen. Zu diesem
-Zweck haben sie nach Maßgabe der Verordnung nach Absatz 3 folgende
-Angaben zu ermitteln, zu dokumentieren und in geeigneter Nachweisform
-an das Institut für das Entgeltsystem im Krankenhaus zu übermitteln:
-
-1.  die Anzahl der in Abteilungen der somatischen Versorgung von
-    Erwachsenen und Kindern jeweils eingesetzten Ärztinnen und Ärzte,
-    umgerechnet in Vollkräfte, aufgegliedert nach Weiterbildungsstufen,
-
-2.  den Bedarf an Ärztinnen und Ärzten in Abteilungen der somatischen
-    Versorgung von Erwachsenen und Kindern, aufgegliedert nach
-    Weiterbildungsstufen,
-
-3.  die Anzahl der in Abteilungen der somatischen Versorgung von
-    Erwachsenen und Kindern auf Grundlage des ermittelten Bedarfs
-    einzusetzenden Ärztinnen und Ärzten, umgerechnet in Vollkräfte,
-    aufgegliedert nach Weiterbildungsstufen.
-
-Die Verpflichtung nach Satz 2 Nummer 1 besteht nicht, wenn die Daten
-bereits nach § 21 Absatz 7 Satz 1 des Krankenhausentgeltgesetzes
-übermittelt werden. Die Anzahl der eingesetzten Ärztinnen und Ärzte
-ist an die Anzahl der einzusetzenden Ärztinnen und Ärzte schrittweise
-anzupassen, sofern sie hinter dieser zurückliegt. Das Institut für
-das Entgeltsystem im Krankenhaus wertet die Daten aus und übermittelt
-den jeweils zuständigen Landesbehörden und dem Bundesministerium
-für Gesundheit eine Zusammenstellung der Angaben nach Satz 2. Die
-Datenauswertungen können nach Maßgabe der Verordnung nach Absatz 3
-veröffentlicht werden.
-
-(2) Das Bundesministerium für Gesundheit beauftragt spätestens bis
-zum 31. März 2025 einen Auftragnehmer im Sinne von § 137k Absatz 2
-Satz 1 mit der Erprobung eines in Abstimmung mit der Bundesärztekammer
-durch das Bundesministerium für Gesundheit festzulegenden Konzeptes
-zur Ermittlung einer bedarfsgerechten ärztlichen Personalausstattung
-in Abteilungen der somatischen Versorgung von Erwachsenen und
-Kindern. Im Rahmen der Erprobung sind insbesondere folgende Aspekte
-zu untersuchen:
-
-1.  Tauglichkeit des Konzeptes für eine bundesweite Einführung in
-    verschiedenen Typen von Krankenhäusern und in deren unterschiedlichen
-    Abteilungen,
-
-2.  Qualität der anhand des Konzeptes erhobenen Daten und ihre bundesweite
-    Vergleichbarkeit,
-
-3.  Eignung der anhand des Konzeptes erhobenen Daten zur Einbeziehung als
-    Qualitätskriterium, insbesondere auch im Zusammenhang mit der Vergabe
-    von Leistungsgruppen an Krankenhäuser,
-
-4.  Einführungs- und Nutzungsaufwand des Konzeptes für die Krankenhäuser,
-
-5.  Möglichkeiten einer digitalisierten und automatisierten Datenerhebung,
-    um den Nutzungsaufwand für die Krankenhäuser zu reduzieren.
-
-Für die Durchführung der Erprobung hat der Auftragnehmer eine
-repräsentative Auswahl an zugelassenen Krankenhäusern im Sinne des §
-108 zu bestimmen. Die ausgewählten Krankenhäuser sind verpflichtet,
-sich an der Erprobung aktiv zu beteiligen und dem Auftragnehmer
-folgende Daten zu übermitteln:
-
-1.  die Anzahl der in den jeweiligen in Satz 1 genannten Abteilungen
-    eingesetzten Ärztinnen und Ärzte, umgerechnet auf Vollkräfte, und
-
-2.  die Anzahl der in den jeweiligen in Satz 1 genannten Abteilungen
-    einzusetzenden Ärztinnen und Ärzte, die unter Anwendung des erprobten
-    Instruments ermittelt wurde, umgerechnet auf Vollkräfte.
-
-Absatz 1 Satz 3 gilt entsprechend. Der Auftragnehmer kann Form und
-Verfahren der Datenübermittlung festlegen. Der Auftragnehmer hat
-dem Bundesministerium für Gesundheit spätestens sechs Monate nach
-Erteilung des Zuschlags einen Abschlussbericht über die Ergebnisse
-der Erprobung vorzulegen. Das Institut für das Entgeltsystem im
-Krankenhaus hat dem Auftragnehmer die ihm nach § 21 Absatz 7 Satz
-1 des Krankenhausentgeltgesetzes übermittelten Daten zur Nutzung im
-Rahmen des Auftrags nach Satz 1 in geeigneter Form zu überlassen. Das
-Bundesministerium für Gesundheit hat die Ergebnisse der Erprobung bei
-Erlass der Rechtsverordnung nach Absatz 3 zu berücksichtigen.
-
-(3) Das Bundesministerium für Gesundheit kann durch Rechtsverordnung
-mit Zustimmung des Bundesrates Vorgaben zur Ermittlung der Anzahl
-der in Abteilungen der somatischen Versorgung von Erwachsenen und
-Kindern in zugelassenen Krankenhäusern im Sinne des § 108 jeweils
-eingesetzten und der auf Grundlage des Bedarfs nach Absatz 1 Satz 2
-Nummer 2 in diesen Abteilungen jeweils einzusetzenden Ärztinnen und
-Ärzte erlassen. In der Rechtsverordnung kann das Bundesministerium für
-Gesundheit das Nähere bestimmen
-
-1.  zur Bedarfsermittlung im Hinblick auf Ärztinnen und Ärzte und ihrer
-    Methodik,
-
-2.  zur bedarfsgerechten personellen Zusammensetzung des ärztlichen
-    Personals auf der Grundlage der beruflichen Qualifikationen der
-    Ärztinnen und Ärzte,
-
-3.  zu der von den Krankenhäusern standortbezogen zu erfassenden, nach
-    beruflichen Qualifikationen aufgegliederten
-
-    a)  Ist-Personalbesetzung der Ärztinnen und Ärzte in der jeweiligen
-        Abteilung und
-
-    b)  Soll-Personalbesetzung der Ärztinnen und Ärzte in der jeweiligen
-        Abteilung,
-
-4.  zur Übermittlung der von Krankenhäusern nach Nummer 3 erfassten Daten
-    an das Institut für das Entgeltsystem im Krankenhaus einschließlich
-    der Form und des Verfahrens der Übermittlung,
-
-5.  zu Berichtspflichten gegenüber dem Bundesministerium für Gesundheit,
-
-6.  zur Dokumentation, zum Nachweis und zur Veröffentlichung der von den
-    Krankenhäusern zu erfassenden und zu übermittelnden Daten,
-
-7.  zur Auswertung der von den Krankenhäusern zu erfassenden und zu
-    übermittelnden Daten durch das Institut für das Entgeltsystem im
-    Krankenhaus,
-
-8.  zur Häufigkeit sowie Form und Verfahren der Übermittlung nach Absatz 1
-    Satz 5.
-
-§ 137k Absatz 4 Satz 3 und 4 gilt entsprechend.
-
-(4) Die Mindestvorgaben zur ärztlichen Personalausstattung, die sich
-aus den Richtlinien des Gemeinsamen Bundesausschusses ergeben, bleiben
-unberührt.
-
-(5) § 137k Absatz 7 gilt entsprechend.
-
-
-#### § 137n Kommission für Personalbemessung im Krankenhaus
-
-(1) Die Vertragsparteien auf Bundesebene im Sinne des § 9 Absatz 1
-des Krankenhausentgeltgesetzes richten bis zum 30. September 2025 im
-Einvernehmen mit dem Bundesministerium für Gesundheit eine Kommission
-ein, die Empfehlungen zur Personalbemessung von anderen als den in
-den §§ 137k und 137m genannten Gesundheitsberufen erarbeitet, die im
-Krankenhaus in der unmittelbaren Patientenversorgung tätig sind. Zur
-Koordinierung und Organisation der Arbeit der Kommission richtet der
-Spitzenverband Bund der Krankenkassen eine Geschäftsstelle ein.
-
-(2) Die Kommission setzt sich zusammen aus
-
-1.  einer Vertreterin oder einem Vertreter des Spitzenverbandes Bund der
-    Krankenkassen,
-
-2.  einer Vertreterin oder einem Vertreter der Deutschen
-    Krankenhausgesellschaft,
-
-3.  einer Vertreterin oder einem Vertreter des Verbandes der Privaten
-    Krankenversicherung e. V.,
-
-4.  jeweils drei Vertreterinnen oder Vertretern der jeweiligen
-    Gesundheitsberufe mit Praxiserfahrung und
-
-5.  zwei Vertreterinnen oder Vertretern der einschlägigen Wissenschaft.
-
-Die Mitglieder werden von den in Absatz 1 Satz 1 genannten
-Vertragsparteien für einen Zeitraum von drei Jahren berufen.
-Die Mitglieder werden von den in Absatz 1 Satz 1 genannten
-Vertragsparteien ausgewählt, ihre Berufung erfolgt nach Einholung der
-Zustimmung des Bundesministeriums für Gesundheit.
-
-(3) Die Kommission erarbeitet Empfehlungen zu folgenden Themen:
-
-1.  Ansätzen zur Personalbemessung von den in Absatz 1 Satz 1 genannten
-    Gesundheitsberufen,
-
-2.  der Notwendigkeit der Einführung von Personalbemessungsinstrumenten
-    für die in Absatz 1 Satz 1 genannten Gesundheitsberufe,
-
-3.  Wechselwirkungen und Synergieeffekten zu den Regelungen in den §§
-    137k, 137l und 137m,
-
-4.  dem Erfüllungsaufwand und den Digitalisierungsvoraussetzungen für die
-    Umsetzung der Personalbemessung.
-
-(4) Die in Absatz 1 Satz 1 genannten Vertragsparteien legen dem
-Bundesministerium für Gesundheit bis zum 31. Mai 2025 ein Konzept zur
-Organisation und Arbeitsweise der Kommission samt Geschäftsordnung
-zur Genehmigung vor. In diesem ist auch eine inhaltliche und zeitliche
-Planung der zu erarbeitenden Empfehlungen, auch hinsichtlich der
-unterschiedlichen in Absatz 1 Satz 1 genannten Gesundheitsberufe
-darzulegen.
+#### § 137k Personalausstattung im Krankenhaus
+
+Die zugelassenen Krankenhäuser im Sinne des § 108 sind verpflichtet,
+eine bedarfsgerechte Personalausstattung in Bereichen der
+unmittelbaren Patientenversorgung im Krankenhaus sicherzustellen. Sie
+haben die zu diesem Zweck erforderlichen Maßnahmen zu treffen.
 
 
 #### § 138 Neue Heilmittel
@@ -27567,40 +27576,40 @@ Versorgung zu den sprechstundenfreien Zeiten.
 (2) Die Verträge können Abweichendes von den Vorschriften
 dieses Kapitels, des Krankenhausfinanzierungsgesetzes, des
 Krankenhausentgeltgesetzes sowie den nach diesen Vorschriften
-getroffenen Regelungen beinhalten. Die Verträge können auch
-Abweichendes von den im Dritten Kapitel benannten Leistungen
-beinhalten, soweit sie die in § 11 Absatz 6 genannten Leistungen,
-Leistungen nach den §§ 20i, 25, 26, 27b, 37a und 37b sowie ärztliche
-Leistungen einschließlich neuer Untersuchungs- und Behandlungsmethoden
-betreffen. Die Sätze 1 und 2 gelten insoweit, als über die Eignung
-der Vertragsinhalte als Leistung der gesetzlichen Krankenversicherung
-der Gemeinsame Bundesausschuss nach § 91 im Rahmen der Beschlüsse
-nach § 92 Absatz 1 Satz 2 Nummer 5 oder im Rahmen der Beschlüsse
-nach § 137c Absatz 1 keine ablehnende Entscheidung getroffen hat. Die
-abweichende Regelung muss dem Sinn und der Eigenart der besonderen
-Versorgung entsprechen, sie muss insbesondere darauf ausgerichtet
-sein, die Qualität, die Wirksamkeit und die Wirtschaftlichkeit der
-Versorgung zu verbessern. Wenn Verträge über eine besondere Versorgung
-zur Durchführung von nach § 92a Absatz 1 Satz 1 und 2 geförderten
-neuen Versorgungsformen abgeschlossen werden, gelten die Anforderungen
-an eine besondere Versorgung nach Absatz 1 Satz 1 und 2 und die
-Anforderungen nach Satz 4 als erfüllt. Das gilt auch für Verträge zur
-Fortführung von nach § 92a Absatz 1 Satz 1 und 2 geförderten neuen
-Versorgungsformen oder wesentlicher Teile daraus sowie für Verträge
-zur Übertragung solcher Versorgungsformen in andere Regionen. Für die
-Qualitätsanforderungen zur Durchführung der Verträge gelten die vom
-Gemeinsamen Bundesausschuss sowie die in den Bundesmantelverträgen
-für die Leistungserbringung in der vertragsärztlichen Versorgung
-beschlossenen Anforderungen als Mindestvoraussetzungen entsprechend.
-Gegenstand der Verträge dürfen auch Vereinbarungen sein, die allein
-die Organisation der Versorgung betreffen. Die Partner eines Vertrages
-nach Absatz 1 können sich darauf verständigen, dass Beratungs-,
-Koordinierungs- und Managementleistungen der Leistungserbringer
-und der Krankenkassen zur Versorgung der Versicherten im Rahmen der
-besonderen Versorgung durch die Vertragspartner oder Dritte erbracht
-werden; § 11 Absatz 4 Satz 5 gilt entsprechend. Vereinbarungen über
-zusätzliche Vergütungen für Diagnosen können nicht Gegenstand der
-Verträge sein.
+getroffenen Regelungen beinhalten. § 71 Absatz 1 bis 3 gilt. Die
+Verträge können auch Abweichendes von den im Dritten Kapitel benannten
+Leistungen beinhalten, soweit sie die nach § 11 Absatz 6 in Satzungen
+der Krankenkassen vorsehbaren Leistungen, Leistungen nach den §§ 20i,
+25, 26, 27b, 37a und 37b sowie ärztliche Leistungen einschließlich
+neuer Untersuchungs- und Behandlungsmethoden betreffen. Die Sätze
+1 und 2 gelten insoweit, als über die Eignung der Vertragsinhalte
+als Leistung der gesetzlichen Krankenversicherung der Gemeinsame
+Bundesausschuss nach § 91 im Rahmen der Beschlüsse nach § 92 Absatz
+1 Satz 2 Nummer 5 oder im Rahmen der Beschlüsse nach § 137c Absatz 1
+keine ablehnende Entscheidung getroffen hat. Die abweichende Regelung
+muss dem Sinn und der Eigenart der besonderen Versorgung entsprechen,
+sie muss insbesondere darauf ausgerichtet sein, die Qualität, die
+Wirksamkeit und die Wirtschaftlichkeit der Versorgung zu verbessern.
+Wenn Verträge über eine besondere Versorgung zur Durchführung von
+nach § 92a Absatz 1 Satz 1 und 2 geförderten neuen Versorgungsformen
+abgeschlossen werden, gelten die Anforderungen an eine besondere
+Versorgung nach Absatz 1 Satz 1 und 2 und die Anforderungen nach Satz
+4 als erfüllt. Das gilt auch für Verträge zur Fortführung von nach
+§ 92a Absatz 1 Satz 1 und 2 geförderten neuen Versorgungsformen oder
+wesentlicher Teile daraus sowie für Verträge zur Übertragung solcher
+Versorgungsformen in andere Regionen. Für die Qualitätsanforderungen
+zur Durchführung der Verträge gelten die vom Gemeinsamen
+Bundesausschuss sowie die in den Bundesmantelverträgen für die
+Leistungserbringung in der vertragsärztlichen Versorgung beschlossenen
+Anforderungen als Mindestvoraussetzungen entsprechend. Gegenstand der
+Verträge dürfen auch Vereinbarungen sein, die allein die Organisation
+der Versorgung betreffen. Die Partner eines Vertrages nach Absatz 1
+können sich darauf verständigen, dass Beratungs-, Koordinierungs- und
+Managementleistungen der Leistungserbringer und der Krankenkassen zur
+Versorgung der Versicherten im Rahmen der besonderen Versorgung durch
+die Vertragspartner oder Dritte erbracht werden; § 11 Absatz 4 Satz
+5 gilt entsprechend. Vereinbarungen über zusätzliche Vergütungen für
+Diagnosen können nicht Gegenstand der Verträge sein.
 
 (3) Die Krankenkassen können nach Maßgabe von Absatz 1 Satz 2 Verträge
 abschließen mit:
@@ -29009,7 +29018,7 @@ die Mitgliedschaft bei dieser Krankenkasse bestehen. Die gewählten
 Krankenkassen haben die geschlossene oder insolvente Krankenkasse im
 elektronischen Meldeverfahren unverzüglich über die Wahlentscheidung
 des Mitglieds zu informieren. Mitglieder, bei denen keine zur Meldung
-verpflichtete Stelle besteht, haben der geschlossenen Krankenkasse
+verpflichtete Stelle besteht, haben die geschlossene Krankenkasse
 innerhalb von drei Monaten nach dem in Satz 1 genannten Zeitpunkt über
 die gewählte Krankenkasse zu informieren.
 
@@ -29036,40 +29045,15 @@ erstmals einen Zusatzbeitrag oder erhöht sie ihren Zusatzbeitragssatz,
 kann die Kündigung der Mitgliedschaft abweichend von Satz 1 bis zum
 Ablauf des Monats erklärt werden, für den der Zusatzbeitrag erstmals
 erhoben wird oder für den der Zusatzbeitragssatz erhöht wird; Satz
-4 gilt entsprechend. Die Krankenkasse hat spätestens einen Monat vor
-dem in Satz 6 genannten Zeitpunkt ihre Mitglieder in einem gesonderten
-Schreiben auf das Kündigungsrecht nach Satz 6 und dessen Ausübung,
-auf die Höhe des durchschnittlichen Zusatzbeitragssatzes nach § 242a
-sowie auf die Übersicht des Spitzenverbandes Bund der Krankenkassen
-zu den Zusatzbeitragssätzen der Krankenkassen nach § 242 Absatz 5
-hinzuweisen; überschreitet der neu erhobene Zusatzbeitrag oder der
-erhöhte Zusatzbeitragssatz den durchschnittlichen Zusatzbeitragssatz,
-so sind die Mitglieder auf die Möglichkeit hinzuweisen, in eine
-günstigere Krankenkasse zu wechseln. Kommt die Krankenkasse ihrer
-Hinweispflicht nach Satz 7 gegenüber einem Mitglied verspätet
-nach, gilt eine erfolgte Kündigung als in dem Monat erklärt, für
-den der Zusatzbeitrag erstmalig erhoben wird oder für den der
-Zusatzbeitragssatz erhöht wird; hiervon ausgenommen sind Kündigungen,
-die bis zu dem in Satz 6 genannten Zeitpunkt ausgeübt worden sind.
-Satz 1 gilt nicht, wenn die Kündigung eines Versicherungsberechtigten
-erfolgt, weil die Voraussetzungen einer Versicherung nach § 10 erfüllt
-sind oder wenn die Kündigung erfolgt, weil keine Mitgliedschaft bei
-einer Krankenkasse begründet werden soll. Die Krankenkassen können
-in ihren Satzungen vorsehen, dass die Frist nach Satz 1 nicht gilt,
-wenn eine Mitgliedschaft bei einer anderen Krankenkasse der gleichen
-Kassenart begründet werden soll.
+4 gilt entsprechend. Satz 1 gilt nicht, wenn die Kündigung eines
+Versicherungsberechtigten erfolgt, weil die Voraussetzungen einer
+Versicherung nach § 10 erfüllt sind oder wenn die Kündigung erfolgt,
+weil keine Mitgliedschaft bei einer Krankenkasse begründet werden
+soll. Die Krankenkassen können in ihren Satzungen vorsehen, dass
+die Frist nach Satz 1 nicht gilt, wenn eine Mitgliedschaft bei einer
+anderen Krankenkasse der gleichen Kassenart begründet werden soll.
 
-(4a) Die Hinweispflicht der Krankenkassen nach § 175 Absatz 4
-Satz 7 besteht nicht für eine Erhöhung des Zusatzbeitragssatzes,
-die im Zeitraum vom 1. Januar 2023 bis zum 30. Juni 2023 wirksam
-wird. Die Krankenkassen haben stattdessen spätestens einen Monat
-vor dem in Absatz 4 Satz 6 genannten Zeitpunkt ihre Mitglieder
-auf andere geeignete Weise auf das Kündigungsrecht nach Absatz 4
-Satz 6 und dessen Ausübung, auf die Höhe des durchschnittlichen
-Zusatzbeitragssatzes nach § 242a, die Möglichkeit, in eine günstigere
-Krankenkasse zu wechseln sowie auf die Übersicht des Spitzenverbandes
-Bund der Krankenkassen zu den Zusatzbeitragssätzen der Krankenkassen
-nach § 242 Absatz 5 hinzuweisen. Absatz 4 Satz 8 gilt entsprechend.
+(4a) (weggefallen)
 
 (5) Absatz 4 gilt nicht für Versicherungspflichtige, die durch die
 Errichtung oder Ausdehnung einer Betriebs- oder Innungskrankenkasse
@@ -30602,35 +30586,18 @@ oder den stellvertretenden Vorsitzenden wählen. Die Amtszeit des
 abberufenen Vorsitzenden oder des abberufenen stellvertretenden
 Vorsitzenden endet mit der Abberufung.
 
-(2) Bei dem Spitzenverband Bund der Krankenkassen wird ein Vorstand
+(2) Bei dem Spitzenverband der Krankenkassen wird ein Vorstand
 gebildet. Der Vorstand besteht aus höchstens drei Personen; besteht
 der Vorstand aus mehreren Personen, müssen ihm mindestens eine Frau
 und mindestens ein Mann angehören. Der Vorstand sowie aus seiner
-Mitte der Vorstandsvorsitzende und dessen Stellvertreter werden von
-dem Verwaltungsrat gewählt. Der Vorstand verwaltet den Spitzenverband
-und vertritt den Spitzenverband gerichtlich und außergerichtlich,
-soweit Gesetz oder sonstiges für den Spitzenverband maßgebendes Recht
-nichts Abweichendes bestimmen. Die Mitglieder des Vorstandes üben
-ihre Tätigkeit hauptamtlich aus. § 35a Abs. 1 bis 3, 6 bis 7 des
-Vierten Buches gilt entsprechend. Die Aufsichtsbehörde kann vor ihrer
-Entscheidung nach § 35a Absatz 6a des Vierten Buches in Verbindung mit
-Satz 6 verlangen, dass ihr der Spitzenverband Bund der Krankenkassen
-eine unabhängige rechtliche und wirtschaftliche Bewertung der
-Vorstandsdienstverträge vorlegt. Vergütungserhöhungen sind während der
-Dauer der Amtszeit der Vorstandsmitglieder unzulässig. Zu Beginn einer
-neuen Amtszeit eines Vorstandsmitgliedes kann eine über die zuletzt
-nach § 35a Absatz 6a Satz 1 des Vierten Buches gebilligte Vergütung
-der letzten Amtsperiode oder des Vorgängers im Amt hinausgehende
-höhere Vergütung nur durch einen Zuschlag auf die Grundvergütung
-nach Maßgabe der Entwicklung des Verbraucherpreisindexes vereinbart
-werden. Die Aufsichtsbehörde kann zu Beginn einer neuen Amtszeit
-eines Vorstandsmitgliedes eine niedrigere Vergütung anordnen.
-Finanzielle Zuwendungen nach § 35a Absatz 6 Satz 3 des Vierten
-Buches sind auf die Vergütungen der Vorstandsmitglieder anzurechnen
-oder an den Spitzenverband Bund der Krankenkassen abzuführen.
-Vereinbarungen des Spitzenverbandes Bund der Krankenkassen für die
-Zukunftssicherung der Vorstandsmitglieder sind nur auf der Grundlage
-von beitragsorientierten Zusagen zulässig.
+Mitte die oder der Vorstandsvorsitzende und deren oder dessen
+Stellvertreterin oder Stellvertreter werden von dem Verwaltungsrat
+gewählt. Der Vorstand verwaltet den Spitzenverband und vertritt den
+Spitzenverband gerichtlich und außergerichtlich, soweit Gesetz oder
+sonstiges für den Spitzenverband maßgebendes Recht nichts Abweichendes
+bestimmt. Die Mitglieder des Vorstandes üben ihre Tätigkeit
+hauptamtlich aus. § 35a Absatz 1 bis 3 und 6 bis 7 des Vierten Buches
+gilt entsprechend.
 
 (2a) Der Vorstand hat geeignete Maßnahmen zur Herstellung und
 Sicherung einer ordnungsgemäßen Verwaltungsorganisation zu ergreifen.
@@ -31635,7 +31602,9 @@ erarbeitet werden.
 (1) Der Bund leistet zur pauschalen Abgeltung der Aufwendungen
 der Krankenkassen für versicherungsfremde Leistungen jährlich
 14,5 Milliarden Euro in monatlich zum ersten Bankarbeitstag zu
-überweisenden Teilbeträgen an den Gesundheitsfonds.
+überweisenden Teilbeträgen an den Gesundheitsfonds. Abweichend von
+Satz 1 beträgt der Zuschuss des Bundes im Jahr 2027 13,15 Milliarden
+Euro und ab dem Jahr 2028 jährlich 12,95 Milliarden Euro.
 
 (2) Der Gesundheitsfonds überweist von den ihm zufließenden Leistungen
 des Bundes nach Absatz 1 der landwirtschaftlichen Krankenkasse
@@ -31668,6 +31637,23 @@ kann das Bundesamt für Soziale Sicherung einen vorläufigen Betrag
 festsetzen. Das Nähere zur Festsetzung des Betrags und zur Abrechnung
 mit der landwirtschaftlichen Krankenkasse bestimmt das Bundesamt für
 Soziale Sicherung.
+
+(4) Die dem Gesundheitsfonds nach § 12 Absatz 4 Satz 1 des
+Haushaltsgesetzes 2023, § 13 Absatz 4 des Haushaltsgesetzes 2025 und
+§ 13 Absatz 4 des Haushaltsgesetzes 2026 gewährten zinslosen Darlehen
+in Höhe von insgesamt 5,6 Milliarden Euro sind abweichend von §
+13 Absatz 4 des Haushaltsgesetzes 2025 und § 13 Absatz 4 und 5 des
+Haushaltsgesetzes 2026 in jährlichen Raten wie folgt zurückzuzahlen:
+
+1.  1 Milliarde Euro bis spätestens 31. Dezember 2035,
+
+2.  1 Milliarde Euro bis spätestens 31. Dezember 2036,
+
+3.  1 Milliarde Euro bis spätestens 31. Dezember 2037,
+
+4.  1 Milliarde Euro bis spätestens 31. Dezember 2038 und
+
+5.  1,6 Milliarden Euro bis spätestens 31. Dezember 2039.
 
 
 ##### § 221a Ergänzende Bundeszuschüsse an den Gesundheitsfonds
@@ -31748,10 +31734,16 @@ Mitglieder bemessen. Für die Berechnung ist die Woche zu sieben, der
 Monat zu dreißig und das Jahr zu dreihundertsechzig Tagen anzusetzen.
 
 (3) Beitragspflichtige Einnahmen sind bis zu einem Betrag von einem
-Dreihundertsechzigstel der Jahresarbeitsentgeltgrenze nach § 6 Abs.
-7 für den Kalendertag zu berücksichtigen (Beitragsbemessungsgrenze).
-Einnahmen, die diesen Betrag übersteigen, bleiben außer Ansatz, soweit
-dieses Buch nichts Abweichendes bestimmt.
+Dreihundertsechzigstel der Beitragsbemessungsgrenze nach Absatz
+4 für den Kalendertag zu berücksichtigen. Einnahmen, die diesen
+Betrag übersteigen, bleiben außer Ansatz, soweit dieses Buch nichts
+Abweichendes bestimmt.
+
+(4) Die Beitragsbemessungsgrenze im Jahr 2027 entspricht der um 3 600
+Euro erhöhten Jahresarbeitsentgeltgrenze nach § 6 Absatz 7 im Jahr
+2027\. § 6 Absatz 6 Satz 2 und 4 gilt entsprechend. Die Bundesregierung
+setzt die Beitragsbemessungsgrenze in der Rechtsverordnung nach § 160
+des Sechsten Buches gesondert fest.
 
 
 ##### § 224 Beitragsfreiheit bei Krankengeld, Mutterschaftsgeld oder Elterngeld
@@ -32070,9 +32062,10 @@ einhundertachtzigste Teil der monatlichen Bezugsgröße nach § 18 des
 Vierten Buches Sozialgesetzbuch zugrunde gelegt. Für Kalendertage, für
 die Anspruch auf Krankengeld oder Mutterschaftsgeld besteht oder für
 die Beiträge nach § 251 Abs. 1 zu zahlen sind, wird Arbeitseinkommen
-nicht zugrunde gelegt. Arbeitseinkommen sind auch die Vergütungen für
-die Verwertung und Nutzung urheberrechtlich geschützter Werke oder
-Leistungen.
+nicht zugrunde gelegt; dies gilt nicht für Kalendertage, für die
+Anspruch auf teilweises Krankengeld nach § 44 Absatz 1a besteht.
+Arbeitseinkommen sind auch die Vergütungen für die Verwertung und
+Nutzung urheberrechtlich geschützter Werke oder Leistungen.
 
 (2) § 226 Abs. 1 Satz 1 Nr. 2 bis 4 und Abs. 2 sowie die §§ 228 bis
 231 gelten entsprechend.
@@ -35709,28 +35702,12 @@ können nicht gewählt werden.
 (4) Der Vorstand wird aus der oder dem Vorstandsvorsitzenden und
 der Stellvertreterin oder dem Stellvertreter gebildet. Er führt
 die Geschäfte des Medizinischen Dienstes Bund, soweit nicht der
-Verwaltungsrat zuständig ist, und vertritt den Medizinischen
-Dienst Bund gerichtlich und außergerichtlich. In der Satzung nach
-Absatz 3 Satz 1 Nummer 1 können die Aufgaben des Vorstandes näher
-konkretisiert werden. § 217b Absatz 2 Satz 7 und Absatz 2a, § 279
-Absatz 7 Satz 4 und 5 sowie § 35a Absatz 1 bis 3, 6 Satz 1, Absatz
-6a und 7 des Vierten Buches gelten entsprechend. Vergütungserhöhungen
-sind während der Dauer der Amtszeit der Vorstandsmitglieder
-unzulässig. Zu Beginn einer neuen Amtszeit eines Vorstandsmitgliedes
-kann eine über die zuletzt nach § 35 Absatz 6a Satz 1 des Vierten
-Buches gebilligte Vergütung der letzten Amtsperiode oder des
-Vorgängers im Amt hinausgehende höhere Vergütung nur durch einen
-Zuschlag auf die Grundvergütung nach Maßgabe der Entwicklung des
-Verbraucherpreisindexes vereinbart werden. Die Aufsichtsbehörde
-kann zu Beginn einer neuen Amtszeit eines Vorstandsmitgliedes eine
-niedrigere Vergütung anordnen. Finanzielle Zuwendungen nach Satz
-4 in Verbindung mit § 279 Absatz 7 Satz 5 sind auf die Vergütung
-der oder des Vorstandsvorsitzenden oder der Stellvertreterin oder
-des Stellvertreters anzurechnen oder an den Medizinischen Dienst
-Bund abzuführen. Vereinbarungen des Medizinischen Dienstes Bund für
-die Zukunftssicherung der oder des Vorstandsvorsitzenden oder der
-Stellvertreterin oder des Stellvertreters sind nur auf der Grundlage
-von beitragsorientierten Zusagen zulässig.
+Verwaltungsrat zuständig ist, und vertritt den Medizinischen Dienst
+Bund gerichtlich und außergerichtlich. In der Satzung nach Absatz 3
+Satz 1 Nummer 1 können die Aufgaben des Vorstandes näher konkretisiert
+werden. § 217b Absatz 2a, § 279 Absatz 7 Satz 4 und 5 sowie § 35a
+Absatz 1 bis 3, 6 Satz 1, Absatz 6a und 7 des Vierten Buches gelten
+entsprechend.
 
 (5) Bei dem Medizinischen Dienst Bund wird eine unabhängige
 Ombudsperson bestellt, an die sich sowohl die Beschäftigten des
@@ -36038,8 +36015,8 @@ erforderlich ist für
 
 15. die Durchführung des Entlassmanagements nach § 39 Absatz 1a,
 
-16. die Auswahl von Versicherten für Maßnahmen nach § 44 Absatz 4 Satz 1
-    und nach § 39b sowie zu deren Durchführung,
+16. die Auswahl von Versicherten für Maßnahmen nach § 44 Absatz 4 und nach
+    § 39b sowie zu deren Durchführung,
 
 17. die Überwachung der Einhaltung der vertraglichen und gesetzlichen
     Pflichten der Leistungserbringer von Hilfsmitteln nach § 127 Absatz 7,
@@ -46567,33 +46544,38 @@ von geleisteten Vergütungen ist ausgeschlossen, soweit diese vor dem
 gerichtlich geltend gemacht wurden.
 
 
-### § 410 Übergangsregelung zur Vergütung der Vorstandsmitglieder der Kassenärztlichen Bundesvereinigungen, der unparteiischen Mitglieder des Beschlussgremiums des Gemeinsamen Bundesausschusses, der Vorstandsmitglieder des Spitzenverbandes Bund der Krankenkassen und des Geschäftsführers des Medizinischen Dienstes des Spitzenverbandes Bund der Krankenkassen sowie von dessen Stellvertreter
+### § 410 Übergangsregelung zur Vergütung der Vorstandsmitglieder der Kassenärztlichen Bundesvereinigungen, der unparteiischen Mitglieder des Beschlussgremiums des Gemeinsamen Bundesausschusses, der Vorstandsmitglieder des Spitzenverbandes Bund der Krankenkassen und der Vorstandsmitglieder des Medizinischen Dienstes Bund
 
-(1) § 79 Absatz 6 Satz 5, § 91 Absatz 2 Satz 15, § 217b Absatz
-2 Satz 8 und § 282 Absatz 2d Satz 6 in der jeweils bis zum 31.
-Dezember 2019 gültigen Fassung gelten auch für die Verträge, denen
-die Aufsichtsbehörde bereits bis zum 10. Mai 2019 zugestimmt hat,
-sofern diesen Verträgen nicht bereits eine Zusage über konkrete
-Vergütungserhöhungen zu entnehmen ist. § 79 Absatz 6 Satz 6 bis
-9, § 91 Absatz 2 Satz 16 bis 19, § 217b Absatz 2 Satz 9 bis 12 und
-§ 282 Absatz 2d Satz 7 bis 10 in der jeweils bis zum 31. Dezember
-2019 gültigen Fassung gelten nicht für die Verträge, denen die
-Aufsichtsbehörde bereits bis zum 10. Mai 2019 zugestimmt hat. Die zur
-Zukunftssicherung vertraglich vereinbarten nicht beitragsorientierten
-Zusagen, denen die Aufsichtsbehörde bereits bis zum 10. Mai 2019
-zugestimmt hat, dürfen auch bei Abschluss eines neuen Vertrages
-mit derselben Person in dem im vorhergehenden Vertrag vereinbarten
-Durchführungsweg und Umfang fortgeführt werden.
-
-(2) Abweichend von § 79 Absatz 6 Satz 6, § 91 Absatz 2 Satz 16,
-§ 217b Absatz 2 Satz 9 und § 282 Absatz 4 Satz 6 kann bis zum 31.
-Dezember 2027 keine höhere Vergütung vereinbart werden. Zu Beginn der
-darauffolgenden Amtszeiten kann bei der Erhöhung der Grundvergütung
-nur die Entwicklung des Verbraucherpreisindexes ab dem 1. Januar 2028
-berücksichtigt werden.
+Abweichend von § 79 Absatz 6 Satz 1 in Verbindung mit § 35a
+Absatz 6a Satz 6 des Vierten Buches, § 91 Absatz 2 Satz 16, §
+217b Absatz 2 Satz 6 in Verbindung mit § 35a Absatz 6a Satz 6 des
+Vierten Buches und § 282 Absatz 4 Satz 4 in Verbindung mit § 35a
+Absatz 6a Satz 6 des Vierten Buches kann für Vorstandsmitglieder
+der Kassenärztlichen Bundesvereinigungen, für die unparteiischen
+Mitglieder des Beschlussgremiums des Gemeinsamen Bundesausschusses,
+für Vorstandsmitglieder des Spitzenverbandes Bund der Krankenkassen
+und für Vorstandsmitglieder des Medizinischen Dienstes Bund bis zum
+31\. Dezember 2027 keine höhere Vergütung vereinbart werden.
 
 
-### § 411 (weggefallen)
+### § 411 Vergütung von Führungskräften der Ebene unterhalb der Vorstandsebene bei den Krankenkassen, ihren Landesverbänden und dem Spitzenverband Bund der Krankenkassen, den Medizinischen Diensten und dem Medizinischen Dienst Bund sowie den Kassenärztlichen Vereinigungen und den Kassenärztlichen Bundesvereinigungen
+
+Eine Erhöhung der Vergütung für außertariflich bezahlte Führungskräfte
+der Ebene unterhalb der Vorstandsebene bei den Krankenkassen, ihren
+Landesverbänden und dem Spitzenverband Bund der Krankenkassen,
+den Medizinischen Diensten und dem Medizinischen Dienst Bund
+sowie den Kassenärztlichen Vereinigungen und den Kassenärztlichen
+Bundesvereinigungen kann ab dem 29. Juli 2026 nur alle sechs Jahre
+vereinbart werden. Eine höhere Vergütung darf nur durch einen
+prozentualen Zuschlag auf die zuletzt vereinbarte Grundvergütung in
+Höhe des Mittelwerts der nach § 71 Absatz 3 Satz 5 seit dem Beginn
+der vorherigen Amtsperiode veröffentlichten durchschnittlichen
+Veränderungsraten vereinbart werden. Die Sätze 1 und 2 gelten auch
+für am 30. März 2026 gültige Verträge, sofern diesen Verträgen
+nicht bereits eine Zusage über konkrete Vergütungserhöhungen zu
+entnehmen ist. Ab dem 31. März 2026 geschlossene Verträge dürfen keine
+Vereinbarungen über Vergütungserhöhungen enthalten, die den Sätzen 1
+und 2 widersprechen.
 
 
 ### § 412 (weggefallen)
@@ -47095,131 +47077,158 @@ des § 235 Absatz 1 Satz 4 und Absatz 2 Satz 1, des § 242 Absatz 3 Satz
 jeweils am 31. Dezember 2023 geltenden Fassung weiter.
 
 
+### § 429 Übergangsregelung zum Kombinationsabschlag
+
+Anträge nach § 35a Absatz 1d Satz 1 in der bis zum 29. Juli 2026
+geltenden Fassung, über die der Gemeinsame Bundesausschuss nicht bis
+zum Ablauf des 29. Juli 2026 entschieden hat, sind als unzulässig zu
+verwerfen. Benennungen von Arzneimitteln nach § 35a Absatz 3 Satz 4
+in der bis zum 29. Juli 2026 geltenden Fassung in Beschlüssen über
+die Nutzenbewertung, die vor dem 29. Juli 2026 in Kraft getreten
+sind, bleiben für die Zwecke der Abrechnung des Kombinationsabschlags
+nach § 130e in der bis zum 29. Juli 2026 geltenden Fassung in Kraft.
+§ 130e in der bis zum 29. Juli 2026 geltenden Fassung ist auf alle
+Arzneimittel, die bis zum Ablauf des 29. Juli 2026 zu Lasten der
+Krankenkassen abgegeben worden sind, weiter anzuwenden.
+
+
+### § 430 Evaluierung
+
+Das Bundesministerium für Gesundheit evaluiert spätestens bis zum 31.
+Dezember 2030, ob die mit dem GKV-Beitragssatzstabilisierungsgesetz
+vom 24. Juli 2026 (BGBl. 2026 I Nr. 228) eingeführten Maßnahmen
+sich als geeignet und ausreichend erwiesen haben, stabilere
+Beitragssätze in der gesetzlichen Krankenversicherung zu erreichen,
+ohne die gesundheitliche Versorgung nach § 12 Absatz 1 Satz 1 zu
+beeinträchtigen. Es kann einen Dritten mit der Durchführung der
+Evaluation ganz oder teilweise beauftragen.
+
+
 ### Anlage 1 (zu § 135e) Leistungsgruppen und Qualitätskriterien
 
-(Fundstelle: BGBl. 2026 I Nr. 98, S. 42 - 96)
+(Fundstelle: BGBl. 2026 I Nr. 228, S. 47 - 94)
 
 | Leistungs- gruppen-Nummer | Leistungs- gruppe (LG) |  | Anforderungsbereiche |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Erbringung verwandter LG | Sachliche Ausstattung | Personelle Ausstattung | Sonstige Struktur- und Prozessvoraussetzungen |  |  |  |  |  |
 | Standort | Kooperation | Qualifikation | Verfügbarkeit |  |  |  |  |  |
-| 1 | Allgemeine Innere Medizin | Mindestvoraussetzung | LG Intensivmedizin | LG Allgemeine Chirurgie | Konventionelles Röntgengerät zur Aufnahme von Radiographien insbesondere des Skeletts, Thorax und Abdomens (Röntgen) jederzeit, Sonographiegerät, Computertomographie (CT) jederzeit mindestens in Kooperation, Gastroduodenoskopie und Koloskopie jederzeit | Facharzt (FA) aus dem Gebiet Innere Medizin | Drei FA, mindestens Rufbereitschaft: jederzeit | Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden |
-| Auswahlkriterium | LG Geriatrie Mindestens eine der folgenden LG: LG Allgemeine Frauenheilkunde oder LG Geburten |  | Magnetresonanztomographie (MRT) |  |  |  |  |  |
-| 2 | Komplexe Endokrinologie und Diabetologie | Mindestvoraus-setzung | LG Allgemeine Chirurgie LG Allgemeine Innere Medizin LG Intensivmedizin |  |  | FA aus dem Gebiet Innere Medizin FA Innere Medizin und Endokrinologie und Diabetologie oder FA Innere Medizin mit Zusatzweiterbildung (ZW) Diabetologie Alternative: FA Kinder- und Jugendmedizin FA Kinder- und Jugendmedizin mit ZW Kinder- und Jugend-Endokrinologie und Diabetologie | Drei FA, mindestens Rufbereitschaft: jederzeit; davon mindestens zwei FA Innere Medizin und Endokrinologie und Diabetologie oder FA Innere Medizin mit ZW Diabetologie, dritter FA kann aus dem Gebiet der Inneren Medizin sein Alternative: Drei FA mindestens Rufbereitschaft, jederzeit; davon mindestens zwei FA Kinder- und Jugendmedizin mit ZW Kinder- und Jugend-Endokrinologie und ‑Diabetologie, dritter FA kann FA Kinder- und Jugendmedizin sein | Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden |
+| 1 | Allgemeine Innere Medizin | Mindestvoraussetzung | LG Intensivmedizin | LG Allgemeine Chirurgie | Konventionelles Röntgengerät zur Aufnahme von Radiographien insbesondere des Skeletts, Thorax und Abdomens (Röntgen) jederzeit, Sonographiegerät, Computertomo- graphie (CT) jederzeit mindestens in Kooperation, Gastroduodenoskopie und Koloskopie jederzeit | Facharzt (FA) aus dem Gebiet Innere Medizin | Drei FA, mindestens Rufbereitschaft: jederzeit |  |
+| Auswahlkriterium | LG Geriatrie Mindestens eine der folgenden LG: LG Allgemeine Frauenheilkunde oder LG Geburten |  | Magnetresonanz- tomographie (MRT) |  |  |  |  |  |
+| 2 | Komplexe Endo- krinologie und Diabetologie | Mindestvoraussetzung | LG Allgemeine Chirurgie LG Allgemeine Innere Medizin LG Intensivmedizin |  |  | FA aus dem Gebiet Innere Medizin FA Innere Medizin und Endokrinologie und Diabetologie oder FA Innere Medizin mit Zusatzweiterbildung (ZW) Diabetologie Alternative: FA Kinder- und Jugendmedizin FA Kinder- und Jugendmedizin mit ZW Kinder- und Jugend-Endo- krinologie und Diabetologie | Drei FA, mindestens Rufbereitschaft: jederzeit; davon mindestens zwei FA Innere Medizin und Endokrinologie und Diabetologie oder FA Innere Medizin mit ZW Diabetologie, dritter FA kann aus dem Gebiet der Inneren Medizin sein Alternative: Drei FA mindestens Rufbereitschaft, jederzeit; davon mindestens zwei FA Kinder- und Jugendmedizin mit ZW Kinder- und Jugend-Endokrinologie und ‑Diabetologie, dritter FA kann FA Kinder- und Jugendmedizin sein |  |
 | 3 | nicht belegt |  |  |  |  |  |  |  |
-| 4 | Komplexe Gastroenterologie | Mindestvoraus-setzung | LG Allgemeine Chirurgie LG Allgemeine Innere Medizin LG Intensivmedizin | LG Palliativmedizin | Endoskopie (Gastroskopie, Koloskopie), Sonographie, Endosonographie, CT jederzeit | FA Innere Medizin und Gastroenterologie | Drei FA, mindestens Rufbereitschaft: jederzeit; davon mindestens zwei FA Innere Medizin und Gastroenterologie, dritter FA kann FA aus dem Gebiet Innere Medizin sein | Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden |
-| 5 | Komplexe Nephrologie | Mindestvoraus-setzung | LG Allgemeine Chirurgie LG Allgemeine Innere Medizin LG Intensivmedizin |  | Doppler- oder Duplex-Sonographie | FA Innere Medizin und Nephrologie | Drei FA, mindestens Rufbereitschaft: jederzeit; davon mindestens zwei FA Innere Medizin und Nephrologie, dritter FA kann FA aus dem Gebiet Innere Medizin sein | Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden |
-| 6 | Komplexe Pneumologie | Mindestvoraus-setzung | LG Allgemeine Innere Medizin LG Intensivmedizin | LG Palliativmedizin | Röntgen, CT, Bronchoskopie jederzeit, Spirometrie, Bodyplethysmographie | FA Innere Medizin und Pneumologie | Drei FA, mindestens Rufbereitschaft: jederzeit; davon mindestens zwei FA Innere Medizin und Pneumologie, dritter FA kann FA aus dem Gebiet Innere Medizin sein | Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden |
-| 7 | Komplexe Rheumatologie | Mindestvoraus-setzung | LG Allgemeine Innere Medizin oder LG Allgemeine Chirurgie |  | Sonographiegerät, Osteodensitometrie | FA Innere Medizin und Rheumatologie FA Orthopädie und Unfallchirurgie mit ZW Orthopädische Rheumatologie FA für Orthopädie und Unfallchirurgie FA aus dem Gebiet der Inneren Medizin | Drei FA, mindestens Rufbereitschaft: jederzeit; davon mindestens zwei FA Innere Medizin und Rheumatologie oder FA Orthopädie und Unfallchirurgie mit ZW Orthopädische Rheumatologie, der dritte FA kann FA aus dem Gebiet der Inneren Medizin oder FA für Orthopädie und Unfallchirurgie sein | Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden |
-| 8 | Stammzelltransplantation | Mindestvoraus-setzung | LG Allgemeine Chirurgie LG Allgemeine Innere Medizin LG Intensivmedizin, Qualitätsanforderung Hochkomplex | LG Augenheilkunde LG HNO LG Komplexe Gastroenterologie LG Palliativmedizin | CT jederzeit oder MRT jederzeit, Zentrales Monitoring von EKG, Blutdruck und Sauerstoffsättigung auf der Station, Nichtinvasive Beatmung einschließlich High-Flow-Nasenkanüle (HFNC) Sofern allogene Stammzelltransplantationen durchgeführt werden: Einzelzimmer mit eigener Schleuse und kontinuierlichem Überdruck und gefilterter Luftzufuhr | FA Innere Medizin und Hämatologie und Onkologie | Drei FA, mindestens Rufbereitschaft: jederzeit | Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden |
-|  |  | Auswahl-kriterium | LG Allgemeine Kinder- und Jugendmedizin LG Haut- und Geschlechtskrankheiten LG Kinder-Hämatologie und -Onkologie – Stammzelltransplantation LG Komplexe Nephrologie LG Komplexe Pneumologie |  |  | FA Transfusionsmedizin |  |  |
-| 9 | Leukämie und Lymphome | Mindestvoraus-setzung | LG Allgemeine Chirurgie LG Allgemeine Innere Medizin LG Intensivmedizin, Qualitätsanforderung Komplex | LG Palliativmedizin LG Stammzelltransplantation | CT jederzeit oder MRT jederzeit | FA aus dem Gebiet Innere Medizin FA Innere Medizin und Hämatologie und Onkologie | Drei FA aus dem Gebiet Innere Medizin, mindestens Rufbereitschaft: jederzeit; davon mindestens zwei FA Innere Medizin und Hämatologie und Onkologie | Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden |
-|  |  | Auswahl-kriterium | LG Kinder-Hämatologie und -Onkologie – Leukämie und Lymphome LG Komplexe Gastroenterologie LG Stammzelltransplantation |  |  | FA Kinder- und Jugendmedizin mit Schwerpunkt (SP) Kinder- und Jugend-Hämatologie und -Onkologie |  |  |
-| 10 | EPU/ Ablation | Mindest-voraus-setzung | LG Allgemeine Innere Medizin LG Intensivmedizin, Qualitätsanforderung Komplex | LG Interventionelle Kardiologie LG Kardiale Devices Mindestens eine der folgenden LG: LG Herzchirurgie oder LG Herzchirurgie – Kinder und Jugendliche oder LG Minimalinvasive Herzklappenintervention | CT jederzeit, 12-Kanal-EKG- Gerät, Echokardiographie, Transösophageale Echokardiographie (TEE) | FA Innere Medizin und Kardiologie | Drei FA, mindestens Rufbereitschaft: jederzeit | Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden |
-|  |  | Auswahl-kriterium | LG Kardiale Devices Mindestens eine der folgenden LG: LG Bauchaortenaneurysma oder LG Carotis operativ/interventionell oder LG Komplexe periphere arterielle Gefäße Mindestens eine der folgenden LG: LG Herzchirurgie oder LG Herzchirurgie – Kinder und Jugendliche oder LG Minimalinvasive Herzklappenintervention |  | Kardio-MRT |  |  |  |
-| 11 | Interventionelle Kardiologie | Mindestvoraus-setzung | LG Allgemeine Innere Medizin LG Intensivmedizin, Qualitätsanforderung Komplex | LG Kardiale Devices Mindestens eine der folgenden LG: LG Herzchirurgie oder LG Herzchirurgie – Kinder und Jugendliche oder LG Minimalinvasive Herzklappenintervention | Katheterlabor, Röntgen, CT jederzeit, 12-Kanal-EKG- Gerät, Echokardiographie, TEE | FA Innere Medizin und Kardiologie | Fünf FA, mindestens Rufbereitschaft: jederzeit | Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden |
-|  |  | Auswahl-kriterium | LG EPU/Ablation LG Kardiale Devices Mindestens eine der folgenden LG: LG Bauchaortenaneurysma oder LG Carotis operativ/interventionell oder LG Komplexe periphere arterielle Gefäße Mindestens eine der folgenden LG: LG Herzchirurgie oder LG Herzchirurgie – Kinder und Jugendliche oder LG Minimalinvasive Herzklappenintervention |  | Kardio-MRT |  |  | Erfüllung der Voraussetzungen gemäß § 28 Nummer 1 bis 6 oder Erfüllung der Voraussetzungen der erweiterten Notfallversorgung gemäß den §§ 13 bis 17 oder Erfüllung der Voraussetzungen der umfassenden Notfallversorgung gemäß den §§ 18 bis 22, jeweils bezogen auf die Bekanntmachung eines Beschlusses des Gemeinsamen Bundesausschusses (G-BA) über Regelungen zu einem gestuften System von Notfallstrukturen in Krankenhäusern gemäß § 136c Absatz 4 SGB V vom 19. April 2018 (BAnz AT 18.05.2018 B4), der durch Beschluss vom 20. November 2020 (BAnz AT 24.12.2020 B2) geändert wurde |
-| 12 | Kardiale Devices | Mindestvoraus-setzung | LG Allgemeine Innere Medizin LG Intensivmedizin, Qualitätsanforderung Komplex | LG EPU/Ablation LG Interventionelle Kardiologie Mindestens eine der folgenden LG: LG Herzchirurgie oder LG Herzchirurgie – Kinder und Jugendliche oder LG Minimalinvasive Herzklappenintervention | CT jederzeit, 12-Kanal-EKG- Gerät, Echokardiographie, TEE | FA Innere Medizin und Kardiologie | Drei FA, mindestens Rufbereitschaft: jederzeit | Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden |
-|  |  | Auswahl-kriterium | LG EPU/Ablation Mindestens eine der folgenden LG: LG Bauchaortenaneurysma oder LG Carotis operativ/interventionell oder LG Komplexe periphere arterielle Gefäße Mindestens eine der folgenden LG: LG Herzchirurgie oder LG Herzchirurgie – Kinder und Jugendliche oder LG Minimalinvasive Herzklappenintervention |  | Kardio-MRT |  |  |  |
-| 13 | Minimalinvasive Herzklappenintervention | Mindestvoraus-setzung | LG Allgemeine Innere Medizin LG Intensivmedizin, Qualitätsanforderung Hochkomplex LG Interventionelle Kardiologie Mindestens eine der folgenden LG: LG Herzchirurgie oder LG Herzchirurgie – Kinder und Jugendliche | LG Allgemeine Chirurgie LG EPU/Ablation | Katheterlabor und herzchirurgischer Operationssaal (OP) oder Hybrid-OP | FA Herzchirurgie FA Innere Medizin und Kardiologie | Drei FA Herzchirurgie sowie drei FA für Innere Medizin und Kardiologie, mindestens Rufbereitschaft: jederzeit | Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden |
-|  |  | Auswahl-kriterium | LG Allgemeine Chirurgie |  |  |  |  |  |
-| 14 | Allgemeine Chirurgie | Mindestvoraus-setzung | LG Intensivmedizin | LG Allgemeine Innere Medizin | Röntgen, Sonographiegerät, CT jederzeit mindestens in Kooperation, mindestens zwei Operationssäle | FA Allgemeinchirurgie FA Orthopädie und Unfallchirurgie FA Viszeralchirurgie | Drei FA für Allgemeinchirurgie, mindestens Rufbereitschaft: jederzeit Jeweils ein FA für Allgemeinchirurgie kann durch einen FA für Orthopädie und Unfallchirurgie und einen FA für Viszeralchirurgie ersetzt werden | Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden |
-|  |  | Auswahl-kriterium | LG Geriatrie |  |  |  |  |  |
-| 15 | Kinder- und Jugendchirurgie | Mindestvoraus-setzung | LG Allgemeine Kinder- und Jugendmedizin LG Intensivmedizin |  | CT jederzeit oder MRT jederzeit mindestens in Kooperation, Sonographie | FA Kinder- und Jugendchirurgie | Drei FA, mindestens Rufbereitschaft: jederzeit | Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden |
+| 4 | Komplexe Gastroenterologie | Mindestvoraussetzung | LG Allgemeine Chirurgie LG Allgemeine Innere Medizin LG Intensivmedizin | LG Palliativmedizin | Endoskopie (Gastroskopie, Koloskopie), Sonographie, Endosonographie, CT jederzeit | FA Innere Medizin und Gastroenterologie | Drei FA, mindestens Rufbereitschaft: jederzeit; davon mindestens zwei FA Innere Medizin und Gastroenterologie, dritter FA kann FA aus dem Gebiet Innere Medizin sein |  |
+| 5 | Komplexe Nephrologie | Mindestvoraussetzung | LG Allgemeine Chirurgie LG Allgemeine Innere Medizin LG Intensivmedizin |  | Doppler- oder Duplex-Sonographie | FA Innere Medizin und Nephrologie | Drei FA, mindestens Rufbereitschaft: jederzeit; davon mindestens zwei FA Innere Medizin und Nephrologie, dritter FA kann FA aus dem Gebiet Innere Medizin sein |  |
+| 6 | Komplexe Pneumologie | Mindestvoraussetzung | LG Allgemeine Innere Medizin LG Intensivmedizin | LG Palliativmedizin | Röntgen, CT, Bronchoskopie jederzeit, Spirometrie, Bodyplethysmographie | FA Innere Medizin und Pneumologie | Drei FA, mindestens Rufbereitschaft: jederzeit; davon mindestens zwei FA Innere Medizin und Pneumologie, dritter FA kann FA aus dem Gebiet Innere Medizin sein |  |
+| 7 | Komplexe Rheumatologie | Mindestvoraussetzung | LG Allgemeine Innere Medizin oder LG Allgemeine Chirurgie |  | Sonographiegerät, Osteodensitometrie | FA Innere Medizin und Rheumatologie FA Orthopädie und Unfallchirurgie mit ZW Orthopädische Rheumatologie FA für Orthopädie und Unfallchirurgie FA aus dem Gebiet der Inneren Medizin | Drei FA, mindestens Rufbereitschaft: jederzeit; davon mindestens zwei FA Innere Medizin und Rheumatologie oder FA Orthopädie und Unfallchirurgie mit ZW Orthopädische Rheumatologie, der dritte FA kann FA aus dem Gebiet der Inneren Medizin oder FA für Orthopädie und Unfallchirurgie sein |  |
+| 8 | Stammzelltransplantation | Mindestvoraussetzung | LG Allgemeine Chirurgie LG Allgemeine Innere Medizin LG Intensivmedizin, Qualitätsanforderung Hochkomplex | LG Augenheilkunde LG HNO LG Komplexe Gastroenterologie LG Palliativmedizin | CT jederzeit oder MRT jederzeit, Zentrales Monitoring von EKG, Blutdruck und Sauerstoffsättigung auf der Station, Nichtinvasive Beatmung einschließlich High-Flow-Nasenkanüle (HFNC) Sofern allogene Stammzelltransplantationen durchgeführt werden: Einzelzimmer mit eigener Schleuse und kontinuierlichem Überdruck und gefilterter Luftzufuhr | FA Innere Medizin und Hämatologie und Onkologie | Drei FA, mindestens Rufbereitschaft: jederzeit |  |
+| Auswahlkriterium | LG Allgemeine Kinder- und Jugendmedizin LG Haut- und Geschlechtskrankheiten LG Kinder-Hämatologie und -Onkologie – Stammzelltransplantation LG Komplexe Nephrologie LG Komplexe Pneumologie |  |  | FA Transfusionsmedizin |  |  |  |  |
+| 9 | Leukämie und Lymphome | Mindestvoraussetzung | LG Allgemeine Chirurgie LG Allgemeine Innere Medizin LG Intensivmedizin, Qualitätsanforderung Komplex | LG Palliativmedizin LG Stammzelltransplantation | CT jederzeit oder MRT jederzeit | FA aus dem Gebiet Innere Medizin FA Innere Medizin und Hämatologie und Onkologie | Drei FA aus dem Gebiet Innere Medizin, mindestens Rufbereitschaft: jederzeit; davon mindestens zwei FA Innere Medizin und Hämatologie und Onkologie |  |
+| Auswahlkriterium | LG Kinder-Hämatologie und -Onkologie – Leukämie und Lymphome LG Komplexe Gastroenterologie LG Stammzelltransplantation |  |  | FA Kinder- und Jugendmedizin mit Schwerpunkt (SP) Kinder- und Jugend-Hämatologie und -Onkologie |  |  |  |  |
+| 10 | EPU/ Ablation | Mindestvoraussetzung | LG Allgemeine Innere Medizin LG Intensivmedizin, Qualitätsanforderung Komplex | LG Interventionelle Kardiologie LG Kardiale Devices Mindestens eine der folgenden LG: LG Herzchirurgie oder LG Herzchirurgie – Kinder und Jugendliche oder LG Minimalinvasive Herzklappenintervention | CT jederzeit, 12-Kanal-EKG- Gerät, Echokardiographie, Transösophageale Echokardiographie (TEE) | FA Innere Medizin und Kardiologie | Drei FA, mindestens Rufbereitschaft: jederzeit |  |
+| Auswahlkriterium | LG Kardiale Devices Mindestens eine der folgenden LG: LG Bauchaortenaneurysma oder LG Carotis operativ/ interventionell oder LG Komplexe periphere arterielle Gefäße Mindestens eine der folgenden LG: LG Herzchirurgie oder LG Herzchirurgie – Kinder und Jugendliche oder LG Minimalinvasive Herzklappenintervention |  | Kardio-MRT |  |  |  |  |  |
+| 11 | Interventionelle Kardiologie | Mindestvoraussetzung | LG Allgemeine Innere Medizin LG Intensivmedizin, Qualitätsanforderung Komplex | LG Kardiale Devices Mindestens eine der folgenden LG: LG Herzchirurgie oder LG Herzchirurgie – Kinder und Jugendliche oder LG Minimalinvasive Herzklappenintervention | Katheterlabor, Röntgen, CT jederzeit, 12-Kanal-EKG- Gerät, Echokardiographie, TEE | FA Innere Medizin und Kardiologie | Fünf FA, mindestens Rufbereitschaft: jederzeit |  |
+|  |  | Auswahlkriterium | LG EPU/Ablation LG Kardiale Devices Mindestens eine der folgenden LG: LG Bauchaortenaneurysma oder LG Carotis operativ/ interventionell oder LG Komplexe periphere arterielle Gefäße Mindestens eine der folgenden LG: LG Herzchirurgie oder LG Herzchirurgie – Kinder und Jugendliche oder LG Minimalinvasive Herzklappenintervention |  | Kardio-MRT |  |  | Erfüllung der Voraussetzungen gemäß § 28 Nummer 1 bis 6 oder Erfüllung der Voraussetzungen der erweiterten Notfallversorgung gemäß den §§ 13 bis 17 oder Erfüllung der Voraussetzungen der umfassenden Notfallversorgung gemäß den §§ 18 bis 22, jeweils bezogen auf die Bekanntmachung eines Beschlusses des Gemeinsamen Bundesausschusses (G-BA) über Regelungen zu einem gestuften System von Notfallstrukturen in Krankenhäusern gemäß § 136c Absatz 4 SGB V vom 19. April 2018 (BAnz AT 18.05.2018 B4), der durch Beschluss vom 20. November 2020 (BAnz AT 24.12.2020 B2) geändert wurde |
+| 12 | Kardiale Devices | Mindestvoraussetzung | LG Allgemeine Innere Medizin LG Intensivmedizin, Qualitätsanforderung Komplex | LG EPU/Ablation LG Interventionelle Kardiologie Mindestens eine der folgenden LG: LG Herzchirurgie oder LG Herzchirurgie – Kinder und Jugendliche oder LG Minimalinvasive Herzklappenintervention | CT jederzeit, 12-Kanal-EKG- Gerät, Echokardiographie, TEE | FA Innere Medizin und Kardiologie | Drei FA, mindestens Rufbereitschaft: jederzeit |  |
+| Auswahlkriterium | LG EPU/Ablation Mindestens eine der folgenden LG: LG Bauchaortenaneurysma oder LG Carotis operativ/ interventionell oder LG Komplexe periphere arterielle Gefäße Mindestens eine der folgenden LG: LG Herzchirurgie oder LG Herzchirurgie – Kinder und Jugendliche oder LG Minimalinvasive Herzklappenintervention |  | Kardio-MRT |  |  |  |  |  |
+| 13 | Minimalinvasive Herzklappenintervention | Mindestvoraussetzung | LG Allgemeine Innere Medizin LG Intensivmedizin, Qualitätsanforderung Hochkomplex LG Interventionelle Kardiologie Mindestens eine der folgenden LG: LG Herzchirurgie oder LG Herzchirurgie – Kinder und Jugendliche | LG Allgemeine Chirurgie LG EPU/Ablation | Katheterlabor und herzchirurgischer Operationssaal (OP) oder Hybrid-OP | FA Herzchirurgie FA Innere Medizin und Kardiologie | Drei FA Herzchirurgie sowie drei FA für Innere Medizin und Kardiologie, mindestens Rufbereitschaft: jederzeit |  |
+| Auswahlkriterium | LG Allgemeine Chirurgie |  |  |  |  |  |  |  |
+| 14 | Allgemeine Chirurgie | Mindestvoraussetzung | LG Intensivmedizin | LG Allgemeine Innere Medizin | Röntgen, Sonographiegerät, CT jederzeit mindestens in Kooperation, mindestens zwei Operationssäle | FA Allgemeinchirurgie FA Orthopädie und Unfallchirurgie FA Viszeralchirurgie | Drei FA für Allgemeinchirurgie, mindestens Rufbereitschaft: jederzeit Jeweils ein FA für Allgemeinchirurgie kann durch einen FA für Orthopädie und Unfallchirurgie und einen FA für Viszeralchirurgie ersetzt werden |  |
+| Auswahlkriterium | LG Geriatrie |  |  |  |  |  |  |  |
+| 15 | Kinder- und Jugendchirurgie | Mindestvoraussetzung | LG Allgemeine Kinder- und Jugendmedizin LG Intensivmedizin |  | CT jederzeit oder MRT jederzeit mindestens in Kooperation, Sonographie | FA Kinder- und Jugendchirurgie | Drei FA, mindestens Rufbereitschaft: jederzeit |  |
 | 16 | nicht belegt |  |  |  |  |  |  |  |
-| 17 | Plastische und Rekonstruktive Chirurgie | Mindest-voraus-setzung | LG Intensivmedizin LG Allgemeine Chirurgie LG Allgemeine Innere Medizin |  |  | FA Plastische, Rekonstruktive und Ästhetische Chirurgie | Drei FA, mindestens Rufbereitschaft: jederzeit; davon mindestens zwei FA Plastische, Rekonstruktive und Ästhetische Chirurgie, dritter FA kann FA aus dem Gebiet Chirurgie sein | Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden |
-| 18 | Bauchaortenaneurysma | Mindestvoraus-setzung | LG Intensivmedizin, Qualitätsanforderung Komplex LG Komplexe periphere arterielle Gefäße |  |  | FA Gefäßchirurgie | Drei FA, mindestens Rufbereitschaft: jederzeit | Erfüllung der Anforderungen gemäß den §§ 4 und 5 der Bekanntmachung eines Beschlusses des G‑BA über eine Qualitätssicherungs-Richtlinie zum Bauchaortenaneurysma vom 13. März 2008 (BAnz Nr. 71, S. 1706), die zuletzt durch den Beschluss vom 19. Dezember 2024 (BAnz AT 25.02.2025 B4) geändert worden ist Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden |
-|  |  | Auswahl-kriterium |  |  |  | FA Innere Medizin und Angiologie |  |  |
-| 19 | Carotis operativ/interventionell | Mindestvoraus-setzung | LG Allgemeine Chirurgie LG Allgemeine Innere Medizin LG Intensivmedizin, Qualitätsanforderung Komplex LG Komplexe periphere arterielle Gefäße | LG Neurochirurgie Mindestens eine der folgenden LG: LG EPU/Ablation oder LG Interventionelle Kardiologie oder LG Kardiale Devices oder LG Minimalinvasive Herzklappenintervention Mindestens eine der folgenden LG: LG Allgemeine Neurologie oder LG Stroke Unit oder LG Neuro-Frühreha (NNF, Phase B) | Röntgen jederzeit, Teleradiologischer Befund möglich, CT jederzeit, MRT, Digitale Subtraktionsangiographie (DSA), Periphere Dopplersonographie, Duplexsonographie, Funktionelle Gefäßdiagnostik | FA Gefäßchirurgie | Drei FA, mindestens Rufbereitschaft: jederzeit | Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden |
-|  |  | Auswahl-kriterium | LG Neurochirurgie Mindestens eine der folgenden LG: LG EPU/Ablation oder LG Interventionelle Kardiologie oder LG Kardiale Devices oder LG Minimalinvasive Herzklappenintervention Mindestens eine der folgenden LG: LG Allgemeine Neurologie oder LG Stroke Unit oder LG Neuro-Frühreha (NNF, Phase B) |  | Hybrid-OP | FA Innere Medizin und Angiologie |  |  |
-| 20 | Komplexe periphere arterielle Gefäße | Mindestvoraus-setzung | LG Allgemeine Chirurgie LG Allgemeine Innere Medizin LG Intensivmedizin | LG Komplexe Nephrologie Mindestens eine der folgenden LG: LG EPU/Ablation oder LG Interventionelle Kardiologie oder LG Kardiale Devices oder LG Minimalinvasive Herzklappenintervention | Röntgen jederzeit, Teleradiologischer Befund möglich, CT jederzeit, MRT, DSA, Periphere Dopplersonographie, Duplexsonographie, Funktionelle Gefäßdiagnostik | FA Gefäßchirurgie FA Allgemeinchirurgie FA Herzchirurgie FA Thoraxchirurgie | Drei FA, mindestens Rufbereitschaft: jederzeit; davon mindestens zwei FA Gefäßchirurgie | Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden |
-|  |  | Auswahl-kriterium | LG Komplexe Nephrologie Mindestens eine der folgenden LG: LG EPU/Ablation oder LG Interventionelle Kardiologie oder LG Kardiale Devices oder LG Minimalinvasive Herzklappenintervention Mindestens eine der folgenden LG: LG Allgemeine Neurologie oder LG Stroke Unit oder LG Neuro-Frühreha (NNF, Phase B) |  |  | FA Innere Medizin und Angiologie |  |  |
-| 21 | Herzchirurgie | Mindestvoraus-setzung | LG Allgemeine Innere Medizin LG Intensivmedizin, Qualitätsanforderung Hochkomplex LG Interventionelle Kardiologie | LG Allgemeine Chirurgie | Katheterlabor, Echokardiographie, EKG, Doppler- oder Duplex-Sonographie, DSA, Röntgen, CT jederzeit, Teleradiologischer Befund möglich, Herz-Lungen- Maschine | FA Herzchirurgie | Fünf FA, mindestens Rufbereitschaft: jederzeit | Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden |
-|  |  | Auswahl-kriterium | LG Herztransplantation Mindestens eine der folgenden LG: LG Bauchaortenaneurysma oder LG Carotis operativ/interventionell oder LG Komplexe periphere arterielle Gefäße |  | Hybrid-OP Extrakorporale Membranoxygenierung (ECMO) |  |  |  |
-| 22 | Herzchirurgie – Kinder und Jugendliche | Mindestvoraus-setzung |  |  |  |  |  | Erfüllung der Anforderungen gemäß den §§ 4 und 5 und der Vorgaben gemäß § 6 der Bekanntmachung eines Beschlusses des G‑BA über eine Richtlinie über Maßnahmen zur Qualitätssicherung der herzchirurgischen Versorgung bei Kindern und Jugendlichen gemäß § 136 Absatz 1 Nummer 2 SGB V vom 18. Februar 2010 (BAnz Nr. 89a – Beilage vom 18.06.2010), der durch Beschluss vom 4. Dezember 2024 (BAnz AT 21.01.2025 B4) geändert wurde Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden |
-| 23 | Endoprothetik Hüfte | Mindestvoraus-setzung | LG Intensivmedizin LG Allgemeine Chirurgie LG Allgemeine Innere Medizin |  | Röntgen jederzeit, Teleradiologischer Befund möglich | FA Orthopädie und Unfallchirurgie | Drei FA, mindestens Rufbereitschaft: jederzeit | Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden |
-|  |  | Auswahl-kriterium | LG Endoprothetik Knie LG Geriatrie LG Revision Hüftendoprothese |  | CT jederzeit, MRT | ZW Spezielle Orthopädische Chirurgie ZW Spezielle Unfallchirurgie |  |  |
-| 24 | Endoprothetik Knie | Mindestvoraus-setzung | LG Intensivmedizin LG Allgemeine Chirurgie LG Allgemeine Innere Medizin |  | Röntgen jederzeit, Teleradiologischer Befund möglich | FA Orthopädie und Unfallchirurgie | Drei FA, mindestens Rufbereitschaft: jederzeit | Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden |
-|  |  | Auswahl-kriterium | LG Endoprothetik Hüfte LG Geriatrie LG Revision Knieendoprothese |  | CT jederzeit, MRT | ZW Spezielle Orthopädische Chirurgie ZW Spezielle Unfallchirurgie |  |  |
-| 25 | Revision Hüftendoprothese | Mindestvoraus-setzung | LG Endoprothetik Hüfte LG Intensivmedizin LG Allgemeine Chirurgie LG Allgemeine Innere Medizin |  | Röntgen jederzeit, Teleradiologischer Befund möglich | FA Orthopädie und Unfallchirurgie ZW Spezielle Orthopädische Chirurgie | Drei FA, mindestens Rufbereitschaft: jederzeit; davon mindestens ein FA mit ZW Spezielle Orthopädische Chirurgie | Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden |
-|  |  | Auswahl-kriterium | LG Geriatrie |  | CT jederzeit, MRT |  |  |  |
-| 26 | Revision Knieendoprothese | Mindestvoraus-setzung | LG Endoprothetik Knie LG Intensivmedizin LG Allgemeine Chirurgie LG Allgemeine Innere Medizin |  | Röntgen jederzeit, Teleradiologischer Befund möglich | FA Orthopädie und Unfallchirurgie ZW Spezielle Orthopädische Chirurgie | Drei FA, mindestens Rufbereitschaft: jederzeit; davon mindestens ein FA mit ZW Spezielle Orthopädische Chirurgie | Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden |
-|  |  | Auswahl-kriterium | LG Geriatrie |  | CT jederzeit, MRT |  |  |  |
-| 27 | Spezielle Traumatologie | Mindestvoraus-setzung | LG Allgemeine Chirurgie LG Intensivmedizin LG Allgemeine Innere Medizin | LG Neurochirurgie LG Komplexe periphere arterielle Gefäße LG Allgemeine Kinder- und Jugendmedizin | CT jederzeit, Röntgen jederzeit, Sonographie, mindestens zwei Operationssäle, Intensivstation mit mindestens sechs Betten, MRT jederzeit, Schockraum, Angiographiearbeitsplatz, Teleradiologische Anbindung zum Standort mit LG Neurochirurgie, falls diese in Kooperation erbracht wird, Hubschrauberlandeplatz oder Public- Interest-Site-(PIS-)Landestelle | FA Orthopädie und Unfallchirurgie FA Orthopädie und Unfallchirurgie mit ZW Spezielle Unfallchirurgie | Fünf FA, mindestens Rufbereitschaft: jederzeit; davon mindestens drei FA mit ZW Spezielle Unfallchirurgie | Erfüllung der Voraussetzungen der erweiterten Notfallversorgung gemäß den §§ 13 bis 17 der Bekanntmachung eines Beschlusses des G-BA über Regelungen zu einem gestuften System von Notfallstrukturen in Krankenhäusern gemäß § 136c Absatz 4 SGB V vom 19. April 2018 (BAnz AT 18.05.2018 B4), der durch Beschluss vom 20. November 2020 (BAnz AT 24.12.2020 B2) geändert worden ist Erfüllung der durch die gesetzliche Unfallversicherungsträger nach § 34 Absatz 1 Satz 2 des Siebten Buches Sozialgesetzbuch (SGB VII) festgelegten Anforderungen an Krankenhäuser zur Beteiligung am Verletzungsartenverfahren (VAV) in der Fassung vom 1. Juli 2025, welche auf Grundlage von § 34 Absatz 2 und 3 SGB VII von der Deutschen Gesetzlichen Unfallversicherung e. V. und der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau festgelegt worden sind. Die Anforderungen sind abrufbar auf der Internetseite der Landesverbände der Deutschen Gesetzlichen Unfallversicherung (www.dguv.de/ landesverbaende) unter der Rubrik „Medizinische Rehabilitation“ in der Unterrubrik „Verletzungsartenverfahren“. |
-|  |  |  |  |  |  |  |  | Erfüllung der Anforderungen an die personelle Ausstattung und der räumlichen Anforderungen für Regionales Traumazentrum (RTZ) oder Überregionales Traumazentrum (ÜTZ) nach dem „Weißbuch Schwerverletztenversorgung – Empfehlungen zur Struktur, Organisation, Ausstattung sowie Förderung von Qualität und Sicherheit in der Schwerverletztenversorgung in der Bundesrepublik Deutschland“; Herausgeber: Deutsche Gesellschaft für Unfallchirurgie e. V., 3. erweiterte Auflage 2019, Seiten 16, 17 und 18 bis 20 Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden |
-|  |  | Auswahl-kriterium | LG Geriatrie LG Wirbelsäuleneingriffe LG Endoprothetik Hüfte LG Endoprothetik Knie | LG Urologie LG Plastische und Rekonstruktive Chirurgie LG Thoraxchirurgie LG HNO LG Herzchirurgie LG Mund-Kiefer- Gesichtschirurgie (MKG) |  | FA Neurochirurgie | Drei FA, mindestens Rufbereitschaft: jederzeit |  |
-| 28 | Wirbelsäuleneingriffe | Mindestvoraus-setzung | LG Intensivmedizin LG Allgemeine Chirurgie LG Allgemeine Innere Medizin |  | Röntgen jederzeit, Teleradiologischer Befund möglich | FA Orthopädie und Unfallchirurgie FA Neurochirurgie | Drei FA, mindestens Rufbereitschaft: jederzeit | Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden |
-|  |  | Auswahl-kriterium |  | LG Neurochirurgie | CT jederzeit, MRT | ZW Spezielle Orthopädische Chirurgie |  |  |
-| 29 | Thoraxchirurgie | Mindestvoraus-setzung | LG Intensivmedizin, Qualitätsanforderung Hochkomplex LG Allgemeine Chirurgie LG Allgemeine Innere Medizin | LG Komplexe Pneumologie LG Palliativmedizin | Röntgen jederzeit, CT jederzeit oder MRT jederzeit, Teleradiologischer Befund möglich | FA Thoraxchirurgie | Drei FA, mindestens Rufbereitschaft: jederzeit Sofern LG Herzchirurgie am Standort erbracht wird: abweichend mindestens zwei FA Thoraxchirurgie, mindestens Rufbereitschaft: jederzeit | Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden |
-|  |  | Auswahl-kriterium | LG Herzchirurgie LG Komplexe Pneumologie LG Palliativmedizin | LG Neurochirurgie Mindestens eine der folgenden LG: LG Bauchaortenaneurysma oder LG Carotis operativ/interventionell oder LG Komplexe periphere arterielle Gefäße Mindestens eine der folgenden LG: LG Endoprothetik Hüfte oder LG Endoprothetik Knie oder LG Revision Hüftendoprothese oder LG Revision Knieendoprothese Mindestens eine der folgenden LG: LG Bariatrische Chirurgie oder LG Lebereingriffe oder LG Ösophaguseingriffe oder LG Pankreaseingriffe oder LG Tiefe Rektumeingriffe |  | FA Radiologie |  |  |
-| 30 | Bariatrische Chirurgie | Mindestvoraus-setzung | LG Allgemeine Chirurgie LG Allgemeine Innere Medizin LG Intensivmedizin | LG Komplexe Gastroenterologie | CT jederzeit oder MRT jederzeit | FA Viszeralchirurgie | Drei FA, mindestens Rufbereitschaft: jederzeit | Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden |
-|  |  | Auswahl-kriterium | LG Komplexe Gastroenterologie |  | Mindestens ein OP-Tisch mit einer Tragfähigkeit von mindestens 225 Kilogramm |  |  |  |
-| 31 | Lebereingriffe | Mindestvoraus-setzung | LG Allgemeine Chirurgie LG Allgemeine Innere Medizin LG Intensivmedizin, Qualitätsanforderung Hochkomplex | LG Komplexe Gastroenterologie | Röntgen jederzeit, CT jederzeit oder MRT jederzeit, Teleradiologischer Befund möglich | FA Viszeralchirurgie ZW Spezielle Viszeralchirurgie | Drei FA, mindestens Rufbereitschaft: jederzeit; davon mindestens ein FA mit ZW Spezielle Viszeralchirurgie | Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden |
-|  |  | Auswahl-kriterium | LG Lebertransplantation LG Palliativmedizin LG Pankreaseingriffe LG Komplexe Gastroenterologie |  | Interventionelle Endoskopie einschließlich endoskopischer retrograder Cholangiopankreatikographie (ERC/P) jederzeit, interventionelle Radiologie jederzeit, diagnostische Angiographie jederzeit |  |  |  |
-| 32 | Ösophaguseingriffe | Mindestvoraus-setzung | LG Allgemeine Chirurgie LG Allgemeine Innere Medizin LG Intensivmedizin, Qualitätsanforderung Hochkomplex |  | Röntgen jederzeit, CT jederzeit oder MRT jederzeit, Teleradiologischer Befund möglich, interventionelle Endoskopie jederzeit | FA Viszeralchirurgie ZW Spezielle Viszeralchirurgie FA Innere Medizin und Gastroenterologie | Fünf FA, mindestens Rufbereitschaft: jederzeit; davon drei FA Viszeralchirurgie und davon mindestens ein FA mit ZW Spezielle Viszeralchirurgie; davon zwei FA Innere Medizin und Gastroenterologie | Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden |
-|  |  | Auswahl-kriterium | LG Komplexe Gastroenterologie LG Palliativmedizin | LG Thoraxchirurgie | Diagnostische Angiographie |  |  |  |
-| 33 | Pankreaseingriffe | Mindestvoraus-setzung | LG Allgemeine Chirurgie LG Allgemeine Innere Medizin LG Intensivmedizin, Qualitätsanforderung Hochkomplex |  | Röntgen jederzeit, CT jederzeit oder MRT jederzeit, Teleradiologischer Befund möglich, Interventionelle Endoskopie einschließlich ERC/P | FA Viszeralchirurgie ZW Spezielle Viszeralchirurgie FA Innere Medizin und Gastroenterologie | Fünf FA, mindestens Rufbereitschaft: jederzeit; davon drei FA Viszeralchirurgie und davon mindestens ein FA mit ZW Spezielle Viszeralchirurgie; davon zwei FA Innere Medizin und Gastroenterologie | Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden |
-|  |  | Auswahl-kriterium | LG Komplexe Endokrinologie und Diabetologie LG Lebereingriffe LG Palliativmedizin |  | Interventionelle Radiologie, Diagnostische Angiographie |  |  |  |
-| 34 | Tiefe Rektumeingriffe | Mindestvoraus-setzung | LG Allgemeine Chirurgie LG Allgemeine Innere Medizin LG Intensivmedizin, Qualitätsanforderung Komplex | LG Komplexe Gastroenterologie | Röntgen jederzeit, CT jederzeit oder MRT jederzeit, Teleradiologischer Befund möglich | FA Viszeralchirurgie ZW Spezielle Viszeralchirurgie | Drei FA, mindestens Rufbereitschaft: jederzeit; davon mindestens ein FA mit ZW Spezielle Viszeralchirurgie | Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden |
-|  |  | Auswahl-kriterium | LG Komplexe Gastroenterologie LG Palliativmedizin LG Urologie |  | Interventionelle Endoskopie jederzeit | ZW Proktologie |  |  |
-| 35 | Augenheilkunde | Mindestvoraus-setzung |  | LG Allgemeine Chirurgie LG Allgemeine Innere Medizin | Sonographiegerät, Gonioskopie, Ophtalmoskopie, Fluoreszenzangiographie | FA Augenheilkunde | Drei FA, mindestens Rufbereitschaft: jederzeit | Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden |
-|  |  | Auswahl-kriterium | LG Allgemeine Innere Medizin LG MKG Mindestens eine der folgenden LG: LG Allgemeine Neurologie oder LG Stroke Unit oder LG Neuro-Frühreha (NNF, Phase B) |  | Optische Kohärenztomographie (OCT) |  |  |  |
-| 36 | Haut- und Ge- schlechts- krankheiten | Mindestvoraus-setzung | LG Intensivmedizin LG Allgemeine Chirurgie LG Allgemeine Innere Medizin | LG Allgemeine Frauenheilkunde LG Urologie | Lasertherapie, Photo(chemo)therapie | FA Haut- und Geschlechtskrankheiten | Drei FA, mindestens Rufbereitschaft: jederzeit | Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden |
-|  |  | Auswahl-kriterium | LG Allgemeine Frauenheilkunde LG Neurochirurgie LG Urologie | LG HNO LG MKG LG Thoraxchirurgie |  | FA Innere Medizin und Hämatologie und Onkologie ZW Allergologie |  |  |
-| 37 | MKG | Mindestvoraus-setzung | LG Intensivmedizin LG Allgemeine Chirurgie LG Allgemeine Innere Medizin |  | B-Bild-Sonograph, CT, Orthopantomogramm (OPG)- Röntgengerät | FA Mund-Kiefer- Gesichtschirurgie | Drei FA, mindestens Rufbereitschaft: jederzeit | Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden |
-|  |  | Auswahl-kriterium | LG Neurochirurgie Mindestens eine der folgenden LG: LG Endoprothetik Hüfte oder LG Endoprothetik Knie oder LG Revision Hüftendoprothetik oder LG Revision Knieendoprothese | LG Augenheilkunde LG HNO |  |  |  |  |
-| 38 | Urologie | Mindestvoraus-setzung | LG Allgemeine Chirurgie LG Allgemeine Innere Medizin LG Intensivmedizin | LG Komplexe Nephrologie | Endoskop, Laparoskop, Sonographiegerät (einschließlich Doppler- oder Duplex-Sonographie) | FA Urologie | Drei FA, mindestens Rufbereitschaft: jederzeit | Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden |
-|  |  | Auswahl-kriterium | LG Komplexe Nephrologie | LG Allgemeine Frauenheilkunde | CT, MRT, PET oder PET-CT, Roboter-assistierte Chirurgie | FA Urologie mit ZW Andrologie |  |  |
-| 39 | Allgemeine Frauenheilkunde | Mindestvoraus-setzung | LG Allgemeine Chirurgie LG Allgemeine Innere Medizin LG Intensivmedizin |  |  | FA Frauenheilkunde und Geburtshilfe | Drei FA, mindestens Rufbereitschaft: jederzeit | Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden |
-|  |  | Auswahl-kriterium | LG Urologie Mindestens eine der folgenden LG: LG Lebereingriffe oder LG Ösophaguseingriffe oder LG Pankreaseingriffe oder LG Tiefe Rektumeingriffe |  |  | FA Frauenheilkunde und Geburtshilfe mit SP Gynäkologische Endokrinologie und Reproduktionsmedizin |  |  |
-| 40 | Ovarial-CA | Mindestvoraus-setzung | LG Allgemeine Chirurgie LG Allgemeine Frauenheilkunde LG Allgemeine Innere Medizin LG Intensivmedizin, Qualitätsanforderung Komplex | LG Urologie |  | FA Frauenheilkunde und Geburtshilfe mit SP Gynäkologische Onkologie | Drei FA, mindestens Rufbereitschaft: jederzeit; davon mindestens ein FA mit SP Gynäkologische Onkologie | Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden |
-|  |  | Auswahl-kriterium | LG Palliativmedizin LG Senologie LG Urologie Mindestens eine der folgenden LG: LG Lebereingriffe oder LG Ösophaguseingriffe oder LG Pankreaseingriffe oder LG Tiefe Rektumeingriffe |  |  | FA Frauenheilkunde und Geburtshilfe mit SP Gynäkologische Endokrinologie und Reproduktionsmedizin |  |  |
-| 41 | Senologie | Mindestvoraus-setzung | LG Allgemeine Chirurgie LG Allgemeine Frauenheilkunde LG Allgemeine Innere Medizin LG Intensivmedizin |  |  | FA Frauenheilkunde und Geburtshilfe | Drei FA, mindestens Rufbereitschaft: jederzeit | Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden |
-|  |  | Auswahl-kriterium | LG Ovarial-CA LG Palliativmedizin LG Plastische und Rekonstruktive Chirurgie Mindestens eine der folgenden LG: LG Stammzelltransplantation oder LG Leukämie und Lymphome |  |  | FA Frauenheilkunde und Geburtshilfe mit SP Gynäkologische Onkologie FA für Plastische, Rekonstruktive und Ästhetische Chirurgie |  |  |
-| 42 | Geburten | Mindestvoraus-setzung | LG Allgemeine Chirurgie LG Allgemeine Frauenheilkunde LG Allgemeine Innere Medizin LG Intensivmedizin | LG Allgemeine Kinder- und Jugendmedizin |  | FA Frauenheilkunde und Geburtshilfe | Drei FA, mindestens Rufbereitschaft: jederzeit | Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden |
-|  |  | Auswahl-kriterium | LG Allgemeine Kinder- und Jugendmedizin LG Kinder- und Jugendchirurgie |  |  | FA Frauenheilkunde und Geburtshilfe mit SP Spezielle Geburtshilfe und Perinatalmedizin | FA anwesend: jederzeit |  |
-| 43 | Perinataler Schwerpunkt | Mindestvoraus-setzung |  |  |  |  |  | Erfüllung der Anforderungen der Versorgungsstufe III gemäß Nummer III der Anlage 1 der Bekanntmachung eines Beschlusses des G‑BA über Maßnahmen zur Qualitätssicherung der Versorgung von Früh- und Reifgeborenen gemäß § 136 Absatz 1 Nummer 2 SGB V in Verbindung mit § 92 Absatz 1 Satz 2 Nummer 13 SGB V vom 20. September 2005 (BAnz S. 15 684 vom 28.10.2005), der zuletzt durch den Beschluss vom 17. Oktober 2024 (BAnz AT 20.01.2025 B4) geändert wurde Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden |
-| 44 | Perinatalzentrum Level 1 | Mindestvoraus-setzung |  |  |  |  |  | Erfüllung der Anforderungen der Versorgungsstufe I gemäß Nummer I der Anlage 1 der Bekanntmachung eines Beschlusses des G-BA über Maßnahmen zur Qualitätssicherung der Versorgung von Früh- und Reifgeborenen gemäß § 136 Absatz 1 Nummer 2 SGB V in Verbindung mit § 92 Absatz 1 Satz 2 Nummer 13 SGB V vom 20. September 2005 (BAnz S. 15 684 vom 28.10.2005), der zuletzt durch den Beschluss vom 17. Oktober 2024 (BAnz AT 20.01.2025 B4) geändert wurde Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden |
-|  |  | Auswahl-kriterium |  |  |  | FA Kinder- und Jugendmedizin mit SP Neuropädiatrie |  |  |
-| 45 | Perinatalzentrum Level 2 | Mindestvoraus-setzung |  |  |  |  |  | Erfüllung der Anforderungen der Versorgungsstufe II gemäß Nummer II der Anlage 1 der Bekanntmachung eines Beschlusses des G-BA über Maßnahmen zur Qualitätssicherung der Versorgung von Früh- und Reifgeborenen gemäß § 136 Absatz 1 Nummer 2 SGB V in Verbindung mit § 92 Absatz 1 Satz 2 Nummer 13 SGB V vom 20. September 2005 (BAnz S. 15 684 vom 28.10.2005), der zuletzt durch den Beschluss vom 17. Oktober 2024 (BAnz AT 20.01.2025 B4) geändert wurde Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden |
-| 46 | Allgemeine Kinder- und Jugend- medizin | Mindestvoraus-setzung |  | LG Intensivmedizin |  | FA Kinder- und Jugendmedizin | Drei FA, mindestens Rufbereitschaft: jederzeit | Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden |
-|  |  | Auswahl-kriterium | Mindestens eine der folgenden LG: LG Perinataler Schwerpunkt oder LG Perinatalzentrum Level 1 oder LG Perinatalzentrum Level 2 LG Geburten LG Intensivmedizin LG Kinder- und Jugendchirurgie |  |  | FA Kinder- und Jugendchirurgie |  |  |
+| 17 | Plastische und Rekonstruktive Chirurgie | Mindestvoraussetzung | LG Intensivmedizin LG Allgemeine Chirurgie LG Allgemeine Innere Medizin |  |  | FA Plastische, Rekonstruktive und Ästhetische Chirurgie | Drei FA, mindestens Rufbereitschaft: jederzeit; davon mindestens zwei FA Plastische, Rekonstruktive und Ästhetische Chirurgie, dritter FA kann FA aus dem Gebiet Chirurgie sein |  |
+| 18 | Bauchaortenaneurysma | Mindestvoraussetzung | LG Intensivmedizin, Qualitätsanforderung Komplex LG Komplexe periphere arterielle Gefäße |  |  | FA Gefäßchirurgie | Drei FA, mindestens Rufbereitschaft: jederzeit | Erfüllung der Anforderungen gemäß den §§ 4 und 5 der Bekanntmachung eines Beschlusses des G‑BA über eine Qualitätssicherungs-Richtlinie zum Bauchaortenaneurysma vom 13. März 2008 (BAnz Nr. 71, S. 1706), die zuletzt durch den Beschluss vom 19. Dezember 2024 (BAnz AT 25.02.2025 B4) geändert worden ist |
+| Auswahlkriterium |  |  |  | FA Innere Medizin und Angiologie |  |  |  |  |
+| 19 | Carotis operativ/ interventionell | Mindestvoraussetzung | LG Allgemeine Chirurgie LG Allgemeine Innere Medizin LG Intensivmedizin, Qualitätsanforderung Komplex LG Komplexe periphere arterielle Gefäße | LG Neurochirurgie Mindestens eine der folgenden LG: LG EPU/Ablation oder LG Interventionelle Kardiologie oder LG Kardiale Devices oder LG Minimalinvasive Herzklappenintervention Mindestens eine der folgenden LG: LG Allgemeine Neurologie oder LG Stroke Unit oder LG Neuro-Frühreha (NNF, Phase B) | Röntgen jederzeit, Teleradiologischer Befund möglich, CT jederzeit, MRT, Digitale Subtraktionsangiographie (DSA), Periphere Dopplersonographie, Duplexsonographie, Funktionelle Gefäßdiagnostik | FA Gefäßchirurgie | Drei FA, mindestens Rufbereitschaft: jederzeit |  |
+|  |  | Auswahlkriterium | LG Neurochirurgie Mindestens eine der folgenden LG: LG EPU/Ablation oder LG Interventionelle Kardiologie oder LG Kardiale Devices oder LG Minimalinvasive Herzklappenintervention Mindestens eine der folgenden LG: LG Allgemeine Neurologie oder LG Stroke Unit oder LG Neuro-Frühreha (NNF, Phase B) |  | Hybrid-OP | FA Innere Medizin und Angiologie |  |  |
+| 20 | Komplexe periphere arterielle Gefäße | Mindestvoraussetzung | LG Allgemeine Chirurgie LG Allgemeine Innere Medizin LG Intensivmedizin | LG Komplexe Nephrologie Mindestens eine der folgenden LG: LG EPU/Ablation oder LG Interventionelle Kardiologie oder LG Kardiale Devices oder LG Minimalinvasive Herzklappenintervention | Röntgen jederzeit, Teleradiologischer Befund möglich, CT jederzeit, MRT, DSA, Periphere Dopplersonographie, Duplexsonographie, Funktionelle Gefäßdiagnostik | FA Gefäßchirurgie FA Allgemeinchirurgie FA Herzchirurgie FA Thoraxchirurgie | Drei FA, mindestens Rufbereitschaft: jederzeit; davon mindestens zwei FA Gefäßchirurgie |  |
+|  |  | Auswahlkriterium | LG Komplexe Nephrologie Mindestens eine der folgenden LG: LG EPU/Ablation oder LG Interventionelle Kardiologie oder LG Kardiale Devices oder LG Minimalinvasive Herzklappenintervention Mindestens eine der folgenden LG: LG Allgemeine Neurologie oder LG Stroke Unit oder LG Neuro-Frühreha (NNF, Phase B) |  |  | FA Innere Medizin und Angiologie |  |  |
+| 21 | Herzchirurgie | Mindestvoraussetzung | LG Allgemeine Innere Medizin LG Intensivmedizin, Qualitätsanforderung Hochkomplex LG Interventionelle Kardiologie | LG Allgemeine Chirurgie | Katheterlabor, Echokardiographie, EKG, Doppler- oder Duplex-Sonographie, DSA, Röntgen, CT jederzeit, Teleradiologischer Befund möglich, Herz-Lungen- Maschine | FA Herzchirurgie | Fünf FA, mindestens Rufbereitschaft: jederzeit |  |
+| Auswahlkriterium | LG Herztransplantation Mindestens eine der folgenden LG: LG Bauchaortenaneurysma oder LG Carotis operativ/ interventionell oder LG Komplexe periphere arterielle Gefäße |  | Hybrid-OP Extrakorporale Membranoxygenierung (ECMO) |  |  |  |  |  |
+| 22 | Herzchirurgie – Kinder und Jugendliche | Mindestvoraussetzung |  |  |  |  |  | Erfüllung der Anforderungen gemäß den §§ 4 und 5 und der Vorgaben gemäß § 6 der Bekanntmachung eines Beschlusses des G‑BA über eine Richtlinie über Maßnahmen zur Qualitätssicherung der herzchirurgischen Versorgung bei Kindern und Jugendlichen gemäß § 136 Absatz 1 Nummer 2 SGB V vom 18. Februar 2010 (BAnz Nr. 89a – Beilage vom 18.06.2010), der durch Beschluss vom 4. Dezember 2024 (BAnz AT 21.01.2025 B4) geändert wurde |
+| 23 | Endo- prothetik Hüfte | Mindestvoraussetzung | LG Intensivmedizin LG Allgemeine Chirurgie LG Allgemeine Innere Medizin |  | Röntgen jederzeit, Teleradiologischer Befund möglich | FA Orthopädie und Unfallchirurgie | Drei FA, mindestens Rufbereitschaft: jederzeit |  |
+| Auswahlkriterium | LG Endoprothetik Knie LG Geriatrie LG Revision Hüftendoprothese |  | CT jederzeit, MRT | ZW Spezielle Orthopädische Chirurgie ZW Spezielle Unfallchirurgie |  |  |  |  |
+| 24 | Endo- prothetik Knie | Mindestvoraussetzung | LG Intensivmedizin LG Allgemeine Chirurgie LG Allgemeine Innere Medizin |  | Röntgen jederzeit, Teleradiologischer Befund möglich | FA Orthopädie und Unfallchirurgie | Drei FA, mindestens Rufbereitschaft: jederzeit |  |
+| Auswahlkriterium | LG Endoprothetik Hüfte LG Geriatrie LG Revision Knieendoprothese |  | CT jederzeit, MRT | ZW Spezielle Orthopädische Chirurgie ZW Spezielle Unfallchirurgie |  |  |  |  |
+| 25 | Revision Hüftendoprothese | Mindestvoraussetzung | LG Endoprothetik Hüfte LG Intensivmedizin LG Allgemeine Chirurgie LG Allgemeine Innere Medizin |  | Röntgen jederzeit, Teleradiologischer Befund möglich | FA Orthopädie und Unfallchirurgie ZW Spezielle Orthopädische Chirurgie | Drei FA, mindestens Rufbereitschaft: jederzeit; davon mindestens ein FA mit ZW Spezielle Orthopädische Chirurgie |  |
+| Auswahlkriterium | LG Geriatrie |  | CT jederzeit, MRT |  |  |  |  |  |
+| 26 | Revision Knieendoprothese | Mindestvoraussetzung | LG Endoprothetik Knie LG Intensivmedizin LG Allgemeine Chirurgie LG Allgemeine Innere Medizin |  | Röntgen jederzeit, Teleradiologischer Befund möglich | FA Orthopädie und Unfallchirurgie ZW Spezielle Orthopädische Chirurgie | Drei FA, mindestens Rufbereitschaft: jederzeit; davon mindestens ein FA mit ZW Spezielle Orthopädische Chirurgie |  |
+| Auswahlkriterium | LG Geriatrie |  | CT jederzeit, MRT |  |  |  |  |  |
+| 27 | Spezielle Traumatologie | Mindestvoraussetzung | LG Allgemeine Chirurgie LG Intensivmedizin LG Allgemeine Innere Medizin | LG Neurochirurgie LG Komplexe periphere arterielle Gefäße LG Allgemeine Kinder- und Jugendmedizin | CT jederzeit, Röntgen jederzeit, Sonographie, mindestens zwei Operationssäle, Intensivstation mit mindestens sechs Betten, MRT jederzeit, Schockraum, Angiographiearbeitsplatz, Teleradiologische Anbindung zum Standort mit LG Neurochirurgie, falls diese in Kooperation erbracht wird, Hubschrauberlandeplatz oder Public-Interest-Site-(PIS-)Landestelle | FA Orthopädie und Unfallchirurgie FA Orthopädie und Unfallchirurgie mit ZW Spezielle Unfallchirurgie | Fünf FA, mindestens Rufbereitschaft: jederzeit; davon mindestens drei FA mit ZW Spezielle Unfallchirurgie | Erfüllung der Voraussetzungen der erweiterten Notfallversorgung gemäß den §§ 13 bis 17 der Bekanntmachung eines Beschlusses des G-BA über Regelungen zu einem gestuften System von Notfallstrukturen in Krankenhäusern gemäß § 136c Absatz 4 SGB V vom 19. April 2018 (BAnz AT 18.05.2018 B4), der durch Beschluss vom 20. November 2020 (BAnz AT 24.12.2020 B2) geändert worden ist Erfüllung der durch die gesetzliche Unfallversicherungsträger nach § 34 Absatz 1 Satz 2 des Siebten Buches Sozialgesetzbuch (SGB VII) festgelegten Anforderungen an Krankenhäuser zur Beteiligung am Verletzungsartenverfahren (VAV) in der Fassung vom 1. Juli 2025, welche auf Grundlage von § 34 Absatz 2 und 3 SGB VII von der Deutschen Gesetzlichen Unfallversicherung e. V. und der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau festgelegt worden sind. Die Anforderungen sind abrufbar auf der Internetseite der Landesverbände der Deutschen Gesetzlichen Unfallversicherung (www.dguv.de/landesverbaende) unter der Rubrik „Medizinische Rehabilitation“ in der Unterrubrik „Verletzungsartenverfahren“. |
+|  |  |  |  |  |  |  |  | Erfüllung der Anforderungen an die personelle Ausstattung und der räumlichen Anforderungen für Regionales Traumazentrum (RTZ) oder Überregionales Traumazentrum (ÜTZ) nach dem „Weißbuch Schwerverletztenversorgung – Empfehlungen zur Struktur, Organisation, Ausstattung sowie Förderung von Qualität und Sicherheit in der Schwerverletztenversorgung in der Bundesrepublik Deutschland“; Herausgeber: Deutsche Gesellschaft für Unfall- chirurgie e. V., 3. erweiterte Auflage 2019, Seiten 16, 17 und 18 bis 20 |
+|  |  | Auswahlkriterium | LG Geriatrie LG Wirbelsäuleneingriffe LG Endoprothetik Hüfte LG Endoprothetik Knie | LG Urologie LG Plastische und Rekonstruktive Chirurgie LG Thoraxchirurgie LG HNO LG Herzchirurgie LG Mund-Kiefer- Gesichtschirurgie (MKG) |  | FA Neurochirurgie | Drei FA, mindestens Rufbereitschaft: jederzeit |  |
+| 28 | Wirbelsäuleneingriffe | Mindestvoraussetzung | LG Intensivmedizin LG Allgemeine Chirurgie LG Allgemeine Innere Medizin |  | Röntgen jederzeit, Teleradiologischer Befund möglich | FA Orthopädie und Unfallchirurgie FA Neurochirurgie | Drei FA, mindestens Rufbereitschaft: jederzeit |  |
+| Auswahlkriterium |  | LG Neurochirurgie | CT jederzeit, MRT | ZW Spezielle Orthopädische Chirurgie |  |  |  |  |
+| 29 | Thoraxchirurgie | Mindestvoraussetzung | LG Intensivmedizin, Qualitätsanforderung Hochkomplex LG Allgemeine Chirurgie LG Allgemeine Innere Medizin | LG Komplexe Pneumologie LG Palliativmedizin | Röntgen jederzeit, CT jederzeit oder MRT jederzeit, Teleradiologischer Befund möglich | FA Thoraxchirurgie | Drei FA, mindestens Rufbereitschaft: jederzeit Sofern LG Herzchirurgie am Standort erbracht wird: abweichend mindestens zwei FA Thoraxchirurgie, mindestens Rufbereitschaft: jederzeit |  |
+|  |  | Auswahlkriterium | LG Herzchirurgie LG Komplexe Pneumologie LG Palliativmedizin | LG Neurochirurgie Mindestens eine der folgenden LG: LG Bauchaortenaneurysma oder LG Carotis operativ/interventionell oder LG Komplexe periphere arterielle Gefäße Mindestens eine der folgenden LG: LG Endoprothetik Hüfte oder LG Endoprothetik Knie oder LG Revision Hüftendoprothese oder LG Revision Knieendoprothese Mindestens eine der folgenden LG: LG Bariatrische Chirurgie oder LG Lebereingriffe oder LG Ösophaguseingriffe oder LG Pankreaseingriffe oder LG Tiefe Rektumeingriffe |  | FA Radiologie |  |  |
+| 30 | Bariatrische Chirurgie | Mindestvoraussetzung | LG Allgemeine Chirurgie LG Allgemeine Innere Medizin LG Intensivmedizin | LG Komplexe Gastroenterologie | CT jederzeit oder MRT jederzeit | FA Viszeralchirurgie | Drei FA, mindestens Rufbereitschaft: jederzeit |  |
+| Auswahlkriterium | LG Komplexe Gastroenterologie |  | Mindestens ein OP-Tisch mit einer Tragfähigkeit von mindestens 225 Kilogramm |  |  |  |  |  |
+| 31 | Lebereingriffe | Mindestvoraussetzung | LG Allgemeine Chirurgie LG Allgemeine Innere Medizin LG Intensivmedizin, Qualitätsanforderung Hochkomplex | LG Komplexe Gastroenterologie | Röntgen jederzeit, CT jederzeit oder MRT jederzeit, Teleradiologischer Befund möglich | FA Viszeralchirurgie ZW Spezielle Viszeralchirurgie | Drei FA, mindestens Rufbereitschaft: jederzeit; davon mindestens ein FA mit ZW Spezielle Viszeralchirurgie |  |
+| Auswahlkriterium | LG Lebertransplantation LG Palliativmedizin LG Pankreaseingriffe LG Komplexe Gastroenterologie |  | Interventionelle Endoskopie einschließlich endoskopischer retrograder Cholangiopankreatikographie (ERC/P) jederzeit, interventionelle Radiologie jederzeit, diagnostische Angiographie jederzeit |  |  |  |  |  |
+| 32 | Ösophaguseingriffe | Mindestvoraussetzung | LG Allgemeine Chirurgie LG Allgemeine Innere Medizin LG Intensivmedizin, Qualitätsanforderung Hochkomplex |  | Röntgen jederzeit, CT jederzeit oder MRT jederzeit, Teleradiologischer Befund möglich, interventionelle Endoskopie jederzeit | FA Viszeralchirurgie ZW Spezielle Viszeralchirurgie FA Innere Medizin und Gastroenterologie | Fünf FA, mindestens Rufbereitschaft: jederzeit; davon drei FA Viszeralchirurgie und davon mindestens ein FA mit ZW Spezielle Viszeralchirurgie; davon zwei FA Innere Medizin und Gastroenterologie |  |
+| Auswahlkriterium | LG Komplexe Gastroenterologie LG Palliativmedizin | LG Thoraxchirurgie | Diagnostische Angiographie |  |  |  |  |  |
+| 33 | Pankreaseingriffe | Mindestvoraussetzung | LG Allgemeine Chirurgie LG Allgemeine Innere Medizin LG Intensivmedizin, Qualitätsanforderung Hochkomplex |  | Röntgen jederzeit, CT jederzeit oder MRT jederzeit, Teleradiologischer Befund möglich, Interventionelle Endoskopie einschließlich ERC/P | FA Viszeralchirurgie ZW Spezielle Viszeralchirurgie FA Innere Medizin und Gastroenterologie | Fünf FA, mindestens Rufbereitschaft: jederzeit; davon drei FA Viszeralchirurgie und davon mindestens ein FA mit ZW Spezielle Viszeralchirurgie; davon zwei FA Innere Medizin und Gastroenterologie |  |
+| Auswahlkriterium | LG Komplexe Endokrinologie und Diabetologie LG Lebereingriffe LG Palliativmedizin |  | Interventionelle Radiologie, Diagnostische Angiographie |  |  |  |  |  |
+| 34 | Tiefe Rektumeingriffe | Mindestvoraussetzung | LG Allgemeine Chirurgie LG Allgemeine Innere Medizin LG Intensivmedizin, Qualitätsanforderung Komplex | LG Komplexe Gastroenterologie | Röntgen jederzeit, CT jederzeit oder MRT jederzeit, Teleradiologischer Befund möglich | FA Viszeralchirurgie ZW Spezielle Viszeralchirurgie | Drei FA, mindestens Rufbereitschaft: jederzeit; davon mindestens ein FA mit ZW Spezielle Viszeralchirurgie |  |
+| Auswahlkriterium | LG Komplexe Gastroenterologie LG Palliativmedizin LG Urologie |  | Interventionelle Endoskopie jederzeit | ZW Proktologie |  |  |  |  |
+| 35 | Augenheilkunde | Mindestvoraussetzung |  | LG Allgemeine Chirurgie LG Allgemeine Innere Medizin | Sonographiegerät, Gonioskopie, Ophtalmoskopie, Fluoreszenzangiographie | FA Augenheilkunde | Drei FA, mindestens Rufbereitschaft: jederzeit |  |
+| Auswahlkriterium | LG Allgemeine Innere Medizin LG MKG Mindestens eine der folgenden LG: LG Allgemeine Neurologie oder LG Stroke Unit oder LG Neuro-Frühreha (NNF, Phase B) |  | Optische Kohärenztomographie (OCT) |  |  |  |  |  |
+| 36 | Haut- und Ge- schlechtskrankheiten | Mindestvoraussetzung | LG Intensivmedizin LG Allgemeine Chirurgie LG Allgemeine Innere Medizin | LG Allgemeine Frauenheilkunde LG Urologie | Lasertherapie, Photo(chemo)therapie | FA Haut- und Geschlechtskrankheiten | Drei FA, mindestens Rufbereitschaft: jederzeit |  |
+| Auswahlkriterium | LG Allgemeine Frauenheilkunde LG Neurochirurgie LG Urologie | LG HNO LG MKG LG Thoraxchirurgie |  | FA Innere Medizin und Hämatologie und Onkologie ZW Allergologie |  |  |  |  |
+| 37 | MKG | Mindestvoraussetzung | LG Intensivmedizin LG Allgemeine Chirurgie LG Allgemeine Innere Medizin |  | B-Bild-Sonograph, CT, Orthopantomogramm (OPG)-Röntgengerät | FA Mund-Kiefer- Gesichtschirurgie | Drei FA, mindestens Rufbereitschaft: jederzeit |  |
+| Auswahlkriterium | LG Neurochirurgie Mindestens eine der folgenden LG: LG Endoprothetik Hüfte oder LG Endoprothetik Knie oder LG Revision Hüftendoprothetik oder LG Revision Knieendoprothese | LG Augenheilkunde LG HNO |  |  |  |  |  |  |
+| 38 | Urologie | Mindestvoraussetzung | LG Allgemeine Chirurgie LG Allgemeine Innere Medizin LG Intensivmedizin | LG Komplexe Nephrologie | Endoskop, Laparoskop, Sonographiegerät (einschließlich Doppler- oder Duplex-Sonographie) | FA Urologie | Drei FA, mindestens Rufbereitschaft: jederzeit |  |
+| Auswahlkriterium | LG Komplexe Nephrologie | LG Allgemeine Frauenheilkunde | CT, MRT, PET oder PET-CT, Roboter-assistierte Chirurgie | FA Urologie mit ZW Andrologie |  |  |  |  |
+| 39 | Allgemeine Frauenheilkunde | Mindestvoraussetzung | LG Allgemeine Chirurgie LG Allgemeine Innere Medizin LG Intensivmedizin |  |  | FA Frauenheilkunde und Geburtshilfe | Drei FA, mindestens Rufbereitschaft: jederzeit |  |
+| Auswahlkriterium | LG Urologie Mindestens eine der folgenden LG: LG Lebereingriffe oder LG Ösophaguseingriffe oder LG Pankreaseingriffe oder LG Tiefe Rektumeingriffe |  |  | FA Frauenheilkunde und Geburtshilfe mit SP Gynäkologische Endokrinologie und Reproduktionsmedizin |  |  |  |  |
+| 40 | Ovarial-CA | Mindestvoraussetzung | LG Allgemeine Chirurgie LG Allgemeine Frauenheilkunde LG Allgemeine Innere Medizin LG Intensivmedizin, Qualitätsanforderung Komplex | LG Urologie |  | FA Frauenheilkunde und Geburtshilfe mit SP Gynäkologische Onkologie | Drei FA, mindestens Rufbereitschaft: jederzeit; davon mindestens ein FA mit SP Gynäkologische Onkologie |  |
+| Auswahlkriterium | LG Palliativmedizin LG Senologie LG Urologie Mindestens eine der folgenden LG: LG Lebereingriffe oder LG Ösophaguseingriffe oder LG Pankreaseingriffe oder LG Tiefe Rektumeingriffe |  |  | FA Frauenheilkunde und Geburtshilfe mit SP Gynäkologische Endokrinologie und Reproduktionsmedizin |  |  |  |  |
+| 41 | Senologie | Mindestvoraussetzung | LG Allgemeine Chirurgie LG Allgemeine Frauenheilkunde LG Allgemeine Innere Medizin LG Intensivmedizin |  |  | FA Frauenheilkunde und Geburtshilfe | Drei FA, mindestens Rufbereitschaft: jederzeit |  |
+|  |  | Auswahlkriterium | LG Ovarial-CA LG Palliativmedizin LG Plastische und Rekonstruktive Chirurgie Mindestens eine der folgenden LG: LG Stammzelltransplantation oder LG Leukämie und Lymphome |  |  | FA Frauenheilkunde und Geburtshilfe mit SP Gynäkologische Onkologie FA für Plastische, Rekonstruktive und Ästhetische Chirurgie |  |  |
+| 42 | Geburten | Mindestvoraussetzung | LG Allgemeine Chirurgie LG Allgemeine Frauenheilkunde LG Allgemeine Innere Medizin LG Intensivmedizin | LG Allgemeine Kinder- und Jugendmedizin |  | FA Frauenheilkunde und Geburtshilfe | Drei FA, mindestens Rufbereitschaft: jederzeit |  |
+| Auswahlkriterium | LG Allgemeine Kinder- und Jugendmedizin LG Kinder- und Jugendchirurgie |  |  | FA Frauenheilkunde und Geburtshilfe mit SP Spezielle Geburtshilfe und Perinatalmedizin | FA anwesend: jederzeit |  |  |  |
+| 43 | Perinataler Schwerpunkt | Mindestvoraussetzung |  |  |  |  |  | Erfüllung der Anforderungen der Versorgungsstufe III gemäß Nummer III der Anlage 1 der Bekanntmachung eines Beschlusses des G‑BA über Maßnahmen zur Qualitätssicherung der Versorgung von Früh- und Reifgeborenen gemäß § 136 Absatz 1 Nummer 2 SGB V in Verbindung mit § 92 Absatz 1 Satz 2 Nummer 13 SGB V vom 20. September 2005 (BAnz S. 15 684 vom 28.10.2005), der zuletzt durch den Beschluss vom 17. Oktober 2024 (BAnz AT 20.01.2025 B4) geändert wurde |
+| 44 | Perinatalzentrum Level 1 | Mindestvoraussetzung |  |  |  |  |  | Erfüllung der Anforderungen der Versorgungsstufe I gemäß Nummer I der Anlage 1 der Bekanntmachung eines Beschlusses des G-BA über Maßnahmen zur Qualitätssicherung der Versorgung von Früh- und Reifgeborenen gemäß § 136 Absatz 1 Nummer 2 SGB V in Verbindung mit § 92 Absatz 1 Satz 2 Nummer 13 SGB V vom 20. September 2005 (BAnz S. 15 684 vom 28.10.2005), der zuletzt durch den Beschluss vom 17. Oktober 2024 (BAnz AT 20.01.2025 B4) geändert wurde |
+| Auswahlkriterium |  |  |  | FA Kinder- und Jugendmedizin mit SP Neuropädiatrie |  |  |  |  |
+| 45 | Perinatalzentrum Level 2 | Mindestvoraussetzung |  |  |  |  |  | Erfüllung der Anforderungen der Versorgungsstufe II gemäß Nummer II der Anlage 1 der Bekanntmachung eines Beschlusses des G-BA über Maßnahmen zur Qualitätssicherung der Versorgung von Früh- und Reifgeborenen gemäß § 136 Absatz 1 Nummer 2 SGB V in Verbindung mit § 92 Absatz 1 Satz 2 Nummer 13 SGB V vom 20. September 2005 (BAnz S. 15 684 vom 28.10.2005), der zuletzt durch den Beschluss vom 17. Oktober 2024 (BAnz AT 20.01.2025 B4) geändert wurde |
+| 46 | Allgemeine Kinder- und Jugendmedizin | Mindestvoraussetzung |  | LG Intensivmedizin |  | FA Kinder- und Jugendmedizin | Drei FA, mindestens Rufbereitschaft: jederzeit |  |
+| Auswahlkriterium | Mindestens eine der folgenden LG: LG Perinataler Schwerpunkt oder LG Perinatalzentrum Level 1 oder LG Perinatalzentrum Level 2 LG Geburten LG Intensivmedizin LG Kinder- und Jugendchirurgie |  |  | FA Kinder- und Jugendchirurgie |  |  |  |  |
 | 47 | nicht belegt |  |  |  |  |  |  |  |
-| 48 | Kinder-Hämatologie und ‑Onkologie – Stammzelltransplantation | Mindestvoraus-setzung | LG Allgemeine Kinder- und Jugendmedizin LG Intensivmedizin, Qualitätsanforderung Hochkomplex | LG Kinder-Hämatologie und -Onkologie – Leukämie und Lymphome LG Palliativmedizin | CT jederzeit oder MRT jederzeit, Zentrales Monitoring von EKG, Blutdruck und Sauerstoffsättigung auf der Station, Nichtinvasive Beatmung (einschließlich HFNC) Sofern allogene Stammzelltransplantationen durchgeführt werden: Einzelzimmer mit eigener Schleuse und kontinuierlichem Überdruck und gefilterter Luftzufuhr | FA Kinder- und Jugendmedizin | Drei FA, mindestens Rufbereitschaft: jederzeit | Erfüllung der Anforderungen gemäß den §§ 4 und 5 und der Vorgaben gemäß § 6 der Bekanntmachung eines Beschlusses des GBA über eine Richtlinie über Maßnahmen zur Qualitätssicherung für die stationäre Versorgung von Kindern und Jugendlichen mit hämato-onkologischen Krankheiten gemäß § 136 Absatz 1 Satz 1 Nummer 2 SGB V für nach § 108 SGB V zugelassene Krankenhäuser vom 16. Mai 2006 (BAnz S. 4997 vom 13.07.2006), der zuletzt durch Beschluss vom 16. November 2024 (BAnz AT 12.12.2024 B6) geändert wurde Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden |
-|  |  | Auswahl-kriterium | LG Allgemeine Chirurgie LG Allgemeine Innere Medizin LG Kinder-Hämatologie und -Onkologie – Leukämie und Lymphome LG Komplexe Pneumologie LG Neurochirurgie LG Palliativmedizin LG Stammzelltransplantation | LG Kinder- und Jugendchirurgie LG Leukämie und Lymphome | Telemedizinische Behandlung | FA Transfusionsmedizin FA Kinder- und Jugendmedizin mit SP Kinder- und Jugend-Hämatologie und -Onkologie FA Innere Medizin und Hämatologie und Onkologie |  |  |
-| 49 | Kinder-Hämatologie und Onkologie – Leukämie und Lymphome | Mindestvoraus-setzung | LG Allgemeine Kinder- und Jugendmedizin LG Intensivmedizin, Qualitätsanforderung Komplex | LG Kinder-Hämatologie und -Onkologie – Stammzelltransplantation LG Palliativmedizin | CT jederzeit oder MRT jederzeit | FA Kinder- und Jugendmedizin | Drei FA, mindestens Rufbereitschaft: jederzeit | Erfüllung der Anforderungen gemäß den §§ 4 und 5 und der Vorgaben gemäß § 6 der Bekanntmachung eines Beschlusses des GBA über eine Richtlinie über Maßnahmen zur Qualitätssicherung für die stationäre Versorgung von Kindern und Jugendlichen mit hämato-onkologischen Krankheiten gemäß § 136 Absatz 1 Satz 1 Nummer 2 SGB V für nach § 108 SGB V zugelassene Krankenhäuser vom 16. Mai 2006 (BAnz, S. 4997 vom 13.07.2006), der zuletzt durch Beschluss vom 16. November 2024 (BAnz AT 12.12.2024 B6) geändert wurde Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden |
-|  |  | Auswahl-kriterium | LG Allgemeine Chirurgie LG Allgemeine Innere Medizin LG Kinder-Hämatologie und -Onkologie – Stammzelltransplantation LG Komplexe Pneumologie LG Leukämie und Lymphome LG Neurochirurgie LG Palliativmedizin | LG Kinder- und Jugendchirurgie LG Stammzelltransplantation | Telemedizinische Behandlung | FA Kinder- und Jugendmedizin mit SP Kinder- und Jugend-Hämatologie und -Onkologie FA Innere Medizin und Hämatologie und Onkologie |  |  |
-| 50 | HNO | Mindestvoraus-setzung | LG Allgemeine Chirurgie LG Allgemeine Innere Medizin LG Intensivmedizin |  | Elektrische Reaktionsaudiometrie (ERA) | FA Hals-Nasen- Ohrenheilkunde | Drei FA, mindestens Rufbereitschaft: jederzeit | Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden |
-|  |  | Auswahl-kriterium | LG Allgemeine Kinder- und Jugendmedizin | LG MKG | MRT, PET-CT, Doppler- oder Duplex-Sonographien | ZW Allergologie |  |  |
-| 51 | Cochleaimplantate | Mindestvoraus-setzung | LG Allgemeine Chirurgie LG Allgemeine Innere Medizin LG HNO LG Intensivmedizin |  | ERA | FA für Hals-Nasen-Ohrenheilkunde | Drei FA, mindestens Rufbereitschaft: jederzeit | Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden |
-|  |  | Auswahl-kriterium | LG Allgemeine Kinder- und Jugendmedizin | LG MKG | MRT, PET-CT, Doppler- oder Duplex-Sonographien | FA Phoniatrie und Pädaudiologie |  |  |
-| 52 | Neurochirurgie | Mindestvoraus-setzung | LG Allgemeine Chirurgie LG Allgemeine Innere Medizin LG Intensivmedizin, Qualitätsanforderung Komplex | LG Allgemeine Neurologie LG Stroke Unit | Evozierte Potentiale, Sonographie einschließlich extra- und intrakranielle Doppler- und Farbduplexsonographie, CT jederzeit, MRT | FA Neurochirurgie | Drei FA, mindestens Rufbereitschaft: jederzeit | Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden |
-|  |  | Auswahl-kriterium | LG Allgemeine Neurologie LG Stroke Unit LG Wirbelsäulenchirurgie Mindestens eine der folgenden LG: LG Endoprothetik Hüfte oder LG Endoprothetik Knie oder LG Revision Hüftendoprothetik oder LG Revision Knieendoprothese | LG HNO LG MKG LG Palliativmedizin | MRT jederzeit | FA Radiologie mit SP Neuroradiologie ZW Spezielle Schmerztherapie |  |  |
-| 53 | Allgemeine Neurologie | Mindestvoraus-setzung | LG Allgemeine Innere Medizin LG Intensivmedizin |  | CT oder MRT (Teleradiologie möglich), Elektroenzephalogramm (EEG), Elektromyographie (EMG), Evozierte Potentiale, Elektroneurographie (ENG), Sonographie einschließlich extra- und intrakranielle Doppler- und Farbduplexsonographie, Schluckdiagnostik | FA Neurologie | Drei FA, mindestens Rufbereitschaft: jederzeit | Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden |
-|  |  | Auswahl-kriterium | LG Geriatrie LG Neurochirurgie Mindestens einer der folgenden LG: LG EPU/Ablation oder LG Interventionelle Kardiologie oder LG Kardiale Devices oder LG Minimalinvasive Herzklappenintervention | LG Allgemeine Chirurgie LG Augenheilkunde LG HNO |  | ZW Geriatrie oder ZW Intensivmedizin oder ZW Palliativmedizin oder ZW Schlafmedizin |  |  |
-| 54 | Stroke Unit | Mindestvoraus-setzung | LG Allgemeine Innere Medizin LG Allgemeine Neurologie LG Intensivmedizin | LG Neurochirurgie Mindestens eine der folgenden LG: LG Bauchaortenaneurysma oder LG Carotis operativ/interventionell oder LG Komplexe periphere arterielle Gefäße | CT jederzeit oder MRT jederzeit (Befundung auch durch Teleradiologie möglich), CT-Angiographie jederzeit oder MR-Angiographie jederzeit (Befundung auch durch Teleradiologie möglich), Intra- und extrakranielle Sonographie einschließlich Farbduplex jederzeit, Transthorakale Echokardiographie (TTE), TEE, Systemische Fibrinolyse jederzeit | FA Neurologie | Drei FA, mindestens Rufbereitschaft: jederzeit | Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden |
-|  |  | Auswahl-kriterium | LG Neurochirurgie LG Neuro-Frühreha (NNF, Phase B) Mindestens einer der folgenden LG: LG Bauchaortenaneurysma oder LG Carotis operativ/interventionell oder LG Komplexe periphere arterielle Gefäße Mindestens eine der folgenden LG: LG EPU/Ablation oder LG Interventionelle Kardiologie oder LG Kardiale Devices oder LG Minimalinvasive Herzklappenintervention |  | Neuroradiologische Behandlungsmöglichkeit (einschließlich Thrombektomie) jederzeit mindestens in Kooperation, DSA | FA Radiologie mit SP Neuroradiologie FA Innere Medizin und Kardiologie |  |  |
-| 55 | Neuro-Frühreha (NNF, Phase B) | Mindestvoraus-setzung | LG Intensivmedizin | LG Allgemeine Innere Medizin LG Allgemeine Neurologie | CT oder MRT (Teleradiologie möglich), EKG, EEG, EMG, Elektrisch evozierte Potenziale (EVP), Motorisch evozierte Potenziale (MEP), Mobiles Ultraschallgerät einschließlich Farbduplex | FA Neurochirurgie FA Neurologie FA Kinder- und Jugendmedizin mit SP Neuropädiatrie FA Physikalische und Rehabilitative Medizin | Drei FA, mindestens Rufbereitschaft: jederzeit | Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden |
-|  |  | Auswahl-kriterium | LG Allgemeine Innere Medizin LG Allgemeine Neurologie |  |  |  |  |  |
-| 56 | Geriatrie | Mindestvoraus-setzung | LG Allgemeine Innere Medizin LG Intensivmedizin | LG Urologie Mindestens eine der folgenden LG: LG Allgemeine Neurologie oder LG Stroke Unit oder LG Neuro-Frühreha (NNF, Phase B) Mindestens eine der folgenden LG: LG Endoprothetik Hüfte oder LG Endoprothetik Knie oder LG Revision Hüftendoprothese oder LG Revision Knieendoprothese oder LG Wirbelsäuleneingriffe | CT | ZW Geriatrie oder Schwerpunkt Geriatrie oder FA für Innere Medizin und Geriatrie | Drei FA, mindestens Rufbereitschaft: jederzeit; davon mindestens zwei mit ZW Geriatrie oder Schwerpunkt Geriatrie oder FA für Innere Medizin und Geriatrie | Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden |
-|  |  | Auswahl-kriterium | LG Allgemeine Chirurgie LG Palliativmedizin Mindestens eine der folgenden LG: LG Allgemeine Neurologie oder LG Stroke Unit oder LG Neuro-Frühreha (NNF, Phase B) Mindestens eine der folgenden LG: LG Endoprothetik Hüfte oder LG Endoprothetik Knie oder LG Revision Hüftendoprothese oder LG Revision Knieendoprothese oder LG Wirbelsäuleneingriffe |  |  |  |  |  |
-| 57 | Palliativmedizin | Mindestvoraus-setzung | LG Allgemeine Innere Medizin oder LG Allgemeine Kinder- und Jugendmedizin |  |  | ZW Palliativmedizin | Drei FA, mindestens Rufbereitschaft: jederzeit; davon mindestens zwei FA mit ZW Palliativmedizin | Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden |
-|  |  | Auswahl-kriterium | LG Intensivmedizin LG Kinder-Hämatologie und -Onkologie – Leukämie und Lymphome LG Kinder-Hämatologie und -Onkologie – Stammzelltransplantation Mindestens eine der folgenden LG: LG Stammzelltransplantation oder LG Leukämie und Lymphome Mindestens eine der folgenden LG: LG Allgemeine Neurologie oder LG Stroke Unit oder LG Neuro-Frühreha (NNF, Phase B) | LG Geriatrie |  | FA Kinder- und Jugendmedizin |  |  |
-| 58 | Darmtransplantation | Mindestvoraus-setzung | LG Allgemeine Chirurgie LG Allgemeine Innere Medizin LG Intensivmedizin, Qualitätsanforderung Hochkomplex Mindestens eine der folgenden LG: LG Bariatrische Chirurgie oder LG Lebereingriffe oder LG Ösophaguseingriffe oder LG Pankreaseingriffe oder LG Tiefe Rektumeingriffe |  | Röntgen, CT jederzeit, Teleradiologischer Befund möglich, MRT | FA Viszeralchirurgie ZW Transplantationsmedizin | Drei FA, mindestens Rufbereitschaft: jederzeit Davon mindestens ein FA mit ZW Transplantationsmedizin | Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden |
-|  |  | Auswahl-kriterium | Mindestens eine der folgenden LG: LG Bauchaortenaneurysma oder LG Carotis operativ/interventionell oder LG Komplexe periphere arterielle Gefäße |  |  | FA Allgemeinchirurgie FA Gefäßchirurgie FA Kinder- und Jugendmedizin jeweils mit ZW Transplantationsmedizin |  |  |
-| 59 | Herztransplantation | Mindestvoraus-setzung | LG Allgemeine Chirurgie LG Allgemeine Innere Medizin LG Intensivmedizin, Qualitätsanforderung Hochkomplex Mindestens eine der folgenden LG: LG Herzchirurgie oder LG Herzchirurgie – Kinder und Jugendliche Mindestens eine der folgenden LG: LG EPU/Ablation oder LG Interventionelle Kardiologie oder LG Kardiale Devices oder LG Minimalinvasive Herzklappenintervention |  | Herzkatheterlabor (Rechts- und Linkskatheter), Herz-Lungen- Maschine, Röntgen, CT jederzeit, Teleradiologischer Befund möglich, MRT | FA Herzchirurgie FA Innere Medizin und Kardiologie ZW Transplantationsmedizin | Sechs FA, mindestens Rufbereitschaft: jederzeit; davon mindestens drei FA Herzchirurgie und drei FA Innere Medizin und Kardiologie; davon mindestens ein FA mit ZW Transplantationsmedizin | Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden |
-|  |  | Auswahl-kriterium | LG Thoraxchirurgie |  | ECMO | FA Thoraxchirurgie FA Innere Medizin und Pneumologie FA Kinder- und Jugendmedizin jeweils mit ZW Transplantationsmedizin |  |  |
-| 60 | Lebertransplantation | Mindestvoraus-setzung | LG Intensivmedizin, Qualitätsanforderung Hochkomplex LG Komplexe Gastroenterologie Mindestens eine der folgenden LG: LG Bariatrische Chirurgie oder LG Lebereingriffe oder LG Ösophaguseingriffe oder LG Pankreaseingriffe oder LG Tiefe Rektumeingriffe |  | Röntgen, CT jederzeit, Teleradiologischer Befund möglich, MRT | FA Viszeralchirurgie FA Innere Medizin und Gastroenterologie ZW Transplantationsmedizin | Sechs FA, mindestens Rufbereitschaft: jederzeit; davon mindestens drei FA Viszeralchirurgie und drei FA Innere Medizin und Gastroenterologie; davon mindestens ein FA mit ZW Transplantationsmedizin | Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden |
-|  |  | Auswahl-kriterium | LG Allgemeine Chirurgie LG Allgemeine Innere Medizin Mindestens eine der folgenden LG: LG Bauchaortenaneurysma oder LG Carotis operativ/interventionell oder LG Komplexe periphere arterielle Gefäße |  |  | FA Allgemeinchirurgie FA Gefäßchirurgie FA Kinder- und Jugendmedizin jeweils mit ZW Transplantationsmedizin |  |  |
-| 61 | Lungentransplantation | Mindestvoraus-setzung | LG Allgemeine Chirurgie LG Allgemeine Innere Medizin LG Intensivmedizin, Qualitätsanforderung Hochkomplex LG Komplexe Pneumologie LG Herzchirurgie oder LG Thoraxchirurgie |  | Herz-Lungen-Maschine, Röntgen, CT jederzeit, Teleradiologischer Befund möglich, MRT | FA Herzchirurgie FA Thoraxchirurgie ZW Transplantationsmedizin | Fünf FA Herzchirurgie und ein FA Thoraxchirurgie, mindestens Rufbereitschaft jederzeit oder drei FA Thoraxchirurgie und ein FA Herzchirurgie, mindestens Rufbereitschaft: jederzeit; davon mindestens ein FA mit ZW Transplantationsmedizin | Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden |
-|  |  | Auswahl-kriterium |  |  | ECMO | FA Kinder- und Jugendmedizin mit ZW Transplantationsmedizin |  |  |
-| 62 | Nierentransplantation | Mindestvoraus-setzung | LG Allgemeine Chirurgie LG Allgemeine Innere Medizin LG Intensivmedizin, Qualitätsanforderung Hochkomplex Mindestens zwei der folgenden LG: LG Komplexe Nephrologie oder LG Urologie oder mindestens eine der folgenden LG: LG Bariatrische Chirurgie oder LG Lebereingriffe oder LG Ösophaguseingriffe oder LG Pankreaseingriffe oder LG Tiefe Rektumeingriffe | LG Komplexe Nephrologie LG Urologie Mindestens eine der folgenden LG: LG Bariatrische Chirurgie oder LG Lebereingriffe oder LG Ösophaguseingriffe oder LG Pankreaseingriffe oder LG Tiefe Rektumeingriffe | Röntgen, CT jederzeit, Teleradiologischer Befund möglich, MRT | FA Viszeralchirurgie FA Urologie FA Innere Medizin und Nephrologie ZW Transplantationsmedizin | Neun FA, mindestens Rufbereitschaft: jederzeit; davon mindestens drei FA Viszeralchirurgie, drei FA Urologie und drei FA Innere Medizin und Nephrologie; davon mindestens ein FA mit ZW Transplantationsmedizin | Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden |
-|  |  | Auswahl-kriterium | LG Urologie Mindestens eine der folgenden LG: LG Bariatrische Chirurgie oder LG Lebereingriffe oder LG Ösophaguseingriffe oder LG Pankreaseingriffe oder LG Tiefe Rektumeingriffe Mindestens eine der folgenden LG: LG Bauchaortenaneurysma oder LG Carotis operativ/interventionell oder LG Komplexe periphere arterielle Gefäße |  |  | FA Allgemeinchirurgie FA Gefäßchirurgie FA Kinder- und Jugendmedizin jeweils mit ZW Transplantationsmedizin |  |  |
-| 63 | Pankreastransplantation | Mindestvoraus-setzung | LG Allgemeine Chirurgie LG Allgemeine Innere Medizin LG Intensivmedizin, Qualitätsanforderung Hochkomplex Mindestens eine der folgenden LG: LG Bariatrische Chirurgie oder LG Lebereingriffe oder LG Ösophaguseingriffe oder LG Pankreaseingriffe oder LG Tiefe Rektumeingriffe |  | Röntgen, CT jederzeit, Teleradiologischer Befund möglich, MRT | FA Viszeralchirurgie ZW Transplantationsmedizin | Drei FA, mindestens Rufbereitschaft: jederzeit; davon mindestens ein FA mit ZW Transplantationsmedizin | Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden |
-|  |  | Auswahl-kriterium | Mindestens eine der folgenden LG: LG Bauchaortenaneurysma oder LG Carotis operativ/interventionell oder LG Komplexe periphere arterielle Gefäße |  |  | FA Allgemeinchirurgie FA Gefäßchirurgie FA Kinder- und Jugendmedizin jeweils mit ZW Transplantationsmedizin |  |  |
-| 64 | Intensivmedizin | Mindest-voraus-setzung |  |  |  | FA aus einem Gebiet der unmittelbaren Patientenversorgung ZW Intensivmedizin FA Anästhesiologie | Drei intensivmedizinisch erfahrene FA, mindestens Rufbereitschaft:  jederzeit; davon mindestens ein FA mit ZW Intensivmedizin oder ein FA Anästhesiologie | Erfüllung der in § 6 der Pflegepersonaluntergrenzenverordnung festgelegten Pflegepersonaluntergrenzen im Monatsdurchschnitt in allen pflegesensitiven Bereichen, die an dem jeweiligen Krankenhausstandort nach § 3 der Pflegepersonaluntergrenzenverordnung ermittelt wurden |
-|  |  | Qualitätsanforderung Komplex |  |  | Verfügbarkeit folgender Untersuchungs-/Behandlungsverfahren auf der Intensivstation: a) Kontinuierliche Nierenersatzverfahren jederzeit, b) Flexible Bronchoskopie täglich acht Stunden im Zeitraum von 6 Uhr bis 18 Uhr, c) Ultraschall-Verfahren täglich acht Stunden im Zeitraum von 6 Uhr bis 18 Uhr,  Abdomen, TTE, TEE am Standort täglich acht Stunden im Zeitraum von 6 Uhr bis 18 Uhr | FA aus einem Gebiet der unmittelbaren Patientenversorgung ZW Intensivmedizin | Drei intensivmedizinisch erfahrene FA, mindestens Rufbereitschaft: jederzeit; davon mindestens zwei FA mit ZW Intensivmedizin Ständige Arztpräsenz auf der Intensivstation (Arzt kann zu einem kurzfristigen Notfalleinsatz innerhalb des Krankenhauses hinzugezogen werden) |  |
-|  |  | Qualitätsanforderung Hochkomplex |  |  | Verfügbarkeit folgender Untersuchungs- oder Behandlungsverfahren auf der Intensivstation: a) Kontinuierliche Nierenersatzverfahren jederzeit b) Flexible Bronchoskopie jederzeit c) Ultraschall-Verfahren jederzeit: Abdomen, TTE, TEE am Standort, täglich acht Stunden im Zeitraum von 6 Uhr bis 18 Uhr | ZW Intensivmedizin | Drei FA mit ZW Intensivmedizin, mindestens Rufbereitschaft: jederzeit Jederzeit Arztpräsenz auf der Intensivstation (Arzt kann zu einem kurzfristigen Notfalleinsatz innerhalb des Krankenhauses hinzugezogen werden) |  |
+| 48 | Kinder-Hämatologie und ‑Onkologie – Stammzelltransplantation | Mindestvoraussetzung | LG Allgemeine Kinder- und Jugendmedizin LG Intensivmedizin, Qualitätsanforderung Hochkomplex | LG Kinder-Hämatologie und -Onkologie – Leukämie und Lymphome LG Palliativmedizin | CT jederzeit oder MRT jederzeit, Zentrales Monitoring von EKG, Blutdruck und Sauerstoffsättigung auf der Station, Nichtinvasive Beatmung (einschließlich HFNC) Sofern allogene Stammzelltransplantationen durchgeführt werden: Einzelzimmer mit eigener Schleuse und kontinuierlichem Überdruck und gefilterter Luftzufuhr | FA Kinder- und Jugendmedizin | Drei FA, mindestens Rufbereitschaft: jederzeit | Erfüllung der Anforderungen gemäß den §§ 4 und 5 und der Vorgaben gemäß § 6 der Bekanntmachung eines Beschlusses des G-BA über eine Richtlinie über Maßnahmen zur Qualitätssicherung für die stationäre Versorgung von Kindern und Jugendlichen mit hämato-onkologischen Krankheiten gemäß § 136 Absatz 1 Satz 1 Nummer 2 SGB V für nach § 108 SGB V zugelassene Krankenhäuser vom 16. Mai 2006 (BAnz S. 4997 vom 13.07.2006), der zuletzt durch Beschluss vom 16. November 2024 (BAnz AT 12.12.2024 B6) geändert wurde |
+|  |  | Auswahlkriterium | LG Allgemeine Chirurgie LG Allgemeine Innere Medizin LG Kinder-Hämatologie und -Onkologie – Leukämie und Lymphome LG Komplexe Pneumologie LG Neurochirurgie LG Palliativmedizin LG Stammzelltransplantation | LG Kinder- und Jugendchirurgie LG Leukämie und Lymphome | Telemedizinische Behandlung | FA Transfusionsmedizin FA Kinder- und Jugendmedizin mit SP Kinder- und Jugend-Hämatologie und -Onkologie FA Innere Medizin und Hämatologie und Onkologie |  |  |
+| 49 | Kinder-Hämatologie und Onkologie – Leukämie und Lymphome | Mindestvoraussetzung | LG Allgemeine Kinder- und Jugendmedizin LG Intensivmedizin, Qualitätsanforderung Komplex | LG Kinder-Hämatologie und -Onkologie – Stammzelltransplantation LG Palliativmedizin | CT jederzeit oder MRT jederzeit | FA Kinder- und Jugendmedizin | Drei FA, mindestens Rufbereitschaft: jederzeit | Erfüllung der Anforderungen gemäß den §§ 4 und 5 und der Vorgaben gemäß § 6 der Bekanntmachung eines Beschlusses des G-BA über eine Richtlinie über Maßnahmen zur Qualitätssicherung für die stationäre Versorgung von Kindern und Jugendlichen mit hämato-onkologischen Krankheiten gemäß § 136 Absatz 1 Satz 1 Nummer 2 SGB V für nach § 108 SGB V zugelassene Krankenhäuser vom 16. Mai 2006 (BAnz, S. 4997 vom 13.07.2006), der zuletzt durch Beschluss vom 16. November 2024 (BAnz AT 12.12.2024 B6) geändert wurde |
+| Auswahlkriterium | LG Allgemeine Chirurgie LG Allgemeine Innere Medizin LG Kinder-Hämatologie und -Onkologie – Stammzelltransplantation LG Komplexe Pneumologie LG Leukämie und Lymphome LG Neurochirurgie LG Palliativmedizin | LG Kinder- und Jugendchirurgie LG Stammzelltransplantation | Telemedizinische Behandlung | FA Kinder- und Jugendmedizin mit SP Kinder- und Jugend-Hämatologie und -Onkologie FA Innere Medizin und Hämatologie und Onkologie |  |  |  |  |
+| 50 | HNO | Mindestvoraussetzung | LG Allgemeine Chirurgie LG Allgemeine Innere Medizin LG Intensivmedizin |  | Elektrische Reaktionsaudiometrie (ERA) | FA Hals-Nasen- Ohrenheilkunde | Drei FA, mindestens Rufbereitschaft: jederzeit |  |
+| Auswahlkriterium | LG Allgemeine Kinder- und Jugendmedizin | LG MKG | MRT, PET-CT, Doppler- oder Duplex-Sonographien | ZW Allergologie |  |  |  |  |
+| 51 | Cochleaimplantate | Mindestvoraussetzung | LG Allgemeine Chirurgie LG Allgemeine Innere Medizin LG HNO LG Intensivmedizin |  | ERA | FA für Hals-Nasen-Ohrenheilkunde | Drei FA, mindestens Rufbereitschaft: jederzeit |  |
+| Auswahlkriterium | LG Allgemeine Kinder- und Jugendmedizin | LG MKG | MRT, PET-CT, Doppler- oder Duplex-Sonographien | FA Phoniatrie und Pädaudiologie |  |  |  |  |
+| 52 | Neuro- chirurgie | Mindestvoraussetzung | LG Allgemeine Chirurgie LG Allgemeine Innere Medizin LG Intensivmedizin, Qualitätsanforderung Komplex | LG Allgemeine Neurologie LG Stroke Unit | Evozierte Potentiale, Sonographie einschließlich extra- und intrakranielle Doppler- und Farbduplexsonographie, CT jederzeit, MRT | FA Neurochirurgie | Drei FA, mindestens Rufbereitschaft: jederzeit |  |
+| Auswahlkriterium | LG Allgemeine Neurologie LG Stroke Unit LG Wirbelsäulenchirurgie Mindestens eine der folgenden LG: LG Endoprothetik Hüfte oder LG Endoprothetik Knie oder LG Revision Hüftendoprothetik oder LG Revision Knieendoprothese | LG HNO LG MKG LG Palliativmedizin | MRT jederzeit | FA Radiologie mit SP Neuroradiologie ZW Spezielle Schmerztherapie |  |  |  |  |
+| 53 | Allgemeine Neurologie | Mindestvoraussetzung | LG Allgemeine Innere Medizin LG Intensivmedizin |  | CT oder MRT (Teleradiologie möglich), Elektroenzephalogramm (EEG), Elektromyographie (EMG), Evozierte Potentiale, Elektroneurographie (ENG), Sonographie einschließlich extra-und intrakranielle Doppler- und Farbduplexsonographie, Schluckdiagnostik | FA Neurologie | Drei FA, mindestens Rufbereitschaft: jederzeit |  |
+| Auswahlkriterium | LG Geriatrie LG Neurochirurgie Mindestens einer der folgenden LG: LG EPU/Ablation oder LG Interventionelle Kardiologie oder LG Kardiale Devices oder LG Minimalinvasive Herzklappenintervention | LG Allgemeine Chirurgie LG Augenheilkunde LG HNO |  | ZW Geriatrie oder ZW Intensivmedizin oder ZW Palliativmedizin oder ZW Schlafmedizin |  |  |  |  |
+| 54 | Stroke Unit | Mindestvoraussetzung | LG Allgemeine Innere Medizin LG Allgemeine Neurologie LG Intensivmedizin | LG Neurochirurgie Mindestens eine der folgenden LG: LG Bauchaortenaneurysma oder LG Carotis operativ/interventionell oder LG Komplexe periphere arterielle Gefäße | CT jederzeit oder MRT jederzeit (Befundung auch durch Teleradiologie möglich), CT-Angiographie jederzeit oder MR-Angiographie jederzeit (Befundung auch durch Teleradiologie möglich), Intra- und extrakranielle Sonographie einschließlich Farbduplex jederzeit, Transthorakale Echokardiographie (TTE), TEE, Systemische Fibrinolyse jederzeit | FA Neurologie | Drei FA, mindestens Rufbereitschaft: jederzeit |  |
+|  |  | Auswahlkriterium | LG Neurochirurgie LG Neuro-Frühreha (NNF, Phase B) Mindestens einer der folgenden LG: LG Bauchaortenaneurysma oder LG Carotis operativ/interventionell oder LG Komplexe periphere arterielle Gefäße Mindestens eine der folgenden LG: LG EPU/Ablation oder LG Interventionelle Kardiologie oder LG Kardiale Devices oder LG Minimalinvasive Herzklappenintervention |  | Neuroradiologische Behandlungsmöglichkeit (einschließlich Thrombektomie) jederzeit mindestens in Kooperation, DSA | FA Radiologie mit SP Neuroradiologie FA Innere Medizin und Kardiologie |  |  |
+| 55 | Neuro-Frühreha (NNF, Phase B) | Mindestvoraussetzung | LG Intensivmedizin | LG Allgemeine Innere Medizin LG Allgemeine Neurologie | CT oder MRT (Teleradiologie möglich), EKG, EEG, EMG, Elektrisch evozierte Potenziale (EVP), Motorisch evozierte Potenziale (MEP), Mobiles Ultraschallgerät einschließlich Farbduplex | FA Neurochirurgie FA Neurologie FA Kinder- und Jugendmedizin mit SP Neuropädiatrie FA Physikalische und Rehabilitative Medizin | Drei FA, mindestens Rufbereitschaft: jederzeit |  |
+| Auswahlkriterium | LG Allgemeine Innere Medizin LG Allgemeine Neurologie |  |  |  |  |  |  |  |
+| 56 | Geriatrie | Mindestvoraussetzung | LG Allgemeine Innere Medizin LG Intensivmedizin | LG Urologie Mindestens eine der folgenden LG: LG Allgemeine Neurologie oder LG Stroke Unit oder LG Neuro-Frühreha (NNF, Phase B) Mindestens eine der folgenden LG: LG Endoprothetik Hüfte oder LG Endoprothetik Knie oder LG Revision Hüftendoprothese oder LG Revision Knieendoprothese oder LG Wirbelsäuleneingriffe | CT | ZW Geriatrie oder Schwerpunkt Geriatrie oder FA für Innere Medizin und Geriatrie | Drei FA, mindestens Rufbereitschaft: jederzeit; davon mindestens zwei mit ZW Geriatrie oder Schwerpunkt Geriatrie oder FA für Innere Medizin und Geriatrie |  |
+|  |  | Auswahlkriterium | LG Allgemeine Chirurgie LG Palliativmedizin Mindestens eine der folgenden LG: LG Allgemeine Neurologie oder LG Stroke Unit oder LG Neuro-Frühreha (NNF, Phase B) Mindestens eine der folgenden LG: LG Endoprothetik Hüfte oder LG Endoprothetik Knie oder LG Revision Hüftendoprothese oder LG Revision Knieendoprothese oder LG Wirbelsäuleneingriffe |  |  |  |  |  |
+| 57 | Palliativmedizin | Mindestvoraussetzung | LG Allgemeine Innere Medizin oder LG Allgemeine Kinder- und Jugendmedizin |  |  | ZW Palliativmedizin | Drei FA, mindestens Rufbereitschaft: jederzeit; davon mindestens zwei FA mit ZW Palliativmedizin |  |
+| Auswahlkriterium | LG Intensivmedizin LG Kinder-Hämatologie und -Onkologie – Leukämie und Lymphome LG Kinder-Hämatologie und -Onkologie – Stammzelltransplantation Mindestens eine der folgenden LG: LG Stammzelltransplantation oder LG Leukämie und Lymphome Mindestens eine der folgenden LG: LG Allgemeine Neurologie oder LG Stroke Unit oder LG Neuro-Frühreha (NNF, Phase B) | LG Geriatrie |  | FA Kinder- und Jugendmedizin |  |  |  |  |
+| 58 | Darmtransplantation | Mindestvoraussetzung | LG Allgemeine Chirurgie LG Allgemeine Innere Medizin LG Intensivmedizin, Qualitätsanforderung Hochkomplex Mindestens eine der folgenden LG: LG Bariatrische Chirurgie oder LG Lebereingriffe oder LG Ösophaguseingriffe oder LG Pankreaseingriffe oder LG Tiefe Rektumeingriffe |  | Röntgen, CT jederzeit, Teleradiologischer Befund möglich, MRT | FA Viszeralchirurgie ZW Transplantationsmedizin | Drei FA, mindestens Rufbereitschaft: jederzeit; davon mindestens ein FA mit ZW Transplantationsmedizin |  |
+| Auswahlkriterium | Mindestens eine der folgenden LG: LG Bauchaortenaneurysma oder LG Carotis operativ/interventionell oder LG Komplexe periphere arterielle Gefäße |  |  | FA Allgemeinchirurgie FA Gefäßchirurgie FA Kinder- und Jugendmedizin jeweils mit ZW Transplantationsmedizin |  |  |  |  |
+| 59 | Herztransplantation | Mindestvoraussetzung | LG Allgemeine Chirurgie LG Allgemeine Innere Medizin LG Intensivmedizin, Qualitätsanforderung Hochkomplex Mindestens eine der folgenden LG: LG Herzchirurgie oder LG Herzchirurgie – Kinder und Jugendliche Mindestens eine der folgenden LG: LG EPU/Ablation oder LG Interventionelle Kardiologie oder LG Kardiale Devices oder LG Minimalinvasive Herzklappenintervention |  | Herzkatheterlabor (Rechts- und Linkskatheter), Herz-Lungen- Maschine, Röntgen, CT jederzeit, Teleradiologischer Befund möglich, MRT | FA Herzchirurgie FA Innere Medizin und Kardiologie ZW Transplantationsmedizin | Sechs FA, mindestens Rufbereitschaft: jederzeit; davon mindestens drei FA Herzchirurgie und drei FA Innere Medizin und Kardiologie; davon mindestens ein FA mit ZW Transplantationsmedizin |  |
+| Auswahlkriterium | LG Thoraxchirurgie |  | ECMO | FA Thoraxchirurgie FA Innere Medizin und Pneumologie FA Kinder- und Jugendmedizin jeweils mit ZW Transplantationsmedizin |  |  |  |  |
+| 60 | Lebertransplantation | Mindestvoraussetzung | LG Intensivmedizin, Qualitätsanforderung Hochkomplex LG Komplexe Gastroenterologie Mindestens eine der folgenden LG: LG Bariatrische Chirurgie oder LG Lebereingriffe oder LG Ösophaguseingriffe oder LG Pankreaseingriffe oder LG Tiefe Rektumeingriffe |  | Röntgen, CT jederzeit, Teleradiologischer Befund möglich, MRT | FA Viszeralchirurgie FA Innere Medizin und Gastroenterologie ZW Transplantationsmedizin | Sechs FA, mindestens Rufbereitschaft: jederzeit; davon mindestens drei FA Viszeralchirurgie und drei FA Innere Medizin und Gastroenterologie; davon mindestens ein FA mit ZW Transplantationsmedizin |  |
+| Auswahlkriterium | LG Allgemeine Chirurgie LG Allgemeine Innere Medizin Mindestens eine der folgenden LG: LG Bauchaortenaneurysma oder LG Carotis operativ/interventionell oder LG Komplexe periphere arterielle Gefäße |  |  | FA Allgemeinchirurgie FA Gefäßchirurgie FA Kinder- und Jugendmedizin jeweils mit ZW Transplantationsmedizin |  |  |  |  |
+| 61 | Lungentransplantation | Mindestvoraussetzung | LG Allgemeine Chirurgie LG Allgemeine Innere Medizin LG Intensivmedizin, Qualitätsanforderung Hochkomplex LG Komplexe Pneumologie LG Herzchirurgie oder LG Thoraxchirurgie |  | Herz-Lungen- Maschine, Röntgen, CT jederzeit, Teleradiologischer Befund möglich, MRT | FA Herzchirurgie FA Thoraxchirurgie ZW Transplantationsmedizin | Fünf FA Herzchirurgie und ein FA Thoraxchirurgie, mindestens Rufbereitschaft jederzeit oder drei FA Thoraxchirurgie und ein FA Herzchirurgie, mindestens Rufbereitschaft: jederzeit; davon mindestens ein FA mit ZW Transplantationsmedizin |  |
+| Auswahlkriterium |  |  | ECMO | FA Kinder- und Jugendmedizin mit ZW Transplantationsmedizin |  |  |  |  |
+| 62 | Nierentransplantation | Mindestvoraussetzung | LG Allgemeine Chirurgie LG Allgemeine Innere Medizin LG Intensivmedizin, Qualitätsanforderung Hochkomplex Mindestens zwei der folgenden LG: LG Komplexe Nephrologie oder LG Urologie oder mindestens eine der folgenden LG: LG Bariatrische Chirurgie oder LG Lebereingriffe oder LG Ösophaguseingriffe oder LG Pankreaseingriffe oder LG Tiefe Rektumeingriffe | LG Komplexe Nephrologie LG Urologie Mindestens eine der folgenden LG: LG Bariatrische Chirurgie oder LG Lebereingriffe oder LG Ösophaguseingriffe oder LG Pankreaseingriffe oder LG Tiefe Rektumeingriffe | Röntgen, CT jederzeit, Teleradiologischer Befund möglich, MRT | FA Viszeralchirurgie FA Urologie FA Innere Medizin und Nephrologie ZW Transplantationsmedizin | Neun FA, mindestens Rufbereitschaft: jederzeit; davon mindestens drei FA Viszeralchirurgie, drei FA Urologie und drei FA Innere Medizin und Nephrologie; davon mindestens ein FA mit ZW Transplantationsmedizin |  |
+|  |  | Auswahlkriterium | LG Urologie Mindestens eine der folgenden LG: LG Bariatrische Chirurgie oder LG Lebereingriffe oder LG Ösophaguseingriffe oder LG Pankreaseingriffe oder LG Tiefe Rektumeingriffe Mindestens eine der folgenden LG: LG Bauchaortenaneurysma oder LG Carotis operativ/interventionell oder LG Komplexe periphere arterielle Gefäße |  |  | FA Allgemein- chirurgie FA Gefäßchirurgie FA Kinder- und Jugendmedizin jeweils mit ZW Transplantationsmedizin |  |  |
+| 63 | Pankreastransplantation | Mindestvoraussetzung | LG Allgemeine Chirurgie LG Allgemeine Innere Medizin LG Intensivmedizin, Qualitätsanforderung Hochkomplex Mindestens eine der folgenden LG: LG Bariatrische Chirurgie oder LG Lebereingriffe oder LG Ösophaguseingriffe oder LG Pankreaseingriffe oder LG Tiefe Rektumeingriffe |  | Röntgen, CT jederzeit, Teleradiologischer Befund möglich, MRT | FA Viszeralchirurgie ZW Transplantationsmedizin | Drei FA, mindestens Rufbereitschaft: jederzeit; davon mindestens ein FA mit ZW Transplantationsmedizin |  |
+| Auswahlkriterium | Mindestens eine der folgenden LG: LG Bauchaortenaneurysma oder LG Carotis operativ/interventionell oder LG Komplexe periphere arterielle Gefäße |  |  | FA Allgemeinchirurgie FA Gefäßchirurgie FA Kinder- und Jugendmedizin jeweils mit ZW Transplantationsmedizin |  |  |  |  |
+| 64 | Intensivmedizin | Mindestvoraussetzung |  |  |  | FA aus einem Gebiet der unmittelbaren Patientenversorgung ZW Intensivmedizin FA Anästhesiologie | Drei intensivmedizinisch erfahrene FA, mindestens Rufbereitschaft: jederzeit; davon mindestens ein FA mit ZW Intensivmedizin oder ein FA Anästhesiologie |  |
+|  |  | Qualitätsanforderung Komplex |  |  | Verfügbarkeit folgender Untersuchungs-/ Behandlungsverfahren auf der Intensivstation:  a) Kontinuierliche Nierenersatzverfahren jederzeit, b) Flexible Broncho- skopie täglich acht Stunden im Zeitraum von 6 Uhr bis 18 Uhr, c) Ultraschall-Verfahren täglich acht Stunden im Zeitraum von 6 Uhr bis 18 Uhr,Abdomen, TTE, TEE am Standort täglich acht Stunden im Zeitraum von 6 Uhr bis 18 Uhr | FA aus einem Gebiet der unmittelbaren Patientenversorgung ZW Intensivmedizin | Drei intensivmedizinisch erfahrene FA, mindestens Rufbereitschaft: jederzeit; davon mindestens zwei FA mit ZW Intensivmedizin Ständige Arztpräsenz auf der Intensivstation (Arzt kann zu einem kurzfristigen Notfalleinsatz innerhalb des Krankenhauses hinzugezogen werden) |  |
+|  |  | Qualitätsanforderung Hochkomplex |  |  | Verfügbarkeit folgender Untersuchungs- oder Behandlungsverfahren auf der Intensivstation:  a) Kontinuierliche Nierenersatz- verfahren jeder- zeit b) Flexible Bronchoskopie jederzeit c) Ultraschall-Verfahren jederzeit: Abdomen,TTE, TEE am Standort, täglich acht Stunden im Zeitraum von 6 Uhr bis 18 Uhr | ZW Intensivmedizin | Drei FA mit ZW Intensivmedizin, mindestens Rufbereitschaft: jederzeit Jederzeit Arztpräsenz auf der Intensivstation (Arzt kann zu einem kurzfristigen Notfalleinsatz innerhalb des Krankenhauses hinzugezogen werden) |  |
 | 65 | Nicht belegt |  |  |  |  |  |  |  |
 
 

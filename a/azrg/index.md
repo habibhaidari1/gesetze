@@ -2441,6 +2441,61 @@ hinzuzuspeichern, die eine Verpflichtungserklärung nach § 66 Absatz
 abgegeben haben.
 
 
+### § 29 Inhalt
+
+(1) Folgende Daten werden gespeichert:
+
+1.  das Geschäftszeichen der Registerbehörde (Visadatei-Nummer),
+
+1a. das Visumaktenzeichen der Registerbehörde,
+
+2.  die Auslandsvertretung oder das Bundesamt für Auswärtige
+    Angelegenheiten; bei einem Antrag auf Erteilung eines Ausnahmevisums
+    die mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs
+    betraute Behörde,
+
+3.  die Grundpersonalien und die weiteren Personalien,
+
+4.  das Lichtbild,
+
+5.  das Datum der Datenübermittlung,
+
+6.  die Entscheidung über den Antrag, die Rücknahme des Antrags, die
+    Erledigung des Antrags auf andere Weise sowie die Rücknahme, die
+    Annullierung, die Aufhebung und den Widerruf des Visums,
+
+7.  das Datum der Entscheidung und das Datum der Übermittlung der
+    Entscheidung,
+
+8.  Art, Nummer und Geltungsdauer des Visums,
+
+9.  die im Visaverfahren beteiligte Ausländerbehörde,
+
+10. bei Erteilung eines Visums das Datum und das Dokument der
+    Verpflichtungserklärung nach § 66 Absatz 2 des Aufenthaltsgesetzes
+    oder § 68 Absatz 1 des Aufenthaltsgesetzes und die Stelle, bei der sie
+    vorliegt, sowie Familienname, Vornamen, Geburtsdatum, Geburtsort sowie
+    die gegenwärtige Anschrift im Bundesgebiet des Verpflichtungsgebers
+    und die Angabe, ob im Falle früherer Aufwendung öffentlicher Mittel
+    die Inanspruchnahme seiner Person erfolglos war,
+
+11. bei Vorlage ge- oder verfälschter Dokumente im Visaverfahren die
+    Bezeichnung der vorgelegten ge- oder verfälschten Dokumente (Art und
+    Nummer des Dokuments, im Dokument enthaltene Angaben über Aussteller,
+    Ausstellungsdatum, Gültigkeitsdauer),
+
+12. Entscheidungen der Bundesagentur für Arbeit über die Zustimmung zur
+    Beschäftigung, einschließlich der Nebenbestimmungen.
+
+(2) Aus Gründen der inneren Sicherheit werden bei Visaanträgen von
+Angehörigen bestimmter Staaten, die vom Bundesministerium des Innern,
+für Bau und Heimat im Einvernehmen mit dem Auswärtigen Amt festgelegt
+werden können, zusätzlich zu den Daten nach Absatz 1 Paßart, Paßnummer
+und ausstellender Staat gespeichert.
+
+(3) (weggefallen)
+
+
 ### § 30 Übermittelnde Stellen
 
 (1) Die deutschen Auslandsvertretungen, das Bundesamt für

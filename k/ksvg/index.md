@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 17 G v. 22.12.2025 I Nr. 355
 
 Änderung durch
-:   Art. 7c G v. 24.7.2026 I Nr. 228 mWv 30.7.2026 noch nicht berücksichtigt
+:   Art. 7c G v. 24.7.2026 I Nr. 228 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Teil - Sozialversicherung der selbständigen Künstler und Publizisten
@@ -68,7 +68,7 @@ voraussichtlich ein Arbeitseinkommen erzielt, das 3 900 Euro nicht
 übersteigt. Wird die selbständige künstlerische oder publizistische
 Tätigkeit nur während eines Teils des Kalenderjahres ausgeübt, ist
 die in Satz 1 genannte Grenze entsprechend herabzusetzen. Satz 2 gilt
-entsprechend für Zeiten des Bezugs von Erziehungsgeld oder Elterngeld.
+entsprechend für Zeiten des Bezugs von Krankengeld oder Elterngeld.
 
 (2) Absatz 1 gilt nicht bis zum Ablauf von drei Jahren nach
 erstmaliger Aufnahme der Tätigkeit. Die Frist nach Satz 1 verlängert

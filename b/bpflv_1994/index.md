@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1994, 2750
 
 Zuletzt geändert durch
-:   Art. 6 G v. 9.4.2026 I Nr. 98
-
-Änderung durch
-:   Art. 5 G v. 24.7.2026 I Nr. 228 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 5 G v. 24.7.2026 I Nr. 228
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften

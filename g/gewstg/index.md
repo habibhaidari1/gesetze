@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 15.10.2002 I 4167;
 
 Zuletzt geändert durch
-:   Art. 4 G v. 28.2.2025 I Nr. 69
-
-Änderung durch
-:   Art. 8 G v. 29.6.2026 I Nr. 197 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 8 G v. 29.6.2026 I Nr. 197
 
 
 ## Abschnitt I - Allgemeines

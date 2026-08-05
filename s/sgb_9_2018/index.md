@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 13 G v. 16.1.2026 I Nr. 14
 
 Änderung durch
-:   Art. 2b G v. 24.7.2026 I Nr. 228 mWv 30.7.2026 noch nicht berücksichtigt
+:   Art. 2b G v. 24.7.2026 I Nr. 228 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Teil 1 - Regelungen für Menschen mit Behinderungen und von Behinderung bedrohte Menschen
@@ -2739,11 +2739,11 @@ Arbeitsentgelt nach § 67 Absatz 1 Satz 1 bis 5 ergibt, nicht
 #### § 67 Berechnung des Regelentgelts
 
 (1) Für die Berechnung des Regelentgelts wird das von den
-Leistungsempfängern im letzten vor Beginn der Leistung
-oder einer vorangegangenen Arbeitsunfähigkeit abgerechneten
-Entgeltabrechnungszeitraum, mindestens das während der letzten
-abgerechneten vier Wochen (Bemessungszeitraum) erzielte und um
-einmalig gezahltes Arbeitsentgelt verminderte Arbeitsentgelt durch
+Leistungsempfängern im letzten vor Beginn der Leistung oder einer
+vorangegangenen Arbeitsunfähigkeit oder Teilarbeitsunfähigkeit
+abgerechneten Entgeltabrechnungszeitraum, mindestens das während der
+letzten abgerechneten vier Wochen (Bemessungszeitraum) erzielte und
+um einmalig gezahltes Arbeitsentgelt verminderte Arbeitsentgelt durch
 die Zahl der Stunden geteilt, für die es gezahlt wurde. Das Ergebnis
 wird mit der Zahl der sich aus dem Inhalt des Arbeitsverhältnisses
 ergebenden regelmäßigen wöchentlichen Arbeitsstunden vervielfacht
@@ -6217,29 +6217,29 @@ oder sonstige Beschäftigungsverhältnis möglichst dauerhaft fortgesetzt
 werden kann.
 
 (2) Sind Beschäftigte innerhalb eines Jahres länger als sechs
-Wochen ununterbrochen oder wiederholt arbeitsunfähig, klärt der
-Arbeitgeber mit der zuständigen Interessenvertretung im Sinne
-des § 176, bei schwerbehinderten Menschen außerdem mit der
-Schwerbehindertenvertretung, mit Zustimmung und Beteiligung der
-betroffenen Person die Möglichkeiten, wie die Arbeitsunfähigkeit
-möglichst überwunden werden und mit welchen Leistungen oder Hilfen
-erneuter Arbeitsunfähigkeit vorgebeugt und der Arbeitsplatz erhalten
-werden kann (betriebliches Eingliederungsmanagement). Beschäftigte
-können zusätzlich eine Vertrauensperson eigener Wahl hinzuziehen.
-Soweit erforderlich, wird der Werks- oder Betriebsarzt hinzugezogen.
-Die betroffene Person oder ihr gesetzlicher Vertreter ist zuvor auf
-die Ziele des betrieblichen Eingliederungsmanagements sowie auf Art
-und Umfang der hierfür erhobenen und verwendeten Daten hinzuweisen.
-Kommen Leistungen zur Teilhabe oder begleitende Hilfen im Arbeitsleben
-in Betracht, werden vom Arbeitgeber die Rehabilitationsträger oder
-bei schwerbehinderten Beschäftigten das Integrationsamt hinzugezogen.
-Diese wirken darauf hin, dass die erforderlichen Leistungen oder
-Hilfen unverzüglich beantragt und innerhalb der Frist des § 14
-Absatz 2 Satz 2 erbracht werden. Die zuständige Interessenvertretung
-im Sinne des § 176, bei schwerbehinderten Menschen außerdem die
-Schwerbehindertenvertretung, können die Klärung verlangen. Sie
-wachen darüber, dass der Arbeitgeber die ihm nach dieser Vorschrift
-obliegenden Verpflichtungen erfüllt.
+Wochen ununterbrochen oder wiederholt arbeitsunfähig oder
+teilweise arbeitsunfähig, klärt der Arbeitgeber mit der zuständigen
+Interessenvertretung im Sinne des § 176, bei schwerbehinderten
+Menschen außerdem mit der Schwerbehindertenvertretung, mit
+Zustimmung und Beteiligung der betroffenen Person die Möglichkeiten,
+wie die Arbeitsunfähigkeit möglichst überwunden werden und
+mit welchen Leistungen oder Hilfen erneuter Arbeitsunfähigkeit
+vorgebeugt und der Arbeitsplatz erhalten werden kann (betriebliches
+Eingliederungsmanagement). Beschäftigte können zusätzlich eine
+Vertrauensperson eigener Wahl hinzuziehen. Soweit erforderlich, wird
+der Werks- oder Betriebsarzt hinzugezogen. Die betroffene Person oder
+ihr gesetzlicher Vertreter ist zuvor auf die Ziele des betrieblichen
+Eingliederungsmanagements sowie auf Art und Umfang der hierfür
+erhobenen und verwendeten Daten hinzuweisen. Kommen Leistungen zur
+Teilhabe oder begleitende Hilfen im Arbeitsleben in Betracht, werden
+vom Arbeitgeber die Rehabilitationsträger oder bei schwerbehinderten
+Beschäftigten das Integrationsamt hinzugezogen. Diese wirken darauf
+hin, dass die erforderlichen Leistungen oder Hilfen unverzüglich
+beantragt und innerhalb der Frist des § 14 Absatz 2 Satz 2 erbracht
+werden. Die zuständige Interessenvertretung im Sinne des § 176, bei
+schwerbehinderten Menschen außerdem die Schwerbehindertenvertretung,
+können die Klärung verlangen. Sie wachen darüber, dass der Arbeitgeber
+die ihm nach dieser Vorschrift obliegenden Verpflichtungen erfüllt.
 
 (3) Die Rehabilitationsträger und die Integrationsämter können
 Arbeitgeber, die ein betriebliches Eingliederungsmanagement einführen,

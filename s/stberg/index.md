@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 4.11.1975 I 2735;
 
 Zuletzt geändert durch
-:   Art. 22 G v. 22.12.2025 I Nr. 349
-
-Änderung durch
-:   Art. 1 G v. 29.6.2026 I Nr. 197 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 G v. 29.6.2026 I Nr. 197
 
 
 ## Erster Teil - Vorschriften über die Hilfeleistung in Steuersachen

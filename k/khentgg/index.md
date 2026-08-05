@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 3 G v. 9.4.2026 I Nr. 98
 
 Änderung durch
-:   Art. 3 G v. 24.7.2026 I Nr. 228 mWv 30.7.2026 bzw. 1.1.2027 noch nicht berücksichtigt
+:   Art. 3 G v. 24.7.2026 I Nr. 228 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -1469,21 +1469,20 @@ des Erlösbudgets, nach § 4 vereinbart werden. Wird ein Entgelt
 vereinbart, melden die an der Vereinbarung beteiligten gesetzlichen
 Krankenkassen Art und Höhe des Entgelts an das Institut für
 das Entgeltsystem im Krankenhaus; dabei haben sie auch die der
-Vereinbarung zu Grunde liegenden Kalkulationsunterlagen und
-die vom Krankenhaus vorzulegende ausführliche Beschreibung der
-Methode zu übermitteln. Die Vertragsparteien nach § 9 können eine
-Bewertung der Untersuchungs- und Behandlungsmethode nach § 137c
-des Fünften Buches Sozialgesetzbuch veranlassen; § 137c Abs. 1
-Satz 1 des Fünften Buches Sozialgesetzbuch bleibt unberührt. Für
-das Schiedsstellenverfahren nach § 13 kann eine Stellungnahme
-des Gemeinsamen Bundesausschusses nach § 137c des Fünften Buches
-Sozialgesetzbuch eingeholt werden. Sofern nach der Information nach
-Satz 3 eine Vereinbarung nach Satz 1 nur deshalb nicht zulässig
-ist, weil die neue Untersuchungs- oder Behandlungsmethode die Gabe
-eines noch nicht zugelassenen Arzneimittels enthält, soll eine
-Vereinbarung nach Satz 1 getroffen werden, die ab dem Zeitpunkt der
-Zulassung des Arzneimittels gilt; das Institut für das Entgeltsystem
-im Krankenhaus hat dafür seine Information nach Satz 3 anzupassen.
+Vereinbarung zu Grunde liegenden Kalkulationsunterlagen und die vom
+Krankenhaus vorzulegende ausführliche Beschreibung der Methode zu
+übermitteln. Die Vertragsparteien nach § 9 können eine Bewertung der
+Untersuchungs- und Behandlungsmethode nach § 137c des Fünften Buches
+Sozialgesetzbuch veranlassen; § 137c Abs. 1 Satz 1 des Fünften Buches
+Sozialgesetzbuch bleibt unberührt. Für das Schiedsstellenverfahren
+nach § 13 kann eine Stellungnahme des Gemeinsamen Bundesausschusses
+eingeholt werden. Sofern nach der Information nach Satz 3 eine
+Vereinbarung nach Satz 1 nur deshalb nicht zulässig ist, weil die
+neue Untersuchungs- oder Behandlungsmethode die Gabe eines noch
+nicht zugelassenen Arzneimittels enthält, soll eine Vereinbarung
+nach Satz 1 getroffen werden, die ab dem Zeitpunkt der Zulassung
+des Arzneimittels gilt; das Institut für das Entgeltsystem im
+Krankenhaus hat dafür seine Information nach Satz 3 anzupassen.
 Beinhaltet eine neue Untersuchungs- und Behandlungsmethode die
 Gabe eines Arzneimittels mit einem neuen Wirkstoff, für das nach
 § 130b Absatz 3a oder 4 Satz 3 des Fünften Buches Sozialgesetzbuch
@@ -1541,21 +1540,23 @@ vereinbart, ist für diese Entgelte eine Erlössumme zu bilden. Sie
 umfasst nicht die Entgelte nach Absatz 2 und die Zusatzentgelte
 für die Behandlung von Blutern. Für die Vereinbarung der Entgelte
 und der Erlössumme sind Kalkulationsunterlagen nach Absatz 1 Satz
-2 vorzulegen. Für besondere Einrichtungen oder Einrichtungen, deren
-Leistungen weitgehend über krankenhausindividuell zu vereinbarende
-Entgelte abgerechnet werden, gelten darüber hinaus die Vorschriften
-zur Vereinbarung des Gesamtbetrags nach § 6 und zu den vorzulegenden
-Unterlagen nach § 17 Abs. 4 in Verbindung mit den Anlagen 1 und 2
-der Bundespflegesatzverordnung in der am 31. Dezember 2012 geltenden
-Fassung entsprechend, wobei anstelle der Veränderungsrate als
-maßgebliche Rate für den Anstieg der Erlössumme der Veränderungswert
-nach § 9 Absatz 1b Satz 1 gilt; die Unterlagen sind nur bezogen auf
-den Bereich der Einrichtung und nur insoweit vorzulegen, wie die
-anderen Vertragsparteien nach § 11 nicht darauf verzichten. Wird
+2 vorzulegen. Für besondere Einrichtungen oder Einrichtungen,
+deren Leistungen weitgehend über krankenhausindividuell zu
+vereinbarende Entgelte abgerechnet werden, gelten darüber hinaus
+die Vorschriften zur Vereinbarung des Gesamtbetrags nach § 6 und
+zu den vorzulegenden Unterlagen nach § 17 Abs. 4 in Verbindung mit
+den Anlagen 1 und 2 der Bundespflegesatzverordnung in der am 31.
+Dezember 2012 geltenden Fassung entsprechend, wobei anstelle der
+Veränderungsrate als maßgebliche Rate für den Anstieg der Erlössumme
+der für das jeweilige Kalenderjahr nach § 9 Absatz 1b Satz 1
+bis 3 vereinbarte oder festgelegte oder nach § 9 Absatz 2 Satz 1
+festgesetzte Veränderungswert gilt; die Unterlagen sind nur bezogen
+auf den Bereich der Einrichtung und nur insoweit vorzulegen, wie
+die anderen Vertragsparteien nach § 11 nicht darauf verzichten. Wird
 eine Erhöhungsrate für Tariferhöhungen nach § 9 Absatz 1 Nummer 7
 vereinbart, so ist die von den Vertragsparteien vereinbarte Erlössumme
 um die nach § 9 Absatz 1 Nummer 7 vereinbarte anteilige Erhöhungsrate
-nach § 10 Absatz 5 Satz 6 zu erhöhen, erstmals für das Jahr 2020,
+nach § 10 Absatz 5 Satz 5 zu erhöhen, erstmals für das Jahr 2020,
 wobei der Erhöhungsbetrag auf Verlangen einer Vertragspartei über
 das Budget des jeweils laufenden Pflegesatzzeitraums und anderenfalls
 über das Budget des nächstmöglichen Pflegesatzzeitraums abzuwickeln
@@ -1673,11 +1674,79 @@ pauschal eine Höhe von 2,5 Prozent des Pflegebudgets erhöhend zu
 berücksichtigen; ein Nachweis über die Durchführung und die Kosten der
 Maßnahmen ist nicht erforderlich. Die Sätze 6 bis 8 sind letztmalig
 für die Vereinbarung des Pflegebudgets für das Jahr 2024 anzuwenden.
-Pflegepersonalkosten für Tätigkeiten, die nicht der unmittelbaren
-Patientenversorgung auf bettenführenden Stationen und in Kreißsälen
-dienen, insbesondere hauswirtschaftliche, logistische, administrative
-oder technische Tätigkeiten, sind unabhängig von der dienstlichen
-Zuordnung im Krankenhaus nicht im Pflegebudget zu berücksichtigen.
+Die Sätze 1 bis 5, 9 und 10 sind letztmalig für die Vereinbarung des
+Pflegebudgets für das Jahr 2026 anzuwenden.
+
+(2a) Ausgangsgrundlage für die Vereinbarung des Pflegebudgets für
+das Jahr 2027 ist das für das Jahr 2026 vereinbarte Pflegebudget
+abzüglich von 86 Prozent des für die in Absatz 2 Satz 10 genannten
+Maßnahmen zur Entlastung von Pflegepersonal vereinbarten Betrags;
+weichen die tatsächlichen Pflegepersonalkosten für das Jahr 2026
+von den vereinbarten Pflegepersonalkosten für das Jahr 2026 ab,
+sind die Vertragsparteien nach § 11 Absatz 1 auf Verlangen einer
+der Vertragsparteien verpflichtet, die Mehr- oder Minderkosten
+bei der Vereinbarung des Pflegebudgets für den nächstmöglichen
+Pflegesatzzeitraum zu berücksichtigen, indem sie eine Berichtigung
+der Ausgangsgrundlage für die Vereinbarung des Pflegebudgets für den
+nächstmöglichen Pflegesatzzeitraum und einen Ausgleich vornehmen.
+In den Folgejahren ist Ausgangsgrundlage für die Vereinbarung des
+Pflegebudgets das für das jeweilige Vorjahr vereinbarte Pflegebudget;
+abweichend davon ist Ausgangsgrundlage für die Vereinbarung des
+Pflegebudgets
+
+1.  für das Jahr 2028 das für das Jahr 2027 vereinbarte Pflegebudget
+    abzüglich der Hälfte des darin enthaltenen Betrags für die in Absatz 2
+    Satz 10 genannten Maßnahmen zur Entlastung von Pflegepersonal und
+
+2.  für das Jahr 2029 das für das Jahr 2028 vereinbarte Pflegebudget
+    abzüglich des darin enthaltenen Betrags für die in Absatz 2 Satz 10
+    genannten Maßnahmen zur Entlastung von Pflegepersonal.
+
+Ist im jeweiligen Vorjahr nach § 9 Absatz 1 Nummer 7 eine
+Erhöhungsrate vereinbart worden, ist das für das folgende
+Kalenderjahr zu vereinbarende Pflegebudget um die Hälfte dieser
+Erhöhungsrate zu erhöhen. Bei der Vereinbarung des Pflegebudgets
+sind die für das Vereinbarungsjahr zu erwartenden Veränderungen
+gegenüber dem Vorjahr zu berücksichtigen, insbesondere bei der
+Zahl und der beruflichen Qualifikation der Pflegevollkräfte sowie
+bei der Kostenentwicklung. Das Pflegebudget eines Kalenderjahres
+darf das um den für dieses Kalenderjahr nach § 9 Absatz 1b Satz 1
+bis 3 vereinbarten oder festgelegten oder nach § 9 Absatz 2 Satz 1
+festgesetzten Veränderungswert veränderte Pflegebudget des Vorjahres
+nur überschreiten, soweit eine Überschreitung bedingt ist durch
+
+1.  die Einhaltung von Personalvorgaben aus Bundesgesetzen,
+    Rechtsverordnungen, die auf Grund des Fünften Buches Sozialgesetzbuch
+    erlassen worden sind, aus Richtlinien oder Beschlüssen des Gemeinsamen
+    Bundesausschusses,
+
+2.  die Abwicklung eines Ausgleichsbetrags nach Absatz 5 Satz 3 oder
+
+3.  die Vereinbarung einer Erhöhungsrate nach § 9 Absatz 1 Nummer 7 im
+    jeweiligen Vorjahr.
+
+Ist die Überschreitung durch die Vereinbarung einer Erhöhungsrate
+nach § 9 Absatz 1 Nummer 7 im jeweiligen Vorjahr bedingt,
+ist eine Überschreitung in Höhe der Hälfte der im jeweiligen
+Vorjahr vereinbarten Erhöhungsrate zulässig. Bei Beschäftigung
+von Pflegepersonal ohne direktes Arbeitsverhältnis mit dem
+Krankenhaus, insbesondere von Leiharbeitnehmern im Sinne des
+Arbeitnehmerüberlassungsgesetzes, ist der Teil der Vergütungen,
+der über das tarifvertraglich vereinbarte Arbeitsentgelt für das
+Pflegepersonal mit direktem Arbeitsverhältnis mit dem Krankenhaus
+hinausgeht, und damit auch die Zahlung von Vermittlungsentgelten,
+nicht im Pflegebudget zu berücksichtigen. Weichen ab dem Jahr 2027
+in einem Kalenderjahr die tatsächlichen Pflegepersonalkosten von
+den für dieses Kalenderjahr vereinbarten Pflegepersonalkosten ab,
+sind Mehrkosten nicht und Minderkosten bei der Vereinbarung des
+Pflegebudgets für das folgende Kalenderjahr zu berücksichtigen,
+indem für das Vereinbarungsjahr das Pflegebudget berichtigt und ein
+Ausgleich vorgenommen wird. Pflegepersonalkosten für Tätigkeiten,
+die nicht der unmittelbaren Patientenversorgung auf bettenführenden
+Stationen und in Kreißsälen dienen, insbesondere hauswirtschaftliche,
+logistische, administrative oder technische Tätigkeiten, sind
+unabhängig von der dienstlichen Zuordnung im Krankenhaus nicht im
+Pflegebudget zu berücksichtigen.
 
 (3) Der Krankenhausträger hat vor der Vereinbarung des jeweiligen
 Pflegebudgets den anderen Vertragsparteien nach § 11 Absatz 1 die
@@ -1796,10 +1865,10 @@ Abrechnung der tagesbezogenen Pflegeentgelte nach § 7 Absatz 1 Satz
 dem Tag des Inkrafttretens der Vereinbarung einer Erhöhungsrate für
 Tariferhöhungen nach § 9 Absatz 1 Nummer 7 ist abweichend von Satz
 3 für den Rest des jeweiligen Jahres der krankenhausindividuelle
-Pflegeentgeltwert nach Satz 3 erhöht um die prozentuale Tariferhöhung
-für den in § 10 Absatz 5 Satz 3 Nummer 1 genannten Bereich anzuwenden.
-Dabei ist der für das restliche Kalenderjahr anzuwendende Prozentsatz
-infolge der unterjährigen Vereinbarung entsprechend zu erhöhen.
+Pflegeentgeltwert nach Satz 3 erhöht um 50 Prozent der Erhöhungsrate
+anzuwenden. Dabei ist der für das restliche Kalenderjahr anzuwendende,
+in Satz 5 genannte krankenhausindividuelle Pflegeentgeltwert infolge
+der unterjährigen Vereinbarung entsprechend zu erhöhen.
 
 (5) Weicht die Summe der auf das Vereinbarungsjahr entfallenden
 Erlöse des Krankenhauses aus den tagesbezogenen Pflegeentgelten
@@ -2071,24 +2140,34 @@ für die unmittelbare Patientenversorgung auf bettenführenden
 Stationen sind auf der Grundlage der Summe der im jeweiligen
 vorhergehenden Kalenderjahr entstandenen Pflegepersonalkosten,
 die der bundeseinheitlichen Definition der auszugliedernden
-Pflegepersonalkosten und den Regelungen für die Zuordnung von Kosten
-von Pflegepersonal entsprechen, die nach § 17b Absatz 4 Satz 2 des
-Krankenhausfinanzierungsgesetzes für das jeweilige Kalenderjahr
-vereinbart wurden, für das die Vereinbarung nach Absatz 1 Satz
-1 gelten soll, und unter Berücksichtigung der für das jeweilige
-Kalenderjahr zu erwartenden Veränderungen gegenüber dem jeweiligen
-vorhergehenden Kalenderjahr, insbesondere bei der Zahl und der
-beruflichen Qualifikation der Pflegevollkräfte sowie bei der
-Kostenentwicklung, zu ermitteln und vollständig im Gesamtvolumen
-zu berücksichtigen. Zu- und Abschläge sind gemäß den Vorgaben der
-Vereinbarung nach § 9 Absatz 1 Nummer 10 bei der Kalkulation des
+Pflegepersonalkosten und den Regelungen für die Zuordnung von
+Kosten von Pflegepersonal entsprechen, die nach § 17b Absatz 4
+Satz 2 des Krankenhausfinanzierungsgesetzes für das jeweilige
+Kalenderjahr vereinbart wurden, für das die Vereinbarung nach
+Absatz 1 Satz 1 gelten soll, und unter Berücksichtigung der für
+das jeweilige Kalenderjahr zu erwartenden Veränderungen gegenüber
+dem jeweiligen vorhergehenden Kalenderjahr, insbesondere bei der
+Zahl und der beruflichen Qualifikation der Pflegevollkräfte sowie
+bei der Kostenentwicklung, zu ermitteln und bei der erstmaligen
+Vereinbarung des Gesamtvolumens vollständig zu berücksichtigen.
+Bei folgenden Vereinbarungen des Gesamtvolumens sind die
+ermittelten Pflegepersonalkosten nur soweit zu berücksichtigen,
+als sie nicht die um den für das jeweilige Kalenderjahr nach § 9
+Absatz 1b Satz 1 bis 3 vereinbarten oder nach § 9 Absatz 2 Satz
+1 festgesetzten Veränderungswert veränderten Pflegepersonalkosten
+des Vorjahres überschreiten, es sei denn, die Überschreitung ist
+durch die Einhaltung von Personalvorgaben aus Bundesgesetzen,
+Rechtsverordnungen, die auf Grund des Fünften Buches Sozialgesetzbuch
+erlassen worden sind, aus Richtlinien oder Beschlüssen des Gemeinsamen
+Bundesausschusses bedingt. Zu- und Abschläge sind gemäß den Vorgaben
+der Vereinbarung nach § 9 Absatz 1 Nummer 10 bei der Kalkulation des
 Gesamtvolumens erhöhend oder mindernd zu berücksichtigen. Weichen
 in einem Kalenderjahr die tatsächlichen Pflegepersonalkosten für die
 unmittelbare Patientenversorgung auf bettenführenden Stationen von
-den nach Satz 4 ermittelten und nach Absatz 1 Satz 2 Nummer 6 für das
-jeweilige Kalenderjahr vereinbarten Pflegepersonalkosten ab, sind die
-Mehr- oder Minderkosten bei der Vereinbarung des Gesamtvolumens für
-das auf dieses Kalenderjahr folgende Kalenderjahr zu berücksichtigen.
+den nach Satz 4 ermittelten und nach Absatz 1 Satz 2 Nummer 6 für
+das jeweilige Kalenderjahr vereinbarten Pflegepersonalkosten ab, sind
+die Minderkosten bei der Vereinbarung des Gesamtvolumens für das auf
+dieses Kalenderjahr folgende Kalenderjahr zu berücksichtigen.
 
 (3) Die nach Absatz 1 Satz 2 Nummer 2 bis 4 vereinbarten
 krankenhausindividuellen Tagesentgelte und die in Absatz 7 Satz 4
@@ -2100,21 +2179,20 @@ werden die Erlöse aus den in Satz 1 genannten Tagesentgelten
 tagesbezogen dem jeweiligen Kalenderjahr zugeordnet, in dem die durch
 das jeweilige Tagesentgelt vergütete Behandlung erbracht wurde. Für
 das Gesamtvolumen gilt § 4 Absatz 4 entsprechend. Das Gesamtvolumen
-für ein Kalenderjahrjahr darf den Betrag, der sich ergibt, wenn das
+für ein Kalenderjahr darf den Betrag, der sich ergibt, wenn das
 Gesamtvolumen des diesem Kalenderjahr vorangegangenen Kalenderjahres
-um den nach § 9 Absatz 1b Satz 1 erster Halbsatz für das jeweilige
-Kalenderjahr vereinbarten Veränderungswert erhöht wird, nur
-überschreiten, soweit diese Überschreitung durch eine Steigerung der
-nach Absatz 2 Satz 4 ermittelten Pflegepersonalkosten bedingt ist
-oder durch Veränderungen von der nach Absatz 1 Satz 2 Nummer 1 zu
-vereinbarenden Art und Menge der voraussichtlich zu erbringenden voll-
-und teilstationären Leistungen bedingt ist. Wird für ein Kalenderjahr
-eine Erhöhungsrate für Tariferhöhungen nach § 9 Absatz 1 Nummer 7
-vereinbart, so ist das Gesamtvolumen dieses Kalenderjahres um die
-nach § 9 Absatz 1 Nummer 7 vereinbarte anteilige Erhöhungsrate zu
-erhöhen; für diese Erhöhung des Gesamtvolumens gilt keine Begrenzung
-durch den nach § 9 Absatz 1b Satz 1 erster Halbsatz vereinbarten
-Veränderungswert.
+um den für das jeweilige Kalenderjahr nach § 9 Absatz 1b Satz 1
+bis 3 vereinbarten oder festgelegten oder nach § 9 Absatz 2 Satz
+1 festgesetzten Veränderungswert erhöht wird, nur überschreiten,
+soweit diese Überschreitung durch Veränderungen der nach Absatz 1
+Satz 2 Nummer 1 zu vereinbarenden Art und Menge der voraussichtlich
+zu erbringenden voll- und teilstationären Leistungen bedingt ist.
+Wird für ein Kalenderjahr eine Erhöhungsrate für Tariferhöhungen nach
+§ 9 Absatz 1 Nummer 7 vereinbart, so ist das Gesamtvolumen dieses
+Kalenderjahres um die nach § 9 Absatz 1 Nummer 7 vereinbarte anteilige
+Erhöhungsrate zu erhöhen; für diese Erhöhung des Gesamtvolumens gilt
+keine Begrenzung durch den nach § 9 Absatz 1b Satz 1 erster Halbsatz
+vereinbarten Veränderungswert.
 
 (4) Krankenhäuser dürfen für die von ihren sektorenübergreifenden
 Versorgungseinrichtungen erbrachten voll- und teilstationären
@@ -2397,15 +2475,36 @@ Indikationsbereichen haben die Krankenhäuser ausschließlich nach §
 Datenverarbeitungslösungen zu verwenden.
 
 (5) Werden Patientinnen oder Patienten, für die eine Fallpauschale
-abrechenbar ist, wegen einer Komplikation im Zusammenhang mit der
-durchgeführten Leistung innerhalb der oberen Grenzverweildauer
-wieder aufgenommen, hat das Krankenhaus eine Zusammenfassung der
-Falldaten zu einem Fall und eine Neueinstufung in eine Fallpauschale
-vorzunehmen. Näheres oder Abweichendes regeln die Vertragsparteien
-nach § 17b Abs. 2 Satz 1 des Krankenhausfinanzierungsgesetzes.
-In anderen als den vertraglich oder gesetzlich bestimmten
-Fällen ist eine Fallzusammenführung insbesondere aus Gründen des
+abrechenbar ist, in ein Krankenhaus aufgenommen, hat das Krankenhaus
+eine Zusammenfassung der Falldaten zu einem Fall und eine
+Neueinstufung in eine Fallpauschale vorzunehmen, wenn
+
+1.  es sich bei der Aufnahme um eine Wiederaufnahme in dasselbe
+    Krankenhaus wegen einer Komplikation im Zusammenhang mit der
+    durchgeführten Leistung innerhalb der oberen Grenzverweildauer
+    handelt, oder
+
+2.  ab dem 1. Januar 2028 die Aufnahme in das Krankenhaus innerhalb
+    von 30 Kalendertagen nach dem Aufnahmedatum eines anderen
+    Krankenhausaufenthalts erfolgt und die während des Aufenthalts
+    erbrachten Leistungen in dieselbe Hauptdiagnosegruppe der für
+    den anderen Krankenhausaufenthalt abrechenbaren Fallpauschale
+    einzugruppieren sind.
+
+Näheres oder Abweichendes regeln die Vertragsparteien nach
+§ 17b Abs. 2 Satz 1 des Krankenhausfinanzierungsgesetzes. In
+anderen als den vertraglich oder gesetzlich bestimmten Fällen
+ist eine Fallzusammenführung insbesondere aus Gründen des
 Wirtschaftlichkeitsgebots nicht zulässig.
+
+(5a) Die Berechnung von Kurzzeitfallpauschalen im Sinne des §
+17b Absatz 2a Satz 1 des Krankenhausfinanzierungsgesetzes ist
+ausgeschlossen, wenn die erbrachte Leistung in dem nach § 115b
+Absatz 1 Satz 1 Nummer 1 des Fünften Buches Sozialgesetzbuch
+vereinbarten oder nach § 115b Absatz 3 Satz 1 des Fünften Buches
+Sozialgesetzbuch festgesetzten Katalog enthalten ist. Näheres oder
+Abweichendes regeln die Vertragsparteien nach § 17b Absatz 2 Satz 1
+des Krankenhausfinanzierungsgesetzes.
 
 (6) Werden die mit einem Entgelt vergüteten Leistungen ohne Verlegung
 des Patienten durch mehrere Krankenhäuser erbracht, wird das
@@ -2551,8 +2650,11 @@ für die Vertragsparteien nach § 11 insbesondere
     Bewertungsrelationen für die tagesbezogene Abzahlung des vereinbarten
     Pflegebudgets nach § 6a,
 
-3.  die Abrechnungsbestimmungen für die Entgelte nach den Nummern 1, 2 und
-    2a sowie die Regelungen über Zu- und Abschläge,
+3.  die Abrechnungsbestimmungen für die Entgelte nach den Nummern 1, 2
+    und 2a sowie die Regelungen über Zu- und Abschläge und bis zum 31.
+    März 2027 Ausnahmen von der in § 8 Absatz 5 Satz 1 Nummer 2 genannten
+    Fallzusammenführung, soweit eine solche nicht wirtschaftlich geboten
+    oder nicht medizinisch vertretbar ist,
 
 4.  Empfehlungen für die Kalkulation und die Vergütung neuer
     Untersuchungs- und Behandlungsmethoden, für die nach § 6 gesonderte
@@ -2570,17 +2672,13 @@ für die Vertragsparteien nach § 11 insbesondere
     zur Definition des Einzugsgebiets eines Krankenhauses und zu einem
     geminderten Abschlag im Falle von Leistungsverlagerungen,
 
-7.  die Erhöhungsrate für Tariferhöhungen nach § 10 Absatz 5 Satz 4,
-    wobei die prozentuale Tariferhöhung für den in § 10 Absatz 5 Satz 3
-    Nummer 1 genannten Bereich separat auszuweisen ist, eine anteilige
-    Erhöhungsrate unter Berücksichtigung, dass Kostensteigerungen für
-    das Pflegepersonal in der unmittelbaren Patientenversorgung auf
-    bettenführenden Stationen über das Pflegebudget zu finanzieren sind,
-    sowie bis zum 31. März 2019 die Einzelheiten für einen Nachweis,
-    dass die zusätzlichen Mittel für Tariferhöhungen von Pflegepersonal
-    zweckentsprechend für dessen Finanzierung verwendet werden, und ein
-    Verfahren, das gewährleistet, dass Krankenhäuser Mittel zurückzuzahlen
-    haben, die sie nicht zweckentsprechend verwendet haben,
+7.  die Erhöhungsrate für Tariferhöhungen nach § 10 Absatz 5 Satz 4, eine
+    anteilige Erhöhungsrate sowie bis zum 31. März 2019 die Einzelheiten
+    für einen Nachweis, dass die zusätzlichen Mittel für Tariferhöhungen
+    von Pflegepersonal zweckentsprechend für dessen Finanzierung verwendet
+    werden, und ein Verfahren, das gewährleistet, dass Krankenhäuser
+    Mittel zurückzuzahlen haben, die sie nicht zweckentsprechend verwendet
+    haben,
 
 8.  erstmals bis zum 31. Juli 2019 die näheren Einzelheiten
     zur Verhandlung des Pflegebudgets nach § 6a, insbesondere
@@ -2639,7 +2737,20 @@ für die Vertragsparteien nach § 11 insbesondere
 
     j)  Abrechnungsbestimmungen für die nach § 6c Absatz 1 Satz 2 Nummer 2 bis
         4 zu vereinbarenden krankenhausindividuellen Tagesentgelte und für die
-        in Buchstabe i genannten vorläufigen Tagesentgelte.
+        in Buchstabe i genannten vorläufigen Tagesentgelte, und
+
+11. erstmals bis zum 30. September 2027 nähere Einzelheiten für
+    Kurzzeitfallpauschalen im Sinne des § 17b Absatz 2a Satz 1 des
+    Krankenhausfinanzierungsgesetzes, insbesondere
+
+    a)  Vorgaben, durch die sichergestellt wird, dass durch die Einführung der
+        Kurzzeitfallpauschalen keine Fallzahlausweitung bei den stationären
+        Behandlungsfällen mit bis zu zwei Übernachtungen auf der Ebene des
+        einzelnen Krankenhauses stattfindet, und
+
+    b)  die Folgen, sofern das einzelne Krankenhaus entgegen den nach
+        Buchstabe a festzulegenden Vorgaben eine Fallzahlausweitung
+        vorgenommen hat.
 
 (1a) Die Vertragsparteien auf Bundesebene vereinbaren auf der
 Grundlage von Absatz 1 Nummer 3
@@ -2716,17 +2827,29 @@ Grundlage von Absatz 1 Nummer 3
 
 (1b) Die Vertragsparteien auf Bundesebene vereinbaren mit Wirkung
 für die Vertragsparteien auf Landesebene bis zum 31. Oktober jeden
-Jahres den Veränderungswert nach Maßgabe des § 10 Absatz 6 Satz 6
-oder 7 für die Begrenzung der Entwicklung des Basisfallwerts nach §
-10 Absatz 4, wobei bereits anderweitig finanzierte Kostensteigerungen
-zu berücksichtigen sind, soweit dadurch die Veränderungsrate
-nach § 71 Absatz 3 des Fünften Buches Sozialgesetzbuch nicht
-unterschritten wird; im Fall des § 10 Absatz 6 Satz 7 ist der
-Veränderungswert ausgehend von dem nach § 10 Absatz 6 Satz 1
-veröffentlichten Orientierungswert unter Berücksichtigung bereits
-anderweitig finanzierter Kostensteigerungen zu vereinbaren;
-für das Jahr 2026 entspricht der Veränderungswert dem nach § 10
-Absatz 6 Satz 1 im Jahr 2025 veröffentlichten Orientierungswert.
+Jahres, erstmals bis zum 31. Oktober 2029, den Veränderungswert für
+die Begrenzung der Entwicklung des Basisfallwerts nach § 10 Absatz 4;
+abweichend hiervon entspricht der Veränderungswert
+
+1.  für das Jahr 2026 dem nach § 10 Absatz 6 Satz 1 im Jahr 2025
+    veröffentlichten Orientierungswert und
+
+2.  für die Jahre 2027 bis 2029 der im jeweiligen Vorjahr nach § 71
+    Absatz 3 des Fünften Buches Sozialgesetzbuch veröffentlichten
+    Veränderungsrate.
+
+Überschreitet der nach § 10 Absatz 6 Satz 1 veröffentlichte
+Orientierungswert die im selben Kalenderjahr nach § 71 Absatz
+3 Satz 5 des Fünften Buches Sozialgesetzbuch veröffentlichte
+Veränderungsrate, vereinbaren die Vertragsparteien auf Bundesebene
+bis zum 31. Oktober desselben Kalenderjahres, erstmals bis zum 31.
+Oktober 2029, den Veränderungswert in Höhe der Veränderungsrate.
+Unterschreitet der nach § 10 Absatz 6 Satz 1 veröffentlichte
+Orientierungswert die im selben Kalenderjahr nach § 71 Absatz
+3 Satz 5 des Fünften Buches Sozialgesetzbuch veröffentlichte
+Veränderungsrate, vereinbaren die Vertragsparteien auf Bundesebene
+bis zum 31. Oktober desselben Kalenderjahres, erstmals bis zum 31.
+Oktober 2029, den Veränderungswert in Höhe des Orientierungswerts.
 Die Vertragsparteien auf Bundesebene können Empfehlungen an die
 Vertragsparteien auf Landesebene zur Vereinbarung der Basisfallwerte
 und der zu berücksichtigenden Tatbestände, insbesondere zur
@@ -2754,21 +2877,21 @@ Absatz 1b Satz 1 bis zum 31. Oktober eines Jahres zu vereinbarenden
 Veränderungswert hat die Schiedsstelle bis zum 15. November des
 jeweiligen Jahres zu treffen. Kommt eine Vereinbarung nach Absatz 1a
 Nummer 5 oder Nummer 8 nicht zustande, kann auch das Bundesministerium
-für Gesundheit die Schiedsstelle anrufen. Kommt eine Vereinbarung nach
-Absatz 1c nicht fristgerecht zustande, entscheidet die Schiedsstelle
-abweichend von Satz 1 ohne Antrag einer Vertragspartei innerhalb
-von sechs Wochen. Kommt eine Vereinbarung der Erhöhungsrate und
-der anteiligen Erhöhungsrate nach Absatz 1 Nummer 7 nicht in der
-in § 10 Absatz 5 Satz 4 genannten Frist zustande, entscheidet die
-Schiedsstelle auf Antrag einer Vertragspartei innerhalb von sechs
-Wochen ab Antragstellung über die Erhöhungsrate und die anteilige
-Erhöhungsrate. Kommt eine Vereinbarung nach Absatz 1 Nummer 1 oder
-2 nicht oder teilweise nicht zustande, entscheidet die Schiedsstelle
-auf Antrag einer Vertragspartei innerhalb von sechs Wochen ab
-Antragstellung. Abweichend von den Sätzen 1 und 5 entscheidet
-die Schiedsstelle bis zum 15. November eines Jahres ohne Antrag
-einer Vertragspartei, sofern die Vertragsparteien bis dahin keine
-Vereinbarung nach Absatz 1 Nummer 1 oder 2 getroffen haben.
+für Gesundheit die Schiedsstelle anrufen. Kommt eine Vereinbarung
+nach Absatz 1 Nummer 3 oder Absatz 1c nicht fristgerecht zustande,
+entscheidet die Schiedsstelle abweichend von Satz 1 ohne Antrag einer
+Vertragspartei innerhalb von sechs Wochen. Kommt eine Vereinbarung der
+Erhöhungsrate und der anteiligen Erhöhungsrate nach Absatz 1 Nummer
+7 nicht in der in § 10 Absatz 5 Satz 4 genannten Frist zustande,
+entscheidet die Schiedsstelle auf Antrag einer Vertragspartei
+innerhalb von sechs Wochen ab Antragstellung über die Erhöhungsrate
+und die anteilige Erhöhungsrate. Kommt eine Vereinbarung nach Absatz
+1 Nummer 1 oder 2 nicht oder teilweise nicht zustande, entscheidet
+die Schiedsstelle auf Antrag einer Vertragspartei innerhalb von
+sechs Wochen ab Antragstellung. Abweichend von den Sätzen 1 und 5
+entscheidet die Schiedsstelle bis zum 15. November eines Jahres ohne
+Antrag einer Vertragspartei, sofern die Vertragsparteien bis dahin
+keine Vereinbarung nach Absatz 1 Nummer 1 oder 2 getroffen haben.
 
 
 ### § 10 Vereinbarung auf Landesebene, Verordnungsermächtigung
@@ -2800,20 +2923,21 @@ auch ohne eine Fehlschätzung eine Berücksichtigung des Betrags der
 Basisberichtigung zulässig gewesen wäre. Eine Veränderung der Summe
 der effektiven Bewertungsrelationen, die aus § 17b Absatz 4 des
 Krankenhausfinanzierungsgesetzes in Verbindung mit § 6a, aus § 17b
-Absatz 4b des Krankenhausfinanzierungsgesetzes in Verbindung mit § 6b,
-aus § 6c oder aus § 115f des Fünften Buches Sozialgesetzbuch entsteht,
-ist im Erlösvolumen entsprechend verändernd zu berücksichtigen,
-so dass hieraus keine Veränderung des zu vereinbarenden
-Landesbasisfallwerts entsteht. Als Ausgangsgrundlage für die
-Vereinbarung des Landesbasisfallwerts für das Jahr 2027 ist der für
-das Jahr 2026 vereinbarte oder festgesetzte Landesbasisfallwert ohne
-Ausgleiche um 1,14 Prozent zu erhöhen.
+Absatz 4b des Krankenhausfinanzierungsgesetzes in Verbindung mit §
+6b, aus § 6c, aus § 115f des Fünften Buches Sozialgesetzbuch oder
+aus § 17b Absatz 2a des Krankenhausfinanzierungsgesetzesentsteht, ist
+im Erlösvolumen entsprechend verändernd zu berücksichtigen, so dass
+hieraus keine Veränderung des zu vereinbarenden Landesbasisfallwerts
+entsteht. Als Ausgangsgrundlage für die Vereinbarung des
+Landesbasisfallwerts für das Jahr 2027 ist der für das Jahr 2026
+vereinbarte oder festgesetzte Landesbasisfallwert ohne Ausgleiche um
+1,14 Prozent zu erhöhen.
 
 (2) (weggefallen)
 
 (3) Bei der Vereinbarung sind insbesondere zu berücksichtigen:
 
-1.  der von den Vertragsparteien nach § 9 Absatz 1b Satz 2 vorgegebene
+1.  der von den Vertragsparteien nach § 9 Absatz 1b Satz 4 vorgegebene
     Veränderungsbedarf auf Grund der jährlichen Kostenerhebung und
     Neukalkulation, der nicht mit den Bewertungsrelationen umgesetzt
     werden kann,
@@ -2843,38 +2967,38 @@ Soweit infolge einer veränderten Kodierung der Diagnosen und
 Prozeduren Ausgabenerhöhungen entstehen, sind diese vollständig durch
 eine entsprechende Absenkung des Basisfallwerts auszugleichen.
 
-(4) Die nach Absatz 3 vereinbarte Veränderung des Basisfallwerts darf
-die sich bei Anwendung des Veränderungswerts nach § 9 Absatz 1b Satz
-1 ergebende Veränderung des Basisfallwerts nicht überschreiten. Satz
-1 gilt nicht, soweit eine Erhöhung des Basisfallwerts infolge der
-Weiterentwicklung des DRG-Vergütungssystems oder der Abrechnungsregeln
-lediglich technisch bedingt ist und nicht zu einer Erhöhung der
-Gesamtausgaben für Krankenhausleistungen führt oder soweit eine
-Berichtigung von Fehlschätzungen nach Absatz 1 durchzuführen ist.
-Soweit eine Überschreitung des Veränderungswerts durch die erhöhende
+(4) Die nach Absatz 3 vereinbarte Veränderung des Basisfallwerts
+darf die sich bei Anwendung des nach § 9 Absatz 1b Satz 1 bis
+3 vereinbarten oder festgelegten oder nach § 9 Absatz 2 Satz
+1 festgesetzten Veränderungswerts ergebende Veränderung des
+Basisfallwerts nicht überschreiten. Satz 1 gilt nicht, soweit eine
+Erhöhung des Basisfallwerts infolge der Weiterentwicklung des DRG-
+Vergütungssystems oder der Abrechnungsregeln lediglich technisch
+bedingt ist und nicht zu einer Erhöhung der Gesamtausgaben
+für Krankenhausleistungen führt oder soweit eine Berichtigung
+von Fehlschätzungen nach Absatz 1 durchzuführen ist. Soweit
+eine Überschreitung des Veränderungswerts durch die erhöhende
 Berücksichtigung von befristeten Zuschlägen nach § 5 Absatz 3c im
-Rahmen von Absatz 3 Satz 1 Nummer 7 begründet ist, ist abweichend
-von Satz 1 ein höherer Basisfallwert zu vereinbaren. Satz 2 findet
-im Zusammenhang mit der Einführung und Weiterentwicklung des
-Pflegebudgets nach § 6a, des Vorhaltebudgets nach § 6b, der Vergütung
-von sektorenübergreifenden Versorgungseinrichtungen nach § 6c und der
-speziellen sektorengleichen Vergütung nach § 115f des Fünften Buches
-Sozialgesetzbuch keine Anwendung.
+Rahmen von Absatz 3 Satz 1 Nummer 7 begründet ist, ist abweichend von
+Satz 1 ein höherer Basisfallwert zu vereinbaren. Satz 2 findet keine
+Anwendung im Zusammenhang mit der Einführung und Weiterentwicklung
+des Pflegebudgets nach § 6a, des Vorhaltebudgets nach § 6b, der
+Vergütung von sektorenübergreifenden Versorgungseinrichtungen nach §
+6c, der Kurzzeitfallpauschalen im Sinne des § 17b Absatz 2a Satz 1 des
+Krankenhausfinanzierungsgesetzes und der speziellen sektorengleichen
+Vergütung nach § 115f des Fünften Buches Sozialgesetzbuch.
 
 (5) Bei der Vereinbarung des Basisfallwerts sind erstmals für das
-Jahr 2024 nach Maßgabe der folgenden Sätze Tariferhöhungen für Löhne
+Jahr 2026 nach Maßgabe der folgenden Sätze Tariferhöhungen für Löhne
 und Gehälter über den Veränderungswert nach Absatz 4 Satz 1 hinaus zu
 berücksichtigen; eine Erhöhung wirkt als Basiserhöhung auch für die
 Folgejahre. Bezogen auf die Personalkosten werden für den Pflegedienst
-ohne Pflegepersonal in der unmittelbaren Patientenversorgung auf
-bettenführenden Stationen sowie für den übrigen nichtärztlichen
-Personalbereich und für den ärztlichen Personalbereich jeweils
-100 Prozent des Unterschieds zwischen dem Veränderungswert und der
-Tarifrate berücksichtigt. Maßstab für die Ermittlung der Tarifrate
-ist für
+sowie für den übrigen nichtärztlichen Personalbereich und für den
+ärztlichen Personalbereich jeweils 50 Prozent des Unterschieds
+zwischen dem Veränderungswert und der Tarifrate berücksichtigt.
+Maßstab für die Ermittlung der Tarifrate ist für
 
-1.  den Bereich des Pflegepersonals ohne Pflegepersonal in der
-    unmittelbaren Patientenversorgung auf bettenführenden Stationen,
+1.  den Bereich des Pflegepersonals,
 
 2.  den übrigen nichtärztlichen Personalbereich und
 
@@ -2882,70 +3006,53 @@ ist für
 
 jeweils diejenige tarifvertragliche Vereinbarung, die in dem
 jeweiligen Bereich für die meisten Beschäftigten maßgeblich ist;
-maßgeblich dabei sind jeweils die durchschnittlichen Auswirkungen der
+maßgeblich sind jeweils die durchschnittlichen Auswirkungen der
 tarifvertraglich vereinbarten linearen und strukturellen Steigerungen
-sowie Einmalzahlungen. Die Vertragsparteien auf Bundesebene nach
-§ 9 haben die Vereinbarung der Erhöhungsrate und der anteiligen
-Erhöhungsrate nach § 9 Absatz 1 Nummer 7 jeweils für das laufende
-Kalenderjahr innerhalb von vier Wochen nach Wirksamwerden einer nach
-Satz 3 maßgeblichen tarifvertraglichen Vereinbarung zu treffen; die
-Erhöhungsrate nach § 9 Absatz 1 Nummer 7 ist in Höhe des Unterschieds
-zwischen dem in § 9 Absatz 1b Satz 1 genannten Veränderungswert und
-der in Satz 3 genannten Tarifrate zu vereinbaren. Zusätzlich haben
-die Vertragsparteien auf Bundesebene nach § 9 bis zum 9. Januar 2025
-eine Vereinbarung der Erhöhungsrate und der anteiligen Erhöhungsrate
-nach § 9 Absatz 1 Nummer 7 zu treffen; die Erhöhungsrate nach § 9
-Absatz 1 Nummer 7 ist in Höhe des Unterschieds zwischen dem nach § 9
-Absatz 1b Satz 1 für das Jahr 2024 vereinbarten Veränderungswert und
-der in Satz 3 genannten Tarifrate, die unter Beachtung der im Jahr
-2024 wirksam gewordenen maßgeblichen tarifvertraglichen Vereinbarungen
-zu ermitteln ist, zu vereinbaren. Der zu vereinbarende Basisfallwert
+sowie Einmalzahlungen. Die Vertragsparteien auf Bundesebene haben die
+Vereinbarung der Erhöhungsrate und der anteiligen Erhöhungsrate nach
+§ 9 Absatz 1 Nummer 7 jeweils für das laufende Kalenderjahr innerhalb
+von vier Wochen nach Wirksamwerden einer nach Satz 3 maßgeblichen
+tarifvertraglichen Vereinbarung zu treffen; die Erhöhungsrate nach
+§ 9 Absatz 1 Nummer 7 ist in Höhe des Unterschieds zwischen dem nach
+§ 9 Absatz 1b Satz 1 bis 3 vereinbarten oder festgelegten oder nach
+§ 9 Absatz 2 Satz 1 festgesetzten Veränderungswert und der in Satz 3
+genannten Tarifrate zu vereinbaren. Der zu vereinbarende Basisfallwert
 ist unter Berücksichtigung des Zeitpunkts der erstmaligen Abrechnung
 von den Vertragsparteien auf Landesebene um die nach § 9 Absatz
 1 Nummer 7 vereinbarte anteilige Erhöhungsrate zu erhöhen. Sofern
 der Basisfallwert bereits vereinbart oder festgesetzt ist, ist
-die anteilige Erhöhungsrate nach Satz 5 bei der Vereinbarung des
-Basisfallwerts für das Folgejahr erhöhend zu berücksichtigen.
-Neben der Berichtigung des Basisfallwerts des Vorjahres ist
-ein einmaliger Ausgleich infolge der verspäteten Anwendung der
-anteiligen Erhöhungsrate vorzunehmen. Abweichend von Satz 7 ist der
-Basisfallwert, sofern er bereits vereinbart oder festgesetzt ist,
-auf Verlangen einer in Absatz 1 Satz 1 genannten Vertragspartei
-auf Landesebene während eines laufenden Kalenderjahres unverzüglich
-unter Berücksichtigung der nach § 9 Absatz 1 Nummer 7 vereinbarten
-anteiligen Erhöhungsrate und des Zeitpunkts der erstmaligen Abrechnung
-neu zu vereinbaren.
+die nach § 9 Absatz 1 Nummer 7 vereinbarte anteilige Erhöhungsrate
+bei der Vereinbarung des Basisfallwerts für das Folgejahr erhöhend
+zu berücksichtigen. Neben der Berichtigung des Basisfallwerts des
+Vorjahres ist ein einmaliger Ausgleich infolge der verspäteten
+Anwendung der anteiligen Erhöhungsrate vorzunehmen. Abweichend von
+Satz 6 ist der Basisfallwert, sofern er bereits vereinbart oder
+festgesetzt ist, auf Verlangen einer in Absatz 1 Satz 1 genannten
+Vertragspartei auf Landesebene während eines laufenden Kalenderjahres
+unverzüglich unter Berücksichtigung der nach § 9 Absatz 1 Nummer
+7 vereinbarten anteiligen Erhöhungsrate und des Zeitpunkts der
+erstmaligen Abrechnung neu zu vereinbaren.
 
 (6) Das Statistische Bundesamt hat jährlich einen Orientierungswert
 zu ermitteln, der die tatsächlichen Kostenentwicklungen der
-Krankenhäuser ohne die Kostenentwicklung des Pflegepersonals
-in der unmittelbaren Patientenversorgung auf bettenführenden
-Stationen wiedergibt, und diesen spätestens bis zum 30. September
-jeden Jahres zu veröffentlichen; die hierfür vom Statistischen
-Bundesamt zu erhebenden Daten werden vom Bundesministerium für
-Gesundheit durch Rechtsverordnung ohne Zustimmung des Bundesrates
-festgelegt. Die Erhebungen werden jährlich vom Statistischen
-Bundesamt durchgeführt. Der Berichtszeitraum umfasst das
-vorangegangene Kalenderjahr. Die Krankenhäuser nach § 2 Nummer
-1 des Krankenhausfinanzierungsgesetzes einschließlich der in
-den §§ 3 und 5 des Krankenhausfinanzierungsgesetzes genannten
+Krankenhäuser wiedergibt, und diesen spätestens bis zum 30. September
+jeden Jahres zu veröffentlichen. Die für eine Weiterentwicklung des
+Orientierungswerts vom Statistischen Bundesamt zu erhebenden Daten
+werden vom Bundesministerium für Gesundheit durch Rechtsverordnung
+ohne Zustimmung des Bundesrates festgelegt. Die Erhebungen dieser
+Daten werden jährlich vom Statistischen Bundesamt durchgeführt. Nach
+Inkrafttreten der in Satz 2 genannten Rechtsverordnung umfasst der
+Berichtszeitraum das vorangegangene Kalenderjahr. Die Krankenhäuser
+nach § 2 Nummer 1 des Krankenhausfinanzierungsgesetzes einschließlich
+der in den §§ 3 und 5 des Krankenhausfinanzierungsgesetzes genannten
 Krankenhäuser, soweit sie zugelassene Krankenhäuser im Sinne des
 § 108 des Fünften Buches Sozialgesetzbuch sind, mit Ausnahme von
 Bundeswehrkrankenhäusern und reinen Tages- und Nachtkliniken, sind
 verpflichtet, dem Statistischen Bundesamt für die Zwecke nach Satz
 1 Daten zu übermitteln. Soweit es zur Gewinnung von Informationen
 zur Bestimmung des Orientierungswertes erforderlich ist, darf das
-Statistische Bundesamt die erhobenen Daten mit den nach § 21 Absatz
-3 Satz 1 Nummer 4 genannten Daten zusammenführen. Unterschreitet
-der Orientierungswert die Veränderungsrate nach § 71 Absatz 3 des
-Fünften Buches Sozialgesetzbuch, entspricht der Veränderungswert der
-Veränderungsrate; hiervon abweichend entspricht der Veränderungswert
-für das Jahr 2026 dem nach Satz 1 im Jahr 2025 veröffentlichten
-Orientierungswert. Überschreitet der Orientierungswert
-die Veränderungsrate nach § 71 Absatz 3 des Fünften Buches
-Sozialgesetzbuch, vereinbaren die Vertragsparteien auf Bundesebene den
-Veränderungswert gemäß § 9 Absatz 1b Satz 1 und § 9 Absatz 1 Nummer 5
-der Bundespflegesatzverordnung.
+Statistische Bundesamt die erhobenen Daten mit den nach § 21 Absatz 3
+Satz 1 Nummer 4 genannten Daten zusammenführen.
 
 (7) Soweit in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
 die Höhe der Vergütung nach dem Tarifvertrag für den öffentlichen
@@ -4044,8 +4151,9 @@ Datenübermittlung. Die Vereinbarung nach Satz 1 wird ab dem 1. Januar
 2019 von der Datenstelle nach Absatz 1 den gesetzlichen Erfordernissen
 entsprechend angepasst.
 
-(5) Die Vertragsparteien nach § 17b Abs. 2 Satz 1 vereinbaren einen
-Abschlag von den pauschalierten Pflegesätzen nach § 17 Absatz 1 des
+(5) Die Vertragsparteien nach § 17b Absatz 2 Satz 1 des
+Krankenhausfinanzierungsgesetzes vereinbaren einen Abschlag
+von den pauschalierten Pflegesätzen nach § 17 Absatz 1 des
 Krankenhausfinanzierungsgesetzes für die Krankenhäuser, die ihre
 Verpflichtung zur Übermittlung der Daten nach Absatz 1 oder Absatz
 3b nicht, nicht vollständig oder nicht rechtzeitig erfüllen; im Fall

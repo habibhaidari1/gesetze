@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 2 Abs. 10 G v. 12.5.2026 I Nr. 143
 
 Änderung durch
-:   Art. 2a G v. 24.7.2026 I Nr. 228 mWv 30.7.2026 noch nicht berücksichtigt
+:   Art. 2a G v. 24.7.2026 I Nr. 228 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Stand
 :   Ergänzung aufgrund der Sozialversicherungsrechengrößen-Verordnung 2026 v. 24.11.2025 I Nr. 278 ist berücksichtigt
@@ -273,10 +273,12 @@ aufgrund dieser Tätigkeit beantragen.
 2.  nur deshalb keinen Anspruch auf Krankengeld haben, weil sie nicht
     in der gesetzlichen Krankenversicherung versichert sind oder in
     der gesetzlichen Krankenversicherung ohne Anspruch auf Krankengeld
-    versichert sind, für die Zeit der Arbeitsunfähigkeit oder der
-    Ausführung von Leistungen zur medizinischen Rehabilitation oder
-    zur Teilhabe am Arbeitsleben, wenn sie im letzten Jahr vor Beginn
-    der Arbeitsunfähigkeit oder der Ausführung von Leistungen zur
+    versichert sind, für die Zeit der Arbeitsunfähigkeit, der
+    Teilarbeitsunfähigkeit nach § 44c Absatz 1 Satz 1 des Fünften Buches
+    oder der Ausführung von Leistungen zur medizinischen Rehabilitation
+    oder zur Teilhabe am Arbeitsleben, wenn sie im letzten Jahr vor Beginn
+    der Arbeitsunfähigkeit, der Teilarbeitsunfähigkeit nach § 44c Absatz
+    1 Satz 1 des Fünften Buches oder der Ausführung von Leistungen zur
     medizinischen Rehabilitation oder zur Teilhabe am Arbeitsleben zuletzt
     versicherungspflichtig waren, längstens jedoch für 18 Monate,
 
@@ -312,12 +314,13 @@ werden kann.
     vorliegen, wenn sie innerhalb von drei Monaten danach beantragt wird,
     sonst mit dem Tag, der dem Eingang des Antrags folgt,
 
-2.  in den Fällen des Absatzes 3 Satz 1 Nr. 1 mit Beginn der Leistung
-    und in den Fällen des Absatzes 3 Satz 1 Nr. 2 mit Beginn der
-    Arbeitsunfähigkeit oder Rehabilitation, wenn der Antrag innerhalb
-    von drei Monaten danach gestellt wird, andernfalls mit dem Tag,
-    der dem Eingang des Antrags folgt, frühestens jedoch mit dem
-    Ende der Versicherungspflicht aufgrund einer vorausgehenden
+2.  in den Fällen des Absatzes 3 Satz 1 Nummer 1 mit Beginn der Leistung
+    und in den Fällen des Absatzes 3 Satz 1 Nummer 2 mit Beginn der
+    Arbeitsunfähigkeit, der Teilarbeitsunfähigkeit nach § 44c Absatz 1
+    Satz 1 des Fünften Buches, oder der Rehabilitation, wenn der Antrag
+    innerhalb von drei Monaten danach gestellt wird, andernfalls mit
+    dem Tag, der dem Eingang des Antrags folgt, frühestens jedoch mit
+    dem Ende der Versicherungspflicht aufgrund einer vorausgehenden
     versicherungspflichtigen Beschäftigung oder Tätigkeit.
 
 Sie endet mit Ablauf des Tages, an dem die Voraussetzungen weggefallen
@@ -391,7 +394,10 @@ maßgebend. § 8 Absatz 2 des Vierten Buches ist mit der Maßgabe
 anzuwenden, dass eine Zusammenrechnung mit einer nicht geringfügigen
 selbständigen Tätigkeit nur erfolgt, wenn diese versicherungspflichtig
 ist. Satz 1 Nummer 1 gilt nicht für Personen, die im Rahmen
-betrieblicher Berufsbildung beschäftigt sind.
+betrieblicher Berufsbildung beschäftigt sind. Satz 1 Nummer 2 gilt
+nicht für Personen, deren Arbeitseinkommen die nach Satz 2 maßgebende
+Geringfügigkeitsgrenze aufgrund einer Teilarbeitsunfähigkeit nach §
+44c Absatz 1 Satz 1 des Fünften Buches unterschreitet.
 
 (3) Versicherungsfrei sind Personen, die während der Dauer
 eines Studiums als ordentliche Studierende einer Fachschule oder
@@ -517,7 +523,14 @@ Berufsbildung, nach dem Jugendfreiwilligendienstegesetz, nach dem
 Bundesfreiwilligendienstgesetz oder nach § 1 Satz 1 Nummer 2 bis
 4 beschäftigt sind oder von der Möglichkeit einer stufenweisen
 Wiederaufnahme einer nicht geringfügigen Tätigkeit (§ 74 des Fünften
-Buches) Gebrauch machen.
+Buches) Gebrauch machen. Satz 1 gilt nicht für Personen, die im Rahmen
+betrieblicher Berufsbildung, nach dem Jugendfreiwilligendienstegesetz,
+nach dem Bundesfreiwilligendienstgesetz oder nach § 1 Satz 1 Nummer
+2 bis 4 beschäftigt sind oder von der Möglichkeit einer stufenweisen
+Wiederaufnahme einer nicht geringfügigen Tätigkeit nach § 74 des
+Fünften Buches Gebrauch machen oder in einer nicht geringfügigen
+Tätigkeit teilweise arbeitsunfähig nach § 44c Absatz 1 Satz 1 des
+Fünften Buches sind.
 
 (2) Die Befreiung erfolgt auf Antrag des Versicherten, in den
 Fällen des Absatzes 1 Nr. 2 und 3 auf Antrag des Arbeitgebers.
@@ -1296,11 +1309,11 @@ Anspruch auf Übergangsgeld, wenn sie wegen der Inanspruchnahme der
 Leistungen zur Teilhabe keine ganztägige Erwerbstätigkeit ausüben
 können.
 
-(3) Versicherte, die Anspruch auf Krankengeld nach § 44 des Fünften
-Buches haben und ambulante Leistungen zur Prävention und Nachsorge in
-einem zeitlich geringen Umfang erhalten, haben abweichend von Absatz 1
-Nummer 1 ab Inkrafttreten der Vereinbarung nach Absatz 4 nur Anspruch
-auf Übergangsgeld, sofern die Vereinbarung dies vorsieht.
+(3) Versicherte, die Anspruch auf Krankengeld nach § 44 Absatz 1
+des Fünften Buches haben und ambulante Leistungen zur Prävention und
+Nachsorge in einem zeitlich geringen Umfang erhalten, haben abweichend
+von Absatz 1 Nummer 1 ab Inkrafttreten der Vereinbarung nach Absatz 4
+nur Anspruch auf Übergangsgeld, sofern die Vereinbarung dies vorsieht.
 
 (4) Die Deutsche Rentenversicherung Bund und der Spitzenverband Bund
 der Krankenkassen vereinbaren im Benehmen mit dem Bundesministerium
@@ -7656,8 +7669,13 @@ Beschäftigung behandelt werden.
     Arbeitseinkommen; wird dieses Krankengeld nach § 47b des Fünften
     Buches gezahlt, gilt Nummer 2,
 
-2c. bei Personen, die Teilarbeitslosengeld beziehen, 80 vom Hundert des
-    dieser Leistung zugrunde liegenden Arbeitsentgelts,
+2c. bei Personen, die Teilarbeitslosengeld, teilweises Krankengeld
+    nach § 44 Absatz 1a des Fünften Buches oder teilweises Krankengeld
+    der Sozialen Entschädigung beziehen, 80 Prozent des der Leistung
+    zugrunde liegenden Arbeitsentgelts oder Arbeitseinkommens, wobei bei
+    gleichzeitigem Bezug von teilweisem Krankengeld nach § 44 Absatz 1a
+    des Fünften Buches neben einer anderen Leistung das dem teilweisen
+    Krankengeld zugrunde liegende Einkommen nicht zu berücksichtigen ist,
 
 2d. bei Personen, die von einem privaten Krankenversicherungsunternehmen,
     von einem Beihilfeträger des Bundes, von einem sonstigen öffentlich-
@@ -7709,7 +7727,15 @@ Beschäftigung behandelt werden.
 5.  bei Personen, die für Zeiten der Arbeitsunfähigkeit oder der
     Ausführung von Leistungen zur Teilhabe ohne Anspruch auf Krankengeld
     versichert sind, 80 vom Hundert des zuletzt für einen vollen
-    Kalendermonat versicherten Arbeitsentgelts oder Arbeitseinkommens.
+    Kalendermonat versicherten Arbeitsentgelts oder Arbeitseinkommens,
+
+6.  bei Personen, die für Zeiten der Teilarbeitsunfähigkeit nach § 44c
+    Absatz 1 Satz 1 des Fünften Buches ohne Anspruch auf Krankengeld
+    versichert sind, 80 Prozent des zuletzt für einen vollen Kalendermonat
+    versicherten Arbeitsentgelts, das entsprechend der ärztlich
+    festgestellten Teilarbeitsunfähigkeit nach § 44c Absatz 1 Satz 1 des
+    Fünften Buches mit dem Faktor 0,25, dem Faktor 0,5 oder dem Faktor
+    0,75 multipliziert wird.
 
 (2) Beitragspflichtige Einnahmen sind bei nicht erwerbsmäßig tätigen
 Pflegepersonen bei Pflege einer
@@ -7928,7 +7954,10 @@ Die Beiträge werden getragen
     c)  Krankengeld nach § 44a des Fünften Buches beziehen, vom
         Leistungsträger,
 
-    d)  Leistungen für den Ausfall von Arbeitseinkünften im Zusammenhang mit
+    d)  Krankengeld beziehen, dessen Höhe sich nach § 47 Absatz 2a des Fünften
+        Buches bestimmt, von den Leistungsträgern,
+
+    e)  Leistungen für den Ausfall von Arbeitseinkünften im Zusammenhang mit
         einer nach den §§ 8 und 8b des Transplantationsgesetzes erfolgenden
         Spende von Organen oder Geweben oder im Zusammenhang mit einer im
         Sinne von § 9 des Transfusionsgesetzes erfolgenden Spende von Blut
@@ -7937,7 +7966,7 @@ Die Beiträge werden getragen
         von mehreren Stellen erbracht, sind die Beiträge entsprechend anteilig
         zu tragen,
 
-    e)  Pflegeunterstützungsgeld beziehen, von den Beziehern der Leistung zur
+    f)  Pflegeunterstützungsgeld beziehen, von den Beziehern der Leistung zur
         Hälfte, soweit sie auf die Leistung entfallen, im Übrigen
 
         aa) von der Pflegekasse, wenn der Pflegebedürftige in der sozialen
@@ -7973,9 +8002,9 @@ Die Beiträge werden getragen
     Soldatenentschädigungsgesetz beziehen, von der antragstellenden
     Stelle.
 
-5.  bei Zeiten der Arbeitsunfähigkeit oder der Ausführung von Leistungen
-    zur Teilhabe ohne Anspruch auf Krankengeld von den Versicherten
-    selbst,
+5.  bei Zeiten der Arbeitsunfähigkeit, der Teilarbeitsunfähigkeit,
+    oder der Ausführung von Leistungen zur Teilhabe ohne Anspruch auf
+    Krankengeld von den Versicherten selbst,
 
 6.  bei nicht erwerbsmäßig tätigen Pflegepersonen, die einen
 
@@ -8110,8 +8139,10 @@ gilt Absatz 1 entsprechend.
 (1) Die Künstlersozialkasse zahlt für nachgewiesene Zeiten des
 Bezugs von Krankengeld, Verletztengeld, Krankengeld der Sozialen
 Entschädigung, Krankengeld der Soldatenentschädigung, Übergangsgeld
-oder Mutterschaftsgeld sowie für nachgewiesene Anrechnungszeiten von
-Künstlern und Publizisten keine Beiträge.
+oder Mutterschaftsgeld sowie für nachgewiesene Anrechnungszeiten
+von Künstlern und Publizisten keine Beiträge; dies gilt nicht für
+nachgewiesene Zeiten des Bezugs von teilweisem Krankengeld nach § 44
+Absatz 1a des Fünften Buches.
 
 (2) Die Künstlersozialkasse ist zur Zahlung eines Beitrags
 für Künstler und Publizisten nur insoweit verpflichtet, als

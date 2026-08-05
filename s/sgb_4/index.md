@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 8 G v. 27.4.2026 I Nr. 119
 
 Änderung durch
-:   Art. 2 G v. 24.7.2026 I Nr. 228 mWv 30.7.2026 bzw. 1.1.2027 bzw. 1.7.2028 noch nicht berücksichtigt
+:   Art. 2 G v. 24.7.2026 I Nr. 228 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Abschnitt - Grundsätze und Begriffsbestimmungen
@@ -3846,17 +3846,36 @@ von Dritten gewährt werden, sind dem Vorsitzenden und dem
 stellvertretenden Vorsitzenden des Verwaltungsrates mitzuteilen.
 
 (6a) Der Abschluss, die Verlängerung oder die Änderung eines
-Vorstandsdienstvertrags bedürfen zu ihrer Wirksamkeit der
+Vorstandsdienstvertrages bedürfen zu ihrer Wirksamkeit der
 vorherigen Zustimmung der Aufsichtsbehörde. Die Vergütung der
 Mitglieder des Vorstandes einschließlich aller Nebenleistungen
 und Versorgungsregelungen hat in angemessenem Verhältnis zur
 Bedeutung der Körperschaft zu stehen, die sich nach der Zahl der
 Versicherten bemisst. Darüber hinaus ist die Größe des Vorstandes
-zu berücksichtigen. Finanzielle Zuwendungen nach Absatz 6 Satz 3
-sind auf die Vergütung der Vorstandsmitglieder anzurechnen oder an
-die Körperschaft abzuführen. Vereinbarungen der Körperschaft für die
-Zukunftssicherung der Vorstandsmitglieder sind nur auf Grundlage von
-beitragsorientierten Zusagen zulässig.
+zu berücksichtigen. Die Aufsichtsbehörde kann vor ihrer Entscheidung
+nach Satz 1 verlangen, dass ihr eine unabhängige rechtliche und
+wirtschaftliche Bewertung der Vorstandsdienstverträge vorgelegt
+wird. Vergütungserhöhungen sind während der Dauer einer Amtszeit
+der Vorstandsmitglieder unzulässig. Zu Beginn einer neuen Amtszeit
+eines Vorstandsmitgliedes kann eine über die zuletzt nach Satz 1
+gebilligte Vergütung der letzten Amtsperiode oder des Vorgängers
+im Amt hinausgehende höhere Vergütung nur durch einen prozentualen
+Zuschlag auf die Grundvergütung in Höhe des Mittelwerts der
+nach § 71 Absatz 3 Satz 5 des Fünften Buches seit dem Beginn
+der vorherigen Amtsperiode veröffentlichten durchschnittlichen
+Veränderungsraten vereinbart werden. Die Sätze 5 und 6 gelten auch
+für Verträge, denen die Aufsichtsbehörde bis zum Ablauf des 30.
+März 2026 zugestimmt hat, sofern diesen Verträgen nicht bereits
+eine Zusage über konkrete Vergütungserhöhungen zu entnehmen
+ist. Ab dem 31. März 2026 geschlossene Verträge dürfen keine
+Vereinbarungen über Vergütungserhöhungen enthalten, die den Sätzen
+5 und 6 widersprechen. Die Aufsichtsbehörde kann zu Beginn einer
+neuen Amtszeit eines Vorstandsmitgliedes eine niedrigere Vergütung
+anordnen. Finanzielle Zuwendungen nach Absatz 6 Satz 3 sind auf
+die Vergütung der Vorstandsmitglieder anzurechnen oder an die
+Körperschaft abzuführen. Vereinbarungen der Körperschaft für die
+Zukunftssicherung der Vorstandsmitglieder sind nur auf der Grundlage
+von beitragsorientierten Zusagen zulässig.
 
 (7) Für eine Amtsenthebung und eine Amtsentbindung eines Mitglieds
 des Vorstands durch den Verwaltungsrat gilt § 59 Absatz 2 und 3
@@ -7638,9 +7657,11 @@ folgenden Daten enthält:
 
 1.  den Namen des Beschäftigten,
 
-2.  den Beginn und das Ende der Arbeitsunfähigkeit,
+2.  den Beginn und das Ende der Arbeitsunfähigkeit oder der
+    Teilarbeitsunfähigkeit,
 
-3.  das Datum der ärztlichen Feststellung der Arbeitsunfähigkeit,
+3.  das Datum der ärztlichen Feststellung der Arbeitsunfähigkeit oder der
+    Teilarbeitsunfähigkeit,
 
 4.  die Kennzeichnung als Erst- oder Folgemeldung und
 
@@ -7666,7 +7687,14 @@ Bestehen der Arbeitsunfähigkeit nach § 73 Absatz 2 Satz 1 Nummer
 9 des Fünften Buches in Verbindung mit § 5 Absatz 1a Satz 2 des
 Entgeltfortzahlungsgesetzes auszuhändigen.
 
-(2) (weggefallen)
+(2) Der Arbeitgeber ruft ab dem 1. Juli 2028 die Daten nach
+Absatz 1 zu einer ärztlich festgestellten Teilarbeitsunfähigkeit
+nach § 44c des Fünften Buches ab und teilt seine Zustimmung zur
+teilweisen Arbeitsleistung des Beschäftigten und den Zeitpunkt der
+Arbeitsaufnahme elektronisch der Krankenkasse mit. Eine vorzeitige
+Beendigung der Teilarbeitsunfähigkeit durch Arbeitnehmer oder
+Arbeitgeber ist der Krankenkasse unverzüglich durch den Arbeitgeber zu
+melden. Der Beendigungszeitpunkt ist anzugeben.
 
 (3) Die Absätze 1 und 2 gelten nicht für Beschäftigte nach den §§ 8a
 und 12.
@@ -7685,13 +7713,13 @@ Fünften Buch genutzt, sobald diese zur Verfügung stehen.
 von Arbeitsunfähigkeitsdaten, wenn sie nach § 201 Absatz 2 des Siebten
 Buches an die Krankenkassen übermittelt werden.
 
-(4) Das Nähere zu den Datensätzen und zum Verfahren regelt der
-Spitzenverband Bund der Krankenkassen in Grundsätzen. Die Grundsätze
-bedürfen der Genehmigung durch das Bundesministerium für Arbeit und
-Soziales im Einvernehmen mit dem Bundesministerium für Gesundheit
-und dem Bundesministerium für Ernährung und Landwirtschaft; die
-Bundesvereinigung der Deutschen Arbeitgeberverbände ist vor der
-Genehmigung anzuhören.
+(4) Das Nähere zu den Datensätzen, zum Verfahren nach den Absätzen
+1 und 2 sowie zu den Fristen und den Einzelheiten der elektronischen
+Kommunikation regelt der Spitzenverband Bund der Krankenkassen
+in Grundsätzen. Die Grundsätze bedürfen der Genehmigung durch das
+Bundesministerium für Arbeit und Soziales im Einvernehmen mit dem
+Bundesministerium für Gesundheit. Die Bundesvereinigung der Deutschen
+Arbeitgeberverbände ist vor der Genehmigung anzuhören.
 
 
 ### § 109a Abruf von Arbeitsunfähigkeitsdaten und Daten zur stationären Krankenhausbehandlung durch die Bundesagentur für Arbeit

@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 26.2.1997 I 418, 1804;
 
 Zuletzt geändert durch
-:   Art. 8 G v. 22.6.2026 I Nr. 192
-
-Änderung durch
-:   Art. 9 G v. 29.6.2026 I Nr. 197 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 9 G v. 29.6.2026 I Nr. 197
 
 Mittelbare änderung durch
 :   Art. 10 G v. 29.6.2026 I Nr. 197 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
