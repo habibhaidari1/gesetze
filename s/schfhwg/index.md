@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 1 G v. 3.4.2025 I Nr. 106
 
 Änderung durch
-:   Art. 8 Abs. 5 G v. 23.7.2026 I Nr. 226 mWv 29.7.2026 noch nicht berücksichtigt
+:   Art. 8 Abs. 5 G v. 23.7.2026 I Nr. 226 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Teil 1 - Berufsrecht
@@ -754,13 +754,13 @@ sofern bestellt, regelmäßig zu überwachen.
 
     a)  Art, Brennstoff, Nennwärmeleistung, Alter sowie die Angabe, ob es sich
         um einen Niedertemperatur-Heizkessel oder Brennwertkessel im Sinne des
-        Gebäudeenergiegesetzes handelt,
+        Gebäudemodernisierungsgesetzes handelt,
 
     b)  Betrieb, Standort und Zuweisung zur Abgasanlage,
 
-    c)  Angaben der Eigentümer zu Ausnahmetatbeständen nach den §§ 71 bis 71m,
-        72 und 73 sowie 102 des Gebäudeenergiegesetzes, auch in Verbindung
-        mit § 69 des Gebäudeenergiegesetzes, sowie Angaben darüber, dass
+    c)  Angaben des Eigentümers zu Ausnahmetatbeständen nach § 69
+        Absatz 3 und 4 in Verbindung mit Absatz 2 und § 102 des
+        Gebäudemodernisierungsgesetzes sowie Angaben darüber, dass
         entsprechende Nachweise vorgelegen haben, und
 
     d)  im Falle von Einzelraumfeuerungsanlagen für feste Brennstoffe, die vor
@@ -778,8 +778,8 @@ sofern bestellt, regelmäßig zu überwachen.
 
 5.  in dem Formblatt nach § 4 vermerkte Mängel oder selbst festgestellte
     Mängel sowie Beanstandungen nach § 97 Absatz 1, 2 und 4 des
-    Gebäudeenergiegesetzes und das Datum des Abstellens der Mängel oder
-    der Beanstandungen;
+    Gebäudemodernisierungsgesetzes und das Datum des Abstellens der Mängel
+    oder der Beanstandungen;
 
 6.  das Datum und das Ergebnis einer Bescheinigung nach § 16 Absatz 1
     sowie Name und Stellung der feststellenden Person;

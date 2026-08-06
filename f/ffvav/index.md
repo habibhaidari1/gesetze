@@ -19,7 +19,7 @@ Geändert durch
 :   Art. 2 G v. 4.1.2023 I Nr. 9
 
 Änderung durch
-:   Art. 8 Abs. 8 G v. 23.7.2026 I Nr. 226 mWv 29.7.2026 noch nicht berücksichtigt
+:   Art. 8 Abs. 8 G v. 23.7.2026 I Nr. 226 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## § 1 Anwendungsbereich
@@ -228,11 +228,13 @@ gemäß Absatz 1 Nummer 4 und 5 anzugeben.
 (3) Das Versorgungsunternehmen hat zudem in leicht zugänglicher Form,
 auf seiner Internetseite und in den Abrechnungen, Informationen über
 den Primärenergiefaktor seines technisch zusammenhängenden Fernwärme-
-oder Fernkältesystems zugänglich zu machen sowie darüber, wie hoch in
-seinem technisch zusammenhängenden Fernwärme- oder Fernkältesystem der
-prozentuale Anteil der eingesetzten erneuerbaren Energien im Sinne des
-§ 3 Absatz 2 des Gebäudeenergiegesetzes vom 8. August 2020 (BGBl. I S.
-1728) in der jeweils geltenden Fassung ist.
+oder Fernkältesystems zugänglich zu machen sowie darüber, wie hoch
+in seinem technisch zusammenhängenden Fernwärme- oder Fernkältesystem
+der prozentuale Anteil der eingesetzten erneuerbaren Energien im Sinne
+des § 3 Absatz 2 des Gebäudemodernisierungsgesetzes vom 8. August 2020
+(BGBl. I S. 1728), das zuletzt durch Artikel 4 des Gesetzes vom 23.
+Juli 2026 (BGBl. 2026 I Nr. 226) geändert worden ist, in der jeweils
+geltenden Fassung ist.
 
 (4) Auf Verlangen des Kunden ist das Versorgungsunternehmen
 verpflichtet, Informationen über die Abrechnungen und den historischen

@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 1 V v. 15.1.2025 I Nr. 12
 
 Änderung durch
-:   Art. 8 Abs. 4 G v. 23.7.2026 I Nr. 226 mWv 29.7.2026 noch nicht berücksichtigt
+:   Art. 8 Abs. 4 G v. 23.7.2026 I Nr. 226 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
@@ -662,28 +662,28 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 | **3** | **Sonstige Arbeitsgebühren** |  |  |  |
 | 3.1 | Überprüfung des Feuchtegehalts fester Brennstoffe im Rahmen der Feuerstättenschau (§ 14 Absatz 1 SchfHwG, § 15 Absatz 2 in Verbindung mit § 3 Absatz 3 1. BImSchV) | 6,0 |  |  |
 | 3.2 | Überprüfung des Zeitpunktes der Einhaltung der Grenzwerte (§ 25 Absatz 1 1. BImSchV), Überprüfung des Datums auf dem Typschild der Einzelraumfeuerungsanlagen und Information an den Betreiber (§ 14 Absatz 1 SchfHwG, § 26 Absatz 5 1. BImSchV) | 3,0 |  |  |
-| 3.3 | Überprüfung, ob ein Heizkessel, der außer Betrieb genommen werden musste, weiterhin betrieben wird (§ 14 Absatz 1 SchfHwG, § 97 Absatz 1 Nummer 1 GEG) |  |  |  |
-| 3.3.1 | Überprüfung des Vorliegens von Ausnahmetatbeständen | 1,5 |  |  |
-| 3.3.2 | bei Feststellung eines Verstoßes | 9,0 |  |  |
-| 3.4 | Überprüfung, ob Wärmeverteilungs- und Warmwasserleitungen, die gedämmt werden mussten, weiterhin ungedämmt sind (§ 14 Absatz 1 SchfHwG, § 97 Absatz 1 Nummer 2 GEG) |  |  |  |
+| 3.3 | (weggefallen) |  |  |  |
+| 3.3.1 | (weggefallen) |  |  |  |
+| 3.3.2 | (weggefallen) |  |  |  |
+| 3.4 | Überprüfung, ob Wärmeverteilungs- und Warmwasserleitungen, die gedämmt werden mussten, weiterhin ungedämmt sind (§ 14 Absatz 1 SchfHwG, § 97 Absatz 1 Nummer 1 GModG) |  |  |  |
 | 3.4.1 | Überprüfung des Vorliegens von Ausnahmetatbeständen | 1,5 |  |  |
 | 3.4.2 | bei Feststellung eines Verstoßes | 9,0 |  |  |
-| 3.5 | Überprüfung, ob die Abrechnungen und Bestätigungen nach § 96 Absatz 5 GEG vorliegen (§ 14 Absatz 1 SchfHwG, § 97 Absatz 1 Nummer 3 GEG), je Gasliefervertrag, Öllager oder Brennstofflager (feste Brennstoffe) | 10,0 |  |  |
-| 3.6 | Überprüfung des Verschlechterungsverbots (§ 14 Absatz 1 SchfHwG, § 97 Absatz 2 Nummer 1 GEG) |  |  |  |
+| 3.5 | Überprüfung, ob die Abrechnungen und Bestätigungen nach § 96 Absatz 5 GModG vorliegen (§ 14 Absatz 1 SchfHwG, § 97 Absatz 1 Nummer 2 GModG), je Gasliefervertrag, Öllager oder Brennstofflager (feste Brennstoffe) | 10,0 |  |  |
+| 3.6 | Überprüfung des Verschlechterungsverbots (§ 14 Absatz 1 SchfHwG, § 97 Absatz 2 Nummer 1 GModG) |  |  |  |
 | 3.6.1 | bei Feststellung keiner Verschlechterung | 5,0 |  |  |
 | 3.6.2 | bei Feststellung einer Verschlechterung | 30,0 |  |  |
-| 3.7 | Überprüfung, ob eine Zentralheizung mit bestimmten Einrichtungen ausgestattet ist (§ 14 Absatz 1 SchfHwG, § 97 Absatz 2 Nummer 2 GEG) | 3,0 |  |  |
-| 3.8 | Überprüfung, ob die Anforderungen nach den §§ 71 bis 71m GEG eingehalten worden sind (§ 14 Absatz 1 SchfHwG, § 97 Absatz 2 Nummer 3 GEG), je Gaszähler, Öllager oder Brennstofflager (feste Brennstoffe) |  |  |  |
-| 3.8.1 | Grundwert | 8,0 |  |  |
-| 3.8.2 | Zuschlag bei Überprüfung von Abrechnungen und Bescheinigungen im Sinne des § 96 Absatz 5 GEG, soweit nicht bereits von Nummer 3.5 erfasst | 10,0 |  |  |
-| 3.9 | Überprüfung der Begrenzung der Wärmeabgabe bei Wärmeverteilungs- und Warmwasserleitungen sowie Armaturen (§ 14 Absatz 1 SchfHwG, § 97 Absatz 2 Nummer 4 GEG) | 2,0 |  |  |
-| 3.10 | Überprüfung, ob die Anforderungen an den Einbau von Heizungsanlagen bei Nutzung von fester Biomasse eingehalten werden (§ 14 Absatz 1 SchfHwG, § 97 Absatz 2 Nummer 5 GEG) |  |  |  |
+| 3.7 | Überprüfung, ob eine Zentralheizung mit bestimmten Einrichtungen ausgestattet ist (§ 14 Absatz 1 SchfHwG, § 97 Absatz 2 Nummer 2 GModG) | 3,0 |  |  |
+| 3.8 | (weggefallen) |  |  |  |
+| 3.8.1 | (weggefallen) |  |  |  |
+| 3.8.2 | (weggefallen) |  |  |  |
+| 3.9 | Überprüfung der Begrenzung der Wärmeabgabe bei Wärmeverteilungs- und Warmwasserleitungen sowie Armaturen (§ 14 Absatz 1 SchfHwG, § 97 Absatz 2 Nummer 3 GModG) | 2,0 |  |  |
+| 3.10 | Überprüfung, ob die Anforderungen an den Einbau von Heizungsanlagen bei Nutzung von fester Biomasse eingehalten werden (§ 14 Absatz 1 SchfHwG, § 97 Absatz 2 Nummer 4 GModG) |  |  |  |
 | 3.10.1 | Grundwert | 2,0 |  |  |
 | 3.10.2 | Zuschlag bei Überprüfung von Abrechnungen und Bescheinigungen im Sinne des § 96 Absatz 5 GEG, soweit nicht bereits von Nummer 3.5 erfasst | 10,0 |  |  |
-| 3.11 | Überprüfung, ob die Anforderungen an den Einbau von Wärmepumpen- oder Solarthermie-Hybridheizungen eingehalten werden (§ 14 Absatz 1 SchfHwG, § 97 Absatz 2 Nummer 6 GEG) |  |  |  |
-| 3.11.1 | Grundwert | 8,0 |  |  |
-| 3.11.2 | Zuschlag bei Überprüfung von Abrechnungen und Bescheinigungen im Sinne des § 96 Absatz 5 GEG, soweit nicht bereits von Nummer 3.5 erfasst | 10,0 |  |  |
-| 3.12 | Überprüfung, ob der Eigentümer zur Nachrüstung der Ausstattung von Zentralheizungen in bestehenden Gebäuden verpflichtet ist und diese Pflicht erfüllt wurde (§ 14 Absatz 1 SchfHwG, § 97 Absatz 4 GEG) | 7,0 |  |  |
+| 3.11 | (weggefallen) |  |  |  |
+| 3.11.1 | (weggefallen) |  |  |  |
+| 3.11.2 | (weggefallen) |  |  |  |
+| 3.12 | Überprüfung, ob der Eigentümer zur Nachrüstung der Ausstattung von Zentralheizungen in bestehenden Gebäuden verpflichtet ist und diese Pflicht erfüllt wurde (§ 14 Absatz 1 SchfHwG, § 97 Absatz 4 GModG) | 7,0 |  |  |
 |  | Anmerkung:  Diese Gebühr fällt nach der Feststellung, dass die Verpflichtung nicht vorliegt oder erfüllt wurde, nicht erneut an. |  |  |  |
 | 3.13 | Anlassbezogene Überprüfung der Verbrennungsluftversorgung oder der Rauch- oder Abgasführung nach baulichen Maßnahmen (§ 1 Absatz 8), soweit eine Bescheinigung über das Ergebnis ausgestellt wird, je Arbeitsminute | 0,8 |  |  |
 | 3.13.1 | bei Überprüfung nach Aktenlage pro Nutzungseinheit jedoch maximal | 35,0 |  |  |

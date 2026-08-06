@@ -2737,7 +2737,7 @@ für die Vertragsparteien nach § 11 insbesondere
 
     j)  Abrechnungsbestimmungen für die nach § 6c Absatz 1 Satz 2 Nummer 2 bis
         4 zu vereinbarenden krankenhausindividuellen Tagesentgelte und für die
-        in Buchstabe i genannten vorläufigen Tagesentgelte, und
+        in Buchstabe i genannten vorläufigen Tagesentgelte.
 
 11. erstmals bis zum 30. September 2027 nähere Einzelheiten für
     Kurzzeitfallpauschalen im Sinne des § 17b Absatz 2a Satz 1 des

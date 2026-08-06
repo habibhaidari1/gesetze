@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1998, 869
 
 Zuletzt geändert durch
-:   Art. 3 G v. 8.8.2020 I 1728
-
-Änderung durch
-:   Art. 8 Abs. 3 G v. 23.7.2026 I Nr. 226 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 8 Abs. 3 G v. 23.7.2026 I Nr. 226
 
 
 ## Eingangsformel

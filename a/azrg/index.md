@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 1 G v 22.7.2026 I Nr. 222 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 6 G v 22.7.2026 I Nr. 222 mWv 1.5.2025 bzw. 1.11.2026 bzw. 1.5.2030 bzw. mit zukünftiger Wirkung noch nicht berücksichtigt
+:   Art. 6 G v 22.7.2026 I Nr. 222 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
 :   Art. 14 G v 22.7.2026 I Nr. 222 mWv 1.11.2026 bzw. 1.11.2027 noch nicht berücksichtigt
@@ -245,17 +245,17 @@ solchen Unionsbürgern,
 
 3.  die Anlässe nach § 2 Absatz 1 bis 2c,
 
-4.  Familienname, Geburtsname, Vornamen, Schreibweise der Namen
-    nach deutschem Recht, Geburtsdatum, Geburtsort, -land und
-    -bezirk, Geschlechtseintrag, Doktorgrad, Staatsangehörigkeiten
-    (Grundpersonalien),
+4.  Familienname, Geburtsname, Vornamen, Familienname nach deutschem
+    Recht, Geburtsdatum, Geburtsort, -land und -bezirk, Geschlechtsangabe,
+    Doktorgrad, Staatsangehörigkeiten (Grundpersonalien),
 
-5.  abweichende Namensschreibweisen, andere Namen, frühere Namen und
-    frühere Geschlechtseinträge (frühere Personalien), Aliaspersonalien,
-    Familienstand, Angaben zu Ausweisdokumenten, letzter Wohnort im
-    Herkunftsland, freiwillig gemachte Angaben zur Religionszugehörigkeit
-    und Staatsangehörigkeiten des Ehegatten oder des Lebenspartners
-    (weitere Personalien),
+5.  abweichende Namensschreibweisen, andere Namen, frühere Namen,
+    frühere Geschlechtsangaben, Aliaspersonalien, abweichende Vornamen
+    und Geschlechtsangaben aus den vorgelegten Ausweisdokumenten
+    des Herkunftsstaates, Familienstand, Angaben zum Ausweispapier,
+    letzter Wohnort im Herkunftsland, freiwillig gemachte Angaben zur
+    Religionszugehörigkeit und zu Staatsangehörigkeiten des Ehegatten oder
+    des Lebenspartners (weitere Personalien),
 
 5a. das Lichtbild,
 
@@ -406,16 +406,9 @@ Fingerabdrücke und die dazugehörigen Referenznummern gespeichert.
 
 3.  die Anlässe nach § 2 Absatz 3,
 
-4.  Familienname, Geburtsname, Vornamen, Schreibweise der Namen nach
-    deutschem Recht, Geburtsdatum, Geburtsort und -bezirk, Geschlecht,
-    Doktorgrad, Staatsangehörigkeiten (Grundpersonalien),
+4.  die Grundpersonalien,
 
-5.  abweichende Namensschreibweisen, andere Namen, frühere Namen und
-    frühere Geschlechtseinträge (frühere Personalien), Aliaspersonalien,
-    Familienstand, Angaben zum Ausweispapier, letzter Wohnort im
-    Herkunftsland, freiwillig gemachte Angaben zur Religionszugehörigkeit
-    und zu Staatsangehörigkeiten des Ehegatten oder des Lebenspartners
-    (weitere Personalien),
+5.  die weiteren Personalien,
 
 6.  Angaben zum Zuzug oder Fortzug, zum aufenthaltsrechtlichen Status und
     das Sterbedatum,
@@ -912,12 +905,14 @@ Zweifel an der Identität bestehen nicht.
 
 (3) Kann die Registerbehörde die Identität nicht eindeutig
 feststellen, übermittelt sie zur Identitätsprüfung und -feststellung
-an die ersuchende Stelle neben Hinweisen auf aktenführende
-Ausländerbehörden die AZR-Nummer, die Grundpersonalien, die
-weiteren Personalien ähnlicher Personen mit Ausnahme der früheren
-Personalien, die nur auf besonderes Ersuchen übermittelt werden,
-und die Lichtbilder. Die Ausnahmen in Satz 1 gelten nicht für
-die Ausländerbehörden und die Aufnahmeeinrichtungen. Kann die
+an die ersuchende Stelle neben Hinweisen auf die aktenführenden
+Ausländerbehörden die AZR-Nummer, die Grundpersonalien, die weiteren
+Personalien ähnlicher Personen mit Ausnahme der früheren Namen und
+der früheren Geschlechtsangaben sowie der abweichenden Vornamen
+und Geschlechtsangaben aus den vorgelegten Ausweisdokumenten des
+Herkunftsstaates, die nur auf besonderes Ersuchen übermittelt
+werden, und die Lichtbilder. Die Ausnahmen in Satz 1 gelten nicht
+für die Ausländerbehörden und die Aufnahmeeinrichtungen. Kann die
 Identität nicht allein an Hand dieser Daten festgestellt werden,
 dürfen den Strafverfolgungsbehörden darüber hinaus weitere Daten
 übermittelt werden, wenn zu erwarten ist, daß deren Kenntnis die
@@ -1129,12 +1124,14 @@ Daten einschließlich der zugehörigen AZR-Nummer (Grunddaten)
     Stellen übermittelt werden darf, zusätzlich die Erteilung einer
     Niederlassungserlaubnis oder einer Erlaubnis zum Daueraufenthalt-EU.
 
-(2) Angaben zu früheren Personalien werden nur auf besonderes Ersuchen
-übermittelt. Dasselbe gilt für nicht gesperrte Suchvermerke, es sei
-denn, die öffentliche Stelle, auf deren Ersuchen der Suchvermerk
-gespeichert worden ist, hat ausdrücklich beantragt, daß auf jedes
-Ersuchen eine Übermittlung erfolgen soll. Die Sätze 1 und 2 gelten
-nicht für die Ausländerbehörden und Aufnahmeeinrichtungen.
+(2) Frühere Namen und frühere Geschlechtsangaben sowie abweichende
+Vornamen und Geschlechtsangaben aus den vorgelegten Ausweisdokumenten
+des Herkunftsstaates werden nur auf besonderes Ersuchen übermittelt.
+Dasselbe gilt für nicht gesperrte Suchvermerke, es sei denn, die
+öffentliche Stelle, auf deren Ersuchen der Suchvermerk gespeichert
+worden ist, hat ausdrücklich beantragt, daß auf jedes Ersuchen eine
+Übermittlung erfolgen soll. Die Sätze 1 und 2 gelten nicht für die
+Ausländerbehörden und Aufnahmeeinrichtungen.
 
 
 ##### § 15 Datenübermittlung an Ausländerbehörden, das Bundesamt für Migration und Flüchtlinge, Polizeibehörden, Staatsanwaltschaften, Vollzugseinrichtungen, Luftsicherheitsbehörden, atomrechtliche Genehmigungs- und Aufsichtsbehörden, oberste Bundes- und Landesbehörden sowie das Bundesamt für Justiz
@@ -2045,7 +2042,7 @@ Gesetzes aufgehalten haben, folgende Daten zu diesem Personenkreis:
 
 2.  Ort, Land und Bezirk der Geburt,
 
-3.  Geschlechtseintrag,
+3.  Geschlechtsangabe,
 
 4.  Staatsangehörigkeiten,
 
@@ -2119,10 +2116,7 @@ Status sowie als Hilfsmerkmale folgende Daten:
 
 2.  das Geschäftszeichen der Registerbehörde (AZR-Nummer),
 
-3.  Familienname, Geburtsname, Vornamen, Schreibweise der Namen
-    nach deutschem Recht, Geburtsdatum, Geburtsort, -land und
-    -bezirk, Geschlechtseintrag, Doktorgrad, Staatsangehörigkeiten
-    (Grundpersonalien),
+3.  Grundpersonalien,
 
 4.  abweichende Namensschreibweisen, andere Namen, Aliaspersonalien,
 
@@ -2501,14 +2495,12 @@ und ausstellender Staat gespeichert.
 (1) Die deutschen Auslandsvertretungen, das Bundesamt für
 Auswärtige Angelegenheiten, die mit der polizeilichen Kontrolle
 des grenzüberschreitenden Verkehrs betrauten Behörden und die
-Ausländerbehörden sind zur Übermittlung der Daten nach § 29
-Absatz 1 Nummer 2 bis 12 und Absatz 2 an die Registerbehörde
-verpflichtet. Die Bundesagentur für Arbeit und die für die
-Durchführung der Grundsicherung für Arbeitsuchende zuständigen
-Stellen, die für die Ausführung des Achten Buches Sozialgesetzbuch
-nach Landesrecht zuständigen Stellen (Jugendämter), die für
-den Vollzug des Unterhaltsvorschussgesetzes zuständigen Stellen
-(Unterhaltsvorschussstellen), die für die Ausführung des Zwölften
+Ausländerbehörden sind zur Übermittlung der Daten nach § 29 Absatz
+1 Nummer 2 bis 12 und Absatz 2 an die Registerbehörde verpflichtet.
+Die Bundesagentur für Arbeit und die für die Durchführung der
+Grundsicherung für Arbeitsuchende zuständigen Stellen, die für
+die Ausführung des Achten Buches Sozialgesetzbuch nach Landesrecht
+zuständigen Stellen (Jugendämter), die für die Ausführung des Zwölften
 Buches Sozialgesetzbuch zuständigen Stellen (Träger der Sozialhilfe)
 und die für die Durchführung des Asylbewerberleistungsgesetzes
 zuständigen Stellen sind zur Übermittlung der Angabe verpflichtet, ob
