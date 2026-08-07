@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2008, 2263
 
 Zuletzt geändert durch
-:   Art. 6 G v. 23.4.2026 I Nr. 111
-
-Änderung durch
-:   Art. 5 G v. 21.7.2026 I Nr. 221 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 5 G v. 21.7.2026 I Nr. 221
 
 
 ## Eingangsformel

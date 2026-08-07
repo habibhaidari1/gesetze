@@ -28,7 +28,10 @@ Zuletzt geändert durch
 :   Art. 14 G v 22.7.2026 I Nr. 222 mWv 1.11.2026 bzw. 1.11.2027 noch nicht berücksichtigt
 
 Änderung durch
-:   Art. 16 G v 22.7.2026 I Nr. 222 mWv 13.6.2026 bzw. 1.5.2028 noch nicht berücksichtigt
+:   Art. 16 Nr. 1 bis 3 u. 5 bis 7 G v 22.7.2026 I Nr. 222 mWv 1.5.2028 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 16 Nr. 4 G v 22.7.2026 I Nr. 222 ist berücksichtigt
 
 
 ## Eingangsformel
@@ -1378,7 +1381,7 @@ folgenden Anlässe im Register erfaßt sind:
 ##### § 17a Datenübermittlung an die Zentralstelle für Finanztransaktionsuntersuchungen
 
 An die Zentralstelle für Finanztransaktionsuntersuchungen werden
-zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des
+zur Erfüllung ihrer Aufgaben nach § 28 Absatz 1 Satz 3 Nummer 2 des
 Geldwäschegesetzes zu Ausländern, die keine freizügigkeitsberechtigten
 Unionsbürger sind, auf Ersuchen die Grunddaten und folgende Daten
 übermittelt:

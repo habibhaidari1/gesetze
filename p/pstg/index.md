@@ -16,13 +16,7 @@ Fundstelle
 :   BGBl I: 2007, 122
 
 Zuletzt geändert durch
-:   Art. 2 G v. 29.3.2026 I Nr. 83
-
-Änderung durch
-:   Art. 4 G v. 21.7.2026 I Nr. 221 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Stand
-:   Bek. v. 15.10.2025 I Nr. 262 ist berücksichtigt
+:   Art. 4 G v. 21.7.2026 I Nr. 221
 
 
 ## Kapitel 1 - Allgemeine Bestimmungen

@@ -522,11 +522,6 @@ bindend. Satz 1 gilt nicht für Personen, die im Rahmen betrieblicher
 Berufsbildung, nach dem Jugendfreiwilligendienstegesetz, nach dem
 Bundesfreiwilligendienstgesetz oder nach § 1 Satz 1 Nummer 2 bis
 4 beschäftigt sind oder von der Möglichkeit einer stufenweisen
-Wiederaufnahme einer nicht geringfügigen Tätigkeit (§ 74 des Fünften
-Buches) Gebrauch machen. Satz 1 gilt nicht für Personen, die im Rahmen
-betrieblicher Berufsbildung, nach dem Jugendfreiwilligendienstegesetz,
-nach dem Bundesfreiwilligendienstgesetz oder nach § 1 Satz 1 Nummer
-2 bis 4 beschäftigt sind oder von der Möglichkeit einer stufenweisen
 Wiederaufnahme einer nicht geringfügigen Tätigkeit nach § 74 des
 Fünften Buches Gebrauch machen oder in einer nicht geringfügigen
 Tätigkeit teilweise arbeitsunfähig nach § 44c Absatz 1 Satz 1 des

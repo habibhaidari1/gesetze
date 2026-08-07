@@ -16,22 +16,10 @@ Fundstelle
 :   BGBl I: 2013, 1084
 
 Zuletzt geändert durch
-:   Art. 12 G v. 22.12.2025 I Nr. 370; I 2026 Nr. 121
-
-Änderung durch
-:   Art. 5 G v. 3.7.2026 I Nr. 199 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 5 G v. 3.7.2026 I Nr. 199
 
 Änderung durch
 :   Art. 10 G v. 22.7.2026 I Nr. 222 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Stand
-:   Bek. v. 15.10.2024 I Nr. 338 ist berücksichtigt
-
-Stand
-:   Bek. v. 15.10.2025 I Nr. 262 ist berücksichtigt
-
-Stand
-:   Bek. v. 16.4.2026 I Nr. 121 ist berücksichtigt
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen

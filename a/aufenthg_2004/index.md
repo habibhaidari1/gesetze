@@ -25,10 +25,10 @@ Zuletzt geändert durch
 :   Art. 1 G v. 21.7.2026 I Nr. 221 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 3 G v 22.7.2026 I Nr. 222 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 G v. 22.7.2026 I Nr. 222 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 13 G v 22.7.2026 I Nr. 222 mWv 29.7.2026 bzw. mWv 1.5.2030 noch nicht berücksichtigt
+:   Art. 13 G v. 22.7.2026 I Nr. 222 ist berücksichtigt
 
 Mittelbare änderung durch
 :   Art. 4 G v. 20.12.2023 I Nr. 390 betreffend § 104 Abs. 17 ist nicht mehr ausführbar
@@ -2386,8 +2386,23 @@ Beschäftigung nach diesem Abschnitt setzt voraus, dass
 (4) Aufenthaltstitel gemäß den §§ 18a, 18b, 18g und 19c werden für
 die Dauer von vier Jahren oder, wenn das Arbeitsverhältnis oder die
 Zustimmung der Bundesagentur für Arbeit auf einen kürzeren Zeitraum
-befristet sind, für diesen kürzeren Zeitraum zuzüglich dreier Monate,
+befristet sind, für diesen kürzeren Zeitraum zuzüglich sechs Monate,
 nicht jedoch für länger als vier Jahre, erteilt.
+
+(5) In Fällen, in denen die Beschäftigung, für die ein
+Aufenthaltstitel nach diesem Abschnitt erteilt wurde, vorzeitig
+beendet und die zuständige Ausländerbehörde hierüber gemäß § 82 Absatz
+6 Satz 1 oder § 4a Absatz 5 Satz 3 Nummer 3 unterrichtet wurde, ist
+die nachträgliche Verkürzung der Frist gemäß § 7 Absatz 2 Satz 2 so
+vorzunehmen, dass ab Beendigung der Beschäftigung eine Geltungsdauer
+von mindestens sechs Monaten verbleibt. Die ab Beendigung der
+Beschäftigung verbleibende Geltungsdauer beträgt mindestens neun
+Monate, wenn hinreichende Gründe für die Annahme vorliegen, dass
+der Ausländer besonders ausbeuterische Arbeitsbedingungen im Sinne
+von Artikel 2 Buchstabe i der Richtlinie 2009/52/EG des Europäischen
+Parlaments und des Rates erfahren hat. Die Fristverkürzung nach Satz 1
+und 2 darf nicht dazu führen, dass die ursprüngliche Geltungsdauer des
+Aufenthaltstitels überschritten wird.
 
 
 #### § 18a Fachkräfte mit Berufsausbildung
@@ -5836,8 +5851,10 @@ Weise, insbesondere durch Anfragen bei anderen Behörden nicht
 oder nicht rechtzeitig oder nur unter erheblichen Schwierigkeiten
 festgestellt werden kann.
 
-(6a) Maßnahmen im Sinne des Absatzes 5 Nr. 5 sind das Aufnehmen von
-Lichtbildern und das Abnehmen von Fingerabdrücken.
+(6a) Maßnahmen im Sinne des Absatzes 5 Nummer 5 sind das Aufnehmen
+von Lichtbildern und das Abnehmen von Fingerabdrücken. Das Abnehmen
+von Fingerabdrücken ist zulässig bei Ausländern, die das sechste
+Lebensjahr vollendet haben.
 
 (7) Zur Bestimmung des Herkunftsstaates oder der Herkunftsregion des
 Ausländers kann das gesprochene Wort des Ausländers auf Ton- oder
