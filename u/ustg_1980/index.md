@@ -19,22 +19,7 @@ Neugefasst durch
 :   Bek. v. 21.2.2005 I 386;
 
 Zuletzt geändert durch
-:   Art. 27 G v. 2.12.2024 I Nr. 387
-
-Mittelbare änderung durch
-:   Art. 52 G v. 2.12.2024 I Nr. 387 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 4 G v. 22.12.2025 I Nr. 363 ist berücksichtigt
-
-Änderung durch
-:   Art. 4 G v. 22.12.2025 I Nr. 369 ist berücksichtigt
-
-Änderung durch
-:   Art. 62 Abs. 7 G v. 4.2.2026 I Nr. 33 ist berücksichtigt
-
-Änderung durch
-:   Art. 5 G v. 29.6.2026 I Nr. 197 ist berücksichtigt
+:   Art. 5 G v. 29.6.2026 I Nr. 197
 
 
 ## Erster Abschnitt - Steuergegenstand und Geltungsbereich

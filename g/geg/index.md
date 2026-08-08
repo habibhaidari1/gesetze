@@ -1547,9 +1547,6 @@ vorliegen.
 ## Teil 3 - Modernisierung von bestehenden Gebäuden
 
 
-### Abschnitt 4 - (weggefallen)
-
-
 ### Abschnitt 1 - Allgemeine Anforderungen an bestehende Gebäude
 
 
@@ -4369,9 +4366,6 @@ der in § 99 Absatz 4 Satz 1 Nummer 1 und 2 geregelten Optionen
 oder gleichwertiger Maßnahmen, soweit diese Aufgaben elektronisch
 durchgeführt werden können. Die Sätze 1 und 2 sind längstens fünf
 Jahre nach Inkrafttreten dieser Regelung anzuwenden.
-
-
-### § 115 (weggefallen)
 
 
 ### Anlage 1 (zu § 15 Absatz 1)Technische Ausführung des Referenzgebäudes (Wohngebäude)
