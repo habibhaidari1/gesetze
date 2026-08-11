@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 25.2.2008 I 162;
 
 Zuletzt geändert durch
-:   Art. 4 G v. 16.7.2026 I Nr. 213
-
-Änderung durch
-:   Art. 1 G v. 21.7.2026 I Nr. 221 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 G v. 21.7.2026 I Nr. 221
 
 Änderung durch
 :   Art. 3 G v. 22.7.2026 I Nr. 222 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet

@@ -655,7 +655,7 @@ Nennung des Namens zur Ordnung rufen. Der Ordnungsruf und der Anlass
 hierzu dürfen nachfolgend nicht behandelt werden. Ist ein Mitglied
 des Bundestages dreimal während einer Sitzung zur Ordnung gerufen
 worden, verweist es der sitzungsleitende Präsident für die Dauer der
-Sitzung aus dem Saal. § 38 Absatz 1 Satz 3 bis 4 sowie Absatz 3 bis 5
+Sitzung aus dem Saal. § 38 Absatz 1 Satz 2 bis 4 sowie Absatz 3 bis 5
 gilt entsprechend.
 
 (3) Ein Ordnungsruf kann im Einzelfall auch nachträglich bis zum Ende

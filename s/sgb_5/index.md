@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1988, 2477, 2482
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 9 G v. 12.5.2026 I Nr. 143
-
-Änderung durch
-:   Art. 1 G v. 26.6.2026 I Nr. 195 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 G v. 26.6.2026 I Nr. 195
 
 Änderung durch
 :   Art. 1 G v. 24.7.2026 I Nr. 228 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
@@ -21161,8 +21158,6 @@ Darreichungsform besitzt:
 In den in den Sätzen 2 und 3 genannten Fällen besteht kein Anspruch
 der abgebenden Apotheke auf die Vergütung nach § 3 Absatz 1 Satz 1 der
 Arzneimittelpreisverordnung.
-
-(4e) (weggefallen)
 
 (5) Die Krankenkassen oder ihre Verbände können mit der für die
 Wahrnehmung der wirtschaftlichen Interessen maßgeblichen Organisation
