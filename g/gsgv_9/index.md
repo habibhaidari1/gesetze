@@ -19,10 +19,7 @@ V aufgeh. durch
 :   § 10 dieser V, dieser eingef. durch Art. 2 G v. 2.12.2025 I Nr. 302, mit Ablauf des 19.1.2027
 
 Zuletzt geändert durch
-:   Art. 2 G v. 2.12.2025 I Nr. 302
-
-Änderung durch
-:   Art. 3 V v. 2.3.2026 I Nr. 54 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 V v. 2.3.2026 I Nr. 54
 
 
 ## § 1 Anwendungsbereich
@@ -330,8 +327,8 @@ Bevollmächtigter eines der folgenden Verfahren durch:
 
 2.  das in Anhang IX der Richtlinie 2006/42/EG in der Fassung vom 9.
     Oktober 2024 beschriebene EG-Baumusterprüfverfahren sowie die in
-    Anhang VIII Nr. 3 der Richtlinie Richtlinie 2006/42/EG in der Fassung
-    vom 9. Oktober 2024 beschriebene interne Fertigungskontrolle bei der
+    Anhang VIII Nr. 3 der Richtlinie 2006/42/EG in der Fassung vom
+    9\. Oktober 2024 beschriebene interne Fertigungskontrolle bei der
     Herstellung von Maschinen oder
 
 3.  das in Anhang X der Richtlinie 2006/42/EG in der Fassung
@@ -347,10 +344,10 @@ Gesundheitsschutzanforderungen oder gibt es für die betreffende
 Maschine keine harmonisierten Normen, so führt der Hersteller oder
 sein Bevollmächtigter eines der folgenden Verfahren durch:
 
-1.  das in Anhang IX der Richtlinie Richtlinie 2006/42/EG in der Fassung
-    vom 9. Oktober 2024 beschriebene EG-Baumusterprüfverfahren sowie
-    die in Anhang VIII Nr. 3 der Richtlinie 2006/42/EG in der Fassung
-    vom 9. Oktober 2024 beschriebene interne Fertigungskontrolle bei der
+1.  das in Anhang IX der Richtlinie 2006/42/EG in der Fassung vom 9.
+    Oktober 2024 beschriebene EG-Baumusterprüfverfahren sowie die in
+    Anhang VIII Nr. 3 der Richtlinie 2006/42/EG in der Fassung vom
+    9\. Oktober 2024 beschriebene interne Fertigungskontrolle bei der
     Herstellung von Maschinen oder
 
 2.  das in Anhang X der Richtlinie 2006/42/EG in der Fassung

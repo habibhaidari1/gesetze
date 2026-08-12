@@ -1335,7 +1335,7 @@ vermitteln:
         2023 sowie das Batterierecht-Durchführungsgesetz vom 30. September
         2025 (BGBl. 2025 I Nr. 233) und
 
-    c)  das Verpackungsgesetz,
+    c)  das Verpackungsrecht-Durchführungsgesetz,
 
 4.  das Recht der Abfallverbringung,
 

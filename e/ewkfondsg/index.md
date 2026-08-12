@@ -138,11 +138,9 @@ Für dieses Gesetz gelten die folgenden Begriffsbestimmungen:
     eigenem Namen Aufgaben wahrzunehmen, um bestimmte Herstellerpflichten
     nach diesem Gesetz zu erfüllen;
 
-10. Zentrale Stelle: die nach § 24 Absatz 1 des Verpackungsgesetzes vom 5.
-    Juli 2017 (BGBl. I S. 2234), das zuletzt durch Artikel 2 des Gesetzes
-    vom 22. September 2021 (BGBl. I S. 4363) geändert worden ist, in der
-    jeweils geltenden Fassung, eingerichtete Stiftung „Zentrale Stelle
-    Verpackungsregister“;
+10. Zentrale Stelle Verpackungsregister: die nach § 48 des
+    Verpackungsrecht-Durchführungsgesetzes beibehaltene oder neu
+    eingerichtete Stiftung;
 
 11. öffentliches Sammelsystem: öffentlich ist ein Sammelsystem, das an
     allgemein zugänglichen Orten errichtet ist und von oder im Auftrag von
@@ -278,7 +276,8 @@ Angaben zu machen:
 
 Die Angaben nach Satz 1 Nummer 1 bis 4 entfallen, wenn der Hersteller
 einer Nutzung dieser Daten unter Angabe seiner Registrierungsnummer
-aus dem Register nach § 9 des Verpackungsgesetzes zustimmt.
+aus dem Register nach § 6 des Verpackungsrecht-Durchführungsgesetzes
+zustimmt.
 
 (3) Die Registrierung sowie die Änderungsmitteilungen haben über
 das vom Umweltbundesamt nach § 8 Absatz 1 zur Verfügung gestellte
@@ -320,25 +319,27 @@ verwenden. Die Daten sind drei Jahre nach Ablauf des Tages, an dem die
 Registrierung des Herstellers endet, automatisiert zu löschen.
 
 (2) Soweit die Angaben nach § 7 Absatz 2 Satz 1 Nummer 1 bis 4
-bereits durch die Registrierung nach § 9 des Verpackungsgesetzes
-bei der Zentralen Stelle vorliegen, ist das Umweltbundesamt bei
-Vorliegen der Zustimmung des Herstellers nach § 7 Absatz 2 Satz 2
-verpflichtet und befugt, die dort zur Verfügung stehenden Daten zu
-erheben, zu speichern und zu verwenden. Dazu stellt die Zentrale
-Stelle dem Umweltbundesamt diese Daten sowie die notwendigen
-technischen Informationen zur Art der Datenübermittlung zur Verfügung
-und dokumentiert die Abrufe. Die Dokumentation darf nur für Zwecke
-der Datenschutzkontrolle, der Datensicherung oder zur Sicherstellung
+bereits durch die Registrierung nach § 6 des Verpackungsrecht-
+Durchführungsgesetzes bei der Zentralen Stelle Verpackungsregister
+vorliegen, ist das Umweltbundesamt bei Vorliegen der Zustimmung
+des Herstellers nach § 7 Absatz 2 Satz 2 verpflichtet und befugt,
+die dort zur Verfügung stehenden Daten zu erheben, zu speichern und
+zu verwenden. Dazu stellt die Zentrale Stelle Verpackungsregister
+dem Umweltbundesamt diese Daten sowie die notwendigen technischen
+Informationen zur Art der Datenübermittlung zur Verfügung und
+dokumentiert die Abrufe. Die Dokumentation darf nur für Zwecke der
+Datenschutzkontrolle, der Datensicherung oder zur Sicherstellung
 eines ordnungsgemäßen Betriebs der Datenverarbeitungsanlage verwendet
 werden. Die Dokumentation ist nach sechs Monaten automatisiert zu
 löschen.
 
-(3) Das Umweltbundesamt übermittelt der Zentralen Stelle jährlich
-elektronisch bis zum 31. Januar die Daten aller im vorangegangenen
-Kalenderjahr registrierten Hersteller mit den Angaben nach § 7
-Absatz 2 Satz 1 Nummer 1 bis 6 und § 11 Absatz 1, soweit dies zur
-Erfüllung der Pflichten nach dem Verpackungsgesetz erforderlich ist.
-Das Umweltbundesamt und die Zentrale Stelle legen das Format der
+(3) Das Umweltbundesamt übermittelt der Zentralen Stelle
+Verpackungsregister jährlich elektronisch bis zum 31. Januar die Daten
+aller im vorangegangenen Kalenderjahr registrierten Hersteller mit
+den Angaben nach § 7 Absatz 2 Satz 1 Nummer 1 bis 6 und § 11 Absatz
+1, soweit dies zur Erfüllung der Pflichten nach dem Verpackungsrecht-
+Durchführungsgesetz erforderlich ist. Das Umweltbundesamt und
+die Zentrale Stelle Verpackungsregister legen das Format der
 elektronischen Übermittlung im Einvernehmen fest.
 
 (4) Das Umweltbundesamt übermittelt dem Statistischen Bundesamt
@@ -434,22 +435,22 @@ entsprechend. Satz 1 gilt nicht für die Registrierung nach § 7 Absatz
 (1) Hersteller haben jährlich bis zum 15. Mai dem Umweltbundesamt
 die von ihnen im vorangegangenen Kalenderjahr erstmals auf dem Markt
 bereitgestellten oder verkauften Einwegkunststoffprodukte nach Anlage
-1 gemäß den Sätzen 2 und 3, aufgeschlüsselt nach jeweiliger Art
-und Masse, in Kilogramm, zu melden. Die Meldung bedarf der Prüfung
-und Bestätigung durch einen registrierten Sachverständigen im Sinne
-von § 3 Absatz 15 des Verpackungsgesetzes oder einen nach § 27
-Absatz 2 des Verpackungsgesetzes registrierten Wirtschaftsprüfer,
-Steuerberater oder vereidigten Buchprüfer. Die Bestätigung ist mit
-einer qualifizierten elektronischen Signatur gemäß Artikel 3 Nummer
-12 der Verordnung (EU) Nr. 910/2014 des Europäischen Parlaments und
-des Rates vom 23. Juli 2014 über elektronische Identifizierung und
-Vertrauensdienste für elektronische Transaktionen im Binnenmarkt und
-zur Aufhebung der Richtlinie 1999/93/EG (ABl. L 257 vom 28.8.2014,
-S. 73) zu versehen und vom Hersteller dem Umweltbundesamt zusammen
-mit der Meldung und dem Prüfbericht elektronisch zu übermitteln.
-Im Fall einer Bevollmächtigung nach § 10 Absatz 1 übermittelt das
-Umweltbundesamt die vom Hersteller getätigten Angaben unverzüglich
-dem Bevollmächtigten.
+1 gemäß den Sätzen 2 und 3, aufgeschlüsselt nach jeweiliger Art und
+Masse, in Kilogramm, zu melden. Die Meldung bedarf der Prüfung und
+Bestätigung durch einen registrierten Sachverständigen nach § 3 Absatz
+16 des Verpackungsrecht-Durchführungsgesetzes oder einen nach § 56
+Absatz 2 des Verpackungsrecht-Durchführungsgesetzes registrierten
+Wirtschaftsprüfer, Steuerberater oder vereidigten Buchprüfer. Die
+Bestätigung ist mit einer qualifizierten elektronischen Signatur
+gemäß Artikel 3 Nummer 12 der Verordnung (EU) Nr. 910/2014 des
+Europäischen Parlaments und des Rates vom 23. Juli 2014 über
+elektronische Identifizierung und Vertrauensdienste für elektronische
+Transaktionen im Binnenmarkt und zur Aufhebung der Richtlinie 1999/93/
+EG (ABl. L 257 vom 28.8.2014, S. 73) zu versehen und vom Hersteller
+dem Umweltbundesamt zusammen mit der Meldung und dem Prüfbericht
+elektronisch zu übermitteln. Im Fall einer Bevollmächtigung nach § 10
+Absatz 1 übermittelt das Umweltbundesamt die vom Hersteller getätigten
+Angaben unverzüglich dem Bevollmächtigten.
 
 (2) Das Umweltbundesamt stellt für die Meldung nach Absatz 1 Satz 1,
 die Bestätigung und die Übermittlung der Meldung und des Prüfberichts
@@ -472,19 +473,20 @@ widerlegen, gilt die Meldung nach Absatz 1 Satz 1 als nicht abgegeben.
 (4) Von der Pflicht nach Absatz 1 Satz 2 ist befreit, wer im
 vorangegangen Kalenderjahr insgesamt weniger als 100 Kilogramm
 Einwegkunststoffprodukte nach Anlage 1 oder ausschließlich bepfandete
-Getränkeflaschen nach § 31 des Verpackungsgesetzes erstmals auf dem
-Markt bereitgestellt oder verkauft hat. Das Umweltbundesamt kann in
-den Fällen des Satzes 1 jederzeit verlangen, dass eine Prüfung gemäß
-Absatz 1 Satz 2 durchzuführen und die Bestätigung gemäß Absatz 1 Satz
-3 vorzulegen ist.
+Getränkeflaschen nach § 46 des Verpackungsrecht-Durchführungsgesetzes
+erstmals auf dem Markt bereitgestellt oder verkauft hat. Das
+Umweltbundesamt kann in den Fällen des Satzes 1 jederzeit verlangen,
+dass eine Prüfung gemäß Absatz 1 Satz 2 durchzuführen und die
+Bestätigung gemäß Absatz 1 Satz 3 vorzulegen ist.
 
 (5) Das Umweltbundesamt hat im Einvernehmen mit dem Bundeskartellamt
 Prüfleitlinien zu entwickeln, die von den registrierten
 Sachverständigen sowie den registrierten Wirtschaftsprüfern,
 Steuerberatern und vereidigten Buchprüfern bei Prüfungen im Rahmen
 dieses Gesetzes zu beachten sind. Verstöße gegen die Prüfleitlinien
-hat das Umweltbundesamt der Zentralen Stelle unverzüglich mitzuteilen
-und dabei vorhandene Beweisdokumente beizufügen.
+hat das Umweltbundesamt der Zentralen Stelle Verpackungsregister
+unverzüglich mitzuteilen und dabei vorhandene Beweisdokumente
+beizufügen.
 
 
 ## Teil 4 - Einwegkunststoffabgabe
@@ -1088,7 +1090,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 | Lebensmittelbehälter (Anlage 1 Nummer 1) | X | X | X | X | X |
 | Tüten und Folienverpackungen (Anlage 1 Nummer 2) | X | X | X | X | X |
 | Getränkebehälter (Anlage 1 Nummer 3) | X | X | X | X | X |
-| nach § 31 des Verpackungsgesetzes bepfandete Getränkeflaschen (Anlage 1 Nummer 3) | X | X | X | X | X |
+| nach § 46 des Verpackungsrecht-Durchführungsgesetzes bepfandete Getränkeflaschen (Anlage 1 Nummer 3) | X | X | X | X | X |
 | Getränkebecher (Anlage 1 Nummer 4) | X | X | X | X | X |
 | leichte Kunststofftragetaschen (Anlage 1 Nummer 5) | X | X | X | X | X |
 | Feuchttücher (Anlage 1 Nummer 6) |  | X | X | X | X |

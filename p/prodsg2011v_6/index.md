@@ -15,11 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2016, 597
 
-Geändert durch
-:   Art. 22 G v. 27.7.2021 I 3146
-
-Änderung durch
-:   Art. 2 V v. 2.3.2026 I Nr. 54 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 2 V v. 2.3.2026 I Nr. 54
 
 Stand
 :   Ersetzt V 8053-4-9 v. 25.6.1992 I 1171 (GSGV 6)

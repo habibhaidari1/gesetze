@@ -2120,7 +2120,11 @@ bleibt unberührt.
     b)  die Siedlungsabfälle, die energetisch verwertet oder beseitigt werden,
 
 10. Maßnahmen, die zur Umsetzung der Artikel 4 bis 10 der Richtlinie (EU)
-    2019/904 getroffen wurden.
+    2019/904 getroffen wurden,
+
+11. Maßnahmen, die zur Umsetzung der Artikel 48, 50 und 52 der Verordnung
+    (EU) 2025/40 getroffen wurden in einem besonderen Kapitel über
+    Verpackungen und die Bewirtschaftung der daraus entstehenden Abfälle.
 
 (7) Abfallwirtschaftspläne können weiterhin enthalten
 
@@ -2298,6 +2302,11 @@ Abfallvermeidungsprogramme.
 
     n)  Maßnahmen, die zur Umsetzung der Artikel 4 bis 10 der Richtlinie (EU)
         2019/904 getroffen wurden,
+
+    o)  Maßnahmen, die zur Umsetzung der Artikel 43 und 51 der Verordnung
+        (EU) 2025/40 getroffen wurden in einem besonderen Kapitel über die
+        Vermeidung von Verpackungen, Verpackungsabfällen und achtlos in der
+        Umwelt entsorgten Verpackungen,
 
 3.  legt, soweit erforderlich, weitere Abfallvermeidungsmaßnahmen fest und
 
