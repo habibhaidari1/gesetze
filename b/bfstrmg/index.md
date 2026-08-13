@@ -16,16 +16,7 @@ Fundstelle
 :   BGBl I: 2011, 1378
 
 Zuletzt geändert durch
-:   Art. 2 G v. 1.12.2025 I Nr. 295
-
-Mittelbare änderung durch
-:   Art. 4 G v. 1.12.2025 I Nr. 295 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 3 Abs. 4 G v. 23.2.2026 I Nr. 47 ist berücksichtigt
-
-Änderung durch
-:   Art. 3 Abs. 3 G v. 15.5.2026 I Nr. 148 ist berücksichtigt
+:   Art. 3 Abs. 3 G v. 15.5.2026 I Nr. 148
 
 
 ## § 1 Autobahn- und Bundesstraßenmaut

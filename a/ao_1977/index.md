@@ -19,28 +19,7 @@ Neugefasst durch
 :   Bek. v. 23.1.2025 I Nr. 24;
 
 Zuletzt geändert durch
-:   Art. 3 G v. 10.2.2026 I Nr. 39
-
-Mittelbare änderung durch
-:   Art. 9 Abs. 2 G v. 10.2.2026 I Nr. 39 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 3 G v. 16.4.2026 I Nr. 106 ist berücksichtigt
-
-Änderung durch
-:   Art. 15 G v. 20.5.2026 I Nr. 152 ist berücksichtigt
-
-Änderung durch
-:   Art. 12 G v. 22.6.2026 I Nr. 192 ist berücksichtigt
-
-Änderung durch
-:   Art. 13 G v. 22.6.2026 I Nr. 192 ist berücksichtigt
-
-Änderung durch
-:   Art. 3 G v. 29.6.2026 I Nr. 197 ist berücksichtigt
-
-Änderung durch
-:   Art. 15 Abs. 6 G v. 3.7.2026 I Nr. 199 ist berücksichtigt
+:   Art. 15 Abs. 6 G v. 3.7.2026 I Nr. 199
 
 
 ## Erster Teil - Einleitende Vorschriften
