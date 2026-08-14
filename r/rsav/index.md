@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1994, 55
 
 Zuletzt geändert durch
-:   Art. 12 G v. 22.12.2025 I Nr. 371
-
-Änderung durch
-:   Art. 6 G v. 24.7.2026 I Nr. 228 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 6 G v. 24.7.2026 I Nr. 228
 
 
 ## Eingangsformel

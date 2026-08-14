@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2016, 3234
 
 Zuletzt geändert durch
-:   Art. 13 G v. 16.1.2026 I Nr. 14
-
-Änderung durch
-:   Art. 2b G v. 24.7.2026 I Nr. 228 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2b G v. 24.7.2026 I Nr. 228
 
 
 ## Teil 1 - Regelungen für Menschen mit Behinderungen und von Behinderung bedrohte Menschen

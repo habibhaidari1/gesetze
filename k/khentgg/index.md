@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 1412, 1422
 
 Zuletzt geändert durch
-:   Art. 3 G v. 9.4.2026 I Nr. 98
-
-Änderung durch
-:   Art. 3 G v. 24.7.2026 I Nr. 228 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 G v. 24.7.2026 I Nr. 228
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften

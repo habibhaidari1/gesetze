@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl. I: 2025, Nr. 233
 
 Geändert durch
-:   Art. 2 G v. 30.9.2025 I Nr. 233
-
-Änderung durch
-:   Art. 2 G v. 25.11.2025 I Nr. 286 mWv 1.1.2027 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 25.11.2025 I Nr. 286
 
 Mittelbare änderung durch
 :   Art. 3 G v. 25.11.2025 I Nr. 286 ist berücksichtigt

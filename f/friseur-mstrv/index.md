@@ -22,7 +22,7 @@ V aufgeh. durch
 :   § 10 idF d. Art. 2 V v. 4.8.2026 I Nr. 232 mWv 1.3.2027
 
 Ersetzt durch
-:   Art. 1 V v. 4.8.2026 I Nr. 232 (Friseur-MstrV 2027)
+:   V 7110-3-223 v. 4.8.2026 I Nr. 232 (Friseur-MstrV 2027)
 
 
 ## Eingangsformel

@@ -15,11 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2015, 2340
 
-Geändert durch
-:   Art. 3 V v. 21.4.2021 I 833
-
-Änderung durch
-:   Art. 6a G v. 24.7.2026 I Nr. 228 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 6a G v. 24.7.2026 I Nr. 228
 
 
 ## Eingangsformel

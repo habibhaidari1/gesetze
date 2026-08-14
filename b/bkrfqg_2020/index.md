@@ -19,13 +19,7 @@ Stand
 :   Ersetzt G 9231-11 v. 14.8.2006 I 1958 (BKrFQG)
 
 Zuletzt geändert durch
-:   Art. 1 G v. 3.2.2026 I Nr. 30
-
-Mittelbare änderung durch
-:   Art. 2 G v. 3.2.2026 I Nr. 30 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 3 Abs. 1 G v. 23.2.2026 I Nr. 47 ist berücksichtigt
+:   Art. 3 Abs. 1 G v. 23.2.2026 I Nr. 47
 
 
 ## Abschnitt 1 - Anwendungsbereich

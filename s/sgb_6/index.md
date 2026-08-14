@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 19.2.2002 I 754, 1404, 3384;
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 10 G v. 12.5.2026 I Nr. 143
-
-Änderung durch
-:   Art. 2a G v. 24.7.2026 I Nr. 228 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2a G v. 24.7.2026 I Nr. 228
 
 Stand
 :   Ergänzung aufgrund der Sozialversicherungsrechengrößen-Verordnung 2026 v. 24.11.2025 I Nr. 278 ist berücksichtigt
@@ -7795,8 +7792,6 @@ jeweiligen Pflegetätigkeit im Verhältnis zum Gesamtpflegeaufwand je
 pflegebedürftiger Person aufzuteilen. Werden mehrere Pflegebedürftige
 gepflegt, ergeben sich die beitragspflichtigen Einnahmen jeweils nach
 den Sätzen 1 und 2.
-
-(3) (weggefallen)
 
 
 ###### § 167 Freiwillig Versicherte
