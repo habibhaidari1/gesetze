@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2015, 1979
 
-Geändert durch
-:   Art. 1 V v. 22.12.2021 I 5259 mWv 30.12.2021
+Zuletzt geändert durch
+:   Art. 1 V v. 4.8.2026 I Nr. 234
 
 Stand
 :   Ersetzt V 7860-9-1 v. 20.11.2002 I 4415 (AgrStatV 1)
