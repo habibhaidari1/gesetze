@@ -642,6 +642,18 @@ Telekommunikationsdienstes oder des Dritten, der den Dienst mit
 Zusatznutzen anbietet, handeln.
 
 
+#### § 13a Erfüllung von Pflichten gemäß den Artikeln 10 und 11 der Verordnung (EU) 2023/1543 in der Fassung vom 12. Juli 2023
+
+Anbieter von Telekommunikationsdiensten und die von ihnen gemäß
+§ 3 Absatz 1 bis 3 des Elektronische-Beweismittel-Umsetzungs-
+und-Durchführungsgesetzes eingerichteten Adressaten dürfen
+personenbezogene Daten verarbeiten, soweit dies zur Erfüllung
+einer Europäischen Herausgabeanordnung oder einer Europäischen
+Sicherungsanordnungen gemäß der Verordnung (EU) 2023/1543 in der
+Fassung vom 12. Juli 2023 erforderlich ist. Das Fernmeldegeheimnis
+(Artikel 10 Absatz 1 des Grundgesetzes) wird insoweit eingeschränkt.
+
+
 ### Kapitel 3 - Mitteilen ankommender Verbindungen, Rufnummernanzeige und -unterdrückung, automatische Anrufweiterschaltung
 
 
@@ -1546,6 +1558,17 @@ Auskunftsverlangen ist durch eine verantwortliche Fachkraft auf
 Einhaltung der in Absatz 2 genannten formalen Voraussetzungen zu
 prüfen. Die weitere Bearbeitung des Auskunftsverlangens darf erst nach
 einem positiven Prüfergebnis freigegeben werden.
+
+
+#### § 24a Erfüllung von Pflichten gemäß den Artikeln 10 und 11 der Verordnung (EU) 2023/1543 in der Fassung vom 12. Juli 2023
+
+Anbieter von digitalen Diensten und die von ihnen gemäß §
+3 Absatz 1 bis 3 des Elektronische-Beweismittel-Umsetzungs-
+und-Durchführungsgesetzes eingerichteten Adressaten dürfen
+personenbezogene Daten verarbeiten, soweit dies zur Erfüllung
+einer Europäischen Herausgabeanordnung oder einer Europäischen
+Sicherungsanordnungen gemäß der Verordnung (EU) 2023/1543 in der
+Fassung vom 12. Juli 2023 erforderlich ist.
 
 
 ### Kapitel 2 - Endeinrichtungen

@@ -16,13 +16,7 @@ Fundstelle
 :   BGBl I: 2021, 990
 
 Zuletzt geändert durch
-:   Art. 18 G v. 25.3.2026 I Nr. 81
-
-Mittelbare änderung durch
-:   Art. 27a G v. 25.3.2026 I Nr. 81 ist berücksichtigt
-
-Änderung durch
-:   Art. 9 G v. 9.4.2026 I Nr. 97 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 9 G v. 9.4.2026 I Nr. 97
 
 
 ## Kapitel 1 - Allgemeine Vorschriften
