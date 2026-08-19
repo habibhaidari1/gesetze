@@ -19,13 +19,7 @@ Neugefasst durch
 :   Bek. v. 27.2.2014 I 154;
 
 Zuletzt geändert durch
-:   Art. 11 G v. 8.12.2025 I Nr. 318
-
-Änderung durch
-:   Art. 24 G v. 22.12.2025 I Nr. 349 ist berücksichtigt
-
-Änderung durch
-:   Art. 25 G v. 22.12.2025 I Nr. 349 ist berücksichtigt
+:   Art. 25 G v. 22.12.2025 I Nr. 349
 
 Änderung durch
 :   Art. 11 G v. 20.5.2026 I Nr. 152 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet

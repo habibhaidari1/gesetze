@@ -16,7 +16,7 @@ Fundstelle
 :   BAnz: AT 19.12.2022 V1
 
 Zuletzt geändert durch
-:   Art. 1 V v. 28.4.2026 I Nr. 123
+:   Art. 2 V v. 12.8.2026 I Nr. 237
 
 
 ## Eingangsformel
@@ -1432,13 +1432,13 @@ den zuständigen Behörden
 (3) Soweit nach anderen Rechtsvorschriften keine längeren
 Aufbewahrungsfristen bestehen, ist der Betriebsinhaber verpflichtet,
 für die Antragstellung und Kontrollen erhebliche Unterlagen und
-Belege nach dieser Verordnung für die Dauer von sechs Jahren ab
-der Antragsbewilligung aufzubewahren. Für Rückstellproben endet die
-Aufbewahrungsfrist mit dem Ende des auf das Antragsjahr folgenden
-Jahres. Nach Handelsrecht vorgeschriebene Aufzeichnungen und
-Buchführungen können anstelle der nach Satz 1 vorgeschriebenen
-Verpflichtungen zum Zwecke der Überwachung nach dieser Verordnung
-verwendet werden.
+Belege nach dieser Verordnung für die Dauer von sechs Jahren
+ab der Antragsbewilligung aufzubewahren. Für Rückstellproben
+und georeferenzierte Fotos endet die Aufbewahrungsfrist mit dem
+Ende des auf das Antragsjahr folgenden Jahres. Nach Handelsrecht
+vorgeschriebene Aufzeichnungen und Buchführungen können anstelle
+der nach Satz 1 vorgeschriebenen Verpflichtungen zum Zwecke der
+Überwachung nach dieser Verordnung verwendet werden.
 
 (4) Wird ein Betrieb ganz oder teilweise nach dem Einreichen des
 Sammelantrags an einen anderen übertragen, so gelten die Vorschriften

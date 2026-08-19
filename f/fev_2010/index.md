@@ -19,10 +19,10 @@ Zuletzt geändert durch
 :   Art. 7 G v. 12.5.2026 I Nr. 142
 
 Änderung durch
-:   Art. 2 V v. 12.8.2026 I Nr. 236 mWv 18.8.2026 noch nicht berücksichtigt
+:   Art. 2 V v. 12.8.2026 I Nr. 236 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 3 V v. 12.8.2026 I Nr. 236 mWv 19.8.2026 noch nicht berücksichtigt
+:   Art. 3 V v. 12.8.2026 I Nr. 236 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 (Nr. 41) ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
@@ -86,22 +86,68 @@ Kennzeichen im Straßenverkehr nicht verwenden.
 ### § 3 Einschränkung und Entziehung der Zulassung
 
 (1) Erweist sich jemand als ungeeignet oder nur noch bedingt geeignet
-zum Führen von Fahrzeugen oder Tieren, hat die Fahrerlaubnisbehörde
-ihm das Führen zu untersagen, zu beschränken oder die erforderlichen
-Auflagen anzuordnen. Nach der Untersagung, auf öffentlichen Straßen
-ein Mofa nach § 4 Absatz 1 Satz 2 Nummer 1 oder ein Kraftfahrzeug nach
-§ 4 Absatz 1 Satz 2 Nummer 1b zu führen, ist die Prüfbescheinigung
-nach § 5 Absatz 4 Satz 1 unverzüglich der entscheidenden Behörde
-abzuliefern oder bei Beschränkungen oder Auflagen zur Eintragung
-vorzulegen. Die Verpflichtung zur Ablieferung oder Vorlage der
-Prüfbescheinigung besteht auch, wenn die Entscheidung angefochten
-worden ist, die zuständige Behörde jedoch die sofortige Vollziehung
-ihrer Verfügung angeordnet hat.
+zum Führen eines fahrerlaubnisfreien Fahrzeugs oder eines Tieres, hat
+die Fahrerlaubnisbehörde ihm das Führen zu untersagen, zu beschränken
+oder die erforderlichen Auflagen anzuordnen. Nach der Untersagung,
+auf öffentlichen Straßen ein Mofa nach § 4 Absatz 1 Satz 2 Nummer 1
+oder ein Kraftfahrzeug nach § 4 Absatz 1 Satz 2 Nummer 1b zu führen,
+ist die Prüfbescheinigung nach § 5 Absatz 4 Satz 1 unverzüglich
+der entscheidenden Behörde abzuliefern oder bei Beschränkungen oder
+Auflagen zur Eintragung vorzulegen. Die Verpflichtung zur Ablieferung
+oder Vorlage der Prüfbescheinigung besteht auch, wenn die Entscheidung
+angefochten worden ist, die zuständige Behörde jedoch die sofortige
+Vollziehung ihrer Verfügung angeordnet hat.
 
-(2) Rechtfertigen Tatsachen die Annahme, dass der Führer eines
-Fahrzeugs oder Tieres zum Führen ungeeignet oder nur noch bedingt
-geeignet ist, finden die Vorschriften der §§ 11 bis 14 entsprechend
-Anwendung.
+(2) Ungeeignet oder nur noch bedingt geeignet zum Führen eines
+fahrerlaubnisfreien Fahrzeugs oder eines Tieres ist, wer
+
+1.  die körperlichen und geistigen Anforderungen, die für das sichere
+    Führen des jeweiligen fahrerlaubnisfreien Fahrzeugs oder eines Tieres
+    im Straßenverkehr notwendig sind, nicht oder nur noch bedingt erfüllt
+    oder
+
+2.  erheblich gegen verkehrsrechtliche Vorschriften oder Strafgesetze beim
+    Führen fahrerlaubnisfreier Fahrzeuge oder Tiere verstoßen hat.
+
+(3) Werden Tatsachen bekannt, die Bedenken gegen die Eignung eines
+Führers eines fahrerlaubnisfreien Fahrzeugs oder eines Tieres zum
+Führen dieses fahrerlaubnisfreien Fahrzeugs oder dieses Tieres
+begründen, so kann die Fahrerlaubnisbehörde zur Vorbereitung einer
+Entscheidung nach Absatz 1 je nach den Umständen des Einzelfalls in
+entsprechender Anwendung der §§ 11 bis 14 anordnen, dass Folgendes
+beizubringen ist:
+
+1.  ein ärztliches Gutachten (§ 11 Absatz 2 Satz 3),
+
+2.  ein Gutachten einer amtlich anerkannten Begutachtungsstelle für
+    Fahreignung (§ 11 Absatz 3) oder
+
+3.  ein Gutachten eines amtlich anerkannten Sachverständigen oder Prüfers
+    für den Kraftfahrzeugverkehr (§ 11 Absatz 4).
+
+Satz 1 gilt entsprechend, wenn zu klären ist, ob ein Eignungsmangel
+zum Führen eines fahrerlaubnisfreien Fahrzeugs oder eines Tieres nicht
+mehr besteht.
+
+(4) Bei der Entscheidung über die Anordnung nach Absatz 3 Satz 1 oder
+2 ein Gutachten beizubringen, sowie bei der Entscheidung, Maßnahmen
+nach Absatz 1, einschließlich ihrer Art und ihres Umfangs, zu treffen
+und bei der dabei zu klärenden Frage der Eignung beziehungsweise des
+Vorliegens von Eignungszweifeln ist auch zu berücksichtigen, dass
+fahrerlaubnisfreie Fahrzeuge im Vergleich zu fahrerlaubnispflichtigen
+Fahrzeugen regelmäßig geringere Gefährlichkeit aufweisen. Kriterien
+für die Entscheidung, ob die Anordnung der Beibringung eines
+Gutachtens nach Absatz 3 Satz 1 oder Satz 2 im konkreten Einzelfall
+verhältnismäßig ist, können insbesondere sein:
+
+1.  die Größe und das Gewicht des Fahrzeugs,
+
+2.  die Fahreigenschaften,
+
+3.  die erreichbare Höchstfahrgeschwindigkeit des Fahrzeugs auf ebener
+    Bahn sowie
+
+4.  die Art der Bedienung und Benutzung des Fahrzeugs.
 
 
 ## II. - Führen von Kraftfahrzeugen
@@ -918,16 +964,16 @@ Anfertigung von Kursaufgaben verweigert hat.
 Anforderungen an das Sehvermögen zu erfüllen.
 
 (2) Bewerber um eine Fahrerlaubnis der Klassen AM, A1, A2, A, B, BE,
-L oder T haben sich einem Sehtest zu unterziehen. Der Sehtest wird
-von einer amtlich anerkannten Sehteststelle unter Einhaltung der DIN
-58220 Teil 6, Ausgabe September 2013, durchgeführt. Die Sehteststelle
-hat sich vor der Durchführung des Sehtests von der Identität des
-Antragstellers durch Einsicht in den Personalausweis oder Reisepass
-oder in ein sonstiges Ausweisdokument zu überzeugen. Der Sehtest ist
-bestanden, wenn die zentrale Tagessehschärfe mit oder ohne Sehhilfe
-mindestens den in Anlage 6 Nummer 1.1 genannten Wert erreicht. Ergibt
-der Sehtest eine geringere Sehleistung, darf der Antragsteller den
-Sehtest mit Sehhilfen oder mit verbesserten Sehhilfen wiederholen.
+L oder T haben sich einem Sehtest zu unterziehen. Der Sehtest wird von
+einer amtlich anerkannten Sehteststelle unter Einhaltung der DIN 58220
+Teil 6, Ausgabe April 2021 , durchgeführt. Die Sehteststelle hat sich
+vor der Durchführung des Sehtests von der Identität des Antragstellers
+durch Einsicht in den Personalausweis oder Reisepass oder in ein
+sonstiges Ausweisdokument zu überzeugen. Der Sehtest ist bestanden,
+wenn die zentrale Tagessehschärfe mit oder ohne Sehhilfe mindestens
+den in Anlage 6 Nummer 1.1 genannten Wert erreicht. Ergibt der Sehtest
+eine geringere Sehleistung, darf der Antragsteller den Sehtest mit
+Sehhilfen oder mit verbesserten Sehhilfen wiederholen.
 
 (3) Die Sehteststelle stellt dem Antragsteller eine
 Sehtestbescheinigung nach Anlage 6 Nummer 1.1 aus. In ihr ist
@@ -952,7 +998,9 @@ der Klassen C, C1, CE, C1E, D, D1, DE oder D1E haben sich einer
 Untersuchung des Sehvermögens nach Anlage 6 Nummer 2 zu unterziehen
 und hierüber der Fahrerlaubnisbehörde eine Bescheinigung des Arztes
 nach Anlage 6 Nummer 2.1 oder ein Zeugnis des Augenarztes nach Anlage
-6 Nummer 2.2 einzureichen.
+6 Nummer 2.2 einzureichen. Die Bescheinigung nach Anlage 6 Nummer 2.1
+kann auch durch einen Augenoptikerbetrieb ausgestellt werden, dabei
+ist § 67 Absatz 4 entsprechend anzuwenden.
 
 (7) Sehtestbescheinigung, Zeugnis oder Gutachten dürfen bei
 Antragstellung nicht älter als zwei Jahre sein.
@@ -1652,8 +1700,9 @@ oder ein bestimmtes Fahrzeug mit besonderen Einrichtungen erstrecken.
 D, D1, DE und D1E wird auf Antrag des Inhabers jeweils um die in § 23
 Absatz 1 Satz 2 angegebenen Zeiträume verlängert, wenn
 
-1.  der Inhaber seine Eignung nach Maßgabe der Anlage 5 und die Erfüllung
-    der Anforderungen an das Sehvermögen nach Anlage 6 nachweist und
+1.  der Inhaber seine Eignung nach Maßgabe der Anlage 5 Nummer 1 und 3
+    und die Erfüllung der Anforderungen an das Sehvermögen nach Anlage 6
+    nachweist und
 
 2.  keine Tatsachen vorliegen, die die Annahme rechtfertigen, dass eine
     der sonstigen aus den §§ 7 bis 19 ersichtlichen Voraussetzungen für
@@ -1664,7 +1713,7 @@ Fahrerlaubnis ist das Datum des Tages, an dem die zu verlängernde
 Fahrerlaubnis endet. Die Verlängerung der Klassen D, D1, DE und
 D1E kann nur dann über die Vollendung des 50. Lebensjahres hinaus
 erfolgen, wenn der Antragsteller zusätzlich seine Eignung nach Maßgabe
-der Anlage 5 Nummer 2 nachweist.
+der Anlage 5 Nummer 2 und 3 nachweist.
 
 (2) Absatz 1 Satz 1 und 3 und § 23 Absatz 1 Satz 3 sind auch bei der
 Erteilung einer Fahrerlaubnis der entsprechenden Klasse anzuwenden,
@@ -2000,10 +2049,8 @@ oder EWR-Fahrerlaubnis,
 6.  die zum Zeitpunkt des Erwerbs der ausländischen EU- oder EWR-
     Fahrerlaubnis Inhaber einer deutschen Fahrerlaubnis waren,
 
-7.  deren Fahrerlaubnis aufgrund einer Fahrerlaubnis eines Drittstaates,
-    der nicht in der Anlage 11 aufgeführt ist, prüfungsfrei umgetauscht
-    worden ist, oder deren Fahrerlaubnis aufgrund eines gefälschten
-    Führerscheins eines Drittstaates erteilt wurde,
+7.  deren Fahrerlaubnis aufgrund eines gefälschten Führerscheins eines
+    Drittstaates erteilt wurde,
 
 8.  die zum Zeitpunkt der Erteilung einer Fahrerlaubnis eines
     Drittstaates, die in eine ausländische EU- oder EWR-Fahrerlaubnis
@@ -2996,10 +3043,8 @@ nach dem Personenbeförderungsgesetz erforderlich ist.
 3.  Krankenkraftwagen der Feuerwehren und der nach Landesrecht anerkannten
     Rettungsdienste,
 
-4.  Kraftfahrzeuge, mit Ausnahme von Taxen, Mietwagen und für den
-    gebündelten Bedarfsverkehr im Sinne des § 50 Absatz 1 Satz 1 des
-    Personenbeförderungsgesetzes, wenn der Kraftfahrzeugführer im Besitz
-    der Klasse D oder D1 ist.
+4.  Kraftfahrzeuge, wenn der Kraftfahrzeugführer im Besitz der Klasse D
+    oder D1 ist.
 
 (3) Die Erlaubnis ist durch einen Führerschein nach Muster 4 der
 Anlage 8 nachzuweisen (Führerschein zur Fahrgastbeförderung). Er ist
@@ -3062,11 +3107,11 @@ jeweils bis zu fünf Jahren verlängert, wenn
     dass er die Gewähr dafür bietet, dass er der besonderen Verantwortung
     bei der Beförderung von Fahrgästen gerecht wird.
 
-(6) Die §§ 21, 22 und 24 Absatz 1 Satz 1, Absatz 2 und 3 sind
-entsprechend anzuwenden. Die Verlängerung der Fahrerlaubnis zur
-Fahrgastbeförderung kann nur dann über die Vollendung des 60.
+(6) Die §§ 21, 22 und 24 Absatz 1 Satz 1 und 2, Absatz 2 und 3
+sind entsprechend anzuwenden. Die Verlängerung der Fahrerlaubnis
+zur Fahrgastbeförderung kann nur dann über die Vollendung des 60.
 Lebensjahres hinaus erfolgen, wenn der Antragsteller zusätzlich seine
-Eignung nach Maßgabe der Anlage 5 Nummer 2 nachweist.
+Eignung nach Maßgabe der Anlage 5 Nummer 2 und 3 nachweist.
 
 (7) Der Halter eines Fahrzeugs darf die Fahrgastbeförderung
 nicht anordnen oder zulassen, wenn der Führer des Fahrzeugs die
@@ -3179,7 +3224,11 @@ Hinweise geben.
 Die Fahrerlaubnisbehörde hat bei Beantragung der Fahrerlaubnis oder
 bei Beantragung der Eintragung weiterer zur Begleitung vorgesehener
 Personen zu prüfen, ob diese Voraussetzungen vorliegen; sie hat die
-Auskunft nach Nummer 3 beim Fahreignungsregister einzuholen.
+Auskunft nach Nummer 3 beim Fahreignungsregister einzuholen. Bei
+der Beantragung der Eintragung weiterer zur Begleitung vorgesehener
+Personen ist abweichend von Satz 1 Nummer 3 auf den Zeitpunkt der
+Beantragung der Eintragung der weiteren zur Begleitung vorgesehenen
+Personen abzustellen.
 
 (6) Die begleitende Person darf den Inhaber einer
 Prüfungsbescheinigung nach Absatz 3 nicht begleiten, wenn sie
@@ -4361,7 +4410,7 @@ durch die von ihr bestimmte oder nach Landesrecht zuständige Stelle.
 
 2.  der Antragsteller nachweist, dass er über die erforderlichen
     Fachkräfte und über die notwendigen der DIN 58220 Teil 6, Ausgabe
-    September 2013, entsprechenden Sehtestgeräte verfügt und dass eine
+    April 2021, entsprechenden Sehtestgeräte verfügt und dass eine
     regelmäßige ärztliche Aufsicht über die Durchführung des Sehtests
     gewährleistet ist.
 
@@ -5420,6 +5469,12 @@ Bestimmungen:
     fort.
 
 
+### § 76a Besondere Anwendungsbestimmungen
+
+Anlage 7 Nummer 1.3 Satz 4 Buchstabe m und n ist ab dem 1. April 2027
+anzuwenden.
+
+
 ### § 77 Verweis auf technische Regelwerke
 
 Soweit in dieser Verordnung auf DIN-, EN- oder ISO/IEC-Normen
@@ -5734,7 +5789,7 @@ IV. Vor dem 1. Juni 1982 ausgestellte Fahrerlaubnisscheine
 **C. (weggefallen)**
 
 
-### Anlage 4 (zu den §§ 11, 13 und 14)Eignung und bedingte Eignung zum Führen von Kraftfahrzeugen
+### Anlage 4 (zu den §§ 11, 13, 13a und 14)Eignung und bedingte Eignung zum Führen von Kraftfahrzeugen
 
 (Fundstelle: BGBl. I 2010, 2023 - 2029;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -5767,7 +5822,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 | --- | --- | --- | --- | --- | --- |
 | Klassen A, A1, A2 B, BE, AM, L, T | Klassen C, C1, CE, C1E, D, D1, DE, D1E, FzF | Klassen A, A1, A2 B, BE, AM, L, T | Klassen C, C1, CE, C1E, D, D1, DE, D1E, FzF |  |  |
 | 1. | **Mangelndes Sehvermögen** siehe Anlage 6 |  |  |  |  |
-| 2. | hochgradige Schwerhörigkeit (Hörverlust von 60 % und mehr), ein- oder beidseitig sowie Gehörlosigkeit, ein- oder beidseitig | ja, wenn nicht gleichzeitig andere schwerwiegende Mängel (z. B. Sehstörungen, Gleichgewichtsstörungen) vorliegen | ja, wenn nicht gleichzeitig andere schwerwiegende Mängel (z. B. Sehstörungen, Gleichgewichtsstörungen) vorliegen | – | Fachärztliche Eignungsuntersuchung. Regelmäßige ärztliche Kontrollen. Vorherige Bewährung von drei Jahren Fahrpraxis auf Kfz der Klasse B. Bei Vorliegen einer hochgradigen Hörstörung muss – soweit möglich – die Versorgung und das Tragen einer adäquaten Hörhilfe nach dem aktuellen Stand der medizinisch-technisch und audiologisch-technischen Kenntnisse erfolgen. |
+| 2. | hochgradige Schwerhörigkeit (Hörverlust von 60 % und mehr), ein- oder beidseitig sowie Gehörlosigkeit, ein- oder beidseitig | ja, wenn nicht gleichzeitig andere schwerwiegende Mängel (z. B. Sehstörungen, Gleichgewichtsstörungen) vorliegen | ja, wenn nicht gleichzeitig andere schwerwiegende Mängel (z. B. Sehstörungen, Gleichgewichtsstörungen) vorliegen | – | Fachärztliche Eignungsuntersuchung. Regelmäßige ärztliche Kontrollen. Vorherige Bewährung von drei Jahren Fahrpraxis auf Kfz der Klasse B. |
 | 2.1 | (weggefallen) |  |  |  |  |
 | 2.2 | (weggefallen) |  |  |  |  |
 | 2.3 | (weggefallen) |  |  |  |  |
@@ -5805,7 +5860,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 | 6.1 | Erkrankungen und Folgen von Verletzungen des Rückenmarks | ja abhängig von der Symptomatik | nein | bei fortschreitendem Verlauf Nachuntersuchungen | – |
 | 6.2 | Erkrankungen der neuromuskulären Peripherie | ja abhängig von der Symptomatik | nein | bei fortschreitendem Verlauf Nachuntersuchungen | – |
 | 6.3 | Parkinsonsche Krankheit | ja bei leichten Fällen und erfolgreicher Therapie | nein | Nachuntersuchungen in Abständen von ein, zwei und vier Jahren | – |
-| 6.4 | Kreislaufabhängige Störungen der Hirntätigkeit | ja nach erfolgreicher Therapie und Abklingen des akuten Ereignisses ohne Rückfallgefahr | nein | Nachuntersuchungen in Abständen von ein, zwei und vier Jahren | – |
+| 6.4 | Hirngefäßerkrankungen | ja nach erfolgter Therapie und Abklingen des akuten Ereignisses ohne Rückfallgefahr | ja nach erfolgter Therapie und Abklingen des akuten Ereignisses ohne Rückfallgefahr | Nachunter- suchungen | (ggf. fach- ärztliche) Nachunter- suchungen |
 | 6.5 | Zustände nach Hirnverletzungen und Hirnoperationen, angeborene und frühkindliche erworbene Hirnschäden |  |  |  |  |
 | 6.5.1 | Schädelhirnverletzungen oder Hirnoperationen ohne Substanzschäden | ja in der Regel nach drei Monaten | ja in der Regel nach drei Monaten | bei Rezidivgefahr nach Operationen von Hirnkrankheiten Nachuntersuchung | bei Rezidivgefahr nach Operationen von Hirnkrankheiten Nachuntersuchung |
 | 6.5.2 | Substanzschäden durch Verletzungen oder Operationen | ja unter Berücksichtigung von Störungen der Motorik, chron.-hirnorganischer Psychosyndrome und hirnorganischer Wesensänderungen | ja unter Berücksichtigung von Störungen der Motorik, chron.-hirnorganischer Psychosyndrome und hirnorganischer Wesensänderungen | bei Rezidivgefahr nach Operationen von Hirnkrankheiten Nachuntersuchung | bei Rezidivgefahr nach Operationen von Hirnkrankheiten Nachuntersuchung |
@@ -5874,8 +5929,8 @@ Fußnote)
 
 Grundlage für die Beurteilung der Eignung zum Führen von
 Kraftfahrzeugen sind die Begutachtungsleitlinien zur Kraftfahreignung
-vom 27. Januar 2014 (VkBl. S. 110) in der Fassung vom 17. Februar 2021
-(VkBl. S. 198).
+vom 27. Januar 2014 (VkBl. S. 110) in der Fassung vom 12. Dezember
+2025 (VkBl. S. 86).
 
 1.  Die Untersuchung ist unter Beachtung folgender Grundsätze
     durchzuführen:
@@ -6156,15 +6211,17 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 2.1 Untersuchung durch einen Augenarzt, einen Arzt mit der
     Gebietsbezeichnung „Arbeitsmedizin“, einen Arzt mit der
     Zusatzbezeichnung „Betriebsmedizin“, einen Arzt bei einer
-    Begutachtungsstelle für Fahreignung, einen Arzt des Gesundheitsamtes
-    oder einen anderen Arzt der öffentlichen Verwaltung.
+    Begutachtungsstelle für Fahreignung, einen Arzt des Gesundheitsamtes,
+    einen anderen Arzt der öffentlichen Verwaltung oder einen
+    Augenoptikerbetrieb nach § 67 Absatz 4.
 
     Über die Untersuchung ist eine Bescheinigung gemäß dem Muster dieser
     Anlage zu erstellen.
 
 2.1.1 Zentrale Tagessehschärfe
 
-      Feststellung unter Einhaltung der DIN 58220, Ausgabe Januar 1997.
+      Feststellung unter Einhaltung der DIN 58220 Teil 6, Ausgabe April
+      2021\.
 
       Fehlsichtigkeiten müssen – soweit möglich und verträglich – korrigiert
       werden. Dabei dürfen folgende Sehschärfenwerte nicht unterschritten
@@ -6360,7 +6417,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Muster
 
-**Bescheinigung über die ärztliche Untersuchung
+**Bescheinigung über die Untersuchung des Arztes oder eines
+Augenoptikerbetriebs
 (Anlage 6 Nummer 2.1 der Fahrerlaubnis-Verordnung)**
 
 von Bewerbern um die Erteilung oder Verlängerung einer Fahrerlaubnis
@@ -6372,12 +6430,24 @@ Absatz 5 Nummer 2 der Fahrerlaubnis-Verordnung
 
 **Teil 1** (verbleibt beim Arzt)
 
-1.  **Angaben über den untersuchenden Arzt**
+1.  **Angaben über den untersuchenden Arzt oder Augenoptikerbetrieb**
 
     Name, Facharztbezeichnung, ggf. Gebiets- oder Zusatzbezeichnung des
     Arztes, ggf. Angabe über Tätigkeit bei einer Begutachtungsstelle für
     Fahreignung oder über Stellung als Arzt der öffentlichen Verwaltung,
     Anschrift
+
+1.1 **Angaben über den untersuchenden Arzt**
+
+    Name, Facharztbezeichnung, ggf. Gebiets- oder Zusatzbezeichnung des
+    Arztes, ggf. Angabe über Tätigkeit bei einer Begutachtungsstelle für
+    Fahreignung oder über Stellung als Arzt der öffentlichen Verwaltung,
+    Anschrift oder
+
+1.2 **Angaben über den untersuchenden Augenoptikerbetrieb**
+
+    Name und Anschrift des Augenoptikerbetriebs, Name des die Untersuchung
+    durchführenden Augenoptikers.
 
 2.  **Personalien des Bewerbers**
 
@@ -6416,55 +6486,81 @@ Fahrerlaubnis-Verordnung ist erforderlich:
 
 Muster
 
-**Bescheinigung über die ärztliche Untersuchung
-(Anlage 6 Nummer 2.1 der Fahrerlaubnis-Verordnung)**
+**Bescheinigung über die Untersuchung des Arztes oder eines
+Augenoptikerbetriebs
+(Anlage 6 Nummer 2.1 der Fahrerlaubnisverordnung)**
 
 von Bewerbern um die Erteilung oder Verlängerung einer Fahrerlaubnis
-der Klassen C, C1, CE, C1E, D, D1, DE, D1E oder der Fahrerlaubnis zur
-Fahrgastbeförderung nach § 12 Absatz 6 und § 48 Absatz 4 Nummer 4 und
-Absatz 5 Nummer 2 der Fahrerlaubnis-Verordnung
+der Klassen C, C1, CE, C1E, D, D1, DE oder D1E oder der Fahrerlaubnis
+zur Fahrgastbeförderung nach § 12 Absatz 6 und § 48 Absatz 4 Nummer 4
+und Absatz 5 Nummer 2 der Fahrerlaubnis-Verordnung
 
 **Teil 2** (dem Bewerber auszuhändigen)
 
-Name des Arztes, Facharztbezeichnung, ggf. Gebiets- oder
-Zusatzbezeichnung des Arztes, ggf. Angabe über Tätigkeit bei einer
-Begutachtungsstelle für Fahreignung oder über Stellung als Arzt der
-öffentlichen Verwaltung, Anschrift
+1.  **Angaben über den untersuchenden Arzt oder Augenoptikerbetrieb**
 
-| Familienname, Vornamen des Bewerbers: .......... |
-| --- |
-| Tag der Geburt: .......... |
-| Ort der Geburt: .......... |
-| Wohnort: .......... |
-| Straße/Hausnummer: .......... |
-| Nummer des Personalausweises: .......... |
-| Untersuchungsbefund vom .......... über |
-| – Zentrale Tagessehschärfe nach DIN 58220 |
-| – Farbensehen |
-| – Kontrast- oder Dämmerungssehen |
-| – Gesichtsfeld |
-| – Stereosehen |
+1.1. **Angaben über den untersuchenden Arzt**
+
+     Name des Arztes, Facharztbezeichnung, ggf. Gebiets- oder
+     Zusatzbezeichnung des Arztes, ggf. Angabe über Tätigkeit bei einer
+     Begutachtungsstelle für Fahreignung oder über Stellung als Arzt der
+     öffentlichen Verwaltung, Anschrift oder
+
+1.2. **Angaben über den untersuchenden Augenoptikerbetrieb**
+
+     Name und Anschrift des Augenoptikerbetriebs, Name des die Untersuchung
+     durchführenden Augenoptikers
+
+2.  **Personalien des Bewerbers**
+
+    Familienname, Vornamen des Bewerbers:
+
+    Tag der Geburt:
+
+    Ort der Geburt:
+
+    Wohnort:
+
+    Straße/Hausnummer:
+
+    Nummer des Personalausweises:
+
+3.  **Untersuchungsbefund vom über**
+
+    – Zentrale Tagessehschärfe nach DIN 58220
+
+    – Farbensehen
+
+    – Kontrast- oder Dämmerungssehen
+
+    – Gesichtsfeld
+
+    – Stereosehen
 
 Aufgrund der von mir nach Teil 1 erhobenen Befunde wurden die
 in Anlage 6 Nummer 2.1 der Fahrerlaubnis-Verordnung geforderten
 Anforderungen
 
-⃞ erreicht, ohne Sehhilfe
-⃞ erreicht, mit Sehhilfe
-⃞ nicht erreicht
+⎕ erreicht, ohne Sehhilfe
+
+⎕ erreicht, mit Sehhilfe
+
+⎕ nicht erreicht
 
 Eine augenärztliche Zusatzuntersuchung nach Anlage 6 Nummer 2.2 der
 Fahrerlaubnis-Verordnung ist erforderlich:
 
-| ⃞ ja | ⃞ nein |
+| ⎕ ja | ⎕ nein |
 | --- | --- |
 
 Das Zeugnis ist zwei Jahre gültig.
 
 Die Identität des Untersuchten wurde geprüft.
 
-| .........., den |  | .......... Stempel und Unterschrift des Arztes mit den oben stehenden beruflichen Angaben |
+| , den |  | Stempel und Unterschrift des Arztes mit den oben stehenden beruflichen Angaben |
 | --- | --- | --- |
+|  |  | oder |
+|  |  | Stempel des Augenoptikerbetriebs und Unterschrift des die Untersuchung durchführenden und bescheinigenden Augenoptikers |
 
 Muster
 
@@ -6693,7 +6789,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     k)  Türkisch,
 
-    l)  Hocharabisch.
+    l)  Hocharabisch,
+
+    m)  Kurmandschi oder
+
+    n)  Ukrainisch.
 
 1.4 (weggefallen)
 
@@ -7198,11 +7298,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
        sein. Alle vom Fahrzeughersteller lieferbaren Ausstattungen und
        Systeme sind grundsätzlich unter Berücksichtigung der Richtlinie nach
        Nummer 2 zugelassen. Dies gilt auch für den nachträglichen Einbau
-       gleicher oder ähnlicher Produkte. Bei Prüfungsfahrzeugen, die über
-       Systeme verfügen, die die Längs- und Querführung des Fahrzeugs in
-       einem spezifischen Anwendungsfall aktiv und kontinuierlich übernehmen
-       können, entscheidet der amtlich anerkannte Sachverständige oder Prüfer
-       für den Kraftfahrzeugverkehr über den Einsatz dieser Systeme.
+       gleicher oder ähnlicher Produkte. Bei einem Prüfungsfahrzeug, das über
+       Systeme verfügt, die die Längsführung, Querführung oder die Längs-
+       und Querführung des Fahrzeugs in einem spezifischen Anwendungsfall
+       aktiv und kontinuierlich übernehmen können, entscheidet der amtlich
+       anerkannte Sachverständige oder Prüfer für den Kraftfahrzeugverkehr
+       über den Einsatz dieser Systeme.
 
 2.2.18 Bei Prüfungen der Klasse A, A1, A2 und AM dürfen nur Fahrzeuge
        verwendet werden, für die eine Helmtragepflicht besteht.
@@ -7248,7 +7349,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     Absatz 4) dienen, verkürzt sich die Dauer der praktischen Prüfung um
     10 Minuten. Bei der Aufhebung einer Beschränkung in den Klassen C1,
     C1E, C, CE, D1, D1E, D oder DE umfasst die Prüfung den Prüfungsstoff
-    nach Nummer 2.1.1, 2.1.4 und 2.1.5.
+    nach den Nummern 2.1.1, 2.1.4, 2.1.5 und 2.1.6.
 
 2.4 **Prüfungsstrecke**
 
@@ -7697,7 +7798,7 @@ Vorbemerkungen
 | (Linke Innenseite) | (Rechte Innenseite) |
 
 
-### Anlage 8a (zu § 22 Absatz 4 Satz 7)
+### Anlage 8a (zu § 22 Absatz 4 Satz 6)
 
 (Fundstelle: BGBl. I 2015, 1679 — 1680)
 
@@ -8237,9 +8338,10 @@ I. Schlüsselzahlen der Europäischen Union
 | 130 | 80 | Nur für Inhaber einer Fahrerlaubnis für dreirädrige Kraftfahrzeuge der Klasse A, die das 24. Lebensjahr noch nicht vollendet haben |
 | 131 | 81 | Nur für Inhaber einer Fahrerlaubnis für zweirädrige Krafträder der Klasse A, die das 21. Lebensjahr noch nicht vollendet haben |
 | 132 |  | (weggefallen) |
-| 133 | 95 | Kraftfahrerin/Kraftfahrer, die/der Inhaberin/Inhaber eines Befähigungsnachweises ist und die Befähigungspflicht nach dem Gesetz über die Grundqualifikation und Weiterbildung der Kraftfahrerinnen und Kraftfahrer bestimmter Kraftfahrzeuge für den Güterkraft- oder Personenverkehr bis zum … erfüllt [zum Beispiel: 95(01.01.14)] |
+| 133 | 95 | Kraftfahrerin/Kraftfahrer, die/der Inhaberin/Inhaber eines Befähigungsnachweises ist und die Befähigungspflicht nach dem Gesetz über die Grundqualifikation und die Weiterbildung der Fahrer bestimmter Kraftfahrzeuge für den Güter- oder Personenkraftverkehr bis zum … erfüllt [zum Beispiel: 95(01.01.14)] |
 | 134 | 96 | Fahrzeugkombinationen aus Fahrzeugen der Klasse B und einem Anhänger mit einer zulässigen Gesamtmasse von mehr als 750 kg, sofern die zulässige Gesamtmasse einer derartigen Kombination mehr als 3 500 kg, jedoch nicht mehr als 4 250 kg beträgt. |
 | 135 | 97 | Berechtigt nicht zum Führen eines Fahrzeugs der Klasse C1, das in den Geltungsbereich der Verordnung (EWG) Nr. 3821/85 des Rates fällt |
+| 136 | 99.01 | Sonderausfertigung, nur für die Dauer des vorübergehenden Schutzes gültig (Ersatz für verlorenen oder gestohlenen ukrainischen Führerschein) |
 
 Ia. Äquivalenz für entfallene Schlüsselzahlen der Europäischen Union
 
@@ -8352,14 +8454,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 | Ausstellungsstaat | Klasse(n) | theoretische Prüfung | praktische Prüfung |
 | --- | --- | --- | --- |
 | Albanien | A1, A2, A, B, BE, C1, C1E, C, CE, D1, D1E, D und DE | nein | nein |
-| Albanien | AM | nein | ja |
+|  | AM | nein | ja |
 | Andorra | alle | nein | nein |
 | Bosnien und Herzegowina | A1, A, B | nein | nein |
 | Französisch-Polynesien | alle | nein | nein |
 | Gibraltar | alle | nein | nein |
 | Guernsey | alle | nein | nein |
 | Insel Man | alle | nein | nein |
-| Israel | B | nein | nein |
+| Israel | A1, A2, A, B | nein | nein |
 | Japan | alle | nein | nein |
 | Jersey | alle | nein | nein |
 | Kosovo | AM, A1, A2, A, B, BE, C1, C1E, C, CE, D1, D1E, D und DE | nein | nein |
@@ -8367,6 +8469,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 | Republik Nordmazedonien | alle | nein | nein |
 | (weggefallen) |  |  |  |
 | Monaco | alle | nein | nein |
+| Montenegro | alle | nein | nein |
 | Namibia | A1, A, B, BE, C1, C1E, C, CE | nein | nein |
 | Neukaledonien | alle | nein | nein |
 | Neuseeland | 1, 6 | nein | nein |
@@ -8377,6 +8480,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 | Singapur | alle | nein | nein |
 | Südafrika | alle | nein | nein |
 | Fahrerlaubnisse, die im tatsächlichen Herrschaftsbereich der Behörden in Taiwan erteilt wurden | B/BE | nein | nein |
+| Ukraine | A1, A, B, BE, C1, C1E, C, CE, D1, D1E, D, DE | nein | nein |
 | Vereinigtes Königreich | alle | nein | nein |
 | **Fahrerlaubnisse aus den Australischen Territorien:** |  |  |  |
 | – Australian Capital Territory | C, R | nein | nein |
@@ -8398,7 +8502,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 | – Florida | E | ja | nein |
 | – Idaho | D | nein | nein |
 | – Illinois | D | nein | nein |
-| – Indiana | Operator License, Chauffeur License, Public Passenger Chauffeur License, Commercial Driver License, Probationary Operator´s License | ja | nein |
+| – Indiana | Driver´s License, Chauffeur License, Public Passenger Chauffeur License, Commercial Driver License, Probationary Operator´s License | ja | nein |
 | – Iowa | C (Noncommercial Operator´s License), A (Commercial Driver´s License), B (Commercial Driver´s License), C (Commercial Driver´s License), D (Noncommercial Chauffeur Driver´s License mit  Endorsement 1, 2 oder 3), Intermediate Driver´s License | nein | nein |
 | – Kansas | C | nein | nein |
 | – Kentucky | D | nein | nein |

@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 3 V v. 19.12.2025 I Nr. 382
 
 Änderung durch
-:   Art. 6 V v. 12.8.2026 I Nr. 236 mWv 18.8.2026 noch nicht berücksichtigt
+:   Art. 6 V v. 12.8.2026 I Nr. 236 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
@@ -468,7 +468,7 @@ Gebühren der Behörden im Landesbereich
 | 202.4 |  | als Ersatz | 20,40 bis 38,30 |
 | 202.5 |  | bei der Umstellung einer Fahrerlaubnis alten Rechts (§ 6 Absatz 6 Satz 2 FeV) | 25,50 |
 | 202.6 |  | bei besonders hohem Aufwand der Feststellung des Besitzstandes | 10,20 bis 30,70 |
-| 202.7 |  | Ausfertigung eines Führerscheins, soweit nicht bereits in den Nummern 202.1 bis 202.5 eingeschlossen, oder einer als Nachweis der Fahrerlaubnis geltenden befristeten Prüfungsbescheinigung (§ 22 Absatz 4 Satz 7 FeV), soweit vom Bewerber veranlasst | 10,20 |
+| 202.7 |  | Ausfertigung eines Führerscheins, soweit nicht bereits in den Nummern 202.1 bis 202.5 eingeschlossen, oder einer als Nachweis der Fahrerlaubnis geltenden befristeten Prüfungsbescheinigung (§ 22 Absatz 4 Satz 6 FeV), soweit vom Bewerber veranlasst | 10,20 |
 | 202.8 |  | Ausfertigung einer Prüfungsbescheinigung nach § 48a FeV | 7,70 |
 | 202.9 |  | Überprüfung einer Begleitperson nach § 48a Absatz 5 Satz 2 FeV | 1,50 bis 10,00 |
 | 202.10 |  | Erteilung einer Fahrberechtigung für Mitglieder der Freiwilligen Feuerwehren, der nach Landesrecht anerkannten Rettungsdienste, des Technischen Hilfswerks und sonstiger Einheiten des Katastrophenschutzes | 19,20 |
@@ -681,7 +681,7 @@ Gebühren der Behörden im Landesbereich
 | 343.4 |  | Ausstellung eines Fahrerqualifizierungsnachweises sowie Zustellung des Fahrerqualifizierungsnachweises im Direktversand in EU-Mitgliedstaaten | 15,60 |
 | 343.5 |  | Ausstellung eines Fahrerqualifizierungsnachweises im Expressverfahren sowie Aushändigung des Fahrerqualifizierungsnachweises | 20,60 |
 | 344 |  | Prüfung eines Antrags auf Anrechnung anderer abgeschlossener spezieller Aus- und Weiterbildungsmaßnahmen sowie Entscheidung über den Antrag (§ 2 Absatz 5, § 4 Absatz 4 BKrFQV) | 7,00 |
-| 345 |  | Entscheidung über die Erteilung bei Anerkennung einer Ausbildungsstätte nach § 9 BKrFQG, Untersagung der Ausübung von Tätigkeiten nach § 10 Absatz 4 BKrFQG, Rücknahme oder Widerruf der Anerkennung, einschließlich Anerkennungsurkunde, nach § 10 Absatz 1 und 2 BKrFQG | 51,10 bis 511,00 |
+| 345 |  | Entscheidung über die Erteilung, Änderung oder Versagung der Anerkennung einer Ausbildungsstätte einschließlich der Ausstellung der Anerkennungsurkunde nach § 9 BKrFQG in Verbindung mit § 5 BKrFQV, Untersagung der Ausübung von Tätigkeiten nach § 10 Absatz 4 BKrFQG, Rücknahme oder Widerruf der Anerkennung, einschließlich Einziehung der Anerkennungsurkunde, nach § 10 Absatz 1 und 2 BKrFQG | 51,10 bis 511,00 |
 | 346 |  | Überwachung der Ausbildungsstätten nach § 11 Absatz 1 und 2 BKrFQG | 30,70 bis 511,00 |
 |  |  | Die Gebühr ist auch zu entrichten, wenn die Überwachung ohne Verschulden der Überwachungsbehörde und ohne ausreichende Entschuldigung des Inhabers der Ausbildungsstätte am festgesetzten Termin nicht stattfinden oder nicht zu Ende geführt werden konnte. |  |
 |  | **G.** | **Straßenverkehr-Transportbegleitungsverordnung** |  |

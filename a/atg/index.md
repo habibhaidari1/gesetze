@@ -16,13 +16,10 @@ Fundstelle
 :   BGBl I: 1959, 814
 
 Neugefasst durch
-:   Bek. v. 15.7.1985 I 1565;
+:   Bek. v. 15.7.1985 I 1565
 
 Zuletzt geändert durch
-:   Art. 16 G v. 2.12.2025 I Nr. 301
-
-Änderung durch
-:   Art. 16 G v. 22.7.2026 I Nr. 224 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 16 G v. 22.7.2026 I Nr. 224
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften

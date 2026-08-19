@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 1310
 
 Zuletzt geändert durch
-:   Art. 11 G v. 12.5.2026 I Nr. 139
-
-Änderung durch
-:   Art. 4 G v. 22.7.2026 I Nr. 223 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 4 G v. 22.7.2026 I Nr. 223
 
 
 ## Erster Abschnitt - Errichtung, Aufsicht, Aufgaben
