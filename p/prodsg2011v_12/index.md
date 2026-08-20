@@ -15,11 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2016, 605
 
-Geändert durch
-:   Art. 26 G v. 27.7.2021 I 3146
-
-Änderung durch
-:   Art. 5 V v. 2.3.2026 I Nr. 54 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 5 V v. 2.3.2026 I Nr. 54
 
 Stand
 :   Ersetzt V 8053-4-15 v. 17.6.1998 I 1393 (GSGV 12)

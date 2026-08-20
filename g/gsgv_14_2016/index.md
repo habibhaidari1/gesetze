@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2015, 692
 
 Zuletzt geändert durch
-:   Art. 28 G v. 27.7.2021 I 3146
-
-Änderung durch
-:   Art. 6 V v. 2.3.2026 I Nr. 54 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 6 V v. 2.3.2026 I Nr. 54
 
 Stand
 :   § 12 ist gem. § 24 Abs. 1 dieser V am 1.6.2015 in Kraft getreten
@@ -948,8 +945,6 @@ Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 3.  entgegen § 11 Absatz 1 einen Wirtschaftsakteur nicht oder nicht
     rechtzeitig nennt.
-
-(3) (weggefallen)
 
 
 ### § 23 Übergangsvorschriften
