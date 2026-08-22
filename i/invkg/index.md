@@ -15,11 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2020, 1795
 
-Geändert durch
-:   Art. 9 G v. 22.12.2023 I Nr. 409
-
-Änderung durch
-:   Art. 5 G v. 20.7.2026 I Nr. 215 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 5 G v. 20.7.2026 I Nr. 215
 
 
 ## Kapitel 1 - Finanzhilfen zum Ausgleich unterschiedlicher Wirtschaftskraft und zur Förderung des wirtschaftlichen Wachstums in den Braunkohlerevieren nach Artikel 104b des Grundgesetzes

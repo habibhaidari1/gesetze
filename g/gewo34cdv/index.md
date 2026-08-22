@@ -19,13 +19,7 @@ Neugefasst durch
 :   Bek. v. 7.11.1990 I 2479
 
 Zuletzt geändert durch
-:   Art. 14 V v. 11.12.2024 I Nr. 411
-
-Änderung durch
-:   Art. 2 G v. 20.7.2026 I Nr. 215 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 2 V v. 28.7.2026 I Nr. 229 ist berücksichtigt
+:   Art. 2 V v. 28.7.2026 I Nr. 229
 
 
 ## § 1 Anwendungsbereich

@@ -19,13 +19,10 @@ Neugefasst durch
 :   Bek. v. 26.6.2013 I 1750, 3245;
 
 Zuletzt geändert durch
-:   Art. 15 Abs. 7 G v. 3.7.2026 I Nr. 199
+:   Art. 9 G v. 20.7.2026 I Nr. 215
 
-Änderung durch
-:   Art. 9 G v. 20.7.2026 I Nr. 215 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Mittelbare änderung durch
-:   Art. 10 G v. 20.7.2026 I Nr. 215 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Stand
+:   Mittelbare Änderung gem. Art. 10 G v. 20.7.2026 I Nr. 215 ist berücksichtigt
 
 
 ## Teil 1 - Wettbewerbsbeschränkungen

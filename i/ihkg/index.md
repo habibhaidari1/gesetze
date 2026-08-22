@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1956, 920
 
 Zuletzt geändert durch
-:   Art. 1 G v. 7.8.2021 I 3306
-
-Änderung durch
-:   Art. 6 G v. 20.7.2026 I Nr. 215 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 6 G v. 20.7.2026 I Nr. 215
 
 
 ## § 1
