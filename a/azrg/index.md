@@ -16,16 +16,7 @@ Fundstelle
 :   BGBl I: 1994, 2265
 
 Zuletzt geändert durch
-:   Art. 1 G v. 23.4.2026 I Nr. 112
-
-Änderung durch
-:   Art. 1 G v 22.7.2026 I Nr. 222 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 6 G v 22.7.2026 I Nr. 222 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 14 G v 22.7.2026 I Nr. 222 mWv 1.11.2026 bzw. 1.11.2027 noch nicht berücksichtigt
+:   Art. 14 G v 22.7.2026 I Nr. 222
 
 Änderung durch
 :   Art. 16 Nr. 1 bis 3 u. 5 bis 7 G v 22.7.2026 I Nr. 222 mWv 1.5.2028 noch nicht berücksichtigt
