@@ -15,11 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2020, 2905
 
+Geändert durch
+:   Art. 1 V v. 12.8.2026 I Nr. 236
+
 Stand
 :   Ersetzt V 9231-11-1 v. 22.8.2006 I 2108 (BKrFQV)
-
-Änderung durch
-:   Art. 1 V v. 12.8.2026 I Nr. 236 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## § 1 Erwerb der Grundqualifikation

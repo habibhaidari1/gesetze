@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2013, 498
 
 Zuletzt geändert durch
-:   Art. 3 V v. 30.1.2026 I Nr. 32
-
-Änderung durch
-:   Art. 4 V v. 12.8.2026 I Nr. 236 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 4 V v. 12.8.2026 I Nr. 236
 
 
 ## Eingangsformel

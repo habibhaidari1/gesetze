@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2008, 2242
 
 Zuletzt geändert durch
-:   Art. 1 G v. 3.4.2025 I Nr. 106
-
-Änderung durch
-:   Art. 8 Abs. 5 G v. 23.7.2026 I Nr. 226 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 8 Abs. 5 G v. 23.7.2026 I Nr. 226
 
 
 ## Teil 1 - Berufsrecht

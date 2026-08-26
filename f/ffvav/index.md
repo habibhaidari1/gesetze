@@ -15,11 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 4591 (4831)
 
-Geändert durch
-:   Art. 2 G v. 4.1.2023 I Nr. 9
-
-Änderung durch
-:   Art. 8 Abs. 8 G v. 23.7.2026 I Nr. 226 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 8 Abs. 8 G v. 23.7.2026 I Nr. 226
 
 
 ## § 1 Anwendungsbereich
