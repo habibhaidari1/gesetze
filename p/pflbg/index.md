@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2017, 2581
 
 Zuletzt geändert durch
-:   Art. 3 G v. 28.10.2025 I Nr. 259
-
-Änderung durch
-:   Art. 5 G v. 22.12.2025 I Nr. 371 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 5 G v. 22.12.2025 I Nr. 371
 
 
 ## Teil 1 - Allgemeiner Teil

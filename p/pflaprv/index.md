@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2018, 1572
 
 Zuletzt geändert durch
-:   Art. 4 G v. 28.10.2025 I Nr. 259
-
-Änderung durch
-:   Art. 9 G v. 22.12.2025 I Nr. 371 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 9 G v. 22.12.2025 I Nr. 371
 
 
 ## Eingangsformel

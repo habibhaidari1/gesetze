@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2008, 306
 
 Zuletzt geändert durch
-:   Art. 8z G v. 12.12.2023 I Nr. 359
-
-Änderung durch
-:   Art. 10 G v. 22.12.2025 I Nr. 371 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 10 G v. 22.12.2025 I Nr. 371
 
 Stand
 :   G ersetzt G 2121-6-26 v. 7.10.1994 I 2835 (GÜG) mWv 19.3.2008
@@ -597,8 +594,6 @@ liegt in der Regel vor, wenn der Täter
 
 (4) Handelt der Täter in den Fällen des Absatzes 1 fahrlässig, so ist
 die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
-
-(5) (weggefallen)
 
 
 ### § 20 Bußgeldvorschriften

@@ -15,11 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 4530
 
-Zuletzt geändert durch
-:   Art. 2 G v. 4.3.2026 I Nr. 60
-
 Neufassung durch
-:   Bek. v. 21.5.2026 I Nr. 160 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Bek. v. 21.5.2026 I Nr. 160
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
