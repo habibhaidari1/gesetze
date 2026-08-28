@@ -16,13 +16,7 @@ Fundstelle
 :   BGBl I: 2021, 4077
 
 Zuletzt geändert durch
-:   Art. 58 G v. 4.2.2026 I Nr. 33
-
-Änderung durch
-:   Art. 4 G v. 25.3.2026 I Nr. 81 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 5 G v. 25.3.2026 I Nr. 81 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 5 G v. 25.3.2026 I Nr. 81
 
 Änderung durch
 :   Art. 12 G v. 9.4.2026 I Nr. 97 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
