@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 V v. 19.6.2025 I Nr. 147
 
+Neufassung durch
+:   Bek. v. 26.8.2026 I Nr. 242 mWv 26.6.2026 noch nicht berücksichtigt
+
 
 ## § 1 Geltungsbereich
 

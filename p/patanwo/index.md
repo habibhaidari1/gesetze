@@ -1156,11 +1156,11 @@ sind.
 (2) Angestellte anderer als der in Absatz 1 genannten Personen
 oder Gesellschaften üben ihren Beruf als Patentanwälte aus, sofern
 sie im Rahmen ihres Arbeitsverhältnisses für ihren Arbeitgeber
-patentanwaltlich mit der Wahrnehmung von Aufgaben gemäß § 3 Absatz
-2 und 3 dieses Gesetzes sowie § 4 des Steuerberatungsgesetzes
-betraut sind (Syndikuspatentanwälte). Der Syndikuspatentanwalt
-bedarf zur Ausübung seiner Tätigkeit nach Satz 1 der Zulassung zur
-Patentanwaltschaft nach § 41b.
+patentanwaltlich mit der Wahrnehmung von Aufgaben gemäß § 3
+Absatz 2 und 3 dieses Gesetzes sowie § 4 Absatz 2 Nummer 2 des
+Steuerberatungsgesetzes betraut sind (Syndikuspatentanwälte). Der
+Syndikuspatentanwalt bedarf zur Ausübung seiner Tätigkeit nach Satz 1
+der Zulassung zur Patentanwaltschaft nach § 41b.
 
 (3) Eine patentanwaltliche Tätigkeit im Sinne des Absatzes 2 Satz
 1 liegt vor, wenn das Arbeitsverhältnis durch folgende fachlich

@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2021, 4077
 
 Zuletzt geändert durch
-:   Art. 5 G v. 25.3.2026 I Nr. 81
-
-Änderung durch
-:   Art. 12 G v. 9.4.2026 I Nr. 97 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 12 G v. 9.4.2026 I Nr. 97
 
 Änderung durch
 :   Art. 12 G v. 12.5.2026 I Nr. 139 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet

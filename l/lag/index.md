@@ -4738,21 +4738,16 @@ Auftraggeber tätig werden, mit deren Angelegenheiten sie innerhalb der
 letzten drei Jahre vor Beendigung materiell befaßt waren.
 
 (2) Zur geschäftsmäßigen Vertretung vor den Ausgleichsbehörden und den
-Beschwerdeausschüssen sind neben Rechtsanwälten und den auf Grund des
-Rechtsberatungsgesetzes vom 13. Dezember 1935 (Reichsgesetzbl. I S.
-1478), zuletzt geändert durch das Außenwirtschaftsgesetz vom 28. April
-1961 (Bundesgesetzbl. I S. 481), befugten Personen und Vereinigungen
-nur zugelassen
+Beschwerdeausschüssen sind neben Rechtsanwälten zugelassen:
 
-1.  die in Artikel 1 § 3 des Rechtsberatungsgesetzes bezeichneten
-    Behörden, Körperschaften und Personen, soweit die Vertretung zu ihrem
-    Aufgabenbereich gehört,
+1.  Personen und Gesellschaften, soweit sie nach § 3 Satz 1 oder § 4c
+    Absatz 2 des Steuerberatungsgesetzes zur Hilfeleistung in Steuersachen
+    befugt sind, sowie Verwahrer und Verwalter fremden oder zu treuen
+    Händen oder zu Sicherungszwecken übereigneten Vermögens, soweit sie
+    hinsichtlich dieses Vermögens nach § 4e des Steuerberatungsgesetzes
+    zur Hilfeleistung in Steuersachen befugt sind,
 
-2.  Personen und Gesellschaften, soweit sie auf Grund von § 3 und § 4
-    Nr. 1, 2 und 4 des Steuerberatungsgesetzes geschäftsmäßig Hilfe in
-    Steuersachen leisten dürfen,
-
-3.  von den zuständigen obersten Bundesbehörden oder den Landesregierungen
+2.  von den zuständigen obersten Bundesbehörden oder den Landesregierungen
     anerkannte Verbände, deren Zweck nicht auf einen wirtschaftlichen
     Geschäftsbetrieb gerichtet ist, sofern die Verbände ihre Mitglieder
     unentgeltlich vertreten und die Vertretung in unter den Dritten Teil
@@ -4761,23 +4756,22 @@ nur zugelassen
     des Landesausgleichsamtes untersagt werden,
 
     a)  wenn die Vertretung ganz oder überwiegend von Personen ausgeübt wird,
-        denen die Zulassung nach den §§ 4 bis 8 der 1. Ausführungsverordnung
-        zum Rechtsberatungsgesetz vom 13. Dezember 1935 (Reichsgesetzbl. I
-        S. 1481) zu versagen wäre, und wenn gerügte Mängel in dieser Hinsicht
-        nicht in angemessener Zeit abgestellt werden,
+        denen nach § 12 Absatz 1 Nummer 1 des Rechtsdienstleistungsgesetzes
+        eine Registrierung zu versagen wäre, und wenn gerügte Mängel in dieser
+        Hinsicht nicht in angemessener Zeit abgestellt werden,
 
     b)  wenn ihre Rechtsform zur Umgehung der erforderlichen Zulassung
-        mißbraucht wird,
+        missbraucht wird,
 
-    c)  wenn sie für ihre rechtsbesorgende Tätigkeit Werbung treiben, es sei
-        denn, daß es sich nur um Hinweise handelt, die für ihre Mitglieder
-        bestimmt sind.
+    c)  wenn sie für ihre rechtsbesorgende Tätigkeit Werbung treiben, es
+        sei denn, dass es sich nur um Hinweise handelt, die nur für ihre
+        Mitglieder bestimmt sind.
 
-(3) Die in Absatz 2 Nr. 1 bis 3 genannten Behörden, Körperschaften,
-Personen und Verbände sind, soweit sie zur geschäftsmäßigen Vertretung
-vor den Ausgleichsbehörden und den Beschwerdeausschüssen zugelassen
-sind, auch zur geschäftsmäßigen Rechtsberatung in den unter den
-Dritten Teil dieses Gesetzes fallenden Angelegenheiten befugt.
+(3) Die in Absatz 2 genannten Personen, Gesellschaften und
+Verbände sind, soweit sie zur geschäftsmäßigen Vertretung vor den
+Ausgleichsbehörden und den Beschwerdeausschüssen zugelassen sind,
+auch zur geschäftsmäßigen Rechtsberatung in den unter den Dritten Teil
+dieses Gesetzes fallenden Angelegenheiten befugt.
 
 (4) (aufgehoben)
 

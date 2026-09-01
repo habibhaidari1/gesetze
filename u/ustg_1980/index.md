@@ -5856,8 +5856,17 @@ ausschließlich steuerfreie Umsätze ausführt und keine Vorsteuerbeträge
 abziehen kann, kann sich im Inland durch einen Fiskalvertreter
 vertreten lassen.
 
-(2) Zur Fiskalvertretung sind die in § 3 Nr. 1 bis 3 und § 4 Nr. 9
-Buchstabe c des Steuerberatungsgesetzes genannten Personen befugt.
+(2) Zur Fiskalvertretung sind befugt:
+
+1.  Personen und Gesellschaften im Sinne des § 3 Satz 1 des
+    Steuerberatungsgesetzes sowie
+
+2.  Spediteure und sonstige Zollvertreter, soweit sie nach § 4d des
+    Steuerberatungsgesetzes zur Hilfeleistung in Steuersachen befugt sind.
+
+Der Fiskalvertreter nach Satz 1 Nummer 2 muss im Geltungsbereich
+des Steuerberatungsgesetzes ansässig sein und darf die Regelung für
+Kleinunternehmer nach § 19 nicht in Anspruch nehmen.
 
 (3) Der Fiskalvertreter bedarf der Vollmacht des im Ausland ansässigen
 Unternehmers.
@@ -5912,11 +5921,10 @@ Umsatzbesteuerung zuständig ist.
 
 ### § 22e Untersagung der Fiskalvertretung
 
-(1) Die zuständige Finanzbehörde kann die Fiskalvertretung der in
-§ 22a Abs. 2 mit Ausnahme der in § 3 des Steuerberatungsgesetzes
-genannten Person untersagen, wenn der Fiskalvertreter wiederholt gegen
-die ihm auferlegten Pflichten nach § 22b verstößt oder ordnungswidrig
-im Sinne des § 26a handelt.
+(1) Die zuständige Finanzbehörde kann eine Fiskalvertretung durch die
+in § 22a Absatz 2 Satz 1 Nummer 2 genannte Person untersagen, wenn der
+Fiskalvertreter wiederholt gegen die ihm auferlegten Pflichten nach §
+22b verstößt oder ordnungswidrig im Sinne des § 26a handelt.
 
 (2) Für den vorläufigen Rechtsschutz gegen die Untersagung
 gelten § 361 Abs. 4 der Abgabenordnung und § 69 Abs. 5 der

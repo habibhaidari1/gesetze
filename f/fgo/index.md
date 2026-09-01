@@ -467,10 +467,10 @@ Gerichtsverwaltung übertragen werden.
     oder Landesfinanzbehörden nach den Vorschriften der Abgabenordnung zu
     vollziehen sind,
 
-3.  in öffentlich-rechtlichen und berufsrechtlichen Streitigkeiten über
-    Angelegenheiten, die durch den Ersten Teil, den Zweiten und den
-    Sechsten Abschnitt des Zweiten Teils und den Ersten Abschnitt des
-    Dritten Teils des Steuerberatungsgesetzes geregelt werden,
+3.  in öffentlich-rechtlichen und berufsrechtlichen Streitigkeiten
+    über Angelegenheiten, die durch den Ersten Teil, den Zweiten und
+    den Sechsten Abschnitt des Zweiten Teils sowie durch § 159 des
+    Steuerberatungsgesetzes geregelt werden,
 
 4.  in anderen als den in den Nummern 1 bis 3 bezeichneten öffentlich-
     rechtlichen Streitigkeiten, soweit für diese durch Bundesgesetz oder
@@ -1214,10 +1214,10 @@ vertretungsbefugt nur
     den §§ 3d und 3e des Steuerberatungsgesetzes berechtigte Personen im
     Rahmen dieser Befugnisse,
 
-4.  landwirtschaftliche Buchstellen im Rahmen ihrer Befugnisse nach § 4
-    Nr. 8 des Steuerberatungsgesetzes,
+4.  landwirtschaftliche Buchstellen im Rahmen ihrer Befugnisse nach § 4a
+    des Steuerberatungsgesetzes,
 
-5.  Lohnsteuerhilfevereine im Rahmen ihrer Befugnisse nach § 4 Nr. 11 des
+5.  Lohnsteuerhilfevereine im Rahmen ihrer Befugnisse nach § 4 des
     Steuerberatungsgesetzes,
 
 6.  Gewerkschaften und Vereinigungen von Arbeitgebern sowie

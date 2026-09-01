@@ -3124,8 +3124,8 @@ Steuererstattungen und Steuervergütungen. Ein Widerruf der Vollmacht
 wird der Finanzbehörde gegenüber erst wirksam, wenn er ihr zugeht;
 Gleiches gilt für eine Veränderung der Vollmacht.
 
-(2) Bei Personen und Vereinigungen im Sinne der §§ 3 und 4 Nummer 11
-des Steuerberatungsgesetzes, die für den Steuerpflichtigen handeln,
+(2) Bei Personen und Vereinigungen im Sinne der §§ 3, 4 und 4c Absatz
+2 des Steuerberatungsgesetzes, die für den Steuerpflichtigen handeln,
 wird eine ordnungsgemäße Bevollmächtigung vermutet. Für den Abruf von
 bei den Landesfinanzbehörden zum Vollmachtgeber gespeicherten Daten
 wird eine ordnungsgemäße Bevollmächtigung nur nach Maßgabe des § 80a
@@ -3163,8 +3163,8 @@ Zurückweisung des Bevollmächtigten zu unterrichten.
 
 (8) Ein Bevollmächtigter kann von einem schriftlichen, elektronischen
 oder mündlichen Vortrag zurückgewiesen werden, soweit er hierzu
-ungeeignet ist. Dies gilt nicht für die in § 3 Nummer 1, § 4
-Nummer 1 und 2 und § 23 Absatz 3 des Steuerberatungsgesetzes
+ungeeignet ist. Dies gilt nicht für die in § 3 Satz 1 Nummer 1,
+§ 4c Absatz 2 sowie § 20 Absatz 2 des Steuerberatungsgesetzes
 bezeichneten natürlichen Personen sowie natürliche Personen, die
 für eine Landwirtschaftliche Buchstelle tätig und nach § 44 des
 Steuerberatungsgesetzes berechtigt sind, die Berufsbezeichnung
@@ -3213,10 +3213,10 @@ diesem Fall auch den Wegfall einer Zulassung unverzüglich nach amtlich
 vorgeschriebenem Datensatz mitzuteilen.
 
 (3) Absatz 2 gilt entsprechend für Vollmachtsdaten, die von einem
-anerkannten Lohnsteuerhilfeverein im Sinne des § 4 Nummer 11 des
-Steuerberatungsgesetzes übermittelt werden, sofern die für die
-Aufsicht zuständige Stelle in einem automatisierten Verfahren die
-Zulassung zur Hilfe in Steuersachen bestätigt.
+Lohnsteuerhilfeverein im Sinne des § 4 des Steuerberatungsgesetzes
+übermittelt werden, sofern die für die Aufsicht zuständige Stelle
+in einem automatisierten Verfahren die Zulassung zur Hilfe in
+Steuersachen bestätigt.
 
 
 ##### § 81 Bestellung eines Vertreters von Amts wegen
@@ -8082,12 +8082,24 @@ Buchführungspflicht ist nicht erforderlich.
 
 ##### § 142 Ergänzende Vorschriften für Land- und Forstwirte
 
-Land- und Forstwirte, die nach § 141 Absatz 1 Nummer 1 oder 5
-zur Buchführung verpflichtet sind, haben neben den jährlichen
+(1) Land- und Forstwirte, die nach § 141 Absatz 1 Satz 1 Nummer 1
+oder 5 zur Buchführung verpflichtet sind, haben neben den jährlichen
 Bestandsaufnahmen und den jährlichen Abschlüssen ein Anbauverzeichnis
 zu führen. In dem Anbauverzeichnis ist nachzuweisen, mit welchen
 Fruchtarten die selbstbewirtschafteten Flächen im abgelaufenen
 Wirtschaftsjahr bestellt waren.
+
+(2) Bei forstwirtschaftlichen Betrieben kann auf das Führen eines
+Anbauverzeichnisses nach Absatz 1 verzichtet werden, wenn ein
+Forstbetriebswerk oder ein amtlich anerkanntes Betriebsgutachten für
+das jeweilige Wirtschaftsjahr vorliegt.
+
+(3) Bei landwirtschaftlichen Betrieben kann die zuständige
+Finanzbehörde von der Pflicht zur Führung eines Anbauverzeichnisses
+nach Absatz 1 befreien, wenn ein geeigneter Flächen- und
+Nutzungsnachweis für das jeweilige Wirtschaftsjahr vorliegt. In dem
+Flächen- und Nutzungsnachweis müssen die Angaben nach Absatz 1 Satz 2
+enthalten sein. Die Befreiung kann widerrufen werden.
 
 
 ##### § 143 Aufzeichnung des Wareneingangs
@@ -8511,9 +8523,9 @@ Daten nach Absatz 1 bei einem Dritten befinden, so hat der Dritte
 3.  ihr nach ihren Vorgaben die für den Steuerpflichtigen gespeicherten
     Daten in einem maschinell auswertbaren Format zu übertragen.
 
-Die Kosten trägt der Steuerpflichtige. In Fällen des Satzes 3 hat
-der mit der Außenprüfung betraute Amtsträger den in § 3 und § 4
-Nummer 1 und 2 des Steuerberatungsgesetzes bezeichneten Personen
+Die Kosten trägt der Steuerpflichtige. In den Fällen des Satzes 2
+hat der mit der Außenprüfung betraute Amtsträger den in § 3 Satz 1
+und § 4c Absatz 2 des Steuerberatungsgesetzes bezeichneten Personen
 sein Erscheinen in angemessener Frist anzukündigen. Sofern noch
 nicht mit einer Außenprüfung begonnen wurde, ist es im Fall eines
 Wechsels des Datenverarbeitungssystems oder im Fall der Auslagerung
@@ -8618,7 +8630,7 @@ siebten Monats, der auf den Schluss des in dem Kalenderjahr begonnenen
 Wirtschaftsjahres folgt.
 
 (3) Sofern Personen, Gesellschaften, Verbände, Vereinigungen,
-Behörden oder Körperschaften im Sinne der §§ 3 und 4 des
+Behörden oder Körperschaften im Sinne der §§ 3 und 4 bis 4d des
 Steuerberatungsgesetzes beauftragt sind mit der Erstellung von
 
 1.  Einkommensteuererklärungen nach § 25 Absatz 3 des

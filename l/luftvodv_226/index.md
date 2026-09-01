@@ -22,5 +22,5 @@ V aufgeh. durch
 :   Art. 2 V v. 14.8.2026 I Nr. 241 mWv 21.1.2027
 
 Ersetzt durch
-:   V. 96-1-2-226-1 v. 14.8.2026 I Nr. 241 (LuftVODV 226 2027)
+:   V 96-1-2-226-1 v. 14.8.2026 I Nr. 241 (LuftVODV 226 2027)
 
