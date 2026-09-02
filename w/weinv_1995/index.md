@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 6 V v. 24.6.2024 I Nr. 215
 
+Änderung durch
+:   Art. 2 V v. 24.8.2026 I Nr. 243 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Abschnitt 1 - Weinanbaugebiet
 
@@ -887,11 +890,12 @@ nach § 15 Absatz 2 erhöht worden ist, einen bestimmten Wert nicht
 2.  für Sekt, Sekt b.A., Qualitätslikörwein b.A. und Qualitätsperlwein
     b.A. der Hersteller.
 
-Der Antrag ist der zuständigen Stelle auf einem Formblatt
-einzureichen, das die in Anlage 9 Abschnitt I aufgeführten Angaben
-enthält. Dem Antrag ist unentgeltlich eine Probe von drei Flaschen
-beizufügen. Die zuständige Stelle kann, soweit die Probe von
-drei Flaschen zur Beurteilung des Weines nicht ausreicht, weitere
+Der Antrag ist der zuständigen Stelle auf einem Formblatt, das die in
+Anlage 9 Abschnitt I aufgeführten Angaben enthält, oder, sofern die
+zuständige Stelle dies ermöglicht, elektronisch mit diesen Angaben
+einzureichen. Dem Antrag ist unentgeltlich eine Probe von drei
+Flaschen beizufügen. Die zuständige Stelle kann, soweit die Probe
+von drei Flaschen zur Beurteilung des Weines nicht ausreicht, weitere
 unentgeltliche Proben anfordern oder entnehmen lassen. Der Antrag
 ist mit einer fortlaufenden Nummer zu versehen (Antragsnummer). Die
 fortlaufende Zählung der Antragsnummern endet mit dem Kalenderjahr.
@@ -966,7 +970,7 @@ ausführen. Die Zulassung kann, auch nachträglich, inhaltlich
 beschränkt oder mit Auflagen verbunden werden. Sie kann versagt,
 zurückgenommen oder widerrufen werden, wenn das Labor
 
-1.  gegen die Weinbuch- oder Analysenbuchführung verstoßen,
+1.  gegen die Analysenbuchführung verstoßen,
 
 2.  an der Erschleichung einer Prüfungsnummer mitgewirkt,
 
@@ -1083,11 +1087,11 @@ Verfügungsgewalt befindet. Die Prüfungsnummer setzt sich zusammen aus:
 3.  den beiden letzten Ziffern der Jahreszahl der Antragstellung.
 
 Der Prüfungsbescheid und die Prüfungsnummer sind dem Antragsteller
-innerhalb von zehn Tagen nach der Prüfung schriftlich bekannt zu
-geben. Der Prüfungsbescheid ist mit einer Rechtsbehelfsbelehrung zu
-versehen. Soweit sich aus § 21 Absatz 4 nichts anderes ergibt, soll
-die Bekanntgabe innerhalb von drei Wochen nach dem Eingang des Antrags
-bei der zuständigen Stelle erfolgen.
+innerhalb von zehn Tagen nach der Prüfung schriftlich oder
+elektronisch bekannt zu geben. Der Prüfungsbescheid ist mit einer
+Rechtsbehelfsbelehrung zu versehen. Soweit sich aus § 21 Absatz 4
+nichts anderes ergibt, soll die Bekanntgabe innerhalb von drei Wochen
+nach dem Eingang des Antrags bei der zuständigen Stelle erfolgen.
 
 (2) Bei Qualitätsschaumwein oder Sekt, dem auf Grund des § 19 Absatz
 2 des Weingesetzes eine amtliche Prüfungsnummer zugeteilt worden
@@ -1201,68 +1205,122 @@ einbezogen werden, wenn die Voraussetzungen nach § 2 Nummer 23 des
 Weingesetzes erfüllt sind.
 
 
-### § 30 Auszeichnungen und ähnliche Angaben(zu § 24 Absatz 2 i. V. m. § 54 Absatz 1 des Weingesetzes)
+### § 30 Auszeichnungen und ähnliche Angaben (zu § 24 Absatz 2 in Verbindung mit § 54 Absatz 1 des Weingesetzes)
 
 (1) Eine bei einem im Inland durchgeführten Wettbewerb erhaltene
 Auszeichnung oder ein Gütezeichen darf in der Kennzeichnung
-inländischer Erzeugnisse nur nach Maßgabe der folgenden Bestimmungen
+inländischer Erzeugnisse nur nach Maßgabe der Absätze 2 bis 8
 angegeben werden.
 
-(2) Es muss sich
+(2) Es muss sich handeln
 
-1.  um
+1.  im Falle einer Auszeichnung um
 
     a)  eine Auszeichnung der Deutschen Landwirtschaftsgesellschaft e. V. oder
 
     b)  eine von einer Landesregierung anerkannte Auszeichnung,
 
-2.  um folgende Gütezeichen:
+2.  im Falle eines Gütezeichens um eines der folgenden Gütezeichen:
 
-    a)  „Deutsches Weinsiegel“ der Deutschen Landwirtschaftsgesellschaft e.
+    a)  „Erstes Gewächs“ des Komitee – Klassifikation Erster und Großer Lagen
+        in Deutschland e. V.,
+
+    b)  „Großes Gewächs“ des Komitee – Klassifikation Erster und Großer Lagen
+        in Deutschland e. V.,
+
+    c)  „Deutsches Weinsiegel“ der Deutschen Landwirtschaftsgesellschaft e.
         V. oder
 
-    b)  ein von der Landesregierung anerkanntes Gütezeichen
+    d)  ein von einer Landesregierung anerkanntes Gütezeichen.
 
-handeln. Im Falle des Satzes 1
+(3) Für eine Auszeichnung, das „Deutsche Weinsiegel“ oder ein von
+einer Landesregierung anerkanntes Gütezeichen muss der Wein bei einer
+im Rahmen eines Wettbewerbs in entsprechender Anwendung der Anlage
+9 Abschnitt II durchgeführten Sinnenprüfung mindestens die folgende
+Qualitätszahl erhalten haben:
 
-1.  Nummer 1 muss der Wein bei einer im Rahmen des Wettbewerbs in
-    entsprechender Anwendung der Anlage 9 Abschnitt II durchgeführten
-    Sinnenprüfung mindestens die Qualitätszahl 3,50 und
+1.  im Falle des Absatzes 2 Nummer 1 die Qualitätszahl 3,50 und
 
-2.  Nummer 2 muss der Wein bei einer in entsprechender Anwendung der
-    Anlage 9 Abschnitt II durchgeführten Sinnenprüfung mindestens die
-    Qualitätszahl 2,50
+2.  im Falle des Absatzes 2 Nummer 2 Buchstabe c und d die Qualitätszahl
+    2,50.
 
-erhalten haben. Anstelle einer Bewertung nach Anlage 9 Abschnitt II
-kann ein an internationalen Normen für Weinwettbewerbe orientiertes
-Bewertungsschema angewendet werden.
+Anstelle einer Bewertung nach Anlage 9 Abschnitt II kann ein
+an internationalen Normen für Weinwettbewerbe orientiertes
+Bewertungsschema angewendet werden. Die Anerkennung einer Auszeichnung
+nach Absatz 2 Nummer 1 Buchstabe b oder eines Gütezeichens nach Absatz
+2 Nummer 2 Buchstabe d durch eine Landesregierung setzt zusätzlich
+voraus, dass der Wein bei einem Wettbewerb unter objektiven,
+nichtdiskriminierenden Bedingungen im Vergleich mit anderen Weinen,
+die der gleichen Kategorie angehören und unter vergleichbaren
+Produktionsbedingungen hergestellt worden sind, geprüft wird.
 
-(3) Eine Auszeichnung oder ein Gütezeichen darf nur für Wein einer
-homogenen Partie vergeben werden, der aus demselben Behältnis
-stammt. Nach der Abfüllung müssen die Behältnisse entsprechend
+(4) Im Falle des Absatzes 2 Nummer 2 Buchstabe a und b muss es sich um
+einen Wein mit geschützter Ursprungsbezeichnung handeln, der den von
+dem Komitee – Klassifikation Erster und Großer Lagen in Deutschland
+e. V. festgelegten Vergabeanforderungen für das jeweilige Gütezeichen
+entspricht. Die Vergabeanforderungen nach Satz 1
+
+1.  müssen objektiv und dürfen nicht diskriminierend sein,
+
+2.  müssen insbesondere eine Bewertung und Klassifikation von Lagen
+    vorsehen,
+
+3.  müssen besonderen regionalen Gegebenheiten Rechnung tragen,
+    insbesondere hinsichtlich der Abgrenzung von Lagen, lagenspezifisch
+    festgelegter Rebsorten, Anbaumethoden oder Herstellungsverfahren,
+
+4.  können zusätzliche Vorgaben für die Kennzeichnung und Aufmachung in
+    Verbindung mit dem jeweiligen Gütezeichen enthalten.
+
+Besteht für Gebiete einer Region, für die Vergabeanforderungen unter
+Beachtung von Satz 2 Nummer 3 festgelegt werden, eine anerkannte
+Erzeugervereinigung, werden diejenigen Vergabeanforderungen, die den
+besonderen regionalen Gegebenheiten für diese Region Rechnung tragen,
+im Benehmen mit der anerkannten Erzeugervereinigung festgelegt.
+
+(5) Für das Verfahren zur Vergabe der Gütezeichen nach Absatz 2
+Nummer 2 Buchstabe a und b und zur Festlegung der Vergabeanforderungen
+nach Absatz 4 entwirft und aktualisiert der Komitee – Klassifikation
+Erster und Großer Lagen in Deutschland e. V. eine Geschäfts- und
+Prüfungsordnung. Die Geschäfts- und Prüfungsordnung einschließlich
+der Vergabeanforderungen bedürfen zu ihrer Wirksamkeit der vorherigen
+Zustimmung des Bundesministeriums für Landwirtschaft, Ernährung und
+Heimat. Vor Erteilung der Zustimmung sind die zuständigen obersten
+Landesbehörden anzuhören. Die Zustimmung nach Satz 2 ist vor
+wesentlichen Änderungen an der Geschäfts- und Prüfungsordnung oder an
+den Vergabeanforderungen zu erneuern. Zur Einholung der erforderlichen
+Zustimmung leitet der Komitee – Klassifikation Erster und Großer
+Lagen in Deutschland e. V. dem Bundesministerium für Landwirtschaft,
+Ernährung und Heimat die jeweiligen Entwürfe zu. Nach Erteilung der
+Zustimmung durch das Bundesministerium für Landwirtschaft, Ernährung
+und Heimat veröffentlicht der Komitee – Klassifikation Erster und
+Großer Lagen in Deutschland e. V. die Geschäfts- und Prüfungsordnung
+einschließlich der Vergabeanforderungen auf seiner Internetseite.
+
+(6) Eine Auszeichnung oder ein Gütezeichen darf nur für Wein einer
+homogenen Partie vergeben werden, der, außer bei den Gütezeichen
+nach Absatz 2 Nummer 2 Buchstabe a und b, aus demselben Behältnis
+stammen muss. Nach der Abfüllung müssen die Behältnisse entsprechend
 den Vorschriften der Rechtsakte der Europäischen Gemeinschaft oder
 der Europäischen Union, des Weingesetzes und der auf Grund des
 Weingesetzes erlassenen Rechtsverordnungen gekennzeichnet sein und mit
 einem nicht wiederverwendbaren Verschluss versehen sein.
 
-(4) (weggefallen)
+(7) Inländische Erzeugnisse, bei denen in der Kennzeichnung oder
+Aufmachung eine Angabe verwendet wird, die mit einer Auszeichnung
+oder einem Gütezeichen nach Absatz 2 verwechselt werden kann, ohne
+die Auszeichnung oder das Gütezeichen zu sein, dürfen nicht in Verkehr
+gebracht werden.
 
-(5) Eine Anerkennung nach Absatz 2 Satz 1 Nummer 1 Buchstabe b oder
-Nummer 2 Buchstabe b setzt voraus, dass ein Wein bei dem Wettbewerb
-unter objektiven, nicht diskriminierenden Bedingungen im Vergleich
-mit anderen Weinen, die der gleichen Kategorie angehören und unter
-vergleichbaren Produktionsbedingungen hergestellt worden sind, unter
-Anwendung des Bewertungsschemas nach Anlage 9 Abschnitt II oder eines
-abweichenden Bewertungsschemas im Sinne des Absatzes 2 Satz 3 geprüft
-wird.
-
-(6) Die Landesregierung unterrichtet das Bundesministerium für
-Ernährung und Landwirtschaft über eine Anerkennung einer Auszeichnung
-oder eines Gütezeichens. Das Bundesministerium für Ernährung und
-Landwirtschaft veröffentlicht zu Beginn eines Weinwirtschaftsjahres
+(8) Die zuständige oberste Landesbehörde unterrichtet das
+Bundesministerium für Landwirtschaft, Ernährung und Heimat
+über die Anerkennung einer Auszeichnung nach Absatz 2 Nummer
+1 Buchstabe b oder eines Gütezeichens nach Absatz 2 Nummer 2
+Buchstabe d. Das Bundesministerium für Landwirtschaft, Ernährung
+und Heimat veröffentlicht zu Beginn eines Weinwirtschaftsjahres
 ein Verzeichnis der Auszeichnungen und Gütezeichen der Deutschen
 Landwirtschaftsgesellschaft e. V. sowie der von den Landesregierungen
-anerkannten Auszeichnungen und Gütezeichen auf seiner Homepage.
+anerkannten Auszeichnungen und Gütezeichen auf seiner Internetseite.
 
 
 ### § 31 Wein für religiöse Zwecke(zu § 24 Absatz 2 des Weingesetzes)
@@ -1376,264 +1434,65 @@ Eine Kennzeichnung mit mehreren Angaben nach Anhang V der genannten
 Verordnung ist nicht zulässig.
 
 
-### § 32a Classic (zu § 24 Absatz 2 Nummer 1 bis 3 des Weingesetzes)
+### § 32a Classic (§ 24 Absatz 2 Nummer 1 bis 3 des Weingesetzes)
 
-Die Bezeichnung "Classic" darf nur verwendet werden, wenn es sich um
-Qualitätswein der Weinart Weißwein oder Rotwein handelt und
+(1) Die Bezeichnung „Classic“ darf nur verwendet werden, wenn
 
-1.  eine einzige Rebsorte angegeben wird; die Rebsorte muss in Verbindung
-    mit der Bezeichnung "Classic" angegeben werden,
+1.  es sich um einen Wein mit geschützter Ursprungsbezeichnung der Weinart
+    Weißwein oder Rotwein handelt,
 
-2.  er mit Ausnahme der zur Süßung verwendeten Erzeugnisse ausschließlich
-    aus Weintrauben von gebietstypischen klassischen Rebsorten hergestellt
-    worden ist,
+2.  eine einzige Rebsorte in Verbindung mit der Bezeichnung „Classic“
+    angegeben wird,
 
-3.  der zur Herstellung verwendete Most einen natürlichen
+3.  der Wein ausschließlich aus Weintrauben von dafür in der jeweiligen
+    Produktspezifikation festgelegten gebietstypischen klassischen
+    Rebsorten hergestellt worden ist, ausgenommen die zur Süßung
+    verwendeten Erzeugnisse,
+
+4.  der zur Herstellung verwendete Most einen natürlichen
     Mindestalkoholgehalt aufgewiesen hat, der mindestens 1 Volumenprozent
-    über dem natürlichen Mindestalkoholgehalt liegt, der für das
-    bestimmte Anbaugebiet oder dessen Teil vorgeschrieben ist, in dem die
+    über dem natürlichen Mindestalkoholgehalt liegt, der für die bestimmte
+    Ursprungsbezeichnung oder dessen Teil vorgeschrieben ist, in dem die
     Weintrauben geerntet worden sind,
 
-4.  der Gesamtalkoholgehalt mindestens
+5.  der Gesamtalkoholgehalt mindestens
 
-    a)  11,5 Volumenprozent, sofern die zur Herstellung des Weines verwendeten
-        Weintrauben im bestimmten Anbaugebiet Mosel geerntet worden sind,
+    a)  11,5 Volumenprozent beträgt, sofern die zur Herstellung des Weines
+        verwendeten Weintrauben im abgegrenzten geografischen Gebiet der
+        geschützten Ursprungsbezeichnung „Mosel“ geerntet worden sind, oder
 
-    b)  12 Volumenprozent, sofern die zur Herstellung des Weines verwendeten
-        Weintrauben in einem anderen bestimmten Anbaugebiet geerntet worden
-        sind,
+    b)  12 Volumenprozent beträgt, sofern die zur Herstellung des Weines
+        verwendeten Weintrauben in einem abgegrenzten geografischen Gebiet
+        einer anderen geschützten Ursprungsbezeichnung geerntet worden sind,
 
-    beträgt,
-
-5.  zur Angabe der Herkunft ein in § 23 Absatz 1 des Weingesetzes
-    genannter Name nicht angegeben wird,
-
-6.  der Jahrgang angegeben wird,
-
-7.  der Restzuckergehalt nicht mehr als 15 Gramm je Liter beträgt und den
-    Gesamtsäuregehalt um nicht mehr als das Doppelte übersteigt und
-
-8.  eine Geschmacksangabe nicht verwendet wird.
-
-
-### § 32b Erstes Gewächs und Großes Gewächs(zu § 24 Absatz 2 Nummer 1 bis 3 des Weingesetzes)
-
-(1) Die Bezeichnung „Erstes Gewächs“ darf nur verwendet werden, wenn
-es sich um Wein mit geschützter Ursprungsbezeichnung der Weinart
-Weißwein oder Rotwein handelt und
-
-1.  eine einzige Rebsorte angegeben wird,
-
-2.  er ausschließlich aus Weintrauben von zum Gebietsprofil passenden
-    und in der jeweiligen Produktspezifikation festgelegten Rebsorten
-    hergestellt worden ist, ausgenommen die zur Süßung verwendeten
-    Erzeugnisse,
-
-3.  die zur Herstellung verwendeten Weintrauben von Flächen stammen, deren
-    Ertrag
-
-    a)  60 Hektoliter je Hektar oder
-
-    b)  70 Hektoliter je Hektar, soweit die verwendeten Weintrauben von
-        Steillagenflächen im Sinne des § 34b Absatz 1 stammen,
-
-    an Traubenmost nicht überschritten hat,
-
-4.  die zur Herstellung verwendeten Weintrauben unter Berücksichtigung
-    ihres Gesundheits- und Reifezustands selektiv gelesen worden sind,
-
-5.  der zur Herstellung verwendete Traubenmost in den Anbaugebieten Mosel,
-    Saale-Unstrut und Sachsen einen natürlichen Mindestalkoholgehalt von
-    mindestens 10,5 Volumenprozent sowie in allen übrigen Anbaugebieten
-    von mindestens 11,0 Volumenprozent aufweist,
-
-6.  eine Einzellage oder eine kleinere geografische Einheit nach § 23
-    Absatz 1 Nummer 2 des Weingesetzes angegeben wird,
+6.  in der Bezeichnung keine kleinere geografische Einheit gemäß § 23
+    Absatz 1 des Weingesetzes angegeben wird,
 
 7.  der Jahrgang angegeben wird,
 
-8.  er die nach den Rechtsakten der Europäischen Gemeinschaft oder der
-    Europäischen Union bei Wein geltenden Anforderungen für die Verwendung
-    der Geschmacksangabe „trocken“ einhält,
+8.  der Restzuckergehalt nicht mehr als 15 Gramm je Liter beträgt und den
+    Gesamtsäuregehalt um nicht mehr als das Doppelte übersteigt,
 
-9.  eine Geschmacksangabe nicht verwendet wird,
+9.  eine Geschmacksangabe nicht verwendet wird und
 
-10. er nicht vor dem 1. März des auf das Erntejahr der verwendeten Trauben
-    folgenden Jahres an Endverbraucher abgegeben wird,
+10. eine Prädikatsangabe in der Kennzeichnung nicht verwendet wird.
 
-11. eine Prädikatsangabe in der Kennzeichnung nicht verwendet wird.
-
-In der jeweiligen Produktspezifikation kann festgelegt werden, dass
-der Wein besondere gebiets- und rebsortentypische Merkmale aufweisen
-muss und einer nach Zeitpunkt, Bedingungen und Verfahren festgelegten
-gesonderten sensorischen Prüfung unterliegt.
-
-(2) Die Bezeichnung „Großes Gewächs“ darf nur verwendet werden, wenn
-es sich um Wein mit geschützter Ursprungsbezeichnung der Weinart
-Weißwein oder Rotwein handelt und
-
-1.  die Anforderungen nach Absatz 1 Nummer 1, 2, 5 bis 9 und 11 erfüllt
-    sind,
-
-2.  die zur Herstellung verwendeten Weintrauben von Flächen stammen, deren
-    Ertrag
-
-    a)  50 Hektoliter je Hektar oder
-
-    b)  60 Hektoliter je Hektar, soweit die verwendeten Weintrauben von
-        Steillagenflächen im Sinne des § 34b Absatz 1 stammen,
-
-    an Traubenmost nicht überschritten hat,
-
-3.  die zur Herstellung verwendeten Weintrauben von Hand gelesen worden
-    sind,
-
-4.  er zum Zeitpunkt einer in der jeweiligen Produktspezifikation
-    festgelegten gesonderten Prüfung, die nicht später als sechs Monate
-    nach Zuteilung einer amtlichen Prüfungsnummer erfolgen darf, die
-    besonderen gebiets- und rebsortentypischen sensorischen Merkmale
-    aufweist und
-
-5.  er nicht vor dem 1. September des auf das Erntejahr der verwendeten
-    Trauben folgenden Jahres an Endverbraucher abgegeben wird. Für
-    Rotweine verlängert sich diese Frist um neun Monate.
-
-(3) In der jeweiligen Produktspezifikation können zusätzliche und
-strengere Anforderungen für die Verwendung der Bezeichnung „Erstes
-Gewächs“ und „Großes Gewächs“ festgelegt werden, soweit dies
-erforderlich ist, um regionalen Gegebenheiten Rechnung zu tragen,
-insbesondere hinsichtlich
-
-1.  der erforderlichen natürlichen Mindestalkoholgehalte der verwendeten
-    Traubenmoste,
-
-2.  der maximalen Erträge je Hektar,
-
-3.  der Abgrenzung oder Anmeldung besonderer Anbauflächen.
-
-(4) Bestehende Bezeichnungen, die die Begriffe „Erstes Gewächs“ oder
-„Großes Gewächs“ enthalten, dürfen weiterverwendet werden, wenn sie
-die in den Absätzen 1 bis 3 genannten Mindestanforderungen erfüllen.
-Soweit die nach Absatz 1 Nummer 2 und Absatz 2 Nummer 4 vorgesehenen
-Festlegungen in den Produktspezifikationen noch nicht getroffen sind,
-sind die entsprechenden verbandsinternen oder betrieblich festgelegten
-Anforderungen an die bestehenden Bezeichnungen weiter anzuwenden.
-
-
-### § 32c Weitere Bestimmungen für Classic (zu § 16 Absatz 2 Satz 1 und § 24 Absatz 2 Nummer 1 bis 3, dieser i.V.m. § 54 Absatz 1 des Weingesetzes)
-
-(1) Die in § 32a genannte Bezeichnung darf ferner nur verwendet
-werden, wenn
-
-1.  der Wein abgefüllt in den Verkehr gebracht wird, der Abfüller, soweit
-    die zur Herstellung des Weines verwendeten Trauben nicht in seinem
-    Weinbaubetrieb geerntet und dort zu Wein bereitet worden sind, der
-    nach Landesrecht zuständigen Stelle bis zum 1. September eines jeden
-    Jahres den Abschluss einer zwischen ihm und einem Weinbaubetrieb
-    oder einem Zusammenschluss von Weinbaubetrieben (Betrieb) getroffenen
-    Vereinbarung angezeigt hat, die mindestens Folgendes enthält:
-
-    a)  Name und Anschrift der Vertragsparteien,
-
-    b)  Laufzeit des Vertrages,
-
-    c)  Verpflichtung des Betriebs zur Lieferung einer bestimmten Mindestmenge
-        an Trauben, Maische, Traubenmost oder Wein aus der Ernte des
-        jeweiligen Jahres,
-
-    d)  Verpflichtung des Abfüllers zur Abnahme einer bestimmten Mindestmenge
-        an Trauben, Maische, Traubenmost oder Wein aus der Ernte des
-        jeweiligen Jahres,
-
-2.  der in Nummer 1 genannte Abfüller die dort in Buchstabe d genannten
-    Erzeugnisse entsprechend der eingegangenen Verpflichtung abgenommen
-    hat,
-
-3.  der Wein von einem in Nummer 1 genannten Abfüller abgefüllt in
-    den Verkehr gebracht wird, die zu seiner Herstellung verwendeten
-    Erzeugnisse mit Ausnahme der zur Süßung verwendeten Erzeugnisse
-    Gegenstand einer Vereinbarung nach Nummer 1 gewesen sind.
-
-(1a) Abweichend von Absatz 1 Nummer 1 bis 3 darf die in § 32a genannte
-Bezeichnung in dem Fall, dass der Abfüller die zur Herstellung des
-Weines verwendeten Trauben nicht in seinem Betrieb geerntet und zu
-Wein bereitet hat, verwendet werden, wenn der Abfüller den Wein oder
-die zu seiner Herstellung verwendeten Erzeugnisse als Erzeugnisse, die
-in der Weinbuchführung und den Begleitpapieren als zur Verwendung der
-Bezeichnung „Classic“ geeignet bezeichnet werden, erworben hat von
-
-1.  einem Betrieb, der eine den Anforderungen nach Absatz 1 entsprechende
-    Vereinbarung mit einem Weinbaubetrieb oder einem Zusammenschluss von
-    Weinbaubetrieben abgeschlossen hat, den Abschluss der zuständigen
-    Behörde innerhalb der in Absatz 1 bestimmten Frist angezeigt und
-    die in der Vereinbarung genannten Erzeugnisse entsprechend der
-    eingegangenen Verpflichtung abgenommen hat,
-
-2.  einer Erzeugergemeinschaft, die nach dem Marktstrukturgesetz anerkannt
-    ist und das jeweilige Erzeugnis ausschließlich aus Trauben ihrer
-    Mitgliedsbetriebe hergestellt hat, oder
-
-3.  – soweit sonstige Betriebe beteiligt sind und mehrere Erwerbsgeschäfte
-    vorliegen – einem sonstigen Betrieb, sofern es sich beim ersten
-    Erwerbsgeschäft, an dem ein sonstiger Betrieb beteiligt ist, um eine
-    Abgabe durch einen unter Nummer 1 oder 2 genannten Betrieb handelt.
-
-(2) Um sicherzustellen, dass für die Herstellung von Wein mit der
-Angabe "Classic" nur für das jeweilige bestimmte Anbaugebiet typische
-klassische Rebsorten verwandt werden, legen die Landesregierungen
-durch Rechtsverordnung die jeweils zulässigen Rebsorten fest.
-Dabei kann vorgeschrieben werden, dass ausschließlich bestimmte
-Rebsortennamen oder synonyme Bezeichnungen verwendet werden dürfen.
-
-(3) Die Landesregierungen können durch Rechtsverordnung vorschreiben,
+(2) In der jeweiligen Produktspezifikation kann festgelegt werden,
 dass
 
-1.  die in Absatz 1 Nummer 1 genannte Vereinbarung weitere Bestandteile
-    enthalten muss,
+1.  für die Angabe nach Absatz 1 Nummer 2 nur bestimmte Rebsortennamen
+    oder synonyme Bezeichnungen verwendet werden dürfen,
 
-2.  abweichend von § 32a Nummer 5 zur Angabe der Herkunft der Name eines
-    Bereiches zu verwenden ist.
+2.  abweichend von Absatz 1 Nummer 6 der Name eines Bereiches anzugeben
+    ist.
 
-(4) (weggefallen)
-
-(5) (weggefallen)
-
-
-### § 32d Abweichungen; Ausnahmen(zu § 24 Absatz 2 Nummer 1 bis 3 des Weingesetzes)
-
-(1) Abweichend von
-
-1.  § 32a Nummer 1 dürfen bei einem als „Classic“ bezeichneten
-    Qualitätswein aus im bestimmten Anbaugebiet Württemberg geernteten
-    Weintrauben die Rebsorten Trollinger und Lemberger angegeben werden,
-    soweit diese Rebsorten durch Rechtsverordnung nach § 32c Absatz 2
-    festgelegt worden sind; diese Rebsorten müssen in Verbindung mit der
-    Bezeichnung „Classic“ angegeben werden,
-
-2.  den §§ 32a bis 32c Absatz 1 darf die Bezeichnung „Classic“ von einem
-    Abfüller für andere als die dort genannten Qualitätsweine und für
-    Prädikatsweine bis zum Ablauf des 31. Dezember 2020 weiterverwendet
-    werden, wenn er sie vor dem 6. Dezember 2000 in Übereinstimmung mit
-    den maßgeblichen Rechtsakten der Europäischen Gemeinschaft verwendet
-    hat.
-
-(2) (weggefallen)
-
-(3) Die Bezeichnung „Classic“ darf von einem Hersteller oder Verkäufer
-für Qualitätsschaumwein, bei dem nach den Rechtsakten der Europäischen
-Gemeinschaft die Angabe Deutschland oder deutsch oder der Name einer
-kleineren geografischen Einheit als Deutschland verwendet wird, oder
-für deutschen Sekt b.A., deren zur Bereitung der Cuvée verwendete
-Erzeugnisse die Anforderungen nach den §§ 32a bis 32c nicht erfüllen,
-bis zum 31. Dezember 2015 weiterverwendet werden, wenn er sie vor dem
-6\. Dezember 2000 in Übereinstimmung mit den maßgeblichen Rechtsakten
-der Europäischen Gemeinschaft verwendet hat.
-
-(4) (weggefallen)
-
-(5) Qualitätswein, der nach den bis zum 8. Juli 2002 geltenden
-Vorschriften als „Classic“ gekennzeichnet ist, darf noch bis zum
-Aufbrauchen der Bestände in den Verkehr gebracht werden.
+(3) Abweichend von Absatz 1 Nummer 2 dürfen bei einem als „Classic“
+bezeichneten Wein aus im abgegrenzten geografischen Gebiet der
+geschützten Ursprungsbezeichnung „Württemberg“ geernteten Weintrauben
+die Rebsorten Trollinger und Lemberger angegeben werden, sofern diese
+Rebsorten in der Produktspezifikation festgelegt worden sind. Diese
+Rebsorten müssen in Verbindung mit der Bezeichnung „Classic“ angegeben
+werden.
 
 
 ### § 33 Liebfrau(en)milch; Hock(zu § 24 Absatz 2 des Weingesetzes)
@@ -1686,13 +1545,17 @@ verschlossen ist, wobei der Stopfen ganz und der Flaschenhals ganz
 oder teilweise mit Folie umkleidet sein muss und die Haltevorrichtung
 mit einem Plättchen unterlegt sein kann. Bei Glasflaschen mit
 einem Nennvolumen von nicht mehr als 0,20 Liter kann ein sonstiger
-geeigneter Verschluss verwendet werden.
+geeigneter Verschluss verwendet werden. Abweichend von Satz 1 und in
+Übereinstimmung mit Artikel 57 Absatz 1 Unterabsatz 3 der Delegierten
+Verordnung (EU) 2019/33 in der Fassung vom 30. Oktober 2024 können
+Erzeuger entscheiden, die Haltevorrichtung nicht mit einer Folie zu
+umkleiden.
 
 (3) Schaumwein mit zugesetzter Kohlensäure und unter Verwendung
-von Likör, der Goldflitter enthält, hergestellte aromatisierte
-schaumweinhaltige Getränke dürfen in der in Artikel 57 Absatz 1 der
-Delegierten Verordnung (EU) 2019/33 bezeichneten Aufmachung in Verkehr
-gebracht werden.
+von Goldflitter hergestellte Getränke mit mindestens 95 Prozent
+Schaumweinanteil dürfen in der in Artikel 57 Absatz 1 der Delegierten
+Verordnung (EU) 2019/33 in der Fassung vom 30. Oktober 2024
+bezeichneten Aufmachung in den Verkehr gebracht werden.
 
 
 ### § 34 Riesling-Hochgewächs; Der Neue; primeur(zu § 24 Absatz 2 des Weingesetzes)
@@ -1733,15 +1596,15 @@ werden, wenn
 1.  die Voraussetzungen nach Artikel 53 Absatz 5 der Delegierten
     Verordnung (EU) 2019/33 erfüllt sind,
 
-2.  der Name des bestimmten Anbaugebietes angegeben ist und
+2.  der Name der geschützten Ursprungsbezeichnung angegeben ist und
 
 3.  die Vermarktung in der in § 33a Absatz 2 vorgeschriebenen Aufmachung
     erfolgt.
 
-(2) Die Landesregierungen können durch Rechtsverordnung zusätzliche
-Voraussetzungen für die Verwendung der Bezeichnung „Crémant“
-festlegen, soweit dies erforderlich ist, um regionalen Gegebenheiten
-Rechnung zu tragen.
+(2) In der jeweiligen Produktspezifikation können zusätzliche und
+strengere Anforderungen für die Verwendung der Bezeichnung „Crémant“
+festgelegt werden, soweit dies erforderlich ist, um regionalen
+Gegebenheiten Rechnung zu tragen.
 
 (3) Ein Sekt b.A. darf unter der Bezeichnung „Winzersekt“ nur in
 Verkehr gebracht werden, wenn folgende Anforderungen erfüllt sind:
@@ -1811,19 +1674,20 @@ gleichzeitig verwendet werden.
 
 ### § 34c Teilweise gegorener Traubenmost(zu § 24 Absatz 2 Nummer 1, 2 und 3 des Weingesetzes)
 
-(1) Nur bei einem teilweise gegorenen Traubenmost mit geschützter
-geografischer Angabe oder geschützter Ursprungsbezeichnung, der
-zum unmittelbaren Verbrauch bestimmt ist, ist die Verwendung des
-Begriffs „Federweißer“ zulässig. Bei der ausschließlichen Verwendung
-von Rotweintrauben ist die Voranstellung des Wortes „Roter“ oder
-an Stelle des Begriffs „Federweißer“ die Verwendung des Begriffs
-„Federroter“ zulässig. Die Bezeichnung „Federrotling“ ist nur bei
-einem teilweise gegorenen Traubenmost im Sinne von Satz 1 von blass-
-bis hellroter Farbe zulässig, der abweichend von § 18 Absatz 1 durch
-Verschneiden von Weißweintrauben, auch gemaischt, mit Rotweintrauben,
-auch gemaischt, hergestellt ist. Nur bei einem inländischen
-teilweise gegorenen Traubenmost ohne geschützte geografische Angabe
-und geschützte Ursprungsbezeichnung im Sinne von Artikel 93 Absatz
+(1) Nur bei einem teilweise gegorenen Traubenmost aus frischem
+Traubenmost mit geschützter geografischer Angabe oder geschützter
+Ursprungsbezeichnung, der zum unmittelbaren Verbrauch bestimmt ist,
+ist die Verwendung des Begriffs „Federweißer“ zulässig. Bei der
+ausschließlichen Verwendung von Rotweintrauben ist die Voranstellung
+des Wortes „Roter“ oder an Stelle des Begriffs „Federweißer“ die
+Verwendung des Begriffs „Federroter“ zulässig. Die Bezeichnung
+„Federrotling“ ist nur bei einem teilweise gegorenen Traubenmost
+im Sinne von Satz 1 von blass- bis hellroter Farbe zulässig, der
+abweichend von § 18 Absatz 1 durch Verschneiden von Weißweintrauben,
+auch gemaischt, mit Rotweintrauben, auch gemaischt, hergestellt
+ist. Nur bei einem inländischen teilweise gegorenen Traubenmost
+aus frischem Traubenmost ohne geschützte geografische Angabe und
+geschützte Ursprungsbezeichnung im Sinne von Artikel 93 Absatz
 1 Buchstabe a und b der Verordnung (EU) Nr. 1308/2013, der zum
 unmittelbaren Verbrauch bestimmt ist, darf ergänzend zur Bezeichnung
 nach Anhang VII Teil II Nummer 11 der Verordnung (EU) Nr. 1308/2013
@@ -1834,8 +1698,9 @@ werden. Weitere Ergänzungen sind nicht zulässig.
 (2) Bei einem teilweise gegorenen Traubenmost, der zum unmittelbaren
 Verbrauch bestimmt ist und in einem anderen Mitgliedstaat der
 Europäischen Union hergestellt worden ist, ist der Begriff
-„Federweißer“ nur zulässig, wenn in der Kennzeichnung eine für
-den jeweiligen Mitgliedstaat geschützte geografische Angabe oder
+„Federweißer“ nur zulässig, wenn er aus frischem Traubenmost
+hergestellt worden ist und in der Kennzeichnung eine für den
+jeweiligen Mitgliedstaat geschützte geografische Angabe oder
 geschützte Ursprungsbezeichnung im Sinne des Artikels 93 Absatz 1
 Buchstabe a oder b der Verordnung (EU) Nr. 1308/2013 verwendet wird.
 
@@ -1852,6 +1717,9 @@ werden. Abweichend von Satz 1 darf ein weinhaltiges Getränk, das
 durch Vermischen von Wein, Perlwein oder Perlwein mit zugesetzter
 Kohlensäure mit kohlensäurehaltigem Wasser hergestellt wird, als
 Schorle oder bei Verwendung von Wein als Weinschorle bezeichnet
+werden. Satz 2 gilt entsprechend für alkoholfreie Getränke, die durch
+Vermischen von entalkoholisiertem Wein, Perlwein oder Perlwein mit
+zugesetzter Kohlensäure mit kohlensäurehaltigem Wasser hergestellt
 werden.
 
 
@@ -2034,7 +1902,7 @@ Name
 
     a)  ist diesem deutlich lesbar und unverwischbar in gleicher Farbe und
         in einer Schriftgröße, bei der die Buchstaben unabhängig von der
-        verwendeten Schriftart mindestens 1,2 Millimeter groß sind, stets der
+        verwendeten Schriftart mindestens 1,2 Millimeter groß sind, der
         Gemeinde- oder Ortsteilname unmittelbar voranzustellen oder anzufügen,
 
     b)  darf das Erzeugnis nicht vor dem 1. März des auf den Erntejahrgang
@@ -2403,58 +2271,7 @@ Aufzeichnung auf Nachfrage zugänglich ist. Absatz 3 Satz 4 gilt
 entsprechend.
 
 
-### § 47 Schäumende Getränke aus entalkoholisiertem Wein, teilweise entalkoholisiertem Wein und Wein(zu § 26 Absatz 3 Satz 1 des Weingesetzes)
-
-(1) Schäumende Getränke, die unter Zusatz von Kohlensäure aus
-entalkoholisiertem Wein hergestellt sind, dürfen, auch soweit sie nach
-Artikel 57 der Delegierten Verordnung (EU) 2019/33 aufgemacht sind, in
-den Verkehr gebracht werden, wenn sie
-
-1.  weniger als 0,5 Volumenprozent Alkohol enthalten und
-
-2.  als „Schäumendes Getränk aus entalkoholisiertem Wein“ auf den
-    Flaschen, Behältnissen, Verpackungen, Getränkekarten und Preislisten
-    bezeichnet sind.
-
-Auf dem mit dem Behältnis verbundenen Etikett hat derjenige,
-der das Etikett anbringt, die Angabe „Schäumendes Getränk aus
-entalkoholisiertem Wein“ in Schriftzeichen der gleichen Art, Farbe
-und Größe so anzugeben, dass sie sich deutlich von den anderen Angaben
-abhebt.
-
-(2) Schäumende Getränke, die durch Vergärung oder unter Zusatz von
-Kohlensäure aus teilweise entalkoholisiertem Wein oder dem Vermischen
-aus entalkoholisiertem oder teilweise entalkoholisiertem Wein und
-Wein hergestellt sind, dürfen, auch soweit sie nach Artikel 57 der
-Delegierten Verordnung (EU) 2019/33 aufgemacht sind, in den Verkehr
-gebracht werden, wenn sie
-
-1.  mehr als 0,5 Volumenprozent und weniger als 4 Volumenprozent Alkohol
-    enthalten und
-
-2.  als „Schäumendes Getränk aus alkoholreduziertem Wein“ auf den
-    Flaschen, Behältnissen, Verpackungen, Getränkekarten und Preislisten
-    bezeichnet sind.
-
-Auf dem mit dem Behältnis verbundenen Etikett hat derjenige,
-der das Etikett anbringt, die Angabe „Schäumendes Getränk aus
-alkoholreduziertem Wein“ in Schriftzeichen der gleichen Art, Farbe
-und Größe so anzugeben, dass sie sich deutlich von den anderen Angaben
-abhebt.
-
-(3) In den Fällen des Absatzes 1 Satz 1 Nummer 2 und des Absatzes
-2 Satz 1 Nummer 2 darf der Name einer einzigen Rebsorte angegeben
-werden, wenn mindestens 85 Prozent des Erzeugnisses aus dieser
-Rebsorte hergestellt worden sind.
-
-(4) Die in den Absätzen 1 und 2 genannten Getränke dürfen nur in den
-Verkehr gebracht werden, wenn bei ihrer Herstellung
-
-1.  kein Wasser zugesetzt worden ist und
-
-2.  zur Süßung, sofern sie gesüßt worden sind, ausschließlich Saccharose
-    Traubenmost oder rektifiziertes Traubenmostkonzentrat zugesetzt worden
-    sind.
+### § 47 (weggefallen)
 
 
 ### § 48 (weggefallen)
@@ -2543,8 +2360,7 @@ Kennzeichnung unterscheidet.
 
 ### § 52 Straftaten
 
-(1) Nach § 48 Absatz 1 Nummer 2, Absatz 2, 3 des Weingesetzes wird
-bestraft, wer vorsätzlich oder fahrlässig
+(1) Nach § 48 Absatz 1 Nummer 2 des Weingesetzes wird bestraft, wer
 
 1.  entgegen § 11 Absatz 1 ein anderes Behandlungsverfahren anwendet oder
     einen anderen Stoff zusetzt,
@@ -2593,11 +2409,8 @@ bestraft, wer vorsätzlich oder fahrlässig
 
 ### § 53 Ordnungswidrigkeiten
 
-(1) Wer eine in § 52 Absatz 2 bezeichnete Handlung fahrlässig begeht,
-handelt nach § 50 Absatz 1 des Weingesetzes ordnungswidrig.
-
-(2) Ordnungswidrig im Sinne des § 50 Absatz 2 Nummer 4 des
-Weingesetzes handelt, wer vorsätzlich oder fahrlässig
+Ordnungswidrig im Sinne des § 50 Absatz 2 Nummer 4 des Weingesetzes
+handelt, wer vorsätzlich oder fahrlässig
 
 1.  entgegen § 14 ein Erzeugnis gewerbsmäßig verarbeitet, befördert,
     lagert, verwertet oder in den Verkehr bringt,
@@ -2632,7 +2445,7 @@ Weingesetzes handelt, wer vorsätzlich oder fahrlässig
 
 12. entgegen § 32a eine dort genannte Bezeichnung verwendet,
 
-13. entgegen § 32c Absatz 1 eine dort genannte Bezeichnung verwendet,
+13. (weggefallen)
 
 14. (weggefallen)
 
@@ -2834,6 +2647,26 @@ landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen
 Bezug genommenen Fassung weiterhin Anwendung finden, ist § 39a Absatz
 2 Satz 2 und Absatz 3 Satz 2 in der bis zum 27. Juni 2024 geltenden
 Fassung weiter anzuwenden.
+
+(23) Abweichend von § 30 dürfen für Erzeugnisse aus Trauben die
+Bezeichnungen „Erstes Gewächs“ und „Großes Gewächs“ bis einschließlich
+des Erntejahrgangs 2030, spätestens aber bis zur Wirksamkeit der
+Geschäfts- und Prüfungsordnung einschließlich der Vergabeanforderungen
+gemäß § 30 Absatz 5, nach den bis zum Ablauf des 1. September 2026
+geltenden Vorschriften verwendet und bis zum Aufbrauchen der Bestände
+in den Verkehr gebracht werden.
+
+(24) Abweichend von § 32a darf für Erzeugnisse aus Trauben die
+Bezeichnung „Classic“ bis einschließlich des Erntejahrgangs 2028
+nach den bis zum Ablauf des 1. September 2026 geltenden Vorschriften
+verwendet und bis zum Aufbrauchen der Bestände in den Verkehr gebracht
+werden.
+
+(25) Abweichend von § 34a darf für Erzeugnisse aus Trauben die
+Bezeichnung „Crémant“ bis einschließlich des Erntejahrgangs 2028
+nach den bis zum Ablauf des 1. September 2026 geltenden Vorschriften
+verwendet und bis zum Aufbrauchen der Bestände in den Verkehr gebracht
+werden.
 
 
 ### Anlage 1 Grundsätze zur Anerkennung von Witterungsverhältnissen als für den Weinanbau außergewöhnlich ungünstige Witterungsverhältnisse(zu § 15 Absatz 3a Weinverordnung)

@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 V v. 11.12.2024 I Nr. 411
 
+Änderung durch
+:   Art. 4 V v. 24.8.2026 I Nr. 243 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1 Anwendungsbereich
 
@@ -311,7 +314,7 @@ c)  in Verbindung mit Satz 1 des Anhangs der Verordnung (EU) Nr. 231/2012
     bb) ein Lebensmittel, das einen unter Verwendung von Ethylenoxid
         sterilisierten Lebensmittelzusatzstoff enthält, oder
 
-d)  in Verbindung mit Satz 2 des Anhangs der Verordnung (EU) Nr. 231/2021
+d)  in Verbindung mit Satz 2 des Anhangs der Verordnung (EU) Nr. 231/2012
     einen Lebensmittelzusatzstoff oder ein Gemisch
 
 in Verkehr bringt.
