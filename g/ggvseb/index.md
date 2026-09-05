@@ -16,13 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 1389
 
 Neugefasst durch
-:   Bek. v. 18.8.2023 I Nr. 227;
-
-Zuletzt geändert durch
-:   Art. 2 V v. 19.6.2025 I Nr. 147
-
-Neufassung durch
-:   Bek. v. 26.8.2026 I Nr. 242 mWv 26.6.2026 noch nicht berücksichtigt
+:   Bek. v. 26.8.2026 I Nr. 242
 
 
 ## § 1 Geltungsbereich
@@ -140,8 +134,7 @@ in
 
 7.  einen MEGC,
 
-8.  einen Groß- oder Kleincontainer für die Beförderung in loser
-    Schüttung,
+8.  *Groß- oder Kleincontainer* für die Beförderung in loser Schüttung,
 
 9.  einen Schüttgut-Container,
 
@@ -201,7 +194,7 @@ Versandstücke oder deren Kennzeichnung oder Bezettelung ändert oder
 Verpackungsvorganges, bestehend aus der Verpackung, der Großverpackung
 oder dem IBC und ihrem beziehungsweise seinem Inhalt. Der Begriff
 umfasst die Gefäße für Gase sowie die Gegenstände, die wegen
-ihrer Größe, Masse oder Formgebung unverpackt oder in Schlitten,
+ihrer Größe, Masse oder Formgebung unverpackt, oder in Schlitten,
 Verschlägen oder Handhabungseinrichtungen befördert werden dürfen.
 Mit Ausnahme der Beförderung radioaktiver Stoffe gilt dieser Begriff
 weder für Güter, die in loser Schüttung, noch für Güter, die in
@@ -209,7 +202,7 @@ Tanks oder Ladetanks befördert werden. An Bord von Schiffen schließt
 der Begriff Versandstück auch die Fahrzeuge, Wagen, Container
 einschließlich Wechselaufbauten, Tankcontainer, ortsbewegliche
 Tanks, Großverpackungen, IBC, Batterie-Fahrzeuge, Batteriewagen,
-Tankfahrzeuge, Kesselwagen und MEGC ein.
+Tankfahrzeuge, Kesselwagen *MEGC* ein.
 
 (6) Fahrzeuge sind im innerstaatlichen Verkehr und
 innergemeinschaftlichen Verkehr – abweichend von der
@@ -1189,8 +1182,8 @@ Behörde für Kontrollen nach Unterabschnitt 1.8.1.4 ADN.
 
 (8) Die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik
 Telekommunikation ist zuständig nach der IMO Resolution A.749
-(18) einschließlich deren Anlage “Code über Intaktstabilität aller
-Schiffstypen” in der Fassung der Bekanntmachung vom 18. März 1999
+(18) einschließlich deren Anlage „Code über Intaktstabilität aller
+Schiffstypen“ in der Fassung der Bekanntmachung vom 18. März 1999
 (VkBl. S. 164) für die Prüfung der Stabilitätsunterlagen nach Absatz
 9\.2.0.94.4 ADN.
 
@@ -2915,12 +2908,12 @@ Für die nachfolgend genannten gefährlichen Güter gelten die §§ 35 und
 | lfd. Nr. | Klasse/ Unter- klasse | Stoff oder Gegenstand | Geltung der §§ 35 und 35a | Beförderung in | Bemerkungen |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Tanks ab | Versandstücken ab |  |  |  |  |  |
-| 1 | 1.1 | explosive Stoffe und Gegenstände mit Explosivstoff | § 35 und § 35a | nicht zulässig | 1 000 kg Nettoexplosivstoffmasse | Siehe Ausnahmen nach § 35c Absatz 9 |
-| 1.2 | explosive Stoffe und Gegenstände mit Explosivstoff | § 35 und § 35a | nicht zulässig | 1 000 kg Nettoexplosivstoffmasse |  |  |
-| 1.5 | explosive Stoffe und Gegenstände mit Explosivstoff | § 35 und § 35a | 1 000 kg Nettoexplosivstoffmasse | 1 000 kg Nettoexplosivstoffmasse | Beförderungen in Tanks sind nur für die UN-Nummern 0331 und 0332 zulässig (Siehe Ausnahmen nach § 35c Absatz 9) |  |
+| 1 | 1.1 | explosive Stoffe und Gegenstände mit Explosivstoff | § 35 und § 35a | nicht zulässig | 1 000 kg Nettoexplosiv- stoffmasse | Siehe Ausnahmen nach § 35c Absatz 9 |
+| 1.2 | explosive Stoffe und Gegenstände mit Explosivstoff | § 35 und § 35a | nicht zulässig | 1 000 kg Nettoexplosiv- stoffmasse |  |  |
+| 1.5 | explosive Stoffe und Gegenstände mit Explosivstoff | § 35 und § 35a | 1 000 kg Nettoexplosiv- stoffmasse | 1 000 kg Nettoexplosiv- stoffmasse | Beförderungen in Tanks sind nur für die UN-Nummern 0331 und 0332 zulässig (Siehe Ausnahmen nach § 35c Absatz 9) |  |
 | 2 | 2 | entzündbare Gase (Klassifizierungscodes, die nur den Buchstaben F enthalten) | § 35 und § 35a | 9 000 kg Nettomasse | entfällt | §§ 35 und 35a gelten nur für Beförderungen in Tanks (Siehe Ausnahmen nach § 35c Absatz 1 und 5 bis 8) |
 | 3 | 2 | giftige Gase (Klassifizierungscodes, die den/die Buchstaben T, TF, TC, TO, TFC oder TOC enthalten) | § 35 und § 35a | 1 000 kg Nettomasse | entfällt | §§ 35 und 35a gelten nur für Beförderungen in Tanks |
-| 4 | 3 | entzündbare flüssige Stoffe der Verpackungsgruppen I und II, mit Ausnahme der UN-Nummern 1093, 1099, 1100, 1131 und 1921 | § 35a | 3 000 Liter bei Verpackungsgruppe I 6 000 Liter bei Verpackungsgruppe II | entfällt | § 35a gilt nur für Beförderungen in Tanks (Siehe Ausnahme nach § 35c Absatz 3) |
+| 4 | 3 | entzündbare flüssige Stoffe der Verpackungsgruppen I und II, mit Ausnahme der UN-Nummern 1093, 1099, 1100, 1131 und 1921 | § 35a | 3 000 Liter bei Verpackungs- gruppe I 6 000 Liter bei Verpackungs- gruppe II | entfällt | § 35a gilt nur für Beförderungen in Tanks (Siehe Ausnahme nach § 35c Absatz 3) |
 | 5 | 3 | UN-Nummern 1093, 1099, 1100, 1131 und 1921 der Verpackungsgruppe I | § 35 und § 35a | 3 000 Liter | entfällt | §§ 35 und 35a gelten nur für Beförderungen in Tanks |
 | 6 | 4.1 | desensibilisierte explosive Stoffe der UN-Nummern 3364, 3365, 3367 und 3368 | § 35 und § 35a | nicht zulässig | 1 000 kg Nettomasse |  |
 | 7 | 4.2 | UN-Nummer 3394 | § 35 und § 35a | 3 000 Liter | entfällt | §§ 35 und 35a gelten nur für Beförderungen in Tanks |
@@ -3053,6 +3046,8 @@ Nummer 1)
     Unterabschnitt 9.1.3.1 ADR vermerkt ist. Die Ausnahmen nach Satz
     1 Nummer 1 und Nummer 2 Buchstabe a oder b können nebeneinander in
     Anspruch genommen werden. § 35b Satz 3 ist nicht anzuwenden.
+
+_________________
 
 
 ## § 36 Prüffrist für Feuerlöschgeräte
@@ -3949,7 +3944,7 @@ zum 31. Dezember 2024 geltenden Fassung.
 
 ## Anlage 2 Einschränkungen aus Gründen der Sicherheit der Beförderung gefährlicher Güter zu den Teilen 1 bis 9 des ADR und zu den Teilen 1 bis 7 des RID für innerstaatliche Beförderungen sowie zu den Teilen 1 bis 9 des ADN für innerstaatliche und grenzüberschreitende Beförderungen
 
-(Fundstelle: BGBl. 2023 I Nr. 227, S. 42 – 46)
+(Fundstelle: BGBl. 2026 I Nr. 242, S. 42 – 46)
 
 1.  (weggefallen)
 
@@ -4078,12 +4073,9 @@ zum 31. Dezember 2024 geltenden Fassung.
         aa) Folgende Güter sind in folgenden Beförderungsmitteln zur Beförderung
             zugelassen:
 
-            | Gefahrgüter der Klassen 1.4 und 2 bis 9 | Beförderung in Versandstücken in gedeckten und bedeckten Straßenfahrzeugen |  |
-            | --- | --- | --- |
-            | a) | Gefahrgüter der Klasse 2 Gruppen A, O und F ohne Nebengefahr giftig, | Beförderung in Tanks (Straßentankfahrzeugen, Straßenfahrzeugen mit Aufsetztanks und Straßenfahrzeugen mit Tankcontainern) |
-            | b) | Gefahrgüter der Klasse 3, Verpackungsgruppe II und III ohne Nebengefahr giftig, |  |
-            | c) | Gefahrgüter der Klasse 8, Verpackungsgruppe II und III ohne Nebengefahr giftig und |  |
-            | d) | Gefahrgüter der Klasse 9, Verpackungsgruppe II und III |  |
+            | Gefahrgüter der Klassen 1.4 und 2 bis 9 | Beförderung in Versandstücken in gedeckten und bedeckten Straßenfahrzeugen |
+            | --- | --- |
+            | a) Gefahrgüter der Klasse 2 Gruppen A, O und F ohne Nebengefahr giftig, b) Gefahrgüter der Klasse 3, Verpackungsgruppe II und III ohne Nebengefahr giftig, c) Gefahrgüter der Klasse 8, Verpackungsgruppe II und III ohne Nebengefahr giftig und d) Gefahrgüter der Klasse 9, Verpackungsgruppe II und III | Beförderung in Tanks (Straßentankfahrzeugen, Straßenfahrzeugen mit Aufsetztanks und Straßenfahrzeugen mit Tankcontainern) |
 
         bb) Die Beförderung gefährlicher Güter erfolgt im Huckepackverkehr unter
             Beachtung der Vorschriften nach Unterabschnitt 1.1.4.4 RID.
@@ -4219,7 +4211,7 @@ zum 31. Dezember 2024 geltenden Fassung.
 
 **Stoffliste Nummer 1:**
 
-| UN- Nummer | Klasse und Klassifizierungscode | Verpackungs- gruppe | Benennung und Beschreibung |
+| UN-Nummer | Klasse und Klassifizierungscode | Verpackungs- gruppe | Benennung und Beschreibung |
 | --- | --- | --- | --- |
 | 1114 | 3, F1 | II | BENZEN |
 | 1134 | 3, F1 | III | CHLORBENZEN (Phenylchlorid) |
@@ -4290,7 +4282,7 @@ zum 31. Dezember 2024 geltenden Fassung.
 
 ## Anlage 3 (zu § 36b)Festlegung der Anforderungen für besonders ausgerüstete Fahrzeuge/Wagen und Container/Großcontainer nach Abschnitt 7.3.3 Sondervorschrift VC 3 zur Beförderung erwärmter flüssiger und fester Stoffe der UN-Nummern 3257 und 3258 ADR/RID
 
-(Fundstelle: BGBl. 2023 I Nr. 227, S. 47 – 53)
+(Fundstelle: BGBl. 2026 I Nr. 242, S. 47 – 49)
 
 1.  **Anwendungsbereich**
 
@@ -4443,9 +4435,9 @@ zum 31. Dezember 2024 geltenden Fassung.
 
 **Bild 1**
 
-![bgbl1_2023_j02270_0010.jpg](bgbl1_2023_j02270_0010.jpg)
+![bgbl1_2026_j02420_0010.jpg](bgbl1_2026_j02420_0010.jpg)
 
 **Bild 2**
 
-![bgbl1_2023_j02270_0020.jpg](bgbl1_2023_j02270_0020.jpg)
+![bgbl1_2026_j02420_0020.jpg](bgbl1_2026_j02420_0020.jpg)
 

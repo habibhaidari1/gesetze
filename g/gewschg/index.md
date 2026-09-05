@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2001, 3513
 
 Zuletzt geändert durch
-:   Art. 3 G v. 2.7.2026 I Nr. 198
+:   Art. 1 G v. 2.7.2026 I Nr. 198
 
 
 ## § 1 Gerichtliche Maßnahmen zum Schutz vor Gewalt und Nachstellungen

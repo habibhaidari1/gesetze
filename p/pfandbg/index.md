@@ -1081,10 +1081,10 @@ und Nummer 4 zulassen.
 #### § 20 Deckungswerte
 
 (1) Zur Deckung Öffentlicher Pfandbriefe dürfen nur Geldforderungen
-aus der Vergabe von Darlehen, aus Schuldverschreibungen oder aus
-einem vergleichbaren Rechtsgeschäft oder andere, von den in Nummer 1
-genannten Stellen schriftlich als einredefrei anerkannte Forderungen
-benutzt werden,
+aus der Vergabe von Darlehen, aus Schuldverschreibungen oder
+aus einem vergleichbaren Rechtsgeschäft oder andere, von den in
+Nummer 1 genannten Stellen schriftlich als einredefrei anerkannte
+Geldforderungen benutzt werden,
 
 1.  die sich unmittelbar richten gegen
 
