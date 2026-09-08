@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2016, 624
 
 Zuletzt geändert durch
-:   Art. 9 G v. 12.5.2026 I Nr. 137
+:   Art. 1 V v. 2.9.2026 I Nr. 250
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen und Kommunikation
@@ -47,12 +47,12 @@ Aufträgen und bei der Ausrichtung von Wettbewerben durch den
 
 #### § 2 Vergabe von Bauaufträgen
 
-Für die Vergabe von Bauaufträgen sind Abschnitt 1 und Abschnitt 2,
-Unterabschnitt 2 anzuwenden. Im Übrigen ist Teil A Abschnitt 2 der
-Vergabe- und Vertragsordnung für Bauleistungen in der Fassung der
-Bekanntmachung vom 31. Januar 2019 (BAnz AT 19.02.2019 B2), der
-zuletzt durch die Bekanntmachung vom 6. September 2023 (BAnz AT
-25\.09.2023 B4) geändert worden ist, anzuwenden. Satz 2 gilt nicht für
+Für die Vergabe von Bauaufträgen sind Abschnitt 1 und Abschnitt
+2, Unterabschnitt 2 anzuwenden. Im Übrigen ist Teil A Abschnitt 2
+der Vergabe- und Vertragsordnung für Bauleistungen in der Fassung
+der Bekanntmachung vom 31. Januar 2019 (BAnz AT 19.02.2019 B2),
+der zuletzt durch die Bekanntmachung vom 22. Juli 2026 (BAnz AT
+24\.08.2026 B6) geändert worden ist, anzuwenden. Satz 2 gilt nicht für
 Planungsleistungen, die als Los eines Bauauftrags vergeben werden; auf
 ihre Vergabe ist diese Verordnung anzuwenden.
 

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2012, 1509
 
 Zuletzt geändert durch
-:   Art. 13 G v. 12.5.2026 I Nr. 137
+:   Art. 2 V v. 2.9.2026 I Nr. 250
 
 
 ## Eingangsformel
@@ -54,10 +54,10 @@ Verordnung anzuwenden.
 (2) Für die Vergabe von verteidigungs- oder sicherheitsspezifischen
 Bauaufträgen sind die §§ 1 bis 4, 6 bis 9 und 38 bis 42 sowie
 44 und 45 anzuwenden. Im Übrigen ist Abschnitt 3 der Vergabe-
-und Vertragsordnung für Bauleistungen (VOB/A) in der Fassung der
-Bekanntmachung vom 31. Januar 2019 (BAnz AT 19.02.2019 B2), der
-zuletzt durch die Bekanntmachung vom 6. September 2023 (BAnz AT
-25\.09.2023 B4) geändert worden ist, anzuwenden. Satz 2 gilt nicht für
+und Vertragsordnung für Bauleistungen (VOB/A) in der Fassung
+der Bekanntmachung vom 31. Januar 2019 (BAnz AT 19.02.2019 B2),
+der zuletzt durch die Bekanntmachung vom 22. Juli 2026 (BAnz AT
+24\.08.2026 B6) geändert worden ist, anzuwenden. Satz 2 gilt nicht für
 Planungsleistungen, die als Los eines Bauauftrags vergeben werden; auf
 ihre Vergabe ist diese Verordnung anzuwenden.
 
