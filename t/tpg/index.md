@@ -18,11 +18,8 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 4.9.2007 I 2206;
 
-Zuletzt geändert durch
-:   Art. 7a G v. 9.4.2026 I Nr. 98
-
-Änderung durch
-:   Art. 1 G v. 12.5.2026 I Nr. 143 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Stand
+:   zuletzt geändert Art. 1 G v. 12.5.2026 I Nr. 143
 
 
 ## Eingangsformel
@@ -303,10 +300,6 @@ Gewebespende abzugeben.
 (3) Die Bundesregierung kann durch allgemeine Verwaltungsvorschrift
 mit Zustimmung des Bundesrates ein Muster für den Organ- und
 Gewebespendeausweis festlegen und im Bundesanzeiger bekannt machen.
-
-(4) (weggefallen)
-
-(4a) (weggefallen)
 
 
 ### § 2a Register für Erklärungen zur Organ- und Gewebespende
@@ -2381,7 +2374,7 @@ Erklärenden, die an der Stellungnahme nach § 8a Absatz 1 Satz 1,
 die an der Mitteilung, Unterrichtung oder Übermittlung nach § 9a
 Absatz 2 Nummer 1 und § 11 Absatz 4 sowie die an der Organ- oder
 Gewebeentnahme, der Organvermittlung oder -übertragung oder der
-Gewebeabgabe oder ‑übertragung beteiligten Personen sowie die
+Gewebeabgabe oder -übertragung beteiligten Personen sowie die
 Personen, die bei der Transplantationsregisterstelle nach § 15b
 Absatz 2 und bei der Vertrauensstelle nach § 15c Absatz 1 Satz 2
 personenbezogene Daten verarbeiten, dürfen personenbezogene Daten

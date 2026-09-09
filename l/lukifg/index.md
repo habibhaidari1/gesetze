@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl. I: 2025, Nr. 246
 
+Geändert durch
+:   Art. 19 G v. 22.7.2026 I Nr. 224
+
 Stand
 :   Das G tritt gem. § 10 mit Ablauf des 31.12.2050 außer Kraft
 
@@ -134,6 +137,22 @@ nur noch für Investitionsvorhaben oder selbständige Abschnitte von
 Investitionsvorhaben eingesetzt werden, die bis zum 31. Dezember
 2042 vollständig abgenommen wurden und die im Jahr 2043 vollständig
 abgerechnet werden.
+
+
+## § 4a Mittelverwendung zur Erbringung von Eigenanteilen und bei Doppelförderungsverboten
+
+Die nach diesem Gesetz zur Verfügung gestellten Mittel können
+durch die Länder und Kommunen zur Erbringung von in anderen
+Bundesgesetzen oder sonstigen Vorschriften des Bundes sowie in
+Verwaltungsvereinbarungen mit den Ländern vorgesehenen Eigenanteilen
+von Ländern und Kommunen wie eigene Haushaltsmittel eingesetzt werden.
+Eine vollständige Erbringung solcher Eigenanteile aus Mitteln nach
+diesem Gesetz ist zulässig, sofern eine Überförderung derselben
+förderfähigen Ausgaben ausgeschlossen ist. Der Einsatz von Mitteln
+nach diesem Gesetz ist unbeachtlich im Rahmen von Regelungen in
+anderen Bundesgesetzen, sonstigen Vorschriften des Bundes sowie
+Verwaltungsvereinbarungen mit den Ländern, die eine Kumulierung von
+Bundesmitteln untersagen (Doppelförderungsverbote).
 
 
 ## § 5 Sicherstellung der zweckentsprechenden Mittelverwendung

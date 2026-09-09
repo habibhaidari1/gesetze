@@ -15,11 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2013, 188
 
-Geändert durch
-:   Art. 1 V v. 28.5.2014 I 601, 1582
-
-Änderung durch
-:   Art. 2 Abs. 3 G v. 12.5.2026 I Nr. 143 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Stand
+:   Zuletzt geändert Art. 2 Abs. 3 G v. 12.5.2026 I Nr. 143
 
 
 ## § 1 Anwendungsbereich und Begriffsbestimmungen

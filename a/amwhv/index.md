@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2006, 2523
 
 Zuletzt geändert durch
-:   Art. 9 G v. 23.10.2024 I Nr. 324
-
-Änderung durch
-:   Art. 2 Abs. 5 G v. 12.5.2026 I Nr. 143 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 Abs. 5 G v. 12.5.2026 I Nr. 143
 
 
 ## Abschnitt 1 - Anwendungsbereich und Begriffsbestimmungen

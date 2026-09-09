@@ -15,11 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2017, 2513
 
-Geändert durch
-:   Art. 16a Abs. 1 G v. 28.4.2020 I 960
-
-Änderung durch
-:   Art. 2 Abs. 6 G v. 12.5.2026 I Nr. 143 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 2 Abs. 6 G v. 12.5.2026 I Nr. 143
 
 
 ## § 1 Samenspenderregister
