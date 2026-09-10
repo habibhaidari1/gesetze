@@ -19,7 +19,7 @@ Die v tritt gem. art. 3 abs. 2 an dem tag außer kraft, an dem die durch
 :   Notenwechsel geschlossene Vereinbarung außer Kraft tritt
 
 Stand
-:   Die V ist gem. Art. 3 Abs. 1 iVm Bek. v. 31.10.2025 II Nr. 279 am 23.10.2025 in Kraft getreten
+:   V in Kraft gem. Art. 3 Abs. 1 dieser V iVm Bek. v. 31.10.2025 II Nr. 279 mWv 23.10.2025
 
 
 ## Eingangsformel

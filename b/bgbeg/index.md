@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 21.9.1994 I 2494; 1997, 1061;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 2.7.2026 I Nr. 198
-
-Änderung durch
-:   Art. 2 G v. 16.7.2026 I Nr. 212 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 16.7.2026 I Nr. 212
 
 
 ## Erster Teil - Allgemeine Vorschriften
