@@ -15,11 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl. I: 2024, Nr. 220
 
-Änderung durch
-:   Art. 1 V v. 17.8.2026 I Nr. 240 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 2 V v. 17.8.2026 I Nr. 240 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 2 V v. 17.8.2026 I Nr. 240
 
 
 ## Eingangsformel

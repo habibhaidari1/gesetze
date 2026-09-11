@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2022, 852
 
+Geändert durch
+:   Art. 2 V v. 26.8.2026 I Nr. 256
+
 
 ## Eingangsformel
 
@@ -53,7 +56,12 @@ von
     der Richtlinie (EU) 2019/1937 (ABl. L 347 vom 20.10.2020, S. 1), in
     der jeweils geltenden Fassung, einschließlich der auf der Grundlage
     der Verordnung (EU) 2020/1503 erlassenen delegierten Rechtsakte und
-    Durchführungsrechtsakte der Europäischen Kommission, oder
+    Durchführungsrechtsakte der Europäischen Kommission,
+
+1a. Pflichten gemäß den Artikeln 5 bis 14, 16 bis 19, 23 bis 25, 28 bis
+    30 und 45 Absatz 3 der Verordnung (EU) 2022/2554, auch in Verbindung
+    mit gemäß den Artikeln 15, 16, 20, 28 oder 30 der Verordnung (EU)
+    2022/2554 erlassenen Rechtsakten, oder
 
 2.  Anordnungen der Bundesanstalt nach § 10 Absatz 4 des
     Wertpapierhandelsgesetzes.
@@ -290,6 +298,69 @@ sowie anhand der internen Struktur und der Ablauforganisation
 darzulegen.
 
 
+### § 11a Berücksichtigung der Informations- und Kommunikationstechnologie des Schwarmfinanzierungsdienstleisters bei der Prüfung
+
+(1) Sofern im Einzelfall eine Prüfung der Artikel 5 bis 14, 16
+bis 19, 23 bis 25, 28 bis 30 und 45 Absatz 3 der Verordnung (EU)
+2022/2554, auch in Verbindung mit gemäß den Artikeln 15, 16, 20,
+28 oder 30 der Verordnung (EU) 2022/2554 erlassenen Rechtsakten,
+nicht auch gemäß § 78 Absatz 1 des Wertpapierinstitutsgesetzes
+oder gemäß § 29 des Kreditwesengesetzes zu erfolgen hat,
+hat der Prüfer im Prüfungsbericht zusammenfassend über die
+Organisation der Informations- und Kommunikationstechnologie
+des Schwarmfinanzierungsdienstleisters und diejenigen Systeme
+der Informations- und Kommunikationstechnologie, die wesentliche
+Geschäftsprozesse des Schwarmfinanzierungsdienstleisters unterstützen
+oder aufsichtsrechtlich relevante Daten verarbeiten, zu berichten.
+Wesentliche Änderungen an diesen Systemen sowie die entsprechenden
+Projekte sind im Prüfungsbericht darzustellen. Der Prüfer hat
+darzustellen und zu beurteilen, ob die organisatorischen, personellen
+und technischen Vorkehrungen zur Sicherstellung der Integrität,
+der Vertraulichkeit, der Authentizität und der Verfügbarkeit dieser
+Systeme angemessen sind und wirksam umgesetzt werden. Werden externe
+Ressourcen der Informations- und Kommunikationstechnologie eingesetzt,
+so erstrecken sich die vorgenannten Berichtspflichten auch auf diese
+Ressourcen.
+
+(2) Der Prüfer hat im Prüfungsbericht zu beurteilen, ob der
+Schwarmfinanzierungsdienstleister die Anforderungen der Artikel 5 bis
+14, 16 bis 19, 23 bis 25, 28 bis 30 und 45 Absatz 3 der Verordnung
+(EU) 2022/2554, auch in Verbindung mit Rechtsakten, die gemäß den
+Artikeln 15, 16, 20, 28 oder 30 der Verordnung (EU) 2022/2554 erlassen
+wurden, unter Berücksichtigung des Grundsatzes der Verhältnismäßigkeit
+gemäß Artikel 4 der Verordnung (EU) 2022/2254 angemessen und wirksam
+einhält. Dabei ist insbesondere einzugehen auf
+
+1.  das auf die Informations- und Kommunikationstechnologie bezogene
+    Risikomanagement gemäß den Artikeln 5 bis 14 und 16 der Verordnung
+    (EU) 2022/2554,
+
+2.  die Dokumentation des auf die Informations- und
+    Kommunikationstechnologie bezogenen Risikomanagementrahmens gemäß
+    Artikel 6 Absatz 5 Satz 1 oder Artikel 16 Absatz 2 Satz 1 der
+    Verordnung (EU) 2022/2554,
+
+3.  die auf die Informations- und Kommunikationstechnologie bezogene
+    Geschäftsfortführungsleitlinie gemäß Artikel 11 Absatz 1 der
+    Verordnung (EU) 2022/2554,
+
+4.  die Behandlung und Klassifizierung von auf die Informations- und
+    Kommunikationstechnologie bezogenen Vorfällen sowie die Meldung
+    darüber gemäß den Artikeln 17 bis 19 und 23 der Verordnung (EU)
+    2022/2554,
+
+5.  das Testen der digitalen operationalen Resilienz gemäß den Artikeln 24
+    und 25 der Verordnung (EU) 2022/2554,
+
+6.  das Management des auf die Informations- und Kommunikationstechnologie
+    bezogenen Drittparteienrisikos gemäß den Artikeln 28 bis 30 der
+    Verordnung (EU) 2022/2554 und
+
+7.  die Einhaltung der Mitteilungspflicht in Bezug auf Vereinbarungen
+    über den Austausch von Informationen gemäß Artikel 45 Absatz 3 der
+    Verordnung (EU) 2022/2554.
+
+
 ### § 12 Bestimmungen über den Prüfungsinhalt; festgesetzte Prüfungsschwerpunkte
 
 (1) Soweit die Bundesanstalt im Einzelfall Bestimmungen über den
@@ -409,9 +480,16 @@ Prüfungsbericht zu erläutern.
 ## Abschnitt 4 - Schlussvorschriften
 
 
-### § 21 Inkrafttreten
+### § 21 Übergangsregelung aus Anlass der Verordnung (EU) 2022/2554
 
-Diese Verordnung tritt am 1. Juli 2022 in Kraft.
+Die Bestimmungen dieser Verordnung betreffend die Prüfung der
+Einhaltung der Vorgaben der Verordnung (EU) 2022/2554 durch
+Schwarmfinanzierungsdienstleister sind erstmals auf Prüfungen
+anzuwenden, die ein nach dem 31. Dezember 2024 beginnendes
+Geschäftsjahr betreffen. Auf Prüfungen, die ein vor dem 1.
+Januar 2025 beginnendes Geschäftsjahr betreffen, findet die
+Schwarmfinanzierungsdienstleister-Prüfungsverordnung in der Fassung
+vom 17. Mai 2022 (BGBl. I S. 852) weiterhin Anwendung.
 
 
 ### Anlage (zu § 17 Absatz 1)Ausfüllhinweise für den Fragebogen gemäß § 17 Absatz 1
@@ -496,4 +574,6 @@ Prüfungsfeststellungen:
 | 30 | Weitere Feststellungen, die für die Beurteilung der Ordnungsmäßigkeit der erbrachten Schwarmfinanzierungsdienstleistungen von Bedeutung und nicht durch die Nummern 1 bis 29 abgedeckt sind | ja/ nein: |  |  |
 |  | Erläuterungen zu Nummer 30: |  |  |  |
 | 31 | Kurze Beschreibung der identifizierten Mängel und der Vorschriften, gegen die ein Verstoß vorliegt, insbesondere unter Berücksichtigung der seitens der Bundesanstalt für Finanzdienstleistungsaufsicht und der ESMA vorgenommenen und veröffentlichten Normauslegung: |  |  |  |
+| 32 | Artikel 5 bis 14, 16 bis 19, 23 bis 25, 28 bis 30 und 45 Absatz 3 der Verordnung (EU) 2022/2554 |  |  |  |
+|  | Erläuterungen zu Nummer 32: |  |  |  |
 

@@ -5903,8 +5903,8 @@ gilt entsprechend.
 
 ### § 270c Vorläufiges Eigenverwaltungsverfahren
 
-(1) Das Gericht kann den vorläufigen Sachwalter beauftragten, Bericht
-zu erstatten über
+(1) Das Gericht kann den vorläufigen Sachwalter *beauftragten*,
+Bericht zu erstatten über
 
 1.  die vom Schuldner vorgelegte Eigenverwaltungsplanung, insbesondere,
     ob diese von den erkannten und erkennbaren tatsächlichen Gegebenheiten

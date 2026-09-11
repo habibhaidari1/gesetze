@@ -7545,8 +7545,7 @@ zu erteilen.
         absehbar, dass diese nicht zum Erfolg führen, oder
 
     e)  ein Verfahren zur Bestimmung des zuständigen Mitgliedstaates gemäß
-        einer unentgeltlichen Rechtsauskunft gemäß Artikel 38 Absatz 1 der
-        Verordnung (EU) 2024/1351 eingeleitet wurde.
+        Artikel 38 Absatz 1 der Verordnung (EU) 2024/1351 eingeleitet wurde.
 
 (3) Der Antrag auf Erteilung der Ausbildungsduldung kann frühestens
 sieben Monate vor Beginn der Berufsausbildung gestellt werden. Die

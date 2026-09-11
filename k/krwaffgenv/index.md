@@ -16,10 +16,7 @@ Fundstelle
 :   BAnz: 1961, Nr 150
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 3 G v. 6.6.2013 I 1482
-
-Änderung durch
-:   Art. 1 V v. 2.9.2026 I Nr. 249 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 2.9.2026 I Nr. 249
 
 
 ## Eingangsformel

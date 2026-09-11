@@ -15,11 +15,14 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2020, 2575
 
+Zuletzt geändert durch
+:   Art. 3 Abs. 1 G v. 23.2.2026 I Nr. 47
+
 Stand
 :   Ersetzt G 9231-11 v. 14.8.2006 I 1958 (BKrFQG)
 
-Zuletzt geändert durch
-:   Art. 3 Abs. 1 G v. 23.2.2026 I Nr. 47
+Mittelbare änderung durch
+:   Art. 2 G v. 3.2.2026 I Nr. 30 ist nicht ausführbar, da der geänderte Art. 4 Abs. 3 G v. 26.11.2020 I 2575 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.1.2026 in Kraft getreten war
 
 
 ## Abschnitt 1 - Anwendungsbereich
@@ -97,18 +100,7 @@ ausdrücklich bestimmt.
 7.  Kraftfahrzeugen zur nichtgewerblichen Beförderung von Gütern oder
     Personen,
 
-8.  Kraftfahrzeugen im ländlichen Raum, wenn
-
-    a)  die Beförderung zur Versorgung des eigenen Unternehmens des Fahrers
-        erfolgt,
-
-    b)  das Führen von Kraftfahrzeugen nicht die Hauptbeschäftigung des
-        Fahrers darstellt,
-
-    c)  die Beförderung gelegentlich erfolgt und
-
-    d)  die Beförderung unter Beachtung der sonstigen
-        straßenverkehrsrechtlichen Vorschriften erfolgt oder
+8.  (weggefallen)
 
 9.  Kraftfahrzeugen, die von Landwirtschafts-, Gartenbau-,
     Forstwirtschafts- oder Fischereiunternehmen zur Güterbeförderung im
@@ -118,27 +110,13 @@ ausdrücklich bestimmt.
 
 (3) Im Sinne des Absatzes 2
 
-1.  bezeichnet eine nichtgewerbliche Beförderung eine Beförderung, die
-    keinen Zusammenhang mit einer beruflichen oder gewerblichen Tätigkeit
-    aufweist, das heißt, die Beförderung wird nicht durchgeführt, um damit
-    Einnahmen zu erzielen,
+1.  (weggefallen)
 
-2.  bestimmt sich der ländliche Raum anhand der Liste über die Zuordnung
-    der Stadt- und Landkreise zum städtischen oder ländlichen Raum, die
-    diesem Gesetz als Anlage beigefügt ist,
+2.  (weggefallen)
 
-3.  erfolgt eine Beförderung zur Versorgung des eigenen Unternehmens, wenn
+3.  (weggefallen)
 
-    a)  die beförderten Güter im Eigentum des Unternehmens stehen oder von
-        diesem verkauft, gekauft, vermietet, gemietet, hergestellt, erzeugt,
-        gewonnen, bearbeitet oder instand gesetzt worden sind und
-
-    b)  die Beförderung der Anlieferung dieser Güter zum Unternehmen, ihrem
-        Versand vom Unternehmen, ihrer Verbringung innerhalb oder – zum
-        Eigengebrauch – außerhalb des Unternehmens dient,
-
-4.  erfolgt eine Beförderung gelegentlich, wenn sie häufiger als einmal,
-    jedoch nicht regelmäßig oder dauerhaft erfolgt.
+4.  (weggefallen)
 
 
 ## Abschnitt 2 - Qualifikation, Weiterbildung
