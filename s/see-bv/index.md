@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 4 V v. 25.3.2025 I Nr. 100
 
 Änderung durch
-:   Art. 2 V v. 7.9.2026 I Nr. 257 mWv 11.9.2026 noch nicht berücksichtigt
+:   Art. 2 V v. 7.9.2026 I Nr. 257 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
@@ -797,10 +797,10 @@ kann für die Dauer von höchstens sechs Monaten eine vorläufige
 Zulassung erteilt werden. Innerhalb der Laufzeit der vorläufigen
 Zulassung überprüft die jeweils zuständige Behörde den Lehrgang bei
 der Ausbildungseinrichtung. Der erste Termin zur Durchführung des
-vorläufig zugelassenen Lehrgangs wird in Abstimmung mit dem Bundesamt
-vereinbart. Entspricht er den Anforderungen, wird die Zulassung
-für die Dauer von höchstens drei Jahren erteilt. Sie kann, auch
-nachträglich, mit Nebenbestimmungen versehen werden.
+vorläufig zugelassenen Lehrgangs ist mit der jeweils zuständigen
+Behörde zu vereinbaren. Entspricht der Lehrgang den Anforderungen, so
+wird die Zulassung für die Dauer von höchstens fünf Jahren erteilt.
+Sie kann, auch nachträglich, mit Nebenbestimmungen versehen werden.
 
 (3) Änderungen zulassungsrelevanter Sachverhalte sind der jeweils
 zuständigen Behörde unverzüglich anzuzeigen.
@@ -2605,11 +2605,26 @@ ist, gilt diese Befristung mit dem Inkrafttreten dieser Verordnung
 gleichfalls für entsprechende Zeugnisse und Nachweise, die nach den
 bisher geltenden Vorschriften erteilt worden sind.
 
-(3) Inhaber eines Befähigungszeugnisses zum Schiffsführer NSF
-sowie Inhaber eines Sportküstenschifferscheins, die ein gültiges
-Seediensttauglichkeitszeugnis für den Decksdienst sowie ein beschränkt
-gültiges Funkbetriebszeugnis (SRC) nachweisen können, gelten bis zum
-Ablauf des 31. Dezember 2023 als befähigt im Sinne des § 30 Absatz 6.
+(3) Inhaber eines Sportküstenschifferscheins, Sportseeschifferscheins
+oder Sporthochseeschifferscheins gelten bis zum Ablauf des 31.
+Dezember 2028 als für die gewerbsmäßige Nutzung eines nach dem 30.
+November 2024 neu zugelassenen Fahrzeugs befähigt im Sinne des § 30
+Absatz 6, wenn sie Folgendes besitzen:
+
+1.  ein gültiges Seediensttauglichkeitszeugnis für den Decksdienst nach §
+    12 des Seearbeitsgesetzes,
+
+2.  ein beschränkt gültiges Funkbetriebszeugnis nach der Anlage 3 der
+    Schiffssicherheitsverordnung und
+
+3.  einen gültigen Befähigungsnachweis über eine
+    Sicherheitsgrundausbildung nach § 44 oder im Fall der bereits
+    abgelaufenen Gültigkeit einen Qualifikationsnachweis über einen
+    Auffrischungslehrgang.
+
+Personen nach Satz 1 müssen nachweisen, dass sie an einer nach
+Landesrecht eingerichteten Ausbildungsstätte für einen zugelassenen
+Lehrgang zum Erwerb des Befähigungszeugnisses NK 100 angemeldet sind.
 
 (4) Befähigungsnachweise über eine Grundausbildung oder Fortbildung
 für den Schiffsdienst auf Schiffen, die dem IGF-Code unterliegen, die

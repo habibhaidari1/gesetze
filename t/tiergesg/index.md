@@ -16,13 +16,7 @@ Fundstelle
 :   BGBl I: 2013, 1324
 
 Neugefasst durch
-:   Bek. v. 21.11.2018 I 1938;
-
-Zuletzt geändert durch
-:   Art. 1 G v. 4.3.2026 I Nr. 60
-
-Stand
-:   Neufassung gem. Bek. v. 27.3.2026 I Nr. 93 noch nicht berücksichtigt
+:   Bek. v. 27.3.2026 I Nr. 93
 
 
 ## Abschnitt 1 - Allgemeines
@@ -1195,14 +1189,26 @@ ermittelt.
 (2) Die Entschädigung darf folgende Höchstsätze je Tier nicht
 überschreiten:
 
-| 1. | Pferde, Esel, Maulesel, Maultiere | 6 000 Euro, |
-| --- | --- | --- |
-| 2. | Rinder einschließlich Bisons, Wisente und Wasserbüffel | 4 000 Euro, |
-| 3. | Schweine | 1 500 Euro, |
-| 4. | Gehegewild | 1 000 Euro, |
-| 5. | Schafe | 800 Euro, |
-| 6. | Ziegen | 800 Euro, |
-| 7. | Enten, Fasane, Gänse, Hühner, Laufvögel, Perlhühner, Rebhühner, Tauben, Truthühner und Wachteln | 110 Euro. |
+1.  | Pferde, Esel, Maulesel, Maultiere | 6 000 Euro, |
+    | --- | --- |
+
+2.  | Rinder einschließlich Bisons, Wisente und Wasserbüffel | 4 000 Euro, |
+    | --- | --- |
+
+3.  | Schweine | 1 500 Euro, |
+    | --- | --- |
+
+4.  | Gehegewild | 1 000 Euro, |
+    | --- | --- |
+
+5.  | Schafe | 800 Euro, |
+    | --- | --- |
+
+6.  | Ziegen | 800 Euro**,** |
+    | --- | --- |
+
+7.  | Enten, Fasane, Gänse, Hühner, Laufvögel, Perlhühner, Rebhühner, Tauben, Truthühner und Wachteln | 110 Euro. |
+    | --- | --- |
 
 Im Falle von Bienen und Hummeln beträgt der Höchstsatz der
 Entschädigung 200 Euro je Volk und im Falle von Wassertieren 20 Euro

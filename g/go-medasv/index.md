@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2013, 2578
 
 Änderung durch
-:   Art. 3 V v. 7.9.2026 I Nr. 257 mWv 11.9.2026 noch nicht berücksichtigt
+:   Art. 3 V v. 7.9.2026 I Nr. 257 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel

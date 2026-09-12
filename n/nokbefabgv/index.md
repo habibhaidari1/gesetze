@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 1 V v. 25.6.2026 I Nr. 194
 
 Änderung durch
-:   Art. 6 V v. 7.9.2026 I Nr. 257 mWv 1.1.2027 noch nicht berücksichtigt
+:   Art. 6 V v. 7.9.2026 I Nr. 257 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 V ursprünglich aufgeh. durch
 :   Art. 4 Abs. 143 G v. 7.8.2013 I 3154 mWv 14.8.2018, Art. 4 G v. 7.8.2013 I 3154 aufgeh. durch Art. 2 G v. 18.7.2016 I 1666 mWv 14.8.2018

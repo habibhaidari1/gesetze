@@ -494,7 +494,8 @@ vom 17. Mai 2022 (BGBl. I S. 852) weiterhin Anwendung.
 
 ### Anlage (zu § 17 Absatz 1)Ausfüllhinweise für den Fragebogen gemäß § 17 Absatz 1
 
-(Fundstelle: BGBl. I 2022, 856 - 857)
+(Fundstelle: BGBl. I 2022, 856 - 857; bzgl. der einzelnen Änderungen
+vgl. Fußnote)
 
 Im nachfolgend aufgeführten Fragebogen sind folgende Abkürzungen für
 die Prüfungsfeststellungen in der Spalte „Feststellung“ zu verwenden:

@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 1 V v. 14.5.2025 I Nr. 133
 
 Änderung durch
-:   Art. 7 V v. 7.9.2026 I Nr. 257 mWv 11.9.2026 noch nicht berücksichtigt
+:   Art. 7 V v. 7.9.2026 I Nr. 257 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
@@ -624,19 +624,13 @@ der abgegebenen Stimmen. Bei Stimmengleichheit gibt die Stimme des
 vorsitzenden Mitglieds den Ausschlag.
 
 
-### § 19 Anmeldung zur Abschlussprüfung
+### § 19 Prüfungstermin und Zulassung
 
 (1) Die zuständige Stelle setzt die Prüfungstermine für ein Jahr im
-Voraus unter Berücksichtigung des Ablaufs der Berufsausbildung und
-des Schuljahres fest und gibt sie einschließlich der Anmeldefristen in
-geeigneter Weise rechtzeitig bekannt.
+Voraus unter Berücksichtigung des Ablaufs der Berufsausbildung und des
+Schuljahres fest und gibt sie in geeigneter Weise rechtzeitig bekannt.
 
-(2) Die Anmeldung zur Prüfung ist schriftlich vom Ausbildenden an die
-zuständige Stelle zu richten. In besonderen Fällen, insbesondere bei
-Wiederholungsprüfungen und bei einer Zulassung nach § 20, kann sich
-der Prüfling selbst anmelden.
-
-(3) Die Zulassung, die Prüfungstermine und der Prüfungsort sind
+(2) Die Zulassung, die Prüfungstermine und der Prüfungsort sind
 den Prüflingen rechtzeitig mitzuteilen. Eine Zulassung kann von der
 zuständigen Stelle widerrufen werden, wenn sie auf Grund gefälschter
 Unterlagen oder falscher Angaben erteilt wurde.
@@ -857,16 +851,17 @@ wiederholt werden müssen.
 (4) Der Prüfungsausschuss legt den Zeitraum bis zur frühestmöglichen
 Anmeldung für die Wiederholungsprüfung fest.
 
-(5) Die Vorschriften über die Anmeldung zur Prüfung nach § 19 Absatz
-2 gelten entsprechend. Bei der Anmeldung sind Ort und Datum der
-vorausgegangenen Abschlussprüfung anzugeben.
+(5) Die Anmeldung für die Wiederholungsprüfung ist schriftlich vom
+Ausbildenden oder Prüfling an die zuständige Stelle zu richten. Bei
+der Anmeldung sind Ort und Datum der vorausgegangenen Abschlussprüfung
+anzugeben.
 
 
 ### § 26 Rücktritt von der Abschlussprüfung, Nichtteilnahme
 
-(1) Prüfungsbewerber und Prüfungsbewerberinnen können nach erfolgter
-Anmeldung vor Beginn der Abschlussprüfung durch schriftliche Erklärung
-gegenüber der zuständigen Stelle zurücktreten. In diesem Fall gilt die
+(1) Prüfungsbewerber und Prüfungsbewerberinnen können vor Beginn
+der Abschlussprüfung durch schriftliche Erklärung gegenüber
+der zuständigen Stelle zurücktreten. In diesem Fall gilt die
 Abschlussprüfung als nicht abgelegt.
 
 (2) Treten Prüflinge nach Beginn der Abschlussprüfung zurück, so
