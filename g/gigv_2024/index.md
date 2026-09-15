@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 8.6.2026 I Nr. 167
 
+Änderung durch
+:   Art. 1 V v. 9.9.2026 I Nr. 259 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand
 :   Ersetzt V 860-5-78 v. 7.10.2021 I 4634 (GIGV)
 
@@ -871,7 +874,8 @@ Gleichzeitig tritt die IOP-Governance-Verordnung vom 7. Oktober 2021
 
 ### Anlage 1 (zu § 13 Absatz 1 Satz 1)Verbindlich festgelegte Anforderungen
 
-(Fundstelle: BGBl. 2024 I Nr. 279, S. 11)
+(Fundstelle: BGBl. 2024 I Nr. 279, S. 11;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Die durch das Bundesministerium für Gesundheit verbindlich
 festgelegten technischen, semantischen und syntaktischen Standards,
@@ -889,6 +893,8 @@ Datum (Inkrafttreten dieser Verordnung): 14.09.2024
 | 3. | Krankenhausin- formationssysteme (KIS) und |  |  |  |  |  |  |  |  |
 | 4. | Apothekenverwaltungs- systeme (AVS) |  |  |  |  |  |  |  |  |
 | 002 | IOP-Anforderungen gemäß § 385 SGB V im Rahmen der Schnittstellen für informationstechnische Systeme in Krankenhäusern | Leitfaden zur Umsetzung der relevanten Anforderungen bezüglich der Interoperabilität zwischen informationstechnischen Systemen im Krankenhaus (ISiK) Stufe 5 | 1.0.0 |  | 15.06.2026 | 31.05.2027 | § 373 Absatz 1 Satz 3 Fünftes Buch Sozialgesetzbuch |  | Krankenhausinformationssysteme (KIS) |
+| 003 | IOP-Anforderungen gemäß § 385 SGB V im Rahmen der ePA für alle – Medication Service (ePA 3.1.3) | Leitfaden zur Umsetzung der relevanten Anforderungen bezüglich der Interoperabilität zwischen den ePA-Aktensystemen und Primärsystemen hinsichtlich der Umsetzung des digital gestützten Medikationsprozesses (dgMP) | 1.3.0 |  | 15.09.2026 | 31.12.2026 | 355 Absatz 3 Satz 2 Nummer 1 Fünftes Buch Sozial- gesetzbuch | 1. Praxisver- waltungssysteme (PVS), 2. Zahnärztliche Praxisverwaltungssysteme (ZPVS), 3. Krankenhaus- informationssysteme (KIS) und 4. Apotheken- verwaltungssysteme (AVS) |  |
+| 004 | IOP-Anforderungen gemäß § 385 SGB V im Rahmen der ePA für alle – Medication Service (ePA 3.1.3) | Leitfaden zur Umsetzung der relevanten Anforderungen bezüglich der Interoperabilität zwischen den ePA-Aktensystemen und Primärsystemen hinsichtlich der Umsetzung des digital gestützten Medikationsprozesses (dgMP) | 1.3.0 |  | 15.09.2026 | 30.09.2027 | § 373 Absatz 3, 5 Nummer 2 Fünftes Buch Sozialgesetzbuch | 1. Primärsys- teme in der Pflege |  |
 
 *Hinweis: Es können für ein Profil / einen Standard / einen
 Leitfaden / ein Informationsmodell / eine Referenzarchitektur /
