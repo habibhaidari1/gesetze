@@ -446,15 +446,15 @@ anzuwenden:
 
 Schiffsoffiziere
 
-(1) Auf Schiffen mit einer Bruttoraumzahl von über 8 000 muss von den
-Offizieren des nautischen oder technischen Bereichs mindestens einer
-die Voraussetzungen des § 4 Absatz 1 erfüllen. In den Fällen des §
-4 Absatz 1 Nummer 2 tritt an Stelle des Befähigungszeugnisses zum
-Kapitän das Befähigungszeugnis zum Offizier.
+-   (1) Auf Schiffen mit einer Bruttoraumzahl von über 8 000 muss von den
+    Offizieren des nautischen oder technischen Bereichs mindestens einer
+    die Voraussetzungen des § 4 Absatz 1 erfüllen. In den Fällen des §
+    4 Absatz 1 Nummer 2 tritt an Stelle des Befähigungszeugnisses zum
+    Kapitän das Befähigungszeugnis zum Offizier.
 
-(2) § 4 Absatz 2 Nummer 1 und 3 sowie Absatz 4 bis 7 gilt entsprechend
-für die Besetzung mit Schiffsoffizieren, die entgegen Absatz 1 nicht
-die Voraussetzungen des § 4 Absatz 1 erfüllen.
+-   (2) § 4 Absatz 2 Nummer 1 und 3 sowie Absatz 4 bis 7 gilt entsprechend
+    für die Besetzung mit Schiffsoffizieren, die entgegen Absatz 1 nicht
+    die Voraussetzungen des § 4 Absatz 1 erfüllen.
 
 (3) § 8 Absatz 1 in der am 25. Juni 2021 geltenden Fassung ist bis
 zu dem Tag weiter anzuwenden, an dem eine Verordnung zur Änderung

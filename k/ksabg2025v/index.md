@@ -15,6 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl. I: 2024, Nr. 274
 
+V aufgeh. durch
+:   § 2 dieser V, dieser idF d. Art. 2 V v. 10.9.2026 I Nr. 262, mit Ablauf des 31.12.2026
+
+Geändert durch
+:   Art. 2 V v. 10.9.2026 I Nr. 262 mWv 16.9.2026
+
 
 ## Eingangsformel
 
@@ -33,9 +39,7 @@ Der Prozentsatz der Künstlersozialabgabe im Jahr 2025 beträgt 5,0
 Prozent.
 
 
-## § 2 Inkrafttreten, Außerkrafttreten
+## § 2 Außerkrafttreten
 
-Diese Verordnung tritt am 1. Januar 2025 in Kraft. Gleichzeitig tritt
-die Künstlersozialabgabe-Verordnung 2023 vom 20. September 2022 (BGBl.
-I S. 1508) außer Kraft.
+Diese Verordnung tritt mit Ablauf des 31. Dezember 2026 außer Kraft.
 
