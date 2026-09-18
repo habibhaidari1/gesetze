@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2021, 4744
 
 Zuletzt geändert durch
-:   Art. 2 G v. 18.6.2026 I Nr. 184
-
-Änderung durch
-:   Art. 4 V v. 7.9.2026 I Nr. 257 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 4 V v. 7.9.2026 I Nr. 257
 
 
 ## Eingangsformel

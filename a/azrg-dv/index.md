@@ -22,10 +22,13 @@ Zuletzt geändert durch
 :   Art. 8 Nr. 1 bis 4 G v 22.7.2026 I Nr. 222 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 8 Nr. 5 bis 8 G v 22.7.2026 I Nr. 222 mWv 1.11.2025 bzw. 29.7.2026 bzw. 1.11.2027 bzw. 1.5.2030 bzw. mit zukünftiger Wirkung noch nicht berücksichtigt
+:   Art. 8 Nr. 5 bis 7 G v 22.7.2026 I Nr. 222 mWv 1.11.2025 bzw. 29.7.2026 bzw. 1.11.2027 bzw. 1.5.2030 bzw. mit zukünftiger Wirkung noch nicht berücksichtigt
 
 Änderung durch
-:   Art. 12 G v 22.7.2026 I Nr. 222 mWv 1.5.2030 noch nicht berücksichtigt
+:   Art. 8 Nr. 8 G v 22.7.2026 I Nr. 222 ist berücksichtigt
+
+Änderung durch
+:   Art. 12 G v 22.7.2026 I Nr. 222 ist berücksichtigt
 
 Änderung durch
 :   Art. 15 G v 22.7.2026 I Nr. 222 mWv 13.6.2026 bzw. 29.7.2026 bzw. mit zukünftiger Wirkung noch nicht berücksichtigt
