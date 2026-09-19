@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2017, 2272
 
 Zuletzt geändert durch
-:   Art. 3 V v. 24.11.2025 I Nr. 280
+:   Art. 3 V v. 24.11.2025 I Nr. 280; 2026 I Nr. 265
 
 
 ## § 1 Anwendungsbereich
@@ -460,7 +460,7 @@ bis 5 genannten Anforderungen erhalten.
 
 (1) Nach § 59 Absatz 1 Nummer 21 Buchstabe a des Lebensmittel- und
 Futtermittelgesetzbuches wird bestraft, wer entgegen § 5 Absatz 1
-Nummer 1 Buchstabe b*,* Nummer 14 Buchstabe b Doppelbuchstabe aa oder
+Nummer 1 Buchstabe b, Nummer 14 Buchstabe b Doppelbuchstabe aa oder
 Nummer 18 ein Lebensmittel in den Verkehr bringt.
 
 (2) Nach § 59 Absatz 3 Nummer 2 Buchstabe a des Lebensmittel- und
