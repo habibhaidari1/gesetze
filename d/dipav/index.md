@@ -15,11 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2022, 1568
 
-Geändert durch
-:   Art. 4a G v. 22.3.2024 I Nr. 101
-
-Änderung durch
-:   Art. 1 V v. 22.6.2026 I Nr. 190 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 1 V v. 22.6.2026 I Nr. 190
 
 
 ## Eingangsformel
