@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1997, 1946
 
 Zuletzt geändert durch
-:   Art. 32 G v. 20.12.2022 I 2759
-
-Änderung durch
-:   Art. 1 V v. 12.6.2026 I Nr. 174 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 12.6.2026 I Nr. 174
 
 
 ## Eingangsformel

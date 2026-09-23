@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2020, 1728
 
 Zuletzt geändert durch
-:   Art. 3 G v. 23.7.2026 I Nr. 226
-
-Änderung durch
-:   Art. 4 G v. 23.7.2026 I Nr. 226 mWv 1.1.2030 noch nicht berücksichtigt
+:   Art. 4 G v. 23.7.2026 I Nr. 226
 
 Stand
 :   Die §§ 60b u. 60c treten gem. Art. 6 Abs. 2 G v. 16.10.2023 I Nr. 280 am 1.10.2024 in Kraft

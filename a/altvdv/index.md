@@ -19,16 +19,7 @@ Neugefasst durch
 :   Bek. v. 28.2.2005 I 487;
 
 Zuletzt geändert durch
-:   Art. 31 G v. 2.12.2024 I Nr. 387
-
-Änderung durch
-:   Art. 8 G v. 26.5.2026 I Nr. 156 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 9 G v. 26.5.2026 I Nr. 156 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 10 G v. 26.5.2026 I Nr. 156 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 10 G v. 26.5.2026 I Nr. 156
 
 
 ## Abschnitt 1 - Grundsätze der Datenübermittlung
@@ -176,8 +167,6 @@ welche die Zulagenzahlungen abgewickelt werden sollen, anzuzeigen.
 Hat der Anbieter ausschließlich Daten nach § 10 Absatz 2a, 2b und
 4b des Einkommensteuergesetzes zu übermitteln, ist die Angabe der
 Bankverbindung nicht erforderlich.
-
-(2a) (weggefallen)
 
 (3) Im Fall der Beauftragung eines Auftragnehmers (§ 87d der
 Abgabenordnung) hat der Auftraggeber der zentralen Stelle auch die
