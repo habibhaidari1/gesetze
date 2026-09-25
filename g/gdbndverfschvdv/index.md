@@ -18,8 +18,14 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 Abs. 22 V v. 11.3.2026 I Nr. 67
 
+V aufgeh. durch
+:   Art. 2 V v. 18.9.2026 I Nr. 273 mWv 1.10.2026
+
 Stand
 :   Ersetzt V 2030-7-9-3 v. 5.12.2006 I 2767 (LAP-gDBNDV) und V 2030-7-4-2 v. 11.10.2001 I 2640 (LAP-gDVerfSchV)
+
+Ersetzt durch
+:   V 2030-8-5-31 v. 18.9.2026 I Nr. 273 (GDBNDVerfSchVDV 2026)
 
 
 ## Eingangsformel
