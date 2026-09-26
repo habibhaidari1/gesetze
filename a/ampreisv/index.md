@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 3a G v. 26.6.2026 I Nr. 195 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 2 V v. 16.9.2026 I Nr. 266 mWv 22.9.2026 noch nicht berücksichtigt
+:   Art. 2 V v. 16.9.2026 I Nr. 266 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
@@ -124,7 +124,12 @@ höchstens Zuschläge nach Absatz 2 oder 3 sowie die Umsatzsteuer
 erhoben werden. Der Berechnung der Zuschläge nach Satz 1 ist
 jeweils der Betrag zugrunde zu legen, zu dem der pharmazeutische
 Unternehmer das Arzneimittel nach § 78 Absatz 3 oder Absatz 3a des
-Arzneimittelgesetzes abgibt.
+Arzneimittelgesetzes abgibt. Abweichend von Satz 1 ist die Gewährung
+von handelsüblichen Skonti, die im Gegenzug für eine vor Fälligkeit
+geleistete Zahlung gewährt werden, auch dann zulässig, wenn hierdurch
+der bei der Abgabe eines Fertigarzneimittels erhobene Preis niedriger
+ist als die Summe des Abgabepreises des pharmazeutischen Unternehmers,
+des in Satz 1 genannten Festzuschlags und der Umsatzsteuer.
 
 (2) Der Höchstzuschlag nach Absatz 1 Satz 2 ist bei einem Abgabepreis
 des pharmazeutischen Unternehmers
@@ -166,40 +171,46 @@ des pharmazeutischen Unternehmers
 
 (1) Bei der Abgabe von Fertigarzneimitteln, die zur Anwendung bei
 Menschen bestimmt sind, durch die Apotheken sind zur Berechnung
-des Apothekenabgabepreises ein Festzuschlag von 3 Prozent zuzüglich
-9 Euro zuzüglich 21 Cent zur Förderung der Sicherstellung des
-Notdienstes zuzüglich 20 Cent zur Finanzierung zusätzlicher
-pharmazeutischer Dienstleistungen nach § 129 Absatz 5e des Fünften
-Buches Sozialgesetzbuch sowie die Umsatzsteuer zu erheben; bei der
-Abgabe von saisonalen Grippeimpfstoffen durch die Apotheken an Ärzte
-sind abweichend ein Zuschlag von 1 Euro je Einzeldosis, höchstens
-jedoch 75 Euro je Verordnungszeile, sowie die Umsatzsteuer zu erheben.
-Soweit Fertigarzneimittel, die zur Anwendung bei Menschen bestimmt
-sind, durch die Apotheken zur Anwendung bei Tieren abgegeben werden,
-dürfen zur Berechnung des Apothekenabgabepreises abweichend von Satz
-1 höchstens ein Zuschlag von 3 Prozent zuzüglich 8,10 Euro sowie die
-Umsatzsteuer erhoben werden. Bei der Abgabe von Fertigarzneimitteln,
-die zur Anwendung bei Tieren bestimmt sind, durch die Apotheken dürfen
-zur Berechnung des Apothekenabgabepreises höchstens Zuschläge nach
-Absatz 3 oder 4 sowie die Umsatzsteuer erhoben werden.
+des Apothekenabgabepreises ein Festzuschlag bestehend aus einem
+prozentualen relativen Vergütungsanteil (relativer Anteil) in Höhe von
+3 Prozent des Apothekeneinkaufspreises, einem festen Vergütungsanteil
+(Fixum) in Höhe von 9 Euro zuzüglich 21 Cent zur Förderung der
+Sicherstellung des Notdienstes zuzüglich 20 Cent zur Finanzierung
+zusätzlicher pharmazeutischer Dienstleistungen nach § 129 Absatz 5e
+des Fünften Buches Sozialgesetzbuch sowie die Umsatzsteuer zu erheben;
+bei der Abgabe von saisonalen Grippeimpfstoffen durch die Apotheken
+an Ärzte sind abweichend ein Zuschlag von 1 Euro je Einzeldosis,
+höchstens jedoch 75 Euro je Verordnungszeile, sowie die Umsatzsteuer
+zu erheben. Soweit Fertigarzneimittel, die zur Anwendung bei
+Menschen bestimmt sind, durch die Apotheken zur Anwendung bei Tieren
+abgegeben werden, dürfen zur Berechnung des Apothekenabgabepreises
+abweichend von Satz 1 höchstens ein Zuschlag von 3 Prozent zuzüglich
+8,10 Euro sowie die Umsatzsteuer erhoben werden. Bei der Abgabe von
+Fertigarzneimitteln, die zur Anwendung bei Tieren bestimmt sind,
+durch die Apotheken dürfen zur Berechnung des Apothekenabgabepreises
+höchstens Zuschläge nach Absatz 3 oder 4 sowie die Umsatzsteuer
+erhoben werden.
 
-(1a) Im Fall eines Austauschs eines verordneten Arzneimittels nach §
-129 Absatz 2a des Fünften Buches Sozialgesetzbuch durch die Apotheke
-ist ein Zuschlag in Höhe von 50 Cent zuzüglich Umsatzsteuer zu
-erheben.
+(1a) Im Fall eines Austauschs eines verordneten Arzneimittels nach
+§ 129 Absatz 2a Satz 1 oder Absatz 2b Satz 3 des Fünften Buches
+Sozialgesetzbuch durch die Apotheke ist je Austausch ein Zuschlag in
+Höhe von 50 Cent sowie die Umsatzsteuer zu erheben.
 
-(2) Der Festzuschlag ist zu erheben
+(2) Der relative Anteil ist zu erheben
 
-1.  auf den Betrag, der sich aus der Zusammenrechnung des bei Belieferung
-    des Großhandels geltenden Abgabepreises des pharmazeutischen
-    Unternehmers ohne die Umsatzsteuer und des darauf entfallenden
-    Großhandelshöchstzuschlags nach § 2 ergibt,
+1.  außer in den Fällen von Nummer 2 auf den Betrag, der sich aus der
+    Zusammenrechnung des bei Belieferung des Großhandels geltenden
+    Abgabepreises des pharmazeutischen Unternehmers ohne die Umsatzsteuer
+    und des darauf entfallenden Großhandelshöchstzuschlags nach § 2
+    ergibt,
 
 2.  bei Fertigarzneimitteln, die nach § 52b Absatz 2 Satz 3 des
     Arzneimittelgesetzes nur vom pharmazeutischen Unternehmer direkt
     zu beziehen sind, auf den bei Belieferung der Apotheke geltenden
-    Abgabepreis des pharmazeutischen Unternehmers ohne die Umsatzsteuer; §
-    2 Absatz 1 Satz 3 gilt entsprechend.
+    Abgabepreis des pharmazeutischen Unternehmers ohne die Umsatzsteuer.
+
+In den Fällen von Satz 1 Nummer 2 gilt § 2 Absatz 1 Satz 3
+entsprechend.
 
 (3) Der Höchstzuschlag nach Absatz 1 Satz 3 ist bei einem Betrag
 
@@ -226,14 +237,55 @@ erheben.
 (5) Sofern die abzugebende Menge nicht in der Verschreibung
 vorgeschrieben oder gesetzlich bestimmt ist, haben die Apotheken,
 soweit mit den Kostenträgern nichts anderes vereinbart ist, die
-kleinste im Verkehr befindliche Packung zu berechnen. Satz 1 gilt
-auch in dem Fall, dass statt der verschriebenen Packungsgröße die
-verschriebene Menge des Arzneimittels als Teilmenge aus einer Packung
-abgegeben wird, die größer ist als die verschriebene Packungsgröße.
+kleinste im Verkehr befindliche Packung zu berechnen. Wird statt
+der verschriebenen Packungsgröße die verschriebene Menge des
+Arzneimittels als Teilmenge aus einer Packung mit einer größeren
+als der verschriebenen Packungsgröße abgegeben, hat die Apotheke
+die Packungsgröße abzurechnen, die der verschriebenen Packungsgröße
+entspricht.
 
 (6) Für die erneute Abgabe der an eine Apotheke zurückgegebenen
 verschreibungspflichtigen Fertigarzneimittel durch die Apotheke
 beträgt der Festzuschlag 5,80 Euro.
+
+
+## § 3a Vereinbarung eines Anpassungsvorschlags
+
+(1) Der Spitzenverband Bund der Krankenkassen und die für die
+Wahrnehmung der wirtschaftlichen Interessen gebildete maßgebliche
+Spitzenorganisation der Apotheker vereinbaren im Benehmen mit dem
+Verband der Privaten Krankenversicherung bis zum 1. Januar 2028
+und danach bis zum 1. Januar eines jeden Jahres einen einheitlichen
+Vorschlag zur Anpassung des relativen Anteils und des Fixums. Dabei
+darf der relative Anteil einen Aufschlag in Höhe von 3 Prozent auf
+den Apothekeneinkaufspreis nicht unterschreiten. Der Vorschlag ist dem
+Bundesministerium für Gesundheit vorzulegen.
+
+(2) Die Vereinbarungspartner haben bei der Vereinbarung des Vorschlags
+insbesondere die Veränderung des vom Statistischen Bundesamt
+festgelegten Verbraucherpreisindexes für Deutschland im Vergleich
+zum Vorjahr, die Kostenentwicklung der Apotheken bei wirtschaftlicher
+Betriebsführung und den Grundsatz der Beitragssatzstabilität im
+Sinne des § 71 Absatz 1 Satz 1 des Fünften Buches Sozialgesetzbuch
+zu berücksichtigen. § 71 Absatz 2 des Fünften Buches Sozialgesetzbuch
+gilt entsprechend. Zur Bewertung der Kostenentwicklung der Apotheken
+können die Vereinbarungspartner jeweils jährlich vom Verordnungsgeber
+amtliche Informationen des Statistischen Bundesamtes nach § 78 Absatz
+1 Satz 3 des Arzneimittelgesetzes anfordern und für die Vereinbarung
+des Vorschlags verwenden. Dabei sollen die Vereinbarungspartner
+vereinbaren, welche amtlichen Informationen des Statistischen
+Bundesamtes nach § 78 Absatz 1 Satz 3 des Arzneimittelgesetzes für die
+Vereinbarung des Vorschlags herangezogen werden.
+
+(3) Kommt eine Vereinbarung nach Absatz 1 nicht oder teilweise nicht
+zustande, etwa weil sich die Vereinbarungspartner nicht einigen,
+welche amtlichen Informationen des Statistischen Bundesamtes für
+die Vereinbarung des Vorschlags herangezogen werden, wird diese
+ganz oder teilweise durch die Schiedsstelle nach § 129 Absatz 8
+des Fünften Buches Sozialgesetzbuch innerhalb von acht Wochen nach
+Ablauf der in Absatz 1 Satz 1 jeweils genannten Frist festgelegt.
+Die Kosten des Schiedsverfahrens tragen die in Absatz 1 genannten
+Vereinbarungspartner zu gleichen Teilen.
 
 
 ## § 4 Apothekenzuschläge für Stoffe
@@ -244,9 +296,9 @@ sind ein Festzuschlag von 100 Prozent (Spanne 50 Prozent) auf die
 Apothekeneinkaufspreise ohne Umsatzsteuer für Stoff und erforderliche
 Verpackung sowie die Umsatzsteuer zu erheben.
 
-(2) Auszugehen ist von dem Apothekeneinkaufspreis der abzugebenden
-Menge des Stoffes, wobei der Einkaufspreis der üblichen Abpackung
-maßgebend ist.
+(2) Auszugehen ist von dem Apothekeneinkaufspreis der kleinsten
+Abpackung, die erforderlich ist, um den Stoff in der jeweiligen Menge
+abgeben zu können.
 
 (3) Trifft die für die Wahrnehmung der wirtschaftlichen Interessen
 gebildete maßgebliche Spitzenorganisation der Apotheker mit
@@ -287,16 +339,17 @@ Stoffen, die in Apotheken angefertigt wird, sind
 
 sowie die Umsatzsteuer zu erheben.
 
-(2) Auszugehen ist von den Apothekeneinkaufspreisen der für die
-Zubereitung erforderlichen Mengen an Stoffen und Fertigarzneimitteln.
-Maßgebend ist
+(2) Auszugehen ist von den Apothekeneinkaufspreisen der für
+die jeweilige Zubereitung erforderlichen Mengen an Stoffen und
+Fertigarzneimitteln. Maßgebend ist
 
-1.  bei Stoffen der Einkaufspreis der üblichen Abpackung,
+1.  bei Stoffen der Einkaufspreis der kleinsten für die Zubereitung
+    erforderlichen Abpackung und
 
-2.  bei Fertigarzneimitteln der Einkaufspreis nach § 3 Abs.
-    2 der erforderlichen Packungsgröße, höchstens jedoch der
-    Apothekeneinkaufspreis, der für Fertigarzneimittel bei Abgabe in
-    öffentlichen Apotheken gilt.
+2.  bei Fertigarzneimitteln der sich nach § 3 Absatz 2 ergebende
+    Einkaufspreis der kleinsten für die Zubereitung erforderlichen
+    Packungsgröße, höchstens jedoch der Apothekeneinkaufspreis, der für
+    Fertigarzneimittel bei Abgabe in öffentlichen Apotheken gilt.
 
 (3) Der Rezepturzuschlag beträgt für
 
@@ -375,6 +428,13 @@ nachzuweisen ist, sowie bei der Abgabe von Arzneimitteln nach §
 3a der Arzneimittelverschreibungsverordnung können die Apotheken
 einen zusätzlichen Betrag von 4,26 Euro einschließlich Umsatzsteuer
 berechnen.
+
+
+## § 7a Arzneimittel nach den §§ 48a oder 48b des Arzneimittelgesetzes
+
+Bei der Abgabe eines Arzneimittels nach den §§ 48a oder 48b des
+Arzneimittelgesetzes können die Apotheken einen zusätzlichen Betrag in
+Höhe von 5 Euro einschließlich Umsatzsteuer berechnen.
 
 
 ## § 8 Sonderbeschaffung
