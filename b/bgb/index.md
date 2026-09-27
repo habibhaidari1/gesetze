@@ -5401,7 +5401,7 @@ akzeptiert werden.
 (2) Bei einem Verbrauchervertrag im elektronischen Geschäftsverkehr,
 der den Verbraucher zur Zahlung verpflichtet, muss der Unternehmer
 dem Verbraucher die Informationen gemäß Artikel 246a § 1 Absatz 1
-Satz 1 Nummer 1, 5 bis 7, 8, 14 und 15 des Einführungsgesetzes zum
+Satz 1 Nummer 1, 5 bis 8, 11a, 14 und 15 des Einführungsgesetzes zum
 Bürgerlichen Gesetzbuche, unmittelbar bevor der Verbraucher seine
 Bestellung abgibt, klar und verständlich in hervorgehobener Weise zur
 Verfügung stellen.
