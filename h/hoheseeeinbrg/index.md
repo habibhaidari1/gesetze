@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 G v. 13.3.2026 I Nr. 70
 
+Stand
+:   Bek. v. 23.9.2026 I Nr. 274 ist berücksichtigt
+
 
 ## § 1 Zielsetzung
 
@@ -30,11 +33,11 @@ anderen Stoffen und Gegenständen.
 
 (1) Dieses Gesetz gilt für alle Meeresgewässer mit Ausnahme des
 Küstenmeeres unter deutscher Souveränität sowie der Küstenmeere unter
-der Souveränität anderer Staaten (Hohe See). Die Hohe See umfaßt
-auch die ausschließlichen Wirtschaftszonen sowie den Meeresboden und
-den zugehörigen Meeresuntergrund unter diesen Gewässern mit Ausnahme
-solcher Depots, die unterhalb des Meeresbodens gelegen und nur von
-Land aus zugänglich sind.
+der Souveränität anderer Staaten (Hohe See). Die Hohe See im Sinne
+des Satzes 1 umfasst auch die ausschließlichen Wirtschaftszonen sowie
+den Meeresboden und den zugehörigen Meeresuntergrund unter diesen
+Gewässern mit Ausnahme solcher Depots, die unterhalb des Meeresbodens
+gelegen und nur von Land aus zugänglich sind.
 
 (2) Dieses Gesetz gilt für:
 
@@ -79,7 +82,12 @@ Bundeswehr.
     Versenken vor Ort in der Absicht, sich dieser Anlagen zu entledigen,
 
 5.  jede Zuführung von Stoffen und Gegenständen in die Hohe See im Rahmen
-    des marinen Geo-Engineerings.
+    des marinen Geo-Engineerings,
+
+6.  jede Zuführung von Stoffen in die Hohe See, die die natürliche
+    Verteilung von Öl in der Wassersäule erleichtern und somit zur
+    Reduzierung schädlicher Umwelteinwirkungen durch Schiffsunfälle und
+    andere Havarien beitragen.
 
 Ein Einbringen im Sinne von Satz 1 liegt nicht vor, wenn Maßnahmen
 des Naturschutzes von der zuständigen Behörde durchgeführt, angeordnet
@@ -104,14 +112,15 @@ rechtmäßige Nutzung des Meeres wie die Fischerei behindern, die
 Qualität des Meerwassers verschlechtern und sonstige Umweltgüter
 beeinträchtigen.
 
-(5) Marines Geo-Engineering im Sinne dieses Gesetzes ist das
-gezielte Eingreifen in die Meeresumwelt zur Beeinflussung natürlicher
-Prozesse, das nachteilige Auswirkungen auf die Umwelt oder auf die
-Gesundheit von Menschen haben kann. Ein Eingreifen im Sinne von Satz
-1 liegt insbesondere vor, wenn damit den vom Menschen verursachten
-Klimaänderungen oder ihren Auswirkungen entgegengewirkt werden soll.
-Nicht zum marinen Geo-Engineering im Sinne dieses Gesetzes gehören
-Vorhaben
+(5) Marines Geo-Engineering im Sinne dieses Gesetzes ist das gezielte
+Eingreifen in die Meeresumwelt zur Beeinflussung natürlicher Prozesse,
+das nachteilige Auswirkungen auf die Umwelt oder auf die Gesundheit
+von Menschen haben kann, insbesondere wenn diese Auswirkungen
+weitreichend, langanhaltend oder schwerwiegend sein können. Ein
+Eingreifen im Sinne von Satz 1 liegt insbesondere vor, wenn damit
+den vom Menschen verursachten Klimaänderungen oder ihren Auswirkungen
+entgegengewirkt werden soll. Nicht zum marinen Geo-Engineering im
+Sinne dieses Gesetzes gehören Vorhaben
 
 1.  der konventionellen Aqua- und Marikultur und
 
@@ -130,7 +139,14 @@ die Hohe See ist verboten. Ausgenommen von diesem Verbot sind:
 
 3.  Stoffe und Gegenstände, die im Rahmen von Maßnahmen des marinen Geo-
     Engineerings, die in der Anlage aufgeführt worden sind, eingebracht
-    werden.
+    werden,
+
+4.  Kohlendioxidströme nach § 3 Nummer 8 des Kohlendioxid-Speicherung-
+    und-Transport-Gesetzes vom 17. August 2012 (BGBl. I S. 1726), das
+    zuletzt durch Artikel 1 des Gesetzes vom 25. November 2025 (BGBl. 2025
+    I Nr. 282) geändert worden ist, in seiner jeweils geltenden Fassung,
+    zur dauerhaften Speicherung gemäß § 3 Nummer 1 des Kohlendioxid-
+    Speicherung-und-Transport-Gesetzes.
 
 
 ## § 5 Erlaubnispflicht, Bedingungen und Auflagen
@@ -148,8 +164,8 @@ von den Vertragsparteien des Protokolls vom 7. November 1996 über die
 Verhütung der Meeresverschmutzung durch das Einbringen von Abfällen
 und anderen Stoffen von 1972 (BGBl. 1998 II. S. 1345) angenommen
 worden sind. Die Erlaubnis zur Einbringung von Baggergut ist darüber
-hinaus zu versagen, wenn geeignete Möglichkeiten vorhanden sind,
-das Baggergut an Land zu verwerten oder zu beseitigen, ohne daß dies
+hinaus zu versagen, wenn geeignete Möglichkeiten vorhanden sind, das
+Baggergut an Land zu verwerten oder zu beseitigen, ohne dass dies
 Gefahren für die menschliche Gesundheit oder die Umwelt mit sich
 bringt oder unangemessen hohe Kosten verursacht.
 
@@ -159,10 +175,17 @@ nicht sichergestellt ist, dass der Vorhabenträger die sich aus § 5a
 ergebenden Pflichten erfüllt.
 
 (4) Die Erlaubnis für das Einbringen von Urnen zur Seebestattung kann
-für längstens ein Jahr im voraus für eine noch nicht bekannte Zahl
+für längstens ein Jahr im Voraus für eine noch nicht bekannte Zahl
 von Einzelfällen erteilt werden. Die Erlaubnis für das Einbringen von
 Stoffen und Gegenständen im Rahmen des marinen Geo-Engineerings kann
 längstens für drei Jahre erteilt werden.
+
+(5) Für das Einbringen von Kohlendioxidströmen nach § 4 Satz 2 Nummer
+4 in den Meeresuntergrund unter deutscher Souveränität sowie in den
+Meeresuntergrund der deutschen ausschließlichen Wirtschaftszone und
+des deutschen Festlandsockels finden die Zulassungsvorschriften des
+Kohlendioxid-Speicherung-und-Transport-Gesetzes Anwendung; einer
+Erlaubnis nach diesem Gesetz bedarf es insoweit nicht.
 
 
 ## § 5a Pflichten des Vorhabenträgers bei Maßnahmen des marinen Geo-Engineerings
@@ -175,7 +198,8 @@ sicherzustellen, dass
 1.  keine Stoffe und Gegenstände in internationalen oder nationalen
     Meeresschutzgebieten eingebracht werden und die Einbringung von
     Stoffen und Gegenständen außerhalb solcher Schutzgebiete keine
-    nachteiligen Auswirkungen auf diese haben kann,
+    nachteiligen Auswirkungen auf das Erreichen der Schutzziele dieser
+    Gebiete haben kann,
 
 2.  Verschmutzungen, erhebliche nachteilige Auswirkungen und Gefahren
     für die Meeresumwelt, die Ökosysteme, die biologische Vielfalt,
@@ -186,11 +210,25 @@ sicherzustellen, dass
     und Gefahren nach Nummer 2 getroffen wird,
 
 4.  keine erhebliche nachteilige Veränderung der Wasserbeschaffenheit zu
-    besorgen ist und
+    besorgen ist,
 
 5.  Abfälle vermieden, nicht zu vermeidende Abfälle verwertet und nicht zu
     verwertende Abfälle ohne Beeinträchtigung des Wohls der Allgemeinheit
-    beseitigt werden.
+    beseitigt werden und
+
+6.  die Auswirkungen des Vorhabens auf die Meeresumwelt, die Ökosysteme
+    und die biologische Vielfalt untersucht und nachvollziehbar
+    dokumentiert werden sowie dass die gewonnenen Daten dem
+    Umweltbundesamt, dem Bundesamt für Naturschutz und dem Bundesamt für
+    Seeschifffahrt und Hydrographie elektronisch übermittelt werden.
+
+Die Untersuchungs-, Dokumentations- und Berichtspflichten nach
+Satz 2 Nummer 6 sind nach Anhörung des Vorhabenträgers und unter
+Berücksichtigung der im Vorhaben vorgesehenen Messparameter spätestens
+in der Erlaubnis festzulegen. Der Umfang der Pflichten nach Satz
+2 Nummer 6 richtet sich dabei nach dem Stand der Technik und den
+potentiellen Auswirkungen der nach § 3 Absatz 1 Satz 1 Nummer 5
+eingebrachten Stoffe oder Gegenstände.
 
 (2) Bei Einbringungen nach § 3 Absatz 1 Nummer 5, die der
 wissenschaftlichen Forschung dienen, hat der Vorhabenträger
@@ -209,6 +247,11 @@ unbeschadet des Absatzes 1 sicherzustellen, dass die Maßnahmen
 5.  mit ihren Ergebnissen in wissenschaftlichen Fachzeitschriften
     veröffentlicht werden.
 
+(3) Vorhaben im Rahmen des marinen Geo-Engineerings dürfen
+die sonstigen rechtmäßigen Nutzungen des Meeres nach dem
+Seerechtsübereinkommen der Vereinten Nationen vom 10. Dezember 1982
+(BGBl. 1994 II S. 1798, 1799) nicht unangemessen beeinträchtigen.
+
 
 ## § 6 Verbrennungsverbot
 
@@ -216,36 +259,74 @@ Die Verbrennung von Abfällen oder sonstigen Stoffen auf Hoher See
 ist verboten.
 
 
+## § 6a Ausfuhrverbot, Ausnahmen
+
+(1) Die Ausfuhr von Abfällen und sonstigen Stoffen und Gegenständen in
+andere Staaten zum Zweck eines Einbringens in die Hohe See oder einer
+Verbrennung auf Hoher See ist verboten.
+
+(2) Abweichend von Absatz 1 dürfen Kohlendioxidströme nach § 4 Satz
+2 Nummer 4 in einen anderen Staat zum Zweck eines Einbringens in die
+Hohe See ausgeführt werden, wenn
+
+1.  zwischen der Bundesrepublik Deutschland und dem Empfängerstaat eine
+    Übereinkunft geschlossen oder eine Abmachung getroffen wurde, die
+    den Anforderungen der Entschließung LP.3(4) zur Änderung von Artikel
+    6 des Londoner Protokolls entspricht, die die Vertragsparteien des
+    Protokolls vom 7. November 1996 zum Übereinkommen über die Verhütung
+    der Meeresverschmutzung durch das Einbringen von Abfällen und anderen
+    Stoffen von 1972 am 30. Oktober 2009 angenommen haben, und
+
+2.  die Übereinkunft oder Abmachung nach Nummer 1 bei der Internationalen
+    Seeschifffahrts-Organisation notifiziert wurde.
+
+Für Ausfuhren in Mitgliedstaaten der Europäischen Union und
+Vertragsstaaten des Europäischen Wirtschaftsraums gelten vorrangig die
+Maßgaben des einschlägigen Unionsrechts sowie die zur Umsetzung dieses
+Unionsrechts erlassenen Regelungen.
+
+
 ## § 7 Notlage
 
-§ 4 wird nicht angewandt, wenn Stoffe in die Hohe See eingebracht oder
-eingeleitet werden, um eine Gefahr für das Leben oder die Gesundheit
-von Personen oder für die Sicherheit eines Schiffes, Luftfahrzeuges
-oder einer festen oder schwimmenden Plattform oder Vorrichtung zur
-Erforschung und Ausbeutung des Festlandsockels abzuwenden. Der Führer
-des Schiffes oder des Luftfahrzeuges oder die für die Sicherheit
-der Anlage verantwortliche Person hat das Einbringen oder Einleiten
-unverzüglich unter Angabe der näheren Umstände und der Art und
-Menge der eingebrachten oder eingeleiteten Stoffe dem Bundesamt für
-Seeschiffahrt und Hydrographie zu melden.
+(1) § 4 Satz 1 gilt nicht, wenn Stoffe in die Hohe See eingebracht
+oder eingeleitet werden, um eine Gefahr für das Leben oder die
+Gesundheit von Personen oder für die Sicherheit eines Schiffes,
+Luftfahrzeuges oder einer festen oder schwimmenden Plattform oder
+Vorrichtung zur Erforschung und Ausbeutung des Festlandsockels
+abzuwenden. Der Führer des Schiffes oder des Luftfahrzeuges oder
+die für die Sicherheit der Anlage verantwortliche Person hat das
+Einbringen oder Einleiten unverzüglich unter Angabe der näheren
+Umstände und der Art und Menge der eingebrachten oder eingeleiteten
+Stoffe dem Bundesamt für Seeschifffahrt und Hydrographie zu melden.
+
+(2) § 4 Satz 1 gilt ferner nicht, wenn
+
+1.  Stoffe gemäß § 3 Absatz 1 Satz 1 Nummer 6 in die Hohe See eingebracht
+    werden, um eine Gefahr für die Meeresumwelt abzuwenden,
+
+2.  andere wirksame Methoden nicht eingesetzt werden können und
+
+3.  die durch das Einbringen bewirkten positiven Folgen gegenüber den
+    negativen Folgen für die Meeresumwelt überwiegen.
 
 
 ## § 8 Zuständigkeiten, Aufgaben und Befugnisse
 
 (1) Das Bundesamt für Seeschifffahrt und Hydrographie ist für
-den Vollzug dieses Gesetzes zuständig; es untersteht insoweit der
-Fachaufsicht des Bundesministeriums für Umwelt, Naturschutz und
-nukleare Sicherheit. Um festzustellen, ob die Voraussetzungen des
-§ 5 Abs. 2 Satz 1 und 2 vorliegen, hört es die zuständigen Behörden
-des Bundes und der Länder an. Das Bundesamt für Seeschiffahrt
-und Hydrographie holt bei Baggergut vor der Entscheidung eine
-Stellungnahme des Umweltbundesamtes ein. Das Umweltbundesamt stellt
-nach Anhörung der zuständigen Landesbehörde, in deren Bereich das
-Baggergut angefallen ist oder beseitigt werden könnte, fest, ob die
-Voraussetzungen des § 5 Abs. 2 Satz 3 vorliegen. Das Bundesamt für
-Seeschiffahrt und Hydrographie kann die zur Entscheidungsfindung
-erforderlichen Feststellungen treffen, Untersuchungen anordnen und die
-Einhaltung der Bedingungen und Auflagen überwachen.
+den Vollzug dieses Gesetzes zuständig; es untersteht insoweit
+der Fachaufsicht des Bundesministeriums für Umwelt, Klimaschutz,
+Naturschutz und nukleare Sicherheit. Um festzustellen, ob die
+Voraussetzungen des § 5 Absatz 2 Satz 1 und 2 vorliegen, hört es
+die zuständigen Behörden des Bundes und der Länder an. Das Bundesamt
+für Seeschifffahrt und Hydrographie holt bei Baggergut vor der
+Entscheidung eine Stellungnahme des Umweltbundesamtes ein. Das
+Umweltbundesamt stellt nach Anhörung der zuständigen Landesbehörde,
+in deren Bereich das Baggergut angefallen ist oder beseitigt
+werden könnte, fest, ob die Voraussetzungen des § 5 Absatz 2 Satz
+3 vorliegen. Das Bundesamt für Seeschifffahrt und Hydrographie kann
+die zur Entscheidungsfindung erforderlichen Feststellungen treffen,
+Untersuchungen anordnen und die Einhaltung der Bedingungen und
+Auflagen überwachen.
 
 (2) Das Bundesamt für Seeschifffahrt und Hydrographie kann die
 notwendigen Maßnahmen treffen, die zur Feststellung oder zur
@@ -281,7 +362,30 @@ Bundesamtes für Seeschifffahrt und Hydrographie, des Bundesamtes für
 Naturschutz, der zuständigen Behörden der Länder sowie der Deutschen
 Forschungsgemeinschaft e. V. ein.
 
-(4) Verwaltungsakte zur Durchführung dieses Gesetzes oder der
+(4) Für das Einbringen von Stoffen gemäß § 7 Absatz 2 ist das
+Havariekommando nach § 1 der Vereinbarung zwischen der Bundesrepublik
+Deutschland und den Ländern der Freien Hansestadt Bremen, Freie
+und Hansestadt Hamburg, Mecklenburg-Vorpommern, Niedersachsen und
+Schleswig-Holstein über die Errichtung des Havariekommandos vom 19.
+Juni 2002 (Gesetz- und Verordnungsblatt für Schleswig-Holstein 2003,
+S. 238) zuständig. Sofern keine Gefahr im Verzug vorliegt, trifft es
+Entscheidungen über ein Einbringen von Stoffen nach § 7 Absatz 2 im
+Benehmen mit
+
+1.  dem Bundesamt für Seeschifffahrt und Hydrographie,
+
+2.  dem Umweltbundesamt,
+
+3.  dem Bundesamt für Naturschutz und
+
+4.  den nach Landesrecht zuständigen Behörden.
+
+Sind unter der Voraussetzung des Satzes 2 Auswirkungen auf nach §
+57 Absatz 2 des Bundesnaturschutzgesetzes geschützte Meeresgebiete
+zu erwarten, ist das Einvernehmen des Bundesamtes für Naturschutz
+erforderlich.
+
+(5) Verwaltungsakte zur Durchführung dieses Gesetzes oder der
 Vorschriften aufgrund von § 9 Satz 1 Nummer 1 werden nach dem
 Verwaltungs-Vollstreckungsgesetz und dem Gesetz über den unmittelbaren
 Zwang bei Ausübung öffentlicher Gewalt durch Vollzugsbeamte
@@ -295,11 +399,11 @@ mit dem Bundesministerium des Innern, für Bau und Heimat und dem
 Bundesministerium der Finanzen das Zusammenwirken der Wasserstraßen-
 und Schifffahrtsverwaltung, der Bundespolizei und der Zollverwaltung.
 
-(5) § 8 des Seeaufgabengesetzes gilt entsprechend. Das Grundrecht
+(6) § 8 des Seeaufgabengesetzes gilt entsprechend. Das Grundrecht
 der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) wird
 insoweit eingeschränkt.
 
-(6) Für Amtshandlungen aufgrund der Absätze 1 und 2 oder der auf §
+(7) Für Amtshandlungen aufgrund der Absätze 1 und 2 oder der auf §
 9 Satz 1 Nummer 1 beruhenden Rechtsverordnungen werden Gebühren und
 Auslagen erhoben.
 
@@ -333,24 +437,29 @@ wissenschaftlichen Forschung dienen.
 1.  entgegen § 4 Satz 1 Abfälle oder sonstige Stoffe oder Gegenstände in
     die See einbringt,
 
-2.  ohne Erlaubnis nach § 5 Absatz 1 Satz 1 Stoffe oder Gegenstände
-    einbringt,
+2.  ohne Erlaubnis nach § 5 Absatz 1 Stoffe oder Gegenstände einbringt,
 
-3.  eine Bedingung nach § 5 Absatz 2 Satz 1 nicht einhält,
+3.  einer vollziehbaren Auflage nach § 5 Absatz 2 Satz 1 zuwiderhandelt,
 
-4.  einer vollziehbaren Auflage nach § 5 Absatz 2 Satz 1 zuwiderhandelt,
+4.  entgegen § 6 Abfälle oder sonstige Stoffe verbrennt,
 
-5.  entgegen § 6 Abfälle oder sonstige Stoffe verbrennt oder
+5.  entgegen § 6a Absatz 1 Abfälle oder sonstige Stoffe oder Gegenstände
+    ausführt oder
 
-6.  entgegen § 7 Satz 2 eine Meldung nicht, nicht richtig, nicht
+6.  entgegen § 7 Absatz 1 Satz 2 eine Meldung nicht, nicht richtig, nicht
     vollständig oder nicht rechtzeitig macht.
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
 fünfzigtausend Euro geahndet werden.
 
-(3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1
-des Gesetzes über Ordnungswidrigkeiten ist das Bundesamt für
-Seeschifffahrt und Hydrographie.
+(3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
+Gesetzes über Ordnungswidrigkeiten ist
+
+1.  in den Fällen des Absatzes 1 Nummer 2 und 3 das Umweltbundesamt beim
+    Einbringen von Stoffen oder Gegenständen nach § 4 Satz 2 Nummer 3,
+
+2.  in den übrigen Fällen des Absatzes 1 das Bundesamt für Seeschifffahrt
+    und Hydrographie.
 
 
 ## § 11 Vollzugsbeamte
@@ -359,7 +468,7 @@ Die in § 8 Absatz 4 bezeichneten Vollzugsbeamten des Bundes haben
 auf der Hohen See bei der Erforschung von Zuwiderhandlungen nach §
 10 und nach den §§ 324, 326, 330 und 330a des Strafgesetzbuches die
 Rechte und Pflichten der Polizeibeamten nach den Vorschriften der
-Strafprozeßordnung und des Gesetzes über Ordnungswidrigkeiten. Sie
+Strafprozessordnung und des Gesetzes über Ordnungswidrigkeiten. Sie
 sind insoweit Ermittlungspersonen der Staatsanwaltschaft.
 
 
@@ -397,12 +506,34 @@ Dieses Gesetz tritt am Tage nach der Verkündung in Kraft.
 
 ## Anlage (zu § 4 Satz 2 Nummer 3)Maßnahmen des marinen Geo-Engineerings
 
-(Fundstelle: BGBl. I 2018, S. 2255)
+(Fundstelle: BGBl. 2026 I Nr. 70, S. 3 – 4)
 
-Folgende Maßnahmen sind Maßnahmen des marinen Geo-Engineerings nach §
-4 Satz 2 Nummer 3:
+Maßnahmen des marinen Geo-Engineerings nach § 4 Satz 2 Nummer
+3 sind die folgenden Tätigkeiten, wenn sie ausschließlich der
+wissenschaftlichen Forschung dienen:
 
-Tätigkeiten, die darauf abzielen, die Primärproduktion im Meer
-anzuregen (Meeresdüngung), wenn sie der wissenschaftlichen Forschung
-dienen.
+1.  Einbringung von Materialien zur Anregung der Primärproduktion im
+    Meer, um die Aufnahmefähigkeit der Biomasse für Kohlendioxid aus der
+    Atmosphäre zu erhöhen (Meeresdüngung);
+
+2.  Einbringung von Materialien zur Erhöhung der Alkalinität des
+    Meerwassers, um die Aufnahmefähigkeit des Meerwassers für Kohlendioxid
+    aus der Atmosphäre zu erhöhen oder der Versauerung entgegenzuwirken
+    (Ozean-Alkalinisierung);
+
+3.  Versenkung oder Freisetzung von biologischem Material lebender
+    oder toter Organismen auf den Meeresboden, um dem natürlichen
+    Kohlenstoffkreislauf Kohlenstoff zu entziehen (Versenkung von Biomasse
+    im Meer); dies umfasst nicht Tätigkeiten zur Wiederherstellung von
+    Lebensräumen;
+
+4.  Verbringung von Kohlendioxid zur Mineralisierung im Basaltgestein
+    der oberen Ozeankruste, um Kohlenstoff in diesen Gesteinsschichten
+    einzulagern (Speicherung in ozeanischer Kruste); dies umfasst
+    keine Speichervorhaben im Sinne von § 3 Nummer 3 des Kohlendioxid-
+    Speicherung-und-Transport-Gesetzes (Forschungsspeicher);
+
+5.  Umverteilung von Meerwasser durch technisch unterstütze Maßnahmen, um
+    die Aufnahme von Kohlendioxid aus der Atmosphäre durch das Meerwasser
+    oder die Meeresorganismen zu erhöhen (künstlicher Auftrieb).
 

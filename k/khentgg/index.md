@@ -1303,7 +1303,7 @@ zur voll- oder teilstationären Behandlung in das Krankenhaus
 aufgenommen werden,jeweils einen Zuschlag in Höhe des nach Satz 5 für
 das jeweilige Kalenderjahrermittelten Prozentsatzes auf die im auf
 Bundesebene vereinbartenEntgeltkatalog bewerteten Fallpauschalen nach
-§ 7 Absatz 1 Satz 1Nummer 1. Die Krankenhäuser haben den Zuschlag
+§ 7 Absatz 1 Satz 1 Nummer 1. Die Krankenhäuser haben den Zuschlag
 jeweils gesondert in der Rechnung auszuweisen. In den Kalenderjahren
 2025, 2026 und 2027 berechnen die in § 17b Absatz 1 Satz 10 des
 Krankenhausfinanzierungsgesetzes genannten besonderen Einrichtungen,
@@ -3553,9 +3553,9 @@ Fünften Buches Sozialgesetzbuch vereinbart oder nach § 130b Absatz 4
 des Fünften Buches Sozialgesetzbuch festgesetzt wurde, für Leistungen
 oder für neue Untersuchungs- und Behandlungsmethoden, die die Gabe
 dieses Arzneimittels beinhaltenund für die ein Entgelt nach § 6 Absatz
-1 oder 2 zu vereinbaren ist,ein Entgelt in Höhe des vereinbarten oder
-festgesetzten Erstattungsbetragszu erheben, sofern für den jeweiligen
-Vereinbarungszeitraum kein Entgeltvereinbart oder festgesetzt
+1 oder 2 zu vereinbaren ist, ein Entgelt in Höhe des vereinbarten oder
+festgesetzten Erstattungsbetrags zu erheben, sofern für den jeweiligen
+Vereinbarungszeitraum kein Entgelt vereinbart oder festgesetzt
 wurde, das niedriger als der jeweils vereinbarteoder festgesetzte
 Erstattungsbetrag ist.
 
