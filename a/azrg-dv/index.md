@@ -16,10 +16,10 @@ Fundstelle
 :   BGBl I: 1995, 695
 
 Zuletzt geändert durch
-:   Art. 12 G v 22.7.2026 I Nr. 222
+:   Art. 15 Nr. 1 u. 2 G v 22.7.2026 I Nr. 222
 
 Änderung durch
-:   Art. 15 G v 22.7.2026 I Nr. 222 mWv 13.6.2026 bzw. 29.7.2026 bzw. 1.11.2026 bzw. mit zukünftiger Wirkung noch nicht berücksichtigt
+:   Art. 15 Nr. 3 G v 22.7.2026 I Nr. 222 mWv 13.6.2026 bzw. 29.7.2026 bzw. 1.11.2026 bzw. mit zukünftiger Wirkung noch nicht berücksichtigt
 
 Änderung durch
 :   Art. 17 G v 22.7.2026 I Nr. 222 mWv 1.11.2027 bzw. 1.5.2028 noch nicht berücksichtigt
