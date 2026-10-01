@@ -725,6 +725,13 @@ mit Siegel oder Stempel zu versehen. Anstelle der Siegelung kann
 maschinell ein Abdruck des Dienstsiegels eingedruckt oder aufgedruckt
 werden.
 
+(4) Der Form des Absatzes 1 genügt auch der beglaubigte Ausdruck oder
+die beglaubigte Abschrift eines elektronischen Dokuments, das den
+Voraussetzungen des § 137 Absatz 1 entspricht. Der Form des Absatzes
+3 Satz 1 genügt auch der beglaubigte Ausdruck oder die beglaubigte
+Abschrift eines elektronischen Dokuments, das den Voraussetzungen des
+§ 137 Absatz 2 entspricht.
+
 
 ### § 29a
 

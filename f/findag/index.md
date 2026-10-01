@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 G v. 22.7.2026 I Nr. 223
 
+Änderung durch
+:   Art. 6 G v. 25.9.2026 I Nr. 275 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erster Abschnitt - Errichtung, Aufsicht, Aufgaben
 

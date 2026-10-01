@@ -1793,7 +1793,9 @@ ist.
 Der Wert unbebauter Grundstücke bestimmt sich regelmäßig nach
 ihrer Fläche und den Bodenrichtwerten (§ 196 des Baugesetzbuchs).
 Die Bodenrichtwerte sind von den Gutachterausschüssen nach dem
-Baugesetzbuch zu ermitteln und den Finanzämtern mitzuteilen. Bei
+Baugesetzbuch zu ermitteln, zu veröffentlichen und nach amtlich
+vorgeschriebenem Datensatz über die amtlich bestimmte Schnittstelle
+elektronisch an die zuständigen Finanzbehörden zu übermitteln. Bei
 der Wertermittlung ist stets der Bodenrichtwert anzusetzen, der vom
 Gutachterausschuss zuletzt vor dem Bewertungsstichtag zu ermitteln
 war. Wird von den Gutachterausschüssen kein Bodenrichtwert ermittelt,

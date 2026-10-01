@@ -105,8 +105,8 @@ abweichenden Formular gemacht.
         sowie
 
     b)  die Zuordnung von Text zu den jeweiligen Sinneinheiten, die durch
-        einen mit einem Buchstaben versehenen und grau hinterlegten Balken
-        gekennzeichnet sind (Module).
+        eine mit einem Buchstaben versehene eckige Klammer gekennzeichnet
+        sind (Module).
 
 (2) Zulässig ist es,
 
@@ -197,16 +197,30 @@ ab dem 1. Oktober 2025 gestellt werden.
 
 ## Anlage 1 (zu § 1 Absatz 1)Vollstreckungsauftrag an Gerichtsvollzieher
 
-(Fundstelle: BGBl. 2024 I Nr. 203, S. 3 – 10)
+(Fundstelle: BGBl. 2026 I Nr. 132, S. 3 – 10)
 
-[Anlage: bgbl1_2024_j10203a_0010.pdf](bgbl1_2024_j10203a_0010.pdf)
+[Anlage: bgbl1_2026_j01320_0010.pdf](bgbl1_2026_j01320_0010.pdf)
+
+[Anlage: bgbl1_2026_j01320_0020.pdf](bgbl1_2026_j01320_0020.pdf)
+
+[Anlage: bgbl1_2026_j01320_0030.pdf](bgbl1_2026_j01320_0030.pdf)
+
+[Anlage: bgbl1_2026_j01320_0040.pdf](bgbl1_2026_j01320_0040.pdf)
+
+[Anlage: bgbl1_2026_j01320_0050.pdf](bgbl1_2026_j01320_0050.pdf)
+
+[Anlage: bgbl1_2026_j01320_0060.pdf](bgbl1_2026_j01320_0060.pdf)
+
+[Anlage: bgbl1_2026_j01320_0070.pdf](bgbl1_2026_j01320_0070.pdf)
 
 
 ## Anlage 2 (zu § 1 Absatz 2)Antrag auf Erlass einer richterlichen Durchsuchungsanordnung und einer richterlichen Anordnung der Vollstreckung zur Nachtzeit und an Sonn- und Feiertagen
 
-(Fundstelle: BGBl. 2024 I Nr. 203, S. 11 – 13)
+(Fundstelle: BGBl. 2026 I Nr. 132, S. 11 – 13)
 
-[Anlage: bgbl1_2024_j10203b_0010.pdf](bgbl1_2024_j10203b_0010.pdf)
+[Anlage: bgbl1_2026_j01320_0080.pdf](bgbl1_2026_j01320_0080.pdf)
+
+[Anlage: bgbl1_2026_j01320_0090.pdf](bgbl1_2026_j01320_0090.pdf)
 
 
 ## Anlage 3 (zu § 1 Absatz 2)Entwurf einer richterlichen Durchsuchungsanordnung und einer richterlichen Anordnung der Vollstreckung zur Nachtzeit und an Sonn- und Feiertagen
@@ -218,9 +232,11 @@ ab dem 1. Oktober 2025 gestellt werden.
 
 ## Anlage 4 (zu § 1 Absatz 3)Antrag auf Erlass eines Pfändungsbeschlusses und eines Pfändungs- und Überweisungsbeschlusses
 
-(Fundstelle: BGBl. 2024 I Nr. 203, S. 20 – 22)
+(Fundstelle: BGBl. 2026 I Nr. 132, S. 14 – 16)
 
-[Anlage: bgbl1_2024_j10203d_0010.pdf](bgbl1_2024_j10203d_0010.pdf)
+[Anlage: bgbl1_2026_j01320_0100.pdf](bgbl1_2026_j01320_0100.pdf)
+
+[Anlage: bgbl1_2026_j01320_0110.pdf](bgbl1_2026_j01320_0110.pdf)
 
 
 ## Anlage 5 (zu § 1 Absatz 3)Entwurf eines Pfändungsbeschlusses und eines Pfändungs- und Überweisungsbeschlusses

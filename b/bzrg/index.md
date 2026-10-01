@@ -985,6 +985,29 @@ Originals verlangen.
 Registerbehörde. Im Übrigen gilt § 30 entsprechend.
 
 
+##### § 30d Digitales Führungszeugnis
+
+(1) Wird das Führungszeugnis elektronisch beantragt (§ 30c), so wird
+es in digitaler Form erteilt (Digitales Führungszeugnis), wenn
+
+1.  die antragstellende Person dies verlangt und
+
+2.  es sich nicht um ein Führungszeugnis zur Vorlage bei einer Behörde (§
+    30 Absatz 5) handelt.
+
+(2) Das Digitale Führungszeugnis wird erteilt, indem es über das
+Nutzerkonto der antragstellenden Person nach § 3 Absatz 1 Satz 1 des
+Onlinezugangsgesetzes zum Abruf bereitgestellt wird. Die Erteilung auf
+anderem Wege ist unzulässig.
+
+(3) Die Ausstellung durch die Registerbehörde, das Erteilungsdatum
+sowie die Unverändertheit des Digitalen Führungszeugnisses können
+elektronisch verifiziert werden.
+
+(4) Die näheren Einzelheiten der Bereitstellung nach Absatz 2 Satz 1
+und der Verifizierung nach Absatz 3 regelt die Registerbehörde.
+
+
 ##### § 31 Erteilung des Führungszeugnisses und des erweiterten Führungszeugnisses an Behörden
 
 (1) Behörden erhalten über eine bestimmte Person ein Führungszeugnis,

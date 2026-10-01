@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2023, Nr. 140
 
 Zuletzt geändert durch
-:   Art. 2 G v. 22.7.2026 I Nr. 223
+:   Art. 9 Abs. 1 G v. 25.9.2026 I Nr. 275
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften

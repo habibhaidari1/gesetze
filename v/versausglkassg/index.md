@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 1939, 1947
 
 Zuletzt geändert durch
-:   Art. 426 V v. 31.8.2015 I 1474
+:   Art. 9 Abs. 3 G v. 25.9.2026 I Nr. 275
 
 
 ## § 1 Aufgabe

@@ -1931,6 +1931,11 @@ Verhandlung ergehen. Eine in das Schutzschriftenregister nach § 945a
 Absatz 1 der Zivilprozessordnung eingestellte Schutzschrift gilt auch
 als bei allen Arbeitsgerichten der Länder eingereicht.
 
+(3) Die §§ 752a und 753a der Zivilprozessordnung sind mit der Maßgabe
+anzuwenden, dass an die Stelle der in § 79 Absatz 2 Satz 1 und 2
+Nummer 3 und 4 der Zivilprozessordnung Genannten die in § 11 Absatz 2
+Satz 1 und 2 Nummer 3 bis 5 Genannten treten.
+
 
 ##### § 63 Übermittlung von Urteilen in Tarifvertragssachen
 

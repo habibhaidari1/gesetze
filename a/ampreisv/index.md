@@ -196,6 +196,12 @@ erhoben werden.
 Sozialgesetzbuch durch die Apotheke ist je Austausch ein Zuschlag in
 Höhe von 50 Cent sowie die Umsatzsteuer zu erheben.
 
+(1b) Für den Zeitraum vom 1. Januar 2027 bis zu dem letzten Tag des
+Quartals, das das Bundesministerium für Gesundheit nach § 20c Absatz
+3 Satz 3 des Apothekengesetzes bekanntzugeben hat, ist abweichend
+von Absatz 1 Satz 1 der Zuschlag zur Förderung der Sicherstellung des
+Notdienstes nicht zu erheben.
+
 (2) Der relative Anteil ist zu erheben
 
 1.  außer in den Fällen von Nummer 2 auf den Betrag, der sich aus der

@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 9.5.1975 I 1077;
 
 Zuletzt geändert durch
-:   Art. 4 G v. 9.1.2026 I Nr. 3
-
-Änderung durch
-:   Art. 2 Abs. 6 G v. 20.3.2026 I Nr. 95 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 Abs. 6 G v. 20.3.2026 I Nr. 95
 
 Änderung durch
 :   Art. 5 G v. 2.7.2026 I Nr. 198 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet

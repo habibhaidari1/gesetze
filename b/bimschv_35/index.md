@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2006, 2218
 
 Zuletzt geändert durch
-:   Art. 85 V v. 31.8.2015 I 1474
+:   Art. 1 V v. 25.9.2026 I Nr. 278
 
 
 ## § 1 Anwendungsbereich
@@ -747,8 +747,8 @@ Elektromotor, Brennstoffzellenfahrzeuge) werden der Schadstoffgruppe
 
 ## Anhang 3 Ausnahmen von der Kennzeichnungspflicht nach § 2 Abs. 1 (zu § 2 Abs. 3)
 
-Fundstelle des Originaltextes: BGBl. I 2006, 2225;
-bzgl. der einzelnen Änderungen vgl. Fußnote
+(Fundstelle: BGBl. I 2006, 2225;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Folgende Kraftfahrzeuge sind von Verkehrsverboten nach § 40 Abs. 1 des
 Bundes-Immissionsschutzgesetzes auch dann ausgenommen, wenn sie nicht
@@ -789,5 +789,8 @@ gemäß § 2 Abs. 1 mit einer Plakette gekennzeichnet sind:
     Zulassungsverordnung führen, sowie Fahrzeuge, die in einem anderen
     Mitgliedstaat der Europäischen Union, einer anderen Vertragspartei
     des Abkommens über den Europäischen Wirtschaftsraum oder der Türkei
-    zugelassen sind, wenn sie gleichwertige Anforderungen erfüllen.
+    zugelassen sind, wenn sie gleichwertige Anforderungen erfüllen,
+
+11. Kraftfahrzeuge mit einer Kennzeichnung für elektrisch betriebene
+    Fahrzeuge nach § 11 der Fahrzeug-Zulassungsverordnung.
 

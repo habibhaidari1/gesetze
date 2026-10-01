@@ -961,6 +961,30 @@ Gegenstand hat, ist auch demjenigen, für den das Rechtsgeschäft
 genehmigt wird, bekannt zu geben.
 
 
+#### § 41a Elektronische Bekanntgabe; Übermittlung; Verordnungsermächtigungen
+
+(1) Einem Notar ist ein Beschluss, der die Genehmigung eines
+Rechtsgeschäfts zum Gegenstand hat, als gerichtliches elektronisches
+Dokument bekanntzugeben. Das qualifizierte Zertifikat, das einer bei
+der Erstellung des Dokuments verwendeten Signatur zugrunde liegt, oder
+ein zugehöriges qualifiziertes Attributzertifikat muss das Gericht
+erkennen lassen.
+
+(2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
+Zustimmung des Bundesrates
+
+1.  Einzelheiten der Datenübermittlung und Datenspeicherung zu regeln
+    sowie Dateiformate und Anforderungen an die Barrierefreiheit für die
+    zu übermittelnden gerichtlichen elektronischen Dokumente festzulegen,
+
+2.  zu bestimmen, dass Gerichte neben dem gerichtlichen elektronischen
+    Dokument bestimmte Angaben in strukturierter maschinenlesbarer Form
+    übermitteln müssen, und
+
+3.  Regelungen für den Fall des Auftretens technischer Störungen
+    anzuordnen.
+
+
 #### § 42 Berichtigung des Beschlusses
 
 (1) Schreibfehler, Rechenfehler und ähnliche offenbare Unrichtigkeiten
@@ -1040,15 +1064,22 @@ eingelegt wird.
 
 #### § 46 Rechtskraftzeugnis
 
-Das Zeugnis über die Rechtskraft eines Beschlusses ist auf Grund
+(1) Das Zeugnis über die Rechtskraft eines Beschlusses ist auf Grund
 der Verfahrensakten von der Geschäftsstelle des Gerichts des ersten
 Rechtszugs zu erteilen. Solange das Verfahren in einem höheren
 Rechtszug anhängig ist, erteilt die Geschäftsstelle des Gerichts
-dieses Rechtszugs das Zeugnis. In Ehe- und Abstammungssachen
+dieses Rechtszugs das Zeugnis. In Ehe- und in Abstammungssachen
 wird den Beteiligten von Amts wegen ein Rechtskraftzeugnis auf
 einer Ausfertigung ohne Begründung erteilt. Die Entscheidung der
 Geschäftsstelle ist mit der Erinnerung in entsprechender Anwendung des
 § 573 der Zivilprozessordnung anfechtbar.
+
+(2) Einem Notar muss das Zeugnis über die Rechtskraft eines
+Beschlusses, der die Genehmigung eines Rechtsgeschäfts zum Gegenstand
+hat, als gerichtliches elektronisches Dokument erteilt werden. §
+41a Absatz 1 Satz 2 gilt entsprechend. Die Ermächtigung nach § 41a
+Absatz 2 gilt entsprechend für das Zeugnis über die Rechtskraft eines
+Beschlusses nach Satz 1.
 
 
 #### § 47 Wirksam bleibende Rechtsgeschäfte
@@ -2066,6 +2097,11 @@ nach den §§ 883, 885 bis 887 der Zivilprozessordnung die in § 888 der
 Zivilprozessordnung vorgesehenen Maßnahmen anordnen, soweit ein Gesetz
 nicht etwas anderes bestimmt.
 
+(5) Die §§ 752a und 753a der Zivilprozessordnung sind mit der Maßgabe
+anzuwenden, dass an die Stelle der in § 79 Absatz 2 Satz 1 und 2
+Nummer 3 und 4 der Zivilprozessordnung Genannten die in § 10 Absatz 2
+Satz 1 und 2 Nummer 3 Genannten treten.
+
 
 ##### § 96 Vollstreckung in Verfahren nach dem Gewaltschutzgesetz und in Ehewohnungssachen
 
@@ -2493,11 +2529,12 @@ Familienstreitsachen sind folgende Familiensachen:
 
 #### § 113 Anwendung von Vorschriften der Zivilprozessordnung
 
-(1) In Ehesachen und Familienstreitsachen sind die §§ 2 bis 22, 23
-bis 37, 40 bis 45, 46 Satz 1 und 2 sowie die §§ 47 und 48 sowie 76
-bis 96 nicht anzuwenden. Es gelten die Allgemeinen Vorschriften der
-Zivilprozessordnung und die Vorschriften der Zivilprozessordnung über
-das Verfahren vor den Landgerichten entsprechend.
+(1) In Ehesachen und Familienstreitsachen sind die §§ 2 bis 22,
+23 bis 37, 40 bis 45, 46 Absatz 1 Satz 1 und 2 und Absatz 2 sowie
+die §§ 47 und 48 sowie 76 bis 96 nicht anzuwenden. Es gelten die
+Allgemeinen Vorschriften der Zivilprozessordnung und die Vorschriften
+der Zivilprozessordnung über das Verfahren vor den Landgerichten
+entsprechend.
 
 (2) In Familienstreitsachen gelten die Vorschriften der
 Zivilprozessordnung über den Urkunden- und Wechselprozess und über das

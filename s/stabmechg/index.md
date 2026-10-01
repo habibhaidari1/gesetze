@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 10 G v. 22.12.2023 I Nr. 412
 
+Änderung durch
+:   Art. 8 G v. 25.9.2026 I Nr. 275 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -118,9 +121,8 @@ berührt
     Mitgliedstaates des Euro-Währungsgebietes,
 
 2.  bei einer wesentlichen Änderung einer Vereinbarung über eine
-    Notmaßnahme, einer Änderung ihrer Instrumente und Bedingungen und
-    bei einer Änderung, die Auswirkungen auf die Höhe des deutschen
-    Gewährleistungsrahmens hat,
+    Notmaßnahme, ihrer Instrumente oder Bedingungen, sofern diese Änderung
+    Auswirkungen auf die Höhe des deutschen Gewährleistungsrahmens hat,
 
 3.  bei Änderungen des Rahmenvertrags der Europäischen
     Finanzstabilisierungsfazilität,

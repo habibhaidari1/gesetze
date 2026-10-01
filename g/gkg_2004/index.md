@@ -420,8 +420,10 @@ Rechtsnachfolger (§ 727, auch in Verbindung mit den §§ 728, 729, 738,
 § 829 Absatz 1, §§ 835, 839, 846 bis 848, 857, 858, 886 bis 888 oder §
 890 der Zivilprozessordnung soll erst nach Zahlung der Gebühr für das
 Verfahren und der Auslagen für die Zustellung entschieden werden. Dies
-gilt nicht bei elektronischen Anträgen auf gerichtliche Handlungen der
-Zwangsvollstreckung gemäß § 829a der Zivilprozessordnung.
+gilt nicht bei elektronischen Anträgen auf gerichtliche Handlungen
+der Zwangsvollstreckung gemäß § 829a der Zivilprozessordnung, wenn
+die Dokumente zum Nachweis der Vollstreckungsvoraussetzungen als
+elektronische Dokumente übermittelt werden.
 
 (7) In schiedsrichterlichen Verfahren der in den Nummern 1620 bis 1625
 des Kostenverzeichnisses bezeichneten Art soll vor Zahlung der Gebühr
