@@ -16,13 +16,7 @@ Fundstelle
 :   BGBl I: 1994, 2265
 
 Zuletzt geändert durch
-:   Art. 14 G v 22.7.2026 I Nr. 222
-
-Änderung durch
-:   Art. 16 Nr. 1 bis 3 u. 5 bis 7 G v 22.7.2026 I Nr. 222 mWv 1.5.2028 noch nicht berücksichtigt
-
-Änderung durch
-:   Art. 16 Nr. 4 G v 22.7.2026 I Nr. 222 ist berücksichtigt
+:   Art. 16 G v 22.7.2026 I Nr. 222
 
 
 ## Eingangsformel

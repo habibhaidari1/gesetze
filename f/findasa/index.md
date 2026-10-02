@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 1500
 
 Zuletzt geändert durch
-:   Art. 1 V v. 10.4.2026 I Nr. 96
-
-Änderung durch
-:   Art. 7 G v. 25.9.2026 I Nr. 275 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 7 G v. 25.9.2026 I Nr. 275
 
 
 ## Erster Abschnitt - Aufbau und Geschäftsführung

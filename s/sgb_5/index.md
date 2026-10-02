@@ -21,6 +21,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 1 G v. 24.7.2026 I Nr. 228 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Stand
+:   Bek. v. 16.9.2026 I Nr. 282 ist berücksichtigt
+
 
 ## Erstes Kapitel - Allgemeine Vorschriften
 
@@ -36200,7 +36203,9 @@ Versichertenverzeichnis hat alle Angaben zu enthalten, die zur
 Feststellung der Versicherungspflicht oder -berechtigung, zur
 Bemessung und Einziehung der Beiträge, soweit nach der Art der
 Versicherung notwendig, sowie zur Feststellung des Leistungsanspruchs
-einschließlich der Versicherung nach § 10 erforderlich sind.
+einschließlich der Versicherung nach § 10 erforderlich sind. Darüber
+hinaus enthält das Versichertenverzeichnis die Identifikationsnummer
+nach dem Identifikationsnummerngesetz.
 
 
 ##### § 289 Nachweispflicht bei Familienversicherung
