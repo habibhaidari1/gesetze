@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2021, 4744
 
 Zuletzt geändert durch
-:   Art. 4 V v. 7.9.2026 I Nr. 257
+:   Art. 4 V v. 7.9.2026 I Nr. 257, Nr. 284
 
 
 ## Eingangsformel
@@ -183,10 +183,6 @@ der folgenden Vorschriften erbracht werden:
     (HNSPflichtVersBeschV),
 
 68. Schiffssicherheitsgesetz (SchSG),
-
-65. Seeversicherungsnachweisverordnung (SeeVersNachwV),
-
-66. Schiffssicherheitsgesetz (SchSG),
 
 69. Schiffsbesetzungsverordnung (SchBesV),
 

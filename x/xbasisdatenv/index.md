@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2022, 601
 
+Geändert durch
+:   Art. 1 V v. 22.9.2026 I Nr. 283
+
 
 ## Eingangsformel
 
@@ -38,16 +41,15 @@ Identifikationsnummerngesetzes zu übermittelnden Daten fest.
 (2) Für die Datenübermittlungen an und durch die
 Registermodernisierungsbehörde nach § 7 Absatz 1 Satz 1 und § 10
 Absatz 4 des Identifikationsnummerngesetzes sind XBasisdaten sowie
-als Transportstandards XTA 2 in Verbindung mit OSCI-Transport in
-der jeweils aktuellen Fassung oder andere in XBasisdaten genannte
-Standards oder Schnittstellen zu verwenden. Die näheren Anforderungen
-an eine sichere Datenübermittlung werden in einer Anlage zu
-XBasisdaten festgelegt. Für die Kommunikation unter Verwendung von
-XBasisdaten sind besonders gesicherte verwaltungseigene Netze zu
-nutzen. Ist dies nicht möglich, sind die Verbindungen durch geeignete
-technische und organisatorische Maßnahmen nach Stand der Technik so
-abzubilden, dass das Sicherheitsniveau für einen hohen Schutzbedarf
-gewährleistet wird.
+als Transportstandard OSCI-Transport in der jeweils aktuellen
+Fassung oder andere in XBasisdaten genannte Standards oder
+Schnittstellen zu verwenden. Die näheren Anforderungen an eine
+sichere Datenübermittlung werden in einer Anlage zu XBasisdaten
+festgelegt. Für die Kommunikation unter Verwendung von XBasisdaten
+sind besonders gesicherte verwaltungseigene Netze zu nutzen. Ist dies
+nicht möglich, sind die Verbindungen durch geeignete technische und
+organisatorische Maßnahmen nach Stand der Technik so abzubilden, dass
+das Sicherheitsniveau für einen hohen Schutzbedarf gewährleistet wird.
 
 (3) Der Standard XBasisdaten wird von der
 Registermodernisierungsbehörde herausgegeben und vom Bundesministerium
