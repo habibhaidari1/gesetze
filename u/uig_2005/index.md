@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 G v. 25.2.2021 I 306
 
+Änderung durch
+:   Art. 5 G v. 30.9.2026 I Nr. 286 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Abschnitt 1 - Allgemeine Vorschriften
 
@@ -437,13 +440,18 @@ angemessenen Abständen aktualisiert.
 (3) Die Verbreitung von Umweltinformationen soll in für die
 Öffentlichkeit verständlicher Darstellung und leicht zugänglichen
 Formaten erfolgen. Hierzu sollen, soweit vorhanden, elektronische
-Kommunikationsmittel verwendet werden. Zur Verbreitung von
-Umweltinformationen nach Absatz 2 Satz 1 Nummer 5 und 6 auch
-in Verbindung mit Satz 2 kann das zentrale Internetportal
-des Bundes nach § 20 Absatz 1 Satz 1 des Gesetzes über die
-Umweltverträglichkeitsprüfung genutzt werden. Satz 2 gilt nicht für
-Umweltinformationen, die vor Inkrafttreten dieses Gesetzes angefallen
-sind, es sei denn, sie liegen bereits in elektronischer Form vor.
+Kommunikationsmittel verwendet werden. Die Umweltinformationen müssen
+uneingeschränkt, kostenlos und, soweit das möglich und sinnvoll ist,
+maschinenlesbar sowie über eine Anwendungsprogrammierschnittstelle
+nutzbar sein. Ein Format ist maschinenlesbar, wenn die enthaltenen
+Daten durch Software automatisiert ausgelesen und verarbeitet werden
+können. Zur Verbreitung von Umweltinformationen nach Absatz 2 Satz
+1 Nummer 5 und 6 auch in Verbindung mit Satz 2 kann das zentrale
+Internetportal des Bundes nach § 20 Absatz 1 Satz 1 des Gesetzes
+über die Umweltverträglichkeitsprüfung genutzt werden. Satz 2 gilt
+nicht für Umweltinformationen, die vor Inkrafttreten dieses Gesetzes
+angefallen sind, es sei denn, sie liegen bereits in elektronischer
+Form vor.
 
 (4) Die Anforderungen an die Unterrichtung der Öffentlichkeit
 nach den Absätzen 1 und 2 können auch dadurch erfüllt werden, dass
@@ -483,12 +491,18 @@ Zustimmung des Bundesrates zu regeln:
 
 ### § 11 Umweltzustandsbericht
 
-Die Bundesregierung veröffentlicht regelmäßig im Abstand von nicht
+Das Bundesministerium für Umwelt, Klimaschutz, Naturschutz und
+nukleare Sicherheit veröffentlicht regelmäßig im Abstand von nicht
 mehr als vier Jahren einen Bericht über den Zustand der Umwelt im
-Bundesgebiet. Hierbei berücksichtigt sie § 10 Absatz 1, 3 und 6. Der
-Bericht enthält Informationen über die Umweltqualität und vorhandene
-Umweltbelastungen. Der erste Bericht nach Inkrafttreten dieses
-Gesetzes ist spätestens am 31. Dezember 2006 zu veröffentlichen.
+Bundesgebiet. Hierbei wird § 10 Absatz 1, 3 und 6 berücksichtigt.
+Der Bericht wird im Einvernehmen mit dem Bundesministerium für
+Wirtschaft und Energie, dem Bundesministerium für Verkehr und dem
+Bundesministerium für Landwirtschaft, Ernährung und Heimat erstellt
+und veröffentlicht. Der Bericht enthält Informationen über die
+Umweltqualität und vorhandene Umweltbelastungen. Dabei kann auf an
+anderer Stelle veröffentlichte Informationen verwiesen werden. Der
+erste Bericht nach Inkrafttreten dieses Gesetzes ist spätestens am 31.
+Dezember 2006 zu veröffentlichen.
 
 
 ## Abschnitt 5 - Schlussvorschriften

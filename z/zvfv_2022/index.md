@@ -199,28 +199,14 @@ ab dem 1. Oktober 2025 gestellt werden.
 
 (Fundstelle: BGBl. 2026 I Nr. 132, S. 3 – 10)
 
-[Anlage: bgbl1_2026_j01320_0010.pdf](bgbl1_2026_j01320_0010.pdf)
-
-[Anlage: bgbl1_2026_j01320_0020.pdf](bgbl1_2026_j01320_0020.pdf)
-
-[Anlage: bgbl1_2026_j01320_0030.pdf](bgbl1_2026_j01320_0030.pdf)
-
-[Anlage: bgbl1_2026_j01320_0040.pdf](bgbl1_2026_j01320_0040.pdf)
-
-[Anlage: bgbl1_2026_j01320_0050.pdf](bgbl1_2026_j01320_0050.pdf)
-
-[Anlage: bgbl1_2026_j01320_0060.pdf](bgbl1_2026_j01320_0060.pdf)
-
-[Anlage: bgbl1_2026_j01320_0070.pdf](bgbl1_2026_j01320_0070.pdf)
+[Anlage: bgbl1_2026_j01320_0011.pdf](bgbl1_2026_j01320_0011.pdf)
 
 
 ## Anlage 2 (zu § 1 Absatz 2)Antrag auf Erlass einer richterlichen Durchsuchungsanordnung und einer richterlichen Anordnung der Vollstreckung zur Nachtzeit und an Sonn- und Feiertagen
 
 (Fundstelle: BGBl. 2026 I Nr. 132, S. 11 – 13)
 
-[Anlage: bgbl1_2026_j01320_0080.pdf](bgbl1_2026_j01320_0080.pdf)
-
-[Anlage: bgbl1_2026_j01320_0090.pdf](bgbl1_2026_j01320_0090.pdf)
+[Anlage: bgbl1_2026_j01320_0081.pdf](bgbl1_2026_j01320_0081.pdf)
 
 
 ## Anlage 3 (zu § 1 Absatz 2)Entwurf einer richterlichen Durchsuchungsanordnung und einer richterlichen Anordnung der Vollstreckung zur Nachtzeit und an Sonn- und Feiertagen
@@ -234,9 +220,7 @@ ab dem 1. Oktober 2025 gestellt werden.
 
 (Fundstelle: BGBl. 2026 I Nr. 132, S. 14 – 16)
 
-[Anlage: bgbl1_2026_j01320_0100.pdf](bgbl1_2026_j01320_0100.pdf)
-
-[Anlage: bgbl1_2026_j01320_0110.pdf](bgbl1_2026_j01320_0110.pdf)
+[Anlage: bgbl1_2026_j01320_0101.pdf](bgbl1_2026_j01320_0101.pdf)
 
 
 ## Anlage 5 (zu § 1 Absatz 3)Entwurf eines Pfändungsbeschlusses und eines Pfändungs- und Überweisungsbeschlusses

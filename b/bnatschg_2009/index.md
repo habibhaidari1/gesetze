@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 2542
 
 Zuletzt geändert durch
-:   Art. 10 G v. 22.7.2026 I Nr. 224
+:   Art. 2 G v. 30.9.2026 I Nr. 286
 
 Stand
 :   Das G tritt gem. Art. 27 Satz 1 G v. 29.7.2009 I 2542 am 1.3.2010 in Kraft
@@ -4216,39 +4216,7 @@ auf Natur und Landschaft nicht oder nur im geringfügigen Umfang zu
 erwarten sind, von einer Mitwirkung abgesehen werden kann.
 
 
-### § 64 Rechtsbehelfe
-
-(1) Eine anerkannte Naturschutzvereinigung kann, soweit § 1 Absatz
-3 des Umwelt-Rechtsbehelfsgesetzes nicht entgegensteht, ohne in
-eigenen Rechten verletzt zu sein, Rechtsbehelfe nach Maßgabe der
-Verwaltungsgerichtsordnung einlegen gegen Entscheidungen nach §
-63 Absatz 1 Nummer 2 bis 4 und Absatz 2 Nummer 4a bis 7, wenn die
-Vereinigung
-
-1.  geltend macht, dass die Entscheidung Vorschriften dieses Gesetzes,
-    Rechtsvorschriften, die auf Grund dieses Gesetzes erlassen worden
-    sind oder fortgelten, Naturschutzrecht der Länder oder anderen
-    Rechtsvorschriften, die bei der Entscheidung zu beachten und zumindest
-    auch den Belangen des Naturschutzes und der Landschaftspflege zu
-    dienen bestimmt sind, widerspricht,
-
-2.  in ihrem satzungsgemäßen Aufgaben- und Tätigkeitsbereich, soweit sich
-    die Anerkennung darauf bezieht, berührt wird und
-
-3.  zur Mitwirkung nach § 63 Absatz 1 Nummer 2 oder Absatz 2 Nummer 4a bis
-    5 berechtigt war und sie sich hierbei in der Sache geäußert hat oder
-    ihr keine Gelegenheit zur Äußerung gegeben worden ist; dies gilt auch
-    für die Mitwirkung nach § 63 Absatz 1 Nummer 3 und Absatz 2 Nummer
-    6, sofern für ein solches Planfeststellungsverfahren eine Anwendung
-    des Bundesnaturschutzgesetzes nicht nach § 1 Absatz 3 des Umwelt-
-    Rechtsbehelfsgesetzes ausgeschlossen ist.
-
-(2) § 1 Absatz 1 Satz 3 und 4, § 2 Absatz 3 Satz 1 und § 5 des Umwelt-
-Rechtsbehelfsgesetzes gelten entsprechend.
-
-(3) Die Länder können Rechtsbehelfe von anerkannten
-Naturschutzvereinigungen auch in anderen Fällen zulassen, in denen
-nach § 63 Absatz 2 Nummer 8 eine Mitwirkung vorgesehen ist.
+### § 64 (weggefallen)
 
 
 ## Kapitel 9 - Eigentumsbindung, Befreiungen
@@ -4781,11 +4749,7 @@ geltenden Fassung zu Ende zu führen. Vor dem 1. März 2010 begonnene
 Verwaltungsverfahren sind nach § 58 des Bundesnaturschutzgesetzes in
 der bis zu diesem Tag geltenden Fassung zu Ende zu führen.
 
-(3) Die §§ 63 und 64 gelten auch für Vereine, die nach § 29 des
-Bundesnaturschutzgesetzes in der bis zum 3. April 2002 geltenden
-Fassung oder nach § 59 oder im Rahmen von § 60 Absatz 1 und 3 des
-Bundesnaturschutzgesetzes in der bis zum 1. März 2010 geltenden
-Fassung vom Bund oder den Ländern anerkannt worden sind.
+(3) (weggefallen)
 
 (4) § 45b Absatz 1 bis 6 sind nicht anzuwenden auf bereits genehmigte
 Vorhaben zur Errichtung und zum Betrieb von Windenergieanlagen an Land

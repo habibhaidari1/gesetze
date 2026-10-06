@@ -24,6 +24,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 12 G v. 22.7.2026 I Nr. 224 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 3 G v. 30.9.2026 I Nr. 286 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Teil 1 - Allgemeine Vorschriften für die Umweltprüfungen
 
@@ -60,7 +63,9 @@ Entscheidung nach Satz 1 getroffen, unterrichtet das Bundesministerium
 der Verteidigung hierüber das für Umwelt zuständige Ministerium
 des betroffenen Landes unverzüglich sowie das Bundesministerium für
 Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit spätestens
-bis zum Ablauf des 31. März des Folgejahres.
+bis zum Ablauf des 31. März des Folgejahres. Widerspruch und
+Anfechtungsklage gegen eine Entscheidung nach § 1 Absatz 2 Satz 1
+haben keine aufschiebende Wirkung.
 
 (3) Bei Vorhaben oder Teilen von Vorhaben, die ausschließlich der
 Bewältigung von Katastrophenfällen dienen, kann die zuständige
@@ -1674,9 +1679,10 @@ Besteht für die Aufstellung eines Raumordnungsplans nach diesem Gesetz
 die SUP-Pflicht, so wird die Strategische Umweltprüfung einschließlich
 der Überwachung nach dem Raumordnungsgesetz durchgeführt. Auf einen
 Raumordnungsplan nach Anlage 5 Nummer 1.5 oder 1.6, der Flächen für
-die Windenergienutzung oder für den Abbau von Rohstoffen ausweist, ist
-§ 1 Absatz 1 Satz 1 Nummer 4 des Umwelt-Rechtsbehelfsgesetzes nicht
-anzuwenden.
+die Windenergienutzung oder für den Abbau von Rohstoffen ausweist
+sowie auf einen Plan, der Beschleunigungsgebiete für die Windenergie
+an Land nach § 28 des Raumordnungsgesetzes ausweist, ist § 1 Absatz 1a
+Satz 1 Nummer 2 des Umwelt-Rechtsbehelfsgesetzes nicht anzuwenden.
 
 
 ### § 49 Umweltverträglichkeitsprüfung bei Vorhaben mit Raumverträglichkeitsprüfung
@@ -1745,9 +1751,10 @@ der Anlage 5 werden bei der Erstellung des Umweltberichts in
 Betracht kommende vernünftige Alternativen, die die Ziele und
 den geographischen Anwendungsbereich des Plans oder Programms
 berücksichtigen, insbesondere alternative Verkehrsnetze und
-alternative Verkehrsträger ermittelt, beschrieben und bewertet. Auf
-die Verkehrswegeplanung auf Bundesebene ist § 1 Absatz 1 Satz 1 Nummer
-4 des Umwelt-Rechtsbehelfsgesetzes nicht anzuwenden.
+alternative Verkehrsträger ermittelt, beschrieben und bewertet.
+Auf die Verkehrswegeplanung auf Bundesebene sind § 1 Absatz 1
+Satz 1 Nummer 5 und § 1 Absatz 1a Satz 1 Nummer 2 des Umwelt-
+Rechtsbehelfsgesetzes nicht anzuwenden.
 
 (3) Das Bundesministerium für Verkehr wird ermächtigt, im Einvernehmen
 mit dem Bundesministerium für Umwelt, Klimaschutz, Naturschutz
