@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2010, 627
 
 Zuletzt geändert durch
-:   Art. 10 G v. 22.12.2023 I Nr. 412
-
-Änderung durch
-:   Art. 8 G v. 25.9.2026 I Nr. 275 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 8 G v. 25.9.2026 I Nr. 275
 
 
 ## Eingangsformel

@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2006, 1753
 
 Zuletzt geändert durch
-:   Art. 2 G v. 24.4.2026 I Nr. 116
-
-Änderung durch
-:   Art. 12 G v. 25.9.2026 I Nr. 275 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 12 G v. 25.9.2026 I Nr. 275
 
 
 ## - - Allgemeines
