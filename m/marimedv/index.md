@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2014, 1383
 
 Zuletzt geändert durch
-:   Art. 9 G v. 3.2.2026 I Nr. 28
-
-Änderung durch
-:   Art. 5 V v. 7.9.2026 I Nr. 257 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 5 V v. 7.9.2026 I Nr. 257
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften

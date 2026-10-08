@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2014, 460
 
 Zuletzt geändert durch
-:   Art. 4 V v. 25.3.2025 I Nr. 100
-
-Änderung durch
-:   Art. 2 V v. 7.9.2026 I Nr. 257 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 V v. 7.9.2026 I Nr. 257
 
 
 ## Eingangsformel

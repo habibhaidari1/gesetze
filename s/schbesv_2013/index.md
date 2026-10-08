@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2013, 2575
 
 Zuletzt geändert durch
-:   Art. 1 V v. 23.6.2021 I 1849
-
-Änderung durch
-:   Art. 1 V v. 7.9.2026 I Nr. 257 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 7.9.2026 I Nr. 257
 
 
 ## Eingangsformel

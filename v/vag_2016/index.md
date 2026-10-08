@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 3 G v. 25.9.2026 I Nr. 275 mWv 30.1.2027 noch nicht berücksichtigt
 
 Mittelbare änderung durch
-:   Art. 10 G v. 25.9.2026 I Nr. 275 mWv 30.1.2027 noch nicht berücksichtigt
+:   Art. 10 G v. 25.9.2026 I Nr. 275 ist berücksichtigt
 
 
 ## Teil 1 - Allgemeine Vorschriften
