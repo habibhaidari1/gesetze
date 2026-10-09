@@ -16,13 +16,7 @@ Fundstelle
 :   BGBl I: 2008, 2586, 2587
 
 Zuletzt geändert durch
-:   Art. 5 G v. 23.4.2026 I Nr. 111
-
-Änderung durch
-:   Art. 6 G v. 20.5.2026 I Nr. 152 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 4 G v. 22.6.2026 I Nr. 192 ist berücksichtigt
+:   Art. 4 G v. 22.6.2026 I Nr. 192
 
 Änderung durch
 :   Art. 4 G v. 2.7.2026 I Nr. 198 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet

@@ -15,11 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: AT 08.03.2022 V1
 
-V aufgeh. durch
-:   § 4 Abs. 2 dieser V idF d. Art. 1 Nr. 3 V v. 27.11.2025 I Nr. 293 mit Ablauf des 4.3.2027
-
 Zuletzt geändert durch
-:   Art. 1 V v. 27.11.2025 I Nr. 293
+:   Art. 1 V v. 30.9.2026 I Nr. 288
+
+V aufgeh. durch
+:   § 4 Abs. 2 dieser V idF d. Art. 1 Nr. 2 V v. 30.9.2026 I Nr. 288 mit Ablauf des 4.3.2028
 
 
 ## Eingangsformel
@@ -47,7 +47,7 @@ Aufenthaltstitels im Bundesgebiet.
 ## § 2 Befreiung vom Erfordernis eines Aufenthaltstitels
 
 (1) Ausländer, die sich am 24. Februar 2022 in der Ukraine aufgehalten
-haben und die bis zum 4. Dezember 2026 in das Bundesgebiet eingereist
+haben und die bis zum 4. Dezember 2027 in das Bundesgebiet eingereist
 sind, ohne den für einen langfristigen Aufenthalt im Bundesgebiet
 erforderlichen Aufenthaltstitel zu besitzen, sind für einen Zeitraum
 von 90 Tagen ab dem Zeitpunkt der erstmaligen Einreise in das
@@ -71,7 +71,7 @@ c)  sich am 24. Februar 2022 auf der Grundlage eines nach ukrainischem
 (2) Ukrainische Staatsangehörige, die am 24. Februar 2022 einen
 Wohnsitz oder ihren gewöhnlichen Aufenthalt in der Ukraine hatten,
 aber die sich zu diesem Zeitpunkt vorübergehend nicht in der
-Ukraine aufgehalten haben, und die bis zum 4. Dezember 2026 in
+Ukraine aufgehalten haben, und die bis zum 4. Dezember 2027 in
 das Bundesgebiet eingereist sind, ohne den für einen langfristigen
 Aufenthalt im Bundesgebiet erforderlichen Aufenthaltstitel zu
 besitzen, sind für einen Zeitraum von 90 Tagen ab dem Zeitpunkt
@@ -83,11 +83,16 @@ für in der Ukraine anerkannte Flüchtlinge im Sinne des Abkommens vom
 S. 559, 560) und Personen, die in der Ukraine internationalen oder
 gleichwertigen nationalen Schutz genießen.
 
-(3) Die Befreiung nach den Absätzen 1 und 2 gilt nur, solange
+(3) Die Absätze 1 und 2 finden keine Anwendung auf Ausländer, die ab
+dem 9. Oktober 2026 in das Bundesgebiet einreisen und nach dem Recht
+der Ukraine militärischen Pflichten unterliegen, es sei denn, sie
+weisen nach, dass sie diese einhalten.
+
+(4) Die Befreiung nach den Absätzen 1 und 2 gilt nur, solange
 keine ablehnende Entscheidung zur Erteilung eines Aufenthaltstitels
 getroffen wurde.
 
-(4) Soweit der Regelungsgegenstand der Verordnung reicht, sind die
+(5) Soweit der Regelungsgegenstand der Verordnung reicht, sind die
 Einreise und der Aufenthalt der in den Absätzen 1 und 2 genannten
 Ausländer rechtmäßig. Die übrigen Vorschriften des Aufenthaltsrechts
 bleiben unberührt.
@@ -104,5 +109,5 @@ nach § 2 steht der Erteilung eines Aufenthaltstitels nicht entgegen.
 
 (1) Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
-(2) Sie tritt mit Ablauf des 4. März 2027 außer Kraft.
+(2) Sie tritt mit Ablauf des 4. März 2028 außer Kraft.
 

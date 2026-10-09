@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2021, 1858
 
 Zuletzt geändert durch
-:   Art. 6 G v. 11.3.2026 I Nr. 66
-
-Änderung durch
-:   Art. 2 G v. 12.5.2026 I Nr. 138 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 12.5.2026 I Nr. 138
 
 Stand
 :   Ersetzt G v. 22.6.2004 I 1190 (TKG 2004)
@@ -10922,8 +10919,6 @@ des Verwaltungsvollstreckungsgesetzes ein Zwangsgeld von mindestens 1
 (6) Die Absätze 1, 2, 4 und 5 gelten für die Durchsetzung von
 Verpflichtungen von Eigentümern und Betreibern öffentlicher
 Versorgungsnetze, die keine Unternehmen sind, entsprechend.
-
-(7) (weggefallen)
 
 
 #### § 203 Auskunftsverlangen und weitere Untersuchungsrechte; Übermittlungspflichten

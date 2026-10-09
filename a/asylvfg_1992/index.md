@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 2.9.2008 I 1798;
 
 Zuletzt geändert durch
-:   Art. 7 G v. 3.7.2026 I Nr. 199
-
-Änderung durch
-:   Art. 10 G v. 21.7.2026 I Nr. 221 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 10 G v. 21.7.2026 I Nr. 221
 
 Stand
 :   Dieses G ersetzt das G 26-5 v. 16.7.1982 I 946 (AsylVfG)
