@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2021, 1858
 
 Zuletzt geändert durch
-:   Art. 2 G v. 12.5.2026 I Nr. 138
+:   Art. 6 V v. 6.10.2026 I Nr. 289
 
 Stand
 :   Ersetzt G v. 22.6.2004 I 1190 (TKG 2004)

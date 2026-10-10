@@ -21,6 +21,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 21 G v. 22.7.2026 I Nr. 224 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 3 G v. 6.10.2026 I Nr. 289 ist berücksichtigt
+
 
 ## § 1 Anwendungsbereich
 
@@ -768,4 +771,55 @@ elektronische Verwaltungsleistungen, die der Durchführung
 Buchstabe b erbracht, so kann die spätere Authentisierung des
 Nutzers auch durch Authentisierungsmittel nach § 10 Absatz 3a des
 Personalausweisgesetzes erfolgen.
+
+
+## § 13 Experimentierklausel für den Probebetrieb der Europäischen Brieftasche für die Digitale Identität
+
+(1) Diese Vorschrift dient der Erprobung von Abweichungen von § 2
+Absatz 5 und 7 sowie den §§ 3, 7, 8, 8a und 9 dieses Gesetzes im
+Interesse einer Bereitstellung der Europäischen Brieftasche für die
+Digitale Identität nach Artikel 3 Nummer 42 der Verordnung (EU) Nr.
+910/2014.
+
+(2) Für einen Probebetrieb der Europäischen Brieftasche für
+die Digitale Identität nach Artikel 3 Nummer 42 der Verordnung
+(EU) Nr. 910/2014 kann das Bundesministerium für Digitales
+und Staatsmodernisierung Abweichungen nach Absatz 1 zulassen.
+Abweichungen sind nur zuzulassen im Einklang mit den unmittelbar
+geltenden Anforderungen des Unionsrechts; dies gilt auch für die
+erstmalige Einrichtung einer Europäischen Brieftasche für die
+Digitale Identität im Hinblick auf die nach Artikel 5a Absatz 11
+der Verordnung (EU) Nr. 910/2014 vorausgesetzte Sicherheitsstufe
+„hoch“. Vor einer Entscheidung über die Zulassung von Abweichungen
+nimmt das Bundesministerium für Digitales und Staatsmodernisierung
+eine Risikoabwägung vor. Die Entscheidung über die Zulassung von
+Abweichungen wird mit ihrer Bekanntgabe im Bundesanzeiger wirksam.
+
+(3) Abweichungen sind angemessen zu befristen, jedoch nicht länger
+als für die Dauer von zwei Jahren. Bei der Festlegung der Dauer der
+Befristung ist das Interesse, aussagekräftige Erkenntnisse aus der
+jeweiligen Erprobung der Abweichung zu gewinnen, zu berücksichtigen.
+
+(4) Im Rahmen des Probebetriebs können, sowohl vollständig
+unabhängig von der Europäischen Brieftasche für die Digitale
+Identität nach Artikel 3 Nummer 42 der Verordnung (EU) Nr. 910/2014
+als auch im Zusammenwirken mit dieser, neben der Europäischen
+Brieftasche für die Digitale Identität weitere den jeweils
+erforderlichen Vertrauensniveaus entsprechende Authentifizierungs-
+und Identifizierungsmittel getestet werden, insbesondere für die
+unmittelbare Inanspruchnahme von elektronischen Verwaltungsleistungen
+und zur Einrichtung der Europäischen Brieftasche für die Digitale
+Identität.
+
+(5) Die Teilnahme von Nutzern an dem Probebetrieb ist freiwillig.
+Vor ihrer Teilnahme müssen die Nutzer auf die wesentlichen
+Rahmenbedingungen und etwaige Risiken des Probebetriebs durch den
+Anbieter der Europäischen Brieftasche für die Digitale Identität
+gemäß der Vorgabe des Bundesministeriums für Digitales und
+Staatsmodernisierung hingewiesen werden.
+
+(6) Abweichungen sollen nach Ablauf ihrer jeweiligen Befristung anhand
+wissenschaftlicher Methoden im Auftrag des Bundesministeriums für
+Digitales und Staatsmodernisierung evaluiert werden. Die Evaluierung
+soll innerhalb von zwei Jahren erfolgen.
 

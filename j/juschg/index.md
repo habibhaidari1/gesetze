@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 2730
 
 Zuletzt geändert durch
-:   Art. 12 G v. 6.5.2024 I Nr. 149
+:   Art. 4 G v. 6.10.2026 I Nr. 589
 
 Stand
 :   Das G tritt gem. § 30 Abs. 1 Satz 1 an dem Tag in Kraft, an dem der Staatsvertrag der Länder über den Schutz der Menschenwürde und den Jugendschutz in Rundfunk und Telemedien in Kraft tritt*. In Kraft gem. Bek. v. 1.4.2003 I 476 mWv 1.4.2003
@@ -623,6 +623,26 @@ gemacht werden.
 (3) Die Vorschrift findet auch auf Diensteanbieter Anwendung, deren
 Sitzland nicht Deutschland ist. Die §§ 2 und 3 des Digitale-Dienste-
 Gesetzes bleiben unberührt.
+
+
+### § 14b Experimentierklausel für die Nutzung von automatisierten Bewertungssystemen
+
+(1) Mit Genehmigung der Bundeszentrale für Kinder- und
+Jugendmedienschutz kann eine Einrichtung der freiwilligen
+Selbstkontrolle in dem gemeinsamen Verfahren für die Freigabe
+und Kennzeichnung der Filme sowie Spielprogramme mit den
+obersten Landesbehörden nach § 14 Absatz 6, ein automatisiertes
+Bewertungssystem nach § 14a Absatz 1 Satz 2 Nummer 3 zum Zwecke der
+Erprobung einsetzen.
+
+(2) Genehmigungen, die nach Absatz 1 erteilt werden, sind angemessen
+zu befristen, jedoch nicht länger als für die Dauer von zwei Jahren.
+Die Dauer der Erprobung ist im Einzelfall so festzusetzen, dass der
+Erprobungszweck erfüllt und ausreichend regulatorische Erkenntnisse
+gesammelt werden können. Die Genehmigung kann einmalig um maximal
+weitere zwei Jahre verlängert werden, wenn die Voraussetzungen der
+Erteilung der Genehmigung weiter fortbesteht und der bisherige Verlauf
+der Erprobung einer Verlängerung nicht entgegensteht.
 
 
 ### § 15 Jugendgefährdende Medien

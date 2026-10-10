@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2014, 2091
 
 Zuletzt geändert durch
-:   Art. 6 G v. 25.3.2026 I Nr. 81
-
-Änderung durch
-:   Art. 5 G v. 25.9.2026 I Nr. 275 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 5 G v. 25.9.2026 I Nr. 275
 
 Stand
 :   Gem. Art 10 Abs. 3 G v. 10.12.2014 I 2091 tritt § 146 Abs. 6 an dem Tag außer Kraft an dem die technischen Regulierungsstandards gemäß Artikel 74 Absatz 4 der Richtlinie 2014/59/EU des Europäischen Parlaments und des Rates vom 15. Mai 2014 zur Festlegung eines Rahmens für die Sanierung und Abwicklung von Kreditinstituten und Wertpapierfirmen und zur Änderung der Richtlinie 82/891/EWG des Rates, der Richtlinien 2001/24/EG, 2002/47/EG, 2004/25/EG, 2005/56/EG, 2007/36/EG, 2011/35/EU, 2012/30/EU und 2013/36/EU sowie der Verordnungen (EU) Nr. 1093/2010 und (EU) Nr. 648/2012 des Europäischen Parlaments und des Rates (ABl. L 173 vom 12.6.2014, S. 190) in Kraft treten; das Bundesministerium der Finanzen gibt diesen Tag im Bundesgesetzblatt bekannt
