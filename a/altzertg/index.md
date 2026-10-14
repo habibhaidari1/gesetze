@@ -16,16 +16,7 @@ Fundstelle
 :   BGBl I: 2001, 1310, 1322
 
 Zuletzt geändert durch
-:   Art. 5 G v. 25.10.2023 I Nr. 294
-
-Änderung durch
-:   Art. 5 G v. 26.5.2026 I Nr. 156 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 6 G v. 26.5.2026 I Nr. 156 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 7 G v. 26.5.2026 I Nr. 156 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 7 G v. 26.5.2026 I Nr. 156
 
 
 ## § 1 Begriffsbestimmungen zum Altersvorsorgevertrag
