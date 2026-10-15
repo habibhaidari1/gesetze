@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl II: 1956, 317
 
 Neugefasst durch
-:   Bek. v. 20.3.2023 I Nr. 82, Nr. 126;
+:   Bek. v. 20.3.2023 I Nr. 82; 2023 I Nr. 126;
 
 Geändert durch
 :   Art. 14 G v. 22.12.2023 I Nr. 409

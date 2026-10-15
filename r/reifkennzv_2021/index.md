@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 2439
 
+Geändert durch
+:   Art. 4 V v. 8.10.2026 I Nr. 292
+
 Stand
 :   Ersetzt V 754-25-1 v. 4.4.2017 I 791 (ReifKennzV)
 

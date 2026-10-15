@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2017, 842
 
 Zuletzt geändert durch
-:   Art. 1 V v. 11.12.2024 I Nr. 402
+:   Art. 1 V v. 8.10.2026 I Nr. 291
 
 Stand
 :   Die V ist gem. Art. 2 Abs. 1 V v. 10.04.2017 I 842 am 1.7.2017 in Kraft getreten
@@ -73,6 +73,9 @@ Im Sinn dieser Verordnung ist
 9.  „Marktakteur“ jede natürliche oder juristische Person, die am
     Energiemarkt teilnimmt,
 
+9a. „ortsfeste Einheit“ eine Einheit, die auf Grund ihrer Art oder
+    Konstruktion an ihren Standort gebunden ist,
+
 10. „Projekt“ jede Einheit in der Entwurfs- oder Errichtungsphase, deren
     Inbetriebnahme geplant ist,
 
@@ -88,6 +91,11 @@ Im Sinn dieser Verordnung ist
 
 14. „Stromverbrauchseinheit“ jede technische Einrichtung, die Strom
     verbraucht,
+
+14a. „technische Lokation“ jede Konfiguration aus einer oder mehreren
+     technisch miteinander verbundenen Einheiten, die entweder Strom
+     oder Gas erzeugt oder verbraucht und die über einen oder mehrere
+     Netzanschlusspunkte mit Strom- oder Gasnetzen verbunden ist,
 
 15. „Transportkunde“ jeder Gasgroßhändler und Gaslieferant einschließlich
     der Handelsabteilung eines vertikal integrierten Unternehmens,
@@ -118,8 +126,8 @@ Marktstammdatenregister registrieren:
 3.  Bilanzkreisverantwortliche,
 
 4.  Messstellenbetreiber, mit Ausnahme der Messstellenbetreiber im Sinne
-    des § 10a Satz 2 des Erneuerbare-Energien-Gesetzes und des § 14 Absatz
-    1 Satz 3 des Kraft-Wärme-Kopplungsgesetzes,
+    des § 10a Absatz 1 Satz 2 des Erneuerbare-Energien-Gesetzes und des §
+    14 Absatz 1 Satz 3 des Kraft-Wärme-Kopplungsgesetzes,
 
 5.  Netzbetreiber einschließlich der Betreiber von geschlossenen
     Verteilernetzen,
@@ -132,11 +140,12 @@ Marktstammdatenregister registrieren:
 7.  Personen, die Projekte registrieren,
 
 8.  Stromlieferanten, die Strom unter Nutzung eines
-    Energieversorgungsnetzes gemäß § 3 Nummer 16 des
-    Energiewirtschaftsgesetzes liefern, und
+    Energieversorgungsnetzes nach § 3 Nummer 37 des
+    Energiewirtschaftsgesetzes liefern, sowie Stromlieferanten, die
+    Herkunftsnachweise verwenden wollen, und
 
 9.  Transportkunden, die Gas unter Nutzung eines Gasversorgungsnetzes
-    gemäß § 3 Nummer 20 des Energiewirtschaftsgesetzes liefern.
+    gemäß § 3 Nummer 51 des Energiewirtschaftsgesetzes liefern.
 
 Ein Marktakteur, der in mehr als einer der in Satz 1 genannten
 Marktfunktionen am Energiemarkt teilnimmt, muss sich für jede dieser
@@ -155,19 +164,9 @@ registrieren.
 
 ### § 4 Registrierung von Behörden
 
-(1) Folgende Behörden müssen sich im Marktstammdatenregister
-registrieren:
-
-1.  das Bundesministerium für Wirtschaft und Klimaschutz,
-
-2.  das Umweltbundesamt,
-
-3.  die Bundesanstalt für Landwirtschaft und Ernährung und
-
-4.  das Statistische Bundesamt.
-
-(2) Behörden, die nicht zur Registrierung verpflichtet sind, können
-sich im Marktstammdatenregister freiwillig registrieren.
+Behörden, die zur Nutzung von Daten aus dem Marktstammdatenregister
+nach § 16 Absatz 3 berechtigt sind, müssen sich im
+Marktstammdatenregister registrieren.
 
 
 ### § 5 Registrierung von Einheiten und von EEG- und KWK-Anlagen
@@ -236,6 +235,17 @@ darauf geschlossenen völkerrechtlichen Vereinbarung bestimmt worden
 ist.
 
 
+### § 5a Registrierung von Daten zu Einheiten und technischen Lokationen
+
+(1) Netzbetreiber fassen Einheiten zu technischen Lokationen zusammen.
+
+(2) Netzbetreiber müssen innerhalb eines Monats nach der Aufforderung
+nach § 13 Absatz 3 für jede Einheit und jede technische Lokation
+die nach § 6 erforderlichen Daten eintragen. Ist eine technische
+Lokation an Netze mehrerer Netzbetreiber angeschlossen, so muss jeder
+Netzbetreiber die Daten eintragen.
+
+
 ### § 6 Erforderliche Daten zur Registrierung
 
 Bei jeder Registrierung müssen die Daten eingetragen werden, die nach
@@ -260,20 +270,19 @@ Monats nach der Bekanntgabe der Zulassung erfolgen.
 
 ### § 8 Registrierungsverfahren
 
-(1) Für die Registrierungen muss das Webportal genutzt werden.
-Ein Marktakteur, der eine natürliche Person ist und der sich
-nach § 3 Absatz 1 Nummer 1 zu registrieren hat, darf dem
-Marktstammdatenregister Daten und andere Informationen auch
-schriftlich übermitteln; hierzu erstellt die Bundesnetzagentur
-Formulare, die sie den Marktakteuren auf Anforderung bereitzustellen
-hat und die von den Marktakteuren zu verwenden sind.
+(1) Für die Registrierungen muss das Webportal genutzt werden. Eine
+natürliche Person, der es wirtschaftlich oder persönlich unzumutbar
+ist, das Webportal zu nutzen, kann dem Marktstammdatenregister Daten
+und andere Informationen für die Registrierung nach § 3 Absatz 1
+Nummer 1 in Textform übermitteln; für die Übermittlung sind die von
+der Bundesnetzagentur zur Verfügung gestellten Formulare zu verwenden.
 
 (2) Die Bundesnetzagentur weist jedem registrierten Marktakteur,
 jeder registrierten Zulassung, jedem registrierten Projekt, jeder
-registrierten Einheit und jeder registrierten EEG- oder KWK-Anlage
-eine eindeutige Nummer zu, sobald die Daten eingetragen wurden,
-deren Angabe nach der Anlage zu dieser Verordnung für die jeweilige
-Registrierung erforderlich ist.
+registrierten Einheit, jeder registrierten EEG- oder KWK-Anlage und
+jeder technischen Lokation eine eindeutige Nummer zu, sobald die Daten
+eingetragen wurden, die nach der Anlage zu dieser Verordnung für die
+jeweilige Registrierung erforderlich sind.
 
 (3) Registrierungen haben keine feststellende Wirkung im Hinblick auf
 das Vorliegen von Tatsachen. Insbesondere haben Registrierungen keine
@@ -322,12 +331,12 @@ Kopien anbieten. Das Anbietungs- und Abgabeverfahren erfolgt nach § 5
 Absatz 3 Satz 5 des Bundesarchivgesetzes.
 
 
-### § 10 Überprüfung und Änderung der gespeicherten Daten
+### § 10 Überprüfung, Änderung und Vervollständigung der Daten
 
-(1) Die Bundesnetzagentur kann die gespeicherten Daten jederzeit
-im Rahmen der Registerführung überprüfen. Hierzu kann sie die im
-Marktstammdatenregister eingetragenen Daten mit den Daten abgleichen,
-die
+(1) Die Bundesnetzagentur kann die im Marktstammdatenregister
+gespeicherten Daten jederzeit im Rahmen der Registerführung
+überprüfen. Hierzu kann sie die eingetragenen Daten mit den Daten
+abgleichen, die
 
 1.  ihr nach Teil 5 Abschnitt 2 des Energiefinanzierungsgesetzes
     übermittelt worden sind,
@@ -353,16 +362,26 @@ die
 8.  ihr im Rahmen einer Anforderung nach § 13 Absatz 4 übermittelt worden
     sind.
 
-(2) Die Bundesnetzagentur kann registrierte Marktakteure verpflichten,
-die von ihnen eingetragenen Daten zu prüfen und, soweit notwendig,
-berichtigte Daten einzutragen. Sie kann offensichtlich fehlerhafte
-Daten ohne Mitwirkung der Marktakteure berichtigen, soweit dies
-möglich ist. Die Bundesnetzagentur kann in anderen Fällen Daten
-ändern, sofern sie die Marktakteure über die beabsichtigte Änderung
-informiert hat. Sofern die Bundesnetzagentur nach Satz 3 Änderungen
-vorgenommen hat, informiert sie die zur Registrierung verpflichteten
-Marktakteure. Die Verantwortlichkeit für die Richtigkeit der Daten
-verbleibt bei den Marktakteuren.
+Soweit ein behördliches Register mit energiewirtschaftlichem Bezug
+über eine geeignete elektronische Schnittstelle für einen Datenabruf
+verfügt, kann die Bundesnetzagentur im Rahmen der Registerführung
+die Daten des entsprechenden Registers abrufen, um die im
+Marktstammdatenregister zu erfassenden Daten zu vervollständigen.
+Personenbezogene Daten werden von Satz 3 nicht erfasst.
+
+(2) Die Bundesnetzagentur kann einen registrierten Marktakteur, der
+eine natürliche Person ist, verpflichten, die von ihm eingetragenen
+Daten innerhalb eines Monats zu prüfen und gegebenenfalls zu
+berichtigen. Hierzu kann die Bundesnetzagentur die Vorlage einer
+Kopie eines amtlichen Identitätsnachweises verlangen, wenn dies zur
+Überprüfung der Angaben des Marktakteurs erforderlich ist. Sie kann
+offensichtlich fehlerhafte Daten ohne Mitwirkung der Marktakteure
+berichtigen, soweit dies möglich ist. Die Bundesnetzagentur kann in
+anderen Fällen Daten ändern, sofern sie die Marktakteure über die
+beabsichtigte Änderung informiert hat. Sofern die Bundesnetzagentur
+Änderungen vorgenommen hat, informiert sie die zur Registrierung
+verpflichteten Marktakteure. Die Verantwortlichkeit für die
+Richtigkeit der Daten verbleibt bei den Marktakteuren.
 
 (3) Die Bundesnetzagentur kann bei Verletzung der Mitwirkungspflichten
 nach dieser Verordnung die erforderlichen Anordnungen treffen, um die
@@ -385,68 +404,51 @@ Insbesondere soll sie die Netzbetreiber zur Überprüfung der Daten, die
 in der Anlage entsprechend gekennzeichnet sind, auffordern, die
 
 1.  bei der Registrierung der Inbetriebnahme dieser Einheiten und Anlagen
-    eingetragen sind oder
+    eingetragen sind,
 
-2.  durch den Betreiber abgeändert wurden.
+2.  durch den Betreiber oder die Bundesnetzagentur nach § 10 Absatz 2 Satz
+    3 und 4 abgeändert wurden oder
 
-(2) Netzbetreiber müssen die Daten innerhalb eines Monats nach der
-Aufforderung durch die Bundesnetzagentur überprüfen. Die Frist nach
-Satz 1 beginnt bei Daten zu Stromerzeugungseinheiten, die Teil einer
-EEG- oder KWK-Anlage sind und bei denen die Höhe des anzulegenden
-Werts oder der Zuschlagszahlung nicht durch Ausschreibungen ermittelt
-worden ist, mit der Übermittlung des Inbetriebnahmeprotokolls durch
-den Anlagenbetreiber an den Netzbetreiber, spätestens jedoch sechs
-Monate nach der Aufforderung der Bundesnetzagentur. Der Netzbetreiber
-teilt der Bundesnetzagentur das Prüfergebnis mit. Übermittelt ein
-Netzbetreiber der Bundesnetzagentur als Prüfergebnis einen Hinweis
-auf einen möglichen Datenfehler oder von den eingetragenen Daten
-abweichende Daten, so ist § 10 Absatz 2 entsprechend anzuwenden.
+3.  sich aus Änderungen nach § 10 Absatz 2 Satz 1 ergeben.
 
-(3) Die Bundesnetzagentur kennzeichnet die erfolgte Überprüfung der
+(2) Der Netzbetreiber muss innerhalb der in Satz 3 genannten Fristen
+die Daten überprüfen und der Bundesnetzagentur das Prüfergebnis
+mitteilen. Übermittelt ein Netzbetreiber der Bundesnetzagentur als
+Prüfergebnis einen Hinweis auf einen möglichen Datenfehler oder
+von den eingetragenen Daten abweichende Daten, so ist § 10 Absatz 2
+entsprechend anzuwenden. Die Frist beträgt
+
+1.  für die Überprüfung nach Absatz 1 Satz 2 Nummer 1 einen Monat,
+
+2.  für die Überprüfung nach Absatz 1 Satz 2 Nummer 2 sechs Monate und
+
+3.  für die Überprüfung von Daten nach Absatz 1 Satz 2 Nummer 3 drei
+    Monate.
+
+Die Fristen nach Satz 3 können auf Antrag des Netzbetreibers
+verlängert werden.
+
+(3) Die Frist nach Absatz 2 Satz 3 Nummer 1 beginnt für
+Stromerzeugungseinheiten, die Teil einer EEG- oder einer KWK-
+Anlage sind und bei denen die Höhe des anzulegenden Werts oder
+der Zuschlagszahlung nicht durch Ausschreibungen ermittelt worden
+ist, mit der Übermittlung des Inbetriebnahmeprotokolls durch den
+Anlagenbetreiber an den Netzbetreiber, spätestens jedoch sechs Monate
+nach der Aufforderung durch die Bundesnetzagentur. Im Übrigen beginnen
+die Fristen nach Absatz 2 Satz 3 mit Zugang der Aufforderung durch die
+Bundesnetzagentur.
+
+(4) Die Bundesnetzagentur kennzeichnet die erfolgte Überprüfung der
 Daten durch den Netzbetreiber im Marktstammdatenregister.
 
-(4) Die Netzbetreiber übermitteln der Bundesnetzagentur auf
+(5) Die Netzbetreiber übermitteln der Bundesnetzagentur auf
 Anforderung bei ihnen vorhandene Stammdaten zu Marktakteuren,
 Einheiten, EEG- und KWK-Anlagen, auch wenn diese Daten nicht im
 Register erfasst sind, wenn diese Daten im Einzelfall für die
 Registerführung erforderlich sind.
 
-(5) (weggefallen)
 
-
-### § 14 Daten zu technischen Lokationen
-
-(1) Netzbetreiber fassen Einheiten, die miteinander verbunden sind
-(Konfigurationen), zu folgenden technischen Lokationen zusammen:
-
-1.  jede Konfiguration aus einer oder mehreren elektrisch verbundenen
-    Stromerzeugungseinheiten, die elektrische Energie über einen oder
-    mehrere Netzanschlusspunkte in ein oder mehrere Stromnetze einspeisen
-    kann, zu einer Stromerzeugungslokation,
-
-2.  jede Konfiguration aus einer oder mehreren durch Gasleitungen
-    verbundenen Gaserzeugungseinheiten, die Gas über einen oder mehrere
-    Netzanschlusspunkte in ein oder mehrere Gasnetze einspeisen kann, zu
-    einer Gaserzeugungslokation,
-
-3.  jede Konfiguration aus einer oder mehreren elektrisch verbundenen
-    Stromverbrauchseinheiten, die elektrische Energie über einen oder
-    mehrere Netzanschlusspunkte aus einem oder mehreren Stromnetzen
-    entnimmt oder entnehmen kann, zu einer Stromverbrauchslokation,
-
-4.  jede Konfiguration aus einer oder mehreren durch Gasleitungen
-    verbundenen Gasverbrauchseinheiten, die Gas über einen oder mehrere
-    Netzanschlusspunkte aus einem oder mehreren Gasnetzen entnimmt oder
-    entnehmen kann, zu einer Gasverbrauchslokation.
-
-(2) Die Netzbetreiber müssen innerhalb eines Monats nach der
-Aufforderung nach § 13 Absatz 1 für jede technische Lokation die Daten
-eintragen, die nach der Anlage zu dieser Verordnung erforderlich sind.
-Ist eine technische Lokation an Netze von mehr als einem Netzbetreiber
-angeschlossen, so muss jeder dieser Netzbetreiber die Daten eintragen.
-
-(3) Die Bundesnetzagentur weist jeder technischen Lokation eine
-eindeutige Nummer zu.
+### § 14 (weggefallen)
 
 
 ## Abschnitt 4 - Nutzung des Marktstammdatenregisters
@@ -460,8 +462,8 @@ folgt veröffentlicht:
 1.  Daten zu Einheiten und Anlagen mit Ausnahme von:
 
     a)  Standortangaben zu Straße, Hausnummer, Flurstücksbezeichnungen und
-        Geokoordinaten von Erzeugungseinheiten nach der Anlage Tabelle II
-        bis V mit einer Leistung von höchstens 30 Kilowatt, wobei auf zu
+        Geokoordinaten von Erzeugungseinheiten nach der Anlage Tabelle B
+        bis E mit einer Leistung von höchstens 30 Kilowatt, wobei auf zu
         Solaranlagen gehörende Einheiten § 5 Absatz 1 Satz 2 anzuwenden ist,
 
     b)  Daten, die nach der Anlage als vertraulich gekennzeichnet sind, und
@@ -471,7 +473,7 @@ folgt veröffentlicht:
         der Betreiber gegenüber der Bundesnetzagentur nachweist, dass die
         Daten besonders schutzbedürftig sind;
 
-2.  Daten zu Marktakteuren nach der Anlage Tabelle I werden nicht
+2.  Daten zu Marktakteuren nach der Anlage Tabelle A werden nicht
     veröffentlicht, wenn der Marktakteur eine natürliche Person ist; Daten
     sonstiger Marktakteure werden veröffentlicht.
 
