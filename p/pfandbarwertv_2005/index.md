@@ -233,4 +233,11 @@ nach einem anderen geeigneten Verfahren durchführen.
 ## § 10 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
+Gleichzeitig treten außer Kraft:
+
+1.  die Pfandbrief-Barwertverordnung vom 19. Dezember 2003 (BGBl. I S.
+    2815) und
+
+2.  die Hypothekenpfandbrief-Barwertverordnung vom 19. Dezember 2003
+    (BGBl. I S. 2818).
 

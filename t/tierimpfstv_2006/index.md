@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2006, 2355
 
 Zuletzt geändert durch
-:   Art. 3 V v. 31.3.2020 I 752
-
-Änderung durch
-:   Art. 3 Abs. 2 G v. 4.3.2026 I Nr. 60 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 Abs. 2 G v. 4.3.2026 I Nr. 60
 
 
 ## Eingangsformel

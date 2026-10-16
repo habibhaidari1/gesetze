@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2006, 2126
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 58 V v. 18.1.2022 I 39
+:   Art. 5 V v. 8.10.2026 I Nr. 290
 
 V aufgeh. durch
 :   § 10a idF d. Art. 5 V v. 8.10.2026 I Nr. 290 mWv 1.11.2026
