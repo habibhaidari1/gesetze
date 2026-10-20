@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 4 G v. 3.7.2024 I Nr. 225
 
+Änderung durch
+:   Art. 7 G v. 13.10.2026 I Nr. 304 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erster Teil - Allgemeine Vorschriften
 

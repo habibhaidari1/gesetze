@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 V v. 5.5.2021 I 942
 
+V aufgeh. durch
+:   § 3 idF d. Art. 1 V v. 14.10.2026 I Nr. 302 mWv 1.11.2026
+
 
 ## § 1 Voraussetzungen für das Inverkehrbringen oder die Inbetriebnahme von energieverbrauchsrelevanten Produkten
 
@@ -335,4 +338,9 @@ des Energieverbrauchsrelevante-Produkte-Gesetzes handelt, wer
 vorsätzlich oder fahrlässig entgegen § 1 ein dort genanntes
 energieverbrauchsrelevantes Produkt in Verkehr bringt oder in Betrieb
 nimmt.
+
+
+## § 3 Außerkrafttreten
+
+Diese Verordnung tritt mit Ablauf des 31. Oktober 2026 außer Kraft.
 

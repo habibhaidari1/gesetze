@@ -27,6 +27,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 3 G v. 30.9.2026 I Nr. 286 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 5 G v. 13.10.2026 I Nr. 304 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Teil 1 - Allgemeine Vorschriften für die Umweltprüfungen
 
