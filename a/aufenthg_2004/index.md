@@ -19,13 +19,7 @@ Neugefasst durch
 :   Bek. v. 25.2.2008 I 162;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 21.7.2026 I Nr. 221
-
-Änderung durch
-:   Art. 3 G v. 22.7.2026 I Nr. 222 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 13 G v. 22.7.2026 I Nr. 222 ist berücksichtigt
+:   Art. 13 G v. 22.7.2026 I Nr. 222
 
 Mittelbare änderung durch
 :   Art. 4 G v. 20.12.2023 I Nr. 390 betreffend § 104 Abs. 17 ist nicht mehr ausführbar

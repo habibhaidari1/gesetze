@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl. I: 2025, Nr. 375
 
 V aufgeh. durch
-:   § 3 dieser V mit Ablauf d. 31.12.2025
+:   § 3 dieser V mit Ablauf d. 31.12.2026
 
 
 ## Eingangsformel

@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 7 G v. 29.6.2026 I Nr. 197
 
+Änderung durch
+:   Art. 1 G v. 15.10.2026 I Nr. 307 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## I. - Steuerpflicht
 

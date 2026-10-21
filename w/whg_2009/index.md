@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 8 G v. 22.7.2026 I Nr. 224
 
+Änderung durch
+:   Art. 2 G v. 13.10.2026 I Nr. 304 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Kapitel 1 - Allgemeine Bestimmungen
 
@@ -120,10 +123,10 @@ Für dieses Gesetz gelten folgende Begriffsbestimmungen:
     Gewährleistung der Anlagensicherheit, zur Gewährleistung einer
     umweltverträglichen Abfallentsorgung oder sonst zur Vermeidung oder
     Verminderung von Auswirkungen auf die Umwelt zur Erreichung eines
-    allgemein hohen Schutzniveaus für die Umwelt insgesamt gesichert
-    erscheinen lässt; bei der Bestimmung des Standes der Technik
-    sind insbesondere die in der Anlage 1 aufgeführten Kriterien zu
-    berücksichtigen;
+    allgemein hohen Schutzniveaus für die Umwelt insgesamt, einschließlich
+    der menschlichen Gesundheit und des Klimas, gesichert erscheinen
+    lässt; bei der Bestimmung des Standes der Technik sind insbesondere
+    die in der Anlage 1 aufgeführten Kriterien zu berücksichtigen;
 
 12. EMAS-Standort
     diejenige Einheit einer Organisation, die nach § 32 Absatz 1 Satz
@@ -2657,7 +2660,10 @@ Rechtsverordnung auf andere Landesbehörden übertragen.
 ### Abschnitt 2 - Abwasserbeseitigung
 
 
-#### § 54 Begriffsbestimmungen für die Abwasserbeseitigung
+#### Unterabschnitt 1 - Gemeinsame Bestimmungen
+
+
+##### § 54 Begriffsbestimmungen für die Abwasserbeseitigung
 
 (1) Abwasser ist
 
@@ -2678,46 +2684,17 @@ sowie das Entwässern von Klärschlamm in Zusammenhang mit der
 Abwasserbeseitigung. Zur Abwasserbeseitigung gehört auch die
 Beseitigung des in Kleinkläranlagen anfallenden Schlamms.
 
-(3) BVT-Merkblatt ist ein Dokument, das auf Grund des
-Informationsaustausches nach Artikel 13 der Richtlinie 2010/75/
-EU des Europäischen Parlaments und des Rates vom 24. November 2010
-über Industrieemissionen (integrierte Vermeidung und Verminderung
-der Umweltverschmutzung) (Neufassung) (ABl. L 334 vom 17.12.2010,
-S. 17) für bestimmte Tätigkeiten erstellt wird und insbesondere die
-angewandten Techniken, die derzeitigen Emissions- und Verbrauchswerte
-sowie die Techniken beschreibt, die für die Festlegung der besten
-verfügbaren Techniken sowie der BVT-Schlussfolgerungen berücksichtigt
-wurden.
+(3) Indirekteinleitung ist das Einleiten von Abwasser in eine
+öffentliche oder private Abwasseranlage.
 
-(4) BVT-Schlussfolgerungen sind ein nach Artikel 13 Absatz
-5 der Richtlinie 2010/75/EU von der Europäischen Kommission
-erlassenes Dokument, das die Teile eines BVT-Merkblatts mit den
-Schlussfolgerungen in Bezug auf Folgendes enthält:
+(4) (weggefallen)
 
-1.  die besten verfügbaren Techniken, ihre Beschreibung und Informationen
-    zur Bewertung ihrer Anwendbarkeit,
+(5) (weggefallen)
 
-2.  die mit den besten verfügbaren Techniken assoziierten Emissionswerte,
-
-3.  die zu den Nummern 1 und 2 gehörigen Überwachungsmaßnahmen,
-
-4.  die zu den Nummern 1 und 2 gehörigen Verbrauchswerte sowie
-
-5.  die gegebenenfalls einschlägigen Standortsanierungsmaßnahmen.
-
-(5) Emissionsbandbreiten sind die mit den besten verfügbaren Techniken
-assoziierten Emissionswerte.
-
-(6) Die mit den besten verfügbaren Techniken assoziierten
-Emissionswerte sind der Bereich von Emissionswerten, die unter
-normalen Betriebsbedingungen unter Verwendung einer besten verfügbaren
-Technik oder einer Kombination von besten verfügbaren Techniken
-entsprechend der Beschreibung in den BVT-Schlussfolgerungen erzielt
-werden, ausgedrückt als Mittelwert für einen vorgegebenen Zeitraum
-unter spezifischen Referenzbedingungen.
+(6) (weggefallen)
 
 
-#### § 55 Grundsätze der Abwasserbeseitigung
+##### § 55 Grundsätze der Abwasserbeseitigung
 
 (1) Abwasser ist so zu beseitigen, dass das Wohl der Allgemeinheit
 nicht beeinträchtigt wird. Dem Wohl der Allgemeinheit kann auch
@@ -2736,7 +2713,7 @@ umweltverträglicher ist als eine Entsorgung als Abfall und
 wasserwirtschaftliche Belange nicht entgegenstehen.
 
 
-#### § 56 Pflicht zur Abwasserbeseitigung
+##### § 56 Pflicht zur Abwasserbeseitigung
 
 Abwasser ist von den juristischen Personen des öffentlichen Rechts
 zu beseitigen, die nach Landesrecht hierzu verpflichtet sind
@@ -2747,7 +2724,7 @@ Abwasserbeseitigung Verpflichteten können sich zur Erfüllung ihrer
 Pflichten Dritter bedienen.
 
 
-#### § 57 Einleiten von Abwasser in Gewässer
+##### § 57 Einleiten von Abwasser in Gewässer
 
 (1) Eine Erlaubnis für das Einleiten von Abwasser in Gewässer
 (Direkteinleitung) darf nur erteilt werden, wenn
@@ -2761,7 +2738,12 @@ Pflichten Dritter bedienen.
 
 3.  Abwasseranlagen oder sonstige Einrichtungen errichtet und betrieben
     werden, die erforderlich sind, um die Einhaltung der Anforderungen
-    nach den Nummern 1 und 2 sicherzustellen.
+    nach den Nummern 1 und 2 sowie, soweit erforderlich, nach Satz 2
+    sicherzustellen.
+
+In der Erlaubnis sind, soweit erforderlich, auch angemessene Maßnahmen
+zum Schutz von Trinkwassereinzugsgebieten nach § 2 Nummer 1 der
+Trinkwassereinzugsgebieteverordnung festzulegen.
 
 (2) Durch Rechtsverordnung nach § 23 Absatz 1 Nummer 3 können an das
 Einleiten von Abwasser in Gewässer Anforderungen festgelegt werden,
@@ -2769,65 +2751,27 @@ die nach Absatz 1 Nummer 1 dem Stand der Technik entsprechen. Die
 Anforderungen können auch für den Ort des Anfalls des Abwassers oder
 vor seiner Vermischung festgelegt werden.
 
-(3) Nach Veröffentlichung einer BVT-Schlussfolgerung ist bei der
-Festlegung von Anforderungen nach Absatz 2 Satz 1 unverzüglich
-zu gewährleisten, dass für Anlagen nach § 3 der Verordnung über
-genehmigungsbedürftige Anlagen und nach § 60 Absatz 3 Satz 1 Nummer
-2 die Einleitungen unter normalen Betriebsbedingungen die in den BVT-
-Schlussfolgerungen genannten Emissionsbandbreiten nicht überschreiten.
-Wenn in besonderen Fällen wegen technischer Merkmale der betroffenen
-Anlagenart die Einhaltung der in Satz 1 genannten Emissionsbandbreiten
-unverhältnismäßig wäre, können in der Rechtsverordnung für die
-Anlagenart geeignete Emissionswerte festgelegt werden, die im Übrigen
-dem Stand der Technik entsprechen müssen. Bei der Festlegung der
-abweichenden Anforderungen nach Satz 2 ist zu gewährleisten, dass
-die in den Anhängen V bis VIII der Richtlinie 2010/75/EU festgelegten
-Emissionsgrenzwerte nicht überschritten werden, keine erheblichen
-nachteiligen Auswirkungen auf den Gewässerzustand hervorgerufen werden
-und zu einem hohen Schutzniveau für die Umwelt insgesamt beigetragen
-wird. Die Notwendigkeit abweichender Anforderungen ist zu begründen.
-
-(4) Für vorhandene Abwassereinleitungen aus Anlagen nach § 3 der
-Verordnung über genehmigungsbedürftige Anlagen oder bei Anlagen nach §
-60 Absatz 3 Satz 1 Nummer 2 ist
-
-1.  innerhalb eines Jahres nach Veröffentlichung von BVT-
-    Schlussfolgerungen zur Haupttätigkeit eine Überprüfung und
-    gegebenenfalls Anpassung der Rechtsverordnung vorzunehmen und
-
-2.  innerhalb von vier Jahren nach Veröffentlichung von BVT-
-    Schlussfolgerungen zur Haupttätigkeit sicherzustellen, dass die
-    betreffenden Einleitungen oder Anlagen die Emissionsgrenzwerte der
-    Rechtsverordnung einhalten; dabei gelten die Emissionsgrenzwerte
-    als im Einleitungsbescheid festgesetzt, soweit der Bescheid nicht
-    weitergehende Anforderungen im Einzelfall festlegt.
-
-Sollte die Anpassung der Abwassereinleitung an die nach Satz 1 Nummer
-1 geänderten Anforderungen innerhalb der in Satz 1 bestimmten Frist
-wegen technischer Merkmale der betroffenen Anlage unverhältnismäßig
-sein, soll die zuständige Behörde einen längeren Zeitraum festlegen.
-
-(5) Entsprechen vorhandene Einleitungen, die nicht unter die
-Absätze 3 bis 4 fallen, nicht den Anforderungen nach Absatz 2, auch
-in Verbindung mit Satz 2, oder entsprechenden Anforderungen der
-Abwasserverordnung in ihrer am 28. Februar 2010 geltenden Fassung,
-so hat der Betreiber die erforderlichen Anpassungsmaßnahmen innerhalb
-angemessener Fristen durchzuführen; Absatz 4 Satz 1 Nummer 2 zweiter
-Halbsatz gilt entsprechend. Für Einleitungen nach Satz 1 sind in
-der Rechtsverordnung nach Absatz 2 Satz 1 abweichende Anforderungen
-festzulegen, soweit die erforderlichen Anpassungsmaßnahmen
-unverhältnismäßig wären.
+(3) Entsprechen vorhandene Einleitungen nicht den Anforderungen
+der Rechtsverordnung nach Absatz 2 Satz 1, auch in Verbindung mit
+Satz 2, oder entsprechenden Anforderungen der Abwasserverordnung in
+ihrer am 28. Februar 2010 geltenden Fassung, so hat der Betreiber
+die erforderlichen Anpassungsmaßnahmen innerhalb angemessener
+Fristen durchzuführen; dabei gelten die Emissionsgrenzwerte der
+Rechtsverordnung als im Einleitungsbescheid festgesetzt, soweit der
+Bescheid nicht weitergehende Anforderungen im Einzelfall festlegt.
+Für Einleitungen nach Satz 1 sind in der Rechtsverordnung nach
+Absatz 2 Satz 1 abweichende Anforderungen festzulegen, soweit die
+erforderlichen Anpassungsmaßnahmen unverhältnismäßig wären.
 
 
-#### § 58 Einleiten von Abwasser in öffentliche Abwasseranlagen
+##### § 58 Einleiten von Abwasser in öffentliche Abwasseranlagen
 
 (1) Das Einleiten von Abwasser in öffentliche Abwasseranlagen
-(Indirekteinleitung) bedarf der Genehmigung durch die zuständige
-Behörde, soweit an das Abwasser in der Abwasserverordnung in ihrer
-jeweils geltenden Fassung Anforderungen für den Ort des Anfalls
-des Abwassers oder vor seiner Vermischung festgelegt sind. Durch
-Rechtsverordnung nach § 23 Absatz 1 Nummer 5, 8 und 10 kann bestimmt
-werden,
+bedarf der Genehmigung durch die zuständige Behörde, soweit an das
+Abwasser in der Abwasserverordnung in ihrer jeweils geltenden Fassung
+Anforderungen für den Ort des Anfalls des Abwassers oder vor seiner
+Vermischung festgelegt sind. Durch Rechtsverordnung nach § 23 Absatz 1
+Nummer 5, 8 und 10 kann bestimmt werden,
 
 1.  unter welchen Voraussetzungen die Indirekteinleitung anstelle einer
     Genehmigung nach Satz 1 nur einer Anzeige bedarf,
@@ -2842,8 +2786,8 @@ unberührt bleiben Rechtsvorschriften der Länder, nach denen die
 Genehmigung der zuständigen Behörde durch eine Genehmigung des
 Betreibers einer öffentlichen Abwasseranlage ersetzt wird.
 
-(2) Eine Genehmigung für eine Indirekteinleitung darf nur erteilt
-werden, wenn
+(2) Eine Genehmigung nach Absatz 1 Satz 1 darf nur erteilt werden,
+wenn
 
 1.  die nach der Abwasserverordnung in ihrer jeweils geltenden Fassung
     für die Einleitung maßgebenden Anforderungen einschließlich der
@@ -2864,20 +2808,25 @@ innerhalb angemessener Fristen durchzuführen.
 auch unter dem Vorbehalt des Widerrufs erteilt werden.
 
 
-#### § 59 Einleiten von Abwasser in private Abwasseranlagen
+##### § 59 Einleiten von Abwasser in private Abwasseranlagen
 
 (1) Dem Einleiten von Abwasser in öffentliche Abwasseranlagen stehen
 Abwassereinleitungen Dritter in private Abwasseranlagen, die der
 Beseitigung von gewerblichem Abwasser dienen, gleich.
 
 (2) Die zuständige Behörde kann Abwassereinleitungen nach Absatz 1
-von der Genehmigungsbedürftigkeit nach Absatz 1 in Verbindung mit § 58
-Absatz 1 freistellen, wenn durch vertragliche Regelungen zwischen dem
-Betreiber der privaten Abwasseranlage und dem Einleiter die Einhaltung
-der Anforderungen nach § 58 Absatz 2 sichergestellt ist.
+von der Genehmigungsbedürftigkeit nach Absatz 1 in Verbindung mit §
+58 Absatz 1 freistellen, wenn durch vertragliche Regelungen zwischen
+dem Betreiber der privaten Abwasseranlage und dem Indirekteinleiter
+die Einhaltung der Anforderungen nach § 58 Absatz 2 sichergestellt
+ist. Im Falle von nachträglichen Änderungen der vertraglichen
+Regelungen, die sich auf die Einhaltung der Anforderungen nach § 58
+Absatz 2 auswirken können, bedarf es einer erneuten Freistellung nach
+Satz 1. Für Freistellungen nach den Sätzen 1 und 2 gilt § 13 Absatz
+1 entsprechend.
 
 
-#### § 60 Abwasseranlagen
+##### § 60 Abwasseranlagen
 
 (1) Abwasseranlagen sind so zu errichten, zu betreiben und zu
 unterhalten, dass die Anforderungen an die Abwasserbeseitigung
@@ -2924,54 +2873,16 @@ Die Genehmigung ist zu versagen oder mit den notwendigen
 Nebenbestimmungen zu versehen, wenn die Anlage den Anforderungen
 des Absatzes 1 nicht entspricht oder sonstige öffentlich-rechtliche
 Vorschriften dies erfordern. § 13 Absatz 1, § 16 Absatz 1 und 3 und §
-17 gelten entsprechend. Für die Anlagen, die die Voraussetzungen nach
-Satz 1 Nummer 2 oder Nummer 3 erfüllen, gelten auch die Anforderungen
-nach § 5 des Bundes-Immissionsschutzgesetzes entsprechend.
+17 gelten entsprechend.
 
-(4) Sofern eine Genehmigung nicht beantragt wird, hat der Betreiber
-die Änderung der Lage, der Beschaffenheit oder des Betriebs einer
-Anlage, die die Voraussetzungen nach Absatz 3 Satz 1 Nummer 2 oder
-Nummer 3 erfüllt, der zuständigen Behörde mindestens einen Monat bevor
-mit der Änderung begonnen werden soll, schriftlich oder elektronisch
-anzuzeigen, wenn die Änderung Auswirkungen auf die Umwelt haben kann.
-Der Anzeige sind die zur Beurteilung der Auswirkungen notwendigen
-Unterlagen nach § 3 Absatz 1 und 2 der Industriekläranlagen-
-Zulassungs- und Überwachungsverordnung beizufügen, soweit
-diese für die Prüfung erforderlich sein können, ob das Vorhaben
-genehmigungsbedürftig ist. Die zuständige Behörde hat dem Betreiber
-unverzüglich mitzuteilen, ob ihr die für die Prüfung nach Satz 2
-erforderlichen Unterlagen vorliegen. Der Betreiber der Anlage darf die
-Änderung vornehmen, sobald die zuständige Behörde ihm mitgeteilt hat,
-dass die Änderung keiner Genehmigung bedarf oder wenn die zuständige
-Behörde sich innerhalb eines Monats nach Zugang der Mitteilung nach
-Satz 3, dass die erforderlichen Unterlagen vorliegen, nicht geäußert
-hat.
-
-(5) Kommt der Betreiber einer Anlage, die die Voraussetzungen nach
-Absatz 3 Satz 1 Nummer 2 oder Nummer 3 erfüllt, einer Nebenbestimmung
-oder einer abschließend bestimmten Pflicht aus einer Rechtsverordnung
-nach § 23 Absatz 1 Nummer 3 in Verbindung mit § 57 Absatz 2, 3, 4
-Satz 1 Nummer 1 oder Absatz 5 Satz 2, nach § 23 Absatz 1 Nummer 5
-oder der Abwasserverordnung in ihrer am 28. Februar 2010 geltenden
-Fassung nicht nach und wird hierdurch eine unmittelbare Gefahr für
-die menschliche Gesundheit oder die Umwelt herbeigeführt, so hat
-die zuständige Behörde den Betrieb der Anlage oder den Betrieb des
-betreffenden Teils der Anlage bis zur Erfüllung der Nebenbestimmung
-oder der abschließend bestimmten Pflicht zu untersagen.
-
-(6) Wird eine Anlage, die die Voraussetzungen nach Absatz 3 Satz 1
-Nummer 2 oder Nummer 3 erfüllt, ohne die erforderliche Genehmigung
-betrieben oder wesentlich geändert, so ordnet die zuständige Behörde
-die Stilllegung der Anlage an.
-
-(7) Die Länder können regeln, dass die Errichtung, der Betrieb
+(4) Die Länder können regeln, dass die Errichtung, der Betrieb
 und die wesentliche Änderung von Abwasseranlagen, die nicht
 unter Absatz 3 fallen, einer Anzeige oder Genehmigung bedürfen.
 Genehmigungserfordernisse nach anderen öffentlich-rechtlichen
 Vorschriften bleiben unberührt.
 
 
-#### § 61 Selbstüberwachung bei Abwassereinleitungen und Abwasseranlagen
+##### § 61 Selbstüberwachung bei Abwassereinleitungen und Abwasseranlagen
 
 (1) Wer Abwasser in ein Gewässer oder in eine Abwasseranlage
 einleitet, ist verpflichtet, das Abwasser nach Maßgabe einer
@@ -2993,6 +2904,615 @@ die Häufigkeit und die Durchführung von Probenahmen, Messungen und
 Analysen einschließlich der Qualitätssicherung, Aufzeichnungs- und
 Aufbewahrungspflichten sowie die Voraussetzungen getroffen werden,
 nach denen keine Pflicht zur Selbstüberwachung besteht.
+
+
+#### Unterabschnitt 2 - Beseitigung von Abwasser aus Anlagen nach der Richtlinie 2010/75/EU über Industrieemissionen
+
+
+##### § 61a Anwendungsbereich
+
+Dieser Unterabschnitt gilt ergänzend zu den Anforderungen des
+Unterabschnitts 1 für Abwasser aus
+
+1.  Anlagen nach § 3 der Verordnung über genehmigungsbedürftige Anlagen,
+
+2.  Anlagen nach § 60 Absatz 3 Satz 1 Nummer 2 und Nummer 3.
+
+§ 57 Absatz 3 ist nicht anzuwenden.
+
+
+##### § 61b Weitere Begriffsbestimmungen
+
+(1) BVT-Merkblatt ist ein Dokument, das auf Grund des
+Informationsaustausches nach Artikel 13 der Richtlinie 2010/75/
+EU für bestimmte Tätigkeiten erstellt wird und insbesondere die
+angewandten Techniken, die derzeitigen Emissions- und Verbrauchswerte,
+Zukunftstechniken sowie die Techniken beschreibt, die für die
+Festlegung der besten verfügbaren Techniken sowie der BVT-
+Schlussfolgerungen berücksichtigt wurden.
+
+(2) BVT-Schlussfolgerungen sind ein nach Artikel 13 Absatz
+5 der Richtlinie 2010/75/EU von der Europäischen Kommission
+erlassenes Dokument, das die Teile eines BVT-Merkblatts mit den
+Schlussfolgerungen in Bezug auf Folgendes enthält:
+
+1.  die besten verfügbaren Techniken und Zukunftstechniken, ihre
+    Beschreibung und Informationen zur Bewertung ihrer Anwendbarkeit,
+
+2.  die mit den besten verfügbaren Techniken und Zukunftstechniken
+    assoziierten Emissionswerte,
+
+3.  die mit den besten verfügbaren Techniken und Zukunftstechniken
+    assoziierten Umweltleistungswerte,
+
+4.  den Inhalt des Umweltmanagementsystems einschließlich etwaiger
+    Umweltleistungsvergleichswerte,
+
+5.  die zu den Nummern 1, 2, 3 und 4 gehörigen Überwachungsmaßnahmen sowie
+
+6.  die gegebenenfalls einschlägigen Standortsanierungsmaßnahmen.
+
+(3) Emissionsbandbreiten sind die mit den besten verfügbaren Techniken
+assoziierten Emissionswerte.
+
+(4) Die mit den besten verfügbaren Techniken assoziierten
+Emissionswerte sind die Spanne von Emissionswerten, die unter normalen
+Betriebsbedingungen unter Verwendung einer besten verfügbaren Technik
+oder einer Kombination von besten verfügbaren Techniken entsprechend
+der Beschreibung in den BVT-Schlussfolgerungen erzielt werden,
+ausgedrückt als Mittelwert für einen vorgegebenen Zeitraum unter
+spezifischen Referenzbedingungen.
+
+(5) Zukunftstechniken sind neue oder weiterentwickelte Techniken, die
+bei gewerblicher Nutzung entweder ein höheres allgemeines Schutzniveau
+für die menschliche Gesundheit und die Umwelt oder zumindest das
+gleiche Schutzniveau für die menschliche Gesundheit und die Umwelt
+sowie größere Kostenersparnisse bieten könnten als der bestehende
+Stand der Technik.
+
+(6) Mit Zukunftstechniken assoziierte Emissionswerte sind die
+Spanne von Emissionswerten, die unter normalen Betriebsbedingungen
+unter Verwendung einer Zukunftstechnik oder einer Kombination
+von Zukunftstechniken entsprechend der Beschreibung in den BVT-
+Schlussfolgerungen erzielt werden, ausgedrückt als Mittelwert für
+einen vorgegebenen Zeitraum unter spezifischen Referenzbedingungen.
+
+
+##### § 61c Zusätzliche Anforderungen an das Einleiten von Abwasser in Gewässer; Verordnungsermächtigung
+
+(1) Nach Veröffentlichung von BVT-Schlussfolgerungen im Amtsblatt
+der Europäischen Union sind unverzüglich in der Rechtsverordnung
+nach § 57 Absatz 2 Satz 1 Anforderungen an neue und vorhandene
+Direkteinleitungen von Abwasser nach § 61a Satz 1 festzulegen, die
+gewährleisten, dass
+
+1.  die Einleitungen unter normalen Betriebsbedingungen die in den BVT-
+    Schlussfolgerungen genannten Emissionsbandbreiten nicht überschreiten
+    und
+
+2.  unter Berücksichtigung der gesamten Emissionsbandbreiten die
+    strengstmöglichen Emissionsgrenzwerte für die Einleitungen festgelegt
+    werden, die bei Anwendung der besten verfügbaren Techniken und
+    unter Berücksichtigung möglicher Verlagerungen von nachteiligen
+    Auswirkungen von einem Schutzgut auf ein anderes erreichbar sind und
+    zur bestmöglichen Gesamtleistung der Anlagen beitragen.
+
+(2) Nach der Veröffentlichung von BVT-Schlussfolgerungen hat die
+zuständige Behörde in Erlaubnissen für neue Einleitungen von Abwasser
+nach § 61a Satz 1 in Gewässer bis zur Anpassung der Rechtsverordnung
+nach Absatz 1 die erforderlichen Festlegungen dafür zu treffen,
+dass die Anforderungen nach Absatz 1 Nummer 1 und 2 eingehalten
+werden. Dies gilt auch beim Erlass nachträglicher Inhalts- und
+Nebenbestimmungen zu Erlaubnissen für vorhandene Direkteinleitungen
+im Rahmen von Überprüfungen nach § 8 Absatz 3 Nummer 1, Nummer
+3 oder Nummer 4 der Industriekläranlagen-Zulassungs- und
+Überwachungsverordnung vom 2. Mai 2013 (BGBl. I S. 973, 1011, 3756),
+die zuletzt durch Artikel 2 des Gesetzes vom 3. Juli 2024 (BGBl. 2024
+I Nr. 225) geändert worden ist, in der jeweils geltenden Fassung.
+Der Einleiter hat der zuständigen Behörde in den Fällen der Sätze 1
+und 2 eine Bewertung der gesamten Emissionsbandbreite vorzulegen, in
+der analysiert wird, ob die Werte am unteren Ende der Bandbreite bei
+Einhaltung der Anforderungen nach Absatz 1 Nummer 2 erreicht werden
+können. Bei Festlegungen nach Satz 1 oder Satz 2 berücksichtigt die
+zuständige Behörde die Bewertung nach Satz 3. Im Falle des Satzes 1
+oder des Satzes 2 sind nicht oder nicht mehr anzuwenden:
+
+1.  die in der Abwasserverordnung vor der Veröffentlichung der neuen BVT-
+    Schlussfolgerungen festgelegten Emissionsgrenzwerte, soweit die neuen
+    BVT-Schlussfolgerungen weitergehende Anforderungen stellen,
+
+2.  die entsprechenden Emissionsgrenzwerte der angepassten
+    Rechtsverordnung nach Absatz 1, sofern diese nach einer behördlichen
+    Festlegung nach Satz 1 oder Satz 2 in Kraft tritt, bis zur nächsten
+    Änderung der Emissionsgrenzwerte der Rechtsverordnung.
+
+Die behördliche Festlegung nach Satz 1 oder Satz 2 tritt an die Stelle
+der Emissionsgrenzwerte nach Satz 5.
+
+(3) In der Rechtsverordnung nach Absatz 1 kann bestimmt werden,
+dass die zuständige Behörde abweichend von den dort festgelegten
+Anforderungen nach Absatz 1 Nummer 1 und 2 für die jeweilige neue oder
+vorhandene Einleitung Emissionsgrenzwerte oberhalb der in den BVT-
+Schlussfolgerungen genannten Emissionsbandbreiten (weniger strenge
+Emissionsgrenzwerte) festlegen kann, die im Übrigen dem Stand der
+Technik entsprechen müssen, wenn in besonderen in der Rechtsverordnung
+näher zu regelnden Fällen
+
+1.  wegen technischer Merkmale der betroffenen Anlagenart oder
+
+2.  auf Grund des geografischen Standorts und der lokalen
+    Umweltbedingungen
+
+die Einhaltung der in den BVT-Schlussfolgerungen genannten
+Emissionsbandbreiten gemessen am Umweltnutzen zu unverhältnismäßig
+höheren Kosten führen würde. Sind im Einzelfall unverhältnismäßig
+höhere Kosten zu erwarten, kann die zuständige Behörde weniger
+strenge Emissionsgrenzwerte auch in den Fällen des Absatzes 2 Satz
+1 oder Satz 2 sowie des Absatzes 5 Satz 2 festlegen. In jedem Fall
+hat die zuständige Behörde zu gewährleisten, dass keine erheblichen
+nachteiligen Auswirkungen auf den Gewässerzustand hervorgerufen werden
+und zu einem hohen Schutzniveau für die Umwelt insgesamt beigetragen
+wird; die Bewertung des Einleiters nach § 61d Absatz 1 Satz 1 ist zu
+berücksichtigen. Die Festlegung weniger strenger Emissionsgrenzwerte
+ist auf der Grundlage von Angaben des Einleiters in der Erlaubnis oder
+im Rahmen einer Anpassung der Erlaubnis zu begründen. Bei der Prüfung
+der Verhältnismäßigkeit nach Satz 1 hat die zuständige Behörde die
+in Anlage 2 zum Bundes-Immissionsschutzgesetz aufgeführten Kriterien
+zu berücksichtigen. Die zuständige Behörde hat die Festlegung
+weniger strenger Emissionsgrenzwerte bei Anpassungen der Erlaubnis
+in den Fällen des Absatzes 5 Satz 1 und Satz 2 sowie im Rahmen der
+Überprüfung von Erlaubnissen und Genehmigungen nach § 8 Absatz 3
+der Industriekläranlagen-Zulassungs- und Überwachungsverordnung,
+spätestens jedoch alle vier Jahre, erneut zu bewerten. Soweit
+erforderlich, ist die Erlaubnis entsprechend anzupassen.
+
+(4) Abweichend von den in einer Rechtsverordnung nach Absatz 1
+festgelegten Anforderungen kann die zuständige Behörde in der
+Erlaubnis auch dann weniger strenge Emissionsgrenzwerte für
+Direkteinleitungen festlegen, wenn in einer Anlage nach § 3 der
+Verordnung über genehmigungsbedürftige Anlagen Zukunftstechniken für
+einen Gesamtzeitraum von höchstens 30 Monaten erprobt werden sollen.
+
+(5) Für vorhandene Einleitungen von Abwasser nach § 61a Satz
+1 ist sicherzustellen, dass sie nach Ablauf von vier Jahren
+nach Veröffentlichung von BVT-Schlussfolgerungen die neuen
+Emissionsgrenzwerte der Rechtsverordnung nach Absatz 1 einhalten;
+dabei gelten die Emissionsgrenzwerte als im Einleitungsbescheid
+festgesetzt, soweit dieser nicht weitergehende Anforderungen im
+Einzelfall festlegt. Erfolgt innerhalb der Frist nach Satz 1 keine
+Anpassung der Rechtsverordnung nach Absatz 1, so hat die zuständige
+Behörde durch Anpassung der Erlaubnis unverzüglich die erforderlichen
+Festlegungen dafür zu treffen, dass die Anforderungen nach Absatz
+1 Nummer 1 und 2 im Einzelfall eingehalten werden. Für behördliche
+Festlegungen nach Satz 2 gilt Absatz 2 Satz 3 bis 6 entsprechend.
+Sollte die Anpassung der vorhandenen Einleitung an die geänderten
+Anforderungen der Rechtsverordnung nach Absatz 1 oder an behördliche
+Festlegungen nach Satz 2 innerhalb der in Satz 1 bestimmten Frist
+wegen technischer Merkmale der betroffenen Anlage oder auf Grund
+des geografischen Standorts und der lokalen Umweltbedingungen
+unverhältnismäßig sein, soll die zuständige Behörde im Rahmen einer
+Anpassung der Erlaubnis einen längeren Zeitraum festlegen. Die
+Festlegung eines längeren Zeitraums ist hierbei auf der Grundlage
+von Angaben des Einleiters zu begründen. Bei der Prüfung der
+Verhältnismäßigkeit nach Satz 4 hat die zuständige Behörde die in
+Anlage 2 des Bundes-Immissionsschutzgesetzes aufgeführten Kriterien
+zu berücksichtigen.
+
+(6) Abweichend von Absatz 5 Satz 1 kann die zuständige Behörde, wenn
+in einer Anlage nach § 3 der Verordnung über genehmigungsbedürftige
+Anlagen Zukunftstechniken zur Anwendung kommen, in der Erlaubnis
+für eine zugehörige vorhandene Einleitung weniger strenge
+Emissionsgrenzwerte festlegen, wenn sichergestellt ist, dass
+nach Ablauf von sechs Jahren nach Veröffentlichung von BVT-
+Schlussfolgerungen die mit der jeweiligen Zukunftstechnik assoziierten
+Emissionswerte eingehalten werden.
+
+(7) Legt die zuständige Behörde nach Absatz 3, Absatz 4, Absatz 6 oder
+nach § 61f Absatz 1 weniger strenge Emissionsgrenzwerte fest, tritt
+die behördliche Festlegung an die Stelle der Emissionsgrenzwerte der
+Rechtsverordnung nach Absatz 1.
+
+
+##### § 61d Bewertung und Überwachung der Schadstoffkonzentration im aufnehmenden Oberflächengewässer
+
+(1) Der Direkteinleiter hat die Auswirkungen der vorgesehenen
+Festlegung weniger strenger Emissionsgrenzwerte durch die zuständige
+Behörde nach § 61c Absatz 3 Satz 2 bis 5 auf die Konzentration der
+betreffenden Schadstoffe im aufnehmenden Oberflächengewässer zu
+bewerten. Steht auf Grundlage der Bewertung fest, dass die Festlegung
+weniger strenger Emissionsgrenzwerte quantifizierbare oder messbare
+Auswirkungen auf ein Oberflächengewässer haben wird, hat die
+zuständige Behörde in der Erlaubnis oder anderweitig sicherzustellen,
+dass die Konzentration der betreffenden Schadstoffe im aufnehmenden
+Oberflächengewässer überwacht wird.
+
+(2) Sollen zur Sicherstellung der Einhaltung der Bewirtschaftungsziele
+nach § 27 Emissionsgrenzwerte unterhalb der in den BVT-
+Schlussfolgerungen genannten Emissionsbandbreiten festgelegt werden,
+so hat die zuständige Behörde die Auswirkungen der strengeren
+Emissionsgrenzwerte auf die Konzentration der betreffenden Schadstoffe
+im aufnehmenden Oberflächengewässer zu bewerten. Steht auf Grundlage
+der Bewertung fest, dass die Einleitung quantifizierbare oder
+messbare Auswirkungen auf ein Oberflächengewässer haben wird, hat die
+zuständige Behörde in der Erlaubnis oder anderweitig sicherzustellen,
+dass die Konzentration der betreffenden Schadstoffe im aufnehmenden
+Oberflächengewässer überwacht wird.
+
+(3) Für die Überwachung nach Absatz 1 Satz 2 und Absatz 2 Satz 2
+kann auf die Ergebnisse der Überwachung nach § 100 oder auf sonstige
+vorliegende Daten zurückgegriffen werden. Sind in einschlägigen
+Rechtsvorschriften der Europäischen Union oder in Rechtsvorschriften
+zu ihrer Umsetzung Überwachungs- oder Messverfahren für die
+betreffenden Schadstoffe festgelegt, so sind diese Verfahren für die
+Überwachung nach Absatz 1 Satz 2 und Absatz 2 Satz 2 zu verwenden. Der
+Einleiter hat der zuständigen Behörde die Ergebnisse der Überwachung
+nach diesen Vorschriften zu übermitteln.
+
+
+##### § 61e Tiefgreifende industrielle Transformation von Anlagen
+
+(1) Die zuständige Behörde kann die Frist nach § 61c Absatz 5 Satz 1
+für vorhandene Direkteinleitungen von Abwasser nach § 61a Satz 1 auf
+höchstens acht Jahre nach Veröffentlichung von BVT-Schlussfolgerungen
+im Amtsblatt der Europäischen Union verlängern, wenn
+
+1.  der Betreiber der jeweiligen Anlage nach § 3 der Verordnung über
+    genehmigungsbedürftige Anlagen sich zur tiefgreifenden industriellen
+    Transformation der Anlage gemäß § 3 Absatz 6m des Bundes-
+    Immissionsschutzgesetzes verpflichtet und sichergestellt wird, dass
+    nach Ablauf der verlängerten Frist die Anforderungen nach § 61c
+    Absatz 1 oder, wenn Zukunftstechniken zur Anwendung kommen, die mit
+    Zukunftstechniken assoziierten Emissionswerte eingehalten werden,
+
+2.  die Genehmigung nach § 60 Absatz 3 oder nach § 4 Absatz 1 des Bundes-
+    Immissionsschutzgesetzes oder die Erlaubnis eine Beschreibung der
+    tiefgreifenden industriellen Transformation, der mit den besten
+    verfügbaren Techniken oder, wenn Zukunftstechniken zur Anwendung
+    kommen, mit Zukunftstechniken assoziierten Emissionswerte, die
+    erreicht werden sollen, sowie den Zeitplan für die Umsetzung und die
+    Etappenziele enthält,
+
+3.  der Betreiber der zuständigen Behörde jährlich einen Bericht über
+    die Fortschritte bei der Umsetzung der tiefgreifenden industriellen
+    Transformation vorlegt und
+
+4.  sichergestellt ist, dass keine schädlichen Gewässerveränderungen
+    hervorgerufen werden und ein hohes Schutzniveau für die Umwelt
+    insgesamt gewährleistet wird.
+
+(2) Darüber hinaus kann die zuständige Behörde vorhandene
+Direkteinleitungen von Abwasser nach § 61a Satz 1 von der
+Verpflichtung zur Einhaltung der neuen Emissionsgrenzwerte der
+Rechtsverordnung nach § 61c Absatz 1 freistellen, wenn
+
+1.  sich der Betreiber der jeweiligen Anlage nach § 3 der Verordnung
+    über genehmigungsbedürftige Anlagen zur tiefgreifenden industriellen
+    Transformation verpflichtet, die in der Stilllegung der bestehenden
+    Anlage und ihrer Ersetzung durch eine neue Anlage am selben oder einem
+    anderen Standort innerhalb der Europäischen Union besteht und die
+    tiefgreifende industrielle Transformation innerhalb von acht Jahren
+    nach Veröffentlichung von BVT-Schlussfolgerungen abgeschlossen wird,
+
+2.  der Betreiber unter Vorlage eines Stilllegungsplans, des zugehörigen
+    Zeitplans und der Etappenziele den Verzicht auf die Erlaubnis für die
+    vorhandene Direkteinleitung für einen Zeitpunkt innerhalb von acht
+    Jahren nach Veröffentlichung von BVT-Schlussfolgerungen erklärt,
+
+3.  der Betreiber der zuständigen Behörde jährlich einen Bericht über
+    die Fortschritte in Bezug auf den Stilllegungsplan für die bestehende
+    Anlage und ihre Ersetzung durch eine neue Anlage vorlegt und
+
+4.  sichergestellt ist, dass keine schädlichen Gewässerveränderungen
+    hervorgerufen werden und ein hohes Schutzniveau für die Umwelt
+    insgesamt gewährleistet wird.
+
+Im Falle des Satzes 1 treten bisherige in der Abwasserverordnung
+geregelte Emissionsgrenzwerte an die Stelle der neuen
+Emissionsgrenzwerte der Rechtsverordnung nach § 61c Absatz 1.
+Für Abwasserbehandlungsanlagen nach § 60 Absatz 3 Satz 1 Nummer 2
+sind Freistellungen nach Satz 1 nur in dem Maße zulässig, das dem
+Anteil des Abwasserstroms aus der jeweiligen Anlage nach § 3 der
+Verordnung über genehmigungsbedürftige Anlagen am gesamten in der
+Abwasserbehandlungsanlage behandelten Abwasser entspricht.
+
+
+##### § 61f Abweichungen von Emissionsgrenzwerten im Falle einer Krise
+
+(1) Die zuständige Behörde kann abweichend von den in einer
+Rechtsverordnung nach § 61c Absatz 1 festgelegten Emissionsgrenzwerten
+weniger strenge Emissionsgrenzwerte festlegen, wenn außergewöhnliche
+Umstände, die sich der Kontrolle des Einleiters und der staatlichen
+Institutionen entziehen, zu Folgendem führen:
+
+1.  einer schwerwiegenden Störung der Energieversorgung, wenn ein
+    überwiegendes öffentliches Interesse an der Sicherheit der
+    Energieversorgung besteht,
+
+2.  einem Mangel an Ressourcen, Materialien oder Ausrüstung, die der
+    Einleiter für die Ausübung von Tätigkeiten im öffentlichen Interesse
+    unter Einhaltung der geltenden Emissionsgrenzwerte benötigt, oder
+
+3.  einem Mangel an wesentlichen Ressourcen, Materialien oder Ausrüstung,
+    wenn die Produktionsleistung einer Anlage nach § 3 der Verordnung
+    über genehmigungsbedürftige Anlagen einen solchen Mangel aus Gründen
+    der öffentlichen Gesundheit oder der öffentlichen Sicherheit oder aus
+    anderen zwingenden Gründen des überwiegenden öffentlichen Interesses
+    ausgleicht.
+
+Erhebliche Umweltverschmutzungen dürfen nicht hervorgerufen werden.
+Es sind vorrangig andere Maßnahmen zur Krisenbewältigung zu nutzen,
+die zu einer geringeren Umweltverschmutzung führen. Die Festlegung
+weniger strenger Emissionsgrenzwerte nach Satz 1 ist in der Erlaubnis
+oder im Rahmen einer Anpassung der Erlaubnis zu begründen. Im Falle
+einer Anpassung der Erlaubnis nach Satz 4 finden § 2, § 3 Absatz 1
+bis 3 und Absatz 4 Satz 1 bis 3, § 4 Absatz 1 und 3 sowie die §§ 5
+und 6 der Industriekläranlagen-Zulassungs- und Überwachungsverordnung
+in ihrer jeweils geltenden Fassung keine Anwendung. § 4 Absatz 2 der
+Industriekläranlagen-Zulassungs- und Überwachungsverordnung in ihrer
+jeweils geltenden Fassung ist entsprechend mit der Maßgabe anzuwenden,
+dass die Veröffentlichung der angepassten Erlaubnis im Internet bis
+zur Aufhebung oder anderweitigen Erledigung der weniger strengen
+Emissionsgrenzwerte zu erfolgen hat.
+
+(2) Weniger strenge Emissionsgrenzwerte nach Absatz 1 dürfen nur für
+einen Zeitraum von bis zu drei Monaten gewährt werden. Wenn die Gründe
+für die Abweichung nach Absatz 1 Satz 1 fortbestehen, kann dieser
+Zeitraum um höchstens drei weitere Monate verlängert werden. Sobald
+die Bedingungen in Bezug auf die Energieversorgung oder die Versorgung
+mit Ressourcen, Materialen oder Ausrüstung wiederhergestellt sind
+oder wenn es eine Alternative bei der Energieversorgung oder zu den
+Ressourcen, Materialien oder Ausrüstungen gibt, ist die Festlegung
+weniger strenger Emissionsgrenzwerte aufzuheben.
+
+(3) Die zuständige Behörde stellt sicher, dass der Einleiter in den
+Fällen des Absatzes 1 die Emissionen überwacht.
+
+(4) Die zuständige Behörde hat unverzüglich eine Ausfertigung des
+Bescheids über die Festlegung weniger strenger Emissionsgrenzwerte
+nach Absatz 1 Satz 1 dem Bundesministerium für Umwelt, Klimaschutz,
+Naturschutz und nukleare Sicherheit zur Weiterleitung an die
+Europäische Kommission zuzuleiten. Das Bundesministerium für Umwelt,
+Klimaschutz, Naturschutz und nukleare Sicherheit unterrichtet die
+Europäische Kommission unverzüglich über jede Festlegung nach Absatz
+1 Satz 1, die Gründe hierfür und über die festgelegten Inhalts- und
+Nebenbestimmungen.
+
+
+##### § 61g Zusätzliche Anforderungen an Indirekteinleitungen; Verordnungsermächtigung
+
+(1) Nach Veröffentlichung von BVT-Schlussfolgerungen im Amtsblatt der
+Europäischen Union sind unverzüglich in der Rechtsverordnung nach § 57
+Absatz 2 Anforderungen an neue und vorhandene Indirekteinleitungen von
+Abwasser nach § 61a Satz 1 festzulegen, die gewährleisten, dass
+
+1.  die Indirekteinleitungen unter normalen Betriebsbedingungen die
+    in den BVT-Schlussfolgerungen genannten Emissionsbandbreiten nicht
+    überschreiten und
+
+2.  unter Berücksichtigung der gesamten Emissionsbandbreiten die
+    strengstmöglichen Emissionsgrenzwerte für die Indirekteinleitungen
+    festgelegt werden, die bei Anwendung der besten verfügbaren Techniken
+    und unter Berücksichtigung möglicher Verlagerungen von nachteiligen
+    Auswirkungen von einem Schutzgut auf ein anderes erreichbar sind und
+    zur bestmöglichen Gesamtleistung der Anlagen beitragen.
+
+(2) Nach der Veröffentlichung von BVT-Schlussfolgerungen hat die
+zuständige Behörde für neue Indirekteinleitungen bis zur Anpassung
+der Rechtsverordnung nach Absatz 1 die erforderlichen Festlegungen
+dafür zu treffen, dass die Anforderungen nach Absatz 1 Nummer 1 und 2
+eingehalten werden. Der Einleiter hat der zuständigen Behörde hierzu
+eine Bewertung der gesamten Emissionsbandbreite vorzulegen, in der
+analysiert wird, ob die Werte am unteren Ende der Bandbreite bei
+Einhaltung der Anforderungen nach Absatz 1 Nummer 2 erreicht werden
+können. Bei Festlegungen nach Satz 1 berücksichtigt die zuständige
+Behörde die Bewertung nach Satz 2. Im Falle des Satzes 1 sind nicht
+oder nicht mehr anzuwenden:
+
+1.  die in der Abwasserverordnung vor der Veröffentlichung der neuen BVT-
+    Schlussfolgerungen festgelegten Emissionsgrenzwerte, soweit die neuen
+    BVT-Schlussfolgerungen weitergehende Anforderungen stellen,
+
+2.  die entsprechenden Emissionsgrenzwerte der angepassten
+    Rechtsverordnung nach Absatz 1, sofern diese nach einer behördlichen
+    Festlegung nach Satz 1 in Kraft tritt, bis zur nächsten Änderung der
+    Emissionsgrenzwerte der Rechtsverordnung.
+
+(3) In der Rechtsverordnung nach Absatz 1 kann bestimmt werden,
+dass die zuständige Behörde abweichend von den dort festgelegten
+Anforderungen nach Absatz 1 Nummer 1 und 2 für die jeweilige neue
+oder vorhandene Indirekteinleitung weniger strenge Emissionsgrenzwerte
+festlegen kann, die im Übrigen dem Stand der Technik entsprechen
+müssen, wenn in besonderen in der Rechtsverordnung näher zu regelnden
+Fällen
+
+1.  wegen technischer Merkmale der betroffenen Anlagenart oder
+
+2.  auf Grund des geografischen Standorts und der lokalen
+    Umweltbedingungen
+
+die Einhaltung der in den BVT-Schlussfolgerungen genannten
+Emissionsbandbreiten gemessen am Umweltnutzen zu unverhältnismäßig
+höheren Kosten führen würde. Sind im Einzelfall unverhältnismäßig
+höhere Kosten zu erwarten, kann die zuständige Behörde weniger
+strenge Emissionsgrenzwerte auch in den Fällen des Absatzes 2 sowie
+des Absatzes 5 Satz 2 festlegen. In jedem Fall hat die zuständige
+Behörde zu gewährleisten, dass keine erheblichen nachteiligen
+Auswirkungen auf den Gewässerzustand hervorgerufen werden und zu einem
+hohen Schutzniveau für die Umwelt insgesamt beigetragen wird. Die
+Festlegung weniger strenger Emissionsgrenzwerte ist auf der Grundlage
+von Angaben des Indirekteinleiters in der Genehmigung oder im Rahmen
+einer Anpassung der Genehmigung zu begründen. Bei der Prüfung der
+Verhältnismäßigkeit nach Satz 1 hat die zuständige Behörde die in
+Anlage 2 zum Bundes-Immissionsschutzgesetz aufgeführten Kriterien zu
+berücksichtigen. Die zuständige Behörde hat die Festlegung weniger
+strenger Emissionsgrenzwerte bei Anpassungen der Genehmigung in den
+Fällen des Absatzes 5 Satz 1 und Satz 2, spätestens jedoch alle vier
+Jahre, erneut zu bewerten. Soweit erforderlich, ist die Genehmigung
+entsprechend anzupassen.
+
+(4) Abweichend von den in einer Rechtsverordnung nach Absatz 1
+festgelegten Anforderungen kann die zuständige Behörde auch dann
+weniger strenge Emissionsgrenzwerte für Indirekteinleitungen
+festlegen, wenn in einer Anlage nach § 3 der Verordnung über
+genehmigungsbedürftige Anlagen Zukunftstechniken für einen
+Gesamtzeitraum von höchstens 30 Monaten erprobt werden sollen.
+
+(5) Für vorhandene Indirekteinleitungen ist sicherzustellen, dass
+sie nach Ablauf von vier Jahren nach Veröffentlichung von BVT-
+Schlussfolgerungen die neuen Emissionsgrenzwerte der Rechtsverordnung
+nach Absatz 1 einhalten. Erfolgt innerhalb der Frist nach Satz
+1 keine Anpassung der Rechtsverordnung nach Absatz 1, so hat die
+zuständige Behörde unverzüglich die erforderlichen Festlegungen dafür
+zu treffen, dass die Anforderungen nach Absatz 1 Nummer 1 und 2 im
+Einzelfall eingehalten werden. Für behördliche Festlegungen nach Satz
+2 gilt Absatz 2 Satz 2 bis 4 entsprechend. Sollte die Anpassung der
+vorhandenen Indirekteinleitung an die geänderten Anforderungen der
+Rechtsverordnung nach Absatz 1 oder an behördliche Festlegungen nach
+Satz 2 innerhalb der in Satz 1 bestimmten Frist wegen technischer
+Merkmale der betroffenen Anlage oder auf Grund des geografischen
+Standorts und der lokalen Umweltbedingungen unverhältnismäßig sein,
+soll die zuständige Behörde einen längeren Zeitraum festlegen.
+Die Festlegung eines längeren Zeitraums ist auf der Grundlage von
+Angaben des Indirekteinleiters zu begründen. Bei der Prüfung der
+Verhältnismäßigkeit nach Satz 4 hat die zuständige Behörde die in
+Anlage 2 zum Bundes-Immissionsschutzgesetz aufgeführten Kriterien
+zu berücksichtigen.
+
+(6) Abweichend von Absatz 5 Satz 1 kann die zuständige Behörde, wenn
+in einer Anlage nach § 3 der Verordnung über genehmigungsbedürftige
+Anlagen Zukunftstechniken zur Anwendung kommen, für eine zugehörige
+vorhandene Indirekteinleitung weniger strenge Emissionsgrenzwerte
+festlegen, wenn sichergestellt ist, dass nach Ablauf von sechs
+Jahren nach Veröffentlichung von BVT-Schlussfolgerungen die mit der
+jeweiligen Zukunftstechnik assoziierten Emissionswerte eingehalten
+werden.
+
+(7) Behördliche Festlegungen nach den Absätzen 2 bis 6 werden nur
+für genehmigungspflichtige Indirekteinleitungen und im Rahmen der
+Erteilung oder Anpassung der Genehmigung getroffen.
+
+(8) Vertragliche Regelungen nach § 59 Absatz 2 Satz 1 haben auch die
+Einhaltung der Anforderungen nach den Absätzen 2 bis 6 und 9 sowie
+nach § 61h Satz 2 sicherzustellen. Im Falle vertraglicher Regelungen
+ersetzt die Freistellung nach § 59 Absatz 2 Satz 1 auch behördliche
+Festlegungen nach den Absätzen 2 bis 6 und 9. Auch bei nachträglichen
+Änderungen der vertraglichen Regelungen, die sich auf die Einhaltung
+der in Satz 1 genannten Anforderungen auswirken können, bedarf es
+einer erneuten Freistellung nach § 59 Absatz 2 Satz 2.
+
+(9) In der Genehmigung für die Indirekteinleitung sind,
+soweit erforderlich, auch angemessene Maßnahmen zum Schutz
+von Trinkwassereinzugsgebieten nach § 2 Nummer 1 der
+Trinkwassereinzugsgebieteverordnung festzulegen.
+
+
+##### § 61h Abweichende Anforderungen an Indirekteinleitungen im Hinblick auf nachgeschaltete Abwasserbehandlungsanlagen; Verordnungsermächtigung
+
+Entsprechen die in der Abwasserverordnung vor der Vermischung
+festgelegten Anforderungen den Emissionsbandbreiten, die in den
+einschlägigen BVT-Schlussfolgerungen für die Direkteinleitung des
+jeweiligen Schadstoffparameters festgelegt sind, kann im jeweiligen
+Anhang der Abwasserverordnung bestimmt werden, dass im Einzelfall
+von diesen Anforderungen unter Berücksichtigung einer Behandlung des
+Abwassers in einer Abwasserbehandlungsanlage außerhalb der Anlage
+nach § 3 der Verordnung über genehmigungsbedürftige Anlagen abgewichen
+werden kann. Soll im Einzelfall von diesen Anforderungen abgewichen
+werden, darf eine Genehmigung für eine Indirekteinleitung nur erteilt
+werden, wenn
+
+1.  durch die Behandlung des Abwassers in einer Abwasserbehandlungsanlage
+    außerhalb der Anlage
+
+    a)  sichergestellt ist, dass es für den jeweiligen Schadstoffparameter
+        nicht zu einer höheren Schadstoffbelastung des aufnehmenden
+        Gewässers kommt als bei einer Einhaltung der entsprechenden
+        Emissionsbandbreiten für eine Direkteinleitung nach den einschlägigen
+        BVT-Schlussfolgerungen und
+
+    b)  ein gleichwertiges Schutzniveau für die Umwelt insgesamt gewährleistet
+        ist,
+
+2.  die eingeleiteten Schadstoffe nicht den Betrieb der
+    Abwasserbehandlungsanlage oder die Fähigkeit, Ressourcen aus dem
+    Abwasser wiederzugewinnen, beeinträchtigen,
+
+3.  die eingeleiteten Schadstoffe nicht der Gesundheit des in den
+    Abwasseranlagen arbeitenden Personals schaden und
+
+4.  die Abwasserbehandlungsanlage für die Beseitigung der eingeleiteten
+    Schadstoffe konzipiert und ausgestattet ist.
+
+Trifft die zuständige Behörde Festlegungen nach § 61g Absatz 2 Satz 1
+oder nach § 61g Absatz 5 Satz 2, kann hierbei von Emissionsbandbreiten
+für Indirekteinleitungen nach der jeweiligen BVT-Schlussfolgerung
+abgewichen werden, wenn diese Emissionsbandbreiten den dort geregelten
+Emissionsbandbreiten für die Direkteinleitung entsprechen und die
+Voraussetzungen nach Satz 2 Nummer 1 bis 4 erfüllt sind. § 3 Absatz 3
+bis 6 der Abwasserverordnung bleibt unberührt. Der Indirekteinleiter
+hat der zuständigen Behörde, auch bei vertraglichen Regelungen
+nach § 59 Absatz 2 Satz 1, in Abstimmung mit dem Betreiber der
+Abwasserbehandlungsanlage eine Bewertung vorzulegen, aus der sich
+ergibt, dass die Anforderungen nach Satz 2 eingehalten werden;
+dies gilt auch im Falle von beantragten Änderungen der Genehmigung
+oder von nachträglichen Änderungen der vertraglichen Regelungen
+nach § 59 Absatz 2, die sich jeweils auf die Einhaltung der
+Anforderungen nach Satz 2 auswirken können. In der Genehmigung oder im
+Freistellungsbescheid nach § 59 Absatz 2 Satz 1 oder Satz 2 sind die
+Gründe für die Anwendung des Satzes 2, einschließlich der Ergebnisse
+der Bewertung nach Satz 5, darzulegen.
+
+
+##### § 61i Zusätzliche Bestimmungen für Abwasserbehandlungsanlagen; Untersagung des Betriebs; Stilllegung; Verordnungsermächtigung
+
+(1) Für Abwasserbehandlungsanlagen, die die Voraussetzungen nach
+§ 60 Absatz 3 Satz 1 Nummer 2 oder Nummer 3 erfüllen, gelten
+die Anforderungen nach § 5 Absatz 1, 3, 4 und 5 des Bundes-
+Immissionsschutzgesetzes entsprechend.
+
+(2) Wird eine Genehmigung nach § 60 Absatz 3 Satz 1 nicht beantragt,
+hat der Betreiber die Änderung der Lage, der Beschaffenheit oder des
+Betriebs einer Abwasserbehandlungsanlage nach Absatz 1 der zuständigen
+Behörde mindestens einen Monat, bevor mit der Änderung begonnen werden
+soll, schriftlich oder elektronisch anzuzeigen, wenn die Änderung
+Auswirkungen auf die Umwelt haben kann. Der Anzeige sind die zur
+Beurteilung der Auswirkungen notwendigen Unterlagen nach § 3 Absatz 1
+und 2 der Industriekläranlagen-Zulassungs- und Überwachungsverordnung
+beizufügen, soweit diese für die Prüfung, ob das Vorhaben
+genehmigungsbedürftig ist, erforderlich sein können. Die zuständige
+Behörde hat dem Betreiber unverzüglich mitzuteilen, ob ihr die für die
+Prüfung nach Satz 2 erforderlichen Unterlagen vorliegen. Der Betreiber
+der Anlage darf die Änderung vornehmen, sobald die zuständige Behörde
+ihm mitgeteilt hat, dass die Änderung keiner Genehmigung bedarf,
+oder wenn die zuständige Behörde sich innerhalb eines Monats nach
+Zugang der Mitteilung nach Satz 3, dass die erforderlichen Unterlagen
+vorliegen, nicht geäußert hat.
+
+(3) Wird eine Abwasserbehandlungsanlage nach Absatz 1 ohne die
+erforderliche Genehmigung betrieben oder wesentlich geändert, so
+ordnet die zuständige Behörde die Stilllegung der Anlage an.
+
+(4) Der Betreiber einer Abwasserbehandlungsanlage nach Absatz 1 hat
+sicherzustellen, dass ein Umweltmanagementsystem nach Maßgabe der
+Rechtsverordnung nach Satz 2 eingerichtet und dauerhaft umgesetzt
+wird. Durch Rechtsverordnung nach § 23 Absatz 1 Nummer 5 können nähere
+Regelungen erlassen werden über
+
+1.  Anforderungen, die das Umweltmanagementsystem nach Satz 1 zu erfüllen
+    hat; dies schließt Regelungen ein, wonach
+
+    a)  das Umweltmanagementsystem Ziele und Maßnahmen zur Ausweitung der
+        Nutzung und Erzeugung erneuerbarer Energien, soweit technisch möglich
+        und wirtschaftlich zumutbar, beinhalten muss,
+
+    b)  Orientierungswerte für die Umweltleistung bei der Festlegung von
+        Zielen und Leistungsindikatoren für wesentliche Umweltaspekte im
+        Rahmen des Umweltmanagementsystems berücksichtigt werden müssen,
+
+2.  Veröffentlichungspflichten, Berichts- und Vorlagepflichten,
+    Datenerhebungs- und Messverpflichtungen, Pflichten zur Erstellung
+    von Transformationsplänen sowie Konformitätsbewertungs- und
+    Nachweispflichten des Betreibers im Zusammenhang mit dem
+    Umweltmanagementsystem.
 
 
 ### Abschnitt 3 - Umgang mit wassergefährdenden Stoffen
@@ -4591,7 +5111,7 @@ Soweit Duldungs- oder Gestattungsverpflichtungen nach den §§ 92 bis
 leisten.
 
 
-## Kapitel 4 - Entschädigung, Ausgleich, Vorkaufsrecht
+## Kapitel 4 - Entschädigung, Ausgleich, Vorkaufsrecht, Schadensersatz
 
 
 ### § 96 Art und Umfang von Entschädigungspflichten
@@ -4704,6 +5224,25 @@ Körperschaften und Stiftungen des öffentlichen Rechts ausüben.
 (6) Abweichende Rechtsvorschriften der Länder bleiben unberührt.
 
 
+### § 99b Schadensersatz
+
+(1) Verstößt der Betreiber einer Abwasserbehandlungsanlage, die die
+Voraussetzungen nach § 60 Absatz 3 Satz 1 Nummer 2 oder Nummer 3
+erfüllt, gegen § 61i Absatz 1 in Verbindung mit § 5 Absatz 1 Nummer
+1 oder Nummer 2, Absatz 3, Absatz 4 oder Absatz 5 Satz 1 des Bundes-
+Immissionsschutzgesetzes und wird dadurch die Gesundheit eines anderen
+verletzt, so ist der Betreiber verpflichtet, dem Verletzten den daraus
+entstehenden Schaden zu ersetzen. Verstößt ein Indirekteinleiter gegen
+§ 61h Satz 2 Nummer 3 und wird dadurch die Gesundheit einer in einer
+Abwasseranlage arbeitenden Person verletzt, ist der Indirekteinleiter
+verpflichtet, dem Verletzten den daraus entstehenden Schaden zu
+ersetzen.
+
+(2) Für die Verjährung von Schadensersatzansprüchen nach Absatz 1
+ist § 65 Absatz 3 des Bundes-Immissionsschutzgesetzes entsprechend
+anzuwenden.
+
+
 ## Kapitel 5 - Gewässeraufsicht
 
 
@@ -4794,6 +5333,11 @@ Verteidigung gehörenden Stellen übertragen wird.
 1.  ohne Erlaubnis und ohne Bewilligung nach § 8 Absatz 1 ein Gewässer
     benutzt,
 
+1a. ohne Erlaubnis nach § 8 Absatz 1 Abwasser nach § 61a Satz 1 in ein
+    Gewässer einleitet oder einer mit einer solchen Erlaubnis verbundenen
+    vollziehbaren Auflage zuwiderhandelt und durch eine solche Handlung
+    ein Gewässer gefährdet,
+
 2.  einer vollziehbaren Auflage nach § 13 Absatz 1, auch in Verbindung mit
 
     a)  § 58 Absatz 4 Satz 1, auch in Verbindung mit § 59 Absatz 1, oder
@@ -4804,9 +5348,12 @@ Verteidigung gehörenden Stellen übertragen wird.
 
 3.  einer Rechtsverordnung nach
 
-    a)  § 23 Absatz 1 Nummer 1, 3 bis 8 oder Nummer 9 oder
+    a)  § 23 Absatz 1 Nummer 1, 3 bis 8 oder Nummer 9,
 
-    b)  § 23 Absatz 1 Nummer 10 oder Nummer 11 oder § 50 Absatz 4a Satz 1
+    b)  § 23 Absatz 1 Nummer 5 in Verbindung mit § 61i Absatz 4 Satz 2 Nummer
+        2 oder
+
+    c)  § 23 Absatz 1 Nummer 10 oder Nummer 11 oder § 50 Absatz 4a Satz 1
         Nummer 3
 
     oder einer vollziehbaren Anordnung auf Grund einer solchen
@@ -4861,6 +5408,12 @@ Verteidigung gehörenden Stellen übertragen wird.
 9.  ohne Genehmigung nach § 58 Absatz 1 Satz 1, auch in Verbindung mit §
     59 Absatz 1, Abwasser in eine Abwasseranlage einleitet,
 
+9a. ohne Genehmigung nach § 58 Absatz 1 Satz 1, auch in Verbindung mit
+    § 59 Absatz 1, Abwasser nach § 61a Satz 1 in eine Abwasseranlage
+    einleitet oder einer mit einer solchen Genehmigung verbundenen
+    vollziehbaren Auflage zuwiderhandelt und durch eine solche Handlung
+    ein Gewässer gefährdet,
+
 10. ohne Genehmigung nach § 60 Absatz 3 Satz 1 eine
     Abwasserbehandlungsanlage errichtet, betreibt oder wesentlich ändert,
 
@@ -4868,6 +5421,11 @@ Verteidigung gehörenden Stellen übertragen wird.
     nach Absatz 3 eine Aufzeichnung nicht, nicht richtig oder nicht
     vollständig anfertigt, nicht oder nicht mindestens fünf Jahre
     aufbewahrt oder nicht oder nicht rechtzeitig vorlegt,
+
+11a. entgegen § 61i Absatz 4 Satz 1 in Verbindung mit einer
+     Rechtsverordnung nach § 61i Absatz 4 Satz 2 Nummer 1 nicht
+     sicherstellt, dass ein Umweltmanagementsystem eingerichtet und
+     umgesetzt wird,
 
 12. entgegen § 63 Absatz 1 Satz 1 eine dort genannte Anlage errichtet,
     betreibt oder wesentlich ändert,
@@ -4906,9 +5464,20 @@ Verteidigung gehörenden Stellen übertragen wird.
 
 (2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 1
 bis 3 Buchstabe a, Nummer 4 bis 7, 7a Buchstabe a, Nummer 8 Buchstabe
-a, Nummer 8a Buchstabe a, Nummer 9, 10 und 12 bis 19 mit einer
+a, Nummer 8a Buchstabe a, Nummer 9, 9a, 10 und 12 bis 19 mit einer
 Geldbuße bis zu fünfzigtausend Euro und in den übrigen Fällen mit
 einer Geldbuße bis zu zehntausend Euro geahndet werden.
+
+(3) Gegenüber einer juristischen Person oder Personenvereinigung mit
+einem Jahresumsatz von mehr als 1,67 Millionen Euro kann abweichend
+von Absatz 2 in Verbindung mit § 30 Absatz 2 Satz 2 des Gesetzes über
+Ordnungswidrigkeiten eine vorsätzlich begangene Ordnungswidrigkeit
+nach Absatz 1 Nummer 1a oder 9a mit einer Geldbuße bis zu 3 Prozent
+des Jahresumsatzes geahndet werden. Jahresumsatz nach Satz 1
+ist die Summe der Umsatzerlöse, die die juristische Person oder
+Personenvereinigung in dem der Behördenentscheidung vorausgegangenen
+Geschäftsjahr in der Europäischen Union erzielt hat. Der Jahresumsatz
+kann geschätzt werden.
 
 
 ### § 104 Überleitung bestehender Erlaubnisse und Bewilligungen
@@ -5027,18 +5596,14 @@ Absatz 2 oder Absatz 3.
 ### § 107 Übergangsbestimmung für industrielle Abwasserbehandlungsanlagen und Abwassereinleitungen aus Industrieanlagen
 
 (1) Eine Zulassung, die vor dem 2. Mai 2013 nach landesrechtlichen
-Vorschriften für Abwasserbehandlungsanlagen im Sinne des § 60
-Absatz 3 Satz 1 Nummer 2 erteilt worden ist, gilt als Genehmigung
-nach § 60 Absatz 3 Satz 1 fort. Bis zum 7. Juli 2015 müssen alle in
-Satz 1 genannten Anlagen den Anforderungen nach § 60 Absatz 1 bis
-3 entsprechen.
+Vorschriften für Abwasserbehandlungsanlagen im Sinne des § 60 Absatz
+3 Satz 1 Nummer 2 erteilt worden ist, gilt als Genehmigung nach § 60
+Absatz 3 Satz 1 fort.
 
 (1a) Ist eine Anlage im Sinne von § 60 Absatz 3 Satz 1 Nummer 3 vor
 dem 28. Januar 2018 nach landesrechtlichen Vorschriften nicht im
 Rahmen einer Deponiezulassung, sondern anderweitig zugelassen worden,
 gilt diese Zulassung als Genehmigung nach § 60 Absatz 3 Satz 1 fort.
-Bis zum 28. Januar 2020 müssen alle in Satz 1 genannten Anlagen den
-Anforderungen nach § 60 Absatz 1 bis 3 entsprechen.
 
 (2) Soweit durch Artikel 2 des Gesetzes zur Umsetzung der
 Richtlinie über Industrieemissionen vom 8. April 2013 (BGBl. I
@@ -5061,6 +5626,29 @@ der Umweltverschmutzung (ABl. L 24 vom 29.1.2008, S. 8), die durch
 die Richtlinie 2009/31/EG (ABl. L 140 vom 5.6.2009, S. 114) geändert
 worden ist, erfasst wurden, haben abweichend von Satz 1 die dort
 genannten Anforderungen ab dem 7. Juli 2015 zu erfüllen.
+
+(3) Für BVT-Schlussfolgerungen, die bis zum Ablauf des 1. Juli 2026 im
+Amtsblatt der Europäischen Union veröffentlicht wurden, ist abweichend
+von § 61c Absatz 1 § 57 Absatz 3 Satz 1 dieses Gesetzes in der am 20.
+Oktober 2026 geltenden Fassung anzuwenden. Für BVT-Schlussfolgerungen
+nach Satz 1 findet § 61g Absatz 1 keine Anwendung.
+
+(4) Für Indirekteinleitungen von Abwasser nach § 61a Satz 1, die
+bereits vor dem 1. Juli 2026 vorhanden waren, ist zu folgenden
+Zeitpunkten sicherzustellen, dass die Anforderungen nach § 61g Absatz
+9 und § 61h Satz 2 bis 6 eingehalten werden:
+
+1.  nach Ablauf von vier Jahren ab der Veröffentlichung von BVT-
+    Schlussfolgerungen nach dem 1. Juli 2026 im Amtsblatt der Europäischen
+    Union oder
+
+2.  im Übrigen spätestens bis zum Ablauf des 1. September 2036.
+
+Soweit erforderlich, sind zur Einhaltung der in Satz 1 genannten
+Anforderungen die Genehmigung für die Indirekteinleitung oder die
+vertraglichen Regelungen nach § 59 Absatz 2 entsprechend zu ändern.
+Im Falle von nachträglichen Änderungen der vertraglichen Regelungen
+bedarf es einer erneuten Freistellung nach § 59 Absatz 2 Satz 1.
 
 
 ### § 108 Übergangsbestimmung für Verfahren zur Zulassung von Vorhaben zur Erzeugung von Energie aus erneuerbaren Quellen
@@ -5087,7 +5675,8 @@ folgende Kriterien zu berücksichtigen:
 
 1.  Einsatz abfallarmer Technologie,
 
-2.  Einsatz weniger gefährlicher Stoffe,
+2.  Einsatz weniger gefährlicher Stoffe, einschließlich des geringeren
+    Einsatzes besonders besorgniserregender Stoffe,
 
 3.  Förderung der Rückgewinnung und Wiederverwertung der bei den einzelnen
     Verfahren erzeugten und verwendeten Stoffe und gegebenenfalls der
@@ -5096,8 +5685,8 @@ folgende Kriterien zu berücksichtigen:
 4.  vergleichbare Verfahren, Vorrichtungen und Betriebsmethoden, die mit
     Erfolg im Betrieb erprobt wurden,
 
-5.  Fortschritte in der Technologie und in den wissenschaftlichen
-    Erkenntnissen,
+5.  Fortschritte in der Technologie, einschließlich digitaler Instrumente,
+    und in den wissenschaftlichen Erkenntnissen,
 
 6.  Art, Auswirkungen und Menge der jeweiligen Emissionen,
 
@@ -5106,12 +5695,13 @@ folgende Kriterien zu berücksichtigen:
 8.  die für die Einführung einer besseren verfügbaren Technik
     erforderliche Zeit,
 
-9.  Verbrauch an Rohstoffen und Art der bei den einzelnen Verfahren
-    verwendeten Rohstoffe (einschließlich Wasser) sowie Energieeffizienz,
+9.  Verbrauch und Art der beim Verfahren verwendeten Rohstoffe,
+    einschließlich Wasser, sowie Ressourceneffizienz, Wiederverwendung
+    und Dekarbonisierung,
 
 10. Notwendigkeit, die Gesamtwirkung der Emissionen und die Gefahren für
-    den Menschen und die Umwelt so weit wie möglich zu vermeiden oder
-    zu verringern,
+    den Menschen und die Umwelt, einschließlich der biologischen Vielfalt,
+    so weit wie möglich zu vermeiden oder zu verringern,
 
 11. Notwendigkeit, Unfällen vorzubeugen und deren Folgen für den Menschen
     und die Umwelt zu verringern,

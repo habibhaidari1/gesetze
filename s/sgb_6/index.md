@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 19.2.2002 I 754, 1404, 3384;
 
 Zuletzt geändert durch
-:   Art. 2a G v. 24.7.2026 I Nr. 228
+:   Art. 3 G v. 15.10.2026 I Nr. 307
 
 Stand
 :   Ergänzung aufgrund der Sozialversicherungsrechengrößen-Verordnung 2026 v. 24.11.2025 I Nr. 278 ist berücksichtigt

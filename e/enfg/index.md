@@ -432,7 +432,7 @@ als eigenständige Umlagen auf die Netzentnahme erheben. Die
 Übertragungsnetzbetreiber sind ferner zur Erhebung der Umlagen als
 eigenständige Umlagen auf die Netzentnahme berechtigt
 
-1.  für die Strommengen, die von einer den §§ 30 bis 36 begrenzten
+1.  für die Strommengen, die von einer nach den §§ 30 bis 36 begrenzten
     Abnahmestelle an eine nicht nach den §§ 30 bis 36 begrenzte
     Abnahmestelle weitergeleitet werden, oder
 

@@ -83,15 +83,8 @@ innerstaatlichem Recht als Umweltgutachterorganisationen zugelassen
 sind.
 
 (4) Zulassungsbereiche im Sinne dieses Gesetzes sind die Ebenen und
-Zwischenstufen der Klassifizierung gemäß Anhang I der Verordnung
-(EG) Nr. 1893/2006 des Europäischen Parlaments und des Rates vom
-20\. Dezember 2006 zur Aufstellung der statistischen Systematik der
-Wirtschaftszweige NACE Revision 2 und zur Änderung der Verordnung
-(EWG) Nr. 3037/90 des Rates sowie einiger Verordnungen der EG
-über bestimmte Bereiche der Statistik (ABl. EU Nr. L 393 S. 1)
-in der jeweils geltenden Fassung in Verbindung mit der deutschen
-Klassifikation der Wirtschaftszweige des Statistischen Bundesamtes,
-Ausgabe 2008 (WZ 2008).
+Zwischenstufen der Klassifizierung gemäß Anhang I der Verordnung (EG)
+Nr. 1893/2006.
 
 
 ### § 3
@@ -210,11 +203,12 @@ keine Gewähr, der
         2 in der jeweils geltenden Fassung ist, auf die sich seine Tätigkeit
         als Umweltgutachter bezieht,
 
-    c)  eine Tätigkeit auf Grund eines Beamtenverhältnisses,
-        Soldatenverhältnisses oder eines Anstellungsvertrages mit einer
-        juristischen Person des öffentlichen Rechts, mit Ausnahme der in
-        Absatz 3 genannten Fälle, ausübt, soweit nicht § 17 Absatz 2 Satz 3
-        Anwendung findet,
+    c)  als Beamter oder Angestellter einer juristischen Person des
+        öffentlichen Rechts umwelt‑, arbeits- oder gewerberechtliche
+        Vollzugsaufgaben gegenüber Organisationen wahrnimmt oder für
+        Registrierungsaufgaben im Sinne des Artikels 12 Absatz 2 und 3 der
+        Verordnung (EG) Nr. 1221/2009 zuständig ist, soweit nicht § 17 Absatz
+        2 Satz 5 Anwendung findet,
 
     d)  eine Tätigkeit auf Grund eines Richterverhältnisses, öffentlich-
         rechtlichen Dienstverhältnisses als Wahlbeamter auf Zeit oder eines
@@ -224,6 +218,7 @@ keine Gewähr, der
 2.  Weisungen auf Grund vertraglicher oder sonstiger Beziehungen bei der
     Tätigkeit als Umweltgutachter auch dann zu befolgen hat, wenn sie ihn
     zu gutachterlichen Handlungen gegen seine Überzeugung verpflichten,
+    oder
 
 3.  organisatorisch, wirtschaftlich, kapital- oder personalmäßig mit
     Dritten verflochten ist, ohne dass deren Einflussnahme auf die
@@ -236,15 +231,7 @@ Begutachtung des Umweltmanagementsystems eines Umweltgutachters,
 einer Umweltgutachterorganisation oder eines Inhabers einer
 Fachkenntnisbescheinigung.
 
-(3) Vereinbar mit dem Beruf des Umweltgutachters ist eine
-Beratungstätigkeit als Bediensteter einer Industrie- und
-Handelskammer, Handwerkskammer, Berufskammer oder sonstigen
-Körperschaft des öffentlichen Rechts, die eine Selbsthilfeeinrichtung
-für Unternehmen ist, die sich an dem Gemeinschaftssystem beteiligen
-können; dies gilt nicht, wenn der Bedienstete im Hinblick auf seine
-Tätigkeit als Umweltgutachter für Registrierungsaufgaben im Sinne des
-Artikels 12 Absatz 2 und 3 der Verordnung (EG) Nr. 1221/2009 zuständig
-ist oder Weisungen im Sinne des Absatzes 2 Nr. 2 unterliegt.
+(3) (weggefallen)
 
 
 #### § 7 Fachkunde
@@ -256,13 +243,18 @@ geeignet ist.
 
 (2) Die Fachkunde erfordert
 
-1.  den Abschluss eines einschlägigen Studiums, insbesondere auf
-    den Gebieten der Wirtschafts- oder Verwaltungswissenschaften,
-    der Naturwissenschaften oder Technik, der Biowissenschaften,
-    Agrarwissenschaften, Forstwissenschaften, Geowissenschaften, der
-    Medizin oder des Rechts, an einer Hochschule im Sinne des § 1 des
-    Hochschulrahmengesetzes, soweit nicht die Voraussetzungen des Absatzes
-    3 gegeben sind,
+1.  bezüglich der Ausbildung und praktischen Erfahrung entweder
+
+    a)  ein mit einem Master abgeschlossenes Hochschulstudium oder
+        einen gleichwertigen Abschluss und eine mindestens dreijährige
+        eigenverantwortliche hauptberufliche Tätigkeit, bei der praktische
+        Kenntnisse über den betrieblichen Umweltschutz erworben wurden, oder
+
+    b)  ein mit einem Bachelor abgeschlossenes Hochschulstudium, einen
+        Fortbildungsabschluss als Meister oder einen gleichwertigen Abschluss
+        und eine mindestens fünfjährige eigenverantwortliche hauptberufliche
+        Tätigkeit, bei der praktische Kenntnisse über den betrieblichen
+        Umweltschutz erworben wurden, sowie
 
 2.  ausreichende Fachkenntnisse gemäß Artikel 20 Absatz 2 Buchstabe a
     bis j der Verordnung (EG) Nr. 1221/2009, die in den nachfolgenden
@@ -281,23 +273,13 @@ geeignet ist.
     d)  Allgemeines Umweltrecht, nach Artikel 30 Absatz 3 und 6 in
         Verbindung mit Artikel 49 Absatz 3 der Verordnung (EG) Nr. 1221/2009
         erstellte Leitlinien der Kommission und einschlägige Normen zum
-        Umweltmanagement,
+        Umweltmanagement.
 
-3.  eine mindestens dreijährige eigenverantwortliche hauptberufliche
-    Tätigkeit, bei der praktische Kenntnisse über den betrieblichen
-    Umweltschutz erworben wurden.
-
-(3) Von der Anforderung eines Hochschulstudiums nach Absatz 2 Nr. 1
-können Ausnahmen erteilt werden, wenn in den Zulassungsbereichen, für
-die die Zulassung beantragt ist,
-
-1.  eine Fachschulausbildung, die Qualifikation als Meister oder eine
-    gleichwertige Zulassung oder Anerkennung durch eine oberste Bundes-
-    oder Landesbehörde oder eine Körperschaft des öffentlichen Rechts
-    vorliegt und
-
-2.  Aufgaben in leitender Stellung oder als Selbständiger mindestens fünf
-    Jahre hauptberuflich wahrgenommen wurden.
+(3) Von der Anforderung bezüglich der Ausbildung und praktischen
+Erfahrung nach Absatz 2 Nummer 1 kann eine Ausnahme erteilt
+werden, wenn eine mindestens zehnjährige Tätigkeit als Auditor für
+Umweltmanagement bei einer akkreditierten Zertifizierungsstelle
+nachgewiesen ist.
 
 (4) Soweit die Ausnahme des Artikels 22 Absatz 3 der Verordnung
 (EG) Nr. 1221/2009 nicht vorliegt, wird ein Umweltgutachter für eine
@@ -320,7 +302,7 @@ für einen Umweltgutachter oder eine Umweltgutachterorganisation im
 Rahmen eines Angestelltenverhältnisses gutachterliche Tätigkeiten auf
 Grund der Verordnung (EG) Nr. 1221/2009 wahrnehmen, wenn sie
 
-1.  die Fachkundeanforderungen nach § 7 Absatz 2 Nummer 1 und 3 erfüllt,
+1.  die Fachkundeanforderungen nach § 7 Absatz 2 Nummer 1 erfüllt,
 
 2.  auf mindestens einem der in § 7 Absatz 2 Nummer 2 genannten
     Fachgebiete diejenigen Fachkenntnisse besitzt, die für die Wahrnehmung
@@ -428,13 +410,29 @@ der Verordnung (EG) Nr. 761/2001 oder Artikel 4 Absatz 3 und Artikel
 45 der Verordnung (EG) Nr. 1221/2009 Zertifizierungsbescheinigungen
 nach den von der Europäischen Kommission anerkannten
 Zertifizierungsverfahren zu erteilen. Sie umfasst ferner die Befugnis,
-Zertifizierungsbescheinigungen nach DIN EN ISO 14001:2004+AC:2009
-(Ausgabe 11/2009), DIN EN ISO 14001:2015 (Ausgabe 11/2015), DIN EN
-16001:2009 (Ausgabe 8/2009), DIN EN ISO 50001:2011 (Ausgabe 12/2011)
-und DIN EN ISO 50001:2018 (Ausgabe 12/2018) zu erteilen. Die genannten
-DIN-Normen sind bei der Beuth Verlag GmbH, 10772 Berlin, zu beziehen
-und bei der Deutschen Nationalbibliothek in Leipzig archivmäßig
-gesichert niedergelegt.
+Zertifizierungsbescheinigungen nach DIN EN ISO 14001:2015, Ausgabe
+11/2015, auch in Verbindung mit DIN EN ISO 14001/A1:2024-11, DIN
+EN ISO 14001:2026, Ausgabe 06/2026, DIN EN ISO 50001:2011, Ausgabe
+12/2011, und DIN EN ISO 50001:2018, Ausgabe 12/2018, zu erteilen.
+Die genannten DIN-Normen sind bei der DIN Media GmbH, 10772 Berlin,
+zu beziehen und bei der Deutschen Nationalbibliothek in Leipzig
+archivmäßig gesichert niedergelegt.
+
+(5) Die Zulassung umfasst die Befugnis, freiwillige
+Nachhaltigkeitsberichte zu überprüfen, die nach der Empfehlung (EU)
+2025/1710 der Kommission für einen Standard für die freiwillige
+Nachhaltigkeitsberichterstattung kleiner und mittlerer Unternehmen
+erstellt wurden. Artikel 25 Absatz 1, 2, 4, 6 Buchstabe a und b
+und Absatz 7 der Verordnung (EG) Nr. 1221/2009 ist mit der Maßgabe
+entsprechend anzuwenden, dass an die Stelle der Umwelterklärung
+der Nachhaltigkeitsbericht und an die Stelle der Verordnung (EG)
+Nr. 1221/2009 die Empfehlung (EU) 2025/1710 tritt sowie sich die
+Begutachtung auf die Prüfung der Zuverlässigkeit, Glaubwürdigkeit und
+Richtigkeit der Daten und Informationen des Nachhaltigkeitsberichts
+bezieht. Nach der Validierung stellt der Umweltgutachter eine
+unterzeichnete Erklärung aus, mit der er bestätigt, dass der
+Nachhaltigkeitsbericht dem Standard der Empfehlung (EU) 2025/1710
+entspricht und welche Module des Standards angewandt wurden.
 
 
 #### § 10 Zulassung als Umweltgutachterorganisation
@@ -567,12 +565,12 @@ abzuschließen, es sei denn, der Antragsteller beantragt einen späteren
 Prüfungszeitpunkt.
 
 
-#### § 11 Bescheinigungs- und Zulassungsverfahren
+#### § 11 Bescheinigungs- und Zulassungsverfahren; Verordnungsermächtigung
 
 (1) Das Verfahren für die Erteilung einer Fachkenntnisbescheinigung
 nach § 8 und für die Zulassung nach den §§ 9 und 10 setzt einen
-schriftlichen Antrag voraus. Dem Antrag sind die zur Prüfung
-erforderlichen Unterlagen beizufügen.
+schriftlichen oder elektronischen Antrag voraus. Dem Antrag sind die
+zur Prüfung erforderlichen Unterlagen beizufügen.
 
 (2) Die Fachkenntnisse des Umweltgutachters werden in einer mündlichen
 Prüfung von einem Prüfungsausschuss der Zulassungsstelle festgestellt.
@@ -588,6 +586,14 @@ Fachkenntnisbescheinigungen vorgelegt hat oder der Antragsteller
 in vorherigen Prüfungen zur Zulassung als Umweltgutachter einzelne
 Fachgebiete bereits bestanden hat.
 
+(3a) Von dem Erfordernis einer mündlichen Prüfung zur Erweiterung
+der Zulassung kann abgesehen werden, sofern der Umweltgutachter den
+Nachweis erbracht hat, dass er in einem Umfang von mindestens 15 Tagen
+innerhalb der letzten drei Jahre vor der Stellung des Antrags auf
+Erweiterung der Zulassung in dem jeweils beantragten Zulassungsbereich
+in einer der Tätigkeit des Umweltgutachters vergleichbaren Art und
+Weise praktisch tätig war.
+
 (4) Die nach § 7 Absatz 4 Satz 1 erforderlichen Rechts- und
 Sprachkenntnisse werden in einem Fachgespräch bei der Zulassungsstelle
 festgestellt. § 12 Absatz 1 Satz 1 gilt entsprechend.
@@ -595,12 +601,12 @@ festgestellt. § 12 Absatz 1 Satz 1 gilt entsprechend.
 (5) Für die Erteilung einer Fachkenntnisbescheinigung nach § 8 gelten
 die Absätze 2 und 3 entsprechend.
 
-(6) Die Bundesregierung kann nach Anhörung des
+(6) Die Bundesregierung wird ermächtigt, nach Anhörung des
 Umweltgutachterausschusses durch Rechtsverordnung, die nicht der
-Zustimmung des Bundesrates bedarf,
+Zustimmung des Bundesrates bedarf, nähere Bestimmungen zu treffen über
 
-1.  Verfahren nach den Absätzen 1 und 4, einschließlich
-    Wiederholungsprüfungen,
+1.  Verfahren, Anforderungen und Nachweise nach den Absätzen 1 bis 4,
+    einschließlich Wiederholungsprüfungen,
 
 2.  Anforderungen an die Qualifikation der Mitglieder der
     Prüfungsausschüsse und die Durchführung der mündlichen Prüfung nach §
@@ -608,9 +614,8 @@ Zustimmung des Bundesrates bedarf,
 
 3.  schriftliche Prüfungen allgemein oder für bestimmte Fachgebiete
     oder für bestimmte Zulassungsbereiche als unselbständigen Teil der
-    Zulassungs- und Bescheinigungsverfahren vorschreiben und nähere
-    Bestimmungen zu Gegenstand und Durchführung der schriftlichen
-    Prüfungen treffen.
+    Zulassungs- und Bescheinigungsverfahren und nähere Bestimmungen zu
+    Gegenstand und Durchführung der schriftlichen Prüfungen.
 
 
 #### § 12 Mündliche Prüfung
@@ -742,7 +747,8 @@ Fachkenntnisbescheinigungen sind verpflichtet,
 
     im Sinne der Artikel 19 Absatz 1 und 25 Absatz 1 und 5 bis 9
     der Verordnung (EG) Nr. 1221/2009 bis zur Überprüfung durch die
-    Zulassungsstelle, jedoch nicht länger als fünf Jahre, aufzubewahren,
+    Zulassungsstelle, jedoch nicht länger als fünf Jahre, schriftlich oder
+    elektronisch aufzubewahren,
 
 2.  die Zulassungsstelle unverzüglich über alle Veränderungen zu
     unterrichten, die auf die Zulassung oder die Fachkenntnisbescheinigung
@@ -782,6 +788,9 @@ auszuüben. Dieser Paragraf gilt bei der Ausübung von Tätigkeiten durch
 Umweltgutachter oder Umweltgutachterorganisationen auf Grund anderer
 rechtlicher Regelungen entsprechend.
 
+(10) Die Zulassungsstelle kann die Verwendung bestimmter
+elektronischer Formulare und Eingabemasken vorschreiben.
+
 
 #### § 16 Anordnung, Untersagung
 
@@ -810,10 +819,12 @@ Fachkenntnisbescheinigungen
 
 3.  eine vollziehbare Anordnung der Zulassungsstelle nicht befolgt haben.
 
-Die Untersagung hat zu unterbleiben oder ist wieder aufzuheben,
-sobald die Pflichten und Anordnungen nach Satz 1 erfüllt sind oder
-bei nachträglicher Unmöglichkeit keine Wiederholungsgefahr eines
-Rechtsverstoßes besteht.
+Die Untersagung der Fortführung gutachterlicher Tätigkeiten kann mit
+einer Aussetzung des Eintrags in das Zulassungsregister nach § 14
+verbunden werden. Die Untersagung hat zu unterbleiben oder ist wieder
+aufzuheben, sobald die Pflichten und Anordnungen nach Satz 1 erfüllt
+sind oder bei nachträglicher Unmöglichkeit keine Wiederholungsgefahr
+eines Rechtsverstoßes besteht.
 
 
 #### § 17 Rücknahme und Widerruf von Zulassung und Fachkenntnisbescheinigung
@@ -843,24 +854,50 @@ Fachkenntnisbescheinigung hätte versagt werden müssen.
     Zulassungsstelle zu setzenden Frist einen gesetzmäßigen Zustand nicht
     herbeigeführt hat.
 
-Eine Zulassung oder Fachkenntnisbescheinigung wird abweichend von
-Satz 1 Nummer 1 Buchstabe a nicht widerrufen, wenn der Umweltgutachter
-oder Inhaber einer Fachkenntnisbescheinigung nur vorübergehend
-Angestellter einer juristischen Person des öffentlichen Rechts ist;
-der Umweltgutachter oder Inhaber einer Fachkenntnisbescheinigung darf
-jedoch keine gutachterlichen Tätigkeiten auf der Grundlage seiner
-Zulassung oder Fachkenntnisbescheinigung ausüben, es sei denn, die
-Zulassungsstelle gestattet es. Die Zulassungsstelle kann im Falle
-des Satzes 2 die Ausübung gutachterlicher Tätigkeiten auf Antrag
-des Umweltgutachters oder Inhabers einer Fachkenntnisbescheinigung
-gestatten, wenn sie sich davon überzeugt hat, dass der Umweltgutachter
-oder Inhaber der Fachkenntnisbescheinigung weiterhin die erforderliche
-Unabhängigkeit nach § 6 Absatz 1 besitzt. Die Zulassung ist teilweise
-zu widerrufen, soweit die Voraussetzungen des § 9 Abs. 1 Satz 2 und
-des § 10 Abs. 1 Satz 1 Nummer 2 weggefallen und innerhalb einer von
-der Zulassungsstelle zu setzenden Frist nicht wiederhergestellt sind.
+Eine Zulassung oder Fachkenntnisbescheinigung wird abweichend von Satz
+1 Nummer 1 Buchstabe a nicht widerrufen, wenn der Umweltgutachter oder
+Inhaber einer Fachkenntnisbescheinigung nur vorübergehend als Beamter
+oder Angestellter einer juristischen Person des öffentlichen Rechts
+umwelt-, arbeits- oder gewerberechtliche Vollzugsaufgaben gegenüber
+Organisationen wahrnimmt oder für Registrierungsaufgaben im Sinne des
+Artikels 12 Absatz 2 und 3 der Verordnung (EG) Nr. 1221/2009 zuständig
+ist. Der Umweltgutachter oder Inhaber einer Fachkenntnisbescheinigung
+darf jedoch keine gutachterlichen Tätigkeiten auf der Grundlage
+seiner Zulassung oder Fachkenntnisbescheinigung ausüben, es sei
+denn, die Zulassungsstelle gestattet es. Die erste Begutachtung
+nach Beendigung der vorübergehenden Tätigkeit gemäß Satz 2
+wird im Rahmen einer Überprüfung gemäß § 15 Absatz 2 begleitet.
+Die Zulassungsstelle kann im Fall des Satzes 2 die Ausübung
+gutachterlicher Tätigkeiten auf Antrag des Umweltgutachters oder
+Inhabers einer Fachkenntnisbescheinigung gestatten, wenn sie sich
+davon überzeugt hat, dass der Umweltgutachter oder Inhaber der
+Fachkenntnisbescheinigung weiterhin die erforderliche Unabhängigkeit
+nach § 6 Absatz 1 besitzt. Die Pflichten nach § 15 Absatz 6 und 7
+bestehen in diesem Fall fort. Die Zulassung ist zu widerrufen, soweit
+die Voraussetzungen des § 9 Absatz 1 Satz 2 und des § 10 Absatz 1 Satz
+1 Nummer 2 weggefallen und innerhalb einer von der Zulassungsstelle zu
+setzenden Frist nicht wiederhergestellt sind.
 
-(3) Die Drittlandszulassung ist zu widerrufen, soweit eine nach
+(3) Das Ruhen der Zulassung kann durch die Zulassungsstelle auf
+schriftlichen oder elektronischen Antrag genehmigt werden, wenn der
+Antragsteller die Tätigkeit als Umweltgutachter für einen befristeten
+Zeitraum, der fünf Jahre ab Genehmigung des Ruhens nicht übersteigt,
+vollständig aufgibt. Der Eintrag im Zulassungsregister nach § 14 wird
+ausgesetzt. Die Zulassung erlischt, wenn der Umweltgutachter nicht
+innerhalb von fünf Jahren nach Genehmigung des Ruhens der Zulassung
+die Beendigung des Ruhens bei der Zulassungsstelle schriftlich oder
+elektronisch beantragt. Zur Beendigung des Ruhens ist die Teilnahme an
+einer Fortbildungsmaßnahme über Neuerungen im Umweltrecht nachzuweisen
+und das Vorliegen der Anforderungen nach § 4 Absatz 1 Satz 2 und den
+§§ 5 und 6 zu überprüfen. Der Antrag ist abzulehnen und die Zulassung
+zu widerrufen, wenn die für die Wiederaufnahme der gutachterlichen
+Tätigkeiten beizubringenden Nachweise nicht innerhalb einer von
+der Zulassungsstelle zu setzenden Frist, die drei Monate nicht
+unterschreiten darf, vorgelegt werden. Die erste Begutachtung nach
+dem Ende des Ruhens der Zulassung gemäß Satz 1 wird im Rahmen einer
+Überprüfung gemäß § 15 Absatz 2 begleitet.
+
+(4) Die Drittlandszulassung ist zu widerrufen, soweit eine nach
 § 9 Absatz 1 Satz 1 und 2 einem Umweltgutachter oder eine nach
 § 10 Absatz 2 Satz 1 in Verbindung mit Absatz 1 Satz 1 einer
 Umweltgutachterorganisation erteilte Zulassung widerrufen wurde.
@@ -876,7 +913,7 @@ des Artikels 22 Absatz 3 der Verordnung (EG) Nr. 1221/2009 weggefallen
 und innerhalb einer von der Zulassungsstelle zu setzenden Frist nicht
 wiederhergestellt sind.
 
-(4) Zulassung und Fachkenntnisbescheinigung können, außer nach den
+(5) Zulassung und Fachkenntnisbescheinigung können, außer nach den
 Vorschriften des Verwaltungsverfahrensgesetzes, widerrufen werden,
 wenn
 
@@ -1017,21 +1054,24 @@ besonderen Fragen anfordern.
 
 (1) Mitglieder des Umweltgutachterausschusses sind
 
--   6 Vertreter der Unternehmen oder ihrer Organisationen,
+1.  sechs Vertreter der Unternehmen oder ihrer Organisationen und
+    zwei Vertreter der EMAS-registrierten, zivilgesellschaftlichen
+    Organisationen, öffentlichen Einrichtungen oder
+    Religionsgemeinschaften,
 
--   4 Vertreter der Umweltgutachter oder ihrer Organisationen,
+2.  vier Vertreter der Umweltgutachter oder ihrer Organisationen,
 
--   2 Vertreter der Umweltverwaltung des Bundes,
+3.  zwei Vertreter der Umweltverwaltung des Bundes,
 
--   1 Vertreter der Wirtschaftsverwaltung des Bundes,
+4.  ein Vertreter der Wirtschaftsverwaltung des Bundes,
 
--   4 Vertreter der Umweltverwaltung der Länder,
+5.  vier Vertreter der Umweltverwaltung der Länder,
 
--   2 Vertreter der Wirtschaftsverwaltung der Länder,
+6.  zwei Vertreter der Wirtschaftsverwaltung der Länder,
 
--   3 Vertreter der Gewerkschaften,
+7.  drei Vertreter der Gewerkschaften,
 
--   3 Vertreter der Umweltverbände.
+8.  drei Vertreter der Umweltverbände.
 
 Sie unterliegen keinen Weisungen und sind ehrenamtlich tätig. Die
 Vorschriften der §§ 83 und 84 des Verwaltungsverfahrensgesetzes sind
@@ -1039,17 +1079,16 @@ anzuwenden.
 
 (2) Die Mitglieder des Umweltgutachterausschusses müssen in
 Angelegenheiten des betrieblichen Umweltschutzes über gründliche
-Fachkenntnisse und mindestens dreijährige praktische Erfahrungen
-verfügen.
+Fachkenntnisse verfügen. Mitglieder der Gruppen der Unternehmen,
+Gewerkschaften und Umweltverbände haben zudem mindestens dreijährige
+praktische Erfahrungen im Umweltmanagement vorzuweisen.
 
-(3) Das Bundesministerium für Umwelt, Naturschutz und nukleare
-Sicherheit beruft die Mitglieder des Umweltgutachterausschusses und
-für jedes Mitglied einen Stellvertreter für die Dauer von drei Jahren
-auf Vorschlag der Bundesdachverbände der Wirtschaft, der freien
-Berufe im Einvernehmen mit den Organisationen der Umweltgutachter, der
-Gewerkschaften und der Umweltverbände sowie der zuständigen obersten
-Bundes- und Landesbehörden. Für die Stellvertreter gelten die Absätze
-1 und 2 entsprechend.
+(3) Das Bundesministerium für Umwelt, Klimaschutz,
+Naturschutz und nukleare Sicherheit beruft die Mitglieder des
+Umweltgutachterausschusses und für jedes Mitglied einen Stellvertreter
+für die Dauer von drei Jahren. Für die Stellvertreter gelten die
+Absätze 1 und 2 entsprechend. Die Stellvertreter einer Gruppe können
+jederzeit ein beliebiges Mitglied ihrer Gruppe vertreten.
 
 (4) Ein Mitglied wird höchstens zweimal in Folge für den
 Umweltgutachterausschuss berufen. Anschließend muss vor einer erneuten
@@ -1279,7 +1318,10 @@ erfüllt, ist insbesondere dann nicht gegeben, wenn
 2.  die Personen, die die Validierung der Umwelterklärung mitgezeichnet
     haben, nach dem Inhalt ihrer Zulassung oder Fachkenntnisbescheinigung
     insgesamt nicht über die Fachkunde verfügen, die zur Begutachtung der
-    geprüften Organisation erforderlich ist.
+    geprüften Organisation erforderlich ist, oder
+
+3.  die Umwelterklärung nicht frei zugänglich und einfach auffindbar in
+    gedruckter Form oder im Internet veröffentlicht wird.
 
 Zur Glaubhaftmachung im Sinne des Satzes 1 ist es nicht erforderlich,
 dass die Personen, die die Umwelterklärung validiert haben, bei
