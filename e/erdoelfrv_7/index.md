@@ -1,0 +1,41 @@
+---
+Title: Siebte Verordnung über die Freigabe von Vorräten des Erdölbevorratungsverbandes
+jurabk: ErdölFrV 7
+layout: default
+origslug: erd_lfrv_7
+slug: erdoelfrv_7
+
+---
+
+# Siebte Verordnung über die Freigabe von Vorräten des Erdölbevorratungsverbandes (ErdölFrV 7)
+
+Ausfertigungsdatum
+:   2026-10-16
+
+Fundstelle
+:   BGBl. I: 2026, Nr. 312
+
+
+## Eingangsformel
+
+Das Bundesministerium für Wirtschaft und Energie verordnet aufgrund
+des § 12 Absatz 1 Satz 1 Nummer 3 des Erdölbevorratungsgesetzes vom
+16\. Januar 2012 (BGBl. I S. 74), das zuletzt durch Artikel 1 des
+Gesetzes vom 9. Dezember 2019 (BGBl. I S. 2101) geändert worden ist:
+
+
+## § 1 Absenkung der Bevorratungspflicht des Erdölbevorratungsverbandes
+
+Der Erdölbevorratungsverband kann vorübergehend die Anzahl der
+Pflichtbevorratungstage von 90 Tage auf 82 Tage absenken.
+
+
+## § 2 Inkrafttreten
+
+Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
+
+
+## Schlussformel
+
+Der Bundesrat hat zugestimmt.
+

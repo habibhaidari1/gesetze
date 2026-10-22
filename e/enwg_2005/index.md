@@ -13824,7 +13824,8 @@ einen Planfeststellungsbeschluss oder eine Plangenehmigung nach §
 Vorhabenträgers nur innerhalb eines Monats nach der Zustellung und
 im Übrigen nur innerhalb eines Monats nach der Bekanntgabe nach §
 43b Absatz 1 Nummer 3 Satz 2 und 3 des Planfeststellungsbeschlusses
-oder der Plangenehmigung gestellt und begründet werden. § 58 der
+oder der Plangenehmigung gestellt und begründet werden.
+Darauf ist in der Rechtsbehelfsbelehrung hinzuweisen. § 58 der
 Verwaltungsgerichtsordnung gilt entsprechend.
 
 (2) Treten später Tatsachen ein, die die Anordnung der
