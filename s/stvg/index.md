@@ -772,10 +772,32 @@ festzulegenden Zeitpunkt bis zum Jahr 2030 erneut durchführen.
 (1) Wer auf öffentlichen Straßen ein Kraftfahrzeug führt,
 bedarf der Erlaubnis (Fahrerlaubnis) der zuständigen Behörde
 (Fahrerlaubnisbehörde). Die Fahrerlaubnis wird in bestimmten Klassen
-erteilt. Sie ist durch eine amtliche Bescheinigung (Führerschein)
-nachzuweisen. Nach näherer Bestimmung durch Rechtsverordnung auf Grund
-des § 6 Absatz 1 Satz 1 Nummer 1 Buchstabe a und Absatz 3 Nummer 2
-kann die Gültigkeitsdauer der Führerscheine festgelegt werden.
+erteilt. Sie ist vorbehaltlich des Absatzes 1a durch eine amtliche
+Bescheinigung (Führerschein) nachzuweisen. Nach näherer Bestimmung
+durch Rechtsverordnung auf Grund des § 6 Absatz 1 Satz 1 Nummer
+1 Buchstabe a und Absatz 3 Nummer 2 kann die Gültigkeitsdauer der
+Führerscheine festgelegt werden.
+
+(1a) Der Inhaber eines Führerscheins nach Absatz 1 Satz 3 kann diesen
+durch einen digitalen Führerschein nach § 2d nachweisen. Der digitale
+Führerschein berechtigt im Inland zum Nachweis des Führerscheins. Das
+Aushändigen eines Führerscheins wird beim digitalen Führerschein durch
+das Vorzeigen und Ermöglichen der Überprüfung der Daten ersetzt.
+
+(1b) Der Nachweis des Führerscheins durch einen digitalen Führerschein
+ist ausgeschlossen,
+
+1.  solange gegen den Inhaber des Führerscheins ein Fahrverbot wirksam
+    ist,
+
+2.  wenn die Fahrerlaubnis des Inhabers des Führerscheins erloschen ist,
+
+3.  wenn dem Inhaber des Führerscheins die Fahrerlaubnis nach § 111a
+    Absatz 1 der Strafprozessordnung vorläufig entzogen worden ist oder
+
+4.  wenn sich der Führerschein auf Grund behördlicher Maßnahmen nicht
+    im Besitz seines Inhabers befindet und kein Fall der Nummern 1 bis
+    3 vorliegt.
 
 (2) Die Fahrerlaubnis ist für die jeweilige Klasse zu erteilen, wenn
 der Bewerber
@@ -1029,7 +1051,8 @@ des Satzes 1 erfüllt sind; sie kann die Auskunft nach Satz 1 Nummer
 1 Nummer 2 ist durch einen gültigen Führerschein nachzuweisen, der
 während der Einweisungs- und Prüfungsfahrten mitzuführen und zur
 Überwachung des Straßenverkehrs berechtigten Personen auszuhändigen
-ist.
+ist; der Nachweis eines gültigen Führerscheins kann gemäß Absatz 1a
+auch durch einen digitalen Führerschein erfolgen.
 
 
 ### § 2a Fahrerlaubnis auf Probe
@@ -1199,6 +1222,70 @@ Eintragungen im Fahreignungsregister über die innerhalb der Probezeit
 begangenen Straftaten und Ordnungswidrigkeiten. Hat bereits eine
 Unterrichtung nach Satz 1 stattgefunden, so hat das Kraftfahrt-
 Bundesamt bei weiteren Unterrichtungen auch hierauf hinzuweisen.
+
+
+### § 2d Digitaler Führerschein
+
+(1) Der Inhaber eines gültigen deutschen Führerscheins, der ab dem 1.
+Januar 1999 als Kartenführerschein ausgestellt worden ist, kann die
+Erstellung eines digitalen Führerscheins beim Kraftfahrt-Bundesamt
+beantragen.
+
+(2) Das Kraftfahrt-Bundesamt erstellt den digitalen Führerschein, wenn
+
+1.  der Antragsteller Inhaber eines gültigen deutschen Führerscheins ist,
+    der ab dem 1. Januar 1999 als Kartenführerschein ausgestellt worden
+    ist,
+
+2.  beim Antragsteller ein geeignetes mobiles Endgerät vorhanden ist und
+    auf diesem ein Anwenderprogramm eingerichtet ist, das die Darstellung
+    des digitalen Führerscheins ermöglicht, und
+
+3.  der Antragsteller Inhaber eines Ausweises oder eines mobilen
+    Endgerätes ist, mit dem er einen elektronischen Identitätsnachweis
+    nach § 18 des Personalausweisgesetzes im Rahmen der Antragstellung
+    führen kann.
+
+(3) Die Form des Antrags auf Erstellung des digitalen Führerscheins
+und dessen technische Ausgestaltung werden in einem Standard des
+Kraftfahrt-Bundesamtes festgelegt, der die Weiternutzung des digitalen
+Führerscheins in einer europäischen Brieftasche für die Digitale
+Identität gemäß Artikel 5a Absatz 1 der Verordnung (EU) Nr. 910/2014
+gewährleistet. Das Kraftfahrt-Bundesamt hat den Standard auf seiner
+Internetseite zu veröffentlichen und hierauf sowie auf Änderungen des
+Standards im Bundesanzeiger sowie im Verkehrsblatt hinzuweisen.
+
+(4) Der digitale Führerschein enthält alle Daten eines deutschen
+Führerscheins, mit Ausnahme der Unterschrift.
+
+(5) Zur Generierung des digitalen Führerscheins verarbeitet das
+Kraftfahrt-Bundesamt die Daten nach Absatz 4 aus dem Zentralen
+Fahrerlaubnisregister sowie Daten aus dem Fahreignungsregister, die
+die Berechtigung zum Führen von Kraftfahrzeugen oder den Nachweis
+dieser Berechtigung berühren. Das Lichtbild des Antragstellers darf
+zum Zweck der Erstellung des digitalen Führerscheins vom Kraftfahrt-
+Bundesamt auch
+
+1.  aus den Pass- und Personalausweisregistern der Pass- und
+    Ausweisbehörden oder
+
+2.  aus zentralen Lichtbildbeständen der Register nach Nummer 1, soweit
+    diese nach Landesrecht vorgesehen sind,
+
+gemäß § 22a Absatz 2 Satz 6 Nummer 1 des Passgesetzes und § 25 Absatz
+2 Satz 5 Nummer 1 des Personalausweisgesetzes abgerufen und zur
+Generierung des digitalen Führerscheins weiterverarbeitet werden; der
+Antragsteller willigt gegenüber dem Kraftfahrt-Bundesamt im Rahmen der
+Online-Beantragung des digitalen Führerscheins im Anwenderprogramm in
+diesen Lichtbildabruf und dieses Weiterverarbeiten ein.
+
+(6) Das Kraftfahrt-Bundesamt darf die Daten nach den Absätzen 4 und
+5 auch nach Erstellung des digitalen Führerscheins in diesem und in
+den Systemen des Anwenderprogramms verarbeiten, soweit dies für den
+Betrieb des Anwenderprogramms zum digitalen Führerschein erforderlich
+ist. Lässt sich aus den Daten schließen, dass ein Fall des § 2 Absatz
+1b vorliegt, darf das Kraftfahrt-Bundesamt den digitalen Führerschein
+im Anwenderprogramm als ungültig darstellen.
 
 
 ### § 3 Entziehung der Fahrerlaubnis
@@ -3811,7 +3898,8 @@ Stellen anderer Staaten übermittelt werden, soweit dies
 
 3.  zur Verfolgung von Straftaten, die im Zusammenhang mit dem
     Straßenverkehr oder sonst mit Kraftfahrzeugen, Anhängern oder
-    Fahrzeugpapieren, Fahrerlaubnissen oder Führerscheinen stehen,
+    Fahrzeugpapieren, Fahrerlaubnissen, Führerscheinen oder digitalen
+    Führerscheinen stehen,
 
 erforderlich ist. Der Empfänger ist darauf hinzuweisen, dass die
 übermittelten Daten nur zu dem Zweck verarbeitet werden dürfen,
@@ -4888,7 +4976,8 @@ unionsrechtlichen Vorschriften vorgeschrieben ist oder soweit dies
 
 4.  zur Verfolgung von Straftaten, die im Zusammenhang mit dem
     Straßenverkehr oder sonst mit Kraftfahrzeugen, Anhängern, Kennzeichen
-    oder Fahrzeugpapieren, Fahrerlaubnissen oder Führerscheinen stehen,
+    oder Fahrzeugpapieren, Fahrerlaubnissen, Führerscheinen oder digitalen
+    Führerscheinen stehen,
 
 erforderlich ist und keine Anhaltspunkte für Zweifel an der
 Gegenseitigkeit einer solchen Auskunftserteilung hinsichtlich des
@@ -5619,7 +5708,7 @@ Speicherung von Daten, die erforderlich sind
 ### § 50 Inhalt der Fahrerlaubnisregister
 
 (1) In den örtlichen Fahrerlaubnisregistern und im Zentralen
-Fahrerlaubnisregister werden gespeichert
+Fahrerlaubnisregister werden gespeichert:
 
 1.  Familiennamen, Geburtsnamen, sonstige frühere Namen, Vornamen, Ordens-
     oder Künstlername, Doktorgrad, Geschlecht, Tag und Ort der Geburt,
@@ -5629,11 +5718,14 @@ Fahrerlaubnisregister werden gespeichert
     oder der Registrierung einer deutschen Fahrerlaubnis im Ausland),
     Bestand, Art, Umfang, Gültigkeitsdauer, Verlängerung und Änderung
     der Fahrerlaubnis, Datum des Beginns und des Ablaufs der Probezeit,
-    Nebenbestimmungen zur Fahrerlaubnis, über Führerscheine und deren
-    Geltung einschließlich der Ausschreibung zur Sachfahndung, sonstige
-    Berechtigungen, ein Kraftfahrzeug zu führen, sowie Hinweise auf
-    Eintragungen im Fahreignungsregister, die die Berechtigung zum Führen
-    von Kraftfahrzeugen berühren.
+    Nebenbestimmungen zur Fahrerlaubnis, über Führerscheine und digitale
+    Führerscheine und deren Geltung einschließlich der Ausschreibung zur
+    Sachfahndung, sonstige Berechtigungen, ein Kraftfahrzeug zu führen,
+    sowie Hinweise auf Eintragungen im Fahreignungsregister, die die
+    Berechtigung zum Führen von Kraftfahrzeugen berühren.
+
+Im Zentralen Fahrerlaubnisregister dürfen zusätzlich zu Satz 1 das
+Lichtbild und die Unterschrift gespeichert werden.
 
 (2) In den örtlichen Fahrerlaubnisregistern dürfen außerdem
 gespeichert werden
@@ -5791,7 +5883,8 @@ Registerbehörden an die hierfür zuständigen Stellen anderer Staaten
 
 3.  zur Verfolgung von Straftaten, die im Zusammenhang mit dem
     Straßenverkehr oder sonst mit Kraftfahrzeugen oder Anhängern oder
-    Fahrzeugpapieren, Fahrerlaubnissen oder Führerscheinen stehen,
+    Fahrzeugpapieren, Fahrerlaubnissen, Führerscheinen oder digitalen
+    Führerscheinen stehen,
 
 erforderlich ist.
 
@@ -6496,188 +6589,6 @@ Fahrzeugs nicht ändern.
 
 (3) Die Vorschriften der Abschnitte IV bis VI sind für den Zugang zu
 amtlichen Informationen abschließend.
-
-
-### § 65 Übergangsbestimmungen
-
-(1) Registerauskünfte, Führungszeugnisse, Gutachten und
-Gesundheitszeugnisse, die sich am 1. Januar 1999 bereits in den Akten
-befinden, brauchen abweichend von § 2 Abs. 9 Satz 2 bis 4 erst dann
-vernichtet zu werden, wenn sich die Fahrerlaubnisbehörde aus anderem
-Anlass mit dem Vorgang befasst. Eine Überprüfung der Akten muss
-jedoch spätestens bis zum 1. Januar 2014 durchgeführt werden. Anstelle
-einer Vernichtung der Unterlagen sind die darin enthaltenen Daten zu
-sperren, wenn die Vernichtung wegen der besonderen Art der Führung der
-Akten nicht oder nur mit unverhältnismäßigem Aufwand möglich ist.
-
-(2) Ein örtliches Fahrerlaubnisregister (§ 48 Abs. 1) darf nicht mehr
-geführt werden, sobald
-
-1.  sein Datenbestand mit den in § 50 Abs. 1 genannten Daten in das
-    Zentrale Fahrerlaubnisregister übernommen worden ist,
-
-2.  die getroffenen Maßnahmen der Fahrerlaubnisbehörde nach § 2a Abs. 2
-    und § 4 Absatz 5 in das Fahreignungsregister übernommen worden sind
-    und
-
-3.  der Fahrerlaubnisbehörde die Daten, die ihr nach § 30 Abs. 1 Nr. 3
-    und § 52 Abs. 1 Nr. 3 aus den zentralen Registern mitgeteilt werden
-    dürfen, durch Abruf im automatisierten Verfahren mitgeteilt werden
-    können.
-
-Die Fahrerlaubnisbehörden löschen aus ihrem örtlichen
-Fahrerlaubnisregister spätestens bis zum 31. Dezember 2014 die im
-Zentralen Fahrerlaubnisregister gespeicherten Daten, nachdem sie
-sich von der Vollständigkeit und Richtigkeit der in das Zentrale
-Fahrerlaubnisregister übernommenen Einträge überzeugt haben. Die
-noch nicht im Zentralen Fahrerlaubnisregister gespeicherten Daten der
-Fahrerlaubnisbehörden werden bis zur jeweiligen Übernahme im örtlichen
-Register gespeichert. Maßnahmen der Fahrerlaubnisbehörde nach § 2a
-Abs. 2 Satz 1 Nr. 1 und 2 und § 4 Absatz 5 Satz 1 Nr. 1 und 2 werden
-erst dann im Fahreignungsregister gespeichert, wenn eine Speicherung
-im örtlichen Fahrerlaubnisregister nicht mehr vorgenommen wird.
-
-(2a) Absatz 2 ist nicht auf die Daten anzuwenden, die vor dem 1.
-Januar 1999 in örtlichen Fahrerlaubnisregistern gespeichert worden
-sind.
-
-(3) Die Regelungen über das Verkehrszentralregister und das
-Punktsystem werden in die Regelungen über das Fahreignungsregister und
-das Fahreignungs-Bewertungssystem nach folgenden Maßgaben überführt:
-
-1.  Entscheidungen, die nach § 28 Absatz 3 in der bis zum Ablauf des 30.
-    April 2014 anwendbaren Fassung im Verkehrszentralregister gespeichert
-    worden sind und nach § 28 Absatz 3 in der ab dem 1. Mai 2014
-    anwendbaren Fassung nicht mehr zu speichern wären, werden am 1. Mai
-    2014 gelöscht. Für die Feststellung nach Satz 1, ob eine Entscheidung
-    nach § 28 Absatz 3 in der ab dem 1. Mai 2014 anwendbaren Fassung nicht
-    mehr zu speichern wäre, bleibt die Höhe der festgesetzten Geldbuße
-    außer Betracht.
-
-2.  Entscheidungen, die nach § 28 Absatz 3 in der bis zum Ablauf des 30.
-    April 2014 anwendbaren Fassung im Verkehrszentralregister gespeichert
-    worden und nicht von Nummer 1 erfasst sind, werden bis zum Ablauf
-    des 30. April 2019 nach den Bestimmungen des § 29 in der bis zum
-    Ablauf des 30. April 2014 anwendbaren Fassung getilgt und gelöscht.
-    Dabei kann eine Ablaufhemmung nach § 29 Absatz 6 Satz 2 in der
-    bis zum Ablauf des 30. April 2014 anwendbaren Fassung nicht durch
-    Entscheidungen, die erst ab dem 1. Mai 2014 im Fahreignungsregister
-    gespeichert werden, ausgelöst werden. Für Entscheidungen wegen
-    Ordnungswidrigkeiten nach § 24a gilt Satz 1 mit der Maßgabe, dass
-    sie spätestens fünf Jahre nach Rechtskraft der Entscheidung getilgt
-    werden. Ab dem 1. Mai 2019 gilt
-
-    a)  für die Berechnung der Tilgungsfrist § 29 Absatz 1 bis 5 in der ab dem
-        1\. Mai 2014 anwendbaren Fassung mit der Maßgabe, dass die nach Satz 1
-        bisher abgelaufene Tilgungsfrist angerechnet wird,
-
-    b)  für die Löschung § 29 Absatz 6 in der ab dem 1. Mai 2014 anwendbaren
-        Fassung.
-
-3.  Auf Entscheidungen, die bis zum Ablauf des 30. April 2014
-    begangene Zuwiderhandlungen ahnden und erst ab dem 1. Mai 2014 im
-    Fahreignungsregister gespeichert werden, sind dieses Gesetz und die
-    auf Grund des § 6 Absatz 1 Nummer 1 Buchstabe s in der bis zum 27.
-    Juli 2021 geltenden Fassung erlassenen Rechtsverordnungen in der ab
-    dem 1. Mai 2014 geltenden Fassung anzuwenden. Dabei sind § 28 Absatz
-    3 Nummer 3 Buchstabe a Doppelbuchstabe bb und § 28a in der ab dem 1.
-    Mai 2014 geltenden Fassung mit der Maßgabe anzuwenden, dass jeweils
-    anstelle der dortigen Grenze von sechzig Euro die Grenze von vierzig
-    Euro gilt.
-
-4.  Personen, zu denen bis zum Ablauf des 30. April 2014 im
-    Verkehrszentralregister eine oder mehrere Entscheidungen nach § 28
-    Absatz 3 Satz 1 Nummer 1 bis 3 in der bis zum Ablauf des 30. April
-    2014 anwendbaren Fassung gespeichert worden sind, sind wie folgt in
-    das Fahreignungs-Bewertungssystem einzuordnen:
-
-    | Punktestand vor dem 1. Mai 2014 | Fahreignungs-Bewertungssystem ab dem 1. Mai 2014 |  |
-    | --- | --- | --- |
-    | Punktestand | Stufe |  |
-    | 1 – 3 | 1 | Vormerkung (§ 4 Absatz 4) |
-    | 4 – 5 | 2 |  |
-    | 6 – 7 | 3 |  |
-    | 8 – 10 | 4 | **1**: Ermahnung (§ 4 Absatz 5 Satz 1 Nummer 1) |
-    | 11 – 13 | 5 |  |
-    | 14 – 15 | 6 | **2**: Verwarnung (§ 4 Absatz 5 Satz 1 Nummer 2) |
-    | 16 – 17 | 7 |  |
-    | > = 18 | 8 | **3**: Entzug (§ 4 Absatz 5 Satz 1 Nummer 3) |
-
-    Die am 1. Mai 2014 erreichte Stufe wird für Maßnahmen nach dem
-    Fahreignungs-Bewertungssystem zugrunde gelegt. Die Einordnung nach
-    Satz 1 führt allein nicht zu einer Maßnahme nach dem Fahreignungs-
-    Bewertungssystem.
-
-5.  Die Regelungen über Punkteabzüge und Aufbauseminare werden wie folgt
-    überführt:
-
-    a)  Punkteabzüge nach § 4 Absatz 4 Satz 1 und 2 in der bis zum Ablauf
-        des 30. April 2014 anwendbaren Fassung sind vorzunehmen, wenn die
-        Bescheinigung über die Teilnahme an einem Aufbauseminar oder einer
-        verkehrspsychologischen Beratung bis zum Ablauf des 30. April 2014
-        der nach Landesrecht zuständigen Behörde vorgelegt worden ist.
-        Punkteabzüge nach § 4 Absatz 4 Satz 1 und 2 in der bis zum Ablauf des
-        30\. April 2014 anwendbaren Fassung bleiben bis zur Tilgung der letzten
-        Eintragung wegen einer Straftat oder einer Ordnungswidrigkeit nach §
-        28 Absatz 3 Nummer 1 bis 3 in der bis zum Ablauf des 30. April 2014
-        anwendbaren Fassung, längstens aber zehn Jahre ab dem 1. Mai 2014 im
-        Fahreignungsregister gespeichert.
-
-    b)  Bei der Berechnung der Fünfjahresfrist nach § 4 Absatz 7 Satz 2 und 3
-        sind auch Punkteabzüge zu berücksichtigen, die nach § 4 Absatz 4 Satz
-        1 und 2 in der bis zum Ablauf des 30. April 2014 anwendbaren Fassung
-        vorgenommen worden sind.
-
-    c)  Aufbauseminare, die bis zum Ablauf des 30. April 2014 nach § 4 Absatz
-        3 Satz 1 Nummer 2 in der bis zum Ablauf des 30. April 2014 anwendbaren
-        Fassung angeordnet, aber bis zum Ablauf des 30. April 2014 nicht
-        abgeschlossen worden sind, sind bis zum Ablauf des 30. November
-        2014 nach dem bis zum Ablauf des 30. April 2014 anwendbaren Recht
-        durchzuführen.
-
-    d)  Abweichend von Buchstabe c kann anstelle von Aufbauseminaren, die bis
-        zum Ablauf des 30. April 2014 nach § 4 Absatz 3 Satz 1 Nummer 2 in der
-        bis zum Ablauf des 30. April 2014 anwendbaren Fassung angeordnet, aber
-        bis zum Ablauf des 30. April 2014 noch nicht begonnen worden sind, die
-        verkehrspädagogische Teilmaßnahme des Fahreignungsseminars absolviert
-        werden.
-
-    e)  Die nach Landesrecht zuständige Behörde hat dem Kraftfahrt-Bundesamt
-        unverzüglich die Teilnahme an einem Aufbauseminar oder einer
-        verkehrspsychologischen Beratung mitzuteilen.
-
-6.  Nachträgliche Veränderungen des Punktestandes nach den Nummern 2 oder
-    5 führen zu einer Aktualisierung der nach der Tabelle zu Nummer 4
-    erreichten Stufe im Fahreignungs-Bewertungssystem.
-
-7.  Sofern eine Fahrerlaubnis nach § 4 Absatz 7 in der bis zum 30. April
-    2014 anwendbaren Fassung entzogen worden ist, ist § 4 Absatz 3 Satz 1
-    bis 3 auf die Erteilung einer neuen Fahrerlaubnis nicht anwendbar.
-
-(4) Auf Unfälle, die sich vor dem 1. Oktober 2026 ereignet haben, ist
-§ 8 Nummer 1 in seiner bis zum Ablauf des 30. September 2026 geltenden
-Fassung weiter anzuwenden.
-
-(5) Bis zum Erlass einer Rechtsverordnung nach § 6f Absatz 2,
-längstens bis zum Ablauf des 31. Juli 2018, gelten die in den
-Gebührennummern 451 bis 455 der Anlage der Gebührenordnung für
-Maßnahmen im Straßenverkehr vom 25. Januar 2011 (BGBl. I S. 98),
-die zuletzt durch Artikel 3 der Verordnung vom 15. September 2015
-(BGBl. I S. 1573) geändert worden ist, in der am 6. Dezember 2016
-geltenden Fassung festgesetzten Gebühren als Entgelte im Sinne des
-§ 6f Absatz 1. Die Gebührennummern 403 und 451 bis 455 der Anlage
-der Gebührenordnung für Maßnahmen im Straßenverkehr sind nicht mehr
-anzuwenden.
-
-(6) Die durch das Gesetz zur Haftung bei Unfällen mit Anhängern
-und Gespannen im Straßenverkehr vom 10. Juli 2020 (BGBl. I S. 1653)
-geänderten Vorschriften des Straßenverkehrsgesetzes sind nicht
-anzuwenden, sofern der Unfall vor dem 17. Juli 2020 eingetreten ist.
-
-(7) Ordnungswidrigkeiten nach § 23 in der bis zum Ablauf des 27. Juli
-2021 geltenden Fassung können abweichend von § 4 Absatz 3 des Gesetzes
-über Ordnungswidrigkeiten nach den zum Zeitpunkt der Tat geltenden
-Bestimmungen geahndet werden.
 
 
 ### § 66 (weggefallen)

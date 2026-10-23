@@ -189,13 +189,39 @@ Fahrerlaubnis. Ausgenommen sind
     km/h sowie einachsige Zug- und Arbeitsmaschinen, die von Fußgängern an
     Holmen geführt werden.
 
-(2) Die Fahrerlaubnis ist durch eine gültige amtliche Bescheinigung
-(Führerschein) nachzuweisen. Beim Führen eines Kraftfahrzeuges ist ein
-dafür gültiger Führerschein mitzuführen und zuständigen Personen auf
-Verlangen zur Prüfung auszuhändigen. Der Internationale Führerschein
-oder der nationale ausländische Führerschein und eine mit diesem
-nach § 29 Absatz 2 Satz 2 verbundene Übersetzung ist mitzuführen und
-zuständigen Personen auf Verlangen zur Prüfung auszuhändigen.
+(2) Die Fahrerlaubnis ist vorbehaltlich des Absatzes 2a durch eine
+gültige amtliche Bescheinigung (Führerschein) nachzuweisen. Beim
+Führen eines Kraftfahrzeuges ist ein dafür gültiger Führerschein
+mitzuführen und zuständigen Personen auf Verlangen zur Prüfung
+auszuhändigen. Der Internationale Führerschein oder der nationale
+ausländische Führerschein und eine mit diesem nach § 29 Absatz 2 Satz
+2 verbundene Übersetzung ist mitzuführen und zuständigen Personen auf
+Verlangen zur Prüfung auszuhändigen.
+
+(2a) Der Inhaber eines Führerscheins nach Absatz 2 Satz 1
+kann diesen durch einen digitalen Führerschein nach § 2d des
+Straßenverkehrsgesetzes nachweisen. Der Nachweis mittels digitalen
+Führerscheins entbindet von der Pflicht nach Absatz 2 Satz 2.
+Der digitale Führerschein berechtigt im Inland zum Nachweis
+des Führerscheins. Im Fall des Nachweises durch einen digitalen
+Führerschein ist der Inhaber beim Führen eines Kraftfahrzeugs zum
+Mitführen des digitalen Führerscheins verpflichtet. Der Inhaber
+hat zuständigen Personen auf Verlangen den digitalen Führerschein
+vorzuzeigen und eine Überprüfung der Daten zu ermöglichen.
+
+(2b) Der Inhaber eines Führerscheins darf diesen nicht durch einen
+digitalen Führerschein nachweisen,
+
+1.  solange gegen ihn ein Fahrverbot wirksam ist,
+
+2.  wenn seine Fahrerlaubnis erloschen ist,
+
+3.  wenn ihm die Fahrerlaubnis nach § 111a Absatz 1 der
+    Strafprozessordnung vorläufig entzogen worden ist oder
+
+4.  wenn sich der Führerschein auf Grund behördlicher Maßnahmen nicht
+    im Besitz seines Inhabers befindet und kein Fall der Nummern 1 bis
+    3 vorliegt.
 
 (3) Abweichend von Absatz 2 Satz 1 kann die Fahrerlaubnis auch durch
 eine andere Bescheinigung als den Führerschein nachgewiesen werden,
@@ -1484,8 +1510,8 @@ verzichtet.
 1.  ein amtlicher Nachweis über Ort und Tag der Geburt,
 
 2.  ein Lichtbild, das den Bestimmungen der Passverordnung vom 19. Oktober
-    2007 (BGBl. I S. 2386), die zuletzt durch Artikel 2 der Verordnung vom
-    20\. August 2021 (BGBl. I S. 3682) geändert worden ist, entspricht,
+    2007 (BGBl. I S. 2386), die zuletzt durch Artikel 1 der Verordnung vom
+    12\. April 2024 (BGBl. 2024 I Nr. 125) geändert worden ist, entspricht,
 
 3.  bei einem Antrag auf Erteilung einer Fahrerlaubnis der Klassen AM,
     A1, A2, A, B, BE, L oder T eine Sehtestbescheinigung nach § 12 Absatz
@@ -3134,119 +3160,6 @@ entsprechend anzuwenden.
 ### 10. - Begleitetes Fahren ab 17 Jahre
 
 
-#### § 48a Voraussetzungen
-
-(1) Im Falle des § 10 Absatz 1 laufende Nummer 5 Buchstabe b
-Doppelbuchstabe aa findet § 11 Absatz 3 Satz 1 Nummer 2 keine
-Anwendung. § 74 Absatz 2 findet entsprechend Anwendung.
-
-(2) Die Fahrerlaubnis ist für die Fahrerlaubnisklassen B und
-BE mit der Auflage zu versehen, dass von ihr nur dann Gebrauch
-gemacht werden darf, wenn der Fahrerlaubnisinhaber während
-des Führens des Kraftfahrzeugs von mindestens einer namentlich
-benannten Person, die den Anforderungen der Absätze 5 und 6 genügt,
-begleitet wird (begleitende Person). Die Auflage entfällt, wenn der
-Fahrerlaubnisinhaber das Mindestalter nach § 10 Absatz 1 Satz 1 Nummer
-5 Buchstabe a erreicht hat.
-
-(3) Für das Verfahren bei der Erteilung einer Fahrerlaubnis für das
-Führen von Kraftfahrzeugen in Begleitung gelten die §§ 22 und 22a mit
-folgenden Maßgaben:
-
-1.  Über die Fahrerlaubnis ist eine Prüfungsbescheinigung nach dem Muster
-    der Anlage 8b auszustellen, die bis drei Monate nach Vollendung des
-    18\. Lebensjahres im Inland zum Nachweis im Sinne des § 4 Absatz 3 Satz
-    1 dient.
-
-2.  Die Prüfungsbescheinigung tritt an die Stelle des Führerscheines oder
-    des Vorläufigen Nachweises der Fahrerlaubnis.
-
-3.  In der Prüfungsbescheinigung sind die zur Begleitung vorgesehenen
-    Personen namentlich aufzuführen. Auf Antrag können weitere begleitende
-    Personen namentlich auf der Prüfungsbescheinigung nachträglich durch
-    die Fahrerlaubnisbehörde eingetragen werden.
-
-4.  Im Falle des § 22a Absatz 1 Satz 1 ist auf das Übersenden einer
-    vorbereiteten Prüfungsbescheinigung zu verzichten.
-
-5.  Zusätzlich zu den nach § 22a Absatz 2 zu übermittelnden Daten
-    übermittelt die Fahrerlaubnisbehörde die in die Prüfungsbescheinigung
-    aufzunehmenden Angaben zu den Begleitpersonen.
-
-6.  Ist der Bewerber bereits im Besitz einer Fahrerlaubnis der Klasse
-    AM, der Klasse A1, der Klasse L oder der Klasse T, ist abweichend
-    von § 22a Absatz 4 der Führerschein nicht bei Aushändigung der
-    Prüfungsbescheinigung zurückzugeben. In die Prüfungsbescheinigung sind
-    die Klasse AM und die Klasse L nicht aufzunehmen.
-
-7.  Ist der Bewerber noch nicht im Besitz einer Fahrerlaubnis der Klasse
-    AM oder der Klasse L, kann er in seinem Antrag nach § 21 erklären,
-    dass er für die genannten Fahrerlaubnisklassen einen Führerschein
-    erhalten möchte. In der Prüfungsbescheinigung sind diese Klassen nicht
-    aufzunehmen.
-
-Die Prüfungsbescheinigung ist im Fahrzeug mitzuführen und zur
-Überwachung des Straßenverkehrs berechtigten Personen auf Verlangen
-auszuhändigen.
-
-(4) Die begleitende Person soll dem Fahrerlaubnisinhaber
-
-1.  vor Antritt einer Fahrt und
-
-2.  während des Führens des Fahrzeugs, soweit die Umstände der jeweiligen
-    Fahrsituation es zulassen,
-
-ausschließlich als Ansprechpartner zur Verfügung stehen, um ihm
-Sicherheit beim Führen des Kraftfahrzeugs zu vermitteln. Zur Erfüllung
-ihrer Aufgabe soll die begleitende Person Rat erteilen oder kurze
-Hinweise geben.
-
-(5) Die begleitende Person
-
-1.  muss das 30. Lebensjahr vollendet haben,
-
-2.  muss mindestens seit fünf Jahren Inhaber einer gültigen Fahrerlaubnis
-    der Klasse B oder einer entsprechenden deutschen, einer EU/EWR-
-    oder schweizerischen Fahrerlaubnis sein; die Fahrerlaubnis ist durch
-    einen gültigen Führerschein nachzuweisen, der während des Begleitens
-    mitzuführen und zur Überwachung des Straßenverkehrs berechtigten
-    Personen auf Verlangen auszuhändigen ist,
-
-3.  darf zum Zeitpunkt der Beantragung der Fahrerlaubnis im
-    Fahreignungsregister mit nicht mehr als einem Punkt belastet sein.
-
-Die Fahrerlaubnisbehörde hat bei Beantragung der Fahrerlaubnis oder
-bei Beantragung der Eintragung weiterer zur Begleitung vorgesehener
-Personen zu prüfen, ob diese Voraussetzungen vorliegen; sie hat die
-Auskunft nach Nummer 3 beim Fahreignungsregister einzuholen. Bei
-der Beantragung der Eintragung weiterer zur Begleitung vorgesehener
-Personen ist abweichend von Satz 1 Nummer 3 auf den Zeitpunkt der
-Beantragung der Eintragung der weiteren zur Begleitung vorgesehenen
-Personen abzustellen.
-
-(6) Die begleitende Person darf den Inhaber einer
-Prüfungsbescheinigung nach Absatz 3 nicht begleiten, wenn sie
-
-1.  0,25 mg/l oder mehr Alkohol in der Atemluft oder 0,5 Promille oder
-    mehr Alkohol im Blut oder eine Alkoholmenge im Körper hat, die zu
-    einer solchen Atem- oder Blutalkoholkonzentration führt,
-
-1a. 3,5 ng/ml oder mehr Tetrahydrocannabinol im Blutserum hat,
-
-2.  unter der Wirkung eines in der Anlage zu § 24a des
-    Straßenverkehrsgesetzes genannten berauschenden Mittels steht.
-
-Eine Wirkung im Sinne des Satzes 1 Nummer 2 liegt vor, wenn eine in
-der Anlage zu § 24a des Straßenverkehrsgesetzes genannte Substanz
-im Blut nachgewiesen wird. Satz 1 Nummer 2 gilt nicht, wenn die
-Substanz aus der bestimmungsgemäßen Einnahme eines für einen konkreten
-Krankheitsfall verschriebenen Arzneimittels herrührt.
-
-(7) Mit Erreichen des Mindestalters nach § 10 Absatz 1 Nummer 5
-Buchstabe a händigt die Fahrerlaubnisbehörde dem Fahrerlaubnisinhaber
-auf Antrag einen Führerschein nach Muster 1 der Anlage 8 aus.
-
-
 #### § 48b Evaluation
 
 Die für Zwecke der Evaluation erhobenen personenbezogene Daten
@@ -3264,8 +3177,8 @@ kann.
 
 #### § 49 Speicherung der Daten im Zentralen Fahrerlaubnisregister
 
-(1) Im Zentralen Fahrerlaubnisregister sind nach § 50 Absatz 1 des
-Straßenverkehrsgesetzes folgende Daten zu speichern:
+(1) Im Zentralen Fahrerlaubnisregister sind nach § 50 Absatz 1 Satz 1
+des Straßenverkehrsgesetzes folgende Daten zu speichern:
 
 1.  Familiennamen, Geburtsnamen, sonstige frühere Namen, soweit dazu eine
     Eintragung vorliegt, Vornamen, Ordens- oder Künstlernamen, Doktorgrad,
@@ -3302,8 +3215,9 @@ Straßenverkehrsgesetzes folgende Daten zu speichern:
     und der fortlaufenden Nummer des über die Fahrerlaubnis
     ausgestellten Führerscheins (Führerscheinnummer), oder die Nummer
     des Vorläufigen Nachweises der Fahrerlaubnis oder der befristeten
-    Prüfungsbescheinigung, bestehend aus der Fahrerlaubnisnummer und einer
-    angefügten Null,
+    Prüfungsbescheinigung, bestehend aus der Fahrerlaubnisnummer und
+    einer angefügten Null, sowie Identifikationsmerkmale für den digitalen
+    Führerschein,
 
 11. die Behörde, die den Führerschein, den Ersatzführerschein den
     Vorläufigen Nachweis der Fahrerlaubnis oder die befristete
@@ -3341,6 +3255,10 @@ Straßenverkehrsgesetzes folgende Daten zu speichern:
 in Absatz 1 Nummer 1 genannten Daten, die Klasse der erteilten
 Fahrerlaubnis, der Tag des Beginns und Ablaufs der Probezeit und die
 Fahrerlaubnisnummer gespeichert.
+
+(3) Im Zentralen Fahrerlaubnisregister dürfen zusätzlich zu Absatz 1
+nach § 50 Absatz 1 Satz 2 des Straßenverkehrsgesetzes das Lichtbild
+und die Unterschrift gespeichert werden.
 
 
 #### § 50 Übermittlung der Daten vom Kraftfahrt-Bundesamt an die Fahrerlaubnisbehörden nach § 2c des Straßenverkehrsgesetzes
@@ -4925,6 +4843,16 @@ handelt, wer vorsätzlich oder fahrlässig
     4 Satz 5 über die Mitführung, Aushändigung von Führerscheinen, deren
     Übersetzung sowie Bescheinigungen und der Verpflichtung zur Anzeige
     des Verlustes und Beantragung eines Ersatzdokuments zuwiderhandelt,
+
+4a. entgegen § 4 Absatz 2a Satz 4 einen digitalen Führerschein nicht
+    mitführt,
+
+4b. entgegen § 4 Absatz 2a Satz 5 einen digitalen Führerschein nicht oder
+    nicht rechtzeitig vorzeigt oder eine Überprüfung nicht oder nicht
+    rechtzeitig ermöglicht,
+
+4c. entgegen § 4 Absatz 2b den Führerschein durch einen digitalen
+    Führerschein nachweist,
 
 5.  entgegen § 5 Absatz 1 Satz 1 ein Mofa nach § 4 Absatz 1 Satz 2 Nummer
     1, ein Kraftfahrzeug nach § 4 Absatz 1 Satz 2 Nummer 1b oder einen
@@ -8160,240 +8088,6 @@ II) Führerscheine, die ab 1. Januar 1999 ausgestellt worden sind:
     | 2010 | 19. Januar 2031 |
     | 2011 | 19. Januar 2032 |
     | 2012 bis 18. Januar 2013 | 19. Januar 2033 |
-
-
-### Anlage 9 (zu § 25 Absatz 3)Verwendung von Schlüsselzahlen für Eintragungen in den Führerschein
-
-(Fundstelle: BGBl. I 2013, 60 - 63;
-bzgl. einzelner Änderungen vgl. Fußnote)
-
-**A. Vorbemerkungen**
-
-Beschränkungen, Auflagen und Zusatzangaben sind in Form von
-Schlüsselzahlen in Feld 12 im Führerschein einzutragen. Beziehen sie
-sich auf einzelne Fahrerlaubnisklassen, sind sie in Feld 12 in der
-Zeile der betreffenden Fahrerlaubnisklasse einzutragen. Solche, die
-für alle erteilten Fahrerlaubnisklassen gelten, sind in der letzten
-Zeile des Feldes 12 unter den Spalten 9 bis 12 zu vermerken. Die
-harmonisierten Schlüsselzahlen der Europäischen Union bestehen aus
-zwei Ziffern (Hauptschlüsselzahlen). Unterschlüsselungen bestehen
-aus einer Hauptschlüsselzahl (erster Teil) und aus zwei Ziffern
-und/oder Buchstaben (zweiter Teil). Erster und zweiter Teil sind
-durch einen Punkt getrennt. Der zweite Teil kann bei bestimmten
-Verschlüsselungen weitere Ziffern/Buchstaben enthalten. Nationale
-Schlüsselungen bestehen aus drei Ziffern. Sie gelten nur im Inland.
-Die einzutragenden Schlüsselzahlen müssen die Beschränkungen, Auflagen
-und Zusatzangaben vollständig erfassen. Für die Hauptschlüsselzahlen
-44, 50, 51, 70, 71 und 79 ist die Verwendung von Unterschlüsselungen
-obligatorisch. Häufungen sind durch Komma und Alternativen durch
-Schrägstrich zu trennen. Harmonisierte Schlüsselzahlen sind vor den
-nationalen aufzuführen. Bei der Ausstellung eines Führerscheins ist
-der Inhaber über die Bedeutung der eingetragenen Schlüsselzahlen zu
-informieren.
-
-**B. Liste der Schlüsselzahlen**
-
-I. Schlüsselzahlen der Europäischen Union
-
-| Lfd. Nr. | Schlüsselzahl |  |
-| --- | --- | --- |
-| 1 | 01 | Korrektur des Sehvermögens und/oder Augenschutz |
-| 2 | 01.01 | Brille |
-| 3 | 01.02 | Kontaktlinse(n) |
-| 4 | 01.03 | Schutzbrille |
-| 5 | 01.05 | Augenschutz |
-| 6 | 01.06 | Brille oder Kontaktlinsen |
-| 7 | 01.07 | Spezifische optische Hilfe |
-| 8 | 02 | Hörhilfe/Kommunikationshilfe |
-| 9 | 03 | Prothese/Orthese der Gliedmaßen |
-| 10 | 03.01 | Prothese/Orthese der Arme |
-| 11 | 03.02 | Prothese/Orthese der Beine |
-| 12 |  | (weggefallen) |
-| 13 |  | (weggefallen) |
-| 14 |  | (weggefallen) |
-| 15 |  | (weggefallen) |
-| 16 |  | (weggefallen) |
-| 17 |  | (weggefallen) |
-| 18 |  | (weggefallen) |
-| 19 |  | (weggefallen) |
-| 20 |  | (weggefallen) |
-| 21 | 10 | Angepasste Schaltung |
-| 22 | 10.02 | Automatische Wahl des Getriebeganges |
-| 23 | 10.04 | Angepasste Schalteinrichtungen |
-| 24 | 15 | Angepasste Kupplung |
-| 25 | 15.01 | Angepasstes Kupplungspedal |
-| 26 | 15.02 | Handkupplung |
-| 27 | 15.03 | Automatische Kupplung |
-| 28 | 15.04 | Maßnahme, um eine Blockierung oder Betätigung des Kupplungspedals zu verhindern |
-| 29 | 20 | Angepasste Bremsmechanismen |
-| 30 | 20.01 | Angepasstes Bremspedal |
-| 31 | 20.03 | Bremspedal, geeignet für Betätigung mit dem linken Fuß |
-| 32 | 20.04 | Bremspedal mit Gleitschiene |
-| 33 | 20.05 | Bremspedal (Kipppedal) |
-| 34 | 20.06 | Mit der Hand betätigte Bremse |
-| 35 | 20.07 | Bremsbetätigung mit maximaler Kraft von … N(*) (z. B.: ‚20.07(300N)‘) |
-| 36 | 20.09 | Angepasste Feststellbremse |
-| 37 | 20.12 | Maßnahme, um eine Blockierung oder Betätigung des Bremspedals zu verhindern |
-| 38 | 20.13 | Mit dem Knie betätigte Bremse |
-| 39 | 20.14 | Durch Fremdkraft unterstützte Bremsanlage |
-| 40 | 25 | Angepasste Beschleunigungsmechanismen |
-| 41 | 25.01 | Angepasstes Gaspedal |
-| 42 | 25.03 | Gaspedal (Kipppedal) |
-| 43 | 25.04 | Handgas |
-| 44 | 25.05 | Mit dem Knie betätigter Gashebel |
-| 45 | 25.06 | Durch Fremdkraft unterstützte Betätigung des Gaspedals/-hebels |
-| 46 | 25.08 | Gaspedal links |
-| 47 | 25.09 | Maßnahme, um eine Blockierung oder Betätigung des Gaspedals zu verhindern |
-| 48 |  | (weggefallen) |
-| 49 | 31 | Anpassungen und Sicherungen der Pedale |
-| 50 | 31.01 | Extrasatz Parallelpedale |
-| 51 | 31.02 | Pedale auf der gleichen (oder fast gleichen) Ebene |
-| 52 | 31.03 | Maßnahme, um eine Blockierung oder Betätigung des Gas- und des Bremspedals zu verhindern, wenn Pedale nicht mit dem Fuß betätigt werden |
-| 53 | 31.04 | Bodenerhöhung |
-| 54 | 32 | Kombinierte Beschleunigungs- und Betriebsbremsvorrichtungen |
-| 55 | 32.01 | Gas und Betriebsbremse als kombinierte, mit einer Hand betätigte Vorrichtung |
-| 56 | 32.02 | Gas und Betriebsbremse als kombinierte, mit Fremdkraft betätigte Vorrichtung |
-| 57 | 33 | Kombinierte Betriebsbrems-, Beschleunigungs- und Lenkvorrichtungen |
-| 58 | 33.01 | Gas, Betriebsbremse und Lenkung als kombinierte, mit Fremdkraft mit einer Hand betätigte Vorrichtung |
-| 59 | 33.02 | Gas, Betriebsbremse und Lenkung als kombinierte, mit Fremdkraft mit zwei Händen betätigte Vorrichtung |
-| 60 | 35 | Angepasste Bedienvorrichtungen (Schalter für Licht, Scheibenwischer/-waschanlage, akustisches Signal, Fahrtrichtungsanzeiger usw.) |
-| 61 | 35.02 | Gebrauch der Bedienvorrichtung möglich, ohne Lenkvorrichtung loszulassen |
-| 62 | 35.03 | Gebrauch der Bedienvorrichtung mit der linken Hand möglich, ohne Lenkvorrichtung loszulassen |
-| 63 | 35.04 | Gebrauch der Bedienvorrichtung mit der rechten Hand möglich, ohne Lenkvorrichtung loszulassen |
-| 64 | 35.05 | Gebrauch der Bedienvorrichtung möglich, ohne Lenkvorrichtung und Beschleunigungs- und Bremsvorrichtungen loszulassen |
-| 65 | 40 | Angepasste Lenkung |
-| 66 | 40.01 | Lenkung mit maximaler Kraft von … N(*) (z. B.: ‚40.01(140N)‘) |
-| 67 | 40.05 | Angepasstes Lenkrad (mit verbreitertem/verstärktem Lenkradteil; verkleinertem Durchmesser usw.) |
-| 68 | 40.06 | Angepasste Position des Lenkrads |
-| 69 | 40.09 | Fußlenkung |
-| 70 | 40.11 | Assistenzeinrichtung am Lenkrad |
-| 71 | 40.14 | Andersartig angepasstes, mit einer Hand/einem Arm bedientes Lenksystem |
-| 72 | 40.15 | Andersartig angepasstes, mit zwei Händen/Armen bedientes Lenksystem |
-| 73 | 42 | Angepasste Einrichtung für die Sicht nach hinten/zur Seite |
-| 74 | 42.01 | Angepasste Einrichtung für die Sicht nach hinten |
-| 75 | 42.03 | Zusätzliche Innenvorrichtung zur Erweiterung der Sicht zur Seite |
-| 76 | 42.05 | Einrichtung für die Sicht in den toten Winkel |
-| 77 | 43 | Sitzposition des Fahrzeugführers |
-| 78 | 43.01 | Höhe des Fahrersitzes für normale Sicht und in normalem Abstand zum Lenkrad und zu den Pedalen |
-| 79 | 43.02 | Der Körperform angepasster Sitz |
-| 80 | 43.03 | Fahrersitz mit Seitenstützen zur Verbesserung der Stabilität |
-| 81 | 43.04 | Fahrersitz mit Armlehne |
-| 82 | 43.06 | Angepasster Sicherheitsgurt |
-| 83 | 43.07 | Sicherheitsgurte mit Unterstützung zur Verbesserung der Stabilität |
-| 84 | 44 | Anpassungen an Krafträdern (obligatorische Verwendung von Untercodes) |
-| 85 | 44.01 | Einzeln gesteuerte Bremsen |
-| 86 | 44.02 | Angepasste Vorderradbremse |
-| 87 | 44.03 | Angepasste Hinterradbremse |
-| 88 | 44.04 | Angepasste Beschleunigungsvorrichtung |
-| 89 | 44.05 | Angepasste Handschaltung und Handkupplung* |
-| 90 | 44.06 | Angepasster Rückspiegel* |
-| 91 | 44.07 | Angepasste Kontrolleinrichtungen* |
-| 92 | 44.08 | Sitzhöhe muss im Sitzen die Berührung des Bodens mit beiden Füßen gleichzeitig sowie das Balancieren des Kraftrades beim Anhalten und Stehen ermöglichen |
-| 93 | 44.09 | Maximale Betätigungskraft der Vorderradbremse … N(*) (z. B. ‚44.09(140N)‘) |
-| 94 | 44.10 | Maximale Betätigungskraft der Hinterradbremse … N(*) (z. B. ‚44.10(240N)‘) |
-| 95 | 44.11 | Angepasste Fußraste |
-| 96 | 44.12 | Angepasster Handgriff |
-| 97 | 45 | Kraftrad nur mit Seitenwagen |
-| 98 | 46 | Nur dreirädrige Kraftfahrzeuge |
-| 99 | 47 | Beschränkt auf Fahrzeuge mit mehr als zwei Rädern, die vom Fahrer beim Anfahren, Anhalten und Stehen nicht im Gleichgewicht ausbalanciert werden müssen |
-| 100 | 50 | Beschränkung auf ein bestimmtes Fahrzeug/eine bestimmte Fahrgestellnummer (Angabe der Fahrzeugidentifizierungsnummer) |
-| 101 | 51 | Nur ein bestimmtes Fahrzeug (amtliches Kennzeichen)* |
-| 102 | 61 | Beschränkung auf Fahrten bei Tag (z. B. eine Stunde nach Sonnenaufgang und eine Stunde vor Sonnenuntergang) |
-| 103 | 62 | Beschränkung auf Fahrten in einem Umkreis von … km vom Wohnsitz oder innerorts in …/innerhalb der Region … |
-| 104 | 63 | Fahren ohne Beifahrer |
-| 105 | 64 | Beschränkt auf Fahrten mit einer zulässigen Höchstgeschwindigkeit von nicht mehr als … km/h |
-| 106 | 65 | Fahren nur mit Beifahrer, der im Besitz eines Führerscheins von mindestens der gleichwertigen Klasse sein muss |
-| 107 | 66 | Ohne Anhänger |
-| 108 | 67 | Fahren auf Autobahnen nicht erlaubt |
-| 109 | 68 | Kein Alkohol |
-| 110 | 69 | Beschränkt auf Fahrzeuge mit einer alkoholempfindlichen Wegfahrsperre gemäß EN 50436 |
-| 111 | 70 | Umtausch des Führerscheins Nummer …, ausgestellt durch … (EU/UN-Unterscheidungszeichen, im Falle eines Drittlandes, z. B. „70.0123456789.NL“) |
-| 112 | 71 | Duplikat des Führerscheins Nummer … (EU/UN-Unterscheidungszeichen, im Falle eines Drittlandes, z. B. „71.987654321.HR“) |
-| 113 |  | (weggefallen) |
-| 114 | 73 | Nur für vierrädrige Kraftfahrzeuge der Klasse B (B1) |
-| 115 |  | (weggefallen) |
-| 116 |  | (weggefallen) |
-| 117 |  | (weggefallen) |
-| 118 |  | (weggefallen) |
-| 119 | 78 | Nur Fahrzeuge mit Automatikgetriebe |
-| 120 | 79 (…) | Nur Fahrzeuge, die den in Klammern angegebenen Spezifikationen entsprechen, bei Anwendung von Artikel 13 der Richtlinie 2006/126/EG |
-| 121 | 79 (C1E > 12 000 kg, L ≤ 3) |  |
-|  |  | Beschränkung der Klasse CE auf Grund der aus der bisherigen Klasse 3 resultierenden Berechtigung zum Führen von dreiachsigen Zügen mit Zugfahrzeug der Klasse C1 und mehr als 12 000 kg Gesamtmasse und von Zügen mit Zugfahrzeug der Klasse C1 und zulassungsfreien Anhängern, wobei die Gesamtmasse mehr als 12 000 kg betragen kann und von dreiachsigen Zügen aus einem Zugfahrzeug der Klasse C1 und einem Anhänger, bei denen die zulässige Gesamtmasse des Anhängers die Leermasse des Zugfahrzeugs übersteigt (nicht durch C1E abgedeckter Teil). Die vorgenannten Berechtigungen gelten nicht für Sattelzüge mit einer zulässigen Gesamtmasse von mehr als 7,5 t. Der Buchstabe L steht in dieser Schlüsselung für die Anzahl der Achsen. |
-| 122 | 79 (S1 ≤ 25/7 500 kg) |  |
-|  |  | Begrenzung der Klassen D und DE auf Kraftomnibusse mit 24 Fahrgastplätzen oder maximal 7 500 kg zulässiger Gesamtmasse, auch mit Anhänger. Die Angabe S1 steht in dieser Schlüsselung für die Anzahl der Sitzplätze, einschließlich Fahrersitz. |
-| 123 | 79 (L ≤ 3) |  |
-|  |  | Beschränkung der Klasse CE auf Kombinationen von nicht mehr als drei Achsen. Der Buchstabe L steht in dieser Schlüsselung für die Anzahl der Achsen. |
-| 124 | 79.01 | Nur zweirädrige Fahrzeuge mit oder ohne Beiwagen |
-| 125 | 79.02 | Nur dreirädrige Fahrzeuge der Klasse AM oder vierrädrige Leichtfahrzeuge der Klasse AM |
-| 126 | 79.03 | Nur dreirädrige Fahrzeuge |
-| 127 | 79.04 | Nur Fahrzeugkombinationen aus dreirädrigen Fahrzeugen und einem Anhänger mit einer zulässigen Gesamtmasse von höchstens 750 kg |
-| 128 | 79.05 | Krafträder der Klasse A1 mit einem Leistungsgewicht von mehr als 0,1 kW/kg |
-| 129 | 79.06 | Fahrzeuge (Fahrzeugkombination) der Klasse BE, sofern die zulässige Gesamtmasse des Anhängers 3 500 kg übersteigt |
-| 130 | 80 | Nur für Inhaber einer Fahrerlaubnis für dreirädrige Kraftfahrzeuge der Klasse A, die das 24. Lebensjahr noch nicht vollendet haben |
-| 131 | 81 | Nur für Inhaber einer Fahrerlaubnis für zweirädrige Krafträder der Klasse A, die das 21. Lebensjahr noch nicht vollendet haben |
-| 132 |  | (weggefallen) |
-| 133 | 95 | Kraftfahrerin/Kraftfahrer, die/der Inhaberin/Inhaber eines Befähigungsnachweises ist und die Befähigungspflicht nach dem Gesetz über die Grundqualifikation und die Weiterbildung der Fahrer bestimmter Kraftfahrzeuge für den Güter- oder Personenkraftverkehr bis zum … erfüllt [zum Beispiel: 95(01.01.14)] |
-| 134 | 96 | Fahrzeugkombinationen aus Fahrzeugen der Klasse B und einem Anhänger mit einer zulässigen Gesamtmasse von mehr als 750 kg, sofern die zulässige Gesamtmasse einer derartigen Kombination mehr als 3 500 kg, jedoch nicht mehr als 4 250 kg beträgt. |
-| 135 | 97 | Berechtigt nicht zum Führen eines Fahrzeugs der Klasse C1, das in den Geltungsbereich der Verordnung (EWG) Nr. 3821/85 des Rates fällt |
-| 136 | 99.01 | Sonderausfertigung, nur für die Dauer des vorübergehenden Schutzes gültig (Ersatz für verlorenen oder gestohlenen ukrainischen Führerschein) |
-
-Ia. Äquivalenz für entfallene Schlüsselzahlen der Europäischen Union
-
-| Lfd. Nr. | Entfallene Schlüsselzahl | Bei Ausstellung eines neuen Führerscheins einzutragende Schlüsselzahl |  |
-| --- | --- | --- | --- |
-| 1 | 05.01 | Nur bei Tageslicht | 61 |
-| 2 | 05.02 | In einem Umkreis von … km des Wohnsitzes oder innerorts/innerhalb der Region … | 62 |
-| 3 | 05.03 | Ohne Beifahrer/Sozius | 63 |
-| 4 | 05.04 | Beschränkt auf eine höchstzulässige Geschwindigkeit von nicht mehr als … km/h | 64 |
-| 5 | 05.05 | Nur mit Beifahrer, der im Besitz der Fahrerlaubnis ist | 65 |
-| 6 | 05.06 | Ohne Anhänger | 66 |
-| 7 | 05.07 | Nicht gültig auf Autobahnen | 67 |
-| 8 | 05.08 | Kein Alkohol | 68 |
-| 9 | 30 | Angepasste kombinierte Brems- und Beschleunigungsmechanismen | 32, ggf. in Kombination mit 20 und/oder 25 |
-| 10 | 72 | Nur Fahrzeuge der Klasse A mit einem Hubraum von höchstens 125 cm3 und einer Motorleistung von höchstens 11 kW (A1) | 79.05 |
-| 11 | 74 | Nur Fahrzeuge der Klasse C mit einer zulässigen Gesamtmasse von höchstens 7 500 kg (C1) | entfällt |
-| 12 | 75 | Nur Fahrzeuge der Klasse D mit höchstens 16 Sitzplätzen außer dem Fahrersitz (D1) | entfällt |
-| 13 | 76 | Nur Fahrzeuge der Klasse C mit einer zulässigen Gesamtmasse von höchstens 7 500 kg (C1), die einen Anhänger mit einer zulässigen Gesamtmasse von mindestens 750 kg mitführen, sofern die zulässige Gesamtmasse der Fahrzeugkombination 12 000 kg und die zulässige Gesamtmasse des Anhängers die Leermasse des Zugfahrzeugs nicht übersteigen (C1E) | entfällt |
-| 14 | 77 | Nur Fahrzeuge der Kategorie D mit höchstens 16 Sitzplätzen außer dem Fahrersitz (D1), die einen Anhänger mit einer zulässigen Gesamtmasse von mehr als 750 kg mitführen, sofern  a) die zulässige Gesamtmasse der Fahrzeugkombination 12 000 kg und die zulässige Gesamtmasse des Anhängers die Leermasse des Zugfahrzeugs nicht übersteigen und b) der Anhänger nicht zur Personenbeförderung verwendet wird (D1E) | entfällt |
-| 15 | 90 | Codes, die in Kombination mit Codes für an dem Fahrzeug vorgenommene Anpassungen verwendet werden | entfällt |
-
-II. nationale Schlüsselzahlen
-
-| Lfd. Nr. | Schlüsselzahl |  |
-| --- | --- | --- |
-| 1 | 104 | Muss ein gültiges ärztliches Attest mitführen |
-| 2 | 171 | Klasse C1, gültig auch für Kraftfahrzeuge der Klasse D mit einer zulässigen Gesamtmasse von nicht mehr als 7 500 kg, jedoch ohne Fahrgäste |
-| 3 | 172 | Klasse C, gültig auch für Kraftfahrzeuge der Klasse D, jedoch ohne Fahrgäste |
-| 4 | 174 | Klasse L, gültig auch zum Führen von Zugmaschinen mit einer durch die Bauart bestimmten Höchstgeschwindigkeit von nicht mehr als 40 km/h, auch mit einachsigem Anhänger (wobei Achsen mit einem Abstand von weniger als 1 m voneinander als eine Achse gelten) sowie Kombinationen aus diesen Zugmaschinen und Anhängern, wenn sie mit einer Geschwindigkeit von nicht mehr als 25 km/h geführt werden |
-| 5 | 175 | Klasse L, auch gültig zum Führen von Kraftfahrzeugen mit einer durch die Bauart bestimmten Höchstgeschwindigkeit von nicht mehr als 25 km/h und zum Führen von Kraftfahrzeugen mit Ausnahme der zu den Klassen A, A1, A2 und AM gehörenden mit einem Hubraum von nicht mehr als 50 cm3 |
-| 6 | 176 | Auflage: Bis zur Vollendung des 18. Lebensjahres nur für Fahrten im Inland und im Rahmen des Ausbildungsverhältnisses in dem staatlich anerkannten Ausbildungsberuf „Berufskraftfahrer/Berufskraftfahrerin“ oder „Fachkraft im Fahrbetrieb“ oder einem staatlich anerkannten Ausbildungsberuf, in dem vergleichbare Fertigkeiten und Kenntnisse zum Führen von Kraftfahrzeugen auf öffentlichen Straßen vermittelt werden |
-| 7 | 177 | Beschränkungen, Nebenbestimmungen und Zusatzangaben nach mitzuführendem Anhang zum Führerschein |
-| 8 | 178 | Auflage zur Klasse D oder D1: Nur Fahrten im Linienverkehr |
-| 9 | 179 | Auflage: Klasse D1 nur für Fahrten, bei denen überwiegend Familienangehörige befördert werden |
-| 10 | 180 | (weggefallen) |
-| 11 | 181 | Klasse T, nur gültig für Kraftfahrzeuge der Klasse S (seit dem 19.1.2013 AM) |
-| 12 | 182 | Auflagen zu den Klassen D1, D1E, D und DE: Bis zur Vollendung des 21. Lebensjahres nur Fahrten im Inland und im Rahmen des Ausbildungsverhältnisses in dem staatlich anerkannten Ausbildungsberuf „Berufskraftfahrer/Berufskraftfahrerin“ oder „Fachkraft im Fahrbetrieb“ oder einem staatlich anerkannten Ausbildungsberuf, in dem vergleichbare Fertigkeiten und Kenntnisse zum Führen von Kraftfahrzeugen auf öffentlichen Straßen vermittelt werden. Die Auflagen, nur im Rahmen des Ausbildungsverhältnisses von der Fahrerlaubnis Gebrauch zu machen, entfallen nach Abschluss der Ausbildung auch vor Vollendung des 21. Lebensjahres. |
-| 13 | 183 | (weggefallen) |
-| 14 | 184 | Auflagen: Bis zur Vollendung des 18. Lebensjahres Kraftfahrzeuge der Klasse B (und, sofern in der Prüfungsbescheinigung nicht durchgestrichen, der Klasse BE) und der Klasse B mit der Schlüsselzahl 96 1. nur in Begleitung einer in der Prüfungsbescheinigung nach Anlage 8b namentlich benannten Person und 2. nur, wenn die in der Prüfungsbescheinigung nach Anlage 8b namentlich benannte Person  a) Inhaber einer gültigen Fahrerlaubnis der Klasse B oder einer entsprechenden deutschen, einer EU/EWR- oder schweizerischen Fahrerlaubnis ist; die Fahrerlaubnis ist durch einen gültigen Führerschein nachzuweisen, der während des Begleitens mitzuführen und zur Überwachung des Straßenverkehrs berechtigten Personen auf Verlangen auszuhändigen ist, b) nicht 0,25 mg/l oder mehr Alkohol in der Atemluft oder 0,5 Promille oder mehr Alkohol im Blut oder eine Alkoholmenge im Körper hat, die zu einer solchen Atem- oder Blutalkoholkonzentration führt, und c) nicht unter der Wirkung eines in der Anlage zu § 24a des Straßenverkehrsgesetzes genannten berauschenden Mittels steht. Nummer 2 Buchstabe c gilt nicht, wenn die Substanz aus der bestimmungsgemäßen Einnahme eines für einen konkreten Krankheitsfall verschriebenen Arzneimittels herrührt. |
-| 15 | 185 | Auflagen zu den Klassen C und CE: Bis zur Vollendung des 21. Lebensjahres nur 1. bei Fahrten im Inland und 2. im Rahmen des Ausbildungsverhältnisses in dem staatlich anerkannten Ausbildungsberuf „Berufskraftfahrer/Berufskraftfahrerin“ oder „Fachkraft im Fahrbetrieb“ oder einem staatlich anerkannten Ausbildungsberuf, in dem vergleichbare Fertigkeiten und Kenntnisse zum Führen von Kraftfahrzeugen auf öffentlichen Straßen vermittelt werden.Die Auflagen nach Nummer 1 und 2 entfallen, auch vor Vollendung des 21. Lebensjahres, wenn der Fahrerlaubnisinhaber die Berufsausbildung abgeschlossen hat. |
-| 16 | 186 | Auflagen zu den Klassen D1 und D1E: Bis zur Vollendung des 21. Lebensjahres nur  1. bei Fahrten im Inland und 2. im Rahmen des Ausbildungsverhältnisses in dem staatlich anerkannten Ausbildungsberuf „Berufskraftfahrer/Berufskraftfahrerin“ oder „Fachkraft im Fahrbetrieb“ oder einem staatlich anerkannten Ausbildungsberuf, in dem vergleichbare Fertigkeiten und Kenntnisse zum Führen von Kraftfahrzeugen auf öffentlichen Straßen vermittelt werden.Die Auflage nach Nummer 1 entfällt, wenn der Fahrerlaubnisinhaber das 21. Lebensjahr vollendet hat. Die Auflage nach Nummer 2 entfällt, wenn der Fahrerlaubnisinhaber das 21. Lebensjahr vollendet oder die Berufsausbildung abgeschlossen hat. |
-| 17 | 187 | Auflagen zu den Klassen D und DE: Bis zur Vollendung des 24. Lebensjahres nur  1. bei Fahrten im Inland, 2. im Rahmen des Ausbildungsverhältnisses in dem staatlich anerkannten Ausbildungsberuf „Berufskraftfahrer/Berufskraftfahrerin“ oder „Fachkraft im Fahrbetrieb“ oder einem staatlich anerkannten Ausbildungsberuf, in dem vergleichbare Fertigkeiten und Kenntnisse zum Führen von Kraftfahrzeugen auf öffentlichen Straßen vermittelt werden und 3. bei Fahrten zur Personenbeförderung im Linienverkehr nach den §§ 42, 43 und 44 Personenbeförderungsgesetz bei Linienlängen von bis zu 50 Kilometern oder bei Fahrten ohne Fahrgäste.Die Auflage nach Nummer 1 entfällt, wenn der Fahrerlaubnisinhaber das 21. Lebensjahr vollendet und die Berufsausbildung abgeschlossen hat. Die Auflage nach Nummer 2 entfällt, wenn der Fahrerlaubnisinhaber die Berufsausbildung abgeschlossen hat. Die Auflage nach Nummer 3 entfällt, wenn der Fahrerlaubnisinhaber das 20. Lebensjahr vollendet hat. |
-| 18 | 188 | Auflage zu der Klasse C: Bis zur Vollendung des 21. Lebensjahres nur im Inland und nur bei Einsatzfahrten oder vom Vorgesetzten angeordneten Übungsfahrten und Schulungsfahrten mit Einsatzfahrzeugen der Feuerwehr, der Polizei, der nach Landesrecht anerkannten Rettungsdienste, des Technischen Hilfswerks und sonstiger Einheiten des Katastrophenschutzes. |
-| 19 | 189 | Auflage zu der Klasse D: Bis zur Vollendung des 24. Lebensjahres nur im Inland und nur bei Einsatzfahrten oder vom Vorgesetzten angeordneten Übungsfahrten und Schulungsfahrten mit Einsatzfahrzeugen der Feuerwehr, der Polizei, der nach Landesrecht anerkannten Rettungsdienste, des Technischen Hilfswerks und sonstiger Einheiten des Katastrophenschutzes. |
-| 20 | 190 | Auflage zu der Klasse C: Bis zur Vollendung des 21. Lebensjahres nur im Inland und nur für das Führen von Fahrzeugen, die zu Reparatur- oder Wartungszwecken in gewerbliche Fahrzeugwerkstätten verbracht und dort auf Anweisung eines Vorgesetzten Prüfungen auf der Straße unterzogen werden. |
-| 21 | 191 | Auflage zu der Klasse D: Bis zur Vollendung des 24. Lebensjahres nur im Inland und nur für das Führen von Fahrzeugen, die zu Reparatur- oder Wartungszwecken in gewerbliche Fahrzeugwerkstätten verbracht und dort auf Anweisung eines Vorgesetzten Prüfungen auf der Straße unterzogen werden. |
-| 22 |  | (weggefallen) |
-| 23 | 193 | Auflagen zu den Klassen D und DE: Bis zur Vollendung des 23. Lebensjahres nur bei Fahrten zur Personenbeförderung im Linienverkehr nach den §§ 42 und 43 PBefG bei Linienlängen von bis zu 50 Kilometer nach beschleunigter Grundqualifikation nach § 2 Absatz 2 BKrFQG. |
-| 24 | 194 | Klasse B berechtigt im Inland a) bis zur Vollendung des 21. Lebensjahres zum Führen von dreirädrigen Kraftfahrzeugen der Klasse A1 b) nach Vollendung des nach Buchstabe a vorgeschriebenen Mindestalters zum Führen von dreirädrigen Kraftfahrzeugen der Klasse A. |
-| 25 | 195 | Auflage zu der Klasse AM: Bis zur Vollendung des 16. Lebensjahres nur im Inland. |
-| 26 | 196 | Im Inland Krafträder (auch mit Beiwagen) mit einem Hubraum von bis zu 125 cm3, einer Motorleistung von nicht mehr als 11 kW, bei denen das Verhältnis der Leistung zum Gewicht 0,1 kW/kg nicht übersteigt. |
-| 27 | 197 | Die Prüfung wurde auf einem Kraftfahrzeug mit Automatikgetriebe abgelegt und eine praktische Ausbildung zum Führen von Fahrzeugen der Klasse B mit Schaltgetriebe wurde absolviert (§ 17a FeV). |
-
-IIa. Entfallene nationale Schlüsselzahlen
-
-| Lfd. Nr. | Entfallene Schlüsselzahl |  |
-| --- | --- | --- |
-| 1 | 192 | Berechtigt abweichend von § 6 Absatz 1 der Fahrerlaubnis-Verordnung zum Führen von Fahrzeugen der Fahrerlaubnisklasse B, deren zulässige Gesamtmasse 3 500 kg übersteigt, jedoch nicht mehr als 4 250 kg beträgt, soweit  1. die Fahrzeuge  a) elektrisch betrieben und b) im Bereich Gütertransport eingesetztsind und 2. der Inhaber der Fahrerlaubnis an einer zusätzlichen Fahrzeugeinweisung teilgenommen hat. |
 
 
 ### Anlage 10 (zu den §§ 26 und 27)Dienstfahrerlaubnisse der Bundeswehr

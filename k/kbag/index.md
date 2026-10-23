@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1951, 488
 
 Zuletzt geändert durch
-:   Art. 4 G v. 12.5.2026 I Nr. 142
+:   Art. 4 G v. 12.5.2026 I Nr. 142, Nr. 316
 
 
 ## § 1
@@ -206,12 +206,20 @@ Verkehr. Es bestimmt den Dienstsitz des Kraftfahrt-Bundesamts.
     des Herstellers und Vertreibers von Führerscheinen und
     Fahrerqualifizierungsnachweisen,
 
+6a. die Durchführung des Ausschreibungsverfahrens zur Bestimmung des
+    technischen Dienstleisters zur technischen Generierung digitaler
+    Führerscheine,
+
 7.  die Bewertung der Qualitätssicherung bei der Herstellung
     und dem Vertrieb von Fahrerkarten, Führerscheinen,
     Fahrerqualifizierungsnachweisen, Zulassungsbescheinigungen, Plaketten,
     Prüffolien und Stempeln, um die vorgeschriebene und ordnungsgemäße
     Herstellung, Verwahrung und Verteilung dieser Karten, Scheine,
     Nachweise, Papiere, Plaketten, Folien und Stempel zu gewährleisten,
+
+7a. die Bewertung der Qualitätssicherung bei der technischen Generierung
+    des digitalen Führerscheins, um dessen vorgeschriebene und
+    ordnungsgemäße technische Generierung zu gewährleisten,
 
 8.  die Zusammenarbeit mit Behörden oder Stellen ausländischer Staaten
     oder der Europäischen Union auf den Gebieten des Straßenverkehrs und

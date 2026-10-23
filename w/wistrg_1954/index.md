@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 3.6.1975 I 1313;
 
 Zuletzt geändert durch
-:   Art. 76 G v. 10.8.2021 I 3436
+:   Art. 2 G v. 19.10.2026 I Nr. 314
 
 
 ## Erster Abschnitt - Ahndung von Zuwiderhandlungen im Bereich des Wirtschaftsrechts

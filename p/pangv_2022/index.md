@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 8 G v. 12.5.2026 I Nr. 139
 
+Änderung durch
+:   Art. 3 G v. 19.10.2026 I Nr. 314 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand
 :   Ersetzt V 720-17-1 v. 14.3.1985 I 580 (PAngV)
 
