@@ -15,11 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2013, 3115
 
-Geändert durch
-:   Art. 5 G v. 9.6.2021 I 1730
-
-Änderung durch
-:   Art. 20 G v. 22.7.2026 I Nr. 224 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+Zuletzt geändert durch
+:   Art. 20 G v. 22.7.2026 I Nr. 224
 
 
 ## § 1 Anwendungsbereich

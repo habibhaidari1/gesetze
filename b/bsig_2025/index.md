@@ -15,14 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl. I: 2025, Nr. 301, 2
 
-Geändert durch
-:   Art. 4 G v. 11.3.2026 I Nr. 66
-
-Änderung durch
-:   Art. 9 G v. 21.7.2026 I Nr. 221 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 8 Abs. 1 G v. 23.7.2026 I Nr. 226 ist berücksichtigt
+Zuletzt geändert durch
+:   Art. 8 Abs. 1 G v. 23.7.2026 I Nr. 226
 
 Stand
 :   Ersetzt G 206-2 v. 14.8.2009 I 2821 (BSIG 2009)

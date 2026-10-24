@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl II: 1967, 1563
 
 Zuletzt geändert durch
-:   Art. 2 V v. 5.4.2019 I 479
-
-Änderung durch
-:   Art. 22 G v. 22.7.2026 I Nr. 224 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 22 G v. 22.7.2026 I Nr. 224
 
 
 ## Eingangsformel

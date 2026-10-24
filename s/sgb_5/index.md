@@ -12118,8 +12118,6 @@ gegliedert nach den Altersgruppen des Vordrucks KM 6 der Statistik
 über die Versicherten in der gesetzlichen Krankenversicherung bis zum
 1\. Oktober des Jahres mitzuteilen.
 
-(3a) (weggefallen)
-
 (4) Die Kassenzahnärztliche Vereinigung verteilt die
 Gesamtvergütungen an die Vertragszahnärzte. Sie wendet dabei in
 der vertragszahnärztlichen Versorgung den im Benehmen mit den
