@@ -2654,49 +2654,6 @@ Behörde nach, dass ein längerer Zeitraum gerechtfertigt ist.
 (2) § 31c Absatz 2 ist entsprechend anzuwenden.
 
 
-#### § 31e (weggefallen)
-
-
-#### § 31f (weggefallen)
-
-
-#### § 31g (weggefallen)
-
-
-#### § 31h (weggefallen)
-
-
-#### § 31i (weggefallen)
-
-
-#### § 31j (weggefallen)
-
-
-#### § 31k (weggefallen)
-
-
-#### § 31l Übergangsregelungen zu den §§ 31e bis 31k
-
-(1) Die Regelungen der §§ 31e bis 31k sind auf bereits vor ihrem
-Inkrafttreten begonnene, aber noch nicht abgeschlossene Verfahren
-anzuwenden. Ein Verfahrensschritt, der bereits begonnen, aber noch
-nicht abgeschlossen wurde, ist neu zu beginnen, wenn er nach den §§
-31e bis 31k durchgeführt wird. Ein Verfahrensschritt nach Satz 2 muss
-nicht beendet werden, wenn er nach den §§ 31e bis 31k entfallen kann.
-
-(2) Abweichend von Absatz 1 soll ein Verfahrensschritt, der bereits
-begonnen, aber noch nicht abgeschlossen wurde, nach den Vorschriften,
-die zum Zeitpunkt des Beginns des Verfahrens galten, beendet werden,
-wenn der Verfahrensschritt hiernach schneller abgeschlossen werden
-kann.
-
-(3) Für Verfahrensschritte, bei denen von einer Regelung nach den §§
-31e bis 31k Gebrauch gemacht worden ist und die bei Außerkrafttreten
-der §§ 31e bis 31k noch nicht abgeschlossen sind, gelten die
-Bestimmungen der §§ 31e bis 31k bis zum Abschluss des jeweiligen
-Verfahrensschrittes weiter.
-
-
 #### § 31m Abweichungen im Fall einer Krise
 
 (1) Die zuständige Behörde kann auf Antrag des Betreibers in

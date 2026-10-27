@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1980, 1310
 
 Zuletzt geändert durch
-:   Art. 4 G v. 30.9.2026 I Nr. 286
-
-Änderung durch
-:   Art. 4 G v 13.10.2026 I Nr. 304 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 4 G v 13.10.2026 I Nr. 304
 
 
 ## Eingangsformel
