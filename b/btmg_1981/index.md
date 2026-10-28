@@ -24,6 +24,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 8 G v. 26.6.2026 I Nr. 195 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 12 Abs. 1 G v. 22.10.2026 I Nr. 318 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erster Abschnitt - Begriffsbestimmungen
 
@@ -1122,7 +1125,7 @@ Bundespolizeigesetzes betraut sind, und im Einvernehmen mit dem
 Bayerischen Staatsminister des Innern die Beamten der Bayerischen
 Grenzpolizei mit der Wahrnehmung von Aufgaben betrauen, die den
 Zolldienststellen nach Absatz 1 obliegen. Nehmen die im Satz 1
-bezeichneten Beamten diese Aufgaben wahr, gilt § 67 Abs. 2 des
+bezeichneten Beamten diese Aufgaben wahr, gilt § 101 Absatz 2 des
 Bundespolizeigesetzes entsprechend.
 
 (3) Bei Verdacht von Verstößen gegen Verbote und Beschränkungen

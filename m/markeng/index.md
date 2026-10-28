@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 14 G v. 20.5.2026 I Nr. 152
 
+Änderung durch
+:   Art. 2 G v. 22.10.2026 I Nr. 322 mWv 9.12.2027 noch nicht berücksichtigt
+
 Stand
 :   Die §§ 119 bis 125 sind gem. Bek. v. 24.4.1996 I 682 mWv 20.3.1996 in Kraft getreten.
 

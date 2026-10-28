@@ -24,6 +24,9 @@ Zuletzt geändert durch
 Änderung durch
 :   Art. 6 G v. 26.6.2026 I Nr. 195 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
+Änderung durch
+:   Art. 3 G v. 22.10.2026 I Nr. 321 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erster Abschnitt - Zweck des Gesetzes und Begriffsbestimmungen, Anwendungsbereich
 

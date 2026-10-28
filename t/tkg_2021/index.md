@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 6 V v. 6.10.2026 I Nr. 289
 
+Änderung durch
+:   Art. 12 Abs. 15 G v. 22.10.2026 I Nr. 318 mWv 28.10.2026 noch nicht berücksichtigt
+
 Stand
 :   Ersetzt G v. 22.6.2004 I 1190 (TKG 2004)
 

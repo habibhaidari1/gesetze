@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 6 G v. 12.5.2026 I Nr. 139
 
+Änderung durch
+:   Art. 5 u. 6 G v. 22.10.2026 I Nr. 322 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Kapitel 1 - Allgemeine Bestimmungen
 
@@ -1217,6 +1220,30 @@ Deutschen Demokratischen Republik erworben hat.
 
 (2) Die §§ 13 und 13a Absatz 2 und 3 sind nicht anzuwenden auf
 Abmahnungen, die vor dem 2. Dezember 2020 bereits zugegangen sind.
+
+
+### § 15b Sondervorschriften zum Dritten Gesetz zur Änderung des Gesetzes gegen den unlauteren Wettbewerb
+
+Die Geltendmachung von Ansprüchen nach § 8 Absatz 1 wegen Verstößen
+gegen § 5 Absatz 2 Nummer 1 im Hinblick auf ökologische oder soziale
+Merkmale und Zirkularitätsaspekte wie Haltbarkeit, Reparierbarkeit
+oder Recyclingfähigkeit sowie wegen Verstößen gegen § 5 Absatz 3
+Nummer 3 oder 4, § 5b Absatz 3a sowie die Nummern 2a, 4a, 4b, 4c,
+10a und 23d des Anhangs im Hinblick auf vor dem 27. September 2026
+in Verkehr gebrachte Waren erfolgt nach Treu und Glauben unter
+Berücksichtigung des Grundsatzes der Verhältnismäßigkeit. Dabei
+sind im Rahmen einer umfassenden Interessenabwägung insbesondere zu
+berücksichtigen:
+
+1.  die Schwere des Rechtsverstoßes,
+
+2.  die vom Unternehmer unternommenen Anstrengungen zur Beseitigung des
+    Rechtsverstoßes,
+
+3.  die mit der Beseitigung des Rechtsverstoßes verbundenen Kosten und
+
+4.  die mit der Beseitigung des Rechtsverstoßes verbundenen
+    Umweltbelastungen.
 
 
 ## Kapitel 4 - Straf- und Bußgeldvorschriften

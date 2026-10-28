@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl. I: 2025, Nr. 301, 2
 
 Zuletzt geändert durch
-:   Art. 8 Abs. 1 G v. 23.7.2026 I Nr. 226
+:   Art. 8 G v. 22.10.2026 I Nr. 318
 
 Stand
 :   Ersetzt G 206-2 v. 14.8.2009 I 2821 (BSIG 2009)

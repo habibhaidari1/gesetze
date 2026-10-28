@@ -18,6 +18,9 @@ Fundstelle
 Geändert durch
 :   Art. 1 G v. 20.6.2024 I Nr. 207
 
+Änderung durch
+:   Art. 12 Abs. 2 G v. 22.10.2026 I Nr. 318 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Kapitel 1 - Allgemeine Vorschriften
 
@@ -263,15 +266,16 @@ der Umgang mit Cannabis durch Bundes- oder Landesbehörden für den
 Bereich ihrer dienstlichen Tätigkeit sowie durch die von ihnen mit der
 Untersuchung von Cannabis beauftragten Behörden.
 
-(6) Die Zollbehörden können im Rahmen der Wahrnehmung ihrer Aufgaben
-nach § 1 Absatz 3 des Zollverwaltungsgesetzes Waren, bei denen
-Grund zu der Annahme besteht, dass es sich um Cannabis handelt, das
-entgegen Absatz 1 in den, aus dem oder durch den Geltungsbereich
-dieses Gesetzes verbracht worden ist oder verbracht werden soll,
-sicherstellen. Die §§ 48 bis 50 des Bundespolizeigesetzes gelten
-entsprechend. Kosten, die den Zollbehörden durch die Sicherstellung
-und Verwahrung entstehen, sind vom Verantwortlichen zu tragen; die
-§§ 17 und 18 des Bundespolizeigesetzes gelten entsprechend. Mehrere
+(6) Die Zollbehörden können im Rahmen der Wahrnehmung ihrer
+Aufgaben nach § 1 Absatz 3 des Zollverwaltungsgesetzes Waren,
+bei denen Grund zu der Annahme besteht, dass es sich um Cannabis
+handelt, das entgegen Absatz 1 in den, aus dem oder durch den
+Geltungsbereich dieses Gesetzes verbracht worden ist oder verbracht
+werden soll, sicherstellen. Die §§ 71, 73 Absatz 1 und § 74
+Absatz 1 des Bundespolizeigesetzes gelten entsprechend. Kosten,
+die den Zollbehörden durch die Sicherstellung und Verwahrung
+entstehen, sind vom Verantwortlichen zu tragen; die §§ 18
+und 19 des Bundespolizeigesetzes gelten entsprechend. Mehrere
 Verantwortliche haften als Gesamtschuldner. Die Kosten können im
 Verwaltungsvollstreckungsverfahren beigetrieben werden.
 

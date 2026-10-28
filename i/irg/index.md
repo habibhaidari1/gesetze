@@ -21,6 +21,12 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 2 G v. 10.2.2026 I Nr. 39
 
+Änderung durch
+:   Art. 5 G v. 22.10.2026 I Nr. 320 mWv 28.10.2026 noch nicht berücksichtigt
+
+Mittelbare änderung durch
+:   Art. 15 Nr. 7 G v. 22.10.2026 I Nr. 321 ist berücksichtigt
+
 
 ## Erster Teil - Anwendungsbereich
 

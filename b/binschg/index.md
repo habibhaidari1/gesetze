@@ -21,6 +21,9 @@ Neugefasst durch
 Geändert durch
 :   Art. 14 G v. 22.12.2023 I Nr. 409
 
+Änderung durch
+:   Art. 8 G v. 22.10.2026 I Nr. 320 mWv 28.10.2026 noch nicht berücksichtigt
+
 
 ## § 1 Aufgaben des Bundes, Zuständigkeiten
 

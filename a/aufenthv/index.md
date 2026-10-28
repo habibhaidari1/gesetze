@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2004, 2945
 
 Zuletzt geändert durch
-:   Art. 11 G v. 22.7.2026 I Nr. 222
+:   Art. 12 Abs. 9 G v. 22.10.2026 I Nr. 318
 
 
 ## Kapitel 1 - Allgemeine Bestimmungen
@@ -4087,13 +4087,16 @@ handelt, wer vorsätzlich oder fahrlässig
 ### § 78 Verwaltungsbehörden im Sinne des Gesetzes über Ordnungswidrigkeiten
 
 Die Zuständigkeit für die Verfolgung und Ahndung von
-Ordnungswidrigkeiten wird bei Ordnungswidrigkeiten nach § 98
-Abs. 2 des Aufenthaltsgesetzes, wenn sie bei der Einreise oder
-der Ausreise begangen werden, und nach § 98 Abs. 3 Nr. 3 des
-Aufenthaltsgesetzes auf die in der Rechtsverordnung nach § 58 Abs. 1
-des Bundespolizeigesetzes bestimmte Bundespolizeibehörde übertragen,
-soweit nicht die Länder im Einvernehmen mit dem Bund Aufgaben des
-grenzpolizeilichen Einzeldienstes mit eigenen Kräften wahrnehmen.
+Ordnungswidrigkeiten wird bei Ordnungswidrigkeiten nach § 98 Absatz 2
+des Aufenthaltsgesetzes, wenn sie bei der Einreise oder der Ausreise
+begangen werden, nach § 98 Absatz 3 Nummer 2b des Aufenthaltsgesetzes,
+wenn die Anordnung durch eine mit der polizeilichen Kontrolle des
+grenzüberschreitenden Verkehrs beauftragte Behörde erfolgte, und
+nach § 98 Absatz 3 Nummer 3 des Aufenthaltsgesetzes auf die in
+der Rechtsverordnung nach § 93 Absatz 1 des Bundespolizeigesetzes
+bestimmte Bundespolizeibehörde übertragen, soweit nicht die Länder
+im Einvernehmen mit dem Bund Aufgaben des grenzpolizeilichen
+Einzeldienstes mit eigenen Kräften wahrnehmen.
 
 
 ## Kapitel 7 - Übergangs- und Schlussvorschriften

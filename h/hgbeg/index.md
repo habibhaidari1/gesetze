@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 G v. 23.10.2024 I Nr. 323
 
+Änderung durch
+:   Art. 8 G v. 22.10.2026 I Nr. 321 mWv 28.10.2026 noch nicht berücksichtigt
+
 
 ## Erster Abschnitt - Einführung des Handelsgesetzbuchs
 

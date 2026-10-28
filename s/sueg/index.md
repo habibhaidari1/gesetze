@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 G v. 9.1.2026 I Nr. 7
 
+Änderung durch
+:   Art. 11 G v. 22.10.2026 I Nr. 318 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erster Abschnitt - Allgemeine Vorschriften
 
@@ -638,11 +641,11 @@ Behörde folgende Maßnahmen:
 2a. soweit im Einzelfall erforderlich, bei ausländischen betroffenen
     Personen, die keine freizügigkeitsberechtigten Unionsbürger sind,
     Ersuchen um eine Übermittlung der nach § 3 Absatz 1 und 2 Nummer 5, 6
-    und 9 des AZR-Gesetzes gespeicherten Daten,
+    und 8 des AZR-Gesetzes gespeicherten Daten,
 
 3.  Anfragen an das Bundeskriminalamt, die in der Rechtsverordnung nach §
-    58 Abs. 1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde und
-    die Nachrichtendienste des Bundes,
+    93 Absatz 1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde
+    und die Nachrichtendienste des Bundes,
 
 4.  Anfragen an ausländische Sicherheitsbehörden oder nach dortigem
     Recht für solche Anfragen zuständige öffentliche Stellen bei
@@ -836,7 +839,7 @@ anzugeben:
 19. frühere Sicherheitsüberprüfungen und Zuverlässigkeitsüberprüfungen,
 
 20. die Adressen eigener Internetseiten und die Mitgliedschaften in
-    sozialen Netzwerken im Internet einschließlich der Benutzernamen
+    sozialen Netzwerken im Internet einschließlich der Benutzernamen.
 
 Der Sicherheitserklärung sind jeweils ein aktuelles Lichtbild der
 betroffenen Person und der mitbetroffenen Person mit der Angabe des
@@ -845,14 +848,15 @@ Lichtbilder verlangt werden. Die Lichtbilder dürfen für einen
 automatisierten Abgleich mit Datenbanken genutzt werden.
 
 (2) Bei der Sicherheitsüberprüfung nach § 8 entfallen die Angaben
-zu Absatz 1 Nummer 11 und 12; Angaben zu Absatz 1 Nummer 12 dürfen
-nachträglich erhoben werden, soweit Maßnahmen nach § 12 Absatz 1
-Nummer 4 zu treffen sind. Angaben zu Absatz 1 Nummer 10 entfallen,
-soweit die dort genannten Personen nicht in einem Haushalt mit der
-betroffenen Person leben. Zur Person der Ehegattin, des Ehegatten,
-der Lebenspartnerin, des Lebenspartners, der Lebensgefährtin oder des
-Lebensgefährten sind mit deren Einverständnis die in Absatz 1 Nummer 1
-bis 4, 8, 14, 14a, 15 und 17 genannten Daten anzugeben.
+zu Absatz 1 Satz 1 Nummer 11 und 12; Angaben zu Absatz 1 Satz 1
+Nummer 12 dürfen nachträglich erhoben werden, soweit Maßnahmen nach
+§ 12 Absatz 1 Nummer 4 zu treffen sind. Angaben zu Absatz 1 Satz
+1 Nummer 10 entfallen, soweit die dort genannten Personen nicht
+in einem Haushalt mit der betroffenen Person leben. Zur Person der
+Ehegattin, des Ehegatten, der Lebenspartnerin, des Lebenspartners, der
+Lebensgefährtin oder des Lebensgefährten sind mit deren Einverständnis
+die in Absatz 1 Satz 1 Nummer 1 bis 4, 8, 14, 14a, 15 und 17 genannten
+Daten anzugeben.
 
 (3) Zur mitbetroffenen Person sind zusätzlich die in Absatz 1 Nummer 5
 bis 7, 12, 13, 16, 16a und 20 genannten Daten anzugeben.
@@ -1023,8 +1027,10 @@ zählen:
 Die betroffene Person ist ab dem Zeitpunkt der Abgabe der
 Sicherheitserklärung fortlaufend verpflichtet, der zuständigen
 Stelle unverzüglich die folgenden eintretenden oder bekanntgewordenen
-Umstände, auch im Hinblick auf die mitbetroffene Person, in Textform
-anzuzeigen:
+Umstände, auch im Hinblick auf die nach § 13 erforderlichen Angaben
+zur Person der Ehegattin, des Ehegatten, der Lebenspartnerin, des
+Lebenspartners, der Lebensgefährtin oder des Lebensgefährten, in
+Textform anzuzeigen:
 
 1.  Kontakte zu ausländischen Nachrichtendiensten,
 
@@ -1093,7 +1099,7 @@ Wiederholungsüberprüfung erfolgt nur mit Zustimmung
 
 2.  der mitbetroffenen Person.
 
-§ 14 Absatz 4 Satz 2 findet keine Anwendung.
+§ 14 Absatz 5 Satz 2 findet keine Anwendung.
 
 (3) Die zuständige Stelle kontrolliert die Einhaltung der Fristen
 gemäß Absatz 1 Satz 1 und Absatz 2 Satz 1 in der Regel mithilfe einer
@@ -1102,7 +1108,7 @@ elektronischen Erinnerungsfunktion.
 (4) Verweigert die betroffene Person oder die mitbetroffene Person
 die erforderliche Mitwirkung bei den Maßnahmen nach den Absätzen 1
 und 2, ist die weitere Betrauung der betroffenen Person mit einer
-sicherheitsempfindlichen Tätigkeit unzulässig. § 14 Absatz 5 Satz 2
+sicherheitsempfindlichen Tätigkeit unzulässig. § 14 Absatz 4 Satz 2
 gilt entsprechend.
 
 
@@ -1691,7 +1697,8 @@ Rechtsvorschriften über- oder zwischenstaatlicher Einrichtungen oder
 völkerrechtlichen Verträgen, denen die gesetzgebenden Körperschaften
 gemäß Artikel 59 Absatz 2 des Grundgesetzes zugestimmt haben, etwas
 anderes bestimmt ist. Die mitwirkende Behörde trifft die je nach
-Ersuchen erforderlichen Maßnahmen gemäß § 12 Absatz 1 oder 2.
+Ersuchen erforderlichen Maßnahmen gemäß § 12 Absatz 1, 2 oder 5 Satz
+4\.
 
 (2) Die Mitwirkung unterbleibt, wenn auswärtige Belange der
 Bundesrepublik Deutschland oder überwiegende schutzwürdige Interessen
@@ -1734,9 +1741,9 @@ Absätzen 2 bis 4 nichts anderes bestimmt ist.
 
 (2) Die allgemeinen Verwaltungsvorschriften zur Ausführung dieses
 Gesetzes im nichtöffentlichen Bereich mit Ausnahme der Fälle des §
-4 Absatz 6 Nummer 1 Buchstabe a erlässt das Bundesministerium für
-Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium des
-Innern.
+4 Absatz 6 Nummer 1 Buchstabe a und Nummer 2 Buchstabe a erlässt das
+Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem
+Bundesministerium des Innern.
 
 (3) Die allgemeinen Verwaltungsvorschriften zur Ausführung dieses
 Gesetzes im Geschäftsbereich des Bundesministeriums der Verteidigung
@@ -1751,14 +1758,16 @@ Bundesministerium des Innern.
 
 ### § 36 Anwendung des Bundesdatenschutzgesetzes, Bundesverfassungsschutzgesetzes, MAD-Gesetzes und BND-Gesetzes
 
-(1) Die Vorschriften des Bundesdatenschutzgesetzes finden wie folgt
-Anwendung:
+(1) Das Bundesdatenschutzgesetz findet wie folgt Anwendung:
 
-1.  § 1 Absatz 8, § 16 Absatz 1 und 4 und die §§ 17 bis 21 sowie § 85
-    finden keine Anwendung,
+1.  Teil 1 ist mit Ausnahme von § 1 Absatz 8, § 16 Absatz 1 und 4 und §§
+    17 bis 21 anzuwenden,
 
-2.  die §§ 42, 46, 51 Absatz 1 und 3, die §§ 52, 53, 54 Absatz 1 und 2
-    sowie die §§ 62, 64, 83 sind entsprechend anzuwenden.
+2.  aus den Teilen 2 und 3 sind die §§ 42, 46, 51 Absatz 1 und 3, die §§
+    52, 53, 54 Absatz 1 und 2 sowie die §§ 62, 64, 83 jeweils entsprechend
+    anzuwenden,
+
+3.  aus Teil 4 ist § 86 anzuwenden.
 
 (2) Zudem sind anzuwenden:
 

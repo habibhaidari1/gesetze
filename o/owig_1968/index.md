@@ -21,6 +21,12 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 21 G v. 22.12.2025 I Nr. 349
 
+Änderung durch
+:   Art. 7 G v. 22.10.2026 I Nr. 321 mWv 28.10.2026 noch nicht berücksichtigt
+
+Stand
+:   Mittelbare Änderung gem. Art. 15 G v. 22.10.2026 I Nr. 321 mWv 28.10.2026 noch nicht berücksichtigt
+
 
 ## Erster Teil - Allgemeine Vorschriften
 

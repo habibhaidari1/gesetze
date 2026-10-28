@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 21.9.1994 I 2494; 1997, 1061;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 16.7.2026 I Nr. 212
+:   Art. 16 G v. 22.10.2026 I Nr. 321
 
 
 ## Erster Teil - Allgemeine Vorschriften
@@ -4327,12 +4327,13 @@ Gesetzbuchs in der Fassung vom 1. Januar 2025 anzuwenden.
 ##### § 72 Übergangsvorschrift zum Gesetz zur Umsetzung der Richtlinie (EU) 2024/1799 zur Förderung der Reparatur von Waren sowie zur Verbesserung der Verfügbarkeit von Vorsorgeverfügungen
 
 Auf einen Kaufvertrag, der vor dem 31. Juli 2026 geschlossen worden
-ist, sind die Vorschriften dieses Gesetzes und des Bürgerlichen
-Gesetzbuchs in der bis einschließlich 30. Juli 2026 geltenden Fassung
-anzuwenden. Die Neuregelung in § 434 Absatz 3 Satz 2 des Bürgerlichen
-Gesetzbuchs, wonach die Reparierbarkeit zu den sonstigen Merkmalen
-der Sache gehört, ist erst auf Kaufverträge zwischen Unternehmern
-anzuwenden, die nach dem 31. Dezember 2027 geschlossen werden.
+ist, sind die Vorschriften dieses Gesetzes und die §§ 434 bis 479
+des Bürgerlichen Gesetzbuchs in der bis einschließlich 22. Juli
+2026 geltenden Fassung anzuwenden. Die Neuregelung in § 434 Absatz
+3 Satz 2 des Bürgerlichen Gesetzbuchs, wonach die Reparierbarkeit zu
+den sonstigen Merkmalen der Sache gehört, ist erst auf Kaufverträge
+zwischen Unternehmern anzuwenden, die nach dem 31. Dezember 2027
+geschlossen werden.
 
 
 ## Sechster Teil - Inkrafttreten und Übergangsrecht aus Anlaß der Einführung des Bürgerlichen Gesetzbuchs und dieses Einführungsgesetzes in dem in Art 3 des Einigungsvertrages genannten Gebiet

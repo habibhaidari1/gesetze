@@ -16,10 +16,13 @@ Fundstelle
 :   BGBl I: 1995, 695
 
 Zuletzt geändert durch
-:   Art. 15 G v 22.7.2026 I Nr. 222
+:   Art. 15 G v. 22.7.2026 I Nr. 222
 
 Änderung durch
-:   Art. 17 G v 22.7.2026 I Nr. 222 mWv 1.11.2027 bzw. 1.5.2028 noch nicht berücksichtigt
+:   Art. 17 G v. 22.7.2026 I Nr. 222 mWv 1.11.2027 bzw. 1.5.2028 noch nicht berücksichtigt
+
+Änderung durch
+:   Art. 12 Abs. 8 G v. 22.10.2026 I Nr. 318 mWv 28.10.2026 noch nicht berücksichtigt
 
 
 ## Eingangsformel

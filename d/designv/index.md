@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 3 V v. 24.6.2026 I Nr. 193
 
+Änderung durch
+:   Art. 4 G v. 22.10.2026 I Nr. 322 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Abschnitt 1 - Allgemeines
 

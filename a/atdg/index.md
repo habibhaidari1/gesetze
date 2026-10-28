@@ -18,14 +18,17 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 Abs. 1 G v. 30.3.2021 I 402
 
+Änderung durch
+:   Art. 12 Abs. 6 G v. 22.10.2026 I Nr. 318 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Das g tritt gem. art. 5 abs. 2 g v. 22.12.2006 i 3409 mit ablauf des 30.12.2017 außer kraft, art. 5 abs. 2 aufgeh. durch
 :   Art. 4 Satz 3 G v. 18.12.2014 I 2318 mWv 1.1.2015; dadurch ist die Geltung des G über den 30.12.2017 hinaus verlängert worden
 
 
 ## § 1 Antiterrordatei
 
-(1) Das Bundeskriminalamt, die in der Rechtsverordnung nach § 58
-Abs. 1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde, die
+(1) Das Bundeskriminalamt, die in der Rechtsverordnung nach § 93
+Absatz 1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde, die
 Landeskriminalämter, die Verfassungsschutzbehörden des Bundes und der
 Länder, der Militärische Abschirmdienst, der Bundesnachrichtendienst
 und das Zollkriminalamt (beteiligte Behörden) führen beim

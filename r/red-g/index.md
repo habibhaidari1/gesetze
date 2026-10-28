@@ -18,10 +18,13 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 2 Abs. 2 G v. 30.3.2021 I 402
 
+Änderung durch
+:   Art. 12 Abs. 5 G v. 22.10.2026 I Nr. 318 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1 Datei zur Bekämpfung des gewaltbezogenen Rechtsextremismus
 
-(1) Das Bundeskriminalamt, die in der Rechtsverordnung nach § 58
+(1) Das Bundeskriminalamt, die in der Rechtsverordnung nach § 93
 Absatz 1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde,
 die Landeskriminalämter, die Verfassungsschutzbehörden des Bundes
 und der Länder sowie der Militärische Abschirmdienst führen beim

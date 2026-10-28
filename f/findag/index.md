@@ -18,6 +18,12 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 6 G v. 25.9.2026 I Nr. 275
 
+Änderung durch
+:   Art. 9 G v. 22.10.2026 I Nr. 320 mWv 20.11.2026 noch nicht berücksichtigt
+
+Mittelbare änderung durch
+:   Art. 10 G v. 22.10.2026 I Nr. 320 mWv 28.10.2026 noch nicht berücksichtigt
+
 
 ## Erster Abschnitt - Errichtung, Aufsicht, Aufgaben
 

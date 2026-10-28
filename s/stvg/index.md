@@ -21,6 +21,9 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 1 G v. 25.9.2026 I Nr. 276
 
+Änderung durch
+:   Art. 7 G v. 22.10.2026 I Nr. 320 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Entfristung durch
 :   Art. 1 G v. 3.12.2020 I 2667 ist berücksichtigt
 
@@ -4717,10 +4720,14 @@ erfolgen
 
 3.  an die Verfassungsschutzbehörden, den Militärischen Abschirmdienst
     und den Bundesnachrichtendienst zur Erfüllung ihrer durch Gesetz
-    übertragenen Aufgaben und
+    übertragenen Aufgaben,
 
 4.  an die Zentralstelle für Finanztransaktionsuntersuchungen zur
-    Erfüllung ihrer Aufgaben nach dem Geldwäschegesetz.
+    Erfüllung ihrer Aufgaben nach dem Geldwäschegesetz und
+
+5.  an die Staatsanwaltschaften zur Erfüllung ihrer Aufgaben als
+    Vermögensabschöpfungsstelle nach Artikel 5 der Richtlinie (EU)
+    2024/1260 in der Fassung vom 24. April 2024.
 
 Satz 1 gilt entsprechend für den Abruf der örtlich zuständigen
 Polizeidienststellen der Länder und Verwaltungsbehörden im Sinne des §

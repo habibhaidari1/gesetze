@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 25.2.2008 I 162;
 
 Zuletzt geändert durch
-:   Art. 13 G v. 22.7.2026 I Nr. 222
+:   Art. 5 G v. 22.10.2026 I Nr. 318
 
 Mittelbare änderung durch
 :   Art. 4 G v. 20.12.2023 I Nr. 390 betreffend § 104 Abs. 17 ist nicht mehr ausführbar
@@ -8533,6 +8533,24 @@ Verkehrs beauftragten Behörden sind zuständig für
     9, §§ 73 und 82 Absatz 3a, wenn der Ausländer von ihnen bei Erfüllung
     ihrer grenzpolizeilichen Aufgaben festgestellt wird.
 
+(3a) Ungeachtet der Zuständigkeit nach Absatz 3 ist die Bundespolizei
+für die Stellung des Erstantrags auf Haft oder Ausreisegewahrsam und
+die Festnahme zur Vorbereitung und Sicherung einer Abschiebung und
+Zurückschiebung von Ausländern zuständig, sofern
+
+1.  diese im Zuständigkeitsbereich der Bundespolizei festgestellt wurden,
+
+2.  diese vollziehbar ausreisepflichtig sind und
+
+3.  deren Abschiebung nicht oder nach § 60a Absatz 2 Satz 1 erste
+    Alternative auf Grund von fehlenden Reisedokumenten ausgesetzt ist
+    und nach Einschätzung der Bundespolizei die notwendigen Reisedokumente
+    innerhalb von sechs Monaten beschafft werden können.
+
+Die Zuständigkeiten für die weiteren aufenthalts- und passrechtlichen
+Maßnahmen und für Haftfolgeanträge gegen Ausländer nach Satz 1 richten
+sich nach den Absätzen 1, 4 und 5.
+
 (4) Für die erforderlichen Maßnahmen nach den §§ 48, 48a und 49
 Absatz 2 bis 9 sind die Ausländerbehörden, die Polizeivollzugsbehörden
 der Länder sowie bei Wahrnehmung ihrer gesetzlichen Aufgaben
@@ -9200,8 +9218,8 @@ Hoheitsgebiet zurückübernehmen, wenn ihnen dies von den zuständigen
 Behörden gestattet wurde (Durchbeförderung). Die Durchbeförderung
 erfolgt auf der Grundlage zwischenstaatlicher Vereinbarungen
 und Rechtsvorschriften der Europäischen Union. Zentrale Behörde
-nach Artikel 4 Abs. 5 der Richtlinie 2003/110/EG ist die in
-der Rechtsverordnung nach § 58 Abs. 1 des Bundespolizeigesetzes
+nach Artikel 4 Abs. 5 der Richtlinie 2003/110/EG ist die in der
+Rechtsverordnung nach § 93 Absatz 1 des Bundespolizeigesetzes
 bestimmte Bundespolizeibehörde. Der durchbeförderte Ausländer hat die
 erforderlichen Maßnahmen im Zusammenhang mit seiner Durchbeförderung
 zu dulden.
@@ -10075,8 +10093,9 @@ besitzt, persönlich erscheint und die zur Klärung seiner Identität
 erforderlichen Angaben macht sowie eine ärztliche Untersuchung
 zur Feststellung der Reisefähigkeit durchgeführt wird. Kommt der
 Ausländer einer Anordnung nach Satz 1 nicht nach, kann sie zwangsweise
-durchgesetzt werden. § 40 Abs. 1 und 2, die §§ 41, 42 Abs. 1 Satz 1
-und 3 des Bundespolizeigesetzes finden entsprechende Anwendung.
+durchgesetzt werden. § 62 Absatz 1 und 2 sowie die §§ 63 und 65
+Absatz 1 Satz 1 und 3 des Bundespolizeigesetzes finden entsprechende
+Anwendung.
 
 (5) Der Ausländer, für den nach diesem Gesetz, dem Asylgesetz oder den
 zur Durchführung dieser Gesetze erlassenen Bestimmungen ein Dokument

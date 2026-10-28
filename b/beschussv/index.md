@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 1.10.2021 I 4622
 
+Änderung durch
+:   Art. 12 Abs. 10 G v. 22.10.2026 I Nr. 318 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -2585,8 +2588,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote )
 |  | **Abbildung 8** Prüfzeichen nach § 25 Abs. 2 für Geräte nach § 24 Abs. 1. Die Zahl im kleineren Quadrat bezeichnet die zwei letzten Ziffern der Jahreszahl, die einstellige Zahl in Richtung der Laufmündung das Quartal. |
 | **Abbildung 9 Prüfzeichen der Beschaffungsstellen für die Bundeswehr, der Bundespolizei und die Bereitschaftspolizeien der Länder (§ 9 Abs. 1 Satz 3)** |  |
 |  | Beschuss  bei Schusswaffen, die vom Bundesamt für Wehrtechnik und Beschaffung beschossen wurden |
-|  | Erstbeschuss  bei Schusswaffen, die von der in der Rechtsverordnung nach § 58 Abs. 1 des Bundespolizeigesetzes bestimmten Bundespolizeibehörde beschossen wurden |
-|  | Instandsetzungsbeschuss  bei Schusswaffen, die von der in der Rechtsverordnung nach § 58 Abs. 1 des Bundespolizeigesetzes bestimmten Bundespolizeibehörde erneut beschossen wurden |
+|  | Erstbeschuss  bei Schusswaffen, die von der in der Rechtsverordnung nach § 93 Absatz 1 des Bundespolizeigesetzes bestimmten Bundespolizeibehörde beschossen wurden |
+|  | Instandsetzungsbeschuss  bei Schusswaffen, die von der in der Rechtsverordnung nach § 93 Absatz 1 des Bundespolizeigesetzes bestimmten Bundespolizeibehörde erneut beschossen wurden |
 |  | **Abbildung 10** Kennzeichen für Schusswaffen, deren Geschossen eine Bewegungsenergie von nicht mehr als 7,5 J erteilt wird (§ 7 Abs. 1 Satz 2 Nr. 1 und § 9 Abs. 2 Satz 1 Nr. 1 des Gesetzes) |
 
 | **Abbildung 11** Zulassungszeichen nach Bauartprüfungen gemäß § 9 Abs. 1 des Gesetzes |  |  |  |

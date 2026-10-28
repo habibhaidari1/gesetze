@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 G v. 7.1.2026 I Nr. 2
 
+Änderung durch
+:   Art. 7 G v. 22.10.2026 I Nr. 318 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1 Anwendungsbereich
 
@@ -107,20 +110,21 @@ Im Sinne dieses Gesetzes ist
     Stoffes nur unter unverhältnismäßigem Aufwand zulässt.
 
 (3) In den Fällen des Absatzes 1 erfolgen die Sicherstellung, die
-Verwahrung und die Vernichtung von neuen psychoaktiven Stoffen nach
-den §§ 47 bis 50 des Bundespolizeigesetzes und den Vorschriften der
-Polizeigesetze der Länder.
+Verwahrung und die Vernichtung von neuen psychoaktiven Stoffen
+nach § 71 Absatz 1, den §§ 72, 74 Absatz 1 und § 75 Absatz 1 des
+Bundespolizeigesetzes und den Vorschriften der Polizeigesetze der
+Länder.
 
 (4) Unbeschadet des Absatzes 3 können die Zollbehörden im Rahmen ihrer
 Aufgabenwahrnehmung nach § 1 Absatz 3 des Zollverwaltungsgesetzes
-Waren, bei denen Grund zu der Annahme besteht, dass es sich um
-neue psychoaktive Stoffe handelt, die entgegen Absatz 1 in den,
-aus dem oder durch den Geltungsbereich dieses Gesetzes verbracht
-worden sind oder verbracht werden sollen, sicherstellen. Die §§
-48 bis 50 des Bundespolizeigesetzes gelten entsprechend. Kosten,
-die den Zollbehörden durch die Sicherstellung und Verwahrung
-entstehen, sind vom Verantwortlichen zu tragen; die §§ 17
-und 18 des Bundespolizeigesetzes gelten entsprechend. Mehrere
+Waren, bei denen Grund zu der Annahme besteht, dass es sich um neue
+psychoaktive Stoffe handelt, die entgegen Absatz 1 in den, aus dem
+oder durch den Geltungsbereich dieses Gesetzes verbracht worden sind
+oder verbracht werden sollen, sicherstellen. § 71 Absatz 1, die §§
+72, 74 Absatz 1 und § 75 Absatz 1 des Bundespolizeigesetzes gelten
+entsprechend. Kosten, die den Zollbehörden durch die Sicherstellung
+und Verwahrung entstehen, sind vom Verantwortlichen zu tragen; die
+§§ 18 und 19 des Bundespolizeigesetzes gelten entsprechend. Mehrere
 Verantwortliche haften als Gesamtschuldner. Die Kosten können im
 Verwaltungsvollstreckungsverfahren beigetrieben werden.
 

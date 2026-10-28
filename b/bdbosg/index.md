@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2006, 2039
 
 Zuletzt geändert durch
-:   Art. 9 G v. 19.12.2022 I 2632
+:   Art. 12 Abs. 17 G v. 22.10.2026 I Nr. 318
 
 
 ## Eingangsformel
@@ -420,7 +420,7 @@ vorherige Vereinbarung festgelegt. Die sonstigen Vorschriften und
 Grundsätze der Amts- und Vollzugshilfe bleiben unberührt.
 
 (2) Anordnungen nach Absatz 1 müssen auf den Zeitraum beschränkt
-werden, in dem die Gefahr andauert. Im Übrigen gelten die §§ 15 bis 20
+werden, in dem die Gefahr andauert. Im Übrigen gelten die §§ 16 bis 21
 des Bundespolizeigesetzes entsprechend.
 
 (3) Erleidet jemand infolge einer rechtmäßigen Anordnung nach Absatz

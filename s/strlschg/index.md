@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 4 G v. 23.10.2024 I Nr. 324
 
+Änderung durch
+:   Art. 12 Abs. 4 G v. 22.10.2026 I Nr. 318 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Teil 1 - Allgemeine Vorschriften
 
@@ -4846,7 +4849,7 @@ Ermittlungen im Zusammenhang mit der Bekämpfung des Nuklearterrorismus
 oder der Nuklearkriminalität sowie des Nuklearschmuggels oder
 des sonstigen illegalen grenzüberschreitenden Verbringens
 hochradioaktiver Strahlenquellen auch das Bundeskriminalamt und die
-Landeskriminalämter, die in der Rechtsverordnung nach § 58 Absatz
+Landeskriminalämter, die in der Rechtsverordnung nach § 93 Absatz
 1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde, das
 Zollkriminalamt und die Verfassungsschutzbehörden des Bundes und der
 Länder gemäß ihren jeweiligen gesetzlichen Zuständigkeiten.

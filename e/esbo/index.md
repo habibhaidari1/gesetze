@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 519 V v. 31.8.2015 I 1474
 
+Änderung durch
+:   Art. 12 Abs. 12 G v. 22.10.2026 I Nr. 318 mWv 28.10.2026 noch nicht berücksichtigt
+
 
 ## Eingangsformel
 
