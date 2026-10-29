@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1994, 2265
 
 Zuletzt geändert durch
-:   Art. 12 Abs. 7 G v 22.10.2026 I Nr. 318
+:   Art. 12 Abs. 7 G v. 22.10.2026 I Nr. 318
 
 
 ## Eingangsformel

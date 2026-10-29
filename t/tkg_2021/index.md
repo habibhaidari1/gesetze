@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2021, 1858
 
 Zuletzt geändert durch
-:   Art. 6 V v. 6.10.2026 I Nr. 289
-
-Änderung durch
-:   Art. 12 Abs. 15 G v. 22.10.2026 I Nr. 318 mWv 28.10.2026 noch nicht berücksichtigt
+:   Art. 12 Abs. 15 G v. 22.10.2026 I Nr. 318
 
 Stand
 :   Ersetzt G v. 22.6.2004 I 1190 (TKG 2004)
@@ -9271,11 +9268,12 @@ Richtlinie (EU) 2023/1544 in der Fassung vom 12. Juli 2023.
 
 Jeder Betreiber eines öffentlichen Mobilfunknetzes hat den
 berechtigten Stellen nach § 100i Absatz 1 der Strafprozessordnung,
-§ 53 des Bundekriminalamtsgesetzes, § 12 Absatz 1 des MAD-Gesetzes,
-§ 9 Absatz 4 des Bundesverfassungsschutzgesetzes, auch in Verbindung
-mit § 5 des BND-Gesetzes, oder nach Landesrecht nach Maßgabe der
-Rechtsverordnung nach § 170 Absatz 5 und der Technischen Richtlinie
-nach § 170 Absatz 6 ohne dass dies dem Endnutzer bekannt wird,
+§ 53 des Bundeskriminalamtgesetzes, § 41 des Bundespolizeigesetzes,
+§ 12 Absatz 1 des MAD-Gesetzes, § 9 Absatz 4 des
+Bundesverfassungsschutzgesetzes, auch in Verbindung mit § 5 des BND-
+Gesetzes, oder nach Landesrecht nach Maßgabe der Rechtsverordnung nach
+§ 170 Absatz 5 und der Technischen Richtlinie nach § 170 Absatz 6 ohne
+dass dies dem Endnutzer bekannt wird,
 
 1.  den Einsatz von technischen Mitteln der berechtigten Stellen in
     seinem Mobilfunknetz zu ermöglichen, die der Ermittlung folgender

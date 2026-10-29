@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2005, 78
 
 Zuletzt geändert durch
-:   Art. 1 G v. 11.3.2026 I Nr. 68
-
-Änderung durch
-:   Art. 12 Abs. 16 G v. 22.10.2026 I Nr. 318 mWv 28.10.2026 noch nicht berücksichtigt
+:   Art. 12 Abs. 16 G v. 22.10.2026 I Nr. 318
 
 
 ## Abschnitt 1 - Allgemeines
@@ -1064,7 +1061,7 @@ Zwangsmittel anwenden. Die Anwendung körperlicher Gewalt ist
 nur zulässig, wenn andere Zwangsmittel nicht in Betracht kommen,
 keinen Erfolg versprechen oder unzweckmäßig sind. Der Gebrauch von
 Schusswaffen ist Polizeivollzugsbeamten, insbesondere denjenigen der
-Bundespolizei nach § 4a des Bundespolizeigesetzes vorbehalten.
+Bundespolizei nach § 5 des Bundespolizeigesetzes vorbehalten.
 
 (4) Alle an Bord befindlichen Personen haben den Anordnungen des
 Luftfahrzeugführers oder seiner Beauftragten nach Absatz 2 Folge zu

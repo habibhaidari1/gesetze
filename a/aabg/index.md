@@ -16,9 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 684
 
 
-## Art 1
-
--
+## Art 1 Änderungsvorschrift
 
 
 ## Art 2
@@ -34,9 +32,7 @@ Krankenkassen verteilen den jeweiligen Betrag entsprechend dem in Satz
 1 genannten Anteil an die Krankenkassen ihrer Kassenart.
 
 
-## Art 3
-
--
+## Art 3 Änderungsvorschrift
 
 
 ## Art 4 Inkrafttreten

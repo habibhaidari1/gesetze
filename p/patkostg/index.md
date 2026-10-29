@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 11 G v. 11.1.2026 I Nr. 9
 
 Änderung durch
-:   Art. 3 G v. 22.10.2026 I Nr. 322 mWv 9.12.2027 noch nicht berücksichtigt
+:   Art. 3 G v. 22.10.2026 I Nr. 322 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## § 1 Geltungsbereich, Verordnungsermächtigungen

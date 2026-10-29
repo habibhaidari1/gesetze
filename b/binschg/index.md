@@ -18,11 +18,8 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 20.3.2023 I Nr. 82; 2023 I Nr. 126;
 
-Geändert durch
-:   Art. 14 G v. 22.12.2023 I Nr. 409
-
-Änderung durch
-:   Art. 8 G v. 22.10.2026 I Nr. 320 mWv 28.10.2026 noch nicht berücksichtigt
+Zuletzt geändert durch
+:   Art. 8 G v. 22.10.2026 I Nr. 320
 
 
 ## § 1 Aufgaben des Bundes, Zuständigkeiten
@@ -996,12 +993,16 @@ soweit dies erforderlich ist, zum Zwecke der
     Schifffahrtsverwaltung des Bundes und der Polizeidienststellen der
     Länder,
 
-4.  Überprüfung von Angaben in Zusammenhang mit den Regelungen des
+4.  Erfüllung der Aufgaben als Vermögensabschöpfungsstelle nach Artikel
+    5 der Richtlinie (EU) 2024/1260 in der Fassung vom 24. April 2024 an
+    Staatsanwaltschaften und das Bundeskriminalamt,
+
+5.  Überprüfung von Angaben in Zusammenhang mit den Regelungen des
     Energiesteuergesetzes oder der auf Grund dieses Gesetzes erlassenen
     Rechtsverordnungen über den Bezug von steuerbegünstigten Kraftstoffen
     für die Schifffahrt an Dienststellen der Zollverwaltung des Bundes,
 
-5.  Durchführung der Marktbeobachtung nach § 14 des
+6.  Durchführung der Marktbeobachtung nach § 14 des
     Güterkraftverkehrsgesetzes an das Bundesamt für Logistik und Mobilität
 
 übermittelt werden.
@@ -1262,7 +1263,7 @@ durch Rechtsverordnung das Nähere über Art und Umfang der zu
 speichernden Daten nach Absatz 2 zu bestimmen.
 
 (4) Die nach Absatz 2 gespeicherten personenbezogenen Daten dürfen,
-soweit dies erforderlich ist, zum Zwecke der
+soweit dies erforderlich ist, übermittelt werden zum Zwecke der
 
 1.  Durchführung von Verwaltungsaufgaben nach diesem Gesetz oder auf
     Grund dieses Gesetzes oder des Seeaufgabengesetzes erlassener
@@ -1274,10 +1275,14 @@ soweit dies erforderlich ist, zum Zwecke der
     stehen, der Vollstreckung oder des Vollzuges von Maßnahmen
     im Sinne des § 11 Absatz 1 Nummer 8 des Strafgesetzbuches an
     Gerichte, Staatsanwaltschaften und das Bundeskriminalamt als
-    Strafverfolgungsbehörde, oder
+    Strafverfolgungsbehörde,
 
-3.  Verfolgung von Ordnungswidrigkeiten auf dem Gebiet der Schifffahrt an
-    Gerichte und Staatsanwaltschaften übermittelt werden.
+3.  Erfüllung der Aufgaben als Vermögensabschöpfungsstelle nach Artikel
+    5 der Richtlinie (EU) 2024/1260 in der Fassung vom 24. April 2024 an
+    Staatsanwaltschaften und das Bundeskriminalamt,
+
+4.  Verfolgung von Ordnungswidrigkeiten auf dem Gebiet der Schifffahrt an
+    Gerichte und Staatsanwaltschaften.
 
 (5) Die Wasserstraßen- und Schifffahrtsämter übermitteln in
 regelmäßigen Abständen, mindestens jedoch alle drei Monate,
