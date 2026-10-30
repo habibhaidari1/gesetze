@@ -15,14 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 1310
 
-Zuletzt geändert durch
-:   Art. 6 G v. 25.9.2026 I Nr. 275
-
-Änderung durch
-:   Art. 9 G v. 22.10.2026 I Nr. 320 mWv 20.11.2026 noch nicht berücksichtigt
+Stand
+:   Zuletzt geändert Art. 9 G v. 22.10.2026 I Nr. 320
 
 Mittelbare änderung durch
-:   Art. 10 G v. 22.10.2026 I Nr. 320 mWv 28.10.2026 noch nicht berücksichtigt
+:   Art. 10 G v. 22.10.2026 I Nr. 320 ist berücksichtigt
 
 
 ## Erster Abschnitt - Errichtung, Aufsicht, Aufgaben

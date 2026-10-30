@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2008, 250
 
 Zuletzt geändert durch
-:   Art. 10 G v. 25.10.2024 I Nr. 332
-
-Änderung durch
-:   Art. 2 G v. 22.10.2026 I Nr. 318 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 22.10.2026 I Nr. 318
 
 Stand
 :   Ersetzt V v. 28.6.2005 I 1870 mWv 1.3.2008

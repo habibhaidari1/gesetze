@@ -22,7 +22,7 @@ Mittelbare änderung durch
 :   Art. 38 G v. 8.12.2025 I Nr. 319 ist berücksichtigt
 
 Änderung durch
-:   Art. 9 G v. 22.10.2026 I Nr. 321 mWv 28.10.2026 noch nicht berücksichtigt
+:   Art. 9 G v. 22.10.2026 I Nr. 321 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Mittelbare änderung durch
 :   Art. 15 Nr. 7 G v. 22.10.2026 I Nr. 321 ist berücksichtigt
@@ -957,32 +957,36 @@ S. 59).
 ## § 43 Übergangsregelung zum Gesetz zur Einführung der elektronischen Akte in der Justiz und zur weiteren Förderung des elektronischen Rechtsverkehrs; Verordnungsermächtigung
 
 (1) Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen
-des Bundes oder der Länder als Verschlusssache höher als VS-NUR FÜR
-DEN DIENSTGEBRAUCH eingestuft sind, dürfen bis zum 31. Dezember 2035
+des Bundes oder der Länder als Verschlusssache höher als VS-
+NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind, dürfen bis zum 31.
+Dezember 2035 abweichend von den §§ 130a bis 130d und 298a der
+Zivilprozessordnung in Papierform erstellt, geführt und übermittelt
+werden. Akten, in denen Dokumente und Aktenteile enthalten sind,
+die nach den Verschlusssachenanweisungen des Bundes oder der
+Länder als Verschlusssache höher als VS-NUR FÜR DEN DIENSTGEBRAUCH
+eingestuft sind, dürfen bis einschließlich 31. Dezember 2035
 abweichend von den §§ 130a bis 130d und 298a der Zivilprozessordnung
-in Papierform erstellt, geführt und übermittelt werden. Dokumente
-und Aktenteile, die nach den Verschlusssachenanweisungen des Bundes
-oder der Länder als Verschlusssache VS-NUR FÜR DEN DIENSTGEBRAUCH
-eingestuft sind, dürfen bis zum 31. Dezember 2035 abweichend von
-den §§ 130a bis 130d und 298a der Zivilprozessordnung in Papierform
-übermittelt werden. Die für die Handhabung von Verschlusssachen
-geltenden Geheimschutzvorschriften bleiben unberührt.
+in Papierform erstellt, geführt und übermittelt werden, wenn eine
+teilweise elektronische Aktenführung nur mit unverhältnismäßigem
+Aufwand möglich wäre. Dokumente und Aktenteile, die nach den
+Verschlusssachenanweisungen des Bundes oder der Länder als
+Verschlusssache VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind, dürfen
+bis zum 31. Dezember 2035 abweichend von den §§ 130a bis 130d und 298a
+der Zivilprozessordnung in Papierform übermittelt werden. Die für die
+Handhabung von Verschlusssachen geltenden Geheimschutzvorschriften
+bleiben unberührt.
 
-(2) Die Bundesregierung und die Landesregierungen können jeweils für
-ihren Bereich durch Rechtsverordnung bestimmen, dass Akten abweichend
-von § 298a Absatz 1 der Zivilprozessordnung bis einschließlich 31.
-Dezember 2026 in Papierform angelegt sowie von anderer Stelle bis
-einschließlich 31. Dezember 2026 übermittelte elektronische Akten
-in Papierform geführt oder weitergeführt werden. Die Bestimmung kann
-auf einzelne Gerichte oder Verfahren beschränkt werden; wird von
-dieser Möglichkeit Gebrauch gemacht, so kann in der Rechtsverordnung
-bestimmt werden, dass durch Verwaltungsvorschrift, die öffentlich
-bekanntzumachen ist, geregelt wird, in welchen Verfahren Akten
-in Papierform angelegt oder elektronisch übermittelte Akten in
-Papierform geführt oder weitergeführt werden. Die Rechtsverordnung
-der Bundesregierung bedarf nicht der Zustimmung des Bundesrates.
-Die Bundesregierung kann die in Satz 1 genannte Ermächtigung durch
-Rechtsverordnung auf die zuständigen Bundesministerien übertragen.
+(2) Die Landesregierungen können durch Rechtsverordnung bestimmen,
+dass Akten abweichend von § 298a Absatz 1 der Zivilprozessordnung
+bis einschließlich 31. Dezember 2029 in Papierform angelegt sowie
+von anderer Stelle bis einschließlich 31. Dezember 2029 übermittelte
+elektronische Akten in Papierform geführt oder weitergeführt werden.
+Die Bestimmung kann auf einzelne Gerichte oder Verfahren beschränkt
+werden; wird von dieser Möglichkeit Gebrauch gemacht, so kann in der
+Rechtsverordnung bestimmt werden, dass durch Verwaltungsvorschrift,
+die öffentlich bekanntzumachen ist, geregelt wird, in welchen
+Verfahren Akten in Papierform angelegt oder elektronisch
+übermittelte Akten in Papierform geführt oder weitergeführt werden.
 Die Landesregierungen können die in Satz 1 genannte Ermächtigung
 durch Rechtsverordnung auf die zuständigen obersten Landesbehörden
 übertragen.

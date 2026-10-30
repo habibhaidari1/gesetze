@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 G v. 21.7.2026 I Nr. 221
 
+Stand
+:   Bek. v. 15.10.2026 I Nr. 325 noch nicht berücksichtigt
+
 
 ## Eingangsformel
 

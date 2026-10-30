@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1994, 867
 
 Zuletzt geändert durch
-:   Art. 4 G v. 9.1.2026 I Nr. 7
-
-Änderung durch
-:   Art. 11 G v. 22.10.2026 I Nr. 318 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 11 G v. 22.10.2026 I Nr. 318
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften

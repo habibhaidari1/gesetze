@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 G v. 8.5.2024 I Nr. 153
 
+Änderung durch
+:   Art. 3 Abs. 7 G v. 13.7.2026 I Nr. 207 mWv 12.8.2026 noch nicht berücksichtigt
+
 
 ## § 1 Zwecke der Umweltstatistik, Anordnung als Bundesstatistik
 

@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 8 G v. 22.12.2025 I Nr. 349
 
 Änderung durch
-:   Art. 6 G v. 22.10.2026 I Nr. 321 mWv 28.10.2026 noch nicht berücksichtigt
+:   Art. 6 G v. 22.10.2026 I Nr. 321 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Mittelbare änderung durch
 :   Art. 15 Nr. 7 G v. 22.10.2026 I Nr. 321 ist berücksichtigt
@@ -1952,27 +1952,32 @@ werden. Sie können auch ab einem bestimmten Stichtag oder Ereignis in
 elektronischer Form weitergeführt werden. Der Beginn der Weiterführung
 der Akten in elektronischer Form ist aktenkundig zu machen.
 
-(1a) Die Landesregierungen können jeweils für ihren Bereich durch
-Rechtsverordnung bestimmen, dass Akten abweichend von Absatz 1
-Satz 1 und 2 bis einschließlich 31. Dezember 2026 in Papierform
-angelegt sowie von anderer Stelle bis einschließlich 31. Dezember
-2026 übermittelte elektronische Akten in Papierform geführt oder
-weitergeführt werden. Die Bestimmung kann auf einzelne Gerichte
-oder allgemein bestimmte Verfahren beschränkt werden; wird von
-dieser Möglichkeit Gebrauch gemacht, so kann in der Rechtsverordnung
-bestimmt werden, dass durch Verwaltungsvorschrift, die öffentlich
-bekanntzumachen ist, geregelt wird, in welchen Verfahren Akten in
-Papierform angelegt oder elektronisch übermittelte Akten in Papierform
-geführt oder weitergeführt werden. Die Landesregierungen können
-die in Satz 1 genannte Ermächtigung durch Rechtsverordnung auf die
-zuständigen Landesministerien übertragen.
+(1a) Die Landesregierungen können durch Rechtsverordnung bestimmen,
+dass Akten abweichend von Absatz 1 Satz 1 und 2 bis einschließlich
+31\. Dezember 2029 in Papierform angelegt sowie von anderer Stelle
+bis einschließlich 31. Dezember 2029 übermittelte elektronische Akten
+in Papierform geführt oder weitergeführt werden. Die Bestimmung kann
+auf einzelne Gerichte oder allgemein bestimmte Verfahren beschränkt
+werden; wird von dieser Möglichkeit Gebrauch gemacht, so kann in der
+Rechtsverordnung bestimmt werden, dass durch Verwaltungsvorschrift,
+die öffentlich bekanntzumachen ist, geregelt wird, in welchen
+Verfahren Akten in Papierform angelegt oder elektronisch übermittelte
+Akten in Papierform geführt oder weitergeführt werden. Die
+Landesregierungen können die in Satz 1 genannte Ermächtigung durch
+Rechtsverordnung auf die zuständigen Landesministerien übertragen.
 
 (1b) Dokumente und Aktenteile, die nach den
 Verschlusssachenanweisungen des Bundes oder der Länder als
 Verschlusssache höher als VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft
-sind, dürfen bis zum 31. Dezember 2035 in Papierform erstellt,
-geführt und übermittelt werden. Dokumente und Aktenteile, die nach
-den Verschlusssachenanweisungen des Bundes oder der Länder als
+sind, dürfen bis zum 31. Dezember 2035 in Papierform erstellt, geführt
+und übermittelt werden. Akten, in denen Dokumente und Aktenteile
+enthalten sind, die nach den Verschlusssachenanweisungen des
+Bundes oder der Länder als Verschlusssache höher als VS-NUR FÜR DEN
+DIENSTGEBRAUCH eingestuft sind, dürfen bis einschließlich 31. Dezember
+2035 in Papierform erstellt, geführt und übermittelt werden, wenn
+eine teilweise elektronische Aktenführung nur mit unverhältnismäßigem
+Aufwand möglich wäre. Dokumente und Aktenteile, die nach den
+Verschlusssachenanweisungen des Bundes oder der Länder als
 Verschlusssache VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind, dürfen
 bis zum 31. Dezember 2035 in Papierform übermittelt werden. Die für
 die Handhabung von Verschlusssachen geltenden Geheimschutzvorschriften

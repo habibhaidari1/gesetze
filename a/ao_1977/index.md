@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 23.1.2025 I Nr. 24;
 
 Zuletzt geändert durch
-:   Art. 15 Abs. 6 G v. 3.7.2026 I Nr. 199
-
-Änderung durch
-:   Art. 6 G v. 22.10.2026 I Nr. 320 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 6 G v. 22.10.2026 I Nr. 320
 
 
 ## Erster Teil - Einleitende Vorschriften
