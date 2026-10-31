@@ -18,6 +18,9 @@ Fundstelle
 Geändert durch
 :   Art. 8z6 G v. 12.12.2023 I Nr. 359
 
+Änderung durch
+:   Art. 3 G v. 27.10.2026 I Nr. 326 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Teil 1 - Ausbildung und staatliche Prüfung
 

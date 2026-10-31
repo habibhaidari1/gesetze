@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 21.11.2024 I Nr. 360
 
+Änderung durch
+:   Art. 4 G v. 27.10.2026 I Nr. 326 mWv 1.11.2026 noch nicht berücksichtigt
+
 
 ## Abschnitt 1 - Zahnärztliche Ausbildung
 

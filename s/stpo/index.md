@@ -25,7 +25,7 @@ Zuletzt geändert durch
 :   Art. 15 Abs. 16 G v. 3.7.2026 I Nr. 199 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 4 G v. 22.10.2026 I Nr. 320 mWv 28.10.2026 noch nicht berücksichtigt
+:   Art. 4 G v. 22.10.2026 I Nr. 320 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Mittelbare änderung durch
 :   Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war
@@ -4719,33 +4719,45 @@ die Entscheidung des nach § 162 zuständigen Gerichts beantragen.
 
 #### § 111p Notveräußerung
 
-(1) Ein Gegenstand, der nach § 111c beschlagnahmt oder nach § 111f
-gepfändet worden ist, kann veräußert werden, wenn sein Verderb oder
-ein erheblicher Wertverlust droht oder seine Aufbewahrung, Pflege
-oder Erhaltung mit erheblichen Kosten oder Schwierigkeiten verbunden
-ist (Notveräußerung). Der Erlös tritt an die Stelle des veräußerten
-Gegenstandes.
+(1) Ein Gegenstand, bei dem die Beschlagnahme nach § 111c oder der
+Vermögensarrest nach § 111f vollzogen worden ist, kann veräußert
+werden, wenn sein Verderb oder ein erheblicher Wertverlust droht oder
+seine Aufbewahrung, Pflege oder Erhaltung mit erheblichen Kosten oder
+Schwierigkeiten verbunden ist (Notveräußerung). Der Erlös tritt an die
+Stelle des veräußerten Gegenstandes.
 
-(2) Die Notveräußerung wird durch die Staatsanwaltschaft angeordnet.
-Ihren Ermittlungspersonen (§ 152 des Gerichtsverfassungsgesetzes)
-steht diese Befugnis zu, wenn der Gegenstand zu verderben droht, bevor
+(2) Die Notveräußerung wird von Amts wegen oder auf Antrag
+des Betroffenen durch die Staatsanwaltschaft angeordnet. Ihren
+Ermittlungspersonen (§ 152 des Gerichtsverfassungsgesetzes) steht
+diese Befugnis zu, wenn der Gegenstand zu verderben droht, bevor
 die Entscheidung der Staatsanwaltschaft herbeigeführt werden kann.
+Die Notveräußerung eines Grundstücks oder eines Rechts, das den
+Vorschriften über die Zwangsvollstreckung in das unbewegliche Vermögen
+unterliegt, wird durch das nach § 162 zuständige Gericht angeordnet.
 
-(3) Die von der Beschlagnahme oder Pfändung Betroffenen sollen vor
-der Anordnung gehört werden. Die Anordnung sowie Zeit und Ort der
+(3) Die von der Beschlagnahme oder dem Vermögensarrest Betroffenen
+sollen vor der Anordnung gehört werden, es sei denn, sie haben
+die Notveräußerung beantragt. Die Anordnung sowie Zeit und Ort der
 Veräußerung sind ihnen, soweit dies ausführbar erscheint, mitzuteilen.
 
 (4) Die Durchführung der Notveräußerung obliegt der
 Staatsanwaltschaft. Die Staatsanwaltschaft kann damit auch ihre
 Ermittlungspersonen (§ 152 des Gerichtsverfassungsgesetzes)
-beauftragen. Für die Notveräußerung gelten im Übrigen die Vorschriften
-der Zivilprozessordnung über die Verwertung von Gegenständen
-sinngemäß.
+beauftragen. Die Durchführung der nach Absatz 2 Satz 3 angeordneten
+Notveräußerung beantragt die Staatsanwaltschaft bei dem zuständigen
+Amtsgericht. Die Anordnung des Gerichts nach Absatz 2 Satz 3 ersetzt
+den vollstreckbaren Titel; einer der Höhe nach festgestellten
+Wertersatzeinziehung bedarf es nicht. Für die Notveräußerung gelten im
+Übrigen die Vorschriften der Zivilprozessordnung über die Verwertung
+von Gegenständen sinngemäß.
 
-(5) Gegen die Notveräußerung und ihre Durchführung kann der Betroffene
-die Entscheidung des nach § 162 zuständigen Gerichts beantragen. Das
-Gericht, in dringenden Fällen der Vorsitzende, kann die Aussetzung der
-Veräußerung anordnen.
+(5) Gegen die Notveräußerung nach Absatz 2 Satz 1 und 2, ihre
+Durchführung sowie gegen die Ablehnung des Antrags auf Notveräußerung
+durch die Staatsanwaltschaft kann der Betroffene die Entscheidung des
+nach § 162 zuständigen Gerichts beantragen. Das Gericht, in dringenden
+Fällen der Vorsitzende, kann die Aussetzung der Notveräußerung
+anordnen. Gegen die Entscheidung des Gerichts nach Absatz 2 Satz 3 ist
+die sofortige Beschwerde statthaft.
 
 
 #### § 111q Beschlagnahme von Verkörperungen eines Inhalts und Vorrichtungen

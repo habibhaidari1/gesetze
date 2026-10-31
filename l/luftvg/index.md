@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 10.5.2007 I 698;
 
 Zuletzt geändert durch
-:   Art. 7 V v. 6.10.2026 I Nr. 289
+:   Art. 7 G v. 6.10.2026 I Nr. 289
 
 
 ## Erster Abschnitt - Luftverkehr

@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 5 V v. 21.11.2024 I Nr. 360
 
+Änderung durch
+:   Art. 5 G v. 27.10.2026 I Nr. 326 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand
 :   § 43 Abs. 4 tritt gem. § 60 Abs. 1 Satz 2 dieser V am 1.3.2020 in Kraft
 

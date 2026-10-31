@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 15 Abs. 1 G v. 3.7.2026 I Nr. 199 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 1 G v. 22.10.2026 I Nr. 320 mWv 28.10.2026 noch nicht berücksichtigt
+:   Art. 1 G v. 22.10.2026 I Nr. 320 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## § 1 Errichtung, Zweck und Sitz des Bundesamts
@@ -63,10 +63,7 @@ Verbraucherschutz bei der
         internationalen Rechtshilfe in Strafsachen, insbesondere als eine der
         nationalen Kontaktstellen des Europäischen Justiziellen Netzes,
 
-    d)  als Vermögensabschöpfungsstelle; § 9 Absatz 6 des
-        Bundeskriminalamtgesetzes gilt entsprechend,
-
-    e)  in Fragen der Vereinfachung des internationalen Rechtsverkehrs,
+    d)  in Fragen der Vereinfachung des internationalen Rechtsverkehrs,
 
 4.  Durchführung der Justizforschung, der kriminologischen Forschung und
     auf dem Gebiet der Kriminalprävention,

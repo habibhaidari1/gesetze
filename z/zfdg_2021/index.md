@@ -19,10 +19,7 @@ Stand
 :   Ersetzt G 602-2 v. 16.8.2002 I 3202 (ZFdG)
 
 Zuletzt geändert durch
-:   Art. 14 G v. 9.4.2026 I Nr. 97
-
-Änderung durch
-:   Art. 3 G v. 22.10.2026 I Nr. 318 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 G v. 22.10.2026 I Nr. 318
 
 
 ## Kapitel 1 - Organisation
