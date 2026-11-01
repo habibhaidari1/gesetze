@@ -30,25 +30,34 @@ Zuletzt geändert durch
 
 ### § 1
 
-(1) Wer im Geltungsbereich dieses Gesetzes die Zahnheilkunde
-dauernd ausüben will, bedarf einer Approbation als Zahnarzt nach
-Maßgabe dieses Gesetzes. Die Approbation berechtigt zur Führung der
-Bezeichnung als "Zahnarzt" oder "Zahnärztin". Die vorübergehende
-Ausübung der Zahnheilkunde bedarf einer jederzeit widerruflichen
-Erlaubnis.
+(1) Wer im Geltungsbereich dieses Gesetzes die Zahnheilkunde ausüben
+will, bedarf einer Approbation als Zahnarzt nach Maßgabe dieses
+Gesetzes. Die Approbation berechtigt zur Führung der Bezeichnung als
+"Zahnarzt" oder "Zahnärztin". Die Ausübung der Zahnheilkunde ist auch
+auf Grund einer Erlaubnis nach den §§ 7a, 13 oder 20 zulässig.
 
-(2) Zahnärzte, die Staatsangehörige eines Mitgliedstaates der
-Europäischen Union oder eines anderen Vertragsstaates des Abkommens
-über den Europäischen Wirtschaftsraum oder eines Vertragsstaates sind,
-dem Deutschland und die Europäische Gemeinschaft oder Deutschland und
-die Europäische Union vertraglich einen entsprechenden Rechtsanspruch
-eingeräumt haben, dürfen den zahnärztlichen Beruf im Geltungsbereich
-dieses Gesetzes ohne Approbation als Zahnarzt oder ohne Erlaubnis
-zur vorübergehenden Ausübung der Zahnheilkunde ausüben, sofern sie
-vorübergehend und gelegentlich als Erbringer von Dienstleistungen
-im Sinne des Artikels 50 des EG-Vertrages im Geltungsbereich dieses
+(2) Zahnärzte, die Staatsangehörige eines Mitgliedstaats, eines
+Vertragsstaats oder eines gleichgestellten Staats sind, dürfen
+den zahnärztlichen Beruf im Geltungsbereich dieses Gesetzes ohne
+Approbation als Zahnarzt oder ohne Erlaubnis zur Ausübung der
+Zahnheilkunde ausüben, sofern sie vorübergehend und gelegentlich als
+Erbringer von Dienstleistungen im Sinne des Artikels 57 des Vertrages
+über die Arbeitsweise der Europäischen Union im Geltungsbereich dieses
 Gesetzes tätig werden. Sie unterliegen jedoch der Meldepflicht nach
 diesem Gesetz.
+
+(2a) Zur Ausübung bestimmter zahnärztlicher Tätigkeiten nach § 13a
+Absatz 3 Satz 1 (partielle Berufsausübung) ist berechtigt, wem eine
+Erlaubnis nach § 13a Absatz 1 erteilt worden ist. Personen, denen
+eine Erlaubnis nach § 13a Absatz 1 erteilt worden ist, dürfen nicht
+die Berufsbezeichnung „Zahnarzt“ oder „Zahnärztin“ führen, sondern
+haben die Berufsbezeichnung des Herkunftsstaats zu führen mit dem
+zusätzlichen Hinweis
+
+1.  auf den Namen dieses Staats und
+
+2.  auf die Tätigkeit und Beschäftigungsstelle, auf die die Erlaubnis
+    gemäß § 13a Absatz 3 Satz 1 beschränkt ist.
 
 (3) Ausübung der Zahnheilkunde ist die berufsmäßige auf zahnärztlich
 wissenschaftliche Erkenntnisse gegründete Feststellung und Behandlung
@@ -89,6 +98,38 @@ Zahnheilkunde unter der Berufsbezeichnung „Zahnarzt“ oder
 „Zahnärztin“.
 
 
+### § 1a
+
+(1) Mitgliedstaat im Sinne dieses Gesetzes und der Rechtsverordnung
+nach § 3 ist ein Mitgliedstaat der Europäischen Union. Andere
+Mitgliedstaaten sind alle Mitgliedstaaten außer der Bundesrepublik
+Deutschland.
+
+(2) Vertragsstaat im Sinne dieses Gesetzes und der Rechtsverordnung
+nach § 3 ist ein Vertragsstaat des Abkommens über den Europäischen
+Wirtschaftsraum. Andere Vertragsstaaten sind alle Vertragsstaaten
+außer der Bundesrepublik Deutschland.
+
+(3) Drittstaat im Sinne dieses Gesetzes und der Rechtsverordnung nach
+§ 3 ist ein Staat, der weder Mitgliedstaat noch Vertragsstaat ist.
+
+(4) Gleichgestellter Staat im Sinne dieses Gesetzes und der
+Rechtsverordnung nach § 3 ist ein Drittstaat, für den sich
+hinsichtlich der Anerkennung von Berufsqualifikationen nach dem Recht
+der Europäischen Union eine Gleichstellung mit einem Mitgliedstaat
+ergibt.
+
+(5) Herkunftsstaat im Sinne dieses Gesetzes und der Rechtsverordnung
+nach § 3 ist der andere Mitgliedstaat, der andere Vertragsstaat oder
+der gleichgestellte Staat, in dem die Berufsqualifikation erworben
+worden ist.
+
+(6) Aufnahmestaat im Sinne dieses Gesetzes und der Rechtsverordnung
+nach § 3 ist der andere Mitgliedstaat, der andere Vertragsstaat oder
+der gleichgestellte Staat, in dem ein Zahnarzt niedergelassen ist oder
+Dienstleistungen erbringt.
+
+
 ### § 2
 
 (1) Die Approbation als Zahnarzt ist auf Antrag zu erteilen, wenn
@@ -106,302 +147,40 @@ der Antragsteller
 4.  nach einem Studium der Zahnheilkunde an einer wissenschaftlichen
     Hochschule von mindestens 5 000 Stunden und einer Dauer von mindestens
     fünf Jahren die zahnärztliche Prüfung im Geltungsbereich dieses
-    Gesetzes bestanden hat,
+    Gesetzes bestanden hat und
 
 5.  über die für die Ausübung der Berufstätigkeit erforderlichen
     Kenntnisse der deutschen Sprache verfügt.
 
-Eine in einem der übrigen Mitgliedstaaten der Europäischen Union oder
-in einem anderen Vertragsstaat des Abkommens über den Europäischen
-Wirtschaftsraum oder eines Vertragsstaates, dem Deutschland und
-die Europäische Gemeinschaft oder Deutschland und die Europäische
-Union vertraglich einen entsprechenden Rechtsanspruch eingeräumt
-haben, abgeschlossene zahnärztliche Ausbildung gilt als Ausbildung
-im Sinne der Nummer 4, wenn sie durch Vorlage eines Europäischen
-Berufsausweises, eines nach dem 27. Januar 1980 ausgestellten,
-in der Anlage zu diesem Gesetz aufgeführten zahnärztlichen
-Ausbildungsnachweises eines der übrigen Mitgliedstaaten der
-Europäischen Union oder eines in der Anlage zu diesem Gesetz
-aufgeführten, nach dem 31. Dezember 1992 ausgestellten zahnärztlichen
-Ausbildungsnachweises eines anderen Vertragsstaates des Abkommens
-über den Europäischen Wirtschaftsraum oder eines nach dem hierfür
-maßgebenden Zeitpunkt ausgestellten Ausbildungsnachweises eines
-Vertragsstaates, dem Deutschland und die Europäische Gemeinschaft
-oder Deutschland und die Europäische Union vertraglich einen
-entsprechenden Rechtsanspruch eingeräumt haben, nachgewiesen wird.
-Bei zahnärztlichen Ausbildungsnachweisen von nach dem 20. Dezember
-1976 der Europäischen Union beigetretenen Mitgliedstaaten wird auf
-eine Ausbildung abgestellt, die nach dem entsprechenden Datum begonnen
-wurde; hierfür gilt das Datum des Beitritts oder, bei abweichender
-Vereinbarung, das hiernach maßgebende Datum bei zahnärztlichen
-Ausbildungsnachweisen eines anderen Vertragsstaates des Abkommens
-über den Europäischen Wirtschaftsraum oder eines Vertragsstaates,
-dem Deutschland und die Europäische Gemeinschaft oder Deutschland
-und die Europäische Union vertraglich einen entsprechenden
-Rechtsanspruch eingeräumt haben, mit dem eine besondere Vereinbarung
-zum Zeitpunkt der Geltung der Verpflichtungen aus den Richtlinien
-78/686/EWG und 78/687/EWG des Rates vom 25. Juli 1978 (ABl. EG Nr.
-L 233 S. 1 und S. 10) getroffen worden ist, das hiernach maßgebende
-Datum. Das Bundesministerium für Gesundheit wird ermächtigt, durch
-Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die
-Anlage zu diesem Gesetz späteren Änderungen von Anhang V Nummer 5.3.2
-der Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates
-vom 7. September 2005 über die Anerkennung von Berufsqualifikationen
-(ABl. EU Nr. L 255 S. 22, 2007 Nr. L 271 S. 18) anzupassen. Wurde
-die Ausbildung vor dem nach Satz 2 oder 3 für die Anerkennung der
-zahnärztlichen Ausbildungsnachweise der übrigen Mitgliedstaaten der
-Europäischen Union oder der anderen Vertragsstaaten des Abkommens
-über den Europäischen Wirtschaftsraum oder eines Vertragsstaates,
-dem Deutschland und die Europäische Gemeinschaft oder Deutschland und
-die Europäische Union vertraglich einen entsprechenden Rechtsanspruch
-eingeräumt haben, jeweils maßgebenden Datum aufgenommen und genügt
-sie nicht allen Mindestanforderungen des Artikels 1 der Richtlinie
-78/687/EWG, so kann die zuständige Behörde zusätzlich zu den in der
-Anlage zu Satz 2 aufgeführten zahnärztlichen Ausbildungsnachweisen die
-Vorlage einer Bescheinigung des Herkunftsmitgliedstaats verlangen, aus
-der sich ergibt, daß der Antragsteller während der letzten fünf Jahre
-vor der Antragstellung mindestens drei Jahre den zahnärztlichen Beruf
-ununterbrochen und rechtmäßig ausgeübt hat. Gleichwertig den in Satz
-2 genannten zahnärztlichen Ausbildungsnachweisen sind nach dem in Satz
-2 oder 3 genannten Zeitpunkt von einem der übrigen Mitgliedstaaten
-der Europäischen Union oder einem anderen Vertragsstaat des Abkommens
-über den Europäischen Wirtschaftsraum oder eines Vertragsstaates,
-dem Deutschland und die Europäische Gemeinschaft oder Deutschland
-und die Europäische Union vertraglich einen entsprechenden
-Rechtsanspruch eingeräumt haben, ausgestellte Ausbildungsnachweise
-des Zahnarztes, die den in der Anlage zu Satz 2 für den betreffenden
-Staat aufgeführten Bezeichnungen nicht entsprechen, aber mit einer
-Bescheinigung der zuständigen Behörde oder Stelle dieses Staates
-darüber vorgelegt werden, daß sie eine Ausbildung abschließen, die
-den Mindestanforderungen des Artikels 34 der Richtlinie 2005/36/EG
-entspricht, und daß sie den für diesen Staat in der Anlage zu Satz
-2 aufgeführten Nachweisen gleichstehen. Die in den Sätzen 2 und 3
-genannten Ausbildungsnachweise gelten auch dann als Nachweis einer
-abgeschlossenen zahnärztlichen Ausbildung im Sinne des Satzes 1 Nummer
-4, wenn die Ausbildung aus einer Dauer von mindestens fünf Jahren und
-weniger als 5 000 Stunden theoretischer und praktischer Ausbildung
-auf Vollzeitbasis bestand, sofern die Antragsteller diese Ausbildung
-spätestens am 18. Januar 2016 begonnen haben. Eine Approbation
-wird nicht erteilt, wenn die naturwissenschaftliche Vorprüfung, die
-zahnärztliche Vorprüfung oder die zahnärztliche Prüfung nach der
-Rechtsverordnung gemäß § 3 Abs. 1 endgültig nicht bestanden wurde.
-Satz 8 findet keine Anwendung, wenn der Antragsteller einen nach der
-Richtlinie 2005/36/EG anzuerkennenden Ausbildungsnachweis besitzt.
+Eine Approbation wird nicht erteilt, wenn die naturwissenschaftliche
+Vorprüfung, die zahnärztliche Vorprüfung oder die zahnärztliche
+Prüfung nach der Rechtsverordnung gemäß § 3 Absatz 1 endgültig
+nicht bestanden wurde. Satz 2 findet keine Anwendung, wenn der
+Antragsteller einen nach der Richtlinie 2005/36/EG anzuerkennenden
+Ausbildungsnachweis besitzt.
 
-(1a) Die zuständigen Behörden des Landes, in dem der zahnärztliche
-Beruf ausgeübt wird oder zuletzt ausgeübt worden ist, unterrichten
-die zuständigen Behörden des Herkunftsmitgliedstaats über das
-Vorliegen strafrechtlicher Sanktionen, über die Rücknahme,
-den Widerruf und die Anordnung des Ruhens der Approbation oder
-Erlaubnis, über die Untersagung der Ausübung der Tätigkeit und über
-Tatsachen, die eine dieser Sanktionen oder Maßnahmen rechtfertigen
-würden; dabei sind die Vorschriften zum Schutz personenbezogener
-Daten einzuhalten. Erhalten die zuständigen Behörden Auskünfte der
-zuständigen Behörden von Aufnahmemitgliedstaaten, die sich auf die
-Ausübung des zahnärztlichen Berufs auswirken könnten, so prüfen sie
-die Richtigkeit der Sachverhalte, befinden über Art und Umfang der
-durchzuführenden Prüfungen und unterrichten den Aufnahmemitgliedstaat
-über die Konsequenzen, die sie aus den übermittelten Auskünften
-ziehen. Die Länder benennen die Behörden und Stellen, die für
-die Ausstellung oder Entgegennahme der in der Richtlinie 2005/36/
-EG genannten Ausbildungsnachweise und sonstigen Unterlagen oder
-Informationen zuständig sind, sowie die Behörden und Stellen, die
-die Anträge annehmen und die Entscheidungen treffen können, die im
-Zusammenhang mit dieser Richtlinie stehen. Sie sorgen dafür, dass
-das Bundesministerium für Gesundheit unverzüglich unterrichtet wird.
-Das Bundesministerium für Gesundheit übermittelt die Informationen
-unverzüglich den anderen Mitgliedstaaten und der Europäischen
-Kommission. Die Länder können zur Wahrnehmung der Aufgaben nach den
-Sätzen 1 bis 3 gemeinsame Stellen bestimmen. Das Bundesministerium
-für Gesundheit übermittelt nach entsprechender Mitteilung der Länder
-statistische Aufstellungen über die getroffenen Entscheidungen,
-die die Europäische Kommission für den nach Artikel 60 Abs. 1 der
-Richtlinie 2005/36/EG erforderlichen Bericht benötigt.
-
-(2) Ist die Voraussetzung des Absatzes 1 Satz 1 Nummer 4 nicht
-erfüllt, so ist Antragstellern, die ihre Ausbildung für die Ausübung
-des zahnärztlichen Berufs in einem der übrigen Mitgliedstaaten der
-Europäischen Union oder einem anderen Vertragsstaat des Abkommens
-über den Europäischen Wirtschaftsraum oder der Schweiz abgeschlossen
-haben und nicht unter Absatz 1 oder § 20a fallen, die Approbation zu
-erteilen, wenn die Gleichwertigkeit des Ausbildungsstandes gegeben
-ist. Der Ausbildungsstand ist als gleichwertig anzusehen, wenn
-die Ausbildung des Antragstellers keine wesentlichen Unterschiede
-gegenüber der Ausbildung aufweist, die in diesem Gesetz und in
-der Rechtsverordnung nach § 3 Absatz 1 geregelt ist. Wesentliche
-Unterschiede nach Satz 2 liegen vor, wenn
-
-1.  die Ausbildung der Antragsteller hinsichtlich der beruflichen
-    Tätigkeit Fächer umfasst, die sich wesentlich von der deutschen
-    Ausbildung unterscheiden, oder
-
-2.  der Beruf des Zahnarztes eine oder mehrere reglementierte Tätigkeiten
-    umfasst, die in dem Staat, der den Ausbildungsnachweis ausgestellt
-    hat, nicht Bestandteil des Berufs des Zahnarztes sind, und die
-    deutsche Ausbildung Fächer umfasst, die sich wesentlich von denen
-    unterscheiden, die von dem Ausbildungsnachweis der Antragsteller
-    abgedeckt werden.
-
-Fächer unterscheiden sich wesentlich, bei denen Kenntnis und
-Fähigkeiten eine wesentliche Voraussetzung für die Ausübung des
-Berufs sind und bei denen die Ausbildung der Antragsteller gegenüber
-der deutschen Ausbildung wesentliche Abweichungen hinsichtlich des
-Inhalts aufweist. Wesentliche Unterschiede können ganz oder teilweise
-durch Kenntnisse und Fähigkeiten ausgeglichen werden, die die
-Antragsteller im Rahmen ihrer zahnärztlichen Berufspraxis in Voll-
-oder Teilzeit oder durch lebenslanges Lernen erworben haben, sofern
-die durch lebenslanges Lernen erworbenen Kenntnisse und Fähigkeiten
-von einer dafür in dem jeweiligen Staat zuständigen Stelle formell
-als gültig anerkannt wurden; dabei ist nicht entscheidend, in welchem
-Staat diese Kenntnisse und Fähigkeiten erworben worden sind. Liegen
-wesentliche Unterschiede nach den Sätzen 3 bis 5 vor, müssen die
-Antragsteller nachweisen, dass sie über die Kenntnisse und Fähigkeiten
-verfügen, die zur Ausübung des Berufs des Zahnarztes erforderlich
-sind. Dieser Nachweis ist durch eine Eignungsprüfung zu erbringen, die
-sich auf die festgestellten wesentlichen Unterschiede bezieht. Über
-die Feststellung der wesentlichen Unterschiede, die zur Auferlegung
-einer Eignungsprüfung führt, ist den Antragstellern spätestens vier
-Monate, nachdem der zuständigen Behörde alle erforderlichen Unterlagen
-vorliegen, ein rechtsmittelfähiger Bescheid zu erteilen. Im Falle
-des § 81a des Aufenthaltsgesetzes soll der Bescheid innerhalb von
-zwei Monaten erteilt werden. Die Sätze 2 bis 9 gelten auch für
-Antragsteller, die über einen Ausbildungsnachweis als Zahnarzt
-verfügen, der in einem anderen als den in Satz 1 genannten Staaten
-(Drittland) ausgestellt ist und ein anderer der in Satz 1 genannten
-Staaten diesen Ausbildungsnachweis anerkannt hat.
-
-(3) Ist die Voraussetzung des Absatzes 1 Satz 1 Nummer 4 nicht
-erfüllt, so ist Antragstellern, die über einen Ausbildungsnachweis für
-die Ausübung des zahnärztlichen Berufs verfügen, der in einem anderen
-als den in Absatz 2 Satz 1 genannten Staaten (Drittland) ausgestellt
-ist, die Approbation zu erteilen, wenn die Gleichwertigkeit des
-Ausbildungsstandes gegeben ist. Für die Prüfung der Gleichwertigkeit
-gilt Absatz 2 Satz 2 bis 6 sowie 8 und 9 entsprechend. Der Nachweis
-der erforderlichen Kenntnisse und Fähigkeiten wird durch das Ablegen
-einer Prüfung erbracht, die sich auf den Inhalt der staatlichen
-Abschlussprüfung bezieht. Die erforderlichen Kenntnisse und
-Fähigkeiten nach Satz 3 sind auch nachzuweisen, wenn die Prüfung des
-Antrags nur mit unangemessenem zeitlichen oder sachlichen Aufwand
-möglich ist, weil die erforderlichen Unterlagen und Nachweise aus
-Gründen, die nicht in der Person der Antragsteller liegen, von diesen
-nicht vorgelegt werden können.
-
-(3a) Wird die Voraussetzung des Absatzes 1 Satz 1 Nummer 4 auf
-eine Ausbildung gestützt, die außerhalb des Geltungsbereichs dieses
-Gesetzes abgeschlossen worden ist, sollen die Voraussetzungen der
-Gleichwertigkeit der Berufsqualifikation nach den Absätzen 2 oder 3
-vor den Voraussetzungen nach Absatz 1 Satz 1 Nummer 2, 3 und 5 geprüft
-werden. Auf Antrag ist dem Antragsteller ein gesonderter Bescheid
-über die Feststellung der Gleichwertigkeit seiner Berufsqualifikation
-zu erteilen.
-
-(4) Soll die Erteilung der Approbation wegen Fehlens einer der
-Voraussetzungen nach Absatz 1 Satz 1 Nr. 2 und 3 abgelehnt werden,
+(2) Soll die Erteilung der Approbation wegen Fehlens einer der
+Voraussetzungen nach Absatz 1 Satz 1 Nummer 2 oder 3 abgelehnt werden,
 so ist der Antragsteller oder sein gesetzlicher Vertreter vorher zu
 hören.
 
-(5) Ist gegen den Antragsteller wegen des Verdachts einer Straftat,
+(3) Ist gegen den Antragsteller wegen des Verdachts einer Straftat,
 aus der sich seine Unwürdigkeit oder Unzuverlässigkeit zur
 Ausübung des zahnärztlichen Berufs ergeben kann, ein Strafverfahren
 eingeleitet, so kann die Entscheidung über den Antrag auf Erteilung
-der Approbation bis zur Beendigung des Verfahrens ausgesetzt werden.
+der Approbation oder der Erlaubnis zur partiellen Berufsausübung bis
+zur Beendigung des Verfahrens ausgesetzt werden.
 
-(6) Wenn ein Antragsteller die Approbation auf Grund einer außerhalb
-des Geltungsbereichs dieses Gesetzes abgeschlossenen Ausbildung
-für die Ausübung des zahnärztlichen Berufs beantragt, sind folgende
-Unterlagen und Bescheinigungen vorzulegen:
-
-1.  ein Identitätsnachweis,
-
-1a. eine tabellarische Aufstellung der absolvierten Ausbildungsgänge und
-    der ausgeübten Erwerbstätigkeiten,
-
-2.  eine amtlich beglaubigte Kopie der Befähigungsnachweise oder des
-    Ausbildungsnachweises, der zur Aufnahme des entsprechenden Berufs
-    berechtigt, sowie gegebenenfalls eine Bescheinigung über die von der
-    betreffenden Person erworbene Berufserfahrung,
-
-2a. im Fall von Absatz 3 eine Bescheinigung über die Berechtigung zur
-    Berufsausübung im Herkunftsstaat und Unterlagen, die geeignet sind
-    darzulegen, im Inland den zahnärztlichen Beruf ausüben zu wollen,
-
-3.  die Unterlagen, die von den zuständigen Behörden des
-    Herkunftsmitgliedstaats ausgestellt wurden und belegen, dass die
-    Erfordernisse nach Absatz 1 Satz 1 Nr. 2 erfüllt werden oder,
-    wenn im Herkunftsmitgliedstaat die vorgenannten Unterlagen nicht
-    ausgestellt werden, eine eidesstattliche Erklärung oder – in den
-    Staaten, in denen es keine eidesstattliche Erklärung gibt – eine
-    feierliche Erklärung, die die betreffende Person vor einer zuständigen
-    Justiz- oder Verwaltungsbehörde oder gegebenenfalls vor einem
-    Notar oder einer entsprechend bevollmächtigten Berufsorganisation
-    des Herkunftsmitgliedstaats, der eine diese eidesstattliche oder
-    feierliche Erklärung bestätigende Bescheinigung ausstellt, abgegeben
-    hat,
-
-4.  der Nachweis nach Absatz 1 Satz 1 Nr. 3, wobei ein entsprechender
-    Nachweis, der im Herkunftsmitgliedstaat gefordert wird, anerkannt wird
-    oder, wenn im Herkunftsmitgliedstaat kein derartiger Nachweis verlangt
-    wird, eine von einer zuständigen Behörde des Herkunftsmitgliedstaats
-    ausgestellte Bescheinigung,
-
-5.  eine Bescheinigung der zuständigen Behörden des
-    Herkunftsmitgliedstaats, aus der hervorgeht, dass die Nachweise über
-    die geforderten Ausbildungsvoraussetzungen den in der Richtlinie
-    verlangten Nachweisen entsprechen,
-
-6.  in den Fällen des Absatzes 2 oder 3 zusätzliche Nachweise, um
-    feststellen zu können, ob die Ausbildung wesentliche Unterschiede
-    gegenüber der Ausbildung aufweist, die in diesem Gesetz und in der
-    Rechtsverordnung nach § 3 Absatz 1 geregelt ist,
-
-7.  für den Fall, dass sich Ausbildungsnachweise nach Artikel 3 Abs. 1
-    Buchstabe c der Richtlinie 2005/36/EG, die von der zuständigen Behörde
-    eines Mitgliedstaats oder eines anderen Vertragsstaates des Abkommens
-    über den Europäischen Wirtschaftsraum oder eines Vertragsstaates,
-    dem Deutschland und die Europäische Gemeinschaft oder Deutschland und
-    die Europäische Union vertraglich einen entsprechenden Rechtsanspruch
-    eingeräumt haben, ausgestellt wurden, auf eine Ausbildung beziehen,
-    die ganz oder teilweise in einer rechtmäßig im Hoheitsgebiet eines
-    anderen der oben genannten Staaten niedergelassenen Einrichtung
-    absolviert wurde, Unterlagen darüber,
-
-    a)  ob der Ausbildungsgang in der betreffenden Einrichtung von der
-        Ausbildungseinrichtung des Ausstellungsmitgliedstaats offiziell
-        bescheinigt worden ist,
-
-    b)  ob der ausgestellte Ausbildungsnachweis dem entspricht, der
-        verliehen worden wäre, wenn der Ausbildungsgang vollständig im
-        Ausstellungsmitgliedstaat absolviert worden wäre, und
-
-    c)  ob mit dem Ausbildungsnachweis im Hoheitsgebiet des
-        Ausstellungsmitgliedstaats dieselben beruflichen Rechte verliehen
-        werden.
-
-    Die Nachweise nach Satz 1 Nr. 3 und 4 dürfen bei ihrer Vorlage
-    nicht älter als drei Monate sein. Haben die zuständigen Behörden
-    berechtigte Zweifel an der Authentizität der in dem jeweiligen
-    Herkunftsmitgliedstaat ausgestellten Bescheinigungen und
-    Ausbildungsnachweise, können sie von den zuständigen Behörden des
-    Herkunftsmitgliedstaats eine Bestätigung der Authentizität dieser
-    Bescheinigungen und Nachweise sowie eine Bestätigung darüber
-    verlangen, dass der Antragsteller die Mindestanforderungen der
-    Ausbildung erfüllt, die in Artikel 34 der Richtlinie 2005/36/EG
-    verlangt werden.
-
-Haben die zuständigen Behörden berechtigte Zweifel an der Berechtigung
-des Antragstellers zur Ausübung des zahnärztlichen Berufs, können sie
-von den zuständigen Behörden eines Mitgliedstaates eine Bestätigung
-verlangen, aus der sich ergibt, dass dem Antragsteller die Ausübung
-des zahnärztlichen Berufs nicht aufgrund eines schwerwiegenden
-standeswidrigen Verhaltens oder einer Verurteilung wegen strafbarer
-Handlungen dauerhaft oder vorübergehend untersagt worden ist.
-
-(7) Das Berufsqualifikationsfeststellungsgesetz findet mit Ausnahme
-des § 17 keine Anwendung.
-
-(8) Die Bundesregierung überprüft die Regelungen zu den
-Anerkennungsverfahren nach diesem Gesetz und berichtet nach Ablauf von
-drei Jahren dem Deutschen Bundestag.
+(4) Die nach § 16 zuständige Behörde kann schriftlich oder
+elektronisch bei den anderen nach § 16 zuständigen Behörden
+Auskunft darüber verlangen, ob der Antragsteller bei diesen Behörden
+Beteiligter eines nicht abgeschlossenen Verfahrens auf Erteilung
+der Approbation, der Erlaubnis zur Ausübung der Zahnheilkunde oder
+der Erlaubnis zur partiellen Ausübung der Zahnheilkunde ist und
+gegebenenfalls, zu welchem Zeitpunkt das Verfahren eingeleitet
+worden ist. Die angefragten Behörden haben die Auskunft unverzüglich
+schriftlich oder elektronisch zu erteilen. Die Länder können zum Zweck
+des Datenaustauschs ein Land oder eine gemeinsame Stelle beauftragen.
 
 
 ### § 3
@@ -453,24 +232,25 @@ Fristenregelungen vorsehen.
 zahnärztliche Prüfung nicht bestanden oder bei einer vor Wirksamwerden
 des Beitritts erteilten Approbation das an einer Ausbildungsstätte
 in dem in Artikel 3 des Einigungsvertrages genannten Gebiet oder
-das in einem Fall des § 20 Abs. 1 Satz 2 oder in einem Fall des § 20
-Abs. 4 Satz 1 erworbene Studium der Zahnheilkunde nicht abgeschlossen
-war oder die Ausbildung nach § 2 Abs. 1 Satz 2 oder 6 oder § 2
-Absatz 2 oder 3 oder die nach § 20a nachzuweisende Ausbildung nicht
-abgeschlossen war. Sie kann zurückgenommen werden, wenn bei ihrer
-Erteilung eine der Voraussetzungen nach § 2 Abs. 1 Satz 1 Nummer
-2 und 3 nicht vorgelegen hat. Eine nach § 2 Abs. 2 oder 3 erteilte
+das in einem Fall des § 20 Absatz 1 Satz 2 oder in einem Fall des
+§ 20 Absatz 4 Satz 1 erworbene Studium der Zahnheilkunde nicht
+abgeschlossen war oder die Ausbildung nach den §§ 12a oder 12b
+oder die nach § 20a nachzuweisende Ausbildung nicht abgeschlossen
+war. Sie kann zurückgenommen werden, wenn bei ihrer Erteilung eine
+der Voraussetzungen nach § 2 Absatz 1 Satz 1 Nummer 2 und 3 nicht
+vorgelegen hat. Eine nach § 12a Absatz 4 bis 7 oder § 12b erteilte
 Approbation kann zurückgenommen werden, wenn die festgestellte
 Gleichwertigkeit des Ausbildungsstandes tatsächlich nicht gegeben
 war oder der alternativ festgestellte gleichwertige Kenntnisstand
-tatsächlich nicht nachgewiesen worden ist. Eine nach § 2 Absatz 2 oder
-3 oder nach § 20a Absatz 5 erteilte Approbation kann zurückgenommen
-werden, wenn die nachzuweisende Ausbildung tatsächlich doch
-wesentliche Unterschiede gegenüber der in diesem Gesetz und in der
-Rechtsverordnung nach § 3 Absatz 1 geregelten Ausbildung aufgewiesen
-hat oder die zur Ausübung des zahnärztlichen Berufs im Geltungsbereich
-dieses Gesetzes erforderlichen Kenntnisse und Fähigkeiten in der
-Eignungsprüfung tatsächlich nicht nachgewiesen worden sind.
+tatsächlich nicht nachgewiesen worden ist. Eine nach § 12a Absatz 4
+bis 7 oder § 12b oder nach § 20a Absatz 5 erteilte Approbation kann
+zurückgenommen werden, wenn die nachzuweisende Ausbildung tatsächlich
+doch wesentliche Unterschiede gegenüber der in diesem Gesetz und
+in der Rechtsverordnung nach § 3 Absatz 1 geregelten Ausbildung
+aufgewiesen hat oder die zur Ausübung des zahnärztlichen Berufs
+im Geltungsbereich dieses Gesetzes erforderlichen Kenntnisse und
+Fähigkeiten in der Eignungs- oder Kenntnisprüfung tatsächlich nicht
+nachgewiesen worden sind.
 
 (2) Die Approbation ist zu widerrufen, wenn nachträglich die
 Voraussetzung nach § 2 Abs. 1 Satz 1 Nr. 2 weggefallen ist. Sie kann
@@ -513,9 +293,9 @@ Beruf nicht ausüben.
 
 ### § 7
 
-Auf die Approbation kann durch schriftliche Erklärung gegenüber der
-zuständigen Behörde verzichtet werden. Ein Verzicht, der unter einer
-Bedingung erklärt wird, ist unwirksam.
+Auf die Approbation kann durch schriftliche oder elektronische
+Erklärung gegenüber der zuständigen Behörde verzichtet werden. Ein
+Verzicht, der unter einer Bedingung erklärt wird, ist unwirksam.
 
 
 ### § 7a
@@ -533,20 +313,23 @@ Jahren erteilt werden.
 ### § 7b
 
 (1) Die jeweils zuständige Stelle unterrichtet die zuständigen
-Behörden der anderen Mitgliedstaaten der Europäischen Union,
-der anderen Vertragsstaaten des Abkommens über den Europäischen
-Wirtschaftsraum und der Schweiz über
+Behörden der anderen Mitgliedstaaten, der anderen Vertragsstaaten und
+der gleichgestellten Staaten über
 
-1.  den Widerruf, die Rücknahme oder das Ruhen der Approbation oder der
-    Erlaubnis, die sofort vollziehbar oder unanfechtbar sind,
+1.  den Widerruf, die Rücknahme oder das Ruhen der Approbation, der
+    Erlaubnis zur Ausübung der Zahnheilkunde oder der Erlaubnis zur
+    partiellen Ausübung der Zahnheilkunde, die sofort vollziehbar oder
+    unanfechtbar sind,
 
 2.  die sofort vollziehbare oder unanfechtbare Einschränkung der Ausübung
-    des zahnärztlichen Berufs,
+    des zahnärztlichen Berufs oder der partiellen Berufsausübung,
 
-3.  den Verzicht auf die Approbation oder die Erlaubnis,
+3.  den Verzicht auf die Approbation, die Erlaubnis zur Ausübung
+    der Zahnheilkunde oder die Erlaubnis zur partiellen Ausübung der
+    Zahnheilkunde,
 
-4.  das Verbot der Ausübung des zahnärztlichen Berufs durch unanfechtbare
-    gerichtliche Entscheidung oder
+4.  das Verbot der Ausübung des zahnärztlichen Berufs oder der partiellen
+    Berufsausübung durch unanfechtbare gerichtliche Entscheidung oder
 
 5.  das vorläufige Berufsverbot durch gerichtliche Entscheidung.
 
@@ -576,47 +359,42 @@ Informationssystems und zur Aufhebung der Entscheidung 2008/49/
 EG der Kommission (ABl. L 316 vom 14.11.2012, S. 1) eingerichtete
 Binnenmarkt-Informationssystem (IMI) zu übermitteln. Zeitgleich mit
 der Warnmitteilung unterrichtet die Stelle, die die Warnmitteilung
-getätigt hat, die betroffene Person über die Warnmitteilung und deren
-Inhalt schriftlich unter Beifügung einer Rechtsbehelfsbelehrung.
-Wird ein Rechtsbehelf gegen die Warnmitteilung eingelegt, ergänzt die
-Stelle, die die Warnmitteilung getätigt hat, die Warnmitteilung um
-einen entsprechenden Hinweis.
+getätigt hat, die betroffene Person über die Warnmitteilung und
+deren Inhalt schriftlich oder elektronisch unter Beifügung einer
+Rechtsbehelfsbelehrung. Wird ein Rechtsbehelf gegen die Warnmitteilung
+eingelegt, ergänzt die Stelle, die die Warnmitteilung getätigt hat,
+die Warnmitteilung um einen entsprechenden Hinweis.
 
 (3) Im Fall der Aufhebung einer in Absatz 1 genannten Entscheidung
 oder eines Widerrufs des Verzichts unterrichtet jeweils die zuständige
-Stelle die zuständigen Behörden der anderen Mitgliedstaaten der
-Europäischen Union, der anderen Vertragsstaaten des Abkommens über den
-Europäischen Wirtschaftsraum und der Schweiz unverzüglich unter Angabe
-des Datums über die Aufhebung der Entscheidung oder den Widerruf des
-Verzichts. Die zuständige Stelle unterrichtet die zuständigen Behörden
-der anderen Mitgliedstaaten der Europäischen Union, der anderen
-Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
-und der Schweiz ebenfalls unverzüglich über jede Änderung des nach
-Absatz 2 Satz 1 Nummer 5 angegebenen Zeitraums. Die zuständige Stelle
-löscht Warnmitteilungen nach Absatz 1 im IMI unverzüglich, spätestens
-jedoch drei Tage nach Aufhebung der Entscheidung oder Widerruf des
-Verzichts.
+Stelle die zuständigen Behörden der anderen Mitgliedstaaten, der
+anderen Vertragsstaaten und der gleichgestellten Staaten unverzüglich
+unter Angabe des Datums über die Aufhebung der Entscheidung oder
+den Widerruf des Verzichts. Die zuständige Stelle unterrichtet
+die zuständigen Behörden der anderen Mitgliedstaaten, der anderen
+Vertragsstaaten und der gleichgestellten Staaten ebenfalls
+unverzüglich über jede Änderung des nach Absatz 2 Satz 1 Nummer 5
+angegebenen Zeitraums. Die zuständige Stelle löscht Warnmitteilungen
+nach Absatz 1 im IMI unverzüglich, spätestens jedoch drei Tage nach
+Aufhebung der Entscheidung oder Widerruf des Verzichts.
 
-(4) Wird gerichtlich festgestellt, dass eine Person, die die Erteilung
-der Approbation oder die Feststellung der Gleichwertigkeit ihrer
-Berufsqualifikation nach diesem Gesetz beantragt hat, dabei gefälschte
-Berufsqualifikationsnachweise verwendet hat, unterrichtet die
-zuständige Stelle die zuständigen Behörden der anderen Mitgliedstaaten
-der Europäischen Union, der anderen Vertragsstaaten des Abkommens
-über den Europäischen Wirtschaftsraum und der Schweiz über die
-Identität dieser Person, insbesondere über Name, Vorname, Geburtsdatum
-und Geburtsort, und den Umstand, dass diese Person gefälschte
-Berufsqualifikationsnachweise verwendet hat. Die Unterrichtung erfolgt
-unverzüglich, spätestens jedoch drei Tage nach Unanfechtbarkeit
-der Feststellung über das IMI. Absatz 2 Satz 4 und 5 gilt für die
-Unterrichtung nach Satz 1 entsprechend.
+(4) Wird gerichtlich festgestellt, dass eine Person, die die
+Erteilung der Approbation, die Erteilung der Erlaubnis zur Ausübung
+der Zahnheilkunde, die Erteilung der Erlaubnis zur partiellen
+Ausübung der Zahnheilkunde oder die Feststellung der Gleichwertigkeit
+ihrer Berufsqualifikation nach diesem Gesetz beantragt hat, dabei
+gefälschte Berufsqualifikationsnachweise verwendet hat, unterrichtet
+die zuständige Stelle die zuständigen Behörden der anderen
+Mitgliedstaaten, der anderen Vertragsstaaten und der gleichgestellten
+Staaten über die Identität dieser Person, insbesondere über Name,
+Vorname, Geburtsdatum und Geburtsort, und den Umstand, dass diese
+Person gefälschte Berufsqualifikationsnachweise verwendet hat. Die
+Unterrichtung erfolgt unverzüglich, spätestens jedoch drei Tage nach
+Unanfechtbarkeit der Feststellung über das IMI. Absatz 2 Satz 4 und 5
+gilt für die Unterrichtung nach Satz 1 entsprechend.
 
 (5) Ergänzend zu den Absätzen 1 bis 4 ist die Durchführungsverordnung
-(EU) 2015/983 der Kommission vom 24. Juni 2015 betreffend das
-Verfahren zur Ausstellung des Europäischen Berufsausweises und die
-Anwendung des Vorwarnmechanismus gemäß der Richtlinie 2005/36/EG des
-Europäischen Parlaments und des Rates (ABl. L 159 vom 25.6.2015, S.
-27) in der jeweils geltenden Fassung zu beachten.
+(EU) 2015/983 zu beachten.
 
 
 ## II. - Eingliederung der Dentisten
@@ -679,7 +457,7 @@ für eine Erteilung der Approbation als Zahnarzt am 27. Januar 1980
 erfüllt hatten.
 
 
-## III. - Sonderbestimmungen
+## IIa. - Anerkennung von außerhalb des Geltungsbereichs dieses Gesetzes erworbenen Berufsqualifikationen
 
 
 ### § 12
@@ -687,24 +465,244 @@ erfüllt hatten.
 (weggefallen)
 
 
+### § 12
+
+(1) Wird die Voraussetzung des § 2 Absatz 1 Satz 1 Nummer 4 auf eine
+Berufsqualifikation gestützt, die in einem anderen Mitgliedstaat,
+einem anderen Vertragsstaat oder einem gleichgestellten Staat
+abgeschlossen worden ist, ist bei der Entscheidung über die Erteilung
+der Approbation die Berufsqualifikation vor den Voraussetzungen
+des § 2 Absatz 1 Satz 1 Nummer 2, 3 und 5 zu prüfen. Gleiches gilt
+für Antragsteller, die über einen Ausbildungsnachweis als Zahnarzt
+verfügen, der in einem Drittstaat ausgestellt ist und den einer der in
+Satz 1 genannten Staaten anerkannt hat.
+
+(2) Auf Antrag ist dem Antragsteller ein gesonderter Bescheid über
+die Feststellung der Gleichwertigkeit seiner Berufsqualifikation zu
+erteilen.
+
+(3) Das Berufsqualifikationsfeststellungsgesetz findet mit Ausnahme
+des § 17 des Berufsqualifikationsfeststellungsgesetzes bei der
+Anerkennung von Berufsqualifikationen nach diesem Gesetz keine
+Anwendung.
+
+(4) Die Länder können vereinbaren, dass die Aufgaben nach den §§ 12a
+bis 12c von einem anderen Land oder einer gemeinsamen Einrichtung
+wahrgenommen werden.
+
+
+### § 12a
+
+(1) Eine in einem anderen Mitgliedstaat, in einem anderen
+Vertragsstaat oder in einem gleichgestellten Staat abgeschlossene
+zahnärztliche Ausbildung erfüllt die Voraussetzung des § 2 Absatz 1
+Satz 1 Nummer 4, wenn sie durch Vorlage
+
+1.  eines Europäischen Berufsausweises,
+
+2.  eines zahnärztlichen Ausbildungsnachweises, der im Anhang V Nummer
+    5\.3.2. der Richtlinie 2005/36/EG aufgeführt und nach dem dort
+    genannten Stichtag ausgestellt ist,
+
+3.  eines nach dem 31. Dezember 1992 ausgestellten zahnärztlichen
+    Ausbildungsnachweises eines Vertragsstaats oder
+
+4.  eines nach dem hierfür maßgebenden Zeitpunkt ausgestellten
+    Ausbildungsnachweises eines gleichgestellten Staates
+
+nachgewiesen wird. Bei zahnärztlichen Ausbildungsnachweisen von
+nach dem 20. Dezember 1976 der Europäischen Union beigetretenen
+Mitgliedstaaten wird auf eine Ausbildung abgestellt, die nach dem
+entsprechenden Datum begonnen wurde; hierfür gilt das Datum des
+Beitritts oder, bei abweichender Vereinbarung, das hiernach maßgebende
+Datum, oder bei zahnärztlichen Ausbildungsnachweisen eines anderen
+Vertragsstaats oder eines gleichgestellten Staats, mit dem eine
+besondere Vereinbarung zum Zeitpunkt der Geltung der Verpflichtungen
+aus den Richtlinien 78/686/EWG und 78/687/EWG getroffen worden ist,
+das hiernach maßgebende Datum. Die Ausbildungsnachweise nach Satz 1
+gelten auch dann als Nachweis einer abgeschlossenen zahnärztlichen
+Ausbildung im Sinne des § 2 Absatz 1 Satz 1 Nummer 4, wenn die
+Ausbildung aus einer Dauer von mindestens fünf Jahren und weniger
+als 5 000 Stunden theoretischer und praktischer Ausbildung auf
+Vollzeitbasis bestand, sofern der Antragsteller diese Ausbildung
+spätestens am 18. Januar 2016 begonnen hat.
+
+(2) Gleichwertig den in Absatz 1 Satz 1 genannten zahnärztlichen
+Ausbildungsnachweisen sind von einem anderen Mitgliedstaat, einem
+anderen Vertragsstaat oder einem gleichgestellten Staat ausgestellte
+zahnärztliche Ausbildungsnachweise, die den im Anhang V Nummer 5.3.2.
+der Richtlinie 2005/36/EG für den betreffenden Staat aufgeführten
+Bezeichnungen nicht entsprechen, aber mit einer Bescheinigung
+der zuständigen Behörde oder Stelle des Herkunftsstaats darüber
+vorgelegt werden, dass sie eine Ausbildung abschließen, die den
+Mindestanforderungen des Artikels 34 der Richtlinie 2005/36/EG
+entspricht, und dass sie den für diesen Staat im Anhang V Nummer
+5\.3.2. der Richtlinie 2005/36/EG aufgeführten Nachweisen gleichstehen.
+
+(3) Der Anhang V Nummer 5.3.2. der Richtlinie 2005/36/EG findet im
+Rahmen dieses Gesetzes Anwendung.
+
+(4) Ist die Voraussetzung des § 2 Absatz 1 Satz 1 Nummer 4 nicht
+erfüllt, so ist Antragstellern, die ihre zahnärztliche Ausbildung in
+einem anderen Mitgliedstaat, einem anderen Vertragsstaat oder einem
+gleichgestellten Staat erworben haben und die nicht unter die Absätze
+1 oder 2 oder unter § 20a fallen, die Approbation zu erteilen, wenn
+die Gleichwertigkeit der Berufsqualifikation gegeben ist.
+
+(5) Die erworbene Berufsqualifikation ist als gleichwertig
+anzusehen, wenn sie keine wesentlichen Unterschiede gegenüber der
+Berufsqualifikation aufweist, die in diesem Gesetz und in der auf
+Grund des § 3 Absatz 1 erlassenen Rechtsverordnung geregelt ist.
+Wesentliche Unterschiede liegen vor, wenn
+
+1.  die von dem Antragsteller erworbene Berufsqualifikation hinsichtlich
+    der beruflichen Tätigkeit Bestandteile umfasst, die sich wesentlich
+    von denen unterscheiden, die nach diesem Gesetz und der auf Grund des
+    § 3 Absatz 1 erlassenen Rechtsverordnung vorgeschrieben sind, oder
+
+2.  in dem Staat, in dem der Antragsteller seine Berufsqualifikation
+    erworben hat, eine oder mehrere Tätigkeiten des in diesem Gesetz
+    oder in der auf Grund des § 3 Absatz 1 erlassenen Rechtsverordnung
+    geregelten Berufs des Zahnarztes nicht Bestandteil der Tätigkeit des
+    Berufs ist oder sind, der dem des Zahnarztes entspricht, und wenn sich
+    dadurch die von dem Antragsteller erworbene Berufsqualifikation oder
+    einzelne Bestandteile seiner Berufsqualifikation wesentlich von der
+    Berufsqualifikation nach diesem Gesetz und nach der auf Grund des § 3
+    Absatz 1 erlassenen Rechtsverordnung unterscheiden.
+
+Einzelne Bestandteile unterscheiden sich wesentlich, wenn die von dem
+Antragsteller erworbene Berufsqualifikation wesentliche Abweichungen
+hinsichtlich der Art und Weise der Ausbildungsvermittlung oder
+wesentliche inhaltliche Abweichungen hinsichtlich der Kenntnisse
+und Fähigkeiten aufweist, die eine wesentliche Voraussetzung für die
+Ausübung des Berufs des Zahnarztes in Deutschland sind.
+
+(6) Wesentliche Unterschiede nach Absatz 5 Satz 2 können ganz oder
+teilweise durch Kenntnisse und Fähigkeiten ausgeglichen werden, die
+der Antragsteller im Rahmen seiner zahnärztlichen Berufspraxis, in
+Voll- oder Teilzeit oder durch lebenslanges Lernen erworben hat. Die
+Anerkennung von Kenntnissen und Fähigkeiten, die durch lebenslanges
+Lernen erworben wurden, setzt voraus, dass sie von einer dafür in
+dem jeweiligen Staat zuständigen Stelle formell als gültig anerkannt
+wurden. Es ist nicht entscheidend, in welchem Staat die jeweiligen
+Kenntnisse und Fähigkeiten erworben worden sind.
+
+(7) Liegen wesentliche Unterschiede nach den Absätzen 5 und 6 vor,
+muss der Antragsteller nachweisen, dass er über die Kenntnisse und
+Fähigkeiten verfügt, die zur Ausübung des Berufs des Zahnarztes
+erforderlich sind. Dieser Nachweis ist durch eine Eignungsprüfung zu
+erbringen, die sich auf die festgestellten wesentlichen Unterschiede
+bezieht. Die Sätze 1 und 2 sowie die Absätze 5 und 6 gelten auch
+für Antragsteller, die über einen Ausbildungsnachweis als Zahnarzt
+verfügen, der in einem Drittstaat ausgestellt ist und den ein anderer
+der in Absatz 1 Satz 1 genannten Staaten anerkannt hat.
+
+
+### § 12b
+
+(1) Eine in einem Drittstaat erworbene abgeschlossene
+Berufsqualifikation erfüllt die Voraussetzung des § 2 Absatz 1 Satz 1
+Nummer 4, wenn
+
+1.  diese Berufsqualifikation in dem Staat, in dem sie erworben wurde,
+    für den unmittelbaren Zugang zu einem dem Beruf des Zahnarztes
+    entsprechenden Beruf erforderlich ist und
+
+2.  der Antragsteller über die Kenntnisse und Fähigkeiten verfügt, die zur
+    Ausübung des Berufs des Zahnarztes erforderlich sind.
+
+(2) Der Nachweis der erforderlichen Kenntnisse und Fähigkeiten nach
+Absatz 1 Nummer 2 wird durch das Ablegen einer Prüfung erbracht,
+die sich auf den Inhalt der staatlichen Abschlussprüfung bezieht
+(Kenntnisprüfung), sofern der Antragsteller sich nicht für das
+Verfahren nach Absatz 3 entscheidet. Die Entscheidung für das
+Verfahren nach Absatz 3 ist nur bis vier Wochen nach Antragstellung
+möglich. Sie ist für die Dauer des Verfahrens zur Erteilung der
+Approbation bindend. Der Antragsteller ist über die Möglichkeit der
+Entscheidung für das Verfahren nach Absatz 3 und die sich daraus
+ergebenden Rechtsfolgen aufzuklären.
+
+(3) Entscheidet sich der Antragsteller gegen das Verfahren nach Absatz
+2, ist der Nachweis der erforderlichen Kenntnisse und Fähigkeiten
+nach Absatz 1 Nummer 2 erbracht, wenn die Gleichwertigkeit der
+Berufsqualifikation gegeben ist. Für die Prüfung der Gleichwertigkeit
+gilt § 12a Absatz 5 und 6 entsprechend. Liegen wesentliche
+Unterschiede vor, muss der Antragsteller nachweisen, dass er über
+die Kenntnisse und Fähigkeiten verfügt, die zur Ausübung des Berufs
+des Zahnarztes erforderlich sind. Dieser Nachweis wird durch eine
+Kenntnisprüfung erbracht, die sich auf den Inhalt der staatlichen
+Abschlussprüfung bezieht. Die Kenntnisprüfung ist auch abzulegen,
+wenn die Prüfung des Antrags nur mit unangemessenem zeitlichen oder
+sachlichen Aufwand möglich ist, weil die erforderlichen Unterlagen
+und Nachweise aus Gründen, die nicht in der Person der Antragsteller
+liegen, von diesen nicht vollständig vorgelegt werden können.
+
+
+### § 12c
+
+(1) Die zuständige Behörde des Landes, in dem eine Person den
+Beruf des Zahnarztes ausübt oder zuletzt ausgeübt hat, unterrichtet
+die zuständigen Behörden des Herkunftsstaats unter Einhaltung der
+Vorschriften zum Schutz personenbezogener Daten, über
+
+1.  das Vorliegen strafrechtlicher Sanktionen,
+
+2.  die Rücknahme, den Widerruf und die Anordnung des Ruhens der
+    Approbation, der Erlaubnis zur Ausübung der Zahnheilkunde oder der
+    Erlaubnis zur partiellen Ausübung der Zahnheilkunde,
+
+3.  die Untersagung der Ausübung der Tätigkeit und
+
+4.  über Tatsachen, die eine der genannten Sanktionen oder Maßnahmen
+    rechtfertigen würden.
+
+(2) Erhalten die zuständigen Behörden der Länder Auskünfte der
+zuständigen Behörden von Aufnahmestaaten, die sich auf die Ausübung
+des Berufs des Zahnarztes in Deutschland auswirken könnten, so
+überprüfen sie die Richtigkeit der Sachverhalte, befinden über
+Art und Umfang der durchzuführenden Prüfungen und unterrichten
+den Aufnahmestaat über die Konsequenzen, die aus den übermittelten
+Auskünften zu ziehen sind.
+
+(3) Die Länder teilen dem Bundesministerium für Gesundheit mit, welche
+Behörden für die Anerkennung von Berufsqualifikationen nach § 12b,
+die Entgegennahme der Meldung über eine Dienstleistungserbringung
+nach § 13b oder sonstige Entscheidungen, die im Zusammenhang mit der
+Richtlinie 2005/36/EG stehen, zuständig sind. Das Bundesministerium
+für Gesundheit unterrichtet die anderen Mitgliedstaaten, die anderen
+Vertragsstaaten, die gleichgestellten Staaten und die Europäische
+Kommission unverzüglich über die Benennung dieser Behörden.
+
+(4) Die nach Absatz 3 von den Ländern benannten Behörden übermitteln
+dem Bundesministerium für Gesundheit statistische Aufstellungen
+zu ihren Entscheidungen über Anträge auf Anerkennung der
+Berufsqualifikation nach § 12a, die die Europäische Kommission für
+den nach Artikel 60 Absatz 1 der Richtlinie 2005/36/EG erforderlichen
+Bericht benötigt. Das Bundesministerium für Gesundheit leitet die
+ihm übermittelten statistischen Aufstellungen an die Europäische
+Kommission weiter.
+
+
+## III. - Erlaubnis, Erbringen von Dienstleistungen
+
+
 ### § 13
 
-(1) Die Erlaubnis zur vorübergehenden Ausübung der Zahnheilkunde
-kann auf Antrag Personen erteilt werden, die eine abgeschlossene
-zahnärztliche Ausbildung nachweisen. Eine Erlaubnis nach Satz 1
-wird Antragstellern, die über einen Ausbildungsnachweis als Zahnarzt
-verfügen, der in einem Mitgliedstaat der Europäischen Union,
-einem anderen Vertragsstaat des Abkommens über den Europäischen
-Wirtschaftsraum oder in der Schweiz ausgestellt wurde, nicht erteilt.
-Eine Erlaubnis wird auch nicht in den Fällen des § 2 Absatz 2 Satz 10
-erteilt. § 7a bleibt unberührt.
+(1) Die Erlaubnis zur Ausübung der Zahnheilkunde kann auf Antrag
+Personen erteilt werden, die eine abgeschlossene zahnärztliche
+Ausbildung nachweisen. Eine Erlaubnis nach Satz 1 wird Antragstellern,
+die über einen Ausbildungsnachweis als Zahnarzt verfügen, der in einem
+Mitgliedstaat, einem anderen Vertragsstaat oder einem gleichgestellten
+Staat ausgestellt wurde, nicht erteilt. Eine Erlaubnis wird auch
+nicht in den Fällen des § 12a Absatz 7 Satz 3 erteilt. § 7a bleibt
+unberührt.
 
 (1a) Abweichend von Absatz 1 Satz 2 und 3 kann auf Antrag eine
-Erlaubnis zur vorübergehenden Ausübung der Zahnheilkunde erteilt
-werden, wenn mit dem Antrag dargelegt wird, dass im Hinblick auf die
-beabsichtigte Ausübung der Zahnheilkunde ein besonderes Interesse an
-der Erteilung der Erlaubnis besteht. Die Erlaubnis steht der Erteilung
-einer Approbation nicht entgegen.
+Erlaubnis zur Ausübung der Zahnheilkunde erteilt werden, wenn mit dem
+Antrag dargelegt wird, dass im Hinblick auf die beabsichtigte Ausübung
+der Zahnheilkunde ein besonderes Interesse an der Erteilung der
+Erlaubnis besteht. Die Erlaubnis steht der Erteilung einer Approbation
+nicht entgegen.
 
 (2) Die Erlaubnis kann auf bestimmte Tätigkeiten und
 Beschäftigungsstellen beschränkt werden. Sie darf nur widerruflich
@@ -715,27 +713,36 @@ verlängert werden.
 (3) Eine Erlaubnis darf ausnahmsweise über den in Absatz 2 genannten
 Zeitraum hinaus im besonderen Einzelfall oder aus Gründen der
 zahnärztlichen Versorgung erteilt oder verlängert werden, wenn eine
-Approbation wegen Fehlens der Voraussetzungen nach § 2 Absatz 1
-Nummer 4 nicht erteilt werden kann. Die §§ 4, 5, 7, 7a und 18 finden
-entsprechende Anwendung.
+Approbation wegen Fehlens der Voraussetzungen nach § 2 Absatz 1 Satz 1
+Nummer 4 nicht erteilt werden kann.
 
 (3a) Erlaubnisse nach Absatz 1 Satz 1, die vor dem 1. April 2012
 erteilt wurden, bleiben wirksam. Für sie ist Absatz 3 in seiner bis
 dahin geltenden Fassung bis zum 1. April 2014 für solche Inhaber der
 Erlaubnis weiter anzuwenden, die bis zum 1. Juli 2012 einen Antrag
 auf Erteilung der Approbation nach § 2 Absatz 1 Satz 1 gestellt
-haben. Satz 2 findet auf Staatsangehörige eines Mitgliedstaats der
-Europäischen Union, eines anderen Vertragsstaats des Abkommens über
-den Europäischen Wirtschaftsraum und der Schweiz, die über einen
-Ausbildungsnachweis nach Absatz 1 Satz 2 oder Satz 3 verfügen, sowie
-auf Drittstaatsangehörige, soweit sich nach dem Recht der Europäischen
-Gemeinschaft eine Gleichstellung ergibt, keine Anwendung.
+haben. Satz 2 findet auf Staatsangehörige eines Mitgliedstaats, eines
+anderen Vertragsstaats und eines gleichgestellten Staats, die über
+einen Ausbildungsnachweis nach Absatz 1 Satz 2 oder 3 verfügen, keine
+Anwendung.
 
-(4) In Ausnahmefällen kann eine Erlaubnis zur vorübergehenden Ausübung
-der Zahnheilkunde auf Antrag auch Personen erteilt werden, die
-außerhalb des Geltungsbereichs dieses Gesetzes eine zahnärztliche
-Ausbildung erworben, diese Ausbildung aber noch nicht abgeschlossen
-haben, wenn
+(3b) Abweichend von Absatz 2 Satz 2 kann eine Erlaubnis zur Ausübung
+der Zahnheilkunde unbefristet erteilt werden, wenn
+
+1.  dem Antragsteller vor dem 1. April 2012 erstmals eine Erlaubnis
+    erteilt worden ist und eine Approbation nicht erteilt werden kann,
+    weil die zahnärztliche Prüfung oder ein Abschnitt der zahnärztlichen
+    Prüfung nach der Rechtsverordnung nach § 3 vor der erstmaligen
+    Erteilung der Erlaubnis endgültig nicht bestanden wurde, oder
+
+2.  eine Approbation wegen des Fehlens der Voraussetzung nach § 2 Absatz 1
+    Satz 1 Nummer 3 auf Dauer nicht erteilt werden kann, insbesondere bei
+    erheblichen gesundheitlichen Einschränkungen.
+
+(4) In Ausnahmefällen kann eine Erlaubnis zur Ausübung der
+Zahnheilkunde auf Antrag auch Personen erteilt werden, die außerhalb
+des Geltungsbereichs dieses Gesetzes eine zahnärztliche Ausbildung
+erworben, diese Ausbildung aber noch nicht abgeschlossen haben, wenn
 
 1.  der Antragsteller auf Grund einer das Hochschulstudium abschließenden
     Prüfung außerhalb des Geltungsbereichs dieses Gesetzes die
@@ -746,65 +753,116 @@ haben, wenn
     zahnärztlichen Ausbildung erforderlich ist.
 
 Die Erlaubnis ist in diesen Fällen auf bestimmte Tätigkeiten und
-Beschäftigungsstellen zu beschränken. Die Erlaubnis kann mit der
-Auflage verbunden werden, daß die vorübergehende Ausübung der
-Zahnheilkunde unter Aufsicht eines Zahnarztes, der die Approbation
-oder die Erlaubnis nach Absatz 1 besitzt, erfolgt. Sie darf nur unter
-dem Vorbehalt des Widerrufs und nur bis zu einer Gesamtdauer der
-zahnärztlichen Tätigkeit erteilt werden, deren es zum Abschluß der
-Ausbildung bedarf.
+Beschäftigungsstellen zu beschränken. Die Erlaubnis zur Ausübung der
+Zahnheilkunde kann mit der Auflage verbunden werden, dass die Ausübung
+der Zahnheilkunde unter Aufsicht eines Zahnarztes erfolgt, der die
+Approbation oder die Erlaubnis zur Ausübung der Zahnheilkunde nach
+Absatz 1 besitzt. Sie darf nur unter dem Vorbehalt des Widerrufs und
+nur bis zu einer Gesamtdauer der zahnärztlichen Tätigkeit erteilt
+werden, deren es zum Abschluß der Ausbildung bedarf.
 
 (5) Personen, denen eine Erlaubnis zur Ausübung der Zahnheilkunde
 erteilt worden ist, haben im übrigen die Rechte und Pflichten eines
 Zahnarztes.
 
+(6) Die §§ 4, 5, 7 und 7a finden entsprechende Anwendung.
+
 
 ### § 13a
 
-(1) Staatsangehörige eines Mitgliedstaates der Europäischen
-Union oder eines anderen Vertragsstaates des Abkommens über den
-Europäischen Wirtschaftsraum oder eines Vertragsstaates, dem
-Deutschland und die Europäische Gemeinschaft oder Deutschland und
-die Europäische Union vertraglich einen entsprechenden Rechtsanspruch
-eingeräumt haben, die zur Ausübung des zahnärztlichen Berufs in
-einem der übrigen Mitgliedstaaten der Europäischen Union oder in
-einem anderen Vertragsstaat des Abkommens über den Europäischen
-Wirtschaftsraum oder einem Vertragsstaat, dem Deutschland und die
-Europäische Gemeinschaft oder Deutschland und die Europäische Union
-vertraglich einen entsprechenden Rechtsanspruch eingeräumt haben,
-auf Grund einer nach deutschen Rechtsvorschriften abgeschlossenen
-zahnärztlichen Ausbildung oder auf Grund eines in der Anlage zu §
-2 Abs. 1 Satz 2, in § 2 Abs. 1 Satz 6 oder in § 20a Absatz 1 bis
-4 genannten zahnärztlichen Ausbildungsnachweises berechtigt sind,
-dürfen als Dienstleistungserbringer im Sinne des Artikels 50 des EG-
-Vertrages vorübergehend und gelegentlich den zahnärztlichen Beruf
-im Geltungsbereich dieses Gesetzes ausüben. Der vorübergehende und
-gelegentliche Charakter der Erbringung von Dienstleistungen wird im
-Einzelfall beurteilt, insbesondere anhand der Dauer, der Häufigkeit,
-der regelmäßigen Wiederkehr und der Kontinuität der Dienstleistung.
-Eine Berechtigung nach Satz 1 besteht nicht, wenn die Voraussetzungen
-einer Rücknahme, eines Widerrufs oder einer Ruhensanordnung,
-die sich auf die Tatbestände nach § 2 Abs. 1 Satz 1 Nr. 2 oder 3
-beziehen, vorliegen, eine entsprechende Maßnahme mangels deutscher
-Berufszulassung jedoch nicht erlassen werden kann.
+(1) Eine Erlaubnis zur partiellen Berufsausübung ist im Einzelfall auf
+Antrag zu erteilen, wenn der Antragsteller
 
-(2) Ein Dienstleistungserbringer im Sinne des Absatzes 1 hat, wenn
-er zur Erbringung von Dienstleistungen erstmals von einem anderen
-Mitgliedstaat nach Deutschland wechselt, den zuständigen Behörden in
-Deutschland vorher schriftlich Meldung zu erstatten. Diese Meldung
-ist einmal jährlich zu erneuern, wenn der Dienstleistungserbringer
-beabsichtigt, während des betreffenden Jahres vorübergehend oder
-gelegentlich Dienstleistungen in Deutschland zu erbringen. Wenn
-Dienstleistungen erstmals erbracht werden oder sich eine wesentliche
-Änderung gegenüber der in den Dokumenten bescheinigten Situation
-ergibt, hat der Dienstleistungserbringer der zuständigen Behörde
-folgende Dokumente vorzulegen:
+1.  eine abgeschlossene Qualifikation im zahnärztlichen Bereich nachweist,
+
+2.  diese Qualifikation in einem anderen Mitgliedstaat, einem anderen
+    Vertragsstaat oder einem gleichgestellten Staat erworben hat,
+
+3.  mit dieser Qualifikation in dem jeweiligen Mitgliedstaat, dem
+    jeweiligen Vertragsstaat oder dem gleichgestellten Staat Zugang zu
+    einer Berufstätigkeit hat,
+
+    a)  die der Tätigkeit eines Zahnarztes nach diesem Gesetz nur partiell
+        entspricht, und
+
+    b)  die sich objektiv von den anderen Tätigkeiten trennen lässt, die den
+        Beruf des Zahnarztes nach diesem Gesetz prägen, und
+
+4.  sich nicht eines Verhaltens schuldig gemacht hat, aus dem sich die
+    Unwürdigkeit oder Unzuverlässigkeit zur partiellen Ausübung der
+    Zahnheilkunde ergibt,
+
+5.  nicht in gesundheitlicher Hinsicht zur partiellen Ausübung der
+    Zahnheilkunde ungeeignet ist und
+
+6.  über die für die partielle Ausübung der Zahnheilkunde erforderlichen
+    Kenntnisse der deutschen Sprache verfügt.
+
+(2) Die Erlaubnis zur partiellen Berufsausübung ist zu versagen, wenn
+die Versagung
+
+1.  zum Schutz von Patienten oder zum Schutz der öffentlichen Gesundheit
+    zwingend erforderlich ist oder
+
+2.  eine automatische Anerkennung der Berufsqualifikation möglich ist.
+
+Zur Vermeidung einer Versagung kann die Erlaubnis im Fall des Satzes 1
+Nummer 1 mit Nebenbestimmungen versehen werden.
+
+(3) Eine Erlaubnis zur partiellen Berufsausübung ist auf die
+Tätigkeiten und Beschäftigungsstellen zu beschränken, in denen der
+Antragsteller eine abgeschlossene Qualifikation im Bereich des Berufs
+eines Zahnarztes oder einer Zahnärztin nach diesem Gesetz nachgewiesen
+hat. Die Erteilung erfolgt unbefristet.
+
+(4) Personen mit einer Erlaubnis zur partiellen Berufsausübung haben
+im Umfang dieser Erlaubnis die gleichen Rechte und Pflichten wie eine
+Person mit einer Approbation als „Zahnarzt“ oder „Zahnärztin“.
+
+(5) Die §§ 4, 5, 7 und 7a gelten entsprechend.
+
+
+### § 13b
+
+(1) Staatsangehörige eines Mitgliedstaats, eines Vertragsstaats oder
+eines gleichgestellten Staats, die zur Ausübung des zahnärztlichen
+Berufs in einem der anderen Mitgliedstaaten, in einem anderen
+Vertragsstaat oder einem gleichgestellten Staat, auf Grund einer nach
+deutschen Rechtsvorschriften abgeschlossenen zahnärztlichen Ausbildung
+oder auf Grund eines in Anhang V Nummer 5.2.3. der Richtlinie
+2005/36/EG, in § 12a Absatz 2 oder in § 20a Absatz 1 bis 4 genannten
+zahnärztlichen Ausbildungsnachweises berechtigt sind, dürfen als
+Dienstleistungserbringer im Sinne des Artikels 57 des Vertrages über
+die Arbeitsweise der Europäischen Union vorübergehend und gelegentlich
+den zahnärztlichen Beruf im Geltungsbereich dieses Gesetzes ausüben.
+Der vorübergehende und gelegentliche Charakter der Erbringung von
+Dienstleistungen wird im Einzelfall beurteilt, insbesondere anhand der
+Dauer, der Häufigkeit, der regelmäßigen Wiederkehr und der Kontinuität
+der Dienstleistung. Eine Berechtigung nach Satz 1 besteht nicht,
+wenn die Voraussetzungen einer Rücknahme, eines Widerrufs oder einer
+Ruhensanordnung, die sich auf die Tatbestände nach § 2 Absatz 1 Satz
+1 Nummer 2 oder 3 beziehen, vorliegen, eine entsprechende Maßnahme
+mangels deutscher Berufszulassung jedoch nicht erlassen werden kann.
+
+(2) Ein Dienstleistungserbringer im Sinne des Absatzes 1 hat,
+wenn er zur Erbringung von Dienstleistungen erstmals von einem
+anderen Mitgliedstaat, einem anderen Vertragsstaat oder einem
+gleichgestellten Staat nach Deutschland wechselt, den zuständigen
+Behörden in Deutschland vorher schriftlich oder elektronisch Meldung
+zu erstatten. Diese Meldung ist einmal jährlich zu erneuern, wenn
+der Dienstleistungserbringer beabsichtigt, während des betreffenden
+Jahres vorübergehend oder gelegentlich Dienstleistungen in Deutschland
+zu erbringen. Wenn Dienstleistungen erstmals erbracht werden oder
+sich eine wesentliche Änderung gegenüber der in den Dokumenten
+bescheinigten Situation ergibt, hat der Dienstleistungserbringer der
+zuständigen Behörde folgende Dokumente vorzulegen:
 
 1.  den Nachweis über seine Staatsangehörigkeit,
 
-2.  eine Bescheinigung darüber, dass er in einem Mitgliedstaat rechtmäßig
-    als Zahnarzt niedergelassen ist, ihm die Ausübung dieses Berufs
-    zum Zeitpunkt der Vorlage der Bescheinigung nicht, auch nicht
+2.  eine Bescheinigung darüber, dass er in einem anderen Mitgliedstaat,
+    einem anderen Vertragsstaat oder einem gleichgestellten Staat
+    rechtmäßig als Zahnarzt niedergelassen ist, ihm die Ausübung dieses
+    Berufs zum Zeitpunkt der Vorlage der Bescheinigung nicht, auch nicht
     vorübergehend, untersagt ist und keine Vorstrafen vorliegen,
 
 3.  seinen Berufsqualifikationsnachweis und
@@ -829,48 +887,37 @@ gehören etwa Regelungen für die Definition des Berufs, das Führen
 von Titeln und schwerwiegende berufliche Fehler in unmittelbarem
 und speziellem Zusammenhang mit dem Schutz und der Sicherheit
 der Verbraucher. Die zuständigen Behörden können bei berechtigten
-Zweifeln von den zuständigen Behörden des Niederlassungsmitgliedstaats
-für jede Erbringung einer Dienstleistung alle Informationen über
-die Rechtmäßigkeit der Niederlassung und die gute Führung des
-Dienstleisters anfordern sowie Informationen über das Nichtvorliegen
-strafrechtlicher Sanktionen, einer Rücknahme, eines Widerrufs
-und einer Anordnung des Ruhens der Approbation oder Erlaubnis,
-über die nicht vorliegende Untersagung der Ausübung der Tätigkeit
-und über das Fehlen von Tatsachen, die eine dieser Sanktionen
-oder Maßnahmen rechtfertigen würden. Die Informationen sind nach
-Artikel 56 der Richtlinie 2005/36/EG zu übermitteln. Die zuständige
-Behörde unterrichtet unverzüglich die zuständige Behörde des
-Herkunftsmitgliedstaats über das Vorliegen der in Satz 3 genannten
-Sanktionen oder Maßnahmen, die sich auf die Ausübung der von der
-Richtlinie 2005/36/EG erfassten Tätigkeiten auswirken könnten. Dabei
-sind die Vorschriften zum Schutz personenbezogener Daten einzuhalten.
-Auf Anforderung der zuständigen Behörden eines anderen Mitgliedstaats
-der Europäischen Union oder eines anderen Vertragsstaates des
-Abkommens über den Europäischen Wirtschaftsraum oder eines
-Vertragsstaates, dem Deutschland und die Europäische Gemeinschaft oder
-Deutschland und die Europäische Union vertraglich einen entsprechenden
-Rechtsanspruch eingeräumt haben, haben die zuständigen Behörden in
-Deutschland nach Artikel 56 der Richtlinie 2005/36/EG der anfordernden
-Behörde alle Informationen über die Rechtmäßigkeit der Niederlassung
-und die gute Führung des Dienstleisters sowie Informationen darüber,
+Zweifeln von den zuständigen Behörden des anderen Mitgliedstaats,
+des anderen Vertragsstaats oder des gleichgestellten Staats, in dem
+der Dienstleistungserbringer niedergelassen ist, für jede Erbringung
+einer Dienstleistung alle Informationen über die Rechtmäßigkeit der
+Niederlassung und die gute Führung des Dienstleisters anfordern sowie
+Informationen über das Nichtvorliegen strafrechtlicher Sanktionen,
+einer Rücknahme, eines Widerrufs und einer Anordnung des Ruhens der
+Approbation oder Erlaubnis, über die nicht vorliegende Untersagung
+der Ausübung der Tätigkeit und über das Fehlen von Tatsachen, die
+eine dieser Sanktionen oder Maßnahmen rechtfertigen würden. Die
+Informationen sind nach Artikel 56 der Richtlinie 2005/36/EG zu
+übermitteln. Die zuständige Behörde unterrichtet unverzüglich die
+zuständige Behörde des Herkunftsstaats über das Vorliegen der in
+Satz 3 genannten Sanktionen oder Maßnahmen, die sich auf die Ausübung
+der von der Richtlinie 2005/36/EG erfassten Tätigkeiten auswirken
+könnten. Dabei sind die Vorschriften zum Schutz personenbezogener
+Daten einzuhalten. Auf Anforderung der zuständigen Behörden eines
+anderen Mitgliedstaats, eines anderen Vertragsstaats oder eines
+gleichgestellten Staats, haben die zuständigen Behörden in Deutschland
+nach Artikel 56 der Richtlinie 2005/36/EG der anfordernden Behörde
+alle Informationen über die Rechtmäßigkeit der Niederlassung und
+die gute Führung des Dienstleisters sowie Informationen darüber,
 dass keine berufsbezogenen disziplinarischen oder strafrechtlichen
 Sanktionen vorliegen, zu übermitteln.
 
-(4) Einem Staatsangehörigen eines der Mitgliedstaates der Europäischen
-Union oder eines anderen Vertragsstaates des Abkommens über den
-Europäischen Wirtschaftsraum oder eines Vertragsstaates, dem
-Deutschland und die Europäische Gemeinschaft oder Deutschland und
-die Europäische Union vertraglich einen entsprechenden Rechtsanspruch
-eingeräumt haben, der im Geltungsbereich dieses Gesetzes den
-zahnärztlichen Beruf auf Grund einer Approbation als Zahnarzt oder
-einer Erlaubnis zur vorübergehenden Ausübung der Zahnheilkunde
-ausübt, sind auf Antrag für Zwecke der Dienstleistungserbringung in
-einem anderen Mitgliedstaat der Europäischen Union oder einem anderen
-Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
-oder einem Vertragsstaat, dem Deutschland und die Europäische
-Gemeinschaft oder Deutschland und die Europäische Union vertraglich
-einen entsprechenden Rechtsanspruch eingeräumt haben, Bescheinigungen
-darüber auszustellen, daß
+(4) Einem Staatsangehörigen eines Mitgliedstaats, eines Vertragsstaats
+oder eines gleichgestellten Staats, der im Geltungsbereich dieses
+Gesetzes den zahnärztlichen Beruf auf Grund einer Approbation als
+Zahnarzt oder einer Erlaubnis zur Ausübung der Zahnheilkunde ausübt,
+sind auf Antrag für Zwecke der Dienstleistungserbringung in einem
+Aufnahmestaat Bescheinigungen darüber auszustellen, dass
 
 1.  er in Deutschland rechtmäßig als Zahnarzt niedergelassen ist,
 
@@ -885,6 +932,9 @@ darüber auszustellen, daß
 Für die Ausübung der Zahnheilkunde in Grenzgebieten durch Zahnärzte,
 die im Geltungsbereich dieses Gesetzes keine Niederlassung haben,
 gelten die hierfür abgeschlossenen zwischenstaatlichen Verträge.
+
+
+## IIIa. - Gebührenordnung und weitere Bestimmungen
 
 
 ### § 15
@@ -912,49 +962,51 @@ Europäischen Berufsausweises ist die zuständige Behörde des Landes
 zuständig, in dem der Beruf des Zahnarztes ausgeübt wird oder ausgeübt
 werden soll.
 
-(2) Die Entscheidungen nach § 2 Absatz 1 Satz 1 in Verbindung mit
-Satz 2 und 6, Absatz 2, 3 und 6 Satz 3, nach den §§ 8 bis 10, 13, 20
-Abs. 2 Satz 2 und § 20a trifft die zuständige Behörde des Landes, in
-dem der zahnärztliche Beruf ausgeübt werden soll. Die Länder können
-vereinbaren, dass die ihnen durch Satz 1 übertragenen Aufgaben von
-einem anderen Land oder von einer gemeinsamen Einrichtung wahrgenommen
-werden. Die Entscheidungen nach § 2 Abs. 1a Satz 2, §§ 4 und 5 trifft
-die zuständige Behörde des Landes, in dem der zahnärztliche Beruf
-ausgeübt wird oder zuletzt ausgeübt worden ist. Sie übermittelt die
-Informationen nach § 13a Abs. 3 Satz 7. Satz 2 gilt entsprechend für
-die Entgegennahme der Verzichtserklärung nach § 7. § 13 Abs. 3 Satz 2
-bleibt unberührt.
+(1a) Die Entscheidungen nach den §§ 12 bis 12b trifft, sofern der
+Antragsteller in Deutschland wohnhaft ist, die zuständige Behörde des
+Landes, in dem der Antragsteller seinen gewöhnlichen Aufenthalt hat.
+Sofern der Antragsteller nicht in Deutschland wohnhaft ist, ist der
+Antrag an die zuständige Behörde des Landes zu richten, in dem der
+zahnärztliche Beruf ausgeübt werden soll.
+
+(2) Die Entscheidungen nach den §§ 8 bis 10, 13, 13a, 20 Absatz 2
+Satz 2 und § 20a trifft die zuständige Behörde des Landes, in dem
+der zahnärztliche Beruf ausgeübt werden soll. Die Länder können
+vereinbaren, dass die ihnen durch Absatz 1a und Satz 1 übertragenen
+Aufgaben von einem anderen Land oder von einer gemeinsamen Einrichtung
+wahrgenommen werden. Die Entscheidungen nach § 12c Absatz 2, den
+§§ 4 und 5 trifft die zuständige Behörde des Landes, in dem der
+zahnärztliche Beruf ausgeübt wird oder zuletzt ausgeübt worden ist.
+Sie übermittelt die Informationen nach § 13b Absatz 3 Satz 7. Satz 3
+gilt entsprechend für die Entgegennahme der Verzichtserklärung nach §
+7\. § 13 Absatz 3 Satz 2 bleibt unberührt.
 
 (3) Die Entscheidung nach § 7a trifft die zuständige Behörde des
 Landes, die die Approbation zurückgenommen oder widerrufen hat.
 
-(4) Die Meldung nach § 13a Abs. 2 nimmt die zuständige Behörde des
+(4) Die Meldung nach § 13b Absatz 2 nimmt die zuständige Behörde des
 Landes entgegen, in dem die Dienstleistung erbracht werden soll oder
 erbracht worden ist. Die Bearbeitung der Informationsanforderungen
-nach § 13a Abs. 3 Satz 3 und die Unterrichtung des
-Herkunftsmitgliedstaats nach § 13a Abs. 3 Satz 5 erfolgt durch die
-zuständige Behörde des Landes, in dem die Dienstleistung erbracht
-wird oder erbracht worden ist. Sind von den Ländern hierfür
-gemeinsame Stellen eingerichtet worden, so legen die Länder die
-zuständigen Stellen fest. Die Bescheinigung nach § 13a Abs. 4 stellt
-die zuständige Behörde des Landes aus, in dem der Antragsteller den
-zahnärztlichen Beruf ausübt.
+nach § 13b Absatz 3 Satz 3 und die Unterrichtung des Herkunftsstaats
+nach § 13b Absatz 3 Satz 5 erfolgt durch die zuständige Behörde des
+Landes, in dem die Dienstleistung erbracht wird oder erbracht worden
+ist. Sind von den Ländern hierfür gemeinsame Stellen eingerichtet
+worden, so legen die Länder die zuständigen Stellen fest. Die
+Bescheinigung nach § 13b Absatz 4 stellt die zuständige Behörde des
+Landes aus, in dem der Antragsteller den zahnärztlichen Beruf ausübt.
 
-(5) Wenn ein Mitgliedstaat der Europäischen Union oder ein anderer
-Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder
-ein Vertragsstaat, dem Deutschland und die Europäische Gemeinschaft
-oder Deutschland und die Europäische Union vertraglich einen
-entsprechenden Rechtsanspruch eingeräumt haben, zur Erleichterung
-der Anwendung von Titel III Kapitel III der Richtlinie 2005/36/
-EG eine Bescheinigung des Herkunftsmitgliedstaats verlangt, dass
-die in Deutschland ausgestellten Nachweise über die geforderten
-Ausbildungsvoraussetzungen den in der Richtlinie 2005/36/EG
-verlangten Nachweisen entsprechen, erteilt diese Bescheinigung
-das Bundesministerium für Gesundheit. Soweit die in Deutschland
-zuständigen Stellen Informationen nach Anhang VII Buchstabe
-d der Richtlinie 2005/36/EG an die zuständigen Behörden des
-Aufnahmemitgliedstaats zu übermitteln haben, hat dies binnen zwei
-Monaten zu erfolgen.
+(5) Wenn ein Mitgliedstaat, ein Vertragsstaat oder ein
+gleichgestellter Staat zur Erleichterung der Anwendung von Titel
+III Kapitel III der Richtlinie 2005/36/EG eine Bescheinigung des
+Herkunftsstaats verlangt, dass die in Deutschland ausgestellten
+Nachweise über die geforderten Ausbildungsvoraussetzungen den in
+der Richtlinie 2005/36/EG verlangten Nachweisen entsprechen, erteilt
+diese Bescheinigung das Bundesministerium für Gesundheit. Es kann
+die Durchführung der Erteilung dieser Bescheinigungen auf eine ihm
+nachgeordnete Bundesoberbehörde übertragen. Soweit die in Deutschland
+zuständigen Stellen Informationen nach Anhang VII Buchstabe d der
+Richtlinie 2005/36/EG an die zuständigen Behörden des Aufnahmestaats
+zu übermitteln haben, hat dies binnen zwei Monaten zu erfolgen.
 
 (6) (weggefallen)
 
@@ -973,14 +1025,27 @@ erforderlichen Bestimmungen.
 ### § 18
 
 Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
-bestraft,
+bestraft, wer
 
-1.  wer die Zahnheilkunde ausübt, ohne eine Approbation oder Erlaubnis als
-    Zahnarzt zu besitzen oder nach § 1 Abs. 2, § 14 oder § 19 zur Ausübung
-    der Zahnheilkunde berechtigt zu sein,
+1.  ohne Approbation nach § 1 Absatz 1 Satz 1 oder ohne Erlaubnis nach § 1
+    Absatz 1 Satz 3 die Zahnheilkunde ausübt,
 
-2.  wer die Zahnheilkunde ausübt, solange durch vollziehbare Verfügung das
-    Ruhen der Approbation angeordnet ist.
+2.  ohne Erlaubnis nach § 1 Absatz 2a Satz 1 eine zahnärztliche Tätigkeit
+    ausübt oder
+
+3.  entgegen § 5 Absatz 3, auch in Verbindung mit § 13 Absatz 6 oder § 13a
+    Absatz 5, den zahnärztlichen Beruf oder eine zahnärztliche Tätigkeit
+    ausübt.
+
+
+### § 18a
+
+(1) Ordnungswidrig handelt, wer entgegen § 1 Absatz 2a Satz 2 die
+Berufsbezeichnung des dort genannten Staats nicht, nicht richtig oder
+nicht vollständig führt.
+
+(2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu dreitausend
+Euro geahndet werden.
 
 
 ### § 19
@@ -1051,25 +1116,20 @@ und sich die zahnärztliche Prüfung auf dieses Fach zu erstrecken hat.
 
 ### § 20a
 
-(1) Antragstellern, die die Voraussetzungen des § 2 Absatz 1 Satz 1
-Nummer 2, 3 und 5 erfüllen und eine Approbation als Zahnarzt auf Grund
-der Vorlage eines vor dem nach § 2 Abs. 1 Satz 2 oder Satz 3 für die
+(1) Antragstellern, die die Voraussetzungen des § 2 Absatz 1 Satz
+1 Nummer 2, 3 und 5 erfüllen und eine Approbation als Zahnarzt
+auf Grund der Vorlage eines vor dem nach § 12a Absatz 1 für die
 Anerkennung jeweils maßgebenden Datum ausgestellten zahnärztlichen
-Ausbildungsnachweises eines der übrigen Mitgliedstaaten der
-Europäischen Union oder eines anderen Vertragsstaates des Abkommens
-über den Europäischen Wirtschaftsraum oder eines Vertragsstaates,
-dem Deutschland und die Europäische Gemeinschaft oder Deutschland und
-die Europäische Union vertraglich einen entsprechenden Rechtsanspruch
-eingeräumt haben, beantragen, ist die Approbation als Zahnarzt
-ebenfalls zu erteilen. In den Fällen, in denen die zahnärztliche
-Ausbildung des Antragstellers den Mindestanforderungen des Artikels
-34 der Richtlinie 2005/36/EG vom 7. September 2005 (ABl. EU Nr. L 255
-S. 22, 2007 Nr. L 271 S. 18) nicht genügt, kann die zuständige Behörde
-die Vorlage einer Bescheinigung des Herkunftsmitgliedstaats des
-Antragstellers verlangen, aus der sich ergibt, dass der Antragsteller
-während der letzten fünf Jahre vor der Antragstellung mindestens drei
-Jahre ununterbrochen tatsächlich und rechtmäßig den zahnärztlichen
-Beruf ausgeübt hat.
+Ausbildungsnachweises eines anderen Mitgliedstaats, eines anderen
+Vertragsstaats oder eines gleichgestellten Staats beantragen, ist
+die Approbation als Zahnarzt ebenfalls zu erteilen. In den Fällen,
+in denen die zahnärztliche Ausbildung des Antragstellers den
+Mindestanforderungen des Artikels 34 der Richtlinie 2005/36/EG nicht
+genügt, kann die zuständige Behörde die Vorlage einer Bescheinigung
+des Herkunftsstaats des Antragstellers verlangen, aus der sich
+ergibt, dass der Antragsteller während der letzten fünf Jahre vor der
+Antragstellung mindestens drei Jahre ununterbrochen tatsächlich und
+rechtmäßig den zahnärztlichen Beruf ausgeübt hat.
 
 (2) In Italien, Spanien, Österreich, der Tschechischen Republik, der
 Slowakei und Rumänien ausgestellte Ausbildungsnachweise des Arztes
@@ -1193,8 +1253,8 @@ die dort genannten Voraussetzungen mit Ausnahme der geforderten
 Berufserfahrung erfüllten, ist die Approbation zu erteilen, wenn
 die Ausbildung des Antragstellers keine wesentlichen Unterschiede
 gegenüber der Ausbildung aufweist, die in diesem Gesetz und in der
-Rechtsverordnung nach § 3 Absatz 1 geregelt ist. § 2 Absatz 2 Satz 3
-bis 9 gilt entsprechend.
+Rechtsverordnung nach § 3 Absatz 1 geregelt ist. § 12a Absatz 5 Satz 2
+und 3, Absatz 6 und 7 Satz 1 und 2 gilt entsprechend.
 
 
 ### § 21 Inkrafttreten der Approbationsordnung für Zahnärzte und Zahnärztinnen und Außerkrafttreten der Approbationsordnung für Zahnärzte, Übergangsregelung
@@ -1229,41 +1289,11 @@ sich auf Zahnärzte und Dentisten beziehen.
 
 ### § 24
 
-(Inkrafttreten)
+Für Anträge auf Anerkennung einer in einem Drittstaat erworbenen
+Berufsqualifikation, die bis zum Ablauf des 31. Oktober 2026 gestellt
+worden sind, gilt § 2 Absatz 2 und 3 in der bis zum 31. Oktober 2026
+geltenden Fassung weiter.
 
 
-### Anlage (zu § 2 Abs. 1 Satz 4)
-
-(Fundstelle: BGBl. I 2007, 2950 - 2953; bzgl. einzelner Änderungen
-vgl. Fußnote)
-
-| Land | Ausbildungsnachweis | Ausstellende Stelle | Zusätzliche Bescheinigung | Berufsbezeichnung | Stichtag |
-| --- | --- | --- | --- | --- | --- |
-| Belgiё/ Belgique/ Belgien | Diploma van tandarts/ Diplôme licencié en science dentaire | – De universiteiten/ Les universités – De bevoegde Examencommissie van de Vlaamse Gemeenschap/Le Jury compétent d'enseignement de la Communauté française |  | Licentiaat in de tandheelkunde/ Licencié en science dentaire | 28. Januar 1980 |
-| България | Диплома за висше образование на образователно-квалификационна степен ‚Магистър‘ по ‚Дентална мед-ицина‘ с профес-ионална квалиф-икация ‚Магистър-лекар по дентална медицина‘ | Факултет по дентална медиц-ина към Медиц-ински университет |  | Лекар по дентална медицина | 1. Januar 2007 |
-| Česká republika | Diplom o ukončení studia ve studijním programu zubní lékařství (doktor) | Lékařská fakulta univerzity v České republice | Vysvědčení o státní rigorózní zkoušce | Zubní lékař | 1. Mai 2004 |
-| Danmark | Bevis for tandlægeeksamen (odontologisk kandidateksamen) | Tandlægehøjskolerne, Sundhedsvidenskabeligt universitets- fakultet | Autorisation som tandlæge, udstedt af Sundhedsstyrelsen | Tandlæge | 28. Januar 1980 |
-| Eesti | Diplom hambaarstiteaduse õppekava läbimise kohta | Tartu Ülikool |  | Hambaarst | 1. Mai 2004 |
-| Ελλάς | Πτυχίo Οδovτιατρικής | Παvεπιστήμιo |  | Οδοντίατρος ή χειρούργος οδοντίατρος | 1. Januar 1981 |
-| España | Título de Licenciado en Odontología | El rector de una universidad |  | Licenciado en odontología | 1. Januar 1986 |
-| France | Diplôme d'Etat de docteur en chirurgie dentaire | Universités |  | Chirurgien- dentiste | 28. Januar 1980 |
-| Hrvatska | Diploma „doktor dentalne medicine/doktorica  dentalne medicine“ | Fakulteti sveučilišta u  Republici Hrvatskoj |  | doktor dentalne medicine/doktorica dentalne medicine | 1. Juli 2013 |
-| Ireland | – Bachelor in Dental Science (B.Dent.Sc.) – Bachelor of Dental Surgery (BDS) – Licentiate in Dental Surgery (LDS) | – Universities – Royal College of Surgeons in Ireland |  | – Dentist – Dental practitioner – Dental surgeon | 28. Januar 1980 |
-| Italia | Diploma di laurea in Odontoiatria e Protesi Dentaria | Università | Diploma di abilitazione all'esercizio della professione di odontoiatra | Odontoiatra | 28. Januar 1980 |
-| Κύπρος | Πιστοποιητικό Εγγραφής Οδοντιάτρου | Οδοντιατρικό Συμβούλιο |  | Οδοντίατρος | 1. Mai 2004 |
-| Latvija | Zobārsta diploms | Universitātes tipa augstskola | Rezidenta diploms par zobārsta pēcdiploma izglītības programmas pabeigšanu, ko izsniedz universitātes tipa augsts- kola un „Sertifikāts“ – kompetentas iestādes izsniegts dokuments,kas apliecina, ka persona ir nokārtojusi sertifikācijas eksāmenu zobārstniecībā | Zobārsts | 1. Mai 2004 |
-| Lietuva | Aukštojo mokslo diplomas, nurodantis suteiktą gydytojo odontologo kvalifikaciją | Universitetas | Internatūros pažymėjimas, nurodantis suteiktą gydytojo odontologo profesinę kvalifikaciją | Gydytojas odontologas | 1. Mai 2004 |
-| Luxembourg | Diplôme d'Etat de docteur en médecine dentaire | Jury d'examen d'Etat |  | Médecin-dentiste | 28. Januar 1980 |
-| Magyarország | Fogorvos oklevél (doctor medicinae dentariae, röv.: dr. med. dent.) | Egyetem |  | Fogorvos | 1. Mai 2004 |
-| Malta | Lawrja fil- Kirurġija Dentali | Universita´ ta Malta |  | Kirurgu Dentali | 1. Mai 2004 |
-| Nederland | Universitair getuigschrift van een met goed gevolg afgelegd tandartsexamen | Faculteit Tandheelkunde |  | Tandarts | 28. Januar 1980 |
-| Österreich | Bescheid über die Verleihung des akademischen Grades „Doktor der Zahnheilkunde“ | Medizinische Fakultät der Universität |  | Zahnarzt | 1. Januar 1994 |
-| Polska | Dyplom ukończenia studiów wyższych z tytułem „lekarz dentysta“ | 1. Akademia Medyczna, 2. Uniwersytet Medyczny, 3. Collegium Medicum Uniwersytetu Jagiellońskiego | Lekarsko – Dentystyczny Egzamin Państwowy | Lekarz dentysta | 1. Mai 2004 |
-| Portugal | Carta de curso de licenciatura em medicina dentária | – Faculdades – Institutos Superiores |  | Médico dentista | 1. Januar 1986 |
-| România | Diplomă de licenţă de medic dentist | Universităţi |  | medic dentist | 1. Oktober 2003 |
-| Slovenija | Diploma, s katero se podeljuje strokovni naslov„doktor dentalne medicine/doktorica dentalne medicine“ | – Univerza | Potrdilo o opravljenem strokovnem izpitu za poklic zoboz- dravnik/zobozdravnica | Doktor dentalne medicine/Doktorica dentalne medicine | 1. Mai 2004 |
-| Slovensko | Vysokoškolský diplom o udelení akademického titulu „doktor zubného lekárstva“ („MDDr.“) | – Vysoká škola |  | Zubný lekár | 1. Mai 2004 |
-| Suomi/ Finland | Hammaslääketieteen lisensiaatin tutkinto/ Odontologie licentiatexamen | – Helsingin yliopisto/ Helsingfors universitet – Oulun yliopisto – Turun yliopisto | Terveyden- huollon oikeustur- vakeskuksen päätös käytännön palvelun hyväksymisestä/ Beslut av Rättskyddscentralen för hälsovården om god- kännande av praktisk tjänstgöring | Hammaslääkäri/Tandläkare | 1. Januar 1994 |
-| Sverige | Tandläkarexamen | – Universitetet i Umeå – Universitetet i Göteborg – Karolinska Institutet – Malmö Högskola | Endast för examens- bevis som erhållits före den 1 juli 1995, ett utbildningsbevis som utfärdats av Socialsty- relsen | Tandläkare | 1. Januar 1994 |
-| United Kingdom | – Bachelor of Dental Surgery (BDS or B.Ch.D.) – Licentiate in Dental Surgery | – Universities – Royal Colleges |  | – Dentist – Dental practitioner – Dental surgeon | 28. Januar 1980 |
+### Anlage (weggefallen)
 

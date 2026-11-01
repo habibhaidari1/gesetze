@@ -84,6 +84,13 @@ vermitteln sind. Vorlesungen können auch in digitaler Form abgehalten
 werden. Seminare und praktische Lehrveranstaltungen können durch
 digitale Lehrformate begleitet werden.
 
+(3) Bei der Organisation des Studiums der Pharmazie muss die
+Universität in angemessenem Umfang die Belange von Studierenden mit
+Behinderungen, Beeinträchtigungen oder in besonderen Lebenslagen,
+insbesondere in Schwangerschaft und Stillzeit, berücksichtigen. Bei
+der Organisation des Studiums soll die Universität gesetzliche und
+staatsvertraglich festgelegte Feiertage beachten.
+
 
 ### § 3 Famulatur
 
@@ -145,21 +152,24 @@ Sie gliedert sich in eine Ausbildung von
     e)  einer Arzneimitteluntersuchungsstelle oder einer vergleichbaren
         Einrichtung einschließlich solcher der Bundeswehr
 
-abzuleisten sind. Drei Monate einer Ausbildung nach Satz 2 Nr. 2
-Buchstabe b können auch auf der Station eines Krankenhauses oder
-Bundeswehrkrankenhauses abgeleistet werden.
+abzuleisten sind. Drei Monate einer Ausbildung nach Satz 2 Nr.
+2 Buchstabe b können auch auf der Station eines Krankenhauses
+oder Bundeswehrkrankenhauses abgeleistet werden. Die praktische
+Ausbildung kann in Teilzeit mit 50 oder 75 Prozent der wöchentlichen
+Ausbildungszeit absolviert werden. Die Gesamtdauer der Ausbildung
+verlängert sich entsprechend.
 
-(2) Während der ganztägigen praktischen Ausbildung sollen die
-im vorhergehenden Studium erworbenen pharmazeutischen Kenntnisse
-vertieft, erweitert und praktisch angewendet werden. Zur Ausbildung
-gehören insbesondere die pharmazeutischen Tätigkeiten im Sinne des §
-2 Absatz 3 der Bundes-Apothekerordnung. Die Ausbildung umfasst auch
-Medizinprodukte, die in den Apotheken in den Verkehr gebracht werden.
-Die Ausbildung muß von einem Apotheker, der hauptberuflich in der
-Ausbildungsstätte tätig ist, geleitet werden; sofern sie an einem
-Universitätsinstitut abgeleistet wird, umfaßt sie eine pharmazeutisch-
-wissenschaftliche Tätigkeit unter der Leitung eines Professors,
-Hochschul- oder Privatdozenten.
+(2) Während der praktischen Ausbildung sollen die im vorhergehenden
+Studium erworbenen pharmazeutischen Kenntnisse vertieft, erweitert
+und praktisch angewendet werden. Zur Ausbildung gehören insbesondere
+die pharmazeutischen Tätigkeiten im Sinne des § 2 Absatz 3 der Bundes-
+Apothekerordnung. Die Ausbildung umfasst auch Medizinprodukte, die
+in den Apotheken in den Verkehr gebracht werden. Die Ausbildung muß
+von einem Apotheker, der hauptberuflich in der Ausbildungsstätte
+tätig ist, geleitet werden; sofern sie an einem Universitätsinstitut
+abgeleistet wird, umfaßt sie eine pharmazeutisch-wissenschaftliche
+Tätigkeit unter der Leitung eines Professors, Hochschul- oder
+Privatdozenten.
 
 (3) Der Auszubildende hat seine Arbeitskraft zu regelmäßiger Mitarbeit
 zur Verfügung zu stellen und sich auf den Dritten Abschnitt der
@@ -181,7 +191,18 @@ begleitenden Unterrichtsveranstaltungen erhält der Auszubildende eine
 Bescheinigung nach dem Muster der Anlage 6.
 
 (5) Auf die Ausbildung nach Absatz 1 werden Unterbrechungen bis zu den
-durch Bundesrahmentarifvertrag festgelegten Urlaubszeiten angerechnet.
+durch Bundesrahmentarifvertrag festgelegten Urlaubszeiten angerechnet,
+davon jeweils bis zu insgesamt 20 Ausbildungstage innerhalb des
+Zeitraums nach Absatz 1 Satz 2 Nummer 1 oder 2. Auf die Ausbildung
+nach Absatz 1 werden zusätzlich Fehlzeiten von bis zu insgesamt zehn
+Ausbildungstagen angerechnet, wenn der Auszubildende bei Krankheit
+ein ärztliches Attest vorlegt oder einen anderen wichtigen Grund
+glaubhaft macht. Diese zehn Ausbildungstage werden auch in einem
+Zeitraum nach Absatz 1 Satz 2 Nummer 1 oder 2 zusätzlich zu den in
+Satz 1 genannten 20 Ausbildungstagen angerechnet. Werden die auf einen
+Zeitraum nach Absatz 1 Satz 2 Nummer 1 oder 2 anrechenbaren Fehlzeiten
+überschritten, erfolgt keine Anrechnung, sondern die Fehlzeiten sind
+insgesamt nachzuholen.
 
 
 ## Zweiter Abschnitt - Allgemeine Prüfungsvorschriften
@@ -207,8 +228,11 @@ Landesprüfungsamt.
 Studiums oder eines außerhalb des Geltungsbereichs dieser
 Verordnung betriebenen Pharmaziestudiums oder verwandten Studiums
 und gegebenenfalls die im Rahmen eines solchen Studiums abgelegten
-Prüfungen nach § 22 angerechnet werden können, gilt, sofern eine
-Zuständigkeit nach Satz 1 nicht gegeben ist, § 22 Abs. 5 entsprechend.
+Prüfungen nach § 24 Absatz 1 oder 2 angerechnet werden können oder
+denen die Fortführung der Ausbildung nach den Vorschriften dieser
+Verordnung nach § 24 Absatz 4 gestattet worden ist, gilt, sofern eine
+Zuständigkeit nach Absatz 2 Satz 1 nicht gegeben ist, § 24 Absatz 5
+Satz 3 bis 6 entsprechend.
 
 
 ### § 6 Meldung zur Prüfung
@@ -217,17 +241,18 @@ Zuständigkeit nach Satz 1 nicht gegeben ist, § 22 Abs. 5 entsprechend.
 entscheidet das Landesprüfungsamt.
 
 (2) Der Antrag auf Zulassung zu einem Prüfungsabschnitt ist
-schriftlich in der vom Landesprüfungsamt vorgeschriebenen Form zu
-stellen und muß für den Ersten Abschnitt der Pharmazeutischen Prüfung
-bis zum 10. Januar oder bis zum 10. Juni dem Landesprüfungsamt
-zugegangen sein. Der Antrag auf Zulassung zum Zweiten und Dritten
-Abschnitt der Pharmazeutischen Prüfung muß dem Landesprüfungsamt bis
-zu dem von ihm jeweils bekanntgegebenen Termin zugegangen sein.
+schriftlich oder elektronisch in der vom Landesprüfungsamt
+vorgeschriebenen Form zu stellen und muß für den Ersten Abschnitt
+der Pharmazeutischen Prüfung bis zum 10. Januar oder bis zum 10. Juni
+dem Landesprüfungsamt zugegangen sein. Der Antrag auf Zulassung zum
+Zweiten und Dritten Abschnitt der Pharmazeutischen Prüfung muß dem
+Landesprüfungsamt bis zu dem von ihm jeweils bekanntgegebenen Termin
+zugegangen sein.
 
 (3) Dem Antrag auf Zulassung zum Ersten Abschnitt der Pharmazeutischen
 Prüfung sind beizufügen
 
-1.  die Geburtsurkunde, bei Verheirateten auch die Eheurkunde,
+1.  ein Identitätsnachweis,
 
 2.  der Nachweis der Hochschulzugangsberechtigung, bei Zeugnissen, die
     außerhalb des Geltungsbereiches dieser Verordnung erworben worden
@@ -273,6 +298,33 @@ Pharmazeutischen Prüfung sind beizufügen
 3.  der Nachweis über die Teilnahme an den begleitenden
     Unterrichtsveranstaltungen (Anlage 6).
 
+(5a) Im Fall des § 24 Absatz 4 sind dem Antrag auf Zulassung zum
+Zweiten Abschnitt der Pharmazeutischen Prüfung beizufügen:
+
+1.  ein Identitätsnachweis und
+
+2.  der Bescheid nach § 24 Absatz 4 über die Gestattung der Fortführung
+    und den Abschluss der pharmazeutischen Ausbildung nach den Vorschiften
+    dieser Verordnung.
+
+Dem Antrag auf Zulassung zum Dritten Abschnitt der Pharmazeutischen
+Prüfung sind beizufügen:
+
+1.  das Zeugnis über das Bestehen des Zweiten Abschnitts der
+    Pharmazeutischen Prüfung,
+
+2.  der Nachweis über die praktische Ausbildung (Anlage 5),
+
+3.  der Nachweis über die Teilnahme an den begleitenden
+    Unterrichtsveranstaltungen (Anlage 6),
+
+4.  der Bescheid nach § 24 Absatz 4 über die Gestattung der Fortführung
+    und den Abschluss der pharmazeutischen Ausbildung nach den Vorschiften
+    dieser Verordnung.
+
+Personen, die sich im Fall des § 24 Absatz 4 zum Zweiten Abschnitt der
+Pharmazeutischen Prüfung melden, müssen keine Studierenden sein.
+
 (6) Soweit die in Absatz 3 Nr. 4 und 5 sowie die in Absatz 4 Nr.
 2 bis 4 genannten Nachweise dem Antrag noch nicht beigefügt werden
 können, sind sie in einer vom Landesprüfungsamt zu bestimmenden Frist
@@ -291,9 +343,12 @@ ein Grund vorliegt, der zur Versagung der Approbation als Apotheker
 wegen Fehlens einer der Voraussetzungen des § 4 Abs. 1 Satz 1 Nr.
 2 oder 3 der Bundes-Apothekerordnung führen würde, so kann das
 Landesprüfungsamt die Vorlage weiterer Unterlagen, insbesondere
-ärztlicher Zeugnisse oder eines Führungszeugnisses, verlangen. Die
-besonderen Belange behinderter Prüflinge sind zur Wahrung ihrer
-Chancengleichheit bei Durchführung der Prüfungen zu berücksichtigen.
+ärztlicher Zeugnisse oder eines Führungszeugnisses, verlangen.
+Die besonderen Belange von Menschen mit Behinderungen sind zur
+Wahrung ihrer Chancengleichheit bei Durchführung der Prüfungen zu
+berücksichtigen.
+
+(8) § 23 Absatz 2, 3 und 5 gilt entsprechend.
 
 
 ### § 7 Versagung der Zulassung
@@ -409,12 +464,12 @@ a)  Die Note (Zahlenwert) für den Ersten Abschnitt wird mit zwei,
 b)  Die Summe aus den nach Buchstabe a gewonnenen Zahlen wird durch sieben
     geteilt.
 
-(4) Die Noten der Prüfungsabschnitte und die Gesamtnote für die
-Pharmazeutische Prüfung werden bis auf die zweite Stelle nach dem
-Komma errechnet. Der so ermittelte Zahlenwert ist in den Zeugnissen
-gemäß den Anlagen 10 und 11 anzugeben. Die Noten der einzelnen
-Prüfungsabschnitte sowie die Gesamtnote der Pharmazeutischen Prüfung
-werden wie folgt bewertet:
+(4) Die Noten der Prüfungsabschnitte und, sofern eine Gesamtnote
+gebildet wird, die Gesamtnote der Pharmazeutischen Prüfung,
+werden bis auf die zweite Stelle nach dem Komma errechnet. Der so
+ermittelte Zahlenwert ist in den Zeugnissen gemäß den Anlagen 10 und
+11 anzugeben. Die Noten der einzelnen Prüfungsabschnitte sowie die
+Gesamtnote der Pharmazeutischen Prüfung werden wie folgt bewertet:
 
 | "sehr gut" | bei einem Zahlenwert bis 1,5, |
 | --- | --- |
@@ -558,7 +613,7 @@ Prüfungskommission sowie dem Protokollführer zu unterzeichnen.
 Prüfling mindestens die Note "ausreichend" erhalten hat. Dem Prüfling
 sind die Noten für die einzelnen Prüfungsfächer am Prüfungstag
 bekanntzugeben. Das Landesprüfungsamt teilt dem Prüfling das Ergebnis
-schriftlich mit.
+schriftlich oder elektronisch mit.
 
 
 ### § 12 Prüfungstermine
@@ -585,6 +640,10 @@ entsprechende Anwendung.
 
 (3) Die Ladung zur Prüfung wird dem Prüfling spätestens sieben
 Kalendertage vor dem Prüfungstermin zugestellt.
+
+(4) Bei der Organisation und Durchführung der einzelnen Abschnitte
+der Pharmazeutischen Prüfung sollen gesetzliche und staatsvertraglich
+festgelegte Feiertage beachtet werden.
 
 
 ### § 13 Rücktritt und Versäumnis
@@ -649,7 +708,7 @@ Prüfung nicht bestanden, entscheidet die Prüfungskommission sogleich,
 ob und wie lange der Prüfling erneut an einer Ausbildung nach § 4
 teilzunehmen hat. Die Zeit der Teilnahme darf höchstens drei Monate
 betragen. Das Landesprüfungsamt teilt dem Prüfling die Entscheidung
-schriftlich mit.
+schriftlich oder elektronisch mit.
 
 
 ### § 16 Zeugnisse und Mitteilungen
@@ -737,57 +796,235 @@ Kenntnisse besitzt.
 ## Vierter Abschnitt - Die Approbation
 
 
-### § 20 Antrag auf Approbation
+### § 20 Antrag auf Erteilung einer Approbation
 
-(1) Der Antrag auf Erteilung der Approbation als Apotheker ist an die
-zuständige Behörde des Landes zu richten, in dem der Antragsteller
-den Dritten Abschnitt der Pharmazeutischen Prüfung bestanden hat. Dem
-Antrag sind beizufügen
+(1) Der Antrag auf Erteilung einer Approbation als Apotheker ist
+an die nach § 12 der Bundes-Apothekerordnung zuständige Behörde des
+Landes zu richten.
 
-1.  ein kurzgefaßter Lebenslauf,
+(2) Der Antrag kann schriftlich oder elektronisch gestellt werden.
 
-2.  die Geburtsurkunde, bei Verheirateten auch die Eheurkunde,
 
-3.  ein Identitätsnachweis,
+### § 20a Erforderliche Unterlagen bei Antrag auf Erteilung einer Approbation aufgrund einer in Deutschland erworbenen Berufsqualifikation
 
-4.  ein amtliches Führungszeugnis, das nicht früher als einen Monat vor
-    der Vorlage ausgestellt sein darf,
+(1) Dem Antrag auf Erteilung einer Approbation als Apotheker aufgrund
+einer in Deutschland erworbenen Berufsqualifikation sind beizufügen:
 
-5.  eine Erklärung des Antragstellers darüber, ob gegen ihn ein
+1.  ein kurz gefasster Lebenslauf,
+
+2.  ein Identitätsnachweis,
+
+3.  ein Führungszeugnis,
+
+4.  eine Erklärung des Antragstellers darüber, ob gegen ihn ein
     gerichtliches Strafverfahren oder ein staatsanwaltschaftliches
     Ermittlungsverfahren anhängig ist,
 
-6.  eine ärztliche Bescheinigung, die nicht älter als einen Monat
-    sein darf, aus der hervorgeht, dass der Antragsteller nicht in
-    gesundheitlicher Hinsicht zur Ausübung des Berufs ungeeignet ist und
+5.  eine ärztliche Bescheinigung, aus der hervorgeht, dass der
+    Antragsteller nicht in gesundheitlicher Hinsicht zur Ausübung des
+    apothekerlichen Berufs ungeeignet ist und
 
-7.  das Zeugnis über das Bestehen der Pharmazeutischen Prüfung.
+6.  das Zeugnis über das Bestehen der Pharmazeutischen Prüfung.
 
-(2) Soweit die Nachweise nicht in deutscher Sprache ausgestellt
-sind, sind sie zusätzlich in beglaubigter Übersetzung vorzulegen.
-Die zuständige Behörde kann die Vorlage weiterer Nachweise,
-insbesondere über die Echtheit der eingereichten Urkunden und
-über die bisherige Tätigkeit, verlangen. Satz 2 gilt nicht für die
-in der Anlage zu § 4 Abs. 1a Satz 1 der Bundes-Apothekerordnung
-aufgeführten pharmazeutischen Diplome, Prüfungszeugnisse und sonstigen
-Befähigungsnachweise.
+(2) Das Führungszeugnis und die ärztliche Bescheinigung werden nur
+anerkannt, wenn sie im Zeitpunkt ihres Eingangs bei der jeweils
+zuständigen Behörde nicht älter als einen Monat sind.
 
-(3) (weggefallen)
 
-(4) (weggefallen)
+### § 20b Erforderliche Unterlagen bei Anträgen nach § 10b Absatz 1 und 2 der Bundes-Apothekerordnung
 
-(5) Über den Antrag nach § 4 Absatz 1 der Bundes-Apothekerordnung
-ist spätestens drei Monate nach Vorlage der nach den Absätzen 1 und
-2 sowie § 4 Absatz 6 der Bundes-Apothekerordnung vom Antragsteller
-vorzulegenden Unterlagen zu entscheiden. Im Falle des § 81a des
-Aufenthaltsgesetzes soll die Entscheidung innerhalb von zwei Monaten
-erfolgen. Die zuständige Behörde bestätigt dem Antragsteller nach §
-4 Absatz 1 bis 3 der Bundes-Apothekerordnung binnen eines Monats nach
+(1) Dem Antrag auf Erteilung einer Approbation als Apotheker nach
+§ 10b Absatz 1 und 2 der Bundes-Apothekerordnung aufgrund einer
+außerhalb Deutschlands erworbenen Berufsqualifikation sind beizufügen:
+
+1.  ein Identitätsnachweis,
+
+2.  ein Lebenslauf, der eine tabellarische Aufstellung der absolvierten
+    Ausbildungsgänge und der ausgeübten Erwerbstätigkeiten enthält,
+
+3.  ein Befähigungsnachweis oder ein Ausbildungsnachweis, der zur Aufnahme
+    des apothekerlichen Berufs berechtigt,
+
+4.  eine Erklärung des Antragstellers darüber, dass er zum Zeitpunkt
+    der Antragstellung nicht Beteiligter eines Verfahrens auf Erteilung
+    der Approbation oder der Berufserlaubnis in einem anderen Land im
+    Geltungsbereich dieser Verordnung ist, und
+
+5.  Nachweise über das Vorliegen der Voraussetzungen nach § 4 Absatz 1
+    Nummer 2, 3 und 5 der Bundes-Apothekerordnung.
+
+(2) Im Fall von § 10b Absatz 2 der Bundes-Apothekerordnung ist
+zusätzlich zu den Ausbildungsnachweisen eine Bescheinigung der
+zuständigen Stelle des Herkunftsstaats darüber, dass die Ausbildung
+den Mindestanforderungen des Artikels 44 der Richtlinie 2005/36/EG
+entspricht, und dass die Ausbildungsnachweise den für diesen Staat
+im Anhang V 5.6.2. der Richtlinie 2005/36/EG aufgeführten Nachweisen
+gleichstehen, beizufügen.
+
+
+### § 20c Erforderliche Unterlagen bei Anträgen nach § 10c Absatz 2 der Bundes-Apothekerordnung
+
+Dem Antrag auf Erteilung einer Approbation als Apotheker nach § 10c
+Absatz 2 der Bundes-Apothekerordnung sind folgende Unterlagen und
+Bescheinigungen beizufügen:
+
+1.  ein Identitätsnachweis,
+
+2.  ein Lebenslauf, der eine tabellarische Aufstellung der absolvierten
+    Ausbildungsgänge und der ausgeübten Erwerbstätigkeiten enthält,
+
+3.  ein Befähigungsnachweis oder ein Ausbildungsnachweis, der zur Aufnahme
+    des apothekerlichen Berufs berechtigt,
+
+4.  eine Bescheinigung über die Berechtigung zur Berufsausübung in dem
+    Staat, in dem die Berufsqualifikation erworben worden ist,
+
+5.  eine Erklärung des Antragstellers darüber, dass er zum Zeitpunkt
+    der Antragstellung nicht Beteiligter eines Verfahrens auf Erteilung
+    der Approbation oder der Berufserlaubnis in einem anderen Land im
+    Geltungsbereich dieser Verordnung ist, und
+
+6.  Nachweise über das Vorliegen der Voraussetzungen nach § 4 Absatz 1
+    Nummer 2, 3 und 5 der Bundes-Apothekerordnung.
+
+
+### § 20d Erforderliche Unterlagen bei Anträgen nach § 10b Absatz 5 oder § 10c Absatz 3 der Bundes-Apothekerordnung
+
+Dem Antrag auf Erteilung einer Approbation als Apotheker nach § 10b
+Absatz 5 oder § 10c Absatz 3 der Bundes-Apothekerordnung sind folgende
+Unterlagen und Bescheinigungen beizufügen:
+
+1.  ein Identitätsnachweis,
+
+2.  ein Lebenslauf, der eine tabellarische Aufstellung der absolvierten
+    Ausbildungsgänge und der ausgeübten Erwerbstätigkeiten enthält,
+
+3.  ein Befähigungsnachweis oder ein Ausbildungsnachweis, der zur Aufnahme
+    des apothekerlichen Berufs berechtigt,
+
+4.  falls vorhanden, eine Bescheinigung über die erworbene
+    Berufserfahrung,
+
+5.  bei einer in einem Drittstaat erworbenen Berufsqualifikation eine
+    Bescheinigung über die Berechtigung zur Berufsausübung in diesem
+    Staat,
+
+6.  zusätzliche Nachweise, um feststellen zu können, ob die Ausbildung
+    wesentliche Unterschiede gegenüber der Ausbildung aufweist, die in der
+    Bundes-Apothekerordnung und in dieser Rechtsverordnung geregelt ist,
+
+7.  für den Fall, dass sich Ausbildungsnachweise nach Artikel 3 Absatz 1
+    Buchstabe c der Richtlinie 2005/36/EG, die von der zuständigen Behörde
+    eines anderen Mitgliedstaats, eines anderen Vertragsstaats oder
+    eines gleichgestellten Staats ausgestellt wurden, auf eine Ausbildung
+    beziehen, die ganz oder teilweise in einer rechtmäßig im Hoheitsgebiet
+    eines anderen der oben genannten Staaten niedergelassenen Einrichtung
+    absolviert wurde, Unterlagen darüber,
+
+    a)  ob der Ausbildungsgang in der betreffenden Einrichtung von der
+        Ausbildungseinrichtung des ausstellenden Staats offiziell bescheinigt
+        worden ist,
+
+    b)  ob der ausgestellte Ausbildungsnachweis dem entspricht, der verliehen
+        worden wäre, wenn der Ausbildungsgang vollständig im ausstellenden
+        Staat absolviert worden wäre, und
+
+    c)  ob mit dem Ausbildungsnachweis im Hoheitsgebiet des ausstellenden
+        Staats dieselben beruflichen Rechte verliehen werden,
+
+8.  eine Erklärung des Antragstellers darüber, dass er zum Zeitpunkt
+    der Antragstellung nicht Beteiligter eines Verfahrens auf Erteilung
+    der Approbation oder der Berufserlaubnis in einem anderen Land im
+    Geltungsbereich dieser Verordnung ist, und
+
+9.  Nachweise über das Vorliegen der Voraussetzungen nach § 4 Absatz 1
+    Nummer 2, 3 und 5 der Bundes-Apothekerordnung.
+
+
+### § 20e Nachweis über das Vorliegen der Voraussetzungen nach § 4 Absatz 1 Nummer 2 und 3 der Bundes-Apothekerordnung durch Antragsteller mit einer außerhalb Deutschlands abgeschlossenen Berufsqualifikation
+
+(1) Dem Antrag auf Erteilung einer Approbation als Apotheker durch
+Antragsteller mit einer außerhalb Deutschlands abgeschlossenen
+Berufsqualifikation sind zum Nachweis über das Vorliegen der
+Voraussetzungen nach § 4 Absatz 1 Nummer 2 und 3 der Bundes-
+Apothekerordnung folgende Unterlagen und Bescheinigungen beizufügen:
+
+1.  ein Nachweis über das Vorliegen der Voraussetzung nach § 4 Absatz 1
+    Nummer 2 der Bundes-Apothekerordnung
+
+    a)  durch ein Führungszeugnis und
+
+    b)  durch Unterlagen, die von den zuständigen Behörden des Staats, in dem
+        die Berufsqualifikation erworben worden ist, ausgestellt wurden oder,
+
+    c)  wenn in dem Staat, in dem die Berufsqualifikation erworben worden
+        ist, die vorgenannten Unterlagen nicht ausgestellt werden, durch
+        eine eidesstattliche Erklärung nach dem Recht des Staats, in dem
+        die Berufsqualifikation erworben worden ist, oder in den Staaten, in
+        denen es keine eidesstattliche Erklärung gibt, durch eine feierliche
+        Erklärung, die der Antragsteller vor einer zuständigen Justiz-
+        oder Verwaltungsbehörde oder gegebenenfalls vor einem Notar oder
+        einer entsprechend bevollmächtigten Berufsorganisation des Staats,
+        in dem die Berufsqualifikation erworben worden ist, der eine diese
+        eidesstattliche oder feierliche Erklärung bestätigende Bescheinigung
+        ausstellt, abgegeben hat oder,
+
+    d)  sofern ein Nachweis nach den Buchstaben b oder c aus Gründen, die
+        nicht in der Person des Antragstellers liegen, nicht vorgelegt werden
+        kann, eine Versicherung an Eides statt nach deutschem Recht, und
+
+2.  ein Nachweis über das Vorliegen der Voraussetzung nach § 4 Absatz 1
+    Nummer 3 der Bundes-Apothekerordnung durch
+
+    a)  eine ärztliche Bescheinigung, aus der hervorgeht, dass die
+        antragstellende Person nicht in gesundheitlicher Hinsicht zur Ausübung
+        des Berufs ungeeignet ist, oder,
+
+    b)  sofern sich der Wohnsitz des Antragstellers im Ausland befindet, den
+        Nachweis der in dem Staat, in dem die Berufsqualifikation erworben
+        worden ist, bei Aufnahme des Berufs als Nachweis über die körperliche
+        und geistige Gesundheit der antragstellenden Person gefordert wird
+        oder,
+
+    c)  wenn in dem Staat, in dem die Berufsqualifikation erworben worden ist,
+        kein derartiger Nachweis verlangt wird, eine von einer zuständigen
+        Behörde des Staats, in dem die Berufsqualifikation erworben worden
+        ist, ausgestellte vergleichbare Bescheinigung.
+
+(2) Die Nachweise nach Absatz 1 dürfen bei ihrer Vorlage jeweils nicht
+älter als drei Monate sein.
+
+(3) Hat die zuständige Behörde berechtigte Zweifel an der Echtheit
+der in dem jeweiligen Staat, in dem die Berufsqualifikation erworben
+worden ist, ausgestellten Unterlagen nach Absatz 1, so kann sie von
+der zuständigen Behörde des Staats, in dem die Berufsqualifikation
+erworben worden ist, eine Bestätigung der Echtheit verlangen.
+
+(4) Hat die zuständige Behörde berechtigte Zweifel an der Berechtigung
+des Antragstellers zur Ausübung des apothekerlichen Berufs, so kann
+sie von der zuständigen Behörde eines anderen Staats, der darüber
+Erkenntnisse haben könnte, eine Bestätigung verlangen, aus der sich
+ergibt, dass dem Antragsteller die Ausübung des apothekerlichen Berufs
+nicht aufgrund eines schwerwiegenden standeswidrigen Verhaltens oder
+aufgrund einer Verurteilung wegen strafbarer Handlungen dauerhaft oder
+vorübergehend untersagt worden ist.
+
+
+### § 20f Entscheidung über den Antrag
+
+(1) Über den Antrag auf Erteilung der Approbation ist kurzfristig,
+spätestens drei Monate nach Vorlage der vom Antragsteller
+vorzulegenden Unterlagen, zu entscheiden. In den Fällen des § 10b
+Absatz 5 und des § 10c Absatz 3 Satz 1 der Bundesapothekerordnung
+verlängert sich die Frist um einen Monat.
+
+(2) Im Fall des § 81a des Aufenthaltsgesetzes soll die Entscheidung
+innerhalb von zwei Monaten erfolgen.
+
+(3) Die zuständige Behörde bestätigt einem Antragsteller nach den §§
+10b, 10c oder 15 der Bundes-Apothekerordnung binnen eines Monats nach
 Eingang des Antrags den Antragseingang und den Empfang der Unterlagen
-und teilt ihm mit, welche Unterlagen fehlen. Die zuständige Behörde
-bestätigt dem Antragsteller oder der Antragstellerin binnen eines
-Monats nach Eingang des Antrags den Antragseingang und den Empfang der
-Unterlagen und teilt ihm oder ihr mit, welche Unterlagen fehlen.
+und teilt ihm mit, welche Unterlagen fehlen.
 
 
 ### § 21 Approbationsurkunde
@@ -797,254 +1034,214 @@ ausgestellt. Sie ist dem Antragsteller gegen Empfangsbekenntnis
 auszuhändigen oder mit Zustellungsurkunde zuzustellen.
 
 
-## Fünfter Abschnitt - Ergänzende Vorschriften, Erlaubnis, Übergangs- und Schlussbestimmungen
+## Fünfter Abschnitt - Erlaubnis zur Ausübung des pharmazeutischen Berufs, Erlaubnis zur partiellen Berufsausübung
 
 
-### § 22 Anrechnung von Ausbildungszeiten und Prüfungen
+### § 22 Antrag auf Erteilung einer Erlaubnis
 
-(1) Die nach Landesrecht zuständige Stelle rechnet auf die in dieser
-Verordnung vorgesehene Ausbildung, soweit Gleichwertigkeit gegeben
-ist, ganz oder teilweise an
+(1) Der Antrag auf Erteilung einer Erlaubnis zur Ausübung
+des Apothekerberufs nach § 11 Absatz 1, 1a oder 5 der Bundes-
+Apothekerordnung oder einer Erlaubnis zur partiellen Berufsausübung
+nach § 11a der Bundes-Apothekerordnung ist an die nach § 12 Absatz 3
+der Bundes-Apothekerordnung zuständige Behörde des Landes zu richten.
 
-1.  Zeiten eines im Geltungsbereich dieser Verordnung betriebenen
-    verwandten Studiums,
-
-2.  Zeiten eines außerhalb des Geltungsbereichs dieser Verordnung
-    betriebenen Studiums der Pharmazie oder eines verwandten Studiums,
-
-3.  Zeiten einer außerhalb des Geltungsbereichs dieser Verordnung
-    abgeleisteten praktischen Ausbildung auf die Ausbildung nach § 4
-    Absatz 1 Nummer 2.
-
-(2) Unter den Voraussetzungen des Absatzes 1 erkennt das
-Landesprüfungsamt Prüfungen an, die im Rahmen eines Studiums nach
-Absatz 1 Nr. 1 und 2 abgelegt worden sind. Dies gilt nicht für die
-Prüfung des Dritten Abschnitts der Pharmazeutischen Prüfung.
-
-(3) Im Falle einer Anerkennung einer Prüfung im Rahmen eines Studiums
-nach Absatz 1 Nr. 1 ist bei der Bildung der Note des betreffenden
-Prüfungsabschnitts die Note der anerkannten Prüfung zu verwenden.
-Im Falle der Anerkennung einer Prüfung im Rahmen eines Studiums
-nach Absatz 1 Nr. 2 werden eine Note des Prüfungsabschnitts sowie
-eine Gesamtnote der Pharmazeutischen Prüfung nicht gebildet. Die
-Anrechnung von Prüfungen ist gegebenenfalls auf den Zeugnissen der
-Prüfungsabschnitte und dem Zeugnis der Pharmazeutischen Prüfung gemäß
-den Anlagen 10 und 11 zu vermerken.
-
-(4) (weggefallen)
-
-(5) Die Anrechnung oder Anerkennung erfolgt auf Antrag. Zuständig
-für die Entscheidungen nach den Absätzen 1, 2 und 4 ist das
-Landesprüfungsamt des Landes, in dem der Antragsteller für das Studium
-der Pharmazie eingeschrieben oder zugelassen ist. Bei Studierenden,
-die eine Einschreibung oder Zulassung für das Pharmaziestudium bei
-einer Universität im Geltungsbereich dieser Verordnung noch nicht
-erlangt haben, ist das Landesprüfungsamt des Landes zuständig,
-in dem der Antragsteller geboren ist. Ergibt sich hiernach keine
-Zuständigkeit, so ist das Landesprüfungsamt des Landes Hessen
-zuständig.
+(2) Der Antrag nach den §§ 22a, 22b, 22f oder 22g kann schriftlich
+oder elektronisch gestellt werden.
 
 
 ### § 22a Erlaubnis nach § 11 Absatz 1 der Bundes-Apothekerordnung
 
-(1) Der Antrag auf Erteilung einer Erlaubnis zur vorübergehenden
-Ausübung des Apothekerberufs nach § 11 Absatz 1 der Bundes-
-Apothekerordnung ist an die nach § 12 Absatz 3 der Bundes-
-Apothekerordnung zuständige Behörde des Landes zu richten. Beantragt
-der Antragsteller erstmalig die Erteilung der Erlaubnis, hat er dem
-Antrag folgende Unterlagen beizufügen:
+(1) Beantragt der Antragsteller erstmalig die Erteilung einer
+Erlaubnis zur Ausübung des Apothekerberufs nach § 11 Absatz 1
+der Bundes-Apothekerordnung, sind dem Antrag folgende Unterlagen
+beizufügen:
 
-1.  einen Identitätsnachweis,
+1.  ein Identitätsnachweis,
 
-2.  eine tabellarische Aufstellung der absolvierten Ausbildungsgänge und
-    der ausgeübten Erwerbstätigkeiten,
+2.  ein Lebenslauf, der eine tabellarische Aufstellung der absolvierten
+    Ausbildungsgänge und der ausgeübten Erwerbstätigkeiten enthält,
 
-3.  eine amtlich beglaubigte Kopie der Bescheinigung über eine
-    abgeschlossene Ausbildung für den Beruf des Apothekers sowie
-    gegebenenfalls der Bescheinigung über die vom Antragsteller erworbene
-    Berufserfahrung,
+3.  eine Bescheinigung über eine abgeschlossene Ausbildung für den Beruf
+    des Apothekers sowie gegebenenfalls eine Bescheinigung über die vom
+    Antragsteller erworbene Berufserfahrung,
 
 4.  eine Erklärung, wo und in welcher Weise der Antragsteller den
     Apothekerberuf im Inland ausüben will,
 
-5.  soweit vorhanden, den Bescheid nach § 4 Absatz 3 Satz 2 der
-    Bundes-Apothekerordnung und die Niederschrift über die staatliche
-    Kenntnisprüfung nach § 22d Absatz 5,
+5.  soweit vorhanden, der Bescheid nach § 22e und die Niederschrift über
+    die staatliche Kenntnisprüfung nach § 22d Absatz 7,
 
-6.  die folgenden Unterlagen:
+6.  ein Nachweis über das Vorliegen der Voraussetzungen nach § 4 Absatz 1
+    Nummer 2 der Bundes-Apothekerordnung
 
-    a)  ein amtliches inländisches Führungszeugnis,
+    a)  durch ein Führungszeugnis und
 
-    b)  die Unterlagen, die von den zuständigen Behörden des Herkunftsstaats
-        ausgestellt wurden und belegen, dass der Antragsteller sich nicht
-        eines Verhaltens schuldig gemacht hat, aus dem sich seine Unwürdigkeit
-        oder Unzuverlässigkeit zur Ausübung des Apothekerberufs ergibt, oder,
+    b)  durch die Unterlagen, die von den zuständigen Behörden des Staats, in
+        dem die Berufsqualifikation erworben worden ist, ausgestellt wurden
+        oder,
 
-    c)  wenn im Herkunftsstaat die Unterlagen nach Buchstabe b nicht
-        ausgestellt werden, eine eidesstattliche Erklärung oder in den
-        Staaten, in denen es keine eidesstattliche Erklärung gibt, eine
-        feierliche Erklärung, die die betreffende Person im Herkunftsstaat
-        oder im Inland vor einer zuständigen Justiz- oder Verwaltungsbehörde
-        oder gegebenenfalls vor einem Notar oder einer entsprechend
-        bevollmächtigten Berufsorganisation, die eine diese eidesstattliche
-        oder feierliche Erklärung bestätigende Bescheinigung ausstellt,
-        abgegeben hat,
+    c)  wenn in dem Staat, in dem die Berufsqualifikation erworben worden
+        ist, die Unterlagen nach Buchstabe b nicht ausgestellt werden, durch
+        eine eidesstattliche Erklärung nach dem Recht des Staats, in dem
+        die Berufsqualifikation erworben worden ist, oder in den Staaten, in
+        denen es keine eidesstattliche Erklärung gibt, durch eine feierliche
+        Erklärung, die die betreffende Person in dem Staat, in dem die
+        Berufsqualifikation erworben worden ist, oder im Inland vor einer
+        zuständigen Justiz- oder Verwaltungsbehörde oder gegebenenfalls
+        vor einem Notar oder einer entsprechend bevollmächtigten
+        Berufsorganisation, die eine diese eidesstattliche oder feierliche
+        Erklärung bestätigende Bescheinigung ausstellt, abgegeben hat oder,
 
-7.  eine im Inland ausgestellte ärztliche Bescheinigung, aus der
-    hervorgeht, dass der Antragsteller nicht in gesundheitlicher Hinsicht
-    zur Ausübung des Berufs ungeeignet ist; soweit sich der Wohnsitz
-    des Antragstellers nicht im Inland befindet, kann ein entsprechender
-    Nachweis, der im Herkunftsstaat gefordert wird, anerkannt werden
-    oder, wenn im Herkunftsstaat kein derartiger Nachweis gefordert wird,
-    eine von einer zuständigen Behörde des Herkunftsstaats ausgestellte
-    Bescheinigung,
+    d)  sofern ein Nachweis nach den Buchstaben b oder c aus Gründen, die
+        nicht in der Person des Antragstellers liegen, nicht vorgelegt werden
+        kann, eine Versicherung an Eides statt nach deutschem Recht,
 
-8.  soweit vorhanden, Nachweise über die Kenntnisse der deutschen Sprache,
-    die der zuständigen Behörde eine Beurteilung darüber erlauben,
-    in welchem Umfang der Antragsteller über die zur Ausübung des
-    Apothekerberufs erforderlichen Sprachkenntnisse verfügt.
+7.  ein Nachweis über das Vorliegen der Voraussetzungen nach § 4 Absatz 1
+    Nummer 3 der Bundes-Apothekerordnung durch
 
-Die Nachweise nach Satz 2 Nummer 6 und 7 dürfen bei ihrer Vorlage
-nicht älter als drei Monate sein. Beantragt der Antragsteller die
-Verlängerung der Erlaubnis, hat er dem Antrag die zuletzt erteilte
-Erlaubnis, falls diese von einer anderen Behörde ausgestellt
-wurde, sowie ein amtliches inländisches Führungszeugnis und eine
-im Inland ausgestellte ärztliche Bescheinigung, die bei ihrer
-Vorlage nicht älter als drei Monate sein dürfen, beizufügen. Haben
-die zuständigen Behörden berechtigte Zweifel an der Authentizität
-der in dem jeweiligen Herkunftsstaat ausgestellten Bescheinigungen
-und Ausbildungsnachweise, können sie von den zuständigen Behörden
-des Herkunftsstaats eine Bestätigung der Authentizität dieser
-Bescheinigungen und Nachweise verlangen. § 20 Absatz 2 gilt
-entsprechend.
+    a)  eine im Inland ausgestellte ärztliche Bescheinigung,
+
+    b)  soweit sich der Wohnsitz des Antragstellers nicht im Inland
+        befindet, ein entsprechender Nachweis, der in dem Staat, in dem die
+        Berufsqualifikation erworben worden ist, gefordert wird, oder,
+
+    c)  wenn in dem Staat, in dem die Berufsqualifikation erworben worden ist,
+        kein derartiger Nachweis gefordert wird, eine von einer zuständigen
+        Behörde des Staats, in dem die Berufsqualifikation erworben worden
+        ist, ausgestellte Bescheinigung, und
+
+8.  soweit vorhanden, Nachweise, die der zuständigen Behörde eine
+    Beurteilung darüber erlauben, in welchem Umfang der Antragsteller über
+    die zur Ausübung des Apothekerberufs erforderlichen Kenntnisse der
+    deutschen Sprache verfügt.
+
+Die Nachweise nach Satz 1 Nummer 6 und 7 dürfen bei ihrer Vorlage
+jeweils nicht älter als drei Monate sein. Beantragt der Antragsteller
+die Verlängerung der Erlaubnis, hat er dem Antrag die zuletzt erteilte
+Erlaubnis, falls diese von einer anderen Behörde ausgestellt wurde,
+sowie ein Führungszeugnis und eine im Inland ausgestellte ärztliche
+Bescheinigung, die bei ihrer Vorlage jeweils nicht älter als drei
+Monate sein dürfen, beizufügen.
 
 (2) Über den Antrag ist kurzfristig, spätestens drei Monate nach
 Vorlage der nach Absatz 1 vom Antragsteller vorzulegenden Unterlagen,
 zu entscheiden. Die zuständige Behörde bestätigt dem Antragsteller
 binnen eines Monats nach Eingang des Antrags den Antragseingang
 und den Empfang der Unterlagen und teilt ihm mit, welche Unterlagen
-fehlen. Ist zur Beurteilung der Frage, ob die vom Antragsteller
-nach Absatz 1 Satz 2 Nummer 3 vorgelegten Unterlagen den Abschluss
-der Ausbildung im Herkunftsstaat belegen, eine Auskunft von der
-Zentralstelle für ausländisches Bildungswesen oder von vergleichbaren
-Einrichtungen erforderlich, so teilt die Behörde dies dem
-Antragsteller ebenfalls mit. In den Fällen des Satzes 3 ist der Ablauf
-der Frist nach Satz 1 bis zum Vorliegen der Antwort auf die Anfrage
-der Behörde gehemmt. Gleiches gilt bis zum Vorliegen einer Bestätigung
-der Authentizität durch die Behörde des Herkunftsstaats gemäß Absatz 1
-Satz 5.
+fehlen. Ist zur Beurteilung der Frage, ob die vom Antragsteller nach
+Absatz 1 Satz 1 Nummer 3 vorgelegten Unterlagen den Abschluss der
+Ausbildung in dem Staat, in dem die Berufsqualifikation erworben
+worden ist, belegen, eine Auskunft von der Zentralstelle für
+ausländisches Bildungswesen oder von vergleichbaren Einrichtungen
+erforderlich, so teilt die Behörde dies dem Antragsteller ebenfalls
+mit. In den Fällen des Satzes 3 ist der Ablauf der Frist nach Satz
+1 bis zum Vorliegen der Antwort auf die Anfrage der Behörde gehemmt.
+Gleiches gilt bis zum Vorliegen einer Bestätigung der Echtheit durch
+die Behörde des Staats, in dem die Berufsqualifikation erworben worden
+ist, gemäß § 23 Absatz 5.
 
 (3) Die zuständige Behörde hat den Ausbildungsstand des Antragstellers
 einschließlich der nachgewiesenen einschlägigen Berufserfahrung bei
 der Entscheidung über die Erteilung der Erlaubnis zu berücksichtigen
 und prüft auf dieser Grundlage seine fachliche Eignung für die
-beabsichtigte pharmazeutische Tätigkeit. Soweit der Antragsteller
+beabsichtigte apothekerliche Tätigkeit. Soweit der Antragsteller
 bereits einen Antrag auf Erteilung der Approbation gestellt hat,
-zieht die zuständige Behörde die Feststellungen des Bescheides nach §
-4 Absatz 2 Satz 8 der Bundes-Apothekerordnung und, soweit vorhanden,
-die Niederschrift der staatlichen Kenntnisprüfung nach § 22d Absatz
-5 bei. Ein bereits begonnenes oder noch nicht nach § 4 Absatz 3
-der Bundes-Apothekerordnung mit einer Anerkennung abgeschlossenes
-Approbationsverfahren steht der Erteilung der Erlaubnis nicht
-entgegen.
+zieht die zuständige Behörde die Feststellungen des Bescheides
+nach § 22e und, soweit vorhanden, die Niederschrift der staatlichen
+Kenntnisprüfung nach § 22d Absatz 7 bei. Ein bereits begonnenes
+oder noch nicht nach § 10c der Bundes-Apothekerordnung mit einer
+Anerkennung abgeschlossenes Approbationsverfahren steht der Erteilung
+der Erlaubnis nicht entgegen.
 
 (4) Die zuständige Behörde versieht die Erlaubnis mit den
-Einschränkungen und Nebenbestimmungen, die erforderlich sind, um unter
-Berücksichtigung des nach Absatz 3 bewerteten Ausbildungsstandes des
-Antragstellers, seiner Kenntnisse der deutschen Sprache und seiner
-gesundheitlichen Eignung eine Gefährdung der öffentlichen Gesundheit
-auszuschließen. Wenn die Gefährdung der öffentlichen Gesundheit durch
-Einschränkungen und Nebenbestimmungen nicht ausgeschlossen werden
-kann, ist die Erlaubnis zu versagen. Die Erlaubnis ist ebenfalls zu
-versagen, wenn die Voraussetzungen nach § 4 Absatz 1 Nummer 2 der
-Bundes-Apothekerordnung nicht vorliegen.
+Nebenbestimmungen, die erforderlich sind, um unter Berücksichtigung
+des nach Absatz 3 bewerteten Ausbildungsstandes des Antragstellers,
+seiner Kenntnisse der deutschen Sprache und seiner gesundheitlichen
+Eignung eine Gefährdung der öffentlichen Gesundheit auszuschließen.
+Wenn die Gefährdung der öffentlichen Gesundheit durch
+Nebenbestimmungen nicht ausgeschlossen werden kann, ist die Erlaubnis
+zu versagen. Die Erlaubnis ist ebenfalls zu versagen, wenn die
+Voraussetzungen nach § 4 Absatz 1 Nummer 2 der Bundes-Apothekerordnung
+nicht vorliegen.
 
 (5) Die Erlaubnis kann bei ihrer erstmaligen Erteilung nur dann auf
 weniger als zwei Jahre befristet werden, wenn im Einzelfall die mit
-der Erlaubnis versehenen Einschränkungen und Nebenbestimmungen oder
-die vom Antragsteller beabsichtigte Berufstätigkeit dies erfordern.
+der Erlaubnis versehenen Nebenbestimmungen oder die vom Antragsteller
+beabsichtigte Berufstätigkeit dies erfordern.
 
 (6) Soweit die Geltung der Erlaubnis auf ein Land beschränkt wird
 und die Tätigkeit einen Einsatz in mehr als einem Land erfordert, hat
 die zuständige Behörde die Erlaubnis mit dem Hinweis zu versehen, in
 welchen anderen Ländern die Erlaubnis gilt.
 
-(7) Die Erlaubnis zur vorübergehenden Ausübung des Apothekerberufs
-wird nach dem Muster der Anlage 17 zu dieser Verordnung ausgestellt.
+(7) Die Erlaubnis zur Ausübung des Apothekerberufs wird nach dem
+Muster der Anlage 17 zu dieser Verordnung ausgestellt.
 
 
 ### § 22b Erlaubnis nach § 11 Absatz 1a der Bundes-Apothekerordnung
 
-(1) Der Antrag auf Erteilung zur vorübergehenden Ausübung des
-Apothekerberufs nach § 11 Absatz 1a der Bundes-Apothekerordnung ist an
-die nach § 12 Absatz 3 der Bundes-Apothekerordnung zuständige Behörde
-des Landes zu richten. Beantragt der Antragsteller erstmals die
-Erteilung der Erlaubnis, hat er dem Antrag die folgenden Unterlagen
+(1) Beantragt der Antragsteller erstmals die Erteilung einer
+Erlaubnis zur Ausübung des Apothekerberufs nach § 11 Absatz 1a der
+Bundes-Apothekerordnung, hat er dem Antrag die folgenden Unterlagen
 beizufügen:
 
-1.  die Unterlagen, die in § 4 Absatz 6 Satz 1 Nummer 1, 1a, 2 und 3 bis 7
-    der Bundes-Apothekerordnung genannt sind, und
+1.  die Unterlagen, die in § 22a Absatz 1 Satz 1 Nummer 1 bis 3 und 5 bis
+    8 genannt sind, und
 
 2.  eine Erklärung, wo und in welcher Weise der Antragsteller den
     Apothekerberuf im Inland ausüben will und inwiefern sich hieraus ein
     besonderes Interesse an der Erteilung der Erlaubnis ergibt.
 
-Die Nachweise nach § 4 Absatz 6 Satz 1 Nummer 3 und 4 der Bundes-
-Apothekerordnung dürfen bei ihrer Vorlage nicht älter als drei Monate
-sein. Beantragt der Antragsteller die Verlängerung der Erlaubnis, hat
-er dem Antrag die zuletzt erteilte Erlaubnis, falls diese von einer
-anderen Behörde ausgestellt wurde, und die Unterlagen nach § 4 Absatz
-6 Satz 1 Nummer 3 und 4 der Bundes-Apothekerordnung, die bei ihrer
-Vorlage nicht älter als drei Monate sein dürfen, beizufügen. Haben
-die zuständigen Behörden berechtigte Zweifel an der Authentizität
-der in dem jeweiligen Herkunftsstaat ausgestellten Bescheinigungen
-und Ausbildungsnachweise, können sie von den zuständigen Behörden
-des Herkunftsstaats eine Bestätigung der Authentizität sowie
-eine Bestätigung darüber verlangen, dass der Antragsteller die
+Die Nachweise über das Vorliegen der Voraussetzungen nach § 4 Absatz
+1 Nummer 2 und 3 der Bundes-Apothekerordnung dürfen bei ihrer Vorlage
+jeweils nicht älter als drei Monate sein. Beantragt der Antragsteller
+die Verlängerung der Erlaubnis, hat er dem Antrag die zuletzt erteilte
+Erlaubnis, falls diese von einer anderen Behörde ausgestellt wurde,
+und die Unterlagen zum Nachweis über das Vorliegen der Voraussetzungen
+nach § 4 Absatz 1 Nummer 2 und 3 der Bundes-Apothekerordnung, die bei
+ihrer Vorlage nicht älter als drei Monate sein dürfen, beizufügen.
+Haben die zuständigen Behörden berechtigte Zweifel an der Echtheit
+der in dem jeweiligen Staat, in dem die Berufsqualifikation erworben
+worden ist, ausgestellten Bescheinigungen und Ausbildungsnachweise,
+können sie von den zuständigen Behörden des Staats, in dem die
+Berufsqualifikation erworben worden ist, eine Bestätigung der Echtheit
+sowie eine Bestätigung darüber verlangen, dass der Antragsteller die
 Mindestanforderungen der Ausbildung erfüllt, die in Artikel 44 der
-Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates vom
-7\. September 2005 über die Anerkennung von Berufsqualifikationen
-(ABl. L 255 vom 30.9.2005, S. 22, L 271 vom 16.10.2007, S. 18),
-die zuletzt durch die Verordnung (EU) Nr. 623/2012 (ABl. L 180 vom
-12\.7.2012, S. 9) geändert worden ist, verlangt werden. § 20 Absatz 2
-gilt entsprechend.
+Richtlinie 2005/36/EG verlangt werden.
 
 (2) Ein besonderes Interesse im Sinne von § 11 Absatz 1a der Bundes-
 Apothekerordnung liegt insbesondere vor, wenn der Antragsteller
 
-1.  die Voraussetzungen nach § 4 Absatz 1 oder 2 der Bundes-
-    Apothekerordnung erfüllt und § 11a der Bundes-Apothekerordnung nicht
-    angewendet werden kann oder
+1.  die Voraussetzungen nach § 4 Absatz 1 nach Maßgabe des § 10b der
+    Bundes-Apothekerordnung erfüllt und § 11b der Bundes-Apothekerordnung
+    nicht angewendet werden kann oder
 
-2.  die nach Absatz 1 Satz 2 Nummer 2 angestrebte pharmazeutische
-    Tätigkeit ausüben kann, obwohl er die Voraussetzungen nach § 4 Absatz
-    1 Satz 1 Nummer 3 oder Nummer 5 der Bundes-Apothekerordnung nicht
-    erfüllt.
+2.  die nach Absatz 1 Satz 1 Nummer 2 angestrebte apothekerliche Tätigkeit
+    ausüben kann, obwohl er die Voraussetzungen nach § 4 Absatz 1 Nummer 3
+    oder 5 der Bundes-Apothekerordnung nicht erfüllt.
 
-(3) Erfüllt der Antragsteller nicht die Voraussetzung des § 4
-Absatz 1 Satz 1 Nummer 4 der Bundes-Apothekerordnung und fällt der
-Antragsteller nicht unter § 4 Absatz 1a oder § 4 Absatz 1d der Bundes-
-Apothekerordnung, gilt § 22a Absatz 3 Satz 1 entsprechend.
+(3) Erfüllt der Antragsteller nicht die Voraussetzung des § 4 Absatz
+1 Nummer 4 der Bundes-Apothekerordnung und fällt der Antragsteller
+nicht unter die §§ 10b oder 15 der Bundes-Apothekerordnung, gilt § 22a
+Absatz 3 Satz 1 entsprechend.
 
 (4) Die zuständige Behörde versieht die Erlaubnis mit den
-Einschränkungen und Nebenbestimmungen, die erforderlich sind, um unter
-Berücksichtigung des nach Absatz 3 bewerteten Kenntnisstandes des
-Antragstellers, seiner Kenntnisse der deutschen Sprache und seiner
-gesundheitlichen Eignung eine Gefährdung der öffentlichen Gesundheit
-auszuschließen. § 22a Absatz 2, 4 Satz 2 und 3, Absatz 5 bis 7 gilt
-entsprechend.
+Nebenbestimmungen, die erforderlich sind, um unter Berücksichtigung
+des nach Absatz 3 bewerteten Kenntnisstandes des Antragstellers,
+seiner Kenntnisse der deutschen Sprache und seiner gesundheitlichen
+Eignung eine Gefährdung der öffentlichen Gesundheit auszuschließen. §
+22a Absatz 2, 4 Satz 2 und 3 und Absatz 5 bis 7 gilt entsprechend.
 
 
-### § 22c Eignungsprüfung nach § 4 Absatz 2 Satz 7 der Bundes-Apothekerordnung
+### § 22c Eignungsprüfung nach § 10b Absatz 8 der Bundes-Apothekerordnung
 
-(1) Die Eignungsprüfung nach § 4 Absatz 2 Satz 7 der Bundes-
+(1) Die Eignungsprüfung nach § 10b Absatz 8 der Bundes-
 Apothekerordnung bezieht sich auf die Fächer, in denen die zuständige
-Behörde wesentliche Unterschiede nach § 4 Absatz 2 Satz 8 der
-Bundes-Apothekerordnung festgestellt hat. In der Eignungsprüfung
-hat der Antragsteller nachzuweisen, dass er in diesen Fächern
-über die Kenntnisse und Fähigkeiten, auch in der apothekerlichen
-Gesprächsführung, verfügt, die zur Ausübung des Apothekerberufs
-erforderlich sind.
+Behörde wesentliche Unterschiede gemäß § 22e festgestellt hat. In
+der Eignungsprüfung hat der Antragsteller nachzuweisen, dass er
+in diesen Fächern über die Kenntnisse und Fähigkeiten, auch in der
+apothekerlichen Gesprächsführung, verfügt, die zur Ausübung des
+Apothekerberufs erforderlich sind.
 
 (2) Die Eignungsprüfung ist eine mündliche Prüfung, die an einem
 Tag stattfindet. Die Prüfung wird in der Regel als Einzelprüfung
@@ -1057,11 +1254,11 @@ höchstens 60 Minuten.
 (3) Die Länder können zur Durchführung der Prüfungen die regulären
 Prüfungstermine der staatlichen Prüfungen nach § 12 Absatz 1 Satz 3
 nutzen; sie haben dabei sicherzustellen, dass die Antragsteller die
-Prüfungen innerhalb von sechs Monaten nach der Entscheidung nach § 4
-Absatz 2 Satz 8 der Bundes-Apothekerordnung ablegen können. Die nach §
-12 Absatz 2 der Bundes-Apothekerordnung zuständige Behörde des Landes
-stellt dem Antragsteller die Ladung zur Eignungsprüfung spätestens
-sieben Tage vor dem Prüfungstermin zu. § 13 gilt entsprechend.
+Prüfungen innerhalb von sechs Monaten nach der Entscheidung nach§ 22e
+ablegen können. Die nach § 12 Absatz 2 der Bundes-Apothekerordnung
+zuständige Behörde des Landes stellt dem Antragsteller die Ladung zur
+Eignungsprüfung spätestens sieben Tage vor dem Prüfungstermin zu. § 13
+gilt entsprechend.
 
 (4) Die Eignungsprüfung wird in Form einer staatlichen Prüfung vor
 einer staatlichen Prüfungskommission in deutscher Sprache abgelegt.
@@ -1091,96 +1288,403 @@ Mitgliedern der Prüfungskommission zu unterzeichnende Niederschrift
 nach dem Muster der Anlage 18 zu dieser Verordnung anzufertigen,
 aus der der Gegenstand der Prüfung, das Bestehen oder Nichtbestehen
 der Prüfung, die hierfür tragenden Gründe sowie etwa vorkommende
-schwere Unregelmäßigkeiten ersichtlich sind. Der Vorsitzende der
+schwere Unregelmäßigkeiten ersichtlich sind. Die Niederschrift kann in
+schriftlicher oder elektronischer Form erfolgen. Der Vorsitzende der
 Prüfungskommission leitet die Niederschrift der nach § 12 Absatz 2 der
 Bundes-Apothekerordnung zuständigen Behörde des Landes zu.
 
 
-### § 22d Kenntnisprüfung nach § 4 Absatz 3 Satz 3 der Bundes-Apothekerordnung
+### § 22d Kenntnisprüfung nach § 10c Absatz 2 Satz 1 und Absatz 3 Satz 4 der Bundes-Apothekerordnung
 
-(1) Die Kenntnisprüfung bezieht sich auf die Fächer Pharmazeutische
-Praxis und Spezielle Rechtsgebiete für Apotheker sowie auf eines
-der Fächer, in denen die zuständige Behörde wesentliche Unterschiede
-nach § 4 Absatz 2 Satz 8 der Bundes-Apothekerordnung festgestellt
-hat und das von der nach § 12 Absatz 3 der Bundes-Apothekerordnung
-zuständigen Behörde des Landes festgelegt wird. In der Prüfung hat der
-Antragsteller zu zeigen, dass er über Kenntnisse und Fähigkeiten, auch
-in der apothekerlichen Gesprächsführung, verfügt, die zur Ausübung des
-Apothekerberufs erforderlich sind.
+(1) In der Kenntnisprüfung hat der Antragsteller zu zeigen, dass
+er über Kenntnisse und Fähigkeiten verfügt, die zur Ausübung des
+Berufs des Apothekers erforderlich sind. Dies umfasst insbesondere
+die Kenntnis über Arzneimittel, deren Wirkweise einschließlich
+Neben- und Wechselwirkungen und die Anwendung dieser Kenntnisse
+in der apothekerlichen Beratung von Patienten und Angehörigen
+anderer Gesundheitsberufe im Rahmen einer professionellen und
+adressatengerechten Kommunikation.
 
-(2) Die Kenntnisprüfung ist eine mündliche Prüfung, die an einem
-Tag stattfindet. Die Prüfung wird in der Regel als Einzelprüfung
-durchgeführt. Soweit es die zu prüfenden Fächer zulassen, können
-bis zu vier Antragsteller gleichzeitig geprüft werden. Die Dauer
-der Prüfung ist abhängig vom Umfang der festgestellten wesentlichen
-Unterschiede. Sie dauert für jeden Antragsteller mindestens 30,
-höchstens 60 Minuten.
+(2) Die Kenntnisprüfung ist eine mündliche Prüfung, die an einem Tag
+stattfindet. Sie wird in Form einer staatlichen Prüfung vor einer
+staatlich bestellten Prüfungskommission in deutscher Sprache abgelegt.
+Es können bis zu vier Antragsteller gleichzeitig geprüft werden.
+Die Prüfung dauert für jeden Antragsteller mindestens 30, höchstens
+60 Minuten.
 
-(3) Die Länder können zur Durchführung der Prüfungen die regulären
-Prüfungstermine der staatlichen Prüfungen nach § 12 Absatz 1
-Satz 3 nutzen. Die nach § 12 Absatz 2 der Bundes-Apothekerordnung
-zuständige Behörde des Landes stellt dem Antragsteller die Ladung zur
-Kenntnisprüfung spätestens sieben Tage vor dem Prüfungstermin zu. § 13
-gilt entsprechend.
+(3) Die Kenntnisprüfung bezieht sich insbesondere auf die Fächer
+Pharmazeutische Praxis und Spezielle Rechtsgebiete für Apotheker.
+Inhalt der Kenntnisprüfung ist außerdem der in Anlage 14 festgelegte
+Prüfungsstoff, aus dem jeweils mindestens vier Fächer zu prüfen sind.
 
-(4) Die Kenntnisprüfung wird in Form einer staatlichen Prüfung vor
-einer staatlichen Prüfungskommission in deutscher Sprache abgelegt.
-Die Prüfungskommission wird von der nach § 12 Absatz 3 der Bundes-
-Apothekerordnung zuständigen Behörde des Landes bestellt. Die
-Prüfungskommission besteht aus dem Vorsitzenden und zwei weiteren
-Mitgliedern. Für den Vorsitzenden und die weiteren Mitglieder sind
-Stellvertreter zu bestellen. Als Vorsitzende, weitere Mitglieder
-und Stellvertreter werden Professoren oder andere Lehrkräfte der
-Fächer, die Gegenstand der Prüfung sind, bestellt. Stattdessen
-können als Mitglieder der Prüfungskommission auch dem Lehrkörper
-einer Universität nicht angehörende Apotheker bestellt werden.
-Der Vorsitzende der Prüfungskommission leitet die Prüfung und muss
-selbst prüfen. § 11 Absatz 3, 5 Satz 1 und Absatz 6 sowie § 14 gelten
-entsprechend.
+(4) Die Länder können zur Durchführung der Prüfungen die regulären
+Prüfungstermine der staatlichen Prüfung nach § 12 Absatz 1 Satz
+3 nutzen; sie haben dabei sicherzustellen, dass die Antragsteller
+die Prüfungen innerhalb von sechs Monaten, im Fall von § 10c Absatz
+2 Satz 1 der Bundes-Apothekerordnung nach Antragstellung oder im
+Fall von § 10c Absatz 3 Satz 4 der Bundes-Apothekerordnung nach der
+Entscheidung nach § 22e, ablegen können. Die zuständige Behörde stellt
+dem Antragsteller die Ladung zur Kenntnisprüfung spätestens fünf
+Kalendertage vor dem Prüfungstermin zu. § 13 gilt entsprechend.
 
-(5) Die Kenntnisprüfung ist erfolgreich abgeschlossen, wenn die
-Prüfungskommission in einer Gesamtbetrachtung die Leistungen in den
-in Absatz 1 genannten Fächern als bestanden bewertet. Das Bestehen der
-Prüfung setzt mindestens voraus, dass die Leistung trotz ihrer Mängel
-noch den Anforderungen genügt. § 11 Absatz 3 gilt entsprechend.
+(5) Die Prüfungskommission besteht aus drei Prüfern; es ist jeweils
+ein Stellvertreter zu bestellen. Die nach § 12 Absatz 2 der Bundes-
+Apothekerordnung zuständige Behörde des Landes bestellt die
+Prüfungskommission und legt den Prüfungsvorsitz fest. Als Prüfer und
+Stellvertreter werden Professoren oder andere Lehrkräfte der Fächer,
+die Gegenstand der Prüfung sind, bestellt. Stattdessen können auch
+dem Lehrkörper einer Universität nicht angehörende Apotheker bestellt
+werden. § 11 Absatz 1 Satz 4, Absatz 3 Satz 4 bis 6, Absatz 5 Satz 1
+sowie § 14 gelten entsprechend.
 
-(6) Die Kenntnisprüfung soll mindestens zweimal jährlich angeboten
-werden. Sie kann zweimal wiederholt werden. Über den Verlauf
-der Prüfung jedes Antragstellers ist eine von allen Mitgliedern
-der Prüfungskommission zu unterzeichnende Niederschrift nach
-dem Muster der Anlage 19 zu dieser Verordnung anzufertigen, aus
-der der Gegenstand der Prüfung, das Bestehen oder Nichtbestehen
-der Prüfung, die hierfür tragenden Gründe sowie etwa vorkommende
-schwere Unregelmäßigkeiten ersichtlich sind. Der Vorsitzende der
-Prüfungskommission leitet die Niederschrift der nach § 12 Absatz 2 der
-Bundes-Apothekerordnung zuständigen Behörde des Landes zu.
+(6) Die Kenntnisprüfung ist erfolgreich abgeschlossen, wenn die
+Prüfungskommission in einer Gesamtbetrachtung die Leistungen als
+bestanden bewertet. Das Bestehen der Prüfung setzt mindestens voraus,
+dass die Leistung trotz ihrer Mängel noch den Anforderungen genügt. §
+11 Absatz 3 Satz 7 gilt entsprechend.
+
+(7) Die Kenntnisprüfung soll mindestens zweimal jährlich angeboten
+werden. Sie kann zweimal wiederholt werden. Über den Verlauf der
+Prüfung jedes Antragstellers ist eine von allen drei Prüfern zu
+unterzeichnende Niederschrift nach dem Muster der Anlage 19 zu
+dieser Verordnung anzufertigen, aus der der Gegenstand der Prüfung,
+das Bestehen oder Nichtbestehen der Prüfung, die hierfür tragenden
+Gründe sowie etwa vorkommende schwere Unregelmäßigkeiten ersichtlich
+sind. Die Niederschrift kann in schriftlicher oder elektronischer
+Form erfolgen. Der Vorsitzende der Prüfungskommission leitet die
+Niederschrift der nach § 12 Absatz 2 der Bundes-Apothekerordnung
+zuständigen Behörde des Landes zu.
+
+(8) Die nach Landesrecht zuständigen Stellen unterrichten die
+nach Landesrecht zuständigen Stellen der anderen Länder, wenn die
+Kenntnisprüfung von einem Antragsteller nach zweimaliger Wiederholung
+nicht bestanden worden ist. Die nach Landesrecht zuständigen Stellen
+unterrichten die Antragsteller über jede Mitteilung nach Satz 1. Die
+Mitteilungen können schriftlich oder elektronisch erfolgen.
 
 
-### § 22e Bescheid nach § 4 Absatz 2 Satz 8 und Absatz 3 Satz 2 der Bundes-Apothekerordnung
+### § 22e Bescheid bei Feststellen wesentlicher Unterschiede nach § 10b Absatz 8 und § 10c Absatz 3 der Bundes-Apothekerordnung
 
-Der Bescheid nach § 4 Absatz 2 Satz 8 und Absatz 3 Satz 2 der Bundes-
-Apothekerordnung enthält folgende Angaben:
+(1) Stellt die zuständige Behörde hinsichtlich der Gleichwertigkeit
+der Berufsqualifikation wesentliche Unterschiede fest, so erteilt sie
+dem Antragsteller einen rechtsmittelfähigen Bescheid.
+
+(2) Der Bescheid enthält folgende Angaben:
 
 1.  das Niveau der in Deutschland verlangten Qualifikation und das
-    Niveau der von den Antragstellerinnen und Antragstellern vorgelegten
-    Qualifikation gemäß der Klassifizierung in Artikel 11 der Richtlinie
-    2005/36/EG in der jeweils geltenden Fassung,
+    Niveau der von dem Antragsteller vorgelegten Qualifikation gemäß der
+    Klassifizierung in Artikel 11 der Richtlinie 2005/36/EG,
 
 2.  die Fächer, bei denen wesentliche Unterschiede festgestellt wurden,
 
 3.  eine inhaltliche Erläuterung der wesentlichen Unterschiede sowie
     die Begründung, warum diese dazu führen, dass der Antragsteller
     nicht in ausreichender Form über die in Deutschland zur Ausübung des
-    Apothekerberufs notwendigen Kenntnisse und Fähigkeiten verfügt, und
+    Apothekerberufs notwendigen Kenntnisse und Fähigkeiten verfügt,
 
 4.  eine Begründung, warum die wesentlichen Unterschiede nicht durch
     Kenntnisse und Fähigkeiten ausgeglichen werden können, die der
     Antragsteller im Rahmen seiner Berufspraxis als Apotheker oder durch
-    lebenslanges Lernen im Sinne des § 4 Absatz 2 Satz 5 der Bundes-
-    Apothekerordnung erworben hat.
+    lebenslanges Lernen erworben hat, und
+
+5.  die erforderliche Anpassungsmaßnahme nach den §§ 22c oder 22d.
+
+(3) Der Bescheid ist dem Antragsteller spätestens vier Monate, nachdem
+der zuständigen Behörde alle erforderlichen Unterlagen vorliegen, zu
+erteilen. Im Fall des § 81a des Aufenthaltsgesetzes soll der Bescheid
+innerhalb von zwei Monaten erteilt werden.
 
 
-### § 23 Übergangsvorschriften
+### § 22f Erlaubnis nach § 11 Absatz 5 der Bundes-Apothekerordnung
+
+(1) Der Antragsteller hat dem Antrag auf Erteilung einer Erlaubnis
+zur Ausübung des Apothekerberufs nach § 11 Absatz 5 der Bundes-
+Apothekerordnung die folgenden Unterlagen beizufügen:
+
+1.  die in § 22a Absatz 1 Satz 1 Nummer 1, 2, 4, 6, 7 und 8 genannten
+    Unterlagen,
+
+2.  das Zeugnis über den Abschluss des Hochschulstudiums,
+
+3.  eine Darstellung, welche weiteren Ausbildungsabschnitte an welchen
+    Ausbildungsstätten absolviert werden sollen,
+
+4.  Nachweise über die Erforderlichkeit dieser Tätigkeiten nach
+    ausländischem Ausbildungsrecht,
+
+5.  eine Bescheinigung des Staats, in dem das Hochschulstudium
+    abgeschlossen wurde, dass der Antragsteller eine das Hochschulstudium
+    abschließende Prüfung im Studienland bestanden hat und
+
+6.  eine Bescheinigung des Staats, in dem das Hochschulstudium
+    abgeschlossen wurde, dass die mit der Erteilung der Erlaubnis zum
+    Abschluss der pharmazeutischen Ausbildung absolvierte apothekerliche
+    Tätigkeit für den Ausbildungsabschluss anerkannt oder die
+    Durchführung der nach ausländischem Ausbildungsrecht erforderlichen
+    Abschlussprüfung ermöglichen wird.
+
+Die Nachweise über das Vorliegen der Voraussetzungen nach § 4
+Absatz 1 Nummer 2 und 3 der Bundes-Apothekerordnung dürfen bei
+ihrer Vorlage jeweils nicht älter als drei Monate sein. Haben
+die zuständigen Behörden berechtigte Zweifel an der Echtheit der
+in dem jeweiligen Staat, in dem die Berufsqualifikation erworben
+worden ist, ausgestellten Bescheinigungen und Ausbildungsnachweise,
+können sie von den zuständigen Behörden des Staats, in dem die
+Berufsqualifikation erworben worden ist, eine Bestätigung der Echtheit
+sowie eine Bestätigung darüber verlangen, dass der Antragsteller die
+Mindestanforderungen der Ausbildung erfüllt, die in Artikel 44 der
+Richtlinie 2005/36/EG verlangt werden.
+
+(2) Die zuständige Behörde versieht die Erlaubnis mit den
+Nebenbestimmungen, die erforderlich sind, um angesichts der
+Ausbildungssituation eine Gefährdung der öffentlichen Gesundheit
+auszuschließen. Wenn eine Gefährdung der öffentlichen Gesundheit
+durch Nebenbestimmungen nicht ausgeschlossen werden kann, ist die
+Erlaubnis zu versagen. Die Erlaubnis ist ebenfalls zu versagen, wenn
+die Voraussetzungen nach § 4 Absatz 1 Nummer 2, 3 oder 5 der Bundes-
+Apothekerordnung nicht vorliegen. § 22a Absatz 1 Satz 2, Absatz 2, 4
+und 6 gilt entsprechend.
+
+(3) Die Erlaubnis wird nach dem Muster der Anlage 20 zu dieser
+Verordnung ausgestellt.
+
+
+### § 22g Erlaubnis zur partiellen Berufsausübung
+
+(1) Der Antragsteller hat dem Antrag auf Erteilung einer Erlaubnis zur
+partiellen Berufsausübung nach § 11a der Bundes-Apothekerordnung die
+folgenden Unterlagen beizufügen:
+
+1.  einen Identitätsnachweis,
+
+2.  einen Lebenslauf, der eine tabellarische Aufstellung der absolvierten
+    Ausbildungsgänge und der ausgeübten Erwerbstätigkeiten enthält,
+
+3.  eine Bescheinigung über eine Berufsqualifikation, aus der sich
+    ergibt, dass die Berufsqualifikation erforderlich ist für die
+    Ausübung einer beruflichen Tätigkeit in einem anderen Mitgliedstaat,
+    in einem anderen Vertragsstaat oder in einem gleichgestellten Staat,
+    die den apothekerlichen Tätigkeiten nur partiell entspricht, sowie
+    die Ausbildungsnachweise, die den Erwerb dieser Berufsqualifikation
+    belegen,
+
+4.  sofern vorhanden, eine Bescheinigung über die erworbene
+    Berufserfahrung oder Nachweise über Kenntnisse und Fähigkeiten, die
+    durch lebenslanges Lernen erworben worden sind,
+
+5.  Nachweise, die der zuständigen Behörde eine Beurteilung darüber
+    erlauben, in welchem Umfang der Antragsteller über die zur partiellen
+    Berufsausübung erforderlichen Kenntnisse der deutschen Sprache
+    verfügt,
+
+6.  einen Nachweis über das Vorliegen der Voraussetzung nach § 4 Absatz 1
+    Nummer 2 der Bundes-Apothekerordnung
+
+    a)  durch ein Führungszeugnis und
+
+    b)  durch die Unterlagen, die von den zuständigen Behörden des
+        Herkunftsstaats ausgestellt wurden, oder,
+
+    c)  wenn im Herkunftsstaat die Unterlagen nach Buchstabe b nicht
+        ausgestellt werden, eine eidesstattliche Erklärung nach dem Recht des
+        Herkunftsstaats oder in den Staaten, in denen es keine eidesstattliche
+        Erklärung gibt, durch eine feierliche Erklärung, die die betreffende
+        Person im Herkunftsstaat oder im Inland vor einer zuständigen Justiz-
+        oder Verwaltungsbehörde oder gegebenenfalls vor einem Notar oder
+        einer entsprechend bevollmächtigten Berufsorganisation, die eine diese
+        eidesstattliche oder feierliche Erklärung bestätigende Bescheinigung
+        ausstellt, abgegeben hat, oder,
+
+    d)  sofern ein Nachweis nach den Buchstaben b oder c aus Gründen, die
+        nicht in der Person des Antragstellers liegen, nicht vorgelegt werden
+        kann, eine Versicherung an Eides statt nach deutschem Recht und
+
+7.  einen Nachweis über das Vorliegen der Voraussetzung nach § 4 Absatz 1
+    Nummer 3 der Bundes-Apothekerordnung
+
+    a)  durch eine im Inland ausgestellte ärztliche Bescheinigung, aus der
+        hervorgeht, dass der Antragsteller nicht in gesundheitlicher Hinsicht
+        zur partiellen Berufsausübung ungeeignet ist,
+
+    b)  soweit sich der Wohnsitz des Antragstellers nicht im Inland befindet,
+        durch einen entsprechenden Nachweis, der im Herkunftsstaat gefordert
+        wird, oder,
+
+    c)  wenn im Herkunftsstaat kein derartiger Nachweis gefordert wird,
+        eine von einer zuständigen Behörde des Herkunftsstaats ausgestellte
+        Bescheinigung.
+
+Die in Satz 1 Nummer 6 und 7 genannten Unterlagen dürfen zum Zeitpunkt
+ihrer Vorlage bei der zuständigen Behörde jeweils nicht älter als
+drei Monate sein. Die zuständige Behörde kann von dem Antragsteller
+die Vorlage weiterer Unterlagen innerhalb einer angemessenen Frist
+fordern, soweit dies zur Bewertung der Voraussetzungen nach § 11a
+Absatz 1 oder 2 der Bundes-Apothekerordnung erforderlich ist.
+
+(2) Die zuständige Behörde bestätigt dem Antragsteller innerhalb
+eines Monats nach Eingang des Antrags den Antragseingang und teilt
+ihm mit, welche Unterlagen fehlen. Die zuständige Behörde entscheidet
+kurzfristig über den Antrag, spätestens jedoch drei Monate nach
+Vorlage der vollständigen Unterlagen durch den Antragsteller.
+
+(3) Die zuständige Behörde erteilt die Erlaubnis zur
+partiellen Berufsausübung beschränkt auf die Tätigkeiten und
+Beschäftigungsstellen, in denen der Antragsteller eine abgeschlossene
+Qualifikation im apothekerlichen Bereich nachgewiesen hat. Sie
+versieht die Erlaubnis zur partiellen Berufsausübung mit den
+Nebenbestimmungen, die erforderlich sind, um eine Gefährdung
+der Patienten oder der öffentlichen Gesundheit auszuschließen.
+Dabei berücksichtigt sie die Kenntnisse der deutschen Sprache des
+Antragstellers und dessen gesundheitliche Eignung.
+
+(4) Bei der Ausstellung der Erlaubnis zur partiellen Berufsausübung
+nach § 11a der Bundes-Apothekerordnung ist das Muster nach Anlage 21
+zu verwenden.
+
+
+## Sechster Abschnitt - Ergänzende Vorschriften, Übergangs- und Schlussbestimmungen
+
+
+### § 23 Allgemeine Vorgaben für die einzureichenden Unterlagen
+
+(1) Auf die nach dem vierten und fünften Abschnitt einzureichenden
+Unterlagen finden die Bestimmungen der Absätze 2 bis 5 Anwendung.
+
+(2) Die einzureichenden Unterlagen sind der zuständigen Behörde in
+Form von Abschriften vorzulegen oder elektronisch zu übermitteln.
+Den Unterlagen, die nicht in deutscher oder englischer Sprache
+ausgestellt wurden, hat der Antragsteller Übersetzungen in deutscher
+oder englischer Sprache beizufügen. In begründeten Ausnahmefällen kann
+die zuständige Behörde den Antragsteller auffordern, innerhalb einer
+angemessenen Frist Übersetzungen in deutscher Sprache vorzulegen. Die
+Übersetzungen sind von einem öffentlich bestellten oder beeidigten
+Übersetzer erstellen zu lassen.
+
+(3) Die zuständige Behörde kann abweichend von Absatz 2 Satz 1 eine
+andere Form für die vorzulegenden Dokumente zulassen. Die zuständige
+Behörde kann, abweichend von Absatz 2 Satz 3, die Erstellung
+von Übersetzungen auch durch andere Übersetzer zulassen oder die
+Übersetzung der Dokumente mittels eines Übersetzungsprogramms selbst
+vornehmen.
+
+(4) Die zuständige Behörde kann den Antragsteller auffordern,
+innerhalb einer angemessenen Frist Informationen zum Inhalt
+und zur Dauer der im Ausland absolvierten Berufsbildung sowie
+zu sonstigen Berufsqualifikationen vorzulegen, soweit dies zur
+Bewertung der Voraussetzungen für die automatische Anerkennung einer
+Berufsqualifikation nach § 10b Absatz 1 der Bundes-Apothekerordnung
+oder zur Bewertung der Voraussetzungen nach § 10b Absatz 5 bis 7,
+§ 10c Absatz 1 oder § 11a der Bundes-Apothekerordnung erforderlich
+ist. Die zuständige Behörde kann sich auch direkt an die zuständige
+Stelle des Staats, in dem die Berufsqualifikation erworben worden
+ist, wenden.
+
+(5) Bestehen begründete Zweifel an der Echtheit, der inhaltlichen
+Richtigkeit oder der Richtigkeit der Übersetzung der vorgelegten
+Unterlagen, kann die zuständige Behörde den Antragsteller auffordern,
+innerhalb einer angemessenen Frist Originale, beglaubigte Abschriften
+oder weitere geeignete Unterlagen vorzulegen. Die zuständige Behörde
+kann sich im Fall von begründeten Zweifeln an der Echtheit oder
+inhaltlichen Richtigkeit der Unterlagen auch an die zuständige Stelle
+des Ausbildungs- oder Anerkennungsstaats wenden und diese auffordern,
+beglaubigte Abschriften vorzulegen.
+
+
+### § 24 Anrechnung von Ausbildungszeiten und Prüfungen; Gestattung der Fortführung der Ausbildung
+
+(1) Die nach Landesrecht zuständige Stelle rechnet auf die in dieser
+Verordnung vorgesehene Ausbildung, soweit Gleichwertigkeit gegeben
+ist, auf Antrag ganz oder teilweise an
+
+1.  Zeiten eines im Geltungsbereich dieser Verordnung betriebenen
+    verwandten Studiums,
+
+2.  Zeiten eines außerhalb des Geltungsbereichs dieser Verordnung
+    betriebenen Studiums der Pharmazie oder eines verwandten Studiums,
+
+3.  Zeiten einer außerhalb des Geltungsbereichs dieser Verordnung
+    abgeleisteten praktischen Ausbildung auf die Ausbildung nach § 4
+    Absatz 1 Satz 2 Nummer 2.
+
+(2) Unter den Voraussetzungen des Absatzes 1 erkennt die nach
+Landesrecht zuständige Stelle auf Antrag Prüfungen an, die im Rahmen
+eines Studiums nach Absatz 1 Nummer 1 und 2 abgelegt worden sind. Dies
+gilt nicht für die Prüfung des Dritten Abschnitts der Pharmazeutischen
+Prüfung.
+
+(3) Im Fall einer Anerkennung einer Prüfung im Rahmen eines
+Studiums nach Absatz 1 Nummer 1 ist bei der Bildung der Note des
+betreffenden Prüfungsabschnitts die Note der anerkannten Prüfung
+zu verwenden. Im Fall der Anerkennung einer Prüfung im Rahmen eines
+Studiums nach Absatz 1 Nummer 2 oder Absatz 4 werden eine Note des
+Prüfungsabschnitts sowie eine Gesamtnote der Pharmazeutischen Prüfung
+nicht gebildet. Die Anrechnung von Prüfungen ist gegebenenfalls
+auf den Zeugnissen der Prüfungsabschnitte und dem Zeugnis der
+Pharmazeutischen Prüfung gemäß den Anlagen 10 und 11 zu vermerken.
+
+(4) Die nach Landesrecht zuständige Stelle gestattet in Abweichung von
+§ 1 Absatz 1 und 2 auf Antrag die Fortführung und den Abschluss der
+pharmazeutischen Ausbildung nach den Vorschriften dieser Verordnung
+beginnend mit dem Zweiten Abschnitt der Pharmazeutischen Prüfung, wenn
+
+1.  der Antragsteller eine das pharmazeutische Hochschulstudium
+    abschließende Prüfung außerhalb des Geltungsbereichs dieser Verordnung
+    erfolgreich abgelegt hat,
+
+2.  der Abschluss der pharmazeutischen Ausbildung nach den Vorschriften
+    des Staats, in dem die das pharmazeutische Hochschulstudium
+    abschließende Prüfung abgelegt worden ist, aus besonderen Gründen, die
+    nicht in der Person des Antragstellers liegen, nicht möglich ist oder
+    der Antragsteller aus besonderen Gründen, die nicht in seiner Person
+    liegen, ein berechtigtes Interesse daran hat, die pharmazeutische
+    Ausbildung nicht nach den Vorschriften des Staats, in dem die
+    das Hochschulstudium abschließende Prüfung abgelegt worden ist,
+    abzuschließen und
+
+3.  der Antragsteller über die zur Fortführung der pharmazeutischen
+    Ausbildung nach den Vorschriften dieser Verordnung erforderlichen
+    Kenntnisse der deutschen Sprache verfügt.
+
+(5) Die Anrechnung oder Anerkennung erfolgt auf Antrag. Die Anträge
+nach den Absätzen 1, 2 und 4 können schriftlich oder elektronisch
+gestellt werden. Zuständig für die Entscheidungen nach den
+Absätzen 1, 2 und 4 ist das Landesprüfungsamt des Landes, in dem
+der Antragsteller für das Studium der Pharmazie eingeschrieben
+oder zugelassen ist. Bei Studierenden, die eine Einschreibung
+oder Zulassung für das Pharmaziestudium bei einer Universität im
+Geltungsbereich dieser Verordnung noch nicht erlangt haben, ist das
+Landesprüfungsamt des Landes zuständig, in dem der Antragsteller
+seinen gewöhnlichen Aufenthalt hat. Ergibt sich nach den Sätzen 3 und
+4 keine Zuständigkeit, so ist die zuständige Stelle des Landes, in
+dem der Antragsteller geboren ist, zuständig. Ergibt sich hiernach
+keine Zuständigkeit, so ist das Landesprüfungsamt des Landes Hessen
+zuständig.
+
+(6) Dem Antrag nach Absatz 4 sind folgende Unterlagen beizufügen:
+
+1.  ein Identitätsnachweis,
+
+2.  eine Bescheinigung über eine das Hochschulstudium außerhalb des
+    Geltungsbereichs dieser Verordnung abschließende Prüfung,
+
+3.  eine Erklärung des Antragstellers, aus der die in Absatz 4 Nummer 2
+    geforderten besonderen Gründe hervorgehen und
+
+4.  ein Nachweis, der der zuständigen Stelle eine Beurteilung darüber
+    erlaubt, dass der Antragsteller über die zur Fortführung der
+    pharmazeutischen Ausbildung nach den Vorschriften dieser Verordnung
+    erforderlichen Kenntnisse der deutschen Sprache verfügt.
+
+Die nach Landesrecht zuständige Stelle kann bei Zweifeln an der
+inhaltlichen Richtigkeit der Erklärung des Antragstellers nach Satz
+1 Nummer 3 eine Glaubhaftmachung durch den Antragsteller fordern.
+Die nach Landesrecht zuständige Stelle kann darüber hinaus weitere
+Unterlagen von dem Antragsteller anfordern, sofern diese für die
+Prüfung der Voraussetzungen nach Absatz 4 erforderlich sind. § 23
+Absatz 2, 3 und 5 ist entsprechend anzuwenden.
+
+
+### § 25 Übergangsvorschriften
 
 (1) Personen, die das Studium der Pharmazie vor dem 1. Oktober
 2001 aufgenommen haben und den Antrag auf Zulassung zum Ersten
@@ -1208,10 +1712,11 @@ geltenden Fassung ab.
 
 (4) Bei der Zulassung zum Ersten oder Zweiten Abschnitt der
 Pharmazeutischen Prüfung sind die vorgeschriebenen Nachweise in § 6
-Abs. 3 Nr. 5 und 6 und Abs. 4 Nr. 3 und 4 dieser Verordnung in der
-bis zum 30. September 2001 geltenden Fassung und die Nachweise in §
-6 Abs. 3 Nr. 5 und Abs. 4 Nr. 3 dieser Verordnung in der nach dem 30.
-September 2001 geltenden Fassung als gleichwertig anzusehen.
+Absatz 3 Nummer 5 und 6 und Absatz 4 Nummer 3 und 4 dieser Verordnung
+in der bis zum 30. September 2001 geltenden Fassung und die Nachweise
+in § 6 Absatz 3 Nummer 5 und Absatz 4 Nummer 3 dieser Verordnung in
+der nach dem 30. September 2001 geltenden Fassung als gleichwertig
+anzusehen.
 
 (5) Wiederholungsprüfungen nach nicht bestandener Prüfung, die nach
 den Vorschriften dieser Verordnung in der bis zum 30. September
@@ -1224,20 +1729,23 @@ in der nach dem 30. September 2001 geltenden Fassung auch für solche
 Wiederholungsprüfungen.
 
 (6) Das Landesprüfungsamt kann für eine vor dem 1. Januar 2011
-stattfindende Prüfung des in § 18 Abs. 1 Ziffer V. genannten
-Faches abweichend von § 11 Abs. 2 Satz 3 ein anderes Mitglied der
+stattfindende Prüfung des in § 18 Absatz 1 Ziffer V. genannten
+Faches abweichend von § 11 Absatz 2 Satz 3 ein anderes Mitglied der
 Prüfungskommission für den Zweiten Abschnitt der Pharmazeutischen
 Prüfung bestellen.
 
+(7) Die Approbationsordnung für Apotheker in der am 31. Oktober
+2026 geltenden Fassung findet weiter Anwendung auf Personen, die
+bis zum Ablauf des 31. Oktober 2026 einen Antrag auf Erteilung einer
+Approbation als Apotheker oder einer Erlaubnis gestellt haben.
 
-### § 24
-
-(weggefallen)
-
-
-### § 25 Inkrafttreten der Verordnung und außer Kraft tretende Vorschriften
-
-Diese Verordnung tritt am 1. Oktober 1989 in Kraft.
+(8) Bei der Zulassung zum Ersten oder Zweiten Abschnitt der
+Pharmazeutischen Prüfung werden die Bescheinigungen über die
+regelmäßige und erfolgreiche Teilnahme an den bis zum 31. Oktober
+2026 besuchten Veranstaltungen zu den in der Anlage 1 angeführten
+Stoffgebieten D, E und I in der bis zum 31. Oktober 2026 geltenden
+Fassung zum Zwecke des Nachweises nach § 6 Absatz 3 Nummer 5 und
+Absatz 4 Nummer 3 anerkannt.
 
 
 ### Schlußformel
@@ -1247,7 +1755,7 @@ Der Bundesrat hat zugestimmt.
 Der Bundesminister für Jugend, Familie, Frauen und Gesundheit
 
 
-### Anlage 1 (zu § 2 Abs. 2) Stoffgebiete des Studiums der Pharmazie
+### Anlage 1 (zu § 2 Abs. 2)Stoffgebiete des Studiums der Pharmazie
 
 Fundstelle des Originaltextes: BGBl. I 2000, 1716 - 1718
 
@@ -1322,6 +1830,7 @@ Mikrobiologie
 Pharmazeutische Biologie II (Pflanzliche Drogen)
 Zytologische und histologische Grundlagen der Biologie
 Grundlagen der Anatomie und Physiologie
+Grundlagen der Genetik
 Kursus der Physiologie
 Grundlagen der Biochemie
 Grundlagen der Ernährungslehre
@@ -1335,7 +1844,7 @@ Vorlesungen, Seminare und praktische Übungen mit Veranstaltungen zu:
 Biochemie und Molekularbiologie
 Grundlagen der Klinischen Chemie und der Pathobiochemie
 Biochemische Untersuchungsmethoden einschließlich Klinischer Chemie
-Pathophysiologie/Pathobiochemie
+Pathologie, einschließlich Pathophysiologie und Pathobiochemie
 Gesamtumfang: 196 Unterrichtsstunden mit einem Anteil von 98
 Unterrichtsstunden praktischen Übungen
 Eine Bescheinigung über die erfolgreiche und regelmäßige Teilnahme
@@ -1386,6 +1895,7 @@ Pharmakologie und Toxikologie
 Klinische Pharmazie
 Krankheitslehre
 Pharmakotherapie
+Pharmakogenomik
 Pharmakologisch-toxikologischer Demonstrationskurs
 Pharmakoepidemiologie und Pharmakoökonomie
 Spezielle Rechtsgebiete für Apotheker
@@ -1427,13 +1937,21 @@ statt.
 (weggefallen)
 
 
-### Anlage 5 (zu § 4 Abs. 3 Satz 3, § 6 Abs. 5 Nr. 2 und Abs. 6 Satz 3)Bescheinigung über die praktische Ausbildung
+### Anlage 5 (zu § 4 Absatz 3 Satz 3, § 6 Absatz 5 Nummer 2 und Absatz 6 Satz 3)Bescheinigung über die praktische Ausbildung
 
-(Fundstelle des Originaltextes: BGBl. I 1989, 1500)
+(Fundstelle: BGBl. I 2026 Nr. 326, S. 29)
 
-```
- Herr/Frau........................... ist in der Zeit vom ...............bis ..................... nach § 4 der Approbationsordnung für Apothekerpraktisch ausgebildet worden.Er/Sie hat in dieser Zeit ganztägig mitgearbeitet und die in § 4 Abs. 2angeführten Tätigkeiten ausgeführt. Die Ausbildungist vom ................................................................bis ......................... unterbrochen/nicht unterbrochen worden.*)                                    ................, den ...............    Siegel oder Stempel                                   .....................................                                        (Name der Ausbildungsstätte)                                    .....................................                                    (Unterschrift des für die Ausbildung                                             Verantwortlichen)----------*) Nichtzutreffendes streichen.
-```
+| Herrn/Frau ............................................................. ist in der Zeit vom ................................................................... |  |
+| --- | --- |
+| bis ................................................................... nach § 4 der Approbationsordnung für Apotheker praktisch ausgebildet worden. |  |
+| Er/Sie hat in dieser Zeit ganztägig mitgearbeitet und die in § 4 Absatz 2 angeführten Tätigkeiten ausgeführt. Die Ausbildung |  |
+| ist vom ................................................................... |  |
+| bis ................................................................... unterbrochen/nicht unterbrochen worden. |  |
+| Zusätzlich liegen Fehlzeiten wegen Krankheit oder aus wichtigem Grund vor (durch den/die Studierende/n der Pharmazie gegenüber dem LPA nachzuweisen bzw. glaubhaft zu machen) |  |
+| von: ................................................................... bis: ................................................................... |  |
+|  | ............................................, den ................................................................... |
+|  | ........................................................................................................................ (Name der Ausbildungsstätte) |
+| Siegel oder Stempel | ........................................................................................................................... (Unterschrift des für die Ausbildung Verantwortlichen) |
 
 
 ### Anlage 6 (zu § 4 Absatz 4 Satz 4 und § 6 Abs. 5 Nr. 3)Bescheinigung über die Teilnahme an den begleitenden Unterrichtsveranstaltungen nach § 4 Abs. 4 der Approbationsordnung für Apotheker
@@ -1455,66 +1973,99 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 ```
 
 
-### Anlage 8 (zu § 4 Abs. 4 Satz 1) Stoffgebiete, die während der praktischen Ausbildung gelehrt werden
+### Anlage 8 (zu § 4 Absatz 4 Satz 1)Stoffgebiete, die während der praktischen Ausbildung gelehrt werden
 
-Fundstelle des Originaltextes: BGBl. I 2000, 1720
+(Fundstelle: BGBl. I 2026 Nr. 326, S. 30 – 31)
+
+I. Pharmazeutische Praxis einschließlich pharmazeutischer Versorgung
+und Sozialpharmazie
 
 Grundprinzipien der Rezeptur und Defektur einschließlich der
 Beurteilung von Herstellungsvorschriften und -verfahren; Entwicklung,
 Zulassung und Herstellung von Fertigarzneimitteln;
+
 Planung, Überwachung und Disposition des Wareneinkaufs; technische
 Verfahren sowie Probleme der Lagerhaltung; Beeinflussung der
 Haltbarkeit von Arzneimitteln und Medizinprodukten, die in den
 Apotheken in den Verkehr gebracht werden, durch Transport und
 Lagerung;
+
 Beschaffung, Auswertung, Bewertung und Weitergabe von
 Informationen über Arzneimittel und Medizinprodukte einschließlich
 Sicherheitsaspekten;
+
 Information und Beratung von Patienten, Ärzten und Angehörigen
 anderer Gesundheitsberufe über Arzneimittel und Medizinprodukte,
 die in den Apotheken in den Verkehr gebracht werden, insbesondere
 über die sachgemäße Aufbewahrung, Anwendung, Inkompatibilitäten und
 Wechselwirkungen sowie die Gefahren des Dauergebrauchs und Missbrauchs
 von Arzneimitteln;
+
 Kommunikationstechniken für den Umgang mit Gesunden, Patienten und
-deren Angehörigen, Ärzten und Angehörigen anderer Gesundheitsberufe;
+deren Angehörigen;
+
+Zusammenarbeit mit Ärzten und Angehörigen anderer Gesundheitsberufe,
+berufsübergreifende Praxis und Kommunikation;
+
+Relevante Informationstechnologien und digitale Technologien und ihre
+Anwendung;
+
 Aspekte der Qualitätssicherung und Qualitätskontrolle;
+
 Angewandte Pharmakotherapie; Arzneimittelauswahl in der
 Selbstmedikation; besondere Therapierichtungen; Grenzen der
 Selbstmedikation; Interpretation ärztlicher, zahnärztlicher
 und tierärztlicher Verschreibungen sowie deren Terminologie;
 Pharmazeutische Betreuung; apothekenübliche Dienstleistungen;
+
 Blut und Blutprodukte;
+
 Krankenhaushygiene;
+
 Ökonomische Aspekte des Einsatzes von Arzneimitteln und
 Medizinprodukten;
+
 Vergleichende Beurteilung von Produkten für die Säuglings- und
 Kinderernährung; vergleichende Beurteilung von Ernährungsmaßnahmen
 einschließlich diätetischer Lebensmittel und Nahrungsergänzungsmittel;
 vergleichende Beurteilung von Produkten zur enteralen und parenteralen
 Ernährung;
+
 Vergleichende Beurteilung von Produkten und Gegenständen zur
 Körperpflege, von apothekenüblichen Medizinprodukten sowie von
 Pflanzenschutz- und Schädlingsbekämpfungsmitteln;
+
 Besonderheiten der Tierarzneimittel;
-Spezielle Aspekte der Gesundheitsförderung;
+
+Aspekte der öffentlichen Gesundheit einschließlich Epidemiologie und
+Gesundheitsförderung;
+
 Unfallverhütung in der Apotheke und in pharmazeutischen Betrieben
 einschließlich des sachgerechten Umgangs mit Gefahrstoffen,
 Zytostatika, Radiopharmaka und radioaktiven Diagnostika; allgemeine
 Maßnahmen bei Unfällen und Vergiftungen (Erste Hilfe);
+
 Betriebswirtschaft für Apotheker unter Berücksichtigung
 des Handelsrechts, des Steuerrechts und des kaufmännischen
 Rechnungswesens;
-Aufgaben und Tätigkeitsfelder des Apothekers;
+
+Aufgaben und Tätigkeitsfelder des Apothekers.
+
+II. Rechtskunde
+
 Allgemeine Rechtskunde, Berufsrecht; Rechtsvorschriften für den
 Apothekenbetrieb, den Verkehr mit Arzneimitteln, Betäubungsmitteln,
 Medizinprodukten, diätetischen Lebensmitteln, Produkten
 zur Körperpflege, Gefahrstoffen und Pflanzenschutzmitteln;
 Heilmittelwerberecht;
+
 Besonderheiten des nationalen und internationalen Arzneimittelmarktes;
+
 Aufgaben und Organisation der Gesundheitsverwaltung bei Bund, Ländern
 und Gemeinden sowie auf internationaler Ebene;
+
 Pharmazeutische Organisationen und Einrichtungen;
+
 Einführung in die Sozialgesetzgebung und das Sozialversicherungswesen.
 
 
@@ -1806,7 +2357,7 @@ Fundstelle des Originaltextes: BGBl. I 2000, 1722 - 1723
         Aspekte.
 
 
-### Anlage 15 (zu § 19 Abs. 3) Prüfungsstoff des Dritten Abschnitts der Pharmazeutischen Prüfung
+### Anlage 15 (zu § 19 Abs. 3)Prüfungsstoff des Dritten Abschnitts der Pharmazeutischen Prüfung
 
 Fundstelle des Originaltextes: BGBl. I 2000, 1724
 
@@ -1849,6 +2400,7 @@ Fundstelle des Originaltextes: BGBl. I 2000, 1724
         Produkte und Gegenstände zur Körperpflege, Pflanzenschutz- und
         Schädlingsbekämpfungsmittel;
 
+        Aspekte der öffentlichen Gesundheit, einschließlich Epidemiologie und
         Gesundheitsförderung;
 
         Unfallverhütung, Arbeitsschutz und Maßnahmen der Ersten Hilfe;
@@ -1896,23 +2448,28 @@ Fundstelle des Originaltextes: BGBl. I 2000, 1724
 ```
 
 
-### Anlage 17 (zu § 22a Absatz 7)Erlaubnis nach § 11 Absatz 1 oder Absatz 1a der Bundes-Apothekerordnung
+### Anlage 17 (zu § 22a Absatz 7)Erlaubnis nach § 11 Absatz 1 oder 1a der Bundes-Apothekerordnung
 
-| Herrn/Frau . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  |
+( Fundstelle: BGBl. I 2026 Nr. 326, S. 31)
+
+| Herrn/Frau ................................................................................................................................................................................................................................................ |
+| --- |
+| (Vorname, Familienname – gegebenenfalls abweichender Geburtsname) |
+| geboren am .............................................................................................................................................................................................................. in ......................................................................................................................... |
+| wird gemäß § 11 Absatz 1/1a der Bundes-Apothekerordnung die Erlaubnis zur Ausübung des Apothekerberufs in/an ................................................................................................................................................................................................................................................ |
+| für die Zeit vom ................................................................... bis ..................................................................................................................................................................................................................... widerruflich erteilt. |
+| Nebenbestimmungen: |
+| ................................................................................................................................................................................................................................................ |
+| ................................................................................................................................................................................................................................................ |
+| ................................................................................................................................................................................................................................................ |
+| Die Erlaubnis umfasst zudem die Tätigkeit im Land ................................................................................................................................................................................................................................................ |
+| /in den Ländern ................................................................................................................................................................................................................................................ |
+| /bundesweite Tätigkeit als ................................................................................................................................................................................................................................................ |
+
+|  | ..............................................................., den ................................................................ |
 | --- | --- |
-| (Vorname, Familienname – gegebenenfalls abweichender Geburtsname) |  |
-| geboren am . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | in . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |
-| wird gemäß § 11 Absatz 1/1a der Bundes-Apothekerordnung die Erlaubnis zur vorübergehenden Ausübung des Apothekerberufs in/an . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  |
-| für die Zeit vom . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | bis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . widerruflich erteilt. |
-| Beschränkungen und Nebenbestimmungen: |  |
-| . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  |
-| . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  |
-| . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  |
-| Die Erlaubnis umfasst zudem die Tätigkeit im Land . . . . . . . . . . /in den Ländern . . . . . . . . . . /bundesweite Tätigkeit als . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  |
-| Siegel |  |
-| . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . , den . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  |
-| . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  |
-| (Unterschrift) |  |
+|  | ........................................................................................................................................ |
+| Siegel | (Unterschrift oder qualifizierte elektronische Signatur) |
 
 
 ### Anlage 18 (zu § 22c Absatz 6)Niederschrift über die staatliche Eignungsprüfung nach § 22c der Approbationsordnung für Apotheker
@@ -1942,10 +2499,10 @@ Fundstelle des Originaltextes: BGBl. I 2000, 1724
 | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  |
 | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  |
 | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  |
-| (Unterschrift/en des weiteren Mitglieds/der weiteren Mitglieder der Prüfungskommission) | (Unterschrift des/der Vorsitzenden der Prüfungskommission) |
+| (Unterschriften oder qualifizierte elektronische Signaturen der weiteren Mitglieder der Prüfungskommission) | (Unterschrift oder qualifizierte elektronische Signatur der/des Vorsitzenden der Prüfungskommission) |
 
 
-### Anlage 19 (zu § 22d Absatz 6)Niederschrift über die staatliche Kenntnisprüfung nach § 22d der Approbationsordnung für Apotheker
+### Anlage 19 (zu § 22d Absatz 7)Niederschrift über die staatliche Kenntnisprüfung nach § 22d der Approbationsordnung für Apotheker
 
 | Herr/Frau . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  |
 | --- | --- |
@@ -1955,7 +2512,7 @@ Fundstelle des Originaltextes: BGBl. I 2000, 1724
 | Er/Sie hat die staatliche Eignungsprüfung bestanden/nicht bestanden. |  |
 | Tragende Gründe: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  |
 | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  |
-| Mitglieder der Prüfungskommission nach § 22d Absatz 3 der Approbationsordnung für Apotheker: |  |
+| Mitglieder der Prüfungskommission nach § 22d Absatz 5 der Approbationsordnung für Apotheker: |  |
 | Als Vorsitzende(r) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  |
 | Als weitere Mitglieder |  |
 | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  |
@@ -1972,5 +2529,48 @@ Fundstelle des Originaltextes: BGBl. I 2000, 1724
 | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  |
 | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  |
 | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  |
-| (Unterschrift/en des weiteren Mitglieds/der weiteren Mitglieder der Prüfungskommission) | (Unterschrift des/der Vorsitzenden der Prüfungskommission) |
+| (Unterschriften oder qualifizierte elektronische Signaturen der weiteren Mitglieder der Prüfungskommission) | (Unterschrift oder qualifizierte elektronische Signatur der/des Vorsitzenden der Prüfungskommission) |
+
+
+### Anlage 20 (zu § 22f Absatz 3)Erlaubnis nach § 11 Absatz 5 der Bundes-Apothekerordnung
+
+(Fundstelle: BGBl. I 2026 Nr. 326, S. 32)
+
+| Herrn/Frau .............................................................................................................................................................................................................................................................. |
+| --- |
+| (Vorname, Familienname – gegebenenfalls abweichender Geburtsname) |
+| geboren am ............................................................................................................................................. in .......................................................................................................... |
+| wird gemäß § 11 Absatz 5 der Bundes-Apothekerordnung die Erlaubnis zur Ausübung der apothekerlichen Tätigkeit, die zum Abschluss der pharmazeutischen Ausbildung |
+| in .............................................................................................................................................................................................................................................................. erforderlich ist, |
+| für die Zeit vom .................................................................................................................................... bis ......................................................................................... widerruflich erteilt. |
+| Die Erlaubnis ist beschränkt auf eine nicht selbständige und nicht leitende Tätigkeit unter Aufsicht, Anleitung und Verantwortung von Apothekerinnen und Apothekern, die eine Approbation oder eine unbeschränkte Berufserlaubnis besitzen. |
+| Die Tätigkeit darf nur in/an .............................................................................................................................................................................................................................................................. verrichtet werden. |
+| Nebenbestimmungen: |
+| .............................................................................................................................................................................................................................................................. |
+
+| Ort, Datum .................................................................................... , ....................................................................................................................................................................................... |  |
+| --- | --- |
+|  | ......................................................................................................................................................................................................... |
+| Siegel | (Unterschrift oder qualifizierte elektronische Signatur der zuständigen Behörde) |
+
+
+### Anlage 21 (zu § 22g Absatz 4)Erlaubnis zur partiellen Berufsausübung nach § 11a der Bundes-Apothekerordnung
+
+(Fundstelle: BGBl. I 2026 Nr. 326, S. 32)
+
+| Herrn/Frau ............................................................................................................................................................................................................................................................. |
+| --- |
+| (Vorname, Familienname – gegebenenfalls abweichender Geburtsname) |
+| geboren am .............................................................................................................. in .............................................................................................................. |
+| wird gemäß § 11a der Bundes-Apothekerordnung die Erlaubnis zur partiellen Berufsausübung erteilt. |
+| Die zulässige partielle Berufsausübung beschränkt sich auf folgende Tätigkeit(en) und Beschäftigungsstelle(n): |
+| ............................................................................................................................................................................................................................ |
+| Die partielle Berufsausübung erfolgt unter der Berufsbezeichnung des Staats, in dem die Berufsqualifikation erworben worden ist, sowie mit dem Hinweis auf den Namen dieses Staats und die oben genannte(n) Tätigkeit(en) und Beschäftigungsstelle(n), wie folgt: |
+| ............................................................................................................. ............................................................................................................... |
+| Es wird auf die Pflicht hingewiesen, den Dienstleistungsempfängern eindeutig den Umfang der beruflichen Tätigkeit anzugeben (Artikel 4f Absatz 5 Satz 3 der Richtlinie 2005/36/EG). |
+
+| Ort, Datum .............................................................................................................. , .............................................................................................................. |  |
+| --- | --- |
+|  | ................................................................................................................................................ |
+| Siegel | (Unterschrift oder qualifizierte elektronische Signatur der zuständigen Behörde) |
 

@@ -3305,16 +3305,17 @@ gesetzliche Aufgaben weitergeben, Mengendaten jedoch nur derart
 aggregiert, dass die Betriebs- und Geschäftsgeheimnisse der einzelnen
 Betreiber gewahrt bleiben.
 
-(5) Die Markttransparenzstelle für Kraftstoffe wird nach Maßgabe
-der Rechtsverordnung nach Absatz 8 ermächtigt, die nach Absatz
-2 erhobenen Preisdaten elektronisch an Anbieter von Verbraucher-
-Informationsdiensten zum Zweck der Verbraucherinformation
-weiterzugeben. Bei der Veröffentlichung oder Weitergabe dieser
-Preisdaten an Verbraucherinnen und Verbraucher müssen die Anbieter
-von Verbraucher-Informationsdiensten die in der Rechtsverordnung
-nach Absatz 8 Nummer 5 näher geregelten Vorgaben einhalten. Die
-Markttransparenzstelle für Kraftstoffe ist befugt, bei Nichteinhaltung
-dieser Vorgaben von einer Weitergabe der Daten abzusehen.
+(5) Die Markttransparenzstelle für Kraftstoffe wird nach
+Maßgabe der Rechtsverordnung nach Absatz 8 ermächtigt, die
+nach Absatz 2 erhobenen Preisdaten elektronisch an Anbieter von
+Verbraucher-Informationsdiensten ausschließlich zum Zweck der
+Verbraucherinformation weiterzugeben. Bei der Veröffentlichung oder
+Weitergabe dieser Preisdaten an Verbraucherinnen und Verbraucher
+müssen die Anbieter von Verbraucher-Informationsdiensten die in der
+Rechtsverordnung nach Absatz 8 Nummer 5 näher geregelten Vorgaben
+einhalten. Die Markttransparenzstelle für Kraftstoffe ist befugt,
+bei Nichteinhaltung dieser Vorgaben von einer Weitergabe der Daten
+abzusehen.
 
 (6) Die Markttransparenzstelle für Kraftstoffe stellt die
 operationelle Zuverlässigkeit der Datenbeobachtung sicher und
@@ -7748,9 +7749,9 @@ ausschließen, wenn
         Informationen zu übermitteln.
 
 (2) § 21 des Arbeitnehmer-Entsendegesetzes, § 98c des
-Aufenthaltsgesetzes, § 19 des Mindestlohngesetzes,
-§ 21 des Schwarzarbeitsbekämpfungsgesetzes, § 22 des
-Lieferkettensorgfaltspflichtengesetzes und § 14 des
+Aufenthaltsgesetzes, § 19 des Mindestlohngesetzes, § 21 des
+Schwarzarbeitsbekämpfungsgesetzes, § 20 des Ökodesign-Gesetzes,
+§ 22 des Lieferkettensorgfaltspflichtengesetzes und § 14 des
 Bundestariftreuegesetzes bleiben unberührt.
 
 

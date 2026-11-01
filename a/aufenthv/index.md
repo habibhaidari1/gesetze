@@ -3787,6 +3787,9 @@ sind folgende Daten des Ausländers, soweit sie bekannt sind, zu
 
 5.  die Namensänderung,
 
+5a. die Änderung der Geschlechtsangabe, wenn sie ohne Änderung des Namens
+    erfolgt,
+
 6.  die Änderung oder Berichtigung des staatsangehörigkeitsrechtlichen
     Verhältnisses,
 

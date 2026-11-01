@@ -5222,12 +5222,13 @@ folgende Daten bereitgehalten werden:
 
 2.  die in § 59 Absatz 1 und 3 genannten Halterdaten.
 
-(4) Zur Übermittlung durch Abruf im automatisierten Verfahren
+(4)Zur Übermittlung durch Abruf im automatisierten Verfahren
 aus dem Zentralen Fahrzeugregister nach § 36 Absatz 2j des
-Straßenverkehrsgesetzes dürfen für eine Anfrage unter Verwendung der
+Straßenverkehrsgesetzes an das Bundesamt für Wirtschaft und
+Ausfuhrkontrolle oder nach § 36 Absatz 2n des Straßenverkehrsgesetzes
+an das Umweltbundesamt dürfen für eine Anfrage unter Verwendung der
 Fahrzeug-Identifizierungsnummer und des Kennzeichens folgende Daten
-für das Bundesamt für Wirtschaft und Ausfuhrkontrolle bereitgehalten
-werden:
+bereitgehalten werden:
 
 1.  die in § 59 Absatz 1 und 3 genannten aktuellen und früheren
     Halterdaten und die Anzahl der früheren Halter,

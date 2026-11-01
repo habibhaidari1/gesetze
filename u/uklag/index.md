@@ -215,7 +215,7 @@ insbesondere
 28. die Vorschriften des Zahlungsdiensteaufsichtsgesetzes, die das
     Verhältnis zwischen E-Geldinstituten und Verbrauchern regeln,
 
-29. die §§ 4 und 5 des Energieverbrauchsrelevante-Produkte-Gesetzes,
+29. die §§ 8, 9, 11 und 13 Absatz 3 und 4 des Ökodesign-Gesetzes,
 
 30. die §§ 1a, 6a, 7 bis 9, 59 Absatz 1 Satz 2 und 3 und Absatz 4 Satz
     2, die §§ 152, 154 und 155, auch in Verbindung mit den §§ 176 und 177

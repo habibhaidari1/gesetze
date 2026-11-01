@@ -149,9 +149,12 @@ Prüfungsteile werden nicht gewertet.
 Tests für Zuwanderer“ richten sich nach § 17 Absatz 2 der
 Integrationskursverordnung. Dabei ist die Kompetenzstufe B1 des
 Gemeinsamen Europäischen Referenzrahmens für Sprachen erreicht, wenn
-in dem Fertigkeitsbereich „Sprechen“ sowie in mindestens einem der
-Bereiche „Hören/Lesen“ oder „Schreiben“ die Kompetenzstufe B1 erreicht
-ist.
+
+1.  im Fertigkeitsbereich „Sprechen“ sowie in mindestens einem der
+    Bereiche „Hören/Lesen“ oder „Schreiben“ die Kompetenzstufe B1 und
+
+2.  im verbleibenden Fertigkeitsbereich der zweiten Alternative nach
+    Nummer 1 mindestens die Kompetenzstufe A 2 erreicht ist.
 
 (2) Für das Bestehen des Orientierungskurses nach § 17 Absatz 2 der
 Integrationskursverordnung müssen im Test „Leben in Deutschland“

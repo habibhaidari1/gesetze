@@ -102,7 +102,7 @@ Hochschulrahmengesetzes beträgt einschließlich der Prüfungszeit für
 den Dritten Abschnitt der Ärztlichen Prüfung nach § 16 Abs. 1 Satz 2
 sechs Jahre und drei Monate.
 
-(3) Die Ärztliche Prüfung nach Absatz 2 Nr. 5 wird abgelegt:
+(3) Die Ärztliche Prüfung nach Absatz 2 Satz 1 Nummer 5 wird abgelegt:
 
 1.  der Erste Abschnitt der Ärztlichen Prüfung nach einem Studium der
     Medizin von zwei Jahren,
@@ -118,6 +118,13 @@ sechs Jahre und drei Monate.
 Die in § 27 genannten Fächer und Querschnittsbereiche werden von der
 Universität zwischen dem Bestehen des Ersten Abschnitts der Ärztlichen
 Prüfung und dem Zweiten Abschnitt der Ärztlichen Prüfung geprüft.
+
+(4) Bei der Organisation des Studiums der Medizin muss die Universität
+in angemessenem Umfang die Belange von Studierenden mit Behinderungen,
+Beeinträchtigungen oder in besonderen Lebenslagen, insbesondere in
+Schwangerschaft und Stillzeit, berücksichtigen. Bei der Organisation
+des Studiums soll die Universität gesetzliche und staatsvertraglich
+festgelegte Feiertage beachten.
 
 
 ### § 2 Unterrichtsveranstaltungen
@@ -330,14 +337,22 @@ Einrichtungen des öffentlichen Gesundheitswesens in die Ausbildung
 erfolgt durch die Universitäten frühestens zum 1. Mai 2022.
 
 (3) Auf die Ausbildung nach Absatz 1 werden Fehlzeiten bis zu
-insgesamt 30 Ausbildungstagen angerechnet, davon bis zu insgesamt 20
-Ausbildungstagen innerhalb eines Ausbildungsabschnitts. Auf Antrag
-kann die zuständige Stelle über Satz 1 hinausgehende Fehlzeiten
-auf die Ausbildung anrechnen, wenn eine besondere Härte vorliegt
-und das Erreichen des Ausbildungsziels durch die Anrechnung nicht
-gefährdet ist. Bei einer darüber hinausgehenden Unterbrechung aus
-wichtigem Grund sind bereits abgeleistete Teile des Praktischen Jahres
-anzurechnen, soweit sie nicht länger als zwei Jahre zurückliegen.
+insgesamt 30 Ausbildungstagen angerechnet, davon bis zu insgesamt
+20 Ausbildungstagen innerhalb eines Ausbildungsabschnitts. Auf
+die Ausbildung nach Absatz 1 werden zusätzlich Fehlzeiten von bis
+zu insgesamt zehn Ausbildungstagen angerechnet, wenn der oder die
+Studierende bei Krankheit ein ärztliches Attest vorlegt oder einen
+anderen wichtigen Grund glaubhaft macht. Diese zehn Ausbildungstage
+werden auch in einem Ausbildungsabschnitt zusätzlich zu den in
+Satz 1 genannten 20 Ausbildungstagen angerechnet. Werden die auf
+einen Ausbildungsabschnitt anrechenbaren Fehlzeiten überschritten,
+ist der Ausbildungsabschnitt zu wiederholen. Werden die auf die
+Ausbildung nach Absatz 1 anrechenbaren Fehlzeiten überschritten, ist
+die Ausbildung nach Absatz 1 zu wiederholen. Bereits abgeleistete
+Ausbildungsabschnitte werden angerechnet, wenn für die Überschreitung
+der auf die Ausbildung nach Absatz 1 anrechenbaren Fehlzeiten
+ein wichtiger Grund vorgelegen hat und die bereits absolvierten
+Ausbildungsabschnitte nicht länger als zwei Jahre zurückliegen.
 
 (4) Während der Ausbildung nach Absatz 1, in deren Mittelpunkt die
 Ausbildung am Patienten steht, sollen die Studierenden die während
@@ -355,17 +370,6 @@ sichern, soll die Zahl der Studierenden zu der Zahl der zur Verfügung
 stehenden Krankenbetten mit unterrichtsgeeigneten Patienten in einem
 angemessenen Verhältnis stehen. Die Studierenden dürfen nicht zu
 Tätigkeiten herangezogen werden, die ihre Ausbildung nicht fördern.
-Die Gewährung von Geld- oder Sachleistungen, die den Bedarf für
-Auszubildende nach § 13 Absatz 1 Nummer 2 und Absatz 2 Nummer 2 des
-Bundesausbildungsförderungsgesetzes übersteigen, ist nicht zulässig.
-Bei einer Ausbildung im Ausland verändert sich diese Höchstgrenze
-entsprechend den Maßgaben der Verordnung über die Zuschläge zu dem
-Bedarf nach dem Bundesausbildungsförderungsgesetz bei einer Ausbildung
-im Ausland um die in § 1 Absatz 1 Nummer 1 bis 3 dieser Verordnung
-aufgeführten Zuschläge. Die Zuschläge nach § 1 Absatz 1 Nummer 2 und 3
-dieser Verordnung dürfen der Berechnung der Höchstgrenze nur zugrunde
-gelegt werden, wenn die Leistungen ausdrücklich zur Erstattung der
-dort genannten Kosten gewährt werden.
 
 (5) Die regelmäßige und ordnungsgemäße Teilnahme an der Ausbildung
 nach Absatz 1 ist bei der Meldung zum Dritten Abschnitt der Ärztlichen
@@ -569,14 +573,16 @@ im Zeitpunkt der Meldung zur Prüfung Medizin studiert oder zuletzt
 Medizin studiert hat. Bei Prüfungsbewerbern, bei denen Zeiten eines
 verwandten Studiums oder eines im Ausland betriebenen Medizinstudiums
 oder verwandten Studiums und gegebenenfalls die im Rahmen eines
-solchen Studiums abgelegten Prüfungen nach § 12 angerechnet werden
-können, gilt, sofern eine Zuständigkeit nach Satz 1 nicht gegeben ist,
-§ 12 Abs. 4 Satz 2 bis 4 entsprechend. Wiederholungsprüfungen werden
-vor der zuständigen Stelle des Landes abgelegt, bei der die Prüfung
-nicht bestanden worden ist. Ausnahmen können zugelassen werden. Die
-Entscheidung trifft die zuständige Stelle des Landes, bei der nunmehr
-die Zulassung beantragt wird, im Benehmen mit der nach Satz 1, 2 oder
-3 zuvor zuständigen Stelle.
+solchen Studiums abgelegten Prüfungen nach § 12 Absatz 1 und 2
+angerechnet werden können oder denen die Fortführung der Ausbildung
+nach den Vorschriften dieser Verordnung nach § 12 Absatz 3 gestattet
+worden ist, gilt, sofern eine Zuständigkeit nach Satz 1 nicht gegeben
+ist, § 12 Absatz 4 Satz 2 bis 5 entsprechend. Wiederholungsprüfungen
+werden vor der zuständigen Stelle des Landes abgelegt, bei der die
+Prüfung nicht bestanden worden ist. Ausnahmen können zugelassen
+werden. Die Entscheidung trifft die zuständige Stelle des Landes, bei
+der nunmehr die Zulassung beantragt wird, im Benehmen mit der nach
+Satz 1, 2 oder 3 zuvor zuständigen Stelle.
 
 
 ### § 10 Meldung und Zulassung zur Prüfung
@@ -596,7 +602,7 @@ muss dieser bis zum 10. Januar oder bis zum 10. Juni zugegangen sein.
 
 1.  bei der Meldung zum Ersten Abschnitt der Ärztlichen Prüfung
 
-    a)  die Geburtsurkunde, bei Verheirateten auch die Eheurkunde,
+    a)  ein Identitätsnachweis,
 
     b)  der Nachweis der Hochschulzugangsberechtigung, bei Zeugnissen, die im
         Ausland erworben worden sind, auch der Anerkennungsbescheid der nach
@@ -614,7 +620,7 @@ muss dieser bis zum 10. Januar oder bis zum 10. Juni zugegangen sein.
 
 2.  bei der Meldung zum Zweiten Abschnitt der Ärztlichen Prüfung
 
-    a)  die Geburtsurkunde, bei Verheirateten auch die Eheurkunde,
+    a)  ein Identitätsnachweis,
 
     b)  das Studienbuch oder die an der jeweiligen Universität zum Nachweis
         der Studienzeiten an seine Stelle tretenden Unterlagen,
@@ -630,7 +636,7 @@ muss dieser bis zum 10. Januar oder bis zum 10. Juni zugegangen sein.
 
 3.  bei der Meldung zum Dritten Abschnitt der Ärztlichen Prüfung
 
-    a)  die Geburtsurkunde, bei Verheirateten auch die Eheurkunde,
+    a)  ein Identitätsnachweis,
 
     b)  das Studienbuch oder die an der jeweiligen Universität zum Nachweis
         der Studienzeiten an seine Stelle tretenden Unterlagen,
@@ -641,18 +647,47 @@ muss dieser bis zum 10. Januar oder bis zum 10. Juni zugegangen sein.
     d)  das Zeugnis über das Bestehen des Zweiten Abschnitts der Ärztlichen
         Prüfung.
 
-Soweit die in Nummer 1 Buchstabe c und d, in Nummer 2 Buchstabe b
-und c oder in Nummer 3 Buchstabe b genannten Nachweise dem Antrag
-noch nicht beigefügt werden können, sind sie in einer von der nach
-Landesrecht zuständigen Stelle zu bestimmenden Frist nachzureichen.
+Soweit die in Satz 1 Nummer 1 Buchstabe c und d, in Satz 1 Nummer
+2 Buchstabe b und c oder in Satz 1 Nummer 3 Buchstabe b genannten
+Nachweise dem Antrag noch nicht beigefügt werden können, sind sie
+in einer von der nach Landesrecht zuständigen Stelle zu bestimmenden
+Frist nachzureichen.
+
+(4a) Dem Antrag nach Absatz 3 sind im Fall des § 12 Absatz 3
+beizufügen:
+
+1.  bei der Meldung zum Zweiten Abschnitt der Ärztlichen Prüfung
+
+    a)  ein Identitätsnachweis und
+
+    b)  der Bescheid nach § 12 Absatz 3 über die Gestattung der Fortführung
+        und den Abschluss der ärztlichen Ausbildung nach den Vorschiften
+        dieser Verordnung oder
+
+2.  bei der Meldung zum Dritten Abschnitt der Ärztlichen Prüfung
+
+    a)  ein Identitätsnachweis,
+
+    b)  der Bescheid nach § 12 Absatz 3 über die Gestattung der Fortführung
+        und den Abschluss der ärztlichen Ausbildung nach den Vorschiften
+        dieser Verordnung,
+
+    c)  die Bescheinigung über das Praktische Jahr nach dem Muster der Anlage
+        4 und
+
+    d)  das Zeugnis über das Bestehen des Zweiten Abschnitts der Ärztlichen
+        Prüfung.
+
+Personen, die sich im Fall des § 12 Absatz 3 zum Zweiten Abschnitt der
+Ärztlichen Prüfung melden, müssen keine Studierenden sein.
 
 (5) Nachweise, die für die Zulassung zum Zweiten Abschnitt der
-Ärztlichen Prüfung erforderlich sind, müssen vorbehaltlich des
-§ 41 nach Bestehen des Ersten Abschnitts der Ärztlichen Prüfung
-erworben worden sein. Die für die Zulassung zum Dritten Abschnitt
-der Ärztlichen Prüfung erforderliche Bescheinigung nach dem Muster
-der Anlage 4 muss vorbehaltlich des § 41 nach Bestehen des Zweiten
-Abschnitts der Ärztlichen Prüfung erworben worden sein.
+Ärztlichen Prüfung erforderlich sind, müssen vorbehaltlich des §
+12 Absatz 3 und des § 41 nach Bestehen des Ersten Abschnitts der
+Ärztlichen Prüfung erworben worden sein. Die für die Zulassung zum
+Dritten Abschnitt der Ärztlichen Prüfung erforderliche Bescheinigung
+nach dem Muster der Anlage 4 muss vorbehaltlich des § 41 nach Bestehen
+des Zweiten Abschnitts der Ärztlichen Prüfung erworben worden sein.
 
 (6) Hat der Prüfungsbewerber im Zeitpunkt der Meldung zum Dritten
 Abschnitt der Ärztlichen Prüfung die Ausbildung nach § 3 Absatz 1 noch
@@ -673,6 +708,8 @@ Zweifel an der Prüfungsfähigkeit bestehen, kann die nach Landesrecht
 zuständige Stelle von einem Prüfungsbewerber die Vorlage einer
 ärztlichen Bescheinigung auch durch einen von dieser Stelle benannten
 Arzt verlangen.
+
+(8) § 33a Absatz 1, 2 und 4 gilt entsprechend.
 
 
 ### § 11 Versagung der Zulassung
@@ -728,35 +765,93 @@ Prüfungsanforderungen dürfen durch den Nachteilsausgleich nicht
 verändert werden.
 
 
-### § 12 Anrechnung von Studienzeiten und Studienleistungen
+### § 12 Anrechnung von Studienzeiten und Studienleistungen; Gestattung der Fortführung der Ausbildung
 
 (1) Die nach Landesrecht zuständige Stelle rechnet auf die in dieser
 Verordnung vorgesehene Ausbildung, soweit Gleichwertigkeit gegeben
-ist, ganz oder teilweise an:
+ist, auf Antrag ganz oder teilweise an:
 
 1.  Zeiten eines im Inland betriebenen verwandten Studiums,
 
 2.  Zeiten eines im Ausland betriebenen Medizinstudiums oder verwandten
     Studiums.
 
-(2) Unter den Voraussetzungen des Absatzes 1 erkennt die nach
-Landesrecht zuständige Stelle Studien- und Prüfungsleistungen an, die
-im Rahmen eines Studiums nach Absatz 1 Nr. 1 und 2 abgelegt worden
-sind. Dies gilt nicht für Studien- und Prüfungsleistungen, die das
-Studium abschließen oder die bereits Gegenstand einer inländischen
-Prüfung waren und endgültig nicht bestanden worden sind.
+(2) Unter den Voraussetzungen des Absatzes 1 erkennt die
+nach Landesrecht zuständige Stelle auf Antrag Studien- und
+Prüfungsleistungen an, die im Rahmen eines Studiums nach Absatz 1
+Nummer 1 oder 2 abgelegt worden sind. Dies gilt nicht für Studien-
+und Prüfungsleistungen, die das Studium abschließen oder die bereits
+Gegenstand einer inländischen Prüfung waren und endgültig nicht
+bestanden worden sind.
 
-(3) (weggefallen)
+(3) Die nach Landesrecht zuständige Stelle gestattet in Abweichung
+von § 1 Absatz 2 und 3 auf Antrag die Fortführung und den Abschluss
+der ärztlichen Ausbildung nach den Vorschriften dieser Verordnung
+beginnend mit dem Zweiten Abschnitt der Ärztlichen Prüfung, wenn
 
-(4) Die Anrechnung oder Anerkennung erfolgt auf Antrag. Zuständig
-für die Entscheidungen nach den Absätzen 1 bis 3 ist die zuständige
-Stelle des Landes, in dem der Antragsteller für das Studium der
-Medizin eingeschrieben oder zugelassen ist. Bei Studierenden, die
-eine Einschreibung oder Zulassung für das Medizinstudium bei einer
-Universität im Inland noch nicht erlangt haben, ist die zuständige
-Stelle des Landes zuständig, in dem der Antragsteller geboren ist.
-Ergibt sich hiernach keine Zuständigkeit, so ist die zuständige Stelle
-des Landes Nordrhein-Westfalen zuständig.
+1.  der Antragsteller aufgrund einer das Hochschulstudium abschließenden
+    Prüfung außerhalb des Geltungsbereichs dieser Verordnung die
+    Berechtigung zur beschränkten Ausübung des ärztlichen Berufs nach den
+    Vorschriften des Staats erworben hat, in dem die das Hochschulstudium
+    abschließende Prüfung abgelegt worden ist,
+
+2.  der Abschluss der ärztlichen Ausbildung nach den Vorschriften
+    des Staats, in dem die das Hochschulstudium abschließende Prüfung
+    abgelegt worden ist, für den Antragsteller aus besonderen Gründen,
+    die nicht in der Person des Antragstellers liegen, nicht möglich
+    ist oder der Antragsteller aus besonderen Gründen, die nicht in
+    seiner Person liegen, ein berechtigtes Interesse daran hat, die
+    ärztliche Ausbildung nicht nach den Vorschriften des Staats, in dem
+    die das Hochschulstudium abschließende Prüfung abgelegt worden ist,
+    abzuschließen und
+
+3.  der Antragsteller über die zur Fortführung der ärztlichen Ausbildung
+    nach den Vorschriften dieser Verordnung erforderlichen Kenntnisse der
+    deutschen Sprache verfügt.
+
+(4) Die Anträge nach den Absätzen 1 bis 3 können schriftlich oder
+elektronisch gestellt werden. Zuständig für die Entscheidungen
+nach den Absätzen 1 bis 3 ist die zuständige Stelle des Landes, in
+dem der Antragsteller für das Studium der Medizin eingeschrieben
+oder zugelassen ist. Bei Studierenden, die eine Einschreibung oder
+Zulassung für das Medizinstudium bei einer Universität im Inland noch
+nicht erlangt haben, ist die zuständige Stelle des Landes zuständig,
+in dem der Antragsteller geboren ist. Ergibt sich nach den Sätzen 2
+und 3 keine Zuständigkeit, so ist die zuständige Stelle des Landes
+zuständig, in dem der Antragsteller seinen gewöhnlichen Aufenthalt
+hat. Ergibt sich hiernach keine Zuständigkeit, so ist die zuständige
+Stelle des Landes Nordrhein-Westfalen zuständig.
+
+(5) Dem Antrag nach Absatz 3 sind folgende Unterlagen beizufügen:
+
+1.  ein Identitätsnachweis,
+
+2.  eine Bescheinigung über eine das Hochschulstudium außerhalb des
+    Geltungsbereichs dieser Verordnung abschließende Prüfung, die nach den
+    Vorschriften des Staats, in dem die das Hochschulstudium abschließende
+    Prüfung abgelegt worden ist, zur beschränkten Ausübung des ärztlichen
+    Berufs berechtigt,
+
+3.  eine Bescheinigung über die Berechtigung zur beschränkten
+    Berufsausübung in dem Staat, in dem die das Hochschulstudium
+    abschließende Prüfung abgelegt worden ist,
+
+4.  eine Erklärung des Antragstellers, aus der die in Absatz 3 Nummer 2
+    geforderten besonderen Gründe hervorgehen und
+
+5.  ein Nachweis, der der zuständigen Stelle eine Beurteilung darüber
+    erlaubt, dass der Antragsteller über die zur Fortführung der
+    ärztlichen Ausbildung nach den Vorschriften dieser Verordnung
+    erforderlichen Kenntnisse der deutschen Sprache verfügt.
+
+Die nach Landesrecht zuständige Stelle kann bei Zweifeln an der
+inhaltlichen Richtigkeit der Erklärung des Antragstellers nach
+Satz 1 Nummer 4 eine Glaubhaftmachung durch den Antragsteller
+fordern. Die nach Landesrecht zuständige Stelle kann darüber hinaus
+weitere Unterlagen von dem Antragsteller anfordern, sofern diese
+für die Prüfung der Voraussetzungen von Absatz 3 erforderlich sind.
+Hinsichtlich der Form der einzureichenden Unterlagen ist § 33a
+entsprechend anzuwenden.
 
 
 ### § 13 Art und Bewertung der Prüfung
@@ -790,9 +885,11 @@ den Ersten, Zweiten und Dritten Abschnitt der Ärztlichen Prüfung eine
 Gesamtnote nach Maßgabe des § 33 Abs. 1 zu bilden. Eine Gesamtnote
 wird nicht gebildet, wenn eine im Ausland abgelegte Prüfung nach §
 12 als Erster Abschnitt oder Zweiter Abschnitt der Ärztlichen Prüfung
-angerechnet worden ist. Die Anrechnung ist auf dem Zeugnis über die
-Ärztliche Prüfung nach dem Muster der Anlage 12 zu dieser Verordnung
-zu vermerken.
+angerechnet worden ist oder eine außerhalb des Geltungsbereichs dieser
+Verordnung begonnene, noch nicht abgeschlossene ärztliche Ausbildung
+nach § 12 Absatz 3 nach den Vorschriften dieser Verordnung fortgeführt
+wird. Die Anrechnung ist auf dem Zeugnis über die Ärztliche Prüfung
+nach dem Muster der Anlage 12 zu dieser Verordnung zu vermerken.
 
 
 ### § 14 Schriftliche Prüfung
@@ -998,6 +1095,10 @@ nach Absatz 1 Satz 1 für die schriftlichen Prüfungen festgesetzten
 Prüfungstermine durchgeführt. Für Nach- und Wiederholungen mündlich-
 praktischer Prüfungen können Prüfungstermine auch außerhalb der in
 Absatz 1 Satz 2 genannten Prüfungszeiten vorgesehen werden.
+
+(3) Bei der Organisation und Durchführung der einzelnen Abschnitte
+der Ärztlichen Prüfung sollen gesetzliche und staatsvertraglich
+festgelegte Feiertage beachtet werden.
 
 
 ### § 17 Ladung zu den Prüfungsterminen
@@ -1340,7 +1441,8 @@ dieser Verordnung festgelegten Prüfungsstoff abgestellt sein.
 
 Über das Bestehen des Zweiten Abschnitts der Ärztlichen Prüfung
 wird ein Zeugnis nach dem Muster der Anlage 11a zu dieser Verordnung
-erteilt.
+erteilt. Im Fall des § 12 Absatz 3 wird das Zeugnis nach dem Muster
+der Anlage 11a ohne Rückseite ausgestellt.
 
 
 ### Dritter Unterabschnitt - Dritter Abschnitt der Ärztlichen Prüfung
@@ -1457,107 +1559,163 @@ Komma errechnet. Sie lautet:
 Muster der Anlage 12 zu dieser Verordnung erteilt.
 
 
-## Vierter Abschnitt - Die Erlaubnis
+## Vierter Abschnitt - Die Erlaubnis zur Ausübung des ärztlichen Berufs, die Erlaubnis zur partiellen Berufsausübung und die Approbation
 
 
-### § 34 Erlaubnis nach § 10 Absatz 1 der Bundesärzteordnung
+### Erster Unterabschnitt - Allgemeine Vorgaben für die einzureichenden Unterlagen
 
-(1) Der Antrag auf Erteilung einer Erlaubnis zur vorübergehenden
-Ausübung des ärztlichen Berufs nach § 10 Absatz 1 der
-Bundesärzteordnung ist an die nach § 12 Absatz 3 der
-Bundesärzteordnung zuständige Behörde des Landes zu richten. Beantragt
-der Antragsteller erstmalig die Erteilung der Erlaubnis, hat er dem
-Antrag folgende Unterlagen beizufügen:
+
+#### § 33a Allgemeine Vorgaben für die einzureichenden Unterlagen
+
+(1) Die nach diesem Abschnitt einzureichenden Unterlagen sind
+der zuständigen Behörde in Form von Abschriften vorzulegen oder
+elektronisch zu übermitteln. Den Unterlagen, die nicht in deutscher
+oder englischer Sprache ausgestellt wurden, hat der Antragsteller
+Übersetzungen in deutscher oder englischer Sprache beizufügen.
+In begründeten Ausnahmefällen kann die zuständige Behörde den
+Antragsteller auffordern, innerhalb einer angemessenen Frist
+Übersetzungen in deutscher Sprache vorzulegen. Die Übersetzungen sind
+von einem öffentlich bestellten oder beeidigten Übersetzer erstellen
+zu lassen.
+
+(2) Die zuständige Behörde kann abweichend von Absatz 1 Satz 1 eine
+andere Form für die vorzulegenden Dokumente zulassen. Die zuständige
+Behörde kann, abweichend von Absatz 1 Satz 4, die Erstellung
+von Übersetzungen auch durch andere Übersetzer zulassen oder die
+Übersetzung der Dokumente mittels eines Übersetzungsprogramms selbst
+vornehmen.
+
+(3) Die zuständige Behörde kann den Antragsteller auffordern,
+innerhalb einer angemessenen Frist Informationen zum Inhalt
+und zur Dauer der im Ausland absolvierten Berufsbildung sowie
+zu sonstigen Berufsqualifikationen vorzulegen, soweit dies zur
+Bewertung der Voraussetzungen für die automatische Anerkennung einer
+Berufsqualifikation nach § 9c Absatz 1 der Bundesärzteordnung oder
+zur Bewertung der Voraussetzungen nach § 9c Absatz 4, §§ 9d oder
+10b Absatz 1 der Bundesärzteordnung erforderlich ist. Die zuständige
+Behörde kann sich auch direkt an die zuständige Stelle des Staats, in
+dem die Berufsqualifikation erworben worden ist, wenden.
+
+(4) Bestehen begründete Zweifel an der Echtheit, der inhaltlichen
+Richtigkeit oder der Richtigkeit der Übersetzung der vorgelegten
+Unterlagen, kann die zuständige Behörde den Antragsteller auffordern,
+innerhalb einer angemessenen Frist Originale, beglaubigte Abschriften
+oder weitere geeignete Unterlagen vorzulegen. Bei Unterlagen, die
+in einem anderen Staat ausgestellt oder anerkannt wurden, kann sich
+die zuständige Behörde im Fall begründeter Zweifel an der Echtheit
+der Unterlagen sowohl an die zuständige Stelle des Ausbildungs-
+oder Anerkennungsstaats wenden als auch die antragstellende Person
+auffordern, beglaubigte Abschriften vorzulegen.
+
+
+### Zweiter Unterabschnitt - Die Erlaubnis zur Ausübung des ärztlichen Berufs
+
+
+#### § 34 Erlaubnis nach § 10 Absatz 1 der Bundesärzteordnung
+
+(1) Der Antrag auf Erteilung einer Erlaubnis zur Ausübung des
+ärztlichen Berufs nach § 10 Absatz 1 der Bundesärzteordnung ist an
+die nach § 12 Absatz 3 der Bundesärzteordnung zuständige Behörde des
+Landes zu richten. Beantragt der Antragsteller erstmalig die Erteilung
+der Erlaubnis, hat er dem Antrag folgende Unterlagen beizufügen:
 
 1.  einen Identitätsnachweis,
 
-2.  eine tabellarische Aufstellung der absolvierten Ausbildungsgänge und
-    der ausgeübten Erwerbstätigkeiten,
+2.  einen Lebenslauf, der eine tabellarische Aufstellung der absolvierten
+    Ausbildungsgänge und der ausgeübten Erwerbstätigkeiten enthält,
 
-3.  eine amtlich beglaubigte Kopie der Bescheinigung über eine
-    abgeschlossene Ausbildung für den ärztlichen Beruf sowie
-    gegebenenfalls der Bescheinigung über die vom Antragsteller erworbene
-    Berufserfahrung,
+3.  eine Bescheinigung über eine abgeschlossene Ausbildung für den
+    ärztlichen Beruf sowie gegebenenfalls eine Bescheinigung über die vom
+    Antragsteller erworbene Berufserfahrung,
 
 4.  wenn die Erlaubnis aus Gründen der ärztlichen Versorgung nach § 10
-    Absatz 3 Satz 2 der Bundesärzteordnung erteilt werden soll, eine
-    amtlich beglaubigte Kopie
+    Absatz 3 Satz 2 der Bundesärzteordnung erteilt werden soll,
 
-    a)  der Anerkennungsurkunde über die bestandene fachärztliche
+    a)  die Anerkennungsurkunde über die bestandene fachärztliche
         Weiterbildung oder
 
-    b)  der Anerkennung einer im Ausland abgeschlossenen fachärztlichen
+    b)  die Anerkennung einer im Ausland abgeschlossenen fachärztlichen
         Weiterbildung,
 
 5.  eine Erklärung, wo und in welcher Weise der Antragsteller den
     ärztlichen Beruf im Inland ausüben will,
 
-6.  soweit vorhanden, den Bescheid nach § 3 Absatz 2 Satz 8 der
-    Bundesärzteordnung und die Niederschrift über die staatliche
-    Kenntnisprüfung nach § 37 Absatz 7,
+6.  soweit vorhanden, den Bescheid nach § 38 und die Niederschrift über
+    die staatliche Kenntnisprüfung nach § 37 Absatz 12,
 
-7.  die folgenden Unterlagen:
+7.  einen Nachweis über das Vorliegen der Voraussetzung nach § 3 Absatz 1
+    Satz 1 Nummer 2 der Bundesärzteordnung
 
-    a)  ein amtliches inländisches Führungszeugnis,
+    a)  durch ein Führungszeugnis und
 
-    b)  die Unterlagen, die von den zuständigen Behörden des Herkunftsstaats
-        ausgestellt wurden und belegen, dass der Antragsteller sich nicht
-        eines Verhaltens schuldig gemacht hat, aus dem sich seine Unwürdigkeit
-        oder Unzuverlässigkeit zur Ausübung des ärztlichen Berufs ergibt,
+    b)  durch die Unterlagen, die von den zuständigen Behörden des Staats, in
+        dem die Berufsqualifikation erworben worden ist, ausgestellt wurden,
         oder,
 
-    c)  wenn im Herkunftsstaat die Unterlagen nach Buchstabe b nicht
-        ausgestellt werden, eine eidesstattliche Erklärung oder in den
-        Staaten, in denen es keine eidesstattliche Erklärung gibt, eine
-        feierliche Erklärung, die die betreffende Person im Herkunftsstaat
-        oder im Inland vor einer zuständigen Justiz- oder Verwaltungsbehörde
-        oder gegebenenfalls vor einem Notar oder einer entsprechend
-        bevollmächtigten Berufsorganisation, die eine diese eidesstattliche
-        oder feierliche Erklärung bestätigende Bescheinigung ausstellt,
-        abgegeben hat,
+    c)  wenn in dem Staat, in dem die Berufsqualifikation erworben worden
+        ist, die Unterlagen nach Buchstabe b nicht ausgestellt werden, durch
+        eine eidesstattliche Erklärung nach dem Recht des Staats, in dem
+        die Berufsqualifikation erworben worden ist, oder in den Staaten, in
+        denen es keine eidesstattliche Erklärung gibt, durch eine feierliche
+        Erklärung, die die betreffende Person in dem Staat, in dem die
+        Berufsqualifikation erworben worden ist, oder im Inland vor einer
+        zuständigen Justiz- oder Verwaltungsbehörde oder gegebenenfalls
+        vor einem Notar oder einer entsprechend bevollmächtigten
+        Berufsorganisation, die eine diese eidesstattliche oder feierliche
+        Erklärung bestätigende Bescheinigung ausstellt, abgegeben hat, oder,
 
-8.  eine im Inland ausgestellte ärztliche Bescheinigung, aus der
-    hervorgeht, dass der Antragsteller nicht in gesundheitlicher Hinsicht
-    zur Ausübung des Berufs ungeeignet ist; soweit sich der Wohnsitz
-    des Antragstellers nicht im Inland befindet, kann ein entsprechender
-    Nachweis, der im Herkunftsstaat gefordert wird, vorgelegt werden
-    oder, wenn im Herkunftsstaat kein derartiger Nachweis gefordert wird,
-    eine von einer zuständigen Behörde des Herkunftsstaats ausgestellte
-    Bescheinigung,
+    d)  sofern ein Nachweis nach den Buchstaben b oder c aus Gründen, die
+        nicht in der Person des Antragstellers liegen, nicht vorgelegt werden
+        kann, eine Versicherung an Eides statt nach deutschem Recht,
 
-9.  soweit vorhanden, Nachweise über die Kenntnisse der deutschen Sprache,
-    die der zuständigen Behörde eine Beurteilung darüber erlauben, in
-    welchem Umfang der Antragsteller über die zur Ausübung des ärztlichen
-    Berufs erforderlichen Sprachkenntnisse verfügt.
+8.  einen Nachweis über das Vorliegen der Voraussetzung nach § 3 Absatz 1
+    Satz 1 Nummer 3 der Bundesärzteordnung durch
+
+    a)  eine im Inland ausgestellte ärztliche Bescheinigung,
+
+    b)  soweit sich der Wohnsitz des Antragstellers nicht im Inland
+        befindet, ein entsprechender Nachweis, der in dem Staat, in dem die
+        Berufsqualifikation erworben worden ist, gefordert wird oder,
+
+    c)  wenn in dem Staat, in dem die Berufsqualifikation erworben worden ist,
+        kein derartiger Nachweis gefordert wird, eine von einer zuständigen
+        Behörde des Staats, in dem die Berufsqualifikation erworben worden
+        ist, ausgestellte Bescheinigung, und,
+
+9.  soweit vorhanden, Nachweise, die der zuständigen Behörde eine
+    Beurteilung darüber erlauben, in welchem Umfang der Antragsteller über
+    die zur Ausübung des ärztlichen Berufs erforderlichen Kenntnisse der
+    deutschen Sprache verfügt.
 
 Die Nachweise nach Satz 2 Nummer 7 und 8 dürfen bei ihrer Vorlage
-nicht älter als drei Monate sein. Beantragt der Antragsteller die
-Verlängerung der Erlaubnis, hat er dem Antrag die zuletzt erteilte
-Erlaubnis, falls diese von einer anderen Behörde ausgestellt
-wurde, sowie ein amtliches inländisches Führungszeugnis und eine im
-Inland ausgestellte ärztliche Bescheinigung, die bei ihrer Vorlage
-nicht älter als drei Monate sein dürfen, beizufügen. Haben die
-zuständigen Behörden berechtigte Zweifel an der Authentizität der
-in dem jeweiligen Herkunftsstaat ausgestellten Bescheinigungen und
-Ausbildungsnachweise, können sie von den zuständigen Behörden des
-Herkunftsstaats eine Bestätigung der Authentizität verlangen. § 39
-Absatz 2 und 3 gilt entsprechend.
+jeweils nicht älter als drei Monate sein. Beantragt der Antragsteller
+die Verlängerung der Erlaubnis, hat er dem Antrag die zuletzt erteilte
+Erlaubnis, falls diese von einer anderen Behörde ausgestellt wurde,
+sowie ein Führungszeugnis und eine im Inland ausgestellte ärztliche
+Bescheinigung, die bei ihrer Vorlage jeweils nicht älter als drei
+Monate sein dürfen, beizufügen. Haben die zuständigen Behörden
+berechtigte Zweifel an der Echtheit der in dem jeweiligen Staat,
+in dem die Berufsqualifikation erworben worden ist, ausgestellten
+Bescheinigungen und Ausbildungsnachweise, können sie von den
+zuständigen Behörden des Staats, in dem die Berufsqualifikation
+erworben worden ist, eine Bestätigung der Echtheit verlangen.
 
-(2) Über den Antrag ist kurzfristig, spätestens drei Monate nach
-Vorlage der nach Absatz 1 vom Antragsteller vorzulegenden Unterlagen,
-zu entscheiden. Die zuständige Behörde bestätigt dem Antragsteller
-binnen eines Monats nach Eingang des Antrags den Antragseingang
-und den Empfang der Unterlagen und teilt ihm mit, welche Unterlagen
-fehlen. Ist zur Beurteilung der Frage, ob die vom Antragsteller
-nach Absatz 1 Satz 2 Nummer 3 vorgelegten Unterlagen den Abschluss
-der Ausbildung im Herkunftsstaat belegen, eine Auskunft von der
-Zentralstelle für ausländisches Bildungswesen oder von vergleichbaren
-Einrichtungen erforderlich, so teilt die Behörde dies dem
-Antragsteller ebenfalls mit. In den Fällen des Satzes 3 ist der Ablauf
-der Frist nach Satz 1 bis zum Vorliegen der Antwort auf die Anfrage
-der Behörde gehemmt. Gleiches gilt bis zum Vorliegen einer Bestätigung
-der Authentizität durch die Behörde des Herkunftsstaats gemäß Absatz 1
-Satz 5.
+(2) Der Antrag kann schriftlich oder elektronisch gestellt werden.
+Über den Antrag ist kurzfristig, spätestens drei Monate nach Vorlage
+der nach Absatz 1 vom Antragsteller vorzulegenden Unterlagen, zu
+entscheiden. Die zuständige Behörde bestätigt dem Antragsteller binnen
+eines Monats nach Eingang des Antrags den Antragseingang und den
+Empfang der Unterlagen und teilt ihm mit, welche Unterlagen fehlen.
+Ist zur Beurteilung der Frage, ob die vom Antragsteller nach Absatz
+1 Satz 2 Nummer 3 vorgelegten Unterlagen den Abschluss der Ausbildung
+im Staat, in dem die Berufsqualifikation erworben worden ist, belegen,
+eine Auskunft von der Zentralstelle für ausländisches Bildungswesen
+oder von vergleichbaren Einrichtungen erforderlich, so teilt die
+Behörde dies dem Antragsteller ebenfalls mit. In den Fällen des Satzes
+4 ist der Ablauf der Frist nach Satz 2 bis zum Vorliegen der Antwort
+auf die Anfrage der Behörde gehemmt. Gleiches gilt bis zum Vorliegen
+einer Bestätigung der Echtheit durch die Behörde des Staats, in dem
+die Berufsqualifikation erworben worden ist, gemäß § 33a Absatz 4.
 
 (3) Die zuständige Behörde hat den Ausbildungsstand des Antragstellers
 einschließlich der nachgewiesenen einschlägigen Berufserfahrung bei
@@ -1565,13 +1723,12 @@ der Entscheidung über die Erteilung der Erlaubnis zu berücksichtigen
 und prüft auf dieser Grundlage seine fachliche Eignung für die
 beabsichtigte ärztliche Tätigkeit. Soweit der Antragsteller bereits
 einen Antrag auf Erteilung der Approbation gestellt hat, zieht
-die zuständige Behörde die Feststellungen des Bescheides nach § 3
-Absatz 2 Satz 8 der Bundesärzteordnung und, soweit vorhanden, die
-Niederschrift über die staatliche Kenntnisprüfung nach § 37 Absatz
-7 bei. Ein bereits begonnenes oder noch nicht nach § 3 Absatz
-3 der Bundesärzteordnung mit einer Anerkennung abgeschlossenes
-Approbationsverfahren steht der Erteilung der Erlaubnis nicht
-entgegen.
+die zuständige Behörde die Feststellungen des Bescheides nach §
+38 und, soweit vorhanden, die Niederschrift über die staatliche
+Kenntnisprüfung nach § 37 Absatz 12 bei. Ein bereits begonnenes oder
+noch nicht nach § 9d der Bundesärzteordnung mit einer Anerkennung
+abgeschlossenes Approbationsverfahren steht der Erteilung der
+Erlaubnis nicht entgegen.
 
 (4) Der gleichwertige Ausbildungsstand in einem Gebiet im Sinne des
 § 10 Absatz 3 Satz 2 der Bundesärzteordnung ist nachgewiesen, wenn
@@ -1580,20 +1737,20 @@ im Inland abgeschlossen hat oder seine im Ausland abgeschlossene
 fachärztliche Weiterbildung im Inland anerkannt worden ist.
 
 (5) Die zuständige Behörde versieht die Erlaubnis mit den
-Einschränkungen und Nebenbestimmungen, die erforderlich sind, um
-unter Berücksichtigung des nach Absatz 3 oder Absatz 4 bewerteten
-Ausbildungsstandes des Antragstellers, seiner Kenntnisse der deutschen
-Sprache und seiner gesundheitlichen Eignung eine Gefährdung der
-öffentlichen Gesundheit auszuschließen. Wenn die Gefährdung der
-öffentlichen Gesundheit durch Einschränkungen und Nebenbestimmungen
-nicht ausgeschlossen werden kann, ist die Erlaubnis zu versagen. Die
-Erlaubnis ist ebenfalls zu versagen, wenn die Voraussetzungen nach § 3
-Absatz 1 Satz 1 Nummer 2 der Bundesärzteordnung nicht vorliegen.
+Nebenbestimmungen, die erforderlich sind, um unter Berücksichtigung
+des nach Absatz 3 oder Absatz 4 bewerteten Ausbildungsstandes des
+Antragstellers, seiner Kenntnisse der deutschen Sprache und seiner
+gesundheitlichen Eignung eine Gefährdung der öffentlichen Gesundheit
+auszuschließen. Wenn die Gefährdung der öffentlichen Gesundheit
+durch Nebenbestimmungen nicht ausgeschlossen werden kann, ist die
+Erlaubnis zu versagen. Die Erlaubnis ist ebenfalls zu versagen,
+wenn die Voraussetzungen nach § 3 Absatz 1 Satz 1 Nummer 2 der
+Bundesärzteordnung nicht vorliegen.
 
-(6) Die Erlaubnis kann bei ihrer erstmaligen Erteilung nur auf weniger
-als zwei Jahre befristet werden, wenn im Einzelfall die mit der
-Erlaubnis versehenen Einschränkungen und Nebenbestimmungen oder die
-vom Antragsteller beabsichtigte Berufstätigkeit dies erfordern.
+(6) Die Erlaubnis kann bei ihrer erstmaligen Erteilung nur auf
+weniger als zwei Jahre befristet werden, wenn im Einzelfall die mit
+der Erlaubnis versehenen Nebenbestimmungen oder die vom Antragsteller
+beabsichtigte Berufstätigkeit dies erfordern.
 
 (7) Soweit die Geltung der Erlaubnis auf ein Land beschränkt wird
 und die Tätigkeit einen Einsatz in mehr als einem Land erfordert, hat
@@ -1604,78 +1761,118 @@ welchen anderen Ländern die Erlaubnis gilt.
 Verordnung ausgestellt.
 
 
-### § 35 Erlaubnis nach § 10 Absatz 1a der Bundesärzteordnung
+#### § 35 Erlaubnis nach § 10 Absatz 1a der Bundesärzteordnung
 
-(1) Der Antrag auf Erteilung einer Erlaubnis zur vorübergehenden
-Ausübung des ärztlichen Berufs nach § 10 Absatz 1a der
-Bundesärzteordnung ist an die nach § 12 Absatz 3 der
-Bundesärzteordnung zuständige Behörde des Landes zu richten. Beantragt
-der Antragsteller erstmals die Erteilung der Erlaubnis, hat er dem
-Antrag die folgenden Unterlagen beizufügen:
+(1) Der Antrag auf Erteilung einer Erlaubnis zur Ausübung des
+ärztlichen Berufs nach § 10 Absatz 1a der Bundesärzteordnung ist an
+die nach § 12 Absatz 3 der Bundesärzteordnung zuständige Behörde des
+Landes zu richten. Beantragt der Antragsteller erstmals die Erteilung
+der Erlaubnis, hat er dem Antrag die folgenden Unterlagen beizufügen:
 
-1.  die Unterlagen, die in § 3 Absatz 6 Satz 1 Nummer 1, 1a, 2 und 3 bis 7
-    der Bundesärzteordnung genannt sind, und
+1.  die Unterlagen, die in § 34 Absatz 1 Satz 2 Nummer 1 bis 4 und 6 bis 9
+    genannt sind, und
 
 2.  eine Erklärung, wo und in welcher Weise er den ärztlichen Beruf
     im Inland ausüben will und inwiefern sich hieraus ein besonderes
     Interesse an der Erteilung der Erlaubnis ergibt.
 
-Die Nachweise nach § 3 Absatz 6 Satz 1 Nummer 3 und 4 der
-Bundesärzteordnung dürfen bei ihrer Vorlage nicht älter als drei
-Monate sein. Beantragt der Antragsteller die Verlängerung der
-Erlaubnis, hat er dem Antrag die zuletzt erteilte Erlaubnis, falls
-diese von einer anderen Behörde ausgestellt wurde, und die Unterlagen
-nach § 3 Absatz 6 Satz 1 Nummer 3 und 4 der Bundesärzteordnung,
-die bei ihrer Vorlage nicht älter als drei Monate sein dürfen,
-beizufügen. Haben die zuständigen Behörden berechtigte Zweifel an
-der Authentizität der in dem jeweiligen Herkunftsstaat ausgestellten
-Bescheinigungen und Ausbildungsnachweise, können sie von den
-zuständigen Behörden des Herkunftsstaats eine Bestätigung der
-Authentizität sowie eine Bestätigung darüber verlangen, dass der
-Antragsteller die Mindestanforderungen der Ausbildung erfüllt, die
-in Artikel 24 der Richtlinie 2005/36/EG des Europäischen Parlaments
-und des Rates vom 7. September 2005 über die Anerkennung von
-Berufsqualifikationen (ABl. L 255 vom 30.9.2005, S. 22, L 271 vom
-16\.10.2007, S. 18), die zuletzt durch die Verordnung (EU) Nr. 623/2012
-(ABl. L 180 vom 12.7.2012, S. 9) geändert worden ist, verlangt werden.
-§ 39 Absatz 2 und 3 gilt entsprechend.
+Die Nachweise über das Vorliegen der Voraussetzungen nach § 3 Absatz 1
+Satz 1 Nummer 2 und 3 der Bundesärzteordnung dürfen bei ihrer Vorlage
+jeweils nicht älter als drei Monate sein. Beantragt der Antragsteller
+die Verlängerung der Erlaubnis, hat er dem Antrag die zuletzt erteilte
+Erlaubnis, falls diese von einer anderen Behörde ausgestellt wurde,
+und die Unterlagen zum Nachweis über das Vorliegen der Voraussetzungen
+nach § 3 Absatz 1 Satz 1 Nummer 2 und 3 der Bundesärzteordnung,
+die bei ihrer Vorlage jeweils nicht älter als drei Monate sein
+dürfen, beizufügen. Haben die zuständigen Behörden berechtigte
+Zweifel an der Echtheit der in dem jeweiligen Staat, in dem die
+Berufsqualifikation erworben worden ist, ausgestellten Bescheinigungen
+und Ausbildungsnachweise, können sie von den zuständigen Behörden
+des Staats, in dem die Berufsqualifikation erworben worden ist, eine
+Bestätigung der Echtheit sowie eine Bestätigung darüber verlangen,
+dass der Antragsteller die Mindestanforderungen der Ausbildung
+erfüllt, die in Artikel 24 der Richtlinie 2005/36/EG verlangt werden.
 
 (2) Ein besonderes Interesse im Sinne des § 10 Absatz 1a der
 Bundesärzteordnung liegt insbesondere vor, wenn der Antragsteller
 
-1.  die Voraussetzungen nach § 3 Absatz 1 oder 2 der Bundesärzteordnung
-    erfüllt und § 10b der Bundesärzteordnung nicht angewendet werden kann
-    oder
+1.  die Voraussetzungen nach § 3 Absatz 1 Satz 1 der Bundesärzteordnung
+    nach Maßgabe des § 9c der Bundesärzteordnung erfüllt und § 10c der
+    Bundesärzteordnung nicht angewendet werden kann oder
 
 2.  die nach Absatz 1 Satz 2 Nummer 2 angestrebte ärztliche Tätigkeit
     ausüben kann, obwohl er die Voraussetzungen nach § 3 Absatz 1 Satz 1
     Nummer 3 oder Nummer 5 der Bundesärzteordnung nicht erfüllt.
 
-(3) Erfüllt der Antragsteller nicht die Voraussetzung des § 3
-Absatz 1 Satz 1 Nummer 4 der Bundesärzteordnung und fällt der
-Antragsteller nicht unter § 3 Absatz 1 Satz 2 bis 4 oder Satz 6 oder
-§ 14b der Bundesärzteordnung, gilt § 34 Absatz 3 Satz 1 und Absatz
-4 entsprechend.
+(3) Erfüllt der Antragsteller nicht die Voraussetzung des § 3 Absatz
+1 Satz 1 Nummer 4 der Bundesärzteordnung und fällt der Antragsteller
+nicht unter § 9c oder § 14b der Bundesärzteordnung, gilt § 34 Absatz 3
+Satz 1 und Absatz 4 entsprechend.
 
 (4) Die zuständige Behörde versieht die Erlaubnis mit den
-Einschränkungen und Nebenbestimmungen, die erforderlich sind, um unter
-Berücksichtigung des nach Absatz 3 bewerteten Ausbildungsstandes des
-Antragstellers, seiner Kenntnisse der deutschen Sprache und seiner
-gesundheitlichen Eignung eine Gefährdung der öffentlichen Gesundheit
-auszuschließen. § 34 Absatz 2, 5 Satz 2 und 3, Absatz 6 bis 8 gilt
-entsprechend.
+Nebenbestimmungen, die erforderlich sind, um unter Berücksichtigung
+des nach Absatz 3 bewerteten Ausbildungsstandes des Antragstellers,
+seiner Kenntnisse der deutschen Sprache und seiner gesundheitlichen
+Eignung eine Gefährdung der öffentlichen Gesundheit auszuschließen. §
+34 Absatz 2, 5 Satz 2 und 3, Absatz 6 bis 8 gilt entsprechend.
 
 
-### § 35a Erlaubnis nach § 10 Absatz 5 der Bundesärzteordnung
+#### § 35a Erlaubnis nach § 10 Absatz 3a der Bundesärzteordnung
 
-(1) Der Antrag auf Erteilung einer Erlaubnis zur vorübergehenden
-Ausübung des ärztlichen Berufs nach § 10 Absatz 5 der
-Bundesärzteordnung ist an die nach § 12 Absatz 3 der
-Bundesärzteordnung zuständige Behörde des Landes zu richten. Der
-Antragsteller hat dem Antrag die folgenden Unterlagen beizufügen:
+(1) Der Antrag auf Erteilung einer Erlaubnis zur Ausübung des
+ärztlichen Berufs nach § 10 Absatz 3a der Bundesärzteordnung ist an
+die nach § 12 Absatz 3 der Bundesärzteordnung zuständige Behörde des
+Landes zu richten.
 
-1.  die in § 3 Absatz 6 Satz 1 Nummer 1, 1a, 3, 4, 5 und 7 der
-    Bundesärzteordnung genannten Unterlagen,
+(2) Beantragt der Antragsteller die Erteilung der Erlaubnis nach §
+10 Absatz 3a Nummer 1 der Bundesärzteordnung, hat er dem Antrag die
+folgenden Unterlagen beizufügen:
+
+1.  die Unterlagen, die in § 34 Absatz 1 Satz 2 genannt sind,
+
+2.  einen Nachweis, dass dem Antragsteller vor dem 1. April 2012 eine
+    Erlaubnis erteilt worden ist, und
+
+3.  Unterlagen, die belegen, dass eine Ärztliche Prüfung oder ein
+    Abschnitt der Ärztlichen Prüfung nach dieser Verordnung vor der
+    erstmaligen Erteilung einer Erlaubnis nach § 10 der Bundesärzteordnung
+    endgültig nicht bestanden wurde.
+
+Die Nachweise über das Vorliegen der Voraussetzungen nach § 3 Absatz 1
+Satz 1 Nummer 2 und 3 der Bundesärzteordnung dürfen bei ihrer Vorlage
+jeweils nicht älter als drei Monate sein.
+
+(3) Beantragt der Antragsteller die Erteilung der Erlaubnis nach §
+10 Absatz 3a Nummer 2 der Bundesärzteordnung, hat er dem Antrag die
+folgenden Unterlagen beizufügen:
+
+1.  die Unterlagen, die in § 34 Absatz 1 Satz 2 Nummer 1 bis 7 und 9
+    genannt sind, und
+
+2.  Nachweise, die der zuständigen Behörde eine Beurteilung darüber
+    erlauben, in welchem Umfang der Antragsteller über die zur Ausübung
+    des ärztlichen Berufs erforderliche gesundheitliche Eignung verfügt.
+
+(4) Die zuständige Behörde versieht die Erlaubnis mit den
+Nebenbestimmungen, die erforderlich sind, um unter Berücksichtigung
+der besonderen Härte des Falls, der Kenntnisse der deutschen Sprache
+des Antragstellers und seiner gesundheitlichen Eignung eine Gefährdung
+der öffentlichen Gesundheit auszuschließen.
+
+(5) § 34 Absatz 1 Satz 3, Absatz 2, 3, 5 Satz 2 und 3, Absatz 7 und 8
+gilt entsprechend.
+
+
+#### § 35b Erlaubnis nach § 10 Absatz 5 der Bundesärzteordnung
+
+(1) Der Antrag auf Erteilung einer Erlaubnis zur Ausübung des
+ärztlichen Berufs nach § 10 Absatz 5 der Bundesärzteordnung ist an
+die nach § 12 Absatz 3 der Bundesärzteordnung zuständige Behörde des
+Landes zu richten. Der Antragsteller hat dem Antrag die folgenden
+Unterlagen beizufügen:
+
+1.  die in § 34 Absatz 1 Satz 2 Nummer 1, 2, 5, 7, 8 und 9 genannten
+    Unterlagen,
 
 2.  das Zeugnis über den Abschluss des Hochschulstudiums,
 
@@ -1685,59 +1882,175 @@ Antragsteller hat dem Antrag die folgenden Unterlagen beizufügen:
 4.  Nachweise über die Erforderlichkeit dieser Tätigkeiten nach
     ausländischem Ausbildungsrecht,
 
-5.  Nachweis der für die Ausübung der ärztlichen Tätigkeit erforderlichen
-    Kenntnisse der deutschen Sprache,
+5.  eine Bescheinigung des Staats, in dem das Hochschulstudium
+    abgeschlossen wurde, dass der Antragsteller aufgrund der das
+    Hochschulstudium abschließenden Prüfung in diesem Staat die
+    Berechtigung zur beschränkten Ausübung des ärztlichen Berufs erworben
+    hat, und
 
-6.  eine Bescheinigung des bisherigen Studienlandes, dass der
-    Antragsteller auf Grund der das Hochschulstudium abschließenden
-    Prüfung im Studienland die Berechtigung zur beschränkten Ausübung des
-    ärztlichen Berufs erworben hat,
+6.  eine Bescheinigung des Staats, in dem das Hochschulstudium
+    abgeschlossen wurde, dass die mit der Erteilung der Erlaubnis zum
+    Abschluss der ärztlichen Ausbildung absolvierte ärztliche Tätigkeit
+    für den Ausbildungsabschluss anerkannt oder die Durchführung der
+    nach ausländischem Ausbildungsrecht erforderlichen Abschlussprüfung
+    ermöglichen wird.
 
-7.  eine Bescheinigung des bisherigen Studienlandes, dass die mit der
-    Erteilung der Erlaubnis zum Abschluss der ärztlichen Ausbildung
-    absolvierte ärztliche Tätigkeit für den Ausbildungsabschluss anerkannt
-    oder die Durchführung der nach ausländischem Ausbildungsrecht
-    erforderlichen Abschlussprüfung ermöglichen wird.
-
-Die Nachweise nach § 3 Absatz 6 Satz 1 Nummer 3 und 4 der
-Bundesärzteordnung dürfen bei ihrer Vorlage nicht älter als drei
-Monate sein. Haben die zuständigen Behörden berechtigte Zweifel an
-der Authentizität der in dem jeweiligen Herkunftsstaat ausgestellten
-Bescheinigungen und Ausbildungsnachweise, können sie von den
-zuständigen Behörden des Herkunftsstaats eine Bestätigung der
-Authentizität sowie eine Bestätigung darüber verlangen, dass der
-Antragsteller die Mindestanforderungen der Ausbildung erfüllt, die in
-Artikel 24 der Richtlinie 2005/36/EG verlangt werden. § 39 Absatz 2
-und 3 gilt entsprechend.
+Die Nachweise über das Vorliegen der Voraussetzungen nach § 3
+Absatz 1 Satz 1 Nummer 2 und 3 der Bundesärzteordnung dürfen bei
+ihrer Vorlage jeweils nicht älter als drei Monate sein. Haben
+die zuständigen Behörden berechtigte Zweifel an der Echtheit der
+in dem jeweiligen Staat, in dem die Berufsqualifikation erworben
+worden ist, ausgestellten Bescheinigungen und Ausbildungsnachweise,
+können sie von den zuständigen Behörden des Staats, in dem die
+Berufsqualifikation erworben worden ist, eine Bestätigung der Echtheit
+sowie eine Bestätigung darüber verlangen, dass der Antragsteller die
+Mindestanforderungen der Ausbildung erfüllt, die in Artikel 24 der
+Richtlinie 2005/36/EG verlangt werden.
 
 (2) Die zuständige Behörde versieht die Erlaubnis mit den
-Einschränkungen und Nebenbestimmungen, die erforderlich sind, um
-angesichts der Ausbildungssituation eine Gefährdung der öffentlichen
-Gesundheit auszuschließen. Wenn eine Gefährdung der öffentlichen
-Gesundheit durch Einschränkungen und Nebenbestimmungen nicht
-ausgeschlossen werden kann, ist die Erlaubnis zu versagen. Die
-Erlaubnis ist ebenfalls zu versagen, wenn die Voraussetzungen nach § 3
-Absatz 1 Satz 1 Nummer 2, 3 oder Nummer 5 der Bundesärzteordnung nicht
-vorliegen. § 34 Absatz 2 gilt entsprechend.
+Nebenbestimmungen, die erforderlich sind, um angesichts der
+Ausbildungssituation eine Gefährdung der öffentlichen Gesundheit
+auszuschließen. Wenn eine Gefährdung der öffentlichen Gesundheit durch
+Nebenbestimmungen nicht ausgeschlossen werden kann, ist die Erlaubnis
+zu versagen. Die Erlaubnis ist ebenfalls zu versagen, wenn die
+Voraussetzungen nach § 3 Absatz 1 Satz 1 Nummer 2, 3 oder Nummer 5 der
+Bundesärzteordnung nicht vorliegen. § 34 Absatz 2 gilt entsprechend.
 
 (3) Die Erlaubnis wird nach dem Muster der Anlage 17 zu dieser
 Verordnung ausgestellt.
 
 
-## Fünfter Abschnitt - Die Approbation
+### Dritter Unterabschnitt - Erlaubnis zur partiellen Berufsausübung nach § 10b der Bundesärzteordnung
 
 
-### § 36 Eignungsprüfung nach § 3 Absatz 2 Satz 7 der Bundesärzteordnung
+#### § 35c Antrag auf Erteilung der Erlaubnis zur partiellen Berufsausübung
 
-(1) Die Eignungsprüfung nach § 3 Absatz 2 Satz 7 der
-Bundesärzteordnung bezieht sich auf die Fächer einschließlich der
-Querschnittsbereiche, in denen die zuständige Behörde wesentliche
-Unterschiede nach § 3 Absatz 2 Satz 8 der Bundesärzteordnung
-festgestellt hat. In der Eignungsprüfung hat der Antragsteller
-an praktischen Aufgaben nachzuweisen, dass er in diesen Fächern
-einschließlich der Querschnittsbereiche über die Kenntnisse und
-Fähigkeiten, auch in der ärztlichen Gesprächsführung, verfügt, die zur
-Ausübung des ärztlichen Berufs erforderlich sind.
+(1) Der Antrag auf Erteilung einer Erlaubnis zur partiellen
+Berufsausübung nach § 10b der Bundesärzteordnung ist an die nach §
+12 Absatz 3 der Bundesärzteordnung zuständige Behörde des Landes zu
+richten.
+
+(2) Der Antrag kann schriftlich oder elektronisch gestellt werden.
+
+
+#### § 35d Erforderliche Unterlagen
+
+(1) Personen, die die Erlaubnis zur partiellen Berufsausübung nach
+§ 10b der Bundesärzteordnung beantragen, haben dem Antrag folgende
+Unterlagen beizufügen:
+
+1.  einen Identitätsnachweis,
+
+2.  einen Lebenslauf, der eine tabellarische Aufstellung der absolvierten
+    Ausbildungsgänge und der ausgeübten Erwerbstätigkeiten enthält,
+
+3.  eine Bescheinigung über eine Berufsqualifikation, aus der sich ergibt,
+    dass die Berufsqualifikation erforderlich ist für die Ausübung einer
+    beruflichen Tätigkeit in einem anderen Mitgliedstaat, in einem anderen
+    Vertragsstaat oder in einem gleichgestellten Staat, die den ärztlichen
+    Tätigkeiten nur partiell entspricht, sowie die Ausbildungsnachweise,
+    die den Erwerb dieser Berufsqualifikation belegen,
+
+4.  sofern vorhanden, eine Bescheinigung über die erworbene
+    Berufserfahrung oder Nachweise über Kenntnisse und Fähigkeiten, die
+    durch lebenslanges Lernen erworben worden sind,
+
+5.  Nachweise, die der zuständigen Behörde eine Beurteilung darüber
+    erlauben, in welchem Umfang der Antragsteller über die zur partiellen
+    Berufsausübung erforderlichen Kenntnisse der deutschen Sprache
+    verfügt,
+
+6.  einen Nachweis über das Vorliegen der Voraussetzung nach § 3 Absatz 1
+    Satz 1 Nummer 2 der Bundesärzteordnung
+
+    a)  durch ein Führungszeugnis und
+
+    b)  durch die Unterlagen, die von den zuständigen Behörden des
+        Herkunftsstaats ausgestellt wurden, oder,
+
+    c)  wenn im Herkunftsstaat die Unterlagen nach Buchstabe b nicht
+        ausgestellt werden, durch eine eidesstattliche Erklärung nach dem
+        Recht des Herkunftsstaats oder in den Staaten, in denen es keine
+        eidesstattliche Erklärung gibt, durch eine feierliche Erklärung, die
+        die betreffende Person im Herkunftsstaat oder im Inland vor einer
+        zuständigen Justiz- oder Verwaltungsbehörde oder gegebenenfalls
+        vor einem Notar oder einer entsprechend bevollmächtigten
+        Berufsorganisation, die eine diese eidesstattliche oder feierliche
+        Erklärung bestätigende Bescheinigung ausstellt, abgegeben hat, oder,
+
+    d)  sofern ein Nachweis nach den Buchstaben b oder c aus Gründen, die
+        nicht in der Person des Antragstellers liegen, nicht vorgelegt werden
+        kann, eine Versicherung an Eides statt nach deutschem Recht, und
+
+7.  einen Nachweis über das Vorliegen der Voraussetzung nach § 3 Absatz 1
+    Satz 1 Nummer 3 der Bundesärzteordnung
+
+    a)  durch eine im Inland ausgestellte ärztliche Bescheinigung, aus der
+        hervorgeht, dass der Antragsteller nicht in gesundheitlicher Hinsicht
+        zur partiellen Berufsausübung ungeeignet ist,
+
+    b)  soweit sich der Wohnsitz des Antragstellers nicht im Inland befindet,
+        durch einen entsprechenden Nachweis, der im Herkunftsstaat gefordert
+        wird, oder,
+
+    c)  wenn im Herkunftsstaat kein derartiger Nachweis gefordert wird,
+        eine von einer zuständigen Behörde des Herkunftsstaats ausgestellte
+        Bescheinigung.
+
+Die in Satz 1 Nummer 6 und 7 genannten Unterlagen dürfen zum Zeitpunkt
+ihrer Vorlage bei der zuständigen Behörde jeweils nicht älter als drei
+Monate sein.
+
+(2) Die zuständige Behörde kann von dem Antragsteller die Vorlage
+weiterer Unterlagen innerhalb einer angemessenen Frist fordern,
+soweit dies zur Bewertung der Voraussetzungen nach § 10b der
+Bundesärzteordnung erforderlich ist.
+
+
+#### § 35e Frist der Behörde für die Bestätigung des Antragseingangs
+
+Die zuständige Behörde bestätigt dem Antragsteller innerhalb eines
+Monats nach Eingang des Antrags den Antragseingang und teilt ihm mit,
+welche Unterlagen fehlen.
+
+
+#### § 35f Entscheidung über den Antrag
+
+(1) Die zuständige Behörde entscheidet kurzfristig über den Antrag,
+spätestens jedoch drei Monate nach Vorlage der vollständigen
+Unterlagen durch den Antragsteller.
+
+(2) Die zuständige Behörde erteilt die Erlaubnis zur
+partiellen Berufsausübung beschränkt auf die Tätigkeiten und
+Beschäftigungsstellen, in denen der Antragsteller eine abgeschlossene
+Qualifikation im ärztlichen Bereich nachgewiesen hat. Sie versieht
+die Erlaubnis zur partiellen Berufsausübung mit den Nebenbestimmungen,
+die erforderlich sind, um eine Gefährdung der Patienten oder der
+öffentlichen Gesundheit auszuschließen. Dabei berücksichtigt sie
+die Kenntnisse der deutschen Sprache des Antragstellers und dessen
+gesundheitliche Eignung.
+
+
+#### § 35g Erlaubnis zur partiellen Berufsausübung
+
+Bei der Ausstellung der Erlaubnis zur partiellen Berufsausübung
+nach § 10b der Bundesärzteordnung ist das Muster nach Anlage 17a zu
+verwenden.
+
+
+### Vierter Unterabschnitt - Die Approbation
+
+
+#### § 36 Eignungsprüfung nach § 9c Absatz 7 der Bundesärzteordnung
+
+(1) Die Eignungsprüfung nach § 9c der Bundesärzteordnung bezieht
+sich auf die Fächer einschließlich der Querschnittsbereiche, in denen
+die zuständige Behörde wesentliche Unterschiede nach § 38 Absatz
+2 Satz 1 Nummer 2 festgestellt hat. In der Eignungsprüfung hat der
+Antragsteller an praktischen Aufgaben nachzuweisen, dass er in diesen
+Fächern einschließlich der Querschnittsbereiche über die Kenntnisse
+und Fähigkeiten, auch in der ärztlichen Gesprächsführung, verfügt, die
+zur Ausübung des ärztlichen Berufs erforderlich sind.
 
 (2) Die Eignungsprüfung ist eine mündlich-praktische Prüfung mit
 Patientenvorstellung, die an einem Tag stattfindet. Die Prüfung
@@ -1747,19 +2060,18 @@ gleichzeitig geprüft werden. Die Dauer der Prüfung ist abhängig
 vom Umfang der festgestellten wesentlichen Unterschiede. Sie dauert
 für jeden Antragsteller mindestens 30, höchstens 90 Minuten. Die
 Patientenvorstellung kann auch mit Hilfe von Simulationspatienten und
-Simulationspatientinnen, in begründeten Einzelfällen auch mit Hilfe
-von Simulatoren, Modellen oder Medien durchgeführt werden. § 11a gilt
+Simulationspatientinnen oder auch mit Hilfe von Simulatoren, Modellen
+oder anderen geeigneten Anwendungen durchgeführt werden. § 11a gilt
 entsprechend.
 
 (3) Die Länder können zur Durchführung der Prüfungen die regulären
 Prüfungstermine der staatlichen Prüfung nach § 16 Absatz 1 Satz 2
 nutzen; sie haben dabei sicherzustellen, dass die Antragsteller die
-Prüfungen innerhalb von sechs Monaten nach der Entscheidung nach §
-3 Absatz 2 Satz 8 der Bundesärzteordnung ablegen können. Die nach
-§ 12 Absatz 3 der Bundesärzteordnung zuständige Behörde des Landes
-stellt dem Antragsteller die Ladung zur Eignungsprüfung spätestens
-fünf Kalendertage vor dem Prüfungstermin zu. Die §§ 18 und 19 gelten
-entsprechend.
+Prüfungen innerhalb von sechs Monaten nach der Entscheidung nach
+§ 38 ablegen können. Die nach § 12 Absatz 3 der Bundesärzteordnung
+zuständige Behörde des Landes stellt dem Antragsteller die Ladung zur
+Eignungsprüfung spätestens fünf Kalendertage vor dem Prüfungstermin
+zu. Die §§ 18 und 19 gelten entsprechend.
 
 (4) Die Eignungsprüfung wird in Form einer staatlichen Prüfung
 vor einer staatlichen Prüfungskommission in deutscher Sprache
@@ -1801,173 +2113,410 @@ zu unterzeichnende Niederschrift nach dem Muster der Anlage 18 zu
 dieser Verordnung anzufertigen, aus der der Gegenstand der Prüfung,
 das Bestehen oder Nichtbestehen der Prüfung, die hierfür tragenden
 Gründe sowie etwa vorkommende schwere Unregelmäßigkeiten ersichtlich
-sind. Der Vorsitzende der Prüfungskommission leitet die Niederschrift
-der nach § 12 Absatz 3 der Bundesärzteordnung zuständigen Behörde des
-Landes zu.
+sind. Die Niederschrift kann in schriftlicher oder elektronischer
+Form erfolgen. Der Vorsitzende der Prüfungskommission leitet
+die Niederschrift der nach § 12 Absatz 3 der Bundesärzteordnung
+zuständigen Behörde des Landes zu.
 
 
-### § 37 Kenntnisprüfung nach § 3 Absatz 3 Satz 3 der Bundesärzteordnung
+#### § 37 Kenntnisprüfung nach § 9d Absatz 2 und 3 der Bundesärzteordnung
 
-(1) Die Prüfung bezieht sich auf die Fächer Innere Medizin
-und Chirurgie. Die Fragestellungen sollen ergänzend folgende
-Aspekte berücksichtigen: Notfallmedizin, Klinische Pharmakologie/
-Pharmakotherapie, Bildgebende Verfahren, Strahlenschutz, Rechtsfragen
-der ärztlichen Berufsausübung. Zusätzlich kann die zuständige Behörde
-in dem Bescheid nach § 3 Absatz 2 Satz 8 der Bundesärzteordnung ein
-Fach oder einen Querschnittsbereich als prüfungsrelevant festlegen,
-in dem sie wesentliche Unterschiede festgestellt hat und das oder
-der von den in Satz 1 und 2 aufgeführten Prüfungsthemen nicht umfasst
-ist. Die Prüfung erstreckt sich dann zusätzlich auch auf dieses Fach
-oder diesen Querschnittsbereich. Die Fragestellungen sind zunächst
-auf die Patientenvorstellung zu beziehen. Dann sind dem Antragsteller
-fächerübergreifend weitere praktische Aufgaben mit Schwerpunkt
-auf den für den ärztlichen Beruf wichtigsten Krankheitsbildern und
-Gesundheitsstörungen zu stellen. In der Prüfung hat der Antragsteller
-fallbezogen zu zeigen, dass er über die Kenntnisse und Fähigkeiten,
-auch in der ärztlichen Gesprächsführung, verfügt, die zur Ausübung des
-Berufs des Arztes erforderlich sind.
+(1) In der Kenntnisprüfung hat der Antragsteller nachzuweisen,
+dass er über die Kenntnisse und Fähigkeiten verfügt, die zur
+eigenverantwortlichen und selbständigen Ausübung des ärztlichen Berufs
+erforderlich sind.
 
-(2) Die Kenntnisprüfung nach § 3 Absatz 3 Satz 3 der
-Bundesärzteordnung ist eine mündlich-praktische Prüfung mit
-Patientenvorstellung, die an einem Tag stattfindet. Sie dauert bei
-maximal vier Antragstellern für jeden Antragsteller mindestens 60,
-höchstens 90 Minuten. Die Patientenvorstellung kann auch mit Hilfe
-von Simulationspatienten und Simulationspatientinnen, in begründeten
-Einzelfällen auch mit Hilfe von Simulatoren, Modellen oder Medien
-durchgeführt werden. § 11a gilt entsprechend.
+(2) Die Kenntnisprüfung ist eine mündlich-praktische Prüfung, der
+eine patientenbezogene Prüfungsvorbereitung vorangestellt ist. Sie
+wird in Form einer staatlichen Prüfung vor einer staatlich bestellten
+Prüfungskommission in deutscher Sprache abgelegt. Die Kenntnisprüfung
+und die patientenbezogene Prüfungsvorbereitung finden an einem Tag
+statt.
 
-(3) Die Länder können zur Durchführung der Prüfungen die regulären
-Prüfungstermine der staatlichen Prüfung nach § 16 Absatz 1 Satz
-2 nutzen; sie haben dabei sicherzustellen, dass die Antragsteller
-die Prüfungen innerhalb von sechs Monaten nach der Entscheidung
-nach § 3 Absatz 3 Satz 2 in Verbindung mit Absatz 2 Satz 8 der
-Bundesärzteordnung ablegen können. Die nach § 12 Absatz 3 der
-Bundesärzteordnung zuständige Behörde des Landes stellt dem
-Antragsteller die Ladung zur Kenntnisprüfung spätestens fünf
-Kalendertage vor dem Prüfungstermin zu. Die §§ 18 und 19 gelten
-entsprechend.
+(3) Inhalt der Kenntnisprüfung sind die Fächer Innere Medizin und
+Chirurgie. Inhalte der Kenntnisprüfung sind außerdem
 
-(4) Die Kenntnisprüfung wird in Form einer staatlichen Prüfung
-vor einer staatlichen Prüfungskommission in deutscher Sprache
-abgelegt. Die Prüfungskommission wird von der nach § 12 Absatz 3
-der Bundesärzteordnung zuständigen Behörde des Landes bestellt. Die
-Prüfungskommission besteht aus dem Vorsitzenden und zwei weiteren
-Mitgliedern. Für den Vorsitzenden und die weiteren Mitglieder sind
-Stellvertreter zu bestellen. Als Vorsitzende, weitere Mitglieder
-und Stellvertreter werden Professoren oder andere Lehrkräfte der
-Fächer, die Gegenstand der Prüfung sind, bestellt. Stattdessen
-können als Mitglieder der Prüfungskommission auch dem Lehrkörper
-einer Universität nicht angehörende Fachärzte bestellt werden. Der
-Vorsitzende der Prüfungskommission leitet die Prüfung und muss selbst
-prüfen. § 15 Absatz 3, 5 Satz 1 und Absatz 6 gilt entsprechend.
+1.  die Notfallmedizin,
 
-(5) Die Prüfungskommission hat dem Antragsteller vor dem
-Prüfungstermin einen oder mehrere Patienten mit Bezug zu den
-in Absatz 1 genannten Fächern und Querschnittsbereichen sowie
-versorgungsrelevanten Erkrankungen zur Anamneseerhebung und
-Untersuchung unter Aufsicht eines Mitglieds der Prüfungskommission
-zuzuweisen. Der Antragsteller hat über den Patienten einen Bericht
-zu fertigen, der Anamnese, Diagnose, Prognose, Behandlungsplan
-sowie eine Epikrise des Falles enthält. Der Bericht ist unverzüglich
-nach Fertigstellung von einem Mitglied der Prüfungskommission
-gegenzuzeichnen und beim Prüfungstermin vorzulegen. Er ist Gegenstand
-der Prüfung und in die Bewertung einzubeziehen.
+2.  die klinische Pharmakologie und Pharmakotherapie,
 
-(6) Die Kenntnisprüfung ist erfolgreich abgeschlossen, wenn die
-Prüfungskommission in einer Gesamtbetrachtung die Patientenvorstellung
-nach Absatz 5 und die Leistungen in den in Absatz 1 genannten Fächern
-und Querschnittsbereichen als bestanden bewertet. Das Bestehen der
-Prüfung setzt mindestens voraus, dass die Leistung trotz ihrer Mängel
-noch den Anforderungen genügt. § 15 Absatz 9 gilt entsprechend.
+3.  bildgebende Verfahren,
 
-(7) Die Kenntnisprüfung soll mindestens zweimal jährlich angeboten
+4.  der Strahlenschutz,
+
+5.  der rechtliche Rahmen der ärztlichen Berufsausübung und
+
+6.  die ärztliche Gesprächsführung einschließlich der Gestaltung einer
+    vertrauensvollen Arzt-Patienten-Beziehung sowie eine professionelle
+    und adressatengerechte Kommunikation mit Angehörigen des Patienten
+    sowie Angehörigen anderer Gesundheitsberufe.
+
+(4) Die patientenbezogene Prüfungsvorbereitung besteht aus einer
+Anamneseerhebung, einer Patientenuntersuchung sowie der Erstellung
+eines schriftlichen Berichts. Sie findet unter Aufsicht eines Prüfers
+statt. Die Erstellung eines schriftlichen Berichts kann auch durch
+eine andere Person beaufsichtigt werden. Die Prüfungskommission hat
+dem Antragsteller für die patientenbezogene Prüfungsvorbereitung
+einen Patienten oder Simulationspatienten mit Bezug zu einem der in
+Absatz 3 Satz 1 genannten Fächer zuzuweisen. Die Anamneseerhebung
+und die Patientenuntersuchung dauern höchstens 20 Minuten. Der
+Antragsteller erhält im Vorfeld der Untersuchung keine Einsicht in die
+Patientenakte. Im Anschluss an die Anamneseerhebung und Untersuchung
+hat der Antragsteller einen schriftlichen Bericht zu erstellen, der
+Anamnese, Diagnose, Prognose, Behandlungsplan sowie eine Epikrise
+des Falls enthält. Hierfür erhält er die Teile der Patientenakte, die
+nicht Anamnese, Diagnose, Prognose, Behandlungsplan sowie Epikrise des
+Falls enthalten. Für die Erstellung des Berichts stehen höchstens 30
+Minuten zur Verfügung. Er ist unverzüglich nach Fertigstellung von der
+Aufsicht gegenzuzeichnen und in der Kenntnisprüfung vorzulegen.
+
+(5) In der Kenntnisprüfung hat der Antragsteller zunächst das
+Ergebnis der patientenbezogenen Prüfungsvorbereitung vorzustellen. Die
+Fragestellungen der Kenntnisprüfung erstrecken sich zunächst hierauf
+sowie auf den dazu angefertigten Bericht. Die Prüfungskommission
+kann dafür die Anwesenheit des Patienten vorsehen. Die weiteren
+Fragestellungen und praktischen Aufgaben der Kenntnisprüfung
+umfassen die in Absatz 3 genannten Fächer und Inhalte mit Schwerpunkt
+auf den für die Versorgung relevanten Krankheitsbildern und
+Gesundheitsstörungen. Besondere Aspekte der verschiedenen Alters- und
+Patientengruppen sind in die Fragestellungen und praktischen Aufgaben
+angemessen einzubeziehen.
+
+(6) Bei der patientenbezogene Prüfungsvorbereitung und bei der
+Kenntnisprüfung können Simulationspatienten, Simulatoren, Modelle oder
+andere geeignete Anwendungen eingesetzt werden.
+
+(7) Die Kenntnisprüfung wird vor einer Prüfungskommission abgelegt.
+Mitglieder der Prüfungskommission sind der Vorsitzende und zwei
+weitere Mitglieder. Für die Mitglieder der Prüfungskommission sind
+Stellvertreter zu bestellen. Der Vorsitzende der Prüfungskommission
+leitet die Prüfung und muss selbst prüfen. § 15 Absatz 2 Satz 2 und
+3 und Absatz 3 Satz 1 gilt entsprechend. Die nach § 12 Absatz 2a Satz
+1 und 2 der Bundesärzteordnung zuständige Behörde des Landes bestellt
+die Prüfungskommission und legt den Prüfungsvorsitz fest.
+
+(8) Als Mitglieder der Prüfungskommission werden Professoren, andere
+Lehrkräfte der Universität oder dem Lehrkörper einer Universität nicht
+angehörende Fachärzte der Fächer nach Absatz 3 Satz 1 oder aus einem
+anderen Gebiet der unmittelbaren Patientenversorgung bestellt. Eine
+prüfende Person muss einem der Fächer nach Absatz 3 Satz 1 angehören.
+§ 15 Absatz 5 Satz 1 und Absatz 6 gilt entsprechend.
+
+(9) Die Länder können zur Durchführung der Prüfungen die regulären
+Prüfungstermine der staatlichen Prüfung nach § 16 Absatz 1 Satz 2
+nutzen; sie haben dabei sicherzustellen, dass die Antragsteller die
+Prüfungen innerhalb von sechs Monaten, im Fall von § 9d Absatz 2 der
+Bundesärzteordnung nach Antragstellung oder im Fall von § 9d Absatz
+3 der Bundesärzteordnung nach der Entscheidung nach § 38, ablegen
+können. Die zuständige Behörde stellt dem Antragsteller die Ladung zur
+Kenntnisprüfung spätestens fünf Kalendertage vor dem Prüfungstermin
+zu. Die §§ 11a, 18 und 19 gelten entsprechend.
+
+(10) In der Kenntnisprüfung können höchstens vier Antragsteller
+gleichzeitig geprüft werden. Die Kenntnisprüfung dauert für jeden
+Antragsteller mindestens 60, höchstens 90 Minuten.
+
+(11) Die Prüfungskommission bewertet die Leistungen in der
+Kenntnisprüfung einschließlich des Berichts. Bei der Bewertung
+des Berichts sind auch Aufbau, Struktur und Verständlichkeit zu
+berücksichtigen. Die Kenntnisprüfung ist erfolgreich abgeschlossen,
+wenn die Prüfungskommission in einer Gesamtbetrachtung die Leistungen
+in der Kenntnisprüfung einschließlich des Berichts als bestanden
+bewertet. Das Bestehen der Prüfung setzt mindestens voraus, dass
+die Leistung trotz ihrer Mängel noch den Anforderungen nach Absatz 1
+genügt. § 15 Absatz 9 Satz 3 gilt entsprechend.
+
+(12) Die Kenntnisprüfung soll mindestens zweimal jährlich angeboten
 werden. Sie kann zweimal wiederholt werden. Über den Verlauf
 der Prüfung jedes Antragstellers ist eine von allen Mitgliedern
-der Prüfungskommission zu unterzeichnende Niederschrift nach
-dem Muster der Anlage 19 zu dieser Verordnung anzufertigen, aus
-der der Gegenstand der Prüfung, das Bestehen oder Nichtbestehen
-der Prüfung, die hierfür tragenden Gründe sowie etwa vorkommende
-schwere Unregelmäßigkeiten ersichtlich sind. Der Vorsitzende der
-Prüfungskommission leitet die Niederschrift der nach § 12 Absatz 3 der
-Bundesärzteordnung zuständigen Behörde des Landes zu.
+der Prüfungskommission zu unterzeichnende Niederschrift nach dem
+Muster der Anlage 19 zu dieser Verordnung anzufertigen, aus der
+der Gegenstand der Prüfung, das Bestehen oder Nichtbestehen der
+Prüfung, die hierfür tragenden Gründe sowie etwa vorkommende schwere
+Unregelmäßigkeiten ersichtlich sind. Die Niederschrift kann in
+schriftlicher oder elektronischer Form erfolgen. Der Vorsitzende der
+Prüfungskommission leitet die Niederschrift der nach § 12 Absatz 2a
+der Bundesärzteordnung zuständigen Behörde des Landes zu.
 
 
-### § 38 Bescheid nach § 3 Absatz 2 Satz 8 und Absatz 3 Satz 2 der Bundesärzteordnung
+#### § 37a Mitteilungspflichten bei Nichtbestehen der Kenntnisprüfung
 
-Der Bescheid nach § 3 Absatz 2 Satz 8 und Absatz 3 Satz 2 der
-Bundesärzteordnung enthält folgende Angaben:
+(1) Die nach Landesrecht zuständigen Stellen unterrichten die
+nach Landesrecht zuständigen Stellen der anderen Länder, wenn die
+Kenntnisprüfung von einem Antragsteller nach zweimaliger Wiederholung
+nicht bestanden worden ist.
+
+(2) Die nach Landesrecht zuständigen Stellen unterrichten die
+Antragsteller über jede Mitteilung nach Absatz 1.
+
+(3) Die Mitteilungen nach den Absätzen 1 und 2 können schriftlich oder
+elektronisch erfolgen.
+
+
+#### § 38 Bescheid bei Feststellung wesentlicher Unterschiede nach § 9c Absatz 5 der Bundesärzteordnung
+
+(1) Stellt die zuständige Behörde hinsichtlich der Gleichwertigkeit
+der Berufsqualifikation wesentliche Unterschiede fest, so erteilt sie
+dem Antragsteller einen rechtsmittelfähigen Bescheid.
+
+(2) Der Bescheid enthält folgende Angaben:
 
 1.  das Niveau der in Deutschland verlangten Qualifikation und das
     Niveau der von den Antragstellern vorgelegten Qualifikation gemäß der
-    Klassifizierung in Artikel 11 der Richtlinie 2005/36/EG in der jeweils
-    geltenden Fassung,
+    Klassifizierung in Artikel 11 der Richtlinie 2005/36/EG,
 
 2.  die Fächer einschließlich der Querschnittsbereiche, bei denen
-    wesentliche Unterschiede festgestellt wurden, dabei ist auch
-    anzugeben, welche Fächer oder Querschnittsbereiche für die Prüfung
-    nach § 37 Absatz 1 Satz 2 relevant sind,
+    wesentliche Unterschiede festgestellt wurden,
 
 3.  eine inhaltliche Erläuterung der wesentlichen Unterschiede sowie die
     Begründung, warum diese dazu führen, dass der Antragsteller nicht in
     ausreichender Form über die in Deutschland zur Ausübung des ärztlichen
-    Berufs notwendigen Kenntnisse und Fähigkeiten verfügt, und
+    Berufs notwendigen Kenntnisse und Fähigkeiten verfügt,
 
 4.  eine Begründung, warum die wesentlichen Unterschiede nicht durch
-    Kenntnisse und Fähigkeiten ausgeglichen werden konnten, die
-    der Antragsteller im Rahmen seiner ärztlichen Berufspraxis der
-    durch lebenslanges Lernen im Sinne des § 3 Absatz 2 Satz 5 der
-    Bundesärzteordnung erworben hat.
+    Kenntnisse und Fähigkeiten ausgeglichen werden konnten, die der
+    Antragsteller im Rahmen seiner ärztlichen Berufspraxis oder durch
+    lebenslanges Lernen erworben hat, und
+
+5.  die erforderliche Anpassungsmaßnahme nach den §§ 36 oder 37.
+
+(3) Der Bescheid ist dem Antragsteller spätestens vier Monate, nachdem
+der zuständigen Behörde alle erforderlichen Unterlagen vorliegen, zu
+erteilen. Im Fall des § 81a des Aufenthaltsgesetzes soll der Bescheid
+innerhalb von zwei Monaten erteilt werden.
 
 
-### § 39 Antrag auf Approbation
+#### § 39 Antrag auf Erteilung einer Approbation
 
-(1) Der Antrag auf die Approbation als Arzt ist an die zuständige
-Stelle des Landes zu richten, in dem der Antragsteller den Dritten
-Abschnitt der Ärztlichen Prüfung bestanden hat. Dem Antrag sind
-beizufügen:
+(1) Der Antrag auf Erteilung einer Approbation als Arzt ist an die
+nach § 12 der Bundesärzteordnung zuständige Behörde zu richten.
+
+(2) Der Antrag kann schriftlich oder elektronisch gestellt werden.
+
+
+#### § 39a Erforderliche Unterlagen bei einem Antrag auf Erteilung einer Approbation aufgrund einer in Deutschland erworbenen Berufsqualifikation
+
+(1) Dem Antrag auf Erteilung einer Approbation als Arzt aufgrund einer
+in Deutschland erworbenen Berufsqualifikation sind beizufügen:
 
 1.  ein kurz gefasster Lebenslauf,
 
-2.  die Geburtsurkunde, bei Verheirateten auch die Eheurkunde,
+2.  ein Identitätsnachweis,
 
-3.  ein Identitätsnachweis,
+3.  ein Führungszeugnis,
 
-4.  ein amtliches Führungszeugnis, das nicht früher als einen Monat vor
-    der Vorlage ausgestellt sein darf,
+4.  eine Erklärung des Antragstellers darüber, ob gegen ihn ein
+    gerichtliches Strafverfahren oder ein staatsanwaltschaftliches
+    Ermittlungsverfahren anhängig ist,
 
-5.  eine Erklärung darüber, ob gegen den Antragsteller ein gerichtliches
-    Strafverfahren oder ein staatsanwaltschaftliches Ermittlungsverfahren
-    anhängig ist,
+5.  eine ärztliche Bescheinigung, aus der hervorgeht, dass der
+    Antragsteller nicht in gesundheitlicher Hinsicht zur Ausübung des
+    ärztlichen Berufs ungeeignet ist, und
 
-6.  eine ärztliche Bescheinigung, die nicht älter als einen Monat
-    sein darf, aus der hervorgeht, dass der Antragsteller nicht in
-    gesundheitlicher Hinsicht zur Ausübung des Berufs ungeeignet ist und
+6.  das Zeugnis über die Ärztliche Prüfung.
 
-7.  das Zeugnis über die Ärztliche Prüfung.
-
-8.  (weggefallen)
-
-(2) Soweit die Nachweise nicht in deutscher Sprache ausgestellt
-sind, sind sie zusätzlich in beglaubigter Übersetzung vorzulegen.
-Die zuständige Stelle des Landes kann die Vorlage weiterer Nachweise,
-insbesondere über eine bisherige Tätigkeit, verlangen.
-
-(3) (weggefallen)
-
-(4) (weggefallen)
-
-(5) Über den Antrag nach § 3 Absatz 1 der Bundesärzteordnung ist
-kurzfristig, spätestens drei Monate nach Vorlage der nach den Absätzen
-1 und 2 sowie § 3 Absatz 6 der Bundesärzteordnung vom Antragsteller
-vorzulegenden Unterlagen, zu entscheiden. Im Fall des § 81a des
-Aufenthaltsgesetzes soll die Entscheidung innerhalb von zwei Monaten
-erfolgen. Die zuständige Behörde bestätigt den Antragstellern nach
-§ 3 Absatz 1 bis 3 und § 14b der Bundesärzteordnung binnen eines
-Monats nach Eingang des Antrags den Antragseingang und den Empfang der
-Unterlagen und teilt ihm mit, welche Unterlagen fehlen.
+(2) Das Führungszeugnis und die ärztliche Bescheinigung werden nur
+anerkannt, wenn sie im Zeitpunkt ihres Eingangs bei der jeweils
+zuständigen Behörde nicht älter als einen Monat sind.
 
 
-### § 40 Approbationsurkunde
+#### § 39b Erforderliche Unterlagen bei Anträgen nach § 9c Absatz 1 und 2 der Bundesärzteordnung
+
+(1) Dem Antrag auf Erteilung einer Approbation als Arzt nach §
+9c Absatz 1 und 2 der Bundesärzteordnung aufgrund einer außerhalb
+Deutschlands erworbenen Berufsqualifikation sind beizufügen:
+
+1.  ein Identitätsnachweis,
+
+2.  ein Lebenslauf, der eine tabellarische Aufstellung der absolvierten
+    Ausbildungsgänge und der ausgeübten Erwerbstätigkeiten enthält,
+
+3.  ein Befähigungsnachweis oder ein Ausbildungsnachweis, der zur Aufnahme
+    des ärztlichen Berufs berechtigt,
+
+4.  eine Erklärung des Antragstellers darüber, dass er zum Zeitpunkt
+    der Antragstellung nicht Beteiligter eines Verfahrens auf Erteilung
+    der Approbation oder der Berufserlaubnis in einem anderen Land im
+    Geltungsbereich dieser Verordnung ist, und
+
+5.  Nachweise über das Vorliegen der Voraussetzungen nach § 3 Absatz 1
+    Satz 1 Nummer 2, 3 und 5 der Bundesärzteordnung.
+
+(2) Im Fall von § 9c Absatz 2 der Bundesärzteordnung ist zusätzlich
+zu den Ausbildungsnachweisen eine Bescheinigung der zuständigen
+Stelle des Herkunftsstaats darüber, dass die Ausbildung den
+Mindestanforderungen des Artikels 24 der Richtlinie 2005/36/EG
+entspricht, und dass die Ausbildungsnachweise den für diesen Staat
+im Anhang V 5.1.1. der Richtlinie 2005/36/EG aufgeführten Nachweisen
+gleichstehen, beizufügen.
+
+
+#### § 39c Erforderliche Unterlagen bei Anträgen nach § 9d Absatz 2 der Bundesärzteordnung
+
+Dem Antrag auf Erteilung einer Approbation als Arzt nach § 9d Absatz
+2 der Bundesärzteordnung sind folgende Unterlagen und Bescheinigungen
+beizufügen:
+
+1.  ein Identitätsnachweis,
+
+2.  ein Lebenslauf, der eine tabellarische Aufstellung der absolvierten
+    Ausbildungsgänge und der ausgeübten Erwerbstätigkeiten enthält,
+
+3.  ein Befähigungsnachweis oder ein Ausbildungsnachweis, der zur Aufnahme
+    des ärztlichen Berufs berechtigt,
+
+4.  eine Bescheinigung über die Berechtigung zur Berufsausübung in dem
+    Staat, in dem die Berufsqualifikation erworben worden ist,
+
+5.  eine Erklärung des Antragstellers darüber, dass er zum Zeitpunkt
+    der Antragstellung nicht Beteiligter eines Verfahrens auf Erteilung
+    der Approbation oder der Berufserlaubnis in einem anderen Land im
+    Geltungsbereich dieser Verordnung ist, und
+
+6.  Nachweise über das Vorliegen der Voraussetzungen nach § 3 Absatz 1
+    Satz 1 Nummer 2, 3 und 5 der Bundesärzteordnung.
+
+
+#### § 39d Erforderliche Unterlagen bei Anträgen nach § 9c Absatz 4 oder § 9d Absatz 3 der Bundesärzteordnung
+
+Dem Antrag auf Erteilung einer Approbation als Arzt nach § 9c Absatz 4
+oder § 9d Absatz 3 der Bundesärzteordnung sind folgende Unterlagen und
+Bescheinigungen beizufügen:
+
+1.  ein Identitätsnachweis,
+
+2.  ein Lebenslauf, der eine tabellarische Aufstellung der absolvierten
+    Ausbildungsgänge und der ausgeübten Erwerbstätigkeiten enthält,
+
+3.  ein Befähigungsnachweis oder einen Ausbildungsnachweis, der zur
+    Aufnahme des ärztlichen Berufs berechtigt,
+
+4.  falls vorhanden, eine Bescheinigung über die erworbene
+    Berufserfahrung,
+
+5.  bei einer in einem Drittstaat erworbenen Berufsqualifikation eine
+    Bescheinigung über die Berechtigung zur Berufsausübung in diesem
+    Staat,
+
+6.  zusätzliche Nachweise, um feststellen zu können, ob die Ausbildung
+    wesentliche Unterschiede gegenüber der Ausbildung aufweist, die in der
+    Bundesärzteordnung und in dieser Rechtsverordnung geregelt ist,
+
+7.  für den Fall, dass sich Ausbildungsnachweise nach Artikel 3 Absatz 1
+    Buchstabe c der Richtlinie 2005/36/EG, die von der zuständigen Behörde
+    eines anderen Mitgliedstaats, eines anderen Vertragsstaats oder
+    eines gleichgestellten Staats ausgestellt wurden, auf eine Ausbildung
+    beziehen, die ganz oder teilweise in einer rechtmäßig im Hoheitsgebiet
+    eines anderen der oben genannten Staaten niedergelassenen Einrichtung
+    absolviert wurde, Unterlagen darüber,
+
+    a)  ob der Ausbildungsgang in der betreffenden Einrichtung von der
+        Ausbildungseinrichtung des ausstellenden Staats offiziell bescheinigt
+        worden ist,
+
+    b)  ob der ausgestellte Ausbildungsnachweis dem entspricht, der verliehen
+        worden wäre, wenn der Ausbildungsgang vollständig im ausstellenden
+        Staat absolviert worden wäre, und
+
+    c)  ob mit dem Ausbildungsnachweis im Hoheitsgebiet des ausstellenden
+        Staats dieselben beruflichen Rechte verliehen werden,
+
+8.  eine Erklärung des Antragstellers darüber, dass er zum Zeitpunkt
+    der Antragstellung nicht Beteiligter eines Verfahrens auf Erteilung
+    der Approbation oder der Berufserlaubnis in einem anderen Land im
+    Geltungsbereich dieser Verordnung ist, und
+
+9.  Nachweise über das Vorliegen der Voraussetzungen nach § 3 Absatz 1
+    Satz 1 Nummer 2, 3 und 5 der Bundesärzteordnung.
+
+
+#### § 39e Nachweis über das Vorliegen der Voraussetzungen nach § 3 Absatz 1 Satz 1 Nummer 2 und 3 der Bundesärzteordnung durch Antragsteller mit einer außerhalb Deutschlands abgeschlossenen Berufsqualifikation
+
+(1) Dem Antrag auf Erteilung einer Approbation als Arzt durch
+Antragsteller mit einer außerhalb Deutschlands abgeschlossenen
+Berufsqualifikation sind zum Nachweis über das Vorliegen der
+Voraussetzungen nach § 3 Absatz 1 Satz 1 Nummer 2 und 3 der
+Bundesärzteordnung folgende Unterlagen und Bescheinigungen beizufügen:
+
+1.  ein Nachweis über das Vorliegen der Voraussetzung nach § 3 Absatz 1
+    Satz 1 Nummer 2 der Bundesärzteordnung
+
+    a)  durch ein Führungszeugnis und
+
+    b)  durch Unterlagen, die von den zuständigen Behörden des Staats, in dem
+        die Berufsqualifikation erworben worden ist, ausgestellt wurden oder,
+
+    c)  wenn in dem Staat, in dem die Berufsqualifikation erworben worden
+        ist, die vorgenannten Unterlagen nicht ausgestellt werden, durch
+        eine eidesstattliche Erklärung nach dem Recht des Staats, in dem
+        die Berufsqualifikation erworben worden ist, oder in den Staaten, in
+        denen es keine eidesstattliche Erklärung gibt, durch eine feierliche
+        Erklärung, die der Antragsteller vor einer zuständigen Justiz-
+        oder Verwaltungsbehörde oder gegebenenfalls vor einem Notar oder
+        einer entsprechend bevollmächtigten Berufsorganisation des Staats,
+        in dem die Berufsqualifikation erworben worden ist, der eine diese
+        eidesstattliche oder feierliche Erklärung bestätigende Bescheinigung
+        ausstellt, abgegeben hat oder,
+
+    d)  sofern ein Nachweis nach den Buchstaben b oder c aus Gründen, die
+        nicht in der Person des Antragstellers liegen, nicht vorgelegt werden
+        kann, eine Versicherung an Eides statt nach deutschem Recht, und
+
+2.  ein Nachweis über das Vorliegen der Voraussetzung nach § 3 Absatz 1
+    Satz 1 Nummer 3 der Bundesärzteordnung
+
+    a)  durch eine ärztliche Bescheinigung, aus der hervorgeht, dass die
+        antragstellende Person nicht in gesundheitlicher Hinsicht zur Ausübung
+        des Berufs ungeeignet ist, oder,
+
+    b)  sofern sich der Wohnsitz des Antragstellers im Ausland befindet, den
+        Nachweis der in dem Staat, in dem die Berufsqualifikation erworben
+        worden ist, bei Aufnahme des Berufs als Nachweis über die körperliche
+        und geistige Gesundheit der antragstellenden Person gefordert wird
+        oder,
+
+    c)  wenn in dem Staat, in dem die Berufsqualifikation erworben worden ist,
+        kein derartiger Nachweis verlangt wird, eine von einer zuständigen
+        Behörde des Staats, in dem die Berufsqualifikation erworben worden
+        ist, ausgestellte vergleichbare Bescheinigung.
+
+(2) Die Nachweise nach Absatz 1 dürfen bei ihrer Vorlage jeweils nicht
+älter als drei Monate sein.
+
+(3) Hat die zuständige Behörde berechtigte Zweifel an der Echtheit
+der in dem jeweiligen Staat, in dem die Berufsqualifikation erworben
+worden ist, ausgestellten Unterlagen nach Absatz 1, so kann sie von
+der zuständigen Behörde des Staats, in dem die Berufsqualifikation
+erworben worden ist, eine Bestätigung der Echtheit verlangen.
+
+(4) Hat die zuständige Behörde berechtigte Zweifel an der Berechtigung
+des Antragstellers zur Ausübung des ärztlichen Berufs, so kann sie von
+der zuständigen Behörde eines anderen Staats, der darüber Erkenntnisse
+haben könnte, eine Bestätigung verlangen, aus der sich ergibt, dass
+dem Antragsteller die Ausübung des ärztlichen Berufs nicht aufgrund
+eines schwerwiegenden standeswidrigen Verhaltens oder aufgrund einer
+Verurteilung wegen strafbarer Handlungen dauerhaft oder vorübergehend
+untersagt worden ist.
+
+
+#### § 39f Entscheidung über den Antrag
+
+(1) Über den Antrag auf Erteilung der Approbation ist kurzfristig,
+spätestens drei Monate nach Vorlage der vom Antragsteller
+vorzulegenden Unterlagen, zu entscheiden. In den Fällen des §
+9c Absatz 4 und des § 9d Absatz 3 Satz 1 der Bundesärzteordnung
+verlängert sich die Frist um einen Monat.
+
+(2) Im Fall des § 81a des Aufenthaltsgesetzes soll die Entscheidung
+innerhalb von zwei Monaten erfolgen.
+
+(3) Die zuständige Behörde bestätigt den Antragstellern nach den §§
+9c, 9d und 14b der Bundesärzteordnung binnen eines Monats nach Eingang
+des Antrags den Antragseingang und den Empfang der Unterlagen und
+teilt diesen mit, welche Unterlagen fehlen.
+
+
+#### § 40 Approbationsurkunde
 
 Die Approbationsurkunde wird nach dem Muster der Anlage 14 zu
 dieser Verordnung ausgestellt. Sie ist dem Antragsteller gegen
@@ -1975,7 +2524,7 @@ Empfangsbekenntnis auszuhändigen oder mit Zustellungsurkunde
 zuzustellen.
 
 
-## Sechster Abschnitt - Modellstudiengang
+## Fünfter Abschnitt - Modellstudiengang
 
 
 ### § 41 Modellstudiengang
@@ -2050,17 +2599,22 @@ dem Ersten Abschnitt der Ärztlichen Prüfung gleichwertigen Prüfungen
 getrennt aufgeführt werden.
 
 
-## Siebenter Abschnitt - Übergangsregelungen
+## Sechster Abschnitt - Übergangsregelungen
 
 
 ### § 42 Anwendung bisherigen Rechts
 
-Die Approbationsordnung für Ärzte in der Fassung der Bekanntmachung
-vom 14. Juli 1987 (BGBl. I S. 1593), zuletzt geändert durch Artikel
-8 des Gesetzes vom 27. April 2002 (BGBl. I S. 1467), findet, soweit
-in den nachfolgenden Vorschriften nichts Abweichendes bestimmt ist,
-Anwendung für Studierende, die vor dem 1. Oktober 2003 ihr Studium der
-Medizin bereits aufgenommen haben.
+(1) Die Approbationsordnung für Ärzte in der Fassung der
+Bekanntmachung vom 14. Juli 1987 (BGBl. I S. 1593), die zuletzt durch
+Artikel 8 des Gesetzes vom 27. April 2002 (BGBl. I S. 1467) geändert
+worden ist, findet, soweit in den nachfolgenden Vorschriften nichts
+Abweichendes bestimmt ist, Anwendung auf Studierende, die vor dem 1.
+Oktober 2003 ihr Studium der Medizin bereits aufgenommen haben.
+
+(2) Die Approbationsordnung für Ärzte in der am 31. Oktober 2026
+geltenden Fassung findet weiter Anwendung auf Personen, die bis
+zum Ablauf des 31. Oktober 2026 einen Antrag auf Erteilung einer
+Approbation als Arzt oder einer Erlaubnis gestellt haben.
 
 
 ### § 43 Abweichende Regelungen für die Prüfungen
@@ -2217,7 +2771,7 @@ Prozent die durchschnittlichen Prüfungsleistungen aller Prüflinge des
 betreffenden Prüfungsdurchgangs unterschreitet.
 
 
-## Achter Abschnitt - Schlussbestimmungen
+## Siebenter Abschnitt - Schlussbestimmungen
 
 
 ### § 44 Inkrafttreten, Außerkrafttreten
@@ -2499,8 +3053,7 @@ angeboten werden, insbesondere in Betracht:
 
 ### Anlage 4 (zu § 3 Absatz 5 sowie § 10 Absatz 4 und 5)Bescheinigung über das Praktische Jahr
 
-(Fundstelle: BGBl. I 2012, 1549; bzgl. der einzelnen Änderungen vgl.
-Fußnote)
+(Fundstelle: BGBl. I 2026 Nr. 326, S. 14)
 
 Der/Die Studierende der Medizin
 
@@ -2519,7 +3072,9 @@ Die Ausbildung wurde in
 
 ⃞ Vollzeit
 
-⃞ Teilzeit mit einem Umfang von % der wöchentlichen Ausbildungszeit
+⃞ Teilzeit mit einem Umfang von
+
+% der wöchentlichen Ausbildungszeit
 
 durchgeführt.
 
@@ -2532,20 +3087,27 @@ Fehlzeiten:
 
 ⃞ nein
 
-⃞ | ja von: | bis: |
-    | --- | --- |
+⃞ ja von: bis:
+
+⃞ davon wegen Krankheit oder aus wichtigem Grund (durch den/die
+Studierende/n der Medizin gegenüber dem Landesprüfungsamt nachzuweisen
+bzw. glaubhaft zu machen)
+
+| von: | bis: |
+| --- | --- |
 
 ⃞ Das Krankenhaus, die ärztliche Praxis bzw. die Einrichtung der
-    ambulanten Krankenversorgung ist Lehrkrankenhaus, Lehrpraxis bzw. zur
-    Ausbildung bestimmt worden von der Universität
+ambulanten Krankenversorgung ist Lehrkrankenhaus, Lehrpraxis bzw. zur
+Ausbildung bestimmt worden von der Universität
 
 ⃞ Die Ausbildung ist an einem Krankenhaus der Universität durchgeführt
-    worden.
+worden.
 
-| Ort, Datum |
-| --- |
-| Siegel/Stempel |
-| (Unterschrift der für die Ausbildung verantwortlichen Ärzte) |
+| Ort, Datum .................................................................................................. , .................................................................................................. |  |
+| --- | --- |
+|  | .................................................................................................. |
+|  | .................................................................................................. |
+| Siegel/Stempel | (Unterschrift der für die Ausbildung verantwortlichen Ärzte) |
 
 
 ### Anlage 5 (zu § 6 Abs. 4 Satz 2)Zeugnis über den Krankenpflegedienst
@@ -2934,38 +3496,58 @@ berücksichtigen:
 -   Medizinische Begutachtung. Rechtsfragen der ärztlichen Berufsausübung.
 
 
-### Anlage 16 (zu § 34 Absatz 8)Erlaubnis nach § 10 Absatz 1 oder Absatz 1a der Bundesärzteordnung
+### Anlage 16 (zu § 34 Absatz 8, § 35 Absatz 4 Satz 2, § 35a Absatz 5)Erlaubnis nach § 10 Absatz 1, 1a oder 3a der Bundesärzteordnung
+
+(Fundstelle: BGBl. I 2026 Nr. 326, S. 15)
+
+| Herrn/Frau ........................................................................................................................................................................................................................................................................................ |  |
+| --- | --- |
+| (Vorname, Familienname – gegebenenfalls abweichender Geburtsname) |  |
+| geboren am .................................................................................................. | in ............................................................................................................. |
+| wird gemäß § 10 Absatz 1/1a/3a der Bundesärzteordnung die Erlaubnis zur Ausübung des ärztlichen Berufs in/an .................................................................................................. für die Zeit vom .................................................................................................. bis .................................................................................................. widerruflich/unbefristeterteilt. |  |
+| Nebenbestimmungen: |  |
+| ...................................................................................................................................................................................................................................................................................................... |  |
+| ...................................................................................................................................................................................................................................................................................................... |  |
+| ...................................................................................................................................................................................................................................................................................................... |  |
+| Die Erlaubnis umfasst zudem die Tätigkeit im Land ................................................................................................................................................................................................................ |  |
+| /in den Ländern ............................................................................................................................................................................................................................................................................ |  |
+| /bundesweite Tätigkeit als ............................................................................................................................................................................................................................................................................................... |  |
+
+
+### Anlage 17 (zu § 35b Absatz 3)Erlaubnis nach § 10 Absatz 5 der Bundesärzteordnung
 
 | Herrn/Frau . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  |
 | --- | --- |
 | (Vorname, Familienname – gegebenenfalls abweichender Geburtsname) |  |
 | geboren am . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | in . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |
-| wird gemäß § 10 Absatz 1/1a der Bundesärzteordnung die Erlaubnis zur vorübergehenden Ausübung des ärzt- lichen Berufs in/an . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  |
-| für die Zeit vom . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | bis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . widerruflich erteilt. |
-| Beschränkungen und Nebenbestimmungen: |  |
-| . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  |
-| . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  |
-| . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  |
-| Die Erlaubnis umfasst zudem die Tätigkeit im Land . . . . . . . . . . /in den Ländern . . . . . . . . . . /bundesweite Tätigkeit als . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  |
-| Siegel |  |
-| . . . . . . . . . . . . . . . . . . . . . . . . . . . . ., den . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  |
-| . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  |
-| (Unterschrift) |  |
-
-
-### Anlage 17 (zu § 35a Absatz 3)Erlaubnis nach § 10 Absatz 5 der Bundesärzteordnung
-
-| Herrn/Frau . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  |
-| --- | --- |
-| (Vorname, Familienname – gegebenenfalls abweichender Geburtsname) |  |
-| geboren am . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | in . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |
-| wird gemäß § 10 Absatz 5 der Bundesärzteordnung die Erlaubnis zur vorübergehenden Ausübung des ärztlichen Berufs für die Tätigkeit, die zum Abschluss der ärztlichen Ausbildung in . . . . . . . . . . . . . . . . . . . . erforderlich ist, für die Zeit vom . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . bis . . . . . . . . . . . . . . . . . . . . . . . . . widerruflich erteilt. |  |
+| wird gemäß § 10 Absatz 5 der Bundesärzteordnung die Erlaubnis zur Ausübung des ärztlichen Berufs für die Tätigkeit, die zum Abschluss der ärztlichen Ausbildung in . . . . . . . . . . . . . . . . . . . . erforderlich ist, für die Zeit vom . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . bis . . . . . . . . . . . . . . . . . . . . . . . . . widerruflich erteilt. |  |
 | Die Erlaubnis ist beschränkt auf eine nicht selbständige und nicht leitende Tätigkeit unter Aufsicht, Anleitung und Verantwortung von Ärztinnen und Ärzten, die eine Approbation oder eine unbeschränkte Berufserlaubnis besitzen. |  |
 | Die Tätigkeit darf nur in/an . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . verrichtet werden. |  |
 | Siegel |  |
 | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . , den . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  |
 | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  |
-| (Unterschrift) |  |
+| (Unterschrift oder qualifizierte elektronische Signatur) |  |
+
+
+### Anlage 17a (zu § 35g)Erlaubnis zur partiellen Berufsausübung nach § 10b der Bundesärzteordnung
+
+(Fundstelle: BGBl. I 2026 Nr. 326, S. 16)
+
+| Herrn/Frau .......................................................................................................................................................................................................................................................................................................................................... |  |
+| --- | --- |
+| (Vorname, Familienname – gegebenenfalls abweichender Geburtsname) |  |
+| geboren am ................................................................................................................................................................. | in .............................................................................................................................................................. |
+| wird gemäß § 10b der Bundesärzteordnung die Erlaubnis zur partiellen Berufsausübung erteilt. |  |
+| Die zulässige partielle Berufsausübung beschränkt sich auf folgende Tätigkeit(en) und Beschäftigungsstelle(n): |  |
+| .............................................................................................................................................................................................................................................................................................................................................................. |  |
+| Die partielle Berufsausübung erfolgt unter der Berufsbezeichnung des Staats, in dem die Berufsqualifikation erworben worden ist, sowie mit dem Hinweis auf den Namen dieses Staats und die oben genannte(n) Tätigkeit(en) und Beschäftigungsstelle(n), wie folgt: |  |
+| .............................................................................................................................................................................................................................................................................................................................................................. |  |
+| Es wird auf die Pflicht hingewiesen, den Dienstleistungsempfängern eindeutig den Umfang der beruflichen Tätigkeit anzugeben (Artikel 4f Absatz 5 Satz 3 der Richtlinie 2005/36/EG). |  |
+
+| ........................................................................................................................................................ | , den ..................................................................................................................................................................................... |
+| --- | --- |
+|  | ................................................................................................................................................................................................ |
+| Siegel | (Unterschrift oder qualifizierte elektronische Signatur) |
 
 
 ### Anlage 18 (zu § 36 Absatz 7)Niederschrift über die staatliche Eignungsprüfung nach § 36 der Approbationsordnung für Ärzte
@@ -2995,35 +3577,33 @@ berücksichtigen:
 | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  |
 | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  |
 | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  |
-| (Unterschrift/en des weiteren Mitglieds/der weiteren Mitglieder der Prüfungskommission) | (Unterschrift des/der Vorsitzenden der Prüfungskommission) |
+| (Unterschriften oder qualifizierte elektronische Signaturen der weiteren Mitglieder der Prüfungskommission) | (Unterschrift oder qualifizierte elektronische Signatur der/des  Vorsitzenden der Prüfungskommission) |
 
 
-### Anlage 19 (zu § 37 Absatz 7)Niederschrift über die staatliche Kenntnisprüfung nach § 37 der Approbationsordnung für Ärzte
+### Anlage 19 (zu § 37 Absatz 12 Satz 3)Niederschrift über die staatliche Kenntnisprüfung nach § 37 der Approbationsordnung für Ärzte
 
-| Herr/Frau . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  |
+(Fundstelle: BGBl. I 2026 Nr. 326, S. 17)
+
+| Herr/Frau ................................................................................................................................................................................................................................................................................................................... |  |
 | --- | --- |
-| geboren am . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | in . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |
-| ist am . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | in . . . . . . . . . . . . . . . . . . . . . . . . . . geprüft worden. |
-| Beginn und Ende der Einzel-/Gruppenprüfung: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  |
+| geboren am ......................................................................................................................... | in ........................................................................................................................ |
+| ist am ......................................................................................................................... | in ......................................................................................................................... geprüft worden. |
+| Beginn und Ende der Einzel-/Gruppenprüfung: ......................................................................................................................... |  |
 | Er/Sie hat die staatliche Kenntnisprüfung bestanden/nicht bestanden. |  |
-| Tragende Gründe: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  |
-| . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  |
-| Mitglieder der Prüfungskommission nach § 37 Absatz 4 der Approbationsordnung für Ärzte: |  |
-| Als Vorsitzende(r) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  |
+| Tragende Gründe: ......................................................................................................................... |  |
+| Mitglieder der Prüfungskommission nach § 37 Absatz 7 der Approbationsordnung für Ärzte: |  |
+| Als Vorsitzende(r) ......................................................................................................................... |  |
 | Als weitere Mitglieder |  |
-| . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  |
-| . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  |
-| . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  |
-| . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  |
-| Gegenstand der Prüfung: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  |
-| . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  |
+| ......................................................................................................................... |  |
+| ......................................................................................................................... |  |
+| ......................................................................................................................... |  |
+| .......................................................................................................................... |  |
+| Gegenstand der Prüfung: ......................................................................................................................... |  |
+| ......................................................................................................................... |  |
 | (Inhalt und Prüfungsablauf sind stichwortartig wiederzugeben.) |  |
-| Sonstige Bemerkungen: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  |
-| . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  |
-| . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . , den | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |
-| . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |
-| . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  |
-| . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  |
-| . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . |  |
-| (Unterschrift/en des weiteren Mitglieds/der weiteren Mitglieder der Prüfungskommission) | (Unterschrift des/der Vorsitzenden der Prüfungskommission) |
+| Sonstige Bemerkungen: ......................................................................................................................... |  |
+| ......................................................................................................................... |  |
+| ........................................................................................................................., den | ......................................................................................................................... |
+| ......................................................................................................................... | ......................................................................................................................... |
+| (Unterschrift oder qualifizierte elektronische Signatur der weiteren Mitglieder der Prüfungskommission) | (Unterschrift oder qualifizierte elektronische Signatur des/der Vorsitzenden der Prüfungskommission) |
 

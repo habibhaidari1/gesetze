@@ -34,7 +34,7 @@ Aufhebung der Verordnung (EG) 1222/2009 (ABl. L 177 vom 5.6.2020, S.
 
 ## § 2 Ordnungswidrigkeiten
 
-Ordnungswidrig im Sinne des § 15 Absatz 1 Nummer 5 des
+Ordnungswidrig im Sinne des § 15 Absatz 1 Nummer 3 des
 Energieverbrauchskennzeichnungsgesetzes handelt, wer gegen die
 Verordnung (EU) 2020/740 des Europäischen Parlaments und des Rates
 vom 25. Mai 2020 über die Kennzeichnung von Reifen in Bezug auf die

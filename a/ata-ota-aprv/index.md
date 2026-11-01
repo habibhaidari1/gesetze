@@ -575,7 +575,8 @@ Mittel aus den Zahlenwerten der drei Jahresnoten für den theoretischen
 und praktischen Unterricht zu berechnen. Die Berechnung erfolgt auf
 zwei Stellen nach dem Komma ohne Rundung. Dem berechneten Zahlenwert
 ist die entsprechende Note nach § 27 zuzuordnen. Die zugeordnete Note
-ist die Vornote für den schriftlichen Teil der staatlichen Prüfung.
+ist sowohl die Vornote für den schriftlichen Teil als auch für den
+mündlichen Teil der staatlichen Prüfung.
 
 (3) Zur Festsetzung der Vornote für den praktischen Teil der
 staatlichen Prüfung ist das arithmetische Mittel aus den Zahlenwerten
@@ -1584,7 +1585,7 @@ Prüfungsausschusses erforderlich.
     höchstens vier anästhesiologischen Situationen oder
 
 2.  im Fall einer Person, die das Führen der Berufsbezeichnung der
-    Anästhesietechnischen Assistentin oder des Anästhesietechnischen
+    Operationstechnischen Assistentin oder des Operationstechnischen
     Assistenten beantragt hat, aus mindestens zwei und höchstens vier
     operativen Situationen.
 
