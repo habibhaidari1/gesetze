@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2006, 1474
 
 Zuletzt geändert durch
-:   Art. 1 V v. 1.10.2021 I 4622
-
-Änderung durch
-:   Art. 12 Abs. 10 G v. 22.10.2026 I Nr. 318 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 12 Abs. 10 G v. 22.10.2026 I Nr. 318
 
 
 ## Eingangsformel

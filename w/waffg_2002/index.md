@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 3970 (4592) (2003 I 1957)
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 10 G v. 20.3.2026 I Nr. 95
-
-Änderung durch
-:   Art. 12 Abs. 20 G v. 22.10.2026 I Nr. 318 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 12 Abs. 20 G v. 22.10.2026 I Nr. 318
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen

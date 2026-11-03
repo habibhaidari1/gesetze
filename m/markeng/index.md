@@ -16,13 +16,10 @@ Fundstelle
 :   BGBl I: 1994, 3082 (1995 I 156; 1996, 682)
 
 Zuletzt geändert durch
-:   Art. 14 G v. 20.5.2026 I Nr. 152
-
-Änderung durch
-:   Art. 2 G v. 22.10.2026 I Nr. 322 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 22.10.2026 I Nr. 322
 
 Stand
-:   Die §§ 119 bis 125 sind gem. Bek. v. 24.4.1996 I 682 mWv 20.3.1996 in Kraft getreten.
+:   Die §§ 119 bis 125 sind gem. Bek. v. 24.4.1996 I 682 mWv 20.3.1996 in Kraft getreten
 
 
 ## Teil 1 - Anwendungsbereich

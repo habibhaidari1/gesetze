@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1984, 1429
 
 Zuletzt geändert durch
-:   Art. 296 V v. 31.8.2015 I 1474
-
-Änderung durch
-:   Art. 1 G v. 19.10.2026 I Nr. 314 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 G v. 19.10.2026 I Nr. 314
 
 
 ## § 1

@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 1483
 
+Stand
+:   Ersetzt V 806-22-1-28 v. 22.2.2007 I 186 (1202) (Brau/MälzAusbV 2007)
+
 
 ## Eingangsformel
 

@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 3.3.2010 I 254;
 
 Zuletzt geändert durch
-:   Art. 6 G v. 12.5.2026 I Nr. 139
-
-Änderung durch
-:   Art. 5 u. 6 G v. 22.10.2026 I Nr. 322 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 6 G v. 22.10.2026 I Nr. 322
 
 
 ## Kapitel 1 - Allgemeine Bestimmungen
