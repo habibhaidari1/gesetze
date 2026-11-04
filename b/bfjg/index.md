@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2006, 3171
 
 Zuletzt geändert durch
-:   Art. 3 G v. 30.9.2025 I Nr. 233
-
-Änderung durch
-:   Art. 15 Abs. 1 G v. 3.7.2026 I Nr. 199 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 15 Abs. 1 G v. 3.7.2026 I Nr. 199
 
 Änderung durch
 :   Art. 1 G v. 22.10.2026 I Nr. 320 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet

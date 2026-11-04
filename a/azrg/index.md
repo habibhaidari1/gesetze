@@ -644,8 +644,9 @@ entgegensteht. Außerdem übermitteln
     Absatz 1 Nummer 5b bis 6 und 8, Absatz 2 Nummer 1, 2 und 4 bis 8,
     Absatz 3c bis 3e,
 
-4a. die in Absatz 1 Nummer 4a bezeichneten Stellen die Daten nach Absatz 2
-    Nummer 1 bis 2, 4 bis 8, 10 und 12,
+4a. die in Absatz 1 Nummer 4a bezeichneten Stellen die Daten nach § 3
+    Absatz 1 Nummer 5b bis 5d, Absatz 2 Nummer 1 bis 2, 4 bis 8, 10 und
+    12,
 
 5.  die in Absatz 1 Nummer 3 bezeichnete Stelle die Daten nach § 3 Absatz
     1 Nummer 5b bis 5d, 6 und 8, Absatz 2 Nummer 1 bis 8, Absatz 3 Nummer
