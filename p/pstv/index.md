@@ -19,7 +19,7 @@ Zuletzt geändert durch
 :   Art. 5 G v. 21.7.2026 I Nr. 221
 
 Stand
-:   Bek. v. 15.10.2026 I Nr. 325 noch nicht berücksichtigt
+:   Bek. v. 29.10.2026 I Nr. 325 ist berücksichtigt
 
 
 ## Eingangsformel
@@ -1082,14 +1082,17 @@ Standesamt abgegeben.
 ### § 47 Berichtigungen
 
 (1) Das Standesamt, das selbst oder auf Anordnung des Gerichts einen
-abgeschlossenen Registereintrag berichtigt, hat zu prüfen, ob auch in
-anderen Personenstandsregistern eine Berichtigung vorgenommen werden
-muss. Es teilt dem in Betracht kommenden Standesamt die Berichtigung
-mit. Eine Berichtigung auf Grund von Dokumenten des Heimatstaates
-(§ 47 Absatz 1 Satz 3 Nummer 2 des Gesetzes) ist nur zulässig, wenn
-zuvor die zuständige Ausländerbehörde beteiligt wurde und diese den
-Zusammenhang zwischen den vorgelegten Dokumenten und der Rückführung
-des betreffenden Ausländers bestätigt hat.
+abgeschlossenen Registereintrag berichtigt, hat zu prüfen, ob auch
+in anderen Personenstandsregistern oder in den beim Bundeszentralamt
+für Steuern zu einer Person gespeicherten Daten nach § 4 Absatz 2 und
+3 des Identifikationsnummerngesetzes eine Berichtigung vorgenommen
+werden muss. Es teilt dem in Betracht kommenden Standesamt und der
+Meldebehörde die Berichtigung mit. Eine Berichtigung auf Grund von
+Dokumenten des Heimatstaates (§ 47 Absatz 1 Satz 3 Nummer 2 des
+Gesetzes) ist nur zulässig, wenn zuvor die zuständige Ausländerbehörde
+beteiligt wurde und diese den Zusammenhang zwischen den vorgelegten
+Dokumenten und der Rückführung des betreffenden Ausländers bestätigt
+hat.
 
 (2) Hat das Standesamt von Amts wegen auf Grund eines Registereintrags
 eine Mitteilung an eine Behörde, ein Gericht oder eine sonstige
@@ -1634,7 +1637,9 @@ bestehenden Mitteilungspflichten folgende Daten übermitteln:
 19. Anschriften des Kindes und der Eltern,
 
 20. Pseudonym der Mutter im Falle einer vertraulichen Geburt nach § 25
-    Absatz 1 des Schwangerschaftskonfliktgesetzes.
+    Absatz 1 des Schwangerschaftskonfliktgesetzes,
+
+21. Identifikationsnummer nach § 139b der Abgabenordnung.
 
 
 #### § 58 Mitteilungen bei Beurkundung im Eheregister
@@ -1751,7 +1756,9 @@ den Absätzen 1 bis 4 folgende Daten übermitteln:
     oder Begründung einer Lebenspartnerschaft eines Ehegatten nach
     Eheauflösung,
 
-18. Anschriften der Ehegatten.
+18. Anschriften der Ehegatten,
+
+19. Identifikationsnummer nach § 139b der Abgabenordnung.
 
 
 #### § 59 Mitteilungen bei Beurkundung im Lebenspartnerschaftsregister
@@ -1845,7 +1852,9 @@ bestehenden Mitteilungspflichten folgende Daten übermitteln:
     Begründung einer Lebenspartnerschaft eines Lebenspartners nach
     Auflösung der Lebenspartnerschaft,
 
-17. Anschriften der Lebenspartner.
+17. Anschriften der Lebenspartner,
+
+18. Identifikationsnummer nach § 139b der Abgabenordnung.
 
 
 #### § 60 Mitteilungen bei Beurkundung im Sterberegister
@@ -1940,7 +1949,35 @@ bestehenden Mitteilungspflichten folgende Daten übermitteln:
 19. Angaben darüber, dass ein Kind des Verstorbenen durch den Sterbefall
     Vollwaise geworden ist,
 
-20. Anschrift des Verstorbenen.
+20. Anschrift des Verstorbenen,
+
+21. Identifikationsnummer nach § 139b der Abgabenordnung.
+
+
+#### § 60a Mitteilungen für Identitätszwecke
+
+Das Standesamt, das eine Fortführung im Personenstandsregister
+vornimmt, teilt dies der Registermodernisierungsbehörde nach dem
+Identifikationsnummerngesetz nur mit, wenn die Daten nicht bereits
+der Meldebehörde nach den §§ 57 bis 60 übermittelt worden sind.
+Soweit eine Mitteilung des Standesamtes zum Zwecke der Überprüfung und
+Bestätigung der Identität natürlicher Personen beim Bundeszentralamt
+für Steuern nach Satz 1 erforderlich ist, werden folgende Daten
+mitgeteilt:
+
+1.  Familienname,
+
+2.  Vornamen,
+
+3.  frühere Familiennamen und Vornamen,
+
+4.  Tag und Ort der Geburt,
+
+5.  Geschlecht,
+
+6.  gegenwärtige und letzte Anschrift, wenn diese bekannt ist,
+
+7.  Sterbedatum.
 
 
 #### § 61 Mitteilungen für statistische Zwecke
@@ -2325,7 +2362,8 @@ Der Bundesrat hat zugestimmt.
 
 ### Anlage 1 (zu § 11)Datenfelder in den Personenstandsregistern
 
-(Fundstelle: BGBl. I 2022, 1750 — 1770)
+(Fundstelle: BGBl. I 2022, 1750 — 1770;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 | Nr. | Datenfelder | Anmerkungen | Verwendung |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -2374,6 +2412,7 @@ __________
 | 1130 | Religion/Weltanschauung |  | X | X |  |  | 3) |
 | 1180 | Deutsche Staatsangehörigkeit | Nur Erwerb nach § 4 Abs. 3 StAG |  |  | X |  |  |
 | 1198 | Identifikationsnummer | Gemäß § 139b der Abgabenordnung |  |  |  |  | 1) |
+| 1198 | Identifikationsnummer | Gemäß § 139b der Abgabenordnung |  |  |  |  | 1) |
 | 1199 | Familiennamensführung nicht nachgewiesen | Nur bei nicht nachgewiesener Identität der Eltern | X |  |  |  |  |
 |  | **Angaben zu den Eltern** |  |  |  |  |  |  |
 |  | 1. | Leittext zur Zuordnung der folgenden Datenfelder sowie der Hinweise und Folgebeurkundungen im Registerausdruck und in der Geburtsurkunde | X | X | X |  | 4) |
@@ -2395,6 +2434,7 @@ __________
 | 1275 | Registernummer | Beispiel: G 399/2010 |  |  | X |  |  |
 | 1280 | Staatsangehörigkeit |  |  |  | X |  |  |
 | 1298 | Identifikationsnummer | Gemäß § 139b der Abgabenordnung |  |  |  |  | 1) |
+| 1298 | Identifikationsnummer | Gemäß § 139b der Abgabenordnung |  |  |  |  | 1) |
 | 1299 | Identität nicht nachgewiesen | Nur bei nicht nachgewiesener Identität | X | X |  |  |  |
 | 1299A | Namensführung nicht nachgewiesen |  | X | X |  |  |  |
 |  | 2. | Leittext zur Zuordnung der folgenden Datenfelder sowie der Hinweise und Folgebeurkundungen im Registerausdruck und in der Geburtsurkunde | X | X | X |  | 4) |
@@ -2415,6 +2455,7 @@ __________
 | 1371 | Behördenname | Ortsbezeichnung |  |  | X |  |  |
 | 1375 | Registernummer | Beispiel: G 1499/2009 |  |  | X |  |  |
 | 1380 | Staatsangehörigkeit |  |  |  | X |  |  |
+| 1398 | Identifikationsnummer | Gemäß § 139b der Abgabenordnung |  |  |  |  | 1) |
 | 1398 | Identifikationsnummer | Gemäß § 139b der Abgabenordnung |  |  |  |  | 1) |
 | 1399 | Identität nicht nachgewiesen | Nur bei nicht nachgewiesener Identität | X | X |  |  |  |
 | 1399A | Namensführung nicht nachgewiesen |  | X | X |  |  |  |
@@ -2525,6 +2566,7 @@ __________
 | 2175 | Registernummer |  |  |  | X |  |  |
 | 2180 | Staatsangehörigkeit |  |  |  | X |  |  |
 | 2198 | Identifikationsnummer | Gemäß § 139b der Abgabenordnung |  |  |  |  | 1) |
+| 2198 | Identifikationsnummer | Gemäß § 139b der Abgabenordnung |  |  |  |  | 1) |
 |  | 2. | Leittext zur Zuordnung der folgenden Datenfelder sowie der Hinweise und Folgebeurkundungen im Registerausdruck und in der Eheurkunde | X | X | X |  | 4) |
 | 2200 | Familienrechtliche Bezeichnung | Es können die Bezeichnungen „Ehefrau“ oder „Ehemann“ angegeben werden; Personen, die weder dem männlichen noch dem weiblichen Geschlecht angehören, sind als „Ehepartner“ anzugeben, Beispiel: „2. Ehefrau“ | X | X |  |  | 4) |
 | 2201 | Familienname vor der Ehe |  | X | X |  | X |  |
@@ -2556,6 +2598,7 @@ __________
 | 2271 | Behördenname | Ortsbezeichnung |  |  | X |  |  |
 | 2275 | Registernummer |  |  |  | X |  |  |
 | 2280 | Staatsangehörigkeit |  |  |  | X |  |  |
+| 2298 | Identifikationsnummer | Gemäß § 139b der Abgabenordnung |  |  |  |  | 1) |
 | 2298 | Identifikationsnummer | Gemäß § 139b der Abgabenordnung |  |  |  |  | 1) |
 |  | **Auflösung der Ehe** |  |  |  |  |  |  |
 | 2390 | Art der Eheauflösung | Beispiel: Scheidung, Aufhebung, Tod, Wiederverheiratung nach Todeserklärung |  | X |  |  | 3) |
@@ -2660,6 +2703,7 @@ __________
 | 3175 | Registernummer |  |  |  | X |  |  |
 | 3180 | Staatsangehörigkeit |  |  |  | X |  |  |
 | 3198 | Identifikationsnummer | Gemäß § 139b der Abgabenordnung |  |  |  |  | 1) |
+| 3198 | Identifikationsnummer | Gemäß § 139b der Abgabenordnung |  |  |  |  | 1) |
 |  | 2. | Leittext zur Zuordnung der folgenden Datenfelder sowie der Hinweise und Folgebeurkundungen im Registerausdruck und in der Lebenspartnerschaftsurkunde | X | X | X |  | 4) |
 | 3200 | Familienrechtliche Bezeichnung | Es können die Bezeichnungen „Lebenspartner“ oder „Lebenspartnerin“ angegeben werden; Personen, die weder dem männlichen noch dem weiblichen Geschlecht angehören, sind als „Lebenspartner“ anzugeben, Beispiel: „2. Lebenspartner“ | X | X |  |  | 4) |
 | 3201 | Familienname vor der Begründung |  | X | X |  | X |  |
@@ -2691,6 +2735,7 @@ __________
 | 3271 | Behördenname | Ortsbezeichnung |  |  | X |  |  |
 | 3275 | Registernummer |  |  |  | X |  |  |
 | 3280 | Staatsangehörigkeit |  |  |  | X |  |  |
+| 3298 | Identifikationsnummer | Gemäß § 139b der Abgabenordnung |  |  |  |  | 1) |
 | 3298 | Identifikationsnummer | Gemäß § 139b der Abgabenordnung |  |  |  |  | 1) |
 |  | **Auflösung oder Umwandlung der Lebenspartnerschaft in eine Ehe** |  |  |  |  |  |  |
 | 3390 | Art der Auflösung | Beispiel: Aufhebung, Tod, Todeserklärung, Feststellung der Todeszeit, Umwandlung in Ehe |  | X |  |  | 3) |
@@ -2784,6 +2829,7 @@ __________
 | 4294 | Anschrift, Ortsteil | Bei landesrechtlicher Vorgabe | X | X |  |  |  |
 | 4297 | Anschrift, Staat | Nur bei Wohnort im Ausland | X | X |  |  |  |
 | 4298 | Identifikationsnummer | Gemäß § 139b der Abgabenordnung |  |  |  |  | 1) |
+| 4298 | Identifikationsnummer | Gemäß § 139b der Abgabenordnung |  |  |  |  | 1) |
 | 4299 | Identität nicht nachgewiesen | Nur bei nicht nachgewiesener Identität | X | X |  |  |  |
 |  | **Familienstand der verstorbenen Person** |  |  |  |  |  |  |
 | 4300 | Familienstand |  | X | X |  |  |  |
@@ -2795,6 +2841,7 @@ __________
 | 4303 | Vornamen des Ehegatten, Ehe- oder Lebenspartners |  | X | X |  |  |  |
 | 4303A | Ausländische Namensart | Bezeichnung einer ausländischen Namensform des Vornamens | X | X |  |  |  |
 | 4320 | Geschlecht des Ehegatten, Ehe- oder Lebenspartners |  | X | X |  |  |  |
+| 4398 | Identifikationsnummer | Gemäß § 139b der Abgabenordnung |  |  |  |  | 1) |
 | 4398 | Identifikationsnummer | Gemäß § 139b der Abgabenordnung |  |  |  |  | 1) |
 | 4399 | Identität nicht nachgewiesen | Nur bei nicht nachgewiesener Identität | X | X |  |  |  |
 |  | **Ehe der verstorbenen Person** |  |  |  |  |  |  |
