@@ -1,5 +1,5 @@
 ---
-Title: Anordnung zur Übertragung beamtenrechtlicher Befugnisse des Bundesinisteriums für Wohnen, Stadtentwicklung und Bauwesen auf das Bundesamt für Bauwesen und Raumordnung
+Title: Anordnung zur Übertragung beamtenrechtlicher Befugnisse des Bundesministeriums für Wohnen, Stadtentwicklung und Bauwesen auf das Bundesamt für Bauwesen und Raumordnung
 jurabk: BMWSBBBRBeamtZustAnO
 layout: default
 origslug: bmwsbbbrbeamtzustano
@@ -7,7 +7,7 @@ slug: bmwsbbbrbeamtzustano
 
 ---
 
-# Anordnung zur Übertragung beamtenrechtlicher Befugnisse des Bundesinisteriums für Wohnen, Stadtentwicklung und Bauwesen auf das Bundesamt für Bauwesen und Raumordnung (BMWSBBBRBeamtZustAnO)
+# Anordnung zur Übertragung beamtenrechtlicher Befugnisse des Bundesministeriums für Wohnen, Stadtentwicklung und Bauwesen auf das Bundesamt für Bauwesen und Raumordnung (BMWSBBBRBeamtZustAnO)
 
 Ausfertigungsdatum
 :   2026-09-08

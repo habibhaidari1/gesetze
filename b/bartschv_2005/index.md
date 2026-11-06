@@ -701,7 +701,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     Wilson, D.E. & Reeder, D.M. (1993): Mammal Species of the World. - 2nd
     edition. Washington & London.
 
-| Wissenschaftliche Bezeichnung | Deutscher Name | Besonders geschützte Arten zu § 1 Satz 1 | Streng geschützte Arten zu § 1 Satz 2 |  |
+| Wissenschaftliche Bezeichnung | Deutscher Name | Besonders geschützte Arten zu § 1 Satz 1 | Streng  geschützte Arten zu § 1 Satz 2 |  |
 | --- | --- | --- | --- | --- |
 | 1 | 2 | 3 |  |  |
 | **Fauna** |  |  |  |  |
@@ -926,7 +926,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 | - | alle heimischen Arten, soweit nicht im Einzelnen aufgeführt |  |  |  |
 | Eremobina pabulatricula | Helle Pfeifengras-Büscheleule | + | + |  |
 | Eriogaster rimicola | Eichen-Wollafter | + | + |  |
-| Eriogaster spp. 3)  excl.  Eriogaster lanestris | Wollafter | + |  |  |
+| Eriogaster spp. 3)  excl. Eriogaster lanestris | Wollafter | + |  |  |
 | - | alle heimischen Arten, soweit nicht im Einzelnen aufgeführt und mit Ausnahme von Frühlings-Wollafter |  |  |  |
 | Eucarta amethystina | Amethysteule | + | + |  |
 | Euchalcia consona | Mönchskraut-Metalleule | + | + |  |
@@ -976,7 +976,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 | Maculinea spp. 3) | Ameisen-Bläulinge | + |  |  |
 | - | alle heimischen Arten |  |  |  |
 | Malacosoma franconica | Frankfurter Ringelspinner | + | + |  |
-| Malacosoma spp.  excl.  Malacosoma neustria | Ringelspinner | + |  |  |
+| Malacosoma spp.  excl. Malacosoma neustria | Ringelspinner | + |  |  |
 | - | alle heimischen Arten, soweit nicht im Einzelnen aufgeführt und mit Ausnahme von Gewöhnlicher Ringelspinner |  |  |  |
 | Meganephria bimaculosa | Zweifleckige Plumpeule | + | + |  |
 | Nola cristatula | Wasserminzen-Kleinbärchen | + | + |  |
@@ -991,7 +991,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 | Odontognophos dumetata | Kreuzdorn-Steinspanner | + | + |  |
 | Orbona fragariae | Große Wintereule | + | + |  |
 | Orgyia antiquiodes | Heide-Bürstenspinner | + | + |  |
-| Orgyia spp.  excl.  Orgyia antiqua | Bürstenspinner | + |  |  |
+| Orgyia spp.  excl. Orgyia antiqua | Bürstenspinner | + |  |  |
 | - | alle heimischen Arten, soweit nicht im Einzelnen aufgeführt und mit Ausnahme von Schlehen-Bürstenspinner |  |  |  |
 | Paidia rica | Mauer-Flechtenbärchen | + | + |  |
 | Panchrysia deaurata | Große Wiesenrauten-Goldeule | + | + |  |
@@ -1093,7 +1093,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 | Carabus nodulosus | Schwarzer Grubenlaufkäfer | + | + |  |
 | Carabus spp. 3) | Laufkäfer | + |  |  |
 | - | alle europäischen Arten, soweit nicht im Einzelnen aufgeführt |  |  |  |
-| Cerambycidae spp. 3)  excl.  Hylotrupes bajulus  Monochamus spp.  Tetropium spp. | Bockkäfer | + |  |  |
+| Cerambycidae spp. 3)  excl. Hylotrupes bajulus Monochamus spp. Tetropium spp. | Bockkäfer | + |  |  |
 | - | alle heimischen Arten, soweit nicht im Einzelnen aufgeführt mit Ausnahme von Hausbock Langhornböcke Fichten- und Lärchenböcke |  |  |  |
 | Cetonia aurata | Rosenkäfer | + |  |  |
 | Cicindela spp. | Sandläufer | + |  |  |
@@ -1253,7 +1253,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 | Alyssum montanum L. 8) | Berg-Steinkraut | + |  |  |
 | Alyssum saxatile L. 8) | Felsen-Steinkraut | + |  |  |
 | Anagallis tenella (L.) L. | Zarter Gauchheil | + | + |  |
-| Androsace spp. 3) 8) excl. Androsace elongata L. Androsace maxima L. Androsace septentrionalis L. | Mannsschilde | + |  |  |
+| Androsace spp. 3) 8)  excl. Androsace elongata L. Androsace maxima L. Androsace septentrionalis L. | Mannsschilde | + |  |  |
 | - | alle heimischen Arten, mit Ausnahme von Langstieliger Mannsschild Großer Mannsschild Nordischer Mannsschild |  |  |  |
 | Anemone narcissiflora L. 8) | Narzissen-Windröschen | + |  |  |
 | Anemone sylvestris L. 8) | Großes Windröschen | + |  |  |
@@ -1273,7 +1273,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 | Artemisia rupestris L. 8) | Felsen-Beifuß | + | + |  |
 | Artemisia umbelliformis Lam. 8) | Echte Edelraute | + |  |  |
 | Asplenium azoricum Lovis, Rasbach & Reichstein | Azoren-Streifenfarn | + |  |  |
-| Asplenium ceterach L. 8) | Milzfarn |  |  |  |
+| Asplenium ceterach L. 8) | Milzfarn | + |  |  |
 | Asplenium cuneifolium Viv. | Serpentin-Streifenfarn | + |  |  |
 | Asplenium fissum Kit. ex Willd. | Zerschlitzter Streifenfarn | + |  |  |
 | Asplenium fontanum (L.) Bernh. 8) | Jura-Streifenfarn | + |  |  |
@@ -1328,9 +1328,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 | Dictamnus albus L. 8) | Diptam | + |  |  |
 | Digitalis grandiflora Mill. 8) | Großblütiger Fingerhut | + |  |  |
 | Digitalis lutea L. 8) | Gelber Fingerhut | + |  |  |
-| Draba spp. 3) 8) | Felsenblümchen | + |  |  |
-| excl. | - | alle europäischen Arten, mit Ausnahme von Mauer-Felsenblümchen und Hain-Felsenblümchen |  |  |
-| Draba muralis L. et Draba nemorosa L. |  |  |  |  |
+| Draba spp. 3) 8)  excl. Draba muralis L. et Draba nemorosa L. | Felsenblümchen | + |  |  |
+| - | alle europäischen Arten, mit Ausnahme von Mauer-Felsenblümchen und Hain-Felsenblümchen |  |  |  |
 | Dracocephalum ruyschiana L. 8) | Nordischer Drachenkopf | + |  |  |
 | Drosera spp. 8) | Sonnentaue | + |  |  |
 |  | - | alle heimischen Arten |  |  |
@@ -1395,8 +1394,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 | Linnaea borealis L. 8) | Moosglöckchen | + |  |  |
 | Linum flavum L. 8) | Gelber Lein | + | + |  |
 | Linum perenne L. 8) | Ausdauernder Lein | + | + |  |
-| Linum spp. 3) 8) | Lein | + |  |  |
-| excl. Linum catharticum L. | - | alle europäischen Arten, soweit nicht im Einzelnen aufgeführt mit Ausnahme von Purgier-Lein |  |  |
+| Linum spp. 3) 8)  excl. Linum catharticum L. | Lein | + |  |  |
+| - | alle europäischen Arten, soweit nicht im Einzelnen aufgeführt mit Ausnahme von Purgier-Lein |  |  |  |
 | Lloydia serotina (L.) Reichenb. | Spätblühende Faltenlilie | + |  |  |
 | Lobelia dortmanna L. 8) | Wasser-Lobelie | + | + |  |
 | Lomatogonium carinthiacum (Wulf.) Reichenb. | Kärntner Tauernblümchen | + |  |  |
@@ -1449,8 +1448,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 | Rheum rhaponticum L. 8) | Pontischer Rhabarber | + |  |  |
 | Rubus chamaemorus L. 7) 8) | Moltebeere | + | + |  |
 | Salvinia natans (L.) All. 8) | Schwimmfarn | + |  |  |
-| Saxifraga spp. 3) 8) | Steinbrech | + |  |  |
-| excl. Saxifraga tridactylites L. | - | alle europäischen Arten, mit Ausnahme von Finger-Steinbrech | + |  |
+| Saxifraga spp. 3) 8)  excl. Saxifraga tridactylites L. | Steinbrech | + |  |  |
+| - | alle europäischen Arten, mit Ausnahme von Finger-Steinbrech | + |  |  |
 | Scheuchzeria palustris L. | Blasenbinse | + |  |  |
 | Scilla spp. 3) 8) (incl. Hyacinthoides spp.) | Blausterne (einschl. Hasenglöckchen) | + |  |  |
 | - | alle Arten |  |  |  |
@@ -1530,6 +1529,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 | Tricholoma flavovirens (Pers. ex Fr.) Lund & Nannf. 7) 8) | Grünling | + |  |  |
 | Tuber spp. 7) 8) | Trüffel | + |  |  |
 |  | - | alle heimischen Arten |  |  |
+
+______________
 
 1)  Nur europäische wild lebende Populationen.
 

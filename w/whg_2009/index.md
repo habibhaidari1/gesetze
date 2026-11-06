@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 2585
 
 Zuletzt geändert durch
-:   Art. 8 G v. 22.7.2026 I Nr. 224
-
-Änderung durch
-:   Art. 2 G v. 13.10.2026 I Nr. 304 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 13.10.2026 I Nr. 304
 
 
 ## Kapitel 1 - Allgemeine Bestimmungen
