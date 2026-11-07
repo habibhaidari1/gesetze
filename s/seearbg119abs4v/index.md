@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2019, 9
 
+Geändert durch
+:   Art. 1 V v. 3.11.2026 I Nr. 329
+
 
 ## Eingangsformel
 

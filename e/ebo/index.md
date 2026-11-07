@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl II: 1967, 1563
 
 Zuletzt geändert durch
-:   Art. 12 Abs. 11 G v. 22.10.2026 I Nr. 318
+:   Art. 1 V v. 2.11.2026 I Nr. 330
 
 
 ## Eingangsformel
@@ -1068,12 +1068,13 @@ erforderlichen Anschriften und Zeichen tragen.
 
 ### § 32 Abnahme und Untersuchung der Fahrzeuge
 
-(1) Neue Fahrzeuge dürfen erst in Betrieb genommen werden, wenn sie
-abgenommen worden sind (§ 3 Abs. 2).
+(1) Neue Fahrzeuge dürfen erst in Betrieb genommen werden, wenn
+sie abgenommen worden sind (§ 3 Absatz 2). Bei vollautomatisierten
+Fahrfunktionen gemäß § 46 ist im Rahmen der Abnahme nachzuweisen, dass
+mindestens die gleiche Sicherheit gemäß § 2 Absatz 2 gewährleistet
+ist.
 
-(2) Bei vollautomatisierten Fahrfunktionen gemäß § 46 ist im Rahmen
-der Abnahme nachzuweisen, dass mindestens eine gleiche Sicherheit
-gemäß § 2 Absatz 2 gewährleistet ist.
+(2) Die Fahrzeuge sind planmäßig wiederkehrend zu untersuchen.
 
 (3) Art, Umfang und Häufigkeit der Untersuchung nach Absatz 2 haben
 sich nach Zustand und Umfang der Nutzung der Eisenbahnfahrzeuge zu
@@ -1509,7 +1510,7 @@ der Wagentüren vor Abfahrt dem Triebfahrzeugführer angezeigt oder bei
 einfachen Verhältnissen von ihm festgestellt wird.
 
 
-### § 46
+### § 46 Einsatz vollautomatisierter Fahrfunktionen
 
 (1) Der Betrieb eines Triebfahrzeugs gemäß § 18 Absatz 4 mittels
 vollautomatisierter Fahrfunktion auf einer hierfür ausgerüsteten

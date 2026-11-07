@@ -16,7 +16,10 @@ Fundstelle
 :   BGBl I: 2001, 1262 (1878)
 
 Zuletzt geändert durch
-:   Art. 6 G v. 24.5.2016 I 1190
+:   Art. 2 V v. 2.11.2026 I Nr. 328
+
+Stand
+:   Zukünftige Überschrift: Verordnung über die Berufsausbildung für Kaufleute im Dienstleistungsbereich Gesundheitswesen (ab 1.8.2027; 2026 I Nr. 328)
 
 
 ## Eingangsformel

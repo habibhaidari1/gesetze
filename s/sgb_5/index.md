@@ -29046,8 +29046,6 @@ soll. Die Krankenkassen können in ihren Satzungen vorsehen, dass
 die Frist nach Satz 1 nicht gilt, wenn eine Mitgliedschaft bei einer
 anderen Krankenkasse der gleichen Kassenart begründet werden soll.
 
-(4a) (weggefallen)
-
 (5) Absatz 4 gilt nicht für Versicherungspflichtige, die durch die
 Errichtung oder Ausdehnung einer Betriebs- oder Innungskrankenkasse
 oder durch betriebliche Veränderungen Mitglieder einer Betriebs-
