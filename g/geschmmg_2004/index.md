@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 24.2.2014 I 122
 
 Zuletzt geändert durch
-:   Art. 10 G v. 10.8.2021 I 3490
-
-Änderung durch
-:   Art. 1 G v. 22.10.2026 I Nr. 322 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 G v. 22.10.2026 I Nr. 322
 
 
 ## Abschnitt 1 - Schutzvoraussetzungen

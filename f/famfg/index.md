@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 4 G v. 2.7.2026 I Nr. 198 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Änderung durch
-:   Art. 10 G v. 22.10.2026 I Nr. 321 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 10 G v. 22.10.2026 I Nr. 321 ist berücksichtigt
 
 Mittelbare änderung durch
 :   Art. 15 Nr. 7 G v. 22.10.2026 I Nr. 321 ist berücksichtigt

@@ -1172,43 +1172,8 @@ Arbeitsdruck von mehr als 1 bar folgende Wartezeiten einzuhalten:
 
 (6) Der Arbeitgeber hat sicherzustellen, daß die Arbeitnehmer von dem
 ermächtigten Arzt über den Antritt von Flugreisen beraten werden.
-Tabelle 1: Ausschleusung mit Sauerstoff im Normalbetrieb
-Achtung: Mit der Sauerstoffatmung darf erst begonnen werden, wenn der
-Druck in der Schleuse auf 1,0 bar abgesenkt ist.
-(Inhalt: nicht darstellbare Tabelle,
-Fundstelle: BGBl. I 1997, 1388 - 1393) *)
 
--   Achtung: Der Arbeitsdruck entspricht dem über den atmosphärischen
-    Druck hinausgehenden Überdruck
-
-Notfalltabelle 1: Ausschleusung mit Druckluft bei technischem Versagen
-der Sauerstoffanlage
-- nur in Abstimmung mit dem Arzt anzuwenden! -
-(Inhalt: nicht darstellbare Tabelle,
-Fundstelle: BGBl. I 1997, 1393 - 1395) *)
-
--   Achtung: Der Arbeitsdruck entspricht dem über den atmosphärischen
-    Druck hinausgehenden Überdruck!
-
-Notfalltabelle 2: Ausschleusung mit Sauerstoff in Notfällen bei
-Überschreitung zulässiger Aufenthaltszeit
-- nur in Abstimmung mit dem Arzt anzuwenden! -
-Achtung: Mit der Sauerstoffatmung darf erst begonnen werden, wenn der
-Druck in der Schleuse auf 1,0 bar abgesenkt ist.
-(Inhalt: nicht darstellbare Tabelle,
-Fundstelle: BGBl. I 1997, 1395 - 1396) *)
-
--   Achtung: Der Arbeitsdruck entspricht dem über den atmosphärischen
-    Druck hinausgehenden Überdruck!
-
-Notfalltabelle 3: Ausschleusung mit Druckluft bei technischem Versagen
-der Sauerstoffanlage und Überschreitung zulässiger Aufenthaltszeit
-- nur in Abstimmung mit dem Arzt anzuwenden! -
-(Inhalt: nicht darstellbare Tabelle,
-Fundstelle: BGBl. I 1997, 1397 - 1401) *)
-
--   Achtung: Der Arbeitsdruck entspricht dem über den atmosphärischen
-    Druck hinausgehenden Überdruck!
+[Anlage: bgbl1_1997_j0039-1388.pdf](bgbl1_1997_j0039-1388.pdf)
 
 
 ## Anhang 3 (Nach § 18 Abs. 1 Nr. 4 der Verordnung über Arbeiten in Druckluft)

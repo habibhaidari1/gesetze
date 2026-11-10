@@ -16,13 +16,7 @@ Fundstelle
 :   RGBl: 1877, 244
 
 Zuletzt geändert durch
-:   Art. 17 G v. 8.12.2025 I Nr. 319
-
-Mittelbare änderung durch
-:   Art. 38 G v. 8.12.2025 I Nr. 319 ist berücksichtigt
-
-Änderung durch
-:   Art. 9 G v. 22.10.2026 I Nr. 321 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 9 G v. 22.10.2026 I Nr. 321
 
 Mittelbare änderung durch
 :   Art. 15 Nr. 7 G v. 22.10.2026 I Nr. 321 ist berücksichtigt

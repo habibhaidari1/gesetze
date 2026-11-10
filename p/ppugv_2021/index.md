@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 4.11.2025 I Nr. 267
 
+Änderung durch
+:   Art. 1 V v. 9.11.2026 I Nr. 334 mWv 10.11.2026 noch nicht berücksichtigt
+
 Stand
 :   Ersetzt V 860-5-54 v. 28.10.2019 I 1492 (PpUGV 2019)
 

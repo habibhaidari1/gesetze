@@ -16,10 +16,7 @@ Fundstelle
 :   RGBl: 1897, 437
 
 Zuletzt geändert durch
-:   Art. 2 G v. 23.10.2024 I Nr. 323
-
-Änderung durch
-:   Art. 8 G v. 22.10.2026 I Nr. 321 mWv 28.10.2026 noch nicht berücksichtigt
+:   Art. 8 G v. 22.10.2026 I Nr. 321
 
 
 ## Erster Abschnitt - Einführung des Handelsgesetzbuchs
@@ -2251,9 +2248,16 @@ des Bundes oder der Länder als Verschlusssache höher als VS-
 NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind, dürfen bis zum 31.
 Dezember 2035 abweichend von § 335 Absatz 2a und § 335a Absatz
 4 des Handelsgesetzbuchs in Papierform erstellt, geführt und
-übermittelt werden. Dokumente und Aktenteile, die nach den
-Verschlusssachenanweisungen des Bundes oder der Länder als
-Verschlusssache VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind,
+übermittelt werden. Akten, in denen Dokumente und Aktenteile
+enthalten sind, die nach den Verschlusssachenanweisungen des
+Bundes oder der Länder als Verschlusssache höher als VS-NUR FÜR
+DEN DIENSTGEBRAUCH eingestuft sind, dürfen bis einschließlich 31.
+Dezember 2035 abweichend von § 335 Absatz 2a und § 335a Absatz 4 des
+Handelsgesetzbuchs in Papierform erstellt, geführt und übermittelt
+werden, wenn eine teilweise elektronische Aktenführung nur mit
+unverhältnismäßigem Aufwand möglich wäre. Dokumente und Aktenteile,
+die nach den Verschlusssachenanweisungen des Bundes oder der Länder
+als Verschlusssache VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind,
 dürfen bis zum 31. Dezember 2035 abweichend von § 335 Absatz 2a und
 § 335a Absatz 4 des Handelsgesetzbuchs in Papierform übermittelt
 werden. Die für die Handhabung von Verschlusssachen geltenden

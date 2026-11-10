@@ -15,8 +15,14 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 274 (510)
 
+V aufgeh. durch
+:   § 22 dieser V, dieser idF d. Art. 3 V v. 4.11.2026 I Nr. 333, mit Ablauf des 30.11.2026
+
 Zuletzt geändert durch
-:   Art. 58 V v. 9.12.2019 I 2153
+:   Art. 3 V v. 4.11.2026 I Nr. 333
+
+Ersetzt durch
+:   V 806-22-6-95 v. 4.11.2026 I Nr. 333 (FinDFachbFPrV) u. V 806-22-6-96 v. 4.11.2026 I Nr. 333 (BAProFinBFPrV)
 
 
 ## Eingangsformel
@@ -841,9 +847,9 @@ Verordnung durchführen; § 16 Absatz 2 findet in diesem Fall keine
 Anwendung.
 
 
-### § 22 Inkrafttreten
+### § 22 Außerkrafttreten
 
-Diese Verordnung tritt am 1. August 2012 in Kraft.
+Diese Verordnung tritt mit Ablauf des 30. November 2026 außer Kraft.
 
 
 ### Anlage 1 (zu den §§ 7, 8, 16 und 17)Bewertungsmaßstab und -schlüssel

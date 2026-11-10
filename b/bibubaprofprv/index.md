@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2020, 3070
 
+Geändert durch
+:   Art. 1 V v. 4.11.2026 I Nr. 332
+
 Stand
 :   Ersetzt V 806-22-6-53 v. 26.10.2015 I 1819 (BibuchhFPrV)
 
@@ -187,11 +190,22 @@ Minuten.
 (4) Die drei Aufgabenstellungen müssen aus der Beschreibung der
 betrieblichen Situation abgeleitet und aufeinander abgestimmt
 sein sowie der zu prüfenden Person eigenständige Lösungen ohne
-Antwortvorgaben ermöglichen. Die Aufgabenstellungen sind so zu
-gestalten, dass jeweils ein anderer Handlungsbereich nach § 4
-Absatz 2 Nummer 1, 2 und 3 einen Schwerpunkt bildet und die übrigen
-Handlungsbereiche nach § 4 Absatz 2 insgesamt mindestens einmal in den
-drei Aufgabenstellungen situationsbezogen thematisiert werden.
+Antwortvorgaben ermöglichen. In jeder Aufgabenstellung bildet ein
+Handlungsbereich nach § 4 Absatz 2 den Schwerpunkt, und zwar:
+
+1.  in der ersten Aufgabenstellung der Handlungsbereich nach
+    § 4 Absatz 2 Nummer 1 „Geschäftsvorfälle erfassen und nach
+    Rechnungslegungsvorschriften zu Abschlüssen führen”,
+
+2.  in der zweiten Aufgabenstellung der Handlungsbereich nach § 4 Absatz 2
+    Nummer 2 „Jahresabschlüsse aufbereiten und auswerten” und
+
+3.  in der dritten Aufgabenstellung der Handlungsbereich nach § 4 Absatz 2
+    Nummer 3 „betriebliche Sachverhalte steuerlich darstellen”.
+
+Jeder der übrigen Handlungsbereiche nach § 4 Absatz 2 Nummer 4 bis
+7 muss mindestens einmal in die drei Aufgabenstellungen eingebunden
+werden.
 
 
 ## § 6 Mündliche Prüfung
@@ -531,13 +545,24 @@ kann sie jeweils zweimal wiederholt werden.
 (2) Die zu prüfende Person hat die Wiederholungsprüfung bei der
 zuständigen Stelle zu beantragen.
 
-(3) Wer die Wiederholung der mündlichen Prüfung innerhalb von
+(3) Wer die Wiederholung der schriftlichen Prüfung innerhalb von
+einem Jahr, gerechnet vom Tag der Bekanntgabe des Bescheids über
+das Nichtbestehen der schriftlichen Prüfung an, beantragt, ist von
+denjenigen Aufgabenstellungen nach § 5 Absatz 2 zu befreien, die in
+der vorangegangenen Prüfung mit mindestens „ausreichend“ bewertet
+worden sind. Voraussetzung ist, dass von den drei Aufgabenstellungen
+nach § 5 Absatz 2 zwei Aufgabenstellungen mit mindestens 50 Punkten
+und eine Aufgabenstellung mit mindestens 30 Punkten bewertet worden
+ist. Ist die Voraussetzung nach Satz 2 nicht erfüllt, so sind alle
+Aufgabenstellungen zu wiederholen.
+
+(4) Wer die Wiederholung der mündlichen Prüfung innerhalb von
 zwei Jahren, gerechnet vom Tag der nicht bestandenen Prüfung an,
 beantragt, ist von der schriftlichen Prüfung zu befreien, wenn die
 in der vorangegangenen schriftlichen Prüfung erbrachte Leistung mit
 mindestens „ausreichend“ bewertet worden ist.
 
-(4) Auf Antrag kann im Fall der Wiederholung einer nicht bestandenen
+(5) Auf Antrag kann im Fall der Wiederholung einer nicht bestandenen
 Prüfung auch eine bereits bestandene Prüfung wiederholt werden. In
 diesem Fall gilt nur das Ergebnis der letzten Prüfung.
 
@@ -657,7 +682,7 @@ Prüfungsverfahren sind nach den Vorschriften der vorstehend
 bezeichneten Verordnung zu Ende zu führen. Die zuständige
 Stelle hat auf Antrag der zu prüfenden Person eine erforderliche
 Wiederholungsprüfung nach dieser Verordnung durchzuführen. § 12
-Absatz 3 findet in diesem Fall Anwendung, wenn in jeder der drei
+Absatz 4 findet in diesem Fall Anwendung, wenn in jeder der drei
 Aufgabenstellungen der schriftlichen Prüfung mindestens 50 Punkte
 erreicht worden sind.
 
@@ -670,6 +695,10 @@ erforderlichen Prüfungsbestandteile anzurechnen. Die schriftliche
 Prüfung wird dabei nur angerechnet, wenn in jeder der drei
 Aufgabenstellungen der schriftlichen Prüfung mindestens 50 Punkte
 erreicht worden sind.
+
+(3) § 12 Absatz 3 in der ab dem 10. November 2026 geltenden Fassung
+ist auch anzuwenden, wenn die schriftliche Prüfung vor diesem Tag
+nicht bestanden worden ist.
 
 
 ## § 16 Inkrafttreten, Außerkrafttreten

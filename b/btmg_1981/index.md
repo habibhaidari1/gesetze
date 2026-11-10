@@ -19,13 +19,7 @@ Neugefasst durch
 :   Bek. v. 1.3.1994 I 358;
 
 Zuletzt geändert durch
-:   Art. 1 V v. 19.5.2026 I Nr. 150
-
-Änderung durch
-:   Art. 8 G v. 26.6.2026 I Nr. 195 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 12 Abs. 1 G v. 22.10.2026 I Nr. 318 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 12 Abs. 1 G v. 22.10.2026 I Nr. 318
 
 
 ## Erster Abschnitt - Begriffsbestimmungen

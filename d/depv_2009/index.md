@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 900
 
 Zuletzt geändert durch
-:   Art. 3 G v. 3.7.2024 I Nr. 225
-
-Änderung durch
-:   Art. 18 G v. 22.7.2026 I Nr. 224 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 18 G v. 22.7.2026 I Nr. 224
 
 
 ## Teil 1 - Allgemeine Bestimmungen
