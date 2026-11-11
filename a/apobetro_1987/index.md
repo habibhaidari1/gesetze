@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 26.9.1995 I 1195
 
 Zuletzt geändert durch
-:   Art. 8z4 G v. 12.12.2023 I Nr. 359
-
-Änderung durch
-:   Art. 3 G v. 26.6.2026 I Nr. 195 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 G v. 26.6.2026 I Nr. 195
 
 Änderung durch
 :   Art. 1 V v. 16.9.2026 I Nr. 266 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet

@@ -19,13 +19,7 @@ Neugefasst durch
 :   Bek. v. 12.12.2005 I 3394;
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 4 G v. 12.5.2026 I Nr. 143
-
-Änderung durch
-:   Art. 6 G v. 26.6.2026 I Nr. 195 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 3 G v. 22.10.2026 I Nr. 321 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 G v. 22.10.2026 I Nr. 321
 
 
 ## Erster Abschnitt - Zweck des Gesetzes und Begriffsbestimmungen, Anwendungsbereich

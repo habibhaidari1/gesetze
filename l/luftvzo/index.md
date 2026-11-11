@@ -2524,101 +2524,88 @@ Ballone nach den Mustern 1 und 2, für Luftsportgeräte nach den Mustern
 
 ### Muster 1
 
-(Inhalt: nicht darstellbares Muster eines Eintragungsscheines,
-Fundstelle: BGBl. I 2008, 1266)
+(Fundstelle: BGBl. I 2008, 1266)
+
+[Anlage: bgbl1_2008_j0029-1266.0010.pdf](bgbl1_2008_j0029-1266.0010.pdf)
 
 
 ### Muster 2
 
-(Inhalt: nicht darstellbares Muster eines Lufttüchtigkeitszeugnisses,
-Fundstelle: BGBl. I 2008, 1267)
+(Fundstelle: BGBl. I 2008, 1267)
+
+[Anlage: bgbl1_2008_j0029-1267.0010.pdf](bgbl1_2008_j0029-1267.0010.pdf)
 
 
 ### Muster 3 (§ 9 Abs. 1 LuftVZO)
 
-(Inhalt: nicht darstellbares Muster eines Lufttüchtigkeitszeugnisses
-für Luftsportgeräte,
-Fundstelle: BGBl. I 2008, 1268)
+(Fundstelle: BGBl. I 2008, 1268)
+
+[Anlage: bgbl1_2008_j0029-1268.0010.pdf](bgbl1_2008_j0029-1268.0010.pdf)
 
 
 ### Muster 4 (§ 14 Abs. 2 LuftVZO)
 
-(Inhalt: nicht darstellbares Muster eines Eintragungsscheins für
-Luftsportgeräte,
-Fundstelle: BGBl. I 2008, 1268)
+(Fundstelle: BGBl. I 2008, 1268)
+
+[Anlage: bgbl1_2008_j0029-1268.0020.pdf](bgbl1_2008_j0029-1268.0020.pdf)
 
 
-### Muster 5
-
-(weggefallen)
+### Muster 5 (weggefallen)
 
 
 ### Muster 6
 
-(Inhalt: nicht darstellbares Muster,
-Fundstelle: BGBl. I 2008, 1269)
+(Fundstelle: BGBl. I 2008, 1269)
 
 
 ### Muster 6a
 
-(Inhalt: nicht darstellbares Muster,
-Fundstelle: BGBl. I 2008, 1269)
+(Fundstelle: BGBl. I 2008, 1269)
 
 
 ### Muster 7
 
-(Inhalt: nicht darstellbares Muster,
-Fundstelle: BGBl. I 2008, 1270)
+(Fundstelle: BGBl. I 2008, 1270)
 
 
 ### Muster 7a
 
-(Inhalt: nicht darstellbares Muster,
-Fundstelle: BGBl. I 2008, 1270)
+(Fundstelle: BGBl. I 2008, 1270)
 
 
 ### Muster 8
 
-(Inhalt: nicht darstellbares Muster,
-Fundstelle: BGBl. I 2008, 1271)
+(Fundstelle: BGBl. I 2008, 1271)
 
 
 ### Muster 9
 
-(Inhalt: nicht darstellbares Muster,
-Fundstelle: BGBl. I 2008, 1271)
+(Fundstelle: BGBl. I 2008, 1271)
 
 
 ### Muster 10
 
-(Inhalt: nicht darstellbares Muster,
-Fundstelle: BGBl. I 2008, 1272)
+(Fundstelle: BGBl. I 2008, 1272)
 
 
 ### Muster 11a
 
-(Inhalt: nicht darstellbare Abbildung eines Ultraleichtflugzeugs,
-aerodynamisch gesteuert,
-Fundstelle: BGBl. I 2008, 1273)
+(Fundstelle: BGBl. I 2008, 1273)
 
 
 ### Muster 11b
 
-(Inhalt: nicht darstellbare Abbildung eines Ultraleichtflugzeugs,
-schwerkraftgesteuert,
-Fundstelle: BGBl. I 2008, 1273)
+(Fundstelle: BGBl. I 2008, 1273)
 
 
 ### Muster 12
 
-(Inhalt: nicht darstellbare Abbildung eines Hängegleiters,
-Fundstelle: BGBl. I 2008, 1274)
+(Fundstelle: BGBl. I 2008, 1274)
 
 
 ### Muster 13
 
-(Inhalt: nicht darstellbare Abbildung eines Gleitsegels,
-Fundstelle: BGBl. I 2008, 1274)
+(Fundstelle: BGBl. I 2008, 1274)
 
 
 ### Anlage 2 (zu § 48c)Zu berücksichtigende Informationen gemäß § 48c Abs. 1

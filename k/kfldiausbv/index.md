@@ -835,11 +835,6 @@ Kenntnisse der Berufsbildpositionen
 fortzuführen.
 
 
-### Anlage 2 (weggefallen)
-
--
-
-
 ### Anlage 3 (zu § 17)Ausbildungsrahmenplan für die Berufsausbildung zum Veranstaltungskaufmann/zur Veranstaltungskauffrau
 
 (Fundstelle: BGBl. I 2001, 1287 - 1296; bzgl. der einzelnen Änderungen

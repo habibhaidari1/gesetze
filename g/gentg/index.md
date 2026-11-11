@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 16.12.1993 I 2066;
 
 Zuletzt geändert durch
-:   Art. 8 Abs. 7 G v. 27.9.2021 I 4530
-
-Änderung durch
-:   Art. 4 G v. 22.10.2026 I Nr. 321 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 4 G v. 22.10.2026 I Nr. 321
 
 
 ## Erster Teil - Allgemeine Vorschriften
