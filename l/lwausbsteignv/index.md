@@ -15,8 +15,14 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1995, 179
 
+V aufgeh. durch
+:   § 4 dieser V, dieser idF d. Art. 2 V v. 6.11.2026 I Nr. 336, mit Ablauf des 31.7.2027
+
 Geändert durch
-:   Art. 6 Abs. 22 G v. 23.5.2017 I 1228
+:   Art. 2 V v. 6.11.2026 I Nr. 336
+
+Ersetzt durch
+:   V 806-22-5-9 v. 6.11.2026 I Nr. 336 (LwAusbStEignV)
 
 
 ## Eingangsformel
@@ -94,7 +100,7 @@ außerhalb der Ausbildungsstätte oder in einer anderen anerkannten
 Ausbildungsstätte durchgeführt werden kann.
 
 
-## § 4 Inkrafttreten, Außerkrafttreten
+## § 4 Außerkrafttreten
 
-Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
+Diese Verordnung tritt mit Ablauf des 31. Juli 2027 außer Kraft.
 

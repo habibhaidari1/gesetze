@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2013, 2865
 
 Zuletzt geändert durch
-:   Art. 5 G v. 11.3.2026 I Nr. 66
-
-Änderung durch
-:   Art. 1 V v. 14.10.2026 I Nr. 300 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 V v. 14.10.2026 I Nr. 300
 
 Stand
 :   V in Kraft gem. § 83 Satz 1 iVm Art. 4 Abs. 1 Satz 1 G v. 6.6.2013 I 1482 mWv 1.9.2013
@@ -4616,7 +4613,7 @@ A   **Liste für Waffen, Munition und Rüstungsmaterial**
 
              *Technische Anmerkung:*
 
-             *Im Sinne von Unternummer 0001d3. bezeichnet der Begriff ‚Rohrwaffen-
+             *Im Sinne von Unternummer 0001d3 bezeichnet der Begriff ‚Rohrwaffen-
              Lafetteʻ eine Vorrichtung, die dazu konstruiert ist, eine Feuerwaffe
              auf einem Landfahrzeug, einem „Luftfahrzeug“, einem Schiff oder einer
              Struktur zu befestigen.*

@@ -16,16 +16,7 @@ Fundstelle
 :   BGBl I: 1988, 2477, 2482
 
 Zuletzt geändert durch
-:   Art. 1 G v. 26.6.2026 I Nr. 195
-
-Änderung durch
-:   Art. 1 G v. 24.7.2026 I Nr. 228 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
-
-Änderung durch
-:   Art. 2 G v. 6.10.2026 I Nr. 289 ist berücksichtigt
-
-Stand
-:   Bek. v. 16.9.2026 I Nr. 282 ist berücksichtigt
+:   Art. 2 G v. 6.10.2026 I Nr. 289
 
 
 ## Erstes Kapitel - Allgemeine Vorschriften
