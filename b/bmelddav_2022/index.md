@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2021, 3209
 
 Zuletzt geändert durch
-:   Art. 3 V v. 22.1.2025 I Nr. 23
-
-Änderung durch
-:   Art. 13 G v. 3.7.2026 I Nr. 199 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 13 G v. 3.7.2026 I Nr. 199
 
 
 ## Eingangsformel

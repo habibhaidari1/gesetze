@@ -22,7 +22,7 @@ Geändert durch
 :   Art. 2 V v. 6.11.2026 I Nr. 336
 
 Ersetzt durch
-:   V 806-22-5-9 v. 6.11.2026 I Nr. 336 (LwAusbStEignV)
+:   V 806-22-5-9 v. 6.11.2026 I Nr. 336 (LwAusbStEignV 2027)
 
 
 ## Eingangsformel

@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2017, 1354 (2019 I 400)
 
 Zuletzt geändert durch
-:   Art. 11 G v. 23.4.2026 I Nr. 111
-
-Änderung durch
-:   Art. 6 G v. 3.7.2026 I Nr. 199 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 6 G v. 3.7.2026 I Nr. 199
 
 Änderung durch
 :   Art. 4 G v. 22.10.2026 I Nr. 318 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet

@@ -2526,28 +2526,28 @@ Ballone nach den Mustern 1 und 2, für Luftsportgeräte nach den Mustern
 
 (Fundstelle: BGBl. I 2008, 1266)
 
-[Anlage: bgbl1_2008_j0029-1266.0010.pdf](bgbl1_2008_j0029-1266.0010.pdf)
+[Anlage: bgbl1_2008_j0029-1266_0010.pdf](bgbl1_2008_j0029-1266_0010.pdf)
 
 
 ### Muster 2
 
 (Fundstelle: BGBl. I 2008, 1267)
 
-[Anlage: bgbl1_2008_j0029-1267.0010.pdf](bgbl1_2008_j0029-1267.0010.pdf)
+[Anlage: bgbl1_2008_j0029-1267_0010.pdf](bgbl1_2008_j0029-1267_0010.pdf)
 
 
 ### Muster 3 (§ 9 Abs. 1 LuftVZO)
 
 (Fundstelle: BGBl. I 2008, 1268)
 
-[Anlage: bgbl1_2008_j0029-1268.0010.pdf](bgbl1_2008_j0029-1268.0010.pdf)
+[Anlage: bgbl1_2008_j0029-1268_0010.pdf](bgbl1_2008_j0029-1268_0010.pdf)
 
 
 ### Muster 4 (§ 14 Abs. 2 LuftVZO)
 
 (Fundstelle: BGBl. I 2008, 1268)
 
-[Anlage: bgbl1_2008_j0029-1268.0020.pdf](bgbl1_2008_j0029-1268.0020.pdf)
+[Anlage: bgbl1_2008_j0029-1268_0020.pdf](bgbl1_2008_j0029-1268_0020.pdf)
 
 
 ### Muster 5 (weggefallen)
