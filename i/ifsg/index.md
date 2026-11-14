@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2000, 1045
 
 Zuletzt geändert durch
-:   Art. 3 Abs. 1 G v. 4.3.2026 I Nr. 60
-
-Änderung durch
-:   Art. 7 G v. 26.6.2026 I Nr. 195 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 7 G v. 26.6.2026 I Nr. 195
 
 
 ## 1. Abschnitt - Allgemeine Vorschriften

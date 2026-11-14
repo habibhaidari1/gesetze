@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2016, 2770, 2789
 
 Zuletzt geändert durch
-:   Art. 9 Abs. 2 G v. 30.9.2025 I Nr. 233
-
-Änderung durch
-:   Art. 3 Abs. 3 G v. 13.7.2026 I Nr. 207 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 Abs. 3 G v. 13.7.2026 I Nr. 207
 
 Stand
 :   Ersetzt V 2129-6-3 v. 26.10.1977 I 1913 (AbfBeauftrV)

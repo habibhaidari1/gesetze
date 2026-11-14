@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2012, 212
 
 Zuletzt geändert durch
-:   Art. 5 G v. 2.3.2023 I Nr. 56
-
-Änderung durch
-:   Art. 2 G v. 13.7.2026 I Nr. 207 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 2 G v. 13.7.2026 I Nr. 207
 
 Änderung durch
 :   Art. 17 G v. 22.7.2026 I Nr. 224 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet

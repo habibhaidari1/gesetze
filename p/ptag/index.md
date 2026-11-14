@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2020, 66
 
 Zuletzt geändert durch
-:   Art. 10 G v. 20.7.2022 I 1174
-
-Änderung durch
-:   Art. 4 G v. 26.6.2026 I Nr. 195 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 4 G v. 26.6.2026 I Nr. 195
 
 Stand
 :   Ersetzt G 2124-8 v. 18.3.1968 I 228 (PharmTAG)

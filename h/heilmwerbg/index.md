@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 19.10.1994 I 3068;
 
 Zuletzt geändert durch
-:   Art. 7 G v. 19.7.2023 I Nr. 197
-
-Änderung durch
-:   Art. 5 G v. 26.6.2026 I Nr. 195 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 5 G v. 26.6.2026 I Nr. 195
 
 
 ## § 1

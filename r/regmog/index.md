@@ -22,9 +22,6 @@ Zuletzt geändert durch
 :   Art. 2 G v. 23.10.2024 I Nr. 322
 
 Stand
-:   Bek. v. 15.10.2026 I Nr. 325 noch nicht berücksichtigt
-
-Stand
 :   Bek. v 12.10.2023 I Nr. 293 ist berücksichtigt
 
 Stand
@@ -49,7 +46,7 @@ Stand
 :   Bek. v. 16.9.2026 I Nr. 282 ist berücksichtigt
 
 Stand
-:   Bek. v. 29.10.2026 I Nr. 325 ist berücksichtigt
+:   Bek. v. 15.10.2026 I Nr. 325 ist berücksichtigt
 
 
 ## Eingangsformel
