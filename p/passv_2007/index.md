@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2007, 2386
 
 Stand
-:   Zuletzt geändert Art. 1 V v. 30.1.2026 I Nr. 31
+:   Zuletzt geändert Art. 3 G v. 11.11.2026 I Nr. 339
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften

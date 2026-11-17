@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1990, 1078
 
 Zuletzt geändert durch
-:   Art. 497 V v. 31.8.2015 I 1474
+:   Art. 1 G v. 11.11.2026 I Nr. 338
 
 
 ## Eingangsformel
@@ -48,7 +48,7 @@ Unfällen mit Sachschaden,
     im In- oder Ausland, Art der Verkehrsbeteiligung, Monat und Jahr der
     Erteilung der Fahrerlaubnis, unerlaubtes Entfernen vom Unfallort,
     Unfallfolgen nach den Absätzen 3 und 4 sowie Art des Fehlverhaltens
-    und Grad der Alkoholeinwirkung,
+    und Grad der Cannabis- sowie Alkoholeinwirkung,
 
 3.  die Zahl der Fahrzeugbenutzer,
 
@@ -125,21 +125,17 @@ der Länder Tabellen mit statistischen Ergebnissen übermittelt werden,
 auch soweit Tabellenfelder nur einen einzigen Fall ausweisen.
 
 (2) An die zur Durchführung statistischer Aufgaben zuständigen
-Stellen der Gemeinden und Gemeindeverbände dürfen von den
-statistischen Ämtern der Länder unter den Voraussetzungen des §
-16 Abs. 5 Bundesstatistikgesetz über Unfälle, die sich in ihrem
-Zuständigkeitsbereich ereignet haben, folgende Einzelangaben
-übermittelt werden:
+Stellen der Gemeinden und Gemeindeverbände dürfen die statistischen
+Ämter der Länder unter den Voraussetzungen des § 16 Absatz 5
+des Bundesstatistikgesetzes über Unfälle, die sich in ihrem
+Zuständigkeitsbereich ereignet haben, die Einzelangaben nach § 2
+Absatz 1 Nummer 1 bis 5 mit folgenden Maßgaben übermitteln:
 
-1.  die Angaben nach § 2 Abs. 1 Nr. 1, 3 und 4,
+1.  von den Angaben nach § 2 Absatz 1 Nummer 2 nur die Angaben zu
+    Geburtsmonat/-jahr, Geschlecht, Art der Verkehrsbeteiligung,
+    Unfallfolgen nach § 2 Absatz 3 und 4 sowie Art des Fehlverhaltens,
 
-2.  die Angaben nach § 2 Abs. 1 Nr. 2 mit Ausnahme folgender Merkmale:
-
-    Staatsangehörigkeit, bei Ausländern auch nach Wohnsitz im In- oder
-    Ausland, Monat und Jahr der Erteilung der Fahrerlaubnis, unerlaubtes
-    Entfernen vom Unfallort, Grad der Alkoholeinwirkung,
-
-3.  die Angaben nach § 2 Abs. 1 Nr. 5 mit Ausnahme des
+2.  die Angaben nach § 2 Absatz 1 Nummer 5 ohne die Angabe des
     Nationalitätszeichens.
 
 (3) Für Zwecke der Unfallforschung sind der Bundesanstalt für
@@ -163,6 +159,37 @@ Infrastruktur durch Erlaß.
 Einrichtungen mit der Aufgabe unabhängiger wissenschaftlicher
 Forschung erfolgt unter den Voraussetzungen des § 16 Abs. 6
 Bundesstatistikgesetz.
+
+(5) Für Zwecke der Prävention von Verkehrsunfällen, der Analyse
+der Unfallhäufungen und Unfallursachen auf Bundesautobahnen und der
+Planung von Maßnahmen zur Beseitigung unfallbegünstigender Faktoren
+auf Bundesautobahnen übermitteln die statistischen Ämter der Länder
+der aufgrund des Infrastrukturgesellschaftserrichtungsgesetzes
+beliehenen Gesellschaft privaten Rechts monatlich und jährlich die
+Einzelangaben nach § 2 Absatz 1 mit folgenden Maßgaben:
+
+1.  von den Angaben nach § 2 Absatz 1 Nummer 2 nur die Angaben zu
+    Geburtsjahr, Art der Verkehrsbeteiligung, Unfallfolgen nach § 2 Absatz
+    3 und 4 sowie Art des Fehlverhaltens;
+
+2.  die Angaben nach § 2 Absatz 1 Nummer 4 ohne Angabe zum Geschlecht.
+
+Für die in Satz 1 genannten Zwecke werden bei der aufgrund des
+Infrastrukturgesellschaftserrichtungsgesetzes beliehenen Gesellschaft
+privaten Rechts Organisationseinheiten eingerichtet, die räumlich,
+organisatorisch und personell von anderen Aufgabenbereichen der
+Gesellschaft zu trennen sind. Die in diesen Organisationseinheiten
+tätigen Personen müssen Amtsträger oder für den öffentlichen Dienst
+besonders Verpflichtete sein. Nach Erhalt der Einzelangaben nach Satz
+1 hat die aufgrund des Infrastrukturgesellschaftserrichtungsgesetzes
+beliehene Gesellschaft unverzüglich alle Daten zu löschen,
+die sich auf Unfälle beziehen, welche sich nicht auf oder in
+räumlicher Nähe zu Bundesautobahnen ereignet haben. Die nach
+Satz 1 übermittelten Einzelangaben dürfen nicht mit anderen
+personenbezogenen Daten zusammengeführt werden. Die aus ihrer
+Tätigkeit gewonnen Erkenntnisse dürfen durch die aufgrund des
+Infrastrukturgesellschaftserrichtungsgesetzes beliehene Gesellschaft
+nur für die in Satz 1 genannten Zwecke verwendet werden.
 
 
 ## § 6

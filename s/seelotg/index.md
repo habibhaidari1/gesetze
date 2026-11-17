@@ -21,6 +21,12 @@ Neugefasst durch
 Zuletzt geändert durch
 :   Art. 72 Abs. 6 G v. 23.10.2024 I Nr. 323
 
+Änderung durch
+:   Art. 1 G v. 11.11.2026 I Nr. 339 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 2 G v. 11.11.2026 I Nr. 339 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erster Abschnitt - Allgemeine Bestimmungen
 
@@ -60,48 +66,77 @@ ermächtigt, durch Rechtsverordnung Behörden der Wasserstraßen- und
 Schifffahrtsverwaltung des Bundes als Aufsichtsbehörden zu bestimmen.
 
 
-### § 4
+### § 4 Verordnungsermächtigung
 
-Das Bundesministerium für Verkehr und digitale Infrastruktur wird
-ermächtigt, durch Rechtsverordnung
+Das Bundesministerium für Verkehr wird ermächtigt, durch
+Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
+Folgendes festzulegen:
 
-1.  die Erteilung von Lotsenausweisen zu regeln,
+1.  zur Regelung der Aus- und Fortbildung der Seelotsinnen und Seelotsen:
 
-2.  zur Regelung der Untersuchungen zur Seelotseignung Folgendes
-    festzulegen:
+    a)  die Kriterien für die Auswahl der Seelotsenanwärterinnen und
+        Seelotsenanwärter sowie deren Zulassung, insbesondere ihre
+        Qualifikation, den Aufbau, die Dauer und die Dokumentation der
+        Ausbildung, die Zuständigkeiten der ausbildenden Stellen, die
+        inhaltlichen Anforderungen an die Ausbildung und die Prüfungen, das
+        Prüfungsverfahren, insbesondere dessen Dokumentation und die Anzahl
+        der zulässigen Prüfungsversuche, die Zuständigkeit der prüfenden
+        Stellen sowie die Folgen nicht bestandener Prüfungen für die
+        Seelotsenanwärterinnen und Seelotsenanwärter,
 
-    a)  die näheren Anforderungen an die gesundheitliche Eignung für den Beruf
-        der Seelotsin oder des Seelotsen,
+    b)  Regelungen über das Verfahren und die behördliche Zuständigkeit im
+        Zusammenhang mit der Zahlung der für die Finanzierung der Ausbildung
+        erforderlichen Kosten (§ 20 Absatz 3 Satz 2) im Falle des Verzichts
+        auf die Bestallung oder des Widerrufs der Bestallung sowie die Höhe
+        der zu zahlenden Beträge,
 
-    b)  die Durchführung und den Umfang der Untersuchungen zur Seelotseignung,
+    c)  die Höhe der nach § 28 Absatz 1 Nummer 9 Buchstabe a von den
+        Brüderschaften jeweils insgesamt einzubehaltenden Beträge und die
+        Höhe des Anteils, der von der einzelnen Seelotsin oder dem einzelnen
+        Seelotsen jeweils zu tragen ist,
 
-    c)  die Ausgestaltung des Seelotseignungszeugnisses,
+    d)  die Höhe der nach § 28 Absatz 1 Nummer 9 Buchstabe d von den
+        Lotsenbrüderschaften einzubehaltenden und an die Bundeslotsenkammer
+        abzuführenden Beträge und das Verfahren für die Abführung und
+
+    e)  Art, Umfang und Nachweis verpflichtender Fortbildungen der
+        Seelotsinnen und Seelotsen zur laufenden Ergänzung der für die
+        Lotstätigkeit und die Ausbildung der Seelotsenanwärterinnen und
+        Seelotsenanwärter notwendigen Kenntnisse sowie die Kostenübernahme
+        hierfür,
+
+2.  die für den Beruf der Seelotsin oder des Seelotsen erforderlichen
+    Kenntnisse der deutschen und englischen Sprache sowie die
+    Bedingungen, das Verfahren und die Zuständigkeiten für die Prüfung der
+    Sprachkenntnisse sowie die Bescheinigung des Prüfergebnisses,
+
+3.  hinsichtlich der Seelotseignung:
+
+    a)  die Voraussetzungen, unter denen die Seelotseignung und die
+        psychologische Eignung vorliegt,
+
+    b)  die Durchführung einschließlich der abschließenden Beurteilung
+        durch eine Eignungskommission, den Umfang und die Dokumentation der
+        Seelotseignungsuntersuchungen und des psychologischen Eignungstests,
+
+    c)  die Geltungsdauer und die Ausgestaltung des Seelotseignungszeugnisses
+        und der Bescheinigung über das Ergebnis des psychologischen
+        Eignungstests,
 
     d)  die näheren Voraussetzungen für die Zulassung und Überwachung
-        von Ärztinnen und Ärzten zur Durchführung von Untersuchungen zur
-        Seelotseignung,
+        von Ärztinnen und Ärzten, die die Seelotseignungsuntersuchungen
+        durchführen, sowie den Umfang und die Anforderungen an die von ihnen
+        zu absolvierenden Fortbildungen,
 
-    e)  die Anforderungen an die Fortbildung der zugelassenen Ärztinnen und
-        Ärzte,
+    e)  die Einzelheiten der technischen Datenverarbeitung aus dem
+        Seelotseignungsverzeichnis und
 
-    f)  die Einzelheiten der technischen Datenverarbeitung aus dem
-        Seelotseignungsverzeichnis,
+    f)  die Höhe der Kosten der Seelotseignungsuntersuchung und des
+        psychologischen Eignungstests und die Kostenübernahme sowie das
+        Verfahren zur Festlegung und Erhebung der Kosten,
 
-    g)  die Kosten der Untersuchungen zur Seelotseignung und deren Übernahme
-        sowie das jeweilige Verfahren,
-
-3.  den Umfang der vorgeschriebenen Ausbildung und Prüfungen, das
-    Verfahren bei Abnahme der Prüfungen und bei Erstattung der in §
-    20 Absatz 3 Satz 2 näher bezeichneten, für die Finanzierung der
-    Ausbildung erforderlichen Kosten wegen Abbruchs der Ausbildung oder
-    wegen vorzeitigen Verzichts auf die Bestallung festzulegen,
-
-4.  Art und Umfang der Weiterbildung der Seelotsinnen und Seelotsen zur
-    laufenden Ergänzung der für die Lotstätigkeit notwendigen Kenntnisse
-    zu bestimmen,
-
-5.  das Verfahren, wie die Schiffsführung eine Seelotsin oder einen
-    Seelotsen anfordern muß, festzulegen.
+4.  das Verfahren zur Erteilung von Seelotsenanwärterausweisen und
+    Seelotsenausweisen und deren Gestaltung.
 
 
 ## Zweiter Abschnitt - Seelotswesen der Seelotsreviere

@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 5.8.1997 I 2022;
 
 Zuletzt geändert durch
-:   Art. 3 G v. 23.4.2026 I Nr. 112
-
-Änderung durch
-:   Art. 9 G v. 22.7.2026 I Nr. 222 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 9 G v. 22.7.2026 I Nr. 222
 
 
 ## § 1 Leistungsberechtigte

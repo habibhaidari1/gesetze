@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2013, 1084
 
 Zuletzt geändert durch
-:   Art. 5 G v. 3.7.2026 I Nr. 199
-
-Änderung durch
-:   Art. 10 G v. 22.7.2026 I Nr. 222 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 10 G v. 22.7.2026 I Nr. 222
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
