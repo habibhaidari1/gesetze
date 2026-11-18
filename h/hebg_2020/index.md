@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2019, 1759
 
 Zuletzt geändert durch
-:   Art. 5 G v. 12.12.2023 I Nr. 359
-
-Änderung durch
-:   Art. 1 G v. 22.7.2026 I Nr. 225 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 5 G v. 22.7.2026 I Nr. 225
 
 Stand
 :   Ersetzt G 2124-14 v. 4.6.1985 I 902 (HebG 1985)

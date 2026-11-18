@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2008, 2986
 
 Zuletzt geändert durch
-:   Art. 7 G v. 12.8.2025 I Nr. 189
-
-Änderung durch
-:   Art. 13 G v. 22.7.2026 I Nr. 224 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 13 G v. 22.7.2026 I Nr. 224
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften

@@ -7133,7 +7133,7 @@ die nach dem 31. Dezember 2021 bewirkt werden.
 (BGBl. I S. 3096) sind erstmals auf Umsätze anzuwenden, die nach
 dem 30. Juni 2021 ausgeführt werden. Die in den §§ 18i, 18j und 18k
 enthaltenen Verweise auf die §§ 3, 3a, 3c, 16, 18i, 18j, 18k und 22
-be-ziehen sich auf die jeweilige Fassung der Artikel 13 und 14 des
+beziehen sich auf die jeweilige Fassung der Artikel 13 und 14 des
 vorgenannten Gesetzes.
 
 (34) Die §§ 3 und 3a Absatz 5, die §§ 3c, 4, 5, 11, 13 Absatz 1

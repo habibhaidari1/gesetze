@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 18.3.2021 I 540
 
 Zuletzt geändert durch
-:   Art. 4 G v. 22.12.2025 I Nr. 348
-
-Änderung durch
-:   Art. 12 G v. 22.7.2026 I Nr. 224 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 12 G v. 22.7.2026 I Nr. 224
 
 Änderung durch
 :   Art. 3 G v. 30.9.2026 I Nr. 286 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
@@ -634,7 +631,7 @@ nach den Nummern 14.7, 14.8, 14.11 oder 19.13 der Anlage 1:
 
 4.  die Herstellung von Überleitstellen für Gleiswechselbetriebe,
 
-5.  die Herstellung von Gleisanschlüssen sowie Zuführungs- und
+5.  die Herstellung von Gleisanschlüssen sowie Zuführungs- Kund
     Industriestammgleisen,
 
 6.  die Errichtung von Lärmschutzwänden,

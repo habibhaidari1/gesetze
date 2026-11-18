@@ -169,7 +169,7 @@ Wahlvorstandes erforderlich ist. Sie sind vom Wahlvorsteher nach
 Absatz 3 auf ihre Verpflichtung hinzuweisen.
 
 (10) Bei Bedarf stellt die Gemeindebehörde dem Wahlvorstand die
-erforderlichen Hilfskräfte zu Verfügung.
+erforderlichen Hilfskräfte zur Verfügung.
 
 
 ### § 7 Briefwahlvorsteher und Briefwahlvorstand
@@ -1992,7 +1992,7 @@ dem Inhalt der allgemeinen Wahlurne vermengt und zusammen mit den
 der Wahlniederschrift zu vermerken.
 
 (7) Die Öffentlichkeit der Wahlhandlung sowie der Ermittlung und
-Feststellung des Wahlergebnisses soll noch Möglichkeit durch die
+Feststellung des Wahlergebnisses soll nach Möglichkeit durch die
 Anwesenheit anderer Wahlberechtigter gewährleistet werden.
 
 (8) Die Leitung der Einrichtung hat bei Kranken mit ansteckenden
@@ -2460,7 +2460,7 @@ zugelassenen und die Zahl der zurückgewiesenen Wahlbriefe sind
 in der Wahlniederschrift zu vermerken. Die zurückgewiesenen
 Wahlbriefe sind samt Inhalt auszusondern, mit einem Vermerk über
 den Zurückweisungsgrund zu versehen, wieder zu verschließen und
-fortlaufend zu numerieren. Die Einsender zurückgewiesener Wahlbriefe
+fortlaufend zu nummerieren. Die Einsender zurückgewiesener Wahlbriefe
 werden nicht als Wähler gezählt; ihre Stimmen gelten als nicht
 abgegeben (§ 39 Abs. 4 Satz 2 des Bundeswahlgesetzes).
 

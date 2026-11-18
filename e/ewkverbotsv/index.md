@@ -15,7 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2021, 95
 
-Geänderung durch
+Geändert durch
 :   Art. 3 Abs. 5 G v. 13.7.2026 I Nr. 207
 
 
