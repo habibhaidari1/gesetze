@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2021, 4744
 
 Zuletzt geändert durch
-:   Art. 4 V v. 7.9.2026 I Nr. 257, Nr. 284
+:   Art. 3 V v. 18.11.2026 I Nr. 343b
 
 
 ## Eingangsformel
@@ -719,7 +719,7 @@ ausgenommen die Schiffssicherheit
 | 27 | Erstprüfung eines Seelotsenanwärters für die Seelotsreviere | § 10 SeeLG | 193 |
 | 28 | Wiederholungsprüfung eines Seelotsanwärters für die Seelotsreviere | § 10 SeeLG | 181 |
 | 29 | Prüfung eines Bewerbers für die Tätigkeit eines Seelotsen über See oder auf Seeschifffahrtsstraßen außerhalb der Reviere | § 42 Absatz 2 SeeLG § 2 SeelotRevierV | 250 |
-| 30 | Bestallung eines Seelotsen und Ausstellung eines Seelotsenausweises zuzüglich der Gebühr nach Nummer 27 | §§ 11, 17 SeeLG § 15 Absatz 1 SeeLAuFV | 45,80 |
+| 30 | Bestallung eines Seelotsen und Ausstellung eines Seelotsenausweises zuzüglich der Gebühr nach Nummer 27, Zulassung eines Seelotsenanwärters und Ausstellung eines Seelotsenanwärterausweises | §§ 11, 17 SeeLG § 15 Absatz 1 SeeLAuFV | 45,80 |
 | 31 | Erteilung der Erlaubnis zur Lotstätigkeit außerhalb der Reviere und Ausstellung eines Lotsenausweises für Überseelotsen bzw. Seelotsen auf Seeschifffahrtsstraßen außerhalb der Reviere zuzüglich der Gebühr nach Nummer 29 | §§ 11, 17 SeeLG § 4 SeelotRevierV | 38,35 |
 | 32 | Ersatz eines Seelotsenanwärter- oder Seelotsenausweises oder des Lotsenausweises für Überseelotsen bzw. Seelotsen auf Seeschifffahrtsstraßen außerhalb der Reviere | § 15 Absatz 1 SeeLAuFV § 4 SeelotRevierV | 38,35 |
 | 33 | Befreiung von der Lotsenannahmepflicht in besonderen Fällen | § 12 Ems LV § 12 Weser/Jade-LV § 12 Elbe-LV § 16 NOK-LV § 14 WIROST-LV | 117 – 208 |
@@ -787,7 +787,7 @@ Vorbemerkungen
 | 14 | Zulassung eines Lehrgangs | § 20 Absatz 3 Satz 1 See-BV § 31 Absatz 1 Satz 1 Nummer 1b See-BV § 36 Satz 2 i. V. m. § 53 Absatz 2 Nummer 2 See-BV § 40 Absatz 1 Satz 1 Nummer 1b See-BV § 42 Absatz 3 Satz 2 See-BV  § 48 Absatz 2 See-BV § 49 Absatz 2, § 50 Absatz 2, § 50a Absatz 2 Nummer 1 erster Halbsatz See-BV § 49 Absatz 2 Nummer 2, Absatz 4 Nummer 2, Absatz 6 Nummer 2 i. V. m. § 54 Absatz 3 Nummer 1 See-BV § 50 Absatz 2 Nummer 2, Absatz 4 Nummer 2 i. V. m. § 50a Absatz 2 Nummer 1 zweiter Halbsatz, Absatz 4 Nummer 2 i. V. m. § 54 Absatz 4 Nummer 1 See-BV § 50b Absatz 2, Absatz 4 Nummer 2 i. V. m. § 54 Absatz 5 Nummer 1 See-BV § 51 Absatz 6 Satz 1 See-BV § 53 Absatz 1 Satz 1 Nummer 3 See-BV § 53 Absatz 6 Satz 1 See-BV § 53 Absatz 7 Satz 1 See-BV § 54 Absatz 3 Nummer 1 See-BV § 47 Satz 2 Nummer 3 i. V. m. § 5 Absatz 1 Satz 1 SeeEigensichV | 1 698 – 5 494 |
 | 15 | Verlängerung der Zulassung eines Lehrgangs | § 49 Absatz 2 Nummer 2, Absatz 4 Nummer 2, Absatz 6 Nummer 2 i. V. m. § 54 Absatz 3 See-BV § 50 Absatz 2 Nummer 2, Absatz 4 Nummer 2 i. V. m. § 54 Absatz 3 See-BV § 50a Absatz 2 Nummer 1, Absatz 4 Nummer 2 i. V. m. § 54 Absatz 4 See-BV § 50b Absatz 2, Absatz 4 Nummer 2 i. V. m. § 54 Absatz 5 See-BV § 53 Absatz 1 Satz 1 Nummer 3, Absatz 2 Satz 1 Nummer 2 See-BV | 499 – 3 995 |
 | 16 | Erteilung eines Seeleute-Ausweises | § 62 See-BV | 14 – 39 |
-| 17 | Gleichwertigkeitsbescheinigung | § 9 Absatz 5 Satz 1 SeeLG | 140 – 998 |
+| 17 | Gleichwertigkeitsbescheinigung | § 9a Absatz 4 Satz 1 SeeLG | 140 – 998 |
 | 18 | Anordnung des Ruhens von Bescheinigungen | § 57 Absatz 1 See-BV | 913 – 4 569 |
 | 19 | Entzug von Bescheinigungen | § 56 See-BV | 459 – 3 046 |
 | 20 | Schiffsvermessung nach den London-Regeln (entsprechend Internationalem Schiffsvermessungs-Übereinkommen von 1969) | § 9 Absatz 3 Nummer 1 i. V. m. Anlage 2 SchSV | nach Zeitaufwand |

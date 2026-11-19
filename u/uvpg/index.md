@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 18.3.2021 I 540
 
 Zuletzt geändert durch
-:   Art. 12 G v. 22.7.2026 I Nr. 224
-
-Änderung durch
-:   Art. 3 G v. 30.9.2026 I Nr. 286 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 3 G v. 30.9.2026 I Nr. 286
 
 Änderung durch
 :   Art. 5 G v. 13.10.2026 I Nr. 304 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet

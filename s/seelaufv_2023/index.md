@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2023, Nr. 49
 
+Änderung durch
+:   Art. 2 V v. 18.11.2026 I Nr. 343b textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 Stand
 :   Ersetzt V 9515-20 v. 25.2.2014 I 234 (SeeLAuFV)
 
@@ -55,6 +58,44 @@ Fähigkeiten und Fertigkeiten in den Bereichen:
 
 Die Einzelheiten zu diesen Kenntnissen, Fähigkeiten und Fertigkeiten
 ergeben sich aus dem Ausbildungsrahmenplan nach Anlage 1.
+
+
+### § 1a Begriffsbestimmungen
+
+Im Sinne dieser Verordnung ist oder sind:
+
+1.  „anleitende Seelotsinnen und anleitende Seelotsen“ Seelotsinnen
+    und Seelotsen, die während einer Ausbildungsfahrt Unterweisungen
+    durchführen,
+
+2.  „Anschubfinanzierung“ die Erstattung von Ausbildungskosten der
+    Bundeslotsenkammer aus dem Bundeshaushalt bis zu dem Zeitpunkt, zu dem
+    die Kosten aus den Ausbildungsabgaben bestritten werden können,
+
+3.  „Aufsichtsbehörde“ die Aufsichtsbehörde im Sinne der Allgemeinen
+    Lotsverordnung vom 21. April 1987 (BGBl. I. S. 1290), die zuletzt
+    durch Artikel 68 der Verordnung vom 2. Juni 2016 (BGBl. I S. 1257)
+    geändert worden ist,
+
+4.  „ausbildende Seelotsinnen und ausbildende Seelotsen“ anleitende
+    Seelotsinnen und anleitende Seelotsen, die zusätzlich theoretische
+    Anteile bei der Ausbildung von Seelotsenanwärterinnen und
+    Seelotsenanwärtern übernehmen,
+
+5.  „Ausbildungsabgabe“ ein prozentualer Anteil der Sollbetriebseinnahme,
+    der durch Anlage 7 der Verordnung näher bestimmt wird,
+
+6.  „Fixkosten“ Personal- und Sachkosten infolge der Organisation
+    und Verwaltung des revierübergreifenden und des revierbezogenen
+    Ausbildungsabschnitts und für die einheitliche Ausbildung von
+    Seelotsinnen und Seelotsen,
+
+7.  „Sollbetriebseinnahme“ das in seiner Höhe nach § 45 Absatz 3 Satz
+    3 des Seelotsgesetzes für den einzelnen Sollseelotsen bemessene
+    Lotsgeld,
+
+8.  „Sollseelotsen“ Anzahl der Seelotsen, die bei normaler Inanspruchnahme
+    im Sinne des § 45 Absatz 3 Satz 3 des Seelotsgesetzes benötigt werden.
 
 
 ### § 2 Aufbau und Dauer der Ausbildung
@@ -102,46 +143,50 @@ Tätigkeiten im jeweiligen Seelotsrevier dauert 12 Monate.
 
 ### § 3 Zulassung zur Ausbildung
 
-(1) Die Aufsichtsbehörde nach § 3 der Allgemeinen Lotsverordnung
-(Aufsichtsbehörde) hat nach Maßgabe des § 8 Absatz 2 des
-Seelotsgesetzes die erforderliche Anzahl an bewerbenden Personen
-nach dem erfolgreichen Auswahlverfahren als Seelotsenanwärterin oder
-Seelotsenanwärter zuzulassen. Sind mehr Bewerbende vorhanden als die
-erforderliche Anzahl, hat die Aufsichtsbehörde die Bewerbenden anhand
-einer Bewertungsmatrix nach Anlage 2 zu bewerten und die Bewerbenden
-mit den höchsten Bewertungen in erforderlicher Anzahl zuzulassen. Satz
-2 gilt auch für die Zulassung zur Prüfung nach § 11 Absatz 3.
+(1) Die Aufsichtsbehörde hat die erforderliche Anzahl an
+antragstellenden Personen nach Maßgabe des § 8 des Seelotsgesetzes
+nach jeweils erfolgreich abgeschlossenem Auswahlverfahren als
+Seelotsenanwärterin oder Seelotsenanwärter zuzulassen. Gibt es mehr
+antragstellende Personen als die erforderliche Anzahl nach Satz
+1, hat die Aufsichtsbehörde die antragstellenden Personen anhand
+einer Bewertungsmatrix nach Anlage 2 zu bewerten und diejenige
+antragstellende Person mit der jeweils höchsten Bewertung zuzulassen
+bis die erforderliche Anzahl an antragstellenden Personen erreicht
+ist. Eine Rangfolge der antragstellenden Personen ist nur innerhalb
+einer Bewerbergruppe für denselben Eingangs-Lotsenausbildungsabschnitt
+festzulegen. Satz 2 gilt auch für die Zulassung zur Prüfung nach § 11
+Absatz 3.
 
 (2) Die Verteilung der Seelotsenanwärterinnen und der
 Seelotsenanwärter auf die Lotsenbrüderschaften hat die
 Aufsichtsbehörde im Benehmen mit den Lotsenbrüderschaften vorzunehmen.
-Dabei sind die Belange der Lotsenbrüderschaften mit den Präferenzen
-der Bewerbenden abzuwägen, wobei soziale Gesichtspunkte berücksichtigt
-werden können.
+Dabei sind die Belange der Lotsenbrüderschaften und die Präferenzen
+der antragstellenden Personen gegeneinander abzuwägen, wobei von
+der antragstellenden Person nachgewiesene soziale Gesichtspunkte
+berücksichtigt werden können.
 
-(3) Bewerbende, die die Voraussetzungen des § 9 Absatz 1
-in Verbindung mit Absatz 4 des Seelotsgesetzes erfüllen,
-können als Seelotsenanwärterin oder Seelotsenanwärter zum
+(3) Antragstellende Personen, die die Voraussetzungen des § 9
+Absatz 1 in Verbindung mit § 9a Absatz 3 des Seelotsgesetzes
+erfüllen, können als Seelotsenanwärterin oder Seelotsenanwärter zum
 Lotsenausbildungsabschnitt 1 zugelassen werden.
 
-(4) Bewerbende, die die Voraussetzungen des § 9 Absatz 1
-in Verbindung mit Absatz 3 des Seelotsgesetzes erfüllen,
-können als Seelotsenanwärterin oder Seelotsenanwärter zum
+(4) Antragstellende Personen, die die Voraussetzungen des § 9
+Absatz 1 in Verbindung mit § 9a Absatz 2 des Seelotsgesetzes
+erfüllen, können als Seelotsenanwärterin oder Seelotsenanwärter zum
 Lotsenausbildungsabschnitt 2 zugelassen werden. Bereits zugelassene
 Seelotsenanwärterinnen und Seelotsenanwärter können nach erfolgreicher
 Prüfung nach § 10 die Ausbildung in dem Lotsenausbildungsabschnitt
 2 fortsetzen.
 
-(5) Bewerbende, die die Voraussetzungen des § 9 Absatz 1 in
-Verbindung mit Absatz 2 Nummer 1 bis 4 des Seelotsgesetzes erfüllen,
-können unter den in § 11 Absatz 3 genannten Voraussetzungen
-zur Prüfung nach § 11 Absatz 3 zugelassen werden. Mit Bestehen
-der Prüfung nach § 11 Absatz 3 können die Bewerbenden von der
-Aufsichtsbehörde als Seelotsenanwärterin oder Seelotsenanwärter
-zum Lotsenausbildungsabschnitt 3 zugelassen werden. Bereits
-zugelassene Seelotsenanwärterinnen oder Seelotsenanwärter können
-nach erfolgreicher Prüfung nach § 11 Absatz 1 die Ausbildung in dem
-Lotsenausbildungsabschnitt 3 fortsetzen.
+(5) Antragstellende Personen, die die Voraussetzungen des § 9 Absatz
+1 in Verbindung mit § 9a Absatz 1 Nummer 1 bis 4 des Seelotsgesetzes
+erfüllen, können zur Prüfung nach § 11 Absatz 3 zugelassen werden. Mit
+Bestehen der Prüfung nach § 11 Absatz 3 können die antragstellenden
+Personen von der Aufsichtsbehörde als Seelotsenanwärterin oder
+Seelotsenanwärter zum Lotsenausbildungsabschnitt 3 zugelassen werden.
+Bereits zugelassene Seelotsenanwärterinnen oder Seelotsenanwärter
+können nach erfolgreicher Prüfung nach § 11 Absatz 1 die Ausbildung in
+dem Lotsenausbildungsabschnitt 3 fortsetzen.
 
 (6) Die Dauer der Ausbildung beträgt
 
@@ -241,10 +286,9 @@ Ausbildungseinheiten sind zu durchlaufen:
 
 1.  Ausbildungsfahrten
 
-    a)  unter Anleitung von Seelotsinnen und Seelotsen, die während einer
-        Ausbildungsfahrt Unterweisungen durchführen (anleitende Seelotsinnen
-        und anleitende Seelotsen) auf in dem Seelotsrevier verkehrenden
-        Fahrzeugen sowie auf Fahrzeugen bei Distanzlotsungen,
+    a)  unter Anleitung von anleitenden Seelotsinnen und Seelotsen auf in
+        dem Seelotsrevier verkehrenden Fahrzeugen sowie auf Fahrzeugen bei
+        Distanzlotsungen,
 
     b)  im Bereich der Seeschiffsassistenz,
 
@@ -423,7 +467,7 @@ liegt insbesondere vor,
 
 2.  wenn die Lotsenbrüderschaft eine Verkürzung auf mindestens acht Monate
     für besonders befähigte Seelotsenanwärterinnen oder Seelotsenanwärter
-    beantragt, die die Zulassungsvoraussetzungen nach § 9 Absatz 2 des
+    beantragt, die die Zulassungsvoraussetzungen nach § 9a Absatz 1 des
     Seelotsgesetzes erfüllen.
 
 
@@ -432,11 +476,8 @@ liegt insbesondere vor,
 (1) Anleitende Seelotsinnen und anleitende Seelotsen müssen eine
 Schulung nach Anlage 4 Abschnitt 1 absolvieren.
 
-(2) Anleitende Seelotsinnen und anleitende Seelotsen, die zusätzlich
-theoretische Anteile in der Ausbildung der Seelotsenanwärterinnen
-und Seelotsenanwärter übernehmen (ausbildende Seelotsinnen und
-ausbildende Seelotsen), müssen eine Schulung nach Anlage 4 Abschnitt
-2 absolvieren.
+(2) Ausbildende Seelotsinnen und Seelotsen müssen eine Schulung nach
+Anlage 4 Abschnitt 2 absolvieren.
 
 (3) Ausbildende Seelotsinnen und ausbildende Seelotsen sollen
 mindestens zwei Jahre als anleitende Seelotsin oder anleitender
@@ -519,13 +560,13 @@ sofern die Voraussetzungen für die Zulassung erfüllt sind:
 die Aufsichtsbehörde zu unterrichten. Die Ausbildung kann nicht
 fortgesetzt werden.
 
-(3) Bewerbende, die die Voraussetzungen des § 9 Absatz 1 und
-Absatz 2 Nummer 1 bis 4 des Seelotsgesetzes nachweisen, können
-abweichend von Absatz 1 zur praktischen Prüfung zum Abschluss des
-Lotsenausbildungsabschnitts 2 von der Aufsichtsbehörde zugelassen
-werden, wenn ein entsprechender Bedarf an Seelotsenanwärterinnen und
-Seelotsenanwärtern nach § 8 Absatz 2 des Seelotsgesetzes festgestellt
-wurde.
+(3) Antragstellende Personen, die die Voraussetzungen des § 9 Absatz
+1 in Verbindung mit § 9a Absatz 1 Nummer 1 bis 4 des Seelotsgesetzes
+nachweisen, können abweichend von Absatz 1 zur praktischen
+Prüfung zum Abschluss des Lotsenausbildungsabschnitts 2 von der
+Aufsichtsbehörde zugelassen werden, wenn ein entsprechender Bedarf an
+Seelotsenanwärterinnen und Seelotsenanwärtern nach § 8 Absatz 1 Satz 1
+des Seelotsgesetzes festgestellt wurde.
 
 (4) Die Lotsenbrüderschaft und die Aufsichtsbehörde stimmen sich über
 den Prüfungstermin ab und teilen diesen der Bundeslotsenkammer mit.
@@ -674,8 +715,8 @@ nächstfolgenden Prüfungstermin fortgeführt werden.
 Wiederholungsprüfung nicht, kann die Ausbildung nicht fortgesetzt
 werden. Eine weitere Wiederholung der Prüfung ist nur in besonderen
 Ausnahmefällen auf Antrag der Seelotsenanwärterin oder des
-Seelotsenanwärters mit Genehmigung des Bundesministeriums für
-Digitales und Verkehr zulässig.
+Seelotsenanwärters mit Genehmigung des Bundesministeriums für Verkehr
+zulässig.
 
 
 ### § 16 Rücktritt von der Prüfung
@@ -724,28 +765,31 @@ betroffenen Prüfungsteils nicht mehr zulässig.
 Alkohol- oder Betäubungsmitteleinfluss stehende Seelotsenanwärterin
 oder einen offensichtlich erkennbar unter Alkohol- oder
 Betäubungsmitteleinfluss stehenden Seelotsenanwärter nach deren
-Anhörung von der weiteren Prüfung auszuschließen. Die Leitung der
-Prüfungskommission hat die betroffene Seelotsenanwärterin oder
-den betroffenen Seelotsenanwärter aufzufordern, einen ärztlichen
-Nachweis zu erbringen, dass die Seelotsenanwärterin oder der
-Seelotsenanwärter zum Zeitpunkt der Prüfung nicht unter Alkohol- und
-Betäubungsmitteleinfluss gestanden hat. Wird dieser Nachweis nicht
-erbracht, kann die Ausbildung nicht fortgesetzt werden.
+Anhörung von der weiteren Prüfung auszuschließen. Soweit der Einfluss
+von Alkohol oder Betäubungsmitteln verneint wurde, hat die Leitung
+der Prüfungskommission die betroffene Seelotsenanwärterin oder den
+betroffenen Seelotsenanwärter aufzufordern, einen ärztlichen Nachweis
+zu erbringen, dass er oder sie zum Zeitpunkt der Prüfung nicht unter
+Alkohol- oder Betäubungsmitteleinfluss gestanden hat. Kann aufgrund
+des ärztlichen Nachweises nicht ausgeschlossen werden, dass der oder
+die Betroffene während der Prüfung unter dem Einfluss von Alkohol
+oder Betäubungsmitteln stand oder wird dieser Nachweis nicht erbracht,
+darf die Ausbildung nicht fortgesetzt und die Prüfung nicht wiederholt
+werden.
 
 
-### § 18 Kostenerstattung bei Bestallungsverzicht
+### § 18 Kostenerstattung bei Verzicht auf die Bestallung und bei Widerruf der Bestallung
 
 (1) Verzichtet eine Seelotsin oder ein Seelotse ohne wichtigen Grund
 auf die Rechte aus der Bestallung binnen fünf Jahren nach ihrer
-Erteilung, sind die für die Finanzierung der Ausbildung erforderlichen
-Kosten für die Unterhaltsbeiträge und die Aufwendungen für die
-sächliche und personelle Umsetzung der Ausbildungsinhalte an die
-Lotsenbrüderschaft zurückzuerstatten. Einem Verzicht auf die Rechte
-aus der Bestallung steht es gleich, wenn eine Seelotsenanwärterin
-oder ein Seelotsenanwärter nach § 3 Absatz 3 nach erfolgreich
-abgeschlossenem Masterstudium der Fachrichtung Seelotswesen nach § 4
-Absatz 1 die Bestallung ohne Vorliegen eines wichtigen Grundes nicht
-erlangt.
+Erteilung oder wird die Bestallung in diesem Zeitraum nach § 14 Absatz
+1 des Seelotsgesetzes widerrufen, so sind die Lotsgeldanteile nach
+§ 20 Absatz 3 des Seelotsgesetzes von ihr oder ihm zu zahlen. Einem
+Verzicht auf die Rechte aus der Bestallung steht es gleich, wenn
+eine Seelotsenanwärterin oder ein Seelotsenanwärter nach § 3 Absatz
+3 nach erfolgreich abgeschlossenem Masterstudium der Fachrichtung
+Seelotswesen nach § 4 Absatz 1 die Bestallung ohne Vorliegen eines
+wichtigen Grundes nicht erlangt.
 
 (2) Ein wichtiger Grund nach Absatz 1 Satz 1 und 2 liegt vor,
 wenn der Grund auf von der Seelotsin oder dem Seelotsen, der
@@ -762,23 +806,98 @@ zurückzusenden sind.
 angehörte oder der die Seelotsenanwärterin oder der Seelotsenanwärter
 von der Aufsichtsbehörde zugewiesen wurde, setzt die zu erstattenden
 Beträge nach Maßgabe des § 20 Absatz 3 des Seelotsgesetzes durch
-Verwaltungsakt fest. Die festgesetzten Beträge müssen die zu
-erwartenden, aber nicht abgeführten Lotsgeldanteile vollständig
-ausgleichen und dürfen deren Gesamtsumme nicht übersteigen. Nach
-Zahlungseingang kehrt sie die Beträge an die Bundeslotsenkammer aus,
-die diese für die Zwecke der Ausbildung zu verwenden hat.
+Verwaltungsakt fest. Die von der Aufsichtsbehörde festzusetzenden und
+einzuziehenden Beträge müssen die zu erwartende, aber nicht abgeführte
+Ausbildungsabgabe nach § 18b auf Basis der im Jahr des Verzichts
+oder Widerrufs geltenden Sollbetriebseinnahme einer Seelotsin oder
+eines Seelotsen vollständig ausgleichen und dürfen deren Gesamtsumme
+nicht übersteigen. Nach Zahlungseingang kehrt sie die Beträge an die
+Bundeslotsenkammer aus, die diese für die Zwecke der Ausbildung zu
+verwenden hat.
 
 (4) Die Gewährung von ratenweiser Abzahlung der festgesetzten Beträge
 nach Absatz 3 ist möglich. Die Vollstreckung richtet sich nach den
 Vorschriften des Verwaltungsvollstreckungsgesetzes.
 
 
-### § 19 Seelotsenanwärterausweis und Seelotsenausweis
+### § 18a Finanzierung der Ausbildung
+
+(1) Die Sach- und Personalaufwendungen zur Durchführung der
+Seelotsenausbildung nach den Lotsenausbildungsabschnitten 1 und 2 hat
+die Bundeslotsenkammer zu tragen. Die Ausbildung im Sinne des Satz
+1 wird nach einer Anlaufphase, die durch eine Anschubfinanzierung
+des Bundes getragen wird, durch den Einbehalt von festgelegten
+Einkommensanteilen der ausgebildeten Seelotsinnen und Seelotsen
+finanziert. Daneben werden die Fixkosten vom Bund getragen.
+
+(2) Werden aus den der Bundeslotsenkammer für die Seelotsenausbildung
+nach Absatz 1 Satz 1 zur Verfügung gestellten Mitteln Sach- und
+Personalaufwendungen zur Durchführung der Seelotsenausbildung im
+Lotsenausbildungsabschnitt 3 getragen, sind die entstandenen Kosten
+der Bundeslotsenkammer von den Lotsenbrüderschaften zu erstatten. Über
+die Kostenverteilung entscheidet die Bundeslotsenkammer.
+
+(3) Die Ausgaben der Bundeslotsenkammer werden nach Maßgabe einer
+Verwaltungsvereinbarung zwischen dem Bundesministerium für Verkehr
+und der Bundeslotsenkammer aus dem Bundeshaushalt erstattet. Die
+Verwaltungsvereinbarung regelt die Modalitäten über die Art und Höhe
+der Mittelbereitstellung sowie über die Abrechnung und Verwendung der
+Haushaltsmittel des Bundes für die Seelotsenausbildung.
+
+
+### § 18b Verfahren zur Finanzierung
+
+(1) Seelotsinnen und Seelotsen, die seit dem 1. Dezember 2022 nach
+§ 3 Absatz 1 zur Ausbildung zugelassen worden sind, tragen für einen
+Zeitraum von fünf Jahren ab der Bestallung mit einer Ausbildungsabgabe
+zur Finanzierung der revierübergreifenden und der revierbezogenen
+Lotsenausbildungsabschnitte bei, sofern sie an der Verteilung der
+Lotsgelder teilnehmen. Seelotsinnen und Seelotsen, die ausschließlich
+die Ausbildung nach § 2 Absatz 1 Nummer 3 absolviert haben, tragen
+jeweils die Hälfte der Ausbildungsabgabe.
+
+(2) Die Lotsenbrüderschaften behalten quartalsweise die
+Ausbildungsabgabe von dem Lotsgeld ein, das der Seelotsin oder dem
+Seelotsen nach Abzug der Beträge nach § 28 Absatz 1 Nummer 9 Buchstabe
+a bis c des Seelotsgesetzes zusteht. Die Lotsenbrüderschaften führen
+die einbehaltene Ausbildungsabgabe an die Bundeslotsenkammer ab.
+
+(3) Unterschreitet der Lotsgeldanteil nach Absatz 2 75 Prozent der
+Sollbetriebseinnahme des Quartals, so wird die Ausbildungsabgabe ganz
+oder teilweise bis zum Ablauf des Zeitraums nach Absatz 1 gestundet.
+
+(4) Mit der nach Absatz 3 gestundeten Ausbildungsabgabe wird nach
+Ablauf des in Absatz 1 festgelegten Zeitraums nach Maßgabe des Absatz
+2 verfahren. Absatz 3 gilt entsprechend mit der Maßgabe, dass die
+Stundung zu dem Zeitpunkt und in der Höhe endet, an dem das der
+Seelotsin oder dem Seelotsen zustehende Lotsgeld im Sinne des Absatzes
+2 in einem Quartal 75 Prozent der dann geltenden Sollbetriebseinnahme
+überschreitet.
+
+(5) Die Lotsenbrüderschaft unterrichtet betroffene Mitglieder
+quartalsweise über die Höhe der einbehaltenen Ausbildungsabgabe
+und die Höhe der gestundeten Ausbildungsabgabe. Die gestundete
+Ausbildungsabgabe wird als Gesamtsumme aufgeführt.
+
+(6) Die Bundeslotsenkammer verwendet die abgeführte Ausbildungsabgabe
+ausschließlich für die Zwecke der revierübergreifenden und
+revierbezogenen Ausbildung. Dazu führt sie ein besonderes Konto,
+über dessen Entwicklung sie dem Bundesministerium für Verkehr
+jährlich berichtet. Sie zahlt davon die Unterhaltsbeiträge an die
+Seelotsenanwärterinnen und Seelotsenanwärter aus, die sich in der
+revierübergreifenden oder der revierbezogenen Ausbildung befinden. Sie
+prüft sachlich und rechnerisch die Anträge der Lotsenbrüderschaften
+auf Mittelzuweisung für deren Maßnahmen für die revierübergreifende
+und revierbezogene Ausbildung und weist die Mittel in erforderlicher
+Höhe zu.
+
+
+### § 19 Ausweis für Seelotsinnen und Seelotsen sowie Seelotsenanwärterinnen und Seelotsenanwärter
 
 (1) Die Aufsichtsbehörde hat für jede Seelotsenanwärterin und
 jeden Seelotsenanwärter einen Seelotsenanwärterausweis und für jede
 Seelotsin und jeden Seelotsen einen Seelotsenausweis nach den Mustern
-der Anlage 7 auszustellen. Ein Seelotsenanwärterausweis ist im Falle
+der Anlage 8 auszustellen. Ein Seelotsenanwärterausweis ist im Falle
 einer Bestallung bei der Aufsichtsbehörde in einen Seelotsenausweis
 umzutauschen und der Seelotsenanwärterausweis ist anschließend von der
 Aufsichtsbehörde unverzüglich zu vernichten.
@@ -829,7 +948,7 @@ die Seelots- und Ausbildungstätigkeit notwendigen Kenntnisse in
 regelmäßigen Abständen zu vertiefen und zu ergänzen. Die Fortbildung
 erfolgt durch theoretische Kurse und praktische Übungen auf bemannten
 Schiffsmodellen oder an Schiffsführungssimulatoren anhand eines in
-Modulen aufgegliederten Fortbildungsrahmenplans nach Anlage 8. Der
+Modulen aufgegliederten Fortbildungsrahmenplans nach Anlage 9. Der
 Fortbildungsrahmenplan legt die Fortbildungsinhalte, Zeitdauer und
 Wiederholungsfrist der Module fest.
 
@@ -839,17 +958,17 @@ Aufsichtsbehörde anerkannten Schiffsführungssimulatoren.
 
 ### § 22 Fortbildungsplan
 
-Der Fortbildungsrahmenplan nach Anlage 8 ist unter Berücksichtigung
+Der Fortbildungsrahmenplan nach Anlage 9 ist unter Berücksichtigung
 der revierbezogenen Besonderheiten durch einen von den
 Lotsenbrüderschaften zu erstellenden Fortbildungsplan umzusetzen.
 Die Lotsenbrüderschaft hat die im Fortbildungsplan aufgenommenen
 Lehrgänge anhand des Musters der Lehrgangsbeschreibung nach Anlage
-9 zu beschreiben. Der Fortbildungsplan ist auf Verlangen der
+10 zu beschreiben. Der Fortbildungsplan ist auf Verlangen der
 Aufsichtsbehörde anzupassen, insbesondere bei technischen oder
 wissenschaftlichen Entwicklungen auf dem Gebiet der Schifffahrtskunde.
 
 
-### § 23 Nachweis
+### § 23 Nachweis über die Teilnahme an Fortbildungsveranstaltungen
 
 Jede Seelotsin und jeder Seelotse hat die Teilnahme an den in den
 jeweiligen Fortbildungsplänen der Lotsenbrüderschaften vorgesehenen
@@ -861,42 +980,21 @@ verpflichtet, die von der Aufsichtsbehörde nach Ende ihrer Prüfung der
 Lotsenbrüderschaft unverzüglich zurückzusenden sind.
 
 
-### § 24 Fortbildung für die Ausbildung von Seelotsenanwärterinnen und Seelotsenanwärtern
+### § 24 Kosten für die Fortbildung der anleitenden Seelotsinnen und Seelotsen
 
-(1) Die Sach- und Personalkosten zur Durchführung der Fortbildungen
+Die Sach- und Personalkosten zur Durchführung der Fortbildungen
 nach Anlage 4 hat die Bundeslotsenkammer zu tragen. Die dadurch
 entstehenden Ausgaben bei der Bundeslotsenkammer werden aus dem
-Bundeshaushalt erstattet.
-
-(2) Vor Beginn eines jeden Haushaltsjahres hat die Bundeslotsenkammer
-der Aufsichtsbehörde einen Finanzierungsplan zur Genehmigung
-vorzulegen. Nach dessen Prüfung und Genehmigung soll die
-Aufsichtsbehörde der Bundeslotsenkammer quartalsweise zum 15.
-Januar, 15. April, 15. Juli und 15. Oktober des Haushaltsjahres
-je 25 Prozent der im Finanzierungsplan für das Haushaltsjahr
-veranschlagten Ausgaben zur Verfügung zu stellen. Spätestens bis zum
-dritten Werktag des folgenden Quartals hat die Bundeslotsenkammer
-der Aufsichtsbehörde die Verwendungsnachweise des vorausgegangenen
-Quartals über die entstandenen Ausgaben zur Prüfung zur Verfügung
-stellen und anzuzeigen, ob und inwieweit überwiesene Mittel im
-Quartal nicht verausgabt worden sind. Nicht verausgabte Mittel
-sind unverzüglich zurückzuzahlen. Abweichend von Satz 4 kann die
-Aufsichtsbehörde auf Antrag der Bundeslotsenkammer bei der nächsten
-Quartalszahlung den nach Satz 4 zurückzuzahlenden Betrag von der
-Quartalszahlung abziehen. Bei fehlender Anzeige und Rückerstattung
-sind die nicht verausgabten Mittel ab dem 16. des auf das Quartalsende
-folgenden Monats mit einem Zinssatz von 5 Prozentpunkten über dem
-Basiszinssatz jährlich zu verzinsen. Zum Abschluss des vierten
-Quartals hat die Bundeslotsenkammer statt eines Quartalsabschlusses
-einen Jahresabschluss zu erstellen. In dem Jahresabschluss hat
-die Bundeslotsenkammer eine abschließende Prüfung und Verrechnung
-vorzunehmen und die nicht verausgabten Mittel sind an die
-Aufsichtsbehörde noch im selben Haushaltsjahr zurückzuzahlen.
+Bundeshaushalt erstattet. Art und Höhe der Mittelbereitstellung
+sowie das Nähere zur Abrechnung und Verwendung der Haushaltsmittel
+des Bundes für die Seelotsenausbildung werden in einer
+Verwaltungsvereinbarung mit der Bundeslotsenkammer geregelt.
 
 
 ### Anlage 1 (zu § 1 Absatz 2)Ausbildungsrahmenplan
 
-(Fundstelle: BGBl 2023 I Nr. 49, S. 12 - 24)
+(Fundstelle: BGBl 2023 I Nr. 49, S. 12 - 24;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Der Ausbildungsrahmenplan beschreibt den inhaltlichen
 Ausbildungsumfang für die umfassende Qualifizierung zum Seelotsen.
@@ -908,10 +1006,11 @@ bedingt neben einer soliden Wissensbasis und kognitiven Fähigkeiten
 insbesondere das praktisch-anwendungsorientierte Handeln.
 
 Die Ausbildungsziele werden im Rahmenplan als Kenntnisse, Fähigkeiten
-und Fertigkeiten beschrieben, ergänzend mit taxonomischen Verben nach
-BLOOM in ihrer Ausprägung eingestuft. Nur wenn ein taxonomisches Verb
-in der u. a. Spalte des jeweiligen Ausbildungsabschnitts verwendet
-wird, wird der jeweilige Inhalt auch vermittelt.
+und Fertigkeiten beschrieben, ergänzend mit taxonomischen Verben
+nach BLOOM in der Hierarchie nach ANDERSON und KRAFTWOHL in ihrer
+Ausprägung eingestuft. Nur wenn ein taxonomisches Verb in der u. a.
+Spalte des jeweiligen Ausbildungsabschnitts verwendet wird, wird der
+jeweilige Inhalt auch vermittelt.
 
 Der Einsatz taxonomischer Verben dient der Ordnung, sie gliedern sich
 nach logischen Kriterien und klassifizieren die Ausbildungsinhalte
@@ -920,53 +1019,19 @@ nach Lernzieltiefe in sechs Stufen.
 Die folgende Aufzählung der Lernstufen gibt einen Überblick in die
 Ordnung taxonomischer Verben.
 
-Stufe 1
-
-Wissen Taxonomische Verben im Ausbildungsrahmenplan: benennen
-
-       Synonym: angeben, aufschreiben, aufzählen, aufzeichnen, ausführen,
-       benennen, beschreiben, bezeichnen, darstellen, reproduzieren,
-       vervollständigen, zeichnen, zeigen, wiedergeben
-
-Stufe 2
-
-Verstehen Taxonomische Verben im Ausbildungsrahmenplan: beschreiben, einordnen
-
-          Synonym: begründen, einordnen, ordnen, unterscheiden, vergleichen,
-          wiedergeben, beschreiben
-
-Stufe 3
-
-Anwendung Taxonomische Verben im Ausbildungsrahmenplan: interpretieren,
-          ausführen
-
-          Synonym: anwenden, aufstellen, ausführen, berechnen, bestimmen,
-          interpretieren, unterscheiden, verdeutlichen
-
-Stufe 4
-
-Analyse Taxonomische Verben im Ausbildungsrahmenplan: analysieren,
-        klassifizieren
-
-        Synonym: ableiten, analysieren, einkreisen, gegenüberstellen,
-        gliedern, isolieren, klassifizieren, zerlegen, zuordnen
-
-Stufe 5
-
-Synthese Taxonomische Verben im Ausbildungsrahmenplan: entwickeln,
-         zusammenstellen
-
-         Synonym: abfassen, aufbauen, entwerfen, entwickeln, gestalten,
-         kombinieren, konstruieren, lösen, organisieren, zusammenstellen
-
-Stufe 6
-
-Beurteilung Taxonomische Verben im Ausbildungsrahmenplan: bewerten, beurteilen,
-            differenzieren, auswerten
-
-            Synonym: auswerten, beurteilen, bewerten, differenzieren, entscheiden,
-            qualifizieren, urteilen, vergleichen, vertreten, widerlegen, folgern,
-            gewichten, vereinfachen
+| Stufe 1 |  |
+| --- | --- |
+| **Wissen** | Taxonomische Verben im Ausbildungsrahmenplan: benennen Synonym: angeben, aufschreiben, aufzählen, aufzeichnen, ausführen, benennen, bezeichnen, darstellen, reproduzieren, vervollständigen, zeichnen, zeigen, wiedergeben |
+| Stufe 2 |  |
+| **Verstehen** | Taxonomische Verben im Ausbildungsrahmenplan: beschreiben, einordnen Synonym: begründen, einordnen, ordnen, unterscheiden, vergleichen, beschreiben |
+| Stufe 3 |  |
+| **Anwendung** | Taxonomische Verben im Ausbildungsrahmenplan: interpretieren, ausführen Synonym: anwenden, aufstellen, ausführen, berechnen, bestimmen, interpretieren |
+| Stufe 4 |  |
+| **Analyse** | Taxonomische Verben im Ausbildungsrahmenplan: analysieren, klassifizieren Synonym: ableiten, analysieren, einkreisen, gegenüberstellen, gliedern, isolieren, klassifizieren, zerlegen, zuordnen |
+| Stufe 5 |  |
+| **Kreativität** | Taxonomische Verben im Ausbildungsrahmenplan: entwickeln, zusammenstellen Synonym: aufbauen, entwerfen, entwickeln, gestalten, kombinieren, konstruieren, lösen, organisieren, zusammenstellen |
+| Stufe 6 |  |
+| **Beurteilung** | Taxonomische Verben im Ausbildungsrahmenplan: bewerten, beurteilen, differenzieren, auswerten Synonym: auswerten, beurteilen, bewerten, differenzieren, entscheiden, qualifizieren, urteilen, vergleichen, vertreten, widerlegen, folgern |
 
 Im Folgenden bedeuten
 
@@ -1189,43 +1254,38 @@ LA 3: Lotsenausbildungsabschnitt 3.
 |  |  | Lotsgeld und Lotsabgabe auf Grundlage der Lotstarifverordnung | – | – | bestimmen |
 
 
-### Anlage 2 (zu § 3 Absatz 1)Bewertungsmatrix im Auswahlverfahren
+### Anlage 2 (zu § 3 Absatz 1)Vorlage zur Erstellung einer Bewertungsmatrix für das Auswahlverfahren
 
-(Fundstelle: BGBl. 2023 I Nr. 49, S. 25)
+(Fundstelle: BGBl. 2026 I Nr. 343b, S. 8)
 
-Eine Reihung findet nur innerhalb einer Bewerbergruppe für denselben
-Eingangs-Lotsenausbildungsabschnitt statt.
+| Lotsenausbildungsabschnitt 1 | höchstmögliche Punktzahl |
+| --- | --- |
+| Seelotseignungsuntersuchung | 50 |
+| Kenntnisse der englischen Sprache | 10 |
+| Beherrschen der deutschen Sprache | 10 |
+| Bachelorabschluss (NWO) | 20 |
+| Gesamt max. | 90 |
 
-| LA 1 |  | höchste Punktzahl |
-| --- | --- | --- |
-| Eignungsuntersuchung |  | 40 |
-| Kenntnisse der englischen Sprache |  | 10 |
-| Beherrschen der deutschen Sprache |  | 10 |
-| Geburtsjahrgang |  | 10 |
-| Höchstes Abschlusszeugnis |  |  |
-| – allgemeinbildende Schule |  | 5 |
-| ODER |  |  |
-| – Bachelorabschluss der Hochschule (NWO) |  | 10 |
-| Fahrtzeit als NWO |  | 10 |
-| Präferenzpunkte der Lotsenbrüderschaft |  | 15 |
-| Gesamt max. |  | 105 |
-
-| LA 3 und LA 2 |  | höchste Punktzahl |
-| --- | --- | --- |
-| Eignungsuntersuchung |  | 35 |
-| Kenntnisse der englischen Sprache |  | 10 |
-| Beherrschen der deutschen Sprache |  | 10 |
-| Geburtsjahrgang |  | 10 |
-| Abschlusszeugnis der Fach- bzw. Hochschule |  | 5 |
-| Dienststellung an Bord |  | 7,5 |
-| Fahrtzeiten, Schiffsgröße |  | 7,5 |
-| Präferenzpunkte der Lotsenbrüderschaft |  | 15 |
-| Gesamt max. |  | 100 |
+| Lotsenausbildungsabschnitt 2 und 3 | höchstmögliche Punktzahl |
+| --- | --- |
+| Seelotseignungsuntersuchung | 35 |
+| Kenntnisse der englischen Sprache | 5 |
+| Beherrschen der deutschen Sprache | 5 |
+| Geburtsjahrgang | 5 |
+| Abschlusszeugnis (Fachschule oder Hochschule) | 5 |
+| Dienststellung an Bord | 17 |
+| Fahrtzeiten | 10 |
+| Nur bei Lotsenausbildungsabschnitt 3: |  |
+| Ergebnis der Prüfung nach § 11 Absatz 3 | 18 |
+| Gesamt max. |  |
+| Lotsenausbildungsabschnitt 2: | 82 |
+| Lotsenausbildungsabschnitt 3: | 100 |
 
 
-### Anlage 3 (zu § 7 Absatz 2)Bewertungsmaßstab
+### Anlage 3 (zu § 7 Absatz 2)Bewertung der Leistungen in der Ausbildung
 
-(Fundstelle: BGBl. 2023 I Nr. 49, S. 26)
+(Fundstelle: BGBl. 2023 I Nr. 49, S. 26;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 **Abschnitt 1 Bewertung der Leistungen in den Ausbildungsfahrten**
 
@@ -1254,10 +1314,11 @@ Ausbildungsfahrten werden wie folgt bewertet:
     nicht entspricht und die Grundlagen so lückenhaft sind, dass die
     Mängel in absehbarer Zeit nicht behoben werden können.
 
-**Abschnitt 2 Bewertung der Ausbildungsfahrten**
+**Abschnitt 2 Bewertung der Ausbildungsfahrten und
+Simulationsübungen**
 
 Die Bewertung der Leistung in den Ausbildungsfahrten erfolgt in
-folgenden Kriterien:
+folgenden Kriterien.
 
 Auf jeder Ausbildungsfahrt sind zu bewerten
 
@@ -1267,8 +1328,10 @@ Auf jeder Ausbildungsfahrt sind zu bewerten
 
 – Eigenschutz
 
-– Sozialverhalten (Stresstoleranz, Motivation, Kontrollüberzeugung,
-    Zuverlässigkeit, Empathie, Offenheit, Rollenbewusstsein).
+– Sozialverhalten (Stresstoleranz, Motivation, Zuverlässigkeit,
+    Empathie, Rollenbewusstsein, Kritikfähigkeit).
+
+Bei Simulationsübungen gilt Satz 2 nicht.
 
 Zu bewerten sind außerdem folgende individuelle Kriterien, die je nach
 Verlauf der Ausbildungsfahrt und dem Ausbildungsstand der Anwärterin
@@ -1321,9 +1384,10 @@ Liegt ein Kriterium darunter, ist die Gesamtbewertung „nicht
 geeignet“.
 
 
-### Anlage 4 (zu § 9)Inhalte für die Schulung der anleitenden Lotsen, Basis-Schulung
+### Anlage 4 (zu § 9)Inhalte für die Schulung anleitender Seelotsinnen und Seelotsen, Basis-Schulung
 
-(Fundstelle: BGBl. 2023 I Nr. 49, S. 27 - 30)
+(Fundstelle: BGBl. 2023 I Nr. 49, S. 27 - 30;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 **Abschnitt 1 Inhalte für die Schulung der anleitenden Lotsen, Basis-
 Schulung**
@@ -1418,9 +1482,10 @@ und Seelotsen, Aufbauschulung**
 | Durchführung einer Lehrprobe und anschließendes Feedback |  |  |
 
 
-### Anlage 5 (zu den §§ 10 und 11)Prüfungszeugnis Lotsenausbildungsabschnitt 1 und 2
+### Anlage 5 (zu den §§ 10 und 11)Prüfungszeugnis über die Lotsenausbildungsabschnitte 1 und 2
 
-(Fundstelle: BGBl. 2023 I Nr. 49, S. 31)
+(Fundstelle: BGBl. 2023 I Nr. 49, S. 31;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 | Bundeslotsenkammer/Lotsenbrüderschaft | [Logo] |
 | --- | --- |
@@ -1444,9 +1509,10 @@ Zulassung zum Lotsenausbildungsabschnitt 3 bestanden.
 |  | Leitung der Prüfungskommission |
 
 
-### Anlage 6 (zu § 12)Prüfungszeugnis über die Befähigung zur Seelotsin/zum Seelotsen
+### Anlage 6 (zu § 12)Prüfungszeugnis über die Befähigung zur Seelotsin oder zum Seelotsen
 
-(Fundstelle: BGBl. 2023 I Nr. 49, S. 32)
+(Fundstelle: BGBl. 2023 I Nr. 49, S. 32;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 | Generaldirektion Wasserstraßen und Schifffahrt | [Logo] |
 | --- | --- |
@@ -1468,9 +1534,45 @@ bestanden.
 |  | Leitung der Prüfungskommission |
 
 
-### Anlage 7 (zu § 19)Ausweis für Seelotsinnen und Seelotsen sowie Seelotsenanwärterinnen und Seelotsenanwärter
+### Anlage 7 (zu § 18b)Ausbildungsabgabe
 
-(Fundstelle: BGBl. 2023 I Nr. 49, S. 33 - 34)
+(Fundstelle: BGBl. 2026 I Nr. 343b, S. 9)
+
+Die Ausbildungsabgabe bei Teilnahme an der Lotsgeldverteilung beträgt
+von der jeweils geltenden Sollbetriebseinnahme im Fall des § 18b
+Absatz 1 Satz 1 im
+
+– ersten bis zwölften Monat nach Bestallung 25 Prozent
+
+– dreizehnten bis vierundzwanzigsten Monat nach Bestallung 20 Prozent
+
+– fünfundzwanzigsten bis sechsunddreißigsten Monat nach Bestallung 15
+    Prozent
+
+– siebenunddreißigsten bis achtundvierzigsten Monat nach Bestallung
+    10 Prozent
+
+– neunundvierzigsten bis sechzigsten Monat nach Bestallung 5 Prozent und
+
+im Fall des § 18b Absatz 1 Satz 2 im
+
+– ersten bis zwölften Monat nach Bestallung 12,5 Prozent
+
+– dreizehnten bis vierundzwanzigsten Monat nach Bestallung 10 Prozent
+
+– fünfundzwanzigsten bis sechsunddreißigsten Monat nach Bestallung 7,5
+    Prozent
+
+– siebenunddreißigsten bis achtundvierzigsten Monat nach Bestallung
+    5 Prozent
+
+– neunundvierzigsten bis sechzigsten Monat nach Bestallung 2,5 Prozent
+
+
+### Anlage 8 (zu § 19)Muster des Ausweises für Seelotsinnen und Seelotsen sowie für Seelotsenanwärterinnen und Seelotsenanwärter
+
+(Fundstelle: BGBl. 2023 I Nr. 49, S. 33 - 34;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 7\.1 Muster des Ausweises für Seelotsinnen und Seelotsen
 
@@ -1494,9 +1596,10 @@ Rückseite:
 ![bgbl1_2023_j00490_0040.jpg](bgbl1_2023_j00490_0040.jpg)
 
 
-### Anlage 8 (zu § 21)Fortbildungsrahmenplan
+### Anlage 9 (zu § 21)Fortbildungsrahmenplan
 
-(Fundstelle: BGBl. 2023 I Nr. 49, S. 35 - 37)
+(Fundstelle: BGBl. 2023 I Nr. 49, S. 35 - 37;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 | Modul | Inhalte | Zeitrichtwert |
 | --- | --- | --- |
@@ -1544,10 +1647,11 @@ Rückseite:
 |  | Konzepte und Strategien zu Fehlermanagement |  |
 |  | Strategien zur Entscheidungsfindung |  |
 | Recht | Analyse und Auswertung von Gesetzen und Rechtsvorschriften das Seelotswesen betreffend | 2 Tage/ 5 Jahre |
-| Aktuelle Informationen zum Revier von Seiten der Wasser- und Schifffahrtsverwaltung des Bundes |  |  |
-| Rechtliche Grundlagen sowie Aufgaben, Rechte und Pflichten der Wasser- und Schifffahrtsverwaltung des Bundes, insbesondere der Verkehrszentralen |  |  |
+| Aktuelle Informationen zum Revier von Seiten der Wasserstraßen- und Schifffahrtsverwaltung des Bundes |  |  |
+| Rechtliche Grundlagen sowie Aufgaben, Rechte und Pflichten der Wasserstraßen- und Schifffahrtsverwaltung des Bundes, insbesondere der Verkehrszentralen |  |  |
 |  | Systemkonzept maritime Verkehrssicherheit deutsche Küste, Hintergrund und Module |  |
 |  | Aufgaben und Dienste der Maritimen Verkehrssicherung |  |
+|  | Aufgaben und Pflichten im Bereich der zivil-militärischen Zusammenarbeit, des Heimatschutzes, der Landesverteidigung und der Resilienzerhöhung |  |
 |  | Kommunikation mit Verkehrszentralen, Zusammenwirken der beteiligten Parteien an Land und an Bord im Revier |  |
 | Lotsdienst und Selbstverwaltung | Durchführung der Landradarberatung nach standardisierter Syntax (ISSUS „Hamburger Modell“) | 2 Tage/ 5 Jahre |
 | Aufgaben bei der Radarberatung von Land |  |  |
@@ -1560,9 +1664,10 @@ Rückseite:
 | Train the Trainer | nach Anlage 4 Abschnitt 1 und Anlage 4 Abschnitt 2 | je 4 Tage/ 5 Jahren |
 
 
-### Anlage 9 (zu § 22)Muster Lehrgangsbeschreibung
+### Anlage 10 (zu § 22)Muster Lehrgangsbeschreibung
 
-(Fundstelle: BGBl. 2023 I Nr. 49, S. 38)
+(Fundstelle: BGBl. 2023 I Nr. 49, S. 38;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 | **Name des Lehrganges** | Kurstitel |
 | --- | --- |

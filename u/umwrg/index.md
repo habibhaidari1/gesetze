@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 23.8.2017 I 3290;
 
 Zuletzt geändert durch
-:   Art. 14b G v. 22.12.2023 I Nr. 405
-
-Änderung durch
-:   Art. 1 G v. 30.9.2026 I Nr. 286 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 1 G v. 30.9.2026 I Nr. 286
 
 
 ## § 1 Anwendungsbereich

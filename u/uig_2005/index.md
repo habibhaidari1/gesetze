@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 27.10.2014 I 1643;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 25.2.2021 I 306
-
-Änderung durch
-:   Art. 5 G v. 30.9.2026 I Nr. 286 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+:   Art. 5 G v. 30.9.2026 I Nr. 286
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
